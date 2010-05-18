@@ -1,0 +1,34 @@
+DELIMITERS = "<$.>";
+
+LIST noun = n;
+LIST inflected = vfle;
+LIST infinitive = vinf;
+LIST preposition = p;
+LIST particle = part;
+LIST adjective = a;
+LIST conjunction = c;
+LIST nmnoun = (n nm);
+LIST prequal = "ofnadwy" "andros";
+
+SECTION
+
+remove:DeleteNmNoun nmnoun if (not -1 ("yn" "fy"));
+
+select:ChooseInfin infinitive if (-1 ("yn" stat));
+
+select:ChooseStativeYn ("yn" stat) if ((1 infinitive) or (1 adjective));
+
+select:ChoosePrepYn ("yn" p) if (1 (t));
+
+select:ChooseArtY ("y" t) if (not 1 inflected);
+
+select:ChooseO_Of ("o" :of:) if (-1 prequal)(1 adjective);
+
+#select particle if (@1 ("a")) (not @-1 ("."));
+
+
+
+
+
+
+
