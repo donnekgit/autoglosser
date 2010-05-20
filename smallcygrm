@@ -4,7 +4,7 @@ LIST noun = n;
 LIST inflected = vfle;
 LIST infinitive = vinf;
 LIST preposition = p;
-LIST particle = part;
+LIST interrogative = part-int;
 LIST adjective = a;
 LIST conjunction = c;
 LIST nmnoun = (n nm);
@@ -24,11 +24,13 @@ select:ChooseArtY ("y" t) if (not 1 inflected);
 
 select:ChooseO_Of ("o" :of:) if (-1 prequal)(1 adjective);
 
-#select particle if (@1 ("a")) (not @-1 ("."));
+select:ChooseAInt interrogative if (@1 ("a")) (not @-1 ("<.>"));
 
+select:ChoosePrepI ("i" p) if (1 (sm));
 
+select:ChoosePrnIAfterDw ("i" r) if (-1 ("bod" 1s present spoken));
 
-
+select ("bod" future) if (not 1 ("yn" stat));
 
 
 
