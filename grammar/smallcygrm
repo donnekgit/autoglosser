@@ -1,0 +1,52 @@
+DELIMITERS = "<.>" "<!>" "<?>";
+
+LIST noun = n;
+LIST inflected = vfle;
+LIST infinitive = vinf;
+LIST preposition = p;
+LIST pronoun = r;
+LIST interrogative = part-int;
+LIST adjective = a;
+LIST conjunction = c;
+LIST nmnoun = (n nm);
+LIST prequal = "ofnadwy" "andros";
+
+SECTION
+
+#Particles
+
+select:ChooseStativeYn ("yn" stat) if ((1 infinitive) or (1 adjective));
+select:ChooseAInt interrogative if (@1 ("a")) (not @-1 ("<.>"));
+select:ChooseArtY ("y" t) if (not 1 inflected);
+select ("ddim" b) if (-1 pronoun) (-2 inflected);
+
+#Prepositions
+
+select:ChoosePrepYn ("yn" p) if (1 (t));
+select:ChoosePrepYn ("yn" p) if (1 ("ystod"));
+#select:ChoosePrepI ("i" p) if (1 (sm));
+select:ChooseO_Of ("o" :of:) if (-1 prequal)(1 adjective);
+
+#Pronouns
+
+select:ChoosePrnIAfterDw ("i" r) if (-1 ("bod" 1s present spoken));
+
+#Nouns
+
+remove:DeleteNmNoun nmnoun if (not -1 ("yn" "fy"));
+select ("ystod" :range:) if (1 ("yn" p));
+
+#Verbs
+select ("bod" future) if (not 1 ("yn" stat));
+select:ChooseInfin infinitive if (-1 ("yn" stat));
+
+
+
+
+
+
+
+
+
+
+

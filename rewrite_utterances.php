@@ -1,7 +1,7 @@
 <?php
 
 /*
-Copyright Kevin Donnelly 2009.
+Copyright Kevin Donnelly 2010.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -17,21 +17,21 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-$db_handle=pg_connect('host=localhost dbname=siarad user=kevin password=kevindbs');
+$fp = fopen("outputs/".$utterances.".txt", "w") or die("Can't create the file");
 
-include("includes/fns.php");
-
-$sql="select * from stammers4_utterances order by utterance_id";
+$sql="select * from $utterances order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$newutt=clean_utterance($row->welsh);
-	echo "(".$row->utterance_id.") ".$row->welsh."\n";
-	echo $newutt."\n";
-	echo "===========================\n";
+	$oldutt="(".$row->utterance_id.") ".$row->welsh."\n";
+	$newutt=clean_utterance($row->welsh)."\n\n";
+	echo $oldutt;
+	echo $newutt;
+
+	fwrite($fp, $oldutt);
+	fwrite($fp, $newutt);
 
 	$welsh_bits=explode(' ', $newutt);
-    //array_pop($welsh_bits); // drops the sentence-final punctuation mark???  do we want to do this?
     //print_r($welsh_bits);
     $i=1;   
     foreach ($welsh_bits as $welsh_value)
@@ -51,13 +51,13 @@ while ($row=pg_fetch_object($result))
 
         $welsh_word=trim(pg_escape_string($welsh_word)); 
 		//echo $row->utterance_id." - ".$i." - ".$welsh_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."<br />";
-        $sql_w="insert into cgwords (utterance_id, location, welsh, langid, speaker, chafile) values ('$row->utterance_id', '$i', '$welsh_word', '$langid', '$row->speaker', '$row->chafile')";
+        $sql_w="insert into $words (utterance_id, location, welsh, langid, speaker, sourcefile) values ('$row->utterance_id', '$i', '$welsh_word', '$langid', '$row->speaker', '$row->chafile')";
         $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");       
         $i=++$i;
         
     }
     
-	if ($row->gloss != null) // don't bother looking for glosses if there are none there
+	if ($row->gloss != null) // don't bother looking for glosses if there are none there - check this: should be:- is not null?
 	{
 		$gloss_bits=explode(' ', $row->gloss);
 		$j=1;
@@ -65,7 +65,7 @@ while ($row=pg_fetch_object($result))
 		{        
 			//echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
 			$gloss_value=trim(pg_escape_string($gloss_value));  // to deal with errant LRs on a few of the entries
-			$sql_g="update cgwords set gloss='$gloss_value', glossloc=$j where utterance_id=$row->utterance_id and location=$j";
+			$sql_g="update $words set gloss='$gloss_value', glossloc=$j where utterance_id=$row->utterance_id and location=$j";
 			$result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");       
 			$j=++$j;	
 		}
@@ -73,5 +73,6 @@ while ($row=pg_fetch_object($result))
 	unset($newutt);
 }
 
+fclose($fp);
 
 ?>

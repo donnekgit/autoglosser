@@ -1,0 +1,44 @@
+list words that do not have gloss entries:
+select welsh, count(welsh) from stammers4_cgwords where gloss is null group by welsh order by count desc
+but this is not accurate, because manual glosses have been added - this doesn't mean that the items are in cylist
+
+CREATE TABLE cylist_add (
+    id integer NOT NULL,
+    surface character varying(100),
+    lemma character varying(100),
+    pos character varying(20),
+    gender character varying(20),
+    num character varying(50),
+    tense character varying(100),
+    reg character varying(50),
+    enlemma character varying(100),
+    mutation character varying(20)
+);
+CREATE SEQUENCE cylist_add_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+ALTER SEQUENCE cylist_add_id_seq OWNED BY cylist.id;
+ALTER TABLE cylist_add ALTER COLUMN id SET DEFAULT nextval('cylist_add_id_seq'::regclass);
+ALTER TABLE ONLY cylist_add ADD CONSTRAINT cylist_add_pkey PRIMARY KEY (id);
+CREATE INDEX cylist_add_surface ON cylist_add USING btree (surface);
+
+egrep 'unk' outputs/stammers4_cg_applied.txt > unk.txt
+
+cylist has 416862 entries
+insert into cylist (surface, lemma, pos, gender, num, tense, reg, enlemma, mutation) select surface, lemma, pos, gender, num, tense, reg, enlemma, mutation from cylist_add
+
+
+
+
+
+
+
+
+
+
+
+
+
