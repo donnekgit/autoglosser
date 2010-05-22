@@ -18,7 +18,11 @@ SECTION
 select:ChooseStativeYn ("yn" stat) if ((1 infinitive) or (1 adjective));
 select:ChooseAInt interrogative if (@1 ("a")) (not @-1 ("<.>"));
 select:ChooseArtY ("y" t) if (not 1 inflected);
-select ("ddim" b) if (-1 pronoun) (-2 inflected);
+select ("ddim" b) if (-1 pronoun) (-2 inflected)
+select ("ddim" b) if (-1 inflected);
+select ("mor" :so:) if (not 2 ("â" c));
+select ("mor" a) if (2 ("â" c));
+select ("â" c) if (-2 ("mor" a));
 
 #Prepositions
 
@@ -26,6 +30,9 @@ select:ChoosePrepYn ("yn" p) if (1 (t));
 select:ChoosePrepYn ("yn" p) if (1 ("ystod"));
 #select:ChoosePrepI ("i" p) if (1 (sm));
 select:ChooseO_Of ("o" :of:) if (-1 prequal)(1 adjective);
+select ("i" p) if (not -1 inflected);
+select ("allan" b) if (-1 ("sefyll") or ("mynd"));
+select ("wedi" p) if (1 infinitive);
 
 #Pronouns
 
@@ -35,6 +42,7 @@ select:ChoosePrnIAfterDw ("i" r) if (-1 ("bod" 1s present spoken));
 
 remove:DeleteNmNoun nmnoun if (not -1 ("yn" "fy"));
 select ("ystod" :range:) if (1 ("yn" p));
+select ("ysgol" :school:) if (-1 ("y" t)) (-2 ("yn" p));
 
 #Verbs
 select ("bod" future) if (not 1 ("yn" stat));
