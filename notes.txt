@@ -27,11 +27,19 @@ CREATE INDEX cylist_add_surface ON cylist_add USING btree (surface);
 
 egrep 'unk' outputs/stammers4_cg_applied.txt > unk.txt
 
+Adding new entries:
 cylist has 416862 entries
+delete from cylist where id > 416862
 insert into cylist (surface, lemma, pos, gender, num, tense, reg, enlemma, mutation) select surface, lemma, pos, gender, num, tense, reg, enlemma, mutation from cylist_add
 
 
 
+
+
+
+fargain
+broblem
+tagged as @0, but by definition these cannot be English, since they are mutated
 
 
 

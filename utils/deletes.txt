@@ -1,1 +1,56 @@
+delete from cylist where id=
+select * from cylist where surface=' '
+
 401287 cyhoeddus
+413040 cynnig
+407150 cynnig
+403616 cynnig
+401450 heb (eb)
+change 387838 to vfle
+change 387698 cyfer to n m s direction
+391278 ti
+401645 pobl
+401592 parod
+405675 tipyn
+401116 caled
+416839 paratoi
+401817 trylwyr
+405984 tŷ
+change 393964 sy to vfle bod
+401760 tebyg
+	"cynnau" vinf sm :light: 413037
+	"penderfynu" vinf sm :decide: 415106
+	"pob" a sm :each: 401643
+	"penderfyniad" n sm m s :decision: 405061
+	"cei" n sm m s :quay: 402683
+	"trio" vinf sm :try: 410215
+	"pen" n sm m s :head: 405043
+	"cael" vinf sm :get: 410378
+	"cael" vinf sm :have: 410356
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
