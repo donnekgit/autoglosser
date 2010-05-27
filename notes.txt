@@ -39,6 +39,10 @@ insert into cylist (surface, lemma, pos, gender, num, tense, reg, enlemma, mutat
 
 fargain
 broblem
+bity
+dop
+drombone
+fass
 tagged as @0, but by definition these cannot be English, since they are mutated
 
 

@@ -27,6 +27,12 @@ change 393964 sy to vfle bod
 	"pen" n sm m s :head: 405043
 	"cael" vinf sm :get: 410378
 	"cael" vinf sm :have: 410356
+	"trio" vinf sm :try: 410215
+
+	"teimlad" n sm m s :feeling: 405627
+	"tebygol" a sm :probable: 409339
+	"tebygol" a sm :likely: 401763
+
 
 
 

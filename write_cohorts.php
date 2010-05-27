@@ -84,7 +84,7 @@ while ($row=pg_fetch_object($result))
 		}
 		echo $entry;
 	}
-	elseif ($row->langid=='0')
+	elseif ($row->langid=='0' or $row->langid=='2')
 	{
 		unset($entry);
 

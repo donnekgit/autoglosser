@@ -1,15 +1,6 @@
 #!/bin/sh
 
-sed -e 'N;s/\n\s\t//;P;D;' < new/UZ.txt | \
-sed -e 'N;s/\n\s\t//;P;D;' | \
-sed -e 'N;s/\n\s\t//;P;D;' | \
-sed -e 'N;s/\n\s\t//;P;D;' | \
-sed -e 's/\[.*\?\]//g' | \
-sed -e "s/’/'/g" | \
-sed -e "s/‘/'/g" | \
-sed -e 's/–/-/g' | \
-sed -e 's/‑/-/g' | \
-sed -e 's/²//g' | \
-sed -e 's/³//g' | \
-sed -e 's/…/ ... /g' | \
-sed -e '/^.*$/a\ ' > new/first.txt
+sed -e 'N;s/\n\t/ /;P;D;' < outputs/stammers4_cg_applied.txt | \
+sed -e 'N;s/\n\t/ /;P;D;' | \
+sed -e 'N;s/\n\t/ /;P;D;' | \
+sed -e 's/\s[0-9]\{6\}//g' > outputs/cgfinished.txt

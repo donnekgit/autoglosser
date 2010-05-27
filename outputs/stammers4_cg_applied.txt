@@ -35,7 +35,7 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<meddwl>"
@@ -45,7 +45,7 @@
 "<Andrew>"
 	"Andrew" name
 "<o_gwmpas>"
-	"o_gwmpas" p :around: 417061
+	"o_gwmpas" p :around: 417252
 "<ar_gyfer>"
 	"ar_gyfer" p :for: 392792
 "<y>"
@@ -69,11 +69,10 @@
 "<dod>"
 	"dod" vinf :come: 394002
 "<i_fewn>"
-	"i_fewn" p :in: 417102
+	"i_fewn" p :in: 417295
 "<yn>"
-	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<ystod>"
-	"ystod" n f s :span (of space or time): 391329
 	"ystod" n f s :range: 390965
 "<y>"
 	"y" t :the: 416862
@@ -88,7 +87,7 @@
 "<nos>"
 	"nos" n f s :night: 385616
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<yn>"
@@ -104,17 +103,17 @@
 "<um>"
 	"um" i
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<i_fewn>"
-	"i_fewn" p :in: 417102
+	"i_fewn" p :in: 417295
 "<.>"
 
 "<ond>"
@@ -132,16 +131,13 @@
 "<nos>"
 	"nos" n f s :night: 385616
 "<Fawrth>"
-	"Mawrth" n sm m s :Tuesday: 417078
-	"Mawrth" n sm m s :Mars: 407480
-	"Mawrth" n sm m s :March: 407279
+	"Mawrth" n sm m s :Tuesday: 417269
 "<a>"
 	"a" c :and: 387415
 "<nos>"
 	"nos" n f s :night: 385616
 "<Fercher>"
-	"Mercher" n sm m s :Wednesday: 417079
-	"Mercher" n sm f s :Mercury (planet): 409157
+	"Mercher" n sm m s :Wednesday: 417270
 "<.>"
 
 "<oh>"
@@ -151,17 +147,16 @@
 "<!>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<heb>"
 	"heb" p :without: 386181
 "<gynnig>"
-	"cynnig" vinf sm :offer: 413040
 	"cynnig" vinf sm :offer: 413039
 "<yn>"
 	"yn" stat :stative: 391257
@@ -171,7 +166,7 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<heb>"
@@ -191,7 +186,7 @@
 "<a>"
 	"a" c :and: 387415
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<y>"
 	"y" t :the: 416862
 "<gwir>"
@@ -199,14 +194,13 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
@@ -230,19 +224,19 @@
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<fedri>"
 	"medru" vfle sm 2s present :be: 325706
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<i>"
 	"i" p :to: 391198
 "<bob_dim>"
-	"bob_dim" n m s :everything: 417074
+	"bob_dim" n m s :everything: 417265
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<fedri>"
 	"medru" vfle sm 2s present :be: 325706
 "<?>"
@@ -250,23 +244,23 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<.>"
 
 "<a>"
 	"a" c :and: 387415
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
 	"wedi" p :after: 386262
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<.>"
 
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<wnes>"
 	"gwneud" vfle sm 1s past spoken :do: 196995
 "<i>"
@@ -304,11 +298,10 @@
 "<well>"
 	"well" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<.>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<hi>"
 	"hi" r :she/it: 391323
@@ -319,19 +312,19 @@
 "<.>"
 
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<hi>"
 	"hi" r :she/it: 391323
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<angen>"
 	"angen" n m s :need: 388523
 "<ei>"
 	"ei" a :her: 391205
 "<pherswadio>"
-	"perswadio" vinf am :persuade: 417093
+	"perswadio" vinf am :persuade: 417284
 "<bod>"
 	"bod" vinf :be: 394007
 "<angen>"
@@ -339,17 +332,15 @@
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<!>"
 
 "<chwech>"
 	"chwech" a :six (6): 392912
 "<o>"
-	"fo" r m s :he/it: 417088
 	"o" p :of: 391277
-	"o" p :from: 391197
 "<bobl>"
 	"pobl" n sm f s :people: 401644
 "<pan>"
@@ -361,19 +352,19 @@
 "<wneud>"
 	"gwneud" vinf sm :make: 410353
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<.>"
 
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<licio>"
@@ -401,7 +392,7 @@
 "<wneud>"
 	"gwneud" vinf sm :make: 410353
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<so>"
 	"so" q
 "<mae>"
@@ -415,13 +406,14 @@
 "<.>"
 
 "<dyn>"
-	"bod" vfle 3p present spoken :be: 417086
+	"bod" vfle 3p present spoken :be: 417277
 "<nhw>"
 	"nhw" r :they: 386255
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<broblem>"
 	"broblem" n
 "<felly>"
@@ -429,13 +421,13 @@
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<.>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<am>"
 	"am" p :for: 387453
 "<sgwennu>"
@@ -466,13 +458,13 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<i>"
@@ -488,7 +480,7 @@
 "<fydd>"
 	"bod" vfle sm 3s future :be: 334222
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<barod>"
@@ -498,7 +490,7 @@
 "<erbyn>"
 	"erbyn" p :by: 387870
 "<Dolig>"
-	"Nadolig" n m s :Christmas: 417089
+	"Nadolig" n m s :Christmas: 417280
 "<felly>"
 	"felly" b :so: 387887
 "<neu>"
@@ -564,9 +556,9 @@
 "<ei>"
 	"ei" a :his: 391194
 "<gyfer>"
-	"cyfer" n sm m s :direction: 417090
+	"cyfer" n sm m s :direction: 417281
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<.>"
 
 "<mmhm>"
@@ -581,6 +573,7 @@
 	"Brian" name
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<Brian>"
@@ -604,7 +597,7 @@
 "<baratoi>"
 	"paratoi" vinf sm :prepare: 416838
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<ofnadwy>"
@@ -612,7 +605,6 @@
 "<o>"
 	"o" p :of: 391277
 "<drylwyr>"
-	"trylwyr" a sm :thorough: 401817
 	"trylwyr" a sm :thorough: 401816
 "<.>"
 
@@ -623,11 +615,11 @@
 "<oh>"
 	"oh" i
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<fydd>"
 	"bod" vfle sm 3s future :be: 334222
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<siwtio>"
@@ -639,7 +631,7 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<hwyr>"
@@ -651,13 +643,13 @@
 "<.>"
 
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<ryw>"
@@ -665,7 +657,7 @@
 "<hapus>"
 	"hapus" a :happy: 387963
 "<o_gwbl>"
-	"o_gwbl" b :at_all: 417062
+	"o_gwbl" b :at_all: 417253
 "<bod>"
 	"bod" vinf :be: 394007
 "<y>"
@@ -681,13 +673,13 @@
 "<cyrraedd>"
 	"cyrraedd" vinf :arrive: 395255
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<licio>"
@@ -711,7 +703,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<wneud>"
@@ -729,7 +721,7 @@
 "<wnest>"
 	"wnest" unk
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<sôn>"
 	"sôn" vinf :mention: 397034
 "<wrtho>"
@@ -739,7 +731,7 @@
 "<heddiw>"
 	"heddiw" b :today: 387966
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<bod>"
 	"bod" vinf :be: 394007
 "<yna>"
@@ -753,31 +745,31 @@
 "<?>"
 
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 "<.>"
 
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 "<.>"
 
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<rhy>"
 	"rhy" a :too: 391212
 "<bell>"
 	"pell" a sm :far: 401602
 "<allan>"
-	"gallu" vfle sm 3p future spoken :be: 290760
+	"allan" b :out: 387449
 "<.>"
 
 "<rhy>"
@@ -801,7 +793,7 @@
 "<tŷ>"
 	"tŷ" n m s :house: 390778
 "<un_ai>"
-	"un_ai" q :or: 417105
+	"un_ai" q :or: 417298
 "<ym>"
 	"ym" p :in (with following m): 391260
 "<Mangor>"
@@ -813,7 +805,7 @@
 "<yr>"
 	"y" t :the: 391262
 "<cyfeiriad>"
-	"cyfeiriad" n m s :address: 389094
+	"cyfeiriad" n m s :direction: 385347
 "<yna>"
 	"yna" b :there: 388369
 "<.>"
@@ -833,7 +825,7 @@
 "<oh>"
 	"oh" i
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 	"oes" n f s :age: 390173
 "<pam>"
 	"pam" b :why?: 388121
@@ -888,10 +880,9 @@
 "<dyna>"
 	"dyna" b :that is: 387833
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<ei>"
 	"ei" a :her: 391205
-	"ei" a :his: 391194
 "<bwriad>"
 	"bwriad" n m s :intention: 388786
 "<hi>"
@@ -903,9 +894,9 @@
 "<wnaeth>"
 	"gwneud" vfle sm 3s past :do: 334257
 "<o>"
-	"fo" r m s :he/it: 417088
+	"o" p :of: 391277
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<diolch>"
 	"diolch" n m s :thanks: 389398
 "<am>"
@@ -933,7 +924,7 @@
 "<be>"
 	"be" i :what: 387592
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<um>"
 	"um" i
 "<.>"
@@ -980,9 +971,9 @@
 "<um>"
 	"um" i
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -998,7 +989,7 @@
 "<rywbeth>"
 	"rhywbeth" n sm m s :something: 401737
 "<debyg>"
-	"tebyg" a sm :similar: 401761
+	"tebyg" a sm :likely: 401761
 "<.>"
 
 "<awn>"
@@ -1024,7 +1015,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<efo>"
 	"efo" p :with: 387846
 "<yr>"
@@ -1032,7 +1023,7 @@
 "<piano>"
 	"piano" n
 "<gynnau>"
-	"cynnau" vinf sm :light: 413037
+	"gynnau" b sm :just_now: 417305
 	"cynnau" vinf sm :light: 413036
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
@@ -1049,14 +1040,13 @@
 "<Charlie>"
 	"Charlie" name
 "<benderfynu>"
-	"penderfynu" vinf sm :decide: 415106
 	"penderfynu" vinf sm :decide: 415105
 "<be>"
 	"be" i :what: 387592
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<wneud>"
@@ -1088,7 +1078,7 @@
 "<fo>"
 	"fo" r :he/it (N): 391322
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<ie>"
@@ -1104,14 +1094,12 @@
 "<angen>"
 	"angen" n m s :need: 388523
 "<ymarfer>"
-	"ymarfer" vinf :practice: 397535
 	"ymarfer" n f s :exercise: 390833
 "<deg>"
 	"deg" a :ten (10): 393218
 "<munud>"
 	"munud" n m s :minute (time): 391155
 "<bob>"
-	"pob" a sm :each: 401643
 	"pob" a sm :each: 401642
 "<dydd>"
 	"dydd" n m s :day (named): 391042
@@ -1120,24 +1108,19 @@
 "<a>"
 	"a" c :and: 387415
 "<ei>"
-	"ei" a :her: 391205
 	"ei" a :his: 391194
-	"mynd" vfle 2s present :go: 116641
 "<er>"
 	"er" i
 "<benderfyniad>"
-	"penderfyniad" n sm m s :decision: 405061
 	"penderfyniad" n sm m s :decision: 405060
 "<o>"
-	"fo" r m s :he/it: 417088
-	"o" p :of: 391277
-	"o" p :from: 391197
+	"fo" r m s :he/it: 417279
 "<neu>"
 	"neu" c :or: 386257
 "<ateb>"
 	"ateb" vfle 3s present :answer: 146221
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<erbyn>"
 	"erbyn" p :by: 387870
 "<diwedd>"
@@ -1145,13 +1128,13 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -1175,7 +1158,6 @@
 "<.>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<fo>"
 	"fo" r :he/it (N): 391322
@@ -1196,7 +1178,7 @@
 "<yr>"
 	"y" t :the: 391262
 "<wsnos>"
-	"wsnos" unk
+	"wythnos" n f s spoken :week: 417292
 "<i>"
 	"i" p :to: 391198
 "<mi>"
@@ -1212,7 +1194,8 @@
 "<!>"
 
 "<doniol>"
-	"doniol" unk
+	"doniol" a :funny: 417306
+	"doniol" a :funny: 417293
 "<!>"
 
 "<a>"
@@ -1222,7 +1205,7 @@
 "<innau>"
 	"innau" r :I also: 388010
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<.>"
 
 "<well>"
@@ -1232,7 +1215,7 @@
 "<wnei>"
 	"gwneud" vfle sm 2s present :do: 308470
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<deg>"
 	"deg" a :ten (10): 393218
 "<munud>"
@@ -1252,7 +1235,7 @@
 "<munud>"
 	"munud" n m s :minute (time): 391155
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -1260,13 +1243,12 @@
 "<gei>"
 	"cael" vfle sm 2s present :get: 308449
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<ddeg>"
 	"deg" a sm :ten (10): 409174
 "<ceiniog>"
 	"ceiniog" n f s :penny: 388907
 "<bob>"
-	"pob" a sm :each: 401643
 	"pob" a sm :each: 401642
 "<diwrnod>"
 	"diwrnod" n m s :day (24 hours): 391326
@@ -1283,7 +1265,7 @@
 "<yna>"
 	"yna" b :there: 388369
 "<chwe_deg>"
-	"chwe_deg" num :sixty: 417058
+	"chwe_deg" num :sixty: 417249
 "<ceiniog>"
 	"ceiniog" n f s :penny: 388907
 "<am>"
@@ -1299,13 +1281,13 @@
 "<?>"
 
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 "<.>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<iawn>"
@@ -1323,9 +1305,10 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<fargain>"
 	"fargain" n
 "<oedd>"
@@ -1353,7 +1336,7 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<ddeg>"
@@ -1381,7 +1364,7 @@
 "<hefyd>"
 	"hefyd" b :also: 386188
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<yeah>"
@@ -1393,15 +1376,13 @@
 "<wedyn>"
 	"wedyn" b :afterwards: 388339
 "<dwn>"
-	"dwn" unk
+	"gwybod" vfle 1s present spoken :know: 417294
 "<ddim>"
-	"ddim" b :not (after verb): 391363
-	"dim" n sm m s :nought: 409056
-	"dim" n sm m s :zero: 409054
+	"ddim" b :not: 391363
 "<parith>"
 	"paru" vfle 3s future spoken :pair: 165014
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<.>"
 
 "<mae>"
@@ -1411,7 +1392,6 @@
 "<ni>"
 	"ni" r :we: 386259
 "<drio>"
-	"trio" vinf sm :try: 410215
 	"trio" vinf sm :try: 410214
 "<rywbeth>"
 	"rhywbeth" n sm m s :something: 401737
@@ -1434,7 +1414,7 @@
 "<heno>"
 	"heno" b :tonight: 387973
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -1450,7 +1430,7 @@
 "<fynegi>"
 	"mynegi" vinf sm :express: 414944
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 "<?>"
 
 "<wnaeth>"
@@ -1462,7 +1442,7 @@
 "<right>"
 	"right" a
 "<gry>"
-	"gry" unk
+	"cryf" a sm spoken :strong: 417299
 "<.>"
 
 "<on>"
@@ -1480,7 +1460,7 @@
 "<dda>"
 	"da" a sm :good: 416860
 "<really>"
-	"da" a sm :good: 416860
+	"really" b
 "<.>"
 
 "<da>"
@@ -1492,7 +1472,7 @@
 "<um>"
 	"um" i
 "<yn_de>"
-	"yn_de" e :isn''t_it: 417052
+	"yn_de" e :isn''t_it: 417243
 "<?>"
 
 "<yeah>"
@@ -1500,7 +1480,7 @@
 "<.>"
 
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<um>"
 	"um" i
 "<.>"
@@ -1516,13 +1496,13 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<dod>"
 	"dod" vinf :come: 394002
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<rywle>"
 	"rhywle" n sm m s :somewhere: 401741
 "<arall>"
@@ -1532,13 +1512,13 @@
 "<ni>"
 	"ni" r :we: 386259
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<ond>"
@@ -1556,12 +1536,11 @@
 "<i>"
 	"i" p :to: 391198
 "<ben>"
-	"pen" n sm m s :head: 405043
 	"pen" n sm m s :head: 405042
 "<.>"
 
 "<yndyn>"
-	"yndyn" unk
+	"bod" vfle 3p present spoken :be: 417309
 "<.>"
 
 "<so>"
@@ -1581,15 +1560,15 @@
 "<os>"
 	"os" c :if (likely): 392047
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
 	"gwybod" vinf :know (fact): 393993
 "<rhein>"
-	"rhein" unk
+	"rhain" r spoken :these: 417300
 "<.>"
 
 "<mis>"
@@ -1597,11 +1576,11 @@
 "<Mawrth>"
 	"Mawrth" n m s :March: 391799
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<raid>"
 	"rhaid" n sm m s :necessity: 405476
 "<iddo>"
@@ -1609,7 +1588,7 @@
 "<ddechrau>"
 	"dechrau" vinf sm :begin: 413369
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yr>"
 	"y" t :the: 391262
 "<dechrau>"
@@ -1621,11 +1600,11 @@
 "<fod>"
 	"bod" vinf sm :be: 410380
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<i_lawr>"
-	"i_lawr" p :down: 417065
+	"i_lawr" p :down: 417256
 "<yn>"
 	"yn" stat :stative: 391257
 "<dda>"
@@ -1645,9 +1624,9 @@
 "<os>"
 	"os" c :if (likely): 392047
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<cael>"
@@ -1663,7 +1642,6 @@
 "<hi>"
 	"hi" r :she/it: 391323
 "<gael>"
-	"cael" vinf sm :have: 410356
 	"cael" vinf sm :have: 410355
 "<felly>"
 	"felly" b :so: 387887
@@ -1724,7 +1702,7 @@
 "<yeah>"
 	"yeah" i
 "<wrth_gwrs>"
-	"wrth_gwrs" b :of_course: 417053
+	"wrth_gwrs" b :of_course: 417244
 "<!>"
 
 "<achos>"
@@ -1748,7 +1726,7 @@
 "<llall>"
 	"llall" r :other: 388023
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<yeah>"
@@ -1767,7 +1745,6 @@
 	"well" i
 "<gawn>"
 	"cael" vfle sm 1p present :get: 214964
-	"cael" vfle sm 1s imperfect :get: 196980
 "<ni>"
 	"ni" r :we: 386259
 "<weld>"
@@ -1775,13 +1752,11 @@
 "<sut>"
 	"sut" i :how: 388259
 "<eith>"
-	"eith" unk
+	"mynd" vfle 3s future spoken :go: 417310
 "<o>"
-	"fo" r m s :he/it: 417088
-	"o" p :of: 391277
-	"o" p :from: 391197
+	"fo" r m s :he/it: 417279
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<mmm>"
@@ -1795,12 +1770,11 @@
 "<i>"
 	"i" p :to: 391198
 "<deimlad>"
-	"teimlad" n sm m s :feeling: 405627
 	"teimlad" n sm m s :feeling: 405626
 "<wneith>"
 	"gwneud" vfle sm 3s future :do: 334256
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ymarfer>"
 	"ymarfer" vinf :practice: 397535
 "<y>"
@@ -1820,14 +1794,9 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<debygol>"
-	"tebygol" a sm :probable: 409339
-	"tebygol" a sm :probable: 409338
-	"tebygol" a sm :likely: 401763
 	"tebygol" a sm :likely: 401762
 "<o>"
-	"fo" r m s :he/it: 417088
 	"o" p :of: 391277
-	"o" p :from: 391197
 "<wneud>"
 	"gwneud" vinf sm :make: 410353
 "<efo>"
@@ -1837,15 +1806,13 @@
 "<dydd>"
 	"dydd" n m s :day (named): 391042
 "<Gwener>"
-	"Gwener" name
+	"Gwener" n f s :Friday: 417311
 "<ta>"
 	"ta" c :or: 386246
 "<?>"
 
 "<dim>"
 	"dim" b :not: 391258
-	"dim" n m s :zero: 393088
-	"dim" n m s :nought: 393089
 "<syniad>"
 	"syniad" n m s :idea: 390616
 "<!>"
@@ -1855,13 +1822,13 @@
 "<!>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
 	"wedi" p :after: 386262
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<bod>"
 	"bod" vinf :be: 394007
 "<fi>"
@@ -1904,9 +1871,10 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<yn>"
@@ -1929,17 +1897,17 @@
 "<ddau>"
 	"dau" a sm :two (2, m): 408749
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<?>"
 
 "<oh>"
 	"oh" i
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<!>"
 
 "<mmhm>"
@@ -1989,7 +1957,7 @@
 "<i>"
 	"i" p :to: 391198
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yn>"
@@ -2005,7 +1973,7 @@
 "<dod>"
 	"dod" vinf :come: 394002
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<gefndir>"
 	"cefndir" n sm m s :background: 402659
 	"cefndir" n sm m s :background: 402658
@@ -2014,9 +1982,9 @@
 "<.>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<sy>"
@@ -2043,11 +2011,11 @@
 "<.>"
 
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<just>"
 	"just" b
 "<yn>"
@@ -2076,7 +2044,7 @@
 "<fydd>"
 	"bod" vfle sm 3s future :be: 334222
 "<bob_dim>"
-	"bob_dim" n m s :everything: 417074
+	"bob_dim" n m s :everything: 417265
 "<yn>"
 	"yn" stat :stative: 391257
 "<great>"
@@ -2102,7 +2070,7 @@
 "<ti>"
 	"ti" r :you (sing): 390999
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<wedi>"
@@ -2137,7 +2105,7 @@
 "<?>"
 
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<hyd>"
@@ -2184,7 +2152,7 @@
 "<ni>"
 	"ni" r :we: 386259
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yn>"
@@ -2203,12 +2171,12 @@
 "<.>"
 
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<yn>"
 	"yn" stat :stative: 391257
-	"yn" p :in: 388368
 "<doniol>"
-	"doniol" unk
+	"doniol" a :funny: 417306
+	"doniol" a :funny: 417293
 "<just>"
 	"just" b
 "<mynd>"
@@ -2222,23 +2190,23 @@
 "<well>"
 	"well" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<bosib>"
 	"posib" a sm :possible: 401656
 	"posib" a sm :possible: 401655
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<wir>"
 	"gwir" a sm :true: 399145
@@ -2320,13 +2288,13 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<isio>"
 	"isio" n m s :want: 388015
 "<mynd>"
@@ -2335,7 +2303,7 @@
 	"coelio" vfle 3s present :believe: 150209
 	"coelio" vfle 2s imperative :believe: 122610
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<fi>"
 	"fi" r :I: 391276
 "<!>"
@@ -2354,7 +2322,7 @@
 	"mawr" a sm :big: 399185
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<!>"
 
@@ -2363,7 +2331,7 @@
 "<?>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<yn>"
@@ -2388,11 +2356,11 @@
 "<ond>"
 	"ond" c :but: 388114
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<isio>"
 	"isio" n m s :want: 388015
 "<gwrando>"
@@ -2434,7 +2402,7 @@
 "<chwarae>"
 	"chwarae" vinf :play: 394718
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<.>"
 
 "<mae>"
@@ -2450,7 +2418,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<ymylu>"
@@ -2494,7 +2462,7 @@
 "<ti>"
 	"ti" r :you (sing): 390999
 "<un_ai>"
-	"un_ai" q :or: 417105
+	"un_ai" q :or: 417298
 "<clarinet>"
 	"clarinet" n
 "<sef>"
@@ -2598,7 +2566,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<.>"
 
 "<yn>"
@@ -2607,6 +2575,7 @@
 	"trad" a
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<lle>"
 	"lle" n m s :place: 389975
 "<bod>"
@@ -2692,9 +2661,9 @@
 "<cwffio>"
 	"cwffio" vinf :fight: 394979
 "<yn_erbyn>"
-	"yn_erbyn" p :against: 417107
+	"yn_erbyn" p :against: 417303
 "<ei_gilydd>"
-	"ei_gilydd" r :each_other: 417103
+	"ei_gilydd" r :each_other: 417296
 "<yn>"
 	"yn" stat :stative: 391257
 "<gerddorol>"
@@ -2713,14 +2682,19 @@
 "<.>"
 
 "<come>"
+	"come" v
 "<on>"
+	"on" pos
 "<hogiau>"
 	"hogyn" n m p :lads: 389902
 "<!>"
 
 "<get>"
+	"get" v
 "<a>"
+	"a" t
 "<grip>"
+	"grip" v
 "<!>"
 
 "<oh>"
@@ -2748,15 +2722,15 @@
 "<er>"
 	"er" i
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<meindio>"
 	"meindio" vinf :mind: 396520
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<.>"
 
 "<mmm>"
@@ -2764,14 +2738,16 @@
 "<.>"
 
 "<because>"
+	"because" c
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<job>"
 	"job" n
 "<.>"
@@ -2781,20 +2757,20 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<fwy>"
 	"mwy" a sm :bigger: 399194
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<hwyl>"
 	"hwyl" n f s :fun: 385811
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<.>"
 
@@ -2815,15 +2791,13 @@
 "<ond>"
 	"ond" c :but: 388114
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<actually>"
-	"ddim" b :not (after verb): 391363
-	"dim" n sm m s :nought: 409056
-	"dim" n sm m s :zero: 409054
+	"actually" b
 "<isio>"
 	"isio" n m s :want: 388015
 "<mynd>"
@@ -2847,7 +2821,7 @@
 "<a>"
 	"a" c :and: 387415
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<Ed>"
 	"Ed" name
 "<yn>"
@@ -2856,7 +2830,7 @@
 	"gwybod" vinf :know (fact): 393993
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<mynd>"
 	"mynd" vinf :go: 394005
@@ -2873,17 +2847,17 @@
 "<i>"
 	"i" p :to: 391198
 "<anyway>"
-	"i" p :to: 391198
+	"anyway" b
 "<.>"
 
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<?>"
 
 "<oh>"
 	"oh" i
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<!>"
 
 "<oh>"
@@ -2906,11 +2880,11 @@
 "<!>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<Emma>"
 	"Emma" name
 "<oedd>"
@@ -2924,6 +2898,8 @@
 "<hefo>"
 	"hefo" unk
 "<ei>"
+	"ei" a :her: 391205
+	"ei" a :his: 391194
 	"mynd" vfle 2s present :go: 116641
 "<.>"
 
@@ -2933,6 +2909,7 @@
 
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<ysgol>"
 	"ysgol" n f s :ladder: 390921
 	"ysgol" n f s :school: 390919
@@ -3073,7 +3050,7 @@
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<oh>"
@@ -3084,6 +3061,7 @@
 	"hi" r :she/it: 391323
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<party>"
 	"party" n
 "<Freda>"
@@ -3124,7 +3102,7 @@
 "<ti>"
 	"ti" r :you (sing): 390999
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yn>"
@@ -3140,7 +3118,7 @@
 "<canu>"
 	"canu" vinf :sing: 394652
 "<cloch>"
-	"cloi" vfle 2p subjunctive :lock: 76661
+	"cloch" n f s :bell: 385309
 "<.>"
 
 "<sure>"
@@ -3260,7 +3238,7 @@
 	"gŵr" n sm m s :husband: 397837
 	"gŵr" n sm m s :man: 397835
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<neithiwr>"
 	"neithiwr" b :last night: 393219
 "<.>"
@@ -3268,15 +3246,15 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<sure>"
 	"sure" a
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<sure>"
@@ -3288,7 +3266,7 @@
 "<fwynhau>"
 	"mwynhau" vinf sm :enjoy: 414933
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<.>"
 
 "<hmm>"
@@ -3298,7 +3276,7 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<just>"
@@ -3333,6 +3311,7 @@
 	"cychwyn" vinf sm :trigger (a program event): 409894
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<band>"
 	"band" n
 "<hŷn>"
@@ -3348,7 +3327,7 @@
 "<fydd>"
 	"bod" vfle sm 3s future :be: 334222
 "<i_gyd>"
-	"i_gyd" q :all: 417066
+	"i_gyd" q :all: 417257
 "<yna>"
 	"yna" b :there: 388369
 "<.>"
@@ -3362,7 +3341,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
 	"wedi" p :after: 386262
 "<gwirioni>"
@@ -3390,9 +3369,9 @@
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<annwyl>"
@@ -3412,7 +3391,7 @@
 	"iau" n m s :liver: 391943
 	"iau" a :younger: 386200
 "<i_gyd>"
-	"i_gyd" q :all: 417066
+	"i_gyd" q :all: 417257
 "<yna>"
 	"yna" b :there: 388369
 "<yn>"
@@ -3428,7 +3407,7 @@
 "<ti>"
 	"ti" r :you (sing): 390999
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<yr>"
 	"y" t :the: 391262
 "<un>"
@@ -3450,7 +3429,7 @@
 "<hŷn>"
 	"hŷn" a :older: 386196
 "<i_gyd>"
-	"i_gyd" q :all: 417066
+	"i_gyd" q :all: 417257
 "<yn>"
 	"yn" stat :stative: 391257
 "<sefyll>"
@@ -3480,6 +3459,7 @@
 "<!>"
 
 "<lovely>"
+	"lovely" a
 "<!>"
 
 "<ond>"
@@ -3492,7 +3472,7 @@
 	"yeah" i
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<baswn>"
 	"baswn" unk
@@ -3523,8 +3503,9 @@
 "<.>"
 
 "<because>"
+	"because" c
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<gallu>"
@@ -3542,7 +3523,7 @@
 	"allan" b :out: 387449
 	"gallu" vfle sm 3p future spoken :be: 290760
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<a>"
@@ -3565,7 +3546,7 @@
 "<nôl>"
 	"nôl" vinf :fetch: 396631
 "<i_fewn>"
-	"i_fewn" p :in: 417102
+	"i_fewn" p :in: 417295
 "<.>"
 
 "<piano>"
@@ -3576,15 +3557,16 @@
 	"trwm" a sm :heavy: 401806
 	"trwm" a sm :heavy: 401805
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<Hugh>"
 	"Hugh" name
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<hogyn>"
 	"hogyn" n m s :lad: 389901
 "<mawr>"
@@ -3621,17 +3603,17 @@
 	"cyfuniad" n sm m s :combination: 403430
 	"cyfuniad" n sm m s :combination: 403429
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<a>"
 	"a" c :and: 387415
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<meddwl>"
@@ -3639,7 +3621,7 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<ddigon>"
@@ -3667,9 +3649,9 @@
 "<be>"
 	"be" i :what: 387592
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<allan>"
@@ -3709,7 +3691,7 @@
 "<cynta>"
 	"cynta" a :first (1st, first decade only, spoken form): 392910
 "<ers_talwm>"
-	"ers_talwm" b :a_while_ago: 417068
+	"ers_talwm" b :a_while_ago: 417259
 "<iawn>"
 	"iawn" b :very: 388001
 	"iawn" b :OK: 386256
@@ -3727,11 +3709,11 @@
 "<jibio>"
 	"jibio" unk
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<?>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<Jonny>"
@@ -3752,7 +3734,7 @@
 "<yna>"
 	"yna" b :there: 388369
 "<i_gyd>"
-	"i_gyd" q :all: 417066
+	"i_gyd" q :all: 417257
 "<.>"
 
 "<oh>"
@@ -3774,7 +3756,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<ddigon>"
 	"digon" n sm m s :enough: 403966
 "<teg>"
@@ -3788,25 +3770,26 @@
 "<lot>"
 	"lot" n
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<ddannedd>"
 	"dant" n sm m p :tooth: 403769
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<lot>"
 	"lot" n
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<ddannedd>"
@@ -3822,7 +3805,7 @@
 "<sâl>"
 	"sâl" a :ill: 388228
 "<ar_ôl>"
-	"ar_ôl" p :after: 417054
+	"ar_ôl" p :after: 417245
 "<un>"
 	"un" a :one (1): 392895
 "<!>"
@@ -3830,11 +3813,11 @@
 "<ie>"
 	"ie" b :yes: 388005
 "<dyn>"
-	"bod" vfle 3p present spoken :be: 417086
+	"bod" vfle 3p present spoken :be: 417277
 "<ti>"
 	"ti" r :you (sing): 390999
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -3844,13 +3827,13 @@
 "<er>"
 	"er" unk
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<meddwl>"
 	"meddwl" vinf :think: 396510
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<yr>"
 	"y" t :the: 391262
 "<annwyd>"
@@ -3858,7 +3841,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<sti>"
 	"sti" unk
 "<?>"
@@ -3870,6 +3853,7 @@
 "<!>"
 
 "<because>"
+	"because" c
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<oedd>"
@@ -3878,6 +3862,7 @@
 	"Ken" name
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<gwaith>"
 	"gwaith" n f s :time (instance): 391059
 	"gwaith" n m s :work: 389743
@@ -3892,7 +3877,7 @@
 "<ie>"
 	"ie" b :yes: 388005
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<ti>"
 	"ti" r :you (sing): 390999
 "<!>"
@@ -3906,21 +3891,19 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<teimlo>"
 	"teimlo" vinf :feel: 397285
 "<yn>"
 	"yn" stat :stative: 391257
-	"yn" p :in: 388368
 "<grim>"
-	"yn" stat :stative: 391257
-	"yn" p :in: 388368
+	"grim" a
 "<.>"
 
 "<ah>"
@@ -3932,7 +3915,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
 	"wedi" p :after: 386262
 "<cysgu>"
@@ -3969,11 +3952,11 @@
 "<wres>"
 	"gwres" n sm m s :warmth: 401513
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<tri_deg_naw>"
-	"tri_deg_naw" num :thirty_nine: 417056
+	"tri_deg_naw" num :thirty_nine: 417247
 "<pwynt>"
 	"pwynt" n m s :point: 390359
 "<pedwar>"
@@ -3983,14 +3966,15 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<!>"
 
 "<gosh>"
+	"gosh" i
 "<be>"
 	"be" i :what: 387592
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<hwnna>"
 	"hwnna" r :that one (m): 391245
 "<mewn>"
@@ -4000,9 +3984,9 @@
 "<?>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -4014,13 +3998,13 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<dros>"
 	"dros" p :over: 386071
 "<pedwar_deg>"
-	"pedwar_deg" num :forty: 417069
+	"pedwar_deg" num :forty: 417260
 "<a>"
 	"a" c :and: 387415
 "<dyna>"
@@ -4054,6 +4038,7 @@
 "<.>"
 
 "<gosh>"
+	"gosh" i
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<yn>"
@@ -4061,7 +4046,7 @@
 "<uchel>"
 	"uchel" a :high: 388321
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<?>"
 
 "<be>"
@@ -4077,9 +4062,9 @@
 "<?>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -4092,7 +4077,7 @@
 	"bath" n sm m s :bath: 402187
 	"math" n sm m s :type: 398529
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<.>"
@@ -4146,9 +4131,9 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<meddwl>"
 	"meddwl" vinf :think: 396510
 	"meddwl" n m s :thought: 390066
@@ -4170,7 +4155,7 @@
 "<be>"
 	"be" i :what: 387592
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<hoed>"
 	"oed" n hm m s :age (of individual): 400507
 "<hi>"
@@ -4190,7 +4175,7 @@
 "<.>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<naw>"
 	"naw" a :nine (9): 393215
 "<mis>"
@@ -4206,7 +4191,7 @@
 "<felly>"
 	"felly" b :so: 387887
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<so>"
@@ -4271,6 +4256,7 @@
 	"sâl" a :ill: 388228
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<gwely>"
 	"gwely" n m s :bed: 389796
 "<.>"
@@ -4278,7 +4264,7 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<!>"
 
 "<ideal>"
@@ -4290,13 +4276,13 @@
 "<oh>"
 	"oh" i
 "<been>"
-	"oh" i
+	"been" v
 "<there>"
-	"oh" i
+	"there" b
 "<done>"
-	"oh" i
+	"done" v
 "<that>"
-	"oh" i
+	"that" d
 "<yeah>"
 	"yeah" i
 "<.>"
@@ -4326,7 +4312,7 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<!>"
 
 "<ry>"
@@ -4369,7 +4355,7 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<oh>"
 	"oh" i
 "<!>"
@@ -4393,7 +4379,7 @@
 "<yma>"
 	"yma" b :here: 388349
 "<ar_draws>"
-	"ar_draws" p :across: 417096
+	"ar_draws" p :across: 417287
 "<yr>"
 	"y" t :the: 391262
 "<awr>"
@@ -4404,7 +4390,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<just>"
 	"just" b
 "<yn>"
@@ -4433,13 +4419,11 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
-	"yn" p :in: 388368
 "<shivery>"
-	"yn" stat :stative: 391257
-	"yn" p :in: 388368
+	"shivery" a
 "<.>"
 
 "<nage>"
@@ -4449,11 +4433,11 @@
 "<oh>"
 	"oh" i
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<isio>"
 	"isio" n m s :want: 388015
 "<yr>"
@@ -4463,7 +4447,7 @@
 "<yma>"
 	"yma" b :here: 388349
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<hmm>"
@@ -4473,7 +4457,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<para>"
@@ -4502,9 +4486,9 @@
 "<chdi>"
 	"chdi" r :you (pl): 391227
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<.>"
 
 "<yeah>"
@@ -4517,7 +4501,6 @@
 "<i>"
 	"i" p :to: 391198
 "<deimlad>"
-	"teimlad" n sm m s :feeling: 405627
 	"teimlad" n sm m s :feeling: 405626
 "<falle>"
 	"falle" unk
@@ -4534,7 +4517,6 @@
 "<?>"
 
 "<ben>"
-	"pen" n sm m s :head: 405043
 	"pen" n sm m s :head: 405042
 "<dy>"
 	"dy" a :your (sing): 391231
@@ -4551,11 +4533,11 @@
 "<braidd>"
 	"braidd" b :rather: 387611
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
@@ -4578,7 +4560,7 @@
 "<arian>"
 	"arian" n m s :money: 387548
 "<oddi_ar>"
-	"oddi_ar" p :from: 417063
+	"oddi_ar" p :from: 417254
 "<y>"
 	"y" t :the: 416862
 "<nwylo>"
@@ -4594,7 +4576,7 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" p :in: 388368
 "<America>"
@@ -4681,9 +4663,7 @@
 "<fwy>"
 	"mwy" a sm :bigger: 399194
 "<o>"
-	"fo" r m s :he/it: 417088
 	"o" p :of: 391277
-	"o" p :from: 391197
 "<fynd>"
 	"mynd" vinf sm :go: 410376
 "<ar>"
@@ -4711,7 +4691,7 @@
 "<yna>"
 	"yna" b :there: 388369
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<mynd>"
@@ -4721,7 +4701,7 @@
 "<nhw>"
 	"nhw" r :they: 386255
 "<o_gwbl>"
-	"o_gwbl" b :at_all: 417062
+	"o_gwbl" b :at_all: 417253
 "<yn>"
 	"yn" stat :stative: 391257
 "<wlad>"
@@ -4739,7 +4719,7 @@
 "<so>"
 	"so" q
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
@@ -4749,7 +4729,7 @@
 "<gwerthu>"
 	"gwerthu" vinf :sell: 396056
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<wlad>"
@@ -4757,7 +4737,7 @@
 "<yma>"
 	"yma" b :here: 388349
 "<o_gwbl>"
-	"o_gwbl" b :at_all: 417062
+	"o_gwbl" b :at_all: 417253
 "<.>"
 
 "<so>"
@@ -4774,7 +4754,7 @@
 	"cyfnewid" vinf sm :exchange: 412755
 	"cyfnewid" vinf sm :exchange: 412754
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<efo>"
 	"efo" p :with: 387846
 "<yr>"
@@ -4802,7 +4782,7 @@
 "<a>"
 	"a" c :and: 387415
 "<un_ai>"
-	"un_ai" q :or: 417105
+	"un_ai" q :or: 417298
 "<gwerthu>"
 	"gwerthu" vinf :sell: 396056
 "<hwnna>"
@@ -4820,7 +4800,7 @@
 "<liw>"
 	"lliw" n sm m s :colour: 404766
 "<dyn>"
-	"bod" vfle 3p present spoken :be: 417086
+	"bod" vfle 3p present spoken :be: 417277
 "<nhw>"
 	"nhw" r :they: 386255
 "<?>"
@@ -4860,7 +4840,7 @@
 "<math>"
 	"math" n m s :type: 385588
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<beth>"
@@ -4883,17 +4863,18 @@
 "<yno>"
 	"yno" b :there: 388377
 "<fo>"
-	"bod" vfle sm 3s subjunctive :be: 334230
+	"fo" r :he/it (N): 391322
 "<.>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<swnio>"
 	"swnio" vinf :sound: 397188
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<guitar>"
 	"guitar" n
 "<bach>"
@@ -4954,11 +4935,11 @@
 "<!>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gallu>"
@@ -4969,15 +4950,15 @@
 	"tal" a sm :tall: 401748
 	"tal" a sm :tall: 401747
 "<i_fyny>"
-	"i_fyny" p :up: 417104
+	"i_fyny" p :up: 417297
 "<efo>"
 	"efo" p :with: 387846
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<!>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<ddigon>"
@@ -4987,7 +4968,7 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
@@ -5017,14 +4998,13 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
 	"wedi" p :after: 386262
 "<mynegi>"
@@ -5059,16 +5039,16 @@
 "<wneith>"
 	"gwneud" vfle sm 3s future :do: 334256
 "<o>"
-	"fo" r m s :he/it: 417088
+	"o" p :of: 391277
 "<gymryd>"
 	"cymryd" vinf sm :take: 412923
 	"cymryd" vinf sm :take: 412922
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<i>"
@@ -5079,7 +5059,7 @@
 	"yn" stat :stative: 391257
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<cadw>"
 	"cadw" vinf :keep: 394579
@@ -5096,15 +5076,15 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<mynd>"
@@ -5200,11 +5180,11 @@
 "<chdi>"
 	"chdi" r :you (pl): 391227
 "<up>"
-	"chdi" r :you (pl): 391227
+	"up" b
 "<to>"
-	"chdi" r :you (pl): 391227
+	"to" pos
 "<date>"
-	"chdi" r :you (pl): 391227
+	"date" n
 "<efo>"
 	"efo" p :with: 387846
 "<be>"
@@ -5218,7 +5198,7 @@
 "<wneud>"
 	"gwneud" vinf sm :make: 410353
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<ia>"
@@ -5248,16 +5228,15 @@
 "<ddes>"
 	"ddes" unk
 "<i_fewn>"
-	"i_fewn" p :in: 417102
+	"i_fewn" p :in: 417295
 "<gynnau>"
-	"cynnau" vinf sm :light: 413037
 	"cynnau" vinf sm :light: 413036
 "<um>"
 	"um" i
 "<i>"
 	"i" p :to: 391198
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<wrth>"
 	"wrth" p :by: 391196
 "<Debbie>"
@@ -5266,12 +5245,13 @@
 	"bod" vinf :be: 394007
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<amser>"
 	"amser" n m s :time: 388500
 "<gwely>"
 	"gwely" n m s :bed: 389796
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<yeah>"
@@ -5328,7 +5308,6 @@
 "<ti>"
 	"ti" r :you (sing): 390999
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<wedi>"
 	"wedi" p :after: 386262
@@ -5348,13 +5327,13 @@
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<heb>"
@@ -5362,7 +5341,7 @@
 "<weld>"
 	"gweld" vinf sm :see: 414437
 "<dim_byd>"
-	"dim_byd" n m s :nothing: 417075
+	"dim_byd" n m s :nothing: 417266
 "<.>"
 
 "<oh>"
@@ -5382,13 +5361,13 @@
 "<ond>"
 	"ond" c :but: 388114
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<wedi>"
 	"wedi" p :after: 386262
 "<gweld>"
@@ -5401,16 +5380,16 @@
 	"bach" a sm :small: 401046
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<.>"
 
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<yn>"
 	"yn" stat :stative: 391257
 	"yn" p :in: 388368
@@ -5419,15 +5398,16 @@
 "<!>"
 
 "<doniol>"
-	"doniol" unk
+	"doniol" a :funny: 417306
+	"doniol" a :funny: 417293
 "<?>"
 
 "<well>"
 	"well" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<.>"
@@ -5435,7 +5415,7 @@
 "<o_k>"
 	"o_k" unk
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<fo>"
 	"fo" r :he/it (N): 391322
 "<yn>"
@@ -5447,9 +5427,9 @@
 "<oh>"
 	"oh" i
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<.>"
 
 "<baset>"
@@ -5503,9 +5483,9 @@
 "<meddwl>"
 	"meddwl" vinf :think: 396510
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<yn>"
 	"yn" stat :stative: 391257
 	"yn" p :in: 388368
@@ -5523,7 +5503,7 @@
 "<ah>"
 	"ah" i
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<yn>"
@@ -5547,7 +5527,7 @@
 "<gweld>"
 	"gweld" vinf :see: 396044
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yr>"
 	"y" t :the: 391262
 "<drws>"
@@ -5569,33 +5549,29 @@
 "<yna>"
 	"yna" b :there: 388369
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<hi>"
 	"hi" r :she/it: 391323
 "<ddim>"
-	"ddim" b :not (after verb): 391363
-	"dim" n sm m s :nought: 409056
-	"dim" n sm m s :zero: 409054
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<dawnsio>"
 	"dawnsio" vinf :dance: 395380
 "<na>"
-	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
-	"na" c :(n)or: 385175
+	"na" b :not: 391185
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<?>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<dyna>"
 	"dyna" b :that is: 387833
 "<pam>"
@@ -5607,7 +5583,7 @@
 "<.>"
 
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<weles>"
 	"weles" unk
 "<hi>"
@@ -5617,7 +5593,6 @@
 "<dawnsio>"
 	"dawnsio" vinf :dance: 395380
 "<gynnau>"
-	"cynnau" vinf sm :light: 413037
 	"cynnau" vinf sm :light: 413036
 "<.>"
 
@@ -5644,7 +5619,7 @@
 "<doedd>"
 	"doedd" unk
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yn>"
@@ -5714,7 +5689,7 @@
 "<rhythmic>"
 	"rhythmic" a
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<oh>"
@@ -5754,7 +5729,7 @@
 "<hi>"
 	"hi" r :she/it: 391323
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<y>"
@@ -5797,7 +5772,7 @@
 "<hwn>"
 	"hwn" a :this (m): 391244
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -5827,9 +5802,9 @@
 "<?>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -5841,7 +5816,7 @@
 "<fedri>"
 	"medru" vfle sm 2s present :be: 325706
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<roid>"
 	"rhoi" vfle sm im imperfect :give: 385026
 "<ar>"
@@ -5877,11 +5852,12 @@
 "<ah>"
 	"ah" i
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<hwnna>"
 	"hwnna" r :that one (m): 391245
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<bity>"
 	"bity" n
 "<!>"
@@ -5889,7 +5865,7 @@
 "<be>"
 	"be" i :what: 387592
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<stuff>"
 	"stuff" n
 "<darllen>"
@@ -5907,7 +5883,7 @@
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<.>"
@@ -5935,14 +5911,13 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<gael>"
-	"cael" vinf sm :have: 410356
 	"cael" vinf sm :have: 410355
 "<am>"
 	"am" p :for: 387453
 "<olchi>"
 	"golchi" vinf sm :wash: 414163
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<ie>"
@@ -5958,16 +5933,14 @@
 "<dyna>"
 	"dyna" b :that is: 387833
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<gael>"
-	"cael" vinf sm :have: 410356
 	"cael" vinf sm :have: 410355
 "<am>"
 	"am" p :for: 387453
 "<gael>"
-	"cael" vinf sm :have: 410356
 	"cael" vinf sm :have: 410355
 "<trowsus>"
 	"trowsus" unk
@@ -5982,7 +5955,7 @@
 "<fo>"
 	"fo" r :he/it (N): 391322
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<hmm>"
@@ -6009,13 +5982,13 @@
 "<felly>"
 	"felly" b :so: 387887
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<well>"
 	"gwell" a sm :better: 401505
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<lawer>"
@@ -6027,7 +6000,7 @@
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<.>"
 
 "<oh>"
@@ -6048,13 +6021,12 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<wrtha>"
 	"wrtha" unk
 "<fi>"
 	"fi" r :I: 391276
 "<gynnau>"
-	"cynnau" vinf sm :light: 413037
 	"cynnau" vinf sm :light: 413036
 "<yn>"
 	"yn" stat :stative: 391257
@@ -6070,7 +6042,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<um>"
 	"um" i
 "<efo>"
@@ -6084,7 +6056,7 @@
 "<y>"
 	"y" t :the: 416862
 "<Dolig>"
-	"Nadolig" n m s :Christmas: 417089
+	"Nadolig" n m s :Christmas: 417280
 "<.>"
 
 "<ac>"
@@ -6141,7 +6113,6 @@
 "<.>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<hi>"
 	"hi" r :she/it: 391323
@@ -6152,11 +6123,11 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<un>"
 	"un" a :one (1): 392895
 "<sioe>"
@@ -6164,7 +6135,6 @@
 "<.>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<hi>"
 	"hi" r :she/it: 391323
@@ -6199,14 +6169,13 @@
 "<.>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<hi>"
 	"hi" r :she/it: 391323
 "<.>"
 
 "<wrth_gwrs>"
-	"wrth_gwrs" b :of_course: 417053
+	"wrth_gwrs" b :of_course: 417244
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<hi>"
@@ -6223,11 +6192,11 @@
 	"gwan" a sm :pale (of colour): 400658
 	"gwan" a sm :weak: 399141
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<!>"
 
 "<a>"
@@ -6255,7 +6224,7 @@
 "<fyddi>"
 	"bod" vfle sm 2s future :be: 308440
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<yn>"
 	"yn" stat :stative: 391257
 "<canu>"
@@ -6263,12 +6232,11 @@
 "<?>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<fi>"
 	"fi" r :I: 391276
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -6280,7 +6248,6 @@
 "<!>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<hi>"
 	"hi" r :she/it: 391323
@@ -6299,7 +6266,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<bod>"
 	"bod" vinf :be: 394007
 "<fi>"
@@ -6329,7 +6296,6 @@
 "<canu>"
 	"canu" vinf :sing: 394652
 "<bob>"
-	"pob" a sm :each: 401643
 	"pob" a sm :each: 401642
 "<d>"
 "<.>"
@@ -6347,7 +6313,6 @@
 "<wedyn>"
 	"wedyn" b :afterwards: 388339
 "<bob>"
-	"pob" a sm :each: 401643
 	"pob" a sm :each: 401642
 "<.>"
 
@@ -6358,15 +6323,15 @@
 "<sut>"
 	"sut" i :how: 388259
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
 	"te" n sm m s :tea: 401757
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -6375,7 +6340,6 @@
 
 "<gawn>"
 	"cael" vfle sm 1p present :get: 214964
-	"cael" vfle sm 1s imperfect :get: 196980
 "<ni>"
 	"ni" r :we: 386259
 "<weld>"
@@ -6395,15 +6359,15 @@
 "<medru>"
 	"medru" vinf :be able: 396513
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<ond>"
 	"ond" c :but: 388114
 "<.>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<wneith>"
@@ -6427,7 +6391,7 @@
 "<ysgol>"
 	"ysgol" n f s :school: 390919
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<wneith>"
 	"gwneud" vfle sm 3s future :do: 334256
 "<hi>"
@@ -6451,7 +6415,7 @@
 "<mwy>"
 	"mwy" a :bigger: 386239
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<hyder>"
@@ -6461,11 +6425,11 @@
 "<hyn>"
 	"hyn" r :this, these: 387993
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 "<?>"
 
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 "<.>"
 
 "<os>"
@@ -6485,7 +6449,7 @@
 "<yna>"
 	"yna" b :there: 388369
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<stopio>"
@@ -6520,7 +6484,6 @@
 
 "<gawn>"
 	"cael" vfle sm 1p present :get: 214964
-	"cael" vfle sm 1s imperfect :get: 196980
 "<ni>"
 	"ni" r :we: 386259
 "<weld>"
@@ -6552,7 +6515,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 	"yn" p :in: 388368
@@ -6561,15 +6524,15 @@
 "<ddeudodd>"
 	"ddeudodd" unk
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<isio>"
@@ -6577,7 +6540,7 @@
 "<wneud>"
 	"gwneud" vinf sm :make: 410353
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<.>"
 
 "<a>"
@@ -6589,7 +6552,7 @@
 "<benderfynodd>"
 	"penderfynu" vfle sm 3s past :decide: 355171
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<heddiw>"
 	"heddiw" b :today: 387966
 "<bod>"
@@ -6604,7 +6567,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<bod>"
 	"bod" vinf :be: 394007
 "<isio>"
@@ -6616,7 +6579,7 @@
 "<.>"
 
 "<er_mwyn>"
-	"er_mwyn" p :in_order_to: 417094
+	"er_mwyn" p :in_order_to: 417285
 "<chdi>"
 	"chdi" r :you (pl): 391227
 "<a>"
@@ -6638,9 +6601,9 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yn>"
@@ -6648,8 +6611,7 @@
 "<roi>"
 	"rhoi" vinf sm :give: 416820
 "<pressure>"
-	"rhoi" vinf sm :give: 416820
-	"rhoi" vfle sm 2s present :give: 334077
+	"pressure" n
 "<arno>"
 	"arno" p :on him: 387544
 "<fo>"
@@ -6673,7 +6635,7 @@
 "<aeth>"
 	"mynd" vfle 3s past :go: 143512
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<fewn>"
 	"fewn" unk
 "<.>"
@@ -6685,7 +6647,7 @@
 "<Izzy>"
 	"Izzy" name
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<.>"
 
 "<oh>"
@@ -6710,7 +6672,7 @@
 "<fam>"
 	"fam" n
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<llais>"
@@ -6727,7 +6689,7 @@
 "<!>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<gobeithio>"
 	"gobeithio" vinf :hope: 395886
 "<bod>"
@@ -6751,8 +6713,6 @@
 	"a" c :and: 387415
 "<dim>"
 	"dim" b :not: 391258
-	"dim" n m s :zero: 393088
-	"dim" n m s :nought: 393089
 "<fath>"
 	"bath" n sm m s :bath: 402187
 	"math" n sm m s :type: 398529
@@ -6770,23 +6730,23 @@
 "<i>"
 	"i" p :to: 391198
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<isio>"
 	"isio" n m s :want: 388015
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<wnes>"
 	"gwneud" vfle sm 1s past spoken :do: 196995
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<dim_byd>"
-	"dim_byd" n m s :nothing: 417075
+	"dim_byd" n m s :nothing: 417266
 "<.>"
 
 "<wnes>"
@@ -6794,7 +6754,7 @@
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<gair>"
 	"gair" n m s :word: 389643
 "<.>"
@@ -6828,7 +6788,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<wrth>"
 	"wrth" p :by: 391196
 "<Charlie>"
@@ -6836,7 +6796,7 @@
 "<neu>"
 	"neu" c :or: 386257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<wrthat>"
 	"wrthat" unk
 "<ti>"
@@ -6844,11 +6804,11 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<?>"
 
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<wrth>"
 	"wrth" p :by: 391196
 "<er>"
@@ -6860,7 +6820,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<wrth>"
 	"wrth" p :by: 391196
 "<Charlie>"
@@ -6868,7 +6828,7 @@
 "<Charlie>"
 	"Charlie" name
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<wrtha>"
 	"wrtha" unk
 "<fi>"
@@ -6906,7 +6866,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<bod>"
 	"bod" vinf :be: 394007
 "<hi>"
@@ -6925,7 +6885,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<arfer>"
@@ -6982,15 +6942,15 @@
 "<just>"
 	"just" b
 "<gwbl>"
-	"cwbl" q sm :completely: 417077
+	"cwbl" q sm :completely: 417268
 	"cwbl" a sm :all: 401193
 	"cwbl" a sm :all: 401192
 "<gwbl>"
-	"cwbl" q sm :completely: 417077
+	"cwbl" q sm :completely: 417268
 	"cwbl" a sm :all: 401193
 	"cwbl" a sm :all: 401192
 "<gwbl>"
-	"cwbl" q sm :completely: 417077
+	"cwbl" q sm :completely: 417268
 	"cwbl" a sm :all: 401193
 	"cwbl" a sm :all: 401192
 "<wahanol>"
@@ -7042,7 +7002,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<quite>"
 	"quite" q
 "<mor>"
@@ -7080,7 +7040,7 @@
 "<.>"
 
 "<ar_ôl>"
-	"ar_ôl" p :after: 417054
+	"ar_ôl" p :after: 417245
 "<iddi>"
 	"iddi" p :to her: 388002
 "<cael>"
@@ -7121,6 +7081,7 @@
 	"nhw" r :they: 386255
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<llanast>"
 	"llanast" n m s :mess: 385814
 "<yna>"
@@ -7134,7 +7095,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<bod>"
 	"bod" vinf :be: 394007
 "<hi>"
@@ -7164,11 +7125,11 @@
 "<rywun>"
 	"rhywun" n sm m s :someone: 401740
 "<gwbl>"
-	"cwbl" q sm :completely: 417077
+	"cwbl" q sm :completely: 417268
 	"cwbl" a sm :all: 401193
 	"cwbl" a sm :all: 401192
 "<gwbl>"
-	"cwbl" q sm :completely: 417077
+	"cwbl" q sm :completely: 417268
 	"cwbl" a sm :all: 401193
 	"cwbl" a sm :all: 401192
 "<wahanol>"
@@ -7195,7 +7156,7 @@
 "<hyn>"
 	"hyn" r :this, these: 387993
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<oedden>"
@@ -7247,7 +7208,6 @@
 "<ar>"
 	"ar" p :on: 387527
 "<ben>"
-	"pen" n sm m s :head: 405043
 	"pen" n sm m s :head: 405042
 "<ei>"
 	"ei" a :her: 391205
@@ -7276,7 +7236,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
 	"wedi" p :after: 386262
 "<canu>"
@@ -7294,11 +7254,9 @@
 	"yn" p :in: 388368
 "<yn>"
 	"yn" stat :stative: 391257
-	"yn" p :in: 388368
 "<gry>"
-	"gry" unk
+	"cryf" a sm spoken :strong: 417299
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<fo>"
 	"fo" r :he/it (N): 391322
@@ -7307,7 +7265,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
 	"wedi" p :after: 386262
 "<cael>"
@@ -7318,7 +7276,7 @@
 	"bath" n sm m s :bath: 402187
 	"math" n sm m s :type: 398529
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<ymateb>"
@@ -7330,20 +7288,20 @@
 "<wnaeth>"
 	"gwneud" vfle sm 3s past :do: 334257
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<.>"
 
 "<poeni>"
 	"poeni" vinf :worry: 396811
 	"poeni" vfle 2s present :worry: 136470
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -7351,7 +7309,7 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<meddwl>"
@@ -7369,7 +7327,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<.>"
 
 "<mmm>"
@@ -7395,7 +7353,7 @@
 "<trio>"
 	"trio" vinf :try: 393908
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<.>"
 
 "<oh>"
@@ -7426,7 +7384,6 @@
 "<.>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<fi>"
 	"fi" r :I: 391276
@@ -7443,7 +7400,6 @@
 "<naci>"
 	"naci" unk
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<fo>"
 	"fo" r :he/it (N): 391322
@@ -7468,7 +7424,6 @@
 "<iddo>"
 	"iddo" p :to him: 388003
 "<gael>"
-	"cael" vinf sm :have: 410356
 	"cael" vinf sm :have: 410355
 "<ei>"
 	"ei" a :her: 391205
@@ -7479,7 +7434,7 @@
 "<felly>"
 	"felly" b :so: 387887
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<.>"
 
 "<er>"
@@ -7495,7 +7450,7 @@
 "<be>"
 	"be" i :what: 387592
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<enw>"
 	"enw" n m s :name: 389537
 "<hi>"
@@ -7522,7 +7477,7 @@
 	"cymaint" a sm :as much: 401294
 	"cymaint" a sm :as much: 401293
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<Hayleys>"
@@ -7534,7 +7489,7 @@
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<cadw>"
 	"cadw" vinf :keep: 394579
 "<fyny>"
@@ -7546,11 +7501,11 @@
 "<peth>"
 	"peth" n m s :thing: 390262
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<os>"
 	"os" c :if (likely): 392047
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 	"oes" n f s :age: 390173
 "<gynno>"
 	"cynnu" vfle sm 3s subjunctive :light: 346012
@@ -7563,7 +7518,7 @@
 "<ffordd>"
 	"ffordd" n f s :road: 389609
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<ei>"
@@ -7574,7 +7529,7 @@
 	"cwmpas" n sm m s :scope: 401197
 	"cwmpas" n sm m s :scope: 401196
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
 	"wedi" p :after: 386262
 "<arfer>"
@@ -7592,7 +7547,7 @@
 "<rhywun>"
 	"rhywun" n m s :someone: 388224
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<flwyddyn>"
@@ -7602,7 +7557,7 @@
 "<geith>"
 	"geith" unk
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<pa>"
@@ -7614,7 +7569,7 @@
 "<bynnag>"
 	"bynnag" q :-ever: 387629
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<baswn>"
@@ -7651,9 +7606,9 @@
 "<ia>"
 	"ia" unk
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<fo>"
 	"fo" r :he/it (N): 391322
 "<mwynhau>"
@@ -7665,7 +7620,7 @@
 "<ond>"
 	"ond" c :but: 388114
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<rhaid>"
 	"rhaid" n m s :necessity: 390386
 "<fo>"
@@ -7674,7 +7629,7 @@
 	"gwan" a sm :pale (of colour): 400658
 	"gwan" a sm :weak: 399141
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<oh>"
@@ -7698,21 +7653,22 @@
 "<os>"
 	"os" c :if (likely): 392047
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<wneud>"
 	"gwneud" vinf sm :make: 410353
 "<hynna>"
-	"hynny" r :those: 417085
+	"hynny" r :those: 417276
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<yn>"
@@ -7745,13 +7701,13 @@
 	"nesu" vfle 3s present :approach: 164464
 	"nesu" vfle 2s imperative :approach: 135283
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<sy>"
@@ -7770,7 +7726,7 @@
 	"profiad" n sm m s :experience: 405352
 	"profiad" n sm m s :experience: 405351
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<.>"
@@ -7802,13 +7758,13 @@
 "<.>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<.>"
 
 "<ie>"
 	"ie" b :yes: 388005
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<gwybod>"
@@ -7824,17 +7780,18 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<isio>"
 	"isio" n m s :want: 388015
 "<bod>"
 	"bod" vinf :be: 394007
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<rhan>"
 	"rhan" n f s :part: 385666
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<yr>"
@@ -7846,11 +7803,11 @@
 "<crew>"
 	"crew" n
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<.>"
 
 "<dyna>"
@@ -7870,7 +7827,7 @@
 	"gwan" a sm :pale (of colour): 400658
 	"gwan" a sm :weak: 399141
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<yeah>"
@@ -7880,10 +7837,10 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<xxx>"
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<yn>"
@@ -7909,13 +7866,13 @@
 "<profiad>"
 	"profiad" n m s :experience: 390331
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<i_gyd>"
-	"i_gyd" q :all: 417066
+	"i_gyd" q :all: 417257
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -7932,11 +7889,11 @@
 "<os>"
 	"os" c :if (likely): 392047
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<cael>"
@@ -7983,7 +7940,7 @@
 "<i>"
 	"i" r :I: 391279
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<.>"
 
 "<gwranda>"
@@ -7995,7 +7952,7 @@
 "<i>"
 	"i" p :to: 391198
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<meindio>"
@@ -8043,8 +8000,7 @@
 	"tri" a sm :three (3, m): 408729
 	"tri" a sm :three (3, m): 408728
 "<fill>"
-	"tri" a sm :three (3, m): 408729
-	"tri" a sm :three (3, m): 408728
+	"fill" v
 "<gan>"
 	"gan" p :by: 391199
 	"can" n sm m s :can: 402485
@@ -8058,7 +8014,7 @@
 "<fydd>"
 	"bod" vfle sm 3s future :be: 334222
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<barod>"
@@ -8128,6 +8084,7 @@
 "<.>"
 
 "<and>"
+	"and" c
 "<um>"
 	"um" i
 "<.>"
@@ -8149,6 +8106,7 @@
 	"gallu" vfle sm 3p future spoken :be: 290760
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<car>"
 	"car" n
 "<.>"
@@ -8172,7 +8130,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<edrych>"
@@ -8185,7 +8143,7 @@
 "<cael>"
 	"cael" vinf :have: 393996
 "<snog>"
-	"cael" vinf :have: 393996
+	"snog" v
 "<pan>"
 	"pan" c :when: 388122
 "<wnes>"
@@ -8228,7 +8186,6 @@
 "<!>"
 
 "<meddai>"
-	"meddu" vfle 3s imperfect :own: 163410
 	"medd" vfle 3s imperfect :say: 163381
 "<hi>"
 	"hi" r :she/it: 391323
@@ -8243,7 +8200,7 @@
 "<yna>"
 	"yna" b :there: 388369
 "<i_gyd>"
-	"i_gyd" q :all: 417066
+	"i_gyd" q :all: 417257
 "<tu>"
 	"tu" n m s :side: 388312
 "<ôl>"
@@ -8265,9 +8222,9 @@
 "<.>"
 
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<sôn>"
@@ -8275,7 +8232,6 @@
 "<am>"
 	"am" p :for: 387453
 "<gael>"
-	"cael" vinf sm :have: 410356
 	"cael" vinf sm :have: 410355
 "<un>"
 	"un" a :one (1): 392895
@@ -8289,20 +8245,19 @@
 	"er" i
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<.>"
 
 "<nag>"
 	"nag" c :than: 386258
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<wir>"
 	"gwir" a sm :true: 399145
 "<?>"
 
 "<bob>"
-	"pob" a sm :each: 401643
 	"pob" a sm :each: 401642
 "<awr>"
 	"awr" n f s :hour: 388671
@@ -8311,7 +8266,6 @@
 "<.>"
 
 "<bob>"
-	"pob" a sm :each: 401643
 	"pob" a sm :each: 401642
 "<awr>"
 	"awr" n f s :hour: 388671
@@ -8322,7 +8276,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<effro>"
@@ -8336,11 +8290,11 @@
 "<oh>"
 	"oh" i
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<dda>"
@@ -8350,9 +8304,9 @@
 "<?>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -8368,15 +8322,13 @@
 "<hi>"
 	"hi" r :she/it: 391323
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yn>"
 	"yn" stat :stative: 391257
-	"yn" p :in: 388368
 "<impressed>"
-	"yn" stat :stative: 391257
-	"yn" p :in: 388368
+	"impressed" a
 "<.>"
 
 "<oh>"
@@ -8394,7 +8346,7 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 	"yn" p :in: 388368
@@ -8423,9 +8375,9 @@
 "<deuflwydd>"
 	"deuflwydd" unk
 "<yndy>"
-	"yndy" unk
+	"bod" vfle 3s present spoken :be: 417308
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<wnaeth>"
@@ -8433,7 +8385,7 @@
 "<Kate>"
 	"Kate" name
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<Kate>"
 	"Kate" name
 "<yn>"
@@ -8449,7 +8401,7 @@
 "<hi>"
 	"hi" r :she/it: 391323
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<.>"
 
 "<well>"
@@ -8469,7 +8421,6 @@
 "<hanner>"
 	"hanner" n m s :half: 392882
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<pump>"
 	"pump" a :five (5): 388241
@@ -8483,7 +8434,7 @@
 "<film>"
 	"film" n
 "<because>"
-	"film" n
+	"because" c
 "<bod>"
 	"bod" vinf :be: 394007
 "<fi>"
@@ -8540,7 +8491,7 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<yn>"
@@ -8548,9 +8499,7 @@
 "<bound>"
 	"bound" a
 "<o>"
-	"fo" r m s :he/it: 417088
 	"o" p :of: 391277
-	"o" p :from: 391197
 "<fod>"
 	"bod" vinf sm :be: 410380
 "<ar>"
@@ -8568,11 +8517,11 @@
 "<!>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<swnio>"
@@ -8599,7 +8548,7 @@
 "<hyn>"
 	"hyn" r :this, these: 387993
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<bryd>"
@@ -8615,7 +8564,7 @@
 "<wedi>"
 	"wedi" p :after: 386262
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<hynny>"
 	"hynny" r :that, those: 387996
 "<oedd>"
@@ -8627,7 +8576,7 @@
 "<gwadu>"
 	"gwadu" vinf :deny: 395975
 "<bob_dim>"
-	"bob_dim" n m s :everything: 417074
+	"bob_dim" n m s :everything: 417265
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<am>"
@@ -8750,7 +8699,7 @@
 "<?>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<wedi>"
 	"wedi" p :after: 386262
 "<cynhyrchu>"
@@ -8758,7 +8707,7 @@
 "<mwy>"
 	"mwy" a :bigger: 386239
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<yr>"
@@ -8770,7 +8719,7 @@
 "<yma>"
 	"yma" b :here: 388349
 "<jams>"
-	"yma" b :here: 388349
+	"jams" unk
 "<yma>"
 	"yma" b :here: 388349
 "<?>"
@@ -8806,13 +8755,13 @@
 "<mwy>"
 	"mwy" a :bigger: 386239
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<vinegar>"
 	"vinegar" n
 "<i_fewn>"
-	"i_fewn" p :in: 417102
+	"i_fewn" p :in: 417295
 "<.>"
 
 "<ond>"
@@ -8834,13 +8783,13 @@
 "<fwy>"
 	"mwy" a sm :bigger: 399194
 "<rich>"
-	"mwy" a sm :bigger: 399194
+	"rich" a
 "<oherwydd>"
 	"oherwydd" c :because: 388107
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<wedi>"
 	"wedi" p :after: 386262
 "<cael>"
@@ -8864,7 +8813,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<tydy>"
 	"tydy" unk
 "<i>"
@@ -8891,7 +8840,7 @@
 "<ti>"
 	"ti" r :you (sing): 390999
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yn>"
@@ -8930,7 +8879,7 @@
 "<.>"
 
 "<timod>"
-	"timod" h :you_know: 417083
+	"timod" h :you_know: 417274
 "<.>"
 
 "<dau>"
@@ -8969,7 +8918,7 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<bron>"
@@ -9021,7 +8970,7 @@
 "<oedd>"
 	"bod" vfle 3s imperfect :be: 143473
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 	"yn" p :in: 388368
@@ -9030,7 +8979,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<debyg>"
-	"tebyg" a sm :similar: 401761
+	"tebyg" a sm :likely: 401761
 "<iawn>"
 	"iawn" b :very: 388001
 "<i>"
@@ -9038,12 +8987,11 @@
 "<afal>"
 	"afal" unk
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<stiwio>"
 	"stiwio" unk
 "<really>"
-	"stiwio" unk
+	"really" b
 "<doedd>"
 	"doedd" unk
 "<?>"
@@ -9090,9 +9038,9 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<adref>"
 	"adref" b :homewards: 391385
 	"adref" b :homewards: 387434
@@ -9107,7 +9055,6 @@
 "<wnawn>"
 	"gwneud" vfle sm 1p imperative :do: 214988
 	"gwneud" vfle sm 1p present :do: 214982
-	"gwneud" vfle sm 1s imperfect :do: 196996
 "<ni>"
 	"ni" r :we: 386259
 "<coginio>"
@@ -9123,7 +9070,6 @@
 "<wnawn>"
 	"gwneud" vfle sm 1p imperative :do: 214988
 	"gwneud" vfle sm 1p present :do: 214982
-	"gwneud" vfle sm 1s imperfect :do: 196996
 "<ni>"
 	"ni" r :we: 386259
 "<coginio>"
@@ -9139,7 +9085,7 @@
 "<i>"
 	"i" p :to: 391198
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<.>"
 
 "<be>"
@@ -9147,7 +9093,6 @@
 "<wnawn>"
 	"gwneud" vfle sm 1p imperative :do: 214988
 	"gwneud" vfle sm 1p present :do: 214982
-	"gwneud" vfle sm 1s imperfect :do: 196996
 "<ni>"
 	"ni" r :we: 386259
 "<nos>"
@@ -9159,7 +9104,7 @@
 "<ond>"
 	"ond" c :but: 388114
 "<wrth_gwrs>"
-	"wrth_gwrs" b :of_course: 417053
+	"wrth_gwrs" b :of_course: 417244
 "<dan>"
 	"dan" p :under: 386368
 "<ni>"
@@ -9184,7 +9129,6 @@
 "<Charlie>"
 	"Charlie" name
 "<gael>"
-	"cael" vinf sm :have: 410356
 	"cael" vinf sm :have: 410355
 "<gwers>"
 	"gwers" n f s :lesson: 389804
@@ -9200,7 +9144,6 @@
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<gynnon>"
-	"cynnu" vfle sm 3p past spoken :light: 285772
 	"cynnu" vfle sm 1p past spoken :light: 226117
 "<ni>"
 	"ni" r :we: 386259
@@ -9241,17 +9184,17 @@
 "<fi>"
 	"fi" r :I: 391276
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<.>"
 
 "<gwrandwch>"
 	"gwrandwch" unk
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<yma>"
@@ -9293,7 +9236,7 @@
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 "<hwyr>"
@@ -9344,17 +9287,16 @@
 "<chi>"
 	"chi" r :you (pl): 391228
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<newid>"
 	"newid" vinf :change: 396642
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<i>"
 	"i" p :to: 391198
 "<hanner>"
 	"hanner" n m s :half: 392882
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<chwech>"
 	"chwech" a :six (6): 392912
@@ -9363,7 +9305,6 @@
 "<hanner>"
 	"hanner" n m s :half: 392882
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<saith>"
 	"saith" a :seven (7): 392914
@@ -9377,7 +9318,7 @@
 	"gwell" a sm :better: 401505
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<pump>"
 	"pump" a :five (5): 388241
@@ -9394,11 +9335,10 @@
 "<newid>"
 	"newid" vinf :change: 396642
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<hanner>"
 	"hanner" n m s :half: 392882
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<chwech>"
 	"chwech" a :six (6): 392912
@@ -9407,7 +9347,6 @@
 "<hanner>"
 	"hanner" n m s :half: 392882
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<saith>"
 	"saith" a :seven (7): 392914
@@ -9424,6 +9363,7 @@
 "<.>"
 
 "<because>"
+	"because" c
 "<fydd>"
 	"bod" vfle sm 3s future :be: 334222
 "<Debbie>"
@@ -9441,9 +9381,9 @@
 "<os>"
 	"os" c :if (likely): 392047
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<hi>"
 	"hi" r :she/it: 391323
 "<isio>"
@@ -9469,9 +9409,9 @@
 "<.>"
 
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<dad>"
 	"dad" n
 "<yn>"
@@ -9519,7 +9459,7 @@
 "<.>"
 
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<mwy>"
 	"mwy" a :bigger: 386239
 "<diddorol>"
@@ -9528,7 +9468,7 @@
 	"iddi" p :to her: 388002
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<ddod>"
 	"dod" vinf sm :come: 410370
@@ -9537,21 +9477,19 @@
 "<capel>"
 	"capel" n m s :chapel: 388861
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<?>"
 
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<ran>"
 	"rhan" n sm f s :part: 398657
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<chwarae>"
 	"chwarae" vinf :play: 394718
-	"chwarae" n m s :game: 393143
-	"chwarae" vfle 2s imperative :play: 121740
 "<gwmpas>"
 	"cwmpas" n sm m s :pair of compasses (geometry): 408917
 	"cwmpas" n sm m s :pair of compasses (geometry): 408916
@@ -9560,11 +9498,11 @@
 "<fasai>"
 	"fasai" unk
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<ar_ôl>"
-	"ar_ôl" p :after: 417054
+	"ar_ôl" p :after: 417245
 "<tro>"
 	"tro" n m s :turn: 390739
 	"troi" vfle 2s imperative :turn: 142905
@@ -9575,9 +9513,9 @@
 "<er>"
 	"er" unk
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 	"yn" p :in: 388368
@@ -9626,11 +9564,11 @@
 "<.>"
 
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<fel>"
 	"fel" c :as: 391343
 	"fel" c :like: 386106
@@ -9654,13 +9592,13 @@
 "<newydd>"
 	"newydd" a :new: 388087
 "<i_fewn>"
-	"i_fewn" p :in: 417102
+	"i_fewn" p :in: 417295
 "<ar>"
 	"ar" p :on: 387527
 "<hyn>"
 	"hyn" r :this, these: 387993
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<bryd>"
@@ -9699,7 +9637,7 @@
 "<ond>"
 	"ond" c :but: 388114
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<just>"
@@ -9717,10 +9655,11 @@
 "<.>"
 
 "<because>"
+	"because" c
 "<os>"
 	"os" c :if (likely): 392047
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<mynegi>"
@@ -9729,7 +9668,7 @@
 	"barn" n f s :opinion: 388698
 	"barnu" vfle 2s imperative :judge: 119413
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<fydd>"
 	"bod" vfle sm 3s future :be: 334222
 "<raid>"
@@ -9794,29 +9733,27 @@
 "<wnei>"
 	"gwneud" vfle sm 2s present :do: 308470
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<golchi>"
 	"golchi" vinf :wash: 395907
 "<rhein>"
-	"rhein" unk
+	"rhain" r spoken :these: 417300
 "<?>"
 
 "<yeah>"
 	"yeah" i
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<bound>"
 	"bound" a
 "<o>"
-	"fo" r m s :he/it: 417088
 	"o" p :of: 391277
-	"o" p :from: 391197
 "<ddigwydd>"
 	"digwydd" vinf sm :happen: 413573
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<be>"
@@ -9826,19 +9763,16 @@
 "<bound>"
 	"bound" a
 "<o>"
-	"fo" r m s :he/it: 417088
 	"o" p :of: 391277
-	"o" p :from: 391197
 "<ddigwydd>"
 	"digwydd" vinf sm :happen: 413573
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<?>"
 
 "<yeah>"
 	"yeah" i
 "<wedi>"
-	"gwadu" vfle sm 2s present literary :deny: 323156
 	"wedi" p :after: 386262
 "<wedi>"
 	"wedi" p :after: 386262
@@ -9881,11 +9815,11 @@
 "<nhw>"
 	"nhw" r :they: 386255
 "<yn_dydyn>"
-	"yn_dydyn" e :aren''t_they: 417108
+	"yn_dydyn" e :aren''t_they: 417304
 "<?>"
 
 "<yndyn>"
-	"yndyn" unk
+	"bod" vfle 3p present spoken :be: 417309
 "<.>"
 
 "<just>"
@@ -9893,11 +9827,11 @@
 "<bwrdd>"
 	"bwrdd" n m s :table: 388782
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<hmm>"
@@ -9909,7 +9843,7 @@
 "<bach>"
 	"bach" a :small: 387584
 "<dyn>"
-	"bod" vfle 3p present spoken :be: 417086
+	"bod" vfle 3p present spoken :be: 417277
 "<nhw>"
 	"nhw" r :they: 386255
 "<sti>"
@@ -9934,13 +9868,11 @@
 "<.>"
 
 "<dwn>"
-	"dwn" unk
+	"gwybod" vfle 1s present spoken :know: 417294
 "<i>"
-	"i" p :to: 391198
+	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
-	"dim" n sm m s :nought: 409056
-	"dim" n sm m s :zero: 409054
+	"ddim" b :not: 391363
 "<pwy>"
 	"pwy" r :who?: 388179
 "<sy>"
@@ -9988,7 +9920,7 @@
 "<mynd>"
 	"mynd" vinf :go: 394005
 "<o_amgylch>"
-	"o_amgylch" p :around: 417064
+	"o_amgylch" p :around: 417255
 "<gwahanol>"
 	"gwahanol" a :different: 387931
 "<lefydd>"
@@ -10027,7 +9959,7 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<wedi>"
@@ -10041,15 +9973,13 @@
 "<Bontnewydd>"
 	"Bontnewydd" name
 "<yn>"
-	"yn" stat :stative: 391257
 	"yn" p :in: 388368
 "<Newborough>"
-	"yn" stat :stative: 391257
-	"yn" p :in: 388368
+	"Newborough" name
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<gorod>"
@@ -10059,12 +9989,11 @@
 "<rywbeth>"
 	"rhywbeth" n sm m s :something: 401737
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<ei>"
 	"ei" a :her: 391205
-	"ei" a :his: 391194
 "<gwaith>"
 	"gwaith" n f s :time (instance): 391059
 	"gwaith" n m s :work: 389743
@@ -10153,7 +10082,7 @@
 "<wyth>"
 	"wyth" a :eight (8): 392916
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<lefydd>"
@@ -10182,13 +10111,11 @@
 "<yeah>"
 	"yeah" i
 "<dwn>"
-	"dwn" unk
+	"gwybod" vfle 1s present spoken :know: 417294
 "<i>"
-	"i" p :to: 391198
+	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
-	"dim" n sm m s :nought: 409056
-	"dim" n sm m s :zero: 409054
+	"ddim" b :not: 391363
 "<.>"
 
 "<a>"
@@ -10218,7 +10145,7 @@
 "<pedwerydd>"
 	"pedwerydd" a :fourth (4th, m): 392899
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<Dachwedd>"
@@ -10281,13 +10208,13 @@
 "<nôl>"
 	"nôl" vinf :fetch: 396631
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<Llundain>"
 	"Llundain" n f s :London: 391975
 "<dydd>"
 	"dydd" n m s :day (named): 391042
 "<Gwener>"
-	"Gwener" name
+	"Gwener" n f s :Friday: 417311
 "<tydan>"
 	"tydan" unk
 "<?>"
@@ -10299,7 +10226,7 @@
 "<.>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<Cymru>"
@@ -10317,7 +10244,7 @@
 "<.>"
 
 "<yn_erbyn>"
-	"yn_erbyn" p :against: 417107
+	"yn_erbyn" p :against: 417303
 "<pwy>"
 	"pwy" r :who?: 388179
 "<?>"
@@ -10333,7 +10260,7 @@
 "<i>"
 	"i" p :to: 391198
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<gwybod>"
@@ -10344,6 +10271,7 @@
 
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<lle>"
 	"lle" n m s :place: 389975
 "<?>"
@@ -10401,24 +10329,24 @@
 "<nag>"
 	"nag" c :than: 386258
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 	"oes" n f s :age: 390173
 "<!>"
 
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 "<.>"
 
 "<wnest>"
 	"wnest" unk
 "<di>"
-	"ti" r sm mf s :you: 417081
+	"ti" r sm mf s :you: 417272
 "<ddeud>"
-	"dweud" vinf sm :say: 417101
+	"dweud" vinf sm :say: 417291
 "<bod>"
 	"bod" vinf :be: 394007
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<yn>"
 	"yn" stat :stative: 391257
 	"yn" p :in: 388368
@@ -10447,11 +10375,11 @@
 "<ond>"
 	"ond" c :but: 388114
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -10459,9 +10387,9 @@
 "<os>"
 	"os" c :if (likely): 392047
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ymlaen>"
 	"ymlaen" b :forward: 388359
 	"ymlaen" b :on (of switch or setting): 387222
@@ -10472,30 +10400,30 @@
 "<grybyllwyd>"
 	"grybyllwyd" unk
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 	"oes" n f s :age: 390173
 "<pys>"
 	"pys" unk
 "<yn_ôl>"
-	"yn_ôl" p :back: 417106
+	"yn_ôl" p :back: 417302
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<wedi>"
 	"wedi" p :after: 386262
 "<clywed>"
 	"clywed" vinf :hear: 397802
 "<dim_byd>"
-	"dim_byd" n m s :nothing: 417075
+	"dim_byd" n m s :nothing: 417266
 "<un>"
 	"un" a :one (1): 392895
 "<ffordd>"
@@ -10544,7 +10472,7 @@
 "<hi>"
 	"hi" r :she/it: 391323
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<neidio>"
 	"neidio" vinf :jump: 396636
 "<dydd>"
@@ -10558,7 +10486,7 @@
 "<hi>"
 	"hi" r :she/it: 391323
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<?>"
 
 "<oedd>"
@@ -10568,19 +10496,19 @@
 "<ormod>"
 	"gormod" n sm m s :too much: 404390
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<wynt>"
 	"gwynt" n sm m s :wind: 404697
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<gormod>"
 	"gormod" n m s :too much: 389704
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<wynt>"
@@ -10600,7 +10528,7 @@
 "<hugain>"
 	"hugain" unk
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<Dachwedd>"
@@ -10619,7 +10547,7 @@
 "<a>"
 	"a" c :and: 387415
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<i>"
 	"i" p :to: 391198
 "<mi>"
@@ -10628,7 +10556,7 @@
 	"gwan" a sm :pale (of colour): 400658
 	"gwan" a sm :weak: 399141
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -10636,21 +10564,19 @@
 "<.>"
 
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<nôl>"
 	"nôl" vinf :fetch: 396631
 "<yn>"
-	"yn" stat :stative: 391257
 	"yn" p :in: 388368
 "<Princes_Drive>"
-	"yn" stat :stative: 391257
-	"yn" p :in: 388368
+	"Princes_Drive" name
 "<neu>"
 	"neu" c :or: 386257
 "<.>"
 
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<wedi>"
@@ -10672,7 +10598,7 @@
 "<yn>"
 	"yn" stat :stative: 391257
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<bod>"
 	"bod" vinf :be: 394007
 "<hi>"
@@ -10700,7 +10626,7 @@
 "<be>"
 	"be" i :what: 387592
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<Penmon>"
@@ -10761,7 +10687,7 @@
 "<ti>"
 	"ti" r :you (sing): 390999
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 "<?>"
 
 "<o_k>"
@@ -10789,7 +10715,7 @@
 "<?>"
 
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 	"oes" n f s :age: 390173
 "<gynni>"
 	"cynnu" vfle sm 2s present :light: 318959
@@ -10810,10 +10736,10 @@
 "<?>"
 
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 	"oes" n f s :age: 390173
 "<oes>"
-	"bod" vfle present :be: 417099
+	"bod" vfle 3s present :be: 417307
 "<.>"
 
 "<mae>"
@@ -10833,7 +10759,7 @@
 "<hyn>"
 	"hyn" r :this, these: 387993
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<bryd>"
@@ -10846,6 +10772,7 @@
 	"ond" c :but: 388114
 "<yn>"
 	"yn" stat :stative: 391257
+	"yn" p :in: 388368
 "<lle>"
 	"lle" n m s :place: 389975
 "<felly>"
@@ -10863,7 +10790,7 @@
 "<hyn>"
 	"hyn" r :this, these: 387993
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 	"o" p :of: 391277
 	"o" p :from: 391197
 "<bryd>"
@@ -10882,7 +10809,7 @@
 "<oh>"
 	"oh" i
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 	"to" n sm m s :roof: 405699
 	"to" n sm m s :roof: 405698
 	"toi" vfle sm 3s present :roof: 363203
@@ -10894,19 +10821,19 @@
 "<hefyd>"
 	"hefyd" b :also: 386188
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 "<.>"
 
 "<so>"
 	"so" q
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<meddwl>"
 	"meddwl" vinf :think: 396510
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<meddwl>"
@@ -10918,7 +10845,7 @@
 "<hi>"
 	"hi" r :she/it: 391323
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<mae>"
 	"bod" vfle 3s present :be: 143468
 "<gynni>"
@@ -10944,13 +10871,13 @@
 "<dod>"
 	"dod" vinf :come: 394002
 "<i_fyny>"
-	"i_fyny" p :up: 417104
+	"i_fyny" p :up: 417297
 "<.>"
 
 "<mmm>"
 	"mmm" i
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<am>"
 	"am" p :for: 387453
 "<fynd>"
@@ -10966,7 +10893,7 @@
 "<?>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<meddwl>"
@@ -10974,11 +10901,11 @@
 "<.>"
 
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
@@ -10990,11 +10917,11 @@
 "<i>"
 	"i" r :I: 391279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<cadw>"
 	"cadw" vinf :keep: 394579
 "<i_fyny>"
-	"i_fyny" p :up: 417104
+	"i_fyny" p :up: 417297
 "<efo>"
 	"efo" p :with: 387846
 "<hi>"
@@ -11005,12 +10932,12 @@
 	"mmm" i
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<.>"
 
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<fasai>"
 	"fasai" unk
 "<hi>"
@@ -11024,7 +10951,7 @@
 "<oh>"
 	"oh" i
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<Acoustique>"
 	"Acoustique" name
 "<oedd>"
@@ -11032,7 +10959,7 @@
 "<hwnna>"
 	"hwnna" r :that one (m): 391245
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -11040,7 +10967,7 @@
 "<.>"
 
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<fasai>"
 	"fasai" unk
 "<hi>"
@@ -11086,7 +11013,7 @@
 "<?>"
 
 "<pen_blwydd>"
-	"pen_blwydd" n m s :birthday: 417073
+	"pen_blwydd" n m s :birthday: 417264
 "<.>"
 
 "<oh>"
@@ -11100,7 +11027,7 @@
 "<os>"
 	"os" c :if (likely): 392047
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<gwmpas>"
 	"cwmpas" n sm m s :pair of compasses (geometry): 408917
 	"cwmpas" n sm m s :pair of compasses (geometry): 408916
@@ -11109,7 +11036,7 @@
 "<.>"
 
 "<de>"
-	"ynte" b spoken :then: 417095
+	"ynte" b spoken :then: 417286
 	"de" n m s :right (as opposed to left): 393075
 	"de" n m s :south: 393072
 	"te" n sm m s :tea: 401758
@@ -11220,7 +11147,7 @@
 "<sorry>"
 	"sorry" b
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<i>"
 	"i" r :I: 391279
 "<dal>"
@@ -11250,6 +11177,7 @@
 "<.>"
 
 "<because>"
+	"because" c
 "<ddeudodd>"
 	"ddeudodd" unk
 "<Mark>"
@@ -11277,7 +11205,7 @@
 "<oh>"
 	"oh" i
 "<do>"
-	"do" b :yes: 417098
+	"do" b :yes: 417289
 	"to" n sm m s :roof: 405699
 	"to" n sm m s :roof: 405698
 	"toi" vfle sm 3s present :roof: 363203
@@ -11296,7 +11224,7 @@
 "<wedi>"
 	"wedi" p :after: 386262
 "<deud>"
-	"dweud" vinf :say: 417080
+	"dweud" vinf :say: 417271
 "<.>"
 
 "<fasai>"
@@ -11313,7 +11241,7 @@
 "<?>"
 
 "<basai>"
-	"basai" unk
+	"bod" vfle 3s pluperfect spoken :be: 417301
 "<Nathan>"
 	"Nathan" name
 "<medru>"
@@ -11363,7 +11291,7 @@
 "<ie>"
 	"ie" b :yes: 388005
 "<ella>"
-	"efallai" c spoken :perhaps: 417097
+	"efallai" c spoken :perhaps: 417288
 "<.>"
 
 "<neu>"
@@ -11387,29 +11315,29 @@
 "<i>"
 	"i" p :to: 391198
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<yma>"
 	"yma" b :here: 388349
 "<na>"
 	"na" c :than: 391208
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 	"na" c :(n)or: 385175
 "<fydda>"
 	"fydda" unk
 "<?>"
 
 "<na>"
-	"na" b :not (negative responsive verbal particle): 391185
+	"na" b :not: 391185
 "<so>"
 	"so" q
 "<dydy>"
-	"bod" vfle 3s present neg spoken :be: 417084
+	"bod" vfle 3s present neg spoken :be: 417275
 "<o>"
-	"fo" r m s :he/it: 417088
+	"fo" r m s :he/it: 417279
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<broblem>"
 	"broblem" n
 "<chdi>"
@@ -11417,13 +11345,13 @@
 "<nag>"
 	"nag" c :than: 386258
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<?>"
 
 "<nag>"
 	"nag" c :than: 386258
 "<ydy>"
-	"bod" vfle 3s present spoken :be: 417087
+	"bod" vfle 3s present spoken :be: 417278
 "<.>"
 
 "<ha>"
@@ -11465,7 +11393,7 @@
 "<i>"
 	"i" p :to: 391198
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 	"dim" n sm m s :nought: 409056
 	"dim" n sm m s :zero: 409054
 "<syniad>"
@@ -11475,9 +11403,9 @@
 "<right>"
 	"right" a
 "<dw>"
-	"bod" vfle 1s present spoken :be: 417076
+	"bod" vfle 1s present spoken :be: 417267
 "<ddim>"
-	"ddim" b :not (after verb): 391363
+	"ddim" b :not: 391363
 "<yn>"
 	"yn" stat :stative: 391257
 "<gwybod>"
