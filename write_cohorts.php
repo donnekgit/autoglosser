@@ -21,10 +21,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/siarad/config.php");
 
+$lang1="";
+$lang2="cy&es";
+$lang3="es";
+$lang4="cy&en";
+$lang4="en";
 
-$fp = fopen("outputs/stammers4_cg.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/patagonia1_cg.txt", "w") or die("Can't create the file");
 
-$sql="select * from stammers4_cgwords order by utterance_id, location";
+$sql="select * from patagonia1_cgwords order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
@@ -35,7 +40,7 @@ while ($row=pg_fetch_object($result))
 	echo $stream;
 	fwrite($fp, $stream);
 
-	if ($row->langid=='1')
+	if ($row->langid==$lang1)
 	{
 		unset($entry);
 
@@ -66,7 +71,7 @@ while ($row=pg_fetch_object($result))
 				echo "tense: ".$tense."\n";
 				echo "enlemma: ".$enlemma."\n";*/
 
-				$entry.=pg_escape_string($lemma.$pos.$mutation.$gender.$num.$tense.$reg.$enlemma.$id);
+				$entry.=pg_escape_string($lemma."cy ".$pos.$mutation.$gender.$num.$tense.$reg.$enlemma.$id);
 				//$entry=preg_replace('/-=/','=',$entry);
 				//$entry=preg_replace('/\^$/','',$entry);
 				//echo $entry."\n";
@@ -80,11 +85,11 @@ while ($row=pg_fetch_object($result))
 		else
 		{
 			$tag=(preg_match("/^[A-Z]/", $welsh)) ? "name" : "unk";
-			$entry="\t\"".$welsh."\" ".$tag."\n";
+			$entry="\t\"".$welsh."\" "."cy ".$tag."\n";
 		}
 		echo $entry;
 	}
-	elseif ($row->langid=='0' or $row->langid=='2')
+	elseif ($row->langid==$lang4 or $row->langid==$lang5)
 	{
 		unset($entry);
 
@@ -97,13 +102,38 @@ while ($row=pg_fetch_object($result))
 			{
 				$surface="\t\"".$row_en->surface."\" ";
 				$pos=$row_en->pos."\n";
-				$entry.=pg_escape_string($surface.$pos);
+				$entry.=pg_escape_string($surface."en ".$pos);
 			}
 		}
 		else
 		{
 			$tag=(preg_match("/^[A-Z]/", $welsh)) ? "name" : "unk";
-			$entry="\t\"".$welsh."\" ".$tag."\n";
+			$entry="\t\"".$welsh."\" "."en ".$tag."\n";
+		}
+		echo $entry;
+	}
+	elseif ($row->langid==$lang2 or $row->langid==$lang3)
+	{
+		unset($entry);
+
+		$sql_es="select * from eslist where surface='$welsh'";
+		$result_es=pg_query($db_handle,$sql_es) or die("Can't get the items");
+
+		if (pg_num_rows($result_es)>0)
+		{
+			while ($row_es=pg_fetch_object($result_es))
+			{
+				$lemma="\t\"".$row_es->lemma."\" ";
+				$pos=trim($row_es->pos)." ";
+				$enlemma=":".$row_es->enlemma.": ";
+				$id=$row_es->id."\n";
+				$entry.=pg_escape_string($lemma."es ".$pos.$enlemma.$id);
+			}
+		}
+		else
+		{
+			$tag=(preg_match("/^[A-Z]/", $welsh)) ? "name" : "unk";
+			$entry="\t\"".$welsh."\" "."es ".$tag."\n";
 		}
 		echo $entry;
 	}

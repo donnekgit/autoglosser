@@ -37,6 +37,8 @@ while ($row=pg_fetch_object($result))
     foreach ($welsh_bits as $welsh_value)
     {
         //echo $i." (of ".count($welsh_bits)."): ".htmlspecialchars($welsh_value)."<br>";
+
+		/* For Siarad texts
 		if  (preg_match("/@/", $welsh_value))        
 		{
 			list($welsh_word, $langid)=explode('@', $welsh_value);
@@ -45,9 +47,25 @@ while ($row=pg_fetch_object($result))
 		{
 			$welsh_word=$welsh_value;
 			$langid="999";
+		} 
+		// Note: the code below to handle punctuation separately from other unmarked items could usefully be replicated here if the combined code below does not work and we need to handle Siarad stuff separately.*/
+
+		// This is an attempt to handle both Siarad and Patagonia langid markings in the same bit of code - we replace the langid preamble, whatever it is, by ~~~, and then explode on that.
+		if  (preg_match("/@(s:)/", $welsh_value))     
+		{
+			$welsh_value=preg_replace("/@(s:)/","~~~", $welsh_value);
+			list($welsh_word, $langid)=explode('~~~', $welsh_value);
 		}
-		// Need to adjust the above to allow for different language codes.
-		// Perhaps set some variables (eg $lang_default) at the top.
+		elseif(preg_match("/(\.|\?|!)/", $welsh_value)) 
+		{
+			$welsh_word=$welsh_value;
+			$langid="999";
+		} 
+		else
+		{
+			$welsh_word=$welsh_value;
+			$langid="";
+		} 
 
         $welsh_word=trim(pg_escape_string($welsh_word)); 
 		//echo $row->utterance_id." - ".$i." - ".$welsh_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."<br />";

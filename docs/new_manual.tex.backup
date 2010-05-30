@@ -56,14 +56,6 @@ We add the sourcefile as a column just in case it might be useful in doing queri
 *** sample\_id and line\_num may not be needed.
 
 
-\section{Prepare the file}
-
-These steps are done manually, but can be automated later.  Remove the header lines and paste them to \textbf{outputs/\$filename.header}.  Remove the \textbf{@End} line from the end of the file.  Rename the file to \textbf{\$filename\_headerless}.  Run: \\
-\verb|dos2unix inputs/$filename_headerless|\\
-Replace filenames in \textbf{utils/sed\_joinlines} and run:\\
-\verb|utils/sed_joinlines|\\
-This will ensure that all lines of the text are joined up, and not split over several lines.
-
 \section{cgimport.php}
 
 Opens the chafile given earlier, and imports it into the table \$utterances.  This file could be tidied up a good bit.
@@ -100,7 +92,7 @@ This drops any existing \$words table and recreates it.  The table will hold the
 Lifts the utterances out of the \$utterances table and cleans them of any non-word items, eg markers, indicators, etc.  This is in contrast to the previous system, where we tried to retain these.
 *** Is there an argument for retaining backtracking markers by appending them to the previous word?  This might help in disambiguation, though it might also slow down the import a good bit.  Add / to the allowed characters, and then replace space between word and / with an underscore?
 
-The cleaning is done using the clean\_utterances() function, which can of course be extended.  Note that the order of the items in the function is significant - the main line removes anything that is not a letter or a few other things, so this has to be run after lines that remove items contained in square brackets.  Also note that if you are using language tags containing & (the current CLAN recommendation), each of these has to be moved out of the way first, and then moved back again, because otherwise the lines getting rid of things like &=laugh will affect them too: you will get party@scy instead of party@s:cy&en.
+The cleaning is done using the clean\_utterances() function, which can of course be extended.  Note that the order of the items in the function is significant - the main line removes anything that is not a letter or a few other things, so this has to be run after lines that remove items contained in square brackets.
 
 The original and cleaned utterances are written to a file (\$utterances.txt) for checking purposes.
 

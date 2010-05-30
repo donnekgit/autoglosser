@@ -21,7 +21,7 @@ LIST smnoun = (n sm);
 
 LIST possessive = ("ei" :her:) ("ei" :his:);
 
-LIST modal = "licio" "gobeithio";
+LIST modal = "licio" "gobeithio" "gallu";
 
 LIST countable = "munud" "ceiniog";
 
@@ -61,6 +61,9 @@ select ("do" b) if (1 ("<?>"));
 
 remove ("ni" part-neg) if (not 1 inflected);
 
+select ("beth" i) if (1 inflected);
+
+
 # Conjunctions
 
 select ("a" c) if (-1 (name)) (1 (name));
@@ -81,8 +84,8 @@ select ("yn" p) if (1 (name));
 #select ("i" p) if (1 (sm));
 select ("i" p) if (not -1 inflected);
 
-#select ("o" :of:) if (-1 prequal)(1 adjective);
-select ("o" :of:) if (-1 prequal);
+#select ("o" :of:) if (-1 prequal) (1 adjective);
+select ("o" :of:) if (-1 prequal or ("maint"));
 select ("o" :of:) if (-2 ("ychydig"));
 select ("o" :from:) if (1 ("nos" :night:));
 select ("o" :of:) if (1 ("blaen" sm));
@@ -109,20 +112,22 @@ select noun if (-1 ("y" t));
 select ("ystod" :range:) if (-1 ("yn" p));
 
 select ("ysgol" :school:) if (-1 ("y" t)) (-2 ("yn" p));
-select ("ysgol" :school:) if (1 ("uwchradd"));
+select ("ysgol" :school:) if (1 ("uwchradd" "Cymraeg"));
 
 select ("gwaith" :work:) if (-1 ("o" :of:));
 select ("gwaith" :work:) if (-1 ("codi" :lift:));
 
 select ("diolch" n) if (-1 ("dweud" vinf));
 
-select ("man" :place:) if (1 ("acw" b));
+select ("man" :place:) if (1 ("acw" b) or ("hyn" r));
 
 select ("Mawrth" :March:) if (-1 ("mis" n));
 select ("Mawrth" :Tuesday:) if (-1 ("nos" n));
 select ("Mercher" :Wednesday:) if (-1 ("nos" n));
 
 select ("ymarfer" n) if (-1 ("angen" n));
+
+select ("Cymraeg" n) if (-1 ("siarad"));
 
 
 # Adjectives
@@ -135,6 +140,7 @@ select possessive if (1 noun);
 
 select ("iawn" :OK:) if (-1 ("yn" stat));
 select ("iawn" :OK:) if (-1 concessive);
+select ("iawn" :OK:) if (@1 ("iawn")) (@-1 ("<.>"));
 select ("iawn" :very:) if (-1 adjective);
 
 select ("deg" :ten \(10\):) if (1 countable);
@@ -176,6 +182,7 @@ select ("rhyw" :some:);
 select ("cyfeiriad" :direction:);
 select ("mynd" vfle 1p present);
 select ("darn" :pieces:);
+select ("aros" :wait:);
 remove (vfle subjunctive);
 remove ("fod" c :that:);
 remove ("cael" :get:);
@@ -185,6 +192,13 @@ remove ("tebygol" a sm :probable:);
 
 # 2 - delete archaic forms
 remove (archaic);
+
+
+# Spanish
+
+select ("el" :the:) if (1 (n.m.pl));
+select ("el" :the:) if (1 (n.f.sg));
+select ("el" :the:) if (1 (n.f.pl));
 
 
 

@@ -20,8 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/siarad/config.php");
 
-$chafile="Stammers4.cha";
-list($filename, $ext)=explode('.', strtolower($chafile));
+
+
+$chafile="inputs/Patagonia1.cha";
+list($filename, $ext)=explode('.', strtolower($chafile));  // take off the .cha extension
+list($dir, $filename)=explode('/', strtolower($filename));  // take off the inputs/ dir
 $utterances=strtolower($filename."_cgutterances");
 $words=strtolower($filename."_cgwords");
 
@@ -39,11 +42,11 @@ include("create_cgwords.php");
 echo "*\n*\n*\n*\n*\nCleaning and wordifying the utterance lines\n*\n*\n*\n*\n*\n";
 include("rewrite_utterances.php");
 
-echo "*\n*\n*\n*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n*\n*\n*\n";
-include("write_cohorts.php");
+//echo "*\n*\n*\n*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n*\n*\n*\n";
+//include("write_cohorts.php");
 
-echo "*\n*\n*\n*\n*\nApplying the grammar to disambiguate\n*\n*\n*\n*\n*\n";
-include("apply_cg.php");
+//echo "*\n*\n*\n*\n*\nApplying the grammar to disambiguate\n*\n*\n*\n*\n*\n";
+//include("apply_cg.php");
 
 
 

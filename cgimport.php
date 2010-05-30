@@ -62,6 +62,7 @@ foreach ($lines as $line_num => $line)
 
 		if (isset($timing))
 		{
+			/* For Siarad texts
 			if (preg_match('/snd/', $timing))
 			{
 				list($snd, $sourcefile, $milli)=explode('"', $timing);
@@ -74,6 +75,10 @@ foreach ($lines as $line_num => $line)
 				list($durbegin, $durend)=explode('_', $timing);
 				$duration=$durend-$durbegin;
 			}
+			*/ //End of Siarad section
+			
+			list($durbegin, $durend)=explode('_', $timing);
+			$duration=$durend-$durbegin;
 		}
 		else
 		{

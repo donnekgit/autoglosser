@@ -1,0 +1,3866 @@
+"<ond>"
+	"ond" cy c :but: 388114
+"<rwyt>"
+	"bod" cy vfle 2s present spoken :be: 116603
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<byw>"
+	"byw" cy n m s :life: 387632
+"<ar>"
+	"ar" cy p :on: 387527
+"<bwys>"
+	"pwys" cy n sm m s :pound (weight): 409248
+	"pwys" cy n sm m s :pound (weight): 409247
+	"pwys" cy n sm m s :weight: 405442
+	"pwys" cy n sm m s :weight: 405441
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<coleg>"
+	"coleg" cy n m s :college: 388988
+"<ia>"
+	"ia" cy unk
+"<?>"
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<brif>"
+	"prif" cy a sm :principal: 401678
+	"prif" cy a sm :principal: 401677
+"<brifysgol>"
+	"prifysgol" cy n sm f s :university: 405316
+	"prifysgol" cy n sm f s :university: 405315
+"<?>"
+"<ia>"
+	"ia" cy unk
+"<tua>"
+	"tua" cy p :about: 391207
+	"tua" cy p :approximately: 391206
+	"tua" cy p :towards: 388313
+"<bedwar>"
+	"pedwar" cy a sm :four (4, m): 408733
+	"pedwar" cy a sm :four (4, m): 408732
+"<bloc>"
+	"bloc" cy n m s :block: 388728
+"<.>"
+"<be>"
+	"be" cy i :what: 387592
+"<bedwar>"
+	"pedwar" cy a sm :four (4, m): 408733
+	"pedwar" cy a sm :four (4, m): 408732
+"<bloc>"
+	"bloc" cy n m s :block: 388728
+"<?>"
+"<sí>"
+	"sí" cy unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<gallu>"
+	"gallu" cy vinf :be able: 395857
+	"gallu" cy n m s :capacity  (ability): 387059
+	"gallu" cy n m s :capability: 385481
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<er>"
+	"er" es unk
+"<.>"
+"<cerdded>"
+	"cerdded" cy vinf :walk: 394706
+	"cerdded" cy vfle 3s imperative :walk: 149130
+"<.>"
+"<cerdded>"
+	"cerdded" cy vinf :walk: 394706
+	"cerdded" cy vfle 3s imperative :walk: 149130
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<brifysgol>"
+	"prifysgol" cy n sm f s :university: 405316
+	"prifysgol" cy n sm f s :university: 405315
+"<.>"
+"<es>"
+	"ser" es vbser.pri.p3.sg :be: 517915
+"<muy>"
+	"muy" es preadv :very: 378990
+"<gracioso>"
+	"gracioso" es adj.m.sg :funny: 512921
+"<.>"
+"<sí>"
+	"sí" es prn.tn.ref.p3.mf.sp :himself: 379462
+	"sí" es adv :yes: 379328
+"<.>"
+"<so>"
+	"so" cy unk
+"<funny>"
+	"funny" en unk
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<.>"
+"<que>"
+	"que" es rel.an.mf.sp :who: 379513
+	"que" es cnjsub :who: 499066
+	"que" es cnjcoo :who: 499078
+"<?>"
+"<.>"
+"<.>"
+"<er>"
+	"er" es unk
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<anodd>"
+	"anodd" cy a :difficult: 387520
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<fi>"
+	"fi" cy r :I: 391276
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<efo>"
+	"efo" cy p :with: 387846
+"<ffrindiau>"
+	"ffrind" cy n m p :friends: 389622
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<fan>"
+	"fan" cy n f s :van: 391833
+	"ban" cy n sm mf s :peak: 402157
+	"man" cy n sm mf s :place: 398524
+"<hyn>"
+	"hyn" cy r :this, these: 387993
+"<achos>"
+	"achos" cy n m s :cause: 388412
+"<gyntaf>"
+	"cyntaf" cy a sm :first (1st, first decade only): 408751
+	"cyntaf" cy a sm :first (1st, first decade only): 408750
+"<iaith>"
+	"iaith" cy n f s :language: 389924
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yw>"
+	"bod" cy vfle 3s present :be: 143470
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<.>"
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<.>"
+"<felly>"
+	"felly" cy b :so: 387887
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<anodd>"
+	"anodd" cy a :difficult: 387520
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<efo>"
+	"efo" cy p :with: 387846
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<.>"
+"<tri>"
+	"tri" cy a :three (3, m): 392896
+"<ohonych>"
+	"ohonych" cy unk
+"<chi>"
+	"chi" cy r :you (pl): 391228
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gallu>"
+	"gallu" cy vinf :be able: 395857
+	"gallu" cy n m s :capacity  (ability): 387059
+	"gallu" cy n m s :capability: 385481
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<efo>"
+	"efo" cy p :with: 387846
+"<pobl>"
+	"pobl" cy n f s :people: 388152
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<Cymru>"
+	"Cymru" cy np f s :Wales: 391637
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<ond>"
+	"ond" cy c :but: 388114
+"<efo>"
+	"efo" cy p :with: 387846
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<strange>"
+	"strange" en unk
+"<no>"
+	"no" es adv :not: 379229
+"<?>"
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Gymraeg>"
+	"Cymraeg" cy a sm :Welsh (language): 407103
+	"Cymraeg" cy a sm :Welsh (language): 407102
+	"Cymraeg" cy n sm f s :Welsh (language): 407095
+	"Cymraeg" cy n sm f s :Welsh (language): 407094
+"<.>"
+"<ond>"
+	"ond" cy c :but: 388114
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<ymarfer>"
+	"ymarfer" cy vinf :practice: 397535
+	"ymarfer" cy n f s :exercise: 390833
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<.>"
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<nain>"
+	"nain" cy n f s :grandmother: 392014
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<pob>"
+	"pob" cy a :each: 388151
+"<amser>"
+	"amser" cy n m s :time: 388500
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Gymraeg>"
+	"Cymraeg" cy a sm :Welsh (language): 407103
+	"Cymraeg" cy a sm :Welsh (language): 407102
+	"Cymraeg" cy n sm f s :Welsh (language): 407095
+	"Cymraeg" cy n sm f s :Welsh (language): 407094
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<fi>"
+	"fi" cy r :I: 391276
+"<.>"
+"<fi>"
+	"fi" cy r :I: 391276
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gallu>"
+	"gallu" cy vinf :be able: 395857
+	"gallu" cy n m s :capacity  (ability): 387059
+	"gallu" cy n m s :capability: 385481
+"<clywed>"
+	"clywed" cy vinf :hear: 397802
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<cyfle>"
+	"cyfle" cy n m s :opportunity: 389114
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<anodd>"
+	"anodd" cy a :difficult: 387520
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<achos>"
+	"achos" cy n m s :cause: 388412
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwneud>"
+	"gwneud" cy vinf :make: 393995
+"<.>"
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<.>"
+"<me>"
+	"prpers" es prn.obj.p1.mf.sg :me: 379496
+"<trabo>"
+	"trabo" es unk
+"<.>"
+"<ond>"
+	"ond" cy c :but: 388114
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gallu>"
+	"gallu" cy vinf :be able: 395857
+	"gallu" cy n m s :capacity  (ability): 387059
+	"gallu" cy n m s :capability: 385481
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<?>"
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<&y>"
+	"&y" cy unk
+"<ymarfer>"
+	"ymarfer" cy vinf :practice: 397535
+	"ymarfer" cy n f s :exercise: 390833
+"<.>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<dim>"
+	"dim" cy b :not: 391258
+	"dim" cy n m s :zero: 393088
+	"dim" cy n m s :nought: 393089
+"<dim>"
+	"dim" cy b :not: 391258
+	"dim" cy n m s :zero: 393088
+	"dim" cy n m s :nought: 393089
+"<llawer>"
+	"llawer" cy a :many: 388026
+"<.>"
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<mm>"
+	"mm" es unk
+"<efo>"
+	"efo" cy p :with: 387846
+"<dy>"
+	"dy" cy a :your (sing): 391231
+"<chwaer>"
+	"chwaer" cy n f s :sister: 388930
+"<di>"
+	"ti" cy r sm mf s :you: 417272
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<?>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Spanish>"
+	"Spanish" en name
+"<.>"
+"<oh>"
+	"oh" es ij :oh: 510327
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<.>"
+"<weithiau>"
+	"weithiau" cy b :sometimes: 386351
+	"gwaith" cy n sm m p :works  (jobs): 406393
+	"gwaith" cy n sm f p :times  (instances): 406391
+"<pan>"
+	"pan" cy c :when: 388122
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<um>"
+	"um" es unk
+"<fy>"
+	"fy" cy a :my: 391204
+"<mrawd>"
+	"brawd" cy n nm m s :brother: 402282
+"<yng>"
+	"yng" cy p :in (with following ng): 391261
+"<nghyfraith>"
+	"cyfraith" cy n nm f s :law: 403337
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dod>"
+	"dod" cy vinf :come: 394002
+"<yma>"
+	"yma" cy b :here: 388349
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<wedyn>"
+	"wedyn" cy b :afterwards: 388339
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<mi>"
+	"mi" cy part-aff :: 391200
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Gymraeg>"
+	"Cymraeg" cy a sm :Welsh (language): 407103
+	"Cymraeg" cy a sm :Welsh (language): 407102
+	"Cymraeg" cy n sm f s :Welsh (language): 407095
+	"Cymraeg" cy n sm f s :Welsh (language): 407094
+"<achos>"
+	"achos" cy n m s :cause: 388412
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<Gymru>"
+	"Gymru" cy name
+"<felly>"
+	"felly" cy b :so: 387887
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<dydy>"
+	"bod" cy vfle 3s present neg spoken :be: 417275
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<ddim>"
+	"ddim" cy b :not (after verb): 391363
+	"dim" cy n sm m s :nought: 409056
+	"dim" cy n sm m s :zero: 409054
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<llawer>"
+	"llawer" cy a :many: 388026
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<.>"
+"<dim>"
+	"dim" cy b :not: 391258
+	"dim" cy n m s :zero: 393088
+	"dim" cy n m s :nought: 393089
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<?>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<.>"
+"<ond>"
+	"ond" cy c :but: 388114
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<hoffi>"
+	"hoffi" cy vinf :like: 396214
+	"hoffi" cy vfle 2s present :like: 132267
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<mwy>"
+	"mwy" cy a :bigger: 386239
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<felly>"
+	"felly" cy b :so: 387887
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<a:>"
+	"a:" cy unk
+"<Wendy>"
+	"Wendy" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<efo>"
+	"efo" cy p :with: 387846
+"<gŵr>"
+	"gŵr" cy n m s :husband: 385202
+	"gŵr" cy n m s :man: 385201
+"<er>"
+	"er" es unk
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Gymraeg>"
+	"Cymraeg" cy a sm :Welsh (language): 407103
+	"Cymraeg" cy a sm :Welsh (language): 407102
+	"Cymraeg" cy n sm f s :Welsh (language): 407095
+	"Cymraeg" cy n sm f s :Welsh (language): 407094
+"<neu>"
+	"neu" cy c :or: 386257
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<neu>"
+	"neu" cy c :or: 386257
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Saesneg>"
+	"Saesneg" cy a :English (language): 392139
+"<?>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<nhw>"
+	"nhw" cy r :they: 386255
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cymysgu>"
+	"cymysgu" cy vinf :mix: 395208
+"<.>"
+"<cymysgu>"
+	"cymysgu" cy vinf :mix: 395208
+"<popeth>"
+	"popeth" cy n m s :everything: 388155
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<dwy>"
+	"dwy" cy a :two (2, f): 392906
+"<.>"
+"<y>"
+	"y" es cnj.coo :and: 687842
+"<&w>"
+	"&w" cy unk
+"<los>"
+	"el" es det.def.m.pl :the: 499098
+	"prpers" es prn.obj.p3.m.pl :they: 379504
+"<hijos>"
+	"hijo" es n.m.pl :son: 504369
+"<?>"
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<dwy>"
+	"dwy" cy a :two (2, f): 392906
+"<iaith>"
+	"iaith" cy n f s :language: 389924
+"<.>"
+"<los>"
+	"el" es det.def.m.pl :the: 499098
+	"prpers" es prn.obj.p3.m.pl :they: 379504
+"<hijos>"
+	"hijo" es n.m.pl :son: 504369
+"<.>"
+"<la>"
+	"prpers" es prn.obj.p3.f.sg :she: 379503
+	"el" es det.def.f.sg :the: 687841
+"<la>"
+	"prpers" es prn.obj.p3.f.sg :she: 379503
+	"el" es det.def.f.sg :the: 687841
+"<nena>"
+	"nene" es n.f.sg :girl: 506347
+"<y>"
+	"y" es cnj.coo :and: 687842
+"<nene>"
+	"nene" es n.m.sg :girl: 506349
+"<?>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<Cledwyn>"
+	"Cledwyn" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<Saesneg>"
+	"Saesneg" cy a :English (language): 392139
+"<.>"
+"<ah>"
+	"ah" es ij :wow: 466224
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<Mared>"
+	"Mared" es name
+"<dydy>"
+	"bod" cy vfle 3s present neg spoken :be: 417275
+"<Mared>"
+	"Mared" es name
+"<ddim>"
+	"ddim" cy b :not (after verb): 391363
+	"dim" cy n sm m s :nought: 409056
+	"dim" cy n sm m s :zero: 409054
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<eto>"
+	"eto" cy c :still  (yet): 387192
+	"eto" cy b :again: 386099
+	"eto" cy c :yet: 386098
+"<.>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<efo>"
+	"efo" cy p :with: 387846
+"<dy>"
+	"dy" cy a :your (sing): 391231
+"<Wendy>"
+	"Wendy" es name
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<?>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<nhw>"
+	"nhw" cy r :they: 386255
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<efo>"
+	"efo" cy p :with: 387846
+"<Wendy>"
+	"Wendy" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Sbaeneg>"
+	"Sbaeneg" cy name
+"<efo>"
+	"efo" cy p :with: 387846
+"<Tegai>"
+	"Tegai" es name
+"<.>"
+"<pan>"
+	"pan" cy c :when: 388122
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<ysgol>"
+	"ysgol" cy n f s :ladder: 390921
+	"ysgol" cy n f s :school: 390919
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<neu>"
+	"neu" cy c :or: 386257
+"<Saesneg>"
+	"Saesneg" cy a :English (language): 392139
+"<.>"
+"<ysgol>"
+	"ysgol" cy n f s :ladder: 390921
+	"ysgol" cy n f s :school: 390919
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<nhw>"
+	"nhw" cy r :they: 386255
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ysgol>"
+	"ysgol" cy n f s :ladder: 390921
+	"ysgol" cy n f s :school: 390919
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<bues>"
+	"bues" cy unk
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<medium>"
+	"medium" cy unk
+"<Welsh>"
+	"Welsh" cy name
+"<?>"
+"<bues>"
+	"bues" cy unk
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Camwy>"
+	"Camwy" es name
+"<?>"
+"<bues>"
+	"bues" cy unk
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Camwy>"
+	"Camwy" es name
+"<?>"
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<Wendy>"
+	"Wendy" es name
+"<Camwy>"
+	"Camwy" es name
+"<hefyd>"
+	"hefyd" cy b :also: 386188
+"<.>"
+"<Wendy>"
+	"Wendy" es name
+"<.>"
+"<Camwy>"
+	"Camwy" es name
+"<hefyd>"
+	"hefyd" cy b :also: 386188
+"<.>"
+"<Camwy>"
+	"Camwy" es name
+"<.>"
+"<Wendy>"
+	"Wendy" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Camwy>"
+	"Camwy" es name
+"<.>"
+"<fel>"
+	"fel" cy c :as: 391343
+	"fel" cy c :like: 386106
+"<enw>"
+	"enw" cy n m s :name: 389537
+"<ar>"
+	"ar" cy p :on: 387527
+"<coleg>"
+	"coleg" cy n m s :college: 388988
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<prifysgol>"
+	"prifysgol" cy n f s :university: 390319
+"<.>"
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<wel>"
+	"wel" cy unk
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<gen>"
+	"gen" cy unk
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<llawer>"
+	"llawer" cy a :many: 388026
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<bethau>"
+	"peth" cy n sm m p :things: 405142
+	"peth" cy n sm m p :things: 405141
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ddarllen>"
+	"darllen" cy vinf sm :read: 413301
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yfory>"
+	"yfory" cy b :tomorrow: 388348
+"<.>"
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<astudio>"
+	"astudio" cy vinf :study: 394338
+	"astudio" cy vfle 3s subjunctive :study: 146179
+"<.>"
+"<yfory>"
+	"yfory" cy b :tomorrow: 388348
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<coleg>"
+	"coleg" cy n m s :college: 388988
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gynnar>"
+	"cynnar" cy a sm :early: 401329
+	"cynnar" cy a sm :early: 401328
+"<.>"
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gynnar>"
+	"cynnar" cy a sm :early: 401329
+	"cynnar" cy a sm :early: 401328
+"<?>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<faint>"
+	"maint" cy n sm m s :size: 404843
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<gloch>"
+	"cloch" cy n sm f s :bell: 398030
+	"cloch" cy n sm f s :bell: 398029
+	"cloi" cy vfle sm 2p subjunctive :lock: 270123
+"<?>"
+"<umm>"
+	"umm" es unk
+"<deg>"
+	"deg" cy a :ten (10): 393218
+	"deg" cy n m s :ten: 393083
+	"teg" cy a sm :fair: 401772
+	"teg" cy a sm :fair: 401771
+"<.>"
+"<ddim>"
+	"ddim" cy b :not (after verb): 391363
+	"dim" cy n sm m s :nought: 409056
+	"dim" cy n sm m s :zero: 409054
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gynnar>"
+	"cynnar" cy a sm :early: 401329
+	"cynnar" cy a sm :early: 401328
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<.>"
+"<.>"
+"<ond>"
+	"ond" cy c :but: 388114
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gynnar>"
+	"cynnar" cy a sm :early: 401329
+	"cynnar" cy a sm :early: 401328
+"<.>"
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<godi>"
+	"codi" cy vinf sm :lift: 411816
+	"codi" cy vinf sm :lift: 411815
+	"codio" cy vfle sm 2s present :code: 313127
+	"codi" cy vfle sm 2s present :lift: 313113
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gynt>"
+	"gynt" cy b :of earlier times: 392269
+	"cynt" cy a sm :earlier: 401340
+	"cynt" cy a sm :earlier: 401339
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwybod>"
+	"gwybod" cy vinf :know (fact): 393993
+"<bod>"
+	"bod" cy vinf :be: 394007
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<penblwydd>"
+	"penblwydd" cy n m s :birthday: 385639
+"<Karl>"
+	"Karl" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<mis>"
+	"mis" cy n m s :month: 385598
+"<Tachwedd>"
+	"Tachwedd" cy n m s :November: 391339
+"<.>"
+"<oh>"
+	"oh" es ij :oh: 510327
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<os>"
+	"os" cy c :if (likely): 392047
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<isio>"
+	"isio" cy n m s :want: 388015
+"<.>"
+"<penblwydd>"
+	"penblwydd" cy n m s :birthday: 385639
+"<Karl>"
+	"Karl" es name
+"<.>"
+"<pryd>"
+	"pryd" cy n m s :meal: 390341
+"<er>"
+	"er" cy unk
+"<pa>"
+	"pa" cy a :which: 388119
+"<dydd>"
+	"dydd" cy n m s :day  (named): 391042
+"<yw>"
+	"bod" cy vfle 3s present :be: 143470
+"<tri>"
+	"tri" cy a :three (3, m): 392896
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<Tachwedd>"
+	"Tachwedd" cy n m s :November: 391339
+"<?>"
+"<er>"
+	"er" cy unk
+"<dydd>"
+	"dydd" cy n m s :day  (named): 391042
+"<.>"
+"<Tachwedd>"
+	"Tachwedd" cy n m s :November: 391339
+"<ie>"
+	"ie" cy b :yes: 388005
+"<?>"
+"<noviembre>"
+	"noviembre" es n.m.sg :November: 506468
+"<?>"
+"<November>"
+	"November" en name
+"<?>"
+"<Tachwedd>"
+	"Tachwedd" cy n m s :November: 391339
+"<?>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<um>"
+	"um" es unk
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<meddwl>"
+	"meddwl" cy vinf :think: 396510
+	"meddwl" cy n m s :thought: 390066
+	"meddwl" cy vfle 3s present :think: 163426
+	"meddwl" cy vfle 2s imperative :think: 134361
+"<dydd>"
+	"dydd" cy n m s :day  (named): 391042
+"<Mawrth>"
+	"Mawrth" cy n m s :Mars: 392004
+	"Mawrth" cy n m s :March: 391799
+"<.>"
+"<treinta>"
+	"treinta" es num.mf.sp :thirty: 379391
+"<y>"
+	"y" es cnj.coo :and: 687842
+"<uno>"
+	"unir" es vblex.pri.p1.sg :unite: 364927
+	"uno" es prn.tn.m.sg :one: 379470
+"<uno>"
+	"unir" es vblex.pri.p1.sg :unite: 364927
+	"uno" es prn.tn.m.sg :one: 379470
+"<dos>"
+	"dos" es num.mf.sp :two: 379368
+"<.>"
+"<ah>"
+	"ah" es ij :wow: 466224
+"<dydd>"
+	"dydd" cy n m s :day  (named): 391042
+"<mawrth>"
+	"mawrth" cy unk
+"<nesaf>"
+	"nesu" cy vfle 1s present :approach: 13392
+"<no>"
+	"nesu" cy vfle 1s present :approach: 13392
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<trydydd>"
+	"trydydd" cy a :third (3rd, m): 392903
+"<.>"
+"<arall>"
+	"arall" cy a :other: 387529
+"<?>"
+"<arall>"
+	"arall" cy a :other: 387529
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<.>"
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<ond>"
+	"ond" cy c :but: 388114
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cael>"
+	"cael" cy vinf :get: 394006
+	"cael" cy vinf :have: 393996
+"<dau_ddeg_pedwar>"
+	"dau_ddeg_pedwar" cy unk
+"<.>"
+"<dau_ddeg_pedwar>"
+	"dau_ddeg_pedwar" cy unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<penblwydd>"
+	"penblwydd" cy n m s :birthday: 385639
+"<Karl>"
+	"Karl" es name
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<wedyn>"
+	"wedyn" cy b :afterwards: 388339
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dau_ddeg_naw>"
+	"dau_ddeg_naw" cy unk
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<Tachwedd>"
+	"Tachwedd" cy n m s :November: 391339
+"<penblwydd>"
+	"penblwydd" cy n m s :birthday: 385639
+"<Celio>"
+	"Celio" es name
+"<.>"
+"<Celio>"
+	"Celio" es name
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<?>"
+"<pryd>"
+	"pryd" cy n m s :meal: 390341
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cael>"
+	"cael" cy vinf :get: 394006
+	"cael" cy vinf :have: 393996
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<?>"
+"<erm>"
+	"erm" es unk
+"<diwrnod>"
+	"diwrnod" cy n m s :day (24 hours): 391326
+"<nesaf>"
+	"nesu" cy vfle 1s present :approach: 13392
+"<.>"
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<haf>"
+	"haf" cy n m s :summer: 393137
+"<?>"
+"<eh>"
+	"eh" es unk
+"<?>"
+"<diwrnod>"
+	"diwrnod" cy n m s :day (24 hours): 391326
+"<nesaf>"
+	"nesu" cy vfle 1s present :approach: 13392
+"<eh>"
+	"eh" es unk
+"<&k>"
+	"&k" cy unk
+"<um>"
+	"um" es unk
+"<.>"
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<?>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<diwrnod>"
+	"diwrnod" cy n m s :day (24 hours): 391326
+"<nesaf>"
+	"nesu" cy vfle 1s present :approach: 13392
+"<?>"
+"<ar_ôl>"
+	"ar_ôl" cy p :after: 417245
+"<er>"
+	"er" es unk
+"<penblwydd>"
+	"penblwydd" cy n m s :birthday: 385639
+"<Celio>"
+	"Celio" es name
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<Celio>"
+	"Celio" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cael>"
+	"cael" cy vinf :get: 394006
+	"cael" cy vinf :have: 393996
+"<ar>"
+	"ar" cy p :on: 387527
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<nawfed_ar_hugain>"
+	"nawfed_ar_hugain" cy unk
+"<.>"
+"<ah>"
+	"ah" es ij :wow: 466224
+"<treinta>"
+	"treinta" es num.mf.sp :thirty: 379391
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cael>"
+	"cael" cy vinf :get: 394006
+	"cael" cy vinf :have: 393996
+"<.>"
+"<ah>"
+	"ah" es ij :wow: 466224
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cael>"
+	"cael" cy vinf :get: 394006
+	"cael" cy vinf :have: 393996
+"<dwy>"
+	"dwy" cy a :two (2, f): 392906
+"<penblwydd>"
+	"penblwydd" cy n m s :birthday: 385639
+"<.>"
+"<double>"
+	"double" en unk
+"<double>"
+	"double" en unk
+"<party>"
+	"double" en unk
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<mmhm>"
+	"mmhm" cy unk
+"<.>"
+"<.>"
+"<party>"
+	"party" en n
+"<double>"
+	"double" en unk
+"<.>"
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<allan>"
+	"allan" cy b :out: 387449
+	"gallu" cy vfle sm 3p future spoken :be: 290760
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<dawnsio>"
+	"dawnsio" cy vinf :dance: 395380
+	"dawnsio" cy vfle 3s subjunctive :dance: 154515
+"<neu>"
+	"neu" cy c :or: 386257
+"<gwneud>"
+	"gwneud" cy vinf :make: 393995
+"<rhywbeth>"
+	"rhywbeth" cy n m s :something: 388221
+"<.>"
+"<neu>"
+	"neu" cy c :or: 386257
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<karaoke>"
+	"karaoke" es unk
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ganu>"
+	"canu" cy vinf sm :sing: 411384
+	"canu" cy vinf sm :sing: 411383
+"<?>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<.>"
+"<fi>"
+	"fi" cy r :I: 391276
+"<efo>"
+	"efo" cy p :with: 387846
+"<Celio>"
+	"Celio" es name
+"<wedi>"
+	"gwadu" cy vfle sm 2s present literary :deny: 323156
+	"wedi" cy p :after: 386262
+"<bod>"
+	"bod" cy vinf :be: 394007
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<karaoke>"
+	"karaoke" es unk
+"<eh>"
+	"eh" es unk
+"<efo>"
+	"efo" cy p :with: 387846
+"<Celio>"
+	"Celio" es name
+"<Karl>"
+	"Celio" es name
+"<mmhm>"
+	"mmhm" cy unk
+"<.>"
+"<aeson>"
+	"aeson" cy unk
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<un>"
+	"un" cy a :one (1): 392895
+"<pub>"
+	"pub" cy unk
+"<fach>"
+	"bach" cy a sm :small: 401046
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<karaoke>"
+	"karaoke" es unk
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<canu>"
+	"canu" cy vinf :sing: 394652
+"<.>"
+"<efo>"
+	"efo" cy p :with: 387846
+"<Celio>"
+	"Celio" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<canu>"
+	"canu" cy vinf :sing: 394652
+"<can>"
+	"can" cy n m s :can: 388837
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<er>"
+	"er" es unk
+"<Luis_Miguel>"
+	"Luis_Miguel" es name
+"<.>"
+"<.>"
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<fi>"
+	"fi" cy r :I: 391276
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwneud>"
+	"gwneud" cy vinf :make: 393995
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<.>"
+"<oedd>"
+	"bod" cy vfle 3s imperfect :be: 143473
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<neis>"
+	"neis" cy a :nice: 386036
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<efo>"
+	"efo" cy p :with: 387846
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<microfono>"
+	"microfono" es unk
+"<.>"
+"<ble>"
+	"ble" cy i :where: 387603
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Palermo>"
+	"Palermo" es name
+"<neu>"
+	"neu" cy c :or: 386257
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Palermo>"
+	"Palermo" es name
+"<.>"
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<wedi>"
+	"gwadu" cy vfle sm 2s present literary :deny: 323156
+	"wedi" cy p :after: 386262
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<?>"
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<ymarfer>"
+	"ymarfer" cy vinf :practice: 397535
+	"ymarfer" cy n f s :exercise: 390833
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<um>"
+	"um" es unk
+"<.>"
+"<beth>"
+	"beth" cy i :what: 387597
+	"peth" cy n sm m s :thing: 405145
+	"peth" cy n sm m s :thing: 405144
+"<yw>"
+	"bod" cy vfle 3s present :be: 143470
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<enw>"
+	"enw" cy n m s :name: 389537
+"<?>"
+"<yw>"
+	"bod" cy vfle 3s present :be: 143470
+"<.>"
+"<Peredur>"
+	"Peredur" es name
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwneud>"
+	"gwneud" cy vinf :make: 393995
+"<gwybod>"
+	"gwybod" cy vinf :know (fact): 393993
+"<sut>"
+	"sut" cy i :how: 388259
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<pethau>"
+	"peth" cy n m p :things: 390261
+"<fel>"
+	"fel" cy c :as: 391343
+	"fel" cy c :like: 386106
+"<yna>"
+	"yna" cy b :there: 388369
+"<.>"
+"<felly>"
+	"felly" cy b :so: 387887
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<trio>"
+	"trio" cy vinf :try: 393908
+"<ymarfer>"
+	"ymarfer" cy vinf :practice: 397535
+	"ymarfer" cy n f s :exercise: 390833
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<ia>"
+	"ia" cy unk
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<gen>"
+	"gen" cy unk
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<er>"
+	"er" es unk
+"<llyfr>"
+	"llyfr" cy n m s :book: 390009
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<neis>"
+	"neis" cy a :nice: 386036
+"<neis>"
+	"neis" cy a :nice: 386036
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<keep>"
+	"keep" en unk
+"<in>"
+	"in" en unk
+"<touch>"
+	"touch" en unk
+"<and>"
+	"and" cy unk
+"<.>"
+"<ww>"
+	"ww" cy unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<beth>"
+	"beth" cy i :what: 387597
+	"peth" cy n sm m s :thing: 405145
+	"peth" cy n sm m s :thing: 405144
+"<beth>"
+	"beth" cy i :what: 387597
+	"peth" cy n sm m s :thing: 405145
+	"peth" cy n sm m s :thing: 405144
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<wneud>"
+	"gwneud" cy vinf sm :make: 410353
+"<?>"
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<neis>"
+	"neis" cy a :nice: 386036
+"<cyfarfod>"
+	"cyfarfod" cy n m s :meeting: 389087
+"<chi>"
+	"chi" cy r :you (pl): 391228
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<neis>"
+	"neis" cy a :nice: 386036
+"<gweld>"
+	"gweld" cy vinf :see: 396044
+"<chi>"
+	"chi" cy r :you (pl): 391228
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<bye>"
+	"bye" en unk
+"<chao>"
+	"chao" es unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<hwyl>"
+	"hwyl" cy n f s :fun: 385811
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<chi>"
+	"chi" cy r :you (pl): 391228
+"<.>"
+"<estamos>"
+	"estar" es vblex.pri.p1.pl :be: 93051
+"<practicando>"
+	"practicar" es vblex.ger :practise: 239942
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<ia>"
+	"ia" cy unk
+"<?>"
+"<ta_ra>"
+	"ta_ra" cy unk
+"<.>"
+"<faint>"
+	"maint" cy n sm m s :size: 404843
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<gloch>"
+	"cloch" cy n sm f s :bell: 398030
+	"cloch" cy n sm f s :bell: 398029
+	"cloi" cy vfle sm 2p subjunctive :lock: 270123
+"<Carlos>"
+	"Carlos" es name
+"<?>"
+"<hanner>"
+	"hanner" cy n m s :half: 392882
+"<awr>"
+	"awr" cy n f s :hour: 388671
+"<wedi>"
+	"gwadu" cy vfle sm 2s present literary :deny: 323156
+	"wedi" cy p :after: 386262
+"<saith>"
+	"saith" cy a :seven (7): 392914
+"<.>"
+"<er>"
+	"er" cy unk
+"<chwech>"
+	"chwech" cy a :six (6): 392912
+"<.>"
+"<hanner>"
+	"hanner" cy n m s :half: 392882
+"<awr>"
+	"awr" cy n f s :hour: 388671
+"<wedi>"
+	"gwadu" cy vfle sm 2s present literary :deny: 323156
+	"wedi" cy p :after: 386262
+"<chwech>"
+	"chwech" cy a :six (6): 392912
+"<.>"
+"<chael>"
+	"chael" cy unk
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<bws>"
+	"bws" cy n m s :bus: 388802
+"<.>"
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<gweithio>"
+	"gweithio" cy vinf :work: 396040
+	"gweithio" cy vfle 3s subjunctive :work: 159699
+"<.>"
+"<ydw>"
+	"ydw" cy unk
+"<.>"
+"<fynd>"
+	"mynd" cy vinf sm :go: 410376
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<gweithio>"
+	"gweithio" cy vinf :work: 396040
+	"gweithio" cy vfle 3s subjunctive :work: 159699
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<nos>"
+	"nos" cy n f s :night: 385616
+	"dos" cy n nm f s :dose: 404067
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<hospital>"
+	"hospital" cy unk
+"<.>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<good>"
+	"good" en unk
+"<boy>"
+	"boy" en n
+"<hah>"
+	"hah" es unk
+"<.>"
+"<.>"
+"<posibl>"
+	"posibl" cy a :possible: 388157
+"<.>"
+"<beth>"
+	"beth" cy i :what: 387597
+	"peth" cy n sm m s :thing: 405145
+	"peth" cy n sm m s :thing: 405144
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<isio>"
+	"isio" cy n m s :want: 388015
+"<wneud>"
+	"gwneud" cy vinf sm :make: 410353
+"<efo>"
+	"efo" cy p :with: 387846
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<allwedd>"
+	"allwedd" cy n f s :key: 388470
+	"allwedd" cy n f s :key: 385197
+"<achos>"
+	"achos" cy n m s :cause: 388412
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<mi>"
+	"mi" cy part-aff :: 391200
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<allwedd>"
+	"allwedd" cy n f s :key: 388470
+	"allwedd" cy n f s :key: 385197
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<beth>"
+	"beth" cy i :what: 387597
+	"peth" cy n sm m s :thing: 405145
+	"peth" cy n sm m s :thing: 405144
+"<?>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<beth>"
+	"beth" cy i :what: 387597
+	"peth" cy n sm m s :thing: 405145
+	"peth" cy n sm m s :thing: 405144
+"<yw>"
+	"bod" cy vfle 3s present :be: 143470
+"<hwnna>"
+	"hwnna" cy r :that one (m): 391245
+"<?>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<dan>"
+	"dan" cy p :under: 386368
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<wneud>"
+	"gwneud" cy vinf sm :make: 410353
+"<.>"
+"<er>"
+	"er" es unk
+"<gloi>"
+	"cloi" cy vinf sm :lock: 416824
+	"cloi" cy vinf sm :lock: 416823
+	"cloi" cy vfle sm 2s present :lock: 334091
+"<hwnna>"
+	"hwnna" cy r :that one (m): 391245
+"<?>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<nawr>"
+	"nawr" cy b :now: 386242
+"<?>"
+"<ah>"
+	"ah" es ij :wow: 466224
+"<o_k>"
+	"o_k" es unk
+"<ie>"
+	"ie" cy b :yes: 388005
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<munud>"
+	"munud" cy n m s :minute  (time): 391155
+"<.>"
+"<pan>"
+	"pan" cy c :when: 388122
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<?>"
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<eh>"
+	"eh" es unk
+"<Ester>"
+	"Ester" es name
+"<pan>"
+	"pan" cy c :when: 388122
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<barod>"
+	"parod" cy a sm :ready: 401591
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<stand>"
+	"stand" en unk
+"<up>"
+	"up" en b
+"<and>"
+	"and" en c
+"<go>"
+	"go" en unk
+"<o_k>"
+	"o_k" es unk
+"<?>"
+"<stand>"
+	"stand" en unk
+"<up>"
+	"up" en b
+"<and>"
+	"and" en c
+"<go>"
+	"go" en unk
+"<.>"
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<stand>"
+	"stand" en unk
+"<up>"
+	"up" en b
+"<and>"
+	"and" en c
+"<go>"
+	"go" en unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<neis>"
+	"neis" cy a :nice: 386036
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<cwrdd>"
+	"cwrdd" cy vinf :meet: 394987
+	"cwrdd" cy n m s :meeting: 389055
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<neis>"
+	"neis" cy a :nice: 386036
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<gwneud>"
+	"gwneud" cy vinf :make: 393995
+"<unwaith>"
+	"unwaith" cy b :once: 388334
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<mis>"
+	"mis" cy n m s :month: 385598
+"<neu>"
+	"neu" cy c :or: 386257
+"<unwaith>"
+	"unwaith" cy b :once: 388334
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<tri>"
+	"tri" cy a :three (3, m): 392896
+"<waith>"
+	"gwaith" cy n sm f s :time  (instance): 406395
+	"gwaith" cy n sm m s :work: 404467
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<blwyddyn>"
+	"blwyddyn" cy n f s :year (of time): 392779
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<neis>"
+	"neis" cy a :nice: 386036
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<dod>"
+	"dod" cy vinf :come: 394002
+"<fyny>"
+	"fyny" cy b :above: 386129
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ymarfer>"
+	"ymarfer" cy vinf :practice: 397535
+	"ymarfer" cy n f s :exercise: 390833
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<pethau>"
+	"peth" cy n m p :things: 390261
+"<gwahanol>"
+	"gwahanol" cy a :different: 387931
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<er>"
+	"er" es unk
+"<un>"
+	"un" cy a :one (1): 392895
+"<.>"
+"<neis>"
+	"neis" cy a :nice: 386036
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<bwyta>"
+	"bwyta" cy vinf :eat: 394548
+"<cacennau>"
+	"cacennau" cy unk
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<Buenos_Aires>"
+	"Buenos_Aires" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<lle>"
+	"lle" cy n m s :place: 389975
+"<mawr>"
+	"mawr" cy a :big: 386228
+"<um>"
+	"um" es unk
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<neis>"
+	"neis" cy a :nice: 386036
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwneud>"
+	"gwneud" cy vinf :make: 393995
+"<pethau>"
+	"peth" cy n m p :things: 390261
+"<gwahanol>"
+	"gwahanol" cy a :different: 387931
+"<.>"
+"<cael>"
+	"cael" cy vinf :get: 394006
+	"cael" cy vinf :have: 393996
+"<te>"
+	"te" cy n m s :tea: 388280
+"<efo>"
+	"efo" cy p :with: 387846
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<hen>"
+	"hen" cy a :old: 391190
+"<bobl>"
+	"pobl" cy n sm f s :people: 401644
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cwmni>"
+	"cwmni" cy n m s :company: 389048
+"<gyda>"
+	"gyda" cy p :with: 387959
+"<mam>"
+	"mam" cy n f s :mother: 391992
+"<e>"
+	"e" cy unk
+"<.>"
+"<.>"
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<fi>"
+	"fi" cy r :I: 391276
+"<.>"
+"<roeddwn>"
+	"bod" cy vfle 1s imperfect spoken :be: 389
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dweud>"
+	"dweud" cy vinf :say: 395608
+"<iddo>"
+	"iddo" cy p :to him: 388003
+"<fe>"
+	"fe" cy r :he/it (S): 391321
+	"fe" cy b :- (affirmative verbal particle): 391188
+"<bod>"
+	"bod" cy vinf :be: 394007
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<be>"
+	"be" cy i :what: 387592
+"<be>"
+	"be" cy i :what: 387592
+"<oedd>"
+	"bod" cy vfle 3s imperfect :be: 143473
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<enw>"
+	"enw" cy n m s :name: 389537
+"<?>"
+"<um>"
+	"um" es unk
+"<Peredur>"
+	"Peredur" cy name
+"<.>"
+"<.>"
+"<oh>"
+	"oh" en i
+"<my>"
+	"my" en unk
+"<God>"
+	"God" en name
+"<.>"
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yr_Urdd>"
+	"yr_Urdd" es unk
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<bachgen>"
+	"bachgen" cy n m s :boy: 388678
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<merched>"
+	"merch" cy n f p :daughters: 390077
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dod>"
+	"dod" cy vinf :come: 394002
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<gwneud>"
+	"gwneud" cy vinf :make: 393995
+"<pethau>"
+	"peth" cy n m p :things: 390261
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Esquel>"
+	"Esquel" es name
+"<ac>"
+	"ac" cy c :and: 387417
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<Gaiman>"
+	"Gaiman" es name
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<dydd>"
+	"dydd" cy n m s :day  (named): 391042
+"<Sadwrn>"
+	"Sadwrn" cy n m s :Saturn: 392799
+"<nesaf>"
+	"nesu" cy vfle 1s present :approach: 13392
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dod>"
+	"dod" cy vinf :come: 394002
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<Buenos_Aires>"
+	"Buenos_Aires" es name
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<bod>"
+	"bod" cy vinf :be: 394007
+"<yma>"
+	"yma" cy b :here: 388349
+"<un>"
+	"un" cy a :one (1): 392895
+"<dydd>"
+	"dydd" cy n m s :day  (named): 391042
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<aros>"
+	"aros" cy vinf :wait: 394320
+	"aros" cy vinf :remain: 393910
+"<felly>"
+	"felly" cy b :so: 387887
+"<fi>"
+	"fi" cy r :I: 391276
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<fynd>"
+	"mynd" cy vinf sm :go: 410376
+"<south>"
+	"south" en unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<bueno>"
+	"bueno" es ij :well: 510323
+	"bueno" es adj.m.sg :well: 511123
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<da>"
+	"da" cy a :good: 397803
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<bueno>"
+	"bueno" es ij :well: 510323
+	"bueno" es adj.m.sg :well: 511123
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<bueno>"
+	"bueno" es ij :well: 510323
+	"bueno" es adj.m.sg :well: 511123
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<Beatrix>"
+	"Beatrix" es name
+"<.>"
+"<chale>"
+	"chale" es unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<te>"
+	"prpers" es prn.obj.p2.mf.sg :you: 379497
+"<gusta>"
+	"gustar" es vblex.imp.p2.sg :like: 132875
+	"gustar" es vblex.pri.p3.sg :like: 132955
+"<eh>"
+	"eh" es unk
+"<?>"
+"<Beatrix>"
+	"Beatrix" es name
+"<.>"
+"<un>"
+	"uno" es det.ind.m.sg :one: 499127
+"<nombre>"
+	"nombre" es n.m.sg :name: 506419
+	"nombrar" es vblex.imp.p3.sg :name: 204993
+	"nombrar" es vblex.prs.p1.sg :name: 205073
+	"nombrar" es vblex.prs.p3.sg :name: 205077
+"<muy>"
+	"muy" es preadv :very: 378990
+"<particular>"
+	"particular" es adj.mf.sg :particular: 514722
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<yo>"
+	"prpers" es prn.subj.p1.mf.sg :I: 379484
+"<soy>"
+	"ser" es vbser.pri.p1.sg :be: 517911
+"<hijo>"
+	"hijo" es n.m.sg :son: 504370
+"<de>"
+	"de" es pr :of: 687844
+"<Juan>"
+	"Juan" es name
+"<y>"
+	"y" es cnj.coo :and: 687842
+"<ngela>"
+	"ngela" es unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<Juan_Vega>"
+	"Juan_Vega" es name
+"<y>"
+	"y" es cnj.coo :and: 687842
+"<ngela_Mendez>"
+	"ngela_Mendez" es unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<www>"
+	"www" cy unk
+"<.>"
+"<Gaiman>"
+	"Gaiman" es name
+"<?>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<.>"
+"<bueno>"
+	"bueno" es ij :well: 510323
+	"bueno" es adj.m.sg :well: 511123
+"<.>"
+"<igualmente>"
+	"igualmente" es adv :equally: 379155
+"<.>"
+"<ta_ta>"
+	"ta_ta" cy unk
+"<.>"
+"<ww>"
+	"ww" cy unk
+"<.>"
+"<ta_ra>"
+	"ta_ra" cy unk
+"<.>"
+"<ww>"
+	"ww" cy unk
+"<.>"
+"<da>"
+	"da" cy a :good: 397803
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<wel>"
+	"wel" cy unk
+"<.>"
+"<o_k>"
+	"o_k" es unk
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dod>"
+	"dod" cy vinf :come: 394002
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<Dreiorci>"
+	"Dreiorci" es name
+"<Carlos>"
+	"Carlos" es name
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<teulu>"
+	"teulu" cy n m s :family: 390662
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dod>"
+	"dod" cy vinf :come: 394002
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<Dreiorci>"
+	"Dreiorci" cy name
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<ond>"
+	"ond" cy c :but: 388114
+"<wedi>"
+	"gwadu" cy vfle sm 2s present literary :deny: 323156
+	"wedi" cy p :after: 386262
+"<bwyta>"
+	"bwyta" cy vinf :eat: 394548
+"<llawer>"
+	"llawer" cy a :many: 388026
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<te>"
+	"te" cy n m s :tea: 388280
+"<bola>"
+	"bola" cy n m s :belly: 388737
+"<tost>"
+	"tost" cy unk
+"<.>"
+"<ie>"
+	"ie" cy b :yes: 388005
+"<fi>"
+	"fi" cy r :I: 391276
+"<hefyd>"
+	"hefyd" cy b :also: 386188
+"<.>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<oedd>"
+	"bod" cy vfle 3s imperfect :be: 143473
+"<e>"
+	"e" cy unk
+"<ddim>"
+	"ddim" cy b :not (after verb): 391363
+	"dim" cy n sm m s :nought: 409056
+	"dim" cy n sm m s :zero: 409054
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<bwyta>"
+	"bwyta" cy vinf :eat: 394548
+"<heno>"
+	"heno" cy b :tonight: 387973
+"<.>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<.>"
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<moyn>"
+	"moyn" cy unk
+"<cael>"
+	"cael" cy vinf :get: 394006
+	"cael" cy vinf :have: 393996
+"<day>"
+	"day" en unk
+"<off>"
+	"off" en unk
+"<.>"
+"<oh>"
+	"oh" es ij :oh: 510327
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<wedyn>"
+	"wedyn" cy b :afterwards: 388339
+"<.>"
+"<llawer>"
+	"llawer" cy a :many: 388026
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<teisen>"
+	"teisen" cy unk
+"<.>"
+"<gormod>"
+	"gormod" cy n m s :too much: 389704
+"<.>"
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<.>"
+"<da>"
+	"da" cy a :good: 397803
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<pawb>"
+	"pawb" cy r :everyone: 388129
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<isio>"
+	"isio" cy n m s :want: 388015
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<agor>"
+	"agor" cy vinf :open: 394068
+"<pa>"
+	"pa" cy a :which: 388119
+"<er>"
+	"er" es unk
+"<amser>"
+	"amser" cy n m s :time: 388500
+"<mm>"
+	"mm" es unk
+"<?>"
+"<pa>"
+	"pa" cy a :which: 388119
+"<amser>"
+	"amser" cy n m s :time: 388500
+"<.>"
+"<hanner>"
+	"hanner" cy n m s :half: 392882
+"<awr>"
+	"awr" cy n f s :hour: 388671
+"<wedi>"
+	"gwadu" cy vfle sm 2s present literary :deny: 323156
+	"wedi" cy p :after: 386262
+"<chwech>"
+	"chwech" cy a :six (6): 392912
+"<.>"
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<nos>"
+	"nos" cy n f s :night: 385616
+	"dos" cy n nm f s :dose: 404067
+"<.>"
+"<achos>"
+	"achos" cy n m s :cause: 388412
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<diwrnod>"
+	"diwrnod" cy n m s :day (24 hours): 391326
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<hir>"
+	"hir" cy a :long: 392781
+"<nawr>"
+	"nawr" cy b :now: 386242
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<haul>"
+	"haul" cy n m s :sun: 389874
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<am>"
+	"am" cy p :for: 387453
+"<.>"
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwybod>"
+	"gwybod" cy vinf :know (fact): 393993
+"<be>"
+	"be" cy i :what: 387592
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<dweud>"
+	"dweud" cy vinf :say: 395608
+"<?>"
+"<si>"
+	"si" es cnjadv :whether: 499073
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<haul>"
+	"haul" cy n m s :sun: 389874
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<am>"
+	"am" cy p :for: 387453
+"<wyth>"
+	"wyth" cy a :eight (8): 392916
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<saith>"
+	"saith" cy a :seven (7): 392914
+"<ia>"
+	"ia" cy unk
+"<?>"
+"<ia>"
+	"ia" cy unk
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<.>"
+"<be>"
+	"be" cy i :what: 387592
+"<?>"
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<?>"
+"<iawn>"
+	"iawn" cy b :very: 388001
+	"iawn" cy b :OK: 386256
+"<.>"
+"<.>"
+"<o_k>"
+	"o_k" es unk
+"<.>"
+"<wel>"
+	"wel" cy unk
+"<rhaid>"
+	"rhaid" cy n m s :necessity: 390386
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<eh>"
+	"eh" es unk
+"<dy>"
+	"dy" cy a :your (sing): 391231
+"<fflat>"
+	"fflat" cy n f s :flat: 389599
+"<di>"
+	"ti" cy r sm mf s :you: 417272
+"<neu>"
+	"neu" cy c :or: 386257
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<aros>"
+	"aros" cy vinf :wait: 394320
+	"aros" cy vinf :remain: 393910
+"<yma>"
+	"yma" cy b :here: 388349
+"<?>"
+"<na>"
+	"na" cy c :than: 391208
+	"na" cy b :not (negative responsive verbal particle): 391185
+	"na" cy c :(n)or: 385175
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<credu>"
+	"credu" cy vinf :believe: 394906
+"<.>"
+"<wel>"
+	"wel" cy unk
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<ddim>"
+	"ddim" cy b :not (after verb): 391363
+	"dim" cy n sm m s :nought: 409056
+	"dim" cy n sm m s :zero: 409054
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwybod>"
+	"gwybod" cy vinf :know (fact): 393993
+"<.>"
+"<efallai>"
+	"efallai" cy c :perhaps: 387842
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<.>"
+"<tŷ>"
+	"tŷ" cy n m s :house: 390778
+"<nain>"
+	"nain" cy n f s :grandmother: 392014
+"<?>"
+"<efallai>"
+	"efallai" cy c :perhaps: 387842
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<tŷ>"
+	"tŷ" cy n m s :house: 390778
+"<nain>"
+	"nain" cy n f s :grandmother: 392014
+"<efo>"
+	"efo" cy p :with: 387846
+"<mwy>"
+	"mwy" cy a :bigger: 386239
+"<aros>"
+	"aros" cy vinf :wait: 394320
+	"aros" cy vinf :remain: 393910
+"<efo>"
+	"efo" cy p :with: 387846
+"<Sara>"
+	"Sara" es name
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<siarad>"
+	"siarad" cy vinf :talk: 397105
+	"siarad" cy vfle 2s imperative :talk: 138562
+"<Cymraeg>"
+	"Cymraeg" cy a :Welsh (language): 391689
+	"Cymraeg" cy n f s :Welsh (language): 391686
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<wedyn>"
+	"wedyn" cy b :afterwards: 388339
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<fflat>"
+	"fflat" cy n f s :flat: 389599
+"<.>"
+"<ddim>"
+	"ddim" cy b :not (after verb): 391363
+	"dim" cy n sm m s :nought: 409056
+	"dim" cy n sm m s :zero: 409054
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gwybod>"
+	"gwybod" cy vinf :know (fact): 393993
+"<.>"
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<gwaith>"
+	"gwaith" cy n f s :time  (instance): 391059
+	"gwaith" cy n m s :work: 389743
+"<.>"
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<lle>"
+	"lle" cy n m s :place: 389975
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<gallu>"
+	"gallu" cy vinf :be able: 395857
+	"gallu" cy n m s :capacity  (ability): 387059
+	"gallu" cy n m s :capability: 385481
+"<um>"
+	"um" es unk
+"<um>"
+	"um" es unk
+"<dal>"
+	"dal" cy vinf :hold: 395326
+	"dal" cy vfle 2s imperative :hold: 126056
+	"tal" cy a sm :tall: 401748
+	"tal" cy a sm :tall: 401747
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<bws>"
+	"bws" cy n m s :bus: 388802
+"<?>"
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<allan>"
+	"allan" cy b :out: 387449
+	"gallu" cy vfle sm 3p future spoken :be: 290760
+"<croes>"
+	"croes" cy n f s :cross: 389030
+"<um>"
+	"um" es unk
+"<cerdded>"
+	"cerdded" cy vinf :walk: 394706
+	"cerdded" cy vfle 3s imperative :walk: 149130
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<San_Juan>"
+	"San_Juan" es name
+"<?>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<wedyn>"
+	"wedyn" cy b :afterwards: 388339
+"<cerdded>"
+	"cerdded" cy vinf :walk: 394706
+	"cerdded" cy vfle 3s imperative :walk: 149130
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<San_Juan>"
+	"San_Juan" es name
+"<?>"
+"<un>"
+	"un" cy a :one (1): 392895
+"<dau>"
+	"dau" cy a :two (2, m): 392907
+	"tewi" cy vfle sm 3s present archaic :keep: 360038
+"<tri>"
+	"tri" cy a :three (3, m): 392896
+"<pedwar>"
+	"pedwar" cy a :four (4, m): 392898
+"<squares>"
+	"squares" en unk
+"<?>"
+"<eh>"
+	"eh" es unk
+"<pasa>"
+	"pasar" es vblex.imp.p2.sg :spend: 223633
+	"pasar" es vblex.pri.p3.sg :spend: 223713
+	"pasa" es n.f.sg :raisin: 409035
+"<Boedo>"
+	"Boedo" es name
+"<Avenida>"
+	"Avenida" es name
+"<Boedo>"
+	"Boedo" es name
+"<.>"
+"<te>"
+	"prpers" es prn.obj.p2.mf.sg :you: 379497
+"<caminas>"
+	"caminar" es vblex.pri.p2.sg :walk: 609189
+"<así>"
+	"asir" es vblex.ifi.p1.sg :take: 577721
+	"así" es adv :thus: 379038
+"<por>"
+	"por" es pr :for: 379532
+"<San_Juan>"
+	"San_Juan" es name
+"<.>"
+"<sí>"
+	"sí" es prn.tn.ref.p3.mf.sp :himself: 379462
+	"sí" es adv :yes: 379328
+"<pasa>"
+	"pasar" es vblex.imp.p2.sg :spend: 223633
+	"pasar" es vblex.pri.p3.sg :spend: 223713
+	"pasa" es n.f.sg :raisin: 409035
+"<por>"
+	"por" cy unk
+"<.>"
+"<llegas>"
+	"llegar" es vblex.pri.p2.sg :get: 178826
+"<.>"
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<croesi>"
+	"croesi" cy vinf :cross: 394942
+"<um>"
+	"um" es unk
+"<stryd>"
+	"stryd" cy n f s :street: 390580
+"<Boedo>"
+	"Boedo" es name
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<wedyn>"
+	"wedyn" cy b :afterwards: 388339
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<bws>"
+	"bws" cy n m s :bus: 388802
+"<ciento>"
+	"ciento" es unk
+"<sesenta>"
+	"sesenta" es num.mf.sp :sixty: 379394
+"<para>"
+	"para" es pr :for: 379531
+	"parar" es vblex.imp.p2.sg :stall: 221810
+	"parar" es vblex.pri.p3.sg :stall: 221890
+"<allà>"
+	"allà" es unk
+"<sí>"
+	"sí" es prn.tn.ref.p3.mf.sp :himself: 379462
+	"sí" es adv :yes: 379328
+"<aquí>"
+	"aquí" es adv :here: 379034
+"<.>"
+"<caminas>"
+	"caminar" es vblex.pri.p2.sg :walk: 609189
+"<así>"
+	"asir" es vblex.ifi.p1.sg :take: 577721
+	"así" es adv :thus: 379038
+"<pasas>"
+	"pasar" es vblex.pri.p2.sg :spend: 223711
+	"pasa" es n.f.pl :raisin: 409034
+"<Boedo>"
+	"Boedo" es name
+"<y>"
+	"y" es cnj.coo :and: 687842
+"<Latina>"
+	"Latina" es name
+"<.>"
+"<sí>"
+	"sí" es prn.tn.ref.p3.mf.sp :himself: 379462
+	"sí" es adv :yes: 379328
+"<en>"
+	"en" es pr :on: 379523
+"<la>"
+	"prpers" es prn.obj.p3.f.sg :she: 379503
+	"el" es det.def.f.sg :the: 687841
+"<esquina>"
+	"esquina" es n.f.sg :corner: 503376
+"<.>"
+"<acabas>"
+	"acabas" cy unk
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<bws>"
+	"bws" cy n m s :bus: 388802
+"<un_cant_chwech_deg>"
+	"un_cant_chwech_deg" cy unk
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<.>"
+"<ciento>"
+	"ciento" es unk
+"<sesenta>"
+	"sesenta" es num.mf.sp :sixty: 379394
+"<.>"
+"<cant_a_chwe_deg>"
+	"cant_a_chwe_deg" cy unk
+"<.>"
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<Palermo>"
+	"Palermo" es name
+"<.>"
+"<wyt>"
+	"bod" cy vfle 2s present :be: 116602
+"<ti>"
+	"ti" cy r :you  (sing): 390999
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cofio>"
+	"cofio" cy vinf :remember: 394845
+	"cofio" cy vfle 3s subjunctive :remember: 150256
+"<yr>"
+	"y" cy t :the: 391262
+	"y" cy c :that: 391225
+	"gyrru" cy vfle sm 3s present :drive: 351921
+	"gyrru" cy vfle sm 2s imperative :drive: 324239
+"<er>"
+	"er" es unk
+"<.>"
+"<como>"
+	"comer" es vblex.pri.p1.sg :lunch: 626250
+	"como" es pr :like: 379519
+	"como" es cnjadv :like: 499074
+	"como" es cnjcoo :like: 499079
+"<se>"
+	"se" es prn.pro.ref.p3.mf.sp :: 379461
+	"se" es prn.pro.ref.p3.mf.sp :: 379510
+"<dice>"
+	"decir" es vblex.pri.p3.sg :tell: 676403
+"<la>"
+	"prpers" es prn.obj.p3.f.sg :she: 379503
+	"el" es det.def.f.sg :the: 687841
+"<vez>"
+	"vez" es n.f.sg :time: 509846
+"<la>"
+	"prpers" es prn.obj.p3.f.sg :she: 379503
+	"el" es det.def.f.sg :the: 687841
+"<vez>"
+	"vez" es n.f.sg :time: 509846
+"<anterior>"
+	"anterior" es adj.mf.sg :previous: 510771
+"<que>"
+	"que" es rel.an.mf.sp :who: 379513
+	"que" es cnjsub :who: 499066
+	"que" es cnjcoo :who: 499078
+"<venimos>"
+	"venir" es vblex.pri.p1.pl :come: 369736
+"<?>"
+"<diwetha>"
+	"diwetha" cy a :last  (previous): 387189
+"<um>"
+	"um" es unk
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<tro>"
+	"tro" cy n m s :turn: 390739
+	"troi" cy vfle 3s subjunctive :turn: 173101
+	"troi" cy vfle 2s imperative :turn: 142905
+"<diwetha>"
+	"diwetha" cy a :last  (previous): 387189
+"<dan>"
+	"dan" cy p :under: 386368
+"<ni>"
+	"ni" cy part-neg :not: 391201
+	"ni" cy r :we: 386259
+"<wedi>"
+	"gwadu" cy vfle sm 2s present literary :deny: 323156
+	"wedi" cy p :after: 386262
+"<bod>"
+	"bod" cy vinf :be: 394007
+"<yno>"
+	"yno" cy b :there: 388377
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cerdded>"
+	"cerdded" cy vinf :walk: 394706
+	"cerdded" cy vfle 3s imperative :walk: 149130
+"<a>"
+	"a" cy part-int :query: 391202
+	"a" cy c :and: 387415
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<yna>"
+	"yna" cy b :there: 388369
+"<bws>"
+	"bws" cy n m s :bus: 388802
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<cornel>"
+	"cornel" cy n f s :corner: 386957
+"<.>"
+"<y>"
+	"y" cy t :the: 416862
+	"y" cy c :that: 416861
+"<tro>"
+	"tro" cy n m s :turn: 390739
+	"troi" cy vfle 3s subjunctive :turn: 173101
+	"troi" cy vfle 2s imperative :turn: 142905
+"<diwetha>"
+	"diwetha" cy a :last  (previous): 387189
+"<.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
+"<dw>"
+	"bod" cy vfle 1s present spoken :be: 417267
+"<i>"
+	"i" cy r :I: 391279
+	"i" cy p :to: 391198
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<cofio>"
+	"cofio" cy vinf :remember: 394845
+	"cofio" cy vfle 3s subjunctive :remember: 150256
+"<rŵan>"
+	"rŵan" cy b :now: 386311
+"<.>"
+"<mae>"
+	"bod" cy vfle 3s present :be: 143468
+	"bae" cy n nm m s :bay: 402144
+"<o>"
+	"fo" cy r m s :he/it: 417279
+	"o" cy p :of: 391277
+	"o" cy p :from: 391197
+"<yn>"
+	"yn" cy stat :stative: 391257
+	"yn" cy p :in: 388368
+"<mynd>"
+	"mynd" cy vinf :go: 394005
+"<.>"
+"<ciento>"
+	"ciento" es unk
+"<sesenta>"
+	"sesenta" es num.mf.sp :sixty: 379394
+"<.>"
