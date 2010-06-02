@@ -32,11 +32,6 @@ cylist has 416862 entries
 delete from cylist where id > 416862
 insert into cylist (surface, lemma, pos, gender, num, tense, reg, enlemma, mutation) select surface, lemma, pos, gender, num, tense, reg, enlemma, mutation from cylist_add
 
-
-
-
-
-
 fargain
 broblem
 bity
@@ -47,9 +42,10 @@ tagged as @0, but by definition these cannot be English, since they are mutated
 
 
 
+Checking write_cgautogloss.php output
+select w.utterance_id, w.location, w.welsh, f.utterance as autoutt, f.location as autoloc, f.surface, f.lemma, f.tags from patagonia1_cgwords w, patagonia1_cgfinished f where w.utterance_id=f.utterance and w.location=f.location order by w.utterance_id, w.location
 
-
-
+select * from patagonia1_cgfinished order by utterance, location
 
 
 

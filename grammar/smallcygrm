@@ -200,7 +200,7 @@ select ("el" :the:) if (1 (n.m.pl));
 select ("el" :the:) if (1 (n.f.sg));
 select ("el" :the:) if (1 (n.f.pl));
 
-
+select ("así" /es/ adv) if (1 (/es/ vfle));
 
 
 

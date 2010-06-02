@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/siarad/config.php");
 
-$mytable="stammers4_cgfinished";
+$mytable="patagonia1_cgfinished";
 
 drop_existing_table($mytable);
 //echo $utterances."<br/>";
@@ -42,9 +42,9 @@ ALTER TABLE ONLY ".$mytable." ADD CONSTRAINT ".$mytable."_pk PRIMARY KEY (id);
 ";
 $result_pkey=pg_query($db_handle, $sql_pkey);
 
-$fp = fopen("outputs/cgout.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/patagonia1_cgout.txt", "w") or die("Can't create the file");
 
-$lines=file("outputs/stammers4_cg_applied.txt");
+$lines=file("outputs/patagonia1_cg_applied.txt");
 $utt=1;
 $loc=1;  
      

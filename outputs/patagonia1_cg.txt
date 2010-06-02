@@ -1329,6 +1329,7 @@
 	"nesu" cy vfle 1s present :approach: 13392
 "<no>"
 	"nesu" cy vfle 1s present :approach: 13392
+"<?>"
 "<y>"
 	"y" cy t :the: 416862
 	"y" cy c :that: 416861
@@ -1629,7 +1630,8 @@
 "<Celio>"
 	"Celio" es name
 "<Karl>"
-	"Celio" es name
+	"Karl" es name
+"<.>"
 "<mmhm>"
 	"mmhm" cy unk
 "<.>"

@@ -25,6 +25,7 @@ function clean_utterance($text)
 {
 	$text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
 	$text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
+	$text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
 
 	$text=preg_replace("/\[.+\]/u", "", $text); // anything in square brackets  - this is too greedy - need to reign it back
 	$text=preg_replace("/&.[^ ]+ /u", "", $text);  // &=<laugh>
@@ -32,6 +33,7 @@ function clean_utterance($text)
 
 	$text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
 	$text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
+	$text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
 
 
 	$text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-Z0-9@\.!\?_&: ]/u", "", $text);  // delete anything that isn't one of these characters: & and : added to deal with Patagonia tags: @s:cy&es

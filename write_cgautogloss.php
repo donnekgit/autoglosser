@@ -20,14 +20,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/siarad/config.php");
 
-$fp = fopen("outputs/stammers4_autoglossed.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/patagonia1_autoglossed.txt", "w") or die("Can't create the file");
 
-$sql_u="select * from stammers4_cgutterances where utterance_id < 133 order by utterance_id";
+$sql_u="select * from patagonia1_cgutterances order by utterance_id";
 $result_u=pg_query($db_handle,$sql_u) or die("Can't get the items");
 while ($row_u=pg_fetch_object($result_u))
 {
 	// get the items for each utterance
-	$sql="select * from stammers4_cgwords w, stammers4_cgfinished f where w.utterance_id=$row_u->utterance_id and w.utterance_id=f.utterance and w.location=f.location order by w.location";
+	$sql="select * from patagonia1_cgwords w, patagonia1_cgfinished f where w.utterance_id=$row_u->utterance_id and w.utterance_id=f.utterance and w.location=f.location order by w.location";
 	$result=pg_query($db_handle,$sql) or die("Can't get the items");
 	while ($row=pg_fetch_object($result))
 	{
@@ -54,9 +54,10 @@ while ($row_u=pg_fetch_object($result_u))
 	fwrite($fp, $wmor);
 	*/
 
-	$wgloss="(".$u."b) %gls: ".$gloss;
-	$wgloss=trim($wgloss)."\n";
-	fwrite($fp, $wgloss);
+	// Uncomment if there is a manual gloss tier in the file
+	//$wgloss="(".$u."b) %gls: ".$gloss;
+	//$wgloss=trim($wgloss)."\n";
+	//fwrite($fp, $wgloss);
 
 	$wautogloss="(".$u."c) %aut: ".$autogloss;
 	$wautogloss=trim($wautogloss)."\n";
@@ -65,7 +66,7 @@ while ($row_u=pg_fetch_object($result_u))
 
 	echo $speech;
 	//echo $wmor;
-	echo $wgloss;
+	//echo $wgloss; // Uncomment if there is a manual gloss tier in the file
 	echo $wautogloss;
 	echo "\n";
 
