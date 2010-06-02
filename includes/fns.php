@@ -1,6 +1,35 @@
 <?php
 
+function get_filename()
+// Converts the filepath given to a command into a filename which can be used as a prefix for subsequent tables and files
+{
+	$myarg=$_SERVER['argv'][1];
+
+	if (isset($myarg))
+	{
+		$chafile=$myarg;
+		$filename = basename($chafile, ".cha");
+		echo "*\n*\nAutoglossing $myarg; the prefix will be $filename\n*\n*\n";
+	}
+	else
+	{
+		echo "*\n*\nYou need to specify a file to autogloss\n*\n*\n";
+	} 
+	return $filename;
+}
+
+function check_filename($filename)
+{
+	if (empty($filename))
+	{
+		include("includes/fns.php");
+		$filename=get_filename();
+	}
+	return $filename;
+}
+
 function drop_existing_table($table)
+// Drops the specified table so that it can be recreated
 {
 	global $db_handle;
 	$sql_exists="select count(*) as count from pg_class where relname = '".$table."'";
@@ -45,10 +74,5 @@ function clean_utterance($text)
 
 	return $text;
 }
-
-
-
-
-
 
 ?>

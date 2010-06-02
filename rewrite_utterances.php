@@ -48,9 +48,9 @@ while ($row=pg_fetch_object($result))
 			$welsh_word=$welsh_value;
 			$langid="999";
 		} 
-		// Note: the code below to handle punctuation separately from other unmarked items could usefully be replicated here if the combined code below does not work and we need to handle Siarad stuff separately.*/
+		*/
 
-		// This is an attempt to handle both Siarad and Patagonia langid markings in the same bit of code - we replace the langid preamble, whatever it is, by ~~~, and then explode on that.
+		// This handles both Siarad and Patagonia langid markings in the same bit of code - we replace the langid preamble, whatever it is, by ~~~, and then explode on that.
 		if  (preg_match("/@(s:)/", $welsh_value))     
 		{
 			$welsh_value=preg_replace("/@(s:)/","~~~", $welsh_value);

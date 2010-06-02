@@ -17,15 +17,19 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-
-include("includes/fns.php");
-include("/opt/siarad/config.php");
-
 $lang1="";
 $lang2="cy&es";
 $lang3="es";
 $lang4="cy&en";
 $lang4="en";
+
+if (empty($filename))
+{
+	include("includes/fns.php");
+	include("/opt/siarad/config.php");
+	$filename=get_filename();
+	echo $filename."\n";
+}
 
 $fp = fopen("outputs/patagonia1_cg.txt", "w") or die("Can't create the file");
 
