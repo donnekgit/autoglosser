@@ -17,6 +17,17 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+// If the script is being called standalone instead of as part of the pipeline, generate default names from the filename given
+if (empty($filename))
+{
+	include("includes/fns.php");
+	include("/opt/siarad/config.php");
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+}
+
+echo "*\n*\nCreating the $words table\n*\n*\n";
+include("create_cgwords.php");
+
 $fp = fopen("outputs/".$utterances.".txt", "w") or die("Can't create the file");
 
 $sql="select * from $utterances order by utterance_id";

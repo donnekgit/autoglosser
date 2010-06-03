@@ -17,17 +17,22 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-include("includes/fns.php");
-include("/opt/siarad/config.php");
+// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given
+if (empty($filename))
+{
+	include("includes/fns.php");
+	include("/opt/siarad/config.php");
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+}
 
-$fp = fopen("outputs/patagonia1_autoglossed.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."_autoglossed.txt", "w") or die("Can't create the file");
 
-$sql_u="select * from patagonia1_cgutterances order by utterance_id";
+$sql_u="select * from ".$filename."_cgutterances order by utterance_id";
 $result_u=pg_query($db_handle,$sql_u) or die("Can't get the items");
 while ($row_u=pg_fetch_object($result_u))
 {
 	// get the items for each utterance
-	$sql="select * from patagonia1_cgwords w, patagonia1_cgfinished f where w.utterance_id=$row_u->utterance_id and w.utterance_id=f.utterance and w.location=f.location order by w.location";
+	$sql="select * from ".$filename."_cgwords w, ".$filename."_cgfinished f where w.utterance_id=$row_u->utterance_id and w.utterance_id=f.utterance_id and w.location=f.location order by w.location";
 	$result=pg_query($db_handle,$sql) or die("Can't get the items");
 	while ($row=pg_fetch_object($result))
 	{

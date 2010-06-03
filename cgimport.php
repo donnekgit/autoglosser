@@ -17,11 +17,21 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given - note that this is the only standalone script where we need to give the filepath (eg inpust/Patagonia1.cha); the others simply use the filename (eg patagonia1)
+if (empty($filename))
+{
+	include("includes/fns.php");
+	include("/opt/siarad/config.php");
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+}
+
+echo "*\n*\nCreating the $utterances table\n*\n*\n";
+include("create_cgutterances.php");
+
 $lines=file($chafile,FILE_SKIP_EMPTY_LINES);
        
 foreach ($lines as $line_num => $line)
 {
-    
 	// Sort out punctuation
 	$line=preg_replace("/(\.+)\.(\s)/", "$1 .$2", $line);  // split period from +...
 	$line=preg_replace("/(\.+)\?(\s)/", "$1 .$2", $line);  // split qmark from +..?
@@ -87,6 +97,8 @@ foreach ($lines as $line_num => $line)
 			$durbegin=0;
 			$duration=0;
 		}
+
+		if (empty($sourcefile)){$sourcefile=$filename;}
 		
         //echo "<br/>Duration of this utterance: ".$durbegin." to ".$durend." (".$duration.")<br/><br/>";
 
@@ -165,8 +177,8 @@ foreach ($lines as $line_num => $line)
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");  
     }
 
-	unset($durbegin, $durend, $duration);
-     
+	unset($durbegin, $durend, $duration); 
+  
 }
 
 ?>

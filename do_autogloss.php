@@ -20,41 +20,34 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/siarad/config.php");
 
-$filename=get_filename();
+// Generate default names from the filepath given
+list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 
-$utterances=strtolower($filename."_cgutterances");
-$words=strtolower($filename."_cgwords");
-
-include("mygetfilename.php");
-
-
-
-
+echo $chafile."\n";
+echo $filename."\n";
+echo $utterances."\n";
+echo $words."\n";
+echo $cgfinished."\n";
 
 //$fp = fopen("outputs/".$filename."_log.txt", "w") or die("Can't create the file");
 
-/*
-echo "*\n*\n*\n*\n*\nCreating the $utterances table\n*\n*\n*\n*\n*\n";
-include("create_cgutterances.php");
+//echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
+//include("cgimport.php");
 
-echo "*\n*\n*\n*\n*\nImporting $chafile into $utterances\n*\n*\n*\n*\n*\n";
-include("cgimport.php");
+//echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
+//include("rewrite_utterances.php");
 
-echo "*\n*\n*\n*\n*\nCreating the $words table\n*\n*\n*\n*\n*\n";
-include("create_cgwords.php");
-
-echo "*\n*\n*\n*\n*\nCleaning and wordifying the utterance lines\n*\n*\n*\n*\n*\n";
-include("rewrite_utterances.php");
-*/
-
-//echo "*\n*\n*\n*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n*\n*\n*\n";
+//echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
 //include("write_cohorts.php");
 
-//echo "*\n*\n*\n*\n*\nApplying the grammar to disambiguate\n*\n*\n*\n*\n*\n";
+//echo "*\n*\nApplying the grammar to disambiguate\n*\n*\n";
 //include("apply_cg.php");
 
+//echo "*\n*\nWriting disambiguated forms to $cgfinished\n*\n*\n";
+//include("write_cgfinished.php");
 
-
+//echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
+//include("write_cgautogloss.php");
 
 //fclose($fp);
 

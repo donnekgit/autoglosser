@@ -1,35 +1,27 @@
 <?php
 
 function get_filename()
-// Converts the filepath given to a command into a filename which can be used as a prefix for subsequent tables and files
+// Uses the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.
 {
-	$myarg=$_SERVER['argv'][1];
+	$chafile=$_SERVER['argv'][1];
 
-	if (isset($myarg))
+	if (isset($chafile))
 	{
-		$chafile=$myarg;
-		$filename = basename($chafile, ".cha");
-		echo "*\n*\nAutoglossing $myarg; the prefix will be $filename\n*\n*\n";
+		$filename=strtolower(basename($chafile, ".cha"));
+		echo "*\n*\nAutoglossing $chafile. The prefix will be $filename\n*\n*\n";
 	}
 	else
 	{
 		echo "*\n*\nYou need to specify a file to autogloss\n*\n*\n";
-	} 
-	return $filename;
-}
-
-function check_filename($filename)
-{
-	if (empty($filename))
-	{
-		include("includes/fns.php");
-		$filename=get_filename();
 	}
-	return $filename;
+	$utterances=strtolower($filename."_cgutterances");
+	$words=strtolower($filename."_cgwords");
+	$cgfinished=strtolower($filename."_cgfinished");
+	return array($chafile, $filename, $utterances, $words, $cgfinished);
 }
 
 function drop_existing_table($table)
-// Drops the specified table so that it can be recreated
+// Drops the specified table so that it can be recreated.
 {
 	global $db_handle;
 	$sql_exists="select count(*) as count from pg_class where relname = '".$table."'";

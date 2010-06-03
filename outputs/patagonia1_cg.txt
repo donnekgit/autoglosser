@@ -1544,7 +1544,7 @@
 "<double>"
 	"double" en unk
 "<party>"
-	"double" en unk
+	"party" en n
 "<.>"
 "<ie>"
 	"ie" cy b :yes: 388005

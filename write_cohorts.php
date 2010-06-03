@@ -17,23 +17,17 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-$lang1="";
-$lang2="cy&es";
-$lang3="es";
-$lang4="cy&en";
-$lang4="en";
-
+// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given
 if (empty($filename))
 {
 	include("includes/fns.php");
 	include("/opt/siarad/config.php");
-	$filename=get_filename();
-	echo $filename."\n";
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("outputs/patagonia1_cg.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."_cg.txt", "w") or die("Can't create the file");
 
-$sql="select * from patagonia1_cgwords order by utterance_id, location";
+$sql="select * from ".$filename."_cgwords order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
@@ -44,7 +38,8 @@ while ($row=pg_fetch_object($result))
 	echo $stream;
 	fwrite($fp, $stream);
 
-	if ($row->langid==$lang1)
+	if ($row->langid==LANG1)
+	// The language id variables are set in the config.php file
 	{
 		unset($entry);
 
@@ -93,7 +88,7 @@ while ($row=pg_fetch_object($result))
 		}
 		echo $entry;
 	}
-	elseif ($row->langid==$lang4 or $row->langid==$lang5)
+	elseif ($row->langid==LANG4 or $row->langid==LANG5)
 	{
 		unset($entry);
 
@@ -116,7 +111,7 @@ while ($row=pg_fetch_object($result))
 		}
 		echo $entry;
 	}
-	elseif ($row->langid==$lang2 or $row->langid==$lang3)
+	elseif ($row->langid==LANG2 or $row->langid==LANG3)
 	{
 		unset($entry);
 

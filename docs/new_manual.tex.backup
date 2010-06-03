@@ -26,16 +26,47 @@ This manual explains how to use the Bangor autoglosser to provide glosses for  C
 \end{abstract}
 
 \section{General}
+\label{sec:general}
 
 This autoglosser, which is licensed under version 3 of the GPL,\footnote{http://www.gnu.org/licenses/gpl.html} was originally developed for use with Siarad, the GPLed corpus of Welsh conversations assembled by the University of Bangor's Centre for Research on Bilingualism in Theory and Practice,\footnote{http://bilingualism.bangor.ac.uk} but they should be useable in other contexts.  The autoglosser has been built and tested on GNU/Linux, but it is likely to run also on legacy platforms like Microsoft Windows or Apple Mac OS X.
 
 \section{Requirements}
+\label{sec:requirements}
 
 Your machine will need to have Apache2, PHP5, PostgreSQL, and (optionally) Git already installed.  The Appendix gives a summary of the relevant commands for Ubuntu 9.10, and suggests how to configure your machine to use these applications effectively -- note that this is only a suggestion, and other approaches are possible.
 
 To use the autoglosser, you will need digital dictionaries for the languages you are interested in, and a basic Constraint Grammar\footnote{http://beta.visl.sdu.dk/constraint\_grammar.html} to disambiguate homonyms in those languages.  If you do not already have access to such resources, you will have to create them - some suggestions on this are given in later sections.   Once your system is configured, and your support resources are ready, all you need to do is put the CHAT file you want to autogloss in the \textit{inputs} dir, open a terminal, and run \textbf{php do\_autogloss.php}.
 
+
+\section{Overview}
+\label{sec:overview}
+
+The pipeline for autoglossing is as follows:
+\begin{enumerate}
+\item Prepare the file by removing the headers and joining any broken lines (Section \ref{sec:prepare}).
+\item Import the file into a table (filename\_cgutterances).
+\item Remove non-word markup from the speech tier, and import the individual utterances into a table (filename\_cgwords).
+\item Look up each word in a language-specific dictionary to get a cohort of possible lemmas it could derive from, with appropriate part-of-speech tags.
+\item Apply a language-specific constraint grammar to each cohort to remove inappropriate entries (i.e. to disambiguate the cohort).
+\item Import the disambiguated entries into a table (filename\_cgfinished).
+\item Combine information from the three tables to create a new text file where the original speech tier has a new gloss tier.
+\end{enumerate}
+
+
+
+
+\section{Prepare the file}
+\label{sec:prepare}
+
+These steps are done manually, but can be automated later.  Remove the header lines and paste them to \textbf{outputs/\$filename.header}.  Remove the \textbf{@End} line from the end of the file.  Rename the file to \textbf{\$filename\_headerless}.  Run: \\
+\verb|dos2unix inputs/$filename_headerless|\\
+Replace filenames in \textbf{utils/sed\_joinlines} and run:\\
+\verb|utils/sed_joinlines|\\
+This will deal with Microsoft Windows endlines by ensuring that all lines of the text are joined up, and not split over several lines.
+
+
 \section{do\_autogloss.php}
+\label{sec:autogloss}
 
 This is the base file which calls the other components.  This can be truncated to produce a file that only does imports (eg if you have already glossed your file).  
 *** Need to think about whether we do a sample file like this.  And also about the naming of the glosses column - perhaps assume autoglossing and keep gloss for that column, with mygloss for manual glosses.  Need to find a way of writing all the output into a log - at present, opening a file in the script and writing to it doesn't work.
@@ -48,19 +79,22 @@ It strips the extension .cha, and lowercases the name, to be used as the prefix 
 
 
 \section{create\_cgutterances.php}
+\label{sec:utterances}
+
+
+
+\section{cgimport.php}
+\label{sec:import}
+
+Function: Opens the chafile given earlier, and imports it into the table \$utterances.
+Outputs: (database table) filename_cgutterances; (text file) none.
 
 This drops any existing \$utterances file (using the drop\_table() function) and recreates it.  The table will hold the segmented chafile.
 *** Can change column names here to deal with gloss issue above.  Maybe need to add indexes?  Any benefits in adding another column which holds the complete speech tier, ie without splitting it up?  This would simplify rebuilding.  Need to change the table name from "welsh", so that other languages can be used.  Also need to add a column for the autogloss, so that it can co-exist with any manual gloss.
 
-We add the sourcefile as a column just in case it might be useful in doing queries.  In cases where this is not available in the sound data, we should use \$filename generated earlier.
-*** sample\_id and line\_num may not be needed.
+We add the sourcefile as a column just in case it might be useful in doing queries.  In cases where this is not available in the sound data, we use \$filename generated earlier. *** Perhaps best to generalise this, and use it even with Siarad. *** sample\_id and line\_num may not be needed.
 
 
-\section{cgimport.php}
-
-Opens the chafile given earlier, and imports it into the table \$utterances.  This file could be tidied up a good bit.
-*** This was built to do Siarad, and we may need to do different flavours, even within projects.  With the Patagonia files, for instance, the sound bullet holds only the duration; in Siarad it holds the string snd, and the name of the file.
-*** We need to include a joinline routine first, to deal with Microsoft Windows endlines.  Sed should be OK for this.
 
 First do some punctuation and error correction.  These may need to be extended for other files.
 *** This could perhaps go into a function? 
@@ -82,17 +116,19 @@ Output is fed to screen as we go through this process.
 
 
 \section{create\_cgwords.php}
+\label{sec:words}
 
 This drops any existing \$words table and recreates it.  The table will hold the words from the utterance segmentation.
 *** Again, consider adding indexes.  Again, change the welsh column name.  We add sourcefile for tracking purposes, but glossloc is probably no longer necessary, since under the new system it will be the same as location, unless the person doing the glossing has made an error.
 
 
 \section{rewrite\_utterances.php}
+\label{sec:rewrite}
 
 Lifts the utterances out of the \$utterances table and cleans them of any non-word items, eg markers, indicators, etc.  This is in contrast to the previous system, where we tried to retain these.
 *** Is there an argument for retaining backtracking markers by appending them to the previous word?  This might help in disambiguation, though it might also slow down the import a good bit.  Add / to the allowed characters, and then replace space between word and / with an underscore?
 
-The cleaning is done using the clean\_utterances() function, which can of course be extended.  Note that the order of the items in the function is significant - the main line removes anything that is not a letter or a few other things, so this has to be run after lines that remove items contained in square brackets.
+The cleaning is done using the clean\_utterances() function, which can of course be extended.  Note that the order of the items in the function is significant - the main line removes anything that is not a letter or a few other things, so this has to be run after lines that remove items contained in square brackets.  Also note that if you are using language tags containing \& (the current CLAN recommendation), each of these has to be moved out of the way first, and then moved back again, because otherwise the lines getting rid of things like \&=laugh will affect them too: you will get party@scy instead of party@s:cy\&en.
 
 The original and cleaned utterances are written to a file (\$utterances.txt) for checking purposes.
 
@@ -103,10 +139,8 @@ Any manual glosses are also written into the table.
 *** At present there is a check on whether they exist, but this may have no effect - needs to be tested.
 
 
-===At this point the current pipeline stops, and we need to integrate subsequent files into it.===
-
-
 \section{write\_cohorts.php}
+\label{sec:cohorts}
 
 It would be sensible to allow this and the next file, apply\_cg.php, to be callable standalone, because they need to be run multiple times when developing the constraint grammar.
 *** Add code that will handle arguments to the file, so that the \$words tablename can be given directly.  Unfortunately, this will not handle the function and dbconfig lines, so we need to duplicate those here, rather than relying on the ones in do\_autogloss.php.
@@ -125,6 +159,7 @@ Output goes to screen, and also to a file, filename\_cg.txt.
 
 
 \section{apply\_cg.php}
+\label{sec:applycg}
 
 This runs vislcg3 on the filename\_cg.txt produced by the previous component, using the specified grammar.
 *** Again, this could be set somewhere as a variable, or handled as an argument to the file.  On the other hand, having it in the file, at least during development, makes more sense.
@@ -132,10 +167,10 @@ This runs vislcg3 on the filename\_cg.txt produced by the previous component, us
 The disambiguated output is written to a file, filename\_cg\_applied.txt.
 
 
-\section{create\_cgfinished.php}
+\section{write\_cgfinished.php}
+\label{sec:cgfinished}
 
-This drops the table filename\_cgfinished and recreates it.
-*** Put this into a separate file, like the other table-creation components above.
+The script create\_cgfinished.php drops the table filename\_cgfinished and recreates it.
 
 Then it reads the disambiguated cohort file into this table.  In cases where CG has been unable to reduce the cohort to one entry, glosses are concatenated, and separated by a slash.
 
@@ -143,16 +178,18 @@ It currently outputs a file, cgout.txt, but this is not very useful, since it sh
 
 
 \section{write\_cgautogloss.php}
+\label{sec:autogloss}
 
 Currently, this is the last step in the autogloss procedure.  
 
 This collects information from the three tables generated, and writes out a file, filename\_autoglossed.txt, giving the original utterance and its glossed equivalent.  If manual glosses exist, they will be written out too.
 *** Need to include code to select this based on whether the manual gloss column is filled.
 
-Note that this file is NOT a chafile - it is for checking purposes only.  This script needs to be extended to write out the chafile itself.  This would then need to be tested to ensure it is fully compatible with CLAN.
+Note that this file is currently NOT a chafile - it is for checking purposes only.  This script needs to be extended to write out the chafile itself.  This would then need to be tested to ensure it is fully compatible with CLAN.
 
 
 \section{Further work}
+\label{sec:prepare}
 
 The header details of the chafile are ignored by the import.  In fact, they need to be brought in to a separate table (in which case, having a separate table for comments would not be so bad).  Alternatively, they could be written out to a separate header file, and rejoined as part of the final write -- possibly better since it is simpler, and we are already generating a small thicket of working files anyway.
 
@@ -174,7 +211,7 @@ These instructions should also work on Ubuntu 10.04. In either case, they assume
 
 Install Apache (webserver), PHP5 (scripting system), and PostgreSQL (database), phpPgAdmin (browser interface to PostgreSQL), and (optionally) Git (versioning system) and pgAdminIII (desktop interface to PostgreSQL):
 
-\texttt{sudo apt-get install git-core, apache2, apache2-utils, libapache2-mod-php5, php5, php-pear, php5-xcache, php5-pgsql, postgresql, phppgadmin, pgadmin3}
+\texttt{sudo apt-get install git-core, apache2, apache2-utils, libapache2-mod-php5, php5, php5-cli, php-pear, php5-xcache, php5-pgsql, postgresql, phppgadmin, pgadmin3}
 
 \section{Configure Apache}
 
@@ -254,6 +291,10 @@ magic_quotes_gpc = Off
 magic_quotes_runtime = Off
 safe_mode = Off.
 \end{verbatim}
+
+; UNIX: "/path1:/path2"
+include\_path = ".:/home/kevin/autoglosser/includes"
+
 
 Restart Apache:
 

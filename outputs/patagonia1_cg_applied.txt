@@ -1450,7 +1450,7 @@
 "<double>"
 	"double" en unk
 "<party>"
-	"double" en unk
+	"party" en n
 "<.>"
 
 "<ie>"
