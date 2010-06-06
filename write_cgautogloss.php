@@ -17,15 +17,17 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given
+//Output table: none
+//Output file: $filename_autoglossed.txt
+
 if (empty($filename))
 {
 	include("includes/fns.php");
-	include("/opt/siarad/config.php");
+	include("/opt/autoglosser/config.php");
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("outputs/".$filename."_autoglossed.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."/".$filename."_autoglossed.txt", "w") or die("Can't create the file");
 
 $sql_u="select * from ".$filename."_cgutterances order by utterance_id";
 $result_u=pg_query($db_handle,$sql_u) or die("Can't get the items");
@@ -37,7 +39,7 @@ while ($row_u=pg_fetch_object($result_u))
 	while ($row=pg_fetch_object($result))
 	{
 		//$speaker=$row->speaker;
-		//$welsh.=$row->welsh." ";
+		//$mainlang.=$row->mainlang." ";
 		//$mor.=$row->mor." ";
 		//$agloss=preg_replace('/\^$/','',$row->gloss);
 		$gloss.=$row->gloss." ";
@@ -49,8 +51,8 @@ while ($row_u=pg_fetch_object($result_u))
 	// write out the utterance
 	$u=$row_u->utterance_id;
 
-	//$speech="(".$u."a) *".$speaker.": ".$welsh."\n";
-	$speech="(".$u."a) *".$row_u->speaker.": ".$row_u->welsh."\n";
+	//$speech="(".$u."a) *".$speaker.": ".$mainlang."\n";
+	$speech="(".$u."a) *".$row_u->speaker.": ".$row_u->mainlang."\n";
 	fwrite($fp, $speech);
 
 	/*
@@ -75,7 +77,7 @@ while ($row_u=pg_fetch_object($result_u))
 	echo $wautogloss;
 	echo "\n";
 
-	unset($speaker, $welsh, $mor, $gloss, $autogloss, $speech, $wmor, $wgloss, $wautogloss);
+	unset($speaker, $mainlang, $mor, $gloss, $autogloss, $speech, $wmor, $wgloss, $wautogloss);
 }
 
 fclose($fp);

@@ -17,24 +17,26 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given
+//Output table: none
+//Output file: $filename_cg.txt
+
 if (empty($filename))
 {
 	include("includes/fns.php");
-	include("/opt/siarad/config.php");
+	include("/opt/autoglosser/config.php");
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("outputs/".$filename."_cg.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."/".$filename."_cg.txt", "w") or die("Can't create the file");
 
 $sql="select * from ".$filename."_cgwords order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$welsh=$row->welsh;
-	//echo $row->welsh."\n";
+	$mainlang=$row->mainlang;
+	//echo $row->mainlang."\n";
 
-	$stream="\"<".$welsh.">\"\n";
+	$stream="\"<".$mainlang.">\"\n";
 	echo $stream;
 	fwrite($fp, $stream);
 
@@ -43,8 +45,8 @@ while ($row=pg_fetch_object($result))
 	{
 		unset($entry);
 
-		//echo $row->utterance_id.": ".$row->location.": ".$welsh."\n";
-		$sql_dict="select * from cylist where surface='$welsh'";
+		//echo $row->utterance_id.": ".$row->location.": ".$mainlang."\n";
+		$sql_dict="select * from cylist where surface='$mainlang'";
 		$result_dict=pg_query($db_handle,$sql_dict) or die("Can't get the items");
 
 		if (pg_num_rows($result_dict)>0)
@@ -83,8 +85,8 @@ while ($row=pg_fetch_object($result))
 		}
 		else
 		{
-			$tag=(preg_match("/^[A-Z]/", $welsh)) ? "name" : "unk";
-			$entry="\t\"".$welsh."\" "."cy ".$tag."\n";
+			$tag=(preg_match("/^[A-Z]/", $mainlang)) ? "name" : "unk";
+			$entry="\t\"".$mainlang."\" "."cy ".$tag."\n";
 		}
 		echo $entry;
 	}
@@ -92,7 +94,7 @@ while ($row=pg_fetch_object($result))
 	{
 		unset($entry);
 
-		$sql_en="select * from enlist where surface='$welsh'";
+		$sql_en="select * from enlist where surface='$mainlang'";
 		$result_en=pg_query($db_handle,$sql_en) or die("Can't get the items");
 
 		if (pg_num_rows($result_en)>0)
@@ -106,8 +108,8 @@ while ($row=pg_fetch_object($result))
 		}
 		else
 		{
-			$tag=(preg_match("/^[A-Z]/", $welsh)) ? "name" : "unk";
-			$entry="\t\"".$welsh."\" "."en ".$tag."\n";
+			$tag=(preg_match("/^[A-Z]/", $mainlang)) ? "name" : "unk";
+			$entry="\t\"".$mainlang."\" "."en ".$tag."\n";
 		}
 		echo $entry;
 	}
@@ -115,7 +117,7 @@ while ($row=pg_fetch_object($result))
 	{
 		unset($entry);
 
-		$sql_es="select * from eslist where surface='$welsh'";
+		$sql_es="select * from eslist where surface='$mainlang'";
 		$result_es=pg_query($db_handle,$sql_es) or die("Can't get the items");
 
 		if (pg_num_rows($result_es)>0)
@@ -131,15 +133,15 @@ while ($row=pg_fetch_object($result))
 		}
 		else
 		{
-			$tag=(preg_match("/^[A-Z]/", $welsh)) ? "name" : "unk";
-			$entry="\t\"".$welsh."\" "."es ".$tag."\n";
+			$tag=(preg_match("/^[A-Z]/", $mainlang)) ? "name" : "unk";
+			$entry="\t\"".$mainlang."\" "."es ".$tag."\n";
 		}
 		echo $entry;
 	}
 	elseif ($row->langid=='999')
 	{
 		unset($entry);
-		//$entry="\"<$".$welsh.">\"\n";
+		//$entry="\"<$".$mainlang.">\"\n";
 		//echo $entry;
 	}
 

@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 include("includes/fns.php");
-include("/opt/siarad/config.php");
+include("/opt/autoglosser/config.php");
 
 // Generate default names from the filepath given
 list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
@@ -28,14 +28,15 @@ echo $filename."\n";
 echo $utterances."\n";
 echo $words."\n";
 echo $cgfinished."\n";
+echo "Outputs are in outputs/$filename/\n";
 
-//$fp = fopen("outputs/".$filename."_log.txt", "w") or die("Can't create the file");
+//$fp = fopen("outputs/".$filename."/".$filename."_log.txt", "w") or die("Can't create the file");
 
-//echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
-//include("cgimport.php");
+echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
+include("cgimport.php");
 
-//echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
-//include("rewrite_utterances.php");
+echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
+include("rewrite_utterances.php");
 
 //echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
 //include("write_cohorts.php");

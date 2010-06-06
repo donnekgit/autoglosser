@@ -1,14 +1,14 @@
 <?php
 
 function get_filename()
-// Uses the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.
+// Uses the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
 {
 	$chafile=$_SERVER['argv'][1];
 
 	if (isset($chafile))
 	{
 		$filename=strtolower(basename($chafile, ".cha"));
-		echo "*\n*\nAutoglossing $chafile. The prefix will be $filename\n*\n*\n";
+		echo "*\n*\nAutoglossing $chafile. The prefix is $filename - outputs are in outputs/$filename/.\n*\n*\n";
 	}
 	else
 	{
@@ -17,6 +17,7 @@ function get_filename()
 	$utterances=strtolower($filename."_cgutterances");
 	$words=strtolower($filename."_cgwords");
 	$cgfinished=strtolower($filename."_cgfinished");
+	exec("mkdir -p outputs/$filename");  // -p suppresses the error message given when the dir already exists
 	return array($chafile, $filename, $utterances, $words, $cgfinished);
 }
 

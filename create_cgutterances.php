@@ -26,7 +26,7 @@ CREATE TABLE $utterances (
     sourcefile character varying(50),
     sample_id integer,
     speaker character varying(10),
-    welsh text,
+    mainlang text,
     gloss text,
     english text,
     comment text,

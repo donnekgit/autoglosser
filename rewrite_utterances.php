@@ -17,70 +17,72 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// If the script is being called standalone instead of as part of the pipeline, generate default names from the filename given
+//Output table: $filename_cgwords
+//Output file: $filename_cgutterances.txt
+
 if (empty($filename))
 {
 	include("includes/fns.php");
-	include("/opt/siarad/config.php");
+	include("/opt/autoglosser/config.php");
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
 echo "*\n*\nCreating the $words table\n*\n*\n";
 include("create_cgwords.php");
 
-$fp = fopen("outputs/".$utterances.".txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."/".$utterances.".txt", "w") or die("Can't create the file");
 
 $sql="select * from $utterances order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$oldutt="(".$row->utterance_id.") ".$row->welsh."\n";
-	$newutt=clean_utterance($row->welsh)."\n\n";
+	$oldutt="(".$row->utterance_id.") ".$row->mainlang."\n";
+	$newutt=clean_utterance($row->mainlang)."\n\n";
 	echo $oldutt;
 	echo $newutt;
 
 	fwrite($fp, $oldutt);
 	fwrite($fp, $newutt);
 
-	$welsh_bits=explode(' ', $newutt);
-    //print_r($welsh_bits);
+	$mainlang_bits=explode(' ', $newutt);
+    //print_r($mainlang_bits);
     $i=1;   
-    foreach ($welsh_bits as $welsh_value)
+    foreach ($mainlang_bits as $mainlang_value)
     {
-        //echo $i." (of ".count($welsh_bits)."): ".htmlspecialchars($welsh_value)."<br>";
+        //echo $i." (of ".count($mainlang_bits)."): ".htmlspecialchars($mainlang_value)."<br>";
 
 		/* For Siarad texts
-		if  (preg_match("/@/", $welsh_value))        
+		if  (preg_match("/@/", $mainlang_value))        
 		{
-			list($welsh_word, $langid)=explode('@', $welsh_value);
+			list($mainlang_word, $langid)=explode('@', $mainlang_value);
 		}
 		else
 		{
-			$welsh_word=$welsh_value;
+			$mainlang_word=$mainlang_value;
 			$langid="999";
 		} 
 		*/
 
 		// This handles both Siarad and Patagonia langid markings in the same bit of code - we replace the langid preamble, whatever it is, by ~~~, and then explode on that.
-		if  (preg_match("/@(s:)/", $welsh_value))     
+		if  (preg_match("/@(s:)/", $mainlang_value))     
 		{
-			$welsh_value=preg_replace("/@(s:)/","~~~", $welsh_value);
-			list($welsh_word, $langid)=explode('~~~', $welsh_value);
+			$mainlang_value=preg_replace("/@(s:)/","~~~", $mainlang_value);
+			list($mainlang_word, $langid)=explode('~~~', $mainlang_value);
 		}
-		elseif(preg_match("/(\.|\?|!)/", $welsh_value)) 
+		elseif(preg_match("/(\.|\?|!)/", $mainlang_value)) 
 		{
-			$welsh_word=$welsh_value;
+			$mainlang_word=$mainlang_value;
 			$langid="999";
 		} 
 		else
 		{
-			$welsh_word=$welsh_value;
+			$mainlang_word=$mainlang_value;
 			$langid="";
 		} 
 
-        $welsh_word=trim(pg_escape_string($welsh_word)); 
-		//echo $row->utterance_id." - ".$i." - ".$welsh_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."<br />";
-        $sql_w="insert into $words (utterance_id, location, welsh, langid, speaker, sourcefile) values ('$row->utterance_id', '$i', '$welsh_word', '$langid', '$row->speaker', '$row->chafile')";
+        $mainlang_word=trim(pg_escape_string($mainlang_word)); 
+		//echo $row->utterance_id." - ".$i." - ".$mainlang_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."<br />";
+        $sql_w="insert into $words (utterance_id, location, mainlang, langid, speaker, sourcefile) values ('$row->utterance_id', '$i', '$mainlang_word', '$langid', '$row->speaker', '$row->chafile')";
         $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");       
         $i=++$i;
         

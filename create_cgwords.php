@@ -7,7 +7,7 @@ CREATE TABLE $words (
     word_id serial NOT NULL,
     utterance_id integer,
     location integer,
-    welsh character varying(100),
+    mainlang character varying(100),
     gloss character varying(250),
     glossloc integer,
     speaker character varying(10),

@@ -17,20 +17,22 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given
+//Output table: $filename_cgfinished
+//Output file: $filename_cgout.txt
+
 if (empty($filename))
 {
 	include("includes/fns.php");
-	include("/opt/siarad/config.php");
+	include("/opt/autoglosser/config.php");
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
 echo "*\n*\nCreating the $cgfinished table\n*\n*\n";
 include("create_cgfinished.php");
 
-$fp = fopen("outputs/".$filename."_cgout.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."/".$filename."_cgout.txt", "w") or die("Can't create the file");
 
-$lines=file("outputs/".$filename."_cg_applied.txt");
+$lines=file("outputs/".$filename."/".$filename."_cg_applied.txt");
 $utt=1;
 $loc=1;  
      

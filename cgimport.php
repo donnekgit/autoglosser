@@ -17,11 +17,13 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given - note that this is the only standalone script where we need to give the filepath (eg inpust/Patagonia1.cha); the others simply use the filename (eg patagonia1)
+//Output table: $filename_cgutterances
+//Output file: none
+
 if (empty($filename))
 {
 	include("includes/fns.php");
-	include("/opt/siarad/config.php");
+	include("/opt/autoglosser/config.php");
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
@@ -44,25 +46,25 @@ foreach ($lines as $line_num => $line)
 	$line=preg_replace("/(\d)\[/", "$1 [", $line);  // split an opening square bracket from the preceding tag
 	$line=preg_replace("/(\%gls:\t)\s/", "$1", $line);  // remove errant space from beginning of gloss lines if it occurs
 	
-	// Collect Welsh utterances - uncomment the commented lines to get some help with debugging
+	// Collect utterances in the main language - uncomment the commented lines to get some help with debugging
 
     if (preg_match("/^\*/", $line))
     {
-		//echo "This is the Welsh.<br/>";
-        $welsh_line=preg_split('/:\t/', $line);
-        $speaker=preg_replace("/\*/", "", $welsh_line[0]);
-        $rest=$welsh_line[1];
+		//echo "This is the main language.<br/>";
+        $mainlang_line=preg_split('/:\t/', $line);
+        $speaker=preg_replace("/\*/", "", $mainlang_line[0]);
+        $rest=$mainlang_line[1];
         //echo "Speaker: ".htmlspecialchars($speaker)."<br/>";
         
-        list($welsh, $timing)=explode('', $rest); //NAK is Unicode 0015
+        list($mainlang, $timing)=explode('', $rest); //NAK is Unicode 0015
         
         /*
-        $welsh_bits=explode(' ', $welsh);
-        array_pop($welsh_bits);
+        $mainlang_bits=explode(' ', $mainlang);
+        array_pop($mainlang_bits);
         $i=1;
-        foreach ($welsh_bits as $welsh_value)
+        foreach ($mainlang_bits as $mainlang_value)
         {
-            echo "The word in ".$i." (total: ".count($welsh_bits).") is: ".htmlspecialchars($welsh_value)."<br>";
+            echo "The word in ".$i." (total: ".count($mainlang_bits).") is: ".htmlspecialchars($mainlang_value)."<br>";
             $i=++$i;
         }
         */
@@ -103,15 +105,15 @@ foreach ($lines as $line_num => $line)
         //echo "<br/>Duration of this utterance: ".$durbegin." to ".$durend." (".$duration.")<br/><br/>";
 
         $speaker=trim(pg_escape_string($speaker));
-        $welsh=trim(pg_escape_string($welsh));
-		$welsh=preg_replace("/\s+/", " ", $welsh);
+        $mainlang=trim(pg_escape_string($mainlang));
+		$mainlang=preg_replace("/\s+/", " ", $mainlang);
 		$sourcefile=strtolower(trim(pg_escape_string($sourcefile)));
         $line_num=$line_num + 1;
 
-		echo "(".$line_num.") ".$welsh."\n";
+		echo "(".$line_num.") ".$mainlang."\n";
 
-        $sql="insert into $utterances (speaker, duration, welsh, line_num, sourcefile, durbegin, durend) values ('$speaker',
-'$duration', '$welsh', '$line_num', '$sourcefile', '$durbegin', '$durend')";
+        $sql="insert into $utterances (speaker, duration, mainlang, line_num, sourcefile, durbegin, durend) values ('$speaker',
+'$duration', '$mainlang', '$line_num', '$sourcefile', '$durbegin', '$durend')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
     }
     
