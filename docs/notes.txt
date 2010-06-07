@@ -43,7 +43,40 @@ tagged as @0, but by definition these cannot be English, since they are mutated
 
 
 Checking write_cgautogloss.php output
-select w.utterance_id, w.location, w.welsh, f.utterance as autoutt, f.location as autoloc, f.surface, f.lemma, f.tags from patagonia1_cgwords w, patagonia1_cgfinished f where w.utterance_id=f.utterance and w.location=f.location order by w.utterance_id, w.location
+select w.utterance_id, w.location, w.mainlang, f.utterance_id as autoutt, f.location as autoloc, f.surface, f.lemma, f.tags from patagonia2_cgwords w, patagonia2_cgfinished f where w.utterance_id=f.utterance_id and w.location=f.location order by w.utterance_id, w.location
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 select * from patagonia1_cgfinished order by utterance, location
 

@@ -35,16 +35,8 @@ $lines=file($chafile,FILE_SKIP_EMPTY_LINES);
 foreach ($lines as $line_num => $line)
 {
 	// Sort out punctuation
-	$line=preg_replace("/(\.+)\.(\s)/", "$1 .$2", $line);  // split period from +...
-	$line=preg_replace("/(\.+)\?(\s)/", "$1 .$2", $line);  // split qmark from +..?
-	$line=preg_replace("/(\/?\/)\./", "$1 .", $line);  // split period from +/. and  +"/. and +//.
-	$line=preg_replace("/(\")\./", "$1 .", $line);  // split period from +".
-	$line=preg_replace("/(\+\!)\?/", "$1 ?", $line);  // split qmark from +!?
-
-	// Apparent transcription errors
-	$line=preg_replace("/(\d|cy|en|es)\./", "$1 .", $line);  // split period from a preceding @1 or @2; examples seem to be an errors - usually the period has a space between it and the last word of the utterance; also need to cover new-style language tags
-	$line=preg_replace("/(\d)\[/", "$1 [", $line);  // split an opening square bracket from the preceding tag
-	$line=preg_replace("/(\%gls:\t)\s/", "$1", $line);  // remove errant space from beginning of gloss lines if it occurs
+	fix_punctuation($line);
+	fix_transcription($line);
 	
 	// Collect utterances in the main language - uncomment the commented lines to get some help with debugging
 

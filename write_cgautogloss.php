@@ -29,12 +29,12 @@ if (empty($filename))
 
 $fp = fopen("outputs/".$filename."/".$filename."_autoglossed.txt", "w") or die("Can't create the file");
 
-$sql_u="select * from ".$filename."_cgutterances order by utterance_id";
+$sql_u="select * from $utterances order by utterance_id";
 $result_u=pg_query($db_handle,$sql_u) or die("Can't get the items");
 while ($row_u=pg_fetch_object($result_u))
 {
 	// get the items for each utterance
-	$sql="select * from ".$filename."_cgwords w, ".$filename."_cgfinished f where w.utterance_id=$row_u->utterance_id and w.utterance_id=f.utterance_id and w.location=f.location order by w.location";
+	$sql="select * from $words w, $cgfinished f where w.utterance_id=$row_u->utterance_id and w.utterance_id=f.utterance_id and w.location=f.location order by w.location";
 	$result=pg_query($db_handle,$sql) or die("Can't get the items");
 	while ($row=pg_fetch_object($result))
 	{

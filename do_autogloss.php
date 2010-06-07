@@ -38,17 +38,17 @@ include("cgimport.php");
 echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
 include("rewrite_utterances.php");
 
-//echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
-//include("write_cohorts.php");
+echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
+include("write_cohorts.php");
 
-//echo "*\n*\nApplying the grammar to disambiguate\n*\n*\n";
-//include("apply_cg.php");
+echo "*\n*\nApplying the grammar to disambiguate\n*\n*\n";
+include("apply_cg.php");
 
-//echo "*\n*\nWriting disambiguated forms to $cgfinished\n*\n*\n";
-//include("write_cgfinished.php");
+echo "*\n*\nWriting disambiguated forms to $cgfinished\n*\n*\n";
+include("write_cgfinished.php");
 
-//echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
-//include("write_cgautogloss.php");
+echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
+include("write_cgautogloss.php");
 
 //fclose($fp);
 

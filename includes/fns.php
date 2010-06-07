@@ -41,6 +41,27 @@ function drop_existing_table($table)
 	}
 }
 
+function fix_punctuation($text)
+// Sort out punctuation
+{
+	$text=preg_replace("/(\.+)\.(\s)/", "$1 .$2", $text);  // split period from +...
+	$text=preg_replace("/(\.+)\?(\s)/", "$1 .$2", $text);  // split qmark from +..?
+	$text=preg_replace("/(\/?\/)\./", "$1 .", $text);  // split period from +/. and  +"/. and +//.
+	$text=preg_replace("/(\")\./", "$1 .", $text);  // split period from +".
+	$text=preg_replace("/(\+\!)\?/", "$1 ?", $text);  // split qmark from +!?
+	return $text;
+}
+
+function fix_transcription($text)
+// Apparent transcription errors
+{
+	$text=preg_replace("/(\d|cy|en|es)\./", "$1 .", $text);  // split period from a preceding @1 or @2; examples seem to be errors - usually the period has a space between it and the last word of the utterance; also need to cover new-style language tags
+	$text=preg_replace("/(n)\./", "$1 .", $text);
+	$text=preg_replace("/(\d)\[/", "$1 [", $text);  // split an opening square bracket from the preceding tag
+	$text=preg_replace("/(\%gls:\t)\s/", "$1", $text);  // remove errant space from beginning of gloss lines if it occurs
+	return $text;
+}
+
 function clean_utterance($text)
 // Note that the order of these is important.
 // Remember to move any tags using & out of the way in the first line, and move them back before the main cleaning line.
@@ -49,7 +70,7 @@ function clean_utterance($text)
 	$text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
 	$text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
 
-	$text=preg_replace("/\[.+\]/u", "", $text); // anything in square brackets  - this is too greedy - need to reign it back
+	$text=preg_replace("/\[.+\]/u", "", $text); // anything in square brackets  - this is too greedy - need to rein it back
 	$text=preg_replace("/&.[^ ]+ /u", "", $text);  // &=<laugh>
 	$text=preg_replace("/(\.|!)[^$]/u", "", $text); // periods or exclamation marks that are not at the end of the sentence
 

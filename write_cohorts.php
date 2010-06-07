@@ -29,7 +29,7 @@ if (empty($filename))
 
 $fp = fopen("outputs/".$filename."/".$filename."_cg.txt", "w") or die("Can't create the file");
 
-$sql="select * from ".$filename."_cgwords order by utterance_id, location";
+$sql="select * from $words order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
