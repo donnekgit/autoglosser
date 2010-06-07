@@ -30,7 +30,7 @@ if (empty($filename))
 echo "*\n*\nCreating the $words table\n*\n*\n";
 include("create_cgwords.php");
 
-$fp = fopen("outputs/".$filename."/".$utterances.".txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."/".$utterances."_rewritten.txt", "w") or die("Can't create the file");
 
 $sql="select * from $utterances order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");

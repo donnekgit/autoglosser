@@ -49,16 +49,18 @@ function fix_punctuation($text)
 	$text=preg_replace("/(\/?\/)\./", "$1 .", $text);  // split period from +/. and  +"/. and +//.
 	$text=preg_replace("/(\")\./", "$1 .", $text);  // split period from +".
 	$text=preg_replace("/(\+\!)\?/", "$1 ?", $text);  // split qmark from +!?
+
 	return $text;
 }
 
 function fix_transcription($text)
 // Apparent transcription errors
 {
-	$text=preg_replace("/(\d|cy|en|es)\./", "$1 .", $text);  // split period from a preceding @1 or @2; examples seem to be errors - usually the period has a space between it and the last word of the utterance; also need to cover new-style language tags
-	$text=preg_replace("/(n)\./", "$1 .", $text);
+	$text=preg_replace("/(\d)\./", "$1 .", $text);  // split period from a preceding @1 or @2; examples seem to be errors - usually the period has a space between it and the last word of the utterance; also need to cover new-style language tags
+	$text=preg_replace("/([a-z])\./", "$1 .", $text);  // split period from preceding a-z; we should limit this to the end of the utterance, but we can't use $ here because it is not the end of the line; if necessary, we can do a tighter regex later; this will also catch patagonia-style language tags which have a period immediately following in error
 	$text=preg_replace("/(\d)\[/", "$1 [", $text);  // split an opening square bracket from the preceding tag
 	$text=preg_replace("/(\%gls:\t)\s/", "$1", $text);  // remove errant space from beginning of gloss lines if it occurs
+	
 	return $text;
 }
 

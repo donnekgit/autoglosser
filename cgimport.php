@@ -30,41 +30,33 @@ if (empty($filename))
 echo "*\n*\nCreating the $utterances table\n*\n*\n";
 include("create_cgutterances.php");
 
+$fp = fopen("outputs/".$filename."/".$utterances.".txt", "w") or die("Can't create the file");
+
+$i=1;  // start counter for utterances
+
 $lines=file($chafile,FILE_SKIP_EMPTY_LINES);
        
-foreach ($lines as $line_num => $line)
+foreach ($lines as $line)
 {
-	// Sort out punctuation
-	fix_punctuation($line);
-	fix_transcription($line);
+	if (preg_match("/^\*/", $line))
+    {
+		fwrite($fp, "(".$i.") ".$line);
+	}
 	
-	// Collect utterances in the main language - uncomment the commented lines to get some help with debugging
-
+	// Sort out punctuation
+	$line=fix_punctuation($line);
+	$line=fix_transcription($line);
+	
+	// Collect utterances in the main language
     if (preg_match("/^\*/", $line))
     {
-		//echo "This is the main language.<br/>";
         $mainlang_line=preg_split('/:\t/', $line);
         $speaker=preg_replace("/\*/", "", $mainlang_line[0]);
         $rest=$mainlang_line[1];
-        //echo "Speaker: ".htmlspecialchars($speaker)."<br/>";
         
         list($mainlang, $timing)=explode('', $rest); //NAK is Unicode 0015
         
-        /*
-        $mainlang_bits=explode(' ', $mainlang);
-        array_pop($mainlang_bits);
-        $i=1;
-        foreach ($mainlang_bits as $mainlang_value)
-        {
-            echo "The word in ".$i." (total: ".count($mainlang_bits).") is: ".htmlspecialchars($mainlang_value)."<br>";
-            $i=++$i;
-        }
-        */
-        
-		$line_num=$line_num +1;
-		//echo $line_num.": ".$timing."<br/>";
-
-		if (isset($timing))
+        if (isset($timing))
 		{
 			/* For Siarad texts
 			if (preg_match('/snd/', $timing))
@@ -94,39 +86,26 @@ foreach ($lines as $line_num => $line)
 
 		if (empty($sourcefile)){$sourcefile=$filename;}
 		
-        //echo "<br/>Duration of this utterance: ".$durbegin." to ".$durend." (".$duration.")<br/><br/>";
-
         $speaker=trim(pg_escape_string($speaker));
         $mainlang=trim(pg_escape_string($mainlang));
 		$mainlang=preg_replace("/\s+/", " ", $mainlang);
 		$sourcefile=strtolower(trim(pg_escape_string($sourcefile)));
-        $line_num=$line_num + 1;
 
-		echo "(".$line_num.") ".$mainlang."\n";
-
-        $sql="insert into $utterances (speaker, duration, mainlang, line_num, sourcefile, durbegin, durend) values ('$speaker',
-'$duration', '$mainlang', '$line_num', '$sourcefile', '$durbegin', '$durend')";
+        $sql="insert into $utterances (speaker, duration, mainlang, sourcefile, durbegin, durend) values ('$speaker', '$duration', '$mainlang', '$sourcefile', '$durbegin', '$durend')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
+		
+		echo "(".$i.") ".$mainlang."\n";
+		fwrite($fp, "(".$i.") ".$mainlang."\n\n");
+
+		$i++;
     }
     
 	// Collect glosses
-
     elseif (preg_match("/^%gls/", $line))
     {
-        //echo "This is a tagged gloss.<br/>";
         $gloss=preg_split('/:\t/', $line);
         $gloss=$gloss[1];
         
-        /*
-        echo $gloss."<br/>";
-        $gloss_bits=explode(' ', $gloss);
-        $i=1;
-        foreach ($gloss_bits as $gloss_value)
-        {
-            echo "The word in ".$i." (total: ".count($gloss_bits).") is: ".htmlspecialchars($gloss_value)."<br>";
-            $i=++$i;
-        }
-        */
 		// Remove non-morphological strings
 		$gloss=preg_replace('/ x{1,3} /', ' ', $gloss);
         $gloss=trim(pg_escape_string($gloss));
@@ -138,14 +117,10 @@ foreach ($lines as $line_num => $line)
     }
     
     // Collect English interpretations
-    
     elseif (preg_match("/^%eng/", $line))
     {
-        //echo "This is the English.<br/>";
         $english=preg_split('/:\t/', $line);
         $english=$english[1];
-        //echo $english."<br/><hr/>";
-        
         $english=trim(pg_escape_string($english));
 
 		echo $english."\n";
@@ -155,14 +130,10 @@ foreach ($lines as $line_num => $line)
     }
     
     // Collect comments, if any.  FIXME: In a series of comments, the last one will overwrite previous ones - we need to concatenate these, or write them to a separate table using the utterance_id as the key.
-
 	elseif (preg_match("/^@Comment/", $line) or preg_match("/^%com/", $line) )
     {
-        //echo "This is a comment line.<br/>";
         $comment=preg_split('/:\t/', $line);
-        $comment=$comment[1];
-        //echo $comment."<br/><hr/>";
-        
+        $comment=$comment[1];       
         $comment=trim(pg_escape_string($comment));
 
 		echo $comment."\n";
@@ -174,5 +145,7 @@ foreach ($lines as $line_num => $line)
 	unset($durbegin, $durend, $duration); 
   
 }
+
+fclose($fp);
 
 ?>

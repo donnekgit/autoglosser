@@ -30,7 +30,6 @@ CREATE TABLE $utterances (
     gloss text,
     english text,
     comment text,
-    line_num integer,
     durbegin integer,
     durend integer,
     duration character varying(50) 
