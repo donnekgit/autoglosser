@@ -1918,7 +1918,9 @@
 "<y>"
 	"y" cy c :that: 416861
 	"y" cy t :the: 416862
-"<dyffryn.>"
+"<dyffryn>"
+	"dyffryn" cy n m s :valley: 389458
+"<.>"
 "<a>"
 	"a" cy c :and: 387415
 	"a" cy part-int :query: 391202
@@ -7332,7 +7334,9 @@
 "<Caer>"
 	"Caer" cy name
 "<.>"
-"<ia.>"
+"<ia>"
+	"ia" cy unk
+"<.>"
 "<a>"
 	"a" cy c :and: 387415
 	"a" cy part-int :query: 391202
@@ -7939,7 +7943,9 @@
 	"gartre" cy unk
 "<bach>"
 	"bach" cy a :small: 387584
-"<neis.>"
+"<neis>"
+	"neis" cy a :nice: 386036
+"<.>"
 "<a>"
 	"a" cy c :and: 387415
 	"a" cy part-int :query: 391202
@@ -8087,7 +8093,9 @@
 "<yn>"
 	"yn" cy stat :stative: 391257
 	"yn" cy p :in: 388368
-"<beryg.>"
+"<beryg>"
+	"beryg" cy unk
+"<.>"
 "<oh>"
 	"oh" es ij :oh: 510327
 "<beryg>"
@@ -13083,7 +13091,10 @@
 	"yn" cy p :in: 388368
 "<anffodus>"
 	"anffodus" cy a :unfortunate: 387495
-"<iawn.>"
+"<iawn>"
+	"iawn" cy b :OK: 386256
+	"iawn" cy b :very: 388001
+"<.>"
 "<i>"
 	"i" cy p :to: 391198
 	"i" cy r :I: 391279
