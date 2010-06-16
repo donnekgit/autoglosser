@@ -72,7 +72,7 @@ foreach ($lines as $line)
 				$duration=$durend-$durbegin;
 			}
 			*/ //End of Siarad section
-			
+			$timing=preg_replace("/(%|\").*_/U", "", $timing);  // U for ungreedy; this line is to handle the Siarad layout, which looks like this: %snd:"Stammers4"_3878_4423; some lines are missing the "%snd:" part
 			list($durbegin, $durend)=explode('_', $timing);
 			$duration=$durend-$durbegin;
 		}
@@ -84,14 +84,14 @@ foreach ($lines as $line)
 			$duration=0;
 		}
 
-		if (empty($sourcefile)){$sourcefile=$filename;}
+		//if (empty($sourcefile)){$sourcefile=$filename;}
 		
         $speaker=trim(pg_escape_string($speaker));
         $mainlang=trim(pg_escape_string($mainlang));
 		$mainlang=preg_replace("/\s+/", " ", $mainlang);
 		$sourcefile=strtolower(trim(pg_escape_string($sourcefile)));
 
-        $sql="insert into $utterances (speaker, duration, mainlang, sourcefile, durbegin, durend) values ('$speaker', '$duration', '$mainlang', '$sourcefile', '$durbegin', '$durend')";
+        $sql="insert into $utterances (speaker, duration, mainlang, filename, durbegin, durend) values ('$speaker', '$duration', '$mainlang', '$filename', '$durbegin', '$durend')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
 		
 		echo "(".$i.") ".$mainlang."\n";

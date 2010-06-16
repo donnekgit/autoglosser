@@ -82,7 +82,7 @@ while ($row=pg_fetch_object($result))
 
         $mainlang_word=trim(pg_escape_string($mainlang_word)); 
 		//echo $row->utterance_id." - ".$i." - ".$mainlang_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."<br />";
-        $sql_w="insert into $words (utterance_id, location, mainlang, langid, speaker, sourcefile) values ('$row->utterance_id', '$i', '$mainlang_word', '$langid', '$row->speaker', '$row->chafile')";
+        $sql_w="insert into $words (utterance_id, location, mainlang, langid, speaker, filename) values ('$row->utterance_id', '$i', '$mainlang_word', '$langid', '$row->speaker', '$row->filename')";
         $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");       
         $i=++$i;
         

@@ -17,6 +17,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+// Creates a csv file giving the words in the utterance on one line of spreadsheet cells, with the glosses aligned below them
 //Output table: none
 //Output file: $filename_autoglossed.txt
 

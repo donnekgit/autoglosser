@@ -1,23 +1,3 @@
-@Font:	Win95:Arial:-19:0
-@UTF8
-@Begin
-@Languages:	cy, es, en
-@Participants:	MBL Mabel Adult, DIA Diana Adult, CRS Carlos Adult, OSE non_participant Adult
-@ID:	cy, es|Patagonia|MBL|21;|female|||Adult||
-@ID:	cy, es|Patagonia|DIA|22;|female|||Adult||
-@ID:	cy, es|Patagonia|CRS|28;|male|||Adult||
-@ID:	cy, es|Patagonia|OSE|?;|?|||Adult||
-@Situation:	Conversation at a meeting centre for Chubut-born people in Buenos Aires
-@Comment:	MBL ???
-@Comment:	DIA ???
-@Comment:	CRS ???
-@Date:	25-OCT-2009
-@Transcriber:	Myfyr Prys and Lowri Jones, Bangor University
-@Comment:	Researchers: Peredur Davies, Bangor University
-@Time Duration:	00:10:02
-@Media:	Patagonia1, audio
-@Comment:	Filename: Patagonia1.CHA; Soundfile: Patagonia1.WAV
-@Comment:	Language markers:  @s:en = English, @s:es = Spanish @s:cy&es = Undetermined
 *MBL:	ond rwyt ti (y)n byw ar bwys (y)r coleg ia ? 917_3576
 %eng:	but you live next to the college right?
 *MBL:	y brif [//] brifysgol ? 3443_4476
@@ -664,4 +644,3 @@
 %eng:	he  is going
 *MBL:	ciento@s:es sesenta@s:es . 600878_602283
 %eng:	one hundred sixty .
-@End

@@ -12,7 +12,7 @@ CREATE TABLE $words (
     glossloc integer,
     speaker character varying(10),
     langid character varying(10),
-	sourcefile character varying(50)
+	filename character varying(50)
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);

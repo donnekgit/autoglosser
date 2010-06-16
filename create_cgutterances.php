@@ -23,7 +23,7 @@ drop_existing_table($utterances);
 $sql_table = "
 CREATE TABLE $utterances (
     utterance_id serial NOT NULL,
-    sourcefile character varying(50),
+    filename character varying(50),
     sample_id integer,
     speaker character varying(10),
     mainlang text,
