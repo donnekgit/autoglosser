@@ -30,12 +30,14 @@ if (empty($filename))
 echo "*\n*\nCreating the $utterances table\n*\n*\n";
 include("create_cgutterances.php");
 
+// Fix Microsoft Windows line-breaks
+//exec("utils/sed_joinlines ".$chafile);  // not working reliably - truncating the file; do manually for the time being
+
 $fp = fopen("outputs/".$filename."/".$utterances.".txt", "w") or die("Can't create the file");
 
 $i=1;  // start counter for utterances
 
 $lines=file($chafile,FILE_SKIP_EMPTY_LINES);
-       
 foreach ($lines as $line)
 {
 	if (preg_match("/^\*/", $line))
@@ -95,7 +97,7 @@ foreach ($lines as $line)
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
 		
 		echo "(".$i.") ".$mainlang."\n";
-		fwrite($fp, "(".$i.") ".$mainlang."\n\n");
+		//fwrite($fp, "(".$i.") ".$mainlang."\n\n");
 
 		$i++;
     }
@@ -107,10 +109,13 @@ foreach ($lines as $line)
         $gloss=$gloss[1];
         
 		// Remove non-morphological strings
-		$gloss=preg_replace('/ x{1,3} /', ' ', $gloss);
+		//$gloss=preg_replace('/ x{1,3} /', ' ', $gloss);
+		// Moved to rewrite_utterances.php
+
         $gloss=trim(pg_escape_string($gloss));
 
 		echo $gloss."\n";
+		fwrite($fp, "(".$i.") ".$gloss."\n\n");
 
         $sql="update $utterances set gloss='$gloss' where utterance_id=currval('".$utterances."_utterance_id_seq')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");

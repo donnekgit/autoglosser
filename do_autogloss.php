@@ -30,14 +30,12 @@ echo $words."\n";
 echo $cgfinished."\n";
 echo "Outputs are in outputs/$filename/\n";
 
-//$fp = fopen("outputs/".$filename."/".$filename."_log.txt", "w") or die("Can't create the file");
-/*
 echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
 include("cgimport.php");
 
 echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
 include("rewrite_utterances.php");
-
+/*
 echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
 include("write_cohorts.php");
 
@@ -50,6 +48,5 @@ include("write_cgfinished.php");
 echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
 include("write_cgautogloss.php");
 */
-//fclose($fp);
 
 ?>

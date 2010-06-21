@@ -1,8 +1,9 @@
 #!/bin/sh
-
-dos2unix inputs/Patagonia2_headerless.cha
-sed -e 'N;s/\n\t/ /;P;D;' < inputs/Patagonia2_headerless.cha | \
-sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e 'N;s/\n\t/ /;P;D;' > inputs/Patagonia2.cha
+# Convert Microsoft Windows line-ends to spaces
+# Required in order to have each line on one line without breaks
+# $1 receives the filename from the shell, which in turn receives it from the PHP script
+sed -e 'N;s/\r\n\t/ /;P;D;' < $1 | \
+sed -e 'N;s/\r\n\t/ /;P;D;' | \
+sed -e 'N;s/\r\n\t/ /;P;D;' | \
+sed -e 'N;s/\r\n\t/ /;P;D;' | \
+sed -e 'N;s/\r\n\t/ /;P;D;' > $1

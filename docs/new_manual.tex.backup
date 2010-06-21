@@ -65,37 +65,38 @@ Replace filenames in \textbf{utils/sed\_joinlines} and run:\\
 This will deal with Microsoft Windows endlines by ensuring that all lines of the text are joined up, and not split over several lines.
 
 
-\section{do\_autogloss.php}
+\section{Put a file through the pipeline}
 \label{sec:pipeline}
 
-This is the base file which calls the other components.  This can be truncated to produce a file that only does imports (eg if you have already glossed your file).  
-*** Need to think about whether we do a sample file like this.  And also about the naming of the glosses column - perhaps assume autoglossing and keep gloss for that column, with mygloss for manual glosses.  Need to find a way of writing all the output into a log - at present, opening a file in the script and writing to it doesn't work.
-*** May need to review filenames, tablenames, etc.  Create folder for each file, to hold byproduct files? 
+File: do\_autogloss.php
+Output tables: \$filename\_cgutterances, \$filename\_cgwords, \$filename\_cgfinished
+Output file: 
 
-From a terminal, navigate to location of the autoglosser, and enter:
-php do\_autogloss.php /path/to/
-Currently, the chafile is hardwired into the script, but it can be handled via an argument to a CLI script, or via a text-box on a webpage.  CLI is probably preferable.
-*** Use these to allow subsets of the components to be selected?
+This is the base file which calls all the other components.  This means that you can run a single command on a file as prepared in Section \ref{sec:prepare}, and the glossed file will be produced automatically within a few minutes.  If you have already glossed your file, but want to import it into a database for statistical or other analysis, it is easiest to run the first two commands, cgimport.php (Section \ref{sec:import}) and rewrite_utterances.php (Section \ref{sec:rewrite}) manually.
 
-It strips the extension .cha, and lowercases the name, to be used as the prefix for all tables and files created during the autogloss or import process.  Two variables are created that are used in the other components: \$utterances (referring to the table filename\_cgutterances) and \$words (referring to the table filename\_cgwords).
+From a terminal, navigate to the location of the autoglosser, and enter:\\
+\texttt{php do\_autogloss.php /path/to/mychafile.cha}\\
+adjusting the path as required for your setup.  The file extensions currently catered for are \textbf{.cha} or \textbf{.txt}, but more can be added by editing the \textbf{get\_filename()} function in \textbf{includes/fns.php}.
+
+The extension is removed, and the name is lowercased, to be used as the \textbf{\$filename} prefix for all tables and files created during the autogloss or import process.  The tables that will be created at each stage of the process are given shorthand names: \textbf{\$utterances} for the table \textit{\$filename\_cgutterances}, \textbf{\$words} for the table \textit{\$filename\_cgwords}, and \textbf{\$cgfinished} for the table \textit{\$filename\_cgfinished}.  This allows the names of the tables to be changed easily, should you wish to to so.
 
 
-\section{cgimport.php}
+\section{Import the file}
 \label{sec:import}
 
-Function: Opens the chafile given earlier, and imports it into the table \$utterances.
-Outputs: (database table) filename_cgutterances; (text file) none.
+\begin{itemize}
+\item File: \textbf{cgimport.php}, also calling \textbf{create\_cgutterances.php}
+\item Function: Opens the chat file given earlier, and imports it into the table \textbf{\$filename\_utterances}.
+\item Output tables: \textbf{\$filename\_cgutterances}
+\item Output file: none                 
+\end{itemize}
 
 We call the file create\_cgutterances.php to drop (using the drop\_table() function in includes/fns.php) any existing filename\_utterances table, and recreates it.  The table will hold the segmented chafile.
 *** Can change column names here to deal with gloss issue above.  Maybe need to add indexes?  Any benefits in adding another column which holds the complete speech tier, ie without splitting it up?  This would simplify rebuilding.  Need to change the table name from "welsh", so that other languages can be used.  Also need to add a column for the autogloss, so that it can co-exist with any manual gloss.
 
 We add the sourcefile as a column just in case it might be useful in doing queries.  In cases where this is not available in the sound data, we use \$filename generated earlier. *** Perhaps best to generalise this, and use it even with Siarad. *** sample\_id and line\_num may not be needed.
 
-First do some punctuation and error correction.  These may need to be extended for other files.
-*** This could perhaps go into a function? 
-
 Read in the speech tier, beginning with *.  Split off the sound data.
-*** This will not work in cases where snd is not used to preface this.  Perhaps need to use the NAK character as the split-point.
 
 Read in the glosses, beginning with \%gls.  This may not exist in all files, and is likely not to in files that you are going to autogloss.  Remove non-morphological strings that shouldn't be there (eg x, xx, xxx).
 *** Again, this should maybe be abstracted into a function, which could be added to as necessary.  As noted above, perhaps change the column name to mygloss, or manual, or something, so that we have a clear run for the autogloss.

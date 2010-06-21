@@ -26,18 +26,23 @@ This manual explains how to use the Bangor autoglosser to provide glosses for  C
 \end{abstract}
 
 
-\section{General}
-\label{sec:general}
+\section{Introduction}
+\label{sec:intro}
 
-This autoglosser, which is licensed under version 3 of the GPL,\footnote{http://www.gnu.org/licenses/gpl.html} was originally developed for use with Siarad, the GPLed corpus of Welsh conversations assembled by the University of Bangor's Centre for Research on Bilingualism in Theory and Practice,\footnote{http://bilingualism.bangor.ac.uk} but they should be useable in other contexts.  The autoglosser has been built and tested on GNU/Linux, but it is likely to run also on legacy platforms like Microsoft Windows or Apple Mac OS X.
+In the context of CLAN chat files, ``glossing'' means generating an additional tier containing part-of-speech tags.  This autoglosser generates the gloss tier automatically from a POS-tagged dictionary.  The software has been tested on Welsh and Spanish, and could be easily extended to handle any language, provided that you have available:
+\begin{itemize}
+\item a digital dictionary for that language, and
+\item a basic Constraint Grammar\footnote{http://beta.visl.sdu.dk/constraint\_grammar.html} to disambiguate homonyms in the language.
+\end{itemize}
+If you do not already have access to such resources, you will have to create them - some suggestions on this are given in later sections. 
+
+The Bangor autoglosser is licensed under version 3 of the GPL,\footnote{http://www.gnu.org/licenses/gpl.html}, and was originally developed for use with \textit{\textbf{Siarad}}, the GPLed corpus of Welsh conversations assembled by the ESRC Centre for Research on Bilingualism in Theory and Practice,\footnote{http://bilingualism.bangor.ac.uk} at the University of Wales, Bangor.  The software has been built and tested on GNU/Linux, but it is likely to run also on legacy platforms like Microsoft Windows or Apple Mac OS X.
 
 
-\section{Requirements}
+\section{Installation requirements}
 \label{sec:requirements}
 
 Your machine will need to have Apache2, PHP5, PostgreSQL, and (optionally) Git already installed.  The Appendix gives a summary of the relevant commands for Ubuntu 9.10, and suggests how to configure your machine to use these applications effectively -- note that this is only a suggestion, and other approaches are possible.
-
-To use the autoglosser, you will need digital dictionaries for the languages you are interested in, and a basic Constraint Grammar\footnote{http://beta.visl.sdu.dk/constraint\_grammar.html} to disambiguate homonyms in those languages.  If you do not already have access to such resources, you will have to create them - some suggestions on this are given in later sections.   Once your system is configured, and your support resources are ready, all you need to do is put the CHAT file you want to autogloss in the \textit{inputs} dir, open a terminal, and run \textbf{php do\_autogloss.php}.
 
 
 \section{Overview}
@@ -72,17 +77,17 @@ File: do\_autogloss.php
 Output tables: \$filename\_cgutterances, \$filename\_cgwords, \$filename\_cgfinished
 Output file: 
 
-This is the base file which calls all the other components.  
+This is the base file which calls all the other components.  This means that you can run a single command on a file as prepared in Section \ref{sec:prepare}, and the glossed file will be produced automatically within a few minutes.  If you have already glossed your file, but want to import it into a database for statistical or other analysis, it is easiest to run the first two commands, cgimport.php (Section \ref{sec:import}) and rewrite\_utterances.php (Section \ref{sec:rewrite}) manually.
 
-This can be truncated to produce a file that only does imports (eg if you have already glossed your file).  
-*** Need to think about whether we do a sample file like this.  And also about the naming of the glosses column - perhaps assume autoglossing and keep gloss for that column, with mygloss for manual glosses.  Need to find a way of writing all the output into a log - at present, opening a file in the script and writing to it doesn't work.
-*** May need to review filenames, tablenames, etc.  Create folder for each file, to hold byproduct files? 
+From a terminal, navigate to the location of the autoglosser, and enter:
+\begin{center}
+\texttt{php do\_autogloss.php /path/to/mychafile.cha}                                                     \end{center}
+adjusting the path as required for your setup, for instance: 
+\begin{center}
+\texttt{php do\_autogloss.php inputs/Patagonia1.cha}                                                     \end{center}
+The file extensions currently catered for are \textbf{.cha} or \textbf{.txt}, but more can be added by editing the \textbf{get\_filename()} function in \textbf{includes/fns.php}.
 
-From a terminal, navigate to the location of the autoglosser, and enter:\\
-\texttt{php do\_autogloss.php /path/to/mychafile.cha}\\
-adjusting the path as required for your setup.  The chat file is expected to use the .cha extension.  If this needs to be changed to suit your setup, alter the \textbf{get\_filename()} function in \textbf{includes/fns.php}.
-
-The \textbf{.cha} extension is removed, and the name is lowercased, to be used as the \textbf{\$filename} prefix for all tables and files created during the autogloss or import process.  The tables that will be created at each stage of the process are given shorthand names: \textbf{\$utterances} for the table \textit{\$filename\_cgutterances}, \textbf{\$words} for the table \textit{\$filename\_cgwords}, and \textbf{\$cgfinished} for the table \textit{\$filename\_cgfinished}.  This allows the names of the tables to be changed easily, should you need to to so.
+The extension is removed, and the name is lowercased, to be used as the \textbf{\$filename} prefix for all tables and files created during the autogloss or import process.  In the above example, the resultant filename would be \textbf{patagonia1}.  The tables that will be created at each stage of the process are given shorthand names: \textbf{\$utterances} for the table \textit{\$filename\_cgutterances}, \textbf{\$words} for the table \textit{\$filename\_cgwords}, and \textbf{\$cgfinished} for the table \textit{\$filename\_cgfinished}.  This allows the names of the tables to be changed easily, should you wish to to so.
 
 
 \section{Import the file}
@@ -90,7 +95,7 @@ The \textbf{.cha} extension is removed, and the name is lowercased, to be used a
 
 \begin{itemize}
 \item File: \textbf{cgimport.php}, also calling \textbf{create\_cgutterances.php}
-\item Function: Opens the chat file given earlier, and imports it into the table \textbf{\$filename\_utterances}.
+\item Function: Opens the chat file and imports it into the table \textbf{\$filename\_utterances}.
 \item Output tables: \textbf{\$filename\_cgutterances}
 \item Output file: none                 
 \end{itemize}

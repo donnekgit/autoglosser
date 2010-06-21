@@ -90,12 +90,13 @@ while ($row=pg_fetch_object($result))
     
 	if ($row->gloss != null) // don't bother looking for glosses if there are none there - check this: should be:- is not null?
 	{
+		$row->gloss=preg_replace("/(^| )x{1,3} /u", " ", $row->gloss); // x, xx, xxx
+		$row->gloss=trim(pg_escape_string($row->gloss));  // to deal with errant LRs on a few of the entries
 		$gloss_bits=explode(' ', $row->gloss);
 		$j=1;
 		foreach ($gloss_bits as $gloss_value)
 		{        
 			//echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
-			$gloss_value=trim(pg_escape_string($gloss_value));  // to deal with errant LRs on a few of the entries
 			$sql_g="update $words set gloss='$gloss_value', glossloc=$j where utterance_id=$row->utterance_id and location=$j";
 			$result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");       
 			$j=++$j;	
