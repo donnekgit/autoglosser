@@ -73,7 +73,7 @@ function clean_utterance($text)
 	$text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
 
 	$text=preg_replace("/\[.[^\]]*\]/u", "", $text); // anything in square brackets
-	$text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc
+	$text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself
 	$text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // periods or exclamation marks that are not at the end of the sentence
 
 	$text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
@@ -83,7 +83,7 @@ function clean_utterance($text)
 	$text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_&: ]/u", "", $text);  // delete anything that isn't one of these characters: & and : added to deal with Patagonia tags: @s:cy&es
 
 	$text=preg_replace("/(^| )x{1,3} /u", " ", $text); // x, xx, xxx
-	$text=preg_replace("/@\d+/u", "", $text);  // remove @0, @1 etc from the word - Siarad only
+	//$text=preg_replace("/@\d+/u", "", $text);  // remove @0, @1 etc from the word - Siarad only - not required for the db - this is purely cosmetic on the output file - the split is handled by the routine in rewrite_utterances.php
 	$text=preg_replace("/^ +/u", "", $text);
     $text=preg_replace("/ +/u", " ", $text);
 

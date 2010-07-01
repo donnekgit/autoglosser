@@ -1,0 +1,3782 @@
+(1: 1) ond
+ond: but.CY.C
+(1: 2) rwyt
+bod: be.CY.VFLE.2S.PRESENT.SPOKEN
+(1: 3) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(1: 4) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(1: 5) byw
+byw: life.CY.N.M.S
+(1: 6) ar
+ar: on.CY.P
+(1: 7) bwys
+pwys: weight.CY.N.SM.M.S
+pwys: weight.CY.N.SM.M.S/weight.CY.N.SM.M.S
+pwys: weight.CY.N.SM.M.S/weight.CY.N.SM.M.S/pound_(weight).CY.N.SM.M.S
+pwys: weight.CY.N.SM.M.S/weight.CY.N.SM.M.S/pound_(weight).CY.N.SM.M.S/pound_(weight).CY.N.SM.M.S
+(1: 8) yr
+y: the.CY.T
+(1: 9) coleg
+coleg: college.CY.N.M.S
+(1: 10) ia
+ia: ia.CY.UNK
+(1: 11) ?
+====================
+(2: 1) y
+y: the.CY.T
+(2: 2) brif
+prif: principal.CY.A.SM
+prif: principal.CY.A.SM/principal.CY.A.SM
+(2: 3) brifysgol
+prifysgol: university.CY.N.SM.F.S
+prifysgol: university.CY.N.SM.F.S/university.CY.N.SM.F.S
+(2: 4) ?
+====================
+(3: 1) ia
+ia: ia.CY.UNK
+(3: 2) tua
+tua: towards.CY.P
+tua: towards.CY.P/approximately.CY.P
+tua: towards.CY.P/approximately.CY.P/about.CY.P
+(3: 3) bedwar
+pedwar: four_(4,_m).CY.A.SM
+pedwar: four_(4,_m).CY.A.SM/four_(4,_m).CY.A.SM
+(3: 4) bloc
+bloc: block.CY.N.M.S
+(3: 5) .
+====================
+(4: 1) be
+be: what.CY.I
+(4: 2) bedwar
+pedwar: four_(4,_m).CY.A.SM
+pedwar: four_(4,_m).CY.A.SM/four_(4,_m).CY.A.SM
+(4: 3) bloc
+bloc: block.CY.N.M.S
+(4: 4) ?
+====================
+(5: 1) sí
+sí: sí.CY.UNK
+(5: 2) .
+====================
+(6: 1) ia
+ia: ia.CY.UNK
+(6: 2) .
+====================
+(7: 1) dw
+dw: dw.CY.UNK
+(7: 2) i
+i: to.CY.P
+(7: 3) gallu
+gallu: be_able.CY.VINF
+(7: 4) mynd
+mynd: go.CY.VINF
+(7: 5) er
+er: er.ES.UNK
+(7: 6) .
+====================
+(8: 1) cerdded
+cerdded: walk.CY.VINF
+(8: 2) .
+====================
+(9: 1) cerdded
+cerdded: walk.CY.VFLE.3S.IMPERATIVE
+(9: 2) i
+i: I.CY.R
+(9: 3) yr
+y: the.CY.T
+(9: 4) brifysgol
+prifysgol: university.CY.N.SM.F.S
+prifysgol: university.CY.N.SM.F.S/university.CY.N.SM.F.S
+(9: 5) .
+====================
+(10: 1) es
+ser: be.ES.VBSER.PRI.P3.SG
+(10: 2) muy
+muy: very.ES.PREADV
+(10: 3) gracioso
+gracioso: funny.ES.ADJ.M.SG
+(10: 4) .
+====================
+(11: 1) sí
+sí: himself.ES.PRN.TN.REF.P3.MF.SP
+sí: himself.ES.PRN.TN.REF.P3.MF.SP/yes.ES.ADV
+(11: 2) .
+====================
+(12: 1) so
+so: so.CY.UNK
+(12: 2) funny
+funny: funny.EN.UNK
+(12: 3) siarad
+siarad: talk.CY.VFLE.2S.IMPERATIVE
+siarad: talk.CY.VFLE.2S.IMPERATIVE/talk.CY.VINF
+(12: 4) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(12: 5) ni
+ni: we.CY.R
+(12: 6) .
+====================
+(13: 1) que
+que: who.ES.REL.AN.MF.SP
+que: who.ES.REL.AN.MF.SP/who.ES.CNJSUB
+que: who.ES.REL.AN.MF.SP/who.ES.CNJSUB/who.ES.CNJCOO
+(13: 2) ?
+====================
+(14: 1) .
+====================
+(15: 1) .
+====================
+(16: 1) er
+er: er.ES.UNK
+(16: 2) .
+====================
+(17: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(17: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(17: 3) yn
+yn: stative.CY.STAT
+(17: 4) anodd
+anodd: difficult.CY.A
+(17: 5) i
+i: to.CY.P
+(17: 6) fi
+fi: I.CY.R
+(17: 7) siarad
+siarad: talk.CY.VINF
+(17: 8) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(17: 9) efo
+efo: with.CY.P
+(17: 10) ffrindiau
+ffrind: friends.CY.N.M.P
+(17: 11) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(17: 12) fan
+man: place.CY.N.SM.MF.S
+(17: 13) hyn
+hyn: this,_these.CY.R
+(17: 14) achos
+achos: cause.CY.N.M.S
+(17: 15) gyntaf
+cyntaf: first_(1st,_first_decade_only).CY.A.SM
+cyntaf: first_(1st,_first_decade_only).CY.A.SM/first_(1st,_first_decade_only).CY.A.SM
+(17: 16) iaith
+iaith: language.CY.N.F.S
+(17: 17) ni
+ni: we.CY.R
+ni: we.CY.R/not.CY.PART-NEG
+(17: 18) yw
+bod: be.CY.VFLE.3S.PRESENT
+(17: 19) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(17: 20) .
+====================
+(18: 1) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(18: 2) .
+====================
+(19: 1) felly
+felly: so.CY.B
+(19: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(19: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(19: 4) yn
+yn: stative.CY.STAT
+(19: 5) anodd
+anodd: difficult.CY.A
+(19: 6) i
+i: to.CY.P
+(19: 7) ni
+ni: we.CY.R
+(19: 8) siarad
+siarad: talk.CY.VINF
+(19: 9) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(19: 10) efo
+efo: with.CY.P
+(19: 11) ni
+ni: we.CY.R
+(19: 12) .
+====================
+(20: 1) tri
+tri: three_(3,_m).CY.A
+(20: 2) ohonych
+ohonych: ohonych.CY.UNK
+(20: 3) chi
+chi: you_(pl).CY.R
+(20: 4) .
+====================
+(21: 1) ia
+ia: ia.CY.UNK
+(21: 2) .
+====================
+(22: 1) dw
+dw: dw.CY.UNK
+(22: 2) i
+i: to.CY.P
+(22: 3) yn
+yn: stative.CY.STAT
+(22: 4) gallu
+gallu: be_able.CY.VINF
+(22: 5) siarad
+siarad: talk.CY.VINF
+(22: 6) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(22: 7) efo
+efo: with.CY.P
+(22: 8) pobl
+pobl: people.CY.N.F.S
+(22: 9) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(22: 10) Cymru
+Cymru: Wales.CY.NP.F.S
+(22: 11) yn
+yn: stative.CY.STAT
+(22: 12) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(22: 13) .
+====================
+(23: 1) ond
+ond: but.CY.C
+(23: 2) efo
+efo: with.CY.P
+(23: 3) ni
+ni: we.CY.R
+(23: 4) mae
+bod: be.CY.VFLE.3S.PRESENT
+(23: 5) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(23: 6) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(23: 7) strange
+strange: strange.EN.UNK
+(23: 8) no
+no: not.ES.ADV
+(23: 9) ?
+====================
+(24: 1) siarad
+siarad: talk.CY.VFLE.2S.IMPERATIVE
+siarad: talk.CY.VFLE.2S.IMPERATIVE/talk.CY.VINF
+(24: 2) yn
+yn: stative.CY.STAT
+(24: 3) Gymraeg
+Cymraeg: Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM/Welsh_(language).CY.A.SM
+(24: 4) .
+====================
+(25: 1) ond
+ond: but.CY.C
+(25: 2) rhaid
+rhaid: necessity.CY.N.M.S
+(25: 3) i
+i: to.CY.P
+(25: 4) ni
+ni: we.CY.R
+(25: 5) ymarfer
+ymarfer: practice.CY.VINF
+(25: 6) .
+====================
+(26: 1) ia
+ia: ia.CY.UNK
+(26: 2) .
+====================
+(27: 1) .
+====================
+(28: 1) .
+====================
+(29: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(29: 2) nain
+nain: grandmother.CY.N.F.S
+(29: 3) yn
+yn: stative.CY.STAT
+(29: 4) siarad
+siarad: talk.CY.VINF
+(29: 5) pob
+pob: each.CY.A
+(29: 6) amser
+amser: time.CY.N.M.S
+(29: 7) yn
+yn: stative.CY.STAT
+(29: 8) Gymraeg
+Cymraeg: Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM/Welsh_(language).CY.A.SM
+(29: 9) i
+i: to.CY.P
+(29: 10) fi
+fi: I.CY.R
+(29: 11) .
+====================
+(30: 1) fi
+fi: I.CY.R
+(30: 2) yn
+yn: stative.CY.STAT
+(30: 3) gallu
+gallu: be_able.CY.VINF
+(30: 4) clywed
+clywed: hear.CY.VINF
+(30: 5) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(30: 6) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(30: 7) .
+====================
+(31: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(31: 2) cyfle
+cyfle: opportunity.CY.N.M.S
+(31: 3) .
+====================
+(32: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(32: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(32: 3) yn
+yn: stative.CY.STAT
+(32: 4) anodd
+anodd: difficult.CY.A
+(32: 5) i
+i: to.CY.P
+(32: 6) siarad
+siarad: talk.CY.VINF
+(32: 7) achos
+achos: cause.CY.N.M.S
+(32: 8) dw
+dw: dw.CY.UNK
+(32: 9) i
+i: to.CY.P
+(32: 10) yn
+yn: stative.CY.STAT
+(32: 11) gwneud
+gwneud: make.CY.VINF
+(32: 12) .
+====================
+(33: 1) .
+====================
+(34: 1) ia
+ia: ia.CY.UNK
+(34: 2) .
+====================
+(35: 1) .
+====================
+(36: 1) me
+prpers: me.ES.PRN.OBJ.P1.MF.SG
+(36: 2) trabo
+trabo: trabo.ES.UNK
+(36: 3) .
+====================
+(37: 1) ond
+ond: but.CY.C
+(37: 2) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(37: 3) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(37: 4) yn
+yn: stative.CY.STAT
+(37: 5) gallu
+gallu: be_able.CY.VINF
+(37: 6) siarad
+siarad: talk.CY.VINF
+(37: 7) yn
+yn: stative.CY.STAT
+(37: 8) iawn
+iawn: OK.CY.B
+(37: 9) ?
+====================
+(38: 1) rhaid
+rhaid: necessity.CY.N.M.S
+(38: 2) i
+i: to.CY.P
+(38: 3) ni
+ni: we.CY.R
+(38: 4) ymarfer
+ymarfer: practice.CY.VINF
+(38: 5) .
+====================
+(39: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(39: 2) dim
+dim: not.CY.B
+(39: 3) dim
+dim: zero.CY.N.M.S
+dim: zero.CY.N.M.S/nought.CY.N.M.S
+dim: zero.CY.N.M.S/nought.CY.N.M.S/not.CY.B
+(39: 4) llawer
+llawer: many.CY.A
+(39: 5) .
+====================
+(40: 1) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(40: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(40: 3) yn
+yn: stative.CY.STAT
+(40: 4) siarad
+siarad: talk.CY.VINF
+(40: 5) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(40: 6) mm
+mm: mm.ES.UNK
+(40: 7) efo
+efo: with.CY.P
+(40: 8) dy
+dy: your_(sing).CY.A
+(40: 9) chwaer
+chwaer: sister.CY.N.F.S
+(40: 10) di
+di: di.CY.UNK
+(40: 11) na
+na: (n)or.CY.C
+na: (n)or.CY.C/not_(negative_responsive_verbal_particle).CY.B
+na: (n)or.CY.C/not_(negative_responsive_verbal_particle).CY.B/than.CY.C
+(40: 12) ?
+====================
+(41: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(41: 2) yn
+yn: in.CY.P
+(41: 3) Spanish
+Spanish: Spanish.EN.NAME
+(41: 4) .
+====================
+(42: 1) oh
+oh: oh.ES.IJ
+(42: 2) .
+====================
+(43: 1) a
+a: and.CY.C
+(43: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(43: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(43: 4) i
+i: to.CY.P
+(43: 5) .
+====================
+(44: 1) weithiau
+gwaith: times_(instances).CY.N.SM.F.P
+gwaith: times_(instances).CY.N.SM.F.P/works_(jobs).CY.N.SM.M.P
+weithiau: times_(instances).CY.N.SM.F.P/works_(jobs).CY.N.SM.M.P/sometimes.CY.B
+(44: 2) pan
+pan: when.CY.C
+(44: 3) mae
+bod: be.CY.VFLE.3S.PRESENT
+(44: 4) um
+um: um.ES.UNK
+(44: 5) fy
+fy: my.CY.A
+(44: 6) mrawd
+brawd: brother.CY.N.NM.M.S
+(44: 7) yng
+yng: in_(with_following_ng).CY.P
+(44: 8) nghyfraith
+cyfraith: law.CY.N.NM.F.S
+(44: 9) yn
+yn: stative.CY.STAT
+(44: 10) dod
+dod: come.CY.VINF
+(44: 11) yma
+yma: here.CY.B
+(44: 12) .
+====================
+(45: 1) ia
+ia: ia.CY.UNK
+(45: 2) .
+====================
+(46: 1) wedyn
+wedyn: afterwards.CY.B
+(46: 2) rhaid
+rhaid: necessity.CY.N.M.S
+(46: 3) i
+i: to.CY.P
+(46: 4) mi
+mi: mi.CY.PART-AFF
+(46: 5) siarad
+siarad: talk.CY.VFLE.2S.IMPERATIVE
+siarad: talk.CY.VFLE.2S.IMPERATIVE/talk.CY.VINF
+(46: 6) yn
+yn: stative.CY.STAT
+(46: 7) Gymraeg
+Cymraeg: Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM/Welsh_(language).CY.A.SM
+(46: 8) achos
+achos: cause.CY.N.M.S
+(46: 9) mae
+bod: be.CY.VFLE.3S.PRESENT
+(46: 10) mae
+bod: be.CY.VFLE.3S.PRESENT
+(46: 11) e
+e: e.CY.UNK
+(46: 12) yn
+yn: stative.CY.STAT
+(46: 13) dod
+dod: come.CY.VINF
+(46: 14) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(46: 15) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(46: 16) Gymru
+Gymru: Gymru.CY.NAME
+(46: 17) felly
+felly: so.CY.B
+(46: 18) .
+====================
+(47: 1) ia
+ia: ia.CY.UNK
+(47: 2) .
+====================
+(48: 1) dydy
+dydy: dydy.CY.UNK
+(48: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(48: 3) ddim
+dim: zero.CY.N.SM.M.S
+dim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S
+ddim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S/not_(after_verb).CY.B
+(48: 4) yn
+yn: stative.CY.STAT
+(48: 5) siarad
+siarad: talk.CY.VINF
+(48: 6) llawer
+llawer: many.CY.A
+(48: 7) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(48: 8) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(48: 9) .
+====================
+(49: 1) dim
+dim: zero.CY.N.M.S
+dim: zero.CY.N.M.S/nought.CY.N.M.S
+dim: zero.CY.N.M.S/nought.CY.N.M.S/not.CY.B
+(49: 2) yn
+yn: stative.CY.STAT
+(49: 3) siarad
+siarad: talk.CY.VINF
+(49: 4) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(49: 5) ?
+====================
+(50: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(50: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(50: 3) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(50: 4) mae
+bod: be.CY.VFLE.3S.PRESENT
+(50: 5) yn
+yn: stative.CY.STAT
+(50: 6) siarad
+siarad: talk.CY.VINF
+(50: 7) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(50: 8) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(50: 9) .
+====================
+(51: 1) ond
+ond: but.CY.C
+(51: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(51: 3) yn
+yn: stative.CY.STAT
+(51: 4) hoffi
+hoffi: like.CY.VINF
+(51: 5) siarad
+siarad: talk.CY.VFLE.2S.IMPERATIVE
+siarad: talk.CY.VFLE.2S.IMPERATIVE/talk.CY.VINF
+(51: 6) mwy
+mwy: bigger.CY.A
+(51: 7) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(51: 8) yn
+yn: stative.CY.STAT
+(51: 9) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(51: 10) .
+====================
+(52: 1) felly
+felly: so.CY.B
+(52: 2) .
+====================
+(53: 1) ia
+ia: ia.CY.UNK
+(53: 2) .
+====================
+(54: 1) a:
+a:: a:.CY.UNK
+(54: 2) Wendy
+Wendy: Wendy.ES.NAME
+(54: 3) yn
+yn: stative.CY.STAT
+(54: 4) siarad
+siarad: talk.CY.VINF
+(54: 5) efo
+efo: with.CY.P
+(54: 6) gŵr
+gŵr: man.CY.N.M.S
+gŵr: man.CY.N.M.S/husband.CY.N.M.S
+(54: 7) er
+er: er.ES.UNK
+(54: 8) yn
+yn: stative.CY.STAT
+(54: 9) Gymraeg
+Cymraeg: Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM
+Cymraeg: Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.N.SM.F.S/Welsh_(language).CY.A.SM/Welsh_(language).CY.A.SM
+(54: 10) neu
+neu: or.CY.C
+(54: 11) yn
+yn: in.CY.P
+(54: 12) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(54: 13) neu
+neu: or.CY.C
+(54: 14) yn
+yn: stative.CY.STAT
+(54: 15) Saesneg
+Saesneg: English_(language).CY.A
+(54: 16) ?
+====================
+(55: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(55: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(55: 3) mae
+bod: be.CY.VFLE.3S.PRESENT
+(55: 4) nhw
+nhw: they.CY.R
+(55: 5) yn
+yn: stative.CY.STAT
+(55: 6) cymysgu
+cymysgu: mix.CY.VINF
+(55: 7) .
+====================
+(56: 1) cymysgu
+cymysgu: mix.CY.VINF
+(56: 2) popeth
+popeth: everything.CY.N.M.S
+(56: 3) .
+====================
+(57: 1) ia
+ia: ia.CY.UNK
+(57: 2) y
+y: the.CY.T
+(57: 3) dwy
+dwy: two_(2,_f).CY.A
+(57: 4) .
+====================
+(58: 1) y
+y: and.ES.CNJ.COO
+(58: 2) los
+el: the.ES.DET.DEF.M.PL
+(58: 3) hijos
+hijo: son.ES.N.M.PL
+(58: 4) ?
+====================
+(59: 1) y
+y: the.CY.T
+(59: 2) dwy
+dwy: two_(2,_f).CY.A
+(59: 3) iaith
+iaith: language.CY.N.F.S
+(59: 4) .
+====================
+(60: 1) los
+el: the.ES.DET.DEF.M.PL
+(60: 2) hijos
+hijo: son.ES.N.M.PL
+(60: 3) .
+====================
+(61: 1) la
+prpers: she.ES.PRN.OBJ.P3.F.SG
+el: she.ES.PRN.OBJ.P3.F.SG/the.ES.DET.DEF.F.SG
+(61: 2) la
+el: the.ES.DET.DEF.F.SG
+(61: 3) nena
+nene: girl.ES.N.F.SG
+(61: 4) y
+y: and.ES.CNJ.COO
+(61: 5) nene
+nene: girl.ES.N.M.SG
+(61: 6) ?
+====================
+(62: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(62: 2) Cledwyn
+Cledwyn: Cledwyn.ES.NAME
+(62: 3) yn
+yn: stative.CY.STAT
+(62: 4) siarad
+siarad: talk.CY.VINF
+(62: 5) yn
+yn: stative.CY.STAT
+(62: 6) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(62: 7) a
+a: and.CY.C
+(62: 8) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(62: 9) a
+a: and.CY.C
+(62: 10) Saesneg
+Saesneg: English_(language).CY.A
+(62: 11) .
+====================
+(63: 1) ah
+ah: wow.ES.IJ
+(63: 2) .
+====================
+(64: 1) a
+a: and.CY.C
+(64: 2) Mared
+Mared: Mared.ES.NAME
+(64: 3) dydy
+dydy: dydy.CY.UNK
+(64: 4) Mared
+Mared: Mared.ES.NAME
+(64: 5) ddim
+dim: zero.CY.N.SM.M.S
+dim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S
+ddim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S/not_(after_verb).CY.B
+(64: 6) yn
+yn: stative.CY.STAT
+(64: 7) siarad
+siarad: talk.CY.VINF
+(64: 8) eto
+eto: yet.CY.C
+eto: yet.CY.C/again.CY.B
+eto: yet.CY.C/again.CY.B/still_(yet).CY.C
+(64: 9) .
+====================
+(65: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(65: 2) .
+====================
+(66: 1) a
+a: and.CY.C
+(66: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(66: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(66: 4) yn
+yn: stative.CY.STAT
+(66: 5) siarad
+siarad: talk.CY.VINF
+(66: 6) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(66: 7) efo
+efo: with.CY.P
+(66: 8) dy
+dy: your_(sing).CY.A
+(66: 9) Wendy
+Wendy: Wendy.ES.NAME
+(66: 10) .
+====================
+(67: 1) ia
+ia: ia.CY.UNK
+(67: 2) .
+====================
+(68: 1) ia
+ia: ia.CY.UNK
+(68: 2) ?
+====================
+(69: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(69: 2) nhw
+nhw: they.CY.R
+(69: 3) yn
+yn: stative.CY.STAT
+(69: 4) siarad
+siarad: talk.CY.VINF
+(69: 5) efo
+efo: with.CY.P
+(69: 6) Wendy
+Wendy: Wendy.ES.NAME
+(69: 7) yn
+yn: in.CY.P
+(69: 8) Sbaeneg
+Sbaeneg: Sbaeneg.CY.NAME
+(69: 9) efo
+efo: with.CY.P
+(69: 10) Tegai
+Tegai: Tegai.ES.NAME
+(69: 11) .
+====================
+(70: 1) pan
+pan: when.CY.C
+(70: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(70: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(70: 4) yn
+yn: stative.CY.STAT
+(70: 5) mynd
+mynd: go.CY.VINF
+(70: 6) i
+i: to.CY.P
+(70: 7) yr
+y: the.CY.T
+(70: 8) ysgol
+ysgol: school.CY.N.F.S
+ysgol: school.CY.N.F.S/ladder.CY.N.F.S
+(70: 9) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(70: 10) neu
+neu: or.CY.C
+(70: 11) Saesneg
+Saesneg: English_(language).CY.A
+(70: 12) .
+====================
+(71: 1) ysgol
+ysgol: school.CY.N.F.S
+ysgol: school.CY.N.F.S/ladder.CY.N.F.S
+(71: 2) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(71: 3) .
+====================
+(72: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(72: 2) nhw
+nhw: they.CY.R
+(72: 3) mynd
+mynd: go.CY.VINF
+(72: 4) i
+i: to.CY.P
+(72: 5) ysgol
+ysgol: school.CY.N.F.S
+ysgol: school.CY.N.F.S/ladder.CY.N.F.S
+(72: 6) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(72: 7) .
+====================
+(73: 1) bues
+bues: bues.CY.UNK
+(73: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(73: 3) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(73: 4) medium
+medium: medium.CY.UNK
+(73: 5) Welsh
+Welsh: Welsh.CY.NAME
+(73: 6) ?
+====================
+(74: 1) bues
+bues: bues.CY.UNK
+(74: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(74: 3) yn
+yn: in.CY.P
+(74: 4) Camwy
+Camwy: Camwy.ES.NAME
+(74: 5) ?
+====================
+(75: 1) bues
+bues: bues.CY.UNK
+(75: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(75: 3) yn
+yn: in.CY.P
+(75: 4) Camwy
+Camwy: Camwy.ES.NAME
+(75: 5) ?
+====================
+(76: 1) .
+====================
+(77: 1) a
+a: and.CY.C
+(77: 2) Wendy
+Wendy: Wendy.ES.NAME
+(77: 3) Camwy
+Camwy: Camwy.ES.NAME
+(77: 4) hefyd
+hefyd: also.CY.B
+(77: 5) .
+====================
+(78: 1) Wendy
+Wendy: Wendy.ES.NAME
+(78: 2) .
+====================
+(79: 1) Camwy
+Camwy: Camwy.ES.NAME
+(79: 2) hefyd
+hefyd: also.CY.B
+(79: 3) .
+====================
+(80: 1) Camwy
+Camwy: Camwy.ES.NAME
+(80: 2) .
+====================
+(81: 1) Wendy
+Wendy: Wendy.ES.NAME
+(81: 2) yn
+yn: in.CY.P
+(81: 3) Camwy
+Camwy: Camwy.ES.NAME
+(81: 4) .
+====================
+(82: 1) fel
+fel: like.CY.C
+fel: like.CY.C/as.CY.C
+(82: 2) enw
+enw: name.CY.N.M.S
+(82: 3) ar
+ar: on.CY.P
+(82: 4) coleg
+coleg: college.CY.N.M.S
+(82: 5) ni
+ni: we.CY.R
+(82: 6) .
+====================
+(83: 1) ia
+ia: ia.CY.UNK
+(83: 2) .
+====================
+(84: 1) prifysgol
+prifysgol: university.CY.N.F.S
+(84: 2) .
+====================
+(85: 1) iawn
+iawn: OK.CY.B
+iawn: OK.CY.B/very.CY.B
+(85: 2) .
+====================
+(86: 1) wel
+wel: wel.CY.UNK
+(86: 2) rhaid
+rhaid: necessity.CY.N.M.S
+(86: 3) i
+i: to.CY.P
+(86: 4) ni
+ni: we.CY.R
+(86: 5) mynd
+mynd: go.CY.VINF
+(86: 6) .
+====================
+(87: 1) .
+====================
+(88: 1) ia
+ia: ia.CY.UNK
+(88: 2) .
+====================
+(89: 1) .
+====================
+(90: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(90: 2) gen
+gen: gen.CY.UNK
+(90: 3) i
+i: to.CY.P
+(90: 4) llawer
+llawer: many.CY.A
+(90: 5) i
+i: to.CY.P
+(90: 6) bethau
+peth: things.CY.N.SM.M.P
+peth: things.CY.N.SM.M.P/things.CY.N.SM.M.P
+(90: 7) i
+i: to.CY.P
+(90: 8) ddarllen
+darllen: read.CY.VINF.SM
+(90: 9) i
+i: to.CY.P
+(90: 10) yfory
+yfory: tomorrow.CY.B
+(90: 11) .
+====================
+(91: 1) i
+i: to.CY.P
+(91: 2) astudio
+astudio: study.CY.VINF
+(91: 3) .
+====================
+(92: 1) yfory
+yfory: tomorrow.CY.B
+(92: 2) dw
+dw: dw.CY.UNK
+(92: 3) i
+i: to.CY.P
+(92: 4) yn
+yn: stative.CY.STAT
+(92: 5) mynd
+mynd: go.CY.VINF
+(92: 6) i
+i: to.CY.P
+(92: 7) yr
+y: the.CY.T
+(92: 8) coleg
+coleg: college.CY.N.M.S
+(92: 9) yn
+yn: stative.CY.STAT
+(92: 10) gynnar
+cynnar: early.CY.A.SM
+cynnar: early.CY.A.SM/early.CY.A.SM
+(92: 11) .
+====================
+(93: 1) yn
+yn: stative.CY.STAT
+(93: 2) gynnar
+cynnar: early.CY.A.SM
+cynnar: early.CY.A.SM/early.CY.A.SM
+(93: 3) ?
+====================
+(94: 1) ie
+ie: yes.CY.B
+(94: 2) .
+====================
+(95: 1) faint
+maint: size.CY.N.SM.M.S
+(95: 2) o
+o: of.CY.P
+(95: 3) yr
+y: the.CY.T
+(95: 4) gloch
+cloch: bell.CY.N.SM.F.S
+cloch: bell.CY.N.SM.F.S/bell.CY.N.SM.F.S
+(95: 5) ?
+====================
+(96: 1) umm
+umm: umm.ES.UNK
+(96: 2) deg
+teg: fair.CY.A.SM
+teg: fair.CY.A.SM/fair.CY.A.SM
+deg: fair.CY.A.SM/fair.CY.A.SM/ten.CY.N.M.S
+deg: fair.CY.A.SM/fair.CY.A.SM/ten.CY.N.M.S/ten_(10).CY.A
+(96: 3) .
+====================
+(97: 1) ddim
+dim: zero.CY.N.SM.M.S
+dim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S
+ddim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S/not_(after_verb).CY.B
+(97: 2) yn
+yn: stative.CY.STAT
+(97: 3) gynnar
+cynnar: early.CY.A.SM
+cynnar: early.CY.A.SM/early.CY.A.SM
+(97: 4) iawn
+iawn: very.CY.B
+(97: 5) .
+====================
+(98: 1) .
+====================
+(99: 1) .
+====================
+(100: 1) ond
+ond: but.CY.C
+(100: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(100: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(100: 4) yn
+yn: stative.CY.STAT
+(100: 5) gynnar
+cynnar: early.CY.A.SM
+cynnar: early.CY.A.SM/early.CY.A.SM
+(100: 6) .
+====================
+(101: 1) rhaid
+rhaid: necessity.CY.N.M.S
+(101: 2) i
+i: to.CY.P
+(101: 3) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(101: 4) godi
+codi: lift.CY.VINF.SM
+codi: lift.CY.VINF.SM/lift.CY.VINF.SM
+(101: 5) yn
+yn: stative.CY.STAT
+(101: 6) gynt
+cynt: earlier.CY.A.SM
+cynt: earlier.CY.A.SM/earlier.CY.A.SM
+gynt: earlier.CY.A.SM/earlier.CY.A.SM/of_earlier_times.CY.B
+(101: 7) .
+====================
+(102: 1) ie
+ie: yes.CY.B
+(102: 2) .
+====================
+(103: 1) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(103: 2) yn
+yn: stative.CY.STAT
+(103: 3) gwybod
+gwybod: know_(fact).CY.VINF
+(103: 4) bod
+bod: be.CY.VINF
+(103: 5) mae
+bod: be.CY.VFLE.3S.PRESENT
+(103: 6) penblwydd
+penblwydd: birthday.CY.N.M.S
+(103: 7) Karl
+Karl: Karl.ES.NAME
+(103: 8) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(103: 9) ar
+ar: on.CY.P
+(103: 10) y
+y: the.CY.T
+(103: 11) trydydd
+trydydd: third_(3rd,_m).CY.A
+(103: 12) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(103: 13) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(103: 14) mis
+mis: month.CY.N.M.S
+(103: 15) Tachwedd
+Tachwedd: November.CY.N.M.S
+(103: 16) .
+====================
+(104: 1) oh
+oh: oh.ES.IJ
+(104: 2) ia
+ia: ia.CY.UNK
+(104: 3) .
+====================
+(105: 1) os
+os: if_(likely).CY.C
+(105: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(105: 3) isio
+isio: want.CY.N.M.S
+(105: 4) .
+====================
+(106: 1) penblwydd
+penblwydd: birthday.CY.N.M.S
+(106: 2) Karl
+Karl: Karl.ES.NAME
+(106: 3) .
+====================
+(107: 1) pryd
+pryd: meal.CY.N.M.S
+(107: 2) er
+er: er.CY.UNK
+(107: 3) pa
+pa: which.CY.A
+(107: 4) dydd
+dydd: day_(named).CY.N.M.S
+(107: 5) yw
+bod: be.CY.VFLE.3S.PRESENT
+(107: 6) tri
+tri: three_(3,_m).CY.A
+(107: 7) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(107: 8) Tachwedd
+Tachwedd: November.CY.N.M.S
+(107: 9) ?
+====================
+(108: 1) er
+er: er.CY.UNK
+(108: 2) dydd
+dydd: day_(named).CY.N.M.S
+(108: 3) .
+====================
+(109: 1) Tachwedd
+Tachwedd: November.CY.N.M.S
+(109: 2) ie
+ie: yes.CY.B
+(109: 3) ?
+====================
+(110: 1) noviembre
+noviembre: November.ES.N.M.SG
+(110: 2) ?
+====================
+(111: 1) November
+November: November.EN.NAME
+(111: 2) ?
+====================
+(112: 1) Tachwedd
+Tachwedd: November.CY.N.M.S
+(112: 2) ?
+====================
+(113: 1) ie
+ie: yes.CY.B
+(113: 2) .
+====================
+(114: 1) um
+um: um.ES.UNK
+(114: 2) dw
+dw: dw.CY.UNK
+(114: 3) i
+i: to.CY.P
+(114: 4) meddwl
+meddwl: think.CY.VINF
+(114: 5) dydd
+dydd: day_(named).CY.N.M.S
+(114: 6) Mawrth
+Mawrth: March.CY.N.M.S
+Mawrth: March.CY.N.M.S/Mars.CY.N.M.S
+(114: 7) .
+====================
+(115: 1) treinta
+treinta: thirty.ES.NUM.MF.SP
+(115: 2) y
+y: and.ES.CNJ.COO
+(115: 3) uno
+unir: unite.ES.VBLEX.PRI.P1.SG
+uno: unite.ES.VBLEX.PRI.P1.SG/one.ES.PRN.TN.M.SG
+(115: 4) uno
+unir: unite.ES.VBLEX.PRI.P1.SG
+uno: unite.ES.VBLEX.PRI.P1.SG/one.ES.PRN.TN.M.SG
+(115: 5) dos
+dos: two.ES.NUM.MF.SP
+(115: 6) .
+====================
+(116: 1) ah
+ah: wow.ES.IJ
+(116: 2) dydd
+dydd: day_(named).CY.N.M.S
+(116: 3) mawrth
+mawrth: mawrth.CY.UNK
+(116: 4) nesaf
+nesu: approach.CY.VFLE.1S.PRESENT
+(116: 5) no
+nesu: approach.CY.VFLE.1S.PRESENT
+(116: 6) ?
+====================
+(117: 1) y
+y: the.CY.T
+(117: 2) trydydd
+trydydd: third_(3rd,_m).CY.A
+(117: 3) .
+====================
+(118: 1) arall
+arall: other.CY.A
+(118: 2) ?
+====================
+(119: 1) arall
+arall: other.CY.A
+(119: 2) i
+i: to.CY.P
+(119: 3) .
+====================
+(120: 1) iawn
+iawn: OK.CY.B
+iawn: OK.CY.B/very.CY.B
+(120: 2) .
+====================
+(121: 1) ond
+ond: but.CY.C
+(121: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(121: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(121: 4) yn
+yn: stative.CY.STAT
+(121: 5) cael
+cael: have.CY.VINF
+(121: 6) dau_ddeg_pedwar
+dau_ddeg_pedwar: dau_ddeg_pedwar.CY.UNK
+(121: 7) .
+====================
+(122: 1) dau_ddeg_pedwar
+dau_ddeg_pedwar: dau_ddeg_pedwar.CY.UNK
+(122: 2) .
+====================
+(123: 1) ia
+ia: ia.CY.UNK
+(123: 2) .
+====================
+(124: 1) penblwydd
+penblwydd: birthday.CY.N.M.S
+(124: 2) Karl
+Karl: Karl.ES.NAME
+(124: 3) .
+====================
+(125: 1) a
+a: and.CY.C
+(125: 2) wedyn
+wedyn: afterwards.CY.B
+(125: 3) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(125: 4) dau_ddeg_naw
+dau_ddeg_naw: dau_ddeg_naw.CY.UNK
+(125: 5) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(125: 6) Tachwedd
+Tachwedd: November.CY.N.M.S
+(125: 7) penblwydd
+penblwydd: birthday.CY.N.M.S
+(125: 8) Celio
+Celio: Celio.ES.NAME
+(125: 9) .
+====================
+(126: 1) Celio
+Celio: Celio.ES.NAME
+(126: 2) .
+====================
+(127: 1) a
+a: and.CY.C
+(127: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(127: 3) ?
+====================
+(128: 1) pryd
+pryd: meal.CY.N.M.S
+(128: 2) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(128: 3) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(128: 4) yn
+yn: stative.CY.STAT
+(128: 5) cael
+cael: have.CY.VINF
+(128: 6) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(128: 7) ?
+====================
+(129: 1) erm
+erm: erm.ES.UNK
+(129: 2) diwrnod
+diwrnod: day_(24_hours).CY.N.M.S
+(129: 3) nesaf
+nesu: approach.CY.VFLE.1S.PRESENT
+(129: 4) .
+====================
+(130: 1) yn
+yn: in.CY.P
+(130: 2) yr
+y: the.CY.T
+(130: 3) haf
+haf: summer.CY.N.M.S
+(130: 4) ?
+====================
+(131: 1) eh
+eh: eh.ES.UNK
+(131: 2) ?
+====================
+(132: 1) diwrnod
+diwrnod: day_(24_hours).CY.N.M.S
+(132: 2) nesaf
+nesu: approach.CY.VFLE.1S.PRESENT
+(132: 3) eh
+eh: eh.ES.UNK
+(132: 4) um
+um: um.ES.UNK
+(132: 5) .
+====================
+(133: 1) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(133: 2) ?
+====================
+(134: 1) ie
+ie: yes.CY.B
+(134: 2) .
+====================
+(135: 1) diwrnod
+diwrnod: day_(24_hours).CY.N.M.S
+(135: 2) nesaf
+nesu: approach.CY.VFLE.1S.PRESENT
+(135: 3) ?
+====================
+(136: 1) ar_ôl
+ar_ôl: ar_ôl.CY.UNK
+(136: 2) er
+er: er.ES.UNK
+(136: 3) penblwydd
+penblwydd: birthday.CY.N.M.S
+(136: 4) Celio
+Celio: Celio.ES.NAME
+(136: 5) .
+====================
+(137: 1) ia
+ia: ia.CY.UNK
+(137: 2) .
+====================
+(138: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(138: 2) Celio
+Celio: Celio.ES.NAME
+(138: 3) yn
+yn: stative.CY.STAT
+(138: 4) cael
+cael: have.CY.VINF
+(138: 5) ar
+ar: on.CY.P
+(138: 6) y
+y: the.CY.T
+(138: 7) nawfed_ar_hugain
+nawfed_ar_hugain: nawfed_ar_hugain.CY.UNK
+(138: 8) .
+====================
+(139: 1) ah
+ah: wow.ES.IJ
+(139: 2) treinta
+treinta: thirty.ES.NUM.MF.SP
+(139: 3) .
+====================
+(140: 1) ia
+ia: ia.CY.UNK
+(140: 2) a
+a: and.CY.C
+(140: 3) dan
+dan: under.CY.P
+(140: 4) ni
+ni: we.CY.R
+(140: 5) yn
+yn: stative.CY.STAT
+(140: 6) cael
+cael: have.CY.VINF
+(140: 7) .
+====================
+(141: 1) ah
+ah: wow.ES.IJ
+(141: 2) dan
+dan: under.CY.P
+(141: 3) ni
+ni: we.CY.R
+(141: 4) yn
+yn: stative.CY.STAT
+(141: 5) cael
+cael: have.CY.VINF
+(141: 6) dwy
+dwy: two_(2,_f).CY.A
+(141: 7) penblwydd
+penblwydd: birthday.CY.N.M.S
+(141: 8) .
+====================
+(142: 1) double
+double: double.EN.UNK
+(142: 2) double
+double: double.EN.UNK
+(142: 3) party
+party: party.EN.N
+(142: 4) .
+====================
+(143: 1) ie
+ie: yes.CY.B
+(143: 2) .
+====================
+(144: 1) mmhm
+mmhm: mmhm.CY.UNK
+(144: 2) .
+====================
+(145: 1) .
+====================
+(146: 1) party
+party: party.EN.N
+(146: 2) double
+double: double.EN.UNK
+(146: 3) .
+====================
+(147: 1) dan
+dan: under.CY.P
+(147: 2) ni
+ni: we.CY.R
+(147: 3) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(147: 4) lle
+lle: place.CY.N.M.S
+(147: 5) rhaid
+rhaid: necessity.CY.N.M.S
+(147: 6) i
+i: to.CY.P
+(147: 7) ni
+ni: we.CY.R
+(147: 8) go
+go: go.EN.UNK
+(147: 9) mynd
+mynd: go.CY.VINF
+(147: 10) allan
+allan: out.CY.B
+(147: 11) i
+i: to.CY.P
+(147: 12) dawnsio
+dawnsio: dance.CY.VINF
+(147: 13) neu
+neu: or.CY.C
+(147: 14) gwneud
+gwneud: make.CY.VINF
+(147: 15) rhywbeth
+rhywbeth: something.CY.N.M.S
+(147: 16) .
+====================
+(148: 1) neu
+neu: or.CY.C
+(148: 2) mynd
+mynd: go.CY.VINF
+(148: 3) i
+i: to.CY.P
+(148: 4) karaoke
+karaoke: karaoke.ES.UNK
+(148: 5) i
+i: to.CY.P
+(148: 6) ganu
+canu: sing.CY.VINF.SM
+canu: sing.CY.VINF.SM/sing.CY.VINF.SM
+(148: 7) ?
+====================
+(149: 1) ie
+ie: yes.CY.B
+(149: 2) .
+====================
+(150: 1) .
+====================
+(151: 1) fi
+fi: I.CY.R
+(151: 2) efo
+efo: with.CY.P
+(151: 3) Celio
+Celio: Celio.ES.NAME
+(151: 4) wedi
+wedi: after.CY.P
+(151: 5) bod
+bod: be.CY.VINF
+(151: 6) yn
+yn: in.CY.P
+(151: 7) y
+y: the.CY.T
+(151: 8) karaoke
+karaoke: karaoke.ES.UNK
+(151: 9) eh
+eh: eh.ES.UNK
+(151: 10) efo
+efo: with.CY.P
+(151: 11) Celio
+Celio: Celio.ES.NAME
+(151: 12) Karl
+Karl: Karl.ES.NAME
+(151: 13) .
+====================
+(152: 1) mmhm
+mmhm: mmhm.CY.UNK
+(152: 2) .
+====================
+(153: 1) aeson
+aeson: aeson.CY.UNK
+(153: 2) ni
+ni: we.CY.R
+(153: 3) i
+i: to.CY.P
+(153: 4) un
+un: one_(1).CY.A
+(153: 5) pub
+pub: pub.CY.UNK
+(153: 6) fach
+bach: small.CY.A.SM
+(153: 7) i
+i: to.CY.P
+(153: 8) karaoke
+karaoke: karaoke.ES.UNK
+(153: 9) a
+a: and.CY.C
+(153: 10) mae
+bod: be.CY.VFLE.3S.PRESENT
+(153: 11) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(153: 12) yn
+yn: stative.CY.STAT
+(153: 13) canu
+canu: sing.CY.VINF
+(153: 14) .
+====================
+(154: 1) efo
+efo: with.CY.P
+(154: 2) Celio
+Celio: Celio.ES.NAME
+(154: 3) yn
+yn: stative.CY.STAT
+(154: 4) canu
+canu: sing.CY.VINF
+(154: 5) can
+can: can.CY.N.M.S
+(154: 6) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(154: 7) er
+er: er.ES.UNK
+(154: 8) Luis_Miguel
+Luis_Miguel: Luis_Miguel.ES.NAME
+(154: 9) .
+====================
+(155: 1) .
+====================
+(156: 1) .
+====================
+(157: 1) a
+a: and.CY.C
+(157: 2) fi
+fi: I.CY.R
+(157: 3) yn
+yn: stative.CY.STAT
+(157: 4) gwneud
+gwneud: make.CY.VINF
+(157: 5) y
+y: the.CY.T
+(157: 6) .
+====================
+(158: 1) oedd
+bod: be.CY.VFLE.3S.IMPERFECT
+(158: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(158: 3) yn
+yn: stative.CY.STAT
+(158: 4) neis
+neis: nice.CY.A
+(158: 5) iawn
+iawn: very.CY.B
+(158: 6) .
+====================
+(159: 1) mynd
+mynd: go.CY.VINF
+(159: 2) efo
+efo: with.CY.P
+(159: 3) yr
+y: the.CY.T
+(159: 4) microfono
+microfono: microfono.ES.UNK
+(159: 5) .
+====================
+(160: 1) ble
+ble: where.CY.I
+(160: 2) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(160: 3) yn
+yn: in.CY.P
+(160: 4) Palermo
+Palermo: Palermo.ES.NAME
+(160: 5) neu
+neu: or.CY.C
+(160: 6) .
+====================
+(161: 1) ie
+ie: yes.CY.B
+(161: 2) yn
+yn: in.CY.P
+(161: 3) Palermo
+Palermo: Palermo.ES.NAME
+(161: 4) .
+====================
+(162: 1) dan
+dan: under.CY.P
+(162: 2) ni
+ni: we.CY.R
+(162: 3) wedi
+wedi: after.CY.P
+(162: 4) .
+====================
+(163: 1) www
+www: www.CY.UNK
+(163: 2) .
+====================
+(164: 1) ia
+ia: ia.CY.UNK
+(164: 2) ?
+====================
+(165: 1) iawn
+iawn: OK.CY.B
+iawn: OK.CY.B/very.CY.B
+(165: 2) .
+====================
+(166: 1) www
+www: www.CY.UNK
+(166: 2) .
+====================
+(167: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(167: 2) dan
+dan: under.CY.P
+(167: 3) ni
+ni: we.CY.R
+(167: 4) yn
+yn: stative.CY.STAT
+(167: 5) ymarfer
+ymarfer: practice.CY.VINF
+(167: 6) yn
+yn: stative.CY.STAT
+(167: 7) siarad
+siarad: talk.CY.VINF
+(167: 8) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(167: 9) .
+====================
+(168: 1) www
+www: www.CY.UNK
+(168: 2) .
+====================
+(169: 1) .
+====================
+(170: 1) www
+www: www.CY.UNK
+(170: 2) .
+====================
+(171: 1) ia
+ia: ia.CY.UNK
+(171: 2) .
+====================
+(172: 1) www
+www: www.CY.UNK
+(172: 2) .
+====================
+(173: 1) i
+i: to.CY.P
+(173: 2) yr
+y: the.CY.T
+(173: 3) um
+um: um.ES.UNK
+(173: 4) .
+====================
+(174: 1) beth
+beth: what.CY.I
+(174: 2) yw
+bod: be.CY.VFLE.3S.PRESENT
+(174: 3) yr
+y: the.CY.T
+(174: 4) enw
+enw: name.CY.N.M.S
+(174: 5) ?
+====================
+(175: 1) yw
+bod: be.CY.VFLE.3S.PRESENT
+(175: 2) .
+====================
+(176: 1) Peredur
+Peredur: Peredur.ES.NAME
+(176: 2) ia
+ia: ia.CY.UNK
+(176: 3) .
+====================
+(177: 1) www
+www: www.CY.UNK
+(177: 2) .
+====================
+(178: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(178: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(178: 3) yn
+yn: stative.CY.STAT
+(178: 4) gwneud
+gwneud: make.CY.VINF
+(178: 5) mae
+bod: be.CY.VFLE.3S.PRESENT
+(178: 6) isio
+isio: want.CY.N.M.S
+(178: 7) um
+um: um.ES.UNK
+(178: 8) gwybod
+gwybod: know_(fact).CY.VINF
+(178: 9) gwybod
+gwybod: know_(fact).CY.VINF
+(178: 10) sut
+sut: how.CY.I
+(178: 11) dan
+dan: under.CY.P
+(178: 12) ni
+ni: we.CY.R
+(178: 13) yn
+yn: stative.CY.STAT
+(178: 14) siarad
+siarad: talk.CY.VINF
+(178: 15) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(178: 16) a
+a: and.CY.C
+(178: 17) pethau
+peth: things.CY.N.M.P
+(178: 18) fel
+fel: like.CY.C
+fel: like.CY.C/as.CY.C
+(178: 19) yna
+yna: there.CY.B
+(178: 20) .
+====================
+(179: 1) felly
+felly: so.CY.B
+(179: 2) dan
+dan: under.CY.P
+(179: 3) ni
+ni: we.CY.R
+(179: 4) yn
+yn: stative.CY.STAT
+(179: 5) trio
+trio: try.CY.VINF
+(179: 6) ymarfer
+ymarfer: practice.CY.VINF
+(179: 7) .
+====================
+(180: 1) www
+www: www.CY.UNK
+(180: 2) .
+====================
+(181: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(181: 2) .
+====================
+(182: 1) www
+www: www.CY.UNK
+(182: 2) .
+====================
+(183: 1) www
+www: www.CY.UNK
+(183: 2) .
+====================
+(184: 1) ie
+ie: yes.CY.B
+(184: 2) ia
+ia: ia.CY.UNK
+(184: 3) iawn
+iawn: OK.CY.B
+iawn: OK.CY.B/very.CY.B
+(184: 4) .
+====================
+(185: 1) ia
+ia: ia.CY.UNK
+(185: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(185: 3) gen
+gen: gen.CY.UNK
+(185: 4) i
+i: to.CY.P
+(185: 5) yr
+y: the.CY.T
+(185: 6) er
+er: er.ES.UNK
+(185: 7) llyfr
+llyfr: book.CY.N.M.S
+(185: 8) ia
+ia: ia.CY.UNK
+(185: 9) .
+====================
+(186: 1) neis
+neis: nice.CY.A
+(186: 2) neis
+neis: nice.CY.A
+(186: 3) .
+====================
+(187: 1) www
+www: www.CY.UNK
+(187: 2) .
+====================
+(188: 1) .
+====================
+(189: 1) ia
+ia: ia.CY.UNK
+(189: 2) dan
+dan: under.CY.P
+(189: 3) ni
+ni: we.CY.R
+(189: 4) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(189: 5) keep
+keep: keep.EN.UNK
+(189: 6) in
+in: in.EN.UNK
+(189: 7) touch
+touch: touch.EN.UNK
+(189: 8) and
+and: and.CY.UNK
+(189: 9) .
+====================
+(190: 1) ww
+ww: ww.CY.UNK
+(190: 2) .
+====================
+(191: 1) ia
+ia: ia.CY.UNK
+(191: 2) .
+====================
+(192: 1) www
+www: www.CY.UNK
+(192: 2) .
+====================
+(193: 1) .
+====================
+(194: 1) ia
+ia: ia.CY.UNK
+(194: 2) .
+====================
+(195: 1) www
+www: www.CY.UNK
+(195: 2) .
+====================
+(196: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(196: 2) pawb
+pawb: everyone.CY.R
+(196: 3) mae
+bod: be.CY.VFLE.3S.PRESENT
+(196: 4) pawb
+pawb: everyone.CY.R
+(196: 5) yn
+yn: stative.CY.STAT
+(196: 6) mynd
+mynd: go.CY.VINF
+(196: 7) .
+====================
+(197: 1) beth
+peth: thing.CY.N.SM.M.S
+peth: thing.CY.N.SM.M.S/thing.CY.N.SM.M.S
+beth: thing.CY.N.SM.M.S/thing.CY.N.SM.M.S/what.CY.I
+(197: 2) beth
+peth: thing.CY.N.SM.M.S
+peth: thing.CY.N.SM.M.S/thing.CY.N.SM.M.S
+beth: thing.CY.N.SM.M.S/thing.CY.N.SM.M.S/what.CY.I
+(197: 3) dan
+dan: under.CY.P
+(197: 4) ni
+ni: we.CY.R
+(197: 5) yn
+yn: stative.CY.STAT
+(197: 6) wneud
+gwneud: make.CY.VINF.SM
+(197: 7) ?
+====================
+(198: 1) pawb
+pawb: everyone.CY.R
+(198: 2) yn
+yn: stative.CY.STAT
+(198: 3) mynd
+mynd: go.CY.VINF
+(198: 4) .
+====================
+(199: 1) www
+www: www.CY.UNK
+(199: 2) .
+====================
+(200: 1) neis
+neis: nice.CY.A
+(200: 2) cyfarfod
+cyfarfod: meeting.CY.N.M.S
+(200: 3) chi
+chi: you_(pl).CY.R
+(200: 4) .
+====================
+(201: 1) www
+www: www.CY.UNK
+(201: 2) .
+====================
+(202: 1) neis
+neis: nice.CY.A
+(202: 2) gweld
+gweld: see.CY.VINF
+(202: 3) chi
+chi: you_(pl).CY.R
+(202: 4) ia
+ia: ia.CY.UNK
+(202: 5) .
+====================
+(203: 1) .
+====================
+(204: 1) www
+www: www.CY.UNK
+(204: 2) .
+====================
+(205: 1) bye
+bye: bye.EN.UNK
+(205: 2) chao
+chao: chao.ES.UNK
+(205: 3) .
+====================
+(206: 1) www
+www: www.CY.UNK
+(206: 2) .
+====================
+(207: 1) hwyl
+hwyl: fun.CY.N.F.S
+(207: 2) i
+i: to.CY.P
+(207: 3) chi
+chi: you_(pl).CY.R
+(207: 4) .
+====================
+(208: 1) estamos
+estar: be.ES.VBLEX.PRI.P1.PL
+(208: 2) practicando
+practicar: practise.ES.VBLEX.GER
+(208: 3) yn
+yn: stative.CY.STAT
+(208: 4) siarad
+siarad: talk.CY.VINF
+(208: 5) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(208: 6) ia
+ia: ia.CY.UNK
+(208: 7) ?
+====================
+(209: 1) ta_ra
+ta_ra: ta_ra.CY.UNK
+(209: 2) .
+====================
+(210: 1) faint
+maint: size.CY.N.SM.M.S
+(210: 2) o
+o: of.CY.P
+(210: 3) yr
+y: the.CY.T
+(210: 4) gloch
+cloch: bell.CY.N.SM.F.S
+cloch: bell.CY.N.SM.F.S/bell.CY.N.SM.F.S
+(210: 5) Carlos
+Carlos: Carlos.ES.NAME
+(210: 6) ?
+====================
+(211: 1) hanner
+hanner: half.CY.N.M.S
+(211: 2) awr
+awr: hour.CY.N.F.S
+(211: 3) wedi
+wedi: after.CY.P
+(211: 4) saith
+saith: seven_(7).CY.A
+(211: 5) .
+====================
+(212: 1) er
+er: er.CY.UNK
+(212: 2) chwech
+chwech: six_(6).CY.A
+(212: 3) .
+====================
+(213: 1) hanner
+hanner: half.CY.N.M.S
+(213: 2) awr
+awr: hour.CY.N.F.S
+(213: 3) wedi
+wedi: after.CY.P
+(213: 4) chwech
+chwech: six_(6).CY.A
+(213: 5) .
+====================
+(214: 1) chael
+chael: chael.CY.UNK
+(214: 2) y
+y: the.CY.T
+(214: 3) bws
+bws: bus.CY.N.M.S
+(214: 4) .
+====================
+(215: 1) rhaid
+rhaid: necessity.CY.N.M.S
+(215: 2) i
+i: to.CY.P
+(215: 3) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(215: 4) mynd
+mynd: go.CY.VINF
+(215: 5) i
+i: to.CY.P
+(215: 6) gweithio
+gweithio: work.CY.VINF
+(215: 7) .
+====================
+(216: 1) ydw
+ydw: ydw.CY.UNK
+(216: 2) .
+====================
+(217: 1) fynd
+mynd: go.CY.VINF.SM
+(217: 2) i
+i: to.CY.P
+(217: 3) gweithio
+gweithio: work.CY.VINF
+(217: 4) yn
+yn: in.CY.P
+(217: 5) y
+y: the.CY.T
+(217: 6) nos
+nos: night.CY.N.F.S
+(217: 7) yn
+yn: in.CY.P
+(217: 8) y
+y: the.CY.T
+(217: 9) hospital
+hospital: hospital.CY.UNK
+(217: 10) .
+====================
+(218: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(218: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(218: 3) pawb
+pawb: everyone.CY.R
+(218: 4) yn
+yn: stative.CY.STAT
+(218: 5) mynd
+mynd: go.CY.VINF
+(218: 6) .
+====================
+(219: 1) good
+good: good.EN.UNK
+(219: 2) boy
+boy: boy.EN.N
+(219: 3) hah
+hah: hah.ES.UNK
+(219: 4) .
+====================
+(220: 1) .
+====================
+(221: 1) posibl
+posibl: possible.CY.A
+(221: 2) .
+====================
+(222: 1) beth
+beth: what.CY.I
+(222: 2) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(222: 3) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(222: 4) isio
+isio: want.CY.N.M.S
+(222: 5) wneud
+gwneud: make.CY.VINF.SM
+(222: 6) efo
+efo: with.CY.P
+(222: 7) yr
+y: the.CY.T
+(222: 8) allwedd
+allwedd: key.CY.N.F.S
+allwedd: key.CY.N.F.S/key.CY.N.F.S
+(222: 9) achos
+achos: cause.CY.N.M.S
+(222: 10) mae
+bod: be.CY.VFLE.3S.PRESENT
+(222: 11) rhaid
+rhaid: necessity.CY.N.M.S
+(222: 12) i
+i: to.CY.P
+(222: 13) mi
+mi: mi.CY.PART-AFF
+(222: 14) mynd
+mynd: go.CY.VINF
+(222: 15) .
+====================
+(223: 1) ia
+ia: ia.CY.UNK
+(223: 2) .
+====================
+(224: 1) allwedd
+allwedd: key.CY.N.F.S
+allwedd: key.CY.N.F.S/key.CY.N.F.S
+(224: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(224: 3) beth
+peth: thing.CY.N.SM.M.S
+peth: thing.CY.N.SM.M.S/thing.CY.N.SM.M.S
+beth: thing.CY.N.SM.M.S/thing.CY.N.SM.M.S/what.CY.I
+(224: 4) ?
+====================
+(225: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(225: 2) pawb
+pawb: everyone.CY.R
+(225: 3) yn
+yn: stative.CY.STAT
+(225: 4) mynd
+mynd: go.CY.VINF
+(225: 5) .
+====================
+(226: 1) ie
+ie: yes.CY.B
+(226: 2) ie
+ie: yes.CY.B
+(226: 3) .
+====================
+(227: 1) www
+www: www.CY.UNK
+(227: 2) .
+====================
+(228: 1) beth
+beth: what.CY.I
+(228: 2) yw
+bod: be.CY.VFLE.3S.PRESENT
+(228: 3) hwnna
+hwnna: that_one_(m).CY.R
+(228: 4) ?
+====================
+(229: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(229: 2) dan
+dan: under.CY.P
+(229: 3) dan
+dan: under.CY.P
+(229: 4) ni
+ni: we.CY.R
+(229: 5) yn
+yn: stative.CY.STAT
+(229: 6) mynd
+mynd: go.CY.VINF
+(229: 7) i
+i: to.CY.P
+(229: 8) wneud
+gwneud: make.CY.VINF.SM
+(229: 9) .
+====================
+(230: 1) er
+er: er.ES.UNK
+(230: 2) gloi
+cloi: lock.CY.VFLE.SM.2S.PRESENT
+(230: 3) hwnna
+hwnna: that_one_(m).CY.R
+(230: 4) ?
+====================
+(231: 1) www
+www: www.CY.UNK
+(231: 2) .
+====================
+(232: 1) ie
+ie: yes.CY.B
+(232: 2) pawb
+pawb: everyone.CY.R
+(232: 3) yn
+yn: stative.CY.STAT
+(232: 4) mynd
+mynd: go.CY.VINF
+(232: 5) nawr
+nawr: now.CY.B
+(232: 6) ?
+====================
+(233: 1) ah
+ah: wow.ES.IJ
+(233: 2) o_k
+o_k: o_k.ES.UNK
+(233: 3) ie
+ie: yes.CY.B
+(233: 4) dan
+dan: under.CY.P
+(233: 5) ni
+ni: we.CY.R
+(233: 6) yn
+yn: stative.CY.STAT
+(233: 7) mynd
+mynd: go.CY.VINF
+(233: 8) dan
+dan: under.CY.P
+(233: 9) ni
+ni: we.CY.R
+(233: 10) yn
+yn: stative.CY.STAT
+(233: 11) mynd
+mynd: go.CY.VINF
+(233: 12) .
+====================
+(234: 1) pawb
+pawb: everyone.CY.R
+(234: 2) pawb
+pawb: everyone.CY.R
+(234: 3) yn
+yn: stative.CY.STAT
+(234: 4) mynd
+mynd: go.CY.VINF
+(234: 5) yn
+yn: in.CY.P
+(234: 6) y
+y: the.CY.T
+(234: 7) munud
+munud: minute_(time).CY.N.M.S
+(234: 8) .
+====================
+(235: 1) pan
+pan: when.CY.C
+(235: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(235: 3) pawb
+pawb: everyone.CY.R
+(235: 4) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(235: 5) .
+====================
+(236: 1) ie
+ie: yes.CY.B
+(236: 2) ?
+====================
+(237: 1) pawb
+pawb: everyone.CY.R
+(237: 2) eh
+eh: eh.ES.UNK
+(237: 3) Ester
+Ester: Ester.ES.NAME
+(237: 4) pan
+pan: when.CY.C
+(237: 5) mae
+bod: be.CY.VFLE.3S.PRESENT
+(237: 6) pawb
+pawb: everyone.CY.R
+(237: 7) yn
+yn: stative.CY.STAT
+(237: 8) barod
+parod: ready.CY.A.SM
+parod: ready.CY.A.SM/ready.CY.A.SM
+(237: 9) i
+i: to.CY.P
+(237: 10) mynd
+mynd: go.CY.VINF
+(237: 11) dan
+dan: under.CY.P
+(237: 12) ni
+ni: we.CY.R
+(237: 13) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(237: 14) stand
+stand: stand.EN.UNK
+(237: 15) up
+up: up.EN.B
+(237: 16) and
+and: and.EN.C
+(237: 17) go
+go: go.EN.UNK
+(237: 18) o_k
+o_k: o_k.ES.UNK
+(237: 19) ?
+====================
+(238: 1) stand
+stand: stand.EN.UNK
+(238: 2) up
+up: up.EN.B
+(238: 3) and
+and: and.EN.C
+(238: 4) go
+go: go.EN.UNK
+(238: 5) .
+====================
+(239: 1) iawn
+iawn: OK.CY.B
+iawn: OK.CY.B/very.CY.B
+(239: 2) .
+====================
+(240: 1) stand
+stand: stand.EN.UNK
+(240: 2) up
+up: up.EN.B
+(240: 3) and
+and: and.EN.C
+(240: 4) go
+go: go.EN.UNK
+(240: 5) .
+====================
+(241: 1) ia
+ia: ia.CY.UNK
+(241: 2) .
+====================
+(242: 1) ia
+ia: ia.CY.UNK
+(242: 2) pawb
+pawb: everyone.CY.R
+(242: 3) yn
+yn: stative.CY.STAT
+(242: 4) mynd
+mynd: go.CY.VINF
+(242: 5) .
+====================
+(243: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(243: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(243: 3) yn
+yn: stative.CY.STAT
+(243: 4) neis
+neis: nice.CY.A
+(243: 5) i
+i: to.CY.P
+(243: 6) cwrdd
+cwrdd: meet.CY.VINF
+(243: 7) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(243: 8) .
+====================
+(244: 1) neis
+neis: nice.CY.A
+(244: 2) i
+i: to.CY.P
+(244: 3) gwneud
+gwneud: make.CY.VINF
+(244: 4) unwaith
+unwaith: once.CY.B
+(244: 5) yn
+yn: in.CY.P
+(244: 6) y
+y: the.CY.T
+(244: 7) mis
+mis: month.CY.N.M.S
+(244: 8) neu
+neu: or.CY.C
+(244: 9) unwaith
+unwaith: once.CY.B
+(244: 10) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(244: 11) tri
+tri: three_(3,_m).CY.A
+(244: 12) waith
+gwaith: work.CY.N.SM.M.S
+gwaith: work.CY.N.SM.M.S/time_(instance).CY.N.SM.F.S
+(244: 13) yn
+yn: in.CY.P
+(244: 14) y
+y: the.CY.T
+(244: 15) blwyddyn
+blwyddyn: year_(of_time).CY.N.F.S
+(244: 16) mae
+bod: be.CY.VFLE.3S.PRESENT
+(244: 17) yn
+yn: stative.CY.STAT
+(244: 18) neis
+neis: nice.CY.A
+(244: 19) i
+i: to.CY.P
+(244: 20) dod
+dod: come.CY.VINF
+(244: 21) fyny
+fyny: above.CY.B
+(244: 22) i
+i: to.CY.P
+(244: 23) ymarfer
+ymarfer: practice.CY.VINF
+(244: 24) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+Cymraeg: Welsh_(language).CY.N.F.S/Welsh_(language).CY.A
+(244: 25) .
+====================
+(245: 1) pethau
+peth: things.CY.N.M.P
+(245: 2) gwahanol
+gwahanol: different.CY.A
+(245: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(245: 4) yr
+y: the.CY.T
+(245: 5) er
+er: er.ES.UNK
+(245: 6) un
+un: one_(1).CY.A
+(245: 7) .
+====================
+(246: 1) neis
+neis: nice.CY.A
+(246: 2) .
+====================
+(247: 1) a
+a: and.CY.C
+(247: 2) bwyta
+bwyta: eat.CY.VINF
+(247: 3) cacennau
+cacennau: cacennau.CY.UNK
+(247: 4) a
+a: and.CY.C
+(247: 5) .
+====================
+(248: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(248: 2) Buenos_Aires
+Buenos_Aires: Buenos_Aires.ES.NAME
+(248: 3) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(248: 4) lle
+lle: place.CY.N.M.S
+(248: 5) mawr
+mawr: big.CY.A
+(248: 6) um
+um: um.ES.UNK
+(248: 7) .
+====================
+(249: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(249: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(249: 3) yn
+yn: stative.CY.STAT
+(249: 4) neis
+neis: nice.CY.A
+(249: 5) yn
+yn: stative.CY.STAT
+(249: 6) gwneud
+gwneud: make.CY.VINF
+(249: 7) pethau
+peth: things.CY.N.M.P
+(249: 8) gwahanol
+gwahanol: different.CY.A
+(249: 9) .
+====================
+(250: 1) cael
+cael: have.CY.VINF
+(250: 2) te
+te: tea.CY.N.M.S
+(250: 3) efo
+efo: with.CY.P
+(250: 4) yr
+y: the.CY.T
+(250: 5) hen
+hen: old.CY.A
+(250: 6) bobl
+pobl: people.CY.N.SM.F.S
+pobl: people.CY.N.SM.F.S/people.CY.N.SM.F.S
+(250: 7) a
+a: and.CY.C
+(250: 8) .
+====================
+(251: 1) ie
+ie: yes.CY.B
+(251: 2) .
+====================
+(252: 1) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(252: 2) cwmni
+cwmni: company.CY.N.M.S
+(252: 3) gyda
+gyda: with.CY.P
+(252: 4) mam
+mam: mother.CY.N.F.S
+(252: 5) e
+e: e.CY.UNK
+(252: 6) .
+====================
+(253: 1) .
+====================
+(254: 1) rhaid
+rhaid: necessity.CY.N.M.S
+(254: 2) i
+i: to.CY.P
+(254: 3) fi
+fi: I.CY.R
+(254: 4) .
+====================
+(255: 1) roeddwn
+bod: be.CY.VFLE.1S.IMPERFECT.SPOKEN
+(255: 2) i
+i: I.CY.R
+(255: 3) yn
+yn: stative.CY.STAT
+(255: 4) dweud
+dweud: say.CY.VINF
+(255: 5) iddo
+iddo: to_him.CY.P
+(255: 6) fe
+fe: he/it_(S).CY.R
+(255: 7) bod
+bod: be.CY.VINF
+(255: 8) rhaid
+rhaid: necessity.CY.N.M.S
+(255: 9) i
+i: to.CY.P
+(255: 10) ni
+ni: we.CY.R
+(255: 11) .
+====================
+(256: 1) ia
+ia: ia.CY.UNK
+(256: 2) .
+====================
+(257: 1) be
+be: what.CY.I
+(257: 2) be
+be: what.CY.I
+(257: 3) oedd
+bod: be.CY.VFLE.3S.IMPERFECT
+(257: 4) yr
+y: the.CY.T
+(257: 5) enw
+enw: name.CY.N.M.S
+(257: 6) ?
+====================
+(258: 1) um
+um: um.ES.UNK
+(258: 2) Peredur
+Peredur: Peredur.CY.NAME
+(258: 3) .
+====================
+(259: 1) .
+====================
+(260: 1) oh
+oh: oh.EN.I
+(260: 2) my
+my: my.EN.UNK
+(260: 3) God
+God: God.EN.NAME
+(260: 4) .
+====================
+(261: 1) .
+====================
+(262: 1) a
+a: and.CY.C
+(262: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(262: 3) dydd
+dydd: day_(named).CY.N.M.S
+(262: 4) Sadwrn
+Sadwrn: Saturn.CY.N.M.S
+(262: 5) nesaf
+nesu: approach.CY.VFLE.1S.PRESENT
+(262: 6) fi
+fi: I.CY.R
+(262: 7) yn
+yn: stative.CY.STAT
+(262: 8) mynd
+mynd: go.CY.VINF
+(262: 9) efo
+efo: with.CY.P
+(262: 10) Karls
+Karls: Karls.ES.NAME
+(262: 11) i
+i: to.CY.P
+(262: 12) gwrdd
+cwrdd: meet.CY.VINF.SM
+cwrdd: meet.CY.VINF.SM/meet.CY.VINF.SM
+(262: 13) er
+er: er.ES.UNK
+(262: 14) bobl
+pobl: people.CY.N.SM.F.S
+pobl: people.CY.N.SM.F.S/people.CY.N.SM.F.S
+(262: 15) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(262: 16) Eisteddfod_yr
+Eisteddfod_yr: Eisteddfod_yr.ES.NAME
+(262: 17) yr_Urdd
+yr_Urdd: yr_Urdd.ES.UNK
+(262: 18) .
+====================
+(263: 1) ia
+ia: ia.CY.UNK
+(263: 2) .
+====================
+(264: 1) bachgen
+bachgen: boy.CY.N.M.S
+(264: 2) a
+a: and.CY.C
+(264: 3) merched
+merch: daughters.CY.N.F.P
+(264: 4) yn
+yn: stative.CY.STAT
+(264: 5) dod
+dod: come.CY.VINF
+(264: 6) i
+i: to.CY.P
+(264: 7) gwneud
+gwneud: make.CY.VINF
+(264: 8) pethau
+peth: things.CY.N.M.P
+(264: 9) yn
+yn: in.CY.P
+(264: 10) Esquel
+Esquel: Esquel.ES.NAME
+(264: 11) ac
+ac: and.CY.C
+(264: 12) yn
+yn: in.CY.P
+(264: 13) Gaiman
+Gaiman: Gaiman.ES.NAME
+(264: 14) .
+====================
+(265: 1) a
+a: and.CY.C
+(265: 2) dydd
+dydd: day_(named).CY.N.M.S
+(265: 3) Sadwrn
+Sadwrn: Saturn.CY.N.M.S
+(265: 4) nesaf
+nesu: approach.CY.VFLE.1S.PRESENT
+(265: 5) mae
+bod: be.CY.VFLE.3S.PRESENT
+(265: 6) yn
+yn: stative.CY.STAT
+(265: 7) dod
+dod: come.CY.VINF
+(265: 8) i
+i: to.CY.P
+(265: 9) Buenos_Aires
+Buenos_Aires: Buenos_Aires.ES.NAME
+(265: 10) a
+a: and.CY.C
+(265: 11) mae
+bod: be.CY.VFLE.3S.PRESENT
+(265: 12) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(265: 13) yn
+yn: stative.CY.STAT
+(265: 14) mynd
+mynd: go.CY.VINF
+(265: 15) i
+i: to.CY.P
+(265: 16) bod
+bod: be.CY.VINF
+(265: 17) yma
+yma: here.CY.B
+(265: 18) un
+un: one_(1).CY.A
+(265: 19) dydd
+dydd: day_(named).CY.N.M.S
+(265: 20) i
+i: to.CY.P
+(265: 21) aros
+aros: wait.CY.VINF
+(265: 22) felly
+felly: so.CY.B
+(265: 23) fi
+fi: I.CY.R
+(265: 24) i
+i: to.CY.P
+(265: 25) yn
+yn: stative.CY.STAT
+(265: 26) mynd
+mynd: go.CY.VINF
+(265: 27) i
+i: to.CY.P
+(265: 28) fynd
+mynd: go.CY.VINF.SM
+(265: 29) south
+south: south.EN.UNK
+(265: 30) .
+====================
+(266: 1) www
+www: www.CY.UNK
+(266: 2) .
+====================
+(267: 1) bueno
+bueno: well.ES.IJ
+bueno: well.ES.IJ/well.ES.ADJ.M.SG
+(267: 2) .
+====================
+(268: 1) www
+www: www.CY.UNK
+(268: 2) .
+====================
+(269: 1) da
+da: good.CY.A
+(269: 2) iawn
+iawn: very.CY.B
+(269: 3) .
+====================
+(270: 1) bueno
+bueno: well.ES.IJ
+bueno: well.ES.IJ/well.ES.ADJ.M.SG
+(270: 2) .
+====================
+(271: 1) www
+www: www.CY.UNK
+(271: 2) .
+====================
+(272: 1) bueno
+bueno: well.ES.IJ
+bueno: well.ES.IJ/well.ES.ADJ.M.SG
+(272: 2) .
+====================
+(273: 1) www
+www: www.CY.UNK
+(273: 2) .
+====================
+(274: 1) Beatrix
+Beatrix: Beatrix.ES.NAME
+(274: 2) .
+====================
+(275: 1) chale
+chale: chale.ES.UNK
+(275: 2) .
+====================
+(276: 1) www
+www: www.CY.UNK
+(276: 2) .
+====================
+(277: 1) te
+prpers: you.ES.PRN.OBJ.P2.MF.SG
+(277: 2) gusta
+gustar: like.ES.VBLEX.IMP.P2.SG
+gustar: like.ES.VBLEX.IMP.P2.SG/like.ES.VBLEX.PRI.P3.SG
+(277: 3) eh
+eh: eh.ES.UNK
+(277: 4) ?
+====================
+(278: 1) Beatrix
+Beatrix: Beatrix.ES.NAME
+(278: 2) .
+====================
+(279: 1) un
+uno: one.ES.DET.IND.M.SG
+(279: 2) nombre
+nombre: name.ES.N.M.SG
+nombrar: name.ES.N.M.SG/name.ES.VBLEX.IMP.P3.SG
+nombrar: name.ES.N.M.SG/name.ES.VBLEX.IMP.P3.SG/name.ES.VBLEX.PRS.P1.SG
+nombrar: name.ES.N.M.SG/name.ES.VBLEX.IMP.P3.SG/name.ES.VBLEX.PRS.P1.SG/name.ES.VBLEX.PRS.P3.SG
+(279: 3) muy
+muy: very.ES.PREADV
+(279: 4) particular
+particular: particular.ES.ADJ.MF.SG
+(279: 5) .
+====================
+(280: 1) www
+www: www.CY.UNK
+(280: 2) .
+====================
+(281: 1) yo
+prpers: I.ES.PRN.SUBJ.P1.MF.SG
+(281: 2) soy
+ser: be.ES.VBSER.PRI.P1.SG
+(281: 3) hijo
+hijo: son.ES.N.M.SG
+(281: 4) de
+de: of.ES.PR
+(281: 5) Juan
+Juan: Juan.ES.NAME
+(281: 6) y
+y: and.ES.CNJ.COO
+(281: 7) Ángela
+Ángela: Ángela.ES.UNK
+(281: 8) .
+====================
+(282: 1) www
+www: www.CY.UNK
+(282: 2) .
+====================
+(283: 1) Juan_Vega
+Juan_Vega: Juan_Vega.ES.NAME
+(283: 2) y
+y: and.ES.CNJ.COO
+(283: 3) Ángela_Mendez
+Ángela_Mendez: Ángela_Mendez.ES.UNK
+(283: 4) .
+====================
+(284: 1) www
+www: www.CY.UNK
+(284: 2) .
+====================
+(285: 1) www
+www: www.CY.UNK
+(285: 2) .
+====================
+(286: 1) Gaiman
+Gaiman: Gaiman.ES.NAME
+(286: 2) ?
+====================
+(287: 1) ie
+ie: yes.CY.B
+(287: 2) .
+====================
+(288: 1) bueno
+bueno: well.ES.IJ
+bueno: well.ES.IJ/well.ES.ADJ.M.SG
+(288: 2) .
+====================
+(289: 1) igualmente
+igualmente: equally.ES.ADV
+(289: 2) .
+====================
+(290: 1) ta_ta
+ta_ta: ta_ta.CY.UNK
+(290: 2) .
+====================
+(291: 1) ww
+ww: ww.CY.UNK
+(291: 2) .
+====================
+(292: 1) ta_ra
+ta_ra: ta_ra.CY.UNK
+(292: 2) .
+====================
+(293: 1) ww
+ww: ww.CY.UNK
+(293: 2) .
+====================
+(294: 1) da
+da: good.CY.A
+(294: 2) iawn
+iawn: very.CY.B
+(294: 3) .
+====================
+(295: 1) wel
+wel: wel.CY.UNK
+(295: 2) .
+====================
+(296: 1) o_k
+o_k: o_k.ES.UNK
+(296: 2) .
+====================
+(297: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(297: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(297: 3) yn
+yn: stative.CY.STAT
+(297: 4) dod
+dod: come.CY.VINF
+(297: 5) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(297: 6) Dreiorci
+Dreiorci: Dreiorci.ES.NAME
+(297: 7) Carlos
+Carlos: Carlos.ES.NAME
+(297: 8) .
+====================
+(298: 1) a
+a: and.CY.C
+(298: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(298: 3) teulu
+teulu: family.CY.N.M.S
+(298: 4) yn
+yn: stative.CY.STAT
+(298: 5) dod
+dod: come.CY.VINF
+(298: 6) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(298: 7) Dreiorci
+Dreiorci: Dreiorci.CY.NAME
+(298: 8) .
+====================
+(299: 1) a
+a: and.CY.C
+(299: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(299: 3) pawb
+pawb: everyone.CY.R
+(299: 4) yn
+yn: stative.CY.STAT
+(299: 5) siarad
+siarad: talk.CY.VINF
+(299: 6) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(299: 7) .
+====================
+(300: 1) ond
+ond: but.CY.C
+(300: 2) wedi
+wedi: after.CY.P
+(300: 3) bwyta
+bwyta: eat.CY.VINF
+(300: 4) llawer
+llawer: many.CY.A
+(300: 5) yn
+yn: in.CY.P
+(300: 6) y
+y: the.CY.T
+(300: 7) te
+te: tea.CY.N.M.S
+(300: 8) bola
+bola: belly.CY.N.M.S
+(300: 9) tost
+tost: tost.CY.UNK
+(300: 10) .
+====================
+(301: 1) ie
+ie: yes.CY.B
+(301: 2) fi
+fi: I.CY.R
+(301: 3) hefyd
+hefyd: also.CY.B
+(301: 4) .
+====================
+(302: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(302: 2) oedd
+bod: be.CY.VFLE.3S.IMPERFECT
+(302: 3) e
+e: e.CY.UNK
+(302: 4) ddim
+dim: zero.CY.N.SM.M.S
+dim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S
+ddim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S/not_(after_verb).CY.B
+(302: 5) yn
+yn: stative.CY.STAT
+(302: 6) mynd
+mynd: go.CY.VINF
+(302: 7) i
+i: to.CY.P
+(302: 8) bwyta
+bwyta: eat.CY.VINF
+(302: 9) heno
+heno: tonight.CY.B
+(302: 10) .
+====================
+(303: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(303: 2) .
+====================
+(304: 1) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(304: 2) moyn
+moyn: moyn.CY.UNK
+(304: 3) cael
+cael: have.CY.VINF
+(304: 4) day
+day: day.EN.UNK
+(304: 5) off
+off: off.EN.UNK
+(304: 6) .
+====================
+(305: 1) oh
+oh: oh.ES.IJ
+(305: 2) ia
+ia: ia.CY.UNK
+(305: 3) .
+====================
+(306: 1) .
+====================
+(307: 1) a
+a: and.CY.C
+(307: 2) wedyn
+wedyn: afterwards.CY.B
+(307: 3) .
+====================
+(308: 1) llawer
+llawer: many.CY.A
+(308: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(308: 3) teisen
+teisen: teisen.CY.UNK
+(308: 4) .
+====================
+(309: 1) gormod
+gormod: too_much.CY.N.M.S
+(309: 2) .
+====================
+(310: 1) .
+====================
+(311: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(311: 2) .
+====================
+(312: 1) da
+da: good.CY.A
+(312: 2) iawn
+iawn: very.CY.B
+(312: 3) .
+====================
+(313: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(313: 2) pawb
+pawb: everyone.CY.R
+(313: 3) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(313: 4) isio
+isio: want.CY.N.M.S
+(313: 5) mynd
+mynd: go.CY.VINF
+(313: 6) .
+====================
+(314: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(314: 2) yn
+yn: stative.CY.STAT
+(314: 3) agor
+agor: open.CY.VINF
+(314: 4) pa
+pa: which.CY.A
+(314: 5) er
+er: er.ES.UNK
+(314: 6) amser
+amser: time.CY.N.M.S
+(314: 7) mm
+mm: mm.ES.UNK
+(314: 8) ?
+====================
+(315: 1) pa
+pa: which.CY.A
+(315: 2) amser
+amser: time.CY.N.M.S
+(315: 3) .
+====================
+(316: 1) hanner
+hanner: half.CY.N.M.S
+(316: 2) awr
+awr: hour.CY.N.F.S
+(316: 3) wedi
+wedi: after.CY.P
+(316: 4) chwech
+chwech: six_(6).CY.A
+(316: 5) .
+====================
+(317: 1) y
+y: the.CY.T
+(317: 2) nos
+nos: night.CY.N.F.S
+(317: 3) .
+====================
+(318: 1) achos
+achos: cause.CY.N.M.S
+(318: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(318: 3) diwrnod
+diwrnod: day_(24_hours).CY.N.M.S
+(318: 4) yn
+yn: stative.CY.STAT
+(318: 5) hir
+hir: long.CY.A
+(318: 6) nawr
+nawr: now.CY.B
+(318: 7) a
+a: and.CY.C
+(318: 8) mae
+bod: be.CY.VFLE.3S.PRESENT
+(318: 9) haul
+haul: sun.CY.N.M.S
+(318: 10) yn
+yn: stative.CY.STAT
+(318: 11) mynd
+mynd: go.CY.VINF
+(318: 12) am
+am: for.CY.P
+(318: 13) .
+====================
+(319: 1) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(319: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(319: 3) yn
+yn: stative.CY.STAT
+(319: 4) gwybod
+gwybod: know_(fact).CY.VINF
+(319: 5) be
+be: what.CY.I
+(319: 6) dw
+dw: dw.CY.UNK
+(319: 7) i
+i: to.CY.P
+(319: 8) yn
+yn: stative.CY.STAT
+(319: 9) dweud
+dweud: say.CY.VINF
+(319: 10) ?
+====================
+(320: 1) si
+si: whether.ES.CNJADV
+(320: 2) .
+====================
+(321: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(321: 2) yr
+y: the.CY.T
+(321: 3) haul
+haul: sun.CY.N.M.S
+(321: 4) yn
+yn: stative.CY.STAT
+(321: 5) mynd
+mynd: go.CY.VINF
+(321: 6) am
+am: for.CY.P
+(321: 7) wyth
+wyth: eight_(8).CY.A
+(321: 8) yn
+yn: stative.CY.STAT
+(321: 9) saith
+saith: seven_(7).CY.A
+(321: 10) ia
+ia: ia.CY.UNK
+(321: 11) ?
+====================
+(322: 1) ia
+ia: ia.CY.UNK
+(322: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(322: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(322: 4) .
+====================
+(323: 1) be
+be: what.CY.I
+(323: 2) ?
+====================
+(324: 1) iawn
+iawn: OK.CY.B
+iawn: OK.CY.B/very.CY.B
+(324: 2) ?
+====================
+(325: 1) iawn
+iawn: OK.CY.B
+iawn: OK.CY.B/very.CY.B
+(325: 2) .
+====================
+(326: 1) .
+====================
+(327: 1) o_k
+o_k: o_k.ES.UNK
+(327: 2) .
+====================
+(328: 1) wel
+wel: wel.CY.UNK
+(328: 2) rhaid
+rhaid: necessity.CY.N.M.S
+(328: 3) i
+i: to.CY.P
+(328: 4) ni
+ni: we.CY.R
+(328: 5) mynd
+mynd: go.CY.VINF
+(328: 6) .
+====================
+(329: 1) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(329: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(329: 3) yn
+yn: stative.CY.STAT
+(329: 4) mynd
+mynd: go.CY.VINF
+(329: 5) eh
+eh: eh.ES.UNK
+(329: 6) dy
+dy: your_(sing).CY.A
+(329: 7) fflat
+fflat: flat.CY.N.F.S
+(329: 8) di
+di: di.CY.UNK
+(329: 9) neu
+neu: or.CY.C
+(329: 10) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(329: 11) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(329: 12) yn
+yn: stative.CY.STAT
+(329: 13) aros
+aros: wait.CY.VINF
+(329: 14) yma
+yma: here.CY.B
+(329: 15) ?
+====================
+(330: 1) na
+na: not_(negative_responsive_verbal_particle).CY.B
+(330: 2) dw
+dw: dw.CY.UNK
+(330: 3) i
+i: to.CY.P
+(330: 4) yn
+yn: stative.CY.STAT
+(330: 5) credu
+credu: believe.CY.VINF
+(330: 6) .
+====================
+(331: 1) wel
+wel: wel.CY.UNK
+(331: 2) dw
+dw: dw.CY.UNK
+(331: 3) i
+i: to.CY.P
+(331: 4) ddim
+dim: zero.CY.N.SM.M.S
+dim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S
+ddim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S/not_(after_verb).CY.B
+(331: 5) yn
+yn: stative.CY.STAT
+(331: 6) gwybod
+gwybod: know_(fact).CY.VINF
+(331: 7) .
+====================
+(332: 1) efallai
+efallai: perhaps.CY.C
+(332: 2) dw
+dw: dw.CY.UNK
+(332: 3) i
+i: to.CY.P
+(332: 4) yn
+yn: stative.CY.STAT
+(332: 5) mynd
+mynd: go.CY.VINF
+(332: 6) i
+i: to.CY.P
+(332: 7) .
+====================
+(333: 1) tŷ
+tŷ: house.CY.N.M.S
+(333: 2) nain
+nain: grandmother.CY.N.F.S
+(333: 3) ?
+====================
+(334: 1) efallai
+efallai: perhaps.CY.C
+(334: 2) dw
+dw: dw.CY.UNK
+(334: 3) i
+i: to.CY.P
+(334: 4) yn
+yn: stative.CY.STAT
+(334: 5) mynd
+mynd: go.CY.VINF
+(334: 6) i
+i: to.CY.P
+(334: 7) tŷ
+tŷ: house.CY.N.M.S
+(334: 8) nain
+nain: grandmother.CY.N.F.S
+(334: 9) efo
+efo: with.CY.P
+(334: 10) un
+un: one_(1).CY.A
+(334: 11) awr
+awr: hour.CY.N.F.S
+(334: 12) mwy
+mwy: bigger.CY.A
+(334: 13) aros
+aros: wait.CY.VINF
+(334: 14) efo
+efo: with.CY.P
+(334: 15) Sara
+Sara: Sara.ES.NAME
+(334: 16) yn
+yn: stative.CY.STAT
+(334: 17) siarad
+siarad: talk.CY.VINF
+(334: 18) Cymraeg
+Cymraeg: Welsh_(language).CY.N.F.S
+(334: 19) .
+====================
+(335: 1) a
+a: and.CY.C
+(335: 2) wedyn
+wedyn: afterwards.CY.B
+(335: 3) mynd
+mynd: go.CY.VINF
+(335: 4) i
+i: to.CY.P
+(335: 5) fflat
+fflat: flat.CY.N.F.S
+(335: 6) .
+====================
+(336: 1) ddim
+dim: zero.CY.N.SM.M.S
+dim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S
+ddim: zero.CY.N.SM.M.S/nought.CY.N.SM.M.S/not_(after_verb).CY.B
+(336: 2) yn
+yn: stative.CY.STAT
+(336: 3) gwybod
+gwybod: know_(fact).CY.VINF
+(336: 4) .
+====================
+(337: 1) mynd
+mynd: go.CY.VINF
+(337: 2) i
+i: to.CY.P
+(337: 3) gwaith
+gwaith: work.CY.N.M.S
+gwaith: work.CY.N.M.S/time_(instance).CY.N.F.S
+(337: 4) .
+====================
+(338: 1) yn
+yn: stative.CY.STAT
+yn: stative.CY.STAT/in.CY.P
+(338: 2) lle
+lle: place.CY.N.M.S
+(338: 3) dw
+dw: dw.CY.UNK
+(338: 4) i
+i: to.CY.P
+(338: 5) yn
+yn: stative.CY.STAT
+(338: 6) gallu
+gallu: be_able.CY.VINF
+(338: 7) um
+um: um.ES.UNK
+(338: 8) um
+um: um.ES.UNK
+(338: 9) dal
+tal: tall.CY.A.SM
+tal: tall.CY.A.SM/tall.CY.A.SM
+dal: tall.CY.A.SM/tall.CY.A.SM/hold.CY.VFLE.2S.IMPERATIVE
+dal: tall.CY.A.SM/tall.CY.A.SM/hold.CY.VFLE.2S.IMPERATIVE/hold.CY.VINF
+(338: 10) y
+y: the.CY.T
+(338: 11) bws
+bws: bus.CY.N.M.S
+(338: 12) ?
+====================
+(339: 1) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(339: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(339: 3) yn
+yn: stative.CY.STAT
+(339: 4) mynd
+mynd: go.CY.VINF
+(339: 5) allan
+allan: out.CY.B
+(339: 6) croes
+croes: cross.CY.N.F.S
+(339: 7) um
+um: um.ES.UNK
+(339: 8) cerdded
+cerdded: walk.CY.VFLE.3S.IMPERATIVE
+(339: 9) i
+i: I.CY.R
+(339: 10) San_Juan
+San_Juan: San_Juan.ES.NAME
+(339: 11) ?
+====================
+(340: 1) a
+a: and.CY.C
+(340: 2) wedyn
+wedyn: afterwards.CY.B
+(340: 3) cerdded
+cerdded: walk.CY.VFLE.3S.IMPERATIVE
+(340: 4) i
+i: I.CY.R
+(340: 5) San_Juan
+San_Juan: San_Juan.ES.NAME
+(340: 6) ?
+====================
+(341: 1) un
+un: one_(1).CY.A
+(341: 2) dau
+dau: two_(2,_m).CY.A
+(341: 3) tri
+tri: three_(3,_m).CY.A
+(341: 4) pedwar
+pedwar: four_(4,_m).CY.A
+(341: 5) squares
+squares: squares.EN.UNK
+(341: 6) ?
+====================
+(342: 1) eh
+eh: eh.ES.UNK
+(342: 2) pasa
+pasar: spend.ES.VBLEX.IMP.P2.SG
+pasar: spend.ES.VBLEX.IMP.P2.SG/spend.ES.VBLEX.PRI.P3.SG
+pasa: spend.ES.VBLEX.IMP.P2.SG/spend.ES.VBLEX.PRI.P3.SG/raisin.ES.N.F.SG
+(342: 3) Boedo
+Boedo: Boedo.ES.NAME
+(342: 4) Avenida
+Avenida: Avenida.ES.NAME
+(342: 5) Boedo
+Boedo: Boedo.ES.NAME
+(342: 6) .
+====================
+(343: 1) te
+prpers: you.ES.PRN.OBJ.P2.MF.SG
+(343: 2) caminas
+caminar: walk.ES.VBLEX.PRI.P2.SG
+(343: 3) así
+asir: take.ES.VBLEX.IFI.P1.SG
+así: take.ES.VBLEX.IFI.P1.SG/thus.ES.ADV
+(343: 4) por
+por: for.ES.PR
+(343: 5) San_Juan
+San_Juan: San_Juan.ES.NAME
+(343: 6) .
+====================
+(344: 1) sí
+sí: himself.ES.PRN.TN.REF.P3.MF.SP
+sí: himself.ES.PRN.TN.REF.P3.MF.SP/yes.ES.ADV
+(344: 2) pasa
+pasar: spend.ES.VBLEX.IMP.P2.SG
+pasar: spend.ES.VBLEX.IMP.P2.SG/spend.ES.VBLEX.PRI.P3.SG
+pasa: spend.ES.VBLEX.IMP.P2.SG/spend.ES.VBLEX.PRI.P3.SG/raisin.ES.N.F.SG
+(344: 3) por
+por: por.CY.UNK
+(344: 4) .
+====================
+(345: 1) llegas
+llegar: get.ES.VBLEX.PRI.P2.SG
+(345: 2) .
+====================
+(346: 1) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(346: 2) yn
+yn: stative.CY.STAT
+(346: 3) croesi
+croesi: cross.CY.VINF
+(346: 4) um
+um: um.ES.UNK
+(346: 5) stryd
+stryd: street.CY.N.F.S
+(346: 6) Boedo
+Boedo: Boedo.ES.NAME
+(346: 7) .
+====================
+(347: 1) a
+a: and.CY.C
+(347: 2) wedyn
+wedyn: afterwards.CY.B
+(347: 3) mae
+bod: be.CY.VFLE.3S.PRESENT
+(347: 4) bws
+bws: bus.CY.N.M.S
+(347: 5) ciento
+ciento: ciento.ES.UNK
+(347: 6) sesenta
+sesenta: sixty.ES.NUM.MF.SP
+(347: 7) para
+para: for.ES.PR
+parar: for.ES.PR/stall.ES.VBLEX.IMP.P2.SG
+parar: for.ES.PR/stall.ES.VBLEX.IMP.P2.SG/stall.ES.VBLEX.PRI.P3.SG
+(347: 8) allà
+allà: allà.ES.UNK
+(347: 9) sí
+sí: himself.ES.PRN.TN.REF.P3.MF.SP
+sí: himself.ES.PRN.TN.REF.P3.MF.SP/yes.ES.ADV
+(347: 10) aquí
+aquí: here.ES.ADV
+(347: 11) .
+====================
+(348: 1) caminas
+caminar: walk.ES.VBLEX.PRI.P2.SG
+(348: 2) así
+asir: take.ES.VBLEX.IFI.P1.SG
+así: take.ES.VBLEX.IFI.P1.SG/thus.ES.ADV
+(348: 3) pasas
+pasar: spend.ES.VBLEX.PRI.P2.SG
+pasa: spend.ES.VBLEX.PRI.P2.SG/raisin.ES.N.F.PL
+(348: 4) Boedo
+Boedo: Boedo.ES.NAME
+(348: 5) y
+y: and.ES.CNJ.COO
+(348: 6) Latina
+Latina: Latina.ES.NAME
+(348: 7) .
+====================
+(349: 1) sí
+sí: himself.ES.PRN.TN.REF.P3.MF.SP
+sí: himself.ES.PRN.TN.REF.P3.MF.SP/yes.ES.ADV
+(349: 2) en
+en: on.ES.PR
+(349: 3) la
+el: the.ES.DET.DEF.F.SG
+(349: 4) esquina
+esquina: corner.ES.N.F.SG
+(349: 5) .
+====================
+(350: 1) acabas
+acabas: acabas.CY.UNK
+(350: 2) mynd
+mynd: go.CY.VINF
+(350: 3) i
+i: to.CY.P
+(350: 4) yr
+y: the.CY.T
+(350: 5) bws
+bws: bus.CY.N.M.S
+(350: 6) un_cant_chwech_deg
+un_cant_chwech_deg: un_cant_chwech_deg.CY.UNK
+(350: 7) a
+a: and.CY.C
+(350: 8) .
+====================
+(351: 1) ciento
+ciento: ciento.ES.UNK
+(351: 2) sesenta
+sesenta: sixty.ES.NUM.MF.SP
+(351: 3) .
+====================
+(352: 1) cant_a_chwe_deg
+cant_a_chwe_deg: cant_a_chwe_deg.CY.UNK
+(352: 2) .
+====================
+(353: 1) a
+a: and.CY.C
+(353: 2) mae
+bod: be.CY.VFLE.3S.PRESENT
+(353: 3) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(353: 4) yn
+yn: stative.CY.STAT
+(353: 5) mynd
+mynd: go.CY.VINF
+(353: 6) i
+i: to.CY.P
+(353: 7) Palermo
+Palermo: Palermo.ES.NAME
+(353: 8) .
+====================
+(354: 1) wyt
+bod: be.CY.VFLE.2S.PRESENT
+(354: 2) ti
+ti: you_(sing).CY.R
+ti: you_(sing).CY.R/you_(sing).CY.R
+(354: 3) yn
+yn: stative.CY.STAT
+(354: 4) cofio
+cofio: remember.CY.VINF
+(354: 5) yr
+y: the.CY.T
+(354: 6) er
+er: er.ES.UNK
+(354: 7) er
+er: er.ES.UNK
+(354: 8) .
+====================
+(355: 1) como
+comer: lunch.ES.VBLEX.PRI.P1.SG
+como: lunch.ES.VBLEX.PRI.P1.SG/like.ES.PR
+como: lunch.ES.VBLEX.PRI.P1.SG/like.ES.PR/like.ES.CNJADV
+como: lunch.ES.VBLEX.PRI.P1.SG/like.ES.PR/like.ES.CNJADV/like.ES.CNJCOO
+(355: 2) se
+se: se.ES.PRN.PRO.REF.P3.MF.SP
+se: se.ES.PRN.PRO.REF.P3.MF.SP/se.ES.PRN.PRO.REF.P3.MF.SP
+(355: 3) dice
+decir: tell.ES.VBLEX.PRI.P3.SG
+(355: 4) la
+el: the.ES.DET.DEF.F.SG
+(355: 5) vez
+vez: time.ES.N.F.SG
+(355: 6) la
+el: the.ES.DET.DEF.F.SG
+(355: 7) vez
+vez: time.ES.N.F.SG
+(355: 8) anterior
+anterior: previous.ES.ADJ.MF.SG
+(355: 9) que
+que: who.ES.REL.AN.MF.SP
+que: who.ES.REL.AN.MF.SP/who.ES.CNJSUB
+que: who.ES.REL.AN.MF.SP/who.ES.CNJSUB/who.ES.CNJCOO
+(355: 10) venimos
+venir: come.ES.VBLEX.PRI.P1.PL
+(355: 11) ?
+====================
+(356: 1) diwetha
+diwetha: last_(previous).CY.A
+(356: 2) um
+um: um.ES.UNK
+(356: 3) y
+y: the.CY.T
+(356: 4) tro
+tro: turn.CY.N.M.S
+(356: 5) diwetha
+diwetha: last_(previous).CY.A
+(356: 6) dan
+dan: under.CY.P
+(356: 7) ni
+ni: we.CY.R
+(356: 8) wedi
+wedi: after.CY.P
+(356: 9) bod
+bod: be.CY.VINF
+(356: 10) yno
+yno: there.CY.B
+(356: 11) dw
+dw: dw.CY.UNK
+(356: 12) i
+i: to.CY.P
+(356: 13) yn
+yn: stative.CY.STAT
+(356: 14) cerdded
+cerdded: walk.CY.VINF
+(356: 15) a
+a: and.CY.C
+(356: 16) mae
+bod: be.CY.VFLE.3S.PRESENT
+(356: 17) yna
+yna: there.CY.B
+(356: 18) bws
+bws: bus.CY.N.M.S
+(356: 19) yn
+yn: in.CY.P
+(356: 20) y
+y: the.CY.T
+(356: 21) cornel
+cornel: corner.CY.N.F.S
+(356: 22) .
+====================
+(357: 1) y
+y: the.CY.T
+(357: 2) tro
+tro: turn.CY.N.M.S
+(357: 3) diwetha
+diwetha: last_(previous).CY.A
+(357: 4) .
+====================
+(358: 1) ia
+ia: ia.CY.UNK
+(358: 2) .
+====================
+(359: 1) dw
+dw: dw.CY.UNK
+(359: 2) i
+i: to.CY.P
+(359: 3) yn
+yn: stative.CY.STAT
+(359: 4) cofio
+cofio: remember.CY.VINF
+(359: 5) rŵan
+rŵan: now.CY.B
+(359: 6) .
+====================
+(360: 1) mae
+bod: be.CY.VFLE.3S.PRESENT
+(360: 2) o
+o: from.CY.P
+o: from.CY.P/of.CY.P
+(360: 3) yn
+yn: stative.CY.STAT
+(360: 4) mynd
+mynd: go.CY.VINF
+(360: 5) .
+====================
+(361: 1) ciento
+ciento: ciento.ES.UNK
+(361: 2) sesenta
+sesenta: sixty.ES.NUM.MF.SP
+(361: 3) .
+====================

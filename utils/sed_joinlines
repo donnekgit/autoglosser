@@ -7,3 +7,5 @@ sed -e 'N;s/\r\n\t/ /;P;D;' | \
 sed -e 'N;s/\r\n\t/ /;P;D;' | \
 sed -e 'N;s/\r\n\t/ /;P;D;' | \
 sed -e 'N;s/\r\n\t/ /;P;D;' > $1
+# Need to remove \r in the above lines if the file has come through a Unix machine
+# Perhpas better to use frodos?

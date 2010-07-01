@@ -36,10 +36,10 @@ $sql="select * from $utterances order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$oldutt="(".$row->utterance_id.") ".$row->mainlang."\n";
-	$newutt=clean_utterance($row->mainlang)."\n\n";
-	echo $oldutt;
-	echo $newutt;
+	echo $oldutt="(".$row->utterance_id.") ".$row->mainlang."\n";
+	echo $newutt=clean_utterance($row->mainlang)."\n\n";
+	//echo $oldutt;
+	//echo $newutt;
 
 	fwrite($fp, $oldutt);
 	fwrite($fp, $newutt);
@@ -63,11 +63,11 @@ while ($row=pg_fetch_object($result))
 		} 
 		*/
 
-		// This handles both Siarad and Patagonia langid markings in the same bit of code - we replace the langid preamble, whatever it is, by ~~~, and then explode on that.
-		if  (preg_match("/@(s:)/", $mainlang_value))     
+		// This handles both Siarad and Patagonia langid markings in the same bit of code
+		if  (preg_match("/@/", $mainlang_value))     
 		{
-			$mainlang_value=preg_replace("/@(s:)/","~~~", $mainlang_value);
-			list($mainlang_word, $langid)=explode('~~~', $mainlang_value);
+			list($mainlang_word, $langid)=explode('@', $mainlang_value);  // Siarad
+			$langid=preg_replace("/s:/","", $langid);  // Patagonia
 		}
 		elseif(preg_match("/(\.|\?|!)/", $mainlang_value)) 
 		{
@@ -81,7 +81,7 @@ while ($row=pg_fetch_object($result))
 		} 
 
         $mainlang_word=trim(pg_escape_string($mainlang_word)); 
-		//echo $row->utterance_id." - ".$i." - ".$mainlang_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."<br />";
+		//echo $row->utterance_id." - ".$i." - ".$mainlang_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."\n\n";
         $sql_w="insert into $words (utterance_id, location, mainlang, langid, speaker, filename) values ('$row->utterance_id', '$i', '$mainlang_word', '$langid', '$row->speaker', '$row->filename')";
         $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");       
         $i=++$i;
