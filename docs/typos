@@ -1,0 +1,113 @@
+select mainlang, count(mainlang) as freq, gloss, speaker from deuchar1_cgwords group by mainlang, gloss, speaker order by mainlang 
+
+select * from deuchar1_cgutterances where mainlang ~ '<disabled'
+
+select * from deuchar1_cgwords where utterance_id=1136
+
+select * from lloyd1_typos where mainlang ~ '(t|d)ri' and gloss ~ 'NONFIN|PRES'
+
+Develop different versions of fix_transcription to handle mainlang and gloss; move them down into the if-clauses for each.  This will enable other functions for different tiers if necessary.
+deuchar1_cgwords
+u 345: convert one or more spaces into one
+l 1086: convert space+period into period: pron .1S -> pron.1S (knock-on effects?)
+l 3068: now  be.3PL.PRES.NEG
+l 3307: DETIM
+
+Note that a mainlang item with NULL as the gloss has probably not been glossed in the text, because it is in English.
+
+select mainlang, count(mainlang) as freq, tags, speaker from patagonia1_cgwords w, patagonia1_cgfinished f where w.utterance_id=f.utterance_id and w.location=f.location group by mainlang, tags, speaker order by mainlang 
+
+not grouped by speaker:
+select mainlang, count(mainlang) as freq, tags from patagonia1_cgwords w, patagonia1_cgfinished f where w.utterance_id=f.utterance_id and w.location=f.location group by mainlang, tags order by mainlang 
+
+
+
+
+
+
+
+Autoglosser todo
+
+Use the same table structure for autoglossed and manually-glossed; otherwise, you need different queries for essentially the same thing.  For autoglossed, try to combine _cgwords and _cgfinished.
+
+Check capitalised words (eg avenida) to see if they are in the dictionary without capitals - if so, use that entry; if not, tag the word as NAME.
+
+Work on Eurfa:  (which probably needs to be reviewed anyway in light of planned additions)
+1. Clarifiers are coming up in gloss - ensure they are in a separate column, and not concatenated
+2. There are double entries for SM
+3. Add mutated infinitives (eg pherswadio, feddwl)
+4. Glosses containing spaces aren't coming up properly (eg ellith "be" instead of "be able")
+5. Change numbers to "num"
+6. Review lemma field.
+
+Work on Apertium:
+1. Convert their tags.  (ifi=pret, pii=cond, pr->prep can only be done last, because other tags contain it.)
+2. Winnow out the verb entries with clitics.  (Do analysis?  That is, if you see dígame, remove me and check if díga appears; if so, use it, and add the tags for the clitic (which could be already listed in an array/table.)
+
+Remove GitHub files for clan2pg, and redirect to autoglosser git.
+
+Add examples of Siarad misalignment to the docs.
+
+Improve Welsh CG.  Undisambiguated forms are the first step - they are running at around 10%.  The next step is incorrectly ambiguated forms - can only really be done by manual checking.  Would be a good idea to keep a note of these for the docs/paper.
+
+Run queries on Siarad texts to catch typos that cause misalignments, and load onto git repo.  Suggest similar for Patagonia and Miami corpora.
+
+Consider concatenation of numbers again, eg cant_a_chwe_deg.
+
+Test (on new branch) benefits of splitting dictionary lookup from CG cohort generation.  At present, this is combined in write_cohorts.php - we read the _cgwords table, and look up each entry in the appropriate language dictionary (based on langid in _cgwords); then we write a text file to apply the CG to.  60% of words occur more than 10 times, so it would be possible to speed the dictionary process a lot by doing one lookup for each word and propagating that to all occurrences of that word in the table.  This is difficult if we want to maintain info about the different dictionary fields, and also because we would have multidimensionality - 2 or more cohort entries (adding something like links to extra tables would defeat the purpose of the thing).  One way forward is to select all the words in the _cgwords table into another table grouped by word (select mainlang, count(mainlang) from patagonia1_cgwords group by mainlang order by mainlang) and do the lookup on that.  Use the current code to populate two new fields - lemma and lookup/cohort, with the latter populated in a way that fits the CG requirements - or copy across the fields from the dictionary.  The latter will work fine for one-entry lookups, but if there are multi-entry lookups, what then?  Use an array in the fields?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
