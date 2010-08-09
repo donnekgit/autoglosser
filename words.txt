@@ -1,0 +1,43 @@
+adecuadas
+amenazaba
+clavaríamos
+candidatas
+bancarrota
+
+adelantaría
+admirara 537866
+
+ 
+select surface, lemma, enlemma, mypos, gender, number, tense from eslist GROUP BY surface, lemma, enlemma, mypos, gender, number, tense HAVING COUNT(*) > 1 limit 500
+
+create table dedup as select distinct on (surface, lemma, enlemma, mypos, gender, number, tense) * from eslist
+
+
+reforma 1
+refórma 33
+reformá 9
+reformad    10
+reformád    23
+reformándo  55
+reformar    12
+reformár    43
+refórme 56
+reformém    8
+reformémo   18
+reformémos  17
+refórmen    47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
