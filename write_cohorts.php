@@ -40,10 +40,10 @@ while ($row=pg_fetch_object($result))
 	echo $stream;
 	fwrite($fp, $stream);
 
-	if ($row->langid==LANG1)
-	// The language id variables are set in the config.php file
+	if (in_array($row->langid, $cylg))
+	// The language id variables are set in the includes/fns.php file
 	{
-		unset($entry);
+        $entry="";
 
 		//echo $row->utterance_id.": ".$row->location.": ".$mainlang."\n";
 		$sql_dict="select * from cylist where surface='$mainlang'";
@@ -90,9 +90,9 @@ while ($row=pg_fetch_object($result))
 		}
 		echo $entry;
 	}
-	elseif ($row->langid==LANG4 or $row->langid==LANG5)
+	elseif (in_array($row->langid, $enlg))
 	{
-		unset($entry);
+        $entry="";
 
 		$sql_en="select * from enlist where surface='$mainlang'";
 		$result_en=pg_query($db_handle,$sql_en) or die("Can't get the items");
@@ -113,9 +113,9 @@ while ($row=pg_fetch_object($result))
 		}
 		echo $entry;
 	}
-	elseif ($row->langid==LANG2 or $row->langid==LANG3)
+	elseif (in_array($row->langid, $eslg))
 	{
-		unset($entry);
+        $entry="";
 
 		$sql_es="select * from eslist where surface='$mainlang'";
 		$result_es=pg_query($db_handle,$sql_es) or die("Can't get the items");
@@ -125,10 +125,14 @@ while ($row=pg_fetch_object($result))
 			while ($row_es=pg_fetch_object($result_es))
 			{
 				$lemma="\t\"".$row_es->lemma."\" ";
-				$pos=trim($row_es->pos)." ";
-				$enlemma=":".$row_es->enlemma.": ";
-				$id=$row_es->id."\n";
-				$entry.=pg_escape_string($lemma."es ".$pos.$enlemma.$id);
+				$mypos=$row_es->mypos." ";
+                $gender=($row_es->gender =='') ? "" : $row_es->gender." ";
+                $number=($row_es->number =='') ? "" : $row_es->number." ";
+                $tense=($row_es->tense =='') ? "" : $row_es->tense." ";
+                $register=($row_es->register =='') ? "" : $row_es->register." ";
+                $enlemma=":".$row_es->enlemma.": ";
+                $id=$row_es->id."\n";
+                $entry.=pg_escape_string($lemma."es ".$mypos.$gender.$number.$tense.$register.$enlemma.$id);
 			}
 		}
 		else
@@ -140,7 +144,7 @@ while ($row=pg_fetch_object($result))
 	}
 	elseif ($row->langid=='999')
 	{
-		unset($entry);
+        $entry="";
 		//$entry="\"<$".$mainlang.">\"\n";
 		//echo $entry;
 	}

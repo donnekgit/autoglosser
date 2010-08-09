@@ -21,7 +21,61 @@ not grouped by speaker:
 select mainlang, count(mainlang) as freq, tags from patagonia1_cgwords w, patagonia1_cgfinished f where w.utterance_id=f.utterance_id and w.location=f.location group by mainlang, tags order by mainlang 
 
 
+Tracking down typos
+select mainlang, gloss, speaker, utterance_id, location from deuchar1_cgwords order by mainlang, gloss, speaker, utterance_id, location
 
+*SER:   ond@1 oedd@1 hi@1 (y)n@1 oer@1 . %snd:"deuchar1"_614575_615272
+%gls:   but be.3S.IMP pron .3SF PRT cold <=== space after pron
+gives:
+    ond but 
+    oedd    be.3S.IMP   
+    hi  pron    
+    yn  .3SF    
+    oer PRT 
+    .   cold    
+
+*SER:   &i well@0 <Bethel@0 oedd@1 o@1> [//] <(dy)dy@1 o@1 (ddi)m@1 yn@1> [//] (dy)dyn@1 nhw@1 (ddi)m@1 yn@1 galw@1 fo@1 (y)n@1 &e Bethel@0 xx . %snd:"deuchar1"_1560483_1563583
+%gls:   well Bethel be.3S.IMP PRON.3SM be.3S.PRES.NEG PRON.3SM |PRON.3SM| NEG PRT be.3PL.PRES.NEG PRON.3PL NEG PRT call.NONFIN PRON.3SM PRT Bethel xx
+Difficult to see, but there is a repetition of PRON.3SM, which puts the alignment off.
+
+*SER:   so@0 <o'n@1 i@1> [//] fel@1 arfer@1 <mae@1 nhw@1 &d> [//] mae@1 (y)n@1 # dŵad@1 i@1 tŷ@1 ni@1 . %snd:"deuchar1"_1102548_1105625
+%gls:   so be.1S.IMP PRON.1S like habit be.3PL.PRES || be.3S.PRES PRT come.NONFIN to house PRON.1PL
+Missing PRON.3PL at || 
+
+(586) *MYF: a@1 dw@1 i@1 sure@0 erbyn@1 meddwl@1 # mae@1 chwaer@1 hi@1 yn@1 gweithio@1 (y)n@1 Howells@0 . %snd:"deuchar1"_820406_825433
+(587) and be.1S.PRES || sure by think.NONFIN be.3S.PRES sister PRON.3SF PRT work.NONFIN in Howells
+Missing PRON.1S at || 
+
+*MYF:   a@1 mae@1 o@1 a@1 (e)i@1 wraig@1 # mae@1 nhw@1 y@1 ddau@1 yn@1 eu@1 forties@2 . %snd:"deuchar1"_776186_780766
+%gls:   and be.3S.PRES PRON.3SM and POSS.3SM wife be.3PL.PRES || DET two.M in POSS.3PL forties
+Missing PRON.3PL at || 
+
+(248) *MYF: yn@1 yn@1 car@0 mae@1 o@1 wedi@1 mynd@1 yeah@0 ? %snd:"deuchar1"_338073_339489
+(249) in DET car be.3S.PRES PRON.3SM PRT.PAST go.NONFIN yeah
+Second yn@1 should be y@1
+
+*SER:   ryw@1 # bands@0 mae@1 (we)di@1 mynd@1 i@1 weld@1 ryw@1 groups@0 yeah@0 . %snd:"deuchar1"_410500_412932
+%gls:   some band be.3S.PRES PRT.PAST go.NONFIN to see.NONFIN some groups yeah
+Gloss should be bands instead of band
+
+(371) *SER:   oh@0 <o'n@1 i@1> [/] o'n@1 i@1 (y)n@1 Llandudno@0 weekend@2 dwytha@1 . %snd:"deuchar1"_495273_497444
+%gls:   IM be.1S.IMP pron||.1S be.1S.IMP PRON.1S in Llandudno weekend previous
+Gap in pron.1S
+
+*SER:   <fath@1 â@1 ddaru@1> [//] um@0 # mae@1 peth@1 (y)na@1 tydy@1 um@0 # oh@0 # &a Angharad@0 [//] um@0 # Elin_Angharad@0 yeah@0 ? %snd:"deuchar1"_1419001_1427227
+%gls:   kind with happen.PAST IM be.3S.PRES thing there be.3S.PRES.NEG IM IM Angharad || Elin_Angharad yeah
+Missing IM at ||
+
+double spaces
+xx xx 
+both now covered in gloss import routines
+
+Grouped query for final checking
+select mainlang, count(mainlang) as freq, gloss from deuchar1_cgwords group by mainlang, gloss order by mainlang  # group all words and glosses - this shows up misalignments
+select *  from deuchar1_cgwords where mainlang='dwytha' and gloss ='weekend'  # find the utterance_id of misaligned words
+select * from deuchar1_cgwords where utterance_id=248 order by location  # view all the entries for that utterance - this allows mistakes to be spotted
+
+select count(*) from deuchar1_cgwords where utterance_id in (137, 248, 286, 345, 371, 398, 453, 560, 586, 742, 773, 993, 1051, 1091)
 
 
 
@@ -43,8 +97,6 @@ Work on Eurfa:  (which probably needs to be reviewed anyway in light of planned 
 Work on Apertium:
 1. Convert their tags.  (ifi=pret, pii=cond, pr->prep can only be done last, because other tags contain it.)
 2. Winnow out the verb entries with clitics.  (Do analysis?  That is, if you see dígame, remove me and check if díga appears; if so, use it, and add the tags for the clitic (which could be already listed in an array/table.)
-
-Remove GitHub files for clan2pg, and redirect to autoglosser git.
 
 Add examples of Siarad misalignment to the docs.
 

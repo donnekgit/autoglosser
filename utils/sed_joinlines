@@ -1,11 +1,10 @@
 #!/bin/sh
 # Convert Microsoft Windows line-ends to spaces
 # Required in order to have each line on one line without breaks
-# $1 receives the filename from the shell, which in turn receives it from the PHP script
-sed -e 'N;s/\r\n\t/ /;P;D;' < $1 | \
-sed -e 'N;s/\r\n\t/ /;P;D;' | \
-sed -e 'N;s/\r\n\t/ /;P;D;' | \
-sed -e 'N;s/\r\n\t/ /;P;D;' | \
-sed -e 'N;s/\r\n\t/ /;P;D;' > $1
-# Need to remove \r in the above lines if the file has come through a Unix machine
-# Perhpas better to use frodos?
+# Run fromdos myfile.cha first, to get rid of the \r from a Windows machine
+sed -e 'N;s/\n\t/ /;P;D;' < ../inputs/Miami/zeledon9.cha | \
+sed -e 'N;s/\n\t/ /;P;D;' | \
+sed -e 'N;s/\n\t/ /;P;D;' | \
+sed -e 'N;s/\n\t/ /;P;D;' | \
+sed -e 'N;s/\n\t/ /;P;D;' > ../inputs/Miami/zeledon9.txt
+

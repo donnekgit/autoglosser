@@ -1,5 +1,10 @@
 <?php
 
+// Set up your language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that the attached word can be looked up in the appropriate dictionary.
+$eslg=array("3", "", "es");
+$enlg=array("2", "en");
+$cylg=array("1", "cy");
+
 function get_filename()
 // Uses the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
 {
@@ -82,7 +87,8 @@ function clean_utterance($text)
 
 	$text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_&: ]/u", "", $text);  // delete anything that isn't one of these characters: & and : added to deal with Patagonia tags: @s:cy&es
 
-	$text=preg_replace("/(^| )x{1,3} /u", " ", $text); // x, xx, xxx
+    $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
+	$text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx
 	//$text=preg_replace("/@\d+/u", "", $text);  // remove @0, @1 etc from the word - Siarad only - not required for the db - this is purely cosmetic on the output file - the split is handled by the routine in rewrite_utterances.php
 	$text=preg_replace("/^ +/u", "", $text);
     $text=preg_replace("/ +/u", " ", $text);

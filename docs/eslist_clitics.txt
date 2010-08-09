@@ -33,6 +33,65 @@ os
 osme
 osnos 10048
 
+
+mf.1s - me
+mf.1s   f.3s
+mf.1s   f.3p - melas
+mf.1s   mf.3s
+mf.1s   mn.3s
+mf.1s   m.3p
+mf.1s   mf.3p
+
+mf.1p
+mf.1p   f.3s
+mf.1p   mf.3s
+mf.1p   mn.3s
+mf.1p   f.3p
+mf.1p   m.3p
+mf.1p   mf.3p
+
+mf.2s
+mf.2s   mf.1s
+mf.2s   mf.1p
+mf.2s   f.3s
+mf.2s   mf.3s
+mf.2s   mn.3s
+mf.2s   f.3p - 
+mf.2s   m.3p
+mf.2s   mf.3p
+
+mf.2p 
+mf.2p   mf.1s
+mf.2p   mf.1p
+mf.2p   f.3s
+mf.2p   mf.3s
+mf.2p   mn.3s
+mf.2p   f.3p
+mf.2p   m.3p
+mf.2p   mf.3p
+
+f.3s
+mf.3s
+mn.3s
+mf.3s   mf.1s
+mf.3s   mf.1p
+mf.3s   mf.2s
+mf.3s   mf.2p
+mf.3s   f.3s
+mf.3s   mf.3s
+mf.3s   mn.3s
+mf.3s   f.3p
+mf.3s   m.3p
+mf.3s   mf.3p
+
+f.3p
+m.3p
+mf.3p
+
+    
+
+    
+
 Remove1 (los|las|les|nos), store1 and lookup1; then remove2 (la|le|lo|me|te|se|os), store2 and lookup2. 
 
 select * from eslist_big where surface~'búsque'
@@ -53,13 +112,49 @@ delete from clitic_forms where declitpos='vblex.imp.p1.pl' and verbform ~'m$' --
 
 delete from clitic_forms where verbform in (select surface from eslist)  -- remove forms (eg abandonar, vblex.inf) that already exist in eslist
 
-Combine vblex.imp.p3.pl entries with vblex.imp.p3.sg
+INCORRECT!
+Combine vblex.imp.p3.pl entries with vblex.imp.p3.sg:
 select * from clitic_forms where lemma='decir' order by verbform
 update clitic_forms set declitpos='vblex.imp.p3.sp' where declitpos='vblex.imp.p3.sg'
 delete from clitic_forms where declitpos='vblex.imp.p3.pl' and verbform ~ '[^n]$'
+There are two vblex.imp.p3.pl groups, one with 8 and one with 47 entries.  
+NO!!!  What is happening is that háblenosles is getting analysed as háble+nos+les instead of háblen+os+les, so we get 8 instances of vblex.imp.p3.pl logged as háble instead of háblen.  So reverse the earlier change:
+update clitic_forms set declitpos='vblex.imp.p3.sg' where declitpos='vblex.imp.p3.sp'
 
-We are left with 15095 entries to add to eslist.  First, we need to adjust the pos info as in the queries below.
+Ditto for the vbser.imp.p3.sg and vbser.imp.p3.pl, and vbmod.imp.p3.sg and vbmod.imp.p3.pl entries:
+delete from clitic_forms where declitpos~'(vbmod|vbser|vbhacer).imp.p3.pl' and verbform ~ '[^n]$'
 
+We are left with 15092 entries in clitic_forms to add to eslist.  First, we need to adjust the pos info as in the queries below.
+
+update clitic_forms set number='1p', tense='imper' where declitpos ~ 'imp.p1.pl'
+update clitic_forms set number='2p', tense='imper' where declitpos ~ 'imp.p2.pl'
+update clitic_forms set number='3p', tense='imper' where declitpos ~ 'imp.p3.pl'
+update clitic_forms set number='3s', tense='imper' where declitpos ~ 'imp.p3.sg'
+update clitic_forms set number='2s', tense='imper' where declitpos ~ 'imp.p2.sg'
+update clitic_forms set tense='infin' where declitpos ~ 'inf'
+update clitic_forms set tense='prespart' where declitpos ~ 'ger'
+
+Remove entries where the imperative 3s of verbs ending in -tar has been misanalysed as verbform+te (eg coméntelo as comén+te+lo instead of coménte+lo):
+select * from clitic_forms where lemma ~'t(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 't(a|e)$' order by verbform
+select * from clitics where lemma ='relatar' and declitpos='vblex.imp.p3.sg' order by verbform
+delete from clitic_forms where lemma ~'t(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 't(a|e)$'
+Same for verbs in -mar (misanalysed as -me)
+select * from clitic_forms where lemma ~'t(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 't(a|e)$' order by verbform
+delete from clitic_forms where lemma ~'m(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 'm(a|e)$'
+Same for verbs in -sar (misanalysed as -se)
+select * from clitic_forms where lemma ~'s(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 's(a|e)$' order by verbform
+delete from clitic_forms where lemma ~'s(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 's(a|e)$'
+
+Oops.  Need to do the same for imperative 2s:
+select * from clitic_forms where lemma ~'t(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 't(a|e)$' order by verbform
+select * from clitic_forms where lemma ~'s(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 's(a|e)$' order by verbform
+select * from clitic_forms where lemma ~'m(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 'm(a|e)$' order by verbform
+
+This leaves 14716 entries.  Copy them into the eslist table:
+insert into eslist (surface, lemma, pos, enlemma, mypos, number, tense, register) select verbform, lemma, declitpos, enlemma, mypos, number, tense, register from clitic_forms
+
+Tidying up eslist:
+Rename eslist to eslist_big
 insert into eslist select * from eslist_big where pos !~ 'prn.enc'
 
 select lemma, count(*) from eslist where enlemma is null and pos ~'vblex' group by lemma order by lemma
@@ -67,7 +162,7 @@ There are 30 verbsets where there is no enlemma - these will need to be added ma
 
 The Apertium dictionary contains an excessive number of categories for the POS tag - there are over 400 of these, many of them with only a few entries.  They seem to have gone overboard on determiners especially.
 
-update eslist set mypos = 'n' where pos ~ 'n.(m|f).'
+update eslist set mypos = 'n' where pos ~ 'n.(m|f).'  -- note that this also catches prn!
 update eslist set gender = 'm' where pos ~ 'n.m.'
 update eslist set gender = 'f' where pos ~ 'n.f.'
 update eslist set number = 'sg' where pos ~ 'n.(m|f).sg'
@@ -76,6 +171,7 @@ update eslist set number = 'pl' where pos ~ 'n.(m|f).pl'
 update eslist set mypos = 'adj' where pos ~ 'adj.'
 update eslist set mypos = 'adj.sup' where pos ~ 'adj.sup'
 update eslist set mypos = 'adj.pos' where pos ~ 'adj.pos'
+update eslist set mypos='adj.poss' where pos ~ 'det.pos'
 update eslist set gender='m' where pos ~ 'adj.(sup.|pos.)m.'
 update eslist set gender='f' where pos ~ 'adj.(sup.|pos.)f.'
 update eslist set gender='mf' where pos ~ 'adj.(sup.|pos.)mf.'
@@ -117,6 +213,8 @@ update eslist set tense='pressubj' where pos~'prs'
 update eslist set tense='imperfsubj' where pos~'pis'
 update eslist set tense='past' where pos~'ifi'
 update eslist set tense='inf' where mypos='vinf'
+update eslist set mypos='v' where mypos='vinf'
+update eslist set mypos='v' where mypos='vfle'
 
 select pos, count(*) from eslist where mypos is null and pos~'vbhaver' group by pos order by pos
 update eslist set mypos='vinf' where pos ~ 'vbhaver.inf'
@@ -151,6 +249,44 @@ update eslist set number='pl' where pos ~ 'det.ord.*pl'
 update eslist set number='sg' where pos ~ 'det.ord.*sg'
 
 update eslist set mypos='interj' where pos ~ 'ij'
+
+Remove duplicates:
+select surface, lemma, enlemma, mypos, gender, number, tense from eslist GROUP BY surface, lemma, enlemma, mypos, gender, number, tense HAVING COUNT(*) > 1 limit 500
+will list the items with more than one entry, but it's easiest to create a new table without the dup.icates:
+create table dedup as select distinct on (surface, lemma, enlemma, mypos, gender, number, tense) * from eslist
+and then swap that for the original:
+drop table eslist
+alter table dedup rename to eslist
+
+
+
+
+
+
+
+Extract only utterances with mainly Spanish text to test the CG:
+First, rename the existing tables to herring7_cgutterances_all, and herring7_cgwords_all.  Then:
+create table herring7_cgutterances as select * from herring7_cgutterances_all where utterance_id in (select utterance_id from herring7_cgwords_all where langid='3')
+Then:
+php rewrite_utterances.php herring7
+
+
+
+
+
+
+Refactored Apertium Spanish dictionary:
+removed names
+removed duplicates
+tidied up determiners/pronouns a bit
+removed pre-clitic verbforms
+added them as separate entries to cover orthographical issues
+132992 entries
+
+
+
+
+
 
 Freedict - tidy up using ad hoc F&R in Geany, and import; then delete anything that is already in eslist
 delete from freedict_spa_eng where spa in (select surface from eslist)

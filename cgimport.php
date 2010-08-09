@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 //Output table: $filename_cgutterances
-//Output file: none
+//Output file: $filename_cgutterances.txt
 
 if (empty($filename))
 {
