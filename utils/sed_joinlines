@@ -1,10 +1,18 @@
 #!/bin/sh
-# Convert Microsoft Windows line-ends to spaces
-# Required in order to have each line on one line without breaks
-# Run fromdos myfile.cha first, to get rid of the \r from a Windows machine
-sed -e 'N;s/\n\t/ /;P;D;' < ../inputs/Miami/zeledon9.cha | \
+# This script converts the CLAN line-ends to spaces - it will ensure that  each utterance is on one line without breaks
+#  Run as: sed_joinlines /path/to/file.cha
+chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
+#echo $chafile
+filename=$(basename $chafile)  # the filename minus the .cha extension
+#echo $filename
+path=$(echo $chafile | sed "s/$filename//" )  # the path to the file
+#echo $path
+fixedfile=${filename%.cha}.txt  # switch the extension to .txt for the output file
+#echo $fixedfile
+fromdos $chafile  # get rid of the \r if the file has come from a Microsoft Windows machine; fromdos is in the tofrodos package
+sed -e 'N;s/\n\t/ /;P;D;'  < $chafile | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e 'N;s/\n\t/ /;P;D;' > ../inputs/Miami/zeledon9.txt
-
+sed -e 'N;s/\n\t/ /;P;D;' > $path$fixedfile  # output to the path + new filename
+mv $path$fixedfile $path$filename  # replace the original file with the fixed file, giving a fixed .cha file

@@ -6,7 +6,7 @@ $enlg=array("2", "en");
 $cylg=array("1", "cy");
 
 function get_filename()
-// Uses the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
+// Turns the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
 {
 	$chafile=$_SERVER['argv'][1];
 
@@ -94,6 +94,16 @@ function clean_utterance($text)
     $text=preg_replace("/ +/u", " ", $text);
 
 	return $text;
+}
+
+function clean_gloss($text)
+{
+    $row->gloss=preg_replace("/xx xx/u", " ", $row->gloss);  // the regex below misses this, probably because of the subpattern being captured
+    $row->gloss=preg_replace("/(^| )x{1,3}( |$)/u", " ", $row->gloss); // x, xx, xxx - need to account for when x appears in first or last position
+    $row->gloss=preg_replace("/ +/u", " ", $row->gloss);  // to catch places where there is more than one space in the gloss line
+    $row->gloss=trim(pg_escape_string($row->gloss));  // to deal with errant LRs on a few of the entries
+    
+    return $text;
 }
 
 function detectUTF8($string)

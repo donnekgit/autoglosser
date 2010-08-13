@@ -125,14 +125,14 @@ while ($row=pg_fetch_object($result))
 			while ($row_es=pg_fetch_object($result_es))
 			{
 				$lemma="\t\"".$row_es->lemma."\" ";
-				$mypos=$row_es->mypos." ";
+				$pos=$row_es->pos." ";
                 $gender=($row_es->gender =='') ? "" : $row_es->gender." ";
                 $number=($row_es->number =='') ? "" : $row_es->number." ";
                 $tense=($row_es->tense =='') ? "" : $row_es->tense." ";
-                $register=($row_es->register =='') ? "" : $row_es->register." ";
+                $notes=($row_es->notes =='') ? "" : $row_es->notes." ";
                 $enlemma=":".$row_es->enlemma.": ";
                 $id=$row_es->id."\n";
-                $entry.=pg_escape_string($lemma."es ".$mypos.$gender.$number.$tense.$register.$enlemma.$id);
+                $entry.=pg_escape_string($lemma."es ".$pos.$gender.$number.$tense.$notes.$enlemma.$id);
 			}
 		}
 		else

@@ -103,7 +103,7 @@ foreach ($lines as $line)
     }
     
 	// Collect glosses
-    elseif (preg_match("/^%gls/", $line))
+    elseif (preg_match("/^%(gls|mor)/", $line))
     {
         $gloss=preg_split('/:\t/', $line);
         $gloss=$gloss[1];

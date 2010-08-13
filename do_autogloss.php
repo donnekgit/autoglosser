@@ -33,13 +33,21 @@ echo "Outputs are in outputs/$filename/\n";
 <<<<<<< HEAD
 =======
 //$fp = fopen("outputs/".$filename."/".$filename."_log.txt", "w") or die("Can't create the file");
+<<<<<<< HEAD
 /*
 >>>>>>> 5086f67... resync to laptop
+=======
+
+>>>>>>> 4867871... New sed_joinlines, beginning of dynamic table creation based on tiers present in the file
 echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
 include("cgimport.php");
 
 echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
 include("rewrite_utterances.php");
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4867871... New sed_joinlines, beginning of dynamic table creation based on tiers present in the file
 /*
 echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
 include("write_cohorts.php");
@@ -54,7 +62,11 @@ echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
 include("write_cgautogloss.php");
 */
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 4867871... New sed_joinlines, beginning of dynamic table creation based on tiers present in the file
 //fclose($fp);
 >>>>>>> 5086f67... resync to laptop
 

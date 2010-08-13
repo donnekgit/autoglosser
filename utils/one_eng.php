@@ -1,7 +1,8 @@
 <?php
 
-// takes the Freedict eng field and creates a single entry for use in the enlemma field of eslist
-// the other entries can be retained in an "other" field
+/*
+This script takes the Freedict eng field and creates a single entry for use in the enlemma field of eslist.  The other entries can be retained in an "other" field
+*/
 
 include("../includes/fns.php");
 include("/opt/autoglosser/config.php");

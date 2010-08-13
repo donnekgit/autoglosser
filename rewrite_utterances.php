@@ -90,12 +90,8 @@ while ($row=pg_fetch_object($result))
     
 	if ($row->gloss != null) // don't bother looking for glosses if there are none there - check this: should be:- is not null?
 	{
-        $row->gloss=preg_replace("/xx xx/u", " ", $row->gloss);  // the regex below misses this, probably because of the subpattern being captured
-        $row->gloss=preg_replace("/(^| )x{1,3}( |$)/u", " ", $row->gloss); // x, xx, xxx - need to account for when x appears in first or last position
-        $row->gloss=preg_replace("/ +/u", " ", $row->gloss);  // to catch places where there is more than one space in the gloss line
-		$row->gloss=trim(pg_escape_string($row->gloss));  // to deal with errant LRs on a few of the entries
-        // need to replace the above by a new clean_gloss() function
-		$gloss_bits=explode(' ', $row->gloss);
+        echo $newgloss=clean_gloss($row->gloss)."\n\n";
+		$gloss_bits=explode(' ', $newgloss);
 		$j=1;
 		foreach ($gloss_bits as $gloss_value)
 		{        
