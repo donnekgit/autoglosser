@@ -1,0 +1,115 @@
+Glossing is time-consuming
+and error-prone
+and inconsistent
+
+For small corpora, this is not much of a problem.
+
+For larger corpora, it is.
+Almost by definition, we need to handle multi-language sentences, and many analysers are not set up to do this.
+(though MOR is - check this)
+
+Options
+Various POS-tagging systems (morphological analysers)
+CLAN has one built-in - MOR, with a POST disambiguation level.
+
+But only for major languages (and POST is for fewer).
+
+Re-useability is limited too.
+
+For minority languages this is an issue
+fewer resources (money and time)
+tech expertise may be limited
+need to encourage pass-on-ability
+materials may be limited in extent or licensing
+
+Welsh, although a minority language, is actually quite well-off in that regard.
+Others, eg Breton, are in more difficult circumstances.
+
+Shopping-list
+reasonably accessible technically
+primary emphasis on linguistic expertise rather than computer expertise
+easy licensing
+easy to refactor existing materials, and to reuse these ones
+fits into the established CLAN workflow
+
+What we've come up with, and what we'd like any comments or suggestions about, is:
+import a standard CHAT file into database tables - first split the file into utterances, and then split each utterance into words
+automated lookup against a digital dictionary
+disambiguation via a constraint grammar
+writing out the file again to produce the glossed CHAT file
+
+Import
+Not complicated, but finicky to get right
+If a file is already glossed, this can be imported as well (for instance, if you want to check manual and auto)
+Note that in this case, typos in the original files can cause misalignment, and no matter how well proof-read your files are, there will always be typos.
+Can handle old-style and new-style CHAT glosses
+Now have 100% accuracy
+Not info-equiv all the way through (utterances table retains all info, but words table doesn't - it did earlier, but that turned out to be non-viable)
+
+Dictionary lookup
+First catch your dictionary!
+This can be in any format, but should ideally have some basic morph info.
+For inflected languages, ideally there should be entries for each form (or at least common forms) of the words.
+For agglutinative languages, may need to consider some way of analysing the surface words to give morphological forms as in the dictionary. 
+alivyofanya (the way in which he did it) do.past.3s.rel8_manner
+You could collect all the words, analyse them separately, and then format them as a dictionary.
+
+This is where it is useful to have existing material you can re-use, hence the importance of open licenses, otherwise you have to reinvent the wheel (and if you do, please release it under an open license, so that others don't have to do the same thing).
+
+You might say: it would be quicker to do the glossing by hand.
+But this will help build up an ecosystem of tools and resources.
+Existing system can be used virtually as is for many languages.
+
+Disambiguation
+Uses constraint grammar
+Rule-system linguistically elegant and computationally efficient
+Rules are very simple and easy to grasp
+We are simply ruling out things here - we're not trying to do a full syntactic analysis (though that is possible)
+Backtracking and hesitations cause problems - thinking about some way of marking these.
+Incremental - can check progress easily.
+
+Writing out
+Trivial.
+
+Results
+Accuracy against Welsh manual and Spanish MOR/POST; comparison with SPLLOC file (but that is probably MOR)
+Speed
+
+Future
+Add syntactic tags, so that syntactic analysis is easier.
+Add to queries in web-browser.
+Do more efficient statistical analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

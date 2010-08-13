@@ -30,6 +30,11 @@ echo $words."\n";
 echo $cgfinished."\n";
 echo "Outputs are in outputs/$filename/\n";
 
+<<<<<<< HEAD
+=======
+//$fp = fopen("outputs/".$filename."/".$filename."_log.txt", "w") or die("Can't create the file");
+/*
+>>>>>>> 5086f67... resync to laptop
 echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
 include("cgimport.php");
 
@@ -48,5 +53,9 @@ include("write_cgfinished.php");
 echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
 include("write_cgautogloss.php");
 */
+<<<<<<< HEAD
+=======
+//fclose($fp);
+>>>>>>> 5086f67... resync to laptop
 
 ?>
