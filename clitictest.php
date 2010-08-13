@@ -1,17 +1,19 @@
 <?php
 
 function clitics($text)
+// segment the clitic pronouns from the verbform
 {
 	$text=preg_replace("/l(a|e|o)(s?)$/u", "#l$1$2", $text);
 	$text=preg_replace("/(me|te|se|nos)$/u", "#$1", $text);
 	$text=preg_replace("/(?<!(l|n))os$/u", "#os", $text);
-	$text=preg_replace("/(me|te|se)(?=#l(a|e|o)s?)/u", "@$1", $text);
+	$text=preg_replace("/(me|te|se|nos|os)(?=#l(a|e|o)s?)/u", "@$1", $text);
 	$text=preg_replace("/(te|se|os)(?=#(me|nos))/u", "@$1", $text);	
 	$text=preg_replace("/(se)(?=#(te|os))/u", "@$1", $text);
 	return $text;
 }
 
 function cliticpos($text)
+// rewrite the clitic pronouns to give POS information
 {
 	$text=preg_replace("/la(?!s)/u", "prn.f.3s", $text);
 	$text=preg_replace("/las/u", "prn.f.3p", $text);
@@ -27,32 +29,21 @@ function cliticpos($text)
 	return $text;
 }
 
-$verb="semestrándosenos";
+$verb="abandónateles";
+// READ IN THE VERBFORM from your text via SQL query or whatever
+// this is a sample verbfrom - imperative 2 singular of abandonar, with 2 singular and 3 plural clitic pronouns attached
 
-$parse=clitics($verb);
-
-echo $parse."\n";
-
-$first=preg_split("/#/", $parse, 2);
-$clitic1=$first[1];
+$first=preg_split("/#/", clitics($verb), 2);
+$clitic2=$first[1];
 $second=preg_split("/@/", $first[0], 2);
 $cliticverb=$second[0];
-$clitic2=$second[1];
+$clitic1=$second[1];
 
-echo $cliticverb."\n";
-echo $clitic1.": ".cliticpos($clitic1)."\n";
-echo $clitic2.": ".cliticpos($clitic2)."\n";
+// ADD YOUR VERBFORM LOOKUP HERE: 
+// run an SQL query on $cliticverb to do a lookup of the verbform in the dictionary and return the pos-tagged verbform
 
 $prclitic1="+".$clitic1.".".strtoupper(cliticpos($clitic1));
-
-if (isset($clitic2))
-{
-	$prclitic2="+".$clitic2.".".strtoupper(cliticpos($clitic2));
-}
-else
-{
-	$prclitic2='';
-}
+$prclitic2=(isset($clitic2)) ? "+".$clitic2.".".strtoupper(cliticpos($clitic2)) : "";
 
 $cgline=$cliticverb.$prclitic1.$prclitic2;
 echo $cgline."\n";

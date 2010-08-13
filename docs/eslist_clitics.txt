@@ -151,9 +151,9 @@ select * from clitic_forms where lemma ~'s(a|e|i)r$' and tense ='imper' and numb
 delete from clitic_forms where lemma ~'s(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 's(a|e)$'
 
 Oops.  Need to do the same for imperative 2s:
-select * from clitic_forms where lemma ~'t(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 't(a|e)$' order by verbform
-select * from clitic_forms where lemma ~'s(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 's(a|e)$' order by verbform
-select * from clitic_forms where lemma ~'m(a|e|i)r$' and tense ='imper' and number='3s' and verbform !~ 'm(a|e)$' order by verbform
+delete from clitic_forms where lemma ~'t(a|e|i)r$' and tense ='imper' and number='2s' and verbform !~ 't(a|e)$'
+delete from clitic_forms where lemma ~'s(a|e|i)r$' and tense ='imper' and number='2s' and verbform !~ 's(a|e)$'
+delete from clitic_forms where lemma ~'m(a|e|i)r$' and tense ='imper' and number='2s' and verbform !~ 'm(a|e)$'
 
 This leaves 14716 entries.  Copy them into the eslist table:
 insert into eslist (surface, lemma, pos, enlemma, mypos, number, tense, register) select verbform, lemma, declitpos, enlemma, mypos, number, tense, register from clitic_forms
@@ -297,7 +297,7 @@ update eslist set mypos='vinf' where pos ~ 'vbhacer.inf' or pos ~ 'vbser.inf' or
 update eslist set mypos='vfle' where pos ~ 'vbhacer.[^inf]' or pos ~ 'vbser.[^inf]' or pos ~ 'vbmod.[^inf]' or pos ~ 'vblex.[^inf]' - LOLZ: this does NOT select all verbforms that are not marked inf - it selects those which do not have i, n or f as the character following the first character after vbser (which just happens to be a dot, but the regex does not specify a dot)
 update eslist set mypos='vfle' where pos ~ 'vbhacer.(fti|fts|ifi|imp)' or pos ~ 'vbser.(fti|fts|ifi|imp)' or pos ~ 'vbmod.(fti|fts|ifi|imp)' or pos ~ 'vblex.(fti|fts|ifi|imp)'
 
-
+Delete the old id field and insert a new one - set it as PK.  Delete the Apertium pos field, and change mypos to pos.  Add indexes on all the fields except register.
 
 
 
@@ -331,8 +331,12 @@ tidied up determiners/pronouns a bit
 removed pre-clitic verbforms
 added them as separate entries to cover orthographical issues
 132992 entries
+<<<<<<< HEAD
 =======
 >>>>>>> 5086f67... resync to laptop
+=======
+sample code to handle segmentation and tagging of verbforms with enclitic pronouns
+>>>>>>> 59da068... fixes to clitic parsing
 
 
 
