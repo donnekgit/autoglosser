@@ -103,7 +103,7 @@ foreach ($lines as $line)
     }
     
 	// Collect glosses
-    elseif (preg_match("/^%(gls|mor)/", $line))
+    elseif (preg_match("/^%(gls)/", $line))
     {
         $gloss=preg_split('/:\t/', $line);
         $gloss=$gloss[1];
@@ -117,7 +117,26 @@ foreach ($lines as $line)
 		echo $gloss."\n";
 		fwrite($fp, "(".$i.") ".$gloss."\n\n");
 
-        $sql="update $utterances set gloss='$gloss' where utterance_id=currval('".$utterances."_utterance_id_seq')";
+        $sql="update $utterances set gls='$gloss' where utterance_id=currval('".$utterances."_utterance_id_seq')";
+        $result=pg_query($db_handle,$sql) or die("Can't insert the items");
+    }
+
+    // Collect POS tags
+    elseif (preg_match("/^%(mor)/", $line))
+    {
+        $mor=preg_split('/:\t/', $line);
+        $mor=$mor[1];
+        
+        // Remove non-morphological strings
+        //$mor=preg_replace('/ x{1,3} /', ' ', $mor);
+        // Moved to rewrite_utterances.php
+
+        $mor=trim(pg_escape_string($mor));
+
+        echo $mor."\n";
+        fwrite($fp, "(".$i.") ".$mor."\n\n");
+
+        $sql="update $utterances set mor='$mor' where utterance_id=currval('".$utterances."_utterance_id_seq')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
     }
     

@@ -1,12 +1,12 @@
 <?php
 
-// Set up your language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that the attached word can be looked up in the appropriate dictionary.
+// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that the attached word can be looked up in the appropriate dictionary.
 $eslg=array("3", "", "es");
 $enlg=array("2", "en");
 $cylg=array("1", "cy");
 
 function get_filename()
-// Turns the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
+// Turn the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
 {
 	$chafile=$_SERVER['argv'][1];
 
@@ -27,7 +27,7 @@ function get_filename()
 }
 
 function drop_existing_table($table)
-// Drops the specified table so that it can be recreated.
+// Drop the specified table so that it can be recreated.
 {
 	global $db_handle;
 	$sql_exists="select count(*) as count from pg_class where relname = '".$table."'";
@@ -44,6 +44,29 @@ function drop_existing_table($table)
 		//echo "There is no table ".$newchafile;
 		//exit;
 	}
+}
+
+function scantiers($chafile)
+// Scan the file to see which subordinate tiers (beginning with %) are used.  Combine these to insert into the SQL creating the new table.
+{
+    $sqltiers="";
+    $filetiers=array();
+    $lines=file($chafile,FILE_SKIP_EMPTY_LINES);
+    foreach ($lines as $line)
+    {
+        if (preg_match("/^%.{3}:/U", $line))
+        {
+            $othertier=preg_split("/:/", $line, 2);
+            $tier[]=preg_replace("/%/", "", $othertier[0]);
+        }
+    }
+    $filetiers = array_unique($tier);
+    while (list($key, $val) = each($filetiers))
+    {
+        $sqltiers .= "$val text, ";
+    }
+    $sqltiers=substr($sqltiers, 0, -2);
+    return $sqltiers;
 }
 
 function fix_punctuation($text)

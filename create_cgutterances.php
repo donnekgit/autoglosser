@@ -20,15 +20,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 drop_existing_table($utterances);
 //echo $utterances."<br/>";
 
+$sqltiers=scantiers($chafile);
+
 $sql_table = "
 CREATE TABLE $utterances (
     utterance_id serial NOT NULL,
     filename character varying(50),
-    sample_id integer,
     speaker character varying(10),
     mainlang text,
-    gloss text,
-    english text,
+    auto text,
+    $sqltiers,
     comment text,
     durbegin integer,
     durend integer,
