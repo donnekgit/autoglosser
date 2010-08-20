@@ -17,19 +17,18 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+$sqlfields=tier_fields($filename, "text");
+
 drop_existing_table($utterances);
 //echo $utterances."<br/>";
-
-$sqltiers=scantiers($chafile);
 
 $sql_table = "
 CREATE TABLE $utterances (
     utterance_id serial NOT NULL,
     filename character varying(50),
     speaker character varying(10),
-    mainlang text,
-    auto text,
-    $sqltiers,
+    surface text,
+    $sqlfields,
     comment text,
     durbegin integer,
     durend integer,

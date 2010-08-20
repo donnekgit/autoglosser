@@ -27,12 +27,17 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// Straighten out lines in the file
+//exec("utils/sed_joinlines ".$chafile)
+
+// Scan the file for sub-tiers.
+scan_tiers($chafile, $filename);
+
+// Create the utterances table.
 echo "*\n*\nCreating the $utterances table\n*\n*\n";
 include("create_cgutterances.php");
 
-// Fix Microsoft Windows line-breaks
-//exec("utils/sed_joinlines ".$chafile);  // not working reliably - truncating the file; do manually for the time being
-
+// Open a logfile.
 $fp = fopen("outputs/".$filename."/".$utterances.".txt", "w") or die("Can't create the file");
 
 $i=1;  // start counter for utterances
@@ -52,11 +57,11 @@ foreach ($lines as $line)
 	// Collect utterances in the main language
     if (preg_match("/^\*/", $line))
     {
-        $mainlang_line=preg_split('/:\t/', $line);
-        $speaker=preg_replace("/\*/", "", $mainlang_line[0]);
-        $rest=$mainlang_line[1];
+        $surface_line=preg_split('/:\t/', $line);
+        $speaker=preg_replace("/\*/", "", $surface_line[0]);
+        $rest=$surface_line[1];
         
-        list($mainlang, $timing)=explode('', $rest); //NAK is Unicode 0015
+        list($surface, $timing)=explode('', $rest); //NAK is Unicode 0015
         
         if (isset($timing))
 		{
@@ -89,72 +94,41 @@ foreach ($lines as $line)
 		//if (empty($sourcefile)){$sourcefile=$filename;}
 		
         $speaker=trim(pg_escape_string($speaker));
-        $mainlang=trim(pg_escape_string($mainlang));
-		$mainlang=preg_replace("/\s+/", " ", $mainlang);
+        $surface=trim(pg_escape_string($surface));
+		$surface=preg_replace("/\s+/", " ", $surface);
 		$sourcefile=strtolower(trim(pg_escape_string($sourcefile)));
 
-        $sql="insert into $utterances (speaker, duration, mainlang, filename, durbegin, durend) values ('$speaker', '$duration', '$mainlang', '$filename', '$durbegin', '$durend')";
+        $sql="insert into $utterances (speaker, duration, surface, filename, durbegin, durend) values ('$speaker', '$duration', '$surface', '$filename', '$durbegin', '$durend')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
 		
-		echo "(".$i.") ".$mainlang."\n";
-		//fwrite($fp, "(".$i.") ".$mainlang."\n\n");
+		echo "(".$i.") ".$surface."\n";
+		//fwrite($fp, "(".$i.") ".$surface."\n\n");
 
 		$i++;
     }
-    
-	// Collect glosses
-    elseif (preg_match("/^%(gls)/", $line))
+
+    // Collect lines belonging to identified sub-tiers.
+    $tiers=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_SKIP_EMPTY_LINES);
+    foreach ($tiers as $tier)
     {
-        $gloss=preg_split('/:\t/', $line);
-        $gloss=$gloss[1];
-        
-		// Remove non-morphological strings
-		//$gloss=preg_replace('/ x{1,3} /', ' ', $gloss);
-		// Moved to rewrite_utterances.php
+        //include("import/import_".trim($tier).".php");
+        $tier=trim($tier);
+        if (preg_match("/^%$tier/", $line))
+        {
+            $tierinfo=preg_split('/:\t/', $line);
+            $tierinfo=$tierinfo[1];
+            $tierinfo=trim(pg_escape_string($tierinfo));
 
-        $gloss=trim(pg_escape_string($gloss));
+            echo $tierinfo."\n";
+            fwrite($fp, "(".$i.") ".$tierinfo."\n\n");
 
-		echo $gloss."\n";
-		fwrite($fp, "(".$i.") ".$gloss."\n\n");
-
-        $sql="update $utterances set gls='$gloss' where utterance_id=currval('".$utterances."_utterance_id_seq')";
-        $result=pg_query($db_handle,$sql) or die("Can't insert the items");
+            $sql="update $utterances set $tier='$tierinfo' where utterance_id=currval('".$utterances."_utterance_id_seq')";
+            $result=pg_query($db_handle,$sql) or die("Can't insert the items");
+        }
     }
 
-    // Collect POS tags
-    elseif (preg_match("/^%(mor)/", $line))
-    {
-        $mor=preg_split('/:\t/', $line);
-        $mor=$mor[1];
-        
-        // Remove non-morphological strings
-        //$mor=preg_replace('/ x{1,3} /', ' ', $mor);
-        // Moved to rewrite_utterances.php
-
-        $mor=trim(pg_escape_string($mor));
-
-        echo $mor."\n";
-        fwrite($fp, "(".$i.") ".$mor."\n\n");
-
-        $sql="update $utterances set mor='$mor' where utterance_id=currval('".$utterances."_utterance_id_seq')";
-        $result=pg_query($db_handle,$sql) or die("Can't insert the items");
-    }
-    
-    // Collect English interpretations
-    elseif (preg_match("/^%eng/", $line))
-    {
-        $english=preg_split('/:\t/', $line);
-        $english=$english[1];
-        $english=trim(pg_escape_string($english));
-
-		echo $english."\n";
-        
-        $sql="update $utterances set english='$english' where utterance_id=currval('".$utterances."_utterance_id_seq')";
-        $result=pg_query($db_handle,$sql) or die("Can't insert the items");    
-    }
-    
     // Collect comments, if any.  FIXME: In a series of comments, the last one will overwrite previous ones - we need to concatenate these, or write them to a separate table using the utterance_id as the key.
-	elseif (preg_match("/^@Comment/", $line) or preg_match("/^%com/", $line) )
+	if (preg_match("/^@Comment/", $line) or preg_match("/^%com/", $line) )
     {
         $comment=preg_split('/:\t/', $line);
         $comment=$comment[1];       

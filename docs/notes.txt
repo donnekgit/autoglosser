@@ -52,35 +52,4 @@ select tablename from pg_tables where tablename !~'(pg_|sql_|_sp)' and tablename
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 select * from patagonia1_cgfinished order by utterance, location
-
-
-
-

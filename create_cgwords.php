@@ -1,5 +1,7 @@
 <?php
 
+$sqlfields=tier_fields($filename, "character varying(250)");
+
 drop_existing_table($words);
 
 $sql_table = "
@@ -7,9 +9,11 @@ CREATE TABLE $words (
     word_id serial NOT NULL,
     utterance_id integer,
     location integer,
-    mainlang character varying(100),
-    gloss character varying(250),
-    glossloc integer,
+    surface character varying(100),
+    auto character varying(250),
+    $sqlfields,
+    lemma character varying(100),
+    tags character varying(250),
     speaker character varying(10),
     langid character varying(10),
 	filename character varying(50)

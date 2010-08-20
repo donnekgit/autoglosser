@@ -36,71 +36,107 @@ $sql="select * from $utterances order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	echo $oldutt="(".$row->utterance_id.") ".$row->mainlang."\n";
-	echo $newutt=clean_utterance($row->mainlang)."\n\n";
+	echo $oldutt="(".$row->utterance_id.") ".$row->surface."\n";
+	echo $newutt=clean_utterance($row->surface)."\n\n";
 	//echo $oldutt;
 	//echo $newutt;
 
 	fwrite($fp, $oldutt);
 	fwrite($fp, $newutt);
 
-	$mainlang_bits=explode(' ', $newutt);
-    //print_r($mainlang_bits);
+	$surface_bits=explode(' ', $newutt);
+    //print_r($surface_bits);
     $i=1;   
-    foreach ($mainlang_bits as $mainlang_value)
+    foreach ($surface_bits as $surface_value)
     {
-        //echo $i." (of ".count($mainlang_bits)."): ".htmlspecialchars($mainlang_value)."<br>";
+        //echo $i." (of ".count($surface_bits)."): ".htmlspecialchars($surface_value)."<br>";
 
 		/* For Siarad texts
-		if  (preg_match("/@/", $mainlang_value))        
+		if  (preg_match("/@/", $surface_value))        
 		{
-			list($mainlang_word, $langid)=explode('@', $mainlang_value);
+			list($surface_word, $langid)=explode('@', $surface_value);
 		}
 		else
 		{
-			$mainlang_word=$mainlang_value;
+			$surface_word=$surface_value;
 			$langid="999";
 		} 
 		*/
 
 		// This handles both Siarad and Patagonia langid markings in the same bit of code
-		if  (preg_match("/@/", $mainlang_value))     
+		if  (preg_match("/@/", $surface_value))     
 		{
-			list($mainlang_word, $langid)=explode('@', $mainlang_value);  // Siarad
+			list($surface_word, $langid)=explode('@', $surface_value);  // Siarad
 			$langid=preg_replace("/s:/","", $langid);  // Patagonia
 		}
-		elseif(preg_match("/(\.|\?|!)/", $mainlang_value)) 
+		elseif(preg_match("/(\.|\?|!)/", $surface_value)) 
 		{
-			$mainlang_word=$mainlang_value;
+			$surface_word=$surface_value;
 			$langid="999";
 		} 
 		else
 		{
-			$mainlang_word=$mainlang_value;
+			$surface_word=$surface_value;
 			$langid="";
 		} 
 
-        $mainlang_word=trim(pg_escape_string($mainlang_word)); 
-		//echo $row->utterance_id." - ".$i." - ".$mainlang_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."\n\n";
-        $sql_w="insert into $words (utterance_id, location, mainlang, langid, speaker, filename) values ('$row->utterance_id', '$i', '$mainlang_word', '$langid', '$row->speaker', '$row->filename')";
+        $surface_word=trim(pg_escape_string($surface_word)); 
+		//echo $row->utterance_id." - ".$i." - ".$surface_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."\n\n";
+        $sql_w="insert into $words (utterance_id, location, surface, langid, speaker, filename) values ('$row->utterance_id', '$i', '$surface_word', '$langid', '$row->speaker', '$row->filename')";
         $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");       
         $i=++$i;
         
     }
-    
-	if ($row->gloss != null) // don't bother looking for glosses if there are none there - check this: should be:- is not null?
+
+    $tiers=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_SKIP_EMPTY_LINES);
+    foreach ($tiers as $tier)
+    {
+        $tiernew="new$tier";
+        $tier_bits="bits_$tier";
+        $tier_value="value_$$tier";
+        $clean_tier="clean_$tier";
+        echo $tiernew=$row->$$tier."\n\n";
+        $tier_bits=explode(' ', $tiernew);
+        $j=1;
+        foreach ($tier_bits as $gloss_value)
+        {        
+            //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
+            $sql_g="update $words set $tier='$tier_value' where utterance_id=$row->utterance_id and location=$j";
+            $result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");       
+            $j=++$j;    
+        }
+        
+    }
+
+/*  
+	if (isset($row->gls))
 	{
-        echo $newgloss=clean_gloss($row->gloss)."\n\n";
+        echo $newgloss=clean_gls($row->gls)."\n\n";
 		$gloss_bits=explode(' ', $newgloss);
 		$j=1;
 		foreach ($gloss_bits as $gloss_value)
 		{        
 			//echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
-			$sql_g="update $words set gloss='$gloss_value', glossloc=$j where utterance_id=$row->utterance_id and location=$j";
+			$sql_g="update $words set gls='$gloss_value' where utterance_id=$row->utterance_id and location=$j";
 			$result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");       
 			$j=++$j;	
 		}
 	}
+
+    if (isset($row->mor))
+    {
+        echo $newmor=clean_gls($row->mor)."\n\n";
+        $mor_bits=explode(' ', $newmor);
+        $m=1;
+        foreach ($mor_bits as $mor_value)
+        {        
+            //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
+            $sql_m="update $words set mor='$mor_value' where utterance_id=$row->utterance_id and location=$m";
+            $result_m=pg_query($db_handle,$sql_m) or die("Can't insert the items");       
+            $m=++$m;    
+        }
+    }
+*/
 	unset($newutt);
 }
 
