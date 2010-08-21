@@ -28,7 +28,7 @@ if (empty($filename))
 }
 
 // Straighten out lines in the file
-//exec("utils/sed_joinlines ".$chafile)
+exec("utils/sed_joinlines ".$chafile);
 
 // Scan the file for sub-tiers.
 scan_tiers($chafile, $filename);
@@ -62,7 +62,7 @@ foreach ($lines as $line)
         $rest=$surface_line[1];
         
         list($surface, $timing)=explode('', $rest); //NAK is Unicode 0015
-        
+
         if (isset($timing))
 		{
 			/* For Siarad texts

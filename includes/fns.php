@@ -1,6 +1,6 @@
 <?php
 
-// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that the attached word can be looked up in the appropriate dictionary.
+// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.
 $eslg=array("3", "", "es");
 $enlg=array("2", "en");
 $cylg=array("1", "cy");
@@ -116,53 +116,84 @@ function fix_transcription($text)
 	return $text;
 }
 
-function clean_utterance($text)
-// Note that the order of these is important.
+function lineclean_surface($text)
+// Remove markers and non alphanumeric characters from the surface text.
+// Note that the order of the following lines is important.
 // Remember to move any tags using & out of the way in the first line, and move them back before the main cleaning line.
 {
-	$text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
-	$text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
-	$text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
+    $text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
+    $text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
+    $text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
 
-	$text=preg_replace("/\[.[^\]]*\]/u", "", $text); // anything in square brackets
-	$text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself
-	$text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // periods or exclamation marks that are not at the end of the sentence
+    $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
+    $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
 
-	$text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
-	$text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
-	$text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
+    $text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] marker with a tilde.
+    $text=preg_replace("/<.[^>]+>/u", "", $text); // Remove backtracking words in angle brackets.
 
-	$text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_&: ]/u", "", $text);  // delete anything that isn't one of these characters: & and : added to deal with Patagonia tags: @s:cy&es
+    $text=preg_replace("/\[.[^\]]*\]/u", "", $text); // Remove anything in square brackets.
+    $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself.
+    $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
+
+    $text=preg_replace("/(^| ).[^~| ]+~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+
+    $text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
+    $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
+    $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
+
+    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es.
 
     $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
-	$text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx
-	//$text=preg_replace("/@\d+/u", "", $text);  // remove @0, @1 etc from the word - Siarad only - not required for the db - this is purely cosmetic on the output file - the split is handled by the routine in rewrite_utterances.php
-	$text=preg_replace("/^ +/u", "", $text);
-    $text=preg_replace("/ +/u", " ", $text);
+    $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx
 
-	return $text;
+    $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
+    $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
+   
+    return $text;
 }
 
-function clean_gls($text)
+function lineclean_gls($text)
+// Make corrections to the %gls tier as a whole, before it is segmented into words.
 {
     $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
     $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx - need to account for when x appears in first or last position
+
     $text=preg_replace("/ +/u", " ", $text);  // to catch places where there is more than one space in the gloss line
-    $text=trim(pg_escape_string($text));  // to deal with errant LRs on a few of the entries
+
+    $text=trim(pg_escape_string($text));  // Remove errant LRs on a few of the entries
     
     return $text;
 }
 
-function clean_mor($text)
+function wordclean_gls($text)
+// Make corrections to the individual words in the %gls tier.
 {
-    $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
-    $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx - need to account for when x appears in first or last position
-    $text=preg_replace("/ +/u", " ", $text);  // to catch places where there is more than one space in the gloss line
-    $text=trim(pg_escape_string($text));  // to deal with errant LRs on a few of the entries
+    // This is a dummy function - add code here.
+    return $text;
+}
+
+function lineclean_mor($text)
+// Make corrections to the %gls tier as a whole, before it is segmented into words.
+{
+    $text=preg_replace("/[+\/]/u", "", $text);  // Remove errant markup: +. /.
+
+    $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
+    $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
+
+    $text=preg_replace("/(=)(\w+)( )(\w+)( )(\w+)(\|)/u", "$1$2_$4$5$6$7", $text);  // Replace spaces in two-word lemmas (eg ticket inspector) with an underline in order to avoid incorrect slot assignment.  Note that this regex only deals with two-word lemmas - it may need to be extended if there are lemmas of three words or longer (poor dictionary editing in my view).
+
+    $text=trim(pg_escape_string($text));  // Remove errant LRs on a few of the entries
     
     return $text;
 }
 
+function wordclean_mor($text)
+// Make corrections to the individual words in the %mor tier.
+{
+    // This is a dummy function - add code here.
+    // Note that if you call wordclean_xxx() for one tier, it must be available for all tiers, even if it is only a dummy function like this.
+    return $text;
+}
 
 function detectUTF8($string)
 {
