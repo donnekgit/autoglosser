@@ -1,5 +1,22 @@
 <?php
 
+/*
+Copyright Kevin Donnelly 2010.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.
 $eslg=array("3", "", "es");
 $enlg=array("2", "en");
@@ -180,10 +197,8 @@ function lineclean_mor($text)
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
 
-    $text=preg_replace("/(=)(\w+)( )(\w+)( )(\w+)(\|)/u", "$1$2_$4$5$6$7", $text);  // Replace spaces in two-word lemmas (eg ticket inspector) with an underline in order to avoid incorrect slot assignment.  Note that this regex only deals with two-word lemmas - it may need to be extended if there are lemmas of three words or longer (poor dictionary editing in my view).
+    $text=preg_replace("/(=)(\w+)( )(\w+)( )(\w+)(\|)/u", "$1$2_$4$5$6$7", $text);  // Replace spaces in two-word lexemes (eg ticket inspector) with an underline in order to avoid incorrect slot assignment.  Note that this regex only deals with two-word lexemes - it may need to be extended if there are lemmas of three words or longer (poor dictionary editing in my view).
 
-    $text=trim(pg_escape_string($text));  // Remove errant LRs on a few of the entries
-    
     return $text;
 }
 
@@ -195,18 +210,7 @@ function wordclean_mor($text)
     return $text;
 }
 
-function detectUTF8($string)
-{
-    return preg_match('%(?:
-        [\xC2-\xDF][\x80-\xBF]             # non-overlong 2-byte
-        |\xE0[\xA0-\xBF][\x80-\xBF]        # excluding overlongs
-        |[\xE1-\xEC\xEE\xEF][\x80-\xBF]{2} # straight 3-byte
-        |\xED[\x80-\x9F][\x80-\xBF]        # excluding surrogates
-        |\xF0[\x90-\xBF][\x80-\xBF]{2}     # planes 1-3
-        |[\xF1-\xF3][\x80-\xBF]{3}         # planes 4-15
-        |\xF4[\x80-\x8F][\x80-\xBF]{2}     # plane 16
-        )+%xs', 
-    $string);
-}
+include("tierfns.php");
 
 ?>
+

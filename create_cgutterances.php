@@ -42,4 +42,6 @@ ALTER TABLE ONLY ".$utterances." ADD CONSTRAINT ".$utterances."_pk PRIMARY KEY (
 ";
 $result_pkey=pg_query($db_handle, $sql_pkey);
 
+include("includes/cleanfns.php");  // Generate dummy line/wordclean functions for any sub-tiers.
+
 ?>
