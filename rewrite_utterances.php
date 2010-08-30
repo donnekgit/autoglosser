@@ -72,23 +72,26 @@ while ($row=pg_fetch_object($result))
     }
 
     $tiers=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_SKIP_EMPTY_LINES);
-    foreach ($tiers as $tier)
+    if (count($tiers)>1) 
     {
-        $tier=trim($tier);
-        $lineclean_tier="lineclean_".$tier;
-        $wordclean_tier="wordclean_".$tier;
-        echo $treated=$lineclean_tier($row->$tier)."\n\n";  // Use this function if you want to apply changes to the whole line
-        $bits=explode(' ', $treated);
-        $j=1;
-        foreach ($bits as $value)
+        foreach ($tiers as $tier)
         {
-            //$value=$wordclean_tier($value);  // Use a function here if you want to apply changes to the individual word entries
-            //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
-            $sql_g="update $words set $tier='$value' where utterance_id=$row->utterance_id and location=$j";
-            $result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");
-            $j=++$j;    
-        }
-        unset($tier);
+            $tier=trim($tier);
+            $lineclean_tier="lineclean_".$tier;
+            $wordclean_tier="wordclean_".$tier;
+            echo $treated=$lineclean_tier($row->$tier)."\n\n";  // Use this function if you want to apply changes to the whole line
+            $bits=explode(' ', $treated);
+            $j=1;
+            foreach ($bits as $value)
+            {
+                //$value=$wordclean_tier($value);  // Use this function if you want to apply changes to the individual word entries
+                //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
+                $sql_g="update $words set $tier='$value' where utterance_id=$row->utterance_id and location=$j";
+                $result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");
+                $j=++$j;    
+            }
+            unset($tier);
+        } 
     }
 	unset($newutt);
 }

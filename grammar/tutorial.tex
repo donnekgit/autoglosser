@@ -1,0 +1,463 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{fancyvrb}
+\usepackage{gb4e}
+
+\renewcommand{\rmdefault}{phv}
+
+\setlength{\parindent}{0in}  % no paragraph indents
+\setlength{\parskip}{2ex}  % put a linespace between paragraphs
+
+%opening
+\title{Getting started with Constraint Grammar}
+\author{Kevin Donnelly\thanks{I am grateful to Tino Didriksen for comments on earlier drafts of this tutorial.}}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Once you have got CG installed, as described in Chapter 3 of the manual, you will want to start using it.  This note describes how to do this, using Welsh as the target language.  Bear in mind that it only scratches the surface of what is a very elegant and versatile system, about which I myself have a great deal still to learn.
+\end{abstract}
+
+\section{Preparing input text}
+
+The first step is to take each surface form in your text, and make a list of the possible lemmas (lexemes in CG terminology) it could derive from, along with relevant morphological tags.  For instance, in Welsh, the surface form \textbf{mae} could derive from the verb \textbf{bod} (\textit{be}), or it could derive from the noun \textbf{bae} (\textit{bay}).  Setting these facts out in the default CG format gives:
+\begin{Verbatim}[tabsize=4]
+"<mae>"
+	"bod" vfle 3s present :be:
+	"bae" n nm m s :bay:
+\end{Verbatim}
+
+The format lists the surface form in angle brackets and quotes, followed by a newline (\textbf{\textbackslash n}).  Then the ``readings'' (i.e. lemma + tags) are listed on separate lines - first a tab (\textbf{\textbackslash t}), then the lemma in quotes, and then any morphological tags you have assigned, and finally a newline (\textbf{\textbackslash n}).  In the above case, \textbf{mae} could be either an inflected verb (the third person singular, present tense of \textbf{bod}), or a noun (a nasally-mutated form of the masculine singular noun \textbf{bae}).  CG does not enjoin any specific morphological tags - you are free to choose whatever ones best suit your goals.  In the above sample, I have chosen to include an English gloss for the lemma as one of the tags, surrounded by colons to set it apart from the other tags.
+
+Each surface form in your text must be treated in the same way, so for the sentence:\\
+\textbf{Mae Brian yn gweithio yn ofnadwy o galed yn y swyddfa.}\\
+\textit{Brian is working terribly hard in the office.}\\
+you should end up with something like the following (which is referred to as \textit{cysample.txt} in the rest of the tutorial):
+
+\begin{Verbatim}[tabsize=4]
+"<Mae>"
+	"bod" vfle 3s present :be:
+	"bae" n nm m s :bay:
+"<Brian>"
+	"Brian" unk
+"<yn>"
+	"yn" part stative
+	"yn" p :in:
+"<gweithio>"
+	"gweithio" vinf :work:
+	"gweithio" vfle 3s subjunctive :work:
+"<yn>"
+	"yn" part stative
+	"yn" p :in:
+"<ofnadwy>"
+	"ofnadwy" a :terrible:
+"<o>"
+	"o" p :from:
+	"o" p :of:
+"<galed>"
+	"caled" a sm :hard:
+"<yn>"
+	"yn" part _stative
+	"yn" p :in:
+"<y>"
+	"y" part indrel
+	"y" t :the:
+"<swyddfa>"
+	"swyddfa" n f s :office:
+"<$.>"
+\end{Verbatim}
+
+Preparing your texts in this way can of course be done manually, but it is much easier to use an automated system of some kind to generate the possible lemmas and morphological tags for each surface form.  In the above case, the output is created by having a PHP script read each word of the text, look it up in a dictionary database table that includes the various morphological tags, and write everything out in the CG format.
+
+The tags I use here are self-explanatory: p=preposition, vinf=verb infinitive, a=adjective, f=feminine, t=definite article, c=conjunction, part=particle, indrel\-=indirect relative, unk=unknown.  The period or full-stop at the end of the sentence is given its own entry.
+
+CG passes along untouched any text that is in non-CG format - anything that will not parse will be left as-is, so you can mix (for instance) plain text or HTML with CG text.  We could have done this with the name \textbf{Brian} above, but this means that you lose context, since you cannot query this surface form.  So the script outputs unknown words in CG format, but with the default tag \textbf{unk}.
+
+\section{The first grammar rule}
+
+In the above text, you can see that there are several instances of ambiguous readings, which is what we hope CG will solve for us.  Apart from \textbf{mae} already mentioned, there are ambiguities with \textbf{yn} (stative particle or preposition), \textbf{gweithio} (infinitive or subjunctive), \textbf{o} (two possible meanings), and \textbf{y} (definite article or indirect relative particle).
+
+The next step is to write grammatical rules which CG will use to select one of these forms rather than the other, and provide us with at least partially-disambiguated text.  In a text-editor, tell CG first of all what delimiters will be used for sentence boundaries.  For this example text, we only need one -- a period or full-stop:
+\begin{Verbatim}[tabsize=4]
+delimiters = "<$.>";
+\end{Verbatim}
+Keywords such as DELIMITERS are usually capitalised, but I find the text easier to read if they are not.
+
+The next part of the grammar is for convenience - we list sets of tags to delineate particular grammatical features, which makes it easier to zero in on specific groups of morphological features.  In this example, most of our set definitions will do no more than expand the tags so that they are easier to read, as in the first 7 lines below.
+\begin{Verbatim}[tabsize=4]
+list noun = n;
+list inflected = vfle;
+list infinitive = vinf;
+list preposition = p;
+list particle = part;
+list adjective = a;
+list conjunction = c;
+list nmnoun = (n nm);
+\end{Verbatim}
+The last set definition, however, combines two tags to make a new set, that of nasally mutated nouns.  Note that when we use two or more tags like this to create a set we must put them in parentheses, which are optional for single tags.
+
+The format is: the keyword LIST, then the name of the set, then an equals sign, then the tags which will be included in the set, and finally a semicolon.  For instance, we could declare a set of third-person singular, present tense verbs with aspirate mutation as follows:
+\begin{Verbatim}[tabsize=4]
+list asp_3s_pres = (am 3s present);
+\end{Verbatim}
+
+Sets can also be manipulated by using the keyword SET.  So if we wish to define a new set of feminine nouns:, we can write the following declaration:
+\begin{Verbatim}[tabsize=4]
+set fem_noun = noun + (f);
+\end{Verbatim}
+adding the tag \textbf{f} to the previously-defined set \textbf{noun}.  By enclosing the tag in parentheses we create an on-the-fly inline set, which the \textbf{+} function can work with.  Alternatively, we could define a new set for feminine items:
+\begin{Verbatim}[tabsize=4]
+list feminine = f;
+\end{Verbatim}
+and then combine that with the noun set:
+\begin{Verbatim}[tabsize=4]
+set fem_noun = noun + feminine;
+\end{Verbatim} 
+
+The next part of the grammar is another keyword, SECTION.  Basically, this says that we are now starting the actual rules.  You can have multiple rule sections, each of which can be given an optional name, and they can be run sequentially, or in isolation, or in repeated groups.  For this example, we have only one section.
+
+Now come the actual grammar rules which will disambiguate examples such as \textbf{mae}.  We can say (with some slight simplification for this example) that nasally-mutated nouns will only ever occur after a few specific words like the preposition \textbf{yn} (\textit{in}), or the possessive \textbf{fy} (\textit{my}).  So we can write a rule that says, for this instance: `remove from consideration any reading relating to \textbf{bae} (\textit{bay}) if the preceding word is not a form of the lemmas \textbf{yn} or \textbf{fy}':
+\begin{Verbatim}[tabsize=4]
+remove ("bae") if (not -1 ("yn" "fy"));
+\end{Verbatim} 
+
+The rule uses the keyword REMOVE, and then specifies what should be removed, and under what conditions.  The keyword IF is optional, but improves readability.  The condition is placed in parentheses, and can be negated (\textbf{not}), or use numbers to refer to position: \textbf{--n} means \textit{n places to the left}, \textbf{n} means \textit{n places to the right}.  Note that lemmas must be quoted and placed in parentheses -- this is because rules only take sets as targets, and (as noted above) parentheses must be used to create \textit{ad hoc} sets.  Note also that, like the set definitions, the rule must end with a semicolon.
+
+We can use any tag attached to the word we want to remove; any of the following will also work:
+\begin{Verbatim}[tabsize=4]
+remove (:bay:) if (not -1 ("yn" "fy"));
+remove (n) if (not -1 ("yn" "fy"));
+remove (nm) if (not -1 ("yn" "fy"));
+\end{Verbatim} 
+
+However, although these will work in this context, they will also apply in other contexts, which may not be what we want -- the second in particular would be excessive, since it would remove all nouns unless they were preceded by \textbf{yn} or \textbf{fy}!  It may also be useful to generalise the rule that a nasally-mutated noun should only be expected after \textbf{yn} and \textbf{fy}.  So we will rewrite the rule to apply to such nouns specifically, using the set we defined earlier:
+\begin{Verbatim}[tabsize=4]
+remove nmnoun if (not -1 ("yn" "fy"));
+\end{Verbatim} 
+
+\section{Applying the grammar}
+
+We can now test whether the grammar works.  Save the grammar file as \textit{smallcygrm}, and in a terminal run:
+\begin{Verbatim}[tabsize=4]
+./cg3-autobin.pl -g smallcygrm -I cysample.txt
+\end{Verbatim}
+where \textit{cysample.txt} is the formatted text we looked at earlier. I have saved both the grammar and sample files in the same directory as the \textbf{vislcg3} executables, where I am running this command, but obviously you can choose another location.  The above command uses \textbf{cg3-autobin.pl} instead of \textbf{vislcg3} itself -- this Perl program is a wrapper that takes the same arguments and will compile the grammar to binary format if it has changed since last run. This enables the ease of development of text grammars to be combined with the speed of binary grammars for testing and use.  The switch \textbf{-g} specifies the grammar file to use, and the switch \textbf{-I} (capital i) specifies the speech file you wish to disambiguate.
+
+The output is  encouraging:
+\begin{Verbatim}[tabsize=4]
+"<Mae>"
+	"bod" vfle 3s present :be:
+Brian
+"<yn>"
+	"yn" part stative
+	"yn" p :in:
+"<gweithio>"
+	"gweithio" vinf :work:
+	"gweithio" vfle 3s subjunctive :work:
+"<yn>"
+	"yn" part stative
+	"yn" p :in:
+"<ofnadwy>"
+	"ofnadwy" a :terrible:
+"<o>"
+	"o" p :from:
+	"o" p :of:
+"<galed>"
+	"caled" a sm :hard:
+"<yn>"
+	"yn" part stative
+	"yn" p :in:
+"<y>"
+	"y" part indrel
+	"y" t :the:
+"<swyddfa>"
+	"swyddfa" n f s :office:
+"<$.>"
+\end{Verbatim}
+\textbf{Mae} has been correctly disambiguated to show derivation from the verb \textbf{bod} only.
+
+An alternative way of running the grammar is:
+\begin{Verbatim}[tabsize=4]
+cat cysample.txt | ./cg3-autobin.pl -g smallcygrm
+\end{Verbatim}
+
+Or you can pass the entire text to the program as one string, using \textbf{\textbackslash n} to represent newlines and \textbf{\textbackslash t} to represent tabs:
+
+\begin{BVerbatim}
+echo -e '"<Mae>"\n \t"bod" vfle 3s present :be:\n\t"bae" n nm m sg
+\nBrian\n"<yn>"\n\t"yn" part stative\n\t"yn" p :in:\n"<gweithio>"
+\n\t"gweithio" vinf :work:\n\t"gweithio" vfle 3s subjunctive 
+:work:\n"<yn>"\n\t"yn" part stative\n\t"yn" p :in:\n"<ofnadwy>"
+\n\t"ofnadwy" a :terrible:\n"<o>"\n\t"o" p :from:\n\t"o" p :of:
+\n"<galed>"\n\t"caled" a sm :hard:\n"<yn>"\n\t"yn" part stative
+\n\t"yn" p :in:\n"<y>"\n\t"y" part indrel\n\t"y" t :the:
+\n"<swyddfa>"\n\t"swyddfa" n f s :office:\n"<\$.>"\n' | 
+./cg3-autobin.pl -g cygrammar/smallcygrm
+\end{BVerbatim}
+
+Note that there should be no \textbf{\textbackslash t} before the surface form, and that the \textbf{\textbackslash n} and \textbf{\textbackslash t} should not be separated from (respectively) the surface form and the lemma.
+
+\section{Completing the rules}
+
+We can now write some more rules to deal with the other surface forms that need to be disambiguated.  Looking at \textbf{gweithio} first, the infinitive reading should be chosen, since it occurs after \textbf{yn} -- which in this case is a stative marker, and not the homonymous preposition \textbf{yn} (\textit{in}).  This fact can be reflected in this rule:
+\begin{Verbatim}[tabsize=4]
+select infinitive if (-1 ("yn" part));
+\end{Verbatim}
+Note that a directly-quoted lemma must be in quotes, and both it and any of its related tags must be in parentheses, so that they make an inline set, as noted earlier.  We are here using another keyword, SELECT, which specifies which reading should be preferred, unlike REMOVE, which specifies which reading to discard.
+
+We can use the same information to disambiguate \textbf{yn} -- where it occurs before an infinitive (like \textbf{gweithio}) or an adjective (like \textbf{caled}), it is a stative.  We can therefore write another rule:
+\begin{Verbatim}[tabsize=4]
+select ("yn" part) if ((1 infinitive) or (1 adjective));
+\end{Verbatim}
+
+If we save \textit{smallcygrm} and run the grammar again, the output now looks much better:
+\begin{Verbatim}[tabsize=4]
+"<mae>"
+	"bod" vfle 3s present :be:
+Brian
+"<yn>"
+	"yn" part stative
+"<gweithio>"
+	"gweithio" vinf :work:
+"<yn>"
+	"yn" part stative
+"<ofnadwy>"
+	"ofnadwy" a :terrible:
+"<o>"
+	"o" p :from:
+	"o" p :of:
+"<galed>"
+	"caled" a sm :hard:
+"<yn>"
+	"yn" part stative
+	"yn" p :in:
+"<y>"
+	"y" part indrel
+	"y" t :the:
+"<swyddfa>"
+	"swyddfa" n f s :office:
+"<$.>"
+\end{Verbatim}
+Four of the seven original ambiguous surface forms have now been resolved.
+
+The surface form \textbf{yn} is still ambiguous in one instance, where it appears before the definite article \textbf{y} (\textit{the}).  In this location it will never be a stative marker, so let's reflect that in another rule:
+\begin{Verbatim}[tabsize=4]
+select ("yn" p) if (1 (t));
+\end{Verbatim}
+I am here using the preposition tag in the rule, but you could use any tag; for instance,
+\begin{Verbatim}[tabsize=4]
+select ("yn" :in:) if (1 (t));
+\end{Verbatim}
+will work just as well.  For consistency, though, it is probably best to use meaning tags only for cases where senses need to be distinguished (see \textbf{o} below).
+
+Let's deal with \textbf{y} too.  It will only ever be the indirect relative particle when it precedes an inflected verb, so this rule encapsulates that:
+\begin{Verbatim}[tabsize=4]
+select ("y" t) if (not 1 inflected);
+\end{Verbatim}
+Note again the use of \textbf{1} to indicate ``next word to the right'' -- the condition here therefore reads ``if the next word to the right is not an inflected verb''.
+
+Only one item remains to be dealt with -- the alternative senses of the preposition \textbf{o} (\textit{of, from}).  Preceding an adjective, the sense is much more likely to be \textit{of}, though that condition does not rule out \textit{from} entirely.  So our initial rule here might be:
+\begin{Verbatim}[tabsize=4]
+select ("o" :of:) if (1 adjective);
+\end{Verbatim}
+This will work, but leaves something to be desired -- it is too broad, and may apply when the real sense is \textit{from}.  It is in fact better to make the rule narrower, so that it applies only to this context -- if it applies more widely, it may create difficulties later which will cost time and effort to debug.  So we will rewrite the rule to make it apply only in those cases where we have a prequalifier -- \textbf{ofnadwy} (\textit{terribly}), \textbf{andros} (\textit{really}), etc.
+
+First, we add a new set definition (using quotes because we are referring to lemmas and not tags):
+\begin{Verbatim}[tabsize=4]
+list prequal = "ofnadwy" "andros";
+\end{Verbatim}
+We can, of course, add more examples as we come across them.  Note that since we are referring to lemmas, we need to surround them with quotes.
+
+We can then rewrite the rule to refer to this new set, saying that the \textit{of} sense should be chosen when \textbf{o} is preceded by a prequalifier and followed by an adjective:
+\begin{Verbatim}[tabsize=4]
+select ("o" :of:) if (-1 prequal)(1 adjective);
+\end{Verbatim}
+
+If we run the grammar again, the output is perfect:
+\begin{Verbatim}[tabsize=4]
+"<Mae>"
+	"bod" vfle 3s present :be:
+Brian
+"<yn>"
+	"yn" part stative
+"<gweithio>"
+	"gweithio" vinf :work:
+"<yn>"
+	"yn" part stative
+"<ofnadwy>"
+	"ofnadwy" a :terrible:
+"<o>"
+	"o" p :of:
+"<galed>"
+	"caled" a sm :hard:
+"<yn>"
+	"yn" p :in:
+"<y>"
+	"y" t :the:
+"<swyddfa>"
+	"swyddfa" n f s :office:
+"<$.>"
+\end{Verbatim}
+
+The final grammar looks like this:
+\begin{Verbatim}
+DELIMITERS = "<$.>";
+
+LIST noun = n;
+LIST inflected = vfle;
+LIST infinitive = vinf;
+LIST preposition = p;
+LIST particle = part;
+LIST adjective = a;
+LIST conjunction = c;
+LIST nmnoun = (n nm);
+LIST prequal = "ofnadwy" "andros";
+
+SECTION
+
+remove (nm) if (not -1 ("yn" "fy"));
+select infinitive if (-1 ("yn" part));
+select ("yn" part) if ((1 infinitive) or (1 adjective));
+select ("yn" p) if (1 (t));
+select ("y" t) if (not 1 inflected);
+select ("o" :of:) if (-1 prequal)(1 adjective);
+\end{Verbatim}
+
+\section{Tracing which rules were applied}
+
+It can be useful to see what rules were applied to a particular piece of text.  To enable this, use the \textbf{--trace} switch:
+\begin{Verbatim}
+./cg3-autobin.pl --trace -g smallcygrm -I cysample.txt 
+\end{Verbatim}
+
+This gives the following output:
+\begin{Verbatim}[tabsize=4]
+"<Mae>"
+        "bod" vfle 3s present :be:
+;       "bae" n nm m s :bay: REMOVE:17
+Brian
+"<yn>"
+        "yn" part stative SELECT:25
+;       "yn" p :in: SELECT:25
+"<gweithio>"
+        "gweithio" vinf :work: SELECT:21
+;       "gweithio" vfle 3s subjunctive :work: SELECT:21
+"<yn>"
+        "yn" part stative SELECT:25
+;       "yn" p :in: SELECT:25
+"<ofnadwy>"
+        "ofnadwy" a :terrible:
+"<o>"
+        "o" p :of: SELECT:31
+;       "o" p :from: SELECT:31
+"<galed>"
+        "caled" a sm :hard:
+"<yn>"
+        "yn" p :in: SELECT:27
+;       "yn" part stative SELECT:27
+"<y>"
+        "y" t :the: SELECT:29
+;       "y" part indrel SELECT:29
+"<swyddfa>"
+        "swyddfa" n f s :office:
+"<$.>"
+\end{Verbatim}
+Each reading line shows the line-number of the grammar rule applied, and a semicolon is placed at the beginning of readings that were struck out.  This can be very useful when trying to debug your grammar, and see which rules are firing, and when.
+
+To avoid having to refer constantly to the grammar file, you can name the rules by adding a colon and then a chosen name after the rule's keyword.  For instance, we can rewrite the \textbf{mae} rule to read:
+\begin{Verbatim}[tabsize=4]
+remove:DeleteNmNoun nmnoun if (not -1 ("yn" "fy"));
+\end{Verbatim}
+
+If we add names to all the rules, and then use another switch to see only surviving readings after the rules have been applied:
+\begin{Verbatim}[tabsize=4]
+./cg3-autobin.pl --trace-no-removed -g smallcygrm -I cysample.txt
+\end{Verbatim}
+we get the following output:
+\begin{Verbatim}[tabsize=4]
+"<Mae>"
+        "bod" vfle 3s present :be:
+Brian
+"<yn>"
+        "yn" part stative SELECT:25:ChooseStativeYn
+"<gweithio>"
+        "gweithio" vinf :work: SELECT:21:ChooseInfin
+"<yn>"
+        "yn" part stative SELECT:25:ChooseStativeYn
+"<ofnadwy>"
+        "ofnadwy" a :terrible:
+"<o>"
+        "o" p :of: SELECT:31:ChooseO_Of
+"<galed>"
+        "caled" a sm :hard:
+"<yn>"
+        "yn" p :in: SELECT:27:ChoosePrepYn
+"<y>"
+        "y" t :the: SELECT:29:ChooseArtY
+"<swyddfa>"
+        "swyddfa" n f s :office:
+"<$.>"
+\end{Verbatim}
+Note that the \textbf{--trace-no-removed} switch, although providing output that is easier to read, has the drawback that REMOVE rules are not shown, because they are attached to the reading that is removed.
+
+
+\section{A note on rule coverage}
+
+The rules in the CG grammar are strictly applied in the order they occur in in the grammar file, but they are re-run multiple times. So if a rule was unable to do anything first time around, it may be able to do something on subsequent iterations due to later rules having cleared the way during previous iteration.  Sections are re-run until no rule fires, then the next section is added to the pool and run until nothing fires;  this is repeated until all the sections or ambiguities are exhausted. 
+
+You may see instances where the output differs depending on the position of a specific rule.  In my (limited!) experience, this behaviour is almost always due to the fact that the rule is not defined tightly enough.  If you rewrite it more strictly, it should have the desired effect no matter where it comes in the grammar file.  If you then find that several rules are covering the same ground, you can combine them into one -- in other words, it is probably better to go bottom-up than top-down.
+
+\section{A note on parentheses}
+
+Parentheses are widely used in CG, but they have different meanings in different contexts:
+\begin{itemize}
+\item With the keyword LIST, they create composite tags:\\
+\verb|list nmnoun = (n nm);|\\
+will create a set of nasally-mutated nouns.
+\item With the keyword SET, they create on-the-fly inline sets:\\
+\verb|set fem_noun = noun + (f);|\\
+where the \textbf{f} tag is converted to a set that can then be combined with the \textit{noun} set.
+\item In the target section of a rule (the bit you want the rule to act on), parentheses again create a set:\\
+\verb|select ("yn" p) if (1 (t));|\\
+where the target is a set consisting of readings with surface form \textbf{yn} and tag \textbf{p}.
+\item In the condition section of a rule (the bit after the \textbf{if}), they create an on-the-fly template:\\
+\verb|select ("yn" part) if ((1 infinitive) or (1 adjective));|\\
+See Chapter 14 of the manual for more information on this.
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -33,68 +33,51 @@ $sql="select * from $words order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$mainlang=$row->mainlang;
-	//echo $row->mainlang."\n";
+	$surface=$row->surface;
+	//echo $row->surface."\n";
 
-	$stream="\"<".$mainlang.">\"\n";
+	$stream="\"<".$surface.">\"\n";
 	echo $stream;
 	fwrite($fp, $stream);
 
-	if (in_array($row->langid, $cylg))
-	// The language id variables are set in the includes/fns.php file
+	if (in_array($row->langid, $cylg))  // Look up the Welsh dictionary.
+	// The language id variables are set at the top of the includes/fns.php file
 	{
         $entry="";
 
-		//echo $row->utterance_id.": ".$row->location.": ".$mainlang."\n";
-		$sql_dict="select * from cylist where surface='$mainlang'";
-		$result_dict=pg_query($db_handle,$sql_dict) or die("Can't get the items");
+		//echo $row->utterance_id.": ".$row->location.": ".$surface."\n";
+		$sql_cy="select * from cylist where surface='$surface'";
+		$result_cy=pg_query($db_handle,$sql_cy) or die("Can't get the items");
 
-		if (pg_num_rows($result_dict)>0)
+		if (pg_num_rows($result_cy)>0)  // if there is an entry for the word in the dictionary
 		{
-			while ($row_dict=pg_fetch_object($result_dict))
+			while ($row_cy=pg_fetch_object($result_cy))
 			{
-				$lemma="\t\"".$row_dict->lemma."\" ";
-				$pos=$row_dict->pos." ";
-				$mutation=($row_dict->mutation =='') ? "" : $row_dict->mutation." ";
-				$gender=($row_dict->gender =='') ? "" : $row_dict->gender." ";
-				$num=($row_dict->num =='') ? "" : $row_dict->num." ";
-				$tense=($row_dict->tense =='') ? "" : $row_dict->tense." ";
-				$reg=($row_dict->reg =='') ? "" : $row_dict->reg." ";
-				$enlemma=":".$row_dict->enlemma.": ";
-				$id=$row_dict->id."\n";
+				$lemma="\t\"".$row_cy->lemma."\" ";
+				$pos=$row_cy->pos." ";
+				$mutation=($row_cy->mutation =='') ? "" : $row_cy->mutation." ";  // if there is no entry in the mutation field, let $mutation be empty; if there is an entry, let $mutation be that plus a space
+				$gender=($row_cy->gender =='') ? "" : $row_cy->gender." ";
+				$num=($row_cy->num =='') ? "" : $row_cy->num." ";
+				$tense=($row_cy->tense =='') ? "" : $row_cy->tense." ";
+				$reg=($row_cy->reg =='') ? "" : $row_cy->reg." ";
+				$enlemma=":".$row_cy->enlemma.": ";
+				$id=$row_cy->id."\n";
 
-				/*echo "pos: ".$pos."\n";
-				echo "lemma: ".$lemma."\n";
-				echo "mutation: ".$mutation."\n";
-				echo "gender: ".$gender."\n";
-				echo "num: ".$num."\n";
-				echo "reg: ".$reg."\n";
-				echo "tense: ".$tense."\n";
-				echo "enlemma: ".$enlemma."\n";*/
-
-				$entry.=pg_escape_string($lemma."cy ".$pos.$mutation.$gender.$num.$tense.$reg.$enlemma.$id);
-				//$entry=preg_replace('/-=/','=',$entry);
-				//$entry=preg_replace('/\^$/','',$entry);
-				//echo $entry."\n";
-				//echo "=============\n";
-				/*
-				$sql_up="update stammers4_aligned set autogloss='$entry', autoglossloc=$row->location where utterance_id=$row->utterance_id and location=$row->location";
-				$result_up=pg_query($db_handle,$sql_up) or die("Can't update the items");
-				*/
+				$entry.=pg_escape_string($lemma."[cy] ".$pos.$mutation.$gender.$num.$tense.$reg.$enlemma.$id);  // glue together all the fields for the word
 			}
 		}
-		else
+		else  // if there is no entry for the word in the dictionary
 		{
-			$tag=(preg_match("/^[A-Z]/", $mainlang)) ? "name" : "unk";
-			$entry="\t\"".$mainlang."\" "."cy ".$tag."\n";
+			$tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";
+			$entry="\t\"".$surface."\" "."[cy] ".$tag."\n";
 		}
 		echo $entry;
 	}
-	elseif (in_array($row->langid, $enlg))
+	elseif (in_array($row->langid, $enlg))  // Look up the English dictionary.
 	{
         $entry="";
 
-		$sql_en="select * from enlist where surface='$mainlang'";
+		$sql_en="select * from enlist where surface='$surface'";
 		$result_en=pg_query($db_handle,$sql_en) or die("Can't get the items");
 
 		if (pg_num_rows($result_en)>0)
@@ -103,54 +86,30 @@ while ($row=pg_fetch_object($result))
 			{
 				$surface="\t\"".$row_en->surface."\" ";
 				$pos=$row_en->pos."\n";
-				$entry.=pg_escape_string($surface."en ".$pos);
+
+				$entry.=pg_escape_string($surface."[en] ".$pos);
 			}
 		}
 		else
 		{
-			$tag=(preg_match("/^[A-Z]/", $mainlang)) ? "name" : "unk";
-			$entry="\t\"".$mainlang."\" "."en ".$tag."\n";
+			$tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";
+			$entry="\t\"".$surface."\" "."[en] ".$tag."\n";
 		}
 		echo $entry;
 	}
-	elseif (in_array($row->langid, $eslg))
+	elseif (in_array($row->langid, $eslg))  // Look up the Spanish dictionary.
 	{
-        $entry="";
-
-		$sql_es="select * from eslist where surface='$mainlang'";
-		$result_es=pg_query($db_handle,$sql_es) or die("Can't get the items");
-
-		if (pg_num_rows($result_es)>0)
-		{
-			while ($row_es=pg_fetch_object($result_es))
-			{
-				$lemma="\t\"".$row_es->lemma."\" ";
-				$pos=$row_es->pos." ";
-                $gender=($row_es->gender =='') ? "" : $row_es->gender." ";
-                $number=($row_es->number =='') ? "" : $row_es->number." ";
-                $tense=($row_es->tense =='') ? "" : $row_es->tense." ";
-                $notes=($row_es->notes =='') ? "" : $row_es->notes." ";
-                $enlemma=":".$row_es->enlemma.": ";
-                $id=$row_es->id."\n";
-                $entry.=pg_escape_string($lemma."es ".$pos.$gender.$number.$tense.$notes.$enlemma.$id);
-			}
-		}
-		else
-		{
-			$tag=(preg_match("/^[A-Z]/", $mainlang)) ? "name" : "unk";
-			$entry="\t\"".$mainlang."\" "."es ".$tag."\n";
-		}
-		echo $entry;
+        include("es_lookup.php");
 	}
 	elseif ($row->langid=='999')
 	{
         $entry="";
-		//$entry="\"<$".$mainlang.">\"\n";
+		//$entry="\"<$".$surface.">\"\n";
 		//echo $entry;
 	}
 
 	fwrite($fp, $entry);
-
+    unset($entry);
 }
 
 fclose($fp);

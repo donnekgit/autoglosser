@@ -28,7 +28,7 @@ CREATE TABLE $utterances (
     filename character varying(50),
     speaker character varying(10),
     surface text,
-    $sqlfields,
+    $sqlfields
     comment text,
     durbegin integer,
     durend integer,

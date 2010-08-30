@@ -257,6 +257,23 @@ drop table eslist
 alter table dedup rename to eslist
 Delete the old id field and insert a new one - set it as PK.  Delete the Apertium pos field, and change mypos to pos.  Add indexes on all the fields except register.
 
+Further changes to the Spanish dictionary
+remove all reflexive lemmas - only the imperative and infinitive forms are distinct from non-reflexives, and they are handled by the segmentation
+delete from eslist where lemma~'se$' and pos='v'
+combine 1s and 3s imperf:
+select * from eslist where number~'(1s|3s)' and tense='imperf' order by surface
+update eslist set number='13s' where number='1s' and tense='imperf'
+delete from eslist where number='3s' and tense='imperf'
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -272,17 +289,6 @@ php rewrite_utterances.php herring7
 
 
 
-
-
-
-Refactored Apertium Spanish dictionary:
-removed names
-removed duplicates
-tidied up determiners/pronouns a bit
-removed pre-clitic verbforms
-added them as separate entries to cover orthographical issues
-132992 entries
-sample code to handle segmentation and tagging of verbforms with enclitic pronouns
 
 
 

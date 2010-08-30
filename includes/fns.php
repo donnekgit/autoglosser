@@ -21,6 +21,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 $eslg=array("3", "", "es");
 $enlg=array("2", "en");
 $cylg=array("1", "cy");
+// TODO: Need to add a way to handle 0.
 
 function get_filename()
 // Turn the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
@@ -44,7 +45,7 @@ function get_filename()
 	$utterances=strtolower($filename."_cgutterances");
 	$words=strtolower($filename."_cgwords");
 	$cgfinished=strtolower($filename."_cgfinished");
-	exec("mkdir -p outputs/$filename");  // -p suppresses the error message given when the dir already exists
+	exec("mkdir -p outputs/$filename");  // -p suppresses the error message given when the dir already exists, and also means it won't be created if it already exists
 
 	return array($chafile, $filename, $utterances, $words, $cgfinished);
 }
@@ -101,11 +102,17 @@ function tier_fields($filename, $format)
 {
     $sqlfields="";
     $lines=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_SKIP_EMPTY_LINES);
-    foreach ($lines as $line)
-    {
-        $sqlfields .= trim($line)." ".$format.", ";
+    if (count($lines)>1)
+    {  
+        foreach ($lines as $line)
+        {
+            $sqlfields .= trim($line)." ".$format.", ";
+        }
     }
-    $sqlfields=substr($sqlfields, 0, -2);
+    else
+    {
+        $sqlfields="";
+    }
 
     return $sqlfields;
 }
@@ -210,7 +217,34 @@ function wordclean_mor($text)
     return $text;
 }
 
-include("tierfns.php");
+function segment_clitics($text)
+// segment the clitic pronouns from the verbform
+{
+    $text=preg_replace("/l(a|e|o)(s?)$/u", "#l$1$2", $text);
+    $text=preg_replace("/(me|te|se|nos)$/u", "#$1", $text);
+    $text=preg_replace("/(?<!(l|n))os$/u", "#os", $text);
+    $text=preg_replace("/(me|te|se|nos|os)(?=#l(a|e|o)s?)/u", "@$1", $text);
+    $text=preg_replace("/(te|se|os)(?=#(me|nos))/u", "@$1", $text); 
+    $text=preg_replace("/(se)(?=#(te|os))/u", "@$1", $text);
+    return $text;
+}
+
+function clitic_pos($text)
+// rewrite the clitic pronouns to give POS information
+{
+    $text=preg_replace("/la(?!s)/u", "prn.f.3s", $text);
+    $text=preg_replace("/las/u", "prn.f.3p", $text);
+    $text=preg_replace("/le(?!s)/u", "prn.mf.3s", $text);
+    $text=preg_replace("/les/u", "prn.mf.3p", $text);
+    $text=preg_replace("/lo(?!s)/u", "prn.m.3s", $text);
+    $text=preg_replace("/los/u", "prn.m.3p", $text);
+    $text=preg_replace("/me/u", "prn.mf.1s", $text);
+    $text=preg_replace("/te/u", "prn.mf.2s", $text);
+    $text=preg_replace("/se/u", "prn.mf.3s", $text);
+    $text=preg_replace("/nos/u", "prn.mf.1p", $text);
+    $text=preg_replace("/os/u", "prn.mf.2p", $text);
+    return $text;
+}
 
 ?>
 

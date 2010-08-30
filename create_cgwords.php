@@ -11,7 +11,7 @@ CREATE TABLE $words (
     location integer,
     surface character varying(100),
     auto character varying(250),
-    $sqlfields,
+    $sqlfields
     lemma character varying(100),
     tags character varying(250),
     speaker character varying(10),
@@ -25,5 +25,7 @@ $sql_pkey = "
 ALTER TABLE ONLY ".$words." ADD CONSTRAINT ".$words."_pk PRIMARY KEY (word_id);
 ";
 $result_pkey=pg_query($db_handle, $sql_pkey);
+
+include("includes/cleanfns.php");  // Generate dummy line/wordclean functions for any sub-tiers.
 
 ?>
