@@ -1,6 +1,6 @@
 Glossing is time-consuming
 and error-prone
-and inconsistent
+and possibly inconsistent
 
 For small corpora, this is not much of a problem.
 
@@ -57,6 +57,8 @@ You could collect all the words, analyse them separately, and then format them a
 This is where it is useful to have existing material you can re-use, hence the importance of open licenses, otherwise you have to reinvent the wheel (and if you do, please release it under an open license, so that others don't have to do the same thing).
 
 You might say: it would be quicker to do the glossing by hand.
+Doesn't make mistakes - consistent tagging, no typos.
+Don't have to type out the same tag multiple times.
 But this will help build up an ecosystem of tools and resources.
 Existing system can be used virtually as is for many languages.
 
@@ -65,7 +67,6 @@ Uses constraint grammar
 Rule-system linguistically elegant and computationally efficient
 Rules are very simple and easy to grasp
 We are simply ruling out things here - we're not trying to do a full syntactic analysis (though that is possible)
-Backtracking and hesitations cause problems - thinking about some way of marking these.
 Incremental - can check progress easily.
 
 Writing out
@@ -76,7 +77,6 @@ Accuracy against Welsh manual and Spanish MOR/POST; comparison with SPLLOC file 
 Speed
 
 Future
-Add syntactic tags, so that syntactic analysis is easier.
 Add to queries in web-browser.
 Do more efficient statistical analysis.
 

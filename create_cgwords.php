@@ -12,8 +12,6 @@ CREATE TABLE $words (
     surface character varying(100),
     auto character varying(250),
     $sqlfields
-    lemma character varying(100),
-    tags character varying(250),
     speaker character varying(10),
     langid character varying(10),
 	filename character varying(50)

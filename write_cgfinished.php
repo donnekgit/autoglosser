@@ -18,7 +18,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 //Output table: $filename_cgfinished
-//Output file: $filename_cgout.txt
 
 if (empty($filename))
 {
@@ -30,72 +29,42 @@ if (empty($filename))
 echo "*\n*\nCreating the $cgfinished table\n*\n*\n";
 include("create_cgfinished.php");
 
-$fp = fopen("outputs/".$filename."/".$filename."_cgout.txt", "w") or die("Can't create the file");
-
-$lines=file("outputs/".$filename."/".$filename."_cg_applied.txt");
-$utt=1;
-$loc=1;  
+$lines=file("outputs/".$filename."/".$filename."_cg_applied.txt");  // Open input file.
      
 foreach ($lines as $line_num => $line)
 {
- 	// Lines with surface forms
-    if (preg_match("/^\"</", $line))
+    if (preg_match("/^\t\"/", $line))  // We only need the lines with the lexeme.
     {
-        $surface=preg_replace("/(\"|<|>)/", "", $line);
-        $surface=trim(pg_escape_string($surface));
+        preg_match("/{(?P<utt>\d+),(?P<loc>\d+)}/", $line, $place);  // Get the place (utterance, location).
+        $utt=$place[utt];
+//         echo $utt."\n";
+        $loc=$place[loc];
+        echo $utt.",".$loc."\n";
 
-		$surfaceline="(".$utt.": ".$loc.") ".$surface."\n";
-		echo $surfaceline;
-		fwrite($fp, $surfaceline);
+        preg_match("/\[(?P<dictid>\d+)\]/", $line, $dict);  // Get the dictionary entry by id.
+        $dictid=$dict[dictid];
+//         echo $dictid."\n";
 
-        $sql="insert into $cgfinished (utterance_id, location, surface) values ('$utt', '$loc', '$surface')";
-        $result=pg_query($db_handle,$sql) or die("Can't insert the items");
+        preg_match("/\+ (?P<clitics>.+)$/", $line, $enclitic);  // Get any clitics.
+        $clitics=$enclitic[clitics];
+//         echo $clitics."\n";
 
-		$loc++;
+        if (isset($dictid))  // If there was a dictionary entry, look it up and copy the tags into $cgfinished
+        {
+            $sql_f="select * from eslist where id=$dictid";
+            $result_f=pg_query($db_handle,$sql_f) or die("Can't insert the items");
+            while ($row_f=pg_fetch_object($result_f))
+            {
+                $sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, clitics) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$clitics')";
+                $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
+            }
+        }
+        else  // If there was no dictionary entry, mark it as unknown.
+        {
+            $sql_u="insert into $cgfinished (utterance_id, location, lemma) values('$utt', '$loc', 'unk')";
+            $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
+        }
     }
-    
-	// Lines with lemmas
-    elseif (preg_match("/^\t\"/", $line))
-    {
-		$lemmaline=preg_replace("/^\"/", "", $line);
-		$lemmaparts=preg_split('/\"\s/', $lemmaline);
-        $lemma=trim(pg_escape_string(preg_replace("/\"/", "", $lemmaparts[0])));
-        $lemmarest=preg_split('/:/', $lemmaparts[1]);
-		$pos=trim(pg_escape_string($lemmarest[0]));
-		$enlemma=($lemmarest[1]=='') ? $enlemma=$lemma :  $enlemma=trim(pg_escape_string($lemmarest[1]));
-		$tags=trim(pg_escape_string(preg_replace("/\s/", "_", $enlemma).".".strtoupper(preg_replace("/\s/", ".", $pos))));
-
-		$sql_a="select * from $cgfinished where id=currval('".$cgfinished."_id_seq')";
-		$result_a=pg_query($db_handle,$sql_a) or die("Can't get the items");
-		while ($row_a=pg_fetch_object($result_a))
-		{
-			if (isset($row_a->tags))
-			{
-				$tags=$row_a->tags."/".$tags;
-			}
-		}
-
-		$sql="update $cgfinished set lemma='$lemma', tags='$tags' where id=currval('".$cgfinished."_id_seq')";
-		$result=pg_query($db_handle,$sql) or die("Can't insert the items");
-		
-		$lemmaline=$lemma.": ".$tags."\n";
-		echo $lemmaline;
-		fwrite($fp, $lemmaline);
-    }
-    
-    // Blank lines
-    else
-    {
-		$spacer="====================\n";
-		echo $spacer;
-		fwrite($fp, $spacer);
-		$utt++;
-		$loc=1;
-    }
-    
-	//unset($durbegin, $durend, $duration); 
 }
-
-fclose($fp);
 
 ?>

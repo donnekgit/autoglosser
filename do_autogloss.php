@@ -48,6 +48,9 @@ include("apply_cg.php");
 echo "*\n*\nWriting disambiguated forms to $cgfinished\n*\n*\n";
 include("write_cgfinished.php");
 
+echo "*\n*\nCopying POS tags to $words\n*\n*\n";
+include("join_tags.php");
+
 echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
 include("write_cgautogloss.php");
 */

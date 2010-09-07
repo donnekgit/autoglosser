@@ -21,6 +21,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 $eslg=array("3", "", "es");
 $enlg=array("2", "en");
 $cylg=array("1", "cy");
+$zerolg=array("0");
 // TODO: Need to add a way to handle 0.
 
 function get_filename()
@@ -102,7 +103,7 @@ function tier_fields($filename, $format)
 {
     $sqlfields="";
     $lines=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_SKIP_EMPTY_LINES);
-    if (count($lines)>1)
+    if (count($lines)>1)  // CHECK - should this not be 0?
     {  
         foreach ($lines as $line)
         {
