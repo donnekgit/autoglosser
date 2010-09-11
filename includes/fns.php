@@ -17,12 +17,11 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.
-$eslg=array("3", "", "es");
-$enlg=array("2", "en");
-$cylg=array("1", "cy");
+// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.
 $zerolg=array("0");
-// TODO: Need to add a way to handle 0.
+$cylg=array("1", "cy", "");
+$enlg=array("2", "en");
+$eslg=array("3", "es");
 
 function get_filename()
 // Turn the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
@@ -219,7 +218,7 @@ function wordclean_mor($text)
 }
 
 function segment_clitics($text)
-// segment the clitic pronouns from the verbform
+// segment the clitic pronouns from the verbform in Spanish
 {
     $text=preg_replace("/l(a|e|o)(s?)$/u", "#l$1$2", $text);
     $text=preg_replace("/(me|te|se|nos)$/u", "#$1", $text);
@@ -227,11 +226,12 @@ function segment_clitics($text)
     $text=preg_replace("/(me|te|se|nos|os)(?=#l(a|e|o)s?)/u", "@$1", $text);
     $text=preg_replace("/(te|se|os)(?=#(me|nos))/u", "@$1", $text); 
     $text=preg_replace("/(se)(?=#(te|os))/u", "@$1", $text);
+
     return $text;
 }
 
 function clitic_pos($text)
-// rewrite the clitic pronouns to give POS information
+// rewrite the Spanish clitic pronouns to give POS information
 {
     $text=preg_replace("/la(?!s)/u", "prn.f.3s", $text);
     $text=preg_replace("/las/u", "prn.f.3p", $text);
@@ -244,7 +244,133 @@ function clitic_pos($text)
     $text=preg_replace("/se/u", "prn.mf.3s", $text);
     $text=preg_replace("/nos/u", "prn.mf.1p", $text);
     $text=preg_replace("/os/u", "prn.mf.2p", $text);
+
     return $text;
+}
+
+function pluralise($text)
+// Generate the English plural of a word.  This does not catch every plural, but it should get around 90% of them.  Individual words can be added along the lines of the first few lines, but if they are one-of-a-kinds they are unlikely to be amenable to the pluraliser anyway.  Where the plural does not end in -s, we add # as an "end-of-word" marker to prevent the default "s" being added - it is stripped by the last rule.
+{
+    $text=preg_replace("/matrix$/", "matrices", $text); // matrix
+    $text=preg_replace("/(ind|vert)ex$/", "$1ices", $text); // index, vertex
+    $text=preg_replace("/(potat|tomat)o$/", "$1oes", $text); // potato, tomato
+    $text=preg_replace("/(m|l)ouse$/", "$1ice#", $text); // mouse, louse
+    $text=preg_replace("/man$/", "men#", $text); // *man
+    $text=preg_replace("/person$/", "people#", $text); // *person
+    $text=preg_replace("/child$/", "children#", $text); // child
+    $text=preg_replace("/genus$/", "genera#", $text); // genus
+    $text=preg_replace("/money$/", "monies#", $text); // money
+    $text=preg_replace("/(stimul|radi)us$/", "$1i#", $text); // stimulus, radius
+    $text=preg_replace("/us$/", "$1uses", $text); // bus, virus, octopus, status, corpus
+    $text=preg_replace("/um$/", "a#", $text); // datum, medium, maximum
+    $text=preg_replace("/sh$/", "shes", $text); // ash
+    $text=preg_replace("/ch$/", "ches", $text); // switch
+    $text=preg_replace("/x$/", "xes", $text); // fox
+    $text=preg_replace("/ece$/", "eces", $text); // piece, fleece
+    $text=preg_replace("/([^e])se$/", "$1ses", $text); // grouse, crease
+    $text=preg_replace("/ese$/", "ese#", $text); // Pekinese
+    $text=preg_replace("/ss$/", "sses", $text); // process
+    $text=preg_replace("/as$/", "ases", $text); // alias
+    $text=preg_replace("/is$/", "es", $text); // basis, axis, crisis
+    $text=preg_replace("/(?<=[^ae])y$/", "ies", $text); //ability, query, controversy, energy, etc
+    $text=preg_replace("/f$/", "ves", $text); // hoof, loaf, turf, dwarf
+    $text=preg_replace("/([^s|#])$/", "$1s", $text); // default (except where the word already ends in s)
+    $text=preg_replace("/#$/", "", $text); // strip the "end-of-word" character
+
+    return $text;
+}
+
+function de_soft($text)
+// Remove Welsh soft mutations so that the demutated word can be looked up.  Note that the order of these regex replacements is significant - letters in the regex must be placed before their occurrence as replacements.
+{
+    $text=preg_replace("/^g/", "c", $text);
+    $text=preg_replace("/^G/", "C", $text);
+    $text=preg_replace("/^l/", "ll", $text);
+    $text=preg_replace("/^L/", "Ll", $text);
+    $text=preg_replace("/^r/", "rh", $text);
+    $text=preg_replace("/^R/", "Rh", $text);
+    $text=preg_replace("/^l([^l])/", "gl", $text);
+    $text=preg_replace("/^L([^l])/", "Gl", $text);
+    $text=preg_replace("/^r([^h])/", "gr", $text);
+    $text=preg_replace("/^R([^h])/", "Gr", $text);
+    $text=preg_replace("/^([aeoiuwyïŵŷ])/", "g$1", $text);
+    $text=preg_replace("/^([AEOIUWYÏŴŶ])/", "G$1", $text);
+    $text=preg_replace("/^f/", "[mb]", $text);
+    $text=preg_replace("/^F/", "[MB]", $text);
+    $text=preg_replace("/^b/", "p", $text);
+    $text=preg_replace("/^B/", "P", $text);
+    $text=preg_replace("/^d([^d])/", "t$1", $text);
+    $text=preg_replace("/^D([^d])/", "T$1", $text);
+    $text=preg_replace("/^dd/", "d", $text);
+    $text=preg_replace("/^Dd/", "D", $text);
+
+    return $text;
+}
+
+function de_nas($text)
+// Remove Welsh nasal mutations so that the demutated word can be looked up.
+{
+    $text=preg_replace("/^ngh/", "c", $text);
+    $text=preg_replace("/^Ngh/", "C", $text);
+    $text=preg_replace("/^mh/", "p", $text);
+    $text=preg_replace("/^Mh/", "P", $text);
+    $text=preg_replace("/^nh/", "t", $text);
+    $text=preg_replace("/^Nh/", "T", $text);
+    $text=preg_replace("/^ng/", "g", $text);
+    $text=preg_replace("/^Ng/", "G", $text);
+    $text=preg_replace("/^m/", "b", $text);
+    $text=preg_replace("/^M/", "B", $text);
+    $text=preg_replace("/^n/", "d", $text);
+    $text=preg_replace("/^N/", "D", $text);
+    
+    return $text;
+}
+
+function de_asp($text)
+// Remove Welsh aspirate mutations so that the demutated word can be looked up.
+{
+    $text=preg_replace("/^ch/", "c", $text);
+    $text=preg_replace("/^Ch/", "C", $text);
+    $text=preg_replace("/^ph/", "p", $text);
+    $text=preg_replace("/^Ph/", "P", $text);
+    $text=preg_replace("/^th/", "t", $text);
+    $text=preg_replace("/^Th/", "T", $text);
+
+    return $text;
+}
+
+function de_h($text)
+// Remove Welsh h-mutation word-initially.
+{
+    $text=preg_replace("/^h/", "", $text);
+
+    return $text;
+}
+
+function cylookup($word, $mutation)
+{
+    global $db_handle;
+    $sql_cy="select * from cylist where surface~'^($word)$'";
+    $result_cy=pg_query($db_handle,$sql_cy) or die("Can't get the items");
+
+    if (pg_num_rows($result_cy)>0)  // If there is an entry for the word in the dictionary ...
+    {
+        while ($row_cy=pg_fetch_object($result_cy))
+        {
+            $lemma="\t\"".$row_cy->lemma."\" ";
+            $pos=$row_cy->pos." ";
+            $gender=($row_cy->gender =='') ? "" : $row_cy->gender." ";
+            $number=($row_cy->number =='') ? "" : $row_cy->number." ";
+            $tense=($row_cy->tense =='') ? "" : $row_cy->tense." ";
+            $notes=($row_cy->notes =='') ? "" : $row_cy->notes." ";
+            $enlemma=":".$row_cy->enlemma.": ";
+            $id="[".$row_cy->id."]";
+            $addmutation=($mutation =='') ? "" : " + ".$mutation; 
+            $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id.$addmutation)."\n";  // Glue together all the fields for the word, and all the entries for found words.
+        }
+    }
+
+    return $entry;
 }
 
 ?>

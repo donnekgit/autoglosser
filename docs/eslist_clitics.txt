@@ -250,7 +250,7 @@ update eslist set mypos='interj' where pos ~ 'ij'
 
 Remove duplicates:
 select surface, lemma, enlemma, mypos, gender, number, tense from eslist GROUP BY surface, lemma, enlemma, mypos, gender, number, tense HAVING COUNT(*) > 1 limit 500
-will list the items with more than one entry, but it's easiest to create a new table without the dup.icates:
+will list the items with more than one entry, but it's easiest to create a new table without the duplicates:
 create table dedup as select distinct on (surface, lemma, enlemma, mypos, gender, number, tense) * from eslist
 and then swap that for the original:
 drop table eslist

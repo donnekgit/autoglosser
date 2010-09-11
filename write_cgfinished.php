@@ -33,29 +33,32 @@ $lines=file("outputs/".$filename."/".$filename."_cg_applied.txt");  // Open inpu
      
 foreach ($lines as $line_num => $line)
 {
-    if (preg_match("/^\t\"/", $line))  // We only need the lines with the lexeme.
+    if (preg_match("/^\t\"/", $line))  // We only need the lines with the lexeme (lemma), not the ones with the surface form.
     {
         preg_match("/{(?P<utt>\d+),(?P<loc>\d+)}/", $line, $place);  // Get the place (utterance, location).
         $utt=$place[utt];
-//         echo $utt."\n";
         $loc=$place[loc];
         echo $utt.",".$loc."\n";
 
+         preg_match("/\[(?P<langid>\w\w)\]/", $line, $language);  // Get the dictionary entry by id.
+        $langid=$language[langid];
+        echo $langid."\n";
+
         preg_match("/\[(?P<dictid>\d+)\]/", $line, $dict);  // Get the dictionary entry by id.
         $dictid=$dict[dictid];
-//         echo $dictid."\n";
+        echo $dictid."\n";
 
-        preg_match("/\+ (?P<clitics>.+)$/", $line, $enclitic);  // Get any clitics.
-        $clitics=$enclitic[clitics];
-//         echo $clitics."\n";
+        preg_match("/\+ (?P<extras>.+)$/", $line, $extra);  // Get any clitics.
+        $extras=$extra[extras];
+        echo $extras."\n\n";
 
         if (isset($dictid))  // If there was a dictionary entry, look it up and copy the tags into $cgfinished
         {
-            $sql_f="select * from eslist where id=$dictid";
+            $sql_f="select * from ".$langid."list where id=$dictid";
             $result_f=pg_query($db_handle,$sql_f) or die("Can't insert the items");
             while ($row_f=pg_fetch_object($result_f))
             {
-                $sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, clitics) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$clitics')";
+                $sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$extras')";
                 $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
             }
         }

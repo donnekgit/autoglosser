@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// This file handles dictionary lookups in the Spanish dictionary, eslist.  If your dictionary has a different name and different fields, change the table name and fieldnames that are used below to suit your ones.
+// This file handles dictionary lookups in the Spanish dictionary, eslist.
 
 $foundclitics='0';  // Set a marker
 
@@ -37,7 +37,7 @@ if (preg_match("/.+#/", $candidate))  // Only do the clitic lookup if the segmen
     $prclitic1=(isset($clitic1)) ? " + ".$clitic1."[".clitic_pos($clitic1)."]" : "";
     $prclitic2=" + ".$clitic2."[".clitic_pos($clitic2)."]";
 
-    $sql_cl="select * from eslist where surface='$cliticverb' and tense~'imper|infin'";  // We only need to lookup verbs.
+    $sql_cl="select * from eslist where surface='$cliticverb' and tense~'imper|infin'";  // We only need to lookup verbs in these moods.
     $result_cl=pg_query($db_handle,$sql_cl) or die("Can't get the items");
     if (pg_num_rows($result_cl)>0)  // Assuming we have a hit ...
     {

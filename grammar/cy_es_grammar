@@ -2,7 +2,7 @@ DELIMITERS = "<.>" "<!>" "<?>";
 
 LIST noun = n;
 LIST inflected = vfle;
-LIST infinitive = vinf;
+LIST infinitive = vinf infin;
 LIST preposition = p prep;
 LIST pronoun = r;
 LIST interrogative = part-int;

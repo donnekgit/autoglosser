@@ -84,6 +84,7 @@ while ($row=pg_fetch_object($result))
             $j=1;
             foreach ($bits as $value)
             {
+                $value=pg_escape_string($value);
                 //$value=$wordclean_tier($value);  // Use this function if you want to apply changes to the individual word entries
                 //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
                 $sql_g="update $words set $tier='$value' where utterance_id=$row->utterance_id and location=$j";

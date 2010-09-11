@@ -53,3 +53,44 @@ select tablename from pg_tables where tablename !~'(pg_|sql_|_sp)' and tablename
 
 
 select * from patagonia1_cgfinished order by utterance, location
+
+
+
+Generating cylist
+[Run utils/cylist/pluralise.php on canonical.  This will fill the plurals table.]  NO!  Not required - the current version of canonical already has these plurals added.
+Run utils/cylist/collect.php.  This will gather all entries from 4 separate tables (canonical, berfau, vplus, virreg) into eurfa_nmni.  The last section of the script writes the lemmas based either on the surface or (in the case of a plural surface) the sorp.
+Run utils/cylist/gbl.php.  This will convert the gbl table into the more compact eurfa_gbl.
+update eurfa_gbl set tense='pres' where tense='present';
+update eurfa_gbl set tense='cond' where tense='conditional';
+update eurfa_gbl set tense='dep' where tense='dependent';
+update eurfa_gbl set tense='fut' where tense='future';
+update eurfa_gbl set tense='imper' where tense='imperative';
+update eurfa_gbl set tense='imperf' where tense='imperfect';
+update eurfa_gbl set tense='pastsubj' where tense='past subjunctive';
+update eurfa_gbl set tense='pluperf' where tense='pluperfect';
+update eurfa_gbl set tense='subj' where tense='subjunctive';
+update eurfa_gbl set number='1s' where number='1singular';
+update eurfa_gbl set number='2s' where number='2singular';
+update eurfa_gbl set number='3s' where number='3singular';
+update eurfa_gbl set number='1p' where number='1plural';
+update eurfa_gbl set number='1p' where number='1plural';
+update eurfa_gbl set number='2p' where number='2plural';
+update eurfa_gbl set number='3p' where number='3plural';
+update eurfa_gbl set number='0' where number='impers';
+update eurfa_gbl set number='0' where number='impersonal';
+Run utils/cylist/combine.php to combine eurfa_gbl and eurfa_nmni into cylist, ready for use in the autoglosser.
+Change yn to stative.
+Set indexes on surface, lemma, enlemma, pos, gender, number and tense.
+
+It is vitally important to set indexes on all relevant fields on the dictionary database table.  Without indexes, the cohort-writing for Patagonia1 on a dictionary that included mutated forms took 48s.  On a dictionary that did not include mutated forms, where the words were demutated and every demutation looked up on the fly, took 340s.  On the same dictionary, but with the demutated words only being looked up where they differed from the surface word, the time was 159s.  However, with indexes set on all the main columns, the total time was slashed to 8s. 
+
+
+
+
+
+
+
+
+
+
+

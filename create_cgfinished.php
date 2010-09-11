@@ -32,7 +32,7 @@ CREATE TABLE $cgfinished (
     number character varying(20),
     tense character varying(50),
     notes character varying(50),
-    clitics character varying(100)
+    extra character varying(100)
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);

@@ -38,7 +38,6 @@ include("cgimport.php");
 echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
 include("rewrite_utterances.php");
 
-/*
 echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
 include("write_cohorts.php");
 
@@ -53,7 +52,6 @@ include("join_tags.php");
 
 echo "*\n*\nWriting a pseudo-chat file\n*\n*\n";
 include("write_cgautogloss.php");
-*/
 
 //fclose($fp);
 
