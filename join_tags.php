@@ -31,7 +31,7 @@ $sql="select * from $cgfinished order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-    $enlemma=($row->enlemma !='') ? $row->enlemma."." : "-";
+    $enlemma=($row->enlemma !='') ? $row->enlemma."." : $row->lemma;
     $pos=$row->pos.".";
     $gender=($row->gender =='') ? "" : $row->gender.".";
     $number=($row->number =='') ? "" : $row->number.".";

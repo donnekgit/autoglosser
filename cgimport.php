@@ -27,9 +27,6 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-// Straighten out lines in the file
-exec("utils/sed_joinlines ".$chafile);
-
 // Scan the file for sub-tiers.
 scan_tiers($chafile, $filename);
 
@@ -101,7 +98,7 @@ foreach ($lines as $line)
         $sql="insert into $utterances (speaker, duration, surface, filename, durbegin, durend) values ('$speaker', '$duration', '$surface', '$filename', '$durbegin', '$durend')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
 		
-		echo "(".$i.") ".$surface."\n";
+		echo "(".$i.") ".$speaker.": ".$surface."\n";
 		//fwrite($fp, "(".$i.") ".$surface."\n\n");
 
 		$i++;

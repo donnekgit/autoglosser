@@ -22,20 +22,22 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 $sql_en="select * from enlist where surface='$surface'";
 $result_en=pg_query($db_handle,$sql_en) or die("Can't get the items");
 
+/*
+// Disable this section until we have a working English dictionary
 if (pg_num_rows($result_en)>0)
 {
     while ($row_en=pg_fetch_object($result_en))
     {
-        $surface="\t\"".$row_en->surface."\" ";
+        $ensurface="\t\"".$row_en->surface."\" ";
         $pos=$row_en->pos."\n";
-        $entry.=pg_escape_string($surface.$place."[en] ".$pos);
+        $entry.=pg_escape_string($ensurface.$place."[en] ".$pos);
     }
 }
 else
-{
-    $tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";
+{*/
+    $tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : $surface;
     $entry="\t\"".$surface."\" ".$place."[en] ".$tag."\n";
-}
+//}
 echo $entry;  // View
 fwrite($fp, $entry);  // Write
 unset($entry);  // Clear the decks

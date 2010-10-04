@@ -18,6 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 $sqlfields=tier_fields($filename, "text");
+//echo "SQL fields: ".$sqlfields."\n";
 
 drop_existing_table($utterances);
 //echo $utterances."<br/>";

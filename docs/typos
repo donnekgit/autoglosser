@@ -108,3 +108,19 @@ Test (on new branch) benefits of splitting dictionary lookup from CG cohort gene
 
 Test carrying over the tags as separate fields instead of one concatenated tag in _cgfinished.  What about using the item's id number from the database, and using it to pull across the full list of tags, instead of concatenating direct from the CG stages?  The benefit would be that you don't have to segment the tags and assign them to fields.
 
+
+Errors:
+
+Warning: pg_query(): Query failed: ERROR:  value too long for type character varying(10) in /home/kevin/autoglosser/cgimport.php on line 99
+means that there is a tab missing between the speaker and the rest of the line.  Strangely, it seems that once the first of these is fixed, the rest are OK???
+
+
+
+
+
+
+
+
+
+
+

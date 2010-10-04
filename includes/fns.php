@@ -19,9 +19,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.
 $zerolg=array("0");
-$cylg=array("1", "cy", "");
+$cylg=array("1", "cy");
 $enlg=array("2", "en");
-$eslg=array("3", "es");
+$eslg=array("3", "es", "");
 
 function get_filename()
 // Turn the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
@@ -102,7 +102,7 @@ function tier_fields($filename, $format)
 {
     $sqlfields="";
     $lines=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_SKIP_EMPTY_LINES);
-    if (count($lines)>1)  // CHECK - should this not be 0?
+    if (count($lines)>0)
     {  
         foreach ($lines as $line)
         {
@@ -347,31 +347,21 @@ function de_h($text)
     return $text;
 }
 
-function cylookup($word, $mutation)
-{
-    global $db_handle;
-    $sql_cy="select * from cylist where surface~'^($word)$'";
-    $result_cy=pg_query($db_handle,$sql_cy) or die("Can't get the items");
-
-    if (pg_num_rows($result_cy)>0)  // If there is an entry for the word in the dictionary ...
-    {
-        while ($row_cy=pg_fetch_object($result_cy))
-        {
-            $lemma="\t\"".$row_cy->lemma."\" ";
-            $pos=$row_cy->pos." ";
-            $gender=($row_cy->gender =='') ? "" : $row_cy->gender." ";
-            $number=($row_cy->number =='') ? "" : $row_cy->number." ";
-            $tense=($row_cy->tense =='') ? "" : $row_cy->tense." ";
-            $notes=($row_cy->notes =='') ? "" : $row_cy->notes." ";
-            $enlemma=":".$row_cy->enlemma.": ";
-            $id="[".$row_cy->id."]";
-            $addmutation=($mutation =='') ? "" : " + ".$mutation; 
-            $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id.$addmutation)."\n";  // Glue together all the fields for the word, and all the entries for found words.
-        }
-    }
-
-    return $entry;
-}
-
 ?>
 
+<?php
+function lineclean_com($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_com($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>

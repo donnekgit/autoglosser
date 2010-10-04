@@ -3,9 +3,9 @@
 #  Run as: sed_joinlines /path/to/file.cha
 chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
 #echo $chafile
-filename=$(basename $chafile)  # the filename from the path
+filename=$(basename $chafile)  # the filename from the path - file.cha
 #echo $filename
-path=$(dirname $chafile)  # the path to the file
+path=$(dirname $chafile)  # the path to the file - path/to
 #echo $path
 fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file
 #echo $fixedfile
