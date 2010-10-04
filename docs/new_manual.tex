@@ -15,7 +15,7 @@
 %opening
 \title{\textbf{Autoglossing CHAT files with the Bangor autoglosser}}
 \author{Kevin Donnelly\thanks{kevin@dotmon.com}}
-\date{28 May 2010}
+\date{27 September 2010}
 
 \begin{document}
 
@@ -44,13 +44,15 @@ The Bangor autoglosser is licensed under version 3 of the GPL,\footnote{http://w
 
 Your machine will need to have Apache2, PHP5, PostgreSQL, and (optionally) Git already installed.  The Appendix gives a summary of the relevant commands for Ubuntu 9.10, and suggests how to configure your machine to use these applications effectively -- note that this is only a suggestion, and other approaches are possible.
 
+The Bangor autoglosser uses PHP scripts run at the command-line to import the text in CLAN chat files into a PostgreSQL.
+
 
 \section{Overview}
 \label{sec:overview}
 
-The stages in the autoglossing pipeline are:
+The steps in the autoglossing pipeline are:
 \begin{enumerate}
-\item Prepare the file by removing the headers and joining any broken lines (Section \ref{sec:prepare}).
+\item Prepare the file by removing broken lines (Section \ref{sec:prepare}).
 \item Import the file into a table (Section \ref{sec:pipeline} - filename\_cgutterances).
 \item Remove non-word markup from the speech tier, and import the individual utterances into a table (filename\_cgwords).
 \item Look up each word in a language-specific dictionary to get a cohort of possible lemmas it could derive from, with appropriate part-of-speech tags.
@@ -59,35 +61,78 @@ The stages in the autoglossing pipeline are:
 \item Combine information from the three tables to create a new text file where the original speech tier has a new gloss tier.
 \end{enumerate}
 
+These steps can be combined by running one script(\textbf{do\_autogloss.php}) to produce the glossed file automatically within a few minutes, or they can be accessed individually by running separate scripts for each step.  This gives more flexibility should you wish to track down bugs, or make changes.  For instance, if you have already glossed your file, but want to import it into a database for statistical or other analysis, you can run just two of the scripts, \textbf{cgimport.php} (Section \ref{sec:import}) and \textbf{rewrite\_utterances.php} (Section \ref{sec:rewrite}).  Figure 1\ref{fig:layout} summarises the scripts and the outputs at each stage.
+
+
+\section{Putting a file through the pipeline}
+\label{sec:pipeline}
+
+The autoglosser download contains a test chat file, which can be used to test the system.  The test file is in the directory \textbf{inputs/testfiles}, and the default language is set as Welsh (see Section \ref{sec:defaultlg} below for more information on this).
+
+Open a terminal in the autoglosser directory, and run:\\
+\verb|php do_autogloss.php inputs/testfiles/mytest.cha|\
+
+You should see text scrolling past on the screen, which is mainly feedback to let you know that the application is doing something.
+
+If you examine the \textbf{autoglosser} database at the end of the process, you should find 3 new tables: \textbf{mytest\_cgutterances} (containing each line of the speech tier), \textbf{mytest\_cgwords} (containing the words in each speech tier line), and \textbf{mytest\_cgfinished} (containing possible part-of-speech (POS) tags for each word).  
+
+In the \textbf{outputs} directory, there should be a subdirectory called \textbf{mytest}, containing output material from the autoglossing process.  The two most important are \textbf{mytest\_cg.txt} (the collection of candidate glosses that the constraint grammar will act on), and \textbf{mytest\_cg\_applied.txt} (the outcome after the constraint grammar has done its work).  
+
+Also in the output directory will be the end-product of the process, \textbf{mytest\_autoglossed.txt}.  This should contain a fully-glossed tier corresponding to the speech tier.
+
+\textbf{Notes:}
+\begin{enumerate}
+\item It is advisable to have a standard location in the autoglosser filetree for the files that you wish to process, hence the \textbf{inputs} folder. 
+
+\item The file extensions currently catered for are \textbf{.cha} or \textbf{.txt}, but more can be added by editing the \textbf{get\_filename()} function in the file \textbf{includes/fns.php}.
+
+\item During the import, the extension is removed, and the name is lowercased, to be used as the \textbit{\$filename} prefix for all tables and files created during the autogloss or import process.  With the test file, the \textit{\$filename} is \textbf{mytest}.  With an original file named Patagonia1, the \textit{\$filename} would be \textbf{patagonia1}.
+
+\item The tables created at each stage of the process are given shorthand names: \textbf{\$utterances} for the table \textit{\$filename\_cgutterances}, \textbf{\$words} for the table \textit{\$filename\_cgwords}, and \textbf{\$cgfinished} for the table \textit{\$filename\_cgfinished}.  This allows the names of the tables to be changed easily, should you wish to do so.
+\end{enumerate}
+
+The following sections will look in more detail at what happens in the pipeline.
+
+
+\section{Setting the default language}
+\label{sec:defaultlg}
+
+IMPORTANT: This is an essential first step in importing transcriptions into the autoglosser.  If this step is omitted, the files will not be imported correctly.
+
+The Bangor autoglosser will import texts using old-style or new-style CLAN tags.  Old-style tags attach numerals to every word, with the numeral designating the language, eg gente@3, where @3 designates Spanish.  New-style tags use a language abbreviation attached to the word, eg gente@s:es.  If you have a text using old-style tags, it is easiest to convert it to new-style tags before importing (although it is also possible to convert after importing), and a script is provided to allow you to do that (see Section \ref{sec:converttags}).  
+
+An important feature of the new-style tags is that one language is designated the default, and words from that language are not tagged.  You therefore need to tell the autoglosser what language you are using as the default, or it will not look up the correct dictionary, and your output file will be deficient.
+
+To do this, open the file \textbf{includes/fns.php}.  Near the top of the file, there are some lines like this:
+\begin{verbatim}
+$zerolg=array("0");
+$cylg=array("1", "cy");
+$enlg=array("2", "en");
+$eslg=array("3", "es", "");
+\end{verbatim}
+The figures relate to the old-style tags, and the language abbreviations relate to the new-style tags.  The important entry is the empty tag -- \verb|""| -- which specifies the default language.  In the above case, the default language is set to Spanish (es).  If you wanted to set it to Welsh, the lines should be edited to read as follows:
+\begin{verbatim}
+$zerolg=array("0");
+$cylg=array("1", "cy", "");
+$enlg=array("2", "en");
+$eslg=array("3", "es");
+\end{verbatim}
+In other words, just move the empty tag to the same line as your default language.
+
 
 \section{Prepare the file}
 \label{sec:prepare}
 
-These steps are done manually, but can be automated later.  Remove the header lines and paste them to \textbf{outputs/\$filename.header}.  Remove the \textbf{@End} line from the end of the file.  Rename the file to \textbf{\$filename\_headerless}.  Run: \\
-\verb|dos2unix inputs/$filename_headerless|\\
-Replace filenames in \textbf{utils/sed\_joinlines} and run:\\
-\verb|utils/sed_joinlines|\\
-This will deal with Microsoft Windows endlines by ensuring that all lines of the text are joined up, and not split over several lines.
+The CLAN application seems to soft-wrap files at around the 80-character mark, so the first step in the import is to ``straighten out'' the lines so that each part of the speech tier is on one line.  *** Check whether there is a setting in CLAN to avoid this.
 
+The script \textbf{prepare\_file.php} is a container for this and other pre-processing tasks.  Currently, it calls \textbf{utils/sed\_joinlines}, a sed{\footnote{http://www.sed.org} script which joins the lines.
 
-\section{Put a file through the pipeline}
-\label{sec:pipeline}
+*** Combine these two sections, and do a better section later giving more details about he convert script? ***
 
-File: do\_autogloss.php
-Output tables: \$filename\_cgutterances, \$filename\_cgwords, \$filename\_cgfinished
-Output file: 
-
-This is the base file which calls all the other components.  This means that you can run a single command on a file as prepared in Section \ref{sec:prepare}, and the glossed file will be produced automatically within a few minutes.  If you have already glossed your file, but want to import it into a database for statistical or other analysis, it is easiest to run the first two commands, cgimport.php (Section \ref{sec:import}) and rewrite\_utterances.php (Section \ref{sec:rewrite}) manually.
-
-From a terminal, navigate to the location of the autoglosser, and enter:
-\begin{center}
-\texttt{php do\_autogloss.php /path/to/mychafile.cha}                                                     \end{center}
-adjusting the path as required for your setup, for instance: 
-\begin{center}
-\texttt{php do\_autogloss.php inputs/Patagonia1.cha}                                                     \end{center}
-The file extensions currently catered for are \textbf{.cha} or \textbf{.txt}, but more can be added by editing the \textbf{get\_filename()} function in \textbf{includes/fns.php}.
-
-The extension is removed, and the name is lowercased, to be used as the \textbf{\$filename} prefix for all tables and files created during the autogloss or import process.  In the above example, the resultant filename would be \textbf{patagonia1}.  The tables that will be created at each stage of the process are given shorthand names: \textbf{\$utterances} for the table \textit{\$filename\_cgutterances}, \textbf{\$words} for the table \textit{\$filename\_cgwords}, and \textbf{\$cgfinished} for the table \textit{\$filename\_cgfinished}.  This allows the names of the tables to be changed easily, should you wish to to so.
+\section{Convert old-style tags to new-style tags}
+\label{sec:converttags}
+Another sed script can be called here, but is commented out by default (that is, it will not run unless you remove the // at the beginning of the line).  This is \textbf{utils/sed\_convert\_lgid}, which converts old-style CLAN language identification
+tags (@0, @1) to new-style ones (@s:en, @s:cy&es).  See the notes in the script for instructions on how to define the default language for these tags.
 
 
 \section{Import the file}
@@ -390,7 +435,7 @@ If this does not work, contact me at \textbf{kevin@dotmon.com}.
 
 \section{Ongoing database administration?}
 
-To administer PostgreSQL, it is easiest to use a frontend.  You can use pgAdminIII\footnote{http://whatever}, a desktop interface, or (preferably) phpPgAdmin\footnote{http://whatever}, a browser-based interface.  Open a browser and enter \textit{localhost/phppgadmin} on the location bar.  Enter your PostgreSQL username and password, and you should see a list of databases in the left-hand panel - since this is a new install, there are only two: the postgres system database, and autoglosser, the one you have just created.  Click on autoglosser, and then on Schemas, and then on Tables.  There are no tables available yet in the autoglosser database, because you have not created any - the import process will create 4 tables for each file you import. 
+To administer PostgreSQL, it is easiest to use a frontend.  You can use pgAdminIII\footnote{http://whatever}, a desktop interface, or (preferably) phpPgAdmin\footnote{http://whatever}, a browser-based interface.  Open a browser and enter \textit{localhost/phppgadmin} on the location bar.  Enter your PostgreSQL username and password, and you should see a list of databases in the left-hand panel - since this is a new install, there are only two: the \textit{postgres} system database, and \textit{autoglosser}, the one you have just created.  Click on \textit{autoglosser}, and then on \textit{Schemas}, and then on \textit{Tables}.  There are no tables available yet in the autoglosser database, because you have not created any - the import process will create 3 tables for each file you import. 
 
 
 \newpage
