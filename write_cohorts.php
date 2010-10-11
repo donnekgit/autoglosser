@@ -33,7 +33,7 @@ $sql="select * from $words order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$surface=$row->surface;
+	$surface=pg_escape_string($row->surface);
     $utt=$row->utterance_id;
     $loc=$row->location;
     $place=" {".$utt.",".$loc."} ";

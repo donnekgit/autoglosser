@@ -165,7 +165,7 @@ function lineclean_surface($text)
     $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
     $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
 
-    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es.
+    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.'!\?_&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es.
 
     $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
     $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx

@@ -7,13 +7,19 @@
 \usepackage{tabularx}
 \usepackage[labelfont=bf,textfont=it]{caption}
 
+%Redefine the underscore command
+\let\underscore\_
+\newcommand{\myunderscore}{\renewcommand{\_}{\underscore\hspace{0pt}}}
+%Issue the changed underscore command to the whole document.
+\myunderscore
+
 \setlength{\parindent}{0in}  % no paragraph indents
 \setlength{\parskip}{2ex}  % put a linespace between paragraphs
 
 \renewcommand{\rmdefault}{phv}
 
 %opening
-\title{\textbf{Autoglossing CHAT files with the Bangor autoglosser}}
+\title{\textbf{Autoglossing CHAT files\\with the Bangor autoglosser}}
 \author{Kevin Donnelly\thanks{kevin@dotmon.com}}
 \date{27 September 2010}
 
@@ -53,11 +59,11 @@ The Bangor autoglosser uses PHP scripts run at the command-line to import the te
 The steps in the autoglossing pipeline are:
 \begin{enumerate}
 \item Prepare the file by removing broken lines (Section \ref{sec:prepare}).
-\item Import the file into a table (Section \ref{sec:pipeline} - filename\_cgutterances).
-\item Remove non-word markup from the speech tier, and import the individual utterances into a table (filename\_cgwords).
+\item Import the file into a table (Section \ref{sec:import}.
+\item Remove non-word markup from the speech tier, and import the individual utterances into a table.
 \item Look up each word in a language-specific dictionary to get a cohort of possible lemmas it could derive from, with appropriate part-of-speech tags.
 \item Apply a language-specific constraint grammar to each cohort to remove inappropriate entries (i.e. to disambiguate the cohort).
-\item Import the disambiguated entries into a table (filename\_cgfinished).
+\item Import the disambiguated entries into a table.
 \item Combine information from the three tables to create a new text file where the original speech tier has a new gloss tier.
 \end{enumerate}
 
@@ -86,7 +92,7 @@ Also in the output directory will be the end-product of the process, \textbf{myt
 
 \item The file extensions currently catered for are \textbf{.cha} or \textbf{.txt}, but more can be added by editing the \textbf{get\_filename()} function in the file \textbf{includes/fns.php}.
 
-\item During the import, the extension is removed, and the name is lowercased, to be used as the \textbit{\$filename} prefix for all tables and files created during the autogloss or import process.  With the test file, the \textit{\$filename} is \textbf{mytest}.  With an original file named Patagonia1, the \textit{\$filename} would be \textbf{patagonia1}.
+\item \label{normname} During the import, the extension is removed, and the name is lowercased, to be used as the \textit{\$filename} prefix for all tables and files created during the autogloss or import process.  With the test file, the \textit{\$filename} is \textbf{mytest}.  With an original file named Patagonia1, the \textit{\$filename} would be \textbf{patagonia1}.
 
 \item The tables created at each stage of the process are given shorthand names: \textbf{\$utterances} for the table \textit{\$filename\_cgutterances}, \textbf{\$words} for the table \textit{\$filename\_cgwords}, and \textbf{\$cgfinished} for the table \textit{\$filename\_cgfinished}.  This allows the names of the tables to be changed easily, should you wish to do so.
 \end{enumerate}
@@ -99,7 +105,7 @@ The following sections will look in more detail at what happens in the pipeline.
 
 IMPORTANT: This is an essential first step in importing transcriptions into the autoglosser.  If this step is omitted, the files will not be imported correctly.
 
-The Bangor autoglosser will import texts using old-style or new-style CLAN tags.  Old-style tags attach numerals to every word, with the numeral designating the language, eg gente@3, where @3 designates Spanish.  New-style tags use a language abbreviation attached to the word, eg gente@s:es.  If you have a text using old-style tags, it is easiest to convert it to new-style tags before importing (although it is also possible to convert after importing), and a script is provided to allow you to do that (see Section \ref{sec:converttags}).  
+The Bangor autoglosser will import texts using old-style or new-style CLAN tags.  Old-style tags attach numerals to every word, with the numeral designating the language, eg \textit{gente@3}, where @3 designates Spanish.  New-style tags use a language abbreviation attached to the word, eg \textit{gente@s:es}.  If you have a text using old-style tags, it is easiest to convert it to new-style tags before importing (although it is also possible to convert after importing), and a script is provided to allow you to do that (see Section \ref{sec:converttags}).  
 
 An important feature of the new-style tags is that one language is designated the default, and words from that language are not tagged.  You therefore need to tell the autoglosser what language you are using as the default, or it will not look up the correct dictionary, and your output file will be deficient.
 
@@ -110,7 +116,7 @@ $cylg=array("1", "cy");
 $enlg=array("2", "en");
 $eslg=array("3", "es", "");
 \end{verbatim}
-The figures relate to the old-style tags, and the language abbreviations relate to the new-style tags.  The important entry is the empty tag -- \verb|""| -- which specifies the default language.  In the above case, the default language is set to Spanish (es).  If you wanted to set it to Welsh, the lines should be edited to read as follows:
+The figures relate to the old-style tags, and the language abbreviations relate to the new-style tags.  The important entry is the empty tag -- \verb|""| -- which specifies the default language.  In the above case, the default language is set to Spanish (es).  If you wanted to set it to Welsh (cy), the lines should be edited to read as follows:
 \begin{verbatim}
 $zerolg=array("0");
 $cylg=array("1", "cy", "");
@@ -123,46 +129,56 @@ In other words, just move the empty tag to the same line as your default languag
 \section{Prepare the file}
 \label{sec:prepare}
 
-The CLAN application seems to soft-wrap files at around the 80-character mark, so the first step in the import is to ``straighten out'' the lines so that each part of the speech tier is on one line.  *** Check whether there is a setting in CLAN to avoid this.
+The script \textbf{prepare\_file.php} is a container for various processing tasks to be done to the file before import.  Currently, it contains two sed{\footnote{http://sed.sourceforge.net/} scripts:
+\begin{enumerate}
+\item \textbf{utils/sed\_joinlines}:  The CLAN application seems to soft-wrap files at around the 80-character mark, so this sed script ``straightens out'' the lines so that each tier is on one unbroken line.  *** Check whether there is a setting in CLAN to avoid this.
+\item \textbf{utils/sed\_convert\_lgid}: This sed script converts old-style CLAN language identification tags (\textit{@0, @1}) to new-style ones (\textit{@s:en, @s:cy\&es}) (see Section \ref{sec:defaultlg}).  This script is commented out by default (that is, it will not run unless you remove the // at the beginning of the line)
+\end{enumerate}
 
-The script \textbf{prepare\_file.php} is a container for this and other pre-processing tasks.  Currently, it calls \textbf{utils/sed\_joinlines}, a sed{\footnote{http://www.sed.org} script which joins the lines.
 
-*** Combine these two sections, and do a better section later giving more details about he convert script? ***
+\section{Running the scripts individually}
+\label{sec:runindiv}
 
-\section{Convert old-style tags to new-style tags}
-\label{sec:converttags}
-Another sed script can be called here, but is commented out by default (that is, it will not run unless you remove the // at the beginning of the line).  This is \textbf{utils/sed\_convert\_lgid}, which converts old-style CLAN language identification
-tags (@0, @1) to new-style ones (@s:en, @s:cy&es).  See the notes in the script for instructions on how to define the default language for these tags.
+You can run scripts individually on the same lines as you ran:\\
+\verb|php do_autogloss.php inputs/testfiles/mytest.cha|\
+
+The initial script of the sequence must refer to the CHAT file itself, including the path:\\
+\verb|php prepare\_file.php inputs/testfiles/mynewfile.cha|\
+
+Thereafter, the command can refer to the normalised name of the file (see Section \ref{sec:pipeline}, Note \ref{normname} above):\\
+\verb|php write\_cohorts.php mynewfile|\
 
 
 \section{Import the file}
 \label{sec:import}
 
-\begin{itemize}
-\item File: \textbf{cgimport.php}, also calling \textbf{create\_cgutterances.php}
-\item Function: Opens the chat file and imports it into the table \textbf{\$filename\_utterances}.
-\item Output tables: \textbf{\$filename\_cgutterances}
-\item Output file: none                 
-\end{itemize}
+The script \textbf{create\_cgutterances.php} opens the CHAT file and imports it into the table \textbf{\$filename\_utterances}.  
+The table structure is:
+\begin{verbatim}
+utterance_id integer NOT NULL,
+filename character varying(50),
+speaker character varying(10),
+surface text,
+[other tiers] text,
+comment text,
+durbegin integer,
+durend integer,
+duration character varying(50)
+\end{verbatim}
 
-We call the file create\_cgutterances.php to drop (using the drop\_table() function in includes/fns.php) any existing filename\_utterances table, and recreates it.  The table will hold the segmented chafile.
-*** Can change column names here to deal with gloss issue above.  Maybe need to add indexes?  Any benefits in adding another column which holds the complete speech tier, ie without splitting it up?  This would simplify rebuilding.  Need to change the table name from "welsh", so that other languages can be used.  Also need to add a column for the autogloss, so that it can co-exist with any manual gloss.
+The CHAT file is scanned to discover additional tiers (eg \%eng, \%gls, \%pho, etc).  Columns for these will be generated on the fly in the [other tiers] location in the table.
 
-We add the sourcefile as a column just in case it might be useful in doing queries.  In cases where this is not available in the sound data, we use \$filename generated earlier. *** Perhaps best to generalise this, and use it even with Siarad. *** sample\_id and line\_num may not be needed.
+The script \textbf{create\_utterances.php} is called.  This deletes any existing \textbf{\$filename\_utterances} table, and recreates it.
 
-Read in the speech tier, beginning with *.  Split off the sound data.
+The speech tier is read into the column \textit{surface}, and the sound data split off into the 3 end columns.  Two functions are called to fix any obvious punctuation and transcription errors in the speech tier -- these functions can be adjusted to suit yours own needs.
 
-Read in the glosses, beginning with \%gls.  This may not exist in all files, and is likely not to in files that you are going to autogloss.  Remove non-morphological strings that shouldn't be there (eg x, xx, xxx).
-*** Again, this should maybe be abstracted into a function, which could be added to as necessary.  As noted above, perhaps change the column name to mygloss, or manual, or something, so that we have a clear run for the autogloss.
+If there is a gloss tier (\%gls) this is read in to a generated \textit{gls} column as well.  A gloss tier is unlikely in files that you are going to autogloss, but not impossible.  For instance, you may wish to compare a manual gloss with the autogloss.
 
-Read in the English interpretation, beginning with \%eng.  Again, this may not exist in all files.
-*** Need to find a way of handling any tier, eg \%pho, \%mor, etc.   
+If there is an English interpretation tier (\%eng), this is read in to a generated \textit{eng} column.  Again, this may not exist in all files.
 
-Read in comments, beginning with @Comment.  
-*** Comments are not well-handled -- we assume only one.  We either need to concat, as with the CG output, or write to another table linked to this one, using utterance\_id as the key.  The latter would mean two tables, and might be less easy to comprehend.
+Finally, comment lines (@Comment) are read in.  These are not optimally-handled at the minute -- we assume only one.  In a series of consecutive comments, the last one will overwrite previous ones.  FIXME: they need to be concatenated.
 
-Output is fed to screen as we go through this process.
-*** Also write it to a file?
+Output is fed to screen as the file is processed, and a log file is also written to disk (\textbf{\$filename\_cgutterances.txt}).
 
 
 \section{create\_cgwords.php}
