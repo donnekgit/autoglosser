@@ -68,9 +68,11 @@ foreach ($lines as $line_num => $line)
                 $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
             }
         }
-        else  // If there was no dictionary entry, write the surface form.  Replace $surface here with unk if you want to focus on unknown words.
+        else  // If there was no dictionary entry, write the surface form.
         {
-            $sql_u="insert into $cgfinished (utterance_id, location, lemma) values('$utt', '$loc', '$surface')";
+            $upos=(preg_match("/^[A-Z]/", $surface)) ? "m" : "u";
+            $sql_u="insert into $cgfinished (utterance_id, location, lemma, pos) values('$utt', '$loc', '$surface', '$upos')";
+            // Added u(nknown) to allow cognate work to proceed, and it will help anyway in focussing on unknown words.
             $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
         }
     }

@@ -31,8 +31,24 @@ $sql="select * from $cgfinished order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-    $enlemma=($row->enlemma !='') ? $row->enlemma."." : $row->lemma;
-    $pos=$row->pos.".";
+    if ($row->enlemma=='')  // If there is no English lemma, set it to unk if unknown, and name if the initial letter is a capital
+    {
+        if ($row->pos=='u')
+        {
+            $enlemma='unk';
+            $pos='';
+        }
+        elseif ($row->pos=='m')
+        {
+            $enlemma='name'; 
+            $pos='';
+        }
+    }
+    else
+    {
+        $enlemma=$row->enlemma.".";
+        $pos=$row->pos."."; 
+    }
     $gender=($row->gender =='') ? "" : $row->gender.".";
     $number=($row->number =='') ? "" : $row->number.".";
     $tense=($row->tense =='') ? "" : $row->tense.".";

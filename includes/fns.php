@@ -17,11 +17,11 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.
-$zerolg=array("0");
-$cylg=array("1", "cy");
+// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).
+$zerolg=array("0", "cy&es");
+$cylg=array("1", "cy", "");
 $enlg=array("2", "en");
-$eslg=array("3", "es", "");
+$eslg=array("3", "es");
 
 function get_filename()
 // Turn the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
@@ -165,7 +165,7 @@ function lineclean_surface($text)
     $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
     $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
 
-    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.'!\?_&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es.
+    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es.
 
     $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
     $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx
@@ -214,6 +214,19 @@ function wordclean_mor($text)
 {
     // This is a dummy function - add code here.
     // Note that if you call wordclean_xxx() for one tier, it must be available for all tiers, even if it is only a dummy function like this.
+    return $text;
+}
+
+function lineclean_gra($text)
+// Make corrections to the %gra tier as a whole, before it is segmented into entries.
+{
+    return $text;
+}
+
+function wordclean_gra($text)
+// Make corrections to the individual entries in the %gra tier.
+{
+    // This is a dummy function - add code here.
     return $text;
 }
 
@@ -359,6 +372,86 @@ function lineclean_com($text)
 ?>
 <?php
 function wordclean_com($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_eng($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_eng($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_tim($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_tim($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_add($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_add($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_exp($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_exp($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_par($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_par($text)
 // Make corrections to the individual words in the tier.
 {
     // This is a dummy function - add code here.

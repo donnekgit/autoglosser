@@ -71,30 +71,39 @@ while ($row=pg_fetch_object($result))
         $i=++$i; 
     }
 
-    $tiers=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_SKIP_EMPTY_LINES);
+    $tiers=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_IGNORE_NEW_LINES);
     if (count($tiers)>1) 
     {
+        //$tiers=array_diff($tiers, array(gra));
         foreach ($tiers as $tier)
         {
-            $tier=trim($tier);
-            $lineclean_tier="lineclean_".$tier;
-            $wordclean_tier="wordclean_".$tier;
-            echo $treated=$lineclean_tier($row->$tier)."\n\n";  // Use this function if you want to apply changes to the whole line
-            $bits=explode(' ', $treated);
-            $j=1;
-            foreach ($bits as $value)
+            if ($tier!=='gra')  // With the %gra tier, we need something more complex than a simple lineclean.
             {
-                $value=pg_escape_string($value);
-                //$value=$wordclean_tier($value);  // Use this function if you want to apply changes to the individual word entries
-                //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
-                $sql_g="update $words set $tier='$value' where utterance_id=$row->utterance_id and location=$j";
-                $result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");
-                $j=++$j;    
+                $tier=trim($tier);
+                $lineclean_tier="lineclean_".$tier;
+                $wordclean_tier="wordclean_".$tier;
+                echo $treated=$lineclean_tier($row->$tier)."\n";  // Use this function if you want to apply changes to the whole line
+                $bits=explode(' ', $treated);
+                $j=1;
+                foreach ($bits as $value)
+                {
+                    $value=trim(pg_escape_string($value));
+                    //$value=$wordclean_tier($value);  // Use this function if you want to apply changes to the individual word entries
+                    //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
+                    $sql_g="update $words set $tier='$value' where utterance_id=$row->utterance_id and location=$j";
+                    $result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");
+                    $j=++$j;    
+                }
+                unset($tier);
             }
-            unset($tier);
+            else
+            {
+                include("tiers/gra.php");
+            }
         } 
     }
 	unset($newutt);
+
 }
 
 fclose($fp);

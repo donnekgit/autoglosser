@@ -32,8 +32,8 @@ echo "Outputs are in outputs/$filename/\n";
 
 //$fp = fopen("outputs/".$filename."/".$filename."_log.txt", "w") or die("Can't create the file");
 
-//echo "*\n*\nPreparing $filename\n*\n*\n";
-//include("prepare_file.php");
+echo "*\n*\nPreparing $filename\n*\n*\n";
+include("prepare_file.php");
 
 echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
 include("cgimport.php");

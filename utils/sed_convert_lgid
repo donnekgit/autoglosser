@@ -1,0 +1,28 @@
+#!/bin/sh
+# This script converts old-style CLAN language tags to new-style ones.
+# Old-style: @0, @1, etc
+# New-style: @s:cy, @s:en&es, etc
+#  Run as: sed_convert_lgid /path/to/file.cha
+# It's best to run sed_joinlines first in order to straighten out the lines of the chat file.
+chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
+#echo $chafile
+filename=$(basename $chafile)  # the filename from the path - file.cha
+#echo $filename
+path=$(dirname $chafile)  # the path to the file - path/to
+#echo $path
+fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file
+#echo $fixedfile
+cat < $chafile | \
+# Under the new-style tags, the default language is not tagged.
+# Choose the default language on the next line, and then comment out that same language where it occurs later.
+sed -e "s/@3//g" | \
+# Undetermined - change en and es to the relevant language pair
+sed -e "s/@02/@s:en\&es/g" | \
+sed -e "s/@0/@s:en\&es/g" | \
+# Welsh
+sed -e "s/@1/@s:cy/g" | \
+# English
+sed -e "s/@2/@s:en/g" | \
+# Spanish
+#sed -e "s/@3/@s:es/g" | \
+cat > $path/$fixedfile  # output to the path + new filename

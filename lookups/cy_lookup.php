@@ -31,11 +31,10 @@ $dehsurface=de_h($surface);
 
 $dictlist=array();
 
-
 $sql_cy="select * from cylist where surface='$surface'";
 $result_cy=pg_query($db_handle,$sql_cy) or die("Can't get the items");
 while ($row_cy=pg_fetch_object($result_cy))
-{    
+{   
     array_push($dictlist, $row_cy->id);
     $lemma="\t\"".$row_cy->lemma."\" ";
     $pos=$row_cy->pos." ";
@@ -48,6 +47,7 @@ while ($row_cy=pg_fetch_object($result_cy))
     $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id)."\n"; 
     fwrite($fp, $entry);  // Write
     echo $entry;
+    unset($entry);  // Clear the decks
 }
 
 if ($desoftsurface!=$surface)
@@ -70,6 +70,7 @@ if ($desoftsurface!=$surface)
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$mutation.$gender.$number.$tense.$notes.$enlemma.$id." + sm")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;
+            unset($entry);  // Clear the decks
         }
     }
 }
@@ -94,6 +95,7 @@ if ($denassurface!=$surface)
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + nm")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;
+            unset($entry);  // Clear the decks
         }
     }
 }
@@ -118,6 +120,7 @@ if ($deaspsurface!=$surface)
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + am")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;
+            unset($entry);  // Clear the decks
         }
     }
 }
@@ -142,6 +145,7 @@ if ($dehsurface!=$surface)
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + h")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;
+            unset($entry);  // Clear the decks
         }
     }
 }
@@ -152,6 +156,7 @@ if (count($dictlist)<1)
     $entry="\t\"".$surface."\" ".$place."[cy] ".$tag."\n";
     fwrite($fp, $entry); // Write
     echo $entry;
+    unset($entry);  // Clear the decks
 }
 
 ?>

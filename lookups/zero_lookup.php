@@ -17,13 +17,13 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// This file handles words tagged as 0 - ie they do not appear in any language dictionary.  As such, we confine ourselves to marking them, with no lookups.
+// This file handles words tagged as 0 - ie they do not appear in any language dictionary.  As such, we confine ourselves to marking them, with no lookups. If they are capitalised, we mark as a name; if not, we just mark as unk[nown].
 
-$tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";  // Need to adjust this so that it checks for lowercase versions of the word, eg Universidad
+$tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk"; 
+// Need to adjust this so that it checks for lowercase versions of the word, eg Universidad
 $entry="\t\"".$surface."\" ".$place."[0] ".$tag."\n";
 echo $entry;  // View
 fwrite($fp, $entry);  // Write
 unset($entry);  // Clear the decks
-
 
 ?>

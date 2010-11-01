@@ -39,7 +39,7 @@ $fp = fopen("outputs/".$filename."/".$utterances.".txt", "w") or die("Can't crea
 
 $i=1;  // start counter for utterances
 
-$lines=file($chafile,FILE_SKIP_EMPTY_LINES);
+$lines=file($chafile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 foreach ($lines as $line)
 {
 	if (preg_match("/^\*/", $line))
