@@ -54,7 +54,7 @@ foreach ($lines as $line)
 	// Collect utterances in the main language
     if (preg_match("/^\*/", $line))
     {
-        $surface_line=preg_split('/:\t/', $line);
+        $surface_line=preg_split('/:\s*\t/', $line);
         $speaker=preg_replace("/\*/", "", $surface_line[0]);
         $rest=$surface_line[1];
         

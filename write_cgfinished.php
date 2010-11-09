@@ -64,6 +64,8 @@ foreach ($lines as $line_num => $line)
             $result_f=pg_query($db_handle,$sql_f) or die("Can't insert the items");
             while ($row_f=pg_fetch_object($result_f))
             {
+                $row_f->lemma=pg_escape_string($row_f->lemma);
+                $row_f->enlemma=pg_escape_string($row_f->enlemma);
                 $sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$extras')";
                 $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
             }
@@ -71,6 +73,7 @@ foreach ($lines as $line_num => $line)
         else  // If there was no dictionary entry, write the surface form.
         {
             $upos=(preg_match("/^[A-Z]/", $surface)) ? "m" : "u";
+            $surface=pg_escape_string($surface);  // To handle apostrophes in the entry.
             $sql_u="insert into $cgfinished (utterance_id, location, lemma, pos) values('$utt', '$loc', '$surface', '$upos')";
             // Added u(nknown) to allow cognate work to proceed, and it will help anyway in focussing on unknown words.
             $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");

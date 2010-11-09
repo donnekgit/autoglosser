@@ -21,23 +21,26 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 $sql_en="select * from enlist where surface='$surface'";
 $result_en=pg_query($db_handle,$sql_en) or die("Can't get the items");
-
-/*
-// Disable this section until we have a working English dictionary
 if (pg_num_rows($result_en)>0)
 {
     while ($row_en=pg_fetch_object($result_en))
     {
         $ensurface="\t\"".$row_en->surface."\" ";
-        $pos=$row_en->pos."\n";
-        $entry.=pg_escape_string($ensurface.$place."[en] ".$pos);
+        $pos=$row_en->pos." ";
+        $gender=($row_en->gender =='') ? "" : $row_en->gender." ";
+        $number=($row_en->number =='') ? "" : $row_en->number." ";
+        $tense=($row_en->tense =='') ? "" : $row_en->tense." ";
+        $notes=($row_en->notes =='') ? "" : $row_en->notes." ";
+        $enlemma=":".$row_en->surface.": ";
+        $id="[".$row_en->id."]";
+        $entry.=$ensurface.$place."[en] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id."\n";
     }
 }
 else
-{*/
-    $tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : $surface;
+{
+    $tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";  // Replace unk with $surface if you want to print the surface word instead.
     $entry="\t\"".$surface."\" ".$place."[en] ".$tag."\n";
-//}
+}
 echo $entry;  // View
 fwrite($fp, $entry);  // Write
 unset($entry);  // Clear the decks

@@ -33,13 +33,13 @@ $sql="select * from $words order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$surface=pg_escape_string($row->surface);
+	$surface=pg_escape_string($row->surface);  // Required to allow lookup of words containing an apostrophe.
     $utt=$row->utterance_id;
     $loc=$row->location;
     $place=" {".$utt.",".$loc."} ";
 	//echo $row->surface."\n";
 
-    $stream="\"<".$surface.">\"\n";  // Each surface form ends in a newline.
+    $stream="\"<".$row->surface.">\"\n";  // Each surface form ends in a newline.
 
 	echo $stream;
 	fwrite($fp, $stream);
