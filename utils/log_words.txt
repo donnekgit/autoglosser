@@ -1,0 +1,18 @@
+create table herring7_eswords as select surface, count(surface) from herring7_cgwords where auto='unk' and langid='3' group by surface order by surface
+
+select * from eslist where surface~'hindú'
+
+insert into table sastre1_eswords(surface, count) select surface, count(surface) from sastre1_cgwords where auto='unk' and langid='3' group by surface order by surface
+
+insert into sastre1_enwords(surface, count) select surface, count(surface) from sastre1_cgwords where auto='unk' and langid='2' group by surface order by surface
+
+
+
+
+
+
+
+
+
+
+
