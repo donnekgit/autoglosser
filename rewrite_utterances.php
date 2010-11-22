@@ -72,8 +72,8 @@ while ($row=pg_fetch_object($result))
     }
 
     $tiers=file("outputs/".$filename."/".$filename."_tiers.txt", FILE_IGNORE_NEW_LINES);
-    if (count($tiers)>1) 
-    {
+   //if (count($tiers)>1)  // not a good idea if only one tier , eg mor, exists; better to do it by looking at each tier, as with gra
+    //{
         //$tiers=array_diff($tiers, array(gra));
         foreach ($tiers as $tier)
         {
@@ -100,7 +100,7 @@ while ($row=pg_fetch_object($result))
             {
                 include("tiers/gra.php");
             }
-        } 
+        //} 
     }
 	unset($newutt);
 

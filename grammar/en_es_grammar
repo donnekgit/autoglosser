@@ -1,0 +1,123 @@
+DELIMITERS = "<.>" "<!>" "<?>";
+
+LIST noun = n;
+LIST verb = v;
+LIST infinitive = (v infin);
+SET inflected = (v) - (infin);  # ie the set of all verbs, minus the set of all infinitives; note that you cannot use LIST here
+LIST preposition = p;
+LIST pronoun = r;
+LIST interrogative = part-int;
+LIST adjective = a adj;
+LIST adverb = b;
+LIST conjunction = c;
+LIST prequal = "ofnadwy" "andros" "tipyn";
+LIST softprep = "o" "i" "am" "ar" "wrth" "dan" "heb";
+LIST concessive = "oh" "well";
+LIST exclamation = e;
+LIST interjection = i;
+LIST phrase = h;
+LIST placename = pn;
+
+LIST initvowel = "a.*"ri "e.*"ri "i.*"ri "o.*"ri "u.*"ri "w.*"ri "y.*"ri;
+
+LIST amvinf = (vinf am);
+LIST smvinf = (vinf sm);
+
+LIST amnoun = (n am);
+LIST nmnoun = (n nm);
+LIST smnoun = (n sm);
+
+LIST possessive = ("ei" :her:) ("ei" :his:);
+
+LIST modal = "licio" "gobeithio" "gallu";
+
+LIST countable = "munud" "ceiniog";
+
+#SET amvnoun = amvinf or amnoun;
+# note use of "or" (|) above; "and" (+) does not work because it yields all possible combinations of the elements in the two sets; since the n and vinf tags will never occur together, the set will never be valid; the following has the same effect:
+LIST amvnoun = (vinf am) or (n am);
+
+
+SECTION
+
+##### Rules for English #####
+
+remove ([en] infin) if (not 1 pronoun);
+
+
+
+##### Rules for Spanish #####
+
+
+# Articles
+
+select ("el"  det.def) if (1 (n f) or (adj f) or (ord f));
+select ("el"  det.def) if (1 (n m) or (adj m) or (ord m));
+select (det.def) if (-1 ("de" prep :of:));
+
+select ("uno" [es] det.indef) if (1 (n f) or (adj f) or (ord f));
+select ("uno" [es] det.indef) if (1 (n m) or (adj m) or (ord m));
+
+
+# Conjunctions
+
+select ("así" adv) if (1 (vfle));
+select ("que" :which:) if (not -1 (adjective));
+
+
+# Prepositions
+
+select ("para" [es] prep :for:) if (1 (prn.obj) or  (v infin) or ("que" conj :which:) or (det.def));
+select ("entre" [es] prep :between:) if (not 1 ("en"));
+select ("como" [es] prep :like:) if (1 (prn.subj) or ("que" conj :which:));
+
+
+# Nouns
+
+select (n m sg) if (-1 ([es] det.def m sg) or ([es] det.indef m sg));
+remove (n m sg) if (not -1 ([es] det.def m sg) or ([es] det.indef m sg));
+select (n m pl) if (-1 ([es] det.def m pl) or ([es] det.indef m pl));
+select (n f sg) if (-1 ([es] det.def f sg) or ([es] det.indef f sg));
+select (n f pl) if (-1 ([es] det.def f pl) or (det.indef f pl));
+select ("gusto" n) if (-1 ("mucho" adj));
+select (n) if (1 ("del"));
+select ("casa" n f sg :house:) if (-1 (prep));
+
+
+# Demonstratives
+
+select ("este" adj.dem m sg) if (1 (n m sg));
+
+
+# Pronouns
+
+select (prn.refl) if (1 (v 3s) or (v 13s) or (v 3p));
+select ("él" [es] prn.obj) if (1 (v));
+select ("otro" prn) if (not 1 (n));
+select ("uno" [es] prn) if (1 ("de"));
+select ("todo" [es] prn) if (1 (v));
+select ("temprano" adv) if (-1 ("muy"));
+select (prn.obj) if (1 ("que" conj :which:));
+
+# Adjectives
+
+select ([es] adj m sg) if (-1 ([es] n m sg));
+select ("mucho" adj) if (1 (n m sg));
+select ("tarde" n) if (-1 (det.def));
+select ("mejor" adj) if (1 (n));
+select ("todo" [es] adj) if (1 (det.def));
+
+
+#  Verbs
+
+select (pastpart) if (-1 ("haber"));
+select ("ser" [es] v 13s imperf :be:) if (not 1 (v));
+select ("ser" [es] v 3s past :be:) if (not 1 (preposition));
+select (v 3s pres) if (-1 ("donde" rel :where:));
+select (v infin) if (-1 ("para" [es] prep :for:));
+
+
+# Global rules
+
+# 1- remove less common tenses - has the effect of "deleting" items from the dictionary
+select (v 3s pres);

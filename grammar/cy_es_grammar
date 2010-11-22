@@ -72,7 +72,7 @@ select ("mor" :so:) if (not 2 ("â" c));
 select ("mor" a) if (2 ("â" c));
 
 select ("â" c) if (-2 ("mor" a));
-select ("â" p) if (not -2 ("mor" a));
+#select ("â" p) if (not -2 ("mor" a));
 
 select ("cyn" p) if (1 infinitive);
 
@@ -116,7 +116,7 @@ select ("i" p) if (not -1 inflected);
 #select ("o" :of:) if (-1 prequal) (1 adjective);
 select ("o" :of:) if (-1 prequal or ("maint"));
 select ("o" :of:) if (-2 ("ychydig"));
-select ("o" :of:) if (not 1 (name));
+#select ("o" :of:) if (not 1 (name));  # far too broad
 select ("o" :from:) if (1 ("nos" :night:));
 select ("o" :of:) if (1 ("blaen" sm));
 select ("o" :of:) if (-1 ("chwech" a));  # needs to be generalised to all numbers by retagging them as "num", not "a"
@@ -142,7 +142,8 @@ select ("ei" :his:) if (1 initvowel) (not 1 (h));
 
 select ("ni" :we:) if (not 1 (inflected));
 
-remove ("fo") if (not -1 (v)) (not -1 (n));
+#remove ("fo") if (not -1 (v)) (not -1 (n));
+select ("fo" [cy] r m s :he:) if (-1 (v 3s));
 
 # Nouns
 
@@ -171,6 +172,10 @@ select ("ymarfer" n) if (-1 ("angen" n));
 
 select ("Cymraeg" n) if (-1 ("siarad") or ("o") or ("dim") or ("yn"));
 select ("Cymraeg" a) if (-1 noun);
+
+select ("math" [cy] n) if (1 ("â" [cy] p));  # fath â - the same as
+select("â" [cy] c)  if (-1 ("math" [cy] n));
+
 
 # Adjectives
 
@@ -220,6 +225,7 @@ remove inflected if (-1 infinitive) (0 (v));
 select ("allan" b) if (-1 ("pell"));
 
 select ("iawn" :OK:) if (not -1 adjective);
+
 
 # Global rules
 
@@ -324,6 +330,7 @@ select ("ser" [es] v 13s imperf :be:) if (not 1 (v));
 select ("ser" [es] v 3s past :be:) if (not 1 (preposition));
 select (v 3s pres) if (-1 ("donde" rel :where:));
 select (v infin) if (-1 ("para" [es] prep :for:));
+remove ([es] v imper) if (-1 ("estar" [es] v));
 
 
 # Global rules

@@ -1,2598 +1,1546 @@
-(1) *AVR:	wel (ba)swn i ddim yma . 261_1364
-(1) wel (ba)swn i ddim yma .
+(1) *AVR:	wel (ba)swn i ddim yma . 261_1364(2) well, I wouldn''t be here.
 
-(2) *CHT:	na ! 1422_1950
-(2) na !
+(2) *CHT:	na ! 1422_1950(3) no!
 
-(3) *AVR:	a dylai bod fi wedi mynd i_lawr yn syth . 1962_4766
-(3) a dylai bod fi wedi mynd i_lawr yn syth .
+(3) *AVR:	a dylai bod fi wedi mynd i_lawr yn syth . 1962_4766(4) and I should have gone straight down.
 
-(4) *AVR:	(ta)swn i wedi mynd (.) i [/] i Esquel@s:cy&es neu i (y)r dyffryn yn syth (ba)sai fo lot gwell (.) ar ei cyfer nhw hefyd . 4690_11460
-(4) (ta)swn i wedi mynd (.) i [/] i Esquel@s:cy&es neu i (y)r dyffryn yn syth (ba)sai fo lot gwell (.) ar ei cyfer nhw hefyd .
+(4) *AVR:	(ta)swn i wedi mynd (.) i [/] i Esquel@s:cy&es neu i (y)r dyffryn yn syth (ba)sai fo lot gwell (.) ar ei cyfer nhw hefyd . 4690_11460(5) if I''d gone straight to Esquel, or to the valley, it would have been a lot better for them too.
 
-(5) *CHT:	+< &m .5297_5570
-(5) +< &m .
+(5) *CHT:	+< &m .5297_5570(6) *CHT:	+< ia . 7797_8215(7) yes.
 
-(6) *CHT:	+< ia . 7797_8215
-(6) +< ia .
+(7) *CHT:	+< ia . 8941_9475(8) *CHT:	aha@s:cy&es (e)fallai wir ! 11513_12784(9) ah, maybe so, indeed!
 
-(7) *CHT:	+< ia . 8941_9475
-(7) +< ia .
+(9) *CHT:	ia . 13203_13691(10) yes.
 
-(8) *CHT:	aha@s:cy&es (e)fallai wir ! 11513_12784
-(8) aha@s:cy&es (e)fallai wir !
+(10) *AVR:	ond sefyll fan hyn dw i meddwl bod nhw (y)n cael xxx +/. 13299_16074(11) but standing here I think they have...
 
-(9) *CHT:	ia . 13203_13691
-(9) ia .
+(11) *CHT:	++ <bod angen> [/] bod angen tŷ arnyn nhw . 15751_18323(12) ...that they needed a house for themselves.
 
-(10) *AVR:	ond sefyll fan hyn dw i meddwl bod nhw (y)n cael xxx +/. 13299_16074
-(10) ond sefyll fan hyn dw i meddwl bod nhw (y)n cael xxx +/ .
+(12) *AVR:	+< na ! 17535_17767(13) no!
 
-(11) *CHT:	++ <bod angen> [/] bod angen tŷ arnyn nhw . 15751_18323
-(11) ++ <bod angen> [/] bod angen tŷ arnyn nhw .
+(13) *AVR:	na na bod well ysgoloriaeth i (y)r plant fan hyn . 18514_21045(14) no no, that there''s better scholarship for the children here.
 
-(12) *AVR:	+< na ! 17535_17767
-(12) +< na !
+(14) "ysgoloriaeth" [scholarship] possibly used here to mean education
 
-(13) *AVR:	na na bod well ysgoloriaeth i (y)r plant fan hyn . 18514_21045
-(13) na na bod well ysgoloriaeth i (y)r plant fan hyn .
+(14) *CHT:	+< a mae hynna wir . 18648_19519(15) ...and that''s true
 
-(14) *CHT:	+< a mae hynna wir . 18648_19519
-(14) +< a mae hynna wir .
+(15) *CHT:	ia . 20958_21231(16) yes.
 
-(15) *CHT:	ia . 20958_21231
-(15) ia .
+(16) *AVR:	gwell . 21221_21587(17) better.
 
-(16) *AVR:	gwell . 21221_21587
-(16) gwell .
+(17) *CHT:	ia . 21743_22057(18) yes.
 
-(17) *CHT:	ia . 21743_22057
-(17) ia .
+(18) *AVR:	neu dylai bod fi wedi mynd (be)cause@s:en mae (y)n hwyr rŵan . 22216_25049(19) or I should have gone, because it''s late now.
 
-(18) *AVR:	neu dylai bod fi wedi mynd (be)cause@s:en mae (y)n hwyr rŵan . 22216_25049
-(18) neu dylai bod fi wedi mynd (be)cause@s:en mae (y)n hwyr rŵan .
+(19) *CHT:	+< &m . 24079_24329(20) *AVR:	ody . 25417_25980(21) it is.
 
-(19) *CHT:	+< &m . 24079_24329
-(19) +< &m .
+(21) *AVR:	mae (y)n hwyr i codi xx ti a wedyn <mynd i fan (a)cw> [?] +/. 26673_30356(22) it''s too late to raise [...] .
 
-(20) *AVR:	ody . 25417_25980
-(20) ody .
+(22) *CHT:	+< ia teulu mawr wir . 29299_30280(23) yes, a large family, indeed.
 
-(21) *AVR:	mae (y)n hwyr i codi xx ti a wedyn <mynd i fan (a)cw> [?] +/. 26673_30356
-(21) mae (y)n hwyr i codi xx ti a wedyn <mynd i fan (a)cw> [?] +/ .
+(23) *AVR:	(ba)swn i mynd <i fan (a)cw (ba)swn i> [?] xxx wedyn achos mae un ferch yn Mendoza@s:cy&es a (y)r llall yn Bariloche@s:cy&es . 30242_35129(24) if I went there I''d [...] then, because one daughter is in Mendoza and the other in Bariloche.
 
-(22) *CHT:	+< ia teulu mawr wir . 29299_30280
-(22) +< ia teulu mawr wir .
+(24) *AVR:	a wedyn (ba)swn i wedi mynd i Esquel@s:cy&es a +... 35584_37976(25) and then if I''d gone to Esquel and...
 
-(23) *AVR:	(ba)swn i mynd <i fan (a)cw (ba)swn i> [?] xxx wedyn achos mae un ferch yn Mendoza@s:cy&es a (y)r llall yn Bariloche@s:cy&es . 30242_35129
-(23) (ba)swn i mynd <i fan (a)cw (ba)swn i> [?] xxx wedyn achos mae un ferch yn Mendoza@s:cy&es a (y)r llall yn Bariloche@s:cy&es .
+(25) *AVR:	xx . 39090_39682(26) *CHT:	wel mi fasai +//. 39739_43112(27) well, it would...
 
-(24) *AVR:	a wedyn (ba)swn i wedi mynd i Esquel@s:cy&es a +... 35584_37976
-(24) a wedyn (ba)swn i wedi mynd i Esquel@s:cy&es a +.. .
+(27) *CHT:	Felipa@s:es a Robin a Jon a Elen (y)na ynde . 41237_44029(28) Felipa and Robin and Jon and Elen there.
 
-(25) *AVR:	xx . 39090_39682
-(25) xx .
+(28) *AVR:	wel (dy)na fo . 43488_43935(29) well, that''s it.
 
-(26) *CHT:	wel mi fasai +//. 39739_43112
-(26) wel mi fasai +// .
+(29) *AVR:	mae nhw â teulu fawr y pob un ohonyn nhw . 44069_46251(30) they have big families, every one of them.
 
-(27) *CHT:	Felipa@s:es a Robin a Jon a Elen (y)na ynde . 41237_44029
-(27) Felipa@s:es a Robin a Jon a Elen (y)na ynde .
+(30) *CHT:	+< ia . 45427_45717(31) yes.
 
-(28) *AVR:	wel (dy)na fo . 43488_43935
-(28) wel (dy)na fo .
+(31) *CHT:	ia . 47288_47572(32) yes.
 
-(29) *AVR:	mae nhw â teulu fawr y pob un ohonyn nhw . 44069_46251
-(29) mae nhw â teulu fawr y pob un ohonyn nhw .
+(32) *AVR:	um@s:cy&es Peredur@s:cy&es dach chi am ddŵr ? 47942_50334(33) um, Peredur, are you okay for water?
 
-(30) *CHT:	+< ia . 45427_45717
-(30) +< ia .
+(33) *RES:	dw i (y)n iawn diolch yn fawr . 50426_51164(34) *AVR:	wel rwyt ti (y)n um@s:cy&es +... 53919_55742(35) well, you''re...
 
-(31) *CHT:	ia . 47288_47572
-(31) ia .
+(35) *AVR:	o(eddw)n i +... 56229_57146(36) I was
 
-(32) *AVR:	um@s:cy&es Peredur@s:cy&es dach chi am ddŵr ? 47942_50334
-(32) um@s:cy&es Peredur@s:cy&es dach chi am ddŵr ?
+(36) *AVR:	pob tro dw i (y)n mynd i Esquel@s:cy&es dw i (y)n meddwl am Lea@s:cy&es ond byth yn ei gweld hi . 57022_60622(37) every time I go to Esquel I think of Lea, but never see her.
 
-(33) *RES:	dw i (y)n iawn diolch yn fawr . 50426_51164
-(33) dw i (y)n iawn diolch yn fawr .
+(37) *CHT:	na dw i ddim wedi gweld hi um@s:cy&es +... 61477_64095(38) no, I haven''t seen her, um...
 
-(34) *AVR:	wel rwyt ti (y)n um@s:cy&es +... 53919_55742
-(34) wel rwyt ti (y)n um@s:cy&es +.. .
+(38) *CHT:	dw i ddim yn cofio . 64936_66097(39) I don''t remember.
 
-(35) *AVR:	o(eddw)n i +... 56229_57146
-(35) o(eddw)n i +.. .
+(39) *CHT:	blynyddoedd yn_ôl . 66893_68757(40) years ago.
 
-(36) *AVR:	pob tro dw i (y)n mynd i Esquel@s:cy&es dw i (y)n meddwl am Lea@s:cy&es ond byth yn ei gweld hi . 57022_60622
-(36) pob tro dw i (y)n mynd i Esquel@s:cy&es dw i (y)n meddwl am Lea@s:cy&es ond byth yn ei gweld hi .
+(40) *CHT:	dw i +/. 69063_69580(41) I...
 
-(37) *CHT:	na dw i ddim wedi gweld hi um@s:cy&es +... 61477_64095
-(37) na dw i ddim wedi gweld hi um@s:cy&es +.. .
+(41) *AVR:	&au <xx ddest ti> [//] pryd ddest  gynta (y)n y dyffryn ? 69162_73078(42) when did you first come to the valley?
 
-(38) *CHT:	dw i ddim yn cofio . 64936_66097
-(38) dw i ddim yn cofio .
+(42) *CHT:	+< wel ie . 69601_70019(43) well, yes.
 
-(39) *CHT:	blynyddoedd yn_ôl . 66893_68757
-(39) blynyddoedd yn_ôl .
+(43) *CHT:	yn y dyffryn ? 73811_74803(44) to the valley?
 
-(40) *CHT:	dw i +/. 69063_69580
-(40) dw i +/ .
+(44) *AVR:	ia . 74850_75285(45) yes.
 
-(41) *AVR:	&au <xx ddest ti> [//] pryd ddest  gynta (y)n y dyffryn ? 69162_73078
-(41) &au <xx ddest ti> [//] pryd ddest gynta (y)n y dyffryn ?
+(45) *CHT:	oh@s:cy&es pan o(eddw)n i (y)n bump oed . 75384_76719(46) oh, when I was five.
 
-(42) *CHT:	+< wel ie . 69601_70019
-(42) +< wel ie .
+(46) *CHT:	xx es i efo mam a Fabio@s:cy&es (.) i weld er@s:cy&es nain a [/] (.) a modryb Ana@s:cy&es . 77170_82824(47) [..] I went with my mother and Fabio to see Granny and Auntie Ana.
 
-(43) *CHT:	yn y dyffryn ? 73811_74803
-(43) yn y dyffryn ?
+(47) *AVR:	a modryb Ana@s:cy&es ? 83249_84305(48) and Auntie Ana?
 
-(44) *AVR:	ia . 74850_75285
-(44) ia .
+(48) *CHT:	ia . 84253_84642(49) yes.
 
-(45) *CHT:	oh@s:cy&es pan o(eddw)n i (y)n bump oed . 75384_76719
-(45) oh@s:cy&es pan o(eddw)n i (y)n bump oed .
+(49) *AVR:	nid modryb Ora@s:cy&es ? 84752_85617(50) not Auntie Ora?
 
-(46) *CHT:	xx es i efo mam a Fabio@s:cy&es (.) i weld er@s:cy&es nain a [/] (.) a modryb Ana@s:cy&es . 77170_82824
-(46) xx es i efo mam a Fabio@s:cy&es (.) i weld er@s:cy&es nain a [/] (.) a modryb Ana@s:cy&es .
+(50) *CHT:	na modryb Ana@s:cy&es . 85637_86880(51) no, Auntie Ana.
 
-(47) *AVR:	a modryb Ana@s:cy&es ? 83249_84305
-(47) a modryb Ana@s:cy&es ?
+(51) *CHT:	na wnes i ddim nabod y nain Rogers@s:cy&es . 87127_89310(52) no, I didn''t know Grandmother Rogers.
 
-(48) *CHT:	ia . 84253_84642
-(48) ia .
+(52) *CHT:	mi farwodd hi (.) pan o(eddw)n i cael yng ngeni . 89282_91709(53) she died when I was born.
 
-(49) *AVR:	nid modryb Ora@s:cy&es ? 84752_85617
-(49) nid modryb Ora@s:cy&es ?
+(53) *AVR:	paid â deud ! 92388_93369(54) you don''t say!
 
-(50) *CHT:	na modryb Ana@s:cy&es . 85637_86880
-(50) na modryb Ana@s:cy&es .
+(54) *CHT:	mmhm . 93311_93845(55) *CHT:	mi ddychrynodd hi ! 94634_95829(56) she got a fright!
 
-(51) *CHT:	na wnes i ddim nabod y nain Rogers@s:cy&es . 87127_89310
-(51) na wnes i ddim nabod y nain Rogers@s:cy&es .
+(56) *CHT:	&=laugh ! 96370_96980(57) *AVR:	o(eddw)n i (y)n meddwl (he)fyd [?] ond +... 96955_98708(58) I thought so too, but...
 
-(52) *CHT:	mi farwodd hi (.) pan o(eddw)n i cael yng ngeni . 89282_91709
-(52) mi farwodd hi (.) pan o(eddw)n i cael yng ngeni .
+(58) *CHT:	&hm . 99039_99271(59) *AVR:	rhyw ddynes dawel . 99329_100461(60) some quiet woman.
 
-(53) *AVR:	paid â deud ! 92388_93369
-(53) paid â deud !
+(60) *CHT:	+< ie oedd +//. 99590_100415(61) yes, it was...
 
-(54) *CHT:	mmhm . 93311_93845
-(54) mmhm .
+(61) *CHT:	oh@s:cy&es ia . 100438_100989(62) oh, yes.
 
-(55) *CHT:	mi ddychrynodd hi ! 94634_95829
-(55) mi ddychrynodd hi !
+(62) *CHT:	oedd Natalia@s:cy&es (y)n deud bod hi <wedi cael> [//] wedi &f [//] wedi cael er@s:cy&es hyd (.) o lythyron (.) i nain (.) er@s:cy&es Rogers@s:cy&es a bod hi yn andros o agos atan ni (.) a nag oedd y nain arall dim . 101241_115489(63) Natalia was saying she''d found some letters to Granny Rogers, and that she was really close to us, and that the other grandmother wasn''t.
 
-(56) *CHT:	&=laugh ! 96370_96980
-(56) &=laugh !
+(63) *CHT:	felly er@s:cy&es dw i isio gweld y llythyron yna . 117000_119502(64) so I want to see those letters.
 
-(57) *AVR:	o(eddw)n i (y)n meddwl (he)fyd [?] ond +... 96955_98708
-(57) o(eddw)n i (y)n meddwl (he)fyd [?] ond +.. .
+(64) *CHT:	achos o(eddw)n i (y)n sgrifennu nain Richards@s:cy&es mam mam pan o(eddw)n i (y)n fach iawn . 119765_124450(65) because I used to write to Granny Richards, my mother''s mother, when I was very little.
 
-(58) *CHT:	&hm . 99039_99271
-(58) &hm .
+(65) *AVR:	+< ia . 122763_123245(66) yes.
 
-(59) *AVR:	rhyw ddynes dawel . 99329_100461
-(59) rhyw ddynes dawel .
+(66) *AVR:	+< xx Ana@s:cy&es +//. 123622_124754(67) *AVR:	oh@s:cy&es ia ? 124650_125381(68) oh yes?
 
-(60) *CHT:	+< ie oedd +//. 99590_100415
-(60) +< ie oedd +// .
+(68) *CHT:	pum(p) [/] pump oed o(eddw)n sgrifennu nain . 124748_126768(69) at five years old I used to write to my grandmother.
 
-(61) *CHT:	oh@s:cy&es ia . 100438_100989
-(61) oh@s:cy&es ia .
+(69) *AVR:	paid â deud ! 127057_127672(70) you don''t say!
 
-(62) *CHT:	oedd Natalia@s:cy&es (y)n deud bod hi <wedi cael> [//] wedi &f [//] wedi cael er@s:cy&es hyd (.) o lythyron (.) i nain (.) er@s:cy&es Rogers@s:cy&es a bod hi yn andros o agos atan ni (.) a nag oedd y nain arall dim . 101241_115489
-(62) oedd Natalia@s:cy&es (y)n deud bod hi <wedi cael> [//] wedi &f [//] wedi cael er@s:cy&es hyd (.) o lythyron (.) i nain (.) er@s:cy&es Rogers@s:cy&es a bod hi yn andros o agos atan ni (.) a nag oedd y nain arall dim .
+(70) *CHT:	o(eddw)n i (.) byth yn cael atebiad wrthyn nhw . 127549_130312(71) I never got a reply from them.
 
-(63) *CHT:	felly er@s:cy&es dw i isio gweld y llythyron yna . 117000_119502
-(63) felly er@s:cy&es dw i isio gweld y llythyron yna .
+(71) *AVR:	<a su(t)> [/] a sut wnest ti ddysgu er@s:cy&es +/? 130999_133287(72) and how did you learn...
 
-(64) *CHT:	achos o(eddw)n i (y)n sgrifennu nain Richards@s:cy&es mam mam pan o(eddw)n i (y)n fach iawn . 119765_124450
-(64) achos o(eddw)n i (y)n sgrifennu nain Richards@s:cy&es mam mam pan o(eddw)n i (y)n fach iawn .
+(72) *CHT:	adre . 133305_133938(73) at home.
 
-(65) *AVR:	+< ia . 122763_123245
-(65) +< ia .
+(73) *AVR:	+< adre ? 133706_134187(74) at home?
 
-(66) *AVR:	+< xx Ana@s:cy&es +//. 123622_124754
-(66) +< xx Ana@s:cy&es +// .
+(74) *CHT:	adre . 134036_134489(75) at home.
 
-(67) *AVR:	oh@s:cy&es ia ? 124650_125381
-(67) oh@s:cy&es ia ?
+(75) *CHT:	ia . 134944_135426(76) yes.
 
-(68) *CHT:	pum(p) [/] pump oed o(eddw)n sgrifennu nain . 124748_126768
-(68) pum(p) [/] pump oed o(eddw)n sgrifennu nain .
+(76) *CHT:	o(eddw)n i (y)n ofnadwy am [/] er@s:cy&es am [/] &ðəs am er@s:cy&es um@s:cy&es darllen . 135489_140087(77) I was terrible at reading.
 
-(69) *AVR:	paid â deud ! 127057_127672
-(69) paid â deud !
+(77) *CHT:	a <wedyn mi ddarllenais i (y)n [/]> [?] yn Gymraeg cyn darllen yn Sbaeneg . 140093_143768(78) and so I read in Welsh before reading in Spanish.
 
-(70) *CHT:	o(eddw)n i (.) byth yn cael atebiad wrthyn nhw . 127549_130312
-(70) o(eddw)n i (.) byth yn cael atebiad wrthyn nhw .
+(78) *AVR:	(dy)na ti dda . 144729_145420(79) that''s good.
 
-(71) *AVR:	<a su(t)> [/] a sut wnest ti ddysgu er@s:cy&es +/? 130999_133287
-(71) <a su(t)> [/] a sut wnest ti ddysgu er@s:cy&es +/?
+(79) *CHT:	ia a wedyn o(eddw)n i (y)n gallu sgrifennu (i)ddi [?] (y)n fuan iawn . 145567_148429(80) yes, and then I was able to write to her very early on.
 
-(72) *CHT:	adre . 133305_133938
-(72) adre .
+(80) *CHT:	pump chwech oed o(eddw)n i (y)n sgrifennu nain . 148490_150383(81) at five or six I was writing to my grandmother.
 
-(73) *AVR:	+< adre ? 133706_134187
-(73) +< adre ?
+(81) *AVR:	&m ! 150350_150855(82) *CHT:	&m . 150936_151197(83) *AVR:	nain [?] Richards@s:cy&es ? 151619_152397(84) Granny Richards?
 
-(74) *CHT:	adre . 134036_134489
-(74) adre .
+(84) *CHT:	nain Richards@s:cy&es . 152371_153207(85) Granny Richards.
 
-(75) *CHT:	ia . 134944_135426
-(75) ia .
+(85) *AVR:	a neb yn ateb ? 153493_154643(86) and no one replied?
 
-(76) *CHT:	o(eddw)n i (y)n ofnadwy am [/] er@s:cy&es am [/] &ðəs am er@s:cy&es um@s:cy&es darllen . 135489_140087
-(76) o(eddw)n i (y)n ofnadwy am [/] er@s:cy&es am [/] &ðəs am er@s:cy&es um@s:cy&es darllen .
+(86) *CHT:	+< achos +/. 153737_153993(87) because...
 
-(77) *CHT:	a <wedyn mi ddarllenais i (y)n [/]> [?] yn Gymraeg cyn darllen yn Sbaeneg . 140093_143768
-(77) a <wedyn mi ddarllenais i (y)n [/]> [?] yn Gymraeg cyn darllen yn Sbaeneg .
+(87) *CHT:	na oedden nhw ddim yn ateb . 154769_155773(88) no, they didn''t reply.
 
-(78) *AVR:	(dy)na ti dda . 144729_145420
-(78) (dy)na ti dda .
+(88) *CHT:	wel <yn ateb nain> [//] yn ateb mam yndy . 155757_158143(89) well, replying to my mother, yes.
 
-(79) *CHT:	ia a wedyn o(eddw)n i (y)n gallu sgrifennu (i)ddi [?] (y)n fuan iawn . 145567_148429
-(79) ia a wedyn o(eddw)n i (y)n gallu sgrifennu (i)ddi [?] (y)n fuan iawn .
+(89) *CHT:	<ond oedden (ddi)m> [?] ateb fi oedd [/] oedd yn fwysig i fi . 158532_160877(90) but they didn''t reply to me, which was important to me.
 
-(80) *CHT:	pump chwech oed o(eddw)n i (y)n sgrifennu nain . 148490_150383
-(80) pump chwech oed o(eddw)n i (y)n sgrifennu nain .
+(90) "pwysig" double-soft-mutated
 
-(81) *AVR:	&m ! 150350_150855
-(81) &m !
+(90) *AVR:	oedd o (y)n bwysig i ti . 161064_162190(91) it was important to you.
 
-(82) *CHT:	&m . 150936_151197
-(82) &m .
+(91) *CHT:	+< cael atebiad . 161737_162631(92) getting a reply.
 
-(83) *AVR:	nain [?] Richards@s:cy&es ? 151619_152397
-(83) nain [?] Richards@s:cy&es ?
+(92) *CHT:	dyna fo . 163446_163800(93) there it is.
 
-(84) *CHT:	nain Richards@s:cy&es . 152371_153207
-(84) nain Richards@s:cy&es .
+(93) *CHT:	a dw i (y)n cofio +/. 163789_164358(94) and I remember...
 
-(85) *AVR:	a neb yn ateb ? 153493_154643
-(85) a neb yn ateb ?
+(94) *AVR:	+< ti [/] ti oedd yr unig er@s:cy&es wyres oedd yn sgwennu ati ? 163917_166901(95) were you the only granddaughter who was writing to her?
 
-(86) *CHT:	+< achos +/. 153737_153993
-(86) +< achos +/ .
+(95) *CHT:	dw i ddim yn gwybod . 167086_168015(96) I don''t know.
 
-(87) *CHT:	na oedden nhw ddim yn ateb . 154769_155773
-(87) na oedden nhw ddim yn ateb .
+(96) *CHT:	(e)fallai bod Angela@s:cy&es (y)n sgrifennu (he)fyd . 168801_170391(97) perhaps Angela wrote too.
 
-(88) *CHT:	wel <yn ateb nain> [//] yn ateb mam yndy . 155757_158143
-(88) wel <yn ateb nain> [//] yn ateb mam yndy .
+(97) *CHT:	dw (ddi)m yn gwybod . 170395_171016(98) I don''t know.
 
-(89) *CHT:	<ond oedden (ddi)m> [?] ateb fi oedd [/] oedd yn fwysig i fi . 158532_160877
-(89) <ond oedden (ddi)m> [?] ateb fi oedd [/] oedd yn fwysig i fi .
+(98) *CHT:	(ddi)m cofio rŵan . 171170_171983(99) don''t remember now.
 
-(90) *AVR:	oedd o (y)n bwysig i ti . 161064_162190
-(90) oedd o (y)n bwysig i ti .
+(99) *CHT:	ond er@s:cy&es &t beth bynnag aethon ni at y môr . 172422_174698(100) but anyway, we went to the sea.
 
-(91) *CHT:	+< cael atebiad . 161737_162631
-(91) +< cael atebiad .
+(100) *CHT:	dw i (y)n cofio mi ddychrynais i o (y)r môr . 174692_176619(101) I remember I was afraid of the sea.
 
-(92) *CHT:	dyna fo . 163446_163800
-(92) dyna fo .
+(101) *AVR:	oh@s:cy&es . 176970_177272(102) *CHT:	a byth ar_ôl hynny dw i ddim yn llawer am y môr . 177266_179513(103) and ever since then I''ve not been keen on the sea.
 
-(93) *CHT:	a dw i (y)n cofio +/. 163789_164358
-(93) a dw i (y)n cofio +/ .
+(103) *AVR:	paid â deud ! 180146_180808(104) you don''t say!
 
-(94) *AVR:	+< ti [/] ti oedd yr unig er@s:cy&es wyres oedd yn sgwennu ati ? 163917_166901
-(94) +< ti [/] ti oedd yr unig er@s:cy&es wyres oedd yn sgwennu ati ?
+(104) *CHT:	mi welais i o mor fawr mor enfawr ynde (f)el (yn)a . 180527_183307(105) it seemed so big, so vast to me .
 
-(95) *CHT:	dw i ddim yn gwybod . 167086_168015
-(95) dw i ddim yn gwybod .
+(105) *CHT:	dw i (y)n licio mynd am sbel bach at y môr ond dim [/] dim [/] dim mwy . 184056_187365(106) I like to go to the sea for a short spell, but no more.
 
-(96) *CHT:	(e)fallai bod Angela@s:cy&es (y)n sgrifennu (he)fyd . 168801_170391
-(96) (e)fallai bod Angela@s:cy&es (y)n sgrifennu (he)fyd .
+(106) *AVR:	+< ia . 186994_187191(107) yes.
 
-(97) *CHT:	dw (ddi)m yn gwybod . 170395_171016
-(97) dw (ddi)m yn gwybod .
+(107) *AVR:	wnes i +/. 187422_187788(108) I...
 
-(98) *CHT:	(ddi)m cofio rŵan . 171170_171983
-(98) (ddi)m cofio rŵan .
+(108) *CHT:	buest ti yn xxx eleni ? 187764_189813(109) did you go to [...] this year?
 
-(99) *CHT:	ond er@s:cy&es &t beth bynnag aethon ni at y môr . 172422_174698
-(99) ond er@s:cy&es &t beth bynnag aethon ni at y môr .
+(109) *AVR:	oh@s:cy&es mi fues i yn xxx . 190647_192162(110) oh, I went to [...].
 
-(100) *CHT:	dw i (y)n cofio mi ddychrynais i o (y)r môr . 174692_176619
-(100) dw i (y)n cofio mi ddychrynais i o (y)r môr .
+(110) *AVR:	dan ni (y)n agos at y môr ryw sgwâr o (y)r môr . 192165_195080(111) we''re close to the sea, about a square away from the sea.
 
-(101) *AVR:	oh@s:cy&es . 176970_177272
-(101) oh@s:cy&es .
+(111) *CHT:	ah@s:cy&es . 195832_196407(112) *AVR:	ond er@s:cy&es (dy)na fo . 196458_198211(113) but, er, there we are.
 
-(102) *CHT:	a byth ar_ôl hynny dw i ddim yn llawer am y môr . 177266_179513
-(102) a byth ar_ôl hynny dw i ddim yn llawer am y môr .
+(113) *AVR:	llawer iawn o bobl . 198287_199564(114) lots and lots of people.
 
-(103) *AVR:	paid â deud ! 180146_180808
-(103) paid â deud !
+(114) *CHT:	oh@s:cy&es siwr o fod ! 199922_201013(115) oh, bound to be!
 
-(104) *CHT:	mi welais i o mor fawr mor enfawr ynde (f)el (yn)a . 180527_183307
-(104) mi welais i o mor fawr mor enfawr ynde (f)el (yn)a .
+(115) *AVR:	yn [?] bob man . 201427_202263(116) everywhere.
 
-(105) *CHT:	dw i (y)n licio mynd am sbel bach at y môr ond dim [/] dim [/] dim mwy . 184056_187365
-(105) dw i (y)n licio mynd am sbel bach at y môr ond dim [/] dim [/] dim mwy .
+(116) *CHT:	yn er@s:cy&es &lom Lomarmosa@s:es yn agos i: Bahia_Blanca@s:cy&es fues i (.) (e)leni . 202463_208222(117) I was in Lomarmosa this year, near Bahia Blanca.
 
-(106) *AVR:	+< ia . 186994_187191
-(106) +< ia .
+(117) *AVR:	+< aha@s:cy&es . 207491_207874(118) *AVR:	oh@s:cy&es fuest ti (e)leni ? 208860_209737(119) oh, you went this year?
 
-(107) *AVR:	wnes i +/. 187422_187788
-(107) wnes i +/ .
+(119) *CHT:	+< oh@s:cy&es [?] efo Luisa a: (y)r gŵr a (y)r plant bach . 209001_212305(120) with Luisa and [?her] husband and the little children.
 
-(108) *CHT:	buest ti yn xxx eleni ? 187764_189813
-(108) buest ti yn xxx eleni ?
+(120) *AVR:	oh@s:cy&es da iawn . 212646_213732(121) oh, very good.
 
-(109) *AVR:	oh@s:cy&es mi fues i yn xxx . 190647_192162
-(109) oh@s:cy&es mi fues i yn xxx .
+(121) *CHT:	do . 213770_214147(122) yes.
 
-(110) *AVR:	dan ni (y)n agos at y môr ryw sgwâr o (y)r môr . 192165_195080
-(110) dan ni (y)n agos at y môr ryw sgwâr o (y)r môr .
+(122) *AVR:	neis i (y)r plant xxx +/. 214126_216622(123) nice for the children...
 
-(111) *CHT:	ah@s:cy&es . 195832_196407
-(111) ah@s:cy&es .
+(123) *CHT:	+< oh@s:cy&es hyfryd ! 215049_215821(124) oh, lovely.
 
-(112) *AVR:	ond er@s:cy&es (dy)na fo . 196458_198211
-(112) ond er@s:cy&es (dy)na fo .
+(124) *CHT:	wel oedd yr un fach rhy fach i feddwl ond &=laugh +... 216764_219550(125) well the little one was too little to think so, but...
 
-(113) *AVR:	llawer iawn o bobl . 198287_199564
-(113) llawer iawn o bobl .
+(125) *CHT:	oedd Fernando@s:cy&es yn licio bod <yn yr> [//] yn y sand ac ati neu +... 219730_223504(126) Fernando liked being in the sand and things, or...
 
-(114) *CHT:	oh@s:cy&es siwr o fod ! 199922_201013
-(114) oh@s:cy&es siwr o fod !
+(126) *CHT:	a wedyn oedd o neis iawn . 224111_225219(127) and it was very nice.
 
-(115) *AVR:	yn [?] bob man . 201427_202263
-(115) yn [?] bob man .
+(127) *AVR:	tro cynta es i i (y)r môr o(eddw)n i tua saith oed . 225403_228486(128) the first time I went to the sea I was about seven.
 
-(116) *CHT:	yn er@s:cy&es &lom Lomarmosa@s:es yn agos i: Bahia_Blanca@s:cy&es fues i (.) (e)leni . 202463_208222
-(116) yn er@s:cy&es &lom Lomarmosa@s:es yn agos i: Bahia_Blanca@s:cy&es fues i (.) (e)leni .
+(128) *AVR:	<fuon ni> [?] xx dros y paith mewn motor newydd internacional@s:es .229292_233593(129) we went [..] across the desert in a new car, international.
 
-(117) *AVR:	+< aha@s:cy&es . 207491_207874
-(117) +< aha@s:cy&es .
+(129) *AVR:	a wedyn oedd dada [/] teulu dada yn y dyffryn. 234448_237548(130) and then my father''s family were in the valley.
 
-(118) *AVR:	oh@s:cy&es fuest ti (e)leni ? 208860_209737
-(118) oh@s:cy&es fuest ti (e)leni ?
+(130) *AVR:	a wedyn mi gaethon ni fynd ar lan y môr . 237544_239454(131) and then we got to go to the seaside.
 
-(119) *CHT:	+< oh@s:cy&es [?] efo Luisa a: (y)r gŵr a (y)r plant bach . 209001_212305
-(119) +< oh@s:cy&es [?] efo Luisa a: (y)r gŵr a (y)r plant bach .
+(131) *AVR:	ond ryw ddiwrnod oer oedd o [?] . 240267_242066(132) but it was on a cold day.
 
-(120) *AVR:	oh@s:cy&es da iawn . 212646_213732
-(120) oh@s:cy&es da iawn .
+(132) *CHT:	+< oh@s:cy&es ia <Playa@s:cy&es Uníon@s:cy&es> [?] siwr . 242002_244795(133) oh, yes, Playa Union, for sure.
 
-(121) *CHT:	do . 213770_214147
-(121) do .
+(133) *AVR:	diwrnod oer oedd (y)na dim haul . 245015_247273(134) a cold day, there was no sun.
 
-(122) *AVR:	neis i (y)r plant xxx +/. 214126_216622
-(122) neis i (y)r plant xxx +/ .
+(134) *CHT:	+< oh@s:cy&es ! 245932_246333(135) *AVR:	a wedyn mi gaethon ni sefyll yn yr hotel fan hyn <yn Playa@s:cy&es Uníon@s:cy&es> [?] . 247817_251537(136) and then we got to stand in the hotel here, in Playa Union.
 
-(123) *CHT:	+< oh@s:cy&es hyfryd ! 215049_215821
-(123) +< oh@s:cy&es hyfryd !
+(136) *CHT:	oh@s:cy&es ! 251764_252263(137) *AVR:	Playa@s:cy&es Uníon@s:cy&es . 252534_253219(138) *AVR:	lle oedd e Madryn@s:cy&es dywed ? 253230_254322(139) where was that, in Madryn?
 
-(124) *CHT:	wel oedd yr un fach rhy fach i feddwl ond &=laugh +... 216764_219550
-(124) wel oedd yr un fach rhy fach i feddwl ond &=laugh +.. .
+(139) *CHT:	yn agos i Rawson@s:cy&es . 254319_255335(140) near Rawson.
 
-(125) *CHT:	oedd Fernando@s:cy&es yn licio bod <yn yr> [//] yn y sand ac ati neu +... 219730_223504
-(125) oedd Fernando@s:cy&es yn licio bod <yn yr> [//] yn y sand ac ati neu +.. .
+(140) *CHT:	agos iawn i Rawson . 256180_257701(141) very near to Rawson
 
-(126) *CHT:	a wedyn oedd o neis iawn . 224111_225219
-(126) a wedyn oedd o neis iawn .
+(141) *CHT:	mynd ryw bum(p) +/. 258268_259237(142) go about five...
 
-(127) *AVR:	tro cynta es i i (y)r môr o(eddw)n i tua saith oed . 225403_228486
-(127) tro cynta es i i (y)r môr o(eddw)n i tua saith oed .
+(142) *AVR:	na o(edde)n ni (y)n Madryn oedd y xxx Unión@s:es hwnnw . 259294_262707(143) no, we were in Madryn; that''s where that [...] union was.
 
-(128) *AVR:	<fuon ni> [?] xx dros y paith mewn motor newydd internacional@s:es .229292_233593
-(128) <fuon ni> [?] xx dros y paith mewn motor newydd internacional@s:es .
+(143) *CHT:	+< ah@s:cy&es oh@s:cy&es . 260902_261633(144) *AVR:	mi aethon ni i Playa@s:cy&es Uníon@s:cy&es a wedyn mi aethon ni Madryn@s:cy&es . 263010_266338(145) we went to Playa Union and then we went to Madryn.
 
-(129) *AVR:	a wedyn oedd dada [/] teulu dada yn y dyffryn. 234448_237548
-(129) a wedyn oedd dada [/] teulu dada yn y dyffryn .
+(145) *AVR:	a pan aethon ni i Madryn oedden ni (y)n aros yn yr hotel xxx . 266332_270237(146) and when we went to Madryn we were staying in the hotel [...].
 
-(130) *AVR:	a wedyn mi gaethon ni fynd ar lan y môr . 237544_239454
-(130) a wedyn mi gaethon ni fynd ar lan y môr .
+(146) *AVR:	a wedyn yn y nos (.) oedd (y)na ryw sŵn (.) <fel ryw> [/] (.) fel ryw um@s:cy&es (...) gwartheg yn +... 270737_281361(147) and then in the night there was some sound like some cattle...
 
-(131) *AVR:	ond ryw ddiwrnod oer oedd o [?] . 240267_242066
-(131) ond ryw ddiwrnod oer oedd o [?] .
+(147) *CHT:	++ yn brefu ? 281434_282055(148) ...lowing?
 
-(132) *CHT:	+< oh@s:cy&es ia <Playa@s:cy&es Uníon@s:cy&es> [?] siwr . 242002_244795
-(132) +< oh@s:cy&es ia <Playa@s:cy&es Uníon@s:cy&es> [?] siwr .
+(148) *AVR:	+, ie yn brefu . 282178_283189(149) ...yes, lowing.
 
-(133) *AVR:	diwrnod oer oedd (y)na dim haul . 245015_247273
-(133) diwrnod oer oedd (y)na dim haul .
+(149) *CHT:	oh@s:cy&es . 283567_283932(150) *AVR:	oh@s:cy&es be (y)dy hwn ? 283727_284580(151) oh, what''s this?
 
-(134) *CHT:	+< oh@s:cy&es ! 245932_246333
-(134) +< oh@s:cy&es !
+(151) *CHT:	+< xxx ! 284434_285217(152) *AVR:	a be oedd <i ti oedd> [?] llong yn o_fewn i (y)r porth . 285824_289028(153) and what it was, I''m telling you, there was a ship inside the port.
 
-(135) *AVR:	a wedyn mi gaethon ni sefyll yn yr hotel fan hyn <yn Playa@s:cy&es Uníon@s:cy&es> [?] . 247817_251537
-(135) a wedyn mi gaethon ni sefyll yn yr hotel fan hyn <yn Playa@s:cy&es Uníon@s:cy&es> [?] .
+(153) *CHT:	na ! 289158_290105(154) no!
 
-(136) *CHT:	oh@s:cy&es ! 251764_252263
-(136) oh@s:cy&es !
+(154) *AVR:	a wedyn i ti <oedd o> [//] oedd er@s:cy&es dada yn wneud inni godi (y)n syth . 290569_294464(155) and then, I''m telling you, my father made us all get up immediately.
 
-(137) *AVR:	Playa@s:cy&es Uníon@s:cy&es . 252534_253219
-(137) Playa@s:cy&es Uníon@s:cy&es .
+(155) *CHT:	i weld . 294791_295383(156) to see.
 
-(138) *AVR:	lle oedd e Madryn@s:cy&es dywed ? 253230_254322
-(138) lle oedd e Madryn@s:cy&es dywed ?
+(156) *AVR:	i weld . 295397_295920(157) to see.
 
-(139) *CHT:	yn agos i Rawson@s:cy&es . 254319_255335
-(139) yn agos i Rawson@s:cy&es .
+(157) *CHT:	oh@s:cy&es (y)r goleuadau i_gyd ie ? 295956_297686(158) oh, all the lights?
 
-(140) *CHT:	agos iawn i Rawson . 256180_257701
-(140) agos iawn i Rawson .
+(158) *AVR:	y goleuadau (y)r llong mawr . 297461_298950(159) the lights of the big ship.
 
-(141) *CHT:	mynd ryw bum(p) +/. 258268_259237
-(141) mynd ryw bum(p) +/ .
+(159) *CHT:	oh@s:cy&es hyfryd ! 298621_299851(160) oh, lovely!
 
-(142) *AVR:	na o(edde)n ni (y)n Madryn oedd y xxx Unión@s:es hwnnw . 259294_262707
-(142) na o(edde)n ni (y)n Madryn oedd y xxx Unión@s:es hwnnw .
+(160) *AVR:	wna i byth anghofio . 299851_301166(161) I shall never forget.
 
-(143) *CHT:	+< ah@s:cy&es oh@s:cy&es . 260902_261633
-(143) +< ah@s:cy&es oh@s:cy&es .
+(161) *CHT:	+< ia . 300668_301208(162) yes.
 
-(144) *AVR:	mi aethon ni i Playa@s:cy&es Uníon@s:cy&es a wedyn mi aethon ni Madryn@s:cy&es . 263010_266338
-(144) mi aethon ni i Playa@s:cy&es Uníon@s:cy&es a wedyn mi aethon ni Madryn@s:cy&es .
+(162) *AVR:	wna i byth anghofio (y)r [//] yr [/] yr [/] yr er@s:cy&es +... 301125_304655(163) I''ll never forget the...
 
-(145) *AVR:	a pan aethon ni i Madryn oedden ni (y)n aros yn yr hotel xxx . 266332_270237
-(145) a pan aethon ni i Madryn oedden ni (y)n aros yn yr hotel xxx .
+(163) *AVR:	be (y)dy bocina@s:es xx ? 305569_307629(164) what is xx foghorn ?
 
-(146) *AVR:	a wedyn yn y nos (.) oedd (y)na ryw sŵn (.) <fel ryw> [/] (.) fel ryw um@s:cy&es (...) gwartheg yn +... 270737_281361
-(146) a wedyn yn y nos (.) oedd (y)na ryw sŵn (.) <fel ryw> [/] (.) fel ryw um@s:cy&es (...) gwartheg yn +.. .
+(164) *CHT:	um@s:cy&es . 307066_308216(165) *AVR:	be (y)dy o ? 307722_308181(166) what is it?
 
-(147) *CHT:	++ yn brefu ? 281434_282055
-(147) ++ yn brefu ?
+(166) *CHT:	na dw i ddim yn cofio be (y)dy enw fo . 308240_309627(167) no I can''t remember what it''s called.
 
-(148) *AVR:	+, ie yn brefu . 282178_283189
-(148) +, ie yn brefu .
+(167) *CHT:	um@s:cy&es ie <mae o> [/] mae o (y)n gry:(f) a mae o (y)n hir yn_dydy ? 309978_313473(168) um, yes it''s strong and long isn''t it?
 
-(149) *CHT:	oh@s:cy&es . 283567_283932
-(149) oh@s:cy&es .
+(168) *AVR:	+< yndy . 312994_313255(169) yes.
 
-(150) *AVR:	oh@s:cy&es be (y)dy hwn ? 283727_284580
-(150) oh@s:cy&es be (y)dy hwn ?
+(169) *CHT:	ie dw i ddim yn cofio be (y)dy enw fo . 313913_315184(170) yes, I don''t remember what it''s called.
 
-(151) *CHT:	+< xxx ! 284434_285217
-(151) +< xxx !
+(170) *CHT:	um@s:cy&es +... 315684_316474(171) *AVR:	a felly [/] felly +/. 317092_318189(172) and so...
 
-(152) *AVR:	a be oedd <i ti oedd> [?] llong yn o_fewn i (y)r porth . 285824_289028
-(152) a be oedd <i ti oedd> [?] llong yn o_fewn i (y)r porth .
+(172) *CHT:	ond [?] oedden nhw (y)n dod <at yr> [//] at y lan ? 318175_320665(173) but did they come up to the coast?
 
-(153) *CHT:	na ! 289158_290105
-(153) na !
+(173) *AVR:	at y <pier oedd> [?] . 320716_321772(174) to the pier, yes.
 
-(154) *AVR:	a wedyn i ti <oedd o> [//] oedd er@s:cy&es dada yn wneud inni godi (y)n syth . 290569_294464
-(154) a wedyn i ti <oedd o> [//] oedd er@s:cy&es dada yn wneud inni godi (y)n syth .
+(174) *CHT:	oedden nhw ? 321883_322359(175) were they?
 
-(155) *CHT:	i weld . 294791_295383
-(155) i weld .
+(175) *AVR:	oedd o . 322365_322736(176) it was.
 
-(156) *AVR:	i weld . 295397_295920
-(156) i weld .
+(176) *CHT:	oedd o digon dyfn ? 322765_323748(177) was it deep enough?
 
-(157) *CHT:	oh@s:cy&es (y)r goleuadau i_gyd ie ? 295956_297686
-(157) oh@s:cy&es (y)r goleuadau i_gyd ie ?
+(177) *AVR:	ie ond <ni oedd> [/] ni oedd e ddim yn long fawr iawn . 323838_326723(178) yes, but it wasn''t a very big ship.
 
-(158) *AVR:	y goleuadau (y)r llong mawr . 297461_298950
-(158) y goleuadau (y)r llong mawr .
+(178) *CHT:	+< ie efallai . 326545_327224(179) yes, perhaps.
 
-(159) *CHT:	oh@s:cy&es hyfryd ! 298621_299851
-(159) oh@s:cy&es hyfryd !
+(179) *CHT:	(e)fallai . 327509_327910(180) perhaps.
 
-(160) *AVR:	wna i byth anghofio . 299851_301166
-(160) wna i byth anghofio .
+(180) *AVR:	oe(ddwn) fi (y)n fach . 327774_328604(181) I was little.
 
-(161) *CHT:	+< ia . 300668_301208
-(161) +< ia .
+(181) *AVR:	o(eddw)n i (y)n gweld hi (y)n fawr . 328627_329724(182) I saw it as big.
 
-(162) *AVR:	wna i byth anghofio (y)r [//] yr [/] yr [/] yr er@s:cy&es +... 301125_304655
-(162) wna i byth anghofio (y)r [//] yr [/] yr [/] yr er@s:cy&es +.. .
+(182) *CHT:	xxx dyna oedd y peth . 329690_331440(183) [...] that was the thing.
 
-(163) *AVR:	be (y)dy bocina@s:es xx ? 305569_307629
-(163) be (y)dy bocina@s:es xx ?
+(183) *AVR:	a wedyn i ti mae yn tŷ modryb Christa@s:cy&es . 331436_334271(184) and then, it is Aunt Christa''s house.
 
-(164) *CHT:	um@s:cy&es . 307066_308216
-(164) um@s:cy&es .
+(184) meaning unclear from context
 
-(165) *AVR:	be (y)dy o ? 307722_308181
-(165) be (y)dy o ?
+(184) *AVR:	wel wnes i nabod hi pan o(eddw)n i pymtheg oed . 334263_336890(185) well, I got to know her when I was fifteen.
 
-(166) *CHT:	na dw i ddim yn cofio be (y)dy enw fo . 308240_309627
-(166) na dw i ddim yn cofio be (y)dy enw fo .
+(185) *AVR:	oedden ni (y)n mynd i (y)r ysgol (.) yn Trelew . 338000_341018(186) we used to go to school in Trelew.
 
-(167) *CHT:	um@s:cy&es ie <mae o> [/] mae o (y)n gry:(f) a mae o (y)n hir yn_dydy ? 309978_313473
-(167) um@s:cy&es ie <mae o> [/] mae o (y)n gry:(f) a mae o (y)n hir yn_dydy ?
+(186) *AVR:	ac um@s:cy&es (.) fan (y)na wnes i nabod modryb Christa@s:cy&es oedd yn chwaer i (.) taid Bob@s:cy&es . 341404_348874(187) and that''s where I got to know Aunt Christa, who was Grandpa Bob''s sister.
 
-(168) *AVR:	+< yndy . 312994_313255
-(168) +< yndy .
+(187) *CHT:	ie ia . 349923_350446(188) yes yes.
 
-(169) *CHT:	ie dw i ddim yn cofio be (y)dy enw fo . 313913_315184
-(169) ie dw i ddim yn cofio be (y)dy enw fo .
+(188) *AVR:	+< ac [?] oedd y dau yn digon debyg i w gilydd . 350163_353434(189) and they were both quite similar to one another.
 
-(170) *CHT:	um@s:cy&es +... 315684_316474
-(170) um@s:cy&es +.. .
+(189) *CHT:	ia . 353034_353394(190) yes.
 
-(171) *AVR:	a felly [/] felly +/. 317092_318189
-(171) a felly [/] felly +/ .
+(190) *AVR:	er@s:cy&es <dim llawer xx> [/] <dim llawer> [//] dim siarad llawer . 353635_356491(191) didn''t talk much.
 
-(172) *CHT:	ond [?] oedden nhw (y)n dod <at yr> [//] at y lan ? 318175_320665
-(172) ond [?] oedden nhw (y)n dod <at yr> [//] at y lan ?
+(191) *CHT:	oh@s:cy&es . 356719_357201(192) *AVR:	ond er@s:cy&es dawel . 357321_358830(193) but, quiet.
 
-(173) *AVR:	at y <pier oedd> [?] . 320716_321772
-(173) at y <pier oedd> [?] .
+(193) *CHT:	ia . 359150_359544(194) yes.
 
-(174) *CHT:	oedden nhw ? 321883_322359
-(174) oedden nhw ?
+(194) *AVR:	popeth yn iawn ond dawel . 359484_361156(195) everything alright, but quiet.
 
-(175) *AVR:	oedd o . 322365_322736
-(175) oedd o .
+(195) *CHT:	ia piti wnaethon ni wedi cael nabod hi . 361144_363306(196) yes, a pity we [didn''t] get to know her.
 
-(176) *CHT:	oedd o digon dyfn ? 322765_323748
-(176) oedd o digon dyfn ?
+(196) *CHT:	um@s:cy&es a o fan (y)na mae (y)r Christina@s:cy&es yn dod i fi ynde . 363625_366551(197) um, and that''s where I get "Christina" from, isn''t it.
 
-(177) *AVR:	ie ond <ni oedd> [/] ni oedd e ddim yn long fawr iawn . 323838_326723
-(177) ie ond <ni oedd> [/] ni oedd e ddim yn long fawr iawn .
+(197) *AVR:	ah@s:cy&es ia ? 367229_367769(198) oh really?
 
-(178) *CHT:	+< ie efallai . 326545_327224
-(178) +< ie efallai .
+(198) *CHT:	ia . 367752_368187(199) yes.
 
-(179) *CHT:	(e)fallai . 327509_327910
-(179) (e)fallai .
+(199) *CHT:	Christina@s:cy&es oedd hi ynde Christa@s:cy&es . 368906_370701(200) she was Christina wasn''t she: Christa.
 
-(180) *AVR:	oe(ddwn) fi (y)n fach . 327774_328604
-(180) oe(ddwn) fi (y)n fach .
+(200) *AVR:	Christa@s:cy&es . 370673_371218(201) *CHT:	ia . 371242_371532(202) yes.
 
-(181) *AVR:	o(eddw)n i (y)n gweld hi (y)n fawr . 328627_329724
-(181) o(eddw)n i (y)n gweld hi (y)n fawr .
+(202) *AVR:	ah@s:cy&es . 371596_372461(203) *CHT:	ie xxx . 372935_373864(204) yes [...].
 
-(182) *CHT:	xxx dyna oedd y peth . 329690_331440
-(182) xxx dyna oedd y peth .
+(204) *AVR:	er@s:cy&es &pr p(a) (y)r un ferch wyt ti ? 375154_376454(205) er, which daughter are you?
 
-(183) *AVR:	a wedyn i ti mae yn tŷ modryb Christa@s:cy&es . 331436_334271
-(183) a wedyn i ti mae yn tŷ modryb Christa@s:cy&es .
+(205) *AVR:	y chweched neu (y)r ? 376489_377337(206) the sixth or..?
 
-(184) *AVR:	wel wnes i nabod hi pan o(eddw)n i pymtheg oed . 334263_336890
-(184) wel wnes i nabod hi pan o(eddw)n i pymtheg oed .
+(206) *CHT:	<yr er@s:cy&es ferch> [//] y chweched ferch ond yr er@s:cy&es seithfed um@s:cy&es (..) o blant yndy . 377450_384824(207) the sixth daughter, but the seventh of the children.
 
-(185) *AVR:	oedden ni (y)n mynd i (y)r ysgol (.) yn Trelew . 338000_341018
-(185) oedden ni (y)n mynd i (y)r ysgol (.) yn Trelew .
+(207) *AVR:	ia seithfed wyt ti . 385002_386035(208) yes, you''re the seventh.
 
-(186) *AVR:	ac um@s:cy&es (.) fan (y)na wnes i nabod modryb Christa@s:cy&es oedd yn chwaer i (.) taid Bob@s:cy&es . 341404_348874
-(186) ac um@s:cy&es (.) fan (y)na wnes i nabod modryb Christa@s:cy&es oedd yn chwaer i (.) taid Bob@s:cy&es .
+(208) *CHT:	oedd (y)na saith xxx cyn fi . 385350_386871(209) there were seven [...] before me.
 
-(187) *CHT:	ie ia . 349923_350446
-(187) ie ia .
+(209) *AVR:	(dy)na fo . 388582_389058(210) that''s it.
 
-(188) *AVR:	+< ac [?] oedd y dau yn digon debyg i w gilydd . 350163_353434
-(188) +< ac [?] oedd y dau yn digon debyg i w gilydd .
+(210) *AVR:	fel (yn)a oedd mam hefyd . 389047_390057(211) my mother was like that too.
 
-(189) *CHT:	ia . 353034_353394
-(189) ia .
+(211) *CHT:	ia ? 390465_390825(212) really?
 
-(190) *AVR:	er@s:cy&es <dim llawer xx> [/] <dim llawer> [//] dim siarad llawer . 353635_356491
-(190) er@s:cy&es <dim llawer xx> [/] <dim llawer> [//] dim siarad llawer .
+(212) *AVR:	oedd hi y seithfed . 391134_392562(213) she was the seventh.
 
-(191) *CHT:	oh@s:cy&es . 356719_357201
-(191) oh@s:cy&es .
+(213) *CHT:	ia ? 393006_393482(214) really?
 
-(192) *AVR:	ond er@s:cy&es dawel . 357321_358830
-(192) ond er@s:cy&es dawel .
+(214) *AVR:	a wedyn oedd (yn)a saith wedyn erioed . 393467_395197(215) and then there have been seven since then.
 
-(193) *CHT:	ia . 359150_359544
-(193) ia .
+(215) *CHT:	&upa ! 395280_395908(216) not sure what this exclamation is!
 
-(194) *AVR:	popeth yn iawn ond dawel . 359484_361156
-(194) popeth yn iawn ond dawel .
+(216) *CHT:	un_deg_pedwar ie . 396158_397099(217) fourteen, yes.
 
-(195) *CHT:	ia piti wnaethon ni wedi cael nabod hi . 361144_363306
-(195) ia piti wnaethon ni wedi cael nabod hi .
+(217) *AVR:	un_deg_pedwar . 396849_397482(218) fourteen.
 
-(196) *CHT:	um@s:cy&es a o fan (y)na mae (y)r Christina@s:cy&es yn dod i fi ynde . 363625_366551
-(196) um@s:cy&es a o fan (y)na mae (y)r Christina@s:cy&es yn dod i fi ynde .
+(218) *CHT:	ia dw i (y)n cofio fu hi (y)n gweld y llun hynny (.) yn [/] yn agos i Harlech@s:cy&es . 397671_402152(219) yes, I remember she saw that picture near Harlech.
 
-(197) *AVR:	ah@s:cy&es ia ? 367229_367769
-(197) ah@s:cy&es ia ?
+(219) *CHT:	dw (ddi)m yn cofio be oedd yr enw ond pentre bach yn agos i Harlech@s:cy&es . 402201_405160(220) I can''t remember what it was called, but a small village near Harlech.
 
-(198) *CHT:	ia . 367752_368187
-(198) ia .
+(220) *CHT:	a [/] a (y)r ddynes yn dod <â (y)r> [/] â (y)r [//] um@s:cy&es y llun y [/] y teulu i_gyd Griffiths@s:cy&es i ddangos iddi . 405287_411311(221) and the lady bringing the picture of the whole Griffiths family to show her.
 
-(199) *CHT:	Christina@s:cy&es oedd hi ynde Christa@s:cy&es . 368906_370701
-(199) Christina@s:cy&es oedd hi ynde Christa@s:cy&es .
+(221) *CHT:	oedd y [/] &ti y llun [?] yna efo dada adre ! 411260_414190(222) my father had that picture at home!
 
-(200) *AVR:	Christa@s:cy&es . 370673_371218
-(200) Christa@s:cy&es .
+(222) *AVR:	paid â deud . 414717_415251(223) you don''t say.
 
-(201) *CHT:	ia . 371242_371532
-(201) ia .
+(223) *AVR:	y llun wedi cael ei tynnu yn Bryn Amlwch . 415251_417225(224) the picture had been taken at Bryn Amlwch.
 
-(202) *AVR:	ah@s:cy&es . 371596_372461
-(202) ah@s:cy&es .
+(224) *CHT:	dw i ddim yn gwybod lle oedd gae(l) dynnu . 417603_418840(225) I don''t know where it was taken.
 
-(203) *CHT:	ie xxx . 372935_373864
-(203) ie xxx .
+(225) *CHT:	oedde(n) [/] oedden nhw i_gyd yna (.) modryb Anwen@s:cy&es modryb [//] er@s:cy&es pawb . 418834_422739(226) they were all there: Aunt Anwen, Aunt.. . everyone.
 
-(204) *AVR:	er@s:cy&es &pr p(a) (y)r un ferch wyt ti ? 375154_376454
-(204) er@s:cy&es &pr p(a) (y)r un ferch wyt ti ?
+(226) *CHT:	pawb . 423153_423547(227) everyone.
 
-(205) *AVR:	y chweched neu (y)r ? 376489_377337
-(205) y chweched neu (y)r ?
+(227) *AVR:	a xx Jack@s:cy&es yn bach ? 423237_424985(228) and [..] Jack was little?
 
-(206) *CHT:	<yr er@s:cy&es ferch> [//] y chweched ferch ond yr er@s:cy&es seithfed um@s:cy&es (..) o blant yndy . 377450_384824
-(206) <yr er@s:cy&es ferch> [//] y chweched ferch ond yr er@s:cy&es seithfed um@s:cy&es (..) o blant yndy .
+(228) *CHT:	ia . 425231_425684(229) yes.
 
-(207) *AVR:	ia seithfed wyt ti . 385002_386035
-(207) ia seithfed wyt ti .
+(229) *CHT:	ia ar glin nain ia ? 426241_427965(230) yes, on Granny''s knee?
 
-(208) *CHT:	oedd (y)na saith xxx cyn fi . 385350_386871
-(208) oedd (y)na saith xxx cyn fi .
+(230) *CHT:	ar glin nain neu ar glin taid ? 428148_429593(231) on Granny''s knee or Grandpa''s knee?
 
-(209) *AVR:	(dy)na fo . 388582_389058
-(209) (dy)na fo .
+(231) *CHT:	um@s:cy&es +...(232) *CHT:	er@s:cy&es wrth ben mynydd . 431684_432920(233) by the mountain top.
 
-(210) *AVR:	fel (yn)a oedd mam hefyd . 389047_390057
-(210) fel (yn)a oedd mam hefyd .
+(233) *AVR:	ia . 432906_433236(234) yes.
 
-(211) *CHT:	ia ? 390465_390825
-(211) ia ?
+(234) *CHT:	oh@s:cy&es ie <oedd o> [/] oedd o (y)n syndod i mi cwrdd â ryw lun felly de . 434534_438713(235) oh yes, it was a shock for me to come across a picture like that.
 
-(212) *AVR:	oedd hi y seithfed . 391134_392562
-(212) oedd hi y seithfed .
+(235) *AVR:	oeddet ti wedi gweld xx +/? 438875_440257(236) had you seen [it ...] ?
 
-(213) *CHT:	ia ? 393006_393482
-(213) ia ?
+(236) *CHT:	+< yn Gymru . 439415_440071(237) ...in Wales.
 
-(214) *AVR:	a wedyn oedd (yn)a saith wedyn erioed . 393467_395197
-(214) a wedyn oedd (yn)a saith wedyn erioed .
+(237) *CHT:	o(eddw)n o(edde)n ni â ddo adre efo ni . 440791_442360(238) yes, we had it at home with us.
 
-(215) *CHT:	&upa ! 395280_395908
-(215) &upa !
+(238) "ddo" as masc pronoun (cf. ddi)
 
-(216) *CHT:	un_deg_pedwar ie . 396158_397099
-(216) un_deg_pedwar ie .
+(238) *AVR:	ah@s:cy&es oedden ? 442374_443024(239) ah, did we?
 
-(217) *AVR:	un_deg_pedwar . 396849_397482
-(217) un_deg_pedwar .
+(239) *CHT:	oedd (dy)na pam oeddwn i (y)n (.) gwybod be oedd y llun yn deud yn iawn . 443001_447278(240) yes, that''s why I knew what the picture was to tell the truth.
 
-(218) *CHT:	ia dw i (y)n cofio fu hi (y)n gweld y llun hynny (.) yn [/] yn agos i Harlech@s:cy&es . 397671_402152
-(218) ia dw i (y)n cofio fu hi (y)n gweld y llun hynny (.) yn [/] yn agos i Harlech@s:cy&es .
+(240) *AVR:	+< ie . 445301_445812(241) yes.
 
-(219) *CHT:	dw (ddi)m yn cofio be oedd yr enw ond pentre bach yn agos i Harlech@s:cy&es . 402201_405160
-(219) dw (ddi)m yn cofio be oedd yr enw ond pentre bach yn agos i Harlech@s:cy&es .
+(241) *AVR:	ie . 447358_448101(242) yes.
 
-(220) *CHT:	a [/] a (y)r ddynes yn dod <â (y)r> [/] â (y)r [//] um@s:cy&es y llun y [/] y teulu i_gyd Griffiths@s:cy&es i ddangos iddi . 405287_411311
-(220) a [/] a (y)r ddynes yn dod <â (y)r> [/] â (y)r [//] um@s:cy&es y llun y [/] y teulu i_gyd Griffiths@s:cy&es i ddangos iddi .
+(242) *AVR:	adnabyddus gyda (y)r llun (y)ma . 448685_450775(243) familiar with that picture.
 
-(221) *CHT:	oedd y [/] &ti y llun [?] yna efo dada adre ! 411260_414190
-(221) oedd y [/] &ti y llun [?] yna efo dada adre !
+(243) *CHT:	oedd . 450839_451094(244) yes.
 
-(222) *AVR:	paid â deud . 414717_415251
-(222) paid â deud .
+(244) *CHT:	ia dwy chwaer oedd yn byw <yn y> [/] yn y cartre bach (y)ma yn perthyn i ni ynde o bell [?] . 452013_457029(245) yes, there were two sisters living in this little home, related to us, distantly.
 
-(223) *AVR:	y llun wedi cael ei tynnu yn Bryn Amlwch . 415251_417225
-(223) y llun wedi cael ei tynnu yn Bryn Amlwch .
+(245) *AVR:	&m . 456741_457281(246) *CHT:	ond er@s:cy&es [///] a wedyn o(eddw)n i (y)n mynd at y brawd . 457318_459582(247) but, and then I went to the brother.
 
-(224) *CHT:	dw i ddim yn gwybod lle oedd gae(l) dynnu . 417603_418840
-(224) dw i ddim yn gwybod lle oedd gae(l) dynnu .
+(247) *CHT:	fues i (y)n lle (y)r brawd er@s:cy&es o_gwmpas er@s:cy&es Llanrwst@s:cy&es ar y ffarm . 459532_464478(248) I was at the brother''s place around Llanrwst, on the farm.
 
-(225) *CHT:	oedde(n) [/] oedden nhw i_gyd yna (.) modryb Anwen@s:cy&es modryb [//] er@s:cy&es pawb . 418834_422739
-(225) oedde(n) [/] oedden nhw i_gyd yna (.) modryb Anwen@s:cy&es modryb [//] er@s:cy&es pawb .
+(248) *AVR:	oh@s:cy&es . 464554_465245(249) *CHT:	er@s:cy&es oedd y brawd wedi priodi +/. 466012_468339(250) the brother had married...
 
-(226) *CHT:	pawb . 423153_423547
-(226) pawb .
+(250) *AVR:	+< a be oedden nhw &k cefnderwyr i dy dad ? 467261_469873(251) and what were they, cousins of your father?
 
-(227) *AVR:	a xx Jack@s:cy&es yn bach ? 423237_424985
-(227) a xx Jack@s:cy&es yn bach ?
+(251) *CHT:	&m bellach dw i meddwl . 470145_471928(252) more distant I think.
 
-(228) *CHT:	ia . 425231_425684
-(228) ia .
+(252) *AVR:	ia ? 472111_472604(253) really?
 
-(229) *CHT:	ia ar glin nain ia ? 426241_427965
-(229) ia ar glin nain ia ?
+(253) *CHT:	ie . 472645_472976(254) yes.
 
-(230) *CHT:	ar glin nain neu ar glin taid ? 428148_429593
-(230) ar glin nain neu ar glin taid ?
+(254) *CHT:	dw i ddim yn siwr iawn . 473324_474427(255) I''m not really sure.
 
-(231) *CHT:	um@s:cy&es +...
-(231) um@s:cy&es +.. .
+(255) *AVR:	+< <oedden nhw debyg> [?] ? 473721_474482(256) did they look similar?
 
-(232) *CHT:	er@s:cy&es wrth ben mynydd . 431684_432920
-(232) er@s:cy&es wrth ben mynydd .
+(256) *CHT:	i dada . 475164_475867(257) to my father?
 
-(233) *AVR:	ia . 432906_433236
-(233) ia .
+(257) *CHT:	na wel na na na . 475855_477806(258) no, well, no.
 
-(234) *CHT:	oh@s:cy&es ie <oedd o> [/] oedd o (y)n syndod i mi cwrdd â ryw lun felly de . 434534_438713
-(234) oh@s:cy&es ie <oedd o> [/] oedd o (y)n syndod i mi cwrdd â ryw lun felly de .
+(258) *CHT:	oedd o (ddi)m debyg . 477842_478916(259) he didn''t look similar.
 
-(235) *AVR:	oeddet ti wedi gweld xx +/? 438875_440257
-(235) oeddet ti wedi gweld xx +/?
+(259) *CHT:	a wedyn oedd y gwraig [//] um@s:cy&es (.) gwraig a dau o blant efo nhw . 479697_484033(260) and then there was the wife, and two children with them.
 
-(236) *CHT:	+< yn Gymru . 439415_440071
-(236) +< yn Gymru .
+(260) *AVR:	oh@s:cy&es . 484339_485320(261) *CHT:	plant mawr . 485565_486303(262) big children .
 
-(237) *CHT:	o(eddw)n o(edde)n ni â ddo adre efo ni . 440791_442360
-(237) o(eddw)n o(edde)n ni â ddo adre efo ni .
+(262) *AVR:	ie . 486575_486941(263) yes.
 
-(238) *AVR:	ah@s:cy&es oedden ? 442374_443024
-(238) ah@s:cy&es oedden ?
+(263) *CHT:	bachgen a merch . 487548_488842(264) a boy and a girl.
 
-(239) *CHT:	oedd (dy)na pam oeddwn i (y)n (.) gwybod be oedd y llun yn deud yn iawn . 443001_447278
-(239) oedd (dy)na pam oeddwn i (y)n (.) gwybod be oedd y llun yn deud yn iawn .
+(264) *AVR:	o(eddw)n i (y)n meddwl bod yna am um@s:cy&es Haf@s:cy&es ie a Beu(no)@s:cy&es [/] Beuno@s:cy&es ie ? 489443_494559(265) I was thinking of going there for Haf, right, and Beuno, yes?
 
-(240) *AVR:	+< ie . 445301_445812
-(240) +< ie .
+(265) *CHT:	Haf@s:cy&es a Beuno@s:cy&es ? 494729_495687(266) Haf and Beuno?
 
-(241) *AVR:	ie . 447358_448101
-(241) ie .
+(266) *AVR:	maen nhw arfer xx yn y (y)sbyty (h)efo ti (.) Don@s:cy&es ia ? 495788_498708(267) they used to xx in the hospital with you, John yes?
 
-(242) *AVR:	adnabyddus gyda (y)r llun (y)ma . 448685_450775
-(242) adnabyddus gyda (y)r llun (y)ma .
+(267) *CHT:	+< Beuno ? 496782_497252(268) *CHT:	ah@s:cy&es ia Haf@s:cy&es a Beuno@s:cy&es ! 498705_500894(269) oh, yes, Haf and Beuno!
 
-(243) *CHT:	oedd . 450839_451094
-(243) oedd .
+(269) *CHT:	y ffrindiau mawr ia . 501335_502676(270) great friends, yes.
 
-(244) *CHT:	ia dwy chwaer oedd yn byw <yn y> [/] yn y cartre bach (y)ma yn perthyn i ni ynde o bell [?] . 452013_457029
-(244) ia dwy chwaer oedd yn byw <yn y> [/] yn y cartre bach (y)ma yn perthyn i ni ynde o bell [?] .
+(270) *AVR:	ia . 502886_503525(271) *CHT:	mae rhaid &gda gyrru rywbeth rŵan yn agos &t i Nadolig (y)ma ynde ? 503607_508112(272) have to send something now, near Christmas isn''t it?
 
-(245) *AVR:	&m . 456741_457281
-(245) &m .
+(272) *AVR:	claro@s:es dw i (y)n cofio ti (y)n gweld . 508129_509779(273) right, I remember you see.
 
-(246) *CHT:	ond er@s:cy&es [///] a wedyn o(eddw)n i (y)n mynd at y brawd . 457318_459582
-(246) ond er@s:cy&es [///] a wedyn o(eddw)n i (y)n mynd at y brawd .
+(273) *AVR:	<dw i (y)n mynd i wel(d)> [//] dw i (y)n mynd yn y ffwrn i weld beth (y)ma sut mae (y)r pethau (y)n cwcio . 509774_514038(274) I''m going to the oven to see this thing, how things are cooking.
 
-(247) *CHT:	fues i (y)n lle (y)r brawd er@s:cy&es o_gwmpas er@s:cy&es Llanrwst@s:cy&es ar y ffarm . 459532_464478
-(247) fues i (y)n lle (y)r brawd er@s:cy&es o_gwmpas er@s:cy&es Llanrwst@s:cy&es ar y ffarm .
+(274) *CHT:	ia a be ? 514113_515507(275) yes, so what?
 
-(248) *AVR:	oh@s:cy&es . 464554_465245
-(248) oh@s:cy&es .
+(275) *AVR:	ddo i (y)n_ôl xxx +/. 514642_515756(276) I''ll come back [...] ...
 
-(249) *CHT:	er@s:cy&es oedd y brawd wedi priodi +/. 466012_468339
-(249) er@s:cy&es oedd y brawd wedi priodi +/ .
+(276) *CHT:	wna i siarad yn fy hunan wan ? 515747_517802(277) shall I talk on my own now?
 
-(250) *AVR:	+< a be oedden nhw &k cefnderwyr i dy dad ? 467261_469873
-(250) +< a be oedden nhw &k cefnderwyr i dy dad ?
+(277) *RES:	cario ymlaen os dach chi isio ! 517949_519505(278) carry on if you like!
 
-(251) *CHT:	&m bellach dw i meddwl . 470145_471928
-(251) &m bellach dw i meddwl .
+(278) *CHT:	&=laugh ! 519041_519505(279) *CHT:	xx dw i (y)n siarad ar fy hunan adre ! 521737_523740(280) [..] I talk to myself at home.
 
-(252) *AVR:	ia ? 472111_472604
-(252) ia ?
+(280) *AVR:	+< xxx <(ba)sai fo (y)n> [/] (ba)sai fo (y)n llosgi . 522296_525896(281) [...] if it burned.
 
-(253) *CHT:	ie . 472645_472976
-(253) ie .
+(281) *CHT:	xx +/. 527418_528074(282) *AVR:	+< ia (dy)na fo . 527732_528283(283) yes, that''s it.
 
-(254) *CHT:	dw i ddim yn siwr iawn . 473324_474427
-(254) dw i ddim yn siwr iawn .
+(283) *AVR:	dw i ddim wedi cysylltu efo nhw . 528283_529816(284) I haven''t contacted them.
 
-(255) *AVR:	+< <oedden nhw debyg> [?] ? 473721_474482
-(255) +< <oedden nhw debyg> [?] ?
+(284) *AVR:	dw i braidd yn ddiog i sgwennu dyddiau (y)ma . 529822_532837(285) I''m a bit lazy to write these days.
 
-(256) *CHT:	i dada . 475164_475867
-(256) i dada .
+(285) *CHT:	wel um@s:cy&es yr echdoe mae (y)r [/] um@s:cy&es y machine@s:en fach dw i (y)n defnyddio i [/] i anfon iddyn nhw +//. 532051_538373(286) well, the day before yesterday, the little machine I use for sending to them...
 
-(257) *CHT:	na wel na na na . 475855_477806
-(257) na wel na na na .
+(286) *AVR:	ia . 538620_539026(287) yes.
 
-(258) *CHT:	oedd o (ddi)m debyg . 477842_478916
-(258) oedd o (ddi)m debyg .
+(287) *CHT:	&i Home@s:cy&es &me Mail@s:cy&es (y)dy ei enw hi . 539025_541248(288) Home Mail is its name.
 
-(259) *CHT:	a wedyn oedd y gwraig [//] um@s:cy&es (.) gwraig a dau o blant efo nhw . 479697_484033
-(259) a wedyn oedd y gwraig [//] um@s:cy&es (.) gwraig a dau o blant efo nhw .
+(288) *CHT:	a mae (y)n fach fel hyn . 541589_542825(289) and its small like this.
 
-(260) *AVR:	oh@s:cy&es . 484339_485320
-(260) oh@s:cy&es .
+(289) *CHT:	ac er@s:cy&es mae honno wedi difetha gen i diwrnod o_blaen . 543127_545552(290) and that broke on me the other day.
 
-(261) *CHT:	plant mawr . 485565_486303
-(261) plant mawr .
+(290) *AVR:	+< xxx . 543794_544688(291) *CHT:	eh@s:cy&es ? 545634_546035(292) *AVR:	fel machine@s:cy&en sgwennu ? 546153_547482(293) like a writing machine?
 
-(262) *AVR:	ie . 486575_486941
-(262) ie .
+(293) *CHT:	ia ond er@s:cy&es mae (y)n mynd trwy (y)r ffôn . 547793_550766(294) yes, but it goes through the phone.
 
-(263) *CHT:	bachgen a merch . 487548_488842
-(263) bachgen a merch .
+(294) *AVR:	oh@s:cy&es da iawn . 550599_551185(295) oh, very good.
 
-(264) *AVR:	o(eddw)n i (y)n meddwl bod yna am um@s:cy&es Haf@s:cy&es ie a Beu(no)@s:cy&es [/] Beuno@s:cy&es ie ? 489443_494559
-(264) o(eddw)n i (y)n meddwl bod yna am um@s:cy&es Haf@s:cy&es ie a Beu(no)@s:cy&es [/] Beuno@s:cy&es ie ?
+(295) *CHT:	mae (y)n gweithio efo (y)r ffôn . 551205_552674(296) it works with the phone.
 
-(265) *CHT:	Haf@s:cy&es a Beuno@s:cy&es ? 494729_495687
-(265) Haf@s:cy&es a Beuno@s:cy&es ?
+(296) *CHT:	oh@s:cy&es mae (y)n rhad . 553281_554692(297) oh, it''s cheap.
 
-(266) *AVR:	maen nhw arfer xx yn y (y)sbyty (h)efo ti (.) Don@s:cy&es ia ? 495788_498708
-(266) maen nhw arfer xx yn y (y)sbyty (h)efo ti (.) Don@s:cy&es ia ?
+(297) *CHT:	ond er@s:cy&es beth sydd (y)n bod (y)ma rŵan dw i +//. 555360_557572(298) but what''s wrong here now, I...
 
-(267) *CHT:	+< Beuno ? 496782_497252
-(267) +< Beuno ?
+(298) *CHT:	mae rywbeth wedi digwydd iddi a dw i ddim yn gwybod +... 557492_559733(299) something''s happened to it and I don''t know...
 
-(268) *CHT:	ah@s:cy&es ia Haf@s:cy&es a Beuno@s:cy&es ! 498705_500894
-(268) ah@s:cy&es ia Haf@s:cy&es a Beuno@s:cy&es !
+(299) *CHT:	mae hi efo fi ers ryw ddeg o flynyddoedd a (e)rioed wedi digwydd ddim_byd iddi . 560008_563645(300) I''ve had it for about ten years and nothing has ever happened to it.
 
-(269) *CHT:	y ffrindiau mawr ia . 501335_502676
-(269) y ffrindiau mawr ia .
+(300) *CHT:	a fydd raid i gael roid nhw fewn <yn yr> [/] <yn yr> [/] um@s:cy&es yn y machine@s:en arall . 564502_569355(301) and I''ll have to get them put into the other machine.
 
-(270) *AVR:	ia . 502886_503525
-(270) ia .
+(301) *AVR:	ah@s:cy&es so mae gen ti un arall yn barod . 569632_571629(302) ah, so you have a new one already?
 
-(271) *CHT:	mae rhaid &gda gyrru rywbeth rŵan yn agos &t i Nadolig (y)ma ynde ? 503607_508112
-(271) mae rhaid &gda gyrru rywbeth rŵan yn agos &t i Nadolig (y)ma ynde ?
+(302) *CHT:	oes oes . 571107_572007(303) yes, yes.
 
-(272) *AVR:	claro@s:es dw i (y)n cofio ti (y)n gweld . 508129_509779
-(272) claro@s:es dw i (y)n cofio ti (y)n gweld .
+(303) *AVR:	&m . 572036_572860(304) *CHT:	y Notebook@s:cy&es . 573190_574095(305) the notebook.
 
-(273) *AVR:	<dw i (y)n mynd i wel(d)> [//] dw i (y)n mynd yn y ffwrn i weld beth (y)ma sut mae (y)r pethau (y)n cwcio . 509774_514038
-(273) <dw i (y)n mynd i wel(d)> [//] dw i (y)n mynd yn y ffwrn i weld beth (y)ma sut mae (y)r pethau (y)n cwcio .
+(305) *AVR:	ah@s:cy&es xxx . 574513_576463(306) *CHT:	<ia (dy)na fo> [?] . 575627_576516(307) yes, there you are.
 
-(274) *CHT:	ia a be ? 514113_515507
-(274) ia a be ?
+(307) *CHT:	ydy . 576823_577363(308) yes.
 
-(275) *AVR:	ddo i (y)n_ôl xxx +/. 514642_515756
-(275) ddo i (y)n_ôl xxx +/ .
+(308) *AVR:	<a rŵan eith ddim> [?] +... 578315_580358(309) and now it won''t go...
 
-(276) *CHT:	wna i siarad yn fy hunan wan ? 515747_517802
-(276) wna i siarad yn fy hunan wan ?
+(309) *CHT:	&jama dw i ddim yn meddwl am [/] am gyrru cerdyn [/] cerdyn i pawb leni na . 580366_585043(310) I''m not thinking of sending eveyone a card this year, no.
 
-(277) *RES:	cario ymlaen os dach chi isio ! 517949_519505
-(277) cario ymlaen os dach chi isio !
+(310) *CHT:	mae o ry ddrud . 585239_585976(311) it''s too expensive.
 
-(278) *CHT:	&=laugh ! 519041_519505
-(278) &=laugh !
+(311) *CHT:	mae (y)r er@s:cy&es post yn drud . 585976_587485(312) the postage is expensive.
 
-(279) *CHT:	xx dw i (y)n siarad ar fy hunan adre ! 521737_523740
-(279) xx dw i (y)n siarad ar fy hunan adre !
+(312) *AVR:	<mae (y)r post@s:cy&es> [/] mae [/] mae o wedi codi peso@s:cy&es . 587925_590590(313) the postage has gone up by a peso.
 
-(280) *AVR:	+< xxx <(ba)sai fo (y)n> [/] (ba)sai fo (y)n llosgi . 522296_525896
-(280) +< xxx <(ba)sai fo (y)n> [/] (ba)sai fo (y)n llosgi .
+(313) *CHT:	+< a mae (y)r cerdyn yn drud . 588117_589946(314) and the card is expensive.
 
-(281) *CHT:	xx +/. 527418_528074
-(281) xx +/ .
+(314) *AVR:	xxx +/. 590989_591639(315) *CHT:	peso@s:cy&es (y)dy o ? 591505_592248(316) is it a peso?
 
-(282) *AVR:	+< ia (dy)na fo . 527732_528283
-(282) +< ia (dy)na fo .
+(316) *AVR:	pum peso@s:cy&es . 592620_593258(317) five pesos.
 
-(283) *AVR:	dw i ddim wedi cysylltu efo nhw . 528283_529816
-(283) dw i ddim wedi cysylltu efo nhw .
+(317) *CHT:	&ai (.) ah@s:cy&es ! 593185_594944(318) *AVR:	pum peso@s:cy&es xxx +/. 594941_595707(319) five pesos.
 
-(284) *AVR:	dw i braidd yn ddiog i sgwennu dyddiau (y)ma . 529822_532837
-(284) dw i braidd yn ddiog i sgwennu dyddiau (y)ma .
+(319) *CHT:	pedwar a hanner oedd o i [/] i Gymru ia ? 595249_597940(320) it was four and a half to Wales, wasn''t it?
 
-(285) *CHT:	wel um@s:cy&es yr echdoe mae (y)r [/] um@s:cy&es y machine@s:en fach dw i (y)n defnyddio i [/] i anfon iddyn nhw +//. 532051_538373
-(285) wel um@s:cy&es yr echdoe mae (y)r [/] um@s:cy&es y machine@s:en fach dw i (y)n defnyddio i [/] i anfon iddyn nhw +// .
+(320) *CHT:	pedwar a hanner . 598488_599364(321) four and a half.
 
-(286) *AVR:	ia . 538620_539026
-(286) ia .
+(321) *AVR:	+< na pedwar [/] pedwar oedd o . 598772_600293(322) no, it was four.
 
-(287) *CHT:	&i Home@s:cy&es &me Mail@s:cy&es (y)dy ei enw hi . 539025_541248
-(287) &i Home@s:cy&es &me Mail@s:cy&es (y)dy ei enw hi .
+(322) *AVR:	dw i meddwl bod o (we)di codi peso . 600671_602499(323) I think it''s gone up by a peso.
 
-(288) *CHT:	a mae (y)n fach fel hyn . 541589_542825
-(288) a mae (y)n fach fel hyn .
+(323) *CHT:	ah@s:cy&es ! 602767_603324(324) *AVR:	a felly (dy)na fo mae o mynd yn (.) ry [/] ry ddrud . 603315_606740(325) and so there we go, it''s getting too expensive.
 
-(289) *CHT:	ac er@s:cy&es mae honno wedi difetha gen i diwrnod o_blaen . 543127_545552
-(289) ac er@s:cy&es mae honno wedi difetha gen i diwrnod o_blaen .
+(325) *CHT:	+< dw i (we)di talu pedwar a hanner . 603571_604970(326) I''ve paid four and a half.
 
-(290) *AVR:	+< xxx . 543794_544688
-(290) +< xxx .
+(326) *AVR:	a bob tro +/. 606730_607316(327) and each time.
 
-(291) *CHT:	eh@s:cy&es ? 545634_546035
-(291) eh@s:cy&es ?
+(327) *CHT:	a mae (y)r &kai cerdyn &tabm [///] pa mor syml fydd o mae o ryw bum peso . 607180_612208(328) and the card is, no matter how simple it is, it''s about five pesos.
 
-(292) *AVR:	fel machine@s:cy&en sgwennu ? 546153_547482
-(292) fel machine@s:cy&en sgwennu ?
+(328) *CHT:	pedwar pum peso . 612479_613624(329) four, five pesos.
 
-(293) *CHT:	ia ond er@s:cy&es mae (y)n mynd trwy (y)r ffôn . 547793_550766
-(293) ia ond er@s:cy&es mae (y)n mynd trwy (y)r ffôn .
+(329) *AVR:	yndy yndy . 613509_613892(330) yes, yes.
 
-(294) *AVR:	oh@s:cy&es da iawn . 550599_551185
-(294) oh@s:cy&es da iawn .
+(330) *AVR:	 felly <mae o (y)n> [/] (.) mae o (y)n <go hanodd> [?] i ni . 614822_618862(331) so it''s quite difficult for us.
 
-(295) *CHT:	mae (y)n gweithio efo (y)r ffôn . 551205_552674
-(295) mae (y)n gweithio efo (y)r ffôn .
+(331) *CHT:	ydy acho(s) mae efo ni lot o fobl &s (ba)san ni (y)n licio gyrru . 619440_622800(332) yes, because we''ve got lots of people we''d like to send to.
 
-(296) *CHT:	oh@s:cy&es mae (y)n rhad . 553281_554692
-(296) oh@s:cy&es mae (y)n rhad .
+(332) *AVR:	wel (dy)na fo . 622951_623572(333) well, that''s it.
 
-(297) *CHT:	ond er@s:cy&es beth sydd (y)n bod (y)ma rŵan dw i +//. 555360_557572
-(297) ond er@s:cy&es beth sydd (y)n bod (y)ma rŵan dw i +// .
+(333) *AVR:	dyna sut mae . 623578_624316(334) that''s how it is.
 
-(298) *CHT:	mae rywbeth wedi digwydd iddi a dw i ddim yn gwybod +... 557492_559733
-(298) mae rywbeth wedi digwydd iddi a dw i ddim yn gwybod +.. .
+(334) *AVR:	dw i (y)n dechrau gyrru xxx cofio am gymaint o ffrindiau a bobl annwyl . 624503_630575(335) I''m starting to send [...] remembering so many friends and loved ones.
 
-(299) *CHT:	mae hi efo fi ers ryw ddeg o flynyddoedd a (e)rioed wedi digwydd ddim_byd iddi . 560008_563645
-(299) mae hi efo fi ers ryw ddeg o flynyddoedd a (e)rioed wedi digwydd ddim_byd iddi .
+(335) *CHT:	+< ia . 629106_629466(336) yes.
 
-(300) *CHT:	a fydd raid i gael roid nhw fewn <yn yr> [/] <yn yr> [/] um@s:cy&es yn y machine@s:en arall . 564502_569355
-(300) a fydd raid i gael roid nhw fewn <yn yr> [/] <yn yr> [/] um@s:cy&es yn y machine@s:en arall .
+(336) *CHT:	ia . 630957_631346(337) yes.
 
-(301) *AVR:	ah@s:cy&es so mae gen ti un arall yn barod . 569632_571629
-(301) ah@s:cy&es so mae gen ti un arall yn barod .
+(337) *CHT:	ia wir . 631487_632102(338) yes indeed.
 
-(302) *CHT:	oes oes . 571107_572007
-(302) oes oes .
+(338) *AVR:	felly mae (y)n hanodd yn y diwedd . 632041_634160(339) so it''s difficult in the end.
 
-(303) *AVR:	&m . 572036_572860
-(303) &m .
+(339) *CHT:	&m . 634206_634857(340) *CHT:	ond mae (y)r um@s:cy&es ysgrifennu (y)ma mynd â amser hefyd eh@s:cy&es . 636200_639799(341) but the writing takes time too, eh.
 
-(304) *CHT:	y Notebook@s:cy&es . 573190_574095
-(304) y Notebook@s:cy&es .
+(341) *CHT:	mae o mynd â amser . 640152_641307(342) it takes time.
 
-(305) *AVR:	ah@s:cy&es xxx . 574513_576463
-(305) ah@s:cy&es xxx .
+(342) *CHT:	&o ond mae o neis iawn achos mae o (y)n cyrraedd y funud draw yndy . 641499_645415(343) but it''s really nice because it arrives there that minute, doesn''t it.
 
-(306) *CHT:	<ia (dy)na fo> [?] . 575627_576516
-(306) <ia (dy)na fo> [?] .
+(343) unsure what is meant by "y funud draw"
 
-(307) *CHT:	ydy . 576823_577363
-(307) ydy .
+(343) *AVR:	wel yndy . 645416_646339(344) *CHT:	isio sgwennu i Alan@s:cy&es Lloyd@s:cy&es . 646908_648870(345) want to write to Alan Lloyd.
 
-(308) *AVR:	<a rŵan eith ddim> [?] +... 578315_580358
-(308) <a rŵan eith ddim> [?] +.. .
+(345) *AVR:	sut mae <o felly> [?] ? 649665_650489(346) how is he then?
 
-(309) *CHT:	&jama dw i ddim yn meddwl am [/] am gyrru cerdyn [/] cerdyn i pawb leni na . 580366_585043
-(309) &jama dw i ddim yn meddwl am [/] am gyrru cerdyn [/] cerdyn i pawb leni na .
+(346) *CHT:	oh@s:cy&es mae (y)n iawn . 650008_651488(347) oh, he''s fine.
 
-(310) *CHT:	mae o ry ddrud . 585239_585976
-(310) mae o ry ddrud .
+(347) *CHT:	ardderchog . 652028_653096(348) excellent.
 
-(311) *CHT:	mae (y)r er@s:cy&es post yn drud . 585976_587485
-(311) mae (y)r er@s:cy&es post yn drud .
+(348) *CHT:	ardderchog xxx . 653822_655157(349) excellent [...] .
 
-(312) *AVR:	<mae (y)r post@s:cy&es> [/] mae [/] mae o wedi codi peso@s:cy&es . 587925_590590
-(312) <mae (y)r post@s:cy&es> [/] mae [/] mae o wedi codi peso@s:cy&es .
+(349) *AVR:	<sut mae> [/] sut mae um@s:cy&es Elinor@s:cy&es rŵan ? 654896_657987(350) how is Elinor now?
 
-(313) *CHT:	+< a mae (y)r cerdyn yn drud . 588117_589946
-(313) +< a mae (y)r cerdyn yn drud .
+(350) *AVR:	chwaer Sian@s:cy&es . 658536_659262(351) Sian''s sister.
 
-(314) *AVR:	xxx +/. 590989_591639
-(314) xxx +/ .
+(351) *CHT:	dw i ddim yn gwybod . 658944_660058(352) I don''t know.
 
-(315) *CHT:	peso@s:cy&es (y)dy o ? 591505_592248
-(315) peso@s:cy&es (y)dy o ?
+(352) *CHT:	na dw i (ddi)m yn gwybod . 660383_661132(353) no, I don''t know.
 
-(316) *AVR:	pum peso@s:cy&es . 592620_593258
-(316) pum peso@s:cy&es .
+(353) *AVR:	achos oedd hi mewn home@s:en yn_doedd ? 660699_662441(354) because she was in a home wasn''t she?
 
-(317) *CHT:	&ai (.) ah@s:cy&es ! 593185_594944
-(317) &ai (.) ah@s:cy&es !
+(354) *CHT:	oedd . 663293_663752(355) she was.
 
-(318) *AVR:	pum peso@s:cy&es xxx +/. 594941_595707
-(318) pum peso@s:cy&es xxx +/ .
+(355) *CHT:	dw (ddi)m yn gwybod dim_byd amdani rŵan . 664321_665856(356) I don''t know anything about her now.
 
-(319) *CHT:	pedwar a hanner oedd o i [/] i Gymru ia ? 595249_597940
-(319) pedwar a hanner oedd o i [/] i Gymru ia ?
+(356) *AVR:	na fi ddim moin gofyn hefyd . 665801_667746(357) no I don''t want to ask either.
 
-(320) *CHT:	pedwar a hanner . 598488_599364
-(320) pedwar a hanner .
+(357) *CHT:	ac &a &a Ann@s:cy&es . 667877_669340(358) and Ann.
 
-(321) *AVR:	+< na pedwar [/] pedwar oedd o . 598772_600293
-(321) +< na pedwar [/] pedwar oedd o .
+(358) *CHT:	dw i (ddi)m yn gwybod sut mae Ann@s:cy&es +/. 669550_670641(359) I don''t know how Ann is...
 
-(322) *AVR:	dw i meddwl bod o (we)di codi peso . 600671_602499
-(322) dw i meddwl bod o (we)di codi peso .
+(359) *AVR:	+< Ann@s:cy&es mae Ann@s:cy&es yn dda iawn <medden nhw> [?] . 670049_672023(360) Ann, Ann is very well, they said.
 
-(323) *CHT:	ah@s:cy&es ! 602767_603324
-(323) ah@s:cy&es !
+(360) *CHT:	aha@s:cy&es . 671849_672308(361) *CHT:	oedd hi (y)n meddwl dod . 673059_673959(362) she was thinking of coming.
 
-(324) *AVR:	a felly (dy)na fo mae o mynd yn (.) ry [/] ry ddrud . 603315_606740
-(324) a felly (dy)na fo mae o mynd yn (.) ry [/] ry ddrud .
+(362) *CHT:	oedd hi (y)n meddwl dod eleni <i eisteddfod> [?] . 673913_675898(363) she was thinking of coming this year, to the eisteddfod.
 
-(325) *CHT:	+< dw i (we)di talu pedwar a hanner . 603571_604970
-(325) +< dw i (we)di talu pedwar a hanner .
+(363) *AVR:	na dw i (y)n meddwl bydd hi (y)n dod . 675632_676770(364) no, I think she will be coming.
 
-(326) *AVR:	a bob tro +/. 606730_607316
-(326) a bob tro +/ .
+(364) *AVR:	xx yn mis May@s:cy&es fydd [?] yn dod . 676741_678343(365) [..] in May she will be coming.
 
-(327) *CHT:	a mae (y)r &kai cerdyn &tabm [///] pa mor syml fydd o mae o ryw bum peso . 607180_612208
-(327) a mae (y)r &kai cerdyn &tabm [///] pa mor syml fydd o mae o ryw bum peso .
+(365) *CHT:	ah@s:cy&es . 678331_678709(366) *AVR:	ond mae (y)n smocio fel erioed . 679516_681304(367) but she''s smoking as much as ever.
 
-(328) *CHT:	pedwar pum peso . 612479_613624
-(328) pedwar pum peso .
+(367) *AVR:	felly mae (y)n siwr bod hi reit dda os mae hi [?] (y)n gallu smocio gymaint . 682876_686962(368) so she must be very well if she''s able to smoke so much.
 
-(329) *AVR:	yndy yndy . 613509_613892
-(329) yndy yndy .
+(368) *CHT:	&hm . 688430_688929(369) *AVR:	ond wedyn +/. 689952_690619(370) but then...
 
-(330) *AVR:	 felly <mae o (y)n> [/] (.) mae o (y)n <go hanodd> [?] i ni . 614822_618862
-(330) felly <mae o (y)n> [/] (.) mae o (y)n <go hanodd> [?] i ni .
+(370) *CHT:	ia dw i (y)n gweld er@s:cy&es fan hyn mae (y)na mwy o ferched bach ifanc yn smocio . 690540_695109(371) yes, I see here that more little young women are smoking.
 
-(331) *CHT:	ydy acho(s) mae efo ni lot o fobl &s (ba)san ni (y)n licio gyrru . 619440_622800
-(331) ydy acho(s) mae efo ni lot o fobl &s (ba)san ni (y)n licio gyrru .
+(371) *CHT:	merched a bechgyn bach ifanc iawn . 695623_697916(372) very young little women and boys.
 
-(332) *AVR:	wel (dy)na fo . 622951_623572
-(332) wel (dy)na fo .
+(372) *AVR:	+< dyna fo mae rhaid ti ddang(os) +/. 696424_697405(373) there we go, you have to show...
 
-(333) *AVR:	dyna sut mae . 623578_624316
-(333) dyna sut mae .
+(373) *AVR:	mae raid ti ddangos bod ti wedi tyfu ti (y)n gweld bod ti ddim yn blentyn . 698027_701655(374) you have to show that you''ve grown up, you see, that you''re not a child.
 
-(334) *AVR:	dw i (y)n dechrau gyrru xxx cofio am gymaint o ffrindiau a bobl annwyl . 624503_630575
-(334) dw i (y)n dechrau gyrru xxx cofio am gymaint o ffrindiau a bobl annwyl .
+(374) *AVR:	a wedyn maen nhw (y)n dechrau smocio . 701823_703391(375) and so they start to smoke.
 
-(335) *CHT:	+< ia . 629106_629466
-(335) +< ia .
+(375) *CHT:	ie ia . 703420_703820(376) yes, yes.
 
-(336) *CHT:	ia . 630957_631346
-(336) ia .
+(376) *AVR:	a wedyn maen nhw [?] (y)n smocio +/. 703855_705190(377) and then they smoke...
 
-(337) *CHT:	ia wir . 631487_632102
-(337) ia wir .
+(377) *CHT:	+< a wedyn maen nhw methu gadael nhw . 704517_705836(378) and then they can''t give them up.
 
-(338) *AVR:	felly mae (y)n hanodd yn y diwedd . 632041_634160
-(338) felly mae (y)n hanodd yn y diwedd .
+(378) possible interference from Spanish (gadael for give up)
 
-(339) *CHT:	&m . 634206_634857
-(339) &m .
+(378) *AVR:	yndy [?] . 705860_706312(379) yes.
 
-(340) *CHT:	ond mae (y)r um@s:cy&es ysgrifennu (y)ma mynd â amser hefyd eh@s:cy&es . 636200_639799
-(340) ond mae (y)r um@s:cy&es ysgrifennu (y)ma mynd â amser hefyd eh@s:cy&es .
+(379) *CHT:	a mae mynd yn +... 706326_707057(380) and it gets...
 
-(341) *CHT:	mae o mynd â amser . 640152_641307
-(341) mae o mynd â amser .
+(380) *AVR:	maen nhw (y)n gafael ynddyn [?] nhw . 707109_708473(381) they hold on to them.
 
-(342) *CHT:	&o ond mae o neis iawn achos mae o (y)n cyrraedd y funud draw yndy . 641499_645415
-(342) &o ond mae o neis iawn achos mae o (y)n cyrraedd y funud draw yndy .
+(381) *CHT:	ydy ydy . 708457_709160(382) yes, yes.
 
-(343) *AVR:	wel yndy . 645416_646339
-(343) wel yndy .
+(382) *AVR:	achos wn i mae Veronica@s:cy&es yn deud +"/. 709113_710768(383) because I know Veronica says:
 
-(344) *CHT:	isio sgwennu i Alan@s:cy&es Lloyd@s:cy&es . 646908_648870
-(344) isio sgwennu i Alan@s:cy&es Lloyd@s:cy&es .
+(383) *AVR:	+" oh@s:cy&es wna i adael y smocio fyddwn [?] . 710756_712430(384) "oh, I''ll give up the smoking, I will" 712600_713813
 
-(345) *AVR:	sut mae <o felly> [?] ? 649665_650489
-(345) sut mae <o felly> [?] ?
+(384) *CHT:	ond fuo(dd) hi (y)n dewis no@s:es ?712704_713877(385) but does she choose to, no?
 
-(346) *CHT:	oh@s:cy&es mae (y)n iawn . 650008_651488
-(346) oh@s:cy&es mae (y)n iawn .
+(385) *CHT:	na ddim felly mae hi . 713906_715009(386) no, it''s not like that.
 
-(347) *CHT:	ardderchog . 652028_653096
-(347) ardderchog .
+(386) *AVR:	na . 715305_715595(387) no.
 
-(348) *CHT:	ardderchog xxx . 653822_655157
-(348) ardderchog xxx .
+(387) *CHT:	mae rhai yn gallu gadael ond rei eraill ddim . 715566_718485(388) some are able to give up, but others aren''t.
 
-(349) *AVR:	<sut mae> [/] sut mae um@s:cy&es Elinor@s:cy&es rŵan ? 654896_657987
-(349) <sut mae> [/] sut mae um@s:cy&es Elinor@s:cy&es rŵan ?
+(388) *AVR:	mae rhaid ti bod â ddipyn o benderfyniad a mae Pamela@s:cy&es yr un peth . 718640_722529(389) you have to have quite a lot of determination, and Pamela is the same.
 
-(350) *AVR:	chwaer Sian@s:cy&es . 658536_659262
-(350) chwaer Sian@s:cy&es .
+(389) *CHT:	ah@s:cy&es mae hi hefyd yn er@s:cy&es +... 722978_724300(390) oh is she also...
 
-(351) *CHT:	dw i ddim yn gwybod . 658944_660058
-(351) dw i ddim yn gwybod .
+(390) *AVR:	yndy yndy yr unig un . 724279_726346(391) yes, yes, the only one.
 
-(352) *CHT:	na dw i (ddi)m yn gwybod . 660383_661132
-(352) na dw i (ddi)m yn gwybod .
+(391) *AVR:	yr unig un . 726452_727230(392) the only one.
 
-(353) *AVR:	achos oedd hi mewn home@s:en yn_doedd ? 660699_662441
-(353) achos oedd hi mewn home@s:en yn_doedd ?
+(392) *CHT:	+^ yn y teulu . 727080_727753(393) ...in the family.
 
-(354) *CHT:	oedd . 663293_663752
-(354) oedd .
+(393) *AVR:	achos rŵan <mae thad hi> [/] mae thad hi wedi gadael hefyd . 727596_730943(394) because now her father has given up as well.
 
-(355) *CHT:	dw (ddi)m yn gwybod dim_byd amdani rŵan . 664321_665856
-(355) dw (ddi)m yn gwybod dim_byd amdani rŵan .
+(394) *AVR:	a wedyn <mae (y)r> [/] mae (y)r tri bachgen (.) ddim yn smocio . 731338_735821(395) and then the three boys don''t smoke.
 
-(356) *AVR:	na fi ddim moin gofyn hefyd . 665801_667746
-(356) na fi ddim moin gofyn hefyd .
+(395) *CHT:	+< ia . 734552_734854(396) yes.
 
-(357) *CHT:	ac &a &a Ann@s:cy&es . 667877_669340
-(357) ac &a &a Ann@s:cy&es .
+(396) *CHT:	ah@s:cy&es lwcus . 735442_736729(397) ah, lucky.
 
-(358) *CHT:	dw i (ddi)m yn gwybod sut mae Ann@s:cy&es +/. 669550_670641
-(358) dw i (ddi)m yn gwybod sut mae Ann@s:cy&es +/ .
+(397) *AVR:	ond mae Nita@s:cy&es [///] mi oedd hi (y)n smocio pan oedd hi yn Gymru . 736756_740494(398) but Nita, she used to smoke when she was in Wales.
 
-(359) *AVR:	+< Ann@s:cy&es mae Ann@s:cy&es yn dda iawn <medden nhw> [?] . 670049_672023
-(359) +< Ann@s:cy&es mae Ann@s:cy&es yn dda iawn <medden nhw> [?] .
+(398) *CHT:	oh@s:cy&es . 741099_741458(399) *AVR:	yn er@s:cy&es saith_deg_dau oedd hi (y)n smocio . 741435_743788(400) in seventy-two she used to smoke.
 
-(360) *CHT:	aha@s:cy&es . 671849_672308
-(360) aha@s:cy&es .
+(400) *AVR:	mi ddoth yn_ôl . 743788_744655(401) she came back.
 
-(361) *CHT:	oedd hi (y)n meddwl dod . 673059_673959
-(361) oedd hi (y)n meddwl dod .
+(401) *AVR:	roedd (yn)a golwg ar Nita@s:cy&es wedi teithio gymaint a [//] (.) ac yn nyrfs i_gyd . 744661_749535(402) Nita looked a mess having travelled so much, and all nerves.
 
-(362) *CHT:	oedd hi (y)n meddwl dod eleni <i eisteddfod> [?] . 673913_675898
-(362) oedd hi (y)n meddwl dod eleni <i eisteddfod> [?] .
+(402) *AVR:	a wedyn oedd y smocio (y)ma claro@s:es [?] . 749636_751789(403) and then there was this smoking, right.
 
-(363) *AVR:	na dw i (y)n meddwl bydd hi (y)n dod . 675632_676770
-(363) na dw i (y)n meddwl bydd hi (y)n dod .
+(403) *AVR:	wedi smocio <mwy yn Gymru> [//] mwy nag oedd hi (y)n arfer . 752872_756198(404) [she] had smoked more in Wales than she used to.
 
-(364) *AVR:	xx yn mis May@s:cy&es fydd [?] yn dod . 676741_678343
-(364) xx yn mis May@s:cy&es fydd [?] yn dod .
+(404) *CHT:	+< claro@s:es . 753813_754207(405) right.
 
-(365) *CHT:	ah@s:cy&es . 678331_678709
-(365) ah@s:cy&es .
+(405) *CHT:	ia . 756132_756521(406) yes.
 
-(366) *AVR:	ond mae (y)n smocio fel erioed . 679516_681304
-(366) ond mae (y)n smocio fel erioed .
+(406) *AVR:	felly +/. 756981_757243(407) so...
 
-(367) *AVR:	felly mae (y)n siwr bod hi reit dda os mae hi [?] (y)n gallu smocio gymaint . 682876_686962
-(367) felly mae (y)n siwr bod hi reit dda os mae hi [?] (y)n gallu smocio gymaint .
+(407) *CHT:	mi ddoth y claro@s:es ["] allan diwedd . 757391_758877(408) the "claro" came out in the end
 
-(368) *CHT:	&hm . 688430_688929
-(368) &hm .
+(408) they comment on their use of the Spanish word.
 
-(369) *AVR:	ond wedyn +/. 689952_690619
-(369) ond wedyn +/ .
+(408) *AVR:	do mi ddoth y claro@s:es ["] . 758888_759922(409) yes, the "claro" came.
 
-(370) *CHT:	ia dw i (y)n gweld er@s:cy&es fan hyn mae (y)na mwy o ferched bach ifanc yn smocio . 690540_695109
-(370) ia dw i (y)n gweld er@s:cy&es fan hyn mae (y)na mwy o ferched bach ifanc yn smocio .
+(409) *CHT:	mi ddoth y claro@s:es . 759892_760681(410) the "claro" came.
 
-(371) *CHT:	merched a bechgyn bach ifanc iawn . 695623_697916
-(371) merched a bechgyn bach ifanc iawn .
+(410) *CHT:	<a nawr mae raid i> [?] bueno@s:es ["] ddod &=laugh ! 760774_762893(411) and now "bueno" has to come!
 
-(372) *AVR:	+< dyna fo mae rhaid ti ddang(os) +/. 696424_697405
-(372) +< dyna fo mae rhaid ti ddang(os) +/ .
+(411) *AVR:	&=laugh . 762071_762594(412) *CHT:	&=laugh . 763926_764844(413) *AVR:	mi ddaw xxx +/. 764280_765540(414) that will come [...] ...
 
-(373) *AVR:	mae raid ti ddangos bod ti wedi tyfu ti (y)n gweld bod ti ddim yn blentyn . 698027_701655
-(373) mae raid ti ddangos bod ti wedi tyfu ti (y)n gweld bod ti ddim yn blentyn .
+(414) *CHT:	<mi ddaw hwnnw> [=! laughs] <unrhyw munud> [?] ! 765238_766933(415) that will come any minute!
 
-(374) *AVR:	a wedyn maen nhw (y)n dechrau smocio . 701823_703391
-(374) a wedyn maen nhw (y)n dechrau smocio .
+(415) *CHT:	&=laugh . 767876_768376(416) *AVR:	dyma nhw <(we)di &ko> [//] wedi torri (y)r <coed fan (y)ma> [?] diwrnod o_blaen . 768416_771301(417) they''ve cut the trees here the other day.
 
-(375) *CHT:	ie ia . 703420_703820
-(375) ie ia .
+(417) *CHT:	oh@s:cy&es achos oedd hi (y)n cyrraedd yn (.) uchel iawn doedd ? 771289_775335(418) oh, because it was getting very high wasn''t it?
 
-(376) *AVR:	a wedyn maen nhw [?] (y)n smocio +/. 703855_705190
-(376) a wedyn maen nhw [?] (y)n smocio +/ .
+(418) *AVR:	+< ie <oedd hi (y)n> [/] oedd hi (y)n lla(wn) [/] llawn o ffrwythau . 773910_776888(419) yes, it was full of fruit.
 
-(377) *CHT:	+< a wedyn maen nhw methu gadael nhw . 704517_705836
-(377) +< a wedyn maen nhw methu gadael nhw .
+(419) *CHT:	paltas@s:es . 777938_778426(420) avocados.
 
-(378) *AVR:	yndy [?] . 705860_706312
-(378) yndy [?] .
+(420) *AVR:	paltas@s:es [//] avocado@s:cy&es . 778536_779999(421) avocado.
 
-(379) *CHT:	a mae mynd yn +... 706326_707057
-(379) a mae mynd yn +.. .
+(421) *CHT:	ie . 780289_780643(422) yes.
 
-(380) *AVR:	maen nhw (y)n gafael ynddyn [?] nhw . 707109_708473
-(380) maen nhw (y)n gafael ynddyn [?] nhw .
+(422) *AVR:	a mae (y)na rei nawr hyd ar yr +/. 780667_782885(423) and there are some along on the...
 
-(381) *CHT:	ydy ydy . 708457_709160
-(381) ydy ydy .
+(423) *CHT:	oh@s:cy&es so ti (y)n cael glamp o +... 782854_785577(424) oh, so you''re getting piles of...
 
-(382) *AVR:	achos wn i mae Veronica@s:cy&es yn deud +"/. 709113_710768
-(382) achos wn i mae Veronica@s:cy&es yn deud +"/ .
+(424) *AVR:	mae (y)r adar yn gwledda arnyn nhw myfyria di . 785888_788791(425) the birds are feasting on them, think of it.
 
-(383) *AVR:	+" oh@s:cy&es wna i adael y smocio fyddwn [?] . 710756_712430
-(383) +" oh@s:cy&es wna i adael y smocio fyddwn [?] .
+(425) *CHT:	&=squeal . 787641_788825(426) *AVR:	a ninnau (y)n edrych fan hyn yn rhy bell i &=clap +... 788930_791653(427) and us watching from here too far away to...
 
-(384) *CHT:	ond fuo(dd) hi (y)n dewis no@s:es ?712704_713877
-(384) ond fuo(dd) hi (y)n dewis no@s:es ?
+(427) *CHT:	ie ia . 791857_792559(428) yes, yes.
 
-(385) *CHT:	na ddim felly mae hi . 713906_715009
-(385) na ddim felly mae hi .
+(428) *AVR:	+, <i cael> [/] i gael nhw no@s:es ? 792646_794684(429) ...to get them, no?
 
-(386) *AVR:	na . 715305_715595
-(386) na .
+(429) *AVR:	wyt ti (y)n gwybod pryd mae pen_blwydd Susan@s:cy&es ? 794919_797223(430) do you know when Susan''s birthday is?
 
-(387) *CHT:	mae rhai yn gallu gadael ond rei eraill ddim . 715566_718485
-(387) mae rhai yn gallu gadael ond rei eraill ddim .
+(430) *CHT:	dim syniad . 797920_798971(431) no idea.
 
-(388) *AVR:	mae rhaid ti bod â ddipyn o benderfyniad a mae Pamela@s:cy&es yr un peth . 718640_722529
-(388) mae rhaid ti bod â ddipyn o benderfyniad a mae Pamela@s:cy&es yr un peth .
+(431) *AVR:	dim syniad ? 799064_800050(432) no idea?
 
-(389) *CHT:	ah@s:cy&es mae hi hefyd yn er@s:cy&es +... 722978_724300
-(389) ah@s:cy&es mae hi hefyd yn er@s:cy&es +.. .
+(432) *AVR:	mae hi +/. 800898_801409(433) she''s...
 
-(390) *AVR:	yndy yndy yr unig un . 724279_726346
-(390) yndy yndy yr unig un .
+(433) *CHT:	Anita@s:cy&es (ba)sai (y)n gwybod hwnna sti . 801420_802779(434) Anita would know that, you know.
 
-(391) *AVR:	yr unig un . 726452_727230
-(391) yr unig un .
+(434) *AVR:	claro@s:es mae [/] maen nhw xxx . 803082_805340(435) right, they''re [...].
 
-(392) *CHT:	+^ yn y teulu . 727080_727753
-(392) +^ yn y teulu .
+(435) *AVR:	a be (y)dy (y)r pen_blwydd Gwyneth@s:cy&es ta ? 806359_808057(436) and what''s Gwyneth''s birthday then?
 
-(393) *AVR:	achos rŵan <mae thad hi> [/] mae thad hi wedi gadael hefyd . 727596_730943
-(393) achos rŵan <mae thad hi> [/] mae thad hi wedi gadael hefyd .
+(436) *AVR:	mae <yr un un &pe> [//] yr un +... 808677_810731(437) it''s the same...
 
-(394) *AVR:	a wedyn <mae (y)r> [/] mae (y)r tri bachgen (.) ddim yn smocio . 731338_735821
-(394) a wedyn <mae (y)r> [/] mae (y)r tri bachgen (.) ddim yn smocio .
+(437) *CHT:	+< na . 809158_809669(438) no.
 
-(395) *CHT:	+< ia . 734552_734854
-(395) +< ia .
+(438) *AVR:	na ? 811358_811678(439) no?
 
-(396) *CHT:	ah@s:cy&es lwcus . 735442_736729
-(396) ah@s:cy&es lwcus .
+(439) *CHT:	na: . 811957_812677(440) no.
 
-(397) *AVR:	ond mae Nita@s:cy&es [///] mi oedd hi (y)n smocio pan oedd hi yn Gymru . 736756_740494
-(397) ond mae Nita@s:cy&es [///] mi oedd hi (y)n smocio pan oedd hi yn Gymru .
+(440) *CHT:	(ba)swn i (y)n gallu cael gwybod er@s:cy&es pen_blwydd er@s:cy&es Gwyneth@s:cy&es efo Enlli@s:cy&es (.) trwy (y)r teleffon . 813524_818690(441) I could find out Gwyneth''s birthday from Enlli, by telephone.
 
-(398) *CHT:	oh@s:cy&es . 741099_741458
-(398) oh@s:cy&es .
+(441) *AVR:	aha@s:cy&es (dy)na fo ta . 820060_820933(442) aha, there we are then.
 
-(399) *AVR:	yn er@s:cy&es saith_deg_dau oedd hi (y)n smocio . 741435_743788
-(399) yn er@s:cy&es saith_deg_dau oedd hi (y)n smocio .
+(442) *AVR:	mi fydd Gwyneth@s:cy&es yn y steddfod siwr . 820974_822762(443) Gwyneth is sure to be at the eisteddfod.
 
-(400) *AVR:	mi ddoth yn_ôl . 743788_744655
-(400) mi ddoth yn_ôl .
+(443) *CHT:	mae [/] mae (y)r ddwy (y)n mynd . 823115_824055(444) both of them are going.
 
-(401) *AVR:	roedd (yn)a golwg ar Nita@s:cy&es wedi teithio gymaint a [//] (.) ac yn nyrfs i_gyd . 744661_749535
-(401) roedd (yn)a golwg ar Nita@s:cy&es wedi teithio gymaint a [//] (.) ac yn nyrfs i_gyd .
+(444) *CHT:	mae Enlli@s:cy&es mynd hefyd . 824032_824903(445) Enlli is going too.
 
-(402) *AVR:	a wedyn oedd y smocio (y)ma claro@s:es [?] . 749636_751789
-(402) a wedyn oedd y smocio (y)ma claro@s:es [?] .
+(445) *AVR:	ah@s:cy&es . 825090_825937(446) *CHT:	ie o(edde)n nhw (we)di cwrdd â ei_gilydd diwrnod o_blaen ac yn (.) deud +"/. 826728_829625(447) yes, they met together the other day and said:
 
-(403) *AVR:	wedi smocio <mwy yn Gymru> [//] mwy nag oedd hi (y)n arfer . 752872_756198
-(403) wedi smocio <mwy yn Gymru> [//] mwy nag oedd hi (y)n arfer .
+(447) *CHT:	+" wyt ti mynd i (y)r (ei)steddfod ? 829602_830415(448) "are you going to the eisteddfod?"
 
-(404) *CHT:	+< claro@s:es . 753813_754207
-(404) +< claro@s:es .
+(448) *CHT:	+" yndw ! 830368_830810(449) "yes!"
 
-(405) *CHT:	ia . 756132_756521
-(405) ia .
+(449) *CHT:	+" ah@s:cy&es dw i hefyd ! 830798_831582(450) "ah, so am I!"
 
-(406) *AVR:	felly +/. 756981_757243
-(406) felly +/ .
+(450) *CHT:	+" oh@s:cy&es ! 831584_832054(451) *CHT:	hapus . 831584_832054(452) happy.
 
-(407) *CHT:	mi ddoth y claro@s:es ["] allan diwedd . 757391_758877
-(407) mi ddoth y claro@s:es ["] allan diwedd .
+(452) *AVR:	yndy chwarae teg i Gwyneth@s:cy&es . 833252_834465(453) yes, fair play to Gwyneth.
 
-(408) *AVR:	do mi ddoth y claro@s:es ["] . 758888_759922
-(408) do mi ddoth y claro@s:es ["] .
+(453) *CHT:	hapus . 833774_834157(454) happy.
 
-(409) *CHT:	mi ddoth y claro@s:es . 759892_760681
-(409) mi ddoth y claro@s:es .
+(454) *AVR:	mae hi (y)n mynd rŵan ta ? 834494_835713(455) she''s going now then?
 
-(410) *CHT:	<a nawr mae raid i> [?] bueno@s:es ["] ddod &=laugh ! 760774_762893
-(410) <a nawr mae raid i> [?] bueno@s:es ["] ddod &=laugh !
+(455) *CHT:	ia . 835968_836340(456) yes.
 
-(411) *AVR:	&=laugh . 762071_762594
-(411) &=laugh .
+(456) *AVR:	ac o(eddw)n i meddwl sut mae Sally@s:cy&es tybed . 836428_838518(457) and I was wondering, how is Sally, I wonder.
 
-(412) *CHT:	&=laugh . 763926_764844
-(412) &=laugh .
+(457) *CHT:	mae hi reit da dw i (y)n credu ydy ddi . 839040_841414(458) she''s very well I think, yes she is.
 
-(413) *AVR:	mi ddaw xxx +/. 764280_765540
-(413) mi ddaw xxx +/ .
+(458) *CHT:	adre mae hi ia . 841501_842755(459) she''s at home, yes.
 
-(414) *CHT:	<mi ddaw hwnnw> [=! laughs] <unrhyw munud> [?] ! 765238_766933
-(414) <mi ddaw hwnnw> [=! laughs] <unrhyw munud> [?] !
+(459) *CHT:	ia a nôl a (y)mlaen efo Robert@s:cy&es de . 844085_846698(460) yes, and back and forth with Robert.
 
-(415) *CHT:	&=laugh . 767876_768376
-(415) &=laugh .
+(460) *AVR:	ie mae o (y)n edrych ar ei ól (.) Robert . 847553_850833(461) yes he looks after him.. . Robert.
 
-(416) *AVR:	dyma nhw <(we)di &ko> [//] wedi torri (y)r <coed fan (y)ma> [?] diwrnod o_blaen . 768416_771301
-(416) dyma nhw <(we)di &ko> [//] wedi torri (y)r <coed fan (y)ma> [?] diwrnod o_blaen .
+(461) *AVR:	na be ydy enw (y)r bachgen (y)na ? 852103_854930(462) no what''s that boy''s name?
 
-(417) *CHT:	oh@s:cy&es achos oedd hi (y)n cyrraedd yn (.) uchel iawn doedd ? 771289_775335
-(417) oh@s:cy&es achos oedd hi (y)n cyrraedd yn (.) uchel iawn doedd ?
+(462) *CHT:	Robert@s:cy&es +//. 855043_855391(463) *CHT:	 ah@s:cy&es Sally@s:cy&es ! 855408_855931(464) *CHT:	wyt ti (y)n feddwl Sally@s:cy&es chwaer er@s:cy&es Gwyneth@s:cy&es . 855925_858340(465) you mean Sally, Gwyneth''s sister.
 
-(418) *AVR:	+< ie <oedd hi (y)n> [/] oedd hi (y)n lla(wn) [/] llawn o ffrwythau . 773910_776888
-(418) +< ie <oedd hi (y)n> [/] oedd hi (y)n lla(wn) [/] llawn o ffrwythau .
+(465) *CHT:	ah@s:cy&es dw i (ddi)m yn gwybod beth [//] sut mae hi . 858460_860225(466) oh, I don''t know how she is.
 
-(419) *CHT:	paltas@s:es . 777938_778426
-(419) paltas@s:es .
+(466) *AVR:	ah@s:cy&es Sally@s:cy&es Sally_Richards@s:cy&es . 860326_862439(467) *CHT:	ie ie ie ie . 862427_863605(468) yes, yes, yes.
 
-(420) *AVR:	paltas@s:es [//] avocado@s:cy&es . 778536_779999
-(420) paltas@s:es [//] avocado@s:cy&es .
+(468) *AVR:	oh@s:cy&es ia mae Robert@s:cy&es hi a Robert@s:cy&es yn lot o gwmni i w_gilydd . 863735_867648(469) oh yes, her Robert and Robert are good company to each other.
 
-(421) *CHT:	ie . 780289_780643
-(421) ie .
+(469) *CHT:	(yn)dyn (yn)dyn . 868182_868902(470) yes, yes.
 
-(422) *AVR:	a mae (y)na rei nawr hyd ar yr +/. 780667_782885
-(422) a mae (y)na rei nawr hyd ar yr +/ .
+(470) *CHT:	<ond mae> [/] ond mae o mynd &a allan i [/] i weithio ar [/] ar y mynydd <dw i (we)di clywed> [?] efo ryw fachine@s:en fawr sydd efo fo (.) i godi pridd ar i_fyny fel (yn)a . 869894_879842(471) but he goes out to work on the mountain, I''ve heard, with some big machine he has for raising up earth like this.
 
-(423) *CHT:	oh@s:cy&es so ti (y)n cael glamp o +... 782854_785577
-(423) oh@s:cy&es so ti (y)n cael glamp o +.. .
+(471) *AVR:	+< ah@s:cy&es ! 879530_880354(472) *CHT:	mae ryw fachine@s:en er@s:cy&es arbennig efo fo . 879850_881914(473) he''s got some special machine.
 
-(424) *AVR:	mae (y)r adar yn gwledda arnyn nhw myfyria di . 785888_788791
-(424) mae (y)r adar yn gwledda arnyn nhw myfyria di .
+(473) *CHT:	a wedyn mae o mynd allan i Sunica@s:es neu +//. 882202_885012(474) and then he goes out to Sunica or...
 
-(425) *CHT:	&=squeal . 787641_788825
-(425) &=squeal .
+(474) *CHT:	dw i (ddi)m yn gwybod lle . 884971_885685(475) I don''t know where.
 
-(426) *AVR:	a ninnau (y)n edrych fan hyn yn rhy bell i &=clap +... 788930_791653
-(426) a ninnau (y)n edrych fan hyn yn rhy bell i &=clap +.. .
+(475) *CHT:	um@s:cy&es dyffryn oer rywbeth felly . 886010_888726(476) um, a cold valley, something like that.
 
-(427) *CHT:	ie ia . 791857_792559
-(427) ie ia .
+(476) *CHT:	a wel (..) mae hi (y)n aros ei hunan amser hynny ond +... 889289_893853(477) and, well, she stays by herself then, but...
 
-(428) *AVR:	+, <i cael> [/] i gael nhw no@s:es ? 792646_794684
-(428) +, <i cael> [/] i gael nhw no@s:es ?
+(477) *AVR:	ie ond er@s:cy&es dyna bentre [?] ei gartef o neu [?] mae o (y)n byw rŵan +/. 894052_897262(478) yes, but that''s his home town, or he''s living now...
 
-(429) *AVR:	wyt ti (y)n gwybod pryd mae pen_blwydd Susan@s:cy&es ? 794919_797223
-(429) wyt ti (y)n gwybod pryd mae pen_blwydd Susan@s:cy&es ?
+(478) *CHT:	na mae o (y)n byw yn Trevelin@s:cy&es (.) efo Sally@s:cy&es . 897064_899154(479) no, he lives in Trevelin with Sally.
 
-(430) *CHT:	dim syniad . 797920_798971
-(430) dim syniad .
+(479) *CHT:	yndy . 900473_900833(480) yes.
 
-(431) *AVR:	dim syniad ? 799064_800050
-(431) dim syniad ?
+(480) *CHT:	ti (y)n cofio fo (y)n dod i: chwarae piano@s:cy&es fan hyn pan oedd Raquel@s:cy&es yma ? 900949_904223(481) do you remember him coming here to play the piano, when Raquel was here?
 
-(432) *AVR:	mae hi +/. 800898_801409
-(432) mae hi +/ .
+(481) *AVR:	ia . 905340_905752(482) yes.
 
-(433) *CHT:	Anita@s:cy&es (ba)sai (y)n gwybod hwnna sti . 801420_802779
-(433) Anita@s:cy&es (ba)sai (y)n gwybod hwnna sti .
+(482) *CHT:	xx mae gen i lun o nhw chwarae (y)r piano@s:cy&es . 906290_908583(483) [..] I have a picture of them playing the piano.
 
-(434) *AVR:	claro@s:es mae [/] maen nhw xxx . 803082_805340
-(434) claro@s:es mae [/] maen nhw xxx .
+(483) may be slip of tongue or possibly Spanish word at start?
 
-(435) *AVR:	a be (y)dy (y)r pen_blwydd Gwyneth@s:cy&es ta ? 806359_808057
-(435) a be (y)dy (y)r pen_blwydd Gwyneth@s:cy&es ta ?
+(483) *AVR:	paid â deud . 908622_909208(484) you don''t say.
 
-(436) *AVR:	mae <yr un un &pe> [//] yr un +... 808677_810731
-(436) mae <yr un un &pe> [//] yr un +.. .
+(484) *AVR:	a rei o blynyddoedd oedd hynny no@s:es ? 909309_911225(485) and that was many years [ago] wasn''t it?
 
-(437) *CHT:	+< na . 809158_809669
-(437) +< na .
+(485) *CHT:	oes er@s:cy&es wel mae (y)na ryw naw siwr neu wyth neu naw . 911561_915572(486) yes, er, well, it''s about nine surely, or eight or nine.
 
-(438) *AVR:	na ? 811358_811678
-(438) na ?
+(486) *AVR:	a nhw wedi marw yn ifanc i_gyd . 915783_917711(487) and they all died young.
 
-(439) *CHT:	na: . 811957_812677
-(439) na: .
+(487) *AVR:	dw i (ddi)m yn gwybod p(a) (y)r un farwodd (.) &s Jaime@s:cy&es neu Jago@s:cy&es . 920002_922928(488) I don''t know which died, Jaime or Jago.
 
-(440) *CHT:	(ba)swn i (y)n gallu cael gwybod er@s:cy&es pen_blwydd er@s:cy&es Gwyneth@s:cy&es efo Enlli@s:cy&es (.) trwy (y)r teleffon . 813524_818690
-(440) (ba)swn i (y)n gallu cael gwybod er@s:cy&es pen_blwydd er@s:cy&es Gwyneth@s:cy&es efo Enlli@s:cy&es (.) trwy (y)r teleffon .
+(488) *AVR:	a Ines@s:cy&es +/. 923649_924450(489) and Ines...
 
-(441) *AVR:	aha@s:cy&es (dy)na fo ta . 820060_820933
-(441) aha@s:cy&es (dy)na fo ta .
+(489) *CHT:	Jago@s:cy&es i ddechrau dw i meddwl . 924323_925943(490) Jago to begin with, I think.
 
-(442) *AVR:	mi fydd Gwyneth@s:cy&es yn y steddfod siwr . 820974_822762
-(442) mi fydd Gwyneth@s:cy&es yn y steddfod siwr .
+(490) *AVR:	ond oedd Ines@s:cy&es yn fyw yn naw_deg_tri . 925940_927850(491) but Ines was alive in ninety-three.
 
-(443) *CHT:	mae [/] mae (y)r ddwy (y)n mynd . 823115_824055
-(443) mae [/] mae (y)r ddwy (y)n mynd .
+(491) *AVR:	pan o(eddw)n i yn Gymru oedd Ines@s:cy&es yn byw . 927835_929809(492) when I was in Wales Ines was alive.
 
-(444) *CHT:	mae Enlli@s:cy&es mynd hefyd . 824032_824903
-(444) mae Enlli@s:cy&es mynd hefyd .
+(492) *AVR:	ond ges i ddim gwybod bod Lea@s:cy&es yn Chester@s:en . 930101_933114(493) but I didn''t find out that Lea was in Chester.
 
-(445) *AVR:	ah@s:cy&es . 825090_825937
-(445) ah@s:cy&es .
+(493) *AVR:	achos i Chester@s:en ddaru ni gyrraedd . 933510_935757(494) because it was to Chester that we arrived.
 
-(446) *CHT:	ie o(edde)n nhw (we)di cwrdd â ei_gilydd diwrnod o_blaen ac yn (.) deud +"/. 826728_829625
-(446) ie o(edde)n nhw (we)di cwrdd â ei_gilydd diwrnod o_blaen ac yn (.) deud +"/ .
+(494) *CHT:	ia aros di ! 935760_936654(495) yes, hold on!
 
-(447) *CHT:	+" wyt ti mynd i (y)r (ei)steddfod ? 829602_830415
-(447) +" wyt ti mynd i (y)r (ei)steddfod ?
+(495) *CHT:	be oedd Chester@s:en yn Gymraeg ? 936637_937977(496) what was Chester in Welsh?
 
-(448) *CHT:	+" yndw ! 830368_830810
-(448) +" yndw !
+(496) *AVR:	Caer ia ? 938822_939635(497) "Caer", right?
 
-(449) *CHT:	+" ah@s:cy&es dw i hefyd ! 830798_831582
-(449) +" ah@s:cy&es dw i hefyd !
+(497) *CHT:	Caer . 939647_940089(498) *CHT:	Caer ? 940677_941095(499) *AVR:	Caer . 941147_941699(500) *CHT:	ia. 942555_942892(501) yes.
 
-(450) *CHT:	+" oh@s:cy&es ! 831584_832054
-(450) +" oh@s:cy&es !
+(501) *AVR:	a wedyn i fan (hy)nny ddoth um@s:cy&es Ann@s:cy&es i gwrdd hynny efo Elisa@s:cy&es . 943096_947537(502) and then Ann came there to meet her with Elisa.
 
-(451) *CHT:	hapus . 831584_832054
-(451) hapus .
+(502) *CHT:	ah@s:cy&es . 947883_948899(503) *AVR:	a wedyn mynd i gael te i le Linda@s:cy&es . 949155_951356(504) and then went to have tea at Linda''s place.
 
-(452) *AVR:	yndy chwarae teg i Gwyneth@s:cy&es . 833252_834465
-(452) yndy chwarae teg i Gwyneth@s:cy&es .
+(504) *AVR:	ond doedd o (dd)im posib meddwl am dri o bopeth oedd ar y bwrdd . 951961_955792(505) but it was impossible to think about three of everything on the table.
 
-(453) *CHT:	hapus . 833774_834157
-(453) hapus .
+(505) unsure of translation.
 
-(454) *AVR:	mae hi (y)n mynd rŵan ta ? 834494_835713
-(454) mae hi (y)n mynd rŵan ta ?
+(505) *AVR:	wel roedd y te fantástico@s:es xxx . 957098_960157(506) well, the tea was fantastic [...]
 
-(455) *CHT:	ia . 835968_836340
-(455) ia .
+(506) *CHT:	a lle oedd Linda@s:cy&es yn byw ? 960235_961686(507) and where did Linda live?
 
-(456) *AVR:	ac o(eddw)n i meddwl sut mae Sally@s:cy&es tybed . 836428_838518
-(456) ac o(eddw)n i meddwl sut mae Sally@s:cy&es tybed .
+(507) *AVR:	oedd Linda yn byw yn Wrexham@s:cy&es . 962041_963719(508) Linda lived in Wrexham.
 
-(457) *CHT:	mae hi reit da dw i (y)n credu ydy ddi . 839040_841414
-(457) mae hi reit da dw i (y)n credu ydy ddi .
+(508) *CHT:	oh@s:cy&es . 963903_964582(509) *AVR:	a felly oedd hynna o +/. 965098_966113(510) and so she was from...
 
-(458) *CHT:	adre mae hi ia . 841501_842755
-(458) adre mae hi ia .
+(510) *CHT:	Mold@s:en ia ? 966113_967257(511) Mold, right?
 
-(459) *CHT:	ia a nôl a (y)mlaen efo Robert@s:cy&es de . 844085_846698
-(459) ia a nôl a (y)mlaen efo Robert@s:cy&es de .
+(511) *AVR:	eh@s:cy&es ? 967460_967745(512) *CHT:	Mold@s:en ? 967757_968402(513) *AVR:	er@s:cy&es Wrexham@s:cy&es . 969031_970012(514) *CHT:	ia dw i (y)n meddwl mai Mold@s:en ydy o ? 970699_972603(515) yes I think it''s Mold.
 
-(460) *AVR:	ie mae o (y)n edrych ar ei ól (.) Robert . 847553_850833
-(460) ie mae o (y)n edrych ar ei ól (.) Robert .
+(515) *AVR:	+< xxx . 971041_971883(516) *CHT:	er@s:cy&es o fan (hy)nny oedd [///] dw i (y)n credu mai o fan (hy)nny oedd Aled_Lloyd_Davies@s:cy&es . 972731_976045(517) I think that''s where Aled Lloyd Davies is from.
 
-(461) *AVR:	na be ydy enw (y)r bachgen (y)na ? 852103_854930
-(461) na be ydy enw (y)r bachgen (y)na ?
+(517) *AVR:	xx ah@s:cy&es . 976480_978587(518) *AVR:	oedd hi ddim yn bell o gwbl o Gaer . 978773_980950(519) she wasn''t at all far from Chester.
 
-(462) *CHT:	Robert@s:cy&es +//. 855043_855391
-(462) Robert@s:cy&es +// .
+(519) *AVR:	a wedyn &o oedden ni (y)n mynd wedyn er@s:cy&es trwy +//. 981824_985703(520) and then we went after that through...
 
-(463) *CHT:	 ah@s:cy&es Sally@s:cy&es ! 855408_855931
-(463) ah@s:cy&es Sally@s:cy&es !
+(520) *CHT:	+< dyna pam ia . 982004_983202(521) that''s why, yes.
 
-(464) *CHT:	wyt ti (y)n feddwl Sally@s:cy&es chwaer er@s:cy&es Gwyneth@s:cy&es . 855925_858340
-(464) wyt ti (y)n feddwl Sally@s:cy&es chwaer er@s:cy&es Gwyneth@s:cy&es .
+(521) *AVR:	<dw (ddi)m yn gwybod taw> [?] Llangollen@s:cy&es i ddechrau neu Llangollen@s:cy&es wedyn ar_ôl Wrexham@s:cy&es . 985872_991584(522) I don''t know if it was Llangollen first or Llangollen after Wrexham.
 
-(465) *CHT:	ah@s:cy&es dw i (ddi)m yn gwybod beth [//] sut mae hi . 858460_860225
-(465) ah@s:cy&es dw i (ddi)m yn gwybod beth [//] sut mae hi .
+(522) *CHT:	ia nesa i_lawr . 992037_993801(523) yes, next down.
 
-(466) *AVR:	ah@s:cy&es Sally@s:cy&es Sally_Richards@s:cy&es . 860326_862439
-(466) ah@s:cy&es Sally@s:cy&es Sally_Richards@s:cy&es .
+(523) *AVR:	+< xxx . 992240_993244(524) *CHT:	syth i_lawr . 993941_994707(525) straight down .
 
-(467) *CHT:	ie ie ie ie . 862427_863605
-(467) ie ie ie ie .
+(525) *AVR:	a wedyn o(eddw)n i (y)n gweld Liverpool@s:es o bell . 996224_998668(526) and then I could see Liverpool in the distance.
 
-(468) *AVR:	oh@s:cy&es ia mae Robert@s:cy&es hi a Robert@s:cy&es yn lot o gwmni i w_gilydd . 863735_867648
-(468) oh@s:cy&es ia mae Robert@s:cy&es hi a Robert@s:cy&es yn lot o gwmni i w_gilydd .
+(526) *AVR:	ond fues i ddim yna . 999840_1001483(527) but I didn''t go there.
 
-(469) *CHT:	(yn)dyn (yn)dyn . 868182_868902
-(469) (yn)dyn (yn)dyn .
+(527) *CHT:	mi fues i yn agos iawn i [///] fues i yna . 1001629_1005327(528) I went very close to.. . I went there.
 
-(470) *CHT:	<ond mae> [/] ond mae o mynd &a allan i [/] i weithio ar [/] ar y mynydd <dw i (we)di clywed> [?] efo ryw fachine@s:en fawr sydd efo fo (.) i godi pridd ar i_fyny fel (yn)a . 869894_879842
-(470) <ond mae> [/] ond mae o mynd &a allan i [/] i weithio ar [/] ar y mynydd <dw i (we)di clywed> [?] efo ryw fachine@s:en fawr sydd efo fo (.) i godi pridd ar i_fyny fel (yn)a .
+(528) *CHT:	er@s:cy&es efo Missus@s:cy&es Parry@s:cy&es . 1005607_1008341(529) er, with Mrs Parry.
 
-(471) *AVR:	+< ah@s:cy&es ! 879530_880354
-(471) +< ah@s:cy&es !
+(529) *CHT:	ti cofio Missus@s:cy&es Parry@s:cy&es ? 1008386_1009727(530) do you remember Mrs Parry?
 
-(472) *CHT:	mae ryw fachine@s:en er@s:cy&es arbennig efo fo . 879850_881914
-(472) mae ryw fachine@s:en er@s:cy&es arbennig efo fo .
+(530) *AVR:	do mi oedd hi yma aml i dro . 1010066_1011726(531) yes, she was here several times.
 
-(473) *CHT:	a wedyn mae o mynd allan i Sunica@s:es neu +//. 882202_885012
-(473) a wedyn mae o mynd allan i Sunica@s:es neu +// .
+(531) *CHT:	oh@s:cy&es . 1011786_1012279(532) *AVR:	<a mi buodd hi> [//] mi ddoth yn_ôl hyd yn oed ar_ôl colli ei (.) ei portmanteau@s:cy&es ti (y)n cofio . 1012208_1020309(533) and she came back even after losing her portmanteau, you remember.
 
-(474) *CHT:	dw i (ddi)m yn gwybod lle . 884971_885685
-(474) dw i (ddi)m yn gwybod lle .
+(533) *AVR:	ti (y)n cofio ? 1020390_1020971(534) you remember?
 
-(475) *CHT:	um@s:cy&es dyffryn oer rywbeth felly . 886010_888726
-(475) um@s:cy&es dyffryn oer rywbeth felly .
+(534) *AVR:	mi gollodd hi ei [/] (.) ei portmanteau@s:cy&es a [/] a dillad i_gyd yn_do ? 1021286_1026545(535) she lost her suitcase and all her clothes, didn''t she?
 
-(476) *CHT:	a wel (..) mae hi (y)n aros ei hunan amser hynny ond +... 889289_893853
-(476) a wel (..) mae hi (y)n aros ei hunan amser hynny ond +.. .
+(535) *CHT:	oh@s:cy&es do [?] ? 1027267_1027876(536) oh, really?
 
-(477) *AVR:	ie ond er@s:cy&es dyna bentre [?] ei gartef o neu [?] mae o (y)n byw rŵan +/. 894052_897262
-(477) ie ond er@s:cy&es dyna bentre [?] ei gartef o neu [?] mae o (y)n byw rŵan +/ .
+(536) *CHT:	dw (ddi)m yn cofio hynny . 1028075_1028818(537) I don''t remember that.
 
-(478) *CHT:	na mae o (y)n byw yn Trevelin@s:cy&es (.) efo Sally@s:cy&es . 897064_899154
-(478) na mae o (y)n byw yn Trevelin@s:cy&es (.) efo Sally@s:cy&es .
+(537) *AVR:	a mi ddoth hi (y)n_ôl wedyn chwarae teg . 1028420_1030417(538) and she came back afterwards, fair play.
 
-(479) *CHT:	yndy . 900473_900833
-(479) yndy .
+(538) *CHT:	+< ia . 1029826_1030075(539) yes.
 
-(480) *CHT:	ti (y)n cofio fo (y)n dod i: chwarae piano@s:cy&es fan hyn pan oedd Raquel@s:cy&es yma ? 900949_904223
-(480) ti (y)n cofio fo (y)n dod i: chwarae piano@s:cy&es fan hyn pan oedd Raquel@s:cy&es yma ?
+(539) *CHT:	<es i &n> [?] aros efo hi . 1030404_1031524(540) I went to stay with her.
 
-(481) *AVR:	ia . 905340_905752
-(481) ia .
+(540) *CHT:	oedd efo hi gartre bach neis. 1031785_1033463(541) she had a nice little home.
 
-(482) *CHT:	xx mae gen i lun o nhw chwarae (y)r piano@s:cy&es . 906290_908583
-(482) xx mae gen i lun o nhw chwarae (y)r piano@s:cy&es .
+(541) *CHT:	a mi aethon ni i [/] i [/] i Lerpwl . 1033593_1035846(542) and we went to Liverpool.
 
-(483) *AVR:	paid â deud . 908622_909208
-(483) paid â deud .
+(542) *CHT:	&e . 1036356_1036605(543) *AVR:	ah@s:cy&es oeddech chi (y)n agos . 1036623_1037801(544) ah, you were close.
 
-(484) *AVR:	a rei o blynyddoedd oedd hynny no@s:es ? 909309_911225
-(484) a rei o blynyddoedd oedd hynny no@s:es ?
+(544) *CHT:	dim yn agos iawn . 1038076_1039208(545) not very close.
 
-(485) *CHT:	oes er@s:cy&es wel mae (y)na ryw naw siwr neu wyth neu naw . 911561_915572
-(485) oes er@s:cy&es wel mae (y)na ryw naw siwr neu wyth neu naw .
+(545) *CHT:	oedd(en) [/] oedden ni (y)n mynd <ar yr um@s:cy&es> [//] ar y ffordd lawr yma ynde . 1039475_1043567(546) we were going on the way down here.
 
-(486) *AVR:	a nhw wedi marw yn ifanc i_gyd . 915783_917711
-(486) a nhw wedi marw yn ifanc i_gyd .
+(546) *CHT:	ac oedd &e [/] oedd hi ddim yn siwr iawn sut i fynd (.) os mae hi am ffordd acw neu ffordd acw . 1043691_1049577(547) and she wasn''t quite sure where to go, whether she wanted to go this way or that way.
 
-(487) *AVR:	dw i (ddi)m yn gwybod p(a) (y)r un farwodd (.) &s Jaime@s:cy&es neu Jago@s:cy&es . 920002_922928
-(487) dw i (ddi)m yn gwybod p(a) (y)r un farwodd (.) &s Jaime@s:cy&es neu Jago@s:cy&es .
+(547) *CHT:	a sydyn iawn oedd hi (y)n penderfynu troi ar pobl . 1049661_1052036(548) and all of a sudden she would decide to turn on people.
 
-(488) *AVR:	a Ines@s:cy&es +/. 923649_924450
-(488) a Ines@s:cy&es +/ .
+(548) *CHT:	oh@s:cy&es oedd hi (y)n beryg.(549) oh, it was dangerous.
 
-(489) *CHT:	Jago@s:cy&es i ddechrau dw i meddwl . 924323_925943
-(489) Jago@s:cy&es i ddechrau dw i meddwl .
+(549) *CHT:	oh@s:cy&es beryg ! 1052904_1053693(550) oh, dangerous.
 
-(490) *AVR:	ond oedd Ines@s:cy&es yn fyw yn naw_deg_tri . 925940_927850
-(490) ond oedd Ines@s:cy&es yn fyw yn naw_deg_tri .
+(550) *AVR:	+< xx . 1053569_1053819(551) *CHT:	o(eddw)n i (y)n diolch [?] bod fi (we)di cyrraedd adre pan cyrraeson ni adre (y)n y nos . 1053608_1057097(552) I was thankful to get home when we got home at night.
 
-(491) *AVR:	pan o(eddw)n i yn Gymru oedd Ines@s:cy&es yn byw . 927835_929809
-(491) pan o(eddw)n i yn Gymru oedd Ines@s:cy&es yn byw .
+(552) *AVR:	&=laugh . 1056548_1057216(553) *CHT:	o(edde)n ni (y)n mynd yn nos . 1057066_1058123(554) we went at night.
 
-(492) *AVR:	ond ges i ddim gwybod bod Lea@s:cy&es yn Chester@s:en . 930101_933114
-(492) ond ges i ddim gwybod bod Lea@s:cy&es yn Chester@s:en .
+(554) *CHT:	mynd yn nos i Lerpwl . 1059030_1061044(555) going at night to Liverpool.
 
-(493) *AVR:	achos i Chester@s:en ddaru ni gyrraedd . 933510_935757
-(493) achos i Chester@s:en ddaru ni gyrraedd .
+(555) *CHT:	+, i lle Maggie@s:cy&es . 1061956_1062867(556) to Maggie''s place.
 
-(494) *CHT:	ia aros di ! 935760_936654
-(494) ia aros di !
+(556) *AVR:	ah@s:cy&es . 1063259_1063990(557) *CHT:	mae Maggie@s:cy&es wedi marw rŵan . 1064112_1065633(558) Maggie''s dead now.
 
-(495) *CHT:	be oedd Chester@s:en yn Gymraeg ? 936637_937977
-(495) be oedd Chester@s:en yn Gymraeg ?
+(558) *AVR:	mmhm@s:cy&es . 1066533_1067282(559) *CHT:	Maggie@s:cy&es Melissa@s:cy&es (..) a ballu . 1067387_1070707(560) Maggie, Melissa.. . and so on.
 
-(496) *AVR:	Caer ia ? 938822_939635
-(496) Caer ia ?
+(560) *AVR:	ie mae ferch arall Carys@s:cy&es no@s:es ? 1070244_1072444(561) yes, and the other daughter, Carys, no?
 
-(497) *CHT:	Caer . 939647_940089
-(497) Caer .
+(561) *CHT:	Carys@s:cy&es er@s:cy&es García@s:cy&es ? 1073084_1074645(562) *CHT:	na ! 1074767_1075359(563) no.
 
-(498) *CHT:	Caer ? 940677_941095
-(498) Caer ?
+(563) *AVR:	Carys@s:cy&es mae (y)n priod efo xxx . 1075953_1078610(564) Carys, she''s married to [...].
 
-(499) *AVR:	Caer . 941147_941699
-(499) Caer .
+(564) *CHT:	ah@s:cy&es dw i ddim yn gwybod amdani hi . 1078621_1080171(565) ah, I don''t know about her.
 
-(500) *CHT:	ia. 942555_942892
-(500) ia .
+(565) *AVR:	a wedyn y bachgen . 1080578_1081977(566) and then the boy.
 
-(501) *AVR:	a wedyn i fan (hy)nny ddoth um@s:cy&es Ann@s:cy&es i gwrdd hynny efo Elisa@s:cy&es . 943096_947537
-(501) a wedyn i fan (hy)nny ddoth um@s:cy&es Ann@s:cy&es i gwrdd hynny efo Elisa@s:cy&es .
+(566) *CHT:	ah@s:cy&es . 1082609_1083433(567) *AVR:	oedd (y)na brawd efo nhw . 1083689_1084966(568) they had a brother.
 
-(502) *CHT:	ah@s:cy&es . 947883_948899
-(502) ah@s:cy&es .
+(568) *CHT:	oh@s:cy&es o(eddw)n i (ddi)m yn gwybod . 1084954_1085848(569) oh, I didn''t know.
 
-(503) *AVR:	a wedyn mynd i gael te i le Linda@s:cy&es . 949155_951356
-(503) a wedyn mynd i gael te i le Linda@s:cy&es .
+(569) *AVR:	ond Bobby@s:cy&es oedd hwnna . 1086271_1087693(570) but he was Bobby.
 
-(504) *AVR:	ond doedd o (dd)im posib meddwl am dri o bopeth oedd ar y bwrdd . 951961_955792
-(504) ond doedd o (dd)im posib meddwl am dri o bopeth oedd ar y bwrdd .
+(570) *CHT:	Bobby@s:cy&es ! 1087722_1089214(571) *AVR:	achos mi roedden [?] nhw yn yr un ysgol â fi yn Trelew@s:cy&es . 1089084_1091841(572) because they were in the same school as me in Trelew.
 
-(505) *AVR:	wel roedd y te fantástico@s:es xxx . 957098_960157
-(505) wel roedd y te fantástico@s:es xxx .
+(572) *CHT:	ia a wedyn oedd hi yn sister@s:en yn yr ysbyty (..) Prydeinig . 1092059_1097198(573) yes, and then she was a sister at the British hospital.
 
-(506) *CHT:	a lle oedd Linda@s:cy&es yn byw ? 960235_961686
-(506) a lle oedd Linda@s:cy&es yn byw ?
+(573) *CHT:	pan [///] oedd hi (y)n sister@s:en pan o(eddw)n i (y)n dysgu yn [/] yn yr ysbyty . 1097830_1101034(574) she was a sister while I was learning at the hospital.
 
-(507) *AVR:	oedd Linda yn byw yn Wrexham@s:cy&es . 962041_963719
-(507) oedd Linda yn byw yn Wrexham@s:cy&es .
+(574) *AVR:	ah@s:cy&es . 1100745_1101535(575) *AVR:	oh@s:cy&es pan oeddet ti (y)n +... 1101956_1103216(576) oh, when you were...
 
-(508) *CHT:	oh@s:cy&es . 963903_964582
-(508) oh@s:cy&es .
+(576) *CHT:	&m . 1103315_1103692(577) *AVR:	oh@s:cy&es paid â deud . 1104242_1105136(578) oh, you don''t say.
 
-(509) *AVR:	a felly oedd hynna o +/. 965098_966113
-(509) a felly oedd hynna o +/ .
+(578) *CHT:	+< ia . 1104439_1104718(579) yes.
 
-(510) *CHT:	Mold@s:en ia ? 966113_967257
-(510) Mold@s:en ia ?
+(579) *AVR:	oedd hi (y)n <sister@s:en yna> [?] ? 1105089_1106566(580) was she a sister there?
 
-(511) *AVR:	eh@s:cy&es ? 967460_967745
-(511) eh@s:cy&es ?
+(580) *CHT:	oedd hi (y)n sister@s:en oedd oedd . 1105446_1106995(581) she was a sister, yes yes.
 
-(512) *CHT:	Mold@s:en ? 967757_968402
-(512) Mold@s:en ?
+(581) *CHT:	oedd dipyn mwy na fi . 1107410_1108936(582) she was a bit bigger than me.
 
-(513) *AVR:	er@s:cy&es Wrexham@s:cy&es . 969031_970012
-(513) er@s:cy&es Wrexham@s:cy&es .
+(582) *AVR:	aha@s:cy&es oedd oedd . 1109188_1110593(583) aha, yes she was.
 
-(514) *CHT:	ia dw i (y)n meddwl mai Mold@s:en ydy o ? 970699_972603
-(514) ia dw i (y)n meddwl mai Mold@s:en ydy o ?
+(583) *CHT:	Bobby@s:cy&es (y)n glamp o hogan fawr a gry ynde ? 1110873_1113648(584) a great hulk of a girl, and strong, right?
 
-(515) *AVR:	+< xxx . 971041_971883
-(515) +< xxx .
+(584) *AVR:	ie dw i ddim yn siwr os oedd hi (y)n hynnach na fi dw i ddim yn meddwl . 1113788_1116896(585) yes, I''m not sure whether she was older than me; I don''t think so.
 
-(516) *CHT:	er@s:cy&es o fan (hy)nny oedd [///] dw i (y)n credu mai o fan (hy)nny oedd Aled_Lloyd_Davies@s:cy&es . 972731_976045
-(516) er@s:cy&es o fan (hy)nny oedd [///] dw i (y)n credu mai o fan (hy)nny oedd Aled_Lloyd_Davies@s:cy&es .
+(585) *CHT:	um@s:cy&es na dw i ddim yn credu na na na na . 1117085_1120666(586) um, no I don''t think so, no no.
 
-(517) *AVR:	xx ah@s:cy&es . 976480_978587
-(517) xx ah@s:cy&es .
+(586) *AVR:	+< <ychydig bach> [/] ychydig bach yn iengach . 1119269_1121047(587) a little bit younger
 
-(518) *AVR:	oedd hi ddim yn bell o gwbl o Gaer . 978773_980950
-(518) oedd hi ddim yn bell o gwbl o Gaer .
+(587) *CHT:	ia tua oed Angela@s:cy&es dw i meddwl . 1121277_1123221(588) yes, around Angela''s age I think.
 
-(519) *AVR:	a wedyn &o oedden ni (y)n mynd wedyn er@s:cy&es trwy +//. 981824_985703
-(519) a wedyn &o oedden ni (y)n mynd wedyn er@s:cy&es trwy +// .
+(588) *AVR:	ie achos maen nhw (we)di mynd i (y)r ysgol (y)na efo Robert@s:cy&es siwr o fod (.) ar_ôl i fi fod yna . 1123363_1128860(589) yes, because they must have gone to that school with Robert, after [..] was there.
 
-(520) *CHT:	+< dyna pam ia . 982004_983202
-(520) +< dyna pam ia .
+(589) *CHT:	ah@s:cy&es efo Robert@s:cy&es er@s:cy&es +... 1129664_1131666(590) ah, with Robert...
 
-(521) *AVR:	<dw (ddi)m yn gwybod taw> [?] Llangollen@s:cy&es i ddechrau neu Llangollen@s:cy&es wedyn ar_ôl Wrexham@s:cy&es . 985872_991584
-(521) <dw (ddi)m yn gwybod taw> [?] Llangollen@s:cy&es i ddechrau neu Llangollen@s:cy&es wedyn ar_ôl Wrexham@s:cy&es .
+(590) *AVR:	Robert_Richards@s:cy&es ie . 1131835_1132647(591) Robert Richards, yes.
 
-(522) *CHT:	ia nesa i_lawr . 992037_993801
-(522) ia nesa i_lawr .
+(591) *CHT:	Robert@s:cy&es ni ? 1132777_1133451(592) our Robert?
 
-(523) *AVR:	+< xxx . 992240_993244
-(523) +< xxx .
+(592) *AVR:	ia . 1133468_1133671(593) yes.
 
-(524) *CHT:	syth i_lawr . 993941_994707
-(524) syth i_lawr .
+(593) *CHT:	oh@s:cy&es ! 1134384_1134912(594) *CHT:	oh@s:cy&es na mae Robert@s:cy&es yn llai ie ? 1134918_1136753(595) oh no, Robert is less [old], isn''t he?
 
-(525) *AVR:	a wedyn o(eddw)n i (y)n gweld Liverpool@s:es o bell . 996224_998668
-(525) a wedyn o(eddw)n i (y)n gweld Liverpool@s:es o bell .
+(595) *AVR:	o(eddw)n i ddim yn gwybod bod Robert@s:cy&es a Ioan@s:cy&es wedi bod yna (.) ar_ôl fi . 1136989_1141589(596) I didn''t know that Robert and Ioan had been there after me.
 
-(526) *AVR:	ond fues i ddim yna . 999840_1001483
-(526) ond fues i ddim yna .
+(596) *CHT:	+< ah@s:cy&es . 1140168_1140766(597) *CHT:	o(eddw)n i (ddi)m yn gwybod chwaith . 1142383_1143364(598) I didn''t know either.
 
-(527) *CHT:	mi fues i yn agos iawn i [///] fues i yna . 1001629_1005327
-(527) mi fues i yn agos iawn i [///] fues i yna .
+(598) *CHT:	er@s:cy&es ysgol [/] ysgol mister Charles@s:cy&es oedd honno ie ? 1144087_1147005(599) that was Mr Charles'' school, right?
 
-(528) *CHT:	er@s:cy&es efo Missus@s:cy&es Parry@s:cy&es . 1005607_1008341
-(528) er@s:cy&es efo Missus@s:cy&es Parry@s:cy&es .
+(599) *AVR:	ysgol mister Charles@s:cy&es ie . 1147064_1148056(600) Mr Charles'' school, yes.
 
-(529) *CHT:	ti cofio Missus@s:cy&es Parry@s:cy&es ? 1008386_1009727
-(529) ti cofio Missus@s:cy&es Parry@s:cy&es ?
+(600) *CHT:	ia yn Trelew@s:cy&es . 1148182_1149326(601) yes, in Trelew.
 
-(530) *AVR:	do mi oedd hi yma aml i dro . 1010066_1011726
-(530) do mi oedd hi yma aml i dro .
+(601) *AVR:	ia achos ysgol mister Humphries@s:cy&es a (ei)ch [?] mam (.) a ysgol Henry_Wyn_Lloyd@s:cy&es (.) a dada . 1149467_1157121(602) yes, because [it was] the school of Mr Humphries and your mother, and Henry Wyn lloyd and my father.
 
-(531) *CHT:	oh@s:cy&es . 1011786_1012279
-(531) oh@s:cy&es .
+(602) *CHT:	+< ia . 1153362_1153913(603) yes.
 
-(532) *AVR:	<a mi buodd hi> [//] mi ddoth yn_ôl hyd yn oed ar_ôl colli ei (.) ei portmanteau@s:cy&es ti (y)n cofio . 1012208_1020309
-(532) <a mi buodd hi> [//] mi ddoth yn_ôl hyd yn oed ar_ôl colli ei (.) ei portmanteau@s:cy&es ti (y)n cofio .
+(603) *AVR:	oh@s:cy&es (dy)na fo yr un ysgol . 1159010_1160200(604) oh, there you are, the same school.
 
-(533) *AVR:	ti (y)n cofio ? 1020390_1020971
-(533) ti (y)n cofio ?
+(604) *AVR:	yr ysgol er@s:cy&es yn Gaiman@s:cy&es yr ysgol +//. 1160189_1162592(605) the school in Gaiman, school...
 
-(534) *AVR:	mi gollodd hi ei [/] (.) ei portmanteau@s:cy&es a [/] a dillad i_gyd yn_do ? 1021286_1026545
-(534) mi gollodd hi ei [/] (.) ei portmanteau@s:cy&es a [/] a dillad i_gyd yn_do ?
+(605) *AVR:	be oedd ei enw hi rwan ? 1162618_1163808(606) what was its name now?
 
-(535) *CHT:	oh@s:cy&es do [?] ? 1027267_1027876
-(535) oh@s:cy&es do [?] ?
+(606) *CHT:	y cyn Camwy@s:cy&es ? 1163838_1164982(607) the former Camwy?
 
-(536) *CHT:	dw (ddi)m yn cofio hynny . 1028075_1028818
-(536) dw (ddi)m yn cofio hynny .
+(607) *AVR:	ie ie yr ysgol Camwy@s:cy&es oedd y +/. 1165608_1167668(608) yes, yes, the Camwy school was the...
 
-(537) *AVR:	a mi ddoth hi (y)n_ôl wedyn chwarae teg . 1028420_1030417
-(537) a mi ddoth hi (y)n_ôl wedyn chwarae teg .
+(608) *CHT:	+< <cyn Camwy@s:cy&es> [?] ? 1165892_1166472(609) before Camwy?
 
-(538) *CHT:	+< ia . 1029826_1030075
-(538) +< ia .
+(609) *CHT:	+< ia enw arall neu +... 1167141_1168813(610) yes, another name, or...
 
-(539) *CHT:	<es i &n> [?] aros efo hi . 1030404_1031524
-(539) <es i &n> [?] aros efo hi .
+(610) *AVR:	be oedd hi ysgol xx ? 1169211_1170721(611) what was it, school [..] ?
 
-(540) *CHT:	oedd efo hi gartre bach neis. 1031785_1033463
-(540) oedd efo hi gartre bach neis .
+(611) *CHT:	ganolraddol ? 1171288_1172322(612) intermediate?
 
-(541) *CHT:	a mi aethon ni i [/] i [/] i Lerpwl . 1033593_1035846
-(541) a mi aethon ni i [/] i [/] i Lerpwl .
+(612) *AVR:	ganolraddol (dy)na fo ! 1172345_1173761(613) intermediate, that''s it!
 
-(542) *CHT:	&e . 1036356_1036605
-(542) &e .
+(613) *AVR:	ysgol ganolraddol felly . 1174484_1176011(614) intermediate school then.
 
-(543) *AVR:	ah@s:cy&es oeddech chi (y)n agos . 1036623_1037801
-(543) ah@s:cy&es oeddech chi (y)n agos .
+(614) *AVR:	oedd dada (y)n mynd i ysgol ganolraddol efo Henry_Wyn_Lloyd@s:cy&es (.) a mam yn mynd amser mister Humphries@s:cy&es . 1176377_1183536(615) my father went to intermediate school with Henry Wyn lloyd, and my mother went in the time of Mr Humphries.
 
-(544) *CHT:	dim yn agos iawn . 1038076_1039208
-(544) dim yn agos iawn .
+(615) *CHT:	&hm . 1184788_1185084(616) *AVR:	a mi gaeth Gerald@s:cy&es mynd i (y)r ysgol pan oedd mister Humphries . 1184955_1188883(617) and Gerald was able to go to school while Mr Humphries was [there].
 
-(545) *CHT:	oedd(en) [/] oedden ni (y)n mynd <ar yr um@s:cy&es> [//] ar y ffordd lawr yma ynde . 1039475_1043567
-(545) oedd(en) [/] oedden ni (y)n mynd <ar yr um@s:cy&es> [//] ar y ffordd lawr yma ynde .
+(617) *CHT:	mmhm . 1189257_1189890(618) *AVR:	ac um@s:cy&es (.) wedyn +/. 1190572_1192786(619) and um, then...
 
-(546) *CHT:	ac oedd &e [/] oedd hi ddim yn siwr iawn sut i fynd (.) os mae hi am ffordd acw neu ffordd acw . 1043691_1049577
-(546) ac oedd &e [/] oedd hi ddim yn siwr iawn sut i fynd (.) os mae hi am ffordd acw neu ffordd acw .
+(619) *CHT:	oedd o (y)n dipyn o beth cael mynd i (y)r ysgolion yna . 1192745_1195340(620) it was quite a thing being able to go to those schools.
 
-(547) *CHT:	a sydyn iawn oedd hi (y)n penderfynu troi ar pobl . 1049661_1052036
-(547) a sydyn iawn oedd hi (y)n penderfynu troi ar pobl .
+(620) *CHT:	achos oedden nhw (y)n [///] oedd rhaid talu yn drud amdanyn nhw oedd ? 1195628_1199047(621) because they were.. . you had to pay a lot for them, didn''t you?
 
-(548) *CHT:	oh@s:cy&es oedd hi (y)n beryg.
-(548) oh@s:cy&es oedd hi (y)n beryg .
+(621) *CHT:	oeddech +/. 1199568_1200073(622) you were...
 
-(549) *CHT:	oh@s:cy&es beryg ! 1052904_1053693
-(549) oh@s:cy&es beryg !
+(622) *AVR:	+< na dw i ddim yn meddwl bod nhw (y)n talu yn drud . 1199692_1201828(623) no, I  don''t think they payed a lot.
 
-(550) *AVR:	+< xx . 1053569_1053819
-(550) +< xx .
+(623) *AVR:	oedd o (y)n ysgol da iawn . 1201793_1203285(624) it was a very good school.
 
-(551) *CHT:	o(eddw)n i (y)n diolch [?] bod fi (we)di cyrraedd adre pan cyrraeson ni adre (y)n y nos . 1053608_1057097
-(551) o(eddw)n i (y)n diolch [?] bod fi (we)di cyrraedd adre pan cyrraeson ni adre (y)n y nos .
+(624) *CHT:	ah@s:cy&es . 1203355_1203639(625) *AVR:	dim xxx ti (y)n athro . 1204129_1205383(626) not [...] you were a teacher.
 
-(552) *AVR:	&=laugh . 1056548_1057216
-(552) &=laugh .
+(626) *CHT:	+< oeddech chi (y)n +/. 1204384_1204831(627) were you...
 
-(553) *CHT:	o(edde)n ni (y)n mynd yn nos . 1057066_1058123
-(553) o(edde)n ni (y)n mynd yn nos .
+(627) *CHT:	ia . 1205922_1206329(628) yes.
 
-(554) *CHT:	mynd yn nos i Lerpwl . 1059030_1061044
-(554) mynd yn nos i Lerpwl .
+(628) *AVR:	a wedyn wel peil [?] go dda o +... 1206330_1210492(629) and then, well, a good bunch of...
 
-(555) *CHT:	+, i lle Maggie@s:cy&es . 1061956_1062867
-(555) +, i lle Maggie@s:cy&es .
+(629) *CHT:	++ o blant . 1210579_1211473(630) ...of children.
 
-(556) *AVR:	ah@s:cy&es . 1063259_1063990
-(556) ah@s:cy&es .
+(630) *CHT:	ac oeddech chi (y)n byw yno ? 1211628_1213143(631) and did you live there?
 
-(557) *CHT:	mae Maggie@s:cy&es wedi marw rŵan . 1064112_1065633
-(557) mae Maggie@s:cy&es wedi marw rŵan .
+(631) *AVR:	yn Trelew@s:cy&es ? 1214146_1214953(632) in Trelew?
 
-(558) *AVR:	mmhm@s:cy&es . 1066533_1067282
-(558) mmhm@s:cy&es .
+(632) *AVR:	ie oeddwn i yna pan ges i +//. 1214976_1216886(633) yes, I was there when i got...
 
-(559) *CHT:	Maggie@s:cy&es Melissa@s:cy&es (..) a ballu . 1067387_1070707
-(559) Maggie@s:cy&es Melissa@s:cy&es (..) a ballu .
+(633) *AVR:	ges i yn yrru Trelew@s:cy&es achos bod (y)na boarding@s:en (y)na . 1216927_1219420(634) I got sent to Trelew because there was boarding there.
 
-(560) *AVR:	ie mae ferch arall Carys@s:cy&es no@s:es ? 1070244_1072444
-(560) ie mae ferch arall Carys@s:cy&es no@s:es ?
+(634) *AVR:	achos yn y Gaiman na oedd mam yn aros yn lle Tegwared@s:cy&es Seion@s:cy&es +... 1220870_1224695(635) because in Gaiman, no, my mother stayed at Tegwared Puw''s house.
 
-(561) *CHT:	Carys@s:cy&es er@s:cy&es García@s:cy&es ? 1073084_1074645
-(561) Carys@s:cy&es er@s:cy&es García@s:cy&es ?
+(635) *AVR:	a wedyn aros <yn y &t> [//] efo (y)r teulu oedden nhw . 1225484_1228375(636) and then they''d stay with family.
 
-(562) *CHT:	na ! 1074767_1075359
-(562) na !
+(636) *CHT:	ia ia . 1228386_1229013(637) yes, yes.
 
-(563) *AVR:	Carys@s:cy&es mae (y)n priod efo xxx . 1075953_1078610
-(563) Carys@s:cy&es mae (y)n priod efo xxx .
+(637) *AVR:	a felly dw i (y)n mynd i weld y ffwrn acw i +/. 1230198_1232584(638) and so I''m going to look at the oven there to...
 
-(564) *CHT:	ah@s:cy&es dw i ddim yn gwybod amdani hi . 1078621_1080171
-(564) ah@s:cy&es dw i ddim yn gwybod amdani hi .
+(638) *CHT:	ia rhag ofn <i (y)r> [//] (.) i (ei)ch +... 1232572_1234227(639) yes, in case the.. . your...
 
-(565) *AVR:	a wedyn y bachgen . 1080578_1081977
-(565) a wedyn y bachgen .
+(639) *AVR:	++ i (y)r bwyd (y)na losgi . 1234158_1235429(640) ...the food burns.
 
-(566) *CHT:	ah@s:cy&es . 1082609_1083433
-(566) ah@s:cy&es .
+(640) *AVR:	+< +, bwyd (y)na losgi . 1234779_1235835(641) ...the food burns.
 
-(567) *AVR:	oedd (y)na brawd efo nhw . 1083689_1084966
-(567) oedd (y)na brawd efo nhw .
+(641) *CHT:	bysai hynny (y)n beth difrifol &=laugh ! 1235834_1238486(642) that would be serious!
 
-(568) *CHT:	oh@s:cy&es o(eddw)n i (ddi)m yn gwybod . 1084954_1085848
-(568) oh@s:cy&es o(eddw)n i (ddi)m yn gwybod .
+(642) *CHT:	(ba)sai <raid i Peredur@s:cy&es a fi fynd> [=! laughs] i [/] i gael (.) rywbeth i fwyta allan ! 1238538_1243792(643) Peredur and I would have to go out to get something to eat!
 
-(569) *AVR:	ond Bobby@s:cy&es oedd hwnna . 1086271_1087693
-(569) ond Bobby@s:cy&es oedd hwnna .
+(643) *CHT:	oh@s:cy&es ! 1244675_1245604(644) *RES:	mae (y)n ogleuo neis iawn dydy ? 1245624_1246744(645) it smells very nice doesn''t it?
 
-(570) *CHT:	Bobby@s:cy&es ! 1087722_1089214
-(570) Bobby@s:cy&es !
+(645) *AVR:	(dy)na fo xxx . 1246744_1248131(646) there we are.
 
-(571) *AVR:	achos mi roedden [?] nhw yn yr un ysgol â fi yn Trelew@s:cy&es . 1089084_1091841
-(571) achos mi roedden [?] nhw yn yr un ysgol â fi yn Trelew@s:cy&es .
+(646) *CHT:	oes mae . 1247028_1248137(647) yes, it is.
 
-(572) *CHT:	ia a wedyn oedd hi yn sister@s:en yn yr ysbyty (..) Prydeinig . 1092059_1097198
-(572) ia a wedyn oedd hi yn sister@s:en yn yr ysbyty (..) Prydeinig .
+(647) *AVR:	dan ni jyst â gorffen xx ? 1248381_1250012(648) we''re nearly finished [..] ?
 
-(573) *CHT:	pan [///] oedd hi (y)n sister@s:en pan o(eddw)n i (y)n dysgu yn [/] yn yr ysbyty . 1097830_1101034
-(573) pan [///] oedd hi (y)n sister@s:en pan o(eddw)n i (y)n dysgu yn [/] yn yr ysbyty .
+(648) *RES:	yndach xx ryw pum munud . 1250108_1251536(649) yes, [..] about five minutes.
 
-(574) *AVR:	ah@s:cy&es . 1100745_1101535
-(574) ah@s:cy&es .
+(649) *CHT:	dan ni wedi siarad digon ! 1251502_1252866(650) we''ve talked enough!
 
-(575) *AVR:	oh@s:cy&es pan oeddet ti (y)n +... 1101956_1103216
-(575) oh@s:cy&es pan oeddet ti (y)n +.. .
+(650) *CHT:	&dai wneith Peredur@s:cy&es ddim &s &d &st (.) stydio (y)r holl beth yma dw i (ddi)m yn credu &=laugh ! 1252871_1258926(651) Peredur won''t study this whole thing I don''t think!
 
-(576) *CHT:	&m . 1103315_1103692
-(576) &m .
+(651) *AVR:	wel (dy)na fo felly +... 1260419_1262294(652) well, there we are, so...
 
-(577) *AVR:	oh@s:cy&es paid â deud . 1104242_1105136
-(577) oh@s:cy&es paid â deud .
+(652) *CHT:	ie wel a dyma +//. 1262516_1263845(653) yes, well, and this...
 
-(578) *CHT:	+< ia . 1104439_1104718
-(578) +< ia .
+(653) *CHT:	wyt ti (y)n gwybod bod er@s:cy&es nhw yn [/] um@s:cy&es yn Bangor@s:cy&es (.) lle maen nhw (y)n [/] yn dysgu pethau fel hyn ac yn &dath [//] er@s:cy&es &nd um@s:cy&es (.) yn siarad am y pethau yma ac ati +/? 1263968_1275433(654) do you know that those in Bangor where they teach things like this and talk about these things and such..?
 
-(579) *AVR:	oedd hi (y)n <sister@s:en yna> [?] ? 1105089_1106566
-(579) oedd hi (y)n <sister@s:en yna> [?] ?
+(654) *AVR:	lingüística@s:es . 1275646_1276412(655) linguistics.
 
-(580) *CHT:	oedd hi (y)n sister@s:en oedd oedd . 1105446_1106995
-(580) oedd hi (y)n sister@s:en oedd oedd .
+(655) *CHT:	 er@s:cy&es ia . 1275995_1276819(656) er, yes.
 
-(581) *CHT:	oedd dipyn mwy na fi . 1107410_1108936
-(581) oedd dipyn mwy na fi .
+(656) *CHT:	mae [/] mae [//] maen nhw wneud um@s:cy&es [///] maen nhw (y)n [/] (.) yn stydio pen . 1277279_1281836(657) they''re doing.. . they''re studying the head.
 
-(582) *AVR:	aha@s:cy&es oedd oedd . 1109188_1110593
-(582) aha@s:cy&es oedd oedd .
+(657) *CHT:	mae (y)n dysgu (y)r pen . 1281709_1283491(658) it''s learning about the head.
 
-(583) *CHT:	Bobby@s:cy&es (y)n glamp o hogan fawr a gry ynde ? 1110873_1113648
-(583) Bobby@s:cy&es (y)n glamp o hogan fawr a gry ynde ?
+(658) translation unclear.
 
-(584) *AVR:	ie dw i ddim yn siwr os oedd hi (y)n hynnach na fi dw i ddim yn meddwl . 1113788_1116896
-(584) ie dw i ddim yn siwr os oedd hi (y)n hynnach na fi dw i ddim yn meddwl .
+(658) *CHT:	maen nhw wneud ryw fath o (.) electroencefalograma@s:es neu rywbeth . 1283589_1287449(659) they do some kind of electroencephalography or something.
 
-(585) *CHT:	um@s:cy&es na dw i ddim yn credu na na na na . 1117085_1120666
-(585) um@s:cy&es na dw i ddim yn credu na na na na .
+(659) *CHT:	a maen nhw (y)n gweld bod bobl +//. 1287537_1289806(660) and they see that people...
 
-(586) *AVR:	+< <ychydig bach> [/] ychydig bach yn iengach . 1119269_1121047
-(586) +< <ychydig bach> [/] ychydig bach yn iengach .
+(660) *CHT:	dyna oedd Peredur@s:cy&es yn deud wrtha i . 1291563_1292126(661) that''s what peredur was telling me.
 
-(587) *CHT:	ia tua oed Angela@s:cy&es dw i meddwl . 1121277_1123221
-(587) ia tua oed Angela@s:cy&es dw i meddwl .
+(661) *CHT:	+, yn deud bod bobl sydd yn [/] yn dwyieithog (.) yn [/] er@s:cy&es yn gallu dysgu pethau eraill yn haws . 1292517_1300310(662) ...saying that people who are bilingual are able to learn other things more easily.
 
-(588) *AVR:	ie achos maen nhw (we)di mynd i (y)r ysgol (y)na efo Robert@s:cy&es siwr o fod (.) ar_ôl i fi fod yna . 1123363_1128860
-(588) ie achos maen nhw (we)di mynd i (y)r ysgol (y)na efo Robert@s:cy&es siwr o fod (.) ar_ôl i fi fod yna .
+(662) *AVR:	+< &m . 1296034_1296655(663) *CHT:	meddwl di . 1301756_1302511(664) think.
 
-(589) *CHT:	ah@s:cy&es efo Robert@s:cy&es er@s:cy&es +... 1129664_1131666
-(589) ah@s:cy&es efo Robert@s:cy&es er@s:cy&es +.. .
+(664) *AVR:	yndy ? 1303198_1303981(665) yes?
 
-(590) *AVR:	Robert_Richards@s:cy&es ie . 1131835_1132647
-(590) Robert_Richards@s:cy&es ie .
+(665) *AVR:	wel (dy)na fo . 1304161_1304840(666) well there you are.
 
-(591) *CHT:	Robert@s:cy&es ni ? 1132777_1133451
-(591) Robert@s:cy&es ni ?
+(666) *AVR:	um@s:cy&es +... 1306271_1306980(667) *CHT:	wel mae [/] mae hyn wedi bod yn hawdd iawn i ni (.) dysgu Cymraeg (.) a dysgu Sbaeneg yr un pryd . 1307031_1312692(668) well it''s been very easy for us, learning Welsh and learning Spanish at the same time.
 
-(592) *AVR:	ia . 1133468_1133671
-(592) ia .
+(668) *CHT:	&d ges i ddim un trafferth yn yr ysgol . 1312739_1315554(669) I had no difficulty at all at school.
 
-(593) *CHT:	oh@s:cy&es ! 1134384_1134912
-(593) oh@s:cy&es !
+(669) *AVR:	+< wel +/. 1312872_1313168(670) well...
 
-(594) *CHT:	oh@s:cy&es na mae Robert@s:cy&es yn llai ie ? 1134918_1136753
-(594) oh@s:cy&es na mae Robert@s:cy&es yn llai ie ?
+(670) *CHT:	ddim un (.) ar y dechrau . 1316264_1317710(671) none at all, to start with.
 
-(595) *AVR:	o(eddw)n i ddim yn gwybod bod Robert@s:cy&es a Ioan@s:cy&es wedi bod yna (.) ar_ôl fi . 1136989_1141589
-(595) o(eddw)n i ddim yn gwybod bod Robert@s:cy&es a Ioan@s:cy&es wedi bod yna (.) ar_ôl fi .
+(671) *CHT:	wel o(eddw)n i yn (.) gallu Sbaeneg pan es i (y)r ysgol . 1317885_1321043(672) well I did know Spanish when I went to school.
 
-(596) *CHT:	+< ah@s:cy&es . 1140168_1140766
-(596) +< ah@s:cy&es .
+(672) *AVR:	paid â deud ! 1321136_1321809(673) you don''t say!
 
-(597) *CHT:	o(eddw)n i (ddi)m yn gwybod chwaith . 1142383_1143364
-(597) o(eddw)n i (ddi)m yn gwybod chwaith .
+(673) *CHT:	<oedd y> [/] oedd y plant mwya +/. 1321332_1322842(674) the eldest children...
 
-(598) *CHT:	er@s:cy&es ysgol [/] ysgol mister Charles@s:cy&es oedd honno ie ? 1144087_1147005
-(598) er@s:cy&es ysgol [/] ysgol mister Charles@s:cy&es oedd honno ie ?
+(674) *AVR:	+< efo pwy oeddet ti (y)n xx ? 1321814_1323149(675) who did you [..] with?
 
-(599) *AVR:	ysgol mister Charles@s:cy&es ie . 1147064_1148056
-(599) ysgol mister Charles@s:cy&es ie .
+(675) *CHT:	wel efo (y)r er@s:cy&es plant er@s:cy&es &k cymdogion . 1323339_1326055(676) well, with the children.. . the neighbours.
 
-(600) *CHT:	ia yn Trelew@s:cy&es . 1148182_1149326
-(600) ia yn Trelew@s:cy&es .
+(676) *AVR:	ah@s:cy&es ! 1326566_1327054(677) *CHT:	Chrysann@s:cy&es a Sol@s:cy&es . 1326963_1328316(678) Chrysann ans Sol.
 
-(601) *AVR:	ia achos ysgol mister Humphries@s:cy&es a (ei)ch [?] mam (.) a ysgol Henry_Wyn_Lloyd@s:cy&es (.) a dada . 1149467_1157121
-(601) ia achos ysgol mister Humphries@s:cy&es a (ei)ch [?] mam (.) a ysgol Henry_Wyn_Lloyd@s:cy&es (.) a dada .
+(678) *AVR:	ah@s:cy&es na o(eddw)n i ddim yn gwybod xxx +/. 1328665_1330668(679) ah, no, I didn''t know [...] ...
 
-(602) *CHT:	+< ia . 1153362_1153913
-(602) +< ia .
+(679) *CHT:	a Alita@s:cy&es hogan um@s:cy&es &em &e [/] hogan +//. 1329941_1334387(680) and Alita, daughter of...
 
-(603) *AVR:	oh@s:cy&es (dy)na fo yr un ysgol . 1159010_1160200
-(603) oh@s:cy&es (dy)na fo yr un ysgol .
+(680) *AVR:	um@s:cy&es . 1334597_1335009(681) *CHT:	be (y)dy enw fo ? 1334922_1335863(682) what''s his name?
 
-(604) *AVR:	yr ysgol er@s:cy&es yn Gaiman@s:cy&es yr ysgol +//. 1160189_1162592
-(604) yr ysgol er@s:cy&es yn Gaiman@s:cy&es yr ysgol +// .
+(682) *AVR:	+< Linda@s:cy&es ? 1335387_1335961(683) *CHT:	na . 1336051_1336498(684) no.
 
-(605) *AVR:	be oedd ei enw hi rwan ? 1162618_1163808
-(605) be oedd ei enw hi rwan ?
+(684) *AVR:	Amora@s:cy&es . 1336585_1337177(685) *CHT:	Mora@s:cy&es . 1337242_1337631(686) *CHT:	ie . 1338447_1338802(687) yes.
 
-(606) *CHT:	y cyn Camwy@s:cy&es ? 1163838_1164982
-(606) y cyn Camwy@s:cy&es ?
+(687) *CHT:	wedyn oeddwn i &s yn dysgu &k Sbaeneg yn naturiol iawn . 1338824_1342806(688) so I learned Spanish very naturally.
 
-(607) *AVR:	ie ie yr ysgol Camwy@s:cy&es oedd y +/. 1165608_1167668
-(607) ie ie yr ysgol Camwy@s:cy&es oedd y +/ .
+(688) *CHT:	a oedd y plant mwya wedi dysgu hefyd . 1343352_1345477(689) and the older children had also learned.
 
-(608) *CHT:	+< <cyn Camwy@s:cy&es> [?] ? 1165892_1166472
-(608) +< <cyn Camwy@s:cy&es> [?] ?
+(689) *CHT:	a wedyn oedd o (di)m_byd i fi . 1345898_1347576(690) and so it was nothing to me.
 
-(609) *CHT:	+< ia enw arall neu +... 1167141_1168813
-(609) +< ia enw arall neu +.. .
+(690) *CHT:	ond (.) mi oedd Leri@s:cy&es (y)n gallu &s Cymraeg [//] er@s:cy&es Sbaeneg hefyd . 1347734_1352372(691) but Leri knew Welsh.. . Spanish too.
 
-(610) *AVR:	be oedd hi ysgol xx ? 1169211_1170721
-(610) be oedd hi ysgol xx ?
+(691) *CHT:	a dw i (y)n siwr efallai bod Angela@s:cy&es a [?] Nia@s:cy&es ddim yn gallu . 1352664_1356293(692) and I''m sure that perhaps Angela and Nia could not.
 
-(611) *CHT:	ganolraddol ? 1171288_1172322
-(611) ganolraddol ?
+(692) *CHT:	a oedd (y)na rhai yn deud wel bod y (.) plant yn cael sbort am eu pennau nhw achos bod nhw ddim +/. 1356520_1360851(693) and there were some who said, well, that the children were made fun of because they didn''t...
 
-(612) *AVR:	ganolraddol (dy)na fo ! 1172345_1173761
-(612) ganolraddol (dy)na fo !
+(693) *AVR:	ie roedden nhw siei . 1360887_1362013(694) yes, they were shy.
 
-(613) *AVR:	ysgol ganolraddol felly . 1174484_1176011
-(613) ysgol ganolraddol felly .
+(694) *CHT:	ie ond +... 1361992_1363217(695) yes, but...
 
-(614) *AVR:	oedd dada (y)n mynd i ysgol ganolraddol efo Henry_Wyn_Lloyd@s:cy&es (.) a mam yn mynd amser mister Humphries@s:cy&es . 1176377_1183536
-(614) oedd dada (y)n mynd i ysgol ganolraddol efo Henry_Wyn_Lloyd@s:cy&es (.) a mam yn mynd amser mister Humphries@s:cy&es .
+(695) *CHT:	na . 1363415_1364256(696) no.
 
-(615) *CHT:	&hm . 1184788_1185084
-(615) &hm .
+(696) *AVR:	wel ti na achos bod ti wedi dysgu Sbaeneg . 1365002_1367422(697) well, you, no, because you''d learnt Spanish.
 
-(616) *AVR:	a mi gaeth Gerald@s:cy&es mynd i (y)r ysgol pan oedd mister Humphries . 1184955_1188883
-(616) a mi gaeth Gerald@s:cy&es mynd i (y)r ysgol pan oedd mister Humphries .
+(697) *CHT:	+< na . 1366029_1366413(698) no.
 
-(617) *CHT:	mmhm . 1189257_1189890
-(617) mmhm .
+(698) *CHT:	ie . 1367074_1367336(699) yes.
 
-(618) *AVR:	ac um@s:cy&es (.) wedyn +/. 1190572_1192786
-(618) ac um@s:cy&es (.) wedyn +/ .
+(699) *AVR:	ond o(eddw)n i yn y xx (y)na . 1367386_1369336(700) but I was in that [...].
 
-(619) *CHT:	oedd o (y)n dipyn o beth cael mynd i (y)r ysgolion yna . 1192745_1195340
-(619) oedd o (y)n dipyn o beth cael mynd i (y)r ysgolion yna .
+(700) *CHT:	oeddet ti ? 1369342_1370091(701) were you?
 
-(620) *CHT:	achos oedden nhw (y)n [///] oedd rhaid talu yn drud amdanyn nhw oedd ? 1195628_1199047
-(620) achos oedden nhw (y)n [///] oedd rhaid talu yn drud amdanyn nhw oedd ?
+(701) *CHT:	gest ti helynt ? 1370277_1371118(702) did you have trouble?
 
-(621) *CHT:	oeddech +/. 1199568_1200073
-(621) oeddech +/ .
+(702) *AVR:	+< oh@s:cy&es o(eddw)n i (y)n meddwl y diwrnod cynta xx +/. 1370479_1373161(703) oh, I thought on the first day [...]...
 
-(622) *AVR:	+< na dw i ddim yn meddwl bod nhw (y)n talu yn drud . 1199692_1201828
-(622) +< na dw i ddim yn meddwl bod nhw (y)n talu yn drud .
+(703) *CHT:	++ dim isio fynd ragor ? 1373150_1373992(704) ...that you didn''t want to go any more?
 
-(623) *AVR:	oedd o (y)n ysgol da iawn . 1201793_1203285
-(623) oedd o (y)n ysgol da iawn .
+(704) *AVR:	+, xx bod yn diwedd y ddydd . 1373947_1375682(705) ...for it to be the end of the day.
 
-(624) *CHT:	ah@s:cy&es . 1203355_1203639
-(624) ah@s:cy&es .
+(705) *CHT:	yn Esquel@s:cy&es ? 1376368_1377245(706) in Esquel?
 
-(625) *AVR:	dim xxx ti (y)n athro . 1204129_1205383
-(625) dim xxx ti (y)n athro .
+(706) *AVR:	yn Esquel@s:cy&es . 1377310_1377978(707) in Esquel.
 
-(626) *CHT:	+< oeddech chi (y)n +/. 1204384_1204831
-(626) +< oeddech chi (y)n +/ .
+(707) *AVR:	y copybook@s:en [?] (.) bach coch dw i (y)n cofio (y)n iawn . 1377896_1381319(708) I remember the little red copybook well.
 
-(627) *CHT:	ia . 1205922_1206329
-(627) ia .
+(708) *CHT:	+< ie ie . 1378565_1379059(709) yes, yes.
 
-(628) *AVR:	a wedyn wel peil [?] go dda o +... 1206330_1210492
-(628) a wedyn wel peil [?] go dda o +.. .
+(709) *AVR:	a wedyn mynd (.) heibio Angharad@s:cy&es wrth bod hi fynd i (y)r ysgol a fi (y)n fynd (.) dipyn cyn hynny . 1382242_1388711(710) and going past Angharad, since she went to school, and I went a bit before that.
 
-(629) *CHT:	++ o blant . 1210579_1211473
-(629) ++ o blant .
+(710) *CHT:	+< ers cynt ia . 1387900_1389113(711) since before, yes.
 
-(630) *CHT:	ac oeddech chi (y)n byw yno ? 1211628_1213143
-(630) ac oeddech chi (y)n byw yno ?
+(711) *AVR:	a wir i ti oedd Angharad@s:cy&es wedi mynd . 1389564_1391474(712) and, I''m telling you, Angharad had gone.
 
-(631) *AVR:	yn Trelew@s:cy&es ? 1214146_1214953
-(631) yn Trelew@s:cy&es ?
+(712) *AVR:	wir i ti oedd rhaid i ni fynd ymlaen ein hunain Arwyn@s:cy&es a fi . 1392150_1395174(713) I''m telling you we had to carry on ouselves, Arwyn and me.
 
-(632) *AVR:	ie oeddwn i yna pan ges i +//. 1214976_1216886
-(632) ie oeddwn i yna pan ges i +// .
+(713) *CHT:	oh@s:cy&es . 1395274_1395692(714) *AVR:	a dw i ddim yn si(wr) [/] siwr os oedd o wedi bod yn yr ysgol neu beidio . 1395652_1399685(715) and I''m not sure whether he''d been at school or not.
 
-(633) *AVR:	ges i yn yrru Trelew@s:cy&es achos bod (y)na boarding@s:en (y)na . 1216927_1219420
-(633) ges i yn yrru Trelew@s:cy&es achos bod (y)na boarding@s:en (y)na .
+(715) *CHT:	wel Gruffudd@s:cy&es llai na ti ie ? 1399748_1401571(716) well, Gruffudd''s younger than you, right?
 
-(634) *AVR:	achos yn y Gaiman na oedd mam yn aros yn lle Tegwared@s:cy&es Seion@s:cy&es +... 1220870_1224695
-(634) achos yn y Gaiman na oedd mam yn aros yn lle Tegwared@s:cy&es Seion@s:cy&es +.. .
+(716) *AVR:	mwy . 1401573_1402217(717) older.
 
-(635) *AVR:	a wedyn aros <yn y &t> [//] efo (y)r teulu oedden nhw . 1225484_1228375
-(635) a wedyn aros <yn y &t> [//] efo (y)r teulu oedden nhw .
+(717) *CHT:	oh@s:cy&es ! 1402271_1402834(718) *AVR:	ond beth bynnag i ti oedden ni (y)n cyrraedd yr ysgol . 1403145_1405206(719) but anyway, I''m telling you, we used to arrive at the school.
 
-(636) *CHT:	ia ia . 1228386_1229013
-(636) ia ia .
+(719) *AVR:	oedd y bechgyn mynd &m [/] mynd yr ochr yna merched ochr yma . 1405195_1408351(720) the boys would go that side and the girls this side.
 
-(637) *AVR:	a felly dw i (y)n mynd i weld y ffwrn acw i +/. 1230198_1232584
-(637) a felly dw i (y)n mynd i weld y ffwrn acw i +/ .
+(720) *AVR:	oedd diwedd y byd i fi ynde . 1408386_1410379(721) it was the end of the world to me.
 
-(638) *CHT:	ia rhag ofn <i (y)r> [//] (.) i (ei)ch +... 1232572_1234227
-(638) ia rhag ofn <i (y)r> [//] (.) i (ei)ch +.. .
+(721) *CHT:	xx . 1409911_1411046(722) *AVR:	diwedd y byd a [/] a wedyn +... 1411379_1413675(723) the end of the world, and then...
 
-(639) *AVR:	++ i (y)r bwyd (y)na losgi . 1234158_1235429
-(639) ++ i (y)r bwyd (y)na losgi .
+(723) *AVR:	dw i (ddi)m yn cofio . 1415041_1415668(724) I don''t remember.
 
-(640) *AVR:	+< +, bwyd (y)na losgi . 1234779_1235835
-(640) +< +, bwyd (y)na losgi .
+(724) *AVR:	ond dw i (y)n cofio <&m yn> [?] iawn &ko yn cyrraedd yr ysgol (y)ma . 1415668_1418611(725) but I remember well arriving at this school.
 
-(641) *CHT:	bysai hynny (y)n beth difrifol &=laugh ! 1235834_1238486
-(641) bysai hynny (y)n beth difrifol &=laugh !
+(725) *CHT:	+< bueno@s:es . 1416443_1416750(726) good.
 
-(642) *CHT:	(ba)sai <raid i Peredur@s:cy&es a fi fynd> [=! laughs] i [/] i gael (.) rywbeth i fwyta allan ! 1238538_1243792
-(642) (ba)sai <raid i Peredur@s:cy&es a fi fynd> [=! laughs] i [/] i gael (.) rywbeth i fwyta allan !
+(726) *AVR:	o(eddw)n i gymaint ofn . 1418594_1419698(727) I was so afraid.
 
-(643) *CHT:	oh@s:cy&es ! 1244675_1245604
-(643) oh@s:cy&es !
+(727) *AVR:	ofn be dw i ddim yn gwybod . 1419698_1421410(728) afraid of what, I don''t know.
 
-(644) *RES:	mae (y)n ogleuo neis iawn dydy ? 1245624_1246744
-(644) mae (y)n ogleuo neis iawn dydy ?
+(728) *CHT:	wel na oedd o rywbeth wel +... 1421500_1423288(729) well no, it was something, well...
 
-(645) *AVR:	(dy)na fo xxx . 1246744_1248131
-(645) (dy)na fo xxx .
+(729) *AVR:	o(eddw)n i mor siei yn dod xx [//] dod o (y)r paith ti (y)n gweld . 1423565_1426276(730) I was so shy, coming from the meadows you see.
 
-(646) *CHT:	oes mae . 1247028_1248137
-(646) oes mae .
+(730) *CHT:	+< ia . 1424883_1425202(731) yes.
 
-(647) *AVR:	dan ni jyst â gorffen xx ? 1248381_1250012
-(647) dan ni jyst â gorffen xx ?
+(731) *CHT:	ia ia . 1426596_1427164(732) yes, yes.
 
-(648) *RES:	yndach xx ryw pum munud . 1250108_1251536
-(648) yndach xx ryw pum munud .
+(732) *CHT:	a oedd &be [///] o(eddw)n i (y)n ddeuddeg oed yn mynd i orffen yr ysgol yn Trevelin@s:cy&es achos bod dim (.) [/] dim um@s:cy&es +//. 1427720_1434556(733) I was twelve and was going to finish school at Trevelin because there was no...
 
-(649) *CHT:	dan ni wedi siarad digon ! 1251502_1252866
-(649) dan ni wedi siarad digon !
+(733) *CHT:	oedd hi (y)n bosib gorffen yna . 1435187_1436551(734) it was possible to finish there.
 
-(650) *CHT:	&dai wneith Peredur@s:cy&es ddim &s &d &st (.) stydio (y)r holl beth yma dw i (ddi)m yn credu &=laugh ! 1252871_1258926
-(650) &dai wneith Peredur@s:cy&es ddim &s &d &st (.) stydio (y)r holl beth yma dw i (ddi)m yn credu &=laugh !
+(734) *AVR:	ia . 1436338_1436698(735) yes.
 
-(651) *AVR:	wel (dy)na fo felly +... 1260419_1262294
-(651) wel (dy)na fo felly +.. .
+(735) *AVR:	yn yr ysgolion xx +/. 1436892_1437710(736) in the schools...
 
-(652) *CHT:	ie wel a dyma +//. 1262516_1263845
-(652) ie wel a dyma +// .
+(736) *CHT:	yn yr ysgol bach y ffarm . 1437164_1438569(737) in the little farm school.
 
-(653) *CHT:	wyt ti (y)n gwybod bod er@s:cy&es nhw yn [/] um@s:cy&es yn Bangor@s:cy&es (.) lle maen nhw (y)n [/] yn dysgu pethau fel hyn ac yn &dath [//] er@s:cy&es &nd um@s:cy&es (.) yn siarad am y pethau yma ac ati +/? 1263968_1275433
-(653) wyt ti (y)n gwybod bod er@s:cy&es nhw yn [/] um@s:cy&es yn Bangor@s:cy&es (.) lle maen nhw (y)n [/] yn dysgu pethau fel hyn ac yn &dath [//] er@s:cy&es &nd um@s:cy&es (.) yn siarad am y pethau yma ac ati +/?
+(737) *CHT:	yli <o(eddw)n i (y)n> [/] o(eddw)n i (y)n crio bob bore . 1438897_1441144(738) you know, I used to cry every morning.
 
-(654) *AVR:	lingüística@s:es . 1275646_1276412
-(654) lingüística@s:es .
+(738) *CHT:	bob bore pan o(eddw)n i (y)n roid <yr er@s:cy&es> [/] yr er@s:cy&es fflag i_fyny (.) o(eddw)n i (y)n crio achos <rhaid i ni ganu awr orau> [?] . 1441441_1446892(739) every morning when I put up the flag I used to cry because we had to sing at the best hour [?].
 
-(655) *CHT:	 er@s:cy&es ia . 1275995_1276819
-(655) er@s:cy&es ia .
+(739) *CHT:	ac er@s:cy&es o(eddw)n i (y)n cael ryw hiraeth difrifol ac o(eddw)n i (y)n crio . 1447440_1450586(740) and I used to have severe homesickness and I used to cry.
 
-(656) *CHT:	mae [/] mae [//] maen nhw wneud um@s:cy&es [///] maen nhw (y)n [/] (.) yn stydio pen . 1277279_1281836
-(656) mae [/] mae [//] maen nhw wneud um@s:cy&es [///] maen nhw (y)n [/] (.) yn stydio pen .
+(740) *CHT:	bob dydd . 1451084_1451763(741) every day.
 
-(657) *CHT:	mae (y)n dysgu (y)r pen . 1281709_1283491
-(657) mae (y)n dysgu (y)r pen .
+(741) *AVR:	yn yr ysgol ? 1451346_1452100(742) at school?
 
-(658) *CHT:	maen nhw wneud ryw fath o (.) electroencefalograma@s:es neu rywbeth . 1283589_1287449
-(658) maen nhw wneud ryw fath o (.) electroencefalograma@s:es neu rywbeth .
+(742) *CHT:	ar y dechrau beth bynnag . 1452077_1453389(743) to start with anyway.
 
-(659) *CHT:	a maen nhw (y)n gweld bod bobl +//. 1287537_1289806
-(659) a maen nhw (y)n gweld bod bobl +// .
+(743) *AVR:	a sut [/] xx sut oeddet ti (y)n mynd ? 1453460_1455117(744) and how did you used to go?
 
-(660) *CHT:	dyna oedd Peredur@s:cy&es yn deud wrtha i . 1291563_1292126
-(660) dyna oedd Peredur@s:cy&es yn deud wrtha i .
+(744) *AVR:	ar gefn ceffyl ? 1455140_1455988(745) on horseback?
 
-(661) *CHT:	+, yn deud bod bobl sydd yn [/] yn dwyieithog (.) yn [/] er@s:cy&es yn gallu dysgu pethau eraill yn haws . 1292517_1300310
-(661) +, yn deud bod bobl sydd yn [/] yn dwyieithog (.) yn [/] er@s:cy&es yn gallu dysgu pethau eraill yn haws .
+(745) *CHT:	na o(eddw)n i (y)n aros efo modryb Elsa@s:cy&es . 1455962_1458209(746) no, I stayed with Auntie Elsa.
 
-(662) *AVR:	+< &m . 1296034_1296655
-(662) +< &m .
+(746) *AVR:	ah@s:cy&es oedd modryb Elsa@s:cy&es yn Trevelin@s:cy&es adeg hynny ? 1458447_1461111(747) ah, Auntie Elsa was in Trevelin back then?
 
-(663) *CHT:	meddwl di . 1301756_1302511
-(663) meddwl di .
+(747) *CHT:	oedd er@s:cy&es Jim@s:cy&es wedi priodi . 1460847_1462682(748) Jim was married.
 
-(664) *AVR:	yndy ? 1303198_1303981
-(664) yndy ?
+(748) *CHT:	a oedden +/. 1463359_1464666(749) and they...
 
-(665) *AVR:	wel (dy)na fo . 1304161_1304840
-(665) wel (dy)na fo .
+(749) *AVR:	+< ah@s:cy&es modryb Elsa_Evans@s:cy&es ! 1463946_1465165(750) ah, Auntie Elsa Evans!
 
-(666) *AVR:	um@s:cy&es +... 1306271_1306980
-(666) um@s:cy&es +.. .
+(750) *CHT:	modryb Elsa_Evans@s:cy&es . 1465319_1466289(751) Auntie Elsa Evans.
 
-(667) *CHT:	wel mae [/] mae hyn wedi bod yn hawdd iawn i ni (.) dysgu Cymraeg (.) a dysgu Sbaeneg yr un pryd . 1307031_1312692
-(667) wel mae [/] mae hyn wedi bod yn hawdd iawn i ni (.) dysgu Cymraeg (.) a dysgu Sbaeneg yr un pryd .
+(751) *AVR:	ac oedd hi (y)n byw yn Trevelin@s:cy&es ? 1466712_1468003(752) and she lived in Trevelin?
 
-(668) *CHT:	&d ges i ddim un trafferth yn yr ysgol . 1312739_1315554
-(668) &d ges i ddim un trafferth yn yr ysgol .
+(752) *CHT:	ia mi [/] mi aeth hi i Trevelin@s:cy&es i fyw achos bod er@s:cy&es Jim@s:cy&es a (y)r teulu yna ynde erbyn hyn . 1468106_1472640(753) yes, she went to Trevelin to live because Jim and the family were there by then.
 
-(669) *AVR:	+< wel +/. 1312872_1313168
-(669) +< wel +/ .
+(753) *AVR:	ie . 1473117_1473616(754) yes.
 
-(670) *CHT:	ddim un (.) ar y dechrau . 1316264_1317710
-(670) ddim un (.) ar y dechrau .
+(754) *CHT:	a wedyn er@s:cy&es <mi oedd> [//] mi wnaeth hi er@s:cy&es um@s:cy&es gynnig i mam a dada os o(edde)n nhw (y)n dewis er@s:cy&es anfon fi i (y)r ysgol i orffen . 1473604_1482212(755) and then she offered my mother and father whether they chose to send me to school to finish off.
 
-(671) *CHT:	wel o(eddw)n i yn (.) gallu Sbaeneg pan es i (y)r ysgol . 1317885_1321043
-(671) wel o(eddw)n i yn (.) gallu Sbaeneg pan es i (y)r ysgol .
+(755) *AVR:	+< a fo ar y ffarm . 1474566_1475506(756) and him on the farm.
 
-(672) *AVR:	paid â deud ! 1321136_1321809
-(672) paid â deud !
+(756) *AVR:	<am da de> [?] ! 1482449_1483268(757) good, isn''t it!
 
-(673) *CHT:	<oedd y> [/] oedd y plant mwya +/. 1321332_1322842
-(673) <oedd y> [/] oedd y plant mwya +/ .
+(757) *CHT:	a mi ges i fynd ie . 1482677_1484193(758) and I got to go, yes.
 
-(674) *AVR:	+< efo pwy oeddet ti (y)n xx ? 1321814_1323149
-(674) +< efo pwy oeddet ti (y)n xx ?
+(758) *CHT:	a o(eddw)n i meddwl y byd o modryb Elsa@s:cy&es . 1484539_1486379(759) and I thought the world of Auntie Elsa.
 
-(675) *CHT:	wel efo (y)r er@s:cy&es plant er@s:cy&es &k cymdogion . 1323339_1326055
-(675) wel efo (y)r er@s:cy&es plant er@s:cy&es &k cymdogion .
+(759) *CHT:	ond o(eddw)n i â hiraeth difrifol . 1486559_1488504(760) but I had severe homesickness.
 
-(676) *AVR:	ah@s:cy&es ! 1326566_1327054
-(676) ah@s:cy&es !
+(760) *AVR:	meddylia di o(eddw)n i nabod dy modryb Elsa@s:cy&es ar y ffarm . 1489773_1492670(761) just think, I knew your Auntie Elsa on the farm.
 
-(677) *CHT:	Chrysann@s:cy&es a Sol@s:cy&es . 1326963_1328316
-(677) Chrysann@s:cy&es a Sol@s:cy&es .
+(761) *CHT:	hmm@s:cy&es . 1493421_1493932(762) *CHT:	na fuodd hi (y)n byw (.) tu_ôl i lle modryb Rhian@s:cy&es . 1494122_1496880(763) no, she lived behind Auntie Rhian''s place.
 
-(678) *AVR:	ah@s:cy&es na o(eddw)n i ddim yn gwybod xxx +/. 1328665_1330668
-(678) ah@s:cy&es na o(eddw)n i ddim yn gwybod xxx +/ .
+(763) *AVR:	oh@s:cy&es . 1497426_1497763(764) *CHT:	modryb Rhian@s:cy&es fan (y)na (.) a modryb Elsa yr ochr yma (.) a Quinto@s:cy&es . 1497763_1501989(765) Auntie Rhian there, and Auntie Elsa on this side, and Quinto.
 
-(679) *CHT:	a Alita@s:cy&es hogan um@s:cy&es &em &e [/] hogan +//. 1329941_1334387
-(679) a Alita@s:cy&es hogan um@s:cy&es &em &e [/] hogan +// .
+(765) *CHT:	ti cofio Quinto@s:cy&es fan (y)na yn y gornel stôr [?] ? 1502035_1504531(766) do you remember Quinto there in the store in the corner?
 
-(680) *AVR:	um@s:cy&es . 1334597_1335009
-(680) um@s:cy&es .
+(766) *AVR:	na dw i ddim yn cofio amdano fo . 1504868_1506384(767) no, I don''t remember him.
 
-(681) *CHT:	be (y)dy enw fo ? 1334922_1335863
-(681) be (y)dy enw fo ?
+(767) *AVR:	ond <o(eddw)n [/] o(eddw)n i ddim> [//] wnes i ddim nabod xxx Trevelin@s:cy&es . 1506236_1509609(768) but I didn''t know [...] Trevelin.
 
-(682) *AVR:	+< Linda@s:cy&es ? 1335387_1335961
-(682) +< Linda@s:cy&es ?
+(768) *CHT:	+< lle mae (.) ysgol (.) Rosamaria@s:cy&es wan . 1508452_1511935(769) where Rosamaria''s school is now.
 
-(683) *CHT:	na . 1336051_1336498
-(683) na .
+(769) *AVR:	ah@s:cy&es ! 1512115_1513303(770) *AVR:	sut hwyl mae hi (y)n gael ? 1513339_1514657(771) how is she getting on?
 
-(684) *AVR:	Amora@s:cy&es . 1336585_1337177
-(684) Amora@s:cy&es .
+(771) *CHT:	siwr bod hi (y)n iawn . 1514897_1516110(772) I''m sure she''s fine.
 
-(685) *CHT:	Mora@s:cy&es . 1337242_1337631
-(685) Mora@s:cy&es .
+(772) *AVR:	ond mi fuodd hi yn [/] yn delicet efo ei (.) iechyd yn_do ? 1516993_1521179(773) but she was delicate with her health, wasn''t she?
 
-(686) *CHT:	ie . 1338447_1338802
-(686) ie .
+(773) *AVR:	oedd ddim yn +/. 1521159_1521629(774) she wasn''t...
 
-(687) *CHT:	wedyn oeddwn i &s yn dysgu &k Sbaeneg yn naturiol iawn . 1338824_1342806
-(687) wedyn oeddwn i &s yn dysgu &k Sbaeneg yn naturiol iawn .
+(774) *CHT:	do ddoth hi yma . 1521565_1523096(775) yes, she came here.
 
-(688) *CHT:	a oedd y plant mwya wedi dysgu hefyd . 1343352_1345477
-(688) a oedd y plant mwya wedi dysgu hefyd .
+(775) *CHT:	ond er@s:cy&es dw i ddim yn gwybod . 1523425_1525178(776) but, er, i don''t know.
 
-(689) *CHT:	a wedyn oedd o (di)m_byd i fi . 1345898_1347576
-(689) a wedyn oedd o (di)m_byd i fi .
+(776) *CHT:	dw i (y)n credu bod hi (y)n iawn rwan . 1525184_1526537(777) I think she''s alright now.
 
-(690) *CHT:	ond (.) mi oedd Leri@s:cy&es (y)n gallu &s Cymraeg [//] er@s:cy&es Sbaeneg hefyd . 1347734_1352372
-(690) ond (.) mi oedd Leri@s:cy&es (y)n gallu &s Cymraeg [//] er@s:cy&es Sbaeneg hefyd .
+(777) *CHT:	mae &ba um@s:cy&es +//. 1526524_1528231(778) *CHT:	be (y)dy enw fo ? 1528411_1529050(779) what''s his name?
 
-(691) *CHT:	a dw i (y)n siwr efallai bod Angela@s:cy&es a [?] Nia@s:cy&es ddim yn gallu . 1352664_1356293
-(691) a dw i (y)n siwr efallai bod Angela@s:cy&es a [?] Nia@s:cy&es ddim yn gallu .
+(779) *CHT:	+, Raimundo@s:cy&es wedi priodi ers (.) pythefnos yndy ? 1529067_1531720(780) Raimundo has been married for two weeks, hasn''t he?
 
-(692) *CHT:	a oedd (y)na rhai yn deud wel bod y (.) plant yn cael sbort am eu pennau nhw achos bod nhw ddim +/. 1356520_1360851
-(692) a oedd (y)na rhai yn deud wel bod y (.) plant yn cael sbort am eu pennau nhw achos bod nhw ddim +/ .
+(780) *CHT:	y ddau wedi priodi rwan y dau fachgen . 1532529_1534747(781) they''ve both married now, the two boys.
 
-(693) *AVR:	ie roedden nhw siei . 1360887_1362013
-(693) ie roedden nhw siei .
+(781) *AVR:	wel (dy)na fo . 1535279_1536069(782) well, there you are.
 
-(694) *CHT:	ie ond +... 1361992_1363217
-(694) ie ond +.. .
+(782) *CHT:	ie . 1536231_1536522(783) yes.
 
-(695) *CHT:	na . 1363415_1364256
-(695) na .
+(783) *AVR:	xxx wedi gadael y nyth . 1536870_1538466(784) [...] left the nest.
 
-(696) *AVR:	wel ti na achos bod ti wedi dysgu Sbaeneg . 1365002_1367422
-(696) wel ti na achos bod ti wedi dysgu Sbaeneg .
+(784) *CHT:	ydyn . 1538813_1539440(785) they have.
 
-(697) *CHT:	+< na . 1366029_1366413
-(697) +< na .
+(785) *AVR:	a (y)r ferch sut mae hi ? 1539578_1541151(786) and the daughter, how''s she?
 
-(698) *CHT:	ie . 1367074_1367336
-(698) ie .
+(786) *CHT:	yn Bahia_Blanca@s:cy&es oedd hi . 1541733_1543689(787) she was in Bahia Blanca.
 
-(699) *AVR:	ond o(eddw)n i yn y xx (y)na . 1367386_1369336
-(699) ond o(eddw)n i yn y xx (y)na .
+(787) *CHT:	dw i ddim yn gwybod . 1543679_1544341(788) I don''t know.
 
-(700) *CHT:	oeddet ti ? 1369342_1370091
-(700) oeddet ti ?
+(788) *AVR:	+< be mae hi wedi stydio ? 1543942_1545312(789) what did she study?
 
-(701) *CHT:	gest ti helynt ? 1370277_1371118
-(701) gest ti helynt ?
+(789) *CHT:	oh@s:cy&es dw i ddim yn siwr iawn os mae rywbeth efo &m +... 1546144_1550196(790) oh, I''m not quite sure whether it''s something to do with...
 
-(702) *AVR:	+< oh@s:cy&es o(eddw)n i (y)n meddwl y diwrnod cynta xx +/. 1370479_1373161
-(702) +< oh@s:cy&es o(eddw)n i (y)n meddwl y diwrnod cynta xx +/ .
+(790) *CHT:	&m dw i (ddi)m yn gwybod . 1551742_1553181(791) mm, I don''t know.
 
-(703) *CHT:	++ dim isio fynd ragor ? 1373150_1373992
-(703) ++ dim isio fynd ragor ?
+(791) *CHT:	dw i (ddi)m yn cofio . 1553181_1553913(792) I don''t remember.
 
-(704) *AVR:	+, xx bod yn diwedd y ddydd . 1373947_1375682
-(704) +, xx bod yn diwedd y ddydd .
+(792) *CHT:	dim cofio be . 1553979_1554861(793) don''t remember what.
 
-(705) *CHT:	yn Esquel@s:cy&es ? 1376368_1377245
-(705) yn Esquel@s:cy&es ?
+(793) *AVR:	mmhm . 1554966_1555947(794) *AVR:	oh@s:cy&es (.) achos er@s:cy&es <mae hi> [//] hi (y)dy (y)r ienga ie ? 1556857_1559603(795) oh, because she''s the youngest, right?
 
-(706) *AVR:	yn Esquel@s:cy&es . 1377310_1377978
-(706) yn Esquel@s:cy&es .
+(795) *CHT:	ia . 1559607_1559920(796) yes.
 
-(707) *AVR:	y copybook@s:en [?] (.) bach coch dw i (y)n cofio (y)n iawn . 1377896_1381319
-(707) y copybook@s:en [?] (.) bach coch dw i (y)n cofio (y)n iawn .
+(796) *AVR:	a mae hi wedi teithio yn_do [?] ? 1560129_1561482(797) and she has travelled, hasn''t she?
 
-(708) *CHT:	+< ie ie . 1378565_1379059
-(708) +< ie ie .
+(797) *CHT:	+< Zanetta@s:cy&es . 1560768_1561511(798) *AVR:	mae hi wedi teithio llawer yn_do [?] ? 1562365_1563897(799) she''s travelled a lot hasn''t she?
 
-(709) *AVR:	a wedyn mynd (.) heibio Angharad@s:cy&es wrth bod hi fynd i (y)r ysgol a fi (y)n fynd (.) dipyn cyn hynny . 1382242_1388711
-(709) a wedyn mynd (.) heibio Angharad@s:cy&es wrth bod hi fynd i (y)r ysgol a fi (y)n fynd (.) dipyn cyn hynny .
+(799) *CHT:	fuodd hi yn Germany@s:en . 1563677_1565122(800) she was in Germany.
 
-(710) *CHT:	+< ers cynt ia . 1387900_1389113
-(710) +< ers cynt ia .
+(800) *CHT:	fuodd hi yn yr Almaen ! 1565550_1567187(801) she was in Germany!
 
-(711) *AVR:	a wir i ti oedd Angharad@s:cy&es wedi mynd . 1389564_1391474
-(711) a wir i ti oedd Angharad@s:cy&es wedi mynd .
+(801) Welsh word for Germany retrieved with effort
 
-(712) *AVR:	wir i ti oedd rhaid i ni fynd ymlaen ein hunain Arwyn@s:cy&es a fi . 1392150_1395174
-(712) wir i ti oedd rhaid i ni fynd ymlaen ein hunain Arwyn@s:cy&es a fi .
+(801) *AVR:	yn yr Almaen oedd hi ? 1567550_1568467(802) it was Germany she went to?
 
-(713) *CHT:	oh@s:cy&es . 1395274_1395692
-(713) oh@s:cy&es .
+(802) *AVR:	oedd hi yn [//] ddim yn Japan@s:en hefyd ? 1568461_1570110(803) wasn''t she in Japan as well?
 
-(714) *AVR:	a dw i ddim yn si(wr) [/] siwr os oedd o wedi bod yn yr ysgol neu beidio . 1395652_1399685
-(714) a dw i ddim yn si(wr) [/] siwr os oedd o wedi bod yn yr ysgol neu beidio .
+(803) *CHT:	i fi wybod na . 1571159_1572338(804) as far as I know, no.
 
-(715) *CHT:	wel Gruffudd@s:cy&es llai na ti ie ? 1399748_1401571
-(715) wel Gruffudd@s:cy&es llai na ti ie ?
+(804) strange formulation.
 
-(716) *AVR:	mwy . 1401573_1402217
-(716) mwy .
+(804) *AVR:	ond (dy)na fo . 1572489_1572924(805) *AVR:	maen nhw wedi cysylltu <efo (y)r stu(dents)@s:en> [//] efo (y)r myfyrwyr o (y)r gwledydd eraill . 1572947_1576796(806) they''ve communicated with the students from other countries.
 
-(717) *CHT:	oh@s:cy&es ! 1402271_1402834
-(717) oh@s:cy&es !
+(806) *AVR:	maen [?] nhw mynd draw a (y)r [/] yr myfyrwyr +/. 1577560_1579539(807) they go over and the students...
 
-(718) *AVR:	ond beth bynnag i ti oedden ni (y)n cyrraedd yr ysgol . 1403145_1405206
-(718) ond beth bynnag i ti oedden ni (y)n cyrraedd yr ysgol .
+(807) *CHT:	+< ah@s:cy&es ie ie ie ia ! 1579278_1580590(808) ah, yes yes yes!
 
-(719) *AVR:	oedd y bechgyn mynd &m [/] mynd yr ochr yna merched ochr yma . 1405195_1408351
-(719) oedd y bechgyn mynd &m [/] mynd yr ochr yna merched ochr yma .
+(808) *CHT:	mae (y)r Japanese@s:en efo nhw am mi(s) [?] neu Chinese@s:en . 1580553_1582817(809) the Japanese are with them for a month, or the Chinese.
 
-(720) *AVR:	oedd diwedd y byd i fi ynde . 1408386_1410379
-(720) oedd diwedd y byd i fi ynde .
+(809) *CHT:	dw (ddi)m cofio . 1582894_1583358(810) I don''t remember.
 
-(721) *CHT:	xx . 1409911_1411046
-(721) xx .
+(810) *CHT:	oedd o Japanese@s:en dw i (y)n credu oedd efo nhw am &s [/] am un sbel (.) yn byw ar y ffarm efo (.) Rosamaria@s:cy&es a +... 1583353_1590763(811) it was the Japanese I think, who were with them for one period, living on the farm with Rosamaria and...
 
-(722) *AVR:	diwedd y byd a [/] a wedyn +... 1411379_1413675
-(722) diwedd y byd a [/] a wedyn +.. .
+(811) *AVR:	chwarae teg . 1590871_1591602(812) fair play.
 
-(723) *AVR:	dw i (ddi)m yn cofio . 1415041_1415668
-(723) dw i (ddi)m yn cofio .
+(812) *CHT:	ia . 1592328_1592891(813) yes.
 
-(724) *AVR:	ond dw i (y)n cofio <&m yn> [?] iawn &ko yn cyrraedd yr ysgol (y)ma . 1415668_1418611
-(724) ond dw i (y)n cofio <&m yn> [?] iawn &ko yn cyrraedd yr ysgol (y)ma .
+(813) *AVR:	wel (dy)na fo . 1593505_1594364(814) well, there we are.
 
-(725) *CHT:	+< bueno@s:es . 1416443_1416750
-(725) +< bueno@s:es .
+(814) *AVR:	mae yn andros o neis rwan yn Esquel@s:cy&es siŵr o fod . 1594527_1597860(815) it''s really nice now in Esquel, sure to be.
 
-(726) *AVR:	o(eddw)n i gymaint ofn . 1418594_1419698
-(726) o(eddw)n i gymaint ofn .
+(815) *CHT:	oh@s:cy&es ! 1597977_1598325(816) *AVR:	mae (y)r daffodils yn flodeuo [?] a (y)r xx . 1598304_1600969(817) the daffodils are flowering, and the [...].
 
-(727) *AVR:	ofn be dw i ddim yn gwybod . 1419698_1421410
-(727) ofn be dw i ddim yn gwybod .
+(817) *CHT:	a (y)r eira ar y mynydd . 1601034_1602335(818) and the snow on the mountains.
 
-(728) *CHT:	wel na oedd o rywbeth wel +... 1421500_1423288
-(728) wel na oedd o rywbeth wel +.. .
+(818) *AVR:	a (y)r eira ar y mynydd ie . 1602678_1604168(819) and the snow on the mountains, yes.
 
-(729) *AVR:	o(eddw)n i mor siei yn dod xx [//] dod o (y)r paith ti (y)n gweld . 1423565_1426276
-(729) o(eddw)n i mor siei yn dod xx [//] dod o (y)r paith ti (y)n gweld .
+(819) *CHT:	mae (we)di bwrw eira dipyn go_lew . 1604009_1606238(820) it has snowed quite a bit.
 
-(730) *CHT:	+< ia . 1424883_1425202
-(730) +< ia .
+(820) *CHT:	oedden nhw (y)n deud bod (y)na ryw (.) glamp o darnau o <eira yn cwympo> [=! laughs] . 1606229_1611394(821) they were saying there was a whole load of pieces of snow tumbling down.
 
-(731) *CHT:	ia ia . 1426596_1427164
-(731) ia ia .
+(821) *CHT:	oedd rywbeth ryfedd efo [?] hi ! 1611399_1613044(822) there was something strange about it!
 
-(732) *CHT:	a oedd &be [///] o(eddw)n i (y)n ddeuddeg oed yn mynd i orffen yr ysgol yn Trevelin@s:cy&es achos bod dim (.) [/] dim um@s:cy&es +//. 1427720_1434556
-(732) a oedd &be [///] o(eddw)n i (y)n ddeuddeg oed yn mynd i orffen yr ysgol yn Trevelin@s:cy&es achos bod dim (.) [/] dim um@s:cy&es +// .
+(822) *AVR:	ie oedden [?] deud nag [//] er@s:cy&es um@s:cy&es bod [/] er@s:cy&es bod [//] <oedd (y)na> [//] oedd yn xx er@s:cy&es deg centimetr . 1613052_1618757(823) yes, they were saying that.. . that it was [..] ten centimetres.
 
-(733) *CHT:	oedd hi (y)n bosib gorffen yna . 1435187_1436551
-(733) oedd hi (y)n bosib gorffen yna .
+(823) *AVR:	mae hynny (y)n go dda . 1619255_1620207(824) that''s pretty good.
 
-(734) *AVR:	ia . 1436338_1436698
-(734) ia .
+(824) *CHT:	+< yn Esquel@s:cy&es ? 1619848_1620481(825) in Esquel?
 
-(735) *AVR:	yn yr ysgolion xx +/. 1436892_1437710
-(735) yn yr ysgolion xx +/ .
+(825) *AVR:	ia . 1620714_1621068(826) yes.
 
-(736) *CHT:	yn yr ysgol bach y ffarm . 1437164_1438569
-(736) yn yr ysgol bach y ffarm .
+(826) *CHT:	&opa ! 1621092_1621846(827) *CHT:	na ddim fan (y)na . 1622536_1623395(828) no, not there.
 
-(737) *CHT:	yli <o(eddw)n i (y)n> [/] o(eddw)n i (y)n crio bob bore . 1438897_1441144
-(737) yli <o(eddw)n i (y)n> [/] o(eddw)n i (y)n crio bob bore .
+(828) *CHT:	oedd o ddim yn sefyll ar y llawr (.) yn lle (y)na . 1623371_1626216(829) it wasn''t staying on the ground, in that place.
 
-(738) *CHT:	bob bore pan o(eddw)n i (y)n roid <yr er@s:cy&es> [/] yr er@s:cy&es fflag i_fyny (.) o(eddw)n i (y)n crio achos <rhaid i ni ganu awr orau> [?] . 1441441_1446892
-(738) bob bore pan o(eddw)n i (y)n roid <yr er@s:cy&es> [/] yr er@s:cy&es fflag i_fyny (.) o(eddw)n i (y)n crio achos <rhaid i ni ganu awr orau> [?] .
+(829) *CHT:	ond <oedd hi> [//] oedd o (y)n troelli . 1626606_1628435(830) but it was swirling around.
 
-(739) *CHT:	ac er@s:cy&es o(eddw)n i (y)n cael ryw hiraeth difrifol ac o(eddw)n i (y)n crio . 1447440_1450586
-(739) ac er@s:cy&es o(eddw)n i (y)n cael ryw hiraeth difrifol ac o(eddw)n i (y)n crio .
+(830) *CHT:	ac oedd (y)na rywbeth ryfedd efo hi . 1628437_1630138(831) and there was something strange about it.
 
-(740) *CHT:	bob dydd . 1451084_1451763
-(740) bob dydd .
+(831) *AVR:	<oedd (y)na> [?] lot o wynt . 1630297_1631081(832) there was a lot of wind.
 
-(741) *AVR:	yn yr ysgol ? 1451346_1452100
-(741) yn yr ysgol ?
+(832) *CHT:	ie . 1631214_1631580(833) yes.
 
-(742) *CHT:	ar y dechrau beth bynnag . 1452077_1453389
-(742) ar y dechrau beth bynnag .
+(833) *AVR:	wel (dy)na fo . 1632514_1633031(834) well, there we are.
 
-(743) *AVR:	a sut [/] xx sut oeddet ti (y)n mynd ? 1453460_1455117
-(743) a sut [/] xx sut oeddet ti (y)n mynd ?
+(834) *AVR:	maen nhw (y)n cael gwynt +/. 1633026_1633705(835) they get wind...
 
-(744) *AVR:	ar gefn ceffyl ? 1455140_1455988
-(744) ar gefn ceffyl ?
+(835) *CHT:	a <mae (y)r &geir> [//] mae (y)r gaea wedi pasio rwan . 1633664_1635725(836) +< and the winter has passed now.
 
-(745) *CHT:	na o(eddw)n i (y)n aros efo modryb Elsa@s:cy&es . 1455962_1458209
-(745) na o(eddw)n i (y)n aros efo modryb Elsa@s:cy&es .
+(836) *AVR:	ond ie mae (y)n dal mor sych ag erioed yn [/] yn [/] yn [/] yn y de (y)r (.) profins (y)ma . 1636402_1642172(837) but yes, it''s still as dry as ever in the south of this province.
 
-(746) *AVR:	ah@s:cy&es oedd modryb Elsa@s:cy&es yn Trevelin@s:cy&es adeg hynny ? 1458447_1461111
-(746) ah@s:cy&es oedd modryb Elsa@s:cy&es yn Trevelin@s:cy&es adeg hynny ?
+(837) *AVR:	ofnadwy ! 1642294_1643455(838) awful!
 
-(747) *CHT:	oedd er@s:cy&es Jim@s:cy&es wedi priodi . 1460847_1462682
-(747) oedd er@s:cy&es Jim@s:cy&es wedi priodi .
+(838) *CHT:	(y)dy (y)n dal yn sych ? 1643373_1644668(839) is it still dry?
 
-(748) *CHT:	a oedden +/. 1463359_1464666
-(748) a oedden +/ .
+(839) *AVR:	ychi nos [/] nos um@s:cy&es +/. 1644265_1646331(840) you know, the night...
 
-(749) *AVR:	+< ah@s:cy&es modryb Elsa_Evans@s:cy&es ! 1463946_1465165
-(749) +< ah@s:cy&es modryb Elsa_Evans@s:cy&es !
+(840) *CHT:	a digonedd o ddŵr yn yr afonydd (y)na ! 1646387_1648424(841) and plenty of water in those rivers!
 
-(750) *CHT:	modryb Elsa_Evans@s:cy&es . 1465319_1466289
-(750) modryb Elsa_Evans@s:cy&es .
+(841) *AVR:	ie nos wener oedd hi for (.) [//] mor hyll efo ninnau ac yn glawio gymaint . 1648305_1653674(842) yes, it was Friday night that it was so horrible with us, raining so much.
 
-(751) *AVR:	ac oedd hi (y)n byw yn Trevelin@s:cy&es ? 1466712_1468003
-(751) ac oedd hi (y)n byw yn Trevelin@s:cy&es ?
+(842) *CHT:	ie . 1654159_1654501(843) yes.
 
-(752) *CHT:	ia mi [/] mi aeth hi i Trevelin@s:cy&es i fyw achos bod er@s:cy&es Jim@s:cy&es a (y)r teulu yna ynde erbyn hyn . 1468106_1472640
-(752) ia mi [/] mi aeth hi i Trevelin@s:cy&es i fyw achos bod er@s:cy&es Jim@s:cy&es a (y)r teulu yna ynde erbyn hyn .
+(843) *AVR:	ac <oedd hi> [//] oedd (y)na (.) cymylau o lwch yn Bahia_Blanca@s:cy&es . 1654332_1658134(844) and there were clouds of ash in Bahia Blanca.
 
-(753) *AVR:	ie . 1473117_1473616
-(753) ie .
+(844) *CHT:	oh@s:cy&es ! 1658210_1658878(845) *AVR:	a (y)r gwynt mwya ofnadwy a (y)r llwch (y)ma . 1658857_1661196(846) and the most awful wind, and this ash.
 
-(754) *CHT:	a wedyn er@s:cy&es <mi oedd> [//] mi wnaeth hi er@s:cy&es um@s:cy&es gynnig i mam a dada os o(edde)n nhw (y)n dewis er@s:cy&es anfon fi i (y)r ysgol i orffen . 1473604_1482212
-(754) a wedyn er@s:cy&es <mi oedd> [//] mi wnaeth hi er@s:cy&es um@s:cy&es gynnig i mam a dada os o(edde)n nhw (y)n dewis er@s:cy&es anfon fi i (y)r ysgol i orffen .
+(846) *CHT:	oh@s:cy&es . 1661330_1661922(847) *CHT:	ac o(eddw)n i (y)n deall bod er@s:cy&es llawer o ddŵr yn dod <o &n un> [?] o (y)r afonydd mawr (y)ma . 1662320_1666767(848) and I understood that a lot of water was coming from one of these big rivers.
 
-(755) *AVR:	+< a fo ar y ffarm . 1474566_1475506
-(755) +< a fo ar y ffarm .
+(848) *CHT:	dim y Panama@s:cy&es [?] . 1666972_1668005(849) not the Panama.
 
-(756) *AVR:	<am da de> [?] ! 1482449_1483268
-(756) <am da de> [?] !
+(849) *AVR:	mae (y)r Panama@s:cy&es +/. 1668598_1669376(850) the Panama...
 
-(757) *CHT:	a mi ges i fynd ie . 1482677_1484193
-(757) a mi ges i fynd ie .
+(850) *CHT:	Uru(guay)@s:cy&es [//] ddim Uruguay@s:cy&es neu Panama@s:cy&es ? 1669010_1671198(851) not the Uruguay, or the Panama?
 
-(758) *CHT:	a o(eddw)n i meddwl y byd o modryb Elsa@s:cy&es . 1484539_1486379
-(758) a o(eddw)n i meddwl y byd o modryb Elsa@s:cy&es .
+(851) *AVR:	na mae Panama@s:cy&es yndy . 1670914_1672419(852) no, it is the Panama.
 
-(759) *CHT:	ond o(eddw)n i â hiraeth difrifol . 1486559_1488504
-(759) ond o(eddw)n i â hiraeth difrifol .
+(852) *CHT:	mae (y)n dod â llawer o ddŵr dydy ? 1672631_1674065(853) it brings lots of water doesn''t it?
 
-(760) *AVR:	meddylia di o(eddw)n i nabod dy modryb Elsa@s:cy&es ar y ffarm . 1489773_1492670
-(760) meddylia di o(eddw)n i nabod dy modryb Elsa@s:cy&es ar y ffarm .
+(853) *AVR:	yndy yndy . 1673700_1674414(854) yes, yes.
 
-(761) *CHT:	hmm@s:cy&es . 1493421_1493932
-(761) hmm@s:cy&es .
+(854) *CHT:	(dy)na fo . 1674584_1674990(855) that''s it.
 
-(762) *CHT:	na fuodd hi (y)n byw (.) tu_ôl i lle modryb Rhian@s:cy&es . 1494122_1496880
-(762) na fuodd hi (y)n byw (.) tu_ôl i lle modryb Rhian@s:cy&es .
+(855) *CHT:	peth ryfedd na [?] bod hi (y)n posib wneud rywbeth argae arall neu rywbeth i [/] (.) i roi dŵr i (y)r llefydd (y)ma . 1674937_1680498(856) it''s strange that it''s not possible to do something, a dam or something to bring water to these places.
 
-(763) *AVR:	oh@s:cy&es . 1497426_1497763
-(763) oh@s:cy&es .
+(856) *AVR:	+< wel (dy)na fo . 1679293_1679734(857) well, there we are.
 
-(764) *CHT:	modryb Rhian@s:cy&es fan (y)na (.) a modryb Elsa yr ochr yma (.) a Quinto@s:cy&es . 1497763_1501989
-(764) modryb Rhian@s:cy&es fan (y)na (.) a modryb Elsa yr ochr yma (.) a Quinto@s:cy&es .
+(857) *AVR:	<mae (y)n ryfedd> [?] . 1679717_1680210(858) it''s strange.
 
-(765) *CHT:	ti cofio Quinto@s:cy&es fan (y)na yn y gornel stôr [?] ? 1502035_1504531
-(765) ti cofio Quinto@s:cy&es fan (y)na yn y gornel stôr [?] ?
+(858) *AVR:	mae (y)n glawio yn Brasil@s:cy&es a wedyn be wneith y dŵr ond dod lawr rhynddon [?] ni . 1680437_1684343(859) it rains in Brazil, and then what will the water do but come down amongst us?
 
-(766) *AVR:	na dw i ddim yn cofio amdano fo . 1504868_1506384
-(766) na dw i ddim yn cofio amdano fo .
+(859) *CHT:	oh@s:cy&es ie ie ie . 1684484_1685552(860) oh, yes yes.
 
-(767) *AVR:	ond <o(eddw)n [/] o(eddw)n i ddim> [//] wnes i ddim nabod xxx Trevelin@s:cy&es . 1506236_1509609
-(767) ond <o(eddw)n [/] o(eddw)n i ddim> [//] wnes i ddim nabod xxx Trevelin@s:cy&es .
+(860) *CHT:	ond (ba)sen nhw (y)n gallu cadw fo er@s:cy&es xxx (.) ie mewn llyn a (.) defnyddio fo +... 1686221_1692471(861) but if they could keep it [...] yes, in a lake and use it...
 
-(768) *CHT:	+< lle mae (.) ysgol (.) Rosamaria@s:cy&es wan . 1508452_1511935
-(768) +< lle mae (.) ysgol (.) Rosamaria@s:cy&es wan .
+(861) *AVR:	+< oh@s:cy&es ia . 1687911_1688630(862) oh yes.
 
-(769) *AVR:	ah@s:cy&es ! 1512115_1513303
-(769) ah@s:cy&es !
+(862) *AVR:	+< wel (dy)na fo . 1691381_1691973(863) well, there we are.
 
-(770) *AVR:	sut hwyl mae hi (y)n gael ? 1513339_1514657
-(770) sut hwyl mae hi (y)n gael ?
+(863) *AVR:	welwn ni ddim_byd felly mae (y)n debyg i ti . 1691416_1693378(864) we won''t see anything then, most likely, I''m telling you.
 
-(771) *CHT:	siwr bod hi (y)n iawn . 1514897_1516110
-(771) siwr bod hi (y)n iawn .
+(864) *CHT:	+< na . 1692858_1693166(865) no.
 
-(772) *AVR:	ond mi fuodd hi yn [/] yn delicet efo ei (.) iechyd yn_do ? 1516993_1521179
-(772) ond mi fuodd hi yn [/] yn delicet efo ei (.) iechyd yn_do ?
+(865) *CHT:	mae [/] mae (y)r arian yn mynd i bethau eraill (.) yn anffodus iawn. 1693967_1697348(866) the money goes on other things, most unfortunately.
 
-(773) *AVR:	oedd ddim yn +/. 1521159_1521629
-(773) oedd ddim yn +/ .
-
-(774) *CHT:	do ddoth hi yma . 1521565_1523096
-(774) do ddoth hi yma .
-
-(775) *CHT:	ond er@s:cy&es dw i ddim yn gwybod . 1523425_1525178
-(775) ond er@s:cy&es dw i ddim yn gwybod .
-
-(776) *CHT:	dw i (y)n credu bod hi (y)n iawn rwan . 1525184_1526537
-(776) dw i (y)n credu bod hi (y)n iawn rwan .
-
-(777) *CHT:	mae &ba um@s:cy&es +//. 1526524_1528231
-(777) mae &ba um@s:cy&es +// .
-
-(778) *CHT:	be (y)dy enw fo ? 1528411_1529050
-(778) be (y)dy enw fo ?
-
-(779) *CHT:	+, Raimundo@s:cy&es wedi priodi ers (.) pythefnos yndy ? 1529067_1531720
-(779) +, Raimundo@s:cy&es wedi priodi ers (.) pythefnos yndy ?
-
-(780) *CHT:	y ddau wedi priodi rwan y dau fachgen . 1532529_1534747
-(780) y ddau wedi priodi rwan y dau fachgen .
-
-(781) *AVR:	wel (dy)na fo . 1535279_1536069
-(781) wel (dy)na fo .
-
-(782) *CHT:	ie . 1536231_1536522
-(782) ie .
-
-(783) *AVR:	xxx wedi gadael y nyth . 1536870_1538466
-(783) xxx wedi gadael y nyth .
-
-(784) *CHT:	ydyn . 1538813_1539440
-(784) ydyn .
-
-(785) *AVR:	a (y)r ferch sut mae hi ? 1539578_1541151
-(785) a (y)r ferch sut mae hi ?
-
-(786) *CHT:	yn Bahia_Blanca@s:cy&es oedd hi . 1541733_1543689
-(786) yn Bahia_Blanca@s:cy&es oedd hi .
-
-(787) *CHT:	dw i ddim yn gwybod . 1543679_1544341
-(787) dw i ddim yn gwybod .
-
-(788) *AVR:	+< be mae hi wedi stydio ? 1543942_1545312
-(788) +< be mae hi wedi stydio ?
-
-(789) *CHT:	oh@s:cy&es dw i ddim yn siwr iawn os mae rywbeth efo &m +... 1546144_1550196
-(789) oh@s:cy&es dw i ddim yn siwr iawn os mae rywbeth efo &m +.. .
-
-(790) *CHT:	&m dw i (ddi)m yn gwybod . 1551742_1553181
-(790) &m dw i (ddi)m yn gwybod .
-
-(791) *CHT:	dw i (ddi)m yn cofio . 1553181_1553913
-(791) dw i (ddi)m yn cofio .
-
-(792) *CHT:	dim cofio be . 1553979_1554861
-(792) dim cofio be .
-
-(793) *AVR:	mmhm . 1554966_1555947
-(793) mmhm .
-
-(794) *AVR:	oh@s:cy&es (.) achos er@s:cy&es <mae hi> [//] hi (y)dy (y)r ienga ie ? 1556857_1559603
-(794) oh@s:cy&es (.) achos er@s:cy&es <mae hi> [//] hi (y)dy (y)r ienga ie ?
-
-(795) *CHT:	ia . 1559607_1559920
-(795) ia .
-
-(796) *AVR:	a mae hi wedi teithio yn_do [?] ? 1560129_1561482
-(796) a mae hi wedi teithio yn_do [?] ?
-
-(797) *CHT:	+< Zanetta@s:cy&es . 1560768_1561511
-(797) +< Zanetta@s:cy&es .
-
-(798) *AVR:	mae hi wedi teithio llawer yn_do [?] ? 1562365_1563897
-(798) mae hi wedi teithio llawer yn_do [?] ?
-
-(799) *CHT:	fuodd hi yn Germany@s:en . 1563677_1565122
-(799) fuodd hi yn Germany@s:en .
-
-(800) *CHT:	fuodd hi yn yr Almaen ! 1565550_1567187
-(800) fuodd hi yn yr Almaen !
-
-(801) *AVR:	yn yr Almaen oedd hi ? 1567550_1568467
-(801) yn yr Almaen oedd hi ?
-
-(802) *AVR:	oedd hi yn [//] ddim yn Japan@s:en hefyd ? 1568461_1570110
-(802) oedd hi yn [//] ddim yn Japan@s:en hefyd ?
-
-(803) *CHT:	i fi wybod na . 1571159_1572338
-(803) i fi wybod na .
-
-(804) *AVR:	ond (dy)na fo . 1572489_1572924
-(804) ond (dy)na fo .
-
-(805) *AVR:	maen nhw wedi cysylltu <efo (y)r stu(dents)@s:en> [//] efo (y)r myfyrwyr o (y)r gwledydd eraill . 1572947_1576796
-(805) maen nhw wedi cysylltu <efo (y)r stu(dents)@s:en> [//] efo (y)r myfyrwyr o (y)r gwledydd eraill .
-
-(806) *AVR:	maen [?] nhw mynd draw a (y)r [/] yr myfyrwyr +/. 1577560_1579539
-(806) maen [?] nhw mynd draw a (y)r [/] yr myfyrwyr +/ .
-
-(807) *CHT:	+< ah@s:cy&es ie ie ie ia ! 1579278_1580590
-(807) +< ah@s:cy&es ie ie ie ia !
-
-(808) *CHT:	mae (y)r Japanese@s:en efo nhw am mi(s) [?] neu Chinese@s:en . 1580553_1582817
-(808) mae (y)r Japanese@s:en efo nhw am mi(s) [?] neu Chinese@s:en .
-
-(809) *CHT:	dw (ddi)m cofio . 1582894_1583358
-(809) dw (ddi)m cofio .
-
-(810) *CHT:	oedd o Japanese@s:en dw i (y)n credu oedd efo nhw am &s [/] am un sbel (.) yn byw ar y ffarm efo (.) Rosamaria@s:cy&es a +... 1583353_1590763
-(810) oedd o Japanese@s:en dw i (y)n credu oedd efo nhw am &s [/] am un sbel (.) yn byw ar y ffarm efo (.) Rosamaria@s:cy&es a +.. .
-
-(811) *AVR:	chwarae teg . 1590871_1591602
-(811) chwarae teg .
-
-(812) *CHT:	ia . 1592328_1592891
-(812) ia .
-
-(813) *AVR:	wel (dy)na fo . 1593505_1594364
-(813) wel (dy)na fo .
-
-(814) *AVR:	mae yn andros o neis rwan yn Esquel@s:cy&es siŵr o fod . 1594527_1597860
-(814) mae yn andros o neis rwan yn Esquel@s:cy&es siŵr o fod .
-
-(815) *CHT:	oh@s:cy&es ! 1597977_1598325
-(815) oh@s:cy&es !
-
-(816) *AVR:	mae (y)r daffodils yn flodeuo [?] a (y)r xx . 1598304_1600969
-(816) mae (y)r daffodils yn flodeuo [?] a (y)r xx .
-
-(817) *CHT:	a (y)r eira ar y mynydd . 1601034_1602335
-(817) a (y)r eira ar y mynydd .
-
-(818) *AVR:	a (y)r eira ar y mynydd ie . 1602678_1604168
-(818) a (y)r eira ar y mynydd ie .
-
-(819) *CHT:	mae (we)di bwrw eira dipyn go_lew . 1604009_1606238
-(819) mae (we)di bwrw eira dipyn go_lew .
-
-(820) *CHT:	oedden nhw (y)n deud bod (y)na ryw (.) glamp o darnau o <eira yn cwympo> [=! laughs] . 1606229_1611394
-(820) oedden nhw (y)n deud bod (y)na ryw (.) glamp o darnau o <eira yn cwympo> [=! laughs] .
-
-(821) *CHT:	oedd rywbeth ryfedd efo [?] hi ! 1611399_1613044
-(821) oedd rywbeth ryfedd efo [?] hi !
-
-(822) *AVR:	ie oedden [?] deud nag [//] er@s:cy&es um@s:cy&es bod [/] er@s:cy&es bod [//] <oedd (y)na> [//] oedd yn xx er@s:cy&es deg centimetr . 1613052_1618757
-(822) ie oedden [?] deud nag [//] er@s:cy&es um@s:cy&es bod [/] er@s:cy&es bod [//] <oedd (y)na> [//] oedd yn xx er@s:cy&es deg centimetr .
-
-(823) *AVR:	mae hynny (y)n go dda . 1619255_1620207
-(823) mae hynny (y)n go dda .
-
-(824) *CHT:	+< yn Esquel@s:cy&es ? 1619848_1620481
-(824) +< yn Esquel@s:cy&es ?
-
-(825) *AVR:	ia . 1620714_1621068
-(825) ia .
-
-(826) *CHT:	&opa ! 1621092_1621846
-(826) &opa !
-
-(827) *CHT:	na ddim fan (y)na . 1622536_1623395
-(827) na ddim fan (y)na .
-
-(828) *CHT:	oedd o ddim yn sefyll ar y llawr (.) yn lle (y)na . 1623371_1626216
-(828) oedd o ddim yn sefyll ar y llawr (.) yn lle (y)na .
-
-(829) *CHT:	ond <oedd hi> [//] oedd o (y)n troelli . 1626606_1628435
-(829) ond <oedd hi> [//] oedd o (y)n troelli .
-
-(830) *CHT:	ac oedd (y)na rywbeth ryfedd efo hi . 1628437_1630138
-(830) ac oedd (y)na rywbeth ryfedd efo hi .
-
-(831) *AVR:	<oedd (y)na> [?] lot o wynt . 1630297_1631081
-(831) <oedd (y)na> [?] lot o wynt .
-
-(832) *CHT:	ie . 1631214_1631580
-(832) ie .
-
-(833) *AVR:	wel (dy)na fo . 1632514_1633031
-(833) wel (dy)na fo .
-
-(834) *AVR:	maen nhw (y)n cael gwynt +/. 1633026_1633705
-(834) maen nhw (y)n cael gwynt +/ .
-
-(835) *CHT:	a <mae (y)r &geir> [//] mae (y)r gaea wedi pasio rwan . 1633664_1635725
-(835) a <mae (y)r &geir> [//] mae (y)r gaea wedi pasio rwan .
-
-(836) *AVR:	ond ie mae (y)n dal mor sych ag erioed yn [/] yn [/] yn [/] yn y de (y)r (.) profins (y)ma . 1636402_1642172
-(836) ond ie mae (y)n dal mor sych ag erioed yn [/] yn [/] yn [/] yn y de (y)r (.) profins (y)ma .
-
-(837) *AVR:	ofnadwy ! 1642294_1643455
-(837) ofnadwy !
-
-(838) *CHT:	(y)dy (y)n dal yn sych ? 1643373_1644668
-(838) (y)dy (y)n dal yn sych ?
-
-(839) *AVR:	ychi nos [/] nos um@s:cy&es +/. 1644265_1646331
-(839) ychi nos [/] nos um@s:cy&es +/ .
-
-(840) *CHT:	a digonedd o ddŵr yn yr afonydd (y)na ! 1646387_1648424
-(840) a digonedd o ddŵr yn yr afonydd (y)na !
-
-(841) *AVR:	ie nos wener oedd hi for (.) [//] mor hyll efo ninnau ac yn glawio gymaint . 1648305_1653674
-(841) ie nos wener oedd hi for (.) [//] mor hyll efo ninnau ac yn glawio gymaint .
-
-(842) *CHT:	ie . 1654159_1654501
-(842) ie .
-
-(843) *AVR:	ac <oedd hi> [//] oedd (y)na (.) cymylau o lwch yn Bahia_Blanca@s:cy&es . 1654332_1658134
-(843) ac <oedd hi> [//] oedd (y)na (.) cymylau o lwch yn Bahia_Blanca@s:cy&es .
-
-(844) *CHT:	oh@s:cy&es ! 1658210_1658878
-(844) oh@s:cy&es !
-
-(845) *AVR:	a (y)r gwynt mwya ofnadwy a (y)r llwch (y)ma . 1658857_1661196
-(845) a (y)r gwynt mwya ofnadwy a (y)r llwch (y)ma .
-
-(846) *CHT:	oh@s:cy&es . 1661330_1661922
-(846) oh@s:cy&es .
-
-(847) *CHT:	ac o(eddw)n i (y)n deall bod er@s:cy&es llawer o ddŵr yn dod <o &n un> [?] o (y)r afonydd mawr (y)ma . 1662320_1666767
-(847) ac o(eddw)n i (y)n deall bod er@s:cy&es llawer o ddŵr yn dod <o &n un> [?] o (y)r afonydd mawr (y)ma .
-
-(848) *CHT:	dim y Panama@s:cy&es [?] . 1666972_1668005
-(848) dim y Panama@s:cy&es [?] .
-
-(849) *AVR:	mae (y)r Panama@s:cy&es +/. 1668598_1669376
-(849) mae (y)r Panama@s:cy&es +/ .
-
-(850) *CHT:	Uru(guay)@s:cy&es [//] ddim Uruguay@s:cy&es neu Panama@s:cy&es ? 1669010_1671198
-(850) Uru(guay)@s:cy&es [//] ddim Uruguay@s:cy&es neu Panama@s:cy&es ?
-
-(851) *AVR:	na mae Panama@s:cy&es yndy . 1670914_1672419
-(851) na mae Panama@s:cy&es yndy .
-
-(852) *CHT:	mae (y)n dod â llawer o ddŵr dydy ? 1672631_1674065
-(852) mae (y)n dod â llawer o ddŵr dydy ?
-
-(853) *AVR:	yndy yndy . 1673700_1674414
-(853) yndy yndy .
-
-(854) *CHT:	(dy)na fo . 1674584_1674990
-(854) (dy)na fo .
-
-(855) *CHT:	peth ryfedd na [?] bod hi (y)n posib wneud rywbeth argae arall neu rywbeth i [/] (.) i roi dŵr i (y)r llefydd (y)ma . 1674937_1680498
-(855) peth ryfedd na [?] bod hi (y)n posib wneud rywbeth argae arall neu rywbeth i [/] (.) i roi dŵr i (y)r llefydd (y)ma .
-
-(856) *AVR:	+< wel (dy)na fo . 1679293_1679734
-(856) +< wel (dy)na fo .
-
-(857) *AVR:	<mae (y)n ryfedd> [?] . 1679717_1680210
-(857) <mae (y)n ryfedd> [?] .
-
-(858) *AVR:	mae (y)n glawio yn Brasil@s:cy&es a wedyn be wneith y dŵr ond dod lawr rhynddon [?] ni . 1680437_1684343
-(858) mae (y)n glawio yn Brasil@s:cy&es a wedyn be wneith y dŵr ond dod lawr rhynddon [?] ni .
-
-(859) *CHT:	oh@s:cy&es ie ie ie . 1684484_1685552
-(859) oh@s:cy&es ie ie ie .
-
-(860) *CHT:	ond (ba)sen nhw (y)n gallu cadw fo er@s:cy&es xxx (.) ie mewn llyn a (.) defnyddio fo +... 1686221_1692471
-(860) ond (ba)sen nhw (y)n gallu cadw fo er@s:cy&es xxx (.) ie mewn llyn a (.) defnyddio fo +.. .
-
-(861) *AVR:	+< oh@s:cy&es ia . 1687911_1688630
-(861) +< oh@s:cy&es ia .
-
-(862) *AVR:	+< wel (dy)na fo . 1691381_1691973
-(862) +< wel (dy)na fo .
-
-(863) *AVR:	welwn ni ddim_byd felly mae (y)n debyg i ti . 1691416_1693378
-(863) welwn ni ddim_byd felly mae (y)n debyg i ti .
-
-(864) *CHT:	+< na . 1692858_1693166
-(864) +< na .
-
-(865) *CHT:	mae [/] mae (y)r arian yn mynd i bethau eraill (.) yn anffodus iawn. 1693967_1697348
-(865) mae [/] mae (y)r arian yn mynd i bethau eraill (.) yn anffodus iawn .
-
-(866) *AVR:	i poced rywyn arall . 1697407_1699206
-(866) i poced rywyn arall .
+(866) *AVR:	i poced rywyn arall . 1697407_1699206(867) into someone else''s pocket.
 
