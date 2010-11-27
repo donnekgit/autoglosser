@@ -155,7 +155,7 @@ function lineclean_surface($text)
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
 
-    $text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] marker with a tilde.
+    $text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
     $text=preg_replace("/<.[^>]+>/u", "", $text); // Remove backtracking words in angle brackets.
 
     $text=preg_replace("/\[.[^\]]*\]/u", "", $text); // Remove anything in square brackets.
@@ -163,6 +163,8 @@ function lineclean_surface($text)
     $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
 
     $text=preg_replace("/(^| ).[^~| ]+~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	$text=preg_replace("/(^| ).[^~| ]+~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
 
     $text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
     $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
@@ -176,6 +178,14 @@ function lineclean_surface($text)
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
    
+    return $text;
+}
+
+function wordclean_surface($text)
+// Make corrections to the individual words in the %gls tier.
+{
+    $text=preg_replace("/:/u", "", $text);  // Remove length-marking (eg no:)
+
     return $text;
 }
 
@@ -262,6 +272,103 @@ function clitic_pos($text)
     $text=preg_replace("/os/u", "prn.mf.2p", $text);
 
     return $text;
+}
+
+function segment_eng($text)
+// Segment the clitic pronouns from the verbform.
+{
+	$text=preg_replace("/^let's$/u", "let#+us.r.1p", $text);  // let's
+	$text=preg_replace("/^gonna$/u", "go#+to.p", $text);  // gonna
+	$text=preg_replace("/^wanna$/u", "want#+to.p", $text);  // gonna
+	$text=preg_replace("/^gotta$/u", "go#+to.p", $text);  // gotta
+
+	// For the elided forms below we need to double the apostrophe in the search pattern.  This is because pg_escape_string in write_cohorts.php adds an additional apostrophe to escape an apostrophe in the word; we need to remove both, otherwise one will get left after the segmentation, and prevent the lookup.
+	$text=preg_replace("/''d$/u", "#be.v.cond", $text);  // we'd, he'd, they'd
+	$text=preg_replace("/''m$/u", "#be.v.pres", $text);  // I'm
+	$text=preg_replace("/''re$/u", "#be.v.pres", $text);  // we're
+	$text=preg_replace("/''ll$/u", "#be.v.fut", $text);  // we're
+	$text=preg_replace("/''ve$/u", "#have.v.pres", $text);  // we've, they've
+	$text=preg_replace("/''s$/u", "#gb", $text);  // father's, that's
+	$text=preg_replace("/''n$/u", "#cp", $text);  // her'n, me'n, his'n, your'n
+	$text=preg_replace("/n''t$/u", "#neg", $text);  // aren't, wouldn't, don't
+
+	$text=preg_replace("/(?<!i)ly$/u", "#adv", $text);  // quickly
+	$text=preg_replace("/ily$/u", "i#adv", $text);  // happily
+	$text=preg_replace("/(?<!e)able$/u", "#a.pot", $text);  // treatable
+	$text=preg_replace("/eable$/u", "e#a.pot", $text);  // writeable
+
+	$text=preg_replace("/(er)$/u", "#a.comp", $text); // shorter
+	$text=preg_replace("/(est)$/u", "#a.sup", $text); // shortest
+
+	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))ing$/u", "$1#asv", $text);
+	// visit, bother, happen, gossip
+	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))ed$/u", "$1#av", $text); 
+	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))s$/u", "$1#pv", $text); 
+
+	$text=preg_replace("/([aeiou](nd|nk|nt|rt|rd|lk|pt|sk|st|gn|ng|ct|gh|ll|r|w|mp|y))ing$/u", "$1#asv", $text);
+	// end, print, think, start, walk,  adapt, ask, test, assign, bang, construct, cough, kill, bother, betray, swallow, play
+	$text=preg_replace("/([aeiou](nd|nt|nk|rt|rd|lk|pt|sk|st|gn|ng|ct|gh|ll|r|w|mp|y))ed$/u", "$1#av", $text); 
+	$text=preg_replace("/([aeiou](nd|nt|nk|rt|rd|lk|pt|sk|st|gn|ng|ct|gh|ll|r|w|mp|y))s$/u", "$1#pv", $text); 
+
+	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))ing$/u", "$1#asv", $text);  // look, cool, break, roam, moan
+	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))ed$/u", "$1#av", $text); 
+	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))s$/u", "$1#pv", $text); 
+
+	$text=preg_replace("/([aeiou][p|t])[p|t]ing$/u", "$1#asv", $text);  // grip
+	$text=preg_replace("/([aeiou](ck))ing$/u", "$1#asv", $text);  // back
+	$text=preg_replace("/([aeiou][p|t])[p|t]ed$/u", "$1#av", $text);  // grip
+	$text=preg_replace("/([aeiou](ck))ed$/u", "$1#av", $text);  // back
+	$text=preg_replace("/([aeiou](ck|p|t))s$/u", "$1#pv", $text); 
+
+	$text=preg_replace("/([aeiou](tch|nch|sh|x))ing$/u", "$1#asv", $text);  // watch, launch, finish, tax
+	$text=preg_replace("/([aeiou](tch|nch|sh|x))ed$/u", "$1#av", $text);
+	$text=preg_replace("/([aeiou](tch|nch|sh|x))es$/u", "$1#pv", $text); 
+
+	$text=preg_replace("/([aeiou]ss)ing$/u", "$1#asv", $text);  // miss
+	$text=preg_replace("/([aeiou]ss)ed$/u", "$1#av", $text);
+	$text=preg_replace("/([aeiou]ss)es$/u", "$1#pv", $text);
+
+	$text=preg_replace("/(y|u)ing$/u", "$1#asv", $text); // sully, play, continue
+	$text=preg_replace("/(i|u)ed$/u", "$1#av", $text);
+	$text=preg_replace("/(i|u)es$/u", "$1#pv", $text);  // controversies
+
+	$text=preg_replace("/([^aeiou][aeiou]{1,2}(c|v|ng|nc|p|k|t|r|g|l|n|m|tl|s))ing$/u", "$1e#asv", $text);
+	// piece, leave (verb), range, wince, gripe, brake, bite, picture, massage, tile, line, become, subtitle, house
+	$text=preg_replace("/([^aeiou][aeiou]{1,2}(c|v|ng|nc|p|k|t|r|g|l|n|m|tl|s))ed$/u", "$1e#av", $text); 
+	$text=preg_replace("/([^aeiou][aeiou]{1,2}(c|v|ng|nc|p|k|t|r|g|l|n|m|tl|s))es$/u", "$1e#pv", $text); 
+
+	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])ing$/u", "$1#asv", $text);  // breaking - but leaving is wrong
+	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])ed$/u", "$1#av", $text); 
+	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])s$/u", "$1#pv", $text);  // breaks - but leaves is wrong
+
+	$text=preg_replace("/(ee)s$/u", "$1#p", $text); // employee
+	$text=preg_replace("/(ie)s$/u", "$1#p", $text); // movie
+	$text=preg_replace("/(de)s$/u", "$1#p", $text); // episode
+
+	$text=preg_replace("/(?<![1ieus'])s$/u", "#pv", $text);  // general plural or verb.3s
+
+	// Incorrect output: 
+
+	return $text;
+}
+
+function fix_seg($text)
+// Rewrite the initial part to account for spelling corrections                                                            
+{
+	$text=preg_replace("/i$/u", "y", $text);  // happi > happy
+	$text=preg_replace("/(?<!yo)u$/u", "ue", $text);  // continu > continue
+
+	$text=preg_replace("/iv$/u", "if/ve", $text);  // liv > life/live
+	$text=preg_replace("/(mov|zomb)y$/u", "$1ie", $text);  // liv > life/live
+
+	$text=preg_replace("/^(d|l|t|v)y$/u", "$1ie", $text);  // die, lie, tie, vie, movie, zombie
+
+	$text=preg_replace("/^wo$/u", "will", $text);  // won't
+	$text=preg_replace("/^ca$/u", "can", $text);  // can't
+	$text=preg_replace("/^ai$/u", "is", $text);  // ain't
+	$text=preg_replace("/^sha$/u", "shall", $text);  // ain't
+
+	return $text;
 }
 
 function pluralise($text)

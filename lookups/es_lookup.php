@@ -24,7 +24,7 @@ $foundclitics='0';  // Set a marker
 // Do clitic segmentation and lookup first.
 $candidate=segment_clitics($surface);
 
-if (preg_match("/.+#/", $candidate))  // Only do the clitic lookup if the segmentation has been in the middle of a word (eg tomar#se) (ie if there is a verb at the front), not in such cases as #la or #se (where we just have the clitic in standalone mode).  Note that this has to be a separate lookup from the non-clitic lookup below, to cover things like gen#te - if the two lookups are combined, gen#te will be found here, but there will be no entry for gen, so gente will be glossed as unknown.
+if (preg_match("/.+#/", $candidate))  // Only do the clitic lookup if the segmentation has been in the middle of a word (eg tomar#se) (ie if there is a verb at the front), not in such cases as #la or #se (where we just have the clitic in standalone mode).  Note that this has to be a separate lookup from the non-clitic lookup below, to cover things like gen#te - if the two lookups are combined, gen#te will be found here, but there will be no entry for gen, so gen(te) will be glossed as unknown.
 {
     $first=preg_split("/#/", $candidate, 2);
     $clitic2=$first[1];

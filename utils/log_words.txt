@@ -2,10 +2,27 @@ create table herring7_eswords as select surface, count(surface) from herring7_cg
 
 select * from eslist where surface~'hindú'
 
-insert into table sastre1_eswords(surface, count) select surface, count(surface) from sastre1_cgwords where auto='unk' and langid='3' group by surface order by surface
+insert into sastre1_eswords(surface, count) select surface, count(surface) from sastre1_cgwords where auto='unk' and langid='3' group by surface order by surface
 
 insert into sastre1_enwords(surface, count) select surface, count(surface) from sastre1_cgwords where auto='unk' and langid='2' group by surface order by surface
 
+Merge the unknown words into the dictionary
+insert into eslist(surface, lemma, enlemma, pos, gender, number, tense, notes, clar) select surface, lemma, enlemma, pos, gender, number, tense, notes, clar from sastre1_eswords
+
+
+
+
+
+
+Collecting unknown words
+select lemma, count(lemma) from patagonia6_cgfinished where pos='m' group by lemma order by lemma (names)
+select lemma, count(lemma) from patagonia6_cgfinished where pos='u' group by lemma order by lemma (unknown)
+
+Highlight unknown words/typos:
+select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
+create table pat_unk as select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
+
+http://www.google.com/dictionary?source=translation&hl=en&q=muchacho&langpair=es|en
 
 
 

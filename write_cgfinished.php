@@ -30,6 +30,7 @@ echo "*\n*\nCreating the $cgfinished table\n*\n*\n";
 include("create_cgfinished.php");
 
 $lines=file("outputs/".$filename."/".$filename."_cg_applied.txt");  // Open input file.
+//$lines=file("testwriteseg.txt");  // Open input file.
      
 foreach ($lines as $line_num => $line)
 {
@@ -44,41 +45,70 @@ foreach ($lines as $line_num => $line)
         preg_match("/{(?P<utt>\d+),(?P<loc>\d+)}/", $line, $place);  // Get the place (utterance, location).
         $utt=$place[utt];
         $loc=$place[loc];
-        echo $utt.",".$loc."\n";
+        //echo $utt.",".$loc."\n";
 
         preg_match("/\[(?P<langid>\w\w)\]/", $line, $language);  // Get the language..
         $langid=$language[langid];
-        echo $langid."\n";
+        //echo $langid."\n";
 
         preg_match("/\[(?P<dictid>\d+)\]/", $line, $dict);  // Get the dictionary entry by id.
         $dictid=$dict[dictid];
-        echo $dictid."\n";
+        //echo $dictid."\n";
 
         preg_match("/\+ (?P<extras>.+)$/", $line, $extra);  // Get any clitics.
         $extras=$extra[extras];
-        echo $extras."\n\n";
+        //echo $extras."\n";
 
-        if (isset($dictid) and $dictid!=0)  // If there was a dictionary entry, look it up and copy the tags into $cgfinished.
+		preg_match("/\] (?P<subtags>.+) :/", $line, $subtag);  // Get any rewritten (substituted) tags as one string
+        $subtags=$subtag[subtags];
+        //echo $subtags."\n";
+
+		preg_match("/# (?P<segs>.+)$/", $line, $seg);  // Get any segmentations and accompanying POS rewrites.
+        $segs=$seg[segs];
+        //echo $segs."\n";
+
+        if (isset($dictid) and $dictid!=0)  // If there was a dictionary entry, and the dictionary is not the zero-language one, look it up and copy the tags into $cgfinished.
         {
-            $sql_f="select * from ".$langid."list where id=$dictid";
-            $result_f=pg_query($db_handle,$sql_f) or die("Can't insert the items");
-            while ($row_f=pg_fetch_object($result_f))
-            {
-                $row_f->lemma=pg_escape_string($row_f->lemma);
-                $row_f->enlemma=pg_escape_string($row_f->enlemma);
-                $sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$extras')";
-                $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
-            }
+			if ($langid=='en')  // Replace the pos, gender, number, tense entries in enlist with the rewritten segmented entry.
+			{
+				echo $utt." - ".$loc." - ".$langid." - ".$dictid." - ".$subtags." - ".$segs."\n";
+				$sql_f="select * from ".$langid."list where id=$dictid";
+				$result_f=pg_query($db_handle,$sql_f) or die("Can't insert the items");
+				while ($row_f=pg_fetch_object($result_f))
+				{
+					$row_f->lemma=pg_escape_string($row_f->lemma);
+					$row_f->enlemma=pg_escape_string($row_f->enlemma);
+					//$sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$segs')";
+					$sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$subtags', '$row_f->notes', '$segs')";
+					$result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
+				}
+			}
+			else
+			{
+				echo $utt." - ".$loc." - ".$langid." - ".$dictid." - ".$extras."\n";
+				$sql_f="select * from ".$langid."list where id=$dictid";
+				$result_f=pg_query($db_handle,$sql_f) or die("Can't insert the items");
+				while ($row_f=pg_fetch_object($result_f))
+				{
+					$row_f->lemma=pg_escape_string($row_f->lemma);
+					$row_f->enlemma=pg_escape_string($row_f->enlemma);
+					$sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$extras')";
+					$result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
+				}
+			}
         }
         else  // If there was no dictionary entry, write the surface form.
         {
-            $upos=(preg_match("/^[A-Z]/", $surface)) ? "m" : "u";
+			$upos=(preg_match("/^[A-Z]/", $surface)) ? "m" : "u";
+			echo $utt." - ".$loc." - ".$langid." - ".$dictid." - ".$upos."\n";
             $surface=pg_escape_string($surface);  // To handle apostrophes in the entry.
             $sql_u="insert into $cgfinished (utterance_id, location, lemma, pos) values('$utt', '$loc', '$surface', '$upos')";
             // Added u(nknown) to allow cognate work to proceed, and it will help anyway in focussing on unknown words.
             $result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
         }
+		echo "\n=========\n";
     }
+	//unset($surface, $utt, $loc, $langid, $dictid, $extras, $segs);  // Doesn't seem to be required, and activating it seems to cause names to be listed as unknowns.  Further checking required.
 }
 
 ?>

@@ -1,0 +1,324 @@
+list words that do not have gloss entries:
+select welsh, count(welsh) from stammers4_cgwords where gloss is null group by welsh order by count desc
+but this is not accurate, because manual glosses have been added - this doesn't mean that the items are in cylist
+
+CREATE TABLE cylist_add (
+    id integer NOT NULL,
+    surface character varying(100),
+    lemma character varying(100),
+    pos character varying(20),
+    gender character varying(20),
+    num character varying(50),
+    tense character varying(100),
+    reg character varying(50),
+    enlemma character varying(100),
+    mutation character varying(20)
+);
+CREATE SEQUENCE cylist_add_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+ALTER SEQUENCE cylist_add_id_seq OWNED BY cylist.id;
+ALTER TABLE cylist_add ALTER COLUMN id SET DEFAULT nextval('cylist_add_id_seq'::regclass);
+ALTER TABLE ONLY cylist_add ADD CONSTRAINT cylist_add_pkey PRIMARY KEY (id);
+CREATE INDEX cylist_add_surface ON cylist_add USING btree (surface);
+
+egrep 'unk' outputs/stammers4_cg_applied.txt > unk.txt
+
+Adding new entries:
+cylist has 416862 entries
+delete from cylist where id > 416862
+insert into cylist (surface, lemma, pos, gender, num, tense, reg, enlemma, mutation) select surface, lemma, pos, gender, num, tense, reg, enlemma, mutation from cylist_add
+
+fargain
+broblem
+bity
+dop
+drombone
+fass
+tagged as @0, but by definition these cannot be English, since they are mutated
+
+
+
+Checking write_cgautogloss.php output
+select w.utterance_id, w.location, w.mainlang, w.gloss, f.utterance_id as autoutt, f.location as autoloc, f.surface, f.lemma, f.tags from patagonia2_cgwords w, patagonia2_cgfinished f where w.utterance_id=f.utterance_id and w.location=f.location order by w.utterance_id, w.location
+
+
+Select tablenames
+select tablename from pg_tables where tablename !~'(pg_|sql_|_sp)' and tablename ~'_'
+
+
+
+
+select * from patagonia1_cgfinished order by utterance, location
+
+
+
+Generating cylist
+[Run utils/cylist/pluralise.php on canonical.  This will fill the plurals table.]  NO!  Not required - the current version of canonical already has these plurals added.
+Run utils/cylist/collect.php.  This will gather all entries from 4 separate tables (canonical, berfau, vplus, virreg) into eurfa_nmni.  The last section of the script writes the lemmas based either on the surface or (in the case of a plural surface) the sorp.
+Run utils/cylist/gbl.php.  This will convert the gbl table into the more compact eurfa_gbl.
+update eurfa_gbl set tense='pres' where tense='present';
+update eurfa_gbl set tense='cond' where tense='conditional';
+update eurfa_gbl set tense='dep' where tense='dependent';
+update eurfa_gbl set tense='fut' where tense='future';
+update eurfa_gbl set tense='imper' where tense='imperative';
+update eurfa_gbl set tense='imperf' where tense='imperfect';
+update eurfa_gbl set tense='pastsubj' where tense='past subjunctive';
+update eurfa_gbl set tense='pluperf' where tense='pluperfect';
+update eurfa_gbl set tense='subj' where tense='subjunctive';
+update eurfa_gbl set number='1s' where number='1singular';
+update eurfa_gbl set number='2s' where number='2singular';
+update eurfa_gbl set number='3s' where number='3singular';
+update eurfa_gbl set number='1p' where number='1plural';
+update eurfa_gbl set number='1p' where number='1plural';
+update eurfa_gbl set number='2p' where number='2plural';
+update eurfa_gbl set number='3p' where number='3plural';
+update eurfa_gbl set number='0' where number='impers';
+update eurfa_gbl set number='0' where number='impersonal';
+Run utils/cylist/combine.php to combine eurfa_gbl and eurfa_nmni into cylist, ready for use in the autoglosser.
+Change yn to stative.
+Set indexes on surface, lemma, enlemma, pos, gender, number and tense.
+
+It is vitally important to set indexes on all relevant fields on the dictionary database table.  Without indexes, the cohort-writing for Patagonia1 on a dictionary that included mutated forms took 48s.  On a dictionary that did not include mutated forms, where the words were demutated and every demutation looked up on the fly, took 340s.  On the same dictionary, but with the demutated words only being looked up where they differed from the surface word, the time was 159s.  However, with indexes set on all the main columns, the total time was slashed to 8s. 
+
+cylist POS tags (these need to be revised):
+a       adjective
+ac     adjective cardinal
+am    adjective comparative
+ao     adjective ordinal
+ap     adjective plural
+b       adverb
+c       conjunction
+e       exclamation
+h       phrase
+i        interjection
+n       noun
+np     placename
+p       preposition
+pn     placename
+r        pronoun
+s       stative
+t       article
+v       verb
+vh     phrasal verb
+x       particle
+
+
+tense tags (eslist and cylist combined):  
+cond
+dep
+fut 
+futsubj 
+imper   
+imperf  
+imperfsubj  
+infin   
+past    
+pastpart   
+pastsubj 
+pluperf
+pres    
+prespart    
+pressubj    
+subj    
+
+
+
+Creating enlist
+
+id
+surface 100
+lemma 100
+enlemma 100
+pos 20
+gender 20
+number 50
+tense 100
+notes 50
+
+Use the Moby part-of-speech database from aspell.
+N   Noun
+p   Plural
+h   Noun Phrase
+V   Verb (usu participle)
+t   Verb (transitive)
+i   Verb (intransitive)
+A   Adjective
+v   Adverb
+C   Conjunction
+P   Preposition
+!   Interjection
+r   Pronoun
+D   Definite Article
+I   Indefinite Article
+o   Nominative
+Rename part-of-speech.txt to part-of-speech.csv, and create table enpos with fields surface and pos
+Import using: \copy enpos from '/home/kevin/autoglosser/dbdevel/pos/part-of-speech.csv' with delimiter '\t'
+Filter out the WordNet stuff: insert into enlist(surface, pos) select surface, pos from enpos where pos!~'^\\|'
+Remove capitalised words: delete from enlist where surface ~ '^[A-Z]'
+Remove noun phrases (h): delete from enlist where pos='h'
+Remove multiwords: delete from enlist where surface~' '
+Check pos values: select pos, count(pos) from enlist group by pos order by count desc
+The multiple ones need to be reduced - many are incorrect anyway: select surface, pos from enlist where pos='!N'
+We don't want to lose info - eg "look" is both a verb and a noun: select surface, pos from enlist where surface='look'
+However, the simplest thing is probably to take just the first entry in the POS string, and put it in a new field:
+update enlist set mypos = substring(pos from '^.')
+select pos, mypos, count(pos) from enlist group by pos, mypos order by count desc
+select mypos, count(mypos) from enlist group by mypos order by count desc
+Start filling out the other fields and rationalising the POS tags:
+update enlist set tense='prespart' where surface~'ing$' and mypos='V'
+check: select * from enlist where mypos='V' limit 500
+update enlist set tense='prespart' where surface~'ing$' and mypos='V'
+update enlist set tense='pastpart' where surface~'ed$' and mypos='V'
+update enlist set tense='infin' where tense is null and mypos='V'
+update enlist set mypos='v' where mypos='V'
+update enlist set tense='prespart' where surface~'ing$' and mypos='t'
+update enlist set tense='pastpart' where surface~'ed$' and mypos='t'
+update enlist set tense='infin' where tense is null and mypos='t'
+update enlist set mypos='v' where mypos='t'
+update enlist set tense='prespart' where surface~'ing$' and mypos='i'
+update enlist set tense='pastpart' where surface~'ed$' and mypos='i'
+update enlist set tense='infin' where tense is null and mypos='i'
+update enlist set mypos='v' where mypos='i'
+update enlist set mypos='n' where mypos='N'
+update enlist set number='s' where number is null and mypos='n'
+update enlist set mypos='n', number='p' where number is null and mypos='p'
+update enlist set mypos='i' where mypos='!'
+update enlist set mypos='a' where mypos='A'
+update enlist set mypos='c' where mypos='C'
+update enlist set mypos='a' where mypos='h'
+update enlist set mypos='p' where mypos='P'
+update enlist set mypos='a' where mypos='D'
+Once done, rename pos to oldpos, and mypos to pos.
+Oops - forgot adverbs (v):
+select * from enlist where substring(oldpos from '^.') = 'v' order by surface
+update enlist set pos='b' where substring(oldpos from '^.')='v' and pos='v'
+
+
+Generate other entries:
+copy infin to pres.12s123p
+copy ing A to prespart
+copy ed A to past
+copy ed V to past
+copy ed V to A
+handle genitive 's on the fly?
+and what about others like -ing?
+
+create table enlist_add as select * from enlist where tense='infin'
+insert into enlist_add select * from enlist where surface~'ing$' and pos='a'
+insert into enlist_add select * from enlist where surface~'ed$' and pos='a'
+update enlist_add set tense='pres', number='12s123p' where tense='infin'
+update enlist_add set pos='v', tense='prespart' where surface~'ing$' and pos='a'
+update enlist_add set pos='v', tense='past' where surface~'ed$' and pos='a'
+insert into enlist_add select * from enlist where surface~'ed$' and pos='v'
+update enlist_add set tense='past' where surface~'ed$' and pos='v' and tense='pastpart'
+insert into enlist_add select * from enlist where surface~'ed$' and pos='v'
+update eslist_add set tense=NULL, pos='a' where surface~'ed$' and pos='v' and tense='pastpart'
+insert into enlist(surface, oldpos, enlemma, pos, gender, number, tense, notes, lemma) select surface, oldpos, enlemma, pos, gender, number, tense, notes, lemma from enlist_add
+Many of the above removed again under the new system of on-the-fly segmenting
+
+
+
+
+Log unknown words:
+select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
+
+
+
+
+
+Google lookup
+create table gt as 
+select langid, surface, count(surface) from herring2_cgwords where auto='unk' and langid='3' group by langid, surface order by langid, surface
+insert into declit select langid, surface, count(surface) from herring1_cgwords where auto='unk' and langid='2' group by langid, surface order by langid, surface
+select * from gt where lookup!=''
+
+herring7 (english) - decliticisation will handle perhaps 98% of unknowns
+herring2 (spanish) - gt will handle perhaps 75% of unknowns
+
+select distinct * from enlist where surface in (select lookup from gt) order by surface
+could be used to fill out many of the pos fields from the english dictionary
+
+
+
+
+
+
+
+
+Testun
+select mainlang, gloss, count(gloss) from deuchar1_cgwords  where mainlang !~ '[A-Z]' and mainlang !~ '[!\?\.]' group by mainlang, gloss order by mainlang, gloss
+select surface, auto, count(auto) from patagonia6_cgwords where auto != 'name' and auto != 'unk' and auto !~'[or]' group by surface, auto order by surface, auto
+
+
+
+
+
+
+Cognate as percent of total items
+select filename, langid, mainlang, count(mainlang) from deuchar1_cgwords where langid!='999' group by mainlang, langid, filename order by langid, mainlang
+create table cognates_list as select filename, langid, mainlang, count(mainlang) from smith1_cgwords where langid!='999' group by mainlang, langid, filename order by langid, mainlang
+insert into cognates_list select filename, langid, mainlang, count(mainlang) from roberts1_cgwords where langid!='999' group by mainlang, langid, filename order by langid, mainlang
+update cognates_list set langid='1' where langid=''
+update cognates_list set langid='2' where langid='s'
+update cognates_list set langid='0' where langid='zh'
+select langid, mainlang, count(mainlang) from cognates_list group by mainlang, langid order by langid, mainlang
+(note that count(mainlang) in the above gives the number of records with that mainlang across all the files - so for "oedd" you get a figure of 16, because it occurs in all 16 files; each of those records has its own count of the number of times "oedd" occurs in that file 
+
+Tokens
+select sum(count) from cognates_list
+select sum(count) from cognates_list where langid='0'
+select sum(count) from cognates_list where langid='1'
+select sum(count) from cognates_list where langid='2'
+select sum(count) from cognates_list where langid not in ('0','1','2')
+
+Types
+select count(distinct mainlang) from cognates_list where mainlang='oedd'
+select count(distinct mainlang) from cognates_list where langid='0'
+select count(distinct mainlang) from cognates_list where langid='1'
+select count(distinct mainlang) from cognates_list where langid='2'
+select count(distinct mainlang) from cognates_list where langid not in ('0','1','2')
+
+create table cognates_diana as select * from cognates_list where mainlang in (select cognate from di_cognates) group by mainlang, count, langid, filename order by mainlang, filename, langid, count
+select langid, mainlang, sum(count) from cognates_diana group by mainlang, langid order by langid, mainlang
+select langid, mainlang, sum(count) from cognates_diana where langid!='0' group by mainlang, langid order by langid, mainlang
+
+
+
+
+Finding "good" examples of autoglossing:
+select * from stammers4_cgutterances where utterance_id in (select utterance_id from stammers4_cgwords where auto !~'unk' and auto !~'\[or\]' and langid='2')
+
+
+Accuracy and coverage:
+select surface, gls, auto , count(surface) from stammers4_cgwords where surface~'[.!?]' group by surface, gls, auto  order by surface
+select surface, gls, auto, count(surface) from stammers4_cgwords where auto~'\\.N\\.' group by surface, gls, auto  order by surface
+select surface, mor, auto, count(surface) from zeledon14m_cgwords where auto~'\\.N\\.' group by surface, mor, auto  order by surface
+select count(*) from stammers4_cgwords where gls!~'[A-Z]'
+select surface, gls, auto from stammers4_cgwords where gls!~'[A-Z]' group by surface, gls, auto order by surface
+select surface, count(surface), mor, auto from zeledon14m_cgwords where mor~'^n' group by surface, mor, auto order by surface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

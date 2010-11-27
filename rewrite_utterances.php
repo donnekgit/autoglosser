@@ -65,6 +65,7 @@ while ($row=pg_fetch_object($result))
 		} 
 
         $surface_word=trim(pg_escape_string($surface_word)); 
+        $surface_word=wordclean_surface($surface_word);
 		//echo $row->utterance_id." - ".$i." - ".$surface_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."\n\n";
         $sql_w="insert into $words (utterance_id, location, surface, langid, speaker, filename) values ('$row->utterance_id', '$i', '$surface_word', '$langid', '$row->speaker', '$row->filename')";
         $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");       
@@ -82,13 +83,13 @@ while ($row=pg_fetch_object($result))
                 $tier=trim($tier);
                 $lineclean_tier="lineclean_".$tier;
                 $wordclean_tier="wordclean_".$tier;
-                echo $treated=$lineclean_tier($row->$tier)."\n";  // Use this function if you want to apply changes to the whole line
+                echo $treated=$lineclean_tier($row->$tier)."\n";  // This function applies changes to the whole line
                 $bits=explode(' ', $treated);
                 $j=1;
                 foreach ($bits as $value)
                 {
                     $value=trim(pg_escape_string($value));
-                    //$value=$wordclean_tier($value);  // Use this function if you want to apply changes to the individual word entries
+                    //$value=wordclean_tier($value);  // This function applies changes to the individual word entries
                     //echo $j." (of ".count($gloss_bits)."): ".htmlspecialchars($gloss_value)."<br>";       
                     $sql_g="update $words set $tier='$value' where utterance_id=$row->utterance_id and location=$j";
                     $result_g=pg_query($db_handle,$sql_g) or die("Can't insert the items");
