@@ -1,6 +1,7 @@
 #  General notes
 #  Combining or and not will not necessarily work: select (x) if (1 y) or (not 1 z) does not fire properly
 #  If the tag substitution for English uses dotted notation, none of the other rules will bite, because they are all using spaced notation.
+#  You can't combine conditions applying to a -1 position OR a 1 position.
 
 DELIMITERS = "<.>" "<!>" "<?>";
 
@@ -38,6 +39,8 @@ SECTION
 
 #remove ([en] infin) if (not 1 pronoun);
 
+### Rewrite English tags ###
+
 substitute (asv) (v+ing) ([en] n) (-1 ([es] v));  # combine with [1] below?
 # The order of the source tags defines where the target tag will be placed;  here, the v+ing will go in the position occupied by asv; if you turn this around, to (n s asv), the v+ing will go in the position of n s.  The above also keeps the + in + asv; if the + is included in the source (+ asv n s) then it will also be removed from the line.  You need to include [en] in the target environment, otherwise it applies to ALL words tagged n, including Spanish ones.
 #substitute (n) (v+ing) (n) (-1 ([es] v));
@@ -53,7 +56,7 @@ substitute (n s pv) (n p) ([en] n s pv);  # because pools are good; kids; houses
 substitute (a a.comp) (a comp) ([en] a.comp);  # smaller
 
 #substitute (pv) (v n: 3s t: pres) ([en] pv) (-1 ([en] d.far));  # that starts
-substitute (v infin) (v 3s pres) ([en] pv) (-1 ([en] d.far));  # that starts
+substitute (v infin) (v 3s pres) ([en] pv) (-1 ([en] d.far) or (r.sub));  # that starts; he presses
 substitute (v infin) (v 12s13p pres) ("<don't>");  # you don't 
 
 substitute (12s13p) (2sp) ([en] v 12s13p pres) (-1 (r 2sp));  # you don't
@@ -68,9 +71,11 @@ substitute (v infin av) (v pastpart) ([en] v infin av) (-1 ([en] "be") or (+be.v
 substitute (av past) (v past) ([en] av past) (-1 ([en] r.sub));  # we bought
 substitute (av past) (v pastpart) ([en] av past) (-1 (have.v.pres) or ("have"));  # you've done; you have done
 
-#substitute (sv infin) (v 3s pres) ("have" [en] sv infin) ;  # they all have pools;
+substitute (sv infin) (v 3s pres) ([en] sv infin) (-1 ([en] r.sub));  # they all have pools;
 
 substitute (a) (b) ([en] a adv);  # originally
+
+### English disambiguations ###
 
 select ([en] d.far) if ((-1 ("like" c)) or (1 ([en] v 3s)));  # like that; that is
 select ([en] d.far) if (1 (a));
@@ -157,7 +162,7 @@ select ("él" [es] r.obj) if (1 (v));
 select ("otro" r) if (not 1 (n));
 select ("uno" [es] r) if (1 ("de"));
 select ("todo" [es] r) if (1 (v));
-select ("uno" [es] r) if (1 ("<.>"));  # has visto uno.
+select ("uno" [es] r) if (1 ("<.>"));  # has visto uno. ;
 
 
 # Adverbs
@@ -190,6 +195,7 @@ select ([es] v 2s past) if (-1 ([es] r.sub 2s));  # tú viste
 select ([es] v pres) if (-1 ([es] r.ref) or ([es] c));  # se asfalta; que vale
 select ([es] v 3s) if (-1 ([es] r.ref mf 3sp));  # se pudiera
 select ([es] v pres) if (-1 ([es] r.obj));  # nos vamos
+select ([es] v 1s) if (-1 ([es] r.sub 1s));  # que yo sepa
 
 
 select ("ser" [es] v 13s imperf :be:) if (not 1 (v));
@@ -199,7 +205,8 @@ select ("saber" [es] v 1s pres) if (-1 ("no"));  # yo no sé - this is probably 
 select ("creer" [es] v) if (1 ("que" c));  # yo creo que
 select ("ver" [es] v) if (1 ("que" c));  # viste que
 select ("bajar" [es] v) if ((1 (n)) or (2 (n)));  # baja la velocidad
-select ("ir" [es] v past) if (-1 ([es] r.obj));  # y nos fuimos
+select ("ir" [es] v past) if (-1 ([es] r.obj));  # y nos fuimos;
+select ("ir" [es] v past) if (1 ("a" [es] p));  # fuimos a ver
 
 
 # Global rules
@@ -207,3 +214,4 @@ select ("ir" [es] v past) if (-1 ([es] r.obj));  # y nos fuimos
 # 1- remove less common tenses - has the effect of "deleting" items from the dictionary
 #select (v 3s pres);
 remove (pressubj);
+remove ("unir" [es] v 1s pres);  # que hagamos uno

@@ -1,0 +1,17 @@
+select count(*) from eslist where pos='v' and number='3p' and tense='imper'
+
+0 1s imper
+3205 3s imper
+4895 1p imper
+3263 3p imper
+
+select * from eslist where pos='v' and number='3s' and tense='imper' order by surface limit 50
+
+select * from eslist where surface='abjure'
+
+select * from eslist where pos='v' and tense~'subj|imper$' and lemma='abordar' order by surface limit 50
+
+select count(*) from eslist where pos='v' and number~'1s|3s|1p|3p' and tense='imper' and notes is null
+
+
+

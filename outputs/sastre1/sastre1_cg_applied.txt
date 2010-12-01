@@ -371,8 +371,8 @@
 	"concreto" {28,6} [es] n m s :concrete: [133060]
 "<.>"
 
-"<ajá>"
-	"ajá" {29,1} [es] e :aha: [133012]
+"<aja>"
+	"aja" {29,1} [es] unk
 "<.>"
 
 "<y>"
@@ -399,10 +399,12 @@
 	"pedazo" {30,11} [es] n m s dim :bit: [133036]
 "<de>"
 	"de" {30,12} [es] p :of: [33387]
+"<de>"
+	"de" {30,13} [es] p :of: [33387]
 "<tile>"
-	"tile" {30,13} [en] n s :tile: [209200]
+	"tile" {30,14} [en] n s :tile: [209200]
 "<ahí>"
-	"ahí" {30,14} [es] b :there: [6230]
+	"ahí" {30,15} [es] b :there: [6230]
 "<.>"
 
 "<sí>"
@@ -430,7 +432,8 @@
 "<eso>"
 	"eso" {32,6} [es] r.dem n s :that: [52287]
 "<sea>"
-	"ser" {32,7} [es] v 3s imper :be: [105073]
+	"ser" {32,7} [es] v 1s pressubj :be: [105072]
+	"ser" {32,7} [es] v 3s pressubj :be: [105074]
 "<mucho>"
 	"mucho" {32,8} [es] a m s :much: [79025]
 "<speed>"
@@ -448,8 +451,8 @@
 "<más>"
 	"más" {34,2} [es] b :more: [75889]
 "<bien>"
-	"bien" {34,3} [es] n m s :well: [16795]
 	"bien" {34,3} [es] b :well: [16794]
+	"bien" {34,3} [es] n m s :well: [16795]
 "<yo>"
 	"yo" {34,4} [es] r.sub mf 1s :I: [118066]
 "<creo>"
@@ -549,10 +552,12 @@
 	"de" {39,6} [es] p :of: [33387]
 "<poner>"
 	"poner" {39,7} [es] v infin :set: [88400]
+"<el>"
+	"el" {39,8} [es] t.def m s :the: [45129]
 "<la>"
-	"el" {39,8} [es] t.def f s :the: [71848]
+	"el" {39,9} [es] t.def f s :the: [71848]
 "<hierba>"
-	"hierba" {39,9} [es] n f s :grass: [63319]
+	"hierba" {39,10} [es] n f s :grass: [63319]
 "<.>"
 
 "<bueno>"
@@ -566,7 +571,7 @@
 "<yo>"
 	"yo" {41,3} [es] r.sub mf 1s :I: [118066]
 "<sepa>"
-	"saber" {41,4} [es] v 3s imper :know: [106072]
+	"saber" {41,4} [es] v 1s pressubj :know: [106071]
 "<.>"
 
 "<sí>"
@@ -764,7 +769,7 @@
 "<del>"
 	"del" {56,12} [es] p+t m s :of_the: [132993]
 "<meeting>"
-	"meeting" {56,13} [en] n s :meeting: [140493]
+	"meeting" {56,13} [es] unk
 "<?>"
 
 "<no>"
@@ -773,14 +778,16 @@
 	"no" {57,2} [es] b :not: [80465]
 "<no>"
 	"no" {57,3} [es] b :not: [80465]
+"<eestaba>"
+	"eestaba" {57,4} [es] unk
 "<estaba>"
-	"estar" {57,4} [es] v 13s imperf :be: [53075]
+	"estar" {57,5} [es] v 13s imperf :be: [53075]
 "<en>"
-	"en" {57,5} [es] p :on: [46823]
+	"en" {57,6} [es] p :on: [46823]
 "<la>"
-	"el" {57,6} [es] t.def f s :the: [71848]
+	"el" {57,7} [es] t.def f s :the: [71848]
 "<puerta>"
-	"puerta" {57,7} [es] n f s :gateway: [93009]
+	"puerta" {57,8} [es] n f s :gateway: [93009]
 "<.>"
 
 "<cuando>"
@@ -791,12 +798,12 @@
 	"que" {58,3} [es] c :which: [93350]
 "<nos>"
 	"yo" {58,4} [es] r.obj mf 1p :us: [80717]
-"<íbamos>"
-	"ir" {58,5} [es] v 1p imperf :go: [64489]
+"<ibamos>"
+	"ibamos" {58,5} [es] unk
 "<pal>"
 	"pal" {58,6} [es] unk
 "<bicycle>"
-	"bicycle" {58,7} [en] n s :bicycle: [68141]
+	"bicycle" {58,7} [es] unk
 "<shop>"
 	"shop" {58,8} [en] n s :shop: [192996]
 "<.>"
@@ -1163,8 +1170,8 @@
 	"even" {83,3} [en] a :even: [102865]
 "<.>"
 
-"<so>"
-	"so" {84,1} [en] b :so: [195801]
+"<so:>"
+	"so:" {84,1} [en] unk
 "<that's>"
 	"that" {84,2} [en] d.far :that: [208076] # +be.v.3s.pres
 "<something>"
@@ -1325,18 +1332,20 @@
 
 "<at>"
 	"at" {93,1} [en] p :at: [63583]
+"<at>"
+	"at" {93,2} [en] p :at: [63583]
 "<three>"
-	"three" {93,2} [en] n s :three: [208752]
+	"three" {93,3} [en] n s :three: [208752]
 "<thirty>"
-	"thirty" {93,3} [en] n s :thirty: [208611]
+	"thirty" {93,4} [en] n s :thirty: [208611]
 "<four>"
-	"four" {93,4} [en] n s :four: [109431]
+	"four" {93,5} [en] n s :four: [109431]
 "<o'clock>"
-	"o'clock" {93,5} [en] b :o'clock: [155032]
+	"o'clock" {93,6} [en] b :o'clock: [155032]
 "<it's>"
-	"it" {93,6} [en] r n 3s :it: [130342] # +be.v.3s.pres
+	"it" {93,7} [en] r n 3s :it: [130342] # +be.v.3s.pres
 "<fine>"
-	"fine" {93,7} [en] n s :fine: [106648]
+	"fine" {93,8} [en] n s :fine: [106648]
 "<.>"
 
 "<ah>"
@@ -1400,7 +1409,7 @@
 "<they>"
 	"they" {97,1} [en] r.sub 3p :they: [208421]
 "<don't>"
-	"do" {97,2} [en] v 12s13p pres :do: [95732] # neg
+	"do" {97,2} [en] v 3p pres :do: [95732] # neg
 "<even>"
 	"even" {97,3} [en] b :even: [266765]
 "<wanna>"
@@ -1696,16 +1705,18 @@
 	"mmhm" {114,1} [0] mmhm
 "<.>"
 
+"<xxxx>"
+	"xxxx" {115,1} [es] unk
 "<and>"
-	"and" {115,1} [en] c :and: [59482]
+	"and" {115,2} [en] c :and: [59482]
 "<we>"
-	"we" {115,2} [en] r.sub 1p :we: [231192]
+	"we" {115,3} [en] r.sub 1p :we: [231192]
 "<got>"
-	"get" {115,3} [en] v past+p :got: [266761]
+	"get" {115,4} [en] v past+p :got: [266761]
 "<it>"
-	"it" {115,4} [en] r n 3s :it: [130342]
+	"it" {115,5} [en] r n 3s :it: [130342]
 "<pero>"
-	"pero" {115,5} [es] c :but: [86359]
+	"pero" {115,6} [es] c :but: [86359]
 "<.>"
 
 "<a>"
@@ -1787,7 +1798,6 @@
 "<ahora>"
 	"ahora" {122,2} [es] b :now: [6292]
 "<vamos>"
-	"ir" {122,3} [es] v 1p imper :go: [115788]
 	"ir" {122,3} [es] v 1p pres :go: [115789]
 "<a>"
 	"a" {122,4} [es] p :to: [1]
@@ -1938,9 +1948,9 @@
 "<.>"
 
 "<oh>"
-	"oh" {133,1} [0] oh
+	"oh" {133,1} [en] v infin :oh: [155771]
 "<ok>"
-	"ok" {133,2} [0] ok
+	"ok" {133,2} [en] unk
 "<.>"
 
 "<because>"
@@ -1960,7 +1970,7 @@
 "<leave>"
 	"leave" {134,8} [en] v infin :leave: [134736]
 "<an>"
-	"an" {134,9} [en] a :an: [59122]
+	"a" {134,9} [en] t.ind :an: [59122]
 "<old>"
 	"old" {134,10} [en] a :old: [155849]
 "<tub>"
@@ -2045,7 +2055,8 @@
 "<no>"
 	"no" {139,5} [es] b :not: [80465]
 "<asome>"
-	"asomar" {139,6} [es] v 3s imper :prompt: [13726]
+	"asomar" {139,6} [es] v 1s pressubj :prompt: [13725]
+	"asomar" {139,6} [es] v 3s pressubj :prompt: [13727]
 "<la>"
 	"el" {139,7} [es] t.def f s :the: [71848]
 "<humedad>"
@@ -2120,8 +2131,8 @@
 
 "<y>"
 	"y" {147,1} [es] c :and: [118037]
-"<aquí>"
-	"aquí" {147,2} [es] b :here: [11385]
+"<aqui>"
+	"aqui" {147,2} [es] unk
 "<antes>"
 	"antes" {147,3} [es] b :before: [9483]
 "<was>"
@@ -2203,14 +2214,13 @@
 "<que>"
 	"que" {153,2} [es] c :which: [93350]
 "<hagamos>"
-	"hacer" {153,3} [es] v 1p imper :take: [62652]
+	"hacer" {153,3} [es] v 1p pressubj :take: [62653]
 "<uno>"
 	"uno" {153,4} [es] r m s :one: [115154]
-	"unir" {153,4} [es] v 1s pres :unite: [115153]
 "<posiblemente>"
 	"posiblemente" {153,5} [es] b :possibly: [88775]
 "<hagamos>"
-	"hacer" {153,6} [es] v 1p imper :take: [62652]
+	"hacer" {153,6} [es] v 1p pressubj :take: [62653]
 "<el>"
 	"el" {153,7} [es] t.def m s :the: [45129]
 "<otro>"
@@ -2227,8 +2237,8 @@
 	"ahora" {154,4} [es] b :now: [6292]
 "<quiero>"
 	"querer" {154,5} [es] v 1s pres :want: [93661]
-"<eh>"
-	"eh" {154,6} [0] eh
+"<eh:>"
+	"eh:" {154,6} [0] eh:
 "<los>"
 	"el" {154,7} [es] t.def m p :the: [74279]
 "<the>"
@@ -2239,8 +2249,8 @@
 	"system" {154,10} [en] n s :system: [206028]
 "<arreglarlos>"
 	"arreglar" {154,11} [es] v infin :fix: [12210] + los[prn.m.3p]
-"<y>"
-	"y" {154,12} [es] c :and: [118037]
+"<y:>"
+	"y:" {154,12} [es] unk
 "<.>"
 
 "<empezar>"
@@ -2251,13 +2261,14 @@
 	"retirar" {155,3} [es] v infin :remove: [102156] + nos[prn.mf.1p]
 "<.>"
 
+"<laugh>"
+	"laugh" {156,1} [es] unk
 "<.>"
 
 "<hoy>"
 	"hoy" {157,1} [es] b :today: [64047]
 "<fuimos>"
 	"ir" {157,2} [es] v 1p past :go: [59787]
-	"ser" {157,2} [es] v 1p past :be: [59788]
 "<a>"
 	"a" {157,3} [es] p :to: [1]
 "<ver>"
@@ -2286,8 +2297,8 @@
 "<porque>"
 	"porque" {160,2} [es] c :because: [88571]
 "<este>"
-	"este" {160,3} [es] a.dem m s :this: [53523]
 	"este" {160,3} [es] n m s :this: [53524]
+	"este" {160,3} [es] a.dem m s :this: [53523]
 "<the>"
 	"the" {160,4} [en] t.def :the: [208089]
 "<one>"
@@ -2295,7 +2306,7 @@
 "<we>"
 	"we" {160,6} [en] r.sub 1p :we: [231192]
 "<have>"
-	"have" {160,7} [en] sv infin :have: [118281]
+	"have" {160,7} [en] v 3s pres :have: [118281]
 "<is>"
 	"be" {160,8} [en] v 3s pres :is: [130029]
 "<nice>"
@@ -2406,8 +2417,8 @@
 	"press" {168,2} [en] v infin :press: [172779]
 "<the>"
 	"the" {168,3} [en] t.def :the: [208089]
-"<button>"
-	"button" {168,4} [en] n s :button: [73483]
+"<buttom>"
+	"buttom" {168,4} [en] unk
 "<.>"
 
 "<press>"
@@ -2453,7 +2464,7 @@
 "<has>"
 	"have" {174,3} [en] v 3s pres :has: [118133]
 "<an>"
-	"an" {174,4} [en] a :an: [59122]
+	"a" {174,4} [en] t.ind :an: [59122]
 "<R_V>"
 	"R_V" {174,5} [en] name
 "<.>"
@@ -2465,7 +2476,7 @@
 "<.>"
 
 "<oh>"
-	"oh" {176,1} [0] oh
+	"oh" {176,1} [en] v infin :oh: [155771]
 "<my>"
 	"my" {176,2} [en] a.poss 1s :my: [145481]
 "<god>"
@@ -2514,7 +2525,7 @@
 "<he>"
 	"he" {182,2} [en] r.sub m 3s :he: [118391]
 "<takes>"
-	"take" {182,3} [en] v infin :take: [206346] # pv
+	"take" {182,3} [en] v 3s pres :take: [206346] # pv
 "<it>"
 	"it" {182,4} [en] r n 3s :it: [130342]
 "<with>"
@@ -2536,7 +2547,7 @@
 "<he>"
 	"he" {184,1} [en] r.sub m 3s :he: [118391]
 "<presses>"
-	"press" {184,2} [en] v infin :press: [172779] # pv
+	"press" {184,2} [en] v 3s pres :press: [172779] # pv
 "<the>"
 	"the" {184,3} [en] t.def :the: [208089]
 "<button>"
@@ -2651,8 +2662,8 @@
 	"flat" {198,1} [en] a :flat: [107436]
 "<screen>"
 	"screen" {198,2} [en] n s :screen: [188659]
-"<TVs>"
-	"TVs" {198,3} [0] name
+"<tvs>"
+	"tvs" {198,3} [en] unk
 "<I>"
 	"I" {198,4} [en] r.sub 1s :I: [233304]
 "<mean>"
@@ -2678,7 +2689,7 @@
 "<he>"
 	"he" {201,2} [en] r.sub m 3s :he: [118391]
 "<likes>"
-	"like" {201,3} [en] sv infin :like: [266767] # pv
+	"like" {201,3} [en] sv v 3s pres :like: [266767] # pv
 	"like" {201,3} [en] c :like: [135908]
 "<to>"
 	"to" {201,4} [en] p :to: [209592]
@@ -2799,20 +2810,23 @@
 	"they" {209,1} [en] r.sub 3p :they: [208421]
 "<close>"
 	"close" {209,2} [en] v infin :close: [80584]
-"<American_Outdoors>"
-	"American_Outdoors" {209,3} [en] name
+"<american>"
+	"american" {209,3} [en] unk
+"<outdoors>"
+	"outdoor" {209,4} [en] a :outdoor: [157509] # pv
+	"outdoors" {209,4} [en] b :outdoors: [157510]
 "<they>"
-	"they" {209,4} [en] r.sub 3p :they: [208421]
+	"they" {209,5} [en] r.sub 3p :they: [208421]
 "<close>"
-	"close" {209,5} [en] v infin :close: [80584]
+	"close" {209,6} [en] v infin :close: [80584]
 "<a>"
-	"a" {209,6} [en] t.ind :a: [54339]
+	"a" {209,7} [en] t.ind :a: [54339]
 "<bunch>"
-	"bunch" {209,7} [en] n s :bunch: [72961]
+	"bunch" {209,8} [en] n s :bunch: [72961]
 "<of>"
-	"of" {209,8} [en] p :of: [155642]
+	"of" {209,9} [en] p :of: [155642]
 "<them>"
-	"them" {209,9} [en] r.obj 3p :them: [208145]
+	"them" {209,10} [en] r.obj 3p :them: [208145]
 "<.>"
 
 "<yes>"
@@ -2850,7 +2864,7 @@
 "<they>"
 	"they" {213,1} [en] r.sub 3p :they: [208421]
 "<don't>"
-	"do" {213,2} [en] v 12s13p pres :do: [95732] # neg
+	"do" {213,2} [en] v 3p pres :do: [95732] # neg
 "<make>"
 	"make" {213,3} [en] v infin :make: [138785]
 "<as>"
@@ -2968,18 +2982,23 @@
 	"them" {219,4} [en] r.obj 3p :them: [208145]
 "<.>"
 
+"<cough>"
+	"cough" {220,1} [es] unk
 "<.>"
 
-"<American_Outdoors>"
-	"American_Outdoors" {221,1} [en] name
+"<american>"
+	"american" {221,1} [en] unk
+"<outdoors>"
+	"outdoor" {221,2} [en] a :outdoor: [157509] # pv
+	"outdoors" {221,2} [en] b :outdoors: [157510]
 "<was>"
-	"be" {221,2} [en] v 13s past :was: [266759]
+	"be" {221,3} [en] v 13s past :was: [266759]
 "<a>"
-	"a" {221,3} [en] t.ind :a: [54339]
+	"a" {221,4} [en] t.ind :a: [54339]
 "<beautiful>"
-	"beautiful" {221,4} [en] a :beautiful: [66921]
+	"beautiful" {221,5} [en] a :beautiful: [66921]
 "<place>"
-	"place" {221,5} [en] n s :place: [166844]
+	"place" {221,6} [en] n s :place: [166844]
 "<.>"
 
 "<and>"
@@ -3082,16 +3101,16 @@
 	"acquired" {233,7} [en] av :acquired: [265431]
 "<the>"
 	"the" {233,8} [en] t.def :the: [208089]
-"<rabbit>"
-	"rabbit" {233,9} [en] n s :rabbit: [178490]
+"<rabit>"
+	"rabit" {233,9} [en] unk
 "<.>"
 
 "<wow>"
 	"wow" {234,1} [0] wow
 "<.>"
 
-"<y>"
-	"y" {235,1} [es] c :and: [118037]
+"<y:>"
+	"y:" {235,1} [es] unk
 "<that>"
 	"that" {235,2} [en] d.far :that: [208076]
 	"that" {235,2} [en] c :that: [266756]
@@ -3157,7 +3176,7 @@
 "<I>"
 	"I" {244,1} [en] r.sub 1s :I: [233304]
 "<have>"
-	"have" {244,2} [en] sv infin :have: [118281]
+	"have" {244,2} [en] v 3s pres :have: [118281]
 "<a>"
 	"a" {244,3} [en] t.ind :a: [54339]
 "<friend>"
@@ -3216,7 +3235,7 @@
 "<they>"
 	"they" {249,1} [en] r.sub 3p :they: [208421]
 "<don't>"
-	"do" {249,2} [en] v 12s13p pres :do: [95732] # neg
+	"do" {249,2} [en] v 3p pres :do: [95732] # neg
 "<grow>"
 	"grow" {249,3} [en] v infin :grow: [115660]
 "<much>"
@@ -3227,6 +3246,8 @@
 	"yeah" {250,1} [en] b :yeah: [1311]
 "<.>"
 
+"<cough>"
+	"cough" {251,1} [es] unk
 "<.>"
 
 "<esta>"
@@ -3240,11 +3261,11 @@
 "<.>"
 
 "<and>"
-	"and" {253,1} [en] c :and: [59482]
+	"and" {253,1} [es] unk
 "<I>"
-	"I" {253,2} [en] r.sub 1s :I: [233304]
+	"I" {253,2} [es] name
 "<have>"
-	"have" {253,3} [en] sv infin :have: [118281]
+	"have" {253,3} [es] unk
 "<another>"
 	"another" {253,4} [en] a :another: [60052]
 "<doctor>"
@@ -3410,7 +3431,7 @@
 "<they>"
 	"they" {269,3} [en] r.sub 3p :they: [208421]
 "<have>"
-	"have" {269,4} [en] sv infin :have: [118281]
+	"have" {269,4} [en] v 3s pres :have: [118281]
 "<more>"
 	"more" {269,5} [en] a :more: [144185]
 "<work>"
@@ -3555,8 +3576,8 @@
 	"the" {276,13} [en] t.def :the: [208089]
 "<insurances>"
 	"insurance" {276,14} [en] n p :insurance: [127659] #
-"<so>"
-	"so" {276,15} [en] b :so: [195801]
+"<so2>"
+	"so2" {276,15} [es] unk
 "<high>"
 	"high" {276,16} [en] a :high: [119981]
 "<.>"
@@ -3648,8 +3669,8 @@
 "<.>"
 
 "<así>"
-	"así" {283,1} [es] b :thus: [13310]
 	"asir" {283,1} [es] v 1s past :take: [13311]
+	"así" {283,1} [es] b :thus: [13310]
 "<mismo>"
 	"mismo" {283,2} [es] a m s :same: [77761]
 "<nos>"
@@ -3729,7 +3750,7 @@
 "<they>"
 	"they" {287,9} [en] r.sub 3p :they: [208421]
 "<have>"
-	"have" {287,10} [en] sv infin :have: [118281]
+	"have" {287,10} [en] v 3s pres :have: [118281]
 "<a>"
 	"a" {287,11} [en] t.ind :a: [54339]
 "<lot>"
@@ -3775,13 +3796,13 @@
 "<ahora>"
 	"ahora" {293,1} [es] b :now: [6292]
 "<one>"
-	"one" {293,2} [en] r s :one: [266766]
+	"one" {293,2} [es] unk
 "<advantage>"
 	"advantage" {293,3} [en] n s :advantage: [56340]
 "<I>"
 	"I" {293,4} [en] r.sub 1s :I: [233304]
 "<have>"
-	"have" {293,5} [en] sv infin :have: [118281]
+	"have" {293,5} [en] v 3s pres :have: [118281]
 "<is>"
 	"be" {293,6} [en] v 3s pres :is: [130029]
 "<that>"
@@ -3848,7 +3869,7 @@
 "<she'll>"
 	"she" {296,2} [en] r.sub f 3s :she: [192517] # be.v.fut
 "<have>"
-	"have" {296,3} [en] sv infin :have: [118281]
+	"have" {296,3} [en] v 3s pres :have: [118281]
 "<her>"
 	"her" {296,4} [en] a.poss f 3s :her: [119386]
 "<own>"
@@ -3907,8 +3928,8 @@
 	"for" {298,7} [en] p :for: [108682]
 "<me>"
 	"me" {298,8} [en] r 1s :me: [140194]
-"<it's>"
-	"it" {298,9} [en] r n 3s :it: [130342] # +be.v.3s.pres
+"<i'ts>"
+	"i''ts" {298,9} [en] unk
 "<just>"
 	"just" {298,10} [en] a :just: [131600]
 "<like>"
@@ -4055,7 +4076,7 @@
 "<oh>"
 	"oh" {306,1} [0] oh
 "<ok>"
-	"ok" {306,2} [0] ok
+	"ok" {306,2} [en] unk
 "<.>"
 
 "<and>"
@@ -4160,23 +4181,26 @@
 "<that>"
 	"that" {310,7} [en] d.far :that: [208076]
 	"that" {310,7} [en] c :that: [266756]
-"<law>"
-	"law" {310,8} [en] n s :law: [134381]
 "<that>"
-	"that" {310,9} [en] d.far :that: [208076]
-	"that" {310,9} [en] c :that: [266756]
+	"that" {310,8} [en] d.far :that: [208076]
+	"that" {310,8} [en] c :that: [266756]
+"<law>"
+	"law" {310,9} [en] n s :law: [134381]
+"<that>"
+	"that" {310,10} [en] d.far :that: [208076]
+	"that" {310,10} [en] c :that: [266756]
 "<came>"
-	"came" {310,10} [en] av past :came: [74390]
+	"came" {310,11} [en] av past :came: [74390]
 "<about>"
-	"about" {310,11} [en] p :about: [54661]
+	"about" {310,12} [en] p :about: [54661]
 "<with>"
-	"with" {310,12} [en] p :with: [363]
+	"with" {310,13} [en] p :with: [363]
 "<the>"
-	"the" {310,13} [en] t.def :the: [208089]
+	"the" {310,14} [en] t.def :the: [208089]
 "<homestead>"
-	"homestead" {310,14} [en] n s :homestead: [120830]
+	"homestead" {310,15} [en] n s :homestead: [120830]
 "<exemption>"
-	"exemption" {310,15} [en] n s :exemption: [103413]
+	"exemption" {310,16} [en] n s :exemption: [103413]
 "<.>"
 
 "<mmhm>"
@@ -4529,8 +4553,8 @@
 	"misspent" {329,3} [en] av past :misspent: [266755]
 "<.>"
 
-"<ah>"
-	"ah" {330,1} [0] ah
+"<ah:>"
+	"ah:" {330,1} [0] ah:
 "<they>"
 	"they" {330,2} [en] r.sub 3p :they: [208421]
 "<bought>"
@@ -4600,8 +4624,10 @@
 	"básico" {334,5} [es] a f s :basic: [16284]
 "<lo>"
 	"el" {334,6} [es] t.def n sp :the: [74044]
+"<lo>"
+	"el" {334,7} [es] t.def n sp :the: [74044]
 "<necesario>"
-	"necesario" {334,7} [es] a m s :necessary: [79936]
+	"necesario" {334,8} [es] a m s :necessary: [79936]
 "<.>"
 
 "<contéstalo>"
@@ -4613,16 +4639,16 @@
 "<.>"
 
 "<así>"
-	"así" {336,1} [es] b :thus: [13310]
 	"asir" {336,1} [es] v 1s past :take: [13311]
+	"así" {336,1} [es] b :thus: [13310]
 "<hablas>"
-	"habla" {336,2} [es] n f p :speech: [62544]
 	"hablar" {336,2} [es] v 2s pres :talk: [62545]
+	"habla" {336,2} [es] n f p :speech: [62544]
 "<un>"
 	"uno" {336,3} [es] t.ind m s :one: [114969]
 "<poco>"
-	"poco" {336,4} [es] a m s :little: [88065]
 	"poco" {336,4} [es] b :little: [88066]
+	"poco" {336,4} [es] a m s :little: [88065]
 "<.>"
 
 "<hello>"
@@ -4642,7 +4668,7 @@
 "<?>"
 
 "<oh>"
-	"oh" {339,1} [0] oh
+	"oh" {339,1} [en] v infin :oh: [155771]
 "<but>"
 	"but" {339,2} [en] c :but: [73375]
 "<I'm>"
@@ -4767,7 +4793,7 @@
 "<.>"
 
 "<ok>"
-	"ok" {348,1} [0] ok
+	"ok" {348,1} [es] unk
 "<.>"
 
 "<ah>"
@@ -4783,7 +4809,7 @@
 "<.>"
 
 "<uhoh>"
-	"uhoh" {350,1} [0] uhoh
+	"uhoh" {350,1} [en] unk
 "<ya>"
 	"ya" {350,2} [es] b :already: [118038]
 "<empezó>"
@@ -4952,7 +4978,7 @@
 "<I>"
 	"I" {363,13} [en] r.sub 1s :I: [233304]
 "<have>"
-	"have" {363,14} [en] sv infin :have: [118281]
+	"have" {363,14} [en] v 3s pres :have: [118281]
 "<another>"
 	"another" {363,15} [en] a :another: [60052]
 "<friend>"
@@ -4971,7 +4997,7 @@
 	"like" {363,22} [en] sv infin :like: [266767]
 	"like" {363,22} [en] c :like: [135908]
 "<oh>"
-	"oh" {363,23} [0] oh
+	"oh" {363,23} [en] v infin :oh: [155771]
 "<man>"
 	"man" {363,24} [en] n s :man: [139036]
 "<he>"
@@ -5057,7 +5083,7 @@
 "<he>"
 	"he" {370,2} [en] r.sub m 3s :he: [118391]
 "<loves>"
-	"love" {370,3} [en] v infin :love: [137529] # pv
+	"love" {370,3} [en] v 3s pres :love: [137529] # pv
 "<every>"
 	"every" {370,4} [en] a :every: [102933]
 "<woman>"
@@ -5084,8 +5110,8 @@
 	"himself" {372,4} [en] r.refl m 3s :himself: [120185]
 "<a>"
 	"a" {372,5} [en] t.ind :a: [54339]
-"<Beamer>"
-	"Beamer" {372,6} [en] name
+"<beamer>"
+	"beam" {372,6} [en] n s :beam: [66768] # a comp
 "<.>"
 
 "<and>"
@@ -5154,8 +5180,8 @@
 	"be" {378,3} [en] v 3s pres :is: [130029]
 "<a>"
 	"a" {378,4} [en] t.ind :a: [54339]
-"<gigolo>"
-	"gigolo" {378,5} [en] n s :gigolo: [112799]
+"<jigalow>"
+	"jigalow" {378,5} [en] unk
 "<you>"
 	"you" {378,6} [en] r 2sp :you: [1530]
 "<know>"
@@ -5185,9 +5211,9 @@
 "<saw>"
 	"saw" {381,1} [en] n s :saw: [187786]
 "<an>"
-	"an" {381,2} [en] a :an: [59122]
-"<American>"
-	"America" {381,3} [en] as :American: [266747]
+	"a" {381,2} [en] t.ind :an: [59122]
+"<american>"
+	"american" {381,3} [en] unk
 "<film>"
 	"film" {381,4} [en] n s :film: [106532]
 "<.>"
@@ -5280,7 +5306,7 @@
 "<.>"
 
 "<sí>"
-	"sí" {388,1} [es] b :yes: [106505]
+	"sí" {388,1} [en] unk
 "<.>"
 
 "<you>"
@@ -5308,7 +5334,7 @@
 "<I>"
 	"I" {392,1} [en] r.sub 1s :I: [233304]
 "<haven't>"
-	"have" {392,2} [en] sv infin :have: [118281] # neg
+	"have" {392,2} [en] v 3s pres :have: [118281] # neg
 "<moved>"
 	"move" {392,3} [en] v infin :move: [144629] # av
 	"moved" {392,3} [en] av :moved: [262275]
@@ -5341,7 +5367,7 @@
 "<.>"
 
 "<hmm>"
-	"hmm" {394,1} [0] hmm
+	"hmm" {394,1} [es] unk
 "<.>"
 
 "<but>"
@@ -5358,8 +5384,8 @@
 	"the" {395,6} [en] t.def :the: [208089]
 "<street>"
 	"street" {395,7} [en] n s :street: [200523]
-"<any_more>"
-	"any_more" {395,8} [en] b :any_more: [266748]
+"<anymore>"
+	"anymore" {395,8} [en] unk
 "<.>"
 
 "<yeah>"
@@ -5416,7 +5442,7 @@
 "<.>"
 
 "<mmhm>"
-	"mmhm" {400,1} [0] mmhm
+	"mmhm" {400,1} [en] unk
 "<.>"
 
 "<but>"
@@ -5585,8 +5611,8 @@
 "<calle>"
 	"calle" {412,8} [es] n f s :street: [19028]
 "<como>"
-	"como" {412,9} [es] c :like: [24975]
 	"comer" {412,9} [es] v 1s pres :lunch: [24974]
+	"como" {412,9} [es] c :like: [24975]
 "<está>"
 	"estar" {412,10} [es] v 3s pres :be: [53074]
 "<la>"
@@ -5600,15 +5626,15 @@
 "<donde>"
 	"donde" {413,1} [es] l :where: [43930]
 "<quieran>"
-	"querer" {413,2} [es] v 3p imper :want: [93654]
+	"querer" {413,2} [es] v 3p pressubj :want: [93655]
 "<te>"
 	"tú" {413,3} [es] r.obj mf 2s :you: [110987]
 "<roban>"
 	"robar" {413,4} [es] v 3p pres :steal: [103416]
 "<.>"
 
-"<no>"
-	"no" {414,1} [es] b :not: [80465]
+"<no:>"
+	"no:" {414,1} [es] unk
 "<.>"
 
 "<te>"
@@ -5649,8 +5675,8 @@
 "<viste>"
 	"ver" {417,5} [es] v 2s past :see: [117418]
 "<como>"
-	"como" {417,6} [es] c :like: [24975]
 	"comer" {417,6} [es] v 1s pres :lunch: [24974]
+	"como" {417,6} [es] c :like: [24975]
 "<mataron>"
 	"matar" {417,7} [es] v 3p past :kill: [76088]
 "<a>"
@@ -5689,49 +5715,51 @@
 	"pero" {420,1} [es] c :but: [86359]
 "<la>"
 	"el" {420,2} [es] t.def f s :the: [71848]
+"<la>"
+	"el" {420,3} [es] t.def f s :the: [71848]
 "<gente>"
-	"gente" {420,3} [es] n f s :people: [60914]
+	"gente" {420,4} [es] n f s :people: [60914]
 "<que>"
-	"que" {420,4} [es] c :which: [93350]
+	"que" {420,5} [es] c :which: [93350]
 "<vive>"
-	"vivir" {420,5} [es] v 3s pres :live: [117553]
+	"vivir" {420,6} [es] v 3s pres :live: [117553]
 "<aquí>"
-	"aquí" {420,6} [es] b :here: [11385]
+	"aquí" {420,7} [es] b :here: [11385]
 "<en>"
-	"en" {420,7} [es] p :on: [46823]
+	"en" {420,8} [es] p :on: [46823]
 "<Miami_Lakes>"
-	"Miami_Lakes" {420,8} [0] name
+	"Miami_Lakes" {420,9} [0] name
 "<they>"
-	"they" {420,9} [en] r.sub 3p :they: [208421]
+	"they" {420,10} [en] r.sub 3p :they: [208421]
 "<get>"
-	"get" {420,10} [en] v infin :get: [112583]
+	"get" {420,11} [en] v infin :get: [112583]
 "<very>"
-	"very" {420,11} [en] b :very: [229102]
+	"very" {420,12} [en] b :very: [229102]
 "<upset>"
-	"upset" {420,12} [en] v infin :upset: [227767]
+	"upset" {420,13} [en] v infin :upset: [227767]
 "<because>"
-	"because" {420,13} [en] c :because: [66953]
+	"because" {420,14} [en] c :because: [66953]
 "<of>"
-	"of" {420,14} [en] p :of: [155642]
+	"of" {420,15} [en] p :of: [155642]
 "<that>"
-	"that" {420,15} [en] d.far :that: [208076]
-	"that" {420,15} [en] c :that: [266756]
+	"that" {420,16} [en] d.far :that: [208076]
+	"that" {420,16} [en] c :that: [266756]
 "<because>"
-	"because" {420,16} [en] c :because: [66953]
+	"because" {420,17} [en] c :because: [66953]
 "<they>"
-	"they" {420,17} [en] r.sub 3p :they: [208421]
+	"they" {420,18} [es] unk
 "<say>"
-	"say" {420,18} [en] v infin :say: [187831]
+	"say" {420,19} [es] unk
 "<que>"
-	"que" {420,19} [es] c :which: [93350]
+	"que" {420,20} [es] c :which: [93350]
 "<Chilis>"
-	"Chilis" {420,20} [0] name
+	"Chilis" {420,21} [0] name
 "<was>"
-	"be" {420,21} [en] v 13s past :was: [266759]
+	"be" {420,22} [en] v 13s past :was: [266759]
 "<in>"
-	"in" {420,22} [en] p :in: [125165]
+	"in" {420,23} [en] p :in: [125165]
 "<Miami_Lakes>"
-	"Miami_Lakes" {420,23} [0] name
+	"Miami_Lakes" {420,24} [0] name
 "<.>"
 
 "<and>"
@@ -5772,15 +5800,18 @@
 	"be" {424,1} [en] v 3s pres :is: [130029]
 "<not>"
 	"not" {424,2} [en] b :not: [154552]
+"<that>"
+	"that" {424,3} [en] d.far :that: [208076]
+	"that" {424,3} [en] c :that: [266756]
 "<that's>"
-	"that" {424,3} [en] d.far :that: [208076] # +be.v.3s.pres
+	"that" {424,4} [en] d.far :that: [208076] # +be.v.3s.pres
 "<actually>"
-	"actual" {424,4} [en] b :actual: [55812] # adv
-	"actually" {424,4} [en] b :actually: [55829]
+	"actual" {424,5} [en] b :actual: [55812] # adv
+	"actually" {424,5} [en] b :actually: [55829]
 "<unincorporated>"
-	"unincorporated" {424,5} [en] av :unincorporated: [220415]
+	"unincorporated" {424,6} [en] av :unincorporated: [220415]
 "<Dade_County>"
-	"Dade_County" {424,6} [0] name
+	"Dade_County" {424,7} [0] name
 "<.>"
 
 "<that's>"
@@ -5815,8 +5846,8 @@
 	"no" {428,3} [en] b :no: [147286]
 "<that's>"
 	"that" {428,4} [en] d.far :that: [208076] # +be.v.3s.pres
-"<incorporated>"
-	"incorporated" {428,5} [en] av :incorporated: [125741]
+"<incoroporated>"
+	"incoroporated" {428,5} [en] unk
 "<Dade_County>"
 	"Dade_County" {428,6} [0] name
 "<that's>"
@@ -5896,8 +5927,8 @@
 
 "<the>"
 	"the" {436,1} [en] t.def :the: [208089]
-"<subdivision>"
-	"subdivision" {436,2} [en] n s :subdivision: [201573]
+"<subdivission>"
+	"subdivission" {436,2} [en] unk
 "<was>"
 	"be" {436,3} [en] v 13s past :was: [266759]
 "<Miami_Lakes>"
@@ -5984,11 +6015,11 @@
 "<they>"
 	"they" {440,11} [en] r.sub 3p :they: [208421]
 "<don't>"
-	"do" {440,12} [en] v 12s13p pres :do: [95732] # neg
+	"do" {440,12} [en] v 3p pres :do: [95732] # neg
 "<they>"
 	"they" {440,13} [en] r.sub 3p :they: [208421]
 "<have>"
-	"have" {440,14} [en] sv infin :have: [118281]
+	"have" {440,14} [en] v 3s pres :have: [118281]
 "<a>"
 	"a" {440,15} [en] t.ind :a: [54339]
 "<name>"
@@ -6014,7 +6045,7 @@
 "<.>"
 
 "<ok>"
-	"ok" {444,1} [0] ok
+	"ok" {444,1} [es] unk
 "<.>"
 
 "<Carol_city>"
@@ -6044,7 +6075,7 @@
 "<.>"
 
 "<ok>"
-	"ok" {447,1} [0] ok
+	"ok" {447,1} [en] unk
 "<like>"
 	"like" {447,2} [en] sv infin :like: [266767]
 	"like" {447,2} [en] c :like: [135908]
@@ -6055,8 +6086,8 @@
 "<.>"
 
 "<como>"
-	"como" {448,1} [es] c :like: [24975]
 	"comer" {448,1} [es] v 1s pres :lunch: [24974]
+	"como" {448,1} [es] c :like: [24975]
 "<Miami>"
 	"Miami" {448,2} [0] name
 "<like>"
@@ -6071,7 +6102,7 @@
 "<ah>"
 	"ah" {449,1} [0] ah
 "<ok>"
-	"ok" {449,2} [0] ok
+	"ok" {449,2} [en] unk
 "<.>"
 
 "<right>"
@@ -6117,8 +6148,8 @@
 	"Miami_Lakes" {454,3} [0] name
 "<.>"
 
-"<Navarro>"
-	"Navarro" {455,1} [0] name
+"<navarro>"
+	"navarro" {455,1} [0] navarro
 "<.>"
 
 "<er>"
@@ -6136,9 +6167,9 @@
 "<eso>"
 	"eso" {456,7} [es] r.dem n s :that: [52287]
 "<para>"
-	"para" {456,8} [es] p :for: [84046]
 	"parar" {456,8} [es] v 2s imper :stall: [84047]
 	"parar" {456,8} [es] v 3s pres :stall: [84048]
+	"para" {456,8} [es] p :for: [84046]
 "<allá>"
 	"allá" {456,9} [es] b :there: [7428]
 "<es>"
@@ -6227,7 +6258,7 @@
 "<.>"
 
 "<ok>"
-	"ok" {464,1} [0] ok
+	"ok" {464,1} [es] unk
 "<.>"
 
 "<eso>"
@@ -6274,16 +6305,16 @@
 "<el>"
 	"el" {465,21} [es] t.def m s :the: [45129]
 "<para>"
-	"para" {465,22} [es] p :for: [84046]
 	"parar" {465,22} [es] v 2s imper :stall: [84047]
 	"parar" {465,22} [es] v 3s pres :stall: [84048]
+	"para" {465,22} [es] p :for: [84046]
 "<allá>"
 	"allá" {465,23} [es] b :there: [7428]
 "<.>"
 
 "<así>"
-	"así" {466,1} [es] b :thus: [13310]
 	"asir" {466,1} [es] v 1s past :take: [13311]
+	"así" {466,1} [es] b :thus: [13310]
 "<que>"
 	"que" {466,2} [es] c :which: [93350]
 "<esto>"
@@ -6308,8 +6339,8 @@
 	"que" {467,1} [es] c :which: [93350]
 "<.>"
 
-"<que>"
-	"que" {468,1} [es] c :which: [93350]
+"<que:>"
+	"que:" {468,1} [es] unk
 "<.>"
 
 "<y>"
@@ -6343,11 +6374,11 @@
 "<más>"
 	"más" {470,7} [es] b :more: [75889]
 "<cerca>"
-	"cerca" {470,8} [es] n f s :wall: [21672]
-	"cerca" {470,8} [es] p :wall: [21673]
-	"cerca" {470,8} [es] b :wall: [21671]
 	"cercar" {470,8} [es] v 2s imper :hover: [21674]
 	"cercar" {470,8} [es] v 3s pres :hover: [21675]
+	"cerca" {470,8} [es] b :wall: [21671]
+	"cerca" {470,8} [es] p :wall: [21673]
+	"cerca" {470,8} [es] n f s :wall: [21672]
 "<a>"
 	"a" {470,9} [es] p :to: [1]
 "<donde>"
@@ -6421,13 +6452,13 @@
 "<.>"
 
 "<sales>"
-	"sal" {475,1} [es] n f p :salt: [104416]
 	"salir" {475,1} [es] v 2s pres :exit: [104417]
+	"sal" {475,1} [es] n f p :salt: [104416]
 "<a>"
 	"a" {475,2} [es] p :to: [1]
 "<sales>"
-	"sal" {475,3} [es] n f p :salt: [104416]
 	"salir" {475,3} [es] v 2s pres :exit: [104417]
+	"sal" {475,3} [es] n f p :salt: [104416]
 "<a>"
 	"a" {475,4} [es] p :to: [1]
 "<Hyaleah>"
@@ -6475,8 +6506,8 @@
 "<tres>"
 	"tres" {478,9} [es] n m :three: [114264]
 "<cero>"
-	"cero" {478,10} [es] n m s :zero: [21744]
 	"cero" {478,10} [es] n m :zero: [21745]
+	"cero" {478,10} [es] n m s :zero: [21744]
 "<cuatro>"
 	"cuatro" {478,11} [es] n m :four: [32440]
 "<.>"
@@ -6486,11 +6517,10 @@
 "<tres>"
 	"tres" {479,2} [es] n m :three: [114264]
 "<cero>"
-	"cero" {479,3} [es] n m s :zero: [21744]
 	"cero" {479,3} [es] n m :zero: [21745]
+	"cero" {479,3} [es] n m s :zero: [21744]
 "<uno>"
 	"uno" {479,4} [es] r m s :one: [115154]
-	"unir" {479,4} [es] v 1s pres :unite: [115153]
 "<cuatro>"
 	"cuatro" {479,5} [es] n m :four: [32440]
 "<.>"
@@ -6505,7 +6535,6 @@
 	"tres" {480,4} [es] n m :three: [114264]
 "<uno>"
 	"uno" {480,5} [es] r m s :one: [115154]
-	"unir" {480,5} [es] v 1s pres :unite: [115153]
 "<cuatro>"
 	"cuatro" {480,6} [es] n m :four: [32440]
 "<coge>"
@@ -6544,11 +6573,10 @@
 "<tres>"
 	"tres" {481,11} [es] n m :three: [114264]
 "<cero>"
-	"cero" {481,12} [es] n m s :zero: [21744]
 	"cero" {481,12} [es] n m :zero: [21745]
+	"cero" {481,12} [es] n m s :zero: [21744]
 "<uno>"
 	"uno" {481,13} [es] r m s :one: [115154]
-	"unir" {481,13} [es] v 1s pres :unite: [115153]
 "<cuatro>"
 	"cuatro" {481,14} [es] n m :four: [32440]
 "<va>"
@@ -6622,7 +6650,7 @@
 "<them>"
 	"them" {485,18} [en] r.obj 3p :them: [208145]
 "<an>"
-	"an" {485,19} [en] a :an: [59122]
+	"a" {485,19} [en] t.ind :an: [59122]
 "<address>"
 	"address" {485,20} [en] n s :address: [55976]
 "<and>"
@@ -6649,7 +6677,7 @@
 "<and>"
 	"and" {485,31} [en] c :and: [59482]
 "<ok>"
-	"ok" {485,32} [0] ok
+	"ok" {485,32} [en] unk
 "<Hyaleah>"
 "<er>"
 	"er" {486,1} [0] er
@@ -6670,7 +6698,7 @@
 "<they>"
 	"they" {488,4} [en] r.sub 3p :they: [208421]
 "<don't>"
-	"do" {488,5} [en] v 12s13p pres :do: [95732] # neg
+	"do" {488,5} [en] v 3p pres :do: [95732] # neg
 "<know>"
 	"know" {488,6} [en] v infin :know: [132897]
 "<where>"
@@ -6686,7 +6714,7 @@
 "<they>"
 	"they" {488,12} [en] r.sub 3p :they: [208421]
 "<don't>"
-	"do" {488,13} [en] v 12s13p pres :do: [95732] # neg
+	"do" {488,13} [en] v 3p pres :do: [95732] # neg
 "<know>"
 	"know" {488,14} [en] v infin :know: [132897]
 "<where>"
@@ -6773,12 +6801,14 @@
 	"parte" {491,15} [es] n f s :part: [84454]
 "<del>"
 	"del" {491,16} [es] p+t m s :of_the: [132993]
-"<post>"
-	"post" {491,17} [en] n s :post: [168775]
 "<del>"
-	"del" {491,18} [es] p+t m s :of_the: [132993]
+	"del" {491,17} [es] p+t m s :of_the: [132993]
+"<post>"
+	"post" {491,18} [en] n s :post: [168775]
+"<del>"
+	"del" {491,19} [es] p+t m s :of_the: [132993]
 "<correo>"
-	"correo" {491,19} [es] n m s :post: [30902]
+	"correo" {491,20} [es] n m s :post: [30902]
 "<.>"
 
 "<mmhm>"
@@ -6788,8 +6818,8 @@
 "<ellos>"
 	"él" {493,1} [es] r.sub m 3p :they: [45498]
 "<son>"
-	"son" {493,2} [es] n m s :sound: [107978]
 	"ser" {493,2} [es] v 3p pres :be: [107977]
+	"son" {493,2} [es] n m s :sound: [107978]
 "<los>"
 	"el" {493,3} [es] t.def m p :the: [74279]
 "<que>"
@@ -6847,11 +6877,10 @@
 "<tres>"
 	"tres" {495,8} [es] n m :three: [114264]
 "<cero>"
-	"cero" {495,9} [es] n m s :zero: [21744]
 	"cero" {495,9} [es] n m :zero: [21745]
+	"cero" {495,9} [es] n m s :zero: [21744]
 "<uno>"
 	"uno" {495,10} [es] r m s :one: [115154]
-	"unir" {495,10} [es] v 1s pres :unite: [115153]
 "<cuatro>"
 	"cuatro" {495,11} [es] n m :four: [32440]
 "<va>"
@@ -6919,7 +6948,7 @@
 "<.>"
 
 "<ok>"
-	"ok" {496,1} [0] ok
+	"ok" {496,1} [en] unk
 "<.>"
 
 "<right>"
@@ -6941,11 +6970,10 @@
 "<tres>"
 	"tres" {498,7} [es] n m :three: [114264]
 "<cero>"
-	"cero" {498,8} [es] n m s :zero: [21744]
 	"cero" {498,8} [es] n m :zero: [21745]
+	"cero" {498,8} [es] n m s :zero: [21744]
 "<uno>"
 	"uno" {498,9} [es] r m s :one: [115154]
-	"unir" {498,9} [es] v 1s pres :unite: [115153]
 "<cuatro>"
 	"cuatro" {498,10} [es] n m :four: [32440]
 "<eso>"
@@ -6958,15 +6986,13 @@
 	"tres" {498,14} [es] n m :three: [114264]
 "<uno>"
 	"uno" {498,15} [es] r m s :one: [115154]
-	"unir" {498,15} [es] v 1s pres :unite: [115153]
 "<cero>"
-	"cero" {498,16} [es] n m s :zero: [21744]
 	"cero" {498,16} [es] n m :zero: [21745]
+	"cero" {498,16} [es] n m s :zero: [21744]
 "<cinco>"
 	"cinco" {498,17} [es] n m :five: [22532]
 "<uno>"
 	"uno" {498,18} [es] r m s :one: [115154]
-	"unir" {498,18} [es] v 1s pres :unite: [115153]
 "<quince>"
 	"quince" {498,19} [es] n m :fifteen: [93690]
 "<.>"
@@ -7009,17 +7035,17 @@
 "<que>"
 	"que" {501,11} [es] c :which: [93350]
 "<sea>"
-	"ser" {501,12} [es] v 3s imper :be: [105073]
+	"ser" {501,12} [es] v 1s pressubj :be: [105072]
+	"ser" {501,12} [es] v 3s pressubj :be: [105074]
 "<tres>"
 	"tres" {501,13} [es] n m :three: [114264]
 "<tres>"
 	"tres" {501,14} [es] n m :three: [114264]
 "<cero>"
-	"cero" {501,15} [es] n m s :zero: [21744]
 	"cero" {501,15} [es] n m :zero: [21745]
+	"cero" {501,15} [es] n m s :zero: [21744]
 "<uno>"
 	"uno" {501,16} [es] r m s :one: [115154]
-	"unir" {501,16} [es] v 1s pres :unite: [115153]
 "<cuatro>"
 	"cuatro" {501,17} [es] n m :four: [32440]
 "<porque>"
@@ -7118,8 +7144,8 @@
 
 "<.>"
 
-"<er>"
-	"er" {508,1} [0] er
+"<er:>"
+	"er:" {508,1} [0] er:
 "<pero>"
 	"pero" {508,2} [es] c :but: [86359]
 "<bueno>"
@@ -7140,12 +7166,8 @@
 	"para" {509,6} [es] p :for: [84046]
 "<el>"
 	"el" {509,7} [es] t.def m s :the: [45129]
-"<W>"
-	"W" {509,8} [0] name
-"<ten>"
-	"ten" {509,9} [en] n s :ten: [207425]
-"<forty>"
-	"forty" {509,10} [en] n s :forty: [109286]
+"<W_ten_forty>"
+	"W_ten_forty" {509,8} [en] name
 "<.>"
 
 "<sabes>"
@@ -7154,10 +7176,8 @@
 	"ser" {510,2} [es] v 3s pres :be: [51318]
 "<la>"
 	"el" {510,3} [es] t.def f s :the: [71848]
-"<ten>"
-	"ten" {510,4} [en] n s :ten: [207425]
-"<forty>"
-	"forty" {510,5} [en] n s :forty: [109286]
+"<ten_forty>"
+	"ten_forty" {510,4} [en] unk
 "<.>"
 
 "<.>"
@@ -7197,7 +7217,7 @@
 "<que>"
 	"que" {514,2} [es] c :which: [93350]
 "<sepan>"
-	"saber" {514,3} [es] v 3p imper :know: [106079]
+	"saber" {514,3} [es] v 3p pressubj :know: [106080]
 "<.>"
 
 "<sí>"
@@ -7209,7 +7229,7 @@
 "<que>"
 	"que" {516,2} [es] c :which: [93350]
 "<puedan>"
-	"poder" {516,3} [es] v 3p imper :might: [92993]
+	"poder" {516,3} [es] v 3p pressubj :might: [92994]
 "<entonces>"
 	"entonces" {516,4} [es] b :then: [49711]
 "<mandarles>"
@@ -7229,7 +7249,7 @@
 "<le>"
 	"él" {517,3} [es] r.ind mf 23s :to_him: [72355]
 "<den>"
-	"dar" {517,4} [es] v 3p imper :give: [35056]
+	"dar" {517,4} [es] v 3p pressubj :give: [35057]
 "<los>"
 	"el" {517,5} [es] t.def m p :the: [74279]
 "<quinientos>"
@@ -7243,28 +7263,20 @@
 "<sí>"
 	"sí" {518,1} [es] r.p mf 3s :himself: [106504]
 "<son>"
-	"son" {518,2} [es] n m s :sound: [107978]
 	"ser" {518,2} [es] v 3p pres :be: [107977]
+	"son" {518,2} [es] n m s :sound: [107978]
 "<las>"
 	"el" {518,3} [es] t.def f p :the: [72243]
-"<ten>"
-	"ten" {518,4} [en] n s :ten: [207425]
-"<forty>"
-	"forty" {518,5} [en] n s :forty: [109286]
+"<ten_forty>"
+	"ten_forty" {518,4} [en] unk
 "<or>"
-	"or" {518,6} [en] n s :or: [156606]
-"<ten>"
-	"ten" {518,7} [en] n s :ten: [207425]
-"<ninety>"
-	"ninety" {518,8} [en] n s :ninety: [147150]
-"<nine>"
-	"nine" {518,9} [en] n s :nine: [147136]
+	"or" {518,5} [en] n s :or: [156606]
+"<ten_ninety_nine>"
+	"ten_ninety_nine" {518,6} [en] unk
 "<?>"
 
-"<ten>"
-	"ten" {519,1} [en] n s :ten: [207425]
-"<forty>"
-	"forty" {519,2} [en] n s :forty: [109286]
+"<ten_forty>"
+	"ten_forty" {519,1} [en] unk
 "<.>"
 
 "<yo>"
@@ -7386,9 +7398,9 @@
 "<algo>"
 	"algo" {529,4} [es] r m s :something: [7109]
 "<arriba>"
-	"arriba" {529,5} [es] b :upward: [12347]
 	"arribar" {529,5} [es] v 2s imper :arrive: [12348]
 	"arribar" {529,5} [es] v 3s pres :arrive: [12349]
+	"arriba" {529,5} [es] b :upward: [12347]
 "<de>"
 	"de" {529,6} [es] p :of: [33387]
 "<la>"
@@ -7400,15 +7412,15 @@
 "<que>"
 	"que" {529,10} [es] c :which: [93350]
 "<sepan>"
-	"saber" {529,11} [es] v 3p imper :know: [106079]
+	"saber" {529,11} [es] v 3p pressubj :know: [106080]
 "<que>"
 	"que" {529,12} [es] c :which: [93350]
 "<es>"
 	"ser" {529,13} [es] v 3s pres :be: [51318]
 "<para>"
-	"para" {529,14} [es] p :for: [84046]
 	"parar" {529,14} [es] v 2s imper :stall: [84047]
 	"parar" {529,14} [es] v 3s pres :stall: [84048]
+	"para" {529,14} [es] p :for: [84046]
 "<eso>"
 	"eso" {529,15} [es] r.dem n s :that: [52287]
 "<.>"
@@ -7458,7 +7470,7 @@
 "<oh>"
 	"oh" {533,1} [0] oh
 "<ok>"
-	"ok" {533,2} [0] ok
+	"ok" {533,2} [es] unk
 "<.>"
 
 "<ella>"
@@ -7466,7 +7478,7 @@
 "<es>"
 	"ser" {534,2} [es] v 3s pres :be: [51318]
 "<an>"
-	"an" {534,3} [en] a :an: [59122]
+	"a" {534,3} [en] t.ind :an: [59122]
 "<accountant>"
 	"accountant" {534,4} [en] n s :accountant: [55178]
 "<.>"
@@ -7504,8 +7516,8 @@
 "<la>"
 	"el" {536,8} [es] t.def f s :the: [71848]
 "<prima>"
-	"primo" {536,9} [es] n f s :prime: [90750]
 	"prima" {536,9} [es] n f s :premium: [90746]
+	"primo" {536,9} [es] n f s :prime: [90750]
 "<de>"
 	"de" {536,10} [es] p :of: [33387]
 "<Manuel>"
@@ -7588,7 +7600,7 @@
 "<un>"
 	"uno" {539,6} [es] t.ind m s :one: [114969]
 "<chance>"
-	"chance" {539,7} [en] n s :chance: [77451]
+	"chance" {539,7} [es] unk
 "<hazme>"
 	"hacer" {539,8} [es] v 2s imper :take: [62840] + me[prn.mf.1s]
 "<una>"
@@ -7597,8 +7609,8 @@
 	"copia" {539,10} [es] n f s :copy: [30621]
 "<.>"
 
-"<de>"
-	"de" {540,1} [es] p :of: [33387]
+"<de:>"
+	"de:" {540,1} [es] unk
 "<cómo>"
 	"cómo" {540,2} [es] interr :how: [24977]
 "<se>"
@@ -7672,7 +7684,7 @@
 "<.>"
 
 "<ok>"
-	"ok" {544,1} [0] ok
+	"ok" {544,1} [es] unk
 "<.>"
 
 "<yo>"
@@ -7684,8 +7696,8 @@
 "<hago>"
 	"hacer" {545,4} [es] v 1s pres :take: [62663]
 "<mañana>"
-	"mañana" {545,5} [es] n f s :tomorrow: [75075]
 	"mañana" {545,5} [es] b :tomorrow: [75074]
+	"mañana" {545,5} [es] n f s :tomorrow: [75075]
 "<en>"
 	"en" {545,6} [es] p :on: [46823]
 "<el>"
@@ -7700,7 +7712,6 @@
 	"yo" {546,2} [es] r.sub mf 1s :I: [118066]
 "<sé>"
 	"saber" {546,3} [es] v 1s pres :know: [105070]
-	"ser" {546,3} [es] v 2s imper :be: [105071]
 "<que>"
 	"que" {546,4} [es] c :which: [93350]
 "<le>"
@@ -7715,7 +7726,6 @@
 	"yo" {547,2} [es] r.sub mf 1s :I: [118066]
 "<sé>"
 	"saber" {547,3} [es] v 1s pres :know: [105070]
-	"ser" {547,3} [es] v 2s imper :be: [105071]
 "<que>"
 	"que" {547,4} [es] c :which: [93350]
 "<hay>"
@@ -7727,9 +7737,9 @@
 "<algo>"
 	"algo" {547,8} [es] r m s :something: [7109]
 "<arriba>"
-	"arriba" {547,9} [es] b :upward: [12347]
 	"arribar" {547,9} [es] v 2s imper :arrive: [12348]
 	"arribar" {547,9} [es] v 3s pres :arrive: [12349]
+	"arriba" {547,9} [es] b :upward: [12347]
 "<en>"
 	"en" {547,10} [es] p :on: [46823]
 "<la>"
@@ -7782,9 +7792,9 @@
 "<eso>"
 	"eso" {549,12} [es] r.dem n s :that: [52287]
 "<arriba>"
-	"arriba" {549,13} [es] b :upward: [12347]
 	"arribar" {549,13} [es] v 2s imper :arrive: [12348]
 	"arribar" {549,13} [es] v 3s pres :arrive: [12349]
+	"arriba" {549,13} [es] b :upward: [12347]
 "<porque>"
 	"porque" {549,14} [es] c :because: [88571]
 "<si>"
@@ -7800,8 +7810,8 @@
 "<es>"
 	"ser" {551,1} [es] v 3s pres :be: [51318]
 "<igual>"
-	"igual" {551,2} [es] a m s :equal: [64856]
 	"igual" {551,2} [es] b :equal: [64857]
+	"igual" {551,2} [es] a m s :equal: [64856]
 "<que>"
 	"que" {551,3} [es] c :which: [93350]
 "<cuando>"
@@ -7833,32 +7843,28 @@
 	"poner" {553,3} [es] v infin :set: [88400]
 "<el>"
 	"el" {553,4} [es] t.def m s :the: [45129]
-"<ten>"
-	"ten" {553,5} [en] n s :ten: [207425]
-"<ninety>"
-	"ninety" {553,6} [en] n s :ninety: [147150]
-"<nine>"
-	"nine" {553,7} [en] n s :nine: [147136]
+"<ten_ninety_nine>"
+	"ten_ninety_nine" {553,5} [en] unk
 "<con>"
-	"con" {553,8} [es] p :with: [132994]
+	"con" {553,6} [es] p :with: [132994]
 "<el>"
-	"el" {553,9} [es] t.def m s :the: [45129]
+	"el" {553,7} [es] t.def m s :the: [45129]
 "<número>"
-	"número" {553,10} [es] n m s :numeral: [81017]
+	"número" {553,8} [es] n m s :numeral: [81017]
 "<de>"
-	"de" {553,11} [es] p :of: [33387]
+	"de" {553,9} [es] p :of: [33387]
 "<social>"
-	"social" {553,12} [en] a :social: [195869]
+	"social" {553,10} [en] a :social: [195869]
 "<security>"
-	"security" {553,13} [en] n s :security: [189341]
+	"security" {553,11} [en] n s :security: [189341]
 "<y>"
-	"y" {553,14} [es] c :and: [118037]
+	"y" {553,12} [en] unk
 "<toda>"
-	"todo" {553,15} [es] a f s :all: [112474]
+	"todo" {553,13} [es] a f s :all: [112474]
 "<esa>"
-	"ese" {553,16} [es] a.dem f s :that: [51319]
+	"ese" {553,14} [es] a.dem f s :that: [51319]
 "<cosa>"
-	"cosa" {553,17} [es] n f s :thing: [31131]
+	"cosa" {553,15} [es] n f s :thing: [31131]
 "<.>"
 
 "<que>"
@@ -7886,7 +7892,7 @@
 "<lo>"
 	"él" {554,12} [es] r.obj m 3s :him: [74045]
 "<acepten>"
-	"aceptar" {554,13} [es] v 3p imper :accept: [2155]
+	"aceptar" {554,13} [es] v 3p pressubj :accept: [2156]
 "<si>"
 	"si" {554,14} [es] c :whether: [106503]
 "<no>"
@@ -7932,8 +7938,8 @@
 "<falta>"
 	"faltar" {557,4} [es] v 3s pres :: [57295]
 "<poco>"
-	"poco" {557,5} [es] a m s :little: [88065]
 	"poco" {557,5} [es] b :little: [88066]
+	"poco" {557,5} [es] a m s :little: [88065]
 "<para>"
 	"para" {557,6} [es] p :for: [84046]
 "<que>"
@@ -7941,7 +7947,7 @@
 "<se>"
 	"se" {557,8} [es] r.ref mf 3sp :self: [105069]
 "<acaben>"
-	"acabar" {557,9} [es] v 3p imper :finish: [1608]
+	"acabar" {557,9} [es] v 3p pressubj :finish: [1609]
 "<los>"
 	"el" {557,10} [es] t.def m p :the: [74279]
 "<treinta>"
@@ -8008,8 +8014,8 @@
 "<ya>"
 	"ya" {561,8} [es] b :already: [118038]
 "<mañana>"
-	"mañana" {561,9} [es] n f s :tomorrow: [75075]
 	"mañana" {561,9} [es] b :tomorrow: [75074]
+	"mañana" {561,9} [es] n f s :tomorrow: [75075]
 "<hay>"
 	"hay" {561,10} [es] v 3s pres :: [62833]
 "<que>"
@@ -8025,7 +8031,7 @@
 "<mmhm>"
 	"mmhm" {562,1} [0] mmhm
 "<sí>"
-	"sí" {562,2} [es] b :yes: [106505]
+	"sí" {562,2} [en] unk
 "<.>"
 
 "<hay>"
@@ -8058,7 +8064,6 @@
 	"yo" {565,5} [es] r.sub m 1p :we: [80719]
 "<fuimos>"
 	"ir" {565,6} [es] v 1p past :go: [59787]
-	"ser" {565,6} [es] v 1p past :be: [59788]
 "<a>"
 	"a" {565,7} [es] p :to: [1]
 "<Bass>"
@@ -8085,7 +8090,7 @@
 "<ah>"
 	"ah" {569,1} [0] ah
 "<ok>"
-	"ok" {569,2} [0] ok
+	"ok" {569,2} [en] unk
 "<.>"
 
 "<allá>"
@@ -8094,10 +8099,12 @@
 	"en" {570,2} [es] p :on: [46823]
 "<Grifeny>"
 	"Grifeny" {570,3} [0] name
-"<ninety>"
-	"ninety" {570,4} [en] n s :ninety: [147150]
-"<five>"
-	"five" {570,5} [en] n s :five: [107121]
+"<y>"
+	"y" {570,4} [es] c :and: [118037]
+"<I>"
+	"I" {570,5} [es] name
+"<ninety_five>"
+	"ninety_five" {570,6} [en] unk
 "<.>"
 
 "<eso>"
@@ -8146,7 +8153,6 @@
 	"y" {573,4} [es] c :and: [118037]
 "<fuimos>"
 	"ir" {573,5} [es] v 1p past :go: [59787]
-	"ser" {573,5} [es] v 1p past :be: [59788]
 "<a>"
 	"a" {573,6} [es] p :to: [1]
 "<county>"
@@ -8158,7 +8164,7 @@
 "<los>"
 	"el" {573,10} [es] t.def m p :the: [74279]
 "<campers>"
-	"campers" {573,11} [0] campers
+	"campers" {573,11} [es] unk
 "<.>"
 
 "<mmhm>"
@@ -8179,7 +8185,6 @@
 	"buscar" {575,6} [es] v prespart :seek: [18338]
 "<uno>"
 	"uno" {575,7} [es] r m s :one: [115154]
-	"unir" {575,7} [es] v 1s pres :unite: [115153]
 "<más>"
 	"más" {575,8} [es] b :more: [75889]
 "<grande>"
@@ -8213,8 +8218,8 @@
 	"que" {577,7} [es] c :which: [93350]
 "<hay>"
 	"hay" {577,8} [es] v 3s pres :: [62833]
-"<er>"
-	"er" {577,9} [0] er
+"<er:>"
+	"er:" {577,9} [0] er:
 "<university>"
 	"university" {577,10} [en] n s :university: [220910]
 "<and>"
@@ -8226,19 +8231,19 @@
 "<.>"
 
 "<ok>"
-	"ok" {578,1} [0] ok
+	"ok" {578,1} [es] unk
 "<.>"
 
 "<I>"
-	"I" {579,1} [en] r.sub 1s :I: [233304]
+	"I" {579,1} [es] name
 "<know>"
-	"know" {579,2} [en] v infin :know: [132897]
+	"know" {579,2} [es] unk
 "<where>"
-	"where" {579,3} [en] w :where: [232568]
+	"where" {579,3} [es] unk
 "<that>"
-	"that" {579,4} [en] d.far :that: [208076]
+	"that" {579,4} [es] unk
 "<is>"
-	"be" {579,5} [en] v 3s pres :is: [130029]
+	"is" {579,5} [es] unk
 "<.>"
 
 "<allá>"
@@ -8295,13 +8300,13 @@
 	"the" {585,3} [en] t.def :the: [208089]
 "<whole>"
 	"whole" {585,4} [en] a :whole: [232950]
-"<barbecue>"
-	"barbecue" {585,5} [en] n s :barbecue: [65847]
+"<barbacue>"
+	"barbacue" {585,5} [en] unk
 "<smoked>"
 	"smoke" {585,6} [en] n s :smoke: [195308] # av
 	"smoked" {585,6} [en] av :smoked: [265084]
-"<barbecue>"
-	"barbecue" {585,7} [en] n s :barbecue: [65847]
+"<barbacue>"
+	"barbacue" {585,7} [en] unk
 "<so>"
 	"so" {585,8} [en] b :so: [195801]
 "<.>"
@@ -8317,7 +8322,7 @@
 "<.>"
 
 "<oh>"
-	"oh" {588,1} [0] oh
+	"oh" {588,1} [en] v infin :oh: [155771]
 "<that's>"
 	"that" {588,2} [en] d.far :that: [208076] # +be.v.3s.pres
 "<good>"
@@ -8402,14 +8407,16 @@
 	"say" {593,2} [en] av past+p :said: [266763]
 "<I'll>"
 	"I" {593,3} [en] r.sub 1s :I: [233304] # be.v.fut
+"<I'll>"
+	"I" {593,4} [en] r.sub 1s :I: [233304] # be.v.fut
 "<have>"
-	"have" {593,4} [en] sv infin :have: [118281]
+	"have" {593,5} [en] v 3s pres :have: [118281]
 "<them>"
-	"them" {593,5} [en] r.obj 3p :them: [208145]
+	"them" {593,6} [en] r.obj 3p :them: [208145]
 "<for>"
-	"for" {593,6} [en] p :for: [108682]
+	"for" {593,7} [en] p :for: [108682]
 "<dinner>"
-	"dinner" {593,7} [en] n s :dinner: [93827]
+	"dinner" {593,8} [en] n s :dinner: [93827]
 "<.>"
 
 "<so>"
@@ -8525,7 +8532,7 @@
 "<we>"
 	"we" {600,11} [en] r.sub 1p :we: [231192]
 "<haven't>"
-	"have" {600,12} [en] sv infin :have: [118281] # neg
+	"have" {600,12} [en] v 3s pres :have: [118281] # neg
 "<eaten>"
 	"eaten" {600,13} [en] v infin :eaten: [98378]
 "<anything>"
@@ -8566,6 +8573,8 @@
 	"yeah" {603,2} [en] b :yeah: [1311]
 "<.>"
 
+"<cough>"
+	"cough" {604,1} [es] unk
 "<.>"
 
 "<and>"
@@ -8603,7 +8612,7 @@
 "<.>"
 
 "<sí>"
-	"sí" {608,1} [es] b :yes: [106505]
+	"sí" {608,1} [en] unk
 "<.>"
 
 "<the>"
@@ -8703,17 +8712,20 @@
 "<that>"
 	"that" {617,4} [en] d.far :that: [208076]
 	"that" {617,4} [en] c :that: [266756]
+"<that>"
+	"that" {617,5} [en] d.far :that: [208076]
+	"that" {617,5} [en] c :that: [266756]
 "<Saint>"
-	"Saint" {617,5} [en] name
+	"Saint" {617,6} [en] name
 "<Thomas>"
-	"Thomas" {617,6} [en] name
+	"Thomas" {617,7} [en] name
 "<started>"
-	"start" {617,7} [en] v infin :start: [199027] # av
+	"start" {617,8} [en] v infin :start: [199027] # av
 "<too>"
-	"too" {617,8} [en] b :too: [209946]
+	"too" {617,9} [en] b :too: [209946]
 "<early>"
-	"ear" {617,9} [en] n s :ear: [98196] # adv
-	"early" {617,9} [en] a :early: [98230]
+	"ear" {617,10} [en] n s :ear: [98196] # adv
+	"early" {617,10} [en] a :early: [98230]
 "<.>"
 
 "<they>"
@@ -8728,9 +8740,9 @@
 "<.>"
 
 "<tú>"
-	"tú" {619,1} [es] r.sub mf 2s :you: [114747]
+	"tú" {619,1} [en] unk
 "<sabes>"
-	"saber" {619,2} [es] v 2s pres :know: [104090]
+	"sabes" {619,2} [en] unk
 "<.>"
 
 "<so>"
@@ -8775,8 +8787,8 @@
 	"would" {621,8} [en] v 123sp cond :be: [902]
 "<be>"
 	"be" {621,9} [en] v infin :be: [66699]
-"<atrocious>"
-	"atrocious" {621,10} [en] a :atrocious: [63757]
+"<attrotious>"
+	"attrotious" {621,10} [en] unk
 "<for>"
 	"for" {621,11} [en] p :for: [108682]
 "<Miami>"
@@ -9124,8 +9136,8 @@
 	"the" {647,10} [en] t.def :the: [208089]
 "<kids>"
 	"kid" {647,11} [en] n p :kid: [132290] #
-"<any_more>"
-	"any_more" {647,12} [en] b :any_more: [266748]
+"<anymore>"
+	"anymore" {647,12} [en] unk
 "<you>"
 	"you" {647,13} [en] r 2sp :you: [1530]
 "<got>"
@@ -9135,7 +9147,7 @@
 "<have>"
 	"have" {647,16} [en] sv infin :have: [118281]
 "<an>"
-	"an" {647,17} [en] a :an: [59122]
+	"a" {647,17} [en] t.ind :an: [59122]
 "<adult>"
 	"adult" {647,18} [en] a :adult: [56301]
 "<that>"
@@ -9344,7 +9356,7 @@
 "<they>"
 	"they" {659,3} [en] r.sub 3p :they: [208421]
 "<have>"
-	"have" {659,4} [en] sv infin :have: [118281]
+	"have" {659,4} [en] v 3s pres :have: [118281]
 "<to>"
 	"to" {659,5} [en] p :to: [209592]
 "<go>"
@@ -9366,8 +9378,8 @@
 "<sabes>"
 	"saber" {660,2} [es] v 2s pres :know: [104090]
 "<algunos>"
-	"alguno" {660,3} [es] a m p :some: [7128]
 	"alguno" {660,3} [es] r m p :some: [7129]
+	"alguno" {660,3} [es] a m p :some: [7128]
 "<de>"
 	"de" {660,4} [es] p :of: [33387]
 "<los>"
@@ -9391,13 +9403,13 @@
 "<no>"
 	"no" {660,14} [es] b :not: [80465]
 "<son>"
-	"son" {660,15} [es] n m s :sound: [107978]
 	"ser" {660,15} [es] v 3p pres :be: [107977]
+	"son" {660,15} [es] n m s :sound: [107978]
 "<nada>"
-	"nada" {660,16} [es] r f s :nothing: [79652]
-	"nada" {660,16} [es] b :not_at_all: [79651]
 	"nadar" {660,16} [es] v 2s imper :swim: [79653]
 	"nadar" {660,16} [es] v 3s pres :swim: [79654]
+	"nada" {660,16} [es] b :not_at_all: [79651]
+	"nada" {660,16} [es] r f s :nothing: [79652]
 "<del>"
 	"del" {660,17} [es] p+t m s :of_the: [132993]
 "<otro>"
@@ -9435,11 +9447,11 @@
 "<not>"
 	"not" {660,34} [en] b :not: [154552]
 "<bien>"
-	"bien" {660,35} [es] n m s :well: [16795]
 	"bien" {660,35} [es] b :well: [16794]
+	"bien" {660,35} [es] n m s :well: [16795]
 "<bien>"
-	"bien" {660,36} [es] n m s :well: [16795]
 	"bien" {660,36} [es] b :well: [16794]
+	"bien" {660,36} [es] n m s :well: [16795]
 "<práctico>"
 	"práctico" {660,37} [es] a m s :practical: [89003]
 "<.>"
@@ -9477,9 +9489,9 @@
 "<hablado>"
 	"hablar" {666,5} [es] v m s pastpart :talk: [62515]
 "<bastante>"
+	"bastante" {666,6} [es] b :fairly: [16317]
 	"bastante" {666,6} [es] a mf s :enough: [16315]
 	"bastante" {666,6} [es] r mf p :enough: [16316]
-	"bastante" {666,6} [es] b :fairly: [16317]
 "<.>"
 
 "<está>"
@@ -9588,9 +9600,9 @@
 "<una>"
 	"uno" {673,5} [es] t.ind f s :a: [114973]
 "<para>"
-	"para" {673,6} [es] p :for: [84046]
 	"parar" {673,6} [es] v 2s imper :stall: [84047]
 	"parar" {673,6} [es] v 3s pres :stall: [84048]
+	"para" {673,6} [es] p :for: [84046]
 "<mi>"
 	"mío" {673,7} [es] a.poss 1s :my: [77309]
 "<cámara>"
@@ -9602,13 +9614,12 @@
 "<yo>"
 	"yo" {674,2} [es] r.sub mf 1s :I: [118066]
 "<uso>"
-	"uso" {674,3} [es] n m s :use: [115297]
 	"usar" {674,3} [es] v 1s pres :use: [115296]
 "<la>"
 	"el" {674,4} [es] t.def f s :the: [71848]
 "<regular>"
-	"regular" {674,5} [es] a m s :regulate: [98147]
 	"regular" {674,5} [es] v infin :regulate: [98148]
+	"regular" {674,5} [es] a m s :regulate: [98147]
 "<la>"
 	"el" {674,6} [es] t.def f s :the: [71848]
 "<S_T>"
@@ -9647,8 +9658,8 @@
 "<cosa>"
 	"cosa" {675,15} [es] n f s :thing: [31131]
 "<así>"
-	"así" {675,16} [es] b :thus: [13310]
 	"asir" {675,16} [es] v 1s past :take: [13311]
+	"así" {675,16} [es] b :thus: [13310]
 "<.>"
 
 "<mmhm>"
@@ -9715,8 +9726,8 @@
 
 "<un>"
 	"uno" {679,1} [es] t.ind m s :one: [114969]
-"<Sandisk>"
-	"Sandisk" {679,2} [0] name
+"<sandisk>"
+	"sandisk" {679,2} [0] sandisk
 "<que>"
 	"que" {679,3} [es] c :which: [93350]
 "<es>"
@@ -9742,8 +9753,8 @@
 "<F_M>"
 	"F_M" {679,13} [es] name
 "<todo>"
-	"todo" {679,14} [es] r m s :everything: [112480]
 	"todo" {679,14} [es] a m s :all: [112479]
+	"todo" {679,14} [es] r m s :everything: [112480]
 "<una>"
 	"uno" {679,15} [es] t.ind f s :a: [114973]
 "<piececita>"
@@ -9763,10 +9774,10 @@
 "<llegué>"
 	"llegar" {681,3} [es] v 1s past :get: [73847]
 "<nada>"
-	"nada" {681,4} [es] r f s :nothing: [79652]
-	"nada" {681,4} [es] b :not_at_all: [79651]
 	"nadar" {681,4} [es] v 2s imper :swim: [79653]
 	"nadar" {681,4} [es] v 3s pres :swim: [79654]
+	"nada" {681,4} [es] b :not_at_all: [79651]
+	"nada" {681,4} [es] r f s :nothing: [79652]
 "<más>"
 	"más" {681,5} [es] b :more: [75889]
 "<que>"
@@ -9847,8 +9858,8 @@
 	"record" {685,2} [en] n s :record: [180531]
 "<not>"
 	"not" {685,3} [en] b :not: [154552]
-"<any_more>"
-	"any_more" {685,4} [en] b :any_more: [266748]
+"<anymore>"
+	"anymore" {685,4} [en] unk
 "<.>"
 
 "<I>"
@@ -9965,7 +9976,7 @@
 "<a>"
 	"a" {694,7} [en] t.ind :a: [54339]
 "<lawsuit>"
-	"lawsuit" {694,8} [en] n s :lawsuit: [134434]
+	"lawsuit" {694,8} [es] unk
 "<si>"
 	"si" {694,9} [es] c :whether: [106503]
 "<pasa>"
@@ -9985,8 +9996,8 @@
 "<al>"
 	"al" {696,2} [es] p+t m s :to_the: [132995]
 "<maestro>"
-	"maestro" {696,3} [es] a m s :master: [74625]
 	"maestro" {696,3} [es] n m s :master: [74626]
+	"maestro" {696,3} [es] a m s :master: [74625]
 "<grabado>"
 	"grabar" {696,4} [es] v m s pastpart :record: [61601]
 "<un>"
@@ -9996,7 +10007,8 @@
 "<que>"
 	"que" {696,7} [es] c :which: [93350]
 "<diga>"
-	"decir" {696,8} [es] v 3s imper :tell: [41390]
+	"decir" {696,8} [es] v 1s pressubj :tell: [41389]
+	"decir" {696,8} [es] v 3s pressubj :tell: [41391]
 "<cualquier>"
 	"cualquier" {696,9} [es] a mf s :whatever: [32338]
 "<disparate>"
@@ -10046,13 +10058,13 @@
 "<es>"
 	"ser" {699,1} [es] v 3s pres :be: [51318]
 "<todo>"
-	"todo" {699,2} [es] r m s :everything: [112480]
 	"todo" {699,2} [es] a m s :all: [112479]
+	"todo" {699,2} [es] r m s :everything: [112480]
 "<lawsuit>"
 	"lawsuit" {699,3} [en] n s :lawsuit: [134434]
 "<todo>"
-	"todo" {699,4} [es] r m s :everything: [112480]
 	"todo" {699,4} [es] a m s :all: [112479]
+	"todo" {699,4} [es] r m s :everything: [112480]
 "<lawsuit>"
 	"lawsuit" {699,5} [en] n s :lawsuit: [134434]
 "<.>"
@@ -10092,19 +10104,19 @@
 "<ella>"
 	"él" {702,9} [es] r.sub f 3s :she: [45495]
 "<fue>"
-	"ser" {702,10} [es] v 3s past :be: [59733]
+	"fue" {702,10} [en] unk
 "<la>"
-	"el" {702,11} [es] t.def f s :the: [71848]
+	"la" {702,11} [en] n s :la: [133157]
 "<que>"
-	"que" {702,12} [es] c :which: [93350]
+	"que" {702,12} [en] unk
 "<la>"
-	"él" {702,13} [es] r.obj f 3s :her: [71849]
+	"la" {702,13} [en] n s :la: [133157]
 "<chocó>"
-	"chocar" {702,14} [es] v 3s past :crash: [22217]
+	"chocó" {702,14} [en] unk
 "<you>"
-	"you" {702,15} [en] r 2sp :you: [1530]
+	"you" {702,15} [es] unk
 "<know>"
-	"know" {702,16} [en] v infin :know: [132897]
+	"know" {702,16} [es] unk
 "<.>"
 
 "<mmhm>"
@@ -10143,12 +10155,12 @@
 "<I'm>"
 	"I" {704,14} [en] r.sub 1s :I: [233304] # be.v.pres
 "<like>"
-	"like" {704,15} [en] sv infin :like: [266767]
+	"like" {704,15} [en] v 3s pres :like: [266767]
 	"like" {704,15} [en] c :like: [135908]
 "<.>"
 
 "<oh>"
-	"oh" {705,1} [0] oh
+	"oh" {705,1} [en] v infin :oh: [155771]
 "<for>"
 	"for" {705,2} [en] p :for: [108682]
 "<sure>"
@@ -10296,37 +10308,33 @@
 	"of" {712,5} [en] p :of: [155642]
 "<these>"
 	"these" {712,6} [en] d.near p :these: [208407]
-"<nineteen>"
-	"nineteen" {712,7} [en] n s :nineteen: [147144]
-"<ninety>"
-	"ninety" {712,8} [en] n s :ninety: [147150]
-"<five>"
-	"five" {712,9} [en] n s :five: [107121]
-"<Toyotas>"
-	"Toyotas" {712,10} [0] name
+"<nineteen_ninety_five>"
+	"nineteen_ninety_five" {712,7} [en] unk
+"<toyotas>"
+	"toyotas" {712,8} [0] toyotas
 "<that>"
-	"that" {712,11} [en] d.far :that: [208076]
-	"that" {712,11} [en] c :that: [266756]
+	"that" {712,9} [en] d.far :that: [208076]
+	"that" {712,9} [en] c :that: [266756]
 "<are>"
-	"are" {712,12} [en] v 123p pres :be: [62399]
+	"are" {712,10} [en] v 123p pres :be: [62399]
 "<like>"
-	"like" {712,13} [en] sv infin :like: [266767]
-	"like" {712,13} [en] c :like: [135908]
+	"like" {712,11} [en] sv infin :like: [266767]
+	"like" {712,11} [en] c :like: [135908]
 "<.>"
 
 "<mmhm>"
 	"mmhm" {713,1} [0] mmhm
 "<duro>"
-	"duro" {713,2} [es] a m s :tough: [44559]
 	"durar" {713,2} [es] v 1s pres :last: [44558]
+	"duro" {713,2} [es] a m s :tough: [44559]
 "<.>"
 
 "<remember>"
 	"remember" {714,1} [en] v infin :remember: [182569]
 "<those>"
 	"those" {714,2} [en] d.far p :those: [208699]
-"<Toyotas>"
-	"Toyotas" {714,3} [0] name
+"<toyotas>"
+	"toyotas" {714,3} [0] toyotas
 "<really>"
 	"real" {714,4} [en] b :real: [179717] # adv
 "<heavy>"
@@ -10429,8 +10437,8 @@
 	"a" {724,5} [en] t.ind :a: [54339]
 "<little>"
 	"little" {724,6} [en] a :little: [136572]
-"<PT_Cruiser>"
-	"PT_Cruiser" {724,7} [0] name
+"<petit_cruiser>"
+	"petit_cruiser" {724,7} [0] petit_cruiser
 "<.>"
 
 "<imagínate>"
@@ -10459,13 +10467,13 @@
 "<tenía>"
 	"tener" {728,4} [es] v 13s imperf :have: [111570]
 "<airbags>"
-	"airbags" {728,5} [0] airbags
+	"airbags" {728,5} [en] unk
 "<en>"
 	"en" {728,6} [es] p :on: [46823]
 "<el>"
 	"el" {728,7} [es] t.def m s :the: [45129]
-"<PT_Cruiser>"
-	"PT_Cruiser" {728,8} [0] name
+"<petit_cruiser>"
+	"petit_cruiser" {728,8} [0] petit_cruiser
 "<.>"
 
 "<no>"
@@ -10474,16 +10482,16 @@
 
 "<los>"
 	"el" {730,1} [es] t.def m p :the: [74279]
-"<PT_Cruisers>"
-	"PT_Cruisers" {730,2} [0] name
+"<petit_cruisers>"
+	"petit_cruisers" {730,2} [0] petit_cruisers
 "<no>"
 	"no" {730,3} [es] b :not: [80465]
 "<vienen>"
 	"venir" {730,4} [es] v 3p pres :come: [117011]
 "<con>"
 	"con" {730,5} [es] p :with: [132994]
-"<airbag>"
-	"airbag" {730,6} [0] airbag
+"<air_bag>"
+	"air_bag" {730,6} [0] air_bag
 "<?>"
 
 "<yes>"
@@ -10701,10 +10709,10 @@
 "<no>"
 	"no" {738,9} [es] b :not: [80465]
 "<nada>"
-	"nada" {738,10} [es] r f s :nothing: [79652]
-	"nada" {738,10} [es] b :not_at_all: [79651]
 	"nadar" {738,10} [es] v 2s imper :swim: [79653]
 	"nadar" {738,10} [es] v 3s pres :swim: [79654]
+	"nada" {738,10} [es] b :not_at_all: [79651]
+	"nada" {738,10} [es] r f s :nothing: [79652]
 "<tenía>"
 	"tener" {738,11} [es] v 13s imperf :have: [111570]
 "<el>"
@@ -10871,20 +10879,22 @@
 	"when" {746,5} [en] w :when: [232556]
 "<a>"
 	"a" {746,6} [en] t.ind :a: [54339]
+"<a>"
+	"a" {746,7} [en] t.ind :a: [54339]
 "<car>"
-	"car" {746,7} [en] n s :car: [60409]
+	"car" {746,8} [en] n s :car: [60409]
 "<has>"
-	"have" {746,8} [en] v 3s pres :has: [118133]
+	"have" {746,9} [en] v 3s pres :has: [118133]
 "<been>"
-	"be" {746,9} [en] v pastpart :been: [266760]
+	"be" {746,10} [en] v pastpart :been: [266760]
 "<crashed>"
-	"crash" {746,10} [en] v pastpart :crash: [86844] #
+	"crash" {746,11} [en] v pastpart :crash: [86844] #
 "<from>"
-	"from" {746,11} [en] p :from: [110228]
+	"from" {746,12} [en] p :from: [110228]
 "<the>"
-	"the" {746,12} [en] t.def :the: [208089]
+	"the" {746,13} [en] t.def :the: [208089]
 "<front>"
-	"front" {746,13} [en] n s :front: [110237]
+	"front" {746,14} [en] n s :front: [110237]
 "<.>"
 
 "<because>"
@@ -10894,8 +10904,8 @@
 "<.>"
 
 "<como>"
-	"como" {748,1} [es] c :like: [24975]
 	"comer" {748,1} [es] v 1s pres :lunch: [24974]
+	"como" {748,1} [es] c :like: [24975]
 "<un>"
 	"uno" {748,2} [es] t.ind m s :one: [114969]
 "<rebuilt>"
@@ -11075,7 +11085,7 @@
 "<oh>"
 	"oh" {763,1} [0] oh
 "<ok>"
-	"ok" {763,2} [0] ok
+	"ok" {763,2} [en] unk
 "<.>"
 
 "<.>"
@@ -11230,8 +11240,8 @@
 	"and" {778,13} [en] c :and: [59482]
 "<the>"
 	"the" {778,14} [en] t.def :the: [208089]
-"<TV>"
-	"TV" {778,15} [0] name
+"<tv>"
+	"tv" {778,15} [en] unk
 "<right>"
 	"right" {778,16} [en] a :right: [185046]
 "<now>"
@@ -11396,46 +11406,36 @@
 	"no" {793,4} [es] b :not: [80465]
 "<fue>"
 	"ser" {793,5} [es] v 3s past :be: [59733]
-"<four>"
-	"four" {793,6} [en] n s :four: [109431]
-"<forty>"
-	"forty" {793,7} [en] n s :forty: [109286]
-"<one>"
-	"one" {793,8} [en] r s :one: [266766]
-	"one" {793,8} [en] a :one: [156110]
+"<four_forty_one>"
+	"four_forty_one" {793,6} [en] unk
 "<ahí>"
-	"ahí" {793,9} [es] b :there: [6230]
+	"ahí" {793,7} [es] b :there: [6230]
 "<en>"
-	"en" {793,10} [es] p :on: [46823]
+	"en" {793,8} [es] p :on: [46823]
 "<la>"
-	"el" {793,11} [es] t.def f s :the: [71848]
-"<four>"
-	"four" {793,12} [en] n s :four: [109431]
-"<forty>"
-	"forty" {793,13} [en] n s :forty: [109286]
-"<one>"
-	"one" {793,14} [en] r s :one: [266766]
-	"one" {793,14} [en] a :one: [156110]
+	"el" {793,9} [es] t.def f s :the: [71848]
+"<four_forty_one>"
+	"four_forty_one" {793,10} [en] unk
 "<yo>"
-	"yo" {793,15} [es] r.sub mf 1s :I: [118066]
+	"yo" {793,11} [es] r.sub mf 1s :I: [118066]
 "<creo>"
-	"creer" {793,16} [es] v 1s pres :believe: [31648]
+	"creer" {793,12} [es] v 1s pres :believe: [31648]
 "<que>"
-	"que" {793,17} [es] c :which: [93350]
+	"que" {793,13} [es] c :which: [93350]
 "<fue>"
-	"ser" {793,18} [es] v 3s past :be: [59733]
+	"ser" {793,14} [es] v 3s past :be: [59733]
 "<un>"
-	"uno" {793,19} [es] t.ind m s :one: [114969]
+	"uno" {793,15} [es] t.ind m s :one: [114969]
 "<poquito>"
-	"poco" {793,20} [es] a m s dim :little: [133045]
+	"poco" {793,16} [es] a m s dim :little: [133045]
 "<más>"
-	"más" {793,21} [es] b :more: [75889]
+	"más" {793,17} [es] b :more: [75889]
 "<para>"
-	"para" {793,22} [es] p :for: [84046]
-	"parar" {793,22} [es] v 2s imper :stall: [84047]
-	"parar" {793,22} [es] v 3s pres :stall: [84048]
+	"parar" {793,18} [es] v 2s imper :stall: [84047]
+	"parar" {793,18} [es] v 3s pres :stall: [84048]
+	"para" {793,18} [es] p :for: [84046]
 "<allá>"
-	"allá" {793,23} [es] b :there: [7428]
+	"allá" {793,19} [es] b :there: [7428]
 "<.>"
 
 "<no>"
@@ -11652,8 +11652,8 @@
 	"watch" {811,7} [en] v infin :watch: [230833] # asv
 "<er>"
 	"er" {811,8} [0] er
-"<TV>"
-	"TV" {811,9} [0] name
+"<tv>"
+	"tv" {811,9} [en] unk
 "<and>"
 	"and" {811,10} [en] c :and: [59482]
 "<computers>"
@@ -11781,7 +11781,7 @@
 "<they>"
 	"they" {818,1} [en] r.sub 3p :they: [208421]
 "<haven't>"
-	"have" {818,2} [en] sv infin :have: [118281] # neg
+	"have" {818,2} [en] v 3s pres :have: [118281] # neg
 "<mentioned>"
 	"mention" {818,3} [en] v infin :mention: [140853] # av
 "<anything>"
@@ -11866,7 +11866,7 @@
 "<they>"
 	"they" {822,20} [en] r.sub 3p :they: [208421]
 "<haven't>"
-	"have" {822,21} [en] sv infin :have: [118281] # neg
+	"have" {822,21} [en] v 3s pres :have: [118281] # neg
 "<done>"
 	"do" {822,22} [en] v pastpart :done: [96160]
 "<anything>"
@@ -12034,7 +12034,7 @@
 "<they>"
 	"they" {830,14} [en] r.sub 3p :they: [208421]
 "<don't>"
-	"do" {830,15} [en] v 12s13p pres :do: [95732] # neg
+	"do" {830,15} [en] v 3p pres :do: [95732] # neg
 "<do>"
 	"do" {830,16} [en] v infin :do: [95732]
 "<anything>"
@@ -12104,7 +12104,6 @@
 	"primero" {833,13} [es] o m s :first: [90812]
 "<viaje>"
 	"viaje" {833,14} [es] n m s :voyage: [116812]
-	"viajar" {833,14} [es] v 3s imper :travel: [116810]
 "<.>"
 
 "<mmhm>"
@@ -12140,8 +12139,8 @@
 "<jóvenes>"
 	"joven" {837,5} [es] a m p :young: [71447]
 "<vino>"
-	"vino" {837,6} [es] n m s :wine: [117198]
 	"venir" {837,6} [es] v 3s past :come: [117197]
+	"vino" {837,6} [es] n m s :wine: [117198]
 "<por>"
 	"por" {837,7} [es] p :for: [88492]
 "<aquí>"
@@ -12232,9 +12231,9 @@
 "<venga>"
 	"vengar" {844,3} [es] v 3s pres :avenge: [116303]
 "<para>"
-	"para" {844,4} [es] p :for: [84046]
 	"parar" {844,4} [es] v 2s imper :stall: [84047]
 	"parar" {844,4} [es] v 3s pres :stall: [84048]
+	"para" {844,4} [es] p :for: [84046]
 "<acá>"
 	"acá" {844,5} [es] b :here: [1557]
 "<.>"
@@ -12246,72 +12245,76 @@
 "<venga>"
 	"vengar" {845,3} [es] v 3s pres :avenge: [116303]
 "<para>"
-	"para" {845,4} [es] p :for: [84046]
 	"parar" {845,4} [es] v 2s imper :stall: [84047]
 	"parar" {845,4} [es] v 3s pres :stall: [84048]
+	"para" {845,4} [es] p :for: [84046]
 "<acá>"
 	"acá" {845,5} [es] b :here: [1557]
 "<.>"
 
+"<laugh>"
+	"laugh" {846,1} [es] unk
 "<no>"
-	"no" {846,1} [es] b :not: [80465]
+	"no" {846,2} [es] b :not: [80465]
 "<déjanos>"
-	"dejar" {846,2} [es] v 2s imper preclitic :leave: [128375] + nos[prn.mf.1p]
+	"dejar" {846,3} [es] v 2s imper preclitic :leave: [128375] + nos[prn.mf.1p]
 "<acabar>"
-	"acabar" {846,3} [es] v infin :finish: [1578]
+	"acabar" {846,4} [es] v infin :finish: [1578]
 "<de>"
-	"de" {846,4} [es] p :of: [33387]
+	"de" {846,5} [es] p :of: [33387]
 "<hablar>"
-	"hablar" {846,5} [es] v infin :talk: [62524]
+	"hablar" {846,6} [es] v infin :talk: [62524]
 "<que>"
-	"que" {846,6} [es] c :which: [93350]
+	"que" {846,7} [es] c :which: [93350]
 "<nos>"
-	"yo" {846,7} [es] r.obj mf 1p :us: [80717]
+	"yo" {846,8} [es] r.obj mf 1p :us: [80717]
 "<quedan>"
-	"quedar" {846,8} [es] v 3p pres :stay: [93435]
+	"quedar" {846,9} [es] v 3p pres :stay: [93435]
 "<five>"
-	"five" {846,9} [en] n s :five: [107121]
+	"five" {846,10} [en] n s :five: [107121]
 "<more>"
-	"more" {846,10} [en] a :more: [144185]
+	"more" {846,11} [en] a :more: [144185]
 "<minutes>"
-	"minute" {846,11} [en] n p :minute: [142397] #
-	"minutes" {846,11} [en] n p :minutes: [142405]
+	"minute" {846,12} [en] n p :minute: [142397] #
+	"minutes" {846,12} [en] n p :minutes: [142405]
 "<and>"
-	"and" {846,12} [en] c :and: [59482]
+	"and" {846,13} [en] c :and: [59482]
 "<they>"
-	"they" {846,13} [en] r.sub 3p :they: [208421]
+	"they" {846,14} [en] r.sub 3p :they: [208421]
 "<are>"
-	"are" {846,14} [en] v 123p pres :be: [62399]
+	"are" {846,15} [en] v 123p pres :be: [62399]
 "<recording>"
-	"record" {846,15} [en] n s :record: [180531] # asv
-	"recording" {846,15} [en] n s :recording: [180539]
+	"record" {846,16} [en] n s :record: [180531] # asv
+	"recording" {846,16} [en] n s :recording: [180539]
 "<us>"
-	"us" {846,16} [en] r.obj 1p :us: [227999]
+	"us" {846,17} [en] r.obj 1p :us: [227999]
 "<bye>"
-	"bye" {846,17} [en] n s :bye: [73595]
+	"bye" {846,18} [en] n s :bye: [73595]
 "<.>"
 
 "<we>"
 	"we" {847,1} [en] r.sub 1p :we: [231192]
 "<have>"
-	"have" {847,2} [en] sv infin :have: [118281]
+	"have" {847,2} [en] v 3s pres :have: [118281]
 "<usamos>"
 	"usar" {847,3} [es] v 1p past :use: [115259]
 	"usar" {847,3} [es] v 1p pres :use: [115260]
 "<este>"
-	"este" {847,4} [es] a.dem m s :this: [53523]
 	"este" {847,4} [es] n m s :this: [53524]
+	"este" {847,4} [es] a.dem m s :this: [53523]
 "<como>"
-	"como" {847,5} [es] c :like: [24975]
 	"comer" {847,5} [es] v 1s pres :lunch: [24974]
-"<guinea_pig>"
-	"guinea_pig" {847,6} [en] n s :guinea_pig: [266749]
+	"como" {847,5} [es] c :like: [24975]
+"<ginnie>"
+	"ginnie" {847,6} [en] unk
+"<pig>"
+	"pig" {847,7} [en] n s :pig: [166174]
 "<.>"
 
 "<.>"
 
-"<er>"
-	"er" {849,1} [0] er
+"<er:>"
+	"er:" {849,1} [0] er:
 "<.>"
 
 "<qué>"
@@ -12335,8 +12338,8 @@
 "<que>"
 	"que" {851,5} [es] c :which: [93350]
 "<vino>"
-	"vino" {851,6} [es] n m s :wine: [117198]
 	"venir" {851,6} [es] v 3s past :come: [117197]
+	"vino" {851,6} [es] n m s :wine: [117198]
 "<aquí>"
 	"aquí" {851,7} [es] b :here: [11385]
 "<.>"
@@ -12354,9 +12357,9 @@
 "<corriendo>"
 	"correr" {852,6} [es] v prespart :run: [30990]
 "<para>"
-	"para" {852,7} [es] p :for: [84046]
 	"parar" {852,7} [es] v 2s imper :stall: [84047]
 	"parar" {852,7} [es] v 3s pres :stall: [84048]
+	"para" {852,7} [es] p :for: [84046]
 "<acá>"
 	"acá" {852,8} [es] b :here: [1557]
 "<tú>"
@@ -12471,9 +12474,9 @@
 "<palas>"
 	"pala" {858,7} [es] n f p :spades: [133010]
 "<para>"
-	"para" {858,8} [es] p :for: [84046]
 	"parar" {858,8} [es] v 2s imper :stall: [84047]
 	"parar" {858,8} [es] v 3s pres :stall: [84048]
+	"para" {858,8} [es] p :for: [84046]
 "<abajo>"
 	"abajo" {858,9} [es] b :quietly: [10]
 "<rompiendo>"
@@ -12497,9 +12500,9 @@
 "<palazo>"
 	"palazo" {859,5} [es] n m s :shovel: [133013]
 "<arriba>"
-	"arriba" {859,6} [es] b :upward: [12347]
 	"arribar" {859,6} [es] v 2s imper :arrive: [12348]
 	"arribar" {859,6} [es] v 3s pres :arrive: [12349]
+	"arriba" {859,6} [es] b :upward: [12347]
 "<del>"
 	"del" {859,7} [es] p+t m s :of_the: [132993]
 "<camión>"
@@ -12513,8 +12516,8 @@
 "<sabes>"
 	"saber" {860,3} [es] v 2s pres :know: [104090]
 "<cuántos>"
-	"cuánto" {860,4} [es] r.int m p :how_many: [32420]
 	"cuánto" {860,4} [es] a.int m p :how_many: [32419]
+	"cuánto" {860,4} [es] r.int m p :how_many: [32420]
 "<palazos>"
 	"palazo" {860,5} [es] n m p :shovels: [133015]
 "<iban>"
@@ -12562,7 +12565,6 @@
 "<ahora>"
 	"ahora" {862,4} [es] b :now: [6292]
 "<vamos>"
-	"ir" {862,5} [es] v 1p imper :go: [115788]
 	"ir" {862,5} [es] v 1p pres :go: [115789]
 "<a>"
 	"a" {862,6} [es] p :to: [1]
@@ -12585,10 +12587,10 @@
 "<hecho>"
 	"hacer" {863,3} [es] v m s pastpart :take: [62861]
 "<nada>"
-	"nada" {863,4} [es] r f s :nothing: [79652]
-	"nada" {863,4} [es] b :not_at_all: [79651]
 	"nadar" {863,4} [es] v 2s imper :swim: [79653]
 	"nadar" {863,4} [es] v 3s pres :swim: [79654]
+	"nada" {863,4} [es] b :not_at_all: [79651]
+	"nada" {863,4} [es] r f s :nothing: [79652]
 "<.>"
 
 "<cada>"
@@ -12879,8 +12881,8 @@
 "<cuatro>"
 	"cuatro" {885,8} [es] n m :four: [32440]
 "<cuadras>"
-	"cuadra" {885,9} [es] n f p :stable: [32236]
 	"cuadrar" {885,9} [es] v 2s pres :square: [32237]
+	"cuadra" {885,9} [es] n f p :stable: [32236]
 "<.>"
 
 "<tú>"
@@ -12934,9 +12936,9 @@
 "<empujándola>"
 	"empujar" {887,9} [es] v prespart :push: [133046]
 "<para>"
-	"para" {887,10} [es] p :for: [84046]
 	"parar" {887,10} [es] v 2s imper :stall: [84047]
 	"parar" {887,10} [es] v 3s pres :stall: [84048]
+	"para" {887,10} [es] p :for: [84046]
 "<allá>"
 	"allá" {887,11} [es] b :there: [7428]
 "<.>"
@@ -12963,8 +12965,8 @@
 "<queda>"
 	"quedar" {889,4} [es] v 3s pres :stay: [93404]
 "<toda>"
-	"todo" {889,5} [es] r f s :everything: [112475]
 	"todo" {889,5} [es] a f s :all: [112474]
+	"todo" {889,5} [es] r f s :everything: [112475]
 "<suelta>"
 	"suelto" {889,6} [es] a f s :loose: [109300]
 "<se>"
@@ -12972,8 +12974,8 @@
 "<riega>"
 	"regar" {889,8} [es] v 3s pres :irrigate: [103186]
 "<todo>"
-	"todo" {889,9} [es] r m s :everything: [112480]
 	"todo" {889,9} [es] a m s :all: [112479]
+	"todo" {889,9} [es] r m s :everything: [112480]
 "<.>"
 
 "<y>"
@@ -13006,9 +13008,9 @@
 "<hierba>"
 	"hierba" {891,3} [es] n f s :grass: [63319]
 "<muerta>"
-	"muerto" {891,4} [es] a f s :dead: [79083]
-	"muerto" {891,4} [es] n f s :dead: [79084]
 	"morir" {891,4} [es] v f s pastpart :die: [79082]
+	"muerto" {891,4} [es] n f s :dead: [79084]
+	"muerto" {891,4} [es] a f s :dead: [79083]
 "<.>"
 
 "<va>"
@@ -13016,9 +13018,9 @@
 "<cayendo>"
 	"caer" {892,2} [es] v prespart :fall: [21032]
 "<para>"
-	"para" {892,3} [es] p :for: [84046]
 	"parar" {892,3} [es] v 2s imper :stall: [84047]
 	"parar" {892,3} [es] v 3s pres :stall: [84048]
+	"para" {892,3} [es] p :for: [84046]
 "<acá>"
 	"acá" {892,4} [es] b :here: [1557]
 "<.>"
@@ -13043,8 +13045,8 @@
 
 "<y>"
 	"y" {895,1} [es] c :and: [118037]
-"<fumigó>"
-	"fumigar" {895,2} [es] v 3s past :spray: [132999]
+"<fumigo>"
+	"fumigo" {895,2} [es] unk
 "<y>"
 	"y" {895,3} [es] c :and: [118037]
 "<eso>"
@@ -13060,24 +13062,25 @@
 "<lo>"
 	"el" {895,9} [es] t.def n sp :the: [74044]
 "<menos>"
-	"menos" {895,10} [es] p :except: [76793]
 	"menos" {895,10} [es] b :less: [76794]
+	"menos" {895,10} [es] p :except: [76793]
 "<que>"
 	"que" {895,11} [es] c :which: [93350]
 "<no>"
 	"no" {895,12} [es] b :not: [80465]
 "<crezca>"
-	"crecer" {895,13} [es] v 3s imper :grow: [31668]
+	"crecer" {895,13} [es] v 1s pressubj :grow: [31667]
+	"crecer" {895,13} [es] v 3s pressubj :grow: [31669]
 "<mucho>"
-	"mucho" {895,14} [es] a m s :much: [79025]
 	"mucho" {895,14} [es] b :much: [79026]
+	"mucho" {895,14} [es] a m s :much: [79025]
 "<pero>"
 	"pero" {895,15} [es] c :but: [86359]
 "<con>"
 	"con" {895,16} [es] p :with: [132994]
 "<todo>"
-	"todo" {895,17} [es] r m s :everything: [112480]
 	"todo" {895,17} [es] a m s :all: [112479]
+	"todo" {895,17} [es] r m s :everything: [112480]
 "<y>"
 	"y" {895,18} [es] c :and: [118037]
 "<eso>"
@@ -13117,7 +13120,8 @@
 "<y>"
 	"y" {898,1} [es] c :and: [118037]
 "<vaya>"
-	"ir" {898,2} [es] v 3s imper :go: [116002]
+	"ir" {898,2} [es] v 1s pressubj :go: [116001]
+	"ir" {898,2} [es] v 3s pressubj :go: [116003]
 "<.>"
 
 "<le>"
@@ -13221,8 +13225,8 @@
 "<bueno>"
 	"bueno" {906,2} [es] interj :well: [610]
 "<así>"
-	"así" {906,3} [es] b :thus: [13310]
 	"asir" {906,3} [es] v 1s past :take: [13311]
+	"así" {906,3} [es] b :thus: [13310]
 "<no>"
 	"no" {906,4} [es] b :not: [80465]
 "<está>"
@@ -13264,11 +13268,11 @@
 "<vivían>"
 	"vivir" {907,16} [es] v 3p imperf :live: [117562]
 "<fuera>"
-	"fuera" {907,17} [es] b :outside: [59740]
 	"ir" {907,17} [es] v 1s imperfsubj :go: [59741]
 	"ir" {907,17} [es] v 3s imperfsubj :go: [59742]
 	"ser" {907,17} [es] v 1s imperfsubj :be: [59743]
 	"ser" {907,17} [es] v 3s imperfsubj :be: [59744]
+	"fuera" {907,17} [es] b :outside: [59740]
 "<de>"
 	"de" {907,18} [es] p :of: [33387]
 "<Miami>"
@@ -13382,8 +13386,8 @@
 "<dicen>"
 	"decir" {914,10} [es] v 3p pres :tell: [41056]
 "<así>"
-	"así" {914,11} [es] b :thus: [13310]
 	"asir" {914,11} [es] v 1s past :take: [13311]
+	"así" {914,11} [es] b :thus: [13310]
 "<.>"
 
 "<es>"
@@ -13407,8 +13411,8 @@
 "<hace>"
 	"hacer" {916,7} [es] v 3s pres :take: [62572]
 "<como>"
-	"como" {916,8} [es] c :like: [24975]
 	"comer" {916,8} [es] v 1s pres :lunch: [24974]
+	"como" {916,8} [es] c :like: [24975]
 "<dos>"
 	"dos" {916,9} [es] n m :two: [44092]
 "<o>"
@@ -13558,8 +13562,8 @@
 	"uno" {923,5} [es] t.ind f s :a: [114973]
 "<forma>"
 	"forma" {923,6} [es] n f s :shape: [58711]
-"<o>"
-	"o" {923,7} [es] c :or: [132996]
+"<u>"
+	"u" {923,7} [es] unk
 "<otra>"
 	"otro" {923,8} [es] r f s :other: [83609]
 "<resolvieron>"
@@ -13616,7 +13620,7 @@
 "<está>"
 	"estar" {928,1} [es] v 3s pres :be: [53074]
 "<super>"
-	"super" {928,2} [0] super
+	"super" {928,2} [es] unk
 "<rica>"
 	"rico" {928,3} [es] a f s :affluent: [103112]
 "<.>"
@@ -13642,8 +13646,8 @@
 "<minutos>"
 	"minuto" {930,5} [es] n m p :minute: [77648]
 "<son>"
-	"son" {930,6} [es] n m s :sound: [107978]
 	"ser" {930,6} [es] v 3p pres :be: [107977]
+	"son" {930,6} [es] n m s :sound: [107978]
 "<.>"
 
 "<no>"
@@ -13660,19 +13664,21 @@
 	"hacer" {931,6} [es] v prespart :take: [62588]
 "<maternidad>"
 	"maternidad" {931,7} [es] n f s :motherhood: [76182]
+"<>"
+	"" {931,8} [es] unk
 "<y>"
-	"y" {931,8} [es] c :and: [118037]
+	"y" {931,9} [es] c :and: [118037]
 "<maternidad>"
-	"maternidad" {931,9} [es] n f s :motherhood: [76182]
+	"maternidad" {931,10} [es] n f s :motherhood: [76182]
 "<es>"
-	"ser" {931,10} [es] v 3s pres :be: [51318]
+	"ser" {931,11} [es] v 3s pres :be: [51318]
 "<lo>"
-	"el" {931,11} [es] t.def n sp :the: [74044]
+	"el" {931,12} [es] t.def n sp :the: [74044]
 "<más>"
-	"más" {931,12} [es] b :more: [75889]
+	"más" {931,13} [es] b :more: [75889]
 "<pesado>"
-	"pesado" {931,13} [es] a m s :heavy: [86781]
-	"pesar" {931,13} [es] v m s pastpart :weigh: [86782]
+	"pesar" {931,14} [es] v m s pastpart :weigh: [86782]
+	"pesado" {931,14} [es] a m s :heavy: [86781]
 "<.>"
 
 "<y>"
@@ -13686,13 +13692,13 @@
 "<clases>"
 	"clase" {932,5} [es] n f p :sort: [22923]
 "<son>"
-	"son" {932,6} [es] n m s :sound: [107978]
 	"ser" {932,6} [es] v 3p pres :be: [107977]
+	"son" {932,6} [es] n m s :sound: [107978]
 "<en>"
 	"en" {932,7} [es] p :on: [46823]
 "<español>"
-	"español" {932,8} [es] a m s :Spanish: [52368]
 	"español" {932,8} [es] n m s :Spanish: [52369]
+	"español" {932,8} [es] a m s :Spanish: [52368]
 "<?>"
 
 "<ay>"
@@ -13706,8 +13712,8 @@
 "<en>"
 	"en" {933,5} [es] p :on: [46823]
 "<español>"
-	"español" {933,6} [es] a m s :Spanish: [52368]
 	"español" {933,6} [es] n m s :Spanish: [52369]
+	"español" {933,6} [es] a m s :Spanish: [52368]
 "<pero>"
 	"pero" {933,7} [es] c :but: [86359]
 "<los>"
@@ -13715,13 +13721,13 @@
 "<libros>"
 	"libro" {933,9} [es] n m p :book: [73157]
 "<son>"
-	"son" {933,10} [es] n m s :sound: [107978]
 	"ser" {933,10} [es] v 3p pres :be: [107977]
+	"son" {933,10} [es] n m s :sound: [107978]
 "<en>"
 	"en" {933,11} [es] p :on: [46823]
 "<inglés>"
-	"inglés" {933,12} [es] a m s :english: [67781]
 	"inglés" {933,12} [es] n m s :english: [67782]
+	"inglés" {933,12} [es] a m s :english: [67781]
 "<.>"
 
 "<so>"
@@ -13780,8 +13786,8 @@
 "<.>"
 
 "<son>"
-	"son" {939,1} [es] n m s :sound: [107978]
 	"ser" {939,1} [es] v 3p pres :be: [107977]
+	"son" {939,1} [es] n m s :sound: [107978]
 "<mucho>"
 	"mucho" {939,2} [es] a m s :much: [79025]
 "<tiempo>"
@@ -13794,7 +13800,6 @@
 	"a" {940,2} [es] p :to: [1]
 "<uno>"
 	"uno" {940,3} [es] r m s :one: [115154]
-	"unir" {940,3} [es] v 1s pres :unite: [115153]
 "<se>"
 	"se" {940,4} [es] r.ref mf 3sp :self: [105069]
 	"ser" {940,4} [es] v 2p imper preclitic :be: [121612]
@@ -13807,7 +13812,6 @@
 
 "<uno>"
 	"uno" {941,1} [es] r m s :one: [115154]
-	"unir" {941,1} [es] v 1s pres :unite: [115153]
 "<está>"
 	"estar" {941,2} [es] v 3s pres :be: [53074]
 "<acostumbrado>"
@@ -13819,8 +13823,8 @@
 "<en>"
 	"en" {941,6} [es] p :on: [46823]
 "<inglés>"
-	"inglés" {941,7} [es] a m s :english: [67781]
 	"inglés" {941,7} [es] n m s :english: [67782]
+	"inglés" {941,7} [es] a m s :english: [67781]
 "<y>"
 	"y" {941,8} [es] c :and: [118037]
 "<a>"
@@ -13830,8 +13834,8 @@
 "<en>"
 	"en" {941,11} [es] p :on: [46823]
 "<inglés>"
-	"inglés" {941,12} [es] a m s :english: [67781]
 	"inglés" {941,12} [es] n m s :english: [67782]
+	"inglés" {941,12} [es] a m s :english: [67781]
 "<.>"
 
 "<sí>"
@@ -13849,8 +13853,8 @@
 "<en>"
 	"en" {943,5} [es] p :on: [46823]
 "<español>"
-	"español" {943,6} [es] a m s :Spanish: [52368]
 	"español" {943,6} [es] n m s :Spanish: [52369]
+	"español" {943,6} [es] a m s :Spanish: [52368]
 "<.>"
 
 "<mmhm>"
@@ -13972,8 +13976,8 @@
 "<inglés>"
 	"inglés" {952,5} [es] a m s :english: [67781]
 "<español>"
-	"español" {952,6} [es] a m s :Spanish: [52368]
 	"español" {952,6} [es] n m s :Spanish: [52369]
+	"español" {952,6} [es] a m s :Spanish: [52368]
 "<.>"
 
 "<que>"
@@ -14052,8 +14056,8 @@
 "<español>"
 	"español" {958,3} [es] a m s :Spanish: [52368]
 "<regular>"
-	"regular" {958,4} [es] a m s :regulate: [98147]
 	"regular" {958,4} [es] v infin :regulate: [98148]
+	"regular" {958,4} [es] a m s :regulate: [98147]
 "<.>"
 
 "<sí>"
@@ -14159,8 +14163,8 @@
 "<aprietas>"
 	"apretar" {964,1} [es] v 2s pres :tighten: [11103]
 "<así>"
-	"así" {964,2} [es] b :thus: [13310]
 	"asir" {964,2} [es] v 1s past :take: [13311]
+	"así" {964,2} [es] b :thus: [13310]
 "<.>"
 
 "<pones>"
@@ -14172,15 +14176,15 @@
 "<en>"
 	"en" {965,4} [es] p :on: [46823]
 "<inglés>"
-	"inglés" {965,5} [es] a m s :english: [67781]
 	"inglés" {965,5} [es] n m s :english: [67782]
+	"inglés" {965,5} [es] a m s :english: [67781]
 "<o>"
 	"o" {965,6} [es] c :or: [132996]
 "<en>"
 	"en" {965,7} [es] p :on: [46823]
 "<español>"
-	"español" {965,8} [es] a m s :Spanish: [52368]
 	"español" {965,8} [es] n m s :Spanish: [52369]
+	"español" {965,8} [es] a m s :Spanish: [52368]
 "<.>"
 
 "<y>"
