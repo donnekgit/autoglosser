@@ -2,6 +2,7 @@
 #  Combining or and not will not necessarily work: select (x) if (1 y) or (not 1 z) does not fire properly
 #  If the tag substitution for English uses dotted notation, none of the other rules will bite, because they are all using spaced notation.
 #  You can't combine conditions applying to a -1 position OR a 1 position.
+#  Substitute lines have to be in order of greatest number of tags in the match section, otherwise rules will fire on some tags, and change the tags so that the larger match never matches.  for instance: sv infin pv.
 
 DELIMITERS = "<.>" "<!>" "<?>";
 
@@ -22,7 +23,7 @@ LIST placename = pn;
 
 LIST initvowel = "a.*"ri "e.*"ri "i.*"ri "o.*"ri "u.*"ri "w.*"ri "y.*"ri;
 
-LIST preverbal = "<just>" "<actually>";
+LIST preverbal = "<just>" "<actually>" "<still>";
 
 LIST modal = "licio" "gobeithio" "gallu";
 
@@ -63,6 +64,7 @@ substitute (sv infin pv) (n p) ([en] v infin pv) (-1 ([en] a) or ([en] n));  # s
 substitute (n s pv) (n p) ([en] n s pv);  # because pools are good; kids; houses
 
 substitute (as) (a) ([en] as) (1 ([en] n));  # a miniature rabbit
+substitute (as) (n s) ([en] as) (not 1 ([en] n));  # a miniature
 
 #substitute (a comp.ag) (a.comp) ([en] comp.ag) (1 (n));  # smaller box
 substitute (a comp.ag) (a.comp) ([en] comp.ag);  # is cheaper but - CHECK - try this wider version for a while
@@ -82,9 +84,11 @@ substitute (123p) (2sp) ([en] v 123p) (-1 (r.sub 2sp));  # you are
 substitute (123p) (3p) ([en] v 123p) (-1 (r.sub 3p));  # they are
 substitute (123p) (3p) ([en] v 123p) (not -1 (r.sub 1p) or (r.sub 2p));  # so many people from the county are
 substitute (123sp) (1s) ([en] v 123sp) (-1 (r.sub 1s));  # I can
+substitute (123sp) (2sp) ([en] v 123sp) (-1 (r.sub 2sp));  # you can
+substitute (123sp) (3s) ([en] v 123sp) (-1 (r.sub 3s));  # he can
 
 substitute (sv infin asv) (v prespart) ([en] sv infin asv) (1 ([en] t.def) or ([en] d.far) or ([en] "for"));  # finding that; working for
-substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-1 ([en] "be"));  # we were looking;
+substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-1 ([en] "be") or preverbal);  # we were looking;
 substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-1 ([en] v));  # that starts cooling;
 substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-2 ([en] v)) (-1 ("not"));;  # you are not seeing
 substitute (sv infin asv) (v prespart) ([en] sv infin asv) (1 ([en] n));  # a camping spot;
@@ -94,16 +98,20 @@ substitute (sv infin av) (v pastpart) ([en] sv infin av) (-2 ([en] "be") or (+be
 
 substitute (av past) (v past) ([en] av past) (-1 ([en] r.sub));  # we bought
 #substitute (av past) (v past) ([en] av past) (not 1 ([en] n));  # that came about - too broad?
+
 substitute (av past) (v pastpart) ([en] av past) (-1 (have.v.pres) or ("have") or ("be"));  # you've done; you have done; it was misspent
+
 substitute (sv infin av) (v past) ([en] sv infin av) (-1 ([en] r.sub) or (name));  # they closed; Pepita moved
 substitute (sv infin av) (v past) ([en] sv infin av) (-2 ([en] r.sub)) (-1 preverbal);  # they just closed
+
+substitute (sv infin pv) (v pres 3s) ([en] sv infin pv) (-2 ([en] a.poss) or ([en] a)) (-1 ([en] n s));  # his wife puts
 
 substitute (sv infin) (v 1s pres) ([en] sv infin) (-1 ([en] r.sub 1s));  # I mean
 substitute (sv infin) (v 1p pres) ([en] sv infin) (-1 ([en] r.sub 1p));  # we do
 substitute (sv infin) (v 2s pres) ([en] sv infin) (-1 ([en] r.sub 2s));  # you get
 substitute (sv infin) (v 2sp pres) ([en] sv infin) (-1 ([en] r.sub 2sp));  # you know
 substitute (sv infin) (v 2s pres) ([en] sv infin) (-2 ([en] r.sub 2s)) (-1 preverbal);  # you just get
-substitute (sv infin) (v 3s pres) ([en] sv infin) (-1 ([en] r.sub 3s));  # he keep[s]
+substitute (sv infin) (v 3s pres) ([en] sv infin) (-1 ([en] r.sub 3s)) (not -1 (+be.v.3s.pres));  # he keep[s]
 substitute (sv infin) (v 3p pres) ([en] sv infin) (-1 ([en] r.sub 3p) or (n p));  # they build; employees have
 
 substitute (sv infin) (v infin) ([en] sv infin) ((-1 ("to" [en] p)) or (-2 ("to" [en] p)));  # to actually put it
@@ -111,8 +119,11 @@ substitute (sv infin) (v infin) ([en] sv infin) (-1 ("<gonna>"));  # gonna be
 #substitute (sv infin) (v infin) ([en] sv infin) (1 ([en] r.sub));  # and open it
 substitute (sv infin) (v imper) ([en] sv infin) ((-1 ("oh")) or (0 ("<let's>")));  # oh look!; let's bring
 
-substitute (sv infin) (n s) ([en] sv infin) (-1 ([en] a) or ("t.*"r));  # a good deal; a raise; the cut
+substitute (sv infin pv) (n p) ([en] sv infin pv) (-1 ([en] a) or ("t.*"r) or ("at" p));  # other offers
+
+substitute (sv infin) (n s) ([en] sv infin) (-1 ([en] a) or ("t.*"r) or ("at" p));  # a good deal; a raise; the cut; at work
 substitute (sv infin) (n s) ([en] sv infin) (-1 ([en] "more") or ([en] "no"));  # more work; no raise
+
 
 substitute (av past+p) (v pastpart) ([en] av past+p) (-1 ([en] "have") or ("<he's>"));  # he's got it
 substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] r.sub) or (name));  # she got; Pepa had
@@ -122,6 +133,10 @@ substitute (r.sub) (r.obj) ([en] r.sub) (-1 ([en] v) link not 2 ([en] v));  # th
 substitute (r.sub) (r.obj) ([en] r.sub) (-1 ("<that's>") or ([en] "for" p) or ("worth"));  # that's it; for you; worth it
 
 substitute (r.obj) (r.sub) ([en] r.obj 3s) (-1 ("<isn't>"));  # isn't it
+
+substitute (r.obj) (r.indir) ([en] r.obj 3s) (-1 ("<bought>"));  # I bought him - FIXME - use lemma instead
+
+substitute (r.refl) (r.refl.indir) ([en] r.refl) (-1 ("<bought>"));  # he bought him self- FIXME - use lemma instead
 
 substitute (r s p) (r p) ([en] r s p);  # miniature ones
 
@@ -151,8 +166,8 @@ select ([en] num) if (1 (n));  # one advantage
 
 select ("like" sv infin) if (-1 ("do" [en] v pres neg));  # you don't like
 select ("like" v 3s) if (-1 (r.sub 3s));  # he likes
-select ("like" [en] c) if (1 ([en] t.ind));  # like a house
-select ("like" [en] c) if (-1 preverbal);  # just like
+select ("like" [en] c) if (1 ([en] t.ind) or ("what" w));  # like a house; like what
+select ("like" [en] c) if (-1 preverbal or (v));  # just like; they played, like, ...;
 
 select ("even" [en] a) if (not 1 (v));  # it's not even (=level)
 select ("even" [en] b) if (1 (v));  # they don't even wanna
@@ -194,8 +209,8 @@ select ([es] t.ind) if (not 1 (n));  # una ... como se llama
 
 select ("que" :which:) if (not -1 (adjective));
 select ([es] interj) if (not 1 ([es] a));
-select ("como" [es] c) if ((1  (r.subj) or ("que" [es] c) or ("aquí" [es] b) or ("en" [es] p)) or ((-1 ("ser" v))));
-
+select ("como" [es] c) if ((1 (r.subj) or ("que" [es] c) or ("aquí" [es] b) or ("en" [es] p)) or ((-1 ("ser" v))));
+select ("como" [es] c) if (1 (v));  # como está; como mataron
 
 # Prepositions
 
