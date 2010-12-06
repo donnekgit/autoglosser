@@ -283,21 +283,21 @@ function segment_eng($text)
 	$text=preg_replace("/^gotta$/u", "go#+to.p", $text);  // gotta
 
 	// For the elided forms below we need to double the apostrophe in the search pattern.  This is because pg_escape_string in write_cohorts.php adds an additional apostrophe to escape an apostrophe in the word; we need to remove both, otherwise one will get left after the segmentation, and prevent the lookup.
-	$text=preg_replace("/''d$/u", "#be.v.cond", $text);  // we'd, he'd, they'd
-	$text=preg_replace("/''m$/u", "#be.v.pres", $text);  // I'm
-	$text=preg_replace("/''re$/u", "#be.v.pres", $text);  // we're
-	$text=preg_replace("/''ll$/u", "#be.v.fut", $text);  // we're
-	$text=preg_replace("/''ve$/u", "#have.v.pres", $text);  // we've, they've
+	$text=preg_replace("/''d$/u", "#+be.v.cond", $text);  // we'd, he'd, they'd
+	$text=preg_replace("/''m$/u", "#+be.v.pres", $text);  // I'm
+	$text=preg_replace("/''re$/u", "#+be.v.pres", $text);  // we're
+	$text=preg_replace("/''ll$/u", "#+be.v.fut", $text);  // we're
+	$text=preg_replace("/''ve$/u", "#+have.v.pres", $text);  // we've, they've
 	$text=preg_replace("/''s$/u", "#gb", $text);  // father's, that's
 	$text=preg_replace("/''n$/u", "#cp", $text);  // her'n, me'n, his'n, your'n
-	$text=preg_replace("/n''t$/u", "#neg", $text);  // aren't, wouldn't, don't
+	$text=preg_replace("/n''t$/u", "#+neg", $text);  // aren't, wouldn't, don't
 
 	$text=preg_replace("/(?<!i)ly$/u", "#adv", $text);  // quickly
 	$text=preg_replace("/ily$/u", "i#adv", $text);  // happily
 	$text=preg_replace("/(?<!e)able$/u", "#a.pot", $text);  // treatable
 	$text=preg_replace("/eable$/u", "e#a.pot", $text);  // writeable
 
-	$text=preg_replace("/(er)$/u", "#a.comp", $text); // shorter
+	$text=preg_replace("/(er)$/u", "#comp.ag", $text); // shorter, worker
 	$text=preg_replace("/(est)$/u", "#a.sup", $text); // shortest
 
 	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))ing$/u", "$1#asv", $text);
@@ -305,10 +305,14 @@ function segment_eng($text)
 	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))ed$/u", "$1#av", $text); 
 	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))s$/u", "$1#pv", $text); 
 
-	$text=preg_replace("/([aeiou](nd|nk|nt|rt|rd|lk|pt|sk|st|gn|ng|ct|gh|ll|r|w|mp|y))ing$/u", "$1#asv", $text);
-	// end, print, think, start, walk,  adapt, ask, test, assign, bang, construct, cough, kill, bother, betray, swallow, play
-	$text=preg_replace("/([aeiou](nd|nt|nk|rt|rd|lk|pt|sk|st|gn|ng|ct|gh|ll|r|w|mp|y))ed$/u", "$1#av", $text); 
-	$text=preg_replace("/([aeiou](nd|nt|nk|rt|rd|lk|pt|sk|st|gn|ng|ct|gh|ll|r|w|mp|y))s$/u", "$1#pv", $text); 
+	$text=preg_replace("/([aeiou](nd|nk|nt|rt|rd|rk|lk|pt|sk|st|gn|ng|ct|gh|ll|w|mp|y))ing$/u", "$1#asv", $text);
+	// end, print, think, start, walk,  adapt, ask, test, assign, bang, construct, cough, kill, betray, swallow, play, work
+	$text=preg_replace("/([aeiou](nd|nt|nk|rt|rd|rk|lk|pt|sk|st|gn|ng|ct|gh|ll|w|mp|y))ed$/u", "$1#av", $text); 
+	$text=preg_replace("/([aeiou](nd|nt|nk|rt|rd|rk|lk|pt|sk|st|gn|ng|ct|gh|ll|w|mp|y))s$/u", "$1#pv", $text); 
+
+	$text=preg_replace("/([aeiou](?<!i|u)r)ing$/u", "$1#asv", $text);  // bother
+	$text=preg_replace("/([aeiou](?<!i|u)r)ed$/u", "$1#av", $text); 
+	$text=preg_replace("/([aeiou](?<!i|u)r)s$/u", "$1#pv", $text); 
 
 	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))ing$/u", "$1#asv", $text);  // look, cool, break, roam, moan
 	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))ed$/u", "$1#av", $text); 
@@ -324,6 +328,9 @@ function segment_eng($text)
 	$text=preg_replace("/([aeiou](tch|nch|sh|x))ed$/u", "$1#av", $text);
 	$text=preg_replace("/([aeiou](tch|nch|sh|x))es$/u", "$1#pv", $text); 
 
+	$text=preg_replace("/(ee|go)ing$/u", "$1#asv", $text);  // see, go
+	$text=preg_replace("/(ee|go)s$/u", "$1#pv", $text); 
+
 	$text=preg_replace("/([aeiou]ss)ing$/u", "$1#asv", $text);  // miss
 	$text=preg_replace("/([aeiou]ss)ed$/u", "$1#av", $text);
 	$text=preg_replace("/([aeiou]ss)es$/u", "$1#pv", $text);
@@ -333,7 +340,7 @@ function segment_eng($text)
 	$text=preg_replace("/(i|u)es$/u", "$1#pv", $text);  // controversies
 
 	$text=preg_replace("/([^aeiou][aeiou]{1,2}(c|v|ng|nc|p|k|t|r|g|l|n|m|tl|s))ing$/u", "$1e#asv", $text);
-	// piece, leave (verb), range, wince, gripe, brake, bite, picture, massage, tile, line, become, subtitle, house
+	// piece, leave (verb), range, wince, gripe, brake, bite, picture, massage, tile, line, become, subtitle, house, acquire
 	$text=preg_replace("/([^aeiou][aeiou]{1,2}(c|v|ng|nc|p|k|t|r|g|l|n|m|tl|s))ed$/u", "$1e#av", $text); 
 	$text=preg_replace("/([^aeiou][aeiou]{1,2}(c|v|ng|nc|p|k|t|r|g|l|n|m|tl|s))es$/u", "$1e#pv", $text); 
 
@@ -344,6 +351,7 @@ function segment_eng($text)
 	$text=preg_replace("/(ee)s$/u", "$1#p", $text); // employee
 	$text=preg_replace("/(ie)s$/u", "$1#p", $text); // movie
 	$text=preg_replace("/(de)s$/u", "$1#p", $text); // episode
+	$text=preg_replace("/(one)s$/u", "$1#p", $text); // one
 
 	$text=preg_replace("/(?<![1ieus'])s$/u", "#pv", $text);  // general plural or verb.3s
 

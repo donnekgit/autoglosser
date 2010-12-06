@@ -58,7 +58,7 @@ if (preg_match("/.+#/", $candidate))
 
 	$sql_en="select * from enlist where surface='$main'";
 	$result_en=pg_query($db_handle,$sql_en) or die("Can't get the items");
-	if (pg_num_rows($result_en)>0)
+	if (pg_num_rows($result_en)>0)  // Assuming we have a hit ...
 	{
 		$foundclitics='1';  // Set the marker to show this.
 		while ($row_en=pg_fetch_object($result_en))
@@ -75,9 +75,10 @@ if (preg_match("/.+#/", $candidate))
 			$entry=$entry.$prseg2."\n";  // Attach the endings we found earlier
             echo $entry;  // View
             fwrite($fp, $entry);  // Write
-            unset($entry, $main, $prseg2);  // Clear the decks
+            unset($entry, $main);  // Clear the decks
 		}
 	}
+	unset($prseg2);  // The endings need to be cleared here, or when there is more than one hit in the cohort, hits other than the first one will not have the ending appended..
 }
 
 // Now look up non-clitic forms.

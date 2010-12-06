@@ -309,7 +309,11 @@ select surface, count(surface), mor, auto from zeledon14m_cgwords where mor~'^n'
 
 
 
+CG issues
 
+Treatment of "that"
+"It's that 'that' that is tricky"
+"... but my brother was telling me that law that came about with the homestead exemption ..."
 
 
 
