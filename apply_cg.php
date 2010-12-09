@@ -13,7 +13,7 @@ if (empty($filename))
 
 $fp = fopen("outputs/".$filename."/".$filename."_cg_applied.txt", "w") or die("Can't create the file");
 
-exec("vislcg3 -g grammar/".$gram_file."_grammar --trace -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
+exec("vislcg3 -g grammar/".$gram_file."_grammar  -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
 foreach ($cg_output as $cg_line)
 {
 	echo $cg_line."\n";

@@ -294,6 +294,7 @@ function segment_eng($text)
 
 	$text=preg_replace("/(?<!i)ly$/u", "#adv", $text);  // quickly
 	$text=preg_replace("/ily$/u", "i#adv", $text);  // happily
+
 	$text=preg_replace("/(?<!e)able$/u", "#a.pot", $text);  // treatable
 	$text=preg_replace("/eable$/u", "e#a.pot", $text);  // writeable
 
@@ -328,8 +329,8 @@ function segment_eng($text)
 	$text=preg_replace("/([aeiou](tch|nch|sh|x))ed$/u", "$1#av", $text);
 	$text=preg_replace("/([aeiou](tch|nch|sh|x))es$/u", "$1#pv", $text); 
 
-	$text=preg_replace("/(ee|go)ing$/u", "$1#asv", $text);  // see, go
-	$text=preg_replace("/(ee|go)s$/u", "$1#pv", $text); 
+	$text=preg_replace("/(be|ee|go)ing$/u", "$1#asv", $text);  // see, go, be
+	$text=preg_replace("/(be|ee|go)s$/u", "$1#pv", $text); 
 
 	$text=preg_replace("/([aeiou]ss)ing$/u", "$1#asv", $text);  // miss
 	$text=preg_replace("/([aeiou]ss)ed$/u", "$1#av", $text);
