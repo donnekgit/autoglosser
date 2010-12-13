@@ -315,6 +315,36 @@ Treatment of "that"
 "It's that 'that' that is tricky"
 "... but my brother was telling me that law that came about with the homestead exemption ..."
 
+Clause marking via commas would help:
+"hey baby are you back?"
+There is probably an upturn on baby, hence a comma would reflect this, or if the default downturn, a slight pause after baby, so again a comma would reflect this.  However, this would play havoc with the marking .... No - split if off as we do for periods, etc, and enter it in its own slot.  It could then be used to 
+
+
+
+
+Conversation profiles:
+Run testprofile php - this creates a table called <filename>_profile.
+delete from stammers4_profile where per0=0 and per1=0 and per2=0  # get rid of any lines where all the cells are 0
+select * from sastre1_profile where per0+per2+per3<100 order by utterance_id  # find places where a word is untagged or a langid is missing - these produce white sections on the profile, and are usually due to typos; on sastre1, incredibly, there were 5 typos that had earlier been missed
+Export the table to csv and delete columns to leave only the three percentage columns.
+Run R to create an image:
+png(filename="/home/kevin/autoglosser/profile/sastre1.png", height=600, width=1000, bg="white")
+par(lty=0)  # Note that you have to specify this for the png even if the console already has it specified
+perprofile<-read.csv (file="/home/kevin/autoglosser/profile/perprofile.csv",  na.strings = "NA", nrows = -1, skip = 0, check.names = TRUE, strip.white = FALSE, blank.lines.skip = TRUE) 
+barplot(t(perprofile), col=c("mediumvioletred", "khaki1", "lightskyblue1"), space=0)
+title(main="Conversation profile for sastre1")
+dev.off()
+
+
+
+Diffing files
+diff sastre1orig.cha /home/kevin/data/miami/sastre1.cha > sastre1.diff
+
+
+
+
+
+
 
 
 
