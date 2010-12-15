@@ -58,7 +58,11 @@ foreach ($lines as $line)
         $speaker=preg_replace("/\*/", "", $surface_line[0]);
         $rest=$surface_line[1];
         
-        list($surface, $timing)=explode('', $rest); //NAK is Unicode 0015
+        list($surface_pc, $timing)=explode('', $rest); //NAK is Unicode 0015
+        
+        // strip off the precode, if any
+        list($surface, $precode)=explode(']', $surface_pc);
+        $precode=trim(preg_replace("/\[- /", "", $precode));
 
         if (isset($timing))
 		{
@@ -95,7 +99,7 @@ foreach ($lines as $line)
 		$surface=preg_replace("/\s+/", " ", $surface);
 		$sourcefile=strtolower(trim(pg_escape_string($sourcefile)));
 
-        $sql="insert into $utterances (speaker, duration, surface, filename, durbegin, durend) values ('$speaker', '$duration', '$surface', '$filename', '$durbegin', '$durend')";
+        $sql="insert into $utterances (speaker, duration, surface, filename, durbegin, durend, precode) values ('$speaker', '$duration', '$surface', '$filename', '$durbegin', '$durend', '$precode')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");
 		
 		echo "(".$i.") ".$speaker.": ".$surface."\n";

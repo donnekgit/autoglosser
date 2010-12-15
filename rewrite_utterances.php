@@ -50,7 +50,16 @@ while ($row=pg_fetch_object($result))
 		if  (preg_match("/@/", $surface_value))     
 		{
 			list($surface_word, $langid)=explode('@', $surface_value);  // Siarad: hwyrach@1
-			$langid=preg_replace("/s:/","", $langid);  // Patagonia: oh@s:cy&es - ie, remove s: as well as split at @ 
+			$langid=preg_replace("/s:/","", $langid);  // Patagonia: oh@s:cy&es - ie, remove s: as well as split at @
+			// changes to handle new CLAN default
+			// set up new config in fns.php:
+				// mflg="spa"
+				// lflg="eng"
+			// then add these (spa, eng) to the language arrays
+			// benefit is that we just need to adjust the mf/lflg lines
+			// rather than move "" and s back and forth
+			// if $langid=="s" 
+				// $langid=($precode=="lflg") ? "$mflg" : "$lflg";
 		}
 		elseif(preg_match("/(\.|\?|!)/", $surface_value)) 
 		{
@@ -60,8 +69,11 @@ while ($row=pg_fetch_object($result))
 		else
 		{
             // No langid tag is on the word; in this case, the language will be the one marked as blank ("") in the language arrays at the top of fns.php.
-			$surface_word=$surface_value;
+			$surface_word=$surface_value; 
 			$langid="";
+			// changes to handle new CLAN default
+			// replace above line as follows:
+			// $langid=($precode=="lflg") ? $lflg : $mflg;
 		} 
 
         $surface_word=trim(pg_escape_string($surface_word)); 

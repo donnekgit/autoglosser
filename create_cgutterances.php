@@ -33,7 +33,8 @@ CREATE TABLE $utterances (
     comment text,
     durbegin integer,
     durend integer,
-    duration character varying(50) 
+    duration character varying(50),
+    precode character varying(10)
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);
