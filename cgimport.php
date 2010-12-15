@@ -59,28 +59,20 @@ foreach ($lines as $line)
         $rest=$surface_line[1];
         
         list($surface_pc, $timing)=explode('', $rest); //NAK is Unicode 0015
-        
-        // strip off the precode, if any
-        list($surface, $precode)=explode(']', $surface_pc);
-        $precode=trim(preg_replace("/\[- /", "", $precode));
+        // Strip off and store the precode, if any
+		if (preg_match("/^\[- [a-z]{3}\]/", $surface_pc))
+		{
+			list($precode, $surface)=explode(']', $surface_pc, 2);  // we need to limit the explodes, or all items in square brackets will be hit
+			$precode=trim(preg_replace("/\[- /", "", $precode));
+		}
+		else
+		{
+			$surface=$surface_pc;
+		}
 
         if (isset($timing))
 		{
-			/* For Siarad texts
-			if (preg_match('/snd/', $timing))
-			{
-				list($snd, $sourcefile, $milli)=explode('"', $timing);
-				list($nowt, $durbegin, $durend)=explode('_', $milli);
-				$duration=$durend-$durbegin;
-			}
-			else
-			// On some lines the marker %snd may be missing
-			{
-				list($durbegin, $durend)=explode('_', $timing);
-				$duration=$durend-$durbegin;
-			}
-			*/ //End of Siarad section
-			$timing=preg_replace("/(%|\").*_/U", "", $timing);  // U for ungreedy; this line is to handle the Siarad layout, which looks like this: %snd:"Stammers4"_3878_4423; some lines are missing the "%snd:" part
+			$timing=preg_replace("/(%|\").*_/U", "", $timing);  // U for ungreedy; this line handles the Siarad layout, which looks like this: %snd:"Stammers4"_3878_4423; some lines are missing the "%snd:" part
 			list($durbegin, $durend)=explode('_', $timing);
 			$duration=$durend-$durbegin;
 		}
@@ -104,6 +96,8 @@ foreach ($lines as $line)
 		
 		echo "(".$i.") ".$speaker.": ".$surface."\n";
 		//fwrite($fp, "(".$i.") ".$surface."\n\n");
+
+		unset($precode);
 
 		$i++;
     }

@@ -36,12 +36,14 @@ $sql="select * from $utterances order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
+	echo "\n=======\n";
 	echo $oldutt="(".$row->utterance_id.") ".$row->surface."\n";
 	echo $newutt=lineclean_surface($row->surface)."\n\n";
 
 	fwrite($fp, $oldutt);
 	fwrite($fp, $newutt);
 
+	$precode=$row->precode;
 	$surface_bits=explode(' ', $newutt);
     $i=1;   
     foreach ($surface_bits as $surface_value)
@@ -52,14 +54,10 @@ while ($row=pg_fetch_object($result))
 			list($surface_word, $langid)=explode('@', $surface_value);  // Siarad: hwyrach@1
 			$langid=preg_replace("/s:/","", $langid);  // Patagonia: oh@s:cy&es - ie, remove s: as well as split at @
 			// changes to handle new CLAN default
-			// set up new config in fns.php:
-				// mflg="spa"
-				// lflg="eng"
-			// then add these (spa, eng) to the language arrays
-			// benefit is that we just need to adjust the mf/lflg lines
-			// rather than move "" and s back and forth
-			// if $langid=="s" 
-				// $langid=($precode=="lflg") ? "$mflg" : "$lflg";
+			if (preg_match("/^s$/", $langid))
+			{
+				$langid=($precode==$lflg) ? $mflg : $lflg;
+			}
 		}
 		elseif(preg_match("/(\.|\?|!)/", $surface_value)) 
 		{
@@ -70,17 +68,17 @@ while ($row=pg_fetch_object($result))
 		{
             // No langid tag is on the word; in this case, the language will be the one marked as blank ("") in the language arrays at the top of fns.php.
 			$surface_word=$surface_value; 
-			$langid="";
+			//$langid="";
 			// changes to handle new CLAN default
 			// replace above line as follows:
-			// $langid=($precode=="lflg") ? $lflg : $mflg;
+			$langid=($precode==$lflg) ? $lflg : $mflg;
 		} 
 
         $surface_word=trim(pg_escape_string($surface_word)); 
         $surface_word=wordclean_surface($surface_word);
 		//echo $row->utterance_id." - ".$i." - ".$surface_word." - ".$langid." - ".$row->speaker." - ".$row->chafile."\n\n";
         $sql_w="insert into $words (utterance_id, location, surface, langid, speaker, filename) values ('$row->utterance_id', '$i', '$surface_word', '$langid', '$row->speaker', '$row->filename')";
-        $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");       
+        $result_w=pg_query($db_handle,$sql_w) or die("Can't insert the items");
         $i=++$i; 
     }
 

@@ -17,15 +17,15 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// Set up more frequent language and less frequent language here.
+// Set up more frequent language and less frequent language here.  This covers the new CLAN default.
 $mflg="spa";
 $lflg="eng";
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy");
 $cylg=array("1", "cy", "cy+en", "cy+es");
-$enlg=array("2", "en", "en+es", "en+cy", "eng");
-$eslg=array("3", "es", "es+en", "es+cy", "spa");
+$enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
+$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -152,9 +152,24 @@ function lineclean_surface($text)
 // Note that the order of the following lines is important.
 // Remember to move any tags using & out of the way in the first line, and move them back before the main cleaning line.
 {
-    $text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
-    $text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
-    $text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
+    //$text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
+    //$text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
+    //$text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
+    //$text=preg_replace("/spa&eng/u", "spa#eng", $text); // move language tag out of the way
+
+	// Move the language tag out of the way - replaces the specific lines above with a general approach, but is a good bit slower
+	if (preg_match("/[a-z]{2,3}&[a-z]{2,3}\+[a-z]{2,3}/", $text))
+	{
+		$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})\+([a-z]{2,3})/", "$1#$2##$3", $text);
+	}
+	elseif (preg_match("/([a-z]{2,3})&([a-z]{2,3})/", $text))
+	{
+		$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})/", "$1#$2", $text);
+	}
+	elseif (preg_match("/([a-z]{2,3})\+([a-z]{2,3})/", $text))
+	{
+		$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1##$2", $text);
+	}
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
@@ -170,9 +185,24 @@ function lineclean_surface($text)
 	$text=preg_replace("/(^| ).[^~| ]+~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
 
-    $text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
-    $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
-    $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
+    //$text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
+    //$text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
+    //$text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
+    //$text=preg_replace("/spa#eng/u", "spa&eng", $text); // move language tag back again
+
+	// Move the language tag back again - replaces the specific lines above with a general approach, but is a good bit slower.
+	if (preg_match("/[a-z]{2,3}#[a-z]{2,3}##[a-z]{2,3}/", $text))
+	{
+		$text=preg_replace("/([a-z]{2,3})#([a-z]{2,3})##([a-z]{2,3})/", "$1&$2+$3", $text);
+	}
+	elseif (preg_match("/([a-z]{2,3})#([a-z]{2,3})/", $text))
+	{
+		$text=preg_replace("/([a-z]{2,3})#([a-z]{2,3})/", "$1&$2", $text);
+	}
+	elseif (preg_match("/([a-z]{2,3})##([a-z]{2,3})/", $text))
+	{
+		$text=preg_replace("/([a-z]{2,3})##([a-z]{2,3})/", "$1+$2", $text);
+	}
 
     $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.
 
