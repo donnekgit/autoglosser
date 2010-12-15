@@ -342,10 +342,9 @@ diff sastre1orig.cha /home/kevin/data/miami/sastre1.cha > sastre1.diff
 
 
 
-Conversion to new CHAT default
-Run testdefault.php
-select utterance_id, lgprofile from sastre1_default where lgprofile !~'(0|3)' and lgprofile != ''
-
+Conversion to new CHAT default (from @0, @1, @2, @3 format)
+Run generate_lgprofile.php to find all utterances that need a precode.
+Run convert_to_default.php to inject the precode and switch the tags.
 
 
 
