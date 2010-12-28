@@ -1,5 +1,9 @@
 <?php
 
+/*
+This script counts the number of occurrences of words in a particular language in the import files ($_cgwords and $_cgutterances), and puts them into a profile table.  This can then be used to generate a graph of the conversation profile.
+*/
+
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
@@ -16,9 +20,11 @@ CREATE TABLE $profile (
     my0 integer,
     my1 integer,
     my2 integer,
+    my3 integer,
     per0 integer,
     per1 integer,
-    per2 integer
+    per2 integer,
+    per3 integer
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);
@@ -56,22 +62,22 @@ while ($row_a=pg_fetch_object($result_a))
 	    $my0=(empty($freq[0])) ? 0 : $freq[0];
 	    $my1=(empty($freq[1])) ? 0 : $freq[1];
 	    $my2=(empty($freq[2])) ? 0 : $freq[2];
-	    //$my3=(empty($freq[3])) ? 0 : $freq[3];  
+	    $my3=(empty($freq[3])) ? 0 : $freq[3];  
 	
 		echo $my0." (0) - ";
 		echo $my1." (1) - ";
 		echo $my2." (2) - ";
-		//echo $my3." (3) - ";
+		echo $my3." (3) - ";
 		
 		$per0=($my0==0) ? 0 : round($my0/$total*100);
 		$per1=($my1==0) ? 0 : round($my1/$total*100);
 		$per2=($my2==0) ? 0 : round($my2/$total*100);
-		//$per3=($my3==0) ? 0 : round($my3/$total*100);
+		$per3=($my3==0) ? 0 : round($my3/$total*100);
 			
 		echo $per0." (%0) - ";
 		echo $per1." (%1) - ";
 		echo $per2." (%2) - ";
-		//echo $per3." (%3) - ";
+		echo $per3." (%3) - ";
 		
 		echo "\n";
 		
