@@ -36,7 +36,6 @@ $sql="select * from $utterances order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	echo "\n=======\n";
 	echo $oldutt="(".$row->utterance_id.") ".$row->surface."\n";
 	echo $newutt=lineclean_surface($row->surface)."\n\n";
 
@@ -48,12 +47,12 @@ while ($row=pg_fetch_object($result))
     $i=1;   
     foreach ($surface_bits as $surface_value)
     {
-        // This handles both Siarad and Patagonia langid markings in the same bit of code
+		// Review this - it may be better to generate a fixed langid rather than copy the one from the text, ie generate 'esp' for 3, es, spa, etc.
 		if  (preg_match("/@/", $surface_value))     
 		{
 			list($surface_word, $langid)=explode('@', $surface_value);  // Siarad: hwyrach@1
 			$langid=preg_replace("/s:/","", $langid);  // Patagonia: oh@s:cy&es - ie, remove s: as well as split at @
-			// changes to handle new CLAN default
+			// New CLAN default
 			if (preg_match("/^s$/", $langid))
 			{
 				$langid=($precode==$lflg) ? $mflg : $lflg;

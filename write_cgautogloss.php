@@ -44,7 +44,13 @@ while ($row_s=pg_fetch_object($result_s))
         fwrite($fp, $gls); 
     }
 
-    if (isset($row->comment))
+	 if (isset($row_s->mor))
+    {
+        $mor="%mor: ".$row_s->mor."\n";
+        fwrite($fp, $mor); 
+    }
+
+    if (isset($row_s->comment))
     {
         $comment="%com: ".$row_s->comment."\n";
         fwrite($fp, $comment); 
@@ -59,7 +65,7 @@ while ($row_s=pg_fetch_object($result_s))
     $auto="%aut: ".preg_replace('/ $/','',$auto)."\n";
     fwrite($fp, $auto);
 
-    unset($speech, $gls, $comment, $auto);
+    unset($speech, $gls, $mor, $comment, $auto);
 }
 
 fclose($fp);

@@ -1,4 +1,5 @@
-list words that do not have gloss entries:
+List words that do not have gloss entries:
+========================
 select welsh, count(welsh) from stammers4_cgwords where gloss is null group by welsh order by count desc
 but this is not accurate, because manual glosses have been added - this doesn't mean that the items are in cylist
 
@@ -43,10 +44,12 @@ tagged as @0, but by definition these cannot be English, since they are mutated
 
 
 Checking write_cgautogloss.php output
+=======================
 select w.utterance_id, w.location, w.mainlang, w.gloss, f.utterance_id as autoutt, f.location as autoloc, f.surface, f.lemma, f.tags from patagonia2_cgwords w, patagonia2_cgfinished f where w.utterance_id=f.utterance_id and w.location=f.location order by w.utterance_id, w.location
 
 
 Select tablenames
+===========
 select tablename from pg_tables where tablename !~'(pg_|sql_|_sp)' and tablename ~'_'
 
 
@@ -57,6 +60,7 @@ select * from patagonia1_cgfinished order by utterance, location
 
 
 Generating cylist
+==========
 [Run utils/cylist/pluralise.php on canonical.  This will fill the plurals table.]  NO!  Not required - the current version of canonical already has these plurals added.
 Run utils/cylist/collect.php.  This will gather all entries from 4 separate tables (canonical, berfau, vplus, virreg) into eurfa_nmni.  The last section of the script writes the lemmas based either on the surface or (in the case of a plural surface) the sorp.
 Run utils/cylist/gbl.php.  This will convert the gbl table into the more compact eurfa_gbl.
@@ -128,7 +132,7 @@ subj
 
 
 Creating enlist
-
+=========
 id
 surface 100
 lemma 100
@@ -224,6 +228,7 @@ Many of the above removed again under the new system of on-the-fly segmenting
 
 
 Log unknown words:
+============
 select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
 
 
@@ -231,6 +236,9 @@ select langid, surface, count(surface) from herring1_cgwords where auto='unk' gr
 
 
 Google lookup
+========
+Use the wrapper available here:
+http://www.codediesel.com/php/google-translation-php-wrapper
 create table gt as 
 select langid, surface, count(surface) from herring2_cgwords where auto='unk' and langid='3' group by langid, surface order by langid, surface
 insert into declit select langid, surface, count(surface) from herring1_cgwords where auto='unk' and langid='2' group by langid, surface order by langid, surface
@@ -250,6 +258,7 @@ could be used to fill out many of the pos fields from the english dictionary
 
 
 Testun
+====
 select mainlang, gloss, count(gloss) from deuchar1_cgwords  where mainlang !~ '[A-Z]' and mainlang !~ '[!\?\.]' group by mainlang, gloss order by mainlang, gloss
 select surface, auto, count(auto) from patagonia6_cgwords where auto != 'name' and auto != 'unk' and auto !~'[or]' group by surface, auto order by surface, auto
 
@@ -259,6 +268,7 @@ select surface, auto, count(auto) from patagonia6_cgwords where auto != 'name' a
 
 
 Cognate as percent of total items
+====================
 select filename, langid, mainlang, count(mainlang) from deuchar1_cgwords where langid!='999' group by mainlang, langid, filename order by langid, mainlang
 create table cognates_list as select filename, langid, mainlang, count(mainlang) from smith1_cgwords where langid!='999' group by mainlang, langid, filename order by langid, mainlang
 insert into cognates_list select filename, langid, mainlang, count(mainlang) from roberts1_cgwords where langid!='999' group by mainlang, langid, filename order by langid, mainlang
@@ -290,10 +300,12 @@ select langid, mainlang, sum(count) from cognates_diana where langid!='0' group 
 
 
 Finding "good" examples of autoglossing:
+========================
 select * from stammers4_cgutterances where utterance_id in (select utterance_id from stammers4_cgwords where auto !~'unk' and auto !~'\[or\]' and langid='2')
 
 
 Accuracy and coverage:
+==============
 select surface, gls, auto , count(surface) from stammers4_cgwords where surface~'[.!?]' group by surface, gls, auto  order by surface
 select surface, gls, auto, count(surface) from stammers4_cgwords where auto~'\\.N\\.' group by surface, gls, auto  order by surface
 select surface, mor, auto, count(surface) from zeledon14m_cgwords where auto~'\\.N\\.' group by surface, mor, auto  order by surface
@@ -310,6 +322,7 @@ select surface, count(surface), mor, auto from zeledon14m_cgwords where mor~'^n'
 
 
 CG issues
+======
 
 Treatment of "that"
 "It's that 'that' that is tricky"
@@ -317,12 +330,13 @@ Treatment of "that"
 
 Clause marking via commas would help:
 "hey baby are you back?"
-There is probably an upturn on baby, hence a comma would reflect this, or if the default downturn, a slight pause after baby, so again a comma would reflect this.  However, this would play havoc with the marking .... No - split if off as we do for periods, etc, and enter it in its own slot.  It could then be used to 
+There is probably an upturn on baby, hence a comma would reflect this, or if the default downturn, a slight pause after baby, so again a comma would reflect this.  However, this would play havoc with the marking .... No - split if off as we do for periods, etc, and enter it in its own slot.  It could then be used to create context for the CG rules.
 
 
 
 
 Conversation profiles:
+=============
 Run testprofile php - this creates a table called <filename>_profile.
 delete from stammers4_profile where per0=0 and per1=0 and per2=0  # get rid of any lines where all the cells are 0
 select * from sastre1_profile where per0+per2+per3<100 order by utterance_id  # find places where a word is untagged or a langid is missing - these produce white sections on the profile, and are usually due to typos; on sastre1, incredibly, there were 5 typos that had earlier been missed
@@ -337,12 +351,16 @@ dev.off()
 
 
 
+
 Diffing files
+=======
 diff sastre1orig.cha /home/kevin/data/miami/sastre1.cha > sastre1.diff
 
 
 
-Conversion to new CHAT default (from @0, @1, @2, @3 format)
+
+Conversion to new CHAT default with precodes (from @0, @1, @2, @3 format)
+==============================================
 Run generate_lgprofile.php to find all utterances that need a precode.
 Run convert_to_default.php to inject the precode and switch the tags.
 

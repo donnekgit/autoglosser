@@ -152,12 +152,13 @@ function lineclean_surface($text)
 // Note that the order of the following lines is important.
 // Remember to move any tags using & out of the way in the first line, and move them back before the main cleaning line.
 {
-    //$text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
-    //$text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
-    //$text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
-    //$text=preg_replace("/spa&eng/u", "spa#eng", $text); // move language tag out of the way
+    $text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
+    $text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
+    $text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
+    $text=preg_replace("/spa&eng/u", "spa#eng", $text); // move language tag out of the way
 
-	// Move the language tag out of the way - replaces the specific lines above with a general approach, but is a good bit slower
+/*
+	// Move the language tag out of the way.  This code replaces the specific lines above with a general approach, but it's a great deal slower, so it's commented out.
 	if (preg_match("/[a-z]{2,3}&[a-z]{2,3}\+[a-z]{2,3}/", $text))
 	{
 		$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})\+([a-z]{2,3})/", "$1#$2##$3", $text);
@@ -170,6 +171,7 @@ function lineclean_surface($text)
 	{
 		$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1##$2", $text);
 	}
+*/
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
@@ -181,16 +183,17 @@ function lineclean_surface($text)
     $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself.
     $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
 
-    $text=preg_replace("/(^| ).[^~| ]+~ /u", " ", $text); // Remove backtracking words with an attached tilde.
-	$text=preg_replace("/(^| ).[^~| ]+~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+    $text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
 
-    //$text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
-    //$text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
-    //$text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
-    //$text=preg_replace("/spa#eng/u", "spa&eng", $text); // move language tag back again
+    $text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
+    $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
+    $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
+    $text=preg_replace("/spa#eng/u", "spa&eng", $text); // move language tag back again
 
-	// Move the language tag back again - replaces the specific lines above with a general approach, but is a good bit slower.
+/*
+	// Move the language tag back again. This code replaces the specific lines above with a general approach, but it's a great deal slower, so it's commented out.
 	if (preg_match("/[a-z]{2,3}#[a-z]{2,3}##[a-z]{2,3}/", $text))
 	{
 		$text=preg_replace("/([a-z]{2,3})#([a-z]{2,3})##([a-z]{2,3})/", "$1&$2+$3", $text);
@@ -203,6 +206,7 @@ function lineclean_surface($text)
 	{
 		$text=preg_replace("/([a-z]{2,3})##([a-z]{2,3})/", "$1+$2", $text);
 	}
+*/
 
     $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.
 
@@ -244,9 +248,12 @@ function wordclean_gls($text)
 }
 
 function lineclean_mor($text)
-// Make corrections to the %gls tier as a whole, before it is segmented into words.
+// Make corrections to the %mor tier as a whole, before it is segmented into words.
 {
-    $text=preg_replace("/[+\/]/u", "", $text);  // Remove errant markup: +. /.
+	$text=preg_replace("/unk\|xxx/u", "", $text);  // Remove instances of 'unk|xxx' - MOR doesn't seem to acknowledge xxx.
+	$text=preg_replace("/\+\.{1,2}/u", "", $text);  // Remove instances of +. or +...
+	$text=preg_replace("/\+\//u", "", $text);  // Remove instances of +/
+	$text=preg_replace("/\//u", "", $text);  // Remove errant markup: /.
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
