@@ -53,7 +53,7 @@ while ($row=pg_fetch_object($result))
     $number=($row->number =='') ? "" : $row->number.".";
     $tense=($row->tense =='') ? "" : $row->tense.".";
     $notes=($row->notes =='') ? "" : $row->notes.".";
-    $extra=($row->extra =='') ? "" : "+".$row->extra;
+    $extra=($row->extra =='') ? "" : "+".$row->extra;  // needs to be changed to = to follow the Leipzig glossing rules
     $tags=strtoupper(preg_replace('/\.$/','', $pos.$gender.$number.$tense.$notes.$extra));
     $lemtags=pg_escape_string($enlemma.$tags);
     if ($row->utterance_id==$utt and $row->location==$loc)

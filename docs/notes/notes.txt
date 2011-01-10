@@ -361,8 +361,41 @@ diff sastre1orig.cha /home/kevin/data/miami/sastre1.cha > sastre1.diff
 
 Conversion to new CHAT default with precodes (from @0, @1, @2, @3 format)
 ==============================================
-Run generate_lgprofile.php to find all utterances that need a precode.
-Run convert_to_default.php to inject the precode and switch the tags.
+Run utils/generate_lgprofile.php to find all utterances that need a precode.
+Run utils/convert_to_default.php to inject the precode and switch the tags.
+Run utils/run_mor_post.php to use CLAN's MOR and POST apps to generate a %mor tier.
+Run import_only.php to import the MOR-glossed text.
+
+select utterance_id, lgprofile from sastre1_lgprofile where lgprofile !~'3' and lgprofile != ''
+
+total tokens: select count(*) from tablename
+L2: select count(*) from tablename where mor ~ 'L2'
+(L2): select count(surface) from tablename where mor ~ 'L2' and surface !~ '[A-Z]' and langid !='spa&eng' and surface !='.'
+total types: select surface, langid, count(surface) from tablename where surface !~ '[A-Z]' and langid !='spa&eng' and langid !='eng&spa' and surface !='.' group by langid, surface order by langid, surface
+(L2) types: select surface, langid, count(surface) from tablename where  mor ~ 'L2' and surface !~ '[A-Z]' and langid !='spa&eng' and langid !='eng&spa' and surface !='.' group by langid, surface order by langid, surface
+
+                        sastre1                    sastre8                        sastre08_fixed
+total tokens     6958                        6627                            6634
+L2                    1205         18%         890          13%             170              3%
+(L2)                  873           13%	        743          11%             165              3%
+total types       1290                        1189                            1210
+(L2) types         333          26%         252          21%             109              9%
+TTR                   19%                         18%                             18%
+English                                            3201                            3405 
+Spanish                                           2080                            2148
+Indeterminate                                  270                              0
+
+
+                        sastre8                        sastre08_fixed
+total tokens     6627                            6634
+L2                    890          13%             170              3%
+(L2)                 743          11%             165              3%
+total types       1189                            1210
+(L2) types        252          21%             109              9%
+TTR                  18%                             18%
+English            3201                            3405 
+Spanish           2080                            2148
+Indeterminate  270                              0
 
 
 
@@ -375,7 +408,4 @@ Run convert_to_default.php to inject the precode and switch the tags.
 
 
 
-
-
-
-
+The imported files should not contain a dash in their name - this is not a legal character in PostgreSQL table names.

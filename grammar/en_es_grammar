@@ -1,8 +1,8 @@
 #  General notes
 #  Combining or and not will not necessarily work: select (x) if (1 y) or (not 1 z) does not fire properly
 #  If the tag substitution for English uses dotted notation, none of the other rules will bite, because they are all using spaced notation.
-#  You can't combine conditions applying to a -1 position OR a 1 position.
-#  Substitute lines have to be in order of greatest number of tags in the match section, otherwise rules will fire on some tags, and change the tags so that the larger match never matches.  for instance: sv infin pv.
+#  You can't combine conditions applying to adj -1 position OR adj 1 position.
+#  Substitute lines have to be in order of greatest number of tags in the match section, otherwise rules will fire on some tags, and change the tags so that the larger match never matches.  For instance: sv infin pv.
 
 DELIMITERS = "<.>" "<!>" "<?>";
 
@@ -10,14 +10,15 @@ LIST noun = n;
 LIST verb = v;
 LIST infinitive = (v infin);
 SET inflected = (v) - (infin);  # ie the set of all verbs, minus the set of all infinitives; note that you cannot use LIST here
+SET non_imper = (v) - (imper);
 LIST preposition = prep;
-LIST pronoun = r;
-LIST adjective = a;
-LIST adverb = b;
-LIST conjunction = c;
+LIST pronoun = pron;
+LIST adjective = adj;
+LIST adverb = adv;
+LIST conjunction = conj;
 LIST concessive = "oh" "well";
-LIST exclamation = e;
-LIST interrogative = i;
+LIST exclamation = im;
+LIST interrogative = im;
 LIST phrase = h;
 LIST placename = pn;
 
@@ -45,152 +46,151 @@ SECTION
 ### Rewrite English tags ###
 
 substitute (asv) (v+ing) ([en] n) (-1 ([es] v));  # combine with [1] below?
-# The order of the source tags defines where the target tag will be placed;  here, the v+ing will go in the position occupied by asv; if you turn this around, to (n s asv), the v+ing will go in the position of n s.  The above also keeps the + in + asv; if the + is included in the source (+ asv n s) then it will also be removed from the line.  You need to include [en] in the target environment, otherwise it applies to ALL words tagged n, including Spanish ones.
+# The order of the source tags defines where the target tag will be placed;  here, the v+ing will go in the position occupied by asv; if you turn this around, to (n sg asv), the v+ing will go in the position of n sg.  The above also keeps the + in + asv; if the + is included in the source (+ asv n sg) then it will also be removed from the line.  You need to include [en] in the target environment, otherwise it applies to ALL words tagged n, including Spanish ones.
 #substitute (n) (v+ing) (n) (-1 ([es] v));
 
 #substitute (infin) (prespart) ([en] asv) (-1 ([es] v 3s pres));  # doesn't work
 
-substitute (gb) (+have.v.3s.pres) ("<he's>") (1 ([en] v past+p));  # he's got it
+substitute (gb) (have.v.3s.pres) ("<he's>") (1 ([en] v past+p));  # he's got it
 
-substitute (gb) (+be.v.3s.pres) ("<that's>");
-substitute (gb) (+be.v.3s.pres) ("<it's>");
-substitute (gb) (+be.v.3s.pres) ("<she's>");  # she's gonna be
-substitute (gb) (+be.v.3s.pres) ("<there's>");  # there's no raise
-substitute (gb) (+us.r.sub.1p) ("<let's>");  # let's bring
+substitute (gb) (be.v.3s.pres) ("<that's>");
+substitute (gb) (be.v.3s.pres) ("<it's>");
+substitute (gb) (be.v.3s.pres) ("<she's>");  # she's gonna be
+substitute (gb) (be.v.3s.pres) ("<there's>");  # there's no raise
+substitute (gb) (us.pron.sub.1p) ("<let's>");  # let's bring
 
-substitute (gb) (+poss) ([en] n s) (1 ([en] n));  # the daughter's pet
+substitute (gb) (+poss) ([en] n sg) (1 ([en] n));  # the daughter's pet
 
-substitute (sv infin pv) (n p) ([en] v infin pv) (-1 ([en] a) or ([en] n));  # speed bumps
-substitute (n s pv) (n p) ([en] n s pv);  # because pools are good; kids; houses
+substitute (n sg pv) (n pl) ([en] n sg pv);  # because pools are good; kids; houses
 
-substitute (as) (a) ([en] as) (1 ([en] n));  # a miniature rabbit
-substitute (as) (n s) ([en] as) (not 1 ([en] n));  # a miniature
+substitute (as) (adj) ([en] as) (1 ([en] n));  # a miniature rabbit
+substitute (as) (n sg) ([en] as) (not 1 ([en] n));  # a miniature
 
-#substitute (a comp.ag) (a.comp) ([en] comp.ag) (1 (n));  # smaller box
-substitute (a comp.ag) (a.comp) ([en] comp.ag);  # is cheaper but - CHECK - try this wider version for a while
-substitute (sv infin comp.ag) (n.ag) ([en] sv infin comp.ag) (-1 (t.ind));  # un camper
+#substitute (adj comp.ag) (adj.comp) ([en] comp.ag) (1 (n));  # smaller box
+substitute (adj comp.ag) (adj.comp) ([en] comp.ag);  # is cheaper but - CHECK - try this wider version for a while
+substitute (sv infin comp.ag) (n.ag) ([en] sv infin comp.ag) (-1 (det.indef));  # un camper
 
-#substitute (pv) (v n: 3s t: pres) ([en] pv) (-1 ([en] d.far));  # that starts
-substitute (sv infin pv) (v 3s pres) ([en] pv) (-1 ([en] d.far) or (r.sub 3s) or (r));  # that starts; he presses
+substitute (sv infin pv) (v 3s pres) ([en] pv) (-1 ([en] dem.far) or (pron.sub 3s) or (pron));  # that starts; he presses
 substitute (sv infin) (v 12s13p pres) ("<don't>");  # you don't 
-substitute (sv infin) (v prespart) ("<gonna>");  # gonna have
+substitute (sv infin) (v prespart) ("<gonna>");  # gonnadj have
 
-substitute (13s) (3s) ([en] v 13s) (not -1 (r.sub 1s));  # American_Outdoors was
-substitute (12s13p) (1s) ([en] v 12s13p) (-1 (r.sub 1s));  # I don't
-substitute (12s13p) (2sp) ([en] v 12s13p) (-1 (r.sub 2sp));  # you don't
-substitute (12s13p) (3p) ([en] v 12s13p) (-1 (r.sub 3p));  # they don't
-substitute (12s13p) (3p) ([en] v 12s13p) (0 ("<don't>")) (1 (r.sub 3p));  # don't they
-substitute (2s123p) (1p) ([en] v 2s123p) (-1 (r.sub 1p) or (n p));  # we were; 
-substitute (2s123p) (3p) ([en] v 2s123p) (-1 (r.sub 3p) or (n p));  # they were; the taxes were
-substitute (123p) (1p) ([en] v 123p) (-1 (r.sub 1p));  # we are
-substitute (123p) (2sp) ([en] v 123p) (-1 (r.sub 2sp));  # you are
-substitute (123p) (3p) ([en] v 123p) (-1 (r.sub 3p));  # they are
-substitute (123p) (3p) ([en] v 123p) (not -1 (r.sub 1p) or (r.sub 2p));  # so many people from the county are
-substitute (123sp) (1s) ([en] v 123sp) (-1 (r.sub 1s));  # I can
-substitute (123sp) (2sp) ([en] v 123sp) (-1 (r.sub 2sp));  # you can
-substitute (123sp) (3s) ([en] v 123sp) (-1 (r.sub 3s));  # he can
+substitute (13s) (3s) ([en] v 13s) (not -1 (pron.sub 1s));  # American_Outdoors was
+substitute (12s13p) (1s) ([en] v 12s13p) (-1 (pron.sub 1s));  # I don't
+substitute (12s13p) (2sp) ([en] v 12s13p) (-1 (pron.sub 2sp));  # you don't
+substitute (12s13p) (3p) ([en] v 12s13p) (-1 (pron.sub 3p));  # they don't
+substitute (12s13p) (3p) ([en] v 12s13p) (0 ("<don't>")) (1 (pron.sub 3p));  # don't they
+substitute (2s123p) (1p) ([en] v 2s123p) (-1 (pron.sub 1p) or (n pl));  # we were; 
+substitute (2s123p) (3p) ([en] v 2s123p) (-1 (pron.sub 3p) or (n pl));  # they were; the taxes were
+substitute (123p) (1p) ([en] v 123p) (-1 (pron.sub 1p));  # we are
+substitute (123p) (2sp) ([en] v 123p) (-1 (pron.sub 2sp));  # you are
+substitute (123p) (3p) ([en] v 123p) (-1 (pron.sub 3p));  # they are
+substitute (123p) (3p) ([en] v 123p) (not -1 (pron.sub 1p) or (pron.sub 2p));  # so many people from the county are
+substitute (123sp) (1s) ([en] v 123sp) (-1 (pron.sub 1s));  # I can
+substitute (123sp) (2sp) ([en] v 123sp) (-1 (pron.sub 2sp));  # you can
+substitute (123sp) (3s) ([en] v 123sp) (-1 (pron.sub 3s));  # he can
 
-substitute (sv infin asv) (v prespart) ([en] sv infin asv) (1 ([en] t.def) or ([en] d.far) or ([en] "for"));  # finding that; working for
-substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-1 ([en] "be") or preverbal);  # we were looking;
+substitute (sv infin asv) (v prespart) ([en] sv infin asv) (1 ([en] det.def ) or ([en] dem.far) or ([en] "for"));  # finding that; working for
+substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-1 ([en] "be") or preverbal or (:go:));  # we were looking; vamos camping
 substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-1 ([en] v));  # that starts cooling;
 substitute (sv infin asv) (v prespart) ([en] sv infin asv) (-2 ([en] v)) (-1 ("not"));;  # you are not seeing
 substitute (sv infin asv) (v prespart) ([en] sv infin asv) (1 ([en] n));  # a camping spot;
 
-substitute (sv infin av) (v pastpart) ([en] sv infin av) (-1 ([en] "be") or (+be.v.3s.pres) or ([en] "have"));  # it's slanted;
-substitute (sv infin av) (v pastpart) ([en] sv infin av) (-2 ([en] "be") or (+be.v.3s.pres) or ([en] "have")) (-1 ("not"));  # have not increased
+substitute (sv infin asv) (n sg) ([en] sv infin asv) (-1 (prep+det.def) or (det.def) or (det.indef));  # del meeting;
+
+substitute (sv infin av) (v pastpart) ([en] sv infin av) (-1 ([en] "be") or (be.v.3s.pres) or ([en] "have"));  # it's slanted;
+substitute (sv infin av) (v pastpart) ([en] sv infin av) (-2 ([en] "be") or (be.v.3s.pres) or ([en] "have")) (-1 ("not"));  # have not increased
 substitute (sv infin av) (v pastpart) ([en] sv infin av) (1 ([en] sv infin));  # smoked
 
-substitute (sv infin av) (v past) ([en] sv infin av) (-1 ([en] r.sub) or (name));  # they closed; Pepita moved
-substitute (sv infin av) (v past) ([en] sv infin av) (-2 ([en] r.sub)) (-1 preverbal);  # they just closed
+substitute (sv infin av) (v past) ([en] sv infin av) (-1 ([en] pron.sub) or (name));  # they closed; Pepitadj moved
+substitute (sv infin av) (v past) ([en] sv infin av) (-2 ([en] pron.sub)) (-1 preverbal);  # they just closed
 
-substitute (av past) (v past) ([en] av past) (-1 ([en] r.sub));  # we bought
+substitute (av past) (v past) ([en] av past) (-1 ([en] pron.sub));  # we bought
 #substitute (av past) (v past) ([en] av past) (not 1 ([en] n));  # that came about - too broad?
 
 substitute (av past) (v pastpart) ([en] av past) (-1 (have.v.pres) or ("have") or ("be"));  # you've done; you have done; it was misspent
 
-substitute (sv infin pv) (v pres 3s) ([en] sv infin pv) (-2 ([en] a.poss) or ([en] a)) (-1 ([en] n s));  # his wife puts
+substitute (sv infin pv) (v pres 3s) ([en] sv infin pv) (-2 ([en] adj.poss) or ([en] adj)) (-1 ([en] n sg));  # his wife puts
 
-substitute (sv infin) (v 1s pres) ([en] sv infin) (-1 ([en] r.sub 1s));  # I mean
-substitute (sv infin) (v 1p pres) ([en] sv infin) (-1 ([en] r.sub 1p));  # we do
-substitute (sv infin) (v 2s pres) ([en] sv infin) (-1 ([en] r.sub 2s));  # you get
-substitute (sv infin) (v 2sp pres) ([en] sv infin) (-1 ([en] r.sub 2sp));  # you know
-substitute (sv infin) (v 2s pres) ([en] sv infin) (-2 ([en] r.sub 2s)) (-1 preverbal);  # you just get
-substitute (sv infin) (v 3s pres) ([en] sv infin) (-1 ([en] r.sub 3s)) (not -1 (+be.v.3s.pres));  # he keep[s]
-substitute (sv infin) (v 3p pres) ([en] sv infin) (-1 ([en] r.sub 3p) or (n p));  # they build; employees have
+substitute (sv infin) (v 1s pres) ([en] sv infin) (-1 ([en] pron.sub 1s));  # I mean
+substitute (sv infin) (v 1p pres) ([en] sv infin) (-1 ([en] pron.sub 1p));  # we do
+substitute (sv infin) (v 2s pres) ([en] sv infin) (-1 ([en] pron.sub 2s));  # you get
+substitute (sv infin) (v 2sp pres) ([en] sv infin) (-1 ([en] pron.sub 2sp));  # you know
+substitute (sv infin) (v 2s pres) ([en] sv infin) (-2 ([en] pron.sub 2s)) (-1 preverbal);  # you just get
+substitute (sv infin) (v 3s pres) ([en] sv infin) (-1 ([en] pron.sub 3s)) (not -1 (+be.v.3s.pres));  # he keep[s]
+substitute (sv infin) (v 3p pres) ([en] sv infin) (-1 ([en] pron.sub 3p) or (n pl));  # they build; employees have
 
-substitute (sv infin) (v infin) ([en] sv infin) ((-1 ("to" [en] p)) or (-2 ("to" [en] p)));  # to actually put it
+substitute (sv infin) (v infin) ([en] sv infin) ((-1 ("to" [en] prep)) or (-2 ("to" [en] prep)));  # to actually put it
 substitute (sv infin) (v infin) ([en] sv infin) (-1 ("<gonna>"));  # gonna be
-#substitute (sv infin) (v infin) ([en] sv infin) (1 ([en] r.sub));  # and open it
+#substitute (sv infin) (v infin) ([en] sv infin) (1 ([en] pron.sub));  # and open it
 
 substitute (sv infin) (v imper) ([en] sv infin) ((-1 ("oh")) or (0 ("<let's>")));  # oh look!; let's bring
 substitute (sv infin) (v imper) ([en] sv infin) (-1 ("well"));  # well bring me # this is not a very good rule!
 
-substitute (sv infin pv) (n p) ([en] sv infin pv) (-1 ([en] a) or ("t.*"r) or ("at" p));  # other offers
+substitute (sv infin pv) (n pl) ([en] sv infin pv) (-1 ([en] adj) or ([en] n) or ("det.*"r) or ("at" prep));  # other offers; speed bumps
 
-substitute (sv infin) (n s) ([en] sv infin) (-1 ([en] a) or ("t.*"r) or ("at" p) or (v pastpart));  # a good deal; a raise; the cut; at work; smoked barbecue
-substitute (sv infin) (n s) ([en] sv infin) (-1 ([en] "more") or ([en] "no"));  # more work; no raise
-
+substitute (sv infin) (n sg) ([en] sv infin) (-1 ([en] adj) or ("det.*"r) or ("at" prep) or (v pastpart));  # a good deal; a raise; the cut; at work; smoked barbecue
+substitute (sv infin) (n sg) ([en] sv infin) (-1 ([en] n) or ([en] "more") or ([en] "no"));  # speed bump; more work; no raise
 
 substitute (av past+p) (v pastpart) ([en] av past+p) (-1 ([en] "have") or ("<he's>"));  # he's got it
-substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] r.sub) or (name));  # she got; Pepa had
+substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] pron.sub) or (name));  # she got; Pepa had
 
-substitute (r.sub) (r.obj) ([en] r.sub) (-1 ([en] v infin));  # and open it
-substitute (r.sub) (r.obj) ([en] r.sub) (-1 ([en] v) link not 2 ([en] v));  # they take it away
-substitute (r.sub) (r.obj) ([en] r.sub) (-1 ("<that's>") or ([en] "for" p) or ("worth"));  # that's it; for you; worth it
+substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] v infin));  # and open it
+substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] v) link not 2 ([en] v));  # they take it away
+substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ("<that's>") or ([en] "for" prep) or ("worth"));  # that's it; for you; worth it
 
-substitute (r.obj) (r.sub) ([en] r.obj 3s) (-1 ("<isn't>"));  # isn't it
+substitute (pron.obj) (pron.sub) ([en] pron.obj 3s) (-1 ("<isn't>"));  # isn't it
 
-substitute (r.obj) (r.indir) ([en] r.obj) (-1 ("buy") or ("send") or ("bring"));  # I bought him; to send you the stuff
+substitute (pron.obj) (pron.indir) ([en] pron.obj) (-1 ("buy") or ("send") or ("bring"));  # I bought him; to send you the stuff
 
-substitute (r.refl) (r.refl.indir) ([en] r.refl) (-1 ("buy"));  # he bought himself
+substitute (pron.refl) (pron.refl.indir) ([en] pron.refl) (-1 ("buy"));  # he bought himself
 
 substitute (r s p) (r p) ([en] r s p);  # miniature ones
 
-substitute (a) (b) ([en] a adv);  # originally, fairly
-substitute (adv) (+ly) ([en] b adv);  # originally, fairly
+substitute (adj) (adv) ([en] adj ly);  # originally, fairly
+#substitute (adv) (ly) ([en] adv adv);  # originally, fairly  # CHECK
 
-substitute (b) (r) ("<there's>"); 
+substitute (adv) (pron) ("<there's>"); 
 
 substitute (v 1s pres) (v infin) ([en] v 1s pres) (-1 (+be.v.fut));  # I'll have
 
 
 ### English disambiguations ###
 
-select ([en] d.far) if ((-1 ("like" c)) or (1 ("be" [en] v 3s)));  # like that; that is
-select ([en] d.far) if (1 (a) or (n));
-select ([en] d.far) if (0 ("<that's>"));  # so that's something
-select ([en] d.far) if (1 (<<<));  # finding that. ; 
+select ([en] dem.far) if ((-1 ("like" conj)) or (1 ("be" [en] v 3s)));  # like that; that is
+select ([en] dem.far) if (1 (adj) or (n));
+select ([en] dem.far) if (0 ("<that's>"));  # so that's something
+select ([en] dem.far) if (1 (<<<));  # finding that. ; 
 
-select ("that" [en] c) if (not 1 (a) or (n));  # CHECK - too broad?
-select ("that" [en] c) if (1 (r.sub)) (2 (v));
-select ("that" [en] c) if (1 ("have" [en] v 3s));  # that has
-select ("that" [en] c) if (1 ([en] "t.*"r));  # that the; that a 
-select ("that" [en] c) if (-2 ([en] t.def)) (-1 (r) or (n)) (1 (v));
-select ("that" [en] c) if (-1 ("now") or ("so"));  # now that; so that
-select ("that" [en] c) if (1 ("<it's>"));  # that it's 
+select ("that" [en] conj) if (not 1 (adj) or (n));  # CHECK - too broad?
+select ("that" [en] conj) if (1 (pron.sub)) (2 (v));
+select ("that" [en] conj) if (1 ("have" [en] v 3s));  # that has
+select ("that" [en] conj) if (1 ([en] "det.*"r));  # that the; that a
+select ("that" [en] conj) if (-2 ([en] det.def )) (-1 (pron) or (n)) (1 (v));
+select ("that" [en] conj) if (-1 ("now") or ("so"));  # now that; so that
+select ("that" [en] conj) if (1 ("<it's>"));  # that it's 
 
-select  ([en] r) if (not -1 (n) or (num));  # this one; three zero one
+select  ([en] pron) if (not -1 (n) or (num));  # this one; three zero one
 select ([en] num) if (-1 ([en] num));  # three zero one
 
 select ([en] num) if (1 (n));  # one advantage
 
 select ("like" sv infin) if (-1 ("do" [en] v pres neg));  # you don't like
-select ("like" v 3s) if (-1 (r.sub 3s));  # he likes
-select ("like" [en] c) if (1 ([en] t.ind) or ("what" w) or (r.sub));  # like a house; like what; like we were
-select ("like" [en] c) if (-1 preverbal or (v));  # just like; they played, like, ...;
+select ("like" v) if (-1 (pron.sub));  # he likes; you like
+select ("like" [en] conj) if (1 ([en] det.indef) or ("what" w) or (pron.sub));  # like a house; like what; like we were
+select ("like" [en] conj) if (-1 preverbal or (v));  # just like; they played, like, ...;
 
-select ("even" [en] a) if (not 1 (v));  # it's not even (=level)
-select ("even" [en] b) if (1 (v));  # they don't even wanna
+select ("even" [en] adj) if (not 1 (v));  # it's not even (=level)
+select ("even" [en] adv) if (1 (v));  # they don't even wanna
 
-select ([en] n s) if (-1 ([en] t.ind));
-select ([en] n s) if (1 ("of")) (2 ([en] t.ind));  # kind of a 
+select ([en] n sg) if (-1 ([en] det.indef) or ([en] det.def));  # in the back
+select ([en] n sg) if (1 ("of")) (2 ([en] det.indef));  # kind of a
 
-select ([en] r.indir) if (not 1 (n));  # we brought her some
+select ([en] pron.indir) if (not 1 (n));  # we brought her some
 
-remove ([en] a) if (not 1 ([en] n));  # and open it  # CHECK!
+remove ([en] adj) if (not 1 ([en] n));  # and open it  # CHECK!
 
-select ([en] v infin) if (1 (r.obj) or (r));  # and then match everything
-select ([en] v) if (-1 (r));  # everything opens up
+select ([en] v infin) if (1 (pron.obj) or (pron));  # and then match everything
+select ([en] v) if (-1 (pron));  # everything opens up
 
 
 
@@ -198,145 +198,159 @@ select ([en] v) if (-1 (r));  # everything opens up
 # Global rules
 
 # Incorrect segmentation of -er - perhaps better to do rules excluding these by context, since in some cases they can actually occur, eg a four-master ...
-remove ("a"  [en] t.ind :a: pv);  # a-s
-remove ("aft"  [en] b :aft: a.comp);  # aft-er
-remove ("broth" [en] n s :broth: a.comp);  # broth-er
-remove ("mast" [en] n s :mast: a.comp);  # mast-er
+remove ("a"  [en] det.indef :a: pv);  # a-s
+remove ("aft"  [en] adv :aft: a.comp);  # aft-er
+remove ("broth" [en] n sg :broth: adj.comp);  # broth-er
+remove ("mast" [en] n sg :mast: adj.comp);  # mast-er
 
 
 
 
 ##### Rules for Spanish #####
 
+### To Do ###
+# Rewrite viejito - old_guy.N.M.SG.DIM -> old_guy.DIM.N.M.SG - perhaps better to put this in write_cgautogloss.php.
+# Rewrite to remove v, n, adj, adv?
+# Rule to convert dem.adj to dem.pron when no accent is written.
+# Rule to convert adjectives to pronouns when there is no noun attached.
+
+
 # Articles
 
-select ([es] t.def) if (1 (n f) or (a f) or (o f) or ([en] a) or ([en] n)); # los dry walls
-select ([es] t.def) if (1 (n m) or (a m) or (o m));
-select ([es] t.def) if (-1 ("de" prep :of:));
-select ([es] t.def) if (not 1 (v));  # los ladrillos ... los 
-select ([es] t.def nt s) if (1 ("que" [es] c));  # en lo que
+select ([es] det.def) if (1 (n f) or (adj f) or (ord f) or ([en] adj) or ([en] n)); # los dry walls
+select ([es] det.def) if (1 (n m) or (adj m) or (ord m));
+select ([es] det.def) if (-1 ("de" prep :of:));
+select ([es] det.def) if (not 1 (v));  # los ladrillos ... los 
+select ([es] det.def nt sg) if (1 ("que" [es] conj));  # en lo que
 
-select ([es] t.ind f) if (1 (n f) or (a f) or (o f));
-select ([es] t.ind m) if (1 (n m) or (a m) or (o m));
-select ([es] t.ind) if (1 ([es] t.ind)) ;  # una ... un hammock
-select ([es] t.ind) if (not 1 (n));  # una ... como se llama
+select ([es] det.indef f) if (1 (n f) or (adj f) or (ord f));
+select ([es] det.indef m) if (1 (n m) or (adj m) or (ord m));
+select ([es] det.indef) if (1 ([es] det.indef)) ;  # una ... un hammock
+select ([es] det.indef) if (not 1 (n));  # una ... como se llama
+
+select ("un" [es] pron) if (not 1 (n));  # no has visto una
 
 # Conjunctions
 
-substitute (c) (pron.rel) ("que" [es] c) (-1 (n) or ("lo") or ("<del>") or ("<al>"));  # el hombre que me habló; el chico del que me hablaste
+substitute (conj) (pron.rel) ("que" [es] conj :that:) (-1 (n) or ("<lo>") or ("<del>") or ("<al>") or (det.indef));  # el hombre que me habló; el chico del que me hablaste; lo que están haciendo; yo tengo una que cada vez
+select ("que" :that:) if (-1 ("<lo>"));  # lo que están haciendo
 
-select ("que" c :that:) if (not -1 (a));
-select ("que" c :that:) if (-1 ("tener"));  # tiene que
-select ([es] interj) if (not 1 ([es] a));
-select ("como" [es] c) if ((1 (r.subj) or ("que" [es] c) or ("aquí" [es] b) or ("en" [es] prep)) or ((-1 ("ser" v))));
-select ("como" [es] c) if (1 (v));  # como está; como mataron
+select ("que" :that:) if (not -1 (adj));
+select ("que" conj :that:) if (-1 ("tener"));  # tiene que
+select ([es] im) if (not 1 ([es] adj));
+select ("como" [es] conj) if ((1 (pron.sub) or ("que" [es] conj) or ("aquí" [es] adv) or ("en" [es] prep)) or ((-1 ("ser" v))));
+select ("como" [es] conj) if (1 (v));  # como está; como mataron
 
 # Prepositions
 
-select ("para" [es] prep :for:) if (1 (r.obj) or (r.dem) or (v infin) or ("que" c) or (t.def));
-select ("para" [es] prep) if (1 ("dentro" b) or ("arriba" b) or ("allá" b));  # para dentro; para arriba; para allá
+select ("para" [es] prep :for:) if (1 (pron.obj) or (pron.dem) or (v infin) or ("que" conj) or (det.def));
+select ("para" [es] prep) if (1 ("dentro" adv) or ("arriba" adv) or ("allá" adv));  # para dentro; para arriba; para allá
 select ("entre" [es] prep :between:) if (not 1 ("en"));
 
 
 # Nouns
 
-select ([es] n m s) if (-1 ([es] t.def m s) or ([es] t.ind m s));
-#remove ([es] n m s) if (not -1 ([es] t.def m s) or ([es] t.ind m s));  crap!
-select ([es] n m p) if (-1 ([es] t.def m p) or ([es] t.ind m p));
-select ([es] n f s) if (-1 ([es] t.def f s) or ([es] t.ind f s));
-select ([es] n f p) if (-1 ([es] t.def f p) or ([es] t.ind f p));
+select ([es] n m sg) if (-1 ([es] det.def  m sg) or ([es] det.indef m sg));
+#remove ([es] n m sg) if (not -1 ([es] det.def  m sg) or ([es] det.indef m sg));  crap!
+select ([es] n m pl) if (-1 ([es] det.def  m pl) or ([es] det.indef m pl));
+select ([es] n f sg) if (-1 ([es] det.def  f sg) or ([es] det.indef f sg));
+select ([es] n f pl) if (-1 ([es] det.def  f pl) or ([es] det.indef f pl));
 
-select ([es] n) if (1 ("del" p+t) or ("de" prep));
+select ([es] n) if (1 ("del" prep+det.def) or ("de" prep));
 select ([es] n) if (-1 ("de" prep));  # de concreto
 select ([es] n) if (-1 ("cualquier") or ("qué"));  # cualquier cosa; qué cosa
-select ([es] n) if (-1 ([es] a.dem));  # esa cosa
-select ([es] n) if (-1 ([es] a.poss));  # su idea
+select ([es] n) if (-1 ([es] adj.dem));  # esa cosa
+select ([es] n) if (-1 ([es] adj.poss));  # su idea
 
 
-select ("gusto" n) if (-1 ("mucho" a));
-select ("casa" n f s :house:) if (-1 (prep));
+select ("gusto" n) if (-1 ("mucho" adj));
+select ("casa" n f sg :house:) if (-1 (prep));
 
 
 # Demonstratives
 
-select ("este" a.dem m s) if (1 (n m s));
+select ("este" adj.dem m sg) if (1 (n m sg));
 
 
 # Pronouns
 
-substitute (r.sub) (r.obj) ([es] r.sub) (-1 ("a" [es] prep));  # a nosotros
-substitute (r.obj) (r.indir) ([es] r.obj) (-1 ([es] r.sub)) (1 ([es] r.obj)) (2 ([es] v));  # yo te la voy; yo te la hago
-substitute (r.obj) (r.indir) ([es] r.obj) (-1 ([es] r.sub)) (1 ([es] v));  # yo me recuerdo
-substitute (r.obj) (r.indir) ([es] r.obj) (-1 ([es] "no" b)) (1 ([es] v));  # no te ha dado
+substitute (pron.sub) (pron.obj) ([es] pron.sub) (-1 ("a" [es] prep));  # a nosotros
+#substitute (pron.obj) (pron.indir) ([es] pron.obj) (-1 ([es] pron.sub)) (1 ([es] pron.obj)) (2 ([es] v));  # yo te la voy; yo te la hago
+#substitute (pron.obj) (pron.indir) ([es] pron.obj) (-1 ([es] pron.sub)) (1 ([es] v));  # yo me recuerdo
+#substitute (pron.obj) (pron.indir) ([es] pron.obj) (-1 ([es] "no" adv)) (1 ([es] v));  # no te ha dado
+# the above are covered now by using pron.obl for me, te, nos, os
 
-select ([es] r.ref) if (1 (v 3s) or (v 13s) or (v 3p));
-select ("se" [es] r.ind) if (1 (r.obj)) (2(v));  # se lo hizo
-select ([es] r.obj) if (1 ("que" c));
-#select ("sí" [es] r.p mf 3s) if (1 ([es] v));  # replaced by adverb rule below
-select ([es] r.sub 1s) if (1 ([es] v 1s));  # yo recuerdo;
+select ([es] pron.refl) if (1 (v 3s) or (v 13s) or (v 3p));
+select ("se" [es] pron.indir) if (1 (pron.obj)) (2(v));  # se lo hizo
+select ("se" [es] pron.refl) if (1 ("<nos>"));  # se nos ha occurrido 
+select ([es] pron.obj) if (1 ("que" conj));
+#select ("sí" [es] pron.prep mf 3s) if (1 ([es] v));  # replaced by adverb rule below
+select ([es] pron.sub 1s) if (1 ([es] v 1s));  # yo recuerdo;
 
-select ([es] r) if (1(v));  # cuando uno manda
+select ([es] pron) if (1(v));  # cuando uno manda
 
-select ("él" [es] r.obj) if (1 (v));
-select ("otro" r) if (not 1 (n));
-select ("uno" [es] r) if (1 ("de"));
-select ("todo" [es] r) if (1 (v));
-select ("uno" [es] r) if (1 ("<.>"));  # has visto uno. ;
+select ("él" [es] pron.obj) if (1 (v));
+select ("otro" pron) if (not 1 (n));
+select ("uno" [es] pron) if (1 ("de"));
+select ("todo" [es] pron) if (1 (v));
+select ("uno" [es] pron) if (1 ("<.>"));  # has visto uno. ;
 
 
 # Adverbs
 
-select ([es] b) if (-1 ("más"));  # más cerca a
-select ([es] b) if (not -1 (a));  # es igual
+select ([es] ) if (-1 ("más"));  # más cerca a
+#select ([es] adv) if (not -1 (adj));  # es igual
 
-select ("mañana" b) if (not -1 ("la" t.def));
-select ("temprano" b) if (-1 ("muy"));
-#select ("sí" [es] b) if (not 1 (v));  # sí los bloquecitos  # replaced by adverb rule below
-select ("sí" [es] b) if (not -1 (prep));  # sí son las; sí los bloquecitos
-select ("arriba" b) if (-1 ("para" prep) or ("hasta" prep) or ("algo" r));
-select ("arriba" b) if (0* ("poner" v));  # ponerle arriba
-select ("así" [es] b) if (1 inflected or ("mismo") or ("que"));  # así hablas; así mismo; así que
+select ("mañana" adv) if (not -1 ("la" det.def));
+select ("temprano" adv) if (-1 ("muy"));
+#select ("sí" [es] adv) if (not 1 (v));  # sí los bloquecitos  # replaced by adverb rule below
+select ("sí" [es] adv) if (not -1 (prep));  # sí son las; sí los bloquecitos
+select ("arriba" adv) if (-1 ("para" prep) or ("hasta" prep) or ("algo" pron));
+select ("arriba" adv) if (0* ("poner" v));  # ponerle arriba
+select ("así" [es] adv) if (1 inflected or ("mismo") or ("que"));  # así hablas; así mismo; así que
+
 
 # Adjectives
 
-substitute (a.poss) (r.poss) ([es] "of_.*"ri a.poss) ( not -1 ([es] n));  # los suyos
+substitute (adj.poss) (pron.poss) ([es] "of_.*"ri adj.poss) (not -1 ([es] n));  # los suyos
+substitute (adj.dem) (pron.dem) ([es] adj.dem) (not 1([es] n)); # un hammock de esos
 
-select ([es] a m s) if (-1 ([es] n m s) or (t.ind));  # un poco
-select ([es] a) if (1 (n));  # tiene bastante espacio; otro zip code
+select ([es] adj m sg) if (-1 ([es] n m sg) or (det.indef));  # un poco
+select ([es] adj) if (1 (n));  # tiene bastante espacio; otro zip code
 
-select ("mucho" a) if (1 (n));  # mucho speed bump
-select ("tarde" n) if (-1 (t.def));
-select ("mejor" a) if (1 (n));
-select ("todo" [es] a) if (1 (t.def));
-select ("tanto" [es] a) if (-1 ("no"));  # no tanto este lado
-select ("todo" [es] a) if (1 ([es] a.dem));  # toda esa cosa
-select ("menos" b) if (-1 ("o" c)) (-2 ("más" b));  # más o menos
+select ("mucho" adj) if (1 (n));  # mucho speed bump
+select ("tarde" n) if (-1 (det.def));
+select ("mejor" adj) if (1 (n));
+select ("todo" [es] adj) if (1 (det.def));
+select ("todo" [es] adj) if (1 ([es] adj.dem));  # todadj esadj cosa
+select ("menos" adv) if (-1 ("o" conj)) (-2 ("más" adv));  # más o menos
 
 
 #  Verbs
 
-select (v) if (-1 ("así" [es] b));
+select (v) if (-1 ("así" [es] adv));
 select (v pastpart) if (-1 ("haber") or ("estar"));
 select (v infin) if (-1 ("para" [es] prep :for:));
-select (v 3s pres) if (-1 ("donde" l :where:) or (r) or (r.sub));
-select ([es] v pres) if (-1 ("si" [es] c));  # si entra (to remove imperative)
-select ([es] v 2s past) if (-1 ([es] r.sub 2s));  # tú viste
-select ([es] v pres) if (-1 ([es] r.ref) or ([es] c));  # se asfalta; que vale
-select ([es] v 3s) if (-1 ([es] r.ref mf 3sp));  # se pudiera
-select ([es] v pres) if (-1 ([es] r.obj));  # nos vamos
-select ([es] v) if (-1 ([es] r.sub));  # que yo sepa; ellos son;
+#select (v 3s pres) if (-1 ("donde" l :where:) or (pron) or (pron.sub));
+#select ([es] v pres) if (-1 ("si" [es] c));  # si entra (to remove imperative)
+select ([es] v 2s non_imper) if (-1 ([es] pron.sub 2s));  # tú viste
+#select ([es] v pres) if (-1 ([es] pron.refl) or ([es] conj));  # se asfalta; que vale
+select non_imper if (-1 ([es] pron.refl mf 23sp) or ([es] conj) or ([es] pron.rel));  # se pudiera; se asfalta; que vale; lo que pasa
+select ([es] v pres) if (-1 ([es] pron.obj));  # nos vamos
+select ([es] v) if (-1 ([es] pron.sub));  # que yo sepa; ellos son;
 select ([es] v pastpart) if (-1 ("ser"));  # siendo incorporados
 
-select ("saber" [es] v 1s pres) if (-1 ("no") or (r.sub));  # yo no sé; yo sé
-select ("ir" [es] v past) if (-1 ([es] r.obj));  # y nos fuimos;
-select ("ir" [es] v past) if (1 ("a" [es] prep));  # fuimos a ver
+substitute (13s) (1s) ([es] v 13s subj.pres) (-1 ([es] pron.sub mf 1s));  # que yo sepa
+
+select ("saber" [es] v 1s pres) if (-1 ("no") or (pron.sub));  # yo no sé; yo sé
+select ("ir" [es] v past) if (-1 ([es] pron.obl) or ([es] pron.refl));  # y nos fuimos;
+select ("ir" [es] v past) if (1 ("a" [es] prep));  # fuimos adj ver
 select ("ser" [es] v) if (not 1 (v));
 select ("ser" [es] v) if (not 1 (prep));
-select ("ser" [es] v) if (1 ("como" c));
-select ("creer" [es] v) if (1 ("que" c));  # yo creo que
-select ("ver" [es] v) if (1 ("que" c));  # viste que
+select ("ser" [es] v) if (1 ("como" conj));
+select ("creer" [es] v) if (1 ("que" conj));  # yo creo que
+select ("ver" [es] v) if (1 ("que" conj));  # viste que
 select ("bajar" [es] v) if ((1 (n)) or (2 (n)));  # baja la velocidad
-
 
 
 # Lexical selection
@@ -347,7 +361,10 @@ substitute (:wear:) (:have_been:) ("llevar") (1 (v prespart));  # llevamos habla
 
 # Global rules
 
-# 1- remove less common tenses - has the effect of "deleting" items from the dictionary
+# 1 - remove less common tenses - has the effect of "deleting" items from the dictionary
 #select (v 3s pres);
-remove (pressubj);
+remove (subj.pres);
 remove ("unir" [es] v 1s pres);  # que hagamos uno
+
+# 2 - remove annoying words - needs to be looked at again!
+remove ("vestir"); # pero viste las cositas

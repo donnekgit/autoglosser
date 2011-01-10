@@ -18,14 +18,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // Set up more frequent language and less frequent language here.  This covers the new CLAN default.
-$mflg="spa";
-$lflg="eng";
+$mflg="eng";
+$lflg="spa";
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy");
 $cylg=array("1", "cy", "cy+en", "cy+es");
-$enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
-$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
+$enlg=array("2", "en", "en+es", "en+cy", "eng", "");
+$eslg=array("3", "es", "es+en", "es+cy", "spa", "s");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -156,6 +156,7 @@ function lineclean_surface($text)
     $text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
     $text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
     $text=preg_replace("/spa&eng/u", "spa#eng", $text); // move language tag out of the way
+    $text=preg_replace("/eng&spa/u", "eng#spa", $text); // move language tag out of the way
 
 /*
 	// Move the language tag out of the way.  This code replaces the specific lines above with a general approach, but it's a great deal slower, so it's commented out.
@@ -191,6 +192,7 @@ function lineclean_surface($text)
     $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
     $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
     $text=preg_replace("/spa#eng/u", "spa&eng", $text); // move language tag back again
+    $text=preg_replace("/eng#spa/u", "eng&spa", $text); // move language tag back again
 
 /*
 	// Move the language tag back again. This code replaces the specific lines above with a general approach, but it's a great deal slower, so it's commented out.
@@ -318,29 +320,29 @@ function clitic_pos($text)
 function segment_eng($text)
 // Segment the clitic pronouns from the verbform.
 {
-	$text=preg_replace("/^let's$/u", "let#+us.r.1p", $text);  // let's
-	$text=preg_replace("/^gonna$/u", "go#+to.p", $text);  // gonna
-	$text=preg_replace("/^wanna$/u", "want#+to.p", $text);  // gonna
-	$text=preg_replace("/^gotta$/u", "go#+to.p", $text);  // gotta
+	$text=preg_replace("/^let's$/u", "let#us.pron.1p", $text);  // let's
+	$text=preg_replace("/^gonna$/u", "go#to.prep", $text);  // gonna
+	$text=preg_replace("/^wanna$/u", "want#to.prep", $text);  // wanna
+	$text=preg_replace("/^gotta$/u", "go#to.prep", $text);  // gotta
 
 	// For the elided forms below we need to double the apostrophe in the search pattern.  This is because pg_escape_string in write_cohorts.php adds an additional apostrophe to escape an apostrophe in the word; we need to remove both, otherwise one will get left after the segmentation, and prevent the lookup.
-	$text=preg_replace("/''d$/u", "#+be.v.cond", $text);  // we'd, he'd, they'd
-	$text=preg_replace("/''m$/u", "#+be.v.pres", $text);  // I'm
-	$text=preg_replace("/''re$/u", "#+be.v.pres", $text);  // we're
-	$text=preg_replace("/''ll$/u", "#+be.v.fut", $text);  // we're
-	$text=preg_replace("/''ve$/u", "#+have.v.pres", $text);  // we've, they've
+	$text=preg_replace("/''d$/u", "#be.v.cond", $text);  // we'd, he'd, they'd
+	$text=preg_replace("/''m$/u", "#be.v.pres", $text);  // I'm
+	$text=preg_replace("/''re$/u", "#be.v.pres", $text);  // we're
+	$text=preg_replace("/''ll$/u", "#be.v.fut", $text);  // we're
+	$text=preg_replace("/''ve$/u", "#have.v.pres", $text);  // we've, they've
 	$text=preg_replace("/''s$/u", "#gb", $text);  // father's, that's
 	$text=preg_replace("/''n$/u", "#cp", $text);  // her'n, me'n, his'n, your'n
-	$text=preg_replace("/n''t$/u", "#+neg", $text);  // aren't, wouldn't, don't
+	$text=preg_replace("/n''t$/u", "#neg", $text);  // aren't, wouldn't, don't
 
-	$text=preg_replace("/(?<!i)ly$/u", "#adv", $text);  // quickly
-	$text=preg_replace("/ily$/u", "i#adv", $text);  // happily
+	$text=preg_replace("/(?<!i)ly$/u", "#ly", $text);  // quickly
+	$text=preg_replace("/ily$/u", "i#ly", $text);  // happily
 
 	$text=preg_replace("/(?<!e)able$/u", "#a.pot", $text);  // treatable
 	$text=preg_replace("/eable$/u", "e#a.pot", $text);  // writeable
 
 	$text=preg_replace("/(er)$/u", "#comp.ag", $text); // shorter, worker
-	$text=preg_replace("/(est)$/u", "#a.sup", $text); // shortest
+	$text=preg_replace("/(est)$/u", "#adj.sup", $text); // shortest
 
 	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))ing$/u", "$1#asv", $text);
 	// visit, bother, happen, gossip
@@ -359,6 +361,10 @@ function segment_eng($text)
 	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))ing$/u", "$1#asv", $text);  // look, cool, break, roam, moan
 	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))ed$/u", "$1#av", $text); 
 	$text=preg_replace("/([aeiou][aeiou](k|l|m|n))s$/u", "$1#pv", $text); 
+
+	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])ing$/u", "$1#asv", $text);  // breaking - but leaving is wrong, meet
+	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])ed$/u", "$1#av", $text); 
+	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])s$/u", "$1#pv", $text);  // breaks - but leaves is wrong
 
 	$text=preg_replace("/([aeiou][p|t])[p|t]ing$/u", "$1#asv", $text);  // grip
 	$text=preg_replace("/([aeiou](ck))ing$/u", "$1#asv", $text);  // back

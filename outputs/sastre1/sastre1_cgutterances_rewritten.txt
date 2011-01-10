@@ -49,8 +49,8 @@ mmhm@0 .
 (17) bueno@3 ese@3 está@3 en@3 la@3 intersección@3 .
 bueno@3 ese@3 está@3 en@3 la@3 intersección@3 .
 
-(18) ése@3 tiene@3 bastante@3 espacio@3 .
-ése@3 tiene@3 bastante@3 espacio@3 .
+(18) ese@3 tiene@3 bastante@3 espacio@3 .
+ese@3 tiene@3 bastante@3 espacio@3 .
 
 (19) <lo@3 malo@3> [///] el@3 otro@3 yo@3 lo@3 veo@3 más@3 difícil@3 porque@3 es@3 más@3 [/] más@3 estrechito@3 .
 el@3 otro@3 yo@3 lo@3 veo@3 más@3 difícil@3 porque@3 es@3 más@3 estrechito@3 .
@@ -589,8 +589,8 @@ yeah@2 .
 (197) yeah@2 .
 yeah@2 .
 
-(198) flat@2 screen@2 TVs@0 I@2 mean@2 he's@2 got@2 it@2 +.. .
-flat@2 screen@2 TVs@0 I@2 mean@2 he's@2 got@2 it@2 .
+(198) flat@2 screen@2 tvs@0 I@2 mean@2 he's@2 got@2 it@2 +.. .
+flat@2 screen@2 tvs@0 I@2 mean@2 he's@2 got@2 it@2 .
 
 (199) +< mmhm@0 .
 mmhm@0 .
@@ -601,8 +601,8 @@ yeah@0 .
 (201) (be)cause@2 he@2 likes@2 to@2 go@2 to@2 the@2 Keys@0 a@2 lot@2 .
 because@2 he@2 likes@2 to@2 go@2 to@2 the@2 Keys@0 a@2 lot@2 .
 
-(202) yah@2 the@2 keys@2 are@2 getting@2 very@2 +/ .
-yah@2 the@2 keys@2 are@2 getting@2 very@2 .
+(202) yah@2 the@2 Keys@0 are@2 getting@2 very@2 +/ .
+yah@2 the@2 Keys@0 are@2 getting@2 very@2 .
 
 (203) expensive@2 .
 expensive@2 .
@@ -793,8 +793,8 @@ how@2 is@2 everything@2 at@2 the@2 hospital@2 ?
 (265) good@2 .
 good@2 .
 
-(266) sí ?
-sí ?
+(266) sí@3 ?
+sí@3 ?
 
 (267) +< it's@2 busy@2 but@2 it's@2 good@2 .
 it's@2 busy@2 but@2 it's@2 good@2 .
@@ -934,8 +934,8 @@ mmhm@0 .
 (312) that@2 he@2 was@2 saying@2 that@2 # you@2 know@2 that@2 it's@2 not@2 worth@2 it@2 .
 that@2 he@2 was@2 saying@2 that@2 you@2 know@2 that@2 it's@2 not@2 worth@2 it@2 .
 
-(313) he@2 was@2 telling@2 me@2 that@2 so@2 many@2 people@2 from@2 the@2 county@2 are@2 gonna@2 loose@2 # jobs@2 because@2 of@2 that@2 .
-he@2 was@2 telling@2 me@2 that@2 so@2 many@2 people@2 from@2 the@2 county@2 are@2 gonna@2 loose@2 jobs@2 because@2 of@2 that@2 .
+(313) he@2 was@2 telling@2 me@2 that@2 so@2 many@2 people@2 from@2 the@2 county@2 are@2 gonna@2 lose@2 # jobs@2 because@2 of@2 that@2 .
+he@2 was@2 telling@2 me@2 that@2 so@2 many@2 people@2 from@2 the@2 county@2 are@2 gonna@2 lose@2 jobs@2 because@2 of@2 that@2 .
 
 (314) they@2 are@2 gonna@2 take@2 you@2 know@2 they@2 are@2 gonna@2 cut@2 [//] the@2 cut@2 down@2 xxx is@2 gonna@2 be@2 so@2 drastic@2 .
 they@2 are@2 gonna@2 take@2 you@2 know@2 they@2 are@2 gonna@2 the@2 cut@2 down@2 is@2 gonna@2 be@2 so@2 drastic@2 .
@@ -1045,7 +1045,7 @@ ok@0 .
 (349) ah@0 se@3 está@3 poniendo@3 xxx dile@3 .
 ah@0 se@3 está@3 poniendo@3 dile@3 .
 
-(350) uh-oh@0 ya@3 empezó@3 los@3 síntomas@3 de@3 xxx .
+(350) uhoh@0 ya@3 empezó@3 los@3 síntomas@3 de@3 xxx .
 uhoh@0 ya@3 empezó@3 los@3 síntomas@3 de@3 .
 
 (351) dile@3 que@3 cuándo@3 se@3 va@3 a@3 comprar@3 la@3 motocicleta@3 .
@@ -1138,8 +1138,8 @@ he@2 is@2 one@2 of@2 these@2 guys@2 that's@2 crazy@2 .
 (380) +< xxx .
 .
 
-(381) xxx saw@2 an@2 American@2 film@2 .
-saw@2 an@2 American@2 film@2 .
+(381) xxx saw@2 an@2 american@2 film@2 .
+saw@2 an@2 american@2 film@2 .
 
 (382) &=cough .
 .
@@ -1153,8 +1153,8 @@ sí@3 .
 (385) <he@2 is@2 um@2> [//] he@2 is@2 a@2 physician@2 # from@2 Cuba@2 .
 he@2 is@2 a@2 physician@2 from@2 Cuba@2 .
 
-(386) and@2 he@2 is@2 er@2 working@2 with@2 us@2 over@2 there@2 and@2 as@2 a@2 case@2 manager@2 .
-and@2 he@2 is@2 er@2 working@2 with@2 us@2 over@2 there@2 and@2 as@2 a@2 case@2 manager@2 .
+(386) and@2 he@2 is@2 er@0 working@2 with@2 us@2 over@2 there@2 and@2 as@2 a@2 case@2 manager@2 .
+and@2 he@2 is@2 er@0 working@2 with@2 us@2 over@2 there@2 and@2 as@2 a@2 case@2 manager@2 .
 
 (387) and@2 he@2 is@2 studying@2 for@2 his@2 R_N@2 to@2 see@2 if@2 he@2 can@2 get@2 it@2 now@2 .
 and@2 he@2 is@2 studying@2 for@2 his@2 R_N@2 to@2 see@2 if@2 he@2 can@2 get@2 it@2 now@2 .
@@ -1246,8 +1246,8 @@ te@3 asaltan@3 te@3 matan@3 por@3 cualquier@3 cosa@3 .
 (416) +< er@0 te@3 asaltan@3 # exacto@3 .
 er@0 te@3 asaltan@3 exacto@3 .
 
-(417) mira@3 ahí@3 el@3 tú@3 viste@3 como@3 mataron@3 a@3 la@3 gente@3 esa@3 ahí@3 en@3 el@3 Chili´s@0 .
-mira@3 ahí@3 el@3 tú@3 viste@3 como@3 mataron@3 a@3 la@3 gente@3 esa@3 ahí@3 en@3 el@3 Chilis@0 .
+(417) mira@3 ahí@3 el@3 tú@3 viste@3 como@3 mataron@3 a@3 la@3 gente@3 esa@3 ahí@3 en@3 el@3 Chili's@0 .
+mira@3 ahí@3 el@3 tú@3 viste@3 como@3 mataron@3 a@3 la@3 gente@3 esa@3 ahí@3 en@3 el@3 Chili's@0 .
 
 (418) +< la@3 del@3 Chili's@3 sí@3 .
 la@3 del@3 Chili's@3 sí@3 .
@@ -1255,8 +1255,8 @@ la@3 del@3 Chili's@3 sí@3 .
 (419) sí@3 .
 sí@3 .
 
-(420) pero@3 mi@3 [//] la@3 [/] la@3 gente@3 que@3 vive@3 aquí@3 en@3 Miami_Lakes@0 they@2 get@2 very@2 upset@2 because@2 of@2 that@2 because@2 they@2 say@2 que@3 Chili´s@0 was@2 in@2 Miami_Lakes@0 .
-pero@3 la@3 gente@3 que@3 vive@3 aquí@3 en@3 Miami_Lakes@0 they@2 get@2 very@2 upset@2 because@2 of@2 that@2 because@2 they@2 say@2 que@3 Chilis@0 was@2 in@2 Miami_Lakes@0 .
+(420) pero@3 mi@3 [//] la@3 [/] la@3 gente@3 que@3 vive@3 aquí@3 en@3 Miami_Lakes@0 they@2 get@2 very@2 upset@2 because@2 of@2 that@2 because@2 they@2 say@2 que@3 Chili's@0 was@2 in@2 Miami_Lakes@0 .
+pero@3 la@3 gente@3 que@3 vive@3 aquí@3 en@3 Miami_Lakes@0 they@2 get@2 very@2 upset@2 because@2 of@2 that@2 because@2 they@2 say@2 que@3 Chili's@0 was@2 in@2 Miami_Lakes@0 .
 
 (421) and@2 Chili's@0 is@2 not@2 in@2 Miami_Lakes@0 .
 and@2 Chili's@0 is@2 not@2 in@2 Miami_Lakes@0 .
@@ -1276,8 +1276,8 @@ that's@2 Miramar@0 .
 (426) +< that's@2 +.. . .
 that's@2 .
 
-(427) no@2 no@2 that's@2 er@2 Miami_Gardens@0 no@2 ?
-no@2 no@2 that's@2 er@2 Miami_Gardens@0 no@2 ?
+(427) no@2 no@2 that's@2 er@0 Miami_Gardens@0 no@2 ?
+no@2 no@2 that's@2 er@0 Miami_Gardens@0 no@2 ?
 
 (428) +< no@2 that's@2 unincorporate(d)@2 [/] no@2 that's@2 incorporated@2 Dade_County@0 that's@2 Dade_County@0 .
 no@2 that's@2 no@2 that's@2 incorporated@2 Dade_County@0 that's@2 Dade_County@0 .
@@ -1318,20 +1318,20 @@ they@2 are@2 just@2 unincorporated@2 Dade_County@0 .
 (440) but@2 do(n't)@2 [/] don't@2 they@2 call@2 that@2 area@2 a@2 certain@2 area@2 and@2 they@2 don't@2 they@2 have@2 a@2 name@2 .
 but@2 don't@2 they@2 call@2 that@2 area@2 a@2 certain@2 area@2 and@2 they@2 don't@2 they@2 have@2 a@2 name@2 .
 
-(441) +< that's@2 Carol_city@0 .
-that's@2 Carol_city@0 .
+(441) +< that's@2 Carol_City@0 .
+that's@2 Carol_City@0 .
 
-(442) Carol_city@0 right@2 ?
-Carol_city@0 right@2 ?
+(442) Carol_City@0 right@2 ?
+Carol_City@0 right@2 ?
 
-(443) Carol_city@0 pero@3 +/ .
-Carol_city@0 pero@3 .
+(443) Carol_City@0 pero@3 +/ .
+Carol_City@0 pero@3 .
 
 (444) +< ok@0 .
 ok@0 .
 
-(445) Carol_city@0 is@2 not@2 a@2 city@2 # or@2 a@2 town@2 .
-Carol_city@0 is@2 not@2 a@2 city@2 or@2 a@2 town@2 .
+(445) Carol_City@0 is@2 not@2 a@2 city@2 # or@2 a@2 town@2 .
+Carol_City@0 is@2 not@2 a@2 city@2 or@2 a@2 town@2 .
 
 (446) it's@2 a@2 subdivision@2 .
 it's@2 a@2 subdivision@2 .
@@ -1426,8 +1426,8 @@ sales@3 a@3 sales@3 a@3 Hyaleah@2 .
 (476) yeah@2 .
 yeah@2 .
 
-(477) why@2 don't@2 be@2 get@2 our@2 own@2 zip@2 code@2 ?
-why@2 don't@2 be@2 get@2 our@2 own@2 zip@2 code@2 ?
+(477) why@2 don't@2 we@2 get@2 our@2 own@2 zip@2 code@2 ?
+why@2 don't@2 we@2 get@2 our@2 own@2 zip@2 code@2 ?
 
 (478) we@2 are@2 getting@2 our@2 own@2 zip@2 code@2 tres@3 tres@3 cero@3 cuatro@3 .
 we@2 are@2 getting@2 our@2 own@2 zip@2 code@2 tres@3 tres@3 cero@3 cuatro@3 .
@@ -1450,8 +1450,8 @@ no@3 sé@3 .
 (484) pero@3 eso@3 lo@3 dijo@3 +.. .
 pero@3 eso@3 lo@3 dijo@3 .
 
-(485) (be)cause@2 I@2 keep@2 telling@2 like@2 if@2 you@2 call@2 a@2 credit@2 card@2 you@2 call@2 somebody@2 and@2 you@2 give@2 them@2 an@2 address@2 and@2 you@2 tell@2 them@2 Miami_Lakes@0 they@2 are@2 like@2 no@2 madam@2 and@2 ok@0 Hyaleah@2
-because@2 I@2 keep@2 telling@2 like@2 if@2 you@2 call@2 a@2 credit@2 card@2 you@2 call@2 somebody@2 and@2 you@2 give@2 them@2 an@2 address@2 and@2 you@2 tell@2 them@2 Miami_Lakes@0 they@2 are@2 like@2 no@2 madam@2 and@2 ok@0 Hyaleah@2
+(485) (be)cause@2 I@2 keep@2 telling@2 like@2 if@2 you@2 call@2 a@2 credit@2 card@2 you@2 call@2 somebody@2 and@2 you@2 give@2 them@2 an@2 address@2 and@2 you@2 tell@2 them@2 Miami_Lakes@0 they@2 are@2 like@2 no@2 madam@2 and@2 ok@0 Hyaleah@0 .
+because@2 I@2 keep@2 telling@2 like@2 if@2 you@2 call@2 a@2 credit@2 card@2 you@2 call@2 somebody@2 and@2 you@2 give@2 them@2 an@2 address@2 and@2 you@2 tell@2 them@2 Miami_Lakes@0 they@2 are@2 like@2 no@2 madam@2 and@2 ok@0 Hyaleah@0 .
 
 (486) +< er@0 mmhm@0 .
 er@0 mmhm@0 .
@@ -1591,8 +1591,8 @@ exacto@3 .
 (531) <ya@3 se@3 lo@3 puso@3> [//] ya@3 se@3 lo@3 hizo@3 ?
 ya@3 se@3 lo@3 hizo@3 ?
 
-(532) mmhm@0 ella@3 se@3 lo@3 está@3 haciendo@3 xxx ése@3 es@3 el@3 campo@3 de@3 ella@3 .
-mmhm@0 ella@3 se@3 lo@3 está@3 haciendo@3 ése@3 es@3 el@3 campo@3 de@3 ella@3 .
+(532) mmhm@0 ella@3 se@3 lo@3 está@3 haciendo@3 xxx ese@3 es@3 el@3 campo@3 de@3 ella@3 .
+mmhm@0 ella@3 se@3 lo@3 está@3 haciendo@3 ese@3 es@3 el@3 campo@3 de@3 ella@3 .
 
 (533) oh@0 ok@0 .
 oh@0 ok@0 .
@@ -1618,14 +1618,14 @@ si@3 acaso@3 hazme@3 cuando@3 tengas@3 un@3 chance@2 hazme@3 una@3 copia@3 .
 (540) de:@3 cómo@3 se@3 llena@3 .
 de:@3 cómo@3 se@3 llena@3 .
 
-(541) yo@3 tengo@3 ahí@3 ella@3 me@3 él@3 él@3 me@3 dio@3 una@3 copia@3 que@3 ahora@3 yo@3 tengo@3 que@3 hacérsela@3 pero@3 yo@3 te@3 la@3 voy@3 a@3 hacer@3 una@3 copia@3 ésa@3 .
-yo@3 tengo@3 ahí@3 ella@3 me@3 él@3 él@3 me@3 dio@3 una@3 copia@3 que@3 ahora@3 yo@3 tengo@3 que@3 hacérsela@3 pero@3 yo@3 te@3 la@3 voy@3 a@3 hacer@3 una@3 copia@3 ésa@3 .
+(541) yo@3 tengo@3 ahí@3 ella@3 me@3 él@3 él@3 me@3 dio@3 una@3 copia@3 que@3 ahora@3 yo@3 tengo@3 que@3 hacérsela@3 pero@3 yo@3 te@3 la@3 voy@3 a@3 hacer@3 una@3 copia@3 esa@3 .
+yo@3 tengo@3 ahí@3 ella@3 me@3 él@3 él@3 me@3 dio@3 una@3 copia@3 que@3 ahora@3 yo@3 tengo@3 que@3 hacérsela@3 pero@3 yo@3 te@3 la@3 voy@3 a@3 hacer@3 una@3 copia@3 esa@3 .
 
 (542) +< xxx .
 .
 
-(543) ésa@3 exacto@3 .
-ésa@3 exacto@3 .
+(543) esa@3 exacto@3 .
+esa@3 exacto@3 .
 
 (544) ok@0 .
 ok@0 .
@@ -1654,8 +1654,8 @@ es@3 igual@3 que@3 cuando@3 uno@3 manda@3 los@3 cheques@3 al@3 I_R_S@2 .
 (552) mmhm@0 .
 mmhm@0 .
 
-(553) hay@3 que@3 poner@3 el@3 ten@2 ninety@2 nine@2 xxx con@3 el@3 número@3 de@3 social@2 security@2 y@2 toda@3 esa@3 cosa@3 .
-hay@3 que@3 poner@3 el@3 ten@2 ninety@2 nine@2 con@3 el@3 número@3 de@3 social@2 security@2 y@2 toda@3 esa@3 cosa@3 .
+(553) hay@3 que@3 poner@3 el@3 ten@2 ninety@2 nine@2 xxx con@3 el@3 número@3 de@3 social@2 security@2 y@3 toda@3 esa@3 cosa@3 .
+hay@3 que@3 poner@3 el@3 ten@2 ninety@2 nine@2 con@3 el@3 número@3 de@3 social@2 security@2 y@3 toda@3 esa@3 cosa@3 .
 
 (554) que@3 si@3 no@3 no@3 lo@3 acept(an)@3 no@3 no@3 es@3 que@3 no@3 lo@3 acepten@3 si@3 no@3 no@3 te@3 lo@3 acreditan@3 los@3 [/] los@3 xxx tienen@3 que@3 acreditar@3 .
 que@3 si@3 no@3 no@3 lo@3 aceptan@3 no@3 no@3 es@3 que@3 no@3 lo@3 acepten@3 si@3 no@3 no@3 te@3 lo@3 acreditan@3 los@3 tienen@3 que@3 acreditar@3 .
@@ -1696,8 +1696,8 @@ ya@3 cocinaste@3 nosotros@3 comimos@3 nosotros@3 fuimos@3 a@3 Bass@2 Pro@2 shop@
 (566) +< sí@3 .
 sí@3 .
 
-(567) where@2?
-where@2?
+(567) where@2 ?
+where@2 ?
 
 (568) Bass@2 Pro@2 shop@2 .
 Bass@2 Pro@2 shop@2 .
@@ -1726,8 +1726,8 @@ porque@3 andamos@3 para@3 el@3 futuro@3 buscando@3 uno@3 más@3 grande@3 .
 (576) y@3 de@3 ahí@3 salimos@3 .
 y@3 de@3 ahí@3 salimos@3 .
 
-(577) y@3 nos@3 metimos@3 un@3 # barbecue@2 place@2 que@3 hay@3 er:@0 # university@2 and@2 Pince boulevard@2 .
-y@3 nos@3 metimos@3 un@3 barbecue@2 place@2 que@3 hay@3 er:@0 university@2 and@2 Pince boulevard@2 .
+(577) y@3 nos@3 metimos@3 un@3 # barbecue@2 place@2 que@3 hay@3 er:@0 # university@2 and@2 Pince@0 boulevard@2 .
+y@3 nos@3 metimos@3 un@3 barbecue@2 place@2 que@3 hay@3 er:@0 university@2 and@2 Pince@0 boulevard@2 .
 
 (578) ok@0 .
 ok@0 .
@@ -1801,8 +1801,8 @@ I@2 I@2 went@2 this@2 morning@2 I@2 Jennie@0 breakfast@2 and@2 then@2 we@2 haven
 (601) Jennie@0 is@2 the@2 little@2 one@2 .
 Jennie@0 is@2 the@2 little@2 one@2 .
 
-(602) yeah@2 Maria is@2 working@2 tonight@2 .
-yeah@2 Maria is@2 working@2 tonight@2 .
+(602) yeah@2 Maria@0 is@2 working@2 tonight@2 .
+yeah@2 Maria@0 is@2 working@2 tonight@2 .
 
 (603) +< mmhm@0 yeah@2 .
 mmhm@0 yeah@2 .
@@ -2149,8 +2149,8 @@ and@2 the@2 bumper@2 used@2 to@2 be@2 a@2 different@2 color@2 that@2 they@2 used
 (717) +< mmhm@0 mmhm@0 .
 mmhm@0 mmhm@0 .
 
-(718) pero@3 tipo@3 S_U_V@2 o +.. .
-pero@3 tipo@3 S_U_V@2 o .
+(718) pero@3 tipo@3 S_U_V@2 o@3 +.. .
+pero@3 tipo@3 S_U_V@2 o@3 .
 
 (719) no@3 no@3 it@2 was@2 a@2 car@2 .
 no@3 no@3 it@2 was@2 a@2 car@2 .
@@ -2329,8 +2329,8 @@ mmhm@0 .
 (777) &=laugh .
 .
 
-(778) we@2 are@2 tired@2 talking@2 to@2 each@2 other@2 we@2 wanna@2 watch@2 the@2 news@2 and@2 the@2 TV@0 right@2 now@2 .
-we@2 are@2 tired@2 talking@2 to@2 each@2 other@2 we@2 wanna@2 watch@2 the@2 news@2 and@2 the@2 TV@0 right@2 now@2 .
+(778) we@2 are@2 tired@2 talking@2 to@2 each@2 other@2 we@2 wanna@2 watch@2 the@2 news@2 and@2 the@2 tv@0 right@2 now@2 .
+we@2 are@2 tired@2 talking@2 to@2 each@2 other@2 we@2 wanna@2 watch@2 the@2 news@2 and@2 the@2 tv@0 right@2 now@2 .
 
 (779) mmhm@0 .
 mmhm@0 .
@@ -2353,8 +2353,8 @@ y@3 los@3 otros@3 días@3 el@3 tiroteo@3 en@3 el@3 colegio@3 .
 (785) yeah@2 .
 yeah@2 .
 
-(786) y@3 ayer@3 o@3 anteayer@3 el@3 [/] el@3 riot@2 en@@3 el@3 Edison@0 .
-y@3 ayer@3 o@3 anteayer@3 el@3 riot@2 en@@3 el@3 Edison@0 .
+(786) y@3 ayer@3 o@3 anteayer@3 el@3 [/] el@3 riot@2 en@3 el@3 Edison@0 .
+y@3 ayer@3 o@3 anteayer@3 el@3 riot@2 en@3 el@3 Edison@0 .
 
 (787) +< xxx .
 .
@@ -2428,8 +2428,8 @@ ay@3 at@2 least@2 they@2 do@2 .
 (810) yeah@2 .
 yeah@2 .
 
-(811) they@2 are@2 doing@2 something@2 better@2 than@2 watching@2 er@0 TV@0 and@2 computers@2 all@2 day@2 .
-they@2 are@2 doing@2 something@2 better@2 than@2 watching@2 er@0 TV@0 and@2 computers@2 all@2 day@2 .
+(811) they@2 are@2 doing@2 something@2 better@2 than@2 watching@2 er@0 tv@0 and@2 computers@2 all@2 day@2 .
+they@2 are@2 doing@2 something@2 better@2 than@2 watching@2 er@0 tv@0 and@2 computers@2 all@2 day@2 .
 
 (812) +< yeah@2 yeah@2 .
 yeah@2 yeah@2 .
@@ -2719,8 +2719,8 @@ qué@3 bueno@3 así@3 no@3 está@3 solita@3 .
 (907) tú@3 sabes@3 que@3 yo@3 pensaba@3 que@3 los@3 hijos@3 de@3 Lucía@0 las@3 [/] las@3 hijas@3 de@3 los@3 hijos@3 vivían@3 fuera@3 de@3 Miami@0 .
 tú@3 sabes@3 que@3 yo@3 pensaba@3 que@3 los@3 hijos@3 de@3 Lucía@0 las@3 hijas@3 de@3 los@3 hijos@3 vivían@3 fuera@3 de@3 Miami@0 .
 
-(908) pero@3 éste@3 [/] éste@3 vive@3 en@3 Core_Gables@0 .
-pero@3 éste@3 vive@3 en@3 Core_Gables@0 .
+(908) pero@3 este@3 [/] este@3 vive@3 en@3 Core_Gables@0 .
+pero@3 este@3 vive@3 en@3 Core_Gables@0 .
 
 (909) really@2 ?
 really@2 ?

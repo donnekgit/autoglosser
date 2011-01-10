@@ -1,7 +1,8 @@
 <?php
 
 /*
-This script generates a language profile for each utterance - a sequence of the language tags for each item in the utterance.  This works best for the old @0, @1, @2, @3 tags, and less well for the newer alphabetic ones (en, es, spa).
+Call as: php utils/generate_lgprofile.php inputs/Miami/sastre1.cha 
+This script generates a language profile for each utterance - a sequence of the language tags for each item in the utterance.  This works best for the old @0, @1, @2, @3 tags, and would need to be adapted for the newer alphabetic ones (en, es, spa).
 */
 
 if (empty($filename))
@@ -12,10 +13,10 @@ if (empty($filename))
 }
 
 $profiletable=$filename."_lgprofile";
-drop_existing_table($lgprofile);
+drop_existing_table($profiletable);
 
 $sql_table = "
-CREATE TABLE sastre1_default (
+CREATE TABLE $profiletable (
     utterance_id serial NOT NULL,
     surface text,
     cleaned text,
