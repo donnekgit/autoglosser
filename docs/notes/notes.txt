@@ -331,6 +331,23 @@ Treatment of "that"
 Clause marking via commas would help:
 "hey baby are you back?"
 There is probably an upturn on baby, hence a comma would reflect this, or if the default downturn, a slight pause after baby, so again a comma would reflect this.  However, this would play havoc with the marking .... No - split if off as we do for periods, etc, and enter it in its own slot.  It could then be used to create context for the CG rules.
+New rules seem to deal with some of this.
+
+The comp.ag tag needs to be refined in en_lookup.php.  The comp tag should only be applied to adjectives, and the ag tag to verbs, and perhaps nouns.
+if $prseg2 contains comp.ag
+	if $pos=adj
+		$prseg2=comp
+		fwrite($fp, $entry)
+	if $pos=v|n
+		$prseg=ag
+		fwrite($fp, $entry)
+	else 
+		$foundclitics=0
+		break
+else fwrite($fp, $entry)
+This should work, but the CG rules will also need changing a bit.  Therefore leave it until later.
+
+
 
 
 
@@ -396,16 +413,6 @@ TTR                  18%                             18%
 English            3201                            3405 
 Spanish           2080                            2148
 Indeterminate  270                              0
-
-
-
-
-
-
-
-
-
-
 
 
 The imported files should not contain a dash in their name - this is not a legal character in PostgreSQL table names.
