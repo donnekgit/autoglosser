@@ -38,6 +38,7 @@ while ($row_s=pg_fetch_object($result_s))
     {
         $surface.="\"".$row_w->surface."\",";
         $auto.="\"".$row_w->auto."\",";
+        $mor.="\"".$row_w->mor."\",";
     }
 
     $wsurface="\"".$row_s->speaker."\",".$surface."\n";
@@ -46,9 +47,12 @@ while ($row_s=pg_fetch_object($result_s))
     $wauto="\"aut\",".$auto."\n";
     fwrite($fp, $wauto);
 
+	$wmor="\"mor\",".$mor."\n";
+    fwrite($fp, $wmor);
+
     fwrite($fp, "\n");
 
-    unset($surface, $auto, $wsurface, $wauto);
+    unset($surface, $auto, $mor, $wsurface, $wauto, $wmor);
 }
 
 fclose($fp);

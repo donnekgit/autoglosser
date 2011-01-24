@@ -15,7 +15,7 @@ $fp = fopen("outputs/".$filename."/".$filename."_cg_applied.txt", "w") or die("C
 
 // To run a trace, use this line instead:
 //exec("vislcg3 -g grammar/".$gram_file."_grammar  --trace -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
-exec("vislcg3 -g grammar/".$gram_file."_grammar  --trace -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
+exec("vislcg3 -g grammar/".$gram_file."_grammar -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
 foreach ($cg_output as $cg_line)
 {
 	echo $cg_line."\n";

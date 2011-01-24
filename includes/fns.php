@@ -18,14 +18,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // Set up more frequent language and less frequent language here.  This covers the new CLAN default.
-$mflg="eng";
-$lflg="spa";
+$mflg="spa";
+$lflg="eng";
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy");
 $cylg=array("1", "cy", "cy+en", "cy+es");
-$enlg=array("2", "en", "en+es", "en+cy", "eng", "");
-$eslg=array("3", "es", "es+en", "es+cy", "spa", "s");
+$enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
+$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -302,17 +302,17 @@ function segment_clitics($text)
 function clitic_pos($text)
 // rewrite the Spanish clitic pronouns to give POS information
 {
-    $text=preg_replace("/la(?!s)/u", "prn.f.3s", $text);
-    $text=preg_replace("/las/u", "prn.f.3p", $text);
-    $text=preg_replace("/le(?!s)/u", "prn.mf.3s", $text);
-    $text=preg_replace("/les/u", "prn.mf.3p", $text);
-    $text=preg_replace("/lo(?!s)/u", "prn.m.3s", $text);
-    $text=preg_replace("/los/u", "prn.m.3p", $text);
-    $text=preg_replace("/me/u", "prn.mf.1s", $text);
-    $text=preg_replace("/te/u", "prn.mf.2s", $text);
-    $text=preg_replace("/se/u", "prn.mf.3s", $text);
-    $text=preg_replace("/nos/u", "prn.mf.1p", $text);
-    $text=preg_replace("/os/u", "prn.mf.2p", $text);
+    $text=preg_replace("/la(?!s)/u", "pron.f.3s", $text);
+    $text=preg_replace("/las/u", "pron.f.3p", $text);
+    $text=preg_replace("/le(?!s)/u", "pron.mf.3s", $text);
+    $text=preg_replace("/les/u", "pron.mf.3p", $text);
+    $text=preg_replace("/lo(?!s)/u", "pron.m.3s", $text);
+    $text=preg_replace("/los/u", "pron.m.3p", $text);
+    $text=preg_replace("/me/u", "pron.mf.1s", $text);
+    $text=preg_replace("/te/u", "pron.mf.2s", $text);
+    $text=preg_replace("/se/u", "pron.mf.3s", $text);
+    $text=preg_replace("/nos/u", "pron.mf.1p", $text);
+    $text=preg_replace("/(?<!n)os/u", "pron.mf.2p", $text);
 
     return $text;
 }
@@ -352,9 +352,23 @@ function segment_eng($text)
 	$text=preg_replace("/(oa(m|n))ed$/u", "$1#av", $text); 
 	$text=preg_replace("/(oa(m|n))s$/u", "$1#pv", $text);
 
-	$text=preg_replace("/(eak)ing$/u", "$1#asv", $text);  // break
-	$text=preg_replace("/(eak)ed$/u", "$1#av", $text); 
-	$text=preg_replace("/(eak)s$/u", "$1#pv", $text);
+	$text=preg_replace("/(ea(k|n))ing$/u", "$1#asv", $text);  // break, clean
+	$text=preg_replace("/(ea(k|n))ed$/u", "$1#av", $text); 
+	$text=preg_replace("/(ea(k|n))s$/u", "$1#pv", $text);
+
+	$text=preg_replace("/(ing)ing$/u", "$1#asv", $text);  // bring - but note that whinge will be missegmented
+	$text=preg_replace("/(ing)s$/u", "$1#pv", $text);
+
+	$text=preg_replace("/(an)ning$/u", "$1#asv", $text);  // plan
+	$text=preg_replace("/(an)ned$/u", "$1#av", $text); 
+	$text=preg_replace("/(an)s$/u", "$1#pv", $text);
+
+	$text=preg_replace("/(at|us)ing$/u", "$1e#asv", $text);  // incorporate
+	$text=preg_replace("/(at|us)ed$/u", "$1e#av", $text); 
+	$text=preg_replace("/(at|us)s$/u", "$1e#pv", $text);
+
+	$text=preg_replace("/(be|ee|do|go)ing$/u", "$1#asv", $text);  // be, see, do, go
+	$text=preg_replace("/(ee)s$/u", "$1#pv", $text); // see
 
 	$text=preg_replace("/([^aeiou]{1,2}[aeiou][^aeiou]{1,3}[aeiou]{1,2}(t|r|n|p))ing$/u", "$1#asv", $text);
 	// visit, bother, happen, gossip
@@ -388,9 +402,6 @@ function segment_eng($text)
 	$text=preg_replace("/([aeiou](tch|nch|sh|x))ing$/u", "$1#asv", $text);  // watch, launch, finish, tax
 	$text=preg_replace("/([aeiou](tch|nch|sh|x))ed$/u", "$1#av", $text);
 	$text=preg_replace("/([aeiou](tch|nch|sh|x))es$/u", "$1#pv", $text); 
-
-	$text=preg_replace("/(be|ee|go)ing$/u", "$1#asv", $text);  // see, go, be
-	$text=preg_replace("/(be|ee|go)s$/u", "$1#pv", $text); 
 
 	$text=preg_replace("/([aeiou]ss)ing$/u", "$1#asv", $text);  // miss
 	$text=preg_replace("/([aeiou]ss)ed$/u", "$1#av", $text);
@@ -533,6 +544,35 @@ function de_h($text)
 
     return $text;
 }
+
+function tex_superscript($text)
+// Swap @s:eng for E, and @s:spa&eng for ES
+{
+	$text=preg_replace("/@s:spa&eng/", "$^E_S$", $text);
+	$text=preg_replace("/@s:eng/", "$^E$", $text);
+
+    return $text;
+}
+
+function tex_surface($text)
+// Converts POS tags to scriptsize
+{
+	$text=preg_replace("/_/", "\_", $text);  // need to add % here too
+
+	return $text;
+}
+
+function tex_auto($text)
+// Converts POS tags to scriptsize
+{
+	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string
+	$text=preg_replace("/_/", "\_", $text);  // need to add % here too
+	$text=preg_replace("/([a-z])\.(.*$)/", "$1.{\scriptsize $2}", $text);
+	$text=preg_replace("/(I)\.(.*$)/", "$1.{\scriptsize $2}", $text);
+
+    return $text;
+}
+
 
 ?>
 

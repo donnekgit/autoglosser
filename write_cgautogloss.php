@@ -37,6 +37,15 @@ while ($row_s=pg_fetch_object($result_s))
     $speech="*".$row_s->speaker.": ".$row_s->surface." %snd:\"".$row_s->filename."\"_".$row_s->durbegin."_".$row_s->durend."\n";
     fwrite($fp, $speech);
 
+	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
+    $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
+    while ($row_w=pg_fetch_object($result_w))
+    {
+        $auto.=$row_w->auto." ";
+    }
+    $auto="%aut: ".preg_replace('/ $/','',$auto)."\n";
+    fwrite($fp, $auto);
+
     // Use the scantiers file to add in any subtiers, on the following pattern:
     if (isset($row->gls))
     {
@@ -55,15 +64,6 @@ while ($row_s=pg_fetch_object($result_s))
         $comment="%com: ".$row_s->comment."\n";
         fwrite($fp, $comment); 
     }
-
-    $sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
-    $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
-    while ($row_w=pg_fetch_object($result_w))
-    {
-        $auto.=$row_w->auto." ";
-    }
-    $auto="%aut: ".preg_replace('/ $/','',$auto)."\n";
-    fwrite($fp, $auto);
 
     unset($speech, $gls, $mor, $comment, $auto);
 }

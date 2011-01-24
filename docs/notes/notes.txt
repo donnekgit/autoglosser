@@ -347,7 +347,25 @@ if $prseg2 contains comp.ag
 else fwrite($fp, $entry)
 This should work, but the CG rules will also need changing a bit.  Therefore leave it until later.
 
+Consider making "every" a det instead of an adj.
 
+
+Main issues Spanish:
+"<empieza>"
+	"empezar" {465,13} [es] v 23s pres :start: [46413]
+	"empezar" {465,13} [es] v 2s imper :start: [46412]
+Distinguishing between pres and imper.
+
+"<salimos>"
+	"salir" {576,4} [es] v 1p past :exit: [104450]
+	"salir" {576,4} [es] v 1p pres :exit: [104451]
+Distinguishing between pres and past.
+
+empujándola - not segmented. ? accent?
+
+
+Both:
+Need to handle capitalised words more gracefully, eg Thank God!
 
 
 
@@ -377,11 +395,18 @@ diff sastre1orig.cha /home/kevin/data/miami/sastre1.cha > sastre1.diff
 
 
 Conversion to new CHAT default with precodes (from @0, @1, @2, @3 format)
-==============================================
-Run utils/generate_lgprofile.php to find all utterances that need a precode.
-Run utils/convert_to_default.php to inject the precode and switch the tags.
-Run utils/run_mor_post.php to use CLAN's MOR and POST apps to generate a %mor tier.
-Run import_only.php to import the MOR-glossed text.
+=================================================
+Run php utils/generate_lgprofile.php filename to find all utterances that need a precode.  Output: filename_lgprofile db table.
+Run php utils/convert_to_precode.php  filename to inject the precode and switch the tags.  Output: filename_b.cha text file in outputs/filename dir.
+Add header and footer.
+Copy filename_b.cha into clan/chats (CLAN doesn't seem to be able to find any file if it's not in its dir).
+Run php utils/run_mor_post.php filename to use CLAN's MOR and POST apps to generate a %mor tier.  Output: filename_b.cha in inputs dir
+Run php import_only.php inputs/filename_b.cha to import the MOR-glossed text.
+Remove --trace from apply_cg.php (or you get SUBSTITUTE, SELECT etc in some entries.
+Run php autogloss_only.php sastre1_b to autogloss the MOR-glossed text.
+
+
+select * from sastre1_b_cgwords where auto~'\\[or\\]' order by surface
 
 select utterance_id, lgprofile from sastre1_lgprofile where lgprofile !~'3' and lgprofile != ''
 
@@ -401,18 +426,5 @@ TTR                   19%                         18%                           
 English                                            3201                            3405 
 Spanish                                           2080                            2148
 Indeterminate                                  270                              0
-
-
-                        sastre8                        sastre08_fixed
-total tokens     6627                            6634
-L2                    890          13%             170              3%
-(L2)                 743          11%             165              3%
-total types       1189                            1210
-(L2) types        252          21%             109              9%
-TTR                  18%                             18%
-English            3201                            3405 
-Spanish           2080                            2148
-Indeterminate  270                              0
-
 
 The imported files should not contain a dash in their name - this is not a legal character in PostgreSQL table names.

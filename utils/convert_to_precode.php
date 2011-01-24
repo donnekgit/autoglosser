@@ -4,7 +4,7 @@
 Call as: php utils/convert_to_default.php sastre1 
 This script converts chat files tagged with @0, @1, @2, @3 to the new CLAN default with precodes.  The conventions used for this are as follows (for Spanish and English):
 (1) Use the lgprofile table to find all utterances where every item is tagged as eng.
-(2) Remove all @2 tags and mark the utterance with a precode [- en].
+(2) Remove all @2 tags and mark the utterance with a precode [- eng].
 (3) For all other utterances: (a) remove all @3 tags from spa items; (b) convert all @2 tags to @s:eng on eng items; (c) convert all @0 tags to @s:spa&eng.
 The output file will need the headers added manually, and the languages need to be listed (more frequent language first):
 @Languages:	spa, eng
@@ -18,7 +18,7 @@ if (empty($filename))
 }
 $profiletable=$filename."_lgprofile";
 
-$fp = fopen("outputs/".$filename."/".$filename."_converted.cha", "w") or die("Can't create the file");
+$fp = fopen("outputs/".$filename."/".$filename."_b.cha", "w") or die("Can't create the file");
 
 //$sql1="select utterance_id, lgprofile from $profiletable where lgprofile !~'(0|3)' and lgprofile != ''";
 // Loosen a bit to count 0s in an utterance that is otherwise 2s
@@ -39,6 +39,7 @@ while ($row3=pg_fetch_object($result3))
 	{
 		$surface="[- eng] ".$surface;
 		$surface=preg_replace("/@2/", "", $surface);
+		$surface=preg_replace("/@0/", "@s:spa&eng", $surface);
 	}
 	else
 	{
