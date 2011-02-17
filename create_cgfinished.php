@@ -27,7 +27,7 @@ CREATE TABLE $cgfinished (
 	location integer,
     lemma character varying(100),
     enlemma character varying(100),
-    pos character varying(20),
+    pos character varying(50),
     gender character varying(20),
     number character varying(20),
     tense character varying(50),

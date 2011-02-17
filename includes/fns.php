@@ -18,14 +18,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // Set up more frequent language and less frequent language here.  This covers the new CLAN default.
-$mflg="spa";
-$lflg="eng";
+//$mflg="spa";
+//$lflg="eng";
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
-$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy");
-$cylg=array("1", "cy", "cy+en", "cy+es");
+$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "spa&eng", "cym&eng");
+$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
 $enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
-$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
+$eslg=array("3", "es", "es+en", "es+cy", "spa");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -120,7 +120,6 @@ function tier_fields($filename, $format)
     {
         $sqlfields="";
     }
-
     return $sqlfields;
 }
 
@@ -132,7 +131,6 @@ function fix_punctuation($text)
 	$text=preg_replace("/(\/?\/)\./", "$1 .", $text);  // split period from +/. and  +"/. and +//.
 	$text=preg_replace("/(\")\./", "$1 .", $text);  // split period from +".
 	$text=preg_replace("/(\+\!)\?/", "$1 ?", $text);  // split qmark from +!?
-
 	return $text;
 }
 
@@ -142,8 +140,7 @@ function fix_transcription($text)
 	$text=preg_replace("/(\d)\./", "$1 .", $text);  // split period from a preceding @1 or @2; examples seem to be errors - usually the period has a space between it and the last word of the utterance; also need to cover new-style language tags
 	//$text=preg_replace("/([a-z])\./", "$1 .", $text);  // split period from preceding a-z; we should limit this to the end of the utterance, but we can't use $ here because it is not the end of the line; if necessary, we can do a tighter regex later; this will also catch patagonia-style language tags which have a period immediately following in error; unfortunately, this craps all over siarad-style glosses - it separates the the verb from the tags, so that we get "say .2S.IMPER", which is then imported incorrectly over two slots
 	$text=preg_replace("/(\d)\[/", "$1 [", $text);  // split an opening square bracket from the preceding tag
-	$text=preg_replace("/(\%gls:\t)\s/", "$1", $text);  // remove errant space from beginning of gloss lines if it occurs
-	
+	$text=preg_replace("/(\%gls:\t)\s/", "$1", $text);  // remove errant space from beginning of gloss lines if it occurs	
 	return $text;
 }
 
@@ -225,7 +222,6 @@ function wordclean_surface($text)
 // Make corrections to the individual words in the %gls tier.
 {
     $text=preg_replace("/:/u", "", $text);  // Remove length-marking (eg no:)
-
     return $text;
 }
 
@@ -295,7 +291,6 @@ function segment_clitics($text)
     $text=preg_replace("/(me|te|se|nos|os)(?=#l(a|e|o)s?)/u", "@$1", $text);
     $text=preg_replace("/(te|se|os)(?=#(me|nos))/u", "@$1", $text); 
     $text=preg_replace("/(se)(?=#(te|os))/u", "@$1", $text);
-
     return $text;
 }
 
@@ -313,7 +308,6 @@ function clitic_pos($text)
     $text=preg_replace("/se/u", "pron.mf.3s", $text);
     $text=preg_replace("/nos/u", "pron.mf.1p", $text);
     $text=preg_replace("/(?<!n)os/u", "pron.mf.2p", $text);
-
     return $text;
 }
 
@@ -323,7 +317,7 @@ function segment_eng($text)
 	$text=preg_replace("/^let's$/u", "let#us.pron.1p", $text);  // let's
 	$text=preg_replace("/^gonna$/u", "go#to.prep", $text);  // gonna
 	$text=preg_replace("/^wanna$/u", "want#to.prep", $text);  // wanna
-	$text=preg_replace("/^gotta$/u", "go#to.prep", $text);  // gotta
+	$text=preg_replace("/^gotta$/u", "get#to.prep", $text);  // gotta
 
 	// For the elided forms below we need to double the apostrophe in the search pattern.  This is because pg_escape_string in write_cohorts.php adds an additional apostrophe to escape an apostrophe in the word; we need to remove both, otherwise one will get left after the segmentation, and prevent the lookup.
 	$text=preg_replace("/''d$/u", "#be.v.cond", $text);  // we'd, he'd, they'd
@@ -422,8 +416,6 @@ function segment_eng($text)
 
 	$text=preg_replace("/(?<![1ieus'])s$/u", "#pv", $text);  // general plural or verb.3s
 
-	// Incorrect output: 
-
 	return $text;
 }
 
@@ -474,7 +466,6 @@ function pluralise($text)
     $text=preg_replace("/f$/", "ves", $text); // hoof, loaf, turf, dwarf
     $text=preg_replace("/([^s|#])$/", "$1s", $text); // default (except where the word already ends in s)
     $text=preg_replace("/#$/", "", $text); // strip the "end-of-word" character
-
     return $text;
 }
 
@@ -501,7 +492,6 @@ function de_soft($text)
     $text=preg_replace("/^D([^d])/", "T$1", $text);
     $text=preg_replace("/^dd/", "d", $text);
     $text=preg_replace("/^Dd/", "D", $text);
-
     return $text;
 }
 
@@ -519,8 +509,7 @@ function de_nas($text)
     $text=preg_replace("/^m/", "b", $text);
     $text=preg_replace("/^M/", "B", $text);
     $text=preg_replace("/^n/", "d", $text);
-    $text=preg_replace("/^N/", "D", $text);
-    
+    $text=preg_replace("/^N/", "D", $text);    
     return $text;
 }
 
@@ -533,7 +522,6 @@ function de_asp($text)
     $text=preg_replace("/^Ph/", "P", $text);
     $text=preg_replace("/^th/", "t", $text);
     $text=preg_replace("/^Th/", "T", $text);
-
     return $text;
 }
 
@@ -541,38 +529,40 @@ function de_h($text)
 // Remove Welsh h-mutation word-initially.
 {
     $text=preg_replace("/^h/", "", $text);
-
-    return $text;
-}
-
-function tex_superscript($text)
-// Swap @s:eng for E, and @s:spa&eng for ES
-{
-	$text=preg_replace("/@s:spa&eng/", "$^E_S$", $text);
-	$text=preg_replace("/@s:eng/", "$^E$", $text);
-
     return $text;
 }
 
 function tex_surface($text)
-// Converts POS tags to scriptsize
+// Escape any characters that annoy TeX.
 {
-	$text=preg_replace("/_/", "\_", $text);  // need to add % here too
-
+	$text=preg_replace("/_/", "\_", $text);
+	$text=preg_replace("/%/", "\%", $text);
 	return $text;
 }
 
 function tex_auto($text)
-// Converts POS tags to scriptsize
+// Converts POS tags to \scriptsize
 {
-	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string
-	$text=preg_replace("/_/", "\_", $text);  // need to add % here too
-	$text=preg_replace("/([a-z])\.(.*$)/", "$1.{\scriptsize $2}", $text);
-	$text=preg_replace("/(I)\.(.*$)/", "$1.{\scriptsize $2}", $text);
-
+	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string - should no longer be required; now in write_cgfinished
+	$text=preg_replace("/_/", "\_", $text);
+	$text=preg_replace("/%/", "\%", $text);
+	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);
+	$text=preg_replace("/(I)(\..*$)/", "$1.{\scriptsize $2}", $text);
     return $text;
 }
 
+function tex_pos_colour ($text)
+// Colour the output based on POS
+{
+	if (preg_match("/\.V\./U", $text)) { $text="\\textcolor{Red}{".$text."}"; }
+	if (preg_match("/\.ADV(\.|$)/U", $text)) { $text="\\textcolor{Plum}{".$text."}"; }
+	if (preg_match("/\.N\./U", $text)) { $text="\\textcolor{Blue}{".$text."}"; }
+	if (preg_match("/\.ADJ(\.|$)/U", $text)) { $text="\\textcolor{Green}{".$text."}"; }
+	if (preg_match("/\.PRON\./U", $text)) { $text="\\textcolor{Brown}{".$text."}"; }
+	if (preg_match("/\.PREP/U", $text)) { $text="\\textcolor{Orange}{".$text."}"; }
+
+    return $text;
+}
 
 ?>
 

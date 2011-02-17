@@ -428,3 +428,7 @@ Spanish                                           2080                          
 Indeterminate                                  270                              0
 
 The imported files should not contain a dash in their name - this is not a legal character in PostgreSQL table names.
+
+When importing files which do not use the precode format, comment out the $mflg and $lflg lines in fns.php.
+
+

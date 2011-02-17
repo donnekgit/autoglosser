@@ -34,7 +34,9 @@ while ($row_s=pg_fetch_object($result_s))
 {
     //$u=$row_s->utterance_id;
     //$speech="(".$u."a) *".$row_s->speaker.": ".$row_u->mainlang."\n";
-    $speech="*".$row_s->speaker.": ".$row_s->surface." %snd:\"".$row_s->filename."\"_".$row_s->durbegin."_".$row_s->durend."\n";
+	$precode=$row_s->precode;
+	$precode=($precode=='') ? "": "[- ".$precode."] ";
+    $speech="*".$row_s->speaker.": ".$precode.$row_s->surface." %snd:\"".$row_s->filename."\"_".$row_s->durbegin."_".$row_s->durend."\n";
     fwrite($fp, $speech);
 
 	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";

@@ -28,10 +28,10 @@ if (empty($filename))
 
 $fp = fopen("outputs/".$filename."/".$filename.".tex", "w") or die("Can't create the file");
 
-$lines=file("tex/tex_header.tex");  // Open input file.
+$lines=file("tex/tex_header.tex");  // Open header file.
 foreach ($lines as $line)
 {
-		fwrite($fp, $line);
+	fwrite($fp, $line);
 }
 
 $sql_s="select * from $utterances order by utterance_id";
@@ -39,22 +39,23 @@ $result_s=pg_query($db_handle,$sql_s) or die("Can't get the items");
 while ($row_s=pg_fetch_object($result_s))
 {
 	$precode=$row_s->precode;
-
+	echo $precode."\n";
+	
     $sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
 	$result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
 	while ($row_w=pg_fetch_object($result_w))
 	{
-		$row_w->surface=tex_surface($row_w->surface);
+		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
 		if ($row_w->langid=="eng" and $precode !="eng")
 		{
 			$row_w->surface=$row_w->surface."$^E$";
 		}
-		elseif ($row_w->langid=="eng" and $precode="eng")
+		elseif ($row_w->langid=="eng" and $precode=="eng")
 		{
 			$row_w->surface=$row_w->surface;
 		}
-		elseif ($row_w->langid ="" and $precode="eng")
+		elseif ($row_w->langid =="spa" and $precode=="eng")
 		{
 			$row_w->surface=$row_w->surface."$^S$";
 		}
@@ -66,15 +67,16 @@ while ($row_s=pg_fetch_object($result_s))
 		$surface.=$row_w->surface." ";
 
 		$row_w->auto=tex_auto($row_w->auto);
+		//$row_w->auto=tex_pos_colour($row_w->auto);  // Uncomment to get colour-coded POS tags.
 		$auto.=$row_w->auto." ";
-
-		//unset($row_s->precode);
 	}
 
 	$begingl="\ex\n\begingl[lingstyle=gergl]\n";
 	fwrite($fp, $begingl);
 
-	$precode=($precode=='') ? "": "[-".$precode."]";
+	$precode=($precode=="") ? "": "[-".$precode."]";
+
+
 	$wsurface="\gla ".$row_s->speaker.": ".$precode." ".$surface." //\n";
 	echo $wsurface."\n";
 	fwrite($fp, $wsurface);
@@ -91,8 +93,11 @@ while ($row_s=pg_fetch_object($result_s))
 	unset($surface, $auto, $mor, $wsurface, $wauto, $wmor, $precode);
 }
 
-$enddoc="\end{document}";
-fwrite($fp, $enddoc);
+$lines=file("tex/tex_footer.tex");  // Open footer file.
+foreach ($lines as $line)
+{
+	fwrite($fp, $line);
+}
 
 fclose($fp);
 

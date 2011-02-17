@@ -370,7 +370,7 @@ COPY sastre1_cgutterances (utterance_id, filename, speaker, surface, com, commen
 291	sastre1	SOF	insurance@2 is@2 cheaper@2 but@2 still@2 .	\N	\N	532671	534424	1753	
 292	sastre1	KEV	+< sí@3 .	\N	\N	532671	534424	1753	
 293	sastre1	KEV	ahora@3 one@2 advantage@2 I@2 have@2 is@2 that@2 Pepita@0 since@2 she@2 is@2 working@2 for@2 the@2 county@2 she's@2 gonna@2 be@2 independent@2 .	\N	\N	534832	541304	6472	
-294	sastre1	KEV	I'm@2 not@2 gonna@2 have@2 to@2 carry@2 her@2 # in@2 my@2 insurance@2 any@2 more@2 .	\N	\N	540917	544156	3239	
+294	sastre1	KEV	I'm@2 not@2 gonna@2 have@2 to@2 carry@2 her@2 # in@2 my@2 insurance@2 any_more@2 .	\N	\N	540917	544156	3239	
 295	sastre1	SOF	yeah@2 .	\N	\N	544156	545172	1016	
 296	sastre1	KEV	because@2 # she'll@2 have@2 her@2 own@2 insurance@2 and@2 for@2 her@2 # working@2 for@2 the@2 county@2 the@2 insurance@2 is@2 free@2 .	\N	\N	545151	550863	5712	
 297	sastre1	KEV	and@2 for@2 Pepa@0 is@2 free@2 .	\N	\N	550850	552777	1927	
@@ -806,7 +806,7 @@ COPY sastre1_cgutterances (utterance_id, filename, speaker, surface, com, commen
 729	sastre1	KEV	no@3 .	\N	\N	1496446	1496840	394	
 730	sastre1	KEV	los@3 PT_Cruisers@0 no@3 vienen@3 con@3 airbag@0 ?	\N	\N	1496808	1499409	2601	
 731	sastre1	SOF	yes@2 but@2 what@2 happened@2 was@2 my@2 [/] my@2 husband@2 being@2 such@2 a@2 small@2 person@2 wanted@2 to@2 buy@2 her@2 a@2 car@2 a@2 used@2 car@2 didn't@2 want@2 her@2 to@2 have@2 a@2 new@2 car@2 like@2 I@2 told@2 him@2 .	\N	\N	1499391	1509317	9926	
-732	sastre1	SOF	get@2 the@2 kid@2 a@2 good@2 car@2 when@2 we@2 ended@2 up@2 finding@2 out@2 when@2 we@2 had@2 already@2 payed@2 everything@2 for@2 the@2 car@2 [?] that@2 car@2 had@2 been@2 chocado@3 de@3 alante@3 completamente@3 .	\N	\N	1509299	1517960	8661	
+732	sastre1	SOF	get@2 the@2 kid@2 a@2 good@2 car@2 when@2 we@2 ended@2 up@2 finding@2 out@2 when@2 we@2 had@2 already@2 paid@2 everything@2 for@2 the@2 car@2 [?] that@2 car@2 had@2 been@2 chocado@3 de@3 alante@3 completamente@3 .	\N	\N	1509299	1517960	8661	
 733	sastre1	SOF	fíjate@3 que@3 tiene@3 el@3 sticker@2 .	\N	\N	1517924	1519776	1852	
 734	sastre1	KEV	mmhm@0 .	\N	\N	1519759	1520130	371	
 735	sastre1	SOF	pero@3 parece@3 que@3 it@2 wasn't@2 in@2 the@2 system@2 yet@2 because@2 it@2 had@2 just@2 happened@2 .	\N	\N	1520110	1524377	4267	
@@ -949,7 +949,7 @@ COPY sastre1_cgutterances (utterance_id, filename, speaker, surface, com, commen
 869	sastre1	SOF	right@2 now@2 .	\N	\N	1830150	1830725	575	
 870	sastre1	KEV	sí@3 .	\N	\N	1830684	1831444	760	
 871	sastre1	KEV	un@3 aparato@3 que@3 son@3 los@3 que@3 ponen@3 allá@3 en@3 Red@2 Road@2 .	\N	\N	1831427	1834126	2699	
-872	sastre1	KEV	tú@3 no@3 te@3 has@3 fijado@3 allá@3 en@3 la@3 esquina@3 <del@3 aero(puerto)@3> [//] del@3 aeropuerto@3 xxx?	\N	\N	1834115	1837964	3849	
+872	sastre1	KEV	tú@3 no@3 te@3 has@3 fijado@3 allá@3 en@3 la@3 esquina@3 <del@3 aero(puerto)@3> [//] del@3 aeropuerto@3 xxx ?	\N	\N	1834115	1837964	3849	
 873	sastre1	SOF	+< sí@3 yo@3 sí@3 .	\N	\N	1837012	1837807	795	
 874	sastre1	KEV	una@3 un@3 lugar@3 que@3 ponen@3 .	\N	\N	1837805	1839401	1596	
 875	sastre1	SOF	+< ahí@3 sí@3 yo@3 veo@3 .	\N	\N	1837805	1839436	1631	

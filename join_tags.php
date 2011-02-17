@@ -59,14 +59,14 @@ while ($row=pg_fetch_object($result))
     if ($row->utterance_id==$utt and $row->location==$loc)
     {
         $auto=$auto."[or]".$lemtags;
-        echo "Repeat: ".$auto.": ".$row->utterance_id.":".$row->location."\n";
+        echo "Repeat: ".$row->utterance_id.":".$row->location.": ".$auto."\n";
     }
     else
     {
         $auto=$lemtags;
         $utt=$row->utterance_id;
         $loc=$row->location;
-        echo "New: ".$auto.": ".$utt.":".$loc."\n";
+        echo "New: ".$utt.":".$loc.": ".$auto."\n";
     }
 
     // Write them into the words table

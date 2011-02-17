@@ -127,8 +127,10 @@ means there is no tab after the speaker ID
 
 
 
+Miami/Patagonia
 
-
-
-
+select surface, count(*), auto, langid from patagonia6_cgwords group by surface, auto, langid order by surface, auto, langid
+select surface, count(*), auto, langid from patagonia2_cgwords where auto='unk' group by surface, auto, langid order by surface, auto, langid
+select count(*) from patagonia2_cgwords
+select * from patagonia6_cgwords where auto ~ '\\[or\\]'
 

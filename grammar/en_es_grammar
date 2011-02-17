@@ -22,33 +22,258 @@ LIST interrogative = im;
 LIST phrase = h;
 LIST placename = pn;
 
-LIST initvowel = "a.*"ri "e.*"ri "i.*"ri "o.*"ri "u.*"ri "w.*"ri "y.*"ri;
-
 LIST preverbal = "<just>" "<actually>" "<still>" "<even>" "<like>" "<already>" "<first>";
-
 LIST auxiliary = "be" "have" "do" "can";
 
+LIST initvowel = "a.*"ri "e.*"ri "i.*"ri "o.*"ri "u.*"ri "w.*"ri "y.*"ri;
+LIST amvinf = (vinf am);
+LIST smvinf = (vinf sm);
+LIST amnoun = (n am);
+LIST nmnoun = (n nm);
+LIST smnoun = (n sm);
+LIST possessive = ("ei" :her:) ("ei" :his:);
 LIST modal = "licio" "gobeithio" "gallu";
-
 LIST countable = "munud" "ceiniog";
+LIST prequal = "ofnadwy" "andros" "tipyn";
+LIST softprep = "o" "i" "am" "ar" "wrth" "dan" "heb";
 
 #SET amvnoun = amvinf or amnoun;
 # note use of "or" (|) above; "and" (+) does not work because it yields all possible combinations of the elements in the two sets; since the n and vinf tags will never occur together, the set will never be valid; the following has the same effect:
 LIST amvnoun = (vinf am) or (n am);
 
 
-
-
 SECTION
+
+
+##### Rules for Welsh #####
+
+# Mutations
+
+remove (sm) if (-1 (det.def)) (0 (n m));
+
+remove (am) if ( (not -1 ("â")) or (not -1 ("gyda")) or (not -1 ("ni")) );
+
+remove (h) if ( (not -1 ("ei" :her:)) or (not -1 ("ein" :our:)) );
+
+
+# Particles
+
+select interrogative if (@1 ("a")) (@-1 ("<?>"));
+select ([cy] "na" adv) if (@1 ("na"));
+select ([cy] "na" adv) if (-1 concessive);
+select ([cy] "na" adv) if (1 inflected);
+select ([cy] "na" conj :\(n\)or:) if (1 (am));
+
+select ([cy] "yn" stat) if ( (1 infinitive) or (1 adjective) or (1 adverb) or (1 noun + (sm)) );
+
+select ([cy] "y" det.def) if (not 1 inflected);
+
+select ([cy] "ddim" adv) if (-1 pronoun) (-2 inflected)
+select ([cy] "ddim" adv) if (-1 inflected);
+select ([cy] "dim" adv) if (1 noun or infinitive);
+select ([cy] "dim" adv) if (1 ("yn" stat)) (2 infinitive);
+select ([cy] "dim" adv) if (1 (name));
+
+select ([cy] "mor" :so:) if (not 2 ("â" conj));
+select ([cy] "mor" adj) if (2 ("â" conj));
+
+select ([cy] "â" conj) if (-2 ("mor" adj));
+#select ([cy] "â" prep) if (not -2 ("mor" adj));
+
+select ([cy] "cyn" prep) if (1 infinitive);
+
+select ([cy] "ynte" adv) if (1 ("<?>"));
+
+select ([cy] "do" adv) if (1 ("<.>"));
+select ([cy] "do" adv) if (1 ("<?>"));
+
+remove ([cy] "ni" part-neg) if (not 1 inflected);
+
+select ([cy] "beth" int) if (1 inflected);
+
+select ([cy] "fe" prt.aff) if (1 inflected);
+
+
+# Conjunctions
+
+select ([cy] "a" conj) if (-1 (name)) (1 (name));
+select ([cy] "a" conj) if (not 1 (@1));
+
+
+# Interrogatives
+
+select ([cy] "beth" i) if (1 ("am" p));
+
+
+# Prepositions
+
+select (sm) if (-1 softprep);
+
+select ([cy] "yn" prep) if (1 (det.def));
+select ([cy] "yn" prep) if (1 (pron));
+select ([cy] "yn" prep) if ( 1 ("ystod") or ("ymyl") );
+select ([cy] "yn" prep) if (1 (name));
+
+select ([cy] "wedi" prep) if (1 (infin));
+
+#select ([cy] "i" prep) if (1 (sm));
+select ([cy] "i" prep) if (not -1 inflected);
+
+#select ([cy] "o" :of:) if (-1 prequal) (1 adjective);
+select ([cy] "o" :of:) if (-1 prequal or ("maint"));
+select ([cy] "o" :of:) if (-2 ("ychydig"));
+#select ([cy] "o" :of:) if (not 1 (name));  # far too broad
+select ([cy] "o" :from:) if (1 ("nos" :night:));
+select ([cy] "o" :of:) if (1 ("blaen" sm));
+select ([cy] "o" :of:) if (-1 ("chwech" adj));  # needs to be generalised to all numbers by retagging them as "num", not "a"
+select ([cy] "o" :of:) if (1 infinitive + (sm));
+select ([cy] "o" :from:) if (1 (name));
+
+select ([cy] "allan" adv) if (-1 ("sefyll") or ("mynd"));
+
+
+# Pronouns
+
+select ([cy] "i" pron) if (-1 ("bod" 1s pres spoken));
+select ([cy] pron) if (-1 inflected);
+#select ([cy] pron) if (-1 infinitive);
+
+select ([cy] pron) if ( (-2 possessive) or (-3 possessive) );
+select ([cy] pron) if (-1 preposition);
+
+select ([cy] "ei" :his:) if (1 (sm));
+
+select ([cy] "ei" :his:) if (1 (sm));
+select ([cy] "ei" :his:) if (1 initvowel) (not 1 (h));
+
+select ([cy] "ni" :we:) if (not 1 (inflected));
+
+#remove ([cy] "fo") if (not -1 (v)) (not -1 (n));
+select ([cy] "fo" pron m sg :he:) if (-1 (v 3s));
+
+# Nouns
+
+remove nmnoun if (not -1 ("yn" "fy"));
+select noun if (-1 ("y" det.def));
+
+select ("ystod" :range:) if (-1 ("yn" prep));
+
+select ("ysgol" :school:) if (-1 ("y" det.def)) (-2 ("yn" prep));
+select ("ysgol" :school:) if (1 ("uwchradd") or ("Cymraeg") or ("dyddiol"));
+
+select ("dim" n) if (-1 (prep));
+
+select ("gwaith" :work:) if (-1 ("o" :of:));
+select ("gwaith" :work:) if (-1 ("codi" :lift:));
+
+select ("diolch" n) if (-1 ("dweud" infinitive));
+
+select ("man" :place:) if (1 ("acw" adv) or ("hyn" pron));
+
+select ("Mawrth" :March:) if (-1 ("mis" n));
+select ("Mawrth" :Tuesday:) if (-1 ("nos" n));
+select ("Mercher" :Wednesday:) if (-1 ("nos" n));
+
+select ("ymarfer" n) if (-1 ("angen" n));
+
+select ("Cymraeg" n) if (-1 ("siarad") or ("o") or ("dim") or ("yn"));
+select ("Cymraeg" a) if (-1 noun);
+
+select ([cy] "math" n) if (1 ([cy] "â" prep));  # fath â - the same as
+select([cy] "â" conj)  if (-1 ([cy] "math" n));
+
+
+# Adjectives
+
+select ("ei" a :her:) if (1 amnoun);
+select ("ei" a :his:) if (1 smnoun);
+select ("ei" a :his:) if (1 (int)) (2 smnoun);
+select ("ei" a :her:) if (1 noun) (2 ("hi" pron));
+select possessive if (1 noun);
+
+select ("iawn" :OK:) if (-1 ("yn" stat));
+select ("iawn" :OK:) if (-1 concessive);
+select ("iawn" :OK:) if (@1 ("iawn")) (@-1 ("<.>"));
+select ("iawn" :very:) if (-1 adjective);
+
+select ("deg" :ten \(10\):) if (1 countable);
+
+select ([cy] "unig" adj :only:) if (-1 (det.def));
+
+# Verbs
+
+select ([cy] "bod" fut) if (not 1 ("yn" stat));
+select ([cy] "bod" 3p pres) if (1 pronoun);
+select ([cy] "bod" infinitive) if (-1 ("heb" prep));
+select ([cy] "bod" inflected pres) if (0 ("<oes>")) (1 ("<.>"));
+
+# Don't these all need tying down to Welsh?
+select infinitive if (-1 ("yn" stat));
+select (infinitive sm) if (-1 ("i" pron));  # dw i meddwl
+select infinitive if (-1 possessive);
+select infinitive if (-1 modal);
+select infinitive if (-1 preposition);
+select infinitive if (-1 ("bod" inflected));
+select infinitive if (1 ("<.>"));
+#select inflected if (1 ("<.>"));
+select infinitive if (-1 pronoun);
+select infinitive if (-1 ("<sy>"));
+select inflected if (1 pronoun);
+select (1p) if (1 ([cy] "ni" pron));
+
+select (imper) if (not @1 ("ni"));
+
+remove inflected if (not 1 pronoun);
+remove inflected if (-1 infinitive) (0 (v));
+
+
+#Adverbs
+
+select ("allan" adv) if (-1 ("pell"));
+
+select ("iawn" :OK:) if (not -1 adjective);
+
+
+# Global rules
+
+# 1- homonym selection - has the effect of "deleting" items from the dictionary
+select ("gofyn" :ask:);
+select ("cyrraedd" :arrive:);
+select ("rhyw" :some:);
+select ("cyfeiriad" :direction:);
+select ("mynd" vfle 1p pres);
+select ("darn" :pieces:);
+select ("aros" :wait:);
+select ("tynnu" :drag:);
+select ("hanes" :story:);
+select ("ysgol" :school:);
+select ("trefnu" :arrange:);
+select ("wrth" :by:);
+select ("fel" :like:);
+select ("be" :what:);
+select ("sôn" v);
+select ("ymyl" :edge:);
+
+#remove (v subj);
+remove ("fod" conj :that:);
+remove ("cael" :get:);
+remove ("gwadu" vfle sm 2s pres);
+remove ("meddu" vfle 3s imperf);
+remove ("tebygol" a sm :probable:);
+#remove ("gyrru" v 3s pres :drive:);
+#remove ("gyrru" v 2s imper :drive:);
+remove ("ban" :peak:);
+
+# 2 - delete archaic forms
+remove (archaic);
+
+
 
 ##### Rules for English #####
 
 #remove ([en] infin) if (not 1 pronoun);
 
 remove ([en] conj pv);  # he likes; 
-
-
-
 
 
 ### Rewrite English tags ###
@@ -88,7 +313,7 @@ substitute (13s) (3s) ([en] v 13s) (not -1 (pron.sub 1s));  # American_Outdoors 
 substitute (12s13p) (1s) ([en] v 12s13p) (-1 (pron.sub 1s));  # I don't
 substitute (12s13p) (2sp) ([en] v 12s13p) (-1 (pron.sub 2sp));  # you don't
 substitute (12s13p) (3p) ([en] v 12s13p) (-1 (pron.sub 3p));  # they don't
-substitute (12s13p) (3p) ([en] v 12s13p) (0 ("<don't>")) (1 (pron.sub 3p));  # don't they
+substitute (12s13p) (3p) ([en] v 12s13p) (0 ("<don't>")) (1 (pron.sub 3p));  # don't they # should be marked 12s123p - combine with ones below
 substitute (2s123p) (1p) ([en] v 2s123p) (-1 (pron.sub 1p) or (n pl));  # we were; 
 substitute (2s123p) (3p) ([en] v 2s123p) (-1 (pron.sub 3p) or (n pl));  # they were; the taxes were
 substitute (123p) (1p) ([en] v 123p) (-1 (pron.sub 1p));  # we are
@@ -183,8 +408,6 @@ substitute (pron.obj) (pron.indir) ([en] pron.obj) (-1 ("buy") or ("send") or ("
 substitute (pron.refl) (pron.refl.indir) ([en] pron.refl) (-1 ("buy"));  # he bought himself
 
 substitute (pron sg pl) (pron pl) ([en] pron sg pl)  # the miniature ones
-
-substitute (r s p) (r p) ([en] r s p);  # miniature ones
 
 substitute (adv) (ly) ([en] adj adv);  # originally, fairly  # CHECK
 #substitute (adj) (adv) ([en] adj) (-1 ([en] v)) (not 1 ([en] n) or ([en] dem.far));  # to work double; !all that extra money - DELETE - too broad
@@ -425,7 +648,7 @@ remove ("este" n m sg) if (not -1 (det.def));  # porque este the one;
 #  Verbs
 
 select (v) if (-1 ("así" [es] adv));
-select (v pastpart) if (-1 ("haber") or ("estar"));
+select (v pastpart) if (-1 ("haber") or ("estar") or ("ser"));  # siendo incorporados
 select (v infin) if (-1 ("para" [es] prep :for:));
 #select (v 3s pres) if (-1 ("donde" l :where:) or (pron) or (pron.sub));
 #select ([es] v pres) if (-1 ("si" [es] c));  # si entra (to remove imperative)
@@ -434,7 +657,6 @@ select ([es] v 2s non_imper) if (-1 ([es] pron.sub 2s));  # tú viste
 select non_imper if (-1 ([es] pron.refl mf 23sp) or ([es] conj) or ([es] pron.rel));  # se pudiera; se asfalta; que vale; lo que pasa
 select ([es] v 23s pres) if (-1 ([es] pron.obl));  # te da
 select ([es] v) if (-1 ([es] pron.sub));  # que yo sepa; ellos son;
-select ([es] v pastpart) if (-1 ("ser"));  # siendo incorporados
 select non_imper if (-1 ("no")) (0 ([es] v));  # no vale la pena
 select ([es] v imper) if (-1 (>>>));  # mira ahí (beginning of utterance)
 

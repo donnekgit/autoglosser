@@ -87,7 +87,7 @@ while ($row=pg_fetch_object($result))
         //$tiers=array_diff($tiers, array(gra));
         foreach ($tiers as $tier)
         {
-            if ($tier!=='gra')  // With the %gra tier, we need something more complex than a simple lineclean.
+            if ($tier=='gls')  // No point in importing %eng, since the slots will not align
             {
                 $tier=trim($tier);
                 $lineclean_tier="lineclean_".$tier;
@@ -106,7 +106,7 @@ while ($row=pg_fetch_object($result))
                 }
                 unset($tier);
             }
-            else
+            elseif ($tier=='gra')  // With the %gra tier, we need something more complex than a simple lineclean.
             {
                 include("tiers/gra.php");
             }
