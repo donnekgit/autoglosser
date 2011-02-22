@@ -30,6 +30,9 @@ if (empty($filename))
 // Straighten out lines in the file
 exec("utils/sed_joinlines ".$chafile);
 
+// Snip out the header lines and put them into the outputs folder for future use
+exec("utils/sed_get_header ".$chafile);
+
 // Uncomment if you want to replace old-style CLAN tags with new-style CLAN tags.
 //exec("utils/sed_convert_lgid ".$chafile);
 

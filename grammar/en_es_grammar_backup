@@ -220,11 +220,10 @@ select ([cy] v infin) if (-1 ("<sy>"));
 select inflected if (1 pronoun);
 select (1p) if (1 ([cy] "ni" pron));
 
-#select (imper) if (not @1 ("ni"));  # This and the next rule cause 304 regressions in Spanish on sastre1...
-#remove inflected if (not 1 pronoun);
+select (imper) if (not @1 ("ni"));
 
-#remove inflected if (-1 infinitive) (0 (v));  # This acts also on Spanish (4 times in sastre1), but doesn't seem to cause a regression - it removes una (< unir) before "select ([es] det.indef f) if (1 (n f) or (adj f) or (ord f));" applies, which would strike out una (< unir) anyway.  If it bleeds across into another language, though, the rule is probably too broad anyway.
-
+remove inflected if (not 1 pronoun);
+remove inflected if (-1 infinitive) (0 (v));
 
 
 #Adverbs

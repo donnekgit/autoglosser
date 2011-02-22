@@ -1,0 +1,222 @@
+
+##### Rules for Welsh #####
+
+# Mutations
+
+remove (sm) if (-1 (det.def)) (0 (n m));
+
+remove (am) if ( (not -1 ("â")) or (not -1 ("gyda")) or (not -1 ("ni")) );
+
+remove (h) if ( (not -1 ("ei" :her:)) or (not -1 ("ein" :our:)) );
+
+
+# Particles
+
+select interrogative if (@1 ("a")) (@-1 ("<?>"));
+select ([cy] "na" adv) if (@1 ("na"));
+select ([cy] "na" adv) if (-1 concessive);
+select ([cy] "na" adv) if (1 inflected);
+select ([cy] "na" conj :\(n\)or:) if (1 (am));
+
+select ([cy] "yn" stat) if ( (1 infinitive) or (1 adjective) or (1 adverb) or (1 noun + (sm)) );
+
+select ([cy] "y" det.def) if (not 1 inflected);
+
+select ([cy] "ddim" adv) if (-1 pronoun) (-2 inflected)
+select ([cy] "ddim" adv) if (-1 inflected);
+select ([cy] "dim" adv) if (1 noun or infinitive);
+select ([cy] "dim" adv) if (1 ("yn" stat)) (2 infinitive);
+select ([cy] "dim" adv) if (1 (name));
+
+select ([cy] "mor" :so:) if (not 2 ("â" conj));
+select ([cy] "mor" adj) if (2 ("â" conj));
+
+select ([cy] "â" conj) if (-2 ("mor" adj));
+#select ([cy] "â" prep) if (not -2 ("mor" adj));
+
+select ([cy] "cyn" prep) if (1 infinitive);
+
+select ([cy] "ynte" adv) if (1 ("<?>"));
+
+select ([cy] "do" adv) if (1 ("<.>"));
+select ([cy] "do" adv) if (1 ("<?>"));
+
+remove ([cy] "ni" part-neg) if (not 1 inflected);
+
+select ([cy] "beth" int) if (1 inflected);
+
+select ([cy] "fe" prt.aff) if (1 inflected);
+
+
+# Conjunctions
+
+select ([cy] "a" conj) if (-1 (name)) (1 (name));
+select ([cy] "a" conj) if (not 1 (@1));
+
+
+# Interrogatives
+
+select ([cy] "beth" i) if (1 ("am" p));
+
+
+# Prepositions
+
+select (sm) if (-1 softprep);
+
+select ([cy] "yn" prep) if (1 (det.def));
+select ([cy] "yn" prep) if (1 (pron));
+select ([cy] "yn" prep) if ( 1 ("ystod") or ("ymyl") );
+select ([cy] "yn" prep) if (1 (name));
+
+select ([cy] "wedi" prep) if (1 (infin));
+
+#select ([cy] "i" prep) if (1 (sm));
+select ([cy] "i" prep) if (not -1 inflected);
+
+#select ([cy] "o" :of:) if (-1 prequal) (1 adjective);
+select ([cy] "o" :of:) if (-1 prequal or ("maint"));
+select ([cy] "o" :of:) if (-2 ("ychydig"));
+#select ([cy] "o" :of:) if (not 1 (name));  # far too broad
+select ([cy] "o" :from:) if (1 ("nos" :night:));
+select ([cy] "o" :of:) if (1 ("blaen" sm));
+select ([cy] "o" :of:) if (-1 ("chwech" adj));  # needs to be generalised to all numbers by retagging them as "num", not "a"
+select ([cy] "o" :of:) if (1 infinitive + (sm));
+select ([cy] "o" :from:) if (1 (name));
+
+select ([cy] "allan" adv) if (-1 ("sefyll") or ("mynd"));
+
+
+# Pronouns
+
+select ([cy] "i" pron) if (-1 ("bod" 1s pres spoken));
+select ([cy] pron) if (-1 inflected);
+#select ([cy] pron) if (-1 infinitive);
+
+select ([cy] pron) if ( (-2 possessive) or (-3 possessive) );
+select ([cy] pron) if (-1 preposition);
+
+select ([cy] "ei" :his:) if (1 (sm));
+
+select ([cy] "ei" :his:) if (1 (sm));
+select ([cy] "ei" :his:) if (1 initvowel) (not 1 (h));
+
+select ([cy] "ni" :we:) if (not 1 (inflected));
+
+#remove ([cy] "fo") if (not -1 (v)) (not -1 (n));
+select ([cy] "fo" pron m sg :he:) if (-1 (v 3s));
+
+# Nouns
+
+remove nmnoun if (not -1 ("yn" "fy"));
+select noun if (-1 ("y" det.def));
+
+select ("ystod" :range:) if (-1 ("yn" prep));
+
+select ("ysgol" :school:) if (-1 ("y" det.def)) (-2 ("yn" prep));
+select ("ysgol" :school:) if (1 ("uwchradd") or ("Cymraeg") or ("dyddiol"));
+
+select ("dim" n) if (-1 (prep));
+
+select ("gwaith" :work:) if (-1 ("o" :of:));
+select ("gwaith" :work:) if (-1 ("codi" :lift:));
+
+select ("diolch" n) if (-1 ("dweud" infinitive));
+
+select ("man" :place:) if (1 ("acw" adv) or ("hyn" pron));
+
+select ("Mawrth" :March:) if (-1 ("mis" n));
+select ("Mawrth" :Tuesday:) if (-1 ("nos" n));
+select ("Mercher" :Wednesday:) if (-1 ("nos" n));
+
+select ("ymarfer" n) if (-1 ("angen" n));
+
+select ("Cymraeg" n) if (-1 ("siarad") or ("o") or ("dim") or ("yn"));
+select ("Cymraeg" a) if (-1 noun);
+
+select ([cy] "math" n) if (1 ([cy] "â" prep));  # fath â - the same as
+select([cy] "â" conj)  if (-1 ([cy] "math" n));
+
+
+# Adjectives
+
+select ([cy] "ei" a :her:) if (1 amnoun);
+select ([cy] "ei" a :his:) if (1 smnoun);
+select ([cy] "ei" a :his:) if (1 (int)) (2 smnoun);
+select ([cy] "ei" a :her:) if (1 noun) (2 ("hi" pron));
+select possessive if (1 noun);
+
+select ([cy] "iawn" :OK:) if (-1 ("yn" stat));
+select ([cy] "iawn" :OK:) if (-1 concessive);
+select ([cy] "iawn" :OK:) if (@1 ("iawn")) (@-1 ("<.>"));
+select ([cy] "iawn" :very:) if (-1 adjective);
+
+select ([cy] "deg" :ten \(10\):) if (1 countable);
+
+select ([cy] "unig" adj :only:) if (-1 (det.def));
+
+# Verbs
+
+select ([cy] "bod" fut) if (not 1 ("yn" stat));
+select ([cy] "bod" 3p pres) if (1 pronoun);
+select ([cy] "bod" v infin) if (-1 ("heb" prep));
+select ([cy] "bod" inflected pres) if (0 ("<oes>")) (1 ("<.>"));
+
+select ([cy] v infin) if (-1 ("yn" stat));
+select ([cy] v infin) if (-1 ("i" pron));  # dw i meddwl
+select ([cy] v infin) if (-1 possessive);
+select ([cy] v infin) if (-1 modal);
+select ([cy] v infin) if (-1 preposition);
+select ([cy] v infin) if (-1 ("bod" inflected));
+select ([cy] v infin) if (1 ("<.>"));
+#select inflected if (1 ("<.>"));
+select ([cy] v infin) if (-1 pronoun);
+select ([cy] v infin) if (-1 ("<sy>"));
+select inflected if (1 pronoun);
+select (1p) if (1 ([cy] "ni" pron));
+
+select (imper) if (not @1 ("ni"));
+
+remove inflected if (not 1 pronoun);
+remove inflected if (-1 infinitive) (0 (v));
+
+
+#Adverbs
+
+select ([cy] "allan" adv) if (-1 ("pell"));
+
+select ([cy] "iawn" :OK:) if (not -1 adjective);
+
+
+# Global rules
+
+# 1- homonym selection - has the effect of "deleting" items from the dictionary
+select ("gofyn" [cy] :ask:);
+select ("cyrraedd" [cy] :arrive:);
+select ("rhyw" [cy] :some:);
+select ("cyfeiriad" [cy] :direction:);
+select ("mynd" v 1p pres);
+select ("darn" [cy] :pieces:);
+select ("aros"[cy]  :wait:);
+select ("tynnu"[cy]  :drag:);
+select ("hanes" [cy] :story:);
+select ("ysgol" [cy] :school:);
+select ("trefnu"[cy]  :arrange:);
+select ("wrth" [cy] :by:);
+select ("fel" [cy] :like:);
+select ("be" [cy] :what:);
+select ("sôn" v);
+select ("ymyl" [cy] :edge:);
+
+#remove (v subj);
+remove ("fod" [cy] conj :that:);
+remove ("cael" [cy] :get:);
+remove ("gwadu" v sm 2s pres);
+remove ("meddu" v 3s imperf);
+remove ("tebygol" a sm :probable:);
+#remove ("gyrru" v 3s pres :drive:);
+#remove ("gyrru" v 2s imper :drive:);
+remove ("ban" [cy] :peak:);
+
+# 2 - delete archaic forms
+remove (archaic);
+

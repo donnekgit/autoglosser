@@ -18,14 +18,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // Set up more frequent language and less frequent language here.  This covers the new CLAN default.
-//$mflg="spa";
-//$lflg="eng";
+$mflg="spa";
+$lflg="eng";
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "spa&eng", "cym&eng");
-$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
+$cylg=array("1", "cy", "cy+en", "cy+es", "cym");
 $enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
-$eslg=array("3", "es", "es+en", "es+cy", "spa");
+$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -544,8 +544,22 @@ function tex_auto($text)
 // Converts POS tags to \scriptsize
 {
 	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string - should no longer be required; now in write_cgfinished
-	$text=preg_replace("/_/", "\_", $text);
-	$text=preg_replace("/%/", "\%", $text);
+	$text=preg_replace("/_/", "\_", $text);  // LaTeX no like
+	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
+	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);
+	$text=preg_replace("/(I)(\..*$)/", "$1.{\scriptsize $2}", $text);
+    return $text;
+}
+
+function tex_mor($text)
+// Converts POS tags to \scriptsize
+{
+	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string - should no longer be required; now in write_cgfinished
+	$text=preg_replace("/_/", "\_", $text);  // LaTeX no like
+	$text=preg_replace("/\|/", "*", $text);  // LaTeX no like
+	$text=preg_replace("/\&/", "\&", $text);  // LaTeX no like
+	$text=preg_replace("/=/", "::", $text);  // LaTeX no like
+	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
 	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);
 	$text=preg_replace("/(I)(\..*$)/", "$1.{\scriptsize $2}", $text);
     return $text;

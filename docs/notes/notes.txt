@@ -432,3 +432,48 @@ The imported files should not contain a dash in their name - this is not a legal
 When importing files which do not use the precode format, comment out the $mflg and $lflg lines in fns.php.
 
 
+
+To wrangle tiers in a file
+===============
+grep '\*[A-Z]' sastre1.cha > sastre1_surface.cha - moves the surface tiers into a new file
+grep -v '%mor' sastre1.cha > sastre1_aut.cha - moves all tiers except %mor into a new file (ie removes %mor tiers)
+
+
+
+Getting the total number of different regions in two files
+=================================
+The lines that specify the changed regions start with numbers, so to get the total number of changed regions, do:
+diff filea fileb | grep '^[1-9]' | wc -l
+To get the total number of changed lines (even if they are contiguous within a region), do:
+diff filea fileb | grep '^<' | wc -l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

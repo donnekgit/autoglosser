@@ -1,0 +1,141 @@
+\documentclass[11pt]{article}
+\usepackage{eacl2009}
+\usepackage{times}
+\usepackage{url}
+\urlstyle{rm}
+\usepackage{latexsym}
+%\setlength\titlebox{6.5cm}    % You can expand the title box if you really have to
+\usepackage{graphicx}
+\usepackage{alltt}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage{float}
+
+\interfootnotelinepenalty=10000
+
+\title{Using constraint grammar in the Bangor Autoglosser to disambiguate multilingual spoken text}
+
+\author{Kevin Donnelly \textit{and} Margaret Deuchar\\
+  ESRC Centre for Research on Bilingualism in Theory and Practice\\
+  Bangor, Wales, UK\\
+  {\tt \{k.donnelly|m.deuchar\}@bangor.ac.uk}  }
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+We present a novel use of constraint grammar (CG) in automatic glossing software to disambiguate surface forms in connected multilingual speech.  The resulting autoglosser output shows greater than 95\% accuracy over all three languages.  We discuss the CG rules that help deliver this, focussing on the differences between those applying to Welsh and Spanish, and those applying to English.
+\end{abstract}
+
+\section{Introduction}
+\label{sec:intro}
+
+Bangor University's ESRC Centre for Research on Bilingualism\footnote{http://bilingualism.bangor.ac.uk} has assembled some 130 bilingual conversations totalling 60 hours and 750,000 words in three languages: Welsh, Spanish and English.  The conversations are grouped into three corpora, all available under the GNU GPL.\footnote{http://www.gnu.org/licenses/gpl.html}  Each recording is provided with a detailed transcription in the widely-used CLAN format \cite{macwhinney2000}, along with a free translation in English, and an interlinear gloss giving lexemes and part-of-speech (POS) tags for each word, so that researchers without first-hand knowledge of the languages concerned can more easily parse the utterances.
+
+The Siarad (Welsh-English) corpus (published in 2009) was glossed manually, but this was tedious and time-consuming, and in order to save valuable specialist time the Miami (Spanish-English) and Patagonia (Welsh-Spanish) corpora (to be published this summer) are instead being glossed using software developed at the Centre over the last few months.
+
+\section{Structure of the autoglosser}
+\label{sec:autoglosser}
+
+The autoglosser uses the PHP scripting language in combination with a PostgreSQL database.  Each utterance in the transcribed conversation file is imported into a database table, and then split into words, which are stored in another table.  Each word is then looked up against a dictionary table for the appropriate language -- the transcription notes the language of each word, so this is easy.\footnote{Even in the absence of such annotation it would in principle be possible to use a brute-force lookup on each dictionary in turn.}  The cohorts of readings are then written out to a file in the format required by the contraint grammar parser,\footnote{http://visl.sdu.dk/cg3.html} which applies the grammar rules to winnow out invalid readings and write out another file.  This is then read back in to the database, with the glosses being extracted and stored in the words table.  Finally, the utterances are written out again, along with the concatenated glosses (following the Leipzig schema so far as possible), to create a final text with an interlinear gloss.
+
+The autoglosser takes 2-3 minutes to import, gloss and output a 5,000-word text.  The grammar file  currently contains about 150 rules for Spanish, about 180 for Welsh, and around 200 for English.  Autoglosser accuracy is more than 95\% in all three languages. [Detailed figures to be included.]
+
+\section{Dictionary structure}
+\label{sec:dictionary}
+
+The dictionaries used are all derived from free resources,\footnote{http://eurfa.org.uk, http://apertium.org, http://wordlist.sourceforge.net} though heavily adapted.  We aim, so far as possible, to maintain the dictionaries through a simple spreadsheet, in order to allow easy update of the current language support, and also to simplify the addition of further languages in the future.  For instance, if a simple wordlist is available, it is possible to plug it into the autoglosser, and get some useful non-disambiguated output immediately; this output can then be progressively refined by the addition of CG rules,\footnote{Constraint grammar has been described as ``the only grammar-based parser framework'' (\url{http://giellatekno.uit.no/cg/11/index.html}), and it is indeed very easy for linguists to work with.} and refactoring of the dictionary lookup to allow a reduction in the size of the dictionaries. 
+
+This process has been applied to all three languages to differing degrees, and it could be taken further.  For Welsh, the lookup now detects and adds tags for mutation,\footnote{Mutation -- morphophonemic alteration of initial consonants, which also marks syntactic relations at the clause level -- is an important characteristic of the Celtic languages. A Welsh example is: \textbf{mae o'n marw} (\textit{he is dying}), but \textbf{mae o'n farw} (\textit{he is dead}), where the change \textbf{m$\rightarrow$f} signifies that the mutated word is an adjective and not a verb. These mutations have to be removed in order to get to the underlying lexeme.} while for Spanish, tags are added when clitic pronouns attached to verbforms are detected.\footnote{For example, \textbf{arreglarlos} $\leftarrow$ \textbf{arreglar+los} (\textit{to fix + them})}  For English, tags are added to mark the occurrence of genitives, plurals and adverbs.
+
+[We go on to give some examples of these, since they are relevant to the discussion of the CG rules in the main section below.]
+
+\section{Applying constraint grammar}
+\label{sec:constraint}
+
+We discuss here two issues:
+\begin{itemize}
+\item The addition of tags in the lookup output to specify language, and the handling of these in the grammar so as to allow one-pass disambiguation of multilingual text.
+\item The different approaches taken in the grammar to handle the differing nature of the languages (already reflected to some extent in the dictionary entries).
+\end{itemize}
+
+\subsection{Language-specific rules}
+\label{sec:langspec}
+
+Multilingual discourse is far more common than has been assumed in classical linguistics, and it is only over the last 20 years that this important area has been given proper attention.  The CLAN transcription system was originally devised to study the development of language in children, but it has been adapted by researchers at the ESRC Centre to capture bilingual spoken interactions.  Likewise, although constraint grammar has to date mainly been applied to monolingual texts, we have adapted it to handle multilingual text.  That this was so easy is a testament to the versatility and power of the VISL-CG3 parser.
+
+The autoglosser knows which dictionary to look up because each word is annotated by the transcriber with the language it comes from.  All that needs doing is to reflect this in the lookup output.  In the following example, the phrase \textbf{mewn motor newydd internacional} (\textit{in a new international car}) oscillates between Welsh and Spanish, and this is reflected in the addition of the tags \textbf{[cy]} and \textbf{[es]} to the readings:
+
+\begin{figure}[h]
+\vspace{-10pt}
+\begin{alltt}
+\normalfont
+\textbf{"<mewn>"}
+    \textit{"mewn" {128,4} [cy] prep :in:}
+\textbf{"<motor>"}
+    \textit{"motor" {128,5} [es] n m sg :motor:}
+\textbf{"<newydd>"}
+    \textit{"newydd" {128,6} [cy] adj :new:}
+\textbf{"<internacional>"}
+    \textit{"internacional" {128,7} [es] adj mf sg :internat\-ional:}
+\end{alltt}
+\vspace{-10pt}
+\end{figure}
+
+The grammar can then use the language tag to constrain the application of its rules to the relevant language.  Thus, a rule like:\\
+\indent\textbf{select (n) if (-1 (ord));}\\
+(to choose the reading marked ``noun'' if the preceding word is an ordinal) will apply to all the languages covered, whereas:\\
+\indent\textbf{select ([es] n) if (-1 ([es] ord));}\\
+will only apply to Spanish: \textbf{el primer viaje} (\textit{the first journey}).
+
+In fact, the number of cases where this is absolutely essential is very small, but at this stage of developing the autoglosser, we are erring on the side of caution.
+
+[We continue with further examples and discussion.]
+
+\subsection{Nature of rules}
+\label{sec:nature}
+
+Both Spanish and Welsh are inflected languages (modern Welsh considerably less so than it was), while English is an analytic language with few inflections (mainly in ``strong'' verbs).  This is reflected in the nature of the rules that have proved most efficient in the autoglosser.  
+
+For Spanish and Welsh, surface forms are fairly well-defined by their shape -- \textbf{empieza}, for instance, can only be the second/third person singular present tense or the second person singular imperative of \textbf{empezar} (\textit{to begin}).  The lookup fetches these entries from the dictionary,\footnote{The possibility of de-conjugating inflected verbs on-the-fly is interesting, but may be too complex to attempt at this stage.} and so the rules consist mainly of \textbf{select} rules (with a few \textbf{remove}s and \textbf{substitute}s).  
+
+For English, on the other hand, the surface form gives us few clues about the part-of-speech a word belongs to, which is largely defined by its role in the sentence -- \textbf{break} can be a singular noun, or a verb infinitive, or the non-third person singular present tense.  Instead of giving \textbf{break} three entries in the English dictionary, we have chosen to assign it one entry, with a tag (\textit{sv}) which reflects this diversity of role.  
+
+The result is that the the vast majority of rules for English are \textbf{substitute}s, converting one set of tags into another.  For example, the surface word \textbf{miniature} can be either an adjective or a singular noun, so it is tagged \textit{as} in the dictionary.  Rules such as the following then handle its correct tagging based on context:\\
+\indent\textbf{substitute (as) (adj) ([en] as) (1 ([en] n) or ([en] pron));}\\
+This says that ann English \textit{as} tag should be converted to an \textit{adjective} tag when the word is followed by a noun or pronoun (e.g. \textbf{a miniature rabbit}, \textbf{miniature ones}).
+
+[We continue with further examples and discussion.]
+
+\section{Further work}
+\label{sec:further}
+
+Although the current configuration of rules is working well, we hope to explore further refinement of the grammar.  This would include not only conflating similar rules within a language, but also seeking to use the grammar to mark clause relationships.  The latter would be of value in the further linguistic analysis of the influence of clause structure on language switching in bilingual discourse.
+
+
+\section*{Acknowledgments}
+
+The authors would like to thank the ESRC for its financial support of the Centre, and colleagues at the ESRC Centre for their contributions towards the development of the autoglosser.
+
+%\bibliographystyle{acl}
+% you bib file should really go here 
+%\bibliography{eacl2009}
+
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{MacWhinney}2000]{macwhinney2000}
+Brian MacWhinney
+\newblock 2000.
+\newblock {\em The CHILDES Project: Tools for Analyzing Talk}, 3rd edition.
+\newblock Mahwah, New Jersey
+
+\bibitem[\protect\citename{Comrie}2000]{leipzig2000}
+B. Comrie, M. Haspelmath and B. Bickel.
+\newblock 2008.
+\newblock {\em Leipzig glossing rules: Conventions for interlinear morpheme-by-morpheme glosses.}
+\newblock \url{http://eva.mpg.de/lingua/resources/glossing-rules.php}
+
+\end{thebibliography}
+
+\end{document}

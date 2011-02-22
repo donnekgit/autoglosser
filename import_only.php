@@ -23,6 +23,7 @@ include("/opt/autoglosser/config.php");
 // Generate default names from the filepath given
 list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 
+/*
 echo $chafile."\n";
 echo $filename."\n";
 echo $utterances."\n";
@@ -32,6 +33,7 @@ echo "Outputs are in outputs/$filename/\n";
 
 echo "*\n*\nPreparing $filename\n*\n*\n";
 include("prepare_file.php");
+*/
 
 echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
 include("cgimport.php");
