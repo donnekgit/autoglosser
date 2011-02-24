@@ -76,7 +76,6 @@ while ($row_s=pg_fetch_object($result_s))
 
 	$precode=($precode=="") ? "": "[-".$precode."]";
 
-
 	$wsurface="\gla ".$row_s->speaker.": ".$precode." ".$surface." //\n";
 	echo $wsurface."\n";
 	fwrite($fp, $wsurface);
@@ -85,12 +84,16 @@ while ($row_s=pg_fetch_object($result_s))
 	echo $wauto."\n";
 	fwrite($fp, $wauto);
 
+	$weng="\glft ".$row_s->eng." //\n";
+	echo $weng."\n";
+	fwrite($fp, $weng);
+
 	$endgl="\endgl\n\\xe\n";
 	fwrite($fp, $endgl);
 
 	fwrite($fp, "\n");
 
-	unset($surface, $auto, $mor, $wsurface, $wauto, $wmor, $precode);
+	unset($surface, $auto, $mor, $wsurface, $wauto, $wmor, $weng, $precode);
 }
 
 $lines=file("tex/tex_footer.tex");  // Open footer file.

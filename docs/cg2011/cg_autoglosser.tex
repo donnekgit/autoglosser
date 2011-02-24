@@ -17,7 +17,7 @@
 
 \author{Kevin Donnelly \textit{and} Margaret Deuchar\\
   ESRC Centre for Research on Bilingualism in Theory and Practice\\
-  Bangor, Wales, UK\\
+  Prifysgol Bangor University, Wales, UK\\
   {\tt \{k.donnelly|m.deuchar\}@bangor.ac.uk}  }
 
 \date{}
@@ -98,7 +98,7 @@ In fact, the number of cases where this is absolutely essential is very small, b
 
 Both Spanish and Welsh are inflected languages (modern Welsh considerably less so than it was), while English is an analytic language with few inflections (mainly in ``strong'' verbs).  This is reflected in the nature of the rules that have proved most efficient in the autoglosser.  
 
-For Spanish and Welsh, surface forms are fairly well-defined by their shape -- \textbf{empieza}, for instance, can only be the second/third person singular present tense or the second person singular imperative of \textbf{empezar} (\textit{to begin}).  The lookup fetches these entries from the dictionary,\footnote{The possibility of de-conjugating inflected verbs on-the-fly is interesting, but may be too complex to attempt at this stage.} and so the rules consist mainly of \textbf{select} rules (with a few \textbf{remove}s and \textbf{substitute}s).  
+For Spanish and Welsh, surface forms are fairly well-defined by their shape -- \textbf{empieza}, for instance, can only be the second/third person singular present tense or the second person singular imperative of \textbf{empezar} (\textit{to begin}).  The lookup fetches these entries from the dictionary,\footnote{The possibility of de-conjugating inflected verbs on-the-fly is attractive, but may be too complex to attempt at this stage.} and so the rules consist mainly of \textbf{select} rules (with a few \textbf{remove}s and \textbf{substitute}s).  
 
 For English, on the other hand, the surface form gives us few clues about the part-of-speech a word belongs to, which is largely defined by its role in the sentence -- \textbf{break} can be a singular noun, or a verb infinitive, or the non-third person singular present tense.  Instead of giving \textbf{break} three entries in the English dictionary, we have chosen to assign it one entry, with a tag (\textit{sv}) which reflects this diversity of role.  
 
@@ -108,6 +108,12 @@ This says that ann English \textit{as} tag should be converted to an \textit{adj
 
 [We continue with further examples and discussion.]
 
+Finally, we discuss more general issues (on which we would welcome input from other CG practitioners) such as:
+\begin{itemize}
+\item The best way of structuring a multilingual grammar so as to prevent bleed-through of one language's rules into the others'.
+\item Rule types to avoid - our current view is that \textbf{remove} and \textbf{select-if-not} rules are particularly problematic unless they are carefully constrained
+\end{itemize}
+
 \section{Further work}
 \label{sec:further}
 
@@ -116,7 +122,12 @@ Although the current configuration of rules is working well, we hope to explore 
 
 \section*{Acknowledgments}
 
-The authors would like to thank the ESRC for its financial support of the Centre, and colleagues at the ESRC Centre for their contributions towards the development of the autoglosser.
+The support of the Arts and Humanities Research Council (AHRC), the Economic and
+Social Research Council (ESRC), the Higher Education Funding Council for Wales and the
+Welsh Assembly Government is gratefully acknowledged. The work presented in this paper
+was part of the programme of the ESRC Centre for Research on Bilingualism in Theory and
+Practice at Bangor University.
+
 
 %\bibliographystyle{acl}
 % you bib file should really go here 

@@ -18,14 +18,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // Set up more frequent language and less frequent language here.  This covers the new CLAN default.
-$mflg="spa";
-$lflg="eng";
+//$mflg="spa";
+//$lflg="eng";
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "spa&eng", "cym&eng");
-$cylg=array("1", "cy", "cy+en", "cy+es", "cym");
+$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
 $enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
-$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
+$eslg=array("3", "es", "es+en", "es+cy", "spa");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -474,12 +474,12 @@ function de_soft($text)
 {
     $text=preg_replace("/^g/", "c", $text);
     $text=preg_replace("/^G/", "C", $text);
-    $text=preg_replace("/^l/", "ll", $text);
-    $text=preg_replace("/^L/", "Ll", $text);
+    //$text=preg_replace("/^l/", "[gl]l", $text);
+    //$text=preg_replace("/^L/", "[GL]l", $text);
     $text=preg_replace("/^r/", "rh", $text);
     $text=preg_replace("/^R/", "Rh", $text);
-    $text=preg_replace("/^l([^l])/", "gl", $text);
-    $text=preg_replace("/^L([^l])/", "Gl", $text);
+    $text=preg_replace("/^l([^l])/", "[gl]l$1", $text);
+    $text=preg_replace("/^L([^l])/", "[GL]l$1", $text);
     $text=preg_replace("/^r([^h])/", "gr", $text);
     $text=preg_replace("/^R([^h])/", "Gr", $text);
     $text=preg_replace("/^([aeoiuwyïŵŷ])/", "g$1", $text);

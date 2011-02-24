@@ -48,6 +48,53 @@ Checking write_cgautogloss.php output
 select w.utterance_id, w.location, w.mainlang, w.gloss, f.utterance_id as autoutt, f.location as autoloc, f.surface, f.lemma, f.tags from patagonia2_cgwords w, patagonia2_cgfinished f where w.utterance_id=f.utterance_id and w.location=f.location order by w.utterance_id, w.location
 
 
+
+
+Accuracy and coverage:
+==============
+select surface, gls, auto , count(surface) from stammers4_cgwords where surface~'[.!?]' group by surface, gls, auto  order by surface
+select surface, gls, auto, count(surface) from stammers4_cgwords where auto~'\\.N\\.' group by surface, gls, auto  order by surface
+select surface, mor, auto, count(surface) from zeledon14m_cgwords where auto~'\\.N\\.' group by surface, mor, auto  order by surface
+select count(*) from stammers4_cgwords where gls!~'[A-Z]'
+select surface, gls, auto from stammers4_cgwords where gls!~'[A-Z]' group by surface, gls, auto order by surface
+select surface, count(surface), mor, auto from zeledon14m_cgwords where mor~'^n' group by surface, mor, auto order by surface
+
+
+Collecting unknown words
+select lemma, count(lemma) from patagonia6_cgfinished where pos='m' group by lemma order by lemma (names)
+select lemma, count(lemma) from patagonia6_cgfinished where pos='u' group by lemma order by lemma (unknown)
+
+Log unknown words:
+create table pat_unk as select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
+
+
+Miami/Patagonia
+
+select surface, count(*), auto, langid from patagonia6_cgwords group by surface, auto, langid order by surface, auto, langid
+select surface, count(*), auto, langid from patagonia2_cgwords where auto='unk' group by surface, auto, langid order by surface, auto, langid
+select count(*) from patagonia2_cgwords
+select * from patagonia6_cgwords where auto ~ '\\[or\\]'
+
+Run create_unknowns patagonia2 to create a table populated with the unk(nown) items from the patagonia2 table.
+Run merge_cy_unknowns to merge them into cylist.
+Re-autogloss.
+
+
+
+Log unknown words:
+============
+select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
+
+
+
+
+
+
+
+
+
+
+
 Select tablenames
 ===========
 select tablename from pg_tables where tablename !~'(pg_|sql_|_sp)' and tablename ~'_'
@@ -227,13 +274,6 @@ Many of the above removed again under the new system of on-the-fly segmenting
 
 
 
-Log unknown words:
-============
-select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
-
-
-
-
 
 Google lookup
 ========
@@ -304,21 +344,6 @@ Finding "good" examples of autoglossing:
 select * from stammers4_cgutterances where utterance_id in (select utterance_id from stammers4_cgwords where auto !~'unk' and auto !~'\[or\]' and langid='2')
 
 
-Accuracy and coverage:
-==============
-select surface, gls, auto , count(surface) from stammers4_cgwords where surface~'[.!?]' group by surface, gls, auto  order by surface
-select surface, gls, auto, count(surface) from stammers4_cgwords where auto~'\\.N\\.' group by surface, gls, auto  order by surface
-select surface, mor, auto, count(surface) from zeledon14m_cgwords where auto~'\\.N\\.' group by surface, mor, auto  order by surface
-select count(*) from stammers4_cgwords where gls!~'[A-Z]'
-select surface, gls, auto from stammers4_cgwords where gls!~'[A-Z]' group by surface, gls, auto order by surface
-select surface, count(surface), mor, auto from zeledon14m_cgwords where mor~'^n' group by surface, mor, auto order by surface
-
-
-
-
-
-
-
 
 
 CG issues
@@ -387,11 +412,6 @@ dev.off()
 
 
 
-Diffing files
-=======
-diff sastre1orig.cha /home/kevin/data/miami/sastre1.cha > sastre1.diff
-
-
 
 
 Conversion to new CHAT default with precodes (from @0, @1, @2, @3 format)
@@ -440,6 +460,12 @@ grep -v '%mor' sastre1.cha > sastre1_aut.cha - moves all tiers except %mor into 
 
 
 
+
+Diffing files
+=======
+diff sastre1orig.cha /home/kevin/data/miami/sastre1.cha > sastre1.diff
+
+
 Getting the total number of different regions in two files
 =================================
 The lines that specify the changed regions start with numbers, so to get the total number of changed regions, do:
@@ -449,7 +475,21 @@ diff filea fileb | grep '^<' | wc -l
 
 
 
+Notes for papers
+===========
 
+"prefer" option would be nice, ie prefer indiciative to subjunctive or imperative
+
+move from more specific to less specific:
+select ([cy] "o" prep :of:) if (-1 ([cy] n)) (2 (n) or (pron));  # llun o nhw - needs to go before the next one
+select ([cy] pron m 3s) if (-1 ([cy] n));  # enw fo
+
+patagonia2:
+mewn home 
+yn nawdeg tri (in '93), but yn nawdeg tri [oed] (93 years old)
+roedd y te fantástico
+oedd hynna o. Mold - can we jump across sentence boundaries?
+roedd hi yn sister
 
 
 

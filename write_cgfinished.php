@@ -81,7 +81,7 @@ foreach ($lines as $line_num => $line)
 					$row_f->enlemma=pg_escape_string($row_f->enlemma);
 					$subtags=preg_replace("/ /", ".", $subtags);  // replace any spaces in $subtags with a period
 					//$sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, gender, number, tense, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$row_f->pos', '$row_f->gender', '$row_f->number', '$row_f->tense', '$row_f->notes', '$segs')";
-					$sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, notes, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$subtags', '$row_f->notes', '$segs')";
+					$sql_u="insert into $cgfinished(utterance_id, location, lemma, enlemma, pos, extra) values ('$utt', '$loc', '$row_f->lemma', '$row_f->enlemma', '$subtags', '$segs')";
 					$result_u=pg_query($db_handle,$sql_u) or die("Can't insert the items");
 				}
 /*

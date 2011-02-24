@@ -1,20 +1,17 @@
 "<wel>"
 	"wel" {1,1} [cy] unk
 "<baswn>"
-	"baswn" {1,2} [cy] unk
+	"bod" {1,2} [cy] v 1s pluperf spoken :be: [209347]
 "<i>"
-	"i" {1,3} [cy] prep :to: [202346]
+	"fi" {1,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {1,4} [cy] n m sg :nothing: [208789] + sm
+	"dim" {1,4} [cy] adv :not: [204176] + sm
 "<yma>"
 	"yma" {1,5} [cy] adv :here: [201408]
 "<.>"
 
 "<na>"
-	"na" {2,1} [cy] conj :(n)or: [207110]
-	"na" {2,1} [cy] conj :than: [205467]
 	"na" {2,1} [cy] prt.neg :neg: [198802]
-	"da" {2,1} [cy] adj :good: [208568] + nm
 "<!>"
 
 "<a>"
@@ -25,13 +22,12 @@
 	"bod" {3,3} [cy] v infin :be: [205519]
 "<fi>"
 	"fi" {3,4} [cy] pron 1s :I: [201450]
-	"mi" {3,4} [cy] prt.aff :aff: [200111] + sm
 "<wedi>"
 	"wedi" {3,5} [cy] prep :after: [207472]
 "<mynd>"
 	"mynd" {3,6} [cy] v infin :go: [198448]
 "<i_lawr>"
-	"i_lawr" {3,7} [cy] unk
+	"i_lawr" {3,7} [cy] adv :down: [209311]
 "<yn>"
 	"yn" {3,8} [cy] stat :stative: [200654]
 "<syth>"
@@ -39,11 +35,11 @@
 "<.>"
 
 "<taswn>"
-	"tasu" {4,1} [cy] v 1p imper :stack: [100278]
+	"bod" {4,1} [cy] v 1s pluperf spoken :be: [209367]
 "<i>"
-	"i" {4,2} [cy] pron 1s :I: [204322]
+	"fi" {4,2} [cy] pron 1s :I: [204322]
 "<wedi>"
-	"gwadu" {4,3} [cy] v 2s pres literary :deny: [32443] + sm
+	"wedi" {4,3} [cy] prep :after: [207472]
 "<mynd>"
 	"mynd" {4,4} [cy] v infin :go: [198448]
 "<i>"
@@ -63,10 +59,9 @@
 "<syth>"
 	"syth" {4,12} [cy] adj :straight: [205247]
 "<basai>"
-	"basai" {4,13} [cy] unk
+	"bod" {4,13} [cy] v 3s pluperf spoken :be: [209297]
 "<fo>"
 	"fo" {4,14} [cy] pron m 3s :he: [196922]
-	"mo" {4,14} [cy] adv :not: [202814] + sm
 "<lot>"
 	"lot" {4,15} [cy] unk
 "<gwell>"
@@ -87,11 +82,11 @@
 "<.>"
 
 "<ia>"
-	"ia" {6,1} [cy] unk
+	"ia" {6,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {7,1} [cy] unk
+	"ia" {7,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<aha>"
@@ -103,7 +98,7 @@
 "<!>"
 
 "<ia>"
-	"ia" {9,1} [cy] unk
+	"ia" {9,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ond>"
@@ -115,9 +110,9 @@
 "<hyn>"
 	"hyn" {10,4} [cy] pron :this: [204160]
 "<dw>"
-	"dw" {10,5} [cy] unk
+	"bod" {10,5} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {10,6} [cy] prep :to: [202346]
+	"fi" {10,6} [cy] pron 1s :I: [204322]
 "<meddwl>"
 	"meddwl" {10,7} [cy] v infin :think: [205499]
 "<bod>"
@@ -143,22 +138,13 @@
 "<.>"
 
 "<na>"
-	"na" {12,1} [cy] conj :(n)or: [207110]
-	"na" {12,1} [cy] conj :than: [205467]
 	"na" {12,1} [cy] prt.neg :neg: [198802]
-	"da" {12,1} [cy] adj :good: [208568] + nm
 "<!>"
 
 "<na>"
-	"na" {13,1} [cy] conj :(n)or: [207110]
-	"na" {13,1} [cy] conj :than: [205467]
 	"na" {13,1} [cy] prt.neg :neg: [198802]
-	"da" {13,1} [cy] adj :good: [208568] + nm
 "<na>"
-	"na" {13,2} [cy] conj :(n)or: [207110]
-	"na" {13,2} [cy] conj :than: [205467]
 	"na" {13,2} [cy] prt.neg :neg: [198802]
-	"da" {13,2} [cy] adj :good: [208568] + nm
 "<bod>"
 	"bod" {13,3} [cy] v infin :be: [205519]
 "<well>"
@@ -182,13 +168,13 @@
 "<mae>"
 	"bod" {14,2} [cy] v 3s pres :be: [59494]
 "<hynna>"
-	"hynna" {14,3} [cy] unk
+	"hwn" {14,3} [cy] dem spoken :that: [209349]
 "<wir>"
 	"gwir" {14,4} [cy] adj :true: [207093] + sm
 "<.>"
 
 "<ia>"
-	"ia" {15,1} [cy] unk
+	"ia" {15,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<gwell>"
@@ -196,7 +182,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {17,1} [cy] unk
+	"ia" {17,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<neu>"
@@ -207,7 +193,6 @@
 	"bod" {18,3} [cy] v infin :be: [205519]
 "<fi>"
 	"fi" {18,4} [cy] pron 1s :I: [201450]
-	"mi" {18,4} [cy] prt.aff :aff: [200111] + sm
 "<wedi>"
 	"wedi" {18,5} [cy] prep :after: [207472]
 "<mynd>"
@@ -251,7 +236,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {22,1} [cy] unk
+	"ia" {22,1} [cy] adv :yes: [209325]
 "<teulu>"
 	"teulu" {22,2} [cy] n m sg :family: [207129]
 "<mawr>"
@@ -261,9 +246,9 @@
 "<.>"
 
 "<baswn>"
-	"baswn" {23,1} [cy] unk
+	"bod" {23,1} [cy] v 1s pluperf spoken :be: [209347]
 "<i>"
-	"i" {23,2} [cy] prep :to: [202346]
+	"fi" {23,2} [cy] pron 1s :I: [204322]
 "<mynd>"
 	"mynd" {23,3} [cy] v infin :go: [198448]
 "<i>"
@@ -273,9 +258,9 @@
 "<acw>"
 	"acw" {23,6} [cy] adv :over there: [208687]
 "<baswn>"
-	"baswn" {23,7} [cy] unk
+	"bod" {23,7} [cy] v 1s pluperf spoken :be: [209347]
 "<i>"
-	"i" {23,8} [cy] prep :to: [202346]
+	"fi" {23,8} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {23,9} [cy] prep :in: [204430]
 "<hunain>"
@@ -287,7 +272,7 @@
 "<mae>"
 	"bod" {23,13} [cy] v 3s pres :be: [59494]
 "<un>"
-	"un" {23,14} [cy] adj :one: [202310]
+	"un" {23,14} [cy] num :one: [202310]
 "<ferch>"
 	"merch" {23,15} [cy] n f sg :daughter: [203821] + sm
 "<yn>"
@@ -311,11 +296,11 @@
 "<wedyn>"
 	"wedyn" {24,2} [cy] adv :afterwards: [209122]
 "<baswn>"
-	"baswn" {24,3} [cy] unk
+	"bod" {24,3} [cy] v 1s pluperf spoken :be: [209347]
 "<i>"
-	"i" {24,4} [cy] prep :to: [202346]
+	"fi" {24,4} [cy] pron 1s :I: [204322]
 "<wedi>"
-	"gwadu" {24,5} [cy] v 2s pres literary :deny: [32443] + sm
+	"wedi" {24,5} [cy] prep :after: [207472]
 "<mynd>"
 	"mynd" {24,6} [cy] v infin :go: [198448]
 "<i>"
@@ -331,9 +316,10 @@
 "<wel>"
 	"wel" {26,1} [cy] unk
 "<mi>"
+	"mi" {26,2} [cy] pron.obj 1s :me: [209376]
 	"mi" {26,2} [cy] prt.aff :aff: [200111]
 "<fasai>"
-	"fasai" {26,3} [cy] unk
+	"bod" {26,3} [cy] v 3s pluperf spoken :be: [209297] + sm
 "<.>"
 
 "<Felipa>"
@@ -353,7 +339,7 @@
 "<yna>"
 	"yna" {27,8} [cy] adv :there: [208848]
 "<ynde>"
-	"ynde" {27,9} [cy] unk
+	"bod" {27,9} [cy] im :isn''t_it: [209358]
 "<.>"
 
 "<wel>"
@@ -362,7 +348,6 @@
 	"dyna" {28,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {28,3} [cy] pron m 3s :he: [196922]
-	"mo" {28,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<mae>"
@@ -370,7 +355,6 @@
 "<nhw>"
 	"nhw" {29,2} [cy] pron 3p :they: [207491]
 "<â>"
-	"â" {29,3} [cy] conj :as: [197357]
 	"â" {29,3} [cy] prep :with: [208783]
 "<teulu>"
 	"teulu" {29,4} [cy] n m sg :family: [207129]
@@ -381,7 +365,7 @@
 "<pob>"
 	"pob" {29,7} [cy] adj :each: [208903]
 "<un>"
-	"un" {29,8} [cy] adj :one: [202310]
+	"un" {29,8} [cy] num :one: [202310]
 "<ohonyn>"
 	"ohonyn" {29,9} [cy] prep :from them: [198514]
 "<nhw>"
@@ -389,11 +373,11 @@
 "<.>"
 
 "<ia>"
-	"ia" {30,1} [cy] unk
+	"ia" {30,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {31,1} [cy] unk
+	"ia" {31,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<um>"
@@ -401,7 +385,7 @@
 "<Peredur>"
 	"Peredur" {32,2} [0] name
 "<dach>"
-	"dach" {32,3} [cy] unk
+	"bod" {32,3} [cy] v 2p pres spoken :be: [209281]
 "<chi>"
 	"chi" {32,4} [cy] pron 2p :you: [205379]
 "<am>"
@@ -411,16 +395,15 @@
 "<?>"
 
 "<dw>"
-	"dw" {33,1} [cy] unk
+	"bod" {33,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {33,2} [cy] prep :to: [202346]
+	"fi" {33,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {33,3} [cy] stat :stative: [200654]
 "<iawn>"
 	"iawn" {33,4} [cy] adv :OK: [207540]
 "<diolch>"
 	"diolch" {33,5} [cy] n m sg :thanks: [205548]
-	"diolch" {33,5} [cy] v infin :thank: [205973]
 "<yn>"
 	"yn" {33,6} [cy] stat :stative: [200654]
 "<fawr>"
@@ -443,17 +426,17 @@
 "<oeddwn>"
 	"bod" {35,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {35,2} [cy] pron 1s :I: [204322]
+	"fi" {35,2} [cy] pron 1s :I: [204322]
 "<.>"
 
 "<pob>"
 	"pob" {36,1} [cy] adj :each: [208903]
 "<tro>"
-	"troi" {36,2} [cy] v 2s imper :turn: [29955]
+	"tro" {36,2} [cy] n m sg :turn: [199168]
 "<dw>"
-	"dw" {36,3} [cy] unk
+	"bod" {36,3} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {36,4} [cy] prep :to: [202346]
+	"fi" {36,4} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {36,5} [cy] stat :stative: [200654]
 "<mynd>"
@@ -463,9 +446,9 @@
 "<Esquel>"
 	"Esquel" {36,8} [0] name
 "<dw>"
-	"dw" {36,9} [cy] unk
+	"bod" {36,9} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {36,10} [cy] prep :to: [202346]
+	"fi" {36,10} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {36,11} [cy] stat :stative: [200654]
 "<meddwl>"
@@ -481,7 +464,6 @@
 "<yn>"
 	"yn" {36,17} [cy] stat :stative: [200654]
 "<ei>"
-	"ei" {36,18} [cy] adj :his: [206479]
 	"ei" {36,18} [cy] adj :her: [202228]
 "<gweld>"
 	"gweld" {36,19} [cy] v infin :see: [204308]
@@ -490,16 +472,13 @@
 "<.>"
 
 "<na>"
-	"na" {37,1} [cy] conj :(n)or: [207110]
-	"na" {37,1} [cy] conj :than: [205467]
 	"na" {37,1} [cy] prt.neg :neg: [198802]
-	"da" {37,1} [cy] adj :good: [208568] + nm
 "<dw>"
-	"dw" {37,2} [cy] unk
+	"bod" {37,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {37,3} [cy] prep :to: [202346]
+	"fi" {37,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {37,4} [cy] n m sg :nothing: [208789] + sm
+	"dim" {37,4} [cy] adv :not: [204176] + sm
 "<wedi>"
 	"wedi" {37,5} [cy] prep :after: [207472]
 "<gweld>"
@@ -511,9 +490,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {38,1} [cy] unk
+	"bod" {38,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {38,2} [cy] prep :to: [202346]
+	"fi" {38,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {38,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -525,21 +504,21 @@
 "<blynyddoedd>"
 	"blwyddyn" {39,1} [cy] n f pl :years: [207922]
 "<yn_ôl>"
-	"yn_ôl" {39,2} [cy] unk
+	"ôl" {39,2} [cy] adv :back: [209344]
 "<.>"
 
 "<dw>"
-	"dw" {40,1} [cy] unk
+	"bod" {40,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {40,2} [cy] prep :to: [202346]
+	"fi" {40,2} [cy] pron 1s :I: [204322]
 "<.>"
 
 "<pryd>"
 	"pryd" {41,1} [cy] n m sg :meal: [198767]
 "<ddest>"
-	"ddest" {41,2} [cy] unk
+	"dod" {41,2} [cy] v 2s past spoken :come: [209286] + sm
 "<gynta>"
-	"cynta" {41,3} [cy] adj :first: [205567] + sm
+	"cynta" {41,3} [cy] ord :first: [205567] + sm
 "<yn>"
 	"yn" {41,4} [cy] prep :in: [204430]
 "<y>"
@@ -563,7 +542,7 @@
 "<?>"
 
 "<ia>"
-	"ia" {44,1} [cy] unk
+	"ia" {44,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<oh>"
@@ -573,19 +552,20 @@
 "<oeddwn>"
 	"bod" {45,3} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {45,4} [cy] pron 1s :I: [204322]
+	"fi" {45,4} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {45,5} [cy] stat :stative: [200654]
+	"yn" {45,5} [cy] prep :in: [204430]
 "<bump>"
-	"pump" {45,6} [cy] adj :five: [206769] + sm
+	"pump" {45,6} [cy] num :five: [206769] + sm
 "<oed>"
 	"oed" {45,7} [cy] n m sg :age: [199067]
 "<.>"
 
 "<es>"
-	"es" {46,1} [cy] unk
+	"mynd" {46,1} [cy] v 1s past spoken :go: [209304]
 "<i>"
-	"i" {46,2} [cy] prep :to: [202346]
+	"fi" {46,2} [cy] pron 1s :I: [204322]
 "<efo>"
 	"efo" {46,3} [cy] prep :with: [207906]
 "<mam>"
@@ -605,7 +585,7 @@
 "<a>"
 	"a" {46,11} [cy] conj :and: [203303]
 "<modryb>"
-	"modryb" {46,12} [cy] unk
+	"modryb" {46,12} [cy] n f sg :aunt: [209312]
 "<Ana>"
 	"Ana" {46,13} [0] name
 "<.>"
@@ -613,48 +593,41 @@
 "<a>"
 	"a" {47,1} [cy] conj :and: [203303]
 "<modryb>"
-	"modryb" {47,2} [cy] unk
+	"modryb" {47,2} [cy] n f sg :aunt: [209312]
 "<Ana>"
 	"Ana" {47,3} [0] name
 "<?>"
 
 "<ia>"
-	"ia" {48,1} [cy] unk
+	"ia" {48,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<nid>"
 	"nid" {49,1} [cy] adv :(it is) not: [209021]
 "<modryb>"
-	"modryb" {49,2} [cy] unk
+	"modryb" {49,2} [cy] n f sg :aunt: [209312]
 "<Ora>"
 	"Ora" {49,3} [0] name
 "<?>"
 
 "<na>"
-	"na" {50,1} [cy] conj :(n)or: [207110]
-	"na" {50,1} [cy] conj :than: [205467]
 	"na" {50,1} [cy] prt.neg :neg: [198802]
-	"da" {50,1} [cy] adj :good: [208568] + nm
 "<modryb>"
-	"modryb" {50,2} [cy] unk
+	"modryb" {50,2} [cy] n f sg :aunt: [209312]
 "<Ana>"
 	"Ana" {50,3} [0] name
 "<.>"
 
 "<na>"
-	"na" {51,1} [cy] conj :(n)or: [207110]
-	"na" {51,1} [cy] conj :than: [205467]
 	"na" {51,1} [cy] prt.neg :neg: [198802]
-	"da" {51,1} [cy] adj :good: [208568] + nm
 "<wnes>"
 	"gwneud" {51,2} [cy] v 1s past spoken :do: [9677] + sm
 "<i>"
-	"i" {51,3} [cy] pron 1s :I: [204322]
+	"fi" {51,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {51,4} [cy] n m sg :nothing: [208789] + sm
 	"dim" {51,4} [cy] adv :not: [204176] + sm
 "<nabod>"
-	"nabod" {51,5} [cy] unk
+	"adnabod" {51,5} [cy] v infin :know: [209314]
 "<y>"
 	"y" {51,6} [cy] det.def :the: [204199]
 "<nain>"
@@ -674,7 +647,7 @@
 "<oeddwn>"
 	"bod" {52,5} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {52,6} [cy] pron 1s :I: [204322]
+	"fi" {52,6} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {52,7} [cy] stat :stative: [200654]
 "<cael>"
@@ -686,9 +659,8 @@
 "<.>"
 
 "<paid>"
-	"paid" {53,1} [cy] unk
+	"peidio" {53,1} [cy] v 2s imper :stop: [209329]
 "<â>"
-	"â" {53,2} [cy] conj :as: [197357]
 	"â" {53,2} [cy] prep :with: [208783]
 "<deud>"
 	"dweud" {53,3} [cy] v infin spoken :say: [209262]
@@ -702,7 +674,6 @@
 	"mi" {55,1} [cy] prt.aff :aff: [200111]
 "<ddychrynodd>"
 	"dychryn" {55,2} [cy] v 3s past :frighten: [54787] + sm
-	"dychrynu" {55,2} [cy] v 3s past :frighten: [54788] + sm
 "<hi>"
 	"hi" {55,3} [cy] pron f 3s :she: [203039]
 "<!>"
@@ -712,7 +683,7 @@
 "<oeddwn>"
 	"bod" {57,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {57,2} [cy] pron 1s :I: [204322]
+	"fi" {57,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {57,3} [cy] stat :stative: [200654]
 "<meddwl>"
@@ -728,7 +699,7 @@
 "<rhyw>"
 	"rhyw" {59,1} [cy] adj :some: [202560]
 "<ddynes>"
-	"ddynes" {59,2} [cy] unk
+	"dyn" {59,2} [cy] n f sg :woman: [209298] + sm
 "<dawel>"
 	"tawel" {59,3} [cy] adj :quiet: [203012] + sm
 "<.>"
@@ -742,7 +713,7 @@
 "<oh>"
 	"oh" {61,1} [0] oh
 "<ia>"
-	"ia" {61,2} [cy] unk
+	"ia" {61,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<oedd>"
@@ -768,16 +739,11 @@
 "<hyd>"
 	"hyd" {62,11} [cy] n m sg :length: [208306]
 "<o>"
-	"fo" {62,12} [cy] pron m 3s spoken :he: [209264]
 	"o" {62,12} [cy] prep :from: [203721]
-	"o" {62,12} [cy] prep :of: [203019]
 "<lythyron>"
-	"llythyru" {62,13} [cy] v 1p past spoken :correspond: [89793] + sm
-	"llythyra" {62,13} [cy] v 1p past spoken :correspond: [89794] + sm
-	"llythyra" {62,13} [cy] v 3p past spoken :correspond: [147505] + sm
-	"llythyru" {62,13} [cy] v 3p past spoken :correspond: [147506] + sm
+	"llythyr" {62,13} [cy] n m pl nstan :letters: [209368] + sm
 "<i>"
-	"i" {62,14} [cy] pron 1s :I: [204322]
+	"i" {62,14} [cy] prep :to: [202346]
 "<nain>"
 	"nain" {62,15} [cy] n f sg :grandmother: [200033]
 "<er>"
@@ -799,7 +765,7 @@
 "<agos>"
 	"agos" {62,24} [cy] adj :close: [201398]
 "<atan>"
-	"atan" {62,25} [cy] unk
+	"at" {62,25} [cy] prep+pron 1p spoken :to_us: [209274]
 "<ni>"
 	"ni" {62,26} [cy] pron 1p :we: [207621]
 "<a>"
@@ -824,21 +790,17 @@
 "<er>"
 	"er" {63,2} [0] er
 "<dw>"
-	"dw" {63,3} [cy] unk
+	"bod" {63,3} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {63,4} [cy] prep :to: [202346]
+	"fi" {63,4} [cy] pron 1s :I: [204322]
 "<isio>"
 	"isio" {63,5} [cy] n m sg :want: [201655]
 "<gweld>"
 	"gweld" {63,6} [cy] v infin :see: [204308]
 "<y>"
-	"y" {63,7} [cy] conj :that: [200652]
 	"y" {63,7} [cy] det.def :the: [204199]
 "<llythyron>"
-	"llythyru" {63,8} [cy] v 1p past spoken :correspond: [89793]
-	"llythyra" {63,8} [cy] v 1p past spoken :correspond: [89794]
-	"llythyra" {63,8} [cy] v 3p past spoken :correspond: [147505]
-	"llythyru" {63,8} [cy] v 3p past spoken :correspond: [147506]
+	"llythyr" {63,8} [cy] n m pl nstan :letters: [209368]
 "<yna>"
 	"yna" {63,9} [cy] adv :there: [208848]
 "<.>"
@@ -848,7 +810,7 @@
 "<oeddwn>"
 	"bod" {64,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {64,3} [cy] pron 1s :I: [204322]
+	"fi" {64,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {64,4} [cy] stat :stative: [200654]
 "<sgrifennu>"
@@ -866,7 +828,7 @@
 "<oeddwn>"
 	"bod" {64,11} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {64,12} [cy] pron 1s :I: [204322]
+	"fi" {64,12} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {64,13} [cy] stat :stative: [200654]
 "<fach>"
@@ -876,7 +838,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {65,1} [cy] unk
+	"ia" {65,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<Ana>"
@@ -886,11 +848,11 @@
 "<oh>"
 	"oh" {67,1} [0] oh
 "<ia>"
-	"ia" {67,2} [cy] unk
+	"ia" {67,2} [cy] adv :yes: [209325]
 "<?>"
 
 "<pump>"
-	"pump" {68,1} [cy] adj :five: [206769]
+	"pump" {68,1} [cy] num :five: [206769]
 "<oed>"
 	"oed" {68,2} [cy] n m sg :age: [199067]
 "<oeddwn>"
@@ -902,9 +864,8 @@
 "<.>"
 
 "<paid>"
-	"paid" {69,1} [cy] unk
+	"peidio" {69,1} [cy] v 2s imper :stop: [209329]
 "<â>"
-	"â" {69,2} [cy] conj :as: [197357]
 	"â" {69,2} [cy] prep :with: [208783]
 "<deud>"
 	"dweud" {69,3} [cy] v infin spoken :say: [209262]
@@ -913,7 +874,7 @@
 "<oeddwn>"
 	"bod" {70,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {70,2} [cy] pron 1s :I: [204322]
+	"fi" {70,2} [cy] pron 1s :I: [204322]
 "<byth>"
 	"byth" {70,3} [cy] adv :forever: [201281]
 "<yn>"
@@ -921,9 +882,9 @@
 "<cael>"
 	"cael" {70,5} [cy] v infin :have: [204498]
 "<atebiad>"
-	"atebiad" {70,6} [cy] unk
+	"ateb" {70,6} [cy] n m sg :reply: [209275]
 "<wrthyn>"
-	"wrthyn" {70,7} [cy] unk
+	"wrth" {70,7} [cy] prep+pron 3p :to_them: [209336]
 "<nhw>"
 	"nhw" {70,8} [cy] pron 3p :they: [207491]
 "<.>"
@@ -933,7 +894,7 @@
 "<sut>"
 	"sut" {71,2} [cy] int :how: [201325]
 "<wnest>"
-	"wnest" {71,3} [cy] unk
+	"gwneud" {71,3} [cy] v 2s past spoken :do: [209353] + sm
 "<ti>"
 	"ti" {71,4} [cy] pron 2s :you: [208649]
 "<ddysgu>"
@@ -943,25 +904,25 @@
 "<?>"
 
 "<adre>"
-	"adre" {72,1} [cy] adv :homewards: [201958]
+	"adre" {72,1} [cy] adv :home: [201958]
 "<.>"
 
 "<adre>"
-	"adre" {73,1} [cy] adv :homewards: [201958]
+	"adre" {73,1} [cy] adv :home: [201958]
 "<?>"
 
 "<adre>"
-	"adre" {74,1} [cy] adv :homewards: [201958]
+	"adre" {74,1} [cy] adv :home: [201958]
 "<.>"
 
 "<ia>"
-	"ia" {75,1} [cy] unk
+	"ia" {75,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<oeddwn>"
 	"bod" {76,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {76,2} [cy] pron 1s :I: [204322]
+	"fi" {76,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {76,3} [cy] stat :stative: [200654]
 "<ofnadwy>"
@@ -1003,7 +964,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {79,1} [cy] unk
+	"ia" {79,1} [cy] adv :yes: [209325]
 "<a>"
 	"a" {79,2} [cy] conj :and: [203303]
 "<wedyn>"
@@ -1011,11 +972,11 @@
 "<oeddwn>"
 	"bod" {79,4} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {79,5} [cy] pron 1s :I: [204322]
+	"fi" {79,5} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {79,6} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {79,7} [cy] v infin :be: [205233]
+	"gallu" {79,7} [cy] v infin :be_able: [205233]
 "<sgrifennu>"
 	"sgrifennu" {79,8} [cy] v infin :write: [197374]
 "<iddi>"
@@ -1029,15 +990,15 @@
 "<.>"
 
 "<pump>"
-	"pump" {80,1} [cy] adj :five: [206769]
+	"pump" {80,1} [cy] num :five: [206769]
 "<chwech>"
-	"chwech" {80,2} [cy] adj :six: [196702]
+	"chwech" {80,2} [cy] num :six: [196702]
 "<oed>"
 	"oed" {80,3} [cy] n m sg :age: [199067]
 "<oeddwn>"
 	"bod" {80,4} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {80,5} [cy] pron 1s :I: [204322]
+	"fi" {80,5} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {80,6} [cy] stat :stative: [200654]
 "<sgrifennu>"
@@ -1069,7 +1030,7 @@
 "<a>"
 	"a" {85,1} [cy] conj :and: [203303]
 "<neb>"
-	"neb" {85,2} [cy] unk
+	"neb" {85,2} [cy] pron :anyone: [209316]
 "<yn>"
 	"yn" {85,3} [cy] stat :stative: [200654]
 "<ateb>"
@@ -1081,10 +1042,7 @@
 "<.>"
 
 "<na>"
-	"na" {87,1} [cy] conj :(n)or: [207110]
-	"na" {87,1} [cy] conj :than: [205467]
 	"na" {87,1} [cy] prt.neg :neg: [198802]
-	"da" {87,1} [cy] adj :good: [208568] + nm
 "<oedden>"
 	"bod" {87,2} [cy] v 3p imperf spoken :be: [172259]
 "<nhw>"
@@ -1106,13 +1064,15 @@
 "<mam>"
 	"mam" {88,4} [cy] n f sg :mother: [203445]
 "<ynde>"
-	"ynde" {88,5} [cy] unk
+	"bod" {88,5} [cy] im :isn''t_it: [209358]
 "<.>"
 
 "<ateb>"
+	"ateb" {89,1} [cy] n m sg :answer: [208767]
 	"ateb" {89,1} [cy] v 3s pres :answer: [57323]
+	"ateb" {89,1} [cy] v infin :answer: [203184]
 "<fi>"
-	"fi" {89,2} [cy] pron 1s :I: [201450]
+	"mi" {89,2} [cy] prt.aff :aff: [200111] + sm
 "<oedd>"
 	"bod" {89,3} [cy] v 3s imperf :be: [74724]
 "<yn>"
@@ -1123,7 +1083,7 @@
 "<i>"
 	"i" {89,6} [cy] prep :to: [202346]
 "<fi>"
-	"mi" {89,7} [cy] prt.aff :aff: [200111] + sm
+	"fi" {89,7} [cy] pron 1s :I: [201450]
 "<.>"
 
 "<oedd>"
@@ -1143,22 +1103,21 @@
 "<cael>"
 	"cael" {91,1} [cy] v infin :have: [204498]
 "<atebiad>"
-	"atebiad" {91,2} [cy] unk
+	"ateb" {91,2} [cy] n m sg :reply: [209275]
 "<.>"
 
 "<dyna>"
 	"dyna" {92,1} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {92,2} [cy] pron m 3s :he: [196922]
-	"mo" {92,2} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<a>"
 	"a" {93,1} [cy] conj :and: [203303]
 "<dw>"
-	"dw" {93,2} [cy] unk
+	"bod" {93,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {93,3} [cy] prep :to: [202346]
+	"fi" {93,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {93,4} [cy] stat :stative: [200654]
 "<cofio>"
@@ -1176,7 +1135,7 @@
 "<er>"
 	"er" {94,5} [0] er
 "<wyres>"
-	"wyres" {94,6} [cy] unk
+	"ŵyr" {94,6} [cy] n f sg :granddaughter: [209296]
 "<oedd>"
 	"bod" {94,7} [cy] v 3s imperf :be: [74724]
 "<yn>"
@@ -1188,9 +1147,9 @@
 "<?>"
 
 "<dw>"
-	"dw" {95,1} [cy] unk
+	"bod" {95,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {95,2} [cy] prep :to: [202346]
+	"fi" {95,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {95,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -1214,7 +1173,7 @@
 "<.>"
 
 "<dw>"
-	"dw" {97,1} [cy] unk
+	"bod" {97,1} [cy] v 1s pres spoken :be: [209292]
 "<ddim>"
 	"dim" {97,2} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -1237,11 +1196,10 @@
 	"er" {99,2} [0] er
 "<beth>"
 	"beth" {99,3} [cy] int :what: [208850]
-	"peth" {99,3} [cy] n m sg :thing: [197439] + sm
 "<bynnag>"
 	"bynnag" {99,4} [cy] adj :-ever: [208651]
 "<aethon>"
-	"aethon" {99,5} [cy] unk
+	"mynd" {99,5} [cy] v 3p past spoken :go: [209272]
 "<ni>"
 	"ni" {99,6} [cy] pron 1p :we: [207621]
 "<at>"
@@ -1253,9 +1211,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {100,1} [cy] unk
+	"bod" {100,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {100,2} [cy] prep :to: [202346]
+	"fi" {100,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {100,3} [cy] stat :stative: [200654]
 "<cofio>"
@@ -1264,12 +1222,9 @@
 	"mi" {100,5} [cy] prt.aff :aff: [200111]
 "<ddychrynais>"
 	"dychryn" {100,6} [cy] v 1s past :frighten: [9221] + sm
-	"dychrynu" {100,6} [cy] v 1s past :frighten: [9222] + sm
 "<i>"
-	"i" {100,7} [cy] pron 1s :I: [204322]
+	"fi" {100,7} [cy] pron 1s :I: [204322]
 "<o>"
-	"fo" {100,8} [cy] pron m 3s spoken :he: [209264]
-	"o" {100,8} [cy] prep :from: [203721]
 	"o" {100,8} [cy] prep :of: [203019]
 "<yr>"
 	"y" {100,9} [cy] det.def :the: [208948]
@@ -1290,11 +1245,11 @@
 "<hynny>"
 	"hynny" {102,4} [cy] pron :that: [208539]
 "<dw>"
-	"dw" {102,5} [cy] unk
+	"bod" {102,5} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {102,6} [cy] prep :to: [202346]
+	"fi" {102,6} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {102,7} [cy] n m sg :nothing: [208789] + sm
+	"dim" {102,7} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {102,8} [cy] stat :stative: [200654]
 "<llawer>"
@@ -1308,9 +1263,8 @@
 "<.>"
 
 "<paid>"
-	"paid" {103,1} [cy] unk
+	"peidio" {103,1} [cy] v 2s imper :stop: [209329]
 "<â>"
-	"â" {103,2} [cy] conj :as: [197357]
 	"â" {103,2} [cy] prep :with: [208783]
 "<deud>"
 	"dweud" {103,3} [cy] v infin spoken :say: [209262]
@@ -1321,11 +1275,12 @@
 "<welais>"
 	"gweld" {104,2} [cy] v 1s past :see: [9641] + sm
 "<i>"
-	"i" {104,3} [cy] pron 1s :I: [204322]
+	"fi" {104,3} [cy] pron 1s :I: [204322]
 "<o>"
 	"fo" {104,4} [cy] pron m 3s spoken :he: [209264]
 	"o" {104,4} [cy] prep :from: [203721]
 	"o" {104,4} [cy] prep :of: [203019]
+	"go" {104,4} [cy] adv :rather: [209320] + sm
 "<mor>"
 	"mor" {104,5} [cy] adv :so: [202732]
 "<fawr>"
@@ -1335,7 +1290,7 @@
 "<enfawr>"
 	"enfawr" {104,8} [cy] adj :enormous: [207893]
 "<ynde>"
-	"ynde" {104,9} [cy] unk
+	"bod" {104,9} [cy] im :isn''t_it: [209358]
 "<fel>"
 	"fel" {104,10} [cy] conj :like: [208807]
 "<yna>"
@@ -1343,9 +1298,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {105,1} [cy] unk
+	"bod" {105,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {105,2} [cy] prep :to: [202346]
+	"fi" {105,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {105,3} [cy] stat :stative: [200654]
 "<licio>"
@@ -1367,24 +1322,23 @@
 "<ond>"
 	"ond" {105,12} [cy] conj :but: [201902]
 "<dim>"
-	"dim" {105,13} [cy] n m sg :nothing: [208789]
 	"dim" {105,13} [cy] adv :not: [204176]
 "<mwy>"
-	"mwy" {105,14} [cy] adj :bigger: [201716]
+	"mawr" {105,14} [cy] adj.comp :bigger: [201716]
 "<.>"
 
 "<ia>"
-	"ia" {106,1} [cy] unk
+	"ia" {106,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<wnes>"
 	"gwneud" {107,1} [cy] v 1s past spoken :do: [9677] + sm
 "<i>"
-	"i" {107,2} [cy] pron 1s :I: [204322]
+	"fi" {107,2} [cy] pron 1s :I: [204322]
 "<.>"
 
 "<buest>"
-	"buest" {108,1} [cy] unk
+	"bod" {108,1} [cy] v 2s past :be: [209271]
 "<ti>"
 	"ti" {108,2} [cy] pron 2s :you: [208649]
 "<yn>"
@@ -1396,13 +1350,13 @@
 "<?>"
 
 "<do>"
-	"toi" {109,1} [cy] v 2s imper :roof: [37620] + sm
+	"do" {109,1} [cy] adv past :yes: [209369]
 "<mi>"
 	"mi" {109,2} [cy] prt.aff :aff: [200111]
 "<fues>"
-	"fues" {109,3} [cy] unk
+	"bod" {109,3} [cy] v 2s past spoken :be: [209300] + sm
 "<i>"
-	"i" {109,4} [cy] prep :to: [202346]
+	"fi" {109,4} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {109,5} [cy] prep :in: [204430]
 "<Mar_del_Plata>"
@@ -1428,8 +1382,6 @@
 "<sgwâr>"
 	"sgwâr" {110,9} [cy] n m sg :square: [207114]
 "<o>"
-	"fo" {110,10} [cy] pron m 3s spoken :he: [209264]
-	"o" {110,10} [cy] prep :from: [203721]
 	"o" {110,10} [cy] prep :of: [203019]
 "<yr>"
 	"y" {110,11} [cy] det.def :the: [208948]
@@ -1449,7 +1401,6 @@
 	"dyna" {112,3} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {112,4} [cy] pron m 3s :he: [196922]
-	"mo" {112,4} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<llawer>"
@@ -1457,9 +1408,7 @@
 "<iawn>"
 	"iawn" {113,2} [cy] adv :very: [203775]
 "<o>"
-	"fo" {113,3} [cy] pron m 3s spoken :he: [209264]
 	"o" {113,3} [cy] prep :from: [203721]
-	"o" {113,3} [cy] prep :of: [203019]
 "<bobl>"
 	"pobl" {113,4} [cy] n f sg :people: [201279] + sm
 "<.>"
@@ -1483,7 +1432,6 @@
 "<.>"
 
 "<yn>"
-	"yn" {116,1} [cy] stat :stative: [200654]
 	"yn" {116,1} [cy] prep :in: [204430]
 "<er>"
 	"er" {116,2} [0] er
@@ -1498,9 +1446,9 @@
 "<Bahia_Blanca>"
 	"Bahia_Blanca" {116,7} [0] name
 "<fues>"
-	"fues" {116,8} [cy] unk
+	"bod" {116,8} [cy] v 2s past spoken :be: [209300] + sm
 "<i>"
-	"i" {116,9} [cy] prep :to: [202346]
+	"fi" {116,9} [cy] pron 1s :I: [204322]
 "<eleni>"
 	"eleni" {116,10} [cy] adv :this year: [201354]
 "<.>"
@@ -1512,7 +1460,7 @@
 "<oh>"
 	"oh" {118,1} [0] oh
 "<fuest>"
-	"fuest" {118,2} [cy] unk
+	"bod" {118,2} [cy] v 2s past :be: [209271] + sm
 "<ti>"
 	"ti" {118,3} [cy] pron 2s :you: [208649]
 "<eleni>"
@@ -1530,7 +1478,6 @@
 "<yr>"
 	"y" {119,5} [cy] det.def :the: [208948]
 "<gŵr>"
-	"gŵr" {119,6} [cy] n m sg :husband: [209215]
 	"gŵr" {119,6} [cy] n m sg :man: [208153]
 "<a>"
 	"a" {119,7} [cy] conj :and: [203303]
@@ -1546,13 +1493,12 @@
 	"oh" {120,1} [0] oh
 "<da>"
 	"da" {120,2} [cy] adj :good: [208568]
-	"ta" {120,2} [cy] conj :or: [202096] + sm
 "<iawn>"
 	"iawn" {120,3} [cy] adv :very: [203775]
 "<.>"
 
 "<do>"
-	"toi" {121,1} [cy] v 2s imper :roof: [37620] + sm
+	"do" {121,1} [cy] adv past :yes: [209369]
 "<.>"
 
 "<neis>"
@@ -1578,7 +1524,7 @@
 "<yr>"
 	"y" {124,3} [cy] det.def :the: [208948]
 "<un>"
-	"un" {124,4} [cy] adj :one: [202310]
+	"un" {124,4} [cy] num :one: [202310]
 "<fach>"
 	"bach" {124,5} [cy] adj :small: [208881] + sm
 "<rhy>"
@@ -1588,7 +1534,7 @@
 "<i>"
 	"i" {124,8} [cy] prep :to: [202346]
 "<feddwl>"
-	"meddwl" {124,9} [cy] v infin :think: [205499] + sm
+	"meddwl" {124,9} [cy] n m sg :thought: [207395] + sm
 "<ond>"
 	"ond" {124,10} [cy] conj :but: [201902]
 "<.>"
@@ -1632,13 +1578,13 @@
 "<.>"
 
 "<tro>"
-	"troi" {127,1} [cy] v 2s imper :turn: [29955]
+	"tro" {127,1} [cy] n m sg :turn: [199168]
 "<cynta>"
-	"cynta" {127,2} [cy] adj :first: [205567]
+	"cynta" {127,2} [cy] ord :first: [205567]
 "<es>"
-	"es" {127,3} [cy] unk
+	"mynd" {127,3} [cy] v 1s past spoken :go: [209304]
 "<i>"
-	"i" {127,4} [cy] prep :to: [202346]
+	"fi" {127,4} [cy] pron 1s :I: [204322]
 "<i>"
 	"i" {127,5} [cy] prep :to: [202346]
 "<yr>"
@@ -1648,13 +1594,11 @@
 "<oeddwn>"
 	"bod" {127,8} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {127,9} [cy] pron 1s :I: [204322]
+	"fi" {127,9} [cy] pron 1s :I: [204322]
 "<tua>"
 	"tua" {127,10} [cy] prep :towards: [208734]
-	"tua" {127,10} [cy] prep :about: [203864]
-	"tua" {127,10} [cy] prep :approximately: [201695]
 "<saith>"
-	"saith" {127,11} [cy] adj :seven: [205262]
+	"saith" {127,11} [cy] num :seven: [205262]
 "<oed>"
 	"oed" {127,12} [cy] n m sg :age: [199067]
 "<.>"
@@ -1666,7 +1610,7 @@
 "<y>"
 	"y" {128,2} [cy] det.def :the: [204199]
 "<paith>"
-	"paith" {128,3} [cy] unk
+	"paith" {128,3} [cy] n m sg :prairie: [209330]
 "<mewn>"
 	"mewn" {128,4} [cy] prep :in: [203894]
 "<motor>"
@@ -1686,7 +1630,7 @@
 "<teulu>"
 	"teulu" {129,4} [cy] n m sg :family: [207129]
 "<dada>"
-	"dada" {129,5} [cy] unk
+	"tad" {129,5} [cy] n m sg :Daddy: [209284]
 "<yn>"
 	"yn" {129,6} [cy] prep :in: [204430]
 "<y>"
@@ -1699,7 +1643,7 @@
 "<mi>"
 	"mi" {130,3} [cy] prt.aff :aff: [200111]
 "<gaethon>"
-	"gaethon" {130,4} [cy] unk
+	"cael" {130,4} [cy] v 1p past spoken :get: [209362] + sm
 "<ni>"
 	"ni" {130,5} [cy] pron 1p :we: [207621]
 "<fynd>"
@@ -1707,7 +1651,7 @@
 "<ar>"
 	"ar" {130,7} [cy] prep :on: [204320]
 "<lan>"
-	"lan" {130,8} [cy] unk
+	"glan" {130,8} [cy] n f sg :shore: [202706] + sm
 "<y>"
 	"y" {130,9} [cy] det.def :the: [204199]
 "<môr>"
@@ -1757,7 +1701,7 @@
 "<mi>"
 	"mi" {135,3} [cy] prt.aff :aff: [200111]
 "<gaethon>"
-	"gaethon" {135,4} [cy] unk
+	"cael" {135,4} [cy] v 1p past spoken :get: [209362] + sm
 "<ni>"
 	"ni" {135,5} [cy] pron 1p :we: [207621]
 "<sefyll>"
@@ -1789,11 +1733,10 @@
 "<oedd>"
 	"bod" {138,2} [cy] v 3s imperf :be: [74724]
 "<e>"
-	"e" {138,3} [cy] unk
+	"fo" {138,3} [cy] pron m 3s spoken :he: [209295]
 "<Madryn>"
 	"Madryn" {138,4} [0] name
 "<dywed>"
-	"dywedyd" {138,5} [cy] v 2s imper :say: [35985]
 	"dweud" {138,5} [cy] v 2s imper :say: [35986]
 "<?>"
 
@@ -1822,14 +1765,11 @@
 "<ryw>"
 	"rhyw" {141,2} [cy] adj :some: [202560] + sm
 "<bump>"
-	"pump" {141,3} [cy] adj :five: [206769] + sm
+	"pump" {141,3} [cy] num :five: [206769] + sm
 "<.>"
 
 "<na>"
-	"na" {142,1} [cy] conj :(n)or: [207110]
-	"na" {142,1} [cy] conj :than: [205467]
 	"na" {142,1} [cy] prt.neg :neg: [198802]
-	"da" {142,1} [cy] adj :good: [208568] + nm
 "<oedden>"
 	"bod" {142,2} [cy] v 3p imperf spoken :be: [172259]
 "<ni>"
@@ -1857,7 +1797,7 @@
 "<mi>"
 	"mi" {144,1} [cy] prt.aff :aff: [200111]
 "<aethon>"
-	"aethon" {144,2} [cy] unk
+	"mynd" {144,2} [cy] v 3p past spoken :go: [209272]
 "<ni>"
 	"ni" {144,3} [cy] pron 1p :we: [207621]
 "<i>"
@@ -1873,7 +1813,7 @@
 "<mi>"
 	"mi" {144,9} [cy] prt.aff :aff: [200111]
 "<aethon>"
-	"aethon" {144,10} [cy] unk
+	"mynd" {144,10} [cy] v 3p past spoken :go: [209272]
 "<ni>"
 	"ni" {144,11} [cy] pron 1p :we: [207621]
 "<Madryn>"
@@ -1885,7 +1825,7 @@
 "<pan>"
 	"pan" {145,2} [cy] conj :when: [207933]
 "<aethon>"
-	"aethon" {145,3} [cy] unk
+	"mynd" {145,3} [cy] v 3p past spoken :go: [209272]
 "<ni>"
 	"ni" {145,4} [cy] pron 1p :we: [207621]
 "<i>"
@@ -1933,7 +1873,7 @@
 "<um>"
 	"um" {146,12} [0] um
 "<gwartheg>"
-	"gwarthegyn" {146,13} [cy] n m pl :cattle: [205428]
+	"gwartheg" {146,13} [cy] n m pl :cattle: [205428]
 "<yn>"
 	"yn" {146,14} [cy] stat :stative: [200654]
 	"yn" {146,14} [cy] prep :in: [204430]
@@ -1962,13 +1902,13 @@
 "<be>"
 	"be" {150,2} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {150,3} [cy] unk
+	"bod" {150,3} [cy] v 3s pres :be: [209338]
 "<hwn>"
 	"hwn" {150,4} [cy] adj :this: [196760]
 "<?>"
 
 "<iachawdwriaeth>"
-	"iachawdwriaeth" {151,1} [cy] unk
+	"iachawdwriaeth" {151,1} [cy] n f sg :salvation: [209305]
 "<!>"
 
 "<a>"
@@ -1981,24 +1921,18 @@
 	"llong" {152,4} [cy] n f sg :ship: [197167]
 "<yn>"
 	"yn" {152,5} [cy] stat :stative: [200654]
-	"yn" {152,5} [cy] prep :in: [204430]
 "<o_fewn>"
-	"o_fewn" {152,6} [cy] unk
+	"o_fewn" {152,6} [cy] adv :inside: [209327]
 "<i>"
 	"i" {152,7} [cy] prep :to: [202346]
 "<yr>"
 	"y" {152,8} [cy] det.def :the: [208948]
 "<porth>"
-	"porth" {152,9} [cy] n m sg :gateway: [203823]
-	"porth" {152,9} [cy] n mf sg :harbour: [199997]
 	"porth" {152,9} [cy] n m sg :port: [197385]
 "<.>"
 
 "<na>"
-	"na" {153,1} [cy] conj :(n)or: [207110]
-	"na" {153,1} [cy] conj :than: [205467]
 	"na" {153,1} [cy] prt.neg :neg: [198802]
-	"da" {153,1} [cy] adj :good: [208568] + nm
 "<!>"
 
 "<a>"
@@ -2014,7 +1948,7 @@
 "<er>"
 	"er" {154,6} [0] er
 "<dada>"
-	"dada" {154,7} [cy] unk
+	"tad" {154,7} [cy] n m sg :Daddy: [209284]
 "<yn>"
 	"yn" {154,8} [cy] stat :stative: [200654]
 "<wneud>"
@@ -2048,7 +1982,7 @@
 "<goleuadau>"
 	"goleuad" {157,3} [cy] n m pl :lights: [201019]
 "<i_gyd>"
-	"i_gyd" {157,4} [cy] unk
+	"i_gyd" {157,4} [cy] adv :all: [209310]
 "<ie>"
 	"ie" {157,5} [cy] adv :yes: [208464]
 "<?>"
@@ -2072,9 +2006,9 @@
 "<!>"
 
 "<wna>"
-	"gwneud" {160,1} [cy] v 2s imper :do: [36389] + sm
+	"gwneud" {160,1} [cy] v 13s pres :do: [59103] + sm
 "<i>"
-	"i" {160,2} [cy] pron 1s :I: [204322]
+	"fi" {160,2} [cy] pron 1s :I: [204322]
 "<byth>"
 	"byth" {160,3} [cy] adv :forever: [201281]
 "<anghofio>"
@@ -2082,13 +2016,13 @@
 "<.>"
 
 "<ia>"
-	"ia" {161,1} [cy] unk
+	"ia" {161,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<wna>"
-	"gwneud" {162,1} [cy] v 2s imper :do: [36389] + sm
+	"gwneud" {162,1} [cy] v 13s pres :do: [59103] + sm
 "<i>"
-	"i" {162,2} [cy] pron 1s :I: [204322]
+	"fi" {162,2} [cy] pron 1s :I: [204322]
 "<byth>"
 	"byth" {162,3} [cy] adv :forever: [201281]
 "<anghofio>"
@@ -2102,7 +2036,7 @@
 "<be>"
 	"be" {163,1} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {163,2} [cy] unk
+	"bod" {163,2} [cy] v 3s pres :be: [209338]
 "<bocina>"
 	"bocina" {163,3} [es] n f sg :horn: [17293]
 "<?>"
@@ -2114,22 +2048,17 @@
 "<be>"
 	"be" {165,1} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {165,2} [cy] unk
+	"bod" {165,2} [cy] v 3s pres :be: [209338]
 "<o>"
 	"fo" {165,3} [cy] pron m 3s spoken :he: [209264]
-	"o" {165,3} [cy] prep :from: [203721]
-	"o" {165,3} [cy] prep :of: [203019]
 "<?>"
 
 "<na>"
-	"na" {166,1} [cy] conj :(n)or: [207110]
-	"na" {166,1} [cy] conj :than: [205467]
 	"na" {166,1} [cy] prt.neg :neg: [198802]
-	"da" {166,1} [cy] adj :good: [208568] + nm
 "<dw>"
-	"dw" {166,2} [cy] unk
+	"bod" {166,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {166,3} [cy] prep :to: [202346]
+	"fi" {166,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {166,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -2139,12 +2068,11 @@
 "<be>"
 	"be" {166,7} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {166,8} [cy] unk
+	"bod" {166,8} [cy] v 3s pres :be: [209338]
 "<enw>"
 	"enw" {166,9} [cy] n m sg :name: [208678]
 "<fo>"
 	"fo" {166,10} [cy] pron m 3s :he: [196922]
-	"mo" {166,10} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<um>"
@@ -2170,19 +2098,19 @@
 "<hir>"
 	"hir" {167,11} [cy] adj :long: [202593]
 "<yn_dydy>"
-	"yn_dydy" {167,12} [cy] unk
+	"bod" {167,12} [cy] im :isn''t_it: [209343]
 "<?>"
 
 "<yndy>"
-	"yndy" {168,1} [cy] unk
+	"bod" {168,1} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<ie>"
 	"ie" {169,1} [cy] adv :yes: [208464]
 "<dw>"
-	"dw" {169,2} [cy] unk
+	"bod" {169,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {169,3} [cy] prep :to: [202346]
+	"fi" {169,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {169,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -2192,12 +2120,11 @@
 "<be>"
 	"be" {169,7} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {169,8} [cy] unk
+	"bod" {169,8} [cy] v 3s pres :be: [209338]
 "<enw>"
 	"enw" {169,9} [cy] n m sg :name: [208678]
 "<fo>"
 	"fo" {169,10} [cy] pron m 3s :he: [196922]
-	"mo" {169,10} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<um>"
@@ -2225,7 +2152,7 @@
 "<y>"
 	"y" {172,7} [cy] det.def :the: [204199]
 "<lan>"
-	"lan" {172,8} [cy] unk
+	"glan" {172,8} [cy] n f sg :shore: [202706] + sm
 "<?>"
 
 "<at>"
@@ -2253,7 +2180,7 @@
 "<digon>"
 	"digon" {176,3} [cy] n m sg :enough: [204316]
 "<dyfn>"
-	"dyfn" {176,4} [cy] unk
+	"dwfn" {176,4} [cy] adj nstan :deep: [209294]
 "<?>"
 
 "<ie>"
@@ -2265,9 +2192,8 @@
 "<oedd>"
 	"bod" {177,4} [cy] v 3s imperf :be: [74724]
 "<e>"
-	"e" {177,5} [cy] unk
+	"fo" {177,5} [cy] pron m 3s spoken :he: [209295]
 "<ddim>"
-	"dim" {177,6} [cy] n m sg :nothing: [208789] + sm
 	"dim" {177,6} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {177,7} [cy] stat :stative: [200654]
@@ -2302,7 +2228,7 @@
 "<oeddwn>"
 	"bod" {181,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {181,2} [cy] pron 1s :I: [204322]
+	"fi" {181,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {181,3} [cy] stat :stative: [200654]
 "<gweld>"
@@ -2341,7 +2267,7 @@
 "<tŷ>"
 	"tŷ" {183,7} [cy] n m sg :house: [209038]
 "<modryb>"
-	"modryb" {183,8} [cy] unk
+	"modryb" {183,8} [cy] n f sg :aunt: [209312]
 "<Christa>"
 	"Christa" {183,9} [0] name
 "<.>"
@@ -2351,9 +2277,9 @@
 "<wnes>"
 	"gwneud" {184,2} [cy] v 1s past spoken :do: [9677] + sm
 "<i>"
-	"i" {184,3} [cy] pron 1s :I: [204322]
+	"fi" {184,3} [cy] pron 1s :I: [204322]
 "<nabod>"
-	"nabod" {184,4} [cy] unk
+	"adnabod" {184,4} [cy] v infin :know: [209314]
 "<hi>"
 	"hi" {184,5} [cy] pron f 3s :she: [203039]
 "<pan>"
@@ -2361,9 +2287,9 @@
 "<oeddwn>"
 	"bod" {184,7} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {184,8} [cy] pron 1s :I: [204322]
+	"fi" {184,8} [cy] pron 1s :I: [204322]
 "<pymtheg>"
-	"pymtheg" {184,9} [cy] adj :fifteen: [204126]
+	"pymtheg" {184,9} [cy] num :fifteen: [204126]
 "<oed>"
 	"oed" {184,10} [cy] n m sg :age: [199067]
 "<.>"
@@ -2393,18 +2319,17 @@
 "<um>"
 	"um" {186,2} [0] um
 "<fan>"
-	"fan" {186,3} [cy] n f sg :van: [201889]
 	"man" {186,3} [cy] n mf sg :place: [208816] + sm
 "<yna>"
 	"yna" {186,4} [cy] adv :there: [208848]
 "<wnes>"
 	"gwneud" {186,5} [cy] v 1s past spoken :do: [9677] + sm
 "<i>"
-	"i" {186,6} [cy] pron 1s :I: [204322]
+	"fi" {186,6} [cy] pron 1s :I: [204322]
 "<nabod>"
-	"nabod" {186,7} [cy] unk
+	"adnabod" {186,7} [cy] v infin :know: [209314]
 "<modryb>"
-	"modryb" {186,8} [cy] unk
+	"modryb" {186,8} [cy] n f sg :aunt: [209312]
 "<Christa>"
 	"Christa" {186,9} [0] name
 "<oedd>"
@@ -2425,7 +2350,7 @@
 "<ie>"
 	"ie" {187,1} [cy] adv :yes: [208464]
 "<ia>"
-	"ia" {187,2} [cy] unk
+	"ia" {187,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<ac>"
@@ -2435,10 +2360,9 @@
 "<y>"
 	"y" {188,3} [cy] det.def :the: [204199]
 "<dau>"
-	"dau" {188,4} [cy] adj :two: [206623]
+	"dau" {188,4} [cy] num m :two: [206623]
 "<yn>"
 	"yn" {188,5} [cy] stat :stative: [200654]
-	"yn" {188,5} [cy] prep :in: [204430]
 "<digon>"
 	"digon" {188,6} [cy] n m sg :enough: [204316]
 "<debyg>"
@@ -2452,7 +2376,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {189,1} [cy] unk
+	"ia" {189,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<er>"
@@ -2460,7 +2384,7 @@
 "<dim>"
 	"dim" {190,2} [cy] adv :not: [204176]
 "<siarad>"
-	"siarad" {190,3} [cy] v 2s imper :talk: [37407]
+	"siarad" {190,3} [cy] v infin :talk: [204733]
 "<llawer>"
 	"llawer" {190,4} [cy] adj :many: [206927]
 "<.>"
@@ -2478,7 +2402,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {193,1} [cy] unk
+	"ia" {193,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<popeth>"
@@ -2494,11 +2418,11 @@
 "<.>"
 
 "<ia>"
-	"ia" {195,1} [cy] unk
+	"ia" {195,1} [cy] adv :yes: [209325]
 "<piti>"
 	"piti" {195,2} [cy] unk
 "<wnaethon>"
-	"wnaethon" {195,3} [cy] unk
+	"gwneud" {195,3} [cy] v 3p past spoken :do: [209352] + sm
 "<ni>"
 	"ni" {195,4} [cy] pron 1p :we: [207621]
 "<wedi>"
@@ -2506,7 +2430,7 @@
 "<cael>"
 	"cael" {195,6} [cy] v infin :have: [204498]
 "<nabod>"
-	"nabod" {195,7} [cy] unk
+	"adnabod" {195,7} [cy] v infin :know: [209314]
 "<hi>"
 	"hi" {195,8} [cy] pron f 3s :she: [203039]
 "<.>"
@@ -2516,9 +2440,7 @@
 "<a>"
 	"a" {196,2} [cy] conj :and: [203303]
 "<o>"
-	"fo" {196,3} [cy] pron m 3s spoken :he: [209264]
 	"o" {196,3} [cy] prep :from: [203721]
-	"o" {196,3} [cy] prep :of: [203019]
 "<fan>"
 	"man" {196,4} [cy] n mf sg :place: [208816] + sm
 "<yna>"
@@ -2536,19 +2458,19 @@
 "<i>"
 	"i" {196,11} [cy] prep :to: [202346]
 "<fi>"
-	"mi" {196,12} [cy] prt.aff :aff: [200111] + sm
+	"fi" {196,12} [cy] pron 1s :I: [201450]
 "<ynde>"
-	"ynde" {196,13} [cy] unk
+	"bod" {196,13} [cy] im :isn''t_it: [209358]
 "<.>"
 
 "<ah>"
 	"ah" {197,1} [0] ah
 "<ia>"
-	"ia" {197,2} [cy] unk
+	"ia" {197,2} [cy] adv :yes: [209325]
 "<?>"
 
 "<ia>"
-	"ia" {198,1} [cy] unk
+	"ia" {198,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<Christina>"
@@ -2558,7 +2480,7 @@
 "<hi>"
 	"hi" {199,3} [cy] pron f 3s :she: [203039]
 "<ynde>"
-	"ynde" {199,4} [cy] unk
+	"bod" {199,4} [cy] im :isn''t_it: [209358]
 "<Christa>"
 	"Christa" {199,5} [0] name
 "<.>"
@@ -2568,7 +2490,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {201,1} [cy] unk
+	"ia" {201,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ah>"
@@ -2586,7 +2508,7 @@
 "<yr>"
 	"y" {204,3} [cy] det.def :the: [208948]
 "<un>"
-	"un" {204,4} [cy] adj :one: [202310]
+	"un" {204,4} [cy] num :one: [202310]
 "<ferch>"
 	"merch" {204,5} [cy] n f sg :daughter: [203821] + sm
 "<wyt>"
@@ -2598,7 +2520,7 @@
 "<y>"
 	"y" {205,1} [cy] det.def :the: [204199]
 "<chweched>"
-	"chweched" {205,2} [cy] adj :sixth: [196785]
+	"chweched" {205,2} [cy] ord :sixth: [196785]
 "<neu>"
 	"neu" {205,3} [cy] conj :or: [203322]
 "<yr>"
@@ -2608,7 +2530,7 @@
 "<y>"
 	"y" {206,1} [cy] det.def :the: [204199]
 "<chweched>"
-	"chweched" {206,2} [cy] adj :sixth: [196785]
+	"chweched" {206,2} [cy] ord :sixth: [196785]
 "<ferch>"
 	"merch" {206,3} [cy] n f sg :daughter: [203821] + sm
 "<ond>"
@@ -2618,23 +2540,21 @@
 "<er>"
 	"er" {206,6} [0] er
 "<seithfed>"
-	"seithfed" {206,7} [cy] adj :seventh: [204291]
+	"seithfed" {206,7} [cy] ord :seventh: [204291]
 "<um>"
 	"um" {206,8} [0] um
 "<o>"
-	"fo" {206,9} [cy] pron m 3s spoken :he: [209264]
 	"o" {206,9} [cy] prep :from: [203721]
-	"o" {206,9} [cy] prep :of: [203019]
 "<blant>"
 	"plentyn" {206,10} [cy] n m pl :children: [202234] + sm
 "<yndy>"
-	"yndy" {206,11} [cy] unk
+	"bod" {206,11} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<ia>"
-	"ia" {207,1} [cy] unk
+	"ia" {207,1} [cy] adv :yes: [209325]
 "<seithfed>"
-	"seithfed" {207,2} [cy] adj :seventh: [204291]
+	"seithfed" {207,2} [cy] ord :seventh: [204291]
 "<wyt>"
 	"bod" {207,3} [cy] v 2s pres :be: [33956]
 "<ti>"
@@ -2646,9 +2566,8 @@
 "<yna>"
 	"yna" {208,2} [cy] adv :there: [208848]
 "<saith>"
-	"saith" {208,3} [cy] adj :seven: [205262]
+	"saith" {208,3} [cy] num :seven: [205262]
 "<cyn>"
-	"cyn" {208,4} [cy] adj :as: [200712]
 	"cyn" {208,4} [cy] prep :before: [202058]
 "<fi>"
 	"fi" {208,5} [cy] pron 1s :I: [201450]
@@ -2658,7 +2577,6 @@
 	"dyna" {209,1} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {209,2} [cy] pron m 3s :he: [196922]
-	"mo" {209,2} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<fel>"
@@ -2674,7 +2592,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {211,1} [cy] unk
+	"ia" {211,1} [cy] adv :yes: [209325]
 "<?>"
 
 "<oedd>"
@@ -2684,11 +2602,11 @@
 "<y>"
 	"y" {212,3} [cy] det.def :the: [204199]
 "<seithfed>"
-	"seithfed" {212,4} [cy] adj :seventh: [204291]
+	"seithfed" {212,4} [cy] ord :seventh: [204291]
 "<.>"
 
 "<ia>"
-	"ia" {213,1} [cy] unk
+	"ia" {213,1} [cy] adv :yes: [209325]
 "<?>"
 
 "<a>"
@@ -2700,7 +2618,7 @@
 "<yna>"
 	"yna" {214,4} [cy] adv :there: [208848]
 "<saith>"
-	"saith" {214,5} [cy] adj :seven: [205262]
+	"saith" {214,5} [cy] num :seven: [205262]
 "<wedyn>"
 	"wedyn" {214,6} [cy] adv :afterwards: [209122]
 "<erioed>"
@@ -2720,11 +2638,11 @@
 "<.>"
 
 "<ia>"
-	"ia" {218,1} [cy] unk
+	"ia" {218,1} [cy] adv :yes: [209325]
 "<dw>"
-	"dw" {218,2} [cy] unk
+	"bod" {218,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {218,3} [cy] prep :to: [202346]
+	"fi" {218,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {218,4} [cy] stat :stative: [200654]
 "<cofio>"
@@ -2754,7 +2672,7 @@
 "<.>"
 
 "<dw>"
-	"dw" {219,1} [cy] unk
+	"bod" {219,1} [cy] v 1s pres spoken :be: [209292]
 "<ddim>"
 	"dim" {219,2} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -2790,13 +2708,12 @@
 "<yr>"
 	"y" {220,2} [cy] det.def :the: [208948]
 "<ddynes>"
-	"ddynes" {220,3} [cy] unk
+	"dyn" {220,3} [cy] n f sg :woman: [209298] + sm
 "<yn>"
 	"yn" {220,4} [cy] stat :stative: [200654]
 "<dod>"
 	"dod" {220,5} [cy] v infin :come: [203977]
 "<â>"
-	"â" {220,6} [cy] conj :as: [197357]
 	"â" {220,6} [cy] prep :with: [208783]
 "<um>"
 	"um" {220,7} [0] um
@@ -2809,7 +2726,7 @@
 "<teulu>"
 	"teulu" {220,11} [cy] n m sg :family: [207129]
 "<i_gyd>"
-	"i_gyd" {220,12} [cy] unk
+	"i_gyd" {220,12} [cy] adv :all: [209310]
 "<Griffiths>"
 	"Griffiths" {220,13} [0] name
 "<i>"
@@ -2831,15 +2748,14 @@
 "<efo>"
 	"efo" {221,5} [cy] prep :with: [207906]
 "<dada>"
-	"dada" {221,6} [cy] unk
+	"tad" {221,6} [cy] n m sg :Daddy: [209284]
 "<adre>"
-	"adre" {221,7} [cy] adv :homewards: [201958]
+	"adre" {221,7} [cy] adv :home: [201958]
 "<!>"
 
 "<paid>"
-	"paid" {222,1} [cy] unk
+	"peidio" {222,1} [cy] v 2s imper :stop: [209329]
 "<â>"
-	"â" {222,2} [cy] conj :as: [197357]
 	"â" {222,2} [cy] prep :with: [208783]
 "<deud>"
 	"dweud" {222,3} [cy] v infin spoken :say: [209262]
@@ -2857,7 +2773,7 @@
 	"ei" {223,5} [cy] adj :his: [206479]
 	"ei" {223,5} [cy] adj :her: [202228]
 "<tynnu>"
-	"tynnu" {223,6} [cy] v infin :drag: [207100]
+	"tynnu" {223,6} [cy] v infin :take: [205062]
 "<yn>"
 	"yn" {223,7} [cy] prep :in: [204430]
 "<Bryn>"
@@ -2867,9 +2783,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {224,1} [cy] unk
+	"bod" {224,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {224,2} [cy] prep :to: [202346]
+	"fi" {224,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {224,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -2883,7 +2799,7 @@
 "<gael>"
 	"cael" {224,8} [cy] v infin :have: [204498] + sm
 "<dynnu>"
-	"tynnu" {224,9} [cy] v infin :drag: [207100] + sm
+	"tynnu" {224,9} [cy] v infin :take: [205062] + sm
 "<.>"
 
 "<oedden>"
@@ -2891,11 +2807,11 @@
 "<nhw>"
 	"nhw" {225,2} [cy] pron 3p :they: [207491]
 "<i_gyd>"
-	"i_gyd" {225,3} [cy] unk
+	"i_gyd" {225,3} [cy] adv :all: [209310]
 "<yna>"
 	"yna" {225,4} [cy] adv :there: [208848]
 "<modryb>"
-	"modryb" {225,5} [cy] unk
+	"modryb" {225,5} [cy] n f sg :aunt: [209312]
 "<Anwen>"
 	"Anwen" {225,6} [0] name
 "<er>"
@@ -2919,25 +2835,25 @@
 "<?>"
 
 "<ia>"
-	"ia" {228,1} [cy] unk
+	"ia" {228,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {229,1} [cy] unk
+	"ia" {229,1} [cy] adv :yes: [209325]
 "<ar>"
 	"ar" {229,2} [cy] prep :on: [204320]
 "<glin>"
-	"glin" {229,3} [cy] unk
+	"glin" {229,3} [cy] n m sg :knee: [209319]
 "<nain>"
 	"nain" {229,4} [cy] n f sg :grandmother: [200033]
 "<ia>"
-	"ia" {229,5} [cy] unk
+	"ia" {229,5} [cy] adv :yes: [209325]
 "<?>"
 
 "<ar>"
 	"ar" {230,1} [cy] prep :on: [204320]
 "<glin>"
-	"glin" {230,2} [cy] unk
+	"glin" {230,2} [cy] n m sg :knee: [209319]
 "<nain>"
 	"nain" {230,3} [cy] n f sg :grandmother: [200033]
 "<neu>"
@@ -2945,7 +2861,7 @@
 "<ar>"
 	"ar" {230,5} [cy] prep :on: [204320]
 "<glin>"
-	"glin" {230,6} [cy] unk
+	"glin" {230,6} [cy] n m sg :knee: [209319]
 "<taid>"
 	"taid" {230,7} [cy] n m sg :grandfather: [201333]
 "<?>"
@@ -2965,7 +2881,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {233,1} [cy] unk
+	"ia" {233,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<oh>"
@@ -2984,12 +2900,10 @@
 "<i>"
 	"i" {234,7} [cy] prep :to: [202346]
 "<mi>"
-	"mi" {234,8} [cy] prt.aff :aff: [200111]
+	"mi" {234,8} [cy] pron.obj 1s :me: [209376]
 "<cwrdd>"
-	"cwrdd" {234,9} [cy] n m sg :meeting: [204436]
 	"cwrdd" {234,9} [cy] v infin :meet: [209099]
 "<â>"
-	"â" {234,10} [cy] conj :as: [197357]
 	"â" {234,10} [cy] prep :with: [208783]
 "<ryw>"
 	"rhyw" {234,11} [cy] adj :some: [202560] + sm
@@ -2998,9 +2912,7 @@
 "<felly>"
 	"felly" {234,13} [cy] adv :so: [206323]
 "<de>"
-	"de" {234,14} [cy] n m sg :south: [206453]
-	"de" {234,14} [cy] n m sg :right: [204205]
-	"te" {234,14} [cy] n m sg :tea: [203481] + sm
+	"bod" {234,14} [cy] im :isn''t_it: [209375]
 "<.>"
 
 "<oeddet>"
@@ -3028,10 +2940,11 @@
 "<â>"
 	"â" {237,4} [cy] conj :as: [197357]
 	"â" {237,4} [cy] prep :with: [208783]
+	"mynd" {237,4} [cy] v 3s pres :go: [56973]
 "<ddo>"
-	"ddo" {237,5} [cy] unk
+	"fo" {237,5} [cy] pron m 3s pat :he: [209289]
 "<adre>"
-	"adre" {237,6} [cy] adv :homewards: [201958]
+	"adre" {237,6} [cy] adv :home: [201958]
 "<efo>"
 	"efo" {237,7} [cy] prep :with: [207906]
 "<ni>"
@@ -3053,7 +2966,7 @@
 "<oeddwn>"
 	"bod" {239,4} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {239,5} [cy] pron 1s :I: [204322]
+	"fi" {239,5} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {239,6} [cy] stat :stative: [200654]
 "<gwybod>"
@@ -3101,11 +3014,11 @@
 "<.>"
 
 "<ia>"
-	"ia" {244,1} [cy] unk
+	"ia" {244,1} [cy] adv :yes: [209325]
 "<a>"
 	"a" {244,2} [cy] conj :and: [203303]
 "<dwy>"
-	"dwy" {244,3} [cy] adj :two: [199604]
+	"dwy" {244,3} [cy] num f :two: [199604]
 "<chwaer>"
 	"chwaer" {244,4} [cy] n f sg :sister: [199547]
 "<oedd>"
@@ -3119,7 +3032,7 @@
 "<y>"
 	"y" {244,9} [cy] det.def :the: [204199]
 "<cartre>"
-	"cartre" {244,10} [cy] unk
+	"cartref" {244,10} [cy] n m sg :home: [209277]
 "<bach>"
 	"bach" {244,11} [cy] adj :small: [208881]
 "<yma>"
@@ -3129,15 +3042,13 @@
 "<perthyn>"
 	"perthyn" {244,14} [cy] v infin :belong: [197675]
 "<i>"
-	"i" {244,15} [cy] pron 1s :I: [204322]
+	"fi" {244,15} [cy] pron 1s :I: [204322]
 "<ni>"
 	"ni" {244,16} [cy] pron 1p :we: [207621]
 "<ynde>"
-	"ynde" {244,17} [cy] unk
+	"bod" {244,17} [cy] im :isn''t_it: [209358]
 "<o>"
-	"fo" {244,18} [cy] pron m 3s spoken :he: [209264]
 	"o" {244,18} [cy] prep :from: [203721]
-	"o" {244,18} [cy] prep :of: [203019]
 "<bell>"
 	"pell" {244,19} [cy] adj :far: [198317] + sm
 "<.>"
@@ -3153,7 +3064,7 @@
 "<oeddwn>"
 	"bod" {246,4} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {246,5} [cy] pron 1s :I: [204322]
+	"fi" {246,5} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {246,6} [cy] stat :stative: [200654]
 "<mynd>"
@@ -3167,11 +3078,10 @@
 "<.>"
 
 "<fues>"
-	"fues" {247,1} [cy] unk
+	"bod" {247,1} [cy] v 2s past spoken :be: [209300] + sm
 "<i>"
-	"i" {247,2} [cy] prep :to: [202346]
+	"fi" {247,2} [cy] pron 1s :I: [204322]
 "<yn>"
-	"yn" {247,3} [cy] stat :stative: [200654]
 	"yn" {247,3} [cy] prep :in: [204430]
 "<lle>"
 	"lle" {247,4} [cy] n m sg :place: [197527]
@@ -3182,7 +3092,7 @@
 "<er>"
 	"er" {247,7} [0] er
 "<o_gwmpas>"
-	"o_gwmpas" {247,8} [cy] unk
+	"o_gwmpas" {247,8} [cy] adv :around: [209328]
 "<er>"
 	"er" {247,9} [0] er
 "<Llanrwst>"
@@ -3222,7 +3132,7 @@
 "<nhw>"
 	"nhw" {250,4} [cy] pron 3p :they: [207491]
 "<cefnderwyr>"
-	"cefnderwyr" {250,5} [cy] unk
+	"cefnder" {250,5} [cy] n m pl nstan :cousin: [209278]
 "<i>"
 	"i" {250,6} [cy] prep :to: [202346]
 "<dy>"
@@ -3234,15 +3144,15 @@
 "<bellach>"
 	"pellach" {251,1} [cy] adj :farther: [205556] + sm
 "<dw>"
-	"dw" {251,2} [cy] unk
+	"bod" {251,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {251,3} [cy] prep :to: [202346]
+	"fi" {251,3} [cy] pron 1s :I: [204322]
 "<meddwl>"
 	"meddwl" {251,4} [cy] v infin :think: [205499]
 "<.>"
 
 "<ia>"
-	"ia" {252,1} [cy] unk
+	"ia" {252,1} [cy] adv :yes: [209325]
 "<?>"
 
 "<ie>"
@@ -3250,11 +3160,11 @@
 "<.>"
 
 "<dw>"
-	"dw" {254,1} [cy] unk
+	"bod" {254,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {254,2} [cy] prep :to: [202346]
+	"fi" {254,2} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {254,3} [cy] n m sg :nothing: [208789] + sm
+	"dim" {254,3} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {254,4} [cy] stat :stative: [200654]
 "<siŵr>"
@@ -3268,31 +3178,19 @@
 "<i>"
 	"i" {256,1} [cy] prep :to: [202346]
 "<dada>"
-	"dada" {256,2} [cy] unk
+	"tad" {256,2} [cy] n m sg :Daddy: [209284]
 "<?>"
 
 "<na>"
-	"na" {257,1} [cy] conj :(n)or: [207110]
-	"na" {257,1} [cy] conj :than: [205467]
 	"na" {257,1} [cy] prt.neg :neg: [198802]
-	"da" {257,1} [cy] adj :good: [208568] + nm
 "<wel>"
 	"wel" {257,2} [cy] unk
 "<na>"
-	"na" {257,3} [cy] conj :(n)or: [207110]
-	"na" {257,3} [cy] conj :than: [205467]
 	"na" {257,3} [cy] prt.neg :neg: [198802]
-	"da" {257,3} [cy] adj :good: [208568] + nm
 "<na>"
-	"na" {257,4} [cy] conj :(n)or: [207110]
-	"na" {257,4} [cy] conj :than: [205467]
 	"na" {257,4} [cy] prt.neg :neg: [198802]
-	"da" {257,4} [cy] adj :good: [208568] + nm
 "<na>"
-	"na" {257,5} [cy] conj :(n)or: [207110]
-	"na" {257,5} [cy] conj :than: [205467]
 	"na" {257,5} [cy] prt.neg :neg: [198802]
-	"da" {257,5} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<oedd>"
@@ -3300,7 +3198,6 @@
 "<o>"
 	"fo" {258,2} [cy] pron m 3s spoken :he: [209264]
 "<ddim>"
-	"dim" {258,3} [cy] n m sg :nothing: [208789] + sm
 	"dim" {258,3} [cy] adv :not: [204176] + sm
 "<debyg>"
 	"tebyg" {258,4} [cy] adj :similar: [208752] + sm
@@ -3321,9 +3218,9 @@
 "<a>"
 	"a" {259,7} [cy] conj :and: [203303]
 "<dau>"
-	"tewi" {259,8} [cy] v 3s pres archaic :keep: [60311] + sm
+	"dau" {259,8} [cy] num m :two: [206623]
 "<o>"
-	"fo" {259,9} [cy] pron m 3s spoken :he: [209264]
+	"o" {259,9} [cy] prep :of: [203019]
 "<blant>"
 	"plentyn" {259,10} [cy] n m pl :children: [202234] + sm
 "<efo>"
@@ -3357,7 +3254,7 @@
 "<oeddwn>"
 	"bod" {264,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {264,2} [cy] pron 1s :I: [204322]
+	"fi" {264,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {264,3} [cy] stat :stative: [200654]
 "<meddwl>"
@@ -3409,7 +3306,7 @@
 "<Don>"
 	"Don" {266,9} [0] name
 "<ia>"
-	"ia" {266,10} [cy] unk
+	"ia" {266,10} [cy] adv :yes: [209325]
 "<?>"
 
 "<Beuno>"
@@ -3419,7 +3316,7 @@
 "<ah>"
 	"ah" {268,1} [0] ah
 "<ia>"
-	"ia" {268,2} [cy] unk
+	"ia" {268,2} [cy] adv :yes: [209325]
 "<Haf>"
 	"Haf" {268,3} [0] name
 "<a>"
@@ -3435,11 +3332,11 @@
 "<mawr>"
 	"mawr" {269,3} [cy] adj :big: [203709]
 "<ia>"
-	"ia" {269,4} [cy] unk
+	"ia" {269,4} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {270,1} [cy] unk
+	"ia" {270,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<mae>"
@@ -3463,15 +3360,15 @@
 "<yma>"
 	"yma" {271,10} [cy] adv :here: [201408]
 "<ynde>"
-	"ynde" {271,11} [cy] unk
+	"bod" {271,11} [cy] im :isn''t_it: [209358]
 "<?>"
 
 "<claro>"
 	"claro" {272,1} [es] im :of_course: [133065]
 "<dw>"
-	"dw" {272,2} [cy] unk
+	"bod" {272,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {272,3} [cy] prep :to: [202346]
+	"fi" {272,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {272,4} [cy] stat :stative: [200654]
 "<cofio>"
@@ -3485,9 +3382,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {273,1} [cy] unk
+	"bod" {273,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {273,2} [cy] prep :to: [202346]
+	"fi" {273,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {273,3} [cy] stat :stative: [200654]
 "<mynd>"
@@ -3497,7 +3394,7 @@
 "<y>"
 	"y" {273,6} [cy] det.def :the: [204199]
 "<ffwrn>"
-	"ffwrn" {273,7} [cy] unk
+	"ffwrn" {273,7} [cy] n f sg :oven: [209299]
 "<i>"
 	"i" {273,8} [cy] prep :to: [202346]
 "<weld>"
@@ -3517,13 +3414,12 @@
 	"peth" {273,15} [cy] n m pl :things: [207868]
 "<yn>"
 	"yn" {273,16} [cy] stat :stative: [200654]
-	"yn" {273,16} [cy] prep :in: [204430]
 "<cwcio>"
-	"cwcio" {273,17} [cy] unk
+	"cwcio" {273,17} [cy] v infin :cook: [209279]
 "<.>"
 
 "<ia>"
-	"ia" {274,1} [cy] unk
+	"ia" {274,1} [cy] adv :yes: [209325]
 "<a>"
 	"a" {274,2} [cy] conj :and: [203303]
 "<be>"
@@ -3531,17 +3427,17 @@
 "<?>"
 
 "<ddo>"
-	"ddo" {275,1} [cy] unk
+	"do" {275,1} [cy] adv past :yes: [209369] + sm
 "<i>"
 	"i" {275,2} [cy] prep :to: [202346]
 "<yn_ôl>"
-	"yn_ôl" {275,3} [cy] unk
+	"ôl" {275,3} [cy] adv :back: [209344]
 "<.>"
 
 "<wna>"
-	"gwneud" {276,1} [cy] v 2s imper :do: [36389] + sm
+	"gwneud" {276,1} [cy] v 13s pres :do: [59103] + sm
 "<i>"
-	"i" {276,2} [cy] pron 1s :I: [204322]
+	"fi" {276,2} [cy] pron 1s :I: [204322]
 "<siarad>"
 	"siarad" {276,3} [cy] v infin :talk: [204733]
 "<yn>"
@@ -3555,14 +3451,14 @@
 "<?>"
 
 "<cario>"
+	"cario" {277,1} [cy] v 3s subj :carry: [80296]
 	"cario" {277,1} [cy] v infin :carry: [209060]
 "<ymlaen>"
-	"ymlaen" {277,2} [cy] adv :on: [205274]
 	"ymlaen" {277,2} [cy] adv :forward: [203504]
 "<os>"
 	"os" {277,3} [cy] conj :if: [196648]
 "<dach>"
-	"dach" {277,4} [cy] unk
+	"bod" {277,4} [cy] v 2p pres spoken :be: [209281]
 "<chi>"
 	"chi" {277,5} [cy] pron 2p :you: [205379]
 "<isio>"
@@ -3572,9 +3468,9 @@
 "<!>"
 
 "<dw>"
-	"dw" {279,1} [cy] unk
+	"bod" {279,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {279,2} [cy] prep :to: [202346]
+	"fi" {279,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {279,3} [cy] stat :stative: [200654]
 "<siarad>"
@@ -3586,14 +3482,13 @@
 "<hunan>"
 	"hunan" {279,7} [cy] pron :self: [197341]
 "<adre>"
-	"adre" {279,8} [cy] adv :homewards: [201958]
+	"adre" {279,8} [cy] adv :home: [201958]
 "<!>"
 
 "<basai>"
-	"basai" {280,1} [cy] unk
+	"bod" {280,1} [cy] v 3s pluperf spoken :be: [209297]
 "<fo>"
 	"fo" {280,2} [cy] pron m 3s :he: [196922]
-	"mo" {280,2} [cy] adv :not: [202814] + sm
 "<yn>"
 	"yn" {280,3} [cy] stat :stative: [200654]
 "<llosgi>"
@@ -3603,20 +3498,19 @@
 "<.>"
 
 "<ia>"
-	"ia" {282,1} [cy] unk
+	"ia" {282,1} [cy] adv :yes: [209325]
 "<dyna>"
 	"dyna" {282,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {282,3} [cy] pron m 3s :he: [196922]
-	"mo" {282,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<dw>"
-	"dw" {283,1} [cy] unk
+	"bod" {283,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {283,2} [cy] prep :to: [202346]
+	"fi" {283,2} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {283,3} [cy] n m sg :nothing: [208789] + sm
+	"dim" {283,3} [cy] adv :not: [204176] + sm
 "<wedi>"
 	"wedi" {283,4} [cy] prep :after: [207472]
 "<cysylltu>"
@@ -3628,9 +3522,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {284,1} [cy] unk
+	"bod" {284,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {284,2} [cy] prep :to: [202346]
+	"fi" {284,2} [cy] pron 1s :I: [204322]
 "<braidd>"
 	"braidd" {284,3} [cy] adv :rather: [200480]
 "<yn>"
@@ -3666,25 +3560,25 @@
 "<fach>"
 	"bach" {285,9} [cy] adj :small: [208881] + sm
 "<dw>"
-	"dw" {285,10} [cy] unk
+	"bod" {285,10} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {285,11} [cy] prep :to: [202346]
+	"fi" {285,11} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {285,12} [cy] stat :stative: [200654]
 "<defnyddio>"
 	"defnyddio" {285,13} [cy] v infin :use: [206694]
 "<i>"
-	"i" {285,14} [cy] pron 1s :I: [204322]
+	"fi" {285,14} [cy] pron 1s :I: [204322]
 "<anfon>"
 	"anfon" {285,15} [cy] v infin :send: [202240]
 "<iddyn>"
-	"iddyn" {285,16} [cy] unk
+	"i" {285,16} [cy] pron+prep 3p :to_them: [209306]
 "<nhw>"
 	"nhw" {285,17} [cy] pron 3p :they: [207491]
 "<.>"
 
 "<ia>"
-	"ia" {286,1} [cy] unk
+	"ia" {286,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<Home>"
@@ -3692,7 +3586,7 @@
 "<Mail>"
 	"Mail" {287,2} [0] name
 "<ydy>"
-	"ydy" {287,3} [cy] unk
+	"bod" {287,3} [cy] v 3s pres :be: [209338]
 "<ei>"
 	"ei" {287,4} [cy] adj :his: [206479]
 "<enw>"
@@ -3728,13 +3622,13 @@
 "<difetha>"
 	"difetha" {289,6} [cy] v infin :ruin: [199941]
 "<gen>"
-	"gen" {289,7} [cy] unk
+	"gan" {289,7} [cy] prep spoken :by: [209363]
 "<i>"
 	"i" {289,8} [cy] prep :to: [202346]
 "<diwrnod>"
 	"diwrnod" {289,9} [cy] n m sg :day: [200029]
 "<o_blaen>"
-	"o_blaen" {289,10} [cy] unk
+	"blaen" {289,10} [cy] adv :before: [209317]
 "<.>"
 
 "<.>"
@@ -3752,7 +3646,7 @@
 "<?>"
 
 "<ia>"
-	"ia" {293,1} [cy] unk
+	"ia" {293,1} [cy] adv :yes: [209325]
 "<ond>"
 	"ond" {293,2} [cy] conj :but: [201902]
 "<er>"
@@ -3766,7 +3660,7 @@
 "<trwy>"
 	"trwy" {293,7} [cy] prep :through: [201053]
 "<yr>"
-	"gyrru" {293,8} [cy] v 2s imper :drive: [36441] + sm
+	"y" {293,8} [cy] det.def :the: [208948]
 "<ffôn>"
 	"ffôn" {293,9} [cy] n m sg :phone: [201688]
 "<.>"
@@ -3775,7 +3669,6 @@
 	"oh" {294,1} [0] oh
 "<da>"
 	"da" {294,2} [cy] adj :good: [208568]
-	"ta" {294,2} [cy] conj :or: [202096] + sm
 "<iawn>"
 	"iawn" {294,3} [cy] adv :very: [203775]
 "<.>"
@@ -3789,7 +3682,7 @@
 "<efo>"
 	"efo" {295,4} [cy] prep :with: [207906]
 "<yr>"
-	"gyrru" {295,5} [cy] v 2s imper :drive: [36441] + sm
+	"y" {295,5} [cy] det.def :the: [208948]
 "<ffôn>"
 	"ffôn" {295,6} [cy] n m sg :phone: [201688]
 "<.>"
@@ -3810,7 +3703,6 @@
 	"er" {297,2} [0] er
 "<beth>"
 	"beth" {297,3} [cy] int :what: [208850]
-	"peth" {297,3} [cy] n m sg :thing: [197439] + sm
 "<sydd>"
 	"sydd" {297,4} [cy] conj :which is: [196856]
 "<yn>"
@@ -3822,9 +3714,9 @@
 "<rŵan>"
 	"rŵan" {297,8} [cy] adv :now: [205489]
 "<dw>"
-	"dw" {297,9} [cy] unk
+	"bod" {297,9} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {297,10} [cy] prep :to: [202346]
+	"fi" {297,10} [cy] pron 1s :I: [204322]
 "<.>"
 
 "<mae>"
@@ -3840,9 +3732,9 @@
 "<a>"
 	"a" {298,6} [cy] conj :and: [203303]
 "<dw>"
-	"dw" {298,7} [cy] unk
+	"bod" {298,7} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {298,8} [cy] prep :to: [202346]
+	"fi" {298,8} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {298,9} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -3864,11 +3756,8 @@
 "<ryw>"
 	"rhyw" {299,6} [cy] adj :some: [202560] + sm
 "<ddeg>"
-	"deg" {299,7} [cy] n m sg :ten: [202461] + sm
-	"deg" {299,7} [cy] adj :ten: [205168] + sm
+	"deg" {299,7} [cy] num :ten: [205168] + sm
 "<o>"
-	"fo" {299,8} [cy] pron m 3s spoken :he: [209264]
-	"o" {299,8} [cy] prep :from: [203721]
 	"o" {299,8} [cy] prep :of: [203019]
 "<flynyddoedd>"
 	"blwyddyn" {299,9} [cy] n f pl :years: [207922] + sm
@@ -3921,11 +3810,11 @@
 "<mae>"
 	"bod" {301,3} [cy] v 3s pres :be: [59494]
 "<gen>"
-	"gen" {301,4} [cy] unk
+	"gan" {301,4} [cy] prep spoken :by: [209363]
 "<ti>"
 	"ti" {301,5} [cy] pron 2s :you: [208649]
 "<un>"
-	"un" {301,6} [cy] adj :one: [202310]
+	"un" {301,6} [cy] num :one: [202310]
 "<arall>"
 	"arall" {301,7} [cy] adj :other: [201498]
 "<yn>"
@@ -3955,15 +3844,15 @@
 "<.>"
 
 "<ydy>"
-	"ydy" {307,1} [cy] unk
+	"bod" {307,1} [cy] v 3s pres :be: [209338]
 "<.>"
 
 "<.>"
 
 "<dw>"
-	"dw" {309,1} [cy] unk
+	"bod" {309,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {309,2} [cy] prep :to: [202346]
+	"fi" {309,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {309,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -3981,12 +3870,9 @@
 "<pawb>"
 	"pawb" {309,10} [cy] pron :everyone: [201706]
 "<leni>"
-	"leni" {309,11} [cy] unk
+	"eleni" {309,11} [cy] adv :this year: [209290]
 "<na>"
-	"na" {309,12} [cy] conj :(n)or: [207110]
-	"na" {309,12} [cy] conj :than: [205467]
 	"na" {309,12} [cy] prt.neg :neg: [198802]
-	"da" {309,12} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<mae>"
@@ -4018,7 +3904,7 @@
 "<o>"
 	"fo" {312,2} [cy] pron m 3s spoken :he: [209264]
 "<wedi>"
-	"gwadu" {312,3} [cy] v 2s pres literary :deny: [32443] + sm
+	"wedi" {312,3} [cy] prep :after: [207472]
 "<codi>"
 	"codi" {312,4} [cy] v infin :lift: [206523]
 "<peso>"
@@ -4044,15 +3930,13 @@
 "<peso>"
 	"peso" {315,1} [0] peso
 "<ydy>"
-	"ydy" {315,2} [cy] unk
+	"bod" {315,2} [cy] v 3s pres :be: [209338]
 "<o>"
 	"fo" {315,3} [cy] pron m 3s spoken :he: [209264]
-	"o" {315,3} [cy] prep :from: [203721]
-	"o" {315,3} [cy] prep :of: [203019]
 "<?>"
 
 "<pum>"
-	"pum" {316,1} [cy] adj :five: [207869]
+	"pum" {316,1} [cy] num :five: [207869]
 "<peso>"
 	"peso" {316,2} [0] peso
 "<.>"
@@ -4062,13 +3946,13 @@
 "<!>"
 
 "<pum>"
-	"pum" {318,1} [cy] adj :five: [207869]
+	"pum" {318,1} [cy] num :five: [207869]
 "<peso>"
 	"peso" {318,2} [0] peso
 "<.>"
 
 "<pedwar>"
-	"pedwar" {319,1} [cy] adj :four: [203956]
+	"pedwar" {319,1} [cy] num m :four: [203956]
 "<a>"
 	"a" {319,2} [cy] conj :and: [203303]
 "<hanner>"
@@ -4082,11 +3966,11 @@
 "<Gymru>"
 	"Cymru" {319,7} [cy] name f sg :Wales: [198200] + sm
 "<ia>"
-	"ia" {319,8} [cy] unk
+	"ia" {319,8} [cy] adv :yes: [209325]
 "<?>"
 
 "<pedwar>"
-	"pedwar" {320,1} [cy] adj :four: [203956]
+	"pedwar" {320,1} [cy] num m :four: [203956]
 "<a>"
 	"a" {320,2} [cy] conj :and: [203303]
 "<hanner>"
@@ -4094,12 +3978,9 @@
 "<.>"
 
 "<na>"
-	"na" {321,1} [cy] conj :(n)or: [207110]
-	"na" {321,1} [cy] conj :than: [205467]
 	"na" {321,1} [cy] prt.neg :neg: [198802]
-	"da" {321,1} [cy] adj :good: [208568] + nm
 "<pedwar>"
-	"pedwar" {321,2} [cy] adj :four: [203956]
+	"pedwar" {321,2} [cy] num m :four: [203956]
 "<oedd>"
 	"bod" {321,3} [cy] v 3s imperf :be: [74724]
 "<o>"
@@ -4107,19 +3988,17 @@
 "<.>"
 
 "<dw>"
-	"dw" {322,1} [cy] unk
+	"bod" {322,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {322,2} [cy] prep :to: [202346]
+	"fi" {322,2} [cy] pron 1s :I: [204322]
 "<meddwl>"
 	"meddwl" {322,3} [cy] v infin :think: [205499]
 "<bod>"
 	"bod" {322,4} [cy] v infin :be: [205519]
 "<o>"
 	"fo" {322,5} [cy] pron m 3s spoken :he: [209264]
-	"o" {322,5} [cy] prep :from: [203721]
-	"o" {322,5} [cy] prep :of: [203019]
 "<wedi>"
-	"gwadu" {322,6} [cy] v 2s pres literary :deny: [32443] + sm
+	"wedi" {322,6} [cy] prep :after: [207472]
 "<codi>"
 	"codi" {322,7} [cy] v infin :lift: [206523]
 "<peso>"
@@ -4138,7 +4017,6 @@
 	"dyna" {324,3} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {324,4} [cy] pron m 3s :he: [196922]
-	"mo" {324,4} [cy] adv :not: [202814] + sm
 "<mae>"
 	"bod" {324,5} [cy] v 3s pres :be: [59494]
 "<o>"
@@ -4154,15 +4032,15 @@
 "<.>"
 
 "<dw>"
-	"dw" {325,1} [cy] unk
+	"bod" {325,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {325,2} [cy] prep :to: [202346]
+	"fi" {325,2} [cy] pron 1s :I: [204322]
 "<wedi>"
-	"gwadu" {325,3} [cy] v 2s pres literary :deny: [32443] + sm
+	"wedi" {325,3} [cy] prep :after: [207472]
 "<talu>"
 	"talu" {325,4} [cy] v infin :pay: [201983]
 "<pedwar>"
-	"pedwar" {325,5} [cy] adj :four: [203956]
+	"pedwar" {325,5} [cy] num m :four: [203956]
 "<a>"
 	"a" {325,6} [cy] conj :and: [203303]
 "<hanner>"
@@ -4174,7 +4052,7 @@
 "<bob>"
 	"pob" {326,2} [cy] adj :each: [208903] + sm
 "<tro>"
-	"troi" {326,3} [cy] v 2s imper :turn: [29955]
+	"tro" {326,3} [cy] n m sg :turn: [199168]
 "<.>"
 
 "<a>"
@@ -4200,25 +4078,25 @@
 "<o>"
 	"fo" {327,11} [cy] pron m 3s spoken :he: [209264]
 "<ryw>"
-	"rhyw" {327,12} [cy] adj :some: [202560] + sm
+	"rhyw" {327,12} [cy] n mf sg :sex: [198273] + sm
 "<bum>"
-	"pum" {327,13} [cy] adj :five: [207869] + sm
+	"pum" {327,13} [cy] num :five: [207869] + sm
 "<peso>"
 	"peso" {327,14} [cy] unk
 "<.>"
 
 "<pedwar>"
-	"pedwar" {328,1} [cy] adj :four: [203956]
+	"pedwar" {328,1} [cy] num m :four: [203956]
 "<pum>"
-	"pum" {328,2} [cy] adj :five: [207869]
+	"pum" {328,2} [cy] num :five: [207869]
 "<peso>"
 	"peso" {328,3} [cy] unk
 "<.>"
 
 "<yndy>"
-	"yndy" {329,1} [cy] unk
+	"bod" {329,1} [cy] v 3s pres.emph :be: [209360]
 "<yndy>"
-	"yndy" {329,2} [cy] unk
+	"bod" {329,2} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<felly>"
@@ -4236,7 +4114,7 @@
 "<.>"
 
 "<ydy>"
-	"ydy" {331,1} [cy] unk
+	"bod" {331,1} [cy] v 3s pres :be: [209338]
 "<achos>"
 	"achos" {331,2} [cy] n m sg :cause: [201189]
 "<mae>"
@@ -4248,13 +4126,11 @@
 "<lot>"
 	"lot" {331,6} [cy] unk
 "<o>"
-	"fo" {331,7} [cy] pron m 3s spoken :he: [209264]
-	"o" {331,7} [cy] prep :from: [203721]
 	"o" {331,7} [cy] prep :of: [203019]
 "<fobl>"
 	"fobl" {331,8} [cy] unk
 "<basan>"
-	"basan" {331,9} [cy] unk
+	"bod" {331,9} [cy] v 1p pluperf spoken :be: [209345]
 "<ni>"
 	"ni" {331,10} [cy] pron 1p :we: [207621]
 "<yn>"
@@ -4271,7 +4147,6 @@
 	"dyna" {332,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {332,3} [cy] pron m 3s :he: [196922]
-	"mo" {332,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<dyna>"
@@ -4283,9 +4158,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {334,1} [cy] unk
+	"bod" {334,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {334,2} [cy] prep :to: [202346]
+	"fi" {334,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {334,3} [cy] stat :stative: [200654]
 "<dechrau>"
@@ -4297,12 +4172,9 @@
 "<am>"
 	"am" {334,7} [cy] prep :for: [201919]
 "<gymaint>"
-	"cymaint" {334,8} [cy] adj :so many: [202261] + sm
 	"cymaint" {334,8} [cy] adj :so much: [202260] + sm
 "<o>"
-	"fo" {334,9} [cy] pron m 3s spoken :he: [209264]
 	"o" {334,9} [cy] prep :from: [203721]
-	"o" {334,9} [cy] prep :of: [203019]
 "<ffrindiau>"
 	"ffrind" {334,10} [cy] n m pl :friends: [204810]
 "<a>"
@@ -4314,15 +4186,15 @@
 "<.>"
 
 "<ia>"
-	"ia" {335,1} [cy] unk
+	"ia" {335,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {336,1} [cy] unk
+	"ia" {336,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {337,1} [cy] unk
+	"ia" {337,1} [cy] adv :yes: [209325]
 "<wir>"
 	"gwir" {337,2} [cy] adj :true: [207093] + sm
 "<.>"
@@ -4360,7 +4232,6 @@
 "<mynd>"
 	"mynd" {340,7} [cy] v infin :go: [198448]
 "<â>"
-	"â" {340,8} [cy] conj :as: [197357]
 	"â" {340,8} [cy] prep :with: [208783]
 "<amser>"
 	"amser" {340,9} [cy] n m sg :time: [205844]
@@ -4377,7 +4248,6 @@
 "<mynd>"
 	"mynd" {341,3} [cy] v infin :go: [198448]
 "<â>"
-	"â" {341,4} [cy] conj :as: [197357]
 	"â" {341,4} [cy] prep :with: [208783]
 "<amser>"
 	"amser" {341,5} [cy] n m sg :time: [205844]
@@ -4410,13 +4280,13 @@
 "<draw>"
 	"traw" {342,13} [cy] n m sg :pitch: [201560] + sm
 "<yndy>"
-	"yndy" {342,14} [cy] unk
+	"bod" {342,14} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<wel>"
 	"wel" {343,1} [cy] unk
 "<yndy>"
-	"yndy" {343,2} [cy] unk
+	"bod" {343,2} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<isio>"
@@ -4474,9 +4344,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {351,1} [cy] unk
+	"bod" {351,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {351,2} [cy] prep :to: [202346]
+	"fi" {351,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {351,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -4486,14 +4356,11 @@
 "<.>"
 
 "<na>"
-	"na" {352,1} [cy] conj :(n)or: [207110]
-	"na" {352,1} [cy] conj :than: [205467]
 	"na" {352,1} [cy] prt.neg :neg: [198802]
-	"da" {352,1} [cy] adj :good: [208568] + nm
 "<dw>"
-	"dw" {352,2} [cy] unk
+	"bod" {352,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {352,3} [cy] prep :to: [202346]
+	"fi" {352,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {352,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -4511,9 +4378,9 @@
 "<mewn>"
 	"mewn" {353,4} [cy] prep :in: [203894]
 "<home>"
-	"home" {353,5} [en] adv :home: [266775]
+	"home" {353,5} [en] n sg :home: [120759]
 "<yn_doedd>"
-	"yn_doedd" {353,6} [cy] unk
+	"bod" {353,6} [cy] im :wasn''t_it: [209342]
 "<?>"
 
 "<oedd>"
@@ -4521,7 +4388,7 @@
 "<.>"
 
 "<dw>"
-	"dw" {355,1} [cy] unk
+	"bod" {355,1} [cy] v 1s pres spoken :be: [209292]
 "<ddim>"
 	"dim" {355,2} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -4537,20 +4404,15 @@
 "<.>"
 
 "<na>"
-	"na" {356,1} [cy] conj :(n)or: [207110]
-	"na" {356,1} [cy] conj :than: [205467]
 	"na" {356,1} [cy] prt.neg :neg: [198802]
-	"da" {356,1} [cy] adj :good: [208568] + nm
 "<fi>"
 	"fi" {356,2} [cy] pron 1s :I: [201450]
-	"mi" {356,2} [cy] prt.aff :aff: [200111] + sm
 "<ddim>"
-	"dim" {356,3} [cy] n m sg :nothing: [208789] + sm
 	"dim" {356,3} [cy] adv :not: [204176] + sm
 "<moin>"
-	"moin" {356,4} [cy] unk
+	"moin" {356,4} [cy] n m sg :want: [209326]
 "<gofyn>"
-	"gofyn" {356,5} [cy] v 2s imper :ask: [36207]
+	"gofyn" {356,5} [cy] v infin :ask: [205728]
 "<hefyd>"
 	"hefyd" {356,6} [cy] adv :also: [208523]
 "<.>"
@@ -4562,9 +4424,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {358,1} [cy] unk
+	"bod" {358,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {358,2} [cy] prep :to: [202346]
+	"fi" {358,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {358,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -4612,14 +4474,11 @@
 "<.>"
 
 "<na>"
-	"na" {363,1} [cy] conj :(n)or: [207110]
-	"na" {363,1} [cy] conj :than: [205467]
 	"na" {363,1} [cy] prt.neg :neg: [198802]
-	"da" {363,1} [cy] adj :good: [208568] + nm
 "<dw>"
-	"dw" {363,2} [cy] unk
+	"bod" {363,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {363,3} [cy] prep :to: [202346]
+	"fi" {363,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {363,4} [cy] stat :stative: [200654]
 "<meddwl>"
@@ -4635,14 +4494,13 @@
 "<.>"
 
 "<yn>"
-	"yn" {364,1} [cy] stat :stative: [200654]
 	"yn" {364,1} [cy] prep :in: [204430]
 "<mis>"
 	"mis" {364,2} [cy] n m sg :month: [202813]
 "<May>"
 	"May" {364,3} [0] name
 "<fydd>"
-	"bod" {364,4} [cy] v 2s imper :be: [34859] + sm
+	"bod" {364,4} [cy] v 3s fut :be: [61921] + sm
 "<yn>"
 	"yn" {364,5} [cy] stat :stative: [200654]
 "<dod>"
@@ -4692,11 +4550,10 @@
 "<yn>"
 	"yn" {367,12} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {367,13} [cy] v infin :be: [205233]
+	"gallu" {367,13} [cy] v infin :be_able: [205233]
 "<smocio>"
 	"smocio" {367,14} [cy] v infin :smoke: [203761]
 "<gymaint>"
-	"cymaint" {367,15} [cy] adj :so many: [202261] + sm
 	"cymaint" {367,15} [cy] adj :so much: [202260] + sm
 "<.>"
 
@@ -4711,11 +4568,11 @@
 "<.>"
 
 "<ia>"
-	"ia" {370,1} [cy] unk
+	"ia" {370,1} [cy] adv :yes: [209325]
 "<dw>"
-	"dw" {370,2} [cy] unk
+	"bod" {370,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {370,3} [cy] prep :to: [202346]
+	"fi" {370,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {370,4} [cy] stat :stative: [200654]
 "<gweld>"
@@ -4731,11 +4588,9 @@
 "<yna>"
 	"yna" {370,10} [cy] adv :there: [208848]
 "<mwy>"
-	"mwy" {370,11} [cy] adj :bigger: [201716]
+	"mawr" {370,11} [cy] adj.comp :bigger: [201716]
 "<o>"
-	"fo" {370,12} [cy] pron m 3s spoken :he: [209264]
 	"o" {370,12} [cy] prep :from: [203721]
-	"o" {370,12} [cy] prep :of: [203019]
 "<ferched>"
 	"merch" {370,13} [cy] n f pl :daughters: [199574] + sm
 "<bach>"
@@ -4766,7 +4621,6 @@
 	"dyna" {372,1} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {372,2} [cy] pron m 3s :he: [196922]
-	"mo" {372,2} [cy] adv :not: [202814] + sm
 "<mae>"
 	"bod" {372,3} [cy] v 3s pres :be: [59494]
 "<rhaid>"
@@ -4804,7 +4658,6 @@
 "<ti>"
 	"ti" {373,13} [cy] pron 2s :you: [208649]
 "<ddim>"
-	"dim" {373,14} [cy] n m sg :nothing: [208789] + sm
 	"dim" {373,14} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {373,15} [cy] stat :stative: [200654]
@@ -4831,7 +4684,7 @@
 "<ie>"
 	"ie" {375,1} [cy] adv :yes: [208464]
 "<ia>"
-	"ia" {375,2} [cy] unk
+	"ia" {375,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<a>"
@@ -4865,7 +4718,7 @@
 "<.>"
 
 "<yndy>"
-	"yndy" {378,1} [cy] unk
+	"bod" {378,1} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<a>"
@@ -4888,23 +4741,23 @@
 "<gafael>"
 	"gafael" {380,4} [cy] v infin :grasp: [196873]
 "<ynddyn>"
-	"ynddyn" {380,5} [cy] unk
+	"yn" {380,5} [cy] prep+pron 3p :in_them: [209357]
 "<nhw>"
 	"nhw" {380,6} [cy] pron 3p :they: [207491]
 "<.>"
 
 "<ydy>"
-	"ydy" {381,1} [cy] unk
+	"bod" {381,1} [cy] v 3s pres :be: [209338]
 "<ydy>"
-	"ydy" {381,2} [cy] unk
+	"bod" {381,2} [cy] v 3s pres :be: [209338]
 "<.>"
 
 "<achos>"
 	"achos" {382,1} [cy] n m sg :cause: [201189]
 "<wn>"
-	"wn" {382,2} [cy] unk
+	"gwybod" {382,2} [cy] v 1s pres :know: [209351] + sm
 "<i>"
-	"i" {382,3} [cy] prep :to: [202346]
+	"fi" {382,3} [cy] pron 1s :I: [204322]
 "<mae>"
 	"bod" {382,4} [cy] v 3s pres :be: [59494]
 "<Veronica>"
@@ -4918,9 +4771,9 @@
 "<oh>"
 	"oh" {383,1} [0] oh
 "<wna>"
-	"gwneud" {383,2} [cy] v 2s imper :do: [36389] + sm
+	"gwneud" {383,2} [cy] v 13s pres :do: [59103] + sm
 "<i>"
-	"i" {383,3} [cy] pron 1s :I: [204322]
+	"fi" {383,3} [cy] pron 1s :I: [204322]
 "<adael>"
 	"gadael" {383,4} [cy] v infin :leave: [203082] + sm
 "<y>"
@@ -4934,7 +4787,7 @@
 "<ond>"
 	"ond" {384,1} [cy] conj :but: [201902]
 "<fuodd>"
-	"fuodd" {384,2} [cy] unk
+	"bod" {384,2} [cy] v 3s past nstan :be: [209301] + sm
 "<hi>"
 	"hi" {384,3} [cy] pron f 3s :she: [203039]
 "<yn>"
@@ -4947,10 +4800,7 @@
 "<?>"
 
 "<na>"
-	"na" {385,1} [cy] conj :(n)or: [207110]
-	"na" {385,1} [cy] conj :than: [205467]
 	"na" {385,1} [cy] prt.neg :neg: [198802]
-	"da" {385,1} [cy] adj :good: [208568] + nm
 "<ddim>"
 	"dim" {385,2} [cy] n m sg :nothing: [208789] + sm
 	"dim" {385,2} [cy] adv :not: [204176] + sm
@@ -4963,10 +4813,7 @@
 "<.>"
 
 "<na>"
-	"na" {386,1} [cy] conj :(n)or: [207110]
-	"na" {386,1} [cy] conj :than: [205467]
 	"na" {386,1} [cy] prt.neg :neg: [198802]
-	"da" {386,1} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<mae>"
@@ -4976,13 +4823,13 @@
 "<yn>"
 	"yn" {387,3} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {387,4} [cy] v infin :be: [205233]
+	"gallu" {387,4} [cy] v infin :be_able: [205233]
 "<gadael>"
 	"gadael" {387,5} [cy] v infin :leave: [203082]
 "<ond>"
 	"ond" {387,6} [cy] conj :but: [201902]
 "<rei>"
-	"rei" {387,7} [cy] unk
+	"rhai" {387,7} [cy] adj spoken :some: [209354]
 "<eraill>"
 	"eraill" {387,8} [cy] pron :others: [208834]
 "<ddim>"
@@ -5001,12 +4848,11 @@
 "<â>"
 	"â" {388,5} [cy] conj :as: [197357]
 	"â" {388,5} [cy] prep :with: [208783]
+	"mynd" {388,5} [cy] v 3s pres :go: [56973]
 "<ddipyn>"
 	"ddipyn" {388,6} [cy] unk
 "<o>"
-	"fo" {388,7} [cy] pron m 3s spoken :he: [209264]
 	"o" {388,7} [cy] prep :from: [203721]
-	"o" {388,7} [cy] prep :of: [203019]
 "<benderfyniad>"
 	"penderfyniad" {388,8} [cy] n m sg :decision: [204100] + sm
 "<a>"
@@ -5018,7 +4864,7 @@
 "<yr>"
 	"y" {388,12} [cy] det.def :the: [208948]
 "<un>"
-	"un" {388,13} [cy] adj :one: [202310]
+	"un" {388,13} [cy] num :one: [202310]
 "<peth>"
 	"peth" {388,14} [cy] n m sg :thing: [197439]
 "<.>"
@@ -5039,15 +4885,15 @@
 "<.>"
 
 "<yndy>"
-	"yndy" {390,1} [cy] unk
+	"bod" {390,1} [cy] v 3s pres.emph :be: [209360]
 "<yndy>"
-	"yndy" {390,2} [cy] unk
+	"bod" {390,2} [cy] v 3s pres.emph :be: [209360]
 "<yr>"
 	"y" {390,3} [cy] det.def :the: [208948]
 "<unig>"
 	"unig" {390,4} [cy] adj :only: [203657]
 "<un>"
-	"un" {390,5} [cy] adj :one: [202310]
+	"un" {390,5} [cy] num :one: [202310]
 "<.>"
 
 "<yr>"
@@ -5055,7 +4901,7 @@
 "<unig>"
 	"unig" {391,2} [cy] adj :only: [203657]
 "<un>"
-	"un" {391,3} [cy] adj :one: [202310]
+	"un" {391,3} [cy] num :one: [202310]
 "<.>"
 
 "<yn>"
@@ -5093,7 +4939,7 @@
 "<yr>"
 	"y" {394,4} [cy] det.def :the: [208948]
 "<tri>"
-	"tri" {394,5} [cy] adj :three: [205265]
+	"tri" {394,5} [cy] num m :three: [205265]
 "<bachgen>"
 	"bachgen" {394,6} [cy] n m sg :boy: [200585]
 "<ddim>"
@@ -5105,7 +4951,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {395,1} [cy] unk
+	"ia" {395,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ah>"
@@ -5166,7 +5012,7 @@
 "<ddoth>"
 	"dod" {400,2} [cy] v 3s past spoken :come: [209268] + sm
 "<yn_ôl>"
-	"yn_ôl" {400,3} [cy] unk
+	"ôl" {400,3} [cy] adv :back: [209344]
 "<.>"
 
 "<roedd>"
@@ -5185,7 +5031,6 @@
 "<teithio>"
 	"teithio" {401,7} [cy] v infin :travel: [206320]
 "<gymaint>"
-	"cymaint" {401,8} [cy] adj :so many: [202261] + sm
 	"cymaint" {401,8} [cy] adj :so much: [202260] + sm
 "<ac>"
 	"ac" {401,9} [cy] conj :and: [209088]
@@ -5195,7 +5040,7 @@
 "<nyrfs>"
 	"nyrfs" {401,11} [cy] unk
 "<i_gyd>"
-	"i_gyd" {401,12} [cy] unk
+	"i_gyd" {401,12} [cy] adv :all: [209310]
 "<.>"
 
 "<a>"
@@ -5219,7 +5064,7 @@
 "<smocio>"
 	"smocio" {403,2} [cy] v infin :smoke: [203761]
 "<mwy>"
-	"mwy" {403,3} [cy] adj :bigger: [201716]
+	"mawr" {403,3} [cy] adj.comp :bigger: [201716]
 "<nag>"
 	"nag" {403,4} [cy] conj :than: [208865]
 "<oedd>"
@@ -5237,7 +5082,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {405,1} [cy] unk
+	"ia" {405,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<felly>"
@@ -5254,12 +5099,13 @@
 	"claro" {407,4} [es] im :of_course: [133065]
 "<allan>"
 	"allan" {407,5} [cy] adv :out: [203329]
+	"gallu" {407,5} [cy] v 3p fut spoken :be_able: [160278] + sm
 "<diwedd>"
 	"diwedd" {407,6} [cy] n m sg :end: [206005]
 "<.>"
 
 "<do>"
-	"toi" {408,1} [cy] v 2s imper :roof: [37620] + sm
+	"do" {408,1} [cy] adv past :yes: [209369]
 "<mi>"
 	"mi" {408,2} [cy] prt.aff :aff: [200111]
 "<ddoth>"
@@ -5313,7 +5159,7 @@
 "<diwrnod>"
 	"diwrnod" {416,6} [cy] n m sg :day: [200029]
 "<o_blaen>"
-	"o_blaen" {416,7} [cy] unk
+	"blaen" {416,7} [cy] adv :before: [209317]
 "<.>"
 
 "<oh>"
@@ -5335,7 +5181,7 @@
 "<iawn>"
 	"iawn" {417,9} [cy] adv :very: [203775]
 "<doedd>"
-	"doedd" {417,10} [cy] unk
+	"bod" {417,10} [cy] v 3s imperf.neg :be: [209291]
 "<?>"
 
 "<oedd>"
@@ -5347,15 +5193,13 @@
 "<llawn>"
 	"llawn" {418,4} [cy] adj :full: [208735]
 "<o>"
-	"fo" {418,5} [cy] pron m 3s spoken :he: [209264]
 	"o" {418,5} [cy] prep :from: [203721]
-	"o" {418,5} [cy] prep :of: [203019]
 "<ffrwythau>"
 	"ffrwyth" {418,6} [cy] n m pl :fruits: [201933]
 "<.>"
 
 "<paltas>"
-	"paltas" {419,1} [es] unk
+	"palta" {419,1} [es] n f pl :avocados: [133068]
 "<.>"
 
 "<avocado>"
@@ -5373,7 +5217,7 @@
 "<yna>"
 	"yna" {422,3} [cy] adv :there: [208848]
 "<rei>"
-	"rei" {422,4} [cy] unk
+	"rhai" {422,4} [cy] adj spoken :some: [209354]
 "<nawr>"
 	"nawr" {422,5} [cy] adv :now: [204136]
 "<hyd>"
@@ -5395,10 +5239,8 @@
 "<cael>"
 	"cael" {423,5} [cy] v infin :have: [204498]
 "<glamp>"
-	"glamp" {423,6} [cy] unk
+	"clamp" {423,6} [cy] n m sg :pile: [209318] + sm
 "<o>"
-	"fo" {423,7} [cy] pron m 3s spoken :he: [209264]
-	"o" {423,7} [cy] prep :from: [203721]
 	"o" {423,7} [cy] prep :of: [203019]
 "<.>"
 
@@ -5418,6 +5260,7 @@
 	"nhw" {424,7} [cy] pron 3p :they: [207491]
 "<meddylia>"
 	"meddwl" {424,8} [cy] v 2s imper spoken :think: [36816]
+	"meddwl" {424,8} [cy] v 3s pres spoken :think: [59544]
 "<di>"
 	"ti" {424,9} [cy] pron 2s :you: [208649] + sm
 "<.>"
@@ -5449,7 +5292,7 @@
 "<ie>"
 	"ie" {427,1} [cy] adv :yes: [208464]
 "<ia>"
-	"ia" {427,2} [cy] unk
+	"ia" {427,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<i>"
@@ -5501,7 +5344,7 @@
 "<Anita>"
 	"Anita" {433,1} [0] name
 "<basai>"
-	"basai" {433,2} [cy] unk
+	"bod" {433,2} [cy] v 3s pluperf spoken :be: [209297]
 "<yn>"
 	"yn" {433,3} [cy] stat :stative: [200654]
 "<gwybod>"
@@ -5509,7 +5352,7 @@
 "<hwnna>"
 	"hwnna" {433,5} [cy] pron :that one: [198063]
 "<sti>"
-	"sti" {433,6} [cy] unk
+	"gwybod" {433,6} [cy] im :you_know: [209334]
 "<.>"
 
 "<claro>"
@@ -5525,7 +5368,7 @@
 "<be>"
 	"be" {435,2} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {435,3} [cy] unk
+	"bod" {435,3} [cy] v 3s pres :be: [209338]
 "<yr>"
 	"y" {435,4} [cy] det.def :the: [208948]
 "<pen_blwydd>"
@@ -5541,38 +5384,29 @@
 "<yr>"
 	"y" {436,2} [cy] det.def :the: [208948]
 "<un>"
-	"un" {436,3} [cy] adj :one: [202310]
+	"un" {436,3} [cy] num :one: [202310]
 "<.>"
 
 "<na>"
-	"na" {437,1} [cy] conj :(n)or: [207110]
-	"na" {437,1} [cy] conj :than: [205467]
 	"na" {437,1} [cy] prt.neg :neg: [198802]
-	"da" {437,1} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<na>"
-	"na" {438,1} [cy] conj :(n)or: [207110]
-	"na" {438,1} [cy] conj :than: [205467]
 	"na" {438,1} [cy] prt.neg :neg: [198802]
-	"da" {438,1} [cy] adj :good: [208568] + nm
 "<?>"
 
 "<na>"
-	"na" {439,1} [cy] conj :(n)or: [207110]
-	"na" {439,1} [cy] conj :than: [205467]
 	"na" {439,1} [cy] prt.neg :neg: [198802]
-	"da" {439,1} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<baswn>"
-	"baswn" {440,1} [cy] unk
+	"bod" {440,1} [cy] v 1s pluperf spoken :be: [209347]
 "<i>"
-	"i" {440,2} [cy] prep :to: [202346]
+	"fi" {440,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {440,3} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {440,4} [cy] v infin :be: [205233]
+	"gallu" {440,4} [cy] v infin :be_able: [205233]
 "<cael>"
 	"cael" {440,5} [cy] v infin :have: [204498]
 "<gwybod>"
@@ -5603,7 +5437,6 @@
 	"dyna" {441,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {441,3} [cy] pron m 3s :he: [196922]
-	"mo" {441,3} [cy] adv :not: [202814] + sm
 "<ta>"
 	"ta" {441,4} [cy] conj :or: [202096]
 "<.>"
@@ -5619,7 +5452,7 @@
 "<y>"
 	"y" {442,5} [cy] det.def :the: [204199]
 "<steddfod>"
-	"steddfod" {442,6} [cy] unk
+	"eisteddfod" {442,6} [cy] n f sg :eisteddfod: [209332]
 "<siŵr>"
 	"siŵr" {442,7} [cy] adj :sure: [204591]
 "<.>"
@@ -5629,7 +5462,7 @@
 "<yr>"
 	"y" {443,2} [cy] det.def :the: [208948]
 "<ddwy>"
-	"dwy" {443,3} [cy] adj :two: [199604] + sm
+	"dwy" {443,3} [cy] num f :two: [199604] + sm
 "<yn>"
 	"yn" {443,4} [cy] stat :stative: [200654]
 "<mynd>"
@@ -5661,14 +5494,13 @@
 "<cwrdd>"
 	"cwrdd" {446,5} [cy] v infin :meet: [209099]
 "<â>"
-	"â" {446,6} [cy] conj :as: [197357]
 	"â" {446,6} [cy] prep :with: [208783]
 "<ei_gilydd>"
-	"ei_gilydd" {446,7} [cy] unk
+	"gilydd" {446,7} [cy] pron :each_other: [209321]
 "<diwrnod>"
 	"diwrnod" {446,8} [cy] n m sg :day: [200029]
 "<o_blaen>"
-	"o_blaen" {446,9} [cy] unk
+	"blaen" {446,9} [cy] adv :before: [209317]
 "<ac>"
 	"ac" {446,10} [cy] conj :and: [209088]
 "<yn>"
@@ -5692,15 +5524,15 @@
 "<?>"
 
 "<yndw>"
-	"yndw" {448,1} [cy] unk
+	"bod" {448,1} [cy] v 1s pres.emph :be: [209359]
 "<!>"
 
 "<ah>"
 	"ah" {449,1} [0] ah
 "<dw>"
-	"dw" {449,2} [cy] unk
+	"bod" {449,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {449,3} [cy] prep :to: [202346]
+	"fi" {449,3} [cy] pron 1s :I: [204322]
 "<hefyd>"
 	"hefyd" {449,4} [cy] adv :also: [208523]
 "<!>"
@@ -5714,9 +5546,9 @@
 "<.>"
 
 "<yndy>"
-	"yndy" {452,1} [cy] unk
+	"bod" {452,1} [cy] v 3s pres.emph :be: [209360]
 "<chwarae>"
-	"chwarae" {452,2} [cy] v 2s imper :play: [35030]
+	"chwarae" {452,2} [cy] n m sg :game: [200799]
 "<teg>"
 	"teg" {452,3} [cy] adj :fair: [201727]
 "<i>"
@@ -5744,7 +5576,7 @@
 "<?>"
 
 "<ia>"
-	"ia" {455,1} [cy] unk
+	"ia" {455,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ac>"
@@ -5752,7 +5584,7 @@
 "<oeddwn>"
 	"bod" {456,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {456,3} [cy] pron 1s :I: [204322]
+	"fi" {456,3} [cy] pron 1s :I: [204322]
 "<meddwl>"
 	"meddwl" {456,4} [cy] v infin :think: [205499]
 "<sut>"
@@ -5773,33 +5605,32 @@
 	"reit" {457,3} [cy] adv :quite: [205365]
 "<da>"
 	"da" {457,4} [cy] adj :good: [208568]
-	"ta" {457,4} [cy] conj :or: [202096] + sm
 "<dw>"
-	"dw" {457,5} [cy] unk
+	"bod" {457,5} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {457,6} [cy] prep :to: [202346]
+	"fi" {457,6} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {457,7} [cy] stat :stative: [200654]
 "<credu>"
 	"credu" {457,8} [cy] v infin :believe: [199294]
 "<ydy>"
-	"ydy" {457,9} [cy] unk
+	"bod" {457,9} [cy] v 3s pres :be: [209338]
 "<ddi>"
-	"ddi" {457,10} [cy] unk
+	"hi" {457,10} [cy] pron f 3s pat :she: [209287]
 "<.>"
 
 "<adre>"
-	"adre" {458,1} [cy] adv :homewards: [201958]
+	"adre" {458,1} [cy] adv :home: [201958]
 "<mae>"
 	"bod" {458,2} [cy] v 3s pres :be: [59494]
 "<hi>"
 	"hi" {458,3} [cy] pron f 3s :she: [203039]
 "<ia>"
-	"ia" {458,4} [cy] unk
+	"ia" {458,4} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {459,1} [cy] unk
+	"ia" {459,1} [cy] adv :yes: [209325]
 "<a>"
 	"a" {459,2} [cy] conj :and: [203303]
 "<nôl>"
@@ -5807,16 +5638,13 @@
 "<a>"
 	"a" {459,4} [cy] conj :and: [203303]
 "<ymlaen>"
-	"ymlaen" {459,5} [cy] adv :on: [205274]
 	"ymlaen" {459,5} [cy] adv :forward: [203504]
 "<efo>"
 	"efo" {459,6} [cy] prep :with: [207906]
 "<Robert>"
 	"Robert" {459,7} [0] name
 "<de>"
-	"de" {459,8} [cy] n m sg :south: [206453]
-	"de" {459,8} [cy] n m sg :right: [204205]
-	"te" {459,8} [cy] n m sg :tea: [203481] + sm
+	"bod" {459,8} [cy] im :isn''t_it: [209375]
 "<.>"
 
 "<ie>"
@@ -5834,6 +5662,7 @@
 "<ei>"
 	"ei" {460,7} [cy] adj :his: [206479]
 	"ei" {460,7} [cy] adj :her: [202228]
+	"mynd" {460,7} [cy] v 2s pres :go: [32116]
 "<ól>"
 	"ól" {460,8} [cy] unk
 "<Robert>"
@@ -5841,14 +5670,11 @@
 "<.>"
 
 "<na>"
-	"na" {461,1} [cy] conj :(n)or: [207110]
-	"na" {461,1} [cy] conj :than: [205467]
 	"na" {461,1} [cy] prt.neg :neg: [198802]
-	"da" {461,1} [cy] adj :good: [208568] + nm
 "<be>"
 	"be" {461,2} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {461,3} [cy] unk
+	"bod" {461,3} [cy] v 3s pres :be: [209338]
 "<enw>"
 	"enw" {461,4} [cy] n m sg :name: [208678]
 "<yr>"
@@ -5890,9 +5716,9 @@
 "<ah>"
 	"ah" {465,1} [0] ah
 "<dw>"
-	"dw" {465,2} [cy] unk
+	"bod" {465,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {465,3} [cy] prep :to: [202346]
+	"fi" {465,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {465,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -5928,7 +5754,7 @@
 "<oh>"
 	"oh" {468,1} [0] oh
 "<ia>"
-	"ia" {468,2} [cy] unk
+	"ia" {468,2} [cy] adv :yes: [209325]
 "<mae>"
 	"bod" {468,3} [cy] v 3s pres :be: [59494]
 "<Robert>"
@@ -5945,9 +5771,7 @@
 "<lot>"
 	"lot" {468,9} [cy] unk
 "<o>"
-	"fo" {468,10} [cy] pron m 3s spoken :he: [209264]
 	"o" {468,10} [cy] prep :from: [203721]
-	"o" {468,10} [cy] prep :of: [203019]
 "<gwmni>"
 	"cwmni" {468,11} [cy] n m sg :company: [206440] + sm
 "<i>"
@@ -5957,9 +5781,9 @@
 "<.>"
 
 "<yndyn>"
-	"yndyn" {469,1} [cy] unk
+	"bod" {469,1} [cy] v 3p pres.emph :be: [209361]
 "<yndyn>"
-	"yndyn" {469,2} [cy] unk
+	"bod" {469,2} [cy] v 3p pres.emph :be: [209361]
 "<.>"
 
 "<ond>"
@@ -5973,7 +5797,7 @@
 "<allan>"
 	"allan" {470,5} [cy] adv :out: [203329]
 "<i>"
-	"i" {470,6} [cy] prep :to: [202346]
+	"fi" {470,6} [cy] pron 1s :I: [204322]
 "<weithio>"
 	"gweithio" {470,7} [cy] v infin :work: [198783] + sm
 "<ar>"
@@ -5997,7 +5821,7 @@
 "<fo>"
 	"fo" {470,17} [cy] pron m 3s :he: [196922]
 "<i>"
-	"i" {470,18} [cy] pron 1s :I: [204322]
+	"fi" {470,18} [cy] pron 1s :I: [204322]
 "<godi>"
 	"codi" {470,19} [cy] v infin :lift: [206523] + sm
 "<pridd>"
@@ -6005,7 +5829,7 @@
 "<ar>"
 	"ar" {470,21} [cy] prep :on: [204320]
 "<i_fyny>"
-	"i_fyny" {470,22} [cy] unk
+	"i_fyny" {470,22} [cy] adv :up: [209309]
 "<fel>"
 	"fel" {470,23} [cy] conj :like: [208807]
 "<yna>"
@@ -6045,7 +5869,7 @@
 "<allan>"
 	"allan" {473,6} [cy] adv :out: [203329]
 "<i>"
-	"i" {473,7} [cy] prep :to: [202346]
+	"fi" {473,7} [cy] pron 1s :I: [204322]
 "<Sunica>"
 	"Sunica" {473,8} [es] name
 "<neu>"
@@ -6053,9 +5877,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {474,1} [cy] unk
+	"bod" {474,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {474,2} [cy] prep :to: [202346]
+	"fi" {474,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {474,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -6091,7 +5915,8 @@
 "<aros>"
 	"aros" {476,6} [cy] v infin :wait: [204138]
 "<ei>"
-	"mynd" {476,7} [cy] v 2s pres :go: [32116]
+	"ei" {476,7} [cy] adj :his: [206479]
+	"ei" {476,7} [cy] adj :her: [202228]
 "<hunan>"
 	"hunan" {476,8} [cy] pron :self: [197341]
 "<amser>"
@@ -6115,6 +5940,7 @@
 "<ei>"
 	"ei" {477,6} [cy] adj :his: [206479]
 	"ei" {477,6} [cy] adj :her: [202228]
+	"mynd" {477,6} [cy] v 2s pres :go: [32116]
 "<gartef>"
 	"gartef" {477,7} [cy] unk
 "<o>"
@@ -6134,10 +5960,7 @@
 "<.>"
 
 "<na>"
-	"na" {478,1} [cy] conj :(n)or: [207110]
-	"na" {478,1} [cy] conj :than: [205467]
 	"na" {478,1} [cy] prt.neg :neg: [198802]
-	"da" {478,1} [cy] adj :good: [208568] + nm
 "<mae>"
 	"bod" {478,2} [cy] v 3s pres :be: [59494]
 "<o>"
@@ -6157,7 +5980,7 @@
 "<.>"
 
 "<yndy>"
-	"yndy" {479,1} [cy] unk
+	"bod" {479,1} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<ti>"
@@ -6195,20 +6018,18 @@
 "<?>"
 
 "<ia>"
-	"ia" {481,1} [cy] unk
+	"ia" {481,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<mae>"
 	"bod" {482,1} [cy] v 3s pres :be: [59494]
 "<gen>"
-	"gen" {482,2} [cy] unk
+	"gan" {482,2} [cy] prep spoken :by: [209363]
 "<i>"
 	"i" {482,3} [cy] prep :to: [202346]
 "<lun>"
 	"llun" {482,4} [cy] n m sg :picture: [203575] + sm
 "<o>"
-	"fo" {482,5} [cy] pron m 3s spoken :he: [209264]
-	"o" {482,5} [cy] prep :from: [203721]
 	"o" {482,5} [cy] prep :of: [203019]
 "<nhw>"
 	"nhw" {482,6} [cy] pron 3p :they: [207491]
@@ -6221,9 +6042,8 @@
 "<.>"
 
 "<paid>"
-	"paid" {483,1} [cy] unk
+	"peidio" {483,1} [cy] v 2s imper :stop: [209329]
 "<â>"
-	"â" {483,2} [cy] conj :as: [197357]
 	"â" {483,2} [cy] prep :with: [208783]
 "<deud>"
 	"dweud" {483,3} [cy] v infin spoken :say: [209262]
@@ -6232,11 +6052,9 @@
 "<a>"
 	"a" {484,1} [cy] conj :and: [203303]
 "<rei>"
-	"rei" {484,2} [cy] unk
+	"rhai" {484,2} [cy] adj spoken :some: [209354]
 "<o>"
-	"fo" {484,3} [cy] pron m 3s spoken :he: [209264]
 	"o" {484,3} [cy] prep :from: [203721]
-	"o" {484,3} [cy] prep :of: [203019]
 "<blynyddoedd>"
 	"blwyddyn" {484,4} [cy] n f pl :years: [207922]
 "<oedd>"
@@ -6260,17 +6078,17 @@
 "<ryw>"
 	"rhyw" {485,6} [cy] adj :some: [202560] + sm
 "<naw>"
-	"naw" {485,7} [cy] adj :nine: [207027]
+	"naw" {485,7} [cy] num :nine: [207027]
 "<siŵr>"
 	"siŵr" {485,8} [cy] adj :sure: [204591]
 "<neu>"
 	"neu" {485,9} [cy] conj :or: [203322]
 "<wyth>"
-	"wyth" {485,10} [cy] adj :eight: [201231]
+	"wyth" {485,10} [cy] num :eight: [201231]
 "<neu>"
 	"neu" {485,11} [cy] conj :or: [203322]
 "<naw>"
-	"naw" {485,12} [cy] adj :nine: [207027]
+	"naw" {485,12} [cy] num :nine: [207027]
 "<.>"
 
 "<a>"
@@ -6286,13 +6104,13 @@
 "<ifanc>"
 	"ifanc" {486,6} [cy] adj :young: [208980]
 "<i_gyd>"
-	"i_gyd" {486,7} [cy] unk
+	"i_gyd" {486,7} [cy] adv :all: [209310]
 "<.>"
 
 "<dw>"
-	"dw" {487,1} [cy] unk
+	"bod" {487,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {487,2} [cy] prep :to: [202346]
+	"fi" {487,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {487,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -6304,7 +6122,7 @@
 "<yr>"
 	"y" {487,7} [cy] det.def :the: [208948]
 "<un>"
-	"un" {487,8} [cy] adj :one: [202310]
+	"un" {487,8} [cy] num :one: [202310]
 "<farwodd>"
 	"marw" {487,9} [cy] v 3s past :die: [209266] + sm
 "<Jaime>"
@@ -6326,11 +6144,11 @@
 "<i>"
 	"i" {489,2} [cy] prep :to: [202346]
 "<ddechrau>"
-	"dechrau" {489,3} [cy] v infin :begin: [204200] + sm
+	"dechrau" {489,3} [cy] n m sg :beginning: [207976] + sm
 "<dw>"
-	"dw" {489,4} [cy] unk
+	"bod" {489,4} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {489,5} [cy] prep :to: [202346]
+	"fi" {489,5} [cy] pron 1s :I: [204322]
 "<meddwl>"
 	"meddwl" {489,6} [cy] v infin :think: [205499]
 "<.>"
@@ -6357,7 +6175,7 @@
 "<oeddwn>"
 	"bod" {491,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {491,3} [cy] pron 1s :I: [204322]
+	"fi" {491,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {491,4} [cy] prep :in: [204430]
 "<Gymru>"
@@ -6375,9 +6193,9 @@
 "<ond>"
 	"ond" {492,1} [cy] conj :but: [201902]
 "<ges>"
-	"ges" {492,2} [cy] unk
+	"cael" {492,2} [cy] v 1s past spoken :get: [209364] + sm
 "<i>"
-	"i" {492,3} [cy] prep :to: [202346]
+	"fi" {492,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {492,4} [cy] adv :not: [204176] + sm
 "<gwybod>"
@@ -6399,7 +6217,7 @@
 "<Chester>"
 	"Chester" {493,3} [en] name
 "<ddaru>"
-	"ddaru" {493,4} [cy] unk
+	"ddaru" {493,4} [cy] v 123sp past :did: [209285]
 "<ni>"
 	"ni" {493,5} [cy] pron 1p :we: [207621]
 "<gyrraedd>"
@@ -6407,7 +6225,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {494,1} [cy] unk
+	"ia" {494,1} [cy] adv :yes: [209325]
 "<aros>"
 	"aros" {494,2} [cy] v infin :wait: [204138]
 "<di>"
@@ -6429,7 +6247,7 @@
 "<Caer>"
 	"Caer" {496,1} [cy] name
 "<ia>"
-	"ia" {496,2} [cy] unk
+	"ia" {496,2} [cy] adv :yes: [209325]
 "<?>"
 
 "<Caer>"
@@ -6464,7 +6282,7 @@
 "<i>"
 	"i" {501,9} [cy] prep :to: [202346]
 "<gwrdd>"
-	"cwrdd" {501,10} [cy] v infin :meet: [209099] + sm
+	"cwrdd" {501,10} [cy] n m sg :meeting: [204436] + sm
 "<hynny>"
 	"hynny" {501,11} [cy] pron :that: [208539]
 "<efo>"
@@ -6500,25 +6318,24 @@
 "<ond>"
 	"ond" {504,1} [cy] conj :but: [201902]
 "<doedd>"
-	"doedd" {504,2} [cy] unk
+	"bod" {504,2} [cy] v 3s imperf.neg :be: [209291]
 "<o>"
 	"fo" {504,3} [cy] pron m 3s spoken :he: [209264]
-	"o" {504,3} [cy] prep :from: [203721]
-	"o" {504,3} [cy] prep :of: [203019]
 "<ddim>"
-	"dim" {504,4} [cy] n m sg :nothing: [208789] + sm
+	"dim" {504,4} [cy] adv :not: [204176] + sm
 "<posib>"
 	"posib" {504,5} [cy] adj :possible: [203023]
 "<meddwl>"
+	"meddwl" {504,6} [cy] n m sg :thought: [207395]
 	"meddwl" {504,6} [cy] v 2s imper :think: [36814]
+	"meddwl" {504,6} [cy] v 3s pres :think: [59542]
+	"meddwl" {504,6} [cy] v infin :think: [205499]
 "<am>"
 	"am" {504,7} [cy] prep :for: [201919]
 "<dri>"
-	"tri" {504,8} [cy] adj :three: [205265] + sm
+	"tri" {504,8} [cy] num m :three: [205265] + sm
 "<o>"
-	"fo" {504,9} [cy] pron m 3s spoken :he: [209264]
 	"o" {504,9} [cy] prep :from: [203721]
-	"o" {504,9} [cy] prep :of: [203019]
 "<bopeth>"
 	"popeth" {504,10} [cy] n m sg :everything: [197042] + sm
 "<oedd>"
@@ -6582,17 +6399,18 @@
 "<oedd>"
 	"bod" {509,3} [cy] v 3s imperf :be: [74724]
 "<hynna>"
-	"hynna" {509,4} [cy] unk
+	"hwn" {509,4} [cy] dem spoken :that: [209349]
 "<o>"
 	"fo" {509,5} [cy] pron m 3s spoken :he: [209264]
 	"o" {509,5} [cy] prep :from: [203721]
 	"o" {509,5} [cy] prep :of: [203019]
+	"go" {509,5} [cy] adv :rather: [209320] + sm
 "<.>"
 
 "<Mold>"
 	"Mold" {510,1} [en] name
 "<ia>"
-	"ia" {510,2} [cy] unk
+	"ia" {510,2} [cy] adv :yes: [209325]
 "<?>"
 
 "<eh>"
@@ -6610,25 +6428,23 @@
 "<.>"
 
 "<ia>"
-	"ia" {514,1} [cy] unk
+	"ia" {514,1} [cy] adv :yes: [209325]
 "<dw>"
-	"dw" {514,2} [cy] unk
+	"bod" {514,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {514,3} [cy] prep :to: [202346]
+	"fi" {514,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {514,4} [cy] stat :stative: [200654]
 "<meddwl>"
 	"meddwl" {514,5} [cy] v infin :think: [205499]
 "<mai>"
-	"bod" {514,6} [cy] v 3s subj.past :be: [75846] + nm
+	"bod" {514,6} [cy] conj focus :that_is: [209379]
 "<Mold>"
 	"Mold" {514,7} [en] name
 "<ydy>"
-	"ydy" {514,8} [cy] unk
+	"bod" {514,8} [cy] v 3s pres :be: [209338]
 "<o>"
 	"fo" {514,9} [cy] pron m 3s spoken :he: [209264]
-	"o" {514,9} [cy] prep :from: [203721]
-	"o" {514,9} [cy] prep :of: [203019]
 "<?>"
 
 "<.>"
@@ -6636,25 +6452,23 @@
 "<er>"
 	"er" {516,1} [0] er
 "<o>"
-	"fo" {516,2} [cy] pron m 3s spoken :he: [209264]
 	"o" {516,2} [cy] prep :from: [203721]
-	"o" {516,2} [cy] prep :of: [203019]
 "<fan>"
 	"man" {516,3} [cy] n mf sg :place: [208816] + sm
 "<hynny>"
 	"hynny" {516,4} [cy] pron :that: [208539]
 "<dw>"
-	"dw" {516,5} [cy] unk
+	"bod" {516,5} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {516,6} [cy] prep :to: [202346]
+	"fi" {516,6} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {516,7} [cy] stat :stative: [200654]
 "<credu>"
 	"credu" {516,8} [cy] v infin :believe: [199294]
 "<mai>"
-	"bod" {516,9} [cy] v 3s subj.past :be: [75846] + nm
+	"bod" {516,9} [cy] conj focus :that_is: [209379]
 "<o>"
-	"fo" {516,10} [cy] pron m 3s spoken :he: [209264]
+	"o" {516,10} [cy] prep :from: [203721]
 "<fan>"
 	"man" {516,11} [cy] n mf sg :place: [208816] + sm
 "<hynny>"
@@ -6674,16 +6488,13 @@
 "<hi>"
 	"hi" {518,2} [cy] pron f 3s :she: [203039]
 "<ddim>"
-	"dim" {518,3} [cy] n m sg :nothing: [208789] + sm
 	"dim" {518,3} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {518,4} [cy] stat :stative: [200654]
 "<bell>"
 	"pell" {518,5} [cy] adj :far: [198317] + sm
 "<o>"
-	"fo" {518,6} [cy] pron m 3s spoken :he: [209264]
 	"o" {518,6} [cy] prep :from: [203721]
-	"o" {518,6} [cy] prep :of: [203019]
 "<gwbl>"
 	"cwbl" {518,7} [cy] adj :all: [204334] + sm
 "<o>"
@@ -6717,7 +6528,7 @@
 "<pam>"
 	"pam" {520,2} [cy] adv :why?: [207502]
 "<ia>"
-	"ia" {520,3} [cy] unk
+	"ia" {520,3} [cy] adv :yes: [209325]
 "<.>"
 
 "<Llangollen>"
@@ -6725,7 +6536,7 @@
 "<i>"
 	"i" {521,2} [cy] prep :to: [202346]
 "<ddechrau>"
-	"dechrau" {521,3} [cy] v infin :begin: [204200] + sm
+	"dechrau" {521,3} [cy] n m sg :beginning: [207976] + sm
 "<neu>"
 	"neu" {521,4} [cy] conj :or: [203322]
 "<Llangollen>"
@@ -6739,11 +6550,12 @@
 "<.>"
 
 "<ia>"
-	"ia" {522,1} [cy] unk
+	"ia" {522,1} [cy] adv :yes: [209325]
 "<nesa>"
 	"nesu" {522,2} [cy] v 2s imper :approach: [36944]
+	"nesu" {522,2} [cy] v 3s pres :approach: [59669]
 "<i_lawr>"
-	"i_lawr" {522,3} [cy] unk
+	"i_lawr" {522,3} [cy] adv :down: [209311]
 "<.>"
 
 "<.>"
@@ -6751,7 +6563,7 @@
 "<syth>"
 	"syth" {524,1} [cy] adj :straight: [205247]
 "<i_lawr>"
-	"i_lawr" {524,2} [cy] unk
+	"i_lawr" {524,2} [cy] adv :down: [209311]
 "<.>"
 
 "<a>"
@@ -6761,7 +6573,7 @@
 "<oeddwn>"
 	"bod" {525,3} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {525,4} [cy] pron 1s :I: [204322]
+	"fi" {525,4} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {525,5} [cy] stat :stative: [200654]
 "<gweld>"
@@ -6769,9 +6581,7 @@
 "<Liverpool>"
 	"Liverpool" {525,7} [en] name
 "<o>"
-	"fo" {525,8} [cy] pron m 3s spoken :he: [209264]
 	"o" {525,8} [cy] prep :from: [203721]
-	"o" {525,8} [cy] prep :of: [203019]
 "<bell>"
 	"pell" {525,9} [cy] adj :far: [198317] + sm
 "<.>"
@@ -6779,11 +6589,11 @@
 "<ond>"
 	"ond" {526,1} [cy] conj :but: [201902]
 "<fues>"
-	"fues" {526,2} [cy] unk
+	"bod" {526,2} [cy] v 2s past spoken :be: [209300] + sm
 "<i>"
-	"i" {526,3} [cy] prep :to: [202346]
+	"fi" {526,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {526,4} [cy] n m sg :nothing: [208789] + sm
+	"dim" {526,4} [cy] adv :not: [204176] + sm
 "<yna>"
 	"yna" {526,5} [cy] adv :there: [208848]
 "<.>"
@@ -6791,9 +6601,9 @@
 "<mi>"
 	"mi" {527,1} [cy] prt.aff :aff: [200111]
 "<fues>"
-	"fues" {527,2} [cy] unk
+	"bod" {527,2} [cy] v 2s past spoken :be: [209300] + sm
 "<i>"
-	"i" {527,3} [cy] prep :to: [202346]
+	"fi" {527,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {527,4} [cy] stat :stative: [200654]
 "<agos>"
@@ -6801,9 +6611,9 @@
 "<iawn>"
 	"iawn" {527,6} [cy] adv :very: [203775]
 "<fues>"
-	"fues" {527,7} [cy] unk
+	"bod" {527,7} [cy] v 2s past spoken :be: [209300] + sm
 "<i>"
-	"i" {527,8} [cy] prep :to: [202346]
+	"fi" {527,8} [cy] pron 1s :I: [204322]
 "<yna>"
 	"yna" {527,9} [cy] adv :there: [208848]
 "<.>"
@@ -6829,7 +6639,7 @@
 "<?>"
 
 "<do>"
-	"toi" {530,1} [cy] v 2s imper :roof: [37620] + sm
+	"do" {530,1} [cy] adv past :yes: [209369]
 "<mi>"
 	"mi" {530,2} [cy] prt.aff :aff: [200111]
 "<oedd>"
@@ -6843,7 +6653,7 @@
 "<i>"
 	"i" {530,7} [cy] prep :to: [202346]
 "<dro>"
-	"troi" {530,8} [cy] v 2s imper :turn: [29955] + sm
+	"tro" {530,8} [cy] n m sg :turn: [199168] + sm
 "<.>"
 
 "<oh>"
@@ -6855,7 +6665,7 @@
 "<ddoth>"
 	"dod" {532,2} [cy] v 3s past spoken :come: [209268] + sm
 "<yn_ôl>"
-	"yn_ôl" {532,3} [cy] unk
+	"ôl" {532,3} [cy] adv :back: [209344]
 "<hyd>"
 	"hyd" {532,4} [cy] n m sg :length: [208306]
 "<yn>"
@@ -6904,19 +6714,19 @@
 "<dillad>"
 	"dilledyn" {534,7} [cy] n m pl :clothes: [198600]
 "<i_gyd>"
-	"i_gyd" {534,8} [cy] unk
+	"i_gyd" {534,8} [cy] adv :all: [209310]
 "<yn_do>"
-	"yn_do" {534,9} [cy] unk
+	"bod" {534,9} [cy] im :wasn''t_it: [209341]
 "<?>"
 
 "<oh>"
 	"oh" {535,1} [0] oh
 "<do>"
-	"toi" {535,2} [cy] v 2s imper :roof: [37620] + sm
+	"do" {535,2} [cy] adv past :yes: [209369]
 "<?>"
 
 "<dw>"
-	"dw" {536,1} [cy] unk
+	"bod" {536,1} [cy] v 1s pres spoken :be: [209292]
 "<ddim>"
 	"dim" {536,2} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -6936,17 +6746,17 @@
 "<hi>"
 	"hi" {537,4} [cy] pron f 3s :she: [203039]
 "<yn_ôl>"
-	"yn_ôl" {537,5} [cy] unk
+	"ôl" {537,5} [cy] adv :back: [209344]
 "<wedyn>"
 	"wedyn" {537,6} [cy] adv :afterwards: [209122]
 "<chwarae>"
-	"chwarae" {537,7} [cy] v 2s imper :play: [35030]
+	"chwarae" {537,7} [cy] n m sg :game: [200799]
 "<teg>"
 	"teg" {537,8} [cy] adj :fair: [201727]
 "<.>"
 
 "<ia>"
-	"ia" {538,1} [cy] unk
+	"ia" {538,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<aros>"
@@ -6964,7 +6774,7 @@
 "<hi>"
 	"hi" {540,3} [cy] pron f 3s :she: [203039]
 "<gartre>"
-	"gartre" {540,4} [cy] unk
+	"cartref" {540,4} [cy] n m sg :home: [209277] + sm
 "<bach>"
 	"bach" {540,5} [cy] adj :small: [208881]
 "<neis.>"
@@ -6973,7 +6783,7 @@
 "<mi>"
 	"mi" {541,2} [cy] prt.aff :aff: [200111]
 "<aethon>"
-	"aethon" {541,3} [cy] unk
+	"mynd" {541,3} [cy] v 3p past spoken :go: [209272]
 "<ni>"
 	"ni" {541,4} [cy] pron 1p :we: [207621]
 "<i>"
@@ -7022,12 +6832,11 @@
 "<ffordd>"
 	"ffordd" {545,7} [cy] n f sg :road: [196881]
 "<lawr>"
-	"llawr" {545,8} [cy] n m sg :floor: [209133] + sm
-	"llawr" {545,8} [cy] n m sg :ground: [196973] + sm
+	"lawr" {545,8} [cy] adv :down: [209380]
 "<yma>"
 	"yma" {545,9} [cy] adv :here: [201408]
 "<ynde>"
-	"ynde" {545,10} [cy] unk
+	"bod" {545,10} [cy] im :isn''t_it: [209358]
 "<.>"
 
 "<ac>"
@@ -7039,7 +6848,6 @@
 "<hi>"
 	"hi" {546,4} [cy] pron f 3s :she: [203039]
 "<ddim>"
-	"dim" {546,5} [cy] n m sg :nothing: [208789] + sm
 	"dim" {546,5} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {546,6} [cy] stat :stative: [200654]
@@ -7108,7 +6916,7 @@
 "<oh>"
 	"oh" {549,1} [0] oh
 "<beryg>"
-	"beryg" {549,2} [cy] unk
+	"perygl" {549,2} [cy] n m sg :danger: [209276] + sm
 "<!>"
 
 "<.>"
@@ -7116,7 +6924,7 @@
 "<oeddwn>"
 	"bod" {551,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {551,2} [cy] pron 1s :I: [204322]
+	"fi" {551,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {551,3} [cy] stat :stative: [200654]
 "<diolch>"
@@ -7125,21 +6933,20 @@
 	"bod" {551,5} [cy] v infin :be: [205519]
 "<fi>"
 	"fi" {551,6} [cy] pron 1s :I: [201450]
-	"mi" {551,6} [cy] prt.aff :aff: [200111] + sm
 "<wedi>"
 	"wedi" {551,7} [cy] prep :after: [207472]
 "<cyrraedd>"
 	"cyrraedd" {551,8} [cy] v infin :arrive: [196968]
 "<adre>"
-	"adre" {551,9} [cy] adv :homewards: [201958]
+	"adre" {551,9} [cy] adv :home: [201958]
 "<pan>"
 	"pan" {551,10} [cy] conj :when: [207933]
 "<cyrraeson>"
-	"cyrraeson" {551,11} [cy] unk
+	"cyrraedd" {551,11} [cy] v 13p past spoken :arrive: [209280]
 "<ni>"
 	"ni" {551,12} [cy] pron 1p :we: [207621]
 "<adre>"
-	"adre" {551,13} [cy] adv :homewards: [201958]
+	"adre" {551,13} [cy] adv :home: [201958]
 "<yn>"
 	"yn" {551,14} [cy] prep :in: [204430]
 "<y>"
@@ -7162,7 +6969,7 @@
 	"yn" {553,5} [cy] stat :stative: [200654]
 	"yn" {553,5} [cy] prep :in: [204430]
 "<nos>"
-	"mynd" {553,6} [cy] v 2s imper :go: [35901] + nm
+	"nos" {553,6} [cy] n f sg :night: [200155]
 "<.>"
 
 "<mynd>"
@@ -7171,9 +6978,9 @@
 	"yn" {554,2} [cy] stat :stative: [200654]
 	"yn" {554,2} [cy] prep :in: [204430]
 "<nos>"
-	"mynd" {554,3} [cy] v 2s imper :go: [35901] + nm
+	"nos" {554,3} [cy] n f sg :night: [200155]
 "<i>"
-	"i" {554,4} [cy] pron 1s :I: [204322]
+	"i" {554,4} [cy] prep :to: [202346]
 "<Lerpwl>"
 	"Lerpwl" {554,5} [cy] name
 "<.>"
@@ -7239,10 +7046,7 @@
 "<?>"
 
 "<na>"
-	"na" {562,1} [cy] conj :(n)or: [207110]
-	"na" {562,1} [cy] conj :than: [205467]
 	"na" {562,1} [cy] prt.neg :neg: [198802]
-	"da" {562,1} [cy] adj :good: [208568] + nm
 "<!>"
 
 "<Carys>"
@@ -7260,9 +7064,9 @@
 "<ah>"
 	"ah" {564,1} [0] ah
 "<dw>"
-	"dw" {564,2} [cy] unk
+	"bod" {564,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {564,3} [cy] prep :to: [202346]
+	"fi" {564,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {564,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -7306,7 +7110,7 @@
 "<oeddwn>"
 	"bod" {568,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {568,3} [cy] pron 1s :I: [204322]
+	"fi" {568,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {568,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -7342,13 +7146,15 @@
 "<yr>"
 	"y" {571,6} [cy] det.def :the: [208948]
 "<un>"
-	"un" {571,7} [cy] adj :one: [202310]
+	"un" {571,7} [cy] num :one: [202310]
 "<ysgol>"
 	"ysgol" {571,8} [cy] n f sg :school: [198238]
 "<â>"
-	"mynd" {571,9} [cy] v 3s pres :go: [56973]
+	"â" {571,9} [cy] conj :as: [197357]
 "<fi>"
 	"fi" {571,10} [cy] pron 1s :I: [201450]
+	"mi" {571,10} [cy] prt.aff :aff: [200111] + sm
+	"mi" {571,10} [cy] pron.obj 1s :me: [209376] + sm
 "<yn>"
 	"yn" {571,11} [cy] prep :in: [204430]
 "<Trelew>"
@@ -7356,7 +7162,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {572,1} [cy] unk
+	"ia" {572,1} [cy] adv :yes: [209325]
 "<a>"
 	"a" {572,2} [cy] conj :and: [203303]
 "<wedyn>"
@@ -7394,7 +7200,7 @@
 "<oeddwn>"
 	"bod" {573,6} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {573,7} [cy] pron 1s :I: [204322]
+	"fi" {573,7} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {573,8} [cy] stat :stative: [200654]
 "<dysgu>"
@@ -7431,16 +7237,15 @@
 "<oh>"
 	"oh" {577,1} [0] oh
 "<paid>"
-	"paid" {577,2} [cy] unk
+	"peidio" {577,2} [cy] v 2s imper :stop: [209329]
 "<â>"
-	"â" {577,3} [cy] conj :as: [197357]
 	"â" {577,3} [cy] prep :with: [208783]
 "<deud>"
 	"dweud" {577,4} [cy] v infin spoken :say: [209262]
 "<.>"
 
 "<ia>"
-	"ia" {578,1} [cy] unk
+	"ia" {578,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<oedd>"
@@ -7472,15 +7277,11 @@
 "<dipyn>"
 	"tipyn" {581,2} [cy] n m sg :little bit: [199901] + sm
 "<mwy>"
-	"mwy" {581,3} [cy] adj :bigger: [201716]
+	"mawr" {581,3} [cy] adj.comp :bigger: [201716]
 "<na>"
-	"na" {581,4} [cy] conj :(n)or: [207110]
 	"na" {581,4} [cy] conj :than: [205467]
-	"na" {581,4} [cy] prt.neg :neg: [198802]
-	"da" {581,4} [cy] adj :good: [208568] + nm
 "<fi>"
 	"fi" {581,5} [cy] pron 1s :I: [201450]
-	"mi" {581,5} [cy] prt.aff :aff: [200111] + sm
 "<.>"
 
 "<aha>"
@@ -7495,12 +7296,9 @@
 	"Bobby" {583,1} [0] name
 "<yn>"
 	"yn" {583,2} [cy] stat :stative: [200654]
-	"yn" {583,2} [cy] prep :in: [204430]
 "<glamp>"
-	"glamp" {583,3} [cy] unk
+	"clamp" {583,3} [cy] n m sg :pile: [209318] + sm
 "<o>"
-	"fo" {583,4} [cy] pron m 3s spoken :he: [209264]
-	"o" {583,4} [cy] prep :from: [203721]
 	"o" {583,4} [cy] prep :of: [203019]
 "<hogan>"
 	"hogi" {583,5} [cy] v 3p fut spoken :whet: [160619]
@@ -7509,19 +7307,19 @@
 "<a>"
 	"a" {583,7} [cy] conj :and: [203303]
 "<gry>"
-	"gry" {583,8} [cy] unk
+	"cryf" {583,8} [cy] adj :strong: [209303] + sm
 "<ynde>"
-	"ynde" {583,9} [cy] unk
+	"bod" {583,9} [cy] im :isn''t_it: [209358]
 "<?>"
 
 "<ie>"
 	"ie" {584,1} [cy] adv :yes: [208464]
 "<dw>"
-	"dw" {584,2} [cy] unk
+	"bod" {584,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {584,3} [cy] prep :to: [202346]
+	"fi" {584,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {584,4} [cy] n m sg :nothing: [208789] + sm
+	"dim" {584,4} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {584,5} [cy] stat :stative: [200654]
 "<siŵr>"
@@ -7534,21 +7332,16 @@
 	"hi" {584,9} [cy] pron f 3s :she: [203039]
 "<yn>"
 	"yn" {584,10} [cy] stat :stative: [200654]
-	"yn" {584,10} [cy] prep :in: [204430]
 "<hynnach>"
-	"hynnach" {584,11} [cy] unk
+	"hen" {584,11} [cy] adj.comp nstan :older: [209350]
 "<na>"
-	"na" {584,12} [cy] conj :(n)or: [207110]
 	"na" {584,12} [cy] conj :than: [205467]
-	"na" {584,12} [cy] prt.neg :neg: [198802]
-	"da" {584,12} [cy] adj :good: [208568] + nm
 "<fi>"
-	"fi" {584,13} [cy] pron 1s :I: [201450]
 	"mi" {584,13} [cy] prt.aff :aff: [200111] + sm
 "<dw>"
-	"dw" {584,14} [cy] unk
+	"bod" {584,14} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {584,15} [cy] prep :to: [202346]
+	"fi" {584,15} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {584,16} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -7560,14 +7353,11 @@
 "<um>"
 	"um" {585,1} [0] um
 "<na>"
-	"na" {585,2} [cy] conj :(n)or: [207110]
-	"na" {585,2} [cy] conj :than: [205467]
 	"na" {585,2} [cy] prt.neg :neg: [198802]
-	"da" {585,2} [cy] adj :good: [208568] + nm
 "<dw>"
-	"dw" {585,3} [cy] unk
+	"bod" {585,3} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {585,4} [cy] prep :to: [202346]
+	"fi" {585,4} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {585,5} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -7575,25 +7365,13 @@
 "<credu>"
 	"credu" {585,7} [cy] v infin :believe: [199294]
 "<na>"
-	"na" {585,8} [cy] conj :(n)or: [207110]
-	"na" {585,8} [cy] conj :than: [205467]
 	"na" {585,8} [cy] prt.neg :neg: [198802]
-	"da" {585,8} [cy] adj :good: [208568] + nm
 "<na>"
-	"na" {585,9} [cy] conj :(n)or: [207110]
-	"na" {585,9} [cy] conj :than: [205467]
 	"na" {585,9} [cy] prt.neg :neg: [198802]
-	"da" {585,9} [cy] adj :good: [208568] + nm
 "<na>"
-	"na" {585,10} [cy] conj :(n)or: [207110]
-	"na" {585,10} [cy] conj :than: [205467]
 	"na" {585,10} [cy] prt.neg :neg: [198802]
-	"da" {585,10} [cy] adj :good: [208568] + nm
 "<na>"
-	"na" {585,11} [cy] conj :(n)or: [207110]
-	"na" {585,11} [cy] conj :than: [205467]
 	"na" {585,11} [cy] prt.neg :neg: [198802]
-	"da" {585,11} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<ychydig>"
@@ -7602,25 +7380,22 @@
 	"bach" {586,2} [cy] adj :small: [208881]
 "<yn>"
 	"yn" {586,3} [cy] stat :stative: [200654]
-	"yn" {586,3} [cy] prep :in: [204430]
 "<iengach>"
-	"iengach" {586,4} [cy] unk
+	"ifanc" {586,4} [cy] adj.comp :younger: [209308]
 "<.>"
 
 "<ia>"
-	"ia" {587,1} [cy] unk
+	"ia" {587,1} [cy] adv :yes: [209325]
 "<tua>"
 	"tua" {587,2} [cy] prep :towards: [208734]
-	"tua" {587,2} [cy] prep :about: [203864]
-	"tua" {587,2} [cy] prep :approximately: [201695]
 "<oed>"
 	"oed" {587,3} [cy] n m sg :age: [199067]
 "<Angela>"
 	"Angela" {587,4} [0] name
 "<dw>"
-	"dw" {587,5} [cy] unk
+	"bod" {587,5} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {587,6} [cy] prep :to: [202346]
+	"fi" {587,6} [cy] pron 1s :I: [204322]
 "<meddwl>"
 	"meddwl" {587,7} [cy] v infin :think: [205499]
 "<.>"
@@ -7660,7 +7435,7 @@
 "<i>"
 	"i" {588,17} [cy] prep :to: [202346]
 "<fi>"
-	"mi" {588,18} [cy] prt.aff :aff: [200111] + sm
+	"fi" {588,18} [cy] pron 1s :I: [201450]
 "<fod>"
 	"bod" {588,19} [cy] v infin :be: [205519] + sm
 "<yna>"
@@ -7690,7 +7465,7 @@
 "<?>"
 
 "<ia>"
-	"ia" {592,1} [cy] unk
+	"ia" {592,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<oh>"
@@ -7700,10 +7475,7 @@
 "<oh>"
 	"oh" {594,1} [0] oh
 "<na>"
-	"na" {594,2} [cy] conj :(n)or: [207110]
-	"na" {594,2} [cy] conj :than: [205467]
 	"na" {594,2} [cy] prt.neg :neg: [198802]
-	"da" {594,2} [cy] adj :good: [208568] + nm
 "<mae>"
 	"bod" {594,3} [cy] v 3s pres :be: [59494]
 "<Robert>"
@@ -7711,8 +7483,7 @@
 "<yn>"
 	"yn" {594,5} [cy] stat :stative: [200654]
 "<llai>"
-	"llai" {594,6} [cy] adj :smaller: [208995]
-	"llai" {594,6} [cy] adj :less: [207941]
+	"bach" {594,6} [cy] adj.comp :smaller: [208995]
 "<ie>"
 	"ie" {594,7} [cy] adv :yes: [208464]
 "<?>"
@@ -7720,7 +7491,7 @@
 "<oeddwn>"
 	"bod" {595,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {595,2} [cy] pron 1s :I: [204322]
+	"fi" {595,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {595,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -7754,7 +7525,7 @@
 "<oeddwn>"
 	"bod" {597,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {597,2} [cy] pron 1s :I: [204322]
+	"fi" {597,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {597,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -7792,7 +7563,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {600,1} [cy] unk
+	"ia" {600,1} [cy] adv :yes: [209325]
 "<yn>"
 	"yn" {600,2} [cy] prep :in: [204430]
 "<Trelew>"
@@ -7800,7 +7571,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {601,1} [cy] unk
+	"ia" {601,1} [cy] adv :yes: [209325]
 "<achos>"
 	"achos" {601,2} [cy] n m sg :cause: [201189]
 "<ysgol>"
@@ -7824,11 +7595,11 @@
 "<a>"
 	"a" {601,12} [cy] conj :and: [203303]
 "<dada>"
-	"dada" {601,13} [cy] unk
+	"tad" {601,13} [cy] n m sg :Daddy: [209284]
 "<.>"
 
 "<ia>"
-	"ia" {602,1} [cy] unk
+	"ia" {602,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<oh>"
@@ -7837,11 +7608,10 @@
 	"dyna" {603,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {603,3} [cy] pron m 3s :he: [196922]
-	"mo" {603,3} [cy] adv :not: [202814] + sm
 "<yr>"
 	"y" {603,4} [cy] det.def :the: [208948]
 "<un>"
-	"un" {603,5} [cy] adj :one: [202310]
+	"un" {603,5} [cy] num :one: [202310]
 "<ysgol>"
 	"ysgol" {603,6} [cy] n f sg :school: [198238]
 "<.>"
@@ -7879,7 +7649,6 @@
 "<y>"
 	"y" {606,1} [cy] det.def :the: [204199]
 "<cyn>"
-	"cyn" {606,2} [cy] adj :as: [200712]
 	"cyn" {606,2} [cy] prep :before: [202058]
 "<Camwy>"
 	"Camwy" {606,3} [0] name
@@ -7904,7 +7673,7 @@
 "<?>"
 
 "<ia>"
-	"ia" {609,1} [cy] unk
+	"ia" {609,1} [cy] adv :yes: [209325]
 "<enw>"
 	"enw" {609,2} [cy] n m sg :name: [208678]
 "<arall>"
@@ -7933,7 +7702,6 @@
 	"dyna" {612,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {612,3} [cy] pron m 3s :he: [196922]
-	"mo" {612,3} [cy] adv :not: [202814] + sm
 "<!>"
 
 "<ysgol>"
@@ -7947,7 +7715,7 @@
 "<oedd>"
 	"bod" {614,1} [cy] v 3s imperf :be: [74724]
 "<dada>"
-	"dada" {614,2} [cy] unk
+	"tad" {614,2} [cy] n m sg :Daddy: [209284]
 "<yn>"
 	"yn" {614,3} [cy] stat :stative: [200654]
 "<mynd>"
@@ -8041,7 +7809,6 @@
 "<yr>"
 	"y" {619,10} [cy] det.def :the: [208948]
 "<ysgolion>"
-	"ysgol" {619,11} [cy] n f pl :ladders: [205752]
 	"ysgol" {619,11} [cy] n f pl :schools: [197589]
 "<yna>"
 	"yna" {619,12} [cy] adv :there: [208848]
@@ -8076,14 +7843,11 @@
 "<.>"
 
 "<na>"
-	"na" {622,1} [cy] conj :(n)or: [207110]
-	"na" {622,1} [cy] conj :than: [205467]
 	"na" {622,1} [cy] prt.neg :neg: [198802]
-	"da" {622,1} [cy] adj :good: [208568] + nm
 "<dw>"
-	"dw" {622,2} [cy] unk
+	"bod" {622,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {622,3} [cy] prep :to: [202346]
+	"fi" {622,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {622,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -8115,7 +7879,6 @@
 	"ysgol" {623,4} [cy] n f sg :school: [198238]
 "<da>"
 	"da" {623,5} [cy] adj :good: [208568]
-	"ta" {623,5} [cy] conj :or: [202096] + sm
 "<iawn>"
 	"iawn" {623,6} [cy] adv :very: [203775]
 "<.>"
@@ -8146,7 +7909,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {627,1} [cy] unk
+	"ia" {627,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<a>"
@@ -8158,19 +7921,18 @@
 "<peil>"
 	"peil" {628,4} [cy] unk
 "<go>"
-	"go" {628,5} [cy] unk
+	"go" {628,5} [cy] adv :rather: [209320]
 "<dda>"
 	"da" {628,6} [cy] adj :good: [208568] + sm
 "<o>"
 	"fo" {628,7} [cy] pron m 3s spoken :he: [209264]
 	"o" {628,7} [cy] prep :from: [203721]
 	"o" {628,7} [cy] prep :of: [203019]
+	"go" {628,7} [cy] adv :rather: [209320] + sm
 "<.>"
 
 "<o>"
-	"fo" {629,1} [cy] pron m 3s spoken :he: [209264]
 	"o" {629,1} [cy] prep :from: [203721]
-	"o" {629,1} [cy] prep :of: [203019]
 "<blant>"
 	"plentyn" {629,2} [cy] n m pl :children: [202234] + sm
 "<.>"
@@ -8200,21 +7962,21 @@
 "<oeddwn>"
 	"bod" {632,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {632,3} [cy] pron 1s :I: [204322]
+	"fi" {632,3} [cy] pron 1s :I: [204322]
 "<yna>"
 	"yna" {632,4} [cy] adv :there: [208848]
 "<pan>"
 	"pan" {632,5} [cy] conj :when: [207933]
 "<ges>"
-	"ges" {632,6} [cy] unk
+	"cael" {632,6} [cy] v 1s past spoken :get: [209364] + sm
 "<i>"
-	"i" {632,7} [cy] prep :to: [202346]
+	"fi" {632,7} [cy] pron 1s :I: [204322]
 "<.>"
 
 "<ges>"
-	"ges" {633,1} [cy] unk
+	"cael" {633,1} [cy] v 1s past spoken :get: [209364] + sm
 "<i>"
-	"i" {633,2} [cy] prep :to: [202346]
+	"fi" {633,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {633,3} [cy] stat :stative: [200654]
 "<yrru>"
@@ -8242,10 +8004,7 @@
 "<Gaiman>"
 	"Gaiman" {634,4} [cy] name
 "<na>"
-	"na" {634,5} [cy] conj :(n)or: [207110]
-	"na" {634,5} [cy] conj :than: [205467]
 	"na" {634,5} [cy] prt.neg :neg: [198802]
-	"da" {634,5} [cy] adj :good: [208568] + nm
 "<oedd>"
 	"bod" {634,6} [cy] v 3s imperf :be: [74724]
 "<mam>"
@@ -8255,7 +8014,6 @@
 "<aros>"
 	"aros" {634,9} [cy] v infin :wait: [204138]
 "<yn>"
-	"yn" {634,10} [cy] stat :stative: [200654]
 	"yn" {634,10} [cy] prep :in: [204430]
 "<lle>"
 	"lle" {634,11} [cy] n m sg :place: [197527]
@@ -8284,9 +8042,9 @@
 "<.>"
 
 "<ia>"
-	"ia" {636,1} [cy] unk
+	"ia" {636,1} [cy] adv :yes: [209325]
 "<ia>"
-	"ia" {636,2} [cy] unk
+	"ia" {636,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<a>"
@@ -8294,9 +8052,9 @@
 "<felly>"
 	"felly" {637,2} [cy] adv :so: [206323]
 "<dw>"
-	"dw" {637,3} [cy] unk
+	"bod" {637,3} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {637,4} [cy] prep :to: [202346]
+	"fi" {637,4} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {637,5} [cy] stat :stative: [200654]
 "<mynd>"
@@ -8308,7 +8066,7 @@
 "<y>"
 	"y" {637,9} [cy] det.def :the: [204199]
 "<ffwrn>"
-	"ffwrn" {637,10} [cy] unk
+	"ffwrn" {637,10} [cy] n f sg :oven: [209299]
 "<acw>"
 	"acw" {637,11} [cy] adv :over there: [208687]
 "<i>"
@@ -8316,7 +8074,7 @@
 "<.>"
 
 "<ia>"
-	"ia" {638,1} [cy] unk
+	"ia" {638,1} [cy] adv :yes: [209325]
 "<rhag>"
 	"rhag" {638,2} [cy] prep :from: [208685]
 "<ofn>"
@@ -8361,9 +8119,9 @@
 "<!>"
 
 "<basai>"
-	"basai" {642,1} [cy] unk
+	"bod" {642,1} [cy] v 3s pluperf spoken :be: [209297]
 "<i>"
-	"i" {642,2} [cy] prep :to: [202346]
+	"fi" {642,2} [cy] pron 1s :I: [204322]
 "<gael>"
 	"cael" {642,3} [cy] v infin :have: [204498] + sm
 "<rywbeth>"
@@ -8374,6 +8132,7 @@
 	"bwyta" {642,6} [cy] v infin :eat: [201128] + sm
 "<allan>"
 	"allan" {642,7} [cy] adv :out: [203329]
+	"gallu" {642,7} [cy] v 3p fut spoken :be_able: [160278] + sm
 "<!>"
 
 "<oh>"
@@ -8384,22 +8143,20 @@
 	"bod" {644,1} [cy] v 3s pres :be: [59494]
 "<yn>"
 	"yn" {644,2} [cy] stat :stative: [200654]
-	"yn" {644,2} [cy] prep :in: [204430]
 "<ogleuo>"
-	"ogleuo" {644,3} [cy] unk
+	"ogleuo" {644,3} [cy] v infin :smell: [209366]
 "<neis>"
 	"neis" {644,4} [cy] adj :nice: [207671]
 "<iawn>"
 	"iawn" {644,5} [cy] adv :very: [203775]
 "<dydy>"
-	"dydy" {644,6} [cy] unk
+	"bod" {644,6} [cy] v 3sp pres.neg spoken :be: [209293]
 "<?>"
 
 "<dyna>"
 	"dyna" {645,1} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {645,2} [cy] pron m 3s :he: [196922]
-	"mo" {645,2} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<oes>"
@@ -8417,16 +8174,17 @@
 "<â>"
 	"â" {647,4} [cy] conj :as: [197357]
 	"â" {647,4} [cy] prep :with: [208783]
+	"mynd" {647,4} [cy] v 3s pres :go: [56973]
 "<gorffen>"
 	"gorffen" {647,5} [cy] v infin :complete: [207586]
 "<?>"
 
 "<yndach>"
-	"yndach" {648,1} [cy] unk
+	"bod" {648,1} [cy] v 2p pres.emph spoken :be: [209356]
 "<ryw>"
 	"rhyw" {648,2} [cy] adj :some: [202560] + sm
 "<pum>"
-	"pum" {648,3} [cy] adj :five: [207869]
+	"pum" {648,3} [cy] num :five: [207869]
 "<munud>"
 	"munud" {648,4} [cy] n m sg :minute: [205181]
 "<.>"
@@ -8462,9 +8220,9 @@
 "<yma>"
 	"yma" {650,8} [cy] adv :here: [201408]
 "<dw>"
-	"dw" {650,9} [cy] unk
+	"bod" {650,9} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {650,10} [cy] prep :to: [202346]
+	"fi" {650,10} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {650,11} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -8479,7 +8237,6 @@
 	"dyna" {651,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {651,3} [cy] pron m 3s :he: [196922]
-	"mo" {651,3} [cy] adv :not: [202814] + sm
 "<felly>"
 	"felly" {651,4} [cy] adv :so: [206323]
 "<.>"
@@ -8565,7 +8322,7 @@
 "<er>"
 	"er" {655,1} [0] er
 "<ia>"
-	"ia" {655,2} [cy] unk
+	"ia" {655,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<maen>"
@@ -8612,8 +8369,6 @@
 	"bath" {658,5} [cy] n m sg :bath: [208856] + sm
 "<o>"
 	"fo" {658,6} [cy] pron m 3s spoken :he: [209264]
-	"o" {658,6} [cy] prep :from: [203721]
-	"o" {658,6} [cy] prep :of: [203019]
 "<electroencefalograma>"
 	"electroencefalograma" {658,7} [es] unk
 "<neu>"
@@ -8649,7 +8404,7 @@
 "<deud>"
 	"dweud" {660,5} [cy] v infin spoken :say: [209262]
 "<wrtha>"
-	"wrtha" {660,6} [cy] unk
+	"wrth" {660,6} [cy] prep+pron 1s :to_me: [209335]
 "<i>"
 	"i" {660,7} [cy] prep :to: [202346]
 "<.>"
@@ -8673,7 +8428,7 @@
 "<yn>"
 	"yn" {661,9} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {661,10} [cy] v infin :be: [205233]
+	"gallu" {661,10} [cy] v infin :be_able: [205233]
 "<dysgu>"
 	"dysgu" {661,11} [cy] v infin :teach: [209103]
 "<pethau>"
@@ -8691,13 +8446,16 @@
 "<.>"
 
 "<meddwl>"
+	"meddwl" {663,1} [cy] n m sg :thought: [207395]
 	"meddwl" {663,1} [cy] v 2s imper :think: [36814]
+	"meddwl" {663,1} [cy] v 3s pres :think: [59542]
+	"meddwl" {663,1} [cy] v infin :think: [205499]
 "<di>"
 	"ti" {663,2} [cy] pron 2s :you: [208649] + sm
 "<.>"
 
 "<yndy>"
-	"yndy" {664,1} [cy] unk
+	"bod" {664,1} [cy] v 3s pres.emph :be: [209360]
 "<?>"
 
 "<wel>"
@@ -8706,7 +8464,6 @@
 	"dyna" {665,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {665,3} [cy] pron m 3s :he: [196922]
-	"mo" {665,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<um>"
@@ -8747,19 +8504,19 @@
 "<yr>"
 	"y" {667,16} [cy] det.def :the: [208948]
 "<un>"
-	"un" {667,17} [cy] adj :one: [202310]
+	"un" {667,17} [cy] num :one: [202310]
 "<pryd>"
 	"pryd" {667,18} [cy] n m sg :meal: [198767]
 "<.>"
 
 "<ges>"
-	"ges" {668,1} [cy] unk
+	"cael" {668,1} [cy] v 1s past spoken :get: [209364] + sm
 "<i>"
-	"i" {668,2} [cy] prep :to: [202346]
+	"fi" {668,2} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {668,3} [cy] n m sg :nothing: [208789] + sm
+	"dim" {668,3} [cy] adv :not: [204176] + sm
 "<un>"
-	"un" {668,4} [cy] adj :one: [202310]
+	"un" {668,4} [cy] num :one: [202310]
 "<trafferth>"
 	"trafferth" {668,5} [cy] n mf sg :trouble: [198739]
 "<yn>"
@@ -8778,7 +8535,7 @@
 	"dim" {670,1} [cy] n m sg :nothing: [208789] + sm
 	"dim" {670,1} [cy] adv :not: [204176] + sm
 "<un>"
-	"un" {670,2} [cy] adj :one: [202310]
+	"un" {670,2} [cy] num :one: [202310]
 "<ar>"
 	"ar" {670,3} [cy] prep :on: [204320]
 "<y>"
@@ -8792,19 +8549,19 @@
 "<oeddwn>"
 	"bod" {671,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {671,3} [cy] pron 1s :I: [204322]
+	"fi" {671,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {671,4} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {671,5} [cy] v infin :be: [205233]
+	"gallu" {671,5} [cy] v infin :be_able: [205233]
 "<Sbaeneg>"
 	"Sbaeneg" {671,6} [cy] name
 "<pan>"
 	"pan" {671,7} [cy] conj :when: [207933]
 "<es>"
-	"es" {671,8} [cy] unk
+	"mynd" {671,8} [cy] v 1s past spoken :go: [209304]
 "<i>"
-	"i" {671,9} [cy] prep :to: [202346]
+	"fi" {671,9} [cy] pron 1s :I: [204322]
 "<yr>"
 	"y" {671,10} [cy] det.def :the: [208948]
 "<ysgol>"
@@ -8812,9 +8569,8 @@
 "<.>"
 
 "<paid>"
-	"paid" {672,1} [cy] unk
+	"peidio" {672,1} [cy] v 2s imper :stop: [209329]
 "<â>"
-	"â" {672,2} [cy] conj :as: [197357]
 	"â" {672,2} [cy] prep :with: [208783]
 "<deud>"
 	"dweud" {672,3} [cy] v infin spoken :say: [209262]
@@ -8827,7 +8583,7 @@
 "<plant>"
 	"plentyn" {673,3} [cy] n m pl :children: [202234]
 "<mwya>"
-	"mwya" {673,4} [cy] unk
+	"mawr" {673,4} [cy] adj.sup :biggest: [209313]
 "<.>"
 
 "<efo>"
@@ -8875,14 +8631,11 @@
 "<ah>"
 	"ah" {678,1} [0] ah
 "<na>"
-	"na" {678,2} [cy] conj :(n)or: [207110]
-	"na" {678,2} [cy] conj :than: [205467]
 	"na" {678,2} [cy] prt.neg :neg: [198802]
-	"da" {678,2} [cy] adj :good: [208568] + nm
 "<oeddwn>"
 	"bod" {678,3} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {678,4} [cy] pron 1s :I: [204322]
+	"fi" {678,4} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {678,5} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -8910,12 +8663,11 @@
 "<be>"
 	"be" {681,1} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {681,2} [cy] unk
+	"bod" {681,2} [cy] v 3s pres :be: [209338]
 "<enw>"
 	"enw" {681,3} [cy] n m sg :name: [208678]
 "<fo>"
 	"fo" {681,4} [cy] pron m 3s :he: [196922]
-	"mo" {681,4} [cy] adv :not: [202814] + sm
 "<?>"
 
 "<Linda>"
@@ -8923,10 +8675,7 @@
 "<?>"
 
 "<na>"
-	"na" {683,1} [cy] conj :(n)or: [207110]
-	"na" {683,1} [cy] conj :than: [205467]
 	"na" {683,1} [cy] prt.neg :neg: [198802]
-	"da" {683,1} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<Amora>"
@@ -8946,7 +8695,7 @@
 "<oeddwn>"
 	"bod" {687,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {687,3} [cy] pron 1s :I: [204322]
+	"fi" {687,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {687,4} [cy] stat :stative: [200654]
 "<dysgu>"
@@ -8970,7 +8719,7 @@
 "<plant>"
 	"plentyn" {688,4} [cy] n m pl :children: [202234]
 "<mwya>"
-	"mwya" {688,5} [cy] unk
+	"mawr" {688,5} [cy] adj.sup :biggest: [209313]
 "<wedi>"
 	"wedi" {688,6} [cy] prep :after: [207472]
 "<dysgu>"
@@ -8992,7 +8741,7 @@
 "<i>"
 	"i" {689,6} [cy] prep :to: [202346]
 "<fi>"
-	"mi" {689,7} [cy] prt.aff :aff: [200111] + sm
+	"fi" {689,7} [cy] pron 1s :I: [201450]
 "<.>"
 
 "<ond>"
@@ -9006,7 +8755,7 @@
 "<yn>"
 	"yn" {690,5} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {690,6} [cy] v infin :be: [205233]
+	"gallu" {690,6} [cy] v infin :be_able: [205233]
 "<er>"
 	"er" {690,7} [0] er
 "<Sbaeneg>"
@@ -9018,9 +8767,9 @@
 "<a>"
 	"a" {691,1} [cy] conj :and: [203303]
 "<dw>"
-	"dw" {691,2} [cy] unk
+	"bod" {691,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {691,3} [cy] prep :to: [202346]
+	"fi" {691,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {691,4} [cy] stat :stative: [200654]
 "<siwr>"
@@ -9040,7 +8789,7 @@
 "<yn>"
 	"yn" {691,12} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {691,13} [cy] v infin :be: [205233]
+	"gallu" {691,13} [cy] v infin :be_able: [205233]
 "<.>"
 
 "<a>"
@@ -9105,10 +8854,7 @@
 "<.>"
 
 "<na>"
-	"na" {695,1} [cy] conj :(n)or: [207110]
-	"na" {695,1} [cy] conj :than: [205467]
 	"na" {695,1} [cy] prt.neg :neg: [198802]
-	"da" {695,1} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<wel>"
@@ -9119,7 +8865,6 @@
 	"na" {696,3} [cy] conj :(n)or: [207110]
 	"na" {696,3} [cy] conj :than: [205467]
 	"na" {696,3} [cy] prt.neg :neg: [198802]
-	"da" {696,3} [cy] adj :good: [208568] + nm
 "<achos>"
 	"achos" {696,4} [cy] n m sg :cause: [201189]
 "<bod>"
@@ -9135,10 +8880,7 @@
 "<.>"
 
 "<na>"
-	"na" {697,1} [cy] conj :(n)or: [207110]
-	"na" {697,1} [cy] conj :than: [205467]
 	"na" {697,1} [cy] prt.neg :neg: [198802]
-	"da" {697,1} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<ie>"
@@ -9150,7 +8892,7 @@
 "<oeddwn>"
 	"bod" {699,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {699,3} [cy] pron 1s :I: [204322]
+	"fi" {699,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {699,4} [cy] prep :in: [204430]
 "<y>"
@@ -9166,7 +8908,7 @@
 "<?>"
 
 "<gest>"
-	"gest" {701,1} [cy] unk
+	"cael" {701,1} [cy] v 2s past spoken :get: [209365] + sm
 "<ti>"
 	"ti" {701,2} [cy] pron 2s :you: [208649]
 "<helynt>"
@@ -9178,7 +8920,7 @@
 "<oeddwn>"
 	"bod" {702,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {702,3} [cy] pron 1s :I: [204322]
+	"fi" {702,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {702,4} [cy] stat :stative: [200654]
 "<meddwl>"
@@ -9188,7 +8930,7 @@
 "<diwrnod>"
 	"diwrnod" {702,7} [cy] n m sg :day: [200029]
 "<cynta>"
-	"cynta" {702,8} [cy] adj :first: [205567]
+	"cynta" {702,8} [cy] ord :first: [205567]
 "<.>"
 
 "<dim>"
@@ -9235,9 +8977,9 @@
 "<coch>"
 	"coch" {707,4} [cy] adj :red: [201805]
 "<dw>"
-	"dw" {707,5} [cy] unk
+	"bod" {707,5} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {707,6} [cy] prep :to: [202346]
+	"fi" {707,6} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {707,7} [cy] stat :stative: [200654]
 "<cofio>"
@@ -9283,6 +9025,7 @@
 "<fi>"
 	"fi" {709,14} [cy] pron 1s :I: [201450]
 	"mi" {709,14} [cy] prt.aff :aff: [200111] + sm
+	"mi" {709,14} [cy] pron.obj 1s :me: [209376] + sm
 "<yn>"
 	"yn" {709,15} [cy] stat :stative: [200654]
 "<fynd>"
@@ -9290,7 +9033,6 @@
 "<dipyn>"
 	"tipyn" {709,17} [cy] n m sg :little bit: [199901] + sm
 "<cyn>"
-	"cyn" {709,18} [cy] adj :as: [200712]
 	"cyn" {709,18} [cy] prep :before: [202058]
 "<hynny>"
 	"hynny" {709,19} [cy] pron :that: [208539]
@@ -9301,7 +9043,7 @@
 "<cynt>"
 	"cynt" {710,2} [cy] adj :earlier: [209049]
 "<ia>"
-	"ia" {710,3} [cy] unk
+	"ia" {710,3} [cy] adv :yes: [209325]
 "<.>"
 
 "<a>"
@@ -9339,7 +9081,6 @@
 "<fynd>"
 	"mynd" {712,8} [cy] v infin :go: [198448] + sm
 "<ymlaen>"
-	"ymlaen" {712,9} [cy] adv :on: [205274]
 	"ymlaen" {712,9} [cy] adv :forward: [203504]
 "<ein>"
 	"ein" {712,10} [cy] pron :our: [208632]
@@ -9352,6 +9093,7 @@
 "<fi>"
 	"fi" {712,14} [cy] pron 1s :I: [201450]
 	"mi" {712,14} [cy] prt.aff :aff: [200111] + sm
+	"mi" {712,14} [cy] pron.obj 1s :me: [209376] + sm
 "<.>"
 
 "<oh>"
@@ -9361,11 +9103,11 @@
 "<a>"
 	"a" {714,1} [cy] conj :and: [203303]
 "<dw>"
-	"dw" {714,2} [cy] unk
+	"bod" {714,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {714,3} [cy] prep :to: [202346]
+	"fi" {714,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {714,4} [cy] n m sg :nothing: [208789] + sm
+	"dim" {714,4} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {714,5} [cy] stat :stative: [200654]
 "<siŵr>"
@@ -9377,7 +9119,7 @@
 "<o>"
 	"fo" {714,9} [cy] pron m 3s spoken :he: [209264]
 "<wedi>"
-	"gwadu" {714,10} [cy] v 2s pres literary :deny: [32443] + sm
+	"wedi" {714,10} [cy] prep :after: [207472]
 "<bod>"
 	"bod" {714,11} [cy] v infin :be: [205519]
 "<yn>"
@@ -9397,13 +9139,9 @@
 "<Gruffudd>"
 	"Gruffudd" {715,2} [0] name
 "<llai>"
-	"llai" {715,3} [cy] adj :smaller: [208995]
-	"llai" {715,3} [cy] adj :less: [207941]
+	"bach" {715,3} [cy] adj.comp :smaller: [208995]
 "<na>"
-	"na" {715,4} [cy] conj :(n)or: [207110]
 	"na" {715,4} [cy] conj :than: [205467]
-	"na" {715,4} [cy] prt.neg :neg: [198802]
-	"da" {715,4} [cy] adj :good: [208568] + nm
 "<ti>"
 	"ti" {715,5} [cy] pron 2s :you: [208649]
 "<ie>"
@@ -9411,7 +9149,7 @@
 "<?>"
 
 "<mwy>"
-	"mwy" {716,1} [cy] adj :bigger: [201716]
+	"mawr" {716,1} [cy] adj.comp :bigger: [201716]
 "<.>"
 
 "<oh>"
@@ -9422,7 +9160,6 @@
 	"ond" {718,1} [cy] conj :but: [201902]
 "<beth>"
 	"beth" {718,2} [cy] int :what: [208850]
-	"peth" {718,2} [cy] n m sg :thing: [197439] + sm
 "<bynnag>"
 	"bynnag" {718,3} [cy] adj :-ever: [208651]
 "<i>"
@@ -9478,9 +9215,9 @@
 "<i>"
 	"i" {720,5} [cy] prep :to: [202346]
 "<fi>"
-	"mi" {720,6} [cy] prt.aff :aff: [200111] + sm
+	"fi" {720,6} [cy] pron 1s :I: [201450]
 "<ynde>"
-	"ynde" {720,7} [cy] unk
+	"bod" {720,7} [cy] im :isn''t_it: [209358]
 "<.>"
 
 "<.>"
@@ -9498,9 +9235,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {723,1} [cy] unk
+	"bod" {723,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {723,2} [cy] prep :to: [202346]
+	"fi" {723,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {723,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -9512,9 +9249,9 @@
 "<ond>"
 	"ond" {724,1} [cy] conj :but: [201902]
 "<dw>"
-	"dw" {724,2} [cy] unk
+	"bod" {724,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {724,3} [cy] prep :to: [202346]
+	"fi" {724,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {724,4} [cy] stat :stative: [200654]
 "<cofio>"
@@ -9540,9 +9277,8 @@
 "<oeddwn>"
 	"bod" {726,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {726,2} [cy] pron 1s :I: [204322]
+	"fi" {726,2} [cy] pron 1s :I: [204322]
 "<gymaint>"
-	"cymaint" {726,3} [cy] adj :so many: [202261] + sm
 	"cymaint" {726,3} [cy] adj :so much: [202260] + sm
 "<ofn>"
 	"ofn" {726,4} [cy] n m sg :fear: [206658]
@@ -9553,9 +9289,9 @@
 "<be>"
 	"be" {727,2} [cy] int :what: [208620]
 "<dw>"
-	"dw" {727,3} [cy] unk
+	"bod" {727,3} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {727,4} [cy] prep :to: [202346]
+	"fi" {727,4} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {727,5} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -9567,10 +9303,7 @@
 "<wel>"
 	"wel" {728,1} [cy] unk
 "<na>"
-	"na" {728,2} [cy] conj :(n)or: [207110]
-	"na" {728,2} [cy] conj :than: [205467]
 	"na" {728,2} [cy] prt.neg :neg: [198802]
-	"da" {728,2} [cy] adj :good: [208568] + nm
 "<oedd>"
 	"bod" {728,3} [cy] v 3s imperf :be: [74724]
 "<o>"
@@ -9584,7 +9317,7 @@
 "<oeddwn>"
 	"bod" {729,1} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {729,2} [cy] pron 1s :I: [204322]
+	"fi" {729,2} [cy] pron 1s :I: [204322]
 "<mor>"
 	"mor" {729,3} [cy] adv :so: [202732]
 "<siei>"
@@ -9596,13 +9329,11 @@
 "<dod>"
 	"dod" {729,7} [cy] v infin :come: [203977]
 "<o>"
-	"fo" {729,8} [cy] pron m 3s spoken :he: [209264]
-	"o" {729,8} [cy] prep :from: [203721]
 	"o" {729,8} [cy] prep :of: [203019]
 "<yr>"
 	"y" {729,9} [cy] det.def :the: [208948]
 "<paith>"
-	"paith" {729,10} [cy] unk
+	"paith" {729,10} [cy] n m sg :prairie: [209330]
 "<ti>"
 	"ti" {729,11} [cy] pron 2s :you: [208649]
 "<yn>"
@@ -9612,13 +9343,13 @@
 "<.>"
 
 "<ia>"
-	"ia" {730,1} [cy] unk
+	"ia" {730,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<ia>"
-	"ia" {731,1} [cy] unk
+	"ia" {731,1} [cy] adv :yes: [209325]
 "<ia>"
-	"ia" {731,2} [cy] unk
+	"ia" {731,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<a>"
@@ -9628,11 +9359,12 @@
 "<oeddwn>"
 	"bod" {732,3} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {732,4} [cy] pron 1s :I: [204322]
+	"fi" {732,4} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {732,5} [cy] stat :stative: [200654]
+	"yn" {732,5} [cy] prep :in: [204430]
 "<ddeuddeg>"
-	"deuddeg" {732,6} [cy] adj :twelve: [201401] + sm
+	"deuddeg" {732,6} [cy] num :twelve: [201401] + sm
 "<oed>"
 	"oed" {732,7} [cy] n m sg :age: [199067]
 "<yn>"
@@ -9674,12 +9406,14 @@
 	"posib" {733,4} [cy] adj :possible: [203023] + sm
 "<gorffen>"
 	"gorffen" {733,5} [cy] v 2s imper :complete: [36238]
+	"gorffen" {733,5} [cy] v 3s pres :complete: [58950]
+	"gorffen" {733,5} [cy] v infin :complete: [207586]
 "<yna>"
 	"yna" {733,6} [cy] adv :there: [208848]
 "<.>"
 
 "<ia>"
-	"ia" {734,1} [cy] unk
+	"ia" {734,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<yn>"
@@ -9687,7 +9421,6 @@
 "<yr>"
 	"y" {735,2} [cy] det.def :the: [208948]
 "<ysgolion>"
-	"ysgol" {735,3} [cy] n f pl :ladders: [205752]
 	"ysgol" {735,3} [cy] n f pl :schools: [197589]
 "<.>"
 
@@ -9706,11 +9439,11 @@
 "<.>"
 
 "<yli>"
-	"yli" {737,1} [cy] unk
+	"gwybod" {737,1} [cy] im :you_know: [209340]
 "<oeddwn>"
 	"bod" {737,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {737,3} [cy] pron 1s :I: [204322]
+	"fi" {737,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {737,4} [cy] stat :stative: [200654]
 "<crio>"
@@ -9730,7 +9463,7 @@
 "<oeddwn>"
 	"bod" {738,4} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {738,5} [cy] pron 1s :I: [204322]
+	"fi" {738,5} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {738,6} [cy] stat :stative: [200654]
 	"yn" {738,6} [cy] prep :in: [204430]
@@ -9743,11 +9476,11 @@
 "<fflag>"
 	"fflag" {738,10} [cy] unk
 "<i_fyny>"
-	"i_fyny" {738,11} [cy] unk
+	"i_fyny" {738,11} [cy] adv :up: [209309]
 "<oeddwn>"
 	"bod" {738,12} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {738,13} [cy] pron 1s :I: [204322]
+	"fi" {738,13} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {738,14} [cy] stat :stative: [200654]
 "<crio>"
@@ -9763,7 +9496,7 @@
 "<oeddwn>"
 	"bod" {739,3} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {739,4} [cy] pron 1s :I: [204322]
+	"fi" {739,4} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {739,5} [cy] stat :stative: [200654]
 "<cael>"
@@ -9779,7 +9512,7 @@
 "<oeddwn>"
 	"bod" {739,11} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {739,12} [cy] pron 1s :I: [204322]
+	"fi" {739,12} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {739,13} [cy] stat :stative: [200654]
 "<crio>"
@@ -9808,7 +9541,6 @@
 	"dechrau" {742,3} [cy] n m sg :beginning: [207976]
 "<beth>"
 	"beth" {742,4} [cy] int :what: [208850]
-	"peth" {742,4} [cy] n m sg :thing: [197439] + sm
 "<bynnag>"
 	"bynnag" {742,5} [cy] adj :-ever: [208651]
 "<.>"
@@ -9836,14 +9568,11 @@
 "<?>"
 
 "<na>"
-	"na" {745,1} [cy] conj :(n)or: [207110]
-	"na" {745,1} [cy] conj :than: [205467]
 	"na" {745,1} [cy] prt.neg :neg: [198802]
-	"da" {745,1} [cy] adj :good: [208568] + nm
 "<oeddwn>"
 	"bod" {745,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {745,3} [cy] pron 1s :I: [204322]
+	"fi" {745,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {745,4} [cy] stat :stative: [200654]
 "<aros>"
@@ -9851,7 +9580,7 @@
 "<efo>"
 	"efo" {745,6} [cy] prep :with: [207906]
 "<modryb>"
-	"modryb" {745,7} [cy] unk
+	"modryb" {745,7} [cy] n f sg :aunt: [209312]
 "<Elsa>"
 	"Elsa" {745,8} [0] name
 "<.>"
@@ -9861,7 +9590,7 @@
 "<oedd>"
 	"bod" {746,2} [cy] v 3s imperf :be: [74724]
 "<modryb>"
-	"modryb" {746,3} [cy] unk
+	"modryb" {746,3} [cy] n f sg :aunt: [209312]
 "<Elsa>"
 	"Elsa" {746,4} [0] name
 "<yn>"
@@ -9895,13 +9624,13 @@
 "<ah>"
 	"ah" {749,1} [0] ah
 "<modryb>"
-	"modryb" {749,2} [cy] unk
+	"modryb" {749,2} [cy] n f sg :aunt: [209312]
 "<Elsa_Evans>"
 	"Elsa_Evans" {749,3} [0] name
 "<!>"
 
 "<modryb>"
-	"modryb" {750,1} [cy] unk
+	"modryb" {750,1} [cy] n f sg :aunt: [209312]
 "<Elsa_Evans>"
 	"Elsa_Evans" {750,2} [0] name
 "<.>"
@@ -9923,7 +9652,7 @@
 "<?>"
 
 "<ia>"
-	"ia" {752,1} [cy] unk
+	"ia" {752,1} [cy] adv :yes: [209325]
 "<mi>"
 	"mi" {752,2} [cy] prt.aff :aff: [200111]
 "<aeth>"
@@ -9955,7 +9684,7 @@
 "<yna>"
 	"yna" {752,16} [cy] adv :there: [208848]
 "<ynde>"
-	"ynde" {752,17} [cy] unk
+	"bod" {752,17} [cy] im :isn''t_it: [209358]
 "<erbyn>"
 	"erbyn" {752,18} [cy] prep :by: [203091]
 "<hyn>"
@@ -9993,7 +9722,7 @@
 "<a>"
 	"a" {754,12} [cy] conj :and: [203303]
 "<dada>"
-	"dada" {754,13} [cy] unk
+	"tad" {754,13} [cy] n m sg :Daddy: [209284]
 "<os>"
 	"os" {754,14} [cy] conj :if: [196648]
 "<oedden>"
@@ -10012,6 +9741,7 @@
 "<fi>"
 	"fi" {754,21} [cy] pron 1s :I: [201450]
 	"mi" {754,21} [cy] prt.aff :aff: [200111] + sm
+	"mi" {754,21} [cy] pron.obj 1s :me: [209376] + sm
 "<i>"
 	"i" {754,22} [cy] prep :to: [202346]
 "<yr>"
@@ -10028,6 +9758,7 @@
 	"a" {755,1} [cy] conj :and: [203303]
 "<fo>"
 	"fo" {755,2} [cy] pron m 3s :he: [196922]
+	"bod" {755,2} [cy] v 3s subj :be: [80076] + sm
 	"mo" {755,2} [cy] adv :not: [202814] + sm
 "<ar>"
 	"ar" {755,3} [cy] prep :on: [204320]
@@ -10044,9 +9775,9 @@
 "<mi>"
 	"mi" {757,2} [cy] prt.aff :aff: [200111]
 "<ges>"
-	"ges" {757,3} [cy] unk
+	"cael" {757,3} [cy] v 1s past spoken :get: [209364] + sm
 "<i>"
-	"i" {757,4} [cy] prep :to: [202346]
+	"fi" {757,4} [cy] pron 1s :I: [204322]
 "<fynd>"
 	"mynd" {757,5} [cy] v infin :go: [198448] + sm
 "<ie>"
@@ -10058,7 +9789,7 @@
 "<oeddwn>"
 	"bod" {758,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {758,3} [cy] pron 1s :I: [204322]
+	"fi" {758,3} [cy] pron 1s :I: [204322]
 "<meddwl>"
 	"meddwl" {758,4} [cy] v infin :think: [205499]
 "<y>"
@@ -10066,11 +9797,9 @@
 "<byd>"
 	"byd" {758,6} [cy] n m sg :world: [202745]
 "<o>"
-	"fo" {758,7} [cy] pron m 3s spoken :he: [209264]
 	"o" {758,7} [cy] prep :from: [203721]
-	"o" {758,7} [cy] prep :of: [203019]
 "<modryb>"
-	"modryb" {758,8} [cy] unk
+	"modryb" {758,8} [cy] n f sg :aunt: [209312]
 "<Elsa>"
 	"Elsa" {758,9} [0] name
 "<.>"
@@ -10080,9 +9809,8 @@
 "<oeddwn>"
 	"bod" {759,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {759,3} [cy] pron 1s :I: [204322]
+	"fi" {759,3} [cy] pron 1s :I: [204322]
 "<â>"
-	"â" {759,4} [cy] conj :as: [197357]
 	"â" {759,4} [cy] prep :with: [208783]
 "<hiraeth>"
 	"hiraeth" {759,5} [cy] n m sg :longing: [203134]
@@ -10092,18 +9820,19 @@
 
 "<meddylia>"
 	"meddwl" {760,1} [cy] v 2s imper spoken :think: [36816]
+	"meddwl" {760,1} [cy] v 3s pres spoken :think: [59544]
 "<di>"
 	"ti" {760,2} [cy] pron 2s :you: [208649] + sm
 "<oeddwn>"
 	"bod" {760,3} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {760,4} [cy] pron 1s :I: [204322]
+	"fi" {760,4} [cy] pron 1s :I: [204322]
 "<nabod>"
-	"nabod" {760,5} [cy] unk
+	"adnabod" {760,5} [cy] v infin :know: [209314]
 "<dy>"
 	"dy" {760,6} [cy] adj :your: [197673]
 "<modryb>"
-	"modryb" {760,7} [cy] unk
+	"modryb" {760,7} [cy] n f sg :aunt: [209312]
 "<Elsa>"
 	"Elsa" {760,8} [0] name
 "<ar>"
@@ -10119,12 +9848,9 @@
 "<.>"
 
 "<na>"
-	"na" {762,1} [cy] conj :(n)or: [207110]
-	"na" {762,1} [cy] conj :than: [205467]
 	"na" {762,1} [cy] prt.neg :neg: [198802]
-	"da" {762,1} [cy] adj :good: [208568] + nm
 "<fuodd>"
-	"fuodd" {762,2} [cy] unk
+	"bod" {762,2} [cy] v 3s past nstan :be: [209301] + sm
 "<hi>"
 	"hi" {762,3} [cy] pron f 3s :she: [203039]
 "<yn>"
@@ -10132,13 +9858,13 @@
 "<byw>"
 	"byw" {762,5} [cy] v infin :live: [201088]
 "<tu_ôl>"
-	"tu_ôl" {762,6} [cy] unk
+	"ôl" {762,6} [cy] adv :behind: [209333]
 "<i>"
 	"i" {762,7} [cy] prep :to: [202346]
 "<lle>"
 	"lle" {762,8} [cy] n m sg :place: [197527]
 "<modryb>"
-	"modryb" {762,9} [cy] unk
+	"modryb" {762,9} [cy] n f sg :aunt: [209312]
 "<Rhian>"
 	"Rhian" {762,10} [0] name
 "<.>"
@@ -10148,18 +9874,17 @@
 "<.>"
 
 "<modryb>"
-	"modryb" {764,1} [cy] unk
+	"modryb" {764,1} [cy] n f sg :aunt: [209312]
 "<Rhian>"
 	"Rhian" {764,2} [0] name
 "<fan>"
-	"fan" {764,3} [cy] n f sg :van: [201889]
 	"man" {764,3} [cy] n mf sg :place: [208816] + sm
 "<yna>"
 	"yna" {764,4} [cy] adv :there: [208848]
 "<a>"
 	"a" {764,5} [cy] conj :and: [203303]
 "<modryb>"
-	"modryb" {764,6} [cy] unk
+	"modryb" {764,6} [cy] n f sg :aunt: [209312]
 "<Elsa>"
 	"Elsa" {764,7} [cy] name
 "<yr>"
@@ -10181,7 +9906,6 @@
 "<Quinto>"
 	"Quinto" {765,3} [0] name
 "<fan>"
-	"fan" {765,4} [cy] n f sg :van: [201889]
 	"man" {765,4} [cy] n mf sg :place: [208816] + sm
 "<yna>"
 	"yna" {765,5} [cy] adv :there: [208848]
@@ -10196,14 +9920,11 @@
 "<?>"
 
 "<na>"
-	"na" {766,1} [cy] conj :(n)or: [207110]
-	"na" {766,1} [cy] conj :than: [205467]
 	"na" {766,1} [cy] prt.neg :neg: [198802]
-	"da" {766,1} [cy] adj :good: [208568] + nm
 "<dw>"
-	"dw" {766,2} [cy] unk
+	"bod" {766,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {766,3} [cy] prep :to: [202346]
+	"fi" {766,3} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {766,4} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -10221,12 +9942,11 @@
 "<wnes>"
 	"gwneud" {767,2} [cy] v 1s past spoken :do: [9677] + sm
 "<i>"
-	"i" {767,3} [cy] pron 1s :I: [204322]
+	"fi" {767,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {767,4} [cy] n m sg :nothing: [208789] + sm
 	"dim" {767,4} [cy] adv :not: [204176] + sm
 "<nabod>"
-	"nabod" {767,5} [cy] unk
+	"adnabod" {767,5} [cy] v infin :know: [209314]
 "<Trevelin>"
 	"Trevelin" {767,6} [0] name
 "<.>"
@@ -10279,7 +9999,7 @@
 "<mi>"
 	"mi" {772,2} [cy] prt.aff :aff: [200111]
 "<fuodd>"
-	"fuodd" {772,3} [cy] unk
+	"bod" {772,3} [cy] v 3s past nstan :be: [209301] + sm
 "<hi>"
 	"hi" {772,4} [cy] pron f 3s :she: [203039]
 "<yn>"
@@ -10294,13 +10014,12 @@
 "<iechyd>"
 	"iechyd" {772,9} [cy] n m sg :health: [200144]
 "<yn_do>"
-	"yn_do" {772,10} [cy] unk
+	"bod" {772,10} [cy] im :wasn''t_it: [209341]
 "<?>"
 
 "<oedd>"
 	"bod" {773,1} [cy] v 3s imperf :be: [74724]
 "<ddim>"
-	"dim" {773,2} [cy] n m sg :nothing: [208789] + sm
 	"dim" {773,2} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {773,3} [cy] stat :stative: [200654]
@@ -10308,7 +10027,7 @@
 "<.>"
 
 "<do>"
-	"toi" {774,1} [cy] v 2s imper :roof: [37620] + sm
+	"do" {774,1} [cy] adv past :yes: [209369]
 "<ddoth>"
 	"dod" {774,2} [cy] v 3s past spoken :come: [209268] + sm
 "<hi>"
@@ -10322,9 +10041,9 @@
 "<er>"
 	"er" {775,2} [0] er
 "<dw>"
-	"dw" {775,3} [cy] unk
+	"bod" {775,3} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {775,4} [cy] prep :to: [202346]
+	"fi" {775,4} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {775,5} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -10334,9 +10053,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {776,1} [cy] unk
+	"bod" {776,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {776,2} [cy] prep :to: [202346]
+	"fi" {776,2} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {776,3} [cy] stat :stative: [200654]
 "<credu>"
@@ -10350,7 +10069,7 @@
 "<iawn>"
 	"iawn" {776,8} [cy] adv :OK: [207540]
 "<rwan>"
-	"rwan" {776,9} [cy] unk
+	"rŵan" {776,9} [cy] adv :now: [209331]
 "<.>"
 
 "<mae>"
@@ -10362,12 +10081,11 @@
 "<be>"
 	"be" {778,1} [cy] int :what: [208620]
 "<ydy>"
-	"ydy" {778,2} [cy] unk
+	"bod" {778,2} [cy] v 3s pres :be: [209338]
 "<enw>"
 	"enw" {778,3} [cy] n m sg :name: [208678]
 "<fo>"
 	"fo" {778,4} [cy] pron m 3s :he: [196922]
-	"mo" {778,4} [cy] adv :not: [202814] + sm
 "<?>"
 
 "<Raimundo>"
@@ -10381,23 +10099,23 @@
 "<pythefnos>"
 	"pythefnos" {779,5} [cy] n mf sg :forthnight: [206196]
 "<yndy>"
-	"yndy" {779,6} [cy] unk
+	"bod" {779,6} [cy] v 3s pres.emph :be: [209360]
 "<?>"
 
 "<y>"
 	"y" {780,1} [cy] det.def :the: [204199]
 "<ddau>"
-	"dau" {780,2} [cy] adj :two: [206623] + sm
+	"dau" {780,2} [cy] num m :two: [206623] + sm
 "<wedi>"
 	"wedi" {780,3} [cy] prep :after: [207472]
 "<priodi>"
 	"priodi" {780,4} [cy] v infin :marry: [207257]
 "<rwan>"
-	"rwan" {780,5} [cy] unk
+	"rŵan" {780,5} [cy] adv :now: [209331]
 "<y>"
 	"y" {780,6} [cy] det.def :the: [204199]
 "<dau>"
-	"dau" {780,7} [cy] adj :two: [206623]
+	"dau" {780,7} [cy] num m :two: [206623]
 "<fachgen>"
 	"bachgen" {780,8} [cy] n m sg :boy: [200585] + sm
 "<.>"
@@ -10408,7 +10126,6 @@
 	"dyna" {781,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {781,3} [cy] pron m 3s :he: [196922]
-	"mo" {781,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<ie>"
@@ -10426,7 +10143,7 @@
 "<.>"
 
 "<ydyn>"
-	"ydyn" {784,1} [cy] unk
+	"bod" {784,1} [cy] v 3p pres :be: [209339]
 "<.>"
 
 "<a>"
@@ -10454,9 +10171,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {787,1} [cy] unk
+	"bod" {787,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {787,2} [cy] prep :to: [202346]
+	"fi" {787,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {787,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -10480,11 +10197,11 @@
 "<oh>"
 	"oh" {789,1} [0] oh
 "<dw>"
-	"dw" {789,2} [cy] unk
+	"bod" {789,2} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {789,3} [cy] prep :to: [202346]
+	"fi" {789,3} [cy] pron 1s :I: [204322]
 "<ddim>"
-	"dim" {789,4} [cy] n m sg :nothing: [208789] + sm
+	"dim" {789,4} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {789,5} [cy] stat :stative: [200654]
 "<siŵr>"
@@ -10502,9 +10219,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {790,1} [cy] unk
+	"bod" {790,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {790,2} [cy] prep :to: [202346]
+	"fi" {790,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {790,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -10514,9 +10231,9 @@
 "<.>"
 
 "<dw>"
-	"dw" {791,1} [cy] unk
+	"bod" {791,1} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {791,2} [cy] prep :to: [202346]
+	"fi" {791,2} [cy] pron 1s :I: [204322]
 "<ddim>"
 	"dim" {791,3} [cy] adv :not: [204176] + sm
 "<yn>"
@@ -10546,17 +10263,17 @@
 "<hi>"
 	"hi" {794,4} [cy] pron f 3s :she: [203039]
 "<ydy>"
-	"ydy" {794,5} [cy] unk
+	"bod" {794,5} [cy] v 3s pres :be: [209338]
 "<yr>"
 	"y" {794,6} [cy] det.def :the: [208948]
 "<ienga>"
-	"ienga" {794,7} [cy] unk
+	"ifanc" {794,7} [cy] adj.sup :youngest: [209307]
 "<ie>"
 	"ie" {794,8} [cy] adv :yes: [208464]
 "<?>"
 
 "<ia>"
-	"ia" {795,1} [cy] unk
+	"ia" {795,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<a>"
@@ -10570,7 +10287,7 @@
 "<teithio>"
 	"teithio" {796,5} [cy] v infin :travel: [206320]
 "<yn_do>"
-	"yn_do" {796,6} [cy] unk
+	"bod" {796,6} [cy] im :wasn''t_it: [209341]
 "<?>"
 
 "<Zanetta>"
@@ -10588,11 +10305,11 @@
 "<llawer>"
 	"llawer" {798,5} [cy] adj :many: [206927]
 "<yn_do>"
-	"yn_do" {798,6} [cy] unk
+	"bod" {798,6} [cy] im :wasn''t_it: [209341]
 "<?>"
 
 "<fuodd>"
-	"fuodd" {799,1} [cy] unk
+	"bod" {799,1} [cy] v 3s past nstan :be: [209301] + sm
 "<hi>"
 	"hi" {799,2} [cy] pron f 3s :she: [203039]
 "<yn>"
@@ -10602,7 +10319,7 @@
 "<.>"
 
 "<fuodd>"
-	"fuodd" {800,1} [cy] unk
+	"bod" {800,1} [cy] v 3s past nstan :be: [209301] + sm
 "<hi>"
 	"hi" {800,2} [cy] pron f 3s :she: [203039]
 "<yn>"
@@ -10630,7 +10347,6 @@
 "<hi>"
 	"hi" {802,2} [cy] pron f 3s :she: [203039]
 "<ddim>"
-	"dim" {802,3} [cy] n m sg :nothing: [208789] + sm
 	"dim" {802,3} [cy] adv :not: [204176] + sm
 "<yn>"
 	"yn" {802,4} [cy] prep :in: [204430]
@@ -10643,14 +10359,11 @@
 "<i>"
 	"i" {803,1} [cy] prep :to: [202346]
 "<fi>"
-	"mi" {803,2} [cy] prt.aff :aff: [200111] + sm
+	"fi" {803,2} [cy] pron 1s :I: [201450]
 "<wybod>"
 	"gwybod" {803,3} [cy] v infin :know: [198519] + sm
 "<na>"
-	"na" {803,4} [cy] conj :(n)or: [207110]
-	"na" {803,4} [cy] conj :than: [205467]
 	"na" {803,4} [cy] prt.neg :neg: [198802]
-	"da" {803,4} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<ond>"
@@ -10659,7 +10372,6 @@
 	"dyna" {804,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {804,3} [cy] pron m 3s :he: [196922]
-	"mo" {804,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<maen>"
@@ -10677,8 +10389,6 @@
 "<myfyrwyr>"
 	"myfyriwr" {805,7} [cy] n m pl :students: [206139]
 "<o>"
-	"fo" {805,8} [cy] pron m 3s spoken :he: [209264]
-	"o" {805,8} [cy] prep :from: [203721]
 	"o" {805,8} [cy] prep :of: [203019]
 "<yr>"
 	"y" {805,9} [cy] det.def :the: [208948]
@@ -10713,7 +10423,7 @@
 "<ie>"
 	"ie" {807,4} [cy] adv :yes: [208464]
 "<ia>"
-	"ia" {807,5} [cy] unk
+	"ia" {807,5} [cy] adv :yes: [209325]
 "<!>"
 
 "<mae>"
@@ -10737,7 +10447,7 @@
 "<.>"
 
 "<dw>"
-	"dw" {809,1} [cy] unk
+	"bod" {809,1} [cy] v 1s pres spoken :be: [209292]
 "<ddim>"
 	"dim" {809,2} [cy] adv :not: [204176] + sm
 "<cofio>"
@@ -10751,9 +10461,9 @@
 "<Japanese>"
 	"Japanese" {810,3} [en] name
 "<dw>"
-	"dw" {810,4} [cy] unk
+	"bod" {810,4} [cy] v 1s pres spoken :be: [209292]
 "<i>"
-	"i" {810,5} [cy] prep :to: [202346]
+	"fi" {810,5} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {810,6} [cy] stat :stative: [200654]
 "<credu>"
@@ -10769,7 +10479,7 @@
 "<am>"
 	"am" {810,12} [cy] prep :for: [201919]
 "<un>"
-	"un" {810,13} [cy] adj :one: [202310]
+	"un" {810,13} [cy] num :one: [202310]
 "<sbel>"
 	"sbel" {810,14} [cy] unk
 "<yn>"
@@ -10791,13 +10501,13 @@
 "<.>"
 
 "<chwarae>"
-	"chwarae" {811,1} [cy] v 2s imper :play: [35030]
+	"chwarae" {811,1} [cy] n m sg :game: [200799]
 "<teg>"
 	"teg" {811,2} [cy] adj :fair: [201727]
 "<.>"
 
 "<ia>"
-	"ia" {812,1} [cy] unk
+	"ia" {812,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<wel>"
@@ -10806,7 +10516,6 @@
 	"dyna" {813,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {813,3} [cy] pron m 3s :he: [196922]
-	"mo" {813,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<mae>"
@@ -10894,7 +10603,7 @@
 "<dipyn>"
 	"tipyn" {819,5} [cy] n m sg :little bit: [199901] + sm
 "<go_lew>"
-	"go_lew" {819,6} [cy] unk
+	"go_lew" {819,6} [cy] adv :rather: [209348]
 "<.>"
 
 "<oedden>"
@@ -10912,17 +10621,13 @@
 "<ryw>"
 	"rhyw" {820,7} [cy] adj :some: [202560] + sm
 "<glamp>"
-	"glamp" {820,8} [cy] unk
+	"clamp" {820,8} [cy] n m sg :pile: [209318] + sm
 "<o>"
-	"fo" {820,9} [cy] pron m 3s spoken :he: [209264]
 	"o" {820,9} [cy] prep :from: [203721]
-	"o" {820,9} [cy] prep :of: [203019]
 "<darnau>"
 	"darn" {820,10} [cy] n m pl :pieces: [198618]
 "<o>"
 	"fo" {820,11} [cy] pron m 3s spoken :he: [209264]
-	"o" {820,11} [cy] prep :from: [203721]
-	"o" {820,11} [cy] prep :of: [203019]
 "<.>"
 
 "<oedd>"
@@ -10957,8 +10662,7 @@
 "<er>"
 	"er" {822,9} [0] er
 "<deg>"
-	"deg" {822,10} [cy] n m sg :ten: [202461]
-	"deg" {822,10} [cy] adj :ten: [205168]
+	"deg" {822,10} [cy] num :ten: [205168]
 	"teg" {822,10} [cy] adj :fair: [201727] + sm
 "<centimetr>"
 	"centimetr" {822,11} [cy] n m sg :centimeter: [208489]
@@ -10970,9 +10674,8 @@
 	"hynny" {823,2} [cy] pron :that: [208539]
 "<yn>"
 	"yn" {823,3} [cy] stat :stative: [200654]
-	"yn" {823,3} [cy] prep :in: [204430]
 "<go>"
-	"go" {823,4} [cy] unk
+	"go" {823,4} [cy] adv :rather: [209320]
 "<dda>"
 	"da" {823,5} [cy] adj :good: [208568] + sm
 "<.>"
@@ -10984,20 +10687,16 @@
 "<?>"
 
 "<ia>"
-	"ia" {825,1} [cy] unk
+	"ia" {825,1} [cy] adv :yes: [209325]
 "<.>"
 
 "<!>"
 
 "<na>"
-	"na" {827,1} [cy] conj :(n)or: [207110]
-	"na" {827,1} [cy] conj :than: [205467]
 	"na" {827,1} [cy] prt.neg :neg: [198802]
-	"da" {827,1} [cy] adj :good: [208568] + nm
 "<ddim>"
 	"dim" {827,2} [cy] adv :not: [204176] + sm
 "<fan>"
-	"fan" {827,3} [cy] n f sg :van: [201889]
 	"man" {827,3} [cy] n mf sg :place: [208816] + sm
 "<yna>"
 	"yna" {827,4} [cy] adv :there: [208848]
@@ -11021,7 +10720,6 @@
 	"llawr" {828,8} [cy] n m sg :floor: [209133]
 	"llawr" {828,8} [cy] n m sg :ground: [196973]
 "<yn>"
-	"yn" {828,9} [cy] stat :stative: [200654]
 	"yn" {828,9} [cy] prep :in: [204430]
 "<lle>"
 	"lle" {828,10} [cy] n m sg :place: [197527]
@@ -11060,9 +10758,7 @@
 "<lot>"
 	"lot" {831,1} [cy] unk
 "<o>"
-	"fo" {831,2} [cy] pron m 3s spoken :he: [209264]
 	"o" {831,2} [cy] prep :from: [203721]
-	"o" {831,2} [cy] prep :of: [203019]
 "<wynt>"
 	"gwynt" {831,3} [cy] n m sg :wind: [204673] + sm
 "<.>"
@@ -11077,7 +10773,6 @@
 	"dyna" {833,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {833,3} [cy] pron m 3s :he: [196922]
-	"mo" {833,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<maen>"
@@ -11097,7 +10792,9 @@
 "<mae>"
 	"bod" {835,2} [cy] v 3s pres :be: [59494]
 "<yr>"
-	"gyrru" {835,3} [cy] v 2s imper :drive: [36441] + sm
+	"yr" {835,3} [cy] conj :that: [205575]
+	"y" {835,3} [cy] det.def :the: [208948]
+	"gyrru" {835,3} [cy] v 3s pres :drive: [59159] + sm
 "<gaea>"
 	"cau" {835,4} [cy] v 2s imper :close: [34889] + sm
 "<wedi>"
@@ -11105,7 +10802,7 @@
 "<pasio>"
 	"pasio" {835,6} [cy] v infin :pass: [207935]
 "<rwan>"
-	"rwan" {835,7} [cy] unk
+	"rŵan" {835,7} [cy] adv :now: [209331]
 "<.>"
 
 "<ond>"
@@ -11121,7 +10818,9 @@
 "<mor>"
 	"mor" {836,6} [cy] adv :so: [202732]
 "<sych>"
+	"sych" {836,7} [cy] adj :dry: [200650]
 	"sychu" {836,7} [cy] v 2s imper :dry: [37497]
+	"sychu" {836,7} [cy] v 3s pres :dry: [60232]
 "<ag>"
 	"ag" {836,8} [cy] prep :with: [207161]
 "<erioed>"
@@ -11146,7 +10845,7 @@
 "<!>"
 
 "<ydy>"
-	"ydy" {838,1} [cy] unk
+	"bod" {838,1} [cy] v 3s pres :be: [209338]
 "<yn>"
 	"yn" {838,2} [cy] stat :stative: [200654]
 "<dal>"
@@ -11154,13 +10853,15 @@
 "<yn>"
 	"yn" {838,4} [cy] stat :stative: [200654]
 "<sych>"
+	"sych" {838,5} [cy] adj :dry: [200650]
 	"sychu" {838,5} [cy] v 2s imper :dry: [37497]
+	"sychu" {838,5} [cy] v 3s pres :dry: [60232]
 "<?>"
 
 "<ychi>"
-	"ychi" {839,1} [cy] unk
+	"gwybod" {839,1} [cy] im :you_know: [209337]
 "<nos>"
-	"mynd" {839,2} [cy] v 2s imper :go: [35901] + nm
+	"nos" {839,2} [cy] n f sg :night: [200155]
 "<um>"
 	"um" {839,3} [0] um
 "<.>"
@@ -11170,9 +10871,7 @@
 "<digonedd>"
 	"digonedd" {840,2} [cy] n m sg :abundance: [204408]
 "<o>"
-	"fo" {840,3} [cy] pron m 3s spoken :he: [209264]
 	"o" {840,3} [cy] prep :from: [203721]
-	"o" {840,3} [cy] prep :of: [203019]
 "<ddŵr>"
 	"dŵr" {840,4} [cy] n m sg :water: [206528] + sm
 "<yn>"
@@ -11188,9 +10887,9 @@
 "<ie>"
 	"ie" {841,1} [cy] adv :yes: [208464]
 "<nos>"
-	"mynd" {841,2} [cy] v 2s imper :go: [35901] + nm
+	"nos" {841,2} [cy] n f sg :night: [200155]
 "<wener>"
-	"gwenu" {841,3} [cy] v 0 imper :smile: [190597] + sm
+	"gwenu" {841,3} [cy] v 0 subj :smile: [5401] + sm
 "<oedd>"
 	"bod" {841,4} [cy] v 3s imperf :be: [74724]
 "<hi>"
@@ -11212,7 +10911,6 @@
 "<glawio>"
 	"glawio" {841,13} [cy] v infin :rain: [199009]
 "<gymaint>"
-	"cymaint" {841,14} [cy] adj :so many: [202261] + sm
 	"cymaint" {841,14} [cy] adj :so much: [202260] + sm
 "<.>"
 
@@ -11229,9 +10927,7 @@
 "<cymylau>"
 	"cwmwl" {843,4} [cy] n m pl :clouds: [199375]
 "<o>"
-	"fo" {843,5} [cy] pron m 3s spoken :he: [209264]
 	"o" {843,5} [cy] prep :from: [203721]
-	"o" {843,5} [cy] prep :of: [203019]
 "<lwch>"
 	"llwch" {843,6} [cy] n m sg :dust: [202131] + sm
 "<yn>"
@@ -11251,7 +10947,7 @@
 "<gwynt>"
 	"gwynt" {845,3} [cy] n m sg :wind: [204673]
 "<mwya>"
-	"mwya" {845,4} [cy] unk
+	"mawr" {845,4} [cy] adj.sup :biggest: [209313]
 "<ofnadwy>"
 	"ofnadwy" {845,5} [cy] adj :terrible: [203323]
 "<a>"
@@ -11273,7 +10969,7 @@
 "<oeddwn>"
 	"bod" {847,2} [cy] v 1s imperf :be: [17769]
 "<i>"
-	"i" {847,3} [cy] pron 1s :I: [204322]
+	"fi" {847,3} [cy] pron 1s :I: [204322]
 "<yn>"
 	"yn" {847,4} [cy] stat :stative: [200654]
 "<deall>"
@@ -11285,9 +10981,7 @@
 "<llawer>"
 	"llawer" {847,8} [cy] adj :many: [206927]
 "<o>"
-	"fo" {847,9} [cy] pron m 3s spoken :he: [209264]
 	"o" {847,9} [cy] prep :from: [203721]
-	"o" {847,9} [cy] prep :of: [203019]
 "<ddŵr>"
 	"dŵr" {847,10} [cy] n m sg :water: [206528] + sm
 "<yn>"
@@ -11295,8 +10989,6 @@
 "<dod>"
 	"dod" {847,12} [cy] v infin :come: [203977]
 "<o>"
-	"fo" {847,13} [cy] pron m 3s spoken :he: [209264]
-	"o" {847,13} [cy] prep :from: [203721]
 	"o" {847,13} [cy] prep :of: [203019]
 "<yr>"
 	"y" {847,14} [cy] det.def :the: [208948]
@@ -11336,16 +11028,13 @@
 "<?>"
 
 "<na>"
-	"na" {851,1} [cy] conj :(n)or: [207110]
-	"na" {851,1} [cy] conj :than: [205467]
 	"na" {851,1} [cy] prt.neg :neg: [198802]
-	"da" {851,1} [cy] adj :good: [208568] + nm
 "<mae>"
 	"bod" {851,2} [cy] v 3s pres :be: [59494]
 "<Panama>"
 	"Panama" {851,3} [0] name
 "<yndy>"
-	"yndy" {851,4} [cy] unk
+	"bod" {851,4} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<mae>"
@@ -11355,31 +11044,27 @@
 "<dod>"
 	"dod" {852,3} [cy] v infin :come: [203977]
 "<â>"
-	"â" {852,4} [cy] conj :as: [197357]
 	"â" {852,4} [cy] prep :with: [208783]
 "<llawer>"
 	"llawer" {852,5} [cy] adj :many: [206927]
 "<o>"
-	"fo" {852,6} [cy] pron m 3s spoken :he: [209264]
 	"o" {852,6} [cy] prep :from: [203721]
-	"o" {852,6} [cy] prep :of: [203019]
 "<ddŵr>"
 	"dŵr" {852,7} [cy] n m sg :water: [206528] + sm
 "<dydy>"
-	"dydy" {852,8} [cy] unk
+	"bod" {852,8} [cy] v 3sp pres.neg spoken :be: [209293]
 "<?>"
 
 "<yndy>"
-	"yndy" {853,1} [cy] unk
+	"bod" {853,1} [cy] v 3s pres.emph :be: [209360]
 "<yndy>"
-	"yndy" {853,2} [cy] unk
+	"bod" {853,2} [cy] v 3s pres.emph :be: [209360]
 "<.>"
 
 "<dyna>"
 	"dyna" {854,1} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {854,2} [cy] pron m 3s :he: [196922]
-	"mo" {854,2} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<peth>"
@@ -11387,10 +11072,7 @@
 "<ryfedd>"
 	"rhyfedd" {855,2} [cy] adj :strange: [208631] + sm
 "<na>"
-	"na" {855,3} [cy] conj :(n)or: [207110]
-	"na" {855,3} [cy] conj :than: [205467]
 	"na" {855,3} [cy] prt.neg :neg: [198802]
-	"da" {855,3} [cy] adj :good: [208568] + nm
 "<bod>"
 	"bod" {855,4} [cy] v infin :be: [205519]
 "<hi>"
@@ -11404,7 +11086,7 @@
 "<rywbeth>"
 	"rhywbeth" {855,9} [cy] n m sg :something: [197142] + sm
 "<argae>"
-	"argae" {855,10} [cy] unk
+	"argae" {855,10} [cy] n m sg :dam: [209273]
 "<arall>"
 	"arall" {855,11} [cy] adj :other: [201498]
 "<neu>"
@@ -11434,7 +11116,6 @@
 	"dyna" {856,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {856,3} [cy] pron m 3s :he: [196922]
-	"mo" {856,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<.>"
@@ -11466,10 +11147,11 @@
 "<dod>"
 	"dod" {858,13} [cy] v infin :come: [203977]
 "<lawr>"
+	"lawr" {858,14} [cy] adv :down: [209380]
 	"llawr" {858,14} [cy] n m sg :floor: [209133] + sm
 	"llawr" {858,14} [cy] n m sg :ground: [196973] + sm
 "<rhynddon>"
-	"rhynddon" {858,15} [cy] unk
+	"rhwng" {858,15} [cy] prep+pron spoken :between_us: [209355]
 "<ni>"
 	"ni" {858,16} [cy] pron 1p :we: [207621]
 "<.>"
@@ -11487,17 +11169,18 @@
 "<ond>"
 	"ond" {860,1} [cy] conj :but: [201902]
 "<basen>"
-	"basen" {860,2} [cy] unk
+	"bod" {860,2} [cy] v 3p pluperf spoken :be: [209346]
 "<nhw>"
 	"nhw" {860,3} [cy] pron 3p :they: [207491]
 "<yn>"
 	"yn" {860,4} [cy] stat :stative: [200654]
 "<gallu>"
-	"gallu" {860,5} [cy] v infin :be: [205233]
+	"gallu" {860,5} [cy] v infin :be_able: [205233]
 "<cadw>"
 	"cadw" {860,6} [cy] v infin :keep: [209061]
 "<fo>"
 	"fo" {860,7} [cy] pron m 3s :he: [196922]
+	"bod" {860,7} [cy] v 3s subj :be: [80076] + sm
 	"mo" {860,7} [cy] adv :not: [202814] + sm
 "<er>"
 	"er" {860,8} [0] er
@@ -11511,6 +11194,7 @@
 	"a" {860,12} [cy] conj :and: [203303]
 "<defnyddio>"
 	"defnyddio" {860,13} [cy] v 3s subj :use: [81025]
+	"defnyddio" {860,13} [cy] v infin :use: [206694]
 "<fo>"
 	"fo" {860,14} [cy] pron m 3s :he: [196922]
 "<.>"
@@ -11518,7 +11202,7 @@
 "<oh>"
 	"oh" {861,1} [0] oh
 "<ia>"
-	"ia" {861,2} [cy] unk
+	"ia" {861,2} [cy] adv :yes: [209325]
 "<.>"
 
 "<wel>"
@@ -11527,12 +11211,10 @@
 	"dyna" {862,2} [cy] adv :that is: [201606]
 "<fo>"
 	"fo" {862,3} [cy] pron m 3s :he: [196922]
-	"mo" {862,3} [cy] adv :not: [202814] + sm
 "<.>"
 
 "<welwn>"
-	"gwelwi" {863,1} [cy] v 1p imper :dim: [99049] + sm
-	"gweld" {863,1} [cy] v 1p imper :see: [99050] + sm
+	"gweld" {863,1} [cy] v 1p pres :see: [95281] + sm
 "<ni>"
 	"ni" {863,2} [cy] pron 1p :we: [207621]
 "<ddim_byd>"
@@ -11552,10 +11234,7 @@
 "<.>"
 
 "<na>"
-	"na" {864,1} [cy] conj :(n)or: [207110]
-	"na" {864,1} [cy] conj :than: [205467]
 	"na" {864,1} [cy] prt.neg :neg: [198802]
-	"da" {864,1} [cy] adj :good: [208568] + nm
 "<.>"
 
 "<mae>"
