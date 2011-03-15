@@ -68,7 +68,8 @@ foreach ($lines as $line_num => $line)
         //echo $segs."\n";
 
 		// This code now needs to revert from the "copy everything out of the dictionary" mode back towards the original "copy what the CG has given us"!  Although the former allows a nice table to be built, it cannot handle the output of CG substitution rules, where the POS in the dicitonary entry may get changed to another.
-        if (isset($dictid) and $dictid!=0)  // If there was a dictionary entry, and the dictionary is not the zero-language one, look it up and copy the tags into $cgfinished.
+        //if (isset($dictid) and $dictid!=0)  // If there was a dictionary entry, and the dictionary is not the zero-language one, look it up and copy the tags into $cgfinished.
+        if (isset($dictid))  // If there was a dictionary entry, look it up and copy the tags into $cgfinished.
         {
 			//if ($langid=='en')  // Replace the pos, gender, number, tense entries in enlist with the rewritten segmented entry.
 			//{
@@ -103,7 +104,7 @@ foreach ($lines as $line_num => $line)
         }
         else  // If there was no dictionary entry, write the surface form.
         {
-			$upos=(preg_match("/^[A-Z]/", $surface)) ? "m" : "u";
+			$upos=(preg_match("/^[A-ZÁ]/", $surface)) ? "m" : "u";
 			echo $utt." - ".$loc." - ".$langid." - ".$dictid." - ".$upos."\n";
             $surface=pg_escape_string($surface);  // To handle apostrophes in the entry.
             $sql_u="insert into $cgfinished (utterance_id, location, lemma, pos) values('$utt', '$loc', '$surface', '$upos')";

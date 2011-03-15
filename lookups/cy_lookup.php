@@ -46,7 +46,7 @@ while ($row_cy=pg_fetch_object($result_cy))
     $id="[".$row_cy->id."]";
     $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id)."\n"; 
     fwrite($fp, $entry);  // Write
-    echo $entry;
+    echo $entry;  // View
     unset($entry);  // Clear the decks
 }
 
@@ -69,7 +69,7 @@ if ($desoftsurface!=$surface)
             $id="[".$row_sm->id."]";
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$mutation.$gender.$number.$tense.$notes.$enlemma.$id." + sm")."\n"; 
             fwrite($fp, $entry);  // Write
-            echo $entry;
+            echo $entry;  // View
             unset($entry);  // Clear the decks
         }
     }
@@ -94,7 +94,7 @@ if ($denassurface!=$surface)
             $id="[".$row_nm->id."]";
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + nm")."\n"; 
             fwrite($fp, $entry);  // Write
-            echo $entry;
+            echo $entry;  // View
             unset($entry);  // Clear the decks
         }
     }
@@ -119,7 +119,7 @@ if ($deaspsurface!=$surface)
             $id="[".$row_am->id."]";
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + am")."\n"; 
             fwrite($fp, $entry);  // Write
-            echo $entry;
+            echo $entry;  // View
             unset($entry);  // Clear the decks
         }
     }
@@ -144,7 +144,7 @@ if ($dehsurface!=$surface)
             $id="[".$row_h->id."]";
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + h")."\n"; 
             fwrite($fp, $entry);  // Write
-            echo $entry;
+            echo $entry;  // View
             unset($entry);  // Clear the decks
         }
     }
@@ -152,10 +152,10 @@ if ($dehsurface!=$surface)
 
 if (count($dictlist)<1)
 {
-    $tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";
+    $tag=(preg_match("/^[A-ZÁ]/", $surface)) ? "name" : "unk";
     $entry="\t\"".$surface."\" ".$place."[cy] ".$tag."\n";
     fwrite($fp, $entry); // Write
-    echo $entry;
+    echo $entry;  // View
     unset($entry);  // Clear the decks
 }
 

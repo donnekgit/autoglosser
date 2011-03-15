@@ -64,11 +64,18 @@ Collecting unknown words
 select lemma, count(lemma) from patagonia6_cgfinished where pos='m' group by lemma order by lemma (names)
 select lemma, count(lemma) from patagonia6_cgfinished where pos='u' group by lemma order by lemma (unknown)
 
+
 Log unknown words:
+=============
+select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
+
 create table pat_unk as select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
 
 
-Miami/Patagonia
+Unknown words in Miami/Patagonia:
+======================
+
+You have to do a full import and autogloss so that you can select the unknown words in each language.  These then need to be added to the relevant dictionary.  Then add the indeterminates.
 
 select surface, count(*), auto, langid from patagonia6_cgwords group by surface, auto, langid order by surface, auto, langid
 select surface, count(*), auto, langid from patagonia2_cgwords where auto='unk' group by surface, auto, langid order by surface, auto, langid
@@ -79,19 +86,24 @@ Run create_unknowns patagonia2 to create a table populated with the unk(nown) it
 Run merge_cy_unknowns to merge them into cylist.
 Re-autogloss.
 
+Get all non-main language words (including indeterminates):
+select surface, count(surface),langid from patagonia6_cgwords where langid!='cym' and langid!='999' and surface!~'^[A-Z]' group by surface, langid order by langid, surface
+Note that these may not be unknown words (ie not in the respective language dictionary).
 
+Get all indeterminate words:
+select surface, count(surface),langid from patagonia6_cgwords where langid~'&' and surface!~'^[A-Z]' group by surface, langid order by langid, surface
 
-Log unknown words:
-============
-select langid, surface, count(surface) from herring1_cgwords where auto='unk' group by langid, surface order by langid, surface
+Add indeterminate items to zerolist:
+empty zerolist
+insert into zerolist (surface) select surface from patagonia6_cgwords where langid~'&' and surface!~'^[A-Z]' group by surface
+Then add them to cylist:
+insert into cylist (surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra) select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra from zerolist
 
+Get Spanish unknowns:
+select surface, count(surface) from patagonia6_cgwords where auto='unk' and langid='es' group by surface order by surface
 
-
-
-
-
-
-
+Get all unknowns
+select langid, surface, count(surface) from patagonia6_cgwords where auto='unk' group by langid, surface order by langid, surface
 
 
 
@@ -475,26 +487,74 @@ diff filea fileb | grep '^<' | wc -l
 
 
 
+Timing of import/autogloss - words
+======================
+
+select count(*) from filename_cgwords where langid !='999'
+
+
+patagonia1: 1m10.177s - 1386
+patagonia6: 1m20.736s/2m49.845s - 4862
+patagonia3: 4m16.508s - 4710
+
+
+
+
+Final tweaking of files
+=============
+
+If manual changes need to be made to files, adjust the _cgwords entries directly.  Then run write_cgautogloss.php again to generate the new cha file.  Run generate_expex.php to create the new pdf, and process it via Kile in the normal way.
+
+
+
 Notes for papers
 ===========
 
-"prefer" option would be nice, ie prefer indiciative to subjunctive or imperative
+"prefer" option would be nice, ie prefer indicative to subjunctive or imperative
 
 move from more specific to less specific:
 select ([cy] "o" prep :of:) if (-1 ([cy] n)) (2 (n) or (pron));  # llun o nhw - needs to go before the next one
 select ([cy] pron m 3s) if (-1 ([cy] n));  # enw fo
 
 patagonia2:
+------------------
 mewn home 
 yn nawdeg tri (in '93), but yn nawdeg tri [oed] (93 years old)
 roedd y te fantástico
 oedd hynna o. Mold - can we jump across sentence boundaries?
 roedd hi yn sister
 
-
-
-
-
+patagonia6:
+------------------
+dim_ond ~ mond ~ dim ond
+yn perthyn i'r capel - i uses: select ([cy] pron) if (-1 inflected); because an inflected reading is in the cohort for perthyn; how to run the rule based on the selected reading (infin in this case)?  select ([cy] pron) if (-1 inflected)(not -1 (v infin)); works
+yn ffrind i'r daith - yn is ambiguous
+"<gallu>"
+	"gallu" {496,5} [cy] v infin :be_able: [205233] SELECT:352
+;	"gallu" {496,5} [cy] n m sg :capacity: [203242] REMOVE:104
+;	"gallu" {496,5} [cy] n m sg :capability: [203243] SELECT:352
+Removing an excess noun allows the yn rule to bite.
+Combine in post-processor?
+"<llosgi>"
+	"llosgi" {587,1} [cy] v 2s pres :burn: [32810]
+	"llosgi" {587,1} [cy] v infin :burn: [202266]
+or:
+"<yn>"
+	"yn" {636,8} [cy] stat :stative: [200654]
+	"yn" {636,8} [cy] prep :in: [204430]
+;	"gan" {636,8} [cy] prep :with: [196964] + sm REMOVE:122
+"<bachgen>"
+	"bachgen" {636,9} [cy] n m sg :boy: [200585]
+Setting up rule for notas allows det.def rule to bite
+"<bod>"
+	"bod" {633,23} [cy] v infin :be: [205519]
+"<y>"
+	"y" {633,24} [cy] det.def :the: [204199] SELECT:157
+;	"y" {633,24} [cy] pron.rel :that: [200652] SELECT:157
+"<notas>"
+	"nota" {633,25} [es] n f pl :note: [80772] SELECT:719
+;	"notar" {633,25} [es] v 2s pres :sense: [80773] SELECT:719
+mynd i'r comisaría i gael dirección rhei yna
 
 
 

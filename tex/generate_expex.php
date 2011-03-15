@@ -28,7 +28,7 @@ if (empty($filename))
 
 $fp = fopen("outputs/".$filename."/".$filename.".tex", "w") or die("Can't create the file");
 
-$lines=file("tex/tex_header.tex");  // Open header file.
+$lines=file("tex/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
 	fwrite($fp, $line);
@@ -47,21 +47,33 @@ while ($row_s=pg_fetch_object($result_s))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
-		if ($row_w->langid=="eng" and $precode !="eng")
-		{
-			$row_w->surface=$row_w->surface."$^E$";
-		}
-		elseif ($row_w->langid=="eng" and $precode=="eng")
+		if ($row_w->langid=="cym" and $precode =="")
 		{
 			$row_w->surface=$row_w->surface;
 		}
-		elseif ($row_w->langid =="spa" and $precode=="eng")
+		elseif ($row_w->langid=="eng" and $precode !="eng")
 		{
-			$row_w->surface=$row_w->surface."$^S$";
+			$row_w->surface=$row_w->surface."$^{E}$";
+		}
+		elseif ($row_w->langid =="spa" and $precode!="spa")
+		{
+			$row_w->surface=$row_w->surface."$^{S}$";
+		}
+		elseif ($row_w->langid =="cym" and $precode!="cym")
+		{
+			$row_w->surface=$row_w->surface."$^{C}$";
 		}
 		elseif ($row_w->langid=="spa&eng")
 		{
-			$row_w->surface=$row_w->surface."$^E_S$";
+			$row_w->surface=$row_w->surface."$^{E}_{S}$";
+		}
+		elseif ($row_w->langid=="cym&spa") 
+		{
+			$row_w->surface=$row_w->surface."$^{C}_{S}$";
+		}
+		elseif ($row_w->langid=="spa+cym") 
+		{
+			$row_w->surface=$row_w->surface."$^{C}_{S+}$";
 		}
 
 		$surface.=$row_w->surface." ";
@@ -84,7 +96,7 @@ while ($row_s=pg_fetch_object($result_s))
 	echo $wauto."\n";
 	fwrite($fp, $wauto);
 
-	$weng="\glft ".$row_s->eng." //\n";
+	$weng="\glft ".tex_surface($row_s->eng)." //\n";
 	echo $weng."\n";
 	fwrite($fp, $weng);
 

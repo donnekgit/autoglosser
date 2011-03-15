@@ -118,7 +118,7 @@ Test carrying over the tags as separate fields instead of one concatenated tag i
 Errors:
 
 Warning: pg_query(): Query failed: ERROR:  value too long for type character varying(10) in /home/kevin/autoglosser/cgimport.php on line 99
-means that there is a tab missing between the speaker and the rest of the line.  Strangely, it seems that once the first of these is fixed, the rest are OK???
+means that there is a tab missing between the speaker and the rest of the line.
 
 Warning: pg_query(): Query failed: ERROR:  value too long for type character varying(10) in /home/kevin/autoglosser/cgimport.php on line 99
 Can't insert the items

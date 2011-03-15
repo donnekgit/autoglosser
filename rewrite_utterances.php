@@ -52,11 +52,25 @@ while ($row=pg_fetch_object($result))
 		{
 			list($surface_word, $langid)=explode('@', $surface_value);  // Siarad: hwyrach@1
 			$langid=preg_replace("/s:/","", $langid);  // Patagonia: oh@s:cy&es - ie, remove s: as well as split at @
+/*
 			// New CLAN default
-			if (preg_match("/^s$/", $langid))
+			if (preg_match("/^s$/", $langid))  // What is this condition for?
 			{
-				$langid=($precode==$lflg) ? $mflg : $lflg;
+				//$langid=($precode==$lflg) ? $mflg : $lflg;
+				if ($precode =="eng")
+				{
+					$langid="eng";
+				}
+				elseif ($precode=="spa")
+				{
+					$langid="spa";
+				}
+				elseif ($precode=="cym")
+				{
+					$langid="cym";
+				}
 			}
+*/
 		}
 		elseif(preg_match("/(\.|\?|!)/", $surface_value)) 
 		{
@@ -70,7 +84,23 @@ while ($row=pg_fetch_object($result))
 			//$langid="";
 			// changes to handle new CLAN default
 			// replace above line as follows:
-			$langid=($precode==$lflg) ? $lflg : $mflg;
+			//$langid=($precode==$lflg) ? $lflg : $mflg;
+			if ($precode =="eng")
+			{
+				$langid="eng";
+			}
+			elseif ($precode=="spa")
+			{
+				$langid="spa";
+			}
+			elseif ($precode=="cym")
+			{
+				$langid="cym";
+			}
+			elseif ($precode=="")
+			{
+				$langid="cym";
+			}
 		} 
 
         $surface_word=trim(pg_escape_string($surface_word)); 

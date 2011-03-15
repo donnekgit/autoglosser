@@ -52,7 +52,7 @@ ALTER TABLE ONLY ".$unknowns." ADD CONSTRAINT ".$unknowns."_pk PRIMARY KEY (id);
 ";
 $result_pkey=pg_query($db_handle, $sql_pkey);
 
-$sql_fill="insert into $unknowns (surface) select surface from $words where auto='unk' and langid='' group by surface order by surface";
+$sql_fill="insert into $unknowns (surface) select surface from $words where auto='unk' and langid='cym' group by surface order by surface";
 $result_fill=pg_query($db_handle, $sql_fill);
 
 ?>

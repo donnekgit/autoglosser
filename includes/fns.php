@@ -17,12 +17,12 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// Set up more frequent language and less frequent language here.  This covers the new CLAN default.
-//$mflg="spa";
-//$lflg="eng";
+// Set up more frequent language and less frequent language here.  This covers the new CLAN default.  The most frequent language is the one that is unmarked in the text, the less frequent language is the one that will be unmarked with a precode at the beginning of the line.  Note that this system only accommodates two languages - we probably need to rethink for three or more.
+$mflg="cym";
+$lflg="spa";
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
-$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "spa&eng", "cym&eng");
+$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "spa&eng", "eng&spa", "cym&eng", "cym&spa", "spa+cym");
 $cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
 $enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
 $eslg=array("3", "es", "es+en", "es+cy", "spa");
@@ -149,14 +149,17 @@ function lineclean_surface($text)
 // Note that the order of the following lines is important.
 // Remember to move any tags using & out of the way in the first line, and move them back before the main cleaning line.
 {
+/*
     $text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
     $text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
     $text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
     $text=preg_replace("/spa&eng/u", "spa#eng", $text); // move language tag out of the way
     $text=preg_replace("/eng&spa/u", "eng#spa", $text); // move language tag out of the way
+    $text=preg_replace("/cym&eng/u", "cym#eng", $text); // move language tag out of the way
+    $text=preg_replace("/cym&spa/u", "cym#spa", $text); // move language tag out of the way
+*/
 
-/*
-	// Move the language tag out of the way.  This code replaces the specific lines above with a general approach, but it's a great deal slower, so it's commented out.
+	// Move the language tag out of the way.
 	if (preg_match("/[a-z]{2,3}&[a-z]{2,3}\+[a-z]{2,3}/", $text))
 	{
 		$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})\+([a-z]{2,3})/", "$1#$2##$3", $text);
@@ -169,7 +172,7 @@ function lineclean_surface($text)
 	{
 		$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1##$2", $text);
 	}
-*/
+
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
@@ -184,15 +187,20 @@ function lineclean_surface($text)
     $text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
-
+/*
     $text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
     $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
     $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
     $text=preg_replace("/spa#eng/u", "spa&eng", $text); // move language tag back again
     $text=preg_replace("/eng#spa/u", "eng&spa", $text); // move language tag back again
+    $text=preg_replace("/cym#eng/u", "cym&eng", $text); // move language tag back again
+    $text=preg_replace("/cym#spa/u", "cym&spa", $text); // move language tag back again
+*/
 
-/*
-	// Move the language tag back again. This code replaces the specific lines above with a general approach, but it's a great deal slower, so it's commented out.
+    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: #]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  Hash added to cover language tags like spa##cym (< spa+cym).
+
+
+	// Move the language tag back again.  This needs to come after the scrub line above, because + is used in the language tags, but it will be scrubbed.  If we escape it above, it will not be scrubbed from lines, where it is often used as a delivery marker.  If this doesn't work, another option would be to list spa+cym (for instance) in the arrays above as spacym.
 	if (preg_match("/[a-z]{2,3}#[a-z]{2,3}##[a-z]{2,3}/", $text))
 	{
 		$text=preg_replace("/([a-z]{2,3})#([a-z]{2,3})##([a-z]{2,3})/", "$1&$2+$3", $text);
@@ -205,9 +213,8 @@ function lineclean_surface($text)
 	{
 		$text=preg_replace("/([a-z]{2,3})##([a-z]{2,3})/", "$1+$2", $text);
 	}
-*/
 
-    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.
+
 
     $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
     $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx
@@ -474,8 +481,6 @@ function de_soft($text)
 {
     $text=preg_replace("/^g/", "c", $text);
     $text=preg_replace("/^G/", "C", $text);
-    //$text=preg_replace("/^l/", "[gl]l", $text);
-    //$text=preg_replace("/^L/", "[GL]l", $text);
     $text=preg_replace("/^r/", "rh", $text);
     $text=preg_replace("/^R/", "Rh", $text);
     $text=preg_replace("/^l([^l])/", "[gl]l$1", $text);
@@ -547,7 +552,7 @@ function tex_auto($text)
 	$text=preg_replace("/_/", "\_", $text);  // LaTeX no like
 	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
 	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);
-	$text=preg_replace("/(I)(\..*$)/", "$1.{\scriptsize $2}", $text);
+	$text=preg_replace("/(I)(\..*$)/", "$1{\scriptsize $2}", $text);
     return $text;
 }
 
@@ -556,12 +561,12 @@ function tex_mor($text)
 {
 	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string - should no longer be required; now in write_cgfinished
 	$text=preg_replace("/_/", "\_", $text);  // LaTeX no like
+	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
 	$text=preg_replace("/\|/", "*", $text);  // LaTeX no like
 	$text=preg_replace("/\&/", "\&", $text);  // LaTeX no like
 	$text=preg_replace("/=/", "::", $text);  // LaTeX no like
-	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
 	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);
-	$text=preg_replace("/(I)(\..*$)/", "$1.{\scriptsize $2}", $text);
+	$text=preg_replace("/(I)(\..*$)/", "$1{\scriptsize $2}", $text);
     return $text;
 }
 

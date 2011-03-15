@@ -91,7 +91,7 @@ if (pg_num_rows($result_es)>0)  // Assuming we have a hit ...
 }
 elseif ($foundclitics=='0')  // If there is no match, and there is not already a clitic interpretation ...
 {
-    $tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";  // Need to adjust this so that it checks for lowercase versions of the word, eg Universidad
+    $tag=(preg_match("/^[A-ZÁ]/", $surface)) ? "name" : "unk";  // Need to adjust this so that it checks for lowercase versions of the word, eg Universidad
     $entry="\t\"".$surface."\" ".$place."[es] ".$tag."\n";
     echo $entry;  // View
     fwrite($fp, $entry);  // Write

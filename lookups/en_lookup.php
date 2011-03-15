@@ -105,7 +105,7 @@ if (pg_num_rows($result_en)>0)
 }
 elseif ($foundclitics=='0')  // If there is no match, and there is not already a clitic interpretation ...
 {
-    $tag=(preg_match("/^[A-Z]/", $surface)) ? "name" : "unk";  // Replace unk with $surface if you want to print the surface word instead.
+    $tag=(preg_match("/^[A-ZÁ]/", $surface)) ? "name" : "unk";  // Replace unk with $surface if you want to print the surface word instead.
     $entry="\t\"".$surface."\" ".$place."[en] ".$tag."\n";
     echo $entry;  // View
     fwrite($fp, $entry);  // Write
