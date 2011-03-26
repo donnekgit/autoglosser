@@ -90,9 +90,6 @@ while ($row_s=pg_fetch_object($result_s))
     unset($speech, $gls, $eng, $mor, $comment, $auto);
 }
 
-// Write out the file terminator.
-fwrite($fp, "@End\n");
-
 fclose($fp);
 
 ?>

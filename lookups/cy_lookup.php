@@ -52,7 +52,7 @@ while ($row_cy=pg_fetch_object($result_cy))
 
 if ($desoftsurface!=$surface)
 {
-    $sql_sm="select * from cylist where surface~'^$desoftsurface$'";
+    $sql_sm="select * from cylist where surface~'^$desoftsurface$'";  // We use this format instead of = in order to handle alternates like [mb].
     $result_sm=pg_query($db_handle,$sql_sm) or die("Can't get the items");
     while ($row_sm=pg_fetch_object($result_sm))
     {

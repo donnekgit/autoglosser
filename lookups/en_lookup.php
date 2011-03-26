@@ -36,10 +36,10 @@ $candidate=segment_eng($surface);
 if (preg_match("/.+#/", $candidate))
 {
 	$first=preg_split("/#/", segment_eng($candidate), 2);
-	$seg2=$first[1];
+	$seg2=$first[1];  // The found clitic.
 	//echo $seg2."\n";
 	$main=$first[0];
-	$main=fix_seg($main);
+	$main=fix_seg($main);  // The target word without clitic.
 	//echo $main."\n";
 /*
 	if ($seg2!="")
@@ -51,7 +51,7 @@ if (preg_match("/.+#/", $candidate))
 		$prseg2="";
 	}
 */
-	$prseg2=($seg2!="") ? " # ".$seg2 : "";
+	$prseg2=($seg2!="") ? " # ".$seg2 : "";  // Format the clitic to print out in the CG cohort line.
 	//echo $prseg2."\n";
 	//$cgline=$main.$prseg2;
 	//echo $candidate. " --- ".$cgline."\n";
@@ -71,14 +71,14 @@ if (preg_match("/.+#/", $candidate))
 			$notes=($row_en->notes =='') ? "" : $row_en->notes." ";
 			$enlemma=":".$row_en->enlemma.": ";
 			$id="[".$row_en->id."]";
-			$entry.=$lemma.$place."[en] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id;
+			$entry.=pg_escape_string($lemma.$place."[en] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id);
 			$entry=$entry.$prseg2."\n";  // Attach the endings we found earlier
             echo $entry;  // View
             fwrite($fp, $entry);  // Write
             unset($entry, $main);  // Clear the decks
 		}
 	}
-	unset($prseg2);  // The endings need to be cleared here, or when there is more than one hit in the cohort, hits other than the first one will not have the ending appended..
+	unset($prseg2);  // The endings need to be cleared here, or when there is more than one hit in the cohort, hits other than the first one will not have the ending appended.
 }
 
 // Now look up non-clitic forms.
@@ -97,7 +97,7 @@ if (pg_num_rows($result_en)>0)
         $notes=($row_en->notes =='') ? "" : $row_en->notes." ";
         $enlemma=":".$row_en->enlemma.": ";
         $id="[".$row_en->id."]";
-        $entry.=$lemma.$place."[en] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id."\n";
+        $entry.=pg_escape_string($lemma.$place."[en] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id)."\n";
         echo $entry;  // View
         fwrite($fp, $entry);  // Write
         unset($entry);  // Clear the decks

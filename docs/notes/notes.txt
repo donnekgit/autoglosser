@@ -82,8 +82,8 @@ select surface, count(*), auto, langid from patagonia2_cgwords where auto='unk' 
 select count(*) from patagonia2_cgwords
 select * from patagonia6_cgwords where auto ~ '\\[or\\]'
 
-Run create_unknowns patagonia2 to create a table populated with the unk(nown) items from the patagonia2 table.
-Run merge_cy_unknowns to merge them into cylist.
+Run create_cy_unknowns filename to create a table populated with the unk(nown) items from the patagonia2 table.
+Run merge_cy_unknowns filename to merge them into cylist.
 Re-autogloss.
 
 Get all non-main language words (including indeterminates):
@@ -107,8 +107,41 @@ select langid, surface, count(surface) from patagonia6_cgwords where auto='unk' 
 
 
 
+
+
+Unknown words in Siarad
+================
+
+select surface, count(*), auto, gls, langid from stammers4_cgwords group by surface, auto, gls, langid order by surface, auto, gls, langid
+select langid, surface, count(surface) from stammers4_cgwords where auto='unk' group by langid, surface order by langid, surface
+
+
+
+
+Timing of import/autogloss - words
+======================
+
+select count(*) from filename_cgwords where langid !='999'
+
+
+patagonia1: 1m10.177s - 1386
+patagonia6: 1m20.736s/2m49.845s - 4862
+patagonia3: 4m16.508s - 4710
+
+
+
+Siarad:
+stammers4: 5m21.520s - 4554
+
+
+
+
+
+
+
 Select tablenames
-===========
+============
+
 select tablename from pg_tables where tablename !~'(pg_|sql_|_sp)' and tablename ~'_'
 
 
@@ -487,19 +520,6 @@ diff filea fileb | grep '^<' | wc -l
 
 
 
-Timing of import/autogloss - words
-======================
-
-select count(*) from filename_cgwords where langid !='999'
-
-
-patagonia1: 1m10.177s - 1386
-patagonia6: 1m20.736s/2m49.845s - 4862
-patagonia3: 4m16.508s - 4710
-
-
-
-
 Final tweaking of files
 =============
 
@@ -557,13 +577,19 @@ Setting up rule for notas allows det.def rule to bite
 mynd i'r comisaría i gael dirección rhei yna
 
 
+Watch out for typos in the grammar file - if you end up with absolutely no autoglosses, it is probably due to this.  If you are using the umbrella scripts, the warning will flash past to quick to see.  Comapre the _cg and _cg_applied files - if the former is full and the latter is empty, there is a typo.  Running php apply_cg.php filename will confirm this.
 
 
 
 
 
+Features to add
+==========
 
+1 - Change name of final file from filename_autoglssed.txt to filename.cha.
 
+2 - For indeterminate words, try lookup first in the English dictionary (or whatever) (using the demut functions), and then in inlist.
+freak_o, whine_io: split at _[i]o and look up the first bit
 
 
 

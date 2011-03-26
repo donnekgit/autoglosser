@@ -31,6 +31,15 @@ $fp = fopen("outputs/".$filename."/".$filename.".tex", "w") or die("Can't create
 $lines=file("tex/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
+	if (preg_match("/filename/", $line))  // replace the holder in the TeX file with the name of the conversation
+	{
+		$line=preg_replace("/filename/", "$filename", $line);
+	}
+	else
+	{
+		$line=$line;
+	}
+	echo $line."\n";
 	fwrite($fp, $line);
 }
 
@@ -63,9 +72,13 @@ while ($row_s=pg_fetch_object($result_s))
 		{
 			$row_w->surface=$row_w->surface."$^{C}$";
 		}
-		elseif ($row_w->langid=="spa&eng")
+		elseif ($row_w->langid=="cym&eng")
 		{
-			$row_w->surface=$row_w->surface."$^{E}_{S}$";
+			$row_w->surface=$row_w->surface."$^{C}_{E}$";
+		}
+		elseif ($row_w->langid=="eng&spa")
+		{
+			$row_w->surface=$row_w->surface."$^{S}_{E}$";
 		}
 		elseif ($row_w->langid=="cym&spa") 
 		{
@@ -73,7 +86,11 @@ while ($row_s=pg_fetch_object($result_s))
 		}
 		elseif ($row_w->langid=="spa+cym") 
 		{
-			$row_w->surface=$row_w->surface."$^{C}_{S+}$";
+			$row_w->surface=$row_w->surface."$^{S+}_{C}$";
+		}
+		elseif ($row_w->langid=="eng+cym") 
+		{
+			$row_w->surface=$row_w->surface."$^{E+}_{C}$";
 		}
 
 		$surface.=$row_w->surface." ";
@@ -81,6 +98,9 @@ while ($row_s=pg_fetch_object($result_s))
 		$row_w->auto=tex_auto($row_w->auto);
 		//$row_w->auto=tex_pos_colour($row_w->auto);  // Uncomment to get colour-coded POS tags.
 		$auto.=$row_w->auto." ";
+
+		$row_w->gls=tex_auto($row_w->gls);
+		$gls.=$row_w->gls." ";
 	}
 
 	$begingl="\ex\n\begingl[lingstyle=gergl]\n";
@@ -92,9 +112,23 @@ while ($row_s=pg_fetch_object($result_s))
 	echo $wsurface."\n";
 	fwrite($fp, $wsurface);
 
+	// The following sections can be selectively uncommented to allow alignment of the autogloss, the manual gloss, or the MOR gloss.  Note that only one of the three can be chosen for display - this is a shortcoming of the current ExPex package, which only allows display of one gloss line in running text mode.
+
+
 	$wauto="\glb \%aut ".$precode." ".$auto." //\n";
 	echo $wauto."\n";
 	fwrite($fp, $wauto);
+
+/*
+	$wgls="\glb \%gls ".$precode." ".$gls." //\n";
+	echo $wgls."\n";
+	fwrite($fp, $wgls);
+
+/*
+	$wmor="\glb \%mor ".$precode." ".$mor." //\n";
+	echo $wmor."\n";
+	fwrite($fp, $wmor);
+*/
 
 	$weng="\glft ".tex_surface($row_s->eng)." //\n";
 	echo $weng."\n";
@@ -105,7 +139,7 @@ while ($row_s=pg_fetch_object($result_s))
 
 	fwrite($fp, "\n");
 
-	unset($surface, $auto, $mor, $wsurface, $wauto, $wmor, $weng, $precode);
+	unset($surface, $auto, $gls, $mor, $wsurface, $wauto, $wgls, $wmor, $weng, $precode);
 }
 
 $lines=file("tex/tex_footer.tex");  // Open footer file.

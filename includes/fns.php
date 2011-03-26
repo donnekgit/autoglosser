@@ -18,11 +18,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // Set up more frequent language and less frequent language here.  This covers the new CLAN default.  The most frequent language is the one that is unmarked in the text, the less frequent language is the one that will be unmarked with a precode at the beginning of the line.  Note that this system only accommodates two languages - we probably need to rethink for three or more.
-$mflg="cym";
-$lflg="spa";
+//$mflg="cym";
+//$lflg="spa";
+// No longer used.
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
-$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "spa&eng", "eng&spa", "cym&eng", "cym&spa", "spa+cym");
+$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "spa&eng", "eng&spa", "cym&eng", "cym&spa");
 $cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
 $enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
 $eslg=array("3", "es", "es+en", "es+cy", "spa");
@@ -147,77 +148,38 @@ function fix_transcription($text)
 function lineclean_surface($text)
 // Remove markers and non alphanumeric characters from the surface text.
 // Note that the order of the following lines is important.
-// Remember to move any tags using & out of the way in the first line, and move them back before the main cleaning line.
+// Language tags using + are converted to % and back again.  Language tags using & need to be entered in the list of escaped sequences.
 {
-/*
-    $text=preg_replace("/cy&es/u", "cy#es", $text); // move language tag out of the way
-    $text=preg_replace("/cy&en/u", "cy#en", $text); // move language tag out of the way
-    $text=preg_replace("/en&es/u", "en#es", $text); // move language tag out of the way
-    $text=preg_replace("/spa&eng/u", "spa#eng", $text); // move language tag out of the way
-    $text=preg_replace("/eng&spa/u", "eng#spa", $text); // move language tag out of the way
-    $text=preg_replace("/cym&eng/u", "cym#eng", $text); // move language tag out of the way
-    $text=preg_replace("/cym&spa/u", "cym#spa", $text); // move language tag out of the way
-*/
 
-	// Move the language tag out of the way.
-	if (preg_match("/[a-z]{2,3}&[a-z]{2,3}\+[a-z]{2,3}/", $text))
-	{
-		$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})\+([a-z]{2,3})/", "$1#$2##$3", $text);
-	}
-	elseif (preg_match("/([a-z]{2,3})&([a-z]{2,3})/", $text))
-	{
-		$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})/", "$1#$2", $text);
-	}
-	elseif (preg_match("/([a-z]{2,3})\+([a-z]{2,3})/", $text))
-	{
-		$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1##$2", $text);
-	}
-
+	$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1%$2", $text);  // Move language tags containing + out of the way (the main cleaning line removes all +s).
+	$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})/", "$1%%$2", $text);  // Move language tags containing & out of the way (the main cleaning line removes all &s).
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
 
-    $text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
-    $text=preg_replace("/<.[^>]+>/u", "", $text); // Remove backtracking words in angle brackets.
+	// Uncomment for Miami - follows the MOR convention
+    //$text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
+    //$text=preg_replace("/<.[^>]+>/u", "", $text); // Remove backtracking words in angle brackets.
 
     $text=preg_replace("/\[.[^\]]*\]/u", "", $text); // Remove anything in square brackets.
-    $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself.
+	// Remember to add your language tags here:
+    $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself, or before a language tag
     $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
 
-    $text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
-	$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	// Uncomment for Miami - follows the MOR convention
+    //$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	//$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
-/*
-    $text=preg_replace("/cy#es/u", "cy&es", $text); // move language tag back again
-    $text=preg_replace("/cy#en/u", "cy&en", $text); // move language tag back again
-    $text=preg_replace("/en#es/u", "en&es", $text); // move language tag back again
-    $text=preg_replace("/spa#eng/u", "spa&eng", $text); // move language tag back again
-    $text=preg_replace("/eng#spa/u", "eng&spa", $text); // move language tag back again
-    $text=preg_replace("/cym#eng/u", "cym&eng", $text); // move language tag back again
-    $text=preg_replace("/cym#spa/u", "cym&spa", $text); // move language tag back again
-*/
 
-    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: #]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  Hash added to cover language tags like spa##cym (< spa+cym).
+    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: %]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  % added to cover language tags like spa%%cym (< spa+cym).
 
+	$text=preg_replace("/([a-z]{2,3})%([a-z]{2,3})/", "$1+$2", $text);  // Move language tags containing + back again.
+	$text=preg_replace("/([a-z]{2,3})%%([a-z]{2,3})/", "$1&$2", $text);  // Move language tags containing & back again.
 
-	// Move the language tag back again.  This needs to come after the scrub line above, because + is used in the language tags, but it will be scrubbed.  If we escape it above, it will not be scrubbed from lines, where it is often used as a delivery marker.  If this doesn't work, another option would be to list spa+cym (for instance) in the arrays above as spacym.
-	if (preg_match("/[a-z]{2,3}#[a-z]{2,3}##[a-z]{2,3}/", $text))
-	{
-		$text=preg_replace("/([a-z]{2,3})#([a-z]{2,3})##([a-z]{2,3})/", "$1&$2+$3", $text);
-	}
-	elseif (preg_match("/([a-z]{2,3})#([a-z]{2,3})/", $text))
-	{
-		$text=preg_replace("/([a-z]{2,3})#([a-z]{2,3})/", "$1&$2", $text);
-	}
-	elseif (preg_match("/([a-z]{2,3})##([a-z]{2,3})/", $text))
-	{
-		$text=preg_replace("/([a-z]{2,3})##([a-z]{2,3})/", "$1+$2", $text);
-	}
-
-
-
-    $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
+    $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this
+    $text=preg_replace("/xxx xxx/u", " ", $text);  // the regex below misses this
     $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx
+    $text=preg_replace("/(^| )w{1,3}( |$)/u", " ", $text); // w, ww, www - marking text that is untranscribed because the speaker did not give consent.
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
@@ -235,7 +197,8 @@ function wordclean_surface($text)
 function lineclean_gls($text)
 // Make corrections to the %gls tier as a whole, before it is segmented into words.
 {
-    $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this, probably because of the subpattern being captured
+    $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this
+    $text=preg_replace("/xxx xxx/u", " ", $text);  // the regex below misses this
     $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx - need to account for when x appears in first or last position
 
     $text=preg_replace("/ +/u", " ", $text);  // to catch places where there is more than one space in the gloss line
@@ -329,7 +292,7 @@ function segment_eng($text)
 	// For the elided forms below we need to double the apostrophe in the search pattern.  This is because pg_escape_string in write_cohorts.php adds an additional apostrophe to escape an apostrophe in the word; we need to remove both, otherwise one will get left after the segmentation, and prevent the lookup.
 	$text=preg_replace("/''d$/u", "#be.v.cond", $text);  // we'd, he'd, they'd
 	$text=preg_replace("/''m$/u", "#be.v.pres", $text);  // I'm
-	$text=preg_replace("/''re$/u", "#be.v.pres", $text);  // we're
+	$text=preg_replace("/''re$/u", "#be.v.pres", $text);  // we're, they're
 	$text=preg_replace("/''ll$/u", "#be.v.fut", $text);  // we're
 	$text=preg_replace("/''ve$/u", "#have.v.pres", $text);  // we've, they've
 	$text=preg_replace("/''s$/u", "#gb", $text);  // father's, that's, he's
@@ -416,13 +379,30 @@ function segment_eng($text)
 	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])ed$/u", "$1#av", $text); 
 	$text=preg_replace("/([aeiou][aeiou][bcdfgprstvxz])s$/u", "$1#pv", $text);  // breaks - but leaves is wrong
 
+	// Remember to transfer any changes here to segment_engforin too ...
 	$text=preg_replace("/(ee)s$/u", "$1#pl", $text); // employee
+	$text=preg_replace("/(sse)s$/u", "$1#pl", $text); // basses
 	$text=preg_replace("/(ie)s$/u", "$1#pl", $text); // movie
 	$text=preg_replace("/(de)s$/u", "$1#pl", $text); // episode
 	$text=preg_replace("/(one)s$/u", "$1#pl", $text); // one
 
 	$text=preg_replace("/(?<![1ieus'])s$/u", "#pv", $text);  // general plural or verb.3s
 
+	return $text;
+}
+
+function segment_engforin($text)
+// Segment the clitic pronouns from the verbform.
+// Remember to transfer any changes here to segment_eng too ...
+{	
+	$text=preg_replace("/_i?o/", "#wv", $text);  // Segment _io/_o endings in Siarad transcriptions, and mark as Welsh verb.
+
+	$text=preg_replace("/(ee)s$/u", "$1#pl", $text); // employee
+	$text=preg_replace("/(sse)s$/u", "$1#pl", $text); // basses
+	$text=preg_replace("/(ie)s$/u", "$1#pl", $text); // movie
+	$text=preg_replace("/(de)s$/u", "$1#pl", $text); // episode
+	$text=preg_replace("/(one)s$/u", "$1#pl", $text); // one
+	$text=preg_replace("/(?<![1ieus'])s$/u", "#pl", $text);  // general plural
 	return $text;
 }
 
@@ -542,6 +522,7 @@ function tex_surface($text)
 {
 	$text=preg_replace("/_/", "\_", $text);
 	$text=preg_replace("/%/", "\%", $text);
+	$text=preg_replace("/\&/", "\&", $text);
 	return $text;
 }
 

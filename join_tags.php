@@ -31,31 +31,15 @@ $sql="select * from $cgfinished order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-    if ($row->enlemma=='')  // If there is no English lemma, set it to unk if unknown, and name if the initial letter is a capital
-    {
-        if ($row->pos=='u')
-        {
-            $enlemma='unk';
-            $pos='';
-        }
-        elseif ($row->pos=='m')
-        {
-            $enlemma='name'; 
-            $pos='';
-        }
-    }
-    else
-    {
-        $enlemma=$row->enlemma.".";
-        $pos=$row->pos."."; 
-    }
-    $gender=($row->gender =='') ? "" : $row->gender.".";
-    $number=($row->number =='') ? "" : $row->number.".";
-    $tense=($row->tense =='') ? "" : $row->tense.".";
-    $notes=($row->notes =='') ? "" : $row->notes.".";
-    $extra=($row->extra =='') ? "" : "+".$row->extra;  // needs to be changed to = to follow the Leipzig glossing rules
-    $tags=strtoupper(preg_replace('/\.$/','', $pos.$gender.$number.$tense.$notes.$extra));
+	$enlemma=$row->enlemma.".";
+	$pos=($row->pos=='') ? "" : $row->pos.".";
+    $extra=($row->extra =='') ? "" : "+".$row->extra.".";  // needs to be changed to = to follow the Leipzig glossing rules
+    $seg=($row->seg =='') ? "" : "+".$row->seg;  // needs to be changed to = to follow the Leipzig glossing rules
+	$combined1=$pos.$extra.$seg;
+    $combined2=strtoupper($combined1);  // uppercase the POS-tags
+    $tags=preg_replace('/\.\+/','+', $combined2);  // remove the dot before a +
     $lemtags=pg_escape_string($enlemma.$tags);
+    $lemtags=preg_replace('/\.$/','', $lemtags);  // remove the dot at the end of the string
     if ($row->utterance_id==$utt and $row->location==$loc)
     {
         $auto=$auto."[or]".$lemtags;

@@ -25,14 +25,12 @@ CREATE TABLE $cgfinished (
     id serial NOT NULL,
 	utterance_id integer,
 	location integer,
+	surface character varying(100),
     lemma character varying(100),
     enlemma character varying(100),
-    pos character varying(50),
-    gender character varying(20),
-    number character varying(20),
-    tense character varying(50),
-    notes character varying(50),
-    extra character varying(100)
+    pos character varying(200),
+    extra character varying(100),
+	seg character varying(100)
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);

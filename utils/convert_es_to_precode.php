@@ -22,7 +22,7 @@ $fp = fopen("outputs/".$filename."/".$filename."_b.cha", "w") or die("Can't crea
 
 //$sql1="select utterance_id, lgprofile from $profiletable where lgprofile !~'(0|3)' and lgprofile != ''";
 // Loosen a bit to count 0s in an utterance that is otherwise 2s
-$sql1="select utterance_id, lgprofile from sastre1_lgprofile where lgprofile !~'3' and lgprofile !='0' and lgprofile !='00' and lgprofile !='000' and lgprofile != ''";
+$sql1="select utterance_id, lgprofile from ".$filename."_lgprofile where lgprofile !~'3' and lgprofile !='0' and lgprofile !='00' and lgprofile !='000' and lgprofile != ''";
 // The above would need to be changed for alphabetic language tags (en, es, spa, etc)
 $result1=pg_query($db_handle,$sql1) or die("Can't get the items");
 while ($row1=pg_fetch_object($result1))

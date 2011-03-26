@@ -30,6 +30,17 @@ echo $words."\n";
 echo $cgfinished."\n";
 echo "Outputs are in outputs/$filename/\n";
 
+//$fp = fopen("outputs/".$filename."/".$filename."_log.txt", "w") or die("Can't create the file");
+
+//echo "*\n*\nPreparing $filename\n*\n*\n";
+//include("prepare_file.php");
+
+echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
+include("cgimport.php");
+
+echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
+include("rewrite_utterances.php");
+
 echo "*\n*\nDoing dictionary lookup and generating CG cohorts\n*\n*\n";
 include("write_cohorts.php");
 
@@ -44,5 +55,16 @@ include("join_tags.php");
 
 echo "*\n*\nTidying the $words table\n*\n*\n";
 include("tidy_or.php");
+
+echo "*\n*\nWriting a chat file for $filename\n*\n*\n";
+include("write_cgautogloss.php");
+
+echo "*\n*\nWriting a TeX file for $filename\n*\n*\n";
+include("tex/generate_expex.php");
+
+echo "*\n*\nGenerating a pdf for $filename\n*\n*\n";
+exec("pdflatex -output-directory=outputs/".$filename." outputs/".$filename."/".$filename.".tex");
+
+//fclose($fp);
 
 ?>
