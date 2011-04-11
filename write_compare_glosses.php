@@ -42,7 +42,7 @@ while ($row_s=pg_fetch_object($result_s))
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
     while ($row_w=pg_fetch_object($result_w))
     {
-		$entry="\"'".$row_w->location."\",\"'".$row_w->langid."\",\"'".$row_w->surface."\",\"".$row_w->auto."\",\"".$row_w->gls."\"\n";
+		$entry="\"'".$row_w->location."\",\"".$row_w->langid."\",\"".$row_w->surface."\",\"".$row_w->auto."\",\"".$row_w->gls."\"\n";  // Note the use of a single quote in the first column to format it as text.
 		fwrite($fp, $entry);
     }
 

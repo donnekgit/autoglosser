@@ -1,7 +1,7 @@
 \documentclass[11pt]{article}
 \usepackage{eacl2009}
 \usepackage{times}
-\usepackage{url}
+\usepackage[obeyspaces]{url}
 \urlstyle{rm}
 \usepackage{latexsym}
 %\setlength\titlebox{6.5cm}    % You can expand the title box if you really have to
@@ -10,6 +10,10 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 %\usepackage{float}
+\usepackage{verbatim}
+\usepackage[margin=10pt,font=small,labelfont=bf,labelsep=endash]{caption}
+
+
 
 \interfootnotelinepenalty=10000
 
@@ -31,14 +35,56 @@ We present a novel use of constraint grammar (CG) in automatic glossing software
 \section{Introduction}
 \label{sec:intro}
 
-Bangor University's ESRC Centre for Research on Bilingualism\footnote{http://bilingualism.bangor.ac.uk} has assembled some 130 bilingual conversations totalling 60 hours and 750,000 words in three languages: Welsh, Spanish and English.  The conversations are grouped into three corpora, all available under the GNU GPL.\footnote{http://www.gnu.org/licenses/gpl.html}  Each recording is provided with a detailed transcription in the widely-used CLAN format \cite{macwhinney2000}, along with a free translation in English, and an interlinear gloss giving lexemes and part-of-speech (POS) tags for each word, so that researchers without first-hand knowledge of the languages concerned can more easily parse the utterances.
+Bangor University's ESRC Centre for Research on Bilingualism\footnote{http://bilingualism.bangor.ac.uk} has assembled some 130 bilingual conversations totalling 80 hours and 750,000 words in three languages: Welsh, Spanish and English.  The conversations are grouped into three corpora, all available under the GNU GPL.\footnote{http://www.gnu.org/licenses/gpl.html}  Each recording is provided with a detailed transcription in the widely-used CLAN format \cite{macwhinney2000}, along with a free translation in English, and an interlinear gloss giving lexemes and part-of-speech (POS) tags for each word, so that researchers without first-hand knowledge of the languages concerned can more easily parse the utterances.
+
+Part of a typical transcription is shown in Figures \ref{chat_file1} and \ref{chat_file2}. ***FIX*** We need a text with the free translation.  Each language utterance has an ID for the speaker (*KEV), and a tag giving the time-location of the utterance in the conversation.  Below that is the gloss tier (\%gls in the Welsh file, and \%aut in the Spanish file).  Below that is the free translation into English.
+
+\begin{figure*} 
+\begin{footnotesize}
+\begin{verbatim}
+*KEV: eso más bien yo creo que lo que va a hacer es como un adorno pero . 
+#%snd:"sastre1_b"_60356_63286#
+%aut: that.PRON.DEM.NT.SG more.ADV well.ADV I.PRON.SUB.MF.1S believe.V.1S.PRES 
+that.CONJ the.DET.DEF.NT.SG that.CONJ 
+go.V.23S.PRES to.PREP do.V.INFIN be.V.23S.PRES like.CONJ one.DET.INDEF.M.SG 
+embellishment.N.M.SG but.CONJ
+*KEV: baja la velocidad ahí ? #%snd:"sastre1_b"_63286_65895#
+%aut: lower.V.2S.IMPER the.DET.DEF.F.SG velocity.N.F.SG there.ADV
+*SOF: pero la calle no la van a hacer no ? #%snd:"sastre1_b"_65876_70050#
+%aut: but.CONJ the.DET.DEF.F.SG street.N.F.SG not.ADV her.PRON.OBJ.F.3S 
+go.V.23P.PRES to.PREP do.V.INFIN not.ADV 
+\end{verbatim}
+\end{footnotesize}
+\caption{Excerpt from a CHAT (.cha) file in the Miami corpus (Spanish-English)}
+\label{chat_file1}
+\end{figure*}
+
+\begin{figure*} 
+\begin{footnotesize}
+\begin{verbatim}
+*KEV: eso más bien yo creo que lo que va a hacer es como un adorno pero . 
+#%snd:"sastre1_b"_60356_63286#
+%aut: that.PRON.DEM.NT.SG more.ADV well.ADV I.PRON.SUB.MF.1S believe.V.1S.PRES 
+that.CONJ the.DET.DEF.NT.SG that.CONJ 
+go.V.23S.PRES to.PREP do.V.INFIN be.V.23S.PRES like.CONJ one.DET.INDEF.M.SG 
+embellishment.N.M.SG but.CONJ
+*KEV: baja la velocidad ahí ? #%snd:"sastre1_b"_63286_65895#
+%aut: lower.V.2S.IMPER the.DET.DEF.F.SG velocity.N.F.SG there.ADV
+*SOF: pero la calle no la van a hacer no ? #%snd:"sastre1_b"_65876_70050#
+%aut: but.CONJ the.DET.DEF.F.SG street.N.F.SG not.ADV her.PRON.OBJ.F.3S 
+go.V.23P.PRES to.PREP do.V.INFIN not.ADV 
+\end{verbatim}
+\end{footnotesize}
+\caption{Excerpt from a CHAT (.cha) file in the Siarad corpus (Welsh-English)}
+\label{chat_file2}
+\end{figure*}
+
+\section{Autoglosser overview}
+\label{sec:autoglosser}
 
 The Siarad (Welsh-English) corpus (published in 2009) was glossed manually, but this was tedious and time-consuming, and in order to save valuable specialist time the Miami (Spanish-English) and Patagonia (Welsh-Spanish) corpora (to be published this summer) are instead being glossed using software developed at the Centre over the last few months.
 
-\section{Structure of the autoglosser}
-\label{sec:autoglosser}
-
-The autoglosser uses the PHP scripting language in combination with a PostgreSQL database.  Each utterance in the transcribed conversation file is imported into a database table, and then split into words, which are stored in another table.  Each word is then looked up against a dictionary table for the appropriate language -- the transcription notes the language of each word, so this is easy.\footnote{Even in the absence of such annotation it would in principle be possible to use a brute-force lookup on each dictionary in turn.}  The cohorts of readings are then written out to a file in the format required by the contraint grammar parser,\footnote{http://visl.sdu.dk/cg3.html} which applies the grammar rules to winnow out invalid readings and write out another file.  This is then read back in to the database, with the glosses being extracted and stored in the words table.  Finally, the utterances are written out again, along with the concatenated glosses (following the Leipzig schema so far as possible), to create a final text with an interlinear gloss.
+The autoglosser uses the PHP scripting language in combination with a PostgreSQL database.  Each utterance in the transcribed conversation file is imported into a database table, and then split into words, which are stored in another table.  Each word is looked up against a dictionary table for the appropriate language -- the transcription notes the language of each word, so this is easy.\footnote{Even in the absence of such annotation it would in principle be possible to use a brute-force lookup on each dictionary in turn.}  The cohorts of readings are then written out to a file in the format required by the contraint grammar parser,\footnote{http://visl.sdu.dk/cg3.html} which applies the grammar rules to winnow out invalid readings and write out another file.  This is then read back in to the database, with the glosses being extracted and stored in the words table.  Finally, the utterances are written out again, along with the concatenated glosses (following the Leipzig schema so far as possible), to create a final text with an interlinear gloss.
 
 The autoglosser takes 2-3 minutes to import, gloss and output a 5,000-word text.  The grammar file  currently contains about 150 rules for Spanish, about 180 for Welsh, and around 200 for English.  Autoglosser accuracy is more than 95\% in all three languages. [Detailed figures to be included.]
 
@@ -122,11 +168,7 @@ Although the current configuration of rules is working well, we hope to explore 
 
 \section*{Acknowledgments}
 
-The support of the Arts and Humanities Research Council (AHRC), the Economic and
-Social Research Council (ESRC), the Higher Education Funding Council for Wales and the
-Welsh Assembly Government is gratefully acknowledged. The work presented in this paper
-was part of the programme of the ESRC Centre for Research on Bilingualism in Theory and
-Practice at Bangor University.
+The support of the Arts and Humanities Research Council (AHRC), the Economic and Social Research Council (ESRC), the Higher Education Funding Council for Wales and the Welsh Assembly Government is gratefully acknowledged. The work presented in this paper was part of the programme of the ESRC Centre for Research on Bilingualism in Theory and Practice at Bangor University.
 
 
 %\bibliographystyle{acl}
