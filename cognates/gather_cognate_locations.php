@@ -1,6 +1,6 @@
 <?php
 
-// this script gathers the cognates into a cogloc table, which segment_at_cognate can then use to break each utterance into segments at the cognate.
+// This script gathers utterances with  cognates into a cogloc table, which segment_at_cognate can then use to break each utterance into segments at the cognate.  Utterances without cognates can be treated separately.
 
 if (empty($filename))
 {

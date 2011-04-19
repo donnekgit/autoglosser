@@ -31,6 +31,14 @@ $eslg=array("3", "es", "es+en", "es+cy", "spa");
 // Set up the grammar file here.
 $gram_file="en_es";
 
+function query($sql)
+// simplify the query writing
+// use this as: $result=query("select * from table")
+{
+    global $db_handle;
+    return pg_query($db_handle,$sql);
+}
+
 function get_filename()
 // Turn the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
 // $chafile = the argument to the script; this is usually a full path to a file, but it can also be the file itself
@@ -523,6 +531,7 @@ function tex_surface($text)
 	$text=preg_replace("/_/", "\_", $text);
 	$text=preg_replace("/%/", "\%", $text);
 	$text=preg_replace("/\&/", "\&", $text);
+	$text=preg_replace("/</", "$<$", $text);
 	return $text;
 }
 
