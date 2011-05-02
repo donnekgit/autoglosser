@@ -32,17 +32,12 @@ $sql_s="select * from $utterances order by utterance_id";
 $result_s=pg_query($db_handle,$sql_s) or die("Can't get the items");
 while ($row_s=pg_fetch_object($result_s))
 {
-	$uttno="\"Utterance ".$row_s->utterance_id."\"\n";
-	fwrite($fp, $uttno);
-	
-	//$thisutt="\"".$row_s->surface."\"\n";
-	//fwrite($fp, $thisutt);
-
-    $sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
+	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
     while ($row_w=pg_fetch_object($result_w))
     {
-		$entry="\"'".$row_w->location."\",\"".$row_w->langid."\",\"".$row_w->surface."\",\"".$row_w->auto."\",\"".$row_w->gls."\"\n";  // Note the use of a single quote in the first column to format it as text.
+		$entry="\"".$row_s->utterance_id."\",\"".$row_w->location."\",\"'".$row_w->langid."\",\"'".$row_w->surface."\",\"".$row_w->auto."\",\"".$row_w->gls."\"\n";  
+		// Use a single quote in columns you want formatted as text (here, langid and surface)
 		fwrite($fp, $entry);
     }
 

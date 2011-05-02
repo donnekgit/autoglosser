@@ -18,11 +18,11 @@ while ($row0=pg_fetch_object($result0))
 	($prev_utt==$utt ? $prev_c=$prev_c  : $prev_c=0);
 	($prev_utt==$utt ? $prev_a=$prev_a  : $prev_a='');
 
-	$s0=$row0->surface;
-	$a0=$row0->auto;
+	$s0=$row0->surface; // current surface
+	$a0=$row0->auto;; // current auto
 
-	$loc[0]=$row0->location;
-	$loc[1]=$loc[0]-1;
+	$loc[0]=$row0->location; // current location
+	$loc[1]=$loc[0]-1; // previous location
 	
 	$span=$loc[0] - $prev_c;
 
@@ -34,8 +34,8 @@ while ($row0=pg_fetch_object($result0))
 	$result1=pg_query($db_handle,$sql1) or die("Can't get the items");
 	while ($row1=pg_fetch_object($result1))
 	{
-		$s1=$row1->surface;
-		$a1=$row1->auto;
+		$s1=$row1->surface; // previous surface
+		$a1=$row1->auto; // previous auto
 		
 		// Prepositions used as tense-helpers
 		if (preg_match("/^(yn|wedi|am|heb)$/", $s0) && preg_match("/(be|which_is)\./", $prev_a))
@@ -45,7 +45,7 @@ while ($row0=pg_fetch_object($result0))
 		}
 		
 		// Infinitives after modal verbs
-		if (preg_match("/INFIN/", $a0) && preg_match("/(be|which_is|be_able|do|like)\./", $prev_a) && $span<4)
+		if (preg_match("/INFIN/", $a0) && preg_match("/(be|which_is|be_able|do|like|have_to)\./", $prev_a) && $span<5)
 		{
 			$d2_da=query("update $words set clause=clause || '+d2' where utterance_id=$utt and location=$loc[0]");
 			echo "Deleting $utt,$loc[0]\n";

@@ -138,7 +138,8 @@ remove ([cy] "be" int sm);  #fe<be
 remove ([cy] "da" adj nm);  # na<da
 remove ([cy] "bod" v 3s subj.past nm);  # mai<bai
 remove ([cy] "dod" v 3s pres nm);  # naw<daw
-remove ([cy] "dod" v 2s imper nm);  # nos<dos
+remove ([cy] "mynd" v 2s imper nm);  # nos<dos
+remove ([in] "gum" n sg sm);  # um < gum
 
 
 

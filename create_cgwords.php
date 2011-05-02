@@ -14,7 +14,9 @@ CREATE TABLE $words (
     $sqlfields
     speaker character varying(10),
     langid character varying(10),
-	filename character varying(50)
+	filename character varying(50),
+	clause character varying(50),
+	clauseno integer
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);

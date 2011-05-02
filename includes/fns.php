@@ -573,6 +573,61 @@ function tex_pos_colour ($text)
     return $text;
 }
 
+function get_speaker_data($words)
+// Get the speaker data from the questionnaire table for the speakers in the words table
+{
+	$sqlsp=query("select speaker from $words group by speaker order by speaker");
+	while ($rowsp=pg_fetch_object($sqlsp))
+	{
+		$sqlq=query("select * from small_siarad_q where id='$rowsp->speaker'");
+		while ($rowq=pg_fetch_object($sqlq))
+		{
+			$spdata[$rowsp->speaker][aoa_min]=intval($rowq->welsh_since);
+			$spdata[$rowsp->speaker][aoa_maj]=intval($rowq->english_since);
+			$spdata[$rowsp->speaker][mother_lg]=intval($rowq->mother_spoke);
+			$spdata[$rowsp->speaker][father_lg]=intval($rowq->father_spoke);
+			$spdata[$rowsp->speaker][parent_lg]=(intval($rowq->mother_spoke)+intval($rowq->father_spoke))/2;
+			$spdata[$rowsp->speaker][prim_lg]=intval($rowq->primary_lang);
+			$spdata[$rowsp->speaker][sec_lg]=intval($rowq->secondary_lang);
+			$spdata[$rowsp->speaker][educ_lg]=(intval($rowq->primary_lang)+intval($rowq->secondary_lang))/2;
+			$spdata[$rowsp->speaker][nat_id]=intval($rowq->nat_id);
+			$spdata[$rowsp->speaker][socnet]=(intval($rowq->contact1)+intval($rowq->contact2)+intval($rowq->contact3)+intval($rowq->contact4)+intval($rowq->contact5))/5;
+		}
+	}
+	return $spdata;
+}
+
+function get_speakers($words)
+// Get the speaker data from the questionnaire table for the speakers in the words table
+{
+	$sqlsp=query("select speaker from $words group by speaker order by speaker");
+	while ($rowsp=pg_fetch_object($sqlsp))
+	{
+		$speakers[]=$rowsp->speaker;
+	}
+	return $speakers;
+}
+
+function get_linguality($array)
+// Get the linguality of a clause or utterance
+{
+	$ling=array_count_values($array);
+	// If there is at least one cym&eng or eng word, the clause is bilingual
+	if (!$ling[cym_eng] and !$ling[eng])
+	{
+		$mb="monoW";
+	}
+	elseif (!$ling[cym_eng] and !$ling[cym])
+	{
+		$mb="monoE";
+	}
+	else
+	{
+		$mb="biling";
+	}
+	return $mb;
+}
+
 ?>
 
 <?php

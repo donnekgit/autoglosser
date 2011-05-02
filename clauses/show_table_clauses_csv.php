@@ -12,31 +12,16 @@ if (empty($filename))
 $fp = fopen("outputs/".$filename."/".$filename."_clauses.csv", "w") or die("Can't create the file");
 
 // Spreadsheet column headings
-$columns="Corpus, Filename, Utterance number, Clause number, Location of clause start, Location of clause end,Speaker, Clause, Linguality, Matrix language, Dependent variable, Word order, Verb morphology, ML principles, AoA minority language, AoA majority language, Mother's language, Father's language, Parental input,Primary school language,Secondary school language, Language of education, Identity, Social network\n";
+$columns="Corpus, Filename, Utterance number, Clause number, Location of clause start, Location of clause end,Speaker, Clause, Linguality, Matrix (verb) language, Dependent variable, Verb language, Verb morphology, ML principles, AoA minority language, AoA majority language, Mother's language, Father's language, Parental input,Primary school language,Secondary school language, Language of education, Identity, Social network\n";
 fwrite($fp, $columns);
 
 // Retrieve speaker data from the questionnaire table and make the desired data-items available in an array
-$sqlsp=query("select speaker from $words group by speaker order by speaker");
-while ($rowsp=pg_fetch_object($sqlsp))
-{
-	$sqlq=query("select * from siarad_q where id='$rowsp->speaker'");
-	while ($rowq=pg_fetch_object($sqlq))
-	{
-		$spdata[$rowsp->speaker][aoa_min]=$rowq->welsh_since;
-		$spdata[$rowsp->speaker][aoa_maj]=$rowq->english_since;
-		$spdata[$rowsp->speaker][mother_lg]=$rowq->mother_spoke;
-		$spdata[$rowsp->speaker][father_lg]=$rowq->father_spoke;
-		$spdata[$rowsp->speaker][prim_lg]=$rowq->primary_lang;
-		$spdata[$rowsp->speaker][sec_lg]=$rowq->secondary_lang;
-		$spdata[$rowsp->speaker][nat_id]=$rowq->nat_id;
-	}
-}
-
+$spdata=get_speaker_data($words);
 
 // *** Code to allow sampling of a file at the 25%, 50% and 75% quartiles
 $sql_total=query("select count(*) from $utterances");
 $total=pg_fetch_result($sql_total, 0, 0);
-echo $total."\n";
+//echo $total."\n";
 
 $q1=round($total/4);
 $q2=round($total/2);
@@ -76,7 +61,7 @@ while ($row1=pg_fetch_object($sql1))
 		}
 		
 		// Linguality data
-		$ling=array_count_values($langid);  // Sum the different langids
+		$ling=array_count_values($langid);  // Get a count of all the langids.
 		$lingtotal=count($langid);  // Get the total words in the clause
 		($ling[cym_eng]>0 or $ling[eng]>0) ? $mb="bilingual" : $mb="monolingual";  // If there is at least one cym&eng or eng word, the clause is bilingual
 		(empty($ling[cym])) ? $ling[cym]=0 : $ling[cym]=$ling[cym];  // Handle cases where the clause has no cym words
@@ -88,36 +73,34 @@ while ($row1=pg_fetch_object($sql1))
 
 		// Printout
 		
-		$verb=preg_replace("/=$/", "", $verb);
-		$verb=preg_replace("/\[or\]be\.V.3S\.PRES\.NEG\+SM/", "", $verb);
+		$verb=preg_replace("/=$/", "", $verb);  // Trim the end of the verb string.
+		$verb=preg_replace("/\[or\]be\.V.3S\.PRES\.NEG\+SM/", "", $verb);  // Hack!
 	
-		$csvloc="".Siarad.",".$filename.",".$utt.",".$clauseno.",".$minloc.",".$maxloc.",";
+		$csvloc="\"".Siarad."\",\"".$filename."\",\"".$utt."\",\"".$clauseno."\",\"".$minloc."\",\"".$maxloc."\",";
 		fwrite($fp, $csvloc);
 		
-		$csvclause="".$speaker.",".$clause.",";
+		$csvclause="\"".$speaker."\",\"".$clause."\",";
 		echo clause;
 		fwrite($fp, $csvclause);
 
-		$csvling="".$mb.",,,,";
+		$csvling="\"".$mb."\",\"\",\"\",\"\",";
 		fwrite($fp, $csvling);
 		// ML, DV, word order
 		
-		$csvverb="".$verb.",,";
+		$csvverb="\"".$verb."\",\"\",";
 		fwrite($fp, $csvverb);
 		// ML principles
 		
-		$csvaoa="".$spdata[$speaker][aoa_min].",".$spdata[$speaker][aoa_maj].",";
+		$csvaoa="\"".$spdata[$speaker][aoa_min]."\",\"".$spdata[$speaker][aoa_maj]."\",";
 		fwrite($fp, $csvaoa);
 				
-		$csvmofa="".$spdata[$speaker][mother_lg].",".$spdata[$speaker][father_lg].",,";
+		$csvmofa="\"".$spdata[$speaker][mother_lg]."\",\"".$spdata[$speaker][father_lg]."\",\"".$spdata[$speaker][parent_lg]."\",";
 		fwrite($fp, $csvmofa);
-		// Parental input
 
-		$csveduc="".$spdata[$speaker][prim_lg].",".$spdata[$speaker][sec_lg].",,";
+		$csveduc="\"".$spdata[$speaker][prim_lg]."\",\"".$spdata[$speaker][sec_lg]."\",\"".$spdata[$speaker][educ_lg]."\",";
 		fwrite($fp, $csveduc);
-		// Language of education
 
-		$csvid= "".$spdata[$speaker][nat_id].",\n";
+		$csvid= "\"".$spdata[$speaker][nat_id]."\",\"".$spdata[$speaker][socnet]."\"\n";
 		fwrite($fp, $csvid);
 		// Social network
 

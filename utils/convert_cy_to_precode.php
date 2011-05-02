@@ -2,12 +2,13 @@
 
 /*
 Call as: php utils/convert_to_default.php sastre1 
-This script converts chat files tagged with @0, @1, @2, @3 to the new CLAN default with precodes.  The conventions used for this are as follows (for Spanish and English):
+This script converts chat files tagged with @0, @1, @2, @3 to the new CLAN default with precodes.  The conventions used for this are as follows (for Welsh and English):
 (1) Use the lgprofile table to find all utterances where every item is tagged as eng.
 (2) Remove all @2 tags and mark the utterance with a precode [- eng].
-(3) For all other utterances: (a) remove all @3 tags from spa items; (b) convert all @2 tags to @s:eng on eng items; (c) convert all @0 tags to @s:spa&eng.
+(3) For all other utterances: (a) remove all @3 tags from cym items; (b) convert all @2 tags to @s:eng on eng items; (c) convert all @0 tags to @s:cym&eng.
 The output file will need the headers added manually, and the languages need to be listed (more frequent language first):
-@Languages:	spa, eng
+@Languages:	cym, eng
+@Comment:	Language markers: @s:cym = Welsh, @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English.
 */
 
 if (empty($filename))

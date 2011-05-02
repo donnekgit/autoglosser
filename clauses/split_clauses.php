@@ -30,13 +30,16 @@ echo $words."\n";
 echo $cgfinished."\n";
 echo "Outputs are in outputs/$filename/\n";
 
-echo "*\n*\nWriting a chat file for $filename\n*\n*\n";
-include("write_cgautogloss.php");
+include("mark_v_cy.php");
 
-echo "*\n*\nWriting a TeX file for $filename\n*\n*\n";
-include("tex/generate_expex.php");
+include("adjust_deletes_cy.php");
 
-echo "*\n*\nGenerating a pdf for $filename\n*\n*\n";
-//exec("pdflatex -output-directory=outputs/".$filename." outputs/".$filename."/".$filename.".tex");
+include("adjust_moves_cy.php");
+
+include("segment_at_clause.php");
+
+include("get_sample_clauses.php");
+
+include("analyse_clauses.php");
 
 ?>
