@@ -17,7 +17,11 @@ $spdata=get_speaker_data($words);
 $fp = fopen("outputs/".$filename."/".$filename."_clauses.csv", "w") or die("Can't create the file");
 
 // Spreadsheet column headings
-$columns="Corpus, Filename, Utterance number, Clause number, Location of clause start, Location of clause end,Speaker, Clause, Matrix (verb) language, Linguality of clause, Linguality of utterance, Dependent variable, Verb morphology, AoA minority language, AoA majority language, Mother's language, Father's language, Parental input,Primary school language,Secondary school language, Language of education, Identity, Social network\n";
+$columns="\"Corpus\",\"Filename\",\"Utterance number\",\"Clause number\",\"Location of clause start\",\"Location of clause end\",\"Speaker\",\"Clause\",\"Matrix (verb) language\",\"Linguality of clause\",\"Dependent variable\",\"Linguality of utterance\",\"Mari-Carmen variable\",\"Verb morphology\",\"AoA minority language\",\"AoA majority language\",\"Mother's language\",\"Father's language\",\"Parental input\",\"Primary school language\",\"Secondary school language\",\"Language of education\",\"Identity\",\"Contact1\",\"Contact2\",\"Contact3\",\"Contact4\",\"Contact5\",\"Social network\"\n";
+fwrite($fp, $columns);
+
+// Notes on each column
+$columns="\"Name of the corpus\",\"Name of the file\",\"Location in the speech tier\",\"Location in the utterance\",\"Word in the utterance at which the clause begins\",\"Word in the utterance at which the clause ends\",\"Speaker\",\"Contents of the clause\",\"cym=Welsh, eng=English\",\"monoW=monolingual Welsh, monoE=monolingual English, biling=bilingual\",\"Generated from ML (first letter) and clause linguality (second letter): eg wb=Welsh ML and bilingual clause\",\"monoW=monolingual Welsh, monoE=monolingual English, biling=bilingual\",\"Generated from ML (first letter), clause linguality (second letter), and utterance linguality (third letter): eg wwb=Welsh ML, Welsh clause, and bilingual utterance\",\"Glosses for verbs in the clause, separated by =\",\"1=<2, 2=<4, 3=primary, 4=secondary, 5=adult, 0=blank\",\"1=<2, 2=<4, 3=primary, 4=secondary, 5=adult, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"Average of the values for mother's language and father's language\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"Average of the values for primary and secondary school language\",\"1=Welsh, 2=English, 3=other, 4=British\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"Average of the values for the 5 contact fields\"\n";
 fwrite($fp, $columns);
 
 $sql1=query("select utterance_id from $sampleclauses group by utterance_id order by utterance_id");
@@ -43,7 +47,9 @@ while ($row1=pg_fetch_object($sql1))
 			if (preg_match("/\.V\./", $row3->auto))
 			{
 				$verb.=$row3->auto."=";
-				$verblg=$row3->langid;
+				// Log the language of the verb for only the first instance
+				// Otherwise later verbs will overwrite this, and you get things like "basai fo yn boring" being assigned an ML of eng
+				if (empty($verblg)) { $verblg=$row3->langid; } 
 			}
 			else
 			{
@@ -80,27 +86,33 @@ while ($row1=pg_fetch_object($sql1))
 		// Responder (dependent) variable
 		if ($verblg=="eng" and $mb_clause=="monoE" and $mb_utt=="monoE")
 		{
-			$dv="eee";
+			$dv="ee";
+			$mcv="eee";
 		}
 		elseif ($verblg=="cym" and $mb_clause=="monoW" and $mb_utt=="monoW")
 		{
-			$dv="www";
+			$dv="ww";
+			$mcv="www";
 		}
 		elseif ($verblg=="eng" and $mb_clause=="monoE" and $mb_utt=="biling")
 		{
-			$dv="eeb";
+			$dv="ee";
+			$mcv="eeb";
 		}
 		elseif ($verblg=="cym" and $mb_clause=="monoW" and $mb_utt=="biling")
 		{
-			$dv="wwb";
+			$dv="ww";
+			$mcv="wwb";
 		}
 		elseif ($verblg=="eng" and $mb_clause=="biling" and $mb_utt=="biling")
 		{
-			$dv="ebb";
+			$dv="eb";
+			$mcv="ebb";
 		}
 		elseif ($verblg=="cym" and $mb_clause=="biling" and $mb_utt=="biling")
 		{
-			$dv="wbb";
+			$dv="wb";
+			$mcv="wbb";
 		}
 		
 		// Printout
@@ -114,9 +126,9 @@ while ($row1=pg_fetch_object($sql1))
 		fwrite($fp, $csvclause);
 		// Speaker, Clause,
 
-		$csvling="\"".$verblg."\",\"".$mb_clause."\",\"".$mb_utt."\",\"".$dv."\",\"".$verb."\",";
+		$csvling="\"".$verblg."\",\"".$mb_clause."\",\"".$dv."\",\"".$mb_utt."\",\"".$mcv."\",\"".$verb."\",";
 		fwrite($fp, $csvling);
-		// Matrix (verb) language, Linguality of clause, Linguality of utterance, Dependent variable, Verb morphology,
+		// Matrix (verb) language, Linguality of clause, Dependent variable, Linguality of utterance, Mari-Carmen variable, Verb morphology,
 				
 		$csvaoa="\"".$spdata[$speaker][aoa_min]."\",\"".$spdata[$speaker][aoa_maj]."\",";
 		fwrite($fp, $csvaoa);
@@ -130,9 +142,9 @@ while ($row1=pg_fetch_object($sql1))
 		fwrite($fp, $csveduc);
 		// Primary school language,Secondary school language, Language of education,
 		
-		$csvid= "\"".$spdata[$speaker][nat_id]."\",\"".$spdata[$speaker][socnet]."\"\n";
+		$csvid= "\"".$spdata[$speaker][nat_id]."\",\"".$spdata[$speaker][contact1]."\",\"".$spdata[$speaker][contact2]."\",\"".$spdata[$speaker][contact3]."\",\"".$spdata[$speaker][contact4]."\",\"".$spdata[$speaker][contact5]."\",\"".$spdata[$speaker][socnet]."\"\n";
 		fwrite($fp, $csvid);
-		// Identity, Social network
+		// Identity, Contact1, Contact2, Contact3, Contact4, Contact5, Social network
 
 		unset($clause, $clause_langid, $utt_langid, $loc, $verb, $verblg, $dv);
 	}

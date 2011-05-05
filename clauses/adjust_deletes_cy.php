@@ -9,7 +9,7 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$sql0="select * from $words where clause='c' order by utterance_id, location";
+$sql0="select * from ".$filename."_sampleclauses where clause='c' order by utterance_id, location";
 $result0=pg_query($db_handle,$sql0) or die("Can't get the items");
 while ($row0=pg_fetch_object($result0))
 {
@@ -30,7 +30,7 @@ while ($row0=pg_fetch_object($result0))
 	//echo  "Previous clause: (".$utt.") ".$prev_c."\n";
 	//echo  "Previous auto: (".$utt.") ".$prev_a."\n";
 	
-	$sql1="select * from $words where utterance_id=$utt and location=$loc[1]";
+	$sql1="select * from ".$filename."_sampleclauses where utterance_id=$utt and location=$loc[1]";
 	$result1=pg_query($db_handle,$sql1) or die("Can't get the items");
 	while ($row1=pg_fetch_object($result1))
 	{
@@ -40,28 +40,29 @@ while ($row0=pg_fetch_object($result0))
 		// Prepositions used as tense-helpers
 		if (preg_match("/^(yn|wedi|am|heb)$/", $s0) && preg_match("/(be|which_is)\./", $prev_a))
 		{
-			$d1_da=query("update $words set clause=clause || '+d1' where utterance_id=$utt and location=$loc[0]");
+			$d1_da=query("update ".$filename."_sampleclauses set clause=clause || '+d1' where utterance_id=$utt and location=$loc[0]");
 			echo "Deleting $utt,$loc[0]\n";
 		}
 		
-		// Infinitives after modal verbs
-		if (preg_match("/INFIN/", $a0) && preg_match("/(be|which_is|be_able|do|like|have_to)\./", $prev_a) && $span<5)
+		// Infinitives after auxiliary or modal verbs
+		// Removed "&& $span<5" because infinitives are not required for Oslo paper
+		if (preg_match("/INFIN/", $a0) && preg_match("/(be|which_is|be_able|do|like|have_to)\./", $prev_a))
 		{
-			$d2_da=query("update $words set clause=clause || '+d2' where utterance_id=$utt and location=$loc[0]");
+			$d2_da=query("update ".$filename."_sampleclauses set clause=clause || '+d2' where utterance_id=$utt and location=$loc[0]");
 			echo "Deleting $utt,$loc[0]\n";
 		}
 		
 		// Infinitives following a noun
 		if (preg_match("/\.N\./", $a1) && preg_match("/INFIN/", $a0))
 		{
-			$d3_da=query("update $words set clause=clause || '+d3' where utterance_id=$utt and location=$loc[0]");
+			$d3_da=query("update ".$filename."_sampleclauses set clause=clause || '+d3' where utterance_id=$utt and location=$loc[0]");
 			echo "Deleting $utt,$loc[0]\n";
 		}
 		
 		// Infinitives following the definite article
 		if (preg_match("/^yr?$/", $s1) && preg_match("/INFIN/", $a0))
 		{
-			$d4_da=query("update $words set clause=clause || '+d4' where utterance_id=$utt and location=$loc[0]");
+			$d4_da=query("update ".$filename."_sampleclauses set clause=clause || '+d4' where utterance_id=$utt and location=$loc[0]");
 			echo "Deleting $utt,$loc[0]\n";
 		}
 	

@@ -9,11 +9,11 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$sql1="select utterance_id from $words group by utterance_id order by utterance_id";
+$sql1="select utterance_id from ".$filename."_sampleclauses group by utterance_id order by utterance_id";
 $result1=pg_query($db_handle,$sql1) or die("Can't get the items");
 while ($row1=pg_fetch_object($result1))
 {
-	$sql2="select * from $words where utterance_id=$row1->utterance_id and clause='c' order by location";
+	$sql2="select * from ".$filename."_sampleclauses where utterance_id=$row1->utterance_id and clause='c' order by location";
 	$result2=pg_query($db_handle,$sql2) or die("Can't get the items");
 	while ($row2=pg_fetch_object($result2))
 	{
@@ -35,12 +35,12 @@ while ($row1=pg_fetch_object($result1))
 			$myand=" and location<$locarray[1] ";
 		}
 
-		$sql4="select * from $words where utterance_id=$row1->utterance_id and location>=$locarray[0] $myand order by location";
+		$sql4="select * from ".$filename."_sampleclauses where utterance_id=$row1->utterance_id and location>=$locarray[0] $myand order by location";
 		$result4=pg_query($db_handle,$sql4) or die("Can't get the items");
 		while ($row4=pg_fetch_object($result4))
 		{
 			$clause.=$row4->surface." ";
-			$sqlc=query("update $words set clauseno='$j' where utterance_id=$row1->utterance_id and location>=$locarray[0]");
+			$sqlc=query("update ".$filename."_sampleclauses set clauseno='$j' where utterance_id=$row1->utterance_id and location>=$locarray[0]");
 		}
 		echo $j.": ".$clause."\n";
 		unset($clause);

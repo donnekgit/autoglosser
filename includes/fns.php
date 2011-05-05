@@ -582,6 +582,7 @@ function get_speaker_data($words)
 		$sqlq=query("select * from small_siarad_q where id='$rowsp->speaker'");
 		while ($rowq=pg_fetch_object($sqlq))
 		{
+			$deduct=0;  // Set up a variable to correct the average
 			$spdata[$rowsp->speaker][aoa_min]=intval($rowq->welsh_since);
 			$spdata[$rowsp->speaker][aoa_maj]=intval($rowq->english_since);
 			$spdata[$rowsp->speaker][mother_lg]=intval($rowq->mother_spoke);
@@ -591,7 +592,18 @@ function get_speaker_data($words)
 			$spdata[$rowsp->speaker][sec_lg]=intval($rowq->secondary_lang);
 			$spdata[$rowsp->speaker][educ_lg]=(intval($rowq->primary_lang)+intval($rowq->secondary_lang))/2;
 			$spdata[$rowsp->speaker][nat_id]=intval($rowq->nat_id);
-			$spdata[$rowsp->speaker][socnet]=(intval($rowq->contact1)+intval($rowq->contact2)+intval($rowq->contact3)+intval($rowq->contact4)+intval($rowq->contact5))/5;
+			$spdata[$rowsp->speaker][contact1]=intval($rowq->contact1); 
+			if ($rowq->contact1=='0') { $deduct++; }  // If the entry here is blank, don't count it in the average
+			$spdata[$rowsp->speaker][contact2]=intval($rowq->contact2);
+			if ($rowq->contact2=='0') { $deduct++; }
+			$spdata[$rowsp->speaker][contact3]=intval($rowq->contact3);
+			if ($rowq->contact3=='0') { $deduct++; }
+			$spdata[$rowsp->speaker][contact4]=intval($rowq->contact4);
+			if ($rowq->contact4=='0') { $deduct++; }
+			$spdata[$rowsp->speaker][contact5]=intval($rowq->contact5);
+			if ($rowq->contact5=='0') { $deduct++; }
+			$all_contacts=(intval($rowq->contact1)+intval($rowq->contact2)+intval($rowq->contact3)+intval($rowq->contact4)+intval($rowq->contact5))/(5-$deduct);
+			$spdata[$rowsp->speaker][socnet]=round($all_contacts, 1);
 		}
 	}
 	return $spdata;
@@ -613,11 +625,13 @@ function get_linguality($array)
 {
 	$ling=array_count_values($array);
 	// If there is at least one cym&eng or eng word, the clause is bilingual
-	if (!$ling[cym_eng] and !$ling[eng])
+	//if (!$ling[cym_eng] and !$ling[eng])
+	// Redone to ignore cym&eng
+	if ($ling[cym] and !$ling[eng])
 	{
 		$mb="monoW";
 	}
-	elseif (!$ling[cym_eng] and !$ling[cym])
+	elseif ($ling[eng] and !$ling[cym])
 	{
 		$mb="monoE";
 	}

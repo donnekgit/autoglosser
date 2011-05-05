@@ -46,12 +46,12 @@ foreach ($spdata as $speaker=>$data)  // Loop through the speakers
 						$autocat.=$row2->auto." ";  // Concatenate the autoglosses
 					}
 					//echo $speaker."(".$row1->picked."): ".$autocat."\n";
-					if (preg_match("/\.V\./", $autocat)) 
+					if (preg_match("/\.V\.(?!INFIN)/", $autocat)) 
 					{
+						// If the concatenation contains a verb that is not an infinitive, count it as a hit for that speaker, direction and quartile, and store the utterance_id in a list for an SQL IN query
 						$cumul[$speaker][$quartile][$direction][]=$row1->picked; 
 						$inlist.=$row1->picked.",";
 					}
-					// If the concatenation contains a verb, count it as a hit for that speaker, direction and quartile, and store the utterance_id in a list for an SQL IN query
 					unset($autocat);
 					$point=$row1->picked;  // Wind the selection point down (max) or up (min) to the valid utterance_id we just got
 				}

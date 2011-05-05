@@ -30,6 +30,11 @@ echo $words."\n";
 echo $cgfinished."\n";
 echo "Outputs are in outputs/$filename/\n";
 
+// For speed, the order here has been changed to select the sample first, and then clause-split it.
+// To revert, uncomment the later get_sample_clauses, and replace all instances of $filename_sampleclauses with $words in the earlier files (ie not in analyse_clauses).
+
+include("get_sample_clauses.php");
+
 include("mark_v_cy.php");
 
 include("adjust_deletes_cy.php");
@@ -38,7 +43,7 @@ include("adjust_moves_cy.php");
 
 include("segment_at_clause.php");
 
-include("get_sample_clauses.php");
+//include("get_sample_clauses.php");
 
 include("analyse_clauses.php");
 

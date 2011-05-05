@@ -9,8 +9,8 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$sql_clear=query("update $words set clause=''");  // Remove previous clause-splitting entries
+$sql_clear=query("update ".$filename."_sampleclauses set clause=''");  // Remove previous clause-splitting entries
 
-$sql_mark=query("update $words set clause='c' where auto~'\\\.V\\\.' or surface='dyna'");  // Put a clause-marker against verb entries
+$sql_mark=query("update ".$filename."_sampleclauses set clause='c' where auto~'\\\.V\\\.' or surface='dyna'");  // Put a clause-marker against verb entries
 
 ?>

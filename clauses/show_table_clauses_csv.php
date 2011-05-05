@@ -1,6 +1,7 @@
 <?php
 
 // This script marks verbs in an utterance with a clause marker, which can then be used to segment the utterance into clauses.
+// deprecated
 
 if (empty($filename))
 {
