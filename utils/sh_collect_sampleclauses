@@ -1,0 +1,13 @@
+#!/bin/sh
+# This script collects the sample clauses from the files specified in the FILES line and combines them into one file in the collected folder
+# Create the empty file first.
+FILES=inputs/siarad/beta/*.cha
+for f in $FILES
+do
+	echo "Processing $f ..."
+	# take action on each file
+	filename=$(basename $f)
+	fixedfile=${filename%.cha}
+	# echo $fixedfile
+	cat outputs/$fixedfile/${fixedfile}_clauses.csv >> collected/all_sampleclauses.csv
+done

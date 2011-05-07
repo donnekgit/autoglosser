@@ -19,7 +19,8 @@ if (empty($filename))
 }
 $profiletable=$filename."_lgprofile";
 
-$fp = fopen("outputs/".$filename."/".$filename."_b.cha", "w") or die("Can't create the file");
+//$fp = fopen("outputs/".$filename."/".$filename."_b.cha", "w") or die("Can't create the file");
+$fp = fopen("inputs/siarad/beta/".$filename.".cha", "w") or die("Can't create the file");  // Edit to make running sh_run_import_convert easier - no need to shift the beta files afterwards
 
 // Write out the file header.
 $lines=file("outputs/".$filename."/".$filename.".header", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);

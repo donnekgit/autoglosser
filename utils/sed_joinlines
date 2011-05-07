@@ -7,7 +7,7 @@ filename=$(basename $chafile)  # the filename from the path - file.cha
 #echo $filename
 path=$(dirname $chafile)  # the path to the file - path/to
 #echo $path
-fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file
+fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file - file.txt
 #echo $fixedfile
 fromdos $chafile  # get rid of the \r if the file has come from a Microsoft Windows machine; fromdos is in the tofrodos package
 sed -e 'N;s/\n\t/ /;P;D;'  < $chafile | \

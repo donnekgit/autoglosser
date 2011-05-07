@@ -1,0 +1,36 @@
+#!/bin/sh
+# This script runs prepare_files on all the files in a directory, straightening out the lines and extracting the headers
+FILES=inputs/siarad/alpha/*.cha
+for f in $FILES
+do
+	echo "Processing $f ..."
+	# take action on each file
+	php prepare_file.php $f
+done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

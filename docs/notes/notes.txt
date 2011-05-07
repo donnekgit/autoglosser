@@ -577,10 +577,23 @@ Setting up rule for notas allows det.def rule to bite
 mynd i'r comisaría i gael dirección rhei yna
 
 
-Watch out for typos in the grammar file - if you end up with absolutely no autoglosses, it is probably due to this.  If you are using the umbrella scripts, the warning will flash past to quick to see.  Comapre the _cg and _cg_applied files - if the former is full and the latter is empty, there is a typo.  Running php apply_cg.php filename will confirm this.
+Watch out for typos in the grammar file - if you end up with absolutely no autoglosses, it is probably due to this.  If you are using the umbrella scripts, the warning will flash past to quick to see.  Compare the _cg and _cg_applied files - if the former is full and the latter is empty, there is a typo.  Running php apply_cg.php filename will confirm this.
 
 
 
+
+
+
+
+Import and autogloss of 69 Siarad files
+========================
+507m (8h27m) for 456k words, 40 hours of conversation
+	1m to do 5m of conversation
+	900 words a minute
+Note that this includes importing and segmenting the gls tier - a bare file with speech tier would be faster
+
+
+Sampling clauses for 68 files took 14m.
 
 
 Features to add
