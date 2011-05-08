@@ -453,9 +453,22 @@ If this does not work, contact me at \textbf{kevin@dotmon.com}.
 
 To administer PostgreSQL, it is easiest to use a frontend.  You can use pgAdminIII\footnote{http://whatever}, a desktop interface, or (preferably) phpPgAdmin\footnote{http://whatever}, a browser-based interface.  Open a browser and enter \textit{localhost/phppgadmin} on the location bar.  Enter your PostgreSQL username and password, and you should see a list of databases in the left-hand panel - since this is a new install, there are only two: the \textit{postgres} system database, and \textit{autoglosser}, the one you have just created.  Click on \textit{autoglosser}, and then on \textit{Schemas}, and then on \textit{Tables}.  There are no tables available yet in the autoglosser database, because you have not created any - the import process will create 3 tables for each file you import. 
 
+\section{Notes}
+
+You need to copy the autoglosser/autoglosser dir to /opt, even if you are not using a website.  Each page looks for the config.php in the /opt dir, so without this you will get errors when the scripts can't open the database.
+
+Make inputs and outputs dirs in autoglosser, to give a launchpad for imports and a landing-pad for the outputs.  Make symlinks in the inputs dir to your data dirs as necessary.
+
+Download VISLCG3.  Ensure build-essential is installed. Install libicu-dev.  Untar the download, in that dir run sh autogen.sh, then make, then sudo make install.
+
+Download ExPex zipped bundle from http://www.math.neu.edu/ling/tex/.  Unzip.  sudo cp -R expex/ /usr/share/texmf-live/tex/latex.  sudo mktexlsr.
+
+
 
 \newpage
 
+
+Kept temporarily as a table template.
 
 \begin{table}
 \newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
