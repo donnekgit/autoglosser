@@ -18,7 +18,8 @@ if (empty($filename))
 }
 $profiletable=$filename."_lgprofile";
 
-$fp = fopen("outputs/".$filename."/".$filename."_b.cha", "w") or die("Can't create the file");
+//$fp = fopen("outputs/".$filename."/".$filename."_b.cha", "w") or die("Can't create the file");
+$fp = fopen("inputs/miami/beta/".$filename.".cha", "w") or die("Can't create the file");  // Edit to make running sh_run_import_convert easier - no need to shift the beta files afterwards
 
 //$sql1="select utterance_id, lgprofile from $profiletable where lgprofile !~'(0|3)' and lgprofile != ''";
 // Loosen a bit to count 0s in an utterance that is otherwise 2s

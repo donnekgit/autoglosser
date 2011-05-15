@@ -16,3 +16,6 @@ sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' > $path/$fixedfile  # output to the path + new filename
 mv $path/$fixedfile $path/$filename  # replace the original file with the fixed file, giving a fixed .cha file
+
+
+# Should also use this file to replace ´ with '

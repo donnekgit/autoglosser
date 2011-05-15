@@ -36,7 +36,7 @@ while ($row_s=pg_fetch_object($result_s))
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
     while ($row_w=pg_fetch_object($result_w))
     {
-		$entry="\"".$row_s->utterance_id."\",\"".$row_w->location."\",\"'".$row_w->langid."\",\"'".$row_w->surface."\",\"".$row_w->auto."\",\"".$row_w->gls."\"\n";  
+		$entry="\"".$row_s->utterance_id."\",\"".$row_w->location."\",\"".$row_w->langid."\",\"".$row_w->surface."\",\"".$row_w->auto."\",\"".$row_w->gls."\"\n";  
 		// Use a single quote in columns you want formatted as text (here, langid and surface)
 		fwrite($fp, $entry);
     }

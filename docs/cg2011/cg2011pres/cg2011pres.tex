@@ -55,10 +55,9 @@
 
 %============================
 
-
+% I want to tell you how we used CG to come up with the first POS-tagger for Welsh, which is capable of tagging conversational speech in multiple languages.
 % Multilingual discourse is far more common than has been assumed in classical linguistics
-% Bangor Autoglosser seems to be the first POS-tagger for Welsh
-
+% Here to learn as much as pass on info
 
 \section{Background}
 
@@ -163,7 +162,6 @@
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Utterance format}
 \begin{center}
 \begin{small}
-
 \begin{tabular}{p{3cm}p{6cm}}
 \multicolumn{2}{p{9cm}}{\textit{*SER dw@1 i@1 (y)n@1 hopeless@2 efo@1 tynnu@1 llun@1 . \%snd:"deuchar1"\_72848\_73881}} \\
 \hline\noalign{\smallskip}
@@ -304,7 +302,6 @@
 \end{frame}
 
 
-
 \begin{frame}
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Dictionaries}
 \begin{itemize}
@@ -382,6 +379,31 @@
 
 
 \begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Language differences}
+\begin{itemize}
+\item Spanish and Welsh
+    \begin{itemize}
+    \item Inflected (Welsh less so than it was)
+    \item Surface forms give clues about the POS
+    \end{itemize}
+\item English 
+    \begin{itemize}
+    \item Analytic
+    \item Homophonous surface forms
+    \item POS defined by role in the sentence
+    \item \textbf{break}
+        \begin{itemize}
+        \item \textit{a clean break} (noun)
+        \item \textit{break the mould!} (imperative)
+        \item \textit{to break a habit} (infinitive)
+        \item \textit{they break everything} (present)
+        \end{itemize}
+    \end{itemize}
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English dictionary}
 \begin{center}
 \begin{small}
@@ -412,38 +434,13 @@
 \end{frame}
 
 
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Language differences}
-\begin{itemize}
-\item Spanish and Welsh
-    \begin{itemize}
-    \item Inflected (Welsh less so than it was)
-    \item Surface forms give clues about the POS
-    \end{itemize}
-\item English 
-    \begin{itemize}
-    \item Analytic
-    \item Homophonous surface forms
-    \item POS defined by role in the sentence
-    \item \textbf{break}
-        \begin{itemize}
-        \item \textit{a clean break} (noun)
-        \item \textit{break the mould!} (imperative)
-        \item \textit{to break a habit} (infinitive)
-        \item \textit{they break everything} (present)
-        \end{itemize}
-    \end{itemize}
-\end{itemize}
-\end{frame}
-
-
 \subsection{Import}
 
 
 \begin{frame}
 \frametitle{}
 \begin{center}
-\begin{huge} Import \end{huge}
+\begin{huge} Import: \\ Dictionary lookup \\ and asegmentation \end{huge}
 \end{center}
 \end{frame}
 
@@ -462,6 +459,30 @@
 % Earlier sample showed 0,1,2 for language-tags
 % Current one only tags non-default items with the ISO 3-letter tag
 \end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Utterance format}
+\begin{center}
+\begin{small}
+\begin{tabular}{p{3cm}p{6cm}}
+\multicolumn{2}{p{9cm}}{\textit{*SER dw@1 i@1 (y)n@1 hopeless@2 efo@1 tynnu@1 llun@1 . \%snd:"deuchar1"\_72848\_73881}} \\
+\hline\noalign{\smallskip}
+\textbf{Speaker} & *SER \\
+\hline\noalign{\smallskip}
+\textbf{Utterance} & dw@1 i@1 (y)n@1 hopeless@2 efo@1 tynnu@1 llun@1 . \\
+\hline\noalign{\smallskip}
+\textbf{Language tags} & 1=Welsh, 2=English, 0=undetermined \\
+% Uses old coding 
+\hline\noalign{\smallskip}
+\textbf{Audio location} & \%snd:"deuchar1"\_72848\_73881 \\
+\hline\noalign{\smallskip}
+\textbf{Manual gloss} & be.1S.PRES PRON.1S PRT hopeless with take.NONFIN picture
+% Provides lexemes and POS tags, but mainly for verbs
+\end{tabular}
+\end{small}
+\end{center}
 \end{frame}
 
 
@@ -549,30 +570,6 @@
 
 
 \begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English Segmentation}
-\begin{itemize}
-\item Elisions are tagged
-    \begin{itemize}
-    \item gonna \textrightarrow go \# to.prep
-    \item we're \textrightarrow we \# be.v.pres
-    \end{itemize}
-\item Plurals or verbs (3p sg pres) are tagged
-    \begin{itemize}
-    \item breaks \textrightarrow break \# pv
-    \end{itemize}
-\item Adjectives or verbs (past or pastpart) are tagged
-    \begin{itemize}
-    \item constructed \textrightarrow construct \# av
-    \end{itemize}
-\item Adjectives, nouns or verbs (prespart) are tagged
-    \begin{itemize}
-    \item thinking \textrightarrow think \# asv
-    \end{itemize}
-\end{itemize}
-\end{frame}
-
-
-\begin{frame}
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Mutation}
 \begin{itemize}
 \item \textbf{tad} (father)
@@ -596,7 +593,7 @@
 
 \begin{frame}[fragile]
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Welsh before CG}
-\begin{scriptsize}
+\begin{footnotesize}
 \begin{BVerbatim}
 "<ddim>"
     "dim"  {96,1} [cy] n m sg :nothing: [208789] + sm
@@ -610,16 +607,16 @@
 "<iawn>"
     "iawn"  {96,4} [cy] adv :OK: [207540]
     "iawn"  {96,4} [cy] adv :very: [203775]
-"<.>"
 \end{BVerbatim}
 \\ \hfill\textit{(Miami corpus, sastre1)}
-\end{scriptsize}
+\end{footnotesize}
+\\ ``\textit{not very early}''
 \end{frame}
 
 
 \begin{frame}[fragile]
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Welsh after CG}
-\begin{scriptsize}
+\begin{footnotesize}
 \begin{BVerbatim}
 "<ddim>"
     "dim" {96,1} [cy] adv :not: [204176] + sm
@@ -629,21 +626,17 @@
     "cynnar" {96,3} [cy] adj :early: [209212] + sm
 "<iawn>"
     "iawn" {96,4} [cy] adv :very: [203775]
-"<.>"
 \end{BVerbatim}
 \\ \hfill\textit{(Patagonia corpus, patagonia1)}
-\end{scriptsize}
+\end{footnotesize}
+\\ ``\textit{not very early}''
 \end{frame}
  
 
 \begin{frame}[fragile]
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Spanish before CG}
-\begin{scriptsize}
+\begin{footnotesize}
 \begin{BVerbatim}
-"<y>"
-    "y"  {122,1} [es] conj :and: [118037]
-"<ahora>"
-    "ahora"  {122,2} [es] adv :now: [6292]
 "<vamos>"
     "ir"  {122,3} [es] v 1p pres :go: [115789]
 "<a>"
@@ -655,21 +648,17 @@
 "<baño>"
     "baño"  {122,7} [es] n m sg :bathroom: [16011]
     "bañar"  {122,7} [es] v 1s pres :bathe: [16010]
-"<.>"
 \end{BVerbatim}
 \\ \hfill\textit{(Patagonia corpus, patagonia1)}
-\end{scriptsize}
+\end{footnotesize}
+\\ ``\textit{we're going to do the bathroom}''
 \end{frame}
 
 
 \begin{frame}[fragile]
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Spanish after CG}
-\begin{scriptsize}
+\begin{footnotesize}
 \begin{BVerbatim}
-``<y>"
-    "y" {122,1} [es] conj :and: [118037]
-"<ahora>"
-    "ahora" {122,2} [es] adv :now: [6292]
 "<vamos>"
     "ir" {122,3} [es] v 1p pres :go: [115789]
 "<a>"
@@ -680,16 +669,40 @@
     "el" {122,6} [es] det.def m sg :the: [45129]
 "<baño>"
     "baño" {122,7} [es] n m sg :bathroom: [16011]
-"<.>"
 \end{BVerbatim}
 \\ \hfill\textit{(Miami corpus, sastre1)}
-\end{scriptsize}
+\end{footnotesize}
+\\ ``\textit{we're going to do the bathroom}''
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English Segmentation}
+\begin{itemize}
+\item Elisions are tagged
+    \begin{itemize}
+    \item gonna \textrightarrow go \# to.prep
+    \item we're \textrightarrow we \# be.v.pres
+    \end{itemize}
+\item Plurals or verbs (3p sg pres) are tagged
+    \begin{itemize}
+    \item breaks \textrightarrow break \# pv
+    \end{itemize}
+\item Adjectives or verbs (past or pastpart) are tagged
+    \begin{itemize}
+    \item constructed \textrightarrow construct \# av
+    \end{itemize}
+\item Adjectives, singular nouns or verbs (prespart) are tagged
+    \begin{itemize}
+    \item thinking \textrightarrow think \# asv
+    \end{itemize}
+\end{itemize}
 \end{frame}
 
 
 \begin{frame}[fragile]
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English before CG}
-\begin{scriptsize}
+\begin{footnotesize}
 \begin{verbatim}
 "<it's>"
     "it"  {545,1} [en] pron.sub 3s :it: [130342] # gb
@@ -703,16 +716,15 @@
     "D_V_D"  {545,5} [en] name
 "<then>"
     "then"  {545,6} [en] adv :then: [208154]
-"<.>"
 \end{verbatim}
 \hfill\textit{(Miami corpus, herring7)}
-\end{scriptsize}
+\end{footnotesize}
 \end{frame}
 
 
 \begin{frame}[fragile]
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English after CG}
-\begin{scriptsize}
+\begin{footnotesize}
 \begin{verbatim}
 "<it's>"
     "it" {545,1} [en] pron.sub 3s :it: [130342] # be.v.3s.pres
@@ -726,10 +738,9 @@
     "D_V_D" {545,5} [en] name
 "<then>"
     "then" {545,6} [en] adv :then: [208154]
-"<.>"
 \end{verbatim}
 \hfill\textit{(Miami corpus, herring7)}
-\end{scriptsize}
+\end{footnotesize}
 \end{frame}
 
 
@@ -744,8 +755,6 @@
 \begin{frame}
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Multiple languages}
 \begin{itemize}
-\item Previous extracts all monolingual
-\item But easy to use CG for multilingual speech
 \item Ensure that each ``hit'' in the input file is tagged for language
 \item Put all the rules into one grammar file, grouped according to language
 \item Constrain the rules to act only on one language by including that language's tag in the rule
@@ -755,19 +764,146 @@
 
 
 \begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} }
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Sample rule}
 \begin{itemize}
-\item 
-\item 
-\item 
+\item select (n) if (-1 (ord));
+\item choose the noun reading if the preceding word is an ordinal
+\item select ([es] n) if (-1 ([es] ord));
+\item applies only to Spanish (\textbf{el primer viaje})
 % 
 \end{itemize}
 \end{frame}
 
 
 \begin{frame}[fragile]
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Welsh before CG}
-\begin{scriptsize}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Welsh/Spanish}
+\begin{footnotesize}
+\begin{BVerbatim}
+"<mewn>"
+    "mewn" {128,4} [cy] prep :in:
+"<motor>"
+    "motor" {128,5} [es] n m sg :motor:
+"<newydd>"
+    "newydd" {128,6} [cy] adj :new:
+"<internacional>"
+    "internacional" {128,7} [es] adj m sg :international:
+\end{BVerbatim}
+\\ \hfill\textit{(Patagonia corpus, patagonia2)}
+\end{footnotesize}
+\\ ``\textit{in a new international motor-car}''
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Spanish/English}
+\begin{footnotesize}
+\begin{BVerbatim}
+"<con>"
+    "con" {60,1} [es] prep :with: [132994]
+"<el>"
+    "el" {60,2} [es] det.def m sg :the: [45129]
+"<address>"
+    "address" {60,3} [en] n sg :address: [55976]
+"<de>"
+    "de" {60,4} [es] prep :of: [33387]
+"<aquí>"
+    "aquí" {60,5} [es] adv :here: [11385]
+\end{BVerbatim}
+\\ \hfill\textit{(Miami corpus, zeledon5)}
+\end{footnotesize}
+\\ ``\textit{with the address from here}''
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Welsh/English}
+\begin{footnotesize}
+\begin{BVerbatim}
+"<ac>"
+    "ac" {27,1} [cy] conj :and: [209088]
+"<oedd>"
+    "bod" {27,2} [cy] v 3s imperf :be: [74724]
+"<o>"
+    "fo" {27,3} [cy] pron m 3s spoken :he: [209264]
+"<gynno>"
+    "gan" {27,4} [cy] prep+pron m 3s :with_him: [207424]
+"<fo>"
+    "fo" {27,5} [cy] pron m 3s :he: [196922]
+"<background>"
+    "background" {27,6} [en] n sg :background: [64983]
+"<ddu>"
+    "du" {27,7} [cy] adj :black: [209631] + sm
+\end{BVerbatim}
+\\ \hfill\textit{(Siarad corpus, deuchar1)}
+\end{footnotesize}
+\\ ``\textit{and it was \dots it had a black background}''
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Cross-boundary rules}
+\begin{itemize}
+\item Rules can apply across language boundaries
+\item Remove the language constraint when appropriate
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Spanish adjective}
+\begin{footnotesize}
+\begin{BVerbatim}
+"<es>"
+    "ser"  {500,1} [es] v 23s pres :be: [51318]
+"<otro>"
+    "otro"  {500,2} [es] adj m sg :other: [83612]
+    "otro"  {500,2} [es] pron m sg :other: [83613]
+"<zip>"
+    "zip"  {500,3} [en] n sg :zip: [1758]
+"<code>"
+    "code"  {500,4} [en] n sg :code: [81254]
+\end{BVerbatim}
+\\ \hfill\textit{(Miami corpus, sastre1)}
+\end{footnotesize}
+\\ ``\textit{it's another zipcode}''
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Spanish adjective rule}
+\begin{itemize}
+\item \textbf{otro} can be an adjective before a noun, or a pronoun
+\item The selection rule leaves the noun unspecified as to language:
+\item select ([es] adj) if (1 (n));
+\item \textit{adjective} will be selected before \textbf{any} \textit{noun} (not just Spanish)
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Spanish adjective output}
+\begin{footnotesize}
+\begin{BVerbatim}
+"<es>"
+	"ser" {500,1} [es] v 23s pres :be: [51318]
+"<otro>"
+	"otro" {500,2} [es] adj m sg :other: [83612]
+"<zip>"
+	"zip" {500,3} [en] n sg :zip: [1758]
+"<code>"
+	"code" {500,4} [en] n sg :code: [81254]
+\end{BVerbatim}
+\\ \hfill\textit{(Miami corpus, sastre1)}
+\end{footnotesize}
+\\ ``\textit{it's another zipcode}''
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English verb}
+\begin{footnotesize}
 \begin{BVerbatim}
 "<cada>"
     "cada"  {79,5} [es] adj mf sg :every: [18541]
@@ -784,199 +920,273 @@
     "camp"  {79,10} [en] sv infin :camp: [74449] # asv
 \end{BVerbatim}
 \\ \hfill\textit{(Miami corpus, sastre1)}
-\end{scriptsize}
+\end{footnotesize}
+\\ ``\textit{every time that we go camping}''
 \end{frame}
 
+
 \begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} }
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English verb rule}
 \begin{itemize}
-\item \textbf{vamos camping}
+\item \textbf{camping} can be an adjective, a singular noun, or a verb
+\item \textit{be thinking, enjoy reading, go fishing} 
+\item In \textbf{vamos camping}, we can get the correct end tag by specifying the meaning of the preceding verb, rather than the lemma:
 \item substitute (sv infin asv) (v prespart) \\([en] sv infin asv) (-1 ([en] "be") or (:go:) );
-\item tags 
-\item 
+\item The tags on \textbf{camping} are rewritten to tag it as a present participle 
 % 
 \end{itemize}
 \end{frame}
 
 
 \begin{frame}[fragile]
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Welsh before CG}
-\begin{scriptsize}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English verb output}
+\begin{footnotesize}
 \begin{BVerbatim}
-
+"<cada>"
+    "cada" {79,5} [es] adj mf sg :every: [18541]
+"<vez>"
+    "vez" {79,6} [es] n f sg :time: [116758]
+"<que>"
+    "que" {79,7} [es] pron.rel :that: [93350]
+"<nos>"
+    "yo" {79,8} [es] pron.obl mf 1p :us: [80717]
+"<vamos>"
+    "ir" {79,9} [es] v 1p pres :go: [115789]
+"<camping>"
+    "camp" {79,10} [en] v prespart :camp: [74449] #
 \end{BVerbatim}
 \\ \hfill\textit{(Miami corpus, sastre1)}
-\end{scriptsize}
+\end{footnotesize}
+\\ ``\textit{every time that we go camping}''
 \end{frame}
 
-
-
-
-\begin{frame}[fragile]
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Welsh before CG}
-\begin{scriptsize}
-\begin{BVerbatim}
-
-\end{BVerbatim}
-\\ \hfill\textit{(Miami corpus, sastre1)}
-\end{scriptsize}
-\end{frame}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\subsection{A sample import}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Process}
-\begin{itemize}
-\item Read the lines of the chat file into a database table
-\item Segment each line into words
-\item Look up the words in a digital dictionary
-\item Disambiguate using constraint grammar
-\item Write the results into a gloss tier, using Leipzig schema 
-\end{itemize}
-\end{frame}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Results for Welsh -- manual}
-\setbeamercolor{uppercol}{fg=white,bg=blue!50}%
-\setbeamercolor{lowercol}{fg=black,bg=blue!20}%
-\begin{beamerboxesrounded}[upper=uppercol,lower=lowercol,shadow=false]{\textbf{*ALN:} +" oedd@1 o@1 (y)n@1 edrych@1 fath@1 â@1 cael@1 snog@2 pan@1 wnes@1 i@1 basio@1 !}
-\begin{small}
-\textbf{\%gls:} be.3S.IMP PRON.3SM PRT look.NONFIN kind with have.NONFIN snog when do.1S.PAST PRON.1S pass.NONFIN\\
-\textbf{\%aut:} be.V.3S.IMPERF he.R.M.3S.SPOKEN stative.S look.V.INFIN type.N.M.S.+SM as.C have.V.INFIN snog.V\ .INFIN when.C do.V.1S.PAST.SPOKEN.+SM I.R.1S pass.V\ .INFIN.+SM\\
-\textbf{\%eng:} it looked like having a snog when I passed!
-% broadly similar, but: mutations are marked; more granular tagging; English tagged as well (snog - though this should probably be a noun here)
-\end{small}                                                          
-\end{beamerboxesrounded}
-\begin{small}
-\hfill\textit{(Siarad corpus, stammers4)}
-\end{small}
-\end{frame}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Results for Welsh}
-\setbeamercolor{uppercol}{fg=white,bg=blue!50}%
-\setbeamercolor{lowercol}{fg=black,bg=blue!20}%
-\begin{beamerboxesrounded}[upper=uppercol,lower=lowercol,shadow=false]{\textbf{*AVR:} neu dylai bod fi wedi mynd (be)cause@s:en mae (y)n hwyr rŵan .}
-\begin{small}
-\textbf{\%aut:} or.CY.C ought.CY.V.3S.IMPERF be.CY.V.INFIN I.CY.R.1S after.CY.P go.CY.V.INFIN because.EN.C be.CY.V.3S.PRES stative.CY.S late.CY.A now.CY.B\\
-\textbf{\%eng:} or I ought to have gone because it's late now
-% use of an explicit language tag
-\end{small}                                                          
-\end{beamerboxesrounded}
-\begin{small}
-\hfill\textit{(Patagonia corpus, patagonia2)}
-\end{small}
-\end{frame}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Results for Spanish -- MOR}
-\setbeamercolor{uppercol}{fg=white,bg=blue!50}%
-\setbeamercolor{lowercol}{fg=black,bg=blue!20}%
-\begin{beamerboxesrounded}[upper=uppercol,lower=lowercol,shadow=false]{\textbf{*LAR:} +" porque tú me apoyas en todo sabes .}
-\begin{small}
-\textbf{\%mor:} conj\textbar porque=because pro:per\textbar tú=you pro:per\textbar me=me vpres\textbar apoya-2S\&PRES=support prep\textbar en=in det:indef\textbar todo-MASC=all co\textbar sabes=you\_know\^{}vpres\textbar sabe-2S\&PRES=know .\\
-\textbf{\%aut:} because.CONJ you.PRN.SUBJ.MF.2S me.PRN.OBJ\ .MF.1S support.V.2S.PRES on.PREP everything.PRN.M.SG know.V.2S.PRES\\
-\textbf{\%eng:} because you support me in everything, you know
-\end{small}                                                          
-\end{beamerboxesrounded}
-\begin{small}
-\hfill\textit{(Miami corpus, zeledon14)}
-\end{small}
-\end{frame}
-
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Results for Spanish}
-\setbeamercolor{uppercol}{fg=white,bg=blue!50}%
-\setbeamercolor{lowercol}{fg=black,bg=blue!20}%
-\begin{beamerboxesrounded}[upper=uppercol,lower=lowercol,shadow=false]{\textbf{*SEB:} ellos@3 mataban@3 a@3 la@3 gente@3 como@3 nosotros@3 .}
-\begin{small}
-\textbf{\%aut:} they.PRN.SUBJ.M.3P kill.V.3P.IMPERF~to.PREP the.DET.DEF.F.SG people.N.F.SG like.PREP we.PRN.SUBJ\ .M.1P\\
-\textbf{\%eng:} they would kill people like us
-\end{small}                                                          
-\end{beamerboxesrounded}
-\begin{small}
-\hfill\textit{(Miami corpus, herring7)}
-\end{small}
-\end{frame}
-
-\subsection{Assessment}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Benefits}
-\begin{itemize}
-\item Speed: 2 minutes/30-minute conversation
-\item Consistency: \textit{ychydig} -- ``a bit''/``a little''
-% even when they are wrong, they will be consistently wrong
-\item Handles any number of languages in one pass
-% MOR needs two passes to handle two languages
-\item Extensible
-% scripting languages are easier than programming languages
-% may be simpler for lesser-resourced languages
-% dictionary is in a spreadsheet, and the rules use constraint grammar, which is relatively easy to get to grips with
-\item Re-uses existing resources and tools
-\item Transferable skills
-% technology transfer - use tools you can use in other places
-\end{itemize}
-\end{frame}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Results}
-\begin{center}
-\begin{tabular}{ccc}
-& \textsc{Welsh} & \textsc{Spanish}\\ \cline{1-3}\noalign{\smallskip}
-\textbf{Coverage} (all words) & 88\% & 96\%\\
-Tokens & 5224 & 4827\\
-\hline\noalign{\smallskip}
-\textbf{Correlation} (nouns) & 82\% & 85\%\\
-\hline\noalign{\smallskip}
-\textbf{Accuracy} (nouns) & 93\% & 97\%\\
-Nouns & 459 & 380\\
-\hline\noalign{\smallskip}
-\begin{small}\textit{Files}\end{small} & \begin{small}\textit{stammers4}\end{small} & \begin{small}\textit{zeledon14}            \end{small}
-\end{tabular}
-% Welsh: herring7 (12% typo rate), 459 nouns, 5224 tokens; Spanish: splloc, 81 nouns, 470 tokens; zeledon14 (5% typo rate), 380 nouns, 4827 tokens
-% MOR does get some things wrong
-% Welsh dictionary: 209k items (nouns: 6k); Spanish dictionary: 130k items (nouns: 19k)
-\end{center}
-\end{frame}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Drawbacks}
-\begin{itemize}
-\item Like MOR, still needs checking!
-\item Dictionary cleaning can take some time
-\item Rules take time to write and test
-\end{itemize}
-\end{frame}
-
-\section{Adding value}
 
 \begin{frame}
 \frametitle{}
 \begin{center}
-\begin{huge}Can we add value\\\vspace {10 mm} to the texts?\end{huge}
+\begin{huge} Rule types and \\language type \end{huge}
 \end{center}
 \end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Removal}
+\begin{itemize}
+\item ``Delete'' items from the dictionary
+\item Homonym selection
+\item select ("cyfeiriad" [cy] :direction:);
+\item Archaic/infrequent words
+\item remove ("tasu" [cy] :stack:);
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Compensate}
+\begin{itemize}
+\item Remove words which are an artefact of the lookup
+\item remove ([cy] "mynd" v 2s imper nm);
+\item \textit{nos} $<$ \textit{dos}
+\item remove ([in] "gum" n sg sm);
+\item \textit{um} $<$ \textit{gum}
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English}
+\begin{itemize}
+\item substitute (n sg pv) (n pl) ([en] n sg pv);
+\item \textit{house} \textrightarrow \textit{houses}
+\item substitute (as) (adj) ([en] as) (1 ([en] n) or ([en] pron));
+\item \textit{a miniature rabbit, miniature ones}
+% 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English}
+\begin{itemize}
+\item substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] v infin));
+\item \textit{and open it}
+\item substitute (sv infin av) (v past) ([en] sv infin av) (-2 ([en] pron.sub)) (-1 preverbal);
+\item \textit{they closed}
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English}
+\begin{itemize}
+\item substitute (av past) (v past) ([en] av past) (-1 ([en] pron.sub)) (not -1 (have.v.pres)) (not -2 ("have"));
+\item \textit{we bought}, \textbf{not} \textit{you've done, we have bought}
+\item substitute (av past) (v pastpart) ([en] av past) (-1 (have.v.pres) or ("have") or ("be") or (det.def) or (det.indef));
+\item \textit{you've done, you have done, it was misspent, un rebuilt}
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} English}
+\begin{itemize}
+\item Refine existing tags
+\item substitute (123p) (1p) ([en] v 123p) (-1 (pron.sub 1p));
+\item \textit{we are}
+\item In general, more dependent on rule order
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Default choices}
+\begin{itemize}
+\item When left with an [or], we can make a ``default`` choice
+\item select ([cy] v infin) if (0C ([cy] v infin) or ([cy] v 3s imper));
+\item \textit{cerdded}
+\item C enforces the two conditions
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Careful \dots}
+\begin{itemize}
+\item Scope of \textbf{remove} can be unexpected
+\item Likewise \textbf{select-if-not}
+\item select (imper) if (not @1 ("ni"));
+\item Caused 304 regressions in Spanish output!
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Rule numbers}
+\begin{itemize}
+\item Spanish: 150 
+\item Welsh: 180
+\item English: 200
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Output method}
+\begin{itemize}
+\item CG writes out the disambiguated text
+\item This file is parsed
+\item The glosses (lexeme + POS tag) are inserted into the words table
+\item The words are then written out to create the autoglossed file
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} The words table}
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=\textwidth]{words_table.png}
+  \end{figure}
+  % Spanish sentence from the Miami corpus.
+  % The autogloss field is now filled.
+\end{frame}
+
+
+\begin{frame}
+\frametitle{}
+\begin{center}
+\begin{huge} Accuracy \end{huge}
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Accuracy}
+\begin{center}
+\begin{tabular}{ccccc}
+& \begin{small}\textit{Words}\end{small} & \begin{small}\textit{Coverage}\end{small} & \begin{small}\textit{MFL}\end{small} & \begin{small}\textit{Accuracy}\end{small} \\
+\cline{1-5}\noalign{\smallskip}
+\textbf{Welsh-Spanish} & 15,677 & 100\% & W:92\% & 99\% \\
+(Patagonia\footnote{patagonia1,2,3,6}) & & & \\
+\textbf{Spanish-English} & 4,202 & 97\% & S:59\% & 97\% \\
+(Miami\footnote{zeledon5}) & & & \\
+\textbf{Welsh-English} & 10,411 & 96\% & W:81\% & 98\% \\
+(Siarad\footnote{stammers4, deuchar1}) & & & \\
+\end{tabular}
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Dictionary coverage}
+\begin{center}
+\begin{tabular}{cccc}
+& \begin{small}\textit{Words}\end{small} & \begin{small}\textit{Nouns}\end{small} & \begin{small}\textit{}\end{small} \\
+\cline{1-4}\noalign{\smallskip}
+\textbf{Welsh} & 209k & 6k & 3\% \\
+\textbf{Spanish} & 130k & 19k & 15\% \\
+\end{tabular}
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Speed}
+\begin{itemize}
+\item 900-1100 words per minute
+\item 1 minute to autogloss 5 minutes of manually-glossed speech
+\item Siarad: 500,000 words in 8h27m
+% 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Sample utterances}
+\begin{footnotesize}
+
+\textbf{*SER:}   dw@1 i@1 (y)n@1 hopeless@2 efo@1 tynnu@1 llun@1 . \%snd:"deuchar1"\_72848\_73881
+
+\textit{\%gls:}   be.1S.PRES PRON.1S PRT hopeless with take.NONFIN picture
+
+\textit{\%eng:}   I'm hopeless at drawing
+
+\textbf{*MYF:}   +$<$ \&=laugh . \%snd:"deuchar1"\_73196\_73881
+
+\textbf{*SER:}   dw@1 i@1 (y)n@1 tynnu@1 llun@1 i@1 [/] i@1 (y)r@1 plant@1 $<$i@1 plant@1$>$ [//] $<$i@1 (y)r@1$>$ [//] \# i@1 er@0 \&h Helen@0 a@1 Susanna@0 a@1 +/. \%snd:"deuchar1"\_73881\_79477
+
+\textit{\%gls:}   be.1S.PRES PRON.1S PRT take.NONFIN picture for for DET children for children for DET for IM Helen and Susanna and
+
+\textit{\%eng:}   I draw a picture for \dots for the children, for, er, Helen and Susanna and \dots
+
+\end{footnotesize}
+\begin{small}
+\hfill\textit{(Siarad corpus, deuchar1)}
+\end{small}
+% Hesitation markers, delivery hints, elision
+\end{frame}
+
+
+\begin{frame}
+\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Typesetting}
+  \begin{figure}[h]
+  \centering
+  \includegraphics[width=\textwidth]{deuchar1.png}
+  \end{figure}
+  % Spanish sentence from the Miami corpus.
+  % At this stage the autogloss field would be empty - that is what we're going to add now.
+\end{frame}
+
+
+\section{Adding value}
 
 \subsection{Texts}
 
@@ -992,74 +1202,25 @@ Nouns & 459 & 380\\
 \end{itemize}
 \end{frame}
 
-\subsection{Accessibility}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Accessibility}
-  \begin{figure}[h]
-  \centering
-  %\includegraphics[scale=0.6]{cells.png}
-  \end{figure}
-\end{frame}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Accessibility}
-\begin{itemize}
-\item Interactive webpages (\textit{siarad.org.uk})
-% easier mining of the data, no need to install CLAN
-  \begin{figure}[h]
-  \centering
-  %\includegraphics[scale=0.5]{frequency.png}
-  \end{figure}
-% click on gael, and you get ...
-\end{itemize}
-\end{frame}
-
-\begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Accessibility}
-  \begin{figure}[h]
-  \centering
-  %\includegraphics[scale=0.5]{context.png}
-  \end{figure}
-\begin{itemize}
-\item Interface to CLAN queries
-% already a very good web interface, but you could aim this more at beginners, with potted queries
-\end{itemize}
-\end{frame}
 
 \subsection{Data-mining}
 
 \begin{frame}
 \frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Data-mining}
 \begin{itemize}
-\item Utterance profiling
-  \begin{columns}
-  \begin{column}{0.7\textwidth}
-    \begin{figure}[h]
-    \centering
-    %\includegraphics[scale=0.5]{fingerprint.png}
-    \end{figure}
-  \end{column}
-  \begin{column}{0.3\textwidth}
-    \begin{figure}[h]
-    \centering
-    %\includegraphics[scale=0.5]{profile.png}
-    \end{figure}
-  \end{column}
-  \end{columns}
+\item Interactive webpages (\textit{bangortalk.org.uk})
+\item Easier or more detailed statistical analysis with R
+\item Input to machine translation. speech-to-text, etc
 \end{itemize}
 \end{frame}
+
 
 \begin{frame}
-\frametitle{\begin{small}\insertframenumber/\inserttotalframenumber\end{small} Data-mining}
-\begin{itemize}
-\item Easier or more detailed statistical analysis
-\item N-gram generation (2- or 3-word collocations)
-\item Input to statistical machine translation
-\end{itemize}
+\frametitle{}
+\begin{center}
+\begin{huge} thinkopen.org.uk/git \end{huge}
+\end{center}
 \end{frame}
-
-
 
 
 \end{document}
