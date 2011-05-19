@@ -634,15 +634,17 @@ substitute (av past+p) (v pastpart) ([en] av past+p) (-1 ([en] "have") or ("<he'
 substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] pron.sub) or (name));  # she got; Pepa had
 substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] n)) (1([en] v pastpart));  # the car had been
 
-substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] v infin));  # and open it
-substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] v) link not 2 ([en] v)) (not 0 (be.v.3s.pres));  # they take it away; !I mean it's ...;
-substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ("<that's>") or ("worth"));  # that's it; worth it
-substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] "for" prep)) (not 1 ([en] v));  # for you; !for, you know, they; 
-substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] prep)) (1 (<<<));  # in it.; 
-substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] prep));  # talk to you - CHECK this broader version
+substitute (pron.sub) (pron.obj) ([en] "it" pron.sub) (-1 ([en] v infin));  # and open it
+substitute (pron.sub) (pron.obj) ([en] "it" pron.sub) (-1 ([en] v) link not 2 ([en] v)) (not 0 (be.v.3s.pres));  # they take it away; !I mean it's ...;
+substitute (pron.sub) (pron.obj) ([en] "it" pron.sub) (-1 ("<that's>") or ("worth"));  # that's it; worth it
+#substitute (pron.sub) (pron.obj) ([en] "it" pron.sub) (-1 ([en] prep)) (1 (<<<));  # in it.; replace by broader one below
+substitute (pron.sub) (pron.obj) ([en] "it" pron.sub) (1 (<<<));  # in it., feel it., block it. 
+
+substitute (pron.sub) (pron.obj) ([en] "you" pron.sub) (-1 ([en] "for" prep)) (not 1 ([en] v));  # for you; !for, you know, they; 
+substitute (pron.sub) (pron.obj) ([en]"you" pron.sub) (-1 ([en] prep));  # talk to you - CHECK this broader version
 
 substitute (pron.obj) (pron.sub) ([en] pron.obj 3s) (-1 ("<isn't>") or ("<is>"));  # isn't it; is it
-substitute (pron.obj) (pron.sub) ([en] pron.obj) (-1 ("be" v) or ("have" v));  # are we
+substitute (pron.obj) (pron.sub) ([en] "we" pron.obj) (-1 ("be" v) or ("have" v));  # are we
 
 substitute (pron.obj) (pron.indir) ([en] pron.obj) (-1 ("buy") or ("send") or ("bring")) (1 ([en] det.def) or ([en] det.indef) or ([en] adj) or ([en] n));  # I bought him a; to send you the stuff; !they bought things
 

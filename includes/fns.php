@@ -575,6 +575,7 @@ function tex_pos_colour ($text)
 
 function get_speaker_data($words)
 // Get the speaker data from the questionnaire table for the speakers in the words table
+// Need to include the limit fix from get_speakers below.
 {
 	$sqlsp=query("select speaker from $words group by speaker order by speaker");
 	while ($rowsp=pg_fetch_object($sqlsp))
@@ -612,26 +613,50 @@ function get_speaker_data($words)
 function get_speakers($words)
 // Get the speaker data from the questionnaire table for the speakers in the words table
 {
-	$sqlsp=query("select speaker from $words group by speaker order by speaker");
+	$sqlsp=query("select speaker, count(speaker) from $words group by speaker order by speaker");
 	while ($rowsp=pg_fetch_object($sqlsp))
 	{
-		$speakers[]=$rowsp->speaker;
+		if ($rowsp->count>200)
+		// Added to prevent the sampler trying to get samples for speakers who make only a marginal contribution to the conversation.
+		// The limit number is set here to 200, meaning that the speaker must contribute at least 200 utterances to be included in the roster.
+		{
+			$speakers[]=$rowsp->speaker;
+		}
 	}
 	return $speakers;
 }
 
 function get_linguality($array)
-// Get the linguality of a clause or utterance
+// Get the linguality of a clause or utterance - edit to match Spanish/English one below
 {
 	$ling=array_count_values($array);
 	// If there is at least one cym&eng or eng word, the clause is bilingual
-	//if (!$ling[cym_eng] and !$ling[eng])
+	//if (!$ling[cym_eng] and !$ling[eng]) // note we need to use _ isntead of &, since it has been switched in the preceding code
 	// Redone to ignore cym&eng
 	if ($ling[cym] and !$ling[eng])
 	{
 		$mb="monoW";
 	}
 	elseif ($ling[eng] and !$ling[cym])
+	{
+		$mb="monoE";
+	}
+	else
+	{
+		$mb="biling";
+	}
+	return $mb;
+}
+
+function get_linguality_enes($array)
+// Get the linguality of a clause or utterance
+{
+	$ling=array_count_values($array);
+	if (!$ling[eng])
+	{
+		$mb="monoS";
+	}
+	elseif (!$ling[spa])
 	{
 		$mb="monoE";
 	}

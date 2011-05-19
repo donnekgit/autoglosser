@@ -17,8 +17,10 @@ $spdata=get_speaker_data($words);
 $fp = fopen("outputs/".$filename."/".$filename."_clauses.csv", "w") or die("Can't create the file");
 
 // Spreadsheet column headings
-//$columns="\"Corpus\",\"Filename\",\"Utterance number\",\"Clause number\",\"Location of clause start\",\"Location of clause end\",\"Speaker\",\"Clause\",\"Matrix (verb) language\",\"Linguality of clause\",\"Dependent variable\",\"Linguality of utterance\",\"Mari-Carmen variable\",\"Verb morphology\",\"AoA minority language\",\"AoA majority language\",\"Mother's language\",\"Father's language\",\"Parental input\",\"Primary school language\",\"Secondary school language\",\"Language of education\",\"Identity\",\"Contact1\",\"Contact2\",\"Contact3\",\"Contact4\",\"Contact5\",\"Social network\"\n";
-//fwrite($fp, $columns);
+$columns="\"Corpus\",\"Filename\",\"Utterance number\",\"Clause number\",\"Location of clause start\",\"Location of clause end\",\"Speaker\",\"Clause\",\"Matrix (verb) language\",\"Linguality of clause\",\"Dependent variable\",\"Linguality of utterance\",\"Mari-Carmen variable\",\"Verb morphology\"\n";
+fwrite($fp, $columns);
+
+//,\"AoA minority language\",\"AoA majority language\",\"Mother's language\",\"Father's language\",\"Parental input\",\"Primary school language\",\"Secondary school language\",\"Language of education\",\"Identity\",\"Contact1\",\"Contact2\",\"Contact3\",\"Contact4\",\"Contact5\",\"Social network\"
 
 // Notes on each column 
 //$columns="\"Name of the corpus\",\"Name of the file\",\"Location in the speech tier\",\"Location in the utterance\",\"Word in the utterance at which the clause begins\",\"Word in the utterance at which the clause ends\",\"Speaker\",\"Contents of the clause\",\"cym=Welsh, eng=English\",\"monoW=monolingual Welsh, monoE=monolingual English, biling=bilingual\",\"Generated from ML (first letter) and clause linguality (second letter): eg wb=Welsh ML and bilingual clause\",\"monoW=monolingual Welsh, monoE=monolingual English, biling=bilingual\",\"Generated from ML (first letter), clause linguality (second letter), and utterance linguality (third letter): eg wwb=Welsh ML, Welsh clause, and bilingual utterance\",\"Glosses for verbs in the clause, separated by =\",\"1=<2, 2=<4, 3=primary, 4=secondary, 5=adult, 0=blank\",\"1=<2, 2=<4, 3=primary, 4=secondary, 5=adult, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"Average of the values for mother's language and father's language\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"Average of the values for primary and secondary school language\",\"1=Welsh, 2=English, 3=other, 4=British\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"1=Welsh, 2=Welsh/English, 3=English, 4=other, 0=blank\",\"Average of the values for the 5 contact fields\"\n";
@@ -44,7 +46,7 @@ while ($row1=pg_fetch_object($sql1))
 			$loc[]=$row3->location;  // Gather locations to give clause beginning and end.
 			
 			// Collect verbs to give verb morphology
-			if (preg_match("/\.V\./", $row3->auto))
+			if (preg_match("/\.S?V\./", $row3->auto))
 			{
 				$verb.=$row3->auto."=";
 				// Log the language of the verb for only the first instance
@@ -58,7 +60,7 @@ while ($row1=pg_fetch_object($sql1))
 			
 		}
 		
-		$mb_clause=get_linguality($clause_langid);
+		$mb_clause=get_linguality_enes($clause_langid);
 		
 		$sql4=query("select * from $sampleclauses where utterance_id=$utt and langid!='999' order by location");
 		while ($row4=pg_fetch_object($sql4))
@@ -67,7 +69,7 @@ while ($row1=pg_fetch_object($sql1))
 			// Gather utterance langids to test linguality.  The key won't be read if there is an & in it.
 		}
 		
-		$mb_utt=get_linguality($utt_langid);
+		$mb_utt=get_linguality_enes($utt_langid);
 
 		// Code to give % of words in the clause that are bilingual - not used currently
 		//$lingtotal=count($langid);  // Get the total words in the clause
@@ -81,38 +83,37 @@ while ($row1=pg_fetch_object($sql1))
 		
 		// Verb data
 		$verb=substr($verb, 0, -1);  // Trim the excess = off the end of the verb string.
-		$verb=preg_replace("/\[or\]be\.V.3S\.PRES\.NEG\+SM/", "", $verb);  // Hack!
-		
+
 		// Responder (dependent) variable
 		if ($verblg=="eng" and $mb_clause=="monoE" and $mb_utt=="monoE")
 		{
 			$dv="ee";
 			$mcv="eee";
 		}
-		elseif ($verblg=="cym" and $mb_clause=="monoW" and $mb_utt=="monoW")
+		elseif ($verblg=="spa" and $mb_clause=="monoS" and $mb_utt=="monoS")
 		{
-			$dv="ww";
-			$mcv="www";
+			$dv="ss";
+			$mcv="sss";
 		}
 		elseif ($verblg=="eng" and $mb_clause=="monoE" and $mb_utt=="biling")
 		{
 			$dv="ee";
 			$mcv="eeb";
 		}
-		elseif ($verblg=="cym" and $mb_clause=="monoW" and $mb_utt=="biling")
+		elseif ($verblg=="spa" and $mb_clause=="monoS" and $mb_utt=="biling")
 		{
-			$dv="ww";
-			$mcv="wwb";
+			$dv="ss";
+			$mcv="ssb";
 		}
 		elseif ($verblg=="eng" and $mb_clause=="biling" and $mb_utt=="biling")
 		{
 			$dv="eb";
 			$mcv="ebb";
 		}
-		elseif ($verblg=="cym" and $mb_clause=="biling" and $mb_utt=="biling")
+		elseif ($verblg=="spa" and $mb_clause=="biling" and $mb_utt=="biling")
 		{
-			$dv="wb";
-			$mcv="wbb";
+			$dv="sb";
+			$mcv="sbb";
 		}
 		
 		// Printout
@@ -129,7 +130,7 @@ while ($row1=pg_fetch_object($sql1))
 		$csvling="\"".$verblg."\",\"".$mb_clause."\",\"".$dv."\",\"".$mb_utt."\",\"".$mcv."\",\"".$verb."\",";
 		fwrite($fp, $csvling);
 		// Matrix (verb) language, Linguality of clause, Dependent variable, Linguality of utterance, Mari-Carmen variable, Verb morphology,
-				
+/*				
 		$csvaoa="\"".$spdata[$speaker][aoa_min]."\",\"".$spdata[$speaker][aoa_maj]."\",";
 		fwrite($fp, $csvaoa);
 		// AoA minority language, AoA majority language,
@@ -142,9 +143,13 @@ while ($row1=pg_fetch_object($sql1))
 		fwrite($fp, $csveduc);
 		// Primary school language,Secondary school language, Language of education,
 		
-		$csvid= "\"".$spdata[$speaker][nat_id]."\",\"".$spdata[$speaker][contact1]."\",\"".$spdata[$speaker][contact2]."\",\"".$spdata[$speaker][contact3]."\",\"".$spdata[$speaker][contact4]."\",\"".$spdata[$speaker][contact5]."\",\"".$spdata[$speaker][socnet]."\"\n";
+		$csvid= "\"".$spdata[$speaker][nat_id]."\",\"".$spdata[$speaker][contact1]."\",\"".$spdata[$speaker][contact2]."\",\"".$spdata[$speaker][contact3]."\",\"".$spdata[$speaker][contact4]."\",\"".$spdata[$speaker][contact5]."\",\"".$spdata[$speaker][socnet]."\"";
 		fwrite($fp, $csvid);
 		// Identity, Contact1, Contact2, Contact3, Contact4, Contact5, Social network
+*/
+
+		$endmyline="\n";  // End this record
+		fwrite($fp, $endmyline);
 
 		unset($clause, $clause_langid, $utt_langid, $loc, $verb, $verblg, $dv);
 	}

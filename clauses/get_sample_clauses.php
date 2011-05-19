@@ -12,7 +12,9 @@ if (empty($filename))
 $window=5;  // The sampling window defines how many utterances will be selected on each side of the quartile utterance
 
 // Retrieve speaker data from the questionnaire table and make the desired data-items available in an array
-$spdata=get_speaker_data($words);
+//$spdata=get_speaker_data($words);  # siarad
+$spdata=get_speakers($words);  # zeledon5
+//print_r($spdata);
 
 $directions=array("max"=>"<", "min" => ">");
 
@@ -23,9 +25,10 @@ $quartiles[]=round($total/4);  // 25%
 $quartiles[]=round($total/2); // 50%
 $quartiles[]=round($quartiles[0]+$quartiles[1]); // 75%
 
-foreach ($spdata as $speaker=>$data)  // Loop through the speakers
+//foreach ($spdata as $speaker=>$data)  // Loop through the speakers - siarad
+foreach ($spdata as $data=>$speaker)  // Loop through the speakers - zeledon5
 {
-	//echo "\n|||".$speaker."|||\n";
+	echo "\n|||".$speaker."|||\n";
 	foreach ($directions as $direction=>$opsign)  // Take utterances below the quartile, and then above it
 	{
 		//echo "\n___".$direction."\n";

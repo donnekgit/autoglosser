@@ -20,7 +20,7 @@ while ($row1=pg_fetch_object($result1))
 		$locarray[]=$row2->location;
 	}
 	echo $row1->utterance_id."\n";
-	$locarray[0]=0;  // the first clause-marker will be in $locarray[0]; this will omit words between the beginning of the utterance and this clause-marker; so set $location[0] to the beginning of the utterance (0 instead of whatever number it is)
+	//$locarray[0]=0;  // the first clause-marker will be in $locarray[0]; this will omit words between the beginning of the utterance and this clause-marker; so set $location[0] to the beginning of the utterance (0 instead of whatever number it is)
 	//print_r($locarray);
 
 	$j=1;
@@ -40,11 +40,22 @@ while ($row1=pg_fetch_object($result1))
 		while ($row4=pg_fetch_object($result4))
 		{
 			$clause.=$row4->surface." ";
+			$auto.=$row4->auto." ";
 			$sqlc=query("update ".$filename."_sampleclauses set clauseno='$j' where utterance_id=$row1->utterance_id and location>=$locarray[0]");
 		}
 		echo $j.": ".$clause."\n";
 		unset($clause);
-		$j++;
+		echo $auto."\n";
+		if (preg_match("/\.V\.(?!INFIN)/", $auto)) // if there is a verb in the previous chunk, increment the clause number; if not, don't
+		{
+			$j++;
+		}
+		else
+		{
+			$j=$j;
+		}
+
+		unset($auto);
 
 		array_shift($locarray);  // Remove the first clause marker in the array so that we can process the next one
 		$locarray=array_values($locarray);  // Re-index the array to start at 0 again

@@ -36,4 +36,6 @@ exec("utils/sed_get_header ".$chafile);
 // Uncomment if you want to replace old-style CLAN tags with new-style CLAN tags.
 //exec("utils/sed_convert_lgid ".$chafile);
 
+echo "REMEMBER TO CHANGE THE LANGUAGE SETTINGS!\n";
+
 ?>
