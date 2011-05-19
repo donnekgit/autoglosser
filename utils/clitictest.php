@@ -1,12 +1,16 @@
 <?php
 
-/*
-Copyright Kevin Donnelly 2010.
+/* 
+*********************************************************************
+Copyright Kevin Donnelly 2010, 2011.
+kevindonnelly.org.uk
+This file is part of the Bangor Autoglosser.
 
 This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+it under the terms of the GNU General Public License and the GNU
+Affero General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -14,8 +18,10 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-*/
+and the GNU Affero General Public License along with this program.
+If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************
+*/ 
 
 /*
 This script is a suggested way of segmenting clitic pronouns from a verbform, tagging them all separately, and combining them to give a segmented and POS-tagged analysis of the original target word.  You need to insert your own lookup of the verbform - in the Bangor Autoglosser, for which these functions were developed, I use an ordinary SQL lookup in PHP to select the appropriate verbform+POS-tags from my refactored version of the Apertium Spanish dictionary.  This file can be run as: php clitictest.php (assuming you have the php_cli package installed), and will output an analysis of the sample verbform "abandónateles".
