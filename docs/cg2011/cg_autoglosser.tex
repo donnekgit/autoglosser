@@ -27,25 +27,19 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-We present a novel use of constraint grammar (CG) in automatic glossing software to disambiguate surface forms in connected multilingual speech.  The resulting autoglosser output shows 96-99\% accuracy over all three languages.  We discuss the CG rules that help deliver this, focussing on the differences between those applying to Welsh and Spanish, and those applying to English.
+We present a novel use of constraint grammar (CG) in automatic glossing software to disambiguate surface forms in connected multilingual speech.  The resulting autoglosser output shows 97-99\% accuracy over all three languages.  We discuss the CG rules that help deliver this, focussing on the differences between those applying to Welsh and Spanish, and those applying to English.
 \end{abstract}
 
 \smallskip
 \section{Introduction}
 \label{sec:intro}
 
-Bangor University's ESRC Centre for Research on Bilingualism,\footnote{http://bilingualism.bangor.ac.uk} established in Jnauary 2007, has assembled some 130 bilingual conversations in three corpora:
-\begin{itemize}
-\setlength{\itemsep}{-1mm}
-\item \textbf{Siarad}\footnote{Siarad means ``speak'' in Welsh.} (Welsh-English)
-\item \textbf{Patagonia} (Welsh-Spanish)
-\item \textbf{Miami} (Spanish-English).
-\end{itemize}
+Bangor University's ESRC Centre for Research on Bilingualism,\footnote{http://bilingualism.bangor.ac.uk} established in Jnauary 2007, has assembled some 130 bilingual conversations in three corpora: \textbf{Siarad}\footnote{Siarad means ``speak'' in Welsh.} (Welsh-English), \textbf{Patagonia} (Welsh-Spanish), \textbf{Miami} (Spanish-English).
 
 The conversations total some 80 hours and 750,000 words, and are all available under the GNU GPL.\footnote{http://www.gnu.org/licenses/gpl.html}  Each recording is provided with a detailed transcription in the widely-used CLAN format\footnote{http://childes.psy.cmu.edu/clan.  Note that using CLAN to record bilingual speech is an extension of its original focus on recording language development in children.} \cite{macwhinney2000}, along with a free translation in English, and an interlinear gloss giving lexemes and part-of-speech (POS) tags for each word, so that researchers without first-hand knowledge of the languages concerned can more easily parse the utterances.
 
-\begin{table}[h]
-\begin{center}
+\begin{table}[!hbtp]
+\centering
 \begin{tabular}{ccccc}
 & \begin{small}\textit{Chats}\end{small} & \begin{small}\textit{Hours}\end{small} & \begin{small}\textit{Words}\end{small} & \begin{small}\textit{Date}\end{small} \\
 \cline{1-5}\noalign{\smallskip}
@@ -55,12 +49,17 @@ The conversations total some 80 hours and 750,000 words, and are all available u
 \hline\noalign{\smallskip}
 & \textbf{132} & \textbf{80} & \textbf{743k} \\
 \end{tabular}
-\end{center}
 \caption{The three ESRC Centre corpora}
 \label{corpora}
 \end{table}
 
-Part of a typical transcription is shown in Figure \ref{chat_file1}.  Each utterance has an ID for the speaker (\textit{*SER}), the transcribed speech (with each word tagged for language\footnote{The autoglosser handles 4 marking systems, which reflect changes in transcription practice in the ESRC Centre over the past 5 years, and developments in CLAN itself.} -- @1 for Welsh, @2 for English, @0 for indeterminate\footnote{Words which are used in both languages, and which therefore cannot be assigned unambiguously to one of them.}), and a tag (\textit{\%snd}) giving the time-location of the utterance in the audiofile.  Below that is the gloss tier (\textit{\%gls}) and the free translation into English (\textit{\%eng}).  The language tags 
+Part of a typical transcription is shown in Figure \ref{chat_file1}, in which (using CLAN terminology) three ``tiers'' can be discerned: the speech tier, the gloss tier, and the translation tier.
+
+The speech tier (the words actually uttered) is marked by an initial ID to distinguish the speaker (e.g. \textit{*SER}), followed by the transcribed speech (with each word tagged for language\footnote{The autoglosser handles 4 marking systems, which reflect changes in transcription practice in the ESRC Centre over the past 5 years, and developments in CLAN itself.} -- @1 for Welsh, @2 for English, @0 for indeterminate\footnote{Words which are used in both languages, and which therefore cannot be assigned unambiguously to one of them.}), and a tag (\textit{\%snd}) giving the time-location of the utterance in the audiofile.
+
+The gloss tier is marked by an initial \textit{\%gls}, followed by a series of lexeme+POS-tag strings.
+
+The translation tier is marked by an initial \textit{\%eng}, and gives a free translation of the speech tier (the speaker's utterance) into English.
 
 \begin{figure*} 
 \begin{footnotesize}
@@ -81,23 +80,66 @@ for DET for IM Helen and Susanna and
 \label{chat_file1}
 \end{figure*}
 
-The corpora are valuable in examining how language is actually used: for instance, the differences between spoken language and formal written language, sociolinguistic variation (what forms of language are used where and by whom), the balance between languages in bilingual usage, and how one language handles lexical items from the other (\cite{stammers}, using the Siarad corpus, has shown that Welsh loan-verbs such as \textit{textio} (to text) behave more like ordinary Welsh verbs the more frequent they are).
+The corpora are valuable in examining how language is actually used: for instance, the differences between spoken language and formal written language, sociolinguistic variation (what forms of language are used where and by whom), the balance between languages in bilingual usage, and how one language handles lexical items from the other (for instance, using the Siarad corpus \cite{stammers2010} has shown that Welsh loan-verbs such as \textit{textio} (to text) behave more like ordinary Welsh verbs the more frequent they are).
 
-The Siarad (Welsh-English) corpus was glossed manually, but this was tedious and time-consuming, and in order to save valuable specialist time it was decided to explore automating the process of glossing the Miami (Spanish-English) and Patagonia (Welsh-Spanish) corpora.
+Manual glossing of the Siarad (Welsh-English) proved to be tedious and time-consuming, so in order to save valuable specialist time it was decided to explore automating the glossing of the Miami (Spanish-English) and Patagonia (Welsh-Spanish) corpora.
+
+Although the CLAN project provides a tagging system (MOR),\footnote{http://childes.psy.cmu.edu/morgrams} this only caters for 11 languages, each with more than 5m speakers.  Vocabulary is distributed over a number of files, and MOR requires a separate pass over the file to tag each language.  Post-tagging disambiguation (using the POST program) is only available for 4 languages.  Software such as Toolbox\footnote{http://www.sil.org/computing/toolbox} offers interlinear glossing capability, but is aimed more at linguistic field researchers, and is less applicable to fully-described languages; moreover, it does not seem to be scriptable, which was essential in order to deal with the volume of data in the corpora. 
+
+With no existing software meeting the purpose, a two-week test project in April 2010 looked at the viability of simply writing out entries from Spanish and Welsh dictionaries for each word in the transcription.  The Spanish dictionary was based on the one used in Apertium,\footnote{http://apertium.org} a free (GPL) platform for developing rule-based machine translation systems, and the Welsh dictionary was based on Eurfa,\footnote{http://eurfa.org.uk} developed by the first author a few years ago, and still the largest free (GPL) dictionary for Welsh.  The results of the tests were encouraging, and the only remaining issue was how to dismbiguate between the returned entries.  For this we turned to constraint grammar, and the rest of this paper reports on how this is used in the software we have developed over the last year (the Bangor Autoglosser).
 
 
-\section{Autoglosser overview}
+\section{Overview of the process}
 \label{sec:autoglosser}
 
-are instead being glossed using software developed at the Centre since April 2010.
+Each utterance (that is, each line that is preceded by a speaker ID) in the transcribed conversation file is read into a PostgreSQL database table containing the following fields:
+\begin{itemize}
+\setlength{\itemsep}{-2mm}
+\item utterance\_id
+\item filename
+\item speaker
+\item surface (the utterance)
+\item startpoint
+\item endpoint
+\item duration
+\item manual gloss (if present)
+\item English translation (if present)
+\item comments (if present)
+\item precode (if present -- marks entire utterances in the least-frequent language)
+\end{itemize}
 
-Although the CLAN project provides a tagging system (MOR),\footnote{http://childes.psy.cmu.edu/morgrams} this only caters for 11 languages, each with more than 5m speakers.  Vocabulary is distributed over a number of files, and MOR requires a separate pass over the file to tag each language.  Post-tagging disambiguation (using the POST program) is only available for 4 languages.  Software such as Toolbox\footnote{http://www.sil.org/computing/toolbox} offers interlinear glossing capability, but is aimed more at linguistic field researchers, and is less applicable to fully-described languages; moreover, it does not seem to be scriptable, which would be necessary to deal with the volume of data in the corpora. 
+Each utterance in this table is cleaned (non-lexical markers are discarded), and then split into words, which are stored in another table with the following fields:
+\begin{itemize}
+\setlength{\itemsep}{-2mm}
+\item word\_id
+\item utterance\_id
+\item location of the word in the utterance
+\item surface (the word)
+\item automatic gloss (to hold the later output)
+\item manual gloss (if present)
+\item language id
+\item speaker
+\item filename
+\end{itemize}
 
-With no existing software 
+Each word in this table is looked up against a dictionary table for the appropriate language, using the language id assigned to the word by the transcriber.\footnote{In the absence of this, it would in principle be possible to use a brute-force lookup on each dictionary in turn.}  
 
-The autoglosser uses the PHP scripting language in combination with a PostgreSQL database.  Each utterance in the transcribed conversation file is imported into a database table, and then split into words, which are stored in another table.  Each word is looked up against a dictionary table for the appropriate language -- the transcription notes the language of each word, so this is easy.\footnote{Even in the absence of such annotation it would in principle be possible to use a brute-force lookup on each dictionary in turn.}  The cohorts of readings are then written out to a file in the format required by the contraint grammar parser,\footnote{http://visl.sdu.dk/cg3.html} which applies the grammar rules to winnow out invalid readings and write out another file.  This is then read back in to the database, with the glosses being extracted and stored in the words table.  Finally, the utterances are written out again, along with the concatenated glosses (following the Leipzig schema \cite{leipzig2008} so far as possible), to create a final text with an interlinear gloss.
+All matching entries in the dictionary are then written out to a file in the format required by the contraint grammar parser.\footnote{http://visl.sdu.dk/cg3.html}  When run against the file, the parser applies grammar rules to discard invalid entries, and creates a file containing only valid, disambiguated entries.
 
-The autoglosser takes 2-3 minutes to import, gloss and output a 5,000-word text.  The grammar file  currently contains about 150 rules for Spanish, about 180 for Welsh, and around 200 for English.  Autoglosser accuracy is more than 95\% in all three languages. [Detailed figures to be included.]
+This file is then read into the database, and the glosses (in the form of a lexeme+POS-tag string) are extracted and stored in the words table against each word of the original transcription.  At this point, the words table looks like Figure \ref{words_db}, where the words in an utterance meaning ``\textit{And if some lorry goes in there, for example, to leave off furniture or whatever.}'' have all been glossed appropriately.
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.5]{words_table.png}
+\caption{A glossed utterance from the words table for the file \textit{sastre1} in the Miami corpus (Spanish-English)}
+\label{words_db}
+\end{figure}
+
+Finally, the utterances are written out again, along with the concatenated glosses (following the Leipzig schema \cite{leipzig2008} so far as possible), to create a final text with an interlinear gloss, similar to Figure \ref{chat_file1}.
+
+The autoglosser produces glossed text at a rate of 900-1100 words per minute (depending on whether the original transcription file already contains a manual gloss layer).  The transcription of a half-hour conversation can therefore be glossed in around 6 minutes.\footnote{The entire Siarad corpus of around 40 hours duration (456,000 words) was glossed in 8h27m.} 
+
+The grammar file currently contains about 150 rules for Spanish, about 180 for Welsh, and around 200 for English.  Autoglosser accuracy is more than 95\% in all three languages. [Detailed figures to be included.]
 
 \section{Dictionary structure}
 \label{sec:dictionary}
@@ -124,7 +166,7 @@ Multilingual discourse is far more common than has been assumed in classical lin
 
 The autoglosser knows which dictionary to look up because each word is annotated by the transcriber with the language it comes from.  All that needs doing is to reflect this in the lookup output.  In the following example, the phrase \textbf{mewn motor newydd internacional} (\textit{in a new international car}) oscillates between Welsh and Spanish, and this is reflected in the addition of the tags \textbf{[cy]} and \textbf{[es]} to the readings:
 
-\begin{figure}[h]
+\begin{figure}[!htbp]
 \vspace{-10pt}
 \begin{alltt}
 \normalfont
@@ -161,7 +203,7 @@ For English, on the other hand, the surface form gives us few clues about the pa
 
 The result is that the the vast majority of rules for English are \textbf{substitute}s, converting one set of tags into another.  For example, the surface word \textbf{miniature} can be either an adjective or a singular noun, so it is tagged \textit{as} in the dictionary.  Rules such as the following then handle its correct tagging based on context:\\
 \indent\textbf{substitute (as) (adj) ([en] as) (1 ([en] n) or ([en] pron));}\\
-This says that ann English \textit{as} tag should be converted to an \textit{adjective} tag when the word is followed by a noun or pronoun (e.g. \textbf{a miniature rabbit}, \textbf{miniature ones}).
+This says that an English \textit{as} tag should be converted to an \textit{adjective} tag when the word is followed by a noun or pronoun (e.g. \textbf{a miniature rabbit}, \textbf{miniature ones}).
 
 [We continue with further examples and discussion.]
 
@@ -182,7 +224,7 @@ Although the current configuration of rules is working well, we hope to explore 
 The support of the Arts and Humanities Research Council (AHRC), the Economic and Social Research Council (ESRC), the Higher Education Funding Council for Wales and the Welsh Assembly Government is gratefully acknowledged. The work presented in this paper was part of the programme of the ESRC Centre for Research on Bilingualism in Theory and Practice at Bangor University.
 
 
-\bibliographystyle{acl}
 \bibliography{autoglosser}
+\bibliographystyle{acl}
 
 \end{document}

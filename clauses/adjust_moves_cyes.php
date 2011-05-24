@@ -7,7 +7,7 @@ kevindonnelly.org.uk
 This file is part of the Bangor Autoglosser.
 
 This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License or the GNU
+it under the terms of the GNU General Public License and the GNU
 Affero General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option)
 any later version.
@@ -74,7 +74,7 @@ while ($row0=pg_fetch_object($result0))
 			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
 		}
 				
-		// Prepositions before infinitives
+		// Prepositions before infinitives in Welsh
 		if (preg_match("/^(yng?|wedi|am|heb|newydd)$/", $s1) && preg_match("/INFIN/", $a0))
 		{
 			$sqlm="update ".$filename."_sampleclauses set clause='c' where utterance_id=$utt and location=$loc[1]";
@@ -86,7 +86,7 @@ while ($row0=pg_fetch_object($result0))
 			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
 		}
 		
-		// Prepositions i and o before infinitives
+		// Prepositions i and o before infinitives in Welsh
 		if (preg_match("/^(i|o)$/", $s1) && preg_match("/PREP/", $a1) && preg_match("/INFIN/", $a0))
 		{
 			$sqlm="update ".$filename."_sampleclauses set clause='c' where utterance_id=$utt and location=$loc[1]";
@@ -98,7 +98,7 @@ while ($row0=pg_fetch_object($result0))
 			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
 		}
 		
-		// Link words before verbs
+		// Link words before verbs in Welsh
 		if (preg_match("/^(na|ac?|pan|be|so|os|lle|sut|just|ond|neu|pwy)$/", $s1) && preg_match("/\.V\./", $a0))
 		{
 			$sqlm="update ".$filename."_sampleclauses set clause='c' where utterance_id=$utt and location=$loc[1]";
@@ -110,7 +110,7 @@ while ($row0=pg_fetch_object($result0))
 			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
 		}
 		
-		// Pronominal infinitives
+		// Pronominal infinitives in Welsh
 		if (preg_match("/ADJ\.POSS/", $a1) && preg_match("/INFIN/", $a0))
 		{
 			$sqlm="update ".$filename."_sampleclauses set clause='c' where utterance_id=$utt and location=$loc[1]";

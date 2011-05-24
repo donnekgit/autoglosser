@@ -1,0 +1,93 @@
+update all_siarad set goldvarb='('||dv||aoa_min||aoa_maj||parental||educ_lg||identity||soc_net
+
+
+
+
+
+
+
+
+
+5319 records
+
+q - 714 13.4%
+h - 38 0.7%
+x - 471 8.9%
+
+soc_net - average of contact1-5
+a	0	67
+b	1	1475
+c	1.4	115
+d	1.6	658
+e	1.8	155
+f	2	158
+g	2.2	488
+h	2.3	39
+i	2.4	139
+j	2.6	185
+k	2.8	256
+l	3	117
+m	3.4	35
+n	3.5	42
+o	3.6	124
+p	4	81
+
+primary/secondary language
+0	blank or unknown
+1	Welsh
+2	Welsh-English
+3	English
+4, 5	other
+
+educ_lg
+a	Welsh/Welsh	1	1641
+b	Welsh/English	1.5	539
+c	Welsh-English/Welsh-English	2	1187 
+d	Welsh-English/English	2.5	283
+e	English/English	3	407
+f	other	4	77
+
+mother/father language
+0	blank or unknown
+1	Welsh
+2	Welsh-English
+3	English
+4	other
+
+parental
+a	Welsh/unknown	0.5	33
+b	Welsh/Welsh	1	2766
+c	Welsh/English	1.5	94
+d	Welsh-English/Welsh-English	2	598
+e	Welsh-English/English	2.5	150
+f	English/English	3	416
+g	other	4	77
+
+dependent variable (verb, linguality)
+a	ww
+b	wb
+c	eb
+d	ee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

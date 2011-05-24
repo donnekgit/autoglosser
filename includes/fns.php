@@ -39,7 +39,7 @@ $gram_file="en_es";
 
 function query($sql)
 // simplify the query writing
-// use this as: $result=query("select * from table")
+// use this as: $result=query("select * from table");
 {
     global $db_handle;
     return pg_query($db_handle,$sql);
@@ -74,6 +74,9 @@ function get_filename()
 
 function drop_existing_table($table)
 // Drop the specified table so that it can be recreated.
+// or: SELECT * FROM pg_tables WHERE tablename = 'mytable' AND schemaname = 'myschema';
+// use true instead of * if preferred
+// and clause does not work in PPA
 {
 	global $db_handle;
 	$sql_exists="select count(*) as count from pg_class where relname = '".$table."'";
@@ -88,6 +91,26 @@ function drop_existing_table($table)
 	else
 	{
 		//echo "There is no table ".$newchafile;
+		//exit;
+	}
+}
+
+function add_column_if_not_exist($table, $column)
+// Add a column to the specified table if the table does not already contain that column.
+{
+	global $db_handle;
+	$sql_exists="select count(*) as count from information_schema.columns where table_name='$table' and column_name='$column'";
+	$result_exists=pg_query($db_handle, $sql_exists);
+	$row_exists=pg_fetch_object($result_exists);
+	if ($row_exists->count < 1)
+	{
+		//echo "There is no column $column - adding one";
+		$sql_addcol="alter table $table add column $column character varying(20);";
+		$result_addcol=pg_query($db_handle, $sql_addcol);
+	}
+	else
+	{
+		//echo "Column $column already exists";
 		//exit;
 	}
 }
