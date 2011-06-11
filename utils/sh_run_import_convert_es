@@ -24,10 +24,10 @@
 #*/ 
 
 # This script runs import_and_convert on all the files specified in the FILES line
-FILES=inputs/siarad/alpha/*.cha
+FILES=inputs/miami/alpha/*.cha
 for f in $FILES
 do
 	echo "Processing $f ..."
 	# take action on each file
-	php import_and_convert_cy.php $f
+	php import_and_convert_es.php $f
 done

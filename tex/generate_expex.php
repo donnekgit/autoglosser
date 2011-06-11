@@ -62,7 +62,7 @@ while ($row_s=pg_fetch_object($result_s))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
-		if ($row_w->langid=="cym" and $precode =="")
+		if ($row_w->langid=="spa" and $precode =="")  // set the default language here
 		{
 			$row_w->surface=$row_w->surface;
 		}
@@ -107,6 +107,9 @@ while ($row_s=pg_fetch_object($result_s))
 
 		$row_w->gls=tex_auto($row_w->gls);
 		$gls.=$row_w->gls." ";
+		
+		$row_w->mor=tex_mor($row_w->mor);
+		$mor.=$row_w->mor." ";
 	}
 
 	$begingl="\ex\n\begingl[lingstyle=gergl]\n";
@@ -121,22 +124,22 @@ while ($row_s=pg_fetch_object($result_s))
 	// The following sections can be selectively uncommented to allow alignment of the autogloss, the manual gloss, or the MOR gloss.  Note that only one of the three can be chosen for display - this is a shortcoming of the current ExPex package, which only allows display of one gloss line in running text mode.
 
 
-	$wauto="\glb \%aut ".$precode." ".$auto." //\n";
+	$wauto="\glb \%aut ".$precode." ".$auto." //\n";  // Autogloss tier.
 	echo $wauto."\n";
 	fwrite($fp, $wauto);
 
 /*
-	$wgls="\glb \%gls ".$precode." ".$gls." //\n";
+	$wgls="\glb \%gls ".$precode." ".$gls." //\n";  // Human gloss tier.
 	echo $wgls."\n";
 	fwrite($fp, $wgls);
-
+*/
 /*
-	$wmor="\glb \%mor ".$precode." ".$mor." //\n";
+	$wmor="\glb \%mor ".$precode." ".$mor." //\n";  // MOR/POST tier.
 	echo $wmor."\n";
 	fwrite($fp, $wmor);
 */
 
-	$weng="\glft ".tex_surface($row_s->eng)." //\n";
+	$weng="\glft ".tex_surface($row_s->eng)." //\n";  // English tier.
 	echo $weng."\n";
 	fwrite($fp, $weng);
 

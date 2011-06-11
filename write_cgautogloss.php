@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file writes out the $words table in CLAN .cha format - note that you have to add headers and footer manually at the minute.
+// This file writes out the $words table in CLAN .cha format.
 
 if (empty($filename))
 {
@@ -95,6 +95,8 @@ while ($row_s=pg_fetch_object($result_s))
 
     unset($speech, $gls, $eng, $mor, $comment, $auto);
 }
+
+fwrite($fp, "@End\n");
 
 fclose($fp);
 

@@ -23,26 +23,22 @@
 #*********************************************************************
 #*/ 
 
-# This script converts the CLAN line-ends to spaces - it will ensure that  each utterance is on one line without breaks
-# It also fixes some broken characters, and converts two-letter tags to three-letter tags (number tags can use the import_and_convert script)
-#  Run as: sed_joinlines /path/to/file.cha
+# This script converts two-letter tags (es, en) to three-letter tags (spa, eng).  Number tags can use the import_and_convert script instead.
+#  Run as: sed_convert_es /path/to/file.cha
 chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
 #echo $chafile
 filename=$(basename $chafile)  # the filename from the path - file.cha
 #echo $filename
 path=$(dirname $chafile)  # the path to the file - path/to
 #echo $path
-fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file - file.txt
+fixedfile=${filename}.txt  # set up an output file
 #echo $fixedfile
-fromdos $chafile  # get rid of the \r if the file has come from a Microsoft Windows machine; fromdos is in the tofrodos package
-sed -e 'N;s/\n\t/ /;P;D;'  < $chafile | \
-sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e 'N;s/\n\t/ /;P;D;' | \
-sed -e "s/’/'/g" | \
-sed -e "s/’/'/g" | \
-sed -e "s/´/'/g" | \
-sed -e 's/–/-/g' | \
-sed -e 's/‑/-/g' > $path/$fixedfile  # output to the path + new filename
+sed -e 's/@s:en\&es+en\([ >]\)/@s:eng\&spa+eng\1/g' < $chafile | \
+sed -e 's/@s:en\&es\([ >]\)/@s:eng\&spa\1/g' | \
+sed -e 's/@s:en+es\([ >]\)/@s:eng+spa\1/g' | \
+sed -e 's/@s:es+en\([ >]\)/@s:spa+eng\1/g' | \
+sed -e 's/@s:en\([ >]\)/@s:eng\1/g' | \
+sed -e 's/@s:es\([ >]\)/@s:spa\1/g' > $path/$fixedfile  # output to the path + new filename
 mv $path/$fixedfile $path/$filename  # replace the original file with the fixed file, giving a fixed .cha file
+
+# Also need to handle where @s is used without any language marker

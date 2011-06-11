@@ -102,7 +102,7 @@ while ($row=pg_fetch_object($result))
 			}
 			elseif ($precode=="")
 			{
-				$langid="cym";
+				$langid="spa";  // Adjust this to give the default language.
 			}
 		} 
 
@@ -120,7 +120,7 @@ while ($row=pg_fetch_object($result))
         //$tiers=array_diff($tiers, array(gra));
         foreach ($tiers as $tier)
         {
-            if ($tier=='gls')  // No point in importing %eng, since the slots will not align
+            if ($tier=='gls' or $tier=='mor')  // No point in importing %eng, since the slots will not align
             {
                 $tier=trim($tier);
                 $lineclean_tier="lineclean_".$tier;

@@ -30,9 +30,9 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "spa&eng", "eng&spa", "cym&eng", "cym&spa");
-$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
+$cylg=array("1", "cy", "cy+en", "cy+es", "cym");
 $enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
-$eslg=array("3", "es", "es+en", "es+cy", "spa");
+$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -195,8 +195,8 @@ function lineclean_surface($text)
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
 
 	// Uncomment for Miami - follows the MOR convention
-    //$text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
-    //$text=preg_replace("/<.[^>]+>/u", "", $text); // Remove backtracking words in angle brackets.
+    $text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
+    $text=preg_replace("/<.[^>]+>/u", "", $text); // Remove backtracking words in angle brackets.
 
     $text=preg_replace("/\[.[^\]]*\]/u", "", $text); // Remove anything in square brackets.
 	// Remember to add your language tags here:
@@ -204,8 +204,8 @@ function lineclean_surface($text)
     $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
 
 	// Uncomment for Miami - follows the MOR convention
-    //$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
-	//$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+    $text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
 
     $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: %]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  % added to cover language tags like spa%%cym (< spa+cym).
@@ -432,10 +432,11 @@ function segment_engforin($text)
 // Segment the clitic pronouns from the verbform.
 // Remember to transfer any changes here to segment_eng too ...
 {	
-	$text=preg_replace("/_i?o/", "#wv", $text);  // Segment _io/_o endings in Siarad transcriptions, and mark as Welsh verb.
+	//$text=preg_replace("/_i?o/", "#wv", $text);  // Segment _io/_o endings in Siarad transcriptions, and mark as Welsh verb.
+	// Better kept in zero_lookup.php
 
 	$text=preg_replace("/(ee)s$/u", "$1#pl", $text); // employee
-	$text=preg_replace("/(sse)s$/u", "$1#pl", $text); // basses
+	$text=preg_replace("/(ss)es$/u", "$1#pl", $text); // basses
 	$text=preg_replace("/(ie)s$/u", "$1#pl", $text); // movie
 	$text=preg_replace("/(de)s$/u", "$1#pl", $text); // episode
 	$text=preg_replace("/(one)s$/u", "$1#pl", $text); // one
@@ -505,7 +506,7 @@ function de_soft($text)
     $text=preg_replace("/^r([^h])/", "gr", $text);
     $text=preg_replace("/^R([^h])/", "Gr", $text);
     $text=preg_replace("/^([aeoiuwyïŵŷ])/", "g$1", $text);
-    $text=preg_replace("/^([AEOIUWYÏŴŶ])/", "G$1", $text);
+    $text=preg_replace("/^([AEOIUWYÏŴŶ])/e", "G.strtolower('$1')", $text);  // we need to lowercase the now non-initial
     $text=preg_replace("/^f/", "[mb]", $text);
     $text=preg_replace("/^F/", "[MB]", $text);
     $text=preg_replace("/^b/", "p", $text);
@@ -570,8 +571,8 @@ function tex_auto($text)
 	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string - should no longer be required; now in write_cgfinished
 	$text=preg_replace("/_/", "\_", $text);  // LaTeX no like
 	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
-	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);
-	$text=preg_replace("/(I)(\..*$)/", "$1{\scriptsize $2}", $text);
+	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);  // Minimise anything after the first dot (ie make the POS-tags following the lexeme smaller).
+	$text=preg_replace("/(I)(\..*$)/", "$1{\scriptsize $2}", $text);  
     return $text;
 }
 
@@ -660,7 +661,7 @@ function get_linguality($array)
 {
 	$ling=array_count_values($array);
 	// If there is at least one cym&eng or eng word, the clause is bilingual
-	//if (!$ling[cym_eng] and !$ling[eng]) // note we need to use _ isntead of &, since it has been switched in the preceding code
+	//if (!$ling[cym_eng] and !$ling[eng]) // note we need to use _ instead of &, since it has been switched in the preceding code
 	// Redone to ignore cym&eng
 	if ($ling[cym] and !$ling[eng])
 	{
@@ -695,6 +696,17 @@ function get_linguality_enes($array)
 	}
 	return $mb;
 }
+
+function array_shift2(&$array)
+// This is a non-destructive version of array_shift, ie it does not reindex the numerical keys.
+// Thanks to the anonymous poster at http://php.net/manual/en/function.array-shift.php
+{
+	reset($array);
+	$key=key($array);
+	$removed=$array[$key];
+	unset($array[$key]);
+	return $removed;
+ }
 
 ?>
 

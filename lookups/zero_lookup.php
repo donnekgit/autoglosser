@@ -32,7 +32,7 @@ $surface="drombones";
 echo $surface."\n";
 */
 
-//$surface=preg_replace("/_i?o/", "", $surface);  // Remove _io/_o endings from Siarad transcriptions.
+$surface=preg_replace("/_i?o/", "", $surface);  // Remove _io/_o endings from Siarad transcriptions.
 
 $desoftsurface=de_soft($surface);
 //echo $desoftsurface."\n";

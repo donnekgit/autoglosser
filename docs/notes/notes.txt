@@ -1,3 +1,12 @@
+Switching between languages
+===================
+
+fns.php, lines 28-9 - language codes
+fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> 
+rewrite_utterances.php, line 105 - set default language
+tex/generate_expex.php, lines 65ff - set default language
+
+
 List words that do not have gloss entries:
 ========================
 select welsh, count(welsh) from stammers4_cgwords where gloss is null group by welsh order by count desc
@@ -106,9 +115,6 @@ Get all unknowns
 select langid, surface, count(surface) from patagonia6_cgwords where auto='unk' group by langid, surface order by langid, surface
 
 
-
-
-
 Unknown words in Siarad
 ================
 
@@ -116,6 +122,10 @@ select surface, count(*), auto, gls, langid from stammers4_cgwords group by surf
 select langid, surface, count(surface) from stammers4_cgwords where auto='unk' group by langid, surface order by langid, surface
 
 
+[or] words
+======
+
+select surface, count(surface) from stammers9_cgwords where auto ~'\\\[or\\\]' group by surface order by surface
 
 
 Timing of import/autogloss - words
@@ -318,6 +328,9 @@ Many of the above removed again under the new system of on-the-fly segmenting
 
 
 
+Some strange garbage in this list:
+fam, gaster, 
+
 
 
 Google lookup
@@ -335,7 +348,7 @@ herring2 (spanish) - gt will handle perhaps 75% of unknowns
 select distinct * from enlist where surface in (select lookup from gt) order by surface
 could be used to fill out many of the pos fields from the english dictionary
 
-
+But under the new TOU, can't use Google Translate for free software ....
 
 
 
@@ -606,7 +619,20 @@ freak_o, whine_io: split at _[i]o and look up the first bit
 
 
 
+Clause sampling
+==========
 
+The following 4 speakers are omitted from the sample (why is not entirely clear)
+CLR		robert7
+HUW		robert7
+LNW		fusser12
+TWM		robert7
+
+
+Produce 6 slides to a page
+=================
+
+pdfnup --no-landscape --nup "2x3" --offset ".25cm .25cm" --delta ".25cm .5cm" --frame true --scale 0.9 isb8pres.pdf
 
 
 

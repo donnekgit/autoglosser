@@ -1,0 +1,96 @@
+Put files by category into subdir in alpha
+
+@023 (import_and_convert_es)
+====================
+takes alpha file, fixes it and puts converted file in beta
+herring1
+herring2
+herring7
+herring12
+zeledon8
+
+@enes (sed_joinlines)
+==============
+converts alpha file in situ
+herring11
+sastre3
+sastre4
+sastre5
+sastre8
+sastre9
+sastre10
+sastre11
+sastre12
+zeledon6
+
+english
+=====
+sastre6 (mixed coding!)
+sastre13
+zeledon11
+zeledon9
+
+fixed (beta)
+=======
+zeledon5
+zeledon14
+sastre1 (edit header)
+
+
+Put file in data/miami/alpha
+php prepare_file.php inputs/miami/alpha/herring11.cha - straighten lines and save header (perhaps header should be saved on import each time)
+DONE for herring11, zeledon5, sastre5
+
+@enes files:
+copy into inputs/miami/beta
+utils/sed_convert_es inputs/miami/beta/herring11.cha - convert from enes to engspa
+php do_everything.php inputs/miami/beta/herring11.cha - full import
+php utils/convert_es_to_precode.php herring11 - puts converted file into clan/chats/herring11_m.cha (change this for non-MOR files)
+php do_mor.php herring11 - runs MOR/POST and produces herring11_m
+php do_everything.php clan/chats/sastre5.mor.pst.mor.pst.cex
+php write_compare_glosses.php herring11_m
+F&R +" with nothing, and save - the lineclean_mor() function needs to discard this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

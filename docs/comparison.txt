@@ -1,0 +1,56 @@
+Different dictionary entries
+=================
+
+compañera - partner/companion
+bien - good/well
+preparar - prime/prepare
+vaso - glass/vase
+claro - of_course/obvious
+color - colour/hue
+guardar - save/guard
+rompar - smash/break
+tiempo - time/season
+
+
+BA handles switches better than MOR
+========================
+
+es soda bread esto también
+but hay muchos concerns
+dónde está el sample?
+
+
+Codes
+====
+
+a - BA right, MOR wrong
+z - BA wrong, MOR right
+q - both BA and MOR wrong
+b - POS wrong in BA
+p - POS wrong in MOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

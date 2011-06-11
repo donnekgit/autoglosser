@@ -23,7 +23,7 @@
 #*********************************************************************
 #*/ 
 
-# This script collects the sample clauses from the files specified in the FILES line and combines them into one file in the collected folder
+# This script collects the sample clauses from the files specified in the FILES line and appends them into one file in the collected folder
 # Create the empty file first.
 FILES=inputs/siarad/beta/*.cha
 for f in $FILES

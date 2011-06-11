@@ -1,0 +1,104 @@
+Building CLAN
+========
+
+Download the most recent unix-clan package from http://childes.psy.cmu.edu/clan
+Edit src/makefile to uncomment the ubuntu lines.
+Edit src/common.h to change:
+#define DEPDIR  "../lib/"
+to
+#define DEPDIR  "/home/kevin/downloads/siarad/unix-clan/lib/"
+or whatever your download dir is.
+You may have to fiddle about a bit, or email chibolts@googlegroups.com with problems.  For instance, in one download, src/insert.cpp had the name capitalised, so the make stopped.
+Once built, go to the bin dir, and run:
+./freq ../../lib/samples/sample.cha
+which should give output from the sample file there.
+
+
+MOR and POST
+=========
+
+Download the MOR grammar from http://childes.psy.cmu.edu/morgrams
+Unzip it and move the dir (eng, spa, whatever) into lib.
+Put a test .cha file in a new dir: unix-clan/chats
+Go to the bin dir and run:
+./mor -l../../lib/eng ../../chats/sastre3.cha
+Note that the DEPDIR command used in the compile doesn't help in specifying the location of the MOR grammar - that has to be given separately using the -l (small L) switch.  Also note that the format does not fully comply with Unix command line convention - there should be no space between the -l switch and the directory path.
+The above command will produce a new file with a %mor tier - sastre.3.mor.cex.
+If you run:
+./mor -l../../lib/eng ../../chats/sastre3.cha +1
+it seems to overwrite the original .cha file with the MOR'd one, though there is nothing on that in the documentation.
+Using 
+./mor +xi -l../../lib/eng
+will put you into an interactive mode with the prompt:
+mor (:h help)>
+Here, you can enter individual words or phrases to be analysed. 
+Exit interactive mode by typing :q (see also p160 of the CLAN manual).
+
+To run the POST disambiguator on the MOR output:
+./post -l../../lib/eng ../../chats/sastre3.mor.cex
+NOTE: This doesn't work unless you give the full path to the post.db:
+./post -l../../lib/eng +d../../lib/eng/post.db ../../chats/sastre3.mor.cex
+The output is in sastre3.mor.pst.cex.
+
+
+MOR utilities
+========
+
+To get a list of words not in the MOR grammar:
+./mor +xl -l../../lib/eng ../../chats/sastre3.cha
+The output is in sastre3.ulx.cex.  This gives words not in that grammar, but it includes words in the secondary language, and words whose language is undetermined, as well as unknown words in the default (grammar) language.  It doesn't give only unique words (ie it lists every repetition of a word), and the results are not in alphabetical order.  However, the manual says duplicates are removed automatically - perhaps this is something to do with the fact that I'm getting the message:
+Done with file <sastre3.ulx.cex>
+Creating unique list of lexicon entries.
+Can't open file sastre3.ulx.cex.
+ie maybe it needs to open the file to delete duplicates, and can't.
+
+
+MOR on bilingual texts
+==============
+
+To run MOR/POST on bilingual texts:
+convert to default marking first
+./mor -s"[- eng]" -l../../lib/spa ../../chats/sastre1_converted.cha 
+./post -l../../lib/spa +d../../lib/spa/post.db ../../chats/sastre1_converted.mor.cex
+./mor +s"[- eng]" -l../../lib/eng ../../chats/sastre1_converted.mor.pst.cex 
+./post -l../../lib/eng +d../../lib/eng/post.db ../../chats/sastre1_converted.mor.pst.mor.cex
+End file: sastre1_converted.mor.pst.mor.pst.cex
+
+Copy the grammars into clan/unix/bin, and running from a higher dir then works (can now automate more easily).
+clan/unix/bin/mor -s"[- eng]" -lclan/unix/bin/spa clan/chats/zeledon5_m.cha
+clan/unix/bin/post -lclan/unix/bin/spa +dclan/unix/bin/spa/post.db clan/chats/zeledon5_m.mor.cex 
+clan/unix/bin/mor +s"[- eng]" -lclan/unix/bin/eng clan/chats/zeledon5_m.mor.pst.cex
+clan/unix/bin/post -lclan/unix/bin/eng +dclan/unix/bin/eng/post.db clan/chats/zeledon5_m.mor.pst.mor.cex 
+utils/sed_joinlines clan/chats/zeledon5_m.mor.pst.mor.pst.cex
+php do_everything.php clan/chats/zeledon5_m.mor.pst.mor.pst.cex
+
+
+
+
+
+
+
+
+
+
+
+Run CLAN  via a web interface
+===================
+
+To run unix-clan via a web interface:
+You need to add the flag -DCLAN_SRV - check whether this would be OK as the normal compile mode - ie would it work via the commandline?
+But you also need to add switches to some of the commands, eg +0, and you need to escape double quotes in any selection.  Ones that work to date are:
+freq +t*CHI
+freq +0
+combo +0 +t*MOT +s\"kitty^kitty\" - but with weird characters in the output
+kwal +0 +sbunny -w2 +w2
+gem +0 +t\"*MOT\"
+Compile unix-clan in your web dir, and then make a wrappers dir to hold scripts such as the minimal wrapper below:
+=====
+<?php
+exec("../unix-clan/unix/bin/combo +0 +t*MOT +s\"kitty^kitty\" ../unix-clan/lib/samples/0042.cha", $clan_output);
+foreach ($clan_output as $clan_line)
+{ echo htmlspecialchars($clan_line)."<br/>"; }
+?>
+=====
+

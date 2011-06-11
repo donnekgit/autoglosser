@@ -23,8 +23,6 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file writes out the $words table in a csv file that can then be opened in a spreadsheet with the gloss and autogloss in parallel cells.  This may make it easier to check for glossing accuracy.
-
 if (empty($filename))
 {
     include("includes/fns.php");
@@ -32,26 +30,16 @@ if (empty($filename))
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("outputs/".$filename."/".$filename."_compare_glosses.csv", "w") or die("Can't create the file");
+$morfile=$filename."_m";
 
-$sql_s="select * from $utterances order by utterance_id";
-$result_s=pg_query($db_handle,$sql_s) or die("Can't get the items");
-while ($row_s=pg_fetch_object($result_s))
-{
-	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
-    $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
-    while ($row_w=pg_fetch_object($result_w))
-    {
-		$entry="\"".$row_s->utterance_id."\",\"".$row_w->location."\",\"'".$row_w->langid."\",\"'".$row_w->surface."\",\"".$row_w->auto."\",\"'".$row_w->mor."\"\n";  
-		// Use a single quote in columns you want formatted as text (here, langid and surface)
-		fwrite($fp, $entry);
-    }
 
-    fwrite($fp, "\n");
+exec("clan/unix/bin/mor -s\"[- eng]\" -lclan/unix/bin/spa clan/chats/".$morfile.".cha");
+exec("clan/unix/bin/post -lclan/unix/bin/spa +dclan/unix/bin/spa/post.db clan/chats/".$morfile.".mor.cex ");
+exec("clan/unix/bin/mor +s\"[- eng]\" -lclan/unix/bin/eng clan/chats/".$morfile.".mor.pst.cex");
+exec("clan/unix/bin/post -lclan/unix/bin/eng +dclan/unix/bin/eng/post.db clan/chats/".$morfile.".mor.pst.mor.cex");
 
-    //unset($surface, $auto, $mor, $wsurface, $wauto, $wmor);
-}
+exec("utils/sed_joinlines clan/chats/".$morfile.".mor.pst.mor.pst.cex");
 
-fclose($fp);
+//exec("php do_everything.php clan/chats/".$morfile.".mor.pst.mor.pst.cex");  // This works, but gives no feedback.
 
 ?>

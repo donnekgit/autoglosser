@@ -1,23 +1,27 @@
-update all_siarad set goldvarb='('||dv||aoa_min||aoa_maj||parental||educ_lg||identity||soc_net
+update <my_table> set goldvarb='('||dv||aoa_min||aoa_maj||parental||educ_lg||identity||soc_net
+
+select goldvarb from k2_siarad_clean order by goldvarb
 
 
+5319 records --> 4134
 
-
-
-
-
-
-
-5319 records
-
-q - 714 13.4%
+q - 714 13.4% - deleted
+x - 471 8.9% - deleted
 h - 38 0.7%
-x - 471 8.9%
+
+additional ones done by KD
+2185 --> 1559
+q - 335 15.3% - deleted
+x - 291 13.3% - deleted
+h - 16 1.0%
+
+
 
 soc_net - average of contact1-5
 a	0	67
 b	1	1475
 c	1.4	115
+q	1.5
 d	1.6	658
 e	1.8	155
 f	2	158
@@ -40,6 +44,7 @@ primary/secondary language
 4, 5	other
 
 educ_lg
+g	Welsh/unknown	0.5
 a	Welsh/Welsh	1	1641
 b	Welsh/English	1.5	539
 c	Welsh-English/Welsh-English	2	1187 
@@ -69,8 +74,9 @@ b	wb
 c	eb
 d	ee
 
-
-
+aoa_maj also has 5 (like aoa_min)
+educ_lg also has g (0.5)
+soc_net also has q (1.5)
 
 
 
