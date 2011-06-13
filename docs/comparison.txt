@@ -10,6 +10,8 @@ color - colour/hue
 guardar - save/guard
 rompar - smash/break
 tiempo - time/season
+vez - time/turn
+costumbre - habit/custom
 
 
 BA handles switches better than MOR
@@ -18,18 +20,109 @@ BA handles switches better than MOR
 es soda bread esto también
 but hay muchos concerns
 dónde está el sample?
+herring11, 46: él empezó a trabajar en los primeros años towards the end
 
 
 Codes
 ====
 
-a - BA right, MOR wrong
-z - BA wrong, MOR right
+a - MOR wrong
+z - BA wrong
 q - both BA and MOR wrong
 b - POS wrong in BA
 p - POS wrong in MOR
 
+problems due to typos not counted
+unknown words (unk for BA, ? and L2 for MOR) does not include names
+omissions of lexeme not counted - dictionary issue, eg herring11, 105-4, 159-6
 
+
+Good example
+=========
+
+sastre5, 922 (Spanish), 927 (English)
+
+
+Notes
+====
+
+MOR
+-------
+With clitic pronouns, the verb lexeme is dropped.
+Sentence-initial y gets glossed as ya.
+
+
+
+create table oslo_spanish as select * from sastre5_m_cgwords
+insert into oslo_spanish select * from herring11_m_cgwords
+
+
+Queries for Spanish
+============
+
+words (tokens): 
+select count(*) from oslo_spanish where langid!='999'
+
+language proportions: 
+select langid, count(*) from oslo_spanish where langid!='999' group by langid 
+
+types: 
+select surface, count(surface), langid from oslo_spanish where langid!='999' group by langid, surface order by langid, surface
+
+a: MOR wrong: 
+select * from oslo_spanish where comp='a' order by langid, surface 
+
+z: BA wrong: 
+select * from oslo_spanish where comp='z' order by langid, surface 
+
+q: both wrong: 
+select * from oslo_spanish where comp='q' order bylangid,  surface 
+
+p: MOR has the wrong POS: 
+select * from oslo_spanish where comp='p' order by langid, surface 
+
+b: BA has the wrong POS: 
+select * from oslo_spanish where comp='b' order by langid, surface 
+
+unknown in BA: 
+select * from oslo_spanish where auto='unk' order by langid, surface
+
+unknown (?|) in MOR: 
+select * from oslo_spanish where mor~'^\\\?\\\|'  order by langid, surface
+
+L2 in MOR: 
+select * from oslo_spanish where mor~'^L2' and auto !='name' order by langid, surface
+
+undisambiguated in BA: 
+select * from oslo_spanish where auto~'\\\[or\\\]' order by langid, surface
+
+undisambiguated in MOR: 
+select * from oslo_spanish where mor~'\\\^' order by langid, surface
+
+
+Queries for Welsh
+===========
+
+words (tokens):
+select count(*) from stammers9_cgwords where langid!='999'
+
+language proportions: 
+select langid, count(*) from stammers9_cgwords where langid!='999' group by langid 
+
+types:
+select surface, count(surface), langid from stammers9_cgwords where langid!='999' group by langid, surface order by langid, surface
+
+z: BA wrong: 
+select * from stammers9_cgwords where comp='z' order by surface
+
+b: BA has the wrong POS: 
+select * from stammers9_cgwords where comp='b' order by langid, surface 
+
+unknown in BA:
+select * from stammers9_cgwords where auto='unk' order by langid, surface
+
+undisambiguated in BA:
+select * from stammers9_cgwords where auto~'\\\[or\\\]' order by langid, surface
 
 
 

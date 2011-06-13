@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script converts residual [or] entries in the _cgfinished table to a final entry.
+// This script converts residual [or] entries in the _cgwords table to a final entry.
 
 if (empty($filename))
 {

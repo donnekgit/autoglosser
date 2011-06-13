@@ -76,6 +76,7 @@ SECTION
 
 # 1- homonym selection - has the effect of "deleting" non-selected items from the dictionary
 select ("archwilio" [cy] :inspect:);
+select ("awyren" [cy] :aeroplane:);
 select ("aros" [cy]  :wait:);
 select ("bach" [cy] :smaller:);
 select ("be" [cy] :what:);
@@ -84,15 +85,18 @@ select ("coll" [cy] :missing:);
 select ("cwmpas" [cy] :round:);
 select ("cychwyn" [cy] :start:);
 select ("cyfeiriad" [cy] :direction:);
+select ("cyfuno" [cy] :combine:);
 select ("cymaint" [cy]  :so much:);
 select ("cynt" [cy] adj);
 select ("cyrraedd" [cy] :arrive:);
 select ("darn" [cy] :pieces:);
+select ("diddymu" [cy] :abolish:);
 select ("draw" :yonder:);
 select ("dweud" [cy] :say:);
 select ("dychryn" [cy] :frighten:);
 select ("eto" [cy] adv);
 select ("fel" [cy] :like:);
+select ("ffug" [cy] :false:);
 select ("gofyn" [cy] :ask:);
 select ("golwg" [cy]  :view:);
 select ("gwaith" [cy] :times:);
@@ -140,6 +144,8 @@ remove ("gwelwi" [cy] :dim:);
 remove ("hogi" [cy] :whet:);
 remove ("huno" [cy] :sleep:); 
 remove ("meddu" v 3s imperf);
+remove ("naddu" v :carve:);
+remove ("nosi" v :become_night_:);
 remove ("pallu" v :refuse:);
 remove ("tebygol" a sm :probable:);
 remove ("tasu" [cy] :stack:); 
@@ -603,6 +609,7 @@ substitute (v infin :hold:) (adv :still:) ("dal" [cy] v infin) if (1 ("wedi" pre
 # Residual selection
 # Make a default choice; this is intended to get rid of most [or]s
 # Note that these rules don't like you using the :meaning: in the definition.
+# Should these not be ANDs?
 
 select ([cy] v infin) if (0C ([cy] v infin) or ([cy] v 3s imper));  # cerdded - C enforces the two conditions; without this, only the former bites, and the rule will apply when you have (eg) (v 2s pres) as the second condition.
 select ([cy] v infin) if (0C ([cy] v infin) or ([cy] v 2s imper));  # siarad
@@ -616,7 +623,7 @@ select ([cy] v imper) if (0C ([cy] v 2p imper) or ([cy] v 2p pres));  # esgusodw
 select ([cy] prt :neg:) if (0C ([cy] "na" prt) or ([cy] "na" pron.rel.neg) or ([cy] "na" conj) or ([cy[ "na" conj));
 
 select ([cy] adj.poss :his:) if (0C ([cy] adj.poss :his:) or ([cy] adj.poss :her:));  # collapse ei-m and ei-f to ei-m
-substitute (:his:) (:3s:) ([cy] adj.poss :his:);  # adjust lexeme to be non-gender specific
+substitute (:his:) (:3S:) ([cy] adj.poss :his:);  # adjust lexeme to be non-gender specific
 
 
 
@@ -899,6 +906,7 @@ remove ("clean" [en] adj :clean: asv);  # clean-ing
 #select (v 3s pres);
 remove (subj.pres);
 remove ("unir" [es] v 1s pres);  # que hagamos uno
+remove ("vengar" [es]  v 1s pres);  # gets mixed up with vengo<venir
 
 # 2 - remove annoying words - needs to be looked at again!
 remove ("vestir"); # pero viste las cositas
