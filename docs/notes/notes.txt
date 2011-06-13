@@ -628,6 +628,8 @@ HUW		robert7
 LNW		fusser12
 TWM		robert7
 
+select count(*) from (select speaker, count(clause) from all_siarad_clean group by speaker order by count) as foo where count>19 and count<30
+
 
 Produce 6 slides to a page
 =================
