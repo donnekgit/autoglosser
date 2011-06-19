@@ -43,7 +43,8 @@ CREATE TABLE $profiletable (
     utterance_id serial NOT NULL,
     surface text,
     cleaned text,
-    lgprofile character varying(200)
+    lgprofile character varying(200),
+    collapse character varying(200)
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);
@@ -58,8 +59,8 @@ $result3=pg_query($db_handle,$sql3) or die("Can't get the items");
 while ($row3=pg_fetch_object($result3))
 {
 	echo $row3->utterance_id.": ".$row3->surface."\n";
-	
 	$row3->surface=pg_escape_string($row3->surface);
+	
 	$sqlutt="insert into $profiletable(utterance_id, surface) values($row3->utterance_id, '$row3->surface')";
 	$resultutt=pg_query($db_handle,$sqlutt) or die("Can't get the items");
 
@@ -73,18 +74,30 @@ while ($row3=pg_fetch_object($result3))
 		{
 			$slot='';
 		}
-		else
+		elseif ($row2->langid=='cym')
 		{
-			$slot=$row2->langid;
+			$slot="1";
 		}
+		elseif ($row2->langid=='eng')
+		{
+			$slot="2";
+		}
+		elseif ($row2->langid=='cym&eng')
+		{
+			$slot="0";
+		}		
 		$slotstring.=$slot;
 	}
 		
 	echo $row3->utterance_id.": ".$text."\n";
 	echo $row3->utterance_id.": ".$slotstring."\n";
 	
+	$collapsed=collapse_me($slotstring);
+	echo $row3->utterance_id.": ".$collapsed."\n";
+
+	
 	$text=pg_escape_string($text);
-	$sqlslot="update $profiletable set cleaned='$text', lgprofile='$slotstring' where utterance_id=$row3->utterance_id";
+	$sqlslot="update $profiletable set cleaned='$text', lgprofile='$slotstring', collapse='$collapsed' where utterance_id=$row3->utterance_id";
 	$resultslot=pg_query($db_handle,$sqlslot) or die("Can't get the items");
 	
 	unset($text, $slotstring);

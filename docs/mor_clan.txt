@@ -1,15 +1,18 @@
 Building CLAN
 ========
 
+Ensure build-essential is installed.
 Download the most recent unix-clan package from http://childes.psy.cmu.edu/clan
-Edit src/makefile to uncomment the ubuntu lines.
+Edit src/makefile to uncomment the ubuntu lines:
+	CC = g++
+	CFLAGS = -DUNX -Wno-deprecated -Wno-deprecated-declarations
 Edit src/common.h to change:
-#define DEPDIR  "../lib/"
+	#define DEPDIR  "../lib/"
 to
-#define DEPDIR  "/home/kevin/downloads/siarad/unix-clan/lib/"
+	#define DEPDIR  "/home/kevin/downloads/siarad/unix-clan/lib/"
 or whatever your download dir is.
-You may have to fiddle about a bit, or email chibolts@googlegroups.com with problems.  For instance, in one download, src/insert.cpp had the name capitalised, so the make stopped.
-Once built, go to the bin dir, and run:
+Run make.  You will get a lot of warnings, but the compiled app should work OK.  You may have to fiddle about a bit, or email chibolts@googlegroups.com with problems.  For instance, in one download, src/insert.cpp had the name capitalised, so the make stopped.
+Once built, go to the unix-clan/unix/bin dir, and run:
 ./freq ../../lib/samples/sample.cha
 which should give output from the sample file there.
 
@@ -101,4 +104,8 @@ foreach ($clan_output as $clan_line)
 { echo htmlspecialchars($clan_line)."<br/>"; }
 ?>
 =====
+
+
+
+
 

@@ -104,25 +104,25 @@ Queries for Welsh
 ===========
 
 words (tokens):
-select count(*) from stammers9_cgwords where langid!='999'
+select count(*) from oslo_welsh where langid!='999'
 
 language proportions: 
-select langid, count(*) from stammers9_cgwords where langid!='999' group by langid 
+select langid, count(*) from oslo_welsh where langid!='999' group by langid 
 
 types:
-select surface, count(surface), langid from stammers9_cgwords where langid!='999' group by langid, surface order by langid, surface
+select surface, count(surface), langid from oslo_welsh where langid!='999' group by langid, surface order by langid, surface
 
 z: BA wrong: 
-select * from stammers9_cgwords where comp='z' order by surface
+select * from oslo_welsh where comp='z' order by surface
 
 b: BA has the wrong POS: 
-select * from stammers9_cgwords where comp='b' order by langid, surface 
+select * from oslo_welsh where comp='b' order by langid, surface 
 
 unknown in BA:
-select * from stammers9_cgwords where auto='unk' order by langid, surface
+select * from oslo_welsh where auto='unk' order by langid, surface
 
 undisambiguated in BA:
-select * from stammers9_cgwords where auto~'\\\[or\\\]' order by langid, surface
+select * from oslo_welsh where auto~'\\\[or\\\]' order by langid, surface
 
 
 

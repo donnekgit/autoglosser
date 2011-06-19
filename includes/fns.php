@@ -708,6 +708,15 @@ function array_shift2(&$array)
 	return $removed;
  }
 
+function collapse_me($text)
+// This collapses the lgprofile fields to 1 digit for each group of words of the same language.
+{
+	$text=preg_replace("/0+/", "0", $text);
+	$text=preg_replace("/1+/", "1", $text);
+	$text=preg_replace("/2+/", "2", $text);
+	return $text;
+}
+
 ?>
 
 <?php
