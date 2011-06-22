@@ -147,7 +147,7 @@ A similar set of entries from the Spanish dictionary is in Table \ref{spanish_di
 \label{spanish_dict}
 \end{table}
 
-Both Spanish and Welsh are inflected languages, where the surface forms give clues about the word's part-of-speech (POS).  English, however, is an analytic language where the POS of the many homophonous words is defined by their role in the sentence.  The format for the English dictionary, some entries for which are in Table \ref{english_dict}, reflects this by having the POS reflect all of these possibilities, with the correct POS being selected during disambiguation.  For example, \textbf{walk} can be a noun (\textit{a short walk}), an imperative verb (\textit{walk the line!}), an infinitive verb (\textit{to walk a mile}) and a present tense verb (\textit{they walk everywhere}).  Thus \textbf{walk} has the POS \textbf{sv}, meaning that it can be either a singular noun or a verb. The main benefit of this approach is that it minimises the number of entries which the dictionary has to include (in this case, one entry instead of four), and therefore makes maintenance of the dictionary easier.
+Both Spanish and Welsh are inflected languages, where the surface forms give clues about the word's POS.  English, however, is an analytic language where the POS of the many homophonous words is defined by their role in the sentence.  The format for the English dictionary, some entries for which are in Table \ref{english_dict}, reflects this by having the POS reflect all of these possibilities, with the correct POS being selected during disambiguation.  For example, \textbf{walk} can be a noun (\textit{a short walk}), an imperative verb (\textit{walk the line!}), an infinitive verb (\textit{to walk a mile}) and a present tense verb (\textit{they walk everywhere}).  Thus \textbf{walk} has the POS \textbf{sv}, meaning that it can be either a singular noun or a verb. The main benefit of this approach is that it minimises the number of entries which the dictionary has to include (in this case, one entry instead of four), and therefore makes maintenance of the dictionary easier.
 
 \begin{table}[!hbtp]
 \centering
@@ -206,13 +206,77 @@ Each entry in the words table is looked up against the dictionary table for the 
 
 The lookup includes some basic segmentation of the word.  This helps to minimise the number of dictionary entries and make maintenance of the dictionary easier.
 
-For Welsh, the lookup detects and adds tags for mutation.\footnote{Mutation -- morphophonemic alteration of initial consonants, which also marks syntactic relations at the clause level -- is an important characteristic of the Celtic languages. A Welsh example is: \textbf{mae o'n marw} (\textit{he is dying}), but \textbf{mae o'n farw} (\textit{he is dead}), where the change \textbf{m$\rightarrow$f} signifies that the mutated word is an adjective and not a verb. These mutations have to be removed in order to get to the underlying lexeme.}
+For Welsh, the lookup detects mutation\footnote{Mutation -- morphophonemic alteration of initial consonants, which also marks syntactic relations at the clause level -- is an important characteristic of the Celtic languages. A Welsh example is: \textbf{mae o'n marw} (\textit{he is dying}), but \textbf{mae o'n farw} (\textit{he is dead}), where the change \textbf{m$\rightarrow$f} signifies that the mutated word is an adjective and not a verb. These mutations have to be removed in order to get to the underlying lexeme.} and adds corresponding tags:
+\textbf{thad} \textrightarrow tad (\textit{father}) + am (aspirate mutation) \\
+\textbf{gael} \textrightarrow cael (\textit{get}) + sm (soft mutation)
 
-For Spanish, tags are added when clitic pronouns attached to verbforms are detected.\footnote{For example, \textbf{arreglarlos} $\leftarrow$\textbf{arreglar+los} (\textit{to fix + them})}  
+For Spanish, tags are added when clitic pronouns attached to verbforms are detected:\textbf{ponerle} \textrightarrow \textbf{poner+le} (\textit{leave})+ le[pron.mf.3s]) \\
+\textbf{déjanos} \textrightarrow \textbf{dejar+nos} (\textit{leave})+ nos[pron.mf.1p])
 
-For English, tags are added to mark the occurrence of genitives plurals and adverbs and simple verb formations.\footnote{For instance, \textbf{son's$\leftarrow$son+'s}, \textbf{houses$\leftarrow$house+s}, \textbf{quickly$\leftarrow$quick+ly}, \textbf{walks$\leftarrow$walk+s}, \textbf{walking$\leftarrow$walk+ing}.}
+For English, tags are added to mark the occurrence of elisions, genitives, plurals, adverbs and simple verb formations:
+\item gonna \textrightarrow go \# to.prep
+\item we're \textrightarrow we \# be.v.pres
+\item Plurals or verbs (3p sg pres) are tagged
+\item breaks \textrightarrow break \# pv
+\item Adjectives or verbs (past or pastpart) are tagged
+\item constructed \textrightarrow construct \# av
+\item Adjectives, singular nouns or verbs (prespart) are tagged
+\item thinking \textrightarrow think \# asv
+\textbf{son's $\leftarrow$ son+'s}
+\textbf{houses $\leftarrow$ house+s}
+\textbf{quickly $\leftarrow$ quick+ly}
+\textbf{walks $\leftarrow$ walk+s}
+\textbf{walking $\leftarrow$ walk+ing}
 
-All matching entries in the dictionary are then written out to a file in the format required by the contraint grammar parser.\footnote{http://visl.sdu.dk/cg3.html}  When run against the file, the parser applies grammar rules to discard invalid entries, and creates a file containing only valid, disambiguated entries.
+All matching entries in the dictionary are then written out to a file in the format required by the contraint grammar parser.\footnote{http://visl.sdu.dk/cg3.html}  Figures \ref{welsh_before} and \ref{english_before} show the output after lookup of a monolingual phrase in Welsh and English respectively.
+
+\begin{figure}[!hbtp]
+\centering
+\begin{footnotesize}
+\begin{BVerbatim}
+"<ddim>"
+    "dim"  {96,1} [cy] n m sg :nothing: [208789] + sm
+    "dim"  {96,1} [cy] adv :not: [204176] + sm
+"<yn>"
+    "yn"  {96,2} [cy] stat :stative: [200654]
+    "yn"  {96,2} [cy] prep :in: [204430]
+    "gan"  {96,2} [cy] prep :with: [196964] + sm
+"<gynnar>"
+    "cynnar"  {96,3} [cy] adj :early: [209212] + sm
+"<iawn>"
+    "iawn"  {96,4} [cy] adv :OK: [207540]
+    "iawn"  {96,4} [cy] adv :very: [203775]
+\end{BVerbatim}
+\end{footnotesize}
+\\ ``\textit{not very early}''
+\caption{A phrase from the file \textit{patagonia1} in the Patagonia corpus (Welsh-Spanish)}
+\label{welsh_before}
+\end{figure}
+
+\begin{figure}[!hbtp]
+\centering
+\begin{footnotesize}
+\begin{BVerbatim}
+"<it's>"
+    "it"  {545,1} [en] pron.sub 3s :it: [130342] # gb
+"<coming>"
+    "come"  {545,2} [en] sv infin :come: [82193] # asv
+"<out>"
+    "out"  {545,3} [en] adv :out: [157287]
+"<on>"
+    "on"  {545,4} [en] prep :on: [156077]
+"<D_V_D>"
+    "D_V_D"  {545,5} [en] name
+"<then>"
+    "then"  {545,6} [en] adv :then: [208154]
+\end{BVerbatim}
+\end{footnotesize}
+\\ ``\textit{not very early}''
+\caption{A phrase from the file \textit{herring7} in the Miami corpus (Spanish-English)}
+\label{english_before}
+\end{figure}
+
+The constraint grammar parser applies grammar rules to discard invalid entries, and creates another file containing only valid, disambiguated entries.
 
 This file is then read into the database, and the glosses (in the form of a lexeme+POS-tag string) are extracted and stored in the words table against each word of the original transcription.  At this point, the words table looks like Figure \ref{words_db}, where the words in an utterance meaning ``\textit{And if some lorry goes in there, for example, to leave off furniture or whatever.}'' have all been glossed appropriately.
 
@@ -227,7 +291,7 @@ Finally, the utterances are written out again, along with the concatenated gloss
 
 The autoglosser produces glossed text at a rate of 900-1100 words per minute (depending on whether the original transcription file already contains a manual gloss layer).  The transcription of a half-hour conversation can therefore be glossed in around 6 minutes.\footnote{The entire Siarad corpus of around 40 hours duration (456,000 words) was glossed in 8h27m.} 
 
-The grammar file currently contains about 150 rules for Spanish, about 180 for Welsh, and around 200 for English.  Autoglosser accuracy is 97-99\%, depending on language. [Detailed figures to be included.]
+The grammar file currently contains about 500 rules for Welsh, about 200 for English, and around 200 for English.  Autoglosser accuracy is 97-99\%, depending on language. [Detailed figures to be included.]
 
 
 \section{Applying constraint grammar}
