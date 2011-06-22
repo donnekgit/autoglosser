@@ -561,7 +561,10 @@ function tex_surface($text)
 	$text=preg_replace("/_/", "\_", $text);
 	$text=preg_replace("/%/", "\%", $text);
 	$text=preg_replace("/\&/", "\&", $text);
+	$text=preg_replace("/#/", "\#", $text);
 	$text=preg_replace("/</", "$<$", $text);
+	$text=preg_replace("/>/", "$>$", $text);
+	$text=preg_replace("/\.\.\./", " \dots ", $text);
 	return $text;
 }
 
@@ -572,7 +575,7 @@ function tex_auto($text)
 	$text=preg_replace("/_/", "\_", $text);  // LaTeX no like
 	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
 	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);  // Minimise anything after the first dot (ie make the POS-tags following the lexeme smaller).
-	$text=preg_replace("/(I)(\..*$)/", "$1{\scriptsize $2}", $text);  
+	$text=preg_replace("/(I)(\..*$)/", "$1{\scriptsize $2}", $text);  // Handle "I" (1s)
     return $text;
 }
 
@@ -708,12 +711,13 @@ function array_shift2(&$array)
 	return $removed;
  }
 
-function collapse_me($text)
-// This collapses the lgprofile fields to 1 digit for each group of words of the same language.
+function lg_superscript($text)
 {
-	$text=preg_replace("/0+/", "0", $text);
-	$text=preg_replace("/1+/", "1", $text);
-	$text=preg_replace("/2+/", "2", $text);
+	$text=preg_replace("/@s:cym\\\\&eng/","$^{C}_{E}$", $text);
+	$text=preg_replace("/@s:eng\\\\&spa/","$^{S}_{E}$", $text);
+	$text=preg_replace("/@s:cym\\\\&spa/","$^{C}_{S}$", $text);
+	$text=preg_replace("/@s:spa+cym/","$^{S+}_{C}$", $text);
+	$text=preg_replace("/@s:eng+cym/","$^{E+}_{C}$", $text);
 	return $text;
 }
 

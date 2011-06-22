@@ -80,19 +80,99 @@ for DET for IM Helen and Susanna and
 \label{chat_file1}
 \end{figure*}
 
-The corpora are valuable in examining how language is actually used: for instance, the differences between spoken language and formal written language, sociolinguistic variation (what forms of language are used where and by whom), the balance between languages in bilingual usage, and how one language handles lexical items from the other (for instance, using the Siarad corpus \cite{stammers2010} has shown that Welsh loan-verbs such as \textit{textio} (to text) behave more like ordinary Welsh verbs the more frequent they are).
+The corpora are valuable in examining how language is actually used: for instance, the differences between spoken language and formal written language, sociolinguistic variation (what forms of language are used where and by whom), the balance between languages in bilingual usage, and how one language handles lexical items from the other.\footnote{For instance,  \cite{stammers2010} has used the Siarad corpus to show that Welsh loan-verbs such as \textit{textio} (to text) behave more like ordinary Welsh verbs the more frequent they are.}
 
 Manual glossing of the Siarad (Welsh-English) proved to be tedious and time-consuming, so in order to save valuable specialist time it was decided to explore automating the glossing of the Miami (Spanish-English) and Patagonia (Welsh-Spanish) corpora.
 
-Although the CLAN project provides a tagging system (MOR),\footnote{http://childes.psy.cmu.edu/morgrams} this only caters for 11 languages, each with more than 5m speakers.  Vocabulary is distributed over a number of files, and MOR requires a separate pass over the file to tag each language.  Post-tagging disambiguation (using the POST program) is only available for 4 languages.  Software such as Toolbox\footnote{http://www.sil.org/computing/toolbox} offers interlinear glossing capability, but is aimed more at linguistic field researchers, and is less applicable to fully-described languages; moreover, it does not seem to be scriptable, which was essential in order to deal with the volume of data in the corpora. 
+Although the CLAN project provides a tagging system (MOR),\footnote{http://childes.psy.cmu.edu/morgrams} this only caters for 11 languages, each with more than 5m speakers.  Vocabulary is distributed over a number of files, and MOR requires a separate pass over the file to tag each language.  Post-tagging disambiguation (using the POST program) is only available for 4 languages.  Software such as Toolbox\footnote{http://www.sil.org/computing/toolbox} offers interlinear glossing capability, but is aimed more at linguistic field researchers, and is less applicable to fully-described languages; moreover, it does not seem to be scriptable, which was essential in order to deal with the volume of data in the corpora.
 
-With no existing software meeting the purpose, a two-week test project in April 2010 looked at the viability of simply writing out entries from Spanish and Welsh dictionaries for each word in the transcription.  The Spanish dictionary was based on the one used in Apertium,\footnote{http://apertium.org} a free (GPL) platform for developing rule-based machine translation systems, and the Welsh dictionary was based on Eurfa,\footnote{http://eurfa.org.uk} developed by the first author a few years ago, and still the largest free (GPL) dictionary for Welsh.  The results of the tests were encouraging, and the only remaining issue was how to dismbiguate between the returned entries.  For this we turned to constraint grammar, and the rest of this paper reports on how this is used in the software we have developed over the last year (the Bangor Autoglosser).
+There appears to be no tagger available at all for Welsh, reflecting the dearth of linguistic tools available to many minority languages.
+
+With no existing software meeting the purpose, a two-week test project in April 2010 looked at the viability of simply writing out entries from Spanish and Welsh dictionaries (see Section \ref{sec:dictionaries} below) for each word in the transcription.  The results of the tests were encouraging, and the only remaining issue was how to dismbiguate between the returned entries.  For this we turned to constraint grammar, and the remainder of this paper reports on how this is used in the autoglossing software developed over the past year.
 
 
-\section{Overview of the process}
+\section{The dictionaries}
+\label{sec:dictionaries}
+
+A key element of any tagging or glossing system is the use of a dictionary to allow lookup of the word in the chosen language.
+  
+The Spanish dictionary used in the Autoglosser is based on the one used in Apertium,\footnote{http://apertium.org} a free (GPL) platform for developing rule-based machine translation systems.  The Welsh dictionary is based on Eurfa,\footnote{http://eurfa.org.uk} developed by the first author a few years ago, and still the largest free (GPL) dictionary for Welsh.  The English dictionary is based on Kevin Atkinson's Moby list.\footnote{http://wordlist.sourceforge.net}
+
+The use of material with a free or public domain license allows existing lexical resources to be easily adapted and extended for the Autoglosser without having to worry about licensing terms.  This is an especially important consideration for minority languages like Welsh,\cite{streiter2006} where resources may be limited.
+
+Each dictionary takes the form of one PostgreSQL database table, storing full words (not morphemes).  All of the original dictionaries have undergone some refactoring to simplify and standardise their layout, and to correct errors and omissions.\footnote{The English dictionary is particularly prone to include non-existent ``words'' such as \textit{fam}, \textit{fath}, \textit{gaster}, etc, and further cleaning is still required.}
+
+The dictionary table can be easily edited in place, or it can be exported to a CSV file, making it accessible via a spreadsheet for those who are unfamiliar with databases.  The dictionary is therefore easy to update, since the format is a familiar glossary-style list of words.  This makes expanding or editing the dictionary more accessible for people without extensive computer skills, which is again important for minority languages -- no esoteric rules on word-division apply, nor are the contents distributed over several files.
+
+In theory at least, this should simplify the addition of further languages in the future.  If a simple wordlist is available, it is possible to plug it into the autoglosser, and get some useful non-disambiguated output immediately; this output can then be progressively refined by the addition of CG rules,\footnote{Constraint grammar has been described as ``the only grammar-based parser framework'' (\url{http://giellatekno.uit.no/cg/11/index.html}), and it is indeed very easy for linguists to work with.} and refactoring of the dictionary lookup to allow a reduction in the size of the dictionaries. 
+
+Some entries from the Welsh dictionary are in Table \ref{welsh_dict}.  The enlemma column gives the English lexeme for the word, and the pos column gives the part-of-speech (POS).
+
+\begin{table}[!hbtp]
+\centering
+\begin{scriptsize}
+\begin{tabular}{ccccccc}
+\textit{surface} & \textit{lemma} & \textit{enlemma} & \textit{pos} & \textit{gender} & \textit{number} & \textit{tense} \\
+\textbf{bara} & bara & bread & n & m & sg & \\
+\textbf{cathod} & cath & cat & n & f & pl & \\
+\textbf{mynd} & mynd & go & v & & & infin \\
+\textbf{aeth} & mynd & go & v & & 3s & past \\
+\textbf{hapus} & hapus & happy & adj & &  & \\
+\textbf{rhywsut} & rhywsut & somehow & adv & & & \\
+\textbf{heb} & heb & without & prep & & & \\
+\end{tabular}
+\end{scriptsize}
+\caption{Entries from the Welsh dictionary}
+\label{welsh_dict}
+\end{table}
+
+A similar set of entries from the Spanish dictionary is in Table \ref{spanish_dict} -- it can be seen that the same columns are used in both dictionaries.
+
+\begin{table}[!hbtp]
+\centering
+\begin{scriptsize}
+\begin{tabular}{ccccccc}
+\textit{surface} & \textit{lemma} & \textit{enlemma} & \textit{pos} & \textit{gender} & \textit{number} & \textit{tense} \\
+\textbf{perro} & perro & dog & n & m & sg & \\
+\textbf{canciones} & canción & song & n & f & pl & \\
+\textbf{empezar} & empezar & start & v & & & infin \\
+\textbf{empieza} & empezar & start & v & & 23s & pres \\
+\textbf{empieza} & empezar & start & v & & 2s & imper \\
+\textbf{rojo} & rojo & red & adj & m & sg & \\
+\textbf{rojas} & rojo & red & adj & f & pl & \\
+\textbf{por} & por & for & prep & & & \\
+\end{tabular}
+\end{scriptsize}
+\caption{Entries from the Spanish dictionary}
+\label{spanish_dict}
+\end{table}
+
+Both Spanish and Welsh are inflected languages, where the surface forms give clues about the word's part-of-speech (POS).  English, however, is an analytic language where the POS of the many homophonous words is defined by their role in the sentence.  The format for the English dictionary, some entries for which are in Table \ref{english_dict}, reflects this by having the POS reflect all of these possibilities, with the correct POS being selected during disambiguation.  For example, \textbf{walk} can be a noun (\textit{a short walk}), an imperative verb (\textit{walk the line!}), an infinitive verb (\textit{to walk a mile}) and a present tense verb (\textit{they walk everywhere}).  Thus \textbf{walk} has the POS \textbf{sv}, meaning that it can be either a singular noun or a verb. The main benefit of this approach is that it minimises the number of entries which the dictionary has to include (in this case, one entry instead of four), and therefore makes maintenance of the dictionary easier.
+
+\begin{table}[!hbtp]
+\centering
+\begin{scriptsize}
+\begin{tabular}{ccccccc}
+\textit{surface} & \textit{lemma} & \textit{pos} & \textit{number} & \textit{tense} \\
+\textbf{walk} & walk & sv & & infin \\
+\textbf{break} & break & sv & & infin \\
+\textbf{broke} & break & av & & past \\
+\textbf{broken} & break & av & & pastpart \\
+\textbf{car} & car & n & sg & \\
+\textbf{quick} & adj & & & \\
+\textbf{by} & by & prep & & \\
+\textbf{which} & which & rel & & \\
+\end{tabular}
+\end{scriptsize}
+\caption{Entries from the English dictionary}
+\label{english_dict}
+\end{table}
+
+
+\section{The autoglossing process}
 \label{sec:autoglosser}
 
-Each utterance (that is, each line that is preceded by a speaker ID) in the transcribed conversation file is read into a PostgreSQL database table containing the following fields:
+Each line of the transcribed conversation file is read into an utterances table containing the following fields:
 \begin{itemize}
 \setlength{\itemsep}{-2mm}
 \item utterance\_id
@@ -105,10 +185,10 @@ Each utterance (that is, each line that is preceded by a speaker ID) in the tran
 \item manual gloss (if present)
 \item English translation (if present)
 \item comments (if present)
-\item precode (if present -- marks entire utterances in the least-frequent language)
+\item precode\footnote{This marks entire utterances in the least-frequent language of the conversation.} (if present)
 \end{itemize}
 
-Each utterance in this table is cleaned (non-lexical markers are discarded), and then split into words, which are stored in another table with the following fields:
+Any non-lexical markers in the utterance are discarded, and it is then split into words, which are stored in a words table with the following fields:
 \begin{itemize}
 \setlength{\itemsep}{-2mm}
 \item word\_id
@@ -122,16 +202,24 @@ Each utterance in this table is cleaned (non-lexical markers are discarded), and
 \item filename
 \end{itemize}
 
-Each word in this table is looked up against a dictionary table for the appropriate language, using the language id assigned to the word by the transcriber.\footnote{In the absence of this, it would in principle be possible to use a brute-force lookup on each dictionary in turn.}  
+Each entry in the words table is looked up against the dictionary table for the appropriate language, using the language assigned to the word by the transcriber.\footnote{In the absence of this, it would in principle be possible to use a brute-force lookup on each dictionary in turn.}
+
+The lookup includes some basic segmentation of the word.  This helps to minimise the number of dictionary entries and make maintenance of the dictionary easier.
+
+For Welsh, the lookup detects and adds tags for mutation.\footnote{Mutation -- morphophonemic alteration of initial consonants, which also marks syntactic relations at the clause level -- is an important characteristic of the Celtic languages. A Welsh example is: \textbf{mae o'n marw} (\textit{he is dying}), but \textbf{mae o'n farw} (\textit{he is dead}), where the change \textbf{m$\rightarrow$f} signifies that the mutated word is an adjective and not a verb. These mutations have to be removed in order to get to the underlying lexeme.}
+
+For Spanish, tags are added when clitic pronouns attached to verbforms are detected.\footnote{For example, \textbf{arreglarlos} $\leftarrow$\textbf{arreglar+los} (\textit{to fix + them})}  
+
+For English, tags are added to mark the occurrence of genitives plurals and adverbs and simple verb formations.\footnote{For instance, \textbf{son's$\leftarrow$son+'s}, \textbf{houses$\leftarrow$house+s}, \textbf{quickly$\leftarrow$quick+ly}, \textbf{walks$\leftarrow$walk+s}, \textbf{walking$\leftarrow$walk+ing}.}
 
 All matching entries in the dictionary are then written out to a file in the format required by the contraint grammar parser.\footnote{http://visl.sdu.dk/cg3.html}  When run against the file, the parser applies grammar rules to discard invalid entries, and creates a file containing only valid, disambiguated entries.
 
 This file is then read into the database, and the glosses (in the form of a lexeme+POS-tag string) are extracted and stored in the words table against each word of the original transcription.  At this point, the words table looks like Figure \ref{words_db}, where the words in an utterance meaning ``\textit{And if some lorry goes in there, for example, to leave off furniture or whatever.}'' have all been glossed appropriately.
 
-\begin{figure}
+\begin{figure}[!hbtp]
 \centering
 \includegraphics[scale=0.5]{words_table.png}
-\caption{A glossed utterance from the words table for the file \textit{sastre1} in the Miami corpus (Spanish-English)}
+\caption{An utterance from the words table for the file \textit{sastre1} in the Miami corpus (Spanish-English)}
 \label{words_db}
 \end{figure}
 
@@ -141,14 +229,6 @@ The autoglosser produces glossed text at a rate of 900-1100 words per minute (de
 
 The grammar file currently contains about 150 rules for Spanish, about 180 for Welsh, and around 200 for English.  Autoglosser accuracy is 97-99\%, depending on language. [Detailed figures to be included.]
 
-\section{Dictionary structure}
-\label{sec:dictionary}
-
-The dictionaries used are all derived from free resources,\footnote{http://eurfa.org.uk, http://apertium.org, http://wordlist.sourceforge.net} though heavily adapted.  We aim, so far as possible, to maintain the dictionaries through a simple spreadsheet, in order to allow easy update of the current language support, and also to simplify the addition of further languages in the future.  For instance, if a simple wordlist is available, it is possible to plug it into the autoglosser, and get some useful non-disambiguated output immediately; this output can then be progressively refined by the addition of CG rules,\footnote{Constraint grammar has been described as ``the only grammar-based parser framework'' (\url{http://giellatekno.uit.no/cg/11/index.html}), and it is indeed very easy for linguists to work with.} and refactoring of the dictionary lookup to allow a reduction in the size of the dictionaries. 
-
-This process has been applied to all three languages to differing degrees, and it could be taken further.  For Welsh, the lookup now detects and adds tags for mutation,\footnote{Mutation -- morphophonemic alteration of initial consonants, which also marks syntactic relations at the clause level -- is an important characteristic of the Celtic languages. A Welsh example is: \textbf{mae o'n marw} (\textit{he is dying}), but \textbf{mae o'n farw} (\textit{he is dead}), where the change \textbf{m$\rightarrow$f} signifies that the mutated word is an adjective and not a verb. These mutations have to be removed in order to get to the underlying lexeme.} while for Spanish, tags are added when clitic pronouns attached to verbforms are detected.\footnote{For example, \textbf{arreglarlos} $\leftarrow$ \textbf{arreglar+los} (\textit{to fix + them})}  For English, tags are added to mark the occurrence of genitives, plurals and adverbs.
-
-[We go on to give some examples of these, since they are relevant to the discussion of the CG rules in the main section below.]
 
 \section{Applying constraint grammar}
 \label{sec:constraint}
@@ -162,7 +242,7 @@ We discuss here two issues:
 \subsection{Language-specific rules}
 \label{sec:langspec}
 
-Multilingual discourse is far more common than has been assumed in classical linguistics, and it is only over the last 20 years that this important area has been given proper attention.  The CLAN transcription system was originally devised to study the development of language in children, but it has been adapted by researchers at the ESRC Centre to capture bilingual spoken interactions.  Likewise, although constraint grammar has to date mainly been applied to monolingual texts, we have adapted it to handle multilingual text.  That this was so easy is a testament to the versatility and power of the VISL-CG3 parser.
+Multilingual discourse is far more common than has been assumed in classical linguistics, and it is only over the last 20 years that this important area has been given proper attention.  The Autoglosser is the first attempt to apply constraint grammar to multilingual text.  That this was so easy is a testament to the versatility and power of the VISL-CG3 parser.
 
 The autoglosser knows which dictionary to look up because each word is annotated by the transcriber with the language it comes from.  All that needs doing is to reflect this in the lookup output.  In the following example, the phrase \textbf{mewn motor newydd internacional} (\textit{in a new international car}) oscillates between Welsh and Spanish, and this is reflected in the addition of the tags \textbf{[cy]} and \textbf{[es]} to the readings:
 
