@@ -1,0 +1,6 @@
+Changelog
+
+25/6/2011
+File prep now fixes typos where no space precedes the period.
+Initial angle bracket no longer eats pre-backtrack words when importing in MOR mode.
+

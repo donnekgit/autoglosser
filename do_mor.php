@@ -40,6 +40,6 @@ exec("clan/unix/bin/post -lclan/unix/bin/eng +dclan/unix/bin/eng/post.db clan/ch
 
 exec("utils/sed_joinlines clan/chats/".$morfile.".mor.pst.mor.pst.cex");
 
-//exec("php do_everything.php clan/chats/".$morfile.".mor.pst.mor.pst.cex");  // This works, but gives no feedback.
+//exec("php do_everything.php clan/chats/".$morfile.".mor.pst.mor.pst.cex");  // This works, but gives no feedback, so for small numbers of files it's better to do it manually.
 
 ?>

@@ -194,18 +194,19 @@ function lineclean_surface($text)
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
 
-	// Uncomment for Miami - follows the MOR convention
-    $text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
-    $text=preg_replace("/<.[^>]+>/u", "", $text); // Remove backtracking words in angle brackets.
+	// Uncomment for Miami - follows the MOR convention (note that this is not the freq convention - it counts all words, including those in backtracks)
+    //$text=preg_replace("/\+</u", " ", $text);  // Get rid of +<
+    //$text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
+    //$text=preg_replace("/<.[^( |>)]+>/u", "", $text); // Remove backtracking words in angle brackets.  The space in ( |>) is to handle +< - this gets taken as the opening angle bracket otherwise, so that "+< yo tengo una amiguita que es dueña <de un> [//] de un dealer@s:eng ." gets truncated to "de un dealer@s:eng ."
 
     $text=preg_replace("/\[.[^\]]*\]/u", "", $text); // Remove anything in square brackets.
 	// Remember to add your language tags here:
-    $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself, or before a language tag
+    $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself (the ones before a language tag have been moved out of the way by the line at the top)
     $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
 
-	// Uncomment for Miami - follows the MOR convention
-    $text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
-	$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	// Uncomment for Miami - follows the MOR convention (note that this is not the freq convention - it counts all words, including those in backtracks)
+    //$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
+	//$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
 
     $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: %]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  % added to cover language tags like spa%%cym (< spa+cym).
@@ -711,8 +712,18 @@ function array_shift2(&$array)
 	return $removed;
  }
 
+function collapse_me($text)
+// This collapses the lgprofile fields to 1 digit for each group of words of the same language.
+{
+	$text=preg_replace("/0+/", "0", $text);
+	$text=preg_replace("/1+/", "1", $text);
+	$text=preg_replace("/2+/", "2", $text);
+	return $text;
+}
+
 function lg_superscript($text)
 {
+	$text=preg_replace("/@s:eng(?!&)/","$^{E}$", $text);
 	$text=preg_replace("/@s:cym\\\\&eng/","$^{C}_{E}$", $text);
 	$text=preg_replace("/@s:eng\\\\&spa/","$^{S}_{E}$", $text);
 	$text=preg_replace("/@s:cym\\\\&spa/","$^{C}_{S}$", $text);

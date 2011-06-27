@@ -24,8 +24,8 @@
 #*/ 
 
 # This script converts the CLAN line-ends to spaces - it will ensure that  each utterance is on one line without breaks
-# It also fixes some broken characters, and converts two-letter tags to three-letter tags (number tags can use the import_and_convert script)
-#  Run as: sed_joinlines /path/to/file.cha
+# It also fixes some broken characters, and fixes errors like having no space between the last character of an untterance and the period.
+# Run as: sed_joinlines /path/to/file.cha
 chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
 #echo $chafile
 filename=$(basename $chafile)  # the filename from the path - file.cha
@@ -40,9 +40,14 @@ sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
+sed -e '/\*[A-Z]*:/s/\(\w\)\./\1 ./g' | \
 sed -e "s/’/'/g" | \
 sed -e "s/’/'/g" | \
 sed -e "s/´/'/g" | \
 sed -e 's/–/-/g' | \
 sed -e 's/‑/-/g' > $path/$fixedfile  # output to the path + new filename
 mv $path/$fixedfile $path/$filename  # replace the original file with the fixed file, giving a fixed .cha file
+
+# 38: Straighten the lines by deleting line-ends - 5 runs should be enough to catch them all.
+# 43: On surface lines, add a space before a period that immediately follows an alpha or digit.
+

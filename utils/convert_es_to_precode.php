@@ -32,6 +32,12 @@ The output file will need the headers added manually, and the languages need to 
 @Languages:	spa, eng
 */
 
+/*
+TODO
+Ensure that the language entries in the header file are changed: @Languages, @ID, and @Comment:Language markers.
+Adjust the regx to cover instances where @s:en/es is directly followed by a period (ie, a typo, it should be "@s:en .")
+*/
+
 if (empty($filename))
 {
 	include("includes/fns.php");
@@ -39,14 +45,16 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("clan/chats/".$filename."_m.cha", "w") or die("Can't create the file");  // Edited to make running sh_run_import_convert easier - no need to shift the beta files afterwards
+//$fp = fopen("clan/chats/".$filename."_m.cha", "w") or die("Can't create the file");  // For glossing with MOR.
 
-//$fname=preg_replace("/_m$/", "", $filename);
+$fp = fopen("outputs/".$filename."/".$filename."_m.cha", "w") or die("Can't create the file"); 
+
 // Write out the file header.
 $lines=file("outputs/".$filename."/".$filename.".header", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 foreach ($lines as $line)
 {
 	fwrite($fp, $line."\n");
+	// Need to replace the language tags in the header here.
 }
 
 $sql3=query("select * from $utterances order by utterance_id");
@@ -58,29 +66,56 @@ while ($row3=pg_fetch_object($sql3))
 	while ($row4=pg_fetch_object($sql4))
 	{
 		$this_lang[$row4->location]=preg_replace("/&/", "_", $row4->langid);  // The key won't be read if there is a & in it
+		// Put all the langids for this utterance into an array.
 	}
 	
-	$langs=array_count_values($this_lang);
-	print_r($langs);
+	$langs=array_count_values($this_lang);  // Get one figure for each of the langids in the utterance. 
+	//print_r($langs);
 	
-	if (count($langs)>0)
+	if (count($langs)>0)  // If there is at least one langid (ie word) in the utterance ...
 	{
-		if (!$langs[spa])
+		if (!$langs[spa])  // ... where there are no Spanish words ...
 		{
-			if (!$langs[eng_spa] and count($langs=1))
+			if (!$langs[eng_spa] and count($langs=1))  // ... and there is at least one word that is English and there are no indeterminates
+			// QUERY? Shouldn't this be count($langs)=1? And why do we have this second clause in the condition anyway?
 			{
-				$surface="[- eng] ".$surface;
-				$surface=preg_replace("/@s:eng(?!&spa)/", "", $surface);
+				$surface="[- eng] ".$surface;  // Add an English  precode to the surface line of the utterances table.
+				$surface=preg_replace("/@s:eng(?!&spa)/", "", $surface);  // Delete the English tag where it is not part of an inderminate tag.
 			}
 		}
 	}
 	
-	$speech="*".$row3->speaker.":	".$surface." %snd:\"".$row3->filename."\"_".$row3->durbegin."_".$row3->durend."\n";
+	$speech="*".$row3->speaker.":\t".$surface." %snd:\"".$row3->filename."\"_".$row3->durbegin."_".$row3->durend."\n";
 	fwrite($fp, $speech);
+	
+	// We should be using the scantiers file to add in any subtiers, on the following pattern:
+	if (isset($row3->gls))
+    {
+        $gls="%gls:\t".$row3->gls."\n";
+        fwrite($fp, $gls); 
+    }
+
+	if (isset($row3->eng))
+    {
+        $eng="%eng:\t".$row3->eng."\n";
+        fwrite($fp, $eng); 
+    }
+
+	 if (isset($row3->mor))
+    {
+        $mor="%mor:\t".$row3->mor."\n";
+        fwrite($fp, $mor); 
+    }
+
+    if (isset($row3->comment))
+    {
+        $comment="%com:\t".$row3->comment."\n";
+        fwrite($fp, $comment); 
+    }
 
 	echo $row3->utterance_id.": ".$surface."\n";
 	
-	unset($this_lang,$langs);
+	unset($this_lang, $langs, $speech, $gls, $eng, $mor, $comment);
 }
 
 fwrite($fp, "@End\n");

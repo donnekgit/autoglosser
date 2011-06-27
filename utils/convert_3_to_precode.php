@@ -47,7 +47,6 @@ $fp = fopen("inputs/miami/beta/".$filename.".cha", "w") or die("Can't create the
 //$sql1="select utterance_id, lgprofile from $profiletable where lgprofile !~'(0|3)' and lgprofile != ''";
 // Loosen a bit to count 0s in an utterance that is otherwise 2s
 $sql1="select utterance_id, lgprofile from ".$filename."_lgprofile where lgprofile !~'3' and lgprofile !='0' and lgprofile !='00' and lgprofile !='000' and lgprofile != ''";
-// The above would need to be changed for alphabetic language tags (en, es, spa, etc)
 $result1=pg_query($db_handle,$sql1) or die("Can't get the items");
 while ($row1=pg_fetch_object($result1))
 {
@@ -74,15 +73,38 @@ while ($row3=pg_fetch_object($result3))
 
 	$speech="*".$row3->speaker.":	".$surface." %snd:\"".$row3->filename."\"_".$row3->durbegin."_".$row3->durend."\n";
 	fwrite($fp, $speech);
+	
+	// We should be using the scantiers file to add in any subtiers, on the following pattern:
+	if (isset($row3->gls))
+    {
+        $gls="%gls:\t".$row3->gls."\n";
+        fwrite($fp, $gls); 
+    }
+
+	if (isset($row3->eng))
+    {
+        $eng="%eng:\t".$row3->eng."\n";
+        fwrite($fp, $eng); 
+    }
+
+	 if (isset($row3->mor))
+    {
+        $mor="%mor:\t".$row3->mor."\n";
+        fwrite($fp, $mor); 
+    }
+
+    if (isset($row3->comment))
+    {
+        $comment="%com:\t".$row3->comment."\n";
+        fwrite($fp, $comment); 
+    }
 
 	echo $row3->utterance_id.": ".$surface."\n";
-
-	/* May not be necessary to generate a table.
-	$surface=pg_escape_string($surface);
-	$sqlnew="insert into $converted(utterance_id, surface, speaker) values($row3->utterance_id, '$surface', '$row3->speaker')";
-	$resultnew=pg_query($db_handle,$sqlnew) or die("Can't get the items");
-	*/
+	
+	unset($speech, $gls, $eng, $mor, $comment);
 }
+
+fwrite($fp, "@End\n");
 
 fclose($fp);
 

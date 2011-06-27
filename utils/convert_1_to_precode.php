@@ -84,7 +84,8 @@ while ($row3=pg_fetch_object($result3))
 
 	$speech="*".$row3->speaker.":	".$surface." %snd:\"".$row3->filename."\"_".$row3->durbegin."_".$row3->durend."\n";
 	fwrite($fp, $speech);
-
+	
+	// We should be using the scantiers file to add in any subtiers, on the following pattern:
     if (isset($row3->gls))
     {
         $gls="%gls:\t".$row3->gls."\n";
@@ -110,12 +111,8 @@ while ($row3=pg_fetch_object($result3))
     }
 
 	echo $row3->utterance_id.": ".$surface."\n";
-
-	/* May not be necessary to generate a table.
-	$surface=pg_escape_string($surface);
-	$sqlnew="insert into $converted(utterance_id, surface, speaker) values($row3->utterance_id, '$surface', '$row3->speaker')";
-	$resultnew=pg_query($db_handle,$sqlnew) or die("Can't get the items");
-	*/
+	
+	unset($speech, $gls, $eng, $mor, $comment);
 }
 
 // Write out the file terminator.
