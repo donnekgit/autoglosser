@@ -32,9 +32,9 @@ $mcout="mc_n_adj_".$corpus;
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
     
-
-drop_existing_table($mcout);
-$sql0=query("create table $mcout as select * from $mctable where langid1!=langid2 and langid1!~'&' and langid2!~'&' order by surface1, surface2");
+// The following probably needs to be split out to a separate file, because if you don't remember to comment it it overwrites the table ...
+//drop_existing_table($mcout);
+//$sql0=query("create table $mcout as select * from $mctable where langid1!=langid2 and langid1!~'&' and langid2!~'&' order by surface1, surface2");
 
 $fp = fopen("mc/n_adj.tex", "w") or die("Can't create the file");
 
@@ -43,7 +43,7 @@ foreach ($lines as $line)
 {
 	if (preg_match("/filename.cha/", $line))
 	{
-		$line=preg_replace("/filename.cha/", "Mixed-language noun/adjective phrases in $corpus", $line);
+		$line=preg_replace("/filename.cha/", "Mixed-language noun/adjective phrases in ".ucfirst($corpus), $line);
 	}
 	else
 	{

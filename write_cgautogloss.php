@@ -68,7 +68,7 @@ while ($row_s=pg_fetch_object($result_s))
     $auto="%aut:\t".preg_replace('/ $/','',$auto)."\n";
     fwrite($fp, $auto);
 
-    // Use the scantiers file to add in any subtiers, on the following pattern:
+    // We should be using the scantiers file to add in any subtiers, on the following pattern:
     if (isset($row_s->gls))
     {
         $gls="%gls:\t".$row_s->gls."\n";
