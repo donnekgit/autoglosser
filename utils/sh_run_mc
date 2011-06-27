@@ -25,9 +25,10 @@
 
 # This script selects a sample of utterances in each file specified in the FILES line, and splits them into clauses
 FILES=inputs/siarad/beta/*.cha
+corpus=siarad
 for f in $FILES
 do
 	echo "Processing $f ..."
 	# take action on each file
-	php mc.php $f
+	php mc.php $f $corpus
 done

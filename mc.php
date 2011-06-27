@@ -23,7 +23,10 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file collects examples of n+adj or adj+n.
+// This file collects examples of n+adj or adj+n.  The relevant corpus has to be speicfied as the second argument, eg php mc.php patagonia3 patagonia.
+
+$corpus=$_SERVER['argv'][2];
+$mctable="mc_".$corpus;
 
 if (empty($filename))
 {
@@ -31,8 +34,6 @@ if (empty($filename))
     include("/opt/autoglosser/config.php");
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
-
-//$fp = fopen("outputs/".$filename."/".$filename."_autoglossed.txt", "w") or die("Can't create the file");
 
 echo "Noun+Adjective\n";
 
@@ -44,7 +45,7 @@ while ($row1=pg_fetch_object($sql1))
 	{
 		if (preg_match("/\.ADJ\.(?!POSS)/", $row2->auto))
 		{
-			$sql_na=query("insert into mc_welsh(filename, utterance_id, location, surface1, surface2, auto1, auto2, langid1, langid2, pos1, pos2) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row1->surface', '$row2->surface', '$row1->auto', '$row2->auto', '$row1->langid', '$row2->langid', 'n', 'adj')");
+			$sql_na=query("insert into $mctable(filename, utterance_id, location, surface1, surface2, auto1, auto2, langid1, langid2, pos1, pos2) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row1->surface', '$row2->surface', '$row1->auto', '$row2->auto', '$row1->langid', '$row2->langid', 'n', 'adj')");
 			
 			echo $row1->utterance_id.",".$row1->location."; ".$row1->surface." + ". $row2->surface." - ".$row1->auto." + ".$row2->auto."\n";
 		}
@@ -63,14 +64,12 @@ while ($row1=pg_fetch_object($sql1))
 	{
 		if (preg_match("/\.ADJ\.(?!POSS)/", $row2->auto))
 		{
-			$sql_na=query("insert into mc_welsh(filename, utterance_id, location, surface1, surface2, auto1, auto2, langid1, langid2, pos1, pos2) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row2->surface', '$row1->surface', '$row2->auto', '$row1->auto', '$row2->langid', '$row1->langid', 'adj', 'n')");
+			$sql_na=query("insert into $mctable(filename, utterance_id, location, surface1, surface2, auto1, auto2, langid1, langid2, pos1, pos2) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row2->surface', '$row1->surface', '$row2->auto', '$row1->auto', '$row2->langid', '$row1->langid', 'adj', 'n')");
 			
 			echo $row1->utterance_id.",".$row1->location."; ".$row2->surface." + ". $row1->surface." - ". $row2->auto." + ".$row1->auto."\n";
 		}
 	}  
     unset($myloc);   
 }
-
-//fclose($fp);
 
 ?>

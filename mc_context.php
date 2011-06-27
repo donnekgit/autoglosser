@@ -23,23 +23,27 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file collects examples of mixed n+adj or adj+n (in the mc_welsh table), and writes them out with full context detail.
+// This file creates a new table of mixed-language entries from the mc_siarad, mc_patagonia or mc_miami tables, and then writes them out with full context detail. The relevant corpus has to be specified as the first argument, eg php mc_context.php patagonia.
 
-if (empty($filename))
-{
-    include("includes/fns.php");
-    include("/opt/autoglosser/config.php");
-    list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
-}
+$corpus=$_SERVER['argv'][1];
+$mctable="mc_".$corpus;
+$mcout="mc_n_adj_".$corpus;
+
+include("includes/fns.php");
+include("/opt/autoglosser/config.php");
+    
+
+drop_existing_table($mcout);
+$sql0=query("create table $mcout as select * from $mctable where langid1!=langid2 and langid1!~'&' and langid2!~'&' order by surface1, surface2");
 
 $fp = fopen("mc/n_adj.tex", "w") or die("Can't create the file");
 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
-	if (preg_match("/filename.cha/", $line))  // Replace the holder in the TeX file with the name of the conversation.
+	if (preg_match("/filename.cha/", $line))
 	{
-		$line=preg_replace("/filename.cha/", "Mixed-language noun/adjective phrases in Siarad", $line);
+		$line=preg_replace("/filename.cha/", "Mixed-language noun/adjective phrases in $corpus", $line);
 	}
 	else
 	{
@@ -51,10 +55,7 @@ foreach ($lines as $line)
 
 $i=1;
 
-//drop_existing_table(mc_n_adj);
-//$sql0=query("create table mc_n_adj as select * from mc_welsh where langid1!=langid2 order by surface1, surface2");
-
-$sql1=query("select * from mc_n_adj where use is null order by surface1, surface2");
+$sql1=query("select * from $mcout where use is null order by surface1, surface2");
 while ($row1=pg_fetch_object($sql1))
 {
 	$sep="\\rule{\linewidth}{0.1mm} \\\\ \n";
