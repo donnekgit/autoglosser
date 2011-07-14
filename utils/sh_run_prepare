@@ -23,13 +23,15 @@
 #*********************************************************************
 #*/ 
 
-# This script runs prepare_files on all the files in a directory, straightening out the lines and extracting the headers
-FILES=inputs/siarad/alpha/*.cha
+# This script runs prepare_file.php on all the files in a directory, straightening out the lines and extracting the headers
+FILES=inputs/miami/beta/es/zeledon4.cha
+#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
 for f in $FILES
 do
 	echo "Processing $f ..."
 	# take action on each file
 	php prepare_file.php $f
+	php import_and_convert_es.php $f
 done
 
 

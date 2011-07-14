@@ -1,0 +1,31 @@
+#!/bin/sh
+export PGPASSWORD=kevindbs
+psql="psql -h localhost -U user -d database"
+
+FILES=inputs/siarad/beta/*.cha
+for f in $FILES
+do
+	filename=$(basename $f)  # the filename from the path - file.cha
+	fixedfile=${filename%.cha}_cgwords  # switch the filename's extension to _cgwords for the output file - file_cgwords
+	echo "Processing $fixedfile ..."
+	$psql --c "insert into combiwords (utterance_id, location, surface, auto, gls, speaker, langid, filename) select utterance_id, location, surface, auto, gls, speaker, langid, filename from $fixedfile"
+done
+
+export PGPASSWORD=
+# remove the PG password again
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

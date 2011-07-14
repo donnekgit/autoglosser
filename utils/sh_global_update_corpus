@@ -23,12 +23,31 @@
 #*********************************************************************
 #*/ 
 
-# This script selects a sample of utterances in each file specified in the FILES line, and splits them into clauses
-FILES=inputs/siarad/beta/*.cha
-corpus=enea
+# This script imports compressed dumps of _cgutterances and _cgwords tables.
+
+export PGPASSWORD="password"
+psql="psql -h localhost -U username -d database"
+
+FILES=siarad_dump_gz/*.gz
 for f in $FILES
 do
-	echo "Processing $f ..."
-	# take action on each file
-	php mc.php $f $corpus
+        echo "Processing $f ..."
+        gunzip -c $f | $psql
 done
+
+export PGPASSWORD=
+# remove the PG password again
+
+
+
+
+
+
+
+
+
+
+
+
+
+

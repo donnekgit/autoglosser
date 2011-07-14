@@ -1,10 +1,19 @@
 Switching between languages
 ===================
 
-fns.php, lines 28-9 - language codes
-fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> 
+General:
+fns.php, lines 32ff - language codes
 rewrite_utterances.php, line 105 - set default language
 tex/generate_expex.php, lines 65ff - set default language
+
+Conversions: 
+fns.php, line 739 (update_langids) - set indeterminate language
+fns.php, line 739 (update_langids) - also set secondary language denoted by @s - IMPORTANT!!!
+(Deprecated - utils/sed_convert_es - set secondary language, @s)
+import_and_convert_es.php - uncomment the appropriate conversion script
+
+MOR:
+NO - fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
 
 
 List words that do not have gloss entries:
@@ -612,7 +621,7 @@ Sampling clauses for 68 files took 14m.
 Features to add
 ==========
 
-1 - Change name of final file from filename_autoglssed.txt to filename.cha.
+1 - Change name of final file from filename_autoglossed.txt to filename.cha.
 
 2 - For indeterminate words, try lookup first in the English dictionary (or whatever) (using the demut functions), and then in inlist.
 freak_o, whine_io: split at _[i]o and look up the first bit

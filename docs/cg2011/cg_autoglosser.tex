@@ -32,9 +32,11 @@
 We present a novel use of constraint grammar (CG) in automatic glossing software to disambiguate surface forms in connected multilingual speech.  The resulting autoglosser output shows 97-99\% accuracy over all three languages.  We discuss the CG rules that help deliver this, noting the differences between those applying to Welsh and Spanish, and those applying to English.
 \end{abstract}
 
+
 \smallskip
 \section{Introduction}
 \label{sec:intro}
+
 
 Bangor University's ESRC Centre for Research on Bilingualism,\footnote{http://bilingualism.bangor.ac.uk} established in Jnauary 2007, has assembled some 130 bilingual conversations in three corpora: \textbf{Siarad}\footnote{Siarad means ``speak'' in Welsh.} (Welsh-English), \textbf{Patagonia} (Welsh-Spanish), \textbf{Miami} (Spanish-English).
 
@@ -85,13 +87,14 @@ Manual glossing of the Siarad (Welsh-English) proved to be tedious and time-cons
 
 Although the CLAN project provides a tagging system (MOR),\footnote{http://childes.psy.cmu.edu/morgrams} this only caters for 11 languages, each with more than 5m speakers.  Vocabulary is distributed over a number of files, and MOR requires a separate pass over the file to tag each language.  Post-tagging disambiguation (using the POST program) is only available for 4 languages.  Software such as Toolbox\footnote{http://www.sil.org/computing/toolbox} offers interlinear glossing capability, but is aimed more at linguistic field researchers, and is less applicable to fully-described languages; moreover, it does not seem to be scriptable, which was essential in order to deal with the volume of data in the corpora.
 
-There appears to be no tagger available at all for Welsh, reflecting the dearth of linguistic tools available to many minority languages.
+There appears to be no tagger available at all for Welsh, reflecting the dearth of linguistic tools available to many minority languages \cite{antonsen2010}.
 
 With no existing software meeting the purpose, a two-week test project in April 2010 looked at the viability of simply writing out entries from Spanish and Welsh dictionaries (see Section \ref{sec:dictionaries} below) for each word in the transcription.  The results of the tests were encouraging, and the only remaining issue was how to dismbiguate between the returned entries.  For this we turned to constraint grammar, and the remainder of this paper reports on how this is used in the autoglossing software developed over the past year.
 
 
 \section{The dictionaries}
 \label{sec:dictionaries}
+
 
 A key element of any tagging or glossing system is the use of a dictionary to allow lookup of the word in the chosen language.
   
@@ -170,6 +173,7 @@ Both Spanish and Welsh are inflected languages, where the surface forms give clu
 
 \section{The autoglossing process}
 \label{sec:autoglosser}
+
 
 Each line of the transcribed conversation file is read into an utterances table containing the following fields:
 \vspace{-3mm}
@@ -422,14 +426,17 @@ Preliminary results (see Table \ref{accuracy}) suggest that the Autoglosser's ac
 \section{Using constraint grammar}
 \label{sec:constraint}
 
+
 We discuss here two issues:
 \begin{itemize}
 \item The addition of tags in the lookup output to specify language, and the handling of these in the grammar so as to allow one-pass disambiguation of multilingual text.
 \item The different approaches taken in the grammar to handle the differing nature of the languages (already reflected to some extent in the dictionary entries).
 \end{itemize}
 
+
 \subsection{Language-specific rules}
 \label{sec:langspec}
+
 
 Multilingual discourse is far more common than has been assumed in classical linguistics, and it is only over the last 20 years that this important area has been given proper attention.  The Autoglosser is the first attempt to apply constraint grammar to multilingual text, and in fact only two things need to be done: (1) include the language tag in the output from each word's lookup; (2) put all the rules (grouped according to language for ease of reference) into the same grammar file. 
 
@@ -545,10 +552,11 @@ In Figure \ref{camping}, \textbf{camping} can be an adjective (\textit{the campi
 \end{figure}
 
 
-\subsection{Nature of rules}
-\label{sec:nature}
+\subsection{Tidying readings}
+\label{sec:tidying}
 
-Spanish and Welsh are inflected languages,\footnote{Though it should be noted that in Welsh, particularly spoken Welsh, inflected verbforms are now widely replaced by periphrastic forms.} while English is an analytic language with few inflections (mainly in ``strong'' verbs).  This is reflected in the nature of the rules that have proved most efficient in the autoglosser.
+
+The re-use of lexical resources can lead to a conflict -- for many purposes, a comprehensive dictionary giving as many entries as possible for a particular word is desirable, but these multiple entries are not required for an application like the autoglosser, where one lemma will usually be sufficient for tagging purposes.
 
 \begin{figure}[!hbtp]
 \centering
@@ -573,26 +581,70 @@ Spanish and Welsh are inflected languages,\footnote{Though it should be noted th
 \label{camping1}
 \end{figure}
 
+In cases where the entries are archaic or infrequent words, we use CG \textbf{select} rules to remove them from consideration.  The Welsh words \textbf{huno} (\textit{sleep}) and \textbf{pallu} (\textit{refuse}) are low-frequency, so the following rules are applied:
+
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{remove ("huno" [cy] :sleep:);} \\
+\textbf{remove ("pallu" v :refuse:);}
+
+In other cases, where a single word has different meanings we use CG \textbf{select} rules to prioritise one of the meanings.  The Welsh dictionary gives two meanings for \textbf{cyfeiriad} (\textit{direction} and \textit{address}) -- the following rule ensures that the \textit{address} meaning is ignored:
+
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{select ("cyfeiriad" [cy] :direction:);}
+
+The lookup process can generate readings which are invalid, and these need to be removed.  The cohort of readings for the Welsh word \textbf{nos} (\textit{night}) will include an incorrect one interpreting it as a nasally-mutated form of the imperative (\textbf{dos)} of the verb \textbf{mynd} (\textit{go}), which is linguistically impossible.  This sort of entry can be removed with a rule like:
+
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{remove ([cy] "mynd" v 2s imper nm);}
+
+A similar issue arises when indeterminate words are being looked up.  It will be recalled that indeterminate words are those which appear in dictionaries of both languages, so it is impossible to state unequivocally which language they belong to.\footnote{This is meant diachronically rather than synchronically, in terms of current usage in both languages -- historically, the word may be considered a loanword.}  Since the practice in the transcriptions is to use English spelling for indeterminate words, lookup for these words uses the English dictionary.  The interaction with Welsh mutation can lead to invalid readings, such as the interpretation of the hesitation marker \textbf{um} as a soft-mutated form of the word gum, which is extremely unlikely.  This can be removed with a rule like:
+
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{remove ([in] "gum" n sg sm);}
+
+
+\subsection{Nature of rules}
+\label{sec:nature}
+
+
+Spanish and Welsh are inflected languages,\footnote{Though it should be noted that in Welsh, particularly spoken Welsh, inflected verbforms are now widely replaced by periphrastic forms.} while English is an analytic language with few inflections (mainly in ``strong'' verbs).  This is reflected in the nature of the rules that have proved most efficient in the autoglosser.
+
 For Spanish and Welsh, surface forms are fairly well-defined by their shape -- \textbf{empieza}, for instance, can only be the second/third person singular present or the second person singular imperative of \textbf{empezar} (\textit{to begin}).  The lookup fetches these entries from the dictionary,\footnote{The possibility of de-conjugating inflected verbs on-the-fly is attractive, but may be too complex to attempt at this stage.} and so the rules consist mainly of \textbf{select} rules (with a few \textbf{remove}s and \textbf{substitute}s).
 
-For English, on the other hand, the surface form gives us few clues about the part-of-speech a word belongs to, which is largely defined by its role in the sentence -- \textbf{break} can be a singular noun, or a verb infinitive, or the non-third person singular present tense.  Instead of giving \textbf{break} three entries in the English dictionary, we have chosen to assign it one entry, with a tag (\textit{sv}) which reflects this diversity of role.  
+For English, on the other hand, the surface form gives us few clues about the part-of-speech a word belongs to, which is largely defined by its role in the sentence -- \textbf{break} can be a singular noun, or a verb infinitive, or the non-third person singular present tense.  Instead of giving \textbf{break} three entries in the English dictionary, we have chosen, as noted in Section  \ref{sec:dictionaries},  to assign it one entry, with a tag (\textit{sv}) which reflects this diversity of role.  
 
-The result is that the the vast majority of rules for English are \textbf{substitute}s, converting one set of tags into another.  For example, the surface word \textbf{miniature} can be either an adjective or a singular noun, so it is tagged \textit{as} in the dictionary.  Rules such as the following then handle its correct tagging based on context:\\
-\indent\textbf{substitute (as) (adj) ([en] as) (1 ([en] n) or ([en] pron));}\\
-This says that an English \textit{as} tag should be converted to an \textit{adjective} tag when the word is followed by a noun or pronoun (e.g. \textbf{a miniature rabbit}, \textbf{miniature ones}).
+The result is that the the vast majority of rules for English are \textbf{substitute}s, converting one set of tags into another.  For example, the surface word \textbf{miniature} can be either an adjective or a singular noun, so it is tagged \textit{as} in the dictionary.  Rules such as the following then handle its correct tagging based on context:
 
-[We continue with further examples and discussion.]
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{substitute (as) (adj) ([en] as) (1 ([en] n) or ([en] pron));}
 
-Finally, we discuss more general issues (on which we would welcome input from other CG practitioners) such as:
-\begin{itemize}
-\item The best way of structuring a multilingual grammar so as to prevent bleed-through of one language's rules into the others'.
-\item Rule types to avoid - our current view is that \textbf{remove} and \textbf{select-if-not} rules are particularly problematic unless they are carefully constrained
-\end{itemize}
+\noindent This says that an English \textit{as} tag should be converted to an \textit{adjective} tag when the word is followed by a noun or pronoun (e.g. \textbf{a miniature rabbit}, \textbf{miniature ones}).
+
+
+\subsection{Rule scope}
+\label{sec:scope}
+
+
+Rule types to avoid - 
+
+Our current view is that \textbf{remove} and \textbf{select-if-not} rules are particularly problematic unless they are carefully constrained.  A select rule is exclusive in what it applies to, and it may be considered that it is possible to frame a select-if-not rule to be equally exclusive.  By its nature, however
+
 
 \section{Further work}
 \label{sec:further}
 
-Although the current configuration of rules is working well, we hope to explore further refinement of the grammar.  This would include not only conflating similar rules within a language, but also seeking to use the grammar to mark clause relationships.  The latter would be of value in the further linguistic analysis of the influence of clause structure on language switching in bilingual discourse \cite{antonsen2010}.
+
+Although the current configuration of rules is working well, we hope to explore further refinement of the grammar.  This would include not only conflating similar rules within a language, but also seeking to use the grammar to mark clause relationships.  The latter would be of value in the further linguistic analysis of the influence of clause structure on language switching in bilingual discourse.
 
 
 \section*{Acknowledgments}

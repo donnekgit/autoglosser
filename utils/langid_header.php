@@ -30,11 +30,39 @@ if (empty($filename))
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-// Straighten out lines in the file
-exec("utils/sed_joinlines ".$chafile);
+// Set up the two languages to be counted as indeterminate
+$indeter="eng&spa";
 
-include("utils/langid_header.php");
+$fp = fopen("outputs/$filename/$filename.header", "w") or die("Can't create the file");
 
-echo "REMEMBER TO CHANGE THE LANGUAGE SETTINGS!\n";
+$lines=file("$chafile");  // Open the chat file.
+foreach ($lines as $line)
+{
+	// Snip out the header lines
+	if (!preg_match("/^\*/", $line) and !preg_match("/^%/", $line) and !preg_match("/@End/", $line))
+	{
+		if (preg_match("/@(Languages|ID)/", $line))
+		{
+			// Change the language tags - without this change, CLAN apps such as freq will not work properly
+			$line=preg_replace("/es, ?en/", "spa, eng", $line);  
+			$line=preg_replace("/en, ?es/", "eng, spa", $line);  
+		}
+		elseif (preg_match("/(UNFINISHED|UNPROOFED)/", $line))  // Remove any warnings or comments that suggest the file is unfinished.
+		{
+			$line=preg_replace("/^.*$/", "", $line);  
+		}
+		elseif (preg_match("/@Comment/", $line))  // Replace all language tags that do not correspond to the default 3-letter tags
+		{
+			$line=update_langids($line);
+		}
+		else
+		{
+			$line=$line;
+		}
+		
+		//echo $line."\n";
+		fwrite($fp, $line);  // Write the header to the standalone header file
+	}
+}
 
 ?>

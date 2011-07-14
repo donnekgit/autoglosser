@@ -2,49 +2,44 @@ Put files by category into subdir in alpha
 
 @023 (import_and_convert_es)
 ====================
-takes alpha file, fixes it and puts converted file in beta
 herring1
 herring2
 herring7
 herring12
+sastre1
 zeledon8
 
-@enes (sed_joinlines)
-==============
-converts alpha file in situ
+@enes (sed_convert_es)
+================
 herring11
-sastre3
-sastre4
 sastre5
-sastre8
 sastre9
-sastre10
-sastre11
-sastre12
-zeledon6
+zeledon5
+zeledon14
 
 english
 =====
+sastre3
+sastre4
 sastre6 (mixed coding!)
+sastre8
+sastre10
+sastre11
+sastre12
 sastre13
-zeledon11
+zeledon6
 zeledon9
-
-fixed (beta)
-=======
-zeledon5
-zeledon14
-sastre1 (edit header)
+zeledon11
 
 
 Put file in data/miami/alpha
-php prepare_file.php inputs/miami/alpha/herring11.cha - straighten lines and save header (perhaps header should be saved on import each time)
+php prepare_file.php inputs/miami/alpha/herring11.cha - straighten lines and save header
 DONE for herring11, zeledon5, sastre5
 
 @enes files:
 copy into inputs/miami/beta
 utils/sed_convert_es inputs/miami/beta/herring11.cha - convert from enes to engspa
-php do_everything.php inputs/miami/beta/herring11.cha - full import
+php do_everything.php inputs/miami/beta/herring11.cha - full import - ?needed? import_only.php sufficient?
 php utils/convert_es_to_precode.php herring11 - puts converted file into clan/chats/herring11_m.cha (change this for non-MOR files)
 php do_mor.php herring11 - runs MOR/POST and produces herring11_m
 php do_everything.php clan/chats/sastre5.mor.pst.mor.pst.cex
@@ -53,12 +48,28 @@ F&R +" with nothing, and save - the lineclean_mor() function needs to discard th
 
 
 
+alpha - straightened
+beta - converted
+root - typos corrected, unknowns added, autoglossed, etc
 
 
+023
+prepare_file.php
+import_and_convert_3.php - NO - no longer required - use import_and_convert_es.php, which now handles both 023 and enes tags
 
+enes:
+move into beta/subdir
+set blank in fns.php to reflect language that is not tagged in the chat file, ie English; also edit rewrite_utterances.php
+prepare_file.php
+import_and_convert_es.php to uncomment convert_es option - drops converted file in beta
+delete subdir
 
-
-
+english:
+move into beta/subdir
+set blank in fns.php to reflect language that is not tagged in the chat file, ie Spanish; also edit rewrite_utterances.php
+prepare_file.php
+edit import_and_convert_es.php to uncomment convert_en option - drops converted file in beta
+delete subdir
 
 
 

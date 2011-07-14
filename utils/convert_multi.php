@@ -23,23 +23,26 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-include("includes/fns.php");
-include("/opt/autoglosser/config.php");
+if (empty($filename))
+{
+    include("includes/fns.php");
+    include("/opt/autoglosser/config.php");
+    list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+}
 
-// Generate default names from the filepath given
-list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+$fp = fopen("$chafile", "r+") or die("Can't create the file");
 
-// Convert en, es tags to eng, spa tags
-//exec("utils/sed_convert_es ".$chafile);
-//include("utils/convert_multi.php");
-
-echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
-include("cgimport.php");
-
-echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
-include("rewrite_utterances.php");
-
-include("utils/convert_es_to_precode.php");  // For predominantly Spanish conversations
-//include("utils/convert_en_to_precode.php");  // For predominantly English conversations
+$lines=file("$chafile");  // Open the chat file.
+foreach ($lines as $line)
+{
+	if (preg_match("/^\*/", $line))
+	{
+		$line=update_langids($line);
+	}
+	
+	//echo $line."\n";
+	fwrite($fp, $line); 
+	
+}
 
 ?>

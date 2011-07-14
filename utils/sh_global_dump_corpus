@@ -23,12 +23,17 @@
 #*********************************************************************
 #*/ 
 
-# This script selects a sample of utterances in each file specified in the FILES line, and splits them into clauses
-FILES=inputs/siarad/beta/*.cha
-corpus=enea
+# This script does a compressed dump of the _cgutterances and _cgwords table for each file in the corpus into a dump dir.
+# The --clean option means that the file will include SQL commands to drop the old table.
+
+FILES="patagonia1 patagonia2 patagonia3 patagonia6 patagonia9"  # Patagonia
+#FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Miami
+#FILES=inputs/siarad/beta/*.cha  # Siarad
 for f in $FILES
 do
-	echo "Processing $f ..."
-	# take action on each file
-	php mc.php $f $corpus
+	filename=$(basename $f)  # the filename from the path - file.cha
+	chat=${filename%.cha}  # drop the filename's extension
+	echo "Processing $chat ..."
+	pg_dump -t ${chat}_cgutterances --clean autoglosser | gzip > dbdevel/patagonia_dump_gz/${chat}_cgutterances.sql.gz
+	pg_dump -t ${chat}_cgwords --clean autoglosser | gzip > dbdevel/patagonia_dump_gz/${chat}_cgwords.sql.gz
 done

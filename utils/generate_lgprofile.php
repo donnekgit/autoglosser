@@ -25,7 +25,7 @@ If not, see <http://www.gnu.org/licenses/>.
 
 /*
 Call as: php utils/generate_lgprofile.php inputs/Miami/sastre1.cha 
-This script generates a language profile for each utterance - a sequence of the language tags for each item in the utterance.  This works best for the old @0, @1, @2, @3 tags, and would need to be adapted for the newer alphabetic ones (en, es, spa).
+This script generates a language profile for each utterance - a sequence of the language tags for each item in the utterance.  This can then be used to convert the text into the new CLAN default.
 */
 
 if (empty($filename))
@@ -70,10 +70,12 @@ while ($row3=pg_fetch_object($result3))
 	{	
 		// Surface line without markings
 		$text.=$row2->surface." ";
+		
 		if ($row2->langid=='999')
 		{
 			$slot='';
 		}
+		// Where the language tag is already the default 3-character one ...
 		elseif ($row2->langid=='cym')
 		{
 			$slot="1";
@@ -82,10 +84,23 @@ while ($row3=pg_fetch_object($result3))
 		{
 			$slot="2";
 		}
+		elseif ($row2->langid=='spa')
+		{
+			$slot="3";
+		}
 		elseif ($row2->langid=='cym&eng')
 		{
 			$slot="0";
-		}		
+		}
+		elseif ($row2->langid=='eng&spa')
+		{
+			$slot="0";
+		}
+		// Where the language tag is the old single-digit one ...
+		else
+		{
+			$slot=$row2->langid;
+		}
 		$slotstring.=$slot;
 	}
 		

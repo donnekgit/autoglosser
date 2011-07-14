@@ -41,6 +41,7 @@ sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e '/\*[A-Z]*:/s/\(\w\)\./\1 ./g' | \
+sed -e "s/\(^\*[A-Z]*:\) \+/\1\t/g" | \
 sed -e "s/’/'/g" | \
 sed -e "s/’/'/g" | \
 sed -e "s/´/'/g" | \
@@ -49,5 +50,5 @@ sed -e 's/‑/-/g' > $path/$fixedfile  # output to the path + new filename
 mv $path/$fixedfile $path/$filename  # replace the original file with the fixed file, giving a fixed .cha file
 
 # 38: Straighten the lines by deleting line-ends - 5 runs should be enough to catch them all.
-# 43: On surface lines, add a space before a period that immediately follows an alpha or digit.
-
+# 43: On surface lines only, add a space before a period that immediately follows an alpha or digit.
+# 44: Convert spaces after the speaker ID to a tab.

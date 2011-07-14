@@ -44,6 +44,13 @@ $profiletable=$filename."_lgprofile";
 //$fp = fopen("outputs/".$filename."/".$filename."_b.cha", "w") or die("Can't create the file");
 $fp = fopen("inputs/miami/beta/".$filename.".cha", "w") or die("Can't create the file");  // Edit to make running sh_run_import_convert easier - no need to shift the beta files afterwards
 
+// Write out the file header.
+$lines=file("outputs/$filename/$filename.header", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+foreach ($lines as $line)
+{
+	fwrite($fp, $line."\n");
+}
+
 //$sql1="select utterance_id, lgprofile from $profiletable where lgprofile !~'(0|3)' and lgprofile != ''";
 // Loosen a bit to count 0s in an utterance that is otherwise 2s
 $sql1="select utterance_id, lgprofile from ".$filename."_lgprofile where lgprofile !~'3' and lgprofile !='0' and lgprofile !='00' and lgprofile !='000' and lgprofile != ''";

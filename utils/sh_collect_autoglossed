@@ -24,7 +24,7 @@
 #*/ 
 
 # This script collects the autoglossed files specified in the FILES line and copies renamed versions into the collected folder
-FILES=inputs/siarad/beta/*.cha
+FILES=inputs/miami/beta/eng/*.cha
 for f in $FILES
 do
 	echo "Processing $f ..."

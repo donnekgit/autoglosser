@@ -31,8 +31,8 @@ If not, see <http://www.gnu.org/licenses/>.
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "spa&eng", "eng&spa", "cym&eng", "cym&spa");
 $cylg=array("1", "cy", "cy+en", "cy+es", "cym");
-$enlg=array("2", "en", "en+es", "en+cy", "eng", "s");
-$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
+$enlg=array("2", "en", "en+es", "en+cy", "eng", "");
+$eslg=array("3", "es", "es+en", "es+cy", "spa", "s");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -194,7 +194,7 @@ function lineclean_surface($text)
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
 
-	// Uncomment for Miami - follows the MOR convention (note that this is not the freq convention - it counts all words, including those in backtracks)
+	// Uncomment for MOR (note that this is not the freq convention - it counts ALL words, including those in backtracks)
     //$text=preg_replace("/\+</u", " ", $text);  // Get rid of +<
     //$text=preg_replace("/ (\[\/+\])/u", "~$1", $text); // Link a backtracking word to the following [/] or [//] or [///] marker with a tilde.
     //$text=preg_replace("/<.[^( |>)]+>/u", "", $text); // Remove backtracking words in angle brackets.  The space in ( |>) is to handle +< - this gets taken as the opening angle bracket otherwise, so that "+< yo tengo una amiguita que es dueña <de un> [//] de un dealer@s:eng ." gets truncated to "de un dealer@s:eng ."
@@ -204,7 +204,7 @@ function lineclean_surface($text)
     $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself (the ones before a language tag have been moved out of the way by the line at the top)
     $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
 
-	// Uncomment for Miami - follows the MOR convention (note that this is not the freq convention - it counts all words, including those in backtracks)
+	// Uncomment for MOR convention (note that this is not the freq convention - it counts ALL words, including those in backtracks)
     //$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	//$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
@@ -730,6 +730,43 @@ function lg_superscript($text)
 	$text=preg_replace("/@s:spa+cym/","$^{S+}_{C}$", $text);
 	$text=preg_replace("/@s:eng+cym/","$^{E+}_{C}$", $text);
 	return $text;
+}
+
+
+function update_langids($line)
+{
+	// Set up the two languages to be counted as indeterminate
+	$indeter="eng&spa";
+	// IMPORTANT!!! Set the secondary language here if @s only is being used
+	$line=preg_replace("/@s([^:])/", "@s:eng$1", $line);  
+	// Replace all language tags that do not correspond to the default 3-letter tags
+	$line=preg_replace("/@0(?![123])/", "@s:$indeter", $line);
+	$line=preg_replace("/@1(?![23])/", "@s:cym", $line);
+	$line=preg_replace("/@2(?![13])/", "@s:eng", $line);
+	$line=preg_replace("/@3(?![12])/", "@s:spa", $line);
+	$line=preg_replace("/@01/", "@s:$indeter+cym", $line);
+	$line=preg_replace("/@02/", "@s:$indeter+eng", $line);
+	$line=preg_replace("/@03/", "@s:$indeter+spa", $line);
+	$line=preg_replace("/@12/", "@s:cym+eng", $line);
+	$line=preg_replace("/@13/", "@s:cym+spa", $line);
+	$line=preg_replace("/@21/", "@s:eng+cym", $line);
+	$line=preg_replace("/@23/", "@s:eng+spa", $line);
+	$line=preg_replace("/@31/", "@s:spa+cym", $line);
+	$line=preg_replace("/@32/", "@s:spa+eng", $line);
+	$line=preg_replace("/@s:en&es(?!\+)/", "@s:$indeter", $line);
+	$line=preg_replace("/@s:cy(?![m&\+])/", "@s:cym", $line);
+	$line=preg_replace("/@s:en(?![g&\+])/", "@s:eng", $line);
+	$line=preg_replace("/@s:es(?![&\+])/", "@s:spa", $line);
+	$line=preg_replace("/@s:en&es\+cy/", "@s:$indeter+cym", $line);
+	$line=preg_replace("/@s:en&es\+en/", "@s:$indeter+eng", $line);
+	$line=preg_replace("/@s:en&es\+es/", "@s:$indeter+spa", $line);
+	$line=preg_replace("/@s:cy\+en/", "@s:cym+eng", $line);
+	$line=preg_replace("/@s:cy\+es/", "@s:cym+spa", $line);
+	$line=preg_replace("/@s:en\+cy/", "@s:eng+cym", $line);
+	$line=preg_replace("/@s:en\+es/", "@s:eng+spa", $line);
+	$line=preg_replace("/@s:es\+cy/", "@s:spa+cym", $line);
+	$line=preg_replace("/@s:es\+en/", "@s:spa+eng", $line);
+	return $line;
 }
 
 ?>

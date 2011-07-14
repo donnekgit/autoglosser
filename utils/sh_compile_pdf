@@ -23,12 +23,14 @@
 #*********************************************************************
 #*/ 
 
-# This script selects a sample of utterances in each file specified in the FILES line, and splits them into clauses
-FILES=inputs/siarad/beta/*.cha
-corpus=enea
+# This script compiles pdfs for the autoglossed files specified in the FILES line and copies the pdfs into the repo folder
+FILES=inputs/miami/beta/eng/*.cha
+REPO=inputs/miami/eng/
 for f in $FILES
 do
 	echo "Processing $f ..."
-	# take action on each file
-	php mc.php $f $corpus
+	filename=$(basename $f)
+	fixedfile=${filename%.cha}
+	pdflatex -output-directory=outputs/$fixedfile outputs/$fixedfile/$fixedfile.tex
+	cp outputs/$fixedfile/${fixedfile}.pdf $REPO
 done

@@ -1,0 +1,32 @@
+#!/bin/sh
+export PGPASSWORD="password"
+psql="psql -h localhost -U user -d database"
+$psql --quiet --no-align --field-separator ',' --c "select * from stammers4_cgwords" > mystammers4dump.csv
+export PGPASSWORD=
+# remove the PG password again
+
+
+pg_dump -t '*(utterances|words)' -T '(alaw|becky|herring|patagonia|sastre|zeledon)*' autoglosser | gzip > mysiaraddump.gz
+
+createdb dbname
+gunzip -c filename.gz | psql dbname
+
+psql -c 'SELECT * FROM foo'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

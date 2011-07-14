@@ -24,10 +24,14 @@
 #*/ 
 
 # This script runs import_and_convert on all the files specified in the FILES line
-FILES=inputs/siarad/beta/*.cha
+FILES=inputs/miami/beta/neweng/*.cha
+REPO=inputs/miami/
 for f in $FILES
 do
 	echo "Processing $f ..."
-	# take action on each file
 	php do_everything.php $f
+	filename=$(basename $f)
+	fixedfile=${filename%.cha}
+	cp outputs/$fixedfile/${fixedfile}_autoglossed.txt $REPO/$filename
+	cp outputs/$fixedfile/${fixedfile}.pdf $REPO/
 done

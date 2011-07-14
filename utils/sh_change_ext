@@ -23,12 +23,31 @@
 #*********************************************************************
 #*/ 
 
-# This script selects a sample of utterances in each file specified in the FILES line, and splits them into clauses
-FILES=inputs/siarad/beta/*.cha
-corpus=enea
+# This script changes the extension of the chat files in a specified directory from .cha to .txt
+
+FILES=siarad_web/*.cha
 for f in $FILES
 do
-	echo "Processing $f ..."
-	# take action on each file
-	php mc.php $f $corpus
+	filename=$(basename $f)  # the filename from the path - file.cha
+	path=$(dirname $f)  # the path to the file - path/to
+	fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file - file.txt
+	echo "Processing $filename ..."
+	mv $path/$fixedfile $path/$filename  # replace the original file with the fixed file, giving a fixed .cha file
 done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

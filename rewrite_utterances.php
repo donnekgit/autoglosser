@@ -102,7 +102,7 @@ while ($row=pg_fetch_object($result))
 			}
 			elseif ($precode=="")
 			{
-				$langid="spa";  // Adjust this to give the default language.
+				$langid="eng";  // Adjust this to give the default language.
 			}
 		} 
 

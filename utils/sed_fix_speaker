@@ -23,21 +23,21 @@
 #*********************************************************************
 #*/ 
 
-# This script converts two-letter tags (es, en) to three-letter tags (spa, eng).  Number tags can use the import_and_convert script instead.
-#  Run as: sed_convert_es /path/to/file.cha
+# This script converts old-style CLAN language tags to new-style ones.
+# Old-style: @0, @1, etc
+# New-style: @s:cy, @s:en&es, etc
+#  Run as: sed_convert_lgid /path/to/file.cha
+# It's best to run sed_joinlines first in order to straighten out the lines of the chat file.
 chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
 #echo $chafile
 filename=$(basename $chafile)  # the filename from the path - file.cha
 #echo $filename
 path=$(dirname $chafile)  # the path to the file - path/to
 #echo $path
-fixedfile=${filename}.txt  # set up an output file
+fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file
 #echo $fixedfile
-sed -e 's/@s:en\&es+en\([ >]\)/@s:eng\&spa+eng\1/g' < $chafile | \
-sed -e 's/@s:en\&es\([ >]\)/@s:eng\&spa\1/g' | \
-sed -e 's/@s:en+es\([ >]\)/@s:eng+spa\1/g' | \
-sed -e 's/@s:es+en\([ >]\)/@s:spa+eng\1/g' | \
-sed -e 's/@s:en\([ >]\)/@s:eng\1/g' | \
-sed -e 's/@s:es\([ >]\)/@s:spa\1/g' | \
-sed -e 's/@s\([ >]\)/@s:spa\1/g' > $path/$fixedfile  # output to the path + new filename - !!! set your secondary language here
+cat < $chafile | \
+#
+sed -e "s/\(^\*[A-Z]*:\) \+/\1\t/g" | \
+cat > $path/$fixedfile  # output to the path + new filename
 mv $path/$fixedfile $path/$filename  # replace the original file with the fixed file, giving a fixed .cha file

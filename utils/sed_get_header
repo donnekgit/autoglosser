@@ -23,6 +23,8 @@
 #*********************************************************************
 #*/ 
 
+# Deprecated
+
 # This script lifts out the chat file header.
 chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
 #echo $chafile

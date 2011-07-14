@@ -29,9 +29,17 @@ include("/opt/autoglosser/config.php");
 // Generate default names from the filepath given
 list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 
-// Convert en, es tags to eng, spa tags
-//exec("utils/sed_convert_es ".$chafile);
-//include("utils/convert_multi.php");
+/*
+echo $chafile."\n";
+echo $filename."\n";
+echo $utterances."\n";
+echo $words."\n";
+echo $cgfinished."\n";
+echo "Outputs are in outputs/$filename/\n";
+
+echo "*\n*\nPreparing $filename\n*\n*\n";
+include("prepare_file.php");
+*/
 
 echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
 include("cgimport.php");
@@ -39,7 +47,8 @@ include("cgimport.php");
 echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
 include("rewrite_utterances.php");
 
-include("utils/convert_es_to_precode.php");  // For predominantly Spanish conversations
-//include("utils/convert_en_to_precode.php");  // For predominantly English conversations
+include("utils/generate_lgprofile.php");
+
+include("utils/convert_3_to_precode.php");
 
 ?>

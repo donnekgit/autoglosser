@@ -1,5 +1,11 @@
 Changelog
 
+14/07/11
+Revise preparation and import process to handle Miami corpus - easier workflow.
+
+28/06/11
+Fix bugs in mc collocation stuff, and improve workflow (more to be done).
+
 27/6/2011
 Select and handle noun+adjective collocations.
 
