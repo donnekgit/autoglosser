@@ -24,13 +24,13 @@
 #*/ 
 
 # This script compiles pdfs for the autoglossed files specified in the FILES line and copies the pdfs into the repo folder
-FILES=inputs/miami/beta/eng/*.cha
-REPO=inputs/miami/eng/
+FILES=inputs/patagonia/beta/redone/*.cha
+REPO=inputs/patagonia/new
 for f in $FILES
 do
 	echo "Processing $f ..."
 	filename=$(basename $f)
 	fixedfile=${filename%.cha}
 	pdflatex -output-directory=outputs/$fixedfile outputs/$fixedfile/$fixedfile.tex
-	cp outputs/$fixedfile/${fixedfile}.pdf $REPO
+	cp outputs/$fixedfile/${fixedfile}.pdf $REPO/pdfs/
 done

@@ -33,6 +33,7 @@ if (empty($filename))
 }
 
 $fp = fopen("outputs/".$filename."/".$filename.".tex", "w") or die("Can't create the file");
+//$fp = fopen("outputs/siarad_manual/$filename.tex", "w") or die("Can't create the file");
 
 $lines=file("tex/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
@@ -62,7 +63,7 @@ while ($row_s=pg_fetch_object($result_s))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
-		if ($row_w->langid=="eng" and $precode =="")  // set the default language here
+		if ($row_w->langid=="cym" and $precode =="")  // set the default language here
 		{
 			$row_w->surface=$row_w->surface;
 		}
@@ -123,7 +124,6 @@ while ($row_s=pg_fetch_object($result_s))
 
 	// The following sections can be selectively uncommented to allow alignment of the autogloss, the manual gloss, or the MOR gloss.  Note that only one of the three can be chosen for display - this is a shortcoming of the current ExPex package, which only allows display of one gloss line in running text mode.
 
-
 	$wauto="\glb \%aut ".$precode." ".$auto." //\n";  // Autogloss tier.
 	echo $wauto."\n";
 	fwrite($fp, $wauto);
@@ -138,7 +138,6 @@ while ($row_s=pg_fetch_object($result_s))
 	echo $wmor."\n";
 	fwrite($fp, $wmor);
 */
-
 	$weng="\glft ".tex_surface($row_s->eng)." //\n";  // English tier.
 	echo $weng."\n";
 	fwrite($fp, $weng);
@@ -160,19 +159,3 @@ foreach ($lines as $line)
 fclose($fp);
 
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

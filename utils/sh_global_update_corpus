@@ -24,11 +24,20 @@
 #*/ 
 
 # This script imports compressed dumps of _cgutterances and _cgwords tables.
+# NOTE:  If the table fails to import (perhaps with feedback like this:
+#		invalid command \N
+#		ERROR:  syntax error at or near "6"
+#		LINE 1: 6 1 6 . 
+# check that the old table you are replacing has no dependencies, for instance: views that depend on it.
+# If so, you will first need to drop the old table manually:
+# 		psql -U username -d database (and enter password)
+#		drop table mytable cascade;
+#		\q
 
 export PGPASSWORD="password"
 psql="psql -h localhost -U username -d database"
 
-FILES=siarad_dump_gz/*.gz
+FILES=miami_dump_eng/*.gz
 for f in $FILES
 do
         echo "Processing $f ..."

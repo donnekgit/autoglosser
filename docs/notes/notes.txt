@@ -10,10 +10,10 @@ Conversions:
 fns.php, line 739 (update_langids) - set indeterminate language
 fns.php, line 739 (update_langids) - also set secondary language denoted by @s - IMPORTANT!!!
 (Deprecated - utils/sed_convert_es - set secondary language, @s)
-import_and_convert_es.php - uncomment the appropriate conversion script
+import_and_convert.php - uncomment the appropriate conversion script
 
 MOR:
-NO - fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
+fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
 
 
 List words that do not have gloss entries:

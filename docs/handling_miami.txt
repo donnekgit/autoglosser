@@ -1,6 +1,6 @@
 Put files by category into subdir in alpha
 
-@023 (import_and_convert_es)
+@023 (import_and_convert)
 ====================
 herring1
 herring2
@@ -55,29 +55,39 @@ root - typos corrected, unknowns added, autoglossed, etc
 
 023
 prepare_file.php
-import_and_convert_3.php - NO - no longer required - use import_and_convert_es.php, which now handles both 023 and enes tags
+import_and_convert_3.php - NO - no longer required - use import_and_convert.php, which now handles both 023 and enes tags
 
 enes:
 move into beta/subdir
 set blank in fns.php to reflect language that is not tagged in the chat file, ie English; also edit rewrite_utterances.php
 prepare_file.php
-import_and_convert_es.php to uncomment convert_es option - drops converted file in beta
+import_and_convert.php to uncomment convert_es option - drops converted file in beta
 delete subdir
 
 english:
 move into beta/subdir
 set blank in fns.php to reflect language that is not tagged in the chat file, ie Spanish; also edit rewrite_utterances.php
 prepare_file.php
-edit import_and_convert_es.php to uncomment convert_en option - drops converted file in beta
+edit import_and_convert.php to uncomment convert_en option - drops converted file in beta
 delete subdir
 
 
+Unknowns
+======
 
+create table miami_unk as select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra from miami_spa_unknowns group by surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra order by surface
 
+select * from miami_spa_unknowns order by surface
 
+insert into miami_spa_unknowns (surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra, filename) select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra, filename from miami_eng_unknowns
 
+select langid, surface, count(surface) from sastre9_cgwords where auto='unk' group by langid, surface order by langid, surface
 
+select * from sastre9_cgwords where utterance_id=(select utterance_id from sastre9_cgwords where surface='g' and langid='eng') order by location
 
+select utterance_id from sastre9_cgwords where surface='que' and langid='eng'
+
+select * from sastre9_cgwords where utterance_id=1244 order by location
 
 
 

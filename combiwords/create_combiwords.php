@@ -23,39 +23,29 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script creates a table to hold n+adj or adj+n entries.  The corpus can be passed in as the first argument, eg php create_mctable.php siarad.
-
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus=$_SERVER['argv'][1];
-$mctable="mc_".$corpus;
-
-drop_existing_table($mctable);
+drop_existing_table(combiwords_mi);
 
 $sql_table = "
-CREATE TABLE $mctable (
+CREATE TABLE combiwords_mi (
     id serial NOT NULL,
-    filename character varying(50),
     utterance_id integer,
     location integer,
-    surface1 character varying(100),
-    surface2 character varying(100),
-    auto1 character varying(250),
-	auto2 character varying(250),
-    langid1 character varying(20),
-    langid2 character varying(20),
-	pos1 character varying(50),
-	pos2 character varying(50),
-	use character varying(20)
+    surface character varying(100),
+    auto character varying(250),
+    gls character varying(250),
+    speaker character varying(10),
+    langid character varying(20),
+	filename character varying(50)
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);
 
 $sql_pkey = "
-ALTER TABLE ONLY ".$mctable." ADD CONSTRAINT ".$mctable."_pk PRIMARY KEY (id);
+ALTER TABLE ONLY combiwords_mi ADD CONSTRAINT combiwords_mi_pk PRIMARY KEY (id);
 ";
 $result_pkey=pg_query($db_handle, $sql_pkey);
-
 
 ?>

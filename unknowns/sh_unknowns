@@ -23,11 +23,16 @@
 #*********************************************************************
 #*/ 
 
-# This script runs import_and_convert on all the files specified in the FILES line
-FILES=inputs/miami/alpha/*.cha
+# This script creates a table ($unknowns) to hold unknown words, and fills it with unknown words tagged as $mylang in each file specified in the FILES line.
+
+FILES=inputs/miami/beta/eng/*.cha
+unknowns=miami_eng_unknowns
+mylang=spa
+
+php unknowns/create_unk_table.php $unknowns
+
 for f in $FILES
 do
 	echo "Processing $f ..."
-	# take action on each file
-	php import_and_convert_es.php $f
+	php unknowns/gather_unknowns.php $f $unknowns $mylang
 done

@@ -69,13 +69,13 @@ while ($row3=pg_fetch_object($result3))
 	{
 		$surface="[- eng] ".$surface;
 		$surface=preg_replace("/@2/", "", $surface);
-		$surface=preg_replace("/@0/", "@s:spa&eng", $surface);
+		$surface=preg_replace("/@0/", "@s:eng&spa", $surface);
 	}
 	else
 	{
 		$surface=preg_replace("/@3/", "", $surface);
 		$surface=preg_replace("/@2/", "@s:eng", $surface);
-		$surface=preg_replace("/@0/", "@s:spa&eng", $surface);
+		$surface=preg_replace("/@0/", "@s:eng&spa", $surface);
 	}
 
 	$speech="*".$row3->speaker.":	".$surface." %snd:\"".$row3->filename."\"_".$row3->durbegin."_".$row3->durend."\n";

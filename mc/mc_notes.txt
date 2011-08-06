@@ -1,0 +1,59 @@
+MC project on adjectives
+========================
+
+select surface1, surface2, pos1, pos2, langid1, langid2, count(surface1) from mc_welsh group by langid1, langid2, pos1, pos2, surface1, surface2 order by langid1, langid2, pos1, pos2, surface1, surface2
+
+select * from mc_welsh where langid1!=langid2 order by pos1, pos2, surface1, surface2
+
+preferable:
+select * from mc_welsh order by langid1, langid2, pos1, pos2, surface1, surface2
+
+select * from (select surface1, surface2, count(*) from mc_n_adj where use is null group by surface1, surface2 order by surface1, surface2) as foo
+
+select sum(count) from (select surface1, surface2, count(*) from mc_n_adj where use is null group by surface1, surface2 order by surface1, surface2) as foo
+
+select * from (select surface1, surface2, count(*) from mc_n_adj where use is null group by surface1, surface2 order by surface1, surface2) as foo where surface1!~'lot' and surface2!~'lot'
+
+select * from (select surface1, surface2, count(*) from mc_n_adj where use is null group by surface1, surface2 order by surface1, surface2) as foo where surface1!~'lot' and surface2!~'lot' and surface2!~'h(y|w|o)nn(a|w|o)'
+
+select langid1||'-'||langid2 as languages, pos1||'-'||pos2 as structure, count(langid1||'-'||langid2) from mc_n_adj_siarad where use is null or use='' group by langid1||'-'||langid2, pos1||'-'||pos2
+
+select langid1||'-'||langid2 as languages, pos1||'-'||pos2 as structure, count(langid1||'-'||langid2) from mc_n_adj_siarad where use='t' group by langid1||'-'||langid2, pos1||'-'||pos2
+
+Method
+------------
+
+In brief: Pick a tag (in this case N), and pull out all instances thereof where the preceding or following word has another tag (in this case ADJ).  Put these into a table.  Scan that table to pick out instances where the bigram meets a particular condition (in this case, different languages).  Put those into another table.  Generate a pdf with the full utterance for each bigram.  Edit the table to mark instances which are invalid.  Regenerate the pdf, which should now contain only valid bigrams.  If desired, run a query to select only the valid bigrams 
+
+The subset of material needs to be specified with most of these scripts.  This means that you can generate a separate run of datafiles on a specific area of the data.
+
+Run php mc/create_mctable.php siarad to create an mc_siarad table, using siarad as the name of the subset.
+
+Edit mc/sh_run_mc to reflect the source of the files, and the corpus.  Then run it.  It will run mc.php over each file, putting the hits into mc_siarad.
+
+Run php mc/mc_filter_mixed to extract mixed-language collocations from the mc_siarad table and put them into an mc_mixed_siarad table.
+
+Run php mc_context.php siarad to use the mc_mixed_siarad table to generate a TeX file.  php mc_text.php siarad does something similar, but generates a plain text file.
+
+Edit the mc_mixed_siarad table, referring to the pdf file as necessary to get context.  "Delete" items by putting something (eg "n") in the use column.  Then rerun mc_context.php to regenerate the pdf, using a clause in the query like: where use =''.
+
+
+
+
+
+select langid1, langid2, count(langid1) from mc_mixed_detnoun group by langid1, langid2
+select surface1, surface2, count(surface2) from mc_mixed_detnoun group by surface1, surface2 order by surface2
+
+select langid1, langid2, count(langid1) from mc_mdetnoun group by langid1, langid2
+select surface1, surface2, count(surface2), langid1, langid2 from mc_mdetnoun where langid1!=langid2 group by langid1, langid2, surface1, surface2 order by langid1, langid2
+
+
+
+select * from mc_mdna_k where langid1!=langid2 or langid1!=langid3 or langid2!=langid3 order by surface1, surface2, surface3
+
+select * from mc_mdna where filename='sastre11' order by id
+
+
+
+
+

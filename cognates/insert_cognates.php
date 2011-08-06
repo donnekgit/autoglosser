@@ -36,10 +36,11 @@ add_column_if_not_exist($words, "cognate");
 
 $sql_clear=query("update $words  set cognate=''");  // Remove previous cognate entries
 
+// For langid!='cym', see email of 8 June 2011 - it prevents "fan" and "pan" being interpreted as English when they are in fact Welsh
 $sql_fill=query("update $words set cognate='t1' where surface in (select cognate from di_cognates) and langid!='cym'");
 
 $sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_n) and langid!='cym'");
 
-// Omit the langid!='cym' clause from the -io verbs line
+// Omit the langid!='cym' clause from the -io verbs line (because they are marked cym)
 
 ?>

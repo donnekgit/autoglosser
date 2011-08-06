@@ -1,14 +1,22 @@
 Changelog
 
+05/08/11
+Generate a word-index for the entire corpus.
+Gather unknown words in inidvidual files.
+Pick trigrams out of the corpus.
+
+18/07/11
+Revise import process to handle Patagonia corpus.
+
 14/07/11
 Revise preparation and import process to handle Miami corpus - easier workflow.
 
 28/06/11
 Fix bugs in mc collocation stuff, and improve workflow (more to be done).
 
-27/6/2011
+27/6/11
 Select and handle noun+adjective collocations.
 
-25/6/2011
+25/6/11
 File prep now fixes typos where no space precedes the period.
 Initial angle bracket no longer eats pre-backtrack words when importing in MOR mode.

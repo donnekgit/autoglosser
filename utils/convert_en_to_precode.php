@@ -41,6 +41,7 @@ if (empty($filename))
 
 //$fp = fopen("clan/chats/".$filename."_m.cha", "w") or die("Can't create the file");  // For glossing with MOR.
 
+// Note that this output file gets moved - adjust the target location at the bottom of this script.
 $fp = fopen("outputs/".$filename."/".$filename.".cha", "w") or die("Can't create the file"); 
 
 // Write out the file header.
@@ -77,7 +78,7 @@ while ($row3=pg_fetch_object($sql3))
 		}
 	}
 	
-	$surface=preg_replace("/@s:eng(?!&spa)/", "", $surface);  // Delete the English tag where it is not part of an indeterminate tag.
+	$surface=preg_replace("/@s:eng(?![&+])/", "", $surface);  // Delete the English tag where it is not part of an indeterminate or + tag.
 	// Required when converting from older @2 taggings, where each word has been tagged.
 	// This works OK because under the conditions above, no utterance will be given a [- spa] precode unless it contains only Spanish words.
 	
@@ -118,6 +119,6 @@ fwrite($fp, "@End\n");
 
 fclose($fp);
 
-exec("mv outputs/$filename/$filename.cha inputs/miami/beta/neweng/$filename.cha");
+exec("mv outputs/$filename/$filename.cha inputs/miami/beta/zeledon6/converted/$filename.cha");
 
 ?>

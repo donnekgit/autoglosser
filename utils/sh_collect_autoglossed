@@ -24,13 +24,16 @@
 #*/ 
 
 # This script collects the autoglossed files specified in the FILES line and copies renamed versions into the collected folder
-FILES=inputs/miami/beta/eng/*.cha
+FILES=inputs/miami/beta/spa/*cha
+#FILES=outputs/siarad_manual/pdfs/*.pdf
+REPO=inputs/miami
 for f in $FILES
 do
 	echo "Processing $f ..."
-	# take action on each file
 	filename=$(basename $f)
 	fixedfile=${filename%.cha}
-	echo $fixedfile
-	cp outputs/$fixedfile/${fixedfile}_autoglossed.txt collected/$filename
+	#cp inputs/miami/spa/${fixedfile}.pdf inputs/miami/spa/pdfs/
+	cp outputs/$fixedfile/${fixedfile}.pdf $REPO/pdfs
+	#cp inputs/miami/spa/${fixedfile}.cha inputs/miami/spa/chats/${fixedfile}.txt
+	#mv outputs/siarad_manual/pdfs/$filename outputs/siarad_manual/pdfs/pdfs/
 done

@@ -69,7 +69,8 @@ while ($row1=pg_fetch_object($result1))
 		echo $j.": ".$clause."\n";
 		unset($clause);
 		//echo $auto."\n";
-		if (preg_match("/\.V\.(?!INFIN)/", $auto)) // if there is a verb in the previous chunk, increment the clause number; if not, don't
+		//if (preg_match("/\.V\.(?!INFIN)/", $auto)) // if there is a finite verb in the previous chunk, increment the clause number; if not, don't
+		if (preg_match("/\.V\.?/", $auto)) // if there is a verb in the previous chunk, increment the clause number; if not, don't
 		{
 			$j++;
 		}

@@ -2,13 +2,13 @@
 export PGPASSWORD=kevindbs
 psql="psql -h localhost -U kevin -d autoglosser"
 
-FILES=inputs/patagonia/beta/*.cha
+FILES=inputs/miami/beta/spa/*.cha
 for f in $FILES
 do
 	filename=$(basename $f)  # the filename from the path - file.cha
 	fixedfile=${filename%.cha}_cgwords  # switch the filename's extension to _cgwords for the output file - file_cgwords
 	echo "Processing $fixedfile ..."
-	$psql --c "insert into combiwords_pat(utterance_id, location, surface, auto, speaker, langid, filename) select utterance_id, location, surface, auto, speaker, langid, filename from $fixedfile"
+	$psql --c "insert into combiwords_mi(utterance_id, location, surface, auto, speaker, langid, filename) select utterance_id, location, surface, auto, speaker, langid, filename from $fixedfile"
 done
 
 export PGPASSWORD=

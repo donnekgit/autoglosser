@@ -32,12 +32,6 @@ The output file will need the headers added manually, and the languages need to 
 @Languages:	spa, eng
 */
 
-/*
-TODO
-Ensure that the language entries in the header file are changed: @Languages, @ID, and @Comment:Language markers.
-Adjust the regx to cover instances where @s:en/es is directly followed by a period (ie, a typo, it should be "@s:en .")
-*/
-
 if (empty($filename))
 {
 	include("includes/fns.php");
@@ -74,18 +68,23 @@ while ($row3=pg_fetch_object($sql3))
 	
 	if (count($langs)>0)  // If there is at least one langid (ie word) in the utterance ...
 	{
-		if (!$langs[spa])  // ... where there are no Spanish words ...
+		if (!$langs[cym])  // ... where there are no Welsh words ...
 		{
-			if (!$langs[eng_spa] and count($langs[eng])>0)  // ... and there is at least one word that is English and there are no indeterminates
+			if (!$langs[cym_eng] and !$langs[cym_spa] and !$langs[spa] and count($langs[eng])>0)  // ... and there are no indeterminate or Spanish words and there is at least one word that is English ... 
 			{
 				$surface="[- eng] ".$surface;  // Add an English  precode to the surface line of the utterances table.
-				$surface=preg_replace("/@s:eng(?!&spa)/", "", $surface);  // Delete the English tag where it is not part of an indeterminate tag.
+				$surface=preg_replace("/@s:eng(?!&(cym|spa))/", "", $surface);  // Delete the English tag where it is not part of an indeterminate tag.
+			}
+			elseif (!$langs[cym_spa] and !$langs[cym_eng] and !$langs[eng] and count($langs[spa])>0)  // ... and there are no indeterminate or English words and there is at least one word that is Spanish ... 
+			{
+				$surface="[- spa] ".$surface;  // Add a Spanish  precode to the surface line of the utterances table.
+				$surface=preg_replace("/@s:spa/", "", $surface);  // Delete the Spanish tag where it is not part of an indeterminate tag.
 			}
 		}
 	}
 	
-	$surface=preg_replace("/@s:spa(?![&+])/", "", $surface);  // Delete the Spanish tag where it is not part of an indeterminate tag.
-	// Required when converting from older @3 taggings, where each word has been tagged.
+	$surface=preg_replace("/@s:eng(?![&+])/", "", $surface);  // Delete the English tag where it is not part of an indeterminate tag.
+	// Required when converting from older @2 taggings, where each word has been tagged.
 	// This works OK because under the conditions above, no utterance will be given a [- spa] precode unless it contains only Spanish words.
 	
 	$speech="*".$row3->speaker.":\t".$surface." %snd:\"".$row3->filename."\"_".$row3->durbegin."_".$row3->durend."\n";
@@ -125,6 +124,6 @@ fwrite($fp, "@End\n");
 
 fclose($fp);
 
-exec("mv outputs/$filename/$filename.cha inputs/miami/beta/$filename.cha");
+exec("mv outputs/$filename/$filename.cha inputs/patagonia/beta/redone/$filename.cha");
 
 ?>

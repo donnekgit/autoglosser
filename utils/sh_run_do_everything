@@ -24,8 +24,9 @@
 #*/ 
 
 # This script runs import_and_convert on all the files specified in the FILES line
-FILES=inputs/miami/beta/neweng/*.cha
-REPO=inputs/miami/
+FILES=inputs/patagonia/beta/redone/*.cha
+#FILES=inputs/miami/beta/eng/zeledon6.cha
+REPO=inputs/patagonia/new
 for f in $FILES
 do
 	echo "Processing $f ..."
@@ -33,5 +34,5 @@ do
 	filename=$(basename $f)
 	fixedfile=${filename%.cha}
 	cp outputs/$fixedfile/${fixedfile}_autoglossed.txt $REPO/$filename
-	cp outputs/$fixedfile/${fixedfile}.pdf $REPO/
+	cp outputs/$fixedfile/${fixedfile}.pdf $REPO/pdfs/
 done

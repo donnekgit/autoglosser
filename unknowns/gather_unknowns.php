@@ -21,26 +21,25 @@ You should have received a copy of the GNU General Public License
 and the GNU Affero General Public License along with this program.
 If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
-*/ 
+*/
+
+// This script collects unknown words in a specific language  from a file and puts them into the specified table.  Run as: php utils/gather_unknowns.php <file> <table> <language>
+
+$unknowns=$_SERVER['argv'][2];
+$mylang=$_SERVER['argv'][3];
 
 if (empty($filename))
 {
-    include("includes/fns.php");
-    include("/opt/autoglosser/config.php");
-    list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+	include("includes/fns.php");
+	include("/opt/autoglosser/config.php");
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-// Convert 2,3 or en, es tags to eng, spa tags
-include("utils/convert_multi.php");
+$sql_fill="insert into $unknowns (surface, filename) select surface, filename from $words where auto='unk' and langid='$mylang' group by surface, filename order by surface";  // Retrieve unknowns from each file
 
-echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
-include("cgimport.php");
+$result_fill=pg_query($db_handle, $sql_fill);
 
-echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
-include("rewrite_utterances.php");
-
-//include("utils/convert_es_to_precode.php");  // Miami: predominantly Spanish conversations
-//include("utils/convert_en_to_precode.php");  // Miami: predominantly English conversations
-include("utils/convert_cym_to_precode.php");  // Patagonia: predominantly Welsh conversations
+$sql_unique=query("create table ".$unknowns."_uniq as select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra from $unknowns group by surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra order by surface");
+// Create a new table with unique entries only
 
 ?>

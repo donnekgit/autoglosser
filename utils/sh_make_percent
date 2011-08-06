@@ -23,11 +23,39 @@
 #*********************************************************************
 #*/ 
 
-# This script runs import_and_convert on all the files specified in the FILES line
-FILES=inputs/siarad/alpha/*.cha
+# This script finds the percentage of a particular language in each file in a directory.
+FILES=inputs/miami/beta/spa/*.cha
+#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
 for f in $FILES
 do
 	echo "Processing $f ..."
 	# take action on each file
-	php import_and_convert_cy.php $f
+	php utils/make_percent_table.php $f
 done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

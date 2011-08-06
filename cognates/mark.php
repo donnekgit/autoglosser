@@ -40,7 +40,8 @@ $sql_mark=query("update $words set clause='c' where langid='spa' and surface~'^(
 
 $sql_mark=query("update $words set clause='c' where langid='eng' and auto~'PRON.SUB'");  // Put a clause-marker against subject pronouns in English
 
-$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.(?!INFIN)'");  // Put a clause-marker against verb entries in Welsh provided they are not infinitives
+//$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.(?!INFIN)'");  // Put a clause-marker against verb entries in Welsh provided they are not infinitives
 
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.?'");  // Put a clause-marker against verb entries in Welsh, including infinitives
 
 ?>

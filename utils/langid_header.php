@@ -30,9 +30,6 @@ if (empty($filename))
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-// Set up the two languages to be counted as indeterminate
-$indeter="eng&spa";
-
 $fp = fopen("outputs/$filename/$filename.header", "w") or die("Can't create the file");
 
 $lines=file("$chafile");  // Open the chat file.
@@ -44,6 +41,7 @@ foreach ($lines as $line)
 		if (preg_match("/@(Languages|ID)/", $line))
 		{
 			// Change the language tags - without this change, CLAN apps such as freq will not work properly
+			$line=preg_replace("/cy, ?es, ?en/", "cym, spa, eng", $line);  
 			$line=preg_replace("/es, ?en/", "spa, eng", $line);  
 			$line=preg_replace("/en, ?es/", "eng, spa", $line);  
 		}
@@ -54,6 +52,8 @@ foreach ($lines as $line)
 		elseif (preg_match("/@Comment/", $line))  // Replace all language tags that do not correspond to the default 3-letter tags
 		{
 			$line=update_langids($line);
+			$line=preg_replace("/\.CHA/", ".cha", $line);  
+			$line=preg_replace("/\.WAV/", ".wav", $line);  
 		}
 		else
 		{

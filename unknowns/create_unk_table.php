@@ -23,24 +23,35 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
+$unknowns=$_SERVER['argv'][1];
+
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-// Generate default names from the filepath given
-list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+drop_existing_table($unknowns);
+//echo $utterances."<br/>";
 
-// Convert en, es tags to eng, spa tags
-//exec("utils/sed_convert_es ".$chafile);
-include("utils/convert_multi.php");
+$sql_table = "
+CREATE TABLE $unknowns (
+    id serial NOT NULL,
+    surface character varying(100),
+    lemma character varying(100),
+    enlemma character varying(100),
+    clar character varying(100),
+    pos character varying(50),
+    gender character varying(20),
+    number character varying(20),
+    tense character varying(50),
+    notes character varying(50),
+    extra character varying(100),
+    filename character varying(50)
+);
+";
+$result_table=pg_query($db_handle, $sql_table);
 
-echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
-include("cgimport.php");
-
-echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
-include("rewrite_utterances.php");
-
-//include("utils/convert_es_to_precode.php");  // Miami: predominantly Spanish conversations
-//include("utils/convert_en_to_precode.php");  // Miami: predominantly English conversations
-include("utils/convert_cym_to_precode.php");  // Patagonia: predominantly English conversations
+$sql_pkey = "
+ALTER TABLE ONLY ".$unknowns." ADD CONSTRAINT ".$unknowns."_pk PRIMARY KEY (id);
+";
+$result_pkey=pg_query($db_handle, $sql_pkey);
 
 ?>

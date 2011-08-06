@@ -67,13 +67,15 @@ while ($row0=pg_fetch_object($result0))
 			echo "Deleting $utt,$loc[0]\n";
 		}
 		
-		// Infinitives after auxiliary or modal verbs
+		/*
+		// Infinitives after auxiliary or modal verbs - uncomment this section for MLF analysis, where only finite verbs are required
 		// Removed "&& $span<5" because infinitives are not required for Oslo paper
 		if (preg_match("/INFIN/", $a0) && preg_match("/(be|which_is|be_able|do|like|have_to)\./", $prev_a))
 		{
 			$d2_da=query("update $words set clause=clause || '+d2' where utterance_id=$utt and location=$loc[0]");
 			echo "Deleting $utt,$loc[0]\n";
 		}
+		*/
 		
 		// Infinitives following a noun
 		if (preg_match("/\.N\./", $a1) && preg_match("/INFIN/", $a0))

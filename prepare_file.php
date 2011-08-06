@@ -30,11 +30,15 @@ if (empty($filename))
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-// Straighten out lines in the file
+// Straighten out lines in the file.
 exec("utils/sed_joinlines ".$chafile);
+// Edits file in-place.
 
+// Snip out and update the file header
 include("utils/langid_header.php");
 
-echo "REMEMBER TO CHANGE THE LANGUAGE SETTINGS!\n";
+// Convert tags, do an initial import, and convert to precode format - see the script for more details.
+// Comment out if no conversion is required.
+include("import_and_convert.php");
 
 ?>

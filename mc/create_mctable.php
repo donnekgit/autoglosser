@@ -23,24 +23,40 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
+// This script creates a table to hold 2- or 3-character sequences.  A name for the subset of material can be passed in as the first argument, eg php create_mctable.php <subset>.
+
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-// Generate default names from the filepath given
-list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+$subset=$_SERVER['argv'][1];
+$mctable="mc_".$subset;
 
-// Convert en, es tags to eng, spa tags
-//exec("utils/sed_convert_es ".$chafile);
-include("utils/convert_multi.php");
+drop_existing_table($mctable);
 
-echo "*\n*\nImporting $filename into $utterances\n*\n*\n";
-include("cgimport.php");
+$sql_table = "
+CREATE TABLE $mctable (
+    id serial NOT NULL,
+    filename character varying(50),
+    utterance_id integer,
+    location integer,
+    surface1 character varying(100),
+    surface2 character varying(100),
+    surface3 character varying(100),
+    auto1 character varying(250),
+	auto2 character varying(250),
+	auto3 character varying(250),
+    langid1 character varying(20),
+    langid2 character varying(20),
+    langid3 character varying(20),
+	use character varying(20)
+);
+";
+$result_table=pg_query($db_handle, $sql_table);
 
-echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
-include("rewrite_utterances.php");
+$sql_pkey = "
+ALTER TABLE ONLY ".$mctable." ADD CONSTRAINT ".$mctable."_pk PRIMARY KEY (id);
+";
+$result_pkey=pg_query($db_handle, $sql_pkey);
 
-//include("utils/convert_es_to_precode.php");  // Miami: predominantly Spanish conversations
-//include("utils/convert_en_to_precode.php");  // Miami: predominantly English conversations
-include("utils/convert_cym_to_precode.php");  // Patagonia: predominantly English conversations
 
 ?>
