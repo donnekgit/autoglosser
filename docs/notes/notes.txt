@@ -11,13 +11,28 @@ fns.php, line 739 (update_langids) - set indeterminate language
 fns.php, line 739 (update_langids) - also set secondary language denoted by @s - IMPORTANT!!!
 (Deprecated - utils/sed_convert_es - set secondary language, @s)
 import_and_convert.php - uncomment the appropriate conversion script
+convert_xx_to_precode.php - change the output location at the end of the script
 
 MOR:
 fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
 
 
+Possible alternative import of the surface line
+============================
+
+Split surface at spaces
+For each inter-space item
+	if it occurs in a table of non-word items, insert into the table and set an item-type field to nw
+	if not, insert into the table and set an item-type field to w
+Add language tags only where item-type=w
+Add the item again in a cleaned form (eg without brackets)
+When adding glosses, split at spaces
+	if the location to which the item will be saved has item-type=nw, increment the location number - repeat as necessary
+
+
 List words that do not have gloss entries:
-========================
+==========================
+
 select welsh, count(welsh) from stammers4_cgwords where gloss is null group by welsh order by count desc
 but this is not accurate, because manual glosses have been added - this doesn't mean that the items are in cylist
 

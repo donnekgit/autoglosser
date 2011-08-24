@@ -1,0 +1,69 @@
+#!/bin/sh
+
+#/* 
+#*********************************************************************
+#Copyright Kevin Donnelly 2010, 2011.
+#kevindonnelly.org.uk
+#This file is part of the Bangor Autoglosser.
+#
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License and the GNU
+#Affero General Public License as published by the Free Software
+#Foundation, either version 3 of the License, or (at your option)
+#any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#and the GNU Affero General Public License along with this program.
+#If not, see <http://www.gnu.org/licenses/>.
+#*********************************************************************
+#*/ 
+
+# This script fixes instances of cy, es in the file headers that were not handled properly by an earlier iteration of langid_header.php.
+FILES=inputs/patagonia/beta/*.cha
+#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
+for f in $FILES
+do
+	echo "Processing $f ..."
+	### on the chatfiles themselves
+	# take action on each file
+	#sed -i 's/@ID:\o011cy, es/@ID:\o011cym, spa/g' $f
+	# 011 is the octal (\o) representation of a tab; 0x09 is an alternative in hex.  But the following is perhaps an easier alternative:
+	#sed -i 's/^\(@ID:[[:space:]]\)cy, es/\1cym, spa/g' $f
+	### on the header files in the output folder
+	filename=$(basename $f)  # the filename from the path - file.cha
+	header=outputs/${filename%.cha}/${filename%.cha}.header  # the header file for that chat file
+	echo $header
+	sed -i 's/^\(@ID:[[:space:]]\)cy, es/\1cym, spa/g' $header
+done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

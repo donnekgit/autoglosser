@@ -1,0 +1,217 @@
+\documentclass[a4paper, twocolumn, 11pt, twoside]{article}
+\usepackage{linguamatica}
+
+%% Para português (UTF-8)
+\usepackage{fullname_pt}
+%% Para português (Latin1)
+%%%% \usepackage{fullname_lt1_pt}
+%% Para espanhol 
+%%%% \usepackage{fullname_es}
+%% Para inglês
+%%%% \usepackage{fullname_en}
+
+\usepackage[portuges]{babel} %% or \usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}  %% or \usepackage[latin1]{inputenc}
+
+\title{Exemplo de uso do estilo Linguamática}
+
+\author{
+  Alberto Simões\\
+  Universidade do Minho\\
+  \email{ambs@di.uminho.pt} 
+  \and 
+  Xavier Gomez Guinovart\\
+  Universidade de Vigo\\
+  \email{xgg@uvigo.es}
+}
+
+\date{}
+
+\begin{document}
+
+\twocolumn[
+  \begin{@twocolumnfalse}
+    \maketitle
+
+    %% Add your abstract here...
+    \begin{abstract}
+      Este é um documento exemplo do estilo que os artigos submetidos à
+      revista Linguamática devem seguir. É um estilo de duas colunas que
+      permite aproveitar devidamente o papel europeu de tamanho A4.
+      
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+      enim ad minim veniam, quis nostrud exercitation ullamco laboris
+      nisi ut aliquip ex ea commodo consequat.
+    \end{abstract}
+  \end{@twocolumnfalse}
+  \vskip 5mm
+  ]
+\thispagestyle{empty}
+
+
+%% Start your document here.
+\section{Introdução}
+
+Este é o estilo usado pelos artigos da revista Linguamática. O estilo
+pode ser usado em \LaTeX \cite{latexcompanion}, Microsoft Word ou
+OpenOffice.org.
+
+\subsection{Línguas}
+
+O artigo deve ser escrito numa das seguintes línguas:
+\begin{itemize}
+  \item português;
+  \item galego;
+  \item catalão;
+  \item castelhano;
+\end{itemize}
+
+\subsection{Subsecção II}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+\subsection{Subsecção III}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+\section{Fórmulas Matemáticas}
+
+Sugere-se que as fórmulas matemáticas sejam devidamente numeradas para
+que se possam referir posteriormente.
+
+\begin{equation}
+  \label{media}
+  \bar{x} = \frac{\sum_{i=1}^n x_i}{n}
+\end{equation}
+
+E agora é possível comentar devidamente a fórmula~\ref{media}.
+
+\section{Tabelas e Figuras}
+
+As tabelas e figuras devem ser devidamente numeradas, e devem ter uma legenda.
+Caso a tabela ou figura não caiba numa única coluna é possível obrigar o \LaTeX{} 
+a ocupar a largura da página com o ambiente \verb!table*! e \verb!figure*! respectivamente.
+
+\begin{table}
+  \centering
+  \begin{tabular}{|c|ccccc|}
+    \hline
+    $\times$ & 1 & 2 & 3 & 4 & 5 \\
+    \hline
+     1 & 1 & 2 & 3 & 4 & 5 \\
+     2 & 2 & 4 & 6 & 8 & 10 \\
+     3 & 3 & 6 & 9 & 12 & 15 \\
+     4 & 4 & 8 & 12 & 14 & 20 \\
+     5 & 5 & 10 & 15 & 20 & 25 \\
+     \hline
+  \end{tabular}
+  \caption{Tabela multiplicativa.}
+\end{table}
+
+\section{Lorem Ipsum}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+\subsection{Lorem 1}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+\subsection{Lorem 2}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+\section{Conclusões}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+mollit anim id est laborum.
+
+\section*{Agradecimentos}
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat.
+
+%% Para português (UTF-8)
+\bibliographystyle{fullname_pt}
+
+%% Para português (Latin 1)
+%% \bibliographystyle{fullname_lt1_pt}
+
+%% Para espanhol
+%% \bibliographystyle{fullname_es}
+
+%% Para inglês
+%% \bibliographystyle{fullname_en}
+
+\bibliography{sample.bib}
+\end{document}
+

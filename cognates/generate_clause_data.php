@@ -58,10 +58,22 @@ $p='';  // Language of the last nonT in the previous clause - passed in on each 
 $sql1=query("select utterance_id from $words group by utterance_id order by utterance_id");
 while ($row1=pg_fetch_object($sql1))
 {
-	$sql2=query("select clauseno from $words where utterance_id=$row1->utterance_id group by clauseno order by clauseno");
+	$utt=$row1->utterance_id;
+	
+	$sql_s=query("select * from $utterances where utterance_id=$utt");
+	while ($row_s=pg_fetch_object($sql_s))
+	{
+		$sep1="\\rule{\linewidth}{0.1mm} & \\rule{\linewidth}{0.1mm} \\\\ \n";
+		fwrite($fp, $sep1);
+		$wthisutt=$row_s->speaker." (".$utt."): & \\textbf{".lg_superscript(tex_surface($row_s->surface))."} \\\\ \n";
+		fwrite($fp, $wthisutt);
+		$wthiseng=" & ".tex_surface($row_s->eng)." \\\\ \n";
+		fwrite($fp, $wthiseng);
+	}
+		
+	$sql2=query("select clauseno from $words where utterance_id=$utt group by clauseno order by clauseno");
 	while ($row2=pg_fetch_object($sql2))
 	{
-		$utt=$row1->utterance_id;
 		$clauseno=$row2->clauseno;
 		
 		$sql3=query("select * from $words where utterance_id=$utt and clauseno=$clauseno and langid!='999' order by location");
@@ -86,7 +98,7 @@ while ($row1=pg_fetch_object($sql1))
 			{
 				$row3->surface=$row3->surface."$^{I}$";
 			}
-		
+
 			$clause.=$row3->surface." ";  // Generate the clause.
 			$auto.=$row3->auto." ";  // Generate the gloss.
 			$speaker=$row3->speaker;
@@ -180,11 +192,13 @@ while ($row1=pg_fetch_object($sql1))
 		
 		$ann=preg_replace("/, }$/", "}", $ann);
 		
-		$sep=" & \\rule{\linewidth}{0.1mm} \\\\ \n";
+		//$sep=" & \\rule{\linewidth}{0.1mm} \\\\ \n";
+		$sep=" & \\hdashrule[0.5ex]{\linewidth}{1pt}{3mm} \\\\ \n";
 		fwrite($fp, $sep);
 		
 		echo $speaker." (".$utt.", ".$clauseno."): ".$clause."\n";
-		$wspk=$speaker." (".$utt.", ".$clauseno."): \\newline\n";
+		//$wspk=$speaker." (".$utt.", ".$clauseno."): \\newline\n";
+		$wspk=$clauseno.": \\newline\n";
 		$wann="{\scriptsize ".$ann."} & ";
 		$wnotes=$wspk.$wann;
 		fwrite($fp, $wnotes);

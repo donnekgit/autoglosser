@@ -88,7 +88,7 @@ while ($row3=pg_fetch_object($sql3))
 	// Required when converting from older @3 taggings, where each word has been tagged.
 	// This works OK because under the conditions above, no utterance will be given a [- spa] precode unless it contains only Spanish words.
 	
-	$speech="*".$row3->speaker.":\t".$surface." %snd:\"".$row3->filename."\"_".$row3->durbegin."_".$row3->durend."\n";
+	$speech="*".$row3->speaker.":\t".$surface." ".$row3->durbegin."_".$row3->durend."\n";
 	fwrite($fp, $speech);
 	
 	// We should be using the scantiers file to add in any subtiers, on the following pattern:
@@ -125,6 +125,6 @@ fwrite($fp, "@End\n");
 
 fclose($fp);
 
-exec("mv outputs/$filename/$filename.cha inputs/miami/beta/$filename.cha");
+exec("mv outputs/$filename/$filename.cha inputs/mar/beta/$filename.cha");
 
 ?>

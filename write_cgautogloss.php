@@ -56,9 +56,12 @@ while ($row_s=pg_fetch_object($result_s))
     //$speech="(".$u."a) *".$row_s->speaker.": ".$row_u->mainlang."\n";
 	$precode=$row_s->precode;
 	$precode=($precode=='') ? "": "[- ".$precode."] ";
-    $speech="*".$row_s->speaker.":\t".$precode.$row_s->surface." %snd:\"".$row_s->filename."\"_".$row_s->durbegin."_".$row_s->durend."\n";
+    //$speech="*".$row_s->speaker.":\t".$precode.$row_s->surface." %snd:\"".$row_s->filename."\"_".$row_s->durbegin."_".$row_s->durend."\n";  // This older format for the sound-bullets is now deprecated.
+    $speech="*".$row_s->speaker.":\t".$precode.$row_s->surface." ".$row_s->durbegin."_".$row_s->durend."\n";
     fwrite($fp, $speech);
 
+
+	// Comment this section out if you want to write out a file directly from the utterances table
 	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
     while ($row_w=pg_fetch_object($result_w))
@@ -67,6 +70,8 @@ while ($row_s=pg_fetch_object($result_s))
     }
     $auto="%aut:\t".preg_replace('/ $/','',$auto)."\n";
     fwrite($fp, $auto);
+	// End of section to be cvommented out.
+
 
     // We should be using the scantiers file to add in any subtiers, on the following pattern:
     if (isset($row_s->gls))

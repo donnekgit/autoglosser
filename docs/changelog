@@ -1,8 +1,13 @@
 Changelog
 
+24/08/11
+Add empty %eng tier.
+Make global changes to all files in the corpus.
+Adjust import to allow for CLAN end-terminators like +/., +..., etc.
+
 05/08/11
 Generate a word-index for the entire corpus.
-Gather unknown words in inidvidual files.
+Gather unknown words in individual files.
 Pick trigrams out of the corpus.
 
 18/07/11

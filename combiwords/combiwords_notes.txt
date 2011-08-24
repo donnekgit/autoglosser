@@ -1,0 +1,55 @@
+Creating indexes of all words in a corpus
+==========================
+
+Edit and run crate_combiwords.php, to create the holding table.
+
+Edit and run sh_fill_combiwords, to fill the table.
+
+create table combiwords_siar_uniq as select langid, surface, auto, count(surface) from combiwords_siar where langid!=999 group by langid, surface, auto order by langid, surface, auto
+(now added to sh_fill_combiwords)
+
+alter table combiwords_siar_uniq add column filename text
+(now added to sh_fill_combiwords)
+
+Edit and run unknowns/add_filename.php to add the filename of each entry to the filename column.   This is quite slow.
+
+Export the resulting table to csv.
+
+Open in oocalc and format page to landscape.
+Datasort on langid and surface.
+Set cell format to wordwrap, left-align, top.
+Export as PDF.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

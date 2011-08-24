@@ -90,6 +90,13 @@ select utterance_id from sastre9_cgwords where surface='que' and langid='eng'
 select * from sastre9_cgwords where utterance_id=1244 order by location
 
 
+tasa    (should be "tasai")
+tysa    (should be "tasai")
+tyswn    (should be "taswn")
+falle    (should be "(e)fallai")
+iddych    (should be "iddoch")
+rhwngtha    (should be "rhyngddo")
+o'n    (should be "o(eddw)n"
 
 
 

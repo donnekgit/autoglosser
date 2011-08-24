@@ -30,8 +30,8 @@ include("/opt/autoglosser/config.php");
 
 //$source_table="miami_spa_unknowns";
 //$uniq="miami_unk";
-$source_table="combiwords_pat";
-$uniq="combiwords_pat_uniq";
+$source_table="combiwords_mi";
+$uniq="combiwords_mi_uniq";
 $filelist=array();
 
 $sql="select * from $uniq order by surface";
@@ -44,8 +44,8 @@ while ($row=pg_fetch_object($result))
 	$result_f=pg_query($db_handle,$sql_f) or die("Can't get the items");
 	while ($row_f=pg_fetch_object($result_f))
 	{
-		$file=preg_replace("/patagonia/", "", $row_f->filename);  // Remove identical prefix from each filename.
-		//$file=$row_f->filename;
+		//$file=preg_replace("/patagonia/", "", $row_f->filename);  // Remove identical prefix from each filename.
+		$file=$row_f->filename;
         $filelist[]=$file;  // Add the filename to an array.
      }
 	$filelist=array_unique($filelist);  // Discard filename duplicates.

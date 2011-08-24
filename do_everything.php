@@ -64,6 +64,6 @@ echo "*\n*\nWriting a TeX file for $filename\n*\n*\n";
 include("tex/generate_expex.php");
 
 echo "*\n*\nGenerating a pdf for $filename\n*\n*\n";
-//exec("pdflatex -output-directory=outputs/$filename outputs/$filename/$filename.tex");
+exec("pdflatex -output-directory=outputs/$filename outputs/$filename/$filename.tex");
 
 ?>

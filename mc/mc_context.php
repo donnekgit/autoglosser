@@ -32,7 +32,7 @@ $mcout="mc_mixed_".$subset;
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
     
-$fp = fopen("mc/mc_output/$mcout.no_indeterminates.tex", "w") or die("Can't create the file");
+$fp = fopen("mc/mc_output/$mcout.tex", "w") or die("Can't create the file");
 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
@@ -40,7 +40,7 @@ foreach ($lines as $line)
 	if (preg_match("/filename.cha/", $line))
 	{
 		//$line=preg_replace("/filename.cha/", "Mixed-language noun+adjective phrases in ".ucfirst($corpus), $line);
-		$line=preg_replace("/filename.cha/", "Mixed-language DNA phrases (no indeterminates)", $line);
+		$line=preg_replace("/filename.cha/", "Mixed-language DNA phrases", $line);
 	}
 	else
 	{

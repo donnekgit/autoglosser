@@ -32,13 +32,17 @@ if (empty($filename))
 
 // Straighten out lines in the file.
 exec("utils/sed_joinlines ".$chafile);
-// Edits file in-place.
+// Edits file in-place - ie it overwrites the original.  Work on a copy of the original.
 
-// Snip out and update the file header
+// Snip out the file header
+exec("utils/sed_get_header ".$chafile);
+
+// Update the file header
 include("utils/langid_header.php");
 
 // Convert tags, do an initial import, and convert to precode format - see the script for more details.
 // Comment out if no conversion is required.
 include("import_and_convert.php");
+// This script runs some other scripts, so check that its settings are OK.
 
 ?>

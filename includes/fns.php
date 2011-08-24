@@ -30,8 +30,8 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "spa&eng", "eng&spa", "cym&eng", "cym&spa");
-$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
-$enlg=array("2", "en", "en+es", "en+cy", "eng");
+$cylg=array("1", "cy", "cy+en", "cy+es", "cym");
+$enlg=array("2", "en", "en+es", "en+cy", "eng", "");
 $eslg=array("3", "es", "es+en", "es+cy", "spa", "s");
 
 // Set up the grammar file here.
@@ -163,12 +163,28 @@ function tier_fields($filename, $format)
 
 function fix_punctuation($text)
 // Sort out punctuation
+// WRONG!!  The unspaced versions are standard CHAT end-markers, so they should not be "corrected".
+// Retained here for reference.  These regexes are defective, in that the first four are not limited to post-+ sequences.  The first, for instance, will affect line internal ellipsis in the translation tier if it is not confined to the surface tier.
 {
 	$text=preg_replace("/(\.+)\.(\s)/", "$1 .$2", $text);  // split period from +...
-	$text=preg_replace("/(\.+)\?(\s)/", "$1 .$2", $text);  // split qmark from +..?
+	$text=preg_replace("/(\.+)\?(\s)/", "$1 ?$2", $text);  // split qmark from +..?
 	$text=preg_replace("/(\/?\/)\./", "$1 .", $text);  // split period from +/. and  +"/. and +//.
 	$text=preg_replace("/(\")\./", "$1 .", $text);  // split period from +".
 	$text=preg_replace("/(\+\!)\?/", "$1 ?", $text);  // split qmark from +!?
+	return $text;
+}
+
+function revert_punctuation($text)
+// Revert mistaken punctuation corrections.
+{
+	$text=preg_replace("/\+\.\. \.( )/", "+...$1", $text);  // fix +...
+	$text=preg_replace("/\+\.\. \?( )/", "+..?$1", $text);  // fix +..?
+	$text=preg_replace("/\+\/ \.( )/", "+/.$1", $text);  // fix +/.
+	$text=preg_replace("/\+\/\/ \.( )/", "+//.$1", $text);  // fix +//.
+	$text=preg_replace("/\+\"\/ \.( )/", "+\"/.$1", $text);  // fix +"/.
+	$text=preg_replace("/\+\" \.( )/", "+\".$1", $text);  // fix +".
+	$text=preg_replace("/\+\! \?( )/", "+!?$1", $text);  // fix +!?
+	$text=preg_replace("/\.\. \. /", "... ", $text);  // fix ...
 	return $text;
 }
 
@@ -214,9 +230,9 @@ function lineclean_surface($text)
 	$text=preg_replace("/([a-z]{2,3})%([a-z]{2,3})/", "$1+$2", $text);  // Move language tags containing + back again.
 	$text=preg_replace("/([a-z]{2,3})%%([a-z]{2,3})/", "$1&$2", $text);  // Move language tags containing & back again.
 
-    $text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this
-    $text=preg_replace("/xxx xxx/u", " ", $text);  // the regex below misses this
-    $text=preg_replace("/(^| )x{1,3}( |$)/u", " ", $text); // x, xx, xxx
+    //$text=preg_replace("/xx xx/u", " ", $text);  // the regex below misses this
+    //$text=preg_replace("/xxx xxx/u", " ", $text);  // the regex below misses this
+    $text=preg_replace("/(?:^| )x{1,3}(?: |$)/u", " ", $text); // x, xx, xxx
     $text=preg_replace("/(^| )w{1,3}( |$)/u", " ", $text); // w, ww, www - marking text that is untranscribed because the speaker did not give consent.
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
@@ -733,11 +749,11 @@ function collapse_me($text)
 
 function lg_superscript($text)
 {
-	$text=preg_replace("/@s:eng(?!&)/","$^{E}$", $text);
+	$text=preg_replace("/@s:eng(?![\\\&+])/","$^{E}$", $text);  // Need to allow for tex_surface() converting & to \&
 	$text=preg_replace("/@s:spa/","$^{S}$", $text);
-	$text=preg_replace("/@s:cym\\\\&eng/","$^{C}_{E}$", $text);
-	$text=preg_replace("/@s:eng\\\\&spa/","$^{S}_{E}$", $text);
-	$text=preg_replace("/@s:cym\\\\&spa/","$^{C}_{S}$", $text);
+	$text=preg_replace("/@s:cym\\\&eng/","$^{C}_{E}$", $text);
+	$text=preg_replace("/@s:eng\\\&spa/","$^{S}_{E}$", $text);
+	$text=preg_replace("/@s:cym\\\&spa/","$^{C}_{S}$", $text);
 	$text=preg_replace("/@s:spa+cym/","$^{S+}_{C}$", $text);
 	$text=preg_replace("/@s:eng+cym/","$^{E+}_{C}$", $text);
 	return $text;
@@ -747,9 +763,9 @@ function lg_superscript($text)
 function update_langids($line)
 {
 	// Set up the two languages to be counted as indeterminate
-	$indeter="cym&spa";
+	$indeter="eng&spa";
 	// IMPORTANT!!! Set the secondary language here if @s only is being used
-	$line=preg_replace("/@s([^:])/", "@s:spa$1", $line);  
+	$line=preg_replace("/@s([^:])/", "@s:eng$1", $line);  
 	// Replace all language tags that do not correspond to the default 3-letter tags
 	$line=preg_replace("/@0(?![123])/", "@s:$indeter", $line);
 	$line=preg_replace("/@1(?![23])/", "@s:cym", $line);

@@ -59,7 +59,7 @@ The conversations total some 80 hours and 750,000 words, and are all available u
 
 Part of a typical transcription is shown in Figure \ref{chat_file1}, in which (using CLAN terminology) three ``tiers'' can be discerned: the speech tier, the gloss tier, and the translation tier.
 
-The speech tier (the words actually uttered) is marked by an initial ID to distinguish the speaker (e.g. \textit{*SER}), followed by the transcribed speech (with each word tagged for language\footnote{The autoglosser handles 4 marking systems, which reflect changes in transcription practice in the ESRC Centre over the past 5 years, and developments in CLAN itself.} -- unmarked for Welsh, \textit{@s:eng} for English, \textit{@s:cym\&eng} for indeterminate\footnote{Words which are used in both languages, and which therefore cannot be assigned unambiguously to one of them.}), and a tag (\textit{\%snd}) giving the time-location of the utterance in the audiofile.
+The speech tier (the words actually uttered) is marked by an initial ID to distinguish the speaker (e.g. \textit{*SER}), followed by the transcribed speech (with each word tagged for language\footnote{The autoglosser handles 4 marking systems, which reflect changes in transcription practice in the ESRC Centre over the past 5 years, and developments in CLAN itself.} -- unmarked for Welsh, \textit{@s:eng} for English, \textit{@s:cym\&eng} for indeterminate\footnote{Words which are used in both languages, and which therefore cannot be assigned unambiguously to one of them.}), and two numbers giving the start and end times of the utterance in the audiofile.
 
 The gloss tier is marked by an initial \textit{\%gls}, followed by a series of lexeme+POS-tag strings.
 
@@ -69,10 +69,10 @@ The translation tier is marked by an initial \textit{\%eng}, and gives a free tr
 \begin{footnotesize}
 \begin{alltt}
 \normalfont
-*SER: dw i (y)n hopeless@s:eng efo tynnu llun . %snd:"deuchar1"_72848_73881
+*SER: dw i (y)n hopeless@s:eng efo tynnu llun . 72848_73881
 %gls: be.1S.PRES PRON.1S PRT hopeless with take.NONFIN picture
 %eng: I'm hopeless at drawing
-*SER: dw i (y)n tynnu llun i [/] i (y)r plant <i plant> [//] <i (y)r> [//] # i er@s:cym&eng &h Helen@s:cym&eng a Susanna@s:cym&eng a +/. %snd:"deuchar1"_73881_79477
+*SER: dw i (y)n tynnu llun i [/] i (y)r plant <i plant> [//] <i (y)r> [//] # i er@s:cym&eng &h Helen@s:cym&eng a Susanna@s:cym&eng a +/. 73881_79477
 %gls: be.1S.PRES PRON.1S PRT take.NONFIN picture for for DET children for children for DET for IM Helen and Susanna and
 %eng: I draw a picture for ... for the children, for, er, Helen and Susanna and ...
 \end{alltt}
@@ -81,7 +81,7 @@ The translation tier is marked by an initial \textit{\%eng}, and gives a free tr
 \label{chat_file1}
 \end{figure*}
 
-The corpora are valuable in examining how language is actually used: for instance, the differences between spoken language and formal written language, sociolinguistic variation (what forms of language are used where and by whom), the balance between languages in bilingual usage, and how one language handles lexical items from the other.\footnote{For instance,  \cite{stammers2010} has used the Siarad corpus to show that Welsh loan-verbs such as \textit{textio} (to text) behave more like ordinary Welsh verbs the more frequent they are.}
+The corpora are valuable in examining how language is actually used: for instance, the differences between spoken language and formal written language, sociolinguistic variation (what forms of language are used where and by whom), the balance between languages in bilingual usage, and how one language handles lexical items from the other.\footnote{For instance, Jon Stammers  \cite{stammers2010} has used the Siarad corpus to show that Welsh loan-verbs such as \textit{textio} (to text) behave more like ordinary Welsh verbs the more frequent they are.}
 
 Manual glossing of the Siarad (Welsh-English) proved to be tedious and time-consuming, so in order to save valuable specialist time it was decided to explore automating the glossing of the Miami (Spanish-English) and Patagonia (Welsh-Spanish) corpora.
 
@@ -89,7 +89,7 @@ Although the CLAN project provides a tagging system (MOR),\footnote{http://child
 
 There appears to be no tagger available at all for Welsh, reflecting the dearth of linguistic tools available to many minority languages \cite{antonsen2010}.
 
-With no existing software meeting the purpose, a two-week test project in April 2010 looked at the viability of simply writing out entries from Spanish and Welsh dictionaries (see Section \ref{sec:dictionaries} below) for each word in the transcription.  The results of the tests were encouraging, and the only remaining issue was how to dismbiguate between the returned entries.  For this we turned to constraint grammar, and the remainder of this paper reports on how this is used in the autoglossing software developed over the past year.
+With no existing software meeting the purpose, a two-week test project in April 2010 looked at the viability of simply writing out entries from Spanish and Welsh dictionaries (see Section \ref{sec:dictionaries} below) for each word in the transcription.  The results of the tests were encouraging, and the only remaining issue was how to dismbiguate between the returned entries.  For this we turned to constraint grammar \cite{karlsson1995}, and the remainder of this paper reports on how this is used in the autoglossing software developed over the past year.\footnote{The Bangor Autoglosser software, licensed under the GPL, is available from \url{http://siarad.org.uk/autoglosser.php}}
 
 
 \section{The dictionaries}
@@ -149,7 +149,7 @@ A similar set of entries from the Spanish dictionary is in Table \ref{spanish_di
 \label{spanish_dict}
 \end{table}
 
-Both Spanish and Welsh are inflected languages, where the surface forms give clues about the word's POS.  English, however, is an analytic language where the POS of the many homophonous words is defined by their role in the sentence.  The format for the English dictionary, some entries for which are in Table \ref{english_dict}, reflects this by having the POS reflect all of these possibilities, with the correct POS being selected during disambiguation.  For example, \textbf{walk} can be a noun (\textit{a short walk}), an imperative verb (\textit{walk the line!}), an infinitive verb (\textit{to walk a mile}) and a present tense verb (\textit{they walk everywhere}).  Thus \textbf{walk} has the POS \textbf{sv}, meaning that it can be either a singular noun or a verb. The main benefit of this approach is that it minimises the number of entries which the dictionary has to include (in this case, one entry instead of four), and therefore makes maintenance of the dictionary easier.
+Both Spanish and Welsh are inflected languages, where the surface forms give clues about the word's POS.  English, however, is an analytic language where the POS of the many homophonous words is defined by their role in the sentence.  The format for the English dictionary, some entries for which are in Table \ref{english_dict}, reflects this by having the POS reflect all of these possibilities, with the correct POS being selected during disambiguation.  
 
 \begin{table}[!hbtp]
 \centering
@@ -169,6 +169,8 @@ Both Spanish and Welsh are inflected languages, where the surface forms give clu
 \caption{Entries from the English dictionary.}
 \label{english_dict}
 \end{table}
+
+For example, \textbf{walk} can be a noun (\textit{a short walk}), an imperative verb (\textit{walk the line!}), an infinitive verb (\textit{to walk a mile}) and a present tense verb (\textit{they walk everywhere}).  Thus \textbf{walk} has the POS \textbf{sv}, meaning that it can be either a singular noun or a verb. The main benefit of this approach is that it minimises the number of entries which the dictionary has to include (in this case, one entry instead of four), and therefore makes maintenance of the dictionary easier.
 
 
 \section{The autoglossing process}
@@ -278,24 +280,23 @@ For English, tags are added for things like:
 \hangafter=0
 \textbf{quickly} \textrightarrow \textbf{quick} \# adv
 
-All matching entries in the dictionary are then written out to a file in the format required by the contraint grammar parser.\footnote{http://visl.sdu.dk/cg3.html}  Figures \ref{welsh_before} and \ref{english_before} show the output after lookup of a monolingual phrase in Welsh and English respectively.
+All matching entries in the dictionary are then written out to a file in the format required by the constraint grammar parser.\footnote{We use the visl-cg3 parser developed by Eckhard Bick and Tino Didriksen - http://beta.visl.sdu.dk/cg3.html}
 
-\vspace{-2mm}
 \begin{figure}[!hbtp]
 \centering
 \begin{footnotesize}
 \begin{alltt}
 \normalfont
-"<ddim>"
+\textbf{"<ddim>"}
     "dim"  {96,1} [cy] n m sg :nothing: + sm
     "dim"  {96,1} [cy] adv :not: + sm
-"<yn>"
+\textbf{"<yn>"}
     "yn"  {96,2} [cy] stat :stative: 
     "yn"  {96,2} [cy] prep :in: 
     "gan"  {96,2} [cy] prep :with: + sm
-"<gynnar>"
+\textbf{"<gynnar>"}
     "cynnar"  {96,3} [cy] adj :early: + sm
-"<iawn>"
+\textbf{"<iawn>"}
     "iawn"  {96,4} [cy] adv :OK:
     "iawn"  {96,4} [cy] adv :very:
 \end{alltt}
@@ -304,23 +305,22 @@ All matching entries in the dictionary are then written out to a file in the for
 \label{welsh_before}
 \end{figure}
 
-\vspace{-5mm}
 \begin{figure}[!hbtp]
 \centering
 \begin{footnotesize}
 \begin{alltt}
 \normalfont
-"<it's>"
+\textbf{"<it's>"}
     "it"  {545,1} [en] pron.sub 3s :it: # gb
-"<coming>"
+\textbf{"<coming>"}
     "come"  {545,2} [en] sv infin :come: # asv
-"<out>"
+\textbf{"<out>"}
     "out"  {545,3} [en] adv :out:
-"<on>"
+\textbf{"<on>"}
     "on"  {545,4} [en] prep :on:
-"<D_V_D>"
+\textbf{"<D_V_D>"}
     "D_V_D"  {545,5} [en] name
-"<then>"
+\textbf{"<then>"}
     "then"  {545,6} [en] adv :then:
 \end{alltt}
 \end{footnotesize}
@@ -328,21 +328,22 @@ All matching entries in the dictionary are then written out to a file in the for
 \label{english_before}
 \end{figure}
 
+Figures \ref{welsh_before} and \ref{english_before} show the output after lookup of a monolingual phrase in Welsh and English respectively.
+
 The constraint grammar parser applies the rules in the grammar file to discard invalid entries and convert tags where appropriate, and creates another file containing only valid, disambiguated entries.  The two phrases given above are shown after disambiguation in Figures \ref{welsh_after} and \ref{english_after}.
 
-\vspace{-2mm}
 \begin{figure}[!hbtp]
 \centering
 \begin{footnotesize}
 \begin{alltt}
 \normalfont
-"<ddim>"
+\textbf{"<ddim>"}
     "dim" {96,1} [cy] adv :not: + sm
-"<yn>"
+\textbf{"<yn>"}
     "yn" {96,2} [cy] stat :stative:
-"<gynnar>"
+\textbf{"<gynnar>"}
     "cynnar" {96,3} [cy] adj :early: + sm
-"<iawn>"
+\textbf{"<iawn>"}
     "iawn" {96,4} [cy] adv :very:
 \end{alltt}
 \end{footnotesize}
@@ -350,7 +351,6 @@ The constraint grammar parser applies the rules in the grammar file to discard i
 \label{welsh_after}
 \end{figure}
 
-\vspace{-5mm}
 \begin{figure}[!hbtp]
 \centering
 \begin{footnotesize}
@@ -407,7 +407,7 @@ The Autoglosser produces glossed text at a rate of 900-1100 words per minute (de
 
 The grammar file currently contains about 500 rules for Welsh, about 200 for English, and around 170 for Spanish.  These figures reflect the fact that most work so far has been done on Welsh.
 
-Preliminary results (see Table \ref{accuracy}) suggest that the Autoglosser's accuracy is 97-99\%, depending on the language.  We are confident that the accuracy rate can be further improved.
+Preliminary results (see Table \ref{accuracy}) suggest that the Autoglosser's accuracy is 97-99\%, depending on the language.\footnote{A recent comparison \cite{donnelly2011} suggests that accuracy is within 2\% of manual glossing for Welsh, and comparable to CLAN's own MOR tagger for Spanish.}  We are confident that the accuracy rate can be further improved.
 
 \begin{table*}[!hbtp]
 \centering
@@ -603,7 +603,7 @@ The lookup process can generate readings which are invalid, and these need to be
 \hangafter=0
 \textbf{remove ([cy] "mynd" v 2s imper nm);}
 
-A similar issue arises when indeterminate words are being looked up.  It will be recalled that indeterminate words are those which appear in dictionaries of both languages, so it is impossible to state unequivocally which language they belong to.\footnote{This is meant diachronically rather than synchronically, in terms of current usage in both languages -- historically, the word may be considered a loanword.}  Since the practice in the transcriptions is to use English spelling for indeterminate words, lookup for these words uses the English dictionary.  The interaction with Welsh mutation can lead to invalid readings, such as the interpretation of the hesitation marker \textbf{um} as a soft-mutated form of the word gum, which is extremely unlikely.  This can be removed with a rule like:
+A similar issue arises when indeterminate words are being looked up.  It will be recalled that indeterminate words are those which appear in dictionaries of both languages, so it is impossible to state unequivocally which language they belong to.\footnote{This is meant synchronically rather than diachronically, in terms of current usage in both languages -- historically, the word may be considered a loanword.}  Since the practice in the transcriptions is to use English spelling for indeterminate words, lookup for these words uses the English dictionary.  The interaction with Welsh mutation can lead to invalid readings, such as the interpretation of the hesitation marker \textbf{um} as a soft-mutated form of the word gum, which is extremely unlikely.  This can be removed with a rule like:
 
 \noindent
 \hangindent=1em
@@ -630,24 +630,76 @@ The result is that the the vast majority of rules for English are \textbf{substi
 
 \noindent This says that an English \textit{as} tag should be converted to an \textit{adjective} tag when the word is followed by a noun or pronoun (e.g. \textbf{a miniature rabbit}, \textbf{miniature ones}).
 
+Similar refinement rules can be applied to other parts-of-speech such as pronouns:
+ 
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{substitute (pron.sub) (pron.obj) ([en] pron.sub) (-1 ([en] v infin));}
+
+\noindent which will correctly tag \textbf{it} in \textbf{and open it} as an object pronoun, or verbs:
+
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{substitute (av past) (v past) ([en] av past) (-1 ([en] pron.sub)) (not -1 (have.v.pres)) (not -2 ("have"));}
+
+\noindent Here, \textbf{bought}, which can either be an adjective (\textbf{bought goods}) or a past verb, has the latter selected provided it is not preceded by enclitic or self-standing instances of the auxiliary verb \textbf{have}. This correctly tags \textbf{we bought}, but passes over \textbf{you've bought}, or \textbf{we have bought}.  These latter examples can be handled by an additional rule converting the tag to a past participle:
+
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{substitute (av past) (v pastpart) ([en] av past) (-1 (have.v.pres) or ("have") or ("be"));}
+
+\noindent which will also correctly tag \textbf{it was bought}.
+
+It can be said that in general these \textbf{substitute} rules are more dependent on rule order than \textbf{select} or \textbf{remove} rules, since the output of a substitution earlier in the stack needs to be taken into account by a rule later in the stack.
+
 
 \subsection{Rule scope}
 \label{sec:scope}
 
 
-Rule types to avoid - 
+Our current view is that \textbf{remove} and \textbf{select-if-not} rules are particularly problematic unless they are carefully constrained.  A select rule is exclusive in what it applies to, and it might be considered possible to frame a select-if-not rule to be equally exclusive.  By its nature, however, the set of negatives is larger than the set of positives, so it is easy to miss something obvious, particularly when dealing with rules that can apply across languages.
 
-Our current view is that \textbf{remove} and \textbf{select-if-not} rules are particularly problematic unless they are carefully constrained.  A select rule is exclusive in what it applies to, and it may be considered that it is possible to frame a select-if-not rule to be equally exclusive.  By its nature, however
+An example of this was the results of combining a set of grammar rules for Welsh with a previously working set of rules for Spanish - the result was 304 regressions in the Spanish output.  This was traced to a Welsh rule selecting an imperative if the particle \textbf{ni} did not appear in first position in the sentence:
+
+\noindent
+\hangindent=1em
+\hangafter=0
+\textbf{select (imper) if (not @1 ("ni"));}
+
+\noindent Since \textbf{ni} did not appear in this context in Spanish, all instances where an imperative reading was possible were selected, giving the regressions.  In this case, the rule can easily be amended by adding a \textbf{[cy]} tag, but the point is that the impact of this type of rule can be subtle.
+
+
+\section{Spin-off benefits}
+\label{sec:benefits}
+
+
+The Autoglosser was primarily intended to provide reasonably accurate glosses automatically, thus saving researcher time, but it has also had a number of spin-off benefits which contribute to easier handling of the corpora.
+
+Perhaps the most useful is the ability to use the file contents in the database tables to print out a typeset copy of the transcription in \LaTeX, using John Frampton's \textit{ExPex} package.\footnote{http://www.math.neu.edu/ling/tex/}  Figure \ref{expex} shows the results of this process on the file excerpt previously shown in Figure \ref{chat_file1}. This greatly facilitates checking for errors in the glossing.
+
+\begin{figure}[!hbtp]
+\centering
+\includegraphics[scale=0.5]{deuchar1.png}
+\caption{The text in Figure \ref{chat_file1} typeset to show alignment of the surface words and their POS-tags.}
+\label{expex}
+\end{figure}
+
+Being able to access the file contents via database queries adds another tool for correcting typos.  Selecting all unglossed words in the words table gives a list of words which are either unknown because they are not in the dictionaries, or could not be found in the dictionaries because they were mis-spelt (i.e. typos).  It is interesting to note that even after two rounds of detailed manual proofreading such typos account for about 0.5\% of the words in a file on average, and this technique provides a method of eliminating them.
+
+Autoglossing enforces consistency across the corpus (so that, for instance, Welsh \textbf{ychydig} does not appear in some places as \textit{a bit}, and in other places as \textit{a little}), and makes it much easier to change or enrich tags globally.  This sort of consistency facilitates data-mining, in that queries can be correspondingly simpler.
 
 
 \section{Further work}
 \label{sec:further}
 
 
-Although the current configuration of rules is working well, we hope to explore further refinement of the grammar.  This would include not only conflating similar rules within a language, but also seeking to use the grammar to mark clause relationships.  The latter would be of value in the further linguistic analysis of the influence of clause structure on language switching in bilingual discourse.
+Although the current configuration of CG rules is working well, we hope to explore further refinement of the grammar.  This would include not only conflating similar rules within a language, but also seeking to use the grammar to mark clause relationships.  The latter would be of value in the further linguistic analysis of the influence of clause structure on language switching in bilingual discourse.
 
 
-\section*{Acknowledgments}
+\section*{\textit{Acknowledgments}}
 
 The support of the Arts and Humanities Research Council (AHRC), the Economic and Social Research Council (ESRC), the Higher Education Funding Council for Wales and the Welsh Assembly Government is gratefully acknowledged. The work presented in this paper was part of the programme of the ESRC Centre for Research on Bilingualism in Theory and Practice at Bangor University.
 

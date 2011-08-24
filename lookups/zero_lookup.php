@@ -25,6 +25,10 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // This file handles words tagged as 0 - ie they appear in multiple language dictionaries.  Since some items are mutated, we do a lookup also of the word minus soft-mutation (the other mutations are very rare).  If there is no entry, and the word is capitalised, we mark as a name; if not, we just repeat the surface word (or replace $surface with unk if you want to mark as unk[nown]).  Note that this 0 category also includes "mixed" words - words that combine morphemes from different languages.
 
+// NOTE: $mutation seems redundant in the following.  Check and fix.
+
+// NOTE: a better way might be to look up the most frequent language first, then the the less frequent language, then an indeterminate list.  So for @s:cym&spa, look up cylist first, then eslist, then inlist.  If there is a return from the MFL, then break without looking up the others.
+
 /*
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");

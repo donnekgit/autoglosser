@@ -63,7 +63,7 @@ while ($row_s=pg_fetch_object($result_s))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
-		if ($row_w->langid=="cym" and $precode =="")  // set the default language here
+		if ($row_w->langid=="eng" and $precode =="")  // set the default language here
 		{
 			$row_w->surface=$row_w->surface;
 		}

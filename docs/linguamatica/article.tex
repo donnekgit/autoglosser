@@ -1,0 +1,184 @@
+% Setup and package-loading
+\documentclass[a4paper, twocolumn, 11pt, twoside]{article}
+\usepackage{linguamatica}
+\usepackage{fullname_en}
+\usepackage[english]{babel} %% or \usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}  %% or \usepackage[latin1]{inputenc}
+
+
+% Title details
+\title{\textbf{Representing and analysing bilingual conversations}}
+
+\author{
+  María del Carmen Parafita-Couto\\
+  Bangor University\\
+  \email{maricarme@gmail.com} 
+  \and 
+  Kevin Donnelly\\
+  Bangor University\\
+  \email{kevin@dotmon.com}
+}
+
+\date{}
+
+
+% End front-matter, begin article
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generate title and abstract
+\twocolumn
+[
+\begin{@twocolumnfalse}
+\maketitle
+%% Add your abstract here...
+\begin{abstract}
+We present methods of representing and analysing bilingual conversations using software available under the GPL or other open-source licenses.  The software has been used to record and analyse 3 bilingual corpora of almost a million words in total, in three languages (Welsh, Spanish and English).  We discuss some of the practical lessons learned, and review the scope for computer-aided linguistic analysis of the corpora.
+\end{abstract}
+\end{@twocolumnfalse}
+\vskip 5mm
+]
+\thispagestyle{empty}
+
+
+%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Este é o estilo usado pelos artigos da revista Linguamática. O estilo pode ser usado em \LaTeX \cite{latexcompanion}, Microsoft Word ou OpenOffice.org.
+% Note: there must be at least one bibliographical reference if \bibliography{sample.bib} is used at the end of the document, otherwise you will get an error message: ``Something's wrong--perhaps a missing \item.''
+
+Many of the conversations going on in the world right now are taking place between people who speak more than one language.  Not widely studied until recently.  Trad ling concentrates on one language, mod ling concentrates on micro-aspects of a single language grammaticality judgements on particular (sometimes somewhat artificial) utterances.  Some major researchers, and refs.
+
+The ESRC Centre - history and work.  The corpora.
+
+\subsection{Siarad}
+
+\subsection{Patagonia}
+
+\subsection{Miami}
+
+
+%%%%%%%%%%%%%%%%%%%%%
+\section{Representing bilingual conversations}
+
+\subsection{Fieldwork}
+
+Location, informants, equipment, procedure.
+
+\subsection{CLAN}
+
+History, usage, Talkbank.
+Other software.
+
+\subsection{Transcription}
+
+Conventions, proofreading, checking.
+Version control.
+
+\subsection{Glossing}
+
+Tagging - MOR, not available for Welsh.
+Autoglossing, accuracy, additional benefits.
+Apertium.
+
+
+%%%%%%%%%%%%%%%%%%%%%
+\section{Analysing bilingual conversations}
+
+\subsection{Conversion}
+
+Changing layouts, etc.  Perhaps in previous section?
+
+\subsection{Presentation}
+
+Type-setting.
+
+\subsection{Dependency analysis}
+
+Whenever!  Currently using very unsophisticated clause-splitter.
+
+\subsection{Conversation depiction}
+
+Profile images.  Word-cloud?
+
+\subsection{Variation analysis}
+
+Goldvarb, Rbrul.
+
+\subsection{Codeswitched collocations}
+
+MC stuff.
+
+\subsection{Triggered codeswitching}
+
+Diana stuff.
+
+
+%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusions}
+
+Major high-quality resources for further study.  Type of speech that is not commonly recorded.
+
+Time-consuming to prepare to a high standard.
+
+\subsection{FLOSS}
+
+FLOSS crucial in preparing the material - open science, reproducible science.
+
+\subsection{Computer-assisted}
+
+Allows new aspects to be looked at that would not be practicable otherwise.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Fórmulas Matemáticas}
+
+Sugere-se que as fórmulas matemáticas sejam devidamente numeradas para que se possam referir posteriormente.
+
+\begin{equation}
+\bar{x} = \frac{\sum_{i=1}^n x_i}{n}
+\label{media}
+\end{equation}
+
+E agora é possível comentar devidamente a fórmula~\ref{media}.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Tabelas e Figuras}
+
+As tabelas e figuras devem ser devidamente numeradas, e devem ter uma legenda. Caso a tabela ou figura não caiba numa única coluna é possível obrigar o \LaTeX{} a ocupar a largura da página com o ambiente \verb!table*! e \verb!figure*! respectivamente.  You can refer to Table~\ref{tab1}.
+
+\begin{table}
+\centering
+\begin{tabular}{|c|ccccc|}
+\hline
+$\times$ & 1 & 2 & 3 & 4 & 5 \\
+\hline
+1 & 1 & 2 & 3 & 4 & 5 \\
+2 & 2 & 4 & 6 & 8 & 10 \\
+3 & 3 & 6 & 9 & 12 & 15 \\
+4 & 4 & 8 & 12 & 14 & 20 \\
+5 & 5 & 10 & 15 & 20 & 25 \\
+\hline
+\end{tabular}
+\caption{Tabela multiplicativa.}
+\label{tab1}
+\end{table}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Acknowledgements}
+
+The support of the Arts and Humanities Research Council (AHRC), the Economic and Social Research Council (ESRC), the Higher Education Funding Council for Wales and the Welsh Government is gratefully acknowledged. The work presented in this paper was part of the programme of the ESRC Centre for Research on Bilingualism in Theory and Practice at Bangor University.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Generate the bibliography
+
+\bibliographystyle{fullname_en}
+
+\bibliography{lingua.bib}
+
+
+\end{document}

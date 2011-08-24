@@ -51,26 +51,28 @@ foreach ($lines as $line)
 	}
 	
 	// Sort out punctuation
-	$line=fix_punctuation($line);
-	$line=fix_transcription($line);
+	//  fix_punctuation() is incorrect and not needed.  In any case both should be applied later, to the surface segment only.
+	//$line=fix_punctuation($line);  
+	//$line=fix_transcription($line);
 	
 	// Collect utterances in the main language
     if (preg_match("/^\*/", $line))
     {
-        $surface_line=preg_split('/:\s*\t/', $line);
-        $speaker=preg_replace("/\*/", "", $surface_line[0]);
+        $surface_line=preg_split('/:\s*\t/', $line);  // Split at the colon after the speaker_id.
+        $speaker=preg_replace("/\*/", "", $surface_line[0]);  // Delete the asterisk before the speaker_id.
         $rest=$surface_line[1];
         
-        list($surface_pc, $timing)=explode('', $rest); //NAK is Unicode 0015
+        list($surface_pc, $timing)=explode('', $rest);  // NAK is Unicode 0015; split at this character.
         // Strip off and store the precode, if any
-		if (preg_match("/^\[- [a-z]{3}\]/", $surface_pc))
+		if (preg_match("/^\[- [a-z]{3}\]/", $surface_pc))  // If the segment contains square brackets with a dash and a three-letter code.
 		{
-			list($precode, $surface)=explode(']', $surface_pc, 2);  // we need to limit the explodes, or all items in square brackets will be hit
-			$precode=trim(preg_replace("/\[- /", "", $precode));
+			list($precode, $surface)=explode(']', $surface_pc, 2);
+			// We need to limit the explodes, or all items in square brackets will be hit, hence specify a split into two pieces.
+			$precode=trim(preg_replace("/\[- /", "", $precode));  // Delete [- from the precode.
 		}
 		else
 		{
-			$surface=$surface_pc;
+			$surface=fix_transcription($surface_pc);  // Applied here so that it only bites on the surface segment, not on the translation or comments.
 		}
 
         if (isset($timing))
@@ -91,7 +93,7 @@ foreach ($lines as $line)
 		
         $speaker=trim(pg_escape_string($speaker));
         $surface=trim(pg_escape_string($surface));
-		$surface=preg_replace("/\s+/", " ", $surface);
+		$surface=preg_replace("/\s+/", " ", $surface);  // Squash more than one space down to one.
 		$sourcefile=strtolower(trim(pg_escape_string($sourcefile)));
 
         $sql="insert into $utterances (speaker, duration, surface, filename, durbegin, durend, precode) values ('$speaker', '$duration', '$surface', '$filename', '$durbegin', '$durend', '$precode')";

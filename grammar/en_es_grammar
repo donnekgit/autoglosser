@@ -942,7 +942,7 @@ select ("que" conj :that:) if (-1 ("tener"));  # tiene que
 substitute (conj) (pron.rel) ("que" [es] conj :that:) (-1 (det.def) or ("<del>") or ("<al>") or (det.indef) or (pron.dem));  # el chico del que me hablaste; lo que están haciendo; yo tengo una que cada vez; son los que tienen; eso que es; 
 substitute (conj) (pron.rel) ("que" [es] conj :that:) (-1C (n));  # el hombre que me habló;
 
-select ([es] im) if (not 1 ([es] adj));  # bueno; claro - this works, but really shouldn't!
+select ([es] e) if (not 1 ([es] adj));  # bueno; claro - this works, but really shouldn't!
 select ("como" [es] conj) if ((1 (pron.sub) or ("que" [es] conj) or ("aquí" [es] adv) or ("en" [es] prep)) or ((-1 ("ser" v))));
 select ("como" [es] conj) if (1 (v) or (name) or ([en] n) or (num));  # como está; como mataron; como Miami, como guinea_pig; como dos
 
