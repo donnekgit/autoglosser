@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file writes out mixed-language entries with full context detail to a tex file, from which a pdf can be created. The relevant subset has to be specified as the first argument, eg php mc_context.php <patagonia>.
+// This file writes out mixed-language entries with full context detail to a csv file, which can be opened in a spreadsheet. The relevant subset has to be specified as the first argument, eg php mc_context.php <patagonia>.
 
 $subset=$_SERVER['argv'][1];
 //$mcout="mc_n_adj_".$subset;
@@ -32,23 +32,7 @@ $mcout="mc_mixed_".$subset;
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
     
-$fp = fopen("mc/mc_output/$mcout.tex", "w") or die("Can't create the file");
-
-$lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
-foreach ($lines as $line)
-{
-	if (preg_match("/filename.cha/", $line))
-	{
-		//$line=preg_replace("/filename.cha/", "Mixed-language noun+adjective phrases in ".ucfirst($corpus), $line);
-		$line=preg_replace("/filename.cha/", "Mixed-language DNA phrases", $line);
-	}
-	else
-	{
-		$line=$line;
-	}
-	echo $line."\n";
-	fwrite($fp, $line);
-}
+$fp = fopen("mc/mc_output/$mcout.csv", "w") or die("Can't create the file");
 
 $i=1;
 
@@ -56,48 +40,32 @@ $i=1;
 //$sql1=query("select * from mc_n_adj_siarad where use='t' order by surface1, surface2");
 //$sql1=query("select * from $mcout where langid1='cym' and langid2='cym&eng' order by surface2");
 //$sql1=query("select * from $mcout where langid2!~'&' order by langid1, langid2");
-$sql1=query("select * from $mcout where use='k' order by filename, utterance_id, location");
+$sql1=query("select * from $mcout order by filename, utterance_id, location");
 while ($row1=pg_fetch_object($sql1))
 {
-	$sep="\\rule{\linewidth}{0.1mm} \\\\ \n";
-	fwrite($fp, $sep);
-		
 	//$hit=tex_surface($row1->surface1." ".$row1->surface2);
-	$hit=tex_surface($row1->surface1." ".$row1->surface2." ".$row1->surface3);
-
-	$hit=$i.": \\textbf{".$hit."}";
+	$hit="\"".$i."\",\"".$row1->surface1."\",\"".$row1->surface2."\",\"".$row1->surface3."\",\"".$row1->langid1."\",\"".$row1->langid2."\",\"".$row1->langid3."\",";
 	fwrite($fp, $hit);
 	
 	$mcfile=$row1->filename."_cgutterances";
     $sql2=query("select * from $mcfile where utterance_id=$row1->utterance_id");
 	while ($row2=pg_fetch_object($sql2))
 	{
-		$source=" (".$row1->filename.", ".$row1->utterance_id.")";
+		$source="\"".$row1->filename."\",\"".$row1->utterance_id."\",";
 		fwrite($fp, $source);
 		
-		fwrite($fp, "\\\\ \n");
-		
-		$wsurf=tex_surface($row2->surface);
-		$wsurf=lg_superscript($wsurf);
+		$row2->surface=preg_replace("/\"/", "''", $row2->surface);
+		$wsurf="\"".$row2->surface."\"";
 		fwrite($fp, $wsurf);
-		echo $wsurf."\n";
 		
-		fwrite($fp, "\\\\ \n");
-
-		$weng="\\textit{".tex_surface($row2->eng)."}";
-		fwrite($fp, $weng);
-		echo $weng."\n";
+		fwrite($fp, "\n");
 		
-		fwrite($fp, "\\\\ \n");
+// 		$weng="\\textit{".tex_surface($row2->eng)."}";
+// 		fwrite($fp, $weng);
+// 		echo $weng."\n";
 	} 
 	
 	$i++;
-}
-
-$lines=file("cognates/tex_footer.tex");  // Open footer file.
-foreach ($lines as $line)
-{
-	fwrite($fp, $line);
 }
 
 fclose($fp);

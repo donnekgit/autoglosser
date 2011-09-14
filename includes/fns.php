@@ -30,9 +30,9 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "spa&eng", "eng&spa", "cym&eng", "cym&spa");
-$cylg=array("1", "cy", "cy+en", "cy+es", "cym");
-$enlg=array("2", "en", "en+es", "en+cy", "eng", "");
-$eslg=array("3", "es", "es+en", "es+cy", "spa", "s");
+$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
+$enlg=array("2", "en", "en+es", "en+cy", "eng");
+$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -164,7 +164,7 @@ function tier_fields($filename, $format)
 function fix_punctuation($text)
 // Sort out punctuation
 // WRONG!!  The unspaced versions are standard CHAT end-markers, so they should not be "corrected".
-// Retained here for reference.  These regexes are defective, in that the first four are not limited to post-+ sequences.  The first, for instance, will affect line internal ellipsis in the translation tier if it is not confined to the surface tier.
+// Retained here for reference.  These regexes are also defective, in that the first four are not limited to post-+ sequences.  The first, for instance, will affect line internal ellipsis in the translation tier if it is not confined to the surface tier.
 {
 	$text=preg_replace("/(\.+)\.(\s)/", "$1 .$2", $text);  // split period from +...
 	$text=preg_replace("/(\.+)\?(\s)/", "$1 ?$2", $text);  // split qmark from +..?
@@ -205,7 +205,7 @@ function lineclean_surface($text)
 {
 
 	$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1%$2", $text);  // Move language tags containing + out of the way (the main cleaning line removes all +s).
-	$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})/", "$1%%$2", $text);  // Move language tags containing & out of the way (the main cleaning line removes all &s).
+	$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})/", "$1%%$2", $text);  // Move language tags containing & out of the way (the main cleaning line removes all &s).  NOTE - no longer required?
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
@@ -218,7 +218,7 @@ function lineclean_surface($text)
     $text=preg_replace("/\[.[^\]]*\]/u", "", $text); // Remove anything in square brackets.
 	// Remember to add your language tags here:
     $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself (the ones before a language tag have been moved out of the way by the line at the top)
-    $text=preg_replace("/(\.|!|\?)[^$]/u", "", $text); // Remove periods or exclamation marks that are not at the end of the sentence.
+    $text=preg_replace("/(\.|!|\?)[^\?$]/u", "", $text); // Remove periods or exclamation/question marks that are not at the end of the sentence.  NOTE: This converts the terminator +!? to !? by retaining ! before ?.  Otherwise, the !? in +!? gets removed completely, then the + gets removed by the "delete everything else" line below, leaving a space, which gets interpreted as an unknown word :-(
 
 	// Uncomment for MOR convention (note that this is not the freq convention - it counts ALL words, including those in backtracks)
     //$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
@@ -583,15 +583,16 @@ function tex_surface($text)
 	$text=preg_replace("/>/", "$>$", $text);
 	$text=preg_replace("/\.\.\./", " \dots ", $text);
 	// Substitutions to handle IPA characters - remember to load the TIPA package in the header
+	$text=preg_replace("/ʧ/", "\\textipa{tS}", $text);
+	$text=preg_replace("/ð/", "\\textipa{D}", $text);
 	$text=preg_replace("/ɛ/", "\\textipa{E}", $text);
 	$text=preg_replace("/ə/", "\\textipa{@}", $text);
+	$text=preg_replace("/ɪ/", "\\textipa{I}", $text);
+	$text=preg_replace("/ŋ/", "\\textipa{N}", $text);
 	$text=preg_replace("/ɔ/", "\\textipa{O}", $text);
 	$text=preg_replace("/ʃ/", "\\textipa{S}", $text);
 	$text=preg_replace("/θ/", "\\textipa{T}", $text);
-	$text=preg_replace("/ʧ/", "\\textipa{tS}", $text);
-	$text=preg_replace("/ŋ/", "\\textipa{N}", $text);
-	$text=preg_replace("/ɪ/", "\\textipa{I}", $text);
-	$text=preg_replace("/ð/", "\\textipa{D}", $text);
+	$text=preg_replace("/ɬ/", "\\textbeltl", $text);
 	return $text;
 }
 

@@ -23,23 +23,18 @@
 #*********************************************************************
 #*/ 
 
-# This script adds an empty %eng tier after every speaker line not tagged with the precode [- eng].
-FILES=inputs/miami/beta/eng/*.cha
+# This script uses perl to fix all instances of a particular string in all the files in the corpus.  Sed is also a (slightly faster) option, but the drawback is that it's regex implementation is not the standard PCRE one.
+FILES=inputs/patagonia/beta/*.cha
+
 for f in $FILES
 do
-# For mainly-Spanish files - add an empty %eng tier after every speaker line not tagged with the precode [- eng].
-echo "Processing $f ..."
-#	sed -i '/\*[A-Z]*:\o011[^\[]/ a\
-#%eng:\o011' $f
-# Do NOT indent the above line - it is split from the previous one to add a newline; an additional indent will give a tab at the beginng of the line.
-# For mainly-English files, we need two appends.
-# The first adds an empty %eng tier after every speaker line tagged with the precode [- spa].
-	sed -i '/\*[A-Z]*:\o011\[/ a\
-%eng:\o011' $f
-# The second adds an empty %eng tier after every speaker line containing a Spanish word.
-	sed -i '/@s:spa/ a\
-%eng:\o011' $f
-# Do NOT indent the above line - it is split from the previous one to add a newline; an additional indent will give a tab at the beginng of the line.
+	#sed -i "/\*[A-Z]/s/ar \(\(draws|goll\)\) /ar_\1 /g" $f
+	#sed -i "/\*[A-Z]/s/\([[:space:]]\)oh /\1o@s:cym\&spa /g" $f
+	#sed -i "/\*[A-Z]/s/\([ <]\)neud/\1wneud/g" $f 
+	#sed -i "/\*[A-Z]/s/ i \([mf]\)ewn/ i_\1ewn/g" $f 
+	#perl -pi -e 's/([[:blank:]])i ((ffwrdd|fynylawr|gyd)) /\1i_\2 /g' $f
+	#perl -pi -e 's/([[:blank:]]yn) ((ystod) )/\1_\2/g' $f
+	perl -pi -e 's/([[:blank:]])hanodd /\1&h anodd /g' $f
 done
 
 

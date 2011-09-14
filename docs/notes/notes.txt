@@ -17,6 +17,12 @@ MOR:
 fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
 
 
+Remove %aut line
+===========
+
+sed -i '/%aut/ d' path/to/file.cha
+
+
 Possible alternative import of the surface line
 ============================
 

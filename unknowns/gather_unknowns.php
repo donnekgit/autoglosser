@@ -35,11 +35,13 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$sql_fill="insert into $unknowns (surface, filename) select surface, filename from $words where auto='unk' and langid='$mylang' group by surface, filename order by surface";  // Retrieve unique unknowns from each file
+$sql_fill="insert into $unknowns (surface, filename) select surface, filename from $words where auto='unk' and langid='$mylang' order by surface";
+// Retrieve unique unknowns from each file
+
 
 $result_fill=pg_query($db_handle, $sql_fill);
 
-$sql_unique=query("create table ".$unknowns."_uniq as select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra from $unknowns group by surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra order by surface");
+//$sql_unique=query("create table ".$unknowns."_uniq as select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra from $unknowns group by surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra order by surface");
 // Create a new table with unique entries across all files
 
 ?>

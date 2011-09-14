@@ -25,14 +25,25 @@
 
 # This script creates a table ($unknowns) to hold unknown words, and fills it with unknown words tagged as $mylang in each file specified in the FILES line.
 
-FILES=inputs/miami/beta/eng/*.cha
-unknowns=miami_eng_unknowns
-mylang=spa
+FILES=inputs/patagonia/beta/*.cha
+unknowns=patagonia_cym_unknowns
+mylang=cym
+uniq=${unknowns}_uniq
 
 php unknowns/create_unk_table.php $unknowns
+php unknowns/create_unk_table.php $uniq
 
 for f in $FILES
 do
 	echo "Processing $f ..."
 	php unknowns/gather_unknowns.php $f $unknowns $mylang
 done
+
+export PGPASSWORD=kevindbs
+psql="psql -h localhost -U kevin -d autoglosser"
+
+$psql --c "insert into $uniq(surface) select surface from $unknowns group by surface order by surface"
+
+$psql --c "alter table $uniq alter column filename type text"
+
+export PGPASSWORD=

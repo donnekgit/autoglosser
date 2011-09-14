@@ -1,0 +1,93 @@
+#!/bin/sh
+
+#/* 
+#*********************************************************************
+#Copyright Kevin Donnelly 2010, 2011.
+#kevindonnelly.org.uk
+#This file is part of the Bangor Autoglosser.
+#
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License and the GNU
+#Affero General Public License as published by the Free Software
+#Foundation, either version 3 of the License, or (at your option)
+#any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#and the GNU Affero General Public License along with this program.
+#If not, see <http://www.gnu.org/licenses/>.
+#*********************************************************************
+#*/ 
+# This script uses ack-grep to find instances of a particular string in all the files in the corpus.
+
+
+# If using grep, uncomment the following line:
+#export GREP_OPTIONS='--color=auto' GREP_COLOR='1;37;41' # Get grep to highlight the matches in colour (red by default)
+# With color=auto, grep will not display colour escape sequences if the output is redirected to a file.
+# Adjust the colour from the default red by adding GREP_COLOR='xxx' to the above line:
+# export GREP_OPTIONS='--color=auto' GREP_COLOR='100;8'
+# 1;32 produces a bright green.
+# 7 displays matches in inverse video
+# 1;37;41 shows white text on a red background
+
+FILES=inputs/patagonia/beta/*.cha
+
+# set up the regex for grep to use
+#STRING='[[:blank:]]dyn nhw'  # dyn nhw preceded by a space (line-medial) or tab (line-initial) - otherwise you get instances of iddyn nhw
+#STRING='[^(id)]dyn nhw'  # an alternative to the above, 
+#STRING='[Dd]d\?ydd[ _]' 
+#STRING='[Ss]panish'
+#STRING='wrtha ni'
+#STRING='[^@][a-z]:[a-z]'
+#STRING='mae nhw'
+#STRING='doh'
+#STRING='oh@s:cym'
+#STRING='[a-z]-[a-z]'
+#STRING='[[:blank:]]i (ffwrdd|fynylawr|gyd|mewn|fewn) '
+#STRING='([[:blank:]]yn) ((ôl) )'
+STRING='([[:blank:]]hanodd )'
+
+
+for f in $FILES
+do
+		# If using grep, uncomment the following lines:
+		#filename=$(basename $f)  # the filename from the path - file.cha
+		#path=$(dirname $f)  # the path to the file - path/to
+		#fixedfile=${filename%.cha}  # switch the filename's extension to .txt for the output file - file.txt
+		#grep -n "$STRING" $f /dev/null # -n inserts the line number in the output
+		#if [ "$?" = "0"  ] ; then  # if there is output (0) from the grep ...
+		#echo "in: $fixedfile\n"  # ...  give the name of the file on the next line
+		#fi  # An alternative to this if statement is to append /dev/null to the grep line; this means grep will get at least 2 file arguments, effectively forcing it to print the filename if it happens to match the pattern. However, grep then prints the filename on the same line as the text, and for every match, which is not elegant.
+	ack-grep "$STRING" $f /dev/null # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
+done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

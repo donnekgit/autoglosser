@@ -32,10 +32,10 @@ if (empty($filename))
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("outputs/".$filename."/".$filename.".tex", "w") or die("Can't create the file");
-//$fp = fopen("outputs/siarad_manual/$filename.tex", "w") or die("Can't create the file");
+//$fp = fopen("outputs/".$filename."/".$filename.".tex", "w") or die("Can't create the file");
+$fp = fopen("tex/$filename.tex", "w") or die("Can't create the file");
 
-$lines=file("tex/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
+$lines=file("tex/tex_header_nw.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
 	if (preg_match("/filename/", $line))  // replace the holder in the TeX file with the name of the conversation
@@ -63,7 +63,7 @@ while ($row_s=pg_fetch_object($result_s))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
-		if ($row_w->langid=="cym" and $precode =="")  // set the default language here
+		if ($row_w->langid=="eng" and $precode =="")  // set the default language here
 		{
 			$row_w->surface=$row_w->surface;
 		}
@@ -113,36 +113,35 @@ while ($row_s=pg_fetch_object($result_s))
 		$mor.=$row_w->mor." ";
 	}
 
-	$begingl="\ex\n\begingl[lingstyle=gergl]\n";
+	$begingl="\ex\n\begin{interlinear}\n";
 	fwrite($fp, $begingl);
 
 	$precode=($precode=="") ? "": "[-".$precode."]";
 
-	$wsurface="\gla ".$row_s->speaker.": ".$precode." ".$surface." //\n";
+	$wsurface="\begin{multigloss}\n\glca ".$row_s->speaker.": ".$precode." ".$surface." \\\\\n";
 	echo $wsurface."\n";
 	fwrite($fp, $wsurface);
 
 	// The following sections can be selectively uncommented to allow alignment of the autogloss, the manual gloss, or the MOR gloss.  Note that only one of the three can be chosen for display - this is a shortcoming of the current ExPex package, which only allows display of one gloss line in running text mode.
 
-	$wauto="\glb \%aut ".$precode." ".$auto." //\n";  // Autogloss tier.
+	$wauto="\gloss \%aut ".$precode." ".$auto." \\\\\n";  // Autogloss tier.
 	echo $wauto."\n";
 	fwrite($fp, $wauto);
 
-/*
-	$wgls="\glb \%gls ".$precode." ".$gls." //\n";  // Human gloss tier.
+	$wgls="\glpos \%gls ".$precode." ".$gls." \\\\\n";  // Human gloss tier.
 	echo $wgls."\n";
 	fwrite($fp, $wgls);
-*/
+
 /*
 	$wmor="\glb \%mor ".$precode." ".$mor." //\n";  // MOR/POST tier.
 	echo $wmor."\n";
 	fwrite($fp, $wmor);
 */
-	$weng="\glft ".tex_surface($row_s->eng)." //\n";  // English tier.
+	$weng="\end{multigloss}\n\glft ".tex_surface($row_s->eng)." \\\\\n";  // English tier.
 	echo $weng."\n";
 	fwrite($fp, $weng);
 
-	$endgl="\endgl\n\\xe\n";
+	$endgl="\end{interlinear}\n\\xe\n";
 	fwrite($fp, $endgl);
 
 	fwrite($fp, "\n");
