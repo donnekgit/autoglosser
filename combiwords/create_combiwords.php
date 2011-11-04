@@ -26,10 +26,13 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-drop_existing_table(combiwords_siar);
+$corpus="pat";
+$combi_table="combiwords_".$corpus;
+
+drop_existing_table($combi_table);
 
 $sql_table = "
-CREATE TABLE combiwords_siar (
+CREATE TABLE ".$combi_table." (
     id serial NOT NULL,
     utterance_id integer,
     location integer,
@@ -44,7 +47,7 @@ CREATE TABLE combiwords_siar (
 $result_table=pg_query($db_handle, $sql_table);
 
 $sql_pkey = "
-ALTER TABLE ONLY combiwords_siar ADD CONSTRAINT combiwords_siar_pk PRIMARY KEY (id);
+ALTER TABLE ONLY $combi_table ADD CONSTRAINT ".$combi_table."_pk PRIMARY KEY (id);
 ";
 $result_pkey=pg_query($db_handle, $sql_pkey);
 

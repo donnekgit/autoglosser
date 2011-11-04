@@ -1,17 +1,19 @@
 Creating indexes of all words in a corpus
 ==========================
 
-Edit and run crate_combiwords.php, to create the holding table.
+Edit and run create_combiwords.php, to create the holding table.
+
+Delete combiwords_{corpus}_uniq.
 
 Edit and run sh_fill_combiwords, to fill the table.
 
-create table combiwords_siar_uniq as select langid, surface, auto, count(surface) from combiwords_siar where langid!=999 group by langid, surface, auto order by langid, surface, auto
+Deprecated - create table combiwords_siar_uniq as select langid, surface, auto, count(surface) from combiwords_siar where langid!=999 group by langid, surface, auto order by langid, surface, auto
 (now added to sh_fill_combiwords)
 
-alter table combiwords_siar_uniq add column filename text
+Deprecated - alter table combiwords_siar_uniq add column filename text
 (now added to sh_fill_combiwords)
 
-Edit and run unknowns/add_filename.php to add the filename of each entry to the filename column.   This is quite slow.
+Run add_filename.php to add the filename of each entry to the filename column.   This is quite slow.
 
 Export the resulting table to csv.
 
@@ -21,6 +23,11 @@ Set cell format to wordwrap, left-align, top.
 Export as PDF.
 
 
+
+Use this table to view unknowns:
+create table patagonia_spa_unknowns as select * from combiwords_pat_uniq where auto='unk' and langid='spa' order by surface
+
+To get a separate table with all fields so that the unknowns can be added to the dictionary, use the scripts in the unknowns folder.
 
 
 

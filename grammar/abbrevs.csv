@@ -1,12 +1,12 @@
 "Abbreviation","Meaning","Example"
-"0","impersonal","canwyd"
-"1s","1st person singular"
-"2s","2nd person singular"
-"3s","3rd person singular"
-"1p","1st person plural"
-"2p","2nd person plural"
-"3p","3rd person plural"
-"ADJ","adjective"
+0,"impersonal","canwyd"
+"1s","1st person singular",
+"2s","2nd person singular",
+"3s","3rd person singular",
+"1p","1st person plural",
+"2p","2nd person plural",
+"3p","3rd person plural",
+"ADJ","adjective",
 "ADJ.COMP","comparative adjective","mejor"
 "ADJ.DEM","demonstrative adjective","estos"
 "ADJ.EQ","equative adjective","belled"
@@ -14,60 +14,65 @@
 "ADJ.POSS","possessive adjective","mi"
 "ADJ.REL","relative adjective","cuyas"
 "ADJ.SUP","superlative adjective","bellísima"
-"ADV","adverb"
-"AFF","affirmative"
+"ADV","adverb",
+"AFF","affirmative",
 "AG","agentive","worker"
-"AM","aspirate mutation"
-"AS","adjective or singular noun"
-"ASV","adjective or singular noun or verb"
-"AV","adjective or verb"
-"COND","conditional/habitual past"
+"AM","aspirate mutation",
+"AMER","Latin-American","preguntás"
+"AS","adjective or singular noun",
+"ASV","adjective or singular noun or verb",
+"AUG","augmentative","muchísimo"
+"AV","adjective or verb",
+"COND","conditional/habitual past",
 "CONJ","conjunction","porque, que"
 "DEM.FAR","far demonstrative","that"
 "DEM.NEAR","near demonstrative","this"
 "DEM.VFAR","very far demonstrative","yonder"
-"DET ","determiner"
+"DET ","determiner",
 "DET.DEF","definite article","el"
 "DET.INDEF","indefinite article","un"
 "DIM","diminutive","pobrecito"
-"F ","feminine "
-"FUT","future"
-"GER","gerund"
-"HYP","hypothetical"
-"IM","interactional marker/exclamation"
-"IMPER","imperative"
-"IMPERF","imperfect"
-"IMPERS","impersonal"
-"INFIN","infinitive"
+"E","exclamation","hello"
+"ERR","error","infosible, ponió"
+"F ","feminine ",
+"FUT","future",
+"GER","gerund",
+"HYP","hypothetical",
+"I","idiom",
+"IM","interactional marker/exclamation",
+"IMPER","imperative",
+"IMPERF","imperfect",
+"IMPERS","impersonal",
+"INFIN","infinitive",
 "INT","interrogative","quién"
-"M","masculine"
-"MF","masculine or feminine"
-"N","noun"
-"NEG","negative "
+"M","masculine",
+"MF","masculine or feminine",
+"N","noun",
+"NEG","negative ",
 "NEG","negative","not"
-"NM","nasal mutation"
-"NONFIN","nonfinite "
-"NONPAST","nonpast tense"
-"NSTAN","non-standard"
-"NT","neuter"
+"NM","nasal mutation",
+"NONFIN","nonfinite ",
+"NONPAST","nonpast tense",
+"NSTAN","non-standard","dijistes"
+"NT","neuter",
 "NUM","numeral","three"
 "ORD","ordinal","séptima"
-"PAST","past tense"
-"PAST+P","past tense or past participle"
-"PASTPART","past participle"
-"PL","plural"
-"PLUPERF","pluperfect"
-"POLITE","polite"
-"POSS","possessive"
+"PAST","past tense",
+"PAST+P","past tense or past participle",
+"PASTPART","past participle",
+"PL","plural",
+"PLUPERF","pluperfect",
+"POLITE","polite",
+"POSS","possessive",
 "POT","potential","treatable"
-"PRECLITIC","preclitic"
-"PREP","preposition"
+"PRECLITIC","preclitic",
+"PREP","preposition",
 "PREP+DET.DEF","preposition+definite article","del"
 "PREP+PRON","preposition+pronoun","conmigo, drosto"
 "PREQ","prequalifier","ambell"
-"PRES","present tense"
-"PRESPART","present participle"
-"PRON","pronoun "
+"PRES","present tense",
+"PRESPART","present participle",
+"PRON","pronoun ",
 "PRON.DEM","demonstrative pronoun","estos"
 "PRON.EMPH","emphatic pronoun","finnau"
 "PRON.INDIR","indirect pronoun","le"
@@ -79,18 +84,17 @@
 "PRON.REFL","reflexive pronoun","se"
 "PRON.REL","relative pronoun","cual"
 "PRON.SUB","subject pronoun","yo"
-"PRT","particle"
-"QUAN","quantifier","llawer"
-"REL","relative"
-"SG","singular"
-"SM","soft mutation"
-"SP","singular or plural"
+"PRT","particle",
+"REL","relative",
+"SG","singular",
+"SM","soft mutation",
+"SP","singular or plural",
 "STAT","stative","yn"
-"SUBJ","subjunctive"
-"SUBJ.FUT","future subjunctive"
-"SUBJ.IMPERF","imperfect subjunctive"
-"SUBJ.PAST","past subjunctive"
-"SUBJ.PRES","present subjunctive"
-"SV","singular noun or verb"
-"V","verb"
-"VULG","vulgar"
+"SUBJ","subjunctive",
+"SUBJ.FUT","future subjunctive",
+"SUBJ.IMPERF","imperfect subjunctive",
+"SUBJ.PAST","past subjunctive",
+"SUBJ.PRES","present subjunctive",
+"SV","singular noun or verb",
+"V","verb",
+"VULG","vulgar",

@@ -27,7 +27,7 @@ If not, see <http://www.gnu.org/licenses/>.
 
 $subset=$_SERVER['argv'][1];
 //$mcout="mc_n_adj_".$subset;
-$mcout="mc_mixed_".$subset;
+$mcout="mc_".$subset;
 
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
@@ -40,11 +40,11 @@ $i=1;
 //$sql1=query("select * from mc_n_adj_siarad where use='t' order by surface1, surface2");
 //$sql1=query("select * from $mcout where langid1='cym' and langid2='cym&eng' order by surface2");
 //$sql1=query("select * from $mcout where langid2!~'&' order by langid1, langid2");
-$sql1=query("select * from $mcout order by filename, utterance_id, location");
+$sql1=query("select * from $mcout order by surface2, filename, utterance_id, location");
 while ($row1=pg_fetch_object($sql1))
 {
 	//$hit=tex_surface($row1->surface1." ".$row1->surface2);
-	$hit="\"".$i."\",\"".$row1->surface1."\",\"".$row1->surface2."\",\"".$row1->surface3."\",\"".$row1->langid1."\",\"".$row1->langid2."\",\"".$row1->langid3."\",";
+	$hit="\"".$i."\",\"".$row1->surface3."\",\"".$row1->surface2."\",\"".$row1->surface1."\",\"".$row1->langid3."\",\"".$row1->langid2."\",\"".$row1->langid1."\",";
 	fwrite($fp, $hit);
 	
 	$mcfile=$row1->filename."_cgutterances";

@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file collects examples of trigrams.  the filename should be the first argument, and a relevant name for the subset of material should be specified as the second argument, eg php mc.php <patagonia3> <patagonia>.
+// This file collects examples of trigrams.  The filename should be the first argument, and a relevant name for the subset of material should be specified as the second argument, eg php mc.php <patagonia3> <patagonia>.
 
 $subset=$_SERVER['argv'][2];
 $mctable="mc_".$subset;

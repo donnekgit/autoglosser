@@ -13,14 +13,28 @@ fns.php, line 739 (update_langids) - also set secondary language denoted by @s -
 import_and_convert.php - uncomment the appropriate conversion script
 convert_xx_to_precode.php - change the output location at the end of the script
 
+The above is now deprecated, since the autoglosser will detect the most-frequent language by inspecting the file header.
+
 MOR:
 fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
+
+
+Unknowns
+=======
+
+insert into cylist (surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra) select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra from patagonia_cym_unknowns_uniq
 
 
 Remove %aut line
 ===========
 
 sed -i '/%aut/ d' path/to/file.cha
+
+
+Import one field into the utterances table
+==========================
+
+update sastre5_cgutterances set eng=(select dra from mysastre5_cgutterances where mysastre5_cgutterances.utterance_id=sastre5_cgutterances.utterance_id)
 
 
 Possible alternative import of the surface line

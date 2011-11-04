@@ -38,11 +38,12 @@ exec("utils/sed_joinlines ".$chafile);
 exec("utils/sed_get_header ".$chafile);
 
 // Update the file header
+// Edit this to add any text you want to include in the header
 include("utils/langid_header.php");
 
 // Convert tags, do an initial import, and convert to precode format - see the script for more details.
 // Comment out if no conversion is required.
 include("import_and_convert.php");
-// This script runs some other scripts, so check that its settings are OK.
+// This script runs some other scripts, so check it carefully to see that its settings are OK.
 
 ?>

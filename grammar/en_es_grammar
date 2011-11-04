@@ -131,7 +131,6 @@ select ("ymlaen" [cy] :forward:);
 # 2 - removal of less common items
 remove (v subj);  # na ddefnyddio - CHECK: may be too broad
 remove ("ban" [cy] :peak:);
-remove ("cael" [cy] :get:);  # to leave "have"
 remove ("cynio" [cy] :gouge:);
 remove ("cynnu" [cy] :light:);
 remove ("fod" [cy] conj :that:);
@@ -260,11 +259,13 @@ select ([cy] "a" conj) if (not 1 (@1));
 
 select ([cy] "tra" conj) if (1 ("bod"));  # tra oedd
 
+
 # Interrogatives
 
 select ([cy] "beth" int) if (1 ("am" prep));  # beth am 
 select ([cy] "beth" int) if (1 ("bynnag" adj));  # beth bynnag
 select ([cy] "beth" int) if (1 ("sydd"));  # beth sydd
+
 
 # Prepositions
 
@@ -490,6 +491,7 @@ select ([cy] "ôl" adj) if (-1 ([cy] "tu" n));  # tu ôl
 
 select ([cy] "rhydd" adj) if (-1 ([cy] "yn" stat));  # yn rhydd
 
+select ([cy] "rhy" adj) if (1 (adj));  # rhy gyflym
 
 # Verbs
 
@@ -937,6 +939,8 @@ select ("que" :that:) if (-1 ("<lo>"));  # lo que están haciendo
 select ("que" :that:) if (not -1 (adj));
 select ("que" :that:) if (1 (pron.obl)) (2 (v));  # que le dio
 select ("que" :that:) if (1 (v));  # la vez anterior que venimos
+
+select ("pero" conj) if (not -1 (det.def) or (det.indef));  # hay un pero
 
 select ("que" conj :that:) if (-1 ("tener"));  # tiene que
 substitute (conj) (pron.rel) ("que" [es] conj :that:) (-1 (det.def) or ("<del>") or ("<al>") or (det.indef) or (pron.dem));  # el chico del que me hablaste; lo que están haciendo; yo tengo una que cada vez; son los que tienen; eso que es; 

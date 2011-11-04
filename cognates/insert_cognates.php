@@ -39,8 +39,9 @@ $sql_clear=query("update $words  set cognate=''");  // Remove previous cognate e
 // For langid!='cym', see email of 8 June 2011 - it prevents "fan" and "pan" being interpreted as English when they are in fact Welsh
 $sql_fill=query("update $words set cognate='t1' where surface in (select cognate from di_cognates) and langid!='cym'");
 
-$sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_n) and langid!='cym'");
+$sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_n) and langid!='cym' and cognate=''");
+// Specify that the cognate field must be empty, to prevent later onion-rings over-writing earlier ones.
 
-// Omit the langid!='cym' clause from the -io verbs line (because they are marked cym)
+// Omit the langid!='cym' clause from the -io verbs line (because they are already marked cym)
 
 ?>

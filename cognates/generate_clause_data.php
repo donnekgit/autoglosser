@@ -106,13 +106,13 @@ while ($row1=pg_fetch_object($sql1))
 			$loc[]=$row3->location;  // Gather locations to give clause beginning and end.
 			if (!preg_match("/^t[0-9]$/", $row3->cognate))
 			{
-				$this_lg[$row3->location]=$row3->langid;
+				$this_lg[$row3->location]=$row3->langid; // Language array for non-Ts.
 				// Get the language of all non-Ts in this clause, keyed to their location in the utterance.
 				// The first item will always be the earliest non-T in the clause.
 			}
 			else
 			{
-				$t[$row3->location]=$row3->cognate;  // Get the utterance location of all Ts in this clause.
+				$t[$row3->location]=$row3->cognate;  // Get the utterance location of all Ts in this clause.  Location array for Ts.
 			}
 		}
 		
@@ -123,7 +123,7 @@ while ($row1=pg_fetch_object($sql1))
 		print_r($t);
 		//print_r($this_lg);
 		$scan=$this_lg;  // Make a copy of $this_lg for forward scanning - we need to drop the first element, and if we use $this_lg it will mess up the other calculations based on it.
-		$f=reset($this_lg);  // language of the first non-T in the clause.Get the first element in the array - the 
+		$f=reset($this_lg);  // language of the first non-T in the clause. Get the first element in the array.
 		$f_loc=reset(array_keys($this_lg));
 				
 		if (empty($t))  // If there are no triggers in the clause ...

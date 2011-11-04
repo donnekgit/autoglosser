@@ -33,7 +33,7 @@ Edit mc/sh_run_mc to reflect the source of the files, and the corpus.  Then run 
 
 Run php mc/mc_filter_mixed to extract mixed-language collocations from the mc_siarad table and put them into an mc_mixed_siarad table.
 
-Run php mc_context.php siarad to use the mc_mixed_siarad table to generate a TeX file.  php mc_text.php siarad does something similar, but generates a plain text file.
+Run php mc/mc_context.php siarad to use the mc_mixed_siarad table to generate a TeX file.  php mc/mc_text.php siarad does something similar, but generates a plain text file.  php mc/mc_context_csv.php siarad generates a csv file.
 
 Edit the mc_mixed_siarad table, referring to the pdf file as necessary to get context.  "Delete" items by putting something (eg "n") in the use column.  Then rerun mc_context.php to regenerate the pdf, using a clause in the query like: where use =''.
 

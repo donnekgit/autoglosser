@@ -39,7 +39,7 @@ include("cgimport.php");
 echo "*\n*\nCleaning and wordifying the utterance lines\n*\n*\n";
 include("rewrite_utterances.php");
 
-include("utils/convert_es_to_precode.php");  // Miami: predominantly Spanish conversations
+include("utils/convert_es_to_precode.php");  // Miami, Patagonia: predominantly Spanish conversations
 //include("utils/convert_en_to_precode.php");  // Miami: predominantly English conversations
 //include("utils/convert_cym_to_precode.php");  // Patagonia: predominantly Welsh conversations
 

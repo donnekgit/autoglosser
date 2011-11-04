@@ -1,7 +1,25 @@
 Changelog
 
-14 /09/2011
-Generate tex file for Natalie Weber's multiline glossing package (lingscrb).
+4/11/2011
+Revise clause-splitting and add first stages of a more transparent way of handling cognate delineation.
+
+18/10/2011
+Remove tense constraint in es_lookup.
+
+7/10/2011
+Sort files into subdirs based on most-frequent language.
+
+5/10/2011
+Generate a preamble for the typeset output from the chat file header.
+
+4/10/2011
+Generate tex file for John Frampton's revised ExPex glossing package.
+
+27/09/2011
+Auto-select most frequent language in a file based on the file header's @Languages line (in cgimport.php).
+
+14/09/2011
+Generate tex file for Natalie Weber's multiline glossing package (xscribe).
 Add empty %eng tier.
 Find and correct typos globally.
 Generate csv version of trigram output.

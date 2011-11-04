@@ -94,7 +94,13 @@ while ($row_s=pg_fetch_object($result_s))
 
     if (isset($row_s->comment))
     {
-        $comment="%com:\t".$row_s->comment."\n";
+        $comment="@Comment:\t".$row_s->comment."\n";
+        fwrite($fp, $comment); 
+    }
+    
+    if (isset($row_s->com))
+    {
+        $comment="%com:\t".$row_s->com."\n";
         fwrite($fp, $comment); 
     }
 

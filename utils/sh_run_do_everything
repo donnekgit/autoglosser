@@ -26,7 +26,7 @@
 # This script runs import_and_convert on all the files specified in the FILES line
 FILES=inputs/patagonia/beta/*.cha
 #FILES=inputs/miami/beta/eng/zeledon6.cha
-REPO=inputs/patagonia
+REPO=inputs/patagonia/autoglossed
 for f in $FILES
 do
 	echo "Processing $f ..."

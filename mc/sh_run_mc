@@ -23,12 +23,12 @@
 #*********************************************************************
 #*/ 
 
-# This script selects a sample of utterances in each file specified in the FILES line, and splits them into clauses
-FILES=inputs/miami/beta/spa/*.cha
-subset=mdna
+# This script selects trigrams from each file specified in the FILES line, and puts them into the table specified in subset.
+FILES=inputs/siarad/beta/*.cha
+subset=pd_npn
 for f in $FILES
 do
 	echo "Processing $f ..."
 	# take action on each file
-	php mc/mc_trigram.php $f $subset
+	php mc/mc_trigram_pd.php $f $subset
 done

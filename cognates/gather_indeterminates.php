@@ -23,15 +23,14 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script gathers indeterminate items in a set of directory files
+// This script gathers indeterminate items in a set of directory files.
 
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$target_dir="inputs/siarad/alpha";  // Set the directory here
+$target="inputs/siarad/alpha";  // Set the directory here
 
-$dir=$target_dir;
-$all_files=scandir($dir);
+$all_files=scandir($target);
 
 //print_r($all_files);
 

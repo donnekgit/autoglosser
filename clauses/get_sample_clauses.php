@@ -62,7 +62,9 @@ foreach ($spdata as $data=>$speaker)  // Loop through the speakers - zeledon5
 			while (count($cumul[$speaker][$quartile][$direction])<$window)
 			// If there are less than the number of hits specified in $window for each speaker, direction and quartile ...
 			{
-				$sql1=query("select $direction (utterance_id) as picked from (select * from $words where utterance_id $opsign $point and speaker='$speaker') as pick");
+				// select all utterances for that speaker where the utterance_id is less than the quartile point, and then take the uppermost of them
+				// or: select all utterances for that speaker where the utterance_id is more than the quartile point, and then take the lowermost of them
+				$sql1=query("select $direction (utterance_id) as picked from (select * from $words where utterance_id $opsign $point and speaker='$speaker') as pick");  // CHECK - should this be $utterances here?
 				while ($row1=pg_fetch_object($sql1))
 				{
 					//echo $row1->utterance_id."\n";

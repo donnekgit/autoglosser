@@ -26,9 +26,9 @@ If not, see <http://www.gnu.org/licenses/>.
 // This file handles dictionary lookups in the Spanish dictionary, eslist.
 
 // For testing purposes:
-//include("includes/fns.php");
-//include("/opt/autoglosser/config.php");
-//$surface="empujándome";
+include("includes/fns.php");
+include("/opt/autoglosser/config.php");
+$surface="mirarélas";
 
 $foundclitics='0';  // Set a marker
 
@@ -50,7 +50,7 @@ if (preg_match("/.+#/", $candidate))  // Only do the clitic lookup if the segmen
 	//echo $prclitic1."\n";
 	//echo $prclitic2."\n";
 
-    $sql_cl="select * from eslist where surface='$cliticverb' and tense~'imper|infin|prespart'";  // We only need to lookup verbs of these forms..
+    $sql_cl="select * from eslist where surface='$cliticverb'";
     $result_cl=pg_query($db_handle,$sql_cl) or die("Can't get the items");
     if (pg_num_rows($result_cl)>0)  // Assuming we have a hit ...
     {

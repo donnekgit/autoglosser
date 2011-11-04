@@ -30,9 +30,11 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
 $zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "spa&eng", "eng&spa", "cym&eng", "cym&spa");
-$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "");
+//$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "s");
+$cylg=array("1", "cy", "cy+en", "cy+es", "cym");
 $enlg=array("2", "en", "en+es", "en+cy", "eng");
-$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
+//$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
+$eslg=array("3", "es", "es+en", "es+cy", "spa");
 
 // Set up the grammar file here.
 $gram_file="en_es";
@@ -58,7 +60,7 @@ function get_filename()
 	if (isset($chafile))
 	{
 		$filename=strtolower(basename(preg_replace("/\..*$/", "", $chafile)));  // remove the extension
-		echo "*\n*\nAutoglossing $chafile. The prefix is $filename - outputs are in outputs/$filename/.\n*\n*\n";
+		echo "Processing $chafile...\n\n";
 	}
 	else
 	{
@@ -581,12 +583,16 @@ function tex_surface($text)
 	$text=preg_replace("/#/", "\#", $text);
 	$text=preg_replace("/</", "$<$", $text);
 	$text=preg_replace("/>/", "$>$", $text);
-	$text=preg_replace("/\.\.\./", " \dots ", $text);
+	$text=preg_replace("/\+\^/", "+\\textasciicircum~", $text);
+	$text=preg_replace("/\+\/\//", "+$//$", $text);
+	//$text=preg_replace("/\.\.\./", " \dots ", $text);
 	// Substitutions to handle IPA characters - remember to load the TIPA package in the header
+	// Valid:
+	$text=preg_replace("/ǝ/", "\\textipa{@}", $text);
+	// Invalid (copy-and-pasted characters aren't recognised by the editor)
 	$text=preg_replace("/ʧ/", "\\textipa{tS}", $text);
 	$text=preg_replace("/ð/", "\\textipa{D}", $text);
 	$text=preg_replace("/ɛ/", "\\textipa{E}", $text);
-	$text=preg_replace("/ə/", "\\textipa{@}", $text);
 	$text=preg_replace("/ɪ/", "\\textipa{I}", $text);
 	$text=preg_replace("/ŋ/", "\\textipa{N}", $text);
 	$text=preg_replace("/ɔ/", "\\textipa{O}", $text);
@@ -602,7 +608,8 @@ function tex_auto($text)
 	$text=preg_replace("/ /", ".", $text);  // get rid of any spaces in the POS string - should no longer be required; now in write_cgfinished
 	$text=preg_replace("/_/", "\_", $text);  // LaTeX no like
 	$text=preg_replace("/%/", "\%", $text);  // LaTeX no like
-	$text=preg_replace("/([a-z])(\..*$)/", "$1{\scriptsize $2}", $text);  // Minimise anything after the first dot (ie make the POS-tags following the lexeme smaller).
+	//$text=preg_replace("/([A-Za-z])(\..*$)/", "$1{\scriptsize $2}", $text);  // Minimise anything after the first dot (ie make the POS-tags following the lexeme smaller).
+	$text=preg_replace("/(([A-Z]|[0-9])([A-Z]|\.).*$)/", "{\scriptsize $1}", $text);  // To make the POS-tags following the lexeme smaller, minimise anything that begins with a digit and cap (3S), a cap and a dot (V.), or two caps (DET).
 	$text=preg_replace("/(I)(\..*$)/", "$1{\scriptsize $2}", $text);  // Handle "I" (1s pron)
     return $text;
 }
@@ -672,7 +679,7 @@ function get_speaker_data($words)
 }
 
 function get_speakers($words)
-// Get the speaker data from the questionnaire table for the speakers in the words table
+// Get the speaker data for the speakers in the words table
 {
 	$sqlsp=query("select speaker, count(speaker) from $words group by speaker order by speaker");
 	while ($rowsp=pg_fetch_object($sqlsp))
@@ -763,10 +770,10 @@ function lg_superscript($text)
 
 function update_langids($line)
 {
-	// Set up the two languages to be counted as indeterminate
-	$indeter="eng&spa";
-	// IMPORTANT!!! Set the secondary language here if @s only is being used
-	$line=preg_replace("/@s([^:])/", "@s:eng$1", $line);  
+	// Set up the two languages to be counted as indeterminate:
+	$indeter="cym&spa";
+	// IMPORTANT!!! Set the secondary language here if @s by itself is being used as a tag.
+	$line=preg_replace("/@s([^:])/", "@s:spa$1", $line);  
 	// Replace all language tags that do not correspond to the default 3-letter tags
 	$line=preg_replace("/@0(?![123])/", "@s:$indeter", $line);
 	$line=preg_replace("/@1(?![23])/", "@s:cym", $line);
@@ -913,6 +920,22 @@ function lineclean_emg($text)
 ?>
 <?php
 function wordclean_emg($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_con($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_con($text)
 // Make corrections to the individual words in the tier.
 {
     // This is a dummy function - add code here.

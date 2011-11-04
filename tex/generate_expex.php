@@ -31,16 +31,22 @@ if (empty($filename))
     include("/opt/autoglosser/config.php");
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
+$capfile=ucfirst($filename);
+
+if (empty($mflg))
+{
+	$mflg="cym";  // If calling this script stand-alone, specify the default language here.
+}
 
 $fp = fopen("outputs/".$filename."/".$filename.".tex", "w") or die("Can't create the file");
-//$fp = fopen("outputs/siarad_manual/$filename.tex", "w") or die("Can't create the file");
+//$fp = fopen("tex/new_expex/$filename.tex", "w") or die("Can't create the file");  // For testing.
 
 $lines=file("tex/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
 	if (preg_match("/filename/", $line))  // replace the holder in the TeX file with the name of the conversation
 	{
-		$line=preg_replace("/filename/", "$filename", $line);
+		$line=preg_replace("/filename/", "$capfile", $line);
 	}
 	else
 	{
@@ -50,20 +56,25 @@ foreach ($lines as $line)
 	fwrite($fp, $line);
 }
 
-$sql_s="select * from $utterances order by utterance_id";
+include("tex/get_details.php");  // Write a preamble to the file by using information from the chat file header.
+
+$sql_s="select * from $utterances where utterance_id<201 order by utterance_id";
 $result_s=pg_query($db_handle,$sql_s) or die("Can't get the items");
 while ($row_s=pg_fetch_object($result_s))
 {
 	$precode=$row_s->precode;
 	echo $precode."\n";
 	
-    $sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
+	$chat=tex_surface($row_s->surface);
+	
+    $sql_w="select * from $words where utterance_id=$row_s->utterance_id and langid!='999' order by location";
 	$result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
 	while ($row_w=pg_fetch_object($result_w))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
-		if ($row_w->langid=="cym" and $precode =="")  // set the default language here
+		//if ($row_w->langid=="spa" and $precode =="")  // set the default language here
+		if ($row_w->langid==$mflg and $precode =="")
 		{
 			$row_w->surface=$row_w->surface;
 		}
@@ -99,7 +110,7 @@ while ($row_s=pg_fetch_object($result_s))
 		{
 			$row_w->surface=$row_w->surface."$^{E+}_{C}$";
 		}
-
+		
 		$surface.=$row_w->surface." ";
 
 		$row_w->auto=tex_auto($row_w->auto);
@@ -113,41 +124,51 @@ while ($row_s=pg_fetch_object($result_s))
 		$mor.=$row_w->mor." ";
 	}
 
-	$begingl="\ex\n\begingl[lingstyle=gergl]\n";
+	$begingl="\ex\n\begingl\n";
 	fwrite($fp, $begingl);
-
+	
 	$precode=($precode=="") ? "": "[-".$precode."]";
 
-	$wsurface="\gla ".$row_s->speaker.": ".$precode." ".$surface." //\n";
-	echo $wsurface."\n";
-	fwrite($fp, $wsurface);
+	$wchat="\glpre ".$row_s->speaker.": ".$precode." ".$chat." //\n";
+	echo $wchat."\n";
+	fwrite($fp, $wchat);
 
-	// The following sections can be selectively uncommented to allow alignment of the autogloss, the manual gloss, or the MOR gloss.  Note that only one of the three can be chosen for display - this is a shortcoming of the current ExPex package, which only allows display of one gloss line in running text mode.
+	if ($surface!='')  // Provided there is verbal content in the line ...
+	{
+		$wsurface="\gla ".$row_s->speaker.": ".$precode." ".$surface." //\n";
+		echo $wsurface."\n";
+		fwrite($fp, $wsurface);
 
-	$wauto="\glb \%aut ".$precode." ".$auto." //\n";  // Autogloss tier.
-	echo $wauto."\n";
-	fwrite($fp, $wauto);
-
+		$wauto="\glb \\textbf{aut:} ".$precode." ".$auto." //\n";  // Autogloss tier.
+		echo $wauto."\n";
+		fwrite($fp, $wauto);
 /*
-	$wgls="\glb \%gls ".$precode." ".$gls." //\n";  // Human gloss tier.
-	echo $wgls."\n";
-	fwrite($fp, $wgls);
+		$wgls="\glc \\textbf{gls:} ".$precode." ".$gls." //\n";  // Human gloss tier.
+		echo $wgls."\n";
+		fwrite($fp, $wgls);
 */
 /*
-	$wmor="\glb \%mor ".$precode." ".$mor." //\n";  // MOR/POST tier.
-	echo $wmor."\n";
-	fwrite($fp, $wmor);
+		$wmor="\glb \%mor ".$precode." ".$mor." //\n";  // MOR/POST tier.
+		echo $wmor."\n";
+		fwrite($fp, $wmor);
 */
-	$weng="\glft ".tex_surface($row_s->eng)." //\n";  // English tier.
-	echo $weng."\n";
-	fwrite($fp, $weng);
 
-	$endgl="\endgl\n\\xe\n";
-	fwrite($fp, $endgl);
+		$weng="\glft ".tex_surface($row_s->eng)." //\n";  // English tier.
+		echo $weng."\n";
+		fwrite($fp, $weng);
+		
+		$endgl="\endgl\n\\xe\n";
+		fwrite($fp, $endgl);
+	}
+	else  // ... if not, just end the example.
+	{
+		$endgl="\endgl\n\\xe\n";
+		fwrite($fp, $endgl);
+	}
 
 	fwrite($fp, "\n");
 
-	unset($surface, $auto, $gls, $mor, $wsurface, $wauto, $wgls, $wmor, $weng, $precode);
+	unset($chat, $surface, $auto, $gls, $mor, $wchat, $wsurface, $wauto, $wgls, $wmor, $weng, $precode);
 }
 
 $lines=file("tex/tex_footer.tex");  // Open footer file.

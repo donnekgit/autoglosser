@@ -23,7 +23,7 @@
 #*********************************************************************
 #*/ 
 # This script uses ack-grep to find instances of a particular string in all the files in the corpus.
-
+# http://betterthangrep.com/
 
 # If using grep, uncomment the following line:
 #export GREP_OPTIONS='--color=auto' GREP_COLOR='1;37;41' # Get grep to highlight the matches in colour (red by default)
@@ -34,7 +34,9 @@
 # 7 displays matches in inverse video
 # 1;37;41 shows white text on a red background
 
-FILES=inputs/patagonia/beta/*.cha
+FILES=inputs/miami/beta/*.cha
+#FILES=devstuff/webster/*
+
 
 # set up the regex for grep to use
 #STRING='[[:blank:]]dyn nhw'  # dyn nhw preceded by a space (line-medial) or tab (line-initial) - otherwise you get instances of iddyn nhw
@@ -44,12 +46,13 @@ FILES=inputs/patagonia/beta/*.cha
 #STRING='wrtha ni'
 #STRING='[^@][a-z]:[a-z]'
 #STRING='mae nhw'
-#STRING='doh'
+STRING='asustarla'
 #STRING='oh@s:cym'
 #STRING='[a-z]-[a-z]'
 #STRING='[[:blank:]]i (ffwrdd|fynylawr|gyd|mewn|fewn) '
 #STRING='([[:blank:]]yn) ((ôl) )'
-STRING='([[:blank:]]hanodd )'
+#STRING='([[:blank:]]hanodd )'
+#STRING='\*[A-Z]{3}:\t.*ll'  # select ll only in speaker tier for Sarah - grep -v '\[- spa\]' sarah_ll.txt > output.txt to remove precodes; %snd:.[^_]*_ to remove old-style sound-bullets
 
 
 for f in $FILES

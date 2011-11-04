@@ -26,8 +26,8 @@
 # This script creates a table ($unknowns) to hold unknown words, and fills it with unknown words tagged as $mylang in each file specified in the FILES line.
 
 FILES=inputs/patagonia/beta/*.cha
-unknowns=patagonia_cym_unknowns
-mylang=cym
+unknowns=patagonia_ind_unknowns
+mylang="cym&spa"
 uniq=${unknowns}_uniq
 
 php unknowns/create_unk_table.php $unknowns

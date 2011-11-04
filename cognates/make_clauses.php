@@ -21,20 +21,15 @@ You should have received a copy of the GNU General Public License
 and the GNU Affero General Public License along with this program.
 If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
-*/ 
+*/
 
-include("includes/fns.php");
-include("/opt/autoglosser/config.php");
 
-// Generate default names from the filepath given
-list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
-
-echo $chafile."\n";
-echo $filename."\n";
-echo $utterances."\n";
-echo $words."\n";
-echo $cgfinished."\n";
-echo "Outputs are in outputs/$filename/\n";
+if (empty($filename))
+{
+	include("includes/fns.php");
+	include("/opt/autoglosser/config.php");
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+}
 
 include("mark.php");
 

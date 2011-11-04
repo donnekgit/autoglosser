@@ -35,7 +35,7 @@ The output file will need the headers added manually, and the languages need to 
 /*
 TODO
 Ensure that the language entries in the header file are changed: @Languages, @ID, and @Comment:Language markers.
-Adjust the regx to cover instances where @s:en/es is directly followed by a period (ie, a typo, it should be "@s:en .")
+Adjust the regex to cover instances where @s:en/es is directly followed by a period (ie, a typo, it should be "@s:en .")
 */
 
 if (empty($filename))
@@ -112,7 +112,13 @@ while ($row3=pg_fetch_object($sql3))
 
     if (isset($row3->comment))
     {
-        $comment="%com:\t".$row3->comment."\n";
+        $comment="@Comment:\t".$row3->comment."\n";
+        fwrite($fp, $comment); 
+    }
+    
+    if (isset($row3->com))
+    {
+        $comment="%com:\t".$row3->com."\n";
         fwrite($fp, $comment); 
     }
 
@@ -125,6 +131,6 @@ fwrite($fp, "@End\n");
 
 fclose($fp);
 
-exec("mv outputs/$filename/$filename.cha inputs/mar/beta/$filename.cha");
+exec("mv outputs/$filename/$filename.cha inputs/patagonia/beta/spa/$filename.cha");
 
 ?>

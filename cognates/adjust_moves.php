@@ -32,94 +32,98 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$sql0="select * from $words where clause='c' order by utterance_id, location";
+$sql0="select * from $words where clause='c' order by utterance_id, location";  // Gather all the clause-marked words.
 $result0=pg_query($db_handle,$sql0) or die("Can't get the items");
 while ($row0=pg_fetch_object($result0))
 {
 	$utt=$row0->utterance_id;
-	$s0=$row0->surface; // current surface
-	$a0=$row0->auto; // current auto
+	
+	$this_s=$row0->surface; // Current surface.
+	$this_a=$row0->auto; // Current autogloss.
 
-	$loc[0]=$row0->location; // current location
-	$loc[1]=$loc[0]-1; // previous location
+	$this_loc=$row0->location; // Current location.
+	$before=$this_loc - 1;  // Location one slot back (previous location).
+	$before2=$this_loc - 2;  // Location two slots back.
+	$after=$this_loc + 1;  // Location one slot forward (next location).
+	$after2=$this_loc + 2;  // Location two slots forward.
 
-	$sql1="select * from $words where utterance_id=$utt and location=$loc[1]";
+	$sql1="select * from $words where utterance_id=$utt and location=$before";  // Get the word before the clause-marked word.
 	$result1=pg_query($db_handle,$sql1) or die("Can't get the items");
 	while ($row1=pg_fetch_object($result1))
 	{
-		$s1=$row1->surface; // previous surface
-		$a1=$row1->auto; // previous auto
+		$prev_s=$row1->surface; // Previous surface.
+		$prev_a=$row1->auto; // Previous auto.
 		
 		// Link words before que in Spanish
-		if (preg_match("/^(hasta|lo|la|las|tengo|tiene|tienes|tienen)$/", $s1) && preg_match("/que/", $s0))
+		if (preg_match("/^(hasta|lo|la|las|tengo|tiene|tienes|tienen)$/", $prev_s) && preg_match("/que/", $this_s))
 		{
-			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$loc[1]";
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
 
-			$sqld="update $words set clause=clause || '+m1' where utterance_id=$utt and location=$loc[0]";
+			$sqld="update $words set clause=clause || '+m1' where utterance_id=$utt and location=$this_loc";
 			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
 			
-			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
+			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
 		
 		// Link words in English
-		if (preg_match("/(if|and|what|when|why|where|since|because)/", $s1) && preg_match("/PRON.SUB/", $a0))
+		if (preg_match("/(if|and|what|when|why|where|since|because)/", $prev_s) && preg_match("/PRON.SUB/", $this_a))
 		{
-			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$loc[1]";
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
 
-			$sqld="update $words set clause=clause || '+m2' where utterance_id=$utt and location=$loc[0]";
+			$sqld="update $words set clause=clause || '+m2' where utterance_id=$utt and location=$this_loc";
 			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
 			
-			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
+			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
 				
 		// Prepositions before infinitives in Welsh
-		if (preg_match("/^(yng?|wedi|am|heb|newydd)$/", $s1) && preg_match("/INFIN/", $a0))
+		if (preg_match("/^(yng?|wedi|am|heb|newydd)$/", $prev_s) && preg_match("/INFIN/", $this_a))
 		{
-			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$loc[1]";
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
 
-			$sqld="update $words set clause=clause || '+m1' where utterance_id=$utt and location=$loc[0]";
+			$sqld="update $words set clause=clause || '+m1' where utterance_id=$utt and location=$this_loc";
 			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
 			
-			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
+			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
 		
 		// Prepositions i and o before infinitives in Welsh
-		if (preg_match("/^(i|o)$/", $s1) && preg_match("/PREP/", $a1) && preg_match("/INFIN/", $a0))
+		if (preg_match("/^(i|o)$/", $prev_s) && preg_match("/PREP/", $prev_a) && preg_match("/INFIN/", $this_a))
 		{
-			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$loc[1]";
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
 
-			$sqld="update $words set clause=clause || '+m2' where utterance_id=$utt and location=$loc[0]";
+			$sqld="update $words set clause=clause || '+m2' where utterance_id=$utt and location=$this_loc";
 			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
 			
-			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
+			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
 		
 		// Link words before verbs in Welsh
-		if (preg_match("/^(na|ac?|pan|be|so|os|lle|sut|just|ond|neu|pwy)$/", $s1) && preg_match("/\.V\./", $a0))
+		if (preg_match("/^(nag?|ac?|pan|be|so|os|lle|sut|just|ond|neu|pwy|pryd)$/", $prev_s) && preg_match("/\.V\./", $this_a))
 		{
-			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$loc[1]";
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
 
-			$sqld="update $words set clause=clause || '+m3' where utterance_id=$utt and location=$loc[0]";
+			$sqld="update $words set clause=clause || '+m3' where utterance_id=$utt and location=$this_loc";
 			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
 			
-			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
+			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
 		
 		// Pronominal infinitives in Welsh
-		if (preg_match("/ADJ\.POSS/", $a1) && preg_match("/INFIN/", $a0))
+		if (preg_match("/ADJ\.POSS/", $prev_a) && preg_match("/INFIN/", $this_a))
 		{
-			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$loc[1]";
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
 
-			$sqld="update $words set clause=clause || '+m4' where utterance_id=$utt and location=$loc[0]";
+			$sqld="update $words set clause=clause || '+m4' where utterance_id=$utt and location=$this_loc";
 			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
 			
-			echo "Moving $utt,$loc[0] to $utt,$loc[1]\n";
+			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
 	}
 }

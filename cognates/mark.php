@@ -34,14 +34,26 @@ if (empty($filename))
 
 $sql_clear=query("update $words set clause=''");  // Remove previous clause-splitting entries
 
-$sql_mark=query("update $words set clause='c' where location=1");  // Put a clause-marker at the beginning of every utterance
+//$sql_mark=query("update $words set clause='c' where location=1");  // Put a clause-marker at the beginning of every utterance // Deprecated
 
 $sql_mark=query("update $words set clause='c' where langid='spa' and surface~'^(cuando|porque|quién|qué|que|donde|si|pero)$'");  // Put a clause-marker against conjunctions in Spanish
 
 $sql_mark=query("update $words set clause='c' where langid='eng' and auto~'PRON.SUB'");  // Put a clause-marker against subject pronouns in English
 
-//$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.(?!INFIN)'");  // Put a clause-marker against verb entries in Welsh provided they are not infinitives
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.(?!INFIN)'");  // Put a clause-marker against verb entries in Welsh provided they are not infinitives
 
-$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.?'");  // Put a clause-marker against verb entries in Welsh, including infinitives
+//$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.?'");  // Put a clause-marker against verb entries in Welsh, including infinitives
+
+$sql_mark=query("update $words set clause='c' where langid='cym' and surface='bod'");  // Put a clause-marker against "bod" in Welsh, which forms a subordinate clause
+
+//$sql_mark=query("update $words set clause='c' where langid='cym' and auto='and.CONJ'");
+//$sql_mark=query("update $words set clause='c' where langid='cym' and auto='or.CONJ'");
+$sql_mark=query("update $words set clause='c' where langid='cym' and gls='TAG'");
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto='you_know.IM'");
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto='yes.ADV.PAST'");  
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto='that is.ADV'");  // dyna
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto='or.CONJ' and gls='then'");
+
+
 
 ?>

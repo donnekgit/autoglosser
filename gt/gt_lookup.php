@@ -33,7 +33,7 @@ $gt = new GoogleTranslateWrapper();
 $gt->setReferrer("http://kevindonnelly.org.uk");
 $apiKey = "ABQIAAAAqzssasDT1Uj1D4puCMQwVRQXhoz1HJX1na5odYtLRRsz6bu7cRRXwnMnCXgnfiGL-o6oc3HZTd9GSQ";
 
-$source_table="miami_eng_unknowns_uniq";
+$source_table="patagonia_spa_unknowns_uniq";
 
 $sql="select * from $source_table order by surface";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");

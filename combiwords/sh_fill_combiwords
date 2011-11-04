@@ -26,17 +26,18 @@
 export PGPASSWORD=kevindbs
 psql="psql -h localhost -U kevin -d autoglosser"
 
-FILES=inputs/siarad/beta/*.cha
-COMBI=siar
+FILES=inputs/patagonia/beta/*.cha
+COMBI=pat
 
 for f in $FILES
 do
 	filename=$(basename $f)  # the filename from the path - file.cha
 	fixedfile=${filename%.cha}_cgwords  # switch the filename's extension to _cgwords for the output file - file_cgwords
 	echo "Processing $fixedfile ..."
-	$psql --c "insert into combiwords_$COMBI(utterance_id, location, surface, auto, speaker, langid, filename) select utterance_id, location, surface, auto, speaker, langid, filename from $fixedfile"
+	$psql --c "insert into combiwords_$COMBI(utterance_id, location, surface, auto, speaker, langid, filename) select utterance_id, location, #surface, auto, speaker, langid, filename from $fixedfile"
 done
 
+# $psql here is not a mistake - it refers to the variable set up above.
 $psql --c "create table combiwords_${COMBI}_uniq as select langid, surface, auto, count(surface) from combiwords_$COMBI where langid!='999' group by langid, surface, auto order by langid, surface, auto"
 
 $psql --c "alter table combiwords_${COMBI}_uniq add column filename text"

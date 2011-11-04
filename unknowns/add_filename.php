@@ -28,11 +28,13 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$source_table="patagonia_cym_unknowns";
+// Corpus
+$source_table="patagonia_ind_unknowns";
 $uniq=$source_table."_uniq";
 
-//$source_table="combiwords_mi";
-//$uniq="combiwords_mi_uniq";
+//Combiwords
+//$source_table="combiwords_pat";
+//$uniq="combiwords_pat_uniq";
 
 $filelist=array();
 

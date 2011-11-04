@@ -39,3 +39,6 @@ sed '/\*[A-Z]/ d' > $path/$shortfile.snip
 # Create the outputs dir if it doesn't exist, and copy the headers there
 mkdir -p outputs/$shortfile
 mv $path/$shortfile.snip outputs/$shortfile/
+# If running this separately to refetch the headers, comment out the above line and uncomment these two:
+#mv $path/$shortfile.snip outputs/$shortfile/$shortfile.header
+#rm outputs/$shortfile/$shortfile.snip

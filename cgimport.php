@@ -30,6 +30,50 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// Get the most frequent and less frequent languages from the file header. 
+$lines=file("outputs/$filename/$filename.header");  // Open the header file.
+foreach ($lines as $line)
+{
+	if (preg_match("/@Languages:\t/", $line))
+	{
+		$lgline=trim(preg_replace("/@Languages:\t/","", $line));
+		$filelgs=explode(", ", $lgline);
+		//print_r($filelgs);
+	}
+}
+
+// Add the most-frequent language to the correct tag array in includes/fns.php.
+switch ($filelgs[0]) 
+{
+	case "cym":
+		array_push($cylg, "");
+		break;
+	case "eng":
+		array_push($enlg, "");
+		break;
+	case "spa":
+		array_push($eslg, "");
+		break;
+}
+
+// Add the second most-frequent language to the correct tag array in includes/fns.php.
+switch ($filelgs[1]) 
+{
+	case "cym":
+		array_push($cylg, "s");
+		break;
+	case "eng":
+		array_push($enlg, "s");
+		break;
+	case "spa":
+		array_push($eslg, "s");
+		break;
+}
+
+// Set up the variables for most and less-frequent languages for use by rewrite_utterances.php and tex/generate_expex.php
+$mflg=$filelgs[0];
+$lflg=$filelgs[1];
+
 // Scan the file for sub-tiers.
 scan_tiers($chafile, $filename);
 
@@ -127,8 +171,8 @@ foreach ($lines as $line)
         }
     }
 
-    // Collect comments, if any.  FIXME: In a series of comments, the last one will overwrite previous ones - we need to concatenate these, or write them to a separate table using the utterance_id as the key.
-	if (preg_match("/^@Comment/", $line) or preg_match("/^%com/", $line) )
+    // Collect comments, if any.  FIXME: In a series of comments, the last one will overwrite previous ones - we need to concatenate these.
+	if (preg_match("/^@Comment/", $line))
     {
         $comment=preg_split('/:\t/', $line);
         $comment=$comment[1];       
@@ -139,6 +183,18 @@ foreach ($lines as $line)
         $sql="update $utterances set comment='$comment' where utterance_id=currval('".$utterances."_utterance_id_seq')";
         $result=pg_query($db_handle,$sql) or die("Can't insert the items");  
     }
+    
+   if (preg_match("/^%com/", $line))
+    {
+        $com=preg_split('/:\t/', $line);
+        $com=$com[1];       
+        $com=trim(pg_escape_string($com));
+
+		echo $com."\n";
+        
+        $sql="update $utterances set com='$com' where utterance_id=currval('".$utterances."_utterance_id_seq')";
+        $result=pg_query($db_handle,$sql) or die("Can't insert the items");  
+    } 
 
 	unset($durbegin, $durend, $duration); 
   
