@@ -60,7 +60,7 @@ while ($row1=pg_fetch_object($sql1))  // Get all of them, and then loop through 
 		}
 	}
 	
-	$sql4=query("select * from $words where utterance_id=$row1->utterance_id and location=$before2"); // <----- Get the last-but-one word.
+	$sql4=query("select * from $words where utterance_id=$row1->utterance_id and location=$before2"); // <----- Get the previous-but-one word.
 	while ($row4=pg_fetch_object($sql4))
 	{  // No conditions on the word-type this time (though you could add some here if you needed to).
 		$surface4=pg_escape_string($row4->surface);  // <----- Get the surface, autogloss and language tag.

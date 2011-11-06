@@ -32,7 +32,7 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("cognates/output/newautosplit.txt", "w") or die("Can't create the file");
+$fp = fopen("cognates/$filename/".$filename."_split.txt", "w") or die("Can't create the file");
 
 $sql1="select utterance_id, speaker from $words group by utterance_id, speaker order by utterance_id";  // List the utterance_ids and speaker in sequence.
 $result1=pg_query($db_handle,$sql1) or die("Can't get the items");

@@ -7,7 +7,7 @@ kevindonnelly.org.uk
 This file is part of the Bangor Autoglosser.
 
 This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License and the GNU
+it under the terms of the GNU General Public License or the GNU
 Affero General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option)
 any later version.
@@ -23,8 +23,6 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script inserts cognates from the various lists into new fields in the words table.
-
 if (empty($filename))
 {
 	include("includes/fns.php");
@@ -32,19 +30,13 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-add_column_if_not_exist($words, "cognate");
+$add_cognate=query("alter table $words add column cognate character varying(20)");
 
-$sql_clear=query("update $words  set cognate=''");  // Remove previous cognate entries
+$add_rei=query("alter table $words add column rei character varying(10)");
+$blank_rei=query("update stammers4_cgwords set rei='' where rei is null");
 
-// For langid!='cym', see email of 8 June 2011 - it prevents "fan" and "pan" being interpreted as English when they are in fact Welsh
-$sql_fill=query("update $words set cognate='t1' where surface in (select cognate from di_cognates) and langid!='cym'");
+$add_spkturn=query("alter table $words add column spkturn integer");
 
-$sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_n) and langid!='cym' and cognate=''");
-// Specify that the cognate field must be empty, to prevent later onion-rings over-writing earlier ones.
-
-//$sql_fill=query("update $words set cognate='t3' where surface in (select surface from stammers4_triggers) and langid!='cym' and cognate=''");
-
-
-// Omit the langid!='cym' clause from the -io verbs line (because they are already marked cym)
+$add_clspk=query("alter table $words add column clspk integer");
 
 ?>

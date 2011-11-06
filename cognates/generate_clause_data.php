@@ -147,7 +147,6 @@ while ($row1=pg_fetch_object($sql1))
 			// intra-clausal
 			array_shift2($scan);  // Drop $f from the array without reindexing the other elements.
 			$langs=array_flip(array_count_values($scan));  // Count the non-F values (languages) - they are now in key position, so flip them to get a list of languages used in the rest of the clause.
-			// NOTE: Couldn't the following be done more simply by using "if in_array($f, $langs) ..." ??
 			$pattern=array($f);  // Put F in an array.
 			$otherlgs=array_values($langs);  // Put the non-F languages in an array.
 			$binkie=array_diff($otherlgs, $pattern);  // Compare the two to see if there is a language in non-F that does not exist in F.
