@@ -1,5 +1,14 @@
 Changelog
 
+
+24/11/2011
+Further work on codeswitches.
+Generate concordance of utterances for individual words.
+Show differences in autogloss output between old and new versions of _autoglossed.txt.
+
+14/11/2011
+Improve lookup to handle indeterminates from more than one language pair.
+
 6/11/2011
 New method of tracking codeswitches due to triggers.
 
@@ -23,7 +32,6 @@ Auto-select most frequent language in a file based on the file header's @Languag
 
 14/09/2011
 Generate tex file for Natalie Weber's multiline glossing package (xscribe).
-Add empty %eng tier.
 Find and correct typos globally.
 Generate csv version of trigram output.
 

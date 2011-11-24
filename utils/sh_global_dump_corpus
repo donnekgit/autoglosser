@@ -25,10 +25,12 @@
 
 # This script does a compressed dump of the _cgutterances and _cgwords table for each file in the corpus into a dump dir.
 # The --clean option means that the file will include SQL commands to drop the old table.
+# Use sh_global_update_corpus to import these compressed dumps back into a database.
 
-#FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names
-FILES=inputs/patagonia/*.cha  # Corpus tables, based on the chat files in the corpus directory
-GZDIR=dbdevel/patagonia_dump
+#FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
+FILES=inputs/patagonia/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
+GZDIR=dbdevel/patagonia_dump  # Specify the dump dir.
+
 for f in $FILES
 do
 	filename=$(basename $f)  # the filename from the path - file.cha

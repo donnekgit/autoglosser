@@ -43,7 +43,7 @@ include("utils/langid_header.php");
 
 // Convert tags, do an initial import, and convert to precode format - see the script for more details.
 // Comment out if no conversion is required.
-include("import_and_convert.php");
+//include("import_and_convert.php");
 // This script runs some other scripts, so check it carefully to see that its settings are OK.
 
 ?>

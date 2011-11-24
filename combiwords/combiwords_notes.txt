@@ -31,6 +31,8 @@ To get a separate table with all fields so that the unknowns can be added to the
 
 
 
+Get a list of all the POS-tags used in the corpus (not perfect, but reasonable):
+select regexp_replace(auto, '^[A-Za-z_-ñ\\\' ]*\\\.?', '') as POS from combiwords_mi_uniq where auto !~'\\\[or\\\]' and auto is not null group by POS order by POS 
 
 
 

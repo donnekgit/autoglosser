@@ -34,7 +34,7 @@ if (empty($filename))
 
 $cognates=$filename."_cognates";
 
-$fp = fopen("cognates/$filename/".$filename."_cog.txt", "w") or die("Can't create the file");
+$fp = fopen("cognates/outputs/".$filename."_cog.txt", "w") or die("Can't create the file");
 
 $sql_t=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and place them in order.
 while ($row_t=pg_fetch_object($sql_t))
@@ -59,14 +59,15 @@ while ($row1=pg_fetch_object($sql1))
 		$minloc=$row3->minloc;
 		$maxloc=$row3->maxloc;
 		$speaker=$row3->speaker;
-		$t=unserialize($row3->t_ser);  // Remember that the figure refers to the location, which will be between minloc and maxloc.
-		$nt_lg=unserialize($row3->nt_lg_ser);  // The count of the different langauages appearing in the clause.
+		$t=unserialize($row3->t_ser);  // Remember that the figure in the T array refers to the location, which will be between minloc and maxloc.
+		$nt_lg=unserialize($row3->nt_lg_ser);  // The count of the different languages appearing in the clause.
 		$surface=$row3->surface;
 		$new=$row3->newturn;
 		$f_lg=$row3->f_lg;
 		$p_lg=$row3->p_lg;
-		$clause_id=$row3->clause_id;
-		$nextcl=$clause_id+1;
+		$clause_id=$row3->clause_id;  // Number of this clause.
+		$nextcl=$clause_id+1;  // Number of the next clause.
+		$prevcl=$clause_id-1;  // Number of the previous clause.
 
 		$sql4=query("select * from $cognates where clause_id=$nextcl");
 		while ($row4=pg_fetch_object($sql4))
@@ -74,8 +75,19 @@ while ($row1=pg_fetch_object($sql1))
 			$next_f_lg=$row4->f_lg;
 			$nextnew=$row4->newturn;
 		}
+		
+		$sql5=query("select * from $cognates where clause_id=$prevcl");
+		while ($row5=pg_fetch_object($sql5))
+		{
+			$prev_p_lg=$row5->p_lg;
+			$prevnew=$row5->newturn;
+		}
+		
 	}
 	
+	
+	
+	// ****************************
 	// External count (interclausal) - is there a codeswitch between the last non-T word of a clause and the first word of the next clause?
 	
 	// Algorithm
@@ -92,16 +104,36 @@ while ($row1=pg_fetch_object($sql1))
 	{
 		$external=(empty($t)) ? "NSNT" : "NST";
 	}
-	
-	if ($new=='new')  // Add a blank line to show changes in speech-turn.
-	{
-		fwrite($fp, "\n");  // Add a blank line to delineate speaker turns.
-		echo "\n";
-	}
-	
+		
 	$external=($tally[$spkturn]<2) ? "---" : $external;  // Remove the external type marker when there is only one clause in the speaker turn.
 	$external=($nextnew=='new') ? "---" : $external;  // Remove the external type marker on the last clause in the speaker turn.
+
+
+
+	// ****************************
+	// Backward external count (interclausal) - is there a codeswitch between the first non-T word of this clause and the last word of the previous clause?
 	
+	// Algorithm
+	// get the language of the last non-T in the previous clause (call it p_lg)
+	// get the language of the first non-T in this clause (call it f_lg)
+		// if f_lg != p_lg, then S, else NS
+		// if this clause contains T, then T, else NT
+
+
+	if ($prev_p_lg!=$f_lg)  // If there is an externalb codeswitch (a switch in language between clauses) ...
+	{
+		$externalb=(empty($t)) ? "SNT" : "ST";
+	}
+	else
+	{
+		$externalb=(empty($t)) ? "NSNT" : "NST";
+	}
+
+	$externalb=($new=='new') ? "---" : $externalb;  // Remove the externalb type marker on the first clause in the speaker turn.
+
+
+
+	// ****************************
 	// Internal count (intraclausal) - is there a codeswitch anywhere within the clause?
 	
 	// Algorithm
@@ -116,7 +148,10 @@ while ($row1=pg_fetch_object($sql1))
 	{
 		$internal=(empty($t)) ? "NSNT" : "NST";
 	}
-
+	
+	
+	
+	// ****************************
 	// Write out a check file
 
 	if ($new=='new')  // Add a blank line to show changes in speech-turn.
@@ -125,10 +160,10 @@ while ($row1=pg_fetch_object($sql1))
 		echo "\n";
 	}
 
-	fwrite($fp, $spkturn.", ".$clspk."\t".$utt.",".$minloc."-".$maxloc."\t".$speaker."\t".$surface."\t".$external."\t".$internal."\n");  // Write out the clauses.
-	echo $speaker.": ".$surface." - ".$external." // ".$internal."\n";
+	fwrite($fp, $spkturn.", ".$clspk."\t".$utt.", ".$minloc."-".$maxloc."\t".$speaker."\t".$surface."\t".$external."\t".$externalb."\t".$internal."\n");  // Write out the clauses.
+	echo $speaker.": ".$surface." - ".$external." // ".$externalb." // ".$internal."\n";
 	
-	$write1=query("update $cognates set external='$external', internal='$internal' where spkturn=$spkturn and clspk=$clspk");
+	$write1=query("update $cognates set external='$external', externalb='$externalb', internal='$internal' where spkturn=$spkturn and clspk=$clspk");
 }
 
 fclose($fp);

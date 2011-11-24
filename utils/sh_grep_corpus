@@ -34,7 +34,7 @@
 # 7 displays matches in inverse video
 # 1;37;41 shows white text on a red background
 
-FILES=inputs/miami/beta/*.cha
+FILES=inputs/patagonia/beta/*.cha
 #FILES=devstuff/webster/*
 
 
@@ -45,15 +45,15 @@ FILES=inputs/miami/beta/*.cha
 #STRING='[Ss]panish'
 #STRING='wrtha ni'
 #STRING='[^@][a-z]:[a-z]'
-#STRING='mae nhw'
-STRING='asustarla'
-#STRING='oh@s:cym'
+#STRING='dorma'
+#STRING='asustarla'
+#STRING='[[:blank:]]o@s:cym&spa '
 #STRING='[a-z]-[a-z]'
 #STRING='[[:blank:]]i (ffwrdd|fynylawr|gyd|mewn|fewn) '
 #STRING='([[:blank:]]yn) ((ôl) )'
 #STRING='([[:blank:]]hanodd )'
-#STRING='\*[A-Z]{3}:\t.*ll'  # select ll only in speaker tier for Sarah - grep -v '\[- spa\]' sarah_ll.txt > output.txt to remove precodes; %snd:.[^_]*_ to remove old-style sound-bullets
-
+STRING='\*[A-Z]{3}:\t.*ll'  # select ll only in speaker tier (for Sarah's project) - grep -v '\[- spa\]' sarah_ll.txt > output.txt to remove precode lines (ie lines in Spanish); %snd:.[^_]*_ to remove old-style sound-bullets
+#STRING='[[:blank:]]nine_deg'
 
 for f in $FILES
 do

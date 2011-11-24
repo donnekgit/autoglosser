@@ -918,8 +918,8 @@ remove ("pasa" n);  # raisin ~pasa
 
 # Articles
 
-select ([es] det.def) if (1 (n f) or (adj f) or (ord f) or ([en] adj) or ([en] n)); # los dry walls
-select ([es] det.def) if (1 (n m) or (adj m) or (ord m));
+select ([es] det.def f) if (1 (n f) or (adj f) or (ord f) or ([en] adj) or ([en] n));
+select ([es] det.def m) if (1 (n m) or (adj m) or (ord m) or ([en] adj) or ([en] n));  # los dry walls
 select ([es] det.def) if (-1 ("de" prep :of:));
 select ([es] det.def) if (not 1 (v));  # los ladrillos ... los 
 select ([es] det.def nt sg) if (1 ("que" [es] conj));  # en lo que

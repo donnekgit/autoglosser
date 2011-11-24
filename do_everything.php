@@ -57,14 +57,11 @@ include("join_tags.php");
 echo "*\n*\nTidying the $words table\n*\n*\n";
 include("tidy_or.php");
 
-//echo "*\n*\nTidying the $words table\n*\n*\n";
-//include("tidy_or.php");
+//echo "*\n*\nTidying Spanish\n*\n*\n";
+//include("osfixes.php");
 
-echo "*\n*\nTidying Spanish\n*\n*\n";
-include("osfixes.php");
-
-echo "*\n*\nTidying Spanish\n*\n*\n";
-include("owfixes.php");
+//echo "*\n*\nTidying Welsh\n*\n*\n";
+//include("owfixes.php");
 
 echo "*\n*\nWriting a chat file for $filename\n*\n*\n";
 include("write_cgautogloss.php");

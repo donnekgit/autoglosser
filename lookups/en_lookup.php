@@ -85,7 +85,7 @@ if (preg_match("/.+#/", $candidate))
 		}
 	}
 	unset($prseg2);  // The endings need to be cleared here, or when there is more than one hit in the cohort, hits other than the first one will not have the ending appended.
-}
+} // End clitic form lookup.
 
 // Now look up non-clitic forms.
 //echo $surface."\n";

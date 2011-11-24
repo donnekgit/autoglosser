@@ -70,7 +70,7 @@ switch ($filelgs[1])
 		break;
 }
 
-// Set up the variables for most and less-frequent languages for use by rewrite_utterances.php and tex/generate_expex.php
+// Set up the variables for more-frequent and less-frequent languages for use by rewrite_utterances.php and tex/generate_expex.php.  The most frequent language is the one that is unmarked in the text, the less frequent language is the one that will be unmarked with a precode at the beginning of the line.  Note that this system only accommodates two languages - we probably need to rethink for three or more.
 $mflg=$filelgs[0];
 $lflg=$filelgs[1];
 
@@ -112,7 +112,8 @@ foreach ($lines as $line)
 		{
 			list($precode, $surface)=explode(']', $surface_pc, 2);
 			// We need to limit the explodes, or all items in square brackets will be hit, hence specify a split into two pieces.
-			$precode=trim(preg_replace("/\[- /", "", $precode));  // Delete [- from the precode.
+			$precode=trim(preg_replace("/\[- ?/", "", $precode));
+			// Delete [- from the precode.  Allow for people leaving out the space after the hyphen.
 		}
 		else
 		{

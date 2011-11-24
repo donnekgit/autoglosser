@@ -32,7 +32,7 @@ if (empty($filename))
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$spdata=get_speakers($words);
+$spdata=get_speakers($words);  // Note that this will only log speakers with more than 200 utterances.
 
 $lines=file("outputs/$filename/$filename.header");  // Open the header file.
 
@@ -44,11 +44,11 @@ foreach ($spdata as $data=>$speaker)  // Loop through the speakers - miami
 	{
 		if (preg_match("/@ID/", $line) and preg_match("/$speaker/", $line))  // Get speaker attributes
 		{
-			$attribs=explode($speaker, $line);
-			$details=preg_replace("/\|/", ",", $attribs[1]);
-			$details=preg_replace("/,+/", ",", $details);
-			$details=substr(trim($details), 1, -1);
-			$details=preg_replace("/,/", ", ", $details);
+			$attribs=explode($speaker, $line);  // givea: @ID: cym|siarad| + |40||male|||Adult||
+			$details=preg_replace("/\|/", ",", $attribs[1]);  // gives: ,40,,male,,,Adult,,
+			$details=preg_replace("/,+/", ",", $details);  // gives: ,40,male,Adult,
+			$details=substr(trim($details), 1, -1);  // gives: 40,male,Adult
+			$details=preg_replace("/,/", ", ", $details);  // gives: 40, male, Adult
 			if (preg_match("/\d*;/", $details))
 			{
 				$details=preg_replace("/(\d*);(\d*)\.(\d*)/", "$1 yr $2 mth", $details);
@@ -69,11 +69,13 @@ foreach ($spdata as $data=>$speaker)  // Loop through the speakers - miami
 	unset ($speaker, $details, $name, $id);
 }
 
+// print_r($parts);
+
 foreach ($parts as $part)
 {
 	$person.=$part[name]. " (".$part[id]." - ".$part[details]."), ";
 }
-echo "\\textbf{Participants}: ".substr(trim($person), 0, -1).".\n";
+echo "Participants: ".substr(trim($person), 0, -1).".\n";
 
 foreach ($lines as $line)
 {

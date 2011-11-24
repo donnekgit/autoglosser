@@ -40,6 +40,7 @@ while ($row=pg_fetch_object($result))
     $utt=$row->utterance_id;
     $loc=$row->location;
     $place=" {".$utt.",".$loc."} ";
+    $langid=$row->langid;
 	//echo $row->surface."\n";
 
     $stream="\"<".$row->surface.">\"\n";  // Each surface form ends in a newline.
@@ -47,24 +48,24 @@ while ($row=pg_fetch_object($result))
 	echo $stream;
 	fwrite($fp, $stream);
 
-    // The language id variables are set at the top of the includes/fns.php file.  They tell the script how to relate the langid marker to which dictionary to look up the words in.  With the new marking, the main language for the text is represented by an empty langid marker, so the main language needs to be specified there by adding "" to the relevant array there. 
-	if (in_array($row->langid, $cylg))  // Look up the Welsh dictionary.
+    // The language id variables are set at the top of the includes/fns.php file.  They tell the script how to relate the langid marker to which dictionary to look up the words in.  With the new marking, the main language for the text is represented by an empty langid marker, so the main language needs to be specified there by adding "" to the relevant array there.    
+	if (in_array($langid, $cylg))  // Look up the Welsh dictionary.
 	{
         include("lookups/cy_lookup.php");	
 	}
-	elseif (in_array($row->langid, $enlg))  // Look up the English dictionary.
+	elseif (in_array($langid, $enlg))  // Look up the English dictionary.
 	{
         include("lookups/en_lookup.php");
 	}
-	elseif (in_array($row->langid, $eslg))  // Look up the Spanish dictionary.
+	elseif (in_array($langid, $eslg))  // Look up the Spanish dictionary.
 	{
         include("lookups/es_lookup.php");
 	}
-    elseif (in_array($row->langid, $zerolg))  // Deal with words marked @0.
+    elseif (in_array($langid, $zerolg))  // Deal with words marked @0.
     {
         include("lookups/zero_lookup.php");
     }
-	elseif ($row->langid=='999')  // Deal with punctuation.
+	elseif ($langid=='999')  // Deal with punctuation.
 	{
         $entry="\n";
         echo $entry;  // View

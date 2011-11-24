@@ -34,10 +34,12 @@ do
 	#sed -i "/\*[A-Z]/s/ i \([mf]\)ewn/ i_\1ewn/g" $f 
 	#perl -pi -e 's/([[:blank:]])i ((ffwrdd|fynylawr|gyd)) /\1i_\2 /g' $f
 	#perl -pi -e 's/([[:blank:]]yn) ((ystod) )/\1_\2/g' $f
-	perl -pi -e 's/([[:blank:]])hanodd /\1&h anodd /g' $f
+	#perl -pi -e 's/([[:blank:]])hanodd /\1&h anodd /g' $f
+	#perl -pi -e 's/([[:space:]])o@s:cym&spa /\1oh@s:cym&spa /g' $f
+	sed -i "/\*[A-Z]/s/\([[:blank:]]\)mmhm@s:cym\&spa /\1mmhm /g" $f
 done
 
-
+#  In theory, perl is easier to use than sed, but the invocation above doesn't seem to work sometimes.
 
 
 

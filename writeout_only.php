@@ -42,7 +42,9 @@ include("write_cgautogloss.php");
 echo "*\n*\nWriting a TeX file for $filename\n*\n*\n";
 include("tex/generate_expex.php");
 
-//echo "*\n*\nGenerating a pdf for $filename\n*\n*\n";
-//exec("pdflatex -output-directory=outputs/".$filename." outputs/".$filename."/".$filename.".tex");
+echo "*\n*\nGenerating a pdf for $filename\n*\n*\n";
+exec("pdflatex -interaction=nonstopmode -output-directory=outputs/$filename outputs/$filename/$filename.tex 2>&1");
+// add -interaction=nonstopmode to stop halt on error? or perhaps -interaction=batchmode: nonstopmode will print all usual lines, it just won't stop. batchmode will suppress all but a handful of declarative lines ("this is pdfTeX v3.14...").
+// and output to stdout? 2>&1
 
 ?>

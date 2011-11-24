@@ -19,6 +19,22 @@ MOR:
 fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
 
 
+Generation
+=======
+
+Remember that the outputs in inputs/<corpus>/autoglossed is only there as a way to ease maintenance of the Git tree - the files there are copied from the outputs folders.  The latter should always be the first port-of-call, since if the import has not completed for any reason the two lines at the bottom of sh_run_do_everthing (which copy the finished files from the outputs folders into the inputs/autoglossed folder) will not have run, so the files in inputs/autoglossed will be older copies.
+
+
+Difference loom
+==========
+
+A possible way to check easily for regressions as the CG grammar is improved.
+Copy existing outputs into a backup dir.  ?or rename them?
+Autogloss as normal.  ?above could be done by adding a new line to sh_run_do_everything moving the existing files into a prev dir?
+Run a loop across the files: diff -u file.cha prev/filecha
+The unified (-u) format can then be parsed to put a strikethrough on - lines, and a highlight on + lines.
+
+
 Unknowns
 =======
 
@@ -642,14 +658,24 @@ Watch out for typos in the grammar file - if you end up with absolutely no autog
 
 
 
-Import and autogloss of 69 Siarad files
-========================
+Timings
+=====
+
+Siarad
+----------
 507m (8h27m) for 456k words, 40 hours of conversation
 	1m to do 5m of conversation
 	900 words a minute
 Note that this includes importing and segmenting the gls tier - a bare file with speech tier would be faster
 
+Patagonia
+---------------
+175m (2h55m) for 161k words, 20 hours of conversation
+	1m to do 7m of conversation
+	920 words a minute
 
+Sampling
+--------------
 Sampling clauses for 68 files took 14m.
 
 
@@ -682,6 +708,16 @@ pdfnup --no-landscape --nup "2x3" --offset ".25cm .25cm" --delta ".25cm .5cm" --
 
 
 
+Errors
+====
+
+during write_cohorts.php:
+Fatal error: Cannot redeclare query() (previously declared in /home/kevin/autoglosser/includes/fns.php:42) in /home/kevin/autoglosser/includes/fns.php on line 48
+Testing code
+//include("includes/fns.php");
+//include("/opt/autoglosser/config.php");
+//$surface="mirarélas";
+had been left uncommented in lookups/es_lookup.php
 
 
 

@@ -23,17 +23,10 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// Set up more frequent language and less frequent language here.  This covers the new CLAN default.  The most frequent language is the one that is unmarked in the text, the less frequent language is the one that will be unmarked with a precode at the beginning of the line.  Note that this system only accommodates two languages - we probably need to rethink for three or more.
-//$mflg="cym";
-//$lflg="spa";
-// No longer used.
-
-// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array.  thus, if the main language is Welsh, put it in the $cylg array; if it is Spanish, put it in the $eslg array.  Note also that if you have tags for indeterminate words (ie words that do not occur in any of the language dictionaries, or where it is unclear which language they belong to), they should be listed in the $zerolg array (as here: cy&es).  Words with "mixed" morphemes also go here.
-$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "spa&eng", "eng&spa", "cym&eng", "cym&spa");
-//$cylg=array("1", "cy", "cy+en", "cy+es", "cym", "s");
+// Set up language identifiers here.  These are the items that come after the @ or @s: attached to the word, eg gente@3 (old style), party@s:cy&en.  The import splits these off so that in write_cohorts.php the attached word can be looked up in the appropriate dictionary.  Under the new system of marking with precodes, you need to specify which of the languages is the main language of the text by placing the empty marker ("") in the relevant array - cgimport.php contains code to do this automatically by inspecting the file header.  Note that if you have tags for indeterminate words (ie words that occur in the dictionaries of two languages), they should be listed in the $zerolg array.  Words with "mixed" morphemes also go here.
+$zerolg=array("0", "cy&es", "en&es", "cy&en", "en&es+en", "en&es+es", "cy&es+cy", "cy&es+es", "cy&en+en", "cy&en+cy", "cym+eng", "eng+cym",  "spa+cym", "cym+spa", "eng&spa", "cym&eng", "cym&spa");
 $cylg=array("1", "cy", "cy+en", "cy+es", "cym");
 $enlg=array("2", "en", "en+es", "en+cy", "eng");
-//$eslg=array("3", "es", "es+en", "es+cy", "spa", "");
 $eslg=array("3", "es", "es+en", "es+cy", "spa");
 
 // Set up the grammar file here.
@@ -379,9 +372,9 @@ function segment_eng($text)
 	$text=preg_replace("/(ing)ing$/u", "$1#asv", $text);  // bring - but note that whinge will be missegmented
 	$text=preg_replace("/(ing)s$/u", "$1#pv", $text);
 
-	$text=preg_replace("/(an)ning$/u", "$1#asv", $text);  // plan
-	$text=preg_replace("/(an)ned$/u", "$1#av", $text); 
-	$text=preg_replace("/(an)s$/u", "$1#pv", $text);
+	$text=preg_replace("/(an|in)ning$/u", "$1#asv", $text);  // plan, spin
+	$text=preg_replace("/(an|in)ned$/u", "$1#av", $text); 
+	$text=preg_replace("/(an|in)s$/u", "$1#pv", $text);
 
 	$text=preg_replace("/(at|us)ing$/u", "$1e#asv", $text);  // incorporate
 	$text=preg_replace("/(at|us)ed$/u", "$1e#av", $text); 
@@ -684,7 +677,7 @@ function get_speakers($words)
 	$sqlsp=query("select speaker, count(speaker) from $words group by speaker order by speaker");
 	while ($rowsp=pg_fetch_object($sqlsp))
 	{
-		if ($rowsp->count>200)
+		if ($rowsp->count>0)
 		// Added to prevent the sampler trying to get samples for speakers who make only a marginal contribution to the conversation.
 		// The limit number is set here to 200, meaning that the speaker must contribute at least 200 utterances to be included in the roster.
 		{
@@ -811,6 +804,55 @@ function update_langids($line)
 	$line=preg_replace("/@s:es\+en/", "@s:spa+eng", $line);
 	return $line;
 }
+
+function rounded($var,$n)
+// rounds fields to n decimal places
+{
+        $var=sprintf("%.".$n."f",$var);
+        return $var;
+}
+
+function diff($old, $new)
+// https://github.com/paulgb/simplediff/blob/5bfe1d2a8f967c7901ace50f04ac2d9308ed3169/simplediff.php
+{
+	$maxlen = 0;
+	foreach($old as $oindex => $ovalue)
+	{
+		$nkeys = array_keys($new, $ovalue);
+		foreach($nkeys as $nindex)
+		{
+			$matrix[$oindex][$nindex] = isset($matrix[$oindex - 1][$nindex - 1]) ? $matrix[$oindex - 1][$nindex - 1] + 1 : 1;
+			if($matrix[$oindex][$nindex] > $maxlen)
+			{
+				$maxlen = $matrix[$oindex][$nindex];
+				$omax = $oindex + 1 - $maxlen;
+				$nmax = $nindex + 1 - $maxlen;
+			}
+		}
+	}
+
+	if($maxlen == 0) return array(array('d'=>$old, 'i'=>$new));
+	return array_merge(
+	diff(array_slice($old, 0, $omax), array_slice($new, 0, $nmax)),
+	array_slice($new, $nmax, $maxlen),
+	diff(array_slice($old, $omax + $maxlen), array_slice($new, $nmax + $maxlen)));
+}
+
+function htmlDiff($old, $new)
+{
+	$diff = diff(explode(' ', $old), explode(' ', $new));
+	foreach($diff as $k)
+	{
+		if(is_array($k))
+		$ret .= (!empty($k['d'])?"<del>".implode(' ',$k['d'])."</del> ":'').
+		(!empty($k['i'])?"<ins>".implode(' ',$k['i'])."</ins> ":'');
+		else $ret .= $k . ' ';
+	}
+	return $ret;
+}
+
+
+
 
 ?>
 

@@ -39,21 +39,22 @@ $sql="select * from $uniq order by surface";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$surface=pg_escape_string($row->surface);
-	$auto=pg_escape_string($row->auto);
-	$sql_f="select * from $source_table where surface='$surface' and auto='$auto'";  // combiwords
+	$surface=$row->surface;
+	$auto=$row->auto;
+	$auto=$row->langid;
+	$sql_f="select * from $source_table where surface='$surface' and auto='$auto' and langid='$langid'";
 	$result_f=pg_query($db_handle,$sql_f) or die("Can't get the items");
 	while ($row_f=pg_fetch_object($result_f))
 	{
-		$file=preg_replace("/patagonia/", "", $row_f->filename);  // Remove identical prefix from each filename.
-		//$file=$row_f->filename;  // Or use the full filename.
+		$file=preg_replace("/patagonia/", "", $row_f->filename);  // Remove identical prefix from each filename (patagonia).
+		//$file=$row_f->filename;  // Or use the full filename (miami, siarad).
         $filelist[]=$file;  // Add the filename to an array.
      }
 	$filelist=array_unique($filelist);  // Discard filename duplicates.
 	sort($filelist);  // Sort into ascending order.
 	$fileline=implode(",", $filelist);  // Convert the array into a string.
 	
-	$sql_2="update $uniq set filename='$fileline' where surface='$surface' and auto='$auto'";  // combiwords
+	$sql_2="update $uniq set filename='$fileline' where surface='$surface' and auto='$auto' and langid='$langid'";
 	$result_2=pg_query($db_handle,$sql_2) or die("Can't insert the items");
 	
 	echo $row->surface." - ".$fileline."\n";

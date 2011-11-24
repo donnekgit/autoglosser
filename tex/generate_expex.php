@@ -52,13 +52,16 @@ foreach ($lines as $line)
 	{
 		$line=$line;
 	}
-	echo $line."\n";
+	//echo $line."\n";
 	fwrite($fp, $line);
 }
 
 include("tex/get_details.php");  // Write a preamble to the file by using information from the chat file header.
 
-$sql_s="select * from $utterances where utterance_id<201 order by utterance_id";
+$surface='';
+// An empty variable has to be set up here, otherwise the concatenation $surface.=$row_w->surface." "; below will result in the first line of the text having a preceding dot.
+
+$sql_s="select * from $utterances order by utterance_id";
 $result_s=pg_query($db_handle,$sql_s) or die("Can't get the items");
 while ($row_s=pg_fetch_object($result_s))
 {
@@ -73,7 +76,6 @@ while ($row_s=pg_fetch_object($result_s))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
 
-		//if ($row_w->langid=="spa" and $precode =="")  // set the default language here
 		if ($row_w->langid==$mflg and $precode =="")
 		{
 			$row_w->surface=$row_w->surface;
@@ -110,9 +112,9 @@ while ($row_s=pg_fetch_object($result_s))
 		{
 			$row_w->surface=$row_w->surface."$^{E+}_{C}$";
 		}
-		
-		$surface.=$row_w->surface." ";
 
+		$surface.=$row_w->surface." ";  // Note that you  need to set up an empty $surface first - see above.
+		
 		$row_w->auto=tex_auto($row_w->auto);
 		//$row_w->auto=tex_pos_colour($row_w->auto);  // Uncomment to get colour-coded POS tags.
 		$auto.=$row_w->auto." ";
@@ -127,7 +129,7 @@ while ($row_s=pg_fetch_object($result_s))
 	$begingl="\ex\n\begingl\n";
 	fwrite($fp, $begingl);
 	
-	$precode=($precode=="") ? "": "[-".$precode."]";
+	$precode=($precode=="") ? "" : "[- ".$precode."]";
 
 	$wchat="\glpre ".$row_s->speaker.": ".$precode." ".$chat." //\n";
 	echo $wchat."\n";
@@ -138,7 +140,7 @@ while ($row_s=pg_fetch_object($result_s))
 		$wsurface="\gla ".$row_s->speaker.": ".$precode." ".$surface." //\n";
 		echo $wsurface."\n";
 		fwrite($fp, $wsurface);
-
+		
 		$wauto="\glb \\textbf{aut:} ".$precode." ".$auto." //\n";  // Autogloss tier.
 		echo $wauto."\n";
 		fwrite($fp, $wauto);

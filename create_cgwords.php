@@ -38,7 +38,7 @@ CREATE TABLE $words (
     speaker character varying(10),
     langid character varying(20),
 	filename character varying(50),
-	clause character varying(50),
+	clause character varying(50) default '',
 	clauseno integer
 );
 ";

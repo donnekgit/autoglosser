@@ -1,0 +1,40 @@
+General process
+===========
+
+Edit sh_unknowns to set up the corpus and language.
+
+Running it will create a table for the unknowns, and another table for unique unknowns (using create_unk_table.php).
+
+Then it will gather the unknowns from the files (using gather_unknowns.php) into the unknowns table, and run queries to select unique words and enter them into the unique table.
+
+Then run add_filename.php to iterate over the unknowns table, gather all the filenames where a particular word occurs, and insert them into the unique table.  This allows you to go straight to the file(s) where a given word occurs, to check context.
+
+Open the unique file in SQLWorkbench/J, and add information for each word (or delete it if it is incorrect).  Use phpPgAdmin to look up Welsh words in the dictionary as appropriate.
+
+
+Useful queries while checking the words:
+==========================
+
+For words with one instance in a file:
+select * from patagonia20_cgwords where utterance_id=(select utterance_id from patagonia20_cgwords where surface='ajá' and langid='cym&spa') order by location
+
+For words with multiple instances in a file (use if you get an error with the above):
+select utterance_id, surface from patagonia33_cgwords where surface='uh' and langid='spa'
+
+To get context:
+select * from patagonia20_cgwords where utterance_id=449 order by location
+
+
+When the words have all been dealt with, insert them into the main dictionary:
+=================================================
+
+Welsh:
+insert into cylist (surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra) select surface, lemma, enlemma, clar, pos, gender, number, tense, notes, extra from patagonia_cym_unknowns_uniq
+
+Spanish:
+insert into eslist (surface, lemma, enlemma, clar, pos, gender, number, tense, notes) select surface, lemma, enlemma, clar, pos, gender, number, tense, notes from patagonia_spa_unknowns_uniq
+
+English:
+insert into enlist (surface, lemma, enlemma, pos, gender, number, tense, notes) select surface, lemma, enlemma, pos, gender, number, tense, notes from patagonia_eng_unknowns_uniq
+
+

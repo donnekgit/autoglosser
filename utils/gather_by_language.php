@@ -35,7 +35,6 @@ foreach ($files as $file)
 {
 	if (preg_match("/.cha/", $file))
 	{
-	
 		$filename=strtolower(basename(preg_replace("/\..*$/", "", $file)));  // remove the extension
 		echo $filename.": ";
 		
@@ -52,7 +51,10 @@ foreach ($files as $file)
 			}
 		}
 		echo $mflg." - ";
+		
+		echo "\n";  // Just get a printout - uncomment the lines below to do the actual copying.
 
+		/*
 		// Copy the files into appropriate dirs.
 		switch ($mflg) 
 		{
@@ -72,6 +74,8 @@ foreach ($files as $file)
 				echo "\n";
 				break;
 		}
+		*/
+		
 	}
 }
 

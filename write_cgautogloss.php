@@ -70,7 +70,7 @@ while ($row_s=pg_fetch_object($result_s))
     }
     $auto="%aut:\t".preg_replace('/ $/','',$auto)."\n";
     fwrite($fp, $auto);
-	// End of section to be cvommented out.
+	// End of section to be commented out.
 
 
     // We should be using the scantiers file to add in any subtiers, on the following pattern:

@@ -50,6 +50,7 @@ while ($row_cy=pg_fetch_object($result_cy))
     $notes=($row_cy->notes =='') ? "" : $row_cy->notes." ";
     $enlemma=":".$row_cy->enlemma.": ";
     $id="[".$row_cy->id."]";
+    if (isset($plusmark) and ($pos=='n')) { $number=$plusmark; }  // Over-ride $number for nouns only if there is a plural marker after + in cym+eng.
     $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id)."\n"; 
     fwrite($fp, $entry);  // Write
     echo $entry;  // View
@@ -73,6 +74,7 @@ if ($desoftsurface!=$surface)
             $notes=($row_sm->notes =='') ? "" : $row_sm->notes." ";
             $enlemma=":".$row_sm->enlemma.": ";
             $id="[".$row_sm->id."]";
+            if (isset($plusmark) and ($pos=='n')) { $number=$plusmark; }  // Over-ride $number for nouns only if there is a plural marker after + in cym+eng.
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$mutation.$gender.$number.$tense.$notes.$enlemma.$id." + sm")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;  // View
@@ -98,6 +100,7 @@ if ($denassurface!=$surface)
             $notes=($row_nm->notes =='') ? "" : $row_nm->notes." ";
             $enlemma=":".$row_nm->enlemma.": ";
             $id="[".$row_nm->id."]";
+            if (isset($plusmark) and ($pos=='n')) { $number=$plusmark; }  // Over-ride $number for nouns only if there is a plural marker after + in cym+eng.
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + nm")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;  // View
@@ -123,6 +126,7 @@ if ($deaspsurface!=$surface)
             $notes=($row_am->notes =='') ? "" : $row_am->notes." ";
             $enlemma=":".$row_am->enlemma.": ";
             $id="[".$row_am->id."]";
+            if (isset($plusmark) and ($pos=='n')) { $number=$plusmark; }  // Over-ride $number for nouns only if there is a plural marker after + in cym+eng.
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + am")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;  // View
@@ -148,6 +152,7 @@ if ($dehsurface!=$surface)
             $notes=($row_h->notes =='') ? "" : $row_h->notes." ";
             $enlemma=":".$row_h->enlemma.": ";
             $id="[".$row_h->id."]";
+            if (isset($plusmark) and ($pos=='n')) { $number=$plusmark; }  // Over-ride $number for nouns only if there is a plural marker after + in cym+eng.
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id." + h")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;  // View

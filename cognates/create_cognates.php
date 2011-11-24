@@ -45,6 +45,7 @@ CREATE TABLE $cognates (
     p_lg character varying(20),
     nt_lg_ser character varying(200),
     external character varying(10),
+    externalb character varying(10),
     internal character varying(10),
     speaker character varying(10),
     surface character varying(100),

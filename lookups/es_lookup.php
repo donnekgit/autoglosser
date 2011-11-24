@@ -26,9 +26,9 @@ If not, see <http://www.gnu.org/licenses/>.
 // This file handles dictionary lookups in the Spanish dictionary, eslist.
 
 // For testing purposes:
-include("includes/fns.php");
-include("/opt/autoglosser/config.php");
-$surface="mirarélas";
+//include("includes/fns.php");
+//include("/opt/autoglosser/config.php");
+//$surface="mirarélas";
 
 $foundclitics='0';  // Set a marker
 
