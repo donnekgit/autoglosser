@@ -1,0 +1,1722 @@
+
+
+1, 1	1, 1-7	BEC	wedyn fuon ni fan yno bore yma	NSNT	NSNT
+1, 2	2, 1-5	BEC	a mi gyrhaeddodd y nghyfnither	NSNT	NSNT
+1, 3	3, 1-14	BEC	*er* tydy *Elliw* a fi byth adre efo ein_gilydd yn tŷ *mam* fel arfer	NST	NST
+1, 4	5, 1-11	BEC	ond mi gyrhaeddodd un o ein cyfnitherod ni o_fewn hanner awr	---	NSNT
+
+
+2, 1	6, 1-3	ALY	*oh* da iawn	---	NST
+
+
+3, 1	7, 1-12	BEC	wedyn fuodd *Cat* efo ni tan *pooh* tan tua dau o gloch	NST	NST
+3, 2	7, 13-15	BEC	dw i *sure*	NST	NST
+3, 3	8, 1-10	BEC	oedd *mam* wedi mynd i gwaith a bob_dim erbyn hynny	---	NST
+
+
+4, 1	9, 1-3	ALY	*oh* da good	---	ST
+
+
+5, 1	10, 1-3	BEC	a wedyn dw	NSNT	NSNT
+5, 2	10, 5-13	BEC	gynna i ddim *lot* o fynedd wneud dim_byd heddiw	NST	NST
+5, 3	11, 1-1	BEC	dw	NSNT	NSNT
+5, 4	11, 2-12	BEC	mae yn egni fi yn mynd yn seriously byr dyddiau yma	---	SNT
+
+
+6, 1	14, 1-1	ALY	nawr	---	NSNT
+
+
+7, 1	15, 2-10	BEC	oedd *mam* yn deud yr un fath heddiw hefyd	NST	NST
+7, 2	16, 1-4	BEC	oedd hi yn deud	NSNT	NSNT
+7, 3	17, 1-7	BEC	*ooh* fydd o ddim yn hir wan	---	NST
+
+
+8, 1	18, 1-2	ALY	*oh* paid	---	NST
+
+
+9, 1	19, 1-5	BEC	ond argoel mae yn cicio	---	NSNT
+
+
+10, 1	20, 1-6	ALY	a beth yw yr dyddiad cynta	NSNT	NSNT
+10, 2	20, 7-10	ALY	gest ti yn *Australia*	---	NST
+
+
+11, 1	21, 1-1	BEC	nawfed	---	NSNT
+
+
+12, 1	22, 1-3	ALY	sef wythnos nesa	---	NSNT
+
+
+13, 1	25, 1-2	BEC	be ydy	NSNT	NSNT
+13, 2	25, 3-6	BEC	be ydy yr dyddiad	NSNT	NSNT
+13, 3	26, 1-4	BEC	mae yn gynta fory	NSNT	NSNT
+13, 4	28, 1-6	BEC	dyna chdi wsnos i dydd Gwener	---	NSNT
+
+
+14, 1	29, 1-4	ALY	mae pen_blwydd *Claire* fory	NST	NST
+14, 2	30, 1-4	ALY	mae yn ddeugain fory	---	NSNT
+
+
+15, 1	31, 1-2	BEC	ydy hi	NSNT	NSNT
+15, 2	33, 1-8	BEC	*oh* wnes i weld *Clive* diwrnod o_blaen pasio	ST	NST
+15, 3	35, 1-1	BEC	*hello*	ST	NST
+15, 5	37, 1-6	BEC	ydy yn cael *party* neu rywbeth	---	NST
+
+
+16, 1	38, 1-2	ALY	*well* mae	NST	NST
+16, 2	38, 3-9	ALY	mae nhw yn mynd i rywle *um*	NST	NST
+16, 3	38, 10-24	ALY	timod gwesty bach yn rhywle neu rywbeth gyda ei_gilydd a gadael y plant yn *er*	NST	NST
+16, 5	42, 1-5	ALY	gadael y plant yn *Aberystwyth*	NST	NST
+16, 6	43, 1-13	ALY	*so* mae raid bod nhw mynd lawr i Abergwaun neu rywle fel yna	NST	NST
+16, 7	45, 1-5	ALY	mae nhw lico ardal yna	---	NSNT
+
+
+17, 1	47, 1-7	BEC	gadael y plant efo ei rhieni hi	---	NSNT
+
+
+18, 1	48, 1-7	ALY	*yeah* mae nhw wedi wneud yn *sure*	NST	NST
+18, 2	48, 8-14	ALY	bod *Sam* yn mynd gyda *Tommy* falle	NST	NST
+18, 3	48, 15-22	ALY	a bod *er* *Hilda* yn mynd i *Pendrain*	NST	NST
+18, 4	51, 1-3	ALY	*sorry* fan hyn	ST	NST
+18, 5	53, 1-2	ALY	*so* *yeah*	---	NST
+
+
+19, 1	54, 1-2	BEC	*oh* *nice*	ST	NST
+19, 2	56, 1-1	BEC	ond	---	NSNT
+
+
+20, 1	57, 1-4	ALY	*hey* *er* *so* oedd	NST	NST
+20, 2	57, 5-15	ALY	oedd y gadair yn *great* yn y *Faenol* popeth yn iawn	---	NST
+
+
+21, 1	58, 1-1	BEC	cadair	SNT	NSNT
+21, 2	59, 1-2	BEC	*oh* *champion*	---	NST
+
+
+22, 1	60, 1-1	ALY	cadair	NSNT	NSNT
+22, 2	61, 1-6	ALY	*oh* *boot* y *car* gyda fi	NST	NST
+22, 3	62, 1-6	ALY	rhoi ddi nôl i chi nawr	---	NSNT
+
+
+23, 1	63, 1-3	BEC	*oh* yn iawn	---	NST
+
+
+24, 1	64, 1-14	ALY	*oh* sa i yn gwybod pa un yw pa un gyda fi cymysgu nhw	---	NST
+
+
+25, 1	65, 1-1	BEC	be	NSNT	NSNT
+25, 2	66, 1-5	BEC	*oh* dydy o ddim ots	NST	NST
+25, 3	67, 1-3	BEC	sut aeth hi	---	NSNT
+
+
+26, 1	68, 3-4	ALY	do good	---	SNT
+
+
+27, 1	69, 1-3	BEC	wnest ti fwynhau	---	NSNT
+
+
+28, 1	70, 2-7	ALY	ond wnes i *um* feddwi nos	---	NST
+
+
+29, 1	71, 1-7	BEC	oedd yna ddim *lot* o bobl yna	NST	NST
+29, 2	71, 8-9	BEC	meddai rywun	NSNT	NSNT
+29, 3	72, 1-2	BEC	nos Lun	---	NSNT
+
+
+30, 1	73, 1-2	ALY	nos Lun	NSNT	NSNT
+30, 2	74, 1-3	ALY	na oedd ddim	NSNT	NSNT
+30, 3	74, 4-5	ALY	gwerth yna	NSNT	NSNT
+30, 4	74, 6-13	ALY	nag oedd o gymharu â yr nosweithiau eraill	NSNT	NSNT
+30, 5	75, 1-7	ALY	*ooh* oedd pymtheg mil yna nos Sul	NST	NST
+30, 6	75, 8-10	ALY	mae nhw gweud	---	NSNT
+
+
+31, 1	76, 1-1	BEC	naci	---	NSNT
+
+
+32, 1	77, 1-5	ALY	argoel mae hwnna yn *lot*	NST	NST
+32, 2	77, 6-6	ALY	dydy	NSNT	NSNT
+32, 3	79, 1-8	ALY	*so* ond oedd o yn packed nos Sadwrn	---	ST
+
+
+33, 1	80, 1-9	BEC	o'n i eistedd *right* yn cefn dan ryw goeden	---	NST
+
+
+34, 1	81, 1-2	ALY	*oh* dyna	NST	NST
+34, 2	81, 3-5	ALY	pwy weles i	NSNT	NSNT
+34, 3	81, 6-7	ALY	oedd *Nicky*	---	NST
+
+
+35, 1	82, 1-2	BEC	duwedd annwyl	---	NSNT
+
+
+36, 1	83, 1-7	ALY	eistedd yn union yr un lle ag	NSNT	NSNT
+36, 2	83, 8-10	ALY	oedd hi llynedd	NSNT	NSNT
+36, 3	85, 1-7	ALY	wyt ti wedi symud ers llynedd o_gwbl	---	NSNT
+
+
+37, 1	86, 1-3	BEC	sut mae hi	---	NSNT
+
+
+38, 1	88, 1-5	ALY	oedd hi yn iawn good	SNT	SNT
+38, 2	89, 1-6	ALY	*um* *er* wedi prynu tŷ yn	---	NST
+
+
+39, 1	90, 1-1	BEC	Llundain	---	NSNT
+
+
+40, 1	91, 1-1	ALY	Llundain	---	NSNT
+
+
+41, 1	92, 1-6	BEC	mae wedi prynu tŷ yn Llundain	---	NSNT
+
+
+42, 1	93, 1-2	ALY	*Crystal_Palace* *yeah*	ST	NST
+42, 2	94, 1-9	ALY	a mae yn gweithio am dou dri fis arall	NSNT	NSNT
+42, 3	95, 1-7	ALY	a wedyn timod *contract* dod i ben	NST	NST
+42, 4	96, 1-5	ALY	ond oedd hi yn gweud	NSNT	NSNT
+42, 5	97, 1-6	ALY	*oh* sa i yn becso ragor	NST	NST
+42, 6	98, 1-8	ALY	mi fydd yna rywbeth arall i yn *sure*	NST	NST
+42, 7	100, 1-2	ALY	sy wastad	NSNT	NSNT
+42, 8	100, 3-4	ALY	wedi bod	---	NSNT
+
+
+43, 1	101, 1-8	BEC	a ydy wedi gorffen ei gradd erbyn hyn	---	NSNT
+
+
+44, 1	102, 1-10	ALY	ddim gwybod wnes i ddim siarad gyda hi am hynny	NSNT	NSNT
+44, 2	104, 1-4	ALY	sa i ddim gwybod	---	NSNT
+
+
+45, 1	105, 1-7	BEC	achos oedd y gradd gyfraith yna yn	NSNT	NSNT
+45, 2	107, 1-5	BEC	oedd hi yn gwneud hwnnw	NSNT	NSNT
+45, 3	107, 6-14	BEC	doedd yn_ystod dwy flynedd yn_ôl neu tair mlynedd yn_ôl	---	NSNT
+
+
+46, 1	109, 1-4	ALY	*yeah* dw ddim gwybod	NST	NST
+46, 2	110, 1-9	ALY	*oh* na oedd hi fel y *boy* yn iawn	---	NST
+
+
+47, 1	111, 1-3	BEC	*oh* da iawn	NST	NST
+47, 2	112, 1-4	BEC	efo pwy oedd hi	NSNT	NSNT
+47, 3	113, 1-4	BEC	efo *Lynne* a rheina	NST	NST
+47, 4	115, 1-5	BEC	dim efo yr un *crew*	---	NST
+
+
+48, 1	116, 1-9	ALY	dim *quite* na oedd *um* merched colur a gwisgoedd	---	NST
+
+
+49, 1	117, 1-3	BEC	*oh* *yeah* *great*	ST	NST
+49, 2	118, 1-6	BEC	a brynodd hi dŷ ail dŷ	NSNT	NSNT
+49, 3	118, 7-8	BEC	neu naddo	---	NSNT
+
+
+50, 1	120, 1-7	ALY	*oh* wnes i ddim holi am hynny	NST	NST
+50, 2	122, 1-9	ALY	mae wedi ailbrynu un yn *Rhyl* neu rywle siarad	---	NST
+
+
+51, 1	123, 2-5	BEC	oedd hi yn bwriadu	NSNT	NSNT
+51, 4	126, 1-6	BEC	*oh* *yeah* sa i yn gwybod	NST	NST
+51, 5	127, 1-6	BEC	fysai ddim yn gallu go brin	NSNT	NSNT
+51, 6	127, 7-7	BEC	fysai	---	NSNT
+
+
+52, 1	128, 1-3	ALY	dou Llundain *yeah*	---	NST
+
+
+53, 1	130, 1-4	BEC	basai hynny yn rhy	---	NSNT
+
+
+54, 1	131, 1-7	ALY	Iesu mae *sure* o ddrud yn Llundain	---	NST
+
+
+55, 1	133, 1-2	BEC	*well* mae	---	NST
+
+
+56, 1	134, 1-2	ALY	y ffenestr	---	NSNT
+
+
+57, 1	135, 2-8	BEC	mae un o yn ffrindiau i efo	NSNT	NSNT
+57, 2	136, 1-6	BEC	yn sylfaenol ti yn talu am	NSNT	NSNT
+57, 3	137, 1-3	BEC	timod tŷ fictorianaidd	NSNT	NSNT
+57, 4	137, 4-12	BEC	baset ti yn brynu tŷ *terrace* deuda yng Nghaerdydd	NST	NST
+57, 5	137, 13-16	BEC	sy yn mynd am	NSNT	NSNT
+57, 6	137, 17-23	BEC	dw ddim gwybod cant chwe_deg cant wyth_deg	---	NSNT
+
+
+58, 1	139, 1-10	ALY	plus dros dau gant yn hawdd yn canol Caerdydd dydyn	---	SNT
+
+
+59, 1	140, 1-4	BEC	yn plus mae *sure*	NST	ST
+59, 2	142, 1-12	BEC	*well* yn Llundain be yn yr ardal lle mae ffrind yn byw	NST	NST
+59, 3	142, 13-23	BEC	mae nhw wedi sblitio rhan fwya ohonyn nhw i ddau *flat*	NST	NST
+59, 4	142, 24-25	BEC	timod achos	NSNT	NSNT
+59, 5	142, 26-39	BEC	mae nhw yn dai tair ystafell ar y gwaelod a *bathroom* yn *right* aml	NST	NST
+59, 6	145, 1-15	BEC	wedyn mae gen ti deud un llofft lolfa a cegin a *bathroom* yn pen draw	NST	NST
+59, 7	148, 1-12	BEC	*um* ac oedd hi yn talu rywbeth fel yna am hanner tŷ	---	NST
+
+
+60, 1	149, 1-1	ALY	Iesu	---	NSNT
+
+
+61, 1	150, 1-6	BEC	oedd o rywbeth fel cant chwe_deg	NSNT	NSNT
+61, 2	150, 7-12	BEC	oedd hi wedi dalu am *flat*	NST	NST
+61, 3	150, 13-18	BEC	de sef hanner hanner tŷ fictorianaidd	---	NSNT
+
+
+62, 1	152, 1-11	ALY	tibod pan aeth *um* *Graham* a fi i Llundain pwy ddiwrnod	NST	NST
+62, 2	153, 2-4	ALY	aethon ni i	NSNT	NSNT
+62, 3	156, 1-6	ALY	*oh* tai bach *nice* de yn	NST	NST
+62, 4	158, 1-5	ALY	pwy ardal o'n ni yndo	NSNT	NSNT
+62, 5	159, 1-6	ALY	*um* *um_be_rum_be_dum* *er* *Shepherd's_Bush* o'n ni	ST	NST
+62, 6	161, 1-2	ALY	*yeah* *Shepherd's_Bush*	ST	NST
+62, 7	162, 1-17	ALY	wedyn aethon ni o'n ni yn cerdded lawr ryw stryd fach gefn i gyrraedd yr y gwesty	NSNT	NSNT
+62, 8	162, 18-19	ALY	timod gwesty	NSNT	NSNT
+62, 9	164, 1-9	ALY	ac *um* *oh* tai bach *oh* be lovely de	NST	ST
+62, 10	166, 1-8	ALY	a tai *terrace* bach really ar y cyfan	NST	ST
+62, 11	167, 1-7	ALY	dychmygu rei Llundain yn rai mawr mawr	---	NSNT
+
+
+63, 1	168, 1-3	BEC	mawr i_gyd wyt	---	NSNT
+
+
+64, 1	169, 1-7	ALY	na ond rei bach o'n nhw de	NSNT	NSNT
+64, 2	170, 1-6	ALY	edrych digon tebyg i un fi	SNT	NSNT
+64, 3	172, 1-1	ALY	windows	---	NSNT
+
+
+65, 1	173, 1-3	BEC	ie dyna fo	---	NSNT
+
+
+66, 1	174, 1-8	ALY	a *porches* bach *nice* arnyn nhw gyd a	---	NST
+
+
+67, 1	175, 1-1	BEC	del	---	NSNT
+
+
+68, 1	176, 1-2	ALY	mae *sure*	NST	NST
+68, 2	176, 3-10	ALY	bod nhw yn *lot* fwy o *size* nôl	NST	NST
+68, 3	176, 12-16	ALY	timod a tywyll ynddon nhw	NSNT	NSNT
+68, 4	176, 17-18	ALY	mae raid	---	NSNT
+
+
+69, 1	178, 1-5	BEC	ond nhw *just* mor ddrud	---	NST
+
+
+70, 1	179, 1-3	ALY	mae ardal lovely	SNT	SNT
+70, 2	180, 1-2	ALY	yn gwmws	NSNT	NSNT
+70, 3	181, 1-6	ALY	ond na oedd *Faenol* yn good	ST	ST
+70, 4	182, 1-5	ALY	*um* wedyn nos Lun oedd	---	NST
+
+
+71, 1	183, 1-1	BEC	Lun	---	NSNT
+
+
+72, 1	184, 1-5	ALY	*oh* *yeah* oedd nos Lun	NST	NST
+72, 2	184, 6-8	ALY	oedd *great* *Saw_Doctors*	---	NST
+
+
+73, 1	187, 1-8	BEC	ac oedd yna ddigon o't ti yn teimlo	NSNT	NSNT
+73, 2	187, 9-17	BEC	bod yna ddigon o bobl yn nabod y caneuon	NSNT	NSNT
+73, 3	188, 1-2	BEC	achos dyna	NSNT	NSNT
+73, 4	188, 3-6	BEC	wyt ti yn boeni	---	NSNT
+
+
+74, 1	190, 1-6	ALY	aethon ni *right* i yr *front*	NST	NST
+74, 2	191, 1-9	ALY	oedd ond o'n ni le o'n ni yn eistedd	NSNT	NSNT
+74, 3	191, 10-12	ALY	oeddet ti meddwl	NSNT	NSNT
+74, 4	192, 1-10	ALY	*oh* does neb ddiawl o neb yn mynd i ganu	NST	NST
+74, 5	193, 1-6	ALY	a oedd pobl ddim yn gwrando	NSNT	NSNT
+74, 6	194, 1-4	ALY	pobl yn siarad a	NSNT	NSNT
+74, 7	196, 1-6	ALY	eistedd nôl bell mor bell nôl	---	NSNT
+
+
+75, 1	197, 1-15	BEC	achos o'n i ddim yn dallt *er* dim y *Saw_Doctors* oedd yr ola chwarae ola	NST	NST
+75, 2	199, 1-5	BEC	yn y canol oedden nhw	---	NSNT
+
+
+76, 1	201, 1-3	ALY	*so* wedodd *Graham*	NST	NST
+76, 2	202, 1-5	ALY	*oh* ewn ni i hwnna	ST	NST
+76, 3	203, 1-4	ALY	*yeah* go on te	NST	ST
+76, 4	204, 1-4	ALY	achos welon ni *er*	NST	NST
+76, 5	204, 5-7	ALY	bennodd *Meinir_Gwilym* ganu	NST	NST
+76, 6	205, 1-4	ALY	a wnaeth pobl fynd	NSNT	NSNT
+76, 7	205, 5-8	ALY	timod o yr *front*	NST	NST
+76, 8	207, 1-10	ALY	achos oedd pobl wedi dance_o yn y *front* a pethau	NST	ST
+76, 10	210, 1-3	ALY	o't ti meddwl	SNT	NSNT
+76, 11	211, 1-3	ALY	*oh* hardcore de	ST	ST
+76, 12	212, 1-1	ALY	*so*	ST	NST
+76, 13	213, 1-5	ALY	come on ewn ni lawr	NSNT	SNT
+76, 14	215, 1-9	ALY	a diolch byth o'n ni yn ganol pobl oedd	NSNT	NSNT
+76, 15	215, 10-14	ALY	oedd yn nabod caneuon i_gyd	---	NSNT
+
+
+77, 1	216, 1-5	BEC	nabod y caneuon a bob_dim	---	NSNT
+
+
+78, 1	217, 1-5	ALY	pawb yn canu pob cân	---	NSNT
+
+
+79, 1	218, 1-2	BEC	*oh* da	---	NST
+
+
+80, 1	219, 1-2	ALY	*great* oedd	NST	NST
+80, 2	220, 2-6	ALY	*so* oedd hwnna yn good	---	ST
+
+
+81, 1	221, 1-6	BEC	*so* oedd o yn hwyliog felly	---	NST
+
+
+82, 1	223, 1-8	ALY	a o't ti edrych nôl de a mi	NSNT	NSNT
+82, 2	223, 9-13	ALY	oedd i weld erbyn hynny	NSNT	NSNT
+82, 3	223, 15-20	ALY	oedd y lle sefyll wedi llenwi	---	NSNT
+
+
+83, 1	224, 1-2	BEC	yn llawn	---	NSNT
+
+
+84, 1	226, 1-6	ALY	ac oedd pawb yn canmol nhw	NSNT	NSNT
+84, 2	227, 1-13	ALY	achos oedd pawb wedi o'n nhw wedi codi yr lle fi yn credu	NSNT	NSNT
+84, 3	227, 16-22	ALY	bod pobl ddim yn nabod y caneuon	---	NSNT
+
+
+85, 1	228, 1-2	BEC	*oh* da	---	NST
+
+
+86, 1	229, 1-7	ALY	mae nhw yn catchy iawn yn_dŷn nhw	NSNT	SNT
+86, 2	230, 1-4	ALY	a mae nhw yn	NSNT	NSNT
+86, 3	232, 1-9	ALY	*well* mae nhw yn hwyliog dydyn yn perfformio *so*	NST	NST
+86, 4	233, 1-4	ALY	na o'n nhw good	SNT	SNT
+86, 5	234, 1-4	ALY	o'n nhw on *form*	---	ST
+
+
+87, 1	235, 1-1	BEC	dyna	NSNT	NSNT
+87, 2	235, 2-6	BEC	oedd y nghyfnither yn ddeud	NSNT	NSNT
+87, 3	236, 1-11	BEC	achos mae hi yn nabod nhw o fod yn trefnu *Sesiwn_Fawr*	NST	NST
+87, 4	238, 2-3	BEC	mae nhw	NSNT	NSNT
+87, 5	238, 4-9	BEC	wedi bod yno unwaith neu ddwy	---	NSNT
+
+
+88, 1	239, 1-1	ALY	ydyn	NSNT	NSNT
+88, 2	239, 2-2	ALY	ydyn	---	NSNT
+
+
+89, 1	240, 1-12	BEC	a mae hi yn licio math yna o gerddoriaeth neu beth bynnag	NSNT	NSNT
+89, 2	242, 1-7	BEC	a wedyn ond oedd hi yn deud	NSNT	NSNT
+89, 3	242, 8-13	BEC	bod hi wedi mwynhau nhw hefyd	NSNT	NSNT
+89, 4	244, 1-3	BEC	mae yn *great*	---	NST
+
+
+90, 1	245, 1-7	ALY	alla i ddim dychmygu nhw yn peidio	NSNT	NSNT
+90, 2	245, 8-12	ALY	bod on *form* really achos	NST	ST
+90, 3	245, 13-18	ALY	mae eu caneuon nhw mor hwyliog	---	NSNT
+
+
+91, 1	246, 1-4	BEC	na mae *sure* *yeah*	---	NST
+
+
+92, 1	247, 1-3	ALY	wedyn timod pob	NSNT	NSNT
+92, 2	247, 4-8	ALY	tro fi wedi gweld nhw	NSNT	NSNT
+92, 3	247, 9-12	ALY	mae nhw yn neilltuol	---	NSNT
+
+
+93, 1	248, 1-1	BEC	da	---	NSNT
+
+
+94, 1	249, 1-4	ALY	*so* *yeah* good do	NST	ST
+94, 2	249, 5-8	ALY	oedd e yn *fine*	NST	NST
+94, 3	250, 1-5	ALY	a oedd hi yn oer	NSNT	NSNT
+94, 4	251, 1-6	ALY	o'n i yn gythreulig o oer	NSNT	NSNT
+94, 5	252, 1-9	ALY	achos oedd hi yn siwt ddiwrnod *nice* dydd Llun	ST	NST
+94, 7	256, 1-1	ALY	*so*	ST	NST
+94, 8	257, 1-4	ALY	*oh* mae yn dwym	NST	NST
+94, 9	259, 1-9	ALY	a wedyn o'n i sythu wedyn doedd erbyn un_ar_ddeg	NSNT	NSNT
+94, 10	261, 1-3	ALY	*so* dyna ni	---	NST
+
+
+95, 1	262, 1-3	BEC	*oh* da iawn	NST	NST
+95, 2	264, 1-8	BEC	be dw i ddim yn cofio be arall	NSNT	NSNT
+95, 3	264, 9-10	BEC	wnaethon ni	---	NSNT
+
+
+96, 1	265, 1-7	ALY	*job* mynd nôl i gwaith ddoe timod	---	NST
+
+
+97, 1	266, 1-3	BEC	ia mae *sure*	NST	NST
+97, 2	267, 1-4	BEC	*so* pryd dach chi	NST	NST
+97, 3	268, 1-10	BEC	ia dach chi yn mynd wedyn dydd Gwener dydd Sadwrn	---	NSNT
+
+
+98, 1	269, 1-1	ALY	Sul	---	NSNT
+
+
+99, 1	270, 1-3	BEC	*oh* dydd Sul	---	NST
+
+
+100, 1	271, 1-4	ALY	Sul ni mynd *yeah*	---	NST
+
+
+101, 1	272, 1-6	BEC	*so* ti yn trio gorffen bob_dim	---	NST
+
+
+102, 1	273, 1-1	ALY	yndw	NSNT	NSNT
+102, 2	273, 2-3	ALY	yndw really	SNT	SNT
+102, 3	274, 1-1	ALY	mae	NSNT	NSNT
+102, 4	274, 2-8	ALY	a mae *lot* i wneud ond anyway	ST	ST
+102, 5	275, 1-4	ALY	ond mae pen_blwydd *Claire*	NST	NST
+102, 6	276, 1-2	ALY	mae yna	NSNT	NSNT
+102, 7	276, 3-14	ALY	mae un fod i fod pryd o fwyd ar nos Sadwrn *so*	---	NST
+
+
+103, 1	277, 1-17	BEC	*oh* *yeah* o'n i yn meddwl os oedd hi yn cael ryw fath o *barty* neu rywbeth	---	NST
+
+
+104, 1	279, 1-8	ALY	*yeah* mae *just* yn cael pryd o fwyd	NST	NST
+104, 2	280, 1-5	ALY	*so* mae hynna yn *o_k*	NST	NST
+104, 3	282, 1-6	ALY	a mynd dydd Sul *yey* *great*	---	NST
+
+
+105, 1	283, 1-1	BEC	da	NSNT	NSNT
+105, 2	284, 1-2	BEC	am be	NSNT	NSNT
+105, 3	285, 1-4	BEC	am wsnos ddeudaist ti	---	NSNT
+
+
+106, 1	286, 1-3	ALY	chwech noswaith *yeah*	---	NST
+
+
+107, 1	287, 1-6	BEC	allai yr babi wedi cyrraedd *Alys*	---	NST
+
+
+108, 1	288, 1-3	ALY	fi yn gwybod	---	NSNT
+
+
+109, 1	289, 1-6	BEC	byddi wedi methu yr holl beth	---	NSNT
+
+
+110, 1	290, 1-3	ALY	fi yn gwybod	NSNT	NSNT
+110, 3	292, 1-2	ALY	*oh* paid	NST	NST
+110, 4	293, 1-5	ALY	ti adael fi wybod de	NSNT	NSNT
+110, 5	294, 1-4	ALY	mae *phones* gyda fi	---	NST
+
+
+111, 1	295, 1-4	BEC	*oh* fydd rhaid *yeah*	NST	NST
+111, 2	296, 1-2	BEC	ond *um*	---	NST
+
+
+112, 1	297, 1-4	ALY	*sure* o fod yn	---	NST
+
+
+113, 1	298, 1-6	BEC	oedd y y fydwraig yn meddwl	NSNT	NSNT
+113, 2	299, 1-6	BEC	na oedd hi ddim yn meddwl	NSNT	NSNT
+113, 3	299, 7-10	BEC	baswn i yn gynnar	NSNT	NSNT
+113, 4	301, 1-7	BEC	dau ddiwrnod yn hwyr oedd hi reckon_o	---	SNT
+
+
+114, 1	302, 1-3	ALY	*oh* *yeah* wir	---	NST
+
+
+115, 1	303, 1-5	BEC	*yeah* dw ddim gwybod pam	NST	NST
+115, 2	304, 1-2	BEC	dw meddwl	NSNT	NSNT
+115, 3	304, 3-9	BEC	bod hi *just* wedi deud ryw rif	---	NST
+
+
+116, 1	305, 1-5	ALY	*yeah* wedi wneud rywbeth lan	---	NST
+
+
+117, 1	306, 1-6	BEC	*just* deud rywbeth i ddeud rywbeth	---	NST
+
+
+118, 1	307, 1-2	ALY	rywbeth *yeah*	---	NST
+
+
+119, 1	308, 1-2	BEC	ond *er*	---	NST
+
+
+120, 1	309, 1-12	ALY	mae *sure* o fod yn yn gweud gwahanol diwrnod wrth pob un	NST	NST
+120, 2	309, 13-24	ALY	sy yn disgwyl ar hyn o bryd er_mwyn stagro chi yn yr	NSNT	NSNT
+120, 3	311, 1-3	ALY	er_mwyn ti feddwl	NSNT	NSNT
+120, 4	312, 1-6	ALY	*o_k* dau ddiwrnod dau ddiwrnod ar_ôl	---	NST
+
+
+121, 1	313, 1-6	BEC	ia *oh* ia dal arni ia	---	NST
+
+
+122, 1	314, 1-5	ALY	a wedyn bydd ti mynd	---	NSNT
+
+
+123, 1	316, 1-2	BEC	*oh* *dear*	ST	NST
+123, 2	317, 1-6	BEC	ond mae yn bendant yn symud	NSNT	NSNT
+123, 3	318, 1-6	BEC	mae yr *shape* yn newid wan	---	NST
+
+
+124, 1	319, 2-2	ALY	mae	NSNT	NSNT
+124, 2	319, 3-8	ALY	mae gwahanol *shape* arnot ti heddi	---	NST
+
+
+125, 1	320, 1-6	BEC	mae o yn mynd yn is	NSNT	NSNT
+125, 2	321, 1-4	BEC	mae o fath â	NSNT	NSNT
+125, 3	321, 5-9	BEC	bod o wedi fath â	NSNT	NSNT
+125, 4	321, 10-12	BEC	bod o yn	---	NSNT
+
+
+126, 1	322, 1-1	ALY	paid	---	NSNT
+
+
+127, 1	324, 1-3	BEC	mae fath â	NSNT	NSNT
+127, 2	324, 4-5	BEC	bod o	NSNT	NSNT
+127, 3	324, 6-11	BEC	dw ddim yn gwybod fath â	NSNT	NSNT
+127, 4	324, 12-17	BEC	bod o *yeah* mynd am i_lawr	---	NST
+
+
+128, 1	325, 1-3	ALY	*oh* yr arglwydd	---	NST
+
+
+129, 1	326, 1-3	BEC	*oh* *phone* *Alys*	---	NST
+
+
+130, 1	327, 1-6	ALY	*well* mae yn flin gyda fi	NST	NST
+130, 2	328, 1-3	ALY	*oh* Duw Duw	---	NST
+
+
+131, 1	329, 1-3	BEC	raid chdi gael	---	NSNT
+
+
+132, 1	330, 1-1	ALY	*hello*	ST	NST
+132, 2	331, 1-4	ALY	ti yn iawn *Davina*	NST	NST
+132, 3	332, 1-3	ALY	ti yn *alright*	NST	NST
+132, 4	333, 1-2	ALY	odw diolch	NSNT	NSNT
+132, 5	334, 1-2	ALY	gwranda *sorry*	NST	NST
+132, 6	334, 3-13	ALY	dw i yn ganol cael yn recordo ar hyn o bryd	NSNT	NSNT
+132, 7	335, 1-4	ALY	*oh* mae yn *alright*	NST	NST
+132, 8	336, 1-4	ALY	na be ti moyn	NSNT	NSNT
+132, 9	337, 1-3	ALY	be ti moyn	NSNT	NSNT
+132, 10	338, 1-3	ALY	ti yn *alright*	NST	NST
+132, 11	340, 1-10	ALY	fi fynd nôl i gwaith mewn ryw *um* *guarter* awr	NST	NST
+132, 12	341, 1-9	ALY	alla i roi ring nôl i ti pryd hynny	NSNT	SNT
+132, 13	342, 1-4	ALY	ydy hynna yn iawn	NSNT	NSNT
+132, 14	343, 1-4	ALY	ydy hynna yn *alright*	NST	NST
+132, 15	344, 1-3	ALY	dyna ti te	NSNT	NSNT
+132, 16	345, 1-4	ALY	*yeah* a ti *fine*	NST	NST
+132, 17	346, 1-4	ALY	wela i di mewn	NSNT	NSNT
+132, 18	346, 5-11	ALY	wna i siarad â ti mewn munud	SNT	NSNT
+132, 19	347, 1-2	ALY	*ta_ra* *ta_ra*	NST	NST
+132, 20	348, 1-1	ALY	*sorry*	---	NST
+
+
+133, 1	349, 1-3	BEC	na mae iawn	---	NSNT
+
+
+134, 1	350, 1-4	ALY	mae flin gyda fi	---	NSNT
+
+
+135, 1	351, 1-6	BEC	dal i glywed chdi yn siarad	NSNT	NSNT
+135, 3	353, 1-10	BEC	*um* *er* a wedyn be arall sy digwydd i fi	NST	NST
+135, 4	354, 1-6	BEC	*well* wnaeth nappies gwyrdd fi gyrraedd	---	ST
+
+
+136, 1	355, 1-3	ALY	*ah* do fe	---	NST
+
+
+137, 1	357, 1-6	BEC	mae nhw fach fach fel yna	---	NSNT
+
+
+138, 1	358, 1-1	ALY	ydyn	---	NSNT
+
+
+139, 1	361, 1-3	BEC	fach fach fach	---	NSNT
+
+
+140, 1	362, 1-5	ALY	*yeah* *well* bach fydd nhw	---	NST
+
+
+141, 1	363, 1-2	BEC	*yeah* gwybod	NST	NST
+141, 2	364, 1-15	BEC	a mae nhw fath â yr lliw lliw budr achos bod nhw yn naturiol dydyn	---	NSNT
+
+
+142, 1	365, 1-4	ALY	odyn odyn odyn odyn	NSNT	NSNT
+142, 3	367, 1-8	ALY	mae yn edrych fel petasen nhw wedi pisio	NSNT	NSNT
+142, 4	367, 9-12	ALY	yndyn nhw yn barod	---	NSNT
+
+
+143, 1	368, 1-5	BEC	dydyn nhw ddim yn wyn	NSNT	NSNT
+143, 2	370, 1-9	BEC	dim yn wyn del fath â *Pampers* neu rywbeth	NST	NST
+143, 3	372, 1-7	BEC	mae nhw fath â ryw liw *brown*	---	NST
+
+
+144, 1	373, 1-3	ALY	*brown* *folly* *yeah*	---	NST
+
+
+145, 1	374, 1-1	BEC	ydyn	---	NSNT
+
+
+146, 1	375, 1-2	ALY	*oh* da	NST	NST
+146, 2	376, 1-7	ALY	a faint ti faint ti wedi ordro	---	NSNT
+
+
+147, 1	377, 2-4	BEC	mae yn *champion*	NST	NST
+147, 2	378, 1-3	BEC	*box* fel hyn	ST	NST
+147, 4	380, 1-5	BEC	massive anferth o *fox* mawr	NST	ST
+147, 6	382, 1-6	BEC	dau gant ac wyth ohonyn nhw	---	NSNT
+
+
+148, 1	384, 1-6	ALY	faint wneith hwnna gadw ti fynd	NSNT	NSNT
+148, 2	385, 1-1	ALY	wythnos	---	NSNT
+
+
+149, 1	386, 1-3	BEC	ia yn union	NSNT	NSNT
+149, 2	387, 1-1	BEC	does	NSNT	NSNT
+149, 3	387, 2-5	BEC	genna i ddim syniad	NSNT	NSNT
+149, 4	388, 1-3	BEC	gawn ni weld	---	NSNT
+
+
+150, 1	389, 1-10	ALY	faint o weithiau ti gorfod newid cewyn babi mewn diwrnod	---	NSNT
+
+
+151, 1	390, 1-9	BEC	*well* yn_ôl y sôn dim bod fi yn gwybod	NST	NST
+151, 2	390, 10-25	BEC	bod *er* ar y dechrau bod ti gallu newid rhwng ddim gwybod wyth i ddeg gwaith	---	NST
+
+
+152, 1	391, 1-2	ALY	y diwrnod	---	NSNT
+
+
+153, 1	393, 1-5	BEC	*oh* mewn dau_ddeg_pedwar awr de	---	NST
+
+
+154, 1	394, 1-3	ALY	*well* ie *right*	---	NST
+
+
+155, 1	395, 1-11	BEC	felly mewn mis ti mynd i ti mynd i ddefnyddio faint	NSNT	NSNT
+155, 3	397, 1-4	BEC	tua deg y diwrnod	---	NSNT
+
+
+156, 1	399, 1-6	ALY	sa i gallu gweithio fe mas	NSNT	NSNT
+156, 3	401, 1-7	ALY	os ti iwso cant mewn deg diwrnod	NSNT	NSNT
+156, 6	404, 1-5	ALY	*so* mae tri_deg o ddyddiau	---	NST
+
+
+157, 1	405, 1-3	BEC	*yeah* dyna chdi	---	NST
+
+
+158, 1	406, 1-7	ALY	*so* mae yn dri chant mewn mis	---	NST
+
+
+159, 1	407, 1-2	BEC	tri chant	NSNT	NSNT
+159, 2	408, 1-11	BEC	*yeah* *so* wnân nhw ddim para mis i fi na wnân	---	NST
+
+
+160, 1	409, 1-5	ALY	*oh* cer o yma wnewn	---	NST
+
+
+161, 1	410, 1-7	BEC	*oh* na ond dw i yn *sure*	NST	NST
+161, 2	410, 8-13	BEC	bod chdi yn defnyddio llai fel	NSNT	NSNT
+161, 3	410, 14-19	BEC	mae yr mis yn mynd ymlaen	NSNT	NSNT
+161, 4	410, 20-20	BEC	dwyt	NSNT	NSNT
+161, 5	411, 1-8	BEC	ond be bynnag pwrpas y peth ydy i	NSNT	NSNT
+161, 6	411, 9-12	BEC	roid ryw i i	NSNT	NSNT
+161, 8	413, 1-9	BEC	wnaeth y fudwraig *just* deud wrtha fi beidio trio	NST	NST
+161, 9	413, 10-18	BEC	bod yn hero a golchi nhw ar y dechrau	NSNT	SNT
+161, 10	414, 1-7	BEC	felly achos golchi dw mynd i wneud	---	NSNT
+
+
+162, 1	415, 1-6	ALY	*er* be ti yn feddwl nawr	---	NST
+
+
+163, 1	416, 1-3	BEC	golchi nappies de	---	SNT
+
+
+164, 1	417, 1-2	ALY	wyt ti	---	NSNT
+
+
+165, 1	418, 1-2	BEC	*oh* yndw	NST	NST
+165, 2	418, 3-4	BEC	mae rheiny	NSNT	NSNT
+165, 3	418, 5-10	BEC	genna i yn barod fyny grisiau	---	NSNT
+
+
+166, 1	420, 1-6	ALY	*oh* rhai rhai *er* *towelling* *yeah*	---	NST
+
+
+167, 1	421, 1-5	BEC	*yeah* *well* dim *towelling* ydy	NST	NST
+167, 2	422, 2-13	BEC	mae nhw yn fwy dipyn bach fwy advanced na hynna erbyn hyn	---	SNT
+
+
+168, 1	423, 1-4	ALY	*oh* ydyn nhw wir	---	NST
+
+
+169, 1	424, 1-4	BEC	*so* mae gen ti	NST	NST
+169, 2	425, 1-2	BEC	*oh* ydyn	---	NST
+
+
+170, 1	426, 1-6	ALY	*oh* o'n i ddim yn gwybod	---	NST
+
+
+171, 1	427, 1-2	BEC	*oh* ydyn	---	NST
+
+
+172, 1	428, 1-7	ALY	so ti wedi gweud hynna wrtho fi	NSNT	NSNT
+172, 2	429, 1-8	ALY	*oh* ti yn dda chwarae teg i ti	---	NST
+
+
+173, 1	431, 1-9	BEC	*oh* mae yr peiriant golchi yn cyrraedd dydd Llun	NST	NST
+173, 3	433, 1-6	BEC	ie mynd â nhw i *Pete's_Laundrette*	NST	NST
+173, 5	435, 1-10	BEC	ond *um* na mae yna fath â ryw bethau bach	NST	NST
+173, 6	436, 1-7	BEC	mae yr peth tua yr tu allan	NSNT	NSNT
+173, 7	437, 2-5	BEC	oedd o yn arfer	NSNT	NSNT
+173, 8	437, 6-6	BEC	bod	NSNT	NSNT
+173, 9	437, 7-13	BEC	oedd gen ti yr *Terry_Towelling* a wedyn	NST	NST
+173, 10	437, 14-26	BEC	oedd fath â ryw ryw hen fath â ryw hen nicks mawr crinkly	SNT	SNT
+173, 11	437, 27-31	BEC	doedd *er* *er* dros rheiny	---	NST
+
+
+174, 1	439, 1-4	ALY	nicks mawr *yeah* *yeah*	---	ST
+
+
+175, 1	440, 1-8	BEC	*oh* dydy o ddim fel yna dim mwy	NST	NST
+175, 2	442, 1-10	BEC	mae nhw fath â defnydd *um* fath â *polyester* cotwm	NST	NST
+175, 3	443, 1-7	BEC	ti ddim yn cael dŵr drwodd felly	NSNT	NSNT
+175, 4	445, 1-5	BEC	mae nhw yn feddal feddal	NSNT	NSNT
+175, 5	447, 1-7	BEC	*so* hwnnw ydy yr peth tu allan	NST	NST
+175, 6	449, 1-15	BEC	a wedyn tu fewn wyt ti fath â gen ti hances boced o yr sgwâr	NSNT	NSNT
+175, 7	451, 1-9	BEC	a ti yn yn blygu fo ddwy waith felly	---	NSNT
+
+
+176, 1	453, 1-3	ALY	a pinno fe	---	NSNT
+
+
+177, 1	454, 1-9	BEC	na ti *just* yn roi hwnnw yn y canol	NST	NST
+177, 2	455, 1-16	BEC	a wedyn mae yr peth bach yma yn mynd rowndyn nhw efo *velcro* ar y *front*	---	NST
+
+
+178, 1	456, 1-4	ALY	*oh* cer o yma	---	NST
+
+
+179, 1	458, 1-10	BEC	wedyn dim ond y *bit* tu fewn ti gorod olchi	NST	NST
+179, 2	460, 1-10	BEC	*oh* mae raid chdi olchi yr beth tu allan weithiau	NST	NST
+179, 3	461, 1-11	BEC	ond ti ddim yn ti ddim yn newid hwnnw bob tro	NSNT	NSNT
+179, 4	461, 12-16	BEC	wyt ti yn newid clwt	NSNT	NSNT
+179, 5	465, 1-5	BEC	dyna chdi gwybodaeth i chdi	---	NSNT
+
+
+180, 1	466, 1-2	ALY	arglwydd mawr	---	NSNT
+
+
+181, 1	467, 1-6	BEC	ond mi ddeudodd *Siwan* wrtha i	NST	NST
+181, 2	468, 1-3	BEC	paid â trio	NSNT	NSNT
+181, 3	468, 4-13	BEC	bod yn hero a gwneud o o yr dechrau achos	---	SNT
+
+
+182, 1	469, 1-5	ALY	yn ddigon i ti *yeah*	ST	NST
+182, 2	470, 1-1	ALY	nappies	SNT	NSNT
+182, 3	472, 1-9	ALY	ddigon ti deall am y peiriant golchi i ddechrau	---	NSNT
+
+
+183, 1	473, 1-4	BEC	ydy yn union *yeah*	NST	NST
+183, 2	474, 1-3	BEC	fydda i yn	NSNT	NSNT
+183, 3	475, 1-1	BEC	dw	NSNT	NSNT
+183, 4	475, 2-11	BEC	dw i yn cael un o rheiny ers dwy flynedd	---	NSNT
+
+
+184, 1	477, 1-12	ALY	fi credu bod fe wedi cymryd mis i fi ddeall y microwave	---	SNT
+
+
+185, 1	479, 1-2	BEC	yn union	NSNT	NSNT
+185, 2	480, 1-7	BEC	dw i dal ddim yn dallt o	NSNT	NSNT
+185, 3	482, 1-3	BEC	ia *so* dyna	NST	NST
+185, 4	482, 4-8	BEC	oedden ni mynd i wneud	---	NSNT
+
+
+186, 1	483, 1-3	ALY	*oh* da iawn	---	NST
+
+
+187, 1	484, 1-15	BEC	wedyn yn y cyfamser dw i wedi prynu yr rhai y rhai disposable gwyrdd achos	NSNT	SNT
+187, 2	484, 16-19	BEC	mae nhw yn *er*	---	NST
+
+
+188, 1	486, 1-6	ALY	yn gwell i yr amgylchedd *yeah*	---	NST
+
+
+189, 1	488, 1-2	BEC	mae nhw	NSNT	NSNT
+189, 2	489, 1-8	BEC	*oh* dydyn nhw ddim yn hollol hollol biodegradable	ST	ST
+189, 3	490, 1-15	BEC	ond mae nhw yn rywbeth fath â saith_deg y cant sydd *just* yn gymaint gwell	NST	NST
+189, 4	492, 1-13	BEC	a does yna ddim o yr hen gel yna tu fewn iddyn nhw	---	SNT
+
+
+190, 1	493, 1-3	ALY	beth yw hwnnw	---	NSNT
+
+
+191, 1	494, 1-10	BEC	*oh* hen bethau hyll yma sy yn *Pampers* a pethau	NST	NST
+191, 2	495, 1-4	BEC	dydyn nhw ddim yn	NSNT	NSNT
+191, 3	496, 1-14	BEC	*oh* *silicon* mae nhw fath â hen *bleugh* fel yna i_gyd yn canol nappies	ST	ST
+191, 4	498, 1-3	BEC	*so* dw *sure*	NST	NST
+191, 5	498, 4-13	BEC	bod o ddim yn dda iawn i penolau babis bach	---	NSNT
+
+
+192, 1	500, 1-2	ALY	*well* diddorol	---	NST
+
+
+193, 1	501, 1-2	BEC	*well* ie	NST	NST
+193, 2	502, 1-4	BEC	a wedyn dyna ni	NSNT	NSNT
+193, 3	503, 1-11	BEC	wedyn mae *Elliw* yn deud wrtha i bob hyn a hyn	NST	NST
+193, 4	504, 1-6	BEC	rhaid chdi cael sêt *car* wan	NST	NST
+193, 5	505, 1-5	BEC	be petasai babi yn cyrraedd	NSNT	NSNT
+193, 6	505, 6-18	BEC	a gynnoch chi ddim sêt *car* i ddod â fo adre o ysbyty	NST	NST
+193, 7	506, 1-3	BEC	pethau fel yna	NSNT	NSNT
+193, 8	508, 1-3	BEC	*oh* mae gen	NST	NST
+193, 9	508, 4-8	BEC	mae gen y nghyfnither un	NSNT	NSNT
+193, 10	509, 1-8	BEC	*so* dw i yn cael un gynni hi	NST	NST
+193, 11	511, 1-4	BEC	*just* bod o ddim	NST	NST
+193, 12	511, 5-7	BEC	gynna i eto	NSNT	NSNT
+193, 13	513, 1-2	BEC	dw meddwl	NSNT	NSNT
+193, 14	513, 3-6	BEC	bod *Elliw* yn meddwl	NST	NST
+193, 15	513, 7-15	BEC	bod o *just* yn mynd i gyrraedd ryw ddiwrnod	NST	NST
+193, 16	513, 16-21	BEC	a byddwn ni ddim yn barod	NSNT	NSNT
+193, 17	516, 1-3	BEC	ond dyna fo	---	NSNT
+
+
+194, 1	517, 1-3	ALY	*oh* da iawn	NST	NST
+194, 3	519, 1-12	ALY	*hey* dw i wedi cael *um* pris wrth un builder *so* *far*	ST	ST
+194, 4	521, 1-6	ALY	dw dal yn disgwyl y lleill	NSNT	NSNT
+194, 5	522, 1-4	ALY	dwy fil saith cant	NSNT	NSNT
+194, 6	523, 1-2	ALY	*well* os	---	NST
+
+
+195, 1	524, 1-3	BEC	wyt ti meddwl	NSNT	NSNT
+195, 2	524, 4-10	BEC	bod hynna yn ddrud neu yn rhad	---	NSNT
+
+
+196, 1	526, 1-4	ALY	sa i yn gwybod	NSNT	NSNT
+196, 2	527, 1-5	ALY	drud o'n i yn meddwl	NSNT	NSNT
+196, 3	528, 1-4	ALY	ond mae yn *sure*	NST	NST
+196, 4	528, 5-8	ALY	bod e yn syml	---	NSNT
+
+
+197, 1	529, 1-5	BEC	dw i ddim yn gwybod	NSNT	NSNT
+197, 2	529, 6-6	BEC	sti	NSNT	NSNT
+197, 3	530, 1-4	BEC	ond am be wedyn	---	NSNT
+
+
+198, 1	531, 1-1	ALY	am	---	NSNT
+
+
+199, 1	532, 1-5	BEC	*just* sortio yr llawr allan	---	NST
+
+
+200, 1	533, 1-2	ALY	llawr *yeah*	NST	NST
+200, 2	534, 1-3	ALY	ond dydy yr	NSNT	NSNT
+200, 4	536, 1-4	ALY	mae yn gweud *um*	---	NST
+
+
+201, 1	537, 1-13	BEC	i gael cychwyn rhoid o rywle rywle fel yna nôl mewn ffordd *yeah*	---	NST
+
+
+202, 1	539, 1-9	ALY	ond be mae yn enwi wedyn yn wahanol bethau	NSNT	NSNT
+202, 2	540, 1-3	ALY	mae yn gweud	NSNT	NSNT
+202, 3	540, 4-18	ALY	timod hyn a hyn o hardcore *thing* hyn a hyn o *um* *er* be bynnag	---	ST
+
+
+203, 1	541, 1-2	BEC	be bynnag	---	NSNT
+
+
+204, 1	542, 1-5	ALY	be ti yn galw *er*	NST	NST
+204, 2	544, 1-5	ALY	be ti yn galw *er*	---	NST
+
+
+205, 1	545, 1-2	BEC	fel *screen*	---	NST
+
+
+206, 1	546, 1-12	ALY	*yeah* *yeah* fel yna a *um* peth i cadw yr gwres mewn	NST	NST
+206, 2	547, 1-6	ALY	be ti yn galw *er* *um*	---	NST
+
+
+207, 1	548, 1-1	BEC	insulation	---	NSNT
+
+
+208, 1	549, 1-3	ALY	insulation *yeah* *yeah*	ST	NST
+208, 2	551, 1-6	ALY	a wedyn yr yr D_P_M *yeah*	NST	ST
+208, 3	552, 1-3	ALY	*damp* *proof* membrane	ST	NST
+208, 4	554, 1-5	ALY	ond mae yn beth tenau	NSNT	NSNT
+208, 5	555, 1-8	ALY	a wedyn gwahanol rywbeth arall wedyn rywbeth arall	NSNT	NSNT
+208, 6	557, 1-6	ALY	*oh* mae yn enwi rain i_gyd	ST	NST
+208, 7	558, 1-4	ALY	fifty *millimetres* seventy_five twenty_five	ST	NST
+208, 8	559, 1-1	ALY	mae	NSNT	NSNT
+208, 9	559, 2-2	ALY	mae	NSNT	NSNT
+208, 10	559, 3-3	ALY	mae	NSNT	NSNT
+208, 11	559, 4-4	ALY	mae	NSNT	NSNT
+208, 12	559, 5-16	ALY	mae yr cwbl yn adio lan i rywbeth fel pedwar cant tri_deg	NSNT	NSNT
+208, 13	560, 1-14	ALY	ond dim ond tri chant a pum_deg mae e yn mynd i geibio lawr	NSNT	NSNT
+208, 14	561, 1-11	ALY	*so* fi ddim yn gwybod os mae isie *sort* of mynd	NST	ST
+208, 15	562, 1-12	ALY	beth yn gymwys ych chi yn meddwl chi yn wneud fan hyn	NSNT	NSNT
+208, 16	564, 1-13	ALY	a ryw fanion bethau fel yna timod *quite* yn adio lan gyda fe	---	NST
+
+
+209, 1	565, 1-16	BEC	ond ydy o yn cael gwared o yr hen gegin a ballu yn y *price* yna	---	NST
+
+
+210, 1	566, 1-2	ALY	*er* ceith	NST	NST
+210, 2	566, 3-3	ALY	bydd	---	NSNT
+
+
+211, 1	567, 1-8	BEC	*ah* mae o yn clocio fyny rwan a	---	NST
+
+
+212, 1	568, 1-11	ALY	*well* na mae *Graham* yn mynd i dyny yr gegin mas	ST	NST
+212, 2	569, 1-8	ALY	go for it de *just* *just* tynnu fe	NST	ST
+212, 3	569, 9-12	ALY	de o yna mas	NSNT	NSNT
+212, 4	569, 13-17	ALY	â fe i yr cefn	NSNT	NSNT
+212, 5	570, 1-12	ALY	wedyn pan ga i *skip* wedyn geith e fynd mewn i hwnnw	NST	NST
+212, 6	572, 1-7	ALY	a mae e yn dod â *skip*	NST	NST
+212, 7	572, 8-8	ALY	dydy	NSNT	NSNT
+212, 8	573, 1-6	ALY	a mae e yn mynd i	NSNT	NSNT
+212, 9	574, 1-6	ALY	fe sy yn ceibo yr llawr	NSNT	NSNT
+212, 10	574, 7-12	ALY	mae e yn mynd i wneud	NSNT	NSNT
+212, 11	575, 1-4	ALY	*so* pan gyrhaeddith e	NST	NST
+212, 12	575, 5-15	ALY	bydd y gegin yn wag yn barod i geibo yr llawr	NSNT	NSNT
+212, 13	577, 1-5	ALY	mae rywfaint llai o waith	NSNT	NSNT
+212, 14	577, 6-6	ALY	dydy	---	NSNT
+
+
+213, 1	579, 1-11	BEC	a ydy o yn cynnwys be ffenestr newydd neu unrhyw beth	NSNT	NSNT
+213, 2	581, 1-2	BEC	na dim_byd	---	NSNT
+
+
+214, 1	582, 1-1	ALY	meddwl	NSNT	NSNT
+214, 2	582, 2-12	ALY	bod e yn cynnig complementary kitchen unit ar y *price* yna	NST	ST
+214, 3	583, 1-7	ALY	ond na mae raid bod e ddim	NSNT	NSNT
+214, 4	584, 1-5	ALY	*er* dyna eu *price* nhw	---	NST
+
+
+215, 1	585, 1-6	BEC	ond mae gen ti breakdown o	NSNT	SNT
+215, 2	585, 7-15	BEC	sut mae wedi dod fyny at yr *price* yna	---	NST
+
+
+216, 1	588, 1-3	ALY	mae tad *Graham*	NST	NST
+216, 2	588, 4-12	ALY	wedi bod yn edrych arno fe dydd dydd Llun	---	NSNT
+
+
+217, 1	589, 1-5	BEC	a be oedd o feddwl	---	NSNT
+
+
+218, 1	590, 1-5	ALY	*ah* oedd e yn gweud	NST	NST
+218, 2	591, 1-10	ALY	*well* baswn i wedi gesio falle bach dros dwy fil	---	NST
+
+
+219, 1	592, 1-12	BEC	*oh* *yeah* *so* o'n i meddwl bod o ddim yn rhy ddrud	---	NST
+
+
+220, 1	594, 1-7	ALY	ond yr unig beth oedd e yn	NSNT	NSNT
+220, 2	595, 2-5	ALY	oedd e chwarae teg	NSNT	NSNT
+220, 3	595, 6-16	ALY	wnaeth e edrych arno fe ac yn gweud dangos i fi	NSNT	NSNT
+220, 4	596, 1-15	ALY	achos o'n i ddim yn gwybod beth yffach oedd e mynd i wneud nag o'n	---	NSNT
+
+
+221, 1	597, 1-8	BEC	a be oedd o yn olygu i_gyd *yeah*	---	NST
+
+
+222, 1	598, 1-6	ALY	beth oedd e yn olygu *yeah*	NST	NST
+222, 2	599, 1-10	ALY	*so* mae yn wneud mwy o *sense* i fi nawr	NST	NST
+222, 3	599, 11-11	ALY	dydy	NSNT	NSNT
+222, 4	600, 1-6	ALY	a na fe wnaeth bwyntio mas	NSNT	NSNT
+222, 5	601, 1-12	ALY	dyw hwn ddim yn adio lan o ran hyn a yr llall	NSNT	NSNT
+222, 6	602, 1-4	ALY	a mae e yn	NSNT	NSNT
+222, 7	602, 5-8	ALY	mae e yn gweud	NSNT	NSNT
+222, 8	603, 1-11	ALY	*oh* i yn i yn amau falle dylai fod fwy o	NST	NST
+222, 9	604, 1-19	ALY	rhwng yr beth bynnag mae dodi ar y gwaelod sef *just* cerrig a *just* pethau i *er* fel base	ST	ST
+222, 10	604, 20-20	ALY	dylai	NSNT	NSNT
+222, 11	604, 21-25	ALY	mae yn gweud cyn wedyn	NSNT	NSNT
+222, 12	604, 26-31	ALY	bod ti yn dodi yr D_P_M	SNT	SNT
+222, 13	604, 32-40	ALY	dylai fod gyda ti layer o *goncrete* a tywod	NST	ST
+222, 14	604, 41-52	ALY	sych neu rywbeth *just* i cael e yn wneud e yn *solid*	NST	NST
+222, 15	604, 53-53	ALY	bod	NSNT	NSNT
+222, 16	607, 1-12	ALY	achos ti dodi fe fel arall mae mynd i ddodi fe ar	NSNT	NSNT
+222, 17	607, 13-15	ALY	timod *bit* uneven	ST	ST
+222, 18	610, 1-8	ALY	oedd gweud ti angen dodi fe ar llawr	NSNT	NSNT
+222, 19	611, 1-4	ALY	mae yn cicio nawr	---	NSNT
+
+
+223, 1	614, 1-3	BEC	mae wedi symud	---	NSNT
+
+
+224, 1	615, 1-4	ALY	*oh* edrycha yn cicio	---	NST
+
+
+225, 1	616, 2-8	BEC	mae wedi symud i ochr yna wan	---	NSNT
+
+
+226, 1	617, 1-3	ALY	*ooh* edrycha fe	---	NST
+
+
+227, 1	619, 1-1	BEC	mae	NSNT	NSNT
+227, 2	619, 2-5	BEC	wedi bod ofnadwy heddiw	NSNT	NSNT
+227, 3	620, 1-1	BEC	mae	NSNT	NSNT
+227, 4	620, 2-4	BEC	wedi bod yn	NSNT	NSNT
+227, 5	620, 5-6	BEC	mae *just*	NST	NST
+227, 6	620, 7-17	BEC	wedi bod yn symud o un ochr i llall fel yna	NSNT	NSNT
+227, 8	622, 1-2	BEC	dw meddwl	NSNT	NSNT
+227, 9	622, 3-6	BEC	wnaeth y *doctor* ddeud	ST	NST
+227, 10	623, 1-11	BEC	*oh* breakdance_io mae o *round* a *round* barod i fynd lawr	---	ST
+
+
+228, 1	627, 1-4	ALY	bydd e dod allan	NSNT	NSNT
+228, 2	627, 5-6	ALY	bydd e	---	NSNT
+
+
+229, 1	630, 1-4	BEC	ia be bynnag *um*	---	NST
+
+
+230, 1	631, 1-7	ALY	*yeah* *so* gewn ni weld timod ti	---	NST
+
+
+231, 1	632, 1-11	BEC	a ti wedi gofyn i ddau *berson* arall am quote hefyd	---	ST
+
+
+232, 1	633, 1-6	ALY	*oh* does dim *shape* arnyn nhw	NST	NST
+232, 2	634, 1-8	ALY	ddim yn dod eto i weld y gegin	---	NSNT
+
+
+233, 1	636, 1-7	BEC	*oh* dydyn nhw ddim wedi bod eto	---	NST
+
+
+234, 1	637, 1-3	ALY	mi ddaw mi	NSNT	NSNT
+234, 2	637, 4-4	ALY	ddaw	NSNT	NSNT
+234, 3	637, 5-6	ALY	timod mi	NSNT	NSNT
+234, 4	637, 7-7	ALY	ddaw	NSNT	NSNT
+234, 5	638, 1-7	ALY	mi mi ddaw o i yn *sure*	NST	NST
+234, 6	639, 1-5	ALY	mae mynd i gymryd amser	---	NSNT
+
+
+235, 1	640, 1-9	BEC	welais i dy *lodger* di yn mynd i dre	NST	NST
+235, 2	640, 10-11	BEC	noson o_blaen	NSNT	NSNT
+235, 3	642, 1-7	BEC	ew oedd hi yn edrych yn glamorous	---	SNT
+
+
+236, 1	643, 4-6	ALY	mae hi yn	NSNT	NSNT
+236, 2	643, 7-9	ALY	ydy gwisgo lan	NSNT	NSNT
+236, 3	645, 1-6	ALY	ble oedd hi yn mynd te	---	NSNT
+
+
+237, 1	646, 1-4	BEC	dw ddim yn gwybod	NSNT	NSNT
+237, 2	646, 5-5	BEC	sti	---	NSNT
+
+
+238, 1	647, 1-2	ALY	oedd e	---	NSNT
+
+
+239, 1	648, 1-16	BEC	bosib na mynd dreifio rywle o'n i ac *um* gweld hi yn yn cerdded heibio timod	---	NST
+
+
+240, 1	649, 1-2	ALY	nos Sul	---	NSNT
+
+
+241, 1	651, 1-6	BEC	wnes i bron ddim nabod hi	---	NSNT
+
+
+242, 1	652, 2-3	ALY	mae yn	NSNT	NSNT
+242, 2	652, 4-13	ALY	mae yn gwisgo lan *lot* yn ddiweddar i fynd i	NST	NST
+242, 3	653, 1-8	ALY	mae yn mynd i rywle trwy yr amser	NSNT	NSNT
+242, 4	654, 1-4	ALY	does dim dal le	NSNT	NSNT
+242, 5	654, 5-6	ALY	bydd hi	NSNT	NSNT
+242, 6	655, 1-11	ALY	mae wastad yn mynd mas am fwyd gyda ffrindiau a pethau	NSNT	NSNT
+242, 7	657, 1-2	ALY	mae yn	NSNT	NSNT
+242, 8	657, 3-5	ALY	mae yn *gase*	---	NST
+
+
+243, 1	659, 1-2	BEC	*oh* da	---	NST
+
+
+244, 1	661, 1-6	ALY	ydy *so* ia pa *stories* arall	NST	NST
+244, 2	661, 7-9	ALY	sy gyda chi	NSNT	NSNT
+244, 3	662, 1-4	ALY	mae gyda fi *ooh*	NST	NST
+244, 4	662, 5-10	ALY	mae gyda fi *lot* o *stories*	NST	NST
+244, 5	663, 1-11	ALY	a dydyn nhw ddim yn bethau alla i ddodi ar *dape*	---	NST
+
+
+245, 1	666, 1-1	BEC	does	NSNT	NSNT
+245, 2	666, 2-17	BEC	genna i ddim *lot* o ddim_byd i siarad amdano fo heblaw am *er* *er* pethau babis	NST	NST
+245, 3	666, 18-21	BEC	sy yn boring iawn	---	SNT
+
+
+246, 1	667, 1-1	ALY	babis	---	NSNT
+
+
+247, 1	668, 1-6	BEC	*oh* dw i wedi gwneud *um*	NST	NST
+247, 2	669, 2-3	BEC	dw i	NSNT	NSNT
+247, 3	669, 4-13	BEC	wedi bod yn wneud y pump erthygl yma i gylchgrawn	---	NSNT
+
+
+248, 1	670, 1-5	ALY	*oh* ti wedi bennu nhw	---	NST
+
+
+249, 1	671, 1-3	BEC	ond argoel naddo	NSNT	NSNT
+249, 2	672, 1-3	BEC	dw i wedi	NSNT	NSNT
+249, 3	672, 4-9	BEC	dw i wedi gorffen yr ail	NSNT	NSNT
+249, 4	674, 1-4	BEC	achos achos peth ydy	NSNT	NSNT
+249, 5	674, 5-12	BEC	mae raid fi wneud *project* efo bob un	NST	NST
+249, 6	674, 13-13	BEC	does	NSNT	NSNT
+249, 7	676, 1-7	BEC	dydy o ddim fath â *just* sgwennu	NST	NST
+249, 8	678, 1-4	BEC	wedyn ti yn cymryd	NSNT	NSNT
+249, 9	679, 1-3	BEC	wedyn dw i	NSNT	NSNT
+249, 10	679, 4-10	BEC	wedi bod wrthi ddoe yn gwneud *um*	NST	NST
+249, 11	680, 1-10	BEC	mae yna un yn mynd allan yn cylchgrawn *um* Tachwedd	NST	NST
+249, 12	682, 1-9	BEC	felly dw i yn gweud rywbeth Nadolig yno fo	NSNT	NSNT
+249, 13	683, 1-4	BEC	oedd *Siwan* wedi deud	NST	NST
+249, 14	684, 1-10	BEC	*yeah* gwna rywbeth Nadolig yn y cylchgrawn cyn Dolig achos	NST	NST
+249, 15	684, 11-24	BEC	fydd ry hwyr os ti yn wneud o yn yn un Rhagfyr mewn ffordd	---	NSNT
+
+
+250, 1	686, 1-1	ALY	bydd	NSNT	NSNT
+250, 2	686, 2-2	ALY	bydd	NSNT	NSNT
+250, 3	686, 3-3	ALY	bydd	---	NSNT
+
+
+251, 1	687, 1-6	BEC	wedyn wnes i wneud papur lapio	---	NSNT
+
+
+252, 1	688, 1-5	ALY	*oh* *yeah* dyna ti *yeah*	NST	NST
+252, 2	690, 1-6	ALY	dangosaist ti hwnnw i fi *yeah*	NST	NST
+252, 3	692, 1-2	ALY	*well* do	---	NST
+
+
+253, 1	693, 1-6	BEC	ond dw ddim wedi gweld chdi	NSNT	NSNT
+253, 2	695, 1-8	BEC	*oh* dangos yr un o'n i feddwl wneud	NST	NST
+253, 4	698, 1-7	BEC	*oh* *yeah* na wnes i newid wedyn	NST	NST
+253, 5	700, 1-9	BEC	achos o'n i meddwl bod o rhy gymhleth hwnnw	NSNT	NSNT
+253, 6	701, 1-6	BEC	oedd dipyn bach yn rhy stylized	SNT	SNT
+253, 7	701, 7-9	BEC	timod i blant	NSNT	NSNT
+253, 8	704, 1-4	BEC	plant bach ydyn nhw	NSNT	NSNT
+253, 9	706, 1-13	BEC	wedyn wnes i *just* wneud *um* *stencil* bach a defnyddio *sponge* a ballu	NST	NST
+253, 10	708, 1-10	BEC	a wedyn *um* dw i wedi lapio *present* yno fo	NST	NST
+253, 11	709, 1-10	BEC	dw i isio cymryd llun o yr un gorffenedig wan	NSNT	NSNT
+253, 12	711, 1-10	BEC	ac o'n i yn meddwl wrtha fi yn hun wedyn	NSNT	NSNT
+253, 13	712, 1-15	BEC	*oh* pwy sy gen fynedd i fynd i wneud y papur Dolig ar llaw arall	NST	NST
+253, 14	714, 1-5	BEC	prynu papur Dolig wneith pawb	NSNT	NSNT
+253, 15	716, 1-4	BEC	ond wnes i feddwl	NSNT	NSNT
+253, 16	717, 1-5	BEC	*oh* dydy o ddim ots	NST	NST
+253, 17	718, 1-4	BEC	*project* bach ydy o	---	NST
+
+
+254, 1	719, 1-5	ALY	*yeah* yn union yn union	---	NST
+
+
+255, 1	720, 1-5	BEC	a fydd o yn hwyl	---	NSNT
+
+
+256, 1	721, 1-6	ALY	wneith rai plant bach wneud falle	NSNT	NSNT
+256, 2	722, 1-6	ALY	ti ddim yn gwybod nag wyt	---	NSNT
+
+
+257, 1	723, 1-8	BEC	*oh* mi fyswn i wedi gwneud fel plentyn	NST	NST
+257, 2	723, 9-10	BEC	mae *sure*	---	NST
+
+
+258, 1	724, 1-5	ALY	prynu yr cardiau Nadolig de	---	NSNT
+
+
+259, 1	725, 1-3	BEC	ia dw i	NSNT	NSNT
+259, 2	725, 4-7	BEC	be dw i wneud	NSNT	NSNT
+259, 3	725, 9-13	BEC	dw i *just* wedi deud	NST	NST
+259, 4	726, 1-2	BEC	os oes	NSNT	NSNT
+259, 5	726, 3-7	BEC	gynnoch chi bapur dros ben	NSNT	NSNT
+259, 6	726, 8-9	BEC	torrwch allan	NSNT	NSNT
+259, 7	727, 1-4	BEC	achos yn y llun	NSNT	NSNT
+259, 8	728, 1-9	BEC	dw i am roi cardyn i_fewn yn y llun	NSNT	NSNT
+259, 9	730, 1-16	BEC	*just* torrwch allan rhei o yr siapiau o yr papur lapio a sticio fo yn cardyn	---	NST
+
+
+260, 1	731, 1-7	ALY	a roid e yn y y cardyn	---	NSNT
+
+
+261, 1	733, 1-15	BEC	ac dw i am roi cardyn cyfarch bach yn *sound* yn y *present* a deud	NST	NST
+261, 2	735, 1-6	BEC	fedrwch chi wneud cerdyn cyfarch hefyd	---	NSNT
+
+
+262, 1	736, 1-10	ALY	ie *oh* *so* falle wneith plant wneud hynny a *yeah*	---	NST
+
+
+263, 1	737, 1-13	BEC	dyna o'n i feddwl hyd_yn_oed os dydyn nhw ddim yn gwneud y papur	NSNT	NSNT
+263, 2	739, 1-5	BEC	ond fydd yna ddim cyfarwyddiadau	NSNT	NSNT
+263, 3	740, 1-14	BEC	wna i ddim mynd *step* wrth *step* am tynnu llun sut i wneud cardyn	NST	NST
+263, 4	742, 1-8	BEC	wna i *just* deud fel ryw frawddeg bach	NST	NST
+263, 5	743, 1-1	BEC	cofiwch	NSNT	NSNT
+263, 6	743, 2-6	BEC	os gynnoch chi bapur ar_ôl	NSNT	NSNT
+263, 7	743, 7-17	BEC	torrwch allan y siapiau ac *er* sticio fo ar gardyn gwyn	---	NST
+
+
+264, 1	746, 1-1	ALY	*cool*	---	NST
+
+
+265, 1	747, 1-2	BEC	wedyn *um*	NST	NST
+265, 2	749, 1-5	BEC	ond dw i yn trio	NSNT	NSNT
+265, 3	750, 1-4	BEC	mae yn rhyfedd achos	NSNT	NSNT
+265, 4	750, 5-9	BEC	dw i isio llun o	NSNT	NSNT
+265, 5	750, 10-13	BEC	sut mae wedi orffen	NSNT	NSNT
+265, 6	752, 1-9	BEC	ond wyt ti isio pethau Nadolig rowndo fo rywsut	NSNT	NSNT
+265, 7	753, 1-3	BEC	mae edrych yn	NSNT	NSNT
+265, 8	753, 4-14	BEC	mae edrych yn edrych yn *odd* *just* tynnu llun un *present*	---	NST
+
+
+266, 1	754, 1-9	ALY	*dinsel* a ryw bethau fel yna os ti isie	---	NST
+
+
+267, 1	755, 1-5	BEC	oes ond yn lle wedyn	NSNT	NSNT
+267, 2	756, 1-13	BEC	ella basai well i fi ddod a rhod *er* baubles ar goeden *Graham*	---	ST
+
+
+268, 1	757, 1-1	ALY	*Graham*	ST	NST
+268, 2	758, 1-5	ALY	*yeah* dere draw *yeah* *yeah*	---	NST
+
+
+269, 1	759, 1-2	BEC	ond wedyn	---	NSNT
+
+
+270, 1	760, 1-3	ALY	a gelli di	NSNT	NSNT
+270, 2	761, 1-6	ALY	*oh* ti gwybod be mae gyda	NST	NST
+270, 3	762, 1-18	ALY	ia a *just* wrap_io ryw bethau eraill lan mewn papur lapio a bod gyda ti dou dri *box*	---	ST
+
+
+271, 1	763, 1-8	BEC	dyna be o'n i feddwl papur lapio *plain*	NST	NST
+271, 2	764, 1-9	BEC	defnyddio yr un yna dw i ddefnyddio ond *just*	---	NST
+
+
+272, 1	765, 1-5	ALY	a wedyn wedyn sydd yn	NSNT	NSNT
+272, 2	767, 1-8	ALY	*yeah* ddim mor amlwg tu ôl iddyn nhw	---	NST
+
+
+273, 1	768, 1-6	BEC	basai hynna yn gweithio yn iawn	NSNT	NSNT
+273, 2	768, 7-7	BEC	bysai	---	NSNT
+
+
+274, 1	769, 1-9	ALY	*yeah* a roi nhw dan y goeden wedyn *yeah*	---	NST
+
+
+275, 1	770, 1-7	BEC	a bach o *dinsel* rowndyn nhw ia	NST	NST
+275, 2	771, 1-5	BEC	ia basai hynna yn iawn	NSNT	NSNT
+275, 3	771, 6-6	BEC	bysai	NSNT	NSNT
+275, 4	773, 1-1	BEC	bysai	NSNT	NSNT
+275, 5	773, 2-5	BEC	basai hynna yn *o_k*	---	NST
+
+
+276, 1	774, 1-7	ALY	*yeah* croeso ti ddod draw dim *problem*	NST	NST
+276, 2	775, 1-6	ALY	raid ti ddod cyn dydd Sul	---	NSNT
+
+
+277, 1	778, 1-5	BEC	*oh* ella wna i drio	---	NST
+
+
+278, 1	779, 1-2	ALY	os nad	NSNT	NSNT
+278, 2	779, 3-6	ALY	oes haste arno ti	---	SNT
+
+
+279, 1	780, 1-10	BEC	wna i drio lapio ryw ddau *fox* bach arall gynta	NST	NST
+279, 2	780, 11-13	BEC	a rhoid *um*	NST	NST
+279, 3	782, 1-3	BEC	achos fedra i	NSNT	NSNT
+279, 4	782, 4-5	BEC	roid cardyn	NSNT	NSNT
+279, 5	782, 6-9	BEC	cyfarch ar bob un	NSNT	NSNT
+279, 6	782, 10-19	BEC	medraf a rhoi ryw un gardyn Dolig bach efo fo	---	NSNT
+
+
+280, 1	783, 1-3	ALY	*hmm* *hmm* gallet	---	NST
+
+
+281, 1	785, 1-7	BEC	*oh* ia ar y llawr a pethau	NST	NST
+281, 2	787, 1-2	BEC	yn iawn	---	NSNT
+
+
+282, 1	788, 1-5	ALY	*tinsel* ar y goeden *yeah*	---	NST
+
+
+283, 1	790, 1-5	BEC	*oh* fydd o yn iawn	---	NST
+
+
+284, 1	791, 1-3	ALY	sparkly lights *yeah*	---	NST
+
+
+285, 1	792, 1-13	BEC	ie wnes i feddwl roi dipyn bach o fairy lights rowndo fo hefyd	NSNT	SNT
+285, 2	794, 1-6	BEC	wedyn na fydda i yn iawn	---	NSNT
+
+
+286, 1	795, 1-4	ALY	*turkey* yn y cefndir	---	NST
+
+
+287, 1	796, 1-10	BEC	ia ia a bach o mulled wine mewn gwydr bach	---	SNT
+
+
+288, 1	798, 1-1	ALY	*pudding*	---	NST
+
+
+289, 1	799, 1-3	BEC	plant bach Cymru	---	NSNT
+
+
+290, 1	800, 1-4	ALY	ie *plum_pudding* yn ganol	NST	NST
+290, 2	802, 1-5	ALY	beth yw yr adar yna	NSNT	NSNT
+290, 3	802, 6-8	ALY	sy fan acw	NSNT	NSNT
+290, 4	803, 1-9	ALY	*sorry* i yn cadw edrych mas drwy yr ffenestr	---	NST
+
+
+291, 1	804, 1-3	BEC	be ydyn nhw	---	NSNT
+
+
+292, 1	805, 1-3	ALY	dim dim gwylan	NSNT	NSNT
+292, 3	807, 1-2	ALY	crechi *yeah*	ST	NST
+292, 4	808, 1-2	ALY	*um* heron	---	NST
+
+
+293, 1	809, 1-6	BEC	*um* be ydy rheina gen ti	ST	NST
+293, 6	815, 1-2	BEC	heron *yeah*	---	NST
+
+
+294, 1	816, 1-4	ALY	crechi yw e *yeah*	---	NST
+
+
+295, 1	817, 1-5	BEC	dw i ddim yn meddwl	NSNT	NSNT
+295, 2	817, 6-12	BEC	bod ni yn galw nhw yn hynna	NSNT	NSNT
+295, 3	819, 1-8	BEC	*um* ie mae *Phill* *er* wrthi yn eu	NST	NST
+295, 4	819, 9-11	BEC	mae o yn	NSNT	NSNT
+295, 5	819, 12-14	BEC	cyfri nhw achos	NSNT	NSNT
+295, 6	819, 15-17	BEC	mae yn deud	NSNT	NSNT
+295, 7	819, 18-22	BEC	bod yna fwy flwyddyn yma	NSNT	NSNT
+295, 8	819, 23-27	BEC	nag oedd yna blwyddyn dwytha	---	NSNT
+
+
+296, 1	820, 1-5	ALY	dyna beth *yeah* rai mawr	NST	NST
+296, 2	820, 6-6	ALY	tala	---	NSNT
+
+
+297, 1	821, 1-4	BEC	sy yn beth da	---	NSNT
+
+
+298, 1	822, 1-2	ALY	*yeah* ody	---	NST
+
+
+299, 1	824, 1-2	BEC	oedd yna	NSNT	NSNT
+299, 2	824, 3-4	BEC	wnes i	NSNT	NSNT
+299, 3	824, 5-10	BEC	gyfri dau_ddeg_pedwar o *um* elyrch ddoe	---	NST
+
+
+300, 1	825, 1-5	ALY	do wir lawr fan yna	NSNT	NSNT
+300, 2	827, 1-4	ALY	*yeah* mae nhw yn	NST	NST
+300, 3	827, 5-11	ALY	mae nhw yn tyfu dydyn achos pan	---	NSNT
+
+
+301, 1	828, 1-1	BEC	tyfu	---	NSNT
+
+
+302, 1	829, 1-11	ALY	*well* na neu sa i rai blynyddau nôl dim ond pâr	NST	NST
+302, 2	831, 1-6	ALY	rei bach oedd wedi tyfu dydyn	NSNT	NSNT
+302, 3	833, 1-4	ALY	a mae nhw wedi	---	NSNT
+
+
+303, 1	834, 1-6	BEC	a hefyd dan ni wedi sylwi	NSNT	NSNT
+303, 2	834, 7-13	BEC	bod gwylanod *er* bach wedi dechrau hedfan	---	NST
+
+
+304, 1	836, 1-3	ALY	*mmm* gwybod bod	NST	NST
+304, 2	836, 4-9	ALY	â dou dwy dou gyw gwylan	NSNT	NSNT
+304, 3	837, 1-8	ALY	sa i yn *sure* sut mae gweud hynna	NST	NST
+304, 4	838, 1-1	ALY	dwy	NSNT	NSNT
+304, 5	840, 1-3	ALY	dwy wylan fach	---	NSNT
+
+
+305, 1	841, 1-2	BEC	yn lle	---	NSNT
+
+
+306, 1	842, 1-2	ALY	yn gwaith	NSNT	NSNT
+306, 2	843, 1-7	ALY	*um* un oedd un amboutu fis nôl	NST	NST
+306, 3	844, 1-6	ALY	a oedd e wedi cwympo amlwg	NSNT	NSNT
+306, 4	845, 1-9	ALY	mae raid bod nyth ar_ben yr adeilad neu rywbeth	NSNT	NSNT
+306, 5	846, 1-5	ALY	ac oedd e wedi cwympo	NSNT	NSNT
+306, 6	847, 1-15	ALY	ac oedd e *sort* of amboutu lle funny o_flaen o_flaen drws yr *um* drws tân	NST	ST
+306, 7	848, 1-10	ALY	*so* oedd e wedi gweld ei hunan yn y gwydr	NST	NST
+306, 8	848, 11-11	ALY	doedd	NSNT	NSNT
+306, 9	850, 1-8	ALY	oedd e yn ryw gerdded nôl a ymlaen	NSNT	NSNT
+306, 10	850, 9-17	ALY	â ei adain e yn hongian ar y llawr	NSNT	NSNT
+306, 11	851, 1-4	ALY	*so* ffoniodd *Andy* *R_S_P_C_A*	NST	NST
+306, 12	852, 1-11	ALY	a fe ddaeth yna fenyw fach mas i achub e a	NSNT	NSNT
+306, 13	852, 12-14	ALY	dyna ni *right*	NST	NST
+306, 14	853, 1-9	ALY	wedyn wythnos diwetha oedd yna un arall gyda ni	NSNT	NSNT
+306, 15	854, 1-4	ALY	*so* pob un mynd	NST	NST
+306, 16	855, 1-7	ALY	*oh* gad e fod for God sake	---	ST
+
+
+307, 1	857, 1-8	BEC	*yeah* *yeah* achos gwylanod mae nhw yn bla	---	NST
+
+
+308, 1	858, 1-2	ALY	a oedd	NSNT	NSNT
+308, 2	859, 1-7	ALY	*oh* na chwarae teg mae mewn poen	NST	NST
+308, 3	859, 8-8	ALY	dydy	NSNT	NSNT
+308, 4	860, 1-8	ALY	*so* ar_ôl i yr pobl *R_S_P_C_A* weud *oh*	NST	NST
+308, 5	861, 1-4	ALY	neu *R_S_P_B* de *yeah*	---	NST
+
+
+309, 1	862, 1-4	BEC	*R_S_P_B* ydy o *yeah*	---	NST
+
+
+310, 1	863, 1-4	ALY	ar_ôl i rheiny weud	NSNT	NSNT
+310, 2	864, 1-9	ALY	*oh* byddwn ni yn dro cyn dewn ni allan	NST	NST
+310, 3	865, 1-9	ALY	falle byddwch chi wedi mynd gartre o yr gwaith	NSNT	NSNT
+310, 4	866, 1-4	ALY	dodwch e mewn *box*	NST	NST
+310, 5	868, 1-16	ALY	a buodd *Andy* a fi yn cwrso fe *round* yr *close* y *front* gwaith yn trio	NST	NST
+310, 6	868, 17-24	ALY	dala fe i ddodi fe mewn *box* wedyn	NST	NST
+310, 7	868, 25-33	ALY	de a wedyn dodi fe mewn *box* upside down	ST	ST
+310, 8	868, 34-41	ALY	de a dodi twllau yn y *box* wedyn	NST	NST
+310, 9	870, 1-7	ALY	*oh* welais i ddim siwt gawl erioed	NST	NST
+310, 10	871, 2-3	ALY	wnaeth *Ceri*	NST	NST
+310, 11	871, 4-6	ALY	sy yn gweithio	NSNT	NSNT
+310, 12	871, 8-12	ALY	sy yn clau i ni	NSNT	NSNT
+310, 13	871, 13-15	ALY	wnaeth hi fynd	NSNT	NSNT
+310, 14	872, 1-4	ALY	chi ddim adael o	NSNT	NSNT
+310, 15	873, 1-7	ALY	fedrwch chi ddim gadael o fan acw	NSNT	NSNT
+310, 16	875, 1-6	ALY	*well* ond mae yr pobl *R_S_P_B*	NST	NST
+310, 17	876, 1-4	ALY	*oh* mae yn iawn	NST	NST
+310, 18	876, 5-5	ALY	sti	NSNT	NSNT
+310, 19	877, 1-1	ALY	mae	NSNT	NSNT
+310, 20	877, 2-5	ALY	mae o yn iawn	NSNT	NSNT
+310, 21	878, 1-7	ALY	*eh* mas â fe i yr cefn	NST	NST
+310, 22	879, 1-3	ALY	fel hyn *right*	NST	NST
+310, 23	880, 1-1	ALY	a	NSNT	NSNT
+310, 24	882, 1-5	ALY	*so* oedd hi *just* codi	NST	NST
+310, 25	882, 6-9	ALY	*just* gafael yndo fe	NST	NST
+310, 26	883, 1-8	ALY	oedd neb arall yn fodlon twtsiad yr peth	NSNT	NSNT
+310, 28	885, 1-8	ALY	a so ni wedi gweld e ers hynny	NSNT	NSNT
+310, 29	886, 1-4	ALY	mae nhw yn iawn	NSNT	NSNT
+310, 30	886, 5-5	ALY	doedd	NSNT	NSNT
+310, 31	888, 1-8	ALY	neu mae wedi mynd i drigo i rywle	NSNT	NSNT
+310, 32	889, 1-8	ALY	ond na mae raid bod e yn iawn	---	NSNT
+
+
+311, 1	890, 1-8	BEC	ti ddim isio achub gormod o wylanod sti	NSNT	NSNT
+311, 2	891, 1-4	BEC	mae nhw yn bla	---	NSNT
+
+
+312, 1	892, 1-4	ALY	na i yn gwybod	NSNT	NSNT
+312, 2	893, 1-9	ALY	ond mae fe yn drueni i weld mewn poen	---	NSNT
+
+
+313, 1	894, 1-2	BEC	mae gymaint	NSNT	NSNT
+313, 2	895, 1-12	BEC	*oh* ie pan ti yn gweld nhw yn brifo a pethau *mmm*	---	NST
+
+
+314, 1	896, 1-6	ALY	oedd ond ie i yn gwybod	NSNT	NSNT
+314, 2	897, 2-5	ALY	bod ni yn ffonio	NSNT	NSNT
+314, 3	897, 6-9	ALY	timod a arall *yeah*	---	NST
+
+
+315, 1	898, 1-4	BEC	dan ni wedi ffeindio	NSNT	NSNT
+315, 2	898, 5-5	BEC	yr	NSNT	NSNT
+315, 3	898, 6-6	BEC	wylan	---	NSNT
+
+
+316, 1	899, 1-4	ALY	you've got our address	NSNT	NSNT
+316, 2	900, 1-6	ALY	it's the same one *as* before	---	NST
+
+
+317, 1	902, 1-2	BEC	*oh* da	---	NST
+
+
+318, 1	903, 1-2	ALY	*oh* trueni	NST	NST
+318, 2	904, 1-2	ALY	ie *so*	---	NST
+
+
+319, 1	905, 1-3	BEC	*oh* *right* dda	NST	NST
+319, 2	906, 1-9	BEC	fuodd *mam* a *dad* yn *um* *Birmingham* nos Sul	NST	NST
+319, 3	907, 1-7	BEC	wnaethon nhw gael *um* stafell munud ola	NST	NST
+319, 4	907, 8-10	BEC	timod ar *Late_Rooms*	---	NST
+
+
+320, 1	908, 1-4	ALY	*oh* cer o yma	---	NST
+
+
+321, 1	909, 1-4	BEC	do yn y *Burlington*	NST	NST
+321, 3	911, 1-12	BEC	*just* wnaethon nhw *just* fynd ar y *train* a mynd i *Birmingham*	---	NST
+
+
+322, 1	912, 1-3	ALY	*oh* Duw Duw	---	NST
+
+
+323, 1	913, 1-5	BEC	ac oedd *mam* yn deud	NST	NST
+323, 2	913, 6-8	BEC	bod o mor	NSNT	NSNT
+323, 3	913, 9-14	BEC	mae yn ddinas mor braf wan	---	NSNT
+
+
+324, 1	914, 1-3	ALY	odyw hi wir	---	NSNT
+
+
+325, 1	915, 2-2	BEC	sti	NSNT	NSNT
+325, 3	917, 1-15	BEC	achos pan o'n i yn coleg yna oedd *Birmingham* dipyn o *ddump* deud y gwir	NST	NST
+325, 4	919, 1-4	BEC	ond mae yna peth	NSNT	NSNT
+325, 5	919, 6-15	BEC	mae nhw wedi gwario cymaint ar y lle ers hynny	NSNT	NSNT
+325, 6	920, 1-16	BEC	mae gen ti arddangosfa fawr tu allan i yr *um* un o un o yr sgwariau	NST	NST
+325, 7	921, 1-8	BEC	o sgwariau mawr yn *Birmingham* fyny o *New_Street*	NST	NST
+325, 9	924, 1-15	BEC	mae gen ti le arall o yr enw *Mail_Box* fath â siopau fwy designer a	---	ST
+
+
+326, 1	926, 1-2	ALY	Duw Duw	---	NSNT
+
+
+327, 1	927, 1-8	BEC	ac oedden nhw *just* wedi mynd am dro	NST	NST
+327, 2	928, 1-4	BEC	ac oedd *mam* deud	NST	NST
+327, 3	928, 5-9	BEC	bod o yn brilliant *Birmingham*	ST	ST
+327, 4	929, 1-5	BEC	mae yna deimlad bach *nice*	---	NST
+
+
+328, 1	930, 1-10	ALY	sa i erioed wedi bod mewn i ganol *Birmingham* *yeah*	---	NST
+
+
+329, 1	931, 1-4	BEC	bydd raid ti fynd	NSNT	NSNT
+329, 2	931, 5-5	BEC	sti	NSNT	NSNT
+329, 3	932, 1-5	BEC	mae o yn *nice* *Birmingham*	NST	NST
+329, 4	933, 1-5	BEC	*oh* mae yn *nice* rwan	NST	NST
+329, 5	935, 1-2	BEC	ond *er*	---	NST
+
+
+330, 1	936, 1-6	ALY	o'n nhw wedi mynd i *Stratford*	NST	NST
+330, 2	937, 1-7	ALY	o'n nhw ddim wedi mynd i weld	---	NSNT
+
+
+331, 1	938, 1-4	BEC	na dim_byd na na	NSNT	NSNT
+331, 2	939, 1-3	BEC	oedden nhw *just*	NST	NST
+331, 3	939, 4-7	BEC	wedi bod yn *Birmingham*	NST	NST
+331, 5	942, 1-9	BEC	felly oedden nhw wedi cael super deluxe am saith_deg_pump	NSNT	SNT
+331, 6	944, 1-5	BEC	ac oedd *mam* yn deud	NST	NST
+331, 7	944, 6-16	BEC	bod o yn anferth a *bathroom* anferth a *bath* anferth a	---	NST
+
+
+332, 1	946, 1-1	ALY	paid	NSNT	NSNT
+332, 2	946, 2-19	ALY	oedd *um* beth ti yn galw dwy o gwaith wedi mynd i *um* *er* i gwaith *spell* yn_ôl	NST	NST
+332, 3	947, 1-4	ALY	Duw *Robin* yw hwnna	NST	NST
+332, 4	948, 1-4	ALY	*hello* ti yn iawn	NST	NST
+332, 7	951, 1-11	ALY	*um* oedd dwy o gwaith wedi mynd lawr i yr de	NST	NST
+332, 8	952, 1-12	ALY	o'n nhw isie mynd ar recce neu rywbeth i Abertawe neu *Port_Talbot*	NST	ST
+332, 9	954, 1-7	ALY	*Margam* o'n nhw isie mynd dyna fe	NST	NST
+332, 10	955, 1-8	ALY	oedd isie aros arnyn nhw lawr yn rywle	NSNT	NSNT
+332, 11	956, 1-8	ALY	*so* wedodd wedon nhw wrth rywun yn gwaith	NST	NST
+332, 12	957, 1-8	ALY	o'n ni wedi bwco ni mewn i *um*	NST	NST
+332, 13	958, 1-8	ALY	*er* timod y y *Grand* yn Abertawe *right*	NST	NST
+332, 14	959, 1-10	ALY	*so* pan gyrhaeddon nhw yr *Grand* yn Abertawe a gweud	ST	NST
+332, 15	960, 1-3	ALY	yes we've booked	---	NSNT
+
+
+333, 1	962, 1-1	BEC	rhyngthyn	---	NSNT
+334, 2	965, 1-5	ALY	*oh* *great* *Dafydd* timod *posh*	NST	NST
+334, 3	965, 6-8	ALY	dydy *Grand* Abertawe	---	NST
+
+
+335, 1	966, 1-2	BEC	da iawn	---	NSNT
+
+
+336, 1	967, 1-6	ALY	*so* o'n nhw wedi mynd cyrraedd	NST	NST
+336, 2	968, 1-5	ALY	a o'n nhw wedi gweud	SNT	NSNT
+336, 3	969, 1-3	ALY	no no booking	NSNT	NSNT
+336, 4	970, 1-7	ALY	yes yes mae raid bod yna booking	SNT	SNT
+336, 5	971, 1-13	ALY	ni *yeah* ni wedi timod ni ni wedi ffacso hyn a yr llall	NST	NST
+336, 6	972, 1-2	ALY	na nothing	SNT	SNT
+336, 7	974, 1-6	ALY	dim_byd yn eich enwau chi o_gwbl	NSNT	NSNT
+336, 8	975, 1-10	ALY	*so* o'n nhw wedi wneud *fuss* mawr a wedi gweud	NST	NST
+336, 9	976, 1-9	ALY	na na na mae nhw wedi siarad gyda chi	NSNT	NSNT
+336, 10	977, 1-5	ALY	ŷn ni wedi bwco mewn	NSNT	NSNT
+336, 11	978, 1-4	ALY	co ni wedi cyrraedd	NSNT	NSNT
+336, 12	979, 1-7	ALY	mae yn hanner wedi deg yn nos	SNT	NSNT
+336, 13	980, 1-3	ALY	it's not on	SNT	NSNT
+336, 14	981, 1-5	ALY	ŷn ni yn aros yma	NSNT	NSNT
+336, 15	982, 1-3	ALY	*so* wedon nhw	NST	NST
+336, 16	983, 1-8	ALY	*well* yr unig stafell sy gyda ni ar_ôl	NST	NST
+336, 17	983, 9-14	ALY	yw yr hompen fawr o stafell	NSNT	NSNT
+336, 18	984, 2-9	ALY	mae lan ar *top* yr adeilad fel penthouse	ST	ST
+336, 19	984, 10-20	ALY	ei hunan neu rywbeth *right* a jacuzzis a pethau fel hyn	NST	ST
+336, 20	985, 1-5	ALY	*so* o'n nhw wedi gweud	NST	NST
+336, 21	986, 1-16	ALY	*well* timod ŷn ni wedi bwco *so* wnewn ni aros fan yna diolch yn fawr iawn	NST	NST
+336, 23	987, 22-23	ALY	de felly	---	NSNT
+
+
+337, 1	988, 1-2	BEC	y *ddesk*	---	NST
+
+
+338, 1	989, 1-7	ALY	*o_k* iawn gewch chi fe am gant	NST	NST
+338, 2	991, 1-3	ALY	*so* o'n nhw	ST	NST
+338, 3	992, 1-2	ALY	*o_k* *fine*	ST	NST
+338, 4	993, 1-6	ALY	a yn gorfod rhannu nawr de	NSNT	NSNT
+338, 5	994, 1-4	ALY	*so* popeth yn iawn	NST	NST
+338, 6	995, 1-10	ALY	lan â nhw am *laugh* de jacuzzis a joio nawr	NST	ST
+338, 7	995, 11-13	ALY	de fel hyn	SNT	NSNT
+338, 8	997, 1-6	ALY	*ooh* mini_bar a pethau timod *great*	NST	ST
+338, 9	999, 1-5	ALY	chwerthin mawr de dim *problem*	NST	NST
+338, 10	1000, 1-10	ALY	wedyn daeth yr alwad *phone* wrth y *manager* yn gweud	NST	NST
+338, 11	1001, 1-4	ALY	mae yna yna gamgymeriad	NSNT	NSNT
+338, 12	1001, 5-6	ALY	wedi bod	NSNT	NSNT
+338, 13	1002, 1-9	ALY	fedrwch chi ddim cael y stafell yma am gant	NSNT	NSNT
+338, 14	1003, 1-5	ALY	dan ni yn *very* *sorry*	ST	NST
+338, 15	1005, 1-4	ALY	it's not on o_gwbl	NSNT	SNT
+338, 16	1006, 1-7	ALY	dydych chi ddim wedi bwco mewn yma	NSNT	NSNT
+338, 17	1007, 1-4	ALY	mae yna ryw gamgymeriad	NSNT	NSNT
+338, 18	1008, 1-2	ALY	a gall	NSNT	NSNT
+338, 19	1008, 3-19	ALY	dylai yr aelod o *staff* tu ôl y *ddesk* ddim wedi roi fe i chi am gant	NST	NST
+338, 20	1009, 1-4	ALY	mae yr stafell yma	NSNT	NSNT
+338, 21	1009, 5-11	ALY	werth dau gant a hanner y noson	NSNT	NSNT
+338, 22	1010, 1-6	ALY	gewch chi mo fe am gant	NSNT	NSNT
+338, 23	1011, 1-5	ALY	bydd raid chi dalu mwy	NSNT	NSNT
+338, 24	1012, 1-2	ALY	a timod	NSNT	NSNT
+338, 25	1013, 1-6	ALY	ddeudwn ni down ni wedwn ni	NSNT	NSNT
+338, 26	1014, 1-6	ALY	be bynnag ryw swm arall timod	NSNT	NSNT
+338, 27	1015, 1-7	ALY	*ooh* dyna fe te popeth yn iawn	NST	NST
+338, 28	1016, 1-9	ALY	oedd e ry hwyr erbyn hynny mynd i unman	NSNT	NSNT
+338, 29	1016, 10-11	ALY	doedd *right*	NST	NST
+338, 30	1017, 1-4	ALY	mynd nôl i gwaith	NSNT	NSNT
+338, 31	1018, 1-12	ALY	o'n nhw hyd_yn_oed wedi bwco mewn i yr *um* *Grand* yn Abertawe	NST	NST
+338, 32	1019, 1-5	ALY	i yr Grand_Hotel yn *Port_Talbot*	NST	ST
+338, 34	1021, 1-4	ALY	mynd i lle *wrong*	NST	NST
+338, 35	1022, 1-4	ALY	*well* i wedi chwerthin	NST	NST
+338, 36	1023, 1-4	ALY	*oh* doniol doniol ofnadwy	---	NST
+
+
+339, 1	1024, 1-5	BEC	*so* dibynnu mae yn rhyfedd	NST	NST
+339, 2	1024, 6-6	BEC	bod	NSNT	NSNT
+339, 3	1024, 7-14	BEC	bod nhw wedi gorfod talu mwy mewn ffordd	NSNT	NSNT
+339, 4	1024, 15-16	BEC	dydy achos	NSNT	NSNT
+339, 5	1024, 17-24	BEC	os ydy yr *person* tu ôl y *ddesk*	NST	NST
+339, 6	1024, 25-31	BEC	de wedi deud yna *er* rhyngthi hi	NST	NST
+339, 7	1024, 32-39	BEC	baset ti feddwl rhyngthi hi a yr rheolwr	NSNT	NSNT
+339, 8	1024, 40-42	BEC	ydy o wedyn	---	NSNT
+
+
+340, 1	1025, 1-2	ALY	wedi gweud	---	NSNT
+
+
+341, 1	1028, 1-1	BEC	bod	NSNT	NSNT
+341, 2	1028, 2-3	BEC	os ydy	---	NSNT
+
+
+342, 1	1029, 1-1	ALY	bod	NSNT	NSNT
+342, 2	1029, 2-7	ALY	mae raid bod y reolwr wedi	---	NSNT
+
+
+343, 1	1030, 1-6	BEC	bod o yn ormod rhy isel	NSNT	NSNT
+343, 2	1030, 7-8	BEC	mae raid	NSNT	NSNT
+343, 3	1030, 9-9	BEC	doedd	NSNT	NSNT
+343, 4	1032, 1-5	BEC	ond baset ti feddwl hefyd	NSNT	NSNT
+343, 5	1032, 6-8	BEC	de iddo fo	---	NSNT
+
+
+344, 1	1033, 1-5	ALY	oedd y stafell yn wag	---	NSNT
+
+
+345, 1	1034, 1-5	BEC	*well* dydy o ddim yn	NST	NST
+345, 2	1034, 6-20	BEC	oedd o ddim yn mynd i gael neb arall yna adeg yna o yr nos	NSNT	NSNT
+345, 3	1034, 21-22	BEC	nag oedd	---	NSNT
+
+
+346, 1	1035, 1-6	ALY	nag oedd na yn union na	---	NSNT
+
+
+347, 1	1036, 1-1	BEC	felly	---	NSNT
+
+
+348, 1	1037, 1-2	ALY	ond oedd	NSNT	NSNT
+348, 2	1037, 3-6	ALY	oedd hwnna yn iawn	NSNT	NSNT
+348, 3	1038, 1-15	ALY	achos bod nhw wedi wedi bod yn pledio a nhw wedi deud creu *fuss* ofnadwy	NST	NST
+348, 4	1039, 1-10	ALY	a wedyn o'n nhw yn y flipping Grand_Hotel anghywir do'n	NSNT	SNT
+348, 5	1041, 1-4	ALY	i wedi chwerthin de	NSNT	NSNT
+348, 6	1042, 1-4	ALY	*Port_Talbot* o'n nhw fod	---	NST
+
+
+349, 1	1043, 1-2	BEC	*oh* da	---	NST
+
+
+350, 1	1044, 1-2	ALY	*oh* doniol	---	NST

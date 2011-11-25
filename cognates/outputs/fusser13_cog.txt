@@ -1,0 +1,2480 @@
+1, 1	1, 1-9	ANN	a wedyn *um* mae nhw mynd ar y degfed	NST	NST
+1, 2	3, 1-12	ANN	a wedyn mae nhw yn hedfan yn syth i *oh* i *Buenos_Aires*	NST	NST
+1, 3	4, 1-6	ANN	mae nhw yn aros fan yno	NSNT	NSNT
+1, 4	4, 7-18	ANN	noson a wedyn yn mynd yn syth o fan yno i *Esquel*	NST	NST
+1, 5	6, 1-3	ANN	ar_gyfer y briodas	NSNT	NSNT
+1, 6	7, 1-13	ANN	a wedyn mae nhw yn aros yn fan yno am ychydig o ddyddiau	NSNT	NSNT
+1, 7	8, 1-11	ANN	wedyn mae nhw croesi yr paith ffordd groes i ni wedyn	NSNT	NSNT
+1, 8	10, 1-7	ANN	mae nhw yn aros wedyn yn *um*	NST	NST
+1, 10	12, 1-3	ANN	yndyn yn yn	NSNT	NSNT
+1, 11	12, 4-6	ANN	lle oedden ni	NSNT	NSNT
+1, 12	12, 7-10	ANN	de yn y *Gaiman*	---	NST
+
+
+2, 1	14, 1-5	BEI	oedden ni yn aros yna	---	NSNT
+
+
+3, 1	16, 1-11	ANN	ti nabod *Sara* a *Colin* wyt yn y *Gelli* yn *Traws*	---	NST
+
+
+4, 1	17, 1-2	CRI	nac ydw	---	NSNT
+
+
+5, 1	18, 1-4	BEI	tad a *mam* *William_Charles*	---	NST
+
+
+6, 1	20, 1-9	ANN	*um* *Nia* neu *Nancy* baset ti nabod ella *yeah*	---	NST
+
+
+7, 1	22, 1-3	CRI	ia *Nia* ia	---	NST
+
+
+8, 1	23, 1-5	ANN	*Nia* *oh* dyna chdi ia	---	NST
+
+
+9, 1	24, 1-2	CRI	ia *Nia*	---	NST
+
+
+10, 1	25, 1-2	ANN	ers cyfnod	---	NSNT
+
+
+11, 1	26, 1-6	CRI	ia dw i yn gwybod amdan	NSNT	NSNT
+11, 2	26, 7-11	CRI	dw i yn gwybod am	---	NSNT
+
+
+12, 1	27, 1-4	BEI	am y teulu felly	---	NSNT
+
+
+13, 1	30, 1-16	CRI	*oh* *yeah* dydyn nhw ddim yn perthyn nac ydyn i i *Alun_Davies* a a *Bethan* nac	NST	NST
+13, 2	30, 17-17	CRI	ydyn	---	NSNT
+
+
+14, 1	31, 1-8	ANN	na mae yr ferch yn forwyn briodas iddi	NSNT	NSNT
+14, 2	33, 1-3	ANN	*Angharad* ydy morwyn	NST	NST
+14, 3	34, 1-5	ANN	achos oedd *Angharad* hefo *Awen*	NST	NST
+14, 4	34, 6-10	ANN	pan oedd hi drosodd yna	---	NSNT
+
+
+15, 1	37, 1-6	CRI	be mae *Awen* yn wneud wan	NST	NST
+15, 2	37, 7-7	CRI	ta	NSNT	NSNT
+15, 3	38, 1-3	CRI	be mae mynd	---	NSNT
+
+
+16, 1	39, 1-5	ANN	*oh* dod yn_ôl mae nhw	NST	NST
+16, 2	41, 1-7	ANN	geith o ddod yma i weithio wedyn	NSNT	NSNT
+16, 3	43, 1-6	ANN	ar_ôl be chwe mis neu rywbeth	NSNT	NSNT
+16, 4	45, 1-9	ANN	mae nhw yn dod yn eu holau yma yn_dydy	NSNT	NSNT
+16, 5	45, 10-10	ANN	sti	NSNT	NSNT
+16, 6	46, 1-4	ANN	does yna ddim sôn	NSNT	NSNT
+16, 7	46, 5-10	ANN	bod *Nathaniel* yn dod efo *Carys*	NST	NST
+16, 8	49, 1-6	ANN	na dw i ddim yn gwybod	---	NSNT
+
+
+17, 1	50, 1-1	CRI	bechod	NSNT	NSNT
+17, 2	51, 1-7	CRI	tibod gymaint o angen deintyddion fan hyn	---	NSNT
+
+
+18, 1	52, 1-2	ANN	yn hollol	NSNT	NSNT
+18, 2	53, 1-2	ANN	yn hollol	NSNT	NSNT
+18, 3	54, 1-6	ANN	y peth yn yn gywilyddus dydy	NSNT	NSNT
+18, 5	56, 1-7	ANN	a na cheith o ddim gwneud am	NSNT	NSNT
+18, 6	56, 8-13	ANN	na does gynno fo ddim Saesneg	NSNT	NSNT
+18, 7	58, 1-1	ANN	creadur	NSNT	NSNT
+18, 8	59, 1-7	ANN	hogyn bach annwyl iawn ydy o hefyd	---	NSNT
+
+
+19, 1	60, 1-7	BEI	mae yn anodd iddo ddod drosodd hefyd	NSNT	NSNT
+19, 2	60, 8-8	BEI	dydy	NSNT	NSNT
+19, 3	60, 9-12	BEI	sti am costau teithio	---	NSNT
+
+
+20, 1	62, 1-6	ANN	mae *lot* drutach iddyn nhw wrth_gwrs	---	NST
+
+
+21, 1	64, 1-4	CRI	*well* ia ond wsti	---	NST
+
+
+22, 1	65, 1-5	ANN	dŵad am un waith fysai	---	NSNT
+
+
+23, 1	66, 1-7	CRI	un un un waith fysai fo wneud	NSNT	NSNT
+23, 2	66, 8-14	CRI	fysai wedi wneud o i_fyny wedyn felly	NSNT	NSNT
+23, 3	66, 15-15	CRI	bysai	---	NSNT
+
+
+24, 1	68, 1-10	BEI	oedd yna lythyr gyn *Elinor_Bennett* yn *Daily_Post* diwrnod o blaen	NST	NST
+24, 2	68, 11-11	BEI	doedd	---	NSNT
+
+
+25, 1	69, 1-6	ANN	*oh* welais i ddim ohono fo	---	NST
+
+
+26, 1	70, 1-6	BEI	oedd un o ddisgyblion *Catrin* *Catrin_Morris*	NST	NST
+26, 2	71, 1-2	BEI	chwarae delyn	NSNT	NSNT
+26, 3	73, 1-7	BEI	*Elinor* isio chael hi drosodd i gyfarfod	---	NST
+
+
+27, 1	75, 1-6	ANN	siarad ar raglen *Hywel_Gwynfryn* a *Nia*	---	NST
+
+
+28, 1	78, 1-6	BEI	*oh* chlywais i ddim o hwnnw	NST	NST
+28, 2	79, 1-4	BEI	weld o yn papur	NSNT	NSNT
+28, 3	81, 1-8	BEI	gofyn am gyfraniadau i dalu cael dod drosodd	---	NSNT
+
+
+29, 1	82, 1-6	ANN	Duw welais i ddim ohono fo	NSNT	NSNT
+29, 2	83, 1-5	ANN	ddylsai bod ni yn gwneud	---	NSNT
+
+
+30, 1	84, 1-2	CRI	oedd o	NSNT	NSNT
+30, 2	84, 3-11	CRI	dw i weld o yn ryw bapur ddoe hefyd	NSNT	NSNT
+30, 3	86, 1-6	CRI	*oh* ella na *Caernarfon_and_Denbigh* oedd hwnna	---	NST
+
+
+31, 1	88, 1-3	BEI	dw i ddim	NSNT	NSNT
+31, 2	88, 4-12	BEI	wedi bod yn y lle newydd yn *Caernarfon* o_gwbl	NST	NST
+31, 3	89, 1-1	BEI	ti	---	NSNT
+
+
+32, 1	90, 3-10	CRI	fuodd cynhadledd y blaid yna cyn lle agor	NSNT	NSNT
+32, 2	92, 1-3	CRI	*er* blwyddyn yn_ôl	NST	NST
+32, 3	93, 1-4	CRI	*er* cynhadledd wanwyn yno	NST	NST
+32, 4	94, 1-17	CRI	*um* *er* rhyfedd oedd rei ni wedi cael llythyr bore yma *um* gyn *er* twrnai yr sir	NST	NST
+32, 5	95, 1-5	CRI	*oh* mae hynna atgoffa fi	NST	NST
+32, 6	96, 1-7	CRI	dw trio cyfeiriad *Ioan_Roberts* os ga i	NST	NST
+32, 7	98, 1-4	CRI	*um* mae *well* mi	NST	NST
+32, 8	98, 5-17	CRI	oeddwn i wedi cael gwahoddiad i *Galeri* i ryw i rywbeth yn *Galeri*	NST	NST
+32, 9	99, 1-7	CRI	dw i meddwl mai trwy Cyngor_Celfyddydau felly	NSNT	NSNT
+32, 10	101, 1-3	CRI	ond mae *sure*	NST	NST
+32, 11	101, 4-12	CRI	bod ni wedi cael gwahoddiad hefyd fel *um* cynghorwyr	NST	NST
+32, 13	103, 1-5	CRI	achos mae nhw wedi gwneud	NSNT	NSNT
+32, 14	103, 6-17	CRI	cais i yr cyngor i gael arian i redeg y lle dydyn	---	NSNT
+
+
+33, 1	104, 1-3	ANN	*oh* yndyn *sure*	---	NST
+
+
+35, 1	109, 1-3	ANN	dan ni ddim	NSNT	NSNT
+35, 2	109, 4-6	ANN	wedi bod o_gwbl	NSNT	NSNT
+35, 3	110, 1-5	ANN	mae yn gywilydd i ni	---	NSNT
+
+
+36, 1	111, 1-6	CRI	a bod ni fod i gofrestru	NSNT	NSNT
+36, 2	111, 7-14	CRI	bod ni wedi cael y gwahoddiad hefyd er	NSNT	NSNT
+36, 3	111, 15-21	CRI	na dan ni ddim yn dderbyn o	NSNT	NSNT
+36, 4	112, 1-2	CRI	a mae	NSNT	NSNT
+36, 5	112, 3-13	CRI	oedd *Ioan_Roberts* yn sôn am hynna yn yn *Rhaeadr* dydd Sadwrn	NST	NST
+36, 6	113, 1-10	CRI	a wedyn dw isio gyrru hwn iddo fo *copy* o	NST	NST
+36, 7	113, 11-22	CRI	be mae yr twrnai wedi ddeud *just* iddo fo gael gweld felly	---	NST
+
+
+37, 1	114, 1-3	ANN	*oh* dyna chdi	NST	NST
+37, 4	118, 1-3	ANN	*oh* dyna ti	---	NST
+
+
+38, 1	119, 1-9	BEI	wedi deud wrth *Ann* y gwahoddiad ges i neithiwr	---	NST
+
+
+39, 1	120, 1-6	ANN	ti ddim wedi deud wrtha i	NSNT	NSNT
+39, 2	122, 1-4	ANN	i fynd i le	---	NSNT
+
+
+40, 1	123, 1-3	BEI	i blas *Buckingham*	---	NST
+
+
+41, 1	127, 1-2	ANN	*nice* iawn	NST	NST
+41, 2	128, 1-7	ANN	gei di fynd dy hun hynny sicr	---	NSNT
+
+
+42, 1	130, 1-1	CRI	*ugh*	---	NST
+
+
+43, 1	132, 1-2	ANN	i be	NSNT	NSNT
+43, 2	133, 1-4	ANN	i gael ysgwyd llaw	---	NSNT
+
+
+44, 1	134, 1-5	BEI	be oedd o ddeud gwir	---	NSNT
+
+
+45, 1	135, 1-3	ANN	Un_Llais_Cymru oedd o	---	NSNT
+
+
+46, 1	136, 1-3	BEI	ia hwyrach de	---	NSNT
+
+
+47, 1	138, 1-3	ANN	*oh* mae yna	NST	NST
+47, 2	139, 1-8	ANN	*oh* Duw basai yn *drip* iawn i Llundain	NST	NST
+47, 3	140, 1-3	ANN	gei di fynd	NSNT	NSNT
+47, 4	142, 1-5	ANN	wna i fynd i siopa	---	NSNT
+
+
+48, 1	143, 1-2	BEI	*oh* diolch	NST	NST
+48, 3	145, 1-5	BEI	dyna o'n i yn wybod	---	NSNT
+
+
+49, 1	146, 1-5	ANN	wnest ti wrthod wedyn debyg	NSNT	NSNT
+49, 3	150, 1-3	ANN	*oh* taw dithau	NST	NST
+49, 4	151, 1-3	ANN	*oh* dyna fo	NST	NST
+49, 5	152, 1-8	ANN	mi gei di ddeud bod wedi cael gwahoddiad	NSNT	NSNT
+49, 6	152, 9-15	ANN	a bod chdi wedi droi o lawr	NSNT	NSNT
+49, 7	153, 1-5	ANN	mae hynny yn fwy o	NSNT	NSNT
+49, 8	155, 1-4	ANN	o ddigwyddiad mae *sure*	NST	NST
+49, 9	155, 5-5	ANN	dydy	---	NSNT
+
+
+50, 1	156, 1-1	CRI	Iesu	---	NSNT
+
+
+51, 1	157, 1-3	ANN	sôn am *er*	NST	NST
+51, 2	158, 1-6	ANN	neu doedden ni ddim yn sôn	NSNT	NSNT
+51, 3	159, 1-5	ANN	wsti *um* gwnïo ni wan	NST	NST
+51, 4	161, 1-10	ANN	mae yna gwrs gyn y gymdeithas yn *Tan_y_Bwlch* Mawrth un_deg_wyth	NST	NST
+51, 5	163, 1-5	ANN	mae o yn gwrs penwythnos	NSNT	NSNT
+51, 6	165, 1-9	ANN	ond dw i am fynd dydd Sadwrn yn unig	---	NSNT
+
+
+52, 1	166, 1-6	CRI	*oh* i wneud y bowlen yma	---	NST
+
+
+53, 1	169, 1-3	ANN	dw i meddwl	NSNT	NSNT
+53, 2	169, 4-6	ANN	bod o ddifyr	NSNT	NSNT
+53, 3	169, 8-8	ANN	sti	NSNT	NSNT
+53, 4	170, 1-4	ANN	fydd o wahanol hollol	NSNT	NSNT
+53, 5	170, 5-5	ANN	bydd	NSNT	NSNT
+53, 6	171, 1-6	ANN	wyt ti yn gwneud gwaith gwnïo	NSNT	NSNT
+53, 7	172, 1-5	ANN	a dw ddim yn gwybod	NSNT	NSNT
+53, 8	172, 6-13	ANN	sut mae o yn gweithio na dim_byd na	NSNT	NSNT
+53, 9	172, 14-16	ANN	be ydy yr	NSNT	NSNT
+53, 10	173, 1-3	ANN	mae croesbwyth am	NSNT	NSNT
+53, 11	173, 4-8	ANN	wn i felly neu brodwaith	NSNT	NSNT
+53, 12	174, 1-15	ANN	a wedyn wyt ti yn gwneud y defnydd wedyn yn bowlen mewn *Polyfilla* neu rywbeth	NST	NST
+53, 13	175, 1-5	ANN	mae ryw gymysgedd math yna	NSNT	NSNT
+53, 14	176, 1-7	ANN	a ti gwneud hi yn siâp powlen	NSNT	NSNT
+53, 15	177, 1-6	ANN	a mae sefyll ar ei phen	NSNT	NSNT
+53, 16	177, 7-8	ANN	ei hun	NSNT	NSNT
+53, 17	179, 1-6	ANN	a *just* fel powlen o ddefnydd	NST	NST
+53, 18	182, 1-6	ANN	a mae yn fascinate_io fi feddwl	NSNT	SNT
+53, 19	182, 7-14	ANN	sut mae yr peth yn mynd i weithio	NSNT	NSNT
+53, 20	183, 1-13	ANN	wedyn dw i am fynd am y ar y dydd Sadwrn yn unig	NSNT	NSNT
+53, 22	185, 1-4	ANN	dw i wedi penderfynu	NSNT	NSNT
+53, 23	185, 5-11	ANN	bod fi wneud o am y diwrnod	---	NSNT
+
+
+54, 1	186, 1-4	CRI	dw ddim yn meddwl	NSNT	NSNT
+54, 2	186, 5-8	CRI	bod gyn i ddiddordeb	NSNT	NSNT
+54, 4	189, 1-13	CRI	gyn i gymaint o bethau dw isio eu eu eu gorffen eu gwneud	---	NSNT
+
+
+55, 1	190, 1-1	ANN	gorffen	NSNT	NSNT
+55, 2	191, 1-3	ANN	a finnau hefyd	---	NSNT
+
+
+56, 1	192, 1-5	CRI	ond dw i yn gobeithio	NSNT	NSNT
+56, 2	193, 1-3	CRI	mae yna ryw	NSNT	NSNT
+56, 3	193, 5-7	CRI	mae cyfnod y	NSNT	NSNT
+56, 4	194, 1-7	CRI	rwy i yn gadeirydd ryw bwyllgor adnoddau	NSNT	NSNT
+56, 5	195, 1-11	CRI	a wedyn mae cyfnod rywun dod i ben ar_ôl dwy flynedd	NSNT	NSNT
+56, 6	196, 1-4	CRI	wedyn mae ryw swyddogion	NSNT	NSNT
+56, 7	196, 5-10	CRI	wedi bod *right* dda wrtha i	NST	NST
+56, 8	197, 1-4	CRI	wedyn oeddwn i meddwl	NSNT	NSNT
+56, 9	197, 5-11	CRI	baswn i yn gwneud croeso iddyn nhw	NSNT	NSNT
+56, 10	198, 1-8	CRI	isio wneud chwech neu saith o rheiny de	---	NSNT
+
+
+57, 1	199, 1-2	ANN	iechyd mawr	---	NSNT
+
+
+58, 1	200, 2-4	CRI	fedri di ddim	NSNT	NSNT
+58, 2	200, 5-8	CRI	roid i un heb	NSNT	NSNT
+58, 3	200, 9-10	CRI	roid i	---	NSNT
+
+
+59, 1	201, 1-2	ANN	na fedri	---	NSNT
+
+
+60, 1	203, 1-2	CRI	lleill rywsut	---	NSNT
+
+
+61, 1	205, 1-10	ANN	mae *Ianto* wedi gofyn i *fam* wneud chwech o reiny	NST	NST
+61, 2	206, 1-7	ANN	es i gweld hi diwrnod o blaen	NSNT	NSNT
+61, 3	208, 1-2	ANN	ac *um*	NST	NST
+61, 4	209, 1-3	ANN	ew mae dda	NSNT	NSNT
+61, 5	211, 1-4	ANN	esgob mae yn dda	NSNT	NSNT
+61, 6	212, 1-11	ANN	ac oedd hi wrthi yn gwnïo croeso pan o'n i yno	NSNT	NSNT
+61, 7	214, 1-7	ANN	a mi wnes sôn am y peth	NSNT	NSNT
+61, 8	216, 1-6	ANN	a dyma hi yn deud *um*	NST	NST
+61, 9	217, 1-7	ANN	mae *Ianto* yn gorffen yr un fath	NST	NST
+61, 10	218, 1-3	ANN	wsti ryw waith	NSNT	NSNT
+61, 11	218, 4-12	ANN	mae o wneud yng Nghaerdydd hefo bwrdd arholi mathemateg	---	NSNT
+
+
+62, 1	219, 1-8	CRI	*oh* *yeah* Cyd_bwyllgor yma a pethau felly *yeah*	---	NST
+
+
+63, 1	220, 1-9	ANN	*oh* mae o yn gorffen yn fan yno leni	NST	NST
+63, 2	224, 1-8	ANN	a wedyn oedd o wedi gofyn i *fam*	NST	NST
+63, 3	224, 9-19	ANN	fysai hi yn gwneud chwech o yr croeso yma iddo fyntau	NSNT	NSNT
+63, 4	226, 1-3	ANN	a na dyna	NSNT	NSNT
+63, 5	226, 4-6	ANN	fysai fo yn	NSNT	NSNT
+63, 6	226, 7-10	ANN	roid iddyn nhw hefyd	NSNT	NSNT
+63, 7	227, 1-6	ANN	wedyn fydd chadw hi yn brysur	NSNT	NSNT
+63, 8	227, 7-8	ANN	meddai fo	NSNT	NSNT
+63, 9	228, 1-6	ANN	ond *um* nefi mae wrthi dda	NST	NST
+63, 11	231, 1-12	ANN	mae wedi cael ryw three_piece newydd a ballu diwrnod o yr blaen	NSNT	SNT
+63, 12	233, 1-2	ANN	oedd hi	NSNT	NSNT
+63, 13	233, 3-8	ANN	wedi bod yn *Quakes* yn dewis	NST	NST
+63, 15	236, 1-5	ANN	a wedyn mae *right* chuffed	ST	ST
+63, 16	236, 6-15	ANN	bod nhw wedi syjestio hynny iddi *um* er_mwyn iddi gael	NST	NST
+63, 17	237, 1-2	ANN	mae yn	NSNT	NSNT
+63, 18	237, 3-6	ANN	mae yn cymryd o	NSNT	NSNT
+63, 19	238, 1-7	ANN	dw i yn cael aros yma felly	NSNT	NSNT
+63, 20	242, 1-5	ANN	dyn nhw ddim yn meddwl	NSNT	NSNT
+63, 21	242, 6-9	ANN	rhoid hi nunlle arall	NSNT	NSNT
+63, 23	244, 1-8	ANN	am bod hon yn newydd wedi cyrraedd yna	NSNT	NSNT
+63, 24	245, 1-7	ANN	o'n i yn gweld hi yn *case*	NST	NST
+63, 25	246, 1-3	ANN	*oh* wyt ti	NST	NST
+63, 26	246, 4-9	ANN	wedi bod yn cydymdeimlo hefo *Ieuan_Emyr*	NST	NST
+63, 27	247, 1-16	ANN	ti cofio nhw yn deud yn y yn cinio nos Iau bod o wedi cael profedigaeth	NSNT	NSNT
+63, 28	248, 1-4	ANN	ti cofio nhw deud	---	NSNT
+
+
+64, 1	249, 1-5	CRI	na wnes i ddim clywed	---	NSNT
+
+
+65, 1	250, 1-2	ANN	do mi	NSNT	NSNT
+65, 2	250, 3-4	ANN	ddaru gyhoeddi	NSNT	NSNT
+65, 3	250, 5-5	ANN	sti	NSNT	NSNT
+65, 4	250, 6-11	ANN	do bod o wedi cael profedigaeth	NSNT	NSNT
+65, 5	250, 12-16	ANN	bod hi wedi colli brawd	NSNT	NSNT
+65, 6	251, 1-11	ANN	a wedyn o'n i wedi mynd heibio wan *Ianto* i ddeud	NST	NST
+65, 7	252, 1-8	ANN	dw i yn mynd i weld dy *fam*	NST	NST
+65, 8	254, 1-3	ANN	dyma fo deud	NSNT	NSNT
+65, 9	255, 1-10	ANN	*well* dw i wedi trio mynd i weld *Ieuan_Emyr* *missus*	NST	NST
+65, 10	256, 1-2	ANN	meddai fo	NSNT	NSNT
+65, 11	257, 1-5	ANN	ond oedden nhw ddim yno	NSNT	NSNT
+65, 12	258, 1-3	ANN	a dyna fo	NSNT	NSNT
+65, 13	259, 1-2	ANN	felly bu	NSNT	NSNT
+65, 14	260, 1-9	ANN	wedyn mi aeth wedyn yn hwyrach yn y dydd	NSNT	NSNT
+65, 15	262, 1-12	ANN	a mi oedd barnwr yn cyrraedd yno yr un pryd â fo	NSNT	NSNT
+65, 16	263, 1-3	ANN	ac ysgwyd llaw	NSNT	NSNT
+65, 17	264, 1-3	ANN	a dyna fo	NSNT	NSNT
+65, 18	265, 1-7	ANN	a dyma *Ieuan* yn deud yn diwedd	NST	NST
+65, 19	266, 1-7	ANN	mae yna dri o yr *club* cinio	NST	NST
+65, 20	266, 8-14	ANN	wedi bod yma bore yma yn barod	NSNT	NSNT
+65, 21	267, 1-9	ANN	oedd neb wedi deud dim_byd o_gwbl mond *just* wedi	NST	NST
+65, 22	270, 1-6	ANN	a wedyn mi ofynnodd iddyn nhw	NSNT	NSNT
+65, 23	272, 1-8	ANN	hynny ydy dim bob croeso i chi ddŵad	NSNT	NSNT
+65, 24	273, 1-7	ANN	ond pam dach chi gyd yn dŵad	---	NSNT
+
+
+66, 1	274, 1-1	CRI	pam	---	NSNT
+
+
+67, 1	276, 1-5	ANN	a dyma *Ianto* yn deud	NST	NST
+67, 2	277, 1-2	ANN	*well* profedigaeth	NST	NST
+67, 3	278, 1-5	ANN	ddim wedi cael *fashion* beth	NST	NST
+67, 4	279, 1-5	ANN	*flu* sydd ar y dyn	---	NST
+
+
+68, 1	282, 1-3	CRI	*oh* yr nefoedd	NST	NST
+68, 2	283, 1-4	CRI	a doedd o ddim	---	NSNT
+
+
+69, 1	284, 1-2	ANN	oedd o	---	NSNT
+
+
+70, 1	285, 1-4	CRI	wnes i ddim clywed	NSNT	NSNT
+70, 2	285, 5-5	CRI	sti	---	NSNT
+
+
+71, 1	287, 2-3	ANN	ddaru nhw	NSNT	NSNT
+71, 2	287, 4-11	ANN	ddaru nhw gydymdeimlo yn y cinio hefo nhw	NSNT	NSNT
+71, 3	287, 12-12	ANN	sti	---	NSNT
+
+
+72, 1	288, 1-3	CRI	dwn i ddim	NSNT	NSNT
+72, 2	288, 4-7	CRI	be oeddwn i wneud	NSNT	NSNT
+72, 4	290, 1-4	CRI	hanner gwrando dw i	NSNT	NSNT
+72, 5	290, 5-7	CRI	mae yn amlwg	---	NSNT
+
+
+73, 1	292, 1-7	ANN	ond oedd yna ddim *fashion* beth *sure*	NST	NST
+73, 2	293, 1-4	ANN	wedyn oedd o chwerthin	NSNT	NSNT
+73, 3	294, 1-7	ANN	oedd o yn gweld y peth mwya	NSNT	NSNT
+73, 4	294, 8-9	ANN	doniol yn_de	NSNT	NSNT
+73, 6	296, 1-13	ANN	a bod y pobl wedi landio yna a dim yn licio deud dim_byd	NSNT	NSNT
+73, 7	296, 14-19	ANN	mae *sure* weld o *right* *jolly*	NST	NST
+73, 8	296, 20-20	ANN	wsti	NSNT	NSNT
+73, 10	298, 1-9	ANN	ti ddim yn gwybod lle mae o yn byw	---	NSNT
+
+
+74, 1	299, 1-1	CRI	pwy	SNT	NSNT
+74, 2	300, 1-1	CRI	*Ieuan_Emyr*	---	NST
+
+
+75, 1	302, 1-4	ANN	*Maes_Awel* mae yn byw	---	NST
+
+
+76, 1	304, 1-1	BEI	*Maes_Awel*	---	NST
+
+
+77, 1	305, 1-3	CRI	*yeah* ochr arall	NST	NST
+77, 2	306, 1-2	CRI	mae yna	NSNT	NSNT
+77, 3	307, 1-19	CRI	ti gwybod ti mynd i_mewn i yr i yr i yr heibio tŷ *mam* *Ianto* ac yn y blaen	NST	NST
+77, 4	309, 1-6	CRI	fedri di ddim mynd dim pellach	NSNT	NSNT
+77, 5	310, 1-10	CRI	ond mae yna dai ochr arall i ryw glawdd drain	NSNT	NSNT
+77, 6	310, 11-11	CRI	does	NSNT	NSNT
+77, 7	312, 1-9	CRI	mae rywbeth yn deud wrtha i na fan yna	---	NSNT
+
+
+78, 1	314, 1-4	ANN	*Maes_Awel* ydy o felly	ST	NST
+78, 2	315, 1-1	ANN	*Richard*	ST	NST
+78, 3	316, 1-9	ANN	wyt ti mynd iddi o yr lôn gwaelod ia	NSNT	NSNT
+78, 4	317, 1-3	ANN	mae o yma	NSNT	NSNT
+78, 5	317, 4-6	ANN	mae o yn	NSNT	NSNT
+78, 6	317, 7-9	ANN	mae o yn	---	NSNT
+
+
+79, 1	318, 1-12	CRI	dim dim dim *Maes_Awel* oedd *um* *er* dim heibio yr tŷ *Josie*	NST	NST
+79, 2	318, 13-16	CRI	oedd *Richard* yn byw	---	NST
+
+
+80, 1	319, 1-7	ANN	nace lôn gwaelod oedden nhw yn byw	NSNT	NSNT
+80, 2	320, 1-3	ANN	*oh* *Maes_Awel* ydy	NST	NST
+80, 3	320, 4-5	ANN	ydy *Josie*	NST	NST
+80, 4	323, 1-2	ANN	dw i	NSNT	NSNT
+80, 5	323, 3-10	ANN	wedi bod chwilio am ei rif *phone* o	NST	NST
+80, 6	323, 11-12	ANN	dw i	NSNT	NSNT
+80, 8	325, 1-7	ANN	mae o yn pregethu yma dydd Sul	NSNT	NSNT
+80, 9	326, 1-3	ANN	a mae o	NSNT	NSNT
+80, 11	328, 1-7	ANN	yfi sy yn chwarae ti yn gweld	NSNT	NSNT
+80, 12	329, 1-7	ANN	wedyn dw isio yr emynau gynno fo	NSNT	NSNT
+80, 14	331, 1-5	ANN	a dw i wedi trio	NSNT	NSNT
+80, 15	332, 1-11	ANN	dw i wedi ffeindio un rhif yn yr yn y llyfr	---	NSNT
+
+
+81, 1	333, 1-2	BEI	dw *sure*	NST	NST
+81, 2	333, 3-8	BEI	bod o gyn i erbyn meddwl	---	NSNT
+
+
+82, 1	334, 1-4	ANN	doedd yna ddim ateb	---	NSNT
+
+
+83, 1	335, 1-6	BEI	achos byddwn i yn ffonio fo	NSNT	NSNT
+83, 2	337, 1-2	BEI	*sure* be	NST	NST
+83, 3	338, 1-8	BEI	dal i_fyny wrth y *phone* yn fan acw	---	NST
+
+
+84, 1	339, 1-5	ANN	*oh* efo *crew* cinio felly	---	NST
+
+
+85, 1	342, 1-5	BEI	pan oedden ni yn ffonio	---	NSNT
+
+
+86, 1	344, 1-8	ANN	cofia mi sbïo wedyn i mi gael edrych	NSNT	NSNT
+86, 2	344, 9-19	ANN	os fedra i gael y yr emynau at Sul gynno fo	NSNT	NSNT
+86, 3	345, 1-9	ANN	dan ni yn gwarchod eto fory ti yn gweld	NSNT	NSNT
+86, 4	346, 1-5	ANN	wedyn fydda i ddim adre	NSNT	NSNT
+86, 5	346, 6-7	ANN	na fyddaf	NSNT	NSNT
+86, 7	349, 1-13	ANN	a dan ni yn aros yna nos fory a dod adre pnawn Sul	NSNT	NSNT
+86, 8	350, 1-11	ANN	wedyn fydd yna ddim amser i mi fynd ar_ôl y peth	NSNT	NSNT
+86, 9	350, 12-13	ANN	na fydd	---	NSNT
+
+
+87, 1	351, 1-3	CRI	yn ysbyty ta	---	NSNT
+
+
+88, 1	352, 1-3	ANN	nace yn *Glasfryn*	NST	NST
+88, 3	355, 1-13	ANN	mae gynnyn nhw ryw ginio côr neu rywbeth neu cinio yr *party* adrodd	---	NST
+
+
+89, 1	356, 1-6	BEI	*yeah* dw i ddim yn gwybod	---	NST
+
+
+90, 1	357, 1-4	ANN	dw i meddwl *sure*	NST	NST
+90, 2	358, 1-7	ANN	a wedyn *well* beth bynnag sy yna	NST	NST
+90, 3	359, 1-3	ANN	mae nhw yn	---	NSNT
+
+
+91, 1	360, 1-4	CRI	gynnyn nhw noson allan	---	NSNT
+
+
+92, 1	361, 2-5	ANN	a mae nhw yn	NSNT	NSNT
+92, 2	361, 6-11	ANN	mae nhw licio i ni aros	NSNT	NSNT
+92, 3	361, 13-18	ANN	pan dan ni mynd i warchod	NSNT	NSNT
+92, 4	362, 1-2	ANN	mae golygu	NSNT	NSNT
+92, 5	362, 3-12	ANN	bod nhw yn cael aros allan wedyn tan am oriau	NSNT	NSNT
+92, 6	362, 13-13	ANN	dydy	NSNT	NSNT
+92, 9	365, 1-7	ANN	does yna ddim *problem* dod yn_ôl adre	NST	NST
+92, 10	367, 1-16	ANN	o'n ni yn *oh* dan ni mynd i ein gwlâu a gadael iddyn nhw i pethau	---	NST
+
+
+93, 1	368, 1-4	CRI	*ah* mae llawn brafiach	NST	NST
+93, 2	369, 1-5	CRI	*well* i raddau mae llawn	NST	NST
+93, 3	371, 1-10	CRI	timod *er* ti ddim isio cychwyn rywsut hanner nos na	NST	NST
+93, 4	371, 11-12	CRI	nag oes	---	NSNT
+
+
+94, 1	372, 1-9	ANN	*well* yn enwedig amser yma o yr flwyddyn de	---	NST
+
+
+95, 1	373, 3-9	CRI	fydd *Hannah* a *Matt* mynd allan fel	NST	NST
+95, 2	373, 10-14	CRI	arfer ryw unwaith y flwyddyn	NSNT	NSNT
+95, 3	374, 1-5	CRI	mae ryw *grew* deud ella	NST	NST
+95, 4	374, 6-13	CRI	bydd yna ddwsin ohonyn nhw mynd un flwyddyn	NSNT	NSNT
+95, 5	375, 1-9	CRI	ella na ryw hanner dwsin fydd yna flwyddyn arall	NSNT	NSNT
+95, 6	376, 1-7	CRI	ond fyddan nhw mynd allan i fwyd	NSNT	NSNT
+95, 7	377, 1-4	CRI	ond oedden nhw ddim	NSNT	NSNT
+95, 8	377, 5-13	CRI	wedi bod am bron i ddwy flynedd beth bynnag	NSNT	NSNT
+95, 9	378, 1-12	CRI	a *um* aethon nhw nos Sadwrn dwytha i *Tremadog* i yr *um*	NST	NST
+95, 10	379, 1-3	CRI	*Sgwâr* ydy enw	---	NST
+
+
+96, 1	380, 1-2	ANN	*Sgwâr* ia	---	NST
+
+
+97, 1	381, 1-4	CRI	dw innau ryw amau	---	NSNT
+
+
+98, 1	382, 1-3	ANN	dw i erioed	NSNT	NSNT
+98, 2	382, 4-6	ANN	wedi bod yno	NSNT	NSNT
+98, 3	383, 1-3	ANN	mae nhw deud	NSNT	NSNT
+98, 4	383, 4-6	ANN	bod o dda	---	NSNT
+
+
+99, 1	384, 1-3	CRI	*well* dim *quite*	NST	NST
+99, 2	385, 1-11	CRI	yn anffodus newydd i nhw gyrraedd yna aeth y trydan i_ffwrdd	---	NSNT
+
+
+100, 1	386, 1-9	BEI	*oh* gaethon ni yr un fath yn yn *Brynllydan*	---	NST
+
+
+101, 1	387, 1-3	ANN	dwn i ddim	NSNT	NSNT
+101, 2	388, 1-2	ANN	*Brynllydan* do	NST	NST
+101, 3	389, 1-2	ANN	Dolig yma	---	NSNT
+
+
+102, 1	390, 1-2	BEI	cyn Dolig	---	NSNT
+
+
+103, 1	391, 1-4	CRI	*oh* dwn i ddim	---	NST
+
+
+104, 1	393, 1-7	BEI	ac oedd yna *grew* o dod i_fyny	NST	NST
+104, 2	393, 8-8	BEI	sti	NSNT	NSNT
+104, 3	395, 1-6	BEI	oedden ni wedi cael ein bwyd	NSNT	NSNT
+104, 4	396, 1-6	BEI	a mi aeth y trydan allan	NSNT	NSNT
+104, 5	397, 1-5	BEI	canhwyllau ym bob man wedyn	NSNT	NSNT
+104, 6	398, 1-14	BEI	ond *er* o't ti yn gweld oedd bwyd yn dŵad drwadd yn boeth hefyd	---	NST
+
+
+105, 1	399, 1-2	CRI	ia ond	---	NSNT
+
+
+106, 1	400, 1-2	BEI	ond oedd	---	NSNT
+
+
+107, 1	403, 1-2	CRI	ond oedd	NSNT	NSNT
+107, 2	403, 3-4	CRI	oedd o	NSNT	NSNT
+107, 3	403, 5-8	CRI	oedd o yn *er*	NST	NST
+107, 4	403, 9-15	CRI	ond oedd *Hannah* yn yn deud *er*	NST	NST
+107, 5	403, 16-20	CRI	dw i meddwl na *pork*	NST	NST
+107, 6	403, 21-28	CRI	oedd hi a ryw hogan arall wedi gael	NSNT	NSNT
+107, 7	404, 2-5	CRI	oedd hwnnw yn *tough*	NST	NST
+107, 8	405, 1-7	CRI	a wedyn *um* *er* wedyn oedd *er*	NST	NST
+107, 9	405, 8-12	CRI	oedd o ddim yn llwyddiant	NSNT	NSNT
+107, 10	406, 1-10	CRI	na oedden nhw yn ofnadwy o hir yn gael o	NSNT	NSNT
+107, 11	407, 1-6	CRI	a doedd o ddim yn llwyddiant	NSNT	NSNT
+107, 12	408, 1-7	CRI	ac oedden nhw am dalu efo cardyn	NSNT	NSNT
+107, 13	409, 1-8	CRI	fel na petasai yr peth ddim yn gweithio	NSNT	NSNT
+107, 14	411, 1-16	CRI	ond ryw funud neu ddau cyn iddyn nhw fynd o yna mi ddoth y trydan yn_ôl	NSNT	NSNT
+107, 15	412, 1-8	CRI	a chaethon nhw ddim_byd i_ffwrdd oddi_ar y bwyd	NSNT	NSNT
+107, 16	413, 1-2	CRI	oedd yna	NSNT	NSNT
+107, 17	413, 3-8	CRI	oedd yna un wedi cymryd ryw	NSNT	NSNT
+107, 18	413, 9-14	CRI	timod ryw ddarn o gig oen	NSNT	NSNT
+107, 19	414, 1-8	CRI	timod y lamb shanks yma sydd yn boblogaidd	NSNT	SNT
+107, 20	416, 1-9	CRI	*well* doedd yna ddim_byd ond asgwrn a cig gwyn	NST	NST
+107, 21	418, 1-8	CRI	a wedi gyrru hwnnw nôl a ryw bethau	NSNT	NSNT
+107, 22	419, 1-3	CRI	ond chaethon nhw	NSNT	NSNT
+107, 23	420, 1-3	CRI	oedd *Hannah* ddeud	NST	NST
+107, 24	420, 4-5	CRI	oedd o	NSNT	NSNT
+107, 25	420, 6-13	CRI	fyddai hi ddim yn mynd yno eto felly	---	NSNT
+
+
+108, 1	422, 1-1	BEI	gaethon	NSNT	NSNT
+108, 2	422, 2-12	BEI	gaethon ni yr profiad o dalu efo cerdyn ar_ôl gorffen bwyta	NSNT	NSNT
+108, 3	423, 1-4	BEI	oedden ni wedi meddwl	NSNT	NSNT
+108, 4	423, 5-10	BEI	bod y lle yn cymryd cerdyn	---	NSNT
+
+
+109, 1	424, 1-2	ANN	paid â	---	NSNT
+
+
+110, 1	426, 1-4	BEI	a es i dalu	NSNT	NSNT
+110, 2	427, 1-6	BEI	oedden nhw ddim yn cymryd cerdyn	---	NSNT
+
+
+111, 1	429, 1-3	CRI	dwn i ddim	NSNT	NSNT
+111, 2	431, 1-6	CRI	dyn nhw ddim yn cymryd cardyn	---	NSNT
+
+
+112, 1	432, 1-15	BEI	wedyn oedd *well* ryw *fatter* o fynd i *Borthmadog* neu i *Griccieth* i gael arian	NST	NST
+112, 2	432, 16-18	BEI	doedd twll wal	---	NSNT
+
+
+113, 1	433, 1-10	ANN	oedd *Prysor* ac *Eirlys* a ninnau yno yn cael bwyd	---	NST
+
+
+114, 1	435, 1-7	BEI	ryw drugaredd mi oedd *er* *Gruff_Llwyd* yno	NST	NST
+114, 2	437, 1-14	BEI	a gweld *Gruff* wrth fynd allan ato fo i siarad a deud be oedd	NST	NST
+114, 3	438, 1-2	BEI	ac oedd	NSNT	NSNT
+114, 4	439, 1-8	BEI	Duw mae gen i ryw bres yn boced	NSNT	NSNT
+114, 5	440, 1-4	BEI	gei di fenthyg fo	---	NSNT
+
+
+115, 1	441, 1-2	CRI	*oh* esgob	---	NST
+
+
+116, 1	442, 1-2	BEI	y siwrnai	---	NSNT
+
+
+117, 1	444, 1-3	CRI	ew beth *odd*	NST	NST
+117, 2	445, 2-8	CRI	mae nhw wedi ail_wneud y lle fyny	---	NSNT
+
+
+118, 1	446, 1-4	ANN	yn enwedig heddiw de	---	NSNT
+
+
+119, 1	448, 1-3	CRI	baset ti meddwl	---	NSNT
+
+
+120, 1	449, 1-5	ANN	na mae cymryd rŵan dydyn	---	NSNT
+
+
+121, 1	451, 1-4	CRI	*oh* *yeah* wsti ond	---	NST
+
+
+122, 1	452, 1-5	ANN	mae hyn mynd yn_ôl dipyn	---	NSNT
+
+
+123, 1	453, 1-6	CRI	ond baset ti yn meddwl hyd_yn_oed	NSNT	NSNT
+123, 2	453, 7-10	CRI	wsti adeg hynny felly	NSNT	NSNT
+123, 3	453, 11-11	CRI	mae	NSNT	NSNT
+123, 4	453, 12-12	CRI	mae	NSNT	NSNT
+123, 5	453, 13-14	CRI	mae nhw	NSNT	NSNT
+123, 6	454, 1-9	CRI	mae o ar ryw ochr lôn brysur mewn ffordd	NSNT	NSNT
+123, 7	454, 10-10	CRI	dydy	NSNT	NSNT
+123, 8	455, 1-4	CRI	baset ti meddwl *um*	NST	NST
+123, 9	455, 5-6	CRI	bysen nhw	---	NSNT
+
+
+124, 1	456, 1-4	ANN	*oh* mae lle poblogaidd	NST	NST
+124, 2	456, 5-7	ANN	sti bobl stopio	NSNT	NSNT
+124, 3	456, 8-8	ANN	dydy	NSNT	NSNT
+124, 4	458, 1-3	ANN	na oedd hynna	NSNT	NSNT
+124, 5	459, 1-3	ANN	o'n i chwerthin	NSNT	NSNT
+124, 6	460, 2-2	ANN	dyna	NSNT	NSNT
+124, 7	460, 3-11	ANN	be oedd *Sara* yn ddeud ar y *phone* ddoe	NST	NST
+124, 8	461, 1-9	ANN	dod yn_ôl wan iddyn nhw yn cychwyn am *Batagonia*	NST	NST
+124, 9	462, 1-5	ANN	*um* bod hi yn poeni	NST	NST
+124, 10	463, 1-6	ANN	*oh* *Switch* oedden ni yn ddefnyddio	NST	NST
+124, 11	464, 1-12	ANN	ti *just* yn twll yn wal yr un fath yn union de	NST	NST
+124, 13	466, 1-10	ANN	ond oedd hi wedi gorfod mynd i nôl ryw gerdyn	NSNT	NSNT
+124, 14	467, 1-9	ANN	gest ti ryw *Mastercard* neu rywbeth cyn mynd yn_do	NST	NST
+124, 15	469, 1-8	ANN	a wedyn mae hi wedi gorfod cael hwnnw	NSNT	NSNT
+124, 16	470, 1-7	ANN	*oh* mae wedi gorod cael un newydd	NST	NST
+124, 17	472, 1-5	ANN	achos oedd dyddiad neu rywbeth	NSNT	NSNT
+124, 19	474, 1-5	ANN	a ryw rif a ballu	NSNT	NSNT
+124, 20	475, 1-10	ANN	ond oedd yna ryw gynnig arbennig wrth ei gael o	NSNT	NSNT
+124, 21	475, 11-12	ANN	tro yma	NSNT	NSNT
+124, 22	476, 1-4	ANN	oedden nhw yn cynnig	NSNT	NSNT
+124, 23	476, 5-12	ANN	yswiriant gwyliau am ddim wrth ei gymryd o	NSNT	NSNT
+124, 24	479, 1-9	ANN	ac oedd hi ddim wedi darllen y *print* mân	NST	NST
+124, 25	479, 10-11	ANN	nag oedd	NSNT	NSNT
+124, 26	480, 1-6	ANN	*just* wedi deud ia awê felly	NST	NST
+124, 27	481, 1-5	ANN	oedd isio fo ar frys	NSNT	NSNT
+124, 28	482, 1-4	ANN	wedyn oedd wedi trefnu	NSNT	NSNT
+124, 29	482, 5-8	ANN	yswiriant efo rywun arall	NSNT	NSNT
+124, 31	484, 1-3	ANN	a rŵan mae	NSNT	NSNT
+124, 32	484, 4-5	ANN	gynni ddau	NSNT	NSNT
+124, 34	486, 1-8	ANN	ddeud mae wedi methu cael newid y llall	NSNT	NSNT
+124, 35	489, 1-7	ANN	wnân nhw ddim ganslo fo *well* naturiol	NST	NST
+124, 36	491, 1-9	ANN	mae wedi mynd yn hwyr ry hwyr i wneud	NSNT	NSNT
+124, 37	491, 10-11	ANN	mae *sure*	NST	NST
+124, 38	491, 12-12	ANN	dydy	---	NSNT
+
+
+125, 1	492, 1-9	BEI	o'n i yn gweld *er* darllen y we neithiwr	NST	NST
+125, 2	493, 1-3	BEI	dwn i ddim	NSNT	NSNT
+125, 3	493, 4-12	BEI	gest ti o llythyr ar y we rhybudd felly	NSNT	NSNT
+125, 4	494, 1-6	BEI	a rywun wedi cael galwad *phone*	NST	NST
+125, 5	495, 1-8	BEI	a oedd o yn deud *Barclays* *Card* *er*	NST	NST
+125, 6	495, 9-13	BEI	oedden nhw ac isio tsiecio	NSNT	NSNT
+125, 7	495, 14-14	BEI	bod	NSNT	NSNT
+125, 8	495, 15-22	BEI	bod y *Visa* *card* yn iawn a ballu	NST	NST
+125, 9	496, 1-4	BEI	a wedyn oedden nhw	NSNT	NSNT
+125, 10	496, 5-9	BEI	rhoid y tri rhif cynta	NSNT	NSNT
+125, 11	497, 1-7	BEI	ac o't ti rhoi tri rhif wedyn	NSNT	NSNT
+125, 12	498, 1-3	BEI	a dyna fo	NSNT	NSNT
+125, 13	499, 1-4	BEI	oedd o yn gorffen	NSNT	NSNT
+125, 14	500, 1-5	BEI	a rhoid y *phone* i_lawr	NST	NST
+125, 15	501, 1-8	BEI	cyn pum_deg munud mi oedd yna alwad wedyn	NSNT	NSNT
+125, 16	502, 1-5	BEI	*Mastercard* oedd hwnnw yn holi	NST	NST
+125, 17	503, 1-16	BEI	ac un fath yn union yr un cwestiynau yn union isio yr tri *er* rhif cynta	NST	NST
+125, 18	504, 1-11	BEI	wedyn o'n nhw yn rhoid y tri i wneud yn saff	NSNT	NSNT
+125, 19	504, 12-18	BEI	bod nhw yn cael y cardyn iawn	NSNT	NSNT
+125, 20	505, 1-5	BEI	be oedden nhw ond lladron	---	NSNT
+
+
+126, 1	506, 1-4	CRI	oedden nhw wedi gweithio	---	NSNT
+
+
+127, 1	509, 1-16	BEI	o'n nhw wedi gwario gwerth dros dau neu dri chant o bunnau oddi_ar eu cerdyn nhw	---	NSNT
+
+
+128, 1	510, 1-1	CRI	argoel	---	NSNT
+
+
+129, 1	512, 1-6	BEI	wedyn rhybudd oedd o i ofalu	NSNT	NSNT
+129, 2	512, 7-12	BEI	na wnei di ddim deud dim_byd	---	NSNT
+
+
+130, 1	515, 1-10	ANN	ti cofio yr *er* un yna yn digwydd yn Ffrainc	NST	NST
+130, 2	516, 1-6	ANN	oedden ni wedi mynd i gerdded	NSNT	NSNT
+130, 3	517, 1-6	ANN	oedd *Prysor* ac *Eirlys* a ninnau	NST	NST
+130, 4	518, 1-4	ANN	*oh* na oedden ni	NST	NST
+130, 5	518, 5-11	ANN	oedden ni wedi mynd i lefydd gwahanol	NSNT	NSNT
+130, 6	520, 1-16	ANN	wedyn oedden nhw wedi parcio eu *car* a cherdded a wedi dod yn_ôl at y *car*	NST	NST
+130, 7	521, 1-10	ANN	ac oedd yna rywun wedi torri fewn i yr *boot*	NST	NST
+130, 8	522, 1-8	ANN	a wrth_gwrs chwedl hithau wedi gadael ei *bag*	NST	NST
+130, 9	523, 1-5	ANN	*oh* mae yn a *er*	NST	NST
+130, 10	523, 6-10	ANN	mae yn gwybod yn iawn	NSNT	NSNT
+130, 11	524, 1-6	ANN	be oedd ar ei phen hi	NSNT	NSNT
+130, 12	526, 1-7	ANN	oedd hi wedi guddiad o bob_dim felly	---	NSNT
+
+
+131, 1	527, 1-1	CRI	ond	---	NSNT
+
+
+132, 1	528, 1-8	ANN	ond oedd y *bag* wrth_gwrs wedi mynd yn_doedd	NST	NST
+132, 2	530, 1-3	ANN	ond *er* dyna	NST	NST
+132, 3	530, 4-8	ANN	oedd yn ryfeddol gyn *Prysor*	NST	NST
+132, 5	532, 1-12	ANN	a neb yn edrych i weld be ydy yr enw arno fo	NSNT	NSNT
+132, 6	534, 1-1	ANN	sti	NSNT	NSNT
+132, 7	534, 2-5	ANN	doedd yna ddim tsiecio	NSNT	NSNT
+132, 8	535, 1-6	ANN	does yna ddim yn fan yno	NSNT	NSNT
+132, 9	535, 7-8	ANN	nag oes	---	NSNT
+
+
+133, 1	537, 1-12	BEI	ti yn talu pan pan wyt ti mynd ar y ffordd ffyrdd	---	NSNT
+
+
+134, 1	541, 1-5	ANN	neb yn sbïo enw de	---	NSNT
+
+
+135, 1	542, 1-3	BEI	arwyddo dim_byd de	---	NSNT
+
+
+136, 1	544, 1-9	ANN	dyn nhw ddim callach os na dy gerdyn di	NSNT	NSNT
+136, 2	544, 10-13	ANN	ydy o neu beidio	NSNT	NSNT
+136, 4	546, 1-9	ANN	wedyn mae nhw yn gwneud hi yn hawdd iawn	NSNT	NSNT
+136, 5	546, 10-10	ANN	dydy	---	NSNT
+
+
+137, 1	547, 1-4	BEI	os gân nhw gerdyn	NSNT	NSNT
+137, 2	547, 5-17	BEI	mae nhw gallu mynd wedyn ar_hyd yr traffyrdd yma dydyn yn defnyddio rheiny	---	NSNT
+
+
+138, 1	548, 1-2	CRI	yndy a	---	NSNT
+
+
+139, 1	551, 1-15	ANN	a wedi codi am ryw *ddiesel* a ballu oedden nhw wedi wneud y bobl yma	NST	NST
+139, 3	553, 1-10	ANN	a oedden nhw yn trio deud mai pobl o Lloegr	NSNT	NSNT
+139, 4	553, 11-12	ANN	oedden nhw	NSNT	NSNT
+139, 5	553, 13-16	ANN	yn_de na nid Ffrancwyr	NSNT	NSNT
+139, 7	555, 1-1	ANN	wsti	NSNT	NSNT
+139, 8	555, 2-8	ANN	oedden nhw ar y *game* honno felly	NST	NST
+139, 9	556, 1-6	ANN	mae yn digwydd ym bob gwlad	NSNT	NSNT
+139, 10	556, 7-8	ANN	mae *sure*	NST	NST
+139, 11	556, 9-9	ANN	dydy	---	NSNT
+
+
+140, 1	558, 1-2	CRI	mae *sure*	NST	NST
+140, 2	559, 1-3	CRI	ond mae nhw	NSNT	NSNT
+140, 3	560, 1-6	CRI	oedd yna rywbeth ar y newyddion	NSNT	NSNT
+140, 4	560, 7-8	CRI	doedd efo	NSNT	NSNT
+140, 5	560, 9-13	CRI	wsti identity theft yma *er*	NST	ST
+140, 6	560, 14-15	CRI	wsti *um*	---	NST
+
+
+141, 1	561, 1-4	ANN	mae o yn *lot*	---	NST
+
+
+142, 1	562, 1-7	CRI	biliynau o bres yn cael ei *er*	NST	NST
+142, 2	564, 1-4	CRI	gymryd o yna does	---	NSNT
+
+
+143, 1	565, 1-4	ANN	sôn am biliynau mae	---	NSNT
+
+
+144, 1	566, 1-4	CRI	beth bynnag ydy *billion*	NST	NST
+144, 2	567, 1-1	CRI	does	NSNT	NSNT
+144, 3	567, 2-5	CRI	genna i ddim syniad	---	NSNT
+
+
+145, 1	568, 1-8	ANN	*oh* ia yn hollol fedr rywun ddim meddwl	NST	NST
+145, 3	571, 1-9	ANN	*oh* mae *Shell* i weld yn cael andros o	---	NST
+
+
+146, 1	572, 1-4	CRI	dw i ddim yn	NSNT	NSNT
+146, 2	572, 5-8	CRI	dw ddim yn gwybod	NSNT	NSNT
+146, 3	572, 9-15	CRI	sut wyt ti yn sgwennu sawl dim	NSNT	NSNT
+146, 4	572, 16-17	CRI	wyt ti	NSNT	NSNT
+146, 5	572, 18-21	CRI	roid *er* mewn *billion*	NST	NST
+146, 7	574, 1-1	CRI	does	NSNT	NSNT
+146, 8	574, 2-5	CRI	genna i ddim syniad	---	NSNT
+
+
+147, 1	578, 1-8	ANN	basai yr plant medru deud wrthat ti heddiw	NSNT	NSNT
+147, 2	578, 9-9	ANN	bysai	NSNT	NSNT
+147, 3	579, 1-10	ANN	ia mae *Shell* wedi gwneud gymaint â hynny o elw	NST	NST
+147, 4	579, 11-11	ANN	dydy	NSNT	NSNT
+147, 5	581, 1-1	ANN	ugain	---	NSNT
+
+
+148, 1	582, 1-5	BEI	tair tair *billion* ar ddeg	---	NST
+
+
+149, 1	583, 1-2	ANN	o elw	---	NSNT
+
+
+150, 1	584, 1-2	BEI	o elw	---	NSNT
+
+
+151, 1	585, 1-3	ANN	ar yr *oil*	NST	NST
+151, 2	586, 1-3	ANN	neno yr tad	---	NSNT
+
+
+152, 1	587, 1-4	CRI	glywsoch chi *Post_Prynhawn* ddoe	---	NST
+
+
+153, 1	588, 1-1	BEI	naddo	---	NSNT
+
+
+154, 1	589, 1-2	CRI	oedd *Gareth_Glyn*	NST	NST
+154, 2	590, 1-7	CRI	oedd o yn deud rywbeth fath â	---	NSNT
+
+
+155, 1	591, 1-5	ANN	do mi glywais i o	---	NSNT
+
+
+156, 1	592, 2-6	BEI	do ar y ffordd adre	---	NSNT
+
+
+157, 1	593, 1-5	CRI	glywais i o yn deud	NSNT	NSNT
+157, 2	594, 1-4	CRI	dwn i ddim be	NSNT	NSNT
+157, 3	595, 1-4	CRI	dw ddim yn cofio	NSNT	NSNT
+157, 4	596, 1-5	CRI	fel oedd o dod i_mewn	NSNT	NSNT
+157, 5	597, 1-2	CRI	oeddwn i	NSNT	NSNT
+157, 6	597, 3-14	CRI	rhoid dod i_mewn i peth yn ganol y y y peth felly	---	NSNT
+
+
+158, 1	598, 1-5	ANN	*oh* ia y sgwrs ia	---	NST
+
+
+159, 1	599, 1-4	CRI	a wnaeth o deud	NSNT	NSNT
+159, 2	600, 1-21	CRI	*er* *er* yn yr amser yna wan mae *Shell* wedi gwneud pedwar cant pum_deg_wyth o o o o o o elw	---	NST
+
+
+159, 3	605, 1-7	CRI	*er* mewn ryw eiliad neu rywbeth felly	NST	NST
+160, 2	607, 23-24	ANN	mae o	NSNT	NSNT
+160, 3	608, 1-8	ANN	felly yn union oedd rheiny yn deud hefyd	NSNT	NSNT
+160, 4	609, 1-7	ANN	mewn munud mae nhw gwneud pedwar cant	NSNT	NSNT
+160, 5	610, 1-11	ANN	a wedyn mewn awr mae nhw yn gwneud hyn a hyn	NSNT	NSNT
+160, 6	611, 1-10	ANN	a wedyn mae nhw wedi mynd wedyn i blwyddyn wedyn	---	NSNT
+
+
+161, 1	612, 1-3	CRI	*oh* esgusodwch i	---	NST
+
+
+162, 1	613, 1-5	ANN	Duw mae codi yn braf	---	NSNT
+
+
+163, 1	615, 2-2	CRI	mae	NSNT	NSNT
+163, 2	615, 3-3	CRI	dydy	---	NSNT
+
+
+164, 1	616, 1-3	ANN	haul yn tywynnu	---	NSNT
+
+
+165, 1	617, 1-11	BEI	felly oedd o yn deud y forecast yn ddeud bore yma	NSNT	SNT
+165, 2	619, 1-16	BEI	bod hi yn braf yn y gogledd ac yn clirio at y nos yn y de	---	NSNT
+
+
+166, 1	621, 1-8	CRI	mae yn gaddo rywfaint o eira hefyd dydyn	---	NSNT
+
+
+167, 1	622, 1-4	BEI	*oh* dwn i ddim	NST	NST
+167, 2	623, 1-7	BEI	oedd Iwerddon wedi cael *er* freezing *fog*	---	ST
+
+
+168, 1	626, 1-12	ANN	*oh* mae yna ryw lefydd yn *Europe* wedi cael mwy o eira	NST	NST
+168, 2	626, 13-18	ANN	na mae nhw wedi gael erioed	NSNT	NSNT
+168, 3	626, 19-19	ANN	does	NSNT	NSNT
+168, 4	627, 1-8	ANN	yn Sbaen a ballu wedi cael eira dydyn	---	NSNT
+
+
+169, 1	630, 1-11	BEI	*Portugal* oedd o yn papur diwrnod o blaen wedi cael eira	NST	NST
+169, 2	632, 1-8	BEI	o'n nhw ddim wedi cael eira ers blynyddoedd	NSNT	NSNT
+169, 3	634, 1-6	BEI	a cnwd iawn ohono fo de	NSNT	NSNT
+169, 4	634, 7-7	BEI	wsti	NSNT	NSNT
+169, 5	636, 1-2	BEI	methu symud	---	NSNT
+
+
+170, 1	638, 1-7	ANN	gaethon ni daith gerdded braf dydd Mercher	NSNT	NSNT
+170, 2	640, 1-16	ANN	oedden ni yn cychwyn yn *Meddgelert* a cerdded efo yr afon ochr bella i yr afon	NST	NST
+170, 3	641, 1-12	ANN	o'n i ddim yn sylweddoli bod y llwybr yn mynd mor bell	NSNT	NSNT
+170, 4	642, 1-4	ANN	*right* i_fyny at *Llyn_Gwynant*	NST	NST
+170, 5	643, 1-14	ANN	a wedyn mae o yn cario ymlaen *round* yr ochr bella i yr llyn	NST	NST
+170, 6	645, 1-6	ANN	a wedyn mae yna ryw lôn	NSNT	NSNT
+170, 7	646, 1-13	ANN	o'n i ddim wedi sylwi erioed o blaen bod yna lôn yno felly	NSNT	NSNT
+170, 8	647, 1-3	ANN	yn dod allan	NSNT	NSNT
+170, 9	648, 1-8	ANN	wsti pan ti mynd yn dy flaen i_fyny	NSNT	NSNT
+170, 10	648, 9-17	ANN	mae yna le i barcio ceir drost y ffordd	NSNT	NSNT
+170, 11	648, 18-18	ANN	â	---	NSNT
+
+
+171, 1	649, 1-1	BEI	*Hafod_Llan*	---	NST
+
+
+172, 1	650, 1-1	ANN	*Hafod_Llan*	ST	NST
+172, 2	652, 1-13	ANN	*oh* mae dod allan *just* cyn ti gyrraedd y parking yna fan yna	NST	ST
+172, 3	654, 1-4	ANN	oedd hi braf ofnadwy	NSNT	NSNT
+172, 4	655, 1-6	ANN	ac oedd yna *grew* ohonon ni	NST	NST
+172, 5	656, 1-6	ANN	oedd yna tua pedwar_ar_hugain ohonon ni	NSNT	NSNT
+172, 6	656, 7-9	ANN	dw i *sure*	---	NST
+
+
+173, 1	657, 1-4	CRI	pwy oedd wedi trefnu	SNT	NSNT
+173, 2	658, 1-1	CRI	*Iona*	---	NST
+
+
+174, 1	659, 1-4	ANN	dan ni wneud o	NSNT	NSNT
+174, 2	660, 1-6	ANN	*Iona* oedd yn trefnu dydd Mercher	NST	NST
+174, 3	662, 1-2	ANN	naci wir	NSNT	NSNT
+174, 4	664, 1-7	ANN	*Lucy* oedd yn trefnu dydd Mercher dwytha	NST	NST
+174, 5	666, 1-2	ANN	o *Penrhyndeudraeth*	---	NST
+
+
+175, 1	667, 1-2	BEI	*Iona* fydd	NST	NST
+175, 2	667, 3-4	BEI	tro nesa	NSNT	NSNT
+175, 3	667, 5-7	BEI	mae *sure* ia	---	NST
+
+
+176, 1	668, 1-5	ANN	naci dw meddwl na *Lucy*	NST	NST
+176, 2	668, 6-9	ANN	sy yn gwneud eto	NSNT	NSNT
+176, 3	668, 10-11	ANN	tro nesa	NSNT	NSNT
+176, 4	668, 12-12	ANN	sti	NSNT	NSNT
+176, 5	668, 13-14	ANN	dw meddwl	---	NSNT
+
+
+177, 1	670, 1-4	CRI	lle dach chi mynd	NSNT	NSNT
+177, 2	670, 5-6	CRI	tro nesa	---	NSNT
+
+
+178, 1	671, 1-9	ANN	dan ni mynd dros yr Grisiau_Rhufeinig o ochr *Cwm_Bychan*	NST	NST
+178, 2	676, 1-7	ANN	ia ddim o *Trawsfynydd* dan ni mynd	NST	NST
+178, 3	677, 1-7	ANN	ond ond mae yn dibynnu yn hollol	NSNT	NSNT
+178, 4	678, 1-6	ANN	dan ni yn cyfarfod yn *Penrhyndeudraeth*	NST	NST
+178, 6	680, 1-2	ANN	achos wsti	NSNT	NSNT
+178, 7	680, 3-7	ANN	mae yn lôn ddigon gul	NSNT	NSNT
+178, 8	680, 8-8	ANN	dydy	NSNT	NSNT
+178, 9	682, 1-10	ANN	*well* oes yna ddim pwrpas i ti fynd â ceir	NST	NST
+178, 10	682, 11-15	ANN	os ydy yn dywydd mawr	NSNT	NSNT
+178, 11	682, 16-17	ANN	nag oes	NSNT	NSNT
+178, 12	684, 1-2	ANN	newid yr	NSNT	NSNT
+178, 13	685, 1-10	ANN	ond o'n i yn deud wrthi yr un fath mae	NSNT	NSNT
+178, 14	685, 11-15	ANN	honna drosodd o *Trawsfynydd* *um*	NST	NST
+178, 15	686, 1-2	ANN	brafiach de	NSNT	NSNT
+178, 16	687, 1-5	ANN	ond fydda i gweld honno	NSNT	NSNT
+178, 17	688, 1-7	ANN	ti yn cyrraedd atyn nhw yn gynt	NSNT	NSNT
+178, 18	688, 8-8	ANN	dwyt	NSNT	NSNT
+178, 19	688, 9-12	ANN	dw *sure* gyn i	NST	NST
+178, 20	688, 13-16	ANN	dwyt yn un peth	---	NSNT
+
+
+179, 1	689, 1-4	BEI	pa yr un wan	---	NSNT
+
+
+180, 1	690, 1-2	ANN	*um* mynd	---	NST
+
+
+181, 1	691, 1-2	BEI	dros *Ardudwy*	NST	NST
+181, 2	693, 2-5	BEI	mae honno yn braf	---	NSNT
+
+
+182, 1	694, 1-7	ANN	ond fedrwn ni ddim wneud y cwbl	NSNT	NSNT
+182, 2	695, 1-8	ANN	achos fydd yna ddim ceir y pen arall	NSNT	NSNT
+182, 3	695, 9-10	ANN	na fydd	NSNT	NSNT
+182, 4	696, 1-7	ANN	mae ti gofyn ti gael dau *lot*	NST	NST
+182, 5	696, 8-8	ANN	dydy	---	NSNT
+
+
+183, 1	698, 1-4	BEI	mae mynd yn ormod	NSNT	NSNT
+183, 3	700, 1-7	BEI	mae yna lwybr yn mynd ffordd hynny	---	NSNT
+
+
+184, 1	703, 1-6	ANN	Duw basai hwnnw wneud yn iawn	NSNT	NSNT
+184, 2	703, 7-7	ANN	bysai	NSNT	NSNT
+184, 4	705, 1-6	ANN	alli di wneud o ddwy ffordd	NSNT	NSNT
+184, 5	706, 1-5	ANN	alli di ddim mynd i_fyny	NSNT	NSNT
+184, 6	707, 1-12	ANN	achos heibio *Maes_Garnedd* mae rywun yn mynd i_fyny ochr yma anyway *yeah*	---	ST
+
+
+185, 1	708, 1-7	BEI	nage na ti yn y cwm arall	NSNT	NSNT
+185, 2	709, 1-3	BEI	*Cwm_Nantcol* mae *Maes_Garnedd*	---	NST
+
+
+186, 1	711, 1-3	CRI	*oh* *yeah* wrth_gwrs	---	NST
+
+
+187, 1	712, 1-2	BEI	mae *Cwm_Bychan*	---	NST
+
+
+188, 1	714, 1-7	ANN	*oh* Duw trwy o *Cwm_Nantcol* dan ni	NST	NST
+188, 2	714, 8-12	ANN	wedi bod mynd o blaen	---	NSNT
+
+
+189, 1	715, 1-2	BEI	i *Drws_Ardudwy*	---	NST
+
+
+190, 1	716, 1-3	ANN	i i *Drws_Ardudwy*	---	NST
+
+
+191, 1	717, 1-10	BEI	*oh* ia pan ti mynd i hel llys a ballu	---	NST
+
+
+192, 1	719, 1-6	ANN	Duw *yeah* basai hynny yn gwneud	NST	NST
+192, 2	720, 1-4	ANN	basen ni medru gwneud	NSNT	NSNT
+192, 3	721, 1-12	ANN	fedri di wneud o o *Cwm_Bychan* drosodd i *Cwm_Nantcol* i ddod yn_ôl	NST	NST
+192, 4	722, 1-12	ANN	*oh* *yeah* wedyn mae ceir yn mynd i fod yn lle arall	NST	NST
+192, 5	722, 13-13	ANN	dydy	NSNT	NSNT
+192, 6	724, 1-8	ANN	*oh* dydy o ddim yn mynd i weithio	NST	NST
+192, 7	724, 9-10	ANN	nag ydy	---	NSNT
+
+
+193, 1	725, 1-9	CRI	oni_bai bod chi mynd â rywfaint o geir i	---	NSNT
+
+
+194, 1	726, 1-3	ANN	ia mae yn	NSNT	NSNT
+194, 2	726, 4-9	ANN	mae yn *goblin* o *round* wedyn	NST	NST
+194, 3	726, 10-10	ANN	sti	NSNT	NSNT
+194, 4	726, 11-11	ANN	dydy	---	NSNT
+
+
+195, 1	728, 1-9	BEI	dw i cofio fi yn gychwyn ar ddydd Sul	NSNT	NSNT
+195, 2	729, 2-10	BEI	genna i isio mynd i *Gwm_Bychan* efo ngwaith wan	NST	NST
+195, 3	730, 1-2	BEI	ac oedd	NSNT	NSNT
+195, 4	730, 3-8	BEI	genna i isio mynd i *Stiniog*	NST	NST
+195, 5	731, 1-6	BEI	genna i *bractice* canu efo *Edward*	NST	NST
+195, 7	733, 1-5	BEI	a cychwyn i_fyny o *Llanbedr*	NST	NST
+195, 8	734, 1-4	BEI	yn yr ha wan	NSNT	NSNT
+195, 9	735, 1-5	BEI	a cyfri faint o geir	NSNT	NSNT
+195, 10	735, 6-9	BEI	ddoth i gwfwr i	NSNT	NSNT
+195, 11	736, 1-1	BEI	pedwar_deg_naw	---	NSNT
+
+
+196, 1	737, 1-1	CRI	argoel	---	NSNT
+
+
+197, 1	738, 1-6	BEI	*yeah* o *Llanbedr* i_fyny i *Gwm_Bychan*	NST	NST
+197, 2	739, 1-1	BEI	wsti	NSNT	NSNT
+197, 3	739, 2-6	BEI	dydy o ddim yn bell	NSNT	NSNT
+197, 4	741, 1-10	BEI	o'n i mynd i_fyny tua hanner wedi tri i bedwar	NSNT	NSNT
+197, 5	742, 1-6	BEI	bobl yn dechrau dod o yna	---	NSNT
+
+
+198, 1	744, 1-9	ANN	a *lot* ohonyn nhw yn methu rifyrsio mae *sure*	---	NST
+
+
+199, 1	746, 1-3	CRI	*oh* mae *sure*	---	NST
+
+
+200, 1	748, 1-7	ANN	*oh* mae yn braf ffordd yna hefyd	NST	NST
+200, 2	748, 8-8	ANN	dydy	NSNT	NSNT
+200, 3	750, 1-2	ANN	gafodd *er*	NST	NST
+200, 4	750, 3-11	ANN	oedd *Ifan* a *Gwenno* wedi prynu *caravan* ail_law llynedd	NST	NST
+200, 5	750, 12-12	ANN	sti	NSNT	NSNT
+200, 6	750, 13-13	ANN	doedden	---	NSNT
+
+
+201, 1	751, 1-2	CRI	oedden ie	---	NSNT
+
+
+202, 1	752, 1-2	ANN	ac i	NSNT	NSNT
+202, 2	753, 1-3	ANN	lle aethon nhw	---	NSNT
+
+
+203, 1	754, 1-3	BEI	*Llanaber* aethon nhw	---	NST
+
+
+204, 1	755, 1-9	ANN	*um* i defnyddio hi gynta felly drio pethau allan	NST	NST
+204, 2	757, 1-6	ANN	*um* ac oedden nhw yn canmol	NST	NST
+204, 3	758, 1-5	ANN	mae yr ochrau yna ben	---	NSNT
+
+
+205, 1	759, 1-7	CRI	ddigon agos i bicio adre felly petasai	NSNT	NSNT
+205, 2	759, 8-8	CRI	petasai	NSNT	NSNT
+205, 3	761, 1-3	CRI	hynna *nice* de	---	NST
+
+
+206, 1	763, 1-7	BEI	a aethon ni yno am nos Sadwrn	---	NSNT
+
+
+207, 1	764, 1-2	ANN	atyn nhw	---	NSNT
+
+
+208, 1	766, 1-3	BEI	do am swper	---	NSNT
+
+
+209, 1	769, 1-2	ANN	do braf	---	NSNT
+
+
+210, 1	770, 1-4	BEI	sut oedd pethau mynd	---	NSNT
+
+
+211, 1	771, 1-7	ANN	arfer mynd i *Bellaport* *um* cartre *Siân*	NST	NST
+211, 2	771, 8-9	ANN	de *Davies*	---	NST
+
+
+212, 1	772, 1-1	BEI	*Siân_Davies*	---	NST
+
+
+213, 1	773, 1-4	ANN	mae nhw yn cadw	NSNT	NSNT
+213, 2	775, 1-10	ANN	mae nhw yn cadw *um* lle *caravans* yn fan yno	NST	NST
+213, 3	776, 1-9	ANN	wedyn dan ni mynd i fan yno ti gwybod	NSNT	NSNT
+213, 4	778, 1-10	ANN	*um* wedyn dan ni mynd i fan yno fel arfer	NST	NST
+213, 5	779, 1-6	ANN	*oh* mae fan yno *site* braf	NST	NST
+213, 6	780, 1-4	ANN	mae yna olygfa fendigedig	---	NSNT
+
+
+214, 1	781, 1-5	CRI	yn lle mae fan yno	---	NSNT
+
+
+215, 1	782, 1-6	ANN	*right* yn pen pella un *um*	NST	NST
+215, 3	785, 1-4	ANN	a mae nhw yn	NSNT	NSNT
+215, 4	785, 5-8	ANN	mae yna ryw lôn	NSNT	NSNT
+215, 5	786, 1-4	ANN	*um* lle sy yna	NST	NST
+215, 6	787, 1-6	ANN	*Gors_y_Gedol* sy drws nesa iddyn nhw	NST	NST
+215, 7	787, 7-9	ANN	dw i *sure*	NST	NST
+215, 8	788, 1-9	ANN	mae yna ryw *entrance* go fawr i fan yna	NST	NST
+215, 9	788, 10-14	ANN	does hen blas *Gors_y_Gedol* felly	NST	NST
+215, 10	791, 1-9	ANN	a wedyn *er* mae nhw wedyn yn mynd *er*	NST	NST
+215, 11	791, 10-19	ANN	wsti ryw ychydig bach yn uwch yn nes i Bermo	NSNT	NSNT
+215, 12	792, 1-1	ANN	mae	NSNT	NSNT
+215, 13	792, 2-7	ANN	tro nhw mynd i_fyny wedyn felly	---	NSNT
+
+
+216, 1	793, 1-6	CRI	*oh* un o fan yna ydy	NST	NST
+216, 2	794, 1-7	CRI	oeddwn i ddim yn gwybod un o	NSNT	NSNT
+216, 3	794, 8-13	CRI	lle oedd *Siân* a deud gwir	---	NST
+
+
+217, 1	796, 1-6	ANN	ia fan yno mae chartre hi	NSNT	NSNT
+217, 2	797, 1-7	ANN	mynd yno yn ei waith ti weld	NSNT	NSNT
+217, 3	798, 1-4	ANN	dan ni nabod nhw	NSNT	NSNT
+217, 4	798, 5-9	ANN	pan oedd hi dal adre	---	NSNT
+
+
+218, 1	800, 1-4	CRI	ie felly ia ia	---	NSNT
+
+
+219, 1	801, 1-11	ANN	a mae *mam* a ei thad hi yn andros o glên	NST	NST
+219, 2	803, 1-8	ANN	wedyn fyddwn ni yn gweld dipyn arnyn nhw	NSNT	NSNT
+219, 3	804, 1-2	ANN	a mae	NSNT	NSNT
+219, 4	804, 3-3	ANN	gynni	NSNT	NSNT
+219, 5	804, 4-14	ANN	mae brawd hi yn erbyn hyn yn gyfarwyddwr addysg yn Môn	NSNT	NSNT
+219, 6	804, 15-15	ANN	dydy	NSNT	NSNT
+219, 7	805, 1-6	ANN	oedd o yn bennaeth ysgol *um*	---	NST
+
+
+220, 1	807, 1-1	CRI	*Dyfrig*	---	NST
+
+
+221, 1	808, 1-1	ANN	*Dyfrig_Williams*	---	NST
+
+
+222, 1	809, 1-3	CRI	*oh* *er* *Llanfairpwll*	---	NST
+
+
+223, 1	810, 1-3	ANN	dyna chdi ia	NSNT	NSNT
+223, 2	812, 1-9	ANN	*oh* mae o yn gyfarwyddwr addysg ers yr ha	---	NST
+
+
+224, 1	814, 1-3	BEI	*Emlyn* oedd hwnna	NST	NST
+224, 2	816, 1-4	BEI	ddaw o heibio toc	---	NSNT
+
+
+225, 1	817, 1-2	ANN	*oh* daw	NST	NST
+225, 2	817, 3-6	ANN	mae *sure* isio cinio	---	NST
+
+
+226, 1	820, 1-11	BEI	oedd o isio mynd i yr Ffôr gynta i gael *petrol*	NST	NST
+226, 4	824, 1-3	BEI	ddaw heibio wedyn	---	NSNT
+
+
+227, 1	825, 1-2	ANN	isio bwyd	---	NSNT
+
+
+228, 1	829, 1-5	BEI	cofio roi goriad iddo fo	NSNT	NSNT
+228, 2	830, 1-4	BEI	clo drws wedi mynd	NSNT	NSNT
+228, 3	831, 1-5	BEI	doedd o ddim yn gweithio	NSNT	NSNT
+228, 4	832, 1-9	BEI	oedd o yn agor o tu mewn yn iawn	---	NSNT
+
+
+229, 1	833, 1-2	ANN	y drws	---	NSNT
+
+
+230, 1	834, 1-1	BEI	drws	NSNT	NSNT
+230, 2	836, 1-3	BEI	doedd y goriad	NSNT	NSNT
+230, 3	836, 4-10	BEI	oedd o ddim yn agor y clo	NSNT	NSNT
+230, 4	836, 12-12	BEI	sti	NSNT	NSNT
+230, 5	838, 1-9	BEI	troi a troi a troi a dim_byd yn digwydd	NSNT	NSNT
+230, 6	840, 1-3	BEI	dw i wedi	NSNT	NSNT
+230, 7	840, 4-9	BEI	roid un newydd fo diwrnod blaen	---	NSNT
+
+
+231, 1	844, 3-6	ANN	mae o *right* *handy*	NST	NST
+231, 2	845, 1-3	ANN	mae o yn	NSNT	NSNT
+231, 3	845, 4-12	ANN	mae o yn defnyddio fan yma yn aml iawn	NSNT	NSNT
+231, 4	847, 1-9	ANN	mae o gweithio *lot* pen yma ninnau ddim adre	---	NST
+
+
+232, 1	849, 1-2	BEI	oedd nodyn	NSNT	NSNT
+232, 2	850, 1-4	BEI	diolch am y baned	NSNT	NSNT
+232, 4	852, 1-3	BEI	ryw bethau felly	NSNT	NSNT
+232, 5	854, 1-7	BEI	neu bydd o ffonio yma gael gwybod	NSNT	NSNT
+232, 6	854, 8-10	BEI	lle ydyn ni	---	NSNT
+
+
+233, 1	856, 1-5	CRI	na mae o *right* *handy*	NST	NST
+233, 2	856, 6-10	CRI	dydy iddo fo *er* *er*	NST	NST
+233, 4	856, 30-30	CRI	dydy	---	NSNT
+
+
+234, 1	857, 2-2	BEI	sti	NSNT	NSNT
+234, 2	861, 1-10	BEI	o'n i meddwl bod o mynd â bwyd efo fo	---	NSNT
+
+
+235, 1	862, 1-2	ANN	nag ydy	---	NSNT
+
+
+236, 1	863, 1-5	BEI	mae yn trio colli pwysau	---	NSNT
+
+
+237, 1	865, 1-9	ANN	yn_dydy o yn cael ryw fwyd mewn llefydd dydy	---	NSNT
+
+
+238, 1	866, 1-1	BEI	methu	---	NSNT
+
+
+239, 1	867, 2-2	CRI	dyna	NSNT	NSNT
+239, 2	867, 3-4	CRI	ydy peth	---	NSNT
+
+
+240, 1	869, 1-17	ANN	mae yn gweld rywun yn mynd allan i ginio neu ryw brechdan neu ryw rywbeth yn lle	NSNT	NSNT
+240, 2	871, 1-5	ANN	dw i yn deud o_hyd	NSNT	NSNT
+240, 3	871, 6-15	ANN	basai well iddo fo fod yn gwneud ei *fox* bwyd	NST	NST
+240, 4	872, 1-4	ANN	fysai fo yn gwybod	NSNT	NSNT
+240, 5	872, 5-8	ANN	basai medru rheoli wedyn	NSNT	NSNT
+240, 6	872, 9-13	ANN	be mae yn fwyta wedyn	NSNT	NSNT
+240, 7	872, 14-14	ANN	bysai	---	NSNT
+
+
+241, 1	873, 1-1	CRI	fysai	NSNT	NSNT
+241, 2	873, 2-2	CRI	fysai	NSNT	NSNT
+241, 3	873, 3-3	CRI	fysai	---	NSNT
+
+
+242, 1	874, 1-14	BEI	a dy deulu di fedr o fyth *er* byth fynd o yno heb fwyd	---	NST
+
+
+243, 1	875, 1-1	CRI	*Sarn*	---	NST
+
+
+244, 1	876, 1-2	BEI	*Sarn* *yeah*	---	NST
+
+
+245, 1	880, 1-9	ANN	na mae *Elain* yn dda efo fo chwarae teg	---	NST
+
+
+246, 1	881, 1-2	BEI	yndy wir	---	NSNT
+
+
+247, 1	882, 1-2	ANN	mae *Geraint*	NST	NST
+247, 2	882, 3-7	ANN	wedi bod yn driw iawn	---	NSNT
+
+
+248, 1	886, 1-4	CRI	*oh* mae nhw wedi	NST	NST
+248, 2	887, 1-10	CRI	dyn nhw wedi gwneud rywbeth mwy neu rywbeth yna wan	NSNT	NSNT
+248, 3	888, 1-3	CRI	dw i ddim	NSNT	NSNT
+248, 4	888, 4-7	CRI	wedi bod yna ers_talwm	---	NSNT
+
+
+249, 1	890, 1-4	ANN	dw i ddim ers	NSNT	NSNT
+249, 2	890, 5-5	ANN	tro	---	NSNT
+
+
+250, 1	891, 1-8	CRI	es i yna *oh* *er* *just* cyn Dolig	NST	NST
+250, 2	891, 9-11	CRI	es i yna	NSNT	NSNT
+250, 3	892, 1-10	CRI	a mi ddoth *Daniel* gŵr *Iona* yno yr un pryd	NST	NST
+250, 4	893, 1-7	CRI	fuais i ddim yno yn hir iawn	NSNT	NSNT
+250, 6	897, 1-6	CRI	a wedyn es i o yno	NSNT	NSNT
+250, 7	898, 1-7	CRI	o'n i wedi meddwl mynd diwrnod wedyn	---	NSNT
+
+
+251, 1	899, 1-7	BEI	fuon ni efo ryw daith gerdded drefnu	---	NSNT
+
+
+252, 1	901, 2-6	ANN	dw i yn deud o_hyd	NSNT	NSNT
+252, 2	901, 7-27	ANN	bod i mynd i ddal i fynd ar y llwybr yna a mynd heibio hi am baned ar yn ffordd *round*	---	NST
+
+
+253, 1	903, 1-2	CRI	pa lwybr	---	NSNT
+
+
+254, 1	904, 1-5	ANN	*um* tibod o *Llangybi* i_lawr	NST	NST
+254, 3	906, 1-1	ANN	heibio	---	NSNT
+
+
+255, 1	910, 1-7	CRI	ffordd yna oedden ni mynd i *Sarn*	---	NST
+
+
+256, 1	911, 1-16	ANN	ac *er* dros y llwybr gwaelod yna de a wedyn i_fyny i *Sarn* a *round* wedyn	NST	NST
+256, 2	911, 17-19	ANN	de lôn yn_ôl	---	NSNT
+
+
+257, 1	915, 1-4	CRI	ie ie ffordd yna	NSNT	NSNT
+257, 2	916, 1-2	CRI	croesi *er*	NST	NST
+257, 3	917, 1-12	CRI	*oh* *yeah* naci pan oedden ni mynd i o'n i croesi *Cae_Ty'n_Llan*	---	NST
+
+
+258, 1	919, 1-4	BEI	*oh* *yeah* mae yna	---	NST
+
+
+259, 1	920, 1-4	CRI	mae yna lwybr *er*	NST	NST
+259, 2	920, 5-5	CRI	mae	NSNT	NSNT
+259, 3	920, 6-6	CRI	mae	NSNT	NSNT
+259, 4	920, 7-7	CRI	wsti	NSNT	NSNT
+259, 5	922, 1-6	CRI	na mond dilyn llwybrau oedden ni	NSNT	NSNT
+259, 6	922, 7-9	CRI	de ond *er*	---	NST
+
+
+260, 1	923, 1-5	BEI	o'n i yn dod *round*	NST	NST
+260, 2	924, 1-5	BEI	ryw ddydd Sul oedd hi	NSNT	NSNT
+260, 3	925, 1-6	BEI	o'n i yn cerdded *round* *Garn*	NST	NST
+260, 4	927, 1-13	BEI	ac yn dŵad lawr yn_ôl ac yn gweld gât fach ar y wal	NSNT	NSNT
+260, 5	929, 1-6	BEI	dyma fi dringo yr stepiau wan	NSNT	NSNT
+260, 6	930, 1-11	BEI	be oedd yn gorwedd wrth y gwrych yn braf ond llwynog	---	NSNT
+
+
+261, 1	934, 1-2	ANN	dw i	NSNT	NSNT
+261, 2	934, 3-10	ANN	wedi bod yn sôn wrth *Gruff_Llwyd* am peth	NST	NST
+261, 3	935, 1-10	ANN	a mae o yn deud y gei *er* llwybr caniatâd	NST	NST
+261, 4	935, 11-12	ANN	ydy o	NSNT	NSNT
+261, 5	936, 1-6	ANN	ac *er* fath â wsti gyrraedd	NST	NST
+261, 7	938, 1-5	ANN	oedd o a wedyn *um*	---	NST
+
+
+262, 1	939, 1-13	CRI	mae o wedi farcio lawr ar y *er* ar y *map* yn lwybr	NST	NST
+262, 2	939, 14-16	CRI	dw i *sure*	---	NST
+
+
+263, 1	941, 1-4	ANN	mae ryw ddarn arall	NSNT	NSNT
+263, 2	941, 5-6	ANN	dw i	NSNT	NSNT
+263, 3	941, 7-9	ANN	wedi bod yn	NSNT	NSNT
+263, 4	942, 1-5	ANN	*just* yn deud os os	NST	NST
+263, 5	943, 1-7	ANN	mae yna *grew* ohonan ni ti gweld	NST	NST
+263, 6	943, 8-12	ANN	pan fyddwn ni mynd Mercher	NSNT	NSNT
+263, 7	945, 1-3	ANN	sôn am y	NSNT	NSNT
+263, 8	946, 1-17	ANN	wsti wan petasen ni yn mynd o fan hyn i_fyny a *round* lôn *um* gwaelod y *Garn*	---	NST
+
+
+264, 1	947, 1-2	CRI	*Maenllwyd* felly	---	NST
+
+
+265, 1	948, 1-4	ANN	cerdded *round* y *Garn*	NST	NST
+265, 2	950, 1-10	ANN	peidio mynd i *Maenllwyd* ond mynd yn dy flaen de	---	NST
+
+
+266, 1	951, 1-1	CRI	*Maenllwyd*	---	NST
+
+
+267, 1	952, 1-7	ANN	ti yn troi yn ymyl *Cefn_Cae_Ferch* dwyt	NST	NST
+267, 2	954, 1-1	ANN	wsti	NSNT	NSNT
+267, 3	954, 3-7	ANN	mae yna lwybr yn mynd	---	NSNT
+
+
+268, 1	955, 1-9	CRI	*er* *um* dim *Maenllwyd* ydw i yn drio ddeud	---	NST
+
+
+269, 1	957, 1-2	ANN	dyna chdi	NSNT	NSNT
+269, 2	958, 1-3	ANN	ia hwnnw de	NSNT	NSNT
+269, 3	959, 1-11	ANN	a wedyn ti yn dod allan yn yn yn *Pentyrch* dwyt	NST	NST
+269, 4	961, 1-19	ANN	oes yna lwybr wedyn yn mynd yn syth i_lawr o fan yno i *Tŷ_Lôn* neu *Tŷ_Lôn_Ucha* neu beth bynnag	NST	NST
+269, 5	961, 20-22	ANN	ydy enw yr	---	NSNT
+
+
+270, 1	962, 1-5	CRI	dw i ddim yn gwybod	---	NSNT
+
+
+271, 1	963, 1-4	BEI	dw innau ddim chwaith	---	NSNT
+
+
+272, 1	965, 1-8	ANN	mae yna rywbeth wedi farcio ar y *map*	NST	NST
+272, 2	966, 1-5	ANN	ond ddaru ni ddim tsiansio	NSNT	NSNT
+272, 3	967, 1-11	ANN	achos mae o weld yn mynd drwy ryw le gwlyb ofnadwy	---	NSNT
+
+
+273, 1	968, 1-3	CRI	baswn i feddwl	NSNT	NSNT
+273, 2	968, 4-4	CRI	bod	NSNT	NSNT
+273, 3	968, 5-7	CRI	baswn i feddwl	NSNT	NSNT
+273, 4	968, 8-11	CRI	bod o yn gorsiog	NSNT	NSNT
+273, 5	970, 1-6	CRI	*um* dw i ddim yn gwybod	---	NST
+
+
+274, 1	971, 1-8	ANN	pwy ddeudais i wrthat ti diwrnod o blaen	NSNT	NSNT
+274, 2	971, 9-17	ANN	oedd wedi prynu fferm bach *Tŷ_Lôn* a chdithau yn	---	NST
+
+
+275, 1	973, 1-2	CRI	*Tŷ* *Tŷ_Lôn_Isa*	---	NST
+
+
+276, 1	974, 1-4	ANN	pwy ddeudais i dŵad	---	NSNT
+
+
+277, 1	976, 1-4	BEI	pwy ddeudaist ti dŵad	---	NSNT
+
+
+278, 1	977, 1-3	ANN	wnes i ddeud	NSNT	NSNT
+278, 2	977, 4-10	ANN	oedd yna rywun yn symud i fyw	NSNT	NSNT
+278, 3	978, 1-7	ANN	mae yna rywun wedi deud wrtha i	NSNT	NSNT
+278, 4	978, 8-13	ANN	mae nhw wedi prynu *farm* bach	---	NST
+
+
+279, 1	980, 1-3	CRI	dw i wedi	NSNT	NSNT
+279, 2	980, 4-6	CRI	dw i wedi	---	NSNT
+
+
+280, 1	984, 1-7	ANN	pwy sy wedi deud wrtha i dŵad	NSNT	NSNT
+280, 2	985, 1-5	ANN	dydw i ddim yn cofio	---	NSNT
+
+
+281, 1	986, 1-5	CRI	mi dw i wedi clywed	---	NSNT
+
+
+282, 1	987, 1-10	ANN	achos ddim yn fan yno oedd hogyn *Cliff* yn byw	---	NST
+
+
+283, 1	990, 1-1	CRI	*Bill*	---	NST
+
+
+284, 1	993, 1-5	BEI	*Darren* sy biau fan yno	NST	NST
+284, 2	994, 1-4	BEI	*Darren* sy biau *Tŷ_Lôn*	NST	NST
+284, 3	994, 5-7	BEI	lle oedd *er*	---	NST
+
+
+285, 1	996, 1-5	CRI	ond *er* ond dyna pam	NST	NST
+285, 2	996, 6-11	CRI	bod o yn symud o yna	NSNT	NSNT
+285, 3	997, 1-6	CRI	achos mae nhw yn gwerthu hi	NSNT	NSNT
+285, 4	999, 1-2	CRI	*well* dyna	NST	NST
+285, 5	999, 3-3	CRI	ddeudodd	---	NSNT
+
+
+286, 1	1000, 1-8	ANN	a mae yna rywun wedi deud wrtha i	NSNT	NSNT
+286, 2	1000, 9-13	ANN	pwy sy wedi prynu o	NSNT	NSNT
+286, 3	1001, 1-4	ANN	fedra i ddim cofio	---	NSNT
+
+
+287, 1	1002, 1-6	CRI	*well* *well* dw i wedi clywed	NST	NST
+287, 2	1002, 7-12	CRI	bod yna rywun wedi prynu *Tŷ_Lôn*	NST	NST
+287, 3	1003, 1-2	CRI	a mae	NSNT	NSNT
+287, 4	1003, 3-4	CRI	dw i	NSNT	NSNT
+287, 5	1004, 1-14	CRI	ella mod i wedi rhoi dau a dau at ei_gilydd a gwneud pump de	NSNT	NSNT
+287, 6	1005, 1-6	CRI	*um* wsti *oh* *oh* *yeah* *Tŷ_Lôn_Isa*	NST	NST
+287, 7	1005, 7-10	CRI	lle oedd *Bill* felly	NST	NST
+287, 8	1005, 11-11	CRI	wsti	NSNT	NSNT
+287, 9	1007, 1-10	CRI	ella mod i wedi *just* wedi cymryd hynny yn ganiataol	---	NST
+
+
+288, 1	1008, 1-5	ANN	*oh* sawl *Tŷ_Lôn* sy yna	---	NST
+
+
+289, 1	1009, 1-2	CRI	*Tŷ_Lôn_Ucha* hefyd	---	NST
+
+
+290, 1	1010, 1-2	ANN	mond dau	---	NSNT
+
+
+291, 1	1011, 1-5	BEI	fan hynny mae yr *tunnel*	---	NST
+
+
+292, 1	1012, 1-5	CRI	ie ie dw i *sure*	NST	NST
+292, 2	1013, 1-5	CRI	dw i *sure* na *Tŷ_Lôn_Isa*	NST	NST
+292, 3	1013, 6-6	CRI	sti	NSNT	NSNT
+292, 4	1013, 7-7	CRI	sy	---	NSNT
+
+
+293, 1	1014, 1-7	ANN	pa yr un wedi cartre *Tec* *post*	---	NST
+
+
+294, 1	1015, 1-3	BEI	*Tec* *Tec* *post*	ST	NST
+294, 2	1017, 1-5	BEI	dw i ddim yn *sure*	---	NST
+
+
+295, 1	1018, 1-2	CRI	*um* *Tŷ_Lôn_Isa*	ST	NST
+295, 2	1021, 1-4	CRI	dw i meddwl ie	NSNT	NSNT
+295, 3	1022, 1-7	CRI	fan yna oedd eu cartre nhw dŵad	NSNT	NSNT
+295, 4	1023, 1-8	CRI	ta eu *mham* nhw symudodd i fyw yno	---	NST
+
+
+296, 1	1025, 1-6	ANN	*oh* fuodd *Now* yn byw *Tŷ_Lôn*	---	NST
+
+
+297, 1	1026, 1-5	BEI	*oh* *Now* *Tŷ_Lôn* oedd o	---	NST
+
+
+298, 1	1028, 1-20	ANN	*oh* raid mi holi am y llwybr yna mynd lawr at *Pentyrch* i mi gael gweld os oes yna un	NST	NST
+298, 3	1031, 1-5	ANN	achos fysai hwnnw yn gwneud	NSNT	NSNT
+298, 4	1032, 1-7	ANN	*yeah* dw innau ddim yn cofio chwaith	NST	NST
+298, 5	1033, 1-5	ANN	ddaw o nôl i mi	NSNT	NSNT
+298, 6	1033, 6-7	ANN	sti meddwl	---	NSNT
+
+
+299, 1	1034, 1-11	CRI	*yeah* dw i wedi clywed rywun yn *er* rywun yn deud	NST	NST
+299, 2	1034, 12-12	CRI	bod	NSNT	NSNT
+299, 3	1034, 13-17	CRI	bod yna rywun wedi prynu	NSNT	NSNT
+299, 4	1035, 1-4	CRI	a baswn i ddim	NSNT	NSNT
+299, 5	1036, 1-3	CRI	rywun lleol de	---	NSNT
+
+
+300, 1	1039, 1-3	BEI	lle o't ti	NSNT	NSNT
+300, 2	1040, 1-7	BEI	ti wedi bod yn rywle o't ti	---	NSNT
+
+
+301, 1	1041, 1-3	ANN	chofia i ddim	NSNT	NSNT
+301, 2	1041, 4-6	ANN	wsti fel yna	NSNT	NSNT
+301, 3	1042, 1-9	ANN	mae raid fi raid mi beidio meddwl am peth	NSNT	NSNT
+301, 4	1043, 1-8	ANN	wedyn mi ddaw nôl i mi yn sydyn	NSNT	NSNT
+301, 5	1044, 1-5	ANN	waeth mi heb fel arall	---	NSNT
+
+
+302, 1	1045, 1-3	CRI	ia mae rywun	NSNT	NSNT
+302, 2	1045, 4-8	CRI	mae yn haws cofio rhannau	NSNT	NSNT
+302, 3	1045, 9-11	CRI	pan wyt ti	NSNT	NSNT
+302, 4	1045, 12-21	CRI	pan wyt ti ddim yn meddwl am y peth rywsut	NSNT	NSNT
+302, 5	1045, 22-22	CRI	dydy	---	NSNT
+
+
+303, 1	1049, 1-5	ANN	ddoth *Elin* ddim i gerdded	NST	NST
+303, 2	1050, 1-2	ANN	mae wedi	NSNT	NSNT
+303, 3	1050, 3-8	ANN	mae methu dod rŵan *um* wrth	NST	NST
+303, 4	1050, 9-16	ANN	bod *Iona* yn gwarchod *Elenid* ar ddydd *Mercher*	---	NST
+
+
+304, 1	1051, 1-1	CRI	pam	---	NSNT
+
+
+305, 1	1052, 1-8	ANN	a wedyn dydw i ddim yn gweld hi	NSNT	NSNT
+305, 2	1053, 1-4	ANN	*um* ond mae mynd	NST	NST
+305, 3	1054, 1-11	ANN	oedd hi fod i fynd efo *Iona* ddoe i gerdded wedyn	NST	NST
+305, 4	1056, 1-12	ANN	mae nhw yn mynd i weld *Bryn_Terfel* yn y *Flying_Dutchman* yn *Birmingham*	NST	NST
+305, 5	1058, 1-4	ANN	ym mis Mawrth yma	---	NSNT
+
+
+306, 1	1059, 1-7	CRI	*oh* mis Mawrth mae nhw mynd *yeah*	---	NST
+
+
+307, 1	1060, 1-16	ANN	a wedyn oedden nhw mynd i dalu ddoe ac am fynd i gerdded ar_hyd *um* *Lôn_Eifion*	NST	NST
+307, 2	1062, 1-6	ANN	ond dydw i ddim yn gwybod	NSNT	NSNT
+307, 3	1062, 7-10	ANN	aeth *Elin* neu beidio	ST	NST
+307, 4	1064, 1-11	ANN	because mae *Dwynwen* a *Haf* *Glan_Rhyd* hefyd yn mynd hefo nhw	NST	ST
+307, 5	1065, 1-11	ANN	wedyn mae nhw gwneud penwythnos ohoni dydyn yn mynd i weld	---	NSNT
+
+
+308, 1	1067, 1-4	CRI	yn *Birmingham* ydy o	---	NST
+
+
+309, 1	1069, 1-3	ANN	wedyn mae nhw	NSNT	NSNT
+309, 2	1070, 1-7	ANN	a wedyn mae mynd i rywle arall	NSNT	NSNT
+309, 3	1071, 1-1	ANN	mae	NSNT	NSNT
+309, 4	1071, 2-10	ANN	gynni ryw wyliau arall hefyd wedi trefnu yn barod	NSNT	NSNT
+309, 5	1072, 1-4	ANN	dw ddim yn cofio	NSNT	NSNT
+309, 6	1072, 5-8	ANN	lle ddeudodd hi wan	NSNT	NSNT
+309, 7	1073, 1-16	ANN	wedyn mae yr hogan yn trio gwneud *lot* o ryw drefniadau fel yna o flaen llaw	NST	NST
+309, 8	1073, 17-17	ANN	dydy	---	NSNT
+
+
+310, 1	1076, 1-8	CRI	ga i ddangos y lluniau yma i chdi	---	NSNT
+
+
+311, 1	1077, 1-4	ANN	*oh* *yeah* ia *please*	---	NST
+
+
+312, 1	1078, 1-6	CRI	hwn oeddwn i drio wneud neithiwr	NSNT	NSNT
+312, 2	1079, 1-4	CRI	rhein y pethau yma	---	NSNT
+
+
+313, 1	1080, 1-3	ANN	*oh* *right* ddel	NST	NST
+313, 2	1081, 1-5	ANN	*oh* mae rheina yn ddel	---	NST
+
+
+314, 1	1082, 1-6	CRI	na trio wneud hwnna oeddwn i	NSNT	NSNT
+314, 2	1084, 1-12	CRI	ond oedd o yn gweld o gyn ti ac a yr lluniau	NSNT	NSNT
+314, 3	1084, 13-15	CRI	sy gyn *Josie*	NST	NST
+314, 4	1084, 16-21	CRI	oedd gyn *Josie* a gyn *Eleri*	NST	NST
+314, 5	1084, 22-25	CRI	mae o yn *smooth*	NST	NST
+314, 6	1086, 1-8	CRI	ond *er* oeddwn i yn dilyn y pwythau	NST	NST
+314, 7	1087, 1-5	CRI	a mae *sure* mod i	NST	NST
+314, 8	1087, 6-8	CRI	mae *sure* na	NST	NST
+314, 9	1089, 1-13	CRI	na *just* fath â wneud o gongl i gongl neu rywbeth oeddech chi	NST	NST
+314, 10	1089, 14-17	CRI	dw i *sure* *yeah*	---	NST
+
+
+315, 1	1090, 1-2	ANN	argoel wsti	NSNT	NSNT
+315, 2	1090, 3-8	ANN	be dw i ddim yn cofio	NSNT	NSNT
+315, 3	1091, 1-6	ANN	dydy yr patrwm ddim gyn ti	---	NSNT
+
+
+316, 1	1093, 1-12	CRI	ond mae dy un di i weld yn yn yn *smooth* fel	NST	NST
+316, 2	1093, 13-19	CRI	petaset ti ddim wedi dilyn bob pwyth	NSNT	NSNT
+316, 3	1094, 1-6	CRI	a mae o yn flêr beth	NSNT	NSNT
+316, 4	1095, 1-8	CRI	oedd o yn flêr wrth ddilyn bob pwyth	---	NSNT
+
+
+317, 1	1097, 1-8	ANN	argoel wela i ddim ohono fo *Crisiant* bach	---	NST
+
+
+318, 1	1098, 1-11	CRI	a fan yma mae yr *Hardanger* wedi mynd allan ohôl ohoni	NST	NST
+318, 2	1098, 12-12	CRI	yli	---	NSNT
+
+
+319, 1	1100, 1-3	ANN	a mae isio	NSNT	NSNT
+319, 2	1100, 4-8	ANN	mae isio chwyddwydr i weld	NSNT	NSNT
+319, 5	1103, 1-2	ANN	wneud dŵad	---	NSNT
+
+
+320, 1	1104, 1-3	CRI	weli di eto	---	NSNT
+
+
+321, 1	1105, 1-8	ANN	gyn i chwyddwydr yn fan hyn yn rywle	---	NSNT
+
+
+322, 1	1106, 1-7	CRI	dw i wedi torri rhein rhy fyr	---	NSNT
+
+
+323, 1	1107, 1-8	ANN	mi gymrith hi hwnna gyn ti wneud gwneith	---	NSNT
+
+
+324, 1	1108, 1-4	BEI	welith neb ddim ohono	NSNT	NSNT
+324, 2	1108, 5-5	BEI	sti	NSNT	NSNT
+324, 3	1109, 1-4	BEI	tu ôl i gwydr	---	NSNT
+
+
+325, 1	1110, 1-1	CRI	*well*	---	NST
+
+
+326, 1	1112, 1-2	BEI	mond ychdi	NSNT	NSNT
+326, 2	1113, 1-3	BEI	wyt ti gwybod	NSNT	NSNT
+326, 3	1113, 4-6	BEI	bod o yna	NSNT	NSNT
+326, 4	1113, 7-7	BEI	dwyt	---	NSNT
+
+
+327, 1	1118, 1-3	CRI	a mae hwn	NSNT	NSNT
+327, 2	1118, 4-8	CRI	mae rhein yn lle *wrong*	NST	NST
+327, 3	1119, 1-5	CRI	mae hwn yn lle *wrong*	---	NST
+
+
+328, 1	1121, 1-8	ANN	mi oedd gyn i chwyddwydr yn fan hyn	NSNT	NSNT
+328, 2	1122, 1-4	ANN	mae honno wedi mynd	---	NSNT
+
+
+329, 1	1124, 1-6	CRI	nefoedd mae cymryd oriau i wneud	NSNT	NSNT
+329, 2	1124, 7-8	CRI	dydy ysglyfaeth	---	NSNT
+
+
+330, 1	1126, 1-7	ANN	mae o yn cymryd amser i wneud	---	NSNT
+
+
+331, 1	1127, 1-7	BEI	nid oriau mae yn cymryd misoedd blynyddoedd	NSNT	NSNT
+331, 2	1128, 1-6	BEI	dwy flynedd i wneud hwnna do	---	NSNT
+
+
+332, 1	1131, 1-10	CRI	*oh* dw i wedi dechrau hwn ar yr un pryd	---	NST
+
+
+333, 1	1134, 1-4	ANN	gyn ti mond ryw	---	NSNT
+
+
+334, 1	1135, 1-6	BEI	*oh* mae yn dibynnu be arall	NST	NST
+334, 2	1135, 7-9	BEI	wyt ti wneud	NSNT	NSNT
+334, 3	1135, 10-10	BEI	dydy	NSNT	NSNT
+334, 4	1136, 1-2	BEI	felly mae	---	NSNT
+
+
+335, 1	1138, 1-12	ANN	ia doedden ni ddim yn gwneud i bob un wedyn wrth groesi	NSNT	NSNT
+335, 2	1138, 13-14	ANN	nag oedden	NSNT	NSNT
+335, 3	1139, 1-5	ANN	*er* wyt ti yn gwneud	---	NST
+
+
+336, 1	1140, 1-5	CRI	dw i ddim yn gwybod	NSNT	NSNT
+336, 2	1141, 1-8	CRI	cael golwg ar dy un di fan hyn	---	NSNT
+
+
+337, 1	1142, 1-2	ANN	cei mechan	NSNT	NSNT
+337, 2	1143, 1-2	ANN	cei cei	---	NSNT
+
+
+338, 1	1144, 3-5	CRI	mae hwn yn	NSNT	NSNT
+338, 2	1145, 1-11	CRI	ti weld mae hwn mewn llinell syth gyn ti fan yna	NSNT	NSNT
+338, 3	1145, 12-12	CRI	dydy	NSNT	NSNT
+338, 4	1147, 1-1	CRI	ond	---	NSNT
+
+
+339, 1	1148, 1-6	ANN	do'n i ddim yn wneud o	NSNT	NSNT
+339, 2	1149, 1-6	ANN	wsti gyn ti rhein wedi torri	NSNT	NSNT
+339, 3	1151, 1-6	ANN	cwbl o'n i wneud oedd *Holbein*	NST	NST
+339, 4	1152, 1-1	ANN	gongl	---	NSNT
+
+
+340, 1	1153, 1-1	CRI	*stitch*	ST	NST
+340, 2	1157, 1-4	CRI	*er* *er* *oh* dyna	NST	NST
+340, 3	1157, 5-19	CRI	wnes i drio neithiwr ar rei tu mewn fath â dilyn pob un o rheina	NSNT	NSNT
+340, 4	1160, 1-8	CRI	ond mae *sure* na *just* fath â o	---	NST
+
+
+341, 1	1161, 1-6	ANN	mynd o un mynd o yr	NSNT	NSNT
+341, 2	1162, 1-5	ANN	rhaid ti gyfri faint faint	NSNT	NSNT
+341, 3	1162, 6-14	ANN	sy gyn ti o dyllau ar_ôl yn fan hyn	---	NSNT
+
+
+342, 1	1167, 1-3	CRI	dw i meddwl	NSNT	NSNT
+342, 2	1167, 4-10	CRI	fydd raid i mi fynd at *Josie*	---	NST
+
+
+343, 1	1168, 1-1	ANN	pedwar_ar_hugain	NSNT	NSNT
+343, 2	1169, 1-17	ANN	*um* a mae lled bob un ohonyn nhw yn mynd i fod yn un dau yn dri	NST	NST
+343, 3	1169, 18-18	ANN	dydy	NSNT	NSNT
+343, 4	1170, 1-2	ANN	dyna ti	---	NSNT
+
+
+344, 1	1171, 1-5	BEI	un pwyth allan ohoni felly	---	NSNT
+
+
+345, 1	1172, 1-2	ANN	nac ydy	NSNT	NSNT
+345, 2	1172, 3-4	ANN	nag ydy	NSNT	NSNT
+345, 3	1172, 5-5	ANN	sti	NSNT	NSNT
+345, 4	1173, 1-2	ANN	nag ydy	NSNT	NSNT
+345, 5	1174, 1-4	ANN	dw i yn gweld	NSNT	NSNT
+345, 6	1174, 5-6	ANN	be mae	NSNT	NSNT
+345, 7	1174, 7-9	ANN	be mae be	NSNT	NSNT
+345, 8	1174, 10-14	ANN	be mae *Crisiant* yn feddwl	NST	NST
+345, 9	1175, 1-2	ANN	mae hwn	NSNT	NSNT
+345, 10	1175, 3-17	ANN	dydy yr un pwyth yna yn codi yn syth gyn ti ffordd yna cyn cychwyn	NSNT	NSNT
+345, 11	1175, 18-18	ANN	dydy	---	NSNT
+
+
+346, 1	1177, 1-5	CRI	ond hwn tu mewn *um*	NST	NST
+346, 2	1178, 1-7	CRI	fan yma oeddwn i yn drio neithiwr	---	NSNT
+
+
+347, 1	1180, 1-7	ANN	wedi symud i_fyny tri fel yna *yeah*	---	NST
+
+
+348, 1	1181, 1-2	CRI	oeddwn i	NSNT	NSNT
+348, 2	1181, 3-5	CRI	oeddwn i gwneud	NSNT	NSNT
+348, 3	1182, 1-4	CRI	*stem* *stitch* ydy o	NST	NST
+348, 4	1185, 1-2	CRI	ia *stem*	NST	NST
+348, 5	1186, 1-9	CRI	wedyn oedd yr edau yn dod i_fyny fan yna	NSNT	NSNT
+348, 6	1187, 1-10	CRI	oeddwn i yn mynd fel yna ac i fan yna	NSNT	NSNT
+348, 7	1187, 11-14	CRI	wsti a a wedyn	---	NSNT
+
+
+349, 1	1189, 1-10	ANN	wneud o yn igam_ogam fel hyn ar i_fyny oeddet ti	NSNT	NSNT
+349, 2	1191, 1-8	ANN	na do'n i ddim yn gwneud hynny de	NSNT	NSNT
+349, 3	1193, 1-8	ANN	nag o'n o'n i ddim yn gwneud hynny	NSNT	NSNT
+349, 4	1194, 1-6	ANN	cwbl o'n i wneud oedd croesi	NSNT	NSNT
+349, 5	1195, 1-3	ANN	dw i meddwl	NSNT	NSNT
+349, 6	1196, 1-1	ANN	wsti	NSNT	NSNT
+349, 7	1196, 2-8	ANN	os oes gyn ti dri fan hyn	NSNT	NSNT
+349, 8	1196, 9-15	ANN	dw i yn croesi ar_draws ar_draws ar_draws	NSNT	NSNT
+349, 9	1198, 1-6	ANN	felly wnes i yr ddwy ochr	---	NSNT
+
+
+350, 1	1199, 1-3	CRI	*oh* *yeah* mae	NST	NST
+350, 2	1199, 4-6	CRI	mae o *oh*	NST	NST
+350, 3	1199, 7-10	CRI	mae o yn daclusach	NSNT	NSNT
+350, 4	1200, 1-2	CRI	achos oedd	NSNT	NSNT
+350, 5	1200, 3-4	CRI	oedd hwnna	NSNT	NSNT
+350, 6	1200, 5-13	CRI	oedd o yn troi allan yn eithriadol o flêr	---	NSNT
+
+
+351, 1	1202, 1-11	ANN	*well* mae yn anodd i ti lenwi tu fewn wedyn hefyd	NST	NST
+351, 2	1202, 12-12	ANN	dydy	NSNT	NSNT
+351, 3	1203, 1-6	ANN	ti isio wneud y wedyn does	NSNT	NSNT
+351, 4	1205, 1-5	ANN	na wnes i ddim gwneud	NSNT	NSNT
+351, 5	1206, 1-6	ANN	wnes i wneud o yn mynd	---	NSNT
+
+
+352, 1	1207, 1-7	CRI	o un gongl i yr llall felly	---	NSNT
+
+
+353, 1	1209, 1-9	ANN	pwyth *Holbein* a wedyn dod yn_dôl a llenwi de	NST	NST
+353, 2	1211, 1-7	ANN	mae rhein yn *lot* taclusach gyn ti	---	NST
+
+
+354, 1	1213, 1-2	CRI	a mae	NSNT	NSNT
+354, 2	1213, 3-4	CRI	a mae	NSNT	NSNT
+354, 3	1213, 5-18	CRI	dw i wedi wneud hwn i_gyd un pwyth yn rhy yn rhy uchel i_fyny	NSNT	NSNT
+354, 4	1214, 1-12	CRI	nes mae yr rhes yna mynd yn *stuck* yn y rhes yna	---	NST
+
+
+355, 1	1215, 1-4	BEI	be sy yn anhygoel	NSNT	NSNT
+355, 2	1215, 7-12	BEI	bod nhw i_gyd yr un fath	NSNT	NSNT
+355, 3	1215, 13-16	BEI	mae yr gwahanol liwiau	---	NSNT
+
+
+356, 1	1218, 1-9	ANN	dyn nhw ddim yn edrych dim_byd tebyg i w_gilydd	NSNT	NSNT
+356, 2	1218, 10-11	ANN	nag ydyn	---	NSNT
+
+
+357, 1	1219, 1-2	BEI	nac ydyn	---	NSNT
+
+
+358, 1	1220, 1-9	ANN	mae un *um* un *Judith* a *Iona* mewn glas	NST	NST
+358, 2	1222, 1-6	ANN	*um* wahanol *shades* o las de	NST	NST
+358, 4	1225, 1-8	ANN	*er* mae o yn edrych yn *nice* ofnadwy	NST	NST
+358, 5	1226, 1-1	ANN	dw	NSNT	NSNT
+358, 6	1226, 2-5	ANN	dw i ddim yn	NSNT	NSNT
+358, 7	1226, 6-12	ANN	dw i ddim yn mynd am las	NSNT	NSNT
+358, 8	1226, 13-14	ANN	wsti byth	NSNT	NSNT
+358, 9	1226, 15-20	ANN	pan dw i yn gwneud gwnïo	---	NSNT
+
+
+359, 1	1228, 1-11	CRI	*oh* wnes i yr hen beth unlliw hwnnw glas mewn glas	NST	NST
+359, 2	1229, 1-5	CRI	mae tu ôl i *wardrobe*	---	NST
+
+
+360, 1	1230, 1-9	BEI	mae hwnna i weld yn ysgafnach lawer na hwn	NSNT	NSNT
+360, 2	1230, 10-10	BEI	dydy	NSNT	NSNT
+360, 3	1230, 11-11	BEI	sti	---	NSNT
+
+
+361, 1	1231, 1-8	CRI	*yeah* dw i ddim wedi gorffen hwn eto	NST	NST
+361, 3	1233, 1-5	CRI	fan yna ydy yr camgymeriad	NSNT	NSNT
+361, 4	1233, 6-15	CRI	yli y yr yr yr *Holbein* yr yr yr *um*	NST	NST
+361, 5	1234, 1-5	CRI	be ti yn galw hwn	---	NSNT
+
+
+362, 1	1235, 1-1	ANN	*Hardanger*	---	NST
+
+
+363, 1	1236, 1-1	CRI	*Hardanger*	ST	NST
+363, 2	1237, 1-6	CRI	wedi torri dorri nhw rhy fyr	---	NSNT
+
+
+364, 1	1238, 1-5	ANN	ti ddim isio tynnu hefyd	NSNT	NSNT
+364, 2	1239, 1-4	ANN	mae hwnna yn iawn	NSNT	NSNT
+364, 3	1239, 5-5	ANN	tydy	NSNT	NSNT
+364, 4	1240, 1-9	ANN	Duw unwaith fyddi di wedi gael ei fframio fo	NSNT	NSNT
+364, 5	1240, 10-14	ANN	fydd o ddim i weld	NSNT	NSNT
+364, 8	1243, 1-2	ANN	cyn_belled â	NSNT	NSNT
+364, 9	1243, 3-4	ANN	bod o	NSNT	NSNT
+364, 10	1243, 5-9	ANN	wneith o ddim rhedeg ti	NSNT	NSNT
+364, 11	1243, 10-11	ANN	na wneith	---	NSNT
+
+
+365, 1	1244, 1-2	CRI	na wneith	NSNT	NSNT
+365, 2	1245, 1-10	CRI	a i â fo at *Josie* *just* iddi gael gweld	---	NST
+
+
+366, 1	1246, 1-9	ANN	oes gyn i beads *top* a gwaelod yn hwnna	---	ST
+
+
+367, 1	1247, 1-2	BEI	nag oes	---	NSNT
+
+
+368, 1	1248, 1-4	ANN	y gleiniau chwedl hithau	---	NSNT
+
+
+369, 1	1249, 1-3	BEI	mond yn *top*	---	NST
+
+
+370, 1	1250, 1-4	ANN	mond yn hwn ia	NSNT	NSNT
+370, 2	1251, 1-8	ANN	mae yna rywbeth i fod ar hwn hefyd	NSNT	NSNT
+370, 3	1252, 1-2	ANN	rywbeth ie	---	NSNT
+
+
+371, 1	1253, 1-4	BEI	does gyn ti ddim	---	NSNT
+
+
+372, 1	1254, 1-10	CRI	na dim ar y gwaelod yna dw ddim yn meddwl	NSNT	NSNT
+372, 2	1257, 1-14	CRI	ti yn defnyddio yr un lliwiau a rifyrsio nhw neu rywbeth ddeudodd hi *yeah*	NST	NST
+372, 3	1259, 1-5	CRI	fan yma mae yr aur	---	NSNT
+
+
+373, 1	1260, 1-6	ANN	yr aur mae gyn gyn i	NSNT	NSNT
+373, 2	1261, 1-9	ANN	ond defnyddais i ryw edrau *gopper* yn fan yna	---	NST
+
+
+374, 1	1264, 1-7	CRI	ia *er* mae hwnna mynd yn *nice*	NST	NST
+374, 2	1264, 8-12	CRI	tydy efo efo yr lliwiau	NSNT	NSNT
+374, 3	1264, 13-13	CRI	dydy	---	NSNT
+
+
+375, 1	1265, 1-2	ANN	y lliw	NSNT	NSNT
+375, 2	1266, 1-3	ANN	mae yr lliw	NSNT	NSNT
+375, 3	1266, 4-4	ANN	mae	NSNT	NSNT
+375, 4	1266, 5-7	ANN	honna gyn i	NSNT	NSNT
+375, 5	1266, 8-8	ANN	cofia	NSNT	NSNT
+375, 6	1266, 9-14	ANN	os wyt ti isio defnyddio hi	NSNT	NSNT
+375, 7	1268, 1-2	ANN	mae yma	---	NSNT
+
+
+376, 1	1270, 1-10	CRI	be ydy yr peth yma dŵad hwn yn fan hyn	NSNT	NSNT
+376, 2	1271, 1-6	CRI	mae hwnna fath â ryw waith	NSNT	NSNT
+376, 3	1271, 7-9	CRI	carped neu rywbeth	---	NSNT
+
+
+377, 1	1275, 1-7	ANN	a wyt ti yn dorri fo felly	---	NSNT
+
+
+378, 1	1278, 1-3	BEI	wyt ti yn	---	NSNT
+
+
+379, 1	1280, 1-5	ANN	mi oedd hi yn deud	NSNT	NSNT
+379, 2	1280, 6-13	ANN	bod hi yn mynd i i *um* i	NST	NST
+379, 3	1280, 14-23	ANN	roid *er* rhestr i ni o enwau yr pwythau i_gyd	NST	NST
+379, 4	1281, 1-6	ANN	dan ni yn dal i waetsiad	---	NSNT
+
+
+380, 1	1283, 1-12	CRI	a sut i sut oedda chdi yn gwneud nhw rei ohonyn nhw	NSNT	NSNT
+380, 2	1284, 1-6	CRI	dw ddim wedi gwneud hwn chwaith	NSNT	NSNT
+380, 3	1285, 1-7	CRI	o'n i ddim yn licio gwneud hwn	---	NSNT
+
+
+381, 1	1286, 1-6	ANN	mae hwn fath â gwaith *stump*	---	NST
+
+
+382, 1	1287, 1-1	CRI	dyna	NSNT	NSNT
+382, 2	1287, 2-4	CRI	ydy o ia	---	NSNT
+
+
+383, 1	1289, 1-4	ANN	dw i yn gwneud	NSNT	NSNT
+383, 2	1289, 5-11	ANN	dw i wrthi yn gwneud peth rŵan	NSNT	NSNT
+383, 3	1290, 1-7	ANN	*er* ti yn gwneud blodyn ar weiren	---	NST
+
+
+384, 1	1291, 1-8	CRI	*oh* ia *oh* ia oedda chdi yn dangos	---	NST
+
+
+385, 1	1292, 1-1	ANN	wsti	NSNT	NSNT
+385, 2	1294, 1-7	ANN	ond *um* dw i methu yn *glear*	NST	NST
+385, 3	1294, 8-12	ANN	â gael o i ddŵad	NSNT	NSNT
+385, 4	1295, 1-2	ANN	mae hwn	NSNT	NSNT
+385, 5	1295, 3-11	ANN	yli *er* hwn yn rhedeg yn even gyn ti	NST	ST
+385, 6	1295, 12-12	ANN	dydy	NSNT	NSNT
+385, 7	1296, 1-8	ANN	mae bob pwyth yn rhedeg yn ei le	NSNT	NSNT
+385, 8	1297, 1-5	ANN	a rheina yr un fath	NSNT	NSNT
+385, 10	1299, 1-5	ANN	dw i methu cael hynny	NSNT	NSNT
+385, 11	1299, 6-6	ANN	sti	NSNT	NSNT
+385, 12	1300, 1-3	ANN	dwn i ddim	NSNT	NSNT
+385, 13	1300, 4-5	ANN	be sy	NSNT	NSNT
+385, 14	1300, 6-7	ANN	yn bod	NSNT	NSNT
+385, 15	1301, 1-6	ANN	dw i yn ei wneud o	NSNT	NSNT
+385, 16	1302, 1-8	ANN	a wedyn mae o yn mynd yn *um*	NST	NST
+385, 17	1302, 9-13	ANN	dw yn colli fath â	NSNT	NSNT
+385, 18	1302, 14-18	ANN	fydd y *rhythm* yn mynd	NST	NST
+385, 19	1303, 1-8	ANN	a wedyn dydy o ddim yn gweithio allan	---	NSNT
+
+
+386, 1	1304, 1-10	CRI	oedden ni rhoi *cardboard* neu rywbeth tu mewn i hwnna	---	NST
+
+
+387, 1	1305, 1-1	ANN	*wadding*	ST	NST
+387, 2	1306, 1-13	ANN	*oh* ar *gardboard* ia a stwffio mymryn bach o edau i_mewn iddo fo	---	NST
+
+
+388, 1	1307, 1-6	CRI	dw i ddim wedi gwneud hynny	---	NSNT
+
+
+389, 1	1311, 1-1	ANN	hwnna	---	NSNT
+
+
+390, 1	1312, 1-5	CRI	hwnna wedi stwffio edau i_mewn	NSNT	NSNT
+390, 2	1314, 1-4	CRI	ydy hwn ar *gardboard*	---	NST
+
+
+391, 1	1315, 1-3	ANN	yndy i fod	---	NSNT
+
+
+392, 1	1316, 1-6	CRI	ta ta ta ydy o ddim	NSNT	NSNT
+392, 2	1318, 1-4	CRI	dw ddim yn cofio	---	NSNT
+
+
+393, 1	1320, 1-9	ANN	a wedyn ti yn osod o yna wedyn dwyt	---	NSNT
+
+
+394, 1	1321, 1-2	CRI	mae gyn	NSNT	NSNT
+394, 2	1321, 3-3	CRI	mae	NSNT	NSNT
+394, 3	1321, 4-4	CRI	mae	NSNT	NSNT
+394, 4	1321, 5-5	CRI	mae	NSNT	NSNT
+394, 5	1321, 6-10	CRI	mae gyn i fan yma	---	NSNT
+
+
+395, 1	1322, 1-6	ANN	ei wneud o fan hyn ia	---	NSNT
+
+
+396, 1	1324, 1-8	CRI	*yeah* wedyn wedi gwneud hwnna rhy agos braidd	NST	NST
+396, 2	1325, 1-1	CRI	mae	NSNT	NSNT
+396, 3	1325, 2-7	CRI	honna yna barod i i wneud	NSNT	NSNT
+396, 4	1326, 1-12	CRI	a ac wrth_gwrs wan dw ddim yn cofio sut i wneud o	---	NSNT
+
+
+397, 1	1327, 1-11	ANN	ti isio torri hon allan does a roi mwy o ymyl	---	NSNT
+
+
+398, 1	1329, 1-3	CRI	ia a wedyn	---	NSNT
+
+
+399, 1	1330, 2-10	ANN	a roid hi ar a ei gau o drosodd	NSNT	NSNT
+399, 2	1331, 1-6	ANN	ti yn gwnïo o_dani hi dwyt	NSNT	NSNT
+399, 3	1331, 7-12	ANN	roid o at ei_gilydd fath â	NSNT	NSNT
+399, 4	1331, 13-18	ANN	petaset ti yn yn *um* mowntio	---	NST
+
+
+400, 1	1332, 1-15	CRI	*er* *oh* *oh* *yeah* ti wneud hefo *er* ti wneud o efo neu rywbeth wyt	NST	NST
+400, 2	1333, 1-4	CRI	ti wneud o yn	---	NSNT
+
+
+401, 1	1334, 3-5	ANN	dyna chdi ia	---	NSNT
+
+
+402, 1	1335, 1-3	CRI	cofio hynna chwaith	NSNT	NSNT
+402, 2	1336, 1-5	CRI	dydy rheina ddim wedi gorffen	NSNT	NSNT
+402, 3	1337, 1-9	CRI	dw isio isio gorffen rheina ar_ôl ei olchi o	NSNT	NSNT
+402, 4	1337, 10-11	CRI	meddai *Josie*	NST	NST
+402, 5	1338, 1-8	CRI	a dydw i ddim yn licio siâp hwnna	NSNT	NSNT
+402, 6	1339, 1-4	CRI	fydd raid mi agor	NSNT	NSNT
+402, 7	1339, 5-11	CRI	dw i mynd i agor hwnna beth	NSNT	NSNT
+402, 8	1340, 1-6	CRI	a dydw i ddim yn cofio	NSNT	NSNT
+402, 9	1340, 7-11	CRI	sut oedd gwneud hwnna chwaith	NSNT	NSNT
+402, 10	1341, 1-8	CRI	ond dydw i ddim yn licio yr siâp	---	NSNT
+
+
+403, 1	1342, 1-5	ANN	mae hwn yn debyg eto	NSNT	NSNT
+403, 2	1342, 6-6	ANN	dydy	NSNT	NSNT
+403, 3	1343, 1-8	ANN	wyt ti yn gwneud y pwyth yma yn	NSNT	NSNT
+403, 4	1343, 9-10	ANN	rhydd yn_dwyt	NSNT	NSNT
+403, 5	1344, 1-2	ANN	*er* wsti	NST	NST
+403, 6	1344, 3-11	ANN	wyt ti wneud o fath â fath â *bullion*	NST	NST
+403, 7	1346, 1-8	ANN	a wedyn ti roid o drosodd neu rywbeth	NSNT	NSNT
+403, 8	1346, 9-9	ANN	dwyt	---	NSNT
+
+
+404, 1	1348, 1-7	CRI	*oh* sôn am *bullion* dw i wedi	NST	NST
+404, 2	1348, 8-9	CRI	dw i	NSNT	NSNT
+404, 3	1348, 10-15	CRI	wedi bod yn trio gwneud rheiny	---	NSNT
+
+
+405, 1	1350, 1-5	ANN	dydw i ddim yn cofio	---	NSNT
+
+
+406, 1	1351, 1-9	CRI	a mond fel yna dw i medru gwneud nhw	NSNT	NSNT
+406, 2	1352, 1-9	CRI	oeddwn i wedi gwneud nhw o blaen fel yna	NSNT	NSNT
+406, 3	1352, 10-10	CRI	yli	NSNT	NSNT
+406, 4	1353, 1-3	CRI	sbïa gymaint taclusach	NSNT	NSNT
+406, 5	1353, 4-10	CRI	ydy rhein pan i yn practeisio nhw	NSNT	NSNT
+406, 6	1353, 11-19	CRI	pan oeddwn i ddim yn mynd i iwsio nhw	---	NSNT
+
+
+407, 1	1356, 1-8	BEI	ti wedi cael hwyl yn wneud y raff	---	NSNT
+
+
+408, 1	1357, 1-4	ANN	dyna nhw fan hyn	NSNT	NSNT
+408, 2	1359, 2-5	ANN	mae nhw yn iawn	NSNT	NSNT
+408, 3	1360, 1-3	ANN	mae nhw ddel	---	NSNT
+
+
+409, 1	1363, 1-1	CRI	be	---	NSNT
+
+
+410, 1	1366, 1-1	BEI	rhaff	---	NSNT
+
+
+411, 1	1367, 1-3	CRI	*oh* mae rheina	NST	NST
+411, 2	1368, 1-3	CRI	sbïa gymaint delach	NSNT	NSNT
+411, 3	1368, 4-8	CRI	ydy rheina na rheina hwnna	NSNT	NSNT
+411, 5	1370, 1-4	CRI	na dw i *oh*	NST	NST
+411, 6	1370, 5-7	CRI	dw i meddwl	NSNT	NSNT
+411, 7	1370, 8-10	CRI	de bod *er*	NST	NST
+411, 8	1370, 11-18	CRI	bod gen i nodwydd dewach yn gwneud rhein	NSNT	NSNT
+411, 9	1370, 19-19	CRI	sti	---	NSNT
+
+
+412, 1	1371, 1-3	ANN	del ydy hwnna	NSNT	NSNT
+412, 2	1372, 1-3	ANN	tlws iawn *Miss_Edwards*	---	NST
+
+
+413, 1	1373, 1-1	CRI	*well*	---	NST
+
+
+414, 1	1374, 1-2	ANN	*nice* iawn	NST	NST
+414, 2	1375, 2-12	ANN	mae dy nodwydd di yn yn llaw i wan rhag ofn	---	NSNT
+
+
+415, 1	1376, 1-4	CRI	ia mae o yn	NSNT	NSNT
+415, 2	1376, 5-8	CRI	mae o fudr felltigedig	NSNT	NSNT
+415, 3	1377, 1-3	CRI	oglau llwch mawr	---	NSNT
+
+
+416, 1	1379, 1-2	ANN	del ofnadwy	NSNT	NSNT
+416, 2	1380, 1-7	ANN	Duw fydd o *nice* ar_ôl ei orffen	NST	NST
+416, 3	1380, 8-8	ANN	sti	NSNT	NSNT
+416, 4	1380, 9-9	ANN	bydd	NSNT	NSNT
+416, 5	1381, 1-2	ANN	fydd o	NSNT	NSNT
+416, 6	1381, 3-5	ANN	werth o wedyn	NSNT	NSNT
+416, 7	1382, 1-6	ANN	a *joke* o yr peth ydy	NST	NST
+416, 8	1382, 7-18	ANN	dw i wedi gwneud hwnna wan i fatsio lliwiau yr gegin yma	NSNT	NSNT
+416, 9	1383, 1-9	ANN	dw i wedi newid lliwiau ar_ôl mi wneud o	---	NSNT
+
+
+417, 1	1384, 1-3	CRI	na mae hwnna	NSNT	NSNT
+417, 2	1384, 4-6	CRI	mae hwnna matsio	NSNT	NSNT
+417, 3	1385, 1-12	CRI	*oh* dw i yn edrych ar y *vase* a yr *jug* yna	NST	NST
+417, 4	1386, 1-3	CRI	dydyn nhw *nice*	---	NST
+
+
+418, 1	1387, 1-10	ANN	oedd y *jug* yna adre yn tŷ *mam* ers blynyddoedd	---	NST
+
+
+419, 1	1388, 1-8	CRI	ew dydyn nhw ddim yn mynd efo ei_gilydd	---	NSNT
+
+
+420, 1	1389, 1-2	ANN	nag ydyn	NSNT	NSNT
+420, 2	1390, 1-7	ANN	ond yn *Griccieth* ges i yr potyn	---	NST
+
+
+421, 1	1391, 1-1	CRI	ew	---	NSNT
+
+
+422, 1	1392, 1-6	ANN	yn *shop* *Eifion* ar ryw *sale*	---	NST
+
+
+423, 1	1395, 1-3	CRI	*oh* mae nhw	NST	NST
+423, 2	1395, 4-6	CRI	mae nhw yn	NSNT	NSNT
+423, 3	1395, 7-13	CRI	mae nhw yn berffaith efo ei_gilydd dydyn	---	NSNT
+
+
+424, 1	1396, 1-5	ANN	*oh* mynd yn iawn sti	---	NST
+
+
+425, 1	1398, 1-2	CRI	mae hwn	NSNT	NSNT
+425, 2	1398, 3-3	CRI	mae	NSNT	NSNT
+425, 3	1398, 4-11	CRI	mae dy *sampler* di mynd efo yr lle	---	NST
+
+
+426, 1	1399, 1-2	ANN	*well* does	NST	NST
+426, 2	1399, 3-8	ANN	gynna i ddim coch yno fo	NSNT	NSNT
+426, 3	1399, 9-10	ANN	nag oes	NSNT	NSNT
+426, 4	1400, 1-15	ANN	ond o'n i meddwl ar_ôl fi orffen wna i roi coch tu ôl i hwnnw	NSNT	NSNT
+426, 6	1402, 1-11	ANN	a wedyn wna i newid nhw drosodd bob hyn a hyn	NSNT	NSNT
+426, 7	1404, 1-3	ANN	dwn i ddim	NSNT	NSNT
+426, 8	1405, 1-3	ANN	ga i weld	NSNT	NSNT
+426, 9	1406, 1-11	ANN	mae hwnnw fwy addas ar_gyfer llofft rywsut a deud y gwir	NSNT	NSNT
+426, 10	1406, 12-12	ANN	dydy	---	NSNT
+
+
+427, 1	1407, 1-2	CRI	a mae	NSNT	NSNT
+427, 2	1407, 3-10	CRI	mae hwn i fod i fatsio yr lounge	SNT	SNT
+427, 3	1408, 1-6	CRI	dw ddim yn newid y lounge	SNT	SNT
+427, 4	1408, 7-10	CRI	de am flynyddoedd eto	NSNT	NSNT
+427, 6	1410, 1-2	CRI	ailbeintio yr	---	NSNT
+
+
+428, 1	1411, 1-6	ANN	ond ia ond os wyt ti	NSNT	NSNT
+428, 3	1413, 1-7	ANN	os wyt ti yn hapus yn hapus	NSNT	NSNT
+428, 4	1414, 1-6	ANN	dan ni wedi papuro llofft *front*	NST	NST
+428, 5	1415, 1-6	ANN	a fuodd yna hoo_ha mawr yma	NSNT	SNT
+428, 6	1416, 1-10	ANN	o'n i isio crafu yr llawr i gael llawr coed	NSNT	NSNT
+428, 7	1417, 1-3	ANN	a dyna fo	NSNT	NSNT
+428, 8	1418, 1-8	ANN	mi gychwynnodd *Beinon* sortio hynny allan ar_ôl papuro	NST	NST
+428, 9	1420, 1-6	ANN	ond anyway dan ni wedi ffeindio	NSNT	SNT
+428, 10	1420, 7-10	ANN	bod dim modd gwneud	NSNT	NSNT
+428, 11	1421, 1-4	ANN	mae nhw wedi llorio	NSNT	NSNT
+428, 12	1421, 5-7	ANN	wsti y llofftydd	---	NSNT
+
+
+429, 1	1422, 1-6	BEI	cael ddwy *loft* efo ei_gilydd sti	---	NST
+
+
+430, 1	1423, 1-2	ANN	yn un	NSNT	NSNT
+430, 3	1426, 1-7	ANN	wedi torri o gynta de a wedi	NSNT	NSNT
+430, 4	1426, 8-10	ANN	roid palis wedyn	NSNT	NSNT
+430, 5	1426, 11-12	ANN	mae *sure*	NST	NST
+430, 6	1428, 1-4	ANN	a Duw mae yn	NSNT	NSNT
+430, 7	1428, 5-6	ANN	mae yn	NSNT	NSNT
+430, 8	1428, 7-10	ANN	fedri di ddim tynnu	NSNT	NSNT
+430, 9	1428, 11-16	ANN	fedri di ddim symud y coedyn	---	NSNT
+
+
+431, 1	1429, 1-7	BEI	fysai raid fi dorri yr coed i_gyd	NSNT	NSNT
+431, 2	1429, 8-8	BEI	bysai	---	NSNT
+
+
+432, 1	1430, 1-6	ANN	a wedyn fysai fo ddim yn	NSNT	NSNT
+432, 2	1430, 7-10	ANN	werth wneud o os	NSNT	NSNT
+432, 3	1430, 11-18	ANN	na fedri di bwsio yr coed at ei_gilydd	NSNT	NSNT
+432, 4	1431, 1-4	ANN	achos mae yna lefydd	---	NSNT
+
+
+433, 1	1432, 1-7	CRI	*oh* *oh* ia bylchau rhyngthyn nhw te	---	NST
+
+
+434, 1	1433, 1-8	ANN	wedyn *um* dan ni wedi canslo yr syniad	NST	NST
+434, 2	1435, 1-5	ANN	a dan ni yn cael	NSNT	NSNT
+434, 3	1435, 6-6	ANN	carped	---	NSNT
+
+
+435, 1	1437, 1-13	BEI	ryw ddwy fodfedd o *gap* petaswn i yn hel o at ei_gilydd i_gyd	NST	NST
+435, 2	1439, 1-2	BEI	dyna fo	---	NSNT
+
+
+436, 1	1440, 1-9	ANN	a mae rheiny yn cymryd yn hir i ddŵad	NSNT	NSNT
+436, 2	1440, 10-10	ANN	sti	NSNT	NSNT
+436, 3	1441, 1-5	ANN	mae nhw yn deud y	NSNT	NSNT
+436, 4	1441, 6-9	ANN	bydd o tua tair	NSNT	NSNT
+436, 5	1441, 10-11	ANN	wsnos de	---	NSNT
+
+
+437, 1	1442, 1-1	CRI	carped	---	NSNT
+
+
+438, 1	1444, 1-8	ANN	wedyn dydy yr llofft yna ddim yn *er*	---	NST
+
+
+439, 1	1445, 1-7	CRI	o lle dach chi yn gael o	---	NSNT
+
+
+440, 1	1446, 1-1	ANN	*Criccieth*	---	NST
+
+
+441, 1	1448, 1-6	CRI	*yeah* dw i ddim yn meddwl	NST	NST
+441, 2	1448, 7-13	CRI	bod gynno fo ddim mewn *stock* wan	NST	NST
+441, 3	1448, 14-15	CRI	nag oes	---	NSNT
+
+
+442, 1	1449, 1-6	BEI	na cael nhw mewn mae nhw	NSNT	NSNT
+442, 2	1451, 1-3	BEI	aethon ni yno	NSNT	NSNT
+442, 3	1451, 4-11	BEI	oedd yna *lorry* yn dŵad â rolyn o	NST	NST
+442, 4	1451, 12-14	BEI	garped newydd yno	NSNT	NSNT
+442, 5	1451, 15-15	BEI	te	---	NSNT
+
+
+443, 1	1453, 1-4	CRI	oeddwn i yn *er*	NST	NST
+443, 2	1453, 5-6	CRI	ges i	NSNT	NSNT
+443, 3	1453, 7-8	CRI	carped *er*	NST	NST
+443, 4	1454, 1-3	CRI	le ges i	NSNT	NSNT
+443, 5	1454, 4-6	CRI	garped ddwytha dŵad	NSNT	NSNT
+443, 6	1455, 1-2	CRI	*oh* llofft	NST	NST
+443, 7	1456, 1-3	CRI	ia llofft i	---	NSNT
+
+
+444, 1	1458, 1-2	BEI	tair wythnos	---	NSNT
+
+
+445, 1	1459, 1-6	ANN	oedd yna *lot* o ddewis yna	---	NST
+
+
+446, 1	1460, 1-4	CRI	ryw bythefnos ddeudodd o	NSNT	NSNT
+446, 2	1460, 5-9	CRI	fysai fo yn gymryd *er*	NST	NST
+446, 3	1460, 10-11	CRI	fysai fo	NSNT	NSNT
+446, 4	1461, 1-6	CRI	mi gymerodd o dros dair wythnos	NSNT	NSNT
+446, 5	1461, 7-9	CRI	dw i *sure*	---	NST
+
+
+447, 1	1462, 3-7	ANN	mae wedi deud tair wsnos	NSNT	NSNT
+447, 2	1463, 1-10	ANN	a dw i wedi cael *mattress* newydd i yr gwely	NST	NST
+447, 4	1465, 1-9	ANN	a mae honno yn cymryd tair wsnos i fis	---	NSNT
+
+
+448, 1	1468, 1-3	BEI	ella daw honno	---	NSNT
+
+
+449, 1	1469, 1-2	ANN	wedyn *um*	---	NST
+
+
+450, 1	1471, 1-14	CRI	*oh* mae *Phill* *er* hogyn *Alan_Evans* *Trefor* yn dod acw heno hefyd efo cegin	---	NST
+
+
+451, 1	1472, 1-5	ANN	ti yn roi cegin newydd	---	NSNT
+
+
+452, 1	1473, 1-1	CRI	yndw	NSNT	NSNT
+452, 2	1473, 2-3	CRI	yndw *mmm*	NST	NST
+452, 3	1474, 1-3	CRI	mae *um* *er*	NST	NST
+452, 4	1475, 1-4	CRI	timod *shop* *tiles* *Bryncir*	NST	NST
+452, 5	1476, 1-2	CRI	mae rheiny	NSNT	NSNT
+452, 6	1476, 3-10	CRI	wedi bod acw ers tua tair wsnos wan	NSNT	NSNT
+452, 7	1476, 11-13	CRI	dw i *sure*	NST	NST
+452, 8	1477, 1-10	CRI	a bobl yna o *Nefyn* neu *Morfa_Nefyn* *Tu_Mewn* mae rheiny	NST	NST
+452, 9	1477, 11-16	CRI	wedi bod acw ers dros wsnos	---	NSNT
+
+
+453, 1	1478, 1-5	ANN	be wyt ti yn gael	---	NSNT
+
+
+454, 1	1479, 1-6	CRI	*well* dibynnu be sy gynnyn nhw	NST	NST
+454, 2	1480, 1-12	CRI	ryw ryw dim pren ryw liwiau ryw ryw y pethau eraill yma	NSNT	NSNT
+454, 3	1482, 1-2	CRI	golau de	NSNT	NSNT
+454, 4	1483, 1-3	CRI	dw i ddim	NSNT	NSNT
+454, 5	1483, 4-9	CRI	dw i ddim isio nhw wyn	NSNT	NSNT
+454, 6	1484, 1-7	CRI	a dw i ddim isio nhw sgleinio	NSNT	NSNT
+454, 7	1485, 1-4	CRI	os dyn nhw sgleinio	NSNT	NSNT
+454, 8	1485, 5-12	CRI	mae nhw yn dangos bob pen bys tydyn	NSNT	NSNT
+454, 10	1489, 1-12	CRI	wedyn wrth *um* *er* wneud yn llofft a pethau dw i wedi	NST	NST
+454, 11	1490, 1-7	CRI	dw i wedi cael gwared o gwely	NSNT	NSNT
+454, 12	1490, 8-16	CRI	oedd gen i yn llofft yn yn llofft i	NSNT	NSNT
+454, 13	1491, 1-3	CRI	dw i wedi	NSNT	NSNT
+454, 14	1491, 4-7	CRI	roid hwnnw i *Rhiannon*	NST	NST
+454, 15	1492, 1-11	CRI	wedyn dw i wedi cymryd gwery four foot o llofft bach	NSNT	SNT
+454, 16	1494, 1-11	CRI	a wedyn does gyn i mond lanastr yn llofft bach wan	NSNT	NSNT
+454, 17	1495, 1-8	CRI	a wedyn dw i wedi cael y brain_wave	SNT	SNT
+454, 18	1495, 9-11	CRI	petaswn i yn	NSNT	NSNT
+454, 19	1496, 2-9	CRI	mae gyn i dipyn bach o gypyrddau yn	NSNT	NSNT
+454, 21	1496, 31-39	CRI	lle mae yr microwave pethau ar ei ben o	NSNT	SNT
+454, 22	1500, 1-11	CRI	wedyn petaswn i rhoi mynd â rheiny i yr llofft bach	---	NSNT
+
+
+455, 1	1501, 1-4	ANN	basai gen ti le	NSNT	NSNT
+455, 2	1501, 5-5	ANN	bysai	---	NSNT
+
+
+456, 1	1502, 1-4	CRI	a microwave byswn i	NSNT	SNT
+456, 2	1502, 5-12	CRI	basai gyn i gegin bach yn fan yno	NSNT	NSNT
+456, 3	1502, 13-13	CRI	basai	SNT	NSNT
+456, 4	1503, 1-4	CRI	because mae yn hopeless	SNT	SNT
+456, 5	1503, 5-11	CRI	dydy pan pan ti cael ail_wneud cegin	NSNT	NSNT
+456, 6	1503, 12-12	CRI	dydy	NSNT	NSNT
+456, 7	1503, 13-13	CRI	wsti	NSNT	NSNT
+456, 9	1506, 1-12	CRI	wedyn o'n i meddwl baswn i mynd â dipyn bach o cypyrddau	NSNT	NSNT
+456, 10	1506, 13-16	CRI	de i fan yno	---	NSNT
+
+
+457, 1	1508, 1-7	ANN	gegin sy gyn i yn llofft wnïo	NSNT	NSNT
+457, 2	1508, 8-8	ANN	sti	NSNT	NSNT
+457, 3	1509, 1-7	ANN	mae nhw yn gwneud yn *great* yno	---	NST
+
+
+458, 1	1511, 1-2	CRI	basen nhw	NSNT	NSNT
+458, 2	1511, 3-6	CRI	basen nhw yn gwneud	NSNT	NSNT
+458, 3	1511, 7-14	CRI	basai yn gwneud cegin bach dros dro felly	NSNT	NSNT
+458, 4	1513, 1-5	CRI	achos mae yn anodd am	---	NSNT
+
+
+459, 1	1515, 1-2	ANN	storage dydy	---	SNT
+
+
+460, 1	1517, 1-8	CRI	dim *matter* o *just* diwrnod ydy o naci	---	NST
+
+
+462, 1	1519, 1-5	CRI	*oh* *oh* yn *oh* ia	---	NST
+
+
+463, 1	1520, 1-7	ANN	mae nhw yn cael llofft a chegin	NSNT	NSNT
+463, 2	1521, 1-2	ANN	a dyna	NSNT	NSNT
+463, 3	1521, 3-6	ANN	oedd *Gwenno* yn ddeud	NST	NST
+463, 4	1522, 1-2	ANN	mae *sure*	NST	NST
+463, 5	1522, 3-7	ANN	bydd raid i ni symud	NSNT	NSNT
+463, 6	1523, 1-1	ANN	meddai	NSNT	NSNT
+463, 7	1524, 1-6	ANN	mae nhw roi to newydd hefyd	NSNT	NSNT
+463, 8	1526, 1-5	ANN	a wedyn fydd yna ddim	NSNT	NSNT
+463, 9	1527, 1-11	ANN	*well* do ar y *front* yr un fath yn union hefyd	NST	NST
+463, 10	1527, 12-12	ANN	bydd	NSNT	NSNT
+463, 12	1529, 1-5	ANN	mae hi yn ryw obeithio	NSNT	NSNT
+463, 13	1529, 6-12	ANN	basen nhw medru aros yno a campio	NSNT	NSNT
+463, 14	1530, 1-4	ANN	ond sti hefo plant	NSNT	NSNT
+463, 15	1530, 5-7	ANN	mae yn anodd	NSNT	NSNT
+463, 16	1530, 8-8	ANN	dydy	NSNT	NSNT
+463, 17	1532, 1-8	ANN	wedyn mae yn debyg mai fyny i *Fron_deg*	NST	NST
+463, 18	1532, 9-10	ANN	fyddan nhw	NSNT	NSNT
+463, 19	1534, 1-3	ANN	yn gorfod sifftio	---	NSNT
+
+
+464, 1	1536, 1-3	CRI	*caravan* fan yno	---	NST
+
+
+465, 1	1537, 1-18	ANN	*ah* ia ond mae yn *job* efo *garavan* i gysgu yn ochr tŷ a ballu yn ganol pentre	NST	NST
+465, 2	1537, 19-21	ANN	yndy ddim dŵad	NSNT	NSNT
+465, 3	1538, 1-8	ANN	baswn i ddim yn hapus plant yna yn	NSNT	NSNT
+465, 4	1539, 1-5	ANN	*er* *Meirion* fel mae o	NST	NST
+465, 6	1541, 1-4	ANN	Iesu mae yn fywiog	NSNT	NSNT
+465, 7	1542, 1-3	ANN	mae yn ofnadwy	NSNT	NSNT
+465, 8	1543, 1-9	ANN	ond dw i ddim yn gwybod be wnân nhw	NSNT	NSNT
+465, 9	1544, 1-2	ANN	wsti os	NSNT	NSNT
+465, 11	1546, 1-10	ANN	mae hi yn gobeithio cael cychwyn wan yn o fuan	NSNT	NSNT
+465, 12	1546, 11-11	ANN	dydy	---	NSNT
+
+
+466, 1	1547, 1-3	BEI	llinell y môr	NSNT	NSNT
+466, 2	1549, 1-4	BEI	weld yn *glear* hollol	---	NST
+
+
+467, 1	1551, 1-5	ANN	yn y pen draw *yeah*	---	NST
+
+
+468, 1	1552, 1-4	BEI	mae nhw yn deud	NSNT	NSNT
+468, 2	1552, 5-10	BEI	de bod honna yn hollol *level*	NST	NST
+468, 3	1552, 11-14	BEI	â dy lygad ti	---	NSNT
+
+
+469, 1	1553, 1-6	ANN	o lle bynnag wyt ti felly	---	NSNT
+
+
+470, 1	1554, 1-6	BEI	ia o lle bynnag wyt ti	NSNT	NSNT
+470, 2	1557, 1-2	BEI	a felly	NSNT	NSNT
+470, 3	1558, 1-7	BEI	ryw ddyn oedd yn deud wrtha i	NSNT	NSNT
+470, 4	1559, 1-4	BEI	dw ddim yn gwybod	NSNT	NSNT
+470, 5	1560, 1-8	BEI	a felly ffeindio bod y byd yn grwn	NSNT	NSNT
+470, 6	1562, 1-5	BEI	wrth edrych i yr môr	---	NSNT
+
+
+471, 1	1563, 1-2	ANN	mae yn	NSNT	NSNT
+471, 2	1563, 4-4	ANN	mae	NSNT	NSNT
+471, 3	1563, 5-6	ANN	mae yn	---	NSNT
+
+
+472, 1	1564, 1-7	CRI	achos bod hi symud efo chdi felly	---	NSNT
+
+
+473, 1	1565, 1-8	BEI	*well* *yeah* deuda bod chdi mynd i_fyny ben	NST	NST
+473, 2	1567, 1-5	BEI	ti yn gweld yn bellach	NSNT	NSNT
+473, 3	1568, 1-6	BEI	ti yn dal yn *level* de	---	NST
+
+
+474, 1	1573, 1-1	ANN	be	---	NSNT
+
+
+475, 1	1574, 1-4	BEI	mae *Emlyn* wedi cyrraedd	---	NST
+
+
+476, 1	1576, 1-3	CRI	ydy o isio	NSNT	NSNT
+476, 2	1576, 4-7	CRI	ydy o isio parcio	NSNT	NSNT
+476, 4	1579, 1-6	CRI	dw i ar ei ffordd o	---	NSNT
+
+
+477, 1	1580, 1-3	BEI	ar *phone* wan	NST	NST
+477, 3	1582, 1-1	BEI	mae	---	NSNT
+
+
+478, 1	1584, 1-10	ANN	fydd yna *storm* yn dod i_mewn wan mewn dau funud	---	NST

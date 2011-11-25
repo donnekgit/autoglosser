@@ -1,0 +1,2595 @@
+
+
+1, 1	1, 1-12	AED	yr *um* *cam* *belt* yma ydy yr un fath â timing *belt*	ST	ST
+1, 2	2, 1-6	AED	ta ydy hwnna ddau beth wahanol	---	NSNT
+
+
+2, 1	3, 1-5	BED	yr un peth ydy o	---	NSNT
+
+
+3, 1	4, 1-5	AED	yr un peth ydy o	---	NSNT
+
+
+4, 1	5, 1-5	BED	fath â timing *chain* ers_talwm	---	ST
+
+
+5, 1	6, 1-6	AED	*oh* dyna fo ia ia ia	NST	NST
+5, 2	7, 1-16	AED	mae nhw deud ar_ôl hyn a hyn o filltiroedd ar *gar* bod isio chi newid yr	NST	NST
+5, 3	9, 1-4	AED	neu mae nhw deud	NSNT	NSNT
+5, 4	10, 1-4	AED	*oh* mae timing *belt*	ST	ST
+5, 5	11, 1-12	AED	dw i wedi wneud y timing *belt* pan caeth o service ddwytha	NST	ST
+5, 8	14, 1-9	AED	a dydy yr beltiau mond ychydig o bunnoedd nac	---	NSNT
+
+
+6, 1	15, 1-3	BED	*well* nac ydy	---	NST
+
+
+7, 1	16, 1-6	AED	ia a mae o gymaint o	NSNT	NSNT
+7, 2	16, 7-7	AED	werth	NSNT	NSNT
+7, 3	16, 8-9	AED	mae *sure*	NST	NST
+7, 4	16, 11-16	AED	petaswn i yn prynu yn enwedig	NSNT	NSNT
+7, 5	16, 17-27	AED	petaswn i yn prynu *car* â dipyn o fileage arno fo	---	ST
+
+
+8, 1	18, 1-1	BED	hollol	---	NSNT
+
+
+9, 1	19, 1-8	AED	*yeah* *yeah* neu mae yr costau yn gythreulig	NST	NST
+9, 2	19, 9-9	AED	dydy	---	NSNT
+
+
+10, 1	20, 1-3	BED	arglwydd mawr yndy	NSNT	NSNT
+10, 2	20, 4-8	BED	mae yn gostus gostus ofnadwy	---	NSNT
+
+
+11, 1	22, 1-16	AED	ia wedyn dyna be o'n i meddwl wneud gwerthu yr hen *van* a prynu car bach	NST	NST
+11, 2	24, 1-2	AED	ia wedyn	---	NSNT
+
+
+12, 1	25, 1-7	BED	mae yn amser iawn i brynu wan	NSNT	NSNT
+12, 2	25, 8-8	BED	mae	NSNT	NSNT
+12, 3	25, 9-9	BED	mae	NSNT	NSNT
+12, 4	25, 10-10	BED	yr	NSNT	NSNT
+12, 5	25, 11-18	BED	mae yr prisiau lawr ar hyn o bryd	NSNT	NSNT
+12, 6	25, 19-21	BED	yn_de prisiau ceir	---	NSNT
+
+
+13, 1	28, 1-2	AED	dw i	NSNT	NSNT
+13, 2	28, 3-8	AED	wedi bod yn sbïo yn papur	NSNT	NSNT
+13, 3	28, 9-9	AED	wchi	NSNT	NSNT
+13, 4	29, 1-3	AED	a dw i	NSNT	NSNT
+13, 5	29, 4-11	AED	wedi bod yn ddwy neu dair o *garages*	NST	NST
+13, 6	30, 1-6	AED	a sbïo papur wan gwahanol *garages*	NST	NST
+13, 7	31, 1-8	AED	ambell i fodel *car* yn ddrud gythreulig de	NST	NST
+13, 8	32, 1-4	AED	ond es i i	NSNT	NSNT
+13, 9	33, 1-14	AED	cofio ni sôn gynnau am yr *um* y merched yma yn gwneud gwahanol swyddi	NST	NST
+13, 10	35, 1-8	AED	*well* *um* es i *garage* *Volvo* yn *Llanfair_P_G*	NST	NST
+13, 11	36, 1-4	AED	ac prif salesman hogan	NSNT	SNT
+13, 12	38, 1-5	AED	ia hogan bach *nice* ofnadwy	NST	NST
+13, 13	40, 1-13	AED	*um* gweld *car* *um* o'n i cymryd mewn part_ex oedd o *um* *Volkswagen_Lupo*	ST	ST
+13, 14	42, 1-3	AED	one *point* four	ST	NST
+13, 15	44, 1-10	AED	*well* o yn *gar* bach glân heb bod rhy fawr	NST	NST
+13, 16	44, 11-12	AED	de taclus	NSNT	NSNT
+13, 18	47, 1-4	AED	mae hi o_dan ddau_ddeg_pump	NSNT	NSNT
+13, 19	47, 5-5	AED	dydy	NSNT	NSNT
+13, 20	48, 1-6	AED	mae yr *insurance* mynd yn ddrud	NST	NST
+13, 21	49, 1-12	AED	a be arall oedd yna un glân ofnadwy *um* *er* *Nissan_Micra* bach	ST	NST
+13, 22	51, 1-7	AED	*um* thousand *yeah* one one one *litre*	ST	NST
+13, 23	53, 1-7	AED	*insurance* isel a rhad i redeg de	NST	NST
+13, 24	55, 1-7	AED	ond *um* dw i ddim yn gwybod	---	NST
+
+
+14, 1	57, 1-4	BED	*oh* bydd hollol hollol	NST	NST
+14, 2	58, 1-6	BED	ia basen nhw ddim yn cymryd	NSNT	NSNT
+14, 3	58, 7-10	BED	basen nhw ddim *er*	NST	NST
+14, 4	58, 11-15	BED	oedd o ddim isio gwybod	---	NSNT
+
+
+15, 1	59, 1-4	AED	na oedden gwrthod part_ex	SNT	SNT
+15, 2	59, 5-6	AED	oedd rheiny	NSNT	NSNT
+15, 3	61, 1-10	AED	yn_erbyn *car* newydd oedden nhw ddim isio gwybod efo *van*	---	NST
+
+
+16, 1	62, 1-6	BED	ia oedd o ddim isio gwybod	---	NSNT
+
+
+17, 1	63, 1-9	AED	a dyn nhw ddim yn gwneud commercial anyway nac	NSNT	SNT
+17, 2	63, 10-10	AED	ydyn	---	NSNT
+
+
+18, 1	64, 1-4	BED	nac ydyn wrth_gwrs nac	NSNT	NSNT
+18, 2	64, 5-5	BED	ydyn	---	NSNT
+
+
+19, 1	65, 1-7	AED	ac es i *garage* *um* yn *Bethel*	---	NST
+
+
+20, 1	66, 1-2	BED	*oh* *Gary_Wyn*	---	NST
+
+
+21, 1	67, 1-2	AED	*Gary_Wyn* *yeah*	ST	NST
+21, 2	68, 1-3	AED	ac oedd *um*	---	NST
+
+
+22, 1	69, 1-4	BED	basai fo yn gwneud	NSNT	NSNT
+22, 2	69, 5-8	BED	petasai yna rywbeth yna	---	NSNT
+
+
+23, 1	70, 1-2	AED	*oh* basai	NST	NST
+23, 2	70, 3-6	AED	basai fo yn gwneud	NSNT	NSNT
+23, 3	71, 1-16	AED	ond basai fo ddim yn roi gymaint o bris i mi gwerthu yr *van* yn *private*	---	NST
+
+
+24, 1	72, 1-3	BED	*oh* na fysai	---	NST
+
+
+25, 1	73, 1-5	AED	achos *um* y ydy hon	NST	ST
+25, 2	74, 1-6	AED	a thirty_nine thousand mae wedi wneud	NSNT	SNT
+25, 3	76, 1-2	AED	mae lân	NSNT	NSNT
+25, 4	76, 3-3	AED	dydy	NSNT	NSNT
+25, 5	78, 1-14	AED	a wedyn o'n i yn disgwyl colli rywfaint arni mewn blwyddyn ar_ôl phrynu hi	NSNT	NSNT
+25, 6	79, 1-9	AED	ond do'n i ddim isio colli cannoedd chwaith de	NSNT	NSNT
+25, 7	81, 1-5	AED	a mae yna V_A_T arni	NSNT	SNT
+25, 8	81, 6-6	AED	does	NSNT	NSNT
+25, 9	83, 1-5	AED	wedyn *um* oedd *Gary_Wyn* deud	NST	NST
+25, 10	84, 1-5	AED	tria gwerthu hi yn *brivate*	NST	NST
+25, 11	85, 1-2	AED	meddai o	NSNT	NSNT
+25, 12	86, 1-7	AED	a os na fedri di *well* mi	NST	NST
+25, 13	86, 8-14	AED	ffeindian ni rywbeth i chdi mewn amser	NSNT	NSNT
+25, 14	87, 1-2	AED	meddai o	NSNT	NSNT
+25, 15	88, 1-10	AED	pan wneith yr *garage* yr *er* *sales* yma ddechrau wan	NST	NST
+25, 16	89, 1-2	AED	meddai o	NSNT	NSNT
+25, 17	90, 1-3	AED	drost y Dolig	NSNT	NSNT
+25, 18	92, 1-8	AED	o'n i wedi bod yna yr flwyddyn newydd	---	NSNT
+
+
+26, 1	94, 2-3	BED	mae hi	---	NSNT
+
+
+27, 1	95, 1-2	AED	ia duwcs	---	NSNT
+
+
+28, 1	96, 1-13	BED	ond *er* *um* yn y ia siarad am y *sales* o'n i wrth_gwrs	NST	NST
+28, 2	97, 1-6	BED	mae ceir yn fan yno yn	NSNT	NSNT
+28, 3	97, 7-14	BED	mae nhw *right* rhad wan deud y gwir	NST	NST
+28, 5	100, 1-12	BED	o fan yna mae nhw prynu nhw wrth_gwrs ac ailwerthu nhw wedyn	NSNT	NSNT
+28, 6	101, 1-5	BED	yr un peth ydy o	---	NSNT
+
+
+29, 1	102, 1-11	AED	es i i *Brickhouse* i brynu *car* i yr ferch hyna	NST	NST
+29, 2	104, 1-2	AED	ac digwydd	NSNT	NSNT
+29, 3	104, 3-11	AED	bod o'n i wedi mynd â *mechanic* efo fi	ST	NST
+29, 4	105, 1-9	AED	because dw i ddim yn dallt digon ar geir	---	SNT
+
+
+30, 1	107, 1-2	BED	dyna fo	---	NSNT
+
+
+31, 1	108, 1-7	AED	ond *um* pan es i yna duwcs	NST	NST
+31, 2	108, 8-14	AED	oedd yna ddau dri o *Bethesda* yna	NST	NST
+31, 3	110, 1-9	AED	a rei efo *garages* hefyd hyd lle yma de	NST	NST
+31, 4	111, 1-16	AED	a mi ges i *um* y nghynghori nghynghori *right* dda gyn yr hogiau chwarae teg nhw	NST	NST
+31, 5	113, 1-6	AED	a mi brynais i *um* *Vauxhall_Corsa*	NST	NST
+31, 6	115, 1-3	AED	*um* *handy* ofnadwy	NST	NST
+31, 8	118, 1-7	AED	*um* heb wneud llawer o fileage de	NST	ST
+31, 9	119, 1-15	AED	a sun_roof a teiars gwerth chweil a bob peth *M_O_T* a bob peth arno fo	NST	ST
+31, 10	120, 1-5	AED	ac oedd o gymaint rhatach	NSNT	NSNT
+31, 11	121, 1-8	AED	oedd o tua mil o bunnoedd rhatach na	NSNT	NSNT
+31, 12	121, 9-17	AED	be baswn i medru brynu yn *garage* ffordd yma	---	NST
+
+
+32, 1	122, 1-3	BED	*oh* mae nhw	---	NST
+
+
+33, 1	123, 1-10	AED	wedyn mae hwnnw wedi dal ei bris *right* dda wan	NST	NST
+33, 2	123, 11-13	AED	dydy mewn ffordd	---	NSNT
+
+
+34, 1	124, 1-2	BED	mae nhw	---	NSNT
+
+
+35, 1	125, 1-10	AED	baswn i medru werthu o wan am yr un pris	NSNT	NSNT
+35, 2	125, 11-15	AED	â be o'n i wedi	NSNT	NSNT
+35, 3	125, 16-20	AED	roid am *sale* amdano fo	---	NST
+
+
+36, 1	126, 1-1	BED	hollol	---	NSNT
+
+
+37, 1	127, 1-7	AED	ia ond baswn i yr ofn mentro	SNT	NSNT
+37, 2	128, 1-6	AED	because mae *Brickhouse* yna le mawr	NST	ST
+37, 3	128, 7-7	AED	dydy	---	NSNT
+
+
+38, 1	129, 1-3	BED	*oh* wannwyl ydy	---	NST
+
+
+39, 1	130, 1-7	AED	a mae yna geir yn mynd drwyddo	NSNT	NSNT
+39, 2	130, 8-11	AED	does a ceir da	NSNT	NSNT
+39, 3	131, 1-5	AED	ceir blwydd deuflwydd oed de	---	NSNT
+
+
+40, 1	132, 1-5	BED	cannoedd o geir mynd trwyddo	---	NSNT
+
+
+41, 1	133, 1-2	AED	*well* oes	NST	NST
+41, 2	135, 2-4	AED	myn diân i	NSNT	NSNT
+41, 3	136, 1-3	AED	ond dyna fo	NSNT	NSNT
+41, 4	136, 4-4	AED	dyna	NSNT	NSNT
+41, 5	136, 5-10	AED	ydy *trade* y ceir yn digwydd	NST	NST
+41, 6	136, 11-11	AED	bod	---	NSNT
+
+
+42, 1	137, 1-4	BED	ond mae yn digwydd	NSNT	NSNT
+42, 2	137, 5-12	BED	bod yn amser distaw ar_ôl Dolig bob amser	---	NSNT
+
+
+43, 1	140, 1-9	AED	pres yn dynn a dim gymaint yn newid felly	---	NSNT
+
+
+44, 1	141, 1-2	BED	ia dyna	NSNT	NSNT
+44, 2	141, 3-6	BED	be ydy o *lot*	NST	NST
+44, 3	143, 1-10	BED	os ydy rywun isio bargen wan i_fyny i mis Ebrill	---	NSNT
+
+
+45, 1	145, 1-10	AED	Duw annwyl petaswn medru gwerthu yr hen *van* yn *brivate*	NST	NST
+45, 2	145, 11-19	AED	basai ryw ddiwrnod i_fyny yn *Brickhouse* ddim bad yn_basai	---	ST
+
+
+46, 1	146, 1-3	BED	iawn talu iawn	---	NSNT
+
+
+47, 1	148, 1-7	AED	*yeah* er bod hi yn bell hefyd	NST	NST
+47, 2	149, 1-11	AED	oes yna le yn Manchester dwch *Bellevue* neu rywbeth yn Manchester	---	ST
+
+
+48, 1	150, 1-6	BED	le agosach i chdi mae *Whitchurch*	---	NST
+
+
+49, 1	151, 1-7	AED	duwcs oes *sale* fawr yn fan yno	---	NST
+
+
+50, 1	152, 1-1	BED	wrth_gwrs	---	NSNT
+
+
+51, 1	155, 1-13	AED	a ydy yr ceir yr un fath yr un rhesymol mor resymol felly	---	NSNT
+
+
+52, 1	157, 1-7	BED	dydy o ddim gymaint o le wrth_gwrs	NSNT	NSNT
+52, 2	158, 1-5	BED	ond mae yr un ceir	NSNT	NSNT
+52, 3	159, 1-3	BED	*oh* ydy hollol	---	NST
+
+
+53, 1	160, 1-19	AED	ia because ceir o'n i weld yn yn y *Brickhouse* yna oedden nhw yn geir fleet *cars* ac ati	NST	ST
+53, 2	160, 20-28	AED	de ryw mileage bychan newid nhw bob dwy flynedd	SNT	SNT
+53, 3	161, 1-5	AED	service *history* a bob peth	---	ST
+
+
+54, 1	162, 1-5	BED	mileage mawr yna hefyd does	NSNT	SNT
+54, 2	163, 1-1	BED	dyna	NSNT	NSNT
+54, 3	163, 2-3	BED	ydy peth	---	NSNT
+
+
+55, 1	164, 3-5	AED	mae ambell un	NSNT	NSNT
+55, 2	165, 1-10	AED	dydyn nhw ddim yn gwneud llawer o bris nag ydyn	---	NSNT
+
+
+56, 1	166, 1-2	BED	nag ydy	---	NSNT
+57, 2	167, 19-29	AED	oedd y ceir efo mileage bychan ew bris da arnyn nhw	NSNT	SNT
+57, 3	169, 1-4	AED	dal eu prisiau felly	NSNT	NSNT
+57, 4	170, 1-3	AED	oedden nhw yn	NSNT	NSNT
+57, 5	170, 4-9	AED	oedden nhw yn yn yn pwysleisio	NSNT	NSNT
+57, 6	170, 10-15	AED	bod yna fileage bychan arnyn nhw	NSNT	SNT
+57, 7	170, 16-16	AED	doedden	NSNT	NSNT
+57, 9	172, 1-6	AED	a wedyn oeddech chi yn deud	NSNT	NSNT
+57, 10	173, 1-4	AED	*oh* beth am hwnna	NST	NST
+57, 11	175, 1-4	AED	oedd yna ryw *um*	NST	NST
+57, 12	175, 5-18	AED	be oedd o dwch yn yn *Bethel* yna *um* *oh* *um* *Peugeot_two_oh_six* taclus glân	NST	NST
+57, 13	176, 1-7	AED	ew a registration *oh* one dw meddwl	NST	ST
+57, 14	176, 9-11	AED	ei blatiau fo	NSNT	NSNT
+57, 16	179, 1-3	AED	*right* *fresh* doedd	NST	NST
+57, 17	180, 1-6	AED	*oh* ti ddim isio twtsiad hwnna	NST	NST
+57, 18	181, 1-2	AED	meddai o	NSNT	NSNT
+57, 19	182, 1-7	AED	mae yr mileage fychan eighty_two thousand rywbeth	NSNT	SNT
+57, 20	183, 1-13	AED	ond dydy eighty_two thousand ddim llawer i i yr yr oes yma nac	NSNT	SNT
+57, 21	183, 14-14	AED	ydyn	---	NSNT
+
+
+58, 1	184, 1-8	BED	y peth ydy isio sbïo arni fel hyn	NSNT	NSNT
+58, 2	185, 1-9	BED	faint o fileage mae rywun yn wneud mewn blwyddyn	NSNT	SNT
+58, 3	185, 10-11	BED	ei hun	NSNT	NSNT
+58, 4	187, 1-11	BED	a faint o be mae nhw yn deud average mileage ryw	NSNT	SNT
+58, 5	188, 1-3	BED	faint ydy o	NSNT	NSNT
+58, 6	189, 1-7	BED	ryw twelve thousand ballu ydy average mileage	SNT	SNT
+58, 7	190, 1-14	BED	mae rywun ella fod nhw wneud dipyn bach llai ella ten ten twelve thousand	SNT	SNT
+58, 8	192, 1-5	BED	mae rei wneud mwy wrth_gwrs	NSNT	NSNT
+58, 9	193, 1-18	BED	ond os ydy rywun ddim wneud llawer o fileage a prynu *car* ddeudan ni wedi gwneud eighty thousand	ST	ST
+58, 10	193, 19-26	BED	a bod o ddeudan ni yn dair oed	NSNT	NSNT
+58, 11	195, 1-10	BED	wyt ti ddim yn wneud llawer o fileage mewn blwyddyn	NSNT	SNT
+58, 12	195, 11-15	BED	mae mileage yna dod lawr	NSNT	SNT
+58, 13	197, 1-9	BED	a mewn dwy flynedd mae wedi dod lawr wedyn	NSNT	NSNT
+58, 14	199, 1-16	BED	wedyn mae o yn gweithio allan yn weithiau y y mileage wedi dod lawr yn *normal*	---	ST
+
+
+59, 1	200, 2-8	AED	yndy neu yn is na yr average	---	SNT
+
+
+60, 1	201, 1-2	BED	neu llai	NSNT	NSNT
+60, 2	203, 1-3	BED	llai nag average	SNT	SNT
+60, 3	205, 1-7	BED	wedyn mae isio sbïo arni felly hefyd	---	NSNT
+
+
+61, 1	207, 1-7	AED	ond yr ofn prynu sy gynno *lot*	NST	NST
+61, 2	207, 8-9	AED	mae *sure*	NST	NST
+61, 3	207, 10-22	AED	de ofn prynu *car* efo mileage uchel rhag ofn bod o wedi amharu	NST	ST
+61, 4	209, 1-7	AED	unig beth efo hynny ydy hyn hefyd	---	NSNT
+
+
+62, 1	210, 1-13	BED	os ydy *car* efo mileage mawr a wedi gwneud *er* motorway motoring *oh*	ST	ST
+62, 2	210, 14-16	BED	tydy ddim ots	---	NSNT
+
+
+63, 1	212, 1-2	AED	nac ydy	---	NSNT
+
+
+64, 1	213, 1-2	BED	mae o	NSNT	NSNT
+64, 2	213, 3-10	BED	mae hwnna well injan o lawer na injan	NSNT	NSNT
+64, 3	213, 11-21	BED	sy yn cael mond wneud ryw fileage bach a stopio startio	NSNT	SNT
+64, 4	215, 1-12	BED	achos mae cymryd tua ugain munud i bob injan gynhesu yn iawn	NSNT	NSNT
+64, 5	217, 1-12	BED	a wedyn *um* mae *lot* mond mynd lawr i pentre i nôl	NST	NST
+64, 6	217, 13-18	BED	timod i nôl dipyn o neges	NSNT	NSNT
+64, 7	219, 1-5	BED	a mae switch_off ac yn_ôl	NSNT	SNT
+64, 8	220, 1-12	BED	ella bod o mond yn gwneud ddeudan ni ugain milltir mewn wsnos	NSNT	NSNT
+64, 9	221, 1-9	BED	neu ddeudan ni bod o wneud hanner cant o	NSNT	NSNT
+64, 10	221, 10-11	BED	lici di	NSNT	NSNT
+64, 11	222, 1-11	BED	ond ti gweld dydy yr injan yna ddim wedi cael cynhesu	---	NSNT
+
+
+65, 1	223, 1-4	AED	nac ydy *sure* nac	NST	NST
+65, 2	223, 5-6	AED	ydy nac	---	NSNT
+
+
+66, 1	224, 1-17	BED	petasai *chap* yn mynd efo *car* o yma i Llundain ac ac adre nôl unwaith yr wsnos	NST	NST
+66, 2	226, 1-5	BED	*oh* basai yr mileage i_fyny	NST	ST
+66, 3	227, 1-6	BED	ond mae yr injan yn well	---	NSNT
+
+
+67, 1	228, 1-2	AED	yndy *sure*	NST	NST
+67, 2	229, 1-11	AED	a bosib bod yna fwy o bobl yn service_io eu ceir	NSNT	NSNT
+67, 3	229, 12-19	AED	os ydyn nhw yn gwneud *lot* o fileage	ST	ST
+67, 4	229, 20-27	AED	de bod o yn cael mynd mewn a	---	NSNT
+
+
+68, 1	231, 1-5	BED	mae *oil* mor dda heddiw	NST	NST
+68, 2	231, 6-6	BED	te	NSNT	NSNT
+68, 3	232, 1-8	BED	wyddost ti tydy pobl ers_talwm doeddet ti ddim	NSNT	NSNT
+68, 5	234, 1-9	BED	does yna ddim sôn am bethau fel yna heddiw	NSNT	NSNT
+68, 6	235, 1-5	BED	mae *oil* mor dda heddiw	NST	NST
+68, 7	235, 6-11	BED	does yna ddim sôn amdano fo	NSNT	NSNT
+68, 9	237, 1-14	BED	does yna neb yn tynnu injan wrth ei_gilydd i roi *pistons* yni a rings	---	ST
+
+
+69, 1	238, 1-2	AED	nag oes	NSNT	NSNT
+69, 2	238, 3-4	AED	nag oes	NSNT	NSNT
+69, 3	238, 5-6	AED	nag oes	---	NSNT
+
+
+70, 1	239, 1-2	BED	*ho* basai	NST	NST
+70, 2	239, 3-10	BED	basai neb ohonon wedi tynnu *cylinder* head i_ffwrdd	---	ST
+
+
+71, 1	240, 1-2	AED	am bod	NSNT	NSNT
+71, 2	240, 3-17	AED	safon yr *oil* wedi gwella felly *yeah* ac yn edrych ar_ôl yr injan yn well	---	NST
+
+
+72, 1	242, 1-3	BED	*oh* *yeah* fedr	NST	NST
+72, 2	243, 1-7	BED	*well* ia fedr o fod dim_byd arall	NST	NST
+72, 3	243, 8-9	BED	na fedr	---	NSNT
+
+
+73, 1	244, 1-5	AED	*well* na fedr *sure* na	---	NST
+
+
+74, 1	245, 1-7	BED	*yeah* *well* wrth_gwrs dw ddim yn deud	NST	NST
+74, 2	245, 8-13	BED	mae design wedi newid dipyn bach	NSNT	SNT
+74, 3	246, 1-5	BED	ond yr *oil* sy *er*	NST	NST
+74, 4	247, 1-6	BED	mae yr *oil* wedi altro yn	---	NST
+
+
+75, 1	248, 1-4	AED	hwnnw sy yn cadw	---	NSNT
+
+
+76, 1	249, 1-6	BED	ia hwnnw ydy yr peth ia	NSNT	NSNT
+76, 2	251, 1-5	BED	wedyn mae o yn ew	NSNT	NSNT
+76, 3	251, 6-8	BED	mae o yn	NSNT	NSNT
+76, 4	252, 1-18	BED	*well* ddeud y gwir i rywun newid *oil* fel mae rywun i fod i wneud a *filter* Duw	NST	NST
+76, 5	252, 19-24	BED	basai yr *car* wneud am byth	NST	NST
+76, 6	254, 1-6	BED	a bod yn *honest* efo mileage	ST	ST
+76, 7	254, 7-9	BED	mae rywun wneud	NSNT	NSNT
+76, 8	254, 11-13	BED	oes yna ddim	NSNT	NSNT
+76, 9	254, 14-17	BED	oes yna ddim *problem*	NST	NST
+76, 10	257, 1-9	BED	ond mae yna *lot* o bobl ddim yn gwneud	NST	NST
+76, 11	258, 1-7	BED	mae nhw *just* yn cymryd y *car*	NST	NST
+76, 12	259, 1-5	BED	a wedyn mae nhw deud	NSNT	NSNT
+76, 13	260, 1-8	BED	*oh* ia mae isio mynd â fo i	NST	NST
+76, 14	261, 1-6	BED	faint mae o wedi wneud wan	NSNT	NSNT
+76, 15	262, 1-6	BED	pryd gaeth o newid *oil* ddwytha	NST	NST
+76, 16	263, 1-5	BED	Duw dw ddim yn cofio	NSNT	NSNT
+76, 17	265, 1-3	BED	*oh* mae gofyn	NST	NST
+76, 18	265, 4-6	BED	roid o lawr	NSNT	NSNT
+76, 19	265, 7-13	BED	pan mae rywun yn cael newid *oil*	---	NST
+
+
+77, 1	266, 1-2	AED	yndy *sure*	---	NST
+
+
+78, 1	267, 1-3	BED	os ydy neu	NSNT	NSNT
+78, 2	267, 4-9	BED	os ydy rywun yn wneud o	NSNT	NSNT
+78, 3	267, 10-11	BED	ei hun	NSNT	NSNT
+78, 4	268, 1-11	BED	*well* wrth_gwrs ydy o yn cael mynd â fo i *garage*	NST	NST
+78, 5	268, 12-15	BED	mae yn cael *bill*	NST	NST
+78, 6	269, 1-9	BED	wedyn fedr o sbïo pryd gaeth o ei wneud	NSNT	NSNT
+78, 8	272, 1-8	BED	ond mae yn bwysig efo *filter* ac *oil*	NST	NST
+78, 9	274, 1-3	BED	a dyna be	SNT	NSNT
+78, 10	275, 1-4	BED	air_filter yn un peth	NSNT	SNT
+78, 11	277, 1-11	BED	efo *petrol* *consumption* a yr *oil* *filter* a yr *oil* de	NST	NST
+78, 12	279, 1-5	BED	wedyn does yna ddim *problem*	---	NST
+
+
+79, 1	280, 1-8	AED	hefo *diesel* wan mae nhw deud i mi	NST	NST
+79, 2	280, 9-16	AED	bod isio newid *oil* yn amlach efo *diesel*	---	NST
+
+
+80, 1	281, 1-9	BED	os fyddi di wneud os hi wneud *short* journeys	ST	ST
+80, 3	284, 1-4	BED	ia dyna rheswm pam	---	NSNT
+
+
+81, 1	286, 1-6	AED	be sy yn bildio fyny felly	---	NSNT
+
+
+82, 1	287, 1-7	BED	*well* mae *lot* o *garbon* a bethau	NST	NST
+82, 2	288, 1-5	BED	a mae pethau yn wahanol	NSNT	NSNT
+82, 3	289, 1-3	BED	mae gweithio wahanol	NSNT	NSNT
+82, 4	289, 4-4	BED	tydy	NSNT	NSNT
+82, 5	291, 1-8	BED	a wedyn *er* ar mae hi yn gweithio	NST	NST
+82, 6	291, 9-9	BED	wsti	NSNT	NSNT
+82, 7	292, 1-4	BED	*er* a wedyn mae	NST	NST
+82, 8	293, 1-5	BED	mae yna gymaint o bethau	NSNT	NSNT
+82, 9	294, 1-3	BED	dwn i ddim	NSNT	NSNT
+82, 10	294, 4-6	BED	mae yn injan	NSNT	NSNT
+82, 11	295, 1-4	BED	*well* mae yn injan	NST	NST
+82, 12	295, 5-10	BED	baswn i yn deud i gynhesu	NSNT	NSNT
+82, 13	296, 1-5	BED	mae yn oerach injan oerach	NSNT	NSNT
+82, 14	296, 6-8	BED	de i gynhesu	NSNT	NSNT
+82, 15	298, 1-5	BED	ddŵad unwaith mae wedi twymo	NSNT	NSNT
+82, 16	298, 6-10	BED	mae yn dŵad yn iawn	NSNT	NSNT
+82, 17	300, 1-5	BED	ond *er* baswn i ddim	NST	NST
+82, 18	301, 1-4	BED	*well* mae *diesel* heddiw	NST	NST
+82, 19	301, 5-11	BED	mae nhw wneud two hundred thousand a	---	SNT
+
+
+83, 1	302, 2-3	AED	mae nhw	NSNT	NSNT
+83, 2	302, 4-4	AED	wchi	---	NSNT
+
+
+84, 1	303, 1-3	BED	dydy o ddim_byd	NSNT	NSNT
+84, 2	304, 1-3	BED	dydy o ddim_byd	---	NSNT
+
+
+85, 1	306, 3-4	AED	dyna *yeah*	NST	NST
+85, 2	306, 5-5	AED	dyna	NSNT	NSNT
+85, 3	306, 6-6	AED	dyna	NSNT	NSNT
+85, 4	306, 7-10	AED	mae nhw sôn wan	NSNT	NSNT
+85, 5	306, 11-12	AED	de yr	NSNT	NSNT
+85, 6	307, 1-12	AED	mae yr Japanese wan *yeah* *er* yn dechrau mesitroli yr farchnad ceir	NST	ST
+85, 7	307, 13-13	AED	dydy	NSNT	NSNT
+85, 8	309, 1-8	AED	yn *America* wan mae *Ford* mynd allan ohoni	NST	NST
+85, 9	309, 9-9	AED	dydy	NSNT	NSNT
+85, 10	311, 1-11	AED	yr yr *er* fuel guzzlers mawr yma mae nhw wneud *America*	NST	ST
+85, 11	311, 12-23	AED	mae *Ford* yn gorod torri lawr ar ar y math o geir	NST	NST
+85, 12	311, 24-27	AED	mae nhw wneud wan	---	NSNT
+
+
+86, 1	314, 1-3	BED	*oh* yndy hollol	---	NST
+
+
+87, 1	315, 1-15	AED	mae yr injan *Toyota* neu yr injan yr *car* *Toyota* wedi cymryd drosodd yn *America*	---	NST
+
+
+88, 1	317, 1-3	BED	*oh* mae fyny	NST	NST
+88, 2	317, 4-8	BED	sut mae rywun yn yn	NSNT	NSNT
+88, 3	318, 1-8	BED	*er* *er* yn ddadl i oedd *er* *er*	NST	NST
+88, 4	319, 1-17	BED	fyddwn i weithiau yn cael *trouble* efo efo *insurance* a weithiau weithiau yn gorod mynd i cwrt	NST	NST
+88, 5	320, 1-3	BED	wrth mod i	NSNT	NSNT
+88, 6	321, 1-2	BED	*er* dyna	NST	NST
+88, 7	321, 3-8	BED	be oedd y ngwaith i rheoli	NSNT	NSNT
+88, 8	322, 1-4	BED	*oh* dyna fo *er*	NST	NST
+88, 11	327, 1-6	BED	a weithiau o'n i cael damwain	NSNT	NSNT
+88, 12	328, 1-6	BED	dw i cofio cael damwain unwaith	NSNT	NSNT
+88, 13	329, 1-6	BED	a oedd o yn hen *gar*	NST	NST
+88, 14	330, 1-12	BED	ond *er* dyma ni yn deud wrth y wrth y twrnai felly	NST	NST
+88, 15	331, 1-7	BED	*er* *boy* *insurance* yn dod *round* deud	NST	NST
+88, 16	332, 1-5	BED	*oh* *yeah* dyma be ydy	NST	NST
+88, 17	332, 6-7	BED	werth o	NSNT	NSNT
+88, 18	333, 1-2	BED	meddai o	NSNT	NSNT
+88, 19	334, 1-3	BED	dyma fi deud	NSNT	NSNT
+88, 20	335, 1-3	BED	naci dim dyna	NSNT	NSNT
+88, 21	335, 4-5	BED	be ydy	NSNT	NSNT
+88, 22	335, 6-7	BED	werth o	NSNT	NSNT
+88, 23	336, 1-13	BED	a dyma yn deud yr *er* estimate_io wan de pris i mi felly	NST	ST
+88, 24	338, 1-5	BED	a dyma yn deud *er*	NST	NST
+88, 25	339, 1-6	BED	*well* dyma fo ei flwyddyn o	NST	NST
+88, 26	341, 1-8	BED	wedyn dyma be mae yr llyfr yn ddeud	NSNT	NSNT
+88, 27	341, 10-11	BED	werth o	NSNT	NSNT
+88, 28	342, 1-8	BED	ia ond tydy ddim yn gweithio fel yna	NSNT	NSNT
+88, 29	343, 1-2	BED	meddai fi	NSNT	NSNT
+88, 30	344, 1-9	BED	*well* mae raid bod hi yn gweithio fel yna	NST	NST
+88, 31	345, 1-3	BED	nac ydy tad	NSNT	NSNT
+88, 32	346, 1-3	BED	meddai fi wrtho	NSNT	NSNT
+88, 33	347, 1-6	BED	ofynna i *guestion* i chdi wan	NST	NST
+88, 34	348, 1-3	BED	meddai fi wrtho	NSNT	NSNT
+88, 35	349, 1-5	BED	ti prynu car newydd heddiw	NSNT	NSNT
+88, 36	350, 1-6	BED	dw i prynu *car* newydd heddiw	NST	NST
+88, 37	352, 1-7	BED	ti yn gwatsiad ar_ôl dy *gar* di	NST	NST
+88, 38	353, 1-6	BED	dw i malu yn un i	NSNT	NSNT
+88, 39	354, 1-5	BED	ydy yr ddau yr un	NSNT	NSNT
+88, 40	354, 6-8	BED	gwerth yn diwedd	---	NSNT
+
+
+89, 1	355, 1-3	AED	*yeah* yn union	---	NST
+
+
+90, 1	356, 1-2	BED	nac ydy	NSNT	NSNT
+90, 2	357, 1-3	BED	meddai fi wrtho	NSNT	NSNT
+90, 3	358, 1-2	BED	tydy ddim	NSNT	NSNT
+90, 4	360, 1-4	BED	a bob amser ennill	NSNT	NSNT
+90, 5	361, 1-3	BED	mynd i cwrt	NSNT	NSNT
+90, 6	362, 1-14	BED	a bob amser cyn y diwrnod mynd i fod yn cwrt *insurance* yn talu	NST	NST
+90, 7	364, 1-9	BED	o'n nhw yn gwybod toedd gynnyn nhw ddim *chance*	NST	NST
+90, 8	365, 1-9	BED	ond efo *lot* o bobl mae nhw yn deud	ST	NST
+90, 9	366, 1-8	BED	*oh* *well* our legal department this and that	ST	NST
+90, 10	368, 1-7	BED	ac mae pobl gyffredin yn coelio nhw	NSNT	NSNT
+90, 11	370, 1-4	BED	ond common_sense ydy o	NSNT	SNT
+90, 12	371, 1-4	BED	dim ond mae hynna	NSNT	NSNT
+90, 13	371, 5-8	BED	mae ddadl yna mi	NSNT	NSNT
+90, 14	371, 9-14	BED	ddalith hi ddŵr yn ryw gwrt	---	NSNT
+
+
+91, 1	372, 1-3	AED	*well* ia ia	---	NST
+
+
+92, 1	373, 1-16	BED	os wyt ti gwatsiad ar_ôl dy *gar* di a fi wedi malu yn un i *oh*	NST	NST
+92, 2	373, 17-19	BED	fedr o ddim	NSNT	NSNT
+92, 3	373, 20-20	BED	bod	NSNT	NSNT
+92, 4	376, 1-8	BED	dydy o ddim ots ddau yr un flwyddyn	---	NSNT
+
+
+93, 1	377, 1-4	AED	dydy o ddim yn	NSNT	NSNT
+93, 2	378, 1-5	AED	nac ydy *sure* Dduw nac	NST	NST
+93, 3	378, 6-7	AED	ydy nac	---	NSNT
+
+
+94, 1	379, 1-5	BED	dydy o ddim yr un	NSNT	NSNT
+94, 2	379, 6-6	BED	gwerth	---	NSNT
+
+
+95, 1	380, 1-3	AED	nac ydy nac	---	NSNT
+
+
+96, 1	381, 1-3	BED	fedr o ddim	NSNT	NSNT
+96, 2	381, 4-4	BED	bod	---	NSNT
+
+
+97, 1	382, 1-3	AED	*oh* na dyna	NST	NST
+97, 2	382, 4-6	AED	dw i deimlo	NSNT	NSNT
+97, 3	382, 7-24	AED	pan dw i mynd i chwilio yn y *garages* yma am *gar* neu am *van* neu beth bynnag	NST	NST
+97, 4	383, 1-9	AED	*er* mae nhw yn dod hefo yr *book* value	ST	ST
+97, 5	383, 10-10	AED	dydy	NSNT	NSNT
+97, 6	385, 1-11	AED	ond os dw i yn gwerthu *car* iddyn nhw wsnos yma	NST	NST
+97, 7	387, 1-6	AED	a mynd i weld be ydy	NSNT	NSNT
+97, 8	387, 7-15	AED	gwerth y *car* yna ar y forecourts wsnos wedyn	NST	ST
+97, 9	389, 1-4	AED	mae wedi cael ei	NSNT	NSNT
+97, 10	389, 5-12	AED	mae yn cael ei werthu am bris uwch	NSNT	NSNT
+97, 11	389, 13-13	AED	dydy	NSNT	NSNT
+97, 12	391, 1-6	AED	wedyn dach chi ddim yn mynd	NSNT	NSNT
+97, 13	391, 7-10	AED	atyn nhw a deud	NSNT	NSNT
+97, 14	392, 1-11	AED	*eh* dw isio chi dynnu pum cant oddi_ar y *car* yma	ST	NST
+97, 15	393, 1-2	AED	because dyna	NSNT	SNT
+97, 16	393, 3-7	AED	be ydy *fook* value o	NST	ST
+97, 17	395, 1-3	AED	a hwnnw deud	NSNT	NSNT
+97, 18	396, 1-5	AED	*oh* na sbïwch cyflwr da	NST	NST
+97, 19	396, 6-12	AED	sy arno fo mileage isel one owner	SNT	SNT
+97, 20	398, 1-4	AED	mae hwnnw wedyn yn	NSNT	NSNT
+97, 21	398, 5-5	AED	cyfri	NSNT	NSNT
+97, 22	398, 6-6	AED	dydy	NSNT	NSNT
+97, 24	402, 1-9	AED	wedyn mae nhw ar y ar eu curo bob	NSNT	NSNT
+97, 25	402, 10-10	AED	tro	NSNT	NSNT
+97, 26	402, 11-11	AED	dydy	---	NSNT
+
+
+98, 1	403, 1-2	BED	*oh* hollol	NST	NST
+98, 2	405, 1-3	BED	ew annwyl ydy	NSNT	NSNT
+98, 3	405, 4-4	BED	dyna	NSNT	NSNT
+98, 4	405, 5-11	BED	sut mae nhw wneud wneud eu pres	---	NSNT
+
+
+99, 1	407, 1-2	AED	*well* ia	---	NST
+
+
+100, 1	408, 1-3	BED	ond *er* na	NST	NST
+100, 2	410, 1-3	BED	mae o yn	NSNT	NSNT
+100, 3	411, 1-3	BED	na mae *well*	NST	NST
+100, 4	411, 4-14	BED	mae hwnna yn *sale* dda yn *er* *Whitchurch* ddeud y gwir	NST	NST
+100, 5	413, 1-3	BED	deud dw i	NSNT	NSNT
+100, 6	413, 4-8	BED	bod yn mynd *lot* i	NST	NST
+100, 7	415, 1-2	BED	do ew	---	NSNT
+
+
+101, 1	416, 1-6	AED	*oh* Duw annwyl dad *oh* meddwl	---	NST
+
+
+102, 1	418, 1-6	BED	a mae yna ryw eighty miles	SNT	SNT
+102, 2	418, 7-8	BED	ydy o	NSNT	NSNT
+102, 3	419, 1-3	BED	dydy o ddim_byd	---	NSNT
+
+
+103, 1	420, 1-8	AED	*well* ia a dydy rywun ddim yn meddwl	NST	NST
+103, 2	420, 9-11	AED	bod yna rei	SNT	NSNT
+103, 3	421, 1-7	AED	because dw i ddim yn dallt nac	NSNT	SNT
+103, 4	421, 8-8	AED	ydw	NSNT	NSNT
+103, 5	422, 1-8	AED	o'n i gwybod bod yna un ym Manchester	---	SNT
+
+
+104, 1	423, 1-3	BED	dyna fo ia	---	NSNT
+
+
+105, 1	424, 1-3	AED	ond dw erioed	NSNT	NSNT
+105, 2	424, 4-6	AED	wedi bod yna	NSNT	NSNT
+105, 3	425, 1-7	AED	ond i mond i *Brickhouse* dw i	NST	NST
+105, 4	425, 8-9	AED	wedi bod	---	NSNT
+
+
+106, 1	426, 1-4	BED	*yeah* dyna fo *yeah*	---	NST
+
+
+107, 1	427, 1-2	AED	dw i	NSNT	NSNT
+107, 2	427, 3-5	AED	wedi bod yna	NSNT	NSNT
+107, 3	428, 1-6	AED	fuais i mynd yna ers_talwm wchi	---	NSNT
+
+
+108, 1	430, 1-2	BED	ia *Dylan*	---	NST
+
+
+109, 1	431, 1-3	AED	mae *Dylan* yn	NST	NST
+109, 2	431, 4-7	AED	botsian efo ryw geir	NSNT	NSNT
+109, 3	431, 8-8	AED	byddai	---	NSNT
+
+
+110, 1	432, 1-2	BED	*oh* byddai	---	NST
+
+
+111, 1	433, 1-12	AED	a wedyn fyddai *Dylan* yn prynu ella dri neu bedwar o geir	NST	NST
+111, 2	433, 13-13	AED	byddai	NSNT	NSNT
+111, 3	434, 1-4	AED	isio dod nhw adre	NSNT	NSNT
+111, 4	436, 1-6	AED	a wedyn mynd â ni de	NSNT	NSNT
+111, 5	437, 1-11	AED	a wedyn yr holl ffordd ryw ddiwrnod glawog i i *Brickhouse*	NST	NST
+111, 6	439, 1-18	AED	a rhei o ni yn y ceir a pres *petrol* a pres cinio a dreifio nhw adre de	NST	NST
+111, 7	441, 1-15	AED	ia arglwydd yr hogiau yn dŵad ambell un *um* mygu yr holl ffordd adre de	NST	NST
+111, 9	445, 1-6	AED	wedi prynu injan wedi mynd de	---	NSNT
+
+
+112, 1	446, 1-2	BED	*oh* wedi	NST	NST
+112, 2	447, 1-3	BED	*oh* hollol hollol	NST	NST
+112, 3	448, 1-10	BED	oedd o mynd i *lot* i *Queensferry* *er* *er* *Dylan*	---	NST
+
+
+113, 1	452, 1-2	AED	ewadd Duw	---	NSNT
+
+
+114, 1	453, 1-3	BED	hen *foy* iawn	NST	NST
+114, 3	455, 1-4	BED	gaeth ei wneud *lot*	NST	NST
+114, 4	456, 1-19	BED	*er* *er* *er* pobl yn prynu dod yna *yeah* a isio talu gael h_p ar y car a ballu	NST	ST
+114, 5	458, 1-7	BED	a wedyn hen *Dylan* druan yn deud	NST	NST
+114, 6	459, 1-5	BED	ia iawn tala bob mis	NSNT	NSNT
+114, 7	460, 1-9	BED	fel fyddai fo yn siarad yn *cool* braf felly	---	NST
+
+
+115, 1	461, 1-4	AED	ia *cool* braf fyddai	---	NST
+
+
+116, 1	462, 1-9	BED	ond doedd o ddim yn gweld hanner y pres	---	NSNT
+
+
+117, 1	463, 1-1	AED	ew	---	NSNT
+
+
+118, 1	464, 1-7	BED	Duw mi gollodd o gannoedd o bunnau	---	NSNT
+
+
+119, 1	466, 1-8	AED	ond eto mi wnaeth o *lot* o bres	NST	NST
+119, 2	467, 1-8	AED	oedd gynno fo ei fys yn bob potes	NSNT	NSNT
+119, 3	467, 9-9	AED	doedd	---	NSNT
+
+
+120, 1	468, 1-2	BED	*oh* hollol	NST	NST
+120, 2	469, 1-9	BED	*well* petaset ti mynd yna dydd Llun a deud	NST	NST
+120, 3	469, 10-13	BED	bod chdi isio washing_machine	SNT	SNT
+120, 4	469, 14-20	BED	basai wedi chael hi erbyn dydd Gwener	---	NSNT
+
+
+121, 1	470, 1-1	AED	basai	NSNT	NSNT
+121, 2	470, 2-2	AED	basai	NSNT	NSNT
+121, 3	471, 1-6	AED	a mae *Matt* yr un fath	NST	NST
+121, 5	473, 1-9	AED	mae *Matt* union yr un fath â ei dad	NST	NST
+121, 6	474, 1-2	AED	rywbeth de	NSNT	NSNT
+121, 7	474, 3-19	AED	mae gynno fo ei fys yn rywbeth haulage neu yr defaid neu wartheg neu *fotors* bob math	---	ST
+
+
+122, 1	475, 1-3	BED	esgob mawr *yeah*	NST	NST
+122, 2	477, 1-3	BED	ew ydy achan	---	NSNT
+
+
+123, 1	478, 1-5	AED	wedi blino myn diân i	NSNT	NSNT
+123, 2	480, 1-8	AED	oedd yr hen *Dylan* yn un *cool* braf	NST	NST
+123, 3	481, 1-5	AED	dw i cofio y ffordd	NSNT	NSNT
+123, 4	481, 6-12	AED	wnes i ddod i nabod o gynta	NSNT	NSNT
+123, 5	481, 13-17	AED	oedd cneifio defaid yn efo	NSNT	NSNT
+123, 6	483, 1-11	AED	a wedyn *um* bump chwech ohonan ni mynd yna i gneifio	NST	NST
+123, 7	484, 1-19	AED	a be oedd enw yr hen fachgen yn byw yn *Mynydd_Llandygai* dwch *er* yn yr rhes ucha ym *Mynydd*	---	NST
+
+
+124, 1	485, 1-2	BED	hogiau *Tŷ_Cerrig*	---	NST
+
+
+125, 1	486, 1-2	AED	*Tŷ_Cerrig* *yeah*	ST	NST
+125, 2	487, 1-14	AED	a fyddai gynno fo ryw *bottle* bach milk of *magnesia* *yeah* at ei stumog	NST	ST
+125, 3	489, 1-8	AED	a fo oedd yn lapio gwlân i ni	NSNT	NSNT
+125, 4	490, 1-5	AED	ac ew dw yn cofio	NSNT	NSNT
+125, 5	490, 6-21	AED	oedd hi yn gythraul o ha poeth a yr hogiau wrthi yn cneifio fel diawl wan	---	NSNT
+
+
+126, 1	491, 1-2	BED	*Ned_Lloyd* oedd	---	NST
+
+
+127, 1	492, 1-4	AED	*Ned_Lloyd* *yeah* *Ned_Lloyd* *yeah*	ST	NST
+127, 2	493, 1-5	AED	hogiau yn cneifio fel diawl	NSNT	NSNT
+127, 3	494, 1-2	AED	a *Ned_Lloyd*	NST	NST
+127, 4	495, 1-13	AED	*Dylan* wedi mynd *off* doedd i nôl ryw ddefaid neu wedi mynd rywle	NST	NST
+127, 5	495, 14-17	AED	de wedi adael o	NSNT	NSNT
+127, 6	497, 1-7	AED	oedd *Ned_Lloyd* methu cope_io efo yr hogiau	NST	ST
+127, 7	497, 8-8	AED	doedd	NSNT	NSNT
+127, 8	499, 1-8	AED	a wedyn be oedd o wneud yn diwedd	NSNT	NSNT
+127, 9	499, 10-12	AED	rhoid yr cnufiau	NSNT	NSNT
+127, 10	499, 13-25	AED	de fath â tas fath â mwdwl o wair wair ar yr *yard*	NST	NST
+127, 12	501, 1-3	AED	ac eistedd ar	NSNT	NSNT
+127, 13	501, 4-5	AED	ei dîn	NSNT	NSNT
+127, 14	501, 6-15	AED	fyddai fo yn yfed y milk of *magnesia* yma nes	NST	ST
+127, 15	501, 16-22	AED	oedd *round* ei geg o wyn i_gyd	NST	NST
+127, 16	501, 23-26	AED	de y staen felly	NSNT	NSNT
+127, 17	502, 1-16	AED	a *Dylan* dod nôl a uffar o das o yr gwlân yma de yn yr *yard*	NST	NST
+127, 18	503, 1-6	AED	*well* *Ned* be ti bod wneud	NST	NST
+127, 19	504, 1-7	AED	ew yr hogiau yma mynd rhy galed	NSNT	NSNT
+127, 20	505, 1-6	AED	oedden nhw cau cymryd pum munud	NSNT	NSNT
+127, 21	506, 1-4	AED	y cwbl ac eistedd	NSNT	NSNT
+127, 22	506, 5-9	AED	oedd wedi wneud trwy pnawn	NSNT	NSNT
+127, 24	510, 1-2	AED	a wedyn	NSNT	NSNT
+127, 25	511, 1-2	AED	*oh* dowch	NST	NST
+127, 26	512, 1-8	AED	yn *Chwarel_Goch* oedd o yn byw adeg hynny	NST	NST
+127, 27	513, 1-1	AED	dowch	NSNT	NSNT
+127, 28	513, 2-5	AED	awn ni am fwyd	NSNT	NSNT
+127, 29	514, 1-20	AED	ac i_mewn i cefn yr *waggon* de a yr cwbl *lot* o ni mewn i gefn y *waggon* ac dreifio	NST	NST
+127, 30	515, 1-11	AED	a wedyn oedd *Matthew* a *rest* o plant *Simon* Duw bychan	NST	NST
+127, 31	515, 12-15	AED	oedden nhw adeg hynny	---	NSNT
+
+
+128, 1	518, 1-2	BED	ew ia	---	NSNT
+
+
+129, 1	520, 1-3	AED	clên ofnadwy wchi	---	NSNT
+
+
+130, 1	521, 1-2	BED	*oh* wannwyl	---	NST
+
+
+131, 1	522, 1-5	AED	oedd o'n i licio fo	NSNT	NSNT
+131, 2	523, 1-5	AED	oedd o *foy* clên ofnadwy	---	NST
+
+
+132, 1	524, 1-5	BED	hen *foy* iawn oedd o	---	NST
+
+
+133, 1	525, 1-8	AED	*lot* yn yn cymryd ei erbyn o de	NST	NST
+133, 2	526, 1-10	AED	ond *er* na wnaeth o erioed wneud dim_byd i mi	NST	NST
+133, 3	527, 1-6	AED	a yn dalwr da bob tro	NSNT	NSNT
+133, 4	527, 7-7	AED	wchi	---	NSNT
+
+
+134, 1	528, 1-1	BED	argoel	---	NSNT
+
+
+135, 1	529, 1-2	AED	bob tro	---	NSNT
+
+
+136, 1	530, 1-7	BED	prynu buwch gynno a *Dylan* ddeud isio	NST	NST
+136, 2	531, 1-5	BED	ddwy fuwch i godro ballu	NSNT	NSNT
+136, 3	532, 1-10	BED	cael hi mond at *use* ein hunain oedd mewn ffordd	NST	NST
+136, 4	532, 11-15	BED	de dipyn o fenyn corddi	NSNT	NSNT
+136, 6	536, 1-8	BED	a yr llefrith hyd lawr a bob_dim de	NSNT	NSNT
+136, 7	538, 1-10	BED	a ffonio *Dylan* i_fyny adeg yna de a deud wrtho	NST	NST
+136, 8	538, 11-13	BED	de bod *er*	NST	NST
+136, 9	539, 1-5	BED	mae yr fuwch yn cicio	NSNT	NSNT
+136, 10	540, 1-5	BED	Duw tyrd â hi nôl	NSNT	NSNT
+136, 11	541, 1-4	BED	tyrd â hi nôl	NSNT	NSNT
+136, 12	542, 1-8	BED	oedd hi *boy* wedi guarantee_o hi i mi	NST	ST
+136, 13	543, 1-4	BED	oedd o digon gonest	NSNT	NSNT
+136, 14	545, 1-7	BED	wedyn mynd â hi nôl cherdded hi	NSNT	NSNT
+136, 15	546, 1-1	BED	ffordd	NSNT	NSNT
+136, 16	547, 1-9	BED	ond doedd o ddim llawer o ffordd o *Bryn_Glas*	NST	NST
+136, 17	547, 10-15	BED	nag oedd *St_Anne's* i i *Chwarel_Goch*	---	NST
+
+
+137, 1	548, 1-3	AED	nag oedd lawr	---	NSNT
+
+
+138, 1	550, 1-5	BED	wedyn mynd â hi yna	NSNT	NSNT
+138, 2	551, 1-3	BED	dyma yn deud	NSNT	NSNT
+138, 3	552, 1-1	BED	yli	NSNT	NSNT
+138, 4	552, 2-8	BED	weli di fuwch goch yna fan yna	NSNT	NSNT
+138, 5	553, 1-2	BED	dw i	NSNT	NSNT
+138, 6	553, 3-5	BED	dw i godro	NSNT	NSNT
+138, 7	553, 6-8	BED	honna bore yma	NSNT	NSNT
+138, 8	554, 1-3	BED	dw i guarantee_o	SNT	SNT
+138, 9	554, 4-4	BED	honna	NSNT	NSNT
+138, 10	555, 1-1	BED	dydy	NSNT	NSNT
+138, 11	555, 2-5	BED	honna ddim yn cicio	NSNT	NSNT
+138, 12	556, 1-6	BED	dos â honna yn lle hi	NSNT	NSNT
+138, 13	558, 1-5	BED	*oh* be oedd mwy teg	NST	NST
+138, 14	560, 1-3	BED	oedd digon teg	NSNT	NSNT
+138, 15	560, 4-4	BED	doedd	---	NSNT
+
+
+139, 1	562, 1-10	AED	doedd yna yr un pris i bob peth mewn ffordd	NSNT	NSNT
+139, 2	562, 11-12	AED	doedd *yeah*	---	NST
+
+
+140, 1	563, 1-7	BED	*oh* *yeah* yr un peth oedd hi	NST	NST
+140, 2	564, 1-6	BED	*yeah* yr un peth oedd hi	NST	NST
+140, 3	566, 1-6	BED	toedd hi ddim yn cicio de	---	NSNT
+
+
+141, 1	567, 1-6	AED	ia oedd pawb isio buwch dawel	NSNT	NSNT
+141, 2	567, 7-7	AED	doedd	NSNT	NSNT
+141, 3	569, 1-13	AED	oedd yna dim_byd gwaeth na colli llefrith neu cael baw yn y llefrith	NSNT	NSNT
+141, 4	569, 14-15	AED	nag oedd	---	NSNT
+
+
+142, 1	570, 1-6	BED	oedd cael *kick* yn waeth byth	---	NST
+
+
+143, 1	571, 1-10	AED	ia a rywbeth castiog fel yna oedd hi yn medru	NSNT	NSNT
+143, 2	571, 11-13	AED	bod yn beryg	NSNT	NSNT
+143, 3	571, 14-14	AED	doedd	---	NSNT
+
+
+144, 1	572, 1-3	BED	ew annwyl oedd	---	NSNT
+
+
+145, 1	573, 1-2	AED	ew ia	NSNT	NSNT
+145, 2	574, 1-5	AED	a doedd amser yn *odd*	NST	NST
+145, 3	575, 1-3	AED	oedd o yn	NSNT	NSNT
+145, 4	575, 4-7	AED	oedd o ddifyr ofnadwy	NSNT	NSNT
+145, 5	575, 8-8	AED	doedd	NSNT	NSNT
+145, 6	576, 1-7	AED	fydda i meddwl o_hyd pa mor ddifyr	NSNT	NSNT
+145, 7	576, 8-10	AED	oedd o er	NSNT	NSNT
+145, 8	576, 11-15	AED	bod hi yn amser caled	NSNT	NSNT
+145, 9	577, 1-2	AED	oedd o	NSNT	NSNT
+145, 10	577, 3-9	AED	oedd pawb rhygnu yn ei flaen rywsut	NSNT	NSNT
+145, 11	577, 10-10	AED	doedd	---	NSNT
+
+
+146, 1	578, 1-3	BED	pawb gilydd doedd	---	NSNT
+
+
+147, 1	579, 2-2	AED	wchi	---	NSNT
+
+
+148, 1	580, 1-3	BED	felly oedd hi	---	NSNT
+
+
+149, 1	581, 1-6	AED	oedd pawb yr un gwch rywsut	NSNT	NSNT
+149, 2	581, 7-7	AED	doedd	NSNT	NSNT
+149, 3	583, 1-5	AED	wedyn oedd fwy o rannu	NSNT	NSNT
+149, 4	583, 6-6	AED	doedd	NSNT	NSNT
+149, 5	585, 1-5	AED	a ddim yn teimlo *er*	---	NST
+
+
+150, 1	586, 1-7	BED	oedd yna ddim llawer o arian o_gwmpas	NSNT	NSNT
+150, 2	587, 1-15	BED	wedyn oedd pawb yr un fath â ti yn deud yr un gwch mewn ffordd	NSNT	NSNT
+150, 3	589, 1-9	BED	wedyn *er* os oedd yna rywun isio gwneud rywbeth	NST	NST
+150, 4	589, 10-14	BED	oedd yna *help* i gael	NST	NST
+150, 5	590, 1-7	BED	a wedyn oedda chdi roi *help* yn_ôl	NST	NST
+150, 6	591, 1-7	BED	a a felly oedd hi mynd ymlaen	---	NSNT
+
+
+151, 1	593, 1-8	AED	ia caeau gwair a pethau fel yna de	---	NSNT
+
+
+152, 1	594, 1-2	BED	*well* ia	---	NST
+
+
+153, 1	595, 1-6	AED	argian oedd rywun yn symud aceri	NSNT	NSNT
+153, 2	595, 7-11	AED	doedd mewn ychydig o nosweithiau	NSNT	NSNT
+153, 3	595, 12-12	AED	doedd	---	NSNT
+
+
+154, 1	596, 1-2	BED	oedd tad	NSNT	NSNT
+154, 2	596, 7-8	BED	oedd tad	---	NSNT
+
+
+155, 1	597, 1-8	AED	a dim ond efo *er* bôn braich de	---	NST
+
+
+156, 1	598, 1-1	BED	hogiau	NSNT	NSNT
+156, 2	599, 1-6	BED	hogiau yn dod o chwarel te	---	NSNT
+
+
+157, 1	600, 1-4	AED	ia hogiau chwarel *yeah*	---	NST
+
+
+158, 1	601, 1-3	BED	a gwneud te	NSNT	NSNT
+158, 2	604, 1-12	BED	*oh* toedd yna ddim ond *er* mond ryw geffyl waith *er* torri	NST	NST
+158, 3	605, 1-14	BED	neu weithiau yn gorod talu am dorri te rhei dod yna i dorri ballu	NSNT	NSNT
+158, 4	605, 15-15	BED	te	NSNT	NSNT
+158, 5	607, 1-6	BED	wedyn *er* ond oedd gynnyn nhw	NST	NST
+158, 6	608, 1-6	BED	oedd isio troi ac bôn braich	NSNT	NSNT
+158, 7	609, 1-16	BED	mynd i gae mawr â mond cribin a isio troi y y rhenciau ar eu hyd	---	NSNT
+
+
+159, 1	610, 1-6	AED	ia *yeah* ia *round* i_gyd *yeah*	---	NST
+
+
+160, 1	611, 1-8	BED	wrth_gwrs doedd y rhenciau ddim mor fawr â	NSNT	NSNT
+160, 2	611, 9-12	BED	mae nhw heddiw *dractor*	---	NST
+
+
+161, 1	612, 1-2	AED	nac ydyn	---	NSNT
+
+
+162, 1	613, 1-9	BED	ond wedi deud hynny oedd isio ei throi hi	NSNT	NSNT
+162, 2	615, 1-7	BED	a beth dorcalonnus byddwn i mynd i	NSNT	NSNT
+162, 3	615, 8-8	BED	cae	NSNT	NSNT
+162, 4	615, 9-12	BED	te a sbïo ew	NSNT	NSNT
+162, 5	615, 13-15	BED	timod dechrau troi	NSNT	NSNT
+162, 7	619, 1-12	BED	a be arall o'n i yn weld hefyd oedd yn *job* digalon	NST	NST
+162, 8	619, 14-17	BED	oedd *er* tynnu rwdins	---	NST
+
+
+163, 1	620, 1-4	AED	*oh* ar eich pennaugliniau	---	NST
+
+
+164, 1	621, 1-10	BED	*oh* dechrau fan yma a gweld y rhes yn mynd	---	NST
+
+
+165, 1	624, 1-12	AED	*oh* peth arall o'n nhw wneud ers_talwm *um* amser yr chwarel de	NST	NST
+165, 2	624, 14-26	AED	os oedd yna *farm* neu dyddyn bach hefo rwdins neu dipyn o datws	NST	NST
+165, 3	624, 27-28	AED	oedden nhw	NSNT	NSNT
+165, 4	624, 29-30	AED	rhoid rhes	NSNT	NSNT
+165, 5	624, 31-38	AED	doedden os yna rywun dod yna i helpu	NSNT	NSNT
+165, 6	624, 39-39	AED	doedd	NSNT	NSNT
+165, 7	626, 1-7	AED	glywais i *dad* yn yn tyddyn de	---	NST
+
+
+166, 1	627, 1-2	BED	ia tad	---	NSNT
+
+
+167, 1	628, 1-3	AED	os oedd yna	NSNT	NSNT
+167, 2	628, 4-4	AED	deudwch	NSNT	NSNT
+167, 3	628, 5-15	AED	bod yna *er* ddeg rhes o datws i tyddyn *well* ella	NST	NST
+167, 4	628, 16-25	AED	bod yna dair bedair i rei eraill yn y pentre	NSNT	NSNT
+167, 5	628, 26-28	AED	oedd yn helpu	---	NSNT
+
+
+168, 1	629, 1-5	BED	*oh* *yeah* *yeah* hollol hollol	---	NST
+
+
+169, 1	630, 1-3	AED	a dyna ffordd	NSNT	NSNT
+169, 2	630, 4-14	AED	oedd rywun talu nôl iddyn nhw am eu am eu llafur	---	NSNT
+
+
+169, 3	630, 16-26	AED	oedd dipyn o datws neu resaid o rwdins rywbeth fel yna	NSNT	NSNT
+170, 2	635, 1-3	BED	felly fyddan nhw	NSNT	NSNT
+170, 3	637, 1-2	BED	ond *er*	NST	NST
+170, 4	639, 2-5	BED	mae pethau wedi newid	NSNT	NSNT
+170, 5	640, 1-6	BED	mae *er* pobl wedi mynd wan	NST	NST
+170, 6	640, 7-14	BED	does yna neb yn dibynnu ar neb arall	---	NSNT
+
+
+171, 1	641, 1-2	AED	nag oes	---	NSNT
+
+
+172, 1	642, 1-5	BED	a wedyn a wedyn mae	NSNT	NSNT
+172, 2	642, 6-10	BED	mae gymdeithas yna wedi chwalu	NSNT	NSNT
+172, 3	644, 1-3	BED	mae wedi mynd	NSNT	NSNT
+172, 4	645, 1-5	BED	toes yna ddim tydy ddim	NSNT	NSNT
+172, 5	645, 6-8	BED	yn bod wan	---	NSNT
+
+
+173, 1	646, 1-2	AED	ydw i	NSNT	NSNT
+173, 2	646, 3-5	AED	dw i yn	NSNT	NSNT
+173, 3	646, 6-9	AED	dw i yn teimlo	NSNT	NSNT
+173, 4	646, 10-18	AED	bod yna fwy bobl dyddiau yma yn fwy hunanol	---	NSNT
+
+
+174, 1	647, 1-5	BED	*well* y rheswm pam bod	NST	NST
+174, 2	647, 6-8	BED	mae nhw arian	---	NSNT
+
+
+175, 1	648, 1-7	AED	*yeah* *yeah* *yeah* *yeah* bosib iawn de	---	NST
+
+
+176, 1	649, 1-5	BED	mae nhw medru beth bynnag	NSNT	NSNT
+176, 2	649, 6-8	BED	mae nhw isio	NSNT	NSNT
+176, 3	649, 9-20	BED	mae nhw medru gael o neu dalu amdano fo neu beth bynnag	NSNT	NSNT
+176, 4	649, 21-22	BED	sy isio	NSNT	NSNT
+176, 5	651, 1-9	BED	ond *er* dw ddim yn deud na dim_byd felly	NST	NST
+176, 6	652, 1-14	BED	mae yna *lot* wrth_gwrs yn mewn dyled *er* *er* mawr efo banciau ac ati	NST	NST
+176, 7	654, 1-10	BED	ond *er* ond wedi deud hynny fedran nhw ddim *er*	NST	NST
+176, 8	654, 11-11	BED	tydy	NSNT	NSNT
+176, 9	654, 12-12	BED	mae	NSNT	NSNT
+176, 10	654, 13-13	BED	mae	NSNT	NSNT
+176, 11	654, 14-25	BED	mae *er* yr *help* pawb yn helpu ei_gilydd ers_talwm y gymdeithas yna	NST	NST
+176, 12	654, 26-28	BED	mae wedi mynd	NSNT	NSNT
+176, 13	654, 29-29	BED	tydy	---	NSNT
+
+
+177, 1	655, 2-6	AED	mae yn bechod o beth	NSNT	NSNT
+177, 2	655, 7-7	AED	wchi	NSNT	NSNT
+177, 3	656, 1-5	AED	achos mae cymdeithas mor bwysig	NSNT	NSNT
+177, 4	656, 6-6	AED	dydy	NSNT	NSNT
+177, 5	658, 1-4	AED	*um* ac oedd o	NST	NST
+177, 6	658, 5-6	AED	oedd ffordd	NSNT	NSNT
+177, 7	658, 7-12	AED	oedd pawb yn cael eu dysgu	NSNT	NSNT
+177, 8	658, 13-13	AED	doedd	NSNT	NSNT
+177, 9	660, 1-7	AED	dyna chi yr pobl ifanc yma wan	NSNT	NSNT
+177, 10	660, 9-11	AED	dw i meddwl	NSNT	NSNT
+177, 11	660, 12-16	AED	am bod gymdeithas wedi chwalu	NSNT	NSNT
+177, 12	660, 17-21	AED	mae yr bobl ifanc yma	NSNT	NSNT
+177, 13	660, 22-31	AED	dyn nhw ddim yn medru sbïo fyny ar neb nac	NSNT	NSNT
+177, 14	660, 32-36	AED	ydyn am eu dysgu nac	NSNT	NSNT
+177, 15	660, 37-37	AED	ydyn	---	NSNT
+
+
+178, 1	661, 1-3	BED	nac ydy nac	NSNT	NSNT
+178, 2	661, 4-5	BED	ydy nac	---	NSNT
+
+
+179, 1	662, 1-15	AED	a dyn nhw ddim yn gweld eu hunain wedyn yn cael eu dysgu gynno neb	NSNT	NSNT
+179, 2	663, 1-7	AED	arglwydd petaswn i rhegi *er* *er* ar_ôl	NST	NST
+179, 3	663, 8-14	AED	bod yn *Band_of_Hope* ers_talwm yn capel *Gerlan*	NST	NST
+179, 4	663, 15-18	AED	oedd *crew* ohonan ni	NST	NST
+179, 5	663, 19-24	AED	de ar_ôl *Band_of_Hope* ar nos Iau	NST	NST
+179, 6	665, 1-6	AED	chwarae *er* *er* *er* ffordd yna	NST	NST
+179, 7	665, 7-10	AED	de nôl ac ymlaen	NSNT	NSNT
+179, 8	665, 11-13	AED	chwarae ac ati	NSNT	NSNT
+179, 9	669, 1-3	AED	hogiau *Gwen_Gwial* de	NST	NST
+179, 10	671, 1-5	AED	a *Penri* yn flaenor doedd	NST	NST
+179, 11	673, 1-12	AED	ew fiw ni gael ein dal rhag ofn i *Penri* gael clywed	NST	NST
+179, 12	673, 13-17	AED	bod ei ei yr hogiau	NSNT	NSNT
+179, 13	673, 18-22	AED	wedi bod yn gwneud drygioni	---	NSNT
+
+
+180, 1	674, 1-4	BED	*oh* *oh* ia hollol	---	NST
+
+
+181, 1	675, 1-17	AED	a wedyn os oeddech chi yn gael ffrae gynno rywun doeddech chi ddim mynd adre a deud	NSNT	NSNT
+181, 2	676, 1-9	AED	dw i wedi cael ffrae gynno hwn a hwn	NSNT	NSNT
+181, 3	677, 1-2	AED	nag oeddech	NSNT	NSNT
+181, 4	679, 1-10	AED	oeddech chi ddim ofn chi yn cymryd y ffrae doeddech	NSNT	NSNT
+181, 6	681, 1-11	AED	neu rhegi neu rywbeth de heb feddwl *er* *crew* o ffrindiau	NST	NST
+181, 7	681, 12-13	AED	de rhegi	NSNT	NSNT
+181, 8	681, 14-16	AED	de ew na	NSNT	NSNT
+181, 9	682, 1-9	AED	a rŵan nefi wen *er* dw i yn dychryn	NST	NST
+181, 10	682, 10-19	AED	pan dw i ar stryd *Bethesda* yna y *fashion* iaith	NST	NST
+181, 11	682, 20-26	AED	mae yr bobl ifanc yma yn yn	NSNT	NSNT
+181, 12	682, 27-34	AED	roid allan a gymaint o bobl o_gwmpas nhw	---	NSNT
+
+
+182, 1	683, 1-1	BED	*well*	ST	NST
+182, 3	686, 1-5	BED	*oh* basai fiw i i	NST	NST
+182, 4	687, 1-4	BED	be oedd ddigon ers_talwm	NSNT	NSNT
+182, 6	687, 19-23	BED	fasai fo mond yn deud	NSNT	NSNT
+182, 7	689, 1-7	BED	fydda i yn deud wrth dy dad	NSNT	NSNT
+182, 8	691, 1-3	BED	*oh* dyna hi	NST	NST
+182, 9	693, 1-3	BED	oedd hwnna digon	---	NSNT
+
+
+183, 1	695, 1-5	AED	ac oedden nhw nabod pawb	NSNT	NSNT
+183, 2	695, 6-6	AED	doedden	NSNT	NSNT
+183, 3	696, 1-1	AED	dyna	NSNT	NSNT
+183, 4	696, 2-5	AED	lle oedd hi dda	---	NSNT
+
+
+184, 1	697, 1-2	BED	ond oedd	NSNT	NSNT
+184, 2	697, 5-12	BED	oedden nhw yn gweithio efo ei_gilydd yn chwarel	---	NSNT
+
+
+185, 1	698, 1-1	AED	oedden	NSNT	NSNT
+185, 2	698, 2-2	AED	oedden	NSNT	NSNT
+185, 3	698, 3-3	AED	oedden	---	NSNT
+
+
+186, 1	699, 1-7	BED	a a wedyn o'n gwybod pwy bonc	NSNT	NSNT
+186, 2	700, 1-6	BED	a dim ots be oedden nhw	NSNT	NSNT
+186, 3	702, 1-9	BED	oedd pawb yn helpu ei_gilydd ac yn nabod ei_gilydd	NSNT	NSNT
+186, 4	705, 1-6	BED	ond oedd yna barch hefyd toedd	---	NSNT
+
+
+187, 1	706, 2-2	AED	dyna	NSNT	NSNT
+187, 2	706, 3-5	AED	lle mae o	NSNT	NSNT
+187, 3	707, 1-3	AED	parch oedd o	---	NSNT
+
+
+188, 1	708, 1-1	BED	dyna	NSNT	NSNT
+188, 2	708, 2-4	BED	be oedd o	NSNT	NSNT
+188, 3	710, 1-7	BED	a wedyn toedd oedd *er* hwnnw yn	---	NST
+
+
+189, 1	711, 1-2	AED	ew *yeah*	---	NST
+
+
+190, 1	712, 1-3	BED	wn i ddim	NSNT	NSNT
+190, 2	712, 4-9	BED	be ydy yr ateb i hwnnw	NSNT	NSNT
+190, 3	713, 1-5	BED	ond mae o wedi mynd	NSNT	NSNT
+190, 4	714, 1-10	BED	*um* does gyn neb *er* barch i ddim_byd *well* i	NST	NST
+190, 6	716, 1-3	BED	dyna fo felly	NSNT	NSNT
+190, 7	718, 1-5	BED	toes dydy o ddim yna	---	NSNT
+
+
+191, 1	719, 1-3	AED	nag oes dim_byd	NSNT	NSNT
+191, 2	720, 1-10	AED	*er* eto yr hunan yr yr yr hunaniaeth yma de	---	NST
+
+
+192, 1	722, 1-8	BED	a mae yna ryw fryntwch ew ofnadwy wan	NSNT	NSNT
+192, 2	723, 1-7	BED	a lle mae hwnna wedi dŵad chwaith	---	NSNT
+
+
+193, 1	724, 1-2	AED	*well* ia	NST	NST
+193, 2	725, 1-3	AED	dach chi meddwl	NSNT	NSNT
+193, 3	725, 4-17	AED	bod yr hen *delevision* yma yn chwarae a yr hen *games* yma ac ati	NST	NST
+193, 4	726, 1-12	AED	mae ryw hen *games* a *videos* yma ac ati wan yn bethau	---	NST
+
+
+194, 1	727, 1-4	BED	*well* dydy o ddim	NST	NST
+194, 2	727, 5-6	BED	tydy o	NSNT	NSNT
+194, 3	728, 1-9	BED	mae yna ormod o ladd o lawer ar honna	NSNT	NSNT
+194, 4	730, 1-3	BED	ond dydy o	NSNT	NSNT
+194, 5	730, 4-7	BED	dydy o ddim *help*	NST	NST
+194, 6	732, 1-5	BED	ond wedi deud hynny de	NSNT	NSNT
+194, 7	732, 6-8	BED	dwn i ddim	NSNT	NSNT
+194, 8	732, 9-11	BED	mae yna rywbeth	NSNT	NSNT
+194, 9	732, 12-15	BED	mae yna rywbeth yn	NSNT	NSNT
+194, 10	732, 16-18	BED	dwn i ddim	NSNT	NSNT
+194, 11	732, 19-24	BED	sy ddim yn iawn yn rywle	NSNT	NSNT
+194, 12	734, 1-2	BED	ydan ni	NSNT	NSNT
+194, 13	734, 3-5	BED	a dan ni	NSNT	NSNT
+194, 14	735, 1-4	BED	ers_talwm dw yn cofio	NSNT	NSNT
+194, 15	735, 5-18	BED	os oedd yna *er* rywun yn mynd i gael ei grogi wedi lladd rywun	NST	NST
+194, 16	737, 1-4	BED	ew oedd rywbeth mawr	NSNT	NSNT
+194, 17	739, 1-11	BED	a diwrnod a yr diwrnod oedd mynd i gael ei grogi	NSNT	NSNT
+194, 18	740, 1-14	BED	a oedd o naw o gloch yn bore neu beth bynnag o yr gloch	NSNT	NSNT
+194, 19	740, 15-16	BED	oedd hi	NSNT	NSNT
+194, 20	743, 1-6	BED	wedyn ew oedd pawb wedi syfrdanu	NSNT	NSNT
+194, 21	745, 1-13	BED	ond rŵan dan ni cael ein tempro gymaint wrth weld y lladd yma	NSNT	NSNT
+194, 22	745, 14-21	BED	sy mynd ymlaen bob dydd ar y strydoedd	NSNT	NSNT
+194, 23	747, 1-10	BED	ac ar y teledu yma dan ni yn gael o	NSNT	NSNT
+194, 24	747, 11-15	BED	dan ni wedi ein tempro	NSNT	NSNT
+194, 25	748, 1-6	BED	dan ni yn gweld dim_byd wan	NSNT	NSNT
+194, 26	749, 1-6	BED	mae o yn deud heno yma	NSNT	NSNT
+194, 27	750, 1-9	BED	*oh* mae hwn a hwn wedi gael ei stabio	NST	NST
+194, 28	751, 1-9	BED	neu mae hwn a hon wedi cael ei lladd	NSNT	NSNT
+194, 29	752, 1-3	BED	neu mae yna	NSNT	NSNT
+194, 30	754, 1-4	BED	a dan ni yn	NSNT	NSNT
+194, 31	754, 5-10	BED	dan ni ddim yn batio eyelid	---	SNT
+
+
+195, 1	755, 1-3	AED	na gymryd o	NSNT	NSNT
+195, 2	756, 1-9	AED	gymryd o yn rywbeth *right* naturiol mewn ffordd dydy	---	NST
+
+
+196, 1	757, 1-5	BED	dan ni yn gymryd o	NSNT	NSNT
+196, 2	758, 1-4	BED	oes yna ddim_byd yni	---	NSNT
+
+
+197, 1	760, 1-6	AED	*oh* dach chi yn meddwl wan	NST	NST
+197, 3	761, 1-6	AED	chwedl na does yna ddim rhyfel	NSNT	NSNT
+197, 4	761, 7-13	AED	wedi bod wan ers hanner can mlynedd	NSNT	NSNT
+197, 5	761, 14-15	AED	nag oes	---	NSNT
+
+
+198, 1	762, 1-2	BED	nag oes	---	NSNT
+
+
+199, 1	763, 1-16	AED	ddim rhyfel i ni fod yn gwybod amdani fel rhyfel fawr sy effeithio ar wlad felly	NSNT	NSNT
+199, 2	766, 1-6	AED	mae yna ryfel yn bob man	NSNT	NSNT
+199, 3	766, 7-7	AED	does	NSNT	NSNT
+199, 4	768, 1-7	AED	bob dydd mae yna rywun yn rhyfela	NSNT	NSNT
+199, 6	770, 19-23	AED	oedd hi ar_ôl rhyfel gynta	NSNT	NSNT
+199, 8	772, 21-25	AED	naill a yr llall de	NSNT	NSNT
+199, 9	774, 1-14	AED	a wedyn yr yr ail ryfel fyd yr un fath yn fan yno doedd	NSNT	NSNT
+199, 10	775, 1-19	AED	oedd yna *er* *rations* a pobl cefn gwlad yn gweithio hefo pobl dre a yr *War_Ag* ac ati de	NST	NST
+199, 12	779, 1-11	AED	ac o'n nhw yn gwybod lle oedd bob peth yn dŵad	NSNT	NSNT
+199, 13	780, 1-7	AED	ac oedd dim ots o pa gefndir	NSNT	NSNT
+199, 14	780, 8-9	AED	oeddech chi	NSNT	NSNT
+199, 15	780, 10-20	AED	oeddech chi dal i drio mynd am yr un un ffordd	NSNT	NSNT
+199, 16	780, 21-21	AED	oeddech	NSNT	NSNT
+199, 17	782, 1-2	AED	byw de	NSNT	NSNT
+199, 18	784, 1-9	AED	byw yn yn weddol hapus ac yn barchus de	NSNT	NSNT
+199, 19	785, 1-10	AED	a wedyn ar_ôl hynna mae pethau wedi colli ffordd rywsut	---	NSNT
+
+
+200, 1	786, 1-6	BED	*well* dw i yn yn yn	NST	NST
+200, 2	787, 1-3	BED	marn personol i	NSNT	NSNT
+200, 3	787, 4-6	BED	ydy hwn wrth_gwrs	NSNT	NSNT
+200, 4	788, 1-4	BED	dw i meddwl heddiw	NSNT	NSNT
+200, 6	790, 1-12	BED	fwya bobl adeg yno hogiau helpu er_mwyn cael helpu yn y cartre	NSNT	NSNT
+200, 7	792, 1-7	BED	pres yn brin a felly oedd hi	NSNT	NSNT
+200, 8	792, 8-8	BED	te	NSNT	NSNT
+200, 9	794, 1-9	BED	*well* wan *er* o'n i o'n i cymryd diddordeb	NST	NST
+200, 11	797, 1-8	BED	ond o'n i o'n i yn gwneud hynna	NSNT	NSNT
+200, 12	798, 1-13	BED	a wedyn adre diddordeb mewn cŵn defaid a diddordeb mewn ceffylau a bob_dim	NSNT	NSNT
+200, 13	800, 1-5	BED	oedd yn mynd ymlaen felly	NSNT	NSNT
+200, 14	801, 1-8	BED	wedyn *um* a wedyn fyddwn i nabod chdi	NST	NST
+200, 15	802, 1-9	BED	a fydda chdithau yn yn efo yr un diddordebau	NSNT	NSNT
+200, 16	804, 1-3	BED	*lot* fawr ella	NST	NST
+200, 17	805, 1-9	BED	neu ella bod diddordeb di efo *bikes* neu rywbeth	NST	NST
+200, 18	806, 1-5	BED	fedr o fod yn rywbeth	NSNT	NSNT
+200, 19	808, 1-4	BED	ac yn deud felly	NSNT	NSNT
+200, 20	809, 1-2	BED	ew ia	NSNT	NSNT
+200, 21	810, 1-5	BED	wedyn neu *snooker* neu rywbeth	NST	NST
+200, 22	812, 1-5	BED	a baswn i deud ia	NSNT	NSNT
+200, 23	813, 1-7	BED	pryd o'n ni siarad efo ein_gilydd deud	NSNT	NSNT
+200, 24	814, 1-6	BED	ew ia peth a peth ia	NSNT	NSNT
+200, 25	815, 1-1	BED	wedyn	NSNT	NSNT
+200, 26	816, 1-6	BED	wela i di adeg yr adeg	NSNT	NSNT
+200, 27	818, 1-8	BED	*oh* dw isio mynd i fan yma gynta	NST	NST
+200, 28	818, 9-9	BED	te	NSNT	NSNT
+200, 29	819, 1-5	BED	dw isio gwneud hwnna gynta	NSNT	NSNT
+200, 30	821, 1-3	BED	*well* heddiw de	NST	NST
+200, 31	821, 4-6	BED	dw i meddwl	NSNT	NSNT
+200, 32	821, 7-7	BED	bod	NSNT	NSNT
+200, 33	821, 8-16	BED	genno pobl ifanc ormod o amser ar eu dwylo	NSNT	NSNT
+200, 34	821, 17-17	BED	te	NSNT	NSNT
+200, 35	823, 1-9	BED	a wedyn dyn nhw ddim yn gwybod be wneud	NSNT	NSNT
+200, 36	823, 10-10	BED	te	NSNT	NSNT
+200, 37	825, 1-6	BED	does gynnyn nhw ddim diddordebau o_gwbl	NSNT	NSNT
+200, 38	826, 1-10	BED	ychydig iawn ddiddordebau oes gynnyn nhw mond cerdded y strydoedd	NSNT	NSNT
+200, 39	828, 1-6	BED	doedd o ddim yr un fath	NSNT	NSNT
+200, 40	828, 7-11	BED	pan oedda chdi a fi	NSNT	NSNT
+200, 41	829, 1-2	BED	oedden ni	NSNT	NSNT
+200, 42	829, 3-6	BED	oedd yna ryw ddiddordeb	NSNT	NSNT
+200, 43	829, 7-9	BED	oedda chdi yn	NSNT	NSNT
+200, 44	830, 1-18	BED	neu oeddech chi nabod ryw gymeriad fath â i nabod fath â o'n i nabod dy dad ti	NSNT	NSNT
+200, 45	832, 1-8	BED	ew o'n i sbïo i_fyny arno fo de	NSNT	NSNT
+200, 46	833, 1-5	BED	da efo cŵn defaid ballu	NSNT	NSNT
+200, 47	835, 1-10	BED	ond hogiau heddiw does gynnyn nhw ddim diddordeb mewn dim_byd	---	NSNT
+
+
+201, 1	836, 1-3	AED	*oh* nag oes	NST	NST
+201, 2	837, 1-4	AED	*er* dach chi meddwl	NST	NST
+201, 3	837, 5-9	AED	bod nhw yn cael mwy	---	NSNT
+
+
+202, 1	838, 1-6	BED	a wedyn a mae nhw deud	NSNT	NSNT
+202, 2	838, 7-10	BED	does gynnyn nhw ddim	NSNT	NSNT
+202, 3	839, 1-5	BED	a mae nhw yn deud	NSNT	NSNT
+202, 5	841, 1-1	BED	does	NSNT	NSNT
+202, 6	841, 2-6	BED	gynnon ni ddim_byd i wneud	NSNT	NSNT
+202, 7	842, 1-2	BED	medden nhw	NSNT	NSNT
+202, 8	843, 1-3	BED	*oh* be oedd	NST	NST
+202, 9	843, 4-6	BED	gynnon ni wneud	---	NSNT
+
+
+203, 1	844, 1-6	AED	*well* ia diddori ein hunain de	---	NST
+
+
+204, 1	845, 1-4	BED	toedd gynnon ni toedd	NSNT	NSNT
+204, 2	845, 5-7	BED	gynnon ni ddim_byd	NSNT	NSNT
+204, 3	845, 8-9	BED	nag oedd	---	NSNT
+
+
+205, 1	846, 1-2	AED	nag oedd	NSNT	NSNT
+205, 2	846, 3-4	AED	nag oedd	---	NSNT
+
+
+206, 1	847, 1-2	BED	ac eto	---	NSNT
+
+
+207, 1	848, 1-6	AED	ond eto oedden ni yn brysur	---	NSNT
+
+
+208, 1	849, 1-2	BED	ac eto	NSNT	NSNT
+208, 2	850, 1-3	BED	*well* ia oedd	NST	NST
+208, 3	850, 4-5	BED	gynnon ni	NSNT	NSNT
+208, 4	850, 6-13	BED	oedd gyn i ddiddordebau mewn pethau eraill toedd	NSNT	NSNT
+208, 5	852, 1-4	BED	oes gyn rhein ddim	NSNT	NSNT
+208, 6	853, 1-5	BED	a dwn i ddim be	---	NSNT
+
+
+209, 1	854, 1-2	AED	nag oes	---	NSNT
+
+
+210, 1	855, 1-1	BED	dw	NSNT	NSNT
+210, 2	855, 2-5	BED	dw i ddim yn	NSNT	NSNT
+210, 3	856, 1-4	BED	y marn personol i	NSNT	NSNT
+210, 4	856, 5-6	BED	ydy hwnna	NSNT	NSNT
+210, 5	856, 8-8	BED	bod	NSNT	NSNT
+210, 6	856, 9-16	BED	gynnon nhw ormod o amser i eu hunain	NSNT	NSNT
+210, 7	858, 1-7	BED	a wedyn mae nhw mynd yn bored	SNT	SNT
+210, 8	859, 1-7	BED	a wedyn mae nhw dechrau wneud drygioni	NSNT	NSNT
+210, 9	861, 1-3	BED	ond does yna	---	NSNT
+
+
+211, 1	862, 1-7	AED	ia ond bosib am bod o hefyd	NSNT	NSNT
+211, 2	862, 8-12	AED	bod nhw yn cael gymaint	SNT	NSNT
+211, 3	863, 1-13	AED	because pan fydda i mynd i *round* ysgolion yma siarad efo pobl ifanc	NST	ST
+211, 4	863, 14-20	AED	sy ar fin *er* ymddeol *er* ymddeol	NST	NST
+211, 5	863, 21-27	AED	meddai fi ymadael yr ysgol mewn ffordd	NSNT	NSNT
+211, 6	865, 1-6	AED	a dechrau *er* dechrau gyrfa de	NST	NST
+211, 7	865, 7-23	AED	a fydda i yn gofyn nhw faint ohonyn nhw sydd *er* *um* yn gwneud gwaith rhan amser	NST	NST
+211, 9	867, 1-3	AED	prin iawn iawn	NSNT	NSNT
+211, 10	868, 1-8	AED	ac os rywbeth genod sy wedi dod i_fyny	NSNT	NSNT
+211, 11	870, 1-4	AED	dydy yr hogiau *oh*	NST	NST
+211, 12	870, 5-6	AED	na does	NSNT	NSNT
+211, 13	870, 7-10	AED	gynnon nhw ddim_byd wneud	NSNT	NSNT
+211, 14	871, 1-8	AED	*right* fydda i yn gofyn nhw wedyn ddim	NST	NST
+211, 15	871, 9-11	AED	bod yn bersonol	NSNT	NSNT
+211, 16	871, 12-14	AED	fydda i gofyn	NSNT	NSNT
+211, 17	872, 1-12	AED	*right* drwy yr dosbarth wan faint ohonoch chi sy cael pres *pocket*	NST	NST
+211, 18	874, 1-4	AED	mae yr dwylo fyny	NSNT	NSNT
+211, 19	876, 1-7	AED	dw meddwl na ryw un y cant	NSNT	NSNT
+211, 20	876, 8-14	AED	sy ddim yn cael pres *pocket* wan	NST	NST
+211, 21	879, 1-4	AED	*right* fydda i gofyn	NST	NST
+211, 22	880, 1-12	AED	faint ohonoch chi sy yn gwneud gwaith am y pres *pocket* yma	NST	NST
+211, 23	881, 1-3	AED	gwneud rywbeth de	---	NSNT
+
+
+212, 1	882, 1-1	BED	dim_byd	---	NSNT
+
+
+213, 1	883, 1-1	AED	dim_byd	NSNT	NSNT
+213, 3	885, 1-6	AED	hyn a hyn roi dwylo fyny	NSNT	NSNT
+213, 4	886, 1-6	AED	o bum punt i ddeg punt	NSNT	NSNT
+213, 5	887, 1-3	AED	hyn a hyn	NSNT	NSNT
+213, 6	888, 1-7	AED	o ddeg punt i ugain punt de	NSNT	NSNT
+213, 7	888, 8-13	AED	mae mwyafrif yn roi dwylo fyny	NSNT	NSNT
+213, 8	890, 1-5	AED	*oh* sbïwch chi ugain punt	NST	NST
+213, 9	892, 1-7	AED	argoel mawr oedd o yn gyflog bythefnos	NSNT	NSNT
+213, 10	892, 8-8	AED	doedd	---	NSNT
+
+
+214, 1	893, 1-5	BED	arglwydd toedd mi oedd o	---	NSNT
+
+
+215, 1	894, 1-1	AED	toedd	NSNT	NSNT
+215, 2	896, 1-17	AED	ond eto fel o'ch chi yn ddeud gynnau de o'ch chi yn dod adre o yr ysgol	NSNT	NSNT
+215, 3	896, 18-19	AED	ac oedd	NSNT	NSNT
+215, 4	896, 20-25	AED	gynnoch chi bethau isio eu gwneud	NSNT	NSNT
+215, 5	896, 26-26	AED	doedd	---	NSNT
+
+
+216, 1	897, 1-2	BED	oedd tad	---	NSNT
+
+
+217, 1	898, 1-6	AED	oedd yna briciau tân llenwi bwced	NSNT	NSNT
+217, 2	898, 7-8	AED	glo carthu	NSNT	NSNT
+217, 4	900, 1-2	AED	baw gwartheg	---	NSNT
+
+
+218, 1	903, 1-2	BED	dyna fo	NSNT	NSNT
+218, 2	903, 3-4	BED	dyna fo	NSNT	NSNT
+218, 3	904, 1-3	BED	neu o *shop*	---	NST
+
+
+219, 1	905, 1-2	AED	dyna fo	NSNT	NSNT
+219, 2	905, 3-5	AED	oedd yna rywbeth	---	NSNT
+
+
+220, 1	906, 1-11	BED	*bike* ac yn mynd *round* mynd â *orders* allan a ballu	---	NST
+
+
+221, 1	907, 3-4	AED	oedd yna	---	NSNT
+
+
+222, 1	908, 1-6	BED	na toes yna ddim neb yn	NSNT	NSNT
+222, 2	909, 1-5	BED	mae ryw ychydig o hogiau	NSNT	NSNT
+222, 3	909, 6-18	BED	dw ddim yn deud mynd efo papurau ballu cyn mynd i yr ysgol	NSNT	NSNT
+222, 4	910, 1-8	BED	ond mae rheiny wedi mynd yn brin wan	---	NSNT
+
+
+223, 1	911, 2-3	AED	mae nhw	---	NSNT
+
+
+224, 1	912, 1-6	BED	does yna ddim llawer ohonyn nhw	---	NSNT
+
+
+225, 1	913, 1-1	AED	ydyn	NSNT	NSNT
+225, 2	913, 2-2	AED	ydyn	NSNT	NSNT
+225, 3	913, 3-3	AED	ydyn	NSNT	NSNT
+225, 4	914, 1-6	AED	*oh* *yeah* ond mae rheolau hefyd	NST	NST
+225, 5	914, 7-7	AED	dydy	NSNT	NSNT
+225, 6	915, 1-6	AED	mae rheolau wan yn deud *oh*	NST	NST
+225, 7	915, 7-15	AED	gewch chi ddim o_dan ryw oed a yr oed	---	NSNT
+
+
+226, 1	916, 1-3	BED	*oh* hollol hollol	---	NST
+
+
+227, 1	917, 1-9	AED	wedyn diawl dan ni wedi mynd i mollycoddle_io nhw	---	SNT
+
+
+228, 1	918, 1-2	BED	mollycoddle_io nhw	---	SNT
+
+
+229, 1	919, 1-3	AED	argoel mawr yndy	---	NSNT
+
+
+230, 1	920, 1-7	BED	gweithio doedd yna ddim toedd yna ddim	NSNT	NSNT
+230, 2	921, 1-9	BED	os oedd yna *job* i wneud well gorffen hi	NST	NST
+230, 3	923, 1-4	BED	toedd yna ddim deud	NSNT	NSNT
+230, 4	924, 1-10	BED	*oh* na dw i yn gorffen dri o yr gloch	NST	NST
+230, 6	927, 1-6	BED	toedd yna ddim doedd o ddim	NSNT	NSNT
+230, 7	927, 7-8	BED	yn bod	NSNT	NSNT
+230, 8	927, 9-10	BED	nag oedd	---	NSNT
+
+
+231, 1	928, 1-2	AED	nag oedd	NSNT	NSNT
+231, 2	928, 3-4	AED	nag oedd	NSNT	NSNT
+231, 3	929, 1-4	AED	ac oedd yr arian	NSNT	NSNT
+231, 4	929, 5-8	AED	oeddech chi yn gael	NSNT	NSNT
+231, 5	929, 9-16	AED	oedd hwnna mynd i yr *pot* y teulu	NST	NST
+231, 6	929, 17-17	AED	doedd	---	NSNT
+
+
+232, 1	930, 1-2	BED	*oh* hollol	---	NST
+
+
+233, 1	931, 1-8	AED	doedd o ddim mynd i eich *pocket* chi	NST	NST
+233, 2	931, 9-10	AED	nag oedd	---	NSNT
+
+
+234, 1	932, 1-2	BED	nag oedd	NSNT	NSNT
+234, 2	932, 3-4	BED	nag oedd	---	NSNT
+
+
+235, 1	933, 1-9	AED	ac oeddech chi yn cael eich gwobrwyo mewn ffordd	NSNT	NSNT
+235, 2	933, 10-24	AED	os oedd yna dipyn bach dros ben cael ryw drowsus heb dwll yno fo rywbeth	NSNT	NSNT
+235, 3	933, 25-32	AED	neu pâr o sanau neu rhywbeth fel yna	---	NSNT
+
+
+236, 1	934, 1-5	BED	dyna fo hollol hollol hollol	---	NSNT
+
+
+236, 2	935, 1-1	BED	hollol	---	NSNT
+
+
+238, 1	939, 1-2	BED	*hollol* *mmm*	---	NST
+
+
+239, 1	940, 1-3	AED	*games* de pethau	NST	NST
+239, 2	940, 4-8	AED	fedr fo wneud hebddyn nhw	NSNT	NSNT
+239, 3	942, 1-6	AED	*oh* na mae wedi mynd yn	NST	NST
+239, 4	942, 7-10	AED	oes *right* *er* hurt	---	NST
+
+
+240, 1	943, 1-5	BED	ond dw i cofio *er*	NST	NST
+240, 2	943, 6-9	BED	dyna yr peth arall	NSNT	NSNT
+240, 3	943, 10-14	BED	oedd rywun yn gorfod wneud	NSNT	NSNT
+240, 4	943, 15-24	BED	de *um* *er* i i i brofi wan fel arall	NST	NST
+240, 5	943, 25-27	BED	be wyt ti	NSNT	NSNT
+240, 6	943, 28-30	BED	bod ddeud rŵan	NSNT	NSNT
+240, 7	944, 1-15	BED	duwcs os o'n isio dillad newydd o'n i yn mynd lawr i i i *shop*	NST	NST
+240, 8	945, 1-9	BED	*Siop_Meic* o'n ni yn galw hi yn *Bethesda* felly	NST	NST
+240, 9	946, 1-14	BED	a wedyn oedden ni yn cael dillad yn fan yna talu bob wythnos amdano	NSNT	NSNT
+240, 10	948, 1-2	BED	wedyn fyddai	NSNT	NSNT
+240, 11	948, 3-5	BED	fyddai *er* *er*	NST	NST
+240, 12	948, 6-18	BED	oedd gynno fo drafaeliwr dod *round* felly bob *er* cofio am bore Sadwrn	NST	NST
+240, 13	948, 19-20	BED	oedd hi	NSNT	NSNT
+240, 14	949, 1-7	BED	wedyn *um* os oeddwn i ddim adre	NST	NST
+240, 16	949, 36-40	BED	oedd o adeg yno felly	NSNT	NSNT
+240, 17	949, 41-44	BED	oedd y pres yna	NSNT	NSNT
+240, 18	952, 1-12	BED	ond wedyn oedda chdi gael dy ddysgu i i hefyd i fyw	---	NSNT
+
+
+241, 1	953, 1-1	AED	oeddech	---	NSNT
+
+
+242, 1	954, 1-4	BED	ac i ac i	NSNT	NSNT
+242, 2	955, 1-8	BED	doedda chdi ddim yn cael nhw am ddim	NSNT	NSNT
+242, 3	956, 1-11	BED	beth bynnag oedda chdi isio gorfod talu amdano fo dy hun	NSNT	NSNT
+242, 4	958, 1-7	BED	wedyn oedd gen ti fwy o barch	NSNT	NSNT
+242, 5	960, 1-4	BED	*oh* mae nhw heddiw	NST	NST
+242, 6	960, 5-9	BED	mae nhw cael *bikes* newydd	NST	NST
+242, 7	962, 1-9	BED	dw i wedi gweld nhw hyd y lle acw	NSNT	NSNT
+242, 8	964, 1-10	BED	cannoedd o bunnau ac yn eu lluchio nhw ochr lôn	---	NSNT
+
+
+243, 1	965, 1-8	AED	ia ia union yr un fath yndy *mmm*	---	NST
+
+
+244, 1	966, 1-5	BED	ches i erioed *fike* newydd	---	NST
+
+
+245, 1	967, 1-4	AED	na finnau chwaith erioed	---	NSNT
+
+
+246, 1	968, 1-3	BED	medru fforddio nhw	NSNT	NSNT
+246, 2	970, 1-2	BED	adeg yno	NSNT	NSNT
+246, 3	971, 1-9	BED	a toedd *bike* newydd adeg yno dim ond ryw	NST	NST
+246, 4	972, 1-4	BED	*well* faint oedd o	NST	NST
+246, 5	973, 1-10	BED	ryw bum punt chwech os oedd o gymaint â hynny	NSNT	NSNT
+246, 6	975, 1-6	BED	ond oedd o yn bres mawr	NSNT	NSNT
+246, 7	978, 1-3	BED	be oedd *er*	NST	NST
+246, 8	978, 4-7	BED	be oedd cyflog chwarel	NSNT	NSNT
+246, 9	979, 1-6	BED	ryw thirteen *pound* *odd* yr wsnos	---	ST
+
+
+247, 1	980, 1-2	AED	argian ia	---	NSNT
+
+
+248, 1	981, 1-3	BED	doedd yna ddim	NSNT	NSNT
+248, 2	981, 4-6	BED	doedd yna ddim_byd	NSNT	NSNT
+248, 3	981, 7-11	BED	fedrai pobl ddim fforddio fo	---	NSNT
+
+
+249, 1	982, 1-14	AED	na a dau beth o'n nhw isio de ond bwyd a talu *rent* fel	NST	NST
+249, 2	982, 15-15	AED	arfer	NSNT	NSNT
+249, 3	982, 16-19	AED	de rhan fwya nhw	---	NSNT
+
+
+250, 1	983, 1-3	BED	hollol hollol *yeah*	---	NST
+
+
+251, 1	984, 1-5	AED	ia doedd yna ddim ceir	NSNT	NSNT
+251, 2	985, 1-5	AED	a doedd yna ddim *holidays*	---	NST
+
+
+252, 1	986, 1-2	BED	nag oedd	---	NSNT
+
+
+253, 1	987, 1-6	AED	*er* dramor na dim_byd nag oedd	---	NST
+
+
+254, 1	988, 1-2	BED	nag oedd	NSNT	NSNT
+254, 2	988, 3-4	BED	nag oedd	NSNT	NSNT
+254, 3	988, 5-6	BED	nag oedd	---	NSNT
+
+
+255, 1	989, 1-2	AED	nag oedd	---	NSNT
+
+
+256, 1	990, 1-5	BED	Duw annwyl nag oedd na	---	NSNT
+
+
+257, 1	991, 1-5	AED	*trip* ysgol Sul oedd peth	NST	NST
+257, 2	991, 6-10	AED	oedden ni mynd bella efo	---	NSNT
+
+
+258, 1	992, 1-3	BED	unwaith y flwyddyn	NSNT	NSNT
+258, 2	994, 1-4	BED	cael mynd i *Rhyl*	---	NST
+
+
+259, 1	995, 1-8	AED	ia *Rhyl* *yeah* a *Rhyl* mor bell doedd	---	NST
+
+
+260, 1	996, 1-8	BED	ew oedd i weld yn bell mewn *train*	---	NST
+
+
+261, 1	997, 1-10	AED	argian a pawb yn excite_io gweld y big *wheel* de	NST	ST
+261, 3	999, 1-1	AED	dyna	NSNT	NSNT
+261, 4	999, 2-12	AED	be oedd y peth y cynta i weld y big *wheel*	---	ST
+
+
+262, 1	1001, 1-7	BED	a mynd ar y hen geffylau *round*	NST	NST
+262, 2	1004, 1-4	BED	ac ceffylau yn gastiog	NSNT	NSNT
+262, 3	1005, 1-14	BED	oedden nhw yn torri mewn a wedyn hitio dy ben_glin erbyn y polyn pob	NSNT	NSNT
+262, 4	1005, 15-16	BED	tro *just*	NST	NST
+262, 5	1007, 1-1	BED	ew	---	NSNT
+
+
+263, 1	1009, 1-11	AED	*yeah* ac i *Marine_Lake* ar yr hen gychod yma wedyn de	---	NST
+
+
+264, 1	1010, 1-3	BED	a *bikes* te	NST	NST
+264, 2	1012, 1-5	BED	cael chwarae ar y *bikes*	NST	NST
+264, 3	1014, 1-9	BED	oedden ni cael mynd ar y *bike* mewn ffordd	NST	NST
+264, 4	1014, 10-15	BED	de cael mynd i fan yna	---	NSNT
+
+
+265, 1	1017, 1-2	AED	ia wchi	---	NSNT
+
+
+266, 1	1018, 1-5	BED	na mae pethau wedi mynd	---	NSNT
+
+
+267, 1	1019, 1-15	AED	ia ac yn hel doedd wedi hel mewn ryw hen *din* bach pren yn capel	---	NST
+
+
+268, 1	1022, 1-11	BED	a mynd i lan môr *Aberogwen* de a pawb yna *just*	NST	NST
+268, 2	1022, 12-18	BED	te a wedi wedyn wedi cerdded i_lawr	NSNT	NSNT
+268, 3	1023, 1-8	BED	fedra chdi ddim mynd dim un ffordd arall	NSNT	NSNT
+268, 4	1024, 1-9	BED	oedd yna ddim *bus* na dim_byd yn mynd yna	---	NST
+
+
+269, 1	1026, 1-2	AED	nag oedd	---	NSNT
+
+
+270, 1	1027, 1-10	BED	a wedyn oedda chdi yn cael *picnic* yn fan yno	NST	NST
+270, 2	1027, 11-11	BED	te	NSNT	NSNT
+270, 3	1029, 1-15	BED	a pawb *er* gwahanol deuluoedd efo ei_gilydd fel yna te a eu pawb yn chwarae	NST	NST
+270, 4	1029, 16-16	BED	te	---	NSNT
+
+
+271, 1	1031, 1-9	AED	*yeah* a yr plant yn chwarae yn braf *yeah*	---	NST
+
+
+272, 1	1032, 1-3	BED	ond dyna fo	---	NSNT
+
+
+273, 1	1033, 1-2	AED	syml de	---	NSNT
+
+
+274, 1	1034, 1-8	BED	*oh* *yeah* ond cwbl mae nhw isio heddiw	NST	NST
+274, 2	1034, 9-11	BED	ydy cerdded strydoedd	NSNT	NSNT
+274, 3	1037, 1-1	BED	ac	NSNT	NSNT
+274, 4	1038, 1-4	BED	be gawn ni wneud	NSNT	NSNT
+274, 5	1038, 5-5	BED	nesa	NSNT	NSNT
+274, 6	1040, 1-4	BED	a sy yn ddrygioni	NSNT	NSNT
+274, 7	1042, 1-4	BED	a dw i meddwl	NSNT	NSNT
+274, 8	1042, 5-8	BED	bod nhw cael gormod	---	NSNT
+
+
+275, 1	1043, 1-7	AED	*mmm* *well* ia dw innau hefyd ond	---	NST
+
+
+276, 1	1044, 1-5	BED	mae nhw yn cael gormod	NSNT	NSNT
+276, 2	1045, 1-8	BED	a mae gynnyn nhw ormod o amser hefyd	NSNT	NSNT
+276, 3	1045, 9-12	BED	de ar eu dwylo	---	NSNT
+
+
+277, 1	1048, 1-6	AED	ia duwcs ond mae yn anodd	NSNT	NSNT
+277, 2	1048, 7-9	AED	dydy newid pethau	NSNT	NSNT
+277, 3	1049, 1-7	AED	achos mae yna ryw hawliau ofnadwy wan	NSNT	NSNT
+277, 4	1049, 8-8	AED	does	---	NSNT
+
+
+278, 1	1050, 1-7	BED	a mae nhw yn troi *round* a	NST	NST
+278, 2	1051, 2-6	BED	a mae nhw troi *round*	NST	NST
+278, 3	1052, 1-1	BED	does	NSNT	NSNT
+278, 4	1052, 2-4	BED	gynnon ni ddim	NSNT	NSNT
+278, 5	1052, 5-5	BED	does	NSNT	NSNT
+278, 6	1052, 6-8	BED	gynnon ni ddim	NSNT	NSNT
+278, 7	1052, 9-9	BED	does	NSNT	NSNT
+278, 8	1052, 10-12	BED	gynnon ni ddim	NSNT	NSNT
+278, 9	1053, 1-8	BED	arglwydd doedd yna ddim youth *club* pan i	---	ST
+
+
+279, 1	1054, 1-3	AED	*oh* nag oedd	NST	NST
+279, 2	1054, 4-5	AED	nag oedd	---	NSNT
+
+
+280, 1	1055, 1-4	BED	fath o *fashion* beth	NST	NST
+280, 2	1057, 1-12	BED	fel ddois i yn hynach mi oedd yr *Urdd* a yr *Aelwyd*	---	NST
+
+
+281, 1	1058, 1-7	AED	ia yr *Aelwyd* yn bwysig ofnadwy doedd	---	NST
+
+
+282, 1	1059, 1-4	BED	ond ond dyna ond	NSNT	NSNT
+282, 2	1059, 5-6	BED	dyna hi	NSNT	NSNT
+282, 3	1061, 1-6	BED	ond ar_ôl hynny toedd yna ddim_byd	---	NSNT
+
+
+283, 1	1062, 1-7	AED	*oh* na oeddech chi yn gweithio doeddech	---	NST
+
+
+284, 1	1063, 1-1	BED	oedden	NSNT	NSNT
+284, 2	1063, 2-3	BED	oedden ni	NSNT	NSNT
+284, 3	1064, 1-4	BED	*well* os oedd yna	NST	NST
+284, 5	1067, 1-5	BED	mynd am dro oedden ni	NSNT	NSNT
+284, 6	1069, 1-9	BED	ella chwech wyth ohonan ni dim cerdded stryd *Bethesda*	---	NST
+
+
+285, 1	1071, 1-2	AED	naci naci	---	NSNT
+
+
+286, 1	1072, 1-8	BED	ond dyn nhw ddim yn wneud o heddiw	NSNT	NSNT
+286, 2	1074, 1-13	BED	a *park* *er* *er* *Bryn_Meurig* oedden ni yn chwarae fan yna am oriau	NST	NST
+286, 4	1077, 1-6	BED	mae yr llwybrau wedi cau wan	NSNT	NSNT
+286, 5	1078, 1-5	BED	toes yna neb yn chwarae	---	NSNT
+
+
+287, 1	1079, 1-2	AED	nag oes	NSNT	NSNT
+287, 2	1079, 3-8	AED	na dyn nhw ddim yn gwybod	NSNT	NSNT
+287, 3	1080, 1-8	AED	mae nhw wedi colli yr ddawn o chwarae	---	NSNT
+
+
+288, 1	1081, 1-4	BED	dyn nhw ddim chwarae	NSNT	NSNT
+288, 2	1082, 1-2	BED	mae o	NSNT	NSNT
+288, 3	1082, 3-7	BED	mae teledu neu cerdded stryd	---	NSNT
+
+
+289, 1	1086, 1-12	AED	mae yr hen gomputers yma wedi mynd â eu *er* *games* nhw	NST	ST
+289, 2	1086, 13-13	AED	dydy	---	NSNT
+
+
+290, 1	1087, 1-3	BED	*well* mae wedi	---	NST
+
+
+291, 1	1088, 1-4	AED	wnaeth *er* nain chi	NST	NST
+291, 2	1088, 5-7	AED	oedd hi yn	NSNT	NSNT
+291, 3	1089, 1-11	AED	*well* dach chi yn gwybod am *Meilir_Edwards* a nain yn *Gwernydd*	---	NST
+
+
+292, 1	1090, 1-1	BED	ydw	---	NSNT
+
+
+293, 1	1091, 1-6	AED	a be fyddai taid ddeud ers_talwm	NSNT	NSNT
+293, 2	1091, 7-20	AED	de *um* pobl ddod ar nos Sul draw o capel am *Gwernydd* criwiau nhw	NST	NST
+293, 3	1091, 21-30	AED	de hogiau ifanc griwiau genod ifanc hefo ei_gilydd dŵad i_fyny	NSNT	NSNT
+293, 5	1092, 19-23	AED	de ac yn gwerthu nhw	NSNT	NSNT
+293, 6	1094, 1-19	AED	a byrddau bach gynno taid yn yr ardd rywle *round* y *er* *er* hen dyddyn bach *er* *Gwernydd* de	NST	NST
+293, 7	1097, 1-16	AED	a yr hen griwiau *er* bobl ifanc yn dŵad a eistedd fan yna cael sgwrs de	---	NST
+
+
+294, 1	1098, 1-3	BED	*yeah* dyna fo	---	NST
+
+
+295, 1	1099, 1-11	AED	byth helynt byth dwrw mawr na dwrw bach na dim_byd de	NSNT	NSNT
+295, 2	1100, 1-7	AED	pawb yn gwneud efo ei_gilydd iawn de	NSNT	NSNT
+295, 3	1101, 1-7	AED	a fel chdi ddeud cerdded fyddai bobl	NSNT	NSNT
+295, 4	1101, 8-14	AED	de mwynhau hunan rywle de ac yn	---	NSNT
+
+
+296, 1	1103, 1-6	BED	wrth_gwrs mae isio bod yn deg	NSNT	NSNT
+296, 2	1104, 1-7	BED	a a dw i ddim yn ddeud	NSNT	NSNT
+296, 3	1104, 8-16	BED	bod bob pobl ifanc yn wneud yn gwneud dim_byd	NSNT	NSNT
+296, 4	1105, 1-5	BED	*er* be dan ni ddeud	NST	NST
+296, 5	1105, 6-8	BED	bod y rhei	NSNT	NSNT
+296, 6	1105, 9-16	BED	sy yn gwneud hyn yr un un rhei	NSNT	NSNT
+296, 7	1105, 17-31	BED	wyt ti yn weld *er* yn yn yn cerdded o_gwmpas a yn wneud twrw a	NST	NST
+296, 8	1105, 32-36	BED	sti cerdded stryd ac ati	NSNT	NSNT
+296, 9	1106, 1-9	BED	yr un un yr un un *crowd* ydyn nhw	NST	NST
+296, 10	1108, 1-11	BED	ond tydyn tydy bob pobl ifanc ddim yn wneud o nac	---	NSNT
+
+
+297, 1	1109, 1-3	AED	nac ydy nac	---	NSNT
+
+
+298, 1	1110, 1-5	BED	mae isio bod yn deg	NSNT	NSNT
+298, 3	1111, 23-33	BED	wedi bod i *round* *er* tai hen bobl a ballu a	NST	NST
+298, 4	1111, 34-41	BED	wedi bod â coed tân ac ati nhw	NSNT	NSNT
+298, 5	1114, 1-4	BED	mae nhw wneud *lot*	NST	NST
+298, 6	1114, 5-14	BED	mae yna rei bobl ifanc wneud gwaith da iawn hefyd	NSNT	NSNT
+298, 7	1114, 15-15	BED	te	NSNT	NSNT
+298, 8	1116, 1-6	BED	wedyn mae isio bod yn deg	NSNT	NSNT
+298, 9	1118, 1-6	BED	ond *er* y ydy y ychydig	NST	NST
+298, 10	1118, 7-10	BED	sy yn wneud twrw	NSNT	NSNT
+298, 11	1118, 11-16	BED	sy cael y sylw bob amser	---	NSNT
+
+
+299, 1	1119, 1-8	AED	ia *yeah* rheiny sy yn dinistrio yr gymdeithas	---	NST
+
+
+300, 1	1120, 1-7	BED	rheiny rheiny sy yn cael y sylw	NSNT	NSNT
+300, 2	1122, 1-13	BED	dydyn nhw ddim yn rhoi sylw i pobl ifanc sy wneud gwaith da	NSNT	NSNT
+300, 3	1124, 1-9	BED	*oh* na dydyn nhw ddim isio gwybod am rheina	---	NST
+
+
+301, 1	1126, 1-5	AED	a mae yna wahaniaeth rhwng	NSNT	NSNT
+301, 2	1126, 6-8	AED	bod yn ddrwg	NSNT	NSNT
+301, 3	1126, 9-12	AED	a bod yn ddireidus	NSNT	NSNT
+301, 4	1126, 13-13	AED	does	---	NSNT
+
+
+302, 1	1127, 1-4	BED	*oh* hollol hollol hollol	---	NST
+
+
+303, 1	1128, 1-12	AED	because *er* yn deud straeon wrtha fi de pan o'n i *er*	NST	ST
+303, 2	1128, 13-19	AED	pan oedd o hefo ni yn *Cilfodan*	NST	NST
+303, 3	1130, 1-8	AED	o pan oedd o yn hogyn ifanc neu	NSNT	NSNT
+303, 4	1130, 9-14	AED	pan oedd o yn hogyn bach	NSNT	NSNT
+303, 5	1130, 15-20	AED	de a yr a yr drygioni	NSNT	NSNT
+303, 6	1130, 21-23	AED	fyddai fo wneud	NSNT	NSNT
+303, 7	1132, 1-4	AED	ond direidus oedd o	NSNT	NSNT
+303, 8	1133, 1-2	AED	oedd ddim_byd	NSNT	NSNT
+303, 9	1133, 3-9	AED	oedd yna dim_byd drwg yno mewn ffordd	NSNT	NSNT
+303, 10	1133, 10-11	AED	nag oedd	---	NSNT
+
+
+304, 1	1134, 1-2	BED	nag oedd	NSNT	NSNT
+304, 2	1134, 3-4	BED	nag oedd	NSNT	NSNT
+304, 3	1134, 5-9	BED	nag oedd toedd yna ddim	---	NSNT
+
+
+305, 1	1135, 1-2	AED	nag oedd	NSNT	NSNT
+305, 2	1135, 3-5	AED	nag oedd duwcs	---	NSNT
+
+
+306, 1	1136, 1-5	BED	na mae rhaid mi ddeud	NSNT	NSNT
+306, 2	1136, 6-16	BED	mae yna *lot* o bobl ifanc yn gwneud gwaith da iawn	NST	NST
+306, 3	1138, 1-5	BED	oes wir chwarae teg nhw	---	NSNT
+
+
+307, 1	1140, 1-13	AED	*oh* mae yn bosib iawn na rhieni sydd yn dylanwadu ar y ffordd	NST	NST
+307, 2	1140, 14-17	AED	mae nhw yn bihafio	NSNT	NSNT
+307, 3	1142, 1-9	AED	*er* bod y rhieni wedi cael eu magu *right*	---	NST
+
+
+308, 1	1143, 1-8	BED	*well* *oh* fan yna mae rheolaeth yn dechrau	NST	NST
+308, 2	1145, 1-6	BED	ar yr aelwyd mae yn dechrau	---	NSNT
+
+
+309, 1	1146, 1-6	AED	*yeah* ar yr aelwyd ia ia	---	NST
+
+
+310, 1	1147, 1-4	BED	os na ydy o	NSNT	NSNT
+310, 2	1147, 5-11	BED	os oes yna reolaeth ar aelwyd *well*	NST	NST
+310, 3	1147, 12-14	BED	mae wedi darfod	NSNT	NSNT
+310, 4	1147, 15-15	BED	dydy	---	NSNT
+
+
+311, 1	1149, 2-6	AED	dyn nhw ddim gweld wedyn	---	NSNT
+
+
+312, 1	1150, 1-19	BED	*oh* clywed rei nhw yn ateb eu *mham* yn_ôl ac y tad ac yn rhegi ac yn *oh* *ph*	---	NST
+
+
+313, 1	1151, 1-2	AED	ew *yeah*	NST	NST
+313, 2	1152, 1-4	AED	ia dim parch de	NSNT	NSNT
+313, 3	1153, 1-2	AED	dim parch	---	NSNT
+
+
+314, 1	1154, 1-3	BED	mae wedi ddarfod	NSNT	NSNT
+314, 2	1154, 4-4	BED	tydy	NSNT	NSNT
+314, 3	1156, 1-5	BED	ond mae raid mi ddeud	NSNT	NSNT
+314, 4	1156, 6-12	BED	mae rhan fwya ohonyn nhw yn iawn	NSNT	NSNT
+314, 5	1158, 1-5	BED	a mae diolch am hynny	---	NSNT
+
+
+315, 1	1159, 1-2	AED	*well* ia	---	NST
+
+
+316, 1	1160, 1-10	BED	ew ia ond mae yna ormod o sylw cael ei	NSNT	NSNT
+316, 2	1160, 11-15	BED	roid i yr lleiafrif o_hyd	NSNT	NSNT
+316, 3	1162, 1-4	BED	dydy o ddim ots	NSNT	NSNT
+316, 4	1162, 5-7	BED	be ydy o	NSNT	NSNT
+316, 5	1162, 8-11	BED	mae nhw am wneud	NSNT	NSNT
+316, 6	1163, 1-7	BED	wrth_gwrs *er* newyddion ydy o ddim_byd arall	NST	NST
+316, 7	1165, 1-9	BED	mond rywbeth i werthu papur newydd a a teledu	NSNT	NSNT
+316, 8	1167, 1-6	BED	ond *er* na dw i yn	NST	NST
+316, 9	1167, 7-10	BED	dw i yn credu	NSNT	NSNT
+316, 10	1167, 11-18	BED	fysai nhw yn yn yn deg a dangos	NSNT	NSNT
+316, 11	1167, 19-23	BED	be mae yr pethau da	NSNT	NSNT
+316, 12	1167, 24-27	BED	mae nhw wneud hefyd	---	NSNT
+
+
+317, 1	1168, 1-4	AED	fysai hynna yn *help*	NST	NST
+317, 2	1168, 5-5	AED	byddai	---	NSNT
+
+
+318, 1	1169, 1-4	BED	fasai yn helpu nhw	---	NSNT
+
+
+319, 1	1170, 1-7	AED	dach chi yn cofio yr *news* ers_talwm	NST	NST
+319, 2	1171, 1-10	AED	dw i yn deud o_hyd ar ddiwedd y *news* ers_talwm	NST	NST
+319, 3	1171, 11-17	AED	oedd yna rywbeth i godi calon rywun	NSNT	NSNT
+319, 4	1171, 18-18	AED	doedd	NSNT	NSNT
+319, 5	1173, 1-16	AED	ryw ryw erthygl neu ryw ddarn ar ddiwedd yr yr *er* newyddion i godi calon rywun	NST	NST
+319, 7	1176, 1-4	AED	mae o yn ddigalon	NSNT	NSNT
+319, 8	1177, 1-9	AED	dw i wedi roi gorau i watsied o wan	NSNT	NSNT
+319, 9	1177, 10-10	AED	wchi	---	NSNT
+
+
+320, 1	1178, 1-4	BED	*oh* *oh* dw innau	NST	NST
+320, 2	1178, 5-12	BED	does gyn i ddim_byd i ddeud wrth rheiny	---	NSNT
+
+
+321, 1	1179, 1-8	AED	na does gyn i ddim mond y dywydd	NSNT	NSNT
+321, 2	1180, 1-5	AED	dw cael y dywydd wan	NSNT	NSNT
+321, 3	1181, 1-5	AED	a fedr neb newid hwnnw	NSNT	NSNT
+321, 4	1181, 6-7	AED	na fedr	---	NSNT
+
+
+322, 1	1182, 1-14	BED	na well gyn i ddarllen ychan na gwrando ar y taclau ddeud y gwir	NSNT	NSNT
+322, 2	1184, 1-3	BED	achos yr un	---	NSNT
+
+
+323, 1	1185, 1-8	AED	*oh* mae wedi mynd yn ddigalon fel yna	---	NST
+
+
+324, 1	1186, 1-7	BED	*well* yr un un peth sy yna	NST	NST
+324, 2	1188, 1-5	BED	mae rywbeth wedi ladd fel	NSNT	NSNT
+324, 3	1188, 6-7	BED	ddeudais i	NSNT	NSNT
+324, 4	1190, 1-6	BED	mae hwn a hwn wedi mynd	NSNT	NSNT
+324, 5	1191, 1-4	BED	neu mae yna *oh*	NST	NST
+324, 6	1191, 5-10	BED	dwn i ddim yn gwybod *um*	---	NST
+
+
+325, 1	1193, 1-12	AED	*yeah* neu doriad yn gyflog hwn a ryw cau ryw ysgol *yeah*	---	NST
+
+
+326, 1	1194, 1-7	BED	neu mae hwn wedi gadael ei wraig	NSNT	NSNT
+326, 2	1196, 1-5	BED	neu mae yna rywbeth arall	NSNT	NSNT
+326, 3	1197, 1-9	BED	a a mae hwnnw wedi mynd wan yn beth	---	NSNT
+
+
+327, 1	1199, 1-5	AED	yn beth cyffredin iawn dydy	---	NSNT
+
+
+328, 1	1200, 1-6	BED	*oh* mae fath â newid crys	NST	NST
+328, 2	1200, 7-7	BED	dydy	---	NSNT
+
+
+329, 1	1201, 1-2	AED	yndy Duw	NSNT	NSNT
+329, 2	1201, 4-6	AED	yndy ddigon gwir	NSNT	NSNT
+329, 5	1205, 1-7	AED	*well* oedd hwnnw yn rywbeth i wneud	NST	NST
+329, 6	1205, 8-8	AED	doedd	NSNT	NSNT
+329, 7	1206, 1-8	AED	ac oedd o yn bleser i chi hefyd	NSNT	NSNT
+329, 8	1206, 9-9	AED	doedd	---	NSNT
+
+
+330, 1	1208, 1-3	BED	oedd a ond	NSNT	NSNT
+330, 2	1208, 4-7	BED	ond dw i credu	NSNT	NSNT
+330, 3	1208, 8-8	BED	bod	NSNT	NSNT
+330, 4	1208, 9-9	BED	yr	NSNT	NSNT
+330, 5	1208, 10-15	BED	mae o yn ddyfnach na hynna	NSNT	NSNT
+330, 6	1208, 16-17	BED	dw meddwl	NSNT	NSNT
+330, 7	1209, 1-8	BED	fath â o'n i wedi wneud oedd hi	NSNT	NSNT
+330, 8	1209, 9-17	BED	oedda chdi yn sbïo rywun fath â dy dad	NSNT	NSNT
+330, 9	1210, 1-5	BED	*er* oedda chdi deud *er*	NST	NST
+330, 10	1210, 6-13	BED	oedd o yn un da efo cŵn defaid	NSNT	NSNT
+330, 11	1211, 1-3	BED	oedda chdi yn	NSNT	NSNT
+330, 12	1212, 1-2	BED	dim â	NSNT	NSNT
+330, 13	1212, 3-8	BED	bod o yn dad i chdi	NSNT	NSNT
+330, 14	1212, 9-13	BED	dw i yn ddeud wan	NSNT	NSNT
+330, 15	1213, 1-4	BED	*Eilir_Wern* yr un fath	NST	NST
+330, 16	1215, 1-6	BED	wedyn oedd o'n i wan yn	NSNT	NSNT
+330, 17	1216, 1-4	BED	dechrau dysgu o'n i	NSNT	NSNT
+330, 18	1218, 1-7	BED	wedyn o'n i sbïo i_fyny arnyn nhw	NSNT	NSNT
+330, 19	1220, 1-7	BED	a wedyn wrth bod ni sbïo i_fyny	NSNT	NSNT
+330, 20	1221, 1-14	BED	ac wedyn oedd o'n i yn siarad efo nhw a deud peth a peth	NSNT	NSNT
+330, 21	1222, 1-5	BED	wedyn oedden nhw yn deud	NSNT	NSNT
+330, 22	1223, 1-9	BED	ia *right* peth a peth sy isio chdi wneud	NST	NST
+330, 23	1224, 1-5	BED	*er* neu o'n i deud	NST	NST
+330, 24	1225, 1-10	BED	ew mae yr ci yma yn cael ei sopio neu	NSNT	NSNT
+330, 25	1226, 1-4	BED	oedd cŵn adeg honno	NSNT	NSNT
+330, 26	1227, 1-6	BED	doedd yna ddim outruns ynyn nhw	NSNT	SNT
+330, 27	1227, 7-9	BED	ddued y gwir	NSNT	NSNT
+330, 28	1229, 1-9	BED	dipyn yn dynn o'n nhw yn dod i_mewn ballu	NSNT	NSNT
+330, 29	1230, 1-5	BED	ond cŵn gwaith oedden nhw	NSNT	NSNT
+330, 30	1230, 6-6	BED	te	NSNT	NSNT
+330, 31	1232, 1-13	BED	a toeddwn i weithiau te am stopio yr ci cyn iddo gael ei	NSNT	NSNT
+330, 32	1233, 1-6	BED	a wedyn wedyn oedd cau pasio	SNT	NSNT
+330, 33	1235, 1-1	BED	*eh*	ST	NST
+330, 34	1237, 1-11	BED	a wedyn o'ch chi yn cael yr hogiau yma yn deud	NSNT	NSNT
+330, 35	1238, 1-4	BED	o'n i sbïo i_fyny	NSNT	NSNT
+330, 36	1239, 1-5	BED	wedyn rywbeth oedd yn mynd	NSNT	NSNT
+330, 37	1240, 1-1	BED	gofyn	NSNT	NSNT
+330, 38	1241, 1-6	BED	ew dw i yn cael trafferth	NSNT	NSNT
+330, 39	1242, 1-3	BED	neu *Eilir_Wern* wedyn	NST	NST
+330, 40	1243, 1-4	BED	mynd i gweld nhw	NSNT	NSNT
+330, 41	1244, 1-4	BED	fyddwn i mynd i_fyny	NSNT	NSNT
+330, 42	1245, 1-15	BED	o'n i mynd i_fyny heibio dy dad heibio *Gwernydd* ffordd yna i lle *Twm_Owen* *Twm_Owen*	---	NST
+
+
+331, 1	1246, 1-2	AED	ia *Tŷ_Dŵr*	---	NST
+
+
+332, 1	1247, 1-1	BED	*Dŵr*	ST	NST
+332, 2	1249, 1-3	BED	wedyn o'n i	NSNT	NSNT
+332, 3	1250, 1-8	BED	a wedyn y caeau yna *Gwernydd* a ballu	NST	NST
+332, 4	1251, 1-11	BED	wedyn o'n i o'n i siarad efo fo sti a wedyn	NSNT	NSNT
+332, 5	1251, 12-12	BED	sti	NSNT	NSNT
+332, 6	1253, 1-16	BED	wedyn fyddwn i mynd i *Wern* at *Eilir* i helpu wrth_gwrs tynnu rwdins a pethau felly	NST	NST
+332, 7	1253, 17-21	BED	te codi gwair a ballu	NSNT	NSNT
+332, 8	1255, 1-5	BED	wedyn fyddwn i yn gael	NSNT	NSNT
+332, 9	1256, 1-7	BED	oedd *Eilir_Wern* yn un eithriadol efo cŵn	NST	NST
+332, 10	1257, 1-2	BED	eto dyna	NSNT	NSNT
+332, 11	1257, 3-7	BED	lle wnes i weld distaw	---	NSNT
+
+
+333, 1	1258, 1-2	AED	ia pwyllog	---	NSNT
+
+
+334, 1	1259, 1-4	BED	byth yn gweiddi de	NSNT	NSNT
+334, 2	1261, 1-4	BED	a oedd o yn	NSNT	NSNT
+334, 3	1261, 5-7	BED	oedd o yn	NSNT	NSNT
+334, 4	1262, 1-6	BED	a wrth_gwrs *well* rywun â diddordeb	NST	NST
+334, 5	1263, 1-5	BED	*er* y diddordeb oedd o	NST	NST
+334, 6	1263, 6-7	BED	dw meddwl	NSNT	NSNT
+334, 7	1264, 1-9	BED	a wedyn oedd rywun yn sbïo i_fyny ar rhein	NSNT	NSNT
+334, 8	1265, 1-9	BED	ac wrth bod chi yn sbïo i_fyny a parch	NSNT	NSNT
+334, 9	1265, 10-14	BED	oedd rywun yn dysgu hefyd	---	NSNT
+
+
+335, 1	1267, 1-6	AED	oedd barod i ddysgu hefyd doeddech	---	NSNT
+
+
+336, 1	1268, 1-9	BED	oedda chi yn barod i gael rywbeth o yna	---	NSNT
+
+
+337, 1	1269, 2-6	AED	ac dw i meddwl ers_talwm	NSNT	NSNT
+337, 2	1269, 7-12	AED	oedd pobl fwy parod i rannu	---	NSNT
+
+
+338, 1	1270, 1-2	BED	*oh* oedden	---	NST
+
+
+339, 1	1271, 1-6	AED	cyfrinachau ac ati efo chi doedd	---	NSNT
+
+
+340, 1	1272, 1-1	BED	oedden	---	NSNT
+
+
+341, 1	1273, 1-7	AED	os oedd yna ryw gast mewn ci	NSNT	NSNT
+341, 2	1273, 8-17	AED	oedden nhw rhannu ffordd i gael o allan ohono fo	NSNT	NSNT
+341, 3	1273, 18-18	AED	doedd	---	NSNT
+
+
+342, 1	1274, 1-1	BED	oedden	NSNT	NSNT
+342, 2	1274, 2-2	BED	oedden	NSNT	NSNT
+342, 3	1274, 3-3	BED	oedden	NSNT	NSNT
+342, 4	1274, 4-4	BED	oedden	---	NSNT
+
+
+343, 1	1275, 1-4	AED	mae pobl fel fel	NSNT	NSNT
+343, 2	1275, 5-8	AED	oedden ni ddeud gynnau	NSNT	NSNT
+343, 3	1275, 10-16	AED	mae nhw wedi mynd fwy hunanol wan	NSNT	NSNT
+343, 4	1275, 17-17	AED	dydy	NSNT	NSNT
+343, 5	1276, 1-2	AED	mae nhw	NSNT	NSNT
+343, 6	1277, 1-9	AED	*oh* wna i ddim deud wrth neb am hwn	NST	NST
+343, 7	1277, 10-18	AED	de neu ddim rhannu y syniad yma efo neb	NSNT	NSNT
+343, 8	1279, 1-2	AED	ia wedyn	---	NSNT
+
+
+344, 1	1280, 1-6	BED	ia mae yna *lot* o hynny	NST	NST
+344, 2	1280, 7-11	BED	mae yna *lot* o hynny	NST	NST
+344, 3	1280, 12-13	BED	mae yna	NSNT	NSNT
+344, 4	1281, 1-3	BED	dwn i ddim	NSNT	NSNT
+344, 5	1281, 4-6	BED	be ydy o	NSNT	NSNT
+344, 6	1281, 7-7	BED	sy	NSNT	NSNT
+344, 7	1281, 8-12	BED	yn bod deud y gwir	NSNT	NSNT
+344, 8	1283, 1-10	BED	dyn nhw ddim isio fath â ddim isio neb helpu	NSNT	NSNT
+344, 9	1284, 1-8	BED	dod yn_ôl i i *business* helpu yma dyna	NST	NST
+344, 10	1284, 9-11	BED	be ydy o	NSNT	NSNT
+344, 11	1286, 1-9	BED	does yna neb isio helpu naill a yr llall	---	NSNT
+
+
+345, 1	1287, 1-5	AED	helpu gilydd nag oes hollol	---	NSNT
+
+
+346, 1	1288, 1-9	BED	mae yna rei wrth_gwrs dal i fod ryw ychydig	NSNT	NSNT
+346, 2	1291, 1-7	BED	ond *er* ar y cyfan does dim	---	NST
+
+
+347, 1	1292, 1-2	AED	nag oes	NSNT	NSNT
+347, 2	1292, 3-5	AED	nag oes ia	---	NSNT
+
+
+348, 1	1293, 1-2	BED	nag oes	NSNT	NSNT
+348, 2	1293, 3-4	BED	nag oes	NSNT	NSNT
+348, 3	1293, 5-8	BED	a mae wedi mynd	---	NSNT
+
+
+349, 1	1294, 1-1	AED	Duw	---	NSNT
+
+
+350, 1	1295, 2-4	BED	wn i ddim	NSNT	NSNT
+350, 2	1295, 5-8	BED	be ydy yr achos	SNT	NSNT
+350, 3	1296, 1-1	BED	*well*	---	NST
+
+
+351, 1	1297, 1-19	AED	ac oeddech chi yn deud gynnau hefyd efo yr cŵn hen *fashion* a ddim llawer o outrun arnyn nhw	NST	ST
+351, 2	1299, 1-4	AED	*er* ydych chi meddwl	NST	NST
+351, 3	1299, 5-7	AED	am bod yna	NSNT	NSNT
+351, 4	1300, 1-10	AED	achos oedd yna fwy o gŵn *er* dual_purpose mewn ffordd	NST	ST
+351, 5	1301, 1-2	AED	hel marliod	---	NSNT
+
+
+352, 1	1302, 1-2	BED	*oh* dyna	NST	NST
+352, 2	1303, 1-2	BED	o'n bob_dim	---	NSNT
+
+
+353, 1	1304, 1-4	AED	o'n nhw hel gwartheg	NSNT	NSNT
+353, 3	1306, 1-5	AED	*er* oedd o yn bopeth	NST	NST
+353, 4	1306, 6-6	AED	doedd	NSNT	NSNT
+353, 5	1308, 1-2	AED	dach chi	NSNT	NSNT
+353, 6	1308, 3-18	AED	yn bod y treialon yma wedi dod yn rywbeth wedyn i gael *type* gwahanol o gi	---	NST
+
+
+354, 1	1309, 1-8	BED	*well* mae deud *er* *um* *oh* rŵan felly	NST	NST
+354, 2	1310, 1-5	BED	wrth_gwrs y marn personol i	NSNT	NSNT
+354, 3	1310, 6-8	BED	ydy hwn eto	NSNT	NSNT
+354, 4	1311, 1-4	BED	mae nhw yn deud	NSNT	NSNT
+354, 5	1311, 5-11	BED	pan mae nhw yn gweld cŵn wan	NSNT	NSNT
+354, 6	1312, 1-7	BED	*er* be dan ni yn alw fo	NST	NST
+354, 7	1312, 8-12	BED	mae nhw yn deud *oh*	NST	NST
+354, 8	1313, 1-3	BED	mae o setio	NSNT	NSNT
+354, 9	1314, 1-3	BED	fyddan ni ddeud	NSNT	NSNT
+354, 10	1314, 4-5	BED	te am	NSNT	NSNT
+354, 11	1314, 6-6	BED	te	SNT	NSNT
+354, 12	1316, 1-3	BED	stalking mae nhw	NSNT	SNT
+354, 13	1316, 4-4	BED	dyna	NSNT	NSNT
+354, 14	1316, 5-8	BED	be mae nhw ddeud	NSNT	NSNT
+354, 15	1316, 9-10	BED	de stalking	SNT	SNT
+354, 16	1318, 1-6	BED	*well* toedd yna ddim stalk_io ers_talwm	NST	ST
+354, 17	1319, 1-8	BED	toedd yna ddim *style* mewn cŵn defaid ers_talwm	NST	NST
+354, 18	1321, 1-4	BED	cŵn plaen oedden nhw	NSNT	NSNT
+354, 19	1323, 1-13	BED	wedyn dw i cofio *um* *er* yr hen *Eilir_Wern* yn deud wrtha fi	NST	NST
+354, 20	1323, 14-16	BED	te ac am	NSNT	NSNT
+354, 21	1323, 17-19	BED	be ydy o	NSNT	NSNT
+354, 22	1323, 20-28	BED	werth mi ddeuda i eto yn deud wrtha fi	NSNT	NSNT
+354, 23	1324, 1-9	BED	toedd ddeuda i wrthach chi lle mae wedi dŵad	NSNT	NSNT
+354, 24	1325, 1-2	BED	meddai o	NSNT	NSNT
+354, 25	1326, 1-6	BED	mae nhw wedi croesi Irish setter	SNT	SNT
+354, 26	1326, 7-18	BED	sy yn setio efo cŵn defaid i ddechrau yr peth yma *off*	NST	NST
+354, 27	1328, 1-4	BED	a dyma yn deud	NSNT	NSNT
+354, 28	1329, 1-3	BED	a dyna be	NSNT	NSNT
+354, 29	1329, 4-9	BED	lle mae yr *set* wedi dŵad	NST	NST
+354, 30	1330, 1-2	BED	meddai o	NSNT	NSNT
+354, 31	1331, 1-7	BED	toedd yna ddim *set* mewn cŵn defaid	NST	NST
+354, 32	1332, 1-2	BED	meddai o	NSNT	NSNT
+354, 33	1334, 1-10	BED	ac sbïo nôl ti cofio yr *set* mewn cŵn defaid	---	NST
+
+
+355, 1	1335, 1-4	AED	arglwydd mawr nac ydw	---	NSNT
+
+
+356, 1	1336, 1-5	BED	doedd yna ddim_byd *fashion* beth	---	NST
+
+
+357, 1	1337, 1-2	AED	nag oedd	NSNT	NSNT
+357, 2	1337, 3-4	AED	nag oedd	---	NSNT
+
+
+358, 1	1338, 1-7	BED	cynffon ar i_fyny a dyna hi gweithio	---	NSNT
+
+
+359, 1	1339, 1-4	AED	ia a ac awê	---	NSNT
+
+
+360, 1	1341, 1-5	BED	doedd yna ddim setio nhw	---	NSNT
+
+
+361, 1	1342, 1-2	AED	nag oedd	---	NSNT
+
+
+362, 1	1343, 1-2	BED	a mae	NSNT	NSNT
+362, 2	1343, 3-5	BED	dw i *sure*	NST	NST
+362, 3	1343, 6-8	BED	bod yna *lot*	NST	NST
+362, 4	1344, 1-7	BED	wrth_gwrs mae nhw yn trio deud wan	NSNT	NSNT
+362, 5	1345, 1-9	BED	*oh* naci fel yna oedd cŵn yn hela ers_talwm	NST	NST
+362, 6	1346, 1-4	BED	dim peryg yn byd	NSNT	NSNT
+362, 7	1348, 1-5	BED	sbïa ar fleiddiaid yn hela	NSNT	NSNT
+362, 8	1350, 1-6	BED	rhedeg yn un *pack* mae nhw	NST	NST
+362, 9	1352, 1-5	BED	dyn nhw ddim yn setio	---	NSNT
+
+
+363, 1	1353, 1-3	AED	nac ydyn nac	NSNT	NSNT
+363, 2	1353, 4-4	AED	ydyn	---	NSNT
+
+
+364, 1	1354, 1-8	BED	a mae rhein trio deud rywbeth *oh* na	NST	NST
+364, 2	1354, 9-9	BED	dyna	NSNT	NSNT
+364, 3	1354, 10-15	BED	ydy o felly wedyn fel yna	NSNT	NSNT
+364, 4	1354, 16-25	BED	oedden nhw yn stalk_io *er* y defaid neu beth bynnag	NST	ST
+364, 5	1354, 26-29	BED	oedden nhw isio felly	NSNT	NSNT
+364, 6	1355, 1-7	BED	toedd yna ddim *fashion* beth yn bod	---	NST
+
+
+365, 1	1356, 1-3	AED	*oh* nag oedd	NST	NST
+365, 2	1356, 4-5	AED	nag oedd	---	NSNT
+
+
+366, 1	1357, 1-6	BED	a mae pobl yn coelio nhw	---	NSNT
+
+
+367, 1	1359, 1-6	AED	achos mae yr cŵn cymreig wan	NSNT	NSNT
+367, 2	1359, 7-7	AED	dydy	NSNT	NSNT
+367, 4	1361, 1-18	AED	mae rheiny wedi mynd yn_ôl i yr hen *fashion* mewn ffordd cynffonnau fyny ac yn ffwrdd â nhw	---	NST
+
+
+368, 1	1362, 1-5	BED	*oh* hollol hollol hollol hollol	NST	NST
+368, 3	1366, 1-8	BED	*oh* *er* fel yna oedd o ers_talwm felly	NST	NST
+368, 4	1368, 1-16	BED	yn mynd ar_ôl ei ei pan oedd isio lladd i hela felly stalk_io fo am hir	NSNT	SNT
+368, 5	1372, 1-9	BED	arglwydd doedd yna ddim *fashion* beth mewn ci defaid	---	NST
+
+
+369, 1	1373, 1-6	AED	*oh* na cath sy yn stalk_io	---	ST
+
+
+370, 1	1374, 1-5	BED	toedd yna ddim *fashion* beth	---	NST
+
+
+371, 1	1375, 1-8	AED	y llew a yr *cheetah* sy stalk_io anifeiliaid	---	ST
+
+
+372, 1	1376, 1-3	BED	*oh* dyna chdi	NST	NST
+372, 2	1376, 4-5	BED	dyna chdi	NSNT	NSNT
+372, 3	1376, 6-10	BED	be ddeudodd *Eilir_Wern* wrtha fi	NST	NST
+372, 4	1378, 1-8	BED	a mae yn hawddach gyn i goelio hwnna	---	NSNT
+
+
+373, 1	1379, 1-5	AED	*well* ia a finnau hefyd	NST	NST
+373, 2	1380, 1-5	AED	oedd o ddipyn o ben	NSNT	NSNT
+373, 3	1380, 6-6	AED	wchi	NSNT	NSNT
+373, 4	1380, 7-7	AED	doedd	---	NSNT
+
+
+374, 1	1381, 1-1	BED	hawddach	NSNT	NSNT
+374, 2	1382, 1-6	BED	hawddach gyn i goelio hwnna de	NSNT	NSNT
+374, 3	1384, 1-1	BED	dyna	NSNT	NSNT
+374, 4	1384, 2-7	BED	lle mae yr *set* wedi dod	---	NST
+
+
+375, 1	1385, 1-9	AED	wedi dod â yr breeding arall i_mewn iddo fo	---	SNT
+
+
+376, 1	1386, 1-7	BED	wedi dod â hwnna i_mewn iddo fo	NSNT	NSNT
+376, 2	1388, 1-7	BED	*oh* toedd o ddim yno fo de	NST	NST
+376, 3	1390, 1-7	BED	a tydy o ddim mewn cŵn gwyllt	NSNT	NSNT
+376, 4	1391, 1-12	BED	a tydy o ddim mewn bleiddiaid waeth gyn i be ddeudan nhw	---	NSNT
+
+
+377, 1	1392, 1-3	AED	nac ydy nac	NSNT	NSNT
+377, 2	1392, 4-5	AED	ydy nac	---	NSNT
+
+
+378, 1	1393, 1-4	BED	watsia fo ar teledu	---	NSNT
+
+
+379, 1	1394, 1-6	AED	*yeah* *yeah* *pack* *pack* ydyn nhw	---	NST
+
+
+380, 1	1395, 1-3	BED	mae llew wahanol	---	NSNT
+
+
+381, 1	1396, 2-3	AED	mae llew	NSNT	NSNT
+381, 2	1397, 1-3	AED	cath ydy honno	---	NSNT
+
+
+382, 1	1398, 1-3	BED	cath ydy honno	NSNT	NSNT
+382, 2	1400, 1-2	BED	*oh* mae	NST	NST
+382, 3	1400, 3-5	BED	mae wahanol peth	---	NSNT
+
+
+383, 1	1401, 1-7	AED	a dach chi yn gwybod efo cath	NSNT	NSNT
+383, 2	1401, 8-14	AED	os geith gath ryw llygoden bach mi	NSNT	NSNT
+383, 3	1401, 15-20	AED	chwaraeith hi efo hi am oriau	NSNT	NSNT
+383, 4	1401, 21-27	AED	gwneith a neidio o ei chwmpas hi	NSNT	NSNT
+383, 5	1401, 28-31	AED	a ei gwatsiad hi	NSNT	NSNT
+383, 6	1401, 32-35	AED	de cyn lladd hi	---	NSNT
+
+
+384, 1	1403, 1-3	BED	sbïa di fel	NSNT	NSNT
+384, 2	1403, 4-10	BED	mae nhw cŵn gwyllt neu rywbeth *pack*	NST	NST
+384, 3	1405, 1-8	BED	oes yna ddim stalk_io yn perthyn iddyn nhw	---	SNT
+
+
+385, 1	1406, 1-2	AED	nag oes	NSNT	NSNT
+385, 2	1406, 3-4	AED	nag oes	NSNT	NSNT
+385, 3	1406, 5-7	AED	nag oes na	---	NSNT
+
+
+386, 1	1407, 1-8	BED	ond wedyn *er* *er* *er* *er* dw meddwl	NST	NST
+386, 2	1407, 9-10	BED	bod nhw	NSNT	NSNT
+386, 3	1407, 11-13	BED	mae yna bethau	NSNT	NSNT
+386, 4	1407, 14-18	BED	mae nhw cael pethau *wrong*	NST	NST
+386, 5	1408, 1-10	BED	ac mae nhw yn gwneud y pethau yma i_fyny fel	NSNT	NSNT
+386, 6	1408, 11-13	BED	mae nhw mynd	---	NSNT
+
+
+387, 1	1409, 1-7	AED	ia i siwtio nhw de ia ia	---	NSNT
+
+
+388, 1	1410, 1-3	BED	siwtio nhw hunan	NSNT	NSNT
+388, 2	1411, 1-1	BED	mae	NSNT	NSNT
+388, 3	1411, 2-6	BED	a mae nhw yn *er*	NST	NST
+388, 4	1411, 7-12	BED	a mae pobl yn coelio nhw	NSNT	NSNT
+388, 5	1413, 1-8	BED	ond tydw i ddim yn coelio nhw de	NSNT	NSNT
+388, 6	1415, 1-5	BED	dw i ddim yn credu	NSNT	NSNT
+388, 7	1415, 6-9	BED	bod yna *fashion* beth	NST	NST
+388, 8	1415, 10-10	BED	â	NSNT	NSNT
+388, 9	1416, 1-6	BED	*well* yn bersonol bob tro bob	NST	NST
+388, 10	1416, 7-19	BED	be dw i wedi weld ar teledu byd natur a ballu efo cŵn	NSNT	NSNT
+388, 11	1416, 20-26	BED	oes yna ddim stalk_io o_gwbl yno fo	---	SNT
+
+
+389, 1	1418, 1-3	AED	*mmm* nag oes	---	NST
+
+
+390, 1	1419, 1-6	BED	mae nhw rhedeg yn un *pack*	NST	NST
+390, 2	1421, 1-4	BED	a mae nhw lladd	NSNT	NSNT
+390, 3	1423, 1-10	BED	a wedyn lle mae nhw wedi cael *business* stalk_io yma	NST	ST
+390, 4	1423, 11-11	BED	te	NSNT	NSNT
+390, 5	1425, 1-10	BED	ond am bod wedi weld o yn y ci defaid	NSNT	NSNT
+390, 6	1425, 11-14	BED	mae nhw isio deud	NSNT	NSNT
+390, 7	1425, 15-21	BED	bod o yno fo ar_hyd yr amser	---	NSNT
+
+
+391, 1	1426, 1-8	AED	bod yno ar_hyd yr amser *yeah* *yeah* *yeah*	---	NST
+
+
+392, 1	1427, 1-4	BED	ond toedd o ddim	NSNT	NSNT
+392, 2	1429, 1-6	BED	*oh* *well* ti cofio dy hun	NST	NST
+392, 3	1431, 1-5	BED	does dim isio fi *er*	NST	NST
+392, 4	1431, 6-13	BED	wsti ti ddim isio gymryd y ngair i	---	NSNT
+
+
+393, 1	1432, 1-7	AED	*well* na na cŵn hel oedden nhw	---	NST
+
+
+394, 1	1433, 1-4	BED	toedd yna ddim_byd nhw	---	NSNT
+
+
+395, 1	1434, 1-7	AED	ia hel oedden nhw ddim stalk_io ia	---	SNT
+
+
+396, 1	1435, 1-6	BED	cŵn plaen cŵn plaen oedden nhw	---	NSNT
+
+
+397, 1	1436, 1-4	AED	cŵn symud anifeiliaid de	---	NSNT
+
+
+398, 1	1437, 1-2	BED	hollol wedyn	---	NSNT
+
+
+399, 1	1438, 1-9	AED	ac wrth bod nhw gweithio efo amrywiaeth o anifeiliaid	NSNT	NSNT
+399, 2	1438, 10-16	AED	oedd o yn cerdded gwartheg cerdded marliod	NSNT	NSNT
+399, 3	1438, 17-17	AED	doedd	NSNT	NSNT
+399, 4	1438, 18-26	AED	oedden nhw isio un ci i wneud bob peth	NSNT	NSNT
+399, 5	1438, 27-27	AED	doedd	---	NSNT
+
+
+400, 1	1440, 1-18	BED	a mi ddechreuodd *er* *er* hwn *er* y cŵn yma ddod lawr o o o yr Alban wrth_gwrs	NST	NST
+400, 2	1440, 19-19	BED	te	NSNT	NSNT
+400, 3	1442, 1-5	BED	a *er* wedyn o rheiny	NST	NST
+400, 4	1443, 1-5	BED	mae *sure* na fan yna	NST	NST
+400, 5	1443, 6-16	BED	wnaethon nhw ddechrau ddeud y gwir *er* yr y bridio yma	NST	NST
+400, 6	1443, 17-17	BED	te	NSNT	NSNT
+400, 7	1445, 1-7	BED	a wedyn mi aeth o lawr wedyn	NSNT	NSNT
+400, 8	1446, 1-6	BED	oedd yna ryw fynd ar hwnna	NSNT	NSNT
+400, 9	1447, 1-7	BED	pawb isio ci â *style* yno fo	NST	NST
+400, 11	1449, 1-1	BED	dyna	NSNT	NSNT
+400, 12	1449, 2-8	BED	be oedd y peth ci â *style*	NST	NST
+400, 13	1449, 9-9	BED	te	NSNT	NSNT
+400, 14	1451, 1-3	BED	llygaid oedd o	NSNT	NSNT
+400, 15	1453, 1-6	BED	ond *er* wedyn dwn i ddim	NST	NST
+400, 16	1454, 1-14	BED	oedden ni fath â ni siarad gynnau hefo efo *er* cŵn a pobl ffarmwrs	NST	NST
+400, 17	1454, 15-19	BED	mae yn bwysig i ffarmwr	NSNT	NSNT
+400, 18	1454, 20-33	BED	pan mae fo mynd i brynu ci bod y ci yn gwneud iddo fo	NSNT	NSNT
+400, 19	1456, 1-8	BED	ac ac yn *er* *er* be dw feddwl	NST	NST
+400, 20	1456, 10-15	BED	mae yna *lot* o gŵn ella	NST	NST
+400, 21	1456, 16-20	BED	wneith o ddim i chdi	NSNT	NSNT
+400, 22	1458, 1-4	BED	wneith o i mi	NSNT	NSNT
+400, 23	1460, 1-7	BED	y *type* y *type* mae o isio	---	NST
+
+
+401, 1	1462, 1-4	AED	ia yn yn yn	---	NSNT
+
+
+402, 1	1463, 1-18	BED	a rhaid o fod ella bod chdi isio un dipyn bach caletach na fi a neu *er* vice_versa	ST	ST
+402, 2	1465, 1-2	BED	faswn i	NSNT	NSNT
+402, 3	1465, 3-8	BED	ond dw i meddwl yn hun	NSNT	NSNT
+402, 4	1465, 9-10	BED	bod *um*	NST	NST
+402, 5	1466, 1-10	BED	wedyn mae pobl yma yn prynu yr cŵn yma wedyn	NSNT	NSNT
+402, 6	1466, 11-13	BED	mae nhw deud	NSNT	NSNT
+402, 7	1467, 1-7	BED	*oh* dydy o ddim yn siwtio fi	NST	NST
+402, 8	1468, 1-2	BED	*well* dyna	NST	NST
+402, 9	1468, 3-9	BED	be dw i yn ddod iddo fo	NSNT	NSNT
+402, 10	1469, 1-7	BED	mae raid i gi siwtio yr dyn	---	NSNT
+
+
+403, 1	1470, 1-4	AED	rhaid wrth_gwrs raid raid	NSNT	NSNT
+403, 2	1471, 1-2	AED	partneriaeth ydy	---	NSNT
+
+
+404, 1	1472, 1-1	BED	dyna	NSNT	NSNT
+404, 2	1472, 2-4	BED	be ydy o	---	NSNT
+
+
+405, 1	1473, 1-8	AED	partneriaeth a gŵr a gwraig mewn ffordd de	---	NSNT
+
+
+406, 1	1474, 1-7	BED	ac os na ac os na ydy	---	NSNT
+
+
+407, 1	1475, 1-6	AED	fedrwch chi ddim priodi bob gwraig	NSNT	NSNT
+407, 2	1475, 7-8	AED	na fedrwch	---	NSNT
+
+
+408, 1	1476, 1-10	BED	ellith o fod yn gi eithriadol o dda i mi	NSNT	NSNT
+408, 2	1478, 1-7	BED	ella dydy o ddim gystal i chdi	NSNT	NSNT
+408, 3	1480, 1-9	BED	am na dydy o ddim yn dy siwtio di	NSNT	NSNT
+408, 4	1482, 1-15	BED	dydy dy demperament di ddim yn siwtio dim dim yn *er* siwtio temperament y ci	---	ST
+
+
+409, 1	1483, 1-4	AED	*yeah* *sure* *yeah* *yeah*	---	NST
+
+
+410, 1	1484, 1-6	BED	a a a fel yna mae	NSNT	NSNT
+410, 2	1486, 1-9	BED	a wedyn dw i ddim yn gwybod ond *um*	---	NST
+
+
+411, 1	1487, 1-5	AED	*yeah* mae hynna ddigon gwir	NST	NST
+411, 2	1487, 6-6	AED	dydy	---	NSNT
+
+
+412, 1	1488, 1-3	BED	mae ddigon gwir	NSNT	NSNT
+412, 2	1490, 1-1	BED	wsti	NSNT	NSNT
+412, 3	1490, 2-5	BED	mae raid i rywun	NSNT	NSNT
+412, 4	1492, 1-1	BED	mae	NSNT	NSNT
+412, 5	1492, 2-7	BED	yr gofyn rywun cael menthyg ci	NSNT	NSNT
+412, 6	1492, 8-13	BED	os ydy rywun yn prynu ci	NSNT	NSNT
+412, 7	1493, 1-4	BED	oedd rywun cael ers_talwm	---	NSNT
+
+
+413, 1	1494, 1-1	AED	oeddech	---	NSNT
+
+
+414, 1	1495, 1-4	BED	oeddech chi cael *trial*	---	NST
+
+
+415, 1	1496, 1-3	AED	*trial* arno fo	---	NST
+
+
+416, 1	1497, 1-7	BED	Duw mis o *drial* ar y ci	NST	NST
+416, 2	1499, 1-8	BED	*oh* dyna fo o'ch chdi medru gweld wedyn	NST	NST
+416, 3	1499, 9-13	BED	basai fo yn siwtio chdi	NSNT	NSNT
+416, 4	1501, 1-17	BED	ond heddiw prynu ci yn *sale* a ti wedi darfod a mynd â fo adre a ffeindio	---	NST
+
+
+417, 1	1502, 1-2	AED	*yeah* chi	---	NST
+
+
+418, 1	1503, 1-8	BED	dydy o yn da i dim_byd i mi	NSNT	NSNT
+418, 2	1505, 1-7	BED	oedd o yn iawn ar y cae	NSNT	NSNT
+418, 3	1507, 1-2	BED	oedd *boy*	NST	NST
+418, 4	1507, 3-7	BED	oedd biau fo *foss* arno	NST	NST
+418, 5	1509, 1-6	BED	dydy o ddim yn gweithio nac	---	NSNT
+
+
+419, 1	1510, 1-5	AED	na ac gewch chi weithiau	NSNT	NSNT
+419, 2	1510, 6-7	AED	mae *sure*	NST	NST
+419, 3	1510, 8-9	AED	cewch ci	NSNT	NSNT
+419, 4	1510, 10-16	AED	sy mond yn gwneud i un *person*	---	NST
+
+
+420, 1	1511, 1-2	BED	*oh* hollol	---	NST
+
+
+421, 1	1512, 1-14	AED	a ddim yn medru gweithio mor mor dda wedyn i *berson* arall de er	NST	NST
+421, 2	1512, 15-25	AED	bod y *person* arall yn yn bosib handlwr da ar gi	---	NST
+
+
+422, 1	1513, 1-2	BED	*well* ia	---	NST
+
+
+423, 1	1514, 1-9	AED	ond *just* bod y ci yna ddim yn gwneud	---	NST
+
+
+424, 1	1515, 1-2	BED	ew ia	---	NSNT
+
+
+425, 1	1516, 1-6	AED	a fyddai yn un am hynna	NSNT	NSNT
+425, 2	1516, 7-7	AED	wchi	NSNT	NSNT
+425, 3	1517, 1-11	AED	cŵn yn gweithio yn eithriadol o dda dan law gynno fo	NSNT	NSNT
+425, 4	1518, 1-4	AED	gwerthu nhw ymlaen de	NSNT	NSNT
+425, 5	1518, 5-11	AED	fedrai bobl ddim cael hwyl gweithio wedyn	NSNT	NSNT
+425, 6	1520, 1-7	AED	fath â ci un dyn mewn ffordd	---	NSNT
+
+
+426, 1	1521, 1-2	BED	dyna chdi	NSNT	NSNT
+426, 2	1521, 3-16	BED	be fydda i hefyd yn *er* yn *well* mwynhau yn hun efo *um* *Ymryson_y_Beirdd*	NST	NST
+426, 3	1523, 1-3	BED	*Gerallt_Lloyd_Owen* ew annwyl	NST	NST
+426, 4	1526, 1-6	BED	mae hwnna yn ddyn medrus ofnadwy	NSNT	NSNT
+426, 5	1527, 1-4	BED	be fydda i weld	NSNT	NSNT
+426, 6	1527, 5-7	BED	mae nhw yn	NSNT	NSNT
+426, 7	1527, 8-9	BED	mae darllen	NSNT	NSNT
+426, 8	1527, 10-13	BED	mae nhw yn darllen	NSNT	NSNT
+426, 9	1527, 14-18	BED	be mae nhw wedi sgrifennu	NSNT	NSNT
+426, 10	1530, 1-9	BED	ond mae o yn ddarllen o wedyn hollol wahanol	---	NSNT
+
+
+427, 1	1531, 1-5	AED	yndy yn ddehongli o wahanol	NSNT	NSNT
+427, 2	1531, 6-6	AED	dydy	---	NSNT
+
+
+428, 1	1534, 1-1	BED	gwych	NSNT	NSNT
+428, 2	1536, 1-1	BED	gwych	---	NSNT
+
+
+429, 1	1537, 1-6	AED	na fydda i wrth y modd	---	NSNT
+
+
+430, 1	1538, 1-2	BED	dw i	NSNT	NSNT
+430, 2	1538, 3-10	BED	bod ni cael mwy o bethau fel yna	---	NSNT
+
+
+431, 1	1539, 1-4	AED	a cael *sport* de	---	NST
+
+
+432, 1	1540, 1-1	BED	ew	---	NSNT
+
+
+433, 1	1541, 1-9	AED	mae rywun yn cael *sport* wrth wrando arnyn nhw	NST	NST
+433, 2	1541, 10-10	AED	dydy	---	NSNT
+
+
+434, 1	1542, 1-4	BED	dan ni ddim yn	NSNT	NSNT
+434, 2	1542, 5-14	BED	dan ni ddim yn cael digon o bethau fel yna	---	NSNT
+
+
+435, 1	1543, 1-15	AED	ia a eto yn yr ysgol pan oedd rywun yn gael o yr ysgol ew	NSNT	NSNT
+435, 2	1543, 16-19	AED	oedd o peth mwya	NSNT	NSNT
+435, 3	1545, 1-1	AED	sych	NSNT	NSNT
+435, 4	1547, 1-8	AED	ond eto *type* o *berson* yn dysgu de	---	NST
+
+
+436, 1	1548, 1-2	BED	dyna fo	---	NSNT
+
+
+437, 1	1549, 1-8	AED	i nôl fath â yr ci eto de	NSNT	NSNT
+437, 2	1549, 9-14	AED	be sy yn gwneud i chi	---	NSNT
+
+
+438, 1	1550, 1-3	BED	ia fath â	NSNT	NSNT
+438, 2	1551, 1-9	BED	*well* hollol a a dyna fi ddeud efo *Gerallt_Lloyd_Owen*	NST	NST
+438, 3	1551, 10-13	BED	dydy o ddim ots	NSNT	NSNT
+438, 4	1551, 14-22	BED	be mae o yn yn yn yn ei ailddarllen	NSNT	NSNT
+438, 5	1555, 1-5	BED	mae o yn hollol wahanol	NSNT	NSNT
+438, 6	1555, 6-6	BED	tydy	NSNT	NSNT
+438, 7	1557, 1-1	BED	mae	NSNT	NSNT
+438, 8	1557, 2-3	BED	roid synnwyr	---	NSNT
+
+
+439, 1	1558, 1-5	AED	mae o medru dynnu allan	---	NSNT
+
+
+440, 1	1559, 1-5	BED	felly dw i weld o	NSNT	NSNT
+440, 2	1560, 1-3	BED	dw i medru	NSNT	NSNT
+440, 3	1560, 4-7	BED	dw i medru *well*	NST	NST
+440, 4	1560, 8-16	BED	mae o wneud o wneud o mwy syml rywsut	---	NSNT
+
+
+441, 1	1562, 3-6	AED	yndy gwneud o syml	NSNT	NSNT
+441, 2	1562, 7-8	AED	ydy o	NSNT	NSNT
+441, 3	1562, 9-13	AED	de a wneud o ddiddorol	---	NSNT
+
+
+442, 1	1564, 1-6	BED	a wedyn mae rywun ddallt o	NSNT	NSNT
+442, 2	1566, 1-1	BED	peth	---	NSNT
+
+
+443, 1	1567, 1-3	AED	a mae yna	NSNT	NSNT
+443, 2	1567, 4-10	AED	mae yna *lot* o feirdd ifanc wan	NST	NST
+443, 3	1567, 11-16	AED	does yn mynd i *round* ysgolion	NST	NST
+443, 4	1567, 17-27	AED	does wedi cael eu talu gynno yr *er* gynno yr *er*	NST	NST
+443, 5	1569, 1-10	AED	*oh* ddim yn saff iawn pwy sy yn talu nhw	NST	NST
+443, 6	1570, 1-8	AED	mae nhw cael arian o rywle beth bynnag	NSNT	NSNT
+443, 7	1572, 1-14	AED	i galluogi nhw fynd *round* ac i wneud o fwy diddorol i blant de	NST	NST
+443, 8	1575, 1-4	AED	ia bwysig ofnadwy hynna	---	NSNT
+
+
+444, 1	1577, 1-7	BED	argian dim beth yna a dyna chdi	NSNT	NSNT
+444, 2	1577, 8-16	BED	fyddai *lot* yn mynd *round* ers_talwm darlithoedd ac ati	NST	NST
+444, 3	1579, 1-9	BED	arglwydd o'ch chdi cael rhei diddorol wrth_gwrs dros ben	NSNT	NSNT
+444, 4	1581, 1-13	BED	a mae gyn i amryw ohonyn nhw ar recordiau deud gwir ohonyn nhw	NSNT	NSNT
+444, 5	1581, 14-23	BED	de a yr straeon llofft stabl a ryw bethau felly	---	NSNT
+
+
+445, 1	1582, 1-7	AED	ia *Charles_Williams* yn gwneud pethau dda dydy	---	NST
+
+
+446, 1	1583, 1-4	BED	*oh* *Charles* oedd *Charles*	NST	NST
+446, 2	1583, 5-6	BED	oedd enwedig	NSNT	NSNT

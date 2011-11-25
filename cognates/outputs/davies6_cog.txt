@@ -1,0 +1,1819 @@
+
+
+1, 1	1, 1-14	DAN	fod i gael un iddyn nhw ddoe tra o'n i yn fod yn Builth	---	SNT
+
+
+2, 1	3, 1-9	HEC	*mam* a *dad* a bobl ddiarth ydy o wedyn	NST	NST
+2, 2	4, 1-3	HEC	oes ddim mynedd	NSNT	NSNT
+2, 3	4, 4-6	HEC	bod o_gwmpas tŷ	NSNT	NSNT
+2, 4	5, 1-12	HEC	wneud fi *bloody* torri grass ddoe achos bod pobl ddiarth yn dod	NST	ST
+2, 5	6, 1-6	HEC	ddeudais i wrth *Dad* *bloody* hell	ST	ST
+2, 6	7, 1-14	HEC	dydyn nhw ddim mynd i sylwi pa mor hir ydy dy fucking grass di	NSNT	SNT
+2, 7	7, 15-16	HEC	nag ydy	NSNT	NSNT
+2, 8	8, 1-3	HEC	yr Arglwydd mawr	NSNT	NSNT
+2, 9	9, 1-6	HEC	gwair *Dean_Andrews* wedi tyfu yn ddiawledig	NST	NST
+2, 12	12, 1-1	HEC	callia	---	NSNT
+
+
+3, 1	13, 1-2	DAN	Arglwydd mawr	NSNT	NSNT
+3, 2	14, 1-4	DAN	pwy uffar ydy hwnna	NSNT	NSNT
+3, 3	15, 1-4	DAN	*James_Blunt* ydy hwnna *yeah*	---	NST
+
+
+4, 1	16, 1-3	HEC	dw ddim gwybod	---	NSNT
+
+
+5, 1	19, 1-4	DAN	dw ddim gwybod chwaith	NSNT	NSNT
+5, 2	20, 1-4	DAN	edrych fath â *Mick_Jagger*	---	NST
+
+
+6, 1	21, 1-5	HEC	two hundred *million* mae o	NST	ST
+6, 2	21, 6-6	HEC	werth	NSNT	NSNT
+6, 3	23, 1-4	HEC	mae *boy* *Richards* yna	NST	NST
+6, 4	23, 5-8	HEC	werth hundred and eighty	---	SNT
+
+
+7, 1	24, 1-2	DAN	*Keith_Richards* yndy	---	NST
+
+
+8, 1	25, 1-1	HEC	*Keith_Richards*	ST	NST
+8, 2	26, 1-7	HEC	hwnna ddisgyn allan o yr *coconut* tree	NST	ST
+8, 3	27, 1-3	HEC	*oh* excuse *me*	---	NST
+
+
+9, 1	29, 1-2	DAN	cofia di	NSNT	NSNT
+9, 2	29, 3-4	DAN	mae *Charlie_Watt*	NST	NST
+9, 3	29, 5-6	DAN	werth eighty_five	---	SNT
+
+
+10, 1	30, 1-4	HEC	*mmm* be ydy o	ST	NST
+10, 2	31, 1-1	HEC	*drummer*	---	NST
+
+
+11, 1	33, 1-2	DAN	Arglwydd sbïa	SNT	NSNT
+11, 2	34, 1-3	DAN	earnings flwyddyn dwytha	SNT	SNT
+11, 3	35, 1-2	DAN	eighty mil	---	NSNT
+
+
+12, 1	36, 1-5	HEC	*tax* one *point* rywbeth ia	---	ST
+
+
+13, 1	37, 1-5	DAN	*point* two nine two five	---	NST
+
+
+14, 1	38, 1-1	HEC	sut	NSNT	NSNT
+14, 2	39, 1-1	HEC	sut	NSNT	NSNT
+14, 3	40, 1-7	HEC	ches i ddim *chance* i ddarllen o	---	NST
+
+
+15, 1	41, 1-8	DAN	*sure* bod nhw wedi gweithio ffwrdd o adra	NST	NST
+15, 2	41, 9-11	DAN	oedden nhw *sure*	---	NST
+
+
+16, 1	42, 1-9	HEC	ia neu mynd i ryw *tax* haven neu rywbeth	---	ST
+
+
+17, 1	44, 1-2	DAN	Arglwydd mawr	NSNT	NSNT
+17, 2	45, 1-9	DAN	mae peth *Glyn* to win yna dal yn *dop*	NST	ST
+17, 3	46, 1-11	DAN	yfo a fo a *Mickey* sy yn *dop* wan yn_ôl hwn	---	NST
+
+
+18, 1	47, 1-9	HEC	*Pete* yna sy yn mynd i ennill efo *bookies*	NST	NST
+18, 2	48, 1-12	HEC	mae o rywbeth *stupid* fath â ten to one on i guro	---	ST
+
+
+19, 1	51, 1-4	DAN	ti dal watsiad o	---	NSNT
+
+
+20, 1	52, 1-2	HEC	nag ydw	NSNT	NSNT
+20, 2	53, 1-8	HEC	mynd *off* o ddiawledig deud gwir wrtha chdi	NST	NST
+20, 3	54, 1-7	HEC	wnes i watsiad rywfaint ohono fo tibod	NSNT	NSNT
+20, 4	54, 8-15	HEC	pan oedden nhw yn y prison *task* yna	NST	ST
+20, 6	56, 1-6	HEC	wnes i watsiad tipyn o hwnnw	---	NSNT
+
+
+21, 1	57, 1-7	DAN	dw i ddim gwybod dim_byd am ryw	---	NSNT
+
+
+22, 1	58, 1-12	HEC	dw i wneud yr un peth bob be ti yn galw fo	NSNT	NSNT
+22, 2	58, 13-13	HEC	wsti	---	NSNT
+
+
+23, 1	59, 1-2	DAN	Arglwydd mae	NSNT	NSNT
+23, 2	60, 1-6	DAN	tibod y gossip columns yma de	NSNT	SNT
+23, 3	62, 1-5	DAN	mae nhw yn llawn cachu	NSNT	NSNT
+23, 4	62, 6-6	DAN	dydy	---	NSNT
+
+
+24, 1	63, 1-5	HEC	dim_ond lluniau sy yno fo	NSNT	NSNT
+24, 2	64, 1-8	HEC	tri chwarter y ddwy bage yn luniau ydy	NSNT	SNT
+24, 3	65, 1-9	HEC	hwnna dw i yn enjoio yn y gossip columns	SNT	SNT
+24, 4	66, 1-5	HEC	mae gynno nhw un hush_hush	SNT	SNT
+24, 5	66, 6-6	HEC	does	NSNT	NSNT
+24, 6	67, 1-3	HEC	am rhywun nad	NSNT	NSNT
+24, 7	67, 4-9	HEC	ydyn nhw ddim yn enwi fo	NSNT	NSNT
+24, 8	67, 10-11	HEC	nag ydy	SNT	NSNT
+24, 9	68, 1-5	HEC	*just* complete made_up *story* felly	NST	ST
+24, 10	69, 1-3	HEC	hynna ydy o	NSNT	NSNT
+24, 11	69, 4-6	HEC	dw i *sure*	---	NST
+
+
+25, 1	71, 1-4	DAN	be mae o ddeud	---	NSNT
+
+
+26, 1	72, 1-6	HEC	each celebrity likes sniffing dogs arses	SNT	NSNT
+26, 2	74, 1-14	HEC	does yna yr un quote gan neb yn mynd i ddeud enw nhw rŵan	NSNT	SNT
+26, 4	76, 1-4	HEC	os oes fod yn	NSNT	NSNT
+26, 5	77, 1-8	HEC	bod nhw wedi dreifio fyny bore yma felly	---	NSNT
+
+
+27, 1	79, 1-8	DAN	*right* mae gynno chi fodfedd arall i wneud	NST	NST
+27, 2	80, 1-4	DAN	be gawn ni wneud	---	NSNT
+
+
+28, 1	81, 1-8	HEC	o'n i feddwl am fod hi *right* *bizarre*	NST	NST
+28, 3	83, 1-5	HEC	wnaeth hi ddim deud *India*	ST	NST
+28, 5	85, 1-7	HEC	singer song_writer neu *actor* ydy o bob	NST	ST
+28, 6	85, 8-8	HEC	tro	---	NSNT
+
+
+29, 1	87, 1-1	DAN	celebrity	---	NSNT
+
+
+30, 1	89, 1-4	HEC	which *well* known celebrity	---	NST
+
+
+31, 1	90, 1-5	DAN	Argian mae hwn llawn cachu	NSNT	NSNT
+31, 2	91, 1-4	DAN	pwy ydy *Mike_Skinner* dŵad	---	NST
+
+
+32, 1	92, 1-4	HEC	*er* *boy* *Streets* yna	---	NST
+
+
+33, 1	93, 1-2	DAN	*oh* dyna	NST	NST
+33, 2	93, 3-5	DAN	pwy ydy o	---	NSNT
+
+
+34, 1	94, 1-2	HEC	timod hwnna	NSNT	NSNT
+34, 2	94, 3-7	HEC	sy yn gwisgo *polo* shirts	ST	ST
+34, 3	95, 1-6	HEC	edrych dipyn bach fath â *Greg*	---	NST
+
+
+35, 1	96, 1-7	DAN	*well* mae wedi cachu ar *Mel_Gibson* hefyd	---	NST
+
+
+36, 1	97, 1-2	HEC	am be	---	NSNT
+
+
+37, 1	98, 1-9	DAN	bod o wedi gwneud anti_Jewish slur yn_erbyn *er* rywun	---	ST
+
+
+38, 1	99, 1-18	HEC	oedd yna rywun arall wedi wneud be ti yn galw fo wedi dweud am bobl Iddewig rywbryd o_blaen	NSNT	NSNT
+38, 2	99, 19-19	HEC	doedd	---	NSNT
+
+
+39, 1	100, 1-4	DAN	dw ddim yn gwybod	---	NSNT
+
+
+40, 1	101, 1-5	HEC	be mae *Mel_Gibson* wedi wneud	NST	NST
+40, 2	102, 1-6	HEC	ella na fo dw i feddwl	NSNT	NSNT
+40, 3	104, 1-8	HEC	deud na nhw oedd yn achosi pob rhyfel	---	NSNT
+
+
+41, 1	106, 1-2	DAN	fucking Jews	NSNT	NSNT
+41, 2	107, 1-12	DAN	the Jews that is responsible for all the wars in the world	SNT	NSNT
+41, 4	111, 1-6	DAN	peth cas i ddeud hefyd de	NSNT	NSNT
+41, 6	113, 1-4	DAN	tyrd â hwnna yma	NSNT	NSNT
+41, 7	114, 1-1	DAN	weld	NSNT	NSNT
+41, 8	115, 1-4	DAN	ti dorri fo do	NSNT	NSNT
+41, 9	116, 1-10	DAN	dw i meddwl ddylia ti gael *batteries* newydd *er* *Peredur*	NST	NST
+41, 10	117, 1-4	DAN	hwn ddim yn gweithio	NSNT	NSNT
+41, 11	118, 1-9	DAN	os na ti wedi roid o fewn ffordd *wrong*	NST	NST
+41, 12	118, 10-10	DAN	yli	NSNT	NSNT
+41, 13	119, 1-3	DAN	ti gwrando *Peredur*	NST	NST
+41, 14	120, 1-2	DAN	*batteries* gwael	NST	NST
+41, 15	121, 1-4	DAN	fedri deud na Prifysgol	NSNT	NSNT
+41, 16	121, 5-6	DAN	sy wedi	NSNT	NSNT
+41, 17	121, 7-12	DAN	roid y *batteries* yma i chdi	NST	NST
+41, 18	122, 1-2	DAN	Arglwydd mawr	NSNT	NSNT
+41, 19	123, 1-5	DAN	dw i ddim yn meddwl	NSNT	NSNT
+41, 20	123, 6-13	DAN	bod hwn yn gweithio yn dda iawn anyway	SNT	SNT
+41, 21	124, 1-9	DAN	fedra i ddim cael y *battery* yma o yma	NST	NST
+41, 23	126, 1-3	DAN	gawn ni weld	NSNT	NSNT
+41, 24	127, 1-5	DAN	na paid â roi un	NSNT	NSNT
+41, 25	128, 1-3	DAN	be ydy rhain	NSNT	NSNT
+41, 26	129, 1-3	DAN	yr hen rai	---	NSNT
+
+
+42, 1	130, 1-7	HEC	mae hynna gyd i weld yno hefyd	---	NSNT
+
+
+43, 1	131, 1-3	DAN	be pedwar yma	NSNT	NSNT
+43, 2	132, 1-4	DAN	ti erioed yn *serious*	ST	NST
+43, 3	133, 1-2	DAN	my God	NSNT	NSNT
+43, 4	134, 1-5	DAN	look like a *bunch* of	---	NST
+
+
+44, 1	135, 1-3	HEC	mother of God	---	NSNT
+
+
+45, 1	136, 1-3	DAN	mother of God	NSNT	NSNT
+45, 3	138, 1-9	DAN	do I look like a *cat* to you *boy*	ST	NST
+45, 5	140, 1-4	DAN	ia hwnna oedd o	---	NSNT
+
+
+46, 1	141, 1-4	HEC	ar be oedd o	---	NSNT
+
+
+47, 1	142, 1-2	DAN	dyna o	NSNT	NSNT
+47, 2	143, 1-1	DAN	gwyrdd	---	NSNT
+
+
+48, 1	144, 1-3	HEC	*right* dda *Daniel*	NST	NST
+48, 2	145, 1-6	HEC	na mae gyd yn goch eto	---	NSNT
+
+
+49, 1	146, 1-8	DAN	mae o wedi mynd yn goch wan eto	SNT	NSNT
+49, 3	148, 1-6	DAN	dodgy *batteries* yn fan yma *Peredur*	ST	ST
+49, 4	149, 1-1	DAN	dodgy	SNT	NSNT
+49, 5	150, 1-6	DAN	ydan ni dal fod i siarad	NSNT	NSNT
+49, 6	151, 1-4	DAN	*just* gad o nes	NST	NST
+49, 7	151, 5-9	DAN	bod o wedi mynd *off*	---	NST
+
+
+50, 1	152, 1-1	HEC	*eh*	---	NST
+
+
+51, 1	153, 1-16	DAN	waeth i ti *just* cario ymlaen i siarad nes bod o wedi mynd *off* ddim na	NST	NST
+51, 2	154, 1-4	DAN	mae *Peredur* wedi clywed	NST	NST
+51, 3	155, 1-3	DAN	mae o nôl	NSNT	NSNT
+51, 4	156, 1-7	DAN	mae o wneud rywbeth amdano fo *sure*	NST	NST
+51, 5	157, 1-3	DAN	pwy ydy hon	SNT	NSNT
+51, 6	158, 1-6	DAN	*Scarlett_Johansson* was oozing *specs* appeal yesterday	ST	NST
+51, 7	159, 1-10	DAN	Arglwydd mae raid bod gennyn nhw *fuck* all i wneud	NST	ST
+51, 8	159, 11-11	DAN	does	NSNT	NSNT
+51, 9	160, 1-1	DAN	tibod	SNT	NSNT
+51, 10	161, 1-1	DAN	oozing	---	NSNT
+
+
+52, 1	162, 1-7	HEC	*story* *just* achos bod hi gwisgo *specs*	---	NST
+
+
+53, 1	163, 1-13	DAN	a am bod hi wedi cymryd *er* *um* walk bach *round* *Brooklyn* New_York	---	ST
+
+
+54, 1	164, 1-4	HEC	lle da New_York tydy	---	SNT
+
+
+55, 1	166, 1-1	DAN	*aye*	---	NST
+
+
+56, 1	168, 1-2	HEC	hollol gutted	SNT	SNT
+56, 2	169, 1-3	HEC	dw i erioed	NSNT	NSNT
+56, 3	169, 4-15	HEC	wedi bod ar *holidays* a ddim isio fo orffen gymaint â hynna	---	NST
+
+
+57, 1	170, 1-13	DAN	a crackpot *council* gave in yesterday over *free* driving lessons for Asian lads	---	NST
+
+
+58, 1	171, 1-1	HEC	be	---	NSNT
+
+
+59, 1	172, 1-1	DAN	dyna	NSNT	NSNT
+59, 2	172, 2-7	DAN	mae o ddeud yn fan yma	NSNT	NSNT
+59, 3	173, 1-9	DAN	mae yr *bloody* *Muslims* yn cael pethau yna hefyd	NST	NST
+59, 5	175, 1-8	DAN	mae pobl yn mynd yn rhy *sensitive* wan	NST	NST
+59, 6	176, 1-15	DAN	tyrd â yr *Sun* yma i mi gael gweld be sy yn y scrag yna	NST	ST
+59, 7	177, 1-3	DAN	rywbeth arall i	---	NSNT
+
+
+60, 1	178, 1-6	HEC	gyd yr un peth fydd yna	NSNT	NSNT
+60, 2	178, 7-7	HEC	sti	NSNT	NSNT
+60, 3	180, 1-5	HEC	yr un lluniau yn union	NSNT	NSNT
+60, 4	181, 1-7	HEC	*just* wedi eirio rhyw ychydig yn wahanol	---	NST
+
+
+61, 1	182, 1-5	DAN	I'll do it my way	NSNT	NSNT
+61, 2	183, 1-7	DAN	*McClaren* vowed to put *Sven* behind him	NST	NST
+61, 3	184, 1-2	DAN	thank God	---	NSNT
+
+
+62, 1	185, 1-8	HEC	mae nhw wedi huro yr *boy* *Clifford* yna	ST	NST
+62, 2	186, 1-2	HEC	*boy* p_r	---	NST
+
+
+63, 1	187, 1-2	DAN	pwy *Clifford*	---	NST
+
+
+64, 1	188, 1-2	HEC	tibod *Max_Clifford*	NST	NST
+64, 2	189, 1-5	HEC	y *boy* p_r famous yna	NST	ST
+64, 3	190, 1-2	HEC	gwell peidio	NSNT	NSNT
+64, 4	191, 1-14	HEC	fo sy yn promote_io ac yn fath â *spin* *doctor* ar y media felly	---	ST
+
+
+65, 1	192, 1-4	DAN	ddim y crowned *king*	---	ST
+
+
+66, 1	193, 1-9	HEC	mae wedi employ_o fo felly er_mwyn *er* gwneud *sure*	NST	ST
+66, 2	193, 10-16	HEC	bod yna ddim *stories* yn dod allan	---	NST
+
+
+67, 1	195, 1-4	DAN	pwy ydy rhain dŵad	SNT	NSNT
+67, 4	198, 1-2	DAN	girl *fans*	ST	NST
+67, 5	199, 1-3	DAN	un bob braich	NSNT	NSNT
+67, 6	200, 1-8	DAN	Arglwydd mae edrych yn hen yn fan yna	---	NSNT
+
+
+68, 1	202, 1-4	HEC	sbïa golwg ar honna	SNT	NSNT
+68, 2	203, 1-2	HEC	wasted ydy	---	SNT
+
+
+69, 1	204, 1-6	DAN	bron iawn cystal â chdi neithiwr	---	NSNT
+
+
+70, 1	205, 1-5	HEC	bron iawn cystal â *Graham*	---	NST
+
+
+71, 1	207, 1-3	DAN	*oh* dyma ni	NST	NST
+71, 2	208, 1-4	DAN	hwn ydy yr *boy*	NST	NST
+71, 3	208, 5-5	DAN	sti	SNT	NSNT
+71, 4	209, 1-8	DAN	lover's sis is pregnant after our tasty quickie	---	NSNT
+
+
+72, 1	210, 1-2	HEC	*Dear* *Deirdre*	---	NST
+
+
+73, 1	211, 1-2	DAN	*Dear* *Deirdre*	ST	NST
+73, 2	212, 1-6	DAN	Iesu un da fan yna *eh*	ST	NST
+73, 3	213, 1-1	DAN	*Andrews*	ST	NST
+73, 4	214, 1-6	DAN	my guy's all *wham* no *bang*	---	NST
+
+
+74, 1	217, 1-2	HEC	speeds along	---	NSNT
+
+
+75, 1	218, 1-8	DAN	dw i ddim wedi cael *Wham* ers_talwm achan	---	NST
+
+
+76, 1	219, 1-2	HEC	finnau chwaith	NSNT	NSNT
+76, 4	222, 1-3	HEC	*bits* bach *er*	---	NST
+
+
+77, 1	223, 1-1	DAN	fizzy	---	NSNT
+
+
+78, 1	224, 1-4	HEC	sour yn canol de	---	SNT
+
+
+79, 1	227, 1-6	DAN	*ah* o'n i licio rheiny hefyd	---	NST
+
+
+80, 1	228, 1-1	HEC	Arglwydd	---	NSNT
+
+
+81, 1	231, 1-7	DAN	fedra i ddim gweld heb yn sbectol	NSNT	NSNT
+81, 2	231, 8-8	DAN	sti	NSNT	NSNT
+81, 5	234, 1-10	DAN	dwy flynedd yn_ôl oedd o dim_ond two *point* seven five	---	ST
+
+
+82, 1	235, 1-1	HEC	be	---	NSNT
+
+
+83, 1	236, 1-1	DAN	*Carrick*	---	NST
+
+
+84, 1	237, 1-10	HEC	ia ond oedd ei *gontract* o yn dod i ben	NST	NST
+84, 2	237, 11-11	HEC	doedd	NSNT	NSNT
+84, 4	239, 1-12	HEC	blwyddyn neu llai na blwyddyn oedd gynno fo ar_ôl ar ei *gontract*	NST	NST
+84, 5	240, 1-2	HEC	dyna pam	NSNT	NSNT
+84, 6	240, 3-5	HEC	aeth o am	---	NSNT
+
+
+85, 1	241, 1-7	DAN	*Bobby_Charlton* yn siarad drwy ei dîn eto	NST	NST
+85, 2	242, 1-10	DAN	wnaetho fo adael i *Van_Nistelrooy* fynd am ddim hefyd do	---	NST
+
+
+86, 1	245, 1-18	HEC	*well* fel oedd rhyw *foy* o yr Spanish media yn deud seller's market a rai felly fath â	NST	ST
+86, 2	246, 1-4	HEC	oedd *Van_Nistelrooy* isio mynd	NST	NST
+86, 3	246, 5-5	HEC	doedd	NSNT	NSNT
+86, 4	247, 1-7	HEC	oedd gen *Man_U* ddim_byd i fargeinio efo	NST	NST
+86, 5	247, 8-9	HEC	nag oedd	NSNT	NSNT
+86, 6	248, 1-7	HEC	wedi deud bod o isio mynd hefyd	---	NSNT
+
+
+87, 1	249, 1-2	DAN	ngwas i	---	NSNT
+
+
+88, 1	250, 1-4	HEC	oedd *Real_Madrid* yn gwybod	NST	NST
+88, 2	250, 5-10	HEC	bod raid i *United* werthu fo	NST	NST
+88, 3	250, 11-11	HEC	doedd	NSNT	NSNT
+88, 4	251, 1-1	HEC	meddwl	NSNT	NSNT
+88, 5	251, 2-9	HEC	fasen ni wedi cael pymtheg amdano fo hefyd	NSNT	NSNT
+88, 6	252, 1-4	HEC	*Shevchenko* yn costio thirty	ST	ST
+88, 7	253, 1-5	HEC	mae o yr un oed	---	NSNT
+
+
+89, 1	254, 1-2	DAN	cofia di	NSNT	NSNT
+89, 2	254, 3-8	DAN	mae *Nistelrooy* wedi cael season gwael	---	ST
+
+
+90, 1	255, 1-5	HEC	tu ôl i yr de	NSNT	NSNT
+90, 2	257, 1-7	HEC	*Fergie* oedd ddim yn chwarae fo season	---	ST
+
+
+91, 1	258, 1-4	DAN	am bod o yn	---	NSNT
+
+
+92, 1	259, 1-4	HEC	dw i yn *sure*	NST	NST
+92, 2	259, 5-5	HEC	bod	NSNT	NSNT
+92, 3	259, 6-15	HEC	mae raid bod gynno fo ryw fath o attitude *problem*	ST	ST
+92, 4	260, 1-8	HEC	achos tibod diwedd y World Cup nag oedd	---	SNT
+
+
+93, 1	261, 1-2	DAN	nag oedd	---	NSNT
+
+
+94, 1	262, 1-5	HEC	oedd o wedi ffraeo efo	NSNT	NSNT
+94, 2	262, 6-8	HEC	faswn i deud	---	NSNT
+
+
+95, 1	263, 1-5	DAN	oedd yna rywbeth wedi digwydd	NSNT	NSNT
+95, 2	263, 6-6	DAN	doedd	---	NSNT
+
+
+96, 1	264, 1-4	HEC	o'n i yn meddwl	---	NSNT
+
+
+97, 1	265, 1-11	DAN	ond doedd o ddim yn sgorio i Holland chwaith na chei	---	SNT
+
+
+98, 1	267, 1-7	HEC	doedd o ddim yn World Cup na	---	SNT
+
+
+99, 1	270, 1-2	DAN	cofia di	NSNT	NSNT
+99, 2	270, 4-12	DAN	oedd *Saha* a *Rooney* yn gweithio dda efo ei_gilydd	---	NST
+
+
+100, 1	272, 1-1	HEC	*Saha*	---	NST
+
+
+101, 1	273, 1-4	DAN	a mae yn gwella	---	NSNT
+
+
+102, 1	274, 1-10	HEC	mae o dda yn yr awyr yn well na *Van_Nistelrooy*	NST	NST
+102, 2	275, 1-5	HEC	mae *Van_Nistelrooy* angen gwell moves	---	ST
+
+
+103, 1	277, 1-3	DAN	dw ddim gwybod	NSNT	NSNT
+103, 2	277, 4-5	DAN	be oedd	---	NSNT
+
+
+104, 1	278, 1-1	HEC	*Saha*	---	NST
+
+
+105, 1	279, 1-9	DAN	*well* be ti ddisgwyl gen mul ond *kick* de	---	NST
+
+
+106, 1	280, 1-3	HEC	popeth yn iawn	---	NSNT
+
+
+107, 1	281, 1-4	DAN	mae popeth yn iawn	---	NSNT
+
+
+108, 1	283, 1-6	HEC	*oh* hwn wedi mynd *off* eto	---	NST
+
+
+109, 1	284, 1-3	DAN	ti yn jocian	---	NSNT
+
+
+110, 1	286, 1-3	HEC	rhywbeth yn bod	---	NSNT
+
+
+111, 1	287, 1-7	DAN	ella na *just* y golau ydy o	NST	NST
+111, 2	287, 8-8	DAN	sti	---	NSNT
+
+
+112, 1	288, 1-5	HEC	oedd o yn green gynnau	NSNT	SNT
+112, 2	289, 1-3	HEC	ti yn iawn	NSNT	NSNT
+112, 3	290, 1-8	HEC	dw i ddim wedi gweld hwnna ers dipyn	---	NSNT
+
+
+113, 1	292, 1-5	DAN	wnes di weld o echnos	---	NSNT
+
+
+114, 1	294, 1-9	HEC	o'n i ddim wedi weld o tan hynny felly	---	NSNT
+
+
+115, 1	296, 1-3	DAN	a finnau hefyd	NSNT	NSNT
+115, 3	298, 1-2	DAN	hen *Jason*	ST	NST
+115, 4	299, 1-12	DAN	*missus* bedded my two pals *as* I ran *marathons* in diving *suit*	---	NST
+
+
+116, 1	300, 1-1	HEC	creadur	---	NSNT
+
+
+117, 1	301, 1-8	DAN	*ah* be uffar ti fod i ddisgwyl de	NST	NST
+117, 2	302, 1-4	DAN	ti yn iawn hefyd	---	NSNT
+
+
+118, 1	303, 1-1	HEC	be	---	NSNT
+
+
+119, 1	304, 1-3	DAN	*Scarlett* *Johansson* yma	---	NST
+
+
+120, 1	305, 1-1	HEC	sti	NSNT	NSNT
+120, 2	306, 1-3	HEC	gymryd y ddau	NSNT	NSNT
+120, 3	307, 1-5	HEC	achos bod gynno fi funud	---	NSNT
+
+
+121, 1	308, 1-5	DAN	*cider* woos the *alcopop* generation	NST	NST
+121, 2	309, 1-10	DAN	rocketing *sales* this summer made *cider* the *apple* of the	NST	NST
+121, 3	310, 1-3	DAN	*oh* fucking hell	ST	NST
+121, 4	311, 1-4	DAN	be ti ddisgwyl de	NSNT	NSNT
+121, 5	312, 1-3	DAN	dal ar goch	---	NSNT
+
+
+122, 1	314, 1-5	HEC	oes yna ddim_byd ond golau	NSNT	NSNT
+122, 2	315, 1-3	HEC	troi o ffwrdd	---	NSNT
+
+
+123, 1	316, 1-4	DAN	rho fo yn_ôl on	---	SNT
+
+
+124, 1	318, 1-8	HEC	ges i ryw *Fagners* neu ddau neithiwr *ooh*	---	NST
+
+
+125, 1	319, 2-5	DAN	dw i yn gwybod	NSNT	NSNT
+125, 2	320, 1-9	DAN	*Magners* o't ti yn yfed yn lle yna de	---	NST
+
+
+126, 1	321, 1-3	HEC	yn *Bull* ia	---	NST
+
+
+127, 1	322, 1-7	DAN	be arall sy yn y cachu yma	NSNT	NSNT
+127, 2	323, 1-7	DAN	does yna ddim_byd yn y cachu yma	NSNT	NSNT
+127, 4	325, 1-4	DAN	dw i ddim gwybod	NSNT	NSNT
+127, 6	327, 1-12	DAN	*oh* mae *P_Diddy* yn edrych yn *right* fucked yn *right* deud gwir	---	ST
+
+
+128, 1	328, 1-3	HEC	be ddeudodd *Gary_Neville*	NST	NST
+128, 2	329, 1-2	HEC	sbïo ar	---	NSNT
+
+
+129, 1	330, 1-2	DAN	am y	NSNT	NSNT
+129, 2	331, 1-5	DAN	deud bod o wedi *um*	---	NST
+
+
+130, 1	332, 1-2	HEC	geith *Christian_Ronaldo*	---	NST
+
+
+131, 1	334, 1-2	DAN	hold on	NSNT	NSNT
+131, 2	335, 1-4	DAN	on training *Manchester_United* skipper	NST	NST
+131, 6	339, 1-13	DAN	the fierce loyal red is unhappy with for being disloyal to the *club*	NST	NST
+131, 7	340, 1-7	DAN	he said twice during the World Cup	NSNT	NSNT
+131, 8	340, 8-11	DAN	he wanted to quit	NSNT	NSNT
+131, 9	341, 1-11	DAN	since then he has refused to *back* down from this statement	NST	NST
+131, 10	342, 1-6	DAN	he wants a move to Spain	NSNT	NSNT
+131, 11	343, 1-11	DAN	despite being welcomed *back* at *Manchester_United* after his World Cup controversy	ST	NST
+131, 14	346, 1-7	DAN	ia bach o dwat ydy *Ronaldo* anyway	NST	ST
+131, 15	347, 1-6	DAN	good player ond bach o dwat	SNT	SNT
+131, 16	348, 1-4	DAN	waeth ti heb sti	NSNT	NSNT
+131, 17	349, 1-5	DAN	mae yn dal i recordio	NSNT	NSNT
+131, 18	349, 6-10	DAN	pan mae o ar goch	NSNT	NSNT
+131, 19	349, 11-11	DAN	sti	---	NSNT
+
+
+132, 1	351, 1-1	HEC	felly	---	NSNT
+
+
+133, 1	352, 1-9	DAN	*just* deud bod y *battery* yn mynd i fynd	NST	NST
+133, 2	352, 10-11	DAN	mae o	NSNT	NSNT
+133, 3	353, 1-6	DAN	be ti fod i wneud de	NSNT	NSNT
+133, 4	354, 1-12	DAN	waeth ti wasgu bob ceiniog allan o *battery* yna ddim na waeth	NST	NST
+133, 7	357, 1-2	DAN	finnau chwaith	---	NSNT
+
+
+134, 1	358, 1-3	HEC	dos i gongl	NSNT	NSNT
+134, 3	360, 1-15	HEC	doedd gen i ddim llawer o *lectures* yn Main *Arts* pan o'n i yn coleg	---	ST
+
+
+135, 1	361, 1-6	DAN	*ah* lawr fan acw oedda chdi	---	NST
+
+
+136, 1	363, 1-1	HEC	sti	NSNT	NSNT
+136, 2	364, 1-8	HEC	do'n i ddim yn mynd yn aml yno	---	NSNT
+
+
+137, 1	365, 1-2	DAN	nag oeddet	---	NSNT
+
+
+138, 1	366, 1-6	HEC	dim pan es i ar_goll yma	---	NSNT
+
+
+139, 1	367, 1-1	DAN	naddo	---	NSNT
+
+
+140, 1	371, 1-4	HEC	least ti fucking gwybod	---	SNT
+
+
+141, 1	373, 1-3	DAN	pen rwdan *ah*	---	NST
+
+
+142, 1	374, 1-5	HEC	doedd o ddim yn hwyl	---	NSNT
+
+
+143, 1	375, 1-7	DAN	wnest ti mynd i *lecture* yn diwedd	NST	NST
+143, 2	375, 8-8	DAN	naddo	---	NSNT
+
+
+144, 1	376, 1-1	HEC	naddo	NSNT	NSNT
+144, 3	378, 1-4	HEC	wnes i gerdded adra	---	NSNT
+
+
+145, 1	380, 1-3	DAN	be wnest ti	NSNT	NSNT
+145, 2	381, 1-5	DAN	ar_goll am tua pum munud	NSNT	NSNT
+145, 3	382, 1-3	DAN	a wedyn mynd	SNT	NSNT
+145, 4	383, 1-2	DAN	*fuck* it	ST	NST
+145, 5	384, 1-2	DAN	ac adra	---	NSNT
+
+
+146, 1	385, 1-10	HEC	ges i drafferth cael o yno deud gwir wrtha ti	NSNT	NSNT
+146, 3	387, 1-12	HEC	wna i byth anghofio un lecturer yn ffindio fi ar y *corridor*	NST	ST
+146, 4	388, 1-6	HEC	dal wedi meddwi ers noson cynt	NSNT	NSNT
+146, 5	389, 1-3	HEC	duwarth am gynnar	NSNT	NSNT
+146, 8	392, 1-6	HEC	*Hector* lle ydach chi yn mynd	NST	NST
+146, 9	393, 1-1	HEC	fel	NSNT	NSNT
+146, 11	395, 1-4	HEC	y cleaner ydy o	---	SNT
+
+
+147, 1	396, 1-3	DAN	*oh* fucking hell	ST	NST
+147, 3	398, 1-3	DAN	diawl o beth	---	NSNT
+
+
+148, 1	399, 1-8	HEC	hwnnw wnaeth yr hogiau lluchio snowball arno fo	NSNT	SNT
+148, 3	401, 1-3	HEC	*Keith* yn *J_M_J*	NST	NST
+148, 5	403, 1-8	HEC	tibod y *fence* mawr yna *right* yn cefn	NST	NST
+148, 6	404, 1-3	HEC	giât mawr yno	NSNT	NSNT
+148, 7	406, 1-10	HEC	pawb ar ben hwnnw yn lluchio snowballs at y lecturer	SNT	SNT
+148, 9	408, 1-4	HEC	wnaeth ei wraig o	---	NSNT
+
+
+149, 1	409, 1-3	DAN	faswn innau hefyd	NSNT	NSNT
+149, 2	410, 1-2	DAN	lluchio snowball	---	SNT
+
+
+150, 1	411, 1-3	HEC	faswn innau hefyd	NSNT	NSNT
+150, 2	412, 1-5	HEC	does gen ti ddim gobaith	---	NSNT
+
+
+151, 1	414, 1-2	DAN	hold on	SNT	NSNT
+151, 2	415, 1-9	DAN	dw i yn mynd i dynnu yr blinking *jumper*	ST	ST
+151, 3	416, 1-6	DAN	mae *right* boeth yn lle yma	NST	NST
+151, 4	417, 1-8	DAN	dw i yn tynnu yn *jumper* rŵan iawn	---	NST
+
+
+152, 1	418, 1-6	HEC	ti wedi cofio yr phecyn bwyd	NSNT	NSNT
+152, 3	420, 1-7	HEC	o'n i ddim wedi dallt honna tan	NSNT	NSNT
+152, 4	420, 8-9	HEC	noson o_blaen	NSNT	NSNT
+152, 5	420, 10-10	HEC	sti	---	NSNT
+
+
+153, 1	421, 1-4	DAN	fedra i ddim coelio	---	NSNT
+
+
+154, 1	422, 1-3	HEC	oedda chdi wedi	---	NSNT
+
+
+155, 1	423, 1-1	DAN	o'n	---	NSNT
+
+
+156, 1	424, 1-5	HEC	oedda chdi wedi chael hi	---	NSNT
+
+
+157, 1	425, 1-5	DAN	o'n i wedi chael hi	NSNT	NSNT
+157, 2	426, 1-7	DAN	wnes i ddim cael hi tro cynta	NSNT	NSNT
+157, 3	427, 1-10	DAN	tibod pan o'n i tro cynta o'n i yn be	---	NSNT
+
+
+158, 1	428, 1-8	HEC	be oedd i *Mr* *Picton* i ddeud hynny	NST	NST
+158, 2	429, 1-3	HEC	*just* fath â	NST	NST
+158, 3	430, 1-2	HEC	phecyn bwyd	---	NSNT
+
+
+159, 1	431, 1-4	DAN	phecyn bwyd ydy o	SNT	NSNT
+159, 3	433, 1-3	DAN	packed lunch de	---	SNT
+
+
+160, 1	434, 1-7	HEC	wnes i ddim gweld y *thing* gynta	NST	NST
+160, 2	434, 8-8	HEC	sti	NSNT	NSNT
+160, 3	435, 1-2	HEC	tibod *Maen_Eithin*	---	NST
+
+
+161, 1	436, 1-1	DAN	*pardon*	---	NST
+
+
+162, 1	438, 1-4	HEC	wnes i ddim cael	NSNT	NSNT
+162, 2	438, 5-7	HEC	honna tro cynta	NSNT	NSNT
+162, 3	438, 8-8	HEC	sti	---	NSNT
+
+
+163, 1	439, 1-6	DAN	na wnes i ddim chwaith *er*	NST	NST
+163, 2	440, 1-8	DAN	cofia di dim_ond tua deg oed o'n i	NSNT	NSNT
+163, 3	440, 9-12	DAN	pan ddoth hwnna allan	---	NSNT
+
+
+164, 1	442, 1-4	HEC	ia pryd oedd o	---	NSNT
+
+
+165, 1	443, 1-1	DAN	naw_deg_un	---	NSNT
+
+
+166, 1	444, 1-4	HEC	tua nineteen_ninety ffordd yna	---	SNT
+
+
+167, 1	445, 1-4	DAN	naw_deg_un oedd rheina ia	---	NSNT
+
+
+168, 1	446, 1-4	HEC	faint o'n i felly	NSNT	NSNT
+168, 2	447, 1-5	HEC	wyth faswn i yn deud	---	NSNT
+
+
+169, 1	448, 1-6	DAN	*er* tua wyth_deg_wyth wyth_deg_naw oedd *C'Mon_Midffild*	NST	NST
+169, 2	450, 1-7	DAN	a wedyn oedd yr *Italian_Job* yn naw_deg_naw	NST	NST
+169, 3	450, 8-8	DAN	doedd	NSNT	NSNT
+169, 4	451, 1-2	DAN	yn naw_deg	---	NSNT
+
+
+170, 1	453, 1-4	HEC	adeg *Italia* ninety de	---	ST
+
+
+171, 1	454, 1-5	DAN	hwnna oedd dechrau trydydd gyfres	---	NSNT
+
+
+172, 1	455, 1-6	HEC	dim wedi gweld hwnna ers dipyn	NSNT	NSNT
+172, 2	456, 1-6	HEC	oes gen ti *Italia* yn tŷ	---	NST
+
+
+173, 1	458, 1-2	DAN	yn rywle	---	NSNT
+
+
+174, 1	460, 1-4	HEC	wnest ti drio rhoi	NSNT	NSNT
+174, 2	460, 5-14	HEC	wnest ti roi *copy* ohono fo ar *video* i fi	NST	NST
+174, 3	461, 1-5	HEC	wnaeth o ddim gweithio gystal	NSNT	NSNT
+174, 4	461, 6-6	HEC	naddo	---	NSNT
+
+
+175, 1	462, 1-3	DAN	naddo *er* sŵn	NST	NST
+175, 2	462, 4-5	DAN	oedd o	---	NSNT
+
+
+176, 1	463, 1-3	HEC	messy felly doedd	NSNT	SNT
+176, 2	464, 1-7	HEC	mae gynno fi yr *copy* yn tŷ	---	NST
+
+
+177, 1	465, 1-2	DAN	ac *um*	NST	NST
+177, 2	466, 1-7	DAN	tibod oedd gen ti y gyfres gynta	NSNT	NSNT
+177, 3	466, 8-8	DAN	doedd	NSNT	NSNT
+177, 4	467, 1-6	DAN	wedyn oedd gen ti ail gyfres	NSNT	NSNT
+177, 5	467, 7-9	DAN	oedd yn *Derek_Peryg*	NST	NST
+177, 6	468, 1-6	DAN	hwnna oedd dechrau yr ail gyfres	---	NSNT
+
+
+178, 1	470, 1-7	HEC	o'n i yn dysgu mab *Derek_Peryg* sti	---	NST
+
+
+179, 1	471, 1-4	DAN	ia ti wedi deud	---	NSNT
+
+
+180, 1	472, 1-5	HEC	uffar o *foy* iawn ydy	NST	NST
+180, 3	475, 1-3	HEC	*cracker* o *foy*	---	NST
+
+
+181, 1	476, 1-6	DAN	*Derek_Peryg* oedd dechrau yr ail gyfres	NST	NST
+181, 2	477, 1-6	DAN	diwedd yr ail gyfres oedd priodas	---	NSNT
+
+
+182, 1	478, 1-5	HEC	doedd hwnna yn un da	NSNT	NSNT
+182, 2	478, 6-6	HEC	doedd	NSNT	NSNT
+182, 3	480, 1-7	HEC	dim wedi gweld hwnnw ers dipyn chwaith	---	NSNT
+
+
+183, 1	481, 1-2	DAN	*oh* llongyfarchiadau	---	NST
+
+
+184, 1	482, 1-10	HEC	pan mae yn cloi *Wali* yn y dressing *room* ia	---	ST
+
+
+185, 1	483, 1-5	DAN	a hwnnw yn ei drôns	---	NSNT
+
+
+186, 1	485, 1-1	HEC	llongyfarchiadau	NSNT	NSNT
+186, 3	487, 1-6	HEC	a mae ei fam o yna	NSNT	NSNT
+186, 4	487, 7-13	HEC	yndy yn sbïo yn flin arno fo	---	NSNT
+
+
+187, 1	489, 1-9	DAN	a wedyn dechrau yr trydydd gyfres ydy *um* *Italia*	NST	NST
+187, 2	491, 1-7	DAN	diwedd y trydydd gyfres ydy *er* *Dwyn_Defaid*	---	NST
+
+
+188, 1	492, 1-5	HEC	pryd wnaethon nhw newid *Sandras*	NST	NST
+188, 2	493, 1-5	HEC	pa pa gyfres oedd honno	---	NSNT
+
+
+189, 1	494, 1-1	DAN	chwech	NSNT	NSNT
+189, 2	495, 1-2	DAN	chweched ia	---	NSNT
+
+
+190, 1	497, 1-6	HEC	achos doedd o ddim gystal wedyn	NSNT	NSNT
+190, 2	497, 7-8	HEC	nag oedd	NSNT	NSNT
+190, 3	498, 1-9	HEC	ond dim_ond *Mei_Jones* yn sgwennu fo adeg yna ia	NST	NST
+190, 4	500, 1-9	HEC	toedd *Alun_Fred* dim dwytha dw i ddim yn meddwl	NST	NST
+190, 5	501, 1-5	HEC	dw i bron yn saff	---	NSNT
+
+
+191, 1	502, 1-9	DAN	ond *Alun_Fred* wedi mynd i *um* redeg *Ffilmiau'r_Nant* oedd	---	NST
+
+
+192, 1	503, 1-5	HEC	dw i ddim yn *sure*	---	NST
+
+
+193, 1	504, 1-2	DAN	fo ddechrau	---	NSNT
+
+
+194, 1	505, 1-8	HEC	oedd yn chwaer i yn yfed efo *Tecwyn*	NST	NST
+194, 2	505, 9-10	HEC	noson o_blaen	NSNT	NSNT
+194, 4	507, 1-2	HEC	oedd hi	NSNT	NSNT
+194, 5	507, 3-7	HEC	wedi bod allan am fwyd	---	NSNT
+
+
+195, 1	508, 1-1	DAN	Arglwydd	---	NSNT
+
+
+196, 1	509, 1-6	HEC	oedd o yn tancio yr gwin	NSNT	NSNT
+196, 2	509, 7-8	HEC	meddai *Emma*	NST	NST
+196, 3	510, 1-13	HEC	ac oedd o yn be ti yn galw fo topio un hi fyny	NSNT	NSNT
+196, 4	511, 1-5	HEC	oedd hi wedi dal hi	NSNT	NSNT
+196, 5	511, 6-7	HEC	meddai hi	---	NSNT
+
+
+197, 1	514, 1-5	DAN	ti byth gwybod *er* *Hector*	NST	NST
+197, 2	515, 1-9	DAN	ella fyddi di yn teulu yn cyfarth rhyw ddiwrnod	---	NSNT
+
+
+198, 1	516, 1-3	HEC	argian gobeithio ddim	---	NSNT
+
+
+199, 1	517, 1-1	DAN	*Tecwyn_Parri*	---	NST
+
+
+200, 1	518, 1-11	HEC	ia fasai fo ddim yn cael munud o heddwch gen i	---	NSNT
+
+
+201, 1	519, 1-6	DAN	ddylsa ti fynd â *Graham* yna	ST	NST
+201, 3	521, 1-4	DAN	fucking hell fasai fo	NSNT	SNT
+201, 4	521, 5-9	DAN	fasai fo wedi lladd *Graham*	NST	NST
+201, 5	521, 10-10	DAN	basai	---	NSNT
+
+
+202, 1	522, 1-1	HEC	*Graham*	NST	NST
+202, 2	523, 1-1	HEC	*Graham*	---	NST
+
+
+203, 1	524, 1-3	DAN	cer i grafu	NSNT	NSNT
+203, 2	525, 1-8	DAN	na na dim_ond dau hanner ti yn gael	---	NSNT
+
+
+204, 1	527, 1-6	HEC	na na dw i yn iawn	NSNT	NSNT
+204, 2	528, 1-7	HEC	dim_ond dau hanner dw i wedi gael	NSNT	NSNT
+204, 3	529, 1-12	HEC	a fyntau yn cysgu efo ei ben yn rhyw flodau yn *pub*	NST	NST
+204, 6	532, 1-1	HEC	argol	---	NSNT
+
+
+205, 1	533, 1-9	DAN	deud nad o'n i ddim yn dallt o'n i	---	NSNT
+
+
+206, 1	535, 1-6	HEC	tyrd *Jules* cyn i *Jean* godi	NST	NST
+206, 3	537, 1-12	HEC	a ddau ohonyn nhw rhedeg fan yna fath â ryw blant drwg	---	NSNT
+
+
+207, 1	538, 1-19	DAN	fel yna o'n i pan o'n i yn dympio chdi yn tŷ efo yr *er* efo yr *dolly* *shot*	---	NST
+
+
+208, 1	540, 1-4	HEC	argian oedd *mam* yn	NST	NST
+208, 2	541, 1-6	HEC	*Dickie* wedi gael ale un noson	NST	ST
+208, 3	541, 7-7	HEC	doedd	NSNT	NSNT
+208, 4	542, 1-6	HEC	nos Sadwrn dw i meddwl ia	NSNT	NSNT
+208, 5	543, 1-8	HEC	oedd o yn aros efo fi am ddwy	NSNT	NSNT
+208, 6	543, 9-9	HEC	noson	NSNT	NSNT
+208, 7	543, 10-10	HEC	doedd	NSNT	NSNT
+208, 8	545, 1-3	HEC	oedd *mam* deud	NST	NST
+208, 9	545, 4-14	HEC	oedd o wedi dal hi ddigon ciaidd y nos Sadwrn felly	NSNT	NSNT
+208, 10	546, 1-6	HEC	oedd o yn iawn nos Wener	NSNT	NSNT
+208, 11	546, 7-8	HEC	meddai *mam*	NST	NST
+208, 12	547, 1-5	HEC	oedd o *right* sobor felly	NST	NST
+208, 13	548, 1-5	HEC	o yn sobrach na ni	---	NSNT
+
+
+209, 1	549, 1-9	DAN	ia nos Sadwrn aethon ni â yr *cart* adra	---	NST
+
+
+210, 1	551, 1-5	HEC	*oh* oedd o yn sâl	NST	NST
+210, 2	551, 6-7	HEC	meddai *mam*	NST	NST
+210, 3	552, 1-2	HEC	oedd o	NSNT	NSNT
+210, 4	552, 3-8	HEC	oedd o wyn fath â *sheet*	NST	NST
+210, 5	552, 9-10	HEC	meddai hi	---	NSNT
+
+
+211, 1	553, 1-3	DAN	faset ti meddwl	NSNT	NSNT
+211, 2	553, 4-7	DAN	fasai fo wedi cael	---	NSNT
+
+
+212, 1	554, 1-5	HEC	*bloody* lookout *pot* *jam* de	NST	ST
+212, 2	555, 1-4	HEC	wnaeth o ddim gweld	NSNT	NSNT
+212, 3	555, 5-10	HEC	bod yna *gar* plisman yn dod	NST	NST
+212, 5	557, 1-6	HEC	roddon ni ffluch iddi i bush	SNT	SNT
+212, 6	557, 7-13	HEC	do a mynd yn_ôl i nôl hi	NSNT	NSNT
+212, 7	559, 1-1	HEC	arglwydd	---	NSNT
+
+
+213, 1	560, 1-9	DAN	gwneud ffafr â yr gymuned oedden ni fan yna	NSNT	NSNT
+213, 2	560, 10-10	DAN	sti	---	NSNT
+
+
+214, 1	561, 1-5	HEC	mae hwnna yn o fuan	NSNT	NSNT
+214, 2	562, 1-9	HEC	wsnos ar_ôl i fi ddod adra o *thing* *yeah*	---	NST
+
+
+215, 1	563, 1-3	DAN	dw ddim gwybod	NSNT	NSNT
+215, 2	564, 1-4	DAN	fydda i yn *Glan_Llyn*	---	NST
+
+
+216, 1	565, 1-5	HEC	eighteenth ffordd yna ydy *yeah*	---	ST
+
+
+217, 1	566, 1-1	DAN	*bity*	ST	NST
+217, 2	567, 1-4	DAN	fydda i yn *Glan_Llyn*	NST	NST
+217, 3	568, 1-7	DAN	diwrnod ar_ôl ydy i chdi ddod adra	NSNT	NSNT
+217, 4	568, 8-11	DAN	ydy yr eighteenth *yeah*	---	ST
+
+
+218, 1	569, 1-4	HEC	*mmm* y dydd Gwener	NST	NST
+218, 2	570, 1-4	HEC	fydda i adra seventeenth	SNT	SNT
+218, 3	571, 1-9	HEC	ti gwybod faint o gloch dan ni gorfod cychwyn	SNT	NSNT
+218, 4	572, 1-11	HEC	half five yn bore dan ni cychwyn ar y dydd Iau	---	SNT
+
+
+219, 1	573, 1-2	DAN	fflio felly	---	NSNT
+
+
+220, 1	574, 1-1	HEC	naci	SNT	NSNT
+220, 2	575, 1-4	HEC	*bus* half five de	NST	ST
+220, 3	576, 1-5	HEC	dw i dal yn deud	NSNT	NSNT
+220, 4	576, 6-9	HEC	bod o yn gynnar	NSNT	NSNT
+220, 5	577, 1-5	HEC	dim isio bod yna tan	SNT	NSNT
+220, 6	578, 1-4	HEC	half ten mae flight	NSNT	SNT
+220, 7	579, 1-7	HEC	*so* half eight dan isio bod yno	NST	ST
+220, 8	580, 1-7	HEC	*bloody* tair awr i Manchester nag ydy	NST	ST
+220, 9	581, 1-6	HEC	mae *Graham* bach wedi bwcio wan	NST	NST
+220, 10	582, 1-4	HEC	mae hwnnw yn dod	NSNT	NSNT
+220, 11	583, 1-6	HEC	ges i text gynno fo neithiwr	---	SNT
+
+
+221, 1	584, 1-4	DAN	dach chi ddim yn	NSNT	NSNT
+221, 2	584, 5-5	DAN	gall	---	NSNT
+
+
+222, 1	585, 1-6	HEC	fydd hwnnw fath â dyn gwyllt	---	NSNT
+
+
+223, 1	586, 1-5	DAN	*Graham* yn deud wrtha fi	NST	NST
+223, 2	587, 1-6	DAN	ydy o ddim gyd yn yfed	NSNT	NSNT
+223, 3	587, 7-7	DAN	sti	NSNT	NSNT
+223, 4	588, 1-4	DAN	dan ni mynd allan	NSNT	NSNT
+223, 5	589, 1-5	DAN	dan ni yn gwneud pethau	---	NSNT
+
+
+224, 1	590, 1-4	HEC	na dan ni yn	NSNT	NSNT
+224, 2	590, 5-5	HEC	sti	NSNT	NSNT
+224, 3	591, 1-7	HEC	mae o yn *right* dda am wneud	NST	NST
+224, 4	592, 1-9	HEC	mi wneith o a *Derry* *Desmond* fi a *Kiefer*	NST	NST
+224, 5	593, 1-5	HEC	wnawn ni rywbeth bob diwrnod	NSNT	NSNT
+224, 6	594, 1-1	HEC	traeth	NSNT	NSNT
+224, 7	595, 1-4	HEC	mynd ar y rings	NSNT	SNT
+224, 8	596, 1-4	HEC	*banana* boat neu tibod	NST	ST
+224, 9	597, 1-5	HEC	mynd am dro i rywle	NSNT	NSNT
+224, 10	598, 1-5	HEC	pobl fath â *Tom* de	NST	NST
+224, 11	599, 1-9	HEC	mae *Tom* yn ei wely trwy dydd bob dydd	NST	NST
+224, 12	600, 1-7	HEC	dim codi tan ddeg o gloch nos	NSNT	NSNT
+224, 13	601, 1-9	HEC	wneith hwn aros allan tan tua chwech yn bore	NSNT	NSNT
+224, 14	602, 1-12	HEC	wedyn aros yn ei wely eto wedyn tan ddeg o gloch nos	NSNT	NSNT
+224, 15	603, 1-6	HEC	bob un diwrnod yr un beth	---	NSNT
+
+
+225, 1	604, 1-5	DAN	faswn i methu handlo fo	NSNT	NSNT
+225, 2	604, 6-6	DAN	sti	---	NSNT
+
+
+226, 1	605, 1-1	HEC	be	NSNT	NSNT
+226, 2	606, 1-4	HEC	bod yn dy wely	---	NSNT
+
+
+227, 1	607, 1-4	DAN	na bod yna ia	NSNT	NSNT
+227, 2	608, 1-4	DAN	faswn i methu handlo	NSNT	NSNT
+227, 4	610, 1-11	DAN	faswn i methu handlo yfed trwy yr dydd bob dydd chwaith	---	NSNT
+
+
+228, 1	611, 1-3	HEC	yr Arglwydd *Daniel*	---	NST
+
+
+229, 1	613, 1-9	DAN	Arglwydd faswn i yn tsiecio dy drôns ar_ôl honna	---	NSNT
+
+
+230, 1	614, 1-5	HEC	y nhrôns i yn ddu	---	NSNT
+
+
+231, 1	616, 1-7	DAN	*stuff* du yn ôl ei drôns o	---	NST
+
+
+232, 1	617, 1-5	HEC	Duw ti licio *gin* dŵad	---	NST
+
+
+233, 1	618, 1-3	DAN	dwn i ddim	NSNT	NSNT
+233, 2	619, 1-5	DAN	ga i weld wan caf	---	NSNT
+
+
+234, 1	620, 1-2	HEC	da de	---	NSNT
+
+
+235, 1	623, 1-6	DAN	pa un ydy dy ffefryn di	---	NSNT
+
+
+236, 1	624, 1-7	HEC	ddim yn *sure* deud gwir wrtha chdi	NST	NST
+236, 2	625, 1-8	HEC	dw i yn licio yr un *pantomime* yna	NST	NST
+236, 3	626, 1-10	HEC	fath â heading y *bit* *practice* yna dw i licio	NST	ST
+236, 4	626, 11-11	HEC	sti	SNT	NSNT
+236, 5	627, 1-2	HEC	*oh* *sip*	---	NST
+
+
+237, 1	628, 1-2	DAN	*oh* *sip*	---	NST
+
+
+238, 1	629, 1-5	HEC	mae hwnna yn brilliant hwnna	NSNT	SNT
+238, 2	629, 6-9	HEC	de y *bit* yna	NST	NST
+238, 3	630, 1-4	HEC	ei wyneb o de	---	NSNT
+
+
+239, 1	631, 1-6	DAN	ia ond *Dwyn_Defaid* ydy numero_uno fi	---	ST
+
+
+240, 1	632, 1-6	HEC	ia hwnna ydy ffefryn gen ti	---	NSNT
+
+
+241, 1	634, 1-4	DAN	ond mae gen ti	NSNT	NSNT
+241, 2	634, 5-9	DAN	mae gen ti *Tecs* *moment*	NST	NST
+241, 3	634, 10-10	DAN	does	NSNT	NSNT
+241, 4	636, 1-4	DAN	efo yr gweu felly	---	NSNT
+
+
+242, 1	637, 1-4	HEC	one *blain* one pearl	ST	NST
+242, 3	639, 1-1	HEC	mae	NSNT	NSNT
+242, 4	639, 2-6	HEC	honna yn un dda actually	SNT	SNT
+242, 5	640, 1-18	HEC	o'n i wedi anghofio am y one *blain* one pearl tan i mi weld o yn *Galeri* sti	---	ST
+
+
+243, 1	641, 1-7	DAN	a yr *er* a yr plisman de	NST	NST
+243, 2	642, 1-3	DAN	mae nhw wedi	NSNT	NSNT
+243, 3	643, 1-3	DAN	dw i ddim	NSNT	NSNT
+243, 5	646, 1-9	DAN	gen ti yr gen ti yr *George* *moment* does	---	NST
+
+
+244, 1	650, 2-7	HEC	honna yn un dda hefyd *er*	NST	NST
+244, 2	650, 8-14	HEC	pan oedd *Arthur* wedi sylweddoli na *George*	NST	NST
+244, 3	650, 15-19	HEC	sy wedi dwyn y pres	NSNT	NSNT
+244, 4	650, 20-26	HEC	mae yr hogiau wedi gasglu iddo fo	NSNT	NSNT
+244, 5	651, 1-5	HEC	wnaethon nhw gasgliad ar dechrau	---	NSNT
+
+
+245, 1	652, 1-3	DAN	welais i ddim_byd	---	NSNT
+
+
+246, 1	655, 1-3	HEC	na finnau chwaith	NSNT	NSNT
+246, 3	657, 1-4	HEC	*oh* lle mae o	NST	NST
+246, 4	657, 5-5	HEC	ta	NSNT	NSNT
+246, 5	658, 1-2	HEC	pen_blwydd hapus	---	NSNT
+
+
+247, 1	659, 1-2	DAN	pen_blwydd hapus	---	NSNT
+
+
+248, 1	660, 2-4	HEC	honna yn *cracker*	---	NST
+
+
+249, 1	661, 1-7	DAN	wedyn mae gen ti yr *Llion_Williams* *moment*	NST	NST
+249, 2	662, 1-6	DAN	wnes i galw hi yn *Jean*	---	NST
+
+
+250, 1	664, 1-6	HEC	wnes i alw hi yn *Jean*	NST	NST
+250, 2	665, 1-8	HEC	o'n i wedi sylwi ar hwnna o_blaen felly	---	NSNT
+
+
+251, 1	666, 1-11	DAN	a wedyn mae gen ti lwyth o *Arthur_Pictons* a *Walter_Thomas* *moments*	NST	NST
+251, 2	666, 12-12	DAN	does	---	NSNT
+
+
+252, 1	668, 1-7	HEC	isio ffyn a peli i chwarae *golf*	---	NST
+
+
+253, 1	670, 1-9	DAN	*ah* isio ffyn a peli i chwarae peth felly	ST	NST
+253, 2	671, 1-2	DAN	excuse *me*	---	NST
+
+
+254, 1	672, 1-2	HEC	Arglwydd *Daniel*	NST	NST
+254, 3	674, 1-6	HEC	mae *Big_Brother* yma yn hir uffernol	---	NST
+
+
+255, 1	675, 1-5	DAN	*pile* o shite ydy o	NST	ST
+255, 2	676, 1-8	DAN	dw i ddim yn gweld dim yno fo	NSNT	NSNT
+255, 3	676, 9-9	DAN	sti	---	NSNT
+
+
+256, 1	678, 1-9	HEC	fasa chdi *foy* mynd i yr *Big_Brother* yna *Daniel*	---	NST
+
+
+257, 1	679, 1-2	DAN	na faswn	---	NSNT
+
+
+258, 1	682, 1-8	HEC	o'n i wedi meddwl trio flwyddyn yma sti	NSNT	NSNT
+258, 2	684, 1-4	HEC	dw i yn *sure*	NST	NST
+258, 3	684, 5-9	HEC	faswn i wedi cael mewn	NSNT	NSNT
+258, 4	684, 10-10	HEC	sti	---	NSNT
+
+
+259, 1	685, 1-10	DAN	a chwalu dy *um* be ti yn alw fo di	---	NST
+
+
+260, 1	686, 1-1	HEC	be	---	NSNT
+
+
+261, 1	687, 1-10	DAN	fasai hwnna yn chwalu dy *jances* di am *job* athro	---	NST
+
+
+262, 1	688, 1-2	HEC	*oh* fysai	NST	NST
+262, 2	689, 1-7	HEC	fasai hi wedi cachu arna chdi wedyn	NSNT	NSNT
+262, 3	690, 1-6	HEC	be o'n i yn deud dŵad	NSNT	NSNT
+262, 4	691, 1-14	HEC	o'n i yn gwybod fasai rywun o gogledd Cymru yn cael mewn flwyddyn yma	NSNT	NSNT
+262, 5	692, 1-7	HEC	dyna pam o'n i wedi meddwl trio	NSNT	NSNT
+262, 6	693, 1-7	HEC	achos dyn nhw ddim wedi cael neb	NSNT	NSNT
+262, 7	693, 8-13	HEC	nag ydy hyd yn hyn felly	NSNT	NSNT
+262, 8	694, 1-4	HEC	o'n i yn gwybod	NSNT	NSNT
+262, 9	695, 1-7	HEC	mi aeth y *Glyn* rywun yma mewn	NST	NST
+262, 10	696, 1-7	HEC	Arglwydd golwg ar y *Gavin_Henson* yma *Daniel*	NST	NST
+262, 11	697, 1-9	HEC	ti gweld y llun yma yn ei wallt o	---	NSNT
+
+
+263, 1	699, 1-4	DAN	edrych fod rywun wedi	---	NSNT
+
+
+264, 1	700, 1-2	HEC	*bloody* hell	---	NST
+
+
+265, 1	701, 1-1	DAN	gneifio	---	NSNT
+
+
+266, 1	702, 1-9	HEC	peth digon tebyg i wnest ti i dy wallt	NSNT	NSNT
+266, 2	702, 10-16	HEC	pan dorraist ti fo yn rhy fyr	NSNT	NSNT
+266, 3	704, 1-9	HEC	dw i dal efo dy glippers di yn tŷ	---	SNT
+
+
+267, 1	705, 1-1	DAN	ydw	---	NSNT
+
+
+268, 1	706, 1-1	HEC	fyswn	NSNT	NSNT
+268, 2	706, 2-9	HEC	faswn i medru wneud efo ryw gut hefyd	---	SNT
+
+
+269, 1	707, 1-4	DAN	be ydy hwn dŵad	SNT	NSNT
+269, 2	708, 1-8	DAN	the move comes after the worst ever audience	SNT	NSNT
+269, 3	709, 1-4	DAN	*oh* *Chris_Moyles* *er* *um*	ST	NST
+269, 4	710, 1-2	DAN	*I_T_V* ia	NST	NST
+269, 5	712, 1-8	DAN	*oh* mae hynna yn mynd i wneud *sense*	NST	NST
+269, 6	712, 9-11	DAN	dydy i bobl	NSNT	NSNT
+269, 7	712, 12-18	DAN	sy yn gwrando ar y tâp yma	NSNT	NSNT
+269, 8	713, 1-4	DAN	*oh* ia *Chris_Moyles* *yeah*	ST	NST
+269, 9	714, 1-1	DAN	*I_T_V*	ST	NST
+269, 10	715, 1-5	DAN	ti gweld y *story* yma	---	NST
+
+
+270, 1	716, 1-1	HEC	naddo	---	NSNT
+
+
+271, 1	717, 1-5	DAN	mae *I_T_V* isio *um* *Chris_Moyles*	NST	NST
+271, 2	718, 1-2	DAN	i be	NSNT	NSNT
+271, 3	719, 1-2	DAN	am bod	NSNT	NSNT
+271, 4	719, 3-4	DAN	bod nhw	NSNT	NSNT
+271, 5	719, 5-10	DAN	bod eu audiences nhw yn *crap*	---	ST
+
+
+272, 1	720, 1-4	HEC	pa *brogramme* wneith o	---	NST
+
+
+273, 1	721, 1-4	DAN	sa i yn gwybod	---	NSNT
+
+
+274, 1	723, 1-2	HEC	un gwirion	NSNT	NSNT
+274, 2	723, 3-4	HEC	ydy *Moylesey*	NST	NST
+274, 3	724, 1-14	HEC	Arglwydd chaiff *Mel_Gibson* yma byth be ti yn galw fo eto *film* arall dda	NST	NST
+274, 4	724, 15-20	HEC	na cheith ar_ôl *business* Jewish yma	---	ST
+
+
+275, 1	725, 1-10	DAN	o'n i meddwl fod o efo *A_Team* yn y pipelines	---	ST
+
+
+276, 1	729, 1-3	HEC	pwy fydd o	---	NSNT
+
+
+277, 1	730, 1-1	DAN	*Hannibal*	---	NST
+
+
+278, 1	733, 1-7	HEC	dw i medru weld o hefyd rywsut	NSNT	NSNT
+278, 2	734, 1-3	HEC	pwy fydd *B_A*	---	NST
+
+
+279, 1	735, 1-6	DAN	dw i ddim yn *sure* iawn	---	NST
+
+
+280, 1	736, 1-1	HEC	*Denzel*	---	NST
+
+
+281, 1	737, 1-6	DAN	naci *Mike_Tyson* dw i wedi glywed	NST	NST
+281, 2	739, 1-3	DAN	cofia di *wrestler*	NST	NST
+281, 3	739, 4-6	DAN	oedd *Mr_T* *yeah*	---	NST
+
+
+282, 1	740, 1-6	HEC	*er* ond fedr *Mike_Tyson* ddim actio	NST	NST
+282, 2	740, 7-8	HEC	na fedr	NSNT	NSNT
+282, 3	741, 1-6	HEC	pa *film* mae o wedi wneud	---	NST
+
+
+283, 1	742, 1-5	DAN	*Mr_T* methu actio chwaith na	NST	NST
+283, 2	743, 1-6	DAN	gwneud *job* digon del arni hefyd	---	NST
+
+
+284, 1	744, 1-4	HEC	*oh* mae hynna wir	ST	NST
+284, 2	745, 1-6	HEC	I ain't get in no *plane*	ST	NST
+284, 4	747, 1-7	HEC	dim_ond hynna mae o gorfod ddeud basically	---	SNT
+
+
+285, 1	748, 1-3	DAN	shut up *Murdock*	NST	NST
+285, 2	749, 1-2	DAN	shut up	---	NSNT
+
+
+286, 1	750, 1-4	HEC	pa *film* mae *Mike_Tyson*	NST	NST
+286, 2	751, 1-9	HEC	fath â ryw *foy* peaceful a meditate_io oedd o	ST	ST
+286, 3	752, 1-6	HEC	defo wedi bod ar ryw *film*	---	ST
+
+
+287, 1	753, 1-3	DAN	dim_byd *kung_fu* naci	---	NST
+
+
+288, 1	755, 1-5	HEC	dw i ddim yn cofio	NSNT	NSNT
+288, 2	756, 1-9	HEC	rywbeth yn deud wrtha fi na *Adam_Sandler* *film* ydy	NST	NST
+288, 3	757, 1-6	HEC	dw i ddim yn saff chwaith	NSNT	NSNT
+288, 4	759, 1-1	HEC	Arglwydd	NSNT	NSNT
+288, 5	760, 1-7	HEC	be wyt ti wneud weekend yma *Daniel*	NST	ST
+288, 6	761, 1-9	HEC	ti ddim am ddod i *car* *boot* dydd Sadwrn	NST	NST
+288, 7	763, 1-3	HEC	trio wneud pres	NSNT	NSNT
+288, 8	764, 1-8	HEC	ella bydd raid fi bicio allan nos Wener	NSNT	NSNT
+288, 9	764, 9-21	HEC	de be ti yn galw fo i gael y canpunt yma gan *Adrian*	NST	NST
+288, 10	765, 1-4	HEC	wna i ddreifio allan	---	NSNT
+
+
+289, 1	766, 1-9	DAN	*sorry* wnes i ddim dallt *fuck* all o hynna	NST	ST
+289, 3	768, 1-5	DAN	pa bryd ti mynd allan	---	NSNT
+
+
+290, 1	769, 1-2	HEC	nos Wener	---	NSNT
+
+
+291, 1	771, 1-3	DAN	i lle felly	---	NSNT
+
+
+292, 1	772, 1-3	HEC	dw ddim gwybod	NSNT	NSNT
+292, 2	773, 1-6	HEC	isio mhres dw i gen *Adrian*	---	NST
+
+
+293, 1	774, 1-2	DAN	pwy *Adrian*	---	NST
+
+
+294, 1	775, 1-6	HEC	*Adrian* *Rhosmeirch* arno gant i fi	---	NST
+
+
+295, 1	778, 1-8	DAN	pam wnest ti ddim gofyn amdano fo neithiwr	---	NSNT
+
+
+296, 1	779, 1-3	HEC	wnes i drio	---	NSNT
+
+
+297, 1	780, 1-3	DAN	gei di o	---	NSNT
+
+
+298, 1	781, 1-8	HEC	arno fo ers y mhen_blwydd i fi sti	---	NSNT
+
+
+299, 1	782, 1-2	DAN	dy ben_blwydd	---	NSNT
+
+
+300, 1	783, 1-2	HEC	mis yn_ôl	NSNT	NSNT
+300, 2	784, 1-3	HEC	dros fis yn_ôl	NSNT	NSNT
+300, 3	785, 1-4	HEC	aethon ni i *Warrington*	NST	NST
+300, 4	786, 1-5	HEC	lle da *Warrington* sti *Daniel*	NST	NST
+300, 5	787, 1-8	HEC	ella na fyswn i mynd yna eto chwaith	---	NSNT
+
+
+301, 1	789, 1-6	DAN	*ah* faint o gloch ydy dŵad	---	NST
+
+
+302, 1	790, 1-3	HEC	dw ddim gwybod	NSNT	NSNT
+302, 2	791, 1-4	HEC	chwarter i dri yma	---	NSNT
+
+
+303, 1	792, 1-6	DAN	dydy erioed yn chwarter i dri	---	NSNT
+
+
+304, 1	793, 1-4	HEC	tua faswn i ddeud	NSNT	NSNT
+304, 2	793, 5-7	HEC	os nad hwyrach	---	NSNT
+
+
+305, 1	794, 1-3	DAN	paid malu cachu	---	NSNT
+
+
+306, 1	795, 1-2	HEC	dyna chdi	NSNT	NSNT
+306, 2	796, 1-3	HEC	bron ten to	---	SNT
+
+
+307, 1	797, 1-2	DAN	Arglwydd mawr	NSNT	NSNT
+307, 3	799, 1-4	DAN	does ddim_byd i wneud	NSNT	NSNT
+307, 4	799, 5-6	DAN	nag oes	NSNT	NSNT
+307, 6	801, 1-3	DAN	dydy o ddim_byd	NSNT	NSNT
+307, 7	801, 4-9	DAN	does gen i ddim_byd i wneud	NSNT	NSNT
+307, 8	802, 1-3	DAN	dw i blino	---	NSNT
+
+
+308, 1	803, 1-5	HEC	weld tŷ yna munud *Daniel*	---	NST
+
+
+309, 1	804, 1-4	DAN	dw i isio gweld	---	NSNT
+
+
+310, 1	805, 1-3	HEC	lle mae o	NSNT	NSNT
+310, 2	806, 1-2	HEC	*Gaerwen* ucha	---	NST
+
+
+311, 1	808, 1-4	DAN	am y seithfed tro	---	NSNT
+
+
+312, 1	809, 1-3	HEC	lle yna dŵad	NSNT	NSNT
+312, 2	810, 1-4	HEC	lle mae o dŵad	---	NSNT
+
+
+313, 1	811, 1-6	DAN	ti mynd pasio yr industrial estate	---	SNT
+
+
+314, 1	812, 1-7	HEC	ella i ddim meddwl lle mae o	---	NSNT
+
+
+315, 1	813, 1-8	DAN	a *round* pasio yr troad i yr ysgol	NST	NST
+315, 2	814, 1-5	DAN	a troi i yr chwith	NSNT	NSNT
+315, 3	816, 1-5	DAN	stâd yn cefn ydy o	---	NSNT
+
+
+316, 1	817, 1-7	HEC	*yeah* dw i gwybod lle ti feddwl	NST	NST
+316, 2	818, 1-8	HEC	o'n i arfer chwarae *cricket* yn fan yna	ST	NST
+316, 3	819, 1-1	HEC	*Graham_Oliver*	---	NST
+
+
+317, 1	820, 1-1	DAN	o't	---	NSNT
+
+
+318, 1	822, 1-3	HEC	ochrau ffordd yna	NSNT	NSNT
+318, 3	825, 1-8	HEC	oedd yna fath â ryw alley bach yna	NSNT	SNT
+318, 5	827, 1-8	HEC	dw i ddim yn cofio yn iawn lle	---	NSNT
+
+
+319, 1	828, 1-6	DAN	dros ffordd i *Morgan_Evans* mae o	---	NST
+
+
+320, 1	829, 1-4	HEC	lle iawn *Gaerwen* ydy	---	NST
+
+
+321, 1	830, 1-7	DAN	mae tua ugain mil yn yn ddrytach	NSNT	NSNT
+321, 2	830, 8-11	DAN	na fedra i fforddio	---	NSNT
+
+
+322, 1	833, 1-4	HEC	ân nhw lawr dŵad	---	NSNT
+
+
+323, 1	834, 1-1	DAN	*eh*	---	NST
+
+
+324, 1	835, 1-7	HEC	ers faint mae o ar y farchnad	---	NSNT
+
+
+325, 1	836, 1-2	DAN	wsnos ella	NSNT	NSNT
+325, 2	838, 1-6	DAN	newydd weld o dw i *so*	---	NST
+
+
+326, 1	839, 1-8	HEC	timod fawr o *jance* gael nhw lawr felly	NST	NST
+326, 2	839, 9-17	HEC	nag oes os na newydd ddod ar y farchnad	NSNT	NSNT
+326, 3	839, 18-19	HEC	mae o	NSNT	NSNT
+326, 4	841, 1-4	HEC	oes ddrewdod yma *Daniel*	NST	NST
+326, 6	843, 1-3	HEC	dw i yn	NSNT	NSNT
+326, 7	843, 4-7	HEC	dw i yn drewi	NSNT	NSNT
+326, 8	844, 1-8	HEC	faswn i medru wneud efo shower deud gwir	---	SNT
+
+
+327, 1	845, 1-1	DAN	*aye*	ST	NST
+327, 2	846, 1-11	DAN	raid ti fynd â dy *gar* o tŷ acw heddiw hefyd	---	NST
+
+
+328, 1	847, 1-6	HEC	a i â fo munud wasi	---	NSNT
+
+
+329, 1	848, 1-7	DAN	mae yn *bloody* ffordd yn fan yna	NST	NST
+329, 3	850, 1-9	DAN	ti wedi parcio fath â buwch yn cachu de	---	NSNT
+
+
+330, 1	851, 1-10	HEC	i ddim yn cofio parcio yna ddeud gwir i chdi	NSNT	NSNT
+330, 2	852, 1-5	HEC	pryd wnes i ddreifio yna	---	NSNT
+
+
+331, 1	853, 1-2	DAN	dydd Llun	---	NSNT
+
+
+332, 1	854, 1-6	HEC	lle o'n i wedi bod dŵad	---	NSNT
+
+
+333, 1	855, 1-4	DAN	nôl *Graham* a cwrw	---	NST
+
+
+334, 1	856, 1-5	HEC	*oh* *yeah* o stryd de	NST	NST
+334, 2	857, 1-5	HEC	*oh* gen i gof wan	---	NST
+
+
+335, 1	858, 1-7	DAN	wnest ti gyrraedd ddwy awr yn hwyr	NSNT	NSNT
+335, 2	859, 1-4	DAN	*yeah* a i yna	---	NST
+
+
+336, 1	860, 1-8	HEC	awr a tri chwarter o'n i yn diwedd	NSNT	NSNT
+336, 2	861, 1-6	HEC	wnes i sbïo ar y *clock*	---	NST
+
+
+337, 1	862, 1-5	DAN	fydda i yna erbyn wyth	---	NSNT
+
+
+338, 1	864, 1-13	HEC	*yeah* oedd hi tua hanner wedi wyth arna fi yn mynd am shower	ST	ST
+338, 2	864, 14-14	HEC	sti	NSNT	NSNT
+338, 3	865, 1-3	HEC	a wedyn oedd	---	NSNT
+
+
+339, 1	866, 1-5	DAN	pam faset ti wedi dweud	NSNT	NSNT
+339, 2	866, 6-11	DAN	fydda i yna erbyn deg ta	---	NSNT
+
+
+340, 1	867, 1-12	HEC	*yeah* to'n i ddim yn meddwl fyswn i mor hwyr â hynna	---	NST
+
+
+341, 1	868, 1-7	DAN	*right* tro nesa ti deud erbyn wyth	NST	NST
+341, 2	868, 8-13	DAN	wna i ddisgwyl chdi tua deg	---	NSNT
+
+
+342, 1	870, 1-7	HEC	wedyn oedd *Graham* isio *lift* o *Langefni*	NST	NST
+342, 2	871, 1-3	HEC	wedyn wnaethon ni	---	NSNT
+
+
+343, 1	873, 1-7	DAN	sut oedd *Graham* wedi cyrraedd *Llangefni* felly	---	NST
+
+
+344, 1	874, 1-8	HEC	aeth ei fam o â fo i *Langefni*	NST	NST
+344, 2	875, 1-3	HEC	dw ddim gwybod	NSNT	NSNT
+344, 3	875, 4-9	HEC	lle oedd hi yn mynd chwaith	NSNT	NSNT
+344, 4	876, 1-9	HEC	be ti yn galw fo wedyn oedden ni am	---	NSNT
+
+
+345, 1	877, 1-4	DAN	mynd am jump ella	---	SNT
+
+
+346, 1	878, 1-3	HEC	oedda ni am	NSNT	NSNT
+346, 2	878, 4-10	HEC	oes yn *bloody* *Spar* yn malu cachu	NST	NST
+346, 3	879, 1-5	HEC	wedyn aethon ni am *Bargain_Booze*	---	NST
+
+
+347, 1	880, 1-3	DAN	efo yr hoodlums	---	SNT
+
+
+348, 1	881, 1-5	HEC	na dim_ond ni oedd yna	NSNT	NSNT
+348, 2	882, 1-12	HEC	wnaeth *Graham* fanejio brifo ei bidlan yn gollwng *bottle* ddŵr ar lawr	NST	NST
+348, 3	883, 1-4	HEC	wnaeth hi fownsio fyny	---	NSNT
+
+
+349, 1	884, 1-4	DAN	be ei bidlan o	---	NSNT
+
+
+350, 1	885, 1-15	HEC	wnaeth o ollwng *bottle* ddŵr ar lawr felly a *er* fath â plygu drosti felly	NST	NST
+350, 2	885, 16-23	HEC	a wnaeth hi fownsio fyny a hitio fo	NSNT	NSNT
+350, 4	887, 1-6	HEC	oedd o mewn poen go iawn	NSNT	NSNT
+350, 5	887, 7-7	HEC	sti	---	NSNT
+
+
+351, 1	888, 1-3	DAN	dim ond *Graham_Oliver*	---	NST
+
+
+352, 1	889, 1-7	HEC	o'n i feddwl bod o *right* funny	ST	ST
+352, 2	890, 1-7	HEC	ond oedd o yn flin efo fi	NSNT	NSNT
+352, 3	891, 1-6	HEC	na mae yn brifo go iawn	---	NSNT
+
+
+353, 1	893, 1-3	DAN	*oh* fucking hell	ST	NST
+353, 2	894, 1-11	DAN	dw i wedi mynd yn *right* disappointed yn y *Sun* yma	---	ST
+
+
+354, 1	895, 1-4	HEC	*oh* *rubbish* ydy o	---	NST
+
+
+355, 1	896, 1-6	DAN	dim ond un pâr o dethi	NSNT	NSNT
+355, 2	896, 7-10	DAN	oedd gynno fo heddiw	---	NSNT
+
+
+356, 1	899, 1-2	HEC	gen pwy	NSNT	NSNT
+356, 2	900, 1-2	HEC	*Jakki_Degg* yna	---	NST
+
+
+357, 1	901, 1-1	DAN	*Jakki*	---	NST
+
+
+358, 1	902, 1-2	HEC	*Jakki_Degg* ydy	---	NST
+
+
+359, 1	903, 1-2	DAN	*Jakki* dyke	---	NST
+
+
+360, 1	904, 1-1	HEC	*Degg*	---	NST
+
+
+361, 1	906, 1-2	DAN	pam *Degg*	---	NST
+
+
+362, 1	907, 1-5	HEC	ti ddim wedi clywed am	NSNT	NSNT
+362, 2	908, 1-1	HEC	dyna	NSNT	NSNT
+362, 3	908, 2-5	HEC	be ydy enw hi	---	NSNT
+
+
+363, 1	910, 1-5	DAN	dim fath â deg felly	NSNT	NSNT
+363, 2	911, 1-1	DAN	Arglwydd	---	NSNT
+
+
+364, 1	912, 1-7	HEC	I know my page three *models* *Daniel*	ST	NST
+364, 3	914, 1-13	HEC	ti gwybod be alla i roi enw i bob un ohonyn nhw *Daniel*	NST	NST
+364, 5	916, 1-4	HEC	dw i ddim yn	NSNT	NSNT
+364, 6	916, 5-5	HEC	jocio	NSNT	NSNT
+364, 7	916, 6-6	HEC	sti	---	NSNT
+
+
+365, 1	917, 1-1	DAN	Arglwydd	SNT	NSNT
+365, 3	919, 1-1	DAN	*Daily_Star*	ST	NST
+365, 4	921, 1-4	DAN	pwy ydy hwn dŵad	---	NSNT
+
+
+366, 1	922, 1-3	HEC	kids go *free*	---	NST
+
+
+367, 1	923, 1-4	DAN	fynd i weld *Garfield*	NST	NST
+367, 2	924, 1-3	DAN	ti wybod be	---	NSNT
+
+
+368, 1	925, 1-6	HEC	*oh* *yeah* mae hwnna allan rŵan	NST	NST
+368, 2	925, 7-8	HEC	yndy *Garfield_Two*	---	NST
+
+
+369, 1	926, 1-6	DAN	yndy a ti yn gwybod be	---	NSNT
+
+
+370, 1	927, 1-1	HEC	be	---	NSNT
+
+
+371, 1	928, 1-7	DAN	dydy o yn apelio dim ataf i	---	NSNT
+
+
+372, 1	930, 1-8	HEC	wnes i weld y cynta yn yr ysgol	NSNT	NSNT
+372, 3	932, 1-4	HEC	lle o'n i dŵad	NSNT	NSNT
+372, 4	933, 1-4	HEC	*Hirael* mae *sure* *yeah*	---	NST
+
+
+373, 1	935, 1-1	DAN	sbïa	SNT	NSNT
+373, 2	936, 1-5	DAN	kids go *free* to school	---	NST
+
+
+374, 1	937, 1-2	HEC	to school	---	NSNT
+
+
+375, 1	939, 1-5	DAN	kids go *free* to *zoos*	---	NST
+
+
+376, 1	941, 1-9	HEC	faswn i medru wneud efo *trip* i *zoo* hefyd	NST	NST
+376, 2	942, 1-2	HEC	fasai hwyl	NSNT	NSNT
+376, 3	942, 3-3	HEC	fasai	NSNT	NSNT
+376, 4	943, 1-6	HEC	ddim bod i *zoo* ers blynyddoedd	NST	NST
+376, 5	944, 1-7	HEC	pan o'n i hogyn bach mae *sure*	---	NST
+
+
+377, 1	945, 1-4	DAN	mae yna yn Bae_Colwyn	NSNT	NSNT
+377, 2	945, 5-5	DAN	does	---	NSNT
+
+
+378, 1	946, 1-5	HEC	*oh* un gwael ydy hwnna	NST	NST
+378, 2	948, 1-5	HEC	Gaer ti isio mynd de	---	NSNT
+
+
+379, 1	949, 1-2	DAN	*zoo* Gaer	---	NST
+
+
+380, 1	950, 1-5	HEC	ella a i wsnos nesa	---	NSNT
+
+
+381, 1	951, 1-6	DAN	ddo i efo chdi am *laugh*	---	NST
+
+
+382, 1	952, 1-7	HEC	os ydy *missus* yn dod draw i	---	NST
+
+
+383, 1	953, 1-6	DAN	*well* ddo i ddim efo chdi	NST	NST
+383, 2	953, 7-11	DAN	os ydy honno yn mynd	---	NSNT
+
+
+384, 1	955, 1-6	HEC	awn ni â *picnic* efo ni	NST	NST
+384, 2	956, 1-3	HEC	phecyn bwyd *Daniel*	---	NST
+
+
+385, 1	957, 1-4	DAN	honno casáu fi ydy	---	NSNT
+
+
+386, 1	958, 1-1	HEC	*missus*	ST	NST
+386, 2	960, 1-6	HEC	casáu fi fwy dw i meddwl	---	NSNT
+
+
+387, 1	961, 1-3	DAN	nac ydy tad	NSNT	NSNT
+387, 2	961, 4-7	DAN	mae yn mowntio chdi	NSNT	NSNT
+387, 3	961, 8-13	DAN	pan mae hi yn wlad yma	NSNT	NSNT
+387, 4	962, 1-4	DAN	mae *proper* *Catholic* schoolgirl	ST	ST
+387, 5	962, 5-9	DAN	pan mae hi wlad Iwerddon	NSNT	NSNT
+387, 6	962, 10-10	DAN	dydy	---	NSNT
+
+
+388, 1	963, 1-2	HEC	ydy gotsan	---	NSNT
+
+
+389, 1	965, 1-6	DAN	Iesu_Grist mae stafell yma yn anferth	NSNT	NSNT
+389, 2	966, 1-8	DAN	be mae nhw wneud yn fan yma felly	---	NSNT
+
+
+390, 1	967, 1-3	HEC	dw ddim gwybod	---	NSNT
+
+
+391, 1	968, 1-1	DAN	sbïa	NSNT	NSNT
+391, 2	968, 2-6	DAN	mae nhw wedi dwyn rhain	---	NSNT
+
+
+392, 1	969, 1-6	HEC	*seminars* a ballu faswn i meddwl	NST	NST
+392, 2	970, 1-8	HEC	ti ddim yn cael *lectures* yma nag wyt	---	NST
+
+
+393, 1	971, 1-6	DAN	hen geriach y *B_B_C* ydy hwnna	NST	NST
+393, 2	971, 7-7	DAN	yli	NSNT	NSNT
+393, 3	973, 1-6	DAN	dw i ddim yn gwybod nac	NSNT	NSNT
+393, 4	973, 7-7	DAN	ydw	NSNT	NSNT
+393, 5	974, 1-5	DAN	wedi dwyn nhw mae nhw	---	NSNT
+
+
+394, 1	975, 1-4	HEC	*thing* be ydy hwnna	NST	NST
+394, 2	976, 1-5	HEC	*thing* recordio ydyn nhw dŵad	---	NST
+
+
+395, 1	978, 1-3	DAN	*tape* to *tape*	NST	NST
+395, 2	979, 1-7	DAN	thirty sixty pa mil ydy o dŵad	NSNT	SNT
+395, 3	980, 1-3	DAN	dwn i ddim	NSNT	NSNT
+395, 4	981, 1-5	DAN	gawn ni weld rŵan *yeah*	ST	NST
+395, 5	982, 1-3	DAN	voice identification i_n_c	---	NSNT
+
+
+396, 1	984, 1-5	HEC	raid chdi gael un *Daniel*	---	NST
+
+
+397, 1	985, 1-4	DAN	*ah* i be de	NST	NST
+397, 3	987, 1-5	DAN	ti meddwl fasai hi yn	---	NSNT
+
+
+398, 1	988, 1-4	HEC	ti am fowntio fo	---	NSNT
+
+
+399, 1	989, 1-2	DAN	mowntio rywbeth	NSNT	NSNT
+399, 2	990, 1-6	DAN	ti meddwl fasen nhw pissed *off*	ST	ST
+399, 3	990, 7-14	DAN	petaswn i yn dechrau pwyso botymau fan yma	---	NSNT
+
+
+400, 1	991, 1-4	HEC	*well* faswn i feddwl	NST	NST
+400, 3	994, 1-5	HEC	faswn i ddim yn meddwl	NSNT	NSNT
+400, 4	994, 6-9	HEC	fasen nhw yn hapus	---	NSNT
+
+
+401, 1	995, 1-7	DAN	*er* *oh* *ah* ia wave modification yli	NST	ST
+401, 2	996, 1-11	DAN	Arglwydd mawr lle mae yr hogyn *Peredur* yma wedi mynd dŵad	NST	NST
+401, 4	998, 1-2	DAN	Arglwydd mawr	NSNT	NSNT
+401, 5	999, 1-8	DAN	*ah* *ooh* dw i isio cachiad yn munud	ST	NST
+401, 7	1001, 1-3	DAN	multi coloured *crap*	ST	NST
+401, 9	1003, 2-2	DAN	honna	---	NSNT
+
+
+402, 1	1004, 1-6	HEC	faint o ganiau gest ti neithiwr	NSNT	NSNT
+402, 2	1005, 1-5	HEC	wnest ti yfed dipyn felly	---	NSNT
+
+
+403, 1	1006, 1-4	DAN	*oh* ges i dri	NST	NST
+403, 2	1006, 5-7	DAN	dw i meddwl	---	NSNT
+
+
+404, 1	1007, 1-7	HEC	*oh* *yeah* oedd ddim yn bad felly	NST	ST
+404, 2	1008, 1-8	HEC	oedd gen ti ddim pen bore yma felly	---	NSNT
+
+
+405, 1	1009, 1-10	DAN	do'n i ddim yn teimlo fath â yfed erbyn diwedd	NSNT	NSNT
+405, 2	1010, 1-3	DAN	methu yfed timod	---	NSNT
+
+
+406, 1	1011, 1-4	HEC	cael gormod mae raid	---	NSNT
+
+
+407, 1	1012, 1-2	DAN	dw i	NSNT	NSNT
+407, 2	1012, 3-14	DAN	wedi bod yn yfed yn *right* drwm drost y few weeks dwytha	NST	ST
+407, 3	1013, 1-6	DAN	a wnaeth nos Sadwrn plastro fi	---	NSNT
+
+
+408, 1	1014, 1-2	HEC	ddeudais i	NSNT	NSNT
+408, 2	1014, 3-8	HEC	bod *Graham* wedi siarad efo chdi	---	NST
+
+
+409, 1	1015, 1-7	DAN	wnaeth o ddim siarad efo fi na	NSNT	NSNT
+409, 2	1016, 1-3	DAN	Duw *Graham_Oliver* achan	NST	NST
+409, 3	1017, 1-3	DAN	cerdded o yna	NSNT	NSNT
+409, 4	1018, 1-6	DAN	ti ddim yn galw hwnna yn	---	NSNT
+
+
+410, 1	1019, 1-7	HEC	mae raid bod chdi wedi cael ale	SNT	SNT
+410, 2	1019, 8-8	HEC	doedd	---	NSNT
+
+
+411, 1	1020, 1-8	DAN	neu bod fi *just* dim isio gweld *Graham*	---	NST
+
+
+412, 1	1021, 1-4	HEC	*yeah* mae hynna wir	NST	NST
+412, 2	1022, 1-9	HEC	oedd yn *grew* da yr *Aelwyd* allan neithiwr *Daniel*	---	NST
+
+
+413, 1	1023, 1-7	DAN	na fel yna mae o bob amser	NSNT	NSNT
+413, 2	1023, 8-8	DAN	sti	NSNT	NSNT
+413, 3	1024, 1-7	DAN	fi ydy instigator yr *er* fel arfer	---	ST
+
+
+414, 1	1027, 1-5	HEC	oedd *lot* allan nos Fawrth	NST	NST
+414, 2	1027, 6-6	HEC	does	NSNT	NSNT
+414, 3	1028, 1-8	HEC	yr un bobl sy allan bob nos Fawrth	NSNT	NSNT
+414, 4	1029, 1-5	HEC	*Phillip* a ei *fate* de	NST	NST
+414, 5	1030, 1-2	HEC	timod *Phillip*	NST	NST
+414, 6	1030, 3-5	HEC	sy chwarae *rugby*	NST	NST
+414, 7	1031, 1-6	HEC	mae o allan bob nos Fawrth	NSNT	NSNT
+414, 8	1032, 1-2	HEC	mae *Dorian*	NST	NST
+414, 9	1032, 3-5	HEC	timod brawd *Roy_Boded*	NST	NST
+414, 10	1034, 1-8	HEC	mae *Dorian* allan bob nos Fawrth am *bint*	NST	NST
+414, 11	1035, 1-4	HEC	oedd yn *Foundry* neithiwr	---	NST
+
+
+415, 1	1037, 1-2	DAN	wasters felly	---	SNT
+
+
+416, 1	1038, 1-2	HEC	*mmm* braidd	---	NST
+
+
+417, 1	1039, 1-1	DAN	druggies	---	NSNT
+
+
+418, 1	1041, 1-5	HEC	o'n i nabod ambell un	NSNT	NSNT
+418, 2	1042, 1-2	HEC	dw i	NSNT	NSNT
+418, 3	1042, 3-10	HEC	wedi bod yn gweithio yn *Chooks* ambell un	---	NST
+
+
+419, 1	1044, 1-13	DAN	dw i ddim wedi gweld y peth *Isaac_Hopton* yna ar sgwâr ers_talwm chwaith	---	NST
+
+
+420, 1	1045, 1-6	HEC	*oh* mi oedd o allan neithiwr	NST	NST
+420, 2	1045, 7-7	HEC	doedd	NSNT	NSNT
+420, 3	1047, 1-2	HEC	oedd hongian	NSNT	NSNT

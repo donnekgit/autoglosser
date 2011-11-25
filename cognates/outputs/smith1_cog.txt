@@ -1,0 +1,1569 @@
+
+
+1, 1	1, 1-5	CEI	dw i ddim isio paned	NSNT	NSNT
+1, 2	2, 1-5	CEI	mae ry boeth cael paned	---	NSNT
+
+
+2, 1	3, 1-5	DEW	*well* *er* be ydy rhein	NST	NST
+2, 2	3, 6-6	DEW	ta	SNT	NSNT
+2, 3	4, 1-2	DEW	*Bangor* *yeah*	ST	NST
+2, 4	6, 1-4	DEW	*so* you *Bangor* are	NST	NST
+2, 5	6, 5-6	DEW	you university	NSNT	NSNT
+2, 6	8, 1-4	DEW	thank you *very* much	---	NST
+
+
+3, 1	9, 1-1	RES	diolch	---	NSNT
+
+
+4, 1	10, 1-2	CEI	thanks diolch	---	SNT
+
+
+5, 1	12, 1-4	DEW	faint sy wedi mynd	NSNT	NSNT
+5, 2	13, 1-2	DEW	ryw funud	---	NSNT
+
+
+6, 1	14, 1-3	CEI	Saesneg ydy o	NSNT	NSNT
+6, 2	14, 4-4	CEI	sti	---	NSNT
+
+
+7, 1	16, 1-4	DEW	*ah* paned dda *yeah*	NST	NST
+7, 2	18, 1-2	DEW	hyll yndy	NSNT	NSNT
+7, 3	20, 1-6	DEW	mae yn gwrando be ti ddeud	NSNT	NSNT
+7, 4	20, 7-7	DEW	sti	---	NSNT
+
+
+8, 1	21, 1-3	CEI	dw i gwybod	NSNT	NSNT
+8, 3	23, 1-7	CEI	faint o faint sy wedi mynd wan	---	NSNT
+
+
+9, 1	24, 1-1	DEW	faint	---	NSNT
+
+
+10, 1	25, 1-2	CEI	pum munud	---	NSNT
+
+
+11, 1	26, 1-7	DEW	*oh* dydy o ddim yn bad na	NST	ST
+11, 3	29, 1-6	DEW	dan ni dal isio siarad am	---	NSNT
+
+
+12, 1	30, 1-4	CEI	oes dau_deg_pum munud arall	---	NSNT
+
+
+13, 1	31, 1-6	DEW	mae yn gaddo glaw pnawn yma	---	NSNT
+
+
+14, 1	32, 1-4	CEI	gobeithio wneith hi ddim	---	NSNT
+
+
+15, 1	33, 1-6	DEW	faint o gloch fyddan ni adre	---	NSNT
+
+
+16, 1	34, 1-4	CEI	awn ni tua ryw	---	NSNT
+
+
+17, 1	35, 1-3	DEW	hanner wedi tri	---	NSNT
+
+
+18, 1	36, 1-5	CEI	os wnawn ni bara hynna	NSNT	NSNT
+18, 2	37, 1-4	CEI	tua pump awr arall	---	NSNT
+
+
+19, 1	38, 1-3	DEW	wedi blino *yeah*	ST	NST
+19, 2	39, 1-1	DEW	*so*	---	NST
+
+
+20, 1	40, 1-8	CEI	dw i wedi gael *top* Cymru a *mam*	NST	NST
+20, 2	41, 1-8	CEI	a dw i wedi gael *top* i *Harri*	NST	NST
+20, 3	41, 9-14	CEI	sy deud babi nain arno fo	---	NSNT
+
+
+21, 1	42, 1-9	DEW	*oh* dw i meddwl na gyrru pethau i chdi	NST	NST
+21, 2	42, 10-11	DEW	mae nhw	NSNT	NSNT
+21, 3	43, 1-1	DEW	sbïa	NSNT	NSNT
+21, 4	43, 2-5	DEW	be sy fan yna	---	NSNT
+
+
+22, 1	46, 1-4	CEI	*oh* *yeah* mae *sure*	---	NST
+
+
+23, 1	47, 1-4	DEW	baswn i ddeud *yeah*	---	NST
+
+
+24, 1	48, 1-7	CEI	basai *nice* cael o heddiw gwario fo	---	NST
+
+
+25, 1	49, 1-1	DEW	*so*	ST	NST
+25, 2	50, 1-1	DEW	bysai	NSNT	NSNT
+25, 3	51, 1-9	DEW	*so* wnaeth o ddim sôn dim_byd fel yna na	NST	NST
+25, 4	52, 1-7	DEW	ella gei di ddim_byd yn diwedd *yeah*	NST	NST
+25, 5	55, 1-8	DEW	ella na trio hi ar mae nhw *yeah*	---	NST
+
+
+26, 1	57, 1-4	CEI	dw ddim yn gwybod	NSNT	NSNT
+26, 2	58, 1-2	CEI	mae *sure*	NST	NST
+26, 3	58, 3-3	CEI	bod	NSNT	NSNT
+26, 4	58, 4-5	CEI	mae *sure*	NST	NST
+26, 5	58, 6-9	CEI	bod nhw deud gwir	---	NSNT
+
+
+27, 1	59, 2-7	DEW	basai fyw i fo ddeud celwyddau	NSNT	NSNT
+27, 2	59, 8-8	DEW	bysai	---	NSNT
+
+
+28, 1	62, 1-7	CEI	mynedd gynno fod yma trwy dydd hefyd	NSNT	NSNT
+28, 2	63, 1-7	CEI	faint ydy o i gadw *tent* yma	---	NST
+
+
+29, 1	64, 1-3	DEW	ddim yn gwybod	---	NSNT
+
+
+30, 1	65, 1-7	CEI	mae yn tua five hundred a day	---	SNT
+
+
+31, 1	66, 1-2	DEW	ddim gwybod	NSNT	NSNT
+31, 2	67, 1-6	DEW	dibynnu efo pethau fel yma ydy	NSNT	NSNT
+31, 3	68, 1-5	DEW	mae nhw yn gael grantiau	NSNT	NSNT
+31, 4	70, 1-13	DEW	ella bod nhw yn gorod gadael pethau fel yma yma am ddim *yeah*	NST	NST
+31, 5	72, 1-6	DEW	pethau dysgu pobl Gymraeg ydy o	NSNT	NSNT
+31, 6	72, 7-9	DEW	mae *sure* *yeah*	---	NST
+
+
+32, 1	74, 1-8	CEI	dw ddim isio mynd i coleg *Bangor* chwaith	NST	NST
+32, 2	75, 1-3	CEI	mae ry agos	---	NSNT
+
+
+33, 1	76, 1-2	DEW	bydd rhatach	NSNT	NSNT
+33, 2	77, 1-5	DEW	gei di fyw adre wedyn	---	NSNT
+
+
+34, 1	78, 1-2	CEI	dim ots	NSNT	NSNT
+34, 2	79, 1-5	CEI	dw ddim isio byw adre	NSNT	NSNT
+34, 3	79, 6-7	CEI	nag oes	---	NSNT
+
+
+35, 1	80, 1-7	DEW	ti definitely isio mynd i coleg felly	---	SNT
+
+
+36, 1	81, 1-1	CEI	yndw	NSNT	NSNT
+36, 2	82, 1-6	CEI	a i i peth yna gynta	---	NSNT
+
+
+37, 1	83, 1-5	DEW	raid chdi basio arholiad gynta	---	NSNT
+
+
+38, 1	84, 1-3	CEI	a i sixth_form	SNT	SNT
+38, 2	85, 1-4	CEI	wedyn a i university	---	SNT
+
+
+39, 1	86, 1-4	DEW	chdi basio *exams* felly	---	NST
+
+
+40, 1	87, 1-7	CEI	dw gael marciau da ar y funud	NSNT	NSNT
+40, 2	87, 8-8	CEI	yndw	---	NSNT
+
+
+41, 1	88, 1-6	DEW	gest ti farciau da flwyddyn yma	NSNT	NSNT
+41, 2	90, 1-5	DEW	be oedd y gorau ti	---	NSNT
+
+
+42, 1	91, 1-1	CEI	*eh*	---	NST
+
+
+43, 1	92, 1-4	DEW	be oedd un gorau	NSNT	NSNT
+43, 2	92, 5-6	DEW	gest ti	---	NSNT
+
+
+44, 1	93, 1-5	CEI	*um* *level* saith yn gwyddoniaeth	---	NST
+
+
+45, 1	94, 1-5	DEW	be gest ti efo cerdd	---	NSNT
+
+
+46, 1	95, 1-3	CEI	cerdd *level* chwech	---	NST
+
+
+47, 1	96, 1-4	DEW	ydy saith yn dda	---	NSNT
+
+
+48, 1	97, 1-3	CEI	saith ydy gorau	NSNT	NSNT
+48, 2	97, 4-6	CEI	fedra chdi gael	---	NSNT
+
+
+49, 1	98, 1-4	DEW	a be ydy hwnna	NSNT	NSNT
+49, 2	98, 5-5	DEW	ta	---	NSNT
+
+
+50, 1	99, 1-4	CEI	fath â a *yeah*	---	NST
+
+
+51, 1	100, 1-4	DEW	*yeah* na pa subject	---	ST
+
+
+52, 1	101, 1-1	CEI	*science*	---	NST
+
+
+53, 1	103, 1-3	DEW	ti licio hwnna	NSNT	NSNT
+53, 2	104, 1-1	DEW	basai	NSNT	NSNT
+53, 3	104, 2-6	DEW	honna *job* dda i chdi	---	NST
+
+
+54, 1	105, 1-4	CEI	mae yn hawdd though	---	SNT
+
+
+55, 1	107, 1-12	DEW	mae nhw crefu am *er* bobl i wneud hynna i ddysgu yna	---	NST
+
+
+56, 1	108, 1-8	CEI	ia ond baswn i ddim yn licio dysgu	NSNT	NSNT
+56, 2	108, 9-13	CEI	am bod gwaith mor hawdd	NSNT	NSNT
+56, 3	108, 14-15	CEI	ydy o	---	NSNT
+
+
+57, 1	110, 1-2	DEW	dyna fo	---	NSNT
+
+
+58, 1	111, 1-5	CEI	dechrau bwrw mewn dau funud	---	NSNT
+
+
+59, 1	112, 1-2	DEW	na wneith	NSNT	NSNT
+59, 2	113, 1-6	DEW	amser te mae yn gaddo glaw	NSNT	NSNT
+59, 3	114, 1-8	DEW	basai taid wedi dod i fan yma hefyd	NSNT	NSNT
+59, 4	114, 9-9	DEW	bysai	---	NSNT
+
+
+60, 1	115, 1-3	CEI	ddim yn gwybod	---	NSNT
+
+
+61, 1	116, 1-7	DEW	*bet* basai hwnna siarad am oriau hwnna	NST	NST
+61, 2	116, 8-8	DEW	bysai	---	NSNT
+
+
+62, 1	117, 1-2	CEI	deud *jokes*	---	NST
+
+
+63, 1	119, 1-1	DEW	bysai	---	NSNT
+
+
+64, 1	120, 1-5	CEI	lle mae yr *tent* *Mona*	NST	NST
+64, 2	121, 1-17	CEI	ti gwybod yr *tent* sydd efo fath â fath â craig wrth ochr o wrth ochr *entrance*	---	NST
+
+
+65, 1	123, 1-3	DEW	mae yna be	---	NSNT
+
+
+66, 1	124, 1-8	CEI	efo wal fath â bach wrth ochr *entrance*	NST	NST
+66, 2	125, 1-6	CEI	fan yna oedd yr bob_dim ers_talwm	---	NSNT
+
+
+67, 1	128, 1-10	DEW	mae yn braf gael sit down am hanner awr anyway	SNT	SNT
+67, 2	130, 1-2	DEW	*break* bach	NST	NST
+67, 3	132, 1-8	DEW	waeth i ni fan yma ddim na waeth	---	NSNT
+
+
+68, 1	133, 1-2	CEI	wedi blino	---	NSNT
+
+
+69, 1	134, 1-11	DEW	awn ni *round* at y at y ring wedyn i weld	NST	ST
+69, 2	134, 12-19	DEW	be sy mynd ymlaen yn fan yna *yeah*	---	NST
+
+
+70, 1	136, 1-3	CEI	hwnna ydy o	---	NSNT
+
+
+71, 1	137, 1-1	DEW	*eh*	---	NST
+
+
+72, 1	138, 1-5	CEI	hwnna fan yna ydy o	---	NSNT
+
+
+73, 1	139, 1-13	DEW	naci y cae i weld be sy mynd ymlaen yn y cae *yeah*	---	NST
+
+
+74, 1	140, 1-3	CEI	*oh* fan yna	---	NST
+
+
+75, 1	142, 1-4	DEW	rywbeth i fwyta *yeah*	NST	NST
+75, 2	143, 1-4	DEW	tynnu am *well* un_ar_ddeg	NST	NST
+75, 4	145, 1-4	DEW	be ti am gael	NSNT	NSNT
+75, 5	146, 1-3	DEW	*chips* neu rywbeth	---	NST
+
+
+76, 1	148, 1-6	CEI	mae yn twenty_five past ten wan	---	SNT
+
+
+77, 1	150, 1-4	DEW	ugain munud arall felly	NSNT	NSNT
+77, 3	152, 1-6	DEW	chwarter wedi wnaeth o ddechrau *yeah*	---	NST
+
+
+78, 1	153, 1-4	CEI	dydy o ddim bad	SNT	SNT
+78, 2	153, 5-6	CEI	nag ydy	---	NSNT
+
+
+79, 1	154, 1-4	DEW	na yn iawn yndy	NSNT	NSNT
+79, 2	155, 1-4	DEW	watsia di falu hwnna	NSNT	NSNT
+79, 3	157, 1-5	DEW	diolch yn fawr do lovely	SNT	SNT
+79, 5	159, 1-6	DEW	wneith o wraig da i rywun	SNT	NSNT
+79, 6	160, 1-1	DEW	*eh*	---	NST
+
+
+80, 1	161, 1-1	CEI	taw	---	NSNT
+
+
+81, 1	164, 1-5	DEW	rhaid ni fynd i Builth	SNT	SNT
+81, 2	165, 1-7	DEW	rhaid ni fynd i Builth ryw dro	---	SNT
+
+
+82, 1	166, 1-3	CEI	lle ydy hwnna	---	NSNT
+
+
+83, 1	167, 1-2	DEW	mid Wales	SNT	NSNT
+83, 2	168, 1-9	DEW	mae yna sioe fel yma *yeah* pedwar diwrnod *yeah*	---	NST
+
+
+84, 1	170, 1-4	CEI	*yeah* ddim yn gwybod	---	NST
+
+
+85, 1	172, 1-12	DEW	gobeithio bod o ddim yn mynd ar allan ar y *wireless* *yeah*	---	NST
+
+
+86, 1	173, 1-4	CEI	basai fo ddim mynd	NSNT	NSNT
+86, 3	175, 1-4	CEI	gei di ddim de	NSNT	NSNT
+86, 4	176, 1-6	CEI	os mae o riportiwn ni nhw	NSNT	NSNT
+86, 5	178, 1-1	CEI	yndw	NSNT	NSNT
+86, 6	178, 2-4	CEI	dw i yn	---	NSNT
+
+
+87, 1	179, 1-6	DEW	wneith o ddim *sure* heb caniatâd	---	NST
+
+
+88, 1	180, 1-7	CEI	pam ti siarad Cymraeg *posh* wan *dad*	NST	NST
+88, 2	181, 1-7	CEI	dim fel yna ti siarad fel arfer	---	NSNT
+
+
+89, 1	183, 1-3	DEW	chdi biau hwnna	NSNT	NSNT
+89, 3	185, 1-5	DEW	rywbeth i ddarllen yma dŵad	NSNT	NSNT
+89, 5	187, 1-7	DEW	pwy ti cefnogi yn bêl_droed flwyddyn yma	---	NSNT
+
+
+90, 1	188, 1-5	CEI	syportio ti deud fel arfer	NSNT	NSNT
+90, 2	190, 1-6	CEI	paid â siarad Cymraeg *posh* *just*	NST	NST
+90, 3	190, 7-13	CEI	am bod ti yn wneud hyn wan	---	NSNT
+
+
+91, 1	192, 1-6	DEW	be ti meddwl ella i ddim	NSNT	NSNT
+91, 2	193, 1-8	DEW	ella i siarad o well na chdi *boy*	---	NST
+
+
+92, 1	194, 1-10	CEI	ia ond ti ddim isio siarad fel yna nag oes	NSNT	NSNT
+92, 3	196, 1-9	CEI	ti isio siarad fath â ti siarad fel arfer	---	NSNT
+
+
+93, 1	197, 1-7	DEW	*so* pwy ti am gefnogi felly *eh*	---	NST
+
+
+94, 1	198, 1-9	CEI	wna i ateb chdi pan ti siarad yn iawn	---	NSNT
+
+
+95, 1	199, 1-7	DEW	pwy ti mynd i syportio flwyddyn yma	---	NSNT
+
+
+96, 1	200, 1-1	CEI	*Man_U*	---	NST
+
+
+97, 1	201, 1-1	DEW	*Man_U*	ST	NST
+97, 2	202, 1-7	DEW	o'n i meddwl Lerpwl oedda chdi syportio	---	NSNT
+
+
+98, 1	203, 1-6	CEI	*yeah* dw i syportio yr ddau	---	NST
+
+
+99, 1	204, 1-4	DEW	un gei di pigo	NSNT	NSNT
+99, 2	205, 1-2	DEW	pa un	---	NSNT
+
+
+100, 1	206, 1-1	CEI	Liverpool	---	NSNT
+
+
+101, 1	207, 1-1	DEW	*eh*	---	NST
+
+
+102, 1	208, 1-1	CEI	Liverpool	---	NSNT
+
+
+103, 1	209, 1-5	DEW	pwy ydy chwaraewr gorau chdi	---	NSNT
+
+
+104, 1	210, 1-3	CEI	ddim yn gwybod	---	NSNT
+
+
+105, 1	211, 1-8	DEW	ti ddim gwybod pwy sy chwarae i Lerpwl	SNT	SNT
+105, 2	211, 9-10	DEW	nag wyt	---	NSNT
+
+
+106, 1	212, 1-5	CEI	*yeah* well gyn i *rugby*	---	NST
+
+
+107, 1	213, 1-2	DEW	*Bellamy* *yeah*	ST	NST
+107, 2	214, 1-4	DEW	mae o yn Gymro	---	NSNT
+
+
+108, 1	215, 1-1	CEI	*Gerrard*	---	NST
+
+
+109, 1	216, 1-1	DEW	*eh*	---	NST
+
+
+110, 1	217, 1-1	CEI	*Gerrard*	---	NST
+
+
+111, 1	218, 1-4	DEW	mae o dda hefyd	NSNT	NSNT
+111, 2	219, 1-4	DEW	oedd o chwarae neithiwr	NSNT	NSNT
+111, 3	220, 1-3	DEW	Cymru droeo neithiwr	---	NSNT
+
+
+112, 1	221, 1-3	CEI	efo *Bulgaria* *yeah*	---	NST
+
+
+113, 1	223, 1-5	DEW	*team* da yn *Bulgaria* sti	NST	NST
+113, 4	226, 1-9	DEW	i *Bulgaria* ti isio mynd ar dy wyliau *yeah*	NST	NST
+113, 5	227, 1-3	DEW	be sy *matter*	NST	NST
+113, 6	228, 1-1	DEW	yndach	NSNT	NSNT
+113, 7	229, 1-5	DEW	dw i ddim yn gwybod	NSNT	NSNT
+113, 8	230, 1-8	DEW	isio ni siarad am hanner awr mae o	NSNT	NSNT
+113, 9	231, 1-7	DEW	yr un fath â chi fan yna	NSNT	NSNT
+113, 10	232, 1-5	DEW	ydy o wahanol i chi	NSNT	NSNT
+113, 11	235, 1-6	DEW	mae wedi gofyn i ni siarad	---	NSNT
+
+
+114, 1	237, 1-2	CEI	*oh* *sorry*	---	NST
+
+
+115, 1	239, 1-5	DEW	we on a *break* now	NST	NST
+115, 3	241, 1-4	DEW	are we going *well*	---	NST
+
+
+116, 1	242, 1-1	RES	dunno	---	NSNT
+
+
+117, 1	243, 1-2	DEW	are we	---	NSNT
+
+
+118, 1	244, 1-6	CEI	dim isio siarad mae o *yeah*	---	NST
+
+
+119, 1	245, 1-8	DEW	do we get paid today or send it	---	NSNT
+
+
+120, 1	246, 1-2	RES	no cash	---	NSNT
+
+
+121, 1	247, 1-2	DEW	that's good	NSNT	NSNT
+121, 2	248, 1-7	DEW	we'll send some more people here after	SNT	NSNT
+121, 4	250, 1-4	DEW	ie *oh* iawn felly	---	NST
+
+
+122, 1	251, 1-4	CEI	iawn fel yna ydy	---	NSNT
+
+
+123, 1	253, 1-2	DEW	gael paned	---	NSNT
+
+
+124, 1	254, 1-8	CEI	doedd o ddim isio siarad efo ni wan	NSNT	NSNT
+124, 2	254, 9-10	CEI	nag oedd	NSNT	NSNT
+124, 3	256, 1-4	CEI	*Gary* ydy enw fo	NST	NST
+124, 4	257, 1-4	CEI	*Gary* iawn dw cofio	NST	NST
+124, 5	259, 1-4	CEI	breibio ni efo pres	---	NSNT
+
+
+125, 1	260, 1-6	DEW	*so* be ti yn wneud *Will*	NST	NST
+125, 2	261, 1-5	DEW	*Will* ydy enw chdi *yeah*	---	NST
+
+
+126, 1	262, 1-4	CEI	na *Ceiriog* *oh* God	---	ST
+
+
+127, 1	264, 1-4	DEW	*Dafydd* ydy enw fi	NST	NST
+127, 2	265, 1-3	DEW	sut dach chi	---	NSNT
+
+
+128, 1	266, 1-1	CEI	*Seiriol*	ST	NST
+128, 2	267, 1-13	CEI	*Seiriol* o fire_brigade *Caernarfon* trio sgorio ticedi am ddim heddiw i ddod yma	---	ST
+
+
+129, 1	268, 1-2	DEW	*stupid* dydy	---	NST
+
+
+130, 1	269, 1-3	CEI	*so* wnest ti	---	NST
+
+
+131, 1	270, 1-1	DEW	mwydro	NSNT	NSNT
+131, 3	272, 1-7	DEW	*oh* basai taid wrth ei fodd yma	NST	NST
+131, 4	273, 1-4	DEW	basai hwnna siarad am	NSNT	NSNT
+131, 5	274, 1-8	DEW	basai hwnna ddim cau geg am dau ddiwrnod	---	NSNT
+
+
+132, 1	275, 1-3	CEI	mae ddistaw yma	NSNT	NSNT
+132, 2	275, 4-5	CEI	yndy heddiw	---	NSNT
+
+
+133, 1	276, 1-1	DEW	*eh*	---	NST
+
+
+134, 1	277, 1-4	CEI	mae ddistaw yma heddiw	---	NSNT
+
+
+135, 1	279, 1-6	DEW	be dan ni am wneud fory	---	NSNT
+
+
+136, 1	280, 1-4	CEI	ti yn gweithio yn_dwyt	---	NSNT
+
+
+137, 1	281, 1-5	DEW	ia fedra i wneud rywbeth	NSNT	NSNT
+137, 2	281, 6-6	DEW	fedra	---	NSNT
+
+
+138, 1	282, 1-4	CEI	sut os ti gweithio	---	NSNT
+
+
+139, 1	283, 1-10	DEW	raid chdi ffonio *mam* wedyn i weld os ydy iawn	---	NST
+
+
+140, 1	284, 1-1	CEI	pam	---	NSNT
+
+
+141, 1	285, 1-2	DEW	dw isio	NSNT	NSNT
+141, 2	285, 3-6	DEW	dw isio wneud pwmp	NSNT	NSNT
+141, 3	287, 1-2	DEW	isio wneud	NSNT	NSNT
+141, 4	289, 1-4	DEW	yn y *mic* ia	NST	NST
+141, 5	290, 1-7	DEW	be ti mynd i gael i ginio	---	NSNT
+
+
+142, 1	291, 1-5	CEI	be ti yn brynu fi	---	NSNT
+
+
+143, 1	292, 1-3	DEW	be ti isio	---	NSNT
+
+
+144, 1	293, 1-4	CEI	*chips* a *burger* bap	---	ST
+
+
+145, 1	294, 1-5	DEW	dw i ddim yn prynu	NSNT	NSNT
+145, 2	295, 1-4	DEW	gei di brynu o	NSNT	NSNT
+145, 3	296, 1-8	DEW	wnes i gynnig dod â bwyd efo chdi	NSNT	NSNT
+145, 5	298, 1-3	DEW	gynna fi fwyd	NSNT	NSNT
+145, 6	299, 1-6	DEW	mae yna *roll* a bob_dim yna	---	NST
+
+
+146, 1	300, 1-5	CEI	ga i *coffee* bach wedyn	ST	NST
+146, 2	301, 1-1	CEI	*coffee*	---	NST
+
+
+147, 1	304, 1-4	DEW	ti isio un rŵan	---	NSNT
+
+
+148, 1	305, 1-7	CEI	na dw i ddim isio fo wan	---	NSNT
+
+
+149, 1	306, 1-7	DEW	gei di un wan os ti isio	---	NSNT
+
+
+150, 1	307, 1-3	CEI	dw ddim isio	---	NSNT
+
+
+151, 1	308, 1-7	DEW	gawn ni yn y lle nesa *yeah*	ST	NST
+151, 2	309, 1-1	DEW	*eh*	ST	NST
+151, 3	311, 1-4	DEW	mae *lot* yn gweithio	---	NST
+
+
+152, 1	312, 1-5	CEI	dan ni wneud yn dda	NSNT	NSNT
+152, 2	312, 6-6	CEI	ydan	NSNT	NSNT
+152, 3	314, 1-5	CEI	chwarter awr arall i fynd	---	NSNT
+
+
+153, 1	315, 1-6	DEW	mae *lot* yn gweithio yma hefyd	NST	NST
+153, 3	317, 1-2	DEW	pawb siarad	NSNT	NSNT
+153, 4	318, 1-3	DEW	mae nhw *shy*	---	NST
+
+
+154, 1	319, 1-6	CEI	pam ti fan yna mae *microphone*	---	NST
+
+
+155, 1	321, 1-3	DEW	dw i gwybod	NSNT	NSNT
+155, 3	323, 1-3	DEW	*antenna* ydy hwnna	ST	NST
+155, 4	324, 1-1	DEW	*aerial*	---	NST
+
+
+156, 1	325, 1-8	CEI	ti erioed wedi gael rhein o blaen naddo	---	NSNT
+
+
+157, 1	326, 1-5	DEW	rhein mae nhw yn iwsio	---	NSNT
+
+
+158, 1	327, 1-8	CEI	o'n i gael rhein yn *Uned_pump* bob tro	NST	NST
+158, 2	329, 1-4	CEI	oedd rheina clust chdi	NSNT	NSNT
+158, 3	331, 1-5	CEI	genna chdi fath â clywed	NSNT	NSNT
+158, 4	331, 6-11	CEI	be mae pobl *er* directors deud	NST	ST
+158, 5	332, 1-6	CEI	gen fi un o rheina hefyd	---	NSNT
+
+
+159, 1	333, 1-7	DEW	oedda chdi wneud *lot* ar *Uned_pump* oeddachd	NST	NST
+159, 2	334, 1-10	DEW	oedda chdi yna bob tair wsnos o blaen coginio oeddachd	---	NSNT
+
+
+160, 1	335, 1-1	CEI	o'n	---	NSNT
+
+
+161, 1	336, 1-9	DEW	ti ddim wedi gael *phone* call gynno nhw ers_talwm	---	ST
+
+
+162, 1	337, 1-1	CEI	naddo	---	NSNT
+
+
+163, 1	338, 1-7	DEW	ti mynd ry hen wan mae *sure*	NST	NST
+163, 2	339, 1-7	DEW	does yna ddim rhaglen arall i chdi	NSNT	NSNT
+163, 3	339, 8-9	DEW	nag oes	---	NSNT
+
+
+164, 1	341, 1-6	CEI	wnes i ennill *holiday* o blaen	NST	NST
+164, 2	341, 7-9	CEI	do ar *um*	---	NST
+
+
+165, 1	343, 1-2	DEW	a *toys*	---	NST
+
+
+166, 1	344, 3-3	CEI	ennill	NSNT	NSNT
+166, 2	344, 4-4	CEI	werth	---	NSNT
+
+
+167, 1	345, 1-3	DEW	mil o bunnau	---	NSNT
+
+
+168, 1	346, 1-3	CEI	chwech cant *yeah*	NST	NST
+168, 2	348, 1-7	CEI	doedd o ddim yn mil o bunnau	NSNT	NSNT
+168, 3	349, 1-5	CEI	o degannau ar Christmas eve	---	SNT
+
+
+169, 1	350, 1-9	DEW	oedd taid ar *er* *Uned_pump* *er* *Rownd_a_Rownd* *oh* *Dipyn_o_Stad*	---	NST
+
+
+170, 1	351, 1-5	CEI	*er* *Tipyn_o_Stad* diwrnod o_blaen oedd	---	NST
+
+
+171, 1	352, 1-4	DEW	ac wsnos yma hefyd	---	NSNT
+
+
+172, 1	353, 1-2	CEI	dw gwybod	---	NSNT
+
+
+173, 1	355, 1-6	DEW	oedd o yn *glear* wsnos yma	NST	NST
+173, 2	357, 1-8	DEW	o'n i yn eistedd tu ôl iddo fo	NSNT	NSNT
+173, 3	358, 1-5	DEW	chi ddim yn gweld fi	---	NSNT
+
+
+174, 1	359, 1-3	CEI	diolch i Dduw	---	NSNT
+
+
+175, 1	360, 1-1	DEW	*eh*	---	NST
+
+
+176, 1	361, 1-3	CEI	Diolch i Dduw	NSNT	NSNT
+176, 2	363, 1-4	CEI	rywun yn gweld chdi	---	NSNT
+
+
+177, 1	364, 1-7	DEW	*caravan* basai *nice* i fynd ar wyliau	NST	NST
+177, 2	366, 1-3	DEW	mae hynna *nice*	NST	NST
+177, 3	367, 1-8	DEW	basen ni gallu mynd i aros i *garavan*	NST	NST
+177, 4	367, 9-9	DEW	basai	---	NSNT
+
+
+178, 1	368, 1-1	CEI	bysen	---	NSNT
+
+
+179, 1	369, 1-7	DEW	lawr i Tenby neu rywbeth fel yna	NSNT	SNT
+179, 2	370, 1-6	DEW	pwy sy am ennill *Big_Brother* felly	---	NST
+
+
+180, 1	371, 1-3	CEI	*Glyn* to win	---	NST
+
+
+181, 1	372, 1-3	DEW	*Glyn* to win	ST	NST
+181, 2	374, 1-2	DEW	ti meddwl	NSNT	NSNT
+181, 3	375, 1-5	DEW	dw i meddwl na *Pete*	NST	NST
+181, 4	375, 6-7	DEW	wneith ennill	---	NSNT
+
+
+182, 1	376, 1-16	CEI	ia ond ers i *Nikki* dod i_mewn mae *Pete* yn gael llai a llai o *votes*	---	NST
+
+
+183, 1	377, 1-6	DEW	*oh* dw i meddwl na *Pete*	NST	NST
+183, 2	377, 7-9	DEW	am bod *um*	NST	NST
+183, 3	377, 10-16	DEW	mae wedi salwch gynno fo *Tourettes* yna	NST	NST
+183, 4	378, 1-9	DEW	mae o wedi dod â fo i yr golwg	NSNT	NSNT
+183, 5	379, 1-5	DEW	a mae bechod drosto fo	---	NSNT
+
+
+184, 1	381, 1-3	CEI	*oh* *yeah* ond	---	NST
+
+
+185, 1	382, 1-5	DEW	ella geith o *help* wan	---	NST
+
+
+186, 1	383, 1-14	CEI	efo peth yna *Nikki* mae yna llai a llai o bobl licio fo wan	---	NST
+
+
+187, 1	384, 1-5	DEW	*oh* dw i gwybod hynna	NST	NST
+187, 2	385, 1-5	DEW	dydy o ddim yn deg	NSNT	NSNT
+187, 3	385, 6-12	DEW	bod hi wedi gael dod yn_ôl i_mewn	NSNT	NSNT
+187, 4	385, 13-21	DEW	pan mae rywun wedi hel hi o yna chwaith	NSNT	NSNT
+187, 5	385, 22-23	DEW	nag ydy	---	NSNT
+
+
+188, 1	386, 1-7	CEI	*oh* *yeah* ond mae yn *cool* though	ST	ST
+188, 2	387, 1-3	CEI	mae yn *cool*	NST	NST
+188, 3	387, 4-4	CEI	bod	NSNT	NSNT
+188, 4	387, 5-8	CEI	mae nôl i_mewn though	---	SNT
+
+
+189, 1	389, 1-1	DEW	be	---	NSNT
+
+
+190, 1	390, 1-3	CEI	mae yn *cool*	NST	NST
+190, 2	390, 4-4	CEI	bod	NSNT	NSNT
+190, 3	390, 5-7	CEI	mae nôl i_mewn	---	NSNT
+
+
+191, 1	392, 1-2	DEW	mae dda	NSNT	NSNT
+191, 2	392, 3-8	DEW	bod bobl yn dysgu yr iaith	NSNT	NSNT
+191, 3	392, 9-10	DEW	yndy *eh*	NST	NST
+191, 5	394, 1-4	DEW	be sy gael fi	NSNT	NSNT
+191, 6	394, 5-12	DEW	ydy *er* newyddion *um* Cymraeg y de *yeah*	NST	NST
+191, 7	396, 1-5	DEW	mae yn anodd weithiau dallt	---	NSNT
+
+
+192, 1	397, 1-8	CEI	pam ti yn trio siarad o wan ta	---	NSNT
+
+
+193, 1	399, 1-2	DEW	raid chdi	---	NSNT
+
+
+194, 1	400, 1-3	CEI	yn_dwyt ti yn	---	NSNT
+
+
+195, 1	401, 1-2	DEW	wn i	NSNT	NSNT
+195, 2	402, 1-3	DEW	raid chdi raid	---	NSNT
+
+
+196, 1	403, 1-1	CEI	pam	---	NSNT
+
+
+197, 1	404, 1-8	DEW	*well* mae pawb yn dallt o fel yna	---	NST
+
+
+198, 1	405, 1-5	CEI	ia ond *Bangor* ydy rheina	---	NST
+
+
+199, 1	406, 1-1	DEW	*just*	---	NST
+
+
+200, 1	407, 1-5	CEI	mae nhw dallt iaith ni	NSNT	NSNT
+200, 2	407, 6-6	CEI	ydyn	---	NSNT
+
+
+201, 1	410, 1-3	DEW	does yna ddim_byd	NSNT	NSNT
+201, 2	410, 4-11	DEW	does yna ddim_byd yn *wrong* ar iaith *gogs*	NST	NST
+201, 3	410, 12-14	DEW	nag oes *eh*	---	NST
+
+
+202, 1	411, 1-3	CEI	dan ni well	NSNT	NSNT
+202, 2	411, 4-7	CEI	sti siarad fo na	---	NSNT
+
+
+203, 1	412, 1-10	DEW	watsia *eh* dyro hwnna yn dy boced chdi anghofio fo	NST	NST
+203, 2	413, 1-5	DEW	faint o gloch ydy wan	NSNT	NSNT
+203, 3	414, 1-3	DEW	hanner awr ie	---	NSNT
+
+
+204, 1	415, 1-3	CEI	twenty_five to bron	---	SNT
+
+
+205, 1	416, 1-2	DEW	nag ydy	NSNT	NSNT
+205, 2	417, 1-1	DEW	mae	NSNT	NSNT
+205, 3	417, 2-7	DEW	gynnon ni hanner awr i fynd	---	NSNT
+
+
+206, 1	419, 1-1	CEI	pam	---	NSNT
+
+
+207, 1	420, 1-6	DEW	Duw mae amser wedi mynd hefyd	NSNT	NSNT
+207, 2	420, 7-8	DEW	do *eh*	NST	NST
+207, 3	421, 1-4	DEW	deg munud arall ia	NSNT	NSNT
+207, 4	422, 1-5	DEW	di *ice_cream* arall wedyn cei	---	NST
+
+
+208, 1	423, 1-5	CEI	dw ddim isio *ice_cream* arall	---	NST
+
+
+209, 1	424, 1-4	DEW	be ti isio ta	---	NSNT
+
+
+210, 1	425, 1-1	CEI	dim_byd	---	NSNT
+
+
+211, 1	426, 1-9	DEW	basai *nice* i ennill yr *er* y dafad yna	---	NST
+
+
+212, 1	427, 1-1	CEI	bysai	---	NSNT
+
+
+213, 1	428, 1-5	DEW	*er* rocio i *Eddie* bysai	---	NST
+
+
+214, 1	429, 1-5	CEI	siglo ti trio ddeud *yeah*	NST	NST
+214, 2	431, 1-2	CEI	dim rocio	NSNT	NSNT
+214, 4	433, 1-8	CEI	*ha* *ha* gest ti jaman fan yna yn_do	---	NST
+
+
+215, 1	436, 1-15	DEW	sgwn i os ydyn nhw chwerthin yn y *bus* arnan ni yn siarad fel yma	---	NST
+
+
+216, 1	437, 1-3	CEI	ella mae nhw	NSNT	NSNT
+216, 2	438, 1-4	CEI	dim ots nag ydy	---	NSNT
+
+
+217, 1	439, 1-2	DEW	nag ydy	NSNT	NSNT
+217, 2	440, 1-10	DEW	be mae nhw wneud efo fo yn diwedd ti meddwl	NSNT	NSNT
+217, 3	441, 1-4	DEW	be ydy o *idea*	---	NST
+
+
+218, 1	442, 1-2	CEI	research *yeah*	---	NST
+
+
+219, 1	443, 1-3	DEW	*yeah* i be	---	NST
+
+
+220, 1	444, 1-17	CEI	i drio fath â ffeindio allan sut mae dau *berson* Cymraeg yn siarad efo ei_gilydd felly *yeah*	---	NST
+
+
+221, 1	445, 1-2	DEW	ti meddwl	---	NSNT
+
+
+222, 1	446, 1-2	CEI	*well* dyna	NST	NST
+222, 2	446, 3-5	CEI	be ddeudodd *Gary*	---	NST
+
+
+223, 1	448, 1-5	DEW	baset ti ddim yn licio	NSNT	NSNT
+223, 2	448, 6-8	DEW	bod yn *actor*	---	NST
+
+
+224, 1	449, 1-3	CEI	dim mwy na	---	NSNT
+
+
+225, 1	450, 1-9	DEW	wnest ti wneud yn dda yn yr *Urdd* yna	---	NST
+
+
+226, 1	451, 1-3	CEI	ymgom dw gwybod	---	NSNT
+
+
+227, 1	452, 1-1	DEW	*eh*	---	NST
+
+
+228, 1	453, 1-7	CEI	ni oedd y gorau trwy Cymru *yeah*	---	NST
+
+
+229, 1	456, 1-3	DEW	da iawn *yeah*	NST	NST
+229, 2	457, 1-8	DEW	bechod petasa chdi gael *er* *er* *chance* *yeah*	---	NST
+
+
+230, 1	458, 1-3	CEI	ia dw i	NSNT	NSNT
+230, 2	458, 4-7	CEI	dw i wedi trio	---	NSNT
+
+
+231, 1	459, 1-1	DEW	*eh*	---	NST
+
+
+232, 1	460, 1-12	CEI	dw i wedi trio gael *lot* o interviews hefo *Rownd_a_Rownd* a pethau	NST	ST
+232, 2	461, 1-3	CEI	dyna fo *yeah*	---	NST
+
+
+233, 1	463, 1-10	DEW	*yeah* pobl lle yna sy cael hwnna gyd *Glanaethwy* gyd	---	NST
+
+
+234, 1	464, 1-1	CEI	*Glanaethwy*	---	NST
+
+
+235, 1	465, 1-5	DEW	*close* *shop* ydy hwnna *yeah*	ST	NST
+235, 2	466, 1-4	DEW	who you know *yeah*	---	NST
+
+
+236, 1	467, 1-6	CEI	wnaeth *mam* gynnig mynd i *Glanaethwy*	NST	NST
+236, 2	469, 1-10	CEI	*just* efo fi yn gweithio bob nos Wener a pethau	---	NST
+
+
+237, 1	471, 1-11	DEW	anodd i mynd â chdi yna a nôl chdi oedd *eh*	---	NST
+
+
+238, 1	472, 1-6	CEI	ia mae yna *bus* mynd yna	NST	NST
+238, 2	472, 7-7	CEI	does	---	NSNT
+
+
+239, 1	473, 1-5	DEW	be ti feddwl *bus* yna	---	NST
+
+
+240, 1	474, 1-4	CEI	yn mynd at *Glanaethwy*	---	NST
+
+
+241, 1	475, 1-2	DEW	lle mae	NSNT	NSNT
+241, 2	476, 1-2	DEW	ym Menai_Bridge	---	SNT
+
+
+242, 1	477, 1-5	CEI	basa chdi gael *bus* *um*	---	NST
+
+
+243, 1	478, 1-6	DEW	i *Bangor* a wedyn i Menai_Bridge	---	ST
+
+
+244, 1	479, 1-6	CEI	na *bus* *Glanaethwy* dw i feddwl	---	NST
+
+
+245, 1	480, 1-5	DEW	be ti feddwl *bus* *Glanaethwy*	---	NST
+
+
+246, 1	481, 1-4	CEI	*bus* i *Glanaethwy* *yeah*	---	NST
+
+
+247, 1	482, 1-2	DEW	o dre	---	NSNT
+
+
+248, 1	483, 1-1	CEI	dydy	NSNT	NSNT
+248, 2	483, 2-6	CEI	dydy *Glanaethwy* ddim ym Menai_Bridge	---	ST
+
+
+249, 1	484, 1-3	DEW	lle mae o	---	NSNT
+
+
+250, 1	485, 1-4	CEI	wrth ochr *um* *Brewer's_Fayre*	---	NST
+
+
+251, 1	486, 1-4	DEW	*oh* *yeah* *yeah* *sure*	ST	NST
+251, 2	487, 1-11	DEW	*oh* *yeah* fan yna *oh* *yeah* fan yna mae o *yeah*	ST	NST
+251, 3	488, 1-4	DEW	Menai_Bridge oedd o *yeah*	---	ST
+
+
+252, 1	489, 1-4	CEI	*Rownd_a_Rownd* sy Menai_Bridge *yeah*	---	ST
+
+
+253, 1	490, 1-6	DEW	*oh* *yeah* dyna chdi *yeah* ia	NST	NST
+253, 3	493, 1-10	DEW	*oh* dydy o ddim yn bell i fan yna chwaith	NST	NST
+253, 4	494, 1-17	DEW	baset ti gallu mynd ar *bike* fan yna ar *railway* *track* trwy yr *Felin* a i_fyny *Faenol*	---	NST
+
+
+254, 1	495, 1-13	CEI	ia ond be os dw isio mynd yna erbyn saith gloch y nos	---	NSNT
+
+
+255, 1	497, 1-2	DEW	gaea dywyll	NSNT	NSNT
+255, 2	499, 1-5	DEW	yndy bwrw glaw a bob_dim	NSNT	NSNT
+255, 3	501, 1-3	DEW	lle awn ni	NSNT	NSNT
+255, 4	501, 4-4	DEW	nesa	---	NSNT
+
+
+256, 1	502, 1-4	CEI	dw ddim yn gwybod	NSNT	NSNT
+256, 2	503, 1-6	CEI	awn ni wario yr pres yma	NSNT	NSNT
+256, 3	503, 7-12	CEI	dan ni gael am wneud hyn	---	NSNT
+
+
+257, 1	505, 1-2	DEW	cadw fo	NSNT	NSNT
+257, 2	506, 1-6	DEW	awn ni weld *um* anifeiliaid *yeah*	---	NST
+
+
+258, 1	508, 1-6	CEI	y moch dw heb wedi gweld	---	NSNT
+
+
+259, 1	509, 1-4	DEW	*yeah* dw ddim gwybod	NST	NST
+259, 2	509, 5-7	DEW	lle mae rheina	---	NSNT
+
+
+260, 1	510, 1-8	CEI	mae nhw *just* tu fas i yr ffair	---	NST
+
+
+261, 1	511, 1-8	DEW	awn ni yna am dro i weld ia	SNT	NSNT
+261, 2	513, 1-2	DEW	*yeah* *so*	---	NST
+
+
+262, 1	514, 1-9	CEI	awn ni *round* wan trio sgorio bach o freebies	---	ST
+
+
+263, 1	516, 1-5	DEW	faint o gloch ydy wan	---	NSNT
+
+
+264, 1	517, 1-4	CEI	twenty_five to ydy wan	---	SNT
+
+
+265, 1	518, 1-3	DEW	deg munud arall	NSNT	NSNT
+265, 2	520, 1-6	DEW	*so* dydy o ddim yn bad	ST	ST
+265, 3	520, 7-8	DEW	nag ydy	---	NSNT
+
+
+266, 1	521, 1-5	CEI	ella awn ni tan un_ar_ddeg	NSNT	NSNT
+266, 2	522, 1-6	CEI	ella gawn ni un_deg_pump punt wedyn	---	NSNT
+
+
+267, 1	524, 1-5	DEW	trwy dydd faint gawn ni	NSNT	NSNT
+267, 2	527, 1-3	DEW	basa chdi yn	NSNT	NSNT
+267, 3	528, 1-4	DEW	tan tua tri ia	---	NSNT
+
+
+268, 1	529, 1-3	CEI	fire_brigade fan yna	---	SNT
+
+
+269, 1	530, 1-5	DEW	*oh* *yeah* gad nhw basio	NST	NST
+269, 2	531, 1-2	DEW	nhw yma	NSNT	NSNT
+269, 5	535, 1-2	DEW	nag ydw	---	NSNT
+
+
+270, 1	536, 1-9	CEI	ti erioed wedi bod yn weithio yn Holyhead o_blaen	NSNT	SNT
+270, 2	538, 1-1	CEI	pam	---	NSNT
+
+
+271, 1	539, 1-9	DEW	os mae nhw *short* yna ti gorod mynd yna	NST	NST
+271, 2	541, 1-12	DEW	beth am mynd i *um* nôl rywbeth i fwyta ar_ôl fan hyn	---	NST
+
+
+272, 1	542, 1-5	CEI	ti deud hynna yn barod	NSNT	NSNT
+272, 2	543, 1-4	CEI	a wnes i ddeud	NSNT	NSNT
+272, 3	544, 1-5	CEI	gei di dalu amdano fo	NSNT	NSNT
+272, 4	545, 1-5	CEI	a wnest ti ddeud na	---	NSNT
+
+
+273, 1	546, 1-3	DEW	lle awn ni	NSNT	NSNT
+273, 2	546, 4-4	DEW	ta	---	NSNT
+
+
+274, 1	547, 1-10	CEI	*um* awn ni *just* *round* y *stalls* dibyn bach *yeah*	---	NST
+
+
+275, 1	548, 1-3	DEW	ti wedi blino	NSNT	NSNT
+275, 2	549, 1-8	DEW	yn hwyr arna chdi mynd i dy wely	---	NSNT
+
+
+276, 1	550, 1-10	CEI	es i ddim i gysgu tan tua half three neithiwr	---	SNT
+
+
+277, 1	551, 1-5	DEW	na *mam* deud wrtha chdi	NST	NST
+277, 2	552, 1-4	DEW	pawb yn blino yndy	NSNT	NSNT
+277, 3	553, 1-7	DEW	does yna ddim cyn_gymaint o bobl yma	NSNT	NSNT
+277, 4	553, 8-8	DEW	tro	NSNT	NSNT
+277, 5	553, 9-10	DEW	tro yma	---	NSNT
+
+
+278, 1	555, 1-3	CEI	ond mae dda	NSNT	NSNT
+278, 2	556, 1-5	CEI	*just* dydy o ddim yn	NST	NST
+278, 3	557, 1-8	CEI	mae well i gael mwy o le *just*	---	NST
+
+
+279, 1	559, 1-6	DEW	rhyfedd basai fan yma llawn *yeah*	NST	NST
+279, 2	561, 1-2	DEW	dan ni	NSNT	NSNT
+279, 3	561, 3-4	DEW	bod lwcus	NSNT	NSNT
+279, 4	562, 1-5	DEW	lwcus wnaeth o stopio ni	---	NSNT
+
+
+280, 1	563, 1-2	CEI	mae pobl	NSNT	NSNT
+280, 2	563, 3-9	CEI	mae pobl dal yn gwely adeg yma	---	NSNT
+
+
+281, 1	564, 1-1	DEW	*eh*	---	NST
+
+
+282, 1	565, 1-11	CEI	mae pobl dal yn gwely nhw adeg yma gloch y bore	---	NSNT
+
+
+283, 1	566, 1-7	DEW	amser hyn oedden ni yn dŵad fel	NSNT	NSNT
+283, 2	566, 8-11	DEW	arfer *yeah* ni *yeah*	NST	NST
+283, 3	567, 1-13	DEW	*sure* mae yna *draffic* mawr ar y lôn yn fan yna i chdi	---	NST
+
+
+284, 1	568, 1-5	CEI	petasai yn unrhyw adeg arall	NSNT	NSNT
+284, 2	568, 6-12	CEI	baswn i dal yn gwely erbyn rŵan	---	NSNT
+
+
+285, 1	569, 1-1	DEW	byset	NSNT	NSNT
+285, 2	570, 1-5	DEW	ti cofio lle mae *car*	---	NST
+
+
+286, 1	571, 1-7	CEI	*um* o_flaen y *flags* trwy yr giât	---	NST
+
+
+287, 1	573, 1-7	DEW	coed wrth ymyl y coed mawr *yeah*	NST	NST
+287, 2	575, 1-9	DEW	ceffylau mawr yna dw isio weld shire *horses* yna	---	ST
+
+
+288, 1	576, 1-3	CEI	ie efo yr	NSNT	NSNT
+288, 2	577, 1-13	CEI	ti cofio yr rei Foel_Farm yna rei gwyn mawr yna efo fath â	---	SNT
+
+
+289, 1	579, 1-6	DEW	awn ni chwilio am rheina wedyn	NSNT	NSNT
+289, 2	580, 1-5	DEW	isio mynd i *toilet* hefyd	NST	NST
+289, 3	581, 1-5	DEW	dw i wedi blino hefyd	---	NSNT
+
+
+290, 1	584, 1-10	CEI	gawn ni drafferth codi wan ar_ôl eistedd am hanner awr	---	NSNT
+
+
+291, 1	585, 1-1	DEW	cawn	NSNT	NSNT
+291, 2	586, 1-4	DEW	chwilio am baned arall	NSNT	NSNT
+291, 3	587, 1-8	DEW	dw yn barod am baned arall yn munud	---	NSNT
+
+
+292, 1	588, 1-1	CEI	taw	---	NSNT
+
+
+293, 1	589, 1-1	DEW	*eh*	---	NST
+
+
+294, 1	590, 1-1	CEI	paid	NSNT	NSNT
+294, 2	590, 2-4	CEI	bod yn jiclyd	---	NSNT
+
+
+295, 1	591, 1-4	DEW	*Ian* chwarae dda neithiwr	---	NST
+
+
+296, 1	593, 1-1	CEI	pwy	SNT	NSNT
+296, 2	594, 1-5	CEI	*Rhyl* reserves ta *Rhyl* *team*	---	ST
+
+
+297, 1	595, 1-2	DEW	*team* gynta	NST	NST
+297, 2	596, 1-4	DEW	wnaeth nhw ennill neithiwr	---	NSNT
+
+
+298, 1	597, 1-2	CEI	yn_erbyn pwy	---	NSNT
+
+
+299, 1	598, 1-6	DEW	gaeth o *game* dda meddai fo	---	NST
+
+
+300, 1	599, 1-2	CEI	yn_erbyn pwy	---	NSNT
+
+
+301, 1	600, 1-4	DEW	*oh* dw ddim cofio	ST	NST
+301, 2	601, 1-1	DEW	*Salford*	ST	NST
+301, 3	602, 1-6	DEW	mae lawr yn *Cwmbrân* dydd Sadwrn	---	NST
+
+
+302, 1	603, 1-12	CEI	oedden nhw yn *Lithuania* neu rywbeth fel yna wsnos dwytha pythefnos yn_ôl	NST	NST
+302, 2	605, 1-5	CEI	gaeth o ddim *game* chwaith	---	NST
+
+
+303, 1	606, 1-2	DEW	cwpan *Europe*	NST	NST
+303, 2	607, 1-1	DEW	colli	---	NSNT
+
+
+304, 1	608, 1-2	CEI	European *cup*	---	NST
+
+
+305, 1	610, 1-5	DEW	colli dwy *goal* i un	NST	NST
+305, 2	611, 1-4	DEW	wnaeth o chwarae dda	---	NSNT
+
+
+306, 1	612, 1-5	CEI	yn_erbyn *Man_U* a pethau felly	---	NST
+
+
+307, 1	613, 1-5	DEW	fydd o yn *Clwb_Pêl_droed* Cymru	---	NST
+
+
+308, 1	614, 1-7	CEI	ia ond ar pethau dw i feddwl	---	NSNT
+
+
+309, 1	616, 1-4	DEW	*oh* basai wedi gallu	NST	NST
+309, 2	616, 5-5	DEW	bod	---	NSNT
+
+
+310, 1	617, 1-4	CEI	wedi medru chwarae *Man_U*	---	NST
+
+
+311, 1	618, 1-10	DEW	petasen nhw wedi ennill y *game* nesa dw i *sure*	NST	NST
+311, 2	618, 11-12	DEW	basai fo	NSNT	NSNT
+311, 3	618, 13-17	DEW	basai fo yn gael *yeah*	---	NST
+
+
+312, 1	619, 1-4	CEI	good experience iddo fo	---	SNT
+
+
+313, 1	620, 1-1	DEW	bysai	NSNT	NSNT
+313, 2	621, 1-3	DEW	chwarae dda *yeah*	NST	NST
+313, 3	622, 1-8	DEW	dipyn bach o *luck* mae o isio *yeah*	---	NST
+
+
+314, 1	623, 1-5	CEI	*rugby* ydy yr *game* well	NST	NST
+314, 2	623, 6-6	CEI	sti	---	NSNT
+
+
+315, 1	624, 1-7	DEW	ti yn dechrau traenio *rugby* flwyddyn yma	---	NST
+
+
+316, 1	625, 1-2	CEI	dim mynedd	---	NSNT
+
+
+317, 1	626, 1-2	DEW	am be	---	NSNT
+
+
+318, 1	627, 1-2	CEI	ddim gwybod	NSNT	NSNT
+318, 2	628, 1-6	CEI	ella wna i drio yr ysgol	NSNT	NSNT
+318, 3	629, 1-5	CEI	*just* mae pawb fath â	NST	NST
+318, 4	629, 6-11	CEI	wedi bod yna ers blwyddyn saith	NSNT	NSNT
+318, 5	630, 1-8	CEI	ac yn well na fi yn chwarae yndy	---	NSNT
+
+
+319, 1	633, 1-5	DEW	wnest ti ddechrau traenio *rugby*	NST	NST
+319, 3	637, 1-2	DEW	dyna chdi	NSNT	NSNT
+319, 4	638, 1-6	DEW	basa chdi wneud *prop* da byset	---	NST
+
+
+320, 1	639, 1-1	CEI	blino	---	NSNT
+
+
+321, 1	640, 1-11	DEW	del del oedd y cŵn bach yna fan acw gynnau *yeah*	NST	NST
+321, 2	642, 1-5	DEW	*Emily* yn licio rheina *yeah*	---	NST
+
+
+322, 1	643, 1-3	CEI	ella basai well	NSNT	NSNT
+322, 2	643, 4-19	CEI	petaswn i wedi prynu un i rhoi un o rheina i hi Dolig *er* o *holiday*	---	NST
+
+
+323, 1	644, 1-1	DEW	bysai	NSNT	NSNT
+323, 2	645, 1-9	DEW	*oh* na *bloody* Dolig basai hwnna yn iawn *sure*	NST	NST
+323, 3	646, 1-4	DEW	mae wedi costio digon	---	NSNT
+
+
+324, 1	647, 1-4	CEI	ia wnaeth hi wario	---	NSNT
+
+
+325, 1	648, 1-5	DEW	lle oedd hi mynd heddiw	NSNT	NSNT
+325, 2	648, 6-6	DEW	ta	---	NSNT
+
+
+326, 1	649, 1-4	CEI	dw i ddim yn	---	NSNT
+
+
+327, 1	650, 1-6	DEW	rhyfedd basai *Emily* wedi dod yma	---	NST
+
+
+328, 1	651, 1-4	CEI	na ddoe oedd *um*	NST	NST
+328, 2	651, 5-6	CEI	oedd hi	NSNT	NSNT
+328, 3	652, 1-5	CEI	doedd hi ddim isio mynd	NSNT	NSNT
+328, 4	653, 1-5	CEI	doedd ddim isio mynd chwaith	NSNT	NSNT
+328, 5	653, 6-7	CEI	nag oedd	---	NSNT
+
+
+329, 1	654, 1-2	DEW	nag oedd	NSNT	NSNT
+329, 2	655, 1-7	DEW	basai wedi cael dŵad efo ni heddiw	NSNT	NSNT
+329, 3	656, 1-3	DEW	basai hi wedi	NSNT	NSNT
+329, 4	656, 4-8	DEW	basai hi wedi siarad hefyd	NSNT	NSNT
+329, 5	656, 9-9	DEW	basai	---	NSNT
+
+
+330, 1	657, 1-1	CEI	bysai	---	NSNT
+
+
+331, 1	658, 1-2	DEW	am faint	NSNT	NSNT
+331, 2	659, 1-2	DEW	hanner awr	---	NSNT
+
+
+332, 1	660, 1-5	CEI	basai siarad *lot* mwy na	---	NST
+
+
+333, 1	661, 1-1	DEW	bysai	NSNT	NSNT
+333, 2	662, 1-7	DEW	*oh* be arall gawn ni wneud heddiw	---	NST
+
+
+334, 1	663, 1-4	CEI	dw ddim yn gwybod	NSNT	NSNT
+334, 2	664, 1-4	CEI	ti gweithio pump yn_dwyt	---	NSNT
+
+
+335, 1	665, 1-1	DEW	yndw	NSNT	NSNT
+335, 2	666, 1-9	DEW	raid ni gychwyn o yma hanner wedi tri *yeah*	NST	NST
+335, 3	669, 1-5	DEW	gobeithio wneith hi ddim bwrw	---	NSNT
+
+
+336, 1	670, 1-3	CEI	dw ddim meddwl	NSNT	NSNT
+336, 2	670, 4-5	CEI	wneith hi	---	NSNT
+
+
+337, 1	671, 1-8	DEW	faint o gloch dach chi mynd dydd Gwener	---	NSNT
+
+
+338, 1	672, 1-7	CEI	*um* dan ni cychwyn o dre dau	NST	NST
+338, 2	672, 8-9	CEI	dw meddwl	---	NSNT
+
+
+339, 1	673, 1-1	DEW	dau	NSNT	NSNT
+339, 2	674, 1-1	DEW	ac	---	NSNT
+
+
+340, 1	675, 1-8	CEI	a dan ni yn fflio chwarter wedi wyth	---	NSNT
+
+
+341, 1	678, 1-10	DEW	fyddwch chi yna felly faint hanner nos un yn bore	---	NSNT
+
+
+342, 1	679, 1-2	CEI	dw meddwl	NSNT	NSNT
+342, 2	679, 3-12	CEI	dan ni yna ugain *er* twenty to one adeg nhw	NST	ST
+342, 3	679, 13-14	CEI	dw meddwl	---	NSNT
+
+
+343, 1	680, 1-7	DEW	pa bryd dach chi yn fflio adre	NSNT	NSNT
+343, 2	681, 1-3	DEW	bore ddydd Sadwrn	---	NSNT
+
+
+344, 1	682, 1-5	CEI	*yeah* tua pedwar dw meddwl	---	NST
+
+
+345, 1	683, 1-3	DEW	bore ddydd Sadwrn	NSNT	NSNT
+345, 2	685, 1-6	DEW	fyddwch chi adre tua faint felly	---	NSNT
+
+
+346, 1	686, 1-2	CEI	saith wyth	---	NSNT
+
+
+347, 1	687, 1-2	DEW	fyddwch chi	NSNT	NSNT
+347, 2	687, 3-10	DEW	fyddwch chi yn eich gwely wedyn trwy dydd	---	NSNT
+
+
+348, 1	688, 1-3	CEI	a dw meddwl	NSNT	NSNT
+348, 2	688, 4-6	CEI	fydda i gweithio	NSNT	NSNT
+348, 3	688, 7-9	CEI	noson yna wedyn	---	NSNT
+
+
+349, 1	689, 1-6	DEW	na ti ddim isio *bloody* hell	ST	ST
+349, 2	690, 1-5	DEW	fydda chdi isio *break* *sure*	NST	NST
+349, 3	691, 1-4	DEW	ti isio *break* oes	NST	NST
+349, 4	692, 1-8	DEW	*er* mynd i_fewn i weithio dydd Sul *yeah*	---	NST
+
+
+350, 1	693, 1-11	CEI	ia ond os mae roi fi lawr i weithio dydd Sadwrn	NSNT	NSNT
+350, 2	693, 12-14	CEI	dw gorod gweithio	---	NSNT
+
+
+350, 3	693, 15-15	CEI	yndw	SNT	NSNT
+351, 2	695, 1-2	DEW	*jet* lag	---	NST
+
+
+352, 1	696, 1-2	CEI	*jet* lag	---	NST
+
+
+353, 1	697, 1-4	DEW	*well* blino fflio *yeah*	NST	NST
+353, 2	698, 1-3	DEW	blino chdi *yeah*	NST	NST
+353, 3	699, 1-7	DEW	ydy yn brysur yn y gwaith chdi	---	NSNT
+
+
+354, 1	700, 1-7	CEI	yndy ni tri gant a phedwar ddoe	NSNT	NSNT
+354, 2	700, 8-9	CEI	dw meddwl	---	NSNT
+
+
+355, 1	701, 1-2	DEW	da *yeah*	NST	NST
+355, 2	702, 1-2	DEW	o sittings	SNT	SNT
+355, 3	704, 1-3	DEW	arglwydd da *yeah*	NST	NST
+355, 4	705, 1-4	DEW	arglwydd mae hynna dda	---	NSNT
+
+
+356, 1	706, 1-11	CEI	a *bank* *holiday* August yna dan ni six hundred and four	ST	ST
+356, 2	706, 12-13	CEI	dw meddwl	---	NSNT
+
+
+357, 1	707, 1-5	DEW	ti gweithio amser yna hefyd	---	NSNT
+
+
+358, 1	708, 1-1	CEI	yndw	NSNT	NSNT
+358, 2	710, 1-1	CEI	ydw	---	NSNT
+
+
+359, 1	711, 1-6	DEW	ti cael oriau da gynnyn nhw	---	NSNT
+
+
+360, 1	712, 1-1	CEI	yndw	---	NSNT
+
+
+361, 1	713, 1-7	DEW	ti yn syrfio hefyd *round* y byrddau	---	NST
+
+
+362, 1	714, 1-9	CEI	a cymryd *orders* fath â neu *credit* *card* *bills*	---	NST
+
+
+363, 1	715, 1-4	DEW	chdi sy golchi hefyd	NSNT	NSNT
+363, 2	717, 1-8	DEW	oes yna rywun arall yn wneud hynna wan	NSNT	NSNT
+363, 3	719, 1-7	DEW	ti byth yn wneud hynna wan felly	NSNT	NSNT
+363, 4	720, 1-6	DEW	wedi dechrau rywun arall mae ia	---	NSNT
+
+
+364, 1	721, 1-9	CEI	dw heb wedi wneud hynna ers tua tri mis	---	NSNT
+
+
+365, 1	725, 1-3	DEW	mae hynna dda	---	NSNT
+
+
+366, 1	727, 1-10	CEI	dan ni wedi rhedeg allan o pethau i ddeud wan	---	NSNT
+
+
+367, 1	728, 1-6	DEW	gaethoch chi ddim *barty* Dolig chwaith	---	NST
+
+
+368, 1	729, 1-2	CEI	na ond	---	NSNT
+
+
+369, 1	730, 1-2	DEW	am be	---	NSNT
+
+
+370, 1	731, 1-3	CEI	dw ddim gwybod	NSNT	NSNT
+370, 2	732, 1-8	CEI	be mae nhw ddeud wneud un a *just*	---	NST
+
+
+371, 1	734, 1-6	DEW	gest ti rywbeth Dolig gynnyn nhw	---	NSNT
+
+
+372, 1	735, 1-5	CEI	wnes i weithio diwrnod Dolig	NSNT	NSNT
+372, 2	736, 1-3	CEI	*so* ges i	---	NST
+
+
+373, 1	737, 1-3	DEW	ugain bunt do	NSNT	NSNT
+373, 2	739, 1-2	DEW	*extra* ia	---	NST
+
+
+374, 1	742, 1-6	CEI	*so* ddim bad felly nag oedd	---	ST
+
+
+375, 1	744, 1-5	DEW	wna i ofyn iddo faint	NSNT	NSNT
+375, 2	744, 6-11	DEW	gynnon ni fynd eto wan *yeah*	NST	NST
+375, 3	745, 1-4	DEW	mewn dau funud *yeah*	ST	NST
+375, 4	746, 1-1	DEW	*eh*	---	NST
+
+
+376, 1	747, 1-5	CEI	ella wnawn ni aros tan	---	NSNT
+
+
+377, 1	748, 1-3	DEW	na awn ni	NSNT	NSNT
+377, 2	750, 1-4	DEW	da ydy rhein *yeah*	NST	NST
+377, 3	752, 1-8	DEW	*sure* bod rhein yn costio rywbeth i chdi	---	NST
+
+
+378, 1	754, 1-8	CEI	*Pete* yn *Big_Brother* jump_io mewn i *pool* do	---	ST
+
+
+379, 1	755, 1-7	DEW	*oh* rei fel yma gynnyn nhw *yeah*	NST	NST
+379, 2	757, 1-2	DEW	da *yeah*	NST	NST
+379, 3	759, 1-6	DEW	ti wedi gwatsio *lot* o *Big_Brother*	---	NST
+
+
+380, 1	760, 1-2	CEI	dim really	SNT	SNT
+380, 2	761, 1-2	CEI	gweithio nos	NSNT	NSNT
+380, 3	762, 1-6	CEI	*so* colli ran fwyaf ohonyn nhw	---	NST
+
+
+381, 1	764, 1-6	DEW	mae yn dod i ben wan	NSNT	NSNT
+381, 2	766, 1-3	DEW	darfod dydd Gwener	NSNT	NSNT
+381, 3	767, 1-6	DEW	wnewch chi golli fo dydd Gwener	---	NSNT
+
+
+382, 1	768, 1-1	CEI	wnawn	NSNT	NSNT
+382, 2	769, 1-4	CEI	wnei di text_io fi	NSNT	SNT
+382, 3	769, 5-7	CEI	pryd mae o	---	NSNT
+
+
+383, 1	771, 1-5	DEW	how long we got again	SNT	NSNT
+383, 2	772, 1-1	DEW	*eh*	---	NST
+
+
+384, 1	774, 1-3	RES	*couple* more *minutes*	---	NST
+
+
+385, 1	776, 1-4	DEW	*oh* it's not bad	NST	NST
+385, 2	777, 1-2	DEW	time's gone	SNT	NSNT
+385, 3	778, 1-5	DEW	*oh* amser wedi mynd do	---	NST
+
+
+386, 1	779, 2-6	CEI	mae wedi mynd yn *fast*	---	NST
+
+
+387, 1	781, 1-4	DEW	*nice* cael y *break*	---	NST
+
+
+388, 1	784, 1-4	CEI	alla i ddim coelio	NSNT	NSNT
+388, 2	784, 5-5	CEI	bod	NSNT	NSNT
+388, 3	784, 6-13	CEI	mae pobl cerdded *round* yma efo *shorts* *yeah*	---	NST
+
+
+389, 1	786, 1-6	DEW	baswn i wedi gwisgo nhw heddiw	NSNT	NSNT
+389, 2	787, 1-5	DEW	o'n i meddwl bod ti	---	NSNT
+
+
+390, 1	788, 1-6	CEI	na basa chdi ddim yn gael	---	NSNT
+
+
+391, 1	789, 1-1	DEW	be	---	NSNT
+
+
+392, 1	790, 1-11	CEI	baswn i ddim yn cerdded *round* efo chdi yn gwisgo *shorts*	---	NST
+
+
+393, 1	791, 1-2	DEW	pam ddim	NSNT	NSNT
+393, 2	792, 1-4	DEW	codi cywilydd arna chdi	---	NSNT
+
+
+394, 1	797, 1-7	CEI	ti codi cywilydd fi efo *bag* yna	---	NST
+
+
+395, 1	798, 1-4	DEW	oedd raid fi *sure*	NST	NST
+395, 2	799, 1-5	DEW	wnei di ddim cario fo	NSNT	NSNT
+395, 3	799, 6-7	DEW	na wnei	NSNT	NSNT
+395, 4	801, 1-4	DEW	*well* dyna o felly	NST	NST
+395, 5	802, 1-3	DEW	mae yn *handy*	---	NST
+
+
+396, 1	803, 1-12	CEI	*yeah* dyla dyla chdi dyla chdi wedi gwisgo fath â gym *bag*	---	ST
+
+
+397, 1	804, 1-2	DEW	mae dy	NSNT	NSNT
+397, 2	805, 1-10	DEW	mae dy bethau di gyd yn y *bag* yna iawn	NST	NST
+397, 3	806, 1-11	DEW	ti isio fi dynnu nhw allan ta i chdi cario nhw	---	NSNT
+
+
+398, 1	807, 1-6	CEI	dyla chdi wedi gwisgo gym *bag*	---	ST
+
+
+399, 1	809, 1-6	DEW	na safio chdi gario nhw yndy	---	NSNT
+
+
+400, 1	810, 1-15	CEI	ia ond petasa chdi wisgo gym *bag* basai bob_dim wedi mynd i_mewn a basa chdi	---	ST
+
+
+401, 1	811, 1-6	DEW	paid â chwarae efo *aerial* yna	---	NST
+
+
+402, 1	812, 1-1	CEI	pam	---	NSNT
+
+
+403, 1	813, 1-6	DEW	ti ddim i fod i nad	NSNT	NSNT
+403, 2	814, 1-5	DEW	ti isio mynd i *er*	NST	NST
+403, 3	815, 1-6	DEW	ella mae yna bethau yn hwn	NSNT	NSNT
+403, 4	816, 1-13	DEW	oes yna rywbeth yn hwn i coleg i chdi i chdi gael gweld	---	NSNT
+
+
+404, 1	817, 1-10	CEI	dw ddim yn mynd i coleg am dau flwyddyn arall	NSNT	NSNT
+404, 2	818, 1-7	CEI	dw ddim yn mynd i *Bangor* anyway	---	ST
+
+
+405, 1	819, 1-9	DEW	does yna ddim *er* *biro* fan yma i chdi	NST	NST
+405, 2	819, 10-11	DEW	nag oes	---	NSNT
+
+
+406, 1	821, 1-9	CEI	ti isio fi ddeud mwy o bethau amdana chdi	---	NSNT
+
+
+407, 1	822, 1-7	DEW	na *car* yna ti isio ennill ia	NST	NST
+407, 2	824, 1-6	DEW	yr un ddu yna fan yna	SNT	NSNT
+407, 3	825, 1-2	DEW	*car* *nice*	ST	NST
+407, 4	826, 1-2	DEW	neu *caravan*	NST	NST
+407, 5	827, 1-6	DEW	mae dipyn o pethau drud hefyd	NSNT	NSNT
+407, 6	828, 1-6	DEW	pethau *right* ddrud yma yndy *eh*	---	NST
+
+
+408, 1	829, 1-11	CEI	ia mae nhw yn dod i_lawr yn prisiau peth yna though	---	SNT
+
+
+409, 1	830, 1-3	DEW	*oh* is good	---	NST

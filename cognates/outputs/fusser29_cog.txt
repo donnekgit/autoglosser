@@ -1,0 +1,1839 @@
+1, 1	1, 1-12	MAG	a wnes i ddeud wrtho fo y ffordd o'n i yn teimlo	NSNT	NSNT
+1, 2	1, 13-16	MAG	twel fath â bob_dim	NSNT	NSNT
+1, 3	2, 1-5	MAG	a dw i yn falch	NSNT	NSNT
+1, 4	2, 6-7	MAG	wnes i	NSNT	NSNT
+1, 5	2, 8-9	MAG	am bod	NSNT	NSNT
+1, 6	2, 10-14	MAG	mae pethau yn well wan	---	NSNT
+
+
+2, 1	5, 1-1	LOI	good	---	NSNT
+
+
+3, 1	6, 1-11	MAG	o'n i wedi bod pethau yn mynd *round* yn pen fi	NST	NST
+3, 2	7, 1-6	MAG	ac o'n i *just* *oh* timod	NST	NST
+3, 3	8, 1-5	MAG	dyn nhw ddim yn gweithio	NSNT	NSNT
+3, 4	8, 6-10	MAG	dw ddim yn hapus a	NSNT	NSNT
+3, 5	9, 1-6	MAG	*so* wnaethon ni benderfynu heno yma	NST	NST
+3, 6	9, 7-14	MAG	dan ni yn mynd am pryd o fwyd	---	NSNT
+
+
+4, 1	10, 1-1	LOI	*nice*	---	NST
+
+
+5, 1	11, 1-5	MAG	*just* y ddau ohonan ni	NST	NST
+5, 2	12, 1-5	MAG	twel *just* *quality* time *yeah*	---	ST
+
+
+6, 1	14, 1-2	LOI	i lle	NSNT	NSNT
+6, 2	16, 1-6	LOI	*oh* fedri di fynd i rywle	---	NST
+
+
+7, 1	17, 1-5	MAG	*Bull* dw i yn meddwl	NST	NST
+7, 2	17, 6-10	MAG	dan ni meddwl mynd *Beaumaris*	---	NST
+
+
+8, 1	18, 1-1	LOI	*nice*	---	NST
+
+
+9, 1	19, 1-12	MAG	*yeah* a wedyn nôl i *um* *Gardd_Fôn* wedyn achos mae yn *Paddy's*	---	NST
+
+
+10, 1	20, 1-3	LOI	*oh* *sure* Dduw	---	NST
+
+
+11, 1	21, 1-8	MAG	mae *Alice* yn *bound* o wneud rywbeth *yeah*	ST	NST
+11, 2	22, 1-1	MAG	*so*	ST	NST
+11, 3	23, 1-5	MAG	a mae gynno fi *t_shirt*	ST	NST
+11, 4	23, 6-10	MAG	I love *Guinness* du yma	NST	ST
+11, 5	23, 11-18	MAG	wnes i gael gynno *Alan* yn *Gardd_Fôn* *yeah*	NST	NST
+11, 6	24, 1-6	MAG	*so* *just* noson fel yna *yeah*	NST	NST
+11, 7	25, 1-9	MAG	fory dw fod i fynd am ginio efo *Bridget*	NST	NST
+11, 8	26, 1-5	MAG	a wnaeth *Carol* text_io fi	NST	ST
+11, 9	27, 1-8	MAG	*yeah* dyna be o'n i ddeud wrtha chdi	NST	NST
+11, 10	28, 1-8	MAG	wnaeth pethau fynd yn dda nos Sadwrn *yeah*	NST	NST
+11, 11	30, 1-8	MAG	felly wnes i ddeud wrth *Diane* a *Ffion*	NST	NST
+11, 12	31, 1-8	MAG	*Ffion* *sorry* am y weekend ddaeth gennod lawr	NST	ST
+11, 13	32, 1-3	MAG	meddai fi *um*	NST	NST
+11, 14	33, 1-5	MAG	o'n i *just* yn teimlo	NST	NST
+11, 15	34, 1-7	MAG	o'n i ddim yn teimlo yn gyffyrddus	NSNT	NSNT
+11, 16	35, 1-6	MAG	oedd o yn *bit* overwhelming ar_ôl	NST	ST
+11, 17	35, 7-15	MAG	be sy wedi digwydd *blah* *blah* *blah* *blah* *blah*	---	NST
+
+
+12, 1	36, 1-2	LOI	fair enough	---	NSNT
+
+
+13, 1	37, 1-2	MAG	a wedyn	NSNT	NSNT
+13, 2	38, 1-4	MAG	wnes i benderfynu aros	NSNT	NSNT
+13, 3	39, 1-6	MAG	wedyn aethon i *Wetherspoons* am fwyd	NST	NST
+13, 4	40, 1-12	MAG	aeth *Carol* a fi i yr ochr smocio i cael *fag* *yeah*	NST	NST
+13, 5	41, 1-4	MAG	wedyn wnaethon ni siarad	NSNT	NSNT
+13, 6	42, 1-2	MAG	a mae	NSNT	NSNT
+13, 7	42, 3-13	MAG	ei *mham* hi wedi fod trwy *trouble* efo *police* a ballu	ST	NST
+13, 8	43, 1-7	MAG	which does yna dim_byd yn wir amdano	NSNT	SNT
+13, 9	45, 1-6	MAG	*oh* wnes i ddeud wrtha chdi	---	NST
+
+
+14, 1	46, 1-5	LOI	oedda chdi yn deud *yeah*	---	NST
+
+
+15, 1	47, 1-4	MAG	wedyn gaethon ni heart_to_heart	SNT	SNT
+15, 2	48, 1-9	MAG	ac o'n i yn siarad efo hi am bethau	NSNT	NSNT
+15, 3	49, 1-5	MAG	wedyn aethon i tŷ *Diane*	NST	NST
+15, 5	51, 1-6	MAG	wnaeth hi rhoi fi lawr a	NSNT	NSNT
+15, 6	52, 1-2	MAG	*um* wnaeth	NST	NST
+15, 7	52, 3-4	MAG	wnes i	NSNT	NSNT
+15, 8	52, 5-8	MAG	oedd hi yn deud	NSNT	NSNT
+15, 9	53, 1-4	MAG	*well* wnes i sylwi	NST	NST
+15, 10	53, 5-11	MAG	oedda chdi ddim yna yr ail ddiwrnod	NSNT	NSNT
+15, 11	54, 1-3	MAG	meddai fel yna	NSNT	NSNT
+15, 12	55, 1-3	MAG	o'n i methu	NSNT	NSNT
+15, 13	56, 1-2	MAG	meddai fi	NSNT	NSNT
+15, 14	57, 1-10	MAG	does yna dim cynnig i fi yn y tŷ yna	NSNT	NSNT
+15, 15	59, 1-15	MAG	a anyway oedden ni yn siarad a dyma fi yn dechrau crio ychydig bach *yeah*	NST	ST
+15, 16	59, 16-17	MAG	am bod	NSNT	NSNT
+15, 17	59, 18-22	MAG	oedden nhw yn deud rywbeth	NSNT	NSNT
+15, 18	60, 1-5	MAG	a dw i yn deud	NSNT	NSNT
+15, 19	61, 1-1	MAG	gwrandewch	NSNT	NSNT
+15, 20	62, 1-2	MAG	meddai fi	NSNT	NSNT
+15, 21	63, 1-5	MAG	dw i ddim yn gwybod	NSNT	NSNT
+15, 22	63, 6-11	MAG	be dach chi yn wneud *yeah*	NST	NST
+15, 23	64, 3-6	MAG	alla i ddod yma	NSNT	NSNT
+15, 24	64, 7-14	MAG	dach chi mynd i tŷ *Brian* neu rywbeth	NST	NST
+15, 25	65, 1-4	MAG	a dyma *Emma* mynd	NST	NST
+15, 26	66, 1-4	MAG	*oh* *Magi* paid â	NST	NST
+15, 27	67, 1-6	MAG	a dyma *Carol* *just* yn mynd	NST	NST
+15, 28	68, 1-4	MAG	*Emma* cau dy geg	ST	NST
+15, 29	69, 1-5	MAG	take it on the chin	SNT	NSNT
+15, 30	70, 1-7	MAG	ti yn gwybod bod hi yn iawn	NSNT	NSNT
+15, 31	71, 1-6	MAG	mi oedden ni yn wneud hynna	NSNT	NSNT
+15, 32	72, 1-2	MAG	a timod	NSNT	NSNT
+15, 33	72, 3-9	MAG	be wnes i *just* sbïo ar *Carol*	NST	NST
+15, 34	72, 10-13	MAG	a wnes i fynd	SNT	NSNT
+15, 35	73, 1-5	MAG	*oh* my god diolch *yeah*	---	ST
+
+
+16, 1	74, 1-2	LOI	fair play	---	NSNT
+
+
+17, 1	77, 1-5	MAG	wnaethon ni siarad fel yna	NSNT	NSNT
+17, 2	77, 6-15	MAG	lle wnaethon nhw actually dallt lle o'n i dod o	---	SNT
+
+
+18, 1	78, 1-3	LOI	hen bryd *yeah*	---	NST
+
+
+19, 1	79, 1-5	MAG	ac oedd *Carol* fath â	NST	NST
+19, 2	80, 1-3	MAG	*well* tro nesa	NST	NST
+19, 3	80, 4-8	MAG	mae gennod yn dod lawr	NSNT	NSNT
+19, 4	80, 9-15	MAG	dan ni yn cyfarfod yn tŷ fi	NSNT	NSNT
+19, 5	81, 1-5	MAG	a timod yn union *yeah*	NST	NST
+19, 6	81, 6-11	MAG	alla i deimlo yn equal wedyn	---	SNT
+
+
+20, 1	82, 1-2	LOI	*nice* one	---	NST
+
+
+21, 1	86, 1-5	MAG	*so* a wnes i ddeud	NST	NST
+21, 2	87, 1-12	MAG	*well* dw i ddim yn mynd i ddod i *Bangor* heb gynnig	NST	NST
+21, 3	88, 1-2	MAG	meddai fi	---	NSNT
+
+
+22, 1	91, 1-3	LOI	pam ddylia chdi	---	NSNT
+
+
+23, 1	92, 1-3	MAG	yn union *yeah*	NST	NST
+23, 2	93, 1-8	MAG	a wnaeth *Carol* text_io fi neithiwr a gofyn	NST	ST
+23, 3	93, 9-16	MAG	os dw isio mynd am *bint* eto fory	NST	NST
+23, 4	94, 1-8	MAG	ond dw i ddim yn gwybod am fory	NSNT	NSNT
+23, 5	95, 1-8	MAG	dw i isio mynd am ginio efo *Bridget*	NST	NST
+23, 6	96, 1-5	MAG	ond dw ddim yn gwybod	NSNT	NSNT
+23, 7	96, 6-11	MAG	be dw i wneud wedyn *yeah*	NST	NST
+23, 8	97, 1-17	MAG	dw i ddim really isio yfed eto am bedwar o gloch a wedyn gen fi ddim pres	NSNT	SNT
+23, 9	98, 1-5	MAG	ond mae yr cynnig yna	NSNT	NSNT
+23, 10	99, 1-1	MAG	dyna	NSNT	NSNT
+23, 11	99, 2-6	MAG	ydy o i fi *yeah*	---	NST
+
+
+24, 1	100, 1-3	LOI	fair play dyna	NSNT	SNT
+24, 2	100, 4-7	LOI	ydy yr gwahaniaeth *yeah*	---	NST
+
+
+25, 1	101, 1-4	MAG	*yeah* yn union *yeah*	NST	NST
+25, 3	104, 1-4	MAG	*so* dw i falch	NST	NST
+25, 4	104, 5-7	MAG	wnes i fynd	---	NSNT
+
+
+26, 1	105, 1-2	LOI	*aye* *yeah*	---	NST
+
+
+27, 1	106, 1-4	MAG	wnes i weld *Freda*	NST	NST
+27, 2	107, 1-5	MAG	pan wnes i cerdded i_fewn	---	NSNT
+
+
+28, 1	108, 1-5	LOI	be oedd hi yn wisgo	---	NSNT
+
+
+29, 1	109, 1-11	MAG	oedd hi yn gwisgo fath â *cap* coch yma fath â	---	NST
+
+
+30, 1	110, 1-1	LOI	*trilby*	---	NST
+
+
+31, 1	111, 1-1	MAG	dyna	NSNT	NSNT
+31, 2	111, 2-4	MAG	ydy o *yeah*	NST	NST
+31, 3	113, 1-4	MAG	fath â fel yna	NSNT	NSNT
+31, 4	115, 1-8	MAG	a wedyn mae gynni hi uffar o frestiau	NSNT	NSNT
+31, 5	115, 9-9	MAG	does	NSNT	NSNT
+31, 6	117, 1-8	MAG	ac oedd hi wedi roi nhw fel yna	---	NSNT
+
+
+32, 1	118, 1-2	LOI	peth *pink*	NST	NST
+32, 2	120, 1-4	LOI	a *jacket* du *ah*	---	NST
+
+
+33, 1	121, 1-2	MAG	du ia	NSNT	NSNT
+33, 2	122, 1-5	MAG	o'n i *just* fath â	ST	NST
+33, 3	123, 1-2	MAG	looking good	SNT	NSNT
+33, 5	125, 1-2	MAG	meddai fi	---	NSNT
+
+
+34, 1	126, 1-4	LOI	how to turn heads	---	NSNT
+
+
+35, 1	127, 1-5	MAG	dw meddwl erbyn erbyn diwedd	NSNT	NSNT
+35, 2	127, 6-14	MAG	oedd hi *just* yn sbïo arna fi fath â	ST	NST
+35, 3	128, 1-6	MAG	*just* get out of my face	ST	NST
+35, 4	129, 2-9	MAG	be dw feddwl achos o'n i fath â	NSNT	NSNT
+35, 5	130, 1-2	MAG	ac oedd	NSNT	NSNT
+35, 6	130, 3-11	MAG	oedd hi *just* mwy tame i gymharu efo fi	---	ST
+
+
+36, 1	133, 1-2	LOI	my god	---	NSNT
+
+
+37, 1	134, 1-1	MAG	*aye*	---	NST
+
+
+38, 1	135, 1-7	LOI	dydy hynna ddim yn digwydd yn aml	---	NSNT
+
+
+39, 1	138, 1-5	MAG	oedd hi efo *boy* yna	NST	NST
+39, 2	138, 6-8	MAG	oedd hi byw	NSNT	NSNT
+39, 3	138, 9-13	MAG	mae yn byw efo ia	NSNT	NSNT
+39, 4	139, 1-6	MAG	*oh* ydy yn byw efo fo	---	NST
+
+
+40, 1	140, 1-1	LOI	*Chris*	---	NST
+
+
+41, 1	141, 1-5	MAG	y *boy* efo locsyn yna	---	NST
+
+
+42, 1	142, 1-2	LOI	*oh* *Daniel*	ST	NST
+42, 2	144, 1-7	LOI	na mae o yn byw yn y	NSNT	NSNT
+42, 3	145, 1-5	LOI	lle mae yn byw dŵad	NSNT	NSNT
+42, 4	146, 1-4	LOI	dw ddim yn cofio	---	NSNT
+
+
+43, 1	147, 1-5	MAG	be dan nhw *just* ffrindiau	NST	NST
+43, 2	150, 1-5	MAG	mae weld yn annwyl actually	---	SNT
+
+
+44, 1	151, 1-4	LOI	mae o yn lovely	SNT	SNT
+44, 2	153, 1-2	LOI	ond dyna	NSNT	NSNT
+44, 3	153, 3-3	LOI	dyna	NSNT	NSNT
+44, 4	153, 4-6	LOI	ydy o *yeah*	---	NST
+
+
+45, 1	155, 1-3	MAG	rhy *nice* ella	---	NST
+
+
+46, 1	156, 1-2	LOI	rhy *nice*	NST	NST
+46, 3	158, 1-3	LOI	a rhy ifanc	NSNT	NSNT
+46, 4	159, 1-4	LOI	pan mae wedi siafio	NSNT	NSNT
+46, 5	159, 5-9	LOI	mae yn really del ond	---	SNT
+
+
+47, 1	160, 1-4	MAG	faint oed ydy o	---	NSNT
+
+
+48, 1	161, 1-2	LOI	twenty three	---	NSNT
+
+
+49, 1	162, 1-5	MAG	faint oed ydy *Freda* twenty_six	---	ST
+
+
+50, 1	163, 1-8	LOI	*oh* mae penblwydd hi *um* seventeenth of April	ST	ST
+50, 3	165, 1-10	LOI	mae cael *party* yn y *Fat_Cat* ar y nos Fercher	---	NST
+
+
+51, 1	166, 1-2	MAG	*oh* *cool*	---	NST
+
+
+52, 1	167, 1-5	LOI	mae o yn gwyliau Pasg	---	NSNT
+
+
+53, 1	168, 1-1	MAG	*ideal*	---	NST
+
+
+54, 1	169, 1-4	LOI	os gen ti *fancy*	---	NST
+
+
+55, 1	170, 1-14	MAG	dw i gael cynnig *um* mynd i *party* nos priodas *Gladys* o *Digartref* hefyd	---	NST
+
+
+56, 1	173, 1-4	LOI	pryd mae yn priodi	---	NSNT
+
+
+57, 1	174, 1-3	MAG	twenty_second of April	SNT	NSNT
+57, 2	175, 1-6	MAG	ar y dydd Sadwrn mae o	NSNT	NSNT
+57, 3	176, 1-8	MAG	ond mae o *just* deud *Magi_Jones* arno fo	NST	NST
+57, 4	177, 1-4	MAG	dw i am ofyn	NSNT	NSNT
+57, 5	177, 5-12	MAG	os geith ga i ofyn wrtha *Eddie* ddod	NST	NST
+57, 6	179, 1-7	MAG	achos dw i ddim yn nabod neb	NSNT	NSNT
+57, 7	180, 1-6	MAG	a mae *Ann_Andrews* wedi cael cynnig	---	NST
+
+
+58, 1	181, 1-9	LOI	na ti ddim isio mynd ar ben dy hun	SNT	NSNT
+58, 2	182, 1-5	LOI	*oh* for God's sake do	---	ST
+
+
+59, 1	183, 1-12	MAG	dw ddim yn *fancy* eistedd mewn gornel efo hi trwy yr nos	NST	NST
+59, 2	185, 1-8	MAG	*so* *aye* a wedyn mae pen_blwydd *Eddie* wedyn	---	NST
+
+
+60, 1	186, 1-6	LOI	be dan ni mynd i wneud	---	NSNT
+
+
+61, 1	187, 1-2	MAG	thirty_first dŵad	NSNT	SNT
+61, 2	188, 1-8	MAG	faswn i ddim yn meindio mynd i_ffwrdd eto	NSNT	NSNT
+61, 3	189, 1-7	MAG	timod dim mynd i_ffwrdd ond fath â	NSNT	NSNT
+61, 4	189, 8-13	MAG	wnest ti fi a *Frank* ia	---	NST
+
+
+62, 1	190, 1-2	LOI	weekend *yeah*	---	NST
+
+
+63, 1	191, 1-6	MAG	*just* am noson neu rywbeth *yeah*	---	NST
+
+
+64, 1	192, 1-2	LOI	*yeah* *ideal*	---	NST
+
+
+65, 1	193, 1-5	MAG	wna i drefnu fo *yeah*	---	NST
+
+
+66, 1	194, 1-4	LOI	lle wnawn ni fynd	---	NSNT
+
+
+67, 1	195, 1-5	MAG	*um* *um* rywle gwahanol *yeah*	---	NST
+
+
+68, 1	196, 1-5	LOI	ia o'n i meddwl Gaer	NSNT	NSNT
+68, 2	197, 1-11	LOI	ond fel ti yn deud same old same old ydy *yeah*	---	ST
+
+
+69, 1	198, 1-5	MAG	been there done that *yeah*	---	NST
+
+
+70, 1	199, 1-9	LOI	a ti a *Eddie* wedi bod i Gaer *lot*	---	NST
+
+
+71, 1	201, 1-7	MAG	ti gwybod lle fasai fi licio mynd	NSNT	NSNT
+71, 2	202, 1-4	MAG	a dw i gwybod	NSNT	NSNT
+71, 3	202, 5-9	MAG	mae pawb arall yn mynd	NSNT	NSNT
+71, 4	203, 1-3	MAG	*oh* mae cheesy	ST	ST
+71, 5	204, 1-2	MAG	mae bell	NSNT	NSNT
+71, 6	205, 1-3	MAG	mae yn ddrud	NSNT	NSNT
+71, 7	206, 1-10	MAG	baswn i wrth y modd mynd i *Blackpool* am weekend	ST	ST
+71, 8	206, 11-11	MAG	wsti	---	NSNT
+
+
+72, 1	207, 1-3	LOI	dw i erioed	NSNT	NSNT
+72, 2	207, 4-5	LOI	wedi bod	---	NSNT
+
+
+73, 1	208, 1-3	MAG	dw i erioed	NSNT	NSNT
+73, 2	208, 4-5	MAG	wedi bod	NSNT	NSNT
+73, 3	209, 1-2	MAG	mae *Graham*	NST	NST
+73, 4	209, 3-4	MAG	wedi bod	NSNT	NSNT
+73, 5	210, 1-4	MAG	a mae wedi deud	NSNT	NSNT
+73, 6	210, 5-9	MAG	bod o yn *fantastic* *yeah*	NST	NST
+73, 7	211, 1-7	MAG	ac o'n i siarad efo *Wendy* outreach	ST	ST
+73, 8	212, 1-5	MAG	ac oedd hi yn deud	NSNT	NSNT
+73, 9	212, 6-12	MAG	mae wedi gael weekend gorau erioed yna	---	SNT
+
+
+74, 1	213, 1-4	LOI	fe wnawn ni mynd	---	NSNT
+
+
+75, 1	214, 1-4	MAG	mae yn utter cheese	---	SNT
+
+
+76, 1	215, 1-2	LOI	*so* what	---	NST
+
+
+77, 1	216, 1-7	MAG	mae gymaint o bethau i wneud yna	---	NSNT
+
+
+78, 1	217, 1-5	LOI	ond mae o mor cheesy	SNT	SNT
+78, 2	217, 6-8	LOI	mae yn funny	---	SNT
+
+
+79, 1	218, 1-1	MAG	dyna	NSNT	NSNT
+79, 2	218, 2-4	MAG	ydy o *yeah*	NST	NST
+79, 3	219, 1-6	MAG	baswn i ddim yn meindio hynna	---	NSNT
+
+
+80, 1	220, 1-7	LOI	a *just* cael ryw B_and_B rhad ie	---	ST
+
+
+81, 1	221, 1-3	MAG	B_and_B yn union	---	SNT
+
+
+82, 1	222, 1-3	LOI	*oh* Duw *yeah*	---	NST
+
+
+83, 1	223, 1-2	MAG	shall we	NSNT	NSNT
+83, 2	225, 1-1	MAG	good	---	NSNT
+
+
+84, 1	226, 1-6	LOI	iawn *o_k* fydd raid ni *um*	NST	NST
+84, 2	227, 1-9	LOI	neu fydd raid fi dynnu bys allan ac *er*	NST	NST
+84, 3	227, 10-13	LOI	gofyn i *Harry* babysit_io	---	ST
+
+
+85, 1	230, 1-4	MAG	*yeah* fasai fo wneud	---	NST
+
+
+86, 1	231, 1-8	LOI	*oh* wneith o wneud efo digon o rybudd	---	NST
+
+
+87, 1	232, 1-3	MAG	wneith o wneud	NSNT	NSNT
+87, 2	233, 1-1	MAG	wneith	NSNT	NSNT
+87, 3	234, 1-7	MAG	*ideal* *oh* basai hynna yn *cool* hynna	---	NST
+
+
+88, 1	235, 1-2	LOI	*oh* *laugh*	---	NST
+
+
+89, 1	236, 1-1	MAG	*aye*	---	NST
+
+
+90, 1	239, 1-10	LOI	o'n i yn meddwl sbïo pwy oedd yn *er* twrio	NST	NST
+90, 2	241, 1-7	LOI	gynna i *fancy* mynd i *gig* arall	ST	NST
+90, 3	242, 1-7	LOI	got the *bug* ar hyn o bryd	---	ST
+
+
+91, 1	243, 1-4	MAG	o'n i dw i	NSNT	NSNT
+91, 2	243, 5-14	MAG	wedi bod yn sbïo achos bod fi wedi methu allan	---	NSNT
+
+
+92, 1	244, 1-4	LOI	atgoffa i amser cinio	NSNT	NSNT
+92, 2	244, 5-9	LOI	wnawn ni fynd i brynu	NSNT	NSNT
+92, 3	246, 1-3	LOI	*N_M_E* neu rywbeth	---	NST
+
+
+93, 1	247, 1-10	MAG	wnes i *um* brynu *album* newydd o diwrnod o blaen	---	NST
+
+
+94, 1	248, 1-1	LOI	*Jack_Johnson*	---	NST
+
+
+95, 1	249, 1-3	MAG	dw i wedi	NSNT	NSNT
+95, 2	252, 1-6	MAG	dw i wedi gwrando hanner o	NSNT	NSNT
+95, 3	253, 1-2	MAG	mae yn	NSNT	NSNT
+95, 4	253, 3-9	MAG	mae yn *just* same old same old	---	ST
+
+
+96, 1	254, 1-1	LOI	good	---	NSNT
+
+
+97, 1	255, 1-3	MAG	mae yn iawn	NSNT	NSNT
+97, 2	256, 1-4	MAG	mae yna ryw ddau	NSNT	NSNT
+97, 3	256, 5-12	MAG	gân lle o'n i yn eistedd yna meddwl	SNT	NSNT
+97, 4	257, 1-4	MAG	*yeah* I like this	ST	NST
+97, 5	258, 1-5	MAG	*yeah* dydy o heb wedi	---	NST
+
+
+98, 1	259, 1-6	LOI	ydy o yn *car* gen ti	---	NST
+
+
+99, 1	260, 1-8	MAG	na mae o yn tŷ yn *Felin* *yeah*	---	NST
+
+
+100, 1	261, 1-2	LOI	*ah* gutted	---	NST
+
+
+101, 1	262, 1-2	MAG	ond *er*	NST	NST
+101, 2	263, 1-5	MAG	ddo i â fo drosodd	NSNT	NSNT
+101, 3	265, 1-5	MAG	*aye* dydy o ddim bad	ST	ST
+101, 4	266, 1-4	MAG	iawn am tenner *aye*	---	ST
+
+
+102, 1	268, 1-5	LOI	*Tesco* yn dda fel yna	---	NST
+
+
+103, 1	270, 1-8	MAG	*Eddie* dydd Mercher *yeah* wnes i ddim gwaith	NST	NST
+103, 2	270, 9-9	MAG	naddo	---	NSNT
+
+
+104, 1	271, 1-5	LOI	*oh* o'n i amau *yeah*	---	NST
+
+
+105, 1	272, 1-2	MAG	*um* wnaethon	NST	NST
+105, 2	272, 3-9	MAG	wnaethon ni symud *er* y bedrooms *round*	ST	ST
+105, 3	272, 10-18	MAG	lle mae *office* *Eddie* yn y *room* *front* wan	NST	NST
+105, 4	273, 1-8	MAG	a wedyn mae stafell wely yn y cefn	NSNT	NSNT
+105, 5	273, 9-12	MAG	a mae *nice* *yeah*	NST	NST
+105, 6	275, 1-2	MAG	*lot* gwell	---	NST
+
+
+106, 1	276, 1-5	LOI	because mae yna *patio* *doors*	---	ST
+
+
+107, 1	278, 1-4	MAG	na na ond timod	NSNT	NSNT
+107, 2	278, 5-8	MAG	lle oedd y *er*	---	NST
+
+
+108, 1	279, 1-2	LOI	yr *office*	---	NST
+
+
+109, 1	282, 1-5	MAG	mae hwnna wedi symud wan	NSNT	NSNT
+109, 2	283, 1-3	MAG	*so* fydd o	NST	NST
+109, 3	283, 4-14	MAG	mae mynd i prynu bunk_bed i yr plant yn fan yna	---	SNT
+
+
+110, 1	284, 1-1	LOI	*cool*	---	NST
+
+
+111, 1	285, 1-10	MAG	a wedyn wnaethon ni brynu *just* *sheets* newydd a ballu	NST	NST
+111, 2	286, 1-11	MAG	a mae yn edrych yn really *nice* fath â *M_F_I* bedroom	---	ST
+
+
+112, 1	287, 1-1	LOI	*hehey*	---	NST
+
+
+113, 1	288, 2-5	MAG	be dw feddwl *aye*	---	NST
+
+
+114, 1	289, 1-2	LOI	da iawn	---	NSNT
+
+
+115, 1	290, 1-6	MAG	dydy o ddim yn manly though	---	SNT
+
+
+116, 1	292, 1-4	LOI	*Eddie* neu yr tŷ	---	NST
+
+
+117, 1	293, 1-2	MAG	y ddau	SNT	NSNT
+117, 4	296, 1-1	MAG	*oops*	ST	NST
+117, 6	301, 1-5	MAG	ti *Bangor* trwy dydd heddiw	---	NST
+
+
+118, 1	302, 1-1	LOI	yndw	---	NSNT
+
+
+119, 1	303, 1-1	MAG	*aye*	---	NST
+
+
+120, 1	304, 1-6	LOI	genna i llwyth pobl i_fewn wedyn	SNT	NSNT
+120, 2	306, 1-3	LOI	*oh* god oes	NST	ST
+120, 3	307, 1-1	LOI	mynedd	NSNT	NSNT
+120, 4	308, 1-8	LOI	*eh* ti gwybod pwy sy yn dod yn_ôl	NST	NST
+120, 5	309, 1-3	LOI	ti cofio *Ian*	---	NST
+
+
+121, 1	310, 1-1	MAG	*Ian*	---	NST
+
+
+122, 1	311, 1-11	LOI	oedd o yn dechrau pan o'n i yn dechrau efo *Nacro*	ST	NST
+122, 2	312, 1-6	LOI	anyway mae o yn dod yn_ôl	---	SNT
+
+
+123, 1	313, 1-4	MAG	gennyf fi ryw go	---	NSNT
+
+
+124, 1	314, 1-5	LOI	wnei di nabod y gwyneb	NSNT	NSNT
+124, 2	314, 6-9	LOI	dw i *sure* *yeah*	NST	NST
+124, 3	315, 1-3	LOI	efo ei gariad	---	NSNT
+
+
+125, 1	316, 1-4	MAG	o yn dod yn_ôl	---	NSNT
+
+
+126, 1	318, 1-6	LOI	mae edrych yn really da hefyd	SNT	SNT
+126, 2	320, 1-1	LOI	*aye*	ST	NST
+126, 3	321, 1-8	LOI	ella bod *Ken* yn dod i *party* gobeithio	NST	NST
+126, 4	323, 1-4	LOI	mae o on stand_by	---	SNT
+
+
+127, 1	325, 1-2	MAG	basai well	NSNT	NSNT
+127, 2	325, 3-5	MAG	gynna chdi beidio	---	NSNT
+
+
+128, 1	327, 1-8	LOI	mae o wedi cael *party* fo efo hi	---	NST
+
+
+129, 1	329, 1-3	MAG	mae hynna *yeah*	---	NST
+
+
+130, 1	330, 1-2	LOI	timod fi	NSNT	NSNT
+130, 2	330, 3-6	LOI	sy wedi trefnu fo	NSNT	NSNT
+130, 3	331, 1-4	LOI	fi sy yn talu	SNT	NSNT
+130, 4	332, 1-4	LOI	why should he get	---	NSNT
+
+
+131, 1	333, 1-6	MAG	mae hynna yn ddigon teg hynna	---	NSNT
+
+
+132, 1	334, 1-2	LOI	look in	SNT	NSNT
+132, 3	338, 1-6	LOI	mae *Jason* yn dŵad o *Molly's*	---	NST
+
+
+133, 1	339, 1-2	MAG	*oh* *cool*	---	NST
+
+
+134, 1	340, 1-3	LOI	efo yr kids	SNT	SNT
+134, 3	342, 1-10	LOI	*eh* ti mynd i *cinema* i weld y *thing* yna	---	NST
+
+
+135, 1	343, 1-3	MAG	dw isio mynd	---	NSNT
+
+
+136, 1	344, 1-4	LOI	mae yna *v_is_for_vendetta* *v_for_vendetta*	---	NST
+
+
+137, 1	345, 1-3	MAG	be ydy hwnna	---	NSNT
+
+
+138, 1	346, 1-5	LOI	*um* dw ddim yn gwybod	NST	NST
+138, 2	347, 1-5	LOI	mae yn dod allan heddiw	NSNT	NSNT
+138, 3	348, 1-5	LOI	mae yn edrych yn dda	---	NSNT
+
+
+139, 1	351, 1-8	MAG	dw isio gweld yr un ti newydd weld	NSNT	NSNT
+139, 2	352, 1-8	MAG	ond dw ddim yn gwybod pryd i fynd	NSNT	NSNT
+139, 3	353, 1-6	MAG	baswn i licio mynd nos Sadwrn	---	NSNT
+
+
+140, 1	354, 1-9	LOI	faint o *holidays* sy gyn ti ar_ôl i gymryd	---	NST
+
+
+141, 1	355, 1-1	MAG	tri	---	NSNT
+
+
+142, 1	356, 1-13	LOI	pam ti ddim yn cymryd fath â dydd Mawrth *off* a mynd i_fyny	---	NST
+
+
+143, 1	358, 1-2	MAG	am bod	NSNT	NSNT
+143, 2	358, 3-8	MAG	mae *Eddie* yn fath â rhech	NST	NST
+143, 3	358, 9-9	MAG	sti	---	NSNT
+
+
+144, 1	359, 1-2	LOI	*well* pam	NST	NST
+144, 2	360, 1-9	LOI	pam wnei di ddim cymryd dydd Mawrth *off* anyway	ST	ST
+144, 3	360, 10-14	LOI	a wna i gyfarfod chdi	SNT	NSNT
+144, 4	361, 1-5	LOI	because dw i yn Bae_Colwyn	NSNT	SNT
+144, 5	362, 1-8	LOI	a fydda i wedi gorffen dysgu hanner dydd	NSNT	NSNT
+144, 7	366, 1-5	LOI	awn ni i yr *cinema*	NST	NST
+144, 8	367, 1-5	LOI	awn ni i yr all	NSNT	SNT
+144, 9	367, 6-11	LOI	you *can* eat *buffet* yn *Pizza_Hut*	---	ST
+
+
+145, 1	368, 1-3	MAG	*oh* my god	---	NST
+
+
+146, 1	369, 1-4	LOI	a wedyn i *cinema*	---	NST
+
+
+147, 1	370, 1-11	MAG	that that sounds like a really *er* *nice* day *off* *yeah*	---	NST
+
+
+148, 1	372, 1-7	LOI	ga ga i roid ar itinerary fi	SNT	SNT
+148, 3	374, 1-2	LOI	*Dawn* centre	---	NST
+
+
+149, 1	376, 1-1	MAG	mae	NSNT	NSNT
+149, 2	376, 2-7	MAG	gynnon ni *team* meeting dydd Llun	NST	ST
+149, 3	376, 8-8	MAG	does	---	NSNT
+
+
+150, 1	377, 1-1	LOI	mynedd	---	NSNT
+
+
+151, 1	378, 1-6	MAG	ti yna trwy dydd ta be	---	NSNT
+
+
+152, 1	379, 1-1	LOI	yndw	NSNT	NSNT
+152, 2	379, 2-12	LOI	dw i yn gorod mynd i wneud community service wedyn diawliaid	---	SNT
+
+
+153, 1	381, 1-1	MAG	shit	---	NSNT
+
+
+154, 1	382, 1-6	LOI	a dyna lle o'n i meddwl	NSNT	NSNT
+154, 2	382, 7-12	LOI	baswn i yn cael canslo fo	SNT	NSNT
+154, 3	383, 1-1	LOI	nope	---	NSNT
+
+
+155, 1	384, 1-2	MAG	mynedd *yeah*	NST	NST
+155, 2	385, 1-10	MAG	dw i gorod mynd i dydd dydd Sul efo *dad*	---	NST
+
+
+156, 1	386, 1-2	LOI	dydd Sul	NSNT	NSNT
+156, 3	388, 1-1	LOI	pam	---	NSNT
+
+
+157, 1	389, 1-8	MAG	i wneud *um* y tyllau ar_gyfer y lluniau	NST	NST
+157, 2	390, 1-4	MAG	*so* wnes i ddeud	NST	NST
+157, 3	390, 5-9	MAG	baswn i mynd dydd Sul	SNT	NSNT
+157, 4	391, 1-2	MAG	excuse *me*	---	NST
+
+
+158, 1	392, 1-8	LOI	be i roid y yr *art* work i_fyny	---	ST
+
+
+159, 1	393, 1-4	MAG	*well* *just* i *well*	---	NST
+
+
+160, 1	394, 1-9	LOI	*so* ti mynd i cleimio yr oriau yna nôl	---	NST
+
+
+161, 1	395, 1-10	MAG	o'n i ddim yn mynd i ond dw i yn	---	NSNT
+
+
+162, 1	396, 1-2	LOI	too *right*	---	NST
+
+
+163, 1	397, 1-7	MAG	timod *Hayley* fath â wedi prynu *um*	---	NST
+
+
+164, 1	398, 1-2	LOI	jolpen wirion	NSNT	NSNT
+164, 2	398, 3-7	LOI	be oedd hi wneud yn	NSNT	NSNT
+164, 3	398, 8-12	LOI	roid *varnish* arno fo anyway	---	ST
+
+
+165, 1	399, 1-5	MAG	mae wedi sboilio fo completely	SNT	SNT
+165, 2	400, 1-4	MAG	mae wedi sboilio fo	NSNT	NSNT
+165, 3	401, 1-5	MAG	oedd hwnna yn really da	NSNT	SNT
+165, 4	402, 1-7	MAG	oedd y plant yn hapus efo fo	NSNT	NSNT
+165, 5	403, 1-6	MAG	fi oedd efo yr plant ddoe	NSNT	NSNT
+165, 6	404, 1-5	MAG	*oh* mae hwnna wedi sbwylio	NST	NST
+165, 7	405, 1-5	MAG	mae yn edrych yn afiach	NSNT	NSNT
+165, 8	406, 1-8	MAG	ac o'n i *just* sefyll yna fath â	NST	NST
+165, 9	407, 1-2	MAG	*well* timod	NST	NST
+165, 10	407, 3-10	MAG	fasai rywun efo ychydig o frain heb wedi	NSNT	SNT
+165, 11	407, 11-16	MAG	roid y fath peth arno fo	NSNT	NSNT
+165, 12	408, 1-4	MAG	duw *varnish* ryw *varnish*	NST	NST
+165, 13	409, 1-4	MAG	*varnish* drws wneith hwnna	---	NST
+
+
+166, 1	410, 1-3	LOI	fedri di ddim	---	NSNT
+
+
+167, 1	411, 1-5	MAG	mae hi *just* yn meddwl	NST	NST
+167, 2	411, 6-12	MAG	bod yna *quick* fixes i bob_dim *yeah*	NST	ST
+167, 3	412, 1-4	MAG	ond does yna ddim	---	NSNT
+
+
+168, 1	413, 1-1	LOI	dyna	NSNT	NSNT
+168, 2	413, 2-6	LOI	ydy o *yeah* *quick* fix	NST	ST
+168, 4	415, 1-5	LOI	meet the *target* *job* done	---	NST
+
+
+169, 1	416, 1-8	MAG	a mae wedi sbwylio gwaith y pobl ifanc	---	NSNT
+
+
+170, 1	417, 1-2	LOI	*yeah* cytuno	NST	NST
+170, 2	418, 1-5	LOI	mae yr llall yn *nice*	---	NST
+
+
+171, 1	419, 1-5	MAG	mae yr llall yn *cool*	---	NST
+
+
+172, 1	420, 1-3	LOI	gofyn iddi because	SNT	SNT
+172, 2	420, 4-10	LOI	oedd hi wneud *um* papier_mâché efo rywun	NST	ST
+172, 3	420, 11-14	LOI	*so* mae raid bod	NST	NST
+172, 4	420, 15-17	LOI	gynni yr *glue*	---	NST
+
+
+173, 1	421, 1-6	MAG	wnaethon ni ffeindio yr *glue* ddoe	---	NST
+
+
+174, 1	422, 1-3	LOI	*oh* *nice* one	---	NST
+
+
+175, 1	423, 1-6	MAG	yn yr *office* wnes i awgrymu	NST	NST
+175, 2	424, 1-4	MAG	wedyn wnaethon nhw mynd	NSNT	NSNT
+175, 3	425, 1-2	MAG	*oh* mae	NST	NST
+175, 4	425, 3-4	MAG	gynnon ni	NSNT	NSNT
+175, 5	426, 1-7	MAG	*so* wnaethon nhw wneud o eu hunain	---	NST
+
+
+176, 1	427, 1-2	LOI	da iawn	---	NSNT
+
+
+177, 1	428, 1-8	MAG	*oh* *yeah* *so* mae hwnna mynd i edrych	NST	NST
+177, 2	429, 1-6	MAG	ond dydy o ddim yn deg	NSNT	NSNT
+177, 3	431, 1-6	MAG	oedd hi wedi prynu *um* *screwdriver*	NST	NST
+177, 4	431, 7-12	MAG	werth nine ninety_nine i wneud y	---	SNT
+
+
+178, 1	432, 1-2	LOI	i be	---	NSNT
+
+
+179, 1	433, 1-5	MAG	i wneud y tyllau yma	NSNT	NSNT
+179, 2	434, 1-5	MAG	ac o'n i fath â	NSNT	NSNT
+179, 3	435, 1-12	MAG	*Hayley* dydy hwnna ddim yn mynd i fod yn ddigon da ia	NST	NST
+179, 4	436, 2-6	MAG	wnes i ffonio *dad* deud	NST	NST
+179, 5	437, 1-6	MAG	*dad* ga i fenthyg *um* *drill*	NST	NST
+179, 6	438, 1-10	MAG	gei di fenthyg o ond gei di ddim iwsio fo	NSNT	NSNT
+179, 7	439, 1-5	MAG	meddai fo fel yna *yeah*	NST	NST
+179, 8	440, 1-6	MAG	ac o'n i fath â God	---	SNT
+
+
+180, 1	441, 1-8	LOI	*hey* ti isio dod i tŷ fi wedyn	NST	NST
+180, 2	443, 1-3	LOI	dw i angen	NSNT	NSNT
+180, 3	443, 4-10	LOI	roid *curtain* pole i_fyny ar drws cefn	---	ST
+
+
+181, 1	444, 1-1	MAG	*cool*	ST	NST
+181, 2	445, 1-6	MAG	*oh* yn ymyl y drws *yeah*	---	NST
+
+
+182, 1	448, 1-7	LOI	*oh* fydd raid fi sortio heating hefyd	NST	ST
+182, 3	450, 1-2	LOI	mae yr	---	NSNT
+
+
+183, 1	451, 1-1	MAG	bydd	NSNT	NSNT
+183, 2	452, 1-8	MAG	ti yn deud hynna ers mor hir wan	---	NSNT
+
+
+184, 1	453, 1-11	LOI	ond mae yr heater yn gwaelod wedi pacio fyny wan hefyd	---	SNT
+
+
+185, 1	454, 1-4	MAG	o'ch chdi yn deud	NSNT	NSNT
+185, 2	455, 1-3	MAG	oeddech chi rhynnu	---	NSNT
+
+
+186, 1	457, 1-6	LOI	teimlo *draft* yn dod trwy wan	---	NST
+
+
+187, 1	458, 1-9	MAG	*er* dw i teimlo *draft* yn tŷ chi *yeah*	---	NST
+
+
+188, 1	459, 1-7	LOI	dw i yn teimlo yn hen *yeah*	NST	NST
+188, 2	459, 8-11	LOI	dw i yn gwybod	---	NSNT
+
+
+189, 1	460, 1-10	MAG	mae *nice* o flaen tân ond ti mynd i *toilet*	NST	NST
+189, 2	460, 11-13	MAG	a mae yn	NSNT	NSNT
+189, 3	461, 1-14	MAG	na i fod yn fair mae tŷ chdi *lot* cynnesach na tŷ *Graham* *yeah*	NST	ST
+189, 4	462, 1-14	MAG	yn tŷ *Graham* mae yn gynnes *nice* efo yr tân yn y living *room*	ST	ST
+189, 5	464, 1-10	MAG	ti mynd *just* allan i kitchen a dyna fo *yeah*	NST	ST
+189, 6	465, 1-3	MAG	timod ti rhynnu	NSNT	NSNT
+189, 7	466, 1-10	MAG	dw i ddim yn teimlo fel yna yn tŷ chdi	NSNT	NSNT
+189, 8	467, 1-11	MAG	*so* be ti wneud weekend yma heblaw am y *party* felly	---	ST
+
+
+190, 1	468, 1-9	LOI	mae *Ken* efo *Izzy* un tan bump dydd Sadwrn	NST	NST
+190, 2	469, 1-5	LOI	*so* dw ddim yn gwybod	NST	NST
+190, 3	470, 1-8	LOI	ella a i am dro neu rywbeth neu	NSNT	NSNT
+190, 4	472, 1-14	LOI	o'n i meddwl mynd am *run* eto ond mae yn dibynnu ar y annwyd	NST	NST
+190, 5	474, 1-4	LOI	dw ddim yn gwybod	---	NSNT
+
+
+191, 1	475, 1-16	MAG	*well* os ti isio dod am ginio efo fi a *Bridget* mae croeso chdi ddod *yeah*	---	NST
+
+
+192, 1	476, 1-1	LOI	*cool*	---	NST
+
+
+193, 1	478, 1-8	MAG	dw ddim wedi gweld *Bridget* yn iawn ers_talwm	NST	NST
+193, 2	479, 1-9	MAG	a wnaeth hi gynnig fi fynd draw yna neithiwr	NSNT	NSNT
+193, 3	480, 1-7	MAG	ond oedd gen i ddim mynedd neithiwr	NSNT	NSNT
+193, 4	481, 1-11	MAG	*so* o'n i meddwl might *as* *well* cinio dydd Sadwrn timod	---	ST
+
+
+194, 1	483, 1-2	LOI	duw *yeah*	NST	NST
+194, 2	484, 1-9	LOI	dw i mynd i tŷ *Luke* ar_ôl gwaith heddiw	NST	NST
+194, 3	486, 1-5	LOI	os gen ti *fancy* paned	---	NST
+
+
+195, 1	487, 1-2	MAG	*yeah* definitely	---	NST
+
+
+196, 1	489, 1-5	LOI	*oh* bol fi yn rymblo	ST	NST
+196, 3	491, 1-3	LOI	*hi* thank you	---	NST
+
+
+197, 1	492, 1-7	MAG	*camera* *crews* *camera* *Big_Brother* without the *cameras*	ST	NST
+197, 3	494, 1-2	MAG	mae rhyfedd	NSNT	NSNT
+197, 4	494, 3-7	MAG	bod yn_ôl yn adeilad yma	---	NSNT
+
+
+198, 1	495, 1-4	LOI	pryd wnest ti adael	---	NSNT
+
+
+199, 1	496, 1-4	MAG	two thousand and one	NSNT	NSNT
+199, 2	498, 1-2	MAG	god almighty	---	NSNT
+
+
+200, 1	499, 1-7	LOI	I wonder pryd o'n i yma then	SNT	SNT
+200, 2	500, 1-3	LOI	ychydig o fisoedd	---	NSNT
+
+
+201, 1	501, 1-3	MAG	ym mha bryd	SNT	NSNT
+201, 2	502, 1-1	MAG	ninety	SNT	NSNT
+201, 3	503, 1-4	MAG	wnes i gychwyn ninety_nine	---	SNT
+
+
+202, 1	504, 1-1	LOI	ninety_nine	NSNT	NSNT
+202, 2	505, 1-1	LOI	ninety_eight	---	NSNT
+
+
+203, 1	506, 1-4	MAG	yn *just* methu ein_gilydd	---	NST
+
+
+204, 1	507, 1-3	LOI	*yeah* eto *yeah*	---	NST
+
+
+205, 1	508, 1-2	MAG	God yndy	NSNT	SNT
+205, 2	509, 1-3	MAG	yn union *yeah*	ST	NST
+205, 3	510, 1-11	MAG	God o'n i ddim yn troi i_fyny *lectures* a ballu de	NST	ST
+205, 4	511, 1-14	MAG	pan o'n i yn fath â oedd hi ddeud o'n i mynd ar goll	---	NSNT
+
+
+206, 1	512, 1-1	LOI	*aye*	ST	NST
+206, 2	513, 1-7	LOI	oedden nhw all over the place *yeah*	ST	ST
+206, 3	514, 1-15	LOI	dw i yn cofio gynno fi rei fan yma a gynno fi rei dros lôn	---	NSNT
+
+
+207, 1	515, 1-7	MAG	oedd gynno fi rei dros ffordd hefyd	NSNT	NSNT
+207, 2	517, 1-5	MAG	be oedda chdi wneud yma	---	NSNT
+
+
+208, 1	518, 1-8	LOI	*um* *business* *studies* and social administration neu rywbeth	---	ST
+
+
+209, 1	520, 1-4	MAG	dw ddim yn gwybod	NSNT	NSNT
+209, 2	520, 5-9	MAG	os ydy *Betty_Brown* dal yma	NST	NST
+209, 3	521, 1-6	MAG	o'n i yn licio hi de	NSNT	NSNT
+209, 4	522, 1-9	MAG	dw i dal yn iwsio hi fath â reference	SNT	SNT
+209, 5	525, 1-2	MAG	mae bob	NSNT	NSNT
+209, 6	525, 3-6	MAG	tro wneud chwarae teg	---	NSNT
+
+
+210, 1	526, 1-4	LOI	weles i *um* reference	ST	ST
+210, 2	526, 5-12	LOI	wnaeth *Jenny* sgwennu i fi diwrnod o blaen	NST	NST
+210, 3	527, 1-6	LOI	wnes i ddangos o i chdi	NSNT	NSNT
+210, 4	528, 1-4	LOI	oedd glowing chwarae teg	---	SNT
+
+
+211, 1	529, 1-6	MAG	na dw ddim wedi weld o	NSNT	NSNT
+211, 2	529, 7-9	MAG	dw ddim meddwl	---	NSNT
+
+
+212, 1	530, 1-6	LOI	mae nhw gadw hwnna wedyn *um*	NST	NST
+212, 2	531, 1-18	LOI	ar_ôl exit interview fi dw ddim yn meddwl cha i byth reference gen *er* neb arall o_fewn *Nacro*	---	ST
+
+
+213, 1	532, 1-11	MAG	duw dw i ddim isio reference gynno neb arall ond *Hayley*	---	ST
+
+
+214, 1	536, 1-2	LOI	dyna *yeah*	NST	NST
+214, 2	536, 3-8	LOI	sut dw i yn gweld pethau	---	NSNT
+
+
+215, 1	537, 1-10	MAG	dw isio ffonio wedyn am y probation trainee *officer* yna	---	ST
+
+
+216, 1	538, 1-10	LOI	cofio bod nhw mynd drwy *lot* o newid hefyd *yeah*	NST	NST
+216, 2	539, 1-4	LOI	*so* ella bod hynna	NST	NST
+216, 3	539, 5-7	LOI	mae o yn	NSNT	NSNT
+216, 4	539, 8-15	LOI	mae yn dda mewn un ffordd ond eto	NSNT	NSNT
+216, 5	539, 16-26	LOI	mae o out of the frying *pan* into the fire hefyd	---	ST
+
+
+217, 1	540, 1-7	MAG	ym pa pa ystyr ti yn meddwl	---	NSNT
+
+
+218, 1	541, 1-12	LOI	efo yn dod trwodd maen nhw wedi newid y *system* i_gyd wan	---	NST
+
+
+219, 1	542, 1-1	MAG	*sorry*	---	NST
+
+
+220, 1	543, 1-14	LOI	*so* mae yr cyrsiau i_gyd blwyddyn nesa yn mynd i gael eu planio allan	NST	NST
+220, 2	545, 1-4	LOI	fath â dyna pam	NSNT	NSNT
+220, 3	545, 5-15	LOI	mae *Hayley* yn mynd ar yr *E_T_S* training ac *Kathy* hefyd	NST	ST
+220, 4	547, 1-4	LOI	*so* fyddan nhw medru	NST	NST
+220, 5	547, 5-12	LOI	rhoid i_fewn am y *tender* i dilifro hwnna	NST	NST
+220, 6	548, 1-5	LOI	*so* dydy o ddim mor	---	NST
+
+
+221, 1	549, 1-4	MAG	i dilifro yr training	SNT	SNT
+221, 2	551, 1-7	MAG	*Kathy* yn dilifro yr training i fi	---	ST
+
+
+222, 1	552, 1-4	LOI	na ddim i chdi	---	NSNT
+
+
+223, 1	553, 1-4	MAG	*oh* o'n i feddwl	---	NST
+
+
+224, 1	554, 1-7	LOI	ond maen nhw yn tynnu yr gwaith	NSNT	NSNT
+224, 2	554, 8-13	LOI	oedd y *P_Os* yn wneud wan	NST	NST
+224, 3	554, 14-22	LOI	ac mae pobl fath â *Nacro* mynd amdano fo	NST	NST
+224, 4	555, 1-2	LOI	dyna pam	NSNT	NSNT
+224, 5	555, 3-7	LOI	mae *Kath* yn cachu *bricks*	ST	NST
+224, 7	557, 1-9	LOI	because os dydy ddim yn cyrraedd y *targets* wan	NST	ST
+224, 8	557, 10-18	LOI	sut mae nhw mynd i gael *contracts* blwyddyn nesa	---	NST
+
+
+225, 1	559, 1-2	MAG	wan mae	NSNT	NSNT
+225, 2	559, 3-3	MAG	yr	NSNT	NSNT
+225, 3	559, 4-11	MAG	mae yr lle i_gyd yn disgyn i ddarnau	NSNT	NSNT
+225, 4	561, 1-6	MAG	*oh* unwaith bydda chdi wedi fynd	NST	NST
+225, 5	561, 8-12	MAG	geith nhw weld y gwahaniaeth	NSNT	NSNT
+225, 6	562, 1-4	MAG	a bydda i yna	NSNT	NSNT
+225, 7	563, 1-5	MAG	achos dw ddim yn mynd	---	NSNT
+
+
+226, 1	564, 1-8	LOI	dw i *just* yn mynd i chwerthin *yeah*	---	NST
+
+
+227, 1	565, 2-5	MAG	mae nhw mynd i	NSNT	NSNT
+227, 2	566, 1-6	MAG	mae cachu mynd i hitio *fan*	---	NST
+
+
+228, 1	567, 1-17	LOI	ti yn gwybod be ddeudodd *Luke* wrtha fi diwrnod o blaen yn y cyfarfod yna dydd Llun	NST	NST
+228, 2	568, 1-9	LOI	wedyn ddoth o lawr i yr *office* am baned	NST	NST
+228, 3	569, 1-3	LOI	lle ydy *Dolgellau*	NST	NST
+228, 4	570, 1-3	LOI	lle mae o	NSNT	NSNT
+228, 5	571, 1-2	LOI	ddeud wrtho	SNT	NSNT
+228, 6	572, 1-10	LOI	for God's sake ti yn byw yn fan yma erioed	---	SNT
+
+
+229, 1	573, 1-5	MAG	faint oed ydy o fifty	SNT	SNT
+229, 2	575, 1-2	MAG	rywbeth felly	NSNT	NSNT
+229, 3	576, 1-9	MAG	mae wedi gael ei ddwyn i_fyny yn fan yma	NSNT	NSNT
+229, 4	576, 10-15	MAG	a dydy o ddim yn gwybod	NSNT	NSNT
+229, 5	576, 16-18	MAG	lle mae *Dolgellau*	---	NST
+
+
+230, 1	578, 1-2	LOI	I mean	SNT	NSNT
+230, 2	578, 3-6	LOI	mae raid bod o	NSNT	NSNT
+230, 3	578, 7-11	LOI	wedi bod lawr i Gaerdydd	NSNT	NSNT
+230, 4	579, 1-5	LOI	pwy sydd ddim wedi bod	NSNT	NSNT
+230, 6	581, 1-8	LOI	a ti yn gorod pasio fan yna fynd	---	NSNT
+
+
+231, 1	582, 1-1	MAG	dyna	NSNT	NSNT
+231, 2	582, 2-10	MAG	be mae byw yn Holyhead yn wneud i chdi	NSNT	SNT
+231, 4	585, 1-6	MAG	dw i heb wedi gweld lliw	NSNT	NSNT
+231, 5	585, 7-16	MAG	ei dîn o ers ers iddo fo symud i *Llangefni*	---	NST
+
+
+232, 1	586, 1-7	LOI	dw i ddim wedi gweld o llawer	NSNT	NSNT
+232, 2	586, 8-8	LOI	sti	NSNT	NSNT
+232, 3	587, 1-15	LOI	*um* wnes i weld tŷ yn papur yn *Rachub* seventy *grand* isio llwyth o waith	ST	ST
+232, 4	589, 1-8	LOI	tempted iawn i mynd i pigo details i_fyny	---	SNT
+
+
+233, 1	590, 1-1	MAG	*cool*	---	NST
+
+
+234, 1	591, 1-6	LOI	dw ddim gwybod faint o mortgage	---	SNT
+
+
+235, 1	592, 1-6	MAG	mae *Rachub* yn lle *nice* *yeah*	---	NST
+
+
+236, 1	593, 1-7	LOI	dw i ddim yn meindio *Rachub* o_gwbl	---	NST
+
+
+237, 1	594, 1-1	MAG	*aye*	ST	NST
+237, 2	595, 1-13	MAG	*oh* wnes i wario *lot* o amser yn *Rachub* pan o'n i yn	NST	NST
+237, 3	595, 14-20	MAG	pan wnes i gyfarfod *Martin* *boy* yna	NST	NST
+237, 4	598, 1-7	MAG	mae gynno fo tŷ really *nice* yna	NST	ST
+237, 5	599, 1-5	MAG	fath â efo character *yeah*	ST	ST
+237, 6	601, 1-1	MAG	*nice*	ST	NST
+237, 7	603, 1-13	MAG	a dydy o ddim yn bell o *Bethesda* dim yn bell o *Bangor*	---	NST
+
+
+238, 1	604, 1-2	LOI	na exactly	---	SNT
+
+
+239, 1	605, 1-8	MAG	dydy o ddim yn bell o nunlle nac	---	NSNT
+
+
+240, 1	606, 1-5	LOI	*yeah* mae prisiau yn rhad	NST	NST
+240, 2	608, 1-3	LOI	ac oedd o	NSNT	NSNT
+240, 3	608, 4-6	LOI	dw i *sure*	NST	NST
+240, 4	608, 7-11	LOI	oedd hwnna three bedroomed hefyd	---	SNT
+
+
+241, 1	609, 1-3	MAG	*bloody* hell *yeah*	---	NST
+
+
+242, 1	610, 1-6	LOI	because ideally dw isio three bedroom	---	SNT
+
+
+243, 1	611, 1-5	MAG	*yeah* *yeah* digon o lle	---	NST
+
+
+244, 1	612, 1-4	LOI	ond *as* if timod	NST	ST
+244, 2	612, 5-11	LOI	fedra i fforddio hynna yn rywle arall	SNT	NSNT
+244, 3	614, 1-1	LOI	*so*	ST	NST
+244, 4	615, 1-8	LOI	ac oedd yna un arall yn *er* *Clwt_y_Bont*	NST	NST
+244, 5	616, 1-9	LOI	o'n i wedi gweld o ychydig o fisoedd yn_ôl	NSNT	NSNT
+244, 6	617, 1-13	LOI	*um* fath â end *terrace* of three *er* eitha newydd hundred and fifteen	ST	ST
+244, 7	618, 1-7	LOI	a mae *Clwt_y_Bont* yn iawn hefyd because	ST	ST
+244, 8	618, 8-12	LOI	dydy o ddim yn *Deiniolen*	NST	NST
+244, 9	620, 1-2	LOI	ond *er*	---	NST
+
+
+245, 1	621, 1-6	MAG	pris fel yna ti isio *yeah*	---	NST
+
+
+246, 1	622, 1-9	LOI	dw ddim yn meddwl ga i gymaint â hynna	NSNT	NSNT
+246, 2	622, 10-15	LOI	sti ddim ar cyflog *just* fi	---	NST
+
+
+247, 1	624, 1-4	MAG	maen nhw rhy ddrud	---	NSNT
+
+
+248, 1	625, 1-3	LOI	*oh* mae *stupid*	---	NST
+
+
+249, 1	626, 1-17	MAG	*aye* *well* mae fi a *Eddie* wedi talu *council* *tax* a *electric* a *phone* a dŵr wan	---	NST
+
+
+250, 1	627, 1-2	LOI	do wir	---	NSNT
+
+
+251, 1	628, 1-7	MAG	dan ni *glear* efo hynna i_gyd wan	---	NST
+
+
+252, 1	629, 1-2	LOI	no way	---	NSNT
+
+
+253, 1	630, 1-5	MAG	wnes i gyfarfod o ar_ôl	NSNT	NSNT
+253, 2	630, 6-12	MAG	bod yn *Blaenau* diwrnod blaen yn *Gaernarfon*	NST	NST
+253, 3	631, 1-6	MAG	es i *bank* tynnu pres allan	NST	NST
+253, 4	632, 1-7	MAG	oedd o efo ei *wad* o bres	NST	NST
+253, 5	633, 1-6	MAG	wnaeth o dalu mwy na fi	SNT	NSNT
+253, 6	634, 1-5	MAG	which dw i falch *yeah*	---	ST
+
+
+254, 1	635, 1-2	LOI	fair enough	---	NSNT
+
+
+255, 1	636, 1-5	MAG	wnes i roi pedwar cant	NSNT	NSNT
+255, 2	637, 1-2	MAG	wnaeth o	NSNT	NSNT
+255, 3	637, 3-5	MAG	roid tua mil	NSNT	NSNT
+255, 4	638, 1-5	MAG	fel yna dylai fo fod	NSNT	NSNT
+255, 5	638, 6-7	MAG	de *Lois*	---	NST
+
+
+256, 1	639, 1-2	LOI	too *right*	ST	NST
+256, 2	641, 1-11	LOI	*well* ie because swings and *roundabouts* ti wedi wneud *lot* do	---	ST
+
+
+257, 1	642, 1-2	MAG	yn union	NSNT	NSNT
+257, 2	643, 1-2	MAG	*so* mae	NST	NST
+257, 3	643, 3-15	MAG	gynnon ni yr *rent* yma i dalu sydd yn bump cant yr un	NST	NST
+257, 4	644, 1-4	MAG	mae gynno fi fel	NSNT	NSNT
+257, 5	644, 5-8	MAG	mae gynno fi though	SNT	SNT
+257, 6	645, 1-3	MAG	gynno fo fo	SNT	NSNT
+257, 7	646, 1-1	MAG	*just*	---	NST
+
+
+258, 1	647, 1-3	LOI	and that's it	---	NSNT
+
+
+259, 1	648, 1-2	MAG	move on	---	NSNT
+
+
+260, 1	649, 1-2	LOI	da iawn	---	NSNT
+
+
+261, 1	650, 1-4	MAG	oedd digwydd mor sydyn	NSNT	NSNT
+261, 2	651, 1-12	MAG	o'n i timod o'n i yn disgwyl *o_k* talu hwn talu llall	NST	NST
+261, 3	652, 1-3	MAG	a wedyn mae	NSNT	NSNT
+261, 4	652, 4-6	MAG	mae *just* wedi	---	NST
+
+
+262, 1	653, 1-6	LOI	a sut ti yn teimlo wan	---	NSNT
+
+
+263, 1	654, 1-1	MAG	relieved	SNT	NSNT
+263, 2	655, 1-4	MAG	dw i yn falch	NSNT	NSNT
+263, 3	655, 5-14	MAG	bod fi ddim yn talu *rent* yn *Felin* na er	NST	NST
+263, 4	655, 15-20	MAG	bod fi gwario *lot* amser yna	---	NST
+
+
+264, 1	656, 1-10	LOI	sut mae o yn cope_io efo hynna i_gyd ar ben	NSNT	SNT
+264, 2	656, 11-12	LOI	ei hun	---	NSNT
+
+
+265, 1	657, 1-6	MAG	dw i ddim yn *sure* *yeah*	NST	NST
+265, 3	659, 1-4	MAG	mae newydd werthu *car*	NST	NST
+265, 4	660, 1-4	MAG	*so* mae o meddwl	NST	NST
+265, 5	660, 5-8	MAG	bod o yn flash	SNT	SNT
+265, 6	661, 1-8	MAG	mae isio mynd yn_ôl wan i cyflog *normal*	NST	NST
+265, 7	661, 9-9	MAG	does	NSNT	NSNT
+265, 8	662, 1-4	MAG	*so* gawn ni weld	NST	NST
+265, 9	663, 1-14	MAG	ond tydw ddim yn meindio helpu allan efo prynu bwyd a ballu am bod	NSNT	NSNT
+265, 10	663, 15-22	MAG	dw i yn byw yna ti gwybod *yeah*	---	NST
+
+
+266, 1	664, 1-6	LOI	na mae hynna mond yn deg	---	NSNT
+
+
+267, 1	666, 1-10	MAG	ac efo *bill* *phone* geith o bres yn_ôl gynno *T_Mark*	NST	NST
+267, 2	668, 1-8	MAG	a *just* long mae o yn cleimio fo	NST	ST
+267, 3	668, 9-17	MAG	mae hynna mynd i fod yn *help* iddo fo	NST	NST
+267, 4	669, 1-9	MAG	a tydw ddim yn meindio talu tuag at pethau	NSNT	NSNT
+267, 5	671, 1-1	MAG	o_gwbl	NSNT	NSNT
+267, 6	672, 1-5	MAG	ond dw i ddim yn	NSNT	NSNT
+267, 7	672, 6-18	MAG	dw i ddim yn barod i fynd yn_ôl i_fewn i yr sefyllfa yna	NSNT	NSNT
+267, 8	673, 1-4	MAG	ond dw i yn	---	NSNT
+
+
+268, 1	674, 1-8	LOI	ti yn gweld dy hun yn symud yn_ôl	---	NSNT
+
+
+269, 1	675, 1-6	MAG	dim i yr *flat* yna de	NST	NST
+269, 2	678, 1-4	MAG	dim y *flat* yna	ST	NST
+269, 3	679, 1-3	MAG	moved on *yeah*	ST	NST
+269, 4	680, 1-11	MAG	fath â os dan ni mynd i gael rywle lle nesa	NSNT	NSNT
+269, 5	680, 12-13	MAG	ydy o	NSNT	NSNT
+269, 6	680, 14-18	MAG	dan ni yn prynu *yeah*	NST	NST
+269, 7	681, 2-9	MAG	dw i ddim yn rentio eto *yeah* *Lois*	NST	NST
+269, 8	682, 1-5	MAG	dw i yn rentio ers	NSNT	NSNT
+269, 9	682, 6-8	MAG	bod fi nineteen	SNT	SNT
+269, 10	685, 1-7	MAG	dw i wedi gwario miloedd ar filoedd	---	NSNT
+
+
+270, 1	686, 1-15	LOI	ac os ti meddwl amdano fo faint o flynyddoedd i_fewn i mortgage faset ti wan	---	SNT
+
+
+271, 1	687, 1-3	MAG	*mmm* God *yeah*	---	NST
+
+
+272, 1	688, 1-13	LOI	dw i yn difaru yn enaid bod fi ddim wedi tynnu mys allan	NSNT	NSNT
+272, 2	688, 14-14	LOI	sti	---	NSNT
+
+
+273, 1	689, 1-7	MAG	pan oedd y prisiau yn iawn *yeah*	---	NST
+
+
+274, 1	691, 1-8	LOI	wnes i ddeud wrtho chdi am y capel	NSNT	NSNT
+274, 2	691, 9-12	LOI	wnes i fynd amdan	SNT	NSNT
+274, 3	692, 1-10	LOI	ten *grand* a mae hyn yn mynd yn_ôl dipyn wan	ST	ST
+274, 4	693, 1-8	LOI	ten *grand* cash oedden nhw isio yn *Dinorwic*	NST	ST
+274, 5	694, 1-4	LOI	oedd o yn lovely	SNT	SNT
+274, 6	695, 1-9	LOI	dim llawer o yr ardd ond dim graves nothing	---	SNT
+
+
+275, 1	696, 1-2	MAG	ten *grand*	---	NST
+
+
+276, 1	697, 1-10	LOI	*um* oedd gynno fo stained *glass* window length un ochr	NST	ST
+276, 2	698, 1-3	LOI	oedd o *fantastic*	ST	NST
+276, 3	699, 1-5	LOI	views drost y valley gyd	SNT	SNT
+276, 4	700, 1-7	LOI	anyway ges i yn gazump_io ar hwnna	NSNT	SNT
+276, 5	701, 1-11	LOI	oedd gynno fi ten *grand* cash yn disgwyl gen nain *yeah*	ST	ST
+276, 7	703, 1-5	LOI	anyway *Ken* *as* he was	ST	NST
+276, 8	703, 6-13	LOI	timod mynd o un *job* i llall frittered	NST	ST
+276, 9	703, 14-16	LOI	it all away	---	NSNT
+
+
+277, 1	704, 1-3	MAG	*oh* my God	---	NST
+
+
+278, 1	705, 1-3	LOI	do bob ceiniog	---	NSNT
+
+
+279, 1	707, 1-8	MAG	*oh* basai hynna wneud fi yn sâl *Lois*	---	NST
+
+
+280, 1	708, 1-1	LOI	gutted	---	NSNT
+
+
+281, 1	710, 1-2	MAG	baswn i	NSNT	NSNT
+281, 2	710, 3-8	MAG	baswn i isio dyrnu *Ken* *yeah*	---	NST
+
+
+282, 1	711, 1-6	LOI	o'n i methu sbïo arno fo	---	NSNT
+
+
+283, 1	712, 1-7	MAG	*oh* mae hynna *just* yn too much	---	ST
+
+
+284, 1	713, 1-3	LOI	a dyna rheswm	NSNT	NSNT
+284, 2	713, 4-9	LOI	dw i ddim wedi cael mortgage	SNT	SNT
+284, 3	713, 10-12	LOI	ydy fo *yeah*	NST	NST
+284, 4	714, 1-10	LOI	diolch i Dduw bod *er* hynna ddim yn *problem* mwy	---	NST
+
+
+285, 1	715, 1-2	MAG	*well* ie	NST	NST
+285, 2	716, 1-1	MAG	dyna	NSNT	NSNT
+285, 3	716, 2-15	MAG	ydy o *yeah* ti yn wastio amser yn disgwyl rywun sortio ei hunan allan	---	NST
+
+
+286, 1	717, 1-9	LOI	*aye* pan ti yn barod do it yourself *yeah*	---	ST
+
+
+287, 1	718, 1-6	MAG	ti yn methu cyfle *yeah* *yeah*	ST	NST
+287, 2	719, 1-2	MAG	God *yeah*	---	NST
+
+
+288, 1	720, 1-9	LOI	ond hefyd dw i meddwl o_fewn y blwyddyn nesa	NSNT	NSNT
+288, 2	720, 10-16	LOI	wnawn ni weld *lot* o newid because	ST	ST
+288, 3	720, 17-18	LOI	mae yna	NSNT	NSNT
+288, 4	720, 19-27	LOI	timod houses for locals schemes yn dechrau dod i_fyny	---	SNT
+
+
+289, 1	721, 1-16	MAG	o'n i yn sbïo yn *um* estate agents timod *just* yn y ffenestri diwrnod o blaen	NST	ST
+289, 2	723, 1-12	MAG	ac oedd yna dau gweddol fath â ddeudest ti hundred and fifteen	SNT	SNT
+289, 3	724, 1-15	MAG	*o_k* mae hundred and fifteen dal yn *lot* a without fath â out of reach	---	ST
+
+
+290, 1	725, 1-3	LOI	ond mae ddechrau	---	NSNT
+
+
+291, 1	726, 1-6	MAG	ond mae o yn rhesymol *yeah*	NST	NST
+291, 2	728, 1-1	MAG	dydy	---	NSNT
+
+
+292, 1	729, 1-18	LOI	os ti yn cael y lle iawn a yr property iawn fedri di wneud pethau iddo fo *yeah*	---	ST
+
+
+293, 1	730, 1-4	MAG	roid *attic* iddo fo	NST	NST
+293, 2	732, 1-5	MAG	mynd allan yn fan yna	NSNT	NSNT
+293, 3	733, 1-11	MAG	a ti yn adio fifteen *grand* neu rywbeth fel yna wyt	---	ST
+
+
+294, 1	735, 1-5	LOI	lle i roi *garage* *yeah*	NST	NST
+294, 2	737, 2-9	LOI	mae hynna yn adio pum mil neu rywbeth	NSNT	NSNT
+294, 4	739, 1-5	LOI	weles i tŷ *Nathan* ddoe	ST	NST
+294, 5	740, 1-1	LOI	*nice*	ST	NST
+294, 6	741, 1-6	LOI	maen nhw *right* ar *dop* *um*	NST	NST
+294, 7	743, 1-3	LOI	ti gwybod *Penrhyndeudraeth*	NST	NST
+294, 8	744, 1-11	LOI	maen nhw *right* i_fyny ar y chwith yn sbïo lawr *yeah*	NST	NST
+294, 9	745, 1-12	LOI	*um* a mae bob stafell bron iawn hefo ffenestri floor to ceiling	---	ST
+
+
+295, 1	746, 1-2	MAG	*oh* *nice*	---	NST
+
+
+296, 1	747, 1-8	LOI	lle tân yn llechi hen *oh* stunning *yeah*	ST	ST
+296, 2	748, 1-4	LOI	a maen nhw wedi	NSNT	NSNT
+296, 3	748, 5-6	LOI	rhoid *um*	NST	NST
+296, 4	749, 1-6	LOI	fath â ges i *quick* *tour*	NST	NST
+296, 5	750, 1-5	LOI	nhw wedi roid beams i_fewn	NSNT	SNT
+296, 6	751, 1-14	LOI	*um* a mae wedi cael un o ffrindiau fo i fath â carfio fo	NST	NST
+296, 7	751, 15-15	LOI	sti	SNT	NSNT
+296, 8	752, 1-2	LOI	*oh* *nice*	---	NST
+
+
+297, 1	753, 1-2	MAG	*nice* *yeah*	---	NST
+
+
+298, 1	754, 1-2	LOI	*mmm* *aye*	---	NST
+
+
+299, 1	755, 1-2	MAG	with *Samantha*	---	NST
+
+
+300, 1	756, 1-1	LOI	*Samantha*	---	NST
+
+
+301, 1	759, 1-8	MAG	ti *sure* bod yna manager's meeting bore yma	---	ST
+
+
+302, 1	760, 1-1	LOI	*positive*	ST	NST
+302, 2	761, 1-5	LOI	weles i *Hayley* bore yma	---	NST
+
+
+303, 1	762, 1-2	MAG	*oh* brilliant	---	NST
+
+
+304, 1	763, 1-9	LOI	a wnes i weld itinerary hi wythnos dwytha anyway	SNT	SNT
+304, 2	766, 1-7	LOI	ches i ddim cyfle i ffotocopïo fo	---	NSNT
+
+
+305, 1	768, 1-1	MAG	funny	---	NSNT
+
+
+306, 1	769, 1-7	LOI	a wnaeth *Jenny* ddeud wrtho fi hefyd	NST	NST
+306, 2	770, 1-9	LOI	mae hi *right* dda am *er* spilling the beans	ST	ST
+306, 3	772, 1-5	LOI	wna i fethu hi hefyd	NSNT	NSNT
+306, 4	772, 6-6	LOI	sti	---	NSNT
+
+
+307, 1	773, 1-2	MAG	tria cadw	NSNT	NSNT
+307, 2	774, 1-6	MAG	*well* fydda chdi efo rif *phone*	NST	NST
+307, 3	775, 1-5	MAG	*oh* dw ddim yn gwybod	NST	NST
+307, 4	776, 1-5	MAG	mae yn anodd cadw cysylltiad	---	NSNT
+
+
+308, 1	777, 1-7	LOI	mae gynno fi cyfeiriad hi hefyd wan	SNT	NSNT
+308, 2	779, 1-2	LOI	*so* *er*	NST	NST
+308, 3	780, 1-1	LOI	*aye*	---	NST
+
+
+309, 1	781, 1-6	MAG	mae yn anodd cadw cysylltiad *yeah*	NST	NST
+309, 2	783, 1-2	MAG	efo pawb	SNT	NSNT
+309, 3	784, 1-3	MAG	*oh* excusez moi	ST	NST
+309, 5	786, 1-5	MAG	es i am *bint* neithiwr	---	NST
+
+
+310, 1	787, 1-3	LOI	i lle *Gardd_Fôn*	---	NST
+
+
+311, 1	788, 1-2	MAG	naci *Halfway*	---	NST
+
+
+312, 1	790, 1-2	LOI	i be	---	NSNT
+
+
+313, 1	791, 1-2	MAG	efo *Louise*	---	NST
+
+
+314, 1	792, 1-3	LOI	*oh* my God	---	NST
+
+
+315, 1	794, 1-4	MAG	oedd o yn *um*	---	NST
+
+
+316, 1	795, 1-1	LOI	interesting	---	NSNT
+
+
+317, 1	796, 1-13	MAG	*well* *yeah* achos o'n i wedi planio fath â mynd i tŷ *Bridget*	NST	NST
+317, 2	797, 1-10	MAG	ac o'n i fath â wedi hanner gaddo iddi hi	NSNT	NSNT
+317, 3	798, 1-9	MAG	achos wnes i ddod face to face efo hi	---	SNT
+
+
+318, 1	799, 1-1	LOI	*Louise*	ST	NST
+318, 2	801, 1-2	LOI	yn lle	---	NSNT
+
+
+319, 1	802, 1-1	MAG	oedden	NSNT	NSNT
+319, 2	802, 2-6	MAG	mae yn byw *Felin* wan	NST	NST
+319, 3	805, 1-10	MAG	efo ei efo ei brawd a ei chwaer yn *Felin*	---	NST
+
+
+320, 1	806, 1-1	LOI	pam	---	NSNT
+
+
+321, 1	808, 1-19	MAG	a wedyn *er* wnaeth hi text_io fi yn gofyn os os o'n isio *um* mynd am ddrink pythefnos yn_ôl	NST	ST
+321, 2	809, 1-3	MAG	wnes i ddeud	NSNT	NSNT
+321, 3	810, 1-2	MAG	gwranda *mate*	NST	NST
+321, 4	810, 3-11	MAG	mae gynno fi yr cyfweliad yma yn dod i_fyny	NSNT	NSNT
+321, 5	812, 1-7	MAG	dw i yn gorod concentrate_io ar hynna	NSNT	SNT
+321, 6	813, 1-5	MAG	wythnos nesa mi wna i	NSNT	NSNT
+321, 7	814, 1-6	MAG	*so* o'n i wedi roid y	NST	NST
+321, 8	814, 7-11	MAG	nhroed yni fan yna o'n	NSNT	NSNT
+321, 9	815, 1-5	MAG	ac o'n i fath â	NSNT	NSNT
+321, 10	816, 1-4	MAG	wythnos nesa ddo i	NSNT	NSNT
+321, 11	817, 1-3	MAG	a dyna fo	NSNT	NSNT
+321, 12	818, 1-6	MAG	*so* wnaeth hi text_io fi mynd	NST	ST
+321, 13	819, 1-6	MAG	*oh* ti *fancy* *pint* nos Iau	NST	NST
+321, 14	820, 1-6	MAG	a wnes i ddim ateb hi	NSNT	NSNT
+321, 15	820, 7-7	MAG	naddo	NSNT	NSNT
+321, 16	821, 1-11	MAG	*so* nos Fercher dyma fi a *Eddie* yn cerdded i *Londis*	NST	NST
+321, 17	822, 1-2	MAG	cerdded yn_ôl	NSNT	NSNT
+321, 18	822, 3-5	MAG	pwy sy yna	NSNT	NSNT
+321, 19	824, 1-4	MAG	a mi aeth o	NSNT	NSNT
+321, 20	825, 1-4	MAG	*hi* ti yn iawn	NST	NST
+321, 21	826, 1-4	MAG	o'n i fath â	NSNT	NSNT
+321, 22	827, 1-5	MAG	*oh* *hi* ti yn iawn	NST	NST
+321, 23	828, 1-4	MAG	*fancy* *pint* nos fory	NST	NST
+321, 24	830, 1-5	MAG	o'n i fath â *oh*	NST	NST
+321, 25	831, 1-6	MAG	a dydy o ddim yn helpu	NSNT	NSNT
+321, 26	831, 7-13	MAG	bod *Eddie* ddim yn licio hi *yeah*	NST	NST
+321, 27	832, 1-5	MAG	a mae fath â *ugh*	NST	NST
+321, 29	834, 1-9	MAG	wnes i *just* cael un *pint* a wedyn adre	NST	NST
+321, 30	835, 1-8	MAG	dim_byd in *common* dim_byd i siarad amdan dim_byd	---	ST
+
+
+322, 1	836, 1-5	LOI	mae yna rywbeth *odd* amdani	---	NST
+
+
+323, 1	838, 1-4	MAG	does gen i ddim_byd	NSNT	NSNT
+323, 2	840, 1-2	MAG	i wneud	NSNT	NSNT
+323, 3	841, 1-8	MAG	dw ddim yn ddim yn licio yr hogan	NSNT	NSNT
+323, 4	842, 1-7	MAG	ond dw i *just* ddim yn dallt	NST	NST
+323, 5	842, 8-20	MAG	sut dw i wedi cyrraedd *er* y mynd am *bint* *level* efo hi	NST	NST
+323, 6	843, 2-9	MAG	dw i feddwl *Meg* o'n ni yn ffrindiau	---	NST
+
+
+324, 1	844, 1-3	LOI	ti rhy soft	---	SNT
+
+
+325, 1	845, 1-6	MAG	*Meg* ydy *mate* fi ti gwybod	NST	NST
+325, 2	845, 7-9	MAG	be dw feddwl	---	NSNT
+
+
+326, 1	846, 1-7	LOI	speaking of which ti wedi clywed gynni	---	SNT
+
+
+327, 1	847, 1-6	MAG	wnes i weld hi wythnos dwytha	---	NSNT
+
+
+328, 1	848, 1-2	LOI	sut mae	---	NSNT
+
+
+329, 1	849, 1-8	MAG	*um* ddim yn dda iawn dw ddim meddwl	NST	NST
+329, 2	850, 1-4	MAG	wnaeth *um* *Hayley* ddeud	NST	NST
+329, 3	850, 5-5	MAG	bod	NSNT	NSNT
+329, 4	851, 1-9	MAG	*oh* be ydy enw fo *boy* yna yn Colwyn_Bay	---	ST
+
+
+330, 1	852, 1-1	LOI	*Owen*	---	NST
+
+
+331, 1	853, 1-8	MAG	*Owen* wedi mynd efo hi i yr angladd	NST	NST
+331, 2	854, 1-6	MAG	a bod hi mewn *bits* *yeah*	---	NST
+
+
+332, 1	855, 2-3	LOI	ddeudodd hi	---	NSNT
+
+
+333, 1	856, 1-5	MAG	a wnes i weld hi	NSNT	NSNT
+333, 2	857, 1-6	MAG	pa bryd wnes i weld hi	NSNT	NSNT
+333, 3	858, 1-5	MAG	dydd Mawrth pnawn dydd Mawrth	NSNT	NSNT
+333, 4	859, 1-12	MAG	o'n i yn cerdded lawr ac o'n i fath â *oh* *hi*	NST	NST
+333, 5	860, 1-13	MAG	roi hug iddi ac o'n i ddim yn gwybod really be i ddeud	NSNT	SNT
+333, 6	861, 1-10	MAG	*so* o'n i yn gweithio yn hun i_fyny mynd mwydro	NST	NST
+333, 7	862, 1-2	MAG	a timod	NSNT	NSNT
+333, 8	862, 3-6	MAG	oedd hi fath â	SNT	NSNT
+333, 9	863, 1-7	MAG	*oh* *um* I'm taking this letter in	NST	NST
+333, 10	864, 1-1	MAG	I'm	NSNT	NSNT
+333, 11	864, 2-2	MAG	I'm	NSNT	NSNT
+333, 12	864, 3-7	MAG	I'm *off* until the twentieth	ST	NST
+333, 13	865, 1-4	MAG	a pethau fel yna	NSNT	NSNT
+333, 14	866, 1-3	MAG	wnes i ddeud	SNT	NSNT
+333, 15	867, 1-8	MAG	*ah* do you *fancy* a *pint* on Wednesday	ST	NST
+333, 16	868, 1-6	MAG	a wnes i ddim text_io hi	NSNT	SNT
+333, 17	868, 7-7	MAG	sti	NSNT	NSNT
+333, 18	869, 1-3	MAG	alla i ddim	NSNT	NSNT
+333, 19	870, 1-8	MAG	dw i yn gweld o yn anodd *yeah*	NST	NST
+333, 20	872, 1-7	MAG	o'n i yn meddwl basai fo *oh*	NST	NST
+333, 21	872, 9-13	MAG	wnawn ni siarad efo ein_gilydd	NSNT	NSNT
+333, 22	873, 1-15	MAG	ond mae yr ddau ohonon ni weld wedi delio efo pethau yn hollol wahanol a	NSNT	NSNT
+333, 23	874, 1-5	MAG	dw i ddim yn gwybod	NSNT	NSNT
+333, 24	875, 1-12	MAG	mae hynna wedi digwydd i brawd hi wedi wneud fi waeth *yeah*	NST	NST
+333, 25	876, 1-2	MAG	fath â	---	NSNT
+
+
+334, 1	877, 1-7	LOI	mae yn dod â fo i_gyd yn_ôl	---	NSNT
+
+
+335, 1	879, 1-7	MAG	ac oedd *Eddie* fath â yn deud	NST	NST
+335, 2	880, 1-5	MAG	dw i ddim yn meddwl	NSNT	NSNT
+335, 3	880, 6-11	MAG	bod chdi cope_io mor dda ag	NSNT	SNT
+335, 4	880, 12-13	MAG	oedda chdi	NSNT	NSNT
+335, 5	881, 1-3	MAG	dw i meddwl	NSNT	NSNT
+335, 6	881, 4-8	MAG	bod o mynd yn waeth	NSNT	NSNT
+335, 7	882, 1-2	MAG	meddai fo	NSNT	NSNT
+335, 8	883, 1-5	MAG	ac o'n i fath â	NSNT	NSNT
+335, 9	884, 1-3	MAG	dw i meddwl	NSNT	NSNT
+335, 10	884, 4-7	MAG	bod chdi yn iawn	NSNT	NSNT
+335, 11	885, 1-2	MAG	am bod	NSNT	NSNT
+335, 12	885, 3-14	MAG	pan dw i day to day *hi* a with my face on	ST	ST
+335, 13	885, 15-18	MAG	dw i yn *fine*	NST	NST
+335, 14	887, 1-5	MAG	paid â gael fi *wrong*	NST	NST
+335, 15	888, 1-8	MAG	dw i yn hapusach yn y byd yna	NSNT	NSNT
+335, 16	888, 9-10	MAG	am bod	NSNT	NSNT
+335, 17	888, 11-16	MAG	dw i yn *straight* talking hapus	---	ST
+
+
+336, 1	889, 1-9	LOI	you *can* turn it on yn well fath â	NST	ST
+336, 2	889, 10-14	LOI	dydy o ddim yn golygu	NSNT	NSNT
+336, 3	889, 15-19	LOI	bod pethau yn iawn nac	NSNT	NSNT
+336, 4	892, 1-6	LOI	wnest ti sbïo fewn i *um*	---	NST
+
+
+337, 1	893, 1-1	MAG	be	---	NSNT
+
+
+338, 1	894, 1-4	LOI	yr mynd yn breifat	---	NSNT
+
+
+339, 1	895, 1-1	MAG	naddo	NSNT	NSNT
+339, 2	895, 2-6	MAG	wnes i siarad efo *Carol*	NST	NST
+339, 3	896, 1-5	MAG	*um* mae gynni hi gysylltiadau	NST	NST
+339, 4	897, 1-4	MAG	a wnaeth hi ddeud	NSNT	NSNT
+339, 5	898, 1-5	MAG	dw i mynd i ffonio	NSNT	NSNT
+339, 6	899, 1-3	MAG	wnes i ddeud	NSNT	NSNT
+339, 7	900, 1-6	MAG	*well* mae yna waiting *list* arall	NST	ST
+339, 8	901, 1-2	MAG	meddai fi	NSNT	NSNT
+339, 9	902, 1-7	MAG	*well* dw i mynd i ffonio nhw	NST	NST
+339, 10	903, 1-5	MAG	wna i ddeud wrthon nhw	NSNT	NSNT
+339, 11	903, 6-10	MAG	bod fi ffonio ran *client*	NST	NST
+339, 12	904, 1-8	MAG	a wna i ddeud wrthon nhw i weld	NSNT	NSNT
+339, 13	904, 9-12	MAG	be ydy be *yeah*	NST	NST
+339, 14	905, 1-3	MAG	a wedyn *um*	NST	NST
+339, 15	906, 1-17	MAG	o'n i ar yr internet diwrnod o blaen ac oedd yna ryw fath â online counselling yma	NSNT	SNT
+339, 16	908, 1-5	MAG	a es i arno fo	NSNT	NSNT
+339, 17	909, 1-4	MAG	ac o'n i meddwl	SNT	NSNT
+339, 18	910, 1-9	MAG	*bloody* hell be does yna ddim *point* i fi	NST	ST
+339, 19	910, 10-12	MAG	timod email_io rywun	NSNT	SNT
+339, 20	911, 1-8	MAG	o'n i methu mynd i_mewn iddo fo anyway	SNT	SNT
+339, 21	912, 1-2	MAG	dyn nhw	NSNT	NSNT
+339, 22	912, 3-9	MAG	maen nhw wedi wneud o rhy gymhleth	NSNT	NSNT
+339, 23	914, 1-3	MAG	do ac american	SNT	SNT
+339, 24	914, 4-11	MAG	oedd o fath â gofyn am *zip* *code*	NST	NST
+339, 25	915, 1-7	MAG	o'n i yn eistedd yna meddwl postcode	---	SNT
+
+
+340, 1	916, 1-1	LOI	postcode	---	NSNT
+
+
+341, 1	917, 1-7	MAG	ond ar y pryd o'n i meddwl	NSNT	NSNT
+341, 2	918, 1-5	MAG	be uffar ydy *zip* *code*	NST	NST
+341, 3	920, 1-7	MAG	ac *er* es i allan ohono fo	NST	NST
+341, 4	921, 1-4	MAG	es i nôl i_mewn	NSNT	NSNT
+341, 5	922, 1-2	MAG	a timod	NSNT	NSNT
+341, 6	922, 3-9	MAG	oedd y first few *minutes* am ddim	NST	ST
+341, 7	923, 1-3	MAG	a dyna pam	NSNT	NSNT
+341, 8	923, 4-10	MAG	es i mewn i fi gael gweld	NSNT	NSNT
+341, 9	925, 1-8	MAG	ond o'n i methu mynd i_fewn iddo fo	SNT	NSNT
+341, 10	926, 1-4	MAG	*so* I don't know	ST	NST
+341, 11	927, 1-2	MAG	ond timod	NSNT	NSNT
+341, 12	927, 3-11	MAG	mae gweld *Meg* yn delio efo fo fel yna	NST	NST
+341, 13	927, 12-16	MAG	mae o yn dychryn fi	NSNT	NSNT
+341, 14	927, 17-18	MAG	am bod	NSNT	NSNT
+341, 15	927, 19-22	MAG	dw i fath â	NSNT	NSNT
+341, 16	928, 1-6	MAG	dw i yn cwestiynu yn hun	NSNT	NSNT
+341, 17	929, 1-9	MAG	fel pam wnes i ddim crio yn yr angladd	NSNT	NSNT
+341, 18	929, 10-14	MAG	os ydy hi mewn *bits*	---	NST
+
+
+342, 1	930, 1-1	LOI	pam	---	NSNT
+
+
+343, 1	931, 1-2	MAG	a timod	---	NSNT
+
+
+344, 1	932, 1-4	LOI	mae pawb yn wahanol	---	NSNT
+
+
+345, 1	933, 1-4	MAG	mae pawb yn wahanol	NSNT	NSNT
+345, 2	934, 1-18	MAG	ond pan ti yn weld o fel yna a fi mynd trwyddo fo mae yn hollol wahanol *yeah*	NST	NST
+345, 3	935, 1-4	MAG	ti fath â God	SNT	SNT
+345, 4	936, 2-7	MAG	mae yr un peth wedi ddigwydd	NSNT	NSNT
+345, 5	937, 1-10	MAG	a dw i mynd i_fewn i ryw mindset *pathetic* yma	NST	ST
+345, 6	937, 11-14	MAG	lle dw i meddwl	NSNT	NSNT
+345, 7	938, 1-8	MAG	*well* oedd hi ddim yn agos iddo fo	NST	NST
+345, 8	939, 1-6	MAG	pam mae hi yn crio gymaint	NSNT	NSNT
+345, 9	940, 1-7	MAG	a dw i yn fath â *Magi*	---	NST
+
+
+346, 1	941, 1-5	LOI	ella am bod hi ddim	---	NSNT
+
+
+347, 1	942, 1-5	MAG	dydy hynna ddim yn ffordd	NSNT	NSNT
+347, 2	942, 6-10	MAG	baswn i meddwl yn naturiol	NSNT	NSNT
+347, 3	943, 1-7	MAG	ti yn dallt be dw i feddwl	NSNT	NSNT
+347, 4	944, 1-2	MAG	dyna pam	NSNT	NSNT
+347, 5	944, 3-5	MAG	dw i meddwl	NSNT	NSNT
+347, 6	944, 6-11	MAG	bod fi ddim yn iawn *yeah*	NST	NST
+347, 7	945, 1-9	MAG	a baswn i byth yn meddwl hynna am *Meg*	NST	NST
+347, 8	946, 1-6	MAG	baswn i byth isio brifo *Meg*	NST	NST
+347, 9	947, 1-6	MAG	dw isio *Meg* fod yn iawn	NST	NST
+347, 10	948, 1-9	MAG	ond am bod fi newydd fod trwyddo fo hefyd	NSNT	NSNT
+347, 11	948, 10-13	MAG	mae *just* fath â	NST	NST
+347, 12	948, 14-20	MAG	dw i yn teimlo fath â sgrechian	NSNT	NSNT
+347, 13	949, 1-5	MAG	chwech mis sy wedi mynd	NSNT	NSNT
+347, 14	950, 1-7	MAG	ti ti dallt be dw i feddwl	NSNT	NSNT
+347, 15	951, 1-2	MAG	a mae	NSNT	NSNT
+347, 16	951, 3-6	MAG	mae *just* anodd *yeah*	NST	NST
+347, 17	952, 1-5	MAG	*so* dw i meddwl os	NST	NST
+347, 18	952, 6-12	MAG	na ydy *Meg* yn cysylltu efo fi	NST	NST
+347, 19	953, 1-6	MAG	wna i cadw cysylltiad trwy text	SNT	SNT
+347, 20	955, 1-7	MAG	os ydy hi isio mynd am *bint*	NST	NST
+347, 21	955, 8-9	MAG	fydda i	NSNT	NSNT
+347, 22	955, 10-15	MAG	fydda i yna ar y mhen	NSNT	NSNT
+347, 23	956, 1-14	MAG	ond dw i ddim yn mynd i gynnig eto i fynd am *bint* achos	NST	NST
+347, 24	956, 15-22	MAG	mae hi yn taking it day by day	SNT	SNT
+347, 25	957, 1-7	MAG	a dw i ddim isio wneud promises	NSNT	SNT
+347, 26	957, 8-11	MAG	I can't keep chwaith	NSNT	SNT
+347, 27	957, 13-16	MAG	be dw i feddwl	---	NSNT
+
+
+348, 1	959, 1-5	LOI	*yeah* mae well iddi hi	NST	NST
+348, 2	961, 1-9	LOI	os rywbeth bod chdi ddim gadael hi lawr *yeah*	---	NST
+
+
+349, 1	963, 1-10	MAG	*so* mae pobl yma yn gwybod *business* ni gyd wan	---	NST
+
+
+350, 1	965, 1-1	LOI	*aye*	NST	NST
+350, 3	967, 1-1	LOI	*oops*	ST	NST
+350, 4	968, 1-6	LOI	*hey* wnaethon ni ddim roi *surnames*	---	NST
+
+
+351, 1	969, 1-5	MAG	we're *just* *Lois* and *Magi*	---	NST
+
+
+352, 1	972, 1-8	LOI	*hey* mae yna fish o yr enw shanny	ST	ST
+352, 2	974, 4-9	LOI	wnes i nôl *Izzy* o playscheme	ST	ST
+352, 3	975, 1-10	LOI	dydd Llun o'n i wedi gorffen yn Bae_Colwyn yn fuan	NSNT	NSNT
+352, 4	976, 1-6	LOI	a hi yn llawn annwyd doedd	NSNT	NSNT
+352, 5	977, 1-4	LOI	*so* o'n meddwl *right*	ST	NST
+352, 6	978, 1-10	LOI	do the decent *thing* wna i nôl hi yn fuan	NST	ST
+352, 7	979, 1-4	LOI	ddim isio dod adre	NSNT	NSNT
+352, 8	980, 1-10	LOI	*um* oedden nhw wneud ryw fath o experiment efo *C_C_W*	NST	ST
+352, 9	981, 1-9	LOI	ac oedden wedi cael fath â pedwar *tank* efo	NST	NST
+352, 10	981, 10-21	LOI	timod gwahanol crancs yn un gwahanol fish yn un arall a shells	---	SNT
+
+
+353, 1	982, 1-1	MAG	*cool*	---	NST
+
+
+354, 1	983, 1-7	LOI	ac oedd gynnyn nhw fath â worksheet	SNT	SNT
+354, 2	984, 1-6	LOI	oedden nhw yn twtsiad nhw a	NSNT	NSNT
+354, 3	985, 1-5	LOI	oedd o yn really da	---	SNT
+
+
+355, 1	986, 1-3	MAG	*oh* *nice* one	---	NST
+
+
+356, 1	988, 1-8	LOI	anyway ar y *sheet* oedd gynnyn nhw shanny	ST	ST
+356, 3	990, 1-2	LOI	sbïo sbïo	NSNT	NSNT
+356, 4	991, 1-12	LOI	*hey* ti wedi cael y lluniau i weithio ar *phone* chdi eto	---	NST
+
+
+357, 1	992, 1-2	MAG	*um* lluniau	---	NST
+
+
+358, 1	993, 1-6	LOI	fedri di gyrru nhw derbyn nhw	---	NSNT
+
+
+359, 1	994, 1-3	MAG	dw i meddwl	NSNT	NSNT
+359, 2	994, 4-5	MAG	alla i	NSNT	NSNT
+359, 3	995, 1-2	MAG	am bod	NSNT	NSNT
+359, 4	995, 3-11	MAG	wnes i fynd i *shop* *Vodafone* diwrnod o blaen	NST	NST
+359, 5	996, 1-3	MAG	*ah* wnaeth hi	NST	NST
+359, 6	996, 4-16	MAG	roid ryw *sheet* yma i fi fynd trwy i activate_io fo yn hun	NST	ST
+359, 7	997, 1-4	MAG	a dw i meddwl	NSNT	NSNT
+359, 8	997, 5-9	MAG	bod o yn iawn wan	NSNT	NSNT
+359, 9	998, 1-3	MAG	a dw i	NSNT	NSNT
+359, 10	998, 4-9	MAG	wedi bod yn trio download_io *music*	ST	ST
+359, 11	999, 1-5	MAG	mae gynno fi *James_Blunt* *Wise_Men*	NST	NST
+359, 12	1001, 1-13	MAG	ond dw i ddim really isio iwsio hwnna fath â ringtone gan bod	NSNT	SNT
+359, 13	1001, 14-18	MAG	mae ychydig bach depressing *yeah*	ST	ST
+359, 14	1003, 1-7	MAG	fath â *so* dw ddim yn gwybod	NST	NST
+359, 15	1004, 1-2	MAG	gynno fi	NSNT	NSNT
+359, 16	1005, 1-4	MAG	*yeah* dw i meddwl	NST	NST
+359, 17	1005, 5-10	MAG	bod fi gallu gyrru lluniau wan	NSNT	NSNT
+359, 18	1006, 1-10	MAG	a dw i ffeindio ffeindio mwy a mwy o luniau	NSNT	NSNT
+359, 19	1008, 1-5	MAG	a mwy o *videos* de	NST	NST
+359, 20	1009, 1-6	MAG	a dw i *just* fath â	NST	NST
+359, 21	1010, 1-11	MAG	ydy hwn wedi cuddiad hwn ar *files* o_fewn *files* neu rywbeth	NST	NST
+359, 22	1011, 1-6	MAG	dw i *just* fath â delete	---	ST
+
+
+360, 1	1012, 1-6	LOI	mae wedi wneud hynna yn bwrpasol	NSNT	NSNT
+360, 2	1012, 7-7	LOI	sti	---	NSNT
+
+
+361, 1	1013, 1-6	MAG	mwya dw i meddwl amdano fo	NSNT	NSNT
+361, 2	1013, 7-10	MAG	dw i *just* meddwl	ST	NST
+361, 3	1014, 1-4	MAG	he's a scummy man	SNT	NSNT
+361, 4	1015, 1-7	MAG	ti wedi clywed y gân yna do	SNT	NSNT
+361, 6	1018, 1-1	MAG	*aye*	ST	NST
+361, 7	1019, 3-12	MAG	a mae tua pump neu chwech o enwau a I_love_yous	SNT	SNT
+361, 8	1020, 1-5	MAG	mae yn sterio arno fi	NSNT	NSNT
+361, 9	1021, 1-3	MAG	wnest ti weld	NSNT	NSNT
+361, 10	1022, 1-3	MAG	a mae hynna	NSNT	NSNT
+361, 11	1022, 4-13	MAG	wedi bod yn mynd ymlaen ers i fi fod yna	---	NSNT
+
+
+362, 1	1023, 1-6	LOI	oedd o wneud efo *Natalie* hefyd	NST	NST
+362, 2	1023, 7-8	LOI	noson yna	---	NSNT
+
+
+363, 1	1024, 1-7	MAG	dyna be o'n i mynd i ddeud	NSNT	NSNT
+363, 2	1025, 1-8	MAG	oedd *Natalie* yn cael yr un un vibe	ST	ST
+363, 3	1025, 9-10	MAG	am bod	NSNT	NSNT
+363, 4	1025, 11-15	MAG	oedd hi yn deud hynna	NSNT	NSNT
+363, 5	1027, 1-2	MAG	am bod	NSNT	NSNT
+363, 6	1027, 3-7	MAG	dydy o ddim yn hyll	NSNT	NSNT
+363, 7	1028, 1-4	MAG	*so* mae yn *er*	NST	NST
+363, 8	1029, 1-5	MAG	dw i ddim yn meddwl	NSNT	NSNT
+363, 9	1029, 6-9	MAG	bod o yn hyll	---	NSNT
+
+
+364, 1	1030, 1-6	LOI	dydy o ddim yn hyll na	---	NSNT
+
+
+365, 1	1031, 1-2	MAG	ond mae	NSNT	NSNT
+365, 2	1031, 3-15	MAG	mae yn hawdd i hogan enwedig single fath â *Natalie* i feddwl *oh*	NST	ST
+365, 3	1033, 1-2	MAG	am bod	NSNT	NSNT
+365, 4	1033, 3-6	MAG	wnes i feddwl a	NSNT	NSNT
+365, 5	1033, 7-15	MAG	pan oedd pethau ddim yn dda efo *Eddie* *well*	NST	NST
+365, 6	1033, 16-19	MAG	timod why not ond	---	SNT
+
+
+366, 1	1034, 1-4	LOI	no don't go there	---	NSNT
+
+
+367, 1	1035, 1-4	MAG	not at all *yeah*	ST	NST
+367, 2	1037, 1-2	MAG	dim o_gwbl	---	NSNT
+
+
+368, 1	1038, 1-11	LOI	dw i yn cofio fo ysgol gynradd *yeah* fel yna tiny	---	ST
+
+
+369, 1	1039, 1-10	MAG	os ti yn cofio rywun fel yna *yeah* mae wahanol	---	NST
+
+
+370, 1	1041, 1-3	LOI	not happening *yeah*	---	NST
+
+
+371, 1	1043, 1-10	MAG	*oh* mae lluniau hogan bach o ym bob man hefyd	ST	NST
+371, 2	1044, 1-2	MAG	I *suppose*	NST	NST
+371, 3	1044, 3-8	MAG	I could *deal* with that *yeah*	---	NST
+
+
+372, 1	1048, 3-6	LOI	mae ffrind *Natalie* lawr	NST	NST
+372, 2	1049, 1-2	LOI	timod *Olivia*	---	NST
+
+
+373, 1	1050, 1-2	MAG	gwallt bach	---	NSNT
+
+
+374, 1	1051, 1-6	LOI	*yeah* dw ddim yn cofio hi	NST	NST
+374, 2	1051, 7-7	LOI	sti	---	NSNT
+
+
+375, 1	1052, 1-6	MAG	wnaeth hi ddod i tŷ chdi	---	NSNT
+
+
+376, 1	1053, 2-6	LOI	dw ddim yn cofio hi	---	NSNT
+
+
+377, 1	1054, 1-5	MAG	dw i yn cofio hi	NSNT	NSNT
+377, 2	1055, 1-4	MAG	oedd yn hogan iawn	NSNT	NSNT
+377, 3	1056, 1-6	MAG	ti ddim yn cofio hi o_gwbl	---	NSNT
+
+
+378, 1	1057, 1-3	LOI	na ddim really	---	SNT
+
+
+379, 1	1058, 1-2	MAG	really Seisnigaidd	---	SNT
+
+
+380, 1	1059, 1-2	LOI	funny that	---	NSNT
+
+
+381, 1	1060, 1-2	MAG	ia *aye*	---	NST

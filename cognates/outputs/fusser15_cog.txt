@@ -1,0 +1,2389 @@
+1, 1	1, 1-2	MRL	ond *um*	---	NST
+
+
+2, 1	2, 1-4	GFR	dw i yn *sure*	NST	NST
+2, 2	2, 5-9	GFR	bod un o rheina *yeah*	---	NST
+
+
+3, 1	3, 1-3	MRL	ond gei di	NSNT	NSNT
+3, 2	4, 1-7	MRL	ond mae yna ffrind iddi hi yn	NSNT	NSNT
+3, 3	4, 8-17	MRL	mae yna hogan ffrind ffrind gorau hi yn mynd hefyd	---	NSNT
+
+
+4, 1	5, 1-3	GFR	*oh* fydd hwyl	---	NST
+
+
+5, 1	6, 1-4	MRL	*so* fydd yna gwmni	NST	NST
+5, 2	7, 1-8	MRL	a mae yna un hogyn hefyd yn mynd	NSNT	NSNT
+5, 3	7, 9-9	MRL	ynde	NSNT	NSNT
+5, 4	9, 1-6	MRL	ond dw i yn blês iawn	NSNT	NSNT
+5, 5	9, 7-7	MRL	ynde	NSNT	NSNT
+5, 6	10, 1-5	MRL	achos mae hi yn un	NSNT	NSNT
+5, 7	11, 1-7	MRL	chwarae teg wneith hi fynd i bethau	---	NSNT
+
+
+6, 1	12, 1-4	GFR	i drio felly *yeah*	---	NST
+
+
+7, 1	13, 1-4	MRL	ti yn gwybod yn	NSNT	NSNT
+7, 2	14, 1-3	MRL	mae hi yn	NSNT	NSNT
+7, 3	14, 4-6	MRL	mae hi yn	NSNT	NSNT
+7, 4	14, 7-9	MRL	mae hi yn	NSNT	NSNT
+7, 5	15, 1-7	MRL	ond mae yr syniad o fynd i	NSNT	NSNT
+7, 6	16, 1-2	MRL	ond mae	NSNT	NSNT
+7, 7	16, 3-8	MRL	mae rai o yr blant yn	NSNT	NSNT
+7, 8	18, 1-5	MRL	timod rhai ohonyn nhw yn	NSNT	NSNT
+7, 9	18, 6-6	MRL	gyndyn	NSNT	NSNT
+7, 10	19, 1-3	MRL	dw i meddwl	NSNT	NSNT
+7, 11	20, 1-7	MRL	oedd hi ar bob math o bethau	NSNT	NSNT
+7, 12	23, 1-3	MRL	ti yn gwybod	NSNT	NSNT
+7, 13	24, 1-7	MRL	lle dydy hi ddim fel yna o_gwbl	---	NSNT
+
+
+8, 1	25, 1-9	GFR	*yeah* ond mae *er* *Glanllyn* yn dda iddyn nhw	NST	NST
+8, 2	26, 1-4	GFR	dweud y gwir yndy	---	NSNT
+
+
+9, 1	27, 1-5	MRL	*oh* *yeah* *oh* *yeah* *fantastic*	---	NST
+
+
+10, 1	31, 1-3	GFR	dw i meddwl	NSNT	NSNT
+10, 2	31, 4-8	GFR	bod yna rywun o *Scarlets*	NST	NST
+10, 3	31, 9-15	GFR	wedi bod fyny yn *Nant_Conwy* yn ddiweddar	NST	NST
+10, 4	32, 1-3	GFR	mae *oh* *yeah*	NST	NST
+10, 5	32, 4-9	GFR	mae rhaglen *um* *Uned_Pump* yn wneud	---	NST
+
+
+11, 1	33, 1-3	MRL	*oh* ydyn nhw	---	NST
+
+
+12, 1	35, 1-3	GFR	*so* mae nhw	NST	NST
+12, 2	35, 4-5	GFR	mae yna	NSNT	NSNT
+12, 3	35, 6-8	GFR	dw i meddwl	NSNT	NSNT
+12, 4	35, 9-23	GFR	bod nhw yn *er* ffilmio gwahanol glybiau gwahanol oedrannau yn wneud ryw *session* o sgiliau	ST	NST
+12, 5	37, 1-1	GFR	*so*	ST	NST
+12, 6	38, 1-5	GFR	ond *er* *er* dyna ni	NST	NST
+12, 7	38, 6-6	GFR	ynde	---	NSNT
+
+
+13, 1	39, 1-9	MRL	wyt ti dal i wneud efo *club* *rugby* though	---	ST
+
+
+14, 1	40, 1-1	GFR	*dim*	---	NST
+
+
+15, 1	41, 1-2	MRL	dim gymaint	---	NSNT
+
+
+16, 1	42, 1-4	GFR	dim gymaint na na	NSNT	NSNT
+16, 2	44, 1-9	GFR	na dw i ddim yn dyfarnu rwan a wedyn	---	NSNT
+
+
+17, 1	45, 1-2	MRL	ti ddim	---	NSNT
+
+
+18, 1	46, 1-6	GFR	na dw i roi gorau iddi	---	NSNT
+
+
+19, 1	47, 1-3	MRL	*oh* *yeah* wir	NST	NST
+19, 2	49, 1-2	MRL	ers pryd	---	NSNT
+
+
+20, 1	50, 1-4	GFR	ers tua dau fis	---	NSNT
+
+
+21, 1	51, 1-8	MRL	*so* mae *Lexi* yn gweld rywfaint ohono chdi	---	NST
+
+
+22, 1	56, 1-5	GFR	*oh* mae o yn braf	NST	NST
+22, 2	57, 1-4	GFR	*eh* wyddost ti be	NST	NST
+22, 3	58, 1-10	GFR	o'n i o'n i meddwl faswn i o'n i meddwl	NSNT	NSNT
+22, 4	58, 11-16	GFR	faswn i ddim yn licio fo	NSNT	NSNT
+22, 5	59, 1-4	GFR	*er* *just* peidio *um*	NST	NST
+22, 6	60, 1-4	GFR	timod efo peidio gwneud	---	NSNT
+
+
+23, 1	61, 1-3	MRL	peidio gwneud *yeah*	---	NST
+
+
+24, 1	63, 1-7	GFR	ond ar rwan dw i yn teimlo	NSNT	NSNT
+24, 2	64, 1-8	GFR	ar ddydd pan mae dydd Sadwrn yn dod	NSNT	NSNT
+24, 3	65, 1-6	GFR	mae yna rywbeth yn braf iawn	NSNT	NSNT
+24, 4	66, 2-11	GFR	mae gen i yr diwrnod i_gyd o mlaen i heddiw	---	NSNT
+
+
+25, 1	67, 1-2	MRL	yn union	---	NSNT
+
+
+26, 1	68, 1-9	GFR	ac os dw i isio mynd i watsio *rugby*	NST	NST
+26, 2	69, 1-3	GFR	alla i fynd	NSNT	NSNT
+26, 3	71, 1-6	GFR	ac os dw i ddim isio	NSNT	NSNT
+26, 4	73, 1-6	GFR	does ddim rhaid i mi fynd	---	NSNT
+
+
+27, 1	74, 1-3	MRL	dyna na na	---	NSNT
+
+
+28, 1	75, 1-7	GFR	ond o blaen oedd y diwrnod yn	NSNT	NSNT
+28, 2	76, 1-5	GFR	mewn ffordd o't ti yn	NSNT	NSNT
+28, 3	77, 1-11	GFR	erbyn tua hanner awr wedi un_ar_ddeg oedd raid ti ddechrau meddwl	SNT	NSNT
+28, 4	78, 1-1	GFR	*alright*	ST	NST
+28, 5	79, 1-5	GFR	ble dw i isio bod	---	NSNT
+
+
+29, 1	80, 1-1	MRL	bod	---	NSNT
+
+
+30, 1	81, 1-10	GFR	pnawn yma a dechrau meddwl am y *game* a ballu	NST	NST
+30, 2	83, 1-2	GFR	a wedyn	NSNT	NSNT
+30, 4	85, 3-6	GFR	mae o mewn ffordd	NSNT	NSNT
+30, 5	86, 1-3	GFR	mae rywun wedi	NSNT	NSNT
+30, 6	86, 4-9	GFR	dw i wedi dygymod efo fo	NSNT	NSNT
+30, 7	86, 10-12	GFR	ynde *yeah* *yeah*	---	NST
+
+
+31, 1	87, 1-8	MRL	dw i yn hoffi cael dydd Sadwrn yn	NSNT	NSNT
+31, 2	87, 9-9	MRL	rhydd	NSNT	NSNT
+31, 3	88, 1-4	MRL	rhaid i mi gyfaddef	NSNT	NSNT
+31, 4	89, 1-9	MRL	dw i wrth fy modd yn cael dydd Sadwrn	---	NSNT
+
+
+32, 1	90, 1-3	GFR	oeddwn i wedi	NSNT	NSNT
+32, 2	91, 1-5	GFR	ond be wnes i wneud	NSNT	NSNT
+32, 3	92, 1-5	GFR	wnes i stopio am fis	NSNT	NSNT
+32, 4	93, 1-7	GFR	a dweud bod fi wedi brifo mhenglin	NSNT	NSNT
+32, 5	94, 1-4	GFR	bod fi yn giami	NSNT	NSNT
+32, 6	95, 1-12	GFR	ac o'n i mynd i weld wrth weld sut mae pethau yn	NSNT	NSNT
+32, 7	97, 1-4	GFR	a wedyn wnes i	NSNT	NSNT
+32, 8	98, 1-3	GFR	o'n i mynd	NSNT	NSNT
+32, 9	100, 1-10	GFR	dw i mynd i roi gorau iddi diwedd y flwyddyn	NSNT	NSNT
+32, 10	101, 1-2	GFR	wnes i	NSNT	NSNT
+32, 11	101, 3-12	GFR	wnes i ffonio *just* rhywbryd cyn Nadolig a flwyddyn newydd	NST	NST
+32, 12	102, 1-10	GFR	a wnes i godi *phone* ar y ysgrifennydd i ddweud	NST	NST
+32, 13	102, 11-16	GFR	bod fi yn rhoi gorau iddi	NSNT	NSNT
+32, 14	102, 17-19	GFR	a bod fi	NSNT	NSNT
+32, 15	105, 1-6	GFR	a wedyn *oh* oeddwn i wedi	NST	NST
+32, 16	106, 1-11	GFR	*oh* *yeah* o'n i yn gallu wneud y penderfyniad erbyn hynny	NST	NST
+32, 17	108, 1-3	GFR	oedd o yn	NSNT	NSNT
+32, 18	108, 4-7	GFR	oedd o yn *alright*	NST	NST
+32, 19	108, 8-8	GFR	ynde	NSNT	NSNT
+32, 20	109, 1-2	GFR	ond *er*	---	NST
+
+
+33, 1	110, 1-12	MRL	penderfyniadau mawr yn digwydd yn dy fywyd ar hyn o bryd felly	---	NSNT
+
+
+34, 1	111, 1-5	GFR	ofnadwy riteirio riteirio o bob_dim	---	NSNT
+
+
+35, 1	112, 1-5	MRL	tybed fe fydd yr un	NSNT	NSNT
+35, 2	112, 6-6	MRL	nesa	---	NSNT
+
+
+36, 1	113, 1-9	GFR	*bloody* hell *yeah* be dw i mynd i wneud	---	ST
+
+
+37, 1	114, 1-13	MRL	fydda chdi wedi mynd a prynu rywbeth fawr neu rywbeth cyn bo hir	NSNT	NSNT
+37, 2	114, 14-14	MRL	ynde	NSNT	NSNT
+37, 3	115, 1-8	MRL	fydda chdi efo rhyw gwch hwylio neu rywbeth	---	NSNT
+
+
+38, 1	116, 1-6	GFR	*ah* *yeah* fasai *nice* *yeah* God	---	ST
+
+
+39, 1	117, 1-5	MRL	fedra i ei weld o	---	NSNT
+
+
+40, 1	119, 1-3	GFR	ond na mae	NSNT	NSNT
+40, 2	119, 4-5	GFR	mae *job*	NST	NST
+40, 3	119, 6-7	GFR	dw i	NSNT	NSNT
+40, 4	119, 8-11	GFR	wedi bod yn gweithio	NSNT	NSNT
+40, 5	119, 12-13	GFR	dw i	NSNT	NSNT
+40, 6	119, 14-21	GFR	wedi bod yn gweithio ar ddydd Sadwrn hefyd	NSNT	NSNT
+40, 7	120, 1-9	GFR	wneud dipyn bach o waith weirio yma ac acw	NSNT	NSNT
+40, 8	122, 1-4	GFR	a wedyn mae hwnna	NSNT	NSNT
+40, 9	122, 5-12	GFR	wedi bod *er* hefyd yn llenwi yr amser	NST	NST
+40, 10	124, 1-3	GFR	a wedyn mae	NSNT	NSNT
+40, 11	124, 4-10	GFR	dw i watsiad ambell i *game* *rugby*	NST	NST
+40, 12	125, 1-7	GFR	wedyn mae hi yn tymor rhyngwladol rwan	NSNT	NSNT
+40, 13	126, 1-3	GFR	*so* Duw timod	NST	NST
+40, 14	126, 4-7	GFR	dydy o ddim yn	NSNT	NSNT
+40, 15	126, 8-11	GFR	dydy o ddim yn	NSNT	NSNT
+40, 16	128, 1-3	GFR	dim yn poeni	---	NSNT
+
+
+41, 1	129, 1-5	MRL	be oeddwn i am ddweud	NSNT	NSNT
+41, 2	130, 1-3	MRL	sôn am weirio	NSNT	NSNT
+41, 3	132, 1-2	MRL	rhywbeth bach	NSNT	NSNT
+41, 4	133, 1-3	MRL	timod y cawod	NSNT	NSNT
+41, 5	134, 1-4	MRL	dw i wedi sôn	SNT	NSNT
+41, 6	136, 1-3	MRL	bally cawod yma	NSNT	SNT
+41, 7	137, 1-3	MRL	mae cawod i_fewn	---	NSNT
+
+
+42, 1	138, 1-4	GFR	hen gawod ydy *yeah*	---	NST
+
+
+43, 1	139, 1-5	MRL	na *yeah* mae gawod newydd	---	NST
+
+
+44, 1	140, 1-6	GFR	ai gorfod gosod cawod newydd felly	---	NSNT
+
+
+45, 1	141, 1-7	MRL	*yeah* mae gawod wedi cael ei osod	NST	NST
+45, 2	143, 1-6	MRL	*so* does dim angen gosod cawod	---	NST
+
+
+46, 1	144, 1-4	GFR	cawod *er* *yeah* *yeah*	---	NST
+
+
+47, 1	145, 1-6	MRL	mae hynna wedi wneud yn iawn	NSNT	NSNT
+47, 2	145, 7-7	MRL	ynde	NSNT	NSNT
+47, 3	146, 1-7	MRL	a mae o yn gweithio yn *great*	NST	NST
+47, 4	147, 1-5	MRL	*well* dw i yn dweud	NST	NST
+47, 5	147, 6-10	MRL	mae yn gweithio yn *great*	NST	NST
+47, 6	148, 1-8	MRL	ond am pan mae yr *fuse* yn chwythu	NST	NST
+47, 7	149, 1-3	MRL	be sy yna	NSNT	NSNT
+47, 8	149, 4-4	MRL	yw	NSNT	NSNT
+47, 9	150, 1-1	MRL	paid	NSNT	NSNT
+47, 10	150, 2-6	MRL	gofyn i mi yn union	NSNT	NSNT
+47, 11	151, 1-6	MRL	paid sbïo arnof fi fel yna	---	NSNT
+
+
+48, 1	152, 1-12	GFR	*yeah* *yeah* na *sorry* dw i yn edrych yn *yeah* *yeah* *yeah*	---	NST
+
+
+49, 1	153, 1-4	MRL	*um* be sy yna	NST	NST
+49, 2	153, 5-5	MRL	yw	NSNT	NSNT
+49, 3	154, 1-1	MRL	paid	NSNT	NSNT
+49, 4	154, 2-4	MRL	gofyn i mi	NSNT	NSNT
+49, 5	154, 5-7	MRL	be ydy wattage	SNT	SNT
+49, 6	154, 8-8	MRL	ynde	NSNT	NSNT
+49, 7	155, 1-4	MRL	ond mae yn amlwg	NSNT	NSNT
+49, 8	156, 1-9	MRL	mae yr cawod yn rhy cry i yr *fuse*	NST	NST
+49, 9	158, 1-4	MRL	sy gen i *right*	NST	NST
+49, 10	160, 1-8	MRL	a mae o yn un hen *fashion* uffernol	NST	NST
+49, 11	161, 1-8	MRL	wedyn mae yr genod yng nghanol *um* cawod	NST	NST
+49, 12	162, 1-5	MRL	a mae yr cawod yn	NSNT	NSNT
+49, 13	162, 6-10	MRL	mae yr *fuse* yn chwythu	---	NST
+
+
+50, 1	163, 1-9	GFR	a mae o un o yr cartridge *fuses* yma	---	ST
+
+
+51, 1	164, 1-13	MRL	*er* rhaid i chi *fiddle* *fiddle* ynde *um* yn yn hen hen *fashion*	NST	NST
+51, 2	165, 1-2	MRL	dydy o	NSNT	NSNT
+51, 3	165, 3-8	MRL	ydy hynna yn braidd yn rhy	---	NSNT
+
+
+52, 1	166, 1-6	GFR	*well* *yeah* mae angen wneud o	---	NST
+
+
+53, 1	167, 1-3	MRL	ddeudwn ni *yeah*	---	NST
+
+
+54, 1	168, 1-5	GFR	ond *er* *er* mae yna	NST	NST
+54, 2	169, 1-2	GFR	mae *fuse*	NST	NST
+54, 3	170, 1-1	GFR	mae	NSNT	NSNT
+54, 4	170, 2-2	GFR	mae	NSNT	NSNT
+54, 5	170, 3-4	GFR	mae nhw	NSNT	NSNT
+54, 6	170, 5-19	GFR	cyfri cawodydd fath â pethau rhai o pethau mwya eitemau mwya peryg yn y tŷ	---	NSNT
+
+
+55, 1	171, 1-1	MRL	peryg	---	NSNT
+
+
+56, 1	172, 1-7	GFR	oherwydd bod gen ti drydan yn *bathroom*	NST	NST
+56, 3	174, 1-2	GFR	a bod	NSNT	NSNT
+56, 4	174, 3-4	GFR	pan mae	NSNT	NSNT
+56, 5	174, 5-8	GFR	pan bod hi wlyb	NSNT	NSNT
+56, 6	174, 9-17	GFR	wyt ti yn cario mwy o drydan a ballu	NSNT	NSNT
+56, 7	176, 1-3	GFR	a wedyn mae	NSNT	NSNT
+56, 8	176, 4-9	GFR	os ydy o chwythu *fuses* traddodiadol	NST	NST
+56, 9	178, 1-9	GFR	achos mae rheiny cymryd mwy o lwyth i chwythu	NSNT	NSNT
+56, 10	178, 10-12	GFR	nag ydy rhai	---	NSNT
+
+
+57, 1	179, 1-3	MRL	*oh* *right* newydd	---	NST
+
+
+58, 1	180, 1-12	GFR	na na yr rhai faset ti gosod circuit breaker *um* circuit breaker	ST	ST
+58, 2	180, 13-13	GFR	ynde	NSNT	NSNT
+58, 3	182, 1-5	GFR	yna fasai hwnnw ddim yn	NSNT	NSNT
+58, 4	182, 6-10	GFR	fasai hwnnw chwythu yn gynt	NSNT	NSNT
+58, 5	183, 1-7	GFR	os ydy o yr un un rating	---	SNT
+
+
+59, 1	184, 1-6	MRL	*yeah* *yeah* ond mae hyn rating	---	ST
+
+
+60, 1	185, 1-6	GFR	neu tripio fasai fo yn gynt	NSNT	NSNT
+60, 2	185, 7-7	GFR	ynde	NSNT	NSNT
+60, 3	187, 1-5	GFR	ond y y peryg ydy	NSNT	NSNT
+60, 4	187, 6-13	GFR	a dw i ddim yn gwybod heb sbïo	NSNT	NSNT
+60, 5	187, 15-24	GFR	ydy dy cable di yn ddigon cry i gario yr	NSNT	SNT
+60, 6	189, 1-5	GFR	i gario yr load ynde	NSNT	SNT
+60, 7	190, 1-1	GFR	achos	---	NSNT
+
+
+61, 1	191, 1-9	MRL	achos mae o yn y yn y *box* trydan	NST	NST
+61, 2	191, 10-11	MRL	mae o	NSNT	NSNT
+61, 3	192, 1-8	MRL	mae o *right* wrth ymyl yr actual supply	---	ST
+
+
+62, 1	193, 1-7	GFR	*yeah* wna i sbïo fo i chdi	NST	NST
+62, 2	194, 1-6	GFR	a wna i ddweud wrtha chdi	NSNT	NSNT
+62, 3	194, 7-11	GFR	os fedra i wneud o	---	NSNT
+
+
+63, 1	195, 1-10	MRL	ond os os os mae o rhy peth yna wedyn	NSNT	NSNT
+63, 2	196, 1-4	MRL	ond dw i gwybod	NSNT	NSNT
+63, 3	196, 5-8	MRL	mae angen un newydd	---	NSNT
+
+
+64, 1	197, 1-2	GFR	wna i	NSNT	NSNT
+64, 2	197, 3-8	GFR	wna i sbïo fo i chdi	NSNT	NSNT
+64, 3	198, 1-11	GFR	ond faswn i ddim yn cael gosod cawod newydd i chdi	---	NSNT
+
+
+65, 1	199, 1-11	MRL	na na na *well* na mae yr cawod wedi ei osod	NST	NST
+65, 2	199, 12-12	MRL	ynde	---	NSNT
+
+
+66, 1	200, 1-8	GFR	achos erbyn rwan mae rhaid ti rhaid ti	NSNT	NSNT
+66, 2	200, 9-17	GFR	mae rhaid ti adael i bobl building regs wybod	NSNT	SNT
+66, 3	201, 1-8	GFR	os ti yn gosod cawod newydd mewn tŷ	---	NSNT
+
+
+67, 1	202, 1-4	MRL	be ar y ddaear	NSNT	NSNT
+67, 2	203, 1-6	MRL	o'n i ddim yn sylweddoli hynny	---	NSNT
+
+
+68, 1	204, 2-5	GFR	mae hyn yn newydd	NSNT	NSNT
+68, 2	205, 2-5	GFR	mae o yn newydd	NSNT	NSNT
+68, 3	206, 1-8	GFR	ond mae o rywbeth i wneud efo safonau	NSNT	NSNT
+68, 4	206, 9-9	GFR	diogelwch	---	NSNT
+
+
+69, 1	207, 1-1	MRL	argian	---	NSNT
+
+
+70, 1	208, 1-10	GFR	bobl wneud ormod o bobl d_i_y yn gosod pethau peryg	NSNT	SNT
+70, 2	210, 1-8	GFR	*so* wna i gael golwg arno efo chdi	NST	NST
+70, 3	211, 1-6	GFR	a wna i ddweud wrtha chdi	NSNT	NSNT
+70, 4	211, 7-13	GFR	os fedra i wneud o neu beidio	---	NSNT
+
+
+71, 1	212, 1-6	MRL	os wnei di *yeah* *yeah* *yeah*	---	NST
+
+
+72, 1	213, 1-9	GFR	ond hwyrach bod o yn gofyn gosod *trip* ar	NST	NST
+72, 2	213, 10-15	GFR	uned ar_wahân i yr gawod hwyrach	NSNT	NSNT
+72, 3	213, 16-16	GFR	ynde	---	NSNT
+
+
+73, 1	214, 1-7	MRL	mae yna un arbennig i yr gawod	---	NSNT
+
+
+74, 1	215, 1-7	GFR	mae yna un arbennig i yr gawod	---	NSNT
+
+
+75, 1	216, 1-6	MRL	a mae yna gable ar_gyfer hwnna	---	SNT
+
+
+76, 1	217, 1-7	GFR	*yeah* a mae o *right* drwchus yn_dydy	---	NST
+
+
+77, 1	218, 1-1	MRL	ar_gyfer	NSNT	NSNT
+77, 2	219, 1-2	MRL	a mae	NSNT	NSNT
+77, 3	219, 3-5	MRL	mae yr *thing*	NST	NST
+77, 4	220, 1-3	MRL	ti yn gwybod	NSNT	NSNT
+77, 5	221, 1-8	MRL	mae o yn rhyw *fox* *plastic* hen *fashion*	NST	NST
+77, 6	222, 1-3	MRL	a mae yna	NSNT	NSNT
+77, 7	222, 4-7	MRL	mae yna *switch* yno	NST	NST
+77, 8	224, 1-4	MRL	achos y peth ydy	NSNT	NSNT
+77, 9	226, 1-9	MRL	does gen i ddim pull *cord* wrth y gawod	NST	ST
+77, 10	226, 10-11	MRL	ei hunan	NSNT	NSNT
+77, 11	227, 1-3	MRL	ti yn gweld	---	NSNT
+
+
+78, 1	228, 1-3	GFR	*oh* nag oes	NST	NST
+78, 2	230, 1-5	GFR	sut mae yn dod on	---	SNT
+
+
+79, 1	231, 1-2	MRL	felly mae	NSNT	NSNT
+79, 2	231, 3-3	MRL	mae	NSNT	NSNT
+79, 3	231, 4-6	MRL	be ydy o	NSNT	NSNT
+79, 4	231, 7-7	MRL	yw	NSNT	NSNT
+79, 5	232, 1-9	MRL	dylian ni actually switsio fo *off* ac ymlaen ynde	NST	ST
+79, 6	233, 1-5	MRL	ond dw i *just* yn	NST	NST
+79, 7	234, 1-6	MRL	mae o ymlaen trwy yr amser	NSNT	NSNT
+79, 8	236, 1-7	MRL	yn y *box* trydan ti yn gweld	NST	NST
+79, 9	238, 1-7	MRL	*um* ella dylian ni switsio fo *off*	NST	NST
+79, 10	239, 1-10	MRL	ond dim_ond rwan dw i yn ffindio wedi ffindio mai	NSNT	NSNT
+79, 11	239, 11-11	MRL	dyna	NSNT	NSNT
+79, 12	239, 12-14	MRL	lle ydy o	---	NSNT
+
+
+80, 1	240, 1-6	GFR	wna i sbïo fo i chdi	NSNT	NSNT
+80, 2	241, 1-6	GFR	a wna i adael chdi wybod	NSNT	NSNT
+80, 3	243, 1-5	GFR	ond *er* mae yn debyg	NST	NST
+80, 4	243, 6-6	GFR	bydd	NSNT	NSNT
+80, 5	243, 7-12	GFR	bydd angen i ti osod *switch*	NST	NST
+80, 6	245, 1-2	GFR	*so* mae	NST	NST
+80, 7	245, 3-15	GFR	mae swnio fath â rhywun d_i_y wedi wneud o wedi osod o rhywdro	---	SNT
+
+
+81, 1	246, 1-4	MRL	*yeah* yn wreiddiol ynde	---	NST
+
+
+82, 1	247, 1-2	GFR	yn wreiddiol	NSNT	NSNT
+82, 2	249, 1-13	GFR	*so* ti isio yr ti isio yr cordyn i i switsio fo ffwrdd	---	NST
+
+
+83, 1	250, 1-12	MRL	*yeah* *oh* *well* mae yna *lot* o bodge *jobs* yn tŷ ni	NST	ST
+83, 2	251, 1-7	MRL	dydy o ddim yn synnu fi dim	NSNT	NSNT
+83, 3	251, 8-8	MRL	ynde	---	NSNT
+
+
+84, 1	254, 1-5	GFR	ond wna i sbïo *yeah*	NST	NST
+84, 2	256, 1-6	GFR	ond mae o dipyn bach yn	NSNT	NSNT
+84, 3	256, 7-9	GFR	mae rai pobl	NSNT	NSNT
+84, 4	256, 10-16	GFR	timod dipyn bach yn nerfus o hynny	---	NSNT
+
+
+85, 1	257, 1-15	MRL	*yeah* *yeah* *well* o'n i yn meddwl ella fasa chdi yn ffindio fo braidd yn	---	NST
+
+
+86, 1	258, 1-7	GFR	ond *er* wna i adael chdi wybod	NST	NST
+86, 2	258, 8-12	GFR	os ydy o yn beryg	---	NSNT
+
+
+87, 1	261, 1-6	MRL	ond dydy o ddim yn rywbeth	NSNT	NSNT
+87, 2	261, 7-12	MRL	sy yn dŵad o yr *box*	NST	NST
+87, 3	261, 13-16	MRL	ei hunan yn uniongyrchol	NSNT	NSNT
+87, 4	263, 1-6	MRL	*so* yr *er* un o yr	NST	NST
+87, 5	264, 1-2	MRL	achos oedd	NSNT	NSNT
+87, 6	264, 3-3	MRL	roedd	NSNT	NSNT
+87, 7	264, 4-10	MRL	roedd y *boy* wedi sbïo arno fo	NST	NST
+87, 8	264, 11-23	MRL	oedd wedi gosod y cawod i mi yn dweud ella mai yr *Manweb*	NST	NST
+87, 9	264, 24-32	MRL	fasai raid dŵad i i wneud hwnna i ni	NSNT	NSNT
+87, 10	265, 1-2	MRL	ond *um*	---	NST
+
+
+88, 1	268, 1-5	GFR	na wnawn nhw wneud dim_byd	NSNT	NSNT
+88, 2	269, 1-11	GFR	na wnawn nhw ddim wneud dim_byd ochr chdi i yr meter	SNT	SNT
+88, 3	269, 12-12	GFR	ynde	NSNT	NSNT
+88, 4	271, 1-11	GFR	*so* bod raid ti gael electrician ochr chdi i yr meter	ST	ST
+88, 5	273, 1-8	GFR	*yeah* *oh* wna i sbïo fo i chdi	NST	NST
+88, 6	275, 1-7	GFR	Duw yn iawn wna i wneud hynny	NSNT	NSNT
+88, 7	275, 8-12	GFR	neu wnawn ni wneud hynny	---	NSNT
+
+
+89, 1	276, 1-1	MRL	wneud	NSNT	NSNT
+89, 2	277, 1-3	MRL	diolch yn fawr	---	NSNT
+
+
+90, 1	279, 1-3	GFR	rywbeth i wneud	NSNT	NSNT
+90, 3	281, 1-10	GFR	achos es i efo *Lana* ddoe yn gorffen neu neithiwr	NST	NST
+90, 4	281, 11-19	GFR	gorffen *er* disconnect_io yr *um* pethau peiriant malu cachu	---	ST
+
+
+91, 1	282, 1-1	MRL	oeddet	NSNT	NSNT
+91, 2	283, 1-2	MRL	malu cachu	---	NSNT
+
+
+92, 1	284, 1-5	GFR	peiriant tu_ôl i yr *toilet*	NST	NST
+92, 2	285, 1-3	GFR	peiriant fan yna	---	NSNT
+
+
+93, 1	286, 1-4	MRL	*oh* *yeah* *yeah* wir	---	NST
+
+
+94, 1	288, 1-10	GFR	*so* es i yno efo *Ludwig* ryw fore Sadwrn dweud	NST	NST
+94, 2	289, 1-4	GFR	be ydy hwnna *Dad*	NST	NST
+94, 3	290, 1-3	GFR	a fi dweud	NSNT	NSNT
+94, 4	291, 1-3	GFR	peiriant malu cachu	---	NSNT
+
+
+95, 1	293, 1-7	MRL	be oedd hi isio gosod un felly	---	NSNT
+
+
+96, 1	294, 1-5	GFR	*so* mae hi wedi gosod	NST	NST
+96, 2	294, 6-10	GFR	be mae hi wedi wneud	NSNT	NSNT
+96, 3	294, 11-18	GFR	ydy gosod *toilet* o_dan y yn y cwt	NST	NST
+96, 4	294, 19-20	GFR	dan grisiau	---	NSNT
+
+
+97, 1	295, 1-3	MRL	*oh* wela i	---	NST
+
+
+98, 1	296, 1-1	GFR	ynde	NSNT	NSNT
+98, 2	298, 1-12	GFR	a wedyn *um* wyt ti isio *electric* i_fewn i yr *box* yma	NST	NST
+98, 3	298, 13-16	GFR	sy yn y cefn	NSNT	NSNT
+98, 4	300, 1-5	GFR	dw i ddim yn gwybod	NSNT	NSNT
+98, 5	300, 6-16	GFR	os faswn i yn gosod un o rheina fy hun chwaith	NSNT	NSNT
+98, 6	302, 1-6	GFR	na ond mae *er* cariad *Kelly*	NST	NST
+98, 7	303, 1-4	GFR	mae yn *plumber* *yeah*	NST	NST
+98, 8	304, 2-3	GFR	mae o	NSNT	NSNT
+98, 9	304, 4-15	GFR	wedi bod yn gosod yr *um* wneud y gwaith plymio a ballu	---	NST
+
+
+99, 1	305, 1-3	MRL	*oh* ydy o	NST	NST
+99, 2	307, 1-3	MRL	*ah* wela i	---	NST
+
+
+100, 1	308, 1-2	GFR	a wedyn	NSNT	NSNT
+100, 2	309, 1-5	GFR	*so* wnaethon ni drio cael	NST	NST
+100, 3	310, 1-15	GFR	oedd y pob peth yn ei le a *electric* i_gyd yn gweithio i bob peth	NST	NST
+100, 4	311, 1-3	GFR	ond oedd y	NSNT	NSNT
+100, 5	311, 4-8	GFR	oedd y plumbing yn gollwng	NSNT	SNT
+100, 6	312, 1-11	GFR	*so* oedd raid i *Ted* wneud ryw ychydig o waith *so*	NST	NST
+100, 8	314, 1-10	GFR	rhwng rhwng *Ted* a fi yn wneud yr *er* *yeah*	---	NST
+
+
+101, 1	317, 1-2	MRL	*oh* *well*	ST	NST
+101, 2	318, 1-9	MRL	dw i yn dal i drio cysylltu efo hi	NSNT	NSNT
+101, 3	319, 1-4	MRL	dw i yn gadael	NSNT	NSNT
+101, 4	319, 5-8	MRL	negeseuon ar ei pheiriant	NSNT	NSNT
+101, 5	321, 1-11	MRL	ond dydw i dal ddim wedi siarad yn iawn efo hi	---	NSNT
+
+
+102, 1	322, 1-7	GFR	*yeah* dw i ddim yn *sure* iawn	NST	NST
+102, 2	323, 1-2	GFR	mae hi	NSNT	NSNT
+102, 3	323, 3-4	GFR	mae hi	NSNT	NSNT
+102, 4	324, 1-6	GFR	dw i ddim yn *sure* iawn	NST	NST
+102, 5	325, 1-2	GFR	mae hi	NSNT	NSNT
+102, 6	325, 3-12	GFR	mae hi yn bach yn mixed ar hyn o bryd	NSNT	SNT
+102, 7	326, 1-8	GFR	be mae hi yn mynd i wneud ynglŷn	NSNT	NSNT
+102, 8	326, 9-9	GFR	â	---	NSNT
+
+
+103, 1	327, 1-3	MRL	ti yn meddwl	---	NSNT
+
+
+104, 1	328, 1-10	GFR	*yeah* achos o'n i yn trafod efo hi ynglŷn â	NST	NST
+104, 2	329, 1-5	GFR	dydy hi ddim yn gwybod	NSNT	NSNT
+104, 3	329, 6-9	GFR	ydy hi mynd i	NSNT	NSNT
+104, 4	329, 11-25	GFR	ydy hi yn keen i wneud y *business* yma o gael *crew* yn gweithio iddi	NST	ST
+104, 5	331, 1-3	GFR	dw i ddim	NSNT	NSNT
+104, 6	331, 4-4	GFR	dw	NSNT	NSNT
+104, 7	331, 5-9	GFR	mae hi yn meddwl hwyrach	NSNT	NSNT
+104, 8	331, 10-16	GFR	na fasai hi ddim gallu manejio fo	---	NSNT
+
+
+105, 1	332, 1-5	MRL	dydy hi ddim yn gallu	---	NSNT
+
+
+106, 1	333, 1-7	GFR	ddim yn mynd i allu manejio fo	NSNT	NSNT
+106, 2	334, 1-5	GFR	dw i ddim yn gwybod	NSNT	NSNT
+106, 3	337, 1-3	GFR	mae yn dibynnu	NSNT	NSNT
+106, 4	339, 1-3	GFR	dweud y gwir	---	NSNT
+
+
+107, 1	340, 1-9	MRL	ond mae hi yn gwneud yn iawn efo *Kelly*	NST	NST
+107, 2	341, 1-3	MRL	am wn i	---	NSNT
+
+
+108, 1	342, 3-7	GFR	dw i ddim yn gwybod	NSNT	NSNT
+108, 2	343, 1-11	GFR	mae yna rai pethau hwyrach wedi wneud hi feddwl fel arall	NSNT	NSNT
+108, 3	345, 1-9	GFR	*so* a mae hi wedi cael trafferth efo adran	---	NST
+
+
+109, 1	349, 1-9	MRL	*yeah* *well* dw i yn gwneud hwnna rwan yn_dydw	---	NST
+
+
+110, 1	350, 1-6	GFR	*oh* ti wneud hynna *oh* *yeah*	---	NST
+
+
+111, 1	351, 1-1	MRL	dyna	NSNT	NSNT
+111, 2	351, 2-3	MRL	be ydy	NSNT	NSNT
+111, 3	351, 4-5	MRL	dyna be	NSNT	NSNT
+111, 4	352, 1-8	MRL	wna i ddweud wrth chdi yn rhyw ben	NSNT	NSNT
+111, 5	354, 1-7	MRL	be dw i yn bwriadu gwneud *aww*	---	NST
+
+
+112, 1	355, 1-2	GFR	wneud *yeah*	NST	NST
+112, 2	357, 1-3	GFR	ond ges i	NSNT	NSNT
+112, 3	357, 4-13	GFR	ges i e_mail blooming *snotty* gan *Ceinwen* ynglŷn â hwnna	NST	ST
+112, 4	359, 1-4	GFR	*well* o'n i teimlo	NST	NST
+112, 5	360, 1-2	GFR	nodyn do	---	NSNT
+
+
+113, 1	361, 1-3	MRL	*oh* wnaeth hi	NST	NST
+113, 2	361, 4-6	MRL	wnaeth hi ddweud	SNT	NSNT
+113, 4	363, 1-3	MRL	*oh* I think	NST	NST
+113, 5	363, 4-7	MRL	I've *upset* *er* *Gwynfor*	ST	NST
+113, 6	364, 1-4	MRL	a o'n i meddwl	NSNT	NSNT
+113, 7	367, 1-3	MRL	wnaeth hi ddweud	SNT	NSNT
+113, 8	368, 1-3	MRL	*oh* I think	NST	NST
+113, 9	368, 4-6	MRL	I've *upset* *Gwynfor*	ST	NST
+113, 10	369, 1-5	MRL	ond *er* dw i ddim	NST	NST
+113, 11	369, 6-10	MRL	dw i ddim yn *sure*	NST	NST
+113, 12	369, 11-15	MRL	os oedd hi yn bwriadu	NSNT	NSNT
+113, 13	369, 16-19	MRL	bod yn *um* snot_lyd	---	ST
+
+
+114, 1	370, 1-8	GFR	*oh* na ond aeth hi dipyn bach yn	NST	NST
+114, 2	370, 9-12	GFR	timod y peth braidd	---	NSNT
+
+
+115, 1	371, 1-4	MRL	oedd o yn swnio	---	NSNT
+
+
+116, 1	373, 1-4	GFR	ac o'n i meddwl	SNT	NSNT
+116, 2	374, 1-2	GFR	hold on	SNT	NSNT
+116, 3	375, 2-7	GFR	dw i ddim isio wneud dim	NSNT	NSNT
+116, 4	377, 1-6	GFR	a dw i ddim yn gwybod	NSNT	NSNT
+116, 5	378, 1-3	GFR	oedd hi hwyrach	NSNT	NSNT
+116, 6	378, 4-9	GFR	bod hi ddim yn meddwl o	NSNT	NSNT
+116, 7	379, 1-6	GFR	ond aeth o o'n i meddwl	NSNT	NSNT
+116, 8	380, 1-11	GFR	*well* rhaid chdi fod tipyn bach mwy *sensitive* efo dy tôn	NST	NST
+116, 9	382, 1-5	GFR	achos dw i yn darparu	NSNT	NSNT
+116, 10	382, 6-20	GFR	dw i yn darparu yr gwasanaeth i helpu ddim i flipping wneud pethau yn anodd	NSNT	SNT
+116, 11	385, 1-3	GFR	ynde mewn ffordd	NSNT	NSNT
+116, 12	385, 4-11	GFR	oedden nhw wedi trio gwneud y ffordd cynt	NSNT	NSNT
+116, 13	386, 2-6	GFR	mae hwn yn mynd ers	NSNT	NSNT
+116, 14	386, 7-7	GFR	tro	NSNT	NSNT
+116, 15	388, 1-6	GFR	achos *Contracts* ddaru gysylltu efo fi	NST	NST
+116, 16	389, 1-8	GFR	a gofyn oes bosib i mi helpu nhw	NSNT	NSNT
+116, 17	391, 1-11	GFR	achos oedden nhw methu cael trefn ar *gontract* i sortio fo	NST	NST
+116, 18	393, 1-7	GFR	a wedyn *er* o'n i yn teimlo	NST	NST
+116, 19	394, 1-6	GFR	*oh* oedden nhw yn beio yr	NST	NST
+116, 20	395, 1-9	GFR	yn lle yn lle bod nhw yn edrych ar	NSNT	NSNT
+116, 21	395, 10-14	GFR	be oedden nhw wedi wneud	NSNT	NSNT
+116, 22	396, 1-7	GFR	o'n nhw yn beio yr call_off *contract*	ST	ST
+116, 23	397, 1-12	GFR	yn beio *Lana* yn beio pawb heblaw beio nhw eu hunain timod	NST	NST
+116, 24	399, 1-4	GFR	ac o'n i meddwl	SNT	NSNT
+116, 25	400, 1-3	GFR	hold on timod	---	SNT
+
+
+117, 1	401, 1-5	MRL	*oh* mae nhw wedi ffindio	NST	NST
+117, 2	402, 1-13	MRL	mae nhw yn defnyddio *Malcolm* ar_gyfer rywbeth arall efo hi dydd Gwener yma	NST	NST
+117, 3	403, 1-12	MRL	a mae nhw wedi ffindio fo yn yn *great* ti yn gweld	---	NST
+
+
+118, 1	405, 1-6	GFR	i wneud hwnnw *yeah* *yeah* *yeah*	---	NST
+
+
+119, 1	406, 1-4	MRL	mwyaf mwya helpful a	NSNT	SNT
+119, 2	408, 1-5	MRL	dw i ddim yn gwybod	NSNT	NSNT
+119, 3	409, 1-4	MRL	dw i meddwl ella	---	NSNT
+
+
+120, 1	410, 1-3	GFR	dw i meddwl	NSNT	NSNT
+120, 2	410, 4-8	GFR	be oedd y *broblem* bod	NST	NST
+120, 3	410, 9-12	GFR	oedden nhw ddim yn	NSNT	NSNT
+120, 4	410, 13-17	GFR	dw i ddim yn meddwl	NSNT	NSNT
+120, 5	410, 18-24	GFR	bod nhw yn *glear* iawn efo *Lana*	NST	NST
+120, 6	411, 1-6	GFR	a be oedd gennyn nhw isio	NSNT	NSNT
+120, 7	413, 1-8	GFR	a wedyn timod os na ti yn *glear*	---	NST
+
+
+121, 1	414, 1-5	MRL	ond mae hi yn dweud	NSNT	NSNT
+121, 2	414, 6-9	MRL	oedd hi yn *glear*	NST	NST
+121, 3	414, 10-12	MRL	ynde ond *um*	NST	NST
+121, 4	416, 1-5	MRL	ond dw i wedi trio	---	NSNT
+
+
+122, 1	417, 1-5	GFR	*well* fasai fo yn *glear*	NST	NST
+122, 2	418, 1-5	GFR	fasai ddim angen cyfarfod na_fuasai	---	NSNT
+
+
+123, 1	419, 1-7	MRL	*yeah* oedda chdi yn dweud *yeah* *yeah*	---	NST
+
+
+124, 1	420, 1-5	GFR	os wyt ti yn *glear*	NST	NST
+124, 2	421, 1-7	GFR	gen ti gen ti *spec* wedi sgwennu	---	NST
+
+
+125, 1	423, 1-3	MRL	rhaid mi gyfaddef	---	NSNT
+
+
+126, 1	424, 1-7	GFR	a ti *just* yn danfon nhw ynde	---	NST
+
+
+127, 1	425, 1-9	MRL	dw i yn hoffi trafod efo pobl yn union	NSNT	NSNT
+127, 2	425, 10-21	MRL	be mae nhw isio cael allan ohono fo i wedi dweud hynny	---	NSNT
+
+
+128, 1	427, 1-4	GFR	wyt ti isio hynny	---	NSNT
+
+
+129, 1	428, 1-10	MRL	os ti isio cael *er* y cefndir ac ati ynde	NST	NST
+129, 2	429, 1-2	MRL	ond *um*	---	NST
+
+
+130, 1	430, 1-3	GFR	dw i meddwl	NSNT	NSNT
+130, 2	430, 4-10	GFR	oedd *Kelly* wedi mynd i_mewn i cyfarfod	NST	NST
+130, 3	430, 11-13	GFR	a bod *um*	NST	NST
+130, 4	430, 14-15	GFR	bod hi	NSNT	NSNT
+130, 5	430, 16-21	GFR	wedi bod yn holi *lot* *lot*	NST	NST
+130, 6	432, 1-4	GFR	i wneud *sure* timod	NST	NST
+130, 7	433, 1-8	GFR	ydach chi *sure* ydach chi wedi cael timod	NST	NST
+130, 8	435, 1-6	GFR	dyma ydach chi isio wneud felly	---	NSNT
+
+
+131, 1	436, 1-5	MRL	timod *well* *er* y sefyllfa	---	NST
+
+
+132, 1	438, 1-3	GFR	dw i meddwl	NSNT	NSNT
+132, 2	438, 4-18	GFR	bod nhw wedi cael dipyn bach o *doubt* yn eu meddyliau yn sgil yr holi	NST	NST
+132, 3	440, 1-4	GFR	*so* dw i ddim	NST	NST
+132, 4	440, 5-9	GFR	dw i ddim yn gwybod	---	NSNT
+
+
+133, 1	441, 1-4	MRL	ond dw i meddwl	NSNT	NSNT
+133, 2	441, 5-7	MRL	timod yn ddelfrydol	NSNT	NSNT
+133, 3	442, 1-5	MRL	achos be dw i meddwl	NSNT	NSNT
+133, 4	442, 6-9	MRL	dw i wedi ffindio	NSNT	NSNT
+133, 5	442, 10-10	MRL	yw	NSNT	NSNT
+133, 6	443, 1-11	MRL	ti yn gwybod mae nhw wedi wedi rhedeg y consultation yma	NSNT	SNT
+133, 7	444, 1-4	MRL	a wedyn mae gweithdy	NSNT	NSNT
+133, 9	446, 3-7	MRL	wnawn ni gael consultation papur	NSNT	SNT
+133, 10	449, 1-7	MRL	*oh* a wedyn wnawn ni gael gweithdy	NST	NST
+133, 11	450, 1-10	MRL	ond dydy yr *brocess* ddim wedi gael ei weithio allan	---	NST
+
+
+134, 1	451, 1-2	GFR	hefo ei_gilydd	NSNT	NSNT
+134, 2	453, 1-8	GFR	nach_ydy na mae o dipyn bach yn disjointed	---	SNT
+
+
+135, 1	454, 1-5	MRL	a a dw i meddwl	NSNT	NSNT
+135, 2	454, 6-6	MRL	dyna	NSNT	NSNT
+135, 3	454, 7-9	MRL	dw i meddwl	NSNT	NSNT
+135, 4	454, 10-11	MRL	os oedd	NSNT	NSNT
+135, 5	454, 13-18	MRL	os oedd *Lana* neu pwy bynnag	NST	NST
+135, 6	454, 19-30	MRL	wedi bod ar_gael i osod y peth i_fyny *right* ar y cychwyn	NST	NST
+135, 7	456, 1-3	MRL	fasai yr *brocess*	NST	NST
+135, 8	456, 4-12	MRL	timod ddylia yr *brocess* wedi cael ei mapio allan	NST	NST
+135, 9	457, 1-10	MRL	a wedyn basai yr gweithdy wedi slotio i_fewn yn amlwg	NSNT	NSNT
+135, 10	457, 11-15	MRL	timod yn llawer mwy eglur	---	NSNT
+
+
+136, 1	458, 1-11	GFR	*yeah* fasan nhw wedi meddwl y *brocess* i_gyd yn llawn *yeah*	NST	NST
+136, 2	460, 1-6	GFR	a dw i ddim yn gwybod	NSNT	NSNT
+136, 3	460, 7-10	GFR	ydan ni medru fel	NSNT	NSNT
+136, 4	460, 11-15	GFR	timod darllen rhwng y llinellau	NSNT	NSNT
+136, 5	461, 1-11	GFR	faint o fusnesau oedd yn mynd ymlaen efo rhywun arall uwchben	NSNT	NSNT
+136, 6	463, 1-6	GFR	ac o'n i yn meddwl hwyrach	NSNT	NSNT
+136, 7	465, 1-3	GFR	*Ceinwen* wneud oedd	NST	NST
+136, 8	465, 4-8	GFR	oedd dweud *um* *oh* *er*	ST	NST
+136, 10	467, 1-1	GFR	I'm	NSNT	NSNT
+136, 11	467, 2-6	GFR	I'm getting annoyed with this	SNT	NSNT
+136, 12	469, 1-3	GFR	dechrau e_mail hi	NSNT	SNT
+136, 13	470, 1-6	GFR	oedd hi yn blooming e_mail hir	---	SNT
+
+
+137, 1	471, 1-2	MRL	*oh* no	---	NST
+
+
+138, 1	472, 1-6	GFR	a wedyn yn dweud *er* timod	ST	NST
+138, 2	473, 1-6	GFR	if this can't be sorted out	NSNT	NSNT
+138, 3	474, 1-5	GFR	if this continues fath â	NSNT	SNT
+138, 4	475, 1-3	GFR	dw i mynd	NSNT	NSNT
+138, 5	476, 1-10	GFR	fath â y trafod ynglŷn â yr peth yn parhau	NSNT	NSNT
+138, 6	478, 1-3	GFR	oedd hi yn	SNT	NSNT
+138, 7	479, 1-9	GFR	I'll have to escalate it to *Jac_Davies* and *Gwyn_Hughes*	ST	NST
+138, 8	480, 1-6	GFR	a dyma fi yn meddwl *oh*	NST	NST
+138, 9	481, 1-7	GFR	be mae hi yn trio ddweud felly	NSNT	NSNT
+138, 10	483, 1-4	GFR	yn dweud *er* *so*	NST	NST
+138, 11	484, 1-3	GFR	*so* wnes i	NST	NST
+138, 12	486, 1-5	GFR	wnes i ddweud *well* *um*	NST	NST
+138, 13	487, 1-4	GFR	o'n i yn dweud	SNT	NSNT
+138, 14	488, 1-1	GFR	I'm	NSNT	NSNT
+138, 15	488, 2-2	GFR	I'm	NSNT	NSNT
+138, 16	488, 3-11	GFR	I'm reviewing the situation because of the call_off *contract*	ST	NST
+138, 17	489, 1-4	GFR	yn dweud *well* *um*	NST	NST
+138, 19	490, 17-17	GFR	ynde	SNT	NSNT
+138, 22	493, 1-10	GFR	but otherwise it sounds like *er* going to the headmaster	ST	NST
+138, 23	493, 11-12	GFR	meddai fi	---	NSNT
+
+
+139, 1	494, 1-7	MRL	*yeah* *yeah* *yeah* yn union yn union	---	NST
+
+
+140, 1	495, 1-5	GFR	*well* dipyn bach timod cystal	NST	NST
+140, 2	495, 6-7	GFR	â dweud	NSNT	NSNT
+140, 3	496, 1-5	GFR	mae dipyn bach yn fygythiol	NSNT	NSNT
+140, 4	498, 1-5	GFR	o'n i yn teimlo timod	---	NSNT
+
+
+141, 1	499, 1-4	MRL	ond dw i meddwl	NSNT	NSNT
+141, 2	499, 5-10	MRL	bod *Callum* wedi gweld y costau	NST	NST
+141, 3	500, 1-6	MRL	a wedyn oedd o wedi dychryn	NSNT	NSNT
+141, 4	502, 1-6	MRL	a wedyn oedd o wedi dweud	NSNT	NSNT
+141, 5	503, 1-18	MRL	cadwch hwn allan o allan o *er* allan o ffordd allan o lygaid *er* i_ffwrdd o lygaid *Gwyn*	---	NST
+
+
+142, 1	504, 1-1	GFR	*Gwyn*	---	NST
+
+
+143, 1	505, 1-5	MRL	neu fasai yna drafferth mawr	NSNT	NSNT
+143, 2	506, 1-13	MRL	ond o'n i yn trafod y peth ddoe efo *Henry* a a *Ceinwen*	NST	NST
+143, 3	508, 1-11	MRL	ti gwybod isio gosod rhyw fath o raglen allan ac ati	NSNT	NSNT
+143, 4	510, 1-3	MRL	a mae *Henry*	NST	NST
+143, 5	510, 4-11	MRL	mae *Henry* a *Ceinwen* yn ofnus ofnadwy ynglŷn	NST	NST
+143, 6	510, 12-12	MRL	â	NSNT	NSNT
+143, 7	510, 13-17	MRL	sut mae o am fihafio	NSNT	NSNT
+143, 8	511, 1-6	MRL	oherwydd fel mae *Henry* yn dweud	NST	NST
+143, 9	512, 1-4	MRL	mae o ar_fin gadael	NSNT	NSNT
+143, 10	513, 1-5	MRL	a mae o yn ofni	NSNT	NSNT
+143, 11	513, 6-15	MRL	bod *Mr_Nibs* isio gadael ti gwybod wedi gwneud rhyw *fark*	NST	NST
+143, 12	513, 16-16	MRL	ynde	NSNT	NSNT
+143, 14	515, 1-8	MRL	*so* mae gen i yn y gweithdy yma	NST	NST
+143, 15	515, 9-12	MRL	fydd gen i *Gwyn*	NST	NST
+143, 16	516, 1-4	MRL	fydd gen i *Gwyn*	NST	NST
+143, 17	517, 1-6	MRL	a fydd gen i *Paul_Blair* hefyd	NST	NST
+143, 18	517, 7-8	MRL	ynde *so*	---	NST
+
+
+144, 1	519, 1-12	GFR	a mae nhw i_gyd yn mynd i fod yn show *off* mode	ST	ST
+144, 2	519, 13-15	GFR	timod beryg iawn	---	NSNT
+
+
+145, 1	520, 1-5	MRL	*well* faswn i yn meddwl	NST	NST
+145, 3	523, 1-7	MRL	*so* mae am fod yn *er* ddiddorol	NST	NST
+145, 4	523, 8-9	MRL	de ond	NSNT	NSNT
+145, 6	526, 1-3	MRL	*oh* dyna fo	NST	NST
+145, 8	528, 1-4	MRL	dim ots gen i	NSNT	NSNT
+145, 9	529, 1-7	MRL	a bydd rhaid mi fod yn trio	NSNT	NSNT
+145, 10	529, 8-16	MRL	bod yn in my diplomatic mode y diwrnod hwnnw	NSNT	SNT
+145, 11	531, 1-3	MRL	am wn i	NSNT	NSNT
+145, 12	531, 4-4	MRL	ynde	---	NSNT
+
+
+146, 1	532, 1-10	GFR	*oh* rhaid ni weld dyro gweld sut y weithith o	NST	NST
+146, 2	534, 1-5	GFR	ond y y pwynt ydy	NSNT	NSNT
+146, 3	535, 1-2	GFR	mae nhw	NSNT	NSNT
+146, 4	535, 3-14	GFR	mae yr costau yn ddigon *clear* yn y call_off *contract* yn barod	NST	ST
+146, 5	536, 1-2	GFR	a timod	NSNT	NSNT
+146, 6	536, 3-8	GFR	mae nhw gallu gweld yn dda	NSNT	NSNT
+146, 7	537, 1-5	GFR	mae yna rai rhatach na	NSNT	NSNT
+146, 8	539, 1-8	GFR	a wedyn mae fyny iddyn nhw ddefnyddio nhw	NSNT	NSNT
+146, 9	540, 1-6	GFR	os dweud wrthyn nhw bod raid	NSNT	NSNT
+146, 10	542, 1-6	GFR	wneud nhw timod wneud eu penderfyniadau	NSNT	NSNT
+146, 12	544, 1-4	GFR	ond *um* os nad	NST	NST
+146, 13	544, 5-11	GFR	wyt ti yn *glear* o dy beth	NST	NST
+146, 14	544, 12-17	GFR	ydy dy brief di dy hun	NSNT	SNT
+146, 15	546, 1-8	GFR	a ti yn disgwyl i dy gontractor di	---	SNT
+
+
+147, 1	547, 1-3	MRL	weithio fo allan	---	NSNT
+
+
+148, 1	548, 1-5	GFR	weithio fo allan drosta chdi	NSNT	NSNT
+148, 2	550, 1-14	GFR	fedri di ddim cymryd hwnna am ganiatâd bod o yn dod am ddim na_alli_di	NSNT	NSNT
+148, 3	552, 1-6	GFR	timod *um* ac yn mewn ffordd	NST	NST
+148, 4	552, 7-12	GFR	mae o yn dweud yn y	NSNT	NSNT
+148, 5	552, 13-15	GFR	timod yn y	NSNT	NSNT
+148, 6	552, 16-17	GFR	mae yn	NSNT	NSNT
+148, 7	552, 18-19	GFR	mae yn	NSNT	NSNT
+148, 8	552, 20-23	GFR	fanteision y call_off *contract*	ST	ST
+148, 9	552, 24-25	GFR	ydy weithiau	NSNT	NSNT
+148, 10	552, 26-30	GFR	dydan ni ddim yn gwybod	NSNT	NSNT
+148, 11	552, 31-34	GFR	be ydan ni isio	---	NSNT
+
+
+149, 1	553, 1-17	MRL	*yeah* wedyn mae rhywun yn dod i_fewn i i i i glirio fo *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+150, 1	554, 1-5	GFR	*so* ti gallu defnyddio hwnna	NST	NST
+150, 2	555, 1-11	GFR	*handy* cael rhywun helpu chdi weithio allan be wyt ti isio	NST	NST
+150, 3	556, 1-12	GFR	ond dwyt ti ddim alli di ddim disgwyl cael hwnnw am ddim	---	NSNT
+
+
+151, 1	557, 1-3	MRL	na na ond	---	NSNT
+
+
+152, 1	558, 1-5	GFR	dw i ddim yn meddwl	---	NSNT
+
+
+153, 1	559, 1-3	MRL	mae wedi mynd	NSNT	NSNT
+153, 2	560, 1-3	MRL	dw i meddwl	NSNT	NSNT
+153, 3	560, 4-8	MRL	oedd *Ceinwen* wedi gosod pethau	NST	NST
+153, 4	561, 1-11	MRL	*well* hyd y gwela i oedd hi wedi gosod pethau allan	NST	NST
+153, 5	561, 12-12	MRL	ynde	---	NSNT
+
+
+154, 1	563, 1-4	GFR	be oedden nhw *yeah*	---	NST
+
+
+155, 1	564, 1-4	MRL	dw i ddim yn	NSNT	NSNT
+155, 2	564, 5-10	MRL	dw i ddim yn gwybod ynde	NSNT	NSNT
+155, 3	566, 1-8	MRL	dw i meddwl ar ar ddiwedd y diwrnod	NSNT	NSNT
+155, 4	567, 1-2	MRL	doedd y	SNT	NSNT
+155, 5	567, 3-6	MRL	you know yn amlwg	NSNT	SNT
+155, 6	567, 7-18	MRL	doedd y *er* drafodaeth rhyngddyn nhw ddim wedi gweithio allan yn iawn	NST	NST
+155, 7	569, 1-5	MRL	timod yn y pen draw	NSNT	NSNT
+155, 8	569, 6-10	MRL	wyt ti yn gwybod os	---	NSNT
+
+
+156, 1	570, 1-8	GFR	ond o'n i yn poeni braidd ynglŷn â	NSNT	NSNT
+156, 2	570, 9-19	GFR	timod os ti yn danfon dau hwylusydd wedyn i gymryd brief	SNT	SNT
+156, 3	572, 1-1	GFR	*so*	ST	NST
+156, 4	573, 1-6	GFR	ond o'n i yn poeni wedyn	SNT	NSNT
+156, 5	574, 1-3	GFR	*well* blooming heck	ST	NST
+156, 6	575, 1-1	GFR	mae	NSNT	NSNT
+156, 7	575, 2-6	GFR	mae tsiarjo am ddau wedyn	---	NSNT
+
+
+157, 1	577, 1-2	MRL	a mae	NSNT	NSNT
+157, 2	577, 3-7	MRL	ond roedd hi wedi mynnu	NSNT	NSNT
+157, 3	577, 8-18	MRL	bod yna bedwar o hwyluswyr Cyngor_Cefn_Gwlad yno i i helpu hefyd	---	NSNT
+
+
+158, 1	580, 1-2	GFR	brief_io nhw	NSNT	SNT
+158, 2	581, 1-10	GFR	*oh* *yeah* wedi mynd i *yeah* am brief_io rheiny *yeah*	---	ST
+
+
+159, 1	582, 1-11	MRL	*well* dw i ddim yn *sure* os mai brief *well* *just*	---	ST
+
+
+160, 1	583, 1-5	GFR	*yeah* brief brief_io oedd o	---	ST
+
+
+161, 1	584, 1-6	MRL	*just* *well* *yeah* am wn i	NST	NST
+161, 2	584, 7-7	MRL	ynde	NSNT	NSNT
+161, 3	586, 1-5	MRL	o'n i wedi meddwl roid	---	NSNT
+
+
+162, 1	587, 1-4	GFR	ond dw i *yeah*	NST	NST
+162, 2	588, 1-4	GFR	dw i meddwl ofalus	NSNT	NSNT
+162, 3	588, 5-7	GFR	ydy wneud *sure*	NST	NST
+162, 4	588, 8-26	GFR	bod hi yn rhoi breakdown manwl yn ei yn ei chostau fel arall i ffitio efo yr call_off *contract*	ST	ST
+162, 5	591, 1-14	GFR	*um* achos mae o fod i adlewyrchu yr costau sydd wedi cael eu cyflwyno	---	NST
+
+
+163, 1	596, 1-5	MRL	*well* wna i rhyw ben	NST	NST
+163, 2	596, 6-11	MRL	wna i ddangos i chdi ella	NSNT	NSNT
+163, 3	596, 12-17	MRL	be ydw i yn bwriadu gwneud	---	NSNT
+
+
+164, 1	597, 1-5	GFR	gwneud *oh* iawn *yeah* *yeah*	---	NST
+
+
+165, 1	598, 1-5	MRL	dw i ddim yn *um*	NST	NST
+165, 2	598, 6-10	MRL	dw i ddim yn *sure*	NST	NST
+165, 3	599, 1-1	MRL	mae	NSNT	NSNT
+165, 4	599, 2-12	MRL	mae o yn rywbeth dyrys ofnadwy i gael fy mhen o_gwmpas	NSNT	NSNT
+165, 5	599, 13-13	MRL	ynde	NSNT	NSNT
+165, 6	600, 1-3	MRL	dw i yn	NSNT	NSNT
+165, 7	600, 4-12	MRL	dw i yn ffindio fo yn bwnc dryslyd ofnadwy	NSNT	NSNT
+165, 8	600, 13-13	MRL	ynde	NSNT	NSNT
+165, 9	602, 1-2	MRL	bersonol ynde	SNT	NSNT
+165, 10	603, 1-2	MRL	natural beauty	---	NSNT
+
+
+166, 1	604, 1-5	GFR	*oh* *well* dyma yr *point*	NST	NST
+166, 2	605, 1-5	GFR	mae o yn hynod contentious	SNT	SNT
+166, 4	607, 1-3	GFR	faswn i meddwl	NSNT	NSNT
+166, 5	608, 1-4	GFR	a hefyd ynde *well*	NST	NST
+166, 6	608, 5-7	GFR	mae yn dibynnu	NSNT	NSNT
+166, 7	608, 8-14	GFR	oes gen ti arbenigwyr ynddo ynddo fo	NSNT	NSNT
+166, 8	610, 2-8	GFR	wyt ti yn mynd i gael cytundeb	NSNT	NSNT
+166, 9	612, 1-2	GFR	nag wyt	NSNT	NSNT
+166, 10	612, 3-5	GFR	mae yn debyg	NSNT	NSNT
+166, 11	612, 6-6	GFR	nad	NSNT	NSNT
+166, 12	612, 7-14	GFR	wyt ti *just* yn mynd i allu identify_o	---	ST
+
+
+167, 1	613, 1-5	MRL	dw i ddim yn meddwl	NSNT	NSNT
+167, 2	613, 6-6	MRL	ynde	SNT	NSNT
+167, 3	614, 1-5	MRL	identifying *issues* dw i meddwl	NST	ST
+167, 4	614, 6-9	MRL	dw i am wneud	---	NSNT
+
+
+168, 1	615, 1-5	GFR	*issues* yn yn timod ble	NST	NST
+168, 2	615, 6-9	GFR	mae yna contentions a	---	SNT
+
+
+169, 1	618, 1-4	MRL	*oh* fydda i yn	NST	NST
+169, 2	618, 5-9	MRL	fydda i yn gwneud rywbeth	NSNT	NSNT
+169, 3	619, 1-8	MRL	be yn y bôn dw i am wneud	NSNT	NSNT
+169, 4	619, 9-9	MRL	yw	NSNT	NSNT
+169, 6	620, 23-23	MRL	ynte	NSNT	NSNT
+169, 7	622, 1-1	MRL	mae	NSNT	NSNT
+169, 8	622, 2-7	MRL	mae gen y y Cynulliad rheswm	NSNT	NSNT
+169, 9	622, 8-8	MRL	ynde	NSNT	NSNT
+169, 10	624, 1-10	MRL	ond bod angen i fod yna gonsensus yn y gweithdy	NSNT	SNT
+169, 11	625, 1-2	MRL	timod sut	NSNT	NSNT
+169, 12	625, 3-16	MRL	sut mae diffinio hwn am helpu chi yn eich gwaith neu rywbeth fel yna	NSNT	NSNT
+169, 13	626, 1-10	MRL	*er* neu helpu yr corff chi yn y gwaith ynde	NST	NST
+169, 14	628, 1-4	MRL	yn ei waith ynde	NSNT	NSNT
+169, 15	629, 1-6	MRL	wedyn gawn ni ryw syniad o	NSNT	NSNT
+169, 16	630, 1-2	MRL	achos mae	NSNT	NSNT
+169, 17	630, 3-16	MRL	mae rai pobl eraill am fod â rhesymau gwahanol dros yr angen i ddiffinio	NSNT	NSNT
+169, 18	630, 17-19	MRL	prydferthwch naturiol ynde	NSNT	NSNT
+169, 19	633, 1-11	MRL	felly dw i isio trio cael hwnna yn *glear* up *front*	ST	ST
+169, 20	633, 12-12	MRL	ynde	NSNT	NSNT
+169, 21	634, 1-5	MRL	bod ni yn *glear* pam	NST	NST
+169, 22	634, 6-11	MRL	ydan ni yn trio gwneud hyn	NSNT	NSNT
+169, 23	634, 12-12	MRL	ynde	NSNT	NSNT
+169, 24	635, 1-14	MRL	a wedyn yn y bôn dw i am drio fynd trwy *brocess* tebyg i	NST	NST
+169, 25	635, 15-24	MRL	be wnaethon ni wneud ym *Mhenrhyndeudraeth* ychydig o wythnosau yn_ôl	NST	NST
+169, 26	636, 1-17	MRL	lle mae grwpiau gwahanol *um* y grwpiau yn dod i_fyny efo eu bron eu statements eu hunain	NST	ST
+169, 27	636, 18-18	MRL	ynde	NSNT	NSNT
+169, 29	638, 20-26	MRL	dydy bobl ddim yn gallu byw efo	NSNT	NSNT
+169, 30	639, 1-4	MRL	a gweld be fedri	NSNT	NSNT
+169, 31	639, 5-13	MRL	fedrwch chi eirio pethau i gymryd i_fewn i ystyriaeth	SNT	NSNT
+169, 32	639, 14-18	MRL	you know unrhyw *er* gwrthdaro	---	ST
+
+
+170, 1	641, 1-4	GFR	yn ble mae o	---	NSNT
+
+
+171, 1	642, 1-2	MRL	yn *Llanelwedd*	---	NST
+
+
+172, 1	643, 1-3	GFR	yn ble yno	---	NSNT
+
+
+173, 1	644, 1-7	MRL	yn *um* *oh* be ydy o *Hafod_y_Hendre*	---	NST
+
+
+174, 1	647, 1-5	GFR	pa un ydy hwnnw dyweda	---	NSNT
+
+
+175, 1	648, 1-5	MRL	dw i ddim yn gwybod	NSNT	NSNT
+175, 2	649, 1-10	MRL	ond fydda i isio mynd â display *boards* hefo fi	NST	ST
+175, 3	650, 1-8	MRL	achos does yna ddim sicrwydd o wal o_gwbl	---	NSNT
+
+
+176, 1	651, 1-3	GFR	*yeah* a waliau	NST	NST
+176, 2	653, 1-5	GFR	*oh* fues i mewn *er*	NST	NST
+176, 3	654, 1-15	GFR	*oh* *yeah* o'n i gwneud y cwrs yma ddoe efo *Lana* efo Cyngor *Gwynedd* *yeah*	---	NST
+
+
+177, 1	655, 1-9	MRL	*oh* dyma be oedda chdi yn gwneud *oh* *right*	---	NST
+
+
+178, 1	656, 1-7	GFR	y lle gorau i gynnal gweithgareddau yn	---	NSNT
+
+
+179, 1	657, 1-4	MRL	*yeah* dw i gwybod	---	NST
+
+
+180, 1	658, 1-3	GFR	ti bod yna	---	NSNT
+
+
+181, 1	659, 1-3	MRL	dw i gwybod	NSNT	NSNT
+181, 2	660, 1-6	MRL	dw i wedi deud wrth *yeah*	NST	NST
+181, 3	660, 7-7	MRL	yndw	SNT	NSNT
+181, 4	661, 1-2	MRL	*sorry* *Gwynfor*	---	NST
+
+
+182, 1	662, 1-4	GFR	pryd wnest ti ddeud	NSNT	NSNT
+182, 2	663, 1-5	GFR	ti ddim wedi deud hynna	---	NSNT
+
+
+183, 1	664, 1-10	MRL	ella fy mod i ddim wedi sôn o efo chdi	NSNT	NSNT
+183, 2	666, 1-10	MRL	dw isio tynnu fo i sylw *crew* fyny fan yma	NST	NST
+183, 4	668, 1-4	MRL	ti gwybod mae yna	NSNT	NSNT
+183, 5	668, 5-9	MRL	lwythi o le yna yn_does	---	NSNT
+
+
+184, 1	669, 1-2	GFR	mae brilliant	---	SNT
+
+
+185, 1	670, 1-10	MRL	o'n i yn meddwl o'n i wedi sôn efo chdi	---	NSNT
+
+
+186, 1	671, 1-3	GFR	hwyrach bod chdi	---	NSNT
+
+
+187, 1	672, 1-1	MRL	*sorry*	---	NST
+
+
+188, 1	673, 1-4	GFR	hwyrach bod ti wedi	NSNT	NSNT
+188, 2	673, 5-5	GFR	sti	---	NSNT
+
+
+189, 1	674, 1-5	MRL	dw i wedi gwneud open	SNT	SNT
+189, 2	674, 6-10	MRL	wnes i wneud space yno	---	SNT
+
+
+190, 1	675, 1-6	GFR	hwyrach bod o ddim wedi rejistro	NSNT	NSNT
+190, 2	676, 1-2	GFR	i bwy	---	NSNT
+
+
+191, 1	677, 1-3	MRL	i Gyngor *Gwynedd*	NST	NST
+191, 2	679, 1-7	MRL	timod fi fy hunan ti yn gwybod	---	NSNT
+
+
+192, 1	680, 1-6	GFR	a mae wedi cael *office* space	ST	ST
+192, 2	682, 1-9	GFR	*oh* *yeah* yn fan yna wnest ti o *yeah*	---	NST
+
+
+193, 1	684, 1-10	MRL	roedd pawb yn y stafell gynhadledd yn y lle cynta	NSNT	NSNT
+193, 3	686, 1-7	MRL	a o'n nhw yn eistedd mewn rhesi	NSNT	NSNT
+193, 4	687, 1-11	MRL	a wedyn llwythi o breakout *rooms* i wneud *er* grwpiau bach	---	ST
+
+
+194, 1	689, 1-5	GFR	*well* mae y stafell yna	NST	NST
+194, 2	689, 6-9	GFR	de neu stafelloedd cynhadledd	NSNT	NSNT
+194, 3	690, 1-7	GFR	mae yr lle *just* yn stafelloedd i_gyd	---	NST
+
+
+195, 1	692, 1-11	MRL	*sorry* *Gwynfor* o'n i meddwl o'n i wedi sôn efo chdi	---	NST
+
+
+196, 1	693, 1-5	GFR	hwyrach bod ti wedi deud	NSNT	NSNT
+196, 2	694, 1-4	GFR	na hwyrach bod ti	NSNT	NSNT
+196, 3	694, 5-7	GFR	dw i meddwl	NSNT	NSNT
+196, 4	694, 8-11	GFR	bod ti wedi deud	---	NSNT
+
+
+197, 1	695, 1-5	MRL	dw i ddim yn gwybod	---	NSNT
+
+
+198, 1	696, 1-3	GFR	dw i meddwl	NSNT	NSNT
+198, 2	696, 4-5	GFR	bod fi	NSNT	NSNT
+198, 3	696, 6-8	GFR	dw i meddwl	NSNT	NSNT
+198, 4	696, 9-12	GFR	bod ti wedi dweud	---	NSNT
+
+
+199, 1	697, 1-3	MRL	achos dw i	NSNT	NSNT
+199, 2	697, 4-13	MRL	wedi bod isio anfon e_bost at *crew* fyny fan hyn	NST	NST
+199, 3	699, 1-6	MRL	i ddweud dyma ydy yr lle	NSNT	NSNT
+199, 4	700, 1-9	MRL	os ydach chi isio cynnal rhyw weithgaredd *er* rhyw	NST	NST
+199, 5	701, 1-6	MRL	yn lle mynd i ryw westy	NSNT	NSNT
+199, 6	702, 1-7	MRL	fel mae nhw yn tueddu i wneud	---	NSNT
+
+
+199, 7	703, 1-11	MRL	achos mae yr lle yma yn eitha *sort* of *blank* *paper*	ST	ST
+200, 2	706, 1-6	GFR	mae acoustics *Plas_Menai* yn wael iawn	NST	ST
+200, 3	708, 1-5	GFR	ond *um* oedd o yn	NST	NST
+200, 4	708, 6-10	GFR	oedd y lle yn wag	---	NSNT
+
+
+201, 1	709, 1-3	MRL	*yeah* yn gwybod	NST	NST
+201, 3	711, 1-6	MRL	mae o fel ryw *Marie_Celeste* yno	NST	NST
+201, 4	711, 7-7	MRL	tydy	---	NSNT
+
+
+202, 1	712, 1-7	GFR	yn deud *yeah* oedd *um* yn deud	NST	NST
+202, 2	712, 8-14	GFR	oedd *Arthur_Price* Cyngor *Gwynedd* yna yn deud	NST	NST
+202, 3	713, 1-11	GFR	*well* ydach chi yn gwybod le mae arian wedi mynd rwan	---	NST
+
+
+203, 1	714, 1-3	MRL	*yeah* wir gwybod	---	NST
+
+
+204, 1	715, 1-4	GFR	achos mae *sure* mai	NST	NST
+204, 2	715, 5-5	GFR	dyna	NSNT	NSNT
+204, 3	715, 6-7	GFR	ydy o	---	NSNT
+
+
+205, 1	716, 1-4	MRL	*well* *elephant* dyna beth	NST	NST
+205, 2	716, 5-7	MRL	oedd *um* *Duncan*	---	NST
+
+
+206, 1	717, 1-5	GFR	*oh* *er* *elephant* *elephant* gwyn	---	NST
+
+
+207, 1	718, 1-8	MRL	*Duncan* gyfeiriodd ato fo fel yr *elephant* gwyn	NST	NST
+207, 2	720, 1-5	MRL	pan soniais i efo fo	NSNT	NSNT
+207, 3	721, 1-11	MRL	achos o'n i yn meddwl fod o angen y rhywdwaith hefyd	---	NSNT
+
+
+208, 1	722, 1-8	GFR	ond mae yr lliw yn *ironic* *yeah* *yeah*	NST	NST
+208, 2	723, 1-4	GFR	*oh* na mae isio	NST	NST
+208, 3	723, 5-8	GFR	mae isio ei ddefnyddio	NSNT	NSNT
+208, 4	724, 1-7	GFR	achos mae yn wych i gynnal *um*	NST	NST
+208, 5	726, 1-16	GFR	a mae yna digon o lefydd parcio yno os ti isio tynnu pobl at ei_gilydd yno	NSNT	NSNT
+208, 6	727, 1-1	GFR	be	---	NSNT
+
+
+209, 1	728, 1-10	MRL	yn lle i lle i yn lle oeddech chi felly	NSNT	NSNT
+209, 2	729, 1-2	MRL	pa stafell	---	NSNT
+
+
+210, 1	730, 1-3	GFR	ar y llawr	---	NSNT
+
+
+211, 1	731, 1-5	MRL	*oh* i_fyny grisiau oeddech chi	---	NST
+
+
+212, 1	732, 1-3	GFR	fyny grisiau *yeah*	---	NST
+
+
+213, 1	733, 1-10	MRL	*oh* *right* *oh* dim_ond y llawr gwaelod wnaethon ni ddefnyddio	---	NST
+
+
+214, 1	735, 1-11	GFR	ond ar y ar *um* *er* iesgob ar y llawr cynta	NST	NST
+214, 2	737, 1-4	GFR	mae fo hollol wag	NSNT	NSNT
+214, 3	738, 1-3	GFR	yn hollol wag	---	NSNT
+
+
+215, 1	739, 1-4	MRL	*yeah* o'n i *yeah*	---	NST
+
+
+216, 1	740, 1-8	GFR	a gen ti stafell ar_ôl stafell ar_ôl stafell	NSNT	NSNT
+216, 2	742, 1-4	GFR	a mae yn fawr	NSNT	NSNT
+216, 3	744, 1-2	GFR	achos oedd	NSNT	NSNT
+216, 4	744, 3-4	GFR	gynnon ni	NSNT	NSNT
+216, 5	745, 1-6	GFR	*yeah* *group* o pymtheg oedd yno	NST	NST
+216, 6	745, 7-7	GFR	ynde	NSNT	NSNT
+216, 7	746, 1-7	GFR	ond *oh* oedd o yn *oh* *fantastic*	NST	NST
+216, 8	747, 1-7	GFR	ac o't ti yn gallu sbredio allan	NSNT	NSNT
+216, 9	749, 1-3	GFR	dw i *sure*	NST	NST
+216, 10	749, 4-5	GFR	bod y	NSNT	NSNT
+216, 11	750, 2-2	GFR	mae	NSNT	NSNT
+216, 12	750, 3-8	GFR	oedd y stafelloedd yma gymaint ag	NSNT	NSNT
+216, 13	750, 9-17	GFR	ydy yr stafell y prif stafell fawr fan yna	NSNT	NSNT
+216, 14	752, 1-8	GFR	a wedyn oedd gen ti un wal wydr	NSNT	NSNT
+216, 15	754, 1-5	GFR	sef â golwg dros Eryri	NSNT	NSNT
+216, 16	755, 1-7	GFR	*well* timod *Mynydd_Mawr* a *Moel_Eilio* a rheiny	NST	NST
+216, 17	757, 1-15	GFR	un a *balcony* ac a ffenest a drws sy yn agor hefyd os ti isio	NST	NST
+216, 19	761, 1-8	GFR	a wedyn wal wen berffaith ar y cefn	NSNT	NSNT
+216, 20	763, 1-5	GFR	ac oedd o yn *great*	---	NST
+
+
+217, 1	764, 1-7	MRL	be wnaethoch chi wneud o ran catering	NSNT	SNT
+217, 2	765, 1-3	MRL	*er* outside catering	---	NST
+
+
+218, 1	766, 1-2	GFR	*um* prifysgol	---	NST
+
+
+219, 1	767, 1-4	MRL	*yeah* prifysgol *yeah* dyna	NST	NST
+219, 2	767, 5-9	MRL	be wnaethon ni wneud *yeah*	---	NST
+
+
+220, 1	768, 1-3	GFR	ac oedd o	NSNT	NSNT
+220, 2	768, 4-5	GFR	oedd o	NSNT	NSNT
+220, 3	768, 6-10	GFR	oedd y bwyd yn dda	---	NSNT
+
+
+221, 1	769, 1-4	MRL	wnaethon nhw ddod i_fewn	---	NSNT
+
+
+222, 1	771, 1-8	GFR	*oh* dw i meddwl mai canpunt y *session*	NST	NST
+222, 2	773, 1-6	GFR	*yeah* dau_gan punt y dydd felly	NST	NST
+222, 3	774, 1-4	GFR	dw i yn meddwl	---	NSNT
+
+
+223, 1	775, 1-1	MRL	*well*	---	NST
+
+
+224, 1	776, 1-6	GFR	sef be mae *Plas_Menai* yn godi	---	NST
+
+
+225, 1	777, 1-5	MRL	*yeah* yn union yn union	---	NST
+
+
+226, 1	778, 1-8	GFR	a wedyn ac oedd y bwyd yn dda	NSNT	NSNT
+226, 2	779, 1-4	GFR	*Oswalds* *yeah* *Oswalds* ynde	NST	NST
+226, 3	781, 1-5	GFR	*so* na oedd o *great*	NST	NST
+226, 4	781, 6-9	GFR	â dweud y gwir	---	NSNT
+
+
+227, 1	782, 1-3	MRL	*oh* da iawn	NST	NST
+227, 2	784, 1-6	MRL	*oh* na na dw i yn	NST	NST
+227, 3	784, 7-20	MRL	dw i yn meddwl fod o yn yn delfrydol ar_gyfer bob math o bethau	NSNT	NSNT
+227, 4	784, 21-21	MRL	ynde	---	NSNT
+
+
+228, 1	786, 1-6	GFR	a mae yn hawdd mynd yno	---	NSNT
+
+
+229, 1	789, 1-4	MRL	parcio hawdd a bob_dim	---	NSNT
+
+
+230, 1	790, 1-12	GFR	mae o yn *just* hawdd yn mynd a parcio hawdd a bob_dim	---	NST
+
+
+231, 1	791, 1-6	MRL	*yeah* mae bob_dim yn gyfleus yno	---	NST
+
+
+232, 1	792, 1-6	GFR	ac o'n i yn teimlo hefyd	SNT	NSNT
+232, 2	793, 1-3	GFR	*oh* *yeah* *great*	ST	NST
+232, 3	795, 1-14	GFR	ond yr yr *just* yr y lle agored yma rywsut o't ti yn teimlo	---	NST
+
+
+233, 1	796, 1-3	MRL	os oeddech chi	NSNT	NSNT
+233, 2	796, 4-7	MRL	â un gennych chi	NSNT	NSNT
+233, 3	798, 1-7	MRL	achos ar_gyfer open space ti yn gweld	NSNT	SNT
+233, 4	800, 2-3	MRL	gynnon ni	NSNT	NSNT
+233, 5	800, 4-6	MRL	oedd o yn	NSNT	NSNT
+233, 6	801, 1-6	MRL	o'n ni ar y llawr gwaelod	NSNT	NSNT
+233, 7	802, 2-8	MRL	gynnon ni un stafell prif stafell gynhadleddau	NSNT	NSNT
+233, 8	804, 1-4	MRL	a wedyn oedd yna	NSNT	NSNT
+233, 9	804, 5-11	MRL	lwythi o stafelloedd lawr lawr y *corridor*	---	NST
+
+
+234, 1	805, 1-2	GFR	wedyn *mmm*	---	NST
+
+
+235, 1	806, 1-9	MRL	ond hefyd wedyn mae yna stafell fwyta ym mhen	NSNT	NSNT
+235, 2	807, 1-9	MRL	wnest ti fynd i stafell fwyta ym mhen pella	SNT	NSNT
+235, 3	809, 1-8	MRL	anyway mae yna stafell fwyta ym mhen pella	NSNT	SNT
+235, 4	810, 1-10	MRL	*well* mae nhw wedi gwneud rhyw bethau glyfar fan yna	NST	NST
+235, 5	811, 1-17	MRL	a mae yna ryw waliau di_ri hollol *blank* fan yna a llefydd i roi *er* peth yna	NST	NST
+235, 6	813, 1-7	MRL	a hyd_yn_oed *er* chimod efo breakout *group*	ST	ST
+235, 7	814, 2-4	MRL	mae cyntedd yno	NSNT	NSNT
+235, 8	815, 1-14	MRL	mae yna ddigonedd o le i chi gael rhyw drafodaeth bach mewn rhyw gornel	NSNT	NSNT
+235, 9	815, 15-15	MRL	ynde	---	NSNT
+
+
+236, 1	817, 3-8	GFR	mae yna ddigon o lefydd felly	NSNT	NSNT
+236, 2	817, 9-14	GFR	does i gael ryw bethau anffurfiol	---	NSNT
+
+
+237, 1	819, 1-4	MRL	ond be gaethon ni	NSNT	NSNT
+237, 3	820, 24-24	MRL	ynde	---	NSNT
+
+
+238, 1	821, 1-6	GFR	*oh* dyna chdi *yeah* *yeah* *yeah*	---	NST
+
+
+239, 1	822, 1-21	MRL	*so* *yeah* ar_ôl y digwyddiad yna o'n i yn meddwl fod o *just* y lle ar_gyfer y math yna o beth	---	NST
+
+
+240, 1	823, 1-5	GFR	*yeah* *oh* dw i *sure*	NST	NST
+240, 2	823, 6-11	GFR	bod ti wedi sôn ar_ôl meddwl	---	NSNT
+
+
+241, 1	824, 1-5	MRL	na na *sorry* na na	---	NST
+
+
+242, 1	825, 1-5	GFR	mae raid bod ti hwyrach	NSNT	NSNT
+242, 2	825, 6-7	GFR	bod ti	NSNT	NSNT
+242, 3	825, 8-11	GFR	dw i meddwl hwyrach	NSNT	NSNT
+242, 4	825, 12-17	GFR	bod ti wedi sôn amdano fo	---	NSNT
+
+
+243, 1	826, 1-4	MRL	dw i wedi achos	NSNT	NSNT
+243, 2	826, 5-8	MRL	wnes i sôn ynde	NSNT	NSNT
+243, 3	826, 9-11	MRL	a dw i	NSNT	NSNT
+243, 4	827, 1-5	MRL	achos fel dw i deud	NSNT	NSNT
+243, 5	828, 1-2	MRL	wnaeth *um*	NST	NST
+243, 6	828, 3-7	MRL	pan soniais i efo *Duncan*	NST	NST
+243, 7	829, 1-9	MRL	wnaeth o *just* sôn am yr *elephant* gwyn yna	NST	NST
+243, 8	829, 10-10	MRL	ynde	NSNT	NSNT
+243, 9	831, 1-7	MRL	a yr cwch draw i Iwerddon de	NSNT	NSNT
+243, 10	833, 1-6	MRL	ond *er* adeg hynny soniais i	NST	NST
+243, 11	834, 1-4	MRL	achos wnes i ddeud	NSNT	NSNT
+243, 12	835, 1-10	MRL	*oh* mae angen i rhwydwaith wybod am y lle yma	NST	NST
+243, 13	835, 11-11	MRL	ynde	---	NSNT
+
+
+244, 1	836, 1-5	GFR	*oh* *yeah* mae o yn	NST	NST
+244, 2	836, 6-7	GFR	mae yn	NSNT	NSNT
+244, 3	836, 8-9	GFR	werth chweil	---	NSNT
+
+
+245, 1	837, 1-4	MRL	achos mae yn ddelfrydol	---	NSNT
+
+
+246, 1	838, 2-5	GFR	mae isio ddefnyddio fo	NSNT	NSNT
+246, 2	840, 1-9	GFR	mae yna becyn Cymraeg i ddod o yna hefyd	---	NSNT
+
+
+247, 1	841, 1-12	MRL	oedd y ddynes yn edrych ar eich holau chi yn iawn hefyd	---	NSNT
+
+
+248, 1	843, 1-2	GFR	*oh* oedden	NST	NST
+248, 2	843, 3-6	GFR	oedden nhw yn iawn	NSNT	NSNT
+248, 3	844, 2-3	GFR	oedden nhw	NSNT	NSNT
+248, 4	844, 4-4	GFR	oedden	NSNT	NSNT
+248, 5	844, 5-7	GFR	oedden nhw yn	NSNT	NSNT
+248, 6	844, 8-17	GFR	oedd *lot* ohonyn nhw yn keen iawn i wneud *sure*	NST	ST
+248, 7	844, 18-22	GFR	bod bob peth yn dim	---	NSNT
+
+
+249, 1	845, 1-4	MRL	wna i ddeud chdi	NSNT	NSNT
+249, 2	845, 5-15	MRL	pwy sy yn gweithio yn y un o stafelloedd gwaelod yno	NSNT	NSNT
+249, 3	846, 1-12	MRL	*um* ti cofio *Gwenllian* oedd yma ers talwm yn gwneud y *stuff*	---	NST
+
+
+250, 1	848, 1-1	GFR	W_D_A	---	NSNT
+
+
+251, 1	849, 1-3	MRL	mae hi yn	NSNT	NSNT
+251, 2	849, 4-9	MRL	mae hi yn gweithio yn W_D_A	SNT	SNT
+251, 3	850, 1-4	MRL	wedyn mae hi *well*	NST	NST
+251, 4	850, 5-7	MRL	roedd hi yno	NSNT	NSNT
+251, 5	851, 1-5	MRL	pan wnes i fynd yno	NSNT	NSNT
+251, 6	852, 1-10	MRL	roedd hi efo *desk* bach yn y lle gwaelod *yeah*	---	NST
+
+
+252, 1	853, 1-4	GFR	yn fan yna *ah*	NST	NST
+252, 2	854, 1-9	GFR	*oh* *yeah* achos mae hi yn *um* w *yeah*	ST	ST
+252, 3	855, 1-8	GFR	peth ar y cyd efo W_D_A ydy o	NSNT	SNT
+252, 4	855, 10-11	GFR	medden nhw	SNT	NSNT
+252, 5	857, 1-1	GFR	*Bangor*	ST	NST
+252, 6	858, 1-8	GFR	ond *um* *yeah* *oh* dw ddim gwybod *oh*	NST	NST
+252, 7	858, 9-14	GFR	mae yna *menus* *right* dda yno	NST	NST
+252, 8	859, 1-2	GFR	iesgob annwyl	NSNT	NSNT
+252, 9	860, 1-12	GFR	ond o'n i *yeah* timod o'n i licio edrych am bethau *er*	NST	NST
+252, 10	860, 13-17	GFR	timod efo Cyngor_Cefn_Gwlad y lle	---	NSNT
+
+
+253, 1	861, 1-4	MRL	Cyngor_Cefn_Gwlad *yeah* *yeah* *yeah*	---	NST
+
+
+254, 1	862, 1-3	GFR	*well* *ideal* yndy	NST	NST
+254, 2	864, 1-10	GFR	faset ti yn gallu cael *staff* i_gyd i_fewn fan yna	---	NST
+
+
+255, 1	865, 1-2	MRL	*well* union	---	NST
+
+
+256, 1	866, 1-2	GFR	os isio	---	NSNT
+
+
+257, 1	867, 1-5	MRL	*yeah* *well* dw i meddwl	NST	NST
+257, 2	867, 6-6	MRL	bod	NSNT	NSNT
+257, 3	867, 7-10	MRL	timod ar_gyfer *seminar* *staff*	NST	NST
+257, 4	869, 1-4	MRL	mae yn ddelfrydol yn_dydy	---	NSNT
+
+
+258, 1	870, 1-9	GFR	mae yn well na fan hyn deud y gwir	---	NSNT
+
+
+259, 1	871, 1-5	MRL	*oh* faswn i yn deud	NST	NST
+259, 2	871, 6-6	MRL	ynde	---	NSNT
+
+
+260, 1	872, 1-8	GFR	*yeah* *yeah* achos mae hwn bach yn crammed	ST	ST
+260, 2	874, 1-2	GFR	ond *um*	---	NST
+
+
+261, 1	875, 1-4	MRL	mae yna rywbeth ynglŷn	NSNT	NSNT
+261, 2	875, 5-5	MRL	â	NSNT	NSNT
+261, 3	876, 1-10	MRL	*oh* mae hwn yn crammed ar_gyfer y y seminarau *staff*	NST	ST
+261, 4	877, 1-5	MRL	*oh* oedd yna llawer gormod	NST	NST
+261, 5	878, 1-7	MRL	fan hyn mae pobl yn eistedd *er*	---	NST
+
+
+262, 1	879, 1-2	GFR	cramped yndy	NSNT	SNT
+262, 2	879, 3-5	GFR	mae rhy crammed	SNT	SNT
+262, 3	880, 1-14	GFR	faset ti yn gallu cael bawb i_fewn yn un go yn fan yna yn_basai	NSNT	SNT
+262, 4	882, 1-1	GFR	basai	---	NSNT
+
+
+263, 1	883, 1-12	MRL	mae nhw yn eistedd ar gliniau ei_gilydd yn yn yn fan acw	NSNT	NSNT
+263, 2	885, 1-5	MRL	a mae yna rhywbeth ynglŷn	NSNT	NSNT
+263, 3	885, 6-13	MRL	â cael pobl allan i rywle gwahanol hefyd	NSNT	NSNT
+263, 4	885, 14-14	MRL	ynde	NSNT	NSNT
+263, 5	886, 1-2	MRL	fedrwch chi	NSNT	NSNT
+263, 6	886, 3-6	MRL	mae yn rhoi ryw	---	NSNT
+
+
+264, 1	887, 1-3	GFR	a rhyw rhyw	NSNT	NSNT
+264, 2	888, 1-3	GFR	be ydy rhain	---	NSNT
+
+
+265, 1	890, 1-12	MRL	*yeah* o'n i wedi meddwl fasai ein *er* ein adran hyfforddiant ni	NST	NST
+265, 2	892, 1-4	MRL	a ella central *office*	ST	ST
+265, 3	893, 1-13	MRL	o'n i wedi meddwl gofyn *um* sôn wrth *Betsy* neu un o rheina	NST	NST
+265, 4	895, 1-8	MRL	pan ydach chi yn trefnu eich *seminar* nesa	---	NST
+
+
+266, 1	896, 1-2	GFR	ond oedd	NSNT	NSNT
+266, 2	896, 3-7	GFR	ond oedd y bwyd yn	NSNT	NSNT
+266, 3	897, 1-2	GFR	timod weithiau	NSNT	NSNT
+266, 4	897, 3-3	GFR	mae	NSNT	NSNT
+266, 5	897, 4-9	GFR	mae bwyd cyrsiau yma yn boring	SNT	SNT
+266, 6	899, 1-4	GFR	*just* ryw ryw *sandwich*	NST	NST
+266, 7	900, 1-3	GFR	ond oedd *er*	NST	NST
+266, 8	900, 4-7	GFR	oedd o yn *nice*	NST	NST
+266, 9	901, 1-4	GFR	oedd o yn ddiddorol	NSNT	NSNT
+266, 10	903, 1-4	GFR	a wedyn oedden nhw	NSNT	NSNT
+266, 11	903, 5-17	GFR	oedd yn dod â *er* Prifysgol yn dod â paned a bob peth	---	NST
+
+
+267, 1	904, 1-10	MRL	*yeah* *yeah* *yeah* *yeah* dyna be o'n i yn ffindio	---	NST
+
+
+268, 1	905, 1-4	GFR	timod paneidiau yn dechrau	NSNT	NSNT
+268, 2	907, 1-3	GFR	ac wedyn *um*	---	NST
+
+
+269, 1	908, 1-9	MRL	mae nhw yn gweithio yn galed yn_ôl ac ymlaen	NSNT	NSNT
+269, 2	908, 10-10	MRL	ynde	NSNT	NSNT
+269, 4	913, 1-5	MRL	sut aeth y cwrs felly	---	NSNT
+
+
+270, 1	914, 1-2	GFR	da iawn	NSNT	NSNT
+270, 2	916, 1-5	GFR	do o'n i yn meddwl	NSNT	NSNT
+270, 3	916, 6-9	GFR	bod o yn *o_k*	NST	NST
+270, 4	917, 1-13	GFR	ond dydy *Lana* ddim yn gadael ti gael *lot* o gyfle i wneud	NST	NST
+270, 5	917, 14-14	GFR	ynde	NSNT	NSNT
+270, 6	918, 1-3	GFR	mae hi yn	NSNT	NSNT
+270, 7	921, 1-3	GFR	mae hi *oh*	NST	NST
+270, 8	921, 4-6	GFR	mae hi yn	NSNT	NSNT
+270, 9	921, 7-9	GFR	mae hi yn	NSNT	NSNT
+270, 10	921, 10-13	GFR	mae hi yn cymryd	NSNT	NSNT
+270, 11	921, 14-19	GFR	mae hi yn deud ei hun	NSNT	NSNT
+270, 12	922, 1-4	GFR	am bod hi yn	NSNT	NSNT
+270, 13	922, 5-8	GFR	timod isio controlio bob_dim	NSNT	NSNT
+270, 14	922, 9-9	GFR	ynde	---	NSNT
+
+
+271, 1	923, 1-2	MRL	controlio pethau	---	NSNT
+
+
+272, 1	925, 1-5	GFR	ond ar_ôl deud hynny timod	NSNT	NSNT
+272, 2	926, 1-7	GFR	o'n i yn meddwl amdano fo neithiwr	NSNT	NSNT
+272, 3	927, 1-3	GFR	ac o'n i	NSNT	NSNT
+272, 4	928, 1-8	GFR	dw i wedi colli *bits* o yr *microphone*	NST	NST
+272, 5	929, 1-6	GFR	ond o'n i yn meddwl neithiwr	NSNT	NSNT
+272, 6	930, 1-8	GFR	ti dal yn clywed fi fan yna *Marika*	NST	NST
+272, 7	931, 1-9	GFR	o'n i wedi colli yr *pompom* oddi_ar y *microphone*	NST	NST
+272, 9	933, 1-6	GFR	*yeah* ond o'n i meddwl neithiwr	NST	NST
+272, 10	934, 1-4	GFR	dw i yn *sure*	NST	NST
+272, 11	934, 5-11	GFR	faswn i yn gallu wneud wneud cwrs	NSNT	NSNT
+272, 12	935, 1-4	GFR	ond mae yn *sure*	NST	NST
+272, 13	935, 5-11	GFR	fasai rhywun yn cychwyn o yr cychwyn	NSNT	NSNT
+272, 14	937, 1-8	GFR	timod ac isio cynllunio un o yr newydd	NSNT	NSNT
+272, 15	937, 9-12	GFR	dw i yn meddwl	---	NSNT
+
+
+273, 1	938, 1-1	MRL	basat	---	NSNT
+
+
+274, 1	939, 1-4	GFR	dw i yn meddwl	NSNT	NSNT
+274, 2	941, 1-3	GFR	ond mae nhw	NSNT	NSNT
+274, 3	941, 4-5	GFR	mae o	NSNT	NSNT
+274, 4	941, 6-10	GFR	mae hi yn ailwampio fo	NSNT	NSNT
+274, 5	942, 1-4	GFR	dw i yn meddwl	NSNT	NSNT
+274, 6	942, 5-14	GFR	bod yna rai hanfodion ynddo fo yn y *dialogue* cynta	NST	NST
+274, 7	944, 1-6	GFR	ac eto dw i yn meddwl	NSNT	NSNT
+274, 8	944, 7-10	GFR	mae yna rywbeth ar_goll	NSNT	NSNT
+274, 9	945, 1-2	GFR	mae yna	NSNT	NSNT
+274, 10	945, 3-8	GFR	oedd yna o'n i yn meddwl	NSNT	NSNT
+274, 11	945, 9-13	GFR	mae yna rywbeth ar_goll hefyd	NSNT	NSNT
+274, 12	945, 14-14	GFR	ynde	NSNT	NSNT
+274, 13	946, 1-7	GFR	ond dw i ddim yn meddwl mai	NSNT	NSNT
+274, 14	947, 1-14	GFR	diffyg pwyslais ar y ar peidio mynd i_fewn i contents dw i yn meddwl	NSNT	SNT
+274, 15	947, 15-16	GFR	ydy o	NSNT	NSNT
+274, 16	949, 1-3	GFR	dw i meddwl	NSNT	NSNT
+274, 17	951, 1-4	GFR	dw i yn meddwl	NSNT	NSNT
+274, 18	951, 5-7	GFR	bod hwnnw ar_goll	NSNT	NSNT
+274, 19	951, 8-8	GFR	ynde	NSNT	NSNT
+274, 20	952, 1-4	GFR	*erm* achos oedd o	NST	NST
+274, 21	952, 5-13	GFR	oedd o o'n i yn trafod efo *Lana* neithiwr	NST	NST
+274, 22	953, 1-5	GFR	ac oedd hi yn deud	NSNT	NSNT
+274, 23	954, 1-4	GFR	*oh* *yeah* mae *um*	NST	NST
+274, 24	955, 1-4	GFR	oedd hi yn meddwl	NSNT	NSNT
+274, 25	955, 5-10	GFR	bod hi yn wneud o dipyn	NSNT	NSNT
+274, 26	956, 1-3	GFR	ond dydy ddim	---	NSNT
+
+
+275, 1	957, 1-2	MRL	na_ydy na	---	NSNT
+
+
+276, 1	958, 1-2	GFR	doedd hi	NSNT	NSNT
+276, 2	958, 3-8	GFR	na dydy hi ddim yn rhoi	NSNT	NSNT
+276, 3	958, 9-12	GFR	na dydy ddim yn	NSNT	NSNT
+276, 4	958, 13-19	GFR	dydy ddim yn rhoi gymaint o bwyslais	NSNT	NSNT
+276, 5	960, 1-2	GFR	arno fo	NSNT	NSNT
+276, 6	961, 1-8	GFR	dw i ddim do'n i ddim yn teimlo	---	NSNT
+
+
+277, 1	964, 1-1	MRL	content	---	NSNT
+
+
+278, 1	965, 1-4	GFR	achos dw i meddwl	NSNT	NSNT
+278, 2	965, 5-5	GFR	dyna	NSNT	NSNT
+278, 3	965, 6-8	GFR	be mae yr	---	NSNT
+
+
+279, 1	966, 1-13	MRL	*ah* *yeah* mae hwnna yn *er* un o yr pethau mwya hanfodol yn_tydy	---	NST
+
+
+280, 1	967, 1-2	GFR	peth *yeah*	NST	NST
+280, 2	968, 1-4	GFR	*well* mae o yn	NST	NST
+280, 3	969, 1-8	GFR	ti yn sortio hwnna allan *right* yn dechrau	NST	NST
+280, 4	971, 1-3	GFR	dw i meddwl	NSNT	NSNT
+280, 5	972, 1-4	GFR	ond *er* *crew* da	NST	NST
+280, 6	974, 1-6	GFR	*crew* da iawn deud y gwir	NST	NST
+280, 7	975, 1-6	GFR	oedden nhw gyd yn *positive* iawn	---	NST
+
+
+281, 1	976, 1-4	MRL	pwy oedd yno o	---	NSNT
+
+
+282, 1	977, 1-7	GFR	*well* *er* oedd gen ti swyddogion datblygu	NST	NST
+282, 2	977, 8-12	GFR	timod lleol y swyddogion adfywio	---	NSNT
+
+
+283, 1	981, 1-4	MRL	oedd *Afryl* yno felly	NST	NST
+283, 2	982, 1-2	MRL	nag oedd	NSNT	NSNT
+283, 3	984, 1-3	MRL	oedd *Afryl* yno	NST	NST
+283, 4	986, 1-3	MRL	*oh* chwarae teg	---	NST
+
+
+284, 1	987, 1-2	GFR	ac *um*	---	NST
+
+
+285, 1	988, 1-7	MRL	achos mae hi yn mynd though yn_tydy	NSNT	SNT
+285, 2	990, 1-1	MRL	bechod	---	NSNT
+
+
+286, 1	991, 2-3	GFR	mae hi	NSNT	NSNT
+286, 2	994, 1-2	GFR	ac *um*	---	NST
+
+
+287, 1	995, 1-3	MRL	felly oedd *Huw*	NST	NST
+287, 2	996, 1-5	MRL	doedd *Huw* Antur ddim yno	NST	NST
+287, 3	996, 6-7	MRL	nag oedd	---	NSNT
+
+
+288, 1	997, 1-5	GFR	nag oedd na na na	NSNT	NSNT
+288, 2	999, 1-4	GFR	swyddogion cymunedau yn gynta	---	NSNT
+
+
+289, 1	1000, 1-3	MRL	ac y swyddogion	NSNT	NSNT
+289, 2	1001, 1-5	MRL	*oh* felly oedd *Idwal* yno	---	NST
+
+
+290, 1	1002, 1-4	GFR	rhai o yr swyddogion	NSNT	NSNT
+290, 2	1003, 1-4	GFR	na doedd *Idwal* ddim	NST	NST
+290, 3	1005, 1-9	GFR	na achos mae o wneud y cwrs beth bynnag	NSNT	NSNT
+290, 4	1005, 10-10	GFR	ynde	---	NSNT
+
+
+291, 1	1006, 1-3	MRL	*well* mae *Idwal*	NST	NST
+291, 2	1006, 4-8	MRL	wedi bod *yeah* *yeah* *sure*	---	NST
+
+
+292, 1	1007, 1-10	GFR	*so* *um* a wedyn oedd gen ti *Arthur_Price* *boss* *Sara*	---	NST
+
+
+293, 1	1008, 1-2	MRL	*Sara* *yeah*	---	NST
+
+
+294, 1	1009, 1-4	GFR	ac ryw *foy* *Ifor*	NST	NST
+294, 2	1010, 1-7	GFR	enw enw cyffredin anghyffredin wedyn *Matia* rywbeth	NST	NST
+294, 3	1012, 1-3	GFR	*erm* o *Betws_y_Coed*	NST	NST
+294, 4	1013, 1-7	GFR	*um* mae o yn dod i Purchasing	NST	ST
+294, 5	1015, 1-3	GFR	*yeah* procurement *officer*	---	NST
+
+
+295, 1	1016, 1-5	MRL	*oh* *right* *Medwyn_Bond* yr ail	---	NST
+
+
+296, 1	1018, 1-2	GFR	swyddog caffael	---	NSNT
+
+
+297, 1	1019, 1-6	MRL	mae yr gair caffael yn dda	NSNT	NSNT
+297, 3	1021, 1-6	MRL	un o yr geiriau yna dydy	NSNT	NSNT
+297, 4	1022, 1-2	MRL	*oh* rargian	---	NST
+
+
+298, 1	1025, 1-4	GFR	*so* na oedd *er*	NST	NST
+298, 2	1025, 5-7	GFR	oedd y ddau	NSNT	NSNT
+298, 3	1025, 8-9	GFR	oedd yno	NSNT	NSNT
+298, 4	1025, 10-15	GFR	timod yn eitha *er* eitha uchel	NST	NST
+298, 5	1025, 16-25	GFR	faswn i yn deud yn y yn y yn y	NSNT	NSNT
+298, 6	1027, 1-13	GFR	neu oedd o yn uchel uchel yn y cyngor felly deud y gwir	NSNT	NSNT
+298, 7	1029, 1-4	GFR	ond mae *Arthur* *great*	NST	NST
+298, 8	1030, 1-4	GFR	mae *Arthur* dallt y	ST	NST
+298, 9	1032, 1-5	GFR	concept i yr dim ynde	---	SNT
+
+
+299, 1	1033, 1-8	MRL	rargian *well* mae o wedi *yeah* *oh* na	---	NST
+
+
+300, 1	1034, 2-4	GFR	mae o yn	NSNT	NSNT
+300, 2	1034, 9-16	GFR	mae o yn gefnogol iawn i yr peth	---	NSNT
+
+
+301, 1	1035, 1-6	MRL	mae o yn eitha switched on	---	SNT
+
+
+302, 1	1036, 1-16	GFR	dipyn bach mwy yn cwestiynu *er* timod yn edrych ar bopeth o o ran *cost* effeithiol	NST	NST
+302, 2	1038, 1-2	GFR	ambell un	NSNT	NSNT
+302, 3	1039, 1-2	GFR	yn iawn	NSNT	NSNT
+302, 4	1040, 1-4	GFR	oedd o yn *o_k*	NST	NST
+302, 5	1042, 1-4	GFR	ond dw i meddwl	NSNT	NSNT
+302, 6	1042, 5-10	GFR	bod o hefyd yn gweld *yeah*	NST	NST
+302, 7	1042, 12-14	GFR	bod y cwrs	NSNT	NSNT
+302, 8	1042, 15-21	GFR	wedi bod yn challenging iddo fo hefyd	NSNT	SNT
+302, 9	1044, 1-5	GFR	ond o'n nhw yn dda	NSNT	NSNT
+302, 10	1045, 1-5	GFR	oedden nhw yn dda iawn	---	NSNT
+
+
+303, 1	1046, 1-3	MRL	*oh* da iawn	---	NST
+
+
+304, 1	1047, 1-7	GFR	o'n nhw gyd yn frwdfrydig tu_hwnt ynde	NSNT	NSNT
+304, 2	1049, 1-2	GFR	a wedyn	---	NSNT
+
+
+305, 1	1050, 1-5	MRL	dw i *just* yn wonder_o	ST	ST
+305, 2	1050, 6-14	MRL	os fydda i yn gwneud llai o waith yno	NSNT	NSNT
+305, 3	1050, 15-24	MRL	os mae gennyn nhw mwy o rai fewnol ai pheidio	NSNT	NSNT
+305, 4	1050, 25-25	MRL	ynde	NSNT	NSNT
+305, 5	1051, 1-3	MRL	gawn ni weld	---	NSNT
+
+
+306, 1	1052, 1-7	GFR	*well* dw i ddim yn gwybod *Meryl*	NST	NST
+306, 2	1053, 1-5	GFR	dw i ddim yn meddwl	NSNT	NSNT
+306, 3	1055, 1-3	GFR	dw i ddim	NSNT	NSNT
+306, 4	1057, 1-7	GFR	be sydd yn mynd i ddigwydd ydy	NSNT	NSNT
+306, 5	1058, 1-8	GFR	*um* hefo mwya sy gen ti wedi hyfforddi	NST	NST
+306, 6	1060, 1-11	GFR	mae nhw yn mwy ymwybodol o yr angen i gael rhywun	---	NSNT
+
+
+307, 1	1061, 1-2	MRL	gael rhywun	NSNT	NSNT
+307, 2	1062, 1-2	MRL	annibynnol *yeah*	---	NST
+
+
+308, 1	1063, 1-4	GFR	a wedyn pan mae	NSNT	NSNT
+308, 2	1063, 5-11	GFR	a mae nhw wedyn mynd i feddwl	NSNT	NSNT
+308, 3	1064, 1-7	GFR	*oh* *yeah* well ni gael rywun allanol	NST	NST
+308, 4	1065, 1-9	GFR	*so* faswn i yn feddwl mai gweithio fel arall	NST	NST
+308, 5	1065, 10-11	GFR	wneith o	---	NSNT
+
+
+309, 1	1068, 1-9	MRL	*oh* *right* codi ymwybyddiaeth *yeah* *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+310, 1	1070, 1-7	GFR	cyma di swyddogion cyma di swyddogion adfywio	---	NSNT
+
+
+311, 1	1071, 1-6	MRL	*yeah* dyna be o'n i meddwl	---	NST
+
+
+312, 1	1073, 1-5	GFR	*o_k* mae yna rhai pethau	NST	NST
+312, 2	1073, 6-14	GFR	mae nhw yn mynd i allu gwneud eu hunain	NSNT	NSNT
+312, 3	1075, 1-6	GFR	ond mae nhw dipyn bach teimlo	NSNT	NSNT
+312, 4	1076, 1-11	GFR	*oh* dw i rhy agos at hwn i allu hwyluso fo	NST	NST
+312, 5	1078, 1-11	GFR	*so* hwyrach wnawn nhw alw *er* rhywun annibynnol i_fewn i wneud	NST	NST
+312, 6	1078, 12-12	GFR	ynde	---	NSNT
+
+
+313, 1	1079, 1-3	MRL	*yeah* dyna ni	NST	NST
+313, 2	1079, 4-8	MRL	dyna ni *yeah* *yeah* *yeah*	---	NST
+
+
+314, 1	1080, 1-4	GFR	ond oedd y cwrs	NSNT	NSNT
+314, 2	1081, 1-4	GFR	oedd gen ti *erm*	NST	NST
+314, 3	1082, 1-2	GFR	*Mimi* ydy	NST	NST
+314, 4	1083, 1-2	GFR	*er* cyfieithydd	---	NST
+
+
+315, 1	1084, 1-5	MRL	*oh* *yeah* *yeah* *sure* *Cynddylan*	---	NST
+
+
+316, 1	1085, 1-6	GFR	*Mimi_Cynddylan* *yeah* hi oedd yn cyfieithu	NST	NST
+316, 2	1087, 1-2	GFR	ac *um*	---	NST
+
+
+317, 1	1088, 1-3	MRL	mae hi yn	---	NSNT
+
+
+318, 1	1089, 1-4	GFR	a wedyn oedd cwrs	NSNT	NSNT
+318, 2	1089, 5-13	GFR	oedd yna un di un di_Gymraeg ar y cwrs	NSNT	NSNT
+318, 3	1091, 1-2	GFR	ond *um*	NST	NST
+318, 4	1092, 1-2	GFR	ond mae	NSNT	NSNT
+318, 5	1092, 3-6	GFR	ond mae rhyfedd fel	NSNT	NSNT
+318, 6	1092, 7-8	GFR	mae rhedeg	NSNT	NSNT
+318, 7	1092, 9-9	GFR	sti	NSNT	NSNT
+318, 8	1093, 1-3	GFR	oedd yr *er*	---	NST
+
+
+319, 1	1094, 1-4	MRL	*oh* *right* da iawn	---	NST
+
+
+320, 1	1095, 1-3	GFR	oedd o yn	NSNT	NSNT
+320, 2	1095, 4-9	GFR	oedd o rhedeg yn dda iawn	NSNT	NSNT
+320, 3	1096, 1-4	GFR	yr unig le oedd	NSNT	NSNT
+320, 4	1097, 1-11	GFR	oedd *Lana* yn ffindio yn anodd iawn wrth gwrs i watsiad	NST	NST
+320, 5	1097, 12-21	GFR	be oedd yn digwydd yn yr yn y grwpiau bach	---	NSNT
+
+
+321, 1	1098, 1-6	MRL	*yeah* dydy hi ddim yn gyfforddus	---	NST
+
+
+322, 1	1099, 1-2	GFR	ti gweld	NSNT	NSNT
+322, 2	1100, 1-4	GFR	achos dydy hi ddim	NSNT	NSNT
+322, 3	1100, 5-10	GFR	na dydy hi ddim yn gallu	NSNT	NSNT
+322, 4	1102, 1-3	GFR	dyna un peth	NSNT	NSNT
+322, 5	1103, 1-3	GFR	mae hi yn	NSNT	NSNT
+322, 6	1103, 4-7	GFR	dw i yn meddwl	NSNT	NSNT
+322, 7	1103, 8-10	GFR	mae hi yn	NSNT	NSNT
+322, 8	1104, 1-3	GFR	wneith hi gyfadde	NSNT	NSNT
+322, 9	1104, 4-4	GFR	nad	NSNT	NSNT
+322, 10	1104, 5-11	GFR	ydy hi ddim yn gallu monitro wedyn	NSNT	NSNT
+322, 11	1104, 12-12	GFR	ynde	NSNT	NSNT
+322, 13	1108, 1-5	GFR	oedd hi yn gofyn am	NSNT	NSNT
+322, 14	1108, 6-8	GFR	timod fel feedback	SNT	SNT
+322, 15	1108, 9-9	GFR	ynde	NSNT	NSNT
+322, 16	1110, 1-4	GFR	be mae hi wneud	NSNT	NSNT
+322, 17	1111, 1-4	GFR	mae hi wneud feedback	SNT	SNT
+322, 18	1112, 1-18	GFR	cyfle i yr cyfle iddyn nhw sut aeth hi ac yn y blaen i bobl sydd wedi gwneud	NSNT	NSNT
+322, 19	1114, 1-8	GFR	a wedyn i yr gynulleidfa timod y rhai	NSNT	NSNT
+322, 20	1114, 9-12	GFR	oedd wedi cymryd rhan	NSNT	NSNT
+322, 21	1116, 1-7	GFR	a wedyn mae hi roi sylwadau wedyn	NSNT	NSNT
+322, 22	1118, 1-8	GFR	ac oedd hi yn deud *er* *er* *er*	NST	NST
+322, 23	1118, 9-17	GFR	bod hi a *Gari* mynd i roi sylwadau wedyn	NST	NST
+322, 24	1119, 1-10	GFR	ond dydy ddim yn troi ata chdi gofyn am sylwadau	NSNT	NSNT
+322, 25	1120, 1-9	GFR	a mae yn anodd iawn ti slotio fo fewn	---	NSNT
+
+
+323, 1	1121, 1-4	MRL	fewn *yeah* *yeah* *yeah*	---	NST
+
+
+324, 1	1122, 1-9	GFR	a wedyn erbyn i hi orffen ei spiel hi	NSNT	SNT
+324, 2	1124, 1-10	GFR	dydy hi ddim wedi gadael llawer o le i chdi	---	NSNT
+
+
+325, 1	1125, 1-3	MRL	na i ddeud	---	NSNT
+
+
+326, 1	1126, 1-6	GFR	i i i i ddeud rhywbeth	NSNT	NSNT
+326, 2	1128, 1-9	GFR	a hefyd i fod yn deg hwyrach weithiau timod	NSNT	NSNT
+326, 3	1129, 1-3	GFR	*well* oedd hi	NST	NST
+326, 4	1129, 4-9	GFR	oedd hi wedi deud rywbeth am	NSNT	NSNT
+326, 5	1130, 1-7	GFR	oedd *Arthur* wedi gwneud rhywbeth ar diwedd	NST	NST
+326, 6	1131, 1-6	GFR	ac oedd hi yn meddwl *well*	NST	NST
+326, 7	1132, 1-6	GFR	o'n i yn deud wrtha hi	NSNT	NSNT
+326, 8	1133, 1-12	GFR	*well* o'n i yn teimlo bod hi yn mynd i_fewn i i	NST	NST
+326, 9	1133, 13-16	GFR	oedd o wedi rhoi	NSNT	NSNT
+326, 10	1133, 17-25	GFR	timod mynd fewn i content ar y peth yn_de	NSNT	SNT
+326, 11	1135, 1-5	GFR	be oedd hi wedi wneud	NSNT	NSNT
+326, 12	1135, 6-11	GFR	oedd trio tynnu pethau at ei_gilydd	NSNT	NSNT
+326, 13	1136, 1-7	GFR	ond drwy wneud hynny oedd o wedi	NSNT	NSNT
+326, 14	1136, 8-19	GFR	oedd o wedi rhoi rhyw fath o rhoi lliw ar bethau braidd	NSNT	NSNT
+326, 15	1136, 20-20	GFR	ynde	---	NSNT
+
+
+327, 1	1137, 1-4	MRL	*yeah* mynd i_fewn i	---	NST
+
+
+328, 1	1139, 1-8	GFR	*um* a wedyn ond oedd hi yn deud	NST	NST
+328, 2	1140, 1-3	GFR	*yeah* *well* timod	NST	NST
+328, 3	1142, 1-4	GFR	ond *er* mae yn	NST	NST
+328, 4	1142, 5-9	GFR	mae rywun yn dod i	NSNT	NSNT
+328, 5	1142, 10-18	GFR	mae nhw yn dod i i arfer efo hi	NSNT	NSNT
+328, 6	1143, 1-6	GFR	dydy hi ddim yn meindio rywun	NSNT	NSNT
+328, 7	1143, 7-9	GFR	sy bytio fewn	NSNT	NSNT
+328, 8	1145, 1-9	GFR	ond *er* fasai well gen i rywun yn gofyn	NST	NST
+328, 9	1146, 1-9	GFR	*oh* *Gwynfor* oes gen ti rywbeth i i ychwanegu	---	NST
+
+
+329, 1	1147, 1-13	MRL	*yeah* *yeah* *yeah* *oh* *yeah* *yeah* wedyn mae gynno chdi *platform* iawn wedyn	NST	NST
+329, 2	1147, 14-14	MRL	ynde	---	NSNT
+
+
+330, 1	1148, 1-4	GFR	a wedyn fel arfer	NSNT	NSNT
+330, 2	1148, 5-13	GFR	be oedden ni yn ffindio ein hunain yn wneud	NSNT	NSNT
+330, 3	1149, 1-9	GFR	oedd bobl o'n nhw yn dod ata i wedyn	NSNT	NSNT
+330, 4	1149, 10-13	GFR	timod ni gael gofyn	NSNT	NSNT
+330, 5	1151, 1-5	GFR	oes gen ti sylwadau personol	NSNT	NSNT
+330, 6	1152, 1-6	GFR	gofynnwch i *Gwynfor* a fi wedyn	NST	NST
+330, 7	1154, 1-7	GFR	ata i timod sylw iddyn nhw wedyn	NSNT	NSNT
+330, 8	1154, 8-8	GFR	ynde	---	NSNT
+
+
+331, 1	1155, 1-4	MRL	gofyn *yeah* *yeah* *yeah*	---	NST
+
+
+332, 1	1156, 1-12	GFR	ond oedd yna rai *er* rai yn edrych yn addawol iawn iawn	NST	NST
+332, 2	1158, 1-4	GFR	o'n i yn meddwl	NSNT	NSNT
+332, 3	1160, 1-5	GFR	ti ddim yn disgwyl *yeah*	NST	NST
+332, 4	1161, 1-6	GFR	a o'n i meddwl *ooh* timod	---	NST
+
+
+333, 1	1162, 1-2	MRL	da iawn	---	NSNT
+
+
+334, 1	1163, 1-10	GFR	heb *lot* o *fuss* a ffwdan ond oedden nhw wedi	---	NST
+
+
+335, 1	1166, 1-7	MRL	ydyn nhw am ymuno efo yr rhwydwaith	NSNT	NSNT
+335, 3	1168, 1-2	MRL	ti meddwl	---	NSNT
+
+
+336, 1	1169, 1-5	GFR	dw i ddim yn gwybod	---	NSNT
+
+
+337, 1	1170, 1-3	MRL	neu byddan nhw	---	NSNT
+
+
+338, 1	1171, 1-5	GFR	dw i ddim yn gwybod	NSNT	NSNT
+338, 2	1172, 1-5	GFR	ond mae yna sôn am	NSNT	NSNT
+338, 3	1173, 1-8	GFR	mae nhw yn awyddus i sefydlu rhwydwaith mewnol	---	NSNT
+
+
+339, 1	1174, 1-3	MRL	eu hunain yn_tydyn	---	NSNT
+
+
+340, 1	1175, 1-3	GFR	yn yng *Ngwynedd*	NST	NST
+340, 2	1176, 1-8	GFR	wedyn mae hynny yn beth da wrth gwrs	NSNT	NSNT
+340, 3	1179, 1-4	GFR	*so* dw i meddwl	NST	NST
+340, 4	1179, 5-6	GFR	bod *um*	NST	NST
+340, 5	1179, 7-15	GFR	bod yna gam da iawn ymlaen deud y gwir	---	NSNT
+
+
+341, 1	1180, 1-7	MRL	*yeah* *oh* *yeah* *yeah* *yeah* chwarae teg	---	NST
+
+
+342, 1	1181, 1-5	GFR	da iawn deud y gwir	---	NSNT
+
+
+343, 1	1182, 1-5	MRL	oedd *Sara* yno felly yn	---	NST
+
+
+344, 1	1185, 1-3	GFR	mae *Sara* disgwyl	NST	NST
+344, 2	1186, 1-2	GFR	a *Kelly*	---	NST
+
+
+345, 1	1187, 1-10	MRL	o'n i oedda chdi wedi deud fod *Kelly* yn disgwyl	NST	NST
+345, 2	1189, 1-5	MRL	*oh* mae *Sara* yn disgwyl	---	NST
+
+
+346, 1	1192, 1-7	GFR	roedd *Lana* yn cwyno wrtha i neithiwr	NST	NST
+346, 2	1193, 1-1	GFR	mae	NSNT	NSNT
+346, 3	1193, 2-3	GFR	mae pawb	NSNT	NSNT
+346, 4	1193, 4-12	GFR	dw i yn delio ac yn gwneud efo fel	NSNT	NSNT
+346, 5	1193, 13-23	GFR	petasai nhw yn gadael ac yn symud ymlaen i bethau eraill	NSNT	NSNT
+346, 6	1194, 1-2	GFR	neu mae	NSNT	NSNT
+346, 7	1194, 3-8	GFR	neu mae nhw yn disgwyl babis	NSNT	NSNT
+346, 9	1196, 1-4	GFR	i deud wrthi *well*	NST	NST
+346, 11	1198, 1-7	GFR	hwyrach bod o yn *hint* i chdi	---	NST
+
+
+347, 1	1199, 1-5	MRL	*Gwynfor* *Gwynfor* *Gwynfor* *tut* *tut*	ST	NST
+347, 3	1201, 1-3	MRL	myn diân i	---	NSNT
+
+
+348, 1	1202, 1-2	GFR	mae *sure*	NST	NST
+348, 2	1202, 3-12	GFR	bod o yn unsettling i wneud ti teimlo fel yna	---	SNT
+
+
+349, 1	1204, 1-3	MRL	*yeah* yn union	NST	NST
+349, 2	1205, 1-2	MRL	yn union	---	NSNT
+
+
+350, 1	1206, 1-7	GFR	oedd raid i mi gael tynnu coes	---	NSNT
+
+
+351, 1	1207, 1-4	MRL	*oh* da iawn *Sara*	---	NST
+
+
+352, 1	1208, 1-4	GFR	*yeah* *yeah* da de	---	NST
+
+
+353, 1	1209, 1-5	MRL	*oh* chwarae teg iddi hi	NST	NST
+353, 2	1212, 1-9	MRL	achos dw i yn gwneud gwaith i *Gwen* eto	---	NST
+
+
+354, 1	1213, 1-5	GFR	*oh* *yeah* ti yn deud	NST	NST
+354, 2	1214, 1-7	GFR	dw i ddim wedi gweld *Gwen* ers	NST	NST
+354, 3	1214, 8-9	GFR	tro byd	---	NSNT
+
+
+355, 1	1215, 1-7	MRL	yn lawr yn *Aberystwyth* iddi hi ynde	---	NST
+
+
+356, 1	1216, 1-2	GFR	yn *Aberystwyth*	---	NST
+
+
+357, 1	1217, 1-7	MRL	dw i yn gwneud gwaith iddi hi	---	NSNT
+
+
+358, 1	1218, 1-4	GFR	be mae hi yn	NSNT	NSNT
+358, 2	1218, 5-8	GFR	be mae hi yn	NSNT	NSNT
+358, 3	1218, 9-12	GFR	ydy gweithio yn *Aberystwyth*	---	NST
+
+
+359, 1	1219, 1-3	MRL	naci naci naci	NSNT	NSNT
+359, 2	1220, 1-5	MRL	dw i yn gwneud y	NSNT	NSNT
+359, 3	1221, 1-5	MRL	mae yr digwyddiad yn *Aberystwyth*	NST	NST
+359, 4	1223, 1-5	MRL	a mae hi yn *Ninas_Mawddwy*	NST	NST
+359, 5	1224, 1-8	MRL	mae hi wedi symud *um* i *Ddinas_Mawddwy* rwan	NST	NST
+359, 6	1224, 9-12	MRL	meddai hi ers Nadolig	NSNT	NSNT
+359, 7	1225, 1-8	MRL	*so* mae hi yn byw yn fan yna	---	NST
+
+
+360, 1	1226, 1-4	GFR	ble oedd hi cynt	---	NSNT
+
+
+361, 1	1227, 1-2	MRL	a mae	NSNT	NSNT
+361, 2	1228, 1-4	MRL	yn lle oedd hi	NSNT	NSNT
+361, 3	1229, 1-4	MRL	*Dolgellau* dw i meddwl	NST	NST
+361, 4	1231, 1-10	MRL	ond mae hi yn byw drws nesa i yr swyddfa	NSNT	NSNT
+361, 5	1231, 11-15	MRL	lle mae hi yn gweithio	NSNT	NSNT
+361, 7	1233, 1-4	MRL	a mae hi deud	NSNT	NSNT
+361, 8	1233, 5-21	MRL	fedrith hi gadw llygad ar y tywydd a mynd i nôl y dillad oddi ar y *line*	NST	NST
+361, 9	1233, 22-27	MRL	os mae hi yn bwrw glaw	NSNT	NSNT
+361, 10	1234, 1-4	MRL	*oh* *dear* annwyl de	---	NST
+
+
+362, 1	1236, 1-4	GFR	mae hi yn deud	NSNT	NSNT
+362, 2	1236, 5-10	GFR	bod gweithio gartre yn boring though	SNT	SNT
+362, 3	1238, 1-6	GFR	dw i yn gweithio adra heddiw	NSNT	NSNT
+362, 4	1240, 1-1	GFR	mae	NSNT	NSNT
+362, 5	1240, 2-9	GFR	mae *sure* fasa ti adre fasa ti clywed	NST	NST
+362, 6	1240, 10-14	GFR	faswn i clywed sgwn i	NSNT	NSNT
+362, 7	1240, 15-25	GFR	faswn i yn clywed y *phone* yn canu drwy yr wal	---	NST
+
+
+363, 1	1241, 1-3	MRL	dw i gwybod	NSNT	NSNT
+363, 2	1242, 1-7	MRL	ond o'n i yn jocian efo *Eddie*	---	NST
+
+
+364, 1	1243, 1-10	GFR	ond fasa ti yn gallu mynd â *phone* adre yn_base	---	NST
+
+
+365, 1	1244, 1-2	MRL	*well* *yeah*	---	NST
+
+
+366, 1	1245, 1-7	GFR	un o yr rhai pethau symudol yma	---	NSNT
+
+
+367, 1	1248, 1-4	MRL	dw i yn meddwl	NSNT	NSNT
+367, 2	1248, 5-13	MRL	faswn i yn ffindio fo *just* yn rhy agos	---	NST
+
+
+368, 1	1249, 1-8	GFR	*yeah* *yeah* un plentyn sy gen hi *yeah*	---	NST
+
+
+369, 1	1250, 1-6	MRL	*yeah* *yeah* dyna fo wedyn *um*	---	NST
+
+
+370, 1	1251, 1-7	GFR	*ah* dw i ddim wedi gweld hi	NST	NST
+370, 2	1252, 1-4	GFR	achos *er* Llydäwr ydy	---	NST
+
+
+371, 1	1253, 1-4	MRL	a mae hi yn	NSNT	NSNT
+371, 2	1254, 1-1	MRL	be	---	NSNT
+
+
+372, 1	1255, 1-2	GFR	Llydäwr Llydäwr	---	NSNT
+
+
+373, 1	1257, 1-1	MRL	*Katarn*	ST	NST
+373, 2	1258, 1-3	MRL	a wedyn mae	NSNT	NSNT
+373, 3	1259, 1-2	MRL	dw i	NSNT	NSNT
+373, 4	1259, 3-13	MRL	wedi bod yn cael trafferthion efo *um* enw ei mab hi	NST	NST
+373, 5	1260, 1-3	MRL	ti gwybod dyna	NSNT	NSNT
+373, 6	1260, 4-6	MRL	ydy yr peth	NSNT	NSNT
+373, 7	1261, 1-13	MRL	achos os mae gen blentyn enw ydach chi yn eitha cyfarwydd â fo	NSNT	NSNT
+373, 8	1262, 1-10	MRL	mae gynno chi rhyw hanner *chance* i i i gofio	---	NST
+
+
+374, 1	1263, 1-3	GFR	gofio fo *yeah*	---	NST
+
+
+375, 1	1264, 1-14	MRL	*um* os os ydach chi yn cael eich gwynebu efo ryw enw gwbl anghyfarwydd	NST	NST
+375, 2	1266, 1-2	MRL	chi meddwl	NSNT	NSNT
+375, 3	1267, 1-4	MRL	a wedyn dw i	NSNT	NSNT
+375, 4	1267, 5-8	MRL	wedi bod yn gofyn	NSNT	NSNT
+375, 5	1268, 1-6	MRL	*oh* sut mae yr bychan felly	NST	NST
+375, 6	1269, 1-8	MRL	achos dw i ddim yn cofio yr enw	NSNT	NSNT
+375, 7	1269, 9-9	MRL	ynde	---	NSNT
+
+
+376, 1	1270, 1-3	GFR	cofio yr enw	---	NSNT
+
+
+377, 1	1271, 1-6	MRL	*well* erbyn hyn dw i meddwl	NST	NST
+377, 2	1272, 1-7	MRL	mae rywbeth fel un_ai *Winoc* neu *Dinoc*	NST	NST
+377, 3	1273, 1-6	MRL	neu rywbeth fel yna ydy o	NSNT	NSNT
+377, 4	1273, 7-7	MRL	ynde	NSNT	NSNT
+377, 5	1275, 1-5	MRL	*so* dw i yn cofio	NST	NST
+377, 6	1275, 6-12	MRL	dw i yn dechrau cofio yr enw	NSNT	NSNT
+377, 7	1275, 13-13	MRL	ynde	NSNT	NSNT
+377, 8	1276, 1-7	MRL	ond mae hi yn mynd *just* tamaid	NST	NST
+377, 9	1277, 1-8	MRL	dw i yn ffindio fo yn embarrassing anyway	SNT	SNT
+377, 10	1278, 1-12	MRL	achos o'n i *just* byth yn cofio yr blooming enw o_gwbl de	NST	ST
+377, 13	1281, 1-9	MRL	mae enw ei gŵr hi yn eitha *straight* *forward*	NST	NST
+377, 14	1282, 1-6	MRL	*Katarn* ydy enw ei gŵr hi	NST	NST
+377, 15	1282, 7-7	MRL	ynde	NSNT	NSNT
+377, 17	1284, 1-6	MRL	*so* dw i yn gwybod hynny	NST	NST
+377, 18	1284, 7-7	MRL	ynde	NSNT	NSNT
+377, 19	1285, 1-2	MRL	ond *um*	---	NST
+
+
+378, 1	1286, 1-5	GFR	ges i panics dydd Sadwrn	NSNT	SNT
+378, 2	1287, 1-6	GFR	es i i *Foelas* dydd Sadwrn	NST	NST
+378, 3	1289, 1-10	GFR	ac oeddwn i yn wrthi yn wneud sweep cyn *game*	NST	ST
+378, 4	1291, 1-15	GFR	a wedyn o'n i yn gwerthu *er* timod gwydr *pint* o rhifau chwaraewyr dau dîm	ST	NST
+378, 6	1294, 1-9	GFR	sweep am yr un yn sgorio yr cais cynta	NSNT	SNT
+378, 7	1296, 1-5	GFR	a wedyn pawb roi punt	NSNT	NSNT
+378, 8	1297, 1-2	GFR	cymryd allan	NSNT	NSNT
+378, 9	1298, 1-10	GFR	a wedyn o'n i yn cadw cofnod o enwau nhw	NSNT	NSNT
+378, 10	1299, 1-6	GFR	a wedyn dechrau anghofio enwau pobl	NSNT	NSNT
+378, 11	1301, 1-7	GFR	o'n i fod i gofio yn iawn	---	NSNT
+
+
+379, 1	1303, 1-2	MRL	*oh* *Gwynfor*	---	NST
+
+
+380, 1	1304, 1-5	GFR	*oh* oedd o yn ofnadwy	---	NST
+
+
+381, 1	1305, 1-3	MRL	*oh* gefaist ti	---	NST
+
+
+382, 1	1306, 1-12	GFR	a wedyn unwaith un wnes i fynd un arall ac un arall	NSNT	NSNT
+382, 2	1307, 1-5	GFR	ac oedd o yn ofnadwy	---	NSNT
+
+
+383, 1	1308, 1-9	MRL	a wedyn ti yn mynd i boeni amdano fo	NSNT	NSNT
+383, 2	1309, 1-7	MRL	wedyn ti yn mynd yn waeth do	---	NSNT
+
+
+384, 1	1310, 1-2	GFR	*yeah* ffordd	NST	NST
+384, 2	1311, 1-5	GFR	oedd o yn amlwg wedyn	NSNT	NSNT
+384, 3	1311, 6-6	GFR	doedd	NSNT	NSNT
+384, 4	1312, 1-8	GFR	*oh* taro dy enw lawr yn fan yna	---	NST
+
+
+385, 1	1315, 1-5	MRL	a mae nhw yn meddwl	---	NSNT
+
+
+386, 1	1316, 1-4	GFR	*oh* *yeah* *bloody* hell	---	NST
+
+
+387, 1	1317, 1-8	MRL	*oh* *well* *Gwynfor* unwaith eto o ei gof	---	NST
+
+
+388, 1	1318, 1-4	GFR	a mae mor ofnadwy	NSNT	NSNT
+388, 2	1319, 1-7	GFR	a mae o mor embarrassing anghofio enw	---	SNT
+
+
+389, 1	1321, 1-9	MRL	*yeah* *oh* *yeah* *well* be dw i yn casau	NST	NST
+389, 2	1321, 10-19	MRL	yw siarad efo rywun a dim yn cofio enwau nhw	---	NSNT
+
+
+390, 1	1322, 1-9	GFR	*yeah* a pan mae o a be ti wneud	NST	NST
+390, 2	1322, 10-15	GFR	pan wyt ti yn cofio wedyn	---	NSNT
+
+
+391, 1	1324, 1-5	MRL	be dw i yn gwneud	NSNT	NSNT
+391, 2	1324, 6-11	MRL	pan dw i yn cofio enw	---	NSNT
+
+
+392, 1	1325, 1-3	GFR	pan ti *yeah*	NST	NST
+392, 3	1327, 1-8	GFR	ti methu peidio defnyddio ei henw nhw wedyn	---	NSNT
+
+
+393, 1	1328, 1-8	MRL	a ti yn defnyddio nhw enwau nhw o_hyd	---	NSNT
+
+
+394, 1	1329, 1-4	GFR	bob brawddeg bob brawddeg	NSNT	NSNT
+394, 3	1331, 1-10	GFR	ti fel fasat ti ti *just* fel fasat ti isio	NST	NST
+394, 4	1332, 1-3	GFR	*ah* mae wir	NST	NST
+394, 5	1333, 1-5	GFR	mae bawb yn wneud o	NSNT	NSNT
+394, 7	1335, 1-14	GFR	achos o'n i efo blynyddoedd yn_ôl efo *Evan_James* yn yn yn *um* *Steddfod* Wyddgrug	NST	NST
+394, 8	1337, 1-10	GFR	ac *er* *er* wnaethon ni weld rhyw *foy* o *Trawsfynydd*	NST	NST
+394, 9	1338, 1-3	GFR	mynd i ganŵio	NSNT	NSNT
+394, 10	1339, 1-8	GFR	ac oedd *Evan* amlwg methu cofio enw o	NST	NST
+394, 12	1341, 1-5	GFR	*oh* dw i meddwl prin	NST	NST
+394, 13	1341, 6-10	GFR	bod o wedi gallu cofio	NSNT	NSNT
+394, 14	1341, 11-13	GFR	pwy oedd o	NSNT	NSNT
+394, 15	1342, 1-2	GFR	a wedyn	NSNT	NSNT
+394, 16	1343, 1-5	GFR	o't ti yn gallu gweld	NSNT	NSNT
+394, 17	1344, 1-8	GFR	o'n i yn gallu deud arno fo sti	NSNT	NSNT
+394, 18	1346, 1-6	GFR	mae o yn anghyfforddus ffordd hyn	---	NSNT
+
+
+395, 1	1347, 1-5	MRL	oedd o yn really *ooh*	---	ST
+
+
+396, 1	1348, 1-4	GFR	mae yn bug_io fo	NSNT	SNT
+396, 2	1348, 5-9	GFR	oedd o yn bug_io fo	---	SNT
+
+
+397, 1	1349, 1-1	MRL	trio	---	NSNT
+
+
+398, 1	1350, 1-4	GFR	a wedyn beth bynnag	---	NSNT
+
+
+399, 1	1351, 1-2	MRL	*oh* flip	---	NST
+
+
+400, 1	1352, 1-13	GFR	a wedyn sydyn iawn fyset ti yn gweld golau yn dod on yn	NSNT	SNT
+400, 2	1352, 14-18	GFR	ei mewn ei ben o	---	NSNT
+
+
+401, 1	1353, 1-8	MRL	*yeah* a wedyn mae o yn ymlacio wedyn	---	NST
+
+
+402, 1	1354, 1-5	GFR	a wedyn oedd o yn	NSNT	NSNT
+402, 2	1354, 6-9	GFR	oedd o yn mynnu	NSNT	NSNT
+402, 3	1355, 1-5	GFR	*er* *Stuart* oedd enw *boy*	NST	NST
+402, 4	1356, 1-9	GFR	oedd o yn mynnu defnyddio enw yr *boy* bob	---	NST
+
+
+403, 1	1357, 1-1	MRL	bob	NSNT	NSNT
+403, 2	1358, 1-7	MRL	a ti wneud y pwynt ohono fo	---	NSNT
+
+
+404, 1	1359, 1-6	GFR	ac o't ti yn gallu gweld	NSNT	NSNT
+404, 2	1360, 1-7	GFR	o't ti gallu gweld o yn *glear*	---	NST
+
+
+405, 1	1361, 1-2	MRL	*oh* brilliant	ST	NST
+405, 2	1363, 1-6	MRL	*oh* na *oh* na dw i	NST	NST
+405, 3	1364, 1-4	MRL	achos wnes i *um*	NST	NST
+405, 4	1365, 1-17	MRL	ti gwybod am y *business* yma efo *um* bod ar *er* *Wales_Today* a a *er* Santes *Dwynwen*	NST	NST
+405, 5	1367, 1-7	MRL	wnaeth Radio_Wales ddod allan hefyd i recordio	NSNT	SNT
+405, 6	1369, 1-14	MRL	a wnaeth y *boy* yma droi fyny i *um* i rhoi cyfweliad i mi	NST	NST
+405, 7	1369, 15-19	MRL	allan ar *er* yn Niwbwrch	NST	NST
+405, 8	1370, 1-6	MRL	ac *um* wnaeth o droi i_fyny	NST	NST
+405, 9	1371, 1-5	MRL	a wedyn wnaeth o ddeud	SNT	NSNT
+405, 10	1372, 1-6	MRL	*oh* I know you from somewhere	ST	NST
+405, 11	1373, 1-17	MRL	a diolch o'n i yn gwybod pan wnes i weld o o'n i yn gwybod yn iawn	NSNT	NSNT
+405, 12	1374, 1-11	MRL	wnes i weld o ar y gwch draw o Ynys Enlli	NSNT	NSNT
+405, 13	1375, 1-3	MRL	achos oedd o	NSNT	NSNT
+405, 14	1375, 4-12	MRL	wedi bod draw yno yn gwneud rhywbeth a wedyn	NSNT	NSNT
+405, 15	1376, 1-4	MRL	ond y peth yw	NSNT	NSNT
+405, 16	1377, 1-10	MRL	mae o yn sticio allan ar fy nghof i yn_tydy	NSNT	NSNT
+405, 17	1377, 11-11	MRL	ynde	NSNT	NSNT
+405, 18	1378, 1-5	MRL	achos mae rhywun efo *microphone*	NST	NST
+405, 19	1378, 6-15	MRL	sy yn gweithio ar i i Radio_Wales yn sticio yn	NSNT	SNT
+405, 20	1378, 16-18	MRL	fy meddwl i	NSNT	NSNT
+405, 21	1378, 19-19	MRL	ynde	---	NSNT
+
+
+406, 1	1379, 1-6	GFR	*ah* *yeah* *yeah* *sure* iawn *yeah*	---	NST
+
+
+407, 1	1380, 1-17	MRL	*so* o'n i yn falch mod i yn gwybod yn union lle o'n i wedi weld o	---	NST
+
+
+408, 1	1381, 1-3	GFR	pwy oedd o	---	NSNT
+
+
+409, 1	1383, 1-3	MRL	neu faswn i	NSNT	NSNT
+409, 2	1383, 4-11	MRL	wedi bod yn yn trio crafu mhen yn	NSNT	NSNT
+409, 3	1384, 1-15	MRL	lle lle lle lle dw i wedi gweld hwn o yr blaen *type* o beth	NST	NST
+409, 4	1384, 16-16	MRL	ynde	---	NSNT
+
+
+410, 1	1385, 1-2	GFR	oedd o	NSNT	NSNT
+410, 2	1385, 3-13	GFR	oedd o wedi wneud yn dda i allu i gofio hefyd	NSNT	NSNT
+410, 3	1386, 1-3	GFR	achos mae *sure*	NST	NST
+410, 4	1386, 4-10	GFR	bod nhw yn gweld *lot* o bobl	---	NST
+
+
+411, 1	1387, 1-8	MRL	*yeah* *oh* *yeah* *yeah* mae hwnnw yn wir	---	NST
+
+
+412, 1	1389, 1-1	GFR	ynde	NSNT	NSNT
+412, 2	1389, 2-5	GFR	faswn i feddwl felly	---	NSNT
+
+
+413, 1	1391, 1-7	MRL	*hey* rywbeth arall dw i yn gwneud	NST	NST
+413, 2	1392, 1-8	MRL	dw i wedi cael fy llusgo fewn i	NSNT	NSNT
+413, 3	1393, 1-10	MRL	dw i *sure* fy mod i yn *sort* of flying	NST	ST
+413, 4	1393, 11-12	MRL	it braidd	NSNT	SNT
+413, 5	1394, 1-3	MRL	dydd Mawrth nesa	NSNT	NSNT
+413, 6	1396, 1-4	MRL	*um* ti gwybod y	NST	NST
+413, 7	1397, 1-14	MRL	dw i wedi sôn efo chdi am brosiect mentro allan a yr holl drafferthion	NSNT	NSNT
+413, 8	1397, 15-16	MRL	sy de	NSNT	NSNT
+413, 9	1399, 1-3	MRL	*well* mae nhw	NST	NST
+413, 10	1399, 4-7	MRL	mae nhw yn cael	NSNT	NSNT
+413, 11	1399, 8-20	MRL	mae nhw wedi setio partneriaethau yma i_fyny yn y yn yr llefydd gwahanol	NSNT	NSNT
+413, 12	1400, 1-9	MRL	wedyn mae yr partneriaethau yma yn datblygu prosiectau i	NSNT	NSNT
+413, 13	1400, 10-18	MRL	timod i gyrraedd y grwpiau anodd i gyrraedd yma	NSNT	NSNT
+413, 14	1402, 1-4	MRL	a mae nhw fod	NSNT	NSNT
+413, 15	1402, 5-7	MRL	dw i meddwl	NSNT	NSNT
+413, 16	1402, 8-16	MRL	mae disgwyl iddyn nhw fynd trwy ryw fath o	NSNT	NSNT
+413, 17	1402, 17-28	MRL	be mae nhw yn galw yn consultation *stage* efo yr user *groups*	ST	ST
+413, 18	1403, 1-6	MRL	timod efo yr efo yr yr	SNT	NSNT
+413, 19	1403, 7-10	MRL	you know *target* *group*	ST	NST
+413, 21	1406, 1-8	MRL	*so* dw i efo hanner awr o *slot*	NST	NST
+413, 22	1408, 1-13	MRL	i wneud *er* rhywbeth ynglŷn â sut i trafod efo *er* user *groups*	ST	ST
+413, 23	1408, 14-14	MRL	ynde	NSNT	NSNT
+413, 24	1409, 1-5	MRL	ond be sy yn dda	NSNT	NSNT
+413, 25	1409, 6-6	MRL	yw	NSNT	NSNT
+413, 26	1410, 1-3	MRL	mae yna hogan	NSNT	NSNT
+413, 27	1410, 4-6	MRL	sy yn gwneud	NSNT	NSNT
+413, 28	1411, 1-5	MRL	ti wedi dod ar_draws *Mabli_Crane*	---	NST
+
+
+414, 1	1412, 1-6	GFR	dw i ddim yn *sure* iawn	---	NST
+
+
+415, 1	1414, 1-11	MRL	mae hi yn gwneud y gwaith tebyg lawr yn y de	NSNT	NSNT
+415, 2	1415, 1-10	MRL	a wedyn mae hi wedi gwneud y cyflwyniad yma dydd	NSNT	NSNT
+415, 3	1416, 1-15	MRL	achos mae nhw gwneud un cyfarfod yn y de a yr llall yn y gogledd	NSNT	NSNT
+415, 4	1418, 1-8	MRL	wedyn mae hi wedi gwneud y cyflwyniad ddoe	NSNT	NSNT
+415, 5	1419, 1-10	MRL	a mae hi wedi gwneud y gwaith paratoi hefyd *ha*	NST	NST
+415, 6	1420, 1-5	MRL	*so* dw i am weld	NST	NST
+415, 7	1420, 6-11	MRL	sut wnaeth ei *session* hi fynd	NST	NST
+415, 8	1421, 1-9	MRL	a wedyn yn amlwg fydda i yn gwneud rhywbeth	---	NSNT
+
+
+416, 1	1423, 1-6	GFR	a mae nhw yn talu chdi	---	NSNT
+
+
+417, 1	1426, 1-1	MRL	diwrnod	---	NSNT
+
+
+418, 1	1427, 1-6	GFR	diwrnod am hanner awr o waith	SNT	NSNT
+418, 2	1429, 1-3	GFR	*bloody* hell *Meryl*	---	NST
+
+
+419, 1	1430, 1-12	MRL	*oh* fydd raid i mi fod yn y cyfarfod trwy yr dydd	NST	NST
+419, 2	1430, 13-13	MRL	cofia	---	NSNT
+
+
+420, 1	1431, 1-4	GFR	trwy yr dydd *yeah*	---	NST
+
+
+421, 1	1432, 1-2	MRL	*well* dyna	NST	NST
+421, 2	1432, 3-7	MRL	be dw i wedi ddisgwyl	---	NSNT
+
+
+422, 1	1433, 1-5	GFR	*oh* mae hynny yn iawn	---	NST
+
+
+423, 1	1434, 1-4	MRL	*oh* mae hynny yn	NST	NST
+423, 2	1434, 5-8	MRL	mae hynny yn iawn	NSNT	NSNT
+423, 3	1434, 9-9	MRL	ynde	---	NSNT
+
+
+424, 1	1435, 1-4	GFR	ond be ydy yr	NSNT	NSNT
+424, 2	1435, 5-8	GFR	be ydy yr hanfodion	---	NSNT
+
+
+425, 1	1436, 1-4	MRL	o ran y be	---	NSNT
+
+
+426, 1	1437, 1-3	GFR	i roi drosodd	---	NSNT
+
+
+427, 1	1438, 1-5	MRL	*well* dw i yn meddwl	NST	NST
+427, 2	1438, 6-9	MRL	roedd pethau fel *um*	NST	NST
+427, 3	1438, 10-15	MRL	be oedd hi *Mabli* yn gwneud	NST	NST
+427, 4	1439, 1-12	MRL	ryw pethau fel trio egluro iddyn nhw be ydy gwahaniaeth rhwng consultation	NSNT	SNT
+427, 5	1439, 13-18	MRL	you know gwahanol *levels* of participation	ST	ST
+427, 6	1439, 19-19	MRL	ynte	NSNT	NSNT
+427, 7	1441, 1-14	MRL	*um* a o'n i yn deud pethau fel bod angen trafod efo mynd i	NST	NST
+427, 8	1441, 15-25	MRL	lle mae nhw yn lle disgwyl iddyn nhw ddod atoch chi	NSNT	NSNT
+427, 9	1441, 26-26	MRL	ynde	NSNT	NSNT
+427, 10	1443, 1-5	MRL	pethau basic fel yna de	NSNT	SNT
+427, 11	1444, 1-7	MRL	*um* a be dw i yn meddwl	NST	NST
+427, 12	1444, 8-14	MRL	yw mynd ar_ôl y trywydd yma o	NSNT	NSNT
+427, 13	1445, 1-2	MRL	*right* mae	NST	NST
+427, 14	1445, 3-7	MRL	mae yr cyfleusterau yma ar_gael	NSNT	NSNT
+427, 15	1446, 1-9	MRL	dydach chi ddim yn defnyddio nhw ar hyn o	NSNT	NSNT
+427, 16	1447, 1-6	MRL	pam pam be ydy yr beth	NSNT	NSNT
+427, 17	1447, 7-9	MRL	yw yr anhawsterau	NSNT	NSNT
+427, 18	1448, 1-10	MRL	be sy yn nadu chi rhag wneud y pethau yma	NSNT	NSNT
+427, 19	1449, 1-5	MRL	a gweld sut beth yw	NSNT	NSNT
+427, 20	1449, 6-13	MRL	barn nhw ynglŷn â rai *um* rai gweithgareddau	NST	NST
+427, 21	1449, 14-21	MRL	mae nhw yn meddwl gwneud ti yn gwybod	NSNT	NSNT
+427, 22	1451, 1-9	MRL	*so* *um* ond mae *Mabli* wedi *sort* of fel	NST	ST
+427, 23	1451, 10-18	MRL	dw i deud gweithio rhywbeth allan ar_gyfer y day	SNT	SNT
+427, 24	1452, 1-8	MRL	*so* wna i redeg trwy hwnna i weld	NST	NST
+427, 25	1452, 9-12	MRL	sut mae o fel	NSNT	NSNT
+427, 26	1453, 1-8	MRL	ond y sialens yw i wneud hanner awr	NSNT	NSNT
+427, 27	1454, 1-14	MRL	a mae ydach chi isio gwneud yr hanner awr yna yn participatory hefyd yn_tydych	NSNT	SNT
+427, 28	1456, 1-18	MRL	*er* ti *er* ti ddim isio sefyll yna am hanner awr deud wrthyn nhw sut i wneud o	NST	NST
+427, 29	1458, 1-18	MRL	*so* ydach chi isio trio tynnu *er* ti isio ti isio gwneud o yn *er* participatory hefyd ynde	NST	ST
+427, 30	1460, 1-9	MRL	*so* dydd Gwener fydda i isio trio meddwl ynglŷn	NST	NST
+427, 31	1460, 10-17	MRL	â sut i *er* sut i wneud hyn	NST	NST

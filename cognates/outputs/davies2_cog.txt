@@ -1,0 +1,2610 @@
+
+
+1, 1	1, 1-4	GRE	dw i yn gweld	---	NSNT
+
+
+2, 1	2, 1-3	GWY	*mmm* sydd yn	---	NST
+
+
+3, 1	3, 1-15	GRE	*oh* *yeah* ond yn amlwg felly mae gennyn nhw fath â ryw interpreter yn Sbaen	NST	ST
+3, 2	3, 16-16	GRE	does	---	NSNT
+
+
+4, 1	4, 3-15	GWY	ond mae o *just* yn *odd* gweld rhywun yn siarad iaith hollol wahanol	NST	NST
+4, 2	5, 1-10	GWY	ac dydy yr un o yr ddwy yn dallt ei_gilydd	---	NSNT
+
+
+5, 1	6, 1-2	GRE	ei_gilydd *yeah*	NST	NST
+5, 2	7, 1-1	GRE	rhyfedd	SNT	NSNT
+5, 3	9, 1-7	GRE	*oh* God dw i yn hollol knackered	---	ST
+
+
+6, 1	11, 1-5	GWY	dw i wedi blino braidd	NSNT	NSNT
+6, 2	12, 1-5	GWY	a dw i angen pacio	---	NSNT
+
+
+7, 1	13, 1-5	GRE	*oh* God *yeah* ti mynd	NST	ST
+7, 2	14, 1-6	GRE	faint o gloch ti mynd yfory	---	NSNT
+
+
+8, 1	15, 1-5	GWY	dim tan hanner wedi pedwar	---	NSNT
+
+
+9, 1	16, 1-2	GRE	*oh* Duw	---	NST
+
+
+10, 1	17, 1-2	GWY	*so* mae	---	NST
+
+
+11, 1	18, 1-9	GRE	*oh* *yeah* ydy *Gareth* yn mynd i ysgol yfory	---	NST
+
+
+12, 1	21, 1-13	GWY	*um* felly dw i yn gorod mynd i yr deintydd am hanner dydd	NST	NST
+12, 2	23, 1-7	GWY	a wedyn felly ella be wna i	NSNT	NSNT
+12, 3	23, 9-10	GWY	*just* timod	NST	NST
+12, 4	23, 11-21	GWY	wna i deffro yn gynnar a sortio pob_dim allan yn bore	NSNT	NSNT
+12, 5	24, 1-6	GWY	dw i ddim wedi cael *Euros*	NST	NST
+12, 6	25, 1-2	GWY	wnes i	NSNT	NSNT
+12, 7	25, 3-6	GWY	wnes i ddim meddwl	NSNT	NSNT
+12, 8	25, 7-7	GWY	sti	---	NSNT
+
+
+13, 1	26, 1-3	GRE	*oh* God *yeah*	---	NST
+
+
+14, 1	27, 1-9	GWY	*mam* wnaeth gofyn heddiw ac o'n i yn meddwl	---	NST
+
+
+15, 1	28, 1-8	GRE	alli di gael nhw o swyddfa *bost* though	---	ST
+
+
+16, 1	29, 1-1	GWY	fedri	NSNT	NSNT
+16, 2	29, 2-2	GWY	fedri	NSNT	NSNT
+16, 3	29, 3-7	GWY	*so* mae hynna yn ddigon	---	NST
+
+
+17, 1	30, 1-14	GRE	ac fydda chdi ddim isio gymaint â hynna *just* am dridiau anyway na fyddachd	NST	ST
+17, 2	32, 1-5	GRE	be dach chi am wneud	NSNT	NSNT
+17, 3	32, 6-9	GRE	pan dach chi yna	---	NSNT
+
+
+18, 1	33, 1-5	GWY	*oh* dw ddim yn gwybod	NST	NST
+18, 2	34, 1-6	GWY	mae yna ryw fath o drefniadau	NSNT	NSNT
+18, 3	35, 1-4	GWY	mae *Gareth* wedi deud	NST	NST
+18, 4	35, 5-9	GWY	bod ni mynd i *um*	NST	NST
+18, 5	36, 1-3	GWY	*oh* dw meddwl	NST	NST
+18, 6	36, 4-7	GWY	dan ni mynd i	NSNT	NSNT
+18, 7	36, 8-23	GWY	dan ni mynd i i ryw bentre bach tu allan i *Brussels* ar y dydd Sadwrn	NST	NST
+18, 8	38, 1-10	GWY	a mynd *round* *Brussels* ar y dydd Sul dw meddwl	NST	NST
+18, 9	40, 1-8	GWY	dw ddim yn dod nôl tan ddydd Llun	---	NSNT
+
+
+19, 1	41, 1-3	GRE	*oh* nag wyt	---	NST
+
+
+20, 1	44, 1-5	GWY	*so* mae hi yn *nice*	NST	NST
+20, 2	45, 1-7	GWY	dan ni yn cael penwythnos iawn yna	---	NSNT
+
+
+21, 1	46, 1-2	GRE	hir ia	NSNT	NSNT
+21, 2	48, 1-9	GRE	*oh* *oh* ydy *Gareth* ddim efo ysgol dydd Llun	---	NST
+
+
+22, 1	49, 3-8	GWY	mae yn cael colli ysgol *oooh*	---	NST
+
+
+23, 1	50, 1-5	GRE	*ooh* dach chi yn clywed	ST	NST
+23, 2	51, 1-1	GRE	*truant*	ST	NST
+23, 4	54, 1-10	GRE	fydd dy *fam* di yn gael ei arestio a phethau	---	NST
+
+
+24, 1	55, 1-6	GWY	na *oh* paid â deud hynna	---	NST
+
+
+25, 1	56, 1-4	GRE	y cyfeiriad ydy dau_ddeg_un	---	NSNT
+
+
+26, 1	57, 1-1	GWY	*shush*	---	NST
+
+
+27, 1	58, 1-1	GRE	*joke*	ST	NST
+27, 2	59, 1-7	GRE	faswn i ddim yn gwneud hynna *sure*	---	NST
+
+
+28, 1	61, 1-4	GWY	*ah* fydd o yn	NST	NST
+28, 2	61, 5-8	GWY	dw i edrych ymlaen	---	NSNT
+
+
+29, 1	62, 1-9	GRE	wnest ti fynd â yr *D_V_D* nôl i *Blockbuster*	---	NST
+
+
+30, 1	63, 1-6	GWY	na wna i wneud bore yfory	---	NSNT
+
+
+31, 1	65, 1-5	GRE	*um* cofia ddeud wrthyn nhw	NST	NST
+31, 2	65, 6-10	GRE	bod o wedi sgratsio pethau	NSNT	NSNT
+31, 3	67, 1-6	GRE	achos ella gei di *D_V_D* arall	NST	NST
+31, 4	68, 1-4	GRE	ac os wyt ti	NSNT	NSNT
+31, 5	68, 6-9	GRE	paid â gwrthod un	NSNT	NSNT
+31, 6	70, 1-5	GRE	tyrd â un i fi	NSNT	NSNT
+31, 8	73, 1-4	GRE	dw i yn *sure*	NST	NST
+31, 9	73, 5-12	GRE	fedra i ffeindio amser i watsiad o rywbryd	---	NSNT
+
+
+32, 1	74, 1-4	GWY	oedd hynna yn *bity*	NST	NST
+32, 2	74, 5-5	GWY	doedd	---	NSNT
+
+
+33, 1	75, 1-2	GRE	oedd braidd	NSNT	NSNT
+33, 2	76, 1-2	GRE	*well* timod	NST	NST
+33, 3	76, 3-7	GRE	wnaeth o ddim sbwylio fo	NSNT	NSNT
+33, 4	76, 8-9	GRE	naddo achos	NSNT	NSNT
+33, 5	76, 10-19	GRE	oedd o yn iawn unwaith iddo fo gael ei llnau	NSNT	NSNT
+33, 6	76, 20-20	GRE	doedd	---	NSNT
+
+
+34, 1	78, 1-5	GWY	chdi biau yr dŵr yna	NSNT	NSNT
+34, 2	80, 1-5	GWY	o le gest ti hwnna	---	NSNT
+
+
+35, 1	81, 1-2	GRE	o *shop*	---	NST
+
+
+36, 1	82, 1-10	GWY	dw i erioed wedi gweld potel fel yna o blaen	---	NSNT
+
+
+37, 1	83, 1-4	GRE	na fi chwaith actually	SNT	SNT
+37, 2	84, 1-5	GRE	oedd o bach yn rhyfedd	NSNT	NSNT
+37, 3	85, 1-12	GRE	o'n i ddim yn *sure* os mai dŵr cyffredin oedd o ta	NST	NST
+37, 4	85, 13-19	GRE	oedd yna flas arno fo neu rywbeth	NSNT	NSNT
+37, 5	86, 1-3	GRE	does yna ddim	NSNT	NSNT
+37, 6	86, 4-4	GRE	yli	---	NSNT
+
+
+38, 1	87, 1-6	GWY	ti yn licio dŵr efo blas	---	NSNT
+
+
+39, 1	88, 1-3	GRE	mae yn iawn	NSNT	NSNT
+39, 2	89, 1-5	GRE	well gen i ddŵr plaen	NSNT	NSNT
+39, 3	90, 1-6	GRE	chdi byth yn meddwl na fasachd	---	NSNT
+
+
+40, 1	92, 1-1	GWY	fyswn	NSNT	NSNT
+40, 2	92, 2-4	GWY	fyswn i yn	NSNT	NSNT
+40, 4	95, 1-4	GWY	ond dw i yn	NSNT	NSNT
+40, 5	95, 5-12	GWY	dw i yn eitha licio dŵr efo blas	NSNT	NSNT
+40, 6	96, 1-3	GWY	yr un *Volvic*	---	NST
+
+
+41, 1	97, 1-5	GRE	*oh* *yeah* mae yn iawn	---	NST
+
+
+42, 1	98, 1-2	GWY	ti medru	---	NSNT
+
+
+43, 1	99, 1-11	GRE	*oh* ia *oh* dw i licio yr un *um* blas mefus	NST	NST
+43, 2	101, 1-4	GRE	ond dw i ddim	NSNT	NSNT
+43, 3	101, 5-11	GRE	dw ddim really yn keen ar *well*	ST	ST
+43, 4	102, 1-6	GRE	actually dw i yn dreud celwyddau	NSNT	SNT
+43, 5	103, 1-7	GRE	dw i yn licio rai efo blas	NSNT	NSNT
+43, 7	105, 1-6	GRE	dw i licio rai fizzy yna	---	SNT
+
+
+44, 1	106, 1-1	GWY	yndw	NSNT	NSNT
+44, 2	106, 2-5	GWY	dw i licio rheina	---	NSNT
+
+
+45, 1	107, 1-2	GRE	efo blas	---	NSNT
+
+
+46, 1	108, 1-4	GWY	mae nhw *nice* iawn	NST	NST
+46, 2	110, 1-7	GWY	ti medru cael rai *nice* yn *Marks's*	NST	NST
+46, 3	112, 1-1	GWY	dyna	NSNT	NSNT
+46, 4	112, 2-7	GWY	lle mae *Mrs_Jones* yn licio nhw	---	NST
+
+
+47, 1	113, 1-6	GRE	ti wedi colli dy *fluff* do	---	NST
+
+
+48, 1	114, 1-2	GWY	be ti	NSNT	NSNT
+48, 2	116, 1-4	GWY	mae yr *scarf* yma	---	NST
+
+
+49, 1	117, 1-3	GRE	na dim hwnna	NSNT	NSNT
+49, 2	118, 1-2	GRE	oddi_ar hwn	---	NSNT
+
+
+50, 1	119, 1-2	GWY	do hefyd	NSNT	NSNT
+50, 3	121, 1-3	GWY	lle aeth hwnna	---	NSNT
+
+
+51, 1	122, 1-3	GRE	dw ddim gwybod	NSNT	NSNT
+51, 2	124, 1-10	GRE	yn dy *goat* di neu yn dy *scarf* mae *sure*	NST	NST
+51, 3	126, 1-3	GRE	a mae hwnna	NSNT	NSNT
+51, 4	128, 1-9	GRE	o'n i yn ffeindio blewiach hwnna bob man heddiw	---	NSNT
+
+
+52, 1	129, 1-3	GWY	dw i gwybod	NSNT	NSNT
+52, 2	130, 1-8	GWY	dw i yn licio yr *scarf* a bob_dim	NST	NST
+52, 3	131, 1-7	GWY	dw i yn licio ei liw o	NSNT	NSNT
+52, 4	132, 1-4	GWY	ond mae o yn	---	NSNT
+
+
+53, 1	133, 1-5	GRE	*mmm* mae o yn lovely	---	ST
+
+
+54, 1	134, 1-6	GWY	*ooh* dw i wedi ffeindio fo	NST	NST
+54, 2	135, 1-5	GWY	rydan ni yn iawn wan	NSNT	NSNT
+54, 4	137, 1-4	GWY	ydy hwn mynd i	NSNT	NSNT
+54, 5	138, 1-2	GWY	fel yna	NSNT	NSNT
+54, 6	139, 1-4	GWY	dan ni yn iawn	---	NSNT
+
+
+55, 1	141, 1-6	GRE	dw i licio dy *goat* di	---	NST
+
+
+56, 1	142, 1-1	GWY	diolch	---	NSNT
+
+
+57, 1	143, 1-2	GRE	mae *nice*	---	NST
+
+
+58, 1	144, 1-9	GWY	o'ch chdi efo fi pan wnes i brynu hi	---	NSNT
+
+
+59, 1	145, 1-1	GRE	oeddwn	NSNT	NSNT
+59, 2	146, 1-3	GRE	*oh* yn *Polito's*	ST	NST
+59, 3	147, 1-3	GRE	*oh* *yeah* *sure*	---	NST
+
+
+60, 1	148, 1-3	GWY	diolch yn fawr	---	NSNT
+
+
+61, 1	150, 1-16	GRE	dangos faint o sylw dw i yn talu i chdi pan ti yn trio pethau ymlaen	NSNT	NSNT
+61, 2	153, 1-10	GRE	wnest glywed am *Nel* wedi colli *um* fath â *receipt*	NST	NST
+61, 3	154, 1-9	GRE	oedd hi wedi mynd â *jeans* nôl i *Polito's*	NST	NST
+61, 4	155, 1-6	GRE	ac oedd hi wedi mynd â	NSNT	NSNT
+61, 5	157, 1-6	GRE	oedd hi wedi mynd am *er*	NST	NST
+61, 6	158, 1-4	GRE	oedd hi wedi cael	NSNT	NSNT
+61, 7	158, 5-8	GRE	timod fath â *um*	NST	NST
+61, 8	159, 1-7	GRE	doedd hi ddim yn cael pres yn_ôl	NSNT	NSNT
+61, 9	160, 1-4	GRE	*so* oedden nhw wedi	NST	NST
+61, 10	160, 5-5	GRE	roid	NSNT	NSNT
+61, 11	160, 6-11	GRE	timod fath â voucher dim voucher	SNT	SNT
+61, 12	160, 12-16	GRE	ond timod fath â *receipt*	NST	NST
+61, 14	163, 1-7	GRE	*so* *receipt* yn_ôl iddi gwerth saith_deg punt	NST	NST
+61, 15	164, 1-5	GRE	a mae wedi golli o	SNT	NSNT
+61, 16	168, 1-2	GRE	gutted de	---	SNT
+
+
+62, 1	169, 1-6	GWY	faswn i yn hollol hollol gutted	---	NSNT
+
+
+63, 1	170, 1-7	GRE	mae *Nel* yn gwneud fi chwerthin gymaint	NST	NST
+63, 2	171, 1-8	GRE	gweld hi yn poeri yr sudd oren heddiw	NSNT	NSNT
+63, 4	173, 1-2	GRE	yn hilarious	---	SNT
+
+
+64, 1	174, 1-5	GWY	mae *just* ei meddwl hi	NST	NST
+64, 2	175, 1-6	GWY	dw i ddim yn gwybod lle	---	NSNT
+
+
+65, 1	176, 1-2	GRE	yn hollol	NSNT	NSNT
+65, 2	177, 1-5	GRE	mynd i bob man dydy	NSNT	NSNT
+65, 3	179, 1-11	GRE	a dydy ddim yn stopio siarad rhwng fath â dau bwnc	---	NSNT
+
+
+66, 1	180, 1-7	GWY	*oh* mae dechrau sôn am un peth	---	NST
+
+
+67, 1	185, 1-6	GRE	mynd syth i rywbeth arall yndy	SNT	NSNT
+67, 2	186, 1-1	GRE	mental	---	NSNT
+
+
+68, 1	189, 1-4	GWY	mae rhy gynnes yma	NSNT	NSNT
+68, 2	191, 1-2	GWY	dw i	NSNT	NSNT
+68, 3	191, 3-6	GWY	dylai fod yn oer	NSNT	NSNT
+68, 4	192, 1-6	GWY	ond mae yn stafell ry fawr	---	NSNT
+
+
+69, 1	195, 1-8	GRE	*so* pwy welaist ti yn *um* *Dundee* i_gyd	NST	NST
+69, 2	195, 9-9	GRE	ta	---	NSNT
+
+
+70, 1	196, 1-10	GWY	*well* *um* es i drwodd i Gaeredin i weld *Mike*	NST	NST
+70, 2	198, 1-9	GWY	a wnes i weld *Rufus* a *Keith* a *Sam*	NST	NST
+70, 3	200, 1-3	GWY	a *Francisco_Scaramanga* *um*	ST	NST
+70, 4	202, 1-1	GWY	*Francisco_Scaramanga*	ST	NST
+70, 5	203, 1-5	GWY	*Francisco* oedd yr un flwyddyn	NST	NST
+70, 6	203, 6-7	GWY	â *Rachel*	---	NST
+
+
+71, 1	206, 1-2	GRE	mae o	NSNT	NSNT
+71, 2	206, 3-9	GRE	ydy o dal i wneud pethau Theatr_Mewn_Addysg	---	NSNT
+
+
+72, 1	207, 1-5	GWY	dw i ddim yn gwybod	NSNT	NSNT
+72, 2	209, 1-5	GWY	dw i ddim yn gwybod	NSNT	NSNT
+72, 3	210, 1-8	GWY	wnes i ddim siarad efo fo deud gwir	NSNT	NSNT
+72, 4	213, 1-6	GWY	dw i ddim yn gwybod pam	---	NSNT
+
+
+73, 1	214, 1-1	GRE	sob	---	NSNT
+
+
+74, 1	215, 1-2	GWY	*yeah* dim	NST	NST
+74, 2	216, 1-3	GWY	ddim fel yna	NSNT	NSNT
+74, 4	218, 1-5	GWY	ddim yn siarad efo chdi	---	NSNT
+
+
+75, 1	219, 1-3	GRE	braidd yn hen	---	NSNT
+
+
+76, 1	220, 1-11	GWY	*um* felly ia wnes i weld mwyafrif o bobl yng Nghaeredin	---	NST
+
+
+77, 1	222, 1-6	GRE	wnest di weld *Mike* ddeudaist ti	---	NST
+
+
+78, 1	226, 1-8	GWY	*um* yn *Dundee* wnes i *just* gweld pobl	NST	NST
+78, 2	226, 9-10	GWY	oedd yn	---	NSNT
+
+
+79, 1	227, 1-1	GRE	*Dundee*	---	NST
+
+
+80, 1	228, 1-1	GWY	fi	NSNT	NSNT
+80, 2	229, 1-8	GWY	dw i yn licio mynd trwodd i *Dundee*	NST	NST
+80, 3	230, 1-5	GWY	mae o yn *nice* hefyd	NST	NST
+80, 4	231, 1-12	GWY	dw i licio *just* cerdded o_gwmpas y lle ar ben yn hun	NST	NST
+80, 5	232, 1-5	GWY	dw i ddim yn gwybod	NSNT	NSNT
+80, 6	232, 6-8	GWY	be sy yna	NSNT	NSNT
+80, 7	234, 1-9	GWY	ond mae gennyn nhw *um* *cinema* *um* brilliant yna	NST	ST
+80, 8	235, 1-3	GWY	yr un *um*	NST	NST
+80, 9	237, 1-2	GWY	yr *D_C_A*	NST	NST
+80, 10	238, 1-12	GWY	a mae o yn dangos *lot* o *films* *just* fath â rei	---	NST
+
+
+81, 1	239, 1-4	GRE	fath â rai arty	---	SNT
+
+
+82, 1	240, 1-2	GWY	*well* ia	NST	NST
+82, 2	241, 1-7	GWY	rhai fasa chdi ddim yn cael yn	---	NSNT
+
+
+83, 1	242, 1-8	GRE	*oh* *yeah* dim dy *Blockbusters* fath o beth	NST	NST
+83, 2	244, 1-7	GRE	a dw i licio *cinemas* fel yna	---	NST
+
+
+84, 1	245, 1-6	GWY	*yeah* a ti ddim yn cael	---	NST
+
+
+85, 1	246, 1-4	GRE	fath â cult *films*	---	ST
+
+
+86, 1	247, 1-3	GWY	toes yna ddim_byd	NSNT	NSNT
+86, 2	250, 1-8	GWY	a does yna ddim_byd fel yna ym *Mangor*	NST	NST
+86, 3	250, 9-10	GWY	nag oes	NSNT	NSNT
+86, 4	251, 1-3	GWY	heblaw *well* *Theatr_Gwynedd*	---	NST
+
+
+87, 1	252, 1-7	GRE	*well* mae yna *um* *film* nights yn	NST	ST
+87, 2	252, 8-12	GRE	mae nhw yn dangos rai	NSNT	NSNT
+87, 3	252, 13-18	GRE	sti yn Main *Arts* fan yma	---	ST
+
+
+88, 1	253, 1-1	GWY	really	---	NSNT
+
+
+89, 1	255, 1-3	GRE	ar nosweithiau Llun	NSNT	NSNT
+89, 2	256, 1-8	GRE	neu na actually neithiwr oedd yna un ymlaen	NSNT	SNT
+89, 3	256, 9-11	GRE	dw i meddwl	NSNT	NSNT
+89, 4	257, 1-6	GRE	mae nhw cael nhw nosweithiau gwahanol	NSNT	NSNT
+89, 5	258, 1-5	GRE	timod fath â rai tramor	NSNT	NSNT
+89, 6	260, 1-6	GRE	rai fath â isdeitlau fath â	NSNT	NSNT
+89, 7	262, 1-6	GRE	mae raid ni fynd rywbryd actually	---	SNT
+
+
+90, 1	263, 1-1	GWY	bydd	NSNT	NSNT
+90, 2	264, 1-6	GWY	do'n i ddim yn gwybod hynna	---	NSNT
+
+
+90, 3	266, 1-9	GWY	ac ydy rywun yn cael mynd ta *just* myfyrwyr	NST	NST
+91, 2	272, 1-12	GRE	a mae nhw weithiau yn gwneud yn *um* ti gwybod yn Main_Bar	ST	ST
+91, 3	274, 1-10	GRE	neu yr Academi neu be bynnag ydy enw o rŵan	---	NSNT
+
+
+92, 1	275, 1-3	GWY	dw i heb	NSNT	NSNT
+92, 2	275, 4-7	GWY	wedi bod fan yna	NSNT	NSNT
+92, 3	276, 1-1	GWY	ti	---	NSNT
+
+
+93, 1	278, 1-5	GRE	ti ddim wedi bod yna	NSNT	NSNT
+93, 2	280, 1-5	GRE	mae nhw wedi ail_wneud o	NSNT	NSNT
+93, 3	280, 6-6	GRE	sti	---	NSNT
+
+
+94, 1	281, 1-5	GWY	*yeah* oedd rywun yn dweud	NST	NST
+94, 2	281, 6-9	GWY	bod o yn *nice*	---	NST
+
+
+95, 1	282, 1-3	GRE	mae *right* *nice*	NST	NST
+95, 2	285, 1-5	GRE	mae nhw yn cael *um*	NST	NST
+95, 3	285, 6-10	GRE	noson *comedy* yna hefyd actually	ST	ST
+95, 4	286, 1-5	GRE	aeth *Llyr* a fi unwaith	ST	NST
+95, 5	288, 1-2	GRE	really da	---	SNT
+
+
+96, 1	289, 1-6	GWY	oedd hwnna be ar nos Lun	---	NSNT
+
+
+97, 1	291, 1-8	GRE	mae o bob ryw dair wsnos rhywbeth felly	NSNT	NSNT
+97, 3	293, 1-8	GRE	wedyn mae nhw yn dangos *films* yna actually	ST	ST
+97, 4	294, 1-8	GRE	rai nos Iau nos Llun nos nosweithiau Llun	NSNT	NSNT
+97, 5	296, 1-5	GRE	*um* mae nhw yn amrywio	NST	NST
+97, 6	297, 1-5	GRE	mae yna *comedy* un wsnos	NST	NST
+97, 7	298, 1-10	GRE	wedyn mae yna *film* un dwy *film* *er* ar_ôl ei_gilydd	NST	NST
+97, 8	300, 1-3	GRE	*um* un wsnos	NST	NST
+97, 9	301, 1-8	GRE	a wedyn wsnos wedyn mae yna rhywbeth arall	NSNT	NSNT
+97, 10	303, 1-5	GRE	wedyn nôl i yr *comedy*	NST	NST
+97, 11	304, 1-4	GRE	mae o fel yna	NSNT	NSNT
+97, 12	305, 1-4	GRE	bydd raid ni fynd	---	NSNT
+
+
+98, 1	307, 1-1	GWY	difyr	---	NSNT
+
+
+99, 1	308, 1-1	GRE	yn_bydd	---	NSNT
+
+
+100, 1	309, 1-15	GWY	*um* o'n i meddwl am yr hogan yna yn deud bod hi yn gorod llnau	---	NST
+
+
+101, 1	310, 1-3	GRE	*oh* afiach de	---	NST
+
+
+102, 1	311, 1-3	GWY	ych *er* *er*	NST	NST
+102, 2	311, 4-4	GWY	meddylia	---	NSNT
+
+
+103, 1	312, 1-2	GRE	llnau chwd	---	NSNT
+
+
+104, 1	313, 1-9	GWY	deffro pump o gloch bore *just* i weld chwd	---	NST
+
+
+105, 1	314, 1-2	GRE	*ooh* ych_a_fi	NST	NST
+105, 2	315, 1-3	GRE	dim diolch de	---	NSNT
+
+
+106, 1	316, 1-5	GWY	basai gas gen i hynna	---	NSNT
+
+
+107, 1	317, 1-2	GRE	a fi	NSNT	NSNT
+107, 2	318, 1-15	GRE	*oh* *well* dw i bron iawn wedi cael *job* i yn hun fan yna though	ST	ST
+107, 3	319, 1-1	GRE	*Friars*	ST	NST
+107, 4	323, 1-7	GRE	achos mae hynna *just* yn *job* *handy*	NST	NST
+107, 5	323, 8-8	GRE	dydy	---	NSNT
+
+
+108, 1	324, 2-7	GWY	mae o yn bres bach *handy*	---	NST
+
+
+109, 1	325, 3-9	GRE	dydy o ddim trwy yr amser ond	---	NSNT
+
+
+110, 1	328, 1-14	GWY	ti yn cael wneud o yn amser dy hun hefyd sy yn beth da	---	NSNT
+
+
+111, 1	329, 1-3	GRE	*yeah* yn union	NST	NST
+111, 2	330, 1-6	GRE	ti cael dewis dy oriau dwyt	NSNT	NSNT
+111, 3	332, 1-19	GRE	*so* mae hynna yn really *handy* fath â os ti fath â on a *roll* efo gwaith neu rywbeth	NST	ST
+111, 4	334, 1-12	GRE	ti gallu dweud *well* wna i wneud o yn munud neu rywbeth	NST	NST
+111, 5	334, 13-14	GRE	dwyt *so*	---	NST
+
+
+112, 1	336, 1-2	GWY	*oh* da	---	NST
+
+
+113, 1	339, 1-4	GRE	pryd wnaeth hi ddeud	NSNT	NSNT
+113, 2	340, 1-6	GRE	yn yr haf wnaeth hi ddeud	NSNT	NSNT
+113, 3	340, 7-11	GRE	bod hi yn gadael *yeah*	NST	NST
+113, 4	341, 1-6	GRE	na dau fis sy ganddi ar_ôl	NSNT	NSNT
+113, 5	341, 7-8	GRE	meddai hi	NSNT	NSNT
+113, 6	343, 1-8	GRE	*oh* wnes i anghofio roi yn earrings ar	---	ST
+
+
+114, 1	344, 1-4	GWY	ond mae dibynnu ar	NSNT	NSNT
+114, 2	344, 5-12	GWY	os wneith hi aros ym *Mangor* ai peidio	NST	NST
+114, 3	346, 1-5	GWY	achos oedd hi yn deud	NSNT	NSNT
+114, 4	346, 6-10	GWY	bod hi ddim yn gwybod	NSNT	NSNT
+114, 5	346, 11-16	GWY	lle oedd hi mynd i fyw	---	NSNT
+
+
+115, 1	347, 1-3	GRE	*oh* *yeah* *sure*	---	NST
+
+
+116, 1	350, 1-4	GWY	oedd hi yn glên	NSNT	NSNT
+116, 2	350, 5-5	GWY	doedd	---	NSNT
+
+
+117, 1	352, 1-3	GRE	hogan really clên	---	SNT
+
+
+118, 1	353, 1-3	GWY	ac oedd hi	NSNT	NSNT
+118, 2	353, 4-10	GWY	*just* oedd o yn gwylltio fi achos	NST	NST
+118, 3	353, 11-12	GWY	oedd o	NSNT	NSNT
+118, 4	353, 13-22	GWY	*just* timod o'n i yn deud wrtha chdi yr amharch	NST	NST
+118, 5	353, 23-26	GWY	oedd gyn bobl yno	NSNT	NSNT
+118, 6	353, 27-29	GWY	oedd o *just*	---	NST
+
+
+119, 1	355, 1-9	GRE	oedd yr hogan *um* dywyll yn really rude hefyd	NST	ST
+119, 2	355, 10-10	GRE	doedd	NSNT	NSNT
+119, 3	357, 1-5	GRE	pawb *just* timod bach yn	NST	NST
+119, 4	357, 6-7	GRE	dan dîn	NSNT	NSNT
+119, 5	357, 8-8	GRE	doedd	---	NSNT
+
+
+120, 1	358, 1-9	GWY	*oh* yr a yr darlithydd dipyn bach yn flin	NST	NST
+120, 2	360, 1-5	GWY	dw i ddim yn gwybod	NSNT	NSNT
+120, 3	360, 6-12	GWY	os dw i fod i ddweud hynna	---	NSNT
+
+
+121, 1	361, 1-4	GRE	*well* na *tough* de	---	NST
+
+
+122, 1	362, 1-9	GWY	ond timod o'n i *just* yn teimlo chwarae teg	NST	NST
+122, 2	362, 10-14	GWY	mae yr hogan yma yn	NSNT	NSNT
+122, 3	362, 16-26	GWY	mae hi wedi mynd allan o ei amser i helpu chdi	NSNT	NSNT
+122, 4	364, 1-4	GWY	mae hi yn amlwg	NSNT	NSNT
+122, 5	364, 6-17	GWY	mae yn mynd allan o ei hamser i wneud y rhaglen yma	---	NSNT
+
+
+123, 1	365, 1-3	GRE	*yeah* yn union	NST	NST
+123, 3	367, 1-3	GRE	petasai fo cwyno	NSNT	NSNT
+123, 4	367, 4-11	GRE	os fasai yna ddim_byd yn digwydd fath â	NSNT	NSNT
+123, 5	369, 1-4	GRE	yn yr coleg fysen	---	NSNT
+
+
+124, 1	370, 1-1	GWY	bysen	---	NSNT
+
+
+125, 1	371, 1-1	GRE	cheeks	---	NSNT
+
+
+126, 1	372, 1-6	GWY	na oedd hi weld yn *nice*	---	NST
+
+
+127, 1	373, 1-3	GRE	*oh* dyna fo	NST	NST
+127, 2	374, 1-18	GRE	*oh* mae yr *um* *studios* yn cael eu *um* adeiladu yn ti gwybod lawr grisiau yn yr Undeb	NST	NST
+127, 3	375, 2-5	GRE	mae yna lawr grisiau	NSNT	NSNT
+127, 4	375, 6-9	GRE	does fath â basement	SNT	SNT
+127, 5	378, 1-9	GRE	lle dw i meddwl mai stafell gotiau neu rhywbeth	NSNT	NSNT
+127, 6	378, 10-13	GRE	sy yna lawr rŵan	NSNT	NSNT
+127, 7	380, 1-3	GRE	ar y funud	NSNT	NSNT
+127, 8	381, 1-2	GRE	ond timod	NSNT	NSNT
+127, 9	381, 3-8	GRE	mae yna fwy na hynna yna	NSNT	NSNT
+127, 10	382, 1-14	GRE	ond *um* mae yr *studios* yn cael eu dechrau adeiladu fan yna yn lle	NST	NST
+127, 11	384, 1-5	GRE	a fyddan nhw dipyn mwy	NSNT	NSNT
+127, 12	384, 6-10	GRE	a timod pethau gwell hefyd	NSNT	NSNT
+127, 15	387, 1-14	GRE	achos mae yr rai yn yr lle cyfathrebu yn *um* torri trwy yr amser	NST	NST
+127, 16	387, 15-15	GRE	sti	---	NSNT
+
+
+128, 1	390, 1-1	GWY	gwael	---	NSNT
+
+
+129, 1	391, 1-8	GRE	ond oeddach chdi yn gwybod mae yr *um*	NST	NST
+129, 2	391, 9-16	GRE	mae yr *B_B_C* yn defnyddio *studios* prifysgol weithiau	NST	NST
+129, 3	391, 17-17	GRE	sti	NSNT	NSNT
+129, 4	391, 18-28	GRE	os oes gennyn nhw *lot* o bethau ymlaen yr un pryd	NST	NST
+129, 5	393, 1-3	GRE	yndy neu deud	NSNT	NSNT
+129, 6	393, 4-10	GRE	bod *er* pŵer nhw lawr neu rywbeth	NST	NST
+129, 7	393, 11-13	GRE	mae nhw yn	NSNT	NSNT
+129, 8	395, 1-8	GRE	mae gennyn nhw hawl i dod a cleimio	NSNT	NSNT
+129, 9	397, 1-2	GRE	fan yma	SNT	NSNT
+129, 10	398, 1-2	GRE	nuts de	---	SNT
+
+
+130, 1	399, 1-1	GWY	sti	NSNT	NSNT
+130, 2	399, 2-5	GWY	mae o syniad o	NSNT	NSNT
+130, 3	399, 6-9	GWY	timod rhywbeth fel yna	NSNT	NSNT
+130, 4	399, 10-11	GWY	neu timod	NSNT	NSNT
+130, 5	400, 1-8	GWY	*oh* mae raid fi ffonio yr *boy* *radio*	NST	NST
+130, 7	403, 1-5	GWY	timod fath â *radio* *Ysbyty_Gwynedd*	ST	NST
+130, 8	405, 1-1	GWY	*so*	---	NST
+
+
+131, 1	406, 1-6	GRE	ti dal ddim wedi ffonio fo	---	NSNT
+
+
+132, 1	409, 1-3	GWY	mi wna i	NSNT	NSNT
+132, 2	410, 1-3	GWY	mi wna i	NSNT	NSNT
+132, 3	411, 1-3	GWY	mi wna i	---	NSNT
+
+
+133, 1	412, 1-4	GRE	na paid â poeni	---	NSNT
+
+
+134, 1	413, 1-2	GWY	ond y	---	NSNT
+
+
+135, 1	414, 1-6	GRE	dw i ddim really yn bothered	---	SNT
+
+
+136, 1	415, 1-6	GWY	na na ond dw i yn	NSNT	NSNT
+136, 3	417, 1-4	GWY	felly mae raid fi	NSNT	NSNT
+136, 4	417, 5-8	GWY	fydd raid i mi	NSNT	NSNT
+136, 5	418, 1-3	GWY	*um* ond ia	---	NST
+
+
+137, 1	419, 1-13	GRE	*oh* *yeah* deud wrtha fo wneud o pan fydd *Mari* yn cael babi	NST	NST
+137, 2	419, 14-19	GRE	*so* geith hi gwrando arnof fi	---	NST
+
+
+138, 1	422, 3-6	GWY	mae o yn *right*	NST	NST
+138, 2	423, 1-4	GWY	dw ddim yn gwybod	NSNT	NSNT
+138, 3	423, 5-11	GWY	mae o yn beth da pethau fel	NSNT	NSNT
+138, 4	424, 1-10	GWY	achos os ti yn dechrau gweithio ar rywbeth fel yna	NSNT	NSNT
+138, 5	425, 1-5	GWY	a dw i yn gwybod	NSNT	NSNT
+138, 6	425, 6-9	GWY	bod o yn wirfoddol	NSNT	NSNT
+138, 7	426, 1-7	GWY	ti ddim yn cael dim_byd amdano fo	NSNT	NSNT
+138, 8	428, 1-9	GWY	ond yn ffordd dda i ddysgu dydy a wedyn	---	NSNT
+
+
+139, 1	429, 1-3	GRE	yndy yn union	---	NSNT
+
+
+140, 1	430, 1-17	GWY	deud rŵan os fasa chdi yn enjoio fo yn ofnadwy mae gen ti brofiad wedyn i drio	---	NSNT
+
+
+141, 1	431, 1-3	GRE	ia timod ella	NSNT	NSNT
+141, 2	431, 4-6	GRE	fasai cwrs yn	NSNT	NSNT
+141, 3	431, 7-14	GRE	timod newyddiadurwr newyddiaduraeth yn dda neu rywbeth felly	NSNT	NSNT
+141, 4	431, 15-15	GRE	basai	---	NSNT
+
+
+142, 1	432, 1-2	GWY	efo cwmni	NSNT	NSNT
+142, 2	433, 1-1	GWY	bysai	---	NSNT
+
+
+143, 1	434, 1-3	GRE	timod yn amlwg	NSNT	NSNT
+143, 2	434, 4-9	GRE	mae raid fi orffen y cwrs	NSNT	NSNT
+143, 3	434, 10-13	GRE	dw wneud rŵan gynta	---	NSNT
+
+
+144, 1	436, 1-2	GWY	*mmm* syniad	---	NST
+
+
+145, 1	437, 1-11	GRE	dw i *just* byth yn mynd i fod yn *berson* arferol	NST	NST
+145, 2	438, 1-13	GRE	dw i *just* yn mynd i fod yn *student* am weddill y mywyd	---	NST
+
+
+146, 1	439, 1-12	GWY	ond dw i meddwl *right* dylia chdi fynd o *radio* *Storm_F_M* de	---	NST
+
+
+147, 1	440, 1-4	GRE	*yeah* wyth_deg_saith pwynt saith	---	NST
+
+
+148, 1	441, 1-3	GWY	i *radio* *Ysbyty_Gwynedd*	NST	NST
+148, 3	443, 1-4	GWY	i *Champion* i *Radio_Cymru*	NST	NST
+148, 5	445, 1-1	GWY	dyna	NSNT	NSNT
+148, 6	445, 2-4	GWY	ydy yr camau	NSNT	NSNT
+148, 7	445, 5-7	GWY	dw i meddwl	---	NSNT
+
+
+149, 1	446, 1-2	GRE	no way	---	NSNT
+
+
+150, 1	447, 1-6	GWY	gei di wneud raglen efo *Jonsi*	---	NST
+
+
+151, 1	448, 1-3	GRE	mae o teulu	---	NSNT
+
+
+152, 1	449, 1-3	GWY	*Greta* a *Jonsi*	---	NST
+
+
+153, 1	450, 1-4	GRE	*Jonsi* a *Jonsi* bach	---	NST
+
+
+154, 1	451, 1-1	GWY	be	---	NSNT
+
+
+155, 1	452, 1-14	GRE	*Jonsi* oedd *mam* isio fi alw yn hun yn *Jonsi* bach ar rhaglen fi	---	NST
+
+
+156, 1	453, 1-2	GWY	*Jonsi* bach	NST	NST
+156, 2	456, 1-7	GWY	ond ond dw i yn dallt pam	---	NSNT
+
+
+157, 1	457, 1-6	GRE	o'n i meddwl *oh* no way	---	ST
+
+
+158, 1	458, 1-2	GWY	achos *Jones*	---	NST
+
+
+159, 1	460, 1-5	GRE	a dan ni yn perthyn	---	NSNT
+
+
+160, 1	461, 1-1	GWY	yndach	NSNT	NSNT
+160, 2	463, 1-4	GWY	paid â deud celwyddau	---	NSNT
+
+
+161, 1	464, 1-2	GRE	na go_wir	NSNT	NSNT
+161, 2	465, 1-11	GRE	ti meddwl baswn i yn isio gwneud ffaith fel yna i_fyny	---	NSNT
+
+
+162, 1	467, 1-3	GWY	o'n i erioed	NSNT	NSNT
+162, 2	468, 1-6	GWY	ti wedi cadw hwnna yn dawel	---	NSNT
+
+
+163, 1	469, 1-8	GRE	dw i wedi deud wrtha chdi o blaen	---	NSNT
+
+
+164, 1	470, 1-1	GWY	sut	---	NSNT
+
+
+165, 1	471, 1-3	GRE	dw ddim gwybod	---	NSNT
+
+
+166, 1	472, 1-4	GWY	ydy o yn agos	---	NSNT
+
+
+167, 1	473, 1-1	GRE	*mam*	---	NST
+
+
+168, 1	474, 1-5	GWY	dydy o ddim yn agos	NSNT	NSNT
+168, 2	474, 6-7	GWY	nag ydy	---	NSNT
+
+
+169, 1	475, 1-5	GRE	dydy o ddim yn bell	---	NSNT
+
+
+170, 1	476, 1-2	GWY	*Jonsi* bach	---	NST
+
+
+171, 1	477, 1-4	GRE	mae nes na *Bryn_Terfel*	NST	NST
+171, 2	479, 1-6	GRE	yli fi yn name_dropping fel yna	---	SNT
+
+
+172, 1	481, 1-5	GWY	a dw yn perthyn i	NSNT	NSNT
+172, 3	483, 1-3	GWY	ti mae *sure*	NST	NST
+172, 4	483, 4-9	GWY	bod chdi yn perthyn i fi	NSNT	NSNT
+172, 5	484, 1-7	GWY	mae *mam* chdi wedi mynd mor bell	---	NST
+
+
+173, 1	485, 1-4	GRE	ti eisiau clywed sick	SNT	SNT
+173, 2	486, 1-6	GRE	mae *Mam* yn perthyn i *Dad*	---	NST
+
+
+174, 1	488, 1-2	GWY	*ugh* yndy	NST	NST
+174, 4	493, 1-7	GWY	*sure* fod *lot* o bobl fel yna	NST	NST
+174, 5	494, 1-4	GWY	ti *just* ddim yn	---	NST
+
+
+175, 1	495, 1-8	GRE	ydy *well* pan ti feddwl am y peth	NST	NST
+175, 2	495, 9-11	GRE	mae yr ardal	NSNT	NSNT
+175, 3	496, 1-9	GRE	yn yr hen ddyddiau oedd pawb byw yn agos	NSNT	NSNT
+175, 4	497, 1-5	GRE	bach rhy agos rai de	NSNT	NSNT
+175, 5	498, 1-8	GRE	na dyn nhw ddim yn perthyn yn agos	NSNT	NSNT
+175, 6	498, 9-10	GRE	ond timod	---	NSNT
+
+
+176, 1	499, 1-1	GWY	*ugh*	ST	NST
+176, 2	500, 2-3	GWY	mae nhw	---	NSNT
+
+
+177, 1	501, 1-3	GRE	dw i meddwl	NSNT	NSNT
+177, 2	501, 4-10	GRE	bod nhw fath â trwy briodas obviously	---	SNT
+
+
+177, 3	502, 1-1	GRE	sinners	SNT	NSNT
+178, 2	503, 24-29	GWY	dydy yr plant ddim yn iawn	---	NSNT
+
+
+179, 1	504, 1-1	GRE	incest	---	NSNT
+
+
+180, 1	507, 1-9	GWY	mae hynna yn esbonio *lot* o bethau i fi	---	NST
+
+
+181, 1	509, 1-1	GRE	paid	NSNT	NSNT
+181, 2	510, 1-13	GRE	mae hynna ddim_ond yn wir am fath â brawd a chwaer a pethau	---	NSNT
+
+
+182, 1	511, 1-5	GWY	dw i yn dallt wan	---	NSNT
+
+
+183, 1	512, 1-4	GRE	fath â teulu cyntaf	SNT	NSNT
+183, 2	515, 1-1	GRE	cheeks	---	NSNT
+
+
+184, 1	517, 1-5	GWY	ti cofio oedden yn ysgol	NSNT	NSNT
+184, 2	517, 6-9	GWY	oedden ni fel yna	NSNT	NSNT
+184, 3	518, 1-8	GWY	mae pawb yn perthyn achos Adda ac Efa	---	NSNT
+
+
+185, 1	521, 1-2	GRE	whatever de	NSNT	SNT
+185, 2	522, 1-3	GRE	Adda a pwy	NSNT	NSNT
+185, 4	524, 1-7	GRE	*um* be o'n i mynd i ddeud	NST	NST
+185, 5	525, 1-9	GRE	na apparently de ti yn perthyn i fath â	NSNT	SNT
+185, 6	526, 1-8	GRE	mae rywun ddim_ond chwech perthynas i_ffwrdd ohona chdi	NSNT	NSNT
+185, 7	527, 1-2	GRE	pawb timod	NSNT	NSNT
+185, 8	528, 1-4	GRE	ti ond chwech perthynas	NSNT	NSNT
+185, 9	531, 1-3	GRE	ia rhywbeth felly	NSNT	NSNT
+185, 10	532, 1-3	GRE	neu nabod rywun	SNT	NSNT
+185, 11	533, 1-1	GRE	no	SNT	NSNT
+185, 12	535, 1-3	GRE	na alli di	NSNT	NSNT
+185, 13	536, 1-6	GRE	ti nabod fedra i nabod pawb	NSNT	NSNT
+185, 14	536, 7-14	GRE	wyt ti nabod mewn chwech *person* neu llai	---	NST
+
+
+186, 1	537, 1-1	GWY	go_iawn	NSNT	NSNT
+186, 2	539, 1-8	GWY	ond ti nabod pawb dw i nabod anyway	---	SNT
+
+
+187, 1	541, 1-4	GRE	dw i nabod pawb	NSNT	NSNT
+187, 2	541, 5-11	GRE	mae *Jerry_Gruffudd* yn nabod o chwech *person*	---	NST
+
+
+188, 1	543, 1-7	GWY	pam wnes ti ddeud fo o bawb	---	NSNT
+
+
+189, 1	544, 1-8	GRE	*well* o'n i methu meddwl am neb arall	NST	NST
+189, 2	546, 1-6	GRE	a dim *just* fi ydy hynna	NST	NST
+189, 3	547, 1-1	GRE	pawb	---	NSNT
+
+
+190, 1	551, 1-4	GWY	dw i yn anhygoel	NSNT	NSNT
+190, 2	553, 1-4	GWY	dw i nabod pawb	NSNT	NSNT
+190, 3	554, 1-1	GWY	difyr	NSNT	NSNT
+190, 4	555, 1-1	GWY	go_iawn	NSNT	NSNT
+190, 5	557, 1-6	GWY	o'n i ddim yn gwybod hynna	---	NSNT
+
+
+191, 1	558, 1-5	GRE	mae o bach yn nuts	SNT	SNT
+191, 2	559, 1-8	GRE	dyna chdi ffaith ddiddorol arall i yr dydd	---	NSNT
+
+
+192, 1	560, 1-2	GWY	dyna fo	NSNT	NSNT
+192, 2	561, 1-8	GWY	*um* oedden ni yn siarad am hynny neithiwr	---	NST
+
+
+193, 1	562, 1-1	GRE	be	---	NSNT
+
+
+194, 1	563, 1-6	GWY	*oh* dw i ddim yn gwybod	NST	NST
+194, 2	563, 7-11	GWY	be ydy yr trydydd peth	NSNT	NSNT
+194, 3	564, 1-6	GWY	ond wnaeth rywun ddeud wrtha fi	NSNT	NSNT
+194, 4	564, 7-22	GWY	os wyt ti yn dysgu rhywbeth newydd bob diwrnod neu yn helpu rywun bob diwrnod neu	NSNT	NSNT
+194, 5	565, 1-5	GWY	*oh* dw ddim yn cofio	NST	NST
+194, 6	565, 6-10	GWY	be ydy yr trydydd un	---	NSNT
+
+
+195, 1	566, 1-2	GRE	*story* dda	---	NST
+
+
+196, 1	568, 1-10	GWY	na ti medru ti mynd i fyw bywyd *right* dda	---	NST
+
+
+197, 1	570, 1-3	GRE	*so* os be	NST	NST
+197, 2	571, 1-6	GRE	os ti yn helpu rywun neu	---	NSNT
+
+
+198, 1	572, 1-8	GWY	os ti yn helpu rywun neu yn dysgu	NSNT	NSNT
+198, 2	573, 1-5	GWY	*um* *yeah* dysgu rhywbeth newydd	---	NST
+
+
+199, 1	574, 1-4	GRE	dysgu rhywbeth i rywun	NSNT	NSNT
+199, 2	575, 1-7	GRE	*oh* dysgu ti yn dysgu rhywbeth newydd	---	NST
+
+
+200, 1	576, 1-1	GWY	neu	---	NSNT
+
+
+201, 1	579, 1-7	GRE	ti yn mynd i fyw bywyd hirach	---	NSNT
+
+
+202, 1	580, 1-3	GWY	na bywyd dda	NSNT	NSNT
+202, 2	583, 1-5	GWY	dw i ddim yn gwybod	NSNT	NSNT
+202, 3	584, 1-4	GWY	be ydy yr trydydd	NSNT	NSNT
+202, 4	585, 1-9	GWY	ella mai chdi yn dysgu rhywbeth i rywun arall	NSNT	NSNT
+202, 5	586, 1-5	GWY	dw i ddim yn gwybod	---	NSNT
+
+
+203, 1	587, 1-1	GRE	ella	NSNT	NSNT
+203, 2	589, 1-2	GRE	*ooh* da	---	NST
+
+
+204, 1	590, 1-1	GWY	felly	NSNT	NSNT
+204, 2	591, 1-6	GWY	achos wnes i ddeud o achos	NSNT	NSNT
+204, 3	591, 7-12	GWY	wnes i ddysgu beth newydd ddoe	NSNT	NSNT
+204, 4	593, 1-8	GWY	a dyna ni wedi dysgu rywbeth newydd heddiw	---	NSNT
+
+
+205, 1	594, 1-8	GRE	*oh* yr *er* yr *recipe* wnes i wneud	NST	NST
+205, 2	595, 1-3	GRE	yr bwyd neithiwr	NSNT	NSNT
+205, 3	597, 1-8	GRE	dim bod yna llawer o *recipe* iddo fo	NST	NST
+205, 5	599, 1-4	GRE	cyw_iar *bacon* a caws	---	NST
+
+
+206, 1	600, 1-4	GWY	oedd o yn lovely	---	SNT
+
+
+207, 1	601, 1-4	GRE	oedd o *right* *nice*	NST	NST
+207, 2	602, 1-13	GRE	o'n i bach *er* wedi wedi siomi efo yr *er* caws really sti	---	ST
+
+
+208, 1	603, 2-4	GWY	wnest ti ddeud	NSNT	NSNT
+208, 2	604, 1-7	GWY	o'n i medru blasu yr *chilli* sti	---	NST
+
+
+209, 1	605, 1-2	GRE	oedda chdi	NSNT	NSNT
+209, 2	606, 1-4	GRE	o'n i ddim sti	---	NSNT
+
+
+210, 1	607, 1-3	GWY	oedd o ia	NSNT	NSNT
+210, 2	607, 4-6	GWY	oedd o bach	NSNT	NSNT
+210, 3	607, 7-12	GWY	ond oedd o *just* yn *nice*	---	NST
+
+
+211, 1	608, 1-7	GRE	ia bydd raid fi gael caws cryfach	NSNT	NSNT
+211, 2	608, 8-9	GRE	tro nesaf	NSNT	NSNT
+211, 3	610, 1-4	GRE	caws *Stilton* neu rywbeth	NST	NST
+211, 4	611, 1-2	GRE	achos dyna	NSNT	NSNT
+211, 5	611, 3-4	GRE	wnaeth *Prysor*	NST	NST
+211, 6	611, 5-7	GRE	roid arno fo	NSNT	NSNT
+211, 7	612, 1-5	GRE	*Stilton* efo cranberries yno fo	---	ST
+
+
+212, 1	613, 1-2	GWY	*ooh* *nice*	---	NST
+
+
+213, 1	615, 1-4	GRE	swnio yn *nice* dydy	---	NST
+
+
+214, 1	616, 1-1	GWY	*aww*	---	NST
+
+
+215, 1	617, 1-1	GRE	lovely	---	NSNT
+
+
+216, 1	619, 3-4	GWY	oedd *Debbie*	NST	NST
+216, 2	620, 1-1	GWY	dyna	NSNT	NSNT
+216, 3	620, 2-9	GWY	oedd ei phryd hi i ni yn coleg	SNT	NSNT
+216, 4	622, 1-1	GWY	speciality	---	NSNT
+
+
+217, 1	623, 1-5	GRE	dydy hi ddim yn vegetatarian	---	SNT
+
+
+218, 1	627, 1-4	GWY	be oedd hi yn	NSNT	NSNT
+218, 2	627, 5-5	GWY	rhoid	NSNT	NSNT
+218, 3	627, 6-7	GWY	oedd *Stilton*	NST	NST
+218, 6	630, 1-4	GWY	timod caws glas felly	NSNT	NSNT
+218, 7	632, 1-6	GWY	*um* a cyw_iar a wedyn *bacon*	NST	NST
+218, 8	633, 1-14	GWY	a wedyn oedd hi yn wneud rhyw morello cherry *sauce* i roi drosto fo	NST	ST
+218, 9	635, 1-8	GWY	oedd o ddim cystal ag un chdi *yeah*	---	NST
+
+
+219, 1	636, 1-2	GRE	*yeah* whatever	---	NST
+
+
+220, 1	638, 1-7	GWY	baswn i yn medru bwyta hwnna wan	---	NSNT
+
+
+221, 1	639, 1-3	GRE	yn nhraed i	NSNT	NSNT
+221, 3	642, 1-4	GRE	hynna *just* yn afiach	---	NST
+
+
+222, 1	643, 1-4	GWY	mae hynna yn afiach	NSNT	NSNT
+222, 3	645, 1-8	GWY	baswn i byth yn bwyta dy draed di	NSNT	NSNT
+222, 4	646, 1-1	GWY	byth	---	NSNT
+
+
+223, 1	647, 1-1	GRE	*oooh*	---	NST
+
+
+224, 1	648, 1-2	GWY	*oh* afiach	NST	NST
+224, 2	649, 1-6	GWY	be sy ar teledu heno yma	---	NSNT
+
+
+225, 1	650, 1-1	GRE	*Eastenders*	---	NST
+
+
+226, 1	651, 1-5	GWY	*oh* dw i ddim yn	---	NST
+
+
+227, 1	652, 1-1	GRE	*Coronation_Street*	---	NST
+
+
+228, 1	653, 1-5	GWY	dw i ddim yn dilyn	---	NSNT
+
+
+229, 1	654, 1-5	GRE	oes gynno chdi *Freeview* wan	NST	NST
+229, 2	656, 1-6	GRE	ella dylia chdi gael un sti	---	NSNT
+
+
+230, 1	657, 1-7	GWY	ia *well* mae pawb yn ddeud hynna	NST	NST
+230, 2	658, 1-6	GWY	mae o *just* i weld yn	NST	NST
+230, 3	659, 1-3	GWY	be ydy o	---	NSNT
+
+
+231, 1	660, 1-11	GRE	mae o fath â tri deg o jannel_i am ddim basically	SNT	SNT
+231, 2	661, 1-5	GRE	pumpunt rywbeth felly ydy *box*	NST	NST
+231, 3	661, 6-6	GRE	sti	NSNT	NSNT
+231, 4	663, 1-7	GRE	dydy o ddim yn ddrud o gwbl	NSNT	NSNT
+231, 5	664, 1-3	GRE	*oh* mae *Ruth*	NST	NST
+231, 6	664, 4-10	GRE	mae *Ruth* efo *um* *Freeview* yn *Felin*	NST	NST
+231, 7	666, 1-9	GRE	felly timod yr unig beth ti yn gorfod wneud	NSNT	NSNT
+231, 8	666, 11-25	GRE	mae yna ryw website alli di fynd ar i tsiecio os dy *um* *code* *post*	NST	ST
+231, 9	667, 1-8	GRE	ti roi dy *gode* *post* i_fewn iddo fo	NST	NST
+231, 10	669, 1-16	GRE	a mae o yn deud wrtha chdi os ti yn gallu pigo *signal* fyny neu ddim	NST	NST
+231, 11	671, 1-10	GRE	yn hytrach na bod chdi yn prynu un a wedyn	NSNT	NSNT
+231, 12	671, 11-14	GRE	bod chdi yn ffeindio	NSNT	NSNT
+231, 13	671, 15-19	GRE	bod chdi methu ddefnyddio fo	---	NSNT
+
+
+232, 1	672, 1-4	GWY	bod chdi ddim *yeah*	---	NST
+
+
+233, 1	673, 1-14	GRE	mae wastraff o bres wedyn achos ti ddim yn gallu mynd â nhw nôl	NSNT	NSNT
+233, 2	673, 15-19	GRE	dw i ddim yn meddwl	NSNT	NSNT
+233, 3	675, 1-7	GRE	*well* ddim mor hawdd â hynna timod	---	NST
+
+
+234, 1	677, 1-4	GWY	*oh* ella bod o	NST	NST
+234, 2	677, 5-12	GWY	werth o achos o'n i *just* yn meddwl	NST	NST
+234, 3	678, 1-5	GWY	mae o yn bres *oh*	NST	NST
+234, 4	678, 6-12	GWY	mae o yn bres ychwanegol bob mis	---	NSNT
+
+
+235, 1	679, 1-4	GRE	na dydy o ddim	NSNT	NSNT
+235, 2	679, 5-5	GRE	sti	NSNT	NSNT
+235, 3	680, 1-2	GRE	*Freeview* de	---	NST
+
+
+236, 1	681, 1-14	GWY	gynno fi gymaint o biliau ar hyn o bryd yn mynd allan bob mis	---	NSNT
+
+
+237, 1	682, 1-2	GRE	*free* view	ST	NST
+237, 2	684, 1-5	GRE	achos mae yn dda achos	NSNT	NSNT
+237, 3	684, 6-15	GRE	mae gynno chdi S_pedwar_C S_pedwar_C digidol Channel Four *E_Four* *More_Four*	---	ST
+
+
+238, 1	685, 1-2	GWY	Channel pump	---	SNT
+
+
+239, 1	686, 1-6	GRE	*E_Four* Plus One pethau fel yna	ST	ST
+239, 2	688, 1-3	GRE	Channel pump *yeah*	ST	ST
+239, 3	689, 1-1	GRE	B_B_C_Three	SNT	NSNT
+239, 4	690, 1-4	GRE	*so* mae gynno chdi	NST	NST
+239, 5	690, 5-6	GRE	mae o	SNT	NSNT
+239, 6	691, 1-2	GRE	*er* *B_B_C_News_Twenty_four*	ST	NST
+239, 7	692, 1-6	GRE	*so* mae gynno chdi bethau da	---	NST
+
+
+240, 1	693, 1-3	GWY	mae gen ti	NSNT	NSNT
+240, 2	695, 1-3	GWY	ga i weld	---	NSNT
+
+
+241, 1	696, 1-5	GRE	*just* yr unig beth ydy	NST	NST
+241, 2	696, 6-9	GRE	dw i wedi ffeindio	NSNT	NSNT
+241, 3	696, 10-18	GRE	ydy di watsiad *lot* mwy o deledu efo fo	---	NST
+
+
+242, 1	697, 1-1	GWY	achos	NSNT	NSNT
+242, 2	699, 1-14	GWY	*well* y peth ydy o'n i o'n i erioed really yn gwatsiad *lot* teledu	NST	ST
+242, 3	700, 1-5	GWY	dw i ddim yn dilyn	NSNT	NSNT
+242, 4	700, 6-9	GWY	timod yr operau sebon	NSNT	NSNT
+242, 5	701, 1-3	GWY	dw i ddim	NSNT	NSNT
+242, 6	701, 4-14	GWY	dw i ddim really yn dilyn unrhyw beth ar y teledu	NSNT	SNT
+242, 7	703, 1-13	GWY	ond ers i fi symud i yr tŷ dw i yn gwatsiad *lot*	NST	NST
+242, 8	704, 1-3	GWY	achos mae o	NSNT	NSNT
+242, 9	704, 4-8	GWY	mae o fath â cwmni	NSNT	NSNT
+242, 10	704, 9-12	GWY	os dw i yna	NSNT	NSNT
+242, 11	706, 1-2	GWY	yn hun	NSNT	NSNT
+242, 12	707, 1-3	GWY	mae o *just*	---	NST
+
+
+243, 1	708, 1-10	GRE	a mae yn *nice* cael sŵn hefyd yn y cefndir	NST	NST
+243, 2	708, 11-11	GRE	dydy	---	NSNT
+
+
+244, 1	710, 1-14	GWY	felly dw i wedi ffeindio yn hun yn dechrau gwatsiad teledu trwy yr amser	NSNT	NSNT
+244, 3	713, 2-5	GWY	dw i ddim yn	NSNT	NSNT
+244, 4	713, 6-14	GWY	dw i ddim yn licio yr tŷ yn dawel	---	NSNT
+
+
+245, 1	715, 1-11	GRE	*oh* dw i trwy yr amser efo *music* ymlaen neu rywbeth	NST	NST
+245, 2	717, 1-4	GRE	trwy yr amser de	---	NSNT
+
+
+246, 1	718, 1-2	GWY	trwy yr	---	NSNT
+
+
+247, 1	719, 1-6	GRE	*yeah* pan dw i ddim yna	---	NST
+
+
+248, 1	720, 1-1	GWY	go_iawn	NSNT	NSNT
+248, 2	723, 1-16	GWY	*just* i wneud pobl yn hapus pan mae nhw yn cyrraedd y tŷ i glywed *music*	NST	NST
+248, 3	725, 1-4	GWY	*oh* chwarae teg chdi	---	NST
+
+
+249, 1	726, 1-1	GRE	*aww*	---	NST
+
+
+250, 1	727, 1-4	GWY	wnes di weld *George*	NST	NST
+250, 2	729, 1-3	GWY	wnest ti ymddiheuro	---	NSNT
+
+
+251, 1	730, 1-3	GRE	wnes i ymddiheuro	NSNT	NSNT
+251, 2	731, 1-4	GRE	a wnaeth o fynd	SNT	NSNT
+251, 3	732, 1-4	GRE	*oh* it is *o_k*	NST	NST
+251, 4	732, 5-9	GRE	it is *just* that *er*	NST	NST
+251, 5	732, 10-17	GRE	you woke *me* up a *couple* of times	ST	NST
+251, 7	734, 1-7	GRE	ac o'n i fath â *oh* *right*	NST	NST
+251, 8	735, 1-3	GRE	wnes i fynd	SNT	NSNT
+251, 9	736, 1-5	GRE	*oh* *sorry* I didn't realise	NST	NST
+251, 10	736, 6-9	GRE	it was *so* late	ST	NST
+251, 11	739, 1-4	GRE	achos o'n i ddim	NSNT	NSNT
+251, 12	740, 1-14	GRE	o'n i ddim yn sylwi bod hi yn fath â pedwar o gloch bore	---	NSNT
+
+
+252, 1	741, 2-5	GWY	oedd hi yn hwyr	---	NSNT
+
+
+253, 1	742, 1-1	GRE	God	SNT	NSNT
+253, 4	745, 1-12	GRE	*sure* bod ni yn loud hefyd yn gweiddi ar yr hogiau yna	---	ST
+
+
+254, 1	748, 1-4	GWY	wnaethon nhw wylltio fi	NSNT	NSNT
+254, 3	750, 1-2	GWY	wnaethon nhw	---	NSNT
+
+
+255, 1	751, 1-1	GRE	ffyliaid	---	NSNT
+
+
+256, 1	752, 1-11	GWY	o'n i yn meddwl am y peth yn y *car* ac	ST	NST
+256, 2	753, 1-2	GWY	excuse *me*	ST	NST
+256, 3	754, 1-4	GWY	o'n i yn meddwl	NSNT	NSNT
+256, 4	755, 1-11	GWY	*oh* be be faswn i yn medru deud fasa yn glyfrach	NST	NST
+256, 5	757, 1-3	GWY	dw i yn	---	NSNT
+
+
+257, 1	758, 1-9	GRE	ti methu meddwl ar y pryd though nag wyt	---	SNT
+
+
+258, 1	759, 1-6	GWY	na na dw i yn ofnadwy	---	NSNT
+
+
+259, 1	760, 1-3	GRE	does yna ddim	NSNT	NSNT
+259, 2	760, 4-9	GRE	does yna ddim comeback digon da	NSNT	SNT
+259, 3	760, 10-11	GRE	nag oes	---	NSNT
+
+
+260, 1	761, 1-6	GWY	os ydy rywun yn gwylltio fi	NSNT	NSNT
+260, 2	761, 7-9	GWY	dw i *nah*	NST	NST
+260, 3	762, 1-2	GWY	dw i	NSNT	NSNT
+260, 4	763, 1-4	GWY	does gynno i byth	NSNT	NSNT
+260, 5	764, 1-5	GWY	mae gen ti rai bobl	NSNT	NSNT
+260, 6	764, 6-11	GWY	sy yn ofnadwy o dda efo	---	NSNT
+
+
+261, 1	765, 1-12	GRE	*yeah* yn enwedig os ti wedi meddwi does gynno chdi ddim dadl	NST	NST
+261, 2	765, 13-14	GRE	nag oes	NSNT	NSNT
+261, 3	767, 1-4	GRE	twel yr unig beth	NSNT	NSNT
+261, 4	767, 5-7	GRE	sy gynno chdi	NSNT	NSNT
+261, 5	767, 8-16	GRE	ydy deud wrthyn nhw lle i fynd neu rywbeth	NSNT	NSNT
+261, 6	768, 1-6	GRE	a dydy hynna ddim yn ddadl	NSNT	NSNT
+261, 7	769, 1-5	GRE	mae hynna *just* yn fabiaidd	---	NST
+
+
+262, 1	771, 1-2	GWY	ond timod	NSNT	NSNT
+262, 2	771, 3-5	GWY	oedden nhw *just*	NST	NST
+262, 3	772, 2-5	GWY	oedden nhw yn deud	NSNT	NSNT
+262, 4	773, 1-2	GWY	*well* dyna	NST	NST
+262, 5	773, 3-4	GWY	marn i	---	NSNT
+
+
+263, 1	775, 1-10	GRE	ia iawn cadwa dy farn i chdi dy hun felly	NSNT	NSNT
+263, 2	775, 11-18	GRE	os ydy o yn mynd i insult_io ni	---	SNT
+
+
+264, 1	776, 1-2	GWY	*well* ia	NST	NST
+264, 2	777, 1-5	GWY	yn hollol achos mae o	---	NSNT
+
+
+265, 1	778, 1-6	GRE	mae o *just* yn rude hynna	NST	ST
+265, 2	778, 7-7	GRE	dydy	---	NSNT
+
+
+266, 1	779, 1-5	GWY	rhywun yn dweud wrtha chdi	NSNT	NSNT
+266, 2	780, 1-5	GWY	dw i ddim yn meddwl	NSNT	NSNT
+266, 3	780, 6-13	GWY	bod dy iaith di yn swnio yn *nice*	NST	NST
+266, 4	782, 1-5	GWY	sut fedra nhw ddim dallt	NSNT	NSNT
+266, 5	782, 6-11	GWY	bod hynna mynd i frifo chdi	NSNT	NSNT
+266, 6	782, 12-13	GWY	neu timod	---	NSNT
+
+
+267, 1	786, 1-9	GRE	dw i meddwl mai *just* isio ffraeo oeddan nhw	NST	NST
+267, 2	788, 1-3	GRE	isio dadl de	---	NSNT
+
+
+268, 1	790, 1-3	GWY	*ooh* gwylltio fi	---	NST
+
+
+269, 1	792, 1-7	GRE	achos oedd *Lionel* fel yna tro dwytha	NST	NST
+269, 2	792, 8-11	GRE	oedd o draw *um*	NST	NST
+269, 3	794, 1-3	GRE	oedd o *oh*	NST	NST
+269, 4	794, 4-8	GRE	be ddeudodd o wrtha fi	NSNT	NSNT
+269, 5	795, 1-11	GRE	*oh* *yeah* wnaeth o ddeud fod yr iaith Gymraeg wedi marw	NST	NST
+269, 6	796, 1-5	GRE	ac o'n i fath â	NSNT	NSNT
+269, 7	797, 1-5	GRE	na dydy ddim wedi marw	NSNT	NSNT
+269, 8	797, 6-8	GRE	ond mae hi	NSNT	NSNT
+269, 9	797, 9-11	GRE	mae hi mynd	NSNT	NSNT
+269, 10	797, 12-15	GRE	mae hi mynd i	NSNT	NSNT
+269, 11	797, 16-22	GRE	timod yn go fuan ond *um* oni_bai	NST	NST
+269, 12	797, 23-30	GRE	bod ni yn gwneud pethau amdano fo rŵan	NSNT	NSNT
+269, 13	798, 1-5	GRE	ac oedd o fath â	NSNT	NSNT
+269, 14	799, 1-6	GRE	na na mae hi wedi marw	NSNT	NSNT
+269, 15	800, 1-3	GRE	a ddeudodd o	NSNT	NSNT
+269, 16	801, 1-3	GRE	be ddeudodd o	NSNT	NSNT
+269, 17	802, 1-10	GRE	*um* bod gynno ni ddim cenedl ein hun neu rywbeth	NST	NST
+269, 18	803, 1-8	GRE	*oh* *yeah* ac *um* bod fi yn Brydeinwraig	NST	NST
+269, 19	803, 9-12	GRE	a wnes i ddeud	NSNT	NSNT
+269, 20	803, 13-18	GRE	na dw i ddim yn Brydeinwraig	NSNT	NSNT
+269, 21	803, 19-22	GRE	dw i yn Gymraes	---	NSNT
+
+
+270, 1	804, 1-7	GWY	oedd o yn siarad am hynna neithiwr	---	NSNT
+
+
+271, 1	805, 1-11	GRE	ia ac oedd o *just* fath â na ti yn Brydeinwraig	NST	NST
+271, 2	806, 1-6	GRE	ti yn byw yn Brydain dwyt	NSNT	NSNT
+271, 3	807, 1-7	GRE	*so* o'n i *just* fath â yndw	NST	NST
+271, 4	807, 8-16	GRE	ond dw i ddim yn credu yn Prydain Fawr	NSNT	NSNT
+271, 5	808, 1-9	GRE	yr unig bobl sy yn credu yn Prydain Fawr	NSNT	NSNT
+271, 6	808, 10-11	GRE	ydy Saeson	NSNT	NSNT
+271, 7	810, 1-5	GRE	nhw ydy yr unig rai	NSNT	NSNT
+271, 9	812, 1-5	GRE	yn *well* timod yn gyffredinol	NST	NST
+271, 10	813, 1-5	GRE	dw i ddim yn meddwl	NSNT	NSNT
+271, 11	813, 6-14	GRE	bod fi wedi cyfarfod dim un Albanwr na Gwyddel	NSNT	NSNT
+271, 12	813, 15-19	GRE	sy isio bod yn Brydeinwr	---	NSNT
+
+
+272, 1	814, 1-5	GWY	sy yn gael ei na	---	NSNT
+
+
+273, 1	815, 1-6	GRE	*oh* actually mae *Liz* yn credu	NST	ST
+273, 2	815, 7-10	GRE	bod hi yn Brydeinwraig	NSNT	NSNT
+273, 3	815, 11-22	GRE	ond mae hynny dim_ond achos gaeth hi ei geni yn Llundain *so*	---	NST
+
+
+274, 1	817, 1-4	GWY	*oh* na gwylltio fi	---	NST
+
+
+275, 1	819, 1-5	GRE	a dydy hyd_yn_oed rei Saeson	NSNT	NSNT
+275, 2	819, 6-16	GRE	dw i yn nabod ddim yn galw eu hunain yn Brydeinwyr	NSNT	NSNT
+275, 3	821, 1-5	GRE	*oh* gan amla mae nhw	NST	NST
+275, 4	821, 6-7	GRE	ond timod	---	NSNT
+
+
+276, 1	822, 1-2	GWY	*oh* gwylltio	---	NST
+
+
+277, 1	823, 1-3	GRE	*oh* excuse *me*	---	NST
+
+
+278, 1	824, 1-2	GWY	excuse_ia chdi	SNT	SNT
+278, 2	826, 1-2	GWY	excuse_ia chdi	---	SNT
+
+
+279, 1	827, 1-9	GRE	*oh* *um* be o'n i yn mynd i ddeud	NST	NST
+279, 2	828, 1-12	GRE	*oh* *yeah* *so* pryd ti am fynd nôl i yr Alban ta	---	NST
+
+
+280, 1	829, 1-5	GWY	dw i ddim yn gwybod	NSNT	NSNT
+280, 2	830, 1-8	GWY	wsnos nesa ryw ben dw i yn meddwl	---	NSNT
+
+
+281, 1	831, 1-3	GRE	dos wythnos wedyn	SNT	NSNT
+281, 3	833, 1-1	GRE	*please*	---	NST
+
+
+282, 1	834, 1-11	GWY	*well* dw i *just* yn meddwl waeth i fi wneud tra	---	NST
+
+
+283, 1	835, 1-6	GRE	tra does gen ti ddim gwaith	---	NSNT
+
+
+284, 1	839, 1-12	GWY	a hefyd fydd *Idwal* yn gorffen yn o fuan yn *Dundee* anyway	---	ST
+
+
+285, 1	840, 1-3	GRE	*oh* ydy o	---	NST
+
+
+286, 1	841, 1-5	GWY	felly baswn i yn licio	NSNT	NSNT
+286, 2	842, 1-10	GWY	dw i isio fo cael gwaith eto yn syth bin	---	NSNT
+
+
+287, 1	843, 1-3	GRE	na ti ddim	---	NSNT
+
+
+288, 1	844, 1-8	GWY	baswn i yn licio iddo fo ddod yma	---	NSNT
+
+
+289, 1	845, 1-6	GRE	ia *well* chwarae teg mae o	NST	NST
+289, 2	845, 7-14	GRE	wedi bod lawr yn fan yma am ages	---	SNT
+
+
+290, 1	846, 1-7	GWY	do yn hollol felly yn *nhurn* i	NST	NST
+290, 2	846, 8-9	GWY	ydy o	NSNT	NSNT
+290, 3	848, 1-10	GWY	*so* *erm* *yeah* a i nôl wythnos nesa ryw ben	NST	NST
+290, 4	849, 1-3	GWY	mae yn dibynnu	NSNT	NSNT
+290, 5	849, 4-8	GWY	sut mae yfory yn mynd	---	NSNT
+
+
+291, 1	850, 1-6	GRE	oes gynno fo waith ar_ôl hwn	NSNT	NSNT
+291, 2	852, 1-4	GRE	does gynno fo ddim_byd	NSNT	NSNT
+291, 4	854, 1-6	GRE	be am yr *film* bach yna	---	NST
+
+
+292, 1	855, 1-9	GWY	*oh* *yeah* mae o yn wneud hwnna wythnos nesaf	NST	NST
+292, 2	857, 1-4	GWY	yn y diwrnod yndy	NSNT	NSNT
+292, 3	859, 1-7	GWY	wnaeth o fynd trwodd i Gaeredin i	---	NSNT
+
+
+293, 1	860, 1-5	GRE	God fydd o wedi blino	NSNT	SNT
+293, 2	860, 6-6	GRE	bydd	---	NSNT
+
+
+294, 1	861, 1-1	GWY	bydd	NSNT	NSNT
+294, 2	862, 1-1	GWY	dyna	NSNT	NSNT
+294, 3	862, 2-4	GWY	ydy yr peth	NSNT	NSNT
+294, 4	863, 1-10	GWY	mae o yn wneud hwnnw trwy yr dydd a wedyn	NSNT	NSNT
+294, 5	863, 11-18	GWY	mae o mynd i y sioe yn nos	---	NSNT
+
+
+295, 1	864, 1-2	GRE	esgob annwyl	NSNT	NSNT
+295, 2	866, 1-1	GRE	bechod	---	NSNT
+
+
+296, 1	867, 1-3	GWY	*nice* cael gwaith	---	NST
+
+
+297, 1	868, 1-6	GRE	ond fel ti yn deud de	NSNT	NSNT
+297, 2	868, 7-11	GRE	os ydy yr gwaith yno	NSNT	NSNT
+297, 3	868, 12-18	GRE	mae yn rhaid chdi gymryd o yn_does	NSNT	NSNT
+297, 4	870, 1-7	GRE	fedri di ddim troi o lawr nac	---	NSNT
+
+
+298, 1	872, 1-4	GWY	ond ia gobeithio ddaw	NSNT	NSNT
+298, 2	873, 1-1	GWY	dw	NSNT	NSNT
+298, 3	873, 2-4	GWY	dw i *sure*	NST	NST
+298, 4	873, 5-6	GWY	daw rhywbeth	NSNT	NSNT
+298, 5	874, 1-2	GWY	mae o	NSNT	NSNT
+298, 6	874, 3-8	GWY	wedi bod yn ofnadwy o lwcus	NSNT	NSNT
+298, 7	874, 9-13	GWY	timod ers i ni orffen	NSNT	NSNT
+298, 8	875, 1-11	GWY	*just* dw i meddwl ychydig wythnosau fath â pedwar pump wythnos	NST	NST
+298, 9	875, 13-13	GWY	yr	NSNT	NSNT
+298, 10	875, 14-14	GWY	hira	NSNT	NSNT
+298, 11	875, 15-16	GWY	mae o	NSNT	NSNT
+298, 12	875, 17-18	GWY	wedi bod	---	NSNT
+
+
+299, 1	876, 1-5	GRE	ers iddo fo adael coleg	---	NSNT
+
+
+300, 1	877, 1-4	GWY	*yeah* allan o waith	---	NST
+
+
+301, 1	878, 1-2	GRE	no way	---	NSNT
+
+
+302, 1	879, 1-9	GWY	sydd yn beth da dydy pan ti yn *mmm*	---	NST
+
+
+303, 1	880, 1-3	GRE	mae hynna yn	NSNT	NSNT
+303, 2	880, 4-8	GRE	mae hynna yn amazing really	SNT	SNT
+303, 3	881, 1-9	GRE	*so* mae *lot* o bobl yn gadael coleg yn	NST	NST
+303, 4	881, 10-16	GRE	timod ddim yn cael gwaith o gwbl	NSNT	NSNT
+303, 5	883, 1-5	GRE	mae *Jane* ti nabod *Jane*	NST	NST
+303, 6	883, 6-14	GRE	oedd yn byw efo fi yn blwyddyn gynta *um*	NST	NST
+303, 7	884, 1-5	GRE	dydy hi ddim wedi cael	NSNT	NSNT
+303, 8	884, 6-9	GRE	dw i yn meddwl	NSNT	NSNT
+303, 9	884, 10-24	GRE	bod hi wedi cael un gwaith actio neu fath â mewn *theatre* ers gadael coleg	---	NST
+
+
+304, 1	887, 1-5	GWY	actores oedd hi isio bod	---	NSNT
+
+
+305, 1	889, 1-2	GRE	ia actores	NSNT	NSNT
+305, 2	890, 1-4	GRE	mae hi yn dda	NSNT	NSNT
+305, 3	890, 5-5	GRE	sti	NSNT	NSNT
+305, 4	892, 1-4	GRE	mae hi yn dda	---	NSNT
+
+
+306, 1	893, 1-2	GWY	ac un	---	NSNT
+
+
+307, 1	895, 1-5	GRE	un peth os hynny actually	SNT	SNT
+307, 2	896, 1-8	GRE	ella fod fi wedi cael hynna yn *wrong*	NST	NST
+307, 3	897, 1-4	GRE	ond ia bechod de	---	NSNT
+
+
+308, 1	898, 1-4	GWY	mae hynna yn bechod	---	NSNT
+
+
+309, 1	899, 1-3	GRE	ond dw i	NSNT	NSNT
+309, 2	899, 4-8	GRE	wnes i ddeud wrtha chdi	NSNT	NSNT
+309, 3	899, 9-18	GRE	bod fi yn mynd i Fanceinion i aros efo *Elin*	NST	NST
+309, 4	901, 1-8	GRE	a mae *Jane* a *Laura* yn dod hefyd	---	NST
+
+
+310, 1	902, 1-2	GWY	*oh* *nice*	---	NST
+
+
+311, 1	903, 1-11	GRE	wedyn rydan ni yn cael fath â ryw *flat* forty reunion	ST	ST
+311, 2	905, 1-5	GRE	*so* *yeah* fydd o *nice*	NST	NST
+311, 3	907, 1-8	GRE	wedyn rydan ni yn mynd i aros efo	---	NSNT
+
+
+312, 1	908, 1-1	GWY	pryd	---	NSNT
+
+
+313, 1	909, 1-1	GRE	*Elin*	ST	NST
+313, 2	910, 1-4	GRE	*er* pedwerydd ar ugain	NST	NST
+313, 3	911, 1-12	GRE	*well* dw i yn mynd i fynd lawr am y penwythnos cyfan	NST	NST
+313, 4	911, 13-21	GRE	ond dydy *Jane* methu mynd tan yr nos Sadwrn	---	NST
+
+
+314, 1	912, 1-3	GWY	*oh* excuse *me*	---	NST
+
+
+315, 1	913, 1-12	GRE	y dydd Sadwrn achos mae hi yn gweithio ar y nos Wener	NSNT	NSNT
+315, 2	916, 1-6	GRE	a dw i ddim yn gwybod	NSNT	NSNT
+315, 3	916, 7-10	GRE	be mae *Laura* wneud	NST	NST
+315, 4	917, 1-4	GRE	dw i meddwl ella	NSNT	NSNT
+315, 5	917, 5-12	GRE	fydd hi *just* yn dod dydd Sadwrn hefyd	NST	NST
+315, 6	918, 1-3	GRE	mae yn *sure*	NST	NST
+315, 7	918, 4-12	GRE	os dydy *Jane* ddim yn dod tan ddydd Sadwrn	NST	NST
+315, 8	920, 1-7	GRE	*so* ond *yeah* dw i edrych ymlaen	NST	NST
+315, 9	921, 1-3	GRE	fydd o *nice*	NST	NST
+315, 10	922, 1-5	GRE	dw i ddim wedi gweld	NSNT	NSNT
+315, 11	922, 6-13	GRE	lle mae *Elin* yn byw o yr blaen	NST	NST
+315, 12	924, 1-8	GRE	*well* newydd symud yna mae hi flwyddyn yma	ST	NST
+315, 13	926, 1-3	GRE	*oh* excuse *me*	ST	NST
+315, 14	927, 1-7	GRE	mae hi wedi cael *um* *job* dysgu	NST	NST
+315, 15	927, 8-8	GRE	sti	NSNT	NSNT
+315, 16	928, 1-7	GRE	dw i wedi deud hynna wrtha chdi	---	NSNT
+
+
+316, 1	929, 1-1	GWY	*Elin*	ST	NST
+316, 2	932, 1-2	GWY	yn lle	---	NSNT
+
+
+317, 1	934, 1-2	GRE	ym Manceinion	NSNT	NSNT
+317, 2	935, 1-4	GRE	mae hi yn deud	NSNT	NSNT
+317, 3	935, 5-8	GRE	bod yr ysgol yn	NSNT	NSNT
+317, 4	935, 9-15	GRE	timod *right* dlawd a felly *right* *rough*	NST	NST
+317, 5	937, 1-6	GRE	ond *um* mae yn *job* yn_dydy	NST	NST
+317, 6	938, 1-4	GRE	mae hi yn mwynhau	---	NSNT
+
+
+318, 1	940, 1-3	GWY	*oh* da iawn	NST	NST
+318, 2	941, 1-7	GWY	ti meddwl eith hi yn_ôl i Iwerddon	---	NSNT
+
+
+319, 1	942, 1-4	GRE	*um* mae yn *sure*	NST	NST
+319, 2	942, 5-7	GRE	eith hi rywbryd	NSNT	NSNT
+319, 3	942, 9-17	GRE	ond mae hi yn mwynhau yn fan yma wedyn	NSNT	NSNT
+319, 4	944, 1-6	GRE	does yna ddim pwynt brysio na	NSNT	NSNT
+319, 5	946, 1-4	GRE	dw i meddwl ella	NSNT	NSNT
+319, 6	946, 5-6	GRE	bod yna	NSNT	NSNT
+319, 7	946, 7-17	GRE	timod achos bod yna fwy o ysgolion yn fan yma hefyd	NSNT	NSNT
+319, 8	948, 1-1	GRE	mae	NSNT	NSNT
+319, 9	948, 2-8	GRE	gynni fwy o *jance* o gael gwaith	---	NST
+
+
+320, 1	950, 1-13	GWY	ti meddwl bod rhan fwyaf o fyfyrwyr yn yn aros i fyw yn	NSNT	NSNT
+320, 2	950, 14-19	GWY	lle wnaethon nhw fynd i astudio	---	NSNT
+
+
+321, 1	951, 1-6	GRE	*mmm* dw i ddim yn gwybod	---	NST
+
+
+322, 1	952, 1-3	GWY	*just* yn meddwl	---	NST
+
+
+323, 1	953, 1-10	GRE	na actually dydy *lot* o ffrindiau coleg fi ddim wedi	NST	ST
+323, 2	956, 1-6	GRE	wnaeth *um* *Liz* aros am flwyddyn	NST	NST
+323, 3	956, 7-14	GRE	ond oedd hynna dim_ond achos bod y genod	NSNT	NSNT
+323, 4	956, 15-23	GRE	oedd hi yn byw efo dal yn coleg a	NSNT	NSNT
+323, 5	958, 1-9	GRE	oedd ganddi *job* yn fan yma *well* rhan amser	NST	NST
+323, 7	960, 1-7	GRE	ond wedyn wnaeth hi symud nôl adre	NSNT	NSNT
+323, 8	960, 8-12	GRE	pan wnaethon nhw symud i_ffwrdd	NSNT	NSNT
+323, 9	961, 1-8	GRE	wedyn mae yna rai o yr hogiau wedi	NSNT	NSNT
+323, 10	962, 1-6	GRE	*oh* mae *Keith* dal yn coleg	NST	NST
+323, 11	964, 1-7	GRE	*um* *yeah* na does yna ddim llawer	NST	NST
+323, 12	965, 1-4	GRE	dim llawer o gwbl	NSNT	NSNT
+323, 13	966, 1-6	GRE	mae *Edna* wedi aros hefyd actually	ST	ST
+323, 14	967, 1-4	GRE	hi a ei chariad	NSNT	NSNT
+323, 15	969, 1-9	GRE	ond mae hynna achos bod ganddi *job* yn Lerpwl	---	NST
+
+
+324, 1	970, 1-12	GWY	*well* ti yn meddwl efallai yng Nghymru mae o yn digwydd achos	NST	NST
+324, 2	970, 13-19	GWY	dw i *just* yn meddwl fath â	NST	NST
+324, 3	970, 20-24	GWY	dw i yn nabod *lot*	NST	NST
+324, 4	970, 25-36	GWY	sy yn dod i *Fangor* ac yn aros i fyw yma wedyn	---	NST
+
+
+325, 1	971, 1-6	GRE	mae *Bangor* yn le *nice* though	ST	ST
+325, 2	972, 1-7	GRE	ti yn gwybod be dw i feddwl	---	NSNT
+
+
+326, 1	973, 1-5	GWY	yr un peth â Caerdydd	---	NSNT
+
+
+327, 1	974, 1-4	GRE	mae *lot* o bobl	NST	NST
+327, 2	974, 5-8	GRE	sy yn dod yma	NSNT	NSNT
+327, 3	975, 1-19	GRE	*yeah* *lot* o bobl sy yn dod yma though fath â yn dod o drefi *well* o ddinasoedd anferth	NST	ST
+327, 4	975, 20-20	GRE	dydy	NSNT	NSNT
+327, 5	977, 1-7	GRE	timod a wedyn neu o yr gwrthwyneb	NSNT	NSNT
+327, 6	977, 8-11	GRE	timod o bentre bach	NSNT	NSNT
+327, 7	979, 1-4	GRE	timod fath â *um*	NST	NST
+327, 8	979, 5-14	GRE	dw i ddim yn gwybod yn de Cymru neu rywbeth	NSNT	NSNT
+327, 9	981, 2-4	GRE	mae *Steven* *Williams*	NST	NST
+327, 10	982, 1-7	GRE	mae o wedi aros yma ers coleg	---	NSNT
+
+
+328, 1	983, 1-5	GWY	o le mae o yn	---	NSNT
+
+
+329, 1	984, 1-3	GRE	o *um* Pembrokeshire	ST	ST
+329, 2	985, 1-8	GRE	o rywle fel yna mae o yn dod	NSNT	NSNT
+329, 3	986, 2-2	GRE	mae	NSNT	NSNT
+329, 4	987, 1-2	GRE	Sir_Benfro *yeah*	NST	NST
+329, 5	989, 1-11	GRE	wedyn mae o wedi aros yma ac o'n i fath â	NSNT	NSNT
+329, 6	990, 1-8	GRE	pam ti wedi aros yma am gymaint amser	NSNT	NSNT
+329, 7	991, 1-4	GRE	wnaeth o *just* deud	NST	NST
+329, 8	992, 1-5	GRE	dw i really licio yr	NSNT	SNT
+329, 9	992, 6-7	GRE	lle timod	NSNT	NSNT
+329, 10	993, 1-6	GRE	mae yr lle yma yn lovely	SNT	SNT
+329, 11	994, 1-1	GRE	*so*	---	NST
+
+
+330, 1	995, 1-3	GWY	Sir_Benfro yn *nice*	---	NST
+
+
+331, 1	996, 1-2	GRE	yndy ond	NSNT	NSNT
+331, 2	997, 1-6	GRE	*well* wnaeth o ddeud fath â	NST	NST
+331, 3	997, 7-8	GRE	mae yr	NSNT	NSNT
+331, 4	997, 9-17	GRE	lle mae o yn byw fath â pentre bach	NSNT	NSNT
+331, 5	997, 18-19	GRE	ydy o	NSNT	NSNT
+331, 6	998, 1-5	GRE	wedyn mae o yn *rubbish*	NST	NST
+331, 7	1000, 1-9	GRE	wedyn mae gynno fo ffrindiau fo fyny fan yma	NSNT	NSNT
+331, 8	1001, 1-5	GRE	mae gynno fo gariad rŵan	NSNT	NSNT
+331, 9	1002, 1-5	GRE	*so* mae o fath â	---	NST
+
+
+332, 1	1004, 1-3	GWY	*just* aros yna	---	NST
+
+
+333, 1	1005, 1-3	GRE	pam symud de	---	NSNT
+
+
+334, 1	1007, 1-7	GWY	ydy o dal yn gweithio yn *B_T*	---	NST
+
+
+335, 1	1008, 3-5	GRE	na mae o	NSNT	NSNT
+335, 2	1009, 1-6	GRE	be mae o yn wneud rŵan	NSNT	NSNT
+335, 3	1010, 1-8	GRE	mae o wedi gadael fan yna ers ages	SNT	SNT
+335, 4	1011, 1-6	GRE	mae o fath â *Dave* *um*	NST	NST
+335, 5	1012, 1-3	GRE	dw ddim wybod	NSNT	NSNT
+335, 6	1013, 1-5	GRE	dw i ddim yn cofio	NSNT	NSNT
+335, 7	1013, 6-8	GRE	be ddeudodd o	NSNT	NSNT
+335, 8	1013, 9-13	GRE	be mae o wneud rŵan	NSNT	NSNT
+335, 9	1014, 1-9	GRE	*oh* mae o yn byw efo ei gariad rŵan	NST	NST
+335, 10	1016, 1-4	GRE	be ydy enw hi	SNT	NSNT
+335, 11	1017, 1-1	GRE	*Jemimah*	ST	NST
+335, 12	1018, 1-5	GRE	*yeah* dw i meddwl *Jemimah*	NST	NST
+335, 13	1018, 6-9	GRE	oedd ei enw hi	SNT	NSNT
+335, 14	1020, 1-1	GRE	*serious*	ST	NST
+335, 16	1022, 1-5	GRE	wedi setlo o yr diwedd	---	NSNT
+
+
+336, 1	1024, 1-10	GWY	*oh* fedri di ddychmygu fynd yn_ôl i weithio i *B_T*	---	NST
+
+
+337, 1	1025, 2-8	GRE	be wnes i gysidro fo ychydig yn_ôl	NSNT	NSNT
+337, 2	1025, 9-9	GRE	sti	---	NSNT
+
+
+338, 1	1026, 2-3	GWY	wnaeth *mam*	---	NST
+
+
+339, 1	1027, 1-3	GRE	wnes i feddwl	---	NSNT
+
+
+340, 1	1028, 1-4	GWY	gysidro fo drosta i	NSNT	NSNT
+340, 3	1030, 1-7	GWY	ti ddim yn meddwl fasai yn syniad	NSNT	NSNT
+340, 4	1031, 1-13	GWY	ac o'n i meddwl *well* *oh* dw i ddim yn licio fath â	NST	NST
+340, 5	1033, 1-4	GWY	a dim *just* hynna	NST	NST
+340, 6	1034, 1-13	GWY	fasai fo yn iawn os fasa nhw fwy hyblyg efo dy oriau di	---	NSNT
+
+
+341, 1	1035, 1-7	GRE	*yeah* ond dydyn nhw ddim na ydy	---	NST
+
+
+342, 1	1036, 1-5	GWY	ond unwaith ti yna *yeah*	---	NST
+
+
+343, 1	1037, 1-8	GRE	ti cael dy roid lawr i bob *shift*	NST	NST
+343, 2	1037, 9-9	GRE	dwyt	NSNT	NSNT
+343, 3	1039, 1-5	GRE	wnes i weld *um* *Rhidian*	NST	NST
+343, 4	1040, 1-7	GRE	ti cofio *Rhidian* oedd yn gweithio yna	---	NST
+
+
+344, 1	1041, 1-5	GWY	fo oeddan ni yn meddwl	---	NSNT
+
+
+345, 1	1042, 1-9	GRE	ia o'n ni yn gweiddi arno fo oedd o	NSNT	NSNT
+345, 2	1044, 1-4	GRE	ia wnes i weld	NSNT	NSNT
+345, 3	1045, 1-13	GRE	ti gwybod y *gig* wnes i fynd i yn *Railway* *club* ychydig yn_ôl	NST	NST
+345, 4	1047, 1-13	GRE	oedd o yna a o'n i yn siarad â fo am ages actually	SNT	SNT
+345, 5	1048, 1-7	GRE	ac oedd o yn sôn am *B_T*	NST	NST
+345, 6	1049, 1-4	GRE	mae o dal yna	NSNT	NSNT
+345, 7	1050, 1-5	GRE	na mae o newydd adael	NSNT	NSNT
+345, 8	1052, 1-5	GRE	*oh* *yeah* be oedd o	NST	NST
+345, 9	1053, 1-15	GRE	*oh* *yeah* wnaeth ddod yn_ôl rywbeth fath â dau funud yn hwyr o ei freak	ST	ST
+345, 10	1053, 16-20	GRE	a wnaeth o gael *sack*	---	NST
+
+
+346, 1	1054, 1-1	GWY	be	---	NSNT
+
+
+347, 1	1056, 1-3	GRE	dw i gwybod	NSNT	NSNT
+347, 2	1057, 1-2	GRE	hollol ridiculous	SNT	SNT
+347, 3	1058, 1-5	GRE	a wnaeth o ddeud *oh*	NST	NST
+347, 4	1058, 6-11	GRE	doedd yna ddim ots gynno fo	NSNT	NSNT
+347, 5	1059, 1-8	GRE	oedd o *just* ddeud wrthyn nhw stwffio fo	---	NST
+
+
+348, 1	1060, 1-11	GWY	ti cofio oeddan ni gorfod seinio allan i fynd i *toilet*	---	NST
+
+
+349, 1	1062, 1-3	GRE	*mmm* ridiculous yndy	NST	ST
+349, 2	1063, 1-2	GRE	hollol ridiculous	SNT	SNT
+349, 3	1064, 1-3	GRE	*oh* dyna fo	NST	NST
+349, 4	1065, 1-14	GRE	*yeah* ond pan oedd o yn son am hynna ac o'n i meddwl ella	NST	NST
+349, 5	1065, 15-19	GRE	wna i fynd yn_ôl achos	NSNT	NSNT
+349, 6	1065, 20-24	GRE	mae o *just* fath â	NST	NST
+349, 7	1066, 1-3	GRE	mae yn *job*	NST	NST
+349, 8	1067, 1-7	GRE	ti yn gwybod sut i wneud o	NSNT	NSNT
+349, 9	1068, 1-18	GRE	ond wedyn o'n i meddwl petasan ni yn mynd yn_ôl basan ni yn gorfod cael ein traenio eto	NSNT	NSNT
+349, 10	1068, 19-19	GRE	basan	---	NSNT
+
+
+350, 1	1069, 1-1	GWY	basan	---	NSNT
+
+
+351, 1	1070, 1-8	GRE	am fath â yr pedwerydd tro i fi	---	NSNT
+
+
+352, 1	1071, 1-2	GWY	a ti	---	NSNT
+
+
+353, 1	1072, 1-2	GRE	no way	---	NSNT
+
+
+354, 1	1073, 1-2	GWY	peth ydy	NSNT	NSNT
+354, 2	1073, 4-7	GWY	faswn i ddim yn	NSNT	NSNT
+354, 3	1074, 2-8	GWY	wnaethon ni gael cwmni ofnadwy o dda	---	NSNT
+
+
+355, 1	1075, 1-12	GRE	wnaethon ni fwynhau o achos bod ni yn gweithio efo ein gilydd	NSNT	NSNT
+355, 2	1075, 13-14	GRE	do really	---	SNT
+
+
+356, 1	1076, 2-8	GWY	ac oedd *Jack* a rheiny i_gyd yn	NST	NST
+356, 2	1078, 1-4	GWY	oeddan ni yn lwcus	---	NSNT
+
+
+357, 1	1079, 1-3	GRE	*oh* hwyl de	NST	NST
+357, 2	1080, 1-2	GRE	*wrong* braidd	NST	NST
+357, 4	1082, 1-4	GRE	mae *just* rhyw service	ST	ST
+357, 6	1084, 1-5	GRE	*sorry* beth ydach chi isio	---	NST
+
+
+358, 1	1089, 1-5	GWY	*um* faint o gloch ydy	---	NST
+
+
+359, 1	1090, 1-4	GRE	*oh* dw ddim gwybod	NST	NST
+359, 2	1091, 1-6	GRE	dw i wedi diffodd yn *phone*	---	NST
+
+
+360, 1	1092, 1-2	GWY	a fi	---	NSNT
+
+
+361, 1	1093, 1-6	GRE	mae yr *clock* yna wedi stopio	NST	NST
+361, 2	1094, 1-12	GRE	o'n i yn sbïo arno fo gynnau ac o'n i yn meddwl	NSNT	NSNT
+361, 3	1095, 1-7	GRE	*oh* fedrwn ni weld faint o amser	---	NST
+
+
+362, 1	1096, 1-6	GWY	*well* mae yn hanner wedi deg	---	NST
+
+
+363, 1	1098, 1-8	GRE	sbïo faint o gloch oedd hi arno fo	NSNT	NSNT
+363, 2	1098, 9-15	GRE	a wnes i *just* meddwl *oh* iawn	NST	NST
+363, 4	1101, 1-4	GRE	be wnei di heno	NSNT	NSNT
+363, 5	1101, 5-5	GRE	ta	NSNT	NSNT
+363, 6	1102, 1-1	GRE	diogi	---	NSNT
+
+
+364, 1	1103, 1-7	GWY	*well* na dw i angen sortio allan	NST	NST
+364, 2	1104, 1-9	GWY	*oh* dw i yn flin braidd efo yn hun	NST	NST
+364, 3	1105, 1-4	GWY	achos o'n i feddwl	NSNT	NSNT
+364, 4	1106, 1-4	GWY	*oh* mae yn iawn	NST	NST
+364, 5	1107, 1-1	GWY	mae	NSNT	NSNT
+364, 6	1107, 2-11	GWY	gynna i cwpwl o ddyddiau rŵan i sortio pob_dim allan	NSNT	NSNT
+364, 8	1109, 1-8	GWY	ddoe a heddiw dw i wedi gwneud dim_byd	NSNT	NSNT
+364, 10	1111, 1-1	GWY	dim_byd	NSNT	NSNT
+364, 11	1112, 1-5	GWY	felly dw i yn flin	NSNT	NSNT
+364, 12	1113, 1-5	GWY	dw i *just* angen cael	NST	NST
+364, 13	1113, 6-11	GWY	*just* timod trio twtio yr tŷ	NST	NST
+364, 14	1115, 1-2	GWY	smwddio ella	NSNT	NSNT
+364, 16	1117, 1-4	GWY	dw i yn gwybod	NSNT	NSNT
+364, 17	1118, 1-4	GWY	pethau diflas fel yna	---	NSNT
+
+
+365, 1	1119, 1-5	GRE	oes gen ti fwrdd smwddio	---	NSNT
+
+
+366, 1	1121, 1-2	GWY	wnaeth *Einir*	NST	NST
+366, 2	1121, 3-6	GWY	roid o i fi	---	NSNT
+
+
+367, 1	1122, 1-3	GRE	*oh* do *sure*	NST	NST
+367, 2	1124, 1-2	GRE	da de	NSNT	NSNT
+367, 3	1126, 1-13	GRE	presantau fel yna ti isio pan ti yn symud fewn i rywle de	---	NSNT
+
+
+368, 1	1127, 1-4	GWY	*yeah* mae o *handy*	---	NST
+
+
+369, 1	1128, 1-3	GRE	*sorry* wnes i	NST	NST
+369, 2	1128, 4-7	GRE	roid *vase* i chdi	---	NST
+
+
+370, 1	1130, 1-5	GWY	na mae hwnna yn lovely	SNT	SNT
+370, 2	1130, 6-14	GWY	a mae hwnna yn wneud o yn fwy cartrefol	NSNT	NSNT
+370, 3	1130, 15-15	GWY	dydy	---	NSNT
+
+
+371, 1	1131, 1-3	GRE	*sirens* ydy rheina	NST	NST
+371, 2	1133, 1-15	GRE	o'n i ddim yn *sure* os fath â gwylanod timod fath â haid ohonyn nhw	NST	NST
+371, 3	1133, 16-17	GRE	oedd o	---	NSNT
+
+
+372, 1	1135, 1-5	GWY	*oh* fasa hynna yn *horrible*	---	NST
+
+
+373, 1	1137, 1-8	GRE	*um* ti yn gwybod lle mae dy *bassport*	---	NST
+
+
+374, 1	1138, 1-1	GWY	yndw	---	NSNT
+
+
+375, 1	1139, 1-2	GRE	da iawn	NSNT	NSNT
+375, 2	1140, 1-10	GRE	o'n i yn meddwl bod chdi am ddechrau panic_io rŵan	---	SNT
+
+
+376, 1	1141, 1-8	GWY	na na dw i yn iawn fan yna	NSNT	NSNT
+376, 3	1144, 1-11	GWY	*oh* *yeah* dw i *just* angen cael fy hun yn barod	ST	NST
+376, 4	1146, 1-3	GWY	*oh* excuse *me*	---	NST
+
+
+377, 1	1148, 1-7	GRE	*oh* pryd wnes di weld *Guto* dwytha	---	NST
+
+
+378, 1	1149, 2-5	GWY	be oedd mis Hydref	NSNT	NSNT
+378, 2	1151, 1-13	GWY	achos wnaethon ni ddim gweld o Nadolig achos bod ni yn mynd i_ffwrdd	---	NSNT
+
+
+379, 1	1152, 1-3	GRE	*oh* God *yeah*	---	NST
+
+
+380, 1	1153, 1-4	GWY	felly fydd o *nice*	---	NST
+
+
+381, 1	1154, 1-9	GRE	achos ti heb weld o ers ages felly naddo	---	SNT
+
+
+382, 1	1155, 1-5	GWY	mae *nice* gweld o eto	NST	NST
+382, 2	1157, 1-5	GWY	*oh* fydd o yn *nice*	NST	NST
+382, 3	1157, 6-6	GWY	fydd	NSNT	NSNT
+382, 4	1158, 1-6	GWY	fi a *Gareth* a fo fydd	NST	NST
+382, 5	1159, 2-4	GWY	mae rywbeth *nice*	---	NST
+
+
+383, 1	1162, 1-4	GRE	*change* really yndy achos	NST	ST
+383, 2	1162, 5-6	GRE	mae *sure*	NST	NST
+383, 3	1162, 7-17	GRE	bod chi ddim yn wneud dim_byd *just* y tri ohonoch chi	---	NST
+
+
+384, 1	1163, 1-2	GWY	byth na	NSNT	NSNT
+384, 2	1164, 1-8	GWY	mae *mam* yn dechrau mynd yn *right* stressed	ST	ST
+384, 4	1166, 1-4	GWY	oedd hi yn ffonio	---	NSNT
+
+
+385, 1	1167, 1-1	GRE	obsessed	---	NSNT
+
+
+386, 1	1168, 1-1	GWY	stressed	---	NSNT
+
+
+387, 1	1171, 1-2	GRE	dy fam	---	NSNT
+
+
+388, 1	1172, 1-6	GWY	*yeah* mae nhw mynd i Madrid	---	NST
+
+
+389, 1	1173, 1-3	GRE	*oh* yndy *sure*	---	NST
+
+
+390, 1	1174, 1-1	GWY	*so*	---	NST
+
+
+391, 1	1175, 1-8	GRE	*oh* *yeah* dyna pam ti yn gwarchod *Gareth*	ST	NST
+391, 2	1177, 1-3	GRE	*oh* *yeah* *duh*	---	NST
+
+
+392, 1	1178, 1-1	GWY	gwarchod	NSNT	NSNT
+392, 2	1180, 1-5	GWY	tyrd awn ni i *Brussels*	---	NST
+
+
+393, 1	1182, 1-7	GRE	tyrd awn ni am dro i *Brussels*	NST	NST
+393, 3	1184, 1-9	GRE	am faint mae dy fam a *Dylan* yn mynd	NST	NST
+393, 4	1185, 1-3	GRE	*just* y penwythnos	ST	NST
+393, 5	1187, 1-2	GRE	*oh* *nice*	ST	NST
+393, 7	1190, 1-13	GRE	*yeah* *present* Nadolig na *present* pen_blwydd neu rywbeth i dy fam ydy o	---	NST
+
+
+394, 1	1191, 1-12	GWY	*Guto* a *Susannah* gath o yn *bresent* Nadolig i *mam* a *Dylan*	---	NST
+
+
+395, 1	1192, 1-2	GRE	*oh* *nice*	ST	NST
+395, 2	1194, 1-3	GRE	sut mae *Susannah*	NST	NST
+395, 3	1195, 1-4	GRE	ydy hi yn iawn	---	NSNT
+
+
+396, 1	1196, 1-3	GWY	dw i meddwl	---	NSNT
+
+
+397, 1	1197, 1-4	GRE	dw i ddim gwybod	---	NSNT
+
+
+398, 1	1198, 1-2	GWY	dim syniad	NSNT	NSNT
+398, 2	1199, 1-10	GWY	mis Hydref oedd tro dwytha i fi weld hi hefyd	---	NSNT
+
+
+399, 1	1201, 1-12	GRE	*oh* *yeah* fasa chdi ddim yn gweld hi heb *Guto* na fasachd	NST	NST
+399, 2	1203, 1-6	GRE	fasa hynna bach yn *odd* basa	---	NST
+
+
+400, 1	1204, 1-4	GWY	*yeah* *just* mynd draw	ST	NST
+400, 2	1206, 1-1	GWY	*hello*	ST	NST
+400, 3	1207, 1-7	GWY	mynd i aros efo hi yng Nghaerdydd	NSNT	NSNT
+400, 5	1209, 1-3	GWY	fasa yn *odd*	---	NST
+
+
+401, 1	1210, 1-6	GRE	*oh* dw i ddim yn meddwl	---	NST
+
+
+402, 1	1211, 1-8	GWY	*um* *yeah* na dw i yn edrych ymlaen	NST	NST
+402, 2	1212, 1-7	GWY	dw i *just* yn teimlo bach yn	NST	NST
+402, 3	1213, 1-10	GWY	*so* gweld *Gareth* heno yma a sortio fy hun allan	---	NST
+
+
+403, 1	1215, 1-9	GRE	*oh* gynno fi llwyth o waith i wneud yfory	NST	NST
+403, 2	1216, 1-3	GRE	gafon ni *um*	NST	NST
+403, 4	1219, 1-8	GRE	*so* ges i ddim yr gwaith i wneud	NST	NST
+403, 5	1219, 9-11	GRE	*so* wnaeth o	NST	NST
+403, 6	1219, 12-17	GRE	roid o i ni gyd ddoe	NSNT	NSNT
+403, 7	1220, 1-10	GRE	yr un wythnos dwytha ac yr un wythnos yma timod	NSNT	NSNT
+403, 8	1222, 1-12	GRE	ond dydan ni ddim yn gorfod gwneud yr un wythnos dwytha tan	NSNT	NSNT
+403, 9	1222, 14-17	GRE	wnaeth o *just* deud	NST	NST
+403, 10	1223, 1-4	GRE	gwnewch o cyn Pasg	SNT	NSNT
+403, 11	1225, 1-1	GRE	basically	SNT	NSNT
+403, 12	1226, 1-9	GRE	*so* *well* hynna yn be dair wythnos rhywbeth felly	---	NST
+
+
+404, 1	1227, 1-6	GWY	*er* dw i ddim yn gwybod	---	NST
+
+
+405, 1	1228, 1-3	GRE	rhywbeth felly de	NSNT	NSNT
+405, 2	1230, 1-3	GRE	ia *so* timod	NST	NST
+405, 3	1230, 4-9	GRE	wna i wneud o cyn hynny	NSNT	NSNT
+405, 4	1232, 1-2	GRE	ond *um*	NST	NST
+405, 5	1233, 1-4	GRE	achos wnaeth o ddeud	NSNT	NSNT
+405, 6	1233, 5-7	GRE	de ar_ôl Pasg	NSNT	NSNT
+405, 7	1233, 8-11	GRE	byddan ni wedi gorffen	NSNT	NSNT
+405, 8	1234, 1-2	GRE	cyn timod	NSNT	NSNT
+405, 9	1234, 3-10	GRE	pan fyddan ni yn torri fyny am Pasg	NSNT	NSNT
+405, 10	1234, 11-13	GRE	dyna fo wedyn	NSNT	NSNT
+405, 11	1234, 14-17	GRE	fyddan ni wedi gorffen	NSNT	NSNT
+405, 12	1235, 1-4	GRE	hwnna yn rhyfedd yndy	---	NSNT
+
+
+406, 1	1236, 1-1	GWY	dyna	NSNT	NSNT
+406, 2	1236, 2-8	GWY	pryd mae yr gwyliau haf yn dechrau	---	NSNT
+
+
+407, 1	1239, 1-11	GRE	na *just* fyddan ni wedi gwneud y naw darn o waith	NST	NST
+407, 2	1239, 12-15	GRE	rydan ni gorfod wneud	NSNT	NSNT
+407, 3	1241, 1-6	GRE	*so* fyddan ni wedi wneud o	---	NST
+
+
+408, 1	1242, 1-4	GWY	mae hynna *right* braf	---	NST
+
+
+409, 1	1244, 1-3	GRE	mae *just* rhyfedd	NST	NST
+409, 2	1244, 4-7	GRE	yndy meddwl fath â	NSNT	NSNT
+409, 3	1244, 8-15	GRE	byddan ni wedi gorffen ar y cwrs wedyn	---	NSNT
+
+
+410, 1	1246, 1-7	GWY	ti yn cael tystysgrif neu rywbeth neu	---	NSNT
+
+
+411, 1	1247, 1-1	GRE	dw	NSNT	NSNT
+411, 2	1247, 2-4	GRE	dw i meddwl	NSNT	NSNT
+411, 3	1247, 5-11	GRE	bod ni yn cael credits amdano fo	SNT	SNT
+411, 4	1249, 1-10	GRE	because dw i gorfod gwneud rhywbeth efo credits ti gweld	NSNT	SNT
+411, 5	1250, 1-4	GRE	*so* dw i meddwl	NST	NST
+411, 6	1250, 5-6	GRE	dyna pam	NSNT	NSNT
+411, 7	1250, 7-21	GRE	mae nhw wedi dewis hwn i fi achos bod o yn *help* i fi hefyd	ST	NST
+411, 8	1252, 1-3	GRE	*oh* excuse *me*	ST	NST
+411, 10	1254, 1-7	GRE	ond *um* dw i mwynhau wneud nhw	NST	NST
+411, 11	1254, 9-13	GRE	a dw i yn falch	NSNT	NSNT
+411, 12	1254, 14-21	GRE	bod chdi wedi mwynhau darllen y llall yna	---	NSNT
+
+
+412, 1	1257, 1-5	GWY	*mmm* o'n i yn chwerthin	NST	NST
+412, 3	1259, 1-4	GWY	oedd o yn dda	NSNT	NSNT
+412, 4	1260, 1-5	GWY	wnest di gael o nôl	---	NSNT
+
+
+413, 1	1261, 1-10	GRE	naddo *um* ga i o nôl wythnos nesa gynno fo	NST	NST
+413, 2	1262, 1-7	GRE	achos oedd o wedi gadael yr gwaith	NSNT	NSNT
+413, 3	1263, 1-11	GRE	oedd o wedi dod â *bag* *wrong* efo fo i coleg	---	NST
+
+
+414, 1	1264, 1-4	GWY	*oh* pwy ydy hwn	---	NST
+
+
+415, 1	1265, 1-6	GRE	*erm* *oh* be ydy enw fo	NST	NST
+415, 2	1266, 1-3	GRE	*Garmon* rhywbeth *Jenkins*	ST	NST
+415, 3	1267, 1-3	GRE	*Garmon* *Parry* *Jenkins*	ST	NST
+415, 4	1268, 1-6	GRE	mae yn *boy* really *nice* actually	---	ST
+
+
+416, 1	1269, 1-7	GWY	mae yr enw yn swnio yn gyfarwydd	---	NSNT
+
+
+417, 1	1270, 1-4	GRE	a mae o yn	NSNT	NSNT
+417, 2	1271, 1-11	GRE	ia ella fod chdi yn ella fasa chdi yn nabod o	NSNT	NSNT
+417, 3	1273, 1-2	GRE	dw wybod	NSNT	NSNT
+417, 4	1273, 3-6	GRE	dw i ddim yn	NSNT	NSNT
+417, 5	1274, 1-9	GRE	dw i ddim wedi dod ar ei draws o_blaen	NSNT	NSNT
+417, 6	1274, 10-14	GRE	dw i ddim yn meddwl	NSNT	NSNT
+417, 7	1274, 15-19	GRE	ond dw i teimlo fel	NSNT	NSNT
+417, 8	1274, 20-25	GRE	dw i fod i nabod o	NSNT	NSNT
+417, 9	1276, 1-8	GRE	ond *um* mae yna yr *boy* yma *Rhys*	NST	NST
+417, 10	1276, 9-14	GRE	sy yn y gwersi *just* fo	NST	NST
+417, 11	1276, 15-18	GRE	ydy yr unig hogyn	NSNT	NSNT
+417, 12	1276, 19-25	GRE	a mae o yn sgwennu yn dda	NSNT	NSNT
+417, 13	1278, 1-15	GRE	sgwennu creadigol fath â fath â oeddan ni gorfod sgwennu darn *um* sôn am dechrau	NST	NST
+417, 14	1279, 1-4	GRE	dechrau oedd y *title*	NST	NST
+417, 15	1280, 1-6	GRE	*yeah* dw i meddwl mai hwnnw	NST	NST
+417, 16	1280, 7-9	GRE	oedd o neu	NSNT	NSNT
+417, 17	1281, 1-3	GRE	*oh* be bynnag	NST	NST
+417, 18	1282, 1-9	GRE	ac *um* wnaeth o wneud o ar ffurf *um*	NST	NST
+417, 19	1282, 10-15	GRE	timod fath â debyg i *Un_Nos_Ola_Leuad*	NST	NST
+417, 20	1284, 1-4	GRE	*ah* oedd o wych	ST	NST
+417, 21	1285, 1-3	GRE	really really da	NSNT	SNT
+417, 22	1287, 1-13	GRE	ti yn gwybod pan ti *just* yn really mwynhau gwrando ar sgwennu rywun	NST	ST
+417, 23	1289, 1-8	GRE	achos wnaeth o ddarllen fath â darnau allan	NSNT	NSNT
+417, 24	1290, 1-5	GRE	*oh* oedd o yn brilliant	ST	ST
+417, 25	1291, 1-5	GRE	wneith o wneud sgwennwr da	---	NSNT
+
+
+418, 1	1294, 1-1	GWY	dyna	NSNT	NSNT
+418, 2	1294, 2-6	GWY	mae o isio wneud ta	---	NSNT
+
+
+419, 1	1295, 1-5	GRE	dw i ddim yn gwybod	NSNT	NSNT
+419, 2	1295, 6-6	GRE	sti	SNT	NSNT
+419, 3	1296, 1-1	GRE	*ugh*	ST	NST
+419, 4	1297, 1-6	GRE	*um* dw i ddim yn gwybod	NST	NST
+419, 5	1297, 7-13	GRE	ond dw i yn *just* fath â	NST	NST
+419, 6	1297, 14-23	GRE	faswn i yn licio darllen mwy o ei waith o	NSNT	NSNT
+419, 7	1299, 1-5	GRE	ond bob tro fath â	NSNT	NSNT
+419, 8	1300, 1-4	GRE	achos be mae o	NSNT	NSNT
+419, 9	1300, 5-10	GRE	be mae yr athro yn wneud	NSNT	NSNT
+419, 10	1300, 12-23	GRE	mae o yn fath â yn roi *task* i ni a wedyn	NST	NST
+419, 11	1300, 24-30	GRE	mae o yn pwyntio allan y gwallau	NSNT	NSNT
+419, 12	1300, 31-37	GRE	a mae o yn gofyn fath â	NSNT	NSNT
+419, 13	1301, 1-10	GRE	be ydach chi yn meddwl sy yn *wrong* efo hwn	NST	NST
+419, 14	1304, 1-5	GRE	wedyn rydan ni yn deud	NSNT	NSNT
+419, 15	1305, 1-6	GRE	*well* dw i ddim yn gwybod	NST	NST
+419, 16	1306, 1-5	GRE	dylia chdi dreiglo fan yna	NSNT	NSNT
+419, 17	1307, 1-4	GRE	neu be bynnag timod	NSNT	NSNT
+419, 18	1308, 1-4	GRE	wedyn mae o yn	NSNT	NSNT
+419, 19	1308, 5-15	GRE	rhoid nhw ar dudalen ac yn rhoi enghreifftiau o gwaith pawb	NSNT	NSNT
+419, 20	1308, 16-18	GRE	timod fath â	NSNT	NSNT
+419, 21	1310, 1-2	GRE	be sy	NSNT	NSNT
+419, 22	1310, 3-5	GRE	bod efo hwn	NSNT	NSNT
+419, 23	1312, 1-4	GRE	wedyn mae o bob	NSNT	NSNT
+419, 24	1312, 5-9	GRE	tro yn gofyn fath â	NSNT	NSNT
+419, 25	1313, 1-6	GRE	be fasa chdi yn deud yma	NSNT	NSNT
+419, 26	1314, 1-4	GRE	be fasa chdi ddeud	NSNT	NSNT
+419, 27	1315, 1-4	GRE	be fasa chdi ddeud	NSNT	NSNT
+419, 28	1316, 1-3	GRE	fel yna timod	NSNT	NSNT
+419, 29	1318, 1-16	GRE	mae o mynd *round* a weithiau ti teimlo fath â ddim syniad be fasa chdi ddeud	NST	NST
+419, 30	1319, 1-5	GRE	ond fath â bob tro	NSNT	NSNT
+419, 31	1319, 6-16	GRE	os ydy o yn cyfeirio at ryw lyfr neu gwaith rhywun	NSNT	NSNT
+419, 32	1319, 17-19	GRE	mae yn mynd	NSNT	NSNT
+419, 33	1320, 1-5	GRE	*Rhys* ti wedi ddarllen o	NST	NST
+419, 34	1321, 1-3	GRE	*Rhys* fath â	NST	NST
+419, 35	1322, 2-7	GRE	dw i meddwl mod i wedi	NSNT	NSNT
+419, 36	1324, 1-5	GRE	ond mae o fath â	NSNT	NSNT
+419, 37	1325, 1-9	GRE	dw i meddwl fod o yn really licio *Rhys*	NST	ST
+419, 38	1327, 1-8	GRE	achos bod ei waith o yn dda timod	NSNT	NSNT
+419, 40	1329, 1-9	GRE	dydy o ddim fath â yn ffafrio na ddim_byd	NSNT	NSNT
+419, 41	1330, 1-11	GRE	ond mae o *just* fath â achos bod *Rhys* yn darllen	NST	NST
+419, 42	1333, 1-3	GRE	timod gan sgwennwyr	NSNT	NSNT
+419, 43	1333, 4-8	GRE	timod Cymraeg barddoniaeth a ballu	NSNT	NSNT
+419, 44	1335, 1-14	GRE	mae o yn aml yn gallu fath â cael rhyw *chat* bach amdano fo	NST	NST
+419, 45	1336, 1-6	GRE	ond mae o yn iawn achos	NSNT	NSNT
+419, 46	1336, 7-13	GRE	mae o wneud o yn *right* ddiddorol	---	NST
+
+
+420, 1	1339, 1-2	GWY	*Rhys* *yeah*	ST	NST
+420, 2	1341, 1-7	GWY	ydy o yr un oed â chdi	NSNT	NSNT
+420, 3	1342, 1-3	GWY	ta ydy o	---	NSNT
+
+
+421, 1	1343, 1-5	GRE	*um* dw i ddim yn	NST	NST
+421, 2	1344, 1-8	GRE	ia mae yn edrych tua yr un oed	---	NSNT
+
+
+422, 1	1347, 1-7	GWY	*oh* dw i wedi blino yn ofnadwy	---	NST
+
+
+423, 1	1348, 1-2	GRE	a fi	SNT	NSNT
+423, 2	1349, 1-3	GRE	*oh* God do	NST	ST
+423, 3	1350, 1-8	GRE	dw i really ddim efo amynedd mynd heno	NSNT	SNT
+423, 4	1351, 1-10	GRE	ella fydda i yn teimlo well ar_ôl cawod a swper	---	NSNT
+
+
+424, 1	1353, 1-2	GWY	dy *double*	---	NST
+
+
+425, 1	1354, 1-5	GRE	*double* *shift* efo fi *yeah*	ST	NST
+425, 2	1356, 1-3	GRE	*oh* fatty de	---	ST
+
+
+426, 1	1357, 1-4	GWY	na mae hi *nice*	---	NST
+
+
+427, 1	1358, 1-7	GRE	*um* be o'n i mynd i ddeud	NST	NST
+427, 2	1359, 1-9	GRE	*oh* *yeah* wnaeth *Llyr* text_io fi gynnau *so* ella	NST	ST
+427, 3	1359, 10-21	GRE	wna i i ofyn os o'n i am fynd am *bint* heno	NST	NST
+427, 4	1360, 1-6	GRE	*so* wna i ofyn iddo fo	NST	NST
+427, 5	1360, 7-11	GRE	os ydy o isio dod	NSNT	NSNT
+427, 6	1361, 1-6	GRE	ac i *Melinda* ac *Harri* hefyd	---	NST
+
+
+428, 1	1362, 1-7	GWY	dw i isio trio gweld *Llyr* cyn	NST	NST
+428, 2	1362, 8-11	GWY	bod fi mynd ond	---	NSNT
+
+
+429, 1	1363, 1-5	GRE	ydy *Melinda* a *Harri* wedi	NST	NST
+429, 2	1363, 6-11	GRE	roid gwahoddiad i chdi trwy *post*	---	NST
+
+
+430, 1	1364, 1-1	GWY	no	---	NSNT
+
+
+431, 1	1365, 1-9	GRE	*oh* *right* *well* mae nhw isio gweld chdi i	NST	NST
+431, 2	1365, 10-13	GRE	roid o i chdi	---	NSNT
+
+
+432, 1	1367, 1-7	GWY	dw i ddim yn dod allan heno	NSNT	NSNT
+432, 2	1368, 1-3	GWY	dw i ddim	---	NSNT
+
+
+433, 1	1369, 1-4	GRE	na dw i gwybod	NSNT	NSNT
+433, 2	1369, 5-7	GRE	bod chdi ddim	---	NSNT
+
+
+434, 1	1372, 1-4	GWY	*please* paid â wneud	---	NST
+
+
+435, 1	1373, 1-7	GRE	rhag ofn i chdi ddechrau protestio rŵan	NSNT	NSNT
+435, 2	1375, 1-8	GRE	o'n i ddim isio i chdi ddod anyway	SNT	SNT
+435, 3	1376, 1-2	GRE	stwffia chdi	NSNT	NSNT
+435, 4	1379, 1-8	GRE	na wnes i ddeud wrthan nhw i un_ai	NSNT	NSNT
+435, 5	1380, 1-3	GRE	wnes i ddeud	NSNT	NSNT
+435, 6	1380, 4-11	GRE	rhowch o i fi os ydach chi isio	NSNT	NSNT
+435, 7	1380, 12-14	GRE	a wna i	NSNT	NSNT
+435, 8	1380, 15-17	GRE	roid o iddi	NSNT	NSNT
+435, 9	1381, 1-11	GRE	wnes i ddeud lle o'ch chdi yn byw hefyd *so* ella	NST	NST
+435, 10	1381, 12-13	GRE	wneith o	NSNT	NSNT
+435, 11	1381, 14-20	GRE	roid o trwy yr drws neu rywbeth	---	NSNT
+
+
+436, 1	1383, 1-6	GWY	pryd mae yr pryd pa ddyddiad	NSNT	NSNT
+436, 2	1383, 7-8	GWY	ydy o	---	NSNT
+
+
+437, 1	1384, 1-2	GRE	Mai ugeinfed	NSNT	NSNT
+437, 2	1385, 1-10	GRE	dw i isio *um* peth yna wneud r_s_v_p iddyn nhw	---	ST
+
+
+438, 1	1386, 1-2	GWY	r_s_v_p us	---	NSNT
+
+
+439, 1	1388, 1-2	GRE	exciting de	NSNT	SNT
+439, 2	1391, 1-8	GRE	*oh* *yeah* wnes i ddeud wrthyn nhw *um*	NST	NST
+439, 3	1392, 1-11	GRE	achos bod o yn *Harlech* neu lle mae o Bermo *yeah*	NST	NST
+439, 4	1393, 1-2	GRE	*yeah* Bermo	---	NST
+
+
+440, 1	1394, 1-6	GWY	yn Bermo mae nhw yn priodi	---	NSNT
+
+
+441, 1	1395, 1-4	GRE	na wrth ymyl *Harlech*	---	NST
+
+
+442, 1	1397, 1-3	GWY	*yeah* mae Bermo	---	NST
+
+
+443, 1	1398, 1-1	GRE	Barmouth	NSNT	NSNT
+443, 2	1399, 1-1	GRE	Bournemouth	NSNT	NSNT
+443, 3	1400, 1-3	GRE	Barmouth neu Bournemouth	---	SNT
+
+
+444, 1	1401, 1-1	GWY	Barmouth	---	NSNT
+
+
+445, 1	1402, 1-1	GRE	Barmouth	---	NSNT
+
+
+446, 1	1403, 1-3	GWY	mae Bournemouth yn	NSNT	SNT
+446, 2	1405, 1-2	GWY	yn Lloegr	---	NSNT
+
+
+447, 1	1406, 1-1	GRE	Lloegr	NSNT	NSNT
+447, 2	1408, 1-5	GRE	*yeah* o'n i yn meddwl	ST	NST
+447, 3	1409, 1-4	GRE	*yeah* Barmouth felly de	NST	ST
+447, 5	1411, 1-7	GRE	*yeah* Bermo *yeah* Bermo ydy hynna de	---	NST
+
+
+448, 1	1413, 1-4	GWY	*yeah* dw i meddwl	NST	NST
+448, 2	1414, 1-4	GWY	dw ddim yn gwybod	---	NSNT
+
+
+449, 1	1415, 1-5	GRE	*yeah* *yeah* *well* anyway *um*	---	NST
+
+
+450, 1	1416, 1-5	GWY	ti wedi bod i Bermo	---	NSNT
+
+
+451, 1	1417, 1-6	GRE	na dw i ddim yn meddwl	---	NSNT
+
+
+452, 1	1418, 1-2	GWY	dw i	NSNT	NSNT
+452, 2	1418, 3-6	GWY	wedi bod yna un	NSNT	NSNT
+452, 3	1418, 7-7	GWY	tro	NSNT	NSNT
+452, 4	1419, 1-4	GWY	oedd yna *steddfod* yna	---	NST
+
+
+453, 1	1420, 1-7	GRE	*oh* ella mod i dw ddim gwybod	---	NST
+
+
+454, 1	1421, 2-4	GWY	dw i meddwl	---	NSNT
+
+
+455, 1	1422, 1-7	GRE	*um* anyway mae yna ddau westy yna	NST	ST
+455, 2	1423, 1-5	GRE	a wedyn mae yna un	NSNT	NSNT
+455, 3	1423, 6-8	GRE	sy *right* drud	NST	NST
+455, 4	1423, 9-12	GRE	a mae yna un	NSNT	NSNT
+455, 5	1423, 13-14	GRE	sy ddim	NSNT	NSNT
+455, 6	1424, 1-7	GRE	wedyn mae nhw wedi deud wrtha ni	NSNT	NSNT
+455, 7	1424, 8-11	GRE	timod i fwcio rŵan	SNT	NSNT
+455, 8	1426, 1-5	GRE	basically *so* wnes i ddeud	NST	ST
+455, 9	1426, 6-10	GRE	fasan ni yn rhannu ystafell	---	NSNT
+
+
+456, 1	1427, 1-7	GWY	*yeah* pam bod nhw wedi dewis Bermo	---	NST
+
+
+457, 1	1428, 1-6	GRE	achos bod o yn le *nice*	---	NST
+
+
+458, 1	1429, 1-1	GWY	difyr	---	NSNT
+
+
+459, 1	1431, 1-4	GRE	dw ddim gwybod pam	---	NSNT
+
+
+460, 1	1432, 1-4	GWY	na *just* yn meddwl	NST	NST
+460, 2	1433, 1-1	GWY	achos	---	NSNT
+
+
+461, 1	1434, 1-13	GRE	*well* *Harri* aeth *round* i chwilio am fath â llefydd fasa yn gallu	NST	NST
+461, 2	1436, 1-2	GRE	dal nhw	---	NSNT
+
+
+462, 1	1437, 1-5	GWY	wedyn mae *Cledwyn* yn priodi	---	NST
+
+
+463, 1	1440, 1-2	GRE	nuts de	---	SNT
+
+
+464, 1	1441, 1-1	GWY	mae	---	NSNT
+
+
+465, 1	1442, 1-8	GRE	a *Liam* yn priodi ac yn cael plentyn	---	NST
+
+
+465, 3	1444, 1-7	GRE	*oh* fydd ei blant o yn *cute*	---	NST
+
+
+467, 1	1446, 1-3	GRE	*mmm* rhyfedd yndy	---	NST
+
+
+468, 1	1447, 1-14	GWY	achos ti dal yn teimlo dw i dal yn teimlo yn un ar bymtheg	NSNT	NSNT
+468, 2	1447, 15-18	GWY	dw i yn meddwl	---	NSNT
+
+
+469, 1	1449, 1-4	GRE	dw i yn teimlo	NSNT	NSNT
+469, 2	1449, 5-12	GRE	bod fi dal yn ddeunaw neu rywbeth felly	---	NSNT
+
+
+470, 1	1451, 1-15	GWY	*yeah* *oh* dw i mynd i fod yn bedwar ar hugain mewn llai na mis	---	NST
+
+
+471, 1	1452, 1-5	GRE	dw i ddim yn gwybod	NSNT	NSNT
+471, 2	1452, 6-13	GRE	pryd mae o mynd i actually sincio fewn	NSNT	SNT
+471, 3	1452, 14-20	GRE	bod fi ddim yn teenager dim mwy	---	SNT
+
+
+472, 1	1453, 1-4	GWY	*yeah* dw i gwybod	---	NST
+
+
+473, 1	1454, 1-10	GRE	fath â mae raid fi ddechrau cael cyfrifoldeb a pethau	---	NSNT
+
+
+474, 1	1455, 1-5	GWY	*mmm* dw i ddim gwybod	NST	NST
+474, 2	1456, 1-1	GWY	cyfrifoldeb	---	NSNT
+
+
+475, 1	1457, 1-5	GRE	*well* mae gynno fi gyfrifoldeb	NST	NST
+475, 2	1457, 6-14	GRE	*just* bod fi ddim yn wneud dim_byd amdano fo	NST	NST
+475, 5	1462, 1-6	GRE	*oh* ia dw i wedi *um*	NST	NST
+475, 6	1462, 7-9	GRE	dw i gwybod	NSNT	NSNT
+475, 7	1462, 10-18	GRE	be dw i am gael i *Dilwyn* a *Mari*	NST	NST
+475, 8	1462, 19-24	GRE	pan mae eu babi yn cyrraedd	---	NSNT
+
+
+476, 1	1463, 1-1	GWY	be	---	NSNT
+
+
+477, 1	1464, 1-15	GRE	ti yn gwybod un o yr *um* pethau cadw_mi_geis yna wnest ti brynu i *Manon*	NST	NST
+477, 2	1466, 1-9	GRE	un o rheina a dw i yn mynd i	NSNT	NSNT
+477, 3	1466, 10-19	GRE	roid fath â hanner can punt mewn punnoedd yno fo	---	NSNT
+
+
+478, 1	1467, 1-1	GWY	*aww*	---	NST
+
+
+479, 1	1468, 1-5	GRE	ti meddwl fydd hynna yn	NSNT	NSNT
+479, 2	1468, 6-10	GRE	wneith hynna ddim llenwi fo	NSNT	NSNT
+479, 3	1468, 11-12	GRE	na wneith	---	NSNT
+
+
+480, 1	1469, 1-5	GWY	wneith o ddim llenwi fo	NSNT	NSNT
+480, 2	1470, 1-2	GWY	hanner cant	---	NSNT
+
+
+481, 1	1471, 1-7	GRE	achos be faswn i yn licio gwneud	NSNT	NSNT
+481, 2	1471, 8-10	GRE	ydy fath â	NSNT	NSNT
+481, 3	1471, 11-21	GRE	bod nhw wedyn roi punt yr wythnos neu rywbeth yno fo	NSNT	NSNT
+481, 4	1471, 22-23	GRE	a timod	---	NSNT
+
+
+482, 1	1472, 1-7	GWY	ia ia na mae hynna yn *nice*	NST	NST
+482, 2	1474, 1-3	GWY	*oh* syniad *nice*	---	NST
+
+
+483, 1	1475, 1-10	GRE	*yeah* neu ella dim hanner cant dw ddim yn gwybod	NST	NST
+483, 2	1476, 1-12	GRE	achos dw i ddim really isio iddo fo lenwi yn gyflym achos	NSNT	SNT
+483, 3	1476, 13-19	GRE	fydd rhaid iddyn nhw dorri o wedyn	NSNT	NSNT
+483, 4	1476, 20-20	GRE	fydd	---	NSNT
+
+
+484, 1	1477, 1-1	GWY	bydd	NSNT	NSNT
+484, 2	1478, 1-6	GWY	na *well* wneith hanner cant yn	NST	NST
+484, 3	1479, 1-12	GWY	faint o pres wnaeth hi ddeud ti yn medru gael yno fo	---	NSNT
+
+
+485, 1	1480, 1-5	GRE	dw i ddim yn gwybod	NSNT	NSNT
+485, 2	1480, 6-10	GRE	ond wna i ofyn actually	SNT	SNT
+485, 3	1482, 1-5	GRE	wna i ofyn iddyn nhw	NSNT	NSNT
+485, 4	1483, 1-6	GRE	a wedyn bod fi *just* yn	NST	NST
+485, 5	1483, 7-25	GRE	rhoid fath â neu tri deg neu rywbeth wedyn prynu rhywbeth arall iddyn nhw hefyd neu rywbeth fel yna	---	NSNT
+
+
+486, 1	1485, 1-4	GWY	oedd *um* yr hogan	NST	NST
+486, 2	1485, 5-9	GWY	oedd *Idwal* yn aros efo	NST	NST
+486, 3	1485, 10-13	GWY	oedd hi yn deud	NSNT	NSNT
+486, 4	1485, 14-21	GWY	bod gen hi un o yr pethau yna	NSNT	NSNT
+486, 5	1487, 1-4	GWY	a be mae hi	NSNT	NSNT
+486, 6	1487, 5-11	GWY	wedi bod yn wneud ers ages rŵan	NSNT	SNT
+486, 7	1487, 13-14	GWY	mae hi	NSNT	NSNT
+486, 8	1487, 15-17	GWY	wedi bod yn	NSNT	NSNT
+486, 9	1487, 18-19	GWY	rhoid *um*	NST	NST
+486, 10	1487, 20-23	GWY	mae hi wedi rhoi	NSNT	NSNT
+486, 11	1487, 24-33	GWY	bod yn rhoi papurau pres i_fewn yn ogystal â ceiniogau	NSNT	NSNT
+486, 12	1489, 1-5	GWY	felly oedd hi yn deud	NSNT	NSNT
+486, 13	1489, 7-7	GWY	does	NSNT	NSNT
+486, 14	1489, 8-11	GWY	gynni ddim syniad faint	NSNT	NSNT
+486, 15	1489, 12-14	GWY	sy ynddo fo	NSNT	NSNT
+486, 16	1490, 1-6	GWY	ond mae yn edrych ymlaen achos	NSNT	NSNT
+486, 17	1490, 8-13	GWY	mae nhw yn priodi a pethau	---	NSNT
+
+
+487, 1	1491, 1-6	GRE	ella wna i wneud hynna actually	---	SNT
+
+
+488, 1	1492, 1-1	GWY	be	---	NSNT
+
+
+489, 1	1493, 1-5	GRE	rhoid papurau yno fo hefyd	NSNT	NSNT
+489, 2	1495, 1-4	GRE	rhoid un bach *sly*	---	NST
+
+
+490, 1	1496, 1-7	GWY	a wedyn pryd mae yr plentyn yn	---	NSNT
+
+
+491, 1	1497, 1-2	GRE	deunaw neu	NSNT	NSNT
+491, 2	1499, 1-3	GRE	neu yn timod	---	NSNT
+
+
+492, 1	1500, 1-2	GWY	cofia di	NSNT	NSNT
+492, 2	1500, 3-13	GWY	de ella fasa well chdi roi hanner can punt i mewn	---	NSNT
+
+
+493, 1	1501, 1-1	GRE	coins	---	NSNT
+
+
+494, 1	1502, 1-2	GWY	na mewn	NSNT	NSNT
+494, 2	1504, 1-12	GWY	*bank* achos os ydy o yn mynd i aros yn y cadw_mi_gei	NST	NST
+494, 3	1504, 13-19	GWY	dydy o ddim yn mynd i cynyddu	NSNT	NSNT
+494, 4	1505, 1-3	GWY	gei di *interest*	---	NST
+
+
+495, 1	1506, 1-7	GRE	ia ond mae cadw_mi_gei yn dead *nice*	---	ST
+
+
+496, 1	1507, 2-8	GWY	mae o yn syniad da ond ella	NSNT	NSNT
+496, 3	1509, 1-10	GWY	*yeah* ond ti yn dallt be dw i meddwl achos	---	NST
+
+
+497, 1	1510, 1-1	GRE	yndw	NSNT	NSNT
+497, 2	1510, 2-2	GRE	yndw	---	NSNT
+
+
+498, 1	1511, 1-15	GWY	fel yna pan mae yr plentyn yn deunaw os ti yn rhoi hanner can punt	NSNT	NSNT
+498, 2	1511, 16-21	GWY	pan mae yn cael ei eni	NSNT	NSNT
+498, 3	1513, 1-9	GWY	mae yna lwyth o bres yn mynd i fod	---	NSNT
+
+
+499, 1	1514, 1-4	GRE	*yeah* mae hynna wir	NST	NST
+499, 2	1515, 1-8	GRE	*yeah* dechrau trust fund neu rywbeth iddo fo	NST	ST
+499, 3	1517, 1-5	GRE	ond ti ddim yn gorfod	NSNT	NSNT
+499, 4	1518, 1-7	GRE	dim nhw sy yn gorfod agor o	---	NSNT
+
+
+500, 1	1519, 1-5	GWY	dw i ddim yn gwybod	NSNT	NSNT
+500, 2	1520, 1-6	GWY	naci dw i ddim yn meddwl	NSNT	NSNT
+500, 3	1521, 3-6	GWY	dw ddim yn gwybod	---	NSNT
+
+
+501, 1	1522, 1-4	GRE	*mmm* dw ddim gwybod	---	NST
+
+
+502, 1	1523, 1-2	GWY	dim syniad	---	NSNT
+
+
+503, 1	1524, 1-4	GRE	*oh* na mae *sure*	NST	NST
+503, 2	1524, 5-8	GRE	faswn i yn gallu	NSNT	NSNT
+503, 3	1525, 1-11	GRE	ond na fasa fo yn gorfod bod yn enw fi wedyn	NSNT	NSNT
+503, 4	1525, 12-13	GRE	de basa	NSNT	NSNT
+503, 5	1526, 1-6	GRE	*oh* na faswn i wario fo	NST	NST
+503, 6	1527, 1-4	GRE	pan faswn i *skint*	ST	NST
+503, 7	1528, 1-2	GRE	God *sly*	---	NST
+
+
+504, 1	1529, 1-3	GWY	na fedri di	NSNT	NSNT
+504, 2	1529, 4-5	GWY	roid o	NSNT	NSNT
+504, 3	1529, 6-9	GWY	dan enw yr plentyn	NSNT	NSNT
+504, 4	1529, 10-13	GWY	dw i yn *sure*	---	NST
+
+
+505, 1	1530, 1-1	GRE	fedri	NSNT	NSNT
+505, 2	1532, 1-6	GRE	*oh* a i i holi de	---	NST
+
+
+506, 1	1534, 1-6	GWY	ond *just* meddwl o'n i achos	NST	NST
+506, 2	1534, 7-19	GWY	os ydy o *just* yn mynd i fod yn aros yn y cadw_mi_gei	NST	NST
+506, 3	1536, 1-11	GWY	yna mae yr gwerth y pres yn mynd i fynd i_lawr	NSNT	NSNT
+506, 4	1536, 12-12	GWY	dydy	NSNT	NSNT
+506, 5	1538, 1-2	GWY	os rywbeth	NSNT	NSNT
+506, 6	1539, 1-4	GWY	dw i yn gwybod	NSNT	NSNT
+506, 7	1539, 5-9	GWY	bod o yn syniad *nice*	---	NST
+
+
+507, 1	1540, 2-8	GRE	ond mae yr syniad yn *nice* though	---	ST
+
+
+508, 1	1541, 1-16	GWY	*oh* pam wnei di ddim *just* cael cadw_mi_gei a roi hanner can punt mewn trust fund	---	ST
+
+
+509, 1	1542, 1-5	GRE	ia faswn i yn gallu	NSNT	NSNT
+509, 2	1542, 6-6	GRE	baswn	---	NSNT
+
+
+510, 1	1543, 1-11	GWY	*just* rho ryw bunt i ddechrau fo *off* yn y cadw_mi_gei	NST	NST
+510, 2	1548, 1-12	GWY	achos basa yr hanner can punt yna yn load o bres ar_ôl	---	SNT
+
+
+511, 1	1549, 1-3	GRE	*yeah* yn union	NST	NST
+511, 2	1550, 1-2	GRE	ond dyna	NSNT	NSNT
+511, 3	1550, 3-8	GRE	dw i yn meddwl am hefyd	NSNT	NSNT
+511, 4	1551, 1-9	GRE	*um* ydan ni yn mynd i newid i *euros*	---	NST
+
+
+512, 1	1552, 1-3	GWY	*erm* *well* *yeah*	ST	NST
+512, 2	1553, 1-2	GWY	hynna hefyd	---	NSNT
+
+
+513, 1	1554, 1-10	GRE	achos os ydan ni ella *just* roi *cheque* ynddo fo	---	NST
+
+
+514, 1	1555, 1-1	GWY	be	---	NSNT
+
+
+515, 1	1556, 1-8	GRE	ella wna i *just* roi *cheque* yno fo	---	NST
+
+
+516, 1	1558, 1-6	GWY	na rho fo mewn *bank* *account*	NST	NST
+516, 3	1560, 1-3	GWY	go_iawn mae hyn	---	NSNT
+
+
+517, 1	1564, 1-2	GRE	*oh* *duh*	---	NST
+
+
+518, 1	1565, 1-13	GWY	achos fydda hynna yn exciting achos gei di weld wedyn faint o bres	---	SNT
+
+
+519, 1	1566, 1-3	GRE	ia ond timod	NSNT	NSNT
+519, 2	1566, 4-4	GRE	mae	NSNT	NSNT
+519, 3	1566, 5-10	GRE	gwerth pres yn mynd yn llai	NSNT	NSNT
+519, 4	1566, 11-11	GRE	dydy	---	NSNT
+
+
+520, 1	1567, 2-6	GWY	ond mae yna wastad *interest*	NST	NST
+520, 2	1567, 7-7	GWY	does	---	NSNT
+
+
+521, 1	1568, 1-3	GRE	*yeah* union *yeah*	---	NST
+
+
+522, 1	1569, 1-2	GWY	wnaeth *Idwal*	NST	NST
+522, 2	1569, 3-3	GWY	roid	---	NSNT
+
+
+523, 1	1570, 1-5	GRE	neu prynu *um* *premium* bonds	ST	ST
+523, 2	1572, 1-7	GRE	achos mae yr pres yna dal yna	NSNT	NSNT
+523, 3	1572, 8-8	GRE	dydy	NSNT	NSNT
+523, 4	1572, 9-16	GRE	a mae yna *chance* i nhw ennill wedyn	---	NST
+
+
+524, 1	1574, 1-5	GWY	gen ti *premium* bonds does	---	ST
+
+
+525, 1	1576, 1-3	GRE	gwerth *oh* *yeah*	NST	NST
+525, 2	1576, 4-9	GRE	gwerth tri chant a hanner actually	---	SNT
+
+
+526, 1	1579, 1-3	GWY	*um* wnaeth *Idwal*	NST	NST
+526, 2	1579, 4-7	GWY	rhoid punt mewn cyfrif	NSNT	NSNT
+526, 3	1579, 8-11	GWY	pan oedd o yn	NSNT	NSNT
+526, 4	1579, 12-14	GWY	dw ddim gwybod	NSNT	NSNT
+526, 5	1579, 15-23	GWY	pan oedd o yn tua deuddeg rywbeth fel yna	NSNT	NSNT
+526, 6	1581, 1-8	GWY	a mae yna un_deg_tri o bunnoedd yno rŵan	---	NSNT
+
+
+527, 1	1582, 1-1	GRE	gutted	---	NSNT
+
+
+528, 1	1583, 1-8	GWY	*oh* na *oh* mae hynna yn *lot* o	NST	NST
+528, 2	1583, 10-16	GWY	timod i fynd o bunt i un_deg_tri	---	NSNT
+
+
+529, 1	1584, 1-3	GRE	mewn sawl blwyddyn	---	NSNT
+
+
+530, 1	1585, 1-6	GWY	*ah* *yeah* mewn rhyw ddeg mlynedd	---	NST
+
+
+531, 1	1586, 1-6	GRE	mewn fath â un_deg_chwech o flynyddoedd	---	NSNT
+
+
+532, 1	1587, 1-5	GWY	ond dydy o ddim yn	NSNT	NSNT
+532, 2	1587, 6-17	GWY	ond dydy o ddim yn mynd i fath â i dwtsiad o	NSNT	NSNT
+532, 3	1588, 1-6	GWY	*so* mae yn mynd i weld	NST	NST
+532, 4	1588, 7-14	GWY	pryd mae o fath â yn chwe_deg faint	NSNT	NSNT
+532, 5	1588, 15-20	GWY	sy yn mynd i fod yno	---	NSNT
+
+
+533, 1	1589, 1-7	GRE	ella fydd yna ugain yna erbyn hynny	---	NSNT
+
+
+534, 1	1590, 1-1	GWY	ella	NSNT	NSNT
+534, 2	1591, 1-2	GWY	ond na	NSNT	NSNT
+534, 3	1593, 1-3	GWY	mae hynna yn	---	NSNT
+
+
+535, 1	1594, 1-2	GRE	yndy *uh*	---	NST
+
+
+536, 1	1595, 1-4	GWY	tua deg gwaith mwy	---	NSNT
+
+
+537, 1	1596, 3-7	GRE	na mae hynna yn brilliant	SNT	SNT
+537, 2	1597, 1-17	GRE	ond fath â pan ti yn deud fath â un_deg_tri o bunnoedd dydy o ddim fath â	NSNT	NSNT
+537, 3	1597, 18-21	GRE	dydy hynna ddim yn	NSNT	NSNT
+537, 4	1597, 22-24	GRE	noson allan hyd_yn_oed	NSNT	NSNT
+537, 5	1597, 25-26	GRE	nag ydy	---	NSNT
+
+
+538, 1	1598, 1-2	GWY	nag ydy	---	NSNT
+
+
+539, 1	1599, 1-7	GRE	dydy o ddim yn bryd o fwyd	NSNT	NSNT
+539, 3	1603, 1-4	GRE	*oh* *story* dda though	---	ST
+
+
+540, 1	1604, 1-1	GWY	diolch	NSNT	NSNT
+540, 3	1606, 1-8	GWY	wna i gofio i ddeud wrtha chdi felly	---	NSNT
+
+
+541, 1	1608, 1-6	GRE	cofia os ti isio icebreaker rywbryd	NSNT	SNT
+541, 2	1609, 1-3	GRE	wyddoch chi be	---	NSNT
+
+
+542, 1	1611, 1-5	GWY	*oh* faint o amser sy	NST	NST
+542, 2	1611, 6-10	GWY	wedi bod rŵan ti meddwl	---	NSNT
+
+
+543, 1	1612, 1-3	GRE	dw ddim gwybod	---	NSNT
+
+
+544, 1	1613, 1-3	GWY	na na fi	---	NSNT

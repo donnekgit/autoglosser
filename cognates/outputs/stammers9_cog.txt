@@ -1,0 +1,1069 @@
+1, 1	2, 1-3	ENF	dan ni *er*	NST	NST
+1, 2	2, 4-10	ENF	dan ni wedi gwneud ein siopa yn_do	---	NSNT
+
+
+2, 1	3, 1-5	RNW	do wedi wneud o ddoe	---	NSNT
+
+
+3, 1	4, 1-13	ENF	wedyn fydd ddim isio rhuthro i_lawr i yr *um* i yr dre gan	NST	NST
+3, 2	4, 14-15	ENF	mae yn	NSNT	NSNT
+3, 3	4, 16-25	ENF	mae yn brysur wan rhwng y yn y dre yn_dydy	NSNT	NSNT
+3, 4	6, 1-10	ENF	tibod mae nhw yn codi yr ffordd a felly yn_dydyn	NSNT	NSNT
+3, 5	8, 1-3	ENF	deud y gwir	NSNT	NSNT
+3, 6	9, 1-13	ENF	felly *um* mae o yn *er* dipyn o *nuisance* efo yr *traffic* yn_dydy	NST	NST
+3, 7	11, 1-3	ENF	deud y gwir	NSNT	NSNT
+3, 8	13, 1-2	ENF	yndy *well*	NST	NST
+3, 9	13, 3-10	ENF	mae yn gaddo glaw dydd Sul eto yn_dydy	NSNT	NSNT
+3, 10	15, 1-9	ENF	dw i yn gobeithio erbyn ganol wsnos nesa y	NSNT	NSNT
+3, 11	15, 10-13	ENF	bydd hi yn ddigon	NSNT	NSNT
+3, 12	15, 14-18	ENF	sych i dorri yr lawnt	NSNT	NSNT
+3, 13	17, 1-2	ENF	achos *um*	---	NST
+
+
+4, 1	18, 1-5	RNW	mae yr *daffodils* allan rŵan	---	NST
+
+
+5, 1	19, 2-6	ENF	mae *daffodils* yn digon del	NST	NST
+5, 3	22, 1-2	ENF	ond mae	NSNT	NSNT
+5, 4	22, 3-13	ENF	mae yr lawnt yn barod i thorri yn_dydy ti yn gwybod	NSNT	NSNT
+5, 5	24, 1-4	ENF	*um* mae yn *er*	NST	NST
+5, 6	24, 5-9	ENF	mae yn dew yn_dydy o	NSNT	NSNT
+5, 7	26, 1-10	ENF	bydd yna dipyn o waith ar *er* torri yr lawnt	NST	NST
+5, 8	27, 1-9	ENF	*well* dw i wedi deffro yn fuan bore yma	NST	NST
+5, 9	29, 1-4	ENF	hefo yr gwylanod yn	NSNT	NSNT
+5, 10	31, 1-1	ENF	sglerio	---	NSNT
+
+
+6, 1	32, 1-6	RNW	yn paratoi nyth ar y to	---	NSNT
+
+
+7, 1	33, 2-4	ENF	dw i meddwl	NSNT	NSNT
+7, 2	34, 1-7	ENF	mi fyddan nhw yn gwneud beth bynnag	---	NSNT
+
+
+8, 1	35, 1-4	RNW	ddaru ti fwynhau *Cysgod_y_Cryman*	---	NST
+
+
+9, 1	36, 3-11	ENF	wnes i fwynhau o fwynhau o yn fawr er	NSNT	NSNT
+9, 2	36, 12-17	ENF	bod yna feirniadaeth am y llwyfan	NSNT	NSNT
+9, 3	36, 18-23	ENF	oedd yn troi *round* a *round*	NST	NST
+9, 4	38, 1-9	ENF	ond fel dwedodd *John_Gruffydd_Jones* yn y yn y *Goleuad*	NST	NST
+9, 5	38, 10-12	ENF	oedd o yn	NSNT	NSNT
+9, 6	38, 13-24	ENF	oedd y yr hen a yr *modern* yn cyfuno yn *right* dda	NST	NST
+9, 7	39, 1-4	ENF	ac o'n i meddwl	NSNT	NSNT
+9, 8	39, 5-5	ENF	bod	NSNT	NSNT
+9, 9	39, 6-7	ENF	o yn_de	NSNT	NSNT
+9, 10	41, 1-2	ENF	do mi	NSNT	NSNT
+9, 11	41, 3-6	ENF	wnes i fwynhau o	NSNT	NSNT
+9, 12	42, 1-10	ENF	*um* er efallai *um* nad oedd yna yr un *actor*	NST	NST
+9, 13	43, 1-5	ENF	oedden nhw yn actorion da	NSNT	NSNT
+9, 14	44, 1-9	ENF	ond i mi doedd yna neb yn sefyll allan	NSNT	NSNT
+9, 15	44, 10-10	ENF	te	NSNT	NSNT
+9, 16	46, 1-5	ENF	fel yna yr yn arbennig	NSNT	NSNT
+9, 17	48, 1-3	ENF	ond do mi	NSNT	NSNT
+9, 18	48, 4-11	ENF	wnes i fwynhau *Cysgod_y_Cryman* a deud y gwir	---	NST
+
+
+10, 1	49, 1-2	RNW	oedd o	NSNT	NSNT
+10, 2	49, 3-6	RNW	wedi bod yn *help*	NST	NST
+10, 3	49, 7-17	RNW	bod ni wedi ddarllen o ymlaen llaw yn y cylch darllen	---	NSNT
+
+
+11, 1	50, 1-4	ENF	darllen *er* oedd mi	NST	NST
+11, 2	50, 5-6	ENF	oedd o	NSNT	NSNT
+11, 3	51, 1-4	ENF	neu faswn i ddim	NSNT	NSNT
+11, 4	52, 1-2	ENF	doeddwn i	NSNT	NSNT
+11, 5	52, 3-9	ENF	do'n i ddim wedi ddarllen o ers	NSNT	NSNT
+11, 6	52, 10-18	ENF	oeddwn i yn yr ysgol a deud y gwir	---	NSNT
+
+
+12, 1	53, 1-4	RNW	ia na finnau chwaith	---	NSNT
+
+
+13, 1	54, 1-5	ENF	*um* *er* *Cysgod_y_Cryman* ac *um*	---	NST
+
+
+14, 1	56, 1-13	RNW	yn nes ymlaen dan ni mynd i ddarllen *um* *Yn_ôl_i_Leifior* gan *Islwyn_Ffowc_Elis* eto	---	NST
+
+
+15, 1	58, 1-3	ENF	wnes i ddim	NSNT	NSNT
+15, 2	59, 1-13	ENF	dw yn cofio fi yn darllen hwnnw ond dim ei fwynhau o gymaint	NSNT	NSNT
+15, 3	59, 14-15	ENF	â *Cysgod_y_Cryman*	NST	NST
+15, 4	61, 1-5	ENF	ond *er* *oh* dw meddwl	NST	NST
+15, 5	61, 6-14	ENF	bydda i yn falch o ei ddarllen o hefyd	NSNT	NSNT
+15, 6	63, 1-4	ENF	a deud y gwir	NSNT	NSNT
+15, 7	64, 1-12	ENF	achos oedd o yn lyfr yn perthyn i i yr pumdegau yn_doedd	NSNT	NSNT
+15, 8	66, 1-8	ENF	a oedden nhw yn lyfrau yn rhywbeth newydd	NSNT	NSNT
+15, 9	66, 9-9	ENF	doedd	---	NSNT
+
+
+16, 1	67, 1-3	RNW	oedd adeg hynny	---	NSNT
+
+
+17, 1	68, 1-3	ENF	doedd yna ddim	NSNT	NSNT
+17, 2	70, 1-7	ENF	doedd yna ddim_byd debyg wedi iddyn nhw	NSNT	NSNT
+17, 3	70, 8-10	ENF	wedi bod yn	NSNT	NSNT
+17, 4	70, 11-12	ENF	nag oedd	---	NSNT
+
+
+18, 1	72, 1-2	RNW	nag oedd	NSNT	NSNT
+18, 2	73, 1-2	RNW	nag oedd	NSNT	NSNT
+18, 3	73, 3-4	RNW	nag oedd	---	NSNT
+
+
+19, 1	74, 1-5	ENF	felly mi fydd *er* hwnna	NST	NST
+19, 2	75, 1-12	ENF	er dw ddim yn edrych ymlaen am darllen rhai o yr llyfrau	NSNT	NSNT
+19, 3	75, 13-16	ENF	sydd wedi dewis chwaith	NSNT	NSNT
+19, 4	77, 1-5	ENF	a deud y gwir yn_de	---	NSNT
+
+
+20, 1	78, 1-9	RNW	*well* mi ddylai *Euog* gan *Llion_Iwan* fod yn dda	---	NST
+
+
+21, 1	80, 1-6	ENF	dylai ti yn hoffi llyfrau *detective*	NST	NST
+21, 2	80, 7-7	ENF	dwyt	---	NSNT
+
+
+22, 1	81, 1-1	RNW	yndw	NSNT	NSNT
+22, 2	81, 2-2	RNW	yndw	---	NSNT
+
+
+23, 1	83, 1-6	ENF	dydw i ddim gymaint â hynny	---	NSNT
+
+
+24, 1	84, 1-8	RNW	wedyn dan ni mynd i ddarllen *Prifio* *Maureen_Rhys*	---	NST
+
+
+25, 1	85, 1-3	ENF	yndyn hunangofiant hi	---	NSNT
+
+
+26, 1	86, 1-2	RNW	a wedyn	---	NSNT
+
+
+27, 1	88, 1-12	ENF	dw i ddim yn edrych ymlaen am hwnnw chwaith gymaint â hynny	---	NSNT
+
+
+28, 1	89, 1-3	RNW	a *Hi_yw_fy_Ffrind* *Bethan_Gwanas*	---	NST
+
+
+29, 1	90, 1-4	ENF	*well* ia ia ia	NST	NST
+29, 3	92, 1-7	ENF	wyt ti wedi darllen *um* yr hyn	NST	NST
+29, 4	92, 8-16	ENF	mae wedi sgwennu yn yr *Herald* yr wythnos yma	---	NST
+
+
+30, 1	93, 1-8	RNW	*um* na dw i wedi ei ddarllen o	---	NST
+
+
+31, 1	95, 1-16	ENF	na mae *er* hanes hi wedi cael ci bach ci bach *um* ci defaid cymreig *um*	NST	NST
+31, 2	95, 17-19	ENF	sydd ddim yn	NSNT	NSNT
+31, 3	96, 1-13	ENF	nid ci du a du a gwyn ydy o yr un gwir gymreig	NSNT	NSNT
+31, 4	97, 1-7	ENF	y *breed* cymreig *brown* a gwyn yn_de	NST	NST
+31, 5	99, 1-8	ENF	ond wnes i ddim o ei ddarllen o	NSNT	NSNT
+31, 6	99, 9-23	ENF	yn_de a deud y gwir ond ychydig o ryw bytiau yma a thraw ohono fo	NSNT	NSNT
+31, 7	100, 1-13	ENF	mae well gynna i *um* ddarllen *um* gwaith *Angharad_Tomos* a deud y gwir	NST	NST
+31, 8	102, 1-7	ENF	*um* mae mwy at y nant i	NST	NST
+31, 9	104, 1-4	ENF	a deud y gwir	NSNT	NSNT
+31, 10	105, 1-6	ENF	felly *um* mi fydda i yn	NST	NST
+31, 11	106, 1-8	ENF	yndy *well* gynna i hwnnw o gryn dipyn	NST	NST
+31, 12	107, 1-12	ENF	mi fydd *Sara* ein ffrind ni isio ni fynd yna i *Bryn_Trallwyn*	NST	NST
+31, 13	107, 13-20	ENF	mae wedi deud i weld y gegin newydd	---	NSNT
+
+
+32, 1	108, 1-2	RNW	*oh* bydd	NST	NST
+32, 2	108, 3-7	RNW	fydd hynny yn ddiddorol achos	NSNT	NSNT
+32, 3	108, 8-18	RNW	mae yn byw mewn lle mor braf wrth ben afon *Gonwy*	---	NST
+
+
+33, 1	111, 1-7	ENF	fydd y gwanwyn wedi dŵad adeg hynny	---	NSNT
+
+
+34, 1	112, 1-1	RNW	bydd	NSNT	NSNT
+34, 2	112, 2-2	RNW	bydd	---	NSNT
+
+
+35, 1	113, 1-15	ENF	ac *um* mi gawn ni *um* weld y y gegin a edrych o_gwmpas ac *um*	NST	NST
+35, 2	115, 1-8	ENF	gan bod hi wedi orffen o wythnos yma	NSNT	NSNT
+35, 3	116, 1-1	ENF	wedyn	---	NSNT
+
+
+36, 1	117, 1-9	RNW	gobeithio mynd i_lawr i Gernyw i weld y niece	---	SNT
+
+
+37, 1	118, 1-10	ENF	*well* ia pa bryd wyt ti meddwl am fynd *Rhianwen*	---	NST
+
+
+38, 1	120, 1-3	RNW	tua mis Gorffennaf	---	NSNT
+
+
+39, 1	121, 1-8	ENF	*oh* ia mae yn braf adeg hynny yn_dydy	---	NST
+
+
+40, 1	124, 1-2	RNW	a wedyn	---	NSNT
+
+
+41, 1	127, 2-6	ENF	mae yn braf i_lawr yn	NSNT	NSNT
+41, 2	129, 1-8	ENF	yn *Penzance* wyt ti feddwl am aros ia	---	NST
+
+
+42, 1	130, 1-7	RNW	ia dyna fo ddim yn bell o_wrthi	NSNT	NSNT
+42, 3	133, 1-4	RNW	gan bod hi gan	NSNT	NSNT
+42, 4	133, 5-10	RNW	bod hi feddyg i_lawr yn *Penzance*	NST	NST
+42, 5	135, 1-6	RNW	mae dipyn yn bell o_wrthan ni	---	NSNT
+
+
+43, 1	137, 1-7	ENF	*oh* fydd hi yn braf adeg hynny	---	NST
+
+
+44, 1	138, 1-2	RNW	mi fydd	NSNT	NSNT
+44, 2	138, 3-3	RNW	bydd	---	NSNT
+
+
+45, 1	139, 1-8	ENF	pa ffordd ydy gorau i ni fynd dŵad	---	NSNT
+
+
+46, 1	140, 1-6	RNW	dw i ddim yn *sure* iawn	---	NST
+
+
+47, 1	141, 1-2	ENF	efo *train*	---	NST
+
+
+48, 1	142, 1-5	RNW	i_lawr ar y *train* ia	---	NST
+
+
+49, 1	143, 1-3	ENF	ia mae *sure*	---	NST
+
+
+50, 1	144, 1-9	RNW	mae well na mynd hefo awyren o Manceinion yn_dydy	---	NSNT
+
+
+51, 1	145, 1-2	ENF	*well* ydy	NST	NST
+51, 2	145, 3-8	ENF	mae well i ni beth bynnag	NSNT	NSNT
+51, 3	145, 9-13	ENF	dw meddwl yn siwtio ni	---	NSNT
+
+
+52, 1	148, 2-12	RNW	mae hi wedi dod yn_ôl i yr wlad yma rŵan ers	---	NSNT
+
+
+53, 1	149, 1-1	ENF	faint	NSNT	NSNT
+53, 2	150, 1-5	ENF	bron i ddwy flynedd tydy	---	NSNT
+
+
+54, 1	154, 1-10	RNW	wedi treulio amser yn Awstralia ac yn Seland_Newydd yn feddyg	---	NSNT
+
+
+55, 1	155, 1-2	ENF	*well* yndy	NST	NST
+55, 2	157, 1-13	ENF	ia mae yn amser yn mynd yn gyflym yn_dydy a deud y gwir	NSNT	NSNT
+55, 3	160, 1-3	ENF	*um* gyflymach rŵan	---	NST
+
+
+56, 1	161, 1-3	RNW	mae o wir	NSNT	NSNT
+56, 2	163, 1-9	RNW	fydd hi yn amser i ni ddechrau garddio yn_bydd	---	NSNT
+
+
+57, 1	164, 1-3	ENF	*oh* bydd wir	NST	NST
+57, 2	165, 1-5	ENF	mae mynd i sychu rŵan	NSNT	NSNT
+57, 3	165, 6-8	ENF	dw meddwl yn_tydy	NSNT	NSNT
+57, 4	167, 1-14	ENF	fydd y glaw yn yn cilio a mwy o haul a mwy o gynhesrwydd	NSNT	NSNT
+57, 5	168, 1-2	ENF	achos *um*	NST	NST
+57, 6	169, 1-5	ENF	*oh* faswn i yn hoffi	NST	NST
+57, 7	169, 6-9	ENF	os fydd hi yn	NSNT	NSNT
+57, 8	170, 1-7	ENF	er mae yn gaddo glaw dydd Sul	NSNT	NSNT
+57, 9	170, 8-8	ENF	tydy	NSNT	NSNT
+57, 10	170, 9-10	ENF	dw meddwl	NSNT	NSNT
+57, 11	172, 1-15	ENF	*um* faswn i yn hoffi cael mynd i_fyny am dro *um* i gyfeiriad *um* *Llanelian*	NST	NST
+57, 12	174, 1-6	ENF	achos baswn i yn hoffi gweld	NSNT	NSNT
+57, 13	174, 7-14	ENF	oes yna dipyn o flodau yr gwanwyn o_gwmpas	NSNT	NSNT
+57, 14	176, 1-3	ENF	doedd yna ddim	NSNT	NSNT
+57, 15	176, 4-7	ENF	nag oedd bythefnos yn_ôl	---	NSNT
+
+
+58, 1	177, 1-2	RNW	nag oedd	NSNT	NSNT
+58, 2	177, 3-4	RNW	nag oedd	---	NSNT
+
+
+59, 1	178, 1-8	ENF	fyswn i yn hoffi i weld *um* faint	NST	NST
+59, 2	178, 9-15	ENF	sy wedi dod allan ohonyn erbyn rŵan	NSNT	NSNT
+59, 3	180, 1-10	ENF	*well* i weld os ydy yr gwanwyn yn llawer cynharach	NST	NST
+59, 4	180, 11-13	ENF	nag oedd o	NSNT	NSNT
+59, 5	182, 1-3	ENF	deud y gwir	---	NSNT
+
+
+60, 1	183, 1-6	RNW	wyt ti isio mynd i_fyny cyn_belled	NSNT	NSNT
+60, 2	183, 7-8	RNW	â *Cefn_Ffynnon*	---	NST
+
+
+61, 1	184, 1-2	ENF	oes gobeithio	NSNT	NSNT
+61, 2	184, 3-11	ENF	neu fydd i gael gweld i_fyny yr *top* yn_de	NST	NST
+61, 3	186, 1-4	ENF	allan o yr goedwig	NSNT	NSNT
+61, 4	188, 1-7	ENF	a wedyn mae modd gweld yr *um*	NST	NST
+61, 5	188, 8-13	ENF	mae modd gweld y y blodau	NSNT	NSNT
+61, 6	189, 1-9	ENF	mae nhw *er* wedi dod allan yn yr haul	NST	NST
+61, 7	189, 10-11	ENF	mae *sure*	NST	NST
+61, 8	190, 1-10	ENF	fydd llygad Ebrill ac amryw o rei eraill wedi dŵad	NSNT	NSNT
+61, 9	190, 11-12	ENF	de tibod	NSNT	NSNT
+61, 11	194, 1-3	ENF	deud y gwir	NSNT	NSNT
+61, 12	195, 1-5	ENF	felly *um* fydd hynny yn	---	NST
+
+
+61, 13	196, 1-7	ENF	*oh* gan obeithio bydd hi yn braf	---	NST
+
+
+63, 1	202, 1-2	ENF	fan yna	NSNT	NSNT
+63, 2	205, 1-4	ENF	lle mae o dŵed	NSNT	NSNT
+63, 3	206, 1-3	ENF	*er* *Rhosgadfan* ia	NST	NST
+63, 4	209, 1-3	ENF	bydd o yn	NSNT	NSNT
+63, 5	210, 1-7	ENF	pa bryd mae o *er* yn ailagor	---	NST
+
+
+64, 1	211, 1-5	RNW	dw i meddwl mis Ebrill	---	NSNT
+
+
+65, 1	213, 1-7	ENF	*oh* bydd hynny yn diddorol iawn yn_bydd	---	NST
+
+
+66, 1	214, 1-1	RNW	bydd	---	NSNT
+
+
+67, 1	215, 1-5	ENF	ti yn hoffi gwaith *Kate_Roberts*	---	NST
+
+
+68, 1	216, 1-1	RNW	yndw	NSNT	NSNT
+68, 2	216, 2-6	RNW	dw yn hoffi yn arw	---	NSNT
+
+
+69, 1	218, 1-3	ENF	dw i *er*	NST	NST
+69, 2	218, 4-15	ENF	dw i mynd i ddarllen ailddarllen rei o ei llyfrau hi rŵan	NSNT	NSNT
+69, 3	219, 1-6	ENF	dw yn gobeithio gobeithio darllen *um*	---	NST
+
+
+70, 1	220, 1-2	RNW	*Lôn_Wen* ia	---	NST
+
+
+71, 1	221, 1-5	ENF	*well* dw yn gobeithio darllen	NST	NST
+71, 2	222, 1-9	ENF	mae ond y llyfr hawsa ohonyn nhw i_gyd wrth_gwrs	---	NSNT
+
+
+72, 1	223, 1-1	RNW	*Te_yn_y_Grug*	---	NST
+
+
+73, 1	224, 1-2	ENF	*Te_yn_y_Grug* ia	NST	NST
+73, 2	225, 1-11	ENF	ond *um* mae hwnnw yn hunangofiant go iawn ganddi *Y_Lôn_Wen* yn_tydy	NST	NST
+73, 3	227, 1-7	ENF	ac o'n i awydd ei ailddarllen o	NSNT	NSNT
+73, 4	228, 1-12	ENF	achos mae o yn dweud hanes *um* dechrau yr ganrif ddwytha yn_dydy	---	NST
+
+
+74, 1	229, 1-3	RNW	y cyfnod yna	---	NSNT
+
+
+75, 1	231, 2-7	ENF	fyswn i yn hoffi ailddarllen o	NSNT	NSNT
+75, 2	232, 1-12	ENF	mae rywun yn hoffi cael ryw *um* ailolwg ar lyfrau weithiau yn_tydy	NST	NST
+75, 3	234, 1-6	ENF	ti wedi darllen y *Daily_Post* heddiw	---	NST
+
+
+76, 1	235, 1-3	RNW	naddo ddim eto	---	NSNT
+
+
+77, 1	236, 1-7	ENF	dw i wedi cael ryw gip arno	NSNT	NSNT
+77, 2	237, 1-14	ENF	does fawr o ddim_byd arno fo a fawr ddim_byd ar y teledu heno chwaith	NSNT	NSNT
+77, 3	238, 1-6	ENF	does yna ddim ar nos Wener	NSNT	NSNT
+77, 4	238, 7-12	ENF	nag oes a deud y gwir	---	NSNT
+
+
+78, 1	239, 1-2	RNW	nag oes	NSNT	NSNT
+78, 2	239, 3-4	RNW	nag oes	---	NSNT
+
+
+79, 1	240, 1-1	ENF	a	NSNT	NSNT
+79, 2	241, 1-13	ENF	*yeah* ti wedi mwynhau yr *er* yn wir yr *um* y gyfres *Tywysogion*	---	NST
+
+
+80, 1	242, 1-7	RNW	*well* ddaru mi ei gwylio hi gyd	---	NST
+
+
+81, 1	243, 1-1	ENF	naddo	NSNT	NSNT
+81, 2	244, 1-18	ENF	ond dw i wedi mwynhau y y y ddwy rhaglen olaf yr un ar *um* Llywelyn_Fawr a Llywelyn_Ein_Llyw_Olaf	NST	NST
+81, 3	246, 1-3	ENF	wedyn mae gorffen	NSNT	NSNT
+81, 4	246, 4-8	ENF	tro nesa yn_dydy efo *Owain_Glyndŵr*	---	NST
+
+
+82, 1	247, 1-2	RNW	dda iawn	---	NSNT
+
+
+83, 1	250, 2-3	ENF	ond mae	NSNT	NSNT
+83, 2	250, 4-5	ENF	wedi bod	---	NSNT
+
+
+84, 1	251, 1-3	RNW	dw i meddwl	NSNT	NSNT
+84, 2	251, 4-8	RNW	bod nhw yn dda iawn	NSNT	NSNT
+84, 3	253, 1-14	RNW	rhoi cyfle i rywun wybod am hanes rywun nad oedd ddim yn gwybod hanes	---	NSNT
+
+
+85, 1	257, 1-4	ENF	wyt ti wedi *um*	NST	NST
+85, 2	258, 1-8	ENF	wnes i ddim gwylio llawer ar *Pawb_A'i_Farn* neithiwr	NST	NST
+85, 3	259, 1-3	ENF	wnes i gysgu	---	NSNT
+
+
+86, 1	260, 2-10	RNW	na wnes i ddim o ei wylio fo chwaith	---	NSNT
+
+
+87, 1	261, 1-12	ENF	er mi oedd o yn *right* dda yn_doedd a deud y gwir	NST	NST
+87, 2	263, 1-11	ENF	oedd y Gymraeg yn fwy *um* gloyw neithiwr yn_doedd *er* gan	NST	NST
+87, 3	263, 12-18	ENF	bod o yn dŵad o *Bethesda* yn_doedd	NST	NST
+87, 4	266, 1-9	ENF	oedd o ddim mor *um* garbwl y Gymraeg yn	NST	NST
+87, 5	266, 10-11	ENF	nag oedd	---	NSNT
+
+
+88, 1	267, 1-2	RNW	nag oedd	NSNT	NSNT
+88, 2	267, 3-5	RNW	oedd *lot* gwell	---	NST
+
+
+89, 1	268, 1-3	ENF	oedd *um* y	NST	NST
+89, 2	268, 4-10	ENF	safon yn well na deud y gwir	NSNT	NSNT
+89, 3	269, 1-10	ENF	ac mi oedd y *panel* yn eitha da neithiwr hefyd	NST	NST
+89, 4	269, 11-14	ENF	doedden ar y cyfan	NSNT	NSNT
+89, 5	271, 1-9	ENF	*um* ond does yna ddim llawer o dim_byd *um*	NST	NST
+89, 6	272, 1-7	ENF	*oh* mae yna ymarfer yng nghapel *um*	---	NST
+
+
+90, 1	273, 1-3	RNW	*Horeb* Bae_Colwyn ia	---	NST
+
+
+91, 1	274, 1-3	ENF	oes nos Sul	NSNT	NSNT
+91, 2	275, 1-3	ENF	ti am fynd	---	NSNT
+
+
+92, 1	277, 1-1	RNW	yndw	NSNT	NSNT
+92, 2	277, 2-5	RNW	dw i am fynd	---	NSNT
+
+
+93, 1	280, 1-2	ENF	ymarfer ia	---	NSNT
+
+
+94, 1	281, 1-5	RNW	ar_gyfer y rhaglen *Dechrau_Canu_Dechrau_Canmol* ia	---	NST
+
+
+95, 1	283, 1-5	ENF	ar y teledu fydd o	NSNT	NSNT
+95, 2	285, 1-4	ENF	oedd *Jessica* yn deud	NST	NST
+95, 3	285, 5-10	ENF	ei bod hi am fynd hefyd	---	NSNT
+
+
+96, 1	286, 1-3	RNW	dw i meddwl	NSNT	NSNT
+96, 2	288, 1-5	RNW	dw i meddwl mai *Trystan_Lewis*	NST	NST
+96, 3	288, 6-8	RNW	sy yn arwain	---	NSNT
+
+
+97, 1	290, 1-5	ENF	oedd hi am fynd hefyd	NSNT	NSNT
+97, 2	291, 1-6	ENF	achos mae yn hoffi canu yn_dydy	---	NSNT
+
+
+98, 1	292, 3-4	RNW	mae yn	NSNT	NSNT
+98, 2	293, 1-6	RNW	mae yn perthyn i gôr yn_dydy	---	NSNT
+
+
+99, 1	294, 4-7	ENF	mae i gôr bach	NSNT	NSNT
+99, 2	296, 1-5	ENF	perthyn i gôr mawr rŵan	NSNT	NSNT
+99, 3	296, 6-11	ENF	dw i ddim yn meddwl nac	NSNT	NSNT
+99, 4	299, 1-3	ENF	deud y gwir	NSNT	NSNT
+99, 5	300, 1-7	ENF	a mae yn llawn o ryw *Steddfod*	NST	NST
+99, 6	302, 1-10	ENF	isio mynd i yr cyngerdd nos Wener gymanfa nos Sul	NSNT	NSNT
+99, 7	304, 1-5	ENF	ac *um* dw i meddwl	NST	NST
+99, 8	304, 6-19	ENF	mae ffrind hi *Julie* yn mynd i drefnu *bus* hefyd yn ystod yr wythnos	NST	NST
+99, 9	305, 1-10	ENF	ac fydd yna *fus* yn mynd dydd Gwener hefyd yn_bydd	---	NST
+
+
+100, 1	306, 1-1	RNW	bydd	---	NSNT
+
+
+101, 1	307, 1-10	ENF	gan *er* *Dyfed_Alun* yn yn trefnu yr *bus* yno yn_dydy	---	NST
+
+
+102, 1	308, 1-1	RNW	bydd	---	NSNT
+
+
+103, 1	311, 1-4	ENF	deud y gwir yndy	---	NSNT
+
+
+104, 1	313, 1-6	RNW	mae yn gyfle i ni gan	NSNT	NSNT
+104, 2	313, 7-12	RNW	bod y *Steddfod* mor agos yn_dydy	---	NST
+
+
+105, 1	314, 2-12	ENF	ydy gan obeithio mynd i wrando ar dipyn o ddarlithoedd a	---	NSNT
+
+
+106, 1	315, 1-5	RNW	*oh* ia ymryson y beirdd	---	NST
+
+
+107, 1	316, 1-9	ENF	*well* ia os fydd yna le i fynd i_mewn	NST	NST
+107, 2	318, 1-3	ENF	ia ia hollol	NSNT	NSNT
+107, 3	319, 1-7	ENF	*oh* *well* ydw i ddim yn gwybod	NST	NST
+107, 4	319, 8-13	ENF	ydan ni yn mynd i fynd	NSNT	NSNT
+107, 5	320, 1-19	ENF	rhaid mi yrru yr arian yr wythnos nesa i fynd ar *um* *um* ar y tripiau yr W_E_A yn_bydd	---	ST
+
+
+108, 1	321, 1-4	RNW	*well* ia bydd mi	NST	NST
+108, 2	321, 5-5	RNW	fydd	---	NSNT
+
+
+109, 1	323, 1-4	ENF	dw ddim yn gwybod	NSNT	NSNT
+109, 2	323, 5-11	ENF	wyt ti isio mynd ar y ddau	---	NSNT
+
+
+110, 1	324, 1-2	RNW	mi fydd	NSNT	NSNT
+110, 2	325, 1-7	RNW	*well* dw i ddim yn *sure* iawn	---	NST
+
+
+111, 1	326, 1-11	ENF	ia fydd rhaid gyrru nhw wythnos nesa yn_bydd i i *Dwynwen*	---	NST
+
+
+112, 1	327, 1-1	RNW	bydd	---	NSNT
+
+
+113, 1	328, 1-17	ENF	*um* mi ddylai un ohonyn nhw fod yn diddorol a deud y gwir yn dweud hanes cotwm	---	NST
+
+
+114, 1	329, 1-1	RNW	dylai	---	NSNT
+
+
+115, 1	331, 1-14	ENF	ac am bod hi yn ddau gan mlwyddiant leni y diddymu yr *um* caethwasiaeth	NST	NST
+115, 2	333, 1-8	ENF	mae hynny yn gwneud o yn fwy diddorol	NSNT	NSNT
+115, 3	333, 9-9	ENF	dydy	---	NSNT
+
+
+116, 1	334, 2-4	RNW	yndy debyg iawn	---	NSNT
+
+
+117, 1	338, 1-9	ENF	wnest ti fwynhau yr *er* ddarlith yn y W_E_A	---	ST
+
+
+118, 1	341, 1-6	RNW	*Eryl_Rothwell_Hughes* yn dda iawn fel arfer	---	NST
+
+
+119, 1	345, 1-11	ENF	ai dau gan mlynedd a hanner oedd o o geni *um*	---	NST
+
+
+120, 1	347, 1-2	RNW	*Thomas_Telford* ia	---	NST
+
+
+121, 1	348, 1-3	ENF	ia dw meddwl	NSNT	NSNT
+121, 2	351, 1-1	ENF	ond	---	NSNT
+
+
+122, 1	352, 1-11	RNW	a lluniau da iawn o yr pontydd mae o wedi adeiladu	---	NSNT
+
+
+123, 1	354, 1-13	ENF	ac oedd o yn medru cadw diddordeb *um* cynulleidfa am awr a hanner	NST	NST
+123, 2	355, 1-7	ENF	a mae hynny yn rywbeth eitha prin	NSNT	NSNT
+123, 3	355, 8-13	ENF	dw feddwl eitha anodd i wneud	NSNT	NSNT
+123, 4	355, 14-14	ENF	dydy	NSNT	NSNT
+123, 5	358, 1-4	ENF	medru cadw *um* diddordeb	NST	NST
+123, 6	360, 1-11	ENF	a hyd_yn_oed fyswn i wedi medru gwrando arno fo yn hirach	---	NSNT
+
+
+124, 1	361, 1-6	RNW	ia oedd o yn dda iawn	NSNT	NSNT
+124, 2	361, 7-7	RNW	doedd	---	NSNT
+
+
+125, 1	362, 1-1	ENF	ond	NSNT	NSNT
+125, 2	363, 2-3	ENF	oedd mi	NSNT	NSNT
+125, 3	363, 4-7	ENF	oedd o yn dda	NSNT	NSNT
+125, 4	364, 1-12	ENF	oedd o yn *um* bleser gwrando arno fo deud y gwir yn_doedd	NST	NST
+125, 5	366, 1-11	ENF	*oh* dw isio mynd i gerdded dipyn bach mwy rŵan hefyd	NST	NST
+125, 6	366, 12-15	ENF	os fydd yna amser	NSNT	NSNT
+125, 7	367, 1-3	ENF	baswn i hoffi	---	NSNT
+
+
+126, 1	368, 1-11	RNW	ia mae o yn dda iawn i eich iechyd chi cerdded	NSNT	NSNT
+126, 2	368, 12-12	RNW	dydy	---	NSNT
+
+
+127, 1	370, 1-8	ENF	baswn i yn *well* hoffi mynd i gerdded	NST	NST
+127, 2	371, 1-7	ENF	dw ddim yn *sure* i le chwaith	NST	NST
+127, 3	372, 1-11	ENF	ond *um* falle i cerdded ar_hyd y i gyfeiriad Llandrillo_yn_Rhos a	---	NST
+
+
+128, 1	374, 1-14	RNW	ia mae yna le da iawn i gerdded yma ar_hyd lan y môr yn_does	---	NSNT
+
+
+129, 1	375, 1-3	ENF	i_lawr am y	NSNT	NSNT
+129, 3	378, 1-6	ENF	dw ddim awydd cerdded yn_ôl chwaith	NSNT	NSNT
+129, 4	380, 1-3	ENF	a fyddai mi	NSNT	NSNT
+129, 5	380, 4-5	ENF	fyddet ti	NSNT	NSNT
+129, 6	380, 6-13	ENF	fyddi di isio mynd i *um* dynnu lluniau	---	NST
+
+
+130, 1	381, 1-5	RNW	*oh* bydd i yr gystadleuaeth	---	NST
+
+
+131, 1	382, 1-5	ENF	*yeah* cystadleuaeth *er* *Merched_y_Wawr* ydy	NST	NST
+131, 2	386, 1-11	ENF	*er* be oeddet ti am be o't ti feddwl dynnu llun	---	NST
+
+
+132, 1	387, 1-13	RNW	*well* o'n i meddwl mynd i_fyny at *Penmaen_Rhos* a tynnu llun yr arfordir	NST	NST
+132, 2	389, 1-4	RNW	cael y *pier* i_mewn	NST	NST
+132, 3	391, 1-5	RNW	ac ar_hyd lan y môr	NSNT	NSNT
+132, 4	393, 1-6	RNW	a llun arall fyswn i feddwl	NSNT	NSNT
+132, 5	393, 7-9	RNW	fasai hwyrach *Bryn_Euryn*	NST	NST
+132, 6	395, 1-2	RNW	a eglwys	---	NSNT
+
+
+133, 1	396, 1-12	ENF	yr hen *um* *Bryn_Euryn* ei hun ta yr *er* yr hen dŷ	---	NST
+
+
+134, 1	397, 1-6	RNW	*oh* na yr yr hen adfail	---	NST
+
+
+135, 1	398, 1-6	ENF	*er* tŷ *er* plas *Ednyfed_Fychan* ia	NST	NST
+135, 2	401, 1-3	ENF	a lle arall	---	NSNT
+
+
+136, 1	402, 1-4	RNW	*well* hwyrach eglwys *Saint_Paul*	NST	NST
+136, 2	404, 1-5	RNW	a yr *clock* yng ngwaelod	---	NST
+
+
+137, 1	406, 1-5	ENF	ia mae nhw yn ddel	NSNT	NSNT
+137, 2	406, 6-6	ENF	dydy	---	NSNT
+
+
+138, 1	407, 1-2	RNW	*er* *Station_Road*	ST	NST
+138, 2	408, 2-6	RNW	mae hwnnw yn ddel iawn	---	NSNT
+
+
+139, 1	409, 1-8	ENF	mae isio mynd yn gynnar yn y fore	NSNT	NSNT
+139, 2	409, 9-14	ENF	baswn i ddeud i dynnu hwnnw	---	NSNT
+
+
+140, 1	411, 1-5	RNW	cyn i bobl ddod o_gwmpas	---	NSNT
+
+
+141, 1	413, 1-4	ENF	a rywle arall ta	---	NSNT
+
+
+142, 1	415, 1-11	RNW	*well* yr eglwys bach ar lan y môr yn Llandrillo_yn_Rhos hwyrach	---	NST
+
+
+143, 1	416, 1-5	ENF	ia ia hollol ia *yeah*	NST	NST
+143, 2	418, 1-4	ENF	o yr *pier* ia	NST	NST
+143, 3	420, 1-4	ENF	beth am y *pier*	NST	NST
+143, 4	422, 1-3	ENF	a yr môr	NSNT	NSNT
+143, 5	424, 1-9	ENF	*oh* fydd raid ti fynd *right* fuan i weld	---	NST
+
+
+144, 1	425, 1-1	RNW	bydd	---	NSNT
+
+
+145, 1	426, 1-9	ENF	cei di hwyl arni yn_de a deud y gwir	NSNT	NSNT
+145, 2	428, 1-10	ENF	baswn i hoffi mynd i siopa i *Tesco's* wsnos dwytha	NST	NST
+145, 3	428, 11-11	ENF	nesa	---	NSNT
+
+
+146, 1	429, 1-8	RNW	*oh* ia gan bod gyn ti docynnau ia	---	NST
+
+
+147, 1	431, 1-2	ENF	gan ia	---	NSNT
+
+
+148, 1	433, 1-6	RNW	*oh* mae yn syniad da yn_dydy	---	NST
+
+
+149, 1	434, 1-8	ENF	yndy ac efallai mynd draw i *Gonwy* wedyn	---	NST
+
+
+150, 1	436, 1-4	RNW	gallu cerdded o *Tesco*	NST	NST
+150, 2	438, 1-5	RNW	dros y bont i *Gonwy*	---	NST
+
+
+151, 1	439, 1-4	ENF	ia i *Gonwy* ia	NST	NST
+151, 2	441, 1-14	ENF	i gael mynd i yr *um* *oh* mynd i yr *shop* gig efallai *yeah*	---	NST
+
+
+152, 1	442, 1-1	RNW	achos	NSNT	NSNT
+152, 2	443, 1-12	RNW	ia ac cerdded at y bont i weld yr hen bont yn_de	---	NSNT
+
+
+153, 1	444, 1-1	ENF	neu	NSNT	NSNT
+153, 2	445, 1-13	ENF	*oh* ia ia i weld yr hen bont a hefyd gweld *um* y	NST	NST
+153, 3	446, 1-5	ENF	*er* mae yna giât *um*	---	NST
+
+
+154, 1	447, 1-1	RNW	giât	---	NSNT
+
+
+155, 1	449, 1-4	ENF	*er* *Thomas_Telford* yna yn_does	NST	NST
+155, 2	451, 1-9	ENF	faswn i yn licio mynd i fan yno i	NSNT	NSNT
+155, 3	453, 1-6	ENF	dan ni wedi gweld hi unwaith	NSNT	NSNT
+155, 4	453, 7-8	ENF	dw meddwl	NSNT	NSNT
+155, 5	453, 9-9	ENF	dydan	NSNT	NSNT
+155, 6	455, 1-9	ENF	*um* mae giât *right* arbennig a deud y gwir	NST	NST
+155, 7	455, 10-10	ENF	dydy	NSNT	NSNT
+155, 9	458, 1-14	ENF	ond mae yna rei ohonyn nhw gweld yn_does yn dal i fod yn Sir_Fôn	NSNT	NSNT
+155, 10	460, 1-3	ENF	giatiau yr *um*	NST	NST
+155, 11	461, 1-8	ENF	mae nhw yn galw nhw Saesneg yn Sunray_Gates	SNT	SNT
+155, 12	462, 1-3	ENF	dw meddwl ia	NSNT	NSNT
+155, 13	464, 1-3	ENF	dw yn meddwl	NSNT	NSNT
+155, 14	466, 1-5	ENF	os dw i yn iawn	---	NSNT
+
+
+156, 1	467, 1-7	RNW	ond mae yna lawer o bethau diddorol	NSNT	NSNT
+156, 2	467, 8-18	RNW	fedrwch chi weld yng *Nghonwy* yn_does heblaw yr castell a yr	---	NST
+
+
+157, 1	468, 3-11	ENF	ond dan ni wedi gweld nhw lawer gwaith yn_do	NSNT	NSNT
+157, 2	470, 1-3	ENF	dan ni ddim	NSNT	NSNT
+157, 3	471, 1-10	ENF	timbod ond fyswn i licio mynd i weld hwnna gan	NSNT	NSNT
+157, 4	471, 11-19	ENF	bod *Eryl_Rothwell* wedi sôn amdanyn nhw yn ei ddarlith	NST	NST
+157, 5	475, 1-3	ENF	ie *so* felly	---	NST
+
+
+158, 1	476, 1-3	RNW	dw i meddwl	NSNT	NSNT
+158, 2	476, 4-16	RNW	bod gyn ti dipyn o waith i wneud hefyd ar_ôl noson cinio *Merched_y_Wawr*	---	NST
+
+
+159, 1	477, 1-4	ENF	y sgwennu ar_gyfer *Y_Pentan*	NST	NST
+159, 2	479, 1-6	ENF	dw i wedi gwneud bore yma	---	NSNT
+
+
+160, 1	480, 1-5	RNW	*oh* ti wedi sgwennu ar_gyfer	---	NST
+
+
+161, 1	481, 1-3	ENF	do yn fras	NSNT	NSNT
+161, 2	483, 1-8	ENF	dw i dim ond isio iw ailsgwennu o	NSNT	NSNT
+161, 3	485, 1-3	ENF	a dyna ni	NSNT	NSNT
+161, 4	486, 1-14	ENF	achos doedd yna ddim gymaint â hynny i ddweud a deud y gan nad	NSNT	NSNT
+161, 5	486, 16-21	ENF	gynnan ni ddim *um* gŵr gwadd	NST	NST
+161, 6	488, 1-3	ENF	ond *um* do	NST	NST
+161, 7	488, 4-10	ENF	dw i wedi wneud o yn fras	NSNT	NSNT
+161, 8	489, 1-9	ENF	ond bod gynna isio sgwennu cofnodion *um* *Merched_y_Wawr* i_gyd	NST	NST
+161, 9	491, 1-9	ENF	dw i ddim wedi gwneud hynny ers mis Ionawr	NSNT	NSNT
+161, 10	493, 1-9	ENF	*um* felly fydd raid mi wneud hynny ryw ddiwrnod	NST	NST
+161, 11	495, 1-7	ENF	fyswn i wedi medru gwneud bore yma	NSNT	NSNT
+161, 12	497, 1-5	ENF	ond *um* wnes i ddim	NST	NST
+161, 13	498, 1-10	ENF	mi dw i yn gadael o tan y funud ola	NSNT	NSNT
+161, 14	500, 1-7	ENF	achos does gynna i ddim awydd sgwennu	NSNT	NSNT
+161, 16	502, 1-10	ENF	sgwn i pryd mae yr blodyn yna mynd i agor	NSNT	NSNT
+161, 17	504, 1-8	ENF	dw i wedi hen flino aros amdano fo	---	NSNT
+
+
+162, 1	505, 1-3	RNW	*well* *mmm* ie	NST	NST
+162, 2	506, 1-6	RNW	*oh* mae hynna yn atgoffa fi	NST	NST
+162, 3	506, 7-20	RNW	mae gynna isio mynd i osod blodau yn y capel erbyn Sul nesa eto	---	NSNT
+
+
+163, 1	511, 1-3	ENF	blodau ffug *yeah*	NST	NST
+163, 2	513, 1-7	ENF	*oh* raid ti fynd pnawn yma yn_bydd	---	NST
+
+
+164, 1	514, 1-1	RNW	bydd	---	NSNT
+
+
+165, 1	515, 1-3	ENF	neu bore fory	---	NSNT
+
+
+166, 1	516, 1-1	RNW	bydd	NSNT	NSNT
+166, 2	517, 1-5	RNW	dw isio glanhau nghar hefyd	---	NSNT
+
+
+167, 1	520, 1-4	ENF	ti am wneud heddiw	---	NSNT
+
+
+168, 1	521, 1-6	RNW	ella wna i pnawn yma gan	NSNT	NSNT
+168, 2	521, 7-10	RNW	bod hi yn braf	---	NSNT
+
+
+169, 1	522, 1-4	ENF	*yeah* mae yn braf	NST	NST
+169, 2	522, 5-7	ENF	yndy ac yn	NSNT	NSNT
+169, 3	522, 8-8	ENF	sych	NSNT	NSNT
+169, 4	525, 1-7	ENF	*oh* *well* fyset ti wedi gwneud wedyn	NST	NST
+169, 5	525, 8-8	ENF	byset	---	NSNT
+
+
+170, 1	526, 1-2	RNW	baswn mi	NSNT	NSNT
+170, 2	526, 3-4	RNW	faswn i	NSNT	NSNT
+170, 3	526, 5-5	RNW	baswn	---	NSNT
+
+
+171, 1	527, 1-7	ENF	wnei di ddim gwerthu dy *gar* wan	---	NST
+
+
+172, 1	528, 1-3	RNW	ddim yn gwybod	---	NSNT
+
+
+173, 1	529, 1-1	ENF	*well*	---	NST
+
+
+174, 1	530, 1-3	RNW	heb benderfynu eto	---	NSNT
+
+
+175, 1	532, 1-8	ENF	fydd raid ti benderfynu yn_bydd erbyn dydd Llun	---	NSNT
+
+
+176, 1	533, 1-6	RNW	*well* dw i ddim yn gwybod	NST	NST
+176, 2	533, 7-9	RNW	be wna i	NSNT	NSNT
+176, 3	535, 1-6	RNW	ella mai gadw fo gwna i	---	NSNT
+
+
+177, 1	536, 1-5	ENF	*yeah* ia am ychydig *yeah*	NST	NST
+177, 2	538, 1-6	ENF	*well* dw i ddim yn gwybod	NST	NST
+177, 3	539, 1-11	ENF	gawn ni fynd i yr *shop* llyfrau Gymraeg *er* dydd Llun	---	NST
+
+
+178, 1	540, 1-1	RNW	cawn	---	NSNT
+
+
+179, 1	541, 1-2	ENF	yn *Rhyl*	---	NST
+
+
+180, 1	542, 1-1	RNW	cawn	NSNT	NSNT
+180, 2	542, 2-9	RNW	dan ni isio prynu ychydig o gardiau Cymraeg	---	NSNT
+
+
+181, 1	543, 1-4	ENF	oes gynnot ti isio	NSNT	NSNT
+181, 2	545, 1-5	ENF	dw i ddim yn meddwl	NSNT	NSNT
+181, 3	545, 6-14	ENF	bod gynna isio prynu llyfr a deud y gwir	NSNT	NSNT
+181, 4	547, 1-11	ENF	*um* ga i fenthyg nhw yn y llyfrgell rhein rŵan caf	---	NST
+
+
+182, 1	548, 1-6	RNW	cei mi gei di benthyg nhw	---	NSNT
+
+
+183, 1	552, 1-4	ENF	*so* felly mi *um*	NST	NST
+183, 2	553, 1-7	ENF	dim ond cael golwg be sy yna	NSNT	NSNT
+183, 3	553, 8-8	ENF	yn_te	NSNT	NSNT
+183, 4	555, 1-11	ENF	ti wedi cael golwg ar dy lyfr ar llyfr *er* *Geoff_Charles*	---	NST
+
+
+184, 1	556, 1-1	RNW	ydw	NSNT	NSNT
+184, 2	557, 1-3	RNW	mae o yn	NSNT	NSNT
+184, 3	559, 2-6	RNW	mae o yn dda iawn	NSNT	NSNT
+184, 4	561, 1-10	RNW	yr llyfr wnes i brynu ar_ôl i mi ennill croesair	---	NSNT
+
+
+185, 1	563, 1-6	ENF	ia hwnna wnest ti brynu *yeah*	---	NST
+
+
+186, 1	566, 1-3	RNW	*Cefn_Gwlad* gan *Geoff_Charles*	NST	NST
+186, 2	568, 1-13	RNW	oedd o yn gip ar nôl ar yr hen ffordd gymreig o fyw	---	NSNT
+
+
+187, 1	570, 1-8	ENF	yn y pumdegau ydy o ia rhan fwya	NSNT	NSNT
+187, 2	572, 1-5	ENF	pumdegau ydy rhan fwya *yeah*	---	NST
+
+
+188, 1	573, 1-4	RNW	ia dw meddwl ia	---	NSNT
+
+
+189, 1	574, 1-5	ENF	oes yna chwedegau yna hefyd	---	NSNT
+
+
+190, 1	575, 1-6	RNW	*well* dw i ddim yn gwybod	NST	NST
+190, 2	576, 1-3	RNW	mae yna luniau	---	NSNT
+
+
+191, 1	577, 1-4	ENF	ia darlunio yr chwedegau	---	NSNT
+
+
+192, 1	578, 1-7	RNW	ie mae yna luniau da iawn yma	---	NSNT
+
+
+193, 1	579, 1-10	ENF	*oh* mae yna rei da iawn yn enwedig o yr	---	NST
+
+
+194, 1	580, 1-4	RNW	oes y chwedegau hefyd	---	NSNT
+
+
+195, 1	581, 1-8	ENF	*oh* *yeah* a yr hen gardotwyr y hen	NST	NST
+195, 2	583, 1-5	ENF	*dramps* yn_de yr hen gardotwyr	NST	NST
+195, 3	585, 1-3	ENF	a dw i	NSNT	NSNT
+195, 4	585, 4-6	ENF	dw i meddwl	NSNT	NSNT
+195, 5	585, 7-13	ENF	bod rheiny dda yn arbennig o dda	NSNT	NSNT
+195, 6	585, 14-16	ENF	dw i meddwl	NSNT	NSNT
+195, 7	587, 1-1	ENF	yn_dydyn	---	NSNT
+
+
+196, 1	588, 2-5	RNW	mae nhw dda iawn	NSNT	NSNT
+196, 2	589, 1-4	RNW	mae yna lun da	---	NSNT
+
+
+197, 1	590, 1-2	ENF	mae dda	NSNT	NSNT
+197, 2	590, 3-4	ENF	bod *um*	NST	NST
+197, 3	591, 1-9	ENF	mae rheina luniau bob un o yr lluniau yna	NSNT	NSNT
+197, 4	591, 10-19	ENF	mae nhw wedi ymddangos yn eu tro yn y *er*	---	NST
+
+
+198, 1	592, 1-4	RNW	yn y *Cymro* ia	---	NST
+
+
+199, 1	593, 1-4	ENF	ia dyna ti ia	---	NSNT
+
+
+200, 1	595, 3-6	RNW	mae nhw dda iawn	---	NSNT
+
+
+201, 1	596, 1-12	ENF	heb feddwl bod y cyfnod i_gyd *er* *well* yn cael ei gofnodi	---	NST
+
+
+202, 1	597, 1-1	RNW	yn	NSNT	NSNT
+202, 2	598, 1-4	RNW	ia *yeah* mae yna	---	NST
+
+
+203, 1	599, 1-15	ENF	wrth_gwrs mae yna rei yn gynharach na yr pumdegau yn_does neu yn llyfr arall *Geoff_Charles*	---	NST
+
+
+204, 1	601, 1-7	RNW	ia *yeah* mae hwnnw gynna i hefyd	NST	NST
+204, 2	603, 1-4	RNW	be oedd y llun	NSNT	NSNT
+204, 3	603, 5-9	RNW	pwy oedd ar flaen hwnnw	---	NSNT
+
+
+205, 1	604, 1-3	ENF	*um* llun *um*	NST	NST
+205, 2	605, 1-6	ENF	*oh* dydw i ddim yn cofio	NST	NST
+205, 3	605, 7-10	ENF	be ydy enw fo	NSNT	NSNT
+205, 4	606, 1-3	ENF	oedden nhw yn	NSNT	NSNT
+205, 5	606, 4-12	ENF	oedden nhw mynd i ymddeol yn_doedden i Loegr a	---	NSNT
+
+
+206, 1	607, 1-2	RNW	*um* oedden	---	NST
+
+
+207, 1	609, 1-5	ENF	ia dw ddim yn cofio	NSNT	NSNT
+207, 2	609, 6-7	ENF	be oedd	---	NSNT
+
+
+208, 1	610, 1-12	RNW	yr llun *er* dau fachgen bach yn godro buwch sydd ar *er*	NST	NST
+208, 2	612, 1-5	RNW	clawr y llyfr mwy diweddar	---	NSNT
+
+
+209, 1	613, 1-5	ENF	ia fedra i ddim cofio	NSNT	NSNT
+209, 2	613, 6-9	ENF	be ydy enw nhw	NSNT	NSNT
+209, 3	614, 1-4	ENF	oedd o yn *er*	NST	NST
+209, 4	614, 5-9	ENF	oedd o yn fardd yn_doedd	NSNT	NSNT
+209, 5	616, 1-4	ENF	bardd gwlad oedd o	---	NSNT
+
+
+210, 1	618, 1-12	RNW	a yr geiriau y mae nhw yn eu yn disgrifio yr llun	NSNT	NSNT
+210, 2	619, 1-8	RNW	rw i yn edrych dros y bryniau pell	---	NSNT
+
+
+211, 1	622, 1-5	ENF	a fedra i ddim cofio	NSNT	NSNT
+211, 2	622, 6-10	ENF	be oedd ei enw fo	NSNT	NSNT
+211, 3	623, 1-10	ENF	*um* yfo a ei wraig gorod gadael y *farm* yn	---	NST
+
+
+212, 1	624, 1-1	RNW	oedden	---	NSNT
+
+
+213, 1	625, 1-4	ENF	yn ymyl *Beddgelert* yn_de	NST	NST
+213, 2	627, 1-9	ENF	*oh* a mynd i fyw i berfeddion Lloegr de	---	NST
+
+
+214, 1	628, 1-5	RNW	ia at y mab yn_de	---	NSNT
+
+
+215, 1	630, 1-7	ENF	*er* llun trist iawn mewn ffordd de	NST	NST
+215, 2	633, 1-5	ENF	trist iawn deud y gwir	NSNT	NSNT
+215, 3	634, 1-4	ENF	ond *um* dw meddwl	NST	NST
+215, 4	634, 5-11	ENF	bod nhw yn yn lyfr *um* *well*	NST	NST
+215, 5	634, 12-18	ENF	gwerth ei brynu dim_ond cofnod o hanes	---	NSNT
+
+
+216, 1	635, 2-5	RNW	mae yn dda iawn	---	NSNT
+
+
+218, 1	637, 1-5	RNW	ia fysai yn ddiddorol yn_bysai	---	NSNT
+
+
+219, 1	638, 1-1	ENF	basai	NSNT	NSNT
+219, 2	639, 1-1	ENF	mae	NSNT	NSNT
+219, 3	639, 2-2	ENF	mae	NSNT	NSNT
+219, 5	639, 32-37	ENF	wnes i ennill yn y *Daily_Post*	NST	NST
+219, 6	644, 1-6	ENF	*um* felly dw i yn gobeithio	NST	NST
+219, 7	644, 7-12	ENF	mae *sure* mai tua mis Mehefin	NST	NST
+219, 8	644, 13-14	ENF	yn_de y	NSNT	NSNT
+219, 9	644, 15-21	ENF	bydd yna wasanaeth yno ar bnawn Sul	NSNT	NSNT
+219, 10	646, 1-5	ENF	felly gobeithio cael mynd yno	NSNT	NSNT
+219, 11	647, 1-2	ENF	mae yr	NSNT	NSNT
+219, 12	647, 3-10	ENF	dyn *er* *Mr_Griffiths* yn byw yn y cefn	NST	NST
+219, 13	647, 11-16	ENF	mae o yn brysur heddiw yn_dydy	NSNT	NSNT
+219, 14	650, 1-4	ENF	mae fab o yn	NSNT	NSNT
+219, 15	650, 5-11	ENF	mae o wrthi yn cario ryw bethau	NSNT	NSNT
+219, 16	652, 1-9	ENF	*sure* bod o yn gobeithio gwerthu ei dŷ yn_tydy	---	NST
+
+
+220, 1	653, 2-3	RNW	mae o	---	NSNT
+
+
+221, 1	654, 1-10	ENF	ond *um* mae *sure* mai dipyn yn hir yn mynd	NST	NST
+221, 2	654, 11-12	ENF	fydd o	NSNT	NSNT
+221, 3	654, 13-17	ENF	yn_de a deud y gwir	---	NSNT
+
+
+222, 1	655, 1-4	RNW	ie *sure* o fod	---	NST
+
+
+223, 1	656, 2-7	ENF	ond mae yn gwella rŵan gan	NSNT	NSNT
+223, 2	656, 8-12	ENF	bod y gwanwyn wedi dŵad	NSNT	NSNT
+223, 3	656, 13-13	ENF	dydy	NSNT	NSNT
+223, 4	658, 1-3	ENF	dw i meddwl	NSNT	NSNT
+223, 5	658, 4-9	ENF	bod *Mr_Samuel* wedi mynd i gerdded	NST	NST
+223, 6	660, 1-9	ENF	mae yna ddau *gar* *er* yn ei le fo	NST	NST
+223, 7	661, 1-8	ENF	felly mae mynd ar ddydd Gwener i gerdded	NSNT	NSNT
+223, 8	661, 9-9	ENF	dydy	---	NSNT
+
+
+224, 1	663, 1-2	RNW	ges i	---	NSNT
+
+
+225, 1	664, 1-3	ENF	deud y gwir	---	NSNT
+
+
+226, 1	665, 1-13	RNW	wnes i fwynhau y noson cinio Gŵyl_Ddewi yr gymdeithas noson o yr blaen	NSNT	NSNT
+226, 2	667, 1-5	RNW	gaethon ni bryd blasus iawn	---	NSNT
+
+
+227, 1	668, 1-1	ENF	fedrwn	NSNT	NSNT
+227, 2	669, 1-5	ENF	ia fedrwn i ddim dŵad	NSNT	NSNT
+227, 3	669, 6-7	ENF	na fedrwn	NSNT	NSNT
+227, 4	671, 1-5	ENF	o'n i wedi tynnu dant	NSNT	NSNT
+227, 5	671, 6-6	ENF	doeddwn	---	NSNT
+
+
+228, 1	673, 1-7	RNW	*Aled_Lloyd_Davies* yn siarad yn dda iawn ia	---	NST
+
+
+229, 1	679, 1-6	ENF	am be oedd o yn siarad	---	NSNT
+
+
+230, 1	680, 1-4	RNW	*um* *er* caneuon gwerin	NST	NST
+230, 2	684, 1-6	RNW	y Cymdeithas_Alawon_Gwerin yn gant oed eleni	---	NSNT
+
+
+231, 1	685, 1-3	ENF	oedd o yn	NSNT	NSNT
+231, 2	690, 1-5	ENF	a pwy oedd wedi sefydlu	---	NSNT
+
+
+232, 1	691, 1-3	RNW	*um* *Lady* *Herbert_Lewis*	ST	NST
+232, 2	693, 1-7	RNW	oedd hi yn byw yn *Plas_Penucha* *Caerwys*	NST	NST
+232, 3	698, 1-8	RNW	oedd hi wedi gwneud *lot* iawn o waith	---	NST
+
+
+233, 1	699, 1-10	ENF	cant oed felly un naw dim saith oedd o wedi	NSNT	NSNT
+233, 2	699, 11-14	ENF	oedd o wedi dechrau	NSNT	NSNT
+233, 3	699, 15-19	ENF	oedd o wedi wedi sefydlu	---	NSNT
+
+
+234, 1	700, 1-2	RNW	i gofnodi	---	NSNT
+
+
+235, 1	702, 1-17	ENF	a wedyn oedd o wedi cymryd *um* can mlynedd i wahanol bobl gasglu nhw i_gyd at ei_gilydd	NST	NST
+235, 2	705, 1-12	ENF	*well* mae *sure* llawer o ganeuon bron wedi mynd ar_goll difancoll de	---	NST
+
+
+236, 1	706, 1-1	RNW	ar_goll	---	NSNT
+
+
+237, 1	708, 1-12	ENF	ond efallai wedi cael ryw bobl wedi gwrando clywed rei yn canu	NSNT	NSNT
+237, 2	710, 1-8	ENF	*er* hen bobl neu fallai neu morwynion neu	---	NST
+
+
+238, 1	711, 1-3	RNW	ia dyna fo	---	NSNT
+
+
+239, 1	712, 1-6	ENF	neu pobl timod *um* pobl wledig	---	NST

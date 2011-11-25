@@ -1,0 +1,1972 @@
+
+
+1, 1	1, 1-1	MAB	*well*	---	NST
+
+
+2, 1	2, 1-3	LIS	*well* dywedodd *Dad*	NST	NST
+2, 2	2, 4-11	LIS	pan oedd e yn *um* *Singapore* neu rhywle	NST	NST
+2, 3	2, 12-16	LIS	wnaethon nhw ffindio fel coryn	NSNT	NSNT
+2, 4	2, 17-22	LIS	timod *size* pêl yn cwpwrdd o	---	NST
+
+
+3, 1	3, 1-1	MAB	ych_a_fi	---	NSNT
+
+
+4, 1	4, 1-7	LIS	a o'n i *just* fel yn cringe_io	ST	ST
+4, 2	5, 1-13	LIS	achos dw i yn casáu house spiders let alone *well* unrhyw beth arall	---	ST
+
+
+5, 1	6, 1-10	MAB	*yeah* yr pethau *tarantulas* mawr anferth gennyn nhw yn *Australia*	---	NST
+
+
+6, 1	7, 1-2	LIS	dw gwybod	NSNT	NSNT
+6, 2	7, 3-8	LIS	mae nhw yn *horrible* yn_dyn nhw	---	NST
+
+
+7, 1	8, 1-10	MAB	a gynno nhw rhai *um* wolf spider neu rhywbeth felly	NST	ST
+7, 2	9, 1-7	MAB	mae nhw yn rai *sort* of *brown*	ST	ST
+7, 3	10, 1-14	MAB	a dydyn nhw ddim yn dangos yn dydyn nhw ddim *er* yn amlwg ofnadwy	NST	NST
+7, 4	12, 1-14	MAB	*so* mae nhw yn gallu mynd i_fewn i llefydd a ti ddim yn sylwi	NST	NST
+7, 5	12, 15-17	MAB	bod nhw yna	---	NSNT
+
+
+8, 1	13, 1-2	LIS	yn *horrible*	---	NST
+
+
+9, 1	14, 1-1	MAB	ych_a_fi	NSNT	NSNT
+9, 2	15, 1-3	MAB	ond mae yn	---	NSNT
+
+
+10, 1	16, 1-5	LIS	well gyda fi gweld *shark*	NST	NST
+10, 2	18, 1-7	LIS	fydden i yn hoffi swim_o gyda *sharks*	---	ST
+
+
+11, 1	19, 1-5	MAB	faswn i yn wneud hynna	NSNT	NSNT
+11, 2	20, 1-8	MAB	faswn i yn gallu nofio efo yr *sharks*	NST	NST
+11, 3	21, 1-6	MAB	mae lwyth ohonyn nhw o_gwmpas *Australia*	---	NST
+
+
+12, 1	22, 1-4	LIS	byddai hwnna yn *cool*	---	NST
+
+
+13, 1	23, 1-4	MAB	a rhaid fi ddeud	NSNT	NSNT
+13, 2	24, 1-4	MAB	mae nhw yn deud	NSNT	NSNT
+13, 3	25, 1-4	MAB	wnes i glywed sôn	NSNT	NSNT
+13, 4	25, 5-5	MAB	bod	NSNT	NSNT
+13, 5	25, 6-10	MAB	oes yna ddim gymaint o	NSNT	NSNT
+13, 6	25, 11-22	MAB	timod spider creepy crawlies a ballu o_gwmpas yn yn y dinasoedd mawr	NSNT	SNT
+13, 7	26, 1-7	MAB	*so* faswn i yn iawn yn *Sydney*	NST	NST
+13, 8	26, 8-9	MAB	dw meddwl	NSNT	NSNT
+13, 9	27, 1-4	MAB	does yna ddim gymaint	---	NSNT
+
+
+14, 1	28, 1-6	LIS	*yeah* ond yr unig *problem* yw	NST	NST
+14, 2	28, 7-14	LIS	fydden i yn mwy hapus yn y country	SNT	SNT
+14, 3	28, 15-16	LIS	dw meddwl	NSNT	NSNT
+14, 4	29, 1-9	LIS	achos yna fi wedi tyfu lan in the country	---	SNT
+
+
+15, 1	32, 1-2	MAB	country bumpkin	---	NSNT
+
+
+16, 1	33, 1-7	LIS	dw i yn love_o yr gwlad though	SNT	SNT
+16, 2	34, 1-4	LIS	mae fe mor *nice*	---	NST
+
+
+17, 1	35, 1-3	MAB	*yeah* dw i	NST	NST
+17, 2	35, 4-8	MAB	dw i yn hoffi fo	NSNT	NSNT
+17, 3	36, 1-14	MAB	dw i licio y ffaith bod ti yn gallu gweld y sêr yn nos	NSNT	NSNT
+17, 4	38, 1-4	MAB	mae hynna yn *great*	---	NST
+
+
+18, 1	39, 1-18	LIS	mae fi a ffrind ambell waith ni mynd mas gyda sleeping *bag* ni yn yn ganol y nos	NST	ST
+18, 2	40, 1-5	LIS	a cysgu mas tu fas	NSNT	NSNT
+18, 3	42, 1-6	LIS	a fel gwylio yr sêr *um*	NST	NST
+18, 4	43, 1-11	LIS	ond mae fe wedi bwrw glaw arnon ni *couple* o weithiau	---	NST
+
+
+19, 1	44, 1-1	MAB	*aww*	---	NST
+
+
+20, 1	45, 1-10	LIS	unwaith fel *um* blwyddyn blwyddyn cyn llynedd dw i meddwl	NST	NST
+20, 2	45, 11-19	LIS	aethon ni aros lawr yn *Whitesands* a syrffio fel	NST	NST
+20, 3	47, 1-8	LIS	achos *um* penwythnos Pasg neu rywbeth oedd o	NST	NST
+20, 4	49, 1-7	LIS	y blwyddyn cyn hynny oedd wythnos Pasg	NSNT	NSNT
+20, 5	51, 1-11	LIS	y flwyddyn hon fel Mehefin oedd o neu rhywbeth fel yna	NSNT	NSNT
+20, 6	53, 1-5	LIS	aethon ni i campio yna	---	NSNT
+
+
+21, 1	57, 1-7	MAB	dw i ddim wedi gael *barbecue* ers	NST	NST
+21, 2	58, 1-9	MAB	bydd rhaid i ni wneud rywbeth dros yr haf	---	NSNT
+
+
+22, 1	59, 1-7	LIS	rhaid fi gael un yn yr haf	NSNT	NSNT
+22, 2	62, 1-7	LIS	achos dw i meddwl aros yn *Bangor*	NST	NST
+22, 3	63, 1-7	LIS	*so* bydd fi lan fan hyn ta_beth	---	NST
+
+
+23, 1	64, 1-13	MAB	fasan ni yn gallu mynd i Red_Wharf neu neu rywle rywle fel yna	---	SNT
+
+
+24, 1	66, 1-9	LIS	achos dw i yn aros gyda ffrind fi *Lily*	NST	NST
+24, 3	68, 1-5	LIS	ti wedi cwrdd â *Lily*	---	NST
+
+
+25, 1	70, 1-5	MAB	*mmm* dw ddim yn meddwl	---	NST
+
+
+26, 1	71, 1-5	LIS	*oh* dylet ti cwrdd hi	NST	NST
+26, 3	73, 1-3	LIS	mae mor lovely	SNT	SNT
+26, 4	74, 1-7	LIS	dw i mynd i byw gyda hi	NSNT	NSNT
+26, 5	75, 1-6	LIS	ti wedi cwrdd â *Kristen* do	NST	NST
+26, 6	77, 1-5	LIS	*Lily* yn byw gyda *Kristen*	NST	NST
+26, 7	79, 1-5	LIS	*um* hi yw yr un	NST	NST
+26, 8	79, 6-15	LIS	dw i mynd i yr gym gyda trwy yr amser	---	SNT
+
+
+27, 1	80, 1-9	MAB	*o_k* iawn dw i gwybod pwy ti yn sôn	NST	NST
+27, 2	81, 1-15	MAB	dw i wedi clywed ti hi yn sôn amdani hi chdi yn sôn amdani hi	NSNT	NSNT
+27, 3	83, 1-9	MAB	ond dw i ddim wedi cyfarfod hi efallai unwaith	---	NSNT
+
+
+28, 1	84, 1-5	LIS	*oh* mae hi yn lovely	ST	ST
+28, 2	86, 1-10	LIS	dw i mynd i byw gyda hi dros yr haf	NSNT	NSNT
+28, 3	87, 1-8	LIS	a ni mynd i aros lan fan hyn	---	NSNT
+
+
+29, 1	88, 1-5	MAB	*oh* mae hynna yn *cool*	---	NST
+
+
+30, 1	89, 1-13	LIS	*so* fydd rhaid i ti dod i *Fangor* raid i ni cwrdd lan	ST	NST
+30, 2	91, 1-6	LIS	get up grab ourselves some locals	---	NSNT
+
+
+31, 1	95, 1-6	MAB	*o_k* *so* ydan ni yn meddwl	NST	NST
+31, 2	95, 7-10	MAB	fasai *Australia* yn *cool*	NST	NST
+31, 3	96, 1-7	MAB	ond dan ni ddim yn keen ar	NSNT	SNT
+31, 4	96, 8-8	MAB	yr	NSNT	NSNT
+31, 5	96, 9-12	MAB	timod pry_cop and *stuff*	ST	ST
+31, 6	99, 1-2	MAB	*so* *ooh*	---	NST
+
+
+32, 1	100, 1-8	LIS	*oh* fydden i yn love_o nofio gyda *dolphins*	---	ST
+
+
+33, 1	101, 1-7	MAB	*yeah* faswn i yn licio wneud hynna	NST	NST
+33, 2	102, 1-9	MAB	mae yna *lot* o lefydd ti gallu wneud hynna	NST	NST
+33, 3	103, 1-14	MAB	dw i yn meddwl dylen ni fynd i yr *Seychelles* i weld cefnder fi	ST	NST
+33, 4	104, 1-4	MAB	because allen ni fyw	NSNT	SNT
+33, 5	104, 5-10	MAB	allen ni aros yna am ddim	SNT	NSNT
+33, 6	105, 1-5	MAB	because dydy o ddim ots	NSNT	SNT
+33, 7	106, 1-7	MAB	*o_k* *o_k* ydan ni fod yn *millionaires*	NST	NST
+33, 8	107, 1-4	MAB	ond fysan ni dal	---	NSNT
+
+
+34, 1	108, 1-6	LIS	ond *still* thinking like a *student*	---	ST
+
+
+35, 1	109, 1-1	MAB	yes	SNT	NSNT
+35, 2	110, 1-2	MAB	ydan ni	NSNT	NSNT
+35, 3	110, 3-5	MAB	ydan ni yn	NSNT	NSNT
+35, 4	110, 6-12	MAB	ydan ni yn rhy dlawd i feddwl	NSNT	NSNT
+35, 5	110, 13-16	MAB	bod gynno ni bres	---	NSNT
+
+
+36, 1	113, 1-6	LIS	*just* wishful thinking yn y diwedd	---	ST
+
+
+37, 1	115, 1-6	MAB	mae fan yna yn *great* though	ST	ST
+37, 2	116, 1-6	MAB	mae yna bob math o wild	SNT	SNT
+37, 3	117, 1-2	MAB	mae yna	NSNT	NSNT
+37, 4	117, 3-12	MAB	mae yna yr aderyn yma ar un o yr ynysoedd	NSNT	NSNT
+37, 5	118, 1-3	MAB	*er* y Noddy_bird	ST	ST
+37, 6	119, 1-9	MAB	ac ond yr ynys yna ti gallu ffindio fo	---	NSNT
+
+
+38, 1	120, 1-6	LIS	dw i isio gweld *koala* bears	---	ST
+
+
+39, 1	122, 1-5	MAB	*well* mae rheina yn *Australia*	---	NST
+
+
+40, 1	123, 1-6	LIS	mae nhw fod yn vicious though	---	SNT
+
+
+41, 1	124, 1-3	MAB	*well* faswn i	NST	NST
+41, 2	124, 4-12	MAB	faswn i ddim yn trio dwyn *eucalyptus* gynno nhw	---	NST
+
+
+42, 1	125, 1-7	LIS	a mae nhw yn edrych mor *cute*	NST	NST
+42, 3	127, 1-8	LIS	ond mae nhw edrych mor cuddly yn_dyn nhw	---	SNT
+
+
+43, 1	128, 2-3	MAB	ond timod	---	NSNT
+
+
+44, 1	129, 1-4	LIS	ond mae nhw apparently	SNT	SNT
+44, 2	129, 5-11	LIS	mae nhw yn sgramo chi a cnoi	NSNT	NSNT
+44, 3	130, 1-6	LIS	*so* byddai hwnna ddim mor dda	---	NST
+
+
+45, 1	131, 1-9	MAB	*well* yr yr unig beth mae nhw yn fwyta	NST	NST
+45, 2	131, 10-11	MAB	ydy *eucalyptus*	NST	NST
+45, 3	132, 1-10	MAB	mae nhw yn gorod cnoi trwy hwnna yn *right* dda	NST	NST
+45, 4	133, 1-6	MAB	*so* dw i ddim yn synnu	NST	NST
+45, 5	133, 7-12	MAB	bod gynno nhw dannedd cryf really	---	SNT
+
+
+46, 1	134, 1-9	LIS	tybed beth mae *eucalyptus* leaf yn actually blasu fel	---	ST
+
+
+47, 1	135, 1-3	MAB	dw i gwybod	NSNT	NSNT
+47, 2	135, 4-8	MAB	be mae yn oglau fel	NSNT	NSNT
+47, 4	137, 1-11	MAB	mae nhw yn rhoi o mewn *stuff* *um* herbal a ballu	---	ST
+
+
+48, 1	139, 1-9	LIS	mae nhw yn rhoi e yn y steam *room*	ST	ST
+48, 2	139, 10-13	LIS	dw i mynd yn	NSNT	NSNT
+48, 3	141, 1-4	LIS	a *stuff* fel yna	NST	NST
+48, 4	143, 1-3	LIS	y *menthol* *stuff*	---	NST
+
+
+49, 1	144, 1-3	MAB	oes yna ddim	NSNT	NSNT
+49, 2	144, 4-14	MAB	oes yna ddim *eucalyptus* yn fath â olbas *oil* neu rywbeth	NST	ST
+49, 3	145, 1-3	MAB	y *stuff* *yeah*	---	NST
+
+
+50, 1	146, 1-8	LIS	ti meddwl bod fi yn gael bwyta chewing_gum	SNT	SNT
+50, 2	147, 1-5	LIS	dw i really isio un	NSNT	SNT
+50, 5	150, 1-3	LIS	ti isio un	---	NSNT
+
+
+51, 1	151, 1-1	MAB	*uh_huh*	---	NST
+
+
+52, 1	152, 1-3	LIS	mae yn newydd	SNT	NSNT
+52, 3	154, 1-1	LIS	*sorry*	---	NST
+
+
+53, 1	155, 1-8	MAB	*sorry* mae yn *just* gorfod cael *gum* cnoi	---	NST
+
+
+54, 1	156, 1-1	LIS	*sorry*	ST	NST
+54, 3	160, 1-6	LIS	beth o'n i mynd i dweud	NSNT	NSNT
+54, 4	161, 1-12	LIS	*yeah* *so* be sy yn digwydd penwythnos hyn gyda *Blodwen* a *stuff*	---	NST
+
+
+55, 1	162, 1-5	MAB	efo mynd allan a ballu	---	NSNT
+
+
+56, 1	163, 1-7	LIS	ydy ei brawd hi lawr yn barod	---	NSNT
+
+
+57, 1	164, 1-7	MAB	mae brawd hi yn dod lawr heno	NSNT	NSNT
+57, 2	165, 1-8	MAB	a mae o yn aros tan dydd Sul	NSNT	NSNT
+57, 3	166, 1-6	MAB	wedyn dw i yn meddwl falle	NSNT	NSNT
+57, 4	166, 7-12	MAB	fyddwn ni mynd am ginio fory	NSNT	NSNT
+57, 5	167, 1-8	MAB	*so* os ti yn rhydd fory amser cinio	NST	NST
+57, 6	168, 1-7	MAB	mae yn dibynnu faint o yr gloch	NSNT	NSNT
+57, 7	169, 1-9	MAB	dw i ddim yn gwybod faint o yr gloch	---	NSNT
+
+
+58, 1	170, 1-15	LIS	dw i yn y gym o un o yr gloch tan hanner awr wedi pump	---	SNT
+
+
+59, 1	172, 1-1	MAB	*aww*	---	NST
+
+
+60, 1	173, 1-10	LIS	a wedyn dw i yn mynd i gwaith am chwech	---	NSNT
+
+
+61, 1	174, 1-6	MAB	ti yn byw yn y gym	SNT	SNT
+61, 2	175, 1-9	MAB	*yeah* dw i yn gweithio pump tan ddeg wedyn	NST	NST
+61, 3	176, 1-18	MAB	a dw i isio gweld *Nancy* a *Blodwen* yn y pnawn i trefnu fath â efo yr tŷ	NST	NST
+61, 4	177, 1-4	MAB	dw i yn gobeithio	NSNT	NSNT
+61, 5	177, 5-13	MAB	fydda i yn gallu arwyddo a ballu fory wedyn	---	NSNT
+
+
+62, 1	178, 1-1	LIS	*cool*	---	NST
+
+
+63, 1	179, 1-2	MAB	all good	---	NSNT
+
+
+64, 1	180, 1-7	LIS	*yeah* sa i wedi arwyddo *contract* fi	NST	NST
+64, 2	181, 1-8	LIS	a mae yr *um* *landlord* wedi e_bostio fe	NST	NST
+64, 3	183, 1-10	LIS	*so* dw i wedi siarad gyda *landlord* fi a popeth	NST	NST
+64, 4	185, 1-6	LIS	*so* mae fo fel wedi dweud	ST	NST
+64, 5	186, 1-2	LIS	you're in	NSNT	NSNT
+64, 6	187, 1-3	LIS	count yourself in	---	NSNT
+
+
+65, 1	188, 1-3	MAB	*ah* dw i	NST	NST
+65, 2	188, 4-5	MAB	dw i	---	NSNT
+
+
+66, 1	189, 1-3	LIS	sy yn *alright*	---	NST
+
+
+67, 1	190, 1-9	MAB	mae *Nancy* am rhoi y rhif *phone* iddo fo	NST	NST
+67, 2	191, 1-12	MAB	ond basically fydd angen cyfarfod y *landlord* pan fath â fory gobeithio	NST	ST
+67, 3	192, 1-3	MAB	os fydd o	NSNT	NSNT
+67, 4	192, 4-4	MAB	rhydd	---	NSNT
+
+
+68, 1	193, 1-3	LIS	ond mae *landlord*	NST	NST
+68, 2	193, 4-5	LIS	mae *landlord*	NST	NST
+68, 3	193, 6-16	LIS	sy gyda fi nawr yn byw fel yn *Middlesex* neu rhywle	---	NST
+
+
+69, 1	194, 1-3	MAB	sortio fo allan	---	NSNT
+
+
+70, 1	196, 1-8	LIS	a *landlord* blwyddyn nesaf yn byw i_ffwrdd hefyd	NST	NST
+70, 2	198, 1-9	LIS	achos mae nhw yn defnyddio fe fel *holiday* home	---	ST
+
+
+71, 1	200, 1-8	MAB	*holiday* *oh* *yeah* wnest ti sôn am hynny	---	NST
+
+
+72, 1	201, 1-4	LIS	*oh* mae yr tŷ	NST	NST
+72, 3	203, 1-14	LIS	*well* sa i yn *sure* ble mae ni yn aros dros yr haf eto	NST	NST
+72, 4	205, 1-2	LIS	ond mae	NSNT	NSNT
+72, 5	206, 1-6	LIS	o't ti wedi cwrdd â *Lily*	NST	NST
+72, 6	207, 1-1	LIS	est	NSNT	NSNT
+72, 7	207, 2-8	LIS	dest ti i tŷ hi gyda fi	---	NSNT
+
+
+73, 1	209, 1-1	MAB	wnaeth	NSNT	NSNT
+73, 2	209, 2-7	MAB	*just* oedden ni yn llofft *Kristen*	NST	NST
+73, 3	209, 8-13	MAB	pan ddoth hi i ddeud *hello*	---	NST
+
+
+74, 1	210, 1-3	LIS	ti meddwl hynny	---	NSNT
+
+
+75, 1	211, 1-3	MAB	dw i *sure*	---	NST
+
+
+76, 1	212, 1-5	LIS	o'n i *just* yn siarad	---	NST
+
+
+77, 1	213, 1-2	MAB	mae gynno	NSNT	NSNT
+77, 2	213, 3-6	MAB	mae gynno hi *car*	NST	NST
+77, 3	213, 7-7	MAB	does	NSNT	NSNT
+77, 4	214, 1-5	MAB	ac oedd hi yn deud	NSNT	NSNT
+77, 5	214, 6-13	MAB	bod hi yn gael trafferthion efo yr *car*	---	NST
+
+
+78, 1	215, 1-2	LIS	gwallt tywyll	---	NSNT
+
+
+79, 1	218, 1-4	MAB	*yeah* dw i wedi	---	NST
+
+
+80, 1	219, 1-14	LIS	*yeah* hi yw fel un o ffrindiau gorau fi yn ar hyn o bryd	---	NST
+
+
+81, 1	220, 1-2	MAB	yn cofio	NSNT	NSNT
+81, 2	222, 1-10	MAB	un unwaith ond really really sydyn ydw i cyfarfod hi	NSNT	SNT
+81, 3	224, 1-5	MAB	*so* mae yn hawdd anghofio	---	NST
+
+
+82, 1	225, 1-10	LIS	*oh* falle bydd hi yn dod i *Cheshire_Oaks* gyda ni	---	NST
+
+
+83, 1	226, 1-1	MAB	*cool*	---	NST
+
+
+84, 1	227, 1-3	LIS	os ti isie	---	NSNT
+
+
+85, 1	228, 1-5	MAB	*yeah* *well* more the merrier	---	NST
+
+
+86, 1	229, 1-8	LIS	*oh* oedd hi yn meddwl falle *Wrexham* hefyd	---	NST
+
+
+87, 1	230, 1-7	MAB	*yeah* o'n i isio mynd i *Wrexham*	---	NST
+
+
+88, 1	231, 1-7	LIS	achos mae hwnna gyda *Primark* a *stuff*	---	NST
+
+
+89, 1	232, 1-4	MAB	*yeah* because mae *um*	NST	ST
+89, 2	232, 5-8	MAB	mae ffrindiau fi *Catherine*	NST	NST
+89, 3	232, 9-15	MAB	mae hi mynd i *Wrexham* *right* aml	NST	NST
+89, 4	233, 1-7	MAB	mae hi meddwl mynd i fan yna	SNT	NSNT
+89, 5	234, 1-13	MAB	because mae hi angen *frock* hefyd i fynd i yr un un peth	NST	ST
+89, 6	234, 14-20	MAB	ydw i yn mynd yn mis Mai	NSNT	NSNT
+89, 7	235, 1-1	MAB	wedyn	---	NSNT
+
+
+90, 1	236, 1-5	LIS	achos dw i isio *frock*	NST	NST
+90, 2	236, 6-14	LIS	sy ddim fel dim fel *proper* dressy uppy fath	NST	ST
+90, 3	238, 1-10	LIS	ond rhywbeth sy yn really *nice* ar_gyfer priodas ond dim	NST	ST
+90, 4	240, 1-8	LIS	rhywbeth sy yn paso yn daywear and eveningwear	NSNT	SNT
+90, 5	242, 1-2	LIS	in one	---	NSNT
+
+
+91, 1	243, 1-7	MAB	and sydd ddim yn *Cinderella* *type* peth	---	ST
+
+
+92, 1	244, 1-7	LIS	*yeah* *so* sa i isio ballgown dress	---	ST
+
+
+93, 1	245, 1-1	MAB	ynde	---	NSNT
+
+
+94, 1	246, 1-9	LIS	mi o'n i mynd i fynd am ballgown dress	SNT	SNT
+94, 2	248, 1-7	LIS	ond dw i isie fel flowy dress	SNT	SNT
+94, 3	250, 1-13	LIS	a falle gyda *top* yn y noswaith fyddai yn dress_o fe lan mwy	---	ST
+
+
+95, 1	252, 1-7	MAB	*well* dyna be o'n i yn meddwl	NST	NST
+95, 2	253, 1-12	MAB	yn hytrach na gael *frock* fyswn i yn gael sgert a *top*	NST	NST
+95, 3	254, 1-5	MAB	achos dw i yn tueddu	NSNT	NSNT
+95, 4	254, 6-15	MAB	i bod yn maint gwahanol yn *top* a gwaelod rywsut	---	NST
+
+
+96, 1	255, 1-6	LIS	*mmm* mae isie fi gael rhywbeth	NST	NST
+96, 2	255, 7-17	LIS	sy fel yn ambell waith tamaid bach fwy yn y *top*	NST	NST
+96, 5	258, 1-11	LIS	fi *just* yn dibynnu ar y *style* though yn y diwedd	NST	ST
+96, 6	260, 1-6	LIS	*so* be sy gael yn *Wrexham*	NST	NST
+96, 7	261, 1-4	LIS	mae *Primark* i gael	NST	NST
+96, 8	261, 5-6	LIS	oes e	---	NSNT
+
+
+97, 1	262, 1-8	MAB	mae gynno nhw pretty much popeth ti angen	NSNT	SNT
+97, 2	263, 1-5	MAB	dw i ddim yn *sure*	NST	NST
+97, 3	263, 6-13	MAB	os oes gynno nhw rhai o yr *siopau*	NST	NST
+97, 4	263, 14-18	MAB	timod mwy *boutiques* fath â	NST	NST
+97, 5	263, 19-25	MAB	timod fath â *Oasis* a pethau felly	NST	NST
+97, 6	264, 1-5	MAB	dw i ddim yn *sure*	NST	NST
+97, 7	265, 1-6	MAB	achos mae rheina i_gyd yn Gaer	---	NSNT
+
+
+98, 1	266, 1-4	LIS	*Oasis* yn drud though	---	ST
+
+
+99, 1	267, 2-3	MAB	mae o	NSNT	NSNT
+99, 2	268, 1-4	MAB	ond *um* mae gynno	NST	NST
+99, 3	268, 5-11	MAB	mae gynno nhw *Tesco* anferth yna hefyd	NST	NST
+99, 4	268, 13-13	MAB	digwydd	NSNT	NSNT
+99, 5	268, 14-14	MAB	bod	SNT	NSNT
+99, 6	269, 1-11	MAB	because o'n i yn o'n i yn gwaith diwrnod o_blaen a	---	SNT
+
+
+100, 1	270, 1-4	LIS	fel *Tesco* fan hyn	---	NST
+
+
+101, 1	271, 1-10	MAB	*Tesco_Extra* *yeah* fel fel yr un sydd yn fan hyn	ST	NST
+101, 2	272, 1-15	MAB	because o'n oedd *um* un o *bosses* fi yn dangos yr yr cyfrifiadur i fi	NST	ST
+101, 3	273, 1-17	MAB	ac oedd o yn dangos fath â y siopau *Extra* eraill sydd yn agos aton ni felly	NST	NST
+101, 4	274, 1-5	MAB	ac oedd *Wrexham* i_lawr yno	---	NST
+
+
+102, 1	276, 1-4	LIS	Caerdydd gyda un massive	---	SNT
+
+
+103, 1	277, 1-7	MAB	*yeah* dw i wedi clywed am hwnna	---	NST
+
+
+104, 1	278, 1-3	LIS	achos dw i	NSNT	NSNT
+104, 2	278, 4-7	LIS	wedi bod yn hwnna	NSNT	NSNT
+104, 3	278, 8-13	LIS	pan oedd chwaer fi yn *um*	NST	NST
+104, 4	279, 1-4	LIS	*er* dywedais i byth	NST	NST
+104, 5	280, 1-7	LIS	aeth hi mewn i ysbyty yn *Heath*	---	NST
+
+
+105, 1	281, 3-4	MAB	wnest ti	---	NSNT
+
+
+106, 1	282, 1-9	LIS	*yeah* *so* aethon ni i yr *Tesco_Extra* pryd hynny	ST	NST
+106, 2	283, 1-1	LIS	massive	---	NSNT
+
+
+107, 1	284, 1-2	MAB	*ah* mae	NST	NST
+107, 2	284, 3-3	MAB	mae	NSNT	NSNT
+107, 3	284, 4-13	MAB	mae cariad *um* cefnder fi yn byw *right* wrth ymyl	NST	NST
+107, 4	285, 1-3	MAB	*well* oedd hi	NST	NST
+107, 5	286, 1-8	MAB	mae hi wedi symud yn_ôl o Gaerdydd wan	NSNT	NSNT
+107, 6	286, 9-9	MAB	digwydd	NSNT	NSNT
+107, 7	286, 10-10	MAB	bod	NSNT	NSNT
+107, 8	287, 1-8	MAB	ond oedd hi yn byw *right* wrth ymyl	---	NST
+
+
+108, 1	288, 1-3	LIS	*yeah* mae *Marvin*	NST	NST
+108, 2	289, 1-7	LIS	dw i *sure* fod wedi siarad amboutu	NST	NST
+108, 3	290, 1-6	LIS	ond mae fo byw yna hefyd	---	NSNT
+
+
+109, 1	291, 3-5	MAB	wnest ti ddeud	NSNT	NSNT
+109, 2	292, 1-4	MAB	fo ydy yr un	NSNT	NSNT
+109, 3	292, 5-6	MAB	oedd efo	NSNT	NSNT
+109, 4	292, 7-19	MAB	oedd yna llun ohono fo ar y wal yn yn tŷ *yeah* *yeah*	---	NST
+
+
+110, 1	293, 1-4	LIS	un o yr rhai	SNT	NSNT
+110, 2	295, 1-11	LIS	because oedd fel dau dau neu tri o nhw lan yna	NSNT	SNT
+110, 3	296, 1-7	LIS	ond *um* *oh* mae fo yn lovely	ST	ST
+110, 4	298, 1-12	LIS	mae nhw isio i fi mynd ar gwyliau gyda nhw eleni fel	---	NSNT
+
+
+111, 1	299, 1-2	MAB	i le	---	NSNT
+
+
+112, 1	300, 1-4	LIS	*um* *just* bant rhywle	NST	NST
+112, 2	301, 1-10	LIS	ond dw i mynd yn barod gyda *Lily* a *Kristen*	NST	NST
+112, 3	303, 1-6	LIS	*so* dw i wedi dweud na	NST	NST
+112, 4	304, 1-7	LIS	achos sa i yn gallu fforddio dwy	---	NSNT
+
+
+113, 1	305, 1-6	MAB	na na faswn i ddim chwaith	---	NSNT
+
+
+114, 1	307, 1-7	LIS	o'n i yn meddwl dylen nhw dod	NSNT	NSNT
+114, 2	308, 1-8	LIS	dylen ni *just* i_gyd mynd fel *group* mawr	NST	NST
+114, 4	310, 1-6	LIS	ond mae *Marvin* yn ofn *Kristen*	NST	NST
+114, 5	311, 1-9	LIS	achos oedd hi yn trio fe ymlaen gyda fo	NSNT	NSNT
+114, 6	311, 10-14	LIS	pan oedd hi wedi meddwi	NSNT	NSNT
+114, 8	313, 1-6	LIS	*so* *so* *so* fodlon gyda hwnna	---	NST
+
+
+115, 1	314, 1-2	MAB	*oh* *dear*	ST	NST
+115, 2	315, 1-5	MAB	*oh* o'n i *just* meddwl	NST	NST
+115, 3	316, 1-9	MAB	dw i isio mynd i *Mexico* ar y gwyliau	NST	NST
+115, 4	317, 1-6	MAB	achos mae ffrindiau fi yno *Cuthbert*	NST	NST
+115, 5	318, 1-6	MAB	neu ti ddim wedi cyfarfod o	NSNT	NSNT
+115, 6	319, 1-1	MAB	meddwl	NSNT	NSNT
+115, 7	319, 2-3	MAB	bod ella	NSNT	NSNT
+115, 8	319, 4-10	MAB	bod fi wedi dangos llun ohono fo	---	NSNT
+
+
+116, 1	320, 1-5	LIS	ti wedi siarad amboutu fo	---	NSNT
+
+
+117, 1	322, 1-1	MAB	be	---	NSNT
+
+
+118, 1	323, 1-7	LIS	ti wedi siarad amboutu fo gyda fi	---	NSNT
+
+
+119, 1	324, 1-4	MAB	*yeah* o'n i meddwl	NST	NST
+119, 2	325, 1-8	MAB	ond fan yna faswn i yn gallu mynd	NSNT	NSNT
+119, 3	326, 1-15	MAB	petai fi llwyth o bres faswn i yn gael flight drosodd i *Mexico* dim *problem*	NST	ST
+119, 4	328, 1-14	MAB	fasai hynna mor ddrud i fynd *er* am ar awyren mor bell â hynna	---	NST
+
+
+120, 1	331, 1-15	LIS	faswn i yn hoffi mynd i *um* i *um* be chi yn galw i *America*	NST	NST
+120, 2	332, 1-7	LIS	hyd_yn_oed bod e mor commercialised a *stuff*	---	ST
+
+
+121, 1	333, 1-6	MAB	faswn i licio mynd i Efrog_Newydd	NSNT	NSNT
+121, 2	335, 1-4	MAB	*yeah* *er* i siopa	NST	NST
+121, 3	337, 1-8	MAB	*oh* a mynd a fyny ar Empire_State building	---	ST
+
+
+122, 1	339, 1-13	LIS	mynd lawr mynd draw am *just* penwythnos *just* siopa a wedyn dod nôl	NST	NST
+122, 2	341, 1-8	LIS	fyddwn i byth yn hoffi byw yna though	SNT	SNT
+122, 3	343, 1-7	LIS	mae yn completely fel overcustomised yn_dyw e	---	SNT
+
+
+123, 1	344, 1-5	MAB	faswn i gallu byw yna	NSNT	NSNT
+123, 2	345, 1-6	MAB	mae o yn rhy *er* *um*	---	NST
+
+
+124, 1	346, 1-1	LIS	commercial	---	NSNT
+
+
+125, 1	347, 1-2	MAB	industrial ella	NSNT	SNT
+125, 2	348, 1-2	MAB	mae yna	NSNT	NSNT
+125, 3	348, 4-5	MAB	mae yna	NSNT	NSNT
+125, 4	348, 6-9	MAB	mae yna fath â	---	NSNT
+
+
+126, 1	349, 1-8	LIS	Prydain troi ffordd yna nawr though yn_dyw e	---	SNT
+
+
+127, 1	351, 1-5	MAB	a mae yn afiach yn	NSNT	NSNT
+127, 2	351, 6-6	MAB	gaea	NSNT	NSNT
+127, 3	352, 1-3	MAB	timod fath â	NSNT	NSNT
+127, 4	352, 4-12	MAB	pan mae nhw yn gael *lot* o eira yna	NST	NST
+127, 5	353, 1-8	MAB	ond mae *just* yn troi yn slush afiach	---	ST
+
+
+128, 1	354, 1-2	LIS	yn slush	---	SNT
+
+
+129, 1	355, 1-4	MAB	achos mae o yn	NSNT	NSNT
+129, 2	355, 5-6	MAB	mae yna	NSNT	NSNT
+129, 3	355, 7-7	MAB	mae	NSNT	NSNT
+129, 4	355, 8-8	MAB	dydy	NSNT	NSNT
+129, 5	355, 9-13	MAB	dydy o byth yn eistedd	NSNT	NSNT
+129, 6	355, 14-15	MAB	nag ydy	NSNT	NSNT
+129, 7	356, 1-14	MAB	fath â yn ganol nos mae yna dal llwyth o bobl yn cerdded o_gwmpas	NSNT	NSNT
+129, 8	358, 1-6	MAB	mae yna *taxis* yn bob man	NST	NST
+129, 10	361, 1-8	MAB	*so* fasai eira methu gael *chance* i setlo	NST	NST
+129, 11	361, 9-10	MAB	na fasai	---	NSNT
+
+
+130, 1	362, 1-8	LIS	*oh* byddwn i yn love_io mynd i *Hawaii*	NST	ST
+130, 2	364, 1-4	LIS	syrffio fan yna hefyd	---	NSNT
+
+
+131, 1	365, 1-8	MAB	*oh* fasai ti gallu mynd i *yeah* *Honolulu*	NST	NST
+131, 2	366, 1-10	MAB	a fysen ni yn gallu mynd i weld yr *um*	---	NST
+
+
+132, 1	367, 1-7	LIS	*oh* o'n i yn arfer darllen *um*	NST	NST
+132, 2	368, 1-7	LIS	wyt ti byth yn darllen y llyfrau	NSNT	NSNT
+132, 3	369, 1-7	LIS	*oh* sa i yn cofio enwau nhw	NST	NST
+132, 4	370, 1-10	LIS	llyfrau i yn arfer darllen pan o'n i yn plant	NSNT	NSNT
+132, 5	371, 1-11	LIS	fel yn y *Babysitter's_Club* fath o range o llyfrau o'n nhw	NST	ST
+132, 6	373, 1-7	LIS	*Sweet_Valley_High* neu rhywbeth fel yna oedd o	---	NST
+
+
+133, 1	374, 1-5	MAB	o'n i yn ddarllen hwnna	NSNT	NSNT
+133, 3	376, 1-3	MAB	efo yr twins	SNT	SNT
+133, 4	378, 1-2	MAB	*yeah* *aww*	---	NST
+
+
+134, 1	379, 1-3	LIS	*ah* oedd un	NST	NST
+134, 2	379, 4-10	LIS	aethon nhw ar gwyliau i *um* *Hawaii*	---	NST
+
+
+135, 1	380, 1-6	MAB	*oh* dydy hynna ddim yn fair	ST	ST
+135, 2	381, 1-7	MAB	dw i ddim yn cofio darllen hwnna	---	NSNT
+
+
+136, 1	382, 1-9	LIS	a *um* wnaeth un o yr *um* volcanoes explode_o	---	ST
+
+
+137, 1	383, 1-5	MAB	*yeah* mae yna un *Mauna_Loa*	NST	NST
+137, 2	383, 6-8	MAB	dw i meddwl	---	NSNT
+
+
+138, 1	384, 1-2	LIS	ond dim_ond	NSNT	NSNT
+138, 2	385, 1-6	LIS	oedd hi dim ond yn meddwl	NSNT	NSNT
+138, 3	385, 7-8	LIS	oedd o	NSNT	NSNT
+138, 4	386, 1-10	LIS	*j_c_b* yn siglo yr mynydd oedd o yn y diwedd	---	NST
+
+
+139, 1	388, 1-3	MAB	*aww* dw i	NST	NST
+139, 2	388, 4-15	MAB	dw i o'n i o'n i wedi anghofio am y llyfrau yna	NSNT	NSNT
+139, 3	389, 1-12	MAB	o'n i arfer darllen loads o nhw pan o'n i yn fach	---	SNT
+
+
+140, 1	390, 1-8	LIS	*Babysitter's_Club* o'n i yn arfer darllen loads o	---	ST
+
+
+141, 1	391, 1-3	MAB	a wnes i	---	NSNT
+
+
+142, 1	392, 1-14	LIS	o'n i isie oedd fi a ffrind fi bron â dechrau babysitters *club* lan	---	ST
+
+
+143, 1	394, 1-2	MAB	mae yna	NSNT	NSNT
+143, 2	394, 3-4	MAB	mae yna	NSNT	NSNT
+143, 3	394, 5-12	MAB	mae yna raglen ar y teledu wan *Babysitter's_Club*	NST	NST
+143, 4	395, 1-6	MAB	ond mae nhw i_gyd yn *Australian*	NST	NST
+143, 5	397, 1-9	MAB	ydyn nhw yn *Australian* yn y yn y llyfr	---	NST
+
+
+144, 1	398, 1-5	LIS	na mae nhw yn Saesneg	---	NSNT
+
+
+145, 1	399, 1-6	MAB	dyna be o'n i yn feddwl	---	NSNT
+
+
+146, 1	401, 1-2	LIS	dyna yr	NSNT	NSNT
+146, 2	401, 3-8	LIS	dyna yr *thing* though gyda fel	NST	ST
+146, 3	402, 2-4	LIS	mae fel *Harry_Potter*	NST	NST
+146, 4	403, 1-5	LIS	fel *British* writer oedd hi	NST	ST
+146, 5	405, 1-6	LIS	ond fel American production yw e	NSNT	SNT
+146, 6	407, 1-9	LIS	*Lion_King* mae *C_S_Lewis* yn *British* writer American production eto	NST	ST
+146, 7	408, 1-7	LIS	mae nhw yn steal_o *ideas* Britain i_gyd	---	ST
+
+
+147, 1	410, 1-3	MAB	y peth ydy	NSNT	NSNT
+147, 2	410, 4-12	MAB	mae gynno nhw arian i bacio yr *films* i_fyny	NST	NST
+147, 3	410, 13-13	MAB	does	---	NSNT
+
+
+148, 1	411, 1-7	LIS	gynno nhw arian i gwastraffu ar dim_byd	---	NSNT
+
+
+149, 1	412, 1-4	MAB	I mean yr unig	NSNT	SNT
+149, 2	414, 1-16	MAB	*oh* na *er* *just* yn meddwl yr unig ffilmiau sy yn gael eu wneud yn Prydain	NST	NST
+149, 3	414, 17-19	MAB	ydy rai *Working_Title*	NST	NST
+149, 4	415, 1-11	MAB	hwnna ydy yr unig cwmni *film* mawr sydd yn wlad yma	NST	NST
+149, 5	416, 1-8	MAB	wedyn mae nhw wneud rhai Brit flicks i_gyd	SNT	SNT
+149, 6	418, 1-1	MAB	*Love_Actually*	---	NST
+
+
+150, 1	419, 1-7	LIS	dim Prydain Prydain wnaeth *um* *Green_Street* yn_dyfe	---	NST
+
+
+151, 1	420, 1-6	MAB	*yeah* dw i ddim yn *sure*	---	NST
+
+
+152, 1	421, 1-4	LIS	oedd hwnna yn dda	---	NSNT
+
+
+153, 1	422, 1-2	MAB	oedd hwnna	---	NSNT
+
+
+154, 1	423, 1-16	LIS	a fel *Sin_City* a *lot* o yr *stuff* fel yna sy fel yn rhai really gwahanol	---	ST
+
+
+155, 1	424, 1-1	MAB	*Sin_City*	---	NST
+
+
+156, 1	425, 1-5	LIS	dw i meddwl taw Prydain	NSNT	NSNT
+156, 2	425, 6-10	LIS	oedd rhan fwyaf o rheina	---	NSNT
+
+
+157, 1	427, 1-9	MAB	na na mae Prydain yn well am pethau independent	SNT	SNT
+157, 2	428, 1-2	MAB	ond timod	NSNT	NSNT
+157, 3	428, 3-3	MAB	mae	NSNT	NSNT
+157, 4	428, 4-4	MAB	mae	NSNT	NSNT
+157, 5	428, 5-11	MAB	mae *America* mwy blockbustery *type* pethau felly	---	ST
+
+
+158, 1	429, 1-2	LIS	pethau gwahanol	NSNT	NSNT
+158, 2	430, 1-5	LIS	mae Americans yn mwy commercial	---	SNT
+
+
+159, 1	431, 1-7	MAB	mae nhw yn ofnadwy am pethau commercial	---	SNT
+
+
+160, 1	432, 1-6	LIS	a wedyn mae rhai Prydain i_gyd	NSNT	NSNT
+160, 2	433, 1-15	LIS	pan chi actually gwylio nhw mae *lot* o nhw yn ffilmiau *lot* gwell yn diwedd	---	ST
+
+
+161, 1	435, 1-3	MAB	yr yr unig	---	NSNT
+
+
+162, 1	436, 1-5	LIS	ti wedi gweld *Corpse_Bride* *Tim_Burton*	---	NST
+
+
+163, 1	437, 1-6	MAB	na mae yn edrych yn brill	---	SNT
+
+
+164, 1	438, 1-4	LIS	mae yn really dda	---	SNT
+
+
+165, 1	439, 1-5	MAB	mae *Tim_Burton* yn *foy* da	---	NST
+
+
+166, 1	440, 1-2	LIS	really weird	---	NSNT
+
+
+167, 1	441, 1-1	MAB	yndw	NSNT	NSNT
+167, 2	441, 2-5	MAB	dw i licio fo	---	NSNT
+
+
+168, 1	442, 1-7	LIS	a wneud o yn really dda wedyn	---	SNT
+
+
+169, 1	444, 1-3	MAB	ydy o yn	---	NSNT
+
+
+170, 1	445, 1-5	LIS	*Charlie_and_the_Chocolate_Factory* oedd hwnna yn awesome	ST	ST
+170, 2	447, 1-6	LIS	hwnna un arall *Roald_Dahl* *British* writer	NST	ST
+170, 3	449, 1-3	LIS	there you go	---	NSNT
+
+
+171, 1	450, 1-6	MAB	*well* actually mae o yn Gymro	NST	ST
+171, 2	451, 1-8	MAB	oedd wedi tyfu fyny yn Gaerdydd beth bynnag	NSNT	NSNT
+171, 3	453, 1-5	MAB	yn *Llandaf* *right* wrth ymyl	---	NST
+
+
+172, 1	454, 1-4	LIS	a *Enid_Blyton* *British* writer	ST	ST
+172, 2	456, 1-2	LIS	dyna beth	NSNT	NSNT
+172, 3	456, 3-7	LIS	mae Prydain yn dda am	---	NSNT
+
+
+173, 1	457, 1-1	MAB	ysgrifennu	SNT	NSNT
+173, 2	459, 1-1	MAB	*lot*	---	NST
+
+
+174, 1	460, 1-2	LIS	fel poets	---	SNT
+
+
+175, 1	461, 1-3	MAB	dw i yn	NSNT	NSNT
+175, 2	461, 4-13	MAB	dw i yn hoffi rhai o yr *um* llyfrau American	ST	ST
+175, 3	462, 1-3	MAB	dw i wedi	NSNT	NSNT
+175, 4	462, 4-13	MAB	wnes i ddarllen *To_Kill_a_Mockingbird* pan o'n i yn tua pymtheg	NST	NST
+175, 5	464, 1-2	MAB	i t_g_a_u	NSNT	NSNT
+175, 6	465, 1-6	MAB	a oedd hwnna yn un da	---	NSNT
+
+
+176, 1	466, 1-5	LIS	ydy *Shakespeare* yn *British* hefyd	---	NST
+
+
+177, 1	467, 1-3	MAB	*oh* yndy *sure*	---	NST
+
+
+178, 1	468, 1-4	LIS	o'n i meddwl hynny	NSNT	NSNT
+178, 3	470, 1-10	LIS	o'n i *just* yn bod yn really blonde wedyn hynny	---	ST
+
+
+179, 1	471, 1-6	MAB	*oh* na *yeah* mae *Shakespeare* *er*	NST	NST
+179, 2	471, 7-8	MAB	oedd o	NSNT	NSNT
+179, 3	472, 1-4	MAB	dw i yn meddwl	NSNT	NSNT
+179, 4	472, 5-13	MAB	oedd o yn byw fath â *Stratford_upon_Avon* am hir	NST	NST
+179, 5	473, 1-4	MAB	*so* mae o yn	NST	NST
+179, 6	473, 5-9	MAB	mae o yn Saesneg go_wir	NSNT	NSNT
+179, 7	474, 1-5	MAB	oedd o yn fath â	NSNT	NSNT
+179, 8	474, 6-16	MAB	oedd o yn in with the *queen* a ballu fath â	ST	ST
+179, 9	476, 1-4	MAB	because dw i meddwl	NSNT	SNT
+179, 10	476, 5-10	MAB	pan oedd *Elizabeth* y cyntaf o_gwmpas	NST	NST
+179, 11	476, 11-14	MAB	wnaeth o ddechrau ysgfriennu	NSNT	NSNT
+179, 12	476, 15-16	MAB	oes yna	NSNT	NSNT
+179, 13	478, 1-3	MAB	a wedyn oedd	NSNT	NSNT
+179, 14	478, 4-17	MAB	oedd o fath â honorary fath â writer of the *queen* neu rywbeth felly	---	ST
+
+
+180, 1	479, 1-7	LIS	*yeah* smo hwnna yn surprise_o fi o_gwbl	---	ST
+
+
+181, 1	481, 1-4	MAB	na wedyn dw i	NSNT	NSNT
+181, 2	481, 5-7	MAB	dw i *sure*	NST	NST
+181, 3	481, 8-9	MAB	wnaeth o	---	NSNT
+
+
+182, 1	482, 1-3	LIS	dw i meddwl	NSNT	NSNT
+182, 2	482, 4-10	LIS	mae fe tamaid bach yn overrated though	---	SNT
+
+
+183, 1	483, 1-6	MAB	dw i ddim yn licio popeth	NSNT	NSNT
+183, 2	483, 7-10	MAB	mae *Shakespeare* yn wneud	NST	NST
+183, 3	484, 1-5	MAB	ond mae o yn *just*	---	NST
+
+
+184, 1	485, 1-4	LIS	dw i yn meddwl	NSNT	NSNT
+184, 2	485, 5-9	LIS	mae fe yn messed up	NSNT	SNT
+184, 4	487, 1-3	LIS	really messed up	---	NSNT
+
+
+185, 1	488, 1-3	MAB	y peth ydy	NSNT	NSNT
+185, 2	488, 4-7	MAB	mae bob un *person*	NST	NST
+185, 3	488, 8-12	MAB	sy yn sgwennu rywbeth da	NSNT	NSNT
+185, 4	489, 1-3	MAB	mae yna ryw	NSNT	NSNT
+185, 5	489, 4-10	MAB	mae yna ryw fath o *issues* yna	---	NST
+
+
+186, 1	490, 1-1	LIS	*Sin_City*	ST	NST
+186, 2	492, 1-4	LIS	ti wedi gwylio hwnna	---	NSNT
+
+
+187, 1	493, 1-7	MAB	dw i heb weld o i_gyd na	---	NSNT
+
+
+188, 1	494, 1-9	LIS	mae yn really dda ond really messed up eto	NSNT	SNT
+188, 2	496, 1-9	LIS	fel hanner y *film* sy yn dod mas nowadays	---	ST
+
+
+189, 1	498, 1-4	MAB	a sut ti yn	NSNT	NSNT
+189, 2	499, 1-14	MAB	ti ddim yn meddwl bod ffilmiau i weld yn *lot* mwy fath â tywyll	---	NST
+
+
+190, 1	500, 1-1	LIS	*deep*	ST	NST
+190, 2	502, 1-2	LIS	fel *Donnie_Darko*	NST	NST
+190, 3	503, 1-5	LIS	dw i yn love_o hwnna	---	SNT
+
+
+191, 1	504, 1-3	MAB	*oh* mae hwnna	NST	NST
+191, 2	504, 4-7	MAB	mae hwnna yn fab	SNT	SNT
+191, 3	505, 1-4	MAB	dw i yn licio	NSNT	NSNT
+191, 4	505, 5-5	MAB	mae	NSNT	NSNT
+191, 5	505, 6-6	MAB	yr	NSNT	NSNT
+191, 6	505, 7-8	MAB	mae yr	---	NSNT
+
+
+192, 1	506, 1-8	LIS	mae fe gyda fi ar *d_v_d* a *video*	---	NST
+
+
+193, 1	507, 1-2	MAB	mae *Frank*	NST	NST
+193, 2	507, 3-11	MAB	mae *Frank* y bunny yn *just* mor fath â	ST	ST
+193, 3	509, 1-1	MAB	creepy	---	NSNT
+
+
+194, 1	510, 1-4	LIS	mae yn awesome though	---	SNT
+
+
+195, 1	513, 1-6	MAB	*ah* o'n i trio meddwl wan	---	NST
+
+
+196, 1	515, 1-6	LIS	dw isie mynd i *um* Sbaen	NST	NST
+196, 2	516, 1-7	LIS	achos fydden i yn love_o dysgu Sbaeneg	---	SNT
+
+
+197, 1	517, 1-1	MAB	Sbaen	NSNT	NSNT
+197, 2	518, 1-5	MAB	*yeah* dw i wedi meddwl	---	NST
+
+
+198, 1	519, 1-1	LIS	achos	---	NSNT
+
+
+199, 1	520, 1-3	MAB	dw i am	NSNT	NSNT
+199, 2	520, 4-11	MAB	dw i am ddysgu Ffrangeg eto blwyddyn nesa	NSNT	NSNT
+199, 3	521, 1-3	MAB	dw i penderfynu	---	NSNT
+
+
+200, 1	522, 1-3	LIS	i wedi meddwl	NSNT	NSNT
+200, 2	523, 1-9	LIS	o'n i casáu Ffrangeg pan o'n i wneud e	---	NSNT
+
+
+201, 1	524, 1-6	MAB	*oh* na o'n i licio fo	---	NST
+
+
+202, 1	525, 1-7	LIS	holl amser o'n i byth wedi hoffi	---	NSNT
+
+
+203, 1	526, 1-8	MAB	faswn i ddim yn meindio wneud Sbaeneg hefyd	NSNT	NSNT
+203, 2	527, 1-5	MAB	ond mae nhw yn deud	NSNT	NSNT
+203, 3	528, 1-1	MAB	wnaeth	NSNT	NSNT
+203, 4	528, 2-5	MAB	wnaeth ffrindiau fi *um*	NST	NST
+203, 5	529, 1-6	MAB	*Serena* mae hi yn *um* Hungarian	ST	ST
+203, 6	530, 1-11	MAB	a mae hi yn dysgu Ffrangeg a Sbaeneg ar y funud	NSNT	NSNT
+203, 8	534, 1-3	MAB	Eidaleg a Sbaeneg	NSNT	NSNT
+203, 9	535, 1-5	MAB	ond mae hi yn deud	NSNT	NSNT
+203, 10	535, 6-16	MAB	mae *lot* o yr pobl sydd yn wneud ieithoedd efo hi	NST	NST
+203, 11	535, 17-19	MAB	mae nhw yn	NSNT	NSNT
+203, 12	535, 20-24	MAB	mae nhw wedi dysgu Ffrangeg	NSNT	NSNT
+203, 13	536, 1-10	MAB	a wedyn dydyn nhw ddim yn licio ddysgu Sbaeneg wedyn	NSNT	NSNT
+203, 14	537, 1-1	MAB	achos	---	NSNT
+
+
+204, 1	539, 1-14	LIS	dw i dim ond wedi wneud Ffrangeg lan i flwyddyn naw *so* dim really	---	ST
+
+
+205, 1	540, 1-12	MAB	*oh* na wnes i wneud Ffrangeg fyny at blwyddyn un_ar_ddeg neu t_g_a_u	NST	NST
+205, 2	541, 1-8	MAB	ac o'n i yn meddwl gwneud *level* A	NST	NST
+205, 3	542, 1-3	MAB	o'n i meddwl	NSNT	NSNT
+205, 4	543, 1-8	MAB	*well* be dw i am wneud efo fo	NST	NST
+205, 5	544, 1-3	MAB	ond dw i	NSNT	NSNT
+205, 6	544, 4-9	MAB	dw i yn difaru rŵan felly	SNT	NSNT
+205, 7	545, 1-10	MAB	because faswn i wedi gallu gwneud hwnna yn lle hanes	NSNT	SNT
+205, 8	546, 1-3	MAB	dw ddim gwybod	---	NSNT
+
+
+206, 1	548, 1-7	LIS	dyna un peth o'n i isio wneud	NSNT	NSNT
+206, 2	548, 8-15	LIS	oedd *um* hanes a cerddoriaeth yn *level* A	NST	NST
+206, 3	549, 1-11	LIS	ond *um* wnes i ddim un o nhw yn y diwedd	---	NST
+
+
+207, 1	550, 1-3	MAB	wnes i wneud	---	NSNT
+
+
+208, 1	551, 1-6	LIS	o'n i really isio wneud cerddoriaeth	---	SNT
+
+
+209, 1	552, 1-3	MAB	be wnes i	NSNT	NSNT
+209, 2	553, 1-6	MAB	hanes seicoleg a *um* llenyddiaeth Saesneg	NST	NST
+209, 3	554, 1-5	MAB	oedd hwnna yn dda actually	---	SNT
+
+
+210, 1	555, 1-7	LIS	wnes i seicoleg *maths* cemeg a photography	---	ST
+
+
+211, 1	556, 1-7	MAB	*ah* wnes i wneud cemeg am a_s	---	ST
+
+
+212, 1	557, 1-5	LIS	*yeah* photography oedd a_s fi	---	ST
+
+
+213, 1	559, 1-4	MAB	o'n i wedi meddwl	---	NSNT
+
+
+214, 1	560, 1-10	LIS	dw i yn ffindio yr *maths* yn useful nawr though	ST	ST
+214, 2	561, 1-5	LIS	achos ar_gyfer stats a *stuff*	---	ST
+
+
+215, 1	562, 1-5	MAB	*yeah* mae o yn *help*	NST	NST
+215, 2	563, 1-3	MAB	dw i yn	NSNT	NSNT
+215, 3	563, 4-10	MAB	dw i yn drysu efo stats weithiau	---	SNT
+
+
+216, 1	564, 1-6	LIS	dw i yn eitha joio stats	SNT	SNT
+216, 2	565, 1-8	LIS	*so* mae hwnna yn swnio yn really *sad*	---	ST
+
+
+217, 1	566, 1-6	MAB	*yeah* wyt ti licio fo be	NST	NST
+217, 2	567, 1-2	MAB	faswn i	NSNT	NSNT
+217, 3	567, 3-10	MAB	dw i *just* ddim yn gallu mwynhau o	NST	NST
+217, 4	568, 1-4	MAB	mae o *just* rhifau	NST	NST
+217, 5	569, 1-4	MAB	dw i yn gwybod	NSNT	NSNT
+217, 6	569, 5-8	MAB	bod o yn bwysig	NSNT	NSNT
+217, 7	570, 1-11	MAB	mae rhifau yn bwysig ofnadwy fath â i bywyd a bob_dim	NSNT	NSNT
+217, 8	571, 1-7	MAB	ond dw i *just* ddim yn licio	---	NST
+
+
+218, 1	572, 1-7	LIS	*well* os dw i yn deall e	NST	NST
+218, 2	572, 8-13	LIS	dw i yn joio wneud e	NSNT	NSNT
+218, 4	574, 1-9	LIS	*just* os sa i yn deall o fel dyna	NST	NST
+218, 5	574, 10-16	LIS	pryd dw i mynd i_gyd yn confused	NSNT	SNT
+218, 6	577, 1-3	LIS	there we go	NSNT	NSNT
+218, 7	578, 1-6	LIS	all in a day's work like	---	NSNT
+
+
+219, 1	579, 1-11	MAB	*oh* ti gwybod be sy yn lle really da i fynd	NST	ST
+219, 2	580, 1-2	MAB	yr Aifft	NSNT	NSNT
+219, 3	581, 1-4	MAB	fasai hynna yn *cool*	---	NST
+
+
+220, 1	582, 1-3	LIS	mae ffrind fi	NSNT	NSNT
+220, 2	582, 4-6	LIS	wedi bod yna	SNT	NSNT
+220, 3	584, 1-1	LIS	*Lily*	ST	NST
+220, 4	586, 1-4	LIS	mae yn fynd yna	NSNT	NSNT
+220, 5	587, 1-6	LIS	aeth hi yna ar_gyfer y Nadolig	NSNT	NSNT
+220, 6	588, 1-7	LIS	aeth hi yna gyda *Kristen* flwyddyn dwythaf	NST	NST
+220, 7	590, 1-7	LIS	wnes i adael yn reading week nhw	NSNT	SNT
+220, 8	590, 8-15	LIS	aethon ni mas i yr Aifft am wythnos	---	NSNT
+
+
+221, 1	593, 1-6	MAB	*oh* *er* faswn i na because	ST	ST
+221, 2	593, 7-8	MAB	mae o	NSNT	NSNT
+221, 3	594, 1-7	MAB	mae nhw *right* wrth ymyl y Red_Sea	ST	ST
+221, 4	595, 1-5	MAB	deifio gorau yn y byd	SNT	NSNT
+221, 5	597, 1-2	MAB	diving de	NSNT	SNT
+221, 6	598, 1-9	MAB	a dw i isio mynd i weld y *pyramids*	ST	NST
+221, 7	599, 1-10	MAB	because hwnna wnaeth atgoffa fi fod yna bethau Egyptian yno	---	SNT
+
+
+222, 1	600, 1-4	LIS	*yeah* hwnna yn *cool*	---	NST
+
+
+223, 1	601, 1-3	MAB	wnes i gael	NSNT	NSNT
+223, 2	601, 4-5	MAB	wnaeth *um*	NST	NST
+223, 3	601, 6-15	MAB	wnaeth *um* *uncle* *uncle* *Lucas* a ei wraig o *Dorothy*	NST	NST
+223, 4	601, 16-23	MAB	wnaethon nhw fynd i yr Aifft blwyddyn dwytha	NSNT	NSNT
+223, 5	602, 1-10	MAB	a ddaethon nhw *um* *scroll* fath â *papyrus* *stuff* yn_ôl	NST	NST
+223, 6	603, 1-14	MAB	a oedden nhw wedi gael rywun wedi sgwennu enw fi efo *symbols* Egyptian felly	---	ST
+
+
+224, 1	604, 1-3	LIS	*yeah* aeth *um*	ST	NST
+224, 2	605, 1-4	LIS	*well* Chinese yw hwnna	NST	ST
+224, 3	606, 1-3	LIS	ond dyna fo	NSNT	NSNT
+224, 4	607, 1-9	LIS	ffrind fi wedi ysgrifennu enw fi mas yn Chinese	SNT	SNT
+224, 5	609, 1-7	LIS	ond dw i wedi colli fo nawr	---	NSNT
+
+
+225, 1	610, 1-7	MAB	*oh* na ond mae un fi yn	NST	NST
+225, 2	611, 1-4	MAB	oedd o yn dod	NSNT	NSNT
+225, 3	611, 5-17	MAB	oedd y *scroll* wedi gael ei rhoi mewn ryw fath o *tube* felly	NST	NST
+225, 4	612, 1-7	MAB	a wedyn mae patrwm ar y *tube*	NST	NST
+225, 5	613, 1-6	MAB	a be dw i am wneud	NSNT	NSNT
+225, 6	614, 1-18	MAB	dw i am gael yr y *scroll* wedi gael ei rhoi mewn ffram fath â mounted *frame* felly	---	ST
+
+
+226, 1	615, 1-1	LIS	*cool*	---	NST
+
+
+227, 1	616, 1-7	MAB	dw i wedi wneud hynny efo *lot*	NST	NST
+227, 2	617, 1-17	MAB	wnaeth Nain mynd i *um* *China* ar *um* wyliau am dipyn go_lew pan o'n i yn fychan	NST	NST
+227, 3	618, 1-11	MAB	a ddoth hi nôl efo llwyth o *um* *um* *silk* paintings	ST	ST
+227, 4	619, 1-7	MAB	a wnaeth hi gael wasgod bach yma	NSNT	NSNT
+227, 5	619, 8-21	MAB	oedd efo fath â wedi gael ei wnïo efo *dragons* a popeth arno fo	---	NST
+
+
+228, 1	620, 1-1	LIS	*cool*	---	NST
+
+
+229, 1	621, 1-4	MAB	*so* mae yn amlwg	NST	NST
+229, 2	621, 5-12	MAB	mae hwnna rhy rhy fach i fi wan	SNT	NSNT
+229, 3	622, 1-10	MAB	because o'n i yn tua pedair pan ges i fo	NSNT	SNT
+229, 4	623, 1-4	MAB	ond *um* dw i	NST	NST
+229, 6	624, 1-8	MAB	*just* dw i angen rywle i rhoi nhw	---	NST
+
+
+230, 1	625, 1-2	LIS	*ooh* *cool*	---	NST
+
+
+231, 1	626, 1-3	MAB	heb penderfynu eto	---	NSNT
+232, 2	628, 1-7	LIS	sa i yn cofio fo nawr fel	NSNT	NSNT
+232, 3	629, 1-8	LIS	ond *um* fi mor o'n nhw mor bert	NST	NST
+232, 4	631, 1-8	LIS	timod y sanau bach glas *stuff* fel yna	---	NST
+
+
+233, 1	633, 1-10	MAB	*oh* wnes i fynd i weld babi ffrindiau fi heddiw	ST	NST
+233, 2	634, 1-1	MAB	*Edward*	ST	NST
+233, 3	635, 1-5	MAB	*oh* mae o yn *oh*	NST	NST
+233, 4	635, 6-9	MAB	mae o mor fychan	NSNT	NSNT
+233, 5	636, 1-11	MAB	a mae gynno fo yr bysedd bach bach bach bach bach	NSNT	NSNT
+233, 6	637, 1-11	MAB	a mae gynno fo llygadau glas a gwallt melyn fath â	NSNT	NSNT
+233, 7	638, 1-7	MAB	mae o bron yn wyn gynno fo	NSNT	NSNT
+233, 8	639, 1-6	MAB	mae o mor olau gynno fo	---	NSNT
+
+
+234, 1	640, 1-1	LIS	*aww*	---	NST
+
+
+235, 1	641, 1-7	MAB	a mae o yn hogyn bach da	NSNT	NSNT
+235, 2	642, 1-7	MAB	a o'n i *just* yn afael o	NST	NST
+235, 3	643, 1-3	MAB	oedd o yn	NSNT	NSNT
+235, 4	643, 4-11	MAB	oedd o yn *just* eistedd yno hollol ddistaw	NST	NST
+235, 5	644, 1-6	MAB	a oedd o ddim yn symud	NSNT	NSNT
+235, 6	645, 1-7	MAB	dipyn bach i edrych o ei gwmpas	---	NSNT
+
+
+236, 1	646, 1-5	LIS	dw i byth isio plant	---	NSNT
+
+
+237, 1	647, 1-5	MAB	*oh* dw i yn gwybod	NST	NST
+237, 2	647, 6-12	MAB	dwyt ti ddim yn licio plant *Lisa*	NST	NST
+237, 3	648, 1-6	MAB	ond na ond faset ti wedi	---	NSNT
+
+
+238, 1	649, 1-3	LIS	byth isie nhw	---	NSNT
+
+
+239, 1	650, 1-6	MAB	faset ti wedi mopio ar *Edward*	NST	NST
+239, 2	651, 1-6	MAB	mae o yn *just* yn rhy	NST	NST
+239, 3	652, 1-5	MAB	mae o yn rhy ddel	---	NSNT
+
+
+240, 1	653, 1-4	LIS	*yeah* dw i yn	NST	NST
+240, 2	653, 5-6	LIS	dala nhw	NSNT	NSNT
+240, 3	654, 1-5	LIS	a wedyn dw i fel	---	NSNT
+
+
+241, 1	655, 1-4	MAB	mae o yn pert	---	NSNT
+
+
+242, 1	656, 1-6	LIS	*oh* what do I do now	---	NST
+
+
+243, 1	658, 1-8	MAB	*well* wnes i afael o am dipyn go_lew	NST	NST
+243, 2	659, 1-3	MAB	a wedyn meddwl	NSNT	NSNT
+243, 3	660, 1-5	MAB	*o_k* rhaid fynd i *toilet*	NST	NST
+243, 4	661, 1-10	MAB	*so* oedd raid mi godi a rhoi o nôl yn	NST	NST
+243, 5	662, 1-4	MAB	oedd gynno fo basgiad	NSNT	NSNT
+243, 6	663, 1-9	MAB	timod fath â *um* basgiad *Moses* *type* fath â	NST	NST
+243, 7	665, 1-3	MAB	rai fel yna	NSNT	NSNT
+243, 8	666, 1-6	MAB	oedd gynno fo un fel yna	NSNT	NSNT
+243, 9	667, 1-5	MAB	*so* wnes i roi nôl	NST	NST
+243, 10	668, 1-3	MAB	yn mor ddel	NSNT	NSNT
+243, 11	669, 1-1	MAB	bechod	NSNT	NSNT
+243, 12	670, 1-8	MAB	*yeah* a wedyn *um* wnes i gael *er*	NST	NST
+243, 13	671, 1-2	MAB	timod pan	NSNT	NSNT
+243, 14	672, 1-3	MAB	oeddet ti yn	NSNT	NSNT
+243, 15	673, 1-5	MAB	naci *Ceridwen* oedd efo fi	NST	NST
+243, 16	674, 1-8	MAB	es i *um* i nôl *bibs* iddo fo	ST	NST
+243, 17	675, 1-12	MAB	because timod ti angen *billions* o *bibs* pan gen ti babi bach	NST	ST
+243, 18	676, 1-11	MAB	a wedyn wnes i weld y esgidiau bychan bychan bychan yma	NSNT	NSNT
+243, 19	677, 1-9	MAB	rai glas a mae yr careiau bach arno bob_dim	NSNT	NSNT
+243, 20	678, 1-5	MAB	oedd raid fi gael nhw	NSNT	NSNT
+243, 21	679, 1-4	MAB	ac wnaeth *Lily* gwirioni	NST	NST
+243, 22	679, 5-8	MAB	pan wnaeth hi weld	SNT	NSNT
+243, 24	681, 1-4	MAB	*oh* you got shoes	ST	NST
+243, 25	682, 1-5	MAB	oedd hi wrth ei bodd	---	NSNT
+
+
+244, 1	683, 1-4	LIS	*aww* hynna yn *cute*	---	NST
+
+
+245, 1	684, 1-1	MAB	bechod	NSNT	NSNT
+245, 2	685, 1-2	MAB	mae esgidiau	NSNT	NSNT
+245, 3	685, 3-7	MAB	ydy peth gorau am babis	NSNT	NSNT
+245, 5	687, 1-5	MAB	mae nhw *just* really bach	---	ST
+
+
+246, 1	688, 1-6	LIS	dw i byth isie un though	SNT	SNT
+246, 2	690, 1-4	LIS	ond y peth yw	NSNT	NSNT
+246, 3	691, 1-6	LIS	o'n i meddwl amdano fe ddoe	NSNT	NSNT
+246, 4	692, 1-8	LIS	pwy sy yn mynd i gofalu amdanaf i	NSNT	NSNT
+246, 5	692, 9-19	LIS	pan dw i yn hen os sa i yn gael plant	---	NSNT
+
+
+247, 1	693, 1-8	MAB	*ha* ella wnei di wneud dy *millions* di	NST	NST
+247, 2	694, 1-8	MAB	a fydd gen ti hired *help* edrych ar_ôl	---	ST
+
+
+248, 1	695, 1-3	LIS	not the same	---	NSNT
+
+
+249, 1	697, 1-4	MAB	*mmm* na dw i	NST	NST
+249, 2	697, 5-9	MAB	dw i definitely isio plant	NSNT	SNT
+249, 3	698, 1-8	MAB	dw i yn wneud yn dda efo plant	---	NSNT
+
+
+250, 1	699, 1-8	LIS	falle byddaf i yn cwrdd â rhywun fel	NSNT	NSNT
+250, 2	699, 9-13	LIS	pan dw i yn chwech_deg	NSNT	NSNT
+250, 3	700, 1-5	LIS	a falle pan dw i	---	NSNT
+
+
+251, 1	702, 1-12	MAB	faswn licio chdi gweld trio i chdi gael plant pan ti chwech_deg	NSNT	NSNT
+251, 3	704, 1-4	MAB	mae yna rywun wedi	NSNT	NSNT
+251, 4	704, 5-5	MAB	sti	NSNT	NSNT
+251, 5	706, 1-7	MAB	o'n i yn darllen y llyfr yma	---	NSNT
+
+
+252, 1	707, 1-1	LIS	adopt_io	---	NSNT
+
+
+253, 1	708, 1-2	MAB	y ddynes	NSNT	NSNT
+253, 2	709, 1-6	MAB	*oh* *yeah* hwnna yn digon hawdd	NST	NST
+253, 3	710, 1-18	MAB	wedyn dwyt ti ddim yn gorod mynd trwy yr poen o gael y babi dy hun ond eto	---	NSNT
+
+
+254, 1	711, 1-13	LIS	dw i wedi bruise_o bys fi yn trapo fe yn y *belt* attachment	---	ST
+
+
+255, 1	712, 1-1	MAB	*aww*	ST	NST
+255, 2	713, 1-5	MAB	*ah* ti ddim *fit* wir	---	NST
+
+
+256, 1	715, 1-1	LIS	*well*	ST	NST
+256, 3	717, 1-5	LIS	mynd i yr gym ddigon	---	SNT
+
+
+257, 1	718, 1-1	MAB	digon	NSNT	NSNT
+257, 3	720, 1-3	MAB	mwy na digon	---	NSNT
+
+
+258, 1	721, 1-5	LIS	dw i yn gutted though	---	SNT
+
+
+259, 1	722, 1-1	MAB	*aww*	---	NST
+
+
+260, 1	723, 1-6	LIS	achos sa i wedi bod heddiw	NSNT	NSNT
+260, 2	724, 1-4	LIS	es i ddim ddoe	NSNT	NSNT
+260, 3	725, 1-6	LIS	a es i ddim dydd Llun	---	NSNT
+
+
+261, 1	726, 1-3	MAB	a ti meddwl	---	NSNT
+
+
+262, 1	728, 1-6	LIS	dw i yn cael withdrawal *symptoms*	---	ST
+
+
+263, 1	730, 1-3	MAB	*yeah* withdrawal *yeah*	ST	NST
+263, 2	731, 1-6	MAB	*oh* dw i yn gael hynny	NST	NST
+263, 3	731, 7-14	MAB	os dw i ddim yn mynd i kickboxing	SNT	SNT
+263, 4	732, 1-11	MAB	dw i yn gorod mynd o leia dwywaith yr wythnos neu	---	NSNT
+
+
+264, 1	733, 1-5	LIS	because dw i yn joio	NSNT	SNT
+264, 2	733, 6-11	LIS	dw i yn joio wneud e	NSNT	NSNT
+264, 3	734, 1-9	LIS	a mae fe fel yn gael gwared o *stress*	---	NST
+
+
+265, 1	735, 2-3	MAB	mae o	NSNT	NSNT
+265, 2	736, 1-4	MAB	es i ddim neithiwr	---	NSNT
+
+
+266, 1	737, 1-3	LIS	release of *adrenaline*	---	NST
+
+
+267, 1	738, 1-6	MAB	es i ddim i kickboxing neithiwr	SNT	SNT
+267, 2	739, 1-17	MAB	because o'n i o'n i yn dal wedi blino rywfaint ar_ôl cur yn pen ges i ddoe	NSNT	SNT
+267, 3	740, 1-4	MAB	ond mae o yn	NSNT	NSNT
+267, 4	740, 5-11	MAB	*just* oedd o *just* knock_io fi allan	NST	ST
+267, 5	741, 1-5	MAB	*so* o'n i yn meddwl	NST	NST
+267, 6	742, 1-5	MAB	na wna i ddim mynd	NSNT	NSNT
+267, 7	743, 1-6	MAB	ond dw i yn mynd heno	NSNT	NSNT
+267, 8	744, 1-3	MAB	teimlo *lot* gwell	---	NST
+
+
+268, 1	745, 1-1	LIS	*cool*	ST	NST
+268, 2	746, 1-8	LIS	ti yn gael migraines eitha *lot* te neu	---	ST
+
+
+269, 1	747, 1-3	MAB	na anaml iawn	NSNT	NSNT
+269, 2	748, 1-8	MAB	mae *mam* yn gael nhw yn weddol aml	NST	NST
+269, 4	751, 1-7	MAB	ond *um* dw i ddim yn gael	NST	NST
+269, 5	751, 8-15	MAB	dw i ddim yn gael fel yna byth	---	NSNT
+
+
+270, 1	752, 1-10	LIS	*yeah* does dim unrhyw un yn teulu fi fel yn	NST	NST
+270, 2	752, 11-21	LIS	does dim unrhyw un yn teulu fi yn gael nhw *lot*	---	NST
+
+
+271, 1	753, 1-8	MAB	mae *mam* yn gael mwy aml na fi	NST	NST
+271, 2	754, 1-8	MAB	ac oedd Nain yn arfer gael nhw rywfaint	---	NSNT
+
+
+272, 1	755, 1-6	LIS	mae rhaid i ti sponsor_o fi	---	SNT
+
+
+273, 1	756, 1-2	MAB	i be	---	NSNT
+
+
+274, 1	757, 1-5	LIS	dw i wneud *er* *Race_For_Life*	---	NST
+
+
+275, 1	758, 1-3	MAB	*oh* ti yn	NST	NST
+275, 2	759, 1-5	MAB	o'n i meddwl wneud hynna	NSNT	NSNT
+275, 3	760, 1-8	MAB	achos *um* gwaith fi sy yn sponsor_o fo	---	ST
+
+
+276, 1	761, 1-7	LIS	*yeah* achos *J_J_B* gyda *team* yn_doedd o	---	NST
+
+
+277, 1	764, 1-4	MAB	*so* o'n i meddwl	NST	NST
+277, 2	765, 1-7	MAB	a wedyn os dw i wneud o	NSNT	NSNT
+277, 3	765, 8-13	MAB	wneith nhw *um* sponsor_o fath â	NST	ST
+277, 4	766, 1-3	MAB	*um* wneith nhw	NST	NST
+277, 5	766, 4-15	MAB	roid *t_shirt* *Tesco* fath â *special* yn deud *Tesco* *Race_For_Life* a ballu	---	NST
+
+
+278, 1	767, 1-9	LIS	*yeah* dw i yn gael *um* *J_J_B* *t_shirt* *Race_For_Life*	---	NST
+
+
+279, 1	769, 1-6	MAB	wedyn o'n i meddwl wneud o	SNT	NSNT
+279, 2	770, 1-9	MAB	because *um* a mae *Ceridwen* hefyd am wneud o	NST	ST
+279, 3	770, 10-14	MAB	dw i meddwl a *Helga*	NST	NST
+279, 4	770, 15-19	MAB	sy yn byw efo hi	NSNT	NSNT
+279, 5	771, 1-8	MAB	mae yr ddwy ohonyn nhw am wneud o	---	NSNT
+
+
+280, 1	772, 1-1	LIS	*cool*	ST	NST
+280, 2	773, 1-6	LIS	*well* bydda i yn sponsor_o ti	NST	ST
+280, 3	774, 1-5	LIS	a ti gallu sponsor_o fi	---	SNT
+
+
+281, 1	775, 1-2	MAB	dyna fo	NSNT	NSNT
+281, 2	776, 1-12	MAB	a dw i am trio gael pobl o gwaith i sponsor_o fi	NSNT	SNT
+281, 3	777, 1-3	MAB	dw i *sure*	NST	NST
+281, 4	777, 4-5	MAB	wneith nhw	---	NSNT
+
+
+282, 1	780, 1-4	LIS	mae *mam* wedi deud	NST	NST
+282, 2	780, 5-6	LIS	bod hi	NSNT	NSNT
+282, 3	780, 7-13	LIS	bod hi yn fodlon sponsor_o fi degpunt	---	SNT
+
+
+283, 1	781, 1-9	MAB	wyt ti wedi cofrestru a bopeth felly *er* eto	---	NST
+
+
+284, 1	782, 1-1	LIS	ydw	NSNT	NSNT
+284, 2	782, 2-7	LIS	dw i gyda rhif a popeth	---	NSNT
+
+
+285, 1	783, 1-7	MAB	*oh* dw i heb wneud hynna eto	---	NST
+
+
+286, 1	784, 1-3	LIS	five five four	---	NSNT
+
+
+287, 1	785, 1-7	MAB	God mae yna *lot* yn wneud o	NST	ST
+287, 2	787, 1-3	MAB	o leia five_hundred	---	SNT
+
+
+288, 1	788, 1-3	LIS	*oh* mae hwnna	NST	NST
+288, 2	789, 1-5	LIS	wnes i rejistro mis yn_ôl	NSNT	NSNT
+288, 3	791, 1-5	LIS	*so* mae *lot* mwy nawr	---	NST
+
+
+289, 1	792, 1-5	MAB	pryd ti yn gorod cofrestru	NSNT	NSNT
+289, 2	793, 1-2	MAB	erbyn pryd	---	NSNT
+
+
+290, 1	794, 1-4	LIS	sa i yn *sure*	NST	NST
+290, 2	796, 1-10	LIS	*er* falle gelli fynd ar y *Tesco* website neu *Race_For_Life*	NST	ST
+290, 3	798, 1-3	LIS	a yn y	---	NSNT
+
+
+291, 1	799, 1-3	MAB	y *Faenol* *yeah*	NST	NST
+291, 2	800, 1-4	MAB	*um* lle mae nhw	NST	NST
+291, 3	800, 5-14	MAB	lle wnaethon nhw gael yr *Eisteddfod* a ballu tro dwytha	---	NST
+
+
+292, 1	801, 1-3	LIS	es i ddim	---	NSNT
+
+
+293, 1	802, 1-5	MAB	*ah* *er* mae nhw yn	NST	NST
+293, 2	802, 6-9	MAB	mae o yn gael	---	NSNT
+
+
+294, 1	803, 1-8	LIS	o'n i ddim yn gwybod pwy oedd o	---	NSNT
+
+
+295, 1	804, 1-15	MAB	ti wedi clywed am *um* *Faenol* *festival* fath â lle mae *Bryn_Terfel* yn rhan felly	---	NST
+
+
+296, 1	805, 1-1	LIS	yndw	---	NSNT
+
+
+297, 1	806, 1-6	MAB	*yeah* yr un fan yna *so*	---	NST
+
+
+298, 1	808, 1-7	LIS	sa i yn gwybod ble mae fe	---	NSNT
+
+
+299, 1	809, 1-2	MAB	*just* mae	NST	NST
+299, 2	809, 3-4	MAB	mae yna	NSNT	NSNT
+299, 3	809, 5-9	MAB	mae yna cae anferth *so*	---	NST
+
+
+300, 1	810, 1-5	LIS	o'n i *just* mynd i	NST	NST
+300, 2	811, 1-6	LIS	mae fe *just* paso *Tesco* yn_dyfe	---	NST
+
+
+301, 1	812, 1-7	MAB	ydy *um* ti pasio *Tesco* a wedyn	NST	NST
+301, 2	812, 8-12	MAB	mae yr *roundabout* fan yna	NST	NST
+301, 3	813, 1-20	MAB	a yn lle mynd *um* ar y bypass am *Gaernarfon* wyt ti mynd trwy am ti mynd i yr dde	NST	ST
+301, 4	815, 1-8	MAB	fath â fel bod ti mynd am *Felinheli*	NST	NST
+301, 5	816, 1-9	MAB	wedyn mae o *just* ar y dde fan yna	---	NST
+
+
+302, 1	817, 1-8	LIS	i yn dechrau traeno ar_gyfer e nawr though	---	SNT
+
+
+303, 1	818, 1-8	MAB	*yeah* o'n i meddwl rhaid ni wneud hynna	---	NST
+
+
+304, 1	819, 1-5	LIS	achos dw i isie rhedeg	NSNT	NSNT
+304, 2	819, 6-12	LIS	dw i isie rhedeg y tair milltir	NSNT	NSNT
+304, 3	820, 1-5	LIS	sa i isie cerdded fo	---	NSNT
+
+
+305, 1	821, 1-3	MAB	*yeah* a finnau	---	NST
+
+
+306, 1	822, 1-5	LIS	*so* dyma ni yn *um*	NST	NST
+306, 2	823, 1-5	LIS	ar dydd Sadwrn dw i	NSNT	NSNT
+306, 3	823, 6-19	LIS	mae fi a *Lily* mynd i ffindio running *machines* a gweld faint mor hir	NST	ST
+306, 4	823, 20-28	LIS	mae yn cymryd *just* i ni jog_o tri milltir	---	ST
+
+
+307, 1	828, 1-16	MAB	*well* o'n i meddwl faswn i yn gallu mynd i yr gym yn *um* yn *Gaernarfon*	NST	ST
+307, 2	829, 1-5	MAB	faswn i yn gallu mynd	---	NSNT
+
+
+308, 1	830, 1-11	LIS	*yeah* *well* because mae wâc *nice* lawr ar bwys tŷ fi	---	ST
+
+
+309, 1	831, 1-3	MAB	dw i meddwl	NSNT	NSNT
+309, 2	831, 4-7	MAB	dw i meddwl ella	NSNT	NSNT
+309, 3	831, 8-9	MAB	wna i	---	NSNT
+
+
+310, 1	832, 1-10	LIS	ni mynd i fynd *round* ffordd yna i ar_gyfer o	---	NST
+
+
+311, 1	834, 1-9	MAB	*well* o'n i meddwl ella cerdded fath â rhedeg	---	NST
+
+
+312, 1	835, 1-9	LIS	jogging is one of the best *forms* of *exercise*	ST	NST
+312, 2	837, 1-9	LIS	ond wnaethon ni ymdrechu i wneud e dydd Sul	NSNT	NSNT
+312, 3	838, 1-11	LIS	wnaethon ni rhedeg a hundred metres a cerdded am pedwar awr	NSNT	SNT
+312, 4	840, 1-10	LIS	aethon ni *just* am y really really long walk yma	NST	ST
+312, 5	841, 1-5	LIS	a wedyn o'n ni ganol	NSNT	NSNT
+312, 6	842, 1-8	LIS	o'n i ddim yn gwybod ble o'n i	NSNT	NSNT
+312, 7	843, 1-7	LIS	achos aethon ni trwy yr *forest* yma	NST	NST
+312, 8	844, 1-7	LIS	a gwelon ni signpost yn gweud *Bangor*	NST	ST
+312, 9	845, 1-12	LIS	*so* wnaethon ni dilyn y signpost yna a mynd lawr yr hewl	NST	ST
+312, 10	846, 1-6	LIS	a oedd e yn dechrau tywyllu	NSNT	NSNT
+312, 11	847, 1-5	LIS	*oh* oedd e mor *sweet*	NST	NST
+312, 12	848, 1-5	LIS	oedd yr oen bach yma	NSNT	NSNT
+312, 14	850, 1-12	LIS	oedd e yn *stuck* yn y *bank* gyda river ar bwys e	NST	ST
+312, 15	852, 1-9	LIS	a oedd *mam* e ochr draw gyda oen arall	NST	NST
+312, 16	853, 1-4	LIS	a oedd o yn	NSNT	NSNT
+312, 17	853, 5-11	LIS	oedd o fel yn bray_o ar_gyfer ei_gilydd	---	SNT
+
+
+313, 1	854, 1-1	MAB	*aww*	---	NST
+
+
+314, 1	855, 1-6	LIS	a wedyn oedd e yn ofn	NSNT	NSNT
+314, 2	856, 1-9	LIS	a cymerodd ni tua deg pymtheg munud i fel	NSNT	NSNT
+314, 3	857, 1-15	LIS	a gaethon ni e *er* a gaeth e pen e *stuck* yn y *fence* wedyn	NST	NST
+314, 4	858, 1-10	LIS	*so* wnes i pigo fe lan a rhoi e nôl	---	NST
+
+
+315, 1	859, 1-1	MAB	*aww*	---	NST
+
+
+316, 1	860, 1-12	LIS	aeth e rhedeg lan y mynydd i *mam* o a gael llaeth	---	NST
+
+
+317, 1	861, 1-2	MAB	*aww* del	---	NST
+
+
+318, 1	862, 1-7	LIS	a oedd e fel yn dechrau tywyllu	NSNT	NSNT
+318, 2	863, 1-7	LIS	oedd fi a *Lily* yn mynd fel	ST	NST
+318, 3	864, 1-2	LIS	*oh* *crap*	---	NST
+
+
+319, 1	865, 1-5	MAB	well i ni fynd adra	---	NSNT
+
+
+320, 1	866, 1-9	LIS	*well* o'n i ddim yn gwybod ble o'n i	NST	NST
+320, 2	867, 1-7	LIS	o'n i fel wedi cerdded tair awr	NSNT	NSNT
+320, 3	869, 1-11	LIS	*so* fyddai fe tair awr nôl i fynd y ffordd arall	NST	NST
+320, 4	871, 1-13	LIS	a wedyn daethon ni mas tua hanner awr ar_ôl hynny ar bwys St_Mary's	SNT	SNT
+320, 6	873, 1-11	LIS	*so* aethon ni fel circular route *right* *round* *Maesgeirchen* lan ffordd	---	ST
+
+
+321, 1	874, 1-5	MAB	*oh* *yeah* dw i yn	NST	NST
+321, 2	874, 6-9	MAB	dw i yn gwybod	NSNT	NSNT
+321, 3	875, 1-2	MAB	mae yna	NSNT	NSNT
+321, 4	875, 3-9	MAB	mae yna *farm* yn fan yna *um*	NST	NST
+321, 6	876, 22-28	MAB	lle mae yna ffrindiau fi yn byw	SNT	NSNT
+321, 7	877, 1-1	MAB	*Siegfried*	ST	NST
+321, 8	878, 1-3	MAB	mae o yn	NSNT	NSNT
+321, 9	878, 4-5	MAB	mae yna	NSNT	NSNT
+321, 10	878, 6-16	MAB	mae yna ryw bedwar ohonyn nhw yn byw ar y tŷ	NSNT	NSNT
+321, 11	879, 1-4	MAB	fath â farmhouse peth	---	SNT
+
+
+322, 1	880, 1-1	LIS	*cool*	---	NST
+
+
+323, 1	881, 1-3	MAB	a wnaethon nhw	NSNT	NSNT
+323, 2	881, 4-6	MAB	wnaethon nhw gael	---	NSNT
+
+
+324, 1	882, 1-7	LIS	of *course* gwelais i yr *golf* *course*	NST	ST
+324, 2	883, 1-4	LIS	a o'n i fel	NSNT	NSNT
+324, 3	884, 1-7	LIS	*ah* dw i yn recognise_io fan hyn	ST	ST
+324, 4	885, 1-6	LIS	because es i i sledo yna	NSNT	SNT
+324, 5	885, 7-10	LIS	pan oedd yr eira	---	NSNT
+
+
+325, 1	886, 1-6	MAB	*yeah* ti ti gallu gweld o	---	NST
+
+
+326, 1	888, 1-6	LIS	aeth fi a ffrindiau fi fel	NSNT	NSNT
+326, 2	889, 1-6	LIS	aethon nhw *um* adeiladu snow *pony*	---	ST
+
+
+327, 1	890, 1-2	MAB	snow *pony*	---	NST
+
+
+328, 1	891, 1-9	LIS	es i lan yna gyda yr *horse* riding *club*	---	ST
+
+
+329, 1	892, 1-2	MAB	*oh* funny	ST	NST
+329, 2	893, 1-8	MAB	*so* be ydy yr dyddiad y *Race_For_Life* felly	---	NST
+
+
+330, 1	894, 1-10	LIS	dw i meddwl seventh of May neu thirteenth of May	SNT	SNT
+330, 2	895, 1-5	LIS	rhywbeth fel yna yw e	---	NSNT
+
+
+331, 1	896, 1-3	MAB	dw i *sure*	NST	NST
+331, 2	896, 4-9	MAB	bod fi i_ffwrdd ar y seventh	---	SNT
+
+
+332, 1	897, 1-5	LIS	tsieca fe ar y rhyngrwyd	---	NSNT
+
+
+333, 1	898, 1-3	MAB	*yeah* wna i	NST	NST
+333, 2	898, 4-9	MAB	wna i fynd ar y rhyngrwyd	---	NSNT
+
+
+334, 1	900, 1-9	LIS	because eleventh of May mae *um* proposals ni mewn	NST	ST
+334, 2	901, 1-10	LIS	*so* dw i yn eitha *sure* taw seventh of May	---	ST
+
+
+335, 1	902, 1-6	MAB	trydydd o'n i meddwl oedd o	NSNT	NSNT
+335, 2	903, 1-5	MAB	trydydd mae proposal fod fewn	NSNT	SNT
+335, 3	904, 1-8	MAB	a wedyn gynno ni arholiad ar yr pymthegfed	---	NSNT
+
+
+336, 1	905, 1-2	LIS	*oh* *crap*	ST	NST
+336, 2	907, 1-11	LIS	dw i wedi time_io fe yn really gwael ar_gyfer *exam* times	ST	ST
+336, 3	909, 1-2	LIS	*ah* *well*	---	NST
+
+
+337, 1	910, 1-1	MAB	dyna	NSNT	NSNT
+337, 2	910, 2-4	MAB	be ydy o	NSNT	NSNT
+337, 3	911, 1-3	MAB	ond peth ydy	NSNT	NSNT
+337, 4	912, 1-14	MAB	ti angen ti angen wneud fath â rhedeg *exercise* a ballu beth bynnag wedyn	---	NST
+
+
+338, 1	914, 1-8	LIS	a mae fe yn mynd i good cause	SNT	SNT
+338, 2	916, 1-5	LIS	achos mae nain fi mam_gu	SNT	NSNT
+338, 3	917, 1-8	LIS	*oh* my gosh wnes i *just* dweud nain	NST	ST
+338, 5	919, 1-4	LIS	mae hwnna yn *wrong*	---	NST
+
+
+339, 1	920, 1-4	MAB	*yeah* mae fath â	NST	NST
+339, 2	920, 5-13	MAB	mae fath â fi yn galw Nain yn mam_gu	NSNT	NSNT
+339, 3	921, 1-7	MAB	dw i *just* ddim yn deud o	---	NST
+
+
+340, 1	922, 1-6	LIS	dw i byth yn dweud nain	NSNT	NSNT
+340, 2	923, 1-3	LIS	*o_k* mam_gu fi	---	NST
+
+
+341, 1	924, 1-6	MAB	ti wedi bod o_gwmpas fi gormod	---	NSNT
+
+
+342, 1	925, 1-3	LIS	*yeah* bai ti	NST	NST
+342, 2	925, 4-5	LIS	yw o	NSNT	NSNT
+342, 4	927, 1-13	LIS	mae eisie ti dod lawr i yr De a pigo lan acen ni	NSNT	NSNT
+342, 6	930, 1-5	LIS	mae Mam_gu gyda fel *cancer*	NST	NST
+342, 7	931, 1-5	LIS	smo fel terminal *cancer* ond	---	ST
+
+
+343, 1	933, 1-11	MAB	*yeah* ond mae o yn dal yn yn dal yn cancr	NST	NST
+343, 2	935, 1-1	MAB	wnaeth	---	NSNT
+
+
+344, 1	936, 1-4	LIS	*so* oedd *mam* fel	NST	NST
+344, 2	937, 1-6	LIS	*oh* rhoi Mam_gu ar y cefn	NST	NST
+344, 3	938, 1-5	LIS	a mae ffrind gorau fi	NSNT	NSNT
+344, 4	939, 1-2	LIS	mae *dad*	NST	NST
+344, 5	939, 3-9	LIS	wnaeth *dad* hi marw fel blwyddyn diwethaf	NST	NST
+344, 6	941, 1-10	LIS	*so* dw i wedi rhoi fo arno fe hefyd achos	---	NST
+
+
+345, 1	943, 1-5	MAB	o'n i meddwl rhoi *um*	---	NST
+
+
+346, 1	944, 1-6	LIS	o'n i yn agos i fo	---	NSNT
+
+
+347, 1	945, 1-2	MAB	brawd *mam*	NST	NST
+347, 2	946, 1-3	MAB	wnaeth o farw	NSNT	NSNT
+347, 3	947, 1-5	MAB	pryd wnaeth *uncle* *Will* farw	NST	NST
+347, 4	948, 1-2	MAB	dwy flynedd	---	NSNT
+
+
+348, 1	949, 1-11	LIS	dw i mynd i ysgrifennu ar y Cymraeg hefyd though Mam_gu	NSNT	SNT
+348, 2	951, 1-6	LIS	achos wedyn fydd pawb yn *well*	NST	NST
+348, 3	952, 1-12	LIS	dw i rhedeg lan fan hyn a rhoi Mam_gu ar y cefn	---	NSNT
+
+
+349, 1	953, 1-10	MAB	*oh* dw i am roi *uncle* *Will* ar y cefn	---	NST
+
+
+350, 1	955, 1-2	LIS	*yeah* *aww*	ST	NST
+350, 2	956, 1-4	LIS	mae yn depressing subject	SNT	SNT
+350, 3	957, 1-1	LIS	*change*	---	NST
+
+
+351, 1	959, 1-4	MAB	ond mae o yn	NSNT	NSNT
+351, 2	959, 5-7	MAB	mae o *er*	NST	NST
+351, 3	960, 1-3	MAB	meddylia amdano fo	NSNT	NSNT
+351, 4	961, 1-4	MAB	mae nhw yn deud	NSNT	NSNT
+351, 5	961, 5-10	MAB	bod un mewn tri neu rywbeth	NSNT	NSNT
+351, 6	962, 1-2	MAB	mae *oh*	NST	NST
+351, 7	962, 3-8	MAB	mae o yn wneud synnwyr achos	---	NSNT
+
+
+352, 1	963, 1-9	LIS	mae nhw yn ciwrio fe nawr though yn_dyn nhw	---	SNT
+
+
+353, 1	964, 2-5	MAB	mae nhw yn gwella	NSNT	NSNT
+353, 2	965, 1-6	MAB	mae yr rhifau yn dechrau gwella	NSNT	NSNT
+353, 3	966, 1-3	MAB	ond eto mae	NSNT	NSNT
+353, 4	967, 1-13	MAB	does yna na ddim un *person* yn nabod neb sydd heb gael o	NST	NST
+353, 5	969, 1-4	MAB	*o_k* ond peth ydy	NST	NST
+353, 6	969, 5-20	MAB	dan ni nabod *lot* mwy o bobl sydd wedi gael o a sydd wedi byw wedyn	NST	NST
+353, 7	971, 1-2	MAB	a sydd	---	NSNT
+
+
+354, 1	972, 1-3	LIS	oedd Mam_gu wedi	NSNT	NSNT
+354, 2	974, 1-3	LIS	ydy *uncle* ti	---	NST
+
+
+355, 1	975, 1-7	MAB	na wnaeth o farw dwy flynedd yn_ôl	NSNT	NSNT
+355, 2	977, 1-7	MAB	ond *er* mae ffrindiau *mam* yn gwaith	NST	NST
+355, 3	978, 1-11	MAB	wnaeth *Leslie* gael *um* cancr y fron ryw pum mlynedd yn_ôl	NST	NST
+355, 4	979, 1-5	MAB	a wnaeth hi gael o	NSNT	NSNT
+355, 5	980, 1-11	MAB	a wedyn wnaethon nhw tynnu yr *um* y *lymph* *glands* allan	NST	NST
+355, 6	981, 1-6	MAB	achos mae rheina yn gallu *um*	NST	NST
+355, 7	982, 1-7	MAB	os ti ddim yn tynnu rheina allan	---	NSNT
+
+
+356, 1	983, 1-8	LIS	mae nhw yn gallu swell_o lan yn_dyn nhw	---	SNT
+
+
+357, 1	985, 1-7	MAB	wedyn wnaeth hi gael tynnu rhein allan	NSNT	NSNT
+357, 2	986, 1-4	MAB	a mae yn iawn	NSNT	NSNT
+357, 3	987, 1-7	MAB	ond dyma ddynes arall yn gwaith *mam*	NST	NST
+357, 4	988, 1-9	MAB	wnaeth hi gael cancr yr un yr un peth	NSNT	NSNT
+357, 5	988, 10-10	MAB	â	NSNT	NSNT
+357, 6	988, 11-14	MAB	be oedd gen *Leslie*	NST	NST
+357, 7	989, 1-9	MAB	a dyma hi ddim yn tynnu yr *lymph* nodes	ST	ST
+357, 8	990, 1-7	MAB	a dyma hi yn gael o eto	NSNT	NSNT
+357, 9	991, 1-4	MAB	dyma hi yn marw	NSNT	NSNT
+357, 10	992, 1-6	MAB	*so* dw i yn meddwl ella	NST	NST
+357, 11	992, 7-15	MAB	bod o yn bwysig ofnadwy i dynnu rheina allan	---	NSNT
+
+
+358, 1	994, 1-8	LIS	chi byth yn gwybod nawr though yn_dych chi	---	SNT
+
+
+359, 1	997, 1-7	MAB	na mae meddyginiaeth yn well dyddiau yma	NSNT	NSNT
+359, 2	999, 1-4	MAB	mae yn dechrau gwella	---	NSNT
+
+
+360, 1	1000, 1-4	LIS	mae mor gymaint o	NSNT	NSNT
+360, 2	1001, 1-11	LIS	oedd yr e_bost yma o'n i yn edrych ar rhyw ddiwrnod	NSNT	NSNT
+360, 3	1002, 1-5	LIS	oedd e yn dweud *um*	ST	NST
+360, 4	1003, 1-9	LIS	you stay *fit* to keep healthy *blah* *blah* *blah*	---	NST
+
+
+361, 1	1004, 1-6	MAB	be mae hynna fod i feddwl	---	NSNT
+
+
+362, 1	1005, 1-3	LIS	oedd e fel	NSNT	NSNT
+362, 2	1005, 4-14	LIS	oedd e fel *list* of ten things yma yn dweud fel	ST	ST
+362, 3	1007, 1-9	LIS	*number* one *um* life is a sexually transmitted disease	ST	NST
+362, 4	1008, 1-7	LIS	a fel like y *list* massive yma	NST	ST
+362, 5	1010, 1-7	LIS	oedd yr un diwethaf yn really funny	SNT	SNT
+362, 6	1011, 1-5	LIS	oedd e yn dweud *um*	ST	NST
+362, 7	1012, 1-15	LIS	there is one cow with mad cows disease that everyone knows exactly where it is	NSNT	NSNT
+362, 8	1013, 1-10	LIS	and the the the government knows exactly where it is	NSNT	NSNT
+362, 9	1014, 1-13	LIS	there are thousands of immigrants that the government don't know where they are	NSNT	NSNT
+362, 10	1015, 1-9	LIS	we should put the agriculture in charge of immigration	SNT	NSNT
+362, 12	1017, 1-5	LIS	neu *just* rhywbeth fel yna	NST	NST
+362, 13	1018, 1-6	LIS	oedd e *just* fel really funny	ST	ST
+362, 14	1021, 1-9	LIS	ond dw i wedi phrase_o fe i_gyd yn *wrong*	NST	ST
+362, 15	1022, 1-8	LIS	mae isie fi e_bostio fe i *dad* fi	NST	NST
+362, 16	1023, 1-5	LIS	achos fyddai fe yn hoffi	NSNT	NSNT
+362, 17	1025, 1-9	LIS	mae fe *just* fel *list* o fel deg ffeithiau	NST	NST
+362, 18	1025, 10-14	LIS	sy fel yn really *ironic*	ST	ST
+362, 19	1025, 15-18	LIS	sy yn eitha doniol	---	NSNT
+
+
+363, 1	1029, 1-6	MAB	*oh* rhaid fi edrych ar hwnna	---	NST
+
+
+364, 1	1030, 1-3	LIS	mae yn *cute*	---	NST
+
+
+365, 1	1031, 1-9	MAB	wnest ti weld yr un am amdan *er* footballers	ST	ST
+365, 2	1032, 1-7	MAB	fath â who said footballers are *stupid*	ST	ST
+365, 3	1034, 1-3	MAB	dw i meddwl	NSNT	NSNT
+365, 4	1034, 4-7	MAB	dw i meddwl ella	NSNT	NSNT
+365, 5	1034, 8-13	MAB	wnes i yrru fo i chdi	NSNT	NSNT
+365, 6	1035, 1-7	MAB	ond oedd o ar yr intranet hefyd	---	SNT
+
+
+366, 1	1036, 1-9	LIS	*yeah* ar yr intranet o'n i yn gweld o	---	ST
+
+
+367, 1	1038, 1-7	MAB	*yeah* ond *um* *ah* yr un *David_Beckham*	ST	NST
+367, 2	1039, 1-12	MAB	my my parents have been there for *me* since I was seven	ST	NST
+367, 3	1040, 1-1	MAB	meddwl	NSNT	NSNT
+367, 4	1040, 2-4	MAB	lle oedden nhw	NSNT	NSNT
+367, 5	1040, 5-9	MAB	pan gest ti dy eni	---	NSNT
+
+
+368, 1	1042, 1-4	LIS	dw i yn gwybod	NSNT	NSNT
+368, 3	1044, 1-5	LIS	beth oedd yr un arall	NSNT	NSNT
+368, 4	1045, 1-3	LIS	rhywbeth fel *um*	ST	NST
+368, 5	1046, 1-2	LIS	I believe	NSNT	NSNT
+368, 6	1046, 3-13	LIS	we're gonna win the championships *till* the final *whistle* is blown	NST	NST
+368, 7	1047, 1-5	LIS	and we lost the *game*	ST	NST
+368, 8	1049, 1-5	LIS	o'n i *just* yn meddwl	ST	NST
+368, 9	1050, 1-1	LIS	what	---	NSNT
+
+
+369, 1	1051, 1-4	MAB	a wnes i deud	NSNT	NSNT
+369, 2	1052, 1-5	MAB	a mae yr un arall	SNT	NSNT
+369, 3	1053, 1-5	MAB	even if we won even	NSNT	NSNT
+369, 4	1053, 6-11	MAB	if we lost *every* single *game*	NST	NST
+369, 5	1053, 12-12	MAB	I'm	NSNT	NSNT
+369, 6	1053, 13-13	MAB	I'm	NSNT	NSNT
+369, 7	1053, 14-14	MAB	I	NSNT	NSNT
+369, 8	1053, 15-19	MAB	we'd *still* win the league	ST	NST
+369, 10	1056, 1-1	MAB	be	NSNT	NSNT
+369, 11	1057, 1-8	MAB	*oh* a dyna un arall *um* *um* *oh*	ST	NST
+369, 12	1058, 1-7	MAB	Germany's got a a really good side	NSNT	NSNT
+369, 13	1059, 1-5	MAB	there's eleven internationals out there	SNT	NSNT
+369, 14	1060, 1-3	MAB	o'n i meddwl	SNT	NSNT
+369, 15	1061, 1-2	MAB	*well* obviously	---	NST
+
+
+370, 1	1062, 1-3	LIS	dw i gwybod	---	NSNT
+
+
+371, 1	1063, 1-1	MAB	Duw	NSNT	NSNT
+371, 2	1064, 1-3	MAB	mae nhw yn	NSNT	NSNT
+371, 3	1064, 4-8	MAB	wirion pethau pethau am footballers	SNT	SNT
+371, 4	1065, 1-3	MAB	ond dw i	NSNT	NSNT
+371, 5	1065, 4-6	MAB	dw i *sure*	NST	NST
+371, 6	1065, 7-10	MAB	oedd yna ddau peth	NSNT	NSNT
+371, 7	1065, 11-14	MAB	oedd *David_Beckham* wedi ddeud	ST	NST
+371, 8	1067, 1-5	MAB	because mae o yn mwy	NSNT	SNT
+371, 9	1067, 6-9	MAB	gwirion na y lleill	---	NSNT
+
+
+372, 1	1068, 1-6	LIS	diawl wnaeth *Alan_Shearer* dweud dau peth	NST	NST
+372, 2	1070, 1-2	LIS	fe hefyd	NSNT	NSNT
+372, 3	1071, 1-9	LIS	dw i meddwl wnaetho fo dweud rhywbeth amboutu *um*	ST	NST
+372, 4	1071, 10-19	LIS	I don't know un o mab un o mabiau fe	---	SNT
+
+
+373, 1	1072, 1-6	MAB	*mmm* dw i ddim yn cofio	NST	NST
+373, 2	1072, 7-9	MAB	be ddeudodd o	NSNT	NSNT
+373, 3	1073, 1-3	MAB	ond dw i	NSNT	NSNT
+373, 4	1073, 4-11	MAB	dw i yn cofio fo wneud rywbeth really	SNT	SNT
+373, 5	1073, 12-12	MAB	gwirion	---	NSNT
+
+
+374, 1	1077, 1-9	LIS	*oh* dw i isie mynd *um* mas i Canaries	---	ST
+
+
+375, 1	1078, 1-6	MAB	*mmm* *yeah* fasai Canaries yn *right*	NST	ST
+375, 2	1079, 1-7	MAB	dydyn nhw ddim rhy bell i_ffwrdd chwaith	NSNT	NSNT
+375, 3	1080, 1-4	MAB	fasen ni ddim yn	NSNT	NSNT
+375, 4	1080, 5-6	MAB	timod gorod	NSNT	NSNT
+375, 5	1080, 7-10	MAB	fasai ddim yn costio	---	NSNT
+
+
+376, 1	1082, 1-12	LIS	fydden i yn hoffi mynd i Jersey hefyd *just* i gweld llaeth	---	ST
+
+
+377, 1	1083, 1-7	MAB	ti heb gweld llaeth o yr blaen	NSNT	NSNT
+377, 2	1084, 1-7	MAB	neu llefrith fel dw i yn deud	NSNT	NSNT
+377, 3	1085, 1-4	MAB	*oh* wnes i sylwi	NST	NST
+377, 4	1086, 1-2	MAB	na mae	NSNT	NSNT
+377, 5	1086, 3-10	MAB	dan ni yn defnyddio yr llaeth llefrith *thing*	ST	NST
+377, 6	1087, 1-12	MAB	because pan es i i tŷ *Nancy* gynnau dyma *Nancy* yn gofyn	NST	ST
+377, 7	1088, 1-5	MAB	wyt ti yn cymryd llaeth	NSNT	NSNT
+377, 8	1090, 1-3	MAB	*er* dw i	NST	NST
+377, 9	1090, 4-5	MAB	mae rhyfedd	NSNT	NSNT
+377, 10	1091, 1-4	MAB	dw i yn gwybod	NSNT	NSNT
+377, 11	1091, 5-7	MAB	be ydy llaeth	NSNT	NSNT
+377, 12	1092, 1-5	MAB	ond eto dw i yn	NSNT	NSNT
+377, 13	1092, 6-8	MAB	mae o yn	NSNT	NSNT
+377, 14	1092, 9-12	MAB	dw i dal yn	NSNT	NSNT
+377, 15	1092, 13-15	MAB	mae o annisgwyl	---	NSNT
+
+
+378, 1	1093, 1-5	LIS	mae o yr un peth	NSNT	NSNT
+378, 2	1093, 6-11	LIS	â mam_gu a nain yn_dyw e	---	NSNT
+
+
+379, 1	1094, 1-5	MAB	*yeah* ond mae yn annisgwyl	NST	NST
+379, 2	1094, 6-11	MAB	pan dw i yn clywed o	SNT	NSNT
+379, 3	1095, 1-5	MAB	because dw i fath â	NSNT	SNT
+379, 4	1096, 1-3	MAB	*oh* *yeah* llaeth	NST	NST
+379, 6	1098, 1-4	MAB	fel paned a disgled	NSNT	NSNT
+379, 7	1099, 1-5	MAB	*yeah* mae paned yn well	---	NST
+
+
+380, 1	1100, 1-2	LIS	na disgled	---	NSNT
+
+
+381, 1	1102, 1-5	MAB	*yeah* *so* Canaries yn dda	---	ST
+
+
+382, 1	1103, 1-2	LIS	neverending argument	---	NSNT
+
+
+383, 1	1104, 1-8	MAB	*yeah* o'n i yn ffraeo efo *Blodwen* o_blaen	NST	NST
+383, 2	1105, 1-3	MAB	wyt ti wedi	NSNT	NSNT
+383, 3	1105, 4-20	MAB	wyt ti wedi defnyddio yr gair bodiau traed i feddwl fath â toes bodiau i yr troed	---	SNT
+
+
+384, 1	1106, 1-5	LIS	fi *just* yn dweud toes	---	ST
+
+
+385, 1	1107, 1-5	MAB	*yeah* ond na fath â	---	NST
+
+
+386, 1	1108, 1-6	LIS	bysedd traed dw i yn dweud	---	NSNT
+
+
+387, 1	1109, 1-3	MAB	*yeah* *well* dyna	NST	NST
+387, 2	1109, 4-6	MAB	be ddeudodd *Blodwen*	NST	NST
+387, 3	1110, 1-3	MAB	bysedd y traed	NSNT	NSNT
+387, 4	1111, 1-6	MAB	a dw i wedi clywed hynny	NSNT	NSNT
+387, 5	1112, 1-8	MAB	ond *um* dw i yn defnyddio bodiau hefyd	NST	NST
+387, 6	1113, 1-6	MAB	bodiau traed neu *just* bodiau *yeah*	---	NST
+
+
+388, 1	1114, 1-5	LIS	byth wedi clywed amdano fe	---	NSNT
+
+
+389, 1	1115, 1-4	MAB	mae raid *just* fi	NST	NST
+389, 2	1115, 5-11	MAB	ydy o neu *gogs* yn yn gyffredinol	---	NST
+
+
+390, 1	1116, 1-3	LIS	na *just* ti	NST	NST
+390, 3	1118, 1-1	LIS	Cofis	NSNT	NSNT
+390, 6	1123, 1-8	LIS	trio meddwl ble arall dw i yn hoffi	NSNT	NSNT
+390, 7	1124, 1-1	LIS	dw	NSNT	NSNT
+390, 8	1124, 2-8	LIS	dw i isio mynd teithio yn Cymru	---	NSNT
+
+
+391, 1	1125, 1-10	MAB	*yeah* dw i heb weld bob man yn Cymru eto	NST	NST
+391, 2	1126, 1-3	MAB	dw i ond	NSNT	NSNT
+391, 3	1126, 4-12	MAB	wedi bod i Caerdydd *couple* o weithiau na tair	---	NST
+
+
+392, 1	1127, 1-3	LIS	*oh* i Iwerddon	---	NST
+
+
+393, 1	1128, 1-6	MAB	na tair pedair gwaith dw i	NSNT	NSNT
+393, 2	1128, 7-9	MAB	bod i Gaerdydd	NSNT	NSNT
+393, 3	1129, 1-8	MAB	*so* dw i isio mynd yno eto nôl	---	NST
+
+
+394, 1	1130, 1-7	LIS	dw i isio mynd i Iwerddon eto	---	NSNT
+
+
+395, 1	1131, 1-7	MAB	dw i am fynd yn mis Mehefin	NSNT	NSNT
+395, 2	1132, 1-4	MAB	dw i yn gobeithio	---	NSNT
+
+
+396, 1	1133, 1-7	LIS	dw i yn caru Iwerddon mor gymaint	---	NSNT
+
+
+397, 1	1135, 1-10	MAB	os ti os ti rhydd ryw dro ym mis Mehefin	NSNT	NSNT
+397, 2	1135, 11-15	MAB	dylet ti ddod i Iwerddon	---	NSNT
+
+
+398, 1	1136, 2-6	LIS	mae arian gyda fi falle	NSNT	NSNT
+398, 2	1136, 7-8	LIS	bydd fi	---	NSNT
+
+
+399, 1	1137, 1-4	MAB	*mmm* because dw i	NST	ST
+399, 2	1137, 5-8	MAB	dw i am fynd	---	NSNT
+
+
+400, 1	1138, 1-11	LIS	achos dw i mynd ar gwyliau ym mis Mehefin yn barod	NSNT	NSNT
+400, 2	1140, 1-1	LIS	wythnos	---	NSNT
+
+
+401, 1	1141, 1-8	MAB	*just* dw i mynd *um* efo tŷ *Chris*	NST	NST
+401, 2	1141, 9-22	MAB	dw i meddwl fath â *um* *Andrew* a *Andrew* arall a *Helga* a *Jennifer*	NST	NST
+401, 3	1142, 1-7	MAB	dw i ddim yn *sure* pwy arall	NST	NST
+401, 4	1142, 8-10	MAB	sy yn dod	NSNT	NSNT
+401, 5	1143, 1-3	MAB	yn *right* saff	---	NST
+
+
+402, 1	1144, 1-4	LIS	*oh* dw i meddwl	NST	NST
+402, 2	1144, 5-9	LIS	dw i yn cwrdd lan	NSNT	NSNT
+402, 3	1144, 10-14	LIS	â *Jennifer* ar dydd Sul	NST	NST
+402, 4	1146, 1-16	LIS	mynd ar drink achos mae un o *um* ffrindiau fi *Steve* yn_ôl o Ffrainc am wythnos	NST	ST
+402, 5	1148, 1-4	LIS	mae fo wneud *um*	NST	NST
+402, 6	1149, 1-10	LIS	na yr Almaen mae fe ar hyn o bryd actually	SNT	SNT
+402, 7	1151, 1-11	LIS	mae fe wneud *study* abroad for a *year* yn yr Almaen	NST	ST
+402, 8	1153, 1-9	LIS	wedyn mae fe wneud *year* in industry yn Ffrainc	NST	ST
+402, 9	1154, 1-12	LIS	a wedyn mae fe dod nôl fan hyn am trydydd flwyddyn fo	---	NSNT
+
+
+403, 1	1155, 1-1	MAB	*cool*	ST	NST
+403, 2	1156, 1-1	MAB	unfair	SNT	NSNT
+403, 3	1157, 1-4	MAB	wedi blino rŵan *mmm*	---	NST
+
+
+404, 1	1158, 1-9	LIS	mae fe *just* yn wneud *stuff* fel yna though	NST	ST
+404, 2	1160, 1-4	LIS	that's *Steve* for you	---	NST
+
+
+405, 1	1162, 1-4	MAB	*yeah* ond yn gweithio	---	NST
+
+
+406, 1	1163, 1-7	LIS	mae fo yn dod nos fory i_lawr	---	NSNT
+
+
+407, 1	1164, 1-3	MAB	*oh* nos fory	---	NST
+
+
+408, 1	1165, 1-4	LIS	dw i yn meddwl	NSNT	NSNT
+408, 2	1166, 1-10	LIS	ond dw i yn gweithio nos yfory a nos Sadwrn	NSNT	NSNT
+408, 3	1167, 1-10	LIS	*so* o'n i meddwl mynd mas nos Lun nos Sul	NST	NST
+408, 4	1169, 1-2	LIS	a falle	NSNT	NSNT

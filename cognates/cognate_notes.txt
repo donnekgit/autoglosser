@@ -1,0 +1,116 @@
+Cognate work
+=========
+
+Get utterances containing more than 3 cognates, for testing purposes
+---------------------------------------------------------------------------------------------------------------
+create table cogloctest as select utterance_id from (select utterance_id, count(utterance_id) from stammers4_cogloc group by utterance_id order by utterance_id) as mine where count>3 order by count
+
+create table stammers4_cogloctest as select * from stammers4_cogloc where utterance_id in (select utterance_id from cogloctest) order by utterance_id, location
+
+
+Run gather_cognate_locations to pick out all the cognates in a file and put them in a cogloc table.
+Run segment_at_cognate to split the utterances into segments at each cognate, based on the entries in the cogloc table.
+
+
+November 2011
+==========
+
+extend_cgwords.php - adds to the table 4 new fields which are required for the analysis.
+
+The first stage is to split the clauses - make_clauses.php runs these first 4 scripts:
+(1) mark.php - puts a marker at the clause division - select the relevant line to choose either finite verbs only (for MLF analysis) or  all verbs including infinitives (for cognate ananlysis)
+(2) adjust_deletes.php - deletes the clause marker where necessary - uncomment the INFIN section for MLF analysis, where only finite verbs are required
+(3) adjust_moves.php - moves the clause marker where required
+(4) segment.php - segment the utterances into clauses - select the relevant line if you want to choose finite verbs only (for MLF analysis)
+
+Then bracket the reinforcers, so that they are not counted when we count speech-turns.
+reinforcers.php - marks the clauses to be ignored
+
+Inject the cognates:
+insert_triggers.php - mark the words in the file as cognates (triggers), based on the various cognate lists
+
+write_rei.php - writes out the file leaving out clauses that consist only of reinforcers
+
+(deprecated) adjust_t.php - previously used (based on adjust_deletes.php) to deal with things like fan and pan, which were being marked as derived from English even though they are Welsh; now handled by additional clauses in the SQL queries in insert_cognates.php
+
+(deprecated) Apply the clause algorithm to count the switches for each trigger:
+(deprecated) generate_clause_data.php - produces a TeX file with a running total
+
+(now called from write_cognates.php) create_cognates.php - create a new table, filename_cognates, to hold data about each clause
+
+write_cognates.php - get the relevant data from the filename_cgwords table and write it to the filename_cognates table
+
+analyse_cognates.php - analyse the filename_cognates table and write the external and internal codeswitch data to that table using the following algorithms:
+	external (interclausal):
+		// get the language of the last non-T in this clause (call it p_lg)
+		// get the language of the first non-T in the next clause (call it f_lg)
+			// if f_lg != p_lg, then S, else NS
+			// if this clause contains T, then T, else NT
+	internal (intraclausal):
+		// if there is more than one language in this clause, then S, else NS
+			// if this clause contains T, then T, else NT
+
+select (maxloc-minloc)+1 as clause_length, count((maxloc-minloc)+1) as frequency from stammers4_cognates where speaker='ELE' group by clause_length  order by clause_length 
+
+results_table.php - read the trigger/codeswitch data from each table and add tehm to a cognate_results table.  This can then be fed into R.
+
+
+
+
+Things to look at
+===========
+
+Does it make sense not to count code-switches between speaker-turns?
+
+Count backward externals as well as forward ones.
+
+Reinsert reinforcers.
+
+Split at infinitives too.
+
+
+
+
+
+
+
+
+
+Trigger determination
+==============
+
+Collect all indeterminates from a file:
+create table stammers4_triggers as select distinct surface from stammers4_cgwords where langid!='cym' and langid!='eng' and langid!='999' order by surface
+
+
+Notes for technical description
+====================
+
+Import and gloss the files using the autoglosser.
+
+Set up lists of words for the onion-rings.  Diana: discuss what was done here.
+
+Split the clauses.  Used a split on finite verbs.  Will examine split on non-finite verbs as well in a second stage.  Discuss pros and cons.  How this was done.  Add a clause-marker to the word table.  Delete inappropriate clause-markers, and move ones that are incorrectly placed.  Rather a blunt knife.
+
+Mark reinforcers, so that they are not counted when we count speech-turns.  Will also count them in a second stage.
+
+Inject the cognates.  Multiple groups can be injected, based on the onion-ring lists.
+
+Count the clause-switches.
+
+
+
+
+Bugs
+===
+
+External forward shows ST or NST in the first line of some files.  This is because the first clause is not being marked "new" in those files.  Why?
+
+A single (trigger?) word at the head of a speech-turn will be marked as external ST.
+
+
+
+
+
+
+

@@ -1,0 +1,2571 @@
+1, 1	1, 1-5	MED	digon o angen ryw grysau	SNT	NSNT
+1, 2	2, 1-11	MED	*polo* shirts a ballu wedi mynd yn flêr iddo fo timod	---	ST
+
+
+2, 1	3, 1-5	LER	llynedd ar ei ben_blwydd o	NSNT	NSNT
+2, 2	3, 6-9	LER	aethoch chi *Old_Trafford* ta	---	NST
+
+
+3, 1	4, 1-3	MED	ia mewn ffordd	NSNT	NSNT
+3, 2	5, 1-7	MED	ond aethon ni ddim *quite* amser pen_blwydd	---	NST
+
+
+4, 1	6, 1-5	LER	*oh* *right* because o'n i	---	ST
+
+
+5, 1	7, 1-2	MED	oedd hi	NSNT	NSNT
+5, 2	8, 1-3	MED	pryd oedd hi	NSNT	NSNT
+5, 3	9, 1-4	MED	ychydig bach wedyn doedd	NSNT	NSNT
+5, 4	11, 1-3	MED	oedd *Tony* deud	NST	NST
+5, 5	11, 4-8	MED	bod yna dicedi penwythnos yma	NSNT	NSNT
+5, 6	11, 9-10	MED	petasai rywun	NSNT	NSNT
+5, 7	11, 11-13	MED	wedi bod isio	NSNT	NSNT
+5, 8	11, 14-14	MED	doedd	---	NSNT
+
+
+6, 1	12, 2-5	LER	oedd o yn deud	NSNT	NSNT
+6, 2	13, 1-5	LER	fysa chdi yma dydd Gwener	NSNT	NSNT
+6, 3	14, 1-2	LER	meddai fo	NSNT	NSNT
+6, 4	15, 1-12	LER	ryw bum munud i bedwar oedd yna rywun wedi ffonio fo *yeah*	NST	NST
+6, 5	18, 1-6	LER	oedd yna ddigonedd o dicedi *well*	NST	NST
+6, 6	18, 7-12	LER	timod digon o docynnau i fynd	---	NSNT
+
+
+7, 1	19, 1-2	MED	oedd yna	NSNT	NSNT
+7, 2	20, 1-8	MED	am bod yr isio mynd i yr *game*	NST	NST
+7, 3	20, 9-10	MED	oedden nhw	---	NSNT
+
+
+8, 1	22, 1-1	LER	*so*	---	NST
+
+
+9, 1	25, 1-7	MED	a wedyn oedd isio herian *Gwen* heddiw	NST	NST
+9, 2	25, 8-8	MED	doedd	NSNT	NSNT
+9, 3	26, 1-3	MED	achos oedd neithiwr	NSNT	NSNT
+9, 4	26, 5-8	MED	mae Lerpwl yn chwarae	NSNT	NSNT
+9, 5	26, 9-11	MED	meddai *Gwen* neithiwr	NST	NST
+9, 6	26, 12-18	MED	de cyn i ni fynd o yna	---	NSNT
+
+
+10, 1	28, 1-7	LER	ddaru fi ddim gweld y *scores* neithiwr	NST	NST
+10, 2	28, 8-8	LER	sti	---	NSNT
+
+
+11, 1	29, 1-4	MED	colli two nil do	---	SNT
+
+
+12, 1	32, 1-3	LER	*right* *right* dda	---	NST
+
+
+13, 1	33, 1-7	MED	welaist ti *game* *er* Caerfyrddin yn_erbyn Abertawe	NST	NST
+13, 2	33, 8-8	MED	ta	---	NSNT
+
+
+14, 1	34, 1-1	LER	naddo	---	NSNT
+
+
+15, 1	35, 1-6	MED	oedd honno yn *er* exciting neithiwr	NST	ST
+15, 2	36, 1-4	MED	yn y Welsh_Cup de	NSNT	SNT
+15, 3	37, 3-6	MED	oedd o ar blaen	---	NSNT
+
+
+16, 1	38, 1-3	LER	oedd *er* *Graham*	NST	NST
+16, 2	40, 1-6	LER	achos oedd *Graham* wrthi yn gwatsiad	ST	NST
+16, 3	41, 1-6	LER	*um* because *Everton* ydy *deam* o	NST	ST
+16, 4	43, 1-6	LER	a wedyn gaethon nhw chwip dîn	NSNT	NSNT
+16, 5	45, 1-6	LER	*well* oedd hi yn four one	ST	ST
+16, 6	45, 7-11	LER	pan ddaru fi sbïo felly	---	NSNT
+
+
+17, 1	46, 1-5	MED	four one oedd hi ia	---	SNT
+
+
+18, 1	47, 1-3	LER	*oh* oedd hi	NST	NST
+18, 2	47, 4-4	LER	dyna	NSNT	NSNT
+18, 3	47, 5-9	LER	oedd hi yn diwedd *yeah*	---	NST
+
+
+19, 1	48, 1-3	MED	because oedd *Rhodri*	NST	ST
+19, 2	50, 1-4	MED	oedd o wedi meddwl	NSNT	NSNT
+19, 3	51, 1-7	MED	well mi text_io *Gary_Edwards* de because because	ST	ST
+19, 4	51, 8-11	MED	mae i herian hwnnw	NSNT	NSNT
+19, 5	52, 1-1	MED	tibod	NSNT	NSNT
+19, 6	53, 1-5	MED	achos mae hwnnw yn Evertonian	SNT	SNT
+19, 7	54, 1-11	MED	ond oedd Caerfyrddin ar blaen tan y ychydig o *extra* time	ST	ST
+19, 8	55, 1-5	MED	*er* a dyma Abertawe yn	NST	NST
+19, 9	57, 1-3	MED	ia bechod de	SNT	NSNT
+19, 10	58, 1-3	MED	the underdogs de	NSNT	SNT
+19, 11	60, 1-9	MED	*so* mae hynny yn *er* gwpan Cymraeg mewn ffordd	---	NST
+
+
+20, 1	61, 1-5	LER	*oh* na ddaru fi ddim	NST	NST
+20, 2	61, 6-8	LER	ddaru fi ddim	NSNT	NSNT
+20, 3	62, 1-8	LER	be ddaru fi wylio ar y teledu neithiwr	---	NSNT
+
+
+21, 1	63, 1-4	MED	y *Bill* mae *sure*	---	NST
+
+
+22, 1	64, 1-5	LER	*oh* naddo ti gwybod be	NST	NST
+22, 2	65, 1-3	LER	ddaru fi ddim	NSNT	NSNT
+22, 3	66, 2-3	LER	oedd *Gwyn*	NST	NST
+22, 4	66, 4-8	LER	oedd o ddim yn dda	NSNT	NSNT
+22, 5	66, 9-10	LER	nag oedd	---	NSNT
+
+
+23, 1	67, 1-2	MED	nag oedd	---	NSNT
+
+
+24, 1	68, 1-14	LER	a wedyn oedd o yn ryw beth yna ddim yn mynd i wely felly	NSNT	NSNT
+24, 2	69, 1-8	LER	a wedyn mae licio fi ganu iddo fo	NSNT	NSNT
+24, 3	69, 9-9	LER	sti	SNT	NSNT
+24, 5	71, 1-5	LER	gosh God knows pam de	NSNT	SNT
+24, 6	72, 1-4	LER	tydy o ddim efo	NSNT	NSNT
+24, 7	73, 1-4	LER	ond bob nos mae	NSNT	NSNT
+24, 8	73, 5-10	LER	gynna i yr un un *routine*	NST	NST
+24, 9	73, 11-16	LER	mae *oh* yr un un caneuon	NST	NST
+24, 10	73, 17-21	LER	dw i yn gorod ganu	---	NSNT
+
+
+25, 1	74, 1-6	MED	yr un un caneuon ia ia	---	NSNT
+
+
+26, 1	75, 1-5	LER	a wedyn mae yn deud	SNT	NSNT
+26, 2	76, 1-3	LER	*Ar_Lan_Y_Môr* *mam* *Ar_Lan_Y_Môr*	ST	NST
+26, 3	77, 1-17	LER	a wedyn dw yn gorod eistedd yna ar waelod ei wely fo yn canu yr caneuon yma	NSNT	NSNT
+26, 4	78, 1-4	LER	a wedyn mae *sure*	NST	NST
+26, 5	78, 5-12	LER	bod hi tua deg munud wedi wyth erbyn	NSNT	NSNT
+26, 6	78, 13-16	LER	ddaru fi ddod i_lawr	NSNT	NSNT
+26, 7	80, 1-6	LER	a wedyn dw ddim yn licio	NSNT	NSNT
+26, 8	81, 1-7	LER	os dw i wedi fethu ddechrau fo	NSNT	NSNT
+26, 9	81, 8-10	LER	wna i ddim	NSNT	NSNT
+26, 10	81, 11-11	LER	sti	---	NSNT
+
+
+27, 1	82, 1-4	MED	ti wedi fethu o	---	NSNT
+
+
+28, 1	83, 1-7	LER	oedd *Graham* wedi y y tâp ymlaen	---	NST
+
+
+29, 1	85, 1-6	MED	*oh* fyddi di yn dapio fo	---	NST
+
+
+30, 1	86, 1-10	LER	*oh* *yeah* wedyn gella i ella i dapio fo de	NST	NST
+30, 2	87, 1-9	LER	ond *er* na *so* dw ddim wedi weld o	NST	NST
+30, 4	88, 17-24	LER	timod i i watsiad o o flaen felly	SNT	NSNT
+30, 5	90, 1-8	LER	*oh* no everything stops for the *Bill* de	NST	ST
+30, 6	91, 1-2	LER	mae yn	---	NSNT
+
+
+31, 1	92, 1-4	MED	ond *oh* dw i	NST	NST
+31, 2	92, 5-10	MED	wedi bod on ac *off* fo	NST	ST
+31, 3	93, 1-7	MED	a wedyn dw i nôl on wan	NSNT	SNT
+31, 4	95, 1-7	MED	achos mae pwy yna yn yn *jail*	NST	NST
+31, 5	95, 8-8	MED	dydy	NSNT	NSNT
+31, 6	97, 1-6	MED	*er* be ydy enw fo dŵad	---	NST
+
+
+32, 1	98, 1-3	LER	*Smithy* yn *jail*	---	NST
+
+
+33, 1	100, 1-6	MED	ond ddim isio deud wrtha chdi	NSNT	NSNT
+33, 2	101, 1-3	MED	ond mae nhw	NSNT	NSNT
+33, 3	101, 4-15	MED	dyn nhw ddim yn wneud hwnnw bob wsnos chwaith bob pennod nac	NSNT	NSNT
+33, 4	101, 16-16	MED	ydyn	NSNT	NSNT
+33, 5	101, 17-17	MED	sti	---	NSNT
+
+
+34, 1	102, 1-3	LER	nac ydy nac	NSNT	NSNT
+34, 2	103, 1-8	LER	ond *er* *oh* na dydy o ddim bwys	---	NST
+
+
+35, 1	104, 1-2	MED	ond *um*	---	NST
+
+
+36, 1	105, 1-3	LER	dw i yn	NSNT	NSNT
+36, 2	105, 4-11	LER	dw i yn darllen i_fyny amdano fo anyway	SNT	SNT
+36, 3	105, 12-12	LER	sti	NSNT	NSNT
+36, 4	106, 1-3	LER	dw isio gwybod	---	NSNT
+
+
+37, 1	107, 1-2	MED	*oh* dyna	NST	NST
+37, 2	107, 3-7	MED	dw i hefyd efo *Coronation*	---	NST
+
+
+38, 1	108, 1-3	LER	dw isio gwybod	---	NSNT
+
+
+39, 1	109, 1-3	MED	dw yn gwybod	NSNT	NSNT
+39, 2	109, 4-9	MED	be sy yn digwydd nos Wener	---	NSNT
+
+
+40, 1	110, 1-1	LER	mae	---	NSNT
+
+
+41, 1	111, 1-6	MED	a eto dw isio watsiad o	---	NSNT
+
+
+42, 1	113, 1-2	LER	dw innau	NSNT	NSNT
+42, 2	113, 3-6	LER	dw i yn ofnadwy	NSNT	NSNT
+42, 3	114, 1-7	LER	dw i mynd ar yr *um* gwefan	NST	NST
+42, 4	116, 1-13	LER	timod amser cinio ti yn cael mynd ar ar y gwefan yn gwaith	NSNT	NSNT
+42, 5	119, 1-12	LER	*oh* dw i mynd ar y gwefan y *Bill* er_mwyn cael gwybod	NST	NST
+42, 6	119, 13-14	LER	be sy	NSNT	NSNT
+42, 7	119, 15-22	LER	be sy digwydd wsnos nesa ac wsnos wedyn	SNT	NSNT
+42, 8	121, 1-1	LER	*so*	---	NST
+
+
+43, 1	122, 1-10	MED	a gwybod bod bobl mynd ohono fo ryw bethau felly	NSNT	NSNT
+43, 2	124, 1-2	MED	dw gwybod	NSNT	NSNT
+43, 3	124, 3-8	MED	bod *Fred_Elliot* yn mynd i farw	NST	NST
+43, 4	124, 9-9	MED	dydy	NSNT	NSNT
+43, 5	126, 2-2	MED	sti	---	NSNT
+
+
+44, 1	127, 1-3	LER	*oh* dw i	---	NST
+
+
+45, 1	128, 1-9	MED	o'n i meddwl basai fo wedi mynd neithiwr neithiwr	---	NSNT
+
+
+46, 1	130, 1-6	LER	*oh* na dw i ddim yn	NST	NST
+46, 2	130, 7-12	LER	dw i ddim yn gwylio *Coronation*	---	NST
+
+
+47, 1	131, 1-4	MED	*oh* achos oedd yna	NST	NST
+47, 2	131, 5-10	MED	sti ryw gwffio ryw bethau felly	NSNT	NSNT
+47, 3	132, 1-6	MED	oedd o yno fo neithiwr felly	NSNT	NSNT
+47, 4	133, 1-4	MED	ac o'n i meddwl	NSNT	NSNT
+47, 5	134, 1-2	MED	*oh* mae	NST	NST
+47, 6	134, 3-4	MED	mae hwn	NSNT	NSNT
+47, 7	134, 5-14	MED	mae hwn wedi cael un wan yn fan hyn felly	NSNT	NSNT
+47, 8	135, 1-2	MED	ond *um*	---	NST
+
+
+48, 1	136, 1-7	LER	o'n i yn gwybod bod yr *actor*	NST	NST
+48, 2	136, 8-12	LER	yn bod o wedi deud	NSNT	NSNT
+48, 3	136, 13-20	LER	bod o yn bored efo fo neu rywbeth	---	SNT
+
+
+49, 1	138, 1-6	MED	sut mae o yn deud *oh*	NST	NST
+49, 2	138, 7-13	MED	bod nhw ddim yn sgwennu fath â	NSNT	NSNT
+49, 3	138, 14-18	MED	oedden nhw ers_talwm mewn ffordd	NSNT	NSNT
+49, 4	139, 1-3	MED	mae o yn	NSNT	NSNT
+49, 5	139, 4-7	MED	dw ddim yn meddwl	NSNT	NSNT
+49, 6	139, 8-13	MED	bod o licio yr storylines hwyrach	NSNT	SNT
+49, 7	139, 15-19	MED	sti *er* ryw bethau felly	---	NST
+
+
+50, 1	142, 1-5	LER	ond ydyn nhw mynd i	NSNT	NSNT
+50, 2	143, 1-2	LER	*oh* mae	NST	NST
+50, 3	143, 3-5	LER	mae o wedi	NSNT	NSNT
+50, 4	143, 6-11	LER	mae nhw wedi wfftio fo felly	NSNT	NSNT
+50, 5	143, 12-18	LER	os ydyn nhw mynd i ladd o	NSNT	NSNT
+50, 6	143, 19-19	LER	dydy	---	NSNT
+
+
+51, 1	144, 1-2	MED	*so* *er*	ST	NST
+51, 2	146, 1-4	MED	ddaw o ddim yn_ôl	NSNT	NSNT
+51, 3	146, 5-6	MED	na ddaw	---	NSNT
+
+
+52, 1	147, 1-1	LER	gosh	---	NSNT
+
+
+53, 1	148, 1-7	MED	os na fydd o yn y gawod	---	NSNT
+
+
+54, 1	151, 1-4	LER	*oh* *yeah* da de	NST	NST
+54, 3	153, 1-6	LER	ond *er* ia *so* *oh* Duw	---	NST
+
+
+55, 1	154, 1-6	MED	wyt ti gwatsiad y *Life_On_Mars* yna	NST	NST
+55, 2	154, 7-7	MED	ta	---	NSNT
+
+
+56, 1	155, 1-1	LER	yndw	NSNT	NSNT
+56, 2	156, 1-9	LER	mae hwnna yn un o yn y y *programmes*	NST	NST
+56, 3	156, 10-12	LER	dw i really	SNT	SNT
+56, 4	156, 13-16	LER	dw i yn really	---	SNT
+
+
+57, 1	157, 1-9	MED	ti fath â *Rhodri* licio ryw *ddetectives* a plismyn	---	NST
+
+
+58, 1	158, 1-1	LER	yndw	NSNT	NSNT
+58, 2	158, 2-2	LER	yndw	---	NSNT
+
+
+59, 1	159, 1-10	MED	*oh* do'n i ddim wedi mynd i hwnnw ti gweld	NST	NST
+59, 2	160, 1-9	MED	achos *oh* o'n i meddwl fod o fath â	NST	NST
+59, 3	161, 1-3	MED	be be arall	NSNT	NSNT
+59, 4	162, 1-6	MED	oedd yna ryw raglen adeg rhyfel	NSNT	NSNT
+59, 5	162, 7-7	MED	doedd	NSNT	NSNT
+59, 6	163, 1-5	MED	be oedd enw hwnnw dŵad	NSNT	NSNT
+59, 7	164, 1-5	MED	ac oedd y *boy* yma	NST	NST
+59, 8	164, 6-10	MED	oedd o yn byw rŵan	NSNT	NSNT
+59, 9	164, 11-19	MED	ac oedd o mynd yn_ôl i adeg rhyfel a	---	NSNT
+
+
+60, 1	165, 1-4	LER	*oh* oedd *er* *Goodnight_Sweetheart*	---	NST
+
+
+61, 1	166, 1-4	MED	ia ac oedd o	NSNT	NSNT
+61, 2	167, 1-7	MED	oedd *Rhodri* wrth ei fodd efo hwnna	NST	NST
+61, 3	168, 1-10	MED	ac o'n i meddwl mai rywbeth felly oedd o tibod	NSNT	NSNT
+61, 4	170, 1-8	MED	ond wnes i eistedd nos Lun a benderfynu	NSNT	NSNT
+61, 5	171, 1-5	MED	a wedyn mewn ffordd mae	NSNT	NSNT
+61, 6	171, 6-6	MED	yr	NSNT	NSNT
+61, 7	171, 7-14	MED	mae yr *ddrama* yn digwydd yn y saith_degau	NST	NST
+61, 8	171, 15-15	MED	dydy	NSNT	NSNT
+61, 9	171, 16-21	MED	ond bod o ddim yn *sure*	---	NST
+
+
+62, 1	173, 1-4	LER	yn lle mae o	NSNT	NSNT
+62, 2	175, 1-2	LER	mae nhw	NSNT	NSNT
+62, 3	175, 3-6	LER	mae o yn deud	NSNT	NSNT
+62, 4	175, 9-12	LER	ydy o mewn *coma*	NST	NST
+62, 5	175, 13-17	LER	ydy o wedi mynd yn	NSNT	NSNT
+62, 6	175, 18-19	LER	ond yn_de	NSNT	NSNT
+62, 7	177, 1-13	LER	ond eto mae yn clywed ei ei fam yn siarad efo fo ballu	NSNT	NSNT
+62, 8	177, 14-20	LER	dydy yn deud *oh* fath â *um*	---	NST
+
+
+63, 1	178, 1-9	MED	mae ofn bod o mynd i farw wsnos nesa	NSNT	NSNT
+63, 2	178, 10-12	MED	dydy yn_ôl *er*	---	NST
+
+
+64, 1	179, 1-2	LER	dw i	NSNT	NSNT
+64, 2	180, 1-2	LER	farw yndy	NSNT	NSNT
+64, 3	180, 4-4	LER	sti	NSNT	NSNT
+64, 4	181, 1-5	LER	ond argoel na dw i	NSNT	NSNT
+64, 5	182, 1-9	LER	i ddechrau pan ddaru fi ddarllen amdano fo fel	NSNT	NSNT
+64, 6	183, 1-5	LER	*oh* dw ddim yn gwybod	NST	NST
+64, 7	185, 1-6	LER	wna i wylio hwn neu beidio	NSNT	NSNT
+64, 8	187, 1-6	LER	ac ella i ddim methu fo	NSNT	NSNT
+64, 9	188, 1-6	LER	a mae hyd_yn_oed *Graham* yn deud	NST	NST
+64, 10	189, 1-9	LER	*oh* mae hwn yn un o yr pethau gorau	NST	NST
+64, 11	189, 10-13	LER	sy ar y teledu	---	NSNT
+
+
+65, 1	190, 1-5	MED	yn_dydy mae o yn un	---	NSNT
+
+
+66, 1	192, 1-3	LER	*well* dw i	NST	NST
+66, 2	193, 1-9	LER	a mae o remind_io fi remind_io fi o *The_Sweeney*	NST	ST
+66, 3	194, 2-7	LER	oedda chdi yn gwatsiad y *Sweeney*	---	NST
+
+
+67, 1	195, 1-5	MED	dyna chdi ia *type* yna	NST	NST
+67, 2	196, 1-4	MED	yndy achos fel yna	---	NSNT
+
+
+68, 1	197, 1-6	LER	ac oedden nhw waldio ac yn	NSNT	NSNT
+68, 2	197, 7-11	LER	be timod ac ddim yn	---	NSNT
+
+
+69, 1	198, 1-1	MED	oedden	NSNT	NSNT
+69, 2	199, 1-5	MED	fel yna oedd plismyn ers_talwm	NSNT	NSNT
+69, 3	199, 7-7	MED	sti	---	NSNT
+
+
+70, 1	200, 1-3	LER	oedd yna ddim	NSNT	NSNT
+70, 2	202, 1-4	LER	nhw oedd yn y	NSNT	NSNT
+70, 3	202, 5-9	LER	oedd yn iawn adeg hynny	NSNT	NSNT
+70, 4	204, 2-2	LER	mae	NSNT	NSNT
+70, 5	204, 3-6	LER	mae yr ddysgl wedi	NSNT	NSNT
+70, 6	204, 7-10	LER	mae wedi troi wan	NSNT	NSNT
+70, 7	204, 11-11	LER	dydy	NSNT	NSNT
+70, 8	206, 1-2	LER	mae bob_dim	SNT	NSNT
+70, 9	207, 1-6	LER	innocent until proven guilty ydy wan	NSNT	SNT
+70, 10	207, 7-9	LER	de ond *er*	---	NST
+
+
+71, 1	208, 1-7	MED	ia fyw ti dwtsiad wan nac ydy	---	NSNT
+
+
+72, 1	209, 1-2	LER	nac ydy	NSNT	NSNT
+72, 2	210, 1-2	LER	ond *er*	---	NST
+
+
+73, 1	211, 1-6	MED	a be oedd yn fascinate_io fi	NSNT	SNT
+73, 2	211, 7-9	MED	oedd y pris	NSNT	NSNT
+73, 3	212, 1-5	MED	welaist ti pris ticed *Man_U*	---	NST
+
+
+74, 1	213, 1-3	LER	do twenty_three pee	---	SNT
+
+
+75, 1	214, 1-3	MED	rywbeth de ia	---	NSNT
+
+
+76, 1	215, 1-3	LER	neu thirty_five pee	---	SNT
+
+
+77, 1	216, 1-5	MED	ia ia thirty_five oedd o	---	SNT
+
+
+78, 1	219, 1-6	LER	a ti yn talu be wan	NSNT	NSNT
+78, 2	220, 1-9	LER	tri_deg_pum punt wan i fynd i weld nhw dwyt	---	NSNT
+
+
+79, 1	222, 1-7	MED	ac yn y y saith_degau oedd o	---	NSNT
+
+
+80, 1	223, 1-2	LER	ie *so*	---	NST
+
+
+81, 1	224, 1-6	MED	because es i *Deiniolen* bore yma	NST	ST
+81, 2	224, 7-9	MED	do peth yna	NSNT	NSNT
+81, 3	225, 1-6	MED	*er* a a dyma fi mewn	NST	NST
+81, 4	226, 1-9	MED	o'n i wedi wneud *appointment* efo yr *Eleri* yma	NST	NST
+81, 5	228, 1-6	MED	a dyma fi yn deud wan	NSNT	NSNT
+81, 7	231, 1-4	MED	a dyma fi yn	NSNT	NSNT
+81, 8	233, 1-6	MED	injan dân ta beth yna ydy	NSNT	NSNT
+81, 9	233, 7-8	MED	honna wan	---	NSNT
+
+
+82, 1	234, 1-2	LER	ddim gwybod	---	NSNT
+
+
+83, 1	235, 1-9	MED	ddim arwydd i ni fynd o yma ydy o	NSNT	NSNT
+83, 2	235, 10-11	MED	nag ydy	NSNT	NSNT
+83, 5	238, 1-14	MED	ew o'n i fan hyn yn wneud ymarfer dysgu yn un naw saith un	NSNT	NSNT
+83, 6	239, 1-2	MED	meddai fi	NSNT	NSNT
+83, 7	241, 1-5	MED	a ac o'n i ddim	NSNT	NSNT
+83, 8	242, 1-6	MED	o'n i siarad efo *Rhiannon* gynnau	NST	NST
+83, 9	243, 1-5	MED	ac o'n i deud *er*	NST	NST
+83, 10	244, 1-1	MED	oeddachd	NSNT	NSNT
+83, 11	245, 1-7	MED	tyrd *round* i chdi gael gweld *er*	---	NST
+
+
+84, 1	246, 1-3	LER	ddeudodd o ddim_byd	---	NSNT
+
+
+85, 1	247, 1-12	MED	neb ddeud dim_byd mond y yr ysgrifenyddes felly *right* *er* amazed felly	NST	ST
+85, 2	248, 1-11	MED	a wnes i siarad dipyn bach efo honno wedyn a deud	NSNT	NSNT
+85, 3	249, 1-3	MED	dw yn cofio	NSNT	NSNT
+85, 4	250, 1-2	MED	meddai fi	NSNT	NSNT
+85, 5	251, 1-15	MED	oedd y yr *um* decimal *er* *coin* yn dod i_mewn a a isio dysgu hwnnw	NST	ST
+85, 6	253, 1-6	MED	oedd o yn beth hollol newydd	NSNT	NSNT
+85, 7	253, 7-9	MED	doedd i blant	NSNT	NSNT
+85, 8	253, 10-10	MED	doedd	NSNT	NSNT
+85, 9	253, 11-11	MED	sti	NSNT	NSNT
+85, 10	255, 1-4	MED	a dyna yr co	NSNT	NSNT
+85, 11	255, 5-7	MED	sy gyn i	NSNT	NSNT
+85, 12	256, 1-4	MED	na neb deud dim_byd	NSNT	NSNT
+85, 13	257, 1-4	MED	ac o'n i meddwl	NSNT	NSNT
+85, 14	258, 1-10	MED	a wedyn mae wedi gofyn i ni fynd yna ryw	NSNT	NSNT
+85, 15	259, 1-4	MED	dan ni mynd dŵad	NSNT	NSNT
+85, 16	260, 1-2	MED	bore neu	NSNT	NSNT
+85, 17	261, 1-7	MED	dw ddim yn cofio yr amser wan	NSNT	NSNT
+85, 18	262, 1-4	MED	a ac *oh* mae	NST	NST
+85, 19	262, 5-5	MED	yr	NSNT	NSNT
+85, 20	262, 6-6	MED	mae	NSNT	NSNT
+85, 21	262, 7-10	MED	mae yr swyddogion iau	NSNT	NSNT
+85, 22	262, 11-19	MED	wedi bod yn deud y *story* *round* y dosbarthiadau	---	NST
+
+
+86, 1	263, 1-9	LER	*oh* *right* a i fynd i weld rheiny felly	---	NST
+
+
+87, 1	264, 1-6	MED	*so* mae nhw gwybod y *story*	NST	NST
+87, 2	266, 1-3	MED	ond oedd o	NSNT	NSNT
+87, 3	266, 4-7	MED	oedd o yn awgrymu	NSNT	NSNT
+87, 5	268, 1-2	MED	*so* sti	NST	NST
+87, 6	268, 3-3	MED	dyna	NSNT	NSNT
+87, 7	268, 4-6	MED	mae hwnnw isio	---	NSNT
+
+
+88, 1	270, 1-4	LER	ond na bob tro	NSNT	NSNT
+88, 2	270, 5-9	LER	dw i wedi mynd yna	NSNT	NSNT
+88, 3	270, 10-10	LER	mae	NSNT	NSNT
+88, 4	270, 11-14	LER	wedi bod yn *struggle*	NST	NST
+88, 5	271, 1-1	LER	does	NSNT	NSNT
+88, 6	271, 2-6	LER	dydy o ddim fath â	NSNT	NSNT
+88, 7	271, 7-7	LER	bod	---	NSNT
+
+
+89, 1	272, 1-8	MED	wnaeth o ryw ddeud *hello* a gofyn felly	---	NST
+
+
+90, 1	273, 1-3	LER	dw yn gwybod	NSNT	NSNT
+90, 2	273, 4-10	LER	dan ni ddim fod i ladd ar	NSNT	NSNT
+90, 3	274, 1-6	LER	ond dydy ddim yn ryw groesawgar	NSNT	NSNT
+90, 4	274, 7-12	LER	dydy ddim yn ryw groesawgar yna	NSNT	NSNT
+90, 5	274, 13-14	LER	nag ydy	---	NSNT
+
+
+91, 1	276, 1-5	MED	lle mae yn *guitar* i	NST	NST
+91, 2	277, 1-7	MED	meddai fo y y prif ddyn felly	NSNT	NSNT
+91, 3	278, 1-9	MED	*er* chwilio am ei *guitar* neu rywbeth oedd o	NST	NST
+91, 4	279, 1-9	MED	a wedyn mi sbïodd arna fi a deud *hello*	NST	NST
+91, 5	280, 1-6	MED	a dyma finnau yn deud wan	NSNT	NSNT
+91, 6	281, 1-4	MED	Duw wneud sgwrs te	NSNT	NSNT
+91, 7	282, 1-1	MED	tibod	NSNT	NSNT
+91, 8	284, 1-4	MED	ac *off* â fo	NST	NST
+91, 9	285, 1-5	MED	a dyma llall deud nad	NSNT	NSNT
+91, 10	285, 6-10	MED	oedd gynno fo ddim *um*	NST	NST
+91, 11	285, 11-14	MED	bod gynno fo ddosbarth	NSNT	NSNT
+91, 12	286, 1-4	MED	a ffwrdd â fo	---	NSNT
+
+
+92, 1	287, 1-6	LER	wedi newid yn_does wedi newid yndy	---	NSNT
+
+
+93, 1	289, 1-3	MED	a cael croeso	---	NSNT
+
+
+94, 1	291, 1-4	LER	a fysech licio paned	NSNT	NSNT
+94, 2	293, 1-7	LER	dydy o ddim bwys faint o brysur	NSNT	NSNT
+94, 3	293, 8-9	LER	ydyn nhw	NSNT	NSNT
+94, 4	293, 10-13	LER	wnan nhw wneud amser	NSNT	NSNT
+94, 5	293, 14-15	LER	*just* timod	NST	NST
+94, 6	293, 16-24	LER	am bod *just* pum munud o sgwrs efo chdi	---	NST
+
+
+95, 1	294, 1-4	MED	na na mae nhw	NSNT	NSNT
+95, 2	294, 5-6	MED	rhoid amser	---	NSNT
+
+
+96, 1	297, 1-5	LER	a dw i yn sylwi	NSNT	NSNT
+96, 2	297, 7-10	LER	mae yr un fath	NSNT	NSNT
+96, 3	297, 11-16	LER	pan mae rhieni mynd i_fewn yna	NSNT	NSNT
+96, 4	298, 1-4	LER	dw i yn teimlo	NSNT	NSNT
+96, 5	298, 5-19	LER	bod gynnyn nhw amser i drin a trafod eu plant nhw a ballu efo nhw	---	NSNT
+
+
+97, 1	300, 1-2	MED	yndy Duw	---	NSNT
+
+
+98, 1	301, 1-6	LER	ddaru fi ffonio *Nefyn* pnawn ddoe	NST	NST
+98, 2	303, 1-5	LER	oedd gynnyn nhw ffair lyfrau	NSNT	NSNT
+98, 3	304, 1-7	LER	*so* oedden nhw dal yna yn hwyr	NST	NST
+98, 4	306, 1-9	LER	wedyn ddaru fi siarad efo *Heledd* tan chwarter i	NST	NST
+98, 5	307, 1-6	LER	chwarter i bump ballu oedd hi	NSNT	NSNT
+98, 6	308, 1-15	LER	a wedyn dw mynd yna pnawn dydd *er* pnawn dydd Llun i i drafod o	NST	NST
+98, 7	310, 1-4	LER	wedyn gobeithio fydd yna	---	NSNT
+
+
+99, 1	311, 1-7	MED	a ti isio ni fynd efo ei_gilydd	NSNT	NSNT
+99, 2	312, 1-3	MED	neu awn ni	SNT	NSNT
+99, 3	313, 1-9	MED	because gyn gyn i ddau blentyn oedd yn absennol	---	SNT
+
+
+100, 1	314, 1-5	LER	ie dw ddim yn meindio	---	NSNT
+
+
+101, 1	315, 1-9	MED	ac mae gyn i yr un fath yn *Tregarth*	NST	NST
+101, 2	316, 1-8	MED	ond o'n i teimlo oedd hi yn deud	NSNT	NSNT
+101, 3	317, 1-14	MED	does yna ddim *point* i mi drio ffonio yr ysgol yn bore i edrych	NST	NST
+101, 4	317, 15-17	MED	ydyn nhw yna	NSNT	NSNT
+101, 5	317, 18-19	MED	nag oes	NSNT	NSNT
+101, 6	318, 1-16	MED	haws mynd yna a cymryd y *risk* bod nhw bod nhw mynd i fod yna felly	---	NST
+
+
+102, 1	319, 1-6	LER	bod nhw mynd i fod yna	---	NSNT
+
+
+103, 1	320, 1-7	MED	dw i yn trio gwneud hynny leni	NSNT	NSNT
+103, 2	320, 8-17	MED	os ydyn nhw wedi colli yn enwedig yr wsnos ola	---	NSNT
+
+
+104, 1	322, 1-5	LER	na ddo i efo chdi	---	NSNT
+
+
+105, 1	323, 1-2	MED	bod fi	NSNT	NSNT
+105, 2	323, 3-3	MED	wsti	NSNT	NSNT
+105, 3	323, 4-8	MED	bod ni yn gwneud *um*	---	NST
+
+
+106, 1	324, 1-12	LER	because os ti mynd yna mae yn *odd* i ni mynd â	NST	ST
+106, 2	324, 13-14	LER	mae yn	NSNT	NSNT
+106, 3	324, 15-19	LER	wirion mynd â dau *gar*	NST	NST
+106, 4	324, 20-24	LER	dydy a chdithau mynd yna	NSNT	NSNT
+106, 5	324, 25-25	LER	dydy	NSNT	NSNT
+106, 6	326, 1-4	LER	ddo i efo chdi	SNT	NSNT
+106, 7	327, 1-10	LER	because wna i mynd i_mewn i yr swyddfa yn bore	NSNT	SNT
+106, 8	327, 11-11	LER	sti	NSNT	NSNT
+106, 9	328, 1-3	LER	wedyn gei di	---	NSNT
+
+
+107, 1	329, 1-3	MED	lle dw i	NSNT	NSNT
+107, 2	330, 1-5	MED	*oh* *yeah* mae gyn i	NST	NST
+107, 3	330, 6-14	MED	mae *Llanrug* mynd i fod yn dal i fynd	NST	NST
+107, 4	331, 1-9	MED	achos o'n i wedi colli mymryn yn fan yno	---	NSNT
+
+
+108, 1	332, 1-1	LER	*so*	ST	NST
+108, 2	333, 1-3	LER	*oh* Duw wedyn	NST	NST
+108, 3	335, 1-6	LER	does yna ddim_byd arall wedi digwydd	NSNT	NSNT
+108, 4	335, 7-10	LER	dw ddim yn meddwl	NSNT	NSNT
+108, 5	336, 1-14	LER	oedd yr *um* y *ddrama* yn yn cario yn ei blaen heddiw beth bynnag	---	NST
+
+
+109, 1	338, 1-4	MED	*oh* rhaid mi yrru	---	NST
+
+
+110, 1	339, 3-6	LER	oedd *Sally* wedi ffonio	NST	NST
+110, 2	340, 1-3	LER	ac oedd *um*	NST	NST
+110, 3	340, 4-6	LER	oedd bob_dim yn	NSNT	NSNT
+110, 4	341, 1-6	LER	oedd o yn dal mewn poen	NSNT	NSNT
+110, 5	341, 7-8	LER	dw meddwl	NSNT	NSNT
+110, 6	342, 1-12	LER	wedyn oedd o ddim yn mynd i fod yn rhedeg o_gwmpas gymaint	NSNT	NSNT
+110, 7	342, 13-14	LER	â â	NSNT	NSNT
+110, 8	342, 15-16	LER	mae ag	NSNT	NSNT
+110, 9	342, 17-20	LER	mae nhw fod felly	SNT	NSNT
+110, 10	344, 1-1	LER	but	---	NSNT
+
+
+111, 1	345, 1-4	MED	oedd hi yn deud	NSNT	NSNT
+111, 2	345, 5-19	MED	bod y dyn *er* ryw ddynes wedi deud wrthi hi neu rywbeth *er* bore yma	NST	NST
+111, 3	346, 1-4	MED	ddeudodd hi wrtha chdi	NSNT	NSNT
+111, 4	347, 1-7	MED	rhyfedd meddai i hynna fod wedi digwydd	NSNT	NSNT
+111, 5	347, 8-9	MED	meddai fi	NSNT	NSNT
+111, 6	348, 1-4	MED	achos wnaeth y ddynes	NSNT	NSNT
+111, 7	348, 5-12	MED	oedd yn trefnu yr peth ddeud felly *um*	NST	NST
+111, 8	348, 13-20	MED	bod yna *lot* o offer i gario felly	NST	NST
+111, 9	349, 1-5	MED	a mae *sure* na actorion	NST	NST
+111, 10	349, 6-8	MED	ydy rhein felly	NSNT	NSNT
+111, 11	350, 1-3	MED	dwn i ddim	NSNT	NSNT
+111, 12	350, 5-9	MED	gynnon nhw gefn llwyfan felly	NSNT	NSNT
+111, 13	352, 1-6	MED	ond bod yna rei yn bob	---	NSNT
+
+
+112, 1	353, 1-9	LER	na *oh* mond y mond y pedwar ohonyn nhw	---	NST
+
+
+113, 1	354, 1-20	MED	*yeah* ti gweld am bod yna rei yn bob ysgol felly *er* fel arfer yn helpu i gario pethau mewn	NST	NST
+113, 2	355, 1-5	MED	ond oedd *Sally* wedi tsiecio	NST	NST
+113, 3	356, 1-5	MED	ac oedd yr ysgolion deud	NSNT	NSNT
+113, 4	357, 1-10	MED	na dan ni ddim yn cymryd y cyfrifoldeb o hynny	NSNT	NSNT
+113, 5	358, 1-9	MED	*er* timod efo yr health and safety yma felly	NST	ST
+113, 6	361, 1-9	MED	a rhyfedd i hynna fod wedi digwydd meddai hi	NSNT	NSNT
+113, 7	361, 12-12	MED	dyna	NSNT	NSNT
+113, 8	361, 13-17	MED	bod nhw yn offer trwm	NSNT	NSNT
+113, 9	361, 18-19	MED	mae *sure*	NST	NST
+113, 10	361, 20-22	MED	a bod *er*	NST	NST
+113, 11	361, 23-23	MED	wsti	---	NSNT
+
+
+114, 1	362, 1-3	LER	argoel mi oedd	SNT	NSNT
+114, 2	363, 1-5	LER	because pan o'n i *er*	NST	ST
+114, 3	364, 1-1	LER	pa	NSNT	NSNT
+114, 4	365, 1-9	LER	ysgol *Tryfan* ddaru fi fynd i bore dydd Llun	NST	NST
+114, 5	367, 1-5	LER	ac o'n i yn gweld	NSNT	NSNT
+114, 6	368, 1-4	LER	ac oedd y genod	NSNT	NSNT
+114, 7	368, 5-12	LER	wsti yn halio yr blinking speakers mawr yma	NSNT	SNT
+114, 8	369, 1-6	LER	ac o'n i meddwl argoel fawr	---	NSNT
+
+
+115, 1	370, 1-2	MED	*oh* nefoedd	---	NST
+
+
+116, 1	371, 1-4	LER	timod a yn deud	NSNT	NSNT
+116, 2	372, 1-3	LER	argoel dach chi	NSNT	NSNT
+116, 3	373, 1-5	LER	*oh* dan ni wedi arfer	NST	NST
+116, 4	374, 1-2	LER	medden nhw	NSNT	NSNT
+116, 5	375, 1-5	LER	ond *um* toedd yna neb	NST	NST
+116, 6	376, 1-11	LER	ond pan o'n i mynd o_gwmpas efo cwmni yr *Frân_Wen* sti	NST	NST
+116, 7	376, 12-23	LER	oedd yna mond y y tri *actor* yfi a yr yr hogan	NST	NST
+116, 8	376, 24-32	LER	oedd yn peth yna yr llwyfan rheolwr y llwyfan	NSNT	NSNT
+116, 9	378, 1-4	LER	a ni oedd yn	NSNT	NSNT
+116, 10	378, 5-5	LER	roid	NSNT	NSNT
+116, 11	379, 3-4	LER	oedden ni	NSNT	NSNT
+116, 12	379, 5-10	LER	roid y *sets* i_fyny a bob_dim	---	NST
+
+
+117, 1	380, 2-2	MED	dyna	NSNT	NSNT
+117, 2	380, 3-3	MED	dyna	NSNT	NSNT
+117, 3	380, 4-7	MED	ydy o iddyn nhw	---	NSNT
+
+
+118, 1	381, 1-1	LER	dyna	NSNT	NSNT
+118, 2	381, 2-3	LER	ydy o	NSNT	NSNT
+118, 3	382, 1-6	LER	y math yna y math yna	NSNT	NSNT
+118, 4	384, 1-11	LER	dydyn nhw ddim yn dydyn nhw ddim yn *er* *prima* timod	NST	NST
+118, 5	384, 12-23	LER	dydy ddim *use* iddyn nhw fod yn brima donnas na dim_byd nac	---	ST
+
+
+119, 1	385, 1-7	MED	ond dwn i ddim o o hon	NSNT	NSNT
+119, 2	386, 1-2	MED	nac ydy	NSNT	NSNT
+119, 3	387, 1-6	MED	rhaid chdi roughing it really hefo	NSNT	SNT
+119, 4	389, 1-3	MED	a mae nhw	NSNT	NSNT
+119, 5	389, 4-9	MED	mae rei yn credu na hynna	NSNT	NSNT
+119, 6	389, 10-11	MED	ydy actio	NSNT	NSNT
+119, 7	389, 12-19	MED	dydy tibod y y raw peth yma felly	---	SNT
+
+
+120, 1	391, 1-3	LER	ond oedd o	NSNT	NSNT
+120, 2	391, 4-6	LER	oedden nhw *er*	NST	NST
+120, 3	391, 7-8	LER	oedd eu	NSNT	NSNT
+120, 4	391, 9-12	LER	mae nhw wedi deud	NSNT	NSNT
+120, 5	391, 13-15	LER	gawn ni pres	NSNT	NSNT
+120, 6	391, 16-23	LER	gawn ni pres yn_ôl am am ddoe felly	NSNT	NSNT
+120, 7	391, 24-26	LER	bod nhw ddim	NSNT	NSNT
+120, 8	391, 27-27	LER	wsti	NSNT	NSNT
+120, 9	391, 28-31	LER	am bod nhw ddim	---	NSNT
+
+
+121, 1	392, 1-8	MED	*oh* ia bechod i yr plant oedd wedi	---	NST
+
+
+122, 1	393, 1-2	LER	*oh* dyna	NST	NST
+122, 2	393, 3-5	LER	oedd o yn	NSNT	NSNT
+122, 3	394, 1-4	LER	oedd *Sally* yn deud	NST	NST
+122, 4	394, 5-5	LER	mae	NSNT	NSNT
+122, 5	394, 6-7	LER	mae hi	NSNT	NSNT
+122, 6	394, 8-15	LER	fasai well gynni hi wedi cael er_mwyn *er*	---	NST
+
+
+123, 1	395, 1-2	MED	wneud *extra*	---	NST
+
+
+124, 1	396, 1-5	LER	ysgol *Syr_Hugh* gael o de	NST	NST
+124, 2	397, 1-11	LER	ond oedden nhw methu ffitio fo fewn yn yr *er* yn	---	NST
+
+
+125, 1	398, 1-7	MED	*so* mae *Syr_Hugh* i_gyd wedi golli o	---	NST
+
+
+126, 1	400, 1-4	LER	because oedd merch *Anwen*	NST	ST
+126, 2	400, 5-8	LER	oedd hi *right* siomedig	ST	NST
+126, 3	401, 1-13	LER	because oedd hi wedi ffonio ei *mham* amser cinio ddoe ac yn deud	NST	ST
+126, 4	401, 14-19	LER	bod hi yn siomedig felly *um*	NST	NST
+126, 5	401, 20-27	LER	bod hi ddim wedi cael gweld y *ddrama*	---	NST
+
+
+127, 1	402, 1-8	MED	oes yna ddim posib i blant mynd i	NSNT	NSNT
+127, 2	403, 1-5	MED	fysai le mewn ysgol lai	NSNT	NSNT
+127, 3	404, 1-9	MED	neu tibod fasen nhw medru ferry_io nhw yna felly	NSNT	SNT
+127, 4	405, 1-7	MED	os ydyn nhw cael y pres yn_ôl	NSNT	NSNT
+127, 5	405, 8-19	MED	basen nhw yn cael *buses* i mynd â nhw i ysgol arall	---	NST
+
+
+128, 1	408, 1-5	LER	*oh* dw ddim yn gwybod	NST	NST
+128, 2	409, 1-1	LER	achos	---	NSNT
+
+
+129, 1	410, 1-9	MED	mae yn dibynnu ar maint yr *um* neuaddau yma	---	NST
+
+
+130, 1	412, 1-4	LER	because dydw i ddim	NSNT	SNT
+130, 2	412, 5-10	LER	mae nhw yna trwy wsnos yma	NSNT	NSNT
+130, 3	412, 11-11	LER	dydy	NSNT	NSNT
+130, 4	413, 1-11	LER	a wedyn dw ddim yn gwybod faint o ddiwrnodau wsnos nesa	NSNT	NSNT
+130, 5	414, 1-10	LER	dw i ddim wedi sbïad yn iawn ar yr *um*	---	NST
+
+
+131, 1	415, 1-3	MED	*oh* dw *sure*	NST	NST
+131, 2	415, 4-7	MED	bod fi wedi astudio	NSNT	NSNT
+131, 3	416, 1-9	MED	*well* wnes innau ddim meddwl sbïo ar ddyddiadau chwaith	NST	NST
+131, 4	417, 1-6	MED	achos mae *Shelley* isio trio mynd	NST	NST
+131, 5	417, 7-7	MED	dydy	NSNT	NSNT
+131, 6	419, 1-14	MED	do'n i ddim yn gweld bod yna lawer o nunlle yn agos iddi tibod	---	NSNT
+
+
+132, 1	420, 1-7	LER	ie yn *Blaenau_Ffestiniog* mae yr un ola	NST	NST
+132, 2	420, 8-16	LER	dw i meddwl *um* y perfformiad ola lle bynnag	NST	NST
+132, 3	420, 17-17	LER	mae	NSNT	NSNT
+132, 4	420, 19-22	LER	pryd mae hwnnw felly	NSNT	NSNT
+132, 5	421, 1-8	LER	ond mae *Eve* yn dod fory o *Flint*	NST	NST
+132, 6	422, 1-5	LER	mae hi wedi ffonio cynt	---	NSNT
+
+
+133, 1	423, 1-2	MED	achos oedd	NSNT	NSNT
+133, 2	423, 3-10	MED	dydy *Caroline* ddim wedi weld o felly nac	---	NST
+
+
+134, 1	424, 1-3	LER	nac ydy because	SNT	SNT
+134, 2	424, 4-11	LER	oedd hi yn gofyn hefyd ti yn gweld	NSNT	NSNT
+134, 3	424, 12-15	LER	os fysai yna rywle	NSNT	NSNT
+134, 4	424, 16-25	LER	basai hi yn gallu dod i weld o ryw bnawn	---	NSNT
+
+
+135, 1	425, 1-8	MED	oedd hi fod i ddŵad efo *Kim* ddoe	NST	NST
+135, 2	425, 9-9	MED	doedd	---	NSNT
+
+
+136, 1	426, 1-8	LER	ddoe mi ddoth hi i yr swyddfa yn_do	NSNT	NSNT
+136, 2	427, 1-4	LER	achos oedd hi isio	---	NSNT
+
+
+137, 1	428, 1-5	MED	*oh* dw ddim yn gwybod	---	NST
+
+
+138, 1	429, 1-2	LER	do achos	NSNT	NSNT
+138, 2	429, 3-16	LER	oedd hi isio helpu fo efo rywbeth arall *oh* efo yr hen *er* peth	---	NST
+
+
+139, 1	430, 1-9	MED	*oh* dyn nhw byth wedi gael o i weithio	---	NST
+
+
+140, 1	431, 1-5	LER	methu gael o i weithio	SNT	NSNT
+140, 2	432, 1-2	LER	excuse *me*	ST	NST
+140, 3	433, 1-6	LER	ond *um* a wedyn oedd hi	NST	NST
+140, 4	433, 7-9	LER	oedd hi yn	NSNT	NSNT
+140, 5	433, 10-14	LER	oedd hi yn siomedig hefyd	NSNT	NSNT
+140, 6	434, 1-7	LER	a dyma hi yn deud *well* timod	NST	NST
+140, 7	435, 1-5	LER	os fysai yna rywle arall	SNT	NSNT
+140, 8	435, 6-7	LER	if you	NSNT	NSNT
+140, 9	435, 8-16	LER	if you *can* get *me* to to another school	ST	NST
+140, 10	436, 1-6	LER	ond dw ddim yn gwybod faint	NSNT	NSNT
+140, 11	436, 7-11	LER	mae nhw isio drafaelio nac	NSNT	NSNT
+140, 12	436, 12-15	LER	ydw ti yn gwybod	---	NSNT
+
+
+141, 1	437, 1-2	MED	ond dyna	NSNT	NSNT
+141, 2	437, 3-7	MED	be oedd *Shelley* yn ddeud	NST	NST
+141, 3	438, 1-3	MED	mae yn dibynnu	NSNT	NSNT
+141, 4	438, 4-7	MED	fysai ddim yn gwneud	NSNT	NSNT
+141, 5	439, 1-6	MED	ond dyna be o'n i yn	NSNT	NSNT
+141, 6	440, 1-5	MED	dw i wsnos nesa yn	NSNT	NSNT
+141, 7	440, 6-6	MED	rhydd	NSNT	NSNT
+141, 8	441, 1-5	MED	*oh* dw isio mynd i	NST	NST
+141, 9	442, 1-4	MED	*oh* dw i yn	NST	NST
+141, 10	442, 5-9	MED	rhydd ar fore dydd Iau	NSNT	NSNT
+141, 11	443, 1-4	MED	be ydy heddiw dŵad	---	NSNT
+
+
+142, 1	444, 1-4	LER	dydd Iau ydy heddiw	---	NSNT
+
+
+143, 1	445, 1-7	MED	ia ar fore dydd Iau *Gelli* dydw	NST	NST
+143, 2	446, 1-16	MED	*so* o'n i meddwl os dyn nhw yn dal yn rywle ar fore fore dydd Iau	NST	NST
+143, 3	447, 1-11	MED	*oh* dw isio wneud yr un fath yn *Tregarth* mynd yn_ôl	NST	NST
+143, 4	447, 12-19	MED	am bod yna ddau ddim yna ti gweld	NSNT	NSNT
+143, 5	448, 1-5	MED	*lot* o salwch o_gwmpas does	---	NST
+
+
+144, 1	449, 2-4	LER	dw yn gwybod	---	NSNT
+
+
+145, 1	450, 1-8	MED	*so* baswn i yn medru mynd dydd Mawrth	---	NST
+
+
+146, 1	451, 1-7	LER	argoel mae yr un bach gyn i	NSNT	NSNT
+146, 2	451, 9-15	LER	mae o yn o un wsnos i	NSNT	NSNT
+146, 3	452, 2-4	LER	oedd *Robin* ddim	NST	NST
+146, 4	453, 1-9	LER	ond ond dw i meddwl wrth yn hun *well*	NST	NST
+146, 5	453, 10-14	LER	oedd *Robin* adre efo fi	NST	NST
+146, 6	453, 15-15	LER	doedd	---	NSNT
+
+
+147, 1	455, 1-9	MED	mae nhw deud mai mynd i yr meithrinfeydd yma	NSNT	NSNT
+147, 2	456, 1-10	MED	ond mae *Cen* wedi cael o ti gweld ddwy waith	NST	NST
+147, 3	457, 1-8	MED	a ryw tracheitis mae *Arwel* yn alw o	NST	ST
+147, 4	458, 1-2	MED	a dyna	NSNT	NSNT
+147, 5	458, 3-6	MED	ydy yr infection yma	NSNT	SNT
+147, 6	458, 7-12	MED	mae nhw gael yn fan yma	NSNT	NSNT
+147, 7	458, 13-14	MED	ydy o	NSNT	NSNT
+147, 8	458, 15-16	MED	mae raid	---	NSNT
+
+
+148, 1	460, 1-3	LER	because oedd o	NSNT	SNT
+148, 2	460, 4-7	LER	oedd o yn union	NSNT	NSNT
+148, 3	460, 8-14	LER	oedd o yn mygu ti yn gweld	NSNT	NSNT
+148, 4	461, 1-5	LER	ond oedd o fel yna	NSNT	NSNT
+148, 5	461, 6-6	LER	sti	---	NSNT
+
+
+149, 1	462, 1-9	MED	yr hen sŵn yna yn fan yna de ia	---	NSNT
+
+
+150, 1	463, 1-8	LER	a wedyn *er* o'n i meddwl argoel mae	NST	NST
+150, 2	464, 2-2	LER	mae	NSNT	NSNT
+150, 3	465, 1-12	LER	wedyn ond mae nhw wedi gornio fo dwy waith a wedi deud	NSNT	NSNT
+150, 4	465, 13-19	LER	bod ei ysgyfaint o yn hollol iawn	---	NSNT
+
+
+151, 1	466, 1-7	MED	*yeah* dydy o ddim yn y ysgyfaint	NST	NST
+151, 3	469, 1-4	MED	mae o fath â	NSNT	NSNT
+151, 4	469, 5-10	MED	petasai fo yn fan yma felly	NSNT	NSNT
+151, 5	469, 11-11	MED	dydy	---	NSNT
+
+
+152, 1	470, 1-4	LER	yn fan yna felly	NSNT	NSNT
+152, 2	471, 1-3	LER	a wedyn oedd	NSNT	NSNT
+152, 3	471, 4-9	LER	oedd ei dad o yn deud	NSNT	NSNT
+152, 4	472, 1-4	LER	*oh* pesycha ngwas i	NST	NST
+152, 5	473, 1-1	LER	meddwl	NSNT	NSNT
+152, 6	473, 2-9	LER	bod gynno fo ryw hen yn fan yna	NSNT	NSNT
+152, 7	473, 10-10	LER	sti	---	NSNT
+
+
+153, 1	474, 1-5	MED	glirio dy wddw ia ia	---	NSNT
+
+
+154, 1	475, 1-3	LER	ond doedd o	NSNT	NSNT
+154, 2	475, 4-4	LER	sti	NSNT	NSNT
+154, 3	476, 1-6	LER	oedd o yn trio ei orau	NSNT	NSNT
+154, 4	478, 1-4	LER	ac oedd o ddim	NSNT	NSNT
+154, 5	479, 1-8	LER	ond oedd o *just* mynd fel yna bechod	---	NST
+
+
+155, 1	480, 1-6	MED	*just* baset ti yn deud *croup*	NST	NST
+155, 2	480, 7-8	MED	de tibod	---	NSNT
+
+
+156, 1	481, 1-3	LER	ia bron de	NSNT	NSNT
+156, 2	482, 1-10	LER	a wedyn mae wedi cael o faint o weithiau wan	NSNT	NSNT
+156, 3	483, 1-4	LER	oedden ni yn achos	NSNT	NSNT
+156, 4	483, 5-10	LER	oedden ni yn meddygfa *um* newydd	NST	NST
+156, 5	483, 11-11	LER	doedden	---	NSNT
+
+
+157, 1	484, 1-6	MED	new noson flwyddyn newydd doeddech *yeah*	---	ST
+
+
+158, 1	485, 1-3	LER	a mae o	NSNT	NSNT
+158, 2	485, 4-10	LER	wedi bod ar y nebulizer un waith	NSNT	SNT
+158, 3	485, 11-15	LER	os nad dwy cyn hynny	---	NSNT
+
+
+159, 1	486, 1-1	MED	bechod	---	NSNT
+
+
+160, 1	487, 1-3	LER	a wedyn timod	NSNT	NSNT
+160, 2	487, 4-7	LER	dw i ddim isio	---	NSNT
+
+
+161, 1	488, 1-2	MED	nag oes	---	NSNT
+
+
+162, 1	489, 1-8	LER	*oh* ti gwybod dy hun be ydy *asthma*	NST	NST
+162, 2	489, 9-9	LER	dwyt	NSNT	NSNT
+162, 3	490, 1-4	LER	a wedyn baswn i	---	NSNT
+
+
+163, 1	491, 1-3	MED	*well* ia *yeah*	NST	NST
+163, 2	492, 1-8	MED	*oh* dw ddim wedi gael o yn blentyn	NST	NST
+163, 3	494, 1-8	MED	ond ti ddim isio meddwl bod o yn	---	NSNT
+
+
+164, 1	495, 1-4	LER	yn dechrau hynny de	---	NSNT
+
+
+165, 1	496, 1-2	MED	nag oes	NSNT	NSNT
+165, 2	496, 3-4	MED	nag oes	---	NSNT
+
+
+166, 1	497, 1-7	LER	ond wedyn pan ddoth o adre ddoe	NSNT	NSNT
+166, 2	497, 8-20	LER	ac oedden nhw wedi roi *Ventolin* iddo fo o'n i meddwl *oh* bechod	NST	NST
+166, 3	498, 1-9	LER	ond oedd *Sally* eto yn deud bore yma hwyrach	NST	NST
+166, 4	498, 10-14	LER	bod y ddau gynni hi	NSNT	NSNT
+166, 5	498, 15-19	LER	a bod nhw wedi tyfu	NSNT	NSNT
+166, 6	498, 20-20	LER	bod	---	NSNT
+
+
+167, 1	499, 1-3	MED	tyfu ohono fo	---	NSNT
+
+
+168, 1	500, 1-6	LER	arno fo ia bod *Donna* unwaith	NST	NST
+168, 2	500, 7-10	LER	ddaru hi ddechrau nofio	---	NSNT
+
+
+169, 1	501, 1-5	MED	*oh* ia wedi ia *yeah*	---	NST
+
+
+170, 1	502, 1-1	LER	ddaru	NSNT	NSNT
+170, 2	502, 2-7	LER	ddaru hynna ei helpu hi felly	NSNT	NSNT
+170, 3	503, 1-2	LER	mae *sure*	NST	NST
+170, 4	503, 3-9	LER	bod chdi yn agor dy beth yna	NSNT	NSNT
+170, 5	503, 10-16	LER	dwyt dy ysgyfaint i i nofio hwyrach	NSNT	NSNT
+170, 6	503, 17-20	LER	dw ddim yn gwybod	---	NSNT
+
+
+171, 1	504, 1-3	MED	wyt ond *er*	NST	NST
+171, 2	505, 1-5	MED	chwythu i *bag* papur de	NST	NST
+171, 3	506, 1-13	MED	ryfedd hogan yma sydd allan efo ni ar nos Sadwrn neu ddynes felly	NSNT	NSNT
+171, 4	507, 1-5	MED	ac oedd honno yn deud	NSNT	NSNT
+171, 5	507, 6-13	MED	bod hi wedi dechrau cael *panic* attacks felly	NST	ST
+171, 6	508, 1-10	MED	*um* a doedd rywbeth chaeth hi erioed o blaen felly	NST	NST
+171, 7	509, 1-8	MED	oedden nhw wedi mynd i test_dreifio ryw *gar*	NST	ST
+171, 8	510, 1-8	MED	ac oedd ei beth yna fo yn isel	NSNT	NSNT
+171, 9	511, 1-3	MED	ac oedd o	NSNT	NSNT
+171, 10	511, 4-9	MED	oedd hi wedi mynd i *banic*	NST	NST
+171, 11	512, 1-6	MED	a wedyn oedd hi wsnos yma	NSNT	NSNT
+171, 12	512, 7-10	MED	oedd hi yn deud	NSNT	NSNT
+171, 13	513, 1-8	MED	dw i wedi cael un arall yn llofft	NSNT	NSNT
+171, 14	514, 1-6	MED	meddai hi heb ddim rheswm felly	NSNT	NSNT
+171, 15	515, 1-8	MED	*um* a wedyn oedd *Gwenno* yn deud deud	NST	NST
+171, 16	516, 1-16	MED	mae *doctor* deud wrtha i am gario *bag* papur efo fi y *bag* felly a chwythu	NST	NST
+171, 17	516, 17-27	MED	pan dw i yn cael y *panic* yma chwythu iddo fo	---	NST
+
+
+172, 1	518, 1-3	LER	*oh* fath â	NST	NST
+172, 2	519, 1-3	LER	ia be mae	NSNT	NSNT
+172, 3	519, 4-9	LER	na mae yna enw arno fo	NSNT	NSNT
+172, 4	519, 10-10	LER	does	NSNT	NSNT
+172, 5	520, 1-6	LER	a dw ddim yn cofio wan	NSNT	NSNT
+172, 6	520, 7-9	LER	be ydy o	---	NSNT
+
+
+173, 1	522, 1-11	MED	a mae chwythu *balloon* yn *help* i *asthma* ti yn gweld	NST	NST
+173, 2	522, 12-12	MED	dydy	NSNT	NSNT
+173, 3	525, 1-9	MED	i gael dy lungs di yn gweithio ydy o	NSNT	SNT
+173, 4	525, 10-12	MED	de mewn ffordd	---	NSNT
+
+
+174, 1	527, 1-14	LER	*yeah* dw i wedi clywed am yr chwythu mewn i *fag* papur o blaen	---	NST
+
+
+175, 1	528, 1-3	MED	ia chwythu *bag*	---	NST
+
+
+176, 1	529, 1-9	LER	achos mae nhw yn fel yna dydyn ac yn	NSNT	NSNT
+176, 2	530, 1-9	LER	ond ti fod i drio chwythu fath â petasai	NSNT	NSNT
+176, 3	533, 1-2	LER	ond *um*	---	NST
+
+
+177, 1	534, 1-5	MED	gyn i bechod drosti really	SNT	SNT
+177, 2	535, 1-5	MED	ond dw ddim yn gwybod	NSNT	NSNT
+177, 3	536, 1-10	MED	do'n i ddim yn gweld hi yn edrych yn iawn	NSNT	NSNT
+177, 4	537, 1-6	MED	gweld hi yn flushed i_gyd de	NSNT	SNT
+177, 5	538, 1-8	MED	a mae yn cario *lot* fawr o bwysau	NST	NST
+177, 6	539, 1-6	MED	bod hynny yn dechrau effeithio arni	---	NSNT
+
+
+178, 1	540, 1-7	LER	ond oedd *mam* yn cael *panic* attacks	ST	ST
+178, 2	541, 1-7	LER	ond ei *hormones* hi oedd o greadures	NST	NST
+178, 3	541, 8-11	LER	pan ddaru hi ddechrau	NSNT	NSNT
+178, 4	541, 12-15	LER	bod cael y y	NSNT	NSNT
+178, 5	541, 16-19	LER	timod y *menopause* felly	NST	NST
+178, 6	543, 1-9	LER	ac oedd hi fath â aetha hi fewn i	NSNT	NSNT
+178, 7	544, 1-4	LER	*well* dw ddim gwybod	NST	NST
+178, 8	544, 5-19	LER	os oedden ni yn *Llandudno* neu rywbeth fel yna aetha hi fewn i i *Marks*	NST	NST
+178, 9	545, 1-11	LER	a wedyn basai hi yn *just* yn stopio yn stond achos	NST	NST
+178, 10	545, 12-17	LER	oedd yna ormod o bobl yna	NSNT	NSNT
+178, 11	546, 1-5	LER	ac oedd hi yn deud	NSNT	NSNT
+178, 12	547, 1-5	LER	rhaid fi fynd o yma	---	NSNT
+
+
+179, 1	549, 1-3	MED	*ah* dyna fo	NST	NST
+179, 2	549, 4-6	MED	yli ia ia	---	NSNT
+
+
+180, 1	550, 1-11	LER	oedd hi yn mynd yn goch goch goch yn ei gwyneb	NSNT	NSNT
+180, 2	551, 1-8	LER	ac oedd hi *just* yn yn rhewi bron	NST	NST
+180, 3	553, 1-2	LER	raid timod	NSNT	NSNT
+180, 4	553, 3-11	LER	oedd raid i fi fynd â hi allan felly	NSNT	NSNT
+180, 5	553, 12-14	LER	dw yn cofio	NSNT	NSNT
+180, 6	554, 1-5	LER	cofio hynna yn iawn de	NSNT	NSNT
+180, 7	555, 1-13	LER	ond *um* oedden nhw yn deud na rywbeth i wneud efo yr *menopause*	NST	NST
+180, 8	555, 14-15	LER	oedd hynna	NSNT	NSNT
+180, 9	556, 1-5	LER	*so* dw ddim yn gwybod	---	NST
+
+
+181, 1	557, 1-3	MED	*mmm* dw *sure*	NST	NST
+181, 2	557, 4-8	MED	bod hon hen drost hwnnw	NSNT	NSNT
+181, 3	558, 1-9	MED	ond *um* rhyfedd iddo fo ddŵad fel yna de	NST	NST
+181, 4	559, 1-5	MED	ac oedd hi yn deud	NSNT	NSNT
+181, 5	559, 6-13	MED	oedden nhw mynd i test_dreifio fo i *Bwllheli*	NST	ST
+181, 6	560, 1-17	MED	a wedyn oedd hi wedi stopio yn y *lay_by* ar_ôl mynd o *Citroën* *garage* yna yn *Port*	NST	NST
+181, 7	562, 1-5	MED	wedi deud wrth ei gŵr	NSNT	NSNT
+181, 8	563, 1-7	MED	*oh* wnei di adjust_io yr *belt* yma	NST	ST
+181, 9	564, 1-5	MED	oedd hi ddim yn teimlo	NSNT	NSNT
+181, 10	564, 6-10	MED	bod hwnnw yn iawn felly	NSNT	NSNT
+181, 11	565, 1-3	MED	ond hyn oedd	NSNT	NSNT
+181, 12	566, 1-11	MED	ac fath â petasai yr to yn dod i_mewn amdana fi	NSNT	NSNT
+181, 13	567, 1-1	MED	meddai	NSNT	NSNT
+181, 14	568, 1-8	MED	a fedrwn i ddim disgwyl i mynd yn_ôl	NSNT	NSNT
+181, 15	569, 1-7	MED	wnaethon nhw *just* troi yn eu holau	NST	NST
+181, 16	570, 1-4	MED	gaethon nhw ddim test_dreifio	---	SNT
+
+
+182, 1	571, 1-3	LER	*oh* bechod de	---	NST
+
+
+183, 1	572, 1-5	MED	ond oedd hi meddwl oherwydd	NSNT	NSNT
+183, 2	572, 6-11	MED	bod y to yma yn isel	NSNT	NSNT
+183, 3	572, 12-13	MED	oedd hwnnw	---	NSNT
+
+
+184, 1	573, 1-3	LER	to yn isel	---	NSNT
+
+
+185, 1	574, 1-7	MED	ond oedd hi yn deud wsnos dwytha	NSNT	NSNT
+185, 2	575, 1-6	MED	*oh* ac o'n i wedi ypsetio	NST	NST
+185, 3	576, 1-1	MED	meddai	NSNT	NSNT
+185, 4	577, 1-6	MED	o'n i yn crio yn iawn	NSNT	NSNT
+185, 5	578, 1-1	MED	meddai	---	NSNT
+
+
+185, 6	579, 1-10	MED	achos o'n i meddwl be sy wedi dod drosta fi	NSNT	NSNT
+186, 2	580, 29-30	LER	nag oes	---	NSNT
+
+
+187, 1	581, 1-3	MED	*oh* nag oedd	NST	NST
+187, 2	581, 4-6	MED	nag oedd na	NSNT	NSNT
+187, 3	584, 1-5	MED	ac oedd hi yn deud	NSNT	NSNT
+187, 4	585, 1-8	MED	dw i yn iawn yn fan yma heno	NSNT	NSNT
+187, 5	586, 1-1	MED	meddai	NSNT	NSNT
+187, 6	587, 1-2	MED	dw meddwl	NSNT	NSNT
+187, 7	587, 3-10	MED	bod hi dipyn bach ryw *nervous* o feddwl	---	NST
+
+
+188, 1	588, 1-5	LER	rhag ofn iddo fo ddigwydd	---	NSNT
+
+
+189, 1	589, 1-10	MED	*oh* sgwn i dw mynd i gael o yn gyhoeddus	NST	NST
+189, 2	591, 1-3	MED	dwn i ddim	NSNT	NSNT
+189, 3	591, 4-7	MED	be ydy o *yeah*	---	NST
+
+
+190, 1	592, 1-2	LER	*oh* diawledig	---	NST
+
+
+191, 1	594, 1-13	MED	*so* mi a i rheina nôl i gael wneud yr wing mirror yma	NST	ST
+191, 2	595, 1-18	MED	ac os ga i *jance* i mynd i ddeud bod fi isio gymryd y *toil* yna neu mi	NST	NST
+191, 3	595, 19-21	MED	ffonia i mewn	---	NSNT
+
+
+192, 1	596, 1-9	LER	*oh* dw i wedi cymryd *um* diwrnod i_ffwrdd fory	NST	NST
+192, 2	596, 10-10	LER	yli	SNT	NSNT
+192, 3	597, 1-7	LER	because o'n i yn teimlo mae *Gwyn*	NST	ST
+192, 4	597, 8-14	LER	wedi bod efo Nain *er* dydd Mawrth	NST	NST
+192, 5	597, 15-16	LER	dydy fel	NSNT	NSNT
+192, 6	597, 17-19	LER	mae yn arfer	NSNT	NSNT
+192, 7	599, 1-7	LER	oedd wedi gymryd o *extra* dydd Mercher	NST	NST
+192, 8	599, 8-8	LER	doedd	NSNT	NSNT
+192, 9	601, 1-3	LER	oedd wedi gymryd	NSNT	NSNT
+192, 10	602, 1-2	LER	ddoe felly	NSNT	NSNT
+192, 11	603, 1-6	LER	mae wedi gymryd o eto heddiw	NSNT	NSNT
+192, 12	603, 7-7	LER	dydy	NSNT	NSNT
+192, 13	605, 1-5	LER	timod chwarae teg bob parch	NSNT	NSNT
+192, 14	607, 1-5	LER	mae nhw yn hŷn yn_dydyn	NSNT	NSNT
+192, 15	607, 6-9	LER	timod i fod yn	---	NSNT
+
+
+193, 1	608, 2-2	MED	ydyn	NSNT	NSNT
+193, 2	608, 3-3	MED	ydyn	---	NSNT
+
+
+194, 1	609, 1-7	LER	dw ddim isio iddo fo fod yn	NSNT	NSNT
+194, 2	610, 1-4	LER	dw i yn gwybod	NSNT	NSNT
+194, 3	610, 5-9	LER	eu bod nhw wrth eu	NSNT	NSNT
+194, 4	611, 1-8	LER	mae nhw wrth eu bodd gael o yna	NSNT	NSNT
+194, 5	611, 9-11	LER	paid â cael	NSNT	NSNT
+194, 6	614, 1-5	LER	a bob dim fel yna	NSNT	NSNT
+194, 7	615, 1-8	LER	ond dw i ddim isio iddyn nhw feddwl	NSNT	NSNT
+194, 8	615, 9-16	LER	bod fi yn cymryd yr peth yna chwaith	NSNT	NSNT
+194, 9	616, 1-10	LER	ac mae *sure* mai *row* ga i pan ddeuda i	NST	NST
+194, 10	617, 1-14	LER	*oh* dw i wedi cymryd fory ffwrdd a i fod adre efo *Gwyn* felly	NST	NST
+194, 11	619, 1-8	LER	*well* i be dach chi wedi wneud hynny	NST	NST
+194, 12	620, 1-4	LER	ga i mae *sure*	---	NST
+
+
+195, 1	621, 1-4	MED	ia ia ond wedyn	---	NSNT
+
+
+196, 1	622, 1-8	LER	ond ydw i yn teimlo well ti gwybod	NSNT	NSNT
+196, 2	622, 9-10	LER	dw feddwl	NSNT	NSNT
+196, 3	622, 11-13	LER	bod fi wedi	NSNT	NSNT
+196, 4	624, 1-3	LER	a hefyd de	NSNT	NSNT
+196, 5	624, 4-17	LER	dw i erioed wedi teimlo mor euog am fynd i ngwaith ddoe a heddiw	NSNT	NSNT
+196, 6	625, 1-16	LER	o'n i yn teimlo fath â ryw hen fam ddrwg i ddeud y gwir wrtha chdi	SNT	NSNT
+196, 7	627, 1-3	LER	because oedd o	NSNT	SNT
+196, 8	627, 4-8	LER	oedd o ddim isio symud	NSNT	NSNT
+196, 9	627, 9-9	LER	sti	NSNT	NSNT
+196, 10	629, 1-6	LER	ti mynd i tŷ Nain heddiw	NSNT	NSNT
+196, 11	630, 1-2	LER	oedd o	NSNT	NSNT
+196, 12	630, 3-8	LER	oedd o mynd i tŷ Nain	NSNT	NSNT
+196, 13	631, 1-7	LER	a wedyn cyrraedd tŷ Nain bore ddoe	NSNT	NSNT
+196, 14	631, 8-9	LER	de a	NSNT	NSNT
+196, 15	632, 1-3	LER	a *mam* ia	NST	NST
+196, 16	633, 1-6	LER	*oh* *mam* mynd i gwaith dydy	NST	NST
+196, 17	635, 1-5	LER	wedyn gafael yn y nghoes	NSNT	NSNT
+196, 18	635, 6-10	LER	gafael yn y nghoes i	NSNT	NSNT
+196, 19	635, 11-14	LER	sti a dechrau crio	NSNT	NSNT
+196, 20	637, 1-4	LER	ac o'n i meddwl	NSNT	NSNT
+196, 21	638, 1-12	LER	*oh* na *please* *Gwyn* paid because ti wneud fi deimlo yn euog	NST	ST
+196, 22	639, 1-3	LER	dw i gwybod	NSNT	NSNT
+196, 23	639, 4-8	LER	bod o yn iawn unwaith	NSNT	NSNT
+196, 24	639, 9-12	LER	dw i wedi mynd	NSNT	NSNT
+196, 25	641, 1-6	LER	ond ti ti meddwl dy hun	NSNT	NSNT
+196, 26	642, 1-5	LER	dw i yn bedwar_deg_dau bron	NSNT	NSNT
+196, 27	644, 1-6	LER	a dw gwybod *mam* wedi marw	NST	NST
+196, 28	645, 1-5	LER	ond pan dw i sâl	NSNT	NSNT
+196, 29	645, 6-8	LER	dw i meddwl	SNT	NSNT
+196, 30	646, 1-1	LER	*mam*	---	NST
+
+
+197, 1	647, 1-4	MED	ia ia ia dyna	NSNT	NSNT
+197, 2	647, 5-7	MED	ydy yr teimlad	NSNT	NSNT
+197, 3	647, 8-10	MED	sy yna chdi	---	NSNT
+
+
+198, 1	648, 1-5	LER	ti gwybod be dw feddwl	NSNT	NSNT
+198, 2	649, 1-4	LER	timod a ti meddwl	NSNT	NSNT
+198, 3	651, 1-5	LER	dwyflwydd a hanner ydy o	NSNT	NSNT
+198, 4	652, 1-6	LER	a ti yn teimlo yn euog	NSNT	NSNT
+198, 5	653, 1-8	LER	ac oedd o yr un fath bore yma	NSNT	NSNT
+198, 6	654, 1-6	LER	oedd yna ddim symud arno fo	NSNT	NSNT
+198, 7	654, 7-7	LER	sti	NSNT	NSNT
+198, 8	655, 1-4	LER	oedd yna ddim *shift*	NST	NST
+198, 9	656, 1-13	LER	oedd yn eistedd *um* ar y *um* ar y *sofa* ac yn gwylio	NST	NST
+198, 10	657, 1-4	LER	be mae licio dŵad	SNT	NSNT
+198, 11	658, 1-2	LER	*oh* *Fifi*	---	NST
+
+
+199, 1	659, 1-6	MED	ddaw ddon nhw ddim draw atach	---	NSNT
+
+
+200, 1	660, 1-7	LER	*oh* na well gynnyn nhw gael o	---	NST
+
+
+201, 1	661, 1-9	MED	well gynnyn nhw yn eu *patch* bach eu hunain	---	NST
+
+
+202, 1	662, 2-2	LER	sti	NSNT	NSNT
+202, 2	664, 1-6	LER	a wedyn o'n i yn deud	NSNT	NSNT
+202, 3	665, 1-9	LER	*oh* ti ti am fynd i tŷ Nain ta	NST	NST
+202, 4	666, 1-3	LER	ar_ôl hwn ia	NSNT	NSNT
+202, 5	667, 1-2	LER	ar_ôl hwn	NSNT	NSNT
+202, 6	668, 1-6	LER	*oh* na rhaid ni fynd rŵan	NST	NST
+202, 7	669, 1-6	LER	rhaid ni fynd i gwaith de	NSNT	NSNT
+202, 8	670, 1-6	LER	*mam* *mam* eistedd fan yna ia	NST	NST
+202, 9	671, 1-2	LER	*mam* eistedd	NST	NST
+202, 10	672, 1-3	LER	wedyn oedd o	NSNT	NSNT
+202, 11	672, 4-6	LER	oedd yn amlwg	NSNT	NSNT
+202, 12	672, 7-10	LER	oedd o ddim isio	NSNT	NSNT
+202, 13	672, 11-11	LER	wsti	---	NSNT
+
+
+203, 1	673, 1-5	MED	dim move arno fo bechod	NSNT	SNT
+203, 2	674, 1-2	MED	nag oedd	---	NSNT
+
+
+204, 1	675, 1-3	LER	dim bod o	SNT	NSNT
+204, 2	676, 1-9	LER	because mae yn cael bob math o faldod yna	NSNT	SNT
+204, 3	676, 10-11	LER	de ond	---	NSNT
+
+
+205, 1	677, 2-4	MED	yndy ond *mam*	NST	NST
+205, 2	677, 5-7	MED	oedd o isio	---	NSNT
+
+
+206, 1	678, 1-3	LER	oedd o ond	NSNT	NSNT
+206, 2	678, 4-7	LER	ond oedd o isio	NSNT	NSNT
+206, 3	678, 8-12	LER	oedd o isio ei fam	NSNT	NSNT
+206, 4	678, 14-16	LER	sy yn *change*	NST	NST
+206, 5	679, 1-6	LER	achos *dad* mae isio fel arfer	NST	NST
+206, 6	681, 1-12	LER	ond *um* a wedyn dw i o'n i yn teimlo *right* euog	NST	NST
+206, 7	682, 1-4	LER	wedyn ddaru fi benderfynu	NSNT	NSNT
+206, 8	682, 5-12	LER	pan ddaru fi gorffen pob_dim bore yma a	NSNT	NSNT
+206, 9	683, 1-10	LER	dw i mynd i ffonio *Graham* yn munud i ddeud	NST	NST
+206, 10	683, 11-12	LER	dw i	NSNT	NSNT
+206, 11	683, 13-18	LER	bydd raid fi weithio yn hwyr	NSNT	NSNT
+206, 12	684, 1-11	LER	fydd raid fi weithio tan tua hanner wedi pump chwech heno	NSNT	NSNT
+206, 13	684, 12-16	LER	mae *sure* i orffen bob_dim	ST	NST
+206, 14	685, 1-9	LER	because mae *Anwen* wedi mynd adre yn sâl hefyd	NST	ST
+206, 15	685, 10-11	LER	yli greadures	NSNT	NSNT
+206, 16	687, 2-2	LER	sti	NSNT	NSNT
+206, 17	688, 1-5	LER	oedd hi yn fan yna	---	NSNT
+
+
+207, 1	690, 1-9	MED	*oh* *fit* i fod yma ers dydd Llun sti	NST	NST
+207, 2	690, 10-11	MED	nag oedd	---	NSNT
+
+
+208, 1	692, 1-6	LER	a ac oedd o'n i wedi	NSNT	NSNT
+208, 2	692, 7-15	LER	oedd gyn i ryw *searches* i orffen ti gweld	NST	NST
+208, 3	693, 1-5	LER	ac o'n i meddwl *oh*	NST	NST
+208, 4	694, 1-5	LER	o'n isio gofyn *question* wrthi	NST	NST
+208, 5	695, 1-10	LER	ac o'n i o'n i yn sefyll yn fan yna	NSNT	NSNT
+208, 6	696, 1-4	LER	ac o'n i meddwl	NSNT	NSNT
+208, 7	697, 1-8	LER	*ooh* dydy hyn ddim fath â *Anwen* felly	NST	NST
+208, 8	699, 1-5	LER	ac oedd hi fan yna	NSNT	NSNT
+208, 9	699, 6-10	LER	a mae yn fel yna	NSNT	NSNT
+208, 10	700, 1-3	LER	ti yn iawn	NSNT	NSNT
+208, 11	701, 1-3	LER	meddai fi wrthi	NSNT	NSNT
+208, 12	702, 1-6	LER	*oh* ti gwybod be nac ydw	NST	NST
+208, 13	703, 1-1	LER	meddai	NSNT	NSNT
+208, 14	704, 1-6	LER	dw i newydd fod yn llungopïo	NSNT	NSNT
+208, 15	705, 1-2	LER	meddai hi	NSNT	NSNT
+208, 16	706, 1-3	LER	a fel arfer	NSNT	NSNT
+208, 17	706, 4-7	LER	mae yn oer yna	NSNT	NSNT
+208, 18	706, 8-8	LER	dydy	NSNT	NSNT
+208, 19	707, 1-1	LER	meddai	NSNT	NSNT
+208, 20	708, 1-10	LER	ond o'n i yn teimlo hi yn eitha poeth yna	NSNT	NSNT
+208, 21	709, 1-1	LER	meddai	NSNT	NSNT
+208, 22	710, 1-12	LER	a dw i wedi dod yn_ôl i eistedd yn fan hyn wan	NSNT	NSNT
+208, 23	711, 1-12	LER	a rhaid fi ddeud *Leri* dydw i ddim yn teimlo yn iawn	NST	NST
+208, 24	712, 1-1	LER	meddai	NSNT	NSNT
+208, 25	713, 1-1	LER	adre	NSNT	NSNT
+208, 26	714, 1-3	LER	medd fi wrthi	NSNT	NSNT
+208, 27	715, 1-1	LER	wan	NSNT	NSNT
+208, 28	717, 1-1	LER	ddylai	NSNT	NSNT
+208, 29	717, 2-9	LER	bod chdi ddim wedi dod yma dydd Llun	NSNT	NSNT
+208, 30	718, 1-3	LER	meddai fi wrthi	---	NSNT
+
+
+209, 1	719, 1-9	MED	a mae wedi cymryd yr hen beth *Sudafed* yna	NST	NST
+209, 2	719, 10-14	MED	sti yn sychu o i_gyd	NSNT	NSNT
+209, 3	719, 15-15	MED	dydy	---	NSNT
+
+
+210, 1	720, 1-4	LER	God mae yn *stubborn*	---	ST
+
+
+211, 1	722, 1-2	MED	mae *sure*	NST	NST
+211, 2	722, 3-9	MED	bod hwnnw yn gwneud iddi fynd yn	---	NSNT
+
+
+212, 1	724, 1-5	LER	a dyma fi yn deud	SNT	NSNT
+212, 2	725, 1-11	LER	God dw i erioed wedi gweld neb mor *stubborn* â hi	---	ST
+
+
+213, 1	726, 1-1	MED	naddo	NSNT	NSNT
+213, 2	726, 2-3	MED	mae benderfynol	NSNT	NSNT
+213, 3	726, 4-4	MED	dydy	---	NSNT
+
+
+214, 1	727, 2-4	LER	a mae wedi	NSNT	NSNT
+214, 2	727, 6-6	LER	mae	---	NSNT
+
+
+215, 1	728, 1-5	MED	because ddeudais i dydd Llun	NSNT	SNT
+215, 2	729, 1-5	MED	argoel be sy haru ti	NSNT	NSNT
+215, 3	730, 1-2	MED	meddai fi	NSNT	NSNT
+215, 4	731, 1-4	MED	a dyma hi deud	NSNT	NSNT
+215, 5	732, 1-2	MED	wsti fel	NSNT	NSNT
+215, 6	732, 3-4	MED	wyt ti	NSNT	NSNT
+215, 7	733, 1-1	MED	meddai	NSNT	NSNT
+215, 8	734, 1-12	MED	os ti mynd ar dy wyliau ti wedi clirio dy *ddesk* rywsut	NST	NST
+215, 9	735, 1-7	MED	ac oedd hi ryw deimlo *well* tibod	---	NST
+
+
+216, 1	736, 1-5	LER	*yeah* ond y peth ydy	---	NST
+
+
+217, 1	737, 1-3	MED	fydd o yna	NSNT	NSNT
+217, 2	737, 4-4	MED	bydd	---	NSNT
+
+
+218, 1	738, 1-5	LER	ond dyma fi yn deud	NSNT	NSNT
+218, 2	739, 1-1	LER	adre	NSNT	NSNT
+218, 3	740, 1-3	LER	meddai fi wrthi	NSNT	NSNT
+218, 4	742, 1-6	LER	a wedyn dyma hi yn deud	NSNT	NSNT
+218, 5	743, 1-5	LER	*oh* timod be *Leri* bach	NST	NST
+218, 6	744, 1-1	LER	meddai	NSNT	NSNT
+218, 7	745, 1-4	LER	dw i am fynd	NSNT	NSNT
+218, 8	746, 1-3	LER	a mae raid	NSNT	NSNT
+218, 9	747, 1-6	LER	o'n i meddwl wrth yn hun	NSNT	NSNT
+218, 10	748, 1-6	LER	*oh* mae raid bod hi sâl	---	NST
+
+
+219, 1	749, 1-6	MED	mae raid bod hi sâl *yeah*	---	NST
+
+
+220, 1	750, 1-11	LER	a wedyn mi ofynnodd i mi bechod dyma hi yn deud	NSNT	NSNT
+220, 2	751, 1-3	LER	ti fewn fory	NSNT	NSNT
+220, 3	752, 1-2	LER	a deud	NSNT	NSNT
+220, 4	753, 1-8	LER	*oh* na dw i newydd gymryd diwrnod i_ffwrdd	NST	NST
+220, 5	754, 1-3	LER	pam be sy	NSNT	NSNT
+220, 6	755, 1-2	LER	meddai fi	NSNT	NSNT
+220, 7	756, 1-5	LER	oes yna rywbeth mawr felly	NSNT	NSNT
+220, 8	758, 1-2	LER	timod because	SNT	SNT
+220, 9	758, 3-11	LER	ddo i fewn i chdi os ti isio *just*	NST	NST
+220, 10	759, 1-15	LER	a dyma hi deud *oh* na bysai hi yn gofyn wrth *Gwenith* yr hogan arall	NST	NST
+220, 11	759, 16-27	LER	sy yn gwneud y y y *searches* efo ni *um* yr un	NST	NST
+220, 12	759, 28-29	LER	sy *er*	NST	NST
+220, 13	760, 1-5	LER	mae yna un yn *Arfon*	NST	NST
+220, 14	760, 6-6	LER	does	NSNT	NSNT
+220, 15	760, 7-8	LER	sy yn	NSNT	NSNT
+220, 16	762, 1-6	LER	mae yna un yn bob ardal	NSNT	NSNT
+220, 17	762, 7-7	LER	does	NSNT	NSNT
+220, 18	762, 8-14	LER	sy yn gyrru nhw i_fewn i ni	NSNT	NSNT
+220, 19	763, 1-6	LER	a wedyn dan ni wneud nhw	NSNT	NSNT
+220, 20	764, 1-5	LER	a wedyn mae nhw yn	NSNT	NSNT
+220, 21	764, 6-12	LER	roid nhw ymlaen i yr twrnai ballu	NSNT	NSNT
+220, 22	764, 13-13	LER	sti	---	NSNT
+
+
+221, 1	765, 1-3	MED	*oh* wela i	---	NST
+
+
+222, 1	766, 1-2	LER	mae yna	NSNT	NSNT
+222, 2	766, 3-7	LER	mae yna ryw ffordd o	---	NSNT
+
+
+223, 1	767, 1-7	MED	*so* mae yna rywun yn fan yna	---	NST
+
+
+224, 1	769, 1-10	LER	a wedyn am bod fi ddim yn gallu wneud o	NSNT	NSNT
+224, 2	769, 11-15	LER	ddaru ofyn wrth wrthi hi	NSNT	NSNT
+224, 3	770, 1-12	LER	*just* rywun oedd yn dod i_fewn ddeg o gloch *just* yn sydyn	NST	NST
+224, 4	771, 1-3	LER	oedd o dim_byd	---	NSNT
+
+
+225, 1	772, 1-4	MED	*oh* wela i *yeah*	---	NST
+
+
+226, 1	773, 1-6	LER	wedyn neu pum munud fyswn i	NSNT	NSNT
+226, 2	773, 7-8	LER	wedi bod	NSNT	NSNT
+226, 3	774, 1-4	LER	ac oedd yn deud	NSNT	NSNT
+226, 4	775, 1-15	LER	ti ddim yn mynd i ddod yr holl ffordd o *Langefni* *just* i wneud hwnnw	---	NST
+
+
+227, 1	776, 1-7	MED	*oh* *just* er_mwyn hynny na na na	---	NST
+
+
+228, 1	777, 1-1	LER	meddai	NSNT	NSNT
+228, 2	778, 1-3	LER	gei wna i	NSNT	NSNT
+228, 3	779, 1-8	LER	a wedyn mae raid bod hi ddim am	NSNT	NSNT
+228, 4	779, 9-13	LER	timod am ddod i_fewn fory	NSNT	NSNT
+228, 5	779, 14-16	LER	os ydy yn	NSNT	NSNT
+228, 6	779, 17-17	LER	gall	NSNT	NSNT
+228, 7	780, 1-1	LER	wedyn	---	NSNT
+
+
+229, 1	781, 1-2	MED	nac ydy	NSNT	NSNT
+229, 2	782, 1-3	MED	cymryd yr sti	NSNT	NSNT
+229, 3	782, 4-9	MED	basai well fel ti yn deud	NSNT	NSNT
+229, 4	782, 10-12	MED	fydd raid chdi	NSNT	NSNT
+229, 5	782, 13-16	MED	roid i_mewn iddo fo	NSNT	NSNT
+229, 6	782, 17-18	MED	dw i	NSNT	NSNT
+229, 7	782, 19-20	MED	meddwl de	NSNT	NSNT
+229, 8	783, 1-7	MED	fath faint wyt ti yn drio gwffio	---	NSNT
+
+
+230, 1	784, 1-3	LER	*oh* mae yna	NST	NST
+230, 2	784, 4-4	LER	mae	NSNT	NSNT
+230, 3	784, 5-8	LER	wedi bod yn papur	NSNT	NSNT
+230, 4	785, 1-3	LER	*oh* *yeah* mae	NST	NST
+230, 5	785, 4-7	LER	wedi bod yn papur	NSNT	NSNT
+230, 6	785, 8-18	LER	dydy i chdi beidio dod i_fewn yn_dydy i chdi beidio roi	NSNT	NSNT
+230, 7	785, 19-26	LER	timod er_mwyn i bobl eraill beidio gael o	---	NSNT
+
+
+231, 1	789, 1-8	MED	because mae mynd *round* eto beryg ti gweld	NST	ST
+231, 2	789, 9-9	MED	dydy	NSNT	NSNT
+231, 3	790, 1-2	MED	mae hi	NSNT	NSNT
+231, 4	790, 3-11	MED	wedi bod yn hir iawn yn gael o *Anwen*	NST	NST
+231, 5	790, 12-12	MED	dydy	NSNT	NSNT
+231, 6	792, 1-3	MED	o'n i meddwl	NSNT	NSNT
+231, 7	793, 1-11	MED	argoel mae *Anwen* yn mwy *fit* na neb yn fan yma	NST	NST
+231, 8	794, 1-4	MED	dydy byth cael dim_byd	---	NSNT
+
+
+232, 1	795, 1-2	LER	nac ydy	---	NSNT
+
+
+233, 1	796, 1-2	MED	ond wsti	---	NSNT
+
+
+234, 1	797, 1-6	LER	ond y peth oedd tro dwytha	NSNT	NSNT
+234, 2	797, 7-13	LER	fuodd hi yn sâl tro dwytha *um*	NST	NST
+234, 3	797, 14-18	LER	fuodd hi ffwrdd am bythefnos	NSNT	NSNT
+234, 4	797, 19-21	LER	os nad mwy	---	NSNT
+
+
+235, 1	798, 1-5	MED	*oh* oedd o yn bythefnos	---	NST
+
+
+236, 1	799, 1-3	LER	do a because	SNT	SNT
+236, 2	799, 4-7	LER	ddaru hi gael *um*	NST	NST
+236, 3	799, 8-17	LER	aeth o yn fath â laryngitis neu rywbeth arni hi	NSNT	SNT
+236, 4	799, 18-20	LER	do ac yn	NSNT	NSNT
+236, 5	801, 1-5	LER	tibod a wedyn ond *er*	---	NST
+
+
+237, 1	802, 1-4	MED	waeth yn diwedd de	---	NSNT
+
+
+238, 1	803, 1-5	LER	ia because oedd hi yn	NSNT	SNT
+238, 2	803, 6-6	LER	cnecian	NSNT	NSNT
+238, 3	804, 1-13	LER	oedden ni *um* yn yr *well* yn y cwrs *thing* yma dydd *er*	---	NST
+
+
+239, 1	805, 1-7	MED	*oh* *yeah* yr cwrs asesu *yeah* *yeah*	---	NST
+
+
+240, 1	807, 1-4	LER	ac oedd hi greadures	NSNT	NSNT
+240, 2	807, 5-9	LER	oedd hi yn boeth yna	NSNT	NSNT
+240, 3	808, 1-7	LER	ac oedd hi fel yna bob munud	NSNT	NSNT
+240, 4	808, 8-10	LER	sti fath â	NSNT	NSNT
+240, 5	808, 11-11	LER	bod	---	NSNT
+
+
+241, 1	809, 1-3	MED	ia dyna fo	NSNT	NSNT
+241, 2	809, 4-4	MED	sti	---	NSNT
+
+
+242, 1	810, 1-6	LER	ond *er* na mae beth cas	---	NST
+
+
+243, 1	811, 1-2	MED	*oh* Duw	---	NST
+
+
+244, 1	812, 1-4	LER	*oh* na dw i	NST	NST
+244, 2	812, 5-8	LER	dydw i ddim yn	NSNT	NSNT
+244, 3	812, 9-22	LER	yn bod yn beth yna efo fi yn hun galed efo fi yn hun	NSNT	NSNT
+244, 4	813, 1-3	LER	*er* timod ryw	NST	NST
+244, 5	813, 4-13	LER	os dw i teimlo sâl a i a i ddim	---	NSNT
+
+
+245, 1	814, 1-3	MED	*yeah* ond os	NST	NST
+245, 2	816, 1-5	MED	ond wyt ti cael annwyd	NSNT	NSNT
+245, 3	816, 6-8	MED	wyt ti meddwl	NSNT	NSNT
+245, 4	818, 1-9	MED	*oh* na wna i gymryd *paracetamol* dal i fynd	---	NST
+
+
+246, 1	819, 1-2	LER	*paracetamol* ia	---	NST
+
+
+247, 1	820, 1-5	MED	ond mae hwn yn rywbeth	NSNT	NSNT
+247, 2	820, 6-6	MED	sy	NSNT	NSNT
+247, 3	820, 7-11	MED	wedi bod mynd *round* a	NST	NST
+247, 4	822, 1-3	MED	dw ddim gwybod	NSNT	NSNT
+247, 5	823, 4-6	MED	wnaeth *Emily* yn	NST	NST
+247, 6	823, 7-10	MED	gall ti yn gweld	NSNT	NSNT
+247, 7	824, 1-2	MED	wnaeth hi	NSNT	NSNT
+247, 8	824, 3-8	MED	roid i_mewn iddo fo yn dechrau	NSNT	NSNT
+247, 9	824, 9-10	MED	do cyn	NSNT	NSNT
+247, 10	824, 11-15	MED	do a cymryd wsnos *off*	NST	NST
+247, 11	827, 1-5	MED	ond *er* wrth_gwrs ddoth Dolig	NST	NST
+247, 13	828, 24-28	MED	wsti i dod drosto fo	---	NSNT
+
+
+248, 1	830, 1-8	LER	*well* fuais i *off* do yr wsnos yna	NST	NST
+248, 2	832, 1-7	LER	ond dim gymaint annwyd oedd gyn i	NSNT	NSNT
+248, 3	833, 1-4	LER	bendro oedd gyn i	NSNT	NSNT
+248, 4	835, 1-4	LER	*just* yn deud penstandod	NST	NST
+248, 5	836, 1-3	LER	dw ddim gwybod	NSNT	NSNT
+248, 6	836, 4-5	LER	be mae	NSNT	NSNT
+248, 7	837, 1-6	LER	bendro dw i yn galw fo	NSNT	NSNT
+248, 8	838, 1-16	LER	ond *oh* argoel dw i erioed wedi cael dim_byd mor ofnadwy efo *just* bob man yn	NST	NST
+248, 9	839, 1-4	LER	oedd dim bwys lle	NSNT	NSNT
+248, 10	840, 1-4	LER	os o'ch chdi yn	NSNT	NSNT
+248, 11	841, 1-3	LER	timod fath â	NSNT	NSNT
+248, 12	841, 4-15	LER	wyt ti pan ti yn codi ry sydyn neu rywbeth fel yna	NSNT	NSNT
+248, 13	843, 1-4	LER	ond oedd o *just*	NST	NST
+248, 14	844, 1-7	LER	ond oedd *Graham* yn deud fel yna	NST	NST
+248, 15	844, 8-9	LER	oedd o	NSNT	NSNT
+248, 16	845, 1-3	LER	ac *um* y	NST	NST
+248, 17	846, 1-7	LER	pan fuodd o yn sâl llynedd felly	NSNT	NSNT
+248, 18	847, 1-12	LER	a peth *um* sea_sickness *tablets* ddaru nhw ddeud wrtho fo am gymryd	---	ST
+
+
+249, 1	848, 1-7	MED	*oh* *yeah* mae o yn helpu hefyd	NST	NST
+249, 2	848, 8-8	MED	tydy	NSNT	NSNT
+249, 3	848, 9-9	MED	wsti	NSNT	NSNT
+249, 4	848, 10-12	MED	mae *sure* rywbeth	---	NST
+
+
+250, 1	849, 1-3	LER	ond *er* timod	---	NST
+
+
+251, 1	850, 1-2	MED	ond mae	NSNT	NSNT
+251, 2	850, 3-7	MED	oedda chdi yn deud hynna	NSNT	NSNT
+251, 3	851, 1-4	MED	mae yna hogan arall	NSNT	NSNT
+251, 4	851, 5-7	MED	sy ddynes arall	NSNT	NSNT
+251, 5	851, 8-13	MED	sy efo ni ar nos Sadwrn	NSNT	NSNT
+251, 6	852, 1-7	MED	mae mherch hi yn byw yn *Llanrug*	NST	NST
+251, 7	853, 1-3	MED	ac oedd hi	NSNT	NSNT
+251, 8	854, 1-19	MED	*um* mae yna *Meniere's* toes pan ti cael imbalance yn dy glustiau fath â *Beth* druan yn gael o	NST	ST
+251, 9	856, 1-2	MED	a mae	NSNT	NSNT
+251, 10	856, 3-7	MED	wedi bod yn deud hyn	NSNT	NSNT
+251, 11	856, 8-10	MED	bod *Carys* yma	ST	NST
+251, 12	857, 1-10	MED	because mae wedi mabwysiadu tri o genod tair o genod	NSNT	SNT
+251, 13	858, 1-12	MED	ti cofio fi deud wrtha chdi yn *Llanrug* tair o genod bach	NST	NST
+251, 14	860, 1-7	MED	*oh* mae wedi mabwysiadu yr dair felly	NST	NST
+251, 15	860, 8-8	MED	sti	NSNT	NSNT
+251, 16	861, 1-9	MED	a ychydig cyn Dolig oedden nhw yn cael gwybod	NSNT	NSNT
+251, 17	862, 1-5	MED	oedden nhw mynd i cwrt	NSNT	NSNT
+251, 18	863, 1-10	MED	a wedyn oedd y y judge yn yn yn deud	NSNT	SNT
+251, 19	863, 11-12	MED	bod nhw	NSNT	NSNT
+251, 20	863, 13-13	MED	wsti	---	NSNT
+
+
+252, 1	864, 1-6	LER	na nhw oedd biau nhw felly	---	NSNT
+
+
+253, 1	865, 1-4	MED	a wedyn mae raid	NSNT	NSNT
+253, 2	868, 1-3	MED	a anyway mae	NSNT	SNT
+253, 3	868, 4-8	MED	wedi bod fel hyn wan	NSNT	NSNT
+253, 4	869, 1-7	MED	a oedd hi yn deud wsnos dwytha	NSNT	NSNT
+253, 5	869, 8-8	MED	bod	NSNT	NSNT
+253, 6	869, 9-18	MED	bod hi mewn yn yr *hospital* ers pnawn dydd Sadwrn	NST	NST
+253, 7	870, 1-7	MED	ia *ooh* ac oedd hi yn deud	NST	NST
+253, 8	870, 8-12	MED	mae mynd i gael *scan*	NST	NST
+253, 9	871, 1-5	MED	a dw i yn gobeithio	NSNT	NSNT
+253, 10	871, 6-9	MED	bod pob_dim yn iawn	NSNT	NSNT
+253, 11	872, 1-1	MED	meddai	---	NSNT
+
+
+254, 1	874, 1-4	LER	be un o yr	---	NSNT
+
+
+255, 1	875, 1-5	MED	*er* naci yr fam de	---	NST
+
+
+256, 1	876, 1-2	LER	y fam	---	NSNT
+
+
+257, 1	877, 1-2	MED	ia sti	NSNT	NSNT
+257, 2	878, 1-6	MED	bechod a mae gymhorthydd yn *Syr_Hugh*	NST	NST
+257, 3	879, 1-9	MED	ond oedd hi mynd i roi gorau iddi bythefnos	NSNT	NSNT
+257, 4	880, 1-2	MED	dw *sure*	NST	NST
+257, 5	880, 3-10	MED	bod hi bythefnos wedi dod i ben wan	NSNT	NSNT
+257, 6	881, 1-2	MED	bythefnos oedd	NSNT	NSNT
+257, 7	881, 3-6	MED	gynna i ar_ôl felly	NSNT	NSNT
+257, 8	882, 1-3	MED	aeth hi nôl	NSNT	NSNT
+257, 9	883, 1-7	MED	gaeth hi mamolaeth felly sti fath â	NSNT	NSNT
+257, 10	883, 8-12	MED	basai yn cael plant bach	NSNT	NSNT
+257, 11	886, 1-8	MED	a wedyn *um* wnaeth hi drio fo ond	NST	NST
+257, 12	887, 1-3	MED	a wedyn oedd	NSNT	NSNT
+257, 13	887, 4-8	MED	ei *mham* hi yn cymryd	NST	NST
+257, 14	887, 9-12	MED	ac oedd rywun arall	NSNT	NSNT
+257, 15	889, 1-7	MED	achos mae yna un yn dal adre	NSNT	NSNT
+257, 16	890, 1-8	MED	a oedd hi wedi penderfynu rhoi gorau iddi	NSNT	NSNT
+257, 17	890, 9-11	MED	a wsti *um*	NST	NST
+257, 18	891, 1-3	MED	ond *er* dwn	NST	NST
+257, 19	891, 4-6	MED	dwn i ddim	NSNT	NSNT
+257, 20	891, 7-12	MED	oedd hi yn poeni dipyn bach	---	NSNT
+
+
+258, 1	892, 1-2	LER	*oh* bechod	NST	NST
+258, 2	894, 1-10	LER	argoel *lot* o waith de tri mabwysiadu tri de fel	NST	NST
+258, 3	894, 11-12	LER	yna de	---	NSNT
+
+
+259, 1	896, 1-4	MED	ia dwy oedd yna	NSNT	NSNT
+259, 2	897, 1-3	MED	*Barnardo's* oedden nhw	NST	NST
+259, 3	898, 1-3	MED	mae yn deud	NSNT	NSNT
+259, 4	899, 1-4	MED	dydy ddim yn cuddiad	SNT	NSNT
+259, 5	900, 1-4	MED	because wnaeth *Emily* ofyn	NST	ST
+259, 6	901, 1-3	MED	baset ti meddwl	NSNT	NSNT
+259, 7	901, 4-11	MED	basai hi yn siarad felly amdano fo yn	---	NSNT
+
+
+260, 1	902, 1-5	LER	ia ar y *radio* ia	---	NST
+
+
+261, 1	903, 1-3	MED	*er* ia wsti	NST	NST
+261, 2	903, 4-8	MED	basai yn raglen bach felly	NSNT	NSNT
+261, 3	905, 1-3	MED	wna i ofyn	NSNT	NSNT
+261, 4	906, 1-2	MED	meddai *Llinos*	NST	NST
+261, 5	907, 1-7	MED	ond hwyrach na bysai ddim isio hynny	NSNT	NSNT
+261, 6	908, 1-5	MED	ond mae bawb yn *Llanrug*	ST	NST
+261, 7	909, 1-5	MED	because wnaethon nhw *barty* mawr	NST	ST
+261, 8	909, 6-15	MED	pan gaethon nhw eu newid eu eu henwau felly tibod	---	NSNT
+
+
+262, 1	910, 1-2	LER	*oh* bechod	---	NST
+
+
+263, 1	911, 1-9	MED	do a wedyn *er* *Karen* sydd efo fi wan	NST	NST
+263, 2	912, 1-5	MED	wedyn mae yna *um* *Enid*	NST	NST
+263, 3	913, 1-5	MED	a mae hi yn dair	NSNT	NSNT
+263, 4	914, 1-2	MED	a *Annie*	NST	NST
+263, 5	916, 1-9	MED	mae nhw wedi wedi newid eu henwau nhw hefyd	NSNT	NSNT
+263, 6	916, 10-10	MED	sti	NSNT	NSNT
+263, 7	917, 1-8	MED	ia a o *Birmingham* oedden nhw yn dŵad	---	NST
+
+
+264, 1	918, 1-2	LER	*oh* bechod	---	NST
+
+
+265, 1	920, 1-2	MED	a wsti	NSNT	NSNT
+265, 2	920, 3-15	MED	mae nhw wedi cael bywyd *er* caled wedi cysgu mewn *car* a wedi	NST	NST
+265, 3	921, 1-7	MED	pan oedden nhw dod i tŷ Nain	NSNT	NSNT
+265, 4	921, 8-11	MED	meddai *Llinos* yn dechrau	NST	NST
+265, 5	921, 12-20	MED	oedden nhw yn llowcio eu bwyd fath â hwn	NSNT	NSNT
+265, 6	921, 21-24	MED	oedd y pryd ola	---	NSNT
+
+
+266, 1	922, 1-2	LER	*oh* bechod	---	NST
+
+
+267, 1	923, 1-3	MED	mae yn amlwg	NSNT	NSNT
+267, 2	923, 4-6	MED	bod nhw wedi	---	NSNT
+
+
+268, 1	924, 1-5	LER	bod heb fwyd a ballu	---	NSNT
+
+
+269, 1	925, 1-3	MED	ia ia sti	NSNT	NSNT
+269, 2	927, 1-9	MED	a oedden nhw yn trio llenwi eu hunan i_fyny	NSNT	NSNT
+269, 3	927, 10-12	MED	sti pethau bach	---	NSNT
+
+
+270, 1	928, 1-4	LER	*oh* bechod *oh* damia	---	NST
+
+
+271, 1	929, 1-6	MED	a wedyn oedd y babi yma	NSNT	NSNT
+271, 2	929, 7-11	MED	ac oedden nhw yn gwybod	NSNT	NSNT
+271, 3	929, 12-22	MED	bod honno o yr un un tad felly gyn y fam	NSNT	NSNT
+271, 4	930, 1-11	MED	wedyn wnaethon nhw gwffio yn galed iawn i gael y y	---	NSNT
+
+
+272, 1	931, 1-6	LER	nhw i_gyd y y chwiorydd ia	---	NSNT
+
+
+273, 1	932, 1-12	MED	ia y chwaer bach arall felly honno sy adre felly mewn ffordd	---	NSNT
+
+
+274, 1	934, 1-3	LER	*oh* chwarae teg	---	NST
+
+
+275, 1	935, 1-7	MED	ia *oh* gobeithio fydd hi yn iawn	---	NST
+
+
+276, 1	936, 1-6	LER	*oh* gobeithio fydd hi yn iawn	---	NST
+
+
+277, 1	938, 1-3	MED	meddwl amdani wan	NSNT	NSNT
+277, 2	938, 4-4	MED	yli	---	NSNT
+
+
+278, 1	939, 1-2	LER	*oh* bechod	NST	NST
+278, 2	940, 1-6	LER	dan ni ddim yn diolch digon	NSNT	NSNT
+278, 3	940, 7-7	LER	wchi	---	NSNT
+
+
+279, 1	941, 1-4	MED	argoel fawr nag ydan	---	NSNT
+
+
+280, 1	942, 1-5	LER	ond o'n i yn sylwi	NSNT	NSNT
+280, 2	943, 1-6	LER	o'n i na dw i *oh*	NST	NST
+280, 3	943, 7-8	LER	timod chdi	NSNT	NSNT
+280, 4	943, 9-12	LER	yn bod ti wedi	NSNT	NSNT
+280, 5	944, 1-6	LER	o'n i yn deud wrth *Graham*	NST	NST
+280, 6	945, 1-3	LER	*oh* baswn licio	NST	NST
+280, 7	945, 4-11	LER	petaswn i yn ennill y *lottery* mi gael	NST	NST
+280, 8	945, 12-13	LER	bod adre	NSNT	NSNT
+280, 9	946, 1-3	LER	dw i gwybod	NSNT	NSNT
+280, 10	946, 4-10	LER	baswn i yn hollol bored adre hefyd	NSNT	SNT
+280, 11	946, 11-16	LER	petaswn i adre llawn amser felly	NSNT	NSNT
+280, 12	947, 1-6	LER	ond fydda i meddwl weithiau *oh*	NST	NST
+280, 13	947, 7-8	LER	baswn i	NSNT	NSNT
+280, 14	947, 10-12	LER	baswn i licio	NSNT	NSNT
+280, 15	947, 13-16	LER	bod adre mwy felly	---	NSNT
+
+
+281, 1	948, 1-2	MED	bod ia	NSNT	NSNT
+281, 2	949, 1-10	MED	fydda i meddwl ar ryw ddydd Llun neu dydd Gwener	NSNT	NSNT
+281, 3	949, 12-18	MED	basai *nice* *just* cael ryw bedwar diwrnod	---	NST
+
+
+282, 1	950, 1-3	LER	pedwar diwrnod ia	---	NSNT
+
+
+283, 1	951, 1-8	MED	mae *Emily* yn gwneud hynny ti yn gweld	NST	NST
+283, 2	951, 9-10	MED	dydy *um*	NST	NST
+283, 3	952, 1-6	MED	a mae *Emily* wedi cael gwybod	NST	NST
+283, 4	952, 7-12	MED	bod hi yn cael ymddeol wan	NSNT	NSNT
+283, 5	952, 13-13	MED	sti	NSNT	NSNT
+283, 6	955, 1-2	MED	ddeudodd hi	NSNT	NSNT
+283, 7	955, 3-4	MED	mae hi	NSNT	NSNT
+283, 8	955, 5-9	MED	wedi bod ddim yn *sure*	NST	NST
+283, 9	956, 1-2	MED	wedyn oedd	NSNT	NSNT
+283, 10	956, 4-11	MED	oedd yna *lot* yn cael mynd o *B_B_C*	NST	NST
+283, 11	957, 1-3	MED	*so* wnaeth hi	NST	NST
+283, 12	957, 4-5	MED	roid i_mewn	NSNT	NSNT
+283, 13	959, 1-7	MED	ond dydy swydd hi ddim yn mynd	NSNT	NSNT
+283, 14	960, 1-6	MED	os oedd dy swydd di mynd	NSNT	NSNT
+283, 15	960, 7-15	MED	basai raid ti fynd ym mis Gorffennaf neu rywbeth	NSNT	NSNT
+283, 16	961, 1-6	MED	*um* ond *um* oeddwn i *oh*	NST	NST
+283, 17	961, 7-8	MED	mae mynd	NSNT	NSNT
+283, 18	961, 9-13	MED	mae yn gobeithio mynd *um*	NST	NST
+283, 19	962, 1-11	MED	ti yn cael tri_deg rywbeth o ddiwrnodau ychwanegol at dy wyliau	NSNT	NSNT
+283, 20	963, 1-11	MED	mae yna ryw enw iddo fo pan ti yn ymddeol felly	NSNT	NSNT
+283, 21	965, 1-10	MED	os na rhywbeth gyn y *B_B_C* ta be ydy o	NST	NST
+283, 22	966, 1-12	MED	a wedyn o weithio hynny nôl fedr hi fynd mis Ebrill felly	NSNT	NSNT
+283, 23	967, 1-8	MED	wedyn *um* mae hi wan *quite* edrych ymlaen	NST	NST
+283, 24	967, 9-10	MED	meddai hi	NSNT	NSNT
+283, 25	968, 1-8	MED	fydd raid mi gadw yn hun yn brysur	NSNT	NSNT
+283, 26	969, 1-1	MED	meddai	NSNT	NSNT
+283, 27	971, 1-4	MED	ond o'n i deud	NSNT	NSNT
+283, 28	972, 1-5	MED	Duw gwna fath â *Meirion*	NST	NST
+283, 29	973, 1-3	MED	cymra amser tan	NSNT	NSNT
+283, 30	974, 1-4	MED	*Meirion* gymryd tan Dolig	NST	NST
+283, 31	975, 1-7	MED	mae wedi dechrau gwneud gwaith llanw wan	NSNT	NSNT
+283, 32	975, 8-8	MED	dydy	---	NSNT
+
+
+284, 1	977, 1-4	LER	ydy o wedi gwneud	---	NSNT
+
+
+285, 1	978, 2-2	MED	sti	NSNT	NSNT
+285, 2	979, 1-1	MED	mae	NSNT	NSNT
+285, 3	979, 2-9	MED	mae ei chwaer o yn deud y drefn	NSNT	NSNT
+285, 4	980, 1-3	MED	ond dyna fo	NSNT	NSNT
+285, 5	981, 1-15	MED	*um* ond a wedyn hwyrach wedyn bysai yn cael ryw diwrnod neu ddau yna hwyrach	NST	NST
+285, 6	982, 1-7	MED	hwyrach bod yr wsnos gyfa yn ormod	NSNT	NSNT
+285, 7	982, 8-11	MED	dw ddim yn gwybod	---	NSNT
+
+
+286, 1	985, 1-5	LER	ond mae yn nain wan	NSNT	NSNT
+286, 2	985, 6-7	LER	dydy wedyn	---	NSNT
+
+
+287, 1	986, 1-7	MED	mae mynd i gymryd *Hannah* am ddiwrnod	NST	NST
+287, 2	989, 1-10	MED	a mae *Hannah* yn dod i rywle yn yn *Penrhos*	NST	NST
+287, 3	989, 11-14	MED	mae *Hannah* yn dod	NST	NST
+287, 4	990, 1-5	MED	o'n deud wrtha chdi do'n	NSNT	NSNT
+287, 5	991, 1-4	MED	i dŷ at yr	NSNT	NSNT
+287, 6	992, 1-5	MED	mae yna *lot* o *B_B_C*	NST	NST
+287, 7	992, 6-19	MED	wedi bod yn mynd ati hi felly plant y y rei yn gweithio yna	NSNT	NSNT
+287, 8	994, 1-6	MED	wedyn ryw chwech mae yn gymryd	NSNT	NSNT
+287, 9	995, 1-11	MED	achos mae *Alison* wedi cael cymryd blwyddyn o ei gwaith felly	NST	NST
+287, 10	995, 12-12	MED	sti	NSNT	NSNT
+287, 11	995, 13-13	MED	dydy	NSNT	NSNT
+287, 12	997, 1-14	MED	a wedyn wnaeth hi drio cael mynd yn rhan amser neu gwneud gweithio adre	NSNT	NSNT
+287, 13	998, 1-3	MED	ond wedi gwrthod	---	NSNT
+
+
+288, 1	999, 1-4	LER	wnan nhw ddim na	---	NSNT
+
+
+289, 1	1000, 1-8	MED	*so* mae *Emily* yn chymryd hi am ddiwrnod	NST	NST
+289, 2	1001, 1-10	MED	a wedyn wrth bod hi yn dŵad i *Fangor* yma	NST	NST
+289, 3	1001, 11-15	MED	mae yn haws iddi hi	---	NSNT
+
+
+290, 1	1002, 1-7	LER	iddi hi fynd â hi fan yna	---	NSNT
+
+
+291, 1	1003, 1-7	MED	a bod hi yn cael y Gymraeg	NSNT	NSNT
+291, 2	1003, 8-9	MED	de wrth	NSNT	NSNT
+291, 3	1003, 10-13	MED	bod *Clive* yn saesneg	NST	NST
+291, 4	1005, 1-5	MED	mae isio iddi gael Cymraeg	NSNT	NSNT
+291, 5	1006, 1-8	MED	fysai ddim yn cael mewn meithrinfa yn Bae_Colwyn	NSNT	NSNT
+291, 6	1006, 9-9	MED	sti	NSNT	NSNT
+291, 7	1006, 10-11	MED	na fysai	---	NSNT
+
+
+292, 1	1007, 1-3	LER	na na fysai	NSNT	NSNT
+292, 2	1008, 1-5	LER	*oh* ti gwybod be mae	NST	NST
+292, 3	1008, 6-11	LER	mae Saesneg *Gwyn* yn mynd yn	NST	NST
+292, 4	1010, 1-9	LER	a dyma yn dyma fo yn dod adre *um*	NST	NST
+292, 5	1011, 1-4	LER	pryd oedd hi dŵad	NSNT	NSNT
+292, 6	1012, 1-5	LER	wsnos wsnos dwytha ryw ben	SNT	NSNT
+292, 7	1013, 1-9	LER	anyway oedden ni wrthi yn gwneud rywbeth yn llofft	NSNT	SNT
+292, 8	1014, 1-2	LER	a mae	NSNT	NSNT
+292, 9	1014, 3-12	LER	gynna i fath â *um* *er* fath â dried flowers	ST	ST
+292, 10	1014, 13-15	LER	wsti yn llofft	NSNT	NSNT
+292, 11	1016, 1-9	LER	a dyma fo yn deud dyma fo mynd *um*	ST	NST
+292, 12	1017, 1-5	LER	*oh* *mam* aren't these beautiful	ST	NST
+292, 13	1018, 1-2	LER	meddai fo	NSNT	NSNT
+292, 14	1019, 1-1	LER	deud	NSNT	NSNT
+292, 15	1020, 1-1	LER	be	NSNT	NSNT
+292, 16	1021, 1-2	LER	meddai fi	SNT	NSNT
+292, 17	1022, 1-5	LER	beautiful meddai fo wrtha fi	NSNT	SNT
+292, 18	1024, 1-5	LER	ac mae raid na hwnna	NSNT	NSNT
+292, 19	1024, 6-12	LER	oedd y y gair am heddiw tibod	---	NSNT
+
+
+293, 1	1026, 1-4	MED	gair ia ia ia	---	NSNT
+
+
+294, 1	1027, 1-3	LER	beautiful meddai fo	NSNT	SNT
+294, 2	1029, 1-3	LER	*oh* *Gwyn* bach	NST	NST
+294, 3	1030, 1-2	LER	medd fi	NSNT	NSNT
+294, 4	1031, 1-6	LER	wyt ti mynd mwy seisnigaidd fel	NSNT	NSNT
+294, 5	1031, 7-13	LER	mae yr diwrnodau mynd yn eu blaen	NSNT	NSNT
+294, 6	1033, 1-6	LER	mae yn dod adre efo rywbeth	NSNT	NSNT
+294, 7	1034, 1-2	LER	a mae	NSNT	NSNT
+294, 8	1034, 3-6	LER	mae raid bod o	NSNT	NSNT
+294, 9	1035, 1-5	LER	ond dw ddim yn deud	NSNT	NSNT
+294, 10	1035, 6-15	LER	mae *lot* o yr *lot* o ei ffrindiau bach o	NST	NST
+294, 11	1035, 16-24	LER	sy yn y meithrinfa yn saesneg ti yn gweld	---	NSNT
+
+
+295, 1	1036, 1-3	MED	oes yn saesneg	---	NSNT
+
+
+296, 1	1037, 1-2	LER	ond *um*	---	NST
+
+
+297, 1	1038, 1-6	MED	ond mae yn cael Cymraeg adre	NSNT	NSNT
+297, 2	1040, 1-11	MED	mae *Clive* a *Alison* yn siarad Saesneg ti yn gweld dydyn	---	NST
+
+
+298, 1	1041, 1-4	LER	Saesneg adre yndy *sure*	---	NST
+
+
+299, 1	1042, 1-3	MED	a wedyn dyna	NSNT	NSNT
+299, 2	1042, 4-8	MED	mae hi yn deimlo felly	NSNT	NSNT
+299, 3	1043, 1-9	MED	basai hi licio dŵad mwy ffordd hyn i fyw	NSNT	NSNT
+299, 4	1045, 1-6	MED	ond mae waith o yn Llanelwy	NSNT	NSNT
+299, 5	1046, 1-5	MED	wedyn tibod mae yn anodd	NSNT	NSNT
+299, 6	1046, 6-6	MED	dydy	---	NSNT
+
+
+300, 1	1048, 2-2	LER	sti	---	NSNT
+
+
+301, 1	1049, 1-2	MED	ond *um*	---	NST
+
+
+302, 1	1050, 1-6	LER	ond *um* argoel dw yn cofio	NST	NST
+302, 2	1050, 7-19	LER	oedd yna hogan *er* efo fi pan o'n i yn gweithio yn *Trawsfynydd*	NST	NST
+302, 3	1051, 1-11	LER	oedd hi yn trafaelio o fan yna bob dydd i *Traws*	NST	NST
+302, 4	1051, 12-12	LER	wsti	NSNT	NSNT
+302, 5	1054, 1-3	LER	dyna chdi siwrnai	NSNT	NSNT
+302, 6	1056, 1-8	LER	argoel baswn i byth yn gallu wneud o	NSNT	NSNT
+302, 7	1057, 1-4	LER	dw i yn cwyno	NSNT	NSNT
+302, 8	1058, 1-16	LER	pan o'n i yn dod o *Blaenau_Ffestiniog* i i *Gaernarfon* o'n i yn cwyno de ond	---	NST
+
+
+303, 1	1060, 1-5	MED	mae yna rei wneud o	NSNT	NSNT
+303, 2	1061, 1-11	MED	tibod oedd yna rei yn diarhebu wrtha fi weithiau bod ni	NSNT	NSNT
+303, 3	1062, 1-9	MED	*oh* wnes i wneud o o *Rhos_lan* i *Llandudno*	NST	NST
+303, 4	1062, 11-13	MED	sti bob dydd	NSNT	NSNT
+303, 5	1064, 1-7	MED	ond tibod mae yna rei yn diarhebu	NSNT	NSNT
+303, 6	1065, 1-8	MED	ond mae yna rei fath â yn Ben_Llŷn	NSNT	NSNT
+303, 7	1065, 9-9	MED	does	NSNT	NSNT
+303, 8	1065, 10-16	MED	mae o *just* yn rhan o fywyd	NST	NST
+303, 9	1065, 17-17	MED	dydy	NSNT	NSNT
+303, 10	1066, 1-9	MED	mae raid chdi drafaelio os ti isio cyrraedd y	---	NSNT
+
+
+304, 1	1067, 1-1	LER	drafaelio	---	NSNT
+
+
+305, 1	1069, 1-9	MED	gwareiddiad felly os ti yn sôn am Ben_Llŷn bechod	---	NSNT
+
+
+306, 1	1071, 1-3	LER	ond *er* mae	NST	NST
+306, 2	1071, 4-5	LER	mae *Graham*	NST	NST
+306, 3	1071, 6-13	LER	mae *Graham* *oh* ar y funud yn *er*	NST	NST
+306, 4	1071, 14-14	LER	mae	NSNT	NSNT
+306, 5	1071, 15-22	LER	mae wedi cael fi yn ei ben o	NSNT	NSNT
+306, 6	1071, 23-29	LER	dydy yn efo hefo yr tŷ yma	NSNT	NSNT
+306, 7	1072, 1-7	LER	er dw i yn setlo yna wan	NSNT	NSNT
+306, 8	1073, 1-5	LER	dw i yn dechrau setlo	NSNT	NSNT
+306, 9	1074, 1-4	LER	ond dw i wedi	NSNT	NSNT
+306, 10	1074, 5-6	LER	dw i	NSNT	NSNT
+306, 11	1074, 7-8	LER	mae o	NSNT	NSNT
+306, 12	1074, 9-9	LER	mae	NSNT	NSNT
+306, 13	1074, 10-13	LER	wedi bod yn mynd	NSNT	NSNT
+306, 14	1076, 1-6	LER	oedd o wedi ffansïo ryw dŷ	NSNT	NSNT
+306, 15	1077, 1-1	LER	mae	NSNT	NSNT
+306, 16	1077, 2-11	LER	wedi bod ar *er* *er* yn beth yna ar y	---	NST
+
+
+307, 1	1078, 1-7	MED	mae o wedi dechrau mynd i ffansïo	---	NSNT
+
+
+308, 1	1080, 1-1	LER	mae	NSNT	NSNT
+308, 2	1080, 2-7	LER	wedi bod yn sbïad ar y	---	NSNT
+
+
+309, 1	1081, 1-3	MED	dach chi wedi	NSNT	NSNT
+309, 2	1081, 4-9	MED	roid o ar y farchnad felly	---	NSNT
+
+
+310, 1	1082, 1-1	LER	naddo	NSNT	NSNT
+310, 2	1082, 2-2	LER	sti	NSNT	NSNT
+310, 3	1082, 3-3	LER	naddo	NSNT	NSNT
+310, 4	1084, 1-6	LER	mae isio gorffen yr ardd a	NSNT	NSNT
+310, 5	1085, 1-6	LER	well dw i ddim yn gwybod	NSNT	NSNT
+310, 6	1085, 7-17	LER	os wnawn ni orffen yr ardd ta *just* twtio hi ta	NST	NST
+310, 7	1085, 18-20	LER	be wnawn ni	NSNT	NSNT
+310, 8	1087, 1-7	LER	ond baswn i yn licio gwybod faint	NSNT	NSNT
+310, 9	1087, 8-9	LER	mae yn	NSNT	NSNT
+310, 10	1087, 10-11	LER	werth fel	NSNT	NSNT
+310, 11	1088, 1-17	LER	achos o'n i yn deud wrth *Graham* *ooh* i ddeud y gwir os os ydy o yn	NST	NST
+310, 12	1088, 18-18	LER	werth	NSNT	NSNT
+310, 13	1088, 19-21	LER	os oes yna	NSNT	NSNT
+310, 14	1088, 22-30	LER	os oes yna geiniog i gwneud yni hi de	NSNT	NSNT
+310, 15	1088, 31-43	LER	basai well gyn i werthu fo a cael tŷ llai am wan de	NSNT	NSNT
+310, 16	1092, 1-2	LER	achos yndy	NSNT	NSNT
+310, 17	1092, 3-7	LER	mae *Robin* adre efo ni	NST	NST
+310, 18	1093, 1-2	LER	ond dydy	NSNT	NSNT
+310, 19	1093, 3-6	LER	ond dydy o ddim	---	NSNT
+
+
+311, 1	1094, 1-6	MED	dydy o ddim yn mynd i	---	NSNT
+
+
+312, 1	1095, 1-2	LER	nac ydy	---	NSNT
+
+
+313, 1	1096, 1-3	MED	nac ydy nac	---	NSNT
+
+
+314, 1	1097, 1-17	LER	ac o'n i yn deud basai tŷ tair llofft yn gwneud i ni i ddeud y gwir	NSNT	NSNT
+314, 2	1098, 1-8	LER	achos os fysai rywun isio dod i aros	NSNT	NSNT
+314, 3	1098, 9-14	LER	mae llofft *Robin* o_hyd yna felly	---	NST
+
+
+315, 1	1099, 1-1	MED	mae	---	NSNT
+
+
+316, 1	1101, 1-16	LER	a wedyn i weld os ella i ddod â yn mortgage i lawr ryw fymryn bach	NSNT	SNT
+316, 2	1102, 1-3	LER	achos mae o	NSNT	NSNT
+316, 3	1102, 4-5	LER	mae yn	NSNT	NSNT
+316, 5	1104, 20-24	LER	*so* mae yr mortgage ni	NST	ST
+316, 6	1104, 25-29	LER	dydy a wedi cael *Gwyn*	NST	NST
+316, 7	1104, 31-37	LER	timod a talu *um* *fees* y meithrinfa	---	NST
+
+
+317, 1	1107, 1-4	MED	*oh* *yeah* mae hwnna	---	NST
+
+
+318, 1	1108, 1-8	LER	a mae rheiny yn dri chant y mis	NSNT	NSNT
+318, 2	1109, 1-2	LER	mae *lot*	NST	NST
+318, 3	1109, 3-3	LER	dydy	NSNT	NSNT
+318, 4	1109, 4-4	LER	sti	---	NSNT
+
+
+319, 1	1110, 1-7	MED	sy yn glec o dy gyflog di	NSNT	NSNT
+319, 2	1110, 8-8	MED	dydy	---	NSNT
+
+
+320, 1	1111, 2-2	LER	mae	NSNT	NSNT
+320, 2	1111, 3-5	LER	mae fath â	NSNT	NSNT
+320, 3	1112, 3-5	LER	mae o tibod	NSNT	NSNT
+320, 4	1114, 1-11	LER	a wedyn o'n i yn o'n i yn deud dw i	NSNT	NSNT
+320, 5	1114, 12-13	LER	*just* â	NST	NST
+320, 6	1114, 14-16	LER	timod cael gwybod	NSNT	NSNT
+320, 7	1114, 17-21	LER	os oes yna bres i	NSNT	NSNT
+320, 8	1114, 22-23	LER	os oes	NSNT	NSNT
+320, 9	1115, 1-6	LER	deud basen nhw yn deud *oh*	NST	NST
+320, 10	1115, 7-8	LER	mae o	NSNT	NSNT
+320, 11	1115, 9-10	LER	werth *oh*	NST	NST
+320, 12	1115, 11-19	LER	dw i ddim yn gwybod hyn a hyn felly	---	NSNT
+
+
+321, 1	1117, 1-9	MED	ond basai raid chdi fynd i un llai wedyn	NSNT	NSNT
+321, 2	1117, 10-10	MED	bysai	NSNT	NSNT
+321, 3	1117, 11-12	MED	sti *er*	NST	NST
+321, 4	1117, 13-13	MED	bysai	NSNT	NSNT
+321, 5	1117, 14-14	MED	bysai	---	NSNT
+
+
+322, 1	1118, 1-2	LER	bysai *oh*	NST	NST
+322, 2	1118, 3-3	LER	bysai	NSNT	NSNT
+322, 3	1119, 1-4	LER	ond *er* timod wedyn	NST	NST
+322, 4	1119, 5-6	LER	mae *Graham*	NST	NST
+322, 5	1119, 7-9	LER	bod yn sbïo	---	NSNT
+
+
+323, 1	1120, 1-2	MED	mae yn	NSNT	NSNT
+323, 2	1120, 3-5	MED	mae yn anodd	NSNT	NSNT
+323, 3	1120, 6-6	MED	dydy	NSNT	NSNT
+323, 4	1122, 1-6	MED	oedd o wedi gweld rywbeth *um*	---	NST
+
+
+324, 1	1123, 1-2	LER	oedd yna	NSNT	NSNT
+324, 2	1123, 3-13	LER	oedd yna rei *nice* yn yn *Penrhos* a pethau fel yna	NST	NST
+324, 3	1124, 1-5	LER	ond oedd o wedi gweld	NSNT	NSNT
+324, 4	1124, 6-9	LER	oedd wedi gweld un	NSNT	NSNT
+324, 5	1124, 10-14	LER	oedd o licio yn ofnadwy	NSNT	NSNT
+324, 6	1125, 1-8	LER	ond wedyn o'n i yn deud wrtho fo	NSNT	NSNT
+324, 7	1126, 1-15	LER	*well* ia *great* ond dw i ddim isio dod i *Fangor* am y rheswm syml	NST	NST
+324, 8	1126, 16-30	LER	basai yn meddwl i ni fynd â *Gwyn* ar yr ynys dwy waith yr wsnos	NST	NST
+324, 9	1126, 31-39	LER	neu roid o yn y meithrinfa yn llawn amser	NSNT	NSNT
+324, 10	1127, 1-10	LER	*well* dw ddim yn mynd i arbed arian o_gwbl wedyn	---	NST
+
+
+325, 1	1128, 1-7	MED	neu yr unig beth sy gyn ti	NSNT	NSNT
+325, 2	1128, 8-13	MED	ydy clybiau ar_ôl yr ysgol yma	NSNT	NSNT
+325, 3	1130, 1-5	MED	*right* boblogaidd wan dydyn sti	NST	NST
+325, 4	1131, 1-6	MED	meddwl am godi o i_fyny felly	NSNT	NSNT
+325, 5	1133, 1-6	MED	neu meddwl am Nain yn gwarchod	NSNT	NSNT
+325, 6	1133, 7-9	MED	wyt ti ia	---	NSNT
+
+
+326, 1	1135, 1-7	LER	ia achos mae o mynd i fod	NSNT	NSNT
+326, 2	1136, 1-4	LER	timod dwyflwydd a hanner	NSNT	NSNT
+326, 3	1136, 5-6	LER	ydy o	---	NSNT
+
+
+327, 1	1137, 1-6	MED	ia hanner amser ia ia ia	---	NSNT
+
+
+328, 1	1138, 1-1	LER	mae	NSNT	NSNT
+328, 2	1138, 2-8	LER	genna i flwyddyn a hanner arall tan	NSNT	NSNT
+328, 3	1138, 9-13	LER	eith o i yr ysgol	NSNT	NSNT
+328, 4	1138, 14-14	LER	does	NSNT	NSNT
+328, 5	1138, 15-15	LER	wsti	NSNT	NSNT
+328, 6	1140, 1-4	LER	achos wna i ddim	NSNT	NSNT
+328, 7	1141, 1-7	LER	achos o'n i siarad efo rywun ddoe	NSNT	NSNT
+328, 8	1142, 1-4	LER	pwy oedd yn sôn	NSNT	NSNT
+328, 9	1143, 1-8	LER	*oh* *Eleri* oedd yn deud *sure* yn gwaith	NST	NST
+328, 10	1144, 1-4	LER	oedd hi yn deud	NSNT	NSNT
+328, 11	1144, 5-6	LER	bod hi	NSNT	NSNT
+328, 12	1144, 7-18	LER	roid enw *Bob* i_lawr i fynd i yr ysgol *um* ar_ôl Dolig	---	NST
+
+
+329, 1	1145, 1-4	MED	*Llangristiolus* fydd o mynd	---	NST
+
+
+330, 1	1147, 2-10	LER	timod *er* flwyddyn newydd *well* mis erbyn mis Medi	NST	NST
+330, 2	1148, 1-2	LER	*yeah* dŵad	NST	NST
+330, 3	1149, 1-7	LER	*well* ia achos fydd o yn dair	NST	NST
+330, 4	1150, 1-8	LER	gân nhw fynd yn_cân hanner diwrnod yn dair	NSNT	NSNT
+330, 5	1150, 9-9	LER	cân	---	NSNT
+
+
+331, 1	1151, 2-7	MED	mae *Annie* mynd ti yn gweld	NST	NST
+331, 2	1151, 8-8	MED	dydy	NSNT	NSNT
+331, 3	1153, 1-6	MED	fydd hi yn bedair Ebrill yma	NSNT	NSNT
+331, 4	1153, 7-7	MED	bydd	---	NSNT
+
+
+332, 1	1154, 1-1	LER	ond	NSNT	NSNT
+332, 2	1155, 1-7	LER	*well* os na wneith Nain a os	NST	NST
+332, 4	1155, 26-28	LER	dydy o ddim	NSNT	NSNT
+332, 5	1155, 29-33	LER	werth o i fi nac	---	NSNT
+
+
+333, 1	1156, 1-2	MED	*well* mae	NST	NST
+333, 2	1156, 3-5	MED	mae mynd ers	---	NSNT
+
+
+333, 3	1157, 1-3	MED	nac ydy nac	NSNT	NSNT
+334, 2	1158, 31-42	LER	timod iddo fo ddod i nabod plant bach yn fan yno hefyd	NSNT	NSNT
+334, 3	1161, 1-19	LER	neu mae mynd i fod yn ddipyn o *struggle* gael o o fan yna i fynd i yr ysgol	NST	NST
+334, 4	1161, 20-23	LER	baswn i yn deud	SNT	NSNT
+334, 5	1162, 1-10	LER	because mae mor hapus yna yn y meithrinfa ti gwybod	---	SNT
+
+
+335, 1	1164, 1-8	MED	ond eto hwyrach na fydd o wedi arfer	NSNT	NSNT
+335, 2	1164, 9-11	MED	bod fel yna	NSNT	NSNT
+335, 3	1164, 12-12	MED	wsti	NSNT	NSNT
+335, 4	1164, 13-18	MED	na fydd o ddim yn newid	NSNT	NSNT
+335, 5	1165, 1-12	MED	fydd o *right* hapus hefyd i fynd i yr ysgol na hwyrach	---	NST
+
+
+336, 1	1166, 1-1	LER	hapus	NSNT	NSNT
+336, 2	1167, 1-3	LER	ysgol ia ella	---	NSNT
+
+
+337, 1	1168, 1-3	MED	ddim yn gwybod	---	NSNT
+
+
+338, 1	1169, 1-6	LER	pa ysgol mae *Annie* mynd i	NST	NST
+338, 2	1169, 7-7	LER	ta	---	NSNT
+
+
+339, 1	1170, 1-8	MED	*well* i *Carreg_Lefn* mae hi mynd ti gweld	---	NST
+
+
+340, 1	1171, 1-10	LER	*oh* *yeah* am bod Nain a Taid yn fan yna	---	NST
+
+
+341, 1	1172, 1-5	MED	am bod Nain a Taid	NSNT	NSNT
+341, 2	1173, 1-5	MED	ond oedd hi swil ofnadwy	NSNT	NSNT
+341, 3	1174, 1-7	MED	achos yn y feithrinfa fan yna mae	NSNT	NSNT
+341, 4	1174, 8-18	MED	gynnon nhw *um* le bach fath â corlan bach neu rywbeth	NST	NST
+341, 5	1174, 19-23	MED	mae nhw yn alw fo	NSNT	NSNT
+341, 6	1175, 1-11	MED	a wedyn ew oedd *Annie* cau mynd ar yr *yard* fawr	NST	NST
+341, 7	1175, 12-14	MED	de yn dechrau	NSNT	NSNT
+341, 8	1176, 1-10	MED	oedd hi yn ofnadwy o o o fath â swil	NSNT	NSNT
+341, 9	1177, 1-8	MED	a hi ydy yr geg fwya chwedl y	NSNT	NSNT
+341, 10	1178, 1-2	MED	wsti rhyfedd	NSNT	NSNT
+341, 11	1178, 3-4	MED	ydyn nhw	NSNT	NSNT
+341, 12	1180, 1-5	MED	ond mae *real* *boy* wan	NST	NST
+341, 13	1181, 1-7	MED	*um* a ryw *Osian* yn blwyddyn chwech	NST	NST
+341, 14	1182, 1-2	MED	wsti fel	NSNT	NSNT
+341, 15	1182, 3-4	MED	mae nhw	NSNT	NSNT
+341, 16	1182, 5-8	MED	de sôn am *Osian*	NST	NST
+341, 17	1183, 1-7	MED	*oh* hogyn yn blwyddyn chwech ydy *Osian*	NST	NST
+341, 18	1183, 8-9	MED	wchi *um*	NST	NST
+341, 19	1183, 10-11	MED	meddai *Elen*	NST	NST
+341, 20	1184, 1-12	MED	mae *er* am ei amdano fo bob amser chwarae isio gafael llaw	---	NST
+
+
+342, 1	1185, 1-2	LER	*oh* bechod	---	NST
+
+
+343, 1	1186, 1-8	MED	mae raid bod o yn annwyl ysgol bach	---	NSNT
+
+
+344, 1	1187, 1-2	LER	*oh* bechod	---	NST
+
+
+345, 1	1189, 1-10	MED	ond oedden nhw wedi cael eu siomi ti yn gweld	NSNT	NSNT
+345, 2	1190, 1-9	MED	oedden nhw wedi gweld y tŷ yma yn *Llanfugail*	NST	NST
+345, 3	1190, 10-10	MED	doedden	NSNT	NSNT
+345, 4	1191, 1-12	MED	a wedyn *um* oedd wedi gofyn i *Beresford_Adams* cadw nhw i wybod	NST	NST
+345, 5	1191, 13-17	MED	be oedd yn digwydd yna	---	NSNT
+
+
+346, 1	1192, 1-4	LER	ia up to ia	---	SNT
+
+
+347, 1	1193, 1-3	MED	because oedd *Arwel*	NST	ST
+347, 2	1193, 4-7	MED	wedi bod meddwl hwyrach	NSNT	NSNT
+347, 3	1193, 8-14	MED	basai fo yn rhentio ei dŷ allan	---	NSNT
+
+
+348, 1	1194, 1-2	LER	*well* ia	---	NST
+
+
+349, 1	1195, 1-9	MED	oedden nhw mor keen isio yr tŷ yma wedi	NSNT	SNT
+349, 2	1195, 10-11	MED	timod fel	NSNT	NSNT
+349, 3	1195, 12-23	MED	wyt ti wedi disgyn mewn cariad efo yr tŷ yma wedi meddwl	NSNT	NSNT
+349, 4	1195, 24-29	MED	dyna fo investment yn y tŷ	NSNT	SNT
+349, 5	1197, 1-7	MED	a oedd o yn deud wsnos dwytha	NSNT	NSNT
+349, 6	1198, 1-1	MED	mae	NSNT	NSNT
+349, 7	1198, 2-5	MED	mae o wedi mynd	NSNT	NSNT
+349, 8	1199, 1-14	MED	a mae *Elen* wedi mynd yna i dynnu o oddi_ar y farchnad gyn *Beresford_Adams*	NST	NST
+349, 9	1200, 1-8	MED	ond o'n i yn deud wrtho fo de	NSNT	NSNT
+349, 10	1201, 1-7	MED	mae bob estate agent yr un fath	NSNT	SNT
+349, 11	1202, 1-6	MED	dan ni gwybod hynna o brofiad	NSNT	NSNT
+349, 12	1203, 1-9	MED	dan ni wedi trio bob estate agent yn *Port*	NST	ST
+349, 13	1205, 1-12	MED	a dyn nhw mond yn edrych ar_ôl eu buddiannau nhw eu hunain	NSNT	NSNT
+349, 14	1205, 13-14	MED	mae nhw	---	NSNT
+
+
+350, 1	1206, 1-5	LER	ia na dw yn gwybod	---	NSNT
+
+
+351, 1	1207, 1-8	MED	munud gaethon nhw yr un yn fan yna	NSNT	NSNT
+351, 2	1208, 1-14	MED	petasen nhw wedi cynnig deud wrth *Arwel* hwyrach basai fo wedi roi *offer* i_mewn	---	NST
+
+
+352, 1	1209, 1-2	LER	*well* ia	---	NST
+
+
+353, 1	1210, 1-2	MED	dyna fo	NSNT	NSNT
+353, 2	1210, 3-6	MED	mae wedi mynd wan	NSNT	NSNT
+353, 3	1211, 1-11	MED	*so* dydyn nhw ddim ar frys mawr wan meddai fo nes	NST	NST
+353, 4	1211, 12-16	MED	ddaw yna rywle really licio	---	SNT
+
+
+354, 1	1213, 1-8	LER	ond o'n i yn gwatsio rhaglen rhaglen neithiwr	NSNT	NSNT
+354, 2	1214, 1-1	LER	dyna	NSNT	NSNT
+354, 3	1214, 2-6	LER	be ddaru fi wylio *sure*	NST	NST
+354, 4	1214, 7-13	LER	am bod fi ddim yn gwylio *The_Bill*	NST	NST
+354, 5	1215, 1-3	LER	*um* *Location_Location_Location* de	NST	NST
+354, 6	1215, 4-11	LER	oedden nhw yn neu *Relocation_Relocation* neu be bynnag	NST	NST
+354, 7	1215, 12-13	LER	oedd o	NSNT	NSNT
+354, 8	1217, 1-8	LER	ond *um* oedd y bobl yma wedi *um*	NST	NST
+354, 9	1217, 9-13	LER	roid sealed bid am dŷ	NSNT	SNT
+354, 10	1218, 1-2	LER	timod fel	NSNT	NSNT
+354, 11	1218, 3-6	LER	wyt ti yn gwneud	NSNT	NSNT
+354, 12	1219, 1-9	LER	wyt ti yn ti gorod mynd am sealed bid	SNT	SNT
+354, 13	1220, 1-11	LER	ac oedden nhw wedi disgyn mewn cariad efo yr tŷ yma	NSNT	NSNT
+354, 15	1223, 1-8	LER	a peth nesa oedd y *phone* yn mynd	NST	NST
+354, 16	1223, 9-14	LER	ac oedden nhw wedi gael o	SNT	NSNT
+354, 17	1224, 1-14	LER	anyway o_fewn ryw ychydig o wsnosau fel oedd bob_dim yn mynd yn ei flaen	NSNT	SNT
+354, 18	1224, 15-27	LER	oedd yna lythyr wedi cyrraedd iddyn nhw wedi cael ei cyfeirio iddyn nhw	NSNT	NSNT
+354, 19	1225, 1-10	LER	ond pan ddaru nhw agor o llythyr i yr bobl	NSNT	NSNT
+354, 20	1225, 11-15	LER	oedd yn gwerthu yr tŷ	NSNT	NSNT
+354, 21	1225, 16-19	LER	oedd o yn rhestru	NSNT	NSNT
+354, 22	1225, 20-21	LER	yn_de faint	NSNT	NSNT
+354, 23	1225, 22-25	LER	oedd bawb wedi gynnig	NSNT	NSNT
+354, 24	1225, 26-32	LER	timod *er* yn y sealed bids felly	NST	ST
+354, 25	1227, 1-4	LER	ac ddaru nhw sylweddoli	NSNT	NSNT
+354, 26	1227, 5-7	LER	bod nhw wedi	NSNT	NSNT
+354, 27	1227, 8-9	LER	rhoid *um*	NST	NST
+354, 28	1227, 10-26	LER	bod nhw wedi cynnig rhywbeth fath â *um* hundred and forty *grand* yn fwy am y tŷ	NST	ST
+354, 29	1227, 27-33	LER	nag oedd y *person* nesa wedi gynnig	ST	NST
+354, 30	1228, 1-10	LER	anyway ddaru nhw ddim brynu fo yn diwedd y gân	NSNT	SNT
+354, 31	1229, 1-8	LER	ond o'n i meddwl *wow* dw i *sure*	NST	NST
+354, 32	1229, 9-14	LER	bod *er* croen rywun ar y	NST	NST
+354, 33	1229, 15-15	LER	pared	NSNT	NSNT
+354, 34	1229, 16-18	LER	doedd am hynna	NSNT	NSNT
+354, 35	1229, 19-19	LER	doedd	NSNT	NSNT
+354, 36	1231, 1-4	LER	ryw ysgrifenyddes neu rywbeth	---	NSNT
+
+
+355, 1	1232, 1-11	MED	meddylia amdanyn nhw wedi cael ia yn rywle fath â Llundain	NSNT	NSNT
+355, 2	1232, 12-13	MED	mae *sure*	NST	NST
+355, 3	1232, 14-14	MED	nad	NSNT	NSNT
+355, 4	1232, 15-19	MED	oedd hwnnw yn llawer o	NSNT	NSNT
+355, 6	1235, 1-6	MED	ond oedd o *lot* o bres	NST	NST
+355, 7	1235, 7-7	MED	doedd	---	NSNT
+
+
+356, 1	1237, 1-3	LER	ond oedd o	NSNT	NSNT
+356, 2	1237, 4-7	LER	oedd yna rywun wedi	NSNT	NSNT
+356, 3	1237, 8-19	LER	roid llythyr mewn amlen anghywir a wedi gyrru fo i yr bobl	---	NSNT
+
+
+357, 1	1238, 1-4	MED	*oh* drwg ydyn nhw	NST	NST
+357, 2	1240, 1-8	MED	i yr bobl bobl oedd yn gwerthu fo	---	NSNT
+
+
+358, 1	1242, 1-5	LER	*so* oedden ni meddwl *oh*	NST	NST
+358, 2	1242, 6-12	LER	oedden ni *Graham* a fi yn sôn	NST	NST
+358, 3	1243, 1-4	LER	*oh* dw i *sure*	NST	NST
+358, 4	1243, 5-6	LER	bod *er*	---	NST
+
+
+359, 1	1244, 1-11	MED	baswn i ddim yn mynd i_mewn i i i sealed bid	SNT	SNT
+359, 2	1244, 12-12	MED	sti	NSNT	NSNT
+359, 3	1245, 1-6	MED	tibod *Tony* wneud gymaint do creadur	NST	NST
+359, 4	1245, 7-12	MED	do methu cael dim_byd yn *Ben_y_Groes*	NST	NST
+359, 5	1246, 1-5	MED	ond oedd y *boy* *um*	NST	NST
+359, 6	1246, 6-11	MED	ddaru wneud conservatory ni yn deud	NSNT	SNT
+359, 7	1246, 12-15	MED	bod ei ferch o	NSNT	NSNT
+359, 8	1246, 16-19	MED	yli yn *Bontnewydd* naw_deg	NST	NST
+359, 9	1246, 20-23	MED	oedden nhw yn ofyn	NSNT	NSNT
+359, 10	1247, 1-10	MED	ac oedden nhw isio fo gymaint naw_deg_saith yn y seal	SNT	SNT
+359, 11	1248, 1-5	MED	a mi gaethon nhw fo	NSNT	NSNT
+359, 12	1250, 1-14	MED	ac oedd o *Dafydd_Hardy* ti weld lladd ar *Dafydd_Hardy* fod o yn gwneud hynny	NST	NST
+359, 13	1251, 1-9	MED	*er* baswn i byth yn gwerthu nhŷ efo fo	NST	NST
+359, 14	1252, 1-7	MED	*oh* mae nhw i_gyd yn wneud o	NST	NST
+359, 15	1252, 8-8	MED	dydy	NSNT	NSNT
+359, 16	1254, 1-1	MED	dyna	NSNT	NSNT
+359, 17	1254, 2-3	MED	lle mae	NSNT	NSNT
+359, 18	1255, 1-11	MED	a fel ti yn deud hwyrach na naw_deg_un oedd y agosa	NSNT	NSNT
+359, 19	1255, 12-15	MED	atyn nhw na hwyrach	---	NSNT
+
+
+360, 1	1256, 1-8	LER	ffordd yna mae nhw yn wneud eu pres	NSNT	NSNT
+360, 2	1257, 1-5	LER	ia ia mae o naughty	---	SNT
+
+
+361, 1	1258, 1-5	MED	tibod mae chwe mil i	NSNT	NSNT
+361, 2	1259, 1-4	MED	yn_dydy mae o yn	NSNT	NSNT
+361, 3	1259, 5-5	MED	dydy	NSNT	NSNT
+361, 4	1259, 6-6	MED	sti	---	NSNT
+
+
+362, 1	1260, 3-3	LER	sti	---	NSNT
+
+
+363, 1	1261, 1-5	MED	mae yn iawn i chdi	NSNT	NSNT
+363, 2	1262, 1-10	MED	ond rŵan erbyn yr ha yma wan wyt ti yn	NSNT	NSNT
+363, 3	1262, 11-12	MED	fydd rhaid	NSNT	NSNT
+363, 4	1263, 1-10	MED	deud bod chdi yn gwerthu dy dŷ yr ha yma	NSNT	NSNT
+363, 5	1263, 11-23	MED	bod yna ryw ddyddiad iddo fo rhaid chdi roi *survey* arno fo raid	---	NST
+
+
+364, 1	1264, 1-1	LER	rhaid	---	NSNT
+
+
+365, 1	1265, 1-8	MED	mae hwnnw yn yn dod i_mewn yn newydd	NSNT	NSNT
+365, 2	1265, 9-9	MED	tydy	---	NSNT
+
+
+366, 1	1266, 2-2	LER	sti	---	NSNT
+
+
+367, 1	1267, 1-4	MED	mae nhw yn deud	NSNT	NSNT
+367, 2	1267, 5-14	MED	fydd yna ddim gymaint o dai ar y farchnad wedyn	NSNT	NSNT
+367, 3	1268, 1-2	MED	wsti achos	NSNT	NSNT
+367, 4	1268, 3-12	MED	fydd bobl ddim isio talu saith i wyth gant i	---	NSNT
+
+
+368, 1	1270, 1-9	LER	gant neu rywbeth i gael roid eu tŷ ar	NSNT	NSNT
+368, 2	1270, 10-11	LER	werth ia	NSNT	NSNT
+368, 3	1272, 1-2	LER	ond wedyn	---	NSNT
+
+
+369, 1	1273, 1-5	MED	ond oedd *Dafydd_Hardy* yn deud	NST	NST
+369, 2	1273, 6-7	MED	mae *sure*	NST	NST
+369, 3	1273, 8-9	MED	bydd hwnnw	NSNT	NSNT
+369, 4	1274, 1-7	MED	fo oedd yn siarad ar *radio* felly	ST	NST
+369, 5	1275, 1-11	MED	at least wyt ti yn gwybod be ti yn gael wedyn	NSNT	SNT
+369, 6	1275, 12-12	MED	dwyt	---	NSNT
+
+
+370, 1	1277, 1-10	LER	because pan oedden ni yn gwerthu tro dwytha yma wan	NSNT	SNT
+370, 2	1277, 11-13	LER	oedd yna ffurflenni	NSNT	NSNT
+370, 3	1278, 1-21	LER	o'n i erioed wedi gweld y ffurflenni math yna o ffurflenni o blaen be o'ch chdi yn adael yn dy dŷ	NSNT	NSNT
+370, 4	1279, 1-13	LER	o'ch chdi yn gorod ticio yr *box* neu oedda chdi yn gorod deud	NST	NST
+370, 5	1279, 14-29	LER	oedda chdi yn gadael y *blinds* oeddachd o'n ni o'ch chdi yn gadael y *curtains* oeddachd	NST	NST
+370, 6	1281, 1-7	LER	a o'ch chdi yn gorod rhestru bob_dim	NSNT	NSNT
+370, 7	1282, 1-6	LER	*oh* does gyn i ddim co	NST	NST
+370, 8	1282, 7-13	LER	pan ddaru fi werthu tŷ flynyddoedd yn_ôl	NSNT	NSNT
+370, 9	1282, 14-14	LER	bod	NSNT	NSNT
+370, 10	1282, 15-16	LER	bod chdi	NSNT	NSNT
+370, 11	1282, 17-17	LER	bod	---	NSNT
+
+
+371, 1	1283, 1-5	MED	*oh* dan ni cael hynna	---	NST
+
+
+372, 1	1284, 1-4	LER	*oh* ydy hwnna newydd	NST	NST
+372, 2	1284, 5-5	LER	ta	---	NSNT
+
+
+373, 1	1285, 1-8	MED	*well* dan ni wedi gwneud dipyn o hynny	NST	NST
+373, 2	1285, 9-16	MED	de ticio be ti yn gadael ar_ôl yna	---	NSNT
+
+
+374, 1	1286, 1-4	LER	*oh* *right* *oh* hwyrach	---	NST
+
+
+375, 1	1287, 1-8	MED	ond be sy newydd wan efo yr electrician	SNT	SNT
+375, 2	1287, 9-11	MED	gaethon ni wan	NSNT	NSNT
+375, 3	1287, 12-22	MED	dan ni wedi cael llwyth o *forms* i lenwi gynno fo	NST	NST
+375, 4	1288, 1-10	MED	a dan ni wedi cael dwy *certificate* gyn y cyngor	NST	NST
+375, 5	1289, 1-12	MED	mae o yn gyrru nhw i ryw *firm* *er* rywle yn *Wrexham*	NST	NST
+375, 6	1289, 13-14	MED	meddai fo	NSNT	NSNT
+375, 7	1290, 1-6	MED	pethau canllawiau newydd electricians ydy hynny	NSNT	SNT
+375, 8	1292, 1-12	MED	a wedyn mae rheiny yn *Wrexham* yn yrru o i yr cyngor	NST	NST
+375, 9	1293, 1-9	MED	wedyn pan dan ni yn gwerthu yr tŷ wan	NSNT	NSNT
+375, 10	1293, 10-11	MED	fydd rhein	NSNT	NSNT
+375, 11	1293, 12-16	MED	gynnon ni felly i brofi	NSNT	NSNT
+375, 12	1293, 17-21	MED	bod ni wedi cael electrician	SNT	SNT
+375, 13	1293, 22-32	MED	sy yn gymwys i wneud y y gwaith bod raid chdi	NSNT	NSNT
+375, 14	1294, 1-5	MED	*yeah* pethau fel yna sti	---	NST
+
+
+376, 1	1296, 1-2	LER	argoel fawr	NSNT	NSNT
+376, 2	1298, 1-6	LER	ia because dw i yn gwybod	NSNT	SNT
+376, 3	1298, 7-14	LER	bod *um* pan gafon ni ail ailweirio fo	NST	NST
+376, 4	1298, 15-19	LER	rŵan de bod o'ch chdi	NSNT	NSNT
+376, 5	1298, 20-24	LER	oedd o ddim yn cael	NSNT	NSNT
+376, 6	1298, 25-28	LER	roid y *switches* newydd	NST	NST
+376, 7	1298, 29-33	LER	lle oedd yr hen rei	NSNT	NSNT
+376, 8	1299, 1-11	LER	achos ti yn gorod dod â nhw yn is neu rywbeth	---	NSNT
+
+
+377, 1	1300, 1-5	MED	*oh* ia ryw reolau de	---	NST
+
+
+378, 1	1301, 1-7	LER	*um* mae yr *switch* golau ryw boitsh	NST	NST
+378, 2	1301, 8-13	LER	a bod chdi yn gorod *oh*	NST	NST
+378, 3	1303, 1-2	LER	ond dw	NSNT	NSNT
+378, 4	1303, 3-6	LER	dw ddim yn cofio	NSNT	NSNT
+378, 5	1304, 1-2	LER	ddaru *Graham*	---	NST
+
+
+379, 1	1305, 1-3	MED	ond hwyrach nad	NSNT	NSNT
+379, 2	1305, 4-8	MED	oedd o ddim na wan	NSNT	NSNT
+379, 3	1305, 9-11	MED	mae wedi dŵad	---	NSNT
+
+
+380, 1	1306, 1-6	LER	ia ia dw ddim yn gwybod	---	NSNT
+
+
+381, 1	1307, 1-5	MED	because oedd hwn yn deud	NSNT	SNT
+381, 2	1308, 1-7	MED	ew mae yna gymaint o waith papur	NSNT	NSNT
+381, 3	1309, 1-2	MED	meddai fo	NSNT	NSNT
+381, 4	1310, 1-5	MED	i wneud *um* efo bob	NST	NST
+381, 5	1311, 1-14	MED	a mae hwnnw yn adio at y llafur i chdi a fi ti gweld	NSNT	NSNT
+381, 6	1311, 15-15	MED	dydy	NSNT	NSNT
+381, 7	1313, 1-1	MED	dyna	NSNT	NSNT
+381, 8	1313, 2-5	MED	be oedd o ddeud	NSNT	NSNT
+381, 9	1314, 1-13	MED	gyn ti gywilydd weithiau bod chdi yn tsiarjio yr y llafur yma de	NSNT	NSNT
+381, 10	1315, 1-6	MED	*so* ti mynd i *um* *Faenol*	---	NST
+
+
+382, 1	1316, 1-1	LER	yndw	NSNT	NSNT
+382, 2	1317, 1-8	LER	dw i wneud yr *Urdd* yn munud yn	NST	NST
+382, 3	1318, 1-3	LER	saith_deg_pump ohonyn nhw	---	NSNT
+
+
+383, 1	1319, 1-10	MED	a be ti yn dod yn_ôl i i i i	---	NSNT
+
+
+384, 1	1320, 1-5	LER	*oh* fydd raid i fi	NST	NST
+384, 2	1320, 6-6	LER	sti	SNT	NSNT
+384, 3	1321, 1-13	LER	because dydw i ddim wedi gallu gorffen yn *um* yn *er* yn *searches*	NST	ST
+384, 4	1322, 1-7	LER	*so* fydd raid a i wneud nhw	NST	NST
+384, 5	1323, 1-5	LER	a i orffen nhw wedyn	NSNT	NSNT
+384, 6	1324, 1-3	LER	mond ryw waith	NSNT	NSNT
+384, 7	1325, 1-11	LER	gwaith hanner awr sy gyn i yn_ôl yn yn gwaith wedyn	NSNT	NSNT
+384, 8	1326, 1-3	LER	ond dydy o	NSNT	NSNT
+384, 9	1326, 4-7	LER	dydy o ddim bwys	NSNT	NSNT
+384, 10	1327, 1-1	LER	mae	NSNT	NSNT
+384, 11	1327, 2-5	LER	mae o yn beth	NSNT	NSNT
+384, 12	1327, 6-9	LER	mae yn flexi fi	NSNT	SNT
+384, 13	1327, 10-10	LER	dydy	NSNT	NSNT
+384, 14	1328, 1-5	LER	ond *just* bod o yn	NST	NST
+384, 15	1330, 1-15	LER	o'n i wedi meddwl baswn i wedi cael gorffen nhw cyn i mi ddod yma	NSNT	NSNT
+384, 16	1330, 16-16	LER	yli	---	NSNT
+
+
+385, 1	1331, 1-7	MED	flexi gyma i hefyd na hwyrach fory	NSNT	SNT
+385, 2	1332, 1-4	MED	basai well i mi	SNT	NSNT
+385, 3	1333, 1-6	MED	because dw i yn dod i	NSNT	SNT
+385, 4	1333, 7-14	MED	dan ni yn dod i ddiwedd *block* dŵad	---	NST
+
+
+386, 1	1334, 1-5	LER	*oh* dw ddim yn *sure*	---	NST
+
+
+387, 1	1335, 1-4	MED	mi watsiad wrth_gwrs *um*	NST	NST
+387, 2	1336, 1-16	MED	gymryd flexi bore fory lle bod o yn mynd ar_goll de a cymryd y *toil* yna	NST	ST
+387, 3	1337, 1-11	MED	gyn i ddal hwnnw i beth yna bore Sadwrn yn yn	---	NSNT
+
+
+388, 1	1338, 1-4	LER	ers pryd fuest ti	NSNT	NSNT
+388, 2	1339, 1-3	LER	*oh* yn *um*	---	NST
+
+
+389, 1	1340, 1-8	MED	basai raid chdi gymryd hwnnw fewn amser dŵad	---	NSNT
+
+
+390, 1	1341, 1-5	LER	na dw ddim yn meddwl	NSNT	NSNT
+390, 2	1343, 1-7	LER	mond bod chdi yn bod chdi yn	---	NSNT
+
+
+391, 1	1344, 1-7	MED	achos o'n i meddwl cymryd dydd Llun	NSNT	NSNT
+391, 2	1345, 1-8	MED	dyna pam o'n i yn deud wrth *Sally*	NST	NST
+391, 3	1345, 9-16	MED	basen ni medru cwrdd wsnos nesa ryw ben	---	NSNT
+
+
+392, 1	1347, 1-2	LER	hanner tymor	---	NSNT
+
+
+393, 1	1348, 1-7	MED	mae mynd i fan yno wan wrth_gwrs	---	NSNT
+
+
+394, 1	1349, 1-10	LER	*oh* mae *Sally* yn mynd i Llundain hefyd ryw gwrs	NST	NST
+394, 2	1351, 1-1	LER	rywbeth	NSNT	NSNT
+394, 3	1352, 1-2	LER	ond mae	NSNT	NSNT
+394, 4	1352, 3-7	LER	mae mynd efo yr hogiau	NSNT	NSNT
+394, 5	1352, 8-13	LER	mae mynd efo yr hogiau tân	NSNT	NSNT
+394, 6	1353, 1-8	LER	*um* rhywbeth efo *um* seti babis neu rywbeth	NST	NST
+394, 7	1355, 1-5	LER	*so* ryw beth seti babis	NST	NST
+394, 8	1357, 1-5	LER	*so* dw ddim yn gwybod	---	NST
+
+
+395, 1	1358, 1-5	MED	pryd mae mynd i hwnnw	NSNT	NSNT
+395, 2	1358, 6-6	MED	ta	---	NSNT
+
+
+396, 1	1359, 1-5	LER	*oh* dw ddim yn gwybod	NST	NST
+396, 2	1360, 1-11	LER	ond wrthi yn chwilio am stafell chwilio am westy oedd hi	---	NSNT
+
+
+397, 1	1361, 1-7	MED	*oh* mae mynd yn o fuan felly	---	NST
+
+
+398, 1	1362, 1-2	LER	mae raid	NSNT	NSNT
+398, 2	1363, 1-9	LER	ond achos mae raid bod hi wneud hwnnw wan	---	NSNT
+
+
+399, 1	1365, 1-4	MED	*oh* *yeah* oedda chdi	NST	NST
+399, 2	1365, 5-11	MED	na oedda chdi ddim yna bore yma	NSNT	NSNT
+399, 3	1366, 1-4	MED	oedd hi yn deud	NSNT	NSNT
+399, 4	1366, 5-12	MED	bod *Huw_Gwilym* yn roi gorau i yr cadeiryddiad	NST	NST
+399, 5	1366, 13-17	MED	a bod nhw isio rywun	NSNT	NSNT
+399, 6	1366, 18-22	MED	fedr siarad Cymraeg i i	---	NSNT
+
+
+400, 1	1369, 1-4	LER	ia o'n i yn	---	NSNT
+
+
+401, 1	1370, 1-8	MED	a *Winnie* ydy yr is_gadeirydd neu rywbeth ia	---	NST
+
+
+402, 1	1371, 1-1	LER	hi	NSNT	NSNT
+402, 2	1372, 1-6	LER	ia wedyn mae *sure* na hi	NST	NST
+402, 3	1372, 7-11	LER	wneith gymryd y gadair wan	---	NSNT
+
+
+403, 1	1373, 1-2	MED	ia dyna	NSNT	NSNT
+403, 2	1373, 3-9	MED	oedd hi deud hi gymrith y gadair	NSNT	NSNT
+403, 3	1374, 1-4	MED	ond *er* isio is_gadeirydd	---	NST
+
+
+404, 1	1375, 1-7	LER	o'n i yn gofyn os oedd yna	NSNT	NSNT
+404, 2	1375, 8-11	LER	os oedden nhw isio	NSNT	NSNT
+404, 3	1375, 12-24	LER	os oedden nhw mynd i gymryd *er* is_gadeirydd o yr o yr gogledd	NST	NST
+404, 4	1376, 1-6	LER	dyna be o'n i gofyn felly	NSNT	NSNT
+404, 5	1377, 1-3	LER	achos bod timod	---	NSNT
+
+
+405, 1	1378, 1-6	MED	fasai yn beth da i nhw	NSNT	NSNT
+405, 2	1379, 1-6	MED	mae isio rywun o yr gogledd	NSNT	NSNT
+405, 3	1379, 7-7	MED	does	NSNT	NSNT
+405, 4	1380, 1-6	MED	does yna ddim dwywaith am hynny	NSNT	NSNT
+405, 5	1380, 7-8	MED	nag oes	NSNT	NSNT
+405, 6	1380, 9-9	MED	wsti	NSNT	NSNT

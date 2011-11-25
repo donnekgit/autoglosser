@@ -1,0 +1,942 @@
+
+
+1, 1	1, 1-4	MOS	edrych ar gwallt yna	NSNT	NSNT
+1, 2	2, 1-4	MOS	mae *just* yn ridiculous	---	ST
+
+
+2, 1	3, 1-1	LLE	pwy	SNT	NSNT
+2, 2	4, 1-1	LLE	*Lewis*	---	NST
+
+
+3, 1	5, 1-2	MOS	*Lewis* *yeah*	---	NST
+
+
+4, 1	7, 1-1	LLE	dyna	---	NSNT
+
+
+5, 1	8, 1-12	MOS	*just* put a *bowl* on his head and *just* cut around it	---	NST
+
+
+6, 1	9, 1-2	LLE	na dyna	NSNT	NSNT
+6, 2	10, 1-4	LLE	*well* *style* *Bala* timod	---	NST
+
+
+7, 1	11, 1-1	MOS	*Bala*	---	NST
+
+
+8, 1	12, 1-1	LLE	dyna	---	NSNT
+
+
+9, 1	13, 1-6	MOS	mae *just* yn *style* like thirties	---	ST
+
+
+10, 1	14, 1-2	LLE	*well* dyna	NST	NST
+10, 2	14, 3-3	LLE	dyna	NSNT	NSNT
+10, 3	14, 4-4	LLE	dyna	NSNT	NSNT
+10, 5	16, 1-2	LLE	dyna fe	---	NSNT
+
+
+11, 1	17, 1-6	MOS	*so* be ti meddwl o *Gwilym_Morus*	---	NST
+
+
+12, 1	18, 1-6	LLE	*oh* oedd o yn iawn actually	ST	ST
+12, 2	19, 2-6	LLE	dw ddim yn meindio fo	SNT	NSNT
+12, 3	20, 1-2	LLE	*Drumbago* *Drumbago*	ST	NST
+12, 5	22, 1-3	LLE	mae yn wahanol	---	NSNT
+
+
+13, 1	23, 1-1	MOS	*Drumbago*	---	NST
+
+
+14, 1	24, 1-2	LLE	*Drumbago* a	NST	NST
+14, 2	25, 2-3	LLE	mae wahanol	---	NSNT
+
+
+15, 1	26, 1-1	MOS	fi	---	NSNT
+
+
+16, 1	27, 1-3	LLE	a mae yn	---	NSNT
+
+
+17, 1	28, 1-6	MOS	fi ffindo fe yn eitha suicidal	---	SNT
+
+
+18, 1	31, 1-1	LLE	basically	SNT	NSNT
+18, 2	32, 1-2	LLE	wnes i	NSNT	NSNT
+18, 3	32, 3-4	LLE	wnes i	NSNT	NSNT
+18, 4	32, 5-11	LLE	dw i wedi prynu yr *um* *Traffig*	---	NST
+
+
+19, 1	33, 2-4	MOS	be fyddai ofnadwy	NSNT	NSNT
+19, 2	33, 5-10	MOS	bysai hwn yn cael ei darlledu	---	NSNT
+
+
+20, 1	35, 1-5	LLE	na timod y c_d *Traffig*	ST	ST
+20, 2	36, 1-5	LLE	dw i wedi prynu hwnna	NSNT	NSNT
+20, 3	37, 1-9	LLE	ond dw i methu gwrando fo yn y cyhyd	NSNT	NSNT
+20, 4	37, 10-15	LLE	de for *track* one to end	ST	ST
+20, 5	38, 1-4	LLE	achos mae mor hunanladdiol	---	NSNT
+
+
+21, 1	39, 1-2	MOS	dylai fod	---	NSNT
+
+
+22, 1	40, 1-4	LLE	mae mor *just* drist	---	NST
+
+
+23, 1	41, 1-2	MOS	unrhyw unrhyw	SNT	NSNT
+23, 2	42, 1-1	MOS	*sorry*	ST	NST
+23, 3	43, 1-11	MOS	unrhyw *album* dylet ti fod yn gallu wneud hynna gyda fe	NST	NST
+23, 5	45, 1-16	MOS	dylet ti fod yn gallu gwrando arno fe *top* to bottom and enjoy the whole *thing*	---	ST
+
+
+24, 1	47, 1-7	LLE	dyna fo *top* to *top* to bottom	---	ST
+
+
+25, 1	48, 1-4	MOS	achos mae bobl nawr	NSNT	NSNT
+25, 2	48, 5-11	MOS	mae nhw mewn i fel wneud *albums*	NST	NST
+25, 3	48, 12-18	MOS	lle mae gyda ti dechrau absolutely awesome	SNT	SNT
+25, 4	49, 1-7	MOS	a wedyn mae *just* mynd totally downhill	---	ST
+
+
+26, 1	51, 1-2	LLE	*yeah* *so*	---	NST
+
+
+27, 1	52, 1-1	MOS	oddeutu	---	NSNT
+
+
+28, 1	53, 1-1	LLE	oddeutu	---	NSNT
+
+
+29, 1	54, 1-1	MOS	oddeutu	---	NSNT
+
+
+30, 1	55, 1-9	LLE	oddeutu faint o weithiau dan ni gallu deud oddeutu	---	NSNT
+
+
+31, 1	56, 1-6	MOS	oddeutu oddeutu oddeutu oddeutu oddeutu oddeutu	---	NSNT
+
+
+32, 1	57, 1-3	LLE	oddeutu oddeutu oddeutu	NSNT	NSNT
+32, 2	58, 1-5	LLE	*just* llenwa fyny efo oddeutu	---	NST
+
+
+33, 1	59, 1-10	MOS	*oh* mae mynd i gael hwyl yn sgwennu hwn lawr	---	NST
+
+
+34, 1	60, 1-2	LLE	oddeutu oddeutu	SNT	NSNT
+34, 3	62, 1-1	LLE	*Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch*	NST	NST
+34, 4	63, 1-2	LLE	*pavillion* *pink*	ST	NST
+34, 5	64, 1-4	LLE	*just* pethau hollol *random*	---	NST
+
+
+35, 1	65, 1-5	MOS	*just* yn malu cachu geiriau	---	NST
+
+
+36, 1	66, 1-2	LLE	dewisiadau choices	---	SNT
+
+
+37, 1	67, 1-4	MOS	dyw e ddim yn	---	NSNT
+
+
+38, 1	68, 1-3	LLE	dysgu gydol oes	---	NSNT
+
+
+39, 1	69, 1-12	MOS	dyw e ddim yn mynd i fod yn hapus bod ti wneud	---	NSNT
+
+
+40, 1	70, 1-4	LLE	na dydy o ddim	SNT	NSNT
+40, 2	71, 1-5	LLE	slaves eighteen_twelve owned by *George*	---	NST
+
+
+41, 1	73, 1-3	MOS	*just* shut up	---	NST
+
+
+42, 1	74, 1-3	LLE	*just* darllen llyfr	ST	NST
+42, 3	76, 1-2	LLE	wait wait	SNT	NSNT
+42, 4	78, 1-3	LLE	ti gorod ti	NSNT	NSNT
+42, 6	80, 1-11	LLE	ti gorod deud brawddeg fan yna up to the full *stop*	ST	ST
+42, 7	81, 1-11	LLE	a wna i ddeud brawddeg up to the full *stop* *o_k*	---	ST
+
+
+43, 1	84, 1-7	MOS	ei sefydlu ym mil wyth wyth pedwar	---	NSNT
+
+
+44, 1	85, 1-9	LLE	a gei a gei di nudge_o fi pan pan	---	SNT
+
+
+45, 1	86, 1-10	MOS	bu Prifysgol_Cymru_Bangor yn wreiddiol Prifysgol_Cymru_Gogledd_Cymru yn un o geidwad pwysicaf	NSNT	NSNT
+45, 2	86, 11-19	MOS	diwylliant Cymru yn yr amrywiol iaith a ei llenyddiaeth	---	NSNT
+
+
+46, 1	87, 1-4	LLE	brawddeg hir ta be	---	NSNT
+
+
+47, 1	88, 1-1	MOS	go	---	NSNT
+
+
+48, 1	89, 1-8	LLE	mae astudio am radd yn gam pwysig ymlaen	NSNT	NSNT
+48, 2	90, 1-12	LLE	ond nid oes raid i chi newid eich bywyd i wneud hynny	NSNT	NSNT
+48, 3	91, 1-3	LLE	drwy ddysgu hyblyg	---	NSNT
+
+
+49, 1	92, 1-1	MOS	bored	---	NSNT
+
+
+50, 1	93, 1-2	LLE	I know	SNT	NSNT
+50, 2	94, 1-2	LLE	*oh* *well*	ST	NST
+50, 5	97, 1-5	LLE	ydyn nhw dal yn canu	---	NSNT
+
+
+51, 1	98, 1-11	MOS	ti wedi gweld ti wedi gweld *lot* o bobl ti nabod	---	NST
+
+
+52, 1	99, 1-1	LLE	be	NSNT	NSNT
+52, 2	100, 1-7	LLE	dw i wedi gweld *lot* o bobl	NST	NST
+52, 3	100, 8-10	LLE	dw i nabod	---	NSNT
+
+
+53, 1	102, 1-2	MOS	oddeutu faint	---	NSNT
+
+
+54, 1	103, 1-2	LLE	oddeutu faint	NSNT	NSNT
+54, 2	104, 4-7	LLE	dw i wedi actually	SNT	SNT
+54, 3	106, 1-1	LLE	oddeutu	---	NSNT
+
+
+55, 1	108, 1-1	MOS	oddeutu	---	NSNT
+
+
+56, 1	109, 1-2	LLE	pump chwech	---	NSNT
+
+
+57, 1	111, 1-15	MOS	ti gweld mae hwn yn trio yn wneud fi gael eisiau roi cyllell fan yna	---	NSNT
+
+
+58, 1	112, 1-4	LLE	mae yn afiach really	SNT	SNT
+58, 2	112, 5-5	LLE	dydy	---	NSNT
+
+
+59, 1	113, 1-3	MOS	mae yn afiach	---	NSNT
+
+
+60, 1	114, 1-3	LLE	*um* do apparently	ST	ST
+60, 2	114, 4-9	LLE	mae nhw wedi methu dau *gig*	NST	NST
+60, 4	116, 21-22	LLE	sy chwarae	---	NSNT
+
+
+61, 1	117, 1-3	MOS	pa pa *ig*	---	NST
+
+
+62, 1	118, 1-1	LLE	be	---	NSNT
+
+
+63, 1	119, 1-1	MOS	pa	NSNT	NSNT
+63, 2	120, 1-1	MOS	pwy	---	NSNT
+
+
+64, 1	121, 1-2	LLE	oedd y	NSNT	NSNT
+64, 2	121, 3-13	LLE	oedd gynnyn nhw *couple* o *gigs* *Drumbago* *Drumbago* neu beth bynnag	NST	NST
+64, 3	121, 14-17	LLE	ydy o *Gwilym_Morus* whatever	ST	ST
+64, 4	122, 1-4	LLE	methu *couple* o *gigs*	---	NST
+
+
+65, 1	123, 1-5	MOS	*gig* cynta fi gyda *Gwilym_Morus*	---	NST
+
+
+66, 1	124, 1-1	LLE	be	---	NSNT
+
+
+67, 1	125, 1-6	MOS	oedd *gig* cynta fi gyda *Gwilym_Morus*	---	NST
+
+
+68, 1	126, 1-5	LLE	*gig* cynta chdi efo *Gwil*	NST	NST
+68, 2	127, 1-3	LLE	yn gwneud be	---	NSNT
+
+
+69, 1	128, 1-1	MOS	be	---	NSNT
+
+
+70, 1	129, 1-3	LLE	*gig* chdi cynta	---	NST
+
+
+71, 1	130, 1-1	MOS	canu	NSNT	NSNT
+71, 2	131, 1-2	MOS	canu *yeah*	---	NST
+
+
+72, 1	132, 1-2	LLE	yn lle	---	NSNT
+
+
+73, 1	133, 1-2	MOS	yn *um*	NST	NST
+73, 2	134, 1-5	MOS	*oh* beth yw enw fe	NST	NST
+73, 3	135, 1-4	MOS	*thing* yna yn *Aberystwyth*	---	NST
+
+
+74, 1	136, 1-3	LLE	timod unig reswm	NSNT	NSNT
+74, 2	136, 4-8	LLE	dw i siarad efo chdi	NSNT	NSNT
+74, 3	137, 1-2	LLE	dyma *Dafydd_Iwan*	NST	NST
+74, 4	138, 1-9	LLE	yr unig reswm dw i siarad efo chdi wan	NSNT	NSNT
+74, 5	138, 11-13	LLE	ydy achos *um*	NST	NST
+74, 6	138, 14-19	LLE	dw i cael tenner am wneud	---	SNT
+
+
+75, 1	139, 1-1	MOS	*Dafydd_Iwan*	ST	NST
+75, 2	140, 1-3	MOS	ti cael tenner	---	SNT
+
+
+76, 1	141, 1-11	LLE	fel arall fel arall baswn i ddim yn siarad efo chdi	---	NSNT
+
+
+77, 1	142, 1-2	MOS	*well* timod	NST	NST
+77, 2	142, 3-10	MOS	mae hwnna *just* *just* yn hollol hollol *wrong*	---	NST
+
+
+78, 1	143, 2-6	LLE	mae hynny yn hurt yn_dydy	---	NSNT
+
+
+79, 1	145, 1-1	MOS	*well*	---	NST
+
+
+80, 1	146, 1-6	LLE	*er* shall we go and mingle	---	NST
+
+
+81, 1	147, 1-1	MOS	be	---	NSNT
+
+
+82, 1	148, 1-5	LLE	shall we go and mingle	---	NSNT
+
+
+83, 1	149, 1-1	MOS	mingle	SNT	NSNT
+83, 4	152, 1-3	MOS	wna fe eto	NSNT	NSNT
+83, 5	153, 1-3	MOS	wna fe eto	---	NSNT
+
+
+84, 1	154, 1-6	LLE	ti isio *just* deud un gair	NST	NST
+84, 2	155, 1-5	LLE	a wna i ddeud gair	NSNT	NSNT
+84, 3	156, 1-6	LLE	a wedyn gei di ddeud gair	NSNT	NSNT
+84, 4	157, 1-6	LLE	a wedyn wna i ddeud gair	---	NSNT
+
+
+85, 1	158, 1-1	MOS	rydw	---	NSNT
+
+
+86, 1	159, 1-1	LLE	i	---	NSNT
+
+
+87, 1	160, 1-1	MOS	wedi	---	NSNT
+
+
+88, 1	161, 1-1	LLE	cael	---	NSNT
+
+
+89, 1	162, 1-1	MOS	*dump*	---	NST
+
+
+90, 1	163, 1-1	LLE	efo	---	NSNT
+
+
+91, 1	165, 1-1	MOS	*John*	---	NST
+
+
+92, 1	166, 1-1	LLE	ac	---	NSNT
+
+
+93, 1	167, 1-1	MOS	*Alun*	---	NST
+
+
+94, 1	168, 1-1	LLE	yn	---	NSNT
+
+
+95, 1	169, 1-1	MOS	y	---	NSNT
+
+
+96, 1	170, 1-1	LLE	tŷ	---	NSNT
+
+
+97, 1	171, 1-1	MOS	mawr	---	NSNT
+
+
+98, 1	172, 1-1	LLE	efo	---	NSNT
+
+
+99, 1	173, 1-1	MOS	oddeutu	---	NSNT
+
+
+100, 1	174, 1-7	LLE	*oh* *yeah* I knew that was gonna	ST	NST
+100, 2	175, 1-1	LLE	pump	---	NSNT
+
+
+101, 1	176, 1-1	MOS	deg	---	NSNT
+
+
+102, 1	177, 1-1	LLE	saith	---	NSNT
+
+
+103, 1	178, 1-1	MOS	mil	---	NSNT
+
+
+104, 1	179, 1-1	LLE	o	---	NSNT
+
+
+105, 1	180, 1-1	MOS	ronynnau	---	NSNT
+
+
+106, 1	181, 1-2	LLE	*ooh* *gr*	---	NST
+
+
+107, 1	182, 1-3	MOS	na ronynnau treiglad	---	NSNT
+
+
+108, 1	183, 1-7	LLE	faint o *r_s* sy yna yn *gr*	NST	NST
+108, 2	184, 1-1	LLE	oddeutu	---	NSNT
+
+
+109, 1	185, 1-1	MOS	un	---	NSNT
+
+
+110, 1	186, 1-1	LLE	ten	---	NSNT
+
+
+111, 1	187, 1-1	MOS	un	---	NSNT
+
+
+112, 1	188, 1-1	LLE	un_deg_un	---	NSNT
+
+
+113, 1	189, 1-1	MOS	g_r_o_n_n_y_n_a_u	---	NSNT
+
+
+114, 1	190, 1-6	LLE	na faint o *grs* sy yna	NST	NST
+114, 2	190, 7-10	LLE	timod *gr* yn *gr*	---	NST
+
+
+115, 1	191, 1-5	MOS	dyw hwnna ddim yn air	---	NSNT
+
+
+116, 1	193, 1-8	LLE	*thing* is pan mae trio sillafu fo allan	NST	ST
+116, 2	193, 9-13	LLE	de ar y *transcript* yma	---	NST
+
+
+117, 1	195, 1-7	MOS	ti meddwl dylen ni wneud *helicopter* sounds	ST	ST
+117, 3	197, 1-8	MOS	ti meddwl bydd e gallu sgwennu hwnna lawr	---	NSNT
+
+
+118, 1	198, 1-3	LLE	ydy o gorod	NSNT	NSNT
+118, 4	201, 1-6	LLE	be mae wneud efo chwerthins yma	NSNT	NSNT
+118, 5	201, 7-7	LLE	ta	NSNT	NSNT
+118, 6	202, 1-9	LLE	achos dan ni wedi wneud *lot* o chwerthin hefyd	---	NST
+
+
+119, 1	203, 1-3	MOS	*ha* *ha* *ha*	ST	NST
+119, 3	205, 1-17	MOS	mae *just* yn eistedd wrth y keyboard *just* mynd *ha* *ha* *ha* *ha* *ha* *ha* *ha* *ha*	---	ST
+
+
+120, 1	206, 1-7	LLE	*ha* *ha* *ha* *ha* *ha* *ha* *ha*	NST	NST
+120, 2	207, 1-1	LLE	*great*	---	NST
+
+
+121, 1	208, 1-6	MOS	*wow* mae rywun yn ffono fi	ST	NST
+121, 2	209, 1-2	MOS	*oh* *hello*	---	NST
+
+
+122, 1	210, 1-5	LLE	be mae wneud efo distawrwydd	---	NSNT
+
+
+123, 1	211, 1-1	MOS	be	NSNT	NSNT
+123, 2	212, 1-4	MOS	*oh* *just* ysgrifennu silence	---	ST
+
+
+124, 1	213, 1-5	LLE	pwy sy yn ffonio chdi	---	NSNT
+
+
+125, 1	214, 1-3	MOS	sa i gwybod	NSNT	NSNT
+125, 2	215, 1-3	MOS	Duw a ŵyr	NSNT	NSNT
+125, 3	216, 1-6	MOS	*mam* sy ffono fi fi credu	ST	NST
+125, 4	217, 1-2	MOS	*hello* *mam*	ST	NST
+125, 5	218, 1-3	MOS	ti yn *alright*	NST	NST
+125, 6	219, 1-2	MOS	ffoniaist di	NSNT	NSNT
+125, 7	221, 1-5	MOS	*oh* fi yn pabell *Bangor*	NST	NST
+125, 8	222, 1-10	MOS	fi wneud *er* be ti galw ymarfer linguistics gyda *Peredur*	NST	ST
+125, 9	223, 1-7	MOS	achos mae e wneud *p_h_d* ynddo fe	NST	NST
+125, 10	224, 1-13	MOS	a mae e isie bobl i wneud tipyn bach o ymchwil gydag e	---	NSNT
+
+
+126, 1	225, 1-3	LLE	*cock* y gath	---	NST
+
+
+127, 1	226, 1-4	MOS	*oh* for God sake	NST	NST
+127, 2	227, 1-4	MOS	*oh* for God sake	ST	NST
+127, 3	228, 1-2	MOS	be sy	NSNT	NSNT
+127, 4	228, 3-4	MOS	be sy	NSNT	NSNT
+127, 5	228, 5-8	MOS	yn bod arnyn nhw	NSNT	NSNT
+127, 6	229, 1-8	MOS	ddoe es i ôl *er* hanner can punt	NST	NST
+127, 7	229, 9-12	MOS	werth o o fisgedi	NSNT	NSNT
+127, 8	230, 1-8	MOS	*oh* *sorry* sa i mynd i ôl nhw	NST	NST
+127, 9	231, 1-11	MOS	alli di ofyn i *Nigel* i fynd i ôl nhw *please*	NST	NST
+127, 10	234, 1-5	MOS	*oh* mae hwnna yn ofnadwy	NST	NST
+127, 11	236, 1-3	MOS	ody ody ody	NSNT	NSNT
+127, 14	239, 1-10	MOS	*so* mae nhw wedi mynd trwy cant *packet* mewn diwrnod	---	NST
+
+
+128, 1	240, 1-4	LLE	dw i iawn diolch	---	NSNT
+
+
+129, 1	241, 1-2	MOS	God sake	SNT	NSNT
+129, 2	243, 1-1	MOS	*ta_ra*	ST	NST
+129, 3	244, 1-3	MOS	be ti wneud	---	NSNT
+
+
+130, 1	245, 1-7	LLE	awn ni cerdded o_gwmpas fan yma *yeah*	---	NST
+
+
+131, 1	246, 1-6	MOS	*oh* *just* i edrych yn *cool*	---	NST
+
+
+132, 1	247, 1-11	LLE	y *thing* is ti dal gorod siarad efo fi achos *Peredur*	---	ST
+
+
+133, 1	248, 1-1	MOS	ti	NSNT	NSNT
+133, 2	249, 1-7	MOS	*so* fi actually gorfod cerdded gyda ti	---	ST
+
+
+134, 1	250, 1-3	LLE	ti actually gorod	---	SNT
+
+
+135, 1	251, 1-3	MOS	*just* mor weird	---	ST
+
+
+136, 1	252, 1-2	LLE	I know	NSNT	NSNT
+136, 2	253, 1-5	LLE	*thing* is lle mae pobl	---	ST
+
+
+137, 1	254, 1-1	MOS	*hello*	---	NST
+
+
+138, 1	255, 1-3	LLE	lle mae pawb	---	NSNT
+
+
+139, 1	256, 1-8	MOS	*well* mae yna bobl o dy flaen di	NST	NST
+139, 2	257, 1-7	MOS	mae yna bobl tu ôl i ti	---	NSNT
+
+
+140, 1	259, 1-2	LLE	be mae	NSNT	NSNT
+140, 2	259, 3-7	LLE	be mae nhw edrych fel	---	NSNT
+
+
+141, 1	260, 1-5	MOS	*um* oddeutu chwech o fenywod	---	NST
+
+
+142, 1	261, 1-3	LLE	rho disgrifiad manwl	---	NSNT
+
+
+143, 1	262, 1-10	MOS	ti gweld hwn *just* yn wneud fi lladd fy hun	---	NST
+
+
+144, 1	263, 1-1	LLE	llais	NSNT	NSNT
+144, 2	264, 1-1	LLE	llais	NSNT	NSNT
+144, 3	265, 1-4	LLE	llais *nice* gyda fo	---	NST
+
+
+145, 1	266, 1-8	MOS	llais *nice* os ti moyn lladd dy hun	---	NST
+
+
+146, 1	268, 1-6	LLE	ydyn ni cael siarad efo chdi	NSNT	NSNT
+146, 2	269, 1-2	LLE	ydyn ni	---	NSNT
+
+
+147, 1	270, 1-2	RES	ychydig *yeah*	NST	NST
+147, 2	271, 1-5	RES	wna i probably ddelete_io fo	---	SNT
+
+
+148, 1	273, 1-11	LLE	oddeutu faint o weithiau dan ni yn gallu siarad efo chdi	---	NSNT
+
+
+149, 1	274, 1-4	RES	pam be ti isio	---	NSNT
+
+
+150, 1	275, 1-1	MOS	oddeutu	---	NSNT
+
+
+151, 1	276, 1-1	LLE	oddeutu	SNT	NSNT
+151, 2	277, 1-1	LLE	really	---	NSNT
+
+
+152, 1	278, 1-1	MOS	oddeutu	---	NSNT
+
+
+153, 1	280, 1-4	LLE	*oh* mae yn *great*	NST	NST
+153, 3	282, 1-9	LLE	dan ni yn cael gymaint o hwyl fan yma	NSNT	NSNT
+153, 4	283, 1-8	LLE	ti be ti wneud os dan ni chwerthin	NSNT	NSNT
+153, 5	284, 1-9	LLE	ti mynd *ha* *ha* *ha* *ha* *ha* *ha* *ha*	---	NST
+
+
+154, 1	285, 1-4	RES	*er* na *ampersand* *laugh*	---	NST
+
+
+155, 1	286, 1-1	LLE	gwych	---	NSNT
+
+
+156, 1	287, 1-3	MOS	beth yw *ampersand*	---	NST
+
+
+157, 1	288, 1-6	RES	*ampersand* ydy *sort* of fath â	NST	ST
+157, 2	289, 1-5	RES	mae o ar *sort* of	NST	ST
+157, 3	290, 1-7	RES	alt five *shift* five rywbeth ydy o	NST	ST
+157, 4	291, 1-18	RES	mae yn un o rei ar *top* uwchben y rhifau fath â *sort* of fath â wyth ish	---	ST
+
+
+158, 1	293, 1-4	MOS	*oh* fi gwybod *yeah*	---	NST
+
+
+159, 1	294, 1-2	RES	and *yeah*	---	NST
+
+
+160, 1	295, 1-2	MOS	and *yeah*	---	NST
+
+
+161, 1	296, 1-5	RES	*ampersand* ydy enw yr gair	---	NST
+
+
+162, 1	297, 1-3	LLE	*cock* y gath	---	NST
+
+
+163, 1	298, 1-5	MOS	fi yw *cock* y gath	---	NST
+
+
+164, 1	300, 1-4	LLE	gwych *ha* *ha* *ha*	NST	NST
+164, 2	301, 1-2	LLE	ymestyn allan	NSNT	NSNT
+164, 3	302, 1-3	LLE	*oh* na paid	NST	NST
+164, 4	303, 1-5	LLE	*right* call i sôn amdan	---	NST
+
+
+165, 1	304, 1-1	MOS	be	---	NSNT
+
+
+166, 1	305, 1-3	LLE	blwyddyn nesa de	NSNT	NSNT
+166, 3	308, 1-7	LLE	*yeah* gwych *oh* *yeah* good conversation *great*	ST	ST
+166, 4	309, 1-4	LLE	ti yn byw yn	---	NSNT
+
+
+167, 1	310, 1-1	MOS	Albert_Street	---	NSNT
+
+
+168, 1	311, 1-6	LLE	*oh* *wow* drws nesa i *Glôb*	NST	NST
+168, 2	313, 1-8	LLE	ydy hynna mynd i effeithio ar dy astudiaethau	NSNT	NSNT
+168, 3	315, 1-1	LLE	pam	---	NSNT
+
+
+169, 1	316, 1-4	MOS	dyw e ddim achos	---	NSNT
+
+
+170, 1	317, 2-15	LLE	ydy hwnna mynd i ychwanegu at dy astudiaethoedd at dy brofiadau yn y brifysgol	---	NSNT
+
+
+171, 1	318, 1-1	MOS	bydd	NSNT	NSNT
+171, 2	319, 1-2	MOS	bydd achos	NSNT	NSNT
+171, 3	319, 3-6	MOS	bydd hi yn haws	NSNT	NSNT
+171, 4	319, 7-16	MOS	bydd hi yn haws i fi fynd i yr *Glôb*	NST	NST
+171, 5	320, 1-12	MOS	ac *er* fydd hi yn haws fyth i fi ddod o yna	NST	NST
+171, 6	322, 1-3	MOS	ti yn deall	---	NSNT
+
+
+172, 1	323, 1-2	LLE	*spot* on	---	NST
+
+
+173, 1	324, 1-4	MOS	felly fi methu dweud	NSNT	NSNT
+173, 2	325, 1-7	MOS	*oh* bydda i yna mewn chwarter awr	NST	NST
+173, 3	326, 1-3	MOS	bydda i gweud	NSNT	NSNT
+173, 4	327, 1-7	MOS	*oh* *o_k* ffono nôl mewn deg munud	NST	NST
+173, 5	328, 1-7	MOS	a bydda i lawr yna mewn eiliad	SNT	NSNT
+173, 6	329, 1-6	MOS	walk walk walk walk walk walk	SNT	NSNT
+173, 7	330, 1-1	MOS	*hello*	NST	NST
+173, 8	331, 1-1	MOS	*pint*	---	NST
+
+
+174, 1	332, 1-3	LLE	*so* ydy o	NST	NST
+174, 2	332, 4-14	LLE	ydy o cymryd ryw bump awr i chdi actually mynd adre	---	SNT
+
+
+175, 1	333, 1-4	MOS	be o fan hyn	---	NSNT
+
+
+176, 1	334, 1-5	LLE	na ydy o cymryd ryw	---	NSNT
+
+
+177, 1	335, 1-8	MOS	mae cymryd oddeutu tri_deg_pum munud o fan hyn	---	NSNT
+
+
+178, 1	337, 1-2	LLE	na o	NSNT	NSNT
+178, 2	338, 1-7	LLE	deuda wan bod ti yn brifysgol *Bangor*	NST	NST
+178, 3	338, 8-11	LLE	bod ti yn *Bangor*	NST	NST
+178, 4	338, 12-17	LLE	de yn *J_M_J* faint o amser	NST	NST
+178, 5	338, 18-23	LLE	mae yn cymryd i fynd adre	---	NSNT
+
+
+179, 1	339, 1-1	MOS	*J_M_J*	ST	NST
+179, 2	340, 1-9	MOS	*er* ar y *train* pedwar awr a deg munud	---	NST
+
+
+180, 1	341, 1-4	LLE	*oh* na na gyrru	NST	NST
+180, 2	342, 1-3	LLE	ti yn dreifio	NSNT	NSNT
+180, 3	343, 1-5	LLE	faint mae o faint oddeutu	---	NSNT
+
+
+181, 1	344, 1-4	MOS	four and a half	---	NSNT
+
+
+182, 1	345, 1-2	LLE	go iawn	SNT	NSNT
+182, 2	346, 1-2	LLE	four half	SNT	NSNT
+182, 3	347, 1-4	LLE	mae hwnna good good	SNT	SNT
+182, 4	348, 1-4	LLE	mae hwnna dda iawn	---	NSNT
+
+
+183, 1	349, 1-3	MOS	ond peth yw	NSNT	NSNT
+183, 2	349, 4-19	MOS	elli di wneud e mewn tair a hanner os ti mynd i *er* Caer a wedyn	---	NST
+
+
+184, 1	350, 1-7	LLE	ti wedi cael three *points* eto neu	NST	ST
+184, 2	351, 1-5	LLE	ti wedi cael three *points*	---	ST
+
+
+185, 1	352, 1-11	MOS	dal i aros am yn *er* dri pwynt achos fi wedi	---	NST
+
+
+186, 1	354, 1-3	LLE	be ti wedi	---	NSNT
+
+
+187, 1	355, 1-10	MOS	fi credu bod fi wedi cael y nal yn ddiweddar	---	NSNT
+
+
+188, 1	356, 1-9	LLE	be *as* in be oedd y flash flash_o chdi	---	ST
+
+
+189, 1	357, 1-1	MOS	achos	NSNT	NSNT
+189, 2	358, 1-4	MOS	*oh* na nage flash	NST	ST
+189, 3	359, 1-5	MOS	it was a motorway *job*	ST	NST
+189, 4	361, 1-5	MOS	o'n i wneud fel ninety_five	---	SNT
+
+
+190, 1	362, 1-4	LLE	*oh* not not good	---	NST
+
+
+191, 1	363, 1-13	MOS	no it's a court appearance os y fi cael yn ddal am hwnna	---	SNT
+
+
+192, 1	364, 1-4	LLE	pa fath o *gar*	NST	NST
+192, 2	365, 1-7	LLE	pa fath o *gar* sy gen ti	---	NST
+
+
+193, 1	366, 1-2	MOS	melyn bach	---	NSNT
+
+
+194, 1	367, 1-2	LLE	melyn bach	SNT	NSNT
+194, 2	368, 1-1	LLE	*Citroën*	---	NST
+
+
+195, 1	370, 1-1	MOS	*Fiat_Cinquecento*	---	NST
+
+
+196, 1	371, 1-5	LLE	dw i wedi gweld o	NSNT	NSNT
+196, 2	372, 1-1	LLE	naddo	NSNT	NSNT
+196, 3	372, 2-7	LLE	dw i ddim wedi gweld o	---	NSNT
+
+
+197, 1	373, 1-4	MOS	*sure* bod ti wedi	NST	NST
+197, 2	374, 1-3	MOS	ond dyna ni	NSNT	NSNT
+197, 3	375, 1-1	MOS	tawelwch	NSNT	NSNT
+197, 4	376, 1-3	MOS	ac wedi elwch	NSNT	NSNT
+197, 5	376, 4-4	MOS	tawelwch	NSNT	NSNT
+197, 6	376, 5-5	MOS	fu	NSNT	NSNT
+197, 7	377, 1-7	MOS	ti ddim yn siarad o_gwbl wyt ti	---	NSNT
+
+
+198, 1	378, 1-6	LLE	*sorry* dw i *just* yn sbïo	NST	NST
+198, 2	379, 1-9	LLE	mae *boy* yna edrych mor bored ar y *piano*	---	ST
+
+
+199, 1	380, 1-1	MOS	pwy	NSNT	NSNT
+199, 2	381, 1-8	MOS	*yeah* achos bod e ddim exactly yn challenging	ST	ST
+199, 4	383, 1-1	MOS	cana	NSNT	NSNT
+199, 5	384, 1-5	MOS	fi wedi clywed hwn o_blaen	NSNT	NSNT
+199, 6	385, 1-6	MOS	*er* *Meic_Stevens* sy canu hwn yfe	---	NST
+
+
+200, 1	388, 1-7	LLE	*sure* dim *er* *Jack_Black* sy wneud o	ST	NST
+200, 2	389, 1-5	LLE	bend_io yr nodyn ambell waith	NSNT	SNT
+200, 3	390, 1-5	LLE	ti wedi clywed *Jack_Black* cân	NST	NST
+200, 4	391, 1-4	LLE	mae chwarae un nodyn	NSNT	NSNT
+200, 5	392, 1-9	LLE	a wedyn mae yn bend_io fo ychydig o weithiau	SNT	SNT
+200, 6	393, 1-2	LLE	that's it	---	NSNT
+
+
+201, 1	394, 1-1	MOS	*serious*	---	NST
+
+
+202, 1	395, 1-4	LLE	*yeah* mae yn wych	NST	NST
+202, 2	396, 1-3	LLE	mae yn wych	---	NSNT
+
+
+203, 1	397, 1-1	MOS	*Jack_Black*	ST	NST
+203, 2	398, 1-1	MOS	really	SNT	NSNT
+203, 3	399, 1-12	MOS	*Jack_Black* *just* yn *idiot* with a knack for playing about six *chords*	ST	ST
+203, 4	401, 1-9	MOS	ti meddwl bod ni wedi siarad am hanner awr	---	NSNT
+
+
+204, 1	402, 2-3	LLE	dw meddwl	---	NSNT
+
+
+205, 1	403, 1-1	MOS	because	---	NSNT
+
+
+206, 1	404, 1-3	LLE	dw i wedi	NSNT	NSNT
+206, 2	404, 4-9	LLE	dw i wedi galaru ar hyn	---	NSNT
+
+
+207, 1	405, 1-3	MOS	*just* mor bored	ST	ST
+207, 2	406, 1-1	MOS	galaru	---	NSNT
+
+
+208, 1	407, 1-3	LLE	dw i wedi	---	NSNT
+
+
+209, 1	408, 1-1	MOS	laru	---	NSNT
+
+
+210, 1	409, 1-4	LLE	dw i wedi laru	---	NSNT
+
+
+211, 1	410, 1-1	MOS	dyn	NSNT	NSNT
+211, 2	410, 2-3	MOS	yw laru	---	NSNT
+
+
+212, 1	411, 1-2	LLE	gawn ni	NSNT	NSNT
+212, 2	412, 1-3	LLE	lle mae o	---	NSNT
+
+
+213, 1	413, 1-2	MOS	fan yna	NSNT	NSNT
+213, 2	414, 1-2	MOS	fan hyn	NSNT	NSNT
+213, 3	415, 1-2	MOS	fan yna	---	NSNT
+
+
+214, 1	416, 1-4	LLE	awn ni weld o	---	NSNT
+
+
+215, 1	417, 1-3	MOS	*oh* big *P*	---	NST
+
+
+216, 1	418, 1-4	LLE	awn ni weld o	NSNT	NSNT
+216, 2	419, 1-6	LLE	dw ddim isio stalk_io tu nôl	---	SNT
+
+
+217, 1	420, 1-2	MOS	*just* cerdded	---	NST
+
+
+218, 1	421, 1-1	LLE	*Peredur*	ST	NST
+218, 3	423, 1-8	LLE	*um* ydyn ni wedi siarad am hanner awr	NST	NST
+218, 4	425, 1-2	LLE	*oh* naddo	NST	NST
+218, 5	427, 1-15	LLE	gawn ni *just* mynd *round* y mouse maes mouse cerdded o_gwmpas y maes a wedyn	---	ST
+
+
+219, 1	428, 1-3	RES	*just* cerdded o_gwmpas	---	NST
+
+
+220, 1	429, 1-13	MOS	ti actually mynd i dal mynd i bigo ti lan bigo ni lan	---	SNT
+
+
+221, 1	430, 1-5	LLE	pan dan ni dod nôl	NSNT	NSNT
+221, 2	431, 1-13	LLE	faint mor faint o faint o bell bell i_ffwrdd dan ni gallu mynd	---	NSNT
+
+
+222, 1	432, 1-3	RES	*just* cerdded o_gwmpas	NST	NST
+222, 2	433, 1-5	RES	paid â mynd yn bellach	---	NSNT
+
+
+223, 1	434, 1-5	LLE	gawn ni mynd am *bint*	---	NST
+
+
+224, 1	435, 1-4	RES	na mae rhy bell	---	NSNT
+
+
+225, 1	438, 1-3	LLE	mae ry bell	---	NSNT
+
+
+226, 1	439, 1-2	RES	bellach na	---	NSNT
+
+
+227, 1	440, 1-5	MOS	os awn ni am *bint*	NST	NST
+227, 2	440, 6-18	MOS	gawn ni *lot* mwy o *er* mwy mwy o siarad mas ohonon ni	---	NST
+
+
+228, 1	442, 1-2	LLE	*oh* *well*	---	NST
+
+
+229, 1	443, 1-7	MOS	ti sylweddoli bod ti yn dwyn cwpan	NSNT	NSNT
+229, 2	445, 1-11	MOS	credu dylen ni *just* rhedeg ffwrdd gyda yr *radio* *mics* yma	---	NST
+
+
+230, 1	447, 1-5	LLE	dydy hynna ddim yn *nice*	---	NST
+
+
+231, 1	448, 1-4	MOS	buy a cottage somewhere	SNT	NSNT
+231, 3	450, 1-3	MOS	*B_B_C* yw hwnna	NST	NST
+231, 4	451, 1-1	MOS	ble	SNT	NSNT
+231, 5	452, 1-1	MOS	*Trystan_Lewis*	ST	NST
+231, 6	453, 1-3	MOS	lle mae o	---	NSNT
+
+
+232, 1	454, 1-7	LLE	yn siarad ar y *telly* *box* *well*	---	NST
+
+
+233, 1	455, 1-6	MOS	na *Hywel_Gwynfryn* yw hwnna yr *cock*	NST	NST
+233, 2	456, 1-7	MOS	*oh* ydyn ni cael ebychu yn rhegiol	ST	NST
+233, 3	457, 1-1	MOS	*hello*	NST	NST
+233, 4	458, 1-1	MOS	*hello*	NST	NST
+233, 5	459, 1-1	MOS	*hello*	NST	NST
+233, 6	460, 1-1	MOS	*hello*	ST	NST
+233, 7	462, 1-6	MOS	rw i newydd gael *prank* call	---	ST
+
+
+234, 1	463, 1-2	LLE	hold on	SNT	NSNT
+234, 2	464, 1-1	LLE	*Peredur*	ST	NST
+234, 3	465, 1-14	LLE	*hey* ydyn ni actually cael cytundeb bod ni mynd i cael deg punt yma	---	ST
+
+
+235, 1	466, 1-14	MOS	dylen ni gael cytundeb bod e ddim yn mynd i ddefnyddio hwn fel *er*	---	NST
+
+
+236, 1	467, 1-3	LLE	*hiya* ti iawn	---	NST
+
+
+237, 1	468, 1-2	MOS	felly *er*	NST	NST
+237, 2	469, 1-2	MOS	sut mae	---	NSNT
+
+
+238, 1	470, 1-1	LLE	be	---	NSNT
+
+
+239, 1	471, 1-6	MOS	*oh* fy nhad i yw hwnna	---	NST
+
+
+240, 1	472, 1-1	LLE	ble	---	NSNT
+
+
+241, 1	473, 1-6	MOS	fan yna o dy flaen di	---	NSNT
+
+
+242, 1	474, 1-1	LLE	naci	---	NSNT
+
+
+243, 1	477, 1-2	MOS	sut mae	SNT	NSNT
+243, 3	479, 1-1	MOS	*well*	---	NST
+
+
+244, 1	480, 1-7	LLE	*Peredur* wedi mynd am dro ffordd yna	---	NST
+
+
+245, 1	481, 1-2	MOS	ydy e	NSNT	NSNT
+245, 2	482, 1-6	MOS	ti moyn *just* stalk_o fe eto	NST	ST
+245, 6	486, 1-4	MOS	mae *just* yn amazing	ST	ST
+245, 7	487, 1-11	MOS	at fudd y *microphone* rydw i newydd bigo lan fruit *salad*	---	ST
+
+
+246, 1	489, 1-4	LLE	oddeutu faint ohonyn nhw	---	NSNT

@@ -1,0 +1,1465 @@
+1, 1	1, 1-9	ELE	a pwy sy yn dod i weld y sioe	---	NSNT
+
+
+2, 1	2, 1-1	ALN	rhieni	NSNT	NSNT
+2, 2	3, 1-3	ALN	mae sioe gyhoeddus	NSNT	NSNT
+2, 3	5, 1-3	ALN	dw i meddwl	NSNT	NSNT
+2, 4	5, 4-9	ALN	fydd *Andrew* o_gwmpas ar_gyfer y sioe	NST	NST
+2, 5	6, 1-16	ALN	a fydd *Anna* a *Bev* yn dod i_fewn yn ystod y dydd a gyda yr nos	NST	NST
+2, 6	6, 17-20	ALN	dw i yn meddwl	NSNT	NSNT
+2, 7	8, 1-7	ALN	*um* dw i ddim yn mynd i_fewn	NST	NST
+2, 8	9, 1-11	ALN	ond maen nhw yn wneud o nos Fawrth a nos Fercher	NSNT	NSNT
+2, 9	11, 1-2	ALN	dw i	NSNT	NSNT
+2, 10	11, 3-8	ALN	dw i heb gynnig yn hun	NSNT	NSNT
+2, 11	12, 1-13	ALN	dw i heb fod yn ymwneud â yr sioe a deud y gwir	NSNT	NSNT
+2, 12	13, 1-3	ALN	dw i wedi	NSNT	NSNT
+2, 13	13, 4-14	ALN	dw i wedi wneud ychydig bach o waith canu efo nhw	---	NSNT
+
+
+3, 1	14, 1-6	ELE	na fedri di mynd i bob_dim	NSNT	NSNT
+3, 2	14, 7-8	ELE	na fedri	---	NSNT
+
+
+4, 1	16, 1-5	ALN	a dw i wedi deud	NSNT	NSNT
+4, 2	17, 2-3	ALN	wnes i	NSNT	NSNT
+4, 3	17, 4-9	ALN	wnes i ofyn i *Anna* heddiw	NST	NST
+4, 4	18, 1-7	ALN	wyt ti angen fi ar_gyfer y sioe	NSNT	NSNT
+4, 5	19, 1-2	ALN	*well* na	NST	NST
+4, 6	20, 1-2	ALN	meddai hi	NSNT	NSNT
+4, 7	22, 2-7	ALN	dydy hi ddim angen ei pherswadio	NSNT	NSNT
+4, 8	22, 8-9	ALN	bod angen	NSNT	NSNT
+4, 9	24, 1-8	ALN	chwech o bobl pan ellith dau wneud o	NSNT	NSNT
+4, 10	26, 1-10	ALN	dydy ddim yn licio siarad efo rhieni ar y dechrau	NSNT	NSNT
+4, 11	27, 1-5	ALN	ond wneith *Andrew* wneud hynna	NST	NST
+4, 12	27, 6-10	ALN	*so* mae hwnna yn iawn	NST	NST
+4, 13	28, 1-6	ALN	dyn nhw ddim yn *broblem* felly	---	NST
+
+
+5, 1	30, 1-6	ELE	ydy o am sgwennu *um* sioe	---	NST
+
+
+6, 1	31, 1-7	ALN	mae yn sôn am sgwennu sioe *um*	NST	NST
+6, 2	32, 1-1	ALN	mae	NSNT	NSNT
+6, 3	32, 2-2	ALN	mae	NSNT	NSNT
+6, 4	33, 1-6	ALN	mae o mynd i sgwennu sioe	NSNT	NSNT
+6, 5	34, 1-5	ALN	pryd fydd o yn barod	---	NSNT
+
+
+7, 1	35, 1-7	ELE	erbyn Dolig felly neu erbyn yr ha	---	NSNT
+
+
+8, 1	36, 1-3	ALN	erbyn yr haf	---	NSNT
+
+
+9, 1	37, 1-3	ELE	*oh* iawn felly	NST	NST
+9, 2	38, 1-5	ELE	mae yn dipyn o amser	---	NSNT
+
+
+10, 1	39, 1-14	ALN	ond mae wedi gofyn i *Brian* wneud yr sgwennu cerddoriaeth ar ei gyfer o	NST	NST
+10, 2	41, 1-4	ALN	a mae *Brian* yn	NST	NST
+10, 3	41, 5-12	ALN	mae *Brian* yn gweithio yn ofnadwy o galed	NST	NST
+10, 4	42, 1-7	ALN	mae baratoi o yn ofnadwy o drylwyr	---	NSNT
+
+
+11, 1	44, 1-8	ELE	*oh* ella fydd o yn siwtio fo felly	NST	NST
+11, 2	44, 9-14	ELE	bod o yn hwyr yn cyrraedd	---	NSNT
+
+
+12, 1	45, 1-1	ALN	dydy	NSNT	NSNT
+12, 2	45, 2-4	ALN	dydy o ddim	NSNT	NSNT
+12, 3	45, 5-7	ALN	dydy o ddim	NSNT	NSNT
+12, 4	45, 8-14	ALN	dydy o ddim yn ryw hapus o_gwbl	NSNT	NSNT
+12, 5	45, 15-21	ALN	bod y peth yn hwyr yn cyrraedd	NSNT	NSNT
+12, 6	46, 1-11	ALN	mae o yn licio gwybod mis a hanner o flaen llaw	NSNT	NSNT
+12, 7	46, 12-16	ALN	be mae o yn wneud	---	NSNT
+
+
+13, 1	47, 1-1	ELE	paratoi	NSNT	NSNT
+13, 2	49, 1-7	ELE	wnest di sôn wrtho fo heddiw ella	NSNT	NSNT
+13, 3	49, 8-12	ELE	bod yna dŷ yn *Bethel*	---	NST
+
+
+14, 1	52, 1-4	ALN	oedd o yn deud	NSNT	NSNT
+14, 2	52, 5-9	ALN	bod o rhy bell allan	NSNT	NSNT
+14, 3	53, 1-4	ALN	rhy bell ffordd yna	NSNT	NSNT
+14, 4	55, 1-11	ALN	mae isio tŷ un_ai ym *Mangor* neu i yr cyfeiriad yna	NST	NST
+14, 5	56, 1-3	ALN	i ochrau *Aber*	---	NST
+
+
+15, 1	57, 1-1	ELE	*Llandudno*	ST	NST
+15, 2	58, 1-3	ELE	*oh* oes pam	---	NST
+
+
+16, 1	59, 1-1	ALN	*Llanfairfechan*	ST	NST
+16, 2	60, 1-7	ALN	*well* mae hi yn gobeithio codi gwaith	---	NST
+
+
+17, 1	61, 1-5	ELE	mwy am *Gonwy* ffordd yna	---	NST
+
+
+18, 1	62, 1-4	ALN	mwy am ochrau *Conwy*	NST	NST
+18, 2	64, 1-1	ALN	dyna	NSNT	NSNT
+18, 3	64, 2-5	ALN	ydy ei bwriad hi	NSNT	NSNT
+18, 4	65, 1-6	ALN	*so* wnaeth o ddeud diolch am	NST	NST
+18, 5	66, 1-6	ALN	mae *just* yn y lle anghywir	---	NST
+
+
+19, 1	68, 1-3	ELE	be ydy *um*	---	NST
+
+
+20, 1	69, 1-4	ALN	*phone* cario fi yn	---	NST
+
+
+21, 1	70, 1-9	ELE	*oh* *right* be dan ni yn recordio fan acw	NST	NST
+21, 2	71, 1-3	ELE	hwnna yn troi	---	NSNT
+
+
+22, 1	72, 1-5	ALN	*um* dw ddim yn gwybod	NST	NST
+22, 2	73, 1-5	ALN	*Charlie* sy recordio rywbeth debyg	NST	NST
+22, 3	74, 1-4	ALN	awn ni sbïo wedyn	---	NSNT
+
+
+23, 1	76, 1-11	ELE	*yeah* o'n i yn deud efo yr *piano* gynnau oedd *um*	NST	NST
+23, 2	77, 1-10	ELE	o'n i angen *Charlie* benderfynu be oedd o yn wneud	NST	NST
+23, 3	78, 1-4	ELE	a mae wedi penderfynu	NSNT	NSNT
+23, 4	78, 5-9	ELE	bod am wneud y darnau	NSNT	NSNT
+23, 5	78, 10-12	ELE	sy ganddo fo	NSNT	NSNT
+23, 6	80, 1-9	ELE	a bod ni angen ymarfer deg munud bob dydd	NSNT	NSNT
+23, 7	81, 1-10	ELE	a ei *er* benderfyniad o neu ateb o erbyn diwedd	NST	NST
+23, 8	81, 11-12	ELE	oedd deud	NSNT	NSNT
+23, 9	82, 1-4	ELE	dw ddim yn gwybod	NSNT	NSNT
+23, 10	82, 5-12	ELE	os fyddwch chi yn licio hyn *Mam* ond	NST	NST
+23, 11	83, 1-2	ELE	meddai fo	NSNT	NSNT
+23, 12	84, 1-12	ELE	*um* beth am roid deg ceiniog yr wsnos i mi am ymarfer	---	NST
+
+
+24, 1	86, 1-1	ALN	doniol	---	NSNT
+
+
+25, 1	87, 1-4	ELE	a wnes innau ddeud	NSNT	NSNT
+25, 2	88, 1-13	ELE	*well* os wnei di deg munud gofalus a canolbwyntio am y ddeg munud	NST	NST
+25, 3	88, 14-20	ELE	de gei di ddeg ceiniog bob diwrnod	NSNT	NSNT
+25, 4	89, 1-3	ELE	sy yn golygu	NSNT	NSNT
+25, 5	89, 4-11	ELE	bod yna chwe_deg ceiniog am pres *pocket* wedyn	NST	NST
+25, 6	89, 12-12	ELE	does	NSNT	NSNT
+25, 7	91, 1-4	ELE	ydy o yn iawn	---	NSNT
+
+
+26, 1	92, 1-4	ALN	ac oedd yn meddwl	NSNT	NSNT
+26, 2	92, 5-8	ALN	bod hynna yn *fargain*	---	NST
+
+
+27, 1	93, 1-3	ELE	*oh* wedi gwirioni	NST	NST
+27, 2	94, 1-4	ELE	a mae yn golygu	NSNT	NSNT
+27, 3	94, 5-5	ELE	sti	NSNT	NSNT
+27, 4	94, 6-10	ELE	bod o yn ddeg munud	NSNT	NSNT
+27, 5	94, 11-19	ELE	lle mae yn canolbwyntio am y deg munud yna	NSNT	NSNT
+27, 6	94, 20-21	ELE	hefyd de	NSNT	NSNT
+27, 7	96, 1-3	ELE	wedyn dwn ddim	NSNT	NSNT
+27, 8	96, 4-5	ELE	parith o	NSNT	NSNT
+27, 9	97, 1-5	ELE	mae rhaid ni drio rywbeth	NSNT	NSNT
+27, 10	98, 1-8	ELE	achos oedd hi wedi cael llond bol heno	NSNT	NSNT
+27, 11	98, 9-10	ELE	de braidd	---	NSNT
+
+
+28, 1	99, 1-3	ALN	wnaeth hi fynegi	---	NSNT
+
+
+29, 1	100, 1-5	ELE	wnaeth hi fynegi *right* gry	NST	NST
+29, 2	101, 1-8	ELE	o'n i yn meddwl oedd *right* dda really	---	ST
+
+
+30, 1	102, 1-2	ALN	da iawn	NSNT	NSNT
+30, 2	106, 1-4	ALN	*oh* mae yn braf	NST	NST
+30, 3	106, 5-13	ALN	bod o yn dod o rywle arall heblaw ni	NSNT	NSNT
+30, 4	106, 14-14	ALN	dydy	---	NSNT
+
+
+31, 1	108, 1-8	ELE	ond mae yr darnau yn dod i ben	---	NSNT
+
+
+32, 1	110, 1-8	ALN	*so* fydd raid iddo ddysgu *set* newydd os	NST	NST
+32, 2	110, 9-13	ALN	na ydy yn gwybod rhein	---	NSNT
+
+
+33, 1	111, 1-3	ELE	mis Mawrth de	NSNT	NSNT
+33, 2	112, 1-7	ELE	basai raid iddo ddechrau o yr dechrau	---	NSNT
+
+
+34, 1	113, 1-7	ALN	allai fod hynna mynd i_lawr yn dda	---	NSNT
+
+
+35, 1	116, 1-7	ELE	ie wedyn os ydy o yn cael	NSNT	NSNT
+35, 2	116, 8-10	ELE	mae yn *sure*	NST	NST
+35, 3	116, 11-14	ELE	ddylai hi gael felly	NSNT	NSNT
+35, 4	116, 15-15	ELE	dylai	---	NSNT
+
+
+36, 1	117, 1-2	ALN	*oh* dylai	NST	NST
+36, 2	118, 1-5	ALN	ond be dan ni yn	NSNT	NSNT
+36, 3	118, 6-10	ALN	sut dan ni yn *er*	---	NST
+
+
+37, 1	119, 1-1	ELE	*piano*	---	NST
+
+
+38, 1	122, 1-3	ALN	*duh* *yeah* wrth_gwrs	---	NST
+
+
+39, 1	123, 1-10	ELE	achos am am yr gwely mae yn cael yr llall	NSNT	NSNT
+39, 2	125, 1-2	ELE	wedyn *um*	---	NST
+
+
+40, 1	126, 1-4	ALN	*well* gawn ni weld	NST	NST
+40, 2	126, 5-7	ALN	sut eith o	NSNT	NSNT
+40, 3	128, 1-4	ALN	mae gen i deimlad	NSNT	NSNT
+40, 4	128, 5-11	ALN	wneith o ymarfer y *drums* yn haws	---	NST
+
+
+41, 1	129, 1-10	ELE	be mae yn debygol o wneud efo fo dydd Gwener	NSNT	NSNT
+41, 2	129, 11-11	ELE	ta	---	NSNT
+
+
+42, 1	130, 1-2	ALN	dim syniad	NSNT	NSNT
+42, 2	132, 1-4	ALN	dw i wedi deud	NSNT	NSNT
+42, 3	132, 5-12	ALN	bod fi yn awyddus iawn iddo fo ddarllen	NSNT	NSNT
+42, 4	134, 1-2	ALN	a mae	NSNT	NSNT
+42, 5	134, 3-7	ALN	mae *Dean* yn dallt hynny	NST	NST
+42, 6	135, 1-3	ALN	mae o yn	NSNT	NSNT
+42, 7	135, 4-6	ALN	mae yn cerddor	---	NSNT
+
+
+43, 1	137, 1-4	ELE	mae wneud y ddau	---	NSNT
+
+
+44, 1	140, 1-7	ALN	*oh* mae wneud gradd yn fan yma	---	NST
+
+
+45, 1	141, 1-2	ELE	*oh* dyna	NST	NST
+45, 2	141, 3-4	ELE	mae wneud	SNT	NSNT
+45, 3	142, 1-4	ELE	*yeah* *yeah* *yeah* *sorry*	ST	NST
+45, 4	143, 1-5	ELE	o'n i ddim yn cofio	---	NSNT
+
+
+46, 1	144, 1-6	ALN	mae yn dod o gefndir cerddorion	NSNT	NSNT
+46, 2	146, 1-3	ALN	sy yn dallt	NSNT	NSNT
+46, 3	146, 4-7	ALN	mae raid chdi ddarllen	NSNT	NSNT
+46, 4	148, 1-5	ALN	dydy o ddim *just* yn	NST	NST
+46, 5	149, 1-6	ALN	*oh* *yeah* *just* chwarae dy offeryn	NST	NST
+46, 6	150, 1-5	ALN	a fydd bob_dim yn *great*	NST	NST
+46, 7	152, 1-3	ALN	y lol yna	---	NSNT
+
+
+47, 1	153, 1-17	ELE	*hmm* *hey* ti ddim wedi cael ateb gyn *Ed* am yr *um* *caster* yna ar_gyfer y *piano*	---	NST
+
+
+48, 1	154, 1-4	ALN	ddim hyd yn hyn	---	NSNT
+
+
+49, 1	155, 1-12	ELE	nos Iau mae yn wneud yr *gig* yna *yeah* yn *Gaernarfon* *Galeri*	---	NST
+
+
+50, 1	157, 1-4	ALN	dan ni ddim yn	NSNT	NSNT
+50, 2	157, 5-5	ALN	rhydd	NSNT	NSNT
+50, 3	157, 6-7	ALN	nag ydan	NSNT	NSNT
+50, 4	159, 1-7	ALN	basai yn doniol *just* mynd i chwerthin	---	NST
+
+
+51, 1	160, 1-4	ELE	*well* na mae bosib	---	NST
+
+
+52, 1	161, 1-5	ALN	*oh* na na wir wir	---	NST
+
+
+53, 1	162, 1-2	ELE	gwranda wan	NSNT	NSNT
+53, 2	163, 1-1	ELE	wsti	NSNT	NSNT
+53, 3	163, 2-6	ELE	mae *Auntie* *Carol* yn dod	NST	NST
+53, 4	165, 1-3	ELE	erbyn pump tydy	NSNT	NSNT
+53, 5	168, 1-2	ELE	tan chwech	NSNT	NSNT
+53, 6	169, 1-11	ELE	fedra i fynd efo *Debbie* a *Charlie* am chwech tan saith	---	NST
+
+
+54, 1	170, 1-7	ALN	*oh* na dw i ddim isio mynd	NST	NST
+54, 2	170, 8-10	ALN	coelia di fi	---	NSNT
+
+
+55, 1	171, 1-3	ELE	*oh* ti *sure*	---	NST
+
+
+56, 1	172, 1-3	ALN	argian fawr na	---	NSNT
+
+
+57, 1	173, 1-1	ELE	pam	---	NSNT
+
+
+58, 1	174, 1-11	ALN	dw i yn ddigon hapus i chwarae yr *stuff* am bres	NST	NST
+58, 2	174, 12-19	ALN	ond dw i ddim isio gwrando arno fo	NSNT	NSNT
+58, 3	176, 1-5	ALN	*oh* mae *just* yn *um*	NST	NST
+58, 4	177, 1-5	ALN	*er* *style* mae yn chwarae	NST	NST
+58, 5	178, 1-4	ALN	mae wneud *jazz* *straight*	NST	NST
+58, 6	178, 5-10	ALN	ond mae o yn ymylu ar	NSNT	NSNT
+58, 7	178, 11-17	ALN	be mae nhw yn galw yn *trad*	---	NST
+
+
+59, 1	179, 1-3	ELE	*trad* *oh* *right*	---	NST
+
+
+60, 1	180, 1-19	ALN	ac yn *trad* mae gen ti un_ai *clarinet* sef yr offeryn gwaetha yn y byd yn yn whine_io *just*	ST	ST
+60, 2	180, 20-24	ALN	neu mae gen ti *drombone*	---	NST
+
+
+61, 1	181, 1-7	ELE	*well* pwy sy yn chwarae hwnna te	---	NST
+
+
+62, 1	182, 1-8	ALN	*oh* does neb yn chwarae *clarinet* efo *Ed*	NST	NST
+62, 2	183, 1-8	ALN	ond mae gynno fo *foy* yn chwarae *trombone*	NST	NST
+62, 3	186, 1-3	ALN	*um* mae o	NST	NST
+62, 4	187, 1-18	ALN	yn *trad* yn lle bod gen ti un *person* yn cymryd y *melody* neu yn chwarae yr blaen	NST	NST
+62, 5	189, 1-11	ALN	mae gen ti dau neu dri yn chwarae yr un pryd	---	NSNT
+
+
+63, 1	190, 1-5	ELE	*oh* mae yn flêr felly	---	NST
+
+
+64, 1	191, 1-9	ALN	a maen nhw yn cwffio yn_erbyn ei_gilydd yn gerddorol	NSNT	NSNT
+64, 2	192, 1-4	ALN	a *just* yn meddwl	ST	NST
+64, 3	193, 1-3	ALN	come on hogiau	SNT	SNT
+64, 4	194, 1-3	ALN	get a *grip*	ST	NST
+64, 5	196, 1-14	ALN	os ti sefyll yn y cefn yn mynd *er* dw ddim yn meindio hynna	ST	NST
+64, 6	198, 1-2	ALN	because timod	NSNT	SNT
+64, 7	198, 3-6	ALN	mae o yn *job*	NST	NST
+64, 8	199, 1-8	ALN	a mae o yn fwy o hwyl na	---	NSNT
+
+
+65, 1	200, 1-1	ELE	swydd	---	NSNT
+
+
+66, 1	201, 1-2	ALN	dysgu *Frank*	NST	NST
+66, 2	203, 1-12	ALN	ond dw i ddim actually isio mynd i wrando ar y *stuff*	NST	ST
+66, 3	205, 1-11	ALN	a basai *Ed* yn gwybod na mynd i wrando i chwerthin	NST	NST
+66, 4	205, 12-14	ALN	faswn i anyway	---	SNT
+
+
+67, 1	206, 1-1	ELE	basai	---	NSNT
+
+
+68, 1	207, 1-2	ALN	*oh* basai	NST	NST
+68, 2	209, 1-4	ALN	*oh* mae yn dallt	---	NST
+
+
+69, 1	211, 1-11	ELE	na *Emma* oedd yn gobeithio mynd hefo ei plant hi heddiw	---	NST
+
+
+70, 1	212, 1-1	ALN	*Emma*	---	NST
+
+
+71, 1	213, 1-2	ELE	yn ysgol	NSNT	NSNT
+71, 2	214, 1-1	ELE	honna	NSNT	NSNT
+71, 3	214, 2-7	ELE	oedda chdi yn weld yn *Galeri*	NST	NST
+71, 4	214, 8-13	ELE	ac oedda chdi byth yn *sure*	NST	NST
+71, 5	214, 14-16	ELE	pwy oedd hi	NSNT	NSNT
+71, 6	215, 1-4	ELE	ac oedd hi gweitied	NSNT	NSNT
+71, 7	215, 5-12	ELE	oedd ei phlant hi yn cael gwersi yna	NSNT	NSNT
+71, 8	216, 1-7	ELE	ac oedd hi yn gweld chdi yna	NSNT	NSNT
+71, 9	217, 1-6	ELE	ond oedda chdi byth yn *sure*	NST	NST
+71, 10	218, 1-6	ELE	mae nhw yn yn eu harddegau	NSNT	NSNT
+71, 11	219, 1-4	ELE	un yn chwarae pres	---	NSNT
+
+
+72, 1	220, 1-6	ALN	be mae yn dysgu yn *Cae_Top*	---	NST
+
+
+73, 1	222, 1-6	ELE	*oh* oedd hi yn *party* *Freda*	NST	NST
+73, 2	222, 7-7	ELE	doedd	NSNT	NSNT
+73, 3	223, 1-3	ELE	*Graham* a *Emma*	NST	NST
+73, 4	224, 1-9	ELE	oedd *um* wneud *lot* efo beiciau mynydd a ballu	NST	NST
+73, 5	225, 1-4	ELE	ti ddim yn cofio	---	NSNT
+
+
+74, 1	226, 1-4	ALN	mae yn canu cloch	NSNT	NSNT
+74, 2	227, 1-5	ALN	*sure* faswn i nabod nhw	NST	NST
+74, 3	227, 6-9	ALN	petaswn i gweld nhw	---	NSNT
+
+
+75, 1	228, 1-6	ELE	*well* oedd hi yn gweld chdi	NST	NST
+75, 2	228, 7-12	ELE	pan oedda chdi yn wneud *Cofis_Bach*	NST	NST
+75, 3	230, 1-7	ELE	ac oedd hi yn y *car* weithiau	NST	NST
+75, 4	230, 8-13	ELE	ac oedd plant yn cael gwersi	NSNT	NSNT
+75, 5	232, 1-3	ELE	ac oedd hi	NSNT	NSNT
+75, 6	233, 1-5	ELE	*ah* weles i *Alan* neithiwr	NST	NST
+75, 7	234, 1-7	ELE	neu weles i dy ŵr di neithiwr	---	NSNT
+
+
+76, 1	235, 1-5	ALN	*oh* na dw i *sure*	NST	NST
+76, 2	235, 7-9	ALN	dw i *sure*	NST	NST
+76, 3	235, 10-12	ALN	dw i *sure*	NST	NST
+76, 4	235, 13-16	ALN	wneith hi fwynhau o	NSNT	NSNT
+76, 5	237, 1-5	ALN	dw i *just* yn *er*	---	NST
+
+
+77, 1	238, 1-3	ELE	*ah* *well* mae	NST	NST
+77, 2	238, 4-11	ELE	mae yr plentyn newydd gychwyn yn *band* hŷn	---	NST
+
+
+78, 1	239, 1-2	ALN	*ah* *well*	ST	NST
+78, 2	240, 1-1	ALN	fydd	NSNT	NSNT
+78, 3	240, 2-2	ALN	fydd	NSNT	NSNT
+78, 4	240, 3-7	ALN	fydd *band* *Beaumaris* i_gyd yna	---	NST
+
+
+79, 1	241, 1-1	ELE	*Beaumaris*	ST	NST
+79, 2	242, 1-8	ELE	a mae o wedi gwirioni ar bersonoliaeth *Ed*	NST	NST
+79, 3	243, 1-1	ELE	mae	NSNT	NSNT
+79, 4	243, 2-4	ELE	mae yn un	NSNT	NSNT
+79, 5	243, 5-7	ELE	mae yn gymeriad	NSNT	NSNT
+79, 6	243, 8-8	ELE	tydy	NSNT	NSNT
+79, 7	245, 1-2	ELE	annwyl iawn	---	NSNT
+
+
+80, 1	246, 1-8	ALN	fydd y *crew* iau i_gyd yna yn mynd	NST	NST
+80, 2	247, 1-6	ALN	*wow* *Ed* ti ydy yr un	NST	NST
+80, 3	249, 1-9	ALN	a fydd *crew* hŷn i_gyd yn sefyll a mynd	NST	NST
+80, 4	250, 1-5	ALN	*Ed* be ti yn wneud	---	NST
+
+
+81, 1	251, 1-2	ELE	*mmm* *case*	ST	NST
+81, 2	252, 1-1	ELE	lovely	---	NSNT
+
+
+82, 1	253, 1-2	ALN	ond *er*	---	NST
+
+
+83, 1	254, 1-11	ELE	*yeah* na baswn i licio cael *um* gwybod pa *gaster* i	NST	NST
+83, 2	254, 12-15	ELE	roid ar y *piano*	ST	NST
+83, 3	255, 1-7	ELE	because dw i gallu dynnu fo allan	NSNT	SNT
+83, 4	256, 1-10	ELE	a wedyn mae *Hugh* yn gorod gario fo nôl i_fewn	NST	NST
+83, 5	257, 1-4	ELE	*piano* yn drwm dydy	---	NST
+
+
+84, 1	258, 1-7	ALN	ydy *Hugh* yn hogyn mawr cry felly	---	NST
+
+
+85, 1	259, 1-2	ELE	*mmm* *rugby*	---	NST
+
+
+86, 1	260, 1-3	ALN	*rugby* ac amaethu	NST	NST
+86, 2	262, 1-4	ALN	mae dipyn o gyfuniad	NSNT	NSNT
+86, 3	262, 5-5	ALN	dydy	---	NSNT
+
+
+87, 1	264, 1-4	ELE	a dw i meddwl	NSNT	NSNT
+87, 2	264, 5-17	ELE	bod o yn ddigon dewr i ddod efo ni nos Sadwrn nos Wener	---	NSNT
+
+
+88, 1	265, 1-7	ALN	be ydy o mynd allan efo chi	---	NSNT
+
+
+89, 1	266, 1-4	ELE	*well* y syniad oedd	NST	NST
+89, 2	267, 1-11	ELE	*oh* oedd *Ian* am ddod am y tro cynta ers_talwm iawn	---	NST
+
+
+90, 1	268, 1-5	ALN	a mae *Ian* yn jibio	---	NST
+
+
+91, 1	269, 1-10	ELE	na mae *Jonny* yn gorod cael tynnu dannedd yna i_gyd	NST	NST
+91, 2	271, 1-1	ELE	wedyn	---	NSNT
+
+
+92, 1	272, 1-7	ALN	*o_k* *well* *o_k* mae hynna ddigon teg	---	NST
+
+
+93, 1	274, 1-4	ELE	mae *lot* o ddannedd	NST	NST
+93, 2	274, 5-5	ELE	dydy	---	NSNT
+
+
+94, 1	275, 1-6	ALN	mae hynna yn *lot* o ddannedd	NST	NST
+94, 2	276, 1-6	ALN	o'n i yn sâl ar_ôl un	---	NSNT
+
+
+95, 1	277, 1-3	ELE	ie dyn ti	---	NSNT
+
+
+96, 1	278, 1-7	ALN	er dw i meddwl na yr annwyd	NSNT	NSNT
+96, 2	278, 8-9	ALN	oedd hynna	NSNT	NSNT
+96, 3	278, 10-10	ALN	sti	SNT	NSNT
+96, 4	280, 1-2	ALN	because oedd	NSNT	SNT
+96, 5	280, 4-8	ALN	oedd *Ken* yn gwaith heddiw	NST	NST
+96, 6	282, 1-3	ALN	ie deud ti	NSNT	NSNT
+96, 7	283, 1-5	ALN	oedd *Ken* heddiw yn deud	NST	NST
+96, 8	283, 6-11	ALN	oedd o yn teimlo yn grim	SNT	SNT
+96, 9	285, 1-9	ALN	ac oedd o wedi cysgu ar y llawr neithiwr	NSNT	NSNT
+96, 10	287, 1-4	ALN	*so* oedd gen *Gail*	NST	NST
+96, 11	287, 5-12	ALN	oedd gen *Gail* wres o tri_deg_naw pwynt pedwar	---	NST
+
+
+97, 1	289, 1-6	ELE	gosh be ydy hwnna mewn *Fahrenheit*	---	ST
+
+
+98, 1	290, 1-4	ALN	dw ddim yn gwybod	NSNT	NSNT
+98, 2	291, 1-7	ALN	ond oedd o ddim dros pedwar_deg a	NSNT	NSNT
+98, 3	291, 8-12	ALN	dyna lle ti dechrau poeni	NSNT	NSNT
+98, 5	293, 1-7	ALN	ond aethon nhw â hi i ysbyty	---	NSNT
+
+
+99, 1	294, 1-4	ELE	gosh mae yn uchel	NSNT	SNT
+99, 2	295, 1-2	ELE	be oedd	NSNT	NSNT
+99, 3	295, 3-3	ELE	ta	NSNT	NSNT
+99, 4	296, 1-1	ELE	annwyd	---	NSNT
+
+
+100, 1	297, 1-4	ALN	dw ddim yn gwybod	NSNT	NSNT
+100, 2	298, 1-3	ALN	ryw fath o	---	NSNT
+
+
+101, 1	299, 1-1	ELE	*virus*	---	NST
+
+
+102, 1	300, 1-1	ALN	dwymyn	NSNT	NSNT
+102, 2	301, 1-9	ALN	ond oedden nhw ar yr *Calpol* a Calprofen a	---	NST
+
+
+103, 1	302, 1-2	ELE	*oh* bechod	NST	NST
+103, 2	303, 1-4	ELE	oedd hi wedi dychryn	---	NSNT
+
+
+104, 1	305, 1-3	ALN	dw ddim meddwl	NSNT	NSNT
+104, 2	305, 4-8	ALN	bod nhw yn or hapus	---	NSNT
+
+
+105, 1	306, 1-5	ELE	be ydy hoed hi wan	---	NSNT
+
+
+106, 1	307, 1-3	ALN	mae *Gail* yn	---	NST
+
+
+107, 1	308, 1-5	ELE	ydy naw mis rhywbeth felly	---	NSNT
+
+
+108, 1	309, 1-3	ALN	rhywbeth felly yndy	NSNT	NSNT
+108, 2	310, 1-11	ALN	*so* wnaeth *Ken* gysgu ar y llawr yn y stafell fyw	NST	NST
+108, 3	311, 1-5	ALN	wnaeth *Gail* cysgu efo *Hayley*	---	NST
+
+
+109, 1	313, 1-3	ELE	*ah* wela i	---	NST
+
+
+110, 1	314, 1-7	ALN	a wedyn oedd hi sâl yn gwely	SNT	NSNT
+110, 2	316, 1-2	ALN	*ideal* *oh*	---	NST
+
+
+111, 1	317, 1-6	ELE	*oh* been there done that *yeah*	---	NST
+
+
+112, 1	318, 1-4	ALN	melys melys goffadwriaeth te	---	NSNT
+
+
+113, 1	319, 1-2	ELE	*oh* bechod	---	NST
+
+
+114, 1	320, 1-1	ALN	*Mam*	---	NST
+
+
+115, 1	322, 1-2	ELE	ry hwyr	---	NSNT
+
+
+116, 1	323, 1-2	ALN	rhy hwyr	NSNT	NSNT
+116, 2	324, 1-8	ALN	*oh* alla i gadw hyn ar y gobennydd	---	NST
+
+
+117, 1	325, 1-2	ELE	*oh* *dear*	---	NST
+
+
+118, 1	327, 1-2	ALN	ond nad	NSNT	NSNT
+118, 2	327, 3-4	ALN	oedd *Ken*	NST	NST
+118, 3	328, 1-13	ALN	*just* y bore yma ar_draws yr awr ginio oedd o *just* yn yn	NST	NST
+118, 4	329, 1-5	ALN	oedd ei drwyn yn redeg	NSNT	NSNT
+118, 5	330, 1-4	ALN	oedd o yn shivery	---	SNT
+
+
+119, 1	332, 1-8	ELE	*oh* dw i ddim isio yr annwyd yma	---	NST
+
+
+120, 1	334, 1-5	ALN	mae o yn para yn	NSNT	NSNT
+120, 2	335, 1-5	ALN	*well* mae yn fyr ofnadwy	---	NST
+
+
+121, 1	336, 1-5	ELE	*well* *yeah* chdi ydy hynna	---	NST
+
+
+122, 1	338, 1-9	ALN	gyn i deimlad falle fydda i yn rhochian heno	---	NSNT
+
+
+123, 1	339, 1-5	ELE	ben dy hun ta *boy*	---	NST
+
+
+124, 1	340, 1-3	ALN	*yeah* braidd de	NST	NST
+124, 2	341, 1-6	ALN	dw i wedi ffeindio rhywun falle	NSNT	NSNT
+124, 3	341, 7-15	ALN	wneith gymryd y *bass* arian oddi_ar y nwylo fi	NST	NST
+124, 5	343, 1-5	ALN	*just* bod o yn *America*	---	NST
+
+
+125, 1	344, 1-6	ELE	be y *boy* neu yr *bass*	---	NST
+
+
+126, 1	345, 1-2	ALN	y *boy*	NST	NST
+126, 2	346, 1-5	ALN	y *bass* sy gynno fo	NST	NST
+126, 3	347, 1-5	ALN	wnes i gynnig swopio *bass*	NST	NST
+126, 4	347, 6-12	ALN	sy gen i efo fo am *fass*	NST	NST
+126, 5	347, 13-15	ALN	sy gynno fo	NSNT	NSNT
+126, 6	349, 1-15	ALN	a mae yna fwy o fynd ar y *basses* y *bass* arian yma yn *America*	NST	NST
+126, 7	350, 1-10	ALN	*does* yna ddim mynd arnyn nhw o_gwbl yn wlad yma	NST	NST
+126, 8	352, 1-11	ALN	*so* dw i wedi methu gwerthu o yn wlad yma o_gwbl	NST	NST
+126, 9	353, 1-16	ALN	*so* mae well gen i gyfnewid o efo yr *boy* yma yn *America* am *bass* arall	NST	NST
+126, 10	355, 1-7	ALN	a un_ai gwerthu hwnna yn wlad yma	---	NSNT
+
+
+127, 1	356, 1-4	ELE	pa liw dyn nhw	---	NSNT
+
+
+128, 1	357, 1-9	ALN	yr un lliw â yr *Fender* yr hen *Fender*	---	NST
+
+
+129, 1	358, 1-3	ELE	*mmm* *o_k* ta	---	NST
+
+
+130, 1	359, 1-13	ALN	yr un math o beth *just* bod gynno fo bumed tant yno fo	---	NST
+
+
+131, 1	360, 1-8	ELE	ydy o swnio yn *guitar* bach *right* *nice*	---	NST
+
+
+132, 1	362, 1-8	ALN	mae yr un peth â yr un coch	NSNT	NSNT
+132, 2	362, 9-11	ALN	oedd gen i	NSNT	NSNT
+132, 3	362, 12-18	ALN	wnes i swopio am yr un du	---	NSNT
+
+
+133, 1	363, 1-3	ELE	*oh* nefi *blue*	NST	NST
+133, 2	364, 1-9	ELE	dw i ddim yn gallu dal i_fyny efo hynna	---	NSNT
+
+
+134, 1	365, 1-4	ALN	na mae ddigon teg	NSNT	NSNT
+134, 2	366, 1-9	ALN	dw i wedi stopio trio esbonio fo i chdi	---	NSNT
+
+
+135, 1	367, 1-2	ELE	argian fawr	---	NSNT
+
+
+136, 1	368, 1-5	ALN	a mae o wedi wedi	NSNT	NSNT
+136, 2	368, 6-11	ALN	mae o wedi mynegi diddordeb yn	NSNT	NSNT
+136, 3	368, 12-15	ALN	be sy gen i	NSNT	NSNT
+136, 4	369, 1-4	ALN	ac os alla i	NSNT	NSNT
+136, 5	370, 1-5	ALN	os wneith o gymryd o	NSNT	NSNT
+136, 6	370, 6-21	ALN	mae o mynd i fod yn yn well ffordd i fi wneud na na cadw beth	NSNT	NSNT
+136, 7	370, 22-24	ALN	sy gen i	NSNT	NSNT
+136, 8	371, 1-2	ALN	dw i	NSNT	NSNT
+136, 9	371, 3-4	ALN	dw i	NSNT	NSNT
+136, 10	371, 5-6	ALN	dw i	NSNT	NSNT
+136, 11	371, 7-16	ALN	dw i ddim yn mynd i ddefnyddio yr un arian	NSNT	NSNT
+136, 12	374, 1-4	ALN	mae yn *nice* ond	NST	NST
+136, 13	376, 1-5	ALN	ti yn colli diddordeb dwyt	---	NSNT
+
+
+137, 1	377, 1-9	ELE	ers i chdi werthu yr un *Scarborough* yna yndw	---	NST
+
+
+138, 1	379, 1-19	ALN	o'n i yn meddwl baswn i *just* yn cadw chdi up to date efo be o'n i yn wneud	---	ST
+
+
+139, 1	382, 1-2	ELE	*oh* sti	NST	NST
+139, 2	382, 3-11	ELE	be ddes i_fewn gynnau *um* i ddeud wrth *Debbie*	NST	NST
+139, 3	382, 12-15	ELE	bod yn amser gwely	NSNT	NSNT
+139, 4	384, 1-1	ELE	dyna	NSNT	NSNT
+139, 5	384, 2-14	ELE	lle oedd hi efo *Max_N* ymlaen yn wneud *um* symudiadau dawnsio *disco* yma	NST	NST
+139, 6	386, 1-4	ELE	edrych *right* dda hefyd	---	NST
+
+
+140, 1	387, 1-7	ALN	ti wedi ydy hi wedi dangos *routine*	NST	NST
+140, 2	387, 8-11	ALN	mae wedi ddysgu yn	NSNT	NSNT
+140, 3	389, 1-1	ALN	dw	NSNT	NSNT
+140, 4	389, 2-6	ALN	dw i heb weld dim_byd	---	NSNT
+
+
+141, 1	390, 1-3	ELE	*oh* mae *well*	NST	NST
+141, 2	390, 4-10	ELE	mae wedi dangos *um* ambell i beth	NST	NST
+141, 3	391, 1-12	ELE	ond na dw i ddim wedi gweld y dawns fach na na	---	NSNT
+
+
+142, 1	392, 1-3	ALN	basai yn ddoniol	---	NSNT
+
+
+143, 1	393, 1-1	ELE	doniol	---	NSNT
+
+
+144, 1	394, 1-3	ALN	*well* na ddim	NST	NST
+144, 2	395, 1-5	ALN	*o_k* basai fo yn ddiddorol	---	NST
+
+
+145, 1	396, 1-2	ELE	*oh* basai	NST	NST
+145, 2	396, 3-3	ELE	basai	---	NSNT
+
+
+146, 1	397, 1-13	ALN	baset ti medru mynd i mynd i nôl hi yn fuan dydd Iau	NSNT	NSNT
+146, 2	397, 14-19	ALN	ac eistedd yn gefn y neuadd	NSNT	NSNT
+146, 3	398, 1-11	ALN	neu ti yn meddwl basai hynna yn freak_o yr athrawes allan	---	SNT
+
+
+147, 1	399, 1-5	ELE	*ah* dw i yn *sure*	NST	NST
+147, 2	399, 6-7	ELE	baswn i	NSNT	NSNT
+147, 3	400, 1-9	ELE	*oh* ti yn gallu gweld o yr drws dwyt	---	NST
+
+
+148, 1	402, 1-4	ALN	er petaset ti yna	NSNT	NSNT
+148, 2	402, 5-9	ALN	basai hi ddim yn dawnsio	NSNT	NSNT
+148, 3	402, 10-11	ALN	na basai	---	NSNT
+
+
+149, 1	403, 1-6	ELE	na na *oh* na dyna pam	NST	NST
+149, 2	403, 7-8	ELE	dyna pam	NSNT	NSNT
+149, 3	404, 2-6	ELE	weles hi yn dawnsio gynnau	NSNT	NSNT
+149, 4	405, 1-8	ELE	ac oedd hi yn sbïo at yr tân	NSNT	NSNT
+149, 5	405, 9-9	ELE	twel	NSNT	NSNT
+149, 6	406, 1-4	ELE	doedd ddim yn dallt	NSNT	NSNT
+149, 7	406, 5-9	ELE	bod fi yn sbïo arni	NSNT	NSNT
+149, 8	406, 10-11	ELE	nag oedd	---	NSNT
+
+
+150, 1	407, 1-10	ALN	*so* oedd hi yn mynd amdani yn ei byd bach	NST	NST
+150, 2	407, 11-12	ALN	ei hun	---	NSNT
+
+
+151, 1	410, 1-2	ELE	digon del	NSNT	NSNT
+151, 2	411, 1-2	ELE	*rhythmic* de	---	NST
+
+
+152, 1	412, 1-9	ALN	*oh* o'n i yn ces i o'n i yn	NST	NST
+152, 2	412, 10-17	ALN	ces i lun ohoni yn canu yn_do efo	NSNT	NSNT
+152, 3	413, 1-10	ALN	*just* roid y cefn y *video* dros y drws fel	NST	NST
+152, 4	413, 11-16	ALN	bod hi ddim y ngweld i	NSNT	NSNT
+152, 5	415, 1-11	ALN	argian gobeithio bod yr *um* *stuff* dal wedi recordio yn hwn	---	NST
+
+
+153, 1	417, 1-9	ELE	*ah* ti yn meddwl chdi wedi colli hwnnw hefyd	---	NST
+
+
+154, 1	418, 1-4	ALN	dw ddim yn gwybod	---	NSNT
+
+
+155, 1	419, 1-3	ELE	daria fedri di	NSNT	NSNT
+155, 2	419, 4-8	ELE	roid ar cyfrifiadur neu rhywbeth	---	NSNT
+
+
+156, 1	420, 1-4	ALN	fydd raid fi wneud	NSNT	NSNT
+156, 2	420, 5-5	ALN	bydd	---	NSNT
+
+
+157, 1	421, 1-3	ELE	tria wneud *yeah*	NST	NST
+157, 2	422, 1-5	ELE	*ah* basai hwnna yn *bity*	NST	NST
+157, 3	423, 1-8	ELE	be ydy *stuff* darllen i fod dim yna	---	NST
+
+
+158, 1	426, 1-6	ALN	mi ddylai fod yna ond *um*	---	NST
+
+
+159, 1	427, 1-12	ELE	*oh* dyna ti yn gael am olchi dy *phone* yn injan olchi	---	NST
+
+
+160, 1	430, 1-1	ALN	dyna	NSNT	NSNT
+160, 2	430, 2-12	ALN	dw i gael am gael trowsus efo pumed *pocket* yno fo	---	NST
+
+
+161, 1	432, 1-10	ELE	well ti beidio cael trowsus efo *pocket* yno felly yndy	NST	NST
+161, 2	433, 1-3	ELE	well o lawer	NSNT	NSNT
+161, 3	436, 1-4	ELE	*oh* gaeth hi hwyl	NST	NST
+161, 4	437, 1-9	ELE	oedd hi yn deud wrtha fi gynnau yn gegin	NSNT	NSNT
+161, 5	438, 1-11	ELE	oedd hi yn deud *um* efo eu sioe nhw y Dolig	NST	NST
+161, 6	439, 1-4	ELE	ac oedd hi gofyn	NSNT	NSNT
+161, 7	439, 5-8	ELE	os oedden ni yn	NSNT	NSNT
+161, 8	440, 1-7	ELE	dan ni yn wneud sioe yn *Theatr_Gwynedd*	NST	NST
+161, 9	440, 8-16	ELE	a dan ni yn wneud sioe yn yr ysgol	NSNT	NSNT
+161, 10	441, 1-2	ELE	meddai hi	NSNT	NSNT
+161, 11	442, 1-3	ELE	i yn deud	NSNT	NSNT
+161, 12	443, 1-3	ELE	na un sioe	NSNT	NSNT
+161, 13	444, 1-2	ELE	meddai hi	NSNT	NSNT
+161, 14	445, 1-2	ELE	yn *Theatr_Gwynedd*	NST	NST
+161, 15	446, 1-10	ELE	*well* blwyddyn dau sy yn cael *er* actio a chanu	NST	NST
+161, 16	447, 1-2	ELE	meddai hi	---	NSNT
+
+
+162, 1	448, 1-8	ALN	wrth_gwrs mae hi ar *dop* y babanod wan	---	NST
+
+
+163, 1	450, 1-4	ELE	a wnes i feddwl	NSNT	NSNT
+163, 2	452, 1-8	ELE	*oh* ti yn meddwl fyddi di yn canu	NST	NST
+163, 3	453, 1-2	ELE	meddai fi	SNT	NSNT
+163, 4	454, 1-1	ELE	*well*	ST	NST
+163, 5	455, 1-2	ELE	meddai hi	NSNT	NSNT
+163, 6	457, 1-5	ELE	mae yr athrawon yn deud	NSNT	NSNT
+163, 7	457, 6-11	ELE	bod fi yn canu mewn *tune*	NST	NST
+163, 8	458, 1-4	ELE	a mae yna rei	NSNT	NSNT
+163, 9	458, 5-8	ELE	wchi yn canu bob	NSNT	NSNT
+163, 10	459, 1-7	ELE	wedyn dyma hi dechrau canu wedyn bob	NSNT	NSNT
+163, 11	461, 1-2	ELE	sut de	NSNT	NSNT
+163, 12	461, 3-6	ELE	dw ddim yn gwybod	NSNT	NSNT
+163, 13	462, 1-3	ELE	gawn ni weld	NSNT	NSNT
+163, 14	462, 4-5	ELE	be ddigwyddith	---	NSNT
+
+
+164, 1	463, 1-4	ALN	*oh* mae yn medru	NST	NST
+164, 2	463, 5-6	ALN	dydy ond	NSNT	NSNT
+164, 3	465, 1-6	ALN	wneith hi wneud yr *Eisteddfod* ohoni	---	NST
+
+
+165, 1	466, 1-6	ELE	yn yr ysgol ella wneith hi	NSNT	NSNT
+165, 2	466, 7-7	ELE	sti	NSNT	NSNT
+165, 3	467, 1-11	ELE	mae hi wedi magu dipyn bach mwy o hyder erbyn hyn	---	NSNT
+
+
+166, 1	469, 1-6	ALN	os wneith hi lwyddo yn *Theatr_Gwynedd*	NST	NST
+166, 2	469, 7-11	ALN	fydd yna ddim stopio hi	NSNT	NSNT
+166, 3	470, 1-7	ALN	fydd hi yn canu trwy yr adeg	NSNT	NSNT
+166, 4	473, 1-3	ALN	gawn ni weld	---	NSNT
+
+
+167, 1	475, 1-5	ELE	oedd *Charlie* wedi mwynhau heddiw	---	NST
+
+
+168, 1	477, 1-4	ALN	oedd o yn mi	NSNT	NSNT
+168, 2	477, 5-6	ALN	ddeudodd o	NSNT	NSNT
+168, 3	477, 7-12	ALN	bod o ddim isio wneud o	NSNT	NSNT
+168, 4	478, 1-6	ALN	a wedyn mi benderfynodd o heddiw	NSNT	NSNT
+168, 5	478, 7-9	ALN	bod isio trio	NSNT	NSNT
+168, 6	479, 1-2	ALN	oedd o	NSNT	NSNT
+168, 7	479, 3-6	ALN	bod isio trio fo	NSNT	NSNT
+168, 8	480, 1-4	ALN	er_mwyn chdi a fi	---	NSNT
+
+
+169, 1	481, 1-2	ELE	*oh* blodyn	NST	NST
+169, 3	483, 1-11	ELE	gobeithio bod o ddim yn roi pressure arno fo ei hun	---	SNT
+
+
+170, 1	484, 1-4	ALN	a wedyn wnaeth *um*	NST	NST
+170, 2	484, 5-7	ALN	aeth o fewn	NSNT	NSNT
+170, 3	485, 1-4	ALN	a wnaeth *Izzy* ddeud	NST	NST
+170, 4	486, 1-16	ALN	*oh* gobeithio bod gen ti lais fath â dy *fam* ddim llais fath â dy *dad*	---	NST
+
+
+171, 1	487, 1-16	ELE	na gobeithio bod gynno fo lais fath â dy *dad* a dim fath â dy fam	---	NST
+
+
+172, 1	488, 1-10	ALN	do'n i ddim isio deud wnes i ddim deud dim_byd	NSNT	NSNT
+172, 2	489, 1-1	ALN	wnes	NSNT	NSNT
+172, 3	489, 2-5	ALN	wnes i ddim gair	NSNT	NSNT
+172, 4	491, 1-9	ALN	ond oedd gynni hi wên mawr ar ei gwyneb	---	NSNT
+
+
+173, 1	492, 1-10	ELE	yn deud wrth *Charlie* neu deud wrthat ti oedd o	---	NST
+
+
+174, 1	493, 1-13	ALN	deud wrth *er* oedd hi yn deud wrth *Charlie* *Charlie* ddeud wrtha fi	---	NST
+
+
+175, 1	495, 1-1	ELE	*case*	---	NST
+
+
+176, 1	496, 1-6	ALN	*oh* *well* dan ni gwybod hynny	NST	NST
+176, 2	496, 7-7	ALN	dydan	NSNT	NSNT
+176, 4	498, 1-4	ALN	oedd *Brian* yn deud	NST	NST
+176, 5	498, 5-10	ALN	bod hi yn yn yr ysgol	NSNT	NSNT
+176, 6	498, 11-16	ALN	lle oedd o yn arfer dysgu	NSNT	NSNT
+176, 7	500, 1-5	ALN	a hi yn arfer dysgu	NSNT	NSNT
+176, 8	501, 1-3	ALN	oedd hi *um*	NST	NST
+176, 9	501, 4-12	ALN	oedd hi mor mor wahanol i weddill y *staff*	NST	NST
+176, 10	502, 1-5	ALN	*just* gwbl gwbl gwbl wahanol	NST	NST
+176, 11	504, 1-4	ALN	sefyll allan yn llwyr	NSNT	NSNT
+176, 12	506, 1-9	ALN	yn enwedig pan oedd hi mynd allan efo nhw	NSNT	NSNT
+176, 13	508, 1-8	ALN	oedd ddim *quite* mor wyllt â *Jenny* chwaith	---	NST
+
+
+177, 1	509, 1-1	ELE	be	---	NSNT
+
+
+178, 1	510, 1-8	ALN	mae hi wedi stopio mynd allan efo nhw	NSNT	NSNT
+178, 2	511, 1-11	ALN	ar_ôl iddi cael ei gwahodd i adael un lle oedden nhw	NSNT	NSNT
+178, 3	513, 1-2	ALN	ond *er*	---	NST
+
+
+179, 1	514, 1-5	ELE	maen nhw yn llanast yna	---	NSNT
+
+
+180, 1	515, 1-4	ALN	oedd hi yn deud	NSNT	NSNT
+180, 2	515, 5-8	ALN	bod hi yn *um*	NST	NST
+180, 3	515, 9-15	ALN	bod *Izzy* yn yn yn sefyll allan	NST	NST
+180, 4	517, 1-10	ALN	fath â rywun gwbl gwbl wahanol i gweddill y *staff*	---	NST
+
+
+181, 1	518, 1-5	ELE	oedden ni yn gwybod hyn	---	NSNT
+
+
+182, 1	519, 1-1	ALN	oedden	NSNT	NSNT
+182, 2	519, 2-10	ALN	ond baset ti yn disgwyl falle mewn ysgol uwchradd	NSNT	NSNT
+182, 3	519, 11-12	ALN	bod yna	NSNT	NSNT
+182, 4	521, 1-4	ALN	mwy nag un *person*	---	NST
+
+
+183, 1	522, 1-5	ELE	*ah* mae hi ar ben	NST	NST
+183, 2	522, 6-7	ELE	ei hun	---	NSNT
+
+
+184, 1	523, 1-4	ALN	*well* mae yna hynny	---	NST
+
+
+185, 1	524, 1-2	ELE	a wir	NSNT	NSNT
+185, 2	525, 1-4	ELE	oedd o wedi canu	NSNT	NSNT
+185, 3	527, 1-5	ELE	yn yn gry meddai fo	NSNT	NSNT
+185, 4	528, 1-8	ELE	oedd o wedi cael ryw fath o ymateb	---	NSNT
+
+
+186, 1	529, 1-4	ALN	*mmm* wnaeth o ddim	---	NST
+
+
+187, 1	530, 1-3	ELE	poeni dw i	NSNT	NSNT
+187, 2	530, 4-13	ELE	de bod o yn meddwl mai trio am rhan *Joseph*	NST	NST
+187, 3	530, 14-15	ELE	mae o	NSNT	NSNT
+187, 4	532, 1-3	ELE	ti yn gwybod	NSNT	NSNT
+187, 5	533, 1-6	ELE	ac o'n i yn trio deud	NSNT	NSNT
+187, 6	534, 1-6	ELE	*oh* mae raid mai blwyddyn chwech	NST	NST
+187, 7	534, 7-9	ELE	fyddan nhw yn	NSNT	NSNT
+187, 8	534, 10-12	ELE	rhoid yn *Joseph*	NST	NST
+187, 9	535, 1-2	ELE	meddai fi	NSNT	NSNT
+187, 10	536, 1-3	ELE	y prif ran	NSNT	NSNT
+187, 11	537, 1-3	ELE	naci meddai fo	NSNT	NSNT
+187, 12	538, 1-3	ELE	pump a chwech	NSNT	NSNT
+187, 13	539, 1-9	ELE	ofn sy gen i iddo gael ei siomi felly	---	NSNT
+
+
+188, 1	540, 1-3	ALN	er mab *um*	NST	NST
+188, 3	542, 1-4	ALN	be ydy enw hi	---	NSNT
+
+
+189, 1	543, 1-2	ELE	beth *Hayley*	---	NST
+
+
+190, 1	544, 1-1	ALN	*Hayley*	ST	NST
+190, 2	546, 1-3	ALN	gymaint o *Hayleys*	NST	NST
+190, 3	547, 1-5	ALN	alla i ddim cadw fyny	---	NSNT
+
+
+191, 1	548, 1-3	ELE	*well* peth ydy	NST	NST
+191, 3	548, 26-31	ELE	geith o pa yr un bynnag	---	NSNT
+
+
+192, 1	549, 1-3	ALN	baswn i yn	NSNT	NSNT
+192, 2	549, 4-7	ALN	baswn i yn gweld	NSNT	NSNT
+192, 3	549, 8-8	ALN	bod	NSNT	NSNT
+192, 4	549, 9-9	ALN	baswn	NSNT	NSNT
+192, 5	549, 10-13	ALN	baswn i yn gweld	NSNT	NSNT
+192, 6	549, 14-20	ALN	fyddai chwarae *drums* yn well i *Charlie*	---	NST
+
+
+193, 1	550, 1-6	ELE	ia ella basai fo mwynhau hynny	NSNT	NSNT
+193, 2	551, 1-7	ELE	ond timod rhaid fo gael y cyfle	NSNT	NSNT
+193, 3	551, 8-12	ELE	os ydy o isio wan	---	NSNT
+
+
+194, 1	554, 1-8	ALN	ond hefyd os ydy o yn wneud hynna	NSNT	NSNT
+194, 2	554, 9-11	ALN	mae o yn	NSNT	NSNT
+194, 3	554, 12-25	ALN	mae yn marcio fath â *drummer* yr ysgol am y blwyddyn a hanner nesa	NST	NST
+194, 4	554, 26-26	ALN	dydy	NSNT	NSNT
+194, 5	556, 1-7	ALN	sy yn defnyddiol i i brofiad o	NSNT	NSNT
+194, 6	557, 1-11	ALN	efallai bod fi yn gweld pethau fath â chwaraewyr yn hytrach	NSNT	NSNT
+194, 7	559, 1-4	ALN	ie dw i gwybod	---	NSNT
+
+
+195, 1	561, 1-1	ELE	wsti	NSNT	NSNT
+195, 2	561, 2-9	ELE	mae o isio bod yn rhan o yr	NSNT	NSNT
+195, 4	563, 1-2	ELE	*crew* dydy	NST	NST
+195, 5	565, 1-1	ELE	dyna	NSNT	NSNT
+195, 6	565, 2-7	ELE	sy yn bwysig iddo fo wan	---	NSNT
+
+
+196, 1	567, 1-1	ALN	dw	NSNT	NSNT
+196, 2	567, 2-8	ALN	dw i yn gweld pethau yn wahanol	NSNT	NSNT
+196, 3	567, 9-9	ALN	dydw	---	NSNT
+
+
+197, 1	569, 1-5	ELE	*well* profiad ydy o i_gyd	NST	NST
+197, 2	569, 7-8	ELE	ond wsti	---	NSNT
+
+
+198, 1	570, 1-8	ALN	*well* os dydy o ddim yn cael rhan	---	NST
+
+
+199, 1	571, 1-6	ELE	*oh* ia fyddai wrth ei fodd	NST	NST
+199, 2	571, 7-12	ELE	petasai fo yn cael cyfle *sure*	---	NST
+
+
+200, 1	572, 1-1	ALN	call	NSNT	NSNT
+200, 2	573, 1-3	ALN	wna i ddeud	NSNT	NSNT
+200, 3	574, 1-2	ALN	gwranda *Izzy*	NST	NST
+200, 4	574, 3-6	ALN	baswn i ddim meindio	NSNT	NSNT
+200, 5	574, 7-10	ALN	petasai fo yn drymio	NSNT	NSNT
+200, 6	576, 1-5	ALN	elli ti fyw hebddo fo	NSNT	NSNT
+200, 7	577, 1-12	ALN	wedyn allai fo ddysgu dau neu dri *fill* gan *Dean* ac *er*	NST	NST
+200, 8	577, 13-17	ALN	fydd o yn barod wedyn	NSNT	NSNT
+200, 9	580, 1-7	ALN	es i fewn i neuadd bore yma	NSNT	NSNT
+200, 10	581, 1-14	ALN	o'n i yn dysgu yr ail flwyddyn perfformio ac oedd *Anna* yn cofrestru pawb	ST	NST
+200, 11	583, 1-2	ALN	and *um*	ST	NST
+200, 13	585, 1-1	ALN	*Izzy*	ST	NST
+200, 15	587, 1-5	ALN	mae tu allan yn *car*	NST	NST
+200, 16	588, 1-6	ALN	be mae yn wneud fan yna	NSNT	NSNT
+200, 17	589, 1-8	ALN	oedd o yn edrych fath â cael snog	SNT	SNT
+200, 18	589, 9-12	ALN	pan wnes i basio	NSNT	NSNT
+200, 19	591, 1-1	ALN	be	NSNT	NSNT
+200, 20	592, 1-2	ALN	mae rhywbeth	NSNT	NSNT
+200, 21	592, 3-8	ALN	mae pobl ifanc yn wneud *Anna*	NST	NST
+200, 22	594, 1-2	ALN	meddai hi	NSNT	NSNT
+200, 25	597, 1-8	ALN	*stuff* yna i_gyd tu ôl i fi wan	---	NST
+
+
+201, 1	600, 1-9	ELE	dydy ddim yn sôn am gael un arall ta	NSNT	NSNT
+201, 2	602, 1-3	ELE	nag ydy wir	---	NSNT
+
+
+202, 1	603, 1-3	ALN	bob awr neithiwr	NSNT	NSNT
+202, 2	604, 1-3	ALN	bob awr neithiwr	---	NSNT
+
+
+203, 1	605, 1-4	ELE	oedd o yn effro	NSNT	NSNT
+203, 2	607, 1-7	ELE	*oh* dydy o ddim yn dda felly	---	NST
+
+
+204, 1	608, 1-4	ALN	dw ddim yn gwybod	NSNT	NSNT
+204, 2	608, 5-6	ALN	be sy	NSNT	NSNT
+204, 3	608, 7-12	ALN	ond doedd hi ddim yn impressed	---	SNT
+
+
+205, 1	609, 1-2	ELE	*oh* bechod	NST	NST
+205, 3	611, 1-7	ELE	*oh* mae o yn tynny am ddeuflwydd	NST	NST
+205, 4	612, 1-3	ELE	blwydd a hanner	---	NSNT
+
+
+206, 1	613, 1-2	ALN	rywbeth felly	---	NSNT
+
+
+207, 1	614, 1-2	ELE	deuflwydd yndy	NSNT	NSNT
+207, 2	614, 3-3	ELE	dydy	---	NSNT
+
+
+208, 1	615, 1-3	ALN	wnaeth *Kate* ddeud	NST	NST
+208, 2	615, 4-9	ALN	oedd *Kate* *Kate* yn tagu neithiwr	NST	NST
+208, 3	616, 1-3	ALN	wnaeth hi ddeud	NSNT	NSNT
+208, 5	619, 1-3	ALN	a ddeudodd *Anna*	NST	NST
+208, 6	620, 1-6	ALN	gwranda unrhyw bryd ti fyny nos	NSNT	NSNT
+208, 7	620, 7-10	ALN	*just* ffonia fi *o_k*	NST	NST
+208, 9	622, 1-8	ALN	dw i yn *bound* o fod ar effro	---	NST
+
+
+209, 1	623, 1-2	ELE	*oh* bechod	---	NST
+
+
+210, 1	624, 1-6	ALN	na dydy ddim yn swnio fel	NSNT	NSNT
+210, 2	624, 7-17	ALN	bod hi yn mynd am ail un ar hyn o bryd	NSNT	NSNT
+210, 3	625, 1-14	ALN	ond *um* wedi deud hynny oedd hi yn gwadu bob_dim mynd am y cyntaf	NST	NST
+210, 4	627, 1-7	ALN	a wedyn yn sydyn wnaethon ni glocio	NSNT	NSNT
+210, 5	629, 1-2	ALN	ac *er*	NST	NST
+210, 6	630, 1-6	ALN	*oh* esgusodwch fi pobl y tâp	NST	NST
+210, 7	631, 1-7	ALN	*um* dyma *Andrew* yn ei chyhuddo hi	NST	NST
+210, 8	632, 1-9	ALN	aeth hi *just* sefyll yna a cochi yn llwyr	NST	NST
+210, 10	634, 1-3	ALN	ofnadwy o ddoniol	---	NSNT
+
+
+211, 1	636, 1-3	ELE	be wnaeth *Louise*	NST	NST
+211, 2	636, 4-4	ELE	ta	NSNT	NSNT
+211, 3	637, 1-11	ELE	ydy wedi cynhyrchu mwy o yr pethau *chutneys* yma jams yma	---	ST
+
+
+212, 1	638, 1-10	ALN	mae angen i fi anfon y rysáit gwreiddiol ati hi	NSNT	NSNT
+212, 2	639, 1-7	ALN	mae wedi rhoi mwy o *vinegar* i_fewn	NST	NST
+212, 3	640, 1-4	ALN	ond oedd hi meddwl	NSNT	NSNT
+212, 4	640, 5-11	ALN	bod un *mam* yn fwy rich oherwydd	NST	ST
+212, 5	640, 12-18	ALN	bod o wedi cael amser i aeddfedu	---	NSNT
+
+
+213, 1	641, 1-13	ELE	*well* dy fam wastad yn deud tydy i gadw fo am ychydig fisoedd	NST	NST
+213, 2	643, 1-11	ELE	*oh* ti ddim yn cofio oedd hi yn sgwennu arno fo	NST	NST
+213, 3	643, 12-12	ELE	doedd	NSNT	NSNT
+213, 4	644, 1-4	ELE	peidiwch â bwyta am	NSNT	NSNT
+213, 5	647, 1-3	ELE	dau dri mis	NSNT	NSNT
+213, 6	649, 1-8	ELE	ond hefyd y siwgwr siwgwr tywyll tywyll *yeah*	---	NST
+
+
+214, 1	651, 1-3	ALN	dw i bron	NSNT	NSNT
+214, 2	651, 4-7	ALN	â gorffen yr un	NSNT	NSNT
+214, 3	652, 1-9	ALN	oedd yr un o'n i yn licio yr un	NSNT	NSNT
+214, 4	652, 10-13	ALN	oedd hi wedi wneud	NSNT	NSNT
+214, 5	654, 1-3	ALN	oedd o yn	NSNT	NSNT
+214, 6	654, 4-12	ALN	oedd yn debyg iawn i afal wedi stiwio really	SNT	SNT
+214, 7	654, 13-13	ALN	doedd	---	NSNT
+
+
+215, 1	656, 1-6	ELE	gen i afalau gan *Margaret* cofia	NST	NST
+215, 2	658, 1-4	ELE	wneud rhywbeth efo nhw	---	NSNT
+
+
+216, 1	659, 1-2	ALN	nos Wener	---	NSNT
+
+
+217, 1	660, 1-5	ELE	dw ddim adref nos Wener	---	NSNT
+
+
+218, 1	661, 1-5	ALN	*oh* wnawn ni coginio felly	NST	NST
+218, 2	663, 1-3	ALN	wnawn ni coginio	NSNT	NSNT
+218, 3	664, 1-5	ALN	o'n i mynd i ddeud	NSNT	NSNT
+218, 4	665, 1-5	ALN	be wnawn ni nos Wener	NSNT	NSNT
+218, 5	666, 1-5	ALN	ond wrth_gwrs dan ni allan	NSNT	NSNT
+218, 6	666, 6-6	ALN	dydan	---	NSNT
+
+
+219, 1	667, 1-3	ELE	*oh* dach *well*	NST	NST
+219, 2	667, 4-10	ELE	dach chi allan rhan fwya nos Wener	---	NSNT
+
+
+220, 1	668, 1-5	ALN	*Charlie* gael gwers am bedwar	NST	NST
+220, 2	669, 1-2	ALN	wedyn mae	NSNT	NSNT
+220, 3	669, 3-9	ALN	gynnon ni ymarfer am chwarter i saith	---	NSNT
+
+
+221, 1	670, 1-6	ELE	chwarter i saith mae yn dechrau	---	NSNT
+
+
+222, 1	672, 1-4	ALN	fydd raid fi ddeud	NSNT	NSNT
+222, 2	673, 1-1	ALN	gwrandwch	NSNT	NSNT
+222, 3	673, 2-14	ALN	dw i o yma am chwarter i wyth ar yr hwyra *o_k* hogiau	NST	NST
+222, 4	674, 1-5	ALN	fydda i *just* yn mynd	---	NST
+
+
+223, 1	675, 1-7	ELE	pam bod o yn hwyr yn dechrau	---	NSNT
+
+
+224, 1	676, 1-6	ALN	chwarter i saith mae yn dechrau	NSNT	NSNT
+224, 2	677, 1-1	ALN	dyna	NSNT	NSNT
+224, 3	677, 2-2	ALN	dyna	NSNT	NSNT
+224, 4	677, 3-7	ALN	pryd maen nhw yn ymarfer	---	NSNT
+
+
+225, 1	679, 1-13	ELE	fedrwch chi ddim newid o i hanner wedi chwech tan hanner wedi saith	---	NSNT
+
+
+226, 1	680, 1-5	ALN	mae yn well na pump	NSNT	NSNT
+226, 2	680, 6-6	ALN	tydy	---	NSNT
+
+
+227, 1	682, 1-10	ELE	neu newid o hanner wedi chwech tan hanner wedi saith	---	NSNT
+
+
+228, 1	683, 1-3	ALN	dim yn gwybod	---	NSNT
+
+
+229, 1	684, 1-5	ELE	because fydd *Debbie* efo chdi	NST	ST
+229, 2	686, 1-9	ELE	os na ydy hi isio mynd at dy *dad*	---	NST
+
+
+230, 1	687, 1-3	ALN	mmm mi allasai	NSNT	NSNT
+230, 2	687, 4-4	ALN	gallai	NSNT	NSNT
+230, 3	688, 1-7	ALN	ella basai *dad* yn mwynhau dod fyny	NST	NST
+230, 4	688, 8-10	ALN	roid hi gwely	NSNT	NSNT
+230, 5	690, 1-6	ALN	*well* ceith ddarllen *story* hir iddi	NST	NST
+230, 6	690, 7-7	ALN	ceith	NSNT	NSNT
+230, 7	692, 1-1	ALN	mae	---	NSNT
+
+
+231, 1	693, 1-8	ELE	basai mwy diddorol iddi na ddod i capel	NSNT	NSNT
+231, 2	693, 9-9	ELE	basai	NSNT	NSNT
+231, 3	694, 1-5	ELE	o ran basai chwarae gwmpas	NSNT	NSNT
+231, 4	694, 6-6	ELE	fasai	NSNT	NSNT
+231, 5	695, 1-3	ELE	ar_ôl tro dwytha	---	NSNT
+
+
+232, 1	696, 1-6	ALN	er dw ddim yn dallt pam	NSNT	NSNT
+232, 2	696, 7-11	ALN	maen nhw yn ymarfer yn	NSNT	NSNT
+232, 3	697, 1-2	ALN	mae nhw	NSNT	NSNT
+232, 4	697, 3-10	ALN	maen nhw yn dal i ymarfer ddwy waith	NSNT	NSNT
+232, 5	699, 1-4	ALN	dydy o ddim fel	NSNT	NSNT
+232, 6	699, 5-18	ALN	bod ni yn trio *um* tynnu chwaraewyr newydd i_fewn ar hyn o bryd chwaith	NST	NST
+232, 7	700, 1-2	ALN	mae pawb	NSNT	NSNT
+232, 8	700, 3-11	ALN	sy yn y ddau *band* yn brofiadol erbyn hyn	NST	NST
+232, 9	701, 1-7	ALN	ond dw i *just* yn cau ngheg	ST	NST
+232, 10	703, 1-5	ALN	because os dw i mynegi	NSNT	SNT
+232, 11	703, 6-7	ALN	barn ella	NSNT	NSNT
+232, 12	703, 8-12	ALN	fydd raid mi wneud rywbeth	---	NSNT
+
+
+233, 1	704, 1-2	ELE	*well* ie	---	NST
+
+
+234, 1	705, 1-10	ALN	a mae gen i ddigon ar y mhlât yn barod	---	NSNT
+
+
+235, 1	706, 1-1	ELE	sbïa	NSNT	NSNT
+235, 2	706, 2-6	ELE	mae yna rywun wedi baeddu	---	NSNT
+
+
+236, 1	707, 1-2	ALN	tsiocled *yeah*	---	NST
+
+
+237, 1	708, 1-4	ELE	wnei di golchi rhein	---	NSNT
+
+
+238, 1	710, 1-4	ALN	*bound* o ddigwydd dydy	---	NST
+
+
+239, 1	711, 1-1	ELE	be	---	NSNT
+
+
+240, 1	712, 1-4	ALN	*bound* o ddigwydd dydy	---	NST
+
+
+241, 1	713, 1-12	ELE	*yeah* wedi gobeithio basen nhw wedi para ychydig bach glanach yn hirach	---	NST
+
+
+242, 1	714, 1-12	ALN	efo breichiau mor lydan maen nhw *just* roi bwyd arnyn nhw yn_dydyn	NST	NST
+242, 2	716, 1-4	ALN	*just* bwrdd ydy o	NST	NST
+242, 3	718, 1-3	ALN	bach dyn nhw	NSNT	NSNT
+242, 4	718, 4-4	ALN	sti	---	NSNT
+
+
+243, 1	719, 1-7	ELE	ia llythyr *Nicky* bore yma neu *Olivia*	NST	NST
+243, 2	720, 1-3	ELE	dwn i ddim	NSNT	NSNT
+243, 3	720, 4-5	ELE	pwy sy	NSNT	NSNT
+243, 4	720, 6-8	ELE	wedi bod wrthi	NSNT	NSNT
+243, 5	721, 1-4	ELE	y syniad gwreiddiol oedd	NSNT	NSNT
+243, 6	721, 5-11	ELE	bod ni mynd ar *drain* i *Rhyd_Ddu*	NST	NST
+243, 7	722, 1-10	ELE	a rŵan dan ni mynd o_amgylch gwahanol lefydd llenyddol barddonol	NSNT	NSNT
+243, 8	723, 1-12	ELE	a dan ni yn gorod *um* ffeindio rhywbeth am y *person* yna	NST	NST
+243, 9	724, 1-9	ELE	dw i wedi cael *Emily_Huws* yn *Bontnewydd* yn Newborough	ST	ST
+243, 10	725, 1-9	ELE	dw i gorod darllen rywbeth o ei gwaith hi	NSNT	NSNT
+243, 11	726, 1-11	ELE	mae *Ceridwen* yn gorod wneud rywbeth *task* yn fan yna felly	NST	NST
+243, 12	727, 1-6	ELE	wedyn fyddan ni mynd i *Rhosgadfan*	NST	NST
+243, 13	728, 1-6	ELE	mae yna dafarn fan yna hefyd	NSNT	NSNT
+243, 14	728, 7-7	ELE	does	NSNT	NSNT
+243, 15	730, 1-9	ELE	wedyn mae yna ryw saith neu wyth o lefydd	---	NSNT
+
+
+244, 1	731, 1-7	ALN	*so* mae nhw yn benderfynol *sesh* felly	---	NST
+
+
+245, 1	732, 1-5	ELE	*oh* *yeah* dwn i ddim	NST	NST
+245, 2	733, 1-3	ELE	a wedyn *um*	---	NST
+
+
+246, 1	734, 1-2	ALN	pa ddyddiad	---	NSNT
+
+
+247, 1	735, 1-3	ELE	swper ym *Molly's*	NST	NST
+247, 2	736, 1-4	ELE	*um* pedwerydd o Dachwedd	NST	NST
+247, 3	737, 1-3	ELE	diwedd hanner tymor	NSNT	NSNT
+247, 4	738, 1-4	ELE	y dydd Sadwrn ola	---	NSNT
+
+
+248, 1	739, 1-10	ALN	*so* ti yn mynd allan y pnawn dydd Sadwrn olaf	---	NST
+
+
+249, 1	740, 1-3	ELE	a yr nos	---	NSNT
+
+
+250, 1	741, 1-1	ALN	*ideal*	---	NST
+
+
+251, 1	742, 1-6	ELE	nôl o Llundain dydd Gwener tydan	---	NSNT
+
+
+252, 1	744, 1-8	ALN	na mae Cymru yn chwarae pnawn dydd Sadwrn	---	NSNT
+
+
+253, 1	745, 1-2	ELE	yn_erbyn pwy	---	NSNT
+
+
+254, 1	746, 1-1	ALN	*Australia*	---	NST
+
+
+255, 1	747, 1-6	ELE	*oh* o'n i ddim gwybod hynny	NST	NST
+255, 2	748, 1-2	ELE	yn lle	---	NSNT
+
+
+256, 1	749, 1-2	ALN	yng Nghaerdydd	NSNT	NSNT
+256, 2	751, 1-7	ALN	mae gen i *gig* yn y dyddiadur	---	NST
+
+
+257, 1	752, 1-5	ELE	be ar y nos Sadwrn	---	NSNT
+
+
+258, 1	753, 1-5	ALN	ar nos Sadwrn y pedwerydd	---	NSNT
+
+
+259, 1	754, 1-2	ELE	nag oes	NSNT	NSNT
+259, 2	756, 1-3	ELE	wnest di ddeud	NSNT	NSNT
+259, 3	756, 4-6	ELE	bod o yn	NSNT	NSNT
+259, 4	756, 7-7	ELE	rhydd	NSNT	NSNT
+259, 5	757, 1-2	ELE	*gig* be	---	NST
+
+
+260, 1	758, 1-3	ALN	*Acoustique* yn *Sandy_Beach*	NST	NST
+260, 2	760, 1-6	ALN	ond dw i ddim yn gwybod	NSNT	NSNT
+260, 3	760, 7-10	ALN	os ydy o ymlaen	NSNT	NSNT
+260, 4	761, 1-3	ALN	mi grybyllwyd o	NSNT	NSNT
+260, 5	761, 4-6	ALN	oes pys yn_ôl	NSNT	NSNT
+260, 6	762, 1-10	ALN	dw i ddim wedi clywed dim_byd un ffordd neu llall	NSNT	NSNT
+260, 7	764, 1-2	ALN	wna i	NSNT	NSNT
+260, 8	764, 3-7	ALN	wna i dext_io *Tracy* wedyn	NST	ST
+260, 9	765, 1-4	ALN	wna i ffonio hi	NSNT	NSNT
+260, 10	766, 1-6	ALN	wnaeth hi ddim neidio dydd Sadwrn	---	NSNT
+
+
+261, 1	767, 1-3	ELE	wnaeth hi ddim	---	NSNT
+
+
+262, 1	768, 1-9	ALN	oedd yna ormod o wynt na gormod o wynt	---	NSNT
+
+
+263, 1	769, 1-2	ELE	*oh* *phew*	---	NST
+
+
+264, 1	770, 1-5	ALN	pumed ar hugain o Dachwedd	---	NSNT
+
+
+265, 1	771, 1-3	ELE	ew nefi *blue*	NST	NST
+265, 2	772, 1-6	ELE	a deud i mi wan de	NSNT	NSNT
+265, 3	773, 2-4	ELE	ydy *Queenie* wedi	NST	NST
+265, 4	773, 5-11	ELE	wedi bod yn nôl yn Prince's_Drive neu	---	SNT
+
+
+266, 1	774, 1-5	ALN	ddim wedi siarad yn ddiweddar	NSNT	NSNT
+266, 2	776, 1-3	ALN	mae yn deud	NSNT	NSNT
+266, 3	776, 4-8	ALN	bod hi yn cael *er*	NST	NST
+266, 4	777, 1-4	ALN	mae isio symud eto	---	NSNT
+
+
+267, 1	778, 1-3	ELE	be o *Penmon*	NST	NST
+267, 2	780, 1-1	ELE	pam	---	NSNT
+
+
+268, 1	781, 1-1	ALN	mae	NSNT	NSNT
+268, 2	781, 2-11	ALN	gynni *fancy* mynd mynd i fyw ym *Mharis* am gyfnod	NST	NST
+268, 3	783, 1-3	ALN	fel ag yr	NSNT	NSNT
+268, 4	783, 4-5	ALN	wyt ti	---	NSNT
+
+
+269, 1	784, 1-7	ELE	*o_k* be mae isio wneud ym *Mharis*	---	NST
+
+
+270, 1	785, 1-3	ALN	pwy a ŵyr	---	NSNT
+
+
+271, 1	786, 1-8	ELE	oes gynni hi waith actio ar y funud	---	NSNT
+
+
+272, 1	788, 1-10	ALN	mae yn gweithio trwy yr adeg ar hyn o bryd	---	NSNT
+
+
+273, 1	789, 1-4	ELE	ond yn lle felly	---	NSNT
+
+
+274, 1	790, 1-10	ALN	*er* efo *Frân_Wen* ar hyn o bryd mynd *round* ysgolion	---	NST
+
+
+275, 1	791, 3-5	ELE	ddeudodd hi hefyd	---	NSNT
+
+
+276, 1	792, 1-4	ALN	*so* dw i meddwl	NST	NST
+276, 2	792, 5-10	ALN	dw i meddwl mai bwriad hi	NSNT	NSNT
+276, 3	792, 12-15	ALN	mae gynni hi gyfnod	---	NSNT
+
+
+277, 1	793, 1-2	ELE	diwaith felly	---	NSNT
+
+
+278, 1	794, 1-4	ALN	diwaith yn dod i_fyny	---	NSNT
+
+
+279, 1	795, 1-8	ELE	*mmm* ydy am fynd i *Baris* adeg hynny	---	NST
+
+
+280, 1	796, 1-3	ALN	dw i meddwl	NSNT	NSNT
+280, 2	797, 1-5	ALN	dw i ddim yn gwybod	NSNT	NSNT
+280, 3	798, 1-7	ALN	alla i ddim cadw i_fyny efo hi	---	NSNT
+
+
+281, 1	800, 1-5	ELE	ella fasai hi yn gwarchod	NSNT	NSNT
+281, 2	801, 1-5	ELE	*oh* na *Acoustique* oedd hwnna	NST	NST
+281, 3	802, 1-10	ELE	ella fasai hi yn gwarchod ar yr wythfed ar hugain	NSNT	NSNT
+281, 4	802, 11-11	ELE	sti	---	NSNT
+
+
+282, 1	803, 1-9	ALN	be sy yn digwydd yr wythfed ar hugain eto	---	NSNT
+
+
+283, 1	804, 1-1	ELE	pen_blwydd	---	NSNT
+
+
+284, 1	806, 1-4	ALN	*yeah* os ydy gwmpas	NST	NST
+284, 2	808, 1-4	ALN	*sure* y byddai hi	---	NST
+
+
+285, 1	809, 1-5	ELE	basen nhw wrth eu boddau	---	NSNT
+
+
+286, 1	811, 1-5	ALN	neu mi allen ni dympio	NSNT	NSNT
+286, 2	812, 1-4	ALN	allen ni ofyn i	---	NSNT
+
+
+287, 1	813, 1-2	ELE	dympio nhw	NSNT	NSNT
+287, 2	814, 1-2	ELE	dim dympio	---	NSNT
+
+
+288, 1	815, 1-3	ALN	*yeah* *yeah* doedd	NST	NST
+288, 2	816, 1-2	ALN	gair anghywir	NSNT	NSNT
+288, 3	817, 1-10	ALN	mi allen ni adael y canhwyllau ein llygaid ar *um*	NST	NST
+288, 4	818, 1-8	ALN	*sorry* dw i dal yn yr meddylfryd dympio	NST	NST
+288, 5	819, 1-5	ALN	dympio nhw ar *um* *Adam_Adams*	ST	NST
+288, 7	821, 1-3	ALN	because ddeudodd *Mark*	NST	ST
+288, 8	821, 4-10	ALN	basen nhw medru mynd i fan yno	NSNT	NSNT
+288, 9	821, 11-11	ALN	bysai	NSNT	NSNT
+288, 10	823, 1-6	ALN	a mae ei *mam* wedi deud	---	NST
+
+
+289, 1	824, 1-3	ELE	fasai hi yn	---	NSNT
+
+
+290, 1	826, 1-3	ALN	basai *Nathan* medru	NST	NST
+290, 2	826, 4-7	ALN	fasai *Charlie* *Nathan* hefyd	NST	NST
+290, 3	826, 8-8	ALN	bysai	---	NSNT
+
+
+291, 1	827, 1-3	ELE	be am *Debbie*	---	NST
+
+
+292, 1	828, 1-6	ALN	*oh* basen ni yn ffeindio rywun	ST	NST
+292, 2	830, 1-1	ALN	*Pauline*	---	NST
+
+
+293, 1	831, 1-2	ELE	ie ella	NSNT	NSNT
+293, 2	832, 1-6	ELE	neu ie neu *Rachel* neu *Sandra*	NST	NST
+293, 3	833, 1-5	ELE	ond fydda i ddim yma	NSNT	NSNT
+293, 4	833, 6-7	ELE	na fydda	---	NSNT
+
+
+294, 1	834, 1-7	ALN	na *so* dydy o ddim *broblem* chdi	NST	NST
+294, 2	834, 8-9	ALN	nag ydy	---	NSNT
+
+
+295, 1	835, 1-2	ELE	nag ydy	---	NSNT
+
+
+296, 1	836, 1-3	ALN	*ha* *ha* *ideal*	---	NST
+
+
+297, 1	837, 1-2	ELE	a *Andrew*	NST	NST
+297, 2	838, 1-5	ELE	lle fasai hwn yn digwydd	NSNT	NSNT
+297, 3	839, 1-2	ELE	ym *Mangor*	---	NST
+
+
+298, 1	840, 1-5	ALN	does gen i ddim syniad	---	NSNT
+
+
+299, 1	841, 1-10	ELE	*right* dw ddim yn gwybod digon am y pethau yma	NST	NST
+299, 2	841, 11-11	ELE	yli	NSNT	NSNT

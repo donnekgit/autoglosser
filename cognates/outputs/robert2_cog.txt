@@ -1,0 +1,801 @@
+
+
+1, 1	1, 1-4	GLE	na dw ddim yn	NSNT	NSNT
+1, 2	1, 5-9	GLE	dw ddim yn ddallt hynna	NSNT	NSNT
+1, 3	2, 1-9	GLE	neu ti yn gwybod mae yna yr un classic	SNT	SNT
+1, 4	3, 1-4	GLE	*ooh* dw i wedi	NST	NST
+1, 5	3, 5-10	GLE	dw i wedi colli yr *phone*	NST	NST
+1, 6	4, 1-4	GLE	dim ots dyna ni	---	NSNT
+
+
+2, 1	5, 1-7	RIS	*oh* *er* ydy o yn un newydd	---	NST
+
+
+3, 1	6, 1-7	GLE	nac ydy fenthyg un y nghariad i	NSNT	NSNT
+3, 2	6, 8-9	GLE	ydw i	---	NSNT
+
+
+4, 1	7, 1-2	RIS	*oh* *wow*	---	NST
+
+
+5, 1	8, 1-7	GLE	achos *um* mae yr un wedi torri	NST	NST
+5, 2	9, 1-10	GLE	a mae yr pobl *insurance* yn ddisgwyl i fi talu	NST	NST
+5, 3	10, 1-6	GLE	pum_deg *oh* dw i yn gwybod	---	NST
+
+
+6, 1	11, 1-3	RIS	lle mae hwnnw	---	NSNT
+
+
+7, 1	12, 1-11	GLE	*um* yn *Tesco's* mae yr llun yna wedi gael ei dynnu	NST	NST
+7, 2	14, 1-6	GLE	*um* a fi yn gwisgo het	NST	NST
+7, 3	15, 1-4	GLE	bechod mae o yn	NSNT	NSNT
+7, 4	15, 5-11	GLE	mae o yn tynnu lluniau ohono fi	NSNT	NSNT
+7, 5	16, 1-10	GLE	a mae o yn cadw nhw yn ei *phone* o	NST	NST
+7, 6	17, 1-2	GLE	ac *um*	NST	NST
+7, 7	19, 1-1	GLE	felly	---	NSNT
+
+
+8, 1	20, 1-4	RIS	mae *phone* *nice* hwnna	---	NST
+
+
+9, 1	21, 2-7	GLE	mae o chwarae teg iddo fo	NSNT	NSNT
+9, 2	22, 1-7	GLE	mae o wedi fenthyg o iddo fi	NSNT	NSNT
+9, 3	23, 1-4	GLE	o ddeud wrtho fi	NSNT	NSNT
+9, 4	24, 1-5	GLE	iawn gei di gymryd hynna	---	NSNT
+
+
+10, 1	25, 1-3	RIS	don't *break* it	---	NST
+
+
+11, 1	26, 1-5	GLE	*oh* dw i yn gwybod	NST	NST
+11, 2	26, 6-11	GLE	dw i wedi gael hynna a	NSNT	NSNT
+11, 3	27, 1-8	GLE	paid â cadw fo yn dy boced di	NSNT	NSNT
+11, 4	28, 1-6	GLE	neu wneith o ddisgyn allan a	NSNT	NSNT
+11, 5	29, 1-8	GLE	achos mae raid i fi talu yr *insurance*	---	NST
+
+
+12, 1	30, 1-6	RIS	be sy digwydd efo *phone* chdi	NST	NST
+12, 2	30, 7-7	RIS	ta	NSNT	NSNT
+12, 3	31, 1-4	RIS	mae nhw isio pres	---	NSNT
+
+
+13, 1	32, 1-5	GLE	mae nhw isio pum_deg punt	NSNT	NSNT
+13, 2	32, 6-8	GLE	sti gynno fi	---	NSNT
+
+
+14, 1	33, 1-1	RIS	gosh	---	NSNT
+
+
+15, 1	34, 1-3	GLE	dw i meddwl	NSNT	NSNT
+15, 2	34, 4-9	GLE	bod o yn ormod yn enwedig	NSNT	NSNT
+15, 3	34, 10-12	GLE	pan dw i	NSNT	NSNT
+15, 4	34, 13-19	GLE	wedi bod yn talu *insurance* bob mis	NST	NST
+15, 5	36, 1-1	GLE	ond	---	NSNT
+
+
+16, 1	37, 1-12	RIS	ond *sure* bod o mewn *print* bach bach bach ar y gwaelod	---	NST
+
+
+17, 1	38, 1-2	GLE	ia dyna	NSNT	NSNT
+17, 2	38, 3-5	GLE	be oedd o	NSNT	NSNT
+17, 3	38, 6-6	GLE	dyna	NSNT	NSNT
+17, 4	38, 7-9	GLE	be oedd o	NSNT	NSNT
+17, 5	39, 1-6	GLE	achos wnes i ddeud wrthyn nhw	NSNT	NSNT
+17, 6	40, 1-3	GLE	naci dw i	NSNT	NSNT
+17, 7	40, 4-9	GLE	wedi bod yn talu bob mis	NSNT	NSNT
+17, 8	41, 1-3	GLE	a dw i	NSNT	NSNT
+17, 9	41, 4-9	GLE	wedi bod yn wneud yn *sure*	NST	NST
+17, 10	42, 1-11	GLE	*oh* na mae hynna rhag ofn bod rywun yn ddwyn hi	NST	NST
+17, 11	43, 1-6	GLE	dydy hynna ddim yn helpu chdi	NSNT	NSNT
+17, 12	43, 7-11	GLE	os mae o wedi torri	NSNT	NSNT
+17, 13	44, 1-10	GLE	a mae nhw yn ddeud wrtha fi pethau fath â	NSNT	NSNT
+17, 14	45, 1-8	GLE	*oh* mi oedd o yn dy *contract* di	NST	NST
+17, 15	46, 1-5	GLE	mae o yn *contract* pawb	NST	NST
+17, 16	47, 1-2	GLE	baswn i	---	NSNT
+
+
+18, 1	48, 1-5	RIS	basai waeth i chdi ddeud	NSNT	NSNT
+18, 2	49, 1-8	RIS	mae yna rywun wedi dwyn y *phone* i	---	NST
+
+
+19, 1	50, 1-6	GLE	ti yn gwybod be baswn ia	NSNT	NSNT
+19, 2	50, 7-10	GLE	dw i yn gwybod	---	NSNT
+
+
+20, 1	51, 1-6	RIS	basai waeth i chdi wedi ddeud	---	NSNT
+
+
+21, 1	52, 1-8	GLE	baswn i byth yn mynd amdan *contract* eto	NST	NST
+21, 2	54, 1-4	GLE	dw ddim yn meddwl	NSNT	NSNT
+21, 3	54, 5-6	GLE	na fyswn	NSNT	NSNT
+21, 4	55, 1-9	GLE	achos mae raid i ti dalu hynna bob mis	---	NSNT
+
+
+22, 1	56, 1-21	RIS	a ia mi wyt ti yn gael hyn a hyn o texts a hyn a hyn o o siarad a ballu	---	SNT
+
+
+23, 1	57, 1-4	GLE	ond dw i meddwl	NSNT	NSNT
+23, 2	57, 5-12	GLE	bod o yn gallu mynd yn *right* ddrud	NST	NST
+23, 3	60, 1-14	GLE	achos am y chwe mis cynta *great* mae popeth yn mynd yn yn wych	NST	NST
+23, 4	61, 1-11	GLE	a ti dim ond yn talu ryw dau_ddeg punt y mis	NSNT	NSNT
+23, 5	62, 1-7	GLE	ond wedyn mae o yn mynd i_fyny	NSNT	NSNT
+23, 6	63, 1-6	GLE	a ti meddwl i dy hun	NSNT	NSNT
+23, 7	64, 1-3	GLE	dydy o ddim	NSNT	NSNT
+23, 8	64, 4-5	GLE	werth o	NSNT	NSNT
+23, 9	65, 1-3	GLE	dydy o ddim	NSNT	NSNT
+23, 10	65, 4-9	GLE	basai well gen i torri lawr	NSNT	NSNT
+23, 11	66, 1-13	GLE	a mae gen i yr internet a yr a yr *M_S_N* a ballu	---	ST
+
+
+24, 1	67, 1-10	RIS	*well* fedri di siarad efo efo *um* siarad ar hwnnw	NST	NST
+24, 2	67, 11-11	RIS	medri	NSNT	NSNT
+24, 3	68, 1-5	RIS	achos ydw i efo pay_as_you_go	SNT	SNT
+24, 4	69, 1-5	RIS	ac oedd pawb yn deud	NSNT	NSNT
+24, 5	70, 1-4	RIS	*oh* dos i *contract*	NST	NST
+24, 6	71, 1-3	RIS	dos i *contract*	NST	NST
+24, 7	73, 1-13	RIS	achos o'n i wedi clywed *lot* am *lot* o bethau drwg am *contract*	---	NST
+
+
+25, 1	75, 1-8	GLE	peth arall hefyd os oes gen ti pay_as_you_go	SNT	SNT
+25, 2	76, 1-8	GLE	ac efallai dydy o ddim yn *phone* *grand*	NST	NST
+25, 3	77, 1-9	GLE	mae o dim ond yn un fath â bricsen	NSNT	NSNT
+25, 5	79, 1-7	GLE	a mae o yn hen a ballu	NSNT	NSNT
+25, 6	80, 1-2	GLE	os mae	NSNT	NSNT
+25, 7	80, 3-12	GLE	honna yn gael ei ddwyn neu ti yn colli o	NSNT	NSNT
+25, 8	80, 13-19	GLE	dydy o ddim diwedd y byd nac	---	NSNT
+
+
+26, 1	81, 1-2	RIS	nac ydy	---	NSNT
+
+
+27, 1	82, 1-5	GLE	*o_k* dw i wedi tynnu	NST	NST
+27, 2	83, 1-9	GLE	yr unig peth os mae *phone* i wedi torri	NST	NST
+27, 3	83, 10-12	GLE	a mae o	NSNT	NSNT
+27, 4	83, 13-19	GLE	os mae o wedi canu arno fo	NSNT	NSNT
+27, 5	83, 20-29	GLE	fydda i yn drist i weld y lluniau yn mynd	NSNT	NSNT
+27, 6	84, 1-11	GLE	achos dw i yn mynd yn *right* *sentimental* drostyn nhw a	NST	NST
+27, 7	85, 1-12	GLE	*oh* oedden ni allan yn be bynnag be bynnag fath â *Trash*	NST	NST
+27, 8	86, 1-6	GLE	ac *um* mae nhw wedi fynd	NST	NST
+27, 9	86, 7-8	GLE	de ond	NSNT	NSNT
+27, 10	88, 1-7	GLE	*oh* mae yr annwyd yma yn uffernol	NST	NST
+27, 11	89, 1-3	GLE	*oh* esgusodwch fi	NST	NST
+27, 12	90, 1-9	GLE	dw i ddim yn gallu anadlu efo fo weithiau	---	NSNT
+
+
+28, 1	92, 1-2	RIS	dw i	NSNT	NSNT
+28, 2	92, 3-9	RIS	roid *um* olbas *oil* ar y *pillow*	NST	ST
+28, 3	93, 1-5	RIS	a mae o gry ofnadwy	SNT	NSNT
+28, 4	95, 1-1	RIS	*ugh*	---	NST
+
+
+29, 1	96, 1-7	GLE	*oh* mae hynna yn knock_io chdi allan	---	ST
+
+
+30, 1	97, 1-2	RIS	a dyna	NSNT	NSNT
+30, 2	97, 3-6	RIS	wyt ti yn codi	NSNT	NSNT
+30, 3	98, 1-8	RIS	mi wyt ti yn codi yn y bore	NSNT	NSNT
+30, 4	99, 1-3	RIS	mae fath â	SNT	NSNT
+30, 5	100, 1-2	RIS	*oh* *wow*	---	NST
+
+
+31, 1	101, 1-4	GLE	*oh* dw i meddwl	NST	NST
+31, 2	101, 5-11	GLE	mae gen i rywbeth yn fy *mag*	NST	NST
+31, 3	102, 1-6	GLE	ond dydy *mag* ddim yma nac	---	NST
+
+
+32, 1	103, 1-4	RIS	ble mae o de	---	NSNT
+
+
+33, 1	104, 1-4	GLE	yn y stafell arall	---	NSNT
+
+
+34, 1	105, 1-8	RIS	ti wedi ei adael o fan yna *oh*	---	NST
+
+
+35, 1	106, 1-3	GLE	dw i meddwl	NSNT	NSNT
+35, 2	107, 1-2	GLE	gobeithio de	NSNT	NSNT
+35, 3	108, 1-6	GLE	ond dw i ddim yn meddwl	NSNT	NSNT
+35, 4	108, 7-13	GLE	basai pobl yn ddwyn fy *mag* i	NST	NST
+35, 5	109, 1-5	GLE	un mae o rhy ddrwm	NSNT	NSNT
+35, 6	110, 1-9	GLE	a yr ail beth dw i ddim yn meddwl	NSNT	NSNT
+35, 7	110, 10-17	GLE	bod pobl isio gwaith Ffrangeg i wneud felly	NSNT	NSNT
+35, 9	112, 1-9	GLE	*oh* baswn i yn gallu sgrechian efo Ffrangeg weithiau	NST	NST
+35, 10	113, 1-4	GLE	Sbaeneg dw i licio	NSNT	NSNT
+35, 11	114, 1-3	GLE	Sbaeneg yn well	---	NSNT
+
+
+36, 1	115, 1-2	RIS	licio Sbaeneg	NSNT	NSNT
+36, 2	117, 1-2	RIS	dw isio	NSNT	NSNT
+36, 3	117, 3-7	RIS	dw i isio wneud Sbaeneg	NSNT	NSNT
+36, 4	118, 1-1	RIS	mae	NSNT	NSNT
+36, 5	118, 2-9	RIS	genna i dâp adre *um* Spanish for Beginners	ST	ST
+36, 6	119, 1-2	RIS	a wedyn	NSNT	NSNT
+36, 7	120, 1-7	RIS	*oh* na dim amser roid o fewn	NST	NST
+36, 8	121, 1-8	RIS	achos petaswn i yn mynd ar yn *holidays*	NST	NST
+36, 9	121, 9-15	RIS	baswn i ddim yn mynd i Ffrainc	NSNT	NSNT
+36, 10	121, 16-21	RIS	baswn i yn mynd i Sbaen	---	NSNT
+
+
+37, 1	122, 1-4	GLE	*ah* basai well *er*	NST	NST
+37, 2	122, 5-10	GLE	baswn i yn licio dysgu Sbaeneg	NSNT	NSNT
+37, 4	124, 1-7	GLE	achos dw i isio mynd i *Patagonia*	NST	NST
+37, 5	126, 1-4	GLE	dw i isio weld	NSNT	NSNT
+37, 6	126, 5-10	GLE	be sy yn mynd ymlaen yna	NSNT	NSNT
+37, 7	128, 1-17	GLE	a hefyd ti yn gwybod y ffordd mae pobl Ffrengig yn siarad weithiau ti isio crogi nhw	NSNT	NSNT
+37, 8	129, 1-8	GLE	achos mae nhw yn ddechrau brawddeg yn gry	NSNT	NSNT
+37, 9	130, 1-3	GLE	mae nhw yn	NSNT	NSNT
+37, 10	130, 4-9	GLE	mae nhw yn ddeud ddigon *glear*	NST	NST
+37, 11	131, 1-17	GLE	a wedyn yn diwedd mae nhw yn ti gwybod mynd i_ffwrdd ar ryw tangent neu be bynnag	NSNT	SNT
+37, 12	133, 1-5	GLE	a wedyn mae nhw yn	NSNT	NSNT
+37, 13	133, 6-11	GLE	mae nhw yn hanner sibrwd o	NSNT	NSNT
+37, 14	134, 1-7	GLE	dydyn nhw ddim yn siarad yn *glear*	---	NST
+
+
+38, 1	135, 1-11	RIS	*oh* ia a yr a yr acen o'n i yn weld	NST	NST
+38, 2	136, 1-8	RIS	achos wnes i wneud o i T_G_A_U felly	NSNT	NSNT
+38, 3	138, 1-15	RIS	ac *um* oedden ni wedi dysgu o yr llyfr fel hynna le la a les	ST	ST
+38, 4	139, 1-12	RIS	a wedyn wyt ti yn gwrando arnyn nhw ar *dâp* a nhw	---	NST
+
+
+39, 1	141, 1-2	GLE	mae nhw	---	NSNT
+
+
+40, 1	142, 1-5	RIS	a wedyn o'n i yna	SNT	NSNT
+40, 2	143, 1-2	RIS	*oh* gosh	ST	NST
+40, 3	144, 1-9	RIS	a gesio wedyn *tick* *tick* *tick* yn y *boxes*	---	NST
+
+
+41, 1	146, 1-7	GLE	*well* wnes i wneud lefel_A yn Ffrangeg	NST	NST
+41, 2	147, 1-10	GLE	a wan dw i yn trio wneud gradd yno fo	NSNT	NSNT
+41, 3	149, 1-4	GLE	*oh* baswn i yn	NST	NST
+41, 4	150, 1-14	GLE	achos yn Gymraeg be bynnag ti yn gael mae pobl yn siarad ddigon *glear*	---	NST
+
+
+42, 1	151, 1-8	RIS	heblaw am os ydy dy enw di yn	NSNT	NSNT
+42, 2	152, 1-5	RIS	be oedd ei enw fo	SNT	NSNT
+42, 3	153, 1-1	RIS	*Walter*	---	NST
+
+
+43, 1	155, 1-2	GLE	*oh* *Walter*	ST	NST
+43, 2	156, 1-4	GLE	*Walter* a Mr_Chatterbox de	---	ST
+
+
+44, 1	157, 1-3	RIS	*yeah* *Mr* Chatterbox	---	NST
+
+
+45, 1	158, 1-3	GLE	*oh* mae yna	NST	NST
+45, 2	158, 4-9	GLE	mae yna rei yn bob iaith	NSNT	NSNT
+45, 3	159, 1-7	GLE	does yna ddim cymeriad iddyn nhw nac	NSNT	NSNT
+45, 5	161, 1-6	GLE	mae nhw *just* yn eistedd yna	NST	NST
+45, 6	162, 1-7	GLE	a ti yn gofyn *question* iddyn nhw	NST	NST
+45, 7	163, 1-6	GLE	a mae nhw yn ateb *er*	NST	NST
+45, 8	164, 1-8	GLE	*well* os mae nhw yn teimlo yn gwrtais	NST	NST
+45, 9	164, 9-14	GLE	mae nhw yn ateb y *question*	NST	NST
+45, 10	165, 1-8	GLE	ond mae nhw yn ateb o mewn ffordd	NSNT	NSNT
+45, 11	167, 1-5	GLE	wyt ti boeth heddiw yma	NSNT	NSNT
+45, 12	168, 1-1	GLE	yndw	---	NSNT
+
+
+46, 1	170, 1-11	RIS	wnes i ddeud wrtha chdi am *um* y bobl yna yn	NST	NST
+46, 2	170, 12-22	RIS	pan es i i *Penmaenmawr* i wneud y gwaith teipio yma	NST	NST
+46, 3	172, 1-4	RIS	do *right* a *er*	NST	NST
+46, 4	172, 5-11	RIS	dw ddim gwybod *er* *Lisa* neu rywbeth	NST	NST
+46, 5	172, 12-15	RIS	oedd ei henw hi	NSNT	NSNT
+46, 6	173, 1-4	RIS	dw ddim yn gwybod	NSNT	NSNT
+46, 7	173, 5-9	RIS	be oedd hi peth yna	NSNT	NSNT
+46, 8	174, 1-2	RIS	es i	SNT	NSNT
+46, 9	175, 1-7	RIS	*oh* it is a *nice* day isn't	NST	NST
+46, 10	175, 8-8	RIS	it	NSNT	NSNT
+46, 12	177, 1-1	RIS	no	SNT	NSNT
+46, 13	178, 1-5	RIS	a mynd ymlaen i deipio	---	NSNT
+
+
+47, 1	179, 1-5	GLE	*oh* naci computer says no	---	ST
+
+
+48, 1	180, 1-5	RIS	ac oedd o yn *nice*	NST	NST
+48, 2	182, 1-7	RIS	ac oedd o yn union fel yna	---	NSNT
+
+
+49, 1	183, 1-4	GLE	faint oed oedd hi	---	NSNT
+
+
+50, 1	184, 1-3	RIS	dwn i ddim	NSNT	NSNT
+50, 2	184, 4-13	RIS	dw meddwl ryw forty tibod canol canol oed fel yna	---	SNT
+
+
+51, 1	185, 1-2	GLE	canol oed	---	NSNT
+
+
+52, 1	186, 1-8	RIS	a wedyn oedd yna un arall yn ifanc	NSNT	NSNT
+52, 2	187, 1-4	RIS	a wnes i ofyn	SNT	NSNT
+52, 3	188, 1-6	RIS	*oh* are you in university then	NST	NST
+52, 4	189, 1-1	RIS	no	NSNT	NSNT
+52, 5	190, 1-5	RIS	*oh* what you do then	NST	NST
+52, 6	191, 1-2	RIS	work here	NSNT	NSNT
+52, 7	192, 1-3	RIS	*oh* *er* interesting	NST	NST
+52, 8	193, 1-1	RIS	no	---	NSNT
+
+
+53, 1	195, 1-5	GLE	ti yn gwybod efo *um*	NST	NST
+53, 2	196, 1-1	GLE	dyna	NSNT	NSNT
+53, 3	196, 2-8	GLE	be sy yn poeni fi amdan *Manon*	NST	NST
+53, 4	197, 1-11	GLE	achos mae hi wedi mynd i gweithio mewn swyddfa yng Nghaerdydd	NSNT	NSNT
+53, 5	199, 1-18	GLE	a deud y gwir ers i yr *phone* yma dorri dw i wedi gael trafferth cysylltu efo hi	NST	NST
+53, 6	200, 1-11	GLE	a dw i wedi gyrru ryw tair neu bedair e_bost iddi	---	NSNT
+
+
+54, 1	201, 1-1	RIS	wnest	NSNT	NSNT
+54, 2	201, 2-6	RIS	wnest ti gael y *number*	NST	NST
+54, 3	201, 7-14	RIS	wnes i yrru yr *number* iddo chdi yn_do	---	NST
+
+
+55, 1	203, 1-6	GLE	dydy o ddim yr un un	---	NSNT
+
+
+56, 1	204, 1-5	RIS	dydy o ddim yn gweithio	---	NSNT
+
+
+57, 1	205, 1-2	GLE	nag ydy	NSNT	NSNT
+57, 2	205, 3-6	GLE	dw ddim yn meddwl	NSNT	NSNT
+57, 3	207, 1-11	GLE	a dydy hi ddim wedi cysylltu nôl efo fi beth bynnag	NSNT	NSNT
+57, 4	209, 1-3	GLE	ac *um* dyna	NST	NST
+57, 5	209, 4-10	GLE	be dw i yn poeni amdani hi	NSNT	NSNT
+57, 6	209, 11-19	GLE	wneith hi droi fel yna mewn ychydig o flynyddoedd	---	NSNT
+
+
+58, 1	211, 1-4	RIS	be mae yn wneud	---	NSNT
+
+
+59, 1	212, 1-6	GLE	*um* gweithio mewn swyddfa mae hi	NST	NST
+59, 2	213, 1-1	GLE	dyna	NSNT	NSNT
+59, 3	213, 2-5	GLE	be mae yn wneud	NSNT	NSNT
+59, 4	215, 1-9	GLE	ond ti yn gwybod dw i ddim yn ddeud	NSNT	NSNT
+59, 5	215, 10-10	GLE	bod	NSNT	NSNT
+59, 6	215, 11-20	GLE	bod rheina yn *er* *jobs* ddrwg na dim_byd felly ond	---	NST
+
+
+60, 1	216, 1-2	RIS	ond mae	NSNT	NSNT
+60, 2	216, 3-9	RIS	mae nhw yn *jobs* *right* dda ond	---	NST
+
+
+61, 1	217, 1-5	GLE	ond ti yn gwybod mae	NSNT	NSNT
+61, 2	217, 6-10	GLE	mae llawer o yr bobl	NSNT	NSNT
+61, 3	217, 11-20	GLE	sy yn gweithio yna dim i_gyd ond llawer ohonyn nhw	NSNT	NSNT
+61, 4	217, 21-26	GLE	does yna ddim gymeriad iddyn nhw	---	NSNT
+
+
+62, 1	218, 1-2	RIS	nac oes	---	NSNT
+
+
+63, 1	219, 1-3	GLE	mae yn ofnadwy	---	NSNT
+
+
+64, 1	220, 1-11	RIS	ond mae *Manon* yn *right* peth yna though yn_dydy yn *right*	ST	ST
+64, 2	221, 1-2	RIS	*oh* *hello*	ST	NST
+64, 3	222, 1-2	RIS	fel hyn	---	NSNT
+
+
+65, 1	224, 1-5	GLE	fi sy yn poeni amdani	NSNT	NSNT
+65, 2	225, 1-9	GLE	achos dw i ddim wedi clywed gen ti ers	NSNT	NSNT
+65, 3	227, 1-6	GLE	*well* mae yn teimlo fath â	NST	NST
+65, 4	227, 7-9	GLE	oes beth bynnag	---	NSNT
+
+
+66, 1	228, 1-5	RIS	*well* mae yn arwydd da	NST	NST
+66, 2	228, 6-6	RIS	dydy	NSNT	NSNT
+66, 3	229, 1-3	RIS	mae yn dangos	NSNT	NSNT
+66, 4	229, 4-10	RIS	bod hi yn hapus ac yn setlo	---	NSNT
+
+
+67, 1	230, 3-6	GLE	mae hynna yn wir	---	NSNT
+
+
+68, 1	231, 1-1	RIS	*so*	ST	NST
+68, 2	232, 1-5	RIS	neu fel arall fysai hi	NSNT	NSNT
+68, 3	233, 1-5	RIS	dw i yn colli adref	NSNT	NSNT
+68, 4	234, 1-5	RIS	fel text_io fel yna *oh*	---	ST
+
+
+69, 1	236, 1-3	GLE	be fel yna	---	NSNT
+
+
+70, 1	237, 1-7	RIS	*well* fel hyn dw i yn text_io	---	ST
+
+
+71, 1	238, 1-15	GLE	ffordd ti yn wneud o efo os wyt ti yn symud dy fawd fel yna	---	NSNT
+
+
+72, 1	239, 1-2	RIS	fel hyn	---	NSNT
+
+
+73, 1	240, 1-2	GLE	del bechod	---	NSNT
+
+
+74, 1	241, 1-7	RIS	*well* fel yna ti yn text_io de	NST	ST
+74, 2	242, 1-18	RIS	*well* fel yna dw i yn wneud o efo bys dal a wneud o yn *slow* bach *er*	---	NST
+
+
+75, 1	243, 1-3	GLE	mae yna pobl	NSNT	NSNT
+75, 2	243, 4-16	GLE	sy yn gallu wneud o efo ddwy fawd fel yna a *just* mynd	---	NST
+
+
+76, 1	244, 1-1	RIS	gosh	---	NSNT
+
+
+77, 1	245, 1-7	GLE	baswn i byth yn gallu wneud hynna	NSNT	NSNT
+77, 2	246, 1-4	GLE	a mae yna pobl	NSNT	NSNT
+77, 3	246, 5-11	GLE	sy yn gallu wneud o mor gyflym	NSNT	NSNT
+77, 4	246, 12-17	GLE	mae nhw yn wneud heb edrych	NSNT	NSNT
+77, 5	247, 1-4	GLE	dw i wedi clywed	NSNT	NSNT
+77, 6	247, 5-8	GLE	bod hyn yn ddigwydd	NSNT	NSNT
+77, 7	248, 1-6	GLE	dw i ddim wedi weld o	NSNT	NSNT
+77, 8	249, 1-6	GLE	mae nhw yn gyrru yr *car*	NST	NST
+77, 9	250, 1-18	GLE	mae gynnyn nhw un llaw ar yr olwyn a yr llaw arall o_dan yr olwyn efo yr *phone*	NST	NST
+77, 10	252, 1-9	GLE	a dydyn nhw ddim yn gorod edrych arno fo	NSNT	NSNT
+77, 11	253, 1-4	GLE	mae nhw yn gwybod	NSNT	NSNT
+77, 12	253, 5-9	GLE	lle mae yr llythrennau i_gyd	NSNT	NSNT
+77, 13	254, 1-7	GLE	a mae nhw yn pwyso yr botymau	NSNT	NSNT
+77, 14	255, 1-11	GLE	dw ddim yn weld hynna yn peth saff iawn i wneud	NSNT	NSNT
+77, 15	256, 1-9	GLE	dw i yn weld o yn peth hunanol ond	---	NSNT
+
+
+78, 1	258, 1-4	RIS	*well* mae yn dangos	NST	NST
+78, 2	258, 5-11	RIS	bod chdi yn iwsio *phone* gormod wir	NST	NST
+78, 3	258, 12-12	RIS	dydy	---	NSNT
+
+
+79, 1	259, 1-1	GLE	dyna	NSNT	NSNT
+79, 2	259, 2-3	GLE	be dw	NSNT	NSNT
+79, 3	259, 4-4	GLE	dyna	NSNT	NSNT
+79, 4	259, 5-15	GLE	be dw ddim yn licio efo *um* *phone* chwaith predictive text	---	ST
+
+
+80, 1	260, 1-5	RIS	*oh* y peth geiriadur yna	---	NST
+
+
+81, 1	261, 1-6	GLE	*oh* dw i yn casáu hynna	NST	NST
+81, 2	262, 1-7	GLE	achos os dw i yn text_io chdi	NSNT	SNT
+81, 3	262, 8-13	GLE	os dw i yn text_io *Manon*	ST	ST
+81, 4	262, 14-24	GLE	os dw i yn text_io *Susan* rhaid i mi ddiffodd hwnna	NST	ST
+81, 5	264, 1-11	GLE	mae yn trio dyfalu geiriau Cymraeg a wneud *job* sâl ohono	---	NST
+
+
+82, 1	265, 1-11	RIS	wedyn mae hwnnw yr un fath *um* efo computer rŵan *right*	NST	ST
+82, 2	266, 1-5	RIS	mae computers *J_M_J* yn iawn	NST	ST
+82, 3	267, 1-2	RIS	achos mae	NSNT	NSNT
+82, 4	267, 3-8	RIS	gynna chdi spellchecker Cymraeg arno fo	NSNT	SNT
+82, 5	269, 1-10	RIS	ond ar computer ar laptop fedri di ddim newid o	NSNT	SNT
+82, 6	271, 1-5	RIS	ac wyt ti yn sgwennu	NSNT	NSNT
+82, 7	271, 6-13	RIS	mae pob i yn mynd yn i fawr	NSNT	NSNT
+82, 9	274, 1-4	RIS	mae o yn boen	---	NSNT
+
+
+83, 1	275, 1-5	GLE	*Cysillt* ydy yr un Cymraeg	NST	NST
+83, 2	275, 6-7	GLE	de geiriadur	---	NSNT
+
+
+84, 1	276, 1-5	RIS	dw i ddim yn gwybod	---	NSNT
+
+
+85, 1	277, 1-5	GLE	dw yn meddwl na *Cysillt*	NST	NST
+85, 2	277, 6-8	GLE	ydy enw fo	NSNT	NSNT
+85, 3	278, 1-6	GLE	a ti yn gallu prynu hi	---	NSNT
+
+
+86, 1	279, 1-4	RIS	mae o yn ddrud	NSNT	NSNT
+86, 2	279, 5-7	RIS	mae yn *sure*	---	NST
+
+
+87, 1	280, 1-4	GLE	dw ddim yn *sure*	NST	NST
+87, 2	280, 5-10	GLE	os ydy o yn ddrud chwaith	---	NSNT
+
+
+88, 1	281, 1-10	RIS	*hmm* basai *Gareth* yn dda yn wneud pethau felly yn	NST	NST
+88, 2	281, 11-11	RIS	bysai	NSNT	NSNT
+88, 3	282, 1-7	RIS	yn program_io pethau Cymraeg i yr cyfrifiadur	---	SNT
+
+
+89, 1	283, 1-2	GLE	*oh* bysai	NST	NST
+89, 2	283, 3-3	GLE	bysai	NSNT	NSNT
+89, 3	284, 1-12	GLE	yr unig beth efo *Gareth* ydy pan ti yn siarad efo fo	NST	NST
+89, 4	284, 13-21	GLE	mae yn siarad mewn ffordd ofnadwy o technegol weithiau	NSNT	NSNT
+89, 5	286, 1-8	GLE	a ffordd mae o yn siarad Cymraeg weithiau	NSNT	NSNT
+89, 6	286, 9-11	GLE	dydy o ddim	NSNT	NSNT
+89, 7	286, 12-19	GLE	dydy o ddim yn union ti yn gwybod	---	NSNT
+
+
+90, 1	287, 1-7	RIS	dw i yn meddwl mai yr ardal	NSNT	NSNT
+90, 2	287, 8-9	RIS	ydy o	NSNT	NSNT
+90, 3	288, 1-12	RIS	achos mae yna un fath â *Gareth* Junior yn *J_M_J* efo fi	NST	ST
+90, 4	288, 13-14	RIS	tro hyn	---	NSNT
+
+
+91, 1	289, 1-2	GLE	*ow* oes	---	NST
+
+
+92, 1	290, 1-6	RIS	a mae o yr un lle	NSNT	NSNT
+92, 2	292, 1-6	RIS	*well* o yr *Barry* mae o	NST	NST
+92, 3	293, 1-5	RIS	ond aeth o i *Glantaf*	NST	NST
+92, 4	294, 1-7	RIS	*um* a mae o yr un fath	---	NST
+
+
+93, 1	295, 1-7	GLE	mae yn gallu eich lluchio chdi weithiau	NSNT	NSNT
+93, 2	296, 1-4	GLE	achos ti yn meddwl	NSNT	NSNT
+93, 3	297, 1-10	GLE	*oh* *o_k* dw i yn ddallt be ti yn wneud	NST	NST
+93, 4	298, 1-9	GLE	ond ti yn ddeud o i fi mewn ffordd	NSNT	NSNT
+93, 5	299, 1-12	GLE	baswn i ddim yn mynd o ei chwmpas hi fel yna o_gwbl	NSNT	NSNT
+93, 6	300, 1-3	GLE	baswn i yn	---	NSNT
+
+
+94, 1	302, 1-3	RIS	yn rhy fawr	NSNT	NSNT
+94, 2	303, 1-3	RIS	troi nhw fyny	NSNT	NSNT
+94, 4	305, 1-5	RIS	ges i nhw gan rhywun	NSNT	NSNT
+94, 5	306, 1-7	RIS	baswn i ddim yn prynu prynu nhw	SNT	NSNT
+94, 6	308, 1-1	RIS	*River_Island*	---	NST
+
+
+95, 1	309, 1-7	GLE	*oh* *nice* iawn mae rheina *right* *grand*	---	NST
+
+
+96, 1	310, 1-6	RIS	*so* baswn i ddim yn prynu	NST	NST
+96, 2	310, 7-8	RIS	baswn i	NSNT	NSNT
+96, 3	310, 9-14	RIS	baswn i methu fforddio pethau felly	NSNT	NSNT
+96, 4	311, 1-10	RIS	ond o'n nhw yn o'n i ddim isio deud na	---	NSNT
+
+
+97, 1	312, 1-11	GLE	baswn i ddim yn ddeud na chwaith chwarae teg i ti	---	NSNT
+
+
+98, 1	313, 1-9	RIS	dw i *just* yn troi nhw fyny fel yna	NST	NST
+98, 2	314, 1-5	RIS	rhoi safety *pin* drwyddo nhw	---	ST
+
+
+99, 1	316, 1-4	GLE	*oh* *punk* iawn *Rhisiart*	NST	NST
+99, 2	317, 1-11	GLE	barod i *Trash* felly a roid y safety *pins* trwy pethau	---	ST
+
+
+100, 1	318, 1-2	RIS	safety *pins*	ST	NST
+100, 2	319, 1-5	RIS	baswn i yn medru actually	SNT	SNT
+100, 3	319, 6-12	RIS	a roid yr *hood* i_fyny fel hyn	NST	NST
+100, 4	321, 1-4	RIS	*hood* i_fyny a mynd	---	NST
+
+
+101, 1	324, 1-6	GLE	*Bryn* sy yn mynd dros ben	NST	NST
+101, 2	324, 7-8	GLE	llestri yna	NSNT	NSNT
+101, 3	325, 1-12	GLE	bron iawn i yr hogan yna troi o_gwmpas ddechrau siarad efo fo	NSNT	NSNT
+101, 4	326, 1-5	GLE	a wedyn wnaeth o fynd	NSNT	NSNT
+101, 5	327, 1-7	GLE	ac o'n i isio ddeud wrtha fo	NSNT	NSNT
+101, 6	328, 1-9	GLE	*Bryn* mae o yn ddoniol chwarae teg i ti	NST	NST
+101, 7	329, 1-7	GLE	ond ti yn mynd dros ben llestri	NSNT	NSNT
+101, 8	330, 1-3	GLE	a dyna pam	NSNT	NSNT
+101, 9	330, 4-10	GLE	mae yr hogan yna wedi troi i_ffwrdd	NSNT	NSNT
+101, 10	331, 1-8	GLE	oedd hi yn mynd i siarad efo chdi	NSNT	NSNT
+101, 11	332, 1-4	GLE	oedd o fel yna	---	NSNT
+
+
+102, 1	334, 1-5	RIS	wedyn mi oedd o yn	NSNT	NSNT
+102, 2	334, 6-12	RIS	oedd o yn edrych yn wyllt yna	NSNT	NSNT
+102, 3	336, 1-7	RIS	achos mae o yn fawr be bynnag	NSNT	NSNT
+102, 4	336, 8-8	RIS	dydy	---	NSNT
+
+
+103, 1	337, 2-3	GLE	mae o	---	NSNT
+
+
+104, 1	338, 1-6	RIS	a wedyn oedd ei wallt o	NSNT	NSNT
+104, 2	339, 1-4	RIS	dw meddwl fath â	NSNT	NSNT
+104, 3	339, 5-8	RIS	oedd o yn boeth	NSNT	NSNT
+104, 5	341, 1-7	RIS	ac oedd ei wallt o yn chwysu	NSNT	NSNT
+104, 6	342, 1-4	RIS	aeth o yn wlyb	NSNT	NSNT
+104, 7	343, 1-10	RIS	wedyn oedd o wedi mynd fel hyn drwyddo fo yn_doedd	NSNT	NSNT
+104, 8	344, 1-7	RIS	sticio allan a llygadau mawr fel hyn	---	NSNT
+
+
+105, 1	346, 1-7	GLE	mae o yn licio fynd dros ben	NSNT	NSNT
+105, 2	346, 8-9	GLE	llestri yna	NSNT	NSNT
+105, 3	347, 1-8	GLE	*oh* *oh* bechod ond mae o yn fawr	NST	NST
+105, 4	348, 1-2	GLE	a mae	NSNT	NSNT
+105, 5	348, 3-9	GLE	basai hynna yn gallu ddychryn pobl braidd	---	NSNT
+
+
+106, 1	349, 1-4	RIS	mae o yn dychryn	NSNT	NSNT
+106, 3	351, 1-8	RIS	achos baswn i yn sefyll yn_ôl a mynd	---	NSNT
+
+
+107, 1	355, 1-7	GLE	ia dw i yn meddwl hynna weithiau	---	NSNT
+
+
+108, 1	356, 1-3	RIS	dipyn bach gormod	---	NSNT
+
+
+109, 1	358, 1-5	GLE	dw i ddim yn meddwl	NSNT	NSNT
+109, 2	358, 6-9	GLE	bod o yn sylweddoli	NSNT	NSNT
+109, 3	358, 10-10	GLE	sti	---	NSNT
+
+
+110, 1	359, 1-8	RIS	*oh* wyt ti wedi weld o yn ddiweddar	---	NST
+
+
+111, 1	360, 1-1	GLE	naddo	NSNT	NSNT
+111, 2	360, 2-9	GLE	dw i ddim wedi weld o ers ychydig	NSNT	NSNT
+111, 3	362, 1-8	GLE	o'n i yn tynnu goes o ar *M_S_N*	NST	NST
+111, 4	363, 1-4	GLE	achos mae o yn	NSNT	NSNT
+111, 5	363, 5-14	GLE	mae o yn *er* wario ychydig o amser efo *Joanne*	NST	NST
+111, 6	365, 1-6	GLE	ti wedi ti wedi weld *Joanne*	NST	NST
+111, 7	367, 1-4	GLE	dw i yn meddwl	NSNT	NSNT
+111, 8	367, 5-11	GLE	bod *Joanne* yn hoff iawn ohono fo	NST	NST
+111, 9	369, 1-11	GLE	baswn i yn licio weld y ddau ohonyn nhw efo ei_gilydd	NSNT	NSNT
+111, 10	370, 1-4	GLE	ond gawn ni weld	NSNT	NSNT
+111, 11	370, 5-7	GLE	gawn ni weld	NSNT	NSNT
+111, 12	371, 1-4	GLE	croesi bysedd a ballu	NSNT	NSNT
+111, 14	373, 1-8	GLE	a dw i yn gallu ddeud hynna wan	NSNT	NSNT
+111, 15	374, 1-7	GLE	achos oedd pobl o blaen yn mynd	NSNT	NSNT
+111, 16	375, 1-7	GLE	does gen ti ddim cariad chwaith *Glenys*	NST	NST
+111, 17	376, 1-8	GLE	felly does gen ti ddim lle i siarad	NSNT	NSNT
+111, 18	377, 1-5	GLE	ond mae gen i rŵan	NSNT	NSNT
+111, 19	378, 1-9	GLE	felly dyn nhw ddim yn gallu ddeud dim_byd *er*	---	NST
+
+
+112, 1	379, 1-6	RIS	ond dw i isio text_io rhywbryd	NSNT	SNT
+112, 2	380, 1-11	RIS	dw i yn meddwl mod i wedi roi llyfr iddo fo	NSNT	NSNT
+112, 3	381, 1-6	RIS	a dw i ddim yn cofio	NSNT	NSNT
+112, 4	382, 1-2	RIS	dw meddwl	NSNT	NSNT
+112, 5	382, 3-11	RIS	oedden ni yn fod yn symud yn_ôl dydd Sul	NSNT	NSNT
+112, 6	383, 1-18	RIS	ond achos o'n i yn wneud peth arweinwyr cyfoed o'n i yn cael mynd yn_dôl pnawn dydd Sadwrn	NSNT	NSNT
+112, 7	385, 1-6	RIS	*so* es i mynd dydd Sadwrn	NST	NST
+112, 8	386, 1-9	RIS	ac oedd pobl ddim yn cyrraedd tan dydd Sul	NSNT	NSNT
+112, 9	387, 1-2	RIS	*so* oedd	NST	NST
+112, 10	387, 3-8	RIS	genna i twenty_four hours i wastio	NSNT	SNT
+112, 11	388, 1-4	RIS	genna i ddim darlithoedd	NSNT	NSNT
+112, 12	389, 2-7	RIS	genna i ddim_byd i wneud *so*	NST	NST
+112, 13	390, 1-7	RIS	*oh* wna i mynd drwy fan hyn	---	NST
+
+
+113, 1	391, 1-5	GLE	be sy yn bechod *um*	NST	NST
+113, 2	391, 6-15	GLE	dw i wedi gorffen y llyfr o'n i yn ddarllen	NSNT	NSNT
+113, 3	392, 1-6	GLE	ti yn gwybod yr un *We_Need_to_Talk_About_Kevin*	NST	NST
+113, 4	394, 1-6	GLE	ofnadwy o diddorol o llyfr de	NSNT	NSNT
+113, 5	396, 1-7	GLE	ac oedd o yn un *right* dew	NST	NST
+113, 6	397, 1-8	GLE	oedd o rywbeth fath â pedwar can tudalen	---	NSNT
+
+
+114, 1	398, 1-3	RIS	gosh llyfr mawr	---	SNT
+
+
+115, 1	399, 1-3	GLE	dw i wedi	NSNT	NSNT
+115, 2	399, 4-9	GLE	dw i wedi gorffen hi wan	NSNT	NSNT
+115, 3	400, 1-4	GLE	a dw i feddwl	NSNT	NSNT
+115, 4	401, 1-7	GLE	*oh* does gen i ddim_byd i ddarllen	NST	NST
+115, 5	402, 1-17	GLE	a ti yn gwybod *um* ar_ôl i ti orffen llyfr da ti yn teimlo yn wag wedyn	NST	NST
+115, 6	404, 1-10	GLE	achos does gen ti ddim_byd i lenwi dy amser efo	NSNT	NSNT
+115, 7	405, 1-8	GLE	a does gen i ddim_byd yn_erbyn y teledu	NSNT	NSNT
+115, 8	406, 1-12	GLE	ond baswn i ddim yn eistedd o flaen o trwy yr dydd	NSNT	NSNT
+115, 9	407, 1-1	GLE	felly	---	NSNT
+
+
+116, 1	408, 1-4	RIS	mae yn ddiflas braidd	---	NSNT
+
+
+117, 1	409, 1-4	GLE	a mae gen i	NSNT	NSNT
+117, 2	409, 5-19	GLE	a mae gen i darlithoedd a hyn a a hyn a llall i astudio felly	---	NSNT
+
+
+118, 1	410, 1-3	RIS	*hmm* dw i	NST	NST
+118, 2	410, 4-7	RIS	dw i yn cymryd	NSNT	NSNT
+118, 3	410, 8-10	RIS	oes i ddarllen	NSNT	NSNT
+118, 4	410, 11-12	RIS	be sy	NSNT	NSNT
+118, 5	410, 13-14	RIS	gynna i	NSNT	NSNT
+118, 6	411, 1-4	RIS	*Pride_and_Prejudice* ar y funud	---	NST
+
+
+119, 1	412, 1-6	GLE	*oh* be o'ch chi yn feddwl	---	NST
+
+
+120, 1	413, 1-10	RIS	a dw i ddim yn gweld dim_byd da yno fo	---	NSNT
+
+
+121, 1	414, 1-4	GLE	nac wyt dim_byd o_gwbl	---	NSNT
+
+
+122, 1	415, 1-4	RIS	well gynna i *Jane_Eyre*	NST	NST
+122, 2	416, 1-6	RIS	dw i ddim yn licio fo	NSNT	NSNT
+122, 3	417, 1-3	RIS	mae o yn	---	NSNT
+
+
+123, 1	418, 1-7	GLE	dw ddim wedi ddarllen *Jane_Eyre* ti weld	---	NST
+
+
+124, 1	419, 1-2	RIS	*oh* naddo	---	NST
+
+
+125, 1	420, 1-5	GLE	dw i angen ddarllen hynna	NSNT	NSNT
+125, 2	421, 1-4	GLE	dw i wedi clywed	NSNT	NSNT
+125, 3	421, 5-8	GLE	bod o yn dda	---	NSNT
+
+
+126, 1	422, 1-4	RIS	dw i licio *Jane_Eyre*	NST	NST
+126, 2	423, 1-3	RIS	ond mae hwn	NSNT	NSNT
+126, 3	423, 4-6	RIS	mae o yn	---	NSNT
+
+
+127, 1	424, 1-5	GLE	mae *Jane_Eyre* *right* drist yn_tydy	---	NST
+
+
+128, 1	425, 1-4	RIS	mae o yn drist	NSNT	NSNT
+128, 2	426, 1-6	RIS	ond o leia bod yna *story*	NST	NST
+128, 3	426, 7-9	RIS	gall iddo fo	NSNT	NSNT
+128, 4	428, 1-3	RIS	does yna ddim	NSNT	NSNT
+128, 5	428, 4-11	RIS	dw i ddim yn gweld *story* i *Pride_and_Prejudice*	NST	NST
+128, 6	429, 1-5	RIS	mae o yn *just* *oh*	---	NST
+
+
+129, 1	430, 1-5	GLE	na ond os ti yn	---	NSNT
+
+
+130, 1	431, 1-3	RIS	*Elizabeth* said this	NST	NST
+130, 2	432, 1-4	RIS	and *Mr_Darcy* said this	NST	NST
+130, 3	433, 1-5	RIS	and then *Jane* said this	NST	NST
+130, 5	435, 1-5	RIS	and the following conversation resumed	SNT	NSNT
+130, 6	436, 1-16	RIS	a mae yna ryw *baragraph* a tudalennau o ryw peth yna o sgwrsio di_ben_draw am rwtsh	NST	NST
+130, 8	438, 1-6	RIS	a wedyn mae nhw deud rywbeth	---	NSNT
+
+
+131, 1	439, 1-9	GLE	ia ond dydy o ddim yn rwtsh iddyn nhw	NSNT	NSNT
+131, 2	440, 1-11	GLE	achos os ti yn edrych ar y cyfnod yn hanes de	NSNT	NSNT
+131, 3	442, 1-15	GLE	ac yn enwedig ti yn gwybod fath â dim y pobl tlawd mae hyn amdan	NSNT	NSNT
+131, 4	443, 1-13	GLE	mae hyn amdan y pobl ti yn gwybod eitha cyfoethog middle *class* felly	NST	ST
+131, 5	444, 1-2	GLE	a does	NSNT	NSNT
+131, 6	444, 3-10	GLE	gynnon nhw ddim llawer o ddim_byd i wneud	NSNT	NSNT
+131, 7	446, 1-4	GLE	felly mae nhw yn	NSNT	NSNT
+131, 8	446, 5-13	GLE	os mae nhw yn weld pethau yn *right* fawr	NST	NST
+131, 9	447, 1-2	GLE	achos does	NSNT	NSNT
+131, 10	447, 3-5	GLE	gynnon nhw ddim	---	NSNT
+
+
+132, 1	448, 1-8	RIS	*well* ia ond oedd *Jane_Eyre* yr un cyfnod	NST	NST
+132, 2	449, 1-11	RIS	a mi ddaru *Brontë* sgwennu wneud *job* *lot* gwell na *Jane_Austen*	---	NST
+
+
+133, 1	450, 1-2	GLE	ti feddwl	---	NSNT
+
+
+134, 1	451, 1-4	RIS	dw i yn meddwl	NSNT	NSNT
+134, 2	452, 1-3	RIS	dw i meddwl	---	NSNT
+
+
+135, 1	453, 1-4	GLE	dw ddim yn *sure*	NST	NST
+135, 2	454, 1-6	GLE	achos dw ddim wedi ddarllen *Jane_Eyre*	NST	NST
+135, 3	455, 1-4	GLE	felly dw ddim yn	NSNT	NSNT
+135, 4	455, 5-14	GLE	dw ddim yn *sure* am y *plot* ddeud y gwir	NST	NST
+135, 5	457, 1-4	GLE	dw i yn gwybod	NSNT	NSNT
+135, 6	457, 5-12	GLE	mae nhw wedi wneud cyfres ar *B_B_C* wan	NST	NST
+135, 7	458, 1-8	GLE	a mae *mam* a *dad* yn wylio hi	NST	NST
+135, 8	459, 1-10	GLE	ond dw i byth yn cerdded fewn yn ganol rywbeth	NSNT	NSNT
+135, 9	460, 1-6	GLE	achos dw i cymysgu lân wedyn	---	NSNT
+
+
+136, 1	461, 1-6	RIS	*oh* na ond timod efo *Jane_Eyre*	NST	NST
+136, 2	461, 7-7	RIS	mae	---	NSNT
+
+
+137, 1	462, 1-3	GLE	yn lladd pobl	---	NSNT
+
+
+138, 1	463, 1-2	RIS	*well* rhoid	NST	NST
+138, 2	463, 3-16	RIS	rhoid y gwely ar dân a pethau trio lladd pobl *um* pethau fel yna	---	NST
+
+
+139, 1	465, 1-10	GLE	a mae nhw wedi cloi hi ffwrdd yn yr *attic*	---	NST
+
+
+140, 1	466, 1-12	RIS	a mae nhw wedi cloi hi ffwrdd yn yr yn yr *attic*	---	NST
+
+
+141, 1	468, 1-5	GLE	be mae nhw yn wneud	NSNT	NSNT
+141, 2	469, 1-6	GLE	lluchio bwyd i_fyny iddi *scraps* iddi	---	NST
+
+
+142, 1	470, 1-4	RIS	na mae yna forwyn	NSNT	NSNT
+142, 2	471, 1-10	RIS	mae yna forwyn yn cael mynd i_fyny i weld hi	NSNT	NSNT
+142, 3	472, 1-6	RIS	ond does neb arall yn cael	NSNT	NSNT

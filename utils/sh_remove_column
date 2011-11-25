@@ -1,0 +1,41 @@
+#!/bin/sh
+
+#/* 
+#*********************************************************************
+#Copyright Kevin Donnelly 2010, 2011.
+#kevindonnelly.org.uk
+#This file is part of the Bangor Autoglosser.
+#
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License and the GNU
+#Affero General Public License as published by the Free Software
+#Foundation, either version 3 of the License, or (at your option)
+#any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#and the GNU Affero General Public License along with this program.
+#If not, see <http://www.gnu.org/licenses/>.
+#*********************************************************************
+#*/ 
+
+# This script removes the 6th column of a tab-delimited _cog file.
+
+FILES=cognates/outputs/*_cog.txt
+for f in $FILES
+do
+	echo "Processing $f ..."
+	awk 'BEGIN { FS = "\t"; OFS="\t" } { $6=""; gsub("\t+","\t"); gsub("^\t$",""); print }' $f > tmp && mv tmp $f
+	sed -i 's/^$/\n/' $f
+done
+
+#  The awk line specifies the input and output field-separators as tabs, deletes column 6, folds multiple tabs (the field-separators are left when the contents of the field are deleted!) into one, and then deletes the tab that has been left in the blank lines.  Each file is written to a temporary file, and then the temporary file replaces the original file (a sort of edit-in-place).
+
+#  The sed line doubles the empty lines to provide more delineation between speech-turns.
+
+#  Note that the awk can be replaced more simply by cut: cut -f -5,7- $f > tmp && mv tmp $f, which has none of the hassles with tabs! 
+

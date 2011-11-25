@@ -1,0 +1,3591 @@
+
+
+1, 1	1, 1-4	HEU	lle fuest ti heddiw	NSNT	NSNT
+1, 2	1, 5-6	HEU	ta *boy*	---	NST
+
+
+2, 1	2, 1-8	BLW	wnes i fynd i tŷ *Ann* ar_ôl ysgol	---	NST
+
+
+3, 1	4, 1-3	HEU	sut mae nhw	NSNT	NSNT
+3, 2	5, 1-6	HEU	dyn nhw setlo fewn yn iawn	---	NSNT
+
+
+4, 1	6, 1-4	BLW	mae yn lle lovely	SNT	SNT
+4, 2	7, 1-10	BLW	a wnaeth ni fynd i *Llangollen* am un drink hefyd	---	ST
+
+
+5, 1	8, 1-2	HEU	da iawn	---	NSNT
+
+
+6, 1	9, 1-5	BLW	dw i ddim ar *Big_Brother*	---	NST
+
+
+7, 1	10, 1-5	IFA	ti ddim ar *Big_Brother* *Blod*	---	NST
+
+
+8, 1	11, 1-3	HEU	nag oes *sure*	---	NST
+
+
+9, 1	12, 1-8	IFA	a brawd *Bob* wedi seinio yr Official_Secrets_Act sti	---	ST
+
+
+10, 1	13, 1-1	BLW	be	---	NSNT
+
+
+11, 1	14, 1-4	IFA	wedi seinio yr Official_Secrets_Act	NSNT	SNT
+11, 3	16, 1-7	IFA	Official_Secrets_Act ti erioed wedi clywed am hynna	NSNT	SNT
+11, 4	18, 1-1	IFA	naddo	---	NSNT
+
+
+12, 1	19, 1-4	BLW	dw i mor llwglyd	NSNT	NSNT
+12, 2	20, 1-4	BLW	be ddylai fi fwyta	---	NSNT
+
+
+13, 1	21, 1-3	HEU	*well* ges i	NST	NST
+13, 2	21, 4-5	HEU	yn_de cous_cous	---	SNT
+
+
+14, 1	22, 1-1	BLW	ych	---	NSNT
+
+
+15, 1	23, 1-3	HEU	efo *chilli* beans	---	ST
+
+
+16, 1	24, 1-1	BLW	ych	---	NSNT
+
+
+17, 1	25, 1-6	HEU	a *sweet* *chilli* *sweet* *chilli* *sauce*	---	NST
+
+
+18, 1	26, 1-3	BLW	ti yn freak	---	SNT
+
+
+19, 1	27, 1-7	HEU	ac *avocado* wedi dorri fewn iddo fo	NST	NST
+19, 2	28, 1-4	HEU	oedd o yn fendigedig	---	NSNT
+
+
+20, 1	29, 1-2	BLW	ti disgusting	---	SNT
+
+
+21, 1	30, 1-2	IFA	be sy	NSNT	NSNT
+21, 2	30, 3-7	IFA	yn bod ar hynna *Blodeuwedd*	---	NST
+
+
+22, 1	31, 1-6	BLW	*sweet* *chilli* *sauce* *chilli* beans cous_cous	---	NST
+
+
+23, 1	32, 1-5	IFA	be ti am gael ta	---	NSNT
+
+
+24, 1	33, 1-2	BLW	rywbeth diddorol	---	NSNT
+
+
+25, 1	34, 1-3	HEU	fath â be	---	NSNT
+
+
+26, 1	36, 1-2	BLW	casáu annwyd	NSNT	NSNT
+26, 2	37, 1-4	BLW	*so* *o_k* triptych fi	---	NST
+
+
+27, 1	38, 1-5	IFA	*um* mae isio pren *er*	---	NST
+
+
+28, 1	39, 1-3	BLW	dw i isio	NSNT	NSNT
+28, 2	39, 4-13	BLW	dw i isio bob section fod tua hyn o fawr	---	SNT
+
+
+29, 1	40, 1-1	IFA	faint	---	NSNT
+
+
+30, 1	41, 1-1	BLW	hyn	NSNT	NSNT
+30, 2	43, 1-4	BLW	mae tri o rhein	---	NSNT
+
+
+31, 1	44, 1-1	IFA	*well*	---	NST
+
+
+32, 1	45, 1-7	BLW	a dw i *just* angen ffrâm pren	---	NST
+
+
+33, 1	46, 1-5	IFA	pryd ti isio wneud o	---	NSNT
+
+
+34, 1	47, 1-1	BLW	a_s_a_p	---	NSNT
+
+
+35, 1	48, 1-2	IFA	dros weekend	SNT	SNT
+35, 2	50, 1-4	IFA	*yeah* iawn fair enough	ST	ST
+35, 3	51, 1-6	IFA	gei di ddod efo fi *er*	---	NST
+
+
+36, 1	52, 1-9	HEU	toes dim raid gael o heno felly nag oes	---	NSNT
+
+
+37, 1	53, 1-2	IFA	i *B_and_Q*	NST	NST
+37, 2	54, 1-7	IFA	*well* ti heb y *car* heno felly	NST	NST
+37, 3	55, 1-2	IFA	wna i	NSNT	NSNT
+37, 4	55, 3-10	IFA	fydd raid ni gael pren i chdi felly	NSNT	NSNT
+37, 5	55, 11-11	IFA	bydd	NSNT	NSNT
+37, 6	56, 1-3	IFA	a wnawn ni	NSNT	NSNT
+37, 7	56, 4-16	IFA	wnawn ni fynd lawr efo ein_gilydd i *B_and_Q* peth cynta bore dydd Sadwrn	---	NST
+
+
+38, 1	57, 1-2	BLW	bydd *well*	NST	NST
+38, 2	58, 1-6	BLW	*o_k* *yeah* achos y *thing* ydy	NST	NST
+38, 3	58, 7-9	BLW	dw i wedi	---	NSNT
+
+
+39, 1	59, 1-4	IFA	neu neu nos fory	---	NSNT
+
+
+40, 1	60, 1-6	BLW	mae *Miss* wedi ffeindio allan heddiw	NST	NST
+40, 2	60, 7-17	BLW	bod yr *er* coursework angen cael ei orffen mis yn gynt	---	ST
+
+
+41, 1	62, 1-7	IFA	ydy yr lluniau wedi gwneud gen ti	---	NSNT
+
+
+42, 1	63, 1-6	BLW	sydd yn meddwl bod gynno fi	NSNT	NSNT
+42, 2	64, 1-2	BLW	nag ydy	NSNT	NSNT
+42, 3	65, 1-10	BLW	achos dw i angen y pren i roi nhw ar	---	NSNT
+
+
+43, 1	66, 1-12	IFA	be ti yn ti mynd i wneud y lluniau ar y pren	---	NSNT
+
+
+44, 1	67, 1-1	BLW	yndw	NSNT	NSNT
+44, 2	67, 2-11	BLW	dw i am staple_o yr *silk* ar cefn y pren	---	ST
+
+
+45, 1	68, 1-5	IFA	a wedyn gwneud y lluniau	NSNT	NSNT
+45, 2	69, 1-7	IFA	*so* ti yn ti wneud hynna gynta	---	NST
+
+
+46, 1	70, 1-16	HEU	ti ddim yn *sure* na na na pren wyt ti isio ta fath â ffrâm bren	---	NST
+
+
+47, 1	71, 1-2	BLW	ffrâm pren	NSNT	NSNT
+47, 2	72, 1-2	BLW	tri ffrâm	---	NSNT
+
+
+48, 1	73, 1-8	HEU	a a wedyn stretsio yr *silk* drosto fo	---	NST
+
+
+49, 1	74, 1-11	IFA	*well* fedra i ga i drafferth wneud hynna i chdi de	NST	NST
+49, 2	75, 1-7	IFA	ga i drafferth wneud fframiau i chdi	NSNT	NSNT
+49, 3	76, 1-3	IFA	ond fedra i	NSNT	NSNT
+49, 4	76, 4-7	IFA	be fedra i wneud	NSNT	NSNT
+49, 5	76, 9-18	IFA	ydy cael *board* iawn a a torri fo yn dri	---	NST
+
+
+50, 1	77, 1-5	BLW	na dw i angen ffrâm	NSNT	NSNT
+50, 2	78, 1-5	BLW	os fedra i brynu fframiau	---	NSNT
+
+
+51, 1	79, 1-10	IFA	*well* dydyn nhw ddim math o bethau fedri di brynu	NST	NST
+51, 2	79, 11-11	IFA	sti	NSNT	NSNT
+51, 3	79, 12-13	IFA	nag ydyn	---	NSNT
+
+
+52, 1	80, 1-6	HEU	pam ti angen ffrâm fwy na	---	NSNT
+
+
+53, 1	82, 1-16	BLW	achos os ti stretsio *silk* drost ti ddim yn cael yr effaith ti angen efo *silk*	---	NST
+
+
+54, 1	83, 1-2	IFA	*alright* *Blod*	ST	NST
+54, 2	84, 1-7	IFA	wna i wneud tri ffrâm i chdi	---	NSNT
+
+
+55, 1	85, 1-6	BLW	fedran ni ddim prynu tri ffrâm	---	NSNT
+
+
+56, 1	86, 1-7	IFA	na ddim math o beth fedri brynu	NSNT	NSNT
+56, 2	87, 1-3	IFA	a wna i	NSNT	NSNT
+56, 3	87, 4-11	IFA	wna i wneud tri ffrâm i chdi iawn	NSNT	NSNT
+56, 4	88, 1-8	IFA	a wedyn fydd rhaid ni gael y coed	NSNT	NSNT
+56, 5	89, 1-7	IFA	wna i wneud o i chdi bore	NSNT	NSNT
+56, 6	90, 1-5	IFA	be dan ni wneud be	NSNT	NSNT
+56, 7	90, 6-10	IFA	be ydy *plans* weekend yma	NST	ST
+56, 8	91, 2-9	IFA	gynnon ni rywbeth ar y gweill weekend yma	---	SNT
+
+
+57, 1	92, 1-9	HEU	*um* *oh* *just* bod fi yn gwarchod cath *Bev*	---	NST
+
+
+58, 1	93, 1-4	IFA	*oh* does yna ddim_byd	NST	NST
+58, 2	93, 5-7	IFA	nag oes ddim_byd	---	NSNT
+
+
+59, 1	94, 1-2	HEU	nag oes	---	NSNT
+
+
+60, 1	95, 1-2	BLW	*oh* *Mam*	---	NST
+
+
+61, 1	97, 1-7	IFA	ond fydd raid chdi ddod efo fi	---	NSNT
+
+
+62, 1	98, 1-3	HEU	*oh* mae sâl	---	NST
+
+
+63, 1	99, 1-8	IFA	fydd raid chdi ddod efo fi yn gynnar	---	NSNT
+
+
+64, 1	101, 1-1	HEU	bechod	NSNT	NSNT
+64, 2	102, 1-12	HEU	nac ydy mynd â hi *just* mynd i newid hi fan yna	NST	NST
+64, 3	102, 13-14	HEU	dw i	---	NSNT
+
+
+65, 1	103, 1-10	IFA	fydd raid chdi ddod efo fi yn gynnar dydd Sadwrn	NSNT	NSNT
+65, 2	104, 1-8	IFA	*o_k* a wna i wneud o i chdi	NST	NST
+65, 3	105, 1-11	IFA	a erbyn amser cinio dydd Sadwrn fydda i wedi wneud o	---	NSNT
+
+
+66, 1	106, 1-1	BLW	diolch	---	NSNT
+
+
+67, 1	107, 1-4	IFA	neu erbyn canol pnawn	NSNT	NSNT
+67, 2	108, 1-16	IFA	a wedyn fedri di wneud dy luniau arnyn nhw wedyn dydd nos Sadwrn a dydd Sul	---	NSNT
+
+
+68, 1	109, 1-9	BLW	na fydd raid i fi wneud o yn ysgol	NSNT	NSNT
+68, 3	111, 1-4	BLW	mae *just* yn *handy*	NST	NST
+68, 4	112, 1-5	BLW	achos na triptych ydy o	NSNT	NSNT
+68, 5	113, 1-11	BLW	achos fedra i *just* fold_io fo fyny un *thing* *size* yna	---	ST
+
+
+69, 1	114, 1-14	IFA	*o_k* ond fydd raid chdi ddod efo fi iawn i fi gael esbonio chdi	NST	NST
+69, 2	114, 15-23	IFA	be dan ni wneud ar_ôl ni gyrraedd a be	NSNT	NSNT
+69, 3	114, 24-29	IFA	be dan ni yn brynu felly	---	NSNT
+
+
+70, 1	116, 1-5	BLW	*so* *just* jigsaw neu rywbeth	---	ST
+
+
+71, 1	117, 1-5	HEU	i wneud ffrâm ti feddwl	---	NSNT
+
+
+72, 1	118, 1-5	IFA	be be sy raid wneud	NSNT	NSNT
+72, 3	118, 30-38	IFA	yn_de a wneud nhw yn *um* tri tri rectangle	ST	ST
+72, 4	119, 1-3	IFA	ga i weld	NSNT	NSNT
+72, 5	120, 1-15	IFA	a roid *um* tamaid o goed ar y corneli i i i ddal nhw *sound*	NST	NST
+72, 6	123, 1-4	IFA	dyna be ti isio	---	NSNT
+
+
+73, 1	124, 1-7	BLW	peintio yr coed wedyn *so* dydy o	NST	NST
+73, 2	126, 1-11	BLW	dw i yn peintio yr coeden actually ddu neu coch wedyn	---	SNT
+
+
+74, 1	127, 1-3	HEU	ond fydd ysti	NSNT	NSNT
+74, 2	127, 5-7	HEU	fydd y *silk*	NST	NST
+74, 3	127, 8-11	HEU	fydd y *silk* yn	NST	NST
+74, 4	127, 12-20	HEU	os wyt ti yn stretsio fo dros y coedyn	NSNT	NSNT
+74, 5	127, 21-26	HEU	fydd ti ddim gweld y coedyn	---	NSNT
+
+
+75, 1	128, 1-10	BLW	dydy o ddim yn cael ei stretsio dros y coedyn	---	NSNT
+
+
+76, 1	129, 1-4	IFA	*well* be ti feddwl	NST	NST
+76, 2	131, 1-11	IFA	os dydy o ddim yn cael ei stretsio dros y coedyn	---	NSNT
+
+
+77, 1	132, 1-9	BLW	mae o yn cael ei staple_o ar y cefn	---	SNT
+
+
+78, 1	133, 1-11	IFA	ond mae hynna yn golygu cael ei stretsio ar y goedyn	NSNT	NSNT
+78, 2	133, 12-12	IFA	dydy	---	NSNT
+
+
+79, 1	134, 2-9	BLW	ond mae yr *front* wedyn dal ar show	ST	ST
+79, 2	135, 1-3	BLW	yn y *front*	---	NST
+
+
+80, 1	136, 1-3	HEU	*oh* wela i	NST	NST
+80, 2	138, 1-2	HEU	*just* un	---	NST
+
+
+81, 1	139, 1-11	IFA	y pren ar y *front* yn dal i gael ei weld	NST	NST
+81, 2	141, 1-7	IFA	dw i ddim yn dallt hynna *Blod*	---	NST
+
+
+82, 1	142, 1-1	HEU	mae	NSNT	NSNT
+82, 2	142, 2-4	HEU	mae yna ysti	---	NSNT
+
+
+83, 1	143, 1-11	IFA	raid chdi wneud raid chdi wneud llun i ni i esbonio	---	NSNT
+
+
+84, 1	144, 1-7	HEU	na fedra i ddallt hynna yn iawn	---	NSNT
+
+
+85, 1	145, 1-3	IFA	fedra i ddim	NSNT	NSNT
+85, 3	147, 1-7	IFA	a fi sy yn gorod wneud o	NSNT	NSNT
+85, 4	148, 1-4	IFA	*so* mae yn bwysig	NST	NST
+85, 5	148, 5-8	IFA	bod fi ddallt o	NSNT	NSNT
+85, 6	148, 9-9	IFA	dydy	---	NSNT
+
+
+86, 1	149, 1-4	BLW	dw i ddim yn	---	NSNT
+
+
+87, 1	150, 1-6	HEU	*Ifan* *just* meddwl am y peth	---	NST
+
+
+88, 1	151, 1-1	IFA	dos	NSNT	NSNT
+88, 2	151, 2-6	IFA	*just* wna llun ohono fo	NST	NST
+88, 3	152, 1-5	IFA	dw i ddim yn dallt	---	NSNT
+
+
+89, 1	153, 1-4	HEU	meddwl am y peth	---	NSNT
+
+
+90, 1	154, 1-5	IFA	dw i ddim yn dallt	---	NSNT
+
+
+91, 1	155, 1-10	HEU	os gen ti ffrâm mae yr pren yn eitha trwchus	NSNT	NSNT
+91, 2	155, 11-11	HEU	tydy	NSNT	NSNT
+91, 3	156, 1-10	HEU	mae yr *silk* ar y blaen a mynd yn *sound*	NST	NST
+91, 4	157, 1-9	HEU	a wedyn mae gen ti y cefn heb yn	NSNT	NSNT
+91, 5	157, 10-11	HEU	rhydd yn	NSNT	NSNT
+91, 6	157, 12-18	HEU	sti heb ddim_byd yn drosto fo wedyn	NSNT	NSNT
+91, 7	157, 19-19	HEU	does	---	NSNT
+
+
+91, 8	158, 1-3	HEU	cefn y ffrâm	---	NSNT
+
+
+93, 1	160, 1-11	HEU	*well* mi fydd o tu allan un ochr i ffrâm de	NST	NST
+93, 2	162, 1-10	HEU	mae o tu ochr tu allan un ochr i ffrâm	---	NSNT
+
+
+94, 1	163, 1-5	IFA	gen ti luniau fan yna	---	NSNT
+
+
+95, 1	165, 1-2	BLW	fel yma	NSNT	NSNT
+95, 2	167, 1-9	BLW	*o_k* heblaw bod o yn sgwâr *just* rectangles triangles	---	ST
+
+
+96, 1	169, 1-5	IFA	*oh* dw i yn gweld	NST	NST
+96, 2	170, 1-5	IFA	*oh* fydd raid i fo	NST	NST
+96, 3	170, 6-6	IFA	mae	NSNT	NSNT
+96, 4	170, 7-14	IFA	mae raid o fod *right* chwaethus felly hefyd	NST	NST
+96, 5	171, 1-7	IFA	ydy *um* be ti yn galw fo	NST	NST
+96, 6	171, 8-9	IFA	ydy hwnna	---	NSNT
+
+
+97, 1	172, 1-1	BLW	triptych	---	NSNT
+
+
+98, 1	173, 1-10	IFA	ia ond mae hwnna *um* ffrâm ar y tu allan	NST	NST
+98, 2	173, 11-12	IFA	ydy hwnna	NSNT	NSNT
+98, 3	173, 13-16	IFA	de fath â hwn	NSNT	NSNT
+98, 4	175, 1-11	IFA	iawn *so* ti ti angen *so* ti angen bordyn ti angen	NST	NST
+98, 5	176, 1-14	IFA	mi fedran ni wneud o ffordd o'n i feddwl ddechrau *just* cael bordyn iawn	---	NST
+
+
+99, 1	177, 1-6	BLW	na y *thing* ydy efo sidan	NST	NST
+99, 2	177, 7-18	BLW	dw i angen o fod yn see_through achos y *thing* efo sidan	---	ST
+
+
+99, 3	177, 20-23	BLW	mae o yn see_through	---	SNT
+
+
+101, 1	181, 1-1	BLW	*so*	---	NST
+
+
+102, 1	182, 1-8	IFA	*so* really really de be ti ti yn	NST	ST
+102, 2	183, 1-6	IFA	*o_k* dw i wedi dallt wan	NST	NST
+102, 3	184, 1-15	IFA	ti stretsio fo ar cefn y ffrâm dwyt yn hytrach na ar *front* y ffrâm	NST	NST
+102, 4	186, 1-9	IFA	*right* mae wneud o dipyn anoddach i wneud o	NST	NST
+102, 5	186, 10-10	IFA	sti	NSNT	NSNT
+102, 6	187, 1-5	IFA	mae wneud o dipyn anoddach	---	NSNT
+
+
+103, 1	188, 1-4	BLW	be ddylwn i wneud	---	NSNT
+
+
+104, 1	189, 1-6	IFA	dw i really ddim yn gwybod	NSNT	SNT
+104, 2	190, 1-6	IFA	raid i fi feddwl amdano fo	NSNT	NSNT
+104, 3	191, 1-3	IFA	mae wneud o	NSNT	NSNT
+104, 4	191, 4-11	IFA	mae *right* anodd wneud wneud ffrâm fel yna	---	NST
+
+
+105, 1	192, 1-2	BLW	dw i	NSNT	NSNT
+105, 2	192, 3-11	BLW	fedra i ddim cael *board* tu ôl iddo fo	---	NST
+
+
+106, 1	193, 1-1	IFA	*pardon*	---	NST
+
+
+107, 1	194, 1-9	BLW	fedra i ddim cael *board* tu ôl iddo fo	---	NST
+
+
+108, 1	195, 1-3	IFA	iawn *alright* then	---	ST
+
+
+109, 1	196, 1-10	BLW	os ti ddim isio wneud fedra i ofyn i rhywun	NSNT	NSNT
+109, 2	196, 11-13	BLW	sy wneud technoleg	---	NSNT
+
+
+110, 1	197, 1-8	IFA	*um* *well* dim bod fi ddim isio wneud	NST	NST
+110, 2	197, 9-12	IFA	ond mae yn anodd	NSNT	NSNT
+110, 3	197, 13-14	IFA	ydy o	NSNT	NSNT
+110, 4	198, 1-7	IFA	timod os ti isio fo yn iawn	NSNT	NSNT
+110, 5	198, 9-9	IFA	mae	NSNT	NSNT
+110, 6	198, 10-16	IFA	dydy o ddim y math o beth	NSNT	NSNT
+110, 7	198, 17-18	IFA	fedra i	NSNT	NSNT
+110, 8	198, 19-24	IFA	fedra i wneud yn rhwydd iawn	NSNT	NSNT
+110, 9	199, 1-2	IFA	basai ella	NSNT	NSNT
+110, 10	199, 3-8	IFA	basai *Adam* yn gallu wneud o	NST	NST
+110, 11	199, 9-15	IFA	ond fydd yr amser ddim gynno fo	NSNT	NSNT
+110, 12	199, 16-16	IFA	sti	NSNT	NSNT
+110, 13	200, 1-14	IFA	ti sti ti isio cael rywun sydd yn *right* grefftus efo coed yn hyn	NST	NST
+110, 14	200, 15-15	IFA	sti	---	NSNT
+
+
+111, 1	201, 1-2	BLW	dw i	---	NSNT
+
+
+112, 1	202, 1-6	IFA	dw i yn gwybod am rywun	NSNT	NSNT
+112, 2	202, 7-11	IFA	fasai yn gallu wneud o	NSNT	NSNT
+112, 3	203, 1-6	IFA	basai *Charlie* yn gallu wneud o	NST	NST
+112, 4	204, 1-7	IFA	ond *um* ond dydy o ddim yn	NST	NST
+112, 5	205, 2-9	IFA	mae isio mwy na *just* weekend i wneud	---	ST
+
+
+113, 1	206, 1-4	BLW	*Charlie* sy byw yn	---	NST
+
+
+114, 1	207, 1-8	IFA	ia oedd o wneud *stuff* yn ei *shop*	---	NST
+
+
+115, 1	208, 1-6	BLW	*Charlie* sy byw i_lawr fan yma	---	NST
+
+
+116, 1	209, 1-11	IFA	*Charlie* oedd yn dod i drwsio y dodrefn yn y *shop*	---	NST
+
+
+117, 1	211, 1-6	BLW	basai ddim yn cymryd dros weekend	---	SNT
+
+
+118, 1	212, 1-1	IFA	bysai	NSNT	NSNT
+118, 2	213, 1-12	IFA	ti ddim yn ond ella bod o wneud pethau eraill weekend yma	NSNT	SNT
+118, 3	214, 1-9	IFA	mae efo *Charlie* o'n i yn gofyn wrtho fo	NST	NST
+118, 4	214, 10-14	IFA	oedden ni gofyn wrtho fo	---	NSNT
+
+
+119, 1	215, 1-6	BLW	ti *just* efo yr tri ffrâm	---	NST
+
+
+120, 1	216, 1-7	IFA	wnei di wneud hyn i ni iawn	NSNT	NSNT
+120, 2	217, 1-6	IFA	ac oedd o yn deud iawn	NSNT	NSNT
+120, 3	218, 1-3	IFA	a oedden ni	NSNT	NSNT
+120, 4	218, 4-18	IFA	oedd o yn dod yn_ôl ryw dair wysnos wedyn i mis wedyn wedi wneud o	NSNT	NSNT
+120, 5	218, 19-19	IFA	doedd	---	NSNT
+
+
+121, 1	219, 1-8	BLW	ti *just* efo yr tri ffrâm a hinges	---	ST
+
+
+122, 1	220, 1-1	IFA	amser	NSNT	NSNT
+122, 3	222, 1-9	IFA	mae raid iddyn nhw fod yn soled iawn raid	NSNT	NSNT
+122, 4	223, 1-14	IFA	*so* mae raid chdi gael joints i chdi gael joints arbennig yn bob congl	NST	ST
+122, 5	224, 1-4	IFA	a a hefyd timod	NSNT	NSNT
+122, 6	224, 5-10	IFA	fydd raid chdi wneud *um* un_ai	NST	NST
+122, 7	224, 11-18	IFA	be mae nhw yn galw yn dove and	SNT	SNT
+122, 8	224, 19-25	IFA	timod dovetail joints un_ai rheina neu *um*	NST	ST
+122, 9	225, 1-6	IFA	*oh* dw i ddim yn cofio	NST	NST
+122, 10	225, 7-20	IFA	be mae nhw yn galw yr lleill y rhei rhei lle ti yn *um*	NST	NST
+122, 11	225, 21-27	IFA	lle mae nhw yn plethu efo ei_gilydd	---	NSNT
+
+
+123, 1	226, 1-7	BLW	baswn i ddim yn gallu *just* cael	ST	NST
+123, 2	227, 1-3	BLW	*oh* fucking wankers	ST	NST
+123, 3	228, 1-2	BLW	dim chi	SNT	NSNT
+123, 4	229, 1-1	BLW	*B_and_Q*	---	NST
+
+
+124, 1	230, 1-1	HEU	pwy	NSNT	NSNT
+124, 2	231, 1-3	HEU	pam bod *B_and_Q*	---	NST
+
+
+125, 1	232, 1-13	BLW	achos fedran ni ddim cael yr fath â pren fake yna wedi torri	---	SNT
+
+
+126, 1	233, 1-3	IFA	*oh* wna i	NST	NST
+126, 2	233, 4-5	IFA	wna i	---	NSNT
+
+
+127, 1	234, 1-4	HEU	ydy *M_D_F* ti meddwl	---	NST
+
+
+128, 1	236, 1-4	IFA	wna i drio iawn	NSNT	NSNT
+128, 2	237, 1-3	IFA	wna i drio	---	NSNT
+
+
+129, 1	238, 1-2	BLW	ddylai fi	NSNT	NSNT
+129, 2	238, 3-6	BLW	*just* gofyn iddyn nhw	---	NST
+
+
+130, 1	239, 1-5	IFA	wna i drio wneud o	---	NSNT
+
+
+131, 1	240, 1-10	HEU	oes yna ddim rhei llefydd sydd yn torri pren yn_ôl	NSNT	NSNT
+131, 2	240, 11-18	HEU	be wyt ti yn ofyn iddyn nhw wneud	---	NSNT
+
+
+132, 1	241, 1-2	IFA	ond timod	---	NSNT
+
+
+133, 1	242, 1-4	BLW	mae raid bod yna	NSNT	NSNT
+133, 2	243, 1-6	BLW	petasa chdi *just* yn cael jigsaw	---	ST
+
+
+134, 1	244, 1-8	IFA	wna i drio wneud o dydd Sadwrn iawn	NSNT	NSNT
+134, 2	245, 1-5	IFA	ond fedra i ddim gaddo	NSNT	NSNT
+134, 3	245, 6-7	IFA	wneith o	NSNT	NSNT
+134, 4	245, 8-17	IFA	fydd o ddigon da i weithio fel ti isio fo	NSNT	NSNT
+134, 5	246, 1-9	IFA	ond wna i drio wneud o bore dydd Sadwrn	---	NSNT
+
+
+135, 1	248, 1-1	BLW	diolch	NSNT	NSNT
+135, 2	249, 1-5	BLW	dw i yn teimlo yn	---	NSNT
+
+
+136, 1	250, 1-2	IFA	rhywbeth arall	---	NSNT
+
+
+137, 1	251, 1-7	HEU	ti yn swnio yn llawn annwyd *Blod*	---	NST
+
+
+138, 1	253, 1-6	BLW	dw i ddim mor wael ddrwg	NSNT	NSNT
+138, 2	253, 7-10	BLW	â o'n i ddoe	---	NSNT
+
+
+139, 1	254, 1-5	IFA	lle mae *Daniel* mynd heno	NST	NST
+139, 2	254, 6-6	IFA	ta	---	NSNT
+
+
+140, 1	255, 1-2	BLW	tŷ *Carol*	---	NST
+
+
+141, 1	256, 1-5	IFA	ydy o wedi mynd wan	NSNT	NSNT
+141, 2	257, 1-5	IFA	*so* pryd mae dod nôl	---	NST
+
+
+142, 1	258, 1-4	BLW	fucking ddim yn hwyr	NSNT	SNT
+142, 2	259, 1-9	BLW	ddyla chdi wedi deud wrtho fo pryd oedd yma	---	NSNT
+
+
+143, 1	260, 1-6	IFA	mae fyny chdi ddeud wrtho fo	NSNT	NSNT
+143, 2	261, 1-6	IFA	dy dy guest chdi ydy o	---	SNT
+
+
+144, 1	262, 1-7	BLW	mi wnes i ddeud wrtho fo un_ar_ddeg	NSNT	NSNT
+144, 2	263, 1-6	BLW	ond fucking nabod fo fydd *off*	NST	ST
+144, 3	263, 7-11	BLW	ei fucking ben erbyn un_ar_ddeg	---	SNT
+
+
+145, 1	265, 1-2	IFA	*ta_ra* *Blod*	ST	NST
+145, 2	266, 1-2	IFA	dyna ni	NSNT	NSNT
+145, 3	267, 1-10	IFA	dw i wedi cael *couple* o dexts gan *Dawn* hefyd	NST	ST
+145, 4	268, 1-6	IFA	mi oedd y *phone* nôl i_lawr	---	NST
+
+
+146, 1	269, 1-3	HEU	be ydy hi	NSNT	NSNT
+146, 2	269, 4-8	HEU	wedi bod fyny yn *Cumbria*	---	NST
+
+
+147, 1	271, 1-6	IFA	mae wedi cael penglog *special* newydd	---	NST
+
+
+148, 1	272, 1-2	HEU	o be	---	NSNT
+
+
+149, 1	273, 1-3	IFA	dw i wedi	NSNT	NSNT
+149, 2	274, 1-2	IFA	wiwer goch	---	NSNT
+
+
+150, 1	275, 1-4	HEU	*oh* *yeah* wiwer goch	NST	NST
+150, 2	278, 1-7	HEU	*oh* *Blod* bach dach chi wedi blino	---	NST
+
+
+151, 1	279, 1-1	BLW	dw	---	NSNT
+
+
+152, 1	280, 1-9	HEU	ti *sure* bod ti fod i wneud hynna *Ifan*	NST	NST
+152, 2	282, 1-8	HEU	ti *sure* bod ti fod i wneud hynna	---	NST
+
+
+153, 1	283, 1-4	IFA	*oh* wnes i anghofio	NST	NST
+153, 2	284, 1-4	IFA	diolch am atgoffa fi	---	NSNT
+
+
+154, 1	285, 1-6	BLW	*ha_ha* finally something silenced the beast	---	NST
+
+
+155, 1	286, 1-2	IFA	*ha_ha* *Blod*	---	NST
+
+
+156, 1	287, 1-7	HEU	mae *Elizabeth* yn dod draw i aros	---	NST
+
+
+157, 1	288, 1-8	IFA	*so* gest ti ddiwrnod go_lew yn yr ysgol	NST	NST
+157, 2	288, 9-14	IFA	ta ar wahân i dy *driptych*	---	NST
+
+
+158, 1	289, 1-4	BLW	dw i yn falch	NSNT	NSNT
+158, 2	290, 1-5	BLW	dw i yn caru *Liz*	---	NST
+
+
+159, 1	291, 1-12	IFA	gest ti ddiwrnod go_lew yn yr ysgol ar wahân i dy *driptych*	---	NST
+
+
+160, 1	292, 2-7	BLW	wnes i *just* wneud triptych fi	NST	NST
+160, 2	293, 1-7	BLW	dw i *just* arlunio yr final design	---	ST
+
+
+161, 1	294, 1-5	IFA	faint o gloch codaist ti	NSNT	NSNT
+161, 2	294, 6-6	IFA	ta	---	NSNT
+
+
+162, 1	295, 1-6	BLW	mae esgidiau newydd fi mor *cute*	NST	NST
+162, 2	296, 1-1	BLW	be	---	NSNT
+
+
+163, 1	297, 1-4	IFA	faint gloch godaist ti	---	NSNT
+
+
+164, 1	298, 1-1	BLW	un_ar_ddeg	---	NSNT
+
+
+165, 1	299, 1-1	IFA	un_ar_ddeg	NSNT	NSNT
+165, 2	300, 1-6	IFA	wnest ti wneud hi yn iawn	NSNT	NSNT
+165, 3	301, 1-8	IFA	achos o'n i nôl yma tua hynna sti	---	NSNT
+
+
+166, 1	302, 1-3	HEU	be ti un_ar_ddeg	---	NSNT
+
+
+167, 1	303, 1-3	IFA	wnes i piciad	NSNT	NSNT
+167, 2	303, 4-8	IFA	wnes i piciad yn_ôl yma	---	NSNT
+
+
+168, 1	304, 3-9	BLW	wnes i clywed chdi yn yr ardd	NSNT	NSNT
+168, 2	305, 1-4	BLW	wnes i y *bath*	---	NST
+
+
+169, 1	306, 1-8	IFA	o'n i yn o'n i yn y cyffiniau	NSNT	NSNT
+169, 2	307, 1-5	IFA	o'n i yn y cyffiniau	NSNT	NSNT
+169, 3	308, 1-14	IFA	*so* wnes i biciad *round* rhag ofn bod *Ed* angen angen *er* angen rywbeth	---	NST
+
+
+170, 1	309, 1-6	BLW	wnes i fynd i yr *bath*	---	NST
+
+
+171, 1	310, 1-6	IFA	yn y *bath* o't ti *yeah*	NST	NST
+171, 2	312, 1-3	IFA	a wedyn *um*	NST	NST
+171, 3	313, 1-8	IFA	*well* ti wedi gweld be mae wedi wneud	NST	NST
+171, 4	313, 9-11	IFA	mae wedi wneud	NSNT	NSNT
+171, 5	313, 12-14	IFA	mae wedi wneud	---	NSNT
+
+
+172, 1	314, 1-7	BLW	wnes i glywed chdi yn yr ardd	---	NSNT
+
+
+173, 1	315, 1-4	HEU	oedd *Ed* yma heddiw	---	NST
+
+
+174, 1	316, 2-3	IFA	mae wedi	NSNT	NSNT
+174, 2	316, 4-9	IFA	oedd o ddim yma pnawn ddoe	NSNT	NSNT
+174, 3	316, 10-12	IFA	dw i meddwl	NSNT	NSNT
+174, 4	317, 1-2	IFA	dw i	NSNT	NSNT
+174, 5	317, 3-7	IFA	wnes i ddim holi pam	NSNT	NSNT
+174, 6	318, 1-4	IFA	ond mae o wedi	NSNT	NSNT
+174, 7	318, 5-7	IFA	mae o *um*	NST	NST
+174, 8	318, 8-9	IFA	mae o	NSNT	NSNT
+174, 9	318, 10-14	IFA	mae o wedi wneud dipyn	NSNT	NSNT
+174, 10	319, 1-2	IFA	mae wedi	NSNT	NSNT
+174, 11	319, 3-7	IFA	mae wedi gosod allan i_gyd	NSNT	NSNT
+174, 12	319, 8-8	IFA	sti	NSNT	NSNT
+174, 13	320, 1-9	IFA	ti gallu gweld sut fydd y llwybr edrych wan	---	NSNT
+
+
+175, 1	321, 1-2	HEU	*oh* weles	NST	NST
+175, 2	322, 1-7	HEU	oedd wedi dechrau hynna ddoe neu ddim	---	NSNT
+
+
+176, 1	324, 1-2	IFA	mae yn	NSNT	NSNT
+176, 2	324, 3-6	IFA	mae yn edrych yn	NSNT	NSNT
+176, 3	324, 7-10	IFA	mae edrych yn *great*	---	NST
+
+
+177, 1	325, 1-2	HEU	da iawn	NSNT	NSNT
+177, 2	326, 1-7	HEU	braf meddwl bod ni yn gallu arddio	---	NSNT
+
+
+178, 1	327, 1-1	BLW	da	NSNT	NSNT
+178, 2	328, 1-5	BLW	wna i fynd i ofyn	NSNT	NSNT
+178, 3	328, 6-13	BLW	wna i fynd i ofyn i *Mister_Adams* yfory	NST	NST
+178, 4	328, 14-17	BLW	os fysai fo yn	---	NSNT
+
+
+179, 1	329, 1-3	IFA	pwy ydy *Mister_Adams*	---	NST
+
+
+180, 1	330, 1-7	BLW	y *boy* sy wneud pren yn ysgol	NST	NST
+180, 2	331, 1-3	BLW	a gofyn os	---	NSNT
+
+
+181, 1	332, 1-7	IFA	*well* gei di wneud os ti isio	NST	NST
+181, 2	333, 1-7	IFA	iawn gei di wneud os ti isio	---	NSNT
+
+
+182, 1	334, 1-4	BLW	wneith o safio chdi	---	NSNT
+
+
+183, 1	335, 1-4	IFA	os ti *stuck* os	---	NST
+
+
+184, 1	336, 1-12	BLW	a ella fedra i brynu yr hinges a yr pren yn ysgol	---	SNT
+
+
+185, 1	337, 1-6	IFA	cwbl fedra i wneud dydd Sadwrn	NSNT	NSNT
+185, 2	337, 7-14	IFA	wna i drio wneud o dydd Sadwrn iawn	---	NSNT
+
+
+186, 1	338, 1-7	BLW	*yeah* *o_k* dw i *just* yn deud	NST	NST
+186, 2	338, 8-15	BLW	wna i fynd i ofyn iddo fo fory	---	NSNT
+
+
+187, 1	339, 1-8	IFA	*great* dos i ofyn iddo fo fory de	---	NST
+
+
+188, 1	340, 1-6	BLW	dw ddim yn trio dechrau *fight*	---	NST
+
+
+189, 1	341, 1-2	IFA	iawn wonderful	---	SNT
+
+
+190, 1	342, 1-1	BLW	ych	NSNT	NSNT
+190, 2	342, 2-5	BLW	dw i yn casáu	NSNT	NSNT
+190, 3	343, 1-7	BLW	pam dach chi ddim efo instant *bolognese*	---	ST
+
+
+191, 1	344, 1-10	HEU	*oh* be ti isio be ti isio i fwyta *Blod*	---	NST
+
+
+192, 1	345, 1-5	BLW	mae esgidiau fi mor *cute*	---	NST
+
+
+193, 1	348, 1-9	HEU	*oh* mae dy sanau di yn edrych yn hollol	NST	NST
+193, 2	348, 10-11	HEU	wirion *bost*	---	NST
+
+
+194, 1	349, 1-6	BLW	Nain wnaeth gael nhw i fi	---	NSNT
+
+
+195, 1	350, 1-4	HEU	ie cadw chdi gynnes	---	NSNT
+
+
+196, 1	351, 1-6	IFA	*so* est ti mewn erbyn un_ar_ddeg	---	NST
+
+
+197, 1	352, 1-1	BLW	be	---	NSNT
+
+
+198, 1	353, 1-5	IFA	est ti mewn erbyn un_ar_ddeg	NSNT	NSNT
+198, 2	354, 1-3	IFA	welest ti *Graham*	---	NST
+
+
+199, 1	355, 1-8	BLW	na wnes i fynd fewn erbyn half one	SNT	SNT
+199, 2	356, 1-1	BLW	dyna	NSNT	NSNT
+199, 3	356, 2-4	BLW	pryd oedd gwersi	---	NSNT
+
+
+200, 1	357, 1-4	IFA	*so* be ydy *business*	NST	NST
+200, 2	359, 1-8	IFA	*so* dim erbyn un_ar_ddeg oedda chdi mynd mewn	---	NST
+
+
+201, 1	360, 1-4	BLW	wnes i godi un_ar_ddeg	NSNT	NSNT
+201, 2	361, 1-7	BLW	wnes i fynd lawr i hanner dydd	---	NSNT
+
+
+202, 1	362, 1-3	IFA	wnest ti godi	---	NSNT
+
+
+203, 1	364, 1-14	BLW	a wnes i gael paned efo numerous pobl yn cerdded pasio lawr fan yna	---	SNT
+
+
+204, 1	365, 1-3	IFA	yn lle wan	---	NSNT
+
+
+205, 1	366, 1-8	HEU	be ti feddwl bobl oedd yn cerdded pasio	---	NSNT
+
+
+206, 1	367, 1-4	BLW	wnaeth *Amy_Andrews* gerdded pasio	---	NST
+
+
+207, 1	368, 1-2	IFA	sut mae	NSNT	NSNT
+207, 2	368, 3-8	IFA	honna yn dod yn ei blaen	---	NSNT
+
+
+208, 1	369, 1-9	HEU	a wnaeth hi stopio i gael paned efo ti	---	NSNT
+
+
+209, 1	371, 1-2	BLW	*oh* God	ST	NST
+209, 2	372, 1-10	BLW	yn mynd i yr *doctor* oedd gynni hi *diabetes* iawn	---	NST
+
+
+210, 1	373, 1-6	IFA	*hey* dw i mynd i tsiecio	NST	NST
+210, 2	373, 7-12	IFA	dw i mynd i jecio *um*	---	NST
+
+
+211, 1	375, 1-13	BLW	ac yn dod yn_ôl o yr *doctor* oedd gynni hi irritable bowel *syndrome*	---	ST
+
+
+212, 1	376, 1-7	HEU	na chei di ddim wneud hynna *Ifan*	---	NST
+
+
+213, 1	377, 1-1	IFA	caf	NSNT	NSNT
+213, 2	377, 2-4	IFA	dw i yn	SNT	NSNT
+213, 3	378, 1-3	IFA	*just* done it	ST	NST
+213, 5	380, 1-8	IFA	dw i mynd i jecio *um* *E_bay* iawn	---	NST
+
+
+214, 1	381, 1-1	BLW	pam	---	NSNT
+
+
+215, 1	382, 1-6	IFA	ddo i nôl mewn ychydig bach	---	NSNT
+
+
+216, 1	383, 1-3	HEU	*so* be oedd	NST	NST
+216, 2	383, 4-8	HEU	be oedd gen yr *um*	NST	NST
+216, 3	384, 1-9	HEU	welaist ti hi cyn iddi mynd at y *doctor*	NST	NST
+216, 4	384, 10-14	HEU	a welaist hi wedyn felly	---	NSNT
+
+
+217, 1	386, 1-9	BLW	ar y ffordd i yr *doctor* wnaeth hi ddeud	NST	NST
+217, 2	386, 10-13	BLW	bod gynni hi *diabetes*	NST	NST
+217, 3	387, 1-16	BLW	ac ar y ffordd o yr *doctor* oedd gynni hi irritable bowel *syndrome* caused by *stress*	NST	ST
+217, 4	388, 1-2	BLW	fucking *psycho*	---	NST
+
+
+218, 1	389, 1-1	HEU	bechod	---	NSNT
+
+
+219, 1	390, 1-3	BLW	dw i gwybod	---	NSNT
+
+
+220, 1	391, 1-4	HEU	mae wedi cael irritable	SNT	SNT
+220, 2	392, 2-7	HEU	ydy ddim wedi cael hynny o_blaen	---	NSNT
+
+
+221, 1	393, 1-7	BLW	na mae hi efo kidney infections o_hyd	---	SNT
+
+
+222, 1	394, 1-6	HEU	o'n i meddwl bod hi *acoeliac*	---	NST
+
+
+223, 1	395, 1-3	BLW	gynni hi *coeliac*	NST	NST
+223, 2	396, 1-6	BLW	ond dim bowels ydy hwnna naci	---	SNT
+
+
+224, 1	397, 1-9	HEU	na mae hwnnw yn effeithio ar dy fowels di	NSNT	SNT
+224, 2	397, 10-10	HEU	sti	---	NSNT
+
+
+225, 1	398, 1-2	BLW	*ugh* pooey	ST	NST
+225, 2	399, 1-7	BLW	be ddylai fi gael i fwyta *Mammy*	---	NST
+
+
+226, 1	400, 1-5	HEU	*um* gawn ni feddwl wan	---	NST
+
+
+227, 1	401, 1-4	BLW	dw i isio *risotto*	NST	NST
+227, 2	401, 5-8	BLW	ond dw i o_hyd	NSNT	NSNT
+227, 3	401, 9-14	BLW	roid shitloads o caws yn *risotto*	---	ST
+
+
+228, 1	402, 1-11	HEU	ie dydy o ddim *quite* yr un fath heb gaws nac	---	NST
+
+
+229, 1	403, 1-3	BLW	na mae *crap*	---	NST
+
+
+230, 1	404, 1-17	HEU	bechod bod ti ddim yn licio ychydig o *spice* achos mae hwnnw wneud gwahaniaeth mawr i fwyd	NST	NST
+230, 2	404, 18-20	HEU	wsti os ti	NSNT	NSNT
+230, 3	404, 21-27	HEU	roid ychydig o o *chilli* neu rywbeth	---	NST
+
+
+231, 1	406, 1-4	BLW	*yeah* mae yn helpu	NST	NST
+231, 2	406, 5-11	BLW	mae yn helpu *um* thingy chdi hefyd	---	ST
+
+
+232, 1	407, 1-1	HEU	be	---	NSNT
+
+
+233, 1	408, 1-4	BLW	dy *er* metabolism chdi	ST	ST
+233, 2	410, 1-8	BLW	because mae *chilli* yn really really quicken_io fo	---	ST
+
+
+234, 1	411, 1-6	HEU	*oh* *well* dw i angen rywbeth	NST	NST
+234, 2	412, 1-2	HEU	timod faint	NSNT	NSNT
+234, 3	412, 3-7	HEU	ydy ngwres i yn bore	---	NSNT
+
+
+235, 1	413, 1-1	BLW	be	---	NSNT
+
+
+236, 1	414, 1-3	HEU	fydda i yn	NSNT	NSNT
+236, 2	414, 4-9	HEU	pan fydda i yn gwrando yn	NSNT	NSNT
+236, 3	415, 1-2	HEU	dw i	NSNT	NSNT
+236, 4	415, 3-11	HEU	wedi bod yn cymryd y ngwres yn y boreau	NSNT	NSNT
+236, 5	417, 1-2	HEU	timod faint	NSNT	NSNT
+236, 6	417, 3-4	HEU	ydy o	---	NSNT
+
+
+237, 1	418, 1-1	BLW	faint	---	NSNT
+
+
+238, 1	419, 1-6	HEU	tri_deg_tri pwynt tri neu rywbeth felly	---	NSNT
+
+
+239, 1	420, 1-1	BLW	seriously	SNT	NSNT
+239, 2	422, 1-1	BLW	pam	---	NSNT
+
+
+240, 1	423, 1-4	HEU	dw ddim yn gwybod	---	NSNT
+
+
+241, 1	424, 1-7	BLW	a wnaeth *Amy* hefyd deud wrtha fi	NST	NST
+241, 2	424, 8-9	BLW	bod hi	NSNT	NSNT
+241, 3	424, 10-14	BLW	wedi bod yn cymryd *Adios*	---	NST
+
+
+242, 1	425, 1-3	HEU	be ydy hwnnw	---	NSNT
+
+
+243, 1	426, 1-2	BLW	dieting pill	SNT	NSNT
+243, 3	428, 1-4	BLW	a wnaeth hi ddeud	NSNT	NSNT
+243, 4	428, 5-6	BLW	bod hi	NSNT	NSNT
+243, 5	428, 7-14	BLW	wedi bod yn cymryd o ers dau ddiwrnod	NSNT	NSNT
+243, 6	430, 1-7	BLW	a bod hi wedi colli pedwar pwys	---	NSNT
+
+
+244, 1	431, 1-10	HEU	*well* *er* mae yn bosib i ti wneud *just* dŵr	NST	NST
+244, 2	432, 1-5	HEU	colli llwyth o ddŵr de	NSNT	NSNT
+244, 3	433, 1-7	HEU	mae yn bosib ti golli *lot* o	NST	NST
+244, 4	433, 8-13	HEU	sti o ddŵr i gychwyn efo	---	NSNT
+
+
+245, 1	434, 1-8	BLW	*well* mae hi yn o_hyd yn malu cachu	---	NST
+
+
+246, 1	435, 1-8	HEU	bechod bod hi ddim yn gallu helpu fo	---	NSNT
+
+
+247, 1	437, 1-9	BLW	*oh* *well* mae yn *nice* cael *chat* efo hi	NST	NST
+247, 2	438, 1-6	BLW	ond pan mae *just* deud clwyddau	NST	NST
+247, 3	438, 7-11	BLW	mae yn really fath â	NSNT	SNT
+247, 4	439, 1-2	BLW	ti gwybod	NSNT	NSNT
+247, 5	441, 1-1	BLW	mae	NSNT	NSNT
+247, 6	441, 2-9	BLW	*just* mae o *just* o_hyd yn cripio fewn	NST	NST
+247, 7	442, 1-13	BLW	achos ti yn ti *just* cael *chat* efo hi wedyn ti fath â	NST	NST
+247, 8	443, 1-7	BLW	*oh* mae hyn yn actually really *nice*	ST	ST
+247, 9	444, 1-9	BLW	*so* wedyn mae hi yn deud rywbeth fath â	ST	NST
+247, 10	445, 1-3	BLW	I've got *cancer*	ST	NST
+247, 11	446, 1-2	BLW	neu rywbeth	---	NSNT
+
+
+248, 1	447, 1-8	HEU	ie dydy ddim wedi deud hyn eto nac	NSNT	NSNT
+248, 2	447, 9-10	HEU	ydy *Blodeuwedd*	---	NST
+
+
+249, 1	448, 1-1	BLW	naddo	NSNT	NSNT
+249, 2	449, 1-4	BLW	wneith hi *sure* enough	---	ST
+
+
+250, 1	450, 1-6	HEU	oes gen ti ddolur gwddw *boy*	---	NST
+
+
+251, 1	451, 1-4	BLW	na dim o gwbl	---	NSNT
+
+
+252, 1	452, 1-4	HEU	achos mae swnio *just*	---	NST
+
+
+253, 1	453, 1-4	BLW	*just* *phlegm* ydy o	---	NST
+
+
+254, 1	454, 1-1	HEU	*aww*	---	NST
+
+
+255, 1	455, 1-10	BLW	God wedyn ges i *bottle* o cwrw yn tŷ *Ann*	NST	ST
+255, 2	457, 1-7	BLW	fath â botel llai na hanner *pint*	NST	NST
+255, 3	458, 1-13	BLW	a ar_ôl hanner ohono fo o'n i yn teimlo yn *quite* tipsy sti	NST	ST
+255, 4	459, 1-9	BLW	dw i yn gymaint o fucking babi hefo cwrw	NSNT	SNT
+255, 5	460, 1-17	BLW	*so* wnes i ddim cael dim mwy achos o'n i ddim isio fod yn pissed cyn adolygu	---	ST
+
+
+256, 1	461, 1-1	HEU	*aww*	ST	NST
+256, 3	463, 1-3	HEU	mae gan *Elizabeth*	NST	NST
+256, 4	463, 4-4	HEU	mae	NSNT	NSNT
+256, 5	464, 1-2	HEU	timod *Late_Stop*	NST	NST
+256, 6	465, 1-3	HEU	timod fan yna	NSNT	NSNT
+256, 7	467, 1-4	HEU	hwnnw ydy yr un	NSNT	NSNT
+256, 8	467, 5-6	HEU	sy gyferbyn	NSNT	NSNT
+256, 9	467, 7-7	HEU	â	---	NSNT
+
+
+257, 1	468, 1-1	BLW	Greeks	---	NSNT
+
+
+258, 1	471, 1-7	HEU	mae gynni hi *um* gyfweliad yna fory	---	NST
+
+
+259, 1	472, 1-2	BLW	no way	SNT	NSNT
+259, 2	473, 1-6	BLW	mae yn ffeindio *jobs* bob man	NST	NST
+259, 3	473, 7-7	BLW	dydy	---	NSNT
+
+
+260, 1	474, 1-4	HEU	*oh* a wnaeth hi	NST	NST
+260, 2	474, 5-8	HEU	roid yr *um* ffurflen	NST	NST
+260, 3	474, 9-10	HEU	gais i_mewn	SNT	NSNT
+260, 4	475, 1-9	HEU	and oedden nhw wedi ffonio hi fewn hanner awr	---	SNT
+
+
+261, 1	476, 1-6	BLW	ydy hi wedi cael y *job*	---	NST
+
+
+262, 1	477, 1-7	HEU	nac ydy isio iddi hi mynd yna	NSNT	NSNT
+262, 2	478, 1-3	HEU	heddiw wnaeth hi	NSNT	NSNT
+262, 3	478, 4-6	HEU	roid y ffurflen	NSNT	NSNT
+262, 4	478, 7-8	HEU	gais i_mewn	NSNT	NSNT
+262, 5	479, 1-8	HEU	a wedyn nhw yn ffonio fewn hanner awr	NSNT	NSNT
+262, 6	480, 1-9	HEU	wedyn mae mynd yna pnawn fory i gael cyfweliad	---	NSNT
+
+
+263, 1	481, 1-2	BLW	*oh* *cool*	ST	NST
+263, 2	482, 1-7	BLW	*so* fydd hi yma bore fory then	---	ST
+
+
+264, 1	483, 1-1	HEU	bydd	---	NSNT
+
+
+265, 1	484, 1-5	BLW	*oh* dw i ddim yn	NST	NST
+265, 2	485, 1-7	BLW	dim fod fydda i gallu siarad *lot*	NST	NST
+265, 3	486, 1-6	BLW	dydy *just* ddim wedi setio fewn	NST	NST
+265, 4	486, 7-10	BLW	bod gynno fi *exam*	NST	NST
+265, 5	487, 1-3	BLW	dw i meddwl	NSNT	NSNT
+265, 6	487, 4-12	BLW	bod y ffaith bod fi wedi actually eistedd hwn	---	SNT
+
+
+266, 1	488, 1-6	HEU	dydy o ddim *help* o gwbl	NST	NST
+266, 2	489, 1-7	HEU	oedd *Frank* yn deud yr un fath	NST	NST
+266, 3	490, 1-9	HEU	fel *Harry* yn deud oedd dim gwahaniaeth amdano fo	NST	NST
+266, 4	491, 1-6	HEU	ond tra oedd o yn deud	NSNT	NSNT
+266, 5	491, 7-12	HEU	dydy o ddim gwahaniaeth amdano fo	NSNT	NSNT
+266, 6	491, 13-23	HEU	mae o wedi stopio fo rhag astudio at arholiadau eraill hefyd	---	NSNT
+
+
+267, 1	493, 1-3	BLW	*well* dw i	NST	NST
+267, 2	493, 4-7	BLW	wedi bod yn astudio	NSNT	NSNT
+267, 3	494, 1-3	BLW	dw i wedi	NSNT	NSNT
+267, 4	494, 4-4	BLW	wnes	NSNT	NSNT
+267, 5	494, 5-10	BLW	dw i wedi astudio mwy wan	NSNT	NSNT
+267, 6	494, 11-17	BLW	na wnes i yn yr ha definitely	---	SNT
+
+
+268, 1	496, 2-6	HEU	wnes i wneud *lot* neithiwr	NST	NST
+268, 2	497, 1-5	HEU	be yn lle pryd neithiwr	---	NSNT
+
+
+269, 1	498, 1-7	BLW	yn gwely a cyn mynd i gwely	---	NSNT
+
+
+270, 1	499, 1-9	HEU	weles i ti yn gafael mewn tamaid o bapur	NSNT	NSNT
+270, 2	500, 1-13	HEU	ond weles i ddim ohonot ti yn edrych arno fo ddim un waith	---	NSNT
+
+
+271, 1	501, 1-1	BLW	*Mam*	ST	NST
+271, 2	502, 1-4	BLW	baswn i ddim yn	SNT	NSNT
+271, 3	503, 1-1	BLW	*Mam*	ST	NST
+271, 5	505, 1-2	BLW	shoe *slap*	---	NST
+
+
+272, 1	506, 1-1	HEU	*ow*	---	NST
+
+
+273, 1	509, 1-1	BLW	*sorry*	ST	NST
+273, 2	510, 1-10	BLW	mi ydw i yn teimlo mwy gyffyrddus amdan y peth	NSNT	NSNT
+273, 3	511, 1-12	BLW	ond ti gwybod blwyddyn dwytha oedd o yn *fresh* yn meddwl fi	NST	NST
+273, 4	511, 13-13	BLW	doedd	NSNT	NSNT
+273, 5	513, 1-6	BLW	ond dydy o ddim fath â	NSNT	NSNT
+273, 6	513, 7-9	BLW	bod fi yn	---	NSNT
+
+
+274, 1	514, 1-16	HEU	ond ti yn fwy ti yn ddoethach ac yn fwy aeddfed erbyn blwyddyn yma yn_dwyt i	---	NSNT
+
+
+275, 1	515, 1-2	BLW	nag ydw	---	NSNT
+
+
+276, 1	516, 1-2	HEU	nag wyt	---	NSNT
+
+
+277, 1	517, 1-6	BLW	*yeah* ond y y *thing* ydy	NST	NST
+277, 2	518, 1-3	BLW	*ugh* be *fuck*	---	NST
+
+
+278, 1	519, 1-1	HEU	be	---	NSNT
+
+
+279, 1	520, 1-3	BLW	be ydy hwnna	---	NSNT
+
+
+280, 1	521, 1-3	HEU	be ydy o	---	NSNT
+
+
+281, 1	522, 1-5	BLW	mae edrych fath â *clove*	ST	NST
+281, 2	523, 1-1	BLW	*ugh*	ST	NST
+281, 4	525, 1-7	BLW	be ti wedi bod wneud efo *cloves*	---	NST
+
+
+282, 1	526, 1-4	HEU	dw ddim yn gwybod	---	NSNT
+
+
+283, 1	527, 1-1	IFA	mae	NSNT	NSNT
+283, 2	527, 2-8	IFA	dydy o ddim yn gorffen am awr	---	NSNT
+
+
+284, 1	528, 1-3	HEU	*oh* nac ydy	---	NST
+
+
+285, 1	529, 1-2	IFA	nag ydy	---	NSNT
+
+
+286, 1	530, 1-5	HEU	faint mae yn gostio wan	---	NSNT
+
+
+287, 1	531, 1-7	IFA	does yna neb wedi bidio nhw eto	NSNT	NSNT
+287, 2	532, 1-7	IFA	mae *boy* wedi gofyn cant amdano fo	NST	NST
+287, 3	532, 8-8	IFA	sti	---	NSNT
+
+
+288, 1	534, 1-7	HEU	*oh* *yeah* mae hynna yn aml iawn	NST	NST
+288, 2	534, 8-11	HEU	mae well felly achos	NSNT	NSNT
+288, 3	534, 12-15	HEU	dydy bobl ddim yn	---	NSNT
+
+
+289, 1	535, 1-5	IFA	wna i *just* disgwyl tan	NST	NST
+289, 2	536, 1-2	IFA	wna i	NSNT	NSNT
+289, 3	536, 3-12	IFA	wna i fidio cant a deg arno fo a wedyn	---	NSNT
+
+
+290, 1	537, 1-5	HEU	maen nhw yn bryderus am	NSNT	NSNT
+290, 2	537, 6-11	HEU	roid y bid cyntaf i_mewn yn_dydyn	---	SNT
+
+
+291, 1	538, 1-2	IFA	wna i	NSNT	NSNT
+291, 2	538, 3-14	IFA	wna i fidio cant a deg arno fo munud ola a gweld	NSNT	NSNT
+291, 3	538, 15-16	IFA	be ddigwyddith	---	NSNT
+
+
+292, 1	539, 1-6	BLW	be be ydy enw brawd *Bob*	---	NST
+
+
+293, 1	540, 1-3	HEU	dw ddim *sure*	NST	NST
+293, 2	541, 1-5	HEU	be ydy enw brawd *Bob*	---	NST
+
+
+294, 1	542, 1-1	IFA	mae	NSNT	NSNT
+294, 2	542, 2-3	IFA	werth hynna	SNT	NSNT
+294, 3	543, 1-1	IFA	*pardon*	---	NST
+
+
+295, 1	544, 1-5	HEU	be ydy enw brawd *Bob*	---	NST
+
+
+296, 1	545, 1-5	IFA	dw ddim yn cofio *sorry*	NST	NST
+296, 2	546, 1-5	IFA	be ydy dy enw di	---	NSNT
+
+
+297, 1	549, 1-7	HEU	ie wnawn ni ofyn iddo wedyn *Blod*	---	NST
+
+
+298, 1	550, 1-7	IFA	wna i ofyn iddo fo wedyn *Blod*	---	NST
+
+
+299, 1	551, 1-4	BLW	i Uni mae hyn	---	SNT
+
+
+300, 1	553, 1-3	HEU	mae wneud *um*	NST	NST
+300, 2	553, 4-6	HEU	mae wneud doethuriaeth	---	NSNT
+
+
+301, 1	554, 1-3	BLW	be ydy doethuriaeth	---	NSNT
+
+
+302, 1	555, 1-2	HEU	*P_H_D* *yeah*	---	NST
+
+
+303, 1	557, 1-1	BLW	*P_H_D*	ST	NST
+303, 2	560, 1-5	BLW	hynna ydy fath â *doctor*	NST	NST
+303, 3	563, 1-8	BLW	*wow* mae *Ian* am wneud hynna blwyddyn nesa	NST	NST
+303, 4	563, 9-9	BLW	sti	---	NSNT
+
+
+304, 1	564, 1-1	IFA	pwy	---	NSNT
+
+
+305, 1	565, 1-1	BLW	*Ian*	---	NST
+
+
+306, 1	566, 1-6	IFA	be dy *fate* di o *Ogwen_Bank*	NST	NST
+306, 2	567, 1-8	IFA	ti gwybod am be mae o wneud o	---	NSNT
+
+
+307, 1	568, 1-1	BLW	German	---	NSNT
+
+
+308, 1	569, 1-9	HEU	o'n i meddwl bod o wrthi wneud o wan	---	NSNT
+
+
+309, 1	571, 1-8	BLW	na *er* masters mae wneud ar y funud	---	ST
+
+
+310, 1	572, 1-6	IFA	be gynno fo radd yn ta	NSNT	NSNT
+310, 2	573, 1-2	IFA	yn Almaeneg	---	NSNT
+
+
+311, 1	576, 1-4	BLW	mae yn really glyfar	NSNT	SNT
+311, 2	577, 1-2	BLW	wnaeth y	---	NSNT
+
+
+312, 1	578, 1-7	IFA	ydy o wedi deud wrtha chdi am	NSNT	NSNT
+312, 2	578, 8-13	IFA	be mae o am wneud o	NSNT	NSNT
+312, 3	578, 14-14	IFA	ta	NSNT	NSNT
+312, 4	580, 1-1	IFA	be	---	NSNT
+
+
+313, 1	581, 1-3	BLW	*er* political *thing*	ST	NST
+313, 2	582, 1-5	BLW	yr Almaen yn y nineteen_hundreds	---	SNT
+
+
+314, 1	583, 1-14	HEU	ti wedi bod yn holi fo am y *Nazis* at gyfer dy arholiad fory	---	NST
+
+
+315, 1	584, 1-7	IFA	be yn yn dechrau yr ganrif felly	NSNT	NSNT
+315, 2	586, 1-10	IFA	dechrau yr ganrif ta twentieth ta ugeinfed ganrif ti meddwl	---	SNT
+
+
+316, 1	587, 1-1	BLW	nineteenth	---	NSNT
+
+
+317, 1	588, 1-4	IFA	ydy o nineteenth nineteenth	---	SNT
+
+
+318, 1	589, 1-7	BLW	*Dad* dw i ddim yn fucking retarded	ST	ST
+318, 2	590, 1-6	BLW	y nineteenth *as* in eighteen hundred	---	ST
+
+
+319, 1	592, 1-8	IFA	*so* y y bedwaredd ganrif ar bymtheg felly	ST	NST
+319, 2	593, 1-3	IFA	nineteenth century *yeah*	---	NST
+
+
+320, 1	594, 1-1	BLW	yes	---	NSNT
+
+
+321, 1	595, 1-4	IFA	dim nineteen_hundreds ydy o	---	SNT
+
+
+322, 1	596, 1-1	BLW	naci	---	NSNT
+
+
+323, 1	598, 1-2	HEU	*Blodeuwedd* callia	---	NST
+
+
+324, 1	599, 1-6	BLW	ga i esgid fi nôl *please*	---	NST
+
+
+325, 1	600, 1-2	IFA	na chei	---	NSNT
+
+
+326, 1	602, 1-1	HEU	edrycha	NSNT	NSNT
+326, 2	602, 2-8	HEU	mae gen ti dwll yn dy hosan	---	NSNT
+
+
+327, 1	603, 1-4	BLW	*yeah* mae yn *cute*	NST	NST
+327, 2	603, 5-5	BLW	dydy	---	NSNT
+
+
+328, 1	604, 1-3	HEU	nac ydy ddim	NSNT	NSNT
+328, 2	605, 1-4	HEU	mae yn edrych yn	NSNT	NSNT
+328, 3	605, 5-6	HEU	wirion *bost*	---	NST
+
+
+329, 1	606, 1-4	IFA	lle maen nhw byw	NSNT	NSNT
+329, 2	606, 5-5	IFA	ta	---	NSNT
+
+
+330, 1	607, 1-3	BLW	*Ian* a *Flo*	NST	NST
+330, 2	609, 1-4	BLW	wrth ymyl y *Llangollen*	---	NST
+
+
+331, 1	610, 1-3	IFA	wrth ymyl *Llangollen*	---	NST
+
+
+332, 1	611, 1-3	HEU	lawr ffordd *Glanafon*	---	NST
+
+
+333, 1	612, 1-5	BLW	un o yr tai yna	NSNT	NSNT
+333, 2	613, 1-6	BLW	un o yr tai two bedroom	---	SNT
+
+
+334, 1	614, 1-4	IFA	*oh* *right* wn i	NST	NST
+334, 2	615, 1-6	IFA	be wedi prynu fo mae nhw	---	NSNT
+
+
+335, 1	616, 1-1	BLW	rentio	---	NSNT
+
+
+336, 1	617, 1-4	IFA	ta rentio maen nhw	---	NSNT
+
+
+337, 1	618, 1-4	BLW	mae yn really *cute*	---	ST
+
+
+338, 1	619, 1-10	IFA	deud wrtha fi pa yr un ydy o yn union	---	NSNT
+
+
+339, 1	620, 1-1	BLW	*number*	---	NST
+
+
+340, 1	621, 1-4	HEU	fan yna oedd *Eric*	---	NST
+
+
+341, 1	622, 1-8	IFA	dim hwnna oedd *Brian_Bennett* yn byw yno fo	---	NST
+
+
+342, 1	623, 1-5	HEU	na oedd yr un *Brian*	NST	NST
+342, 2	624, 1-6	HEU	hen ddyn oedd yn byw yna	NSNT	NSNT
+342, 3	625, 1-7	HEU	oedd un *Brian* ar *um* fath â	NST	NST
+342, 4	626, 1-4	HEU	hen *jail* oedd *Brian*	NST	NST
+342, 5	626, 5-6	HEU	de gyferbyn	NSNT	NSNT
+342, 6	627, 1-9	HEU	oedd o ddim yn un o yr tai *terrace*	NST	NST
+342, 7	628, 1-3	HEU	oedd ar ben	NSNT	NSNT
+342, 8	628, 4-5	HEU	ei hun	NSNT	NSNT
+342, 9	628, 6-6	HEU	doedd	---	NSNT
+
+
+343, 1	630, 1-7	BLW	tai *terrace* ydy o ar ochr *Llangollen*	---	NST
+
+
+344, 1	632, 1-12	HEU	*er* be ti yn galw sydd yn byw yn hen dŷ *Brian*	---	NST
+
+
+345, 1	633, 1-12	BLW	mae dau drws o yr dau drws o yr *er* thingy afon	NST	ST
+345, 2	634, 1-8	BLW	be ti yn sbïo arna fi fel yna	NSNT	NSNT
+345, 3	635, 1-5	BLW	be dw i wedi wneud	---	NSNT
+
+
+346, 1	636, 1-6	IFA	byth dw i ddim yn deud	---	NSNT
+
+
+347, 1	637, 1-5	BLW	be dw i wedi wneud	---	NSNT
+
+
+348, 1	638, 1-2	IFA	dim_byd *Blod*	ST	NST
+348, 2	639, 1-1	IFA	chill	NSNT	NSNT
+348, 3	640, 1-2	IFA	chill *Blod*	ST	NST
+348, 4	641, 1-4	IFA	mae popeth yn iawn	---	NSNT
+
+
+349, 1	642, 1-6	BLW	pam mae *Dad* yn chwerthin *Mammy*	---	NST
+
+
+350, 1	643, 1-6	HEU	because mae o yn hapus *Blodeuwedd*	---	ST
+
+
+351, 1	644, 1-2	BLW	ar *drugs*	---	NST
+
+
+352, 1	645, 1-10	HEU	oedd *Manylu* heno yn sôn am problemau ariannol Cyngor *Gwynedd*	NST	NST
+352, 2	647, 1-5	HEU	ie yn enwedig am eu	---	NSNT
+
+
+353, 1	648, 1-4	IFA	be oedd o ddeud	---	NSNT
+
+
+354, 1	649, 1-16	HEU	*well* ddim *just* Cyngor *Gwynedd* ond bod pawb yn cael toriadau yn eu budgets flwyddyn yma	---	ST
+
+
+355, 1	650, 1-4	BLW	troed fi yn oer	---	NSNT
+
+
+356, 1	651, 1-1	IFA	*uh_huh*	ST	NST
+356, 2	652, 1-1	IFA	mae	NSNT	NSNT
+356, 3	652, 2-14	IFA	mae yr Cynulliad wedi wneud ryw benderfyniad roi llai o bres neu rywbeth	---	NSNT
+
+
+357, 1	653, 2-10	HEU	maen nhw yn cael *lot* llai o bres ysti	---	NST
+
+
+358, 1	654, 1-1	IFA	pam	---	NSNT
+
+
+359, 1	655, 1-5	HEU	dw i ddim yn gwybod	NSNT	NSNT
+359, 2	656, 1-12	HEU	pawb i weld mae rhan fwya bethau yn cael llai o bres	NSNT	NSNT
+359, 3	657, 1-5	HEU	dan ni yn sôn am	NSNT	NSNT
+359, 4	658, 1-9	HEU	oedd *Colin_Collins* yn sôn am y am gwasanaeth maethu	---	NST
+
+
+360, 1	659, 1-1	IFA	*uh_huh*	---	NST
+
+
+361, 1	660, 1-4	HEU	a sut oedd *um*	NST	NST
+361, 3	662, 1-3	HEU	mae nhw yn	NSNT	NSNT
+361, 4	662, 4-15	HEU	mae yna fwy o blant angen eu maethu ar hyn o bryd	NSNT	NSNT
+361, 5	663, 1-8	HEU	a wedyn mae yna rei hefo gofal arbennig	NSNT	NSNT
+361, 6	663, 9-11	HEU	na fedran nhw	NSNT	NSNT
+361, 7	664, 1-8	HEU	dydy yr sgiliau ddim gen eu gofalwyr nhw	NSNT	NSNT
+361, 8	665, 1-13	HEU	a does gynnyn nhw ddim ddigon o gofalwyr ofalwyr pa yr un bynnag	NSNT	NSNT
+361, 9	666, 1-10	HEU	*so* mae nhw yn gorod gosod nhw hefo asiantaethau allanol	NST	NST
+361, 10	668, 1-14	HEU	a mae hynny yn costio naw cant punt yr wsnos i ofalu am blant	NSNT	NSNT
+361, 11	671, 1-6	HEU	a ryw dri chant ydy o	NSNT	NSNT
+361, 12	671, 7-14	HEU	os dyn nhw yn gallu wneud o in_house	SNT	SNT
+361, 13	673, 1-5	HEU	wedyn mae gynnyn nhw *oh*	NST	NST
+361, 14	673, 6-11	HEU	mae o yn filoedd yr wsnos	NSNT	NSNT
+361, 15	674, 1-3	HEU	mae gynnyn nhw	NSNT	NSNT
+361, 16	674, 4-12	HEU	dw ddim yn cofio faint yn union o blant	NSNT	NSNT
+361, 17	674, 13-22	HEU	sy yn cael eu maethu efo asiantaethau allanol felly ond	NSNT	NSNT
+361, 18	677, 1-13	HEU	a hefyd mae yr asiantaethau allanol yn talu mwy o bres i gofalwyr	NSNT	NSNT
+361, 19	679, 1-17	HEU	a wedyn mae yna rhei pobl yn gadael cyngor sir i fynd i weithio i asiantaethau eraill	---	NSNT
+
+
+362, 1	680, 1-10	IFA	*um* pam pam bod y cyngor cael llai o bres	NST	NST
+362, 2	680, 11-13	IFA	nag oedden nhw	---	NSNT
+
+
+363, 1	681, 1-3	HEU	*oh* *just* toriadau	NST	NST
+363, 2	682, 1-1	HEU	mae	NSNT	NSNT
+363, 3	682, 2-6	HEU	oedden nhw yn gwybod ers	NSNT	NSNT
+363, 4	682, 7-21	HEU	mae nhw yn gwybod ers tua tair neu bedair mlynedd bod nhw mynd i y	NSNT	NSNT
+363, 5	682, 22-28	HEU	byddan nhw yn cael llai o bres	---	NSNT
+
+
+364, 1	683, 1-4	IFA	bod ar y gweill	---	NSNT
+
+
+365, 1	684, 1-4	HEU	bod ar y gweill	NSNT	NSNT
+365, 2	685, 1-14	HEU	maen nhw yn cael rywbeth fath â tair *million* yn llai neu rywbeth felly	---	NST
+
+
+366, 1	686, 1-4	IFA	*just* dyn nhw ddim	NST	NST
+366, 2	686, 5-9	IFA	dyn nhw ddim yn penodi	NSNT	NSNT
+366, 3	686, 10-22	IFA	dyn nhw ddim yn penodi pobl sydd yn gadael yn lle ni wan	NSNT	NSNT
+366, 4	686, 23-23	IFA	sti	---	NSNT
+
+
+367, 1	687, 1-2	HEU	neb o_gwbl	---	NSNT
+
+
+368, 1	688, 1-2	IFA	na neb	NSNT	NSNT
+368, 2	689, 1-4	IFA	mae *Gladys* wedi mynd	---	NST
+
+
+369, 1	690, 1-3	HEU	*yeah* ond oedd	NST	NST
+369, 2	690, 4-17	HEU	oedd ei swydd hi ddim yn yn un dros dro pa yr un bynnag	---	NSNT
+
+
+370, 1	692, 1-2	IFA	*well* oedd	NST	NST
+370, 2	692, 3-6	IFA	ond oedd o yn	NSNT	NSNT
+370, 3	692, 7-9	IFA	ond oedd yna	NSNT	NSNT
+370, 4	692, 10-12	IFA	timod yn dechrau	NSNT	NSNT
+370, 5	692, 13-17	IFA	oedd yna lwyth o sôn	NSNT	NSNT
+370, 6	692, 18-19	IFA	oedd o	NSNT	NSNT
+370, 7	692, 20-22	IFA	oedd o yn	NSNT	NSNT
+370, 8	692, 23-24	IFA	oedd o	NSNT	NSNT
+370, 9	692, 25-29	IFA	pan wnaeth hi ddod *er*	NST	NST
+370, 10	692, 30-43	IFA	pan ddoth pan ddôth hi ddôth hi ddôth i weithio i ddechrau efo hi	NSNT	NSNT
+370, 11	692, 44-47	IFA	oedd yna lwyth o	NSNT	NSNT
+370, 12	692, 48-49	IFA	oedd yna	NSNT	NSNT
+370, 13	692, 50-55	IFA	oedd yna lwyth mwy o bres	NSNT	NSNT
+370, 14	692, 56-56	IFA	wsti	NSNT	NSNT
+370, 15	692, 57-57	IFA	doedd	NSNT	NSNT
+370, 16	693, 1-2	IFA	oedd yna	NSNT	NSNT
+370, 17	693, 3-4	IFA	oedd yna	NSNT	NSNT
+370, 18	693, 5-17	IFA	mae yna dwy swydd *C_P_N* newydd wedi gael eu wedi gael eu creu	---	NST
+
+
+371, 1	698, 1-5	HEU	*so* mae nhw dal i	---	NST
+
+
+372, 1	699, 1-2	IFA	ond bod	NSNT	NSNT
+372, 2	699, 3-4	IFA	bod hwnna	NSNT	NSNT
+372, 3	699, 5-7	IFA	ond bod wan	NSNT	NSNT
+372, 4	699, 8-12	IFA	bod o wedi gwyrdroi wan	NSNT	NSNT
+372, 5	700, 1-7	IFA	fath â dwy dwy flynedd nôl de	NSNT	NSNT
+372, 6	700, 8-13	IFA	oedd pawb yn siarad fath â	NSNT	NSNT
+372, 7	700, 14-15	IFA	bod yna	NSNT	NSNT
+372, 8	700, 16-24	IFA	bysai yna *lot* mwy o bres mynd i fod	NST	NST
+372, 9	700, 25-28	IFA	a bod yna fwy	NSNT	NSNT
+372, 10	700, 29-37	IFA	o bod yna fwy o swyddi mynd i fod	NSNT	NSNT
+372, 11	701, 1-8	IFA	wedyn wnaethon nhw o'n wedi gael gafael ar	NSNT	NSNT
+372, 12	702, 1-14	IFA	mae pres *Gladys* yn dod o ryw ryw ryw ryw ryw rywbeth y Cynulliad	NST	NST
+372, 13	703, 1-5	IFA	dw ddim yn gwybod be	NSNT	NSNT
+372, 14	704, 1-7	IFA	a wedyn oedd pawb cymryd yn ganiataol	NSNT	NSNT
+372, 15	704, 8-14	IFA	bysai yr *job* yn mynd yn barhaol	NST	NST
+372, 16	705, 1-5	IFA	ond mae gan bod hi	NSNT	NSNT
+372, 17	705, 6-16	IFA	wedi bod yn gan bod nhw ddim yn fodlon gwneud hynna	NSNT	NSNT
+372, 18	705, 17-20	IFA	mae hi wedi gadael	NSNT	NSNT
+372, 19	706, 1-2	IFA	mae wedi	NSNT	NSNT
+372, 20	706, 3-9	IFA	mae wedi cael swydd barhaol yn Sir_Fôn	NSNT	NSNT
+372, 21	708, 1-6	IFA	*um* a dyn nhw ddim a	NST	NST
+372, 22	708, 7-20	IFA	a dyn nhw ddim dydyn nhw ddim yn yn *er* yn ailhysbysebu swydd hi	---	NST
+
+
+373, 1	709, 1-6	HEU	mae Sir_Fôn yn cael toriadau hefyd	---	NSNT
+
+
+374, 1	710, 1-5	IFA	a dyn nhw ddim yn	---	NSNT
+
+
+375, 1	711, 1-2	HEU	iechyd mawr	---	NSNT
+
+
+376, 1	712, 1-1	IFA	dydy	NSNT	NSNT
+376, 2	712, 2-4	IFA	dydy o ddim	NSNT	NSNT
+376, 3	712, 5-12	IFA	dydy o ddim wahaniaeth i fi a *Brian*	NST	NST
+376, 4	712, 13-13	IFA	sti	NSNT	NSNT
+376, 5	713, 1-1	IFA	dan	NSNT	NSNT
+376, 6	713, 2-5	IFA	dan ni yn iawn	NSNT	NSNT
+376, 7	715, 1-2	IFA	*um* mae	NST	NST
+376, 8	715, 3-5	IFA	mae yn golygu	NSNT	NSNT
+376, 9	715, 6-12	IFA	fydd raid ni wneud fwy o duty	SNT	SNT
+376, 10	715, 13-13	IFA	sti	NSNT	NSNT
+376, 11	716, 1-5	IFA	*so* dan ni yn iawn	NST	NST
+376, 12	718, 1-7	IFA	wna i *just* wneud mwy o hynna	---	NST
+
+
+377, 1	720, 1-8	BLW	faint o gloch mae *Liz* yn dod *round*	---	NST
+
+
+378, 1	721, 1-14	HEU	*um* dw i mynd i nôl hi o_gwmpas tua yr wyth yma rywbeth felly	---	NST
+
+
+379, 1	722, 1-5	IFA	ond *um* mae yn swnio	---	NST
+
+
+380, 1	723, 1-5	BLW	oer yn y tŷ yma	---	NSNT
+
+
+381, 1	724, 1-9	IFA	mae yn swnio *um* *right* *er* *right* dynn really	---	ST
+
+
+382, 1	725, 1-2	HEU	oedd yna	NSNT	NSNT
+382, 2	726, 1-2	HEU	oedd yna	NSNT	NSNT
+382, 3	726, 3-10	HEU	do wedi dod oddi_ar dŷ yn *Nant_Peris* heddiw	---	NST
+
+
+383, 1	727, 1-3	BLW	lle ydy hwnna	---	NSNT
+
+
+384, 1	729, 1-6	HEU	a simnai wedi dod oddi_ar tŷ	---	NSNT
+
+
+385, 1	730, 1-3	BLW	wnes i weld	NSNT	NSNT
+385, 2	730, 4-7	BLW	wnes i weld *Llanrwst*	---	NST
+
+
+386, 1	731, 1-3	IFA	be y gwynt	---	NSNT
+
+
+387, 1	732, 1-2	BLW	floods uffernol	---	SNT
+
+
+388, 1	733, 1-2	IFA	y gwynt	---	NSNT
+
+
+389, 1	735, 1-5	BLW	oedd ar y *news* gynnau	---	NST
+
+
+390, 1	736, 1-2	IFA	mae yr	---	NSNT
+
+
+391, 1	737, 1-4	BLW	ti wedi clywed *George_Bush*	---	NST
+
+
+392, 1	738, 1-4	HEU	gwynt y gwynt neithiwr	---	NSNT
+
+
+393, 1	739, 1-4	IFA	be mae wedi ddeud	---	NSNT
+
+
+394, 1	740, 1-1	BLW	deud	SNT	NSNT
+394, 2	741, 1-14	BLW	there have been a *lot* of mistakes made and *um* they're all my fault	---	NST
+
+
+395, 1	745, 1-5	IFA	be yn union ddeudodd o	---	NSNT
+
+
+396, 1	746, 1-5	HEU	ar *Youtube* oedd hwnna *yeah*	---	NST
+
+
+397, 1	747, 1-3	BLW	rywbeth fel yna	---	NSNT
+
+
+398, 1	748, 1-5	HEU	*um* manipulate_io ei geg o	---	ST
+
+
+399, 1	749, 1-2	IFA	na mae	NSNT	NSNT
+399, 2	749, 3-4	IFA	mae wedi	NSNT	NSNT
+399, 3	749, 5-5	IFA	mae	NSNT	NSNT
+399, 4	749, 6-6	IFA	mae	NSNT	NSNT
+399, 5	749, 7-7	IFA	mae	NSNT	NSNT
+399, 6	749, 8-10	IFA	wedi bod *right*	---	NST
+
+
+400, 1	750, 1-5	BLW	na oedd ar y *news*	---	NST
+
+
+401, 1	751, 1-2	IFA	*er* mae	NST	NST
+401, 2	751, 3-3	IFA	mae	NSNT	NSNT
+401, 3	751, 4-4	IFA	mae	NSNT	NSNT
+401, 4	751, 5-9	IFA	mae yna rywfaint o contrition	SNT	SNT
+401, 5	751, 10-10	IFA	sti	---	NSNT
+
+
+402, 1	752, 1-3	BLW	dos ar *News_Twenty_Four*	---	NST
+
+
+403, 1	753, 1-1	IFA	mae	NSNT	NSNT
+403, 2	753, 2-4	IFA	mae wedi deud	NSNT	NSNT
+403, 3	753, 5-8	IFA	bod o wedi wneud	---	NSNT
+
+
+404, 1	754, 1-3	HEU	*oh* oes wir	---	NST
+
+
+405, 1	755, 1-5	IFA	ond mae wedi dechrau deud	NSNT	NSNT
+405, 2	755, 6-11	IFA	bod nhw wedi wneud balls_ups o_blaen	NSNT	SNT
+405, 3	756, 1-8	IFA	ti ddim yn cofio union be ddeudodd o	---	NSNT
+
+
+406, 1	757, 1-3	BLW	wnaeth o ddeud	---	NSNT
+
+
+407, 1	758, 1-5	IFA	basai ddim wedi deud hynna	NSNT	NSNT
+407, 2	758, 6-7	IFA	na fasai	---	NSNT
+
+
+408, 1	759, 1-3	BLW	wnaeth o ddeud	SNT	NSNT
+408, 2	760, 1-7	BLW	a *number* of mistakes have been made	NST	NST
+408, 3	761, 1-6	BLW	and the responsibility is with *me*	ST	NST
+408, 4	762, 1-6	BLW	wnaeth o ddeud rywbeth fel yna	---	NSNT
+
+
+409, 1	764, 1-15	HEU	*so* mewn ffordd *just* er_mwyn cael mwy o filwyr i fynd i *Iraq* ydy hyn	NST	NST
+409, 2	764, 16-17	HEU	ydy ddeud	---	NSNT
+
+
+410, 1	765, 1-3	BLW	*yeah* *yeah* definitely	---	NST
+
+
+411, 1	766, 1-9	HEU	*er* rhaid rhaid ni sortio hyn allan wan yr	---	NST
+
+
+412, 1	767, 1-8	IFA	*so* dan ni wedi wneud llwyth o gamgymeriadau	NST	NST
+412, 2	767, 9-11	IFA	*so* dan ni	NST	NST
+412, 3	767, 12-26	IFA	*so* dan ni yn *so* ni yn wneud wneud mwy o rei yr un fath	NST	NST
+412, 4	769, 1-6	IFA	*so* yrru mwy o *soldiers* yna	NST	NST
+412, 5	771, 1-5	IFA	be o'n i ddeud dŵad	NSNT	NSNT
+412, 6	772, 1-3	IFA	*oh* *yeah* mae	NST	NST
+412, 7	772, 4-6	IFA	dw i wedi	NSNT	NSNT
+412, 8	772, 7-17	IFA	dw i wedi cael galwad *phone* gan *um* *clerk* of works	ST	ST
+412, 9	774, 1-5	IFA	a mae yn dod o	NSNT	NSNT
+412, 10	774, 6-15	IFA	ond dydy o ddim yn gallu dod tan dydd Iau	NSNT	NSNT
+412, 11	776, 1-4	IFA	*so* mae yn dod	NST	NST
+412, 12	777, 1-13	IFA	dw i yn gyfarfod o yma yma deg o gloch bore dydd Iau	NSNT	NSNT
+412, 13	778, 1-9	IFA	be dan ni mynd i wneud am y peth	NSNT	NSNT
+412, 14	778, 10-14	IFA	dw i ddim yn gwybod	NSNT	NSNT
+412, 15	780, 1-3	IFA	*um* sut fydd	---	NST
+
+
+413, 1	782, 1-5	BLW	fedra i ddim disgwyl tan	NSNT	NSNT
+413, 2	782, 6-12	BLW	dw i wedi gorffen y twatting ysgol	SNT	SNT
+413, 3	783, 1-1	BLW	*bastards*	---	NST
+
+
+414, 1	784, 1-9	IFA	does gen ti ddim *lot* i fynd wan *Blod*	---	NST
+
+
+415, 1	786, 1-8	HEU	wnes i siarad efo *Kevin* ar y *phone*	NST	NST
+415, 2	787, 1-8	HEU	dydy o ddim yn licio tywydd yma o_gwbl	---	NSNT
+
+
+416, 1	788, 1-2	IFA	nag ydy	NSNT	NSNT
+416, 2	788, 3-11	IFA	dydy o ddim yn gallu mynd ar ei *fike*	NST	NST
+416, 3	788, 12-14	IFA	mae yn *sure*	NST	NST
+416, 4	788, 15-15	IFA	yli	---	NSNT
+
+
+417, 1	789, 1-9	HEU	dydy o ddim yn gallu mynd ar ei *fike*	NST	NST
+417, 2	790, 1-11	HEU	a mae o yn dueddol o ddiodde ychydig bach efo yr	NSNT	NSNT
+417, 3	791, 1-6	HEU	basai fo *just* yn licio hibernate_io	ST	ST
+417, 4	792, 1-6	HEU	mae o mynd ychydig bach yn	---	NSNT
+
+
+418, 1	793, 1-2	BLW	a fi	---	NSNT
+
+
+419, 1	794, 1-1	HEU	is	NSNT	NSNT
+419, 2	795, 1-5	HEU	*well* mae *lot* o bobl	NST	NST
+419, 3	797, 1-4	HEU	dw i yn *sure*	NST	NST
+419, 4	797, 5-9	HEU	bod fi mynd ychydig bach	---	NSNT
+
+
+420, 1	798, 1-2	BLW	a fi	---	NSNT
+
+
+421, 1	799, 1-4	HEU	tywyllwch yn y bore	NSNT	NSNT
+421, 2	800, 1-4	HEU	tywyllwch yn y nos	---	NSNT
+
+
+422, 1	801, 1-10	IFA	ond mae yn dywyll ychydig bach hwyrach pob nos wan	NSNT	NSNT
+422, 2	801, 11-11	IFA	dydy	NSNT	NSNT
+422, 3	802, 1-7	IFA	be ti yn cael i de ta	---	NSNT
+
+
+423, 1	803, 1-10	HEU	ond ddim digon i rywun sylwi ar hyn o bryd	---	NSNT
+
+
+424, 1	804, 1-1	BLW	*lentils*	---	NST
+
+
+425, 1	805, 1-4	HEU	mae dal yn dywyll	NSNT	NSNT
+425, 2	805, 5-9	HEU	pan mae rywun yn cychwyn	---	NSNT
+
+
+426, 1	806, 1-1	IFA	*lentils*	ST	NST
+426, 2	807, 1-3	IFA	be cawl *lentils*	---	NST
+
+
+427, 1	808, 1-8	BLW	yr un fath â ges i sodding cinio	---	SNT
+
+
+428, 1	810, 1-6	IFA	pam basai dim_byd yna i chdi	---	NSNT
+
+
+429, 1	811, 1-2	BLW	rhy ddiog	---	NSNT
+
+
+430, 1	813, 1-7	IFA	*oh* dw i am gael *steak* munud	---	NST
+
+
+431, 1	814, 1-2	HEU	ges i	NSNT	NSNT
+431, 2	814, 3-5	HEU	dw i ddeud	NSNT	NSNT
+431, 3	814, 6-8	HEU	be ges i	---	NSNT
+
+
+432, 1	815, 1-1	IFA	be	---	NSNT
+
+
+433, 1	816, 1-6	BLW	*oh* ti wedi deud tri gwaith	---	NST
+
+
+434, 1	817, 1-9	IFA	do ti wedi deud be ti wedi gael *Heulwen*	NST	NST
+434, 2	818, 1-5	IFA	be mae *Graham* wedi gael	---	NST
+
+
+435, 1	819, 1-14	HEU	oedd o wedi wneud *pizza* iddo fo ei hun cyn i fi ddod adre	---	NST
+
+
+436, 1	820, 1-2	BLW	*chilli* shite	---	NST
+
+
+437, 1	821, 1-7	IFA	ydy *mam* wedi prynu mwy o gacennau	---	NST
+
+
+438, 1	822, 1-5	HEU	mae yna rywbeth yn y	---	NSNT
+
+
+439, 1	824, 1-8	IFA	oedd hi yn bwydo *Lona_Lwyd* ar y bwrdd	NST	NST
+439, 2	824, 9-11	IFA	pan ddes i	NSNT	NSNT
+439, 3	824, 12-17	IFA	pan ddes i draw bore yma	---	NSNT
+
+
+440, 1	825, 1-4	HEU	be mewn efo cacennau	---	NSNT
+
+
+441, 1	826, 1-6	IFA	na efo un o platiau ni	---	NSNT
+
+
+442, 1	827, 1-3	BLW	*yeah* llefrith God	ST	ST
+442, 2	828, 1-5	BLW	wnest ti ddim gweiddi arni	---	NSNT
+
+
+443, 1	829, 1-5	IFA	wnes i ddeud wrth hi	NSNT	NSNT
+443, 2	829, 6-6	IFA	bod	NSNT	NSNT
+443, 3	829, 7-8	IFA	fasai well	NSNT	NSNT
+443, 4	829, 9-10	IFA	genna i	NSNT	NSNT
+443, 5	829, 11-23	IFA	petasai hi ddim yn bwydo yr gath ar y bwrdd efo platiau ni	---	NSNT
+
+
+444, 1	830, 1-2	HEU	*oh* *Ifan*	---	NST
+
+
+445, 1	831, 1-1	BLW	*Dad*	ST	NST
+445, 2	832, 2-3	BLW	oedd *Beverly*	NST	NST
+445, 3	832, 4-11	BLW	wedi bod yn nasty efo hi gynnau hefyd	---	SNT
+
+
+446, 1	833, 1-1	HEU	mae	NSNT	NSNT
+446, 2	833, 2-2	HEU	mae	---	NSNT
+
+
+447, 1	834, 1-4	IFA	be ddeud wrth hi	---	NSNT
+
+
+448, 1	835, 1-1	HEU	bechod	---	NSNT
+
+
+449, 1	836, 1-5	IFA	be *Bev* wedi ddeud wrthi	NST	NST
+449, 2	837, 1-6	IFA	fydd *Bev* byth byth fel arfer	---	NST
+
+
+450, 1	838, 1-8	BLW	wnaeth Nain *just* ffonio hi a gofyn *er*	NST	NST
+450, 2	838, 9-11	BLW	os oedd o	NSNT	NSNT
+450, 3	839, 1-5	BLW	*oh* na ddoe oedd hynna	NST	NST
+450, 4	840, 1-6	BLW	dw ddim yn cofio pa diwrnod	NSNT	NSNT
+450, 5	840, 7-8	BLW	oedd hi	NSNT	NSNT
+450, 6	841, 1-4	BLW	ddoe dw i meddwl	NSNT	NSNT
+450, 7	842, 1-4	BLW	dw ddim yn cofio	SNT	NSNT
+450, 8	843, 1-10	BLW	anyway dyma hi deud ddylai fi fynd i_fyny tŷ chi	SNT	SNT
+450, 9	844, 1-8	BLW	and oedd *Bev* yn obviously *quite* irritated anyway	ST	ST
+450, 10	845, 1-5	BLW	a wnaeth hi ddeud na	NSNT	NSNT
+450, 11	846, 1-5	BLW	wedyn dyma Nain yn gofyn	NSNT	NSNT
+450, 12	847, 1-5	BLW	pa *gar* wyt ti efo	NST	NST
+450, 13	848, 1-8	BLW	a dyma *Beverly* yn mynd yn really flin	NST	ST
+450, 14	849, 1-5	BLW	a oedd Nain fath â	NSNT	NSNT
+450, 15	850, 1-6	BLW	dw i ddim yn gwybod pam	NSNT	NSNT
+450, 16	850, 7-9	BLW	wnes i ofyn	---	NSNT
+
+
+451, 1	851, 1-2	IFA	be be	NSNT	NSNT
+451, 2	852, 1-5	IFA	dw i ddim yn dallt	NSNT	NSNT
+451, 4	854, 1-7	IFA	chwilio am *lift* neu rywbeth oedd hi	NST	NST
+451, 5	856, 1-4	IFA	neu *just* mwydro oedd	---	NST
+
+
+452, 1	857, 1-4	BLW	oedd hi *just* yn	ST	NST
+452, 2	858, 1-2	BLW	*yeah* *Dad*	---	NST
+
+
+453, 1	859, 1-3	IFA	*just* mwydro *yeah*	---	NST
+
+
+454, 1	860, 1-8	BLW	God basa chdi gallu bod efo psychotic mother	SNT	SNT
+454, 2	860, 9-12	BLW	sy licio beat_io chdi	---	SNT
+
+
+455, 1	862, 1-7	HEU	na sti ti weld ti yn gwybod	NSNT	NSNT
+455, 2	862, 8-18	HEU	pan mae dy *fam* yn dod yma yn ystod y dydd	NST	NST
+455, 3	864, 1-9	HEU	mae *Lona_Lwyd* a *Graham* *er* *Graham* *Dyfi* yn gwybod	NST	NST
+455, 4	864, 10-13	HEU	bod hi yn dod	NSNT	NSNT
+455, 5	865, 1-6	HEU	maen nhw nabod sŵn y *car*	NST	NST
+455, 6	867, 1-6	HEU	mae yr ddau ohonyn nhw lawr	---	NSNT
+
+
+456, 1	868, 1-4	BLW	a mae *Lona_Lwyd* yn	NST	NST
+456, 2	868, 5-13	BLW	mae *Lona_Lwyd* yn eistedd ar y bwrdd in advance	---	ST
+
+
+457, 1	871, 1-5	IFA	ond dach chi yn gwybod	NSNT	NSNT
+457, 2	871, 6-10	IFA	bod hi yn gwneud felly	---	NSNT
+
+
+458, 1	872, 1-3	HEU	wrth_gwrs bod ni	---	NSNT
+
+
+459, 1	873, 1-2	BLW	yndyn wrth_gwrs	---	NSNT
+
+
+460, 1	874, 1-4	IFA	ond dw i erioed	NSNT	NSNT
+460, 2	874, 5-19	IFA	dw i erioed wedi gweld *Lona_Lwyd* cael ei bwydo ar y bwrdd gan *Mam* o_blaen	---	NST
+
+
+461, 1	875, 1-7	HEU	wnei di ffonio dy fam a ddeud	NSNT	NSNT
+461, 2	876, 1-5	HEU	croeso i chi fwydo *Lona_Lwyd*	NST	NST
+461, 3	877, 1-7	HEU	dydy ddim yn aros yna yn hir	---	NSNT
+
+
+462, 1	878, 1-4	IFA	troi yn stumog i	---	NSNT
+
+
+463, 1	879, 1-16	BLW	plus mae yr gath probably mwy hyginic hyginic hygienic na yr un o dy blant di	---	SNT
+
+
+464, 1	880, 1-1	HEU	*Blodeuwedd*	---	NST
+
+
+465, 1	882, 1-5	BLW	dw i fod yn *honest*	NST	NST
+465, 2	883, 1-8	BLW	faint o aml mae *Graham* yn cael showers	---	ST
+
+
+466, 1	884, 1-2	HEU	bob diwrnod	NSNT	NSNT
+466, 2	885, 1-3	HEU	bob un bore	---	NSNT
+
+
+467, 1	886, 1-9	BLW	*o_k* faint o aml ydw i yn cael shower	---	ST
+
+
+468, 1	887, 1-1	HEU	byth	NSNT	NSNT
+468, 2	888, 1-7	HEU	ti *just* yn gorwedd mewn *bath* budr	---	NST
+
+
+469, 1	890, 1-6	IFA	dyna ti be raid fi wneud	NSNT	NSNT
+469, 2	890, 7-7	IFA	fydd	NSNT	NSNT
+469, 3	890, 9-10	IFA	dyna ti	NSNT	NSNT
+469, 4	890, 11-11	IFA	wna	NSNT	NSNT
+469, 5	890, 12-18	IFA	wna i wneud hynna weekend yma tra	NSNT	SNT
+469, 6	890, 19-28	IFA	bod ni yn *B_and_Q* nôl y *stuff* yma i *Blodeuwedd*	NST	NST
+469, 7	891, 1-5	IFA	wna i brynu drws i	NSNT	NSNT
+469, 8	891, 6-9	IFA	roid ar y *bath*	NST	NST
+469, 10	895, 1-1	IFA	basai	NSNT	NSNT
+469, 11	895, 2-6	IFA	basai *Graham* iwsio hwnna wedyn	NST	NST
+469, 12	895, 7-8	IFA	bysai boreau	---	NSNT
+
+
+470, 1	896, 1-9	HEU	ie achos mae yn dipyn o logistics yn_dydy fel	NSNT	SNT
+470, 2	896, 10-18	HEU	mae rhwng y tri ohonon ni isio defnyddio yr	---	NSNT
+
+
+471, 1	898, 1-2	IFA	*so* wyt	NST	NST
+471, 2	898, 3-7	IFA	wyt ti be ti wneud	NSNT	NSNT
+471, 3	899, 1-9	IFA	ti yn cael showers yn y *bath* ta *bath*	---	ST
+
+
+472, 1	900, 1-1	HEU	*bath*	---	NST
+
+
+473, 1	901, 1-3	BLW	*bath* bob tro	---	NST
+
+
+474, 1	902, 1-1	IFA	wedyn	---	NSNT
+
+
+475, 1	903, 1-9	BLW	dw i yn cael *bath* bob yn ail ddiwrnod	---	NST
+
+
+476, 1	905, 1-7	IFA	yn y bore ta yn y nos	---	NSNT
+
+
+477, 1	906, 1-4	BLW	whenever bore a nos	NSNT	SNT
+477, 2	907, 1-3	BLW	mae yn dibynnu	---	NSNT
+
+
+478, 1	908, 1-5	IFA	baset ti yn cymryd showers	SNT	SNT
+478, 2	908, 6-7	IFA	petaswn i	NSNT	NSNT
+478, 3	908, 8-9	IFA	roid *um*	---	NST
+
+
+479, 1	909, 1-2	BLW	no way	---	NSNT
+
+
+480, 1	910, 1-7	IFA	ydy well gen ti gael *baths* wan	---	NST
+
+
+481, 1	911, 1-6	BLW	*lot* gwell gynno fi gael *bath*	NST	NST
+481, 2	912, 1-5	BLW	dw ddim yn licio showers	---	SNT
+
+
+482, 1	913, 1-5	HEU	oedden ni yn sôn am	NSNT	NSNT
+482, 2	913, 6-11	HEU	roid fath â fath â *um*	---	NST
+
+
+483, 1	914, 1-1	BLW	*Jacuzzi*	---	NST
+
+
+484, 1	915, 1-7	HEU	shower head fath â un o yr	---	SNT
+
+
+485, 1	916, 1-5	BLW	basai hwnna yn really *nice*	ST	ST
+485, 2	917, 1-9	BLW	na dim ots pa fath o shower ydy o	---	SNT
+
+
+486, 1	918, 1-6	IFA	*oh* hynna raid ti gael *plumber*	NST	NST
+486, 2	919, 1-7	IFA	raid ni gael *plumber* i wneud hynna	NST	NST
+486, 3	920, 1-9	IFA	ond efo yr ddrws ddyro i ddrws arno fo	NSNT	NSNT
+486, 4	922, 1-1	IFA	mae	NSNT	NSNT
+486, 5	922, 2-5	IFA	mae dal i wneud	---	NSNT
+
+
+487, 1	923, 1-6	BLW	dim ots dim ots gynno fi	---	NSNT
+
+
+488, 1	924, 1-2	IFA	dan ni	NSNT	NSNT
+488, 2	924, 3-8	IFA	wedi bod yn sôn amdano fo	---	NSNT
+
+
+489, 1	925, 1-5	BLW	dw i yn casáu showers	---	SNT
+
+
+490, 1	926, 1-3	IFA	ond dw i	NSNT	NSNT
+490, 2	926, 4-7	IFA	dw i ddim gwybod	NSNT	NSNT
+490, 3	926, 8-9	IFA	mae yn	NSNT	NSNT
+490, 4	927, 1-8	IFA	sti fod yna pan ti meddwl amdano fo	NSNT	NSNT
+490, 5	927, 10-20	IFA	mae yna bymtheg mlynedd ers ni gael wneud y *bathroom* wan	NST	NST
+490, 6	927, 21-21	IFA	sti	---	NSNT
+
+
+491, 1	929, 1-1	BLW	*Jacuzzi*	---	NST
+
+
+492, 1	930, 1-11	IFA	timod digon o amser ddechrau ddechrau meddwl am wneud o eto	NSNT	NSNT
+492, 2	931, 1-3	IFA	be ti feddwl	---	NSNT
+
+
+493, 1	932, 1-1	HEU	mae	NSNT	NSNT
+493, 2	932, 2-5	HEU	mae yn ddiddiwedd yntydy	---	NSNT
+
+
+494, 1	933, 1-4	IFA	a wneud bob_dim eto	NSNT	NSNT
+494, 3	935, 1-8	IFA	basai *nice* petasen ni wedi gorffen tu allan	NST	NST
+494, 4	935, 9-9	IFA	bysai	NSNT	NSNT
+494, 5	936, 1-5	IFA	pan wnaethon ni wneud o	NSNT	NSNT
+494, 6	937, 1-6	IFA	dan ni mynd i orfod ail_wneud	NSNT	NSNT
+494, 7	937, 7-16	IFA	dan ni yn gorod ail ail ail_wneud tu allan i_gyd	NSNT	NSNT
+494, 8	937, 17-18	IFA	sti *Blod*	---	NST
+
+
+495, 1	938, 1-1	BLW	be	---	NSNT
+
+
+496, 1	939, 1-8	IFA	dan ni yn gorod ail_blastro tu allan i_gyd	---	NSNT
+
+
+497, 1	940, 1-2	BLW	tu allan	NSNT	NSNT
+497, 2	942, 1-5	BLW	ti yn plastro tu allan	---	NSNT
+
+
+498, 1	943, 1-3	IFA	*well* *er* timod	NST	NST
+498, 2	943, 4-8	IFA	pan oedd y ti cofio	NSNT	NSNT
+498, 3	943, 9-12	IFA	pan oedda chdi fach	NSNT	NSNT
+498, 4	943, 13-20	IFA	ac oedd y y *Dixons* yma yn yn	NST	NST
+498, 5	945, 1-6	IFA	dan ni yn gorod ail_wneud o	---	NSNT
+
+
+499, 1	946, 1-2	BLW	fan acw	---	NSNT
+
+
+500, 1	947, 1-6	IFA	*mmm* a *round* y tŷ i_gyd	NST	NST
+500, 2	948, 1-8	IFA	dyn nhw ddim wedi wneud o yn iawn	NSNT	NSNT
+500, 4	950, 1-1	IFA	mae	NSNT	NSNT
+500, 5	950, 2-5	IFA	mae dŵr dod i_mewn	---	NSNT
+
+
+501, 1	951, 1-10	BLW	*so* pam ti wedi gofyn iddyn nhw wneud o eto	---	NST
+
+
+502, 1	952, 1-9	IFA	dw i ddim wedi gofyn wrthyn nhw ddod eto	NSNT	NSNT
+502, 2	953, 1-10	IFA	wedi gofyn wrtho ddod yn_ôl i i sbïo arno fo	NSNT	NSNT
+502, 3	954, 1-4	IFA	a mae wedi cydnabod	NSNT	NSNT
+502, 4	954, 5-6	IFA	bod *er*	NST	NST
+502, 5	954, 7-9	IFA	bod o ddim	NSNT	NSNT
+502, 6	954, 10-14	IFA	bod o ddim yn iawn	NSNT	NSNT
+502, 7	954, 15-19	IFA	bod dŵr yn dod i_mewn	NSNT	NSNT
+502, 8	955, 1-5	IFA	ond mae o yn deud	NSNT	NSNT
+502, 9	955, 6-16	IFA	bod o wedi wneud o *er* yn_ôl canllawiau y cyngor sir	NST	NST
+502, 10	956, 1-9	IFA	*so* mae o yn gwrthod derbyn cyfrifoldeb arno fo	NST	NST
+502, 11	957, 1-13	IFA	*so* dw i yn gorod mynd i hassle_o cyngor sir wan i weld	NST	ST
+502, 12	957, 14-17	IFA	os wneith *er* gweld	NST	NST
+502, 13	957, 18-22	IFA	be wneith rheina amdano fo	---	NSNT
+
+
+503, 1	959, 1-4	HEU	ond maen nhw yn	NSNT	NSNT
+503, 2	959, 5-16	HEU	maen nhw yn penodi dau weithiwr cymdeithasol newydd yn y *team* maethu	---	NST
+
+
+504, 1	960, 1-8	IFA	*well* sut maen nhw manejio wneud hynna though	---	ST
+
+
+505, 1	961, 1-4	HEU	er_mwyn bod nhw yn	---	NSNT
+
+
+506, 1	962, 1-3	IFA	er_mwyn safio pres	---	NSNT
+
+
+507, 1	964, 1-11	HEU	bod nhw yn yn perswadio mwy ofalwyr lleol i weithio fel	NSNT	NSNT
+507, 2	964, 12-18	HEU	bod nhw yn gallu safio pres felly	---	NSNT
+
+
+508, 1	965, 1-4	IFA	am llai o bres	---	NSNT
+
+
+509, 1	966, 1-7	HEU	na fysen nhw yn gael o gan	NSNT	NSNT
+509, 2	966, 8-8	HEU	asiant	---	NSNT
+
+
+510, 1	967, 1-3	IFA	gan bobl eraill	---	NSNT
+
+
+512, 1	970, 1-5	HEU	ddim *Dickie* oedd hwnnw nage	---	NST
+
+
+513, 1	971, 1-3	IFA	*Eddie* oedd hwnna	---	NST
+
+
+514, 1	972, 1-3	HEU	*Eddie* oedd hwnnw	---	NST
+
+
+515, 1	973, 1-1	BLW	whatever	---	NSNT
+
+
+516, 1	974, 1-7	IFA	*Eddie_Dixon* oedd hwnnw ei frawd bach o	---	NST
+
+
+517, 1	975, 1-1	BLW	irritating	---	NSNT
+
+
+518, 1	976, 1-3	IFA	oedd o braidd	NSNT	NSNT
+518, 2	976, 4-4	IFA	doedd	---	NSNT
+
+
+519, 1	977, 1-1	BLW	braidd	---	NSNT
+
+
+520, 1	978, 1-5	IFA	y *caravan* yn yr ardd	---	NST
+
+
+521, 1	980, 1-1	HEU	be	---	NSNT
+
+
+522, 1	981, 1-5	IFA	y *caravan* yn yr ardd	---	NST
+
+
+523, 1	983, 1-1	BLW	seriously	---	NSNT
+
+
+524, 1	984, 1-6	IFA	dan ni ddim isio hynna eto	NSNT	NSNT
+524, 2	984, 7-8	IFA	nag oes	NSNT	NSNT
+524, 3	985, 1-4	IFA	dw i ddim gwybod	NSNT	NSNT
+524, 4	985, 5-11	IFA	be dan ni mynd i wneud wan	---	NSNT
+
+
+525, 1	986, 1-7	BLW	pam oedd yna *caravan* yn yr ardd	---	NST
+
+
+526, 1	987, 1-6	HEU	wnes i yr eitha fwynhau o	NSNT	NSNT
+526, 2	987, 7-9	HEU	dw i meddwl	NSNT	NSNT
+526, 3	988, 1-3	HEU	o'n i ddim	---	NSNT
+
+
+527, 1	989, 1-11	IFA	*yeah* ond ti falch weld eu cefnau nhw yn diwedd oeddet	---	ST
+
+
+528, 1	990, 1-11	BLW	o'n i yn o'n i yn licio yr take_aways a food	---	SNT
+
+
+529, 1	991, 1-2	HEU	*oh* oedden	---	NST
+
+
+530, 1	992, 1-3	IFA	oedd o yn	NSNT	NSNT
+530, 2	992, 4-6	IFA	oedd o yn	NSNT	NSNT
+530, 3	992, 7-17	IFA	oedd o yn *o_k* pan o'n nhw wneud gwaith tu allan	NST	NST
+530, 4	992, 18-18	IFA	doedd	NSNT	NSNT
+530, 5	994, 1-12	IFA	ond am y mis ola pan oedden nhw wneud gwaith tu mewn	NSNT	NSNT
+530, 6	994, 13-17	IFA	oedd hynna yn *bloody* horrendous	ST	ST
+530, 8	996, 1-4	IFA	oedd o yn uffernol	NSNT	NSNT
+530, 9	996, 5-5	IFA	doedd	---	NSNT
+
+
+531, 1	997, 1-4	HEU	dw ddim yn cofio	NSNT	NSNT
+531, 2	997, 5-5	HEU	sti	---	NSNT
+
+
+532, 1	999, 1-10	BLW	oedden ni efo yr gegin a bob_dim yn y parlwr	NSNT	NSNT
+532, 2	999, 11-11	BLW	doedd	---	NSNT
+
+
+533, 1	1000, 1-11	IFA	o'n i falch o'n i falch iawn gweld eu cefnau nhw	---	NSNT
+
+
+534, 1	1001, 1-1	HEU	oedden	NSNT	NSNT
+534, 2	1002, 1-10	HEU	fath â *just* fath â *um* microwave bach gynnon ni	NST	ST
+534, 3	1004, 1-5	HEU	i wneud ein bwyd i_gyd	---	NSNT
+
+
+535, 1	1005, 1-3	BLW	a *stove* bach	---	NST
+
+
+536, 1	1006, 1-5	IFA	*yeah* rywun anghofio pethau yma	---	NST
+
+
+537, 1	1007, 2-4	HEU	gynnon ni *stove*	NST	NST
+537, 2	1008, 1-6	HEU	oedden ni yn defnyddio yr *stove*	---	NST
+
+
+538, 1	1009, 1-4	BLW	cofio gweld o yna	---	NSNT
+
+
+539, 1	1010, 1-5	IFA	gynnon ni *stove* *um* campio	NST	NST
+539, 2	1010, 6-6	IFA	doedd	---	NSNT
+
+
+540, 1	1011, 2-6	HEU	ond dw ddim yn gwybod	NSNT	NSNT
+540, 2	1011, 7-10	HEU	dw ddim yn cofio	NSNT	NSNT
+540, 3	1011, 11-16	HEU	bod ni yn defnyddio llawer ohoni	---	NSNT
+
+
+541, 1	1012, 1-9	IFA	*oh* oedden ni yn iwsio fo iwsio fo rywfaint	---	NST
+
+
+542, 1	1013, 1-1	HEU	oedden	---	NSNT
+
+
+543, 1	1014, 1-4	IFA	oedden iwsio fo rywfaint	NSNT	NSNT
+543, 2	1015, 1-8	IFA	dw i cofio iwsio fo i ffrio pethau	---	NSNT
+
+
+544, 1	1016, 1-7	BLW	dw i yn *just* cofio *Mabinogion* *pizza*	---	NST
+
+
+545, 1	1017, 1-10	IFA	o'n ni yn cael prynu *lot* mwy o *bizzas* oedden	NST	NST
+545, 2	1017, 11-11	IFA	oedden	---	NSNT
+
+
+546, 1	1018, 1-4	HEU	a mynd i *Fitzpatrick's*	---	NST
+
+
+547, 1	1020, 1-7	IFA	dim wedi gwneud hynna ers dipyn naddo	---	NSNT
+
+
+548, 1	1021, 1-3	HEU	ddim ers oesoedd	---	NSNT
+
+
+549, 1	1022, 1-5	BLW	basai *nice* i ni fynd	---	NST
+
+
+550, 1	1023, 1-1	IFA	*eh*	---	NST
+
+
+551, 1	1024, 1-9	HEU	*er* mae lle ar gau drwy yr adeg anyway	---	ST
+
+
+552, 1	1025, 1-3	BLW	dan ni *yeah*	NST	NST
+552, 2	1025, 4-11	BLW	dan ni byth yn mynd allan fel teulu	---	NSNT
+
+
+553, 1	1026, 1-15	HEU	dyn nhw ddim ar agor i gael te dyddiau yma pa yr un bynnag nac	NSNT	NSNT
+553, 2	1026, 16-16	HEU	ydyn	NSNT	NSNT
+553, 3	1027, 1-8	HEU	oedden ni mynd yna i gael te yn_doedden	---	NSNT
+
+
+554, 1	1028, 1-1	IFA	*Fitzpatrick's*	ST	NST
+554, 2	1030, 1-1	IFA	oedden	NSNT	NSNT
+554, 3	1030, 2-3	IFA	dw meddwl	NSNT	NSNT
+554, 4	1030, 4-12	IFA	oedden nhw yn agor ambell i ambell i bnawn	NSNT	NSNT
+554, 5	1030, 13-13	IFA	doedden	---	NSNT
+
+
+555, 1	1031, 1-9	HEU	fath â maen nhw yn cau am dri wan	NSNT	NSNT
+555, 2	1031, 10-10	HEU	sti	---	NSNT
+
+
+556, 1	1032, 1-8	IFA	yndy o'n nhw yn agor ambell i bnawn	NSNT	NSNT
+556, 2	1033, 1-5	IFA	dim bob bnawn nac oedd	NSNT	NSNT
+556, 3	1035, 1-4	IFA	fedra i ddim dallt	NSNT	NSNT
+556, 4	1035, 5-11	IFA	sut bod nhw yn dewis gwneud hynna	NSNT	NSNT
+556, 5	1035, 12-12	IFA	sti	---	NSNT
+
+
+557, 1	1036, 1-2	BLW	na fi	NSNT	NSNT
+557, 2	1038, 1-7	BLW	achos yna nunlle arall ym *Pesda* really	---	ST
+
+
+558, 1	1039, 1-8	IFA	na *oh* dw i wedi gweld *Caffi_Seren* yn	NST	NST
+558, 2	1039, 9-17	IFA	agored ambell waith ar_ôl pump ond *er* cyn Dolig	---	NST
+
+
+559, 1	1040, 1-16	BLW	dydy *Caffi_Seren* ddim yn math o lle basa chdi isio mynd am te though ti gweld	NST	ST
+559, 2	1040, 17-19	BLW	be dw feddwl	NSNT	NSNT
+559, 3	1041, 1-2	BLW	mae caffi	NSNT	NSNT
+559, 5	1043, 1-5	BLW	dw i caru *Caffi_Seren* though	---	ST
+
+
+560, 1	1044, 1-7	IFA	*yeah* *just* lle cael paned ydy o	NST	NST
+560, 2	1045, 1-6	IFA	unig reswm mae rywun yn mynd	NSNT	NSNT
+560, 3	1046, 1-15	IFA	ti dim ond really mynd yna pan mae yn braf ti gael eistedd tu allan	---	SNT
+
+
+561, 1	1047, 1-5	BLW	ges i *lentil* *soup* yna	NST	NST
+561, 2	1048, 1-5	BLW	dw i mynd yna o_hyd	NSNT	NSNT
+561, 3	1048, 6-6	BLW	sti	NSNT	NSNT
+561, 4	1050, 1-11	BLW	ges i dau *coffee* ac *orange* juice heddiw ac *lentil* *soup*	---	ST
+
+
+562, 1	1051, 1-2	HEU	esgob mawr	NSNT	NSNT
+562, 2	1052, 1-5	HEU	mae yr tân wedi diffod	---	NSNT
+
+
+563, 1	1053, 1-2	BLW	*oh* God	NST	NST
+563, 2	1054, 1-4	BLW	do something new twat	---	NSNT
+
+
+564, 1	1056, 1-9	HEU	tua faint o arholiadau sy gen ti wsnos nesa	---	NSNT
+
+
+565, 1	1057, 1-1	BLW	un	---	NSNT
+
+
+566, 1	1058, 1-8	HEU	*so* dim ond dwy arholiad sy gen ti	---	NST
+
+
+567, 1	1059, 1-7	BLW	gen i un arall wedyn wsnos wedyn	---	NSNT
+
+
+568, 1	1061, 1-6	HEU	mae gyn *Graham* dair wsnos nesa	NST	NST
+568, 2	1061, 7-9	HEU	dw i meddwl	---	NSNT
+
+
+569, 1	1062, 1-1	BLW	really	SNT	NSNT
+569, 2	1063, 1-3	BLW	tair mewn wsnos	---	NSNT
+
+
+570, 1	1064, 1-9	HEU	*oh* dw ddim yn *sure* iawn *oh* hwyrach na	---	NST
+
+
+571, 1	1065, 1-6	BLW	mae gynno fo dau mewn diwrnod	NSNT	NSNT
+571, 2	1067, 1-5	BLW	gynno fo dau mewn diwrnod	NSNT	NSNT
+571, 3	1068, 1-2	BLW	gynno fo	NSNT	NSNT
+571, 4	1069, 1-5	BLW	oes gynno fo *maths* fory	---	NST
+
+
+572, 1	1070, 1-4	HEU	does gynno ddim_byd fory	NSNT	NSNT
+572, 2	1070, 5-8	HEU	dw ddim yn meddwl	NSNT	NSNT
+572, 3	1071, 1-6	HEU	ti meddwl bod gynno *maths* fory	---	NST
+
+
+573, 1	1072, 1-5	BLW	mae A_level whatever *maths* ond	---	ST
+
+
+574, 1	1073, 1-5	HEU	A_S mae o wneud *yeah*	---	ST
+
+
+575, 1	1074, 1-11	BLW	o'n i meddwl na A_S oedd o yn y dechrau wedyn	---	SNT
+
+
+576, 1	1075, 1-3	HEU	mae raid ddim	---	NSNT
+
+
+577, 1	1076, 1-2	BLW	fasai fo	NSNT	NSNT
+577, 2	1076, 3-10	BLW	fysai fo ddim yn licio ar y computers	---	SNT
+
+
+578, 1	1077, 1-1	IFA	*Blod*	---	NST
+
+
+579, 1	1078, 1-6	HEU	ti isio fi wneud hwnna *Blodeuwedd*	---	NST
+
+
+580, 1	1079, 1-7	IFA	waeth ti heb â ag wneud o	---	NSNT
+
+
+581, 1	1080, 1-6	BLW	yes ti wedi deud wrtha fi	---	SNT
+
+
+582, 1	1081, 1-15	IFA	os dydy o ddim yn gweithio tro cynta ti *just* gorod disgwyl am bum munud	---	NST
+
+
+583, 1	1082, 1-8	BLW	ti isio fi fynd lawr i yr *pub*	---	NST
+
+
+584, 1	1083, 1-2	IFA	nag oes	---	NSNT
+
+
+585, 1	1084, 1-1	BLW	exactly	---	NSNT
+
+
+586, 1	1085, 1-5	IFA	ond paid â clicio clicio	---	NSNT
+
+
+587, 1	1086, 1-1	BLW	*hello*	---	NST
+
+
+589, 1	1088, 1-6	BLW	mi wnaeth o weithio tro cyntaf	NSNT	NSNT
+589, 2	1089, 1-1	BLW	dyna	NSNT	NSNT
+589, 3	1089, 2-4	BLW	ydy yr pwynt	NSNT	NSNT
+589, 4	1090, 1-1	BLW	mae	NSNT	NSNT
+589, 5	1090, 2-5	BLW	*just* bod yn prick	ST	ST
+589, 6	1091, 1-2	BLW	*oh* *sorry*	---	NST
+
+
+590, 1	1092, 1-11	HEU	ti ddim yn licio *Blodeuwedd* fod yn flin nag wyt *Dyfs*	---	NST
+
+
+591, 1	1093, 1-2	BLW	*hello* stinky	ST	NST
+591, 2	1094, 1-1	BLW	*Dyfi*	---	NST
+
+
+592, 1	1095, 1-2	HEU	*oh* bechod	---	NST
+
+
+593, 1	1096, 1-5	IFA	be mae o wedi wneud	---	NSNT
+
+
+594, 1	1097, 1-5	BLW	sefyll ar gwaith celf fi	---	NSNT
+
+
+595, 1	1098, 1-10	HEU	oedd dy waith celf di ar o_flaen ei draed o	---	NSNT
+
+
+596, 1	1099, 1-7	IFA	*yeah* a a ci ydy o *Blod*	---	NST
+
+
+597, 1	1100, 1-4	HEU	be wyt ti feddwl	NSNT	NSNT
+597, 2	1100, 5-6	HEU	ydy o	NSNT	NSNT
+597, 3	1102, 1-6	HEU	*oh* ti wedi ypsetio fo wan	NST	NST
+597, 4	1103, 1-3	HEU	tyrd yma babi	NSNT	NSNT
+597, 5	1104, 1-3	HEU	paid â dychryn	NSNT	NSNT
+597, 6	1105, 1-3	HEU	hen *Blodeuwedd* gas	---	NST
+
+
+598, 1	1106, 1-5	IFA	*yeah* yn gweiddi ar chdi	NST	NST
+598, 2	1108, 1-4	IFA	y cwbl wnest ti	NSNT	NSNT
+598, 3	1108, 6-8	IFA	roid dy draed	---	NSNT
+
+
+599, 1	1109, 1-8	HEU	oedd tithau ddim wneud ddim_byd drwg i neb	---	NSNT
+
+
+600, 1	1110, 1-3	IFA	cwbl wnest ti	NSNT	NSNT
+600, 2	1110, 5-13	IFA	roid dy draed ar y peth gwyn *nice* yna	---	NST
+
+
+601, 1	1111, 1-1	HEU	naddo	---	NSNT
+
+
+602, 1	1113, 1-8	BLW	ti wedi gweld stad ar *file* hanes fi	---	NST
+
+
+603, 1	1114, 1-1	IFA	naddo	---	NSNT
+
+
+604, 1	1115, 1-1	HEU	naddo	---	NSNT
+
+
+605, 1	1116, 1-5	BLW	ar_ôl i *Dyfi* trample_o fo	---	ST
+
+
+606, 1	1117, 1-11	HEU	*oh* sut sut bod o wedi cael cyfle i wneud hynna	---	NST
+
+
+607, 1	1119, 1-5	BLW	because bod o ar lawr	NSNT	SNT
+607, 2	1119, 6-10	BLW	a wnaeth fynd drosto fo	---	NSNT
+
+
+608, 1	1120, 1-8	IFA	ychdi sydd yn wirion gadael o ar lawr	NSNT	NSNT
+608, 2	1121, 1-2	IFA	dan ni	NSNT	NSNT
+608, 3	1121, 3-6	IFA	wedi bod trwy hyn	---	NSNT
+
+
+609, 1	1122, 1-2	HEU	deud *Dyfs*	NST	NST
+609, 2	1123, 1-6	HEU	be ti feddwl o hyn *Dyfi*	NST	NST
+609, 3	1124, 1-2	HEU	deud wrthi	---	NSNT
+
+
+610, 1	1125, 1-3	BLW	un dau tri	---	NSNT
+
+
+611, 1	1126, 1-5	HEU	edrycha ar ei ddannedd o	NSNT	NSNT
+611, 2	1127, 1-4	HEU	mae ddannedd o yn	---	NSNT
+
+
+612, 1	1128, 1-1	BLW	*Dyfi*	---	NST
+
+
+613, 1	1129, 1-1	IFA	*great*	---	NST
+
+
+614, 1	1132, 1-1	BLW	*Dyfi*	---	NST
+
+
+615, 1	1133, 1-9	IFA	*Graham* dan ni isio yma i weindio fo fyny	---	NST
+
+
+616, 1	1134, 1-2	BLW	stink *bag*	---	NST
+
+
+617, 1	1135, 1-7	HEU	a oeddech chi wedi clywed y *scandal*	---	NST
+
+
+618, 1	1136, 1-2	IFA	pa un	---	NSNT
+
+
+619, 1	1137, 1-4	HEU	am *Sali_Mali* a Sam_Tân	---	NST
+
+
+620, 1	1138, 1-1	IFA	naddo	---	NSNT
+
+
+621, 1	1139, 1-7	BLW	*oh* my God mae hynna yn sick	---	ST
+
+
+622, 1	1140, 1-3	IFA	mae o braidd	NSNT	NSNT
+622, 2	1140, 4-5	IFA	dydy *Blod*	---	NST
+
+
+623, 1	1141, 1-7	HEU	ti ddim wedi glywed o eto naddo	---	NSNT
+
+
+624, 1	1142, 1-6	IFA	be on earth ydy *scandal* yma	---	ST
+
+
+625, 1	1143, 1-3	BLW	be dyn nhw	NSNT	NSNT
+625, 2	1143, 4-7	BLW	wedi bod yn siagio	NSNT	NSNT
+625, 3	1145, 1-3	BLW	fyny yr tin	---	NSNT
+
+
+626, 1	1146, 1-2	IFA	*oh* *Blodeuwedd*	---	NST
+
+
+627, 1	1147, 1-4	HEU	ti wedi clywed do	---	NSNT
+
+
+628, 1	1148, 1-2	BLW	*Mam* seriously	ST	NST
+628, 3	1150, 1-1	BLW	lle	---	NSNT
+
+
+629, 1	1151, 1-2	HEU	ar *Youtube*	---	NST
+
+
+630, 1	1153, 1-8	IFA	be rywun wedi gwneud *er* *cartoon* ohonyn nhw	---	NST
+
+
+631, 1	1154, 3-11	HEU	oedd rywun wedi heirio yr *er* *costumes* gen S_pedwar_C	---	NST
+
+
+632, 1	1155, 1-2	IFA	*yeah* wir	---	NST
+
+
+633, 1	1156, 1-3	HEU	achos ti gallu	NSNT	NSNT
+633, 2	1157, 1-9	HEU	oedd yr *Menter_Iaith* pan i yn gweithio efo *Menter_Iaith*	NST	NST
+633, 3	1157, 10-25	HEU	oedden ni yn cael menthyg y *costumes* i i wneud ryw bethau i ysti am ddim	---	NST
+
+
+634, 1	1158, 1-1	BLW	*off*	---	NST
+
+
+635, 1	1159, 1-16	IFA	a mae rywun wedi rentio *costumes* a wedi cael wedi cael rhyw a wedi ffilmio fo	---	NST
+
+
+636, 1	1160, 1-18	HEU	na oedden nhw ddim wedi cael rhyw *just* wedi cogio cael rhyw ar *Youtube* ar a wedyn wedi	NST	NST
+636, 2	1160, 19-23	HEU	roid o fyny ar *Youtube*	NST	NST
+636, 3	1162, 1-8	HEU	ond mae nhw wedi dynnu o lawr bellach	---	NSNT
+
+
+637, 1	1164, 1-5	BLW	*oh* *Dyfi* dos o yma	NST	NST
+637, 2	1165, 1-3	BLW	ti yn *horrible*	---	NST
+
+
+638, 1	1166, 1-2	HEU	paid â	NSNT	NSNT
+638, 2	1166, 3-8	HEU	bod yn gas efo fo *Blodeuwedd*	---	NST
+
+
+639, 1	1167, 1-8	BLW	mae wedi dwyn sêt fi ddechrau efo hi	---	NSNT
+
+
+640, 1	1168, 1-11	HEU	*well* ti ddim yn eistedd ar hyn o bryd nag wyt	NST	NST
+640, 3	1170, 1-4	HEU	isio fi wneud hwnna	---	NSNT
+
+
+641, 1	1171, 1-3	BLW	mae wedi wneud	---	NSNT
+
+
+642, 1	1172, 1-3	IFA	ydy o yn	NSNT	NSNT
+642, 2	1172, 4-7	IFA	ydy o wedi tanio	---	NSNT
+
+
+643, 1	1173, 1-1	BLW	naddo	NSNT	NSNT
+643, 2	1173, 2-3	BLW	dyna pam	NSNT	NSNT
+643, 3	1173, 4-10	BLW	dw i yn eistedd yma yn pwsio	---	NSNT
+
+
+644, 1	1174, 1-3	IFA	*right* paid ti	NST	NST
+644, 2	1174, 4-8	IFA	â wneud o eto iawn	NSNT	NSNT
+644, 3	1175, 1-10	IFA	wna i neu *Heulwen* wneud o mewn tua chwech_deg eiliad	---	NST
+
+
+645, 1	1176, 1-3	BLW	mae o wedi	---	NSNT
+
+
+646, 1	1177, 1-2	IFA	wedi be	---	NSNT
+
+
+647, 1	1178, 1-1	BLW	tanio	---	NSNT
+
+
+648, 1	1179, 1-9	IFA	*so* pam ti yn cario ymlaen i wneud o	---	NST
+
+
+649, 1	1180, 1-9	HEU	mae yr hen weiddi yma yn dy ypsetio di	NSNT	NSNT
+649, 2	1180, 10-12	HEU	dydy *Dyfi* bach	---	NST
+
+
+650, 1	1181, 1-8	BLW	mae *Dyfi* yn ypsetio fi efo ei *fluff*	---	NST
+
+
+651, 1	1182, 1-7	IFA	iawn *o_k* *Blod* wna i wneud o	---	NST
+
+
+652, 1	1183, 1-6	BLW	*Dad* dw i wedi wneud o	---	NST
+
+
+653, 1	1184, 1-5	IFA	be does yna ddim pam	NSNT	NSNT
+653, 2	1184, 6-11	IFA	dydy o ddim yn dod ymlaen	NSNT	NSNT
+653, 3	1184, 12-12	IFA	ta	---	NSNT
+
+
+654, 1	1185, 1-3	BLW	mae yna fflam	---	NSNT
+
+
+655, 1	1186, 1-13	IFA	*right* *er* cwbl ti wneud wan ydy ryddhau dy law yn ara deg	NST	NST
+655, 2	1187, 1-2	IFA	dyna chdi	NSNT	NSNT
+655, 3	1188, 1-5	IFA	wnaeth o gweithio fel yna	---	NSNT
+
+
+656, 1	1189, 1-1	BLW	*ha_ha*	---	NST
+
+
+657, 1	1190, 1-4	IFA	*right* symud o ffordd	NST	NST
+657, 2	1191, 1-4	IFA	wna i wneud o	---	NSNT
+
+
+658, 1	1192, 1-4	HEU	wna i wneud o	---	NSNT
+
+
+659, 1	1193, 1-1	BLW	Jesus_Christ	---	NSNT
+
+
+660, 1	1194, 1-4	IFA	wna i wneud o	---	NSNT
+
+
+661, 1	1195, 1-4	HEU	wna i wneud o	---	NSNT
+
+
+662, 1	1196, 1-4	IFA	wna i wneud o	---	NSNT
+
+
+663, 1	1197, 1-4	HEU	wna i wneud o	---	NSNT
+
+
+664, 1	1198, 1-7	BLW	*Dyfi* *please* syma allan o sêt fi	---	NST
+
+
+665, 1	1199, 1-4	IFA	wna i wneud o	---	NSNT
+
+
+666, 1	1200, 1-3	HEU	tyrd ta *Ifan*	NST	NST
+666, 2	1201, 1-6	HEU	dangos faint o ddyn wyt ti	---	NSNT
+
+
+667, 1	1202, 1-5	IFA	iawn wna i wneud o	SNT	NSNT
+667, 2	1203, 1-3	IFA	here we go	---	NSNT
+
+
+668, 1	1204, 1-1	BLW	*Dyfi*	ST	NST
+668, 3	1206, 2-10	BLW	be ddylech chi *just* gadael i *Dyfi* impregnate_io rhywun	---	ST
+
+
+669, 1	1208, 1-3	HEU	impregnate_io pwy *Ifan*	---	ST
+
+
+670, 1	1209, 1-2	BLW	rhyw ci	SNT	NSNT
+670, 2	1210, 1-2	BLW	*Dad* *Mam*	ST	NST
+670, 3	1211, 1-9	BLW	pam wyt ti yn sbïo arna fi fel yna	---	NSNT
+
+
+671, 1	1212, 1-1	HEU	pwy	---	NSNT
+
+
+672, 1	1213, 1-1	BLW	*Dad*	---	NST
+
+
+673, 1	1215, 1-5	HEU	ga i wneud hwnna *Ifan*	NST	NST
+673, 2	1216, 1-4	HEU	achos dw i wedi	NSNT	NSNT
+673, 3	1216, 5-13	HEU	dw i wedi ddod i ddallt o *right* dda	---	NST
+
+
+674, 1	1217, 1-8	BLW	no mae yn *quite* funny gwatsiad *Dad* ar	NST	ST
+674, 2	1217, 9-18	BLW	ei *bloody* pen_gliniau efo yr ci yn trio mowntio fo	---	NST
+
+
+675, 1	1221, 1-5	HEU	*oh* mae yn tanio wan	NST	NST
+675, 2	1221, 6-6	HEU	edrychwch	---	NSNT
+
+
+676, 1	1222, 1-1	IFA	naddo	NSNT	NSNT
+676, 2	1223, 1-7	IFA	wnaeth o gau gwneud am ryw reswm	---	NSNT
+
+
+677, 1	1224, 1-7	BLW	ddyla chdi wedi gadael i fi wneud	---	NSNT
+
+
+678, 1	1225, 1-6	HEU	pam bod o cau gwneud *Heulwen*	---	NST
+
+
+679, 1	1226, 1-4	BLW	achos ti yn *stupid*	---	NST
+
+
+680, 1	1227, 1-5	HEU	ti wedi troi hwnna i_fyny	NSNT	NSNT
+680, 2	1228, 1-8	HEU	achos ti yn gorod troi hwnna i_fyny yn_dwyt	---	NSNT
+
+
+681, 1	1229, 1-5	IFA	o'n i wedi droi fyny	NSNT	NSNT
+681, 2	1230, 1-5	IFA	dydy o ddim anaml iawn	NSNT	NSNT
+681, 3	1230, 6-8	IFA	mae gwneud hynna	NSNT	NSNT
+681, 4	1231, 1-2	IFA	mae yn	NSNT	NSNT
+681, 5	1231, 3-7	IFA	mae ar last legs wan	NSNT	SNT
+681, 6	1231, 8-8	IFA	dydy	NSNT	NSNT
+681, 7	1232, 1-7	IFA	amser ni amser i gael un gryfach	---	NSNT
+
+
+682, 1	1233, 1-3	BLW	dydy o ddim	NSNT	NSNT
+682, 2	1234, 1-4	BLW	mae o dim ond	---	NSNT
+
+
+683, 1	1235, 1-7	IFA	beth am beth am gael tân newydd	NSNT	NSNT
+683, 2	1236, 1-8	IFA	achos mae yr tân yma yn ddeuddeg oed	NSNT	NSNT
+683, 3	1236, 9-10	IFA	sti hefyd	NSNT	NSNT
+683, 4	1236, 11-11	IFA	dydy	---	NSNT
+
+
+684, 1	1237, 1-4	BLW	dim ond deuddeg oed	SNT	NSNT
+684, 2	1239, 1-2	BLW	no way	---	NSNT
+
+
+685, 1	1240, 1-4	HEU	deuddeg oed ydy o	---	NSNT
+
+
+686, 1	1241, 1-2	IFA	mae yna	NSNT	NSNT
+686, 2	1242, 1-3	IFA	na mae ddeuddeg	---	NSNT
+
+
+687, 1	1243, 1-2	BLW	no way	SNT	NSNT
+687, 2	1244, 1-5	BLW	*Dad* dw i yn eighteen	---	ST
+
+
+688, 1	1245, 1-3	IFA	mae ddeuddeg oed	NSNT	NSNT
+688, 2	1245, 4-5	IFA	sti dair_ar_ddeg	---	NSNT
+
+
+689, 1	1246, 1-5	HEU	mae yn hŷn na hynny	---	NSNT
+
+
+690, 1	1247, 1-3	BLW	mae loads hŷn	---	SNT
+
+
+691, 1	1248, 1-2	IFA	*alright* then	ST	NST
+691, 2	1249, 1-3	IFA	pryd oedd o	---	NSNT
+
+
+692, 1	1250, 1-1	BLW	wnaeth	NSNT	NSNT
+692, 2	1250, 2-7	BLW	pan wnaethoch chi brynu yr tŷ	---	NSNT
+
+
+693, 1	1251, 1-9	HEU	*oh* yn fuan iawn iawn ar_ôl ni symud i_mewn	---	NST
+
+
+694, 1	1252, 1-5	IFA	*well* mae yn bymtheg felly	NST	NST
+694, 2	1254, 1-12	IFA	*so* ella bod hi yn amser ni feddwl am gael un arall	---	NST
+
+
+695, 1	1255, 1-10	HEU	a a mae yr *er* *boiler* yn dri_deg bron iawn	---	NST
+
+
+696, 1	1256, 1-4	IFA	mwy rywbeth mwy economical	SNT	SNT
+696, 2	1258, 1-6	IFA	ond mae hwnna yn aros yna	NSNT	NSNT
+696, 4	1260, 1-8	IFA	dydy hwnna ddim yn mynd i nunlle hwnna	NSNT	NSNT
+696, 6	1262, 1-12	IFA	ond ella bod hi yn amser ni meddwl am cael cael un	---	NSNT
+
+
+697, 1	1263, 1-5	HEU	ti isio fi wneud hwnna	---	NSNT
+
+
+698, 1	1264, 1-2	IFA	nag oes	NSNT	NSNT
+698, 2	1265, 1-5	IFA	wna i wneud o wan	---	NSNT
+
+
+699, 1	1266, 1-3	BLW	dynion mor *stupid*	---	NST
+
+
+700, 1	1267, 1-4	HEU	sut mae tad *Hayley*	NST	NST
+700, 2	1268, 1-5	HEU	ydy o mendio yn iawn	---	NSNT
+
+
+701, 1	1269, 1-5	BLW	dw i ddim yn *sure*	NST	NST
+701, 2	1270, 1-4	BLW	dydy ddim wedi mention_io	---	SNT
+
+
+702, 1	1271, 1-4	IFA	be ydy hwn *Blod*	---	NST
+
+
+703, 1	1272, 1-2	BLW	things fi	NSNT	SNT
+703, 2	1273, 1-4	BLW	hynna ydy yr *exam*	NST	NST
+703, 3	1273, 5-10	BLW	dw i yn gorod eistedd fory	---	NSNT
+
+
+704, 1	1275, 1-10	IFA	be yr *er* union un hwnna ta rywbeth tebyg iddo	---	NST
+
+
+705, 1	1276, 1-4	BLW	ie yr union un	NSNT	NSNT
+705, 2	1277, 1-1	BLW	jocian	NSNT	NSNT
+705, 3	1278, 1-3	BLW	mae hwn illegal	---	SNT
+
+
+706, 1	1279, 1-2	IFA	da iawn	NSNT	NSNT
+706, 2	1280, 1-2	IFA	mae yna	NSNT	NSNT
+706, 3	1280, 3-7	IFA	mae yna fflam yna wan	---	NSNT
+
+
+707, 1	1281, 1-8	BLW	*yeah* ti gorod dal o lawr am ages	---	ST
+
+
+708, 1	1282, 1-8	HEU	a dal arno fo am ychydig bach de	---	NSNT
+
+
+709, 1	1283, 1-1	IFA	voila	---	NSNT
+
+
+710, 1	1284, 1-3	HEU	da iawn *Ifan*	---	NST
+
+
+711, 1	1285, 1-2	IFA	dyna o	NSNT	NSNT
+711, 2	1286, 1-2	IFA	da de	NSNT	NSNT
+711, 3	1287, 1-3	IFA	*oh* paid *Dyfi*	---	NST
+
+
+712, 1	1288, 1-2	HEU	mae *sure*	NST	NST
+712, 2	1288, 3-4	HEU	wneith dalu	NSNT	NSNT
+712, 3	1288, 5-12	HEU	pan ddaw yr eira a yr rhew mawr	---	NSNT
+
+
+713, 1	1289, 1-2	BLW	*Dyfi* Jesus	---	NST
+
+
+714, 1	1290, 1-7	HEU	wnes i yrru e_bost i Macedonia heddiw	NSNT	NSNT
+714, 2	1291, 1-11	HEU	a a wnes i sgwennu *um* blwyddyn newydd dda mewn *Macedonian*	---	NST
+
+
+715, 1	1292, 1-5	IFA	*oh* sut mae nhw yna	---	NST
+
+
+716, 1	1293, 1-11	BLW	*Mam* o'n i yn really casáu pan oedda chdi ddim yma	NST	ST
+716, 2	1293, 12-12	BLW	sti	---	NSNT
+
+
+717, 1	1294, 1-2	HEU	oeddet cariad	---	NSNT
+
+
+718, 1	1295, 1-4	BLW	oedd o yn *horrible*	---	NST
+
+
+719, 1	1296, 1-6	IFA	be gynnyn nhw ddeud wrtha chdi	---	NSNT
+
+
+720, 1	1297, 1-6	HEU	na fi wnaeth yrru iddyn nhw	---	NSNT
+
+
+721, 1	1298, 1-8	IFA	*oh* ti heb wedi cael dim_byd nôl eto	---	NST
+
+
+722, 1	1299, 1-13	HEU	na oedden nhw wedi gyrru un cyn Dolig ac o'n i wedi anghofio	---	NSNT
+
+
+723, 1	1301, 1-9	IFA	sut be gynnyn nhw ddeud wrtha chdi Dolig ta	---	NSNT
+
+
+724, 1	1302, 1-2	HEU	deud *um*	ST	NST
+724, 2	1303, 1-8	HEU	you have promised to come here next summer	---	NSNT
+
+
+725, 1	1304, 1-3	IFA	dan ni wedi	---	NSNT
+
+
+726, 1	1305, 1-7	BLW	*oh* dach chi yn cael dau gwyliau	NST	NST
+726, 2	1305, 8-13	BLW	a dw i yn cael dim_byd	---	NSNT
+
+
+727, 1	1306, 1-4	IFA	na dan ni mynd	NSNT	NSNT
+727, 2	1306, 5-7	IFA	dan ni ddim	NSNT	NSNT
+727, 3	1306, 8-14	IFA	dydan ni ddim mynd flwyddyn nesa wan	SNT	NSNT
+727, 5	1308, 1-8	IFA	*um* because bod ni yn mynd i *Paris*	---	ST
+
+
+728, 1	1309, 1-6	BLW	dw i isio mynd i *Paris*	NST	NST
+728, 2	1310, 1-6	BLW	dw i isio mynd i *Paris*	NST	NST
+728, 3	1311, 1-9	BLW	ti ydy *Luke* yn dod i mynd i *Paris*	---	NST
+
+
+729, 1	1312, 1-1	IFA	*pardon*	---	NST
+
+
+730, 1	1313, 1-6	BLW	ydy *Luke* yn mynd i *Paris*	---	NST
+
+
+731, 1	1314, 1-2	IFA	pwy *Luke*	---	NST
+
+
+732, 1	1315, 1-4	BLW	pa *Luke* ti feddwl	---	NST
+
+
+733, 1	1316, 1-5	IFA	ond mae yn byw yna	NSNT	NSNT
+733, 2	1316, 6-6	IFA	dydy	---	NSNT
+
+
+734, 1	1317, 1-6	BLW	*so* dach chi am gyfarfod o	---	NST
+
+
+735, 1	1318, 1-4	IFA	am wn i *yeah*	---	NST
+
+
+736, 1	1319, 1-5	HEU	os fydd o yn digwydd	NSNT	NSNT
+736, 2	1319, 6-9	HEU	bod *er* *er* oni_bai	NST	NST
+736, 3	1319, 10-12	HEU	bod o i_ffwrdd	---	NSNT
+
+
+737, 1	1320, 1-3	IFA	os ydy o	NSNT	NSNT
+737, 2	1320, 4-8	IFA	os ydy o yna oni_bai	NSNT	NSNT
+737, 3	1320, 9-10	IFA	bod oni_bai	NSNT	NSNT
+737, 4	1320, 11-15	IFA	bod rywbeth arall wedi digwydd	NSNT	NSNT
+737, 5	1320, 16-20	IFA	a bod o ddim yna	---	NSNT
+
+
+738, 1	1321, 1-8	BLW	gwnewch chi ddod â doggy *bag* i fi	---	ST
+
+
+739, 1	1322, 1-2	IFA	mae cymryd	NSNT	NSNT
+739, 2	1323, 1-3	IFA	dod â be	---	NSNT
+
+
+740, 1	1324, 1-5	BLW	doggy *bag* o yr restaurant	---	ST
+
+
+741, 1	1325, 1-5	IFA	dan ni ddim yn gwybod	NSNT	NSNT
+741, 2	1325, 6-12	IFA	os dan ni mynd i fan yna	NSNT	NSNT
+741, 3	1325, 13-14	IFA	nag ydan	NSNT	NSNT
+741, 5	1327, 1-4	IFA	dan ni ddim gwybod	NSNT	NSNT
+741, 6	1327, 5-9	IFA	be sy mynd i ddigwydd	NSNT	NSNT
+741, 7	1328, 1-8	IFA	mynd i weld y *game* dan ni anyway	---	ST
+
+
+742, 1	1329, 1-2	BLW	shut up	---	NSNT
+
+
+743, 1	1330, 1-6	IFA	a *just* ella welwn ni fo	---	NST
+
+
+744, 1	1331, 1-2	BLW	*yeah* *great*	ST	NST
+744, 2	1332, 1-5	BLW	leave your poor daughter behind	---	NSNT
+
+
+745, 1	1333, 1-3	IFA	a dw i	NSNT	NSNT
+745, 2	1333, 4-8	IFA	a dw i wedi sylwi	NSNT	NSNT
+745, 3	1334, 1-3	IFA	wyddost ti be	---	NSNT
+
+
+746, 1	1335, 1-8	BLW	*Daddy* dw i efo *exam* ar pen_blwydd chdi	---	NST
+
+
+747, 1	1336, 1-6	IFA	dw i newydd sylweddoli rywbeth hefyd	---	NSNT
+
+
+748, 1	1337, 1-1	HEU	be	---	NSNT
+
+
+749, 1	1338, 1-1	IFA	mae	NSNT	NSNT
+749, 2	1338, 2-3	IFA	dan ni	NSNT	NSNT
+749, 3	1338, 4-13	IFA	dan ni wedi wneud *mess* efo yr *um* hanner tymor	NST	NST
+749, 4	1338, 14-14	IFA	cofia	---	NSNT
+
+
+750, 1	1339, 1-2	HEU	efo be	NSNT	NSNT
+750, 2	1340, 1-7	HEU	be ti feddwl *mess* efo hanner tymor	---	NST
+
+
+751, 1	1341, 1-4	IFA	mae hanner tymor *er*	NST	NST
+751, 2	1341, 5-9	IFA	oedden ni meddwl wsnos wedyn	NSNT	NSNT
+751, 3	1341, 10-12	IFA	oedd hanner tymor	NSNT	NSNT
+751, 4	1341, 13-13	IFA	doedden	NSNT	NSNT
+751, 5	1342, 1-2	IFA	ond mae	NSNT	NSNT
+751, 6	1342, 3-11	IFA	mae hanner tymor yr wsnos cyn i ni fynd	NSNT	NSNT
+751, 7	1343, 1-8	IFA	*so* dan ni mynd ar y dydd Iau	NST	NST
+751, 8	1344, 1-5	IFA	a mae yn hanner tymor	NSNT	NSNT
+751, 9	1344, 6-9	IFA	pan dan ni mynd	NSNT	NSNT
+751, 10	1345, 1-4	IFA	a wedyn dan ni	NSNT	NSNT
+751, 11	1345, 5-12	IFA	dan ni ddim yma ar y dydd Llun	NSNT	NSNT
+751, 12	1346, 1-9	IFA	a mae nhw nôl i yr ysgol ddydd Llun	NSNT	NSNT
+751, 13	1347, 1-9	IFA	a dan ni ddim yma ar y dydd Mawrth	NSNT	NSNT
+751, 14	1348, 1-8	IFA	a mae nhw nôl yn ysgol dydd Mawrth	NSNT	NSNT
+751, 15	1349, 1-5	IFA	*so* mae yna ddau fore	NST	NST
+751, 16	1349, 6-11	IFA	fydd raid i *Blodeuwedd* ddeffro *Graham*	---	NST
+
+
+752, 1	1350, 1-3	HEU	na fydd *Graham*	NST	NST
+752, 2	1350, 4-6	HEU	wneith ddeffro *Blodeuwedd*	---	NST
+
+
+753, 1	1351, 1-6	BLW	*Mam* dw i efo bore *off*	ST	NST
+753, 2	1351, 7-11	BLW	I thank you *very* much	---	NST
+
+
+754, 1	1353, 1-6	IFA	*well* dan ni mynd i roi	NST	NST
+754, 2	1354, 1-5	IFA	sut dan ni mynd i	NSNT	NSNT
+754, 3	1354, 6-10	IFA	sut dan ni mynd i	---	NSNT
+
+
+755, 1	1355, 1-5	BLW	it's called an alarm *clock*	---	NST
+
+
+756, 1	1356, 1-7	IFA	sut dan ni mynd i godi *Graham*	---	NST
+
+
+757, 1	1357, 1-5	HEU	mae *Graham* yn *right* dda	NST	NST
+757, 2	1357, 6-6	HEU	dydy	---	NSNT
+
+
+758, 1	1358, 1-7	IFA	*yeah* *oh* unig reswm mae yn codi	NST	NST
+758, 2	1358, 8-9	IFA	ydy because	SNT	SNT
+758, 3	1358, 10-14	IFA	bod ni logio fo ar	---	NSNT
+
+
+759, 1	1359, 1-5	BLW	pa dyddiad dach chi mynd	NSNT	NSNT
+759, 2	1361, 1-5	BLW	pa dyddiad dach chi mynd	---	NSNT
+
+
+760, 1	1362, 1-9	IFA	*um* ail ar hugain a dod yn_ôl ar yr	---	NST
+
+
+761, 1	1363, 1-2	HEU	nos Iau	NSNT	NSNT
+761, 2	1364, 1-3	HEU	seithfed ar hugain	---	NSNT
+
+
+762, 1	1365, 1-7	IFA	ar y seithfed ar hugain o Chwefror	---	NSNT
+
+
+763, 1	1366, 1-10	BLW	*oh* o'n i meddwl bod chi mynd ar y seventeenth	---	ST
+
+
+764, 1	1367, 1-1	IFA	pam	NSNT	NSNT
+764, 2	1369, 1-8	IFA	ti wedi planio dy *barty* ar_gyfer hynna do	NST	NST
+764, 3	1370, 1-5	IFA	pan dan ni ddim yma	---	NSNT
+
+
+765, 1	1371, 1-4	BLW	ti yn wanker sti	NSNT	SNT
+765, 2	1372, 1-8	BLW	dw i erioed wedi wneud dim_byd fel yna	---	NSNT
+
+
+766, 1	1373, 1-12	IFA	dan ni mynd ar yr ail ar hugain *Blod* ar nos Iau	---	NST
+
+
+767, 1	1374, 1-3	BLW	*wrong* daughter darling	---	NST
+
+
+768, 1	1375, 1-2	HEU	ydy *Blod*	NST	NST
+768, 2	1375, 3-7	HEU	ydy *Elizabeth* wedi *party* yma	---	NST
+
+
+769, 1	1376, 1-4	IFA	heb i ni wybod	NSNT	NSNT
+769, 2	1377, 1-7	IFA	be sy gen ti ddeud wrthon ni	NSNT	NSNT
+769, 3	1378, 1-10	IFA	ydy *Elizabeth* wedi cael *parties* yma heb i ni wybod	---	NST
+
+
+770, 1	1380, 1-6	BLW	dach chi *just* yn really thick	ST	ST
+770, 2	1381, 1-6	BLW	be chi meddwl wnaethoch chi wneud	NSNT	NSNT
+770, 3	1381, 7-14	BLW	pan oedden ni yn Sbaen am deg diwrnod	SNT	NSNT
+770, 4	1382, 1-5	BLW	God dach chi mor *naïve*	---	ST
+
+
+771, 1	1383, 1-3	IFA	anyway *so* mae	NST	ST
+771, 2	1383, 4-8	IFA	dyna *er* wsnos wsnos cynt	NST	NST
+771, 3	1383, 9-13	IFA	mae hanner tymor *so* *so*	---	NST
+
+
+772, 1	1384, 1-4	HEU	*yeah* dw i *yeah*	---	NST
+
+
+773, 1	1385, 1-8	IFA	o'n i meddwl na dim_ond un bore fysai	NSNT	NSNT
+773, 2	1385, 9-12	IFA	fysen ni ddim yma	---	NSNT
+
+
+774, 1	1386, 1-10	HEU	*oh* ond fedran ni ddim wneud dim dim_byd fel arall	NST	NST
+774, 2	1387, 1-1	HEU	fedran	NSNT	NSNT
+774, 3	1387, 2-5	HEU	sti ar ddydd Sadwrn	NSNT	NSNT
+774, 4	1387, 6-10	HEU	oedd y *game* anyway de	---	ST
+
+
+775, 1	1388, 1-4	IFA	*yeah* dw i gwybod	NST	NST
+775, 2	1389, 1-8	IFA	*oh* na *just* deud wrtha chdi dw i	NST	NST
+775, 3	1390, 1-13	IFA	*so* raid ni rhaid ni feddwl am ni feddwl amdano wahanol felly bydd	---	NST
+
+
+776, 1	1391, 1-6	BLW	ges i *recipe* *mango* *chutney* ddoe	---	NST
+
+
+777, 1	1392, 1-4	IFA	a a a fyddan	NSNT	NSNT
+777, 2	1392, 5-21	IFA	fyddan nhw yn gorod dod i arfer efo mynd yn_ôl i yr ysgol efo ni ddim yma	---	NSNT
+
+
+778, 1	1393, 1-3	HEU	*oh* gan pwy	---	NST
+
+
+779, 1	1395, 1-6	IFA	a dw i ddim yn gwybod	---	NSNT
+
+
+780, 1	1396, 1-1	BLW	achos	---	NSNT
+
+
+781, 1	1397, 1-7	HEU	dydy ddim yn ddiwedd y byd nac	---	NSNT
+
+
+782, 1	1398, 1-1	IFA	wneith	NSNT	NSNT
+782, 2	1398, 2-2	IFA	wneith	NSNT	NSNT
+782, 3	1398, 3-9	IFA	wneith *Beverly* picio *round* yma anyway *so*	---	ST
+
+
+783, 1	1399, 1-4	BLW	sbïa faint o gorgeous	SNT	SNT
+783, 2	1399, 5-8	BLW	ydy yr straw yma	---	SNT
+
+
+784, 1	1400, 1-2	HEU	na wneith	NSNT	NSNT
+784, 2	1401, 1-4	HEU	mae *Bev* yn gorod	NST	NST
+784, 3	1401, 5-11	HEU	bod yn ei gwaith cyn cyn wyth	---	NSNT
+
+
+785, 1	1403, 1-3	BLW	wna i wneud	---	NSNT
+
+
+786, 1	1404, 1-1	IFA	*just*	ST	NST
+786, 2	1405, 1-4	IFA	*alright* wnei di wneud	---	NST
+
+
+787, 1	1406, 1-4	BLW	dw i yn eighteen	---	SNT
+
+
+788, 1	1407, 1-2	IFA	*o_k* then	---	NST
+
+
+789, 1	1408, 1-5	HEU	mae *Graham* bron yn un_deg_saith	NST	NST
+789, 2	1408, 6-6	HEU	dydy	NSNT	NSNT
+789, 3	1409, 1-5	HEU	dydy o ddim fath â	---	NSNT
+
+
+790, 1	1410, 1-7	IFA	na wneith *Graham* ddim codi yn enwedig	NST	NST
+790, 2	1410, 8-10	IFA	os dan ni	---	NSNT
+
+
+791, 1	1411, 1-1	HEU	gwneith	---	NSNT
+
+
+792, 1	1412, 1-6	IFA	yn enwedig os password y computer	---	SNT
+
+
+793, 1	1413, 1-4	BLW	dau ddiwrnod ydy o	SNT	NSNT
+793, 2	1414, 1-2	BLW	who cares	SNT	NSNT
+793, 3	1415, 1-8	BLW	wnawn ni golli tua chwech gwersi rhyngthan ni	---	NSNT
+
+
+794, 1	1416, 1-5	IFA	yn enwedig os dan ni	NSNT	NSNT
+794, 2	1416, 6-13	IFA	roid password *er* password y computer iddo fo	---	ST
+
+
+795, 1	1417, 1-4	BLW	be ydy yr dyddiad	SNT	NSNT
+795, 2	1418, 1-1	BLW	twenty_second	---	NSNT
+
+
+796, 1	1419, 1-7	IFA	deith o ddim i wely na wneith	NSNT	NSNT
+796, 2	1420, 1-9	IFA	deith o ddim i wely tra bod ni yma	---	NSNT
+
+
+797, 1	1421, 1-9	BLW	dan ni ddim efo ysgol ar y dydd Llun	NSNT	NSNT
+797, 2	1422, 1-7	BLW	*so* dim ond dydd Mawrth fyddwch chi	---	NST
+
+
+798, 1	1424, 1-3	HEU	*oh* dyna fo	---	NST
+
+
+799, 1	1425, 1-4	IFA	sut ti yn gwybod	---	NSNT
+
+
+800, 1	1426, 1-9	BLW	ar y twenty_seventh dan ni mynd ôl i ysgol	---	SNT
+
+
+801, 1	1427, 1-4	IFA	be mae yn deud	---	NSNT
+
+
+802, 1	1428, 1-3	BLW	hyfforddiant i athrawon	---	NSNT
+
+
+803, 1	1429, 1-8	IFA	*oh* *so* *just* y dydd Mawrth ydy o	---	NST
+
+
+804, 1	1431, 1-10	HEU	*so* dan ni wedi wneud o yn dda iawn felly	---	NST
+
+
+805, 1	1432, 1-6	IFA	dan ni dod yn_ôl sorted felly	NSNT	SNT
+805, 2	1433, 1-5	IFA	nos *er* nos fyddan ni	NST	NST
+805, 3	1433, 6-14	IFA	fyddan ni nôl yma tua hanner nos nos Fawrth	NSNT	NSNT
+805, 4	1433, 15-18	IFA	fyddan ni nôl yma	---	NSNT
+
+
+806, 1	1434, 1-4	HEU	neu ychydig yn hwyrach	---	NSNT
+
+
+807, 1	1435, 1-5	BLW	*so* un diwrnod fydd o	NST	NST
+807, 2	1436, 1-8	BLW	a dw i efo diwrnod llawn bore yna	NSNT	NSNT
+807, 3	1437, 1-6	BLW	*so* fydda i yn codi bore	---	NST
+
+
+808, 1	1438, 1-8	IFA	bore dydd Mawrth bore dydd bore dydd Mawrth	NSNT	NSNT
+808, 2	1440, 1-7	IFA	*so* wnei di sortio fo i ni	NST	NST
+808, 3	1441, 1-1	IFA	gwnei	SNT	NSNT
+808, 4	1442, 1-1	IFA	*great*	---	NST
+
+
+809, 1	1443, 1-2	HEU	diolch *Blod*	---	NST
+
+
+810, 1	1444, 1-3	IFA	*well* done *Blod*	ST	NST
+810, 2	1446, 1-7	IFA	a mynd â ci am dro ballu	---	NSNT
+
+
+811, 1	1447, 1-11	BLW	a plus *o_k* mae *Amy* yn eighteen ar y diwrnod yma	NST	ST
+811, 2	1448, 1-9	BLW	*so* fedra i cael *party* yn hanner tymor iddi	---	NST
+
+
+812, 1	1449, 1-8	HEU	pa ddiwrnod mae *Amy* cael ei phen_blwydd un_deg_saith	---	NST
+
+
+813, 1	1450, 1-1	BLW	fourteenth	---	NSNT
+
+
+814, 1	1451, 1-2	IFA	pwy *Andrews*	NST	NST
+814, 3	1453, 1-4	IFA	*oh* *er* ta *Amy_Brown*	---	NST
+
+
+815, 1	1454, 1-1	BLW	*Brown*	ST	NST
+815, 2	1455, 1-12	BLW	fydd hynna yn iawn though iddi ddod draw am *couple* o drinks	ST	ST
+815, 3	1455, 13-13	BLW	fydd	---	NSNT
+
+
+816, 1	1456, 1-7	HEU	*oh* mi fyddan ni yma ar un_deg_pedwar	---	NST
+
+
+817, 1	1457, 1-4	BLW	*yeah* dw i gwybod	NST	NST
+817, 2	1458, 1-6	BLW	ond timod yn yr *er* gwyliau	NST	NST
+817, 3	1458, 7-10	BLW	pan dach chi ddim	---	NSNT
+
+
+818, 1	1459, 1-5	IFA	*yeah* fydd hynna yn iawn	---	NST
+
+
+819, 1	1460, 1-2	BLW	dach chi	NSNT	NSNT
+819, 2	1460, 3-10	BLW	wedi bod i_ffwrdd *right* loads o weithiau anyway	ST	ST
+819, 3	1461, 1-9	BLW	a dw i gormod o babi i gael *party*	NST	NST
+819, 4	1462, 1-8	BLW	ti yn gwybod hynna yn iawn especially efo	---	SNT
+
+
+820, 1	1463, 1-1	IFA	whatever	---	NSNT
+
+
+821, 1	1464, 1-18	BLW	*yeah* *so* achos dan ni efo loads of *mangoes* yn mynd *off* ti isio fi wneud *mango* *chutney*	---	ST
+
+
+822, 1	1465, 1-12	HEU	faint o faint o *fangoes* wyt ti angen i wneud *mango* *chutney*	---	NST
+
+
+823, 1	1466, 1-1	BLW	un	---	NSNT
+
+
+824, 1	1467, 1-3	IFA	dyn nhw yn	NSNT	NSNT
+824, 2	1467, 4-6	IFA	dyn nhw yn	NSNT	NSNT
+824, 3	1467, 7-10	IFA	dyn nhw mynd *off*	---	NST
+
+
+825, 1	1468, 1-1	HEU	un	---	NSNT
+
+
+826, 1	1469, 1-3	BLW	*well* maen nhw	NST	NST
+826, 2	1469, 4-6	BLW	oedden nhw reduced	SNT	SNT
+826, 3	1469, 7-7	BLW	doedd	---	NSNT
+
+
+827, 1	1470, 1-1	IFA	ydyn	NSNT	NSNT
+827, 2	1470, 2-2	IFA	mae	NSNT	NSNT
+827, 3	1470, 3-6	IFA	maen nhw yn iawn	---	NSNT
+
+
+828, 1	1471, 1-8	HEU	mae nhw dal yn *right* galed iawn dydyn	---	NST
+
+
+829, 1	1472, 1-5	IFA	*yeah* fyddan nhw yn iawn	NST	NST
+829, 2	1472, 6-6	IFA	sti	---	NSNT
+
+
+830, 1	1473, 1-5	BLW	*oh* *right* *o_k* *well* mae	NST	NST
+830, 2	1473, 6-13	BLW	gynna chdi un really manky yn y fridge	---	SNT
+
+
+831, 1	1474, 1-3	IFA	na wna i	NSNT	NSNT
+831, 2	1474, 4-7	IFA	*just* wnawn ni gael	NST	NST
+831, 3	1474, 8-9	IFA	wna i	NSNT	NSNT
+831, 4	1474, 10-12	IFA	dw i am	NSNT	NSNT
+831, 5	1474, 13-15	IFA	dw i am	NSNT	NSNT
+831, 6	1474, 16-24	IFA	dw i am gael nhw gael nhw i frecwast	---	NSNT
+
+
+832, 1	1475, 1-4	HEU	*oh* lle mae hwnnw	NST	NST
+832, 2	1476, 1-2	HEU	dw i	NSNT	NSNT
+832, 3	1476, 3-6	HEU	bod chwilio am hwnnw	NSNT	NSNT
+832, 4	1477, 1-4	HEU	fedri di ffeindio fo	NSNT	NSNT
+832, 5	1478, 1-6	HEU	achos dw i isio fwyta fo	---	NSNT
+
+
+833, 1	1479, 1-4	BLW	*o_k* os ti isio	---	NST
+
+
+834, 1	1480, 1-5	IFA	gawn ni nhw i frecwast	---	NSNT
+
+
+835, 1	1481, 1-9	HEU	achos oedd *Graham* wedi dechrau meddwl na afal fawr	NST	NST
+835, 2	1481, 10-13	HEU	oedd o neu rywbeth	NSNT	NSNT
+835, 3	1481, 14-18	HEU	oedd wedi dechrau fwyta fo	---	NSNT
+
+
+836, 1	1482, 1-1	IFA	be	---	NSNT
+
+
+837, 1	1483, 2-8	HEU	oedd *Elizabeth* wedi prynu *mango* i mi	---	NST
+
+
+838, 1	1484, 1-12	BLW	*Mam* mae o yn y gwaelod y fridge yn y tu cefn	---	ST
+
+
+839, 1	1485, 1-13	HEU	*oh* achos o'n i methu ffeindio fo o'n i chwilio amdano diwrnod o_blaen	NST	NST
+839, 2	1486, 1-16	HEU	a wnaeth *Graham* ddechrau fwyta fo fynd *ugh* fel yma a luchio fo yn yr pethau	NST	NST
+839, 3	1487, 1-7	HEU	ac o'n i wedi ypsetio yn deud	NSNT	NSNT
+839, 4	1488, 1-9	HEU	mae *Elizabeth* wedi prynu *mango* yn arbennig i fi	NST	NST
+839, 5	1489, 1-11	HEU	a ti yn luchio fo yn y yn y peth *compost*	NST	NST
+839, 7	1491, 1-11	HEU	*so* wnes i dynnu o o yna ia a llnau o	---	NST
+
+
+840, 1	1493, 1-2	IFA	mae to	NSNT	NSNT
+840, 2	1493, 3-9	IFA	mae caead hwnna wedi fflio rywle hefyd	---	NSNT
+
+
+841, 1	1494, 1-9	BLW	ti ddim yn meddwl fysai ti ddim yn meddwl	NSNT	NSNT
+841, 2	1494, 10-22	BLW	fysai fo *nice* iddo ni gael *jar* o *mango* *chutney* home home made	---	ST
+
+
+842, 1	1495, 1-5	IFA	bysai os ti isio ond	---	NSNT
+
+
+843, 1	1496, 1-3	HEU	basai yn lovely	---	SNT
+
+
+844, 1	1497, 2-6	BLW	gynnon ni white wine *vinegar*	ST	ST
+844, 2	1499, 1-5	BLW	dw i angen un pupur	---	NSNT
+
+
+845, 1	1500, 1-6	HEU	*um* dw ddim yn *sure* iawn	NST	NST
+845, 2	1500, 7-8	HEU	os oes	NSNT	NSNT
+845, 3	1500, 9-11	HEU	gynnon ni na	---	NSNT
+
+
+846, 1	1501, 1-3	BLW	un pupur white	---	SNT
+
+
+847, 1	1502, 2-5	IFA	mae yna fel arfer	NSNT	NSNT
+847, 2	1502, 6-6	IFA	sti	NSNT	NSNT
+847, 3	1502, 7-7	IFA	does	---	NSNT
+
+
+848, 1	1503, 1-2	HEU	gwin coch	NSNT	NSNT
+848, 2	1504, 1-10	HEU	na un balsamic sy gyn ni ddim white wine *vinegar*	---	ST
+
+
+849, 1	1505, 1-7	BLW	*oh* a dw i angen coch hefyd	---	NST
+
+
+850, 1	1506, 1-1	HEU	be	---	NSNT
+
+
+851, 1	1507, 1-5	BLW	a dw i angen coch	---	NSNT
+
+
+852, 1	1508, 1-8	IFA	mae yr *top* y peth *compost* wedi diflannu	---	NST
+
+
+853, 1	1509, 1-4	BLW	spices dan ni isio	---	SNT
+
+
+854, 1	1510, 1-2	HEU	*oh* *dear*	---	NST
+
+
+855, 1	1511, 1-7	IFA	mae yr gwynt wedi mynd â fo	---	NSNT
+
+
+856, 1	1513, 1-4	HEU	mae yr ardd rywle	NSNT	NSNT
+856, 2	1513, 5-7	HEU	mae *sure* yn_dydy	---	NST
+
+
+857, 1	1514, 1-4	IFA	na mae wedi mynd	NSNT	NSNT
+857, 2	1514, 5-5	IFA	dydy	NSNT	NSNT
+857, 3	1515, 1-1	IFA	mae	NSNT	NSNT
+857, 4	1515, 2-12	IFA	dw i wedi gofyn i *Ed* gael look amdano fo deud	NST	ST
+857, 5	1515, 13-14	IFA	bod o	NSNT	NSNT
+857, 6	1515, 15-17	IFA	bod o wedi	NSNT	NSNT
+857, 7	1516, 1-4	IFA	mae *Ed* yn deud	NST	NST
+857, 8	1516, 5-9	IFA	bod o wedi cael *er*	NST	NST
+857, 9	1516, 10-13	IFA	bod o wedi gweld	NSNT	NSNT
+857, 10	1516, 14-21	IFA	bod fo wedi mynd a wedi gael look	SNT	SNT
+857, 11	1516, 22-23	IFA	ei hun	NSNT	NSNT
+857, 12	1516, 24-31	IFA	a bod o wedi methu weld o nunlle	---	NSNT
+
+
+858, 1	1517, 1-2	HEU	bobl bach	---	NSNT
+
+
+859, 1	1518, 1-4	IFA	mae o wedi mynd	NSNT	NSNT
+859, 2	1518, 5-5	IFA	sti	---	NSNT
+
+
+860, 1	1519, 1-5	HEU	i yr afon ti meddwl	---	NSNT
+
+
+861, 1	1520, 1-1	IFA	ella	---	NSNT
+
+
+862, 1	1521, 1-3	HEU	*well* *well* *well*	---	NST
+
+
+863, 1	1522, 1-7	IFA	rywun ddim wedi gau o yn iawn	---	NSNT
+
+
+864, 1	1526, 1-4	HEU	oedd o *right* llawn	NST	NST
+864, 2	1526, 5-5	HEU	doedd	NSNT	NSNT
+864, 3	1527, 1-11	HEU	o'n i fel arfer yn roi bricsen ar ei ben o	---	NSNT
+
+
+865, 1	1528, 1-9	IFA	oedd rywun ddim wedi gau o yn iawn though	SNT	SNT
+865, 2	1529, 1-11	IFA	rywun rywun ddim wedi roi bricsen ar ei ben o felly	---	NSNT
+
+
+866, 1	1530, 1-6	HEU	pryd wnest ti ddefnyddio fo ddwytha	---	NSNT
+
+
+867, 1	1531, 1-2	IFA	dw i	NSNT	NSNT
+867, 2	1531, 3-8	IFA	dw i ddim yn wneud byth	---	NSNT
+
+
+868, 1	1532, 1-4	HEU	byth yn ddefnyddio fo	---	NSNT
+
+
+869, 1	1533, 1-5	IFA	*yeah* ddim fi dim fi	---	NST
+
+
+870, 1	1534, 1-2	HEU	yn union	---	NSNT
+
+
+871, 1	1535, 1-4	IFA	ddim fi wnaeth because	SNT	SNT
+871, 2	1535, 5-8	IFA	dw i byth yn	NSNT	NSNT
+871, 3	1535, 9-19	IFA	dw i byth yn roi *stuff* yn y *compost* dim mwy	NST	NST
+871, 4	1536, 1-8	IFA	*so* dim wnaeth beidio gau o yn iawn	NST	NST
+871, 5	1537, 1-8	IFA	dw i *lot* ry brysur wneud pethau eraill	---	NST
+
+
+872, 1	1540, 1-1	HEU	be	SNT	NSNT
+872, 2	1541, 1-2	HEU	new shoes	---	NSNT
+
+
+873, 1	1542, 1-2	IFA	esgidiau newydd	SNT	NSNT
+873, 2	1543, 1-1	IFA	*well*	---	NST
+
+
+874, 1	1544, 1-6	HEU	na rhei *er* rhei *Blodeuwedd* de	NST	NST
+874, 2	1546, 1-6	HEU	*Blodeuwedd* sy wedi cael *pumps* yma	---	NST
+
+
+875, 1	1547, 1-4	IFA	*oh* *yeah* esgidiau hi	---	NST
+
+
+876, 1	1548, 1-1	BLW	definitely	---	NSNT
+
+
+877, 1	1549, 1-4	IFA	dw i *right* flinedig	NST	NST
+877, 2	1551, 1-1	IFA	yndw	---	NSNT
+
+
+878, 1	1552, 1-9	HEU	faint *er* faint faint wnest ti dy nofio heno	---	NST
+
+
+879, 1	1553, 1-5	IFA	faint ohono fo wnes i	---	NSNT
+
+
+880, 1	1554, 1-6	HEU	na be oedd dy amser di	---	NSNT
+
+
+881, 1	1555, 1-6	IFA	*er* yr un fath ag arfer	---	NST
+
+
+882, 1	1556, 1-1	HEU	be	NSNT	NSNT
+882, 2	1557, 1-2	HEU	ti dal	---	NSNT
+
+
+883, 1	1558, 1-1	IFA	milltir	---	NSNT
+
+
+884, 1	1560, 1-5	HEU	ti dal ddim yn gallu	---	NSNT
+
+
+885, 1	1561, 1-2	IFA	tri_deg_dau filltir	---	NSNT
+
+
+886, 1	1562, 1-8	HEU	ti ddim yn gallu torri yr *er* tri_deg	---	NST
+
+
+887, 1	1563, 1-5	IFA	na wnes i ddim trio	NSNT	NSNT
+887, 2	1564, 1-13	IFA	wnes i wneud *um* *oh* faint dŵad *er* two *point* two *point* two	---	ST
+
+
+888, 1	1565, 1-2	BLW	*oh* God	---	NST
+
+
+889, 1	1566, 1-3	IFA	two *point* two	---	NST
+
+
+890, 1	1568, 1-4	HEU	two *point* two be	ST	ST
+890, 2	1569, 1-1	HEU	*kilometre*	---	NST
+
+
+891, 1	1570, 1-2	IFA	*kilometres* *yeah*	---	NST
+
+
+892, 1	1571, 1-8	HEU	*oh* *Blodeuwedd* ga i edrycha gwastraffu *er* afalau	ST	NST
+892, 2	1572, 1-3	HEU	*ha* *ha* *ha*	---	NST
+
+
+893, 1	1573, 1-3	BLW	*lentils* arno fo	---	NST
+
+
+894, 1	1574, 1-2	HEU	dim gwahaniaeth	SNT	NSNT
+894, 2	1575, 1-2	HEU	*nice* *sure*	---	NST
+
+
+895, 1	1576, 1-9	BLW	dw i am pwyso fy hun dydd Mawrth achos	NSNT	NSNT
+895, 2	1576, 10-15	BLW	mae hynna wsnos ar_ôl fi ddechrau	NSNT	NSNT

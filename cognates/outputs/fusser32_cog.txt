@@ -1,0 +1,1417 @@
+1, 1	1, 1-4	MAT	mae hwnnw rhy bell	NSNT	NSNT
+1, 2	2, 1-8	MAT	allan ni wneud y daith yna rywbryd eto	NSNT	NSNT
+1, 3	4, 1-11	MAT	a dod lawr ar_hyd lawr ac yn_ôl ar_hyd y lôn de	NSNT	NSNT
+1, 4	6, 1-8	MAT	a wedyn fuon ni yn *um* copa *Dinas_Emrys*	NST	NST
+1, 5	7, 1-8	MAT	tro cyntaf erioed i mi fod fan yna	---	NSNT
+
+
+2, 1	9, 1-1	STE	Duw	---	NSNT
+
+
+3, 1	11, 1-4	LOR	na mi oeddan ni	NSNT	NSNT
+3, 2	12, 1-8	LOR	aethon ni lawr i i *Tesco* amser cinio	NST	NST
+3, 3	14, 1-10	LOR	oedd gen i ddim prin ddim bwyd ar_ôl yn fridge	SNT	SNT
+3, 5	16, 1-4	LOR	digon at wsnos nesa	NSNT	NSNT
+3, 6	17, 1-6	LOR	digon i cinio dydd Sul neithiwr	NSNT	NSNT
+3, 7	20, 1-3	LOR	croesawu *Jo* adra	---	NST
+
+
+4, 1	21, 1-3	MAT	duw dyna *nice*	---	NST
+
+
+5, 1	23, 1-9	LOR	wedyn aethon ni o yna full of good intentions	SNT	SNT
+5, 2	24, 1-3	LOR	meddwl *ooh* *yeah*	NST	NST
+5, 3	24, 4-10	LOR	awn ni allan am dro pnawn yma	NSNT	NSNT
+5, 4	25, 1-4	LOR	mae yn braf *nice*	---	NST
+
+
+6, 1	26, 1-3	STE	a dyna hi	---	NSNT
+
+
+7, 1	30, 1-6	LOR	setlo yn darllen papur wedyn de	NSNT	NSNT
+7, 4	33, 1-2	LOR	paned a	---	NSNT
+
+
+8, 1	34, 1-4	STE	dyna be ydy o	NSNT	NSNT
+8, 2	36, 1-18	STE	fath â amser yma blwyddyn dwytha oedd rywun yn deud ar ar *um* *person* tywydd yn deud *um*	NST	NST
+8, 3	36, 19-29	STE	oedd hi yn ugain gradd *celsius* yn yn Llundain o leia	NST	NST
+8, 4	37, 1-4	STE	oedd hi yn gynnes	NSNT	NSNT
+8, 6	40, 1-10	STE	ond blwyddyn yma fath â mae rhywun yn teimlo *oh*	NST	NST
+8, 7	40, 11-27	STE	dw i yn teimlo anyway ti yn cael diwrnod yn tŷ a ti yn cael snuggle iawn	NSNT	SNT
+8, 8	41, 1-10	STE	a wedyn ti mynd am dro diwrnod fory wneith fory	NSNT	NSNT
+8, 9	42, 1-5	STE	*yeah* dyna ni dro fory	NST	NST
+8, 11	44, 1-5	STE	mae yn gweithio allan felly	NSNT	NSNT
+8, 12	44, 6-8	STE	mae yn iawn	NSNT	NSNT
+8, 13	44, 9-9	STE	dydy	---	NSNT
+
+
+9, 1	46, 1-16	LOR	oedd o yn esgus *right* da i heddiw yma i ni gael mynd am dro wedyn	---	NST
+
+
+10, 1	49, 1-11	MAT	mi es i allan chwarter wedi naw bore yma i gerdded	NSNT	NSNT
+10, 2	50, 1-13	MAT	mynd â yr *car* i yr lôn achos o'n i isio tynnu lluniau	NST	NST
+10, 3	51, 1-3	MAT	chwareli yna does	NSNT	NSNT
+10, 5	55, 1-2	MAT	y chwarel	NSNT	NSNT
+10, 6	56, 1-6	MAT	hen braich a chwrael lôn felly	NSNT	NSNT
+10, 7	58, 1-13	MAT	mae gwynt yn yn oer pan ti yn *just* yn sefyll ac yn	---	NST
+
+
+11, 1	59, 1-7	STE	wedyn oeddan ni ar y topiau gynnau	NSNT	NSNT
+11, 2	60, 1-8	STE	oedd o yn gysgodol ar y ffordd i_fyny	NSNT	NSNT
+11, 3	60, 9-18	STE	wnaethon ni ar *top* fan yna ar y *line* felly	NST	NST
+11, 4	61, 1-4	STE	a oedd yr gwynt	NSNT	NSNT
+11, 5	61, 5-9	STE	oedd o yn torri trwy	---	NSNT
+
+
+12, 1	63, 1-4	LOR	difaru bod fi wedi	NSNT	NSNT
+12, 2	63, 5-9	LOR	roid y *nghap* i chdi	NST	NST
+12, 3	64, 1-6	LOR	oedd yng nghlustiau fi yn oer	---	NSNT
+
+
+13, 1	65, 1-2	STE	*oh* bechod	NST	NST
+13, 3	67, 1-7	STE	swopio efo chdi petasa chdi isio sti	---	NSNT
+
+
+14, 1	68, 1-4	LOR	na mae yn iawn	---	NSNT
+
+
+15, 1	70, 1-5	MAT	mae dy *fam* wedi penderfynu	NST	NST
+15, 2	70, 6-15	MAT	bod hi yn amser dechrau yn yr ardd beth bynnag	---	NSNT
+
+
+16, 1	71, 1-4	LOR	o'n i yn sylwi	NSNT	NSNT
+16, 2	72, 1-4	LOR	oedd hi yn deud	NSNT	NSNT
+16, 3	72, 5-6	LOR	bod *um*	NST	NST
+16, 4	72, 7-11	LOR	be wnaeth hi blannu wan	---	NSNT
+
+
+17, 1	73, 1-1	STE	ffa	---	NSNT
+
+
+18, 1	74, 1-3	LOR	ei ffa hi	---	NSNT
+
+
+19, 1	75, 1-4	MAT	mae gyn hi ffa	---	NSNT
+
+
+20, 1	76, 1-8	LOR	o'n nhw yn dechrau blodeuo yn tŷ gwydr	---	NSNT
+
+
+21, 1	78, 1-6	MAT	dyna ydy drwg yn tŷ gwydr	NSNT	NSNT
+21, 2	78, 7-7	MAT	sti	NSNT	NSNT
+21, 3	79, 1-3	MAT	mae nhw yn	NSNT	NSNT
+21, 4	79, 4-10	MAT	mae nhw yn dechrau yn *right* sydyn	NST	NST
+21, 5	80, 1-7	MAT	a mae nhw yn aeddfedu rhy fuan	NSNT	NSNT
+21, 6	80, 8-8	MAT	dydy	NSNT	NSNT
+21, 7	82, 1-1	MAT	sti	NSNT	NSNT
+21, 8	84, 1-12	MAT	tydy yr blodau cyn tyfu fawr mwy na ryw naw modfedd felly	NSNT	NSNT
+21, 9	86, 1-3	MAT	dyna trafferth yna	NSNT	NSNT
+21, 10	87, 1-9	MAT	y syniad yn iawn i gael pethau i gychwyn	NSNT	NSNT
+21, 11	88, 1-9	MAT	ond dyla bod nhw wedi mynd allan yn gynt	NSNT	NSNT
+21, 12	90, 1-4	MAT	ond mae yr tywydd	NSNT	NSNT
+21, 13	90, 5-8	MAT	wedi bod rhy oer	---	NSNT
+
+
+22, 1	92, 1-8	LOR	o'n ni yn synnu i ddeud y gwir	NSNT	NSNT
+22, 2	93, 1-5	LOR	mynd allan ddoe i yr	NSNT	NSNT
+22, 3	94, 1-12	LOR	rei pethau yn yr ardd ddim yn edrych mor ddrwg â hynny	NSNT	NSNT
+22, 4	96, 1-4	LOR	i feddwl bod nhw	NSNT	NSNT
+22, 5	96, 5-13	LOR	wedi bod yn cael wedi cael eu gadael braidd	---	NSNT
+
+
+23, 1	99, 1-3	STE	mae yna drafferth	NSNT	NSNT
+23, 2	100, 1-12	STE	mae rei bychan yn y potiau wedi gwneud appearance bach yn barod	---	SNT
+
+
+24, 1	101, 1-3	LOR	dw ddim gwybod	NSNT	NSNT
+24, 2	101, 4-5	LOR	be ddigwyddodd	NSNT	NSNT
+24, 3	103, 1-4	LOR	dw i yn *sure*	NST	NST
+24, 4	103, 5-10	LOR	bod *mam* wedi plannu cennin Pedr	NST	NST
+24, 5	103, 11-15	LOR	pan symudon ni yna yna	NSNT	NSNT
+24, 6	104, 1-4	LOR	dw i yn *sure*	NST	NST
+24, 7	104, 5-13	LOR	bod hi wedi plannu rei mawr yn yr *border*	NST	NST
+24, 9	106, 1-8	LOR	a dw i ddim wedi gweld nhw wedyn	---	NSNT
+
+
+25, 1	107, 1-1	STE	naddo	NSNT	NSNT
+25, 2	108, 1-4	STE	dw i meddwl *sure*	NST	NST
+25, 3	108, 5-6	STE	oedd yna	---	NSNT
+
+
+26, 1	109, 1-4	LOR	iawn dw i meddwl	NSNT	NSNT
+26, 2	109, 5-10	LOR	bod fi wedi gweld nhw unwaith	NSNT	NSNT
+26, 3	110, 1-5	LOR	ond o'n i yn meddwl	NSNT	NSNT
+26, 4	110, 6-9	LOR	bod nhw fod i	NSNT	NSNT
+26, 5	111, 1-3	LOR	para am byth	NSNT	NSNT
+26, 6	113, 1-4	LOR	ond mae nhw yn	NSNT	NSNT
+26, 7	113, 5-8	LOR	o'n i yn meddwl	NSNT	NSNT
+26, 8	113, 9-15	LOR	bod nhw yn para mwy na blwyddyn	---	NSNT
+
+
+27, 1	114, 1-4	MAT	rargian fasa na grych	---	NSNT
+
+
+28, 1	115, 1-4	LOR	dyna be ydy o	NSNT	NSNT
+28, 2	116, 1-7	LOR	dw i ddim wedi gweld nhw wedyn	---	NSNT
+
+
+29, 1	117, 1-10	MAT	mae gen i rei yn y gwrych ers chwarter canrif	NSNT	NSNT
+29, 3	119, 1-1	MAT	sti	NSNT	NSNT
+29, 4	119, 2-5	MAT	dw i wedi ychwanegu	NSNT	NSNT
+29, 5	119, 6-9	MAT	atyn nhw wedyn yn	---	NSNT
+
+
+30, 1	120, 1-6	LOR	ia na dyna o'n i yn	NSNT	NSNT
+30, 2	121, 1-8	LOR	*yeah* dw i ddim wedi gweld nhw wedyn	---	NST
+
+
+31, 1	122, 1-6	MAT	ia wna nhw ddim blodeuo os	NSNT	NSNT
+31, 2	122, 7-17	MAT	nag ydyn nhw cael dipyn bach o fwyd yn yr Hydref	NSNT	NSNT
+31, 4	126, 1-1	MAT	sti	NSNT	NSNT
+31, 5	126, 2-4	MAT	fydda i yn	NSNT	NSNT
+31, 6	126, 5-11	MAT	rhoid yr *powder* ac yn y blaen	---	NST
+
+
+32, 1	129, 1-7	STE	fedri di sortio yr *border* yna allan	NST	NST
+32, 2	130, 1-4	STE	mae rhei o yr	---	NSNT
+
+
+33, 1	131, 1-11	LOR	*well* dw i isio tynnu dau o yr coed yna allan	NST	NST
+33, 2	132, 1-7	LOR	o'n i yn sbïo arnyn nhw ddoe	NSNT	NSNT
+33, 3	133, 1-6	LOR	ac o'n i yn meddwl *oh*	NST	NST
+33, 4	134, 1-11	LOR	achos mae nhw *just* yn *frown* am rhan fwya yr flwyddyn	---	NST
+
+
+34, 1	135, 2-10	STE	dyn nhw ddim yn wneud diawl o ddim_byd nac	---	NSNT
+
+
+35, 1	136, 1-3	MAT	pa rai rŵan	---	NSNT
+
+
+36, 1	137, 1-3	LOR	mae yna rai	NSNT	NSNT
+36, 2	137, 4-8	LOR	pan mae nhw yn blodeuo	NSNT	NSNT
+36, 3	137, 9-11	LOR	mae yn ddel	NSNT	NSNT
+36, 4	138, 1-8	LOR	mae gennyn nhw blodau bach *pink* arnyn nhw	NST	NST
+36, 5	140, 1-5	LOR	dw i ddim isio gwybod	NSNT	NSNT
+36, 6	140, 6-8	LOR	be ydyn nhw	NSNT	NSNT
+36, 7	141, 1-7	LOR	ond mae nhw yn dda i wrych	NSNT	NSNT
+36, 8	141, 8-8	LOR	yli	---	NSNT
+
+
+37, 1	143, 1-1	STE	mae	NSNT	NSNT
+37, 2	143, 2-6	STE	be ydy yr llall yna	NSNT	NSNT
+37, 3	143, 7-11	STE	sy yn cuddiad yr *hydranger*	---	NST
+
+
+38, 1	144, 1-9	LOR	*oh* ia *matter* o dorri hwnna lawr ydy o	---	NST
+
+
+39, 1	145, 1-18	STE	rhaid i ni wneud rywbeth amdan yr *um* coeden fawr sydd tu ôl i yr coeden afal hefyd	---	NST
+
+
+40, 1	146, 1-2	LOR	*oh* bach	---	NST
+
+
+41, 1	147, 1-3	STE	mae hwnna yn	---	NSNT
+
+
+42, 1	148, 1-7	LOR	ia mae hwnna yn *stuck* rhwng ia	NST	NST
+42, 2	148, 8-12	LOR	mae yn anodd mynd ati	NSNT	NSNT
+42, 3	148, 13-21	LOR	dydy achos bod hi rhwng y ti yn gwybod	NSNT	NSNT
+42, 4	148, 22-27	LOR	mae gennyn ni yr fawr fawr	NSNT	NSNT
+42, 5	149, 1-8	LOR	mae rhwng y tŷ gwydr a yr wal	NSNT	NSNT
+42, 6	149, 9-9	LOR	dydy	---	NSNT
+
+
+43, 1	151, 1-2	MAT	ddudodd o	---	NSNT
+
+
+44, 1	152, 1-5	STE	be ydy enw yr *um*	ST	NST
+44, 2	153, 1-2	STE	*Bryn_Haul* *Bryn_Golau*	ST	NST
+44, 3	154, 1-9	STE	mae nhw wedi torri yn ei hanner un flwyddyn	NSNT	NSNT
+44, 5	157, 1-7	STE	mae wedi dod yn_ôl at uchder eto	---	NSNT
+
+
+45, 1	159, 1-4	MAT	ia drwg ydy *well*	NST	NST
+45, 2	159, 5-7	MAT	wsti gardd uchel	NSNT	NSNT
+45, 3	159, 8-10	MAT	sy gynnoch chi	NSNT	NSNT
+45, 4	161, 1-7	MAT	pan mae pethau yn mynd yn fawr	NSNT	NSNT
+45, 5	161, 8-14	MAT	mae nhw yn mynd yn rhy fawr	---	NSNT
+
+
+46, 1	162, 1-4	STE	*yeah* mae yn sydyn	NST	NST
+46, 2	162, 5-5	STE	dydy	---	NSNT
+
+
+47, 1	164, 1-7	MAT	a mae yr coed yn rhy fawr	---	NSNT
+
+
+48, 1	165, 1-5	LOR	ia mae hynna wedi *mmm*	NST	NST
+48, 2	166, 1-2	LOR	ond mae	NSNT	NSNT
+48, 3	166, 4-10	LOR	mae cefnau nhw yn edrych yn flêr	---	NSNT
+
+
+49, 1	167, 1-3	STE	dw i isio	---	NSNT
+
+
+50, 1	168, 1-6	MAT	fydd rhaid i ni ofyn iddi	NSNT	NSNT
+50, 2	168, 7-11	MAT	sti am dorri nhw achos	NSNT	NSNT
+50, 3	168, 12-16	MAT	mae nhw yn ormod o	NSNT	NSNT
+50, 4	169, 1-1	MAT	wsti	NSNT	NSNT
+50, 5	169, 2-16	MAT	mae nhw yn cysgodi yr gwlâu llysiau a tŷ gwydr am ormod o amser wan	NSNT	NSNT
+50, 6	172, 1-6	MAT	na mae yn mynd yn ormod	---	NSNT
+
+
+51, 1	173, 1-6	STE	na dydy rhywun ddim yn sylweddoli	NSNT	NSNT
+51, 2	173, 7-8	STE	nag ydy	NSNT	NSNT
+51, 4	176, 1-3	STE	oes yna ddim	NSNT	NSNT
+51, 5	176, 4-10	STE	mae yna ryw fath o *um* reolau	NST	NST
+51, 6	176, 11-15	STE	does wedi dod i rym	---	NSNT
+
+
+52, 1	177, 1-8	LOR	ia *um* be sy yn anodd fan yna	NST	NST
+52, 2	177, 10-14	LOR	dyn nhw ddim yn ffinio	NSNT	NSNT
+52, 3	179, 1-11	LOR	dyn nhw ddim ar y ffin rhwng y y ddau dŷ	NSNT	NSNT
+52, 4	179, 12-13	LOR	nag ydy	---	NSNT
+
+
+53, 1	180, 1-8	MAT	*well* elli di wneud y peth pen yna	NST	NST
+53, 2	180, 9-9	MAT	gelli	---	NSNT
+
+
+54, 1	181, 1-1	LOR	ond	NSNT	NSNT
+54, 2	182, 1-1	LOR	gelli	---	NSNT
+
+
+55, 1	183, 1-2	STE	ia ond	---	NSNT
+
+
+56, 1	184, 1-3	LOR	mae raid chdi	NSNT	NSNT
+56, 2	184, 4-8	LOR	mae raid chdi ofyn gynta	NSNT	NSNT
+56, 3	184, 9-9	LOR	does	NSNT	NSNT
+56, 4	185, 1-5	LOR	os na ydyn nhw yn	NSNT	NSNT
+56, 5	185, 6-9	LOR	os ydyn nhw yn	NSNT	NSNT
+56, 6	185, 10-14	LOR	boddran wedyn ti yn mynd	---	NSNT
+
+
+57, 1	186, 1-1	STE	rhaid	---	NSNT
+
+
+58, 1	187, 1-4	MAT	ia mae ffinio yn	NSNT	NSNT
+58, 2	187, 5-5	MAT	mae	NSNT	NSNT
+58, 3	187, 6-8	MAT	mae yn amharu	NSNT	NSNT
+58, 4	187, 9-9	MAT	dydy	---	NSNT
+
+
+59, 1	191, 1-2	STE	be sy	NSNT	NSNT
+59, 2	191, 3-11	STE	gennoch chi yn y *boxes* bach gwyrdd yna *Mathew*	---	NST
+
+
+60, 1	192, 1-1	MAT	*petunias*	ST	NST
+60, 3	194, 1-4	MAT	ers y cychwyn cychwyn	---	NSNT
+
+
+61, 1	195, 1-13	LOR	ydy yr gath wedi mynd i ganol y ffa yn fan yna *dad*	---	NST
+
+
+62, 1	197, 2-5	MAT	mae yn *sure* rywbeth	---	NST
+
+
+63, 1	198, 1-4	LOR	clywed *mam* yn chwerthin	---	NST
+
+
+64, 1	199, 1-8	MAT	trio cuddio rywbeth a mae hi yn fyw	NSNT	NSNT
+64, 3	202, 1-4	MAT	saff o fynd yna	---	NSNT
+
+
+65, 1	203, 1-2	LOR	i chwarae	---	NSNT
+
+
+66, 1	204, 1-2	STE	*tent* chwarae	---	NST
+
+
+67, 1	207, 1-8	LOR	ti isio mynd allan i ymuno wan does	---	NSNT
+
+
+68, 1	208, 1-12	STE	rhaid i ni siapio i fynd i chwilio amdan y cathod hefyd	---	NSNT
+
+
+69, 1	209, 1-5	LOR	o'n i yn meddwl hynny	NSNT	NSNT
+69, 2	210, 1-14	LOR	o'n i wedi meddwl ffonio diwedd wsnos i ddeud gwir wrtha chdi i weld	NSNT	NSNT
+69, 3	210, 15-21	LOR	os oedd gennyn nhw rei cathod bach	NSNT	NSNT
+69, 4	211, 1-2	LOR	faswn i	---	NSNT
+
+
+70, 1	212, 1-9	MAT	ia mae yr amser iawn i gael hi rywsut	---	NSNT
+
+
+71, 1	215, 1-13	LOR	o'n i wir yn teimlo pythefnos dwytha yma adra ar ben yn hun	---	NSNT
+
+
+72, 1	216, 1-5	MAT	ti yn teimlo yn dwyt	---	NSNT
+
+
+73, 1	217, 1-7	LOR	o'n i yn methu cael cath o_gwmpas	NSNT	NSNT
+73, 4	223, 1-11	LOR	oedd o *right* *handy* cael *Tigger* o_gwmpas i gadw fi yn	NST	NST
+73, 5	223, 12-12	LOR	gall	NSNT	NSNT
+73, 8	227, 1-6	LOR	ia da am helpu fi weithiau	---	NSNT
+
+
+74, 1	228, 1-3	MAT	wnes i ddeud	NSNT	NSNT
+74, 2	228, 4-5	MAT	bod fi	NSNT	NSNT
+74, 3	228, 6-12	MAT	wedi bod heibio *Cae'r_Gors* ddiwedd yr wsnos	NST	NST
+74, 4	228, 13-19	MAT	a bod yna wal arall wedi disgyn	---	NSNT
+
+
+75, 1	230, 1-8	STE	wal tu fewn ta tu allan oedd hynna	---	NSNT
+
+
+76, 1	231, 1-3	LOR	tu mewn ia	---	NSNT
+
+
+77, 1	232, 1-2	STE	tu mewn	SNT	NSNT
+77, 2	233, 1-6	STE	because does yna ddim sail yna	NSNT	SNT
+77, 3	233, 7-8	STE	nag oes	NSNT	NSNT
+77, 4	234, 1-10	STE	o'ch chi yn deud na *just* wedi codi nhw ar	---	NST
+
+
+78, 1	235, 1-2	MAT	nag oes	NSNT	NSNT
+78, 2	236, 1-11	MAT	*well* rois i lluniau o yr ar y cyfrifiadur pnawn yma	NST	NST
+78, 3	237, 1-11	MAT	a wedyn o'n i yn sbïo drostyn nhw a yr rei	NSNT	NSNT
+78, 4	237, 12-17	MAT	dw i wedi dynnu o *Cae'r_Gors*	NST	NST
+78, 5	238, 1-3	MAT	wedyn oedd un	NSNT	NSNT
+78, 6	238, 4-17	MAT	o'n i wedi dynnu o yr wal yna tu mewn yn dangos y *crack*	---	NST
+
+
+79, 1	239, 1-2	STE	*oh* *wow*	---	NST
+
+
+80, 1	240, 1-3	LOR	dyna ydy o	NSNT	NSNT
+80, 2	240, 4-8	LOR	oedd y craciau *right* amlwg	NST	NST
+80, 3	240, 9-9	LOR	doedden	NSNT	NSNT
+80, 4	242, 1-8	LOR	hanner disgwyl y bysai yna broblemau yn codi	NSNT	NSNT
+80, 5	242, 9-9	LOR	doedden	---	NSNT
+
+
+81, 1	245, 1-8	MAT	wedyn oedd un o yr lluniau dwytha wedyn	NSNT	NSNT
+81, 2	245, 9-10	MAT	dynnais i	NSNT	NSNT
+81, 3	245, 11-17	MAT	oedd o yr cerrig ar lawr felly	---	NSNT
+
+
+82, 1	247, 1-8	LOR	ti wedi bod yn tynnu lluniau yna felly	---	NSNT
+
+
+83, 1	249, 1-6	STE	nôl tâp ar_gyfer yr *camera* *video*	---	NST
+
+
+84, 1	250, 1-5	LOR	dyna be ydy o achos	NSNT	NSNT
+84, 2	250, 6-10	LOR	mae yn deu fis wan	NSNT	NSNT
+84, 3	250, 11-18	LOR	dydy ers iddyn nhw gychwyn ar y gwaith	NSNT	NSNT
+84, 4	251, 1-9	LOR	dan ni dal heb fod fyny efo *camera* *video*	---	NST
+
+
+85, 1	253, 1-3	MAT	dw i wedi	NSNT	NSNT
+85, 2	253, 4-10	MAT	roid nhw i_gyd hefo ei_gilydd ar *ddisk*	NST	NST
+85, 4	256, 1-6	MAT	ond y rei dwytha yma rŵan	NSNT	NSNT
+85, 5	257, 1-13	MAT	a wedyn mae yn *fatter* o ddewis rhei dileu rei o rei sâl	NST	NST
+85, 6	257, 14-14	MAT	tydy	---	NSNT
+
+
+86, 1	259, 1-14	LOR	achos mewn ryw ffordd efo yr *camera* *video* *well* fasen ni yn gallu deud	NST	NST
+86, 2	260, 1-9	LOR	*o_k* dan ni yn mynd yna bob deu fis	NST	NST
+86, 3	261, 1-7	LOR	os yna ddigon o luniau in_between hefyd	---	SNT
+
+
+87, 1	262, 1-1	MAT	amser	---	NSNT
+
+
+88, 1	263, 1-8	LOR	fasa ni allan ni *just* rhoi nhw yn	NST	NST
+88, 2	264, 2-7	LOR	elli di wneud ryw fath o	---	NSNT
+
+
+89, 1	265, 1-8	STE	galla i wneud *montage* bach ar ar hwnna	---	NST
+
+
+90, 1	266, 1-1	LOR	galli	---	NSNT
+
+
+91, 1	267, 1-3	STE	hefo yr *avid*	---	NST
+
+
+92, 1	268, 1-1	MAT	fasai	NSNT	NSNT
+92, 2	268, 2-8	MAT	werth mynd hefo yr *video* rŵan achos	NST	NST
+92, 3	268, 9-19	MAT	mae yna ddigon o newid ddigon o bethau wedi newid rŵan	NSNT	NSNT
+92, 4	268, 20-20	MAT	does	---	NSNT
+
+
+93, 1	270, 1-11	LOR	dyna be ydy o ti ddim isio mynd yn rhy aml	NSNT	NSNT
+93, 2	270, 12-13	LOR	nag oes	NSNT	NSNT
+93, 3	272, 1-17	LOR	ti ddim isio mynd bob wsnos lle does yna ti *just* yn mynd i gael *lot* o	---	NST
+
+
+94, 1	273, 1-7	STE	*just* *lot* o yr un un peth	---	NST
+
+
+95, 1	276, 1-9	LOR	ond fasai *shot* o ddim_byd yn wahanol iawn *right*	---	NST
+
+
+96, 1	277, 2-4	MAT	mae yn debyg	NSNT	NSNT
+96, 2	277, 5-20	MAT	bod gen i felly yn_does wrth mod i yn mynd yna bob wsnos mwy neu lai	---	NSNT
+
+
+97, 1	280, 1-6	STE	*oh* mae *Miriam* yn un peth	NST	NST
+97, 2	280, 7-11	STE	o'n i yn meddwl fasa	NSNT	NSNT
+97, 3	280, 12-12	STE	werth	---	NSNT
+
+
+98, 1	283, 1-12	LOR	dyna ydy yr peth fuais i yn tynnu llun o ben wal	---	NSNT
+
+
+99, 1	284, 1-5	STE	sydd ddim yna dim mwy	---	NSNT
+
+
+100, 1	285, 1-3	LOR	timod y dwytha	NSNT	NSNT
+100, 2	286, 1-14	LOR	ia mae o achos *well* achos er_mwyn cael *shot* o cefn yn sbïo i_mewn	NST	NST
+100, 3	286, 15-22	LOR	o'n i yn gorod mynd ar ben wal	---	NSNT
+
+
+101, 1	288, 1-3	MAT	ia dyna chdi	---	NSNT
+
+
+102, 1	291, 1-6	LOR	sef wal lle fysai *well* mi	NST	NST
+102, 2	291, 7-11	LOR	fydd yna mewn ychydig achos	NSNT	NSNT
+102, 3	291, 12-18	LOR	fydd hi yn ochr y stafell *seminar*	---	NST
+
+
+103, 1	294, 1-11	MAT	ia ond does gen ti ddim wal yn fan yna rŵan	NSNT	NSNT
+103, 2	294, 12-13	MAT	nag oes	---	NSNT
+
+
+104, 1	296, 1-11	STE	does yna ddim na *just* *handy* er_mwyn cael wneud time lapse	ST	ST
+104, 4	302, 1-4	STE	mae o yn effeithiol	---	NSNT
+
+
+105, 1	303, 1-2	LOR	a wedyn	---	NSNT
+
+
+106, 1	304, 1-7	STE	a mae yn edrych yn dda hefyd	---	NSNT
+
+
+107, 1	306, 1-2	LOR	meddwl *um*	NST	NST
+107, 2	306, 3-10	LOR	fasen ni yn trio mynd diwedd wsnos rhywbryd	---	NSNT
+
+
+108, 1	310, 1-7	MAT	dydy dy dad ddim wedi clywed ddim_byd	NSNT	NSNT
+108, 2	310, 8-14	MAT	pryd mae yn mynd i_mewn na ddim_byd	---	NSNT
+
+
+109, 1	311, 1-1	STE	mae	NSNT	NSNT
+109, 2	311, 2-11	STE	mae nhw wedi *yeah* deud wrtho Dona gynnau rŵan *um*	NST	NST
+109, 4	313, 1-11	STE	*um* mae o yn mynd i_mewn fory i weld y consultant	ST	ST
+109, 5	313, 12-14	STE	dw i meddwl	NSNT	NSNT
+109, 6	314, 1-5	STE	ac am fwy o brofion	NSNT	NSNT
+109, 7	315, 1-6	STE	a wedyn ond dw i meddwl	NSNT	NSNT
+109, 8	315, 7-11	STE	be mae nhw isio wneud	NSNT	NSNT
+109, 9	315, 12-24	STE	ydy gweld *um* os o digon cry er_mwyn penderfynu pa fath o driniaeth	NST	NST
+109, 10	315, 25-29	STE	mae yn mynd i dderbyn	NSNT	NSNT
+109, 11	315, 30-46	STE	os ydy o mynd i cael *surgery* neu *chemo* cyfuniad o yr ddau neu *radiotherapy* a ballu	NST	NST
+109, 12	318, 1-12	STE	wedyn *um* yn anffodus o ei oedran o dw i ddim meddwl	NST	NST
+109, 13	318, 13-20	STE	bod *surgery* mynd i fod yn *option* call	NST	NST
+109, 14	319, 1-13	STE	mae o mynd i fod yn coblyn o o fwrn arno fo felly	NSNT	NSNT
+109, 15	321, 1-19	STE	ond ar y llaw arall *um* ella mae *um* *radiotherapy* cyfyngu fo i i i i shrincio fo felly	NST	NST
+109, 16	322, 1-4	STE	ond bychan ydy yr	NSNT	NSNT
+109, 17	322, 5-12	STE	ydy yr *um* *cancer* yn y lle cyntaf	---	NST
+
+
+110, 1	324, 1-4	LOR	dyna be ydy o	NSNT	NSNT
+110, 2	324, 5-10	LOR	mae yn dibynnu yn hollol be	NSNT	NSNT
+110, 3	324, 11-19	LOR	be mae nhw wedi weld a pa mor fawr	NSNT	NSNT
+110, 4	324, 20-21	LOR	ydy o	NSNT	NSNT
+110, 5	324, 22-24	LOR	dydy ti weld	NSNT	NSNT
+110, 6	326, 1-10	LOR	mae yn anodd i ni ddeud ar y funud achos	NSNT	NSNT
+110, 7	326, 11-13	LOR	dyn nhw ddim	NSNT	NSNT
+110, 8	326, 14-17	LOR	timod mond dros *phone*	NST	NST
+110, 9	327, 1-3	LOR	dyn nhw ddim	NSNT	NSNT
+110, 10	327, 4-11	LOR	wedi bod i_mewn yn siarad efo fo eto	NSNT	NSNT
+110, 11	327, 12-13	LOR	nag ydy	---	NSNT
+
+
+111, 1	328, 1-5	STE	na dyn nhw ddim na	---	NSNT
+
+
+112, 1	330, 1-6	LOR	ers cael yr alwad i yr	---	NSNT
+
+
+113, 1	331, 1-5	STE	*well* dw i yn falch	NST	NST
+113, 2	331, 6-9	STE	bod nhw wedi deud	NSNT	NSNT
+113, 3	333, 1-4	STE	*right* tyrd i_fewn fory	ST	NST
+113, 4	334, 1-7	STE	because y dydd Mercher oedden nhw yn	NSNT	SNT
+113, 5	335, 1-4	STE	achos mae nhw yn	NSNT	NSNT
+113, 6	335, 5-10	STE	mae nhw yn symud o leiaf	NSNT	NSNT
+113, 7	337, 1-5	STE	bod *er* nhw yn deud	NST	NST
+113, 8	339, 3-4	STE	mae nhw	NSNT	NSNT
+113, 9	339, 5-8	STE	mae nhw yn sifftio	NSNT	NSNT
+113, 10	341, 1-4	STE	calonogol dw i meddwl	NSNT	NSNT
+113, 11	345, 1-3	STE	mae yn well	NSNT	NSNT
+113, 12	345, 4-6	STE	genno fi hynna	NSNT	NSNT
+113, 13	345, 7-19	STE	na bod o yn wneud dim_byd a gadael o ry hwyr neu rywbeth	---	NSNT
+
+
+114, 1	347, 1-3	MAT	ond na sti	NSNT	NSNT
+114, 2	347, 4-7	MAT	dw i yn gwybod	NSNT	NSNT
+114, 3	347, 8-20	MAT	bod o wedi cymryd *lot* o amser i mi gael gwybod yn eitha	NST	NST
+114, 4	347, 21-22	MAT	be sy	NSNT	NSNT
+114, 5	347, 23-24	MAT	yn bod	NSNT	NSNT
+114, 6	348, 1-13	MAT	ond eto mae pethau wedi digwydd mewn amser rhesymol iawn gen i bob	NSNT	NSNT
+114, 7	348, 14-14	MAT	tro	NSNT	NSNT
+114, 8	350, 1-7	MAT	does gen i ddim cwyn o_gwbl felly	---	NSNT
+
+
+115, 1	351, 1-5	STE	na mae hynna yn dda	NSNT	NSNT
+115, 2	352, 1-10	STE	yn enwedig hefo rhywbeth fath â *cancer* neu rhywbeth felly	NST	NST
+115, 3	354, 1-1	STE	mae	NSNT	NSNT
+115, 4	354, 2-5	STE	mae yn isio siffito	NSNT	NSNT
+115, 5	354, 6-6	STE	dydy	---	NSNT
+
+
+116, 1	358, 1-9	LOR	ond o be dan ni yn gallu ffigro allan	NSNT	NSNT
+116, 2	358, 10-11	LOR	mae yr	NSNT	NSNT
+116, 3	358, 12-14	LOR	mae ddigon posib	NSNT	NSNT
+116, 4	358, 15-20	LOR	bod un dy dad yn rywbeth	NSNT	NSNT
+116, 5	358, 21-25	LOR	sy wedi datblygu yn ddiweddar	NSNT	NSNT
+116, 6	358, 26-27	LOR	dydy o	NSNT	NSNT
+116, 7	360, 1-2	LOR	oherwydd timod	NSNT	NSNT
+116, 8	362, 1-8	LOR	o ganlyniad mewn ffordd i yr problemau mae	NSNT	NSNT
+116, 9	362, 9-17	LOR	wedi bod yn gael efo ei stumog a ballu	NSNT	NSNT
+116, 10	363, 1-6	LOR	timod achos ti meddwl amdano fo	NSNT	NSNT
+116, 11	363, 7-10	LOR	mae fath â chdithau	NSNT	NSNT
+116, 12	363, 11-22	LOR	wedi bod mewn ac allan yn *right* aml drost y flwyddyn ddwytha	NST	NST
+116, 13	363, 23-30	LOR	do efo yr un un math o broblemau	NSNT	NSNT
+116, 14	364, 1-9	LOR	a ti yn meddwl *well* os fysai yna rywbeth	NST	NST
+116, 15	364, 10-14	LOR	os fysai yna fwy yna	NSNT	NSNT
+116, 16	364, 15-20	LOR	fasen nhw wedi sylwi yn gynt	NSNT	NSNT
+116, 17	364, 21-21	LOR	bysai	---	NSNT
+
+
+117, 1	365, 1-3	STE	fasen nhw wedi	NSNT	NSNT
+117, 2	366, 1-1	STE	basai	---	NSNT
+
+
+118, 1	367, 1-4	MAT	*well* faset ti yn	NST	NST
+118, 2	367, 5-9	MAT	faset ti yn disgwyl hynny	NSNT	NSNT
+118, 3	367, 10-10	MAT	byset	---	NSNT
+
+
+119, 1	369, 2-12	LOR	fasai yna rywbeth o leiaf wedi codi yn y profion gwaed	NSNT	NSNT
+119, 2	369, 13-13	LOR	bysai	---	NSNT
+
+
+120, 1	371, 1-1	MAT	basai	---	NSNT
+
+
+121, 1	372, 1-8	STE	because y prawf gwaed a yr *um* *biopsy*	NST	ST
+121, 2	372, 9-18	STE	wnaeth ddod â yr y *cancer* i_fyny yn lle cyntaf	NST	NST
+121, 3	373, 1-7	STE	oedd y *scan* a beth bynnag arall	NST	NST
+121, 4	373, 8-18	STE	a oedd y *camera* yr yr yr yr *oesophagus* wedi gweld	NST	NST
+121, 5	373, 19-28	STE	bod yna ryw fath o irritation yn mynd ymlaen felly	---	SNT
+
+
+122, 1	376, 1-7	LOR	byddan ni yn gwybod mwy ar_ôl fory	NSNT	NSNT
+122, 2	376, 8-8	LOR	byddan	SNT	NSNT
+122, 3	377, 1-1	LOR	*just*	ST	NST
+122, 4	380, 1-8	LOR	dan ni mynd i fynd lawr i fory	NSNT	NSNT
+122, 5	380, 9-9	LOR	dydan	NSNT	NSNT
+122, 6	382, 1-5	LOR	achos mae gyn ti bethau	---	NSNT
+
+
+123, 1	383, 1-12	STE	*well* *just* bod o yn un peth llai wan i boeni amdan	NST	NST
+123, 2	383, 13-15	STE	ydy paratoi ar_gyfer	---	NSNT
+
+
+124, 1	385, 1-6	LOR	ia achos mae gen i pethau	NSNT	NSNT
+124, 2	386, 1-5	LOR	ia mae yn Sul mamau	NSNT	NSNT
+124, 3	386, 6-8	LOR	dydy dydd Sul	NSNT	NSNT
+124, 4	387, 1-12	LOR	wedyn mae gen i ryw wasanaeth arbennig angen isio wneud efo yr	SNT	NSNT
+124, 5	390, 1-4	LOR	O_H_P a ballu does	NSNT	SNT
+124, 6	392, 1-4	LOR	a *Power_Point* a ballu	---	NST
+
+
+125, 1	395, 1-5	STE	*oh* dw i meddwl dyna	NST	NST
+125, 2	395, 6-12	STE	be fyddan ni wneud efo nos fory	NSNT	NSNT
+125, 3	395, 13-13	STE	sti	NSNT	NSNT
+125, 4	395, 14-18	STE	ydy sortio *Power_Point* yma allan	---	NST
+
+
+126, 1	398, 1-8	MAT	*well* dan ni yn Deganwy drwy dydd fory	NST	NST
+126, 3	400, 1-1	MAT	eto	---	NSNT
+
+
+127, 1	401, 1-1	STE	*great*	---	NST
+
+
+128, 1	403, 1-4	LOR	gen chi wsnos prysur	NSNT	NSNT
+128, 2	404, 1-10	LOR	wedyn ella na dydd Mercher a i *Llanberis* dydd Mercher	NST	NST
+128, 4	406, 1-1	LOR	eto	---	NSNT
+
+
+129, 1	408, 1-10	MAT	na oedd y *crew* yma dydd Sadwrn yn *right* dda	NST	NST
+129, 2	408, 11-21	MAT	de *right* awyddus ac yn dallt pethau yn o lew felly	---	NST
+
+
+130, 1	409, 1-13	LOR	be oeddan nhw athrawon ta pobl sy yn gweithio mewn canolfannau awyr agored	---	NSNT
+
+
+131, 1	410, 1-1	MAT	athrawon	NSNT	NSNT
+131, 2	411, 1-6	MAT	*well* o'n athrawon rei a wedyn	NST	NST
+131, 3	411, 7-25	MAT	oedd yna ryw ddau yn bwriadu i yn fyfyrwyr rŵan ac yn mynd i fynd i ganolfannau awyr agored	NSNT	NSNT
+131, 4	413, 1-8	MAT	oedd yna un yn gweithio efo yr cadets	SNT	SNT
+131, 5	413, 9-16	MAT	sti yn gweithio rywbeth gwaith hollol wahanol felly	NSNT	NSNT
+131, 6	415, 1-13	MAT	oedd dau o yr hogia wedi anfon pethau yn_ôl wedi cyrraedd bore yma	---	NSNT
+
+
+132, 1	416, 1-2	LOR	*oh* duw	NST	NST
+132, 2	417, 1-3	LOR	*mmhm* diddorol felly	---	NST
+
+
+133, 1	418, 1-19	MAT	*mmm* ia dan ni yn mynd yn_ôl i *Wrexham* mewn pythefnos felly i gael yr hanner arall ohonyn nhw	---	NST
+
+
+134, 1	419, 1-6	LOR	*oh* oes yna fwy ohonyn nhw	ST	NST
+134, 2	421, 1-1	LOR	*sorry*	---	NST
+
+
+135, 1	424, 1-3	MAT	*well* drwg ydy	NST	NST
+135, 2	424, 4-9	MAT	bod ni yn mewn *park* dinesig	NST	NST
+135, 3	424, 10-11	MAT	ydy o	NSNT	NSNT
+135, 4	425, 1-6	MAT	ac oedd hi yn bnawn braf	NSNT	NSNT
+135, 5	425, 7-12	MAT	oedd yna *lot* o bobl o_gwmpas	NST	NST
+135, 6	427, 1-8	MAT	wedyn mi gollon ni ddau o yr controls	SNT	SNT
+135, 7	429, 1-8	MAT	*well* pan o'n i wedi gosod un allan	NST	NST
+135, 8	430, 1-5	MAT	o'n i yn gosod naw	NSNT	NSNT
+135, 10	432, 1-8	MAT	wedi gosod gosod y dwytha mynd yn_ôl wan	NSNT	NSNT
+135, 11	433, 1-7	MAT	wnaeth ddynes ddod i yng nghwrdd i	NSNT	NSNT
+135, 13	435, 1-2	MAT	yn chwifio	---	NSNT
+
+
+136, 1	436, 1-6	LOR	meddwl bo chdi wedi gadael o	---	NSNT
+
+
+137, 1	437, 1-1	STE	control	---	NSNT
+
+
+138, 1	439, 1-7	MAT	excuse *me* *does* this belong to you	ST	NST
+138, 2	440, 1-2	MAT	medda hi	NSNT	NSNT
+138, 3	442, 1-2	MAT	medda fi	SNT	NSNT
+138, 4	443, 1-8	MAT	*oh* my dog had got hold of it	---	NST
+
+
+139, 1	444, 1-2	STE	*oh* *well*	---	NST
+
+
+140, 1	445, 1-9	MAT	wedyn chwarae teg iddyn nhw fedri di ddim roi	NSNT	NSNT
+140, 2	445, 10-12	MAT	bai ar gi	NSNT	NSNT
+140, 3	445, 13-14	MAT	na elli	---	NSNT
+
+
+141, 1	447, 1-8	LOR	be oedda chdi wrthi yn gosod pethau allan	NSNT	NSNT
+141, 2	447, 9-10	LOR	oedda chdi	---	NSNT
+
+
+142, 1	448, 1-6	MAT	ia ond y cynta oedd hwnnw	NSNT	NSNT
+142, 3	450, 1-7	MAT	oedd o wedi gafael yn y *flag*	NST	NST
+142, 4	450, 8-16	MAT	doedd a wedi rhedeg efo fo yn ei geg	---	NSNT
+
+
+143, 1	451, 1-3	LOR	mae hynna yn	NSNT	NSNT
+143, 2	451, 4-8	LOR	mae hynna yn synnu fi	NSNT	NSNT
+143, 3	452, 1-3	LOR	achos dw i	NSNT	NSNT
+143, 4	452, 4-5	LOR	dw i	NSNT	NSNT
+143, 5	452, 7-9	LOR	pan dan ni	NSNT	NSNT
+143, 6	452, 10-20	LOR	wedi bod yn wneud pethau yn *Glynllifon* yr un ti wir	NST	NST
+143, 7	453, 3-10	LOR	dan ni yn colli nhw colli yr controls	SNT	SNT
+143, 8	454, 1-5	LOR	ond ti wir yn meddwl	NSNT	NSNT
+143, 9	455, 1-10	LOR	be mae rywun isio efo *flag* bach gwyn a oren	NST	NST
+143, 10	457, 1-6	LOR	dw i ddim *quite* yn dallt	---	NST
+
+
+144, 1	458, 1-11	STE	mae o yn mynd i edrych yn *nice* ar *top* *car*	---	NST
+
+
+145, 1	459, 1-4	LOR	er cofia di mi	NSNT	NSNT
+145, 2	459, 5-10	LOR	oedd gynnon ni un bach o	NSNT	NSNT
+145, 3	459, 11-24	LOR	dw i yn cofio pan oeddan ni yn arfer mynd ffwrdd efo *squad* Cymru	NST	NST
+145, 4	460, 1-15	LOR	mi oedd gynnon ni bach o *obsession* am bigo arwyddion ffordd a ryw bethe bach	NST	NST
+145, 5	460, 16-16	LOR	gwirion	NSNT	NSNT
+145, 6	463, 1-8	LOR	oeddan ni yn mynd trwy ryw phase o	---	SNT
+
+
+146, 1	464, 1-1	STE	benthyg	NSNT	NSNT
+146, 2	466, 1-2	STE	ia benthyg	---	NSNT
+
+
+147, 1	467, 1-11	LOR	*er* rhoid her i ein_gilydd i i ddod adre efo pethau	NST	NST
+147, 2	467, 12-12	LOR	gwirion	---	NSNT
+
+
+148, 1	470, 1-19	MAT	pan ti yn gosod o mewn lle a *lot* o bobl yn cerdded o_gwmpas mae o yn dyna fo	---	NST
+
+
+149, 1	472, 1-4	LOR	mae yna wastad *risk*	NST	NST
+149, 2	472, 5-5	LOR	does	NSNT	NSNT
+149, 3	474, 1-5	LOR	*um* ti ddim yn meddwl	NST	NST
+149, 4	475, 1-6	LOR	mi rwyt ti yn meddwl pam	---	NSNT
+
+
+150, 1	476, 3-4	MAT	wsti iawn	NSNT	NSNT
+150, 2	476, 5-14	MAT	petasai rywun *just* yn codi nhw a lluchio nhw ond	---	NST
+
+
+151, 1	478, 1-7	LOR	dw i yn dallt hynny fwy ond	---	NSNT
+
+
+152, 1	479, 1-5	MAT	ond rhei oedd wedi mynd	NSNT	NSNT
+152, 2	480, 1-8	MAT	achos fuon ni yn chwilio go iawn felly	NSNT	NSNT
+152, 3	481, 1-4	MAT	dim golwg ohonyn nhw	---	NSNT
+
+
+153, 1	483, 1-3	LOR	achos am bod	NSNT	NSNT
+153, 2	483, 4-6	LOR	pan dan ni	NSNT	NSNT
+153, 3	483, 7-14	LOR	wedi bod yn wneud pethau efo plant weithiau	NSNT	NSNT
+153, 4	483, 15-24	LOR	mae nhw yn tynnu nhw allan ac yn lluchio nhw	NSNT	NSNT
+153, 5	483, 25-30	LOR	dan y gwrych yn rhywle er_mwyn	NSNT	NSNT
+153, 6	484, 1-9	LOR	tibod y pethau fyny i pawb arall dydy ond	---	NSNT
+
+
+154, 1	486, 1-5	MAT	*mmm* dw i yn gwybod	---	NST
+
+
+155, 1	488, 1-1	LOR	*sure*	---	NST
+
+
+156, 1	489, 1-1	STE	tactical	---	NSNT
+
+
+157, 1	491, 1-5	LOR	os ydyn nhw yn gwybod	NSNT	NSNT
+157, 2	491, 6-11	LOR	bod nhw wedi mynd allan gynta	NSNT	NSNT
+157, 3	491, 12-18	LOR	mae nhw *just* yn lluchio nhw er_mwyn	NST	NST
+157, 5	493, 1-4	LOR	twyllo pawb arall dydy	NSNT	NSNT
+157, 6	494, 1-2	LOR	ond dw	NSNT	NSNT
+157, 8	497, 1-5	LOR	faswn i yn dallt hynny	NSNT	NSNT
+157, 9	498, 1-12	LOR	ond dw i ddim *quite* yn dallt mynd â nhw efo nhw	---	NST
+
+
+158, 1	500, 1-13	MAT	na achos oedd y *crew* i fod i wneud dau gwrs i *Guto*	NST	NST
+158, 2	500, 14-17	MAT	dw i yn meddwl	NSNT	NSNT
+158, 3	501, 1-2	MAT	a drosodd	NSNT	NSNT
+158, 4	502, 1-5	MAT	wnaethon nhw ddim yn diwedd	NSNT	NSNT
+158, 5	502, 6-6	MAT	naddo	NSNT	NSNT
+158, 6	503, 1-1	MAT	ar_ôl	NSNT	NSNT
+158, 8	505, 1-4	MAT	dydy o yr ots	---	NSNT
+
+
+159, 1	506, 1-8	LOR	*um* tra dw i yn cofio gofyn hefyd	NST	NST
+159, 2	507, 1-2	LOR	*Gors* felly	NST	NST
+159, 3	508, 1-7	LOR	gyn nhw gyfarfod dydd Llun nesa does	NSNT	NSNT
+159, 4	510, 1-3	LOR	efo yr is_bwyllgorau	NSNT	NSNT
+159, 5	511, 1-9	LOR	be ti yn feddwl fasai yr gorau i wneud	NSNT	NSNT
+159, 6	512, 1-10	LOR	cael cynnal o trio cynnal nhw wsnos cynt ta dydy	NSNT	NSNT
+159, 7	512, 11-15	LOR	dydy o fawr o wahaniaeth	NSNT	NSNT
+159, 8	513, 1-7	LOR	trio trio penderfynu dw i pa bryd	NSNT	NSNT
+159, 9	513, 8-14	LOR	ydy yr amser gorau i gynnal o	NSNT	NSNT
+159, 10	514, 1-7	LOR	achos dw i mynd i drio wneud	NSNT	NSNT
+159, 11	514, 8-11	LOR	timod yr un peth	NSNT	NSNT
+159, 12	514, 12-12	LOR	â	NSNT	NSNT
+159, 13	514, 13-19	LOR	dan ni yn wneud efo yr is_bwyllgor	NSNT	NSNT
+159, 14	515, 1-5	LOR	bod ni yn deud *right*	NST	NST
+159, 15	516, 1-9	LOR	beth bynnag ydy o dydd Iau ola yr mis	---	NSNT
+
+
+160, 1	518, 1-5	MAT	dw i ddim yn meddwl	NSNT	NSNT
+160, 2	518, 6-14	MAT	bod o gymaint o bwys pa bryd yn union	NSNT	NSNT
+160, 3	518, 15-16	MAT	nag ydy	NSNT	NSNT
+160, 4	520, 1-2	MAT	dim ond	---	NSNT
+
+
+161, 1	521, 1-7	LOR	*just* bod ni yn cael rywbeth sefydlog	---	NST
+
+
+162, 1	522, 1-6	MAT	ia be sy yn siwtio chi	NSNT	NSNT
+162, 2	523, 1-4	MAT	bod o yn sefydlog	NSNT	NSNT
+162, 3	524, 1-17	MAT	a bod yna amser i i chdi wedyn wneud adroddiad yn barod erbyn yr bwrdd bwrdd rheoli	---	NSNT
+
+
+163, 1	525, 1-5	LOR	dyna o'n i yn feddwl	NSNT	NSNT
+163, 2	526, 1-3	LOR	dyna achos wnes	NSNT	NSNT
+163, 3	526, 4-6	LOR	wnes i feddwl	NSNT	NSNT
+163, 4	526, 7-8	LOR	faswn ella	NSNT	NSNT
+163, 5	526, 9-22	LOR	fasai fo yn well gwneud fath â wsnos cynt achos wedyn ti yn gwybod	NSNT	NSNT
+163, 6	528, 1-6	LOR	timod ti yn gwybod lle be	NSNT	NSNT
+163, 7	528, 7-12	LOR	be sy yn mynd ymlaen felly	NSNT	NSNT
+163, 8	528, 13-15	LOR	be ydy yr	NSNT	NSNT
+163, 9	528, 16-16	LOR	diweddara	NSNT	NSNT
+163, 10	530, 1-2	LOR	timod weithiau	NSNT	NSNT
+163, 11	530, 4-6	LOR	os dan ni	NSNT	NSNT
+163, 12	530, 7-16	LOR	os dan ni yn gael pythefnos neu dair wythnos ar_ôl	NSNT	NSNT
+163, 13	531, 1-3	LOR	*oh* na does	NST	NST
+163, 14	531, 4-9	LOR	does yna ddim dair wsnos ar_ôl	NSNT	NSNT
+163, 15	531, 10-11	LOR	nag oes	NSNT	NSNT
+163, 16	532, 1-6	LOR	*so* wsnos cynt ydy yr un	NST	NST
+163, 17	532, 7-7	LOR	nesa	NSNT	NSNT
+163, 18	532, 8-8	LOR	nesa	NSNT	NSNT
+163, 20	536, 1-6	LOR	pythefnos deuda *right* yn y canol	NST	NST
+163, 21	537, 1-14	LOR	mae yna amser wedi mynd wedyn rhwng cyfarfod ni a cyfarfod yr bwrdd rheoli	NSNT	NSNT
+163, 22	537, 15-15	LOR	does	---	NSNT
+
+
+164, 1	538, 1-4	MAT	oes a *yeah* mi	NST	NST
+164, 2	538, 5-8	MAT	allech chi weld hefyd	NSNT	NSNT
+164, 3	538, 9-17	MAT	bod o yn mynd yn ddau fis ambell dro	---	NSNT
+
+
+165, 1	539, 1-3	LOR	ia *just* dw	NST	NST
+165, 2	539, 4-5	LOR	dw i	NSNT	NSNT
+165, 3	539, 6-9	LOR	wnes i *just* ddeud	NST	NST
+165, 4	539, 10-13	LOR	noson o blaen *um*	NST	NST
+165, 5	539, 14-22	LOR	pan o'n i yn siarad efo *well* *Sioned* yn	NST	NST
+165, 6	539, 23-26	LOR	benna felly yn deud	NSNT	NSNT
+165, 7	539, 27-31	LOR	bysen ni yn trio deud	NSNT	NSNT
+165, 8	540, 1-11	LOR	*right* dydd Iau cynta dydd Iau ola beth bynnag y mis	NST	NST
+165, 9	542, 1-6	LOR	*just* er_mwyn trio cael rywbeth sefydlog	NST	NST
+165, 10	543, 1-2	LOR	achos timod	NSNT	NSNT
+165, 11	543, 3-8	LOR	be oedd yn digwydd o blaen	NSNT	NSNT
+165, 12	543, 10-11	LOR	bod ni	NSNT	NSNT
+165, 13	543, 12-16	LOR	yn bod ni yn gweld	NSNT	NSNT
+165, 14	543, 17-25	LOR	bod yna ormod o amser yn mynd rhwng cyfarfodydd	NSNT	NSNT
+165, 15	545, 1-9	LOR	achos bod ni ddim yn wneud o ddigon sefydlog	NSNT	NSNT
+165, 16	546, 1-5	LOR	timod o'ch chdi yn meddwl	NSNT	NSNT
+165, 17	547, 1-10	LOR	*oh* ia shit mae yna drost fis ers cyfarfod dwytha	NST	ST
+165, 18	548, 1-6	LOR	well i ni drefnu un arall	---	NSNT
+
+
+166, 1	550, 1-20	MAT	ia ond wedyn os os dach chi wedi cael trefn go lew ar bethau a pethau wedi trefnu ymlaen llaw	NSNT	NSNT
+166, 2	552, 1-7	MAT	allech chi benderfynu *well* mis mis yma	NST	NST
+166, 3	552, 8-12	MAT	dan ni ddim angen un	NSNT	NSNT
+166, 4	555, 1-10	MAT	pwrpas i gael pwyllgor *just* er_mwyn cael pwyllgor nag oes	---	NST
+
+
+167, 1	556, 1-4	LOR	na *well* wnawn ni	NST	NST
+167, 2	558, 1-6	LOR	dw i yn meddwl peth gorau	NSNT	NSNT
+167, 3	558, 7-7	LOR	fysai	NSNT	NSNT
+167, 4	558, 8-17	LOR	os wna i drio cael pawb at ei_gilydd wsnos nesa	NSNT	NSNT
+167, 5	560, 1-10	LOR	a wedyn penderfynu wedyn pa bryd ydy yr gorau felly	---	NSNT
+
+
+168, 1	561, 1-11	MAT	*well* mae gen ti fwy o *grew* i weld yn barod	NST	NST
+168, 2	561, 12-18	MAT	na sy gan yr is_bwyllgorau eraill yn_does	---	NSNT
+
+
+169, 1	562, 1-2	LOR	well mae	NSNT	NSNT
+169, 2	562, 3-9	LOR	genno fi bedwar pedwar neu bump pendant	NSNT	NSNT
+169, 3	562, 10-10	LOR	does	NSNT	NSNT
+169, 4	564, 1-2	LOR	wedyn timod	NSNT	NSNT
+169, 5	564, 3-5	LOR	mae yn dibynnu	NSNT	NSNT
+169, 6	564, 6-13	LOR	os dan ni mynd i gael mwy wedyn	NSNT	NSNT
+169, 7	564, 14-14	LOR	dydy	NSNT	NSNT
+169, 8	565, 1-7	LOR	ond ella bod hynna yn un peth	NSNT	NSNT
+169, 9	565, 8-18	LOR	allen ni sbïo arno fo i ddeud y gwir wrtha chdi	NSNT	NSNT
+169, 10	565, 19-23	LOR	ydy yn yr pwyllgor cyntaf	NSNT	NSNT
+169, 11	565, 26-32	LOR	sut dan ni yn cael pobl eraill	---	NSNT
+
+
+169, 12	567, 1-8	LOR	i_fewn a trio meddwl am bobl i targedu	NSNT	NSNT
+170, 2	569, 1-11	MAT	mae rhaid i yr pedwar ohonoch chi dargedu rhei rŵan raid	---	NSNT
+
+
+171, 1	571, 1-1	LOR	rhaid	---	NSNT
+
+
+172, 1	572, 1-3	MAT	i gael mwy	---	NSNT
+
+
+173, 1	573, 1-4	LOR	*oh* ia tibod mae	NST	NST
+173, 2	573, 5-7	LOR	genna fi restr	NSNT	NSNT
+173, 3	574, 1-2	LOR	ond dw	NSNT	NSNT
+173, 4	574, 3-11	LOR	dw i meddwl beth peth gorau i fi wneud	NSNT	NSNT
+173, 5	574, 12-14	LOR	fysai y rheiny	NSNT	NSNT
+173, 6	574, 15-19	LOR	sy gen i ar rhestr	NSNT	NSNT
+173, 7	574, 21-23	LOR	bod fi yn	NSNT	NSNT
+173, 8	574, 24-28	LOR	rhoid y dewis iddyn nhw	NSNT	NSNT
+173, 9	575, 1-13	LOR	achos yn amlwg mae gynno fi bedwar neu pump ar ein ar is_bwyllgor	NSNT	NSNT
+173, 10	575, 14-14	LOR	does	NSNT	NSNT
+173, 11	577, 1-8	LOR	os oes yna rei o rai ychwanegol yma	NSNT	NSNT
+173, 12	577, 9-21	LOR	fysai efo mwy o ddiddordeb yn yr yn yr un adnoddau neu rywbeth	---	NSNT
+
+
+174, 1	578, 1-7	MAT	*oh* ia rho yr dewis iddyn nhw	NST	NST
+174, 2	580, 1-18	MAT	ond fydd *Ceri* hefyd wedi anfon yr am y pwyllgor nos Lun nesa i yr gweddill yr ymddiriedolwyr	NST	NST
+174, 3	580, 19-21	MAT	oedd ddim yna	NSNT	NSNT
+174, 4	583, 1-4	MAT	yn y cyfarfod cyhoeddus	NSNT	NSNT
+174, 5	584, 1-10	MAT	a mae yna bwysau yn mynd i fod arnyn nhw	---	NSNT
+
+
+175, 1	585, 1-6	LOR	*yeah* achos timod ti yn meddwl	NST	NST
+175, 2	585, 8-20	LOR	fasai rywun fath â *Rhiannon* yn dda i gael ar yr un adnoddau	NST	NST
+175, 3	586, 1-4	LOR	sy yn trafod am	NSNT	NSNT
+175, 4	586, 5-12	LOR	be sy yn mynd i fynd i_mewn yna	NSNT	NSNT
+175, 5	587, 1-6	LOR	achos ti isio rywun fwy timod	NSNT	NSNT
+175, 6	588, 1-3	LOR	dw ddim gwybod	NSNT	NSNT
+175, 7	589, 1-2	LOR	*just* meddwl	NST	NST
+175, 8	589, 3-10	LOR	fasai fo yn dda cael rywun felly fwy	---	NSNT
+
+
+176, 1	590, 1-1	MAT	*well*	---	NST
+
+
+177, 1	591, 1-3	LOR	creadigol sy yn	---	NSNT
+
+
+178, 1	592, 1-3	MAT	ia os ddown	NSNT	NSNT
+178, 2	592, 4-6	MAT	os ddown nhw	---	NSNT
+
+
+179, 1	593, 1-7	LOR	*well* yn union dyna ydy yr peth	---	NST
+
+
+180, 1	595, 1-11	MAT	na be o'n i yn *right* falch o yr enwau rei	NST	NST
+180, 2	595, 12-15	MAT	oedd yn y cyfarfod	NSNT	NSNT
+180, 3	595, 16-16	MAT	agored	NSNT	NSNT
+180, 4	595, 17-20	MAT	be mae nhw wedi	NSNT	NSNT
+180, 5	595, 21-22	MAT	roid i_lawr	NSNT	NSNT
+180, 6	595, 23-29	MAT	mae nhw yn fodlon wneud i helpu	NSNT	NSNT
+180, 7	597, 1-3	MAT	achos dw i	NSNT	NSNT
+180, 8	597, 4-15	MAT	wedi bod yn gwneud dechrau yr ymchwil o i yr hanes *Cae'r_Gors*	NST	NST
+180, 9	597, 16-20	MAT	ei hun hanes y teulu	NSNT	NSNT
+180, 10	599, 1-9	MAT	*Kate* a yr teuluoedd sy wedi byw yng *Nghae'r_Gors*	NST	NST
+180, 11	601, 1-9	MAT	ond mae yna amryw o rheina rŵan wedi deud	NSNT	NSNT
+180, 12	601, 10-14	MAT	fedran nhw helpu efo ymchwil	NSNT	NSNT
+180, 13	601, 15-15	MAT	does	---	NSNT
+
+
+181, 1	603, 1-6	LOR	be ti yn mynd i wneud	---	NSNT
+
+
+182, 1	604, 1-2	MAT	fedran ia	NSNT	NSNT
+182, 2	604, 3-10	MAT	fedran ni roi pethau penodol i rheina rŵan	NSNT	NSNT
+182, 3	604, 11-11	MAT	gallan	NSNT	NSNT
+182, 4	605, 1-4	MAT	ewch i yr archifdy	---	NSNT
+
+
+183, 1	606, 1-5	LOR	*well* ia dyna ydy o	NST	NST
+183, 3	608, 1-18	LOR	os ti yn sbïo ar y rhestr fan yna mae yna dipyn wedi cynnig helpu efo gwaith ymchwil	NSNT	NSNT
+183, 4	610, 2-11	LOR	mae yn *fatter* o ffindio jobsys penodol iddyn nhw wneud	NST	NST
+183, 5	610, 12-12	LOR	dydy	NSNT	NSNT
+183, 6	612, 1-2	LOR	defnyddio timod	NSNT	NSNT
+183, 7	612, 3-11	LOR	os ydyn nhw yn fodlon gwneud *well* manteisio ar	NST	NST
+183, 8	612, 12-13	LOR	hynny de	---	NSNT
+
+
+184, 1	613, 1-7	MAT	ia mae gen i jobsys penodol i	NSNT	NSNT
+184, 2	613, 8-10	MAT	fedra nifer wneud	NSNT	NSNT
+184, 3	616, 1-1	MAT	wsti	NSNT	NSNT
+184, 4	616, 2-10	MAT	bod chdi yn cael y cyfrifiadau o un_wyth_pedwar_un ymlaen	NSNT	NSNT
+184, 5	617, 1-3	MAT	mae gen i	NSNT	NSNT
+184, 6	617, 4-7	MAT	mae *Cae'r_Gors* gyn i	NST	NST
+184, 7	617, 8-12	MAT	ond mae isio tsiecio fo	NSNT	NSNT
+184, 8	618, 1-7	MAT	mae *Bryn_Ffynnon* taid a nain un ochr	NST	NST
+184, 9	619, 1-7	MAT	*Pant_Celyn* yn fan yna doedd ochr arall	NST	NST
+184, 10	620, 1-10	MAT	*Hafod_y_Rhos_Isaf* lle buodd yr hen daid a nain am *spell*	NST	NST
+184, 11	622, 1-8	MAT	wedyn mae gen ti rheina i_gyd yn dai	NSNT	NSNT
+184, 12	622, 9-14	MAT	lle mae gwahanol ochrau yr teulu	NSNT	NSNT
+184, 13	622, 15-16	MAT	wedi bod	NSNT	NSNT
+184, 14	624, 1-1	MAT	wsti	NSNT	NSNT
+184, 15	624, 2-4	MAT	mae rheina yn	NSNT	NSNT
+184, 16	624, 5-11	MAT	mae hwnna yn rywbeth pendant i wneud	NSNT	NSNT
+184, 17	625, 1-4	MAT	be sy yn anoddach	NSNT	NSNT
+184, 18	625, 5-10	MAT	ydy mynd ar_ôl y teuluoedd eraill	NSNT	NSNT
+184, 19	625, 11-15	MAT	fuodd yn byw yn *Cae'r_Gors*	ST	NST
+184, 20	627, 1-9	MAT	because dw i yn gwybod am un teulu amlwg	NSNT	SNT
+184, 21	627, 10-13	MAT	fuodd yna am hir	NSNT	NSNT
+184, 22	628, 1-14	MAT	mae yna aelodau o yr teulu o_gwmpas yn *Llanllyfni* a *Llanrug* a lle bynnag	NST	NST
+184, 23	628, 15-18	MAT	wsti yn yn lleol	NSNT	NSNT
+184, 24	630, 1-7	MAT	dim ond *matter* cael gafael arnyn nhw	NST	NST
+184, 25	631, 1-10	MAT	a mae yna aelodau o teulu *Kate* yn byw o_gwmpas	NST	NST
+184, 26	632, 1-5	MAT	ella fedr rywun holi faint	NSNT	NSNT
+184, 27	632, 6-15	MAT	be sy gennyn nhw o ran ochr coeden deulu yn_does	NSNT	NSNT
+184, 28	634, 1-8	MAT	mae yna hen ddigon i wneud i gychwyn	NSNT	NSNT
+184, 29	634, 9-12	MAT	faswn i yn deud	---	NSNT
+
+
+185, 1	636, 1-1	STE	mae	NSNT	NSNT
+185, 2	636, 2-5	STE	mae bach o waith	NSNT	NSNT
+185, 3	636, 6-9	STE	allwch chi wneud hefyd	NSNT	NSNT
+185, 5	636, 33-40	STE	roid nhw naill_ai mewn gwefan neu *cd_rom* neu	NST	NST
+185, 6	638, 1-5	STE	fel bod nhw yna yn	NSNT	NSNT
+185, 7	638, 6-13	STE	timod yn ar_gyfer y y canolfan dehongli felly	NSNT	NSNT
+185, 8	640, 1-5	STE	ia i bobl gael sbïo	NSNT	NSNT
+185, 9	642, 1-4	STE	fasai fo yn *handy*	NST	NST
+185, 10	642, 5-5	STE	petasai	NSNT	NSNT
+185, 11	642, 6-10	STE	gennoch chi fath â database	SNT	SNT
+185, 12	643, 1-9	STE	felly so_and_so mae nhw medru ffeindio fo yn hawdd	---	SNT
+
+
+186, 1	645, 1-2	MAT	ia basai	---	NSNT
+
+
+187, 1	646, 1-13	LOR	achos ti wedi dechrau wneud rywfaint efo efo yr lluniau sydd gyn ti	---	NSNT
+
+
+188, 1	647, 1-2	STE	*oh* pethau	---	NST
+
+
+189, 1	648, 1-4	LOR	copïo sganio nhw a	NSNT	NSNT
+189, 2	650, 1-8	LOR	timod rhoi nhw yn ei categories a ballu	---	SNT
+
+
+190, 1	652, 1-4	STE	mae isio wneud hynny	NSNT	NSNT
+190, 3	654, 1-2	STE	allai fo	NSNT	NSNT
+190, 4	654, 3-5	STE	mae o yn	NSNT	NSNT
+190, 5	654, 6-8	STE	mae o yn	NSNT	NSNT
+190, 6	654, 9-14	STE	mae yn hawdd ffindio nhw wedyn	NSNT	NSNT
+190, 7	654, 15-15	STE	dydy	---	NSNT
+
+
+191, 1	656, 1-10	LOR	ti wedi bod trwy yr y yr *slides* a ballu	NST	NST
+191, 2	656, 11-16	LOR	sy gen ti yn y *bag*	NST	NST
+191, 3	657, 1-4	LOR	pethau ddoth o swyddfa	---	NSNT
+
+
+192, 1	658, 1-7	MAT	dw i wedi edrych ar arnyn nhw	NSNT	NSNT
+192, 2	658, 8-10	MAT	do i weld	NSNT	NSNT
+192, 3	658, 11-15	MAT	be sy yna ohonyn nhw	---	NSNT
+
+
+193, 1	660, 1-7	LOR	achos dw i isio mynd trwy rheiny	NSNT	NSNT
+193, 2	660, 8-8	LOR	does	NSNT	NSNT
+193, 3	661, 1-11	LOR	timod pethau fath â digwyddiadau cyfeillion *Cae'r_Gors* dros yr blynyddoedd hefyd	NST	NST
+193, 4	661, 12-12	LOR	does	---	NSNT
+
+
+194, 1	662, 2-3	MAT	oedd yna	NSNT	NSNT
+194, 2	662, 4-9	MAT	oedd yna sleidiau yr hen rei	NSNT	NSNT
+194, 3	662, 10-13	MAT	sy gynnon ni rŵan	NSNT	NSNT
+194, 4	664, 1-6	MAT	rŵan mae nhw nifer gan Cyngor_Celfyddydau	NSNT	NSNT
+194, 5	666, 1-2	MAT	a sti	NSNT	NSNT
+194, 6	666, 3-12	MAT	mae yna rei yn o yr un yr y lluniau	NSNT	NSNT
+194, 7	666, 13-18	MAT	sydd yn y gyfrol *Bro_a_Bywyd* yna	NST	NST
+194, 8	667, 1-3	MAT	mae rheiny yno	NSNT	NSNT
+194, 9	670, 1-7	MAT	ond dw i wedi tynnu rei allan	NSNT	NSNT
+194, 10	670, 8-17	MAT	sy yn bosib i ni ddefnyddio efo paneli paneli dehongli	---	NSNT
+
+
+195, 1	671, 1-4	LOR	ar_gyfer y paneli dehongli	---	NSNT
+
+
+196, 1	673, 1-14	MAT	a wedyn faswn i yn gofyn i *Rhisiart* *just* sganio rheiny yn sydyn wan	NST	NST
+196, 2	674, 1-5	MAT	fel bod nhw gynnon ni	NSNT	NSNT
+196, 3	676, 1-6	MAT	i weld ar_gyfer y dehongli yn_de	---	NSNT
+
+
+197, 1	678, 1-4	STE	mae o yn *handy*	---	NST
+
+
+198, 1	679, 1-5	MAT	*oh* na mae na rei	NST	NST
+198, 2	680, 1-5	MAT	mae *Alun* *Caerhirfryn* yn un	NST	NST
+198, 3	680, 6-11	MAT	oedd yn cynnig helpu ffordd yna	---	NSNT
+
+
+199, 1	682, 1-9	LOR	*well* o'n i yn meddwl tibod be o yr	NST	NST
+199, 3	682, 32-32	LOR	bysai	---	NSNT
+
+
+200, 1	683, 1-3	MAT	*oh* arbennig yn_bysai	---	NST
+
+
+201, 1	684, 1-10	LOR	achos *um* mae gen yn y yn y stafell ddehongli	NST	NST
+201, 2	684, 11-13	LOR	mae gynnon ni	NSNT	NSNT
+201, 4	686, 1-4	LOR	faint sy yna i_gyd	NSNT	NSNT
+201, 5	687, 1-1	LOR	naw	---	NSNT
+
+
+202, 1	688, 1-1	MAT	naw	---	NSNT
+
+
+203, 1	689, 1-5	LOR	bwrdd dehongli felly fath â	NSNT	NSNT
+203, 2	690, 1-18	LOR	wedyn mae yna le i dau lun a hanner cant o eiriau yr un neu rywbeth felly ia	---	NSNT
+
+
+204, 1	691, 1-1	MAT	*well*	---	NST
+
+
+205, 1	692, 1-10	LOR	wedyn mae gen ti le i fath â quote bach	NSNT	SNT
+205, 2	692, 11-12	LOR	neu timod	NSNT	NSNT
+205, 3	694, 1-5	LOR	a wedyn yn ddwyieithog i_gyd	NSNT	NSNT
+205, 4	695, 1-3	LOR	ac oedd *um*	NST	NST
+205, 5	695, 4-7	LOR	mae rhannu fyny yn	NSNT	NSNT
+205, 6	695, 8-14	LOR	timod tri am *Kate* tri am y	NST	NST
+205, 7	695, 15-18	LOR	fedri di ddeud am	---	NSNT
+
+
+206, 1	696, 1-9	MAT	tri am hanes yr ardal sef chwareli a tyddynod	---	NSNT
+
+
+207, 1	698, 1-6	LOR	wedyn mae gen ti amgylcheddol wedyn	NSNT	NSNT
+207, 2	698, 7-7	LOR	does	---	NSNT
+
+
+208, 1	699, 1-2	MAT	dau amgylcheddol	---	NSNT
+
+
+209, 1	700, 1-5	LOR	timod a rhannu fo felly	NSNT	NSNT
+209, 2	701, 2-7	LOR	ac oedd *um* yn cyfarfod dwytha	NST	NST
+209, 3	701, 8-12	LOR	oedd *Noel* wedi cynnig y	NST	NST
+209, 4	701, 13-25	LOR	dylai ni *um* gael rywun gofyn wrth rywun wneud o yn broffesiynnol felly	NST	NST
+209, 6	704, 1-3	LOR	timod er_mwyn cael	NSNT	NSNT
+209, 7	705, 1-3	LOR	dw i meddwl	NSNT	NSNT
+209, 8	705, 4-8	LOR	be oedd o yn feddwl	NSNT	NSNT
+209, 9	705, 9-18	LOR	oedd o ran cael cysondeb iaith drwyddyn nhw i_gyd hefyd	NSNT	NSNT
+209, 10	706, 1-5	LOR	ond dw i ddim yn	NSNT	NSNT
+209, 11	706, 6-7	LOR	dan ni	NSNT	NSNT
+209, 12	707, 1-8	LOR	*oh* ella bod well i ni wneud o	NST	NST
+209, 13	707, 9-9	LOR	dydan	NSNT	NSNT
+209, 14	708, 1-11	LOR	achos *um* i feddwl mae gennyn ni syniad *right* bendant am	NST	NST
+209, 15	708, 12-16	LOR	be dan ni isio yna	NSNT	NSNT
+209, 16	710, 1-15	LOR	fasai fo yn gymryd gymaint o amser i ni ddeud wrth rywun arall yn union	NSNT	NSNT
+209, 17	710, 16-19	LOR	be dan ni isio	NSNT	NSNT
+209, 18	711, 1-11	LOR	fasai waeth i ni wneud o ein hunain yn lle cynta	NSNT	NSNT
+209, 20	713, 1-4	LOR	timod ond rhwngthon ni	NSNT	NSNT
+209, 21	713, 5-10	LOR	mae gynnon ni ddigon o arbenigedd	---	NSNT
+
+
+210, 1	714, 1-3	STE	ia yn union	---	NSNT
+
+
+211, 1	715, 1-6	LOR	i wneud pethau yn iawn does	---	NSNT
+
+
+212, 1	716, 1-14	MAT	oes a ti yn newydd sôn am *Alun* yr un fath yn sgwennu sgriptiau	NST	NST
+212, 2	716, 15-17	MAT	ydy fywoliaeth o	NSNT	NSNT
+212, 3	718, 1-7	MAT	timod iaith ddigon da gynnon ni yn_dydy	NSNT	NSNT
+212, 4	720, 1-7	MAT	na mi mi ddaw hwnna yn iawn	NSNT	NSNT
+212, 6	723, 1-2	MAT	ia wsti	NSNT	NSNT
+212, 7	723, 3-19	MAT	fasai yna rei ohonach chi yn gallu gwneud o yr ochr sganio pethau ac yn y blaen	NSNT	NSNT
+212, 8	723, 20-20	MAT	bysai	---	NSNT
+
+
+213, 1	724, 1-3	STE	*oh* *yeah* cyfri	NST	NST
+213, 2	725, 1-1	STE	dw	NSNT	NSNT
+213, 3	725, 2-9	STE	wedi bod yn casglu meddalwedd at ei_gilydd hefyd	NSNT	NSNT
+213, 4	726, 1-7	STE	yr *um* be oedd yn poeni fi	NST	NST
+213, 5	726, 8-19	STE	oedd talu gymaint o bres amdan yr software *er* *Office* a ballu	NST	ST
+213, 6	728, 1-11	STE	a wedyn *Wyn* oedd yn sôn amdan *er* darn o feddalwedd	NST	NST
+213, 7	728, 12-18	STE	oedd yn debyg i i i *Word*	NST	NST
+213, 8	729, 1-14	STE	a mae yn medru sgwennu i *Word* a sgwennu *um* darllen *Word* hefyd felly	NST	NST
+213, 9	730, 1-3	STE	*um* *Open_Office_Org* ydy	NST	NST
+213, 10	730, 4-7	STE	ydy enw yr wefan	SNT	NSNT
+213, 11	733, 1-2	STE	*Dot_Org* *sorry*	ST	NST
+213, 12	734, 1-2	STE	a mae	NSNT	NSNT
+213, 13	734, 3-4	STE	mae yn	NSNT	NSNT
+213, 14	734, 5-13	STE	dw i wedi llwytho fo yn cyfrifiadur yn gwaith	NSNT	NSNT
+213, 15	735, 1-4	STE	a mae o yn	NSNT	NSNT
+213, 16	735, 5-6	STE	mae fendigedig	NSNT	NSNT
+213, 17	736, 1-4	STE	mae o yn *just*	NST	NST
+213, 18	736, 5-8	STE	be dach chi isio	NSNT	NSNT
+213, 19	737, 1-9	STE	a does yna ddim cyfuniad ar faint o beiriannau	NSNT	NSNT
+213, 20	737, 10-10	STE	mae	NSNT	NSNT
+213, 21	737, 11-17	STE	dach chi medru rhedeg hwnna a wedyn	NSNT	NSNT
+213, 22	739, 1-5	STE	a mae o am ddim	NSNT	NSNT
+213, 23	740, 1-4	STE	a mae o yn	NSNT	NSNT
+213, 24	740, 5-10	STE	mae o wneud *lot* o bethau	NST	NST
+213, 25	742, 1-6	STE	*so* ella fasai hwnna yn *option*	NST	NST
+213, 26	745, 1-10	STE	i safio bach o arian a hefyd mae o yn	NSNT	NSNT
+213, 27	745, 11-19	STE	dach chi cael mwy o defnydd allan ohono fo	NSNT	NSNT
+213, 29	747, 1-4	STE	mae o am ddim	NSNT	NSNT
+213, 30	747, 5-5	STE	dydy	NSNT	NSNT
+213, 32	750, 1-1	STE	i	NSNT	NSNT
+213, 33	751, 1-12	STE	os gynnoch chi cyfrifiaduron yna i bobl wneud ymchwil neu beth bynnag	---	NSNT
+
+
+214, 1	752, 1-9	LOR	ia dan ni yn cael *um* *Office* trwy Cyngor	---	NST
+
+
+215, 1	753, 1-1	MAT	bydd	---	NSNT
+
+
+216, 1	754, 1-3	STE	*oh* dyna ni	NST	NST
+216, 2	755, 1-8	STE	*well* *well* mae o yna fath â *option*	---	NST
+
+
+217, 1	756, 1-4	LOR	be oedd o can	NSNT	NSNT
+217, 2	756, 5-11	LOR	be ydy o can punt y peiriant	NSNT	NSNT
+217, 3	757, 1-5	LOR	na llai na hynny yndy	---	NSNT
+
+
+218, 1	758, 1-6	MAT	dw i ddim yn *sure* faint	---	NST
+
+
+219, 1	760, 1-9	LOR	neu hanner can hanner can punt dw meddwl *sorry*	NST	NST
+219, 2	761, 1-5	LOR	hanner can punt y peiriant	---	NSNT
+
+
+220, 1	763, 1-1	STE	*well*	---	NST
+
+
+221, 1	764, 1-2	MAT	dw *oh*	NST	NST
+221, 2	764, 3-17	MAT	dw i meddwl na syniad bod ni yn dechrau efo dau gyfrifiadur at ddefnydd ymchwil	NSNT	NSNT
+221, 3	767, 1-4	MAT	heblaw wsti yr un	NSNT	NSNT
+221, 4	767, 5-11	MAT	sy gynnon ni yn y swyddfa ar_wahân	NSNT	NSNT
+221, 5	770, 1-6	MAT	neu be sy gynnon ni rŵan	NSNT	NSNT
+221, 6	770, 7-8	MAT	fydd rheiny	NSNT	NSNT
+221, 7	771, 1-5	MAT	fydd yn symud drosodd yn_bydd	---	NSNT
+
+
+222, 1	774, 1-8	STE	na fydd o yn *handy* cael pethau felly	NST	NST
+222, 2	775, 1-5	STE	do'n i ddim yn *um*	NST	NST
+222, 3	776, 1-9	STE	mae gen i meddalwedd i dylunio a ballu hefyd	NSNT	NSNT
+222, 4	778, 1-6	STE	petasai rywun isio wneud beth felly	NSNT	NSNT
+222, 5	778, 7-23	STE	os oes yna *um* *crew* ysgol mynd i_fyny neu yn cael gweithio ar brosiectau neu beth bynnag	NST	NST
+222, 6	780, 1-10	STE	ond fasai fo wneud i wneud hynna yn y dosbarth	NSNT	NSNT
+222, 7	780, 11-11	STE	bysai	---	NSNT
+
+
+223, 1	781, 1-2	LOR	basai ia	---	NSNT
+
+
+224, 1	782, 1-5	MAT	*oh* ia be fydd gyn	NST	NST
+224, 2	783, 1-4	MAT	ti yn gwneud ymchwil	NSNT	NSNT
+224, 3	784, 1-4	MAT	a fydd di yn	NSNT	NSNT
+224, 4	785, 1-6	MAT	fydd rei unigol fwy na dim	NSNT	NSNT
+224, 5	787, 1-1	MAT	wsti	NSNT	NSNT
+224, 6	787, 2-8	MAT	elli di gael plant uwchradd blynyddoedd cyntaf	NSNT	NSNT
+224, 7	788, 1-7	MAT	mae nhw yn cael gwaith i wneud	NSNT	NSNT
+224, 8	789, 1-5	MAT	dewis eu pwnc eu hunan	NSNT	NSNT
+224, 9	791, 1-9	MAT	dysgu sgiliau ymchwil ymchwil ydy o deud y gwir	NSNT	NSNT
+224, 10	794, 1-1	MAT	wsti	NSNT	NSNT
+224, 11	794, 2-9	MAT	mae blynyddoedd saith ac wyth yn gwneud hynna	NSNT	NSNT
+224, 12	795, 1-10	MAT	a falle sy yn gwneud T_G_A_U a lefel_O *um* lefel_a	NST	NST
+224, 13	796, 1-5	MAT	all fod angen rywbeth gyffredinol	NSNT	NSNT
+224, 14	796, 6-10	MAT	neu bod nhw yn wrthi	NSNT	NSNT
+224, 15	798, 1-9	MAT	rei Cymraeg yn yn *studio* ei gwaith hi yn_de	NST	NST
+224, 16	799, 1-1	MAT	wsti	NSNT	NSNT
+224, 17	799, 2-6	MAT	be faswn i yn obeithio	NSNT	NSNT
+224, 18	799, 8-17	MAT	bod yna gyfle i rei wneud ymchwil coleg yma hefyd	NSNT	NSNT
+224, 19	802, 1-2	MAT	a sti	NSNT	NSNT
+224, 20	802, 3-14	MAT	bod ni yn gallu awgrymu pwnc traethawd ymchwil Cymraeg neu hanes de	NSNT	NSNT
+224, 21	803, 1-1	MAT	wsti	NSNT	NSNT
+224, 22	803, 2-8	MAT	mae yna *lot* o agweddau am *Kate*	NST	NST
+224, 23	803, 9-17	MAT	ei hun a yr teulu ac yn y blaen	NSNT	NSNT
+224, 24	803, 18-21	MAT	gallet ti wneud ymchwil	---	NSNT
+
+
+225, 1	805, 1-13	STE	basai hwnna medru cael ei fwydo fewn wedyn ar yr i yr gwybodaeth	NSNT	NSNT
+225, 2	805, 14-19	STE	dach chi yn dal yn yr	---	NSNT
+
+
+226, 1	806, 1-7	MAT	i be i be sy gynnon ni	SNT	NSNT
+226, 2	807, 1-1	MAT	*well*	---	NST
+
+
+227, 1	808, 2-3	STE	bysai yn	---	NSNT
+
+
+228, 1	809, 1-1	MAT	gobeithio	---	NSNT
+
+
+229, 1	810, 1-4	STE	quid pro quo felly	NSNT	SNT
+229, 2	811, 1-4	STE	mae hynna yn *great*	NST	NST
+229, 3	811, 5-5	STE	dydy	NSNT	NSNT
+229, 5	814, 1-7	STE	mae yn tyfu wedyn fo ei hun	NSNT	NSNT
+229, 6	814, 8-8	STE	dydy	---	NSNT
+
+
+230, 1	817, 1-2	MAT	wsti achos	NSNT	NSNT
+230, 2	817, 3-5	MAT	pan dw i	NSNT	NSNT
+230, 3	817, 6-22	MAT	wedi bod yn gwneud y *stuff* ar hanes y chwareli rŵan a siarad efo Gwydion a *Siôn*	NST	NST
+230, 4	818, 1-4	MAT	*oh* mae yna bethau	NST	NST
+230, 5	818, 5-5	MAT	sti	NSNT	NSNT
+230, 6	818, 6-13	MAT	gallet ti gynnig *um* teuluoedd perchnogion chwareli Dyffryn_Nantlle	NST	NST
+230, 7	820, 1-2	MAT	sti gan	NSNT	NSNT
+230, 8	820, 3-7	MAT	bod yna *lot* ohonyn nhw	NST	NST
+230, 9	821, 1-8	MAT	mae hanes yr teuluoedd y *Penrhyn* a *Dinorwig*	NST	NST
+230, 10	822, 1-10	MAT	iawn mae yna ddigonedd o bobl wedi sgwennu am rheiny	NSNT	NSNT
+230, 11	822, 11-11	MAT	does	NSNT	NSNT
+230, 12	824, 1-14	MAT	ond wyt ti yn sôn am chwech wyth ddeg o wahanol deuluoedd yn Dyffryn_Nantlle	NSNT	NSNT
+230, 13	826, 1-5	MAT	a does yna fawr o	NSNT	NSNT
+230, 15	828, 1-8	MAT	does yna ddim_byd ddim wedi sgwennu amdanyn nhw	---	NSNT
+
+
+231, 1	830, 1-1	STE	pla	---	NSNT
+
+
+232, 1	831, 1-5	LOR	na mae yna ddigon o	NSNT	NSNT
+232, 2	832, 1-2	LOR	mae gymaint	NSNT	NSNT
+232, 3	832, 3-6	LOR	allen ni wneud yna	NSNT	NSNT
+232, 4	832, 7-7	LOR	does	NSNT	NSNT
+232, 5	833, 1-6	LOR	beth mae yn anodd weithiau meddwl	NSNT	NSNT
+232, 6	834, 1-4	LOR	*yeah* ti yn gorfod	NST	NST
+232, 7	835, 1-6	LOR	allwn ni ddim wneud pob_dim chwaith	---	NSNT
+
+
+233, 1	837, 1-12	MAT	na dyna pam dw i yn hapusach ar_ôl y cyfarfod wsnos dwytha	NSNT	NSNT
+233, 3	840, 1-4	MAT	mae yna rei rŵan	NSNT	NSNT
+233, 4	840, 5-10	MAT	fedr yn helpu fi efo efo	NSNT	NSNT
+233, 5	840, 11-18	MAT	be dw i ar ganol ei wneud rŵan	---	NSNT
+
+
+234, 1	842, 1-3	LOR	*yeah* yn union	NST	NST
+234, 2	843, 1-12	LOR	ydy yr *panel* addysg wedi cyfarfod neu wedi cael ei ymgynnull felly	---	NST
+
+
+235, 1	845, 1-6	MAT	*oh* dan ni wedi cyfarfod ers	NST	NST
+235, 2	845, 7-14	MAT	dan ni wedi cyfarfod ers tua dau fis	---	NSNT
+
+
+236, 1	846, 1-3	LOR	i ddechrau trafod	NSNT	NSNT
+236, 2	847, 1-10	LOR	*oh* ia na dw trio meddwl meddwl be oeddach chi	NST	NST
+236, 3	847, 11-15	LOR	wedi bod yn drafod felly	---	NSNT
+
+
+237, 1	848, 1-4	MAT	a mae Ceri wedi	NSNT	NSNT
+237, 2	849, 1-3	MAT	*yeah* mae Ceri	NST	NST
+237, 3	849, 4-8	MAT	wedi bod at rei wedyn	NSNT	NSNT
+237, 4	851, 1-3	MAT	i gael mwy	NSNT	NSNT
+237, 5	852, 1-1	MAT	wsti	NSNT	NSNT
+237, 6	852, 2-3	MAT	mae selio	NSNT	NSNT
+237, 7	852, 4-11	MAT	lechi yn mynd i fod yn *help* mawr	NST	NST
+237, 8	852, 13-13	MAT	sti	---	NSNT
+
+
+238, 1	854, 1-8	LOR	*so* o ran uwchradd o'ch chdi yn deud	NST	NST
+238, 2	855, 1-12	LOR	*er* tydw i ddim yn gwybod gwybod be mae ysgolion yn tibod	NST	NST
+238, 3	855, 13-21	LOR	be sy yna i gynnig iddyn nhw dyddiau yma	NSNT	NSNT
+238, 4	856, 1-7	LOR	achos tibod pan o'n i gwneud lefel_a	NSNT	NSNT
+238, 5	856, 8-14	LOR	wnaethon ni fynd ar daith yn_do o_gwmpas	NSNT	NSNT
+238, 6	857, 1-8	LOR	fuon ni *Rhyd_ddu* a tibod digon o ryw	NST	NST
+238, 7	859, 1-9	LOR	*well* mi o'n i wedi mynd fyny *Rhosgadfan* actually	ST	ST
+238, 8	860, 1-3	LOR	ond na timod	NSNT	NSNT
+238, 9	860, 4-8	LOR	fuon ni o_gwmpas gwahanol lefydd	NSNT	NSNT
+238, 10	860, 9-10	LOR	oedd yn	NSNT	NSNT
+238, 11	861, 1-8	LOR	dibynnu ar pwy oeddan ni yn astudio doedd	NSNT	NSNT
+238, 12	862, 1-9	LOR	ond fel ti yn deud dydy *Tŷ_yr_Ysgol* ddim yn	NST	NST
+238, 13	862, 10-12	LOR	agored erbyn hyn	NSNT	NSNT
+238, 14	862, 13-14	LOR	nag ydy	---	NSNT
+
+
+239, 1	864, 1-4	MAT	*oh* dw i meddwl	NST	NST
+239, 2	864, 5-6	MAT	bod yna	---	NSNT
+
+
+240, 1	865, 1-4	LOR	ta ydy o yn	NSNT	NSNT
+240, 2	865, 5-6	LOR	agored i	NSNT	NSNT
+240, 3	865, 7-10	LOR	os dan drefniant felly	---	NSNT
+
+
+241, 1	866, 1-1	MAT	mae	NSNT	NSNT
+241, 2	866, 2-4	MAT	mae o yn	NSNT	NSNT
+241, 3	866, 5-5	MAT	agored	NSNT	NSNT
+241, 4	869, 1-4	MAT	na achos mae Elen_Rowlands	NSNT	NSNT
+241, 5	869, 5-14	MAT	sy yn bennaeth Cymraeg yn *Dyffryn_Ogwen* *Nantlle* ar y *panel*	NST	NST
+241, 6	871, 1-5	MAT	oedd hi yn y cyfarfod	---	NSNT
+
+
+242, 1	872, 1-9	LOR	*so* dyn nhw yn dal i wneud teithiau felly	NST	NST
+242, 2	873, 1-10	LOR	meddwl *just* *potential* i ehangu fo dipyn bach i gynnwys	NST	NST
+242, 3	876, 1-8	LOR	nid bod fi yn cynnig fi yn hun	---	NSNT
+
+
+243, 1	878, 1-6	MAT	ia fedran ni gynnig ein hunan	NSNT	NSNT
+243, 2	878, 7-7	MAT	fedran	NSNT	NSNT

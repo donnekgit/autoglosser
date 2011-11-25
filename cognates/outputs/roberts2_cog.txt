@@ -1,0 +1,2428 @@
+
+
+2, 1	3, 1-1	IRW	esgob	---	NSNT
+
+
+3, 1	4, 1-6	ION	a wedyn dw i mynd a	NSNT	NSNT
+3, 2	5, 1-3	ION	awr ydy o	---	NSNT
+
+
+4, 1	6, 1-3	IRW	*yeah* bob bob	---	NST
+
+
+5, 1	7, 1-11	ION	bob dydd nos Fercher hanner wedi chwech i hanner wedi saith	NSNT	NSNT
+5, 2	8, 1-15	ION	a wedyn ga i fynd yn syth wedyn yli i cerddorfa i nôl y genod	---	NSNT
+
+
+6, 1	9, 1-2	IRW	cei *sure*	---	NST
+
+
+7, 1	10, 1-5	ION	mae yn gweithio yn iawn	---	NSNT
+
+
+8, 1	11, 1-3	IRW	*oh* da iawn	---	NST
+
+
+9, 1	12, 1-7	ION	a rywbeth tawel iawn baswn i ddeud	NSNT	NSNT
+9, 2	12, 8-9	ION	oedd o	NSNT	NSNT
+9, 3	14, 1-1	ION	wsti	NSNT	NSNT
+9, 4	14, 2-8	ION	oedd yna tua naw yn y stafell	NSNT	NSNT
+9, 5	15, 1-14	ION	a welais i mohonyn nhw achos o'n i ar y nghefn trwy yr nos	NSNT	NSNT
+9, 7	17, 1-8	ION	wedyn doedd o ddim ots ddeud y gwir	NSNT	NSNT
+9, 8	17, 9-9	ION	wsti	NSNT	NSNT
+9, 9	17, 10-15	ION	bod chdi ddim yn gallu gwneud	---	NSNT
+
+
+10, 1	18, 1-5	IRW	*so* hwnna oedd y peth	NST	NST
+10, 2	19, 1-7	IRW	cychwyn mewn ffordd oedd hwnna a wedyn	---	NSNT
+
+
+11, 1	21, 1-5	ION	wedyn wsnos nesa mae *sure*	NST	NST
+11, 2	21, 6-11	ION	fyddwn ni yn dal i wneud	NSNT	NSNT
+11, 3	21, 12-15	ION	be wnaethon ni neithiwr	NSNT	NSNT
+11, 4	23, 1-3	ION	achos wnes i	NSNT	NSNT
+11, 5	23, 4-10	ION	wnes i ddim stopio am awr bob	---	NSNT
+
+
+12, 1	24, 1-2	IRW	ond timod	NSNT	NSNT
+12, 2	24, 3-6	IRW	mae yna *lot* i	NST	NST
+12, 3	25, 1-7	IRW	fydd *mam* yn mynd i ddosbarth *yoga*	NST	NST
+12, 4	26, 1-6	IRW	a tibod mae *mam* yn wyth_deg_pump	NST	NST
+12, 5	28, 1-13	IRW	a fel rhan o yr *yoga* yma hefyd mae nhw yn cael cerdded	NST	NST
+12, 6	29, 1-4	IRW	mae nhw yn cerdded	NSNT	NSNT
+12, 7	30, 1-10	IRW	timod ân nhw i ella i Borthaethwy a *round* *Beaumaris*	NST	NST
+12, 8	32, 1-12	IRW	a mae nhw yn mynd i gerdded am tua dwy dair milltir	---	NSNT
+
+
+13, 1	33, 1-3	ION	dim ond cerdded	---	NSNT
+
+
+14, 1	34, 1-3	IRW	dim ond cerdded	NSNT	NSNT
+14, 2	35, 1-7	IRW	mae nhw yn wneud *session* *yoga* gynta	---	NST
+
+
+15, 1	36, 1-4	ION	*oh* dwn i ddim	---	NST
+
+
+16, 1	37, 1-10	IRW	a wedyn mae yr *crew* ohonyn nhw mynd i gerdded	NST	NST
+16, 2	38, 1-5	IRW	a mae hi yn teimlo	NSNT	NSNT
+16, 3	38, 6-11	IRW	bod hi wedi cael *lot* o	NST	NST
+16, 4	38, 12-15	IRW	fendith allan ohono fo	---	NSNT
+
+
+17, 1	41, 1-4	ION	sut mae gyda llaw	NSNT	NSNT
+17, 2	42, 1-3	ION	ydy yn o_lew	---	NSNT
+
+
+18, 1	43, 1-3	IRW	mae yn ysbyty	NSNT	NSNT
+18, 2	45, 1-4	IRW	*mmm* adre heddiw gobeithio	---	NST
+
+
+19, 1	46, 1-6	ION	*oh* a dy chwaer neu be	---	NST
+
+
+20, 1	47, 2-8	IRW	mae hi yn dod adre heddiw hefyd	NSNT	NSNT
+20, 2	48, 1-6	IRW	mae yr ddwy yn dod adre	---	NSNT
+
+
+21, 1	49, 1-9	ION	*oh* mae yr ddwy yn dod adre efo *ambulance*	---	NST
+
+
+22, 1	52, 1-5	IRW	neu ar *bus* neu rywbeth	---	NST
+
+
+23, 1	53, 1-4	ION	*oh* yr argoel mawr	---	NST
+
+
+24, 1	54, 1-3	IRW	yndy ond *er*	NST	NST
+24, 2	54, 4-7	IRW	na mae hi ffeindio	NSNT	NSNT
+24, 3	54, 8-14	IRW	mae wedi cael bendith allan ohono fo	---	NSNT
+
+
+25, 1	55, 1-1	ION	Duw	NSNT	NSNT
+25, 2	56, 1-11	ION	*well* chwedl y ddynes almaeneg yma de dyma hi yn deud	NST	NST
+25, 4	59, 1-1	ION	ylwch	NSNT	NSNT
+25, 5	60, 1-1	ION	meddai	NSNT	NSNT
+25, 6	61, 1-6	ION	dach chi wedi dod i oed	NSNT	NSNT
+25, 7	61, 7-9	ION	lle mae *um*	NST	NST
+25, 8	61, 10-18	ION	mae dy gorff di yn trio deud wrtha chdi	---	NSNT
+
+
+26, 1	62, 1-3	IRW	i arafu lawr	---	NSNT
+
+
+27, 1	63, 1-8	ION	ylwch dw i yma diolch yn fawr iawn	NSNT	NSNT
+27, 2	65, 1-11	ION	dach chi meddwl am bawb arall ond ond chdi dy hun	NSNT	NSNT
+27, 3	68, 1-4	ION	ac o'n i meddwl	NSNT	NSNT
+27, 4	69, 1-5	ION	Duw ti yn iawn *missus*	NST	NST
+27, 5	70, 1-4	ION	dw i erioed wedi	NSNT	NSNT
+27, 6	71, 1-3	ION	a wsti be	NSNT	NSNT
+27, 7	72, 1-3	ION	am ddau ddiwrnod	NSNT	NSNT
+27, 8	73, 1-5	ION	wnaeth hynna ddigwydd dydd Llun	NSNT	NSNT
+27, 9	74, 1-12	ION	o'n i fyny at nos Fawrth de yn hollol dawel yn meddwl	NSNT	NSNT
+27, 10	74, 13-13	ION	sti	---	NSNT
+
+
+28, 1	78, 1-1	IRW	arglwydd	---	NSNT
+
+
+29, 1	79, 1-7	ION	a wnes i ffonio ffrind i fi	NSNT	NSNT
+29, 2	80, 1-3	ION	gynna i ddwy	---	NSNT
+
+
+30, 1	85, 1-7	IRW	*oh* lle dw i yn dod i_fewn	NST	NST
+30, 3	87, 1-6	IRW	be pa yr un dw i	---	NSNT
+
+
+31, 1	88, 1-3	ION	chdi ydy gynta	NSNT	NSNT
+31, 3	90, 1-9	ION	*um* dyma fi yn ffonio *Gwawr* yn ffrind de	NST	NST
+31, 4	92, 1-6	ION	a dyma hi yn deud *um*	NST	NST
+31, 5	93, 1-6	ION	os wyt ti teimlo fel yna	NSNT	NSNT
+31, 6	94, 1-1	ION	meddai	NSNT	NSNT
+31, 7	95, 1-8	ION	o_fewn wsti pedwar awr ar hugain arall wedyn	NSNT	NSNT
+31, 8	95, 9-17	ION	mae raid bod chdi wedi cael *er* *massage* dda	NST	NST
+31, 9	96, 1-3	ION	wedyn dyna ni	---	NSNT
+
+
+32, 1	97, 1-2	IRW	da iawn	NSNT	NSNT
+32, 2	98, 1-3	IRW	mae o rywbeth	NSNT	NSNT
+32, 3	98, 4-7	IRW	dydy ddechrau i_ffwrdd efo	---	NSNT
+
+
+33, 1	100, 1-8	ION	pymtheg punt oedd o am dri chwarter awr	NSNT	NSNT
+33, 2	101, 1-4	ION	ond nos Lun nesa	NSNT	NSNT
+33, 3	103, 1-10	ION	*oh* *yeah* *yeah* *yeah* hollol ia dyma yr catch de	ST	ST
+33, 4	106, 1-6	ION	I need to see you again	SNT	NSNT
+33, 5	107, 1-3	ION	meddai wrtha fi	---	NSNT
+
+
+34, 1	108, 1-5	IRW	be ddeudaist ti oedd hi	SNT	NSNT
+34, 2	109, 1-1	IRW	German_es	---	NSNT
+
+
+35, 1	111, 1-3	ION	wedyn *um* mae	NST	NST
+35, 2	111, 4-11	ION	dw i yn gorod mynd yna dydd Llun	NSNT	NSNT
+35, 3	112, 1-8	ION	ond *reiki* dw i yn gael dydd Llun	---	NST
+
+
+36, 1	113, 1-3	IRW	*oh* *reiki* healing	ST	NST
+36, 2	115, 1-7	IRW	*oh* dw i wedi clywed am hwnnw	---	NST
+
+
+37, 1	116, 1-6	ION	a dydy ddim yn cyffwrdd ti	NSNT	NSNT
+37, 2	117, 1-9	ION	ti ddim yn tynnu dim un dilledyn na dim_byd	---	NSNT
+
+
+38, 1	118, 1-6	IRW	sut mae yn wneud o felly	---	NSNT
+
+
+39, 1	119, 1-4	ION	*oh* dw i yn	NST	NST
+39, 2	119, 5-9	ION	dw i yn amau hwnna	---	NSNT
+
+
+40, 1	120, 1-10	IRW	a be ydy hwn yn *bart* o yr peth eto	---	NST
+
+
+41, 1	121, 1-4	ION	*oh* mae hi wedi	NST	NST
+41, 2	122, 1-2	ION	mae o	NSNT	NSNT
+41, 3	122, 3-4	ION	mae raid	NSNT	NSNT
+41, 4	122, 5-14	ION	mae raid bod hi wedi meddwl *massage* dydd Llun dwytha	NST	NST
+41, 5	123, 1-6	ION	ond dydd Llun nesa yma wan	NSNT	NSNT
+41, 6	123, 7-11	ION	fydda i yn cael *reiki*	---	NST
+
+
+42, 1	124, 1-7	IRW	gyn yr un ddynes ta rywun gwahanol	---	NSNT
+
+
+43, 1	126, 1-3	ION	yr un ddynes	---	NSNT
+
+
+44, 1	127, 1-2	IRW	*oh* diddorol	---	NST
+
+
+45, 1	128, 1-6	ION	a wedyn dw i ddim am	NSNT	NSNT
+45, 2	128, 7-10	ION	dw i ddim yn	NSNT	NSNT
+45, 3	128, 11-15	ION	dw i ddim yn gwybod	NSNT	NSNT
+45, 4	129, 1-7	ION	dw ddim yn dallt pethau fel yna	NSNT	NSNT
+45, 5	130, 1-7	ION	dw i ddim yn mewn i ryw	NSNT	NSNT
+45, 6	131, 1-5	ION	wsti sut uffar ti yn	---	NSNT
+
+
+46, 1	132, 1-3	IRW	*oh* dw deud	NST	NST
+46, 2	133, 1-9	IRW	dw i wedi clywed am y *reiki* healing yma	NST	ST
+46, 3	134, 1-3	IRW	ond na dydw	NSNT	NSNT
+46, 4	134, 4-7	IRW	dw ddim yn gwybod	NSNT	NSNT
+46, 5	134, 8-14	IRW	be mae nhw wneud yn hwnnw chwaith	NSNT	NSNT
+46, 6	136, 1-5	IRW	arglwydd fyddi di fath â	---	NSNT
+
+
+47, 1	137, 1-6	ION	*oh* rywbeth efo gwres ydy o	NST	NST
+47, 2	137, 7-9	ION	mae yn debyg	NSNT	NSNT
+47, 3	138, 1-2	ION	mae gwres	NSNT	NSNT
+47, 4	138, 3-16	ION	mae yna rywbeth yn dod o dy gorff di neu o ddwylo yr ddynes	NSNT	NSNT
+47, 5	140, 1-5	ION	i nghorff i neu rywbeth	NSNT	NSNT
+47, 6	141, 1-4	ION	a mae yna ryw	NSNT	NSNT
+47, 7	142, 1-1	ION	wsti	NSNT	NSNT
+47, 8	142, 2-5	ION	ond dw i meddwl	NSNT	NSNT
+47, 9	142, 6-8	ION	bod yna ryw	NSNT	NSNT
+47, 10	143, 1-5	ION	dw i ddim isio gwybod	NSNT	NSNT
+47, 11	143, 6-12	ION	os oes yna rywbeth crefyddol yno fo	---	NSNT
+
+
+48, 1	144, 1-3	IRW	nag oes siawns	NSNT	NSNT
+48, 2	144, 4-5	IRW	nag oes	---	NSNT
+
+
+49, 1	146, 1-7	ION	*oh* dw i ddim yn gwybod na	NST	NST
+49, 2	147, 1-11	ION	*well* oedd ddim yn deud dim_byd ar y cerdyn na dim_byd	---	NST
+
+
+50, 1	148, 1-5	IRW	di fath â dynes newydd	---	NSNT
+
+
+51, 1	149, 1-1	ION	byddaf	---	NSNT
+
+
+52, 1	151, 1-4	IRW	fyddi di fath â	NSNT	NSNT
+52, 2	151, 5-12	IRW	fyddi di yn bymtheg oed eto redeg *round*	---	NST
+
+
+53, 1	152, 1-2	ION	duwcs annwyl	---	NSNT
+
+
+54, 1	153, 1-5	IRW	*oh* basai dda gen i	NST	NST
+54, 2	153, 6-11	IRW	petasai gen i rywbeth fel yna	---	NSNT
+
+
+55, 1	154, 1-8	ION	be i fynd i wneud rywbeth fel yna	---	NSNT
+
+
+56, 1	155, 1-5	IRW	*oh* dw i angen rywbeth	---	NST
+
+
+57, 1	156, 1-6	ION	ew yn sicr baswn i deud	NSNT	NSNT
+57, 2	157, 1-6	ION	yn yn hoed ni wan de	---	NSNT
+
+
+58, 1	158, 1-2	IRW	ia ond	---	NSNT
+
+
+59, 1	159, 1-4	ION	wyt ti angen o	---	NSNT
+
+
+60, 1	160, 1-2	IRW	ond does	NSNT	NSNT
+60, 2	160, 3-12	IRW	genno fi ddim yr un trafferth efo yr cefn ballu	NSNT	NSNT
+60, 3	160, 13-15	IRW	oes gyn ti	NSNT	NSNT
+60, 4	160, 16-17	IRW	nag oes	---	NSNT
+
+
+61, 1	161, 1-2	ION	*well* na	NST	NST
+61, 2	162, 1-3	ION	ond oedd yna	NSNT	NSNT
+61, 3	162, 4-5	ION	oedd rhein	NSNT	NSNT
+61, 4	162, 6-7	ION	de fi	NSNT	NSNT
+61, 5	162, 8-11	ION	oedd yr unig un	NSNT	NSNT
+61, 6	162, 12-14	ION	oedd yn methu	NSNT	NSNT
+61, 7	163, 1-13	ION	timod pan ti eistedd ar ben_ôl a draed a goesau yn syth allan	NSNT	NSNT
+61, 8	165, 1-7	ION	a mynd yn_ôl wedyn ar dy ben	NSNT	NSNT
+61, 9	167, 1-5	ION	fi oedd yr unig un	NSNT	NSNT
+61, 10	167, 6-14	ION	oedd methu codi fyny o nghefn ar y mhen_ôl	---	NSNT
+
+
+62, 1	169, 1-8	IRW	*oh* fyddi di wedi gwneud mewn rhyw bythefnos	NST	NST
+62, 2	170, 1-4	IRW	fyddi di neidio i_fyny	---	NSNT
+
+
+63, 1	171, 1-2	ION	*oh* byddaf	NST	NST
+63, 2	171, 3-4	ION	mae *sure*	NST	NST
+63, 3	172, 1-3	ION	ond *er* meddwl	NST	NST
+63, 4	172, 4-5	ION	dw i	NSNT	NSNT
+63, 5	172, 6-6	ION	wsti	NSNT	NSNT
+63, 6	172, 7-9	ION	oedden wyth eraill	NSNT	NSNT
+63, 7	172, 10-12	ION	oedden nhw gallu	NSNT	NSNT
+63, 8	173, 1-1	ION	wedyn	---	NSNT
+
+
+64, 1	174, 1-4	IRW	*oh* *yeah* mae *sure*	NST	NST
+64, 2	174, 5-10	IRW	bod nhw wneud o ers dipyn	NSNT	NSNT
+64, 3	174, 11-11	IRW	dydy	---	NSNT
+
+
+65, 1	175, 1-7	ION	dw meddwl *just* isio mynd i ymlacio	NST	NST
+65, 2	175, 8-9	ION	oedden nhw	---	NSNT
+
+
+66, 1	176, 1-6	IRW	wnes i ddechrau *oh* ymarfer corff	NST	NST
+66, 2	176, 7-8	IRW	mae *sure*	NST	NST
+66, 3	176, 9-14	IRW	oedd o ryw ddosbarth yn *Beaumaris*	NST	NST
+66, 4	178, 1-7	IRW	a mi o'n i mynd *right* gyson	NST	NST
+66, 5	179, 1-8	IRW	o'n i yn mynd bob wythnos iddo fo	NSNT	NSNT
+66, 6	180, 1-4	IRW	ond wedyn be ddigwyddodd	NSNT	NSNT
+66, 7	180, 6-12	IRW	ddoth hi yn hanner tymor neu rywbeth	NSNT	NSNT
+66, 8	181, 1-6	IRW	wedyn oedd y dosbarth yn stopio	---	NSNT
+
+
+67, 1	182, 1-7	ION	*oh* *yeah* dydy hynna da i ddim	---	NST
+
+
+68, 1	183, 1-4	IRW	a ti gwybod be	NSNT	NSNT
+68, 2	184, 1-4	IRW	unwaith mae yn stopio	---	NSNT
+
+
+69, 1	185, 2-6	ION	mae o yr un fath	---	NSNT
+
+
+70, 1	186, 1-5	IRW	a ti cael *break* timod	NST	NST
+70, 2	186, 6-7	IRW	fedri di	NSNT	NSNT
+70, 3	186, 8-18	IRW	dydy yr un incentive ddim yna *well* dim gen i wedyn	NST	ST
+70, 4	189, 1-12	IRW	ond dw i *sure* ar_ôl ryw bedair gwaith o'n i yn teimlo	NST	NST
+70, 5	189, 13-14	IRW	bod yna	NSNT	NSNT
+70, 6	189, 15-16	IRW	wahaniaeth de	NSNT	NSNT
+70, 7	190, 1-14	IRW	o'n i yn gallu fath â codi a gwneud yr *exercises* a ballu de	---	NST
+
+
+71, 1	192, 1-10	ION	*oh* gwneud nhw ychydig bach bob nos mae *sure* de	---	NST
+
+
+72, 1	193, 1-2	IRW	ond *er*	NST	NST
+72, 2	194, 1-3	IRW	*oh* mae yna	---	NST
+
+
+73, 1	195, 1-11	ION	ond saith bunt ar hugain mae hwn wedi gostio i mi	---	NSNT
+
+
+74, 1	196, 1-11	IRW	*yeah* os gei di rywbeth allan ohono fo mae yn iawn	NST	NST
+74, 2	196, 12-12	IRW	dydy	---	NSNT
+
+
+75, 1	197, 1-4	ION	*oh* Duw iawn de	---	NST
+
+
+76, 1	198, 1-2	IRW	a timod	NSNT	NSNT
+76, 2	198, 3-9	IRW	fedra i ddim gwneud pethau fath â	NSNT	NSNT
+76, 3	199, 1-12	IRW	mae *lot* o genod o yr gwaith yn prynu yr *videos* yma	---	NST
+
+
+77, 1	200, 1-3	ION	*oh* yr arglwydd	---	NST
+
+
+78, 1	201, 1-7	IRW	tibod yr yr *exercise* *videos* yma hefo	---	NST
+
+
+79, 1	202, 1-2	ION	*oh* does	NST	NST
+79, 2	202, 3-7	ION	gynna i ddim mynedd efo	---	NSNT
+
+
+80, 1	203, 1-2	IRW	pwy bynnag	NSNT	NSNT
+80, 2	204, 1-4	IRW	mae yr hogan yna	NSNT	NSNT
+80, 3	204, 5-7	IRW	oedd ar *Eastenders*	NST	NST
+80, 4	204, 8-12	IRW	mae hi wedi gwneud un	NSNT	NSNT
+80, 5	204, 13-13	IRW	dydy	---	NSNT
+
+
+81, 1	205, 1-9	ION	*oh* dydy pob diawl o bawb wedi wneud un	---	NST
+
+
+82, 1	207, 1-3	IRW	ond timod *oh*	NST	NST
+82, 2	207, 4-4	IRW	basai	NSNT	NSNT
+82, 3	207, 5-11	IRW	genna fi ddim mynedd gwneud hynna adre	---	NSNT
+
+
+83, 1	211, 1-4	ION	*oh* yr asu fawr	---	NST
+
+
+84, 1	212, 1-7	IRW	dydy o ddim yr un fath nac	---	NSNT
+
+
+85, 1	213, 1-8	ION	na dydy o ddim *quite* yr un fath	NST	NST
+85, 2	215, 1-12	ION	ti bore yma de achos bod fi yn llawn *Pilates* ers neithiwr	NST	NST
+85, 4	217, 1-4	ION	dyma fi yn meddwl	NSNT	NSNT
+85, 5	218, 1-2	ION	Duw mae	NSNT	NSNT
+85, 6	218, 3-12	ION	gynna i ddeg munud wan cyn mynd am y ngwaith	NSNT	NSNT
+85, 7	219, 1-9	ION	a dyma fi yn gorwedd ar lawr yn llofft	NSNT	NSNT
+85, 8	220, 1-23	ION	a wedyn fel o'n i yn trio cofio be o'n i wedi ddysgu neithiwr *oh* dyma un o yr genod i_mewn a deud	NST	NST
+85, 9	221, 1-4	ION	*mam* isio *knickers* glân	NST	NST
+85, 10	222, 1-2	ION	neu rywbeth	NSNT	NSNT
+85, 11	223, 1-3	ION	o'n i meddwl	NSNT	NSNT
+85, 13	225, 1-3	ION	*oh* yr arglwydd	---	NST
+
+
+86, 1	227, 1-3	IRW	ia wedyn mae	NSNT	NSNT
+86, 2	227, 4-7	IRW	roid chdi *right* i_ffwrdd	NST	NST
+86, 3	227, 8-8	IRW	dydy	---	NSNT
+
+
+87, 1	228, 2-6	ION	fedri di ddim wneud hynna	---	NSNT
+
+
+88, 1	229, 1-2	IRW	fedri di	NSNT	NSNT
+88, 2	229, 3-9	IRW	fedri di ddim canolbwyntio ar y peth	NSNT	NSNT
+88, 3	229, 10-11	IRW	na fedri	---	NSNT
+
+
+89, 1	231, 1-3	ION	*oh* duwcs annwyl	---	NST
+
+
+90, 1	232, 1-7	IRW	ond na baswn i wrth y modd	NSNT	NSNT
+90, 2	232, 8-24	IRW	petasai gynno fi mwy o incentive i wneud pethau fel yna a trio colli ychydig o bwysau	NSNT	SNT
+90, 3	235, 1-3	IRW	ond dyna fo	---	NSNT
+
+
+91, 1	236, 1-3	ION	ond dyna fo	NSNT	NSNT
+91, 2	236, 4-8	ION	dan ni wedi cychwyn rywbeth	---	NSNT
+
+
+92, 1	237, 1-1	IRW	*well*	---	NST
+
+
+93, 1	238, 1-6	ION	neu dw i wedi cychwyn rywbeth	---	NSNT
+
+
+94, 1	239, 1-3	IRW	do ti wedi	---	NSNT
+
+
+95, 1	240, 1-8	ION	*er* wnest ti fwynhau yr cyngerdd nos Wener	---	NST
+
+
+96, 1	241, 3-6	IRW	oedd o dda iawn	---	NSNT
+
+
+97, 1	242, 1-8	ION	wnes i fwynhau cyngerdd hefyd raid mi ddeud	---	NSNT
+
+
+98, 1	243, 4-9	IRW	oedd *Gwen* wedi mwynhau yn arw	---	NST
+
+
+99, 1	244, 1-3	ION	*Gwen* *oh* oedd	---	NST
+
+
+100, 1	245, 1-3	IRW	*mmm* oedd hi	NST	NST
+100, 2	245, 5-7	IRW	oedd hi wedi	---	NSNT
+
+
+101, 1	246, 1-2	ION	*oh* da	---	NST
+
+
+102, 1	248, 1-5	IRW	do o'n i gweld yr	NSNT	NSNT
+102, 2	249, 1-8	IRW	o'n i yn licio rhan cynta yn arw	NSNT	NSNT
+102, 3	250, 1-15	IRW	o'n i yn meddwl bod y plant yna yn o'n nhw yn wych deud gwir	---	NSNT
+
+
+103, 1	252, 2-5	ION	oedden nhw yn dda	---	NSNT
+
+
+104, 1	253, 1-2	IRW	oedd y	---	NSNT
+
+
+105, 1	254, 3-12	ION	oedd *er* *Caryl* a *Chiswell* wedi canu deuawd nos Sadwrn	---	NST
+
+
+106, 1	255, 1-7	IRW	*oh* fuaist ti nôl yna nos Sadwrn	---	NST
+
+
+107, 1	256, 1-1	ION	naddo	NSNT	NSNT
+107, 2	256, 2-8	ION	ond oedd y genod yn chwarae *fiddle*	NST	NST
+107, 3	256, 9-9	ION	doedden	---	NSNT
+
+
+108, 1	257, 1-3	IRW	*oh* oedden *sure*	NST	NST
+108, 2	257, 4-4	IRW	oedden	---	NSNT
+
+
+109, 1	258, 1-11	ION	*um* oedden nhw wedi canu deuawd rywbeth o *Ibiza_Ibiza* neu rywbeth	---	NST
+
+
+110, 1	259, 1-8	IRW	*oh* *so* oedd o wahanol nos Sadwrn felly	---	NST
+
+
+111, 1	260, 1-8	ION	na oedd o union yr un peth eto	NSNT	NSNT
+111, 2	260, 9-11	ION	ond bod nhw	NSNT	NSNT
+111, 3	261, 1-5	ION	walle bod nhw wedi meddwl	NSNT	NSNT
+111, 4	261, 6-12	ION	wsti wedi siarad ystod dydd wedi deud	---	NSNT
+
+
+112, 1	262, 1-4	IRW	wedi newid ychydig ia	---	NSNT
+
+
+113, 1	263, 1-6	ION	Duw beth am wneud hwnna heno	NSNT	NSNT
+113, 2	265, 1-6	ION	am *laugh* felly neu rywbeth de	NST	NST
+113, 3	267, 1-7	ION	wedyn *um* ond wnaeth hi ddim gweithio	NST	NST
+113, 4	268, 1-5	ION	wnaethon nhw anghofio eu geiriau	---	NSNT
+
+
+114, 1	269, 1-4	IRW	*oh* dwn i ddim	---	NST
+
+
+115, 1	270, 1-2	ION	do wedyn	NSNT	NSNT
+115, 2	270, 3-7	ION	aeth hi ryw *joke* felly	NST	NST
+115, 3	270, 8-8	ION	sti	NSNT	NSNT
+115, 4	272, 1-9	ION	ond *er* na noson iawn eto yn orlawn eto	NST	NST
+115, 5	272, 10-13	ION	oedd hi nos Sadwrn	---	NSNT
+
+
+116, 1	273, 1-4	IRW	*yeah* because oedd o	NST	ST
+116, 2	273, 5-11	IRW	oedd o nôl yn *Theatr_Gwynedd* nos Sadwrn	NST	NST
+116, 3	275, 1-3	IRW	*oh* nag oedd	---	NST
+
+
+117, 1	276, 1-8	ION	na yn *er* yr ysgol oedd o eto	NST	NST
+117, 2	276, 9-9	ION	yli	---	NSNT
+
+
+118, 1	278, 1-11	IRW	achos mynd yn_ôl i *Gwen* mae hi wedi bwcio ryw dicedi	NST	NST
+118, 2	279, 1-8	IRW	oedd wedi bwcio fath â tua tri ticed	NSNT	NSNT
+118, 3	281, 1-6	IRW	i ryw *film* neu beth bynnag	NST	NST
+118, 4	282, 1-11	IRW	a mae un yn dod i_fyny *oh* *right* fuan wan felly	NST	NST
+118, 5	283, 1-7	IRW	a mae yr lle rŵan ar agor	---	NSNT
+
+
+119, 1	284, 1-10	ION	*oh* falle bod y peth wedi wedi wedi *er* sortio	---	NST
+
+
+120, 1	286, 1-8	IRW	ond oedd hi wedi ffonio y dydd Sadwrn	NSNT	NSNT
+120, 2	287, 1-6	IRW	a o'n i yn dan ddeall	NSNT	NSNT
+120, 3	287, 7-10	IRW	bod y lle yn	NSNT	NSNT
+120, 4	287, 11-13	IRW	agored nos Sadwrn	NSNT	NSNT
+120, 5	288, 1-4	IRW	ond doedd o ddim	NSNT	NSNT
+120, 6	288, 5-6	IRW	mae raid	NSNT	NSNT
+120, 7	288, 7-8	IRW	nag oedd	NSNT	NSNT
+120, 8	288, 9-12	IRW	os oedd y genod	NSNT	NSNT
+120, 9	288, 13-15	IRW	wedi bod yna	---	NSNT
+
+
+121, 1	290, 1-5	ION	na oedd o ddim yn	NSNT	NSNT
+121, 2	290, 6-10	ION	agored nos Sadwrn *well* i	NST	NST
+121, 3	290, 11-14	ION	nag oedd no way	SNT	SNT
+121, 5	293, 1-3	ION	ia yn Duw	---	NSNT
+
+
+122, 1	294, 1-3	IRW	*so* dyna chdi	---	NST
+
+
+123, 1	295, 1-6	ION	ia dw isio mynd i *um*	NST	NST
+123, 2	296, 1-10	ION	dw isio mynd yn_ôl i i i Sir_Fôn heno eto	---	NSNT
+
+
+124, 1	297, 1-6	IRW	be sy gyn ti fan yna	---	NSNT
+
+
+125, 1	298, 1-6	ION	*um* mae yna ryw Frwydr_y_Bandiau heno	---	NST
+
+
+126, 1	299, 1-1	IRW	Duw	---	NSNT
+
+
+127, 1	300, 1-7	ION	ryw bandiau wsti *rock* felly ryw gystadleuaeth	---	NST
+
+
+128, 1	302, 1-2	IRW	yn lle	---	NSNT
+
+
+129, 1	303, 1-3	ION	a nos fory	NSNT	NSNT
+129, 2	305, 1-10	ION	mae yr genod chwarae *fiddle* yn *Amlwch* nos fory hefyd	---	NST
+
+
+130, 1	306, 1-8	IRW	a be lle mae yr peth yma heno	NSNT	NSNT
+130, 2	306, 9-9	IRW	ta	---	NSNT
+
+
+131, 1	307, 1-2	ION	yn *Amlwch*	---	NST
+
+
+132, 1	308, 1-2	IRW	yn *Amlwch*	ST	NST
+132, 2	309, 1-2	IRW	*oh* God	---	NST
+
+
+133, 1	310, 1-6	ION	*yeah* isio mynd nôl a blaen	---	NST
+
+
+134, 1	311, 1-8	IRW	tŷ yn *Amlwch* fasai yn *handy* i chdi	---	NST
+
+
+135, 1	312, 1-4	ION	*yeah* ryw *flat* bach	---	NST
+
+
+136, 1	313, 1-5	IRW	*yeah* ryw penthouse yn *Amlwch*	---	ST
+
+
+137, 1	314, 1-1	ION	*eh*	ST	NST
+137, 2	315, 1-5	ION	ia ti yn iawn hefyd	---	NSNT
+
+
+138, 1	317, 1-1	IRW	Duw	---	NSNT
+
+
+139, 1	318, 1-9	ION	Iesu mae yna angen i rywbeth fel yna yna	NSNT	NSNT
+139, 2	318, 10-10	ION	sti	---	NSNT
+
+
+140, 1	319, 1-10	IRW	*sure* toes yna ddim llawer o ddim_byd yna nag oes	---	NST
+
+
+141, 1	320, 1-2	ION	dydy pawb	NSNT	NSNT
+141, 2	320, 3-3	ION	â	NSNT	NSNT
+141, 3	320, 4-8	ION	ei frestiau at ei foliau	---	NSNT
+
+
+142, 1	321, 1-3	IRW	be yn *Amlwch*	---	NST
+
+
+143, 1	322, 1-2	ION	*oh* ta_waeth	---	NST
+
+
+144, 1	323, 1-10	IRW	licio ffordd ti sbïo arna fi wrth ddeud hynna de	---	NSNT
+
+
+145, 1	325, 1-13	ION	ond *um* na Duw na dw i yn gobeithio yr gorau iddyn nhw	---	NST
+
+
+146, 1	327, 1-8	IRW	ar y stryd fawr neu ar y stryd	---	NSNT
+
+
+147, 1	328, 1-4	ION	ar y stryd fawr	---	NSNT
+
+
+148, 1	329, 1-2	IRW	yn *Amlwch*	NST	NST
+148, 2	331, 1-1	IRW	Iesu	NSNT	NSNT
+148, 3	332, 1-13	IRW	gwybod lle fyddi di amser cinio wan yn prynu *bloomer* newydd bob dydd	---	NST
+
+
+149, 1	333, 1-3	ION	*oh* myn diawl	NST	NST
+149, 2	334, 1-5	ION	o'n i yn deud wrthi	NSNT	NSNT
+149, 3	335, 1-7	ION	ddo i yma i eich cefnogi chi	NSNT	NSNT
+149, 4	337, 1-11	ION	dw isio mynd i *Llandrindod* dydd Mercher nesa tan dydd Iau	NST	NST
+149, 5	338, 1-9	ION	ti mynd ffordd yna *right* aml dy hun dwyt	---	NST
+
+
+150, 1	339, 1-7	IRW	yndw ambell *well* ryw unwaith bob mis	NST	NST
+150, 2	339, 8-11	IRW	mae *sure* i gyfarfod	---	NST
+
+
+151, 1	340, 1-7	ION	*yeah* lle ti yn aros yna ta	---	NST
+
+
+152, 1	341, 1-4	IRW	dw ddim yn aros	NSNT	NSNT
+152, 2	343, 1-4	IRW	dod nôl ac ymlaen	NSNT	NSNT
+152, 3	344, 1-5	IRW	*yeah* ti pa bryd ti	NST	NST
+152, 4	345, 1-10	IRW	ti yn gwneud rywbeth efo yr côr penwythnos nesa de	---	NSNT
+
+
+153, 1	346, 1-6	ION	be dw i yn wneud dŵad	---	NSNT
+
+
+154, 1	347, 1-13	IRW	dedaist ti wrtha fi bod chdi yn mynd i rywle efo yr côr	---	NSNT
+
+
+155, 1	348, 1-8	ION	*oh* na dw ddim yn mynd i nunlle	NST	NST
+155, 2	349, 1-7	ION	dw i wedi deud celwyddau wrtha chdi	NSNT	NSNT
+155, 3	349, 8-9	ION	mae raid	SNT	NSNT
+155, 4	351, 1-1	ION	*eh*	---	NST
+
+
+156, 1	352, 1-5	IRW	ar y nawfed y degfed	---	NSNT
+
+
+157, 1	353, 1-6	ION	na lle dw i yn mynd	---	NSNT
+
+
+158, 1	354, 1-5	IRW	chi ddim yn canu rywle	NSNT	NSNT
+158, 2	356, 1-5	IRW	*oh* celwyddau oedd o felly	---	NST
+
+
+159, 1	357, 1-1	ION	dŵad	NSNT	NSNT
+159, 2	358, 1-5	ION	na dw ddim yn gwybod	NSNT	NSNT
+159, 3	358, 6-10	ION	be dw i yn wneud	NSNT	NSNT
+159, 4	359, 1-4	ION	dim_byd efo côr anyway	SNT	SNT
+159, 5	361, 1-3	ION	nawfed a ddegfed	NSNT	NSNT
+159, 6	362, 1-6	ION	*well* peth *Llandrindod* yna mae raid	---	NST
+
+
+160, 1	363, 1-2	IRW	*oh* falle	NST	NST
+160, 2	364, 1-6	IRW	falle bod fi wedi cymysgu fyny	---	NSNT
+
+
+161, 1	365, 1-9	ION	*well* ia yn y *Metropole* dan ni yn aros	NST	NST
+161, 2	366, 1-3	ION	arglwydd dw ddim	NSNT	NSNT
+161, 3	366, 4-17	ION	wedi bod yn fan yno ers blynyddoedd ers pan o'n ni yn mynd i	---	NSNT
+
+
+162, 1	367, 1-7	IRW	pa bryd ti yn mynd i hwnnw	---	NSNT
+
+
+163, 1	368, 1-4	ION	i sioe ers talwm	---	NSNT
+
+
+164, 1	369, 1-2	IRW	ddeudaist ti	---	NSNT
+
+
+165, 1	370, 1-4	ION	wsnos nesa dydd Mercher	---	NSNT
+
+
+166, 1	371, 1-8	IRW	dydd Mercher ac aros nos Fercher ac yn_ôl	---	NSNT
+
+
+167, 1	372, 1-5	ION	ia ia tan dydd Iau	---	NSNT
+
+
+168, 1	373, 1-2	IRW	*oh* wela	NST	NST
+168, 2	374, 1-12	IRW	*oh* *yeah* mae *sure* rywbeth felly ti wedi ddeud wrtha fi hefyd	---	NST
+
+
+169, 1	375, 1-6	ION	cael gwneud y ngwallt nos Iau	NSNT	NSNT
+169, 2	377, 1-5	ION	dw isio gwneud *er* roots	---	ST
+
+
+170, 1	378, 1-2	IRW	*oh* paid	NST	NST
+170, 2	378, 3-8	IRW	dw i wneud fi dydd Sadwrn	---	NSNT
+
+
+171, 1	379, 1-7	ION	*oh* yr argoel mae golwg arna i	---	NST
+
+
+172, 1	380, 1-4	IRW	a finnau hefyd sbia	---	NSNT
+
+
+173, 1	381, 1-4	ION	*oh* dwyt ti ddim	---	NST
+
+
+174, 1	382, 1-8	IRW	argian yndy ti ddim yn sbïo ddigon manwl	NSNT	NSNT
+174, 2	383, 1-7	IRW	mae gynno fi gymaint o wallt gwyn	NSNT	NSNT
+174, 3	384, 1-8	IRW	mae gynno fi fwy ar_ôl bore yma hefyd	---	NSNT
+
+
+175, 1	385, 1-7	ION	*oh* be ti wedi cael bore caled	---	NST
+
+
+176, 1	386, 1-2	IRW	*oh* *just*	ST	NST
+176, 2	387, 1-5	IRW	timod hefo yr peth yma	NSNT	NSNT
+176, 3	387, 6-22	IRW	dw i yn drefnu a efo gwaith felly *just* bob math o bethau ryw *deadlines* a ryw	NST	NST
+176, 4	389, 1-4	IRW	ryw bethau felly a	NSNT	NSNT
+176, 5	390, 1-5	IRW	*oh* ti ddim isio gwybod	---	NST
+
+
+177, 1	391, 1-4	ION	*oh* yr arglwydd mawr	NST	NST
+177, 2	392, 1-11	ION	ydy yr *bosses* yna yn chwythu lawr dy gefn di hefyd	---	NST
+
+
+178, 1	393, 1-5	IRW	na dydy o ddim hynna	NSNT	NSNT
+178, 2	393, 6-17	IRW	sti *just* ar y funud dim digon o oriau yn y diwrnod	NST	NST
+178, 3	394, 1-8	IRW	ti yn cael ryw byliau fel yna dwyt	NSNT	NSNT
+178, 4	396, 1-7	IRW	a wedyn tibod mae yn arafu lawr	NSNT	NSNT
+178, 5	397, 1-6	IRW	a mae diwrnod *right* braf wedyn	NST	NST
+178, 6	397, 7-9	IRW	dydy ond *er*	---	NST
+
+
+179, 1	399, 1-9	ION	ond timod *foy* mewn i yr swyddfa bore yma	NST	NST
+179, 2	399, 10-12	ION	yn_de yn deud	NSNT	NSNT
+179, 3	399, 13-22	ION	bod o *um* yn dysgu Cymraeg ers tua chwe mlynedd	NST	NST
+179, 4	401, 1-5	ION	ac oedd o yn teimlo	NSNT	NSNT
+179, 5	401, 6-11	ION	bod o ddim yn gallu *um*	NST	NST
+179, 6	401, 12-19	ION	bod o ddim yn dallt neb yn siarad	NSNT	NSNT
+179, 7	401, 20-23	ION	pan mae yn trio	NSNT	NSNT
+179, 8	402, 1-15	ION	ac o'n i meddwl *oh* creadur bod gynno fo ddim hyder neu rywbeth mae raid	NST	NST
+179, 9	403, 1-3	ION	ond timod deud	---	NSNT
+
+
+180, 1	404, 1-6	IRW	*oh* mae hynna yn cymryd amser	NST	NST
+180, 2	404, 7-7	IRW	dydy	---	NSNT
+
+
+181, 1	405, 1-4	ION	ond deud oedd o	NSNT	NSNT
+181, 2	405, 5-5	ION	wsti	NSNT	NSNT
+181, 3	405, 6-7	ION	bod o	NSNT	NSNT
+181, 4	405, 8-16	ION	wedi bod o wedi dysgu Ffrangeg mewn dwy flynedd	NSNT	NSNT
+181, 5	405, 17-23	ION	pan oedd o yn byw yn Ffrainc	NSNT	NSNT
+181, 6	405, 24-26	ION	mae yn debyg	NSNT	NSNT
+181, 7	405, 27-27	ION	wsti	NSNT	NSNT
+181, 8	407, 1-5	ION	ac oedd o yn deud	NSNT	NSNT
+181, 9	408, 1-13	ION	Duw o'n i wedi mynd o'n i yn ordro pethau yn *shop* wsti	NST	NST
+181, 10	410, 1-6	ION	ond oedd o ddim yn teimlo	NSNT	NSNT
+181, 11	410, 7-11	ION	bod o allu gwneud hynna	---	NSNT
+
+
+182, 1	411, 1-2	IRW	*oh* mae	NST	NST
+182, 2	411, 3-8	IRW	acenni yn wahanol mor wahanol hefyd	NSNT	NSNT
+182, 3	411, 9-9	IRW	dydy	NSNT	NSNT
+182, 5	413, 1-5	IRW	ond mae yna rei wrth_gwrs	NSNT	NSNT
+182, 6	413, 6-15	IRW	bod nhw yn gallu pigo fo fyny yn *sudden* iawn	NST	NST
+182, 7	413, 16-17	IRW	dydy a	NSNT	NSNT
+182, 8	414, 1-3	IRW	mae pawb wahanol	---	NSNT
+
+
+182, 9	414, 4-4	IRW	dydy	NSNT	NSNT
+183, 2	415, 19-28	ION	wsti *just* cael paned o de a a ryw drafod	NST	NST
+183, 3	415, 29-30	ION	yn_de trio	NSNT	NSNT
+183, 4	417, 1-5	ION	i stwytho nhw dipyn bach	NSNT	NSNT
+183, 5	418, 1-1	ION	ta_waeth	NSNT	NSNT
+183, 6	420, 1-8	ION	ydy *Rebecca* yn gwneud *er* rywbeth Ffrangeg yna	---	NST
+
+
+184, 1	421, 3-5	IRW	mae yn gwneud	NSNT	NSNT
+184, 2	422, 1-3	IRW	mae licio Ffrangeg	NSNT	NSNT
+184, 3	423, 1-8	IRW	mae yn cael hwyl *right* dda ar hwnnw	---	NST
+
+
+185, 1	425, 1-7	ION	*hey* oedd *um* yn yr ysgol ddoe	NST	NST
+185, 2	426, 1-2	ION	mae nhw	NSNT	NSNT
+185, 3	426, 3-13	ION	wedi bod yn sôn achos bod *Llangefni* yn efo *team* *rugby*	NST	NST
+185, 4	428, 1-2	ION	*oh* oedden	NST	NST
+185, 5	428, 3-8	ION	oedden nhw isio yn yn Porthaethwy	---	NSNT
+
+
+186, 1	429, 1-10	IRW	oedd hi wedi gweld *Non* ddoe ar dy draws di	NST	NST
+186, 2	429, 11-11	IRW	doedd	---	NSNT
+
+
+187, 1	430, 2-9	ION	oedd yna rywbeth athletics neu rywbeth yn *Llangefni*	NST	ST
+187, 2	432, 1-5	ION	a wedyn *oh* oedden nhw	NST	NST
+187, 3	432, 6-12	ION	wedi bod yn dechrau hefru adre acw	NSNT	NSNT
+187, 4	434, 1-2	ION	a deud	NSNT	NSNT
+187, 5	435, 1-5	ION	ew raid ni gael *team*	NST	NST
+187, 6	436, 1-1	ION	wedyn	NSNT	NSNT
+187, 7	437, 1-7	ION	beth bynnag a dyma nhw gwneud rhestr	NSNT	NSNT
+187, 8	438, 1-9	ION	a duwcs mae yr rhestr wedi tyfu digon del	NSNT	NSNT
+187, 9	439, 1-5	ION	a wedyn ddoe oedd y	NSNT	NSNT
+187, 10	439, 6-9	ION	oedd y wers gynta	NSNT	NSNT
+187, 11	440, 1-6	ION	wedyn mae yna ddau *deam* wan	NST	NST
+187, 12	441, 1-5	ION	mae yna ryw rywbeth ymlaen	NSNT	NSNT
+187, 13	441, 6-10	ION	byset ti meddwl mis Mawrth	NSNT	NSNT
+187, 14	443, 1-8	ION	fyddan nhw yn gorod mynd i rywle hwyrach	NSNT	NSNT
+187, 15	444, 1-12	ION	*oh* yr arglwydd sbia ychydig o amser ydy o i ddysgu rheolau	---	NST
+
+
+188, 1	446, 1-6	IRW	*yeah* mond ysgol lle mae *Non*	NST	NST
+188, 2	449, 2-2	IRW	mae	---	NSNT
+
+
+189, 1	450, 1-3	ION	ond mae *sure*	NST	NST
+189, 2	450, 4-7	ION	fydd *Llangefni* wrthi hefyd	NST	NST
+189, 3	451, 1-4	ION	ydy *Rebecca* chwarae *rugby*	NST	NST
+189, 4	451, 5-5	ION	ta	---	NSNT
+
+
+190, 1	452, 1-2	IRW	nac ydy	NSNT	NSNT
+190, 2	454, 1-2	IRW	pêl_droed de	NSNT	NSNT
+190, 3	456, 1-7	IRW	mae licio chwarae pêl_droed ti yn gweld	NSNT	NSNT
+190, 4	458, 2-14	IRW	ond dydy ddim licio gwneud pethau fath â cross_country hyn a llall felly	---	SNT
+
+
+191, 1	459, 1-5	ION	*oh* ia arglwydd pwy sy	---	NST
+
+
+192, 1	461, 3-5	IRW	wedi bod yn	NSNT	NSNT
+192, 2	462, 1-3	IRW	lle oedd hi	NSNT	NSNT
+192, 3	462, 4-8	IRW	wedi bod wsnos dwytha dŵad	NSNT	NSNT
+192, 4	463, 1-6	IRW	*oh* lawr lôn yn fan yma	NST	NST
+192, 5	464, 1-6	IRW	ac *oh* God am strach de	NST	ST
+192, 6	465, 1-5	IRW	oedd isio *note* i ddeud	NST	NST
+192, 7	465, 6-12	IRW	bod hi ddim yn teimlo yn dda	NSNT	NSNT
+192, 8	466, 1-8	IRW	a fath â o'n i yn deud wrthi	NSNT	NSNT
+192, 9	467, 1-9	IRW	*well* fedra i ddim sgwennu nodyn i chdi ddeud	NST	NST
+192, 10	467, 10-11	IRW	bod chdi	---	NSNT
+
+
+193, 1	468, 1-3	ION	*oh* yr argoel	---	NST
+
+
+194, 1	469, 1-6	IRW	*oh* na sgwenna nodyn i ddeud	NST	NST
+194, 2	469, 7-8	IRW	bod fi	NSNT	NSNT
+194, 3	469, 9-14	IRW	wedi bod *off* o yr ysgol	NST	NST
+194, 4	470, 1-3	IRW	meddai wrtha fi	NSNT	NSNT
+194, 5	471, 1-6	IRW	*oh* fedra i ddim gwneud hynna	NST	NST
+194, 6	471, 7-9	IRW	na fedra *Rebecca*	NST	NST
+194, 7	472, 1-3	IRW	medda fi wrthi	NSNT	NSNT
+194, 8	473, 1-8	IRW	achos mae digon hawdd i nhw jecio fyny	NSNT	NSNT
+194, 9	473, 9-9	IRW	dydy	NSNT	NSNT
+194, 10	474, 1-4	IRW	fedra i ddim deud	NSNT	NSNT
+194, 11	474, 5-6	IRW	bod chdi	NSNT	NSNT
+194, 12	474, 7-15	IRW	wedi bod i_ffwrdd am ddau ddiwrnod a chdithau heb	---	NSNT
+
+
+195, 1	475, 1-4	ION	*oh* yr arglwydd na	---	NST
+
+
+196, 1	476, 1-6	IRW	*oh* *well* anyway mi aeth hi	NST	ST
+196, 2	477, 1-13	IRW	fel oedd hi yn mynd trwy drws yn flin fel tincer yn bore	NSNT	NSNT
+196, 3	478, 1-13	IRW	ac deud ar ben *set* bod hi isio brechdan a ballu i ginio	---	NST
+
+
+197, 1	479, 1-4	ION	*oh* dyma hi eto	---	NST
+
+
+198, 1	480, 1-7	IRW	toedd gynno fi ddim_byd yn tŷ de	NSNT	NSNT
+198, 3	482, 22-25	IRW	hi de gan feddwl	NSNT	NSNT
+198, 5	484, 1-8	IRW	*oh* pa fath o *fam* sy gyn hon	ST	NST
+198, 6	486, 1-4	IRW	anyway mi aeth *yeah*	NST	ST
+198, 7	487, 1-9	IRW	a wedyn dyma fi yn deud wrthi cyn mynd	NSNT	NSNT
+198, 8	488, 1-5	IRW	yli *secret* o yr peth	NST	NST
+198, 9	489, 1-2	IRW	meddai fi	NSNT	NSNT
+198, 10	490, 1-16	IRW	os ti ddim isio cael dy ddewis i wneud o eto rhed yn ara deg heddiw	NSNT	NSNT
+198, 11	491, 1-5	IRW	paid â mynd yn gyflym	NSNT	NSNT
+198, 13	494, 1-11	IRW	wedyn pan ddoth hi adre nos fi yn deud wrthi *well*	NST	NST
+198, 14	495, 1-7	IRW	*oh* ddoth hi adre trwy yr drws	NST	NST
+198, 15	495, 8-15	IRW	de a gwên mawr ar ei gwyneb hi	NSNT	NSNT
+198, 16	496, 1-5	IRW	wnes i wrando arna chdi	NSNT	NSNT
+198, 17	497, 1-3	IRW	meddai wrtha fi	NSNT	NSNT
+198, 18	498, 1-4	IRW	arglwydd dyna beth cynta	NSNT	NSNT
+198, 19	499, 1-2	IRW	meddai fi	NSNT	NSNT
+198, 20	501, 1-3	IRW	*um* yn yr	NST	NST
+198, 21	501, 4-18	IRW	dw ddim yn gwybod y *laps* dwytha neu beth bynnag felly o'n i wedi cerdded	NST	NST
+198, 22	502, 1-1	IRW	meddai	NSNT	NSNT
+198, 23	503, 1-7	IRW	*so* ddoth hi rywbeth fath â *ooh*	NST	NST
+198, 24	504, 1-5	IRW	oedd yna bedwar_deg ohonyn nhw	NSNT	NSNT
+198, 25	505, 1-8	IRW	ac oedd hi wedi dod rywbeth fath â	NSNT	NSNT
+198, 26	506, 1-12	IRW	yr eighteenth oedd hi wedi ddod ti gwybod yn y ras *yeah*	NST	ST
+198, 27	508, 1-5	IRW	*so* oedd hynna wedi gweithio	NST	NST
+198, 28	508, 6-6	IRW	doedd	NSNT	NSNT
+198, 29	510, 1-6	IRW	cheith hi mo ei dewis rŵan	NSNT	NSNT
+198, 30	510, 7-11	IRW	na cheith i fynd ymhellach	---	NSNT
+
+
+199, 1	511, 1-2	ION	na cheith	NSNT	NSNT
+199, 2	511, 3-4	ION	mae *sure*	---	NST
+
+
+200, 1	512, 1-3	IRW	os ydy ddim	NSNT	NSNT
+200, 2	512, 4-9	IRW	os dydy ddim licio gwneud hynny	NSNT	NSNT
+200, 3	512, 10-13	IRW	does yna ddim *point*	NST	NST
+200, 4	512, 14-15	IRW	nag oes	NSNT	NSNT
+200, 5	513, 1-4	IRW	ond mae hi yn	NSNT	NSNT
+200, 6	513, 5-5	IRW	mae	NSNT	NSNT
+200, 7	513, 6-7	IRW	mae tibod	NSNT	NSNT
+200, 8	513, 8-13	IRW	mae yn licio gwneud yr athletics	SNT	SNT
+200, 9	514, 1-9	IRW	a mae licio gwneud y *football* a pethau felly	---	NST
+
+
+201, 1	515, 1-2	ION	yndy *sure*	NST	NST
+201, 2	516, 1-1	ION	mae	NSNT	NSNT
+201, 3	516, 2-6	ION	gynni gorff fel yna hefyd	NSNT	NSNT
+201, 4	516, 7-7	ION	does	NSNT	NSNT
+201, 5	517, 1-3	ION	*athletic* iawn dydy	---	NST
+
+
+202, 1	518, 2-3	IRW	mae *sure*	NST	NST
+202, 2	519, 1-15	IRW	ond *er* *oh* na dw yn gwybod to'n i ddim yn licio wneud y cross_country	ST	ST
+202, 3	519, 16-19	IRW	mae raid mi gyfadde	NSNT	NSNT
+202, 4	519, 20-22	IRW	de ond *er*	---	NST
+
+
+203, 1	520, 1-3	ION	*oh* Duw wsti	NST	NST
+203, 2	520, 4-6	ION	be mae *Sharon*	NST	NST
+203, 3	520, 8-14	ION	mae hi ar *team* *hockey* yr ysgol	NST	NST
+203, 5	522, 1-9	ION	a Duw a ŵyr sut gafodd hi ei dewis	NSNT	NSNT
+203, 6	522, 10-10	ION	wsti	NSNT	NSNT
+203, 8	525, 1-4	ION	dwy law chwith de	NSNT	NSNT
+203, 10	527, 1-6	ION	wsti ti gwpan *china* orau guaranteed	ST	ST
+203, 11	527, 7-11	ION	fydd hi wedi wedi thorri	NSNT	NSNT
+203, 13	529, 1-4	ION	ta_waeth a wedyn mae	NSNT	NSNT
+203, 14	529, 5-13	ION	wedi bod wan ers dwy flynedd yn y *goal*	NST	NST
+203, 15	531, 1-9	ION	a mae dod adre bob tymor neu beth bynnag	NSNT	NSNT
+203, 16	532, 1-10	ION	mae yr bally tymor yma newydd fod wan er enghraifft	NSNT	SNT
+203, 17	533, 1-6	ION	*oh* *mam* dw i yn casáu	NST	NST
+203, 18	533, 7-10	ION	bod yn y *goal*	NST	NST
+203, 19	534, 1-1	ION	a	NSNT	NSNT
+203, 20	535, 1-9	ION	pam ti ddim yn deud wrth yr athrawes de	NSNT	NSNT
+203, 21	536, 1-9	ION	dydy byth yn cael chwarae allan ti yn gweld	NSNT	NSNT
+203, 22	537, 1-3	ION	mae yn gorod	NSNT	NSNT
+203, 23	537, 4-7	ION	bod yn y *goal*	NST	NST
+203, 24	539, 1-1	ION	a	NSNT	NSNT
+203, 25	540, 1-6	ION	ti yn cael hyfforddiant neu rywbeth	NSNT	NSNT
+203, 26	541, 1-2	ION	na dim_byd	NSNT	NSNT
+203, 27	542, 1-3	ION	*oh* yr asu	NST	NST
+203, 28	543, 1-2	ION	meddai fi	NSNT	NSNT
+203, 29	544, 1-9	ION	sut mae nhw yn disgwyl ti wella dy *skill*	NST	NST
+203, 30	546, 1-1	ION	dim_byd	NSNT	NSNT
+203, 31	547, 1-8	ION	a wedyn mae gynni hi ofn y bêl	NSNT	NSNT
+203, 33	549, 1-6	ION	argoel mae yn ufflon o *speed*	NST	NST
+203, 34	549, 7-7	ION	sti	NSNT	NSNT
+203, 35	549, 8-10	ION	dydy yn dod	---	NSNT
+
+
+204, 1	550, 2-2	IRW	mae	NSNT	NSNT
+204, 2	551, 2-6	IRW	mae hi ti yn gweld	---	NSNT
+
+
+205, 1	552, 1-5	ION	*oh* dw i methu dallt	NST	NST
+205, 2	552, 6-14	ION	na fysai hi wedi cael ei thynnu o yna	NSNT	NSNT
+205, 3	553, 1-8	ION	mae raid bod yna brinder *goalies* neu rywbeth	NST	NST
+205, 4	554, 1-3	ION	dw methu dallt	---	NSNT
+
+
+206, 1	555, 1-2	IRW	*oh* bechod	---	NST
+
+
+207, 1	556, 1-7	ION	achos mae nhw mynd i wahanol ysgolion	NSNT	NSNT
+207, 2	556, 8-12	ION	a mae nhw yn colli	NSNT	NSNT
+207, 3	556, 13-14	ION	sti o_hyd	NSNT	NSNT
+207, 4	558, 1-3	ION	ond dyna fo	---	NSNT
+
+
+208, 1	559, 1-15	IRW	*och* peth arall o'n wedi feddwl ddeud wrtha chdi mae *Rebecca* wedi gwneud yr yr	NST	NST
+208, 2	560, 1-11	IRW	tibod mae yr plant yma yn wneud eu websites eu hunain	NSNT	SNT
+208, 3	560, 12-12	IRW	dydy	NSNT	NSNT
+208, 4	562, 1-8	IRW	*well* felly mae wedi gwneud yr website yma	NST	ST
+208, 5	563, 1-8	IRW	a ti yn gwybod pa lun mae wedi	NSNT	NSNT
+208, 6	563, 9-11	IRW	roid arno fo	NSNT	NSNT
+208, 7	563, 12-12	IRW	dwyt	---	NSNT
+
+
+209, 1	564, 1-3	ION	nac ydw i	---	NSNT
+
+
+210, 1	565, 1-1	IRW	llun	NSNT	NSNT
+210, 2	566, 1-13	IRW	timod y llun yna ohona fi yn trio mynd ar y *Jet_Ski* yna	---	NST
+
+
+211, 1	567, 1-7	ION	*oh* asu dy dîn yn yr awyr	---	NST
+
+
+212, 1	568, 1-2	IRW	ia hwnnw	---	NSNT
+
+
+213, 1	570, 1-6	ION	ia ond be ydy yr website	---	SNT
+
+
+214, 1	572, 1-4	IRW	fyw i chdi *oh*	NST	NST
+214, 3	574, 1-6	IRW	fedrwn i ddim coelio yr peth	NSNT	NSNT
+214, 4	574, 8-24	IRW	pan wnes i sbïo arno fo a gweld *just* yn llun ohona fi mhen_ôl i_fyny yr awyr	---	NST
+
+
+215, 1	575, 1-3	ION	lle mae hwnna	NSNT	NSNT
+215, 2	576, 1-3	ION	adre ydy hwnna	---	NSNT
+
+
+216, 1	579, 2-2	IRW	mae	NSNT	NSNT
+216, 2	579, 3-3	IRW	mae	NSNT	NSNT
+216, 3	579, 4-4	IRW	yr	NSNT	NSNT
+216, 4	579, 5-9	IRW	mae yr plant yma hwn	NSNT	NSNT
+216, 5	579, 10-13	IRW	ydy yr in *thing*	ST	ST
+216, 6	579, 14-16	IRW	gynnon nhw rŵan	NSNT	NSNT
+216, 7	580, 1-5	IRW	mae nhw wneud eu website	SNT	SNT
+216, 8	581, 1-3	IRW	a wedyn mae	NSNT	NSNT
+216, 9	581, 4-7	IRW	mae ryw guestbook yna	NSNT	SNT
+216, 10	582, 1-3	IRW	wedyn ti yn	---	NSNT
+
+
+217, 1	583, 1-4	ION	*oh* dwn i ddim	---	NST
+
+
+218, 1	584, 1-2	IRW	seinio i_fewn	NSNT	NSNT
+218, 2	585, 1-3	IRW	a ti yn	---	NSNT
+
+
+219, 1	586, 1-10	ION	*oh* dan ni ar ei hôl hi yn tŷ ni	---	NST
+
+
+220, 1	587, 1-6	IRW	roid ryw gomment a pethau felly	NSNT	SNT
+220, 2	588, 1-6	IRW	neu mae nhw mynd ar y	NSNT	NSNT
+220, 3	589, 1-4	IRW	mae yr peth arall	NSNT	NSNT
+220, 4	589, 5-6	IRW	de yr	---	NSNT
+
+
+221, 1	590, 1-10	ION	*oh* medra i fynd i_mewn i hwnna fy hun felly	---	NST
+
+
+222, 1	591, 1-1	IRW	medri	---	NSNT
+
+
+223, 1	592, 1-9	ION	*oh* Duw raid mi gael y cyfeiriad genna chdi	---	NST
+
+
+224, 1	593, 1-10	IRW	os ti isio sbïo ar y mhen_ôl i de eto	NSNT	NSNT
+224, 3	595, 1-7	IRW	a mae nhw i_fewn i yr peth	NSNT	NSNT
+224, 4	595, 8-11	IRW	timod yr *m_s_n* yna	NST	NST
+224, 5	595, 12-20	IRW	lle mae nhw gallu siarad efo naill a llall	---	NSNT
+
+
+225, 1	597, 1-8	ION	*yeah* dw i ddim yn dallt hwnnw chwaith	NST	NST
+225, 2	598, 1-4	ION	ond dydy hwnnw ddim	NSNT	NSNT
+225, 3	598, 5-11	ION	mae hwnnw ddigon diniwed ar un ystyr	---	NSNT
+
+
+226, 1	600, 1-4	IRW	mae hwnna yn diniwed	NSNT	NSNT
+226, 2	601, 1-3	IRW	mae nhw yn	NSNT	NSNT
+226, 3	601, 5-8	IRW	mae yr genod yma	NSNT	NSNT
+226, 4	601, 9-14	IRW	mae nhw yn mynd arno fo	NSNT	NSNT
+226, 5	602, 1-14	IRW	a mae nhw yn gwneud eu gwaith cartre a ballu trwy ei_gilydd arno fo	NSNT	NSNT
+226, 6	602, 15-15	IRW	sti	NSNT	NSNT
+226, 7	603, 1-6	IRW	a wedyn ond mae hwnna saff	NSNT	NSNT
+226, 8	604, 1-7	IRW	os rywbeth mae o yn rywbeth *right*	NST	NST
+226, 9	604, 8-11	IRW	gall deud y gwir	NSNT	NSNT
+226, 10	605, 1-2	IRW	ond *er*	---	NST
+
+
+227, 1	606, 1-3	ION	be gafodd *um*	NST	NST
+227, 2	607, 1-6	ION	gaeth *Rebecca* laptop gynna chdi Dolig	NST	ST
+227, 3	609, 1-3	ION	arglwydd iawn de	NSNT	NSNT
+227, 4	611, 1-5	ION	ydy hwnna yn *handy* wan	---	NST
+
+
+228, 1	612, 2-3	IRW	mae o	NSNT	NSNT
+228, 2	613, 1-4	IRW	mae hi yn defnyddio	NSNT	NSNT
+228, 3	614, 1-4	IRW	mae yn os rywbeth	NSNT	NSNT
+228, 4	614, 5-11	IRW	mae fynd fwy ar hwnna rŵan achos	NSNT	NSNT
+228, 5	614, 12-14	IRW	oedd yr computer	SNT	SNT
+228, 6	615, 1-5	IRW	*oh* na mae yr computer	NST	NST
+228, 7	616, 1-3	IRW	mae dal yna	NSNT	NSNT
+228, 8	617, 1-6	IRW	ond mae yn hen wan tibod	NSNT	NSNT
+228, 9	618, 1-4	IRW	a mae yn *slow*	---	NST
+
+
+229, 1	619, 1-10	ION	ond beth am sut mae hi mynd ar y we	NSNT	NSNT
+229, 2	619, 11-11	ION	ta	NSNT	NSNT
+229, 3	620, 1-7	ION	ydy yn gorod mynd i_fyny grisiau ballu	NSNT	NSNT
+229, 4	621, 1-4	ION	sut mae yn gweithio	NSNT	NSNT
+229, 5	621, 5-5	ION	ta	---	NSNT
+
+
+230, 1	622, 1-2	IRW	na mae	NSNT	NSNT
+230, 2	622, 3-3	IRW	yr	NSNT	NSNT
+230, 3	622, 4-13	IRW	mae o wedi connect_io i_fewn iddo fo i yr laptop	SNT	SNT
+230, 4	623, 1-17	IRW	timod ti cael un o yr *disks* yma o *Tesco* fath â ti yn gael pan ti	NST	NST
+230, 5	623, 18-22	IRW	roid o yn y computer	---	SNT
+
+
+231, 1	624, 1-10	ION	ia ond ti gorod cael weiar a *phone* a ballu	---	NST
+
+
+232, 1	625, 1-7	IRW	*well* yr un *system* efo yr laptop	ST	ST
+232, 2	627, 1-12	IRW	a a mae wedi cael ei gonnect_io i yr *printer* yr computer	ST	ST
+232, 3	628, 1-12	IRW	*so* beth bynnag mae hi isio brintio allan a o yr laptop	ST	ST
+232, 4	628, 13-20	IRW	mae yn dod allan o *printer* y computer	---	ST
+
+
+233, 1	630, 1-5	ION	*oh* dydy ddim yn gallu	NST	NST
+233, 2	630, 6-11	ION	bod yn gegin yn ddefnyddio fo	NSNT	NSNT
+233, 3	632, 1-1	ION	Duw	NSNT	NSNT
+233, 4	635, 1-2	ION	*oh* mae	NST	NST
+233, 5	635, 3-7	ION	gynna i un fel yna	NSNT	NSNT
+233, 6	635, 8-8	ION	sti	---	NSNT
+
+
+234, 1	636, 1-6	IRW	dydy o ddim yn un newydd	NSNT	NSNT
+234, 2	636, 7-7	IRW	sti	NSNT	NSNT
+234, 3	637, 1-4	IRW	dydy o ddim yn	---	NSNT
+
+
+235, 1	638, 1-1	ION	mae	NSNT	NSNT
+235, 2	638, 2-6	ION	gynna i un o ngwaith	NSNT	NSNT
+235, 3	639, 1-4	ION	ond uffern dw i	NSNT	NSNT
+235, 4	639, 5-14	ION	dw i ddim yn gallu iwsio fo adre fan yna	---	NSNT
+
+
+236, 1	640, 1-2	IRW	ydy because	SNT	SNT
+236, 2	640, 3-4	IRW	eith hi	NSNT	NSNT
+236, 3	641, 1-12	IRW	eto wneith hi fynd ar ei *desk* yn ei yn ei stafell	NST	NST
+236, 4	642, 1-9	IRW	neu deuda bod hi ar bwrdd gegin yn gweithio	NSNT	NSNT
+236, 5	642, 10-16	IRW	a bod hi angen printio rywbeth *well*	NST	NST
+236, 6	642, 17-17	IRW	mae	NSNT	NSNT
+236, 7	642, 18-27	IRW	mae yn printio allan ar yr *er* computer i_fyny grisiau	---	ST
+
+
+237, 1	643, 1-1	ION	Duw	---	NSNT
+
+
+238, 1	644, 1-10	IRW	ond *just* bod o wedi cael ei gonnect_io iddo fo	---	ST
+
+
+239, 1	645, 1-4	ION	Duw *handy* hefyd de	---	NST
+
+
+240, 1	646, 1-11	IRW	*well* fath â o'n i yn deud oedd o rhwng hwnnw	NST	NST
+240, 2	646, 12-20	IRW	de a neu gorod prynu computer newydd sbon a	---	SNT
+
+
+241, 1	647, 1-2	ION	*oh* God	---	NST
+
+
+242, 1	648, 1-15	IRW	*so* fath â o'n i deud dydy o ddim yn un newydd sbon na dim_byd	NST	NST
+242, 2	649, 1-7	IRW	ond *er* mae o yn iawn i	NST	NST
+242, 3	649, 8-12	IRW	be mae hi angen o	---	NSNT
+
+
+243, 1	650, 1-1	ION	wsti	NSNT	NSNT
+243, 2	650, 2-6	ION	be dw i wedi colli	NSNT	NSNT
+243, 3	651, 1-7	ION	*well* wnes i ddisgyn *phone* symudol *Non*	NST	NST
+243, 4	652, 1-5	ION	a mi ddisgynnodd ar lawr	NSNT	NSNT
+243, 5	653, 1-7	ION	a dydy ddim yn gweithio wan wrth_gwrs	NSNT	NSNT
+243, 6	654, 1-10	ION	a wedyn dw ryw hanner teimlo yn euog dipyn bach	NSNT	NSNT
+243, 7	654, 11-11	ION	wsti	---	NSNT
+
+
+244, 1	656, 1-2	IRW	*oh* tibod	---	NST
+
+
+245, 1	657, 1-6	ION	wedyn mae hi ar goll hebddi	---	NSNT
+
+
+246, 1	658, 1-6	IRW	mae yna rei yn *Woolworth* am	NST	NST
+246, 2	659, 1-4	IRW	faint ydyn nhw dŵad	SNT	NSNT
+246, 3	660, 1-2	IRW	twenty_nine ninety_nine	---	NSNT
+
+
+247, 1	663, 1-7	ION	arglwydd ydyn nhw yn bethau go_lew felly	---	NSNT
+
+
+248, 1	664, 1-2	IRW	*oh* edrych	---	NST
+
+
+249, 1	665, 1-8	ION	ia mae hi isio *camera* ballu fath ag	NST	NST
+249, 2	665, 9-10	ION	oedd llall	---	NSNT
+
+
+250, 1	666, 1-2	IRW	*oh* dyna	NST	NST
+250, 2	666, 3-5	IRW	ydy yr drwg	NSNT	NSNT
+250, 3	667, 1-14	IRW	ond ti gwybod be mae yna *gameras* ar rhan fwya ohonyn nhw wedi mynd	NST	NST
+250, 4	669, 1-3	IRW	dydy o ddim	NSNT	NSNT
+250, 5	670, 1-7	IRW	mae o yr *norm* arnyn nhw rŵan	NST	NST
+250, 6	670, 8-8	IRW	dydy	NSNT	NSNT
+250, 7	672, 1-8	IRW	*oh* mae nhw gyd hefo yr *phones* yma	NST	NST
+250, 8	672, 9-26	IRW	dydy a yr *oh* fath â ti yn deud y *cameras* ynyn nhw a bob math o bethau	---	NST
+
+
+251, 1	673, 1-2	ION	asu wsti	NSNT	NSNT
+251, 2	673, 3-4	ION	be mae	NSNT	NSNT
+251, 3	673, 5-8	ION	mae wedi mynd yn	NSNT	NSNT
+251, 4	674, 1-8	ION	achos timod o'n i sylwi yr diwrnod o_blaen	NSNT	NSNT
+251, 5	674, 9-15	ION	de *er* dynes wedi torri lawr yn	NST	NST
+251, 6	674, 16-17	ION	ei *char*	NST	NST
+251, 7	674, 18-22	ION	timod a yr flashers ymlaen	NSNT	SNT
+251, 8	676, 1-12	ION	ac a finnau yn mynd wsti agor ffenestr a a deud *er*	NST	NST
+251, 9	677, 1-4	ION	dach chi yn *o_k*	NST	NST
+251, 10	678, 1-3	ION	wsti fel yna	NSNT	NSNT
+251, 11	679, 1-3	ION	a mae yn	SNT	NSNT
+251, 12	680, 1-4	ION	*yeah* I *am* *alright*	ST	NST
+251, 13	681, 1-2	ION	neu rywbeth	SNT	NSNT
+251, 14	682, 1-5	ION	I have got the *phone*	ST	NST
+251, 16	684, 1-4	ION	ac o'n i meddwl	NSNT	NSNT
+251, 17	685, 1-4	ION	*well* ia wrth_gwrs wsti	NST	NST
+251, 18	685, 5-8	ION	does gyn pawb *phone*	NST	NST
+251, 19	685, 9-9	ION	does	---	NSNT
+
+
+252, 1	687, 1-3	IRW	oes ti gweld	---	NSNT
+
+
+253, 1	688, 1-4	ION	i ofyn am *help*	---	NST
+
+
+254, 1	689, 1-10	IRW	ac mewn ffordd mae o yn beth da i gael	NSNT	NSNT
+254, 2	689, 11-13	IRW	os wyt ti	NSNT	NSNT
+254, 3	690, 1-7	IRW	deuda bod ti ben dy hun neu	NSNT	NSNT
+254, 4	690, 8-17	IRW	os wyt ti mewn *car* yn trafaelio ben dy hun	NST	NST
+254, 5	690, 18-21	IRW	mae yn beth *right*	NST	NST
+254, 6	690, 22-25	IRW	gall deud y gwir	NSNT	NSNT
+254, 7	690, 26-26	IRW	dydy	---	NSNT
+
+
+255, 1	692, 1-2	ION	arglwydd yndy	---	NSNT
+
+
+256, 1	693, 1-4	IRW	ond paid â sôn	NSNT	NSNT
+256, 2	693, 5-10	IRW	dw i mynd i ngwely nos	NSNT	NSNT
+256, 3	695, 1-1	IRW	mae	NSNT	NSNT
+256, 4	695, 2-2	IRW	yr	NSNT	NSNT
+256, 5	695, 3-7	IRW	mae yr mobile wrth yn	NSNT	SNT
+256, 6	695, 8-10	IRW	ochr i de	NSNT	NSNT
+256, 7	697, 1-4	IRW	a y *phone* tŷ	---	NST
+
+
+257, 1	700, 1-6	ION	pam ti yn gwneud hynna ta	---	NSNT
+
+
+258, 1	701, 1-5	IRW	*well* dydw i ddim gwybod	NST	NST
+258, 2	701, 6-8	IRW	dw i *just*	---	NST
+
+
+259, 1	702, 1-12	ION	rhag ofn i rywun ffonio neu rag ofn rywbeth ddigwydd i chdi	---	NSNT
+
+
+260, 1	703, 1-6	IRW	ia yr ddau am wn i	NSNT	NSNT
+260, 2	704, 1-4	IRW	dw ddim yn gwybod	NSNT	NSNT
+260, 3	705, 1-4	IRW	dw i *just* *er*	---	NST
+
+
+261, 1	706, 1-1	ION	Duw	NSNT	NSNT
+261, 2	707, 1-10	ION	fi trio ffonio chdi tua pedwar o gloch bore fory	---	NSNT
+
+
+262, 1	709, 1-10	IRW	na timod gyn ti yr peth yma yn dy ben	NSNT	NSNT
+262, 2	710, 1-9	IRW	*well* i mi neu yn y mhen i de	NST	NST
+262, 3	710, 10-26	IRW	os oes yna rywun yn trio torri fewn neu beth bynnag a torri yn *phone* tŷ fi	NST	NST
+262, 4	710, 27-31	IRW	mae gynno fi yr mobile	SNT	SNT
+262, 5	710, 32-32	IRW	does	---	NSNT
+
+
+263, 1	712, 1-2	ION	*oh* tŷ	NST	NST
+263, 2	713, 1-4	ION	ti yn iawn hefyd	NSNT	NSNT
+263, 3	714, 1-9	ION	asu ti wedi ti wedi watsio gormod o *James_Bond*	---	NST
+
+
+264, 1	715, 1-3	IRW	*oh* paid wir	---	NST
+
+
+265, 1	716, 1-2	ION	*oh* da	---	NST
+
+
+266, 1	717, 1-3	IRW	*paranoid* am bethau	---	NST
+
+
+267, 1	718, 1-3	ION	*oh* duwcs annwyl	NST	NST
+267, 2	720, 1-2	ION	ond wsti	NSNT	NSNT
+267, 3	720, 3-10	ION	mae *Dewi* newydd gael *phone* rŵan ers wsnos	NST	NST
+267, 4	722, 1-2	ION	asu mae	NSNT	NSNT
+267, 5	722, 3-8	ION	wedi bod am flynyddoedd heb *phone*	NST	NST
+267, 6	723, 1-11	ION	a be dw i wneud ffeindio yn hun yn wneud rŵan	NSNT	NSNT
+267, 7	724, 1-11	ION	o'n i ddim yn gallu cynt nag o'n cysylltu nag o'n	---	NSNT
+
+
+268, 1	725, 1-3	IRW	nag o't *sure*	---	NST
+
+
+270, 1	727, 1-2	IRW	oeddet *sure*	---	NST
+
+
+271, 1	728, 1-5	ION	be ti wneud rŵan ydy	---	NSNT
+
+
+272, 1	729, 1-2	IRW	ti ffonio	---	NSNT
+
+
+273, 1	730, 1-10	ION	ti yn ffonio a gofyn cwestiynau hollol hurt fath â	NSNT	NSNT
+273, 3	732, 1-10	ION	oes raid mi bigo yr fricsen yna fyny am bedwar	NSNT	NSNT
+273, 4	733, 1-1	ION	wsti	NSNT	NSNT
+273, 5	735, 1-5	ION	a dyna yr unig beth	NSNT	NSNT
+273, 6	735, 6-9	ION	dw i yn gweld	NSNT	NSNT
+273, 7	735, 10-15	ION	mae bywyd yn *um* fath â	NST	NST
+273, 8	735, 16-22	ION	petasai rywun yn methu gwneud penderfyniadau bron	NSNT	NSNT
+273, 9	736, 1-6	ION	ti yn dallt be dw feddwl	---	NSNT
+
+
+274, 1	737, 1-1	IRW	ydw	NSNT	NSNT
+274, 2	737, 2-2	IRW	yndw	NSNT	NSNT
+274, 3	737, 3-3	IRW	yndw	---	NSNT
+
+
+275, 1	738, 1-6	ION	oherwydd ryw bethau fel yna felly	NSNT	NSNT
+275, 2	739, 1-1	ION	wsti	---	NSNT
+
+
+276, 1	740, 1-7	IRW	yndy deud ti yn lle o blaen	NSNT	NSNT
+276, 2	740, 8-22	IRW	os oedd o ddim gen ti toedda chdi ddim yn ddibynnol ar ddim_byd nag o't	---	NSNT
+
+
+277, 1	741, 1-6	ION	*oh* Duw Duw tydy pobl ar	NST	NST
+277, 2	742, 1-11	ION	dw i wedi gweld nhw yn *Tesco* mynd *round* *bloody* *phone*	---	NST
+
+
+278, 1	743, 2-4	IRW	dw yn gwybod	---	NSNT
+
+
+279, 1	744, 1-6	ION	do you want the *black* one	---	NST
+
+
+280, 1	745, 1-6	IRW	ia *oh* *yeah* dyna fo *yeah*	---	NST
+
+
+281, 1	746, 1-1	ION	wsti	---	NSNT
+
+
+282, 1	747, 1-12	IRW	*oh* dw cofio ni yn cael *phone* adre am y tro cynta	NST	NST
+282, 2	748, 1-3	IRW	a timod arglwydd	NSNT	NSNT
+282, 3	748, 4-16	IRW	oedd o yn andros o beth toedd pan o'ch chdi cael *phone* newydd	---	NST
+
+
+283, 1	749, 2-3	ION	mae *sure*	---	NST
+
+
+284, 1	750, 1-7	IRW	yn tŷ am y tro cynta de	---	NSNT
+
+
+285, 1	751, 1-5	ION	dw ddim yn cofio hynny	---	NSNT
+
+
+286, 1	752, 1-8	IRW	a yr hen *Trimphones* yna ti cofio rheiny	---	NST
+
+
+287, 1	753, 1-6	ION	be hen bethau du trwm yna	---	NSNT
+
+
+288, 1	754, 1-10	IRW	naci yr hen bethau bach *um* *right* *phone* *right* fain	---	NST
+
+
+289, 1	755, 1-1	ION	Duw	---	NSNT
+
+
+290, 1	756, 1-9	IRW	ac *oh* pan oedd o yn canu hence *Trimphone*	ST	ST
+290, 2	756, 10-17	IRW	de fath â ryw dderyn yn wneud sŵn	NSNT	NSNT
+290, 3	758, 1-11	IRW	*oh* dw cofio cael un o rheiny am y tro cynta	NST	NST
+290, 4	759, 1-9	IRW	a wrth_gwrs *mam* oedd wedi gweld y *Trimphones* yma	NST	NST
+290, 5	759, 10-12	IRW	de isio un	NSNT	NSNT
+290, 6	760, 1-3	IRW	*so* dyna be	NST	NST
+290, 7	760, 4-4	IRW	dyna	NSNT	NSNT
+290, 8	760, 5-7	IRW	be ddoth adre	NSNT	NSNT
+290, 9	760, 8-10	IRW	oedd y *Trimphone*	NST	NST
+290, 10	761, 1-10	IRW	wedyn oedd *dad* ddim yn gallu glywed o yn canu	NST	NST
+290, 11	761, 11-12	IRW	nag oedd	NSNT	NSNT
+290, 12	762, 1-2	IRW	deud oedd	---	NSNT
+
+
+291, 1	763, 1-5	ION	*oh* rhy dawel ia ia	---	NST
+
+
+292, 1	765, 1-17	IRW	a wedyn gorod mynd trwy strach o newid y *phone* i yr un un iawn wedyn de	NST	NST
+292, 2	766, 1-1	IRW	ond	---	NSNT
+
+
+293, 1	767, 1-4	ION	*oh* brynais i un	NST	NST
+293, 2	767, 5-7	ION	sti ryw Ddolig	NSNT	NSNT
+293, 3	768, 1-15	ION	wsti ryw pethau hen *fashion* fath â codi un ochr i dy glust a ac	---	NST
+
+
+294, 1	769, 1-12	IRW	*oh* o'n i sbïo ar rhei o rheina diwrnod o blaen yn	---	NST
+
+
+295, 1	770, 1-4	ION	wsti fath â *Sherlock_Holmes*	---	NST
+
+
+296, 1	771, 1-7	IRW	ia dyna chdi yn *Port* o'n i	---	NST
+
+
+297, 1	772, 1-7	ION	arglwydd roes i *lot* amdano fo sti	NST	NST
+297, 2	774, 1-14	ION	a wedyn ddois i â fo adre ac oedd o yn gweithio yn iawn	NSNT	NSNT
+297, 3	775, 1-8	ION	a Duw o't ti yn clywed digon del	NSNT	NSNT
+297, 4	776, 1-6	ION	ond wrth_gwrs oedd o ddim yn	NSNT	NSNT
+297, 5	776, 7-7	ION	wsti	NSNT	NSNT
+297, 6	776, 8-14	ION	oedd o ddim yn ymarferol mewn ffordd	NSNT	NSNT
+297, 7	777, 1-6	ION	wedyn es i â fo nôl	NSNT	NSNT
+297, 8	778, 1-4	ION	ges i mhres yn_ôl	---	NSNT
+
+
+298, 1	779, 1-7	IRW	ia mae mwy fath â ryw sioe	NSNT	NSNT
+298, 2	779, 8-9	IRW	mae *sure*	---	NST
+
+
+299, 1	780, 1-3	ION	oedd ryw sioe	NSNT	NSNT
+299, 2	780, 4-6	ION	oedd o rywsut	NSNT	NSNT
+299, 3	781, 1-12	ION	ond Duw o'n i meddwl bod o yn hwyl ar y pryd	---	NSNT
+
+
+300, 1	782, 1-5	IRW	*yeah* rhyfedd i chdi ddeud	NST	NST
+300, 2	783, 1-14	IRW	o'n i sbïo ar rheina dydd Llun pan o'n i yn *Port* yn gweithio	NST	NST
+300, 3	785, 1-6	IRW	yn ryw *shop* yn fan yna	NST	NST
+300, 4	786, 1-4	IRW	ac oeddwn i meddwl	NSNT	NSNT
+300, 5	787, 3-9	IRW	mae nhw yn edrych bethau *right* ddel	NST	NST
+300, 6	788, 1-15	IRW	ond *er* fath â ti yn deud pa mor practical ydyn nhw yn beth arall	NST	ST
+300, 7	790, 1-3	IRW	ond dyna ni	---	NSNT
+
+
+301, 1	792, 1-7	ION	dw ddim yn gweld fi gyda llaw	NSNT	NSNT
+301, 2	792, 8-16	ION	dw i ddim yn gweld fi mynd i Iwerddon	NSNT	NSNT
+301, 3	793, 1-6	ION	asu dw i wedi cael hassle	---	SNT
+
+
+302, 1	794, 1-4	IRW	*oh* dw i gwybod	NST	NST
+302, 2	794, 5-9	IRW	bod chdi wedi cael hassle	---	SNT
+
+
+303, 1	795, 1-4	ION	efo yr *game* yma	NST	NST
+303, 2	796, 1-13	ION	a dw i wirioneddol wedi cysidro mynd i Iwerddon efo chdi a ballu	NSNT	NSNT
+303, 3	797, 1-2	ION	a wsti	NSNT	NSNT
+303, 4	797, 3-10	ION	petasai fo mond yn chdi a fi falle	NSNT	NSNT
+303, 5	797, 11-15	ION	baswn i yn cysidro fo	NSNT	NSNT
+303, 6	798, 1-7	ION	ond dw ddim yn gweld hynny chwaith	NSNT	NSNT
+303, 7	799, 1-8	ION	ond fedran ni ddim mynd â yr plant	NSNT	NSNT
+303, 8	799, 9-15	ION	na fedrwn i awyrgylch yfed fel yna	NSNT	NSNT
+303, 9	799, 16-17	ION	na fedrwn	SNT	NSNT
+303, 10	800, 1-1	ION	*eh*	---	NST
+
+
+304, 1	801, 1-3	IRW	na mae *sure*	NST	NST
+304, 2	802, 3-9	IRW	oedd *Non* wedi sôn wrth *Rebecca* ddoe	NST	NST
+304, 3	802, 10-11	IRW	dw meddwl	NSNT	NSNT
+304, 4	802, 12-15	IRW	oedd hi wedi sôn	NSNT	NSNT
+304, 5	804, 2-5	IRW	oedd hi wedi deud	---	NSNT
+
+
+305, 1	805, 1-4	ION	achos y peth ydy	NSNT	NSNT
+305, 2	805, 5-5	ION	wsti	NSNT	NSNT
+305, 3	805, 6-7	ION	mae *Sharon*	NST	NST
+305, 4	805, 8-14	ION	wedi bod yn hefru ac yn deud	NSNT	NSNT
+305, 5	806, 1-9	ION	*oh* Duw gei di adael ni yn y gwesty	NST	NST
+305, 6	807, 1-10	ION	fyddwn ni yn iawn mewn ryw stafell deulu neu rywbeth	NSNT	NSNT
+305, 7	808, 1-8	ION	ond yr arglwydd mi does yna ddim *guarantee*	NST	NST
+305, 8	808, 9-17	ION	fydda i wedi cael gwesty yn ymyl y *gig*	---	NST
+
+
+306, 1	809, 1-2	IRW	na dyna	NSNT	NSNT
+306, 2	809, 3-5	IRW	ydy yr peth	NSNT	NSNT
+306, 3	809, 8-13	IRW	timod fath â ti yn deud	---	NSNT
+
+
+307, 1	810, 1-1	ION	wsti	NSNT	NSNT
+307, 2	810, 2-5	ION	petaswn i yn gwybod	NSNT	NSNT
+307, 3	810, 6-10	ION	bod fi wedi cael gwesty	NSNT	NSNT
+307, 4	810, 11-16	ION	lle mae yr canu a ballu	NSNT	NSNT
+307, 5	810, 17-19	ION	basai yn iawn	NSNT	NSNT
+307, 6	810, 20-20	ION	basai	---	NSNT
+
+
+308, 1	811, 1-8	IRW	bysai ond toes yna ddim *guarantee* o hynna	NST	NST
+308, 2	811, 9-10	IRW	nag oes	NSNT	NSNT
+308, 3	813, 1-15	IRW	a drost y penwythnos yna obviously mae mynd i fod yn andros o benwythnos prysur	NSNT	SNT
+308, 4	813, 16-16	IRW	dydy	NSNT	NSNT
+308, 5	815, 1-10	IRW	timod i drio cael lle i faint pump ohonon ni	---	NSNT
+
+
+309, 1	816, 1-2	ION	ia basai	NSNT	NSNT
+309, 2	816, 3-8	ION	basai raid ti gael stafell deulu	NSNT	NSNT
+309, 3	816, 9-9	ION	bysai	---	NSNT
+
+
+310, 1	817, 1-1	IRW	dydy	NSNT	NSNT
+310, 2	817, 2-5	IRW	dydy ddim mor hawdd	NSNT	NSNT
+310, 3	818, 1-2	IRW	*oh* bysai	NST	NST
+310, 4	819, 1-5	IRW	dydy ddim mor hawdd nac	---	NSNT
+
+
+311, 1	820, 1-12	ION	ond ar_ôl gweld dy dîn di dw i ddim yn *sure* chwaith	---	NST
+
+
+312, 1	821, 1-1	IRW	ond	NSNT	NSNT
+312, 3	823, 1-3	IRW	ond oedd *Non*	NST	NST
+312, 4	824, 1-8	IRW	*oh* deudodd hi wrtha fi ar y *phone*	NST	NST
+312, 5	825, 1-5	IRW	dw i wedi perswadio *mam*	NST	NST
+312, 6	825, 6-6	IRW	wchi	---	NSNT
+
+
+313, 1	826, 1-3	ION	wannwyl mae nhw	NSNT	NSNT
+313, 2	826, 4-6	ION	wedi bod wrthi	NSNT	NSNT
+313, 3	826, 7-8	ION	de ar_wahân	NSNT	NSNT
+313, 4	826, 9-9	ION	sti	---	NSNT
+
+
+314, 1	827, 1-2	IRW	*oh* bechod	---	NST
+
+
+315, 1	828, 1-6	ION	ti wedi meddwl mwy am Iwerddon	NSNT	NSNT
+315, 2	830, 2-3	ION	meddai fi	NSNT	NSNT
+315, 3	831, 1-3	ION	gada iddi wan	NSNT	NSNT
+315, 4	832, 1-3	ION	gad iddo fo	---	NSNT
+
+
+316, 1	833, 1-2	IRW	*oh* bechod	NST	NST
+316, 2	834, 1-5	IRW	*well* o'n i yn teimlo	NST	NST
+316, 3	835, 1-4	IRW	deudais i wrth *Non*	NST	NST
+316, 4	836, 1-8	IRW	*oh* dw i yn teimlo yn euog wan	NST	NST
+316, 5	837, 1-11	IRW	ond ti yn gwybod *Non* o'n i yn o'n i yn	---	NST
+
+
+317, 1	838, 1-7	ION	*oh* ddim isio ti deimlo yn euog	NST	NST
+317, 2	839, 1-8	ION	oedd uffar o syniad da ar y pryd	---	NSNT
+
+
+318, 1	840, 1-11	IRW	*oh* ia o'n i wedi cael ychydig i yfed hefyd do'n	---	NST
+
+
+319, 1	841, 1-2	ION	*oh* basai	NST	NST
+319, 2	841, 3-6	ION	wedi bod yn *nice*	NST	NST
+319, 3	841, 7-7	ION	basai	---	NSNT
+
+
+320, 1	842, 1-3	IRW	basai yn hwyl	NSNT	NSNT
+320, 2	842, 4-4	IRW	basai	NSNT	NSNT
+320, 3	843, 1-13	IRW	ond *er* ella fedrwn ni fynd ryw ben eto efo nhw i rywle	NST	NST
+320, 4	845, 1-11	IRW	achos mae yr gwyliau ha mynd i fod yn wyliau hir	NSNT	NSNT
+320, 5	845, 12-12	IRW	dydy	---	NSNT
+
+
+321, 1	847, 1-3	ION	ydy o dŵad	---	NSNT
+
+
+322, 1	848, 3-10	IRW	mae nhw ffwrdd am faint chwech saith wsnos	---	NSNT
+
+
+323, 1	849, 1-11	ION	*oh* o'n i meddwl bod o yn llai neu yn fyrrach	NST	NST
+323, 2	849, 12-13	ION	tro yma	---	NSNT
+
+
+324, 1	850, 1-2	IRW	*oh* ella	NST	NST
+324, 2	851, 1-4	IRW	*oh* gobeithio bod o	---	NST
+
+
+325, 1	852, 1-7	ION	*oh* Duw dwn i ddim wir Dduw	NST	NST
+325, 2	853, 1-6	ION	be ti wneud hanner tymor ta	---	NSNT
+
+
+326, 1	854, 1-2	IRW	dim_byd dw	---	NSNT
+
+
+327, 1	856, 1-2	ION	ti ffwrdd	---	NSNT
+
+
+328, 1	857, 1-1	IRW	yndw	NSNT	NSNT
+328, 2	857, 2-2	IRW	yndw	NSNT	NSNT
+328, 3	857, 3-10	IRW	dw i yn meddwl ella mynd i Iwerddon	NSNT	NSNT
+328, 4	859, 1-1	IRW	eto	---	NSNT
+
+
+329, 1	860, 1-4	ION	be at dy ffrind	---	NSNT
+
+
+330, 1	861, 3-3	IRW	honna	NSNT	NSNT
+330, 2	861, 4-5	IRW	sy yn	---	NSNT
+
+
+331, 1	862, 1-2	ION	o *Donegal*	---	NST
+
+
+332, 1	865, 1-3	IRW	*well* mae chwaer_yng_nghyfraith	NST	NST
+332, 2	865, 4-5	IRW	mae hi	NSNT	NSNT
+332, 3	865, 6-12	IRW	wedi bod yn sôn wrtha fi *oh*	NST	NST
+332, 4	866, 1-8	IRW	mae yna *story* tu nôl i hyn wan	NST	NST
+332, 5	867, 1-4	IRW	mi wnaeth ei theulu	NSNT	NSNT
+332, 6	867, 5-11	IRW	wnaeth ei thad hi emigrate_io i *Ganada*	NST	ST
+332, 7	869, 1-7	IRW	*just* ar_ôl yr potato famine yn Iwerddon	---	ST
+
+
+333, 1	870, 1-1	ION	Iesu	---	NSNT
+
+
+334, 1	871, 1-1	IRW	orffen	NSNT	NSNT
+334, 2	873, 1-9	IRW	wedyn wrth_gwrs *um* mae rhan arall o yr teulu	NST	NST
+334, 3	873, 10-21	IRW	timod obviously wedi marw a wedi cael eu claddu mewn ryw ardal	NSNT	SNT
+334, 4	873, 22-25	IRW	sy *right* agos i	NST	NST
+334, 5	873, 26-32	IRW	lle mae yr ffrind yma yn byw	NSNT	NSNT
+334, 6	874, 1-5	IRW	wedyn wrth_gwrs mae yn gwybod	NSNT	NSNT
+334, 7	874, 6-11	IRW	bod yna gysylltiad yn fan yna	NSNT	NSNT
+334, 8	875, 1-11	IRW	wedyn mi wnaeth hi sôn wrtha fi ti yn gweld gofyn	NSNT	NSNT
+334, 9	875, 12-18	IRW	petaswn i meddwl mynd yna ryw bryd	NSNT	NSNT
+334, 10	875, 19-24	IRW	basai hi yn ffansïo dod felly	NSNT	NSNT
+334, 11	876, 1-8	IRW	wedyn wnes i feddwl yr unig adeg really	SNT	SNT
+334, 12	876, 9-13	IRW	sy yn gyfleus i fynd	NSNT	NSNT
+334, 14	878, 1-5	IRW	*so* dw ddim yn gwybod	NST	NST
+334, 15	879, 1-4	IRW	mae hi wedi edrych	NSNT	NSNT
+334, 16	880, 1-1	IRW	mae	NSNT	NSNT
+334, 17	880, 2-10	IRW	mae yn gostus iawn i fynd â *car* trosodd	NST	NST
+334, 18	881, 1-12	IRW	mae mynd i fod yn rhatach i fflio o Lerpwl i *Belfast*	---	NST
+
+
+335, 1	882, 1-4	ION	*oh* mae *oh* *yeah*	NST	NST
+335, 2	882, 5-13	ION	dydy o ddim yn bell wedyn lawr y lôn	NSNT	NSNT
+335, 3	882, 14-14	ION	wsti	NSNT	NSNT
+335, 5	884, 1-7	ION	Iesu dydy o ddim yn bell o_gwbl	---	NSNT
+
+
+336, 1	886, 1-2	IRW	nac ydy	NSNT	NSNT
+336, 2	887, 1-4	IRW	faint ydy o dŵad	SNT	NSNT
+336, 3	888, 1-5	IRW	twenty_nine *pound* dw i *sure*	NST	ST
+336, 4	888, 6-8	IRW	oedd hi ddeud	NSNT	NSNT
+336, 5	890, 1-2	IRW	ydy o	NSNT	NSNT
+336, 6	892, 1-4	IRW	a wedyn heirio *car*	---	NST
+
+
+337, 1	893, 1-1	ION	yno	---	NSNT
+
+
+338, 1	894, 1-8	IRW	yno ella am dridiau neu beth bynnag felly	NSNT	NSNT
+338, 2	895, 1-11	IRW	*so* mae yn gweithio allan *lot* *lot* rhatach ti yn gweld	---	NST
+
+
+339, 1	896, 1-6	ION	arglwydd yndy a llai o *dreck*	---	NST
+
+
+340, 1	897, 1-5	IRW	*well* yndy tibod ti sôn	---	NST
+
+
+341, 1	898, 1-14	ION	asu mae yn bell i fynd o Ddulyn dros y y wlad fel yna	---	NSNT
+
+
+342, 1	899, 1-4	IRW	yndy faint ti sôn	NSNT	NSNT
+342, 2	900, 1-4	IRW	pump awr i ddreifio	---	NSNT
+
+
+343, 1	901, 1-4	ION	arglwydd wyt a lonydd	---	NSNT
+
+
+344, 1	902, 1-6	IRW	ia dydyn nhw ddim yn lonydd	---	NSNT
+
+
+345, 1	903, 1-4	ION	*well* mae yn iawn	NST	NST
+345, 2	903, 5-6	ION	de ond	---	NSNT
+
+
+346, 1	904, 1-5	IRW	troellog a pethau ydyn nhw	---	NSNT
+
+
+347, 1	905, 1-13	ION	*yeah* baswn i ddim yn meindio mynd ar *drain* fel yna ryw dro	NST	NST
+347, 2	905, 14-21	ION	os oes yna rywun efo digon o amser	NSNT	NSNT
+347, 3	907, 1-3	ION	*right* *nice* bysai	---	NST
+
+
+348, 1	908, 1-3	IRW	gynnoch chi blaniau	---	NSNT
+
+
+349, 1	909, 1-3	ION	*oh* dim_byd de	NST	NST
+349, 2	911, 1-2	ION	dim_byd o_gwbl	NSNT	NSNT
+349, 4	913, 1-6	ION	mae *Dewi* efo ryw syniad yn	NST	NST
+349, 5	913, 7-8	ION	ei frain	SNT	SNT
+349, 6	913, 9-19	ION	ond wneith o uffar o ddim_byd amdano fo mwy na finnau	NSNT	NSNT
+349, 7	913, 20-26	ION	bod o isio mynd i_ffwrdd am fis	NSNT	NSNT
+349, 9	916, 1-4	ION	isio *break* o fis	NST	NST
+349, 10	917, 1-17	ION	a wedyn wrth_gwrs basai raid i yr plant ymuno efo ni rywsut yn yn y mis yna	NSNT	NSNT
+349, 11	918, 1-3	ION	dwn i ddim	NSNT	NSNT
+349, 12	918, 4-8	ION	sut basai fo yn gweithio	---	NSNT
+
+
+350, 1	920, 1-4	IRW	mis yn hir sti	NSNT	NSNT
+350, 2	922, 1-8	IRW	*yeah* fath â pa fath o le though	---	ST
+
+
+351, 1	923, 1-5	ION	*oh* dw ddim yn gwybod	NST	NST
+351, 2	924, 1-3	ION	*um* *er* sti	NST	NST
+351, 3	924, 4-15	ION	sti mynd mynd ar *drain* neu rywbeth a dilyn yn trwynau neu	---	NST
+
+
+352, 1	925, 1-5	IRW	ia math yna o beth	---	NSNT
+
+
+353, 1	926, 1-9	ION	*er* wsti cael hanner y mis a mewn ryw	NST	NST
+353, 2	926, 10-22	ION	wsti ryw westy neu beth bynnag yn rywle a hanner arall mewn ryw	NSNT	NSNT
+353, 3	929, 1-4	ION	*er* wsti ryw *er*	NST	NST
+353, 4	929, 5-11	ION	be dw i yn trio ddeud dŵad	NSNT	NSNT
+353, 5	929, 12-16	ION	wsti ryw fwthyn neu rywbeth	NSNT	NSNT
+353, 6	931, 1-14	ION	ond arglwydd dydyn ni ddim yn bobl sy yn eistedd lawr a sbïo ar	NSNT	NSNT
+353, 7	931, 15-19	ION	wsti ryw ryw frochure a	---	SNT
+
+
+354, 1	932, 1-4	IRW	ar frochure a *yeah*	NST	ST
+354, 2	933, 1-2	IRW	na mae	NSNT	NSNT
+354, 3	933, 3-5	IRW	mae *job* yn_dydy	NST	NST
+354, 4	935, 1-2	IRW	*oh* dw	NST	NST
+354, 5	935, 3-12	IRW	dw isio gwneud rywbeth i yr yr ardd gefn yna	NSNT	NSNT
+354, 6	935, 13-16	IRW	os fedra i leni	---	NSNT
+
+
+355, 1	936, 1-6	ION	be basai yn *great* i chdi	NST	NST
+355, 2	936, 7-8	ION	basai llenwi	NSNT	NSNT
+355, 3	938, 1-9	ION	y y *gap* yna sy mynd lawr yn serth	---	NST
+
+
+356, 1	940, 1-2	IRW	*oh* dyna	NST	NST
+356, 2	940, 3-7	IRW	be dw i yn feddwl	NSNT	NSNT
+356, 3	941, 1-5	IRW	fydd rhaid fi wneud rywbeth	---	NSNT
+
+
+357, 1	942, 1-7	ION	ond basai raid ti gael wal wedyn	NSNT	NSNT
+357, 2	942, 8-10	ION	dw i *sure*	NST	NST
+357, 3	942, 11-11	ION	sti	NSNT	NSNT
+357, 4	944, 1-5	ION	rhwng chdi a drws nesa	---	NSNT
+
+
+358, 1	945, 1-1	IRW	bysai	NSNT	NSNT
+358, 2	946, 1-16	IRW	yr unig *broblem* oherwydd bod o yn mynd lawr yn slantio lawr fath â ti deud	NST	NST
+358, 3	946, 17-26	IRW	basai raid fi gael ryw retaining *wall* neu rywbeth yna	NST	ST
+358, 4	946, 27-27	IRW	bysai	---	NSNT
+
+
+359, 1	947, 1-1	ION	bysai	---	NSNT
+
+
+360, 1	948, 1-3	IRW	a wedyn llenwi	---	NSNT
+
+
+361, 1	949, 1-11	ION	neu ti ddod â *level* yr ardd i_lawr de efo *J_C_B*	---	NST
+
+
+362, 1	951, 1-10	IRW	ia *oh* God sut dw i yn trefnu pethau felly	---	ST
+
+
+363, 1	952, 1-10	ION	ond basai raid ti gael ryw *steps* i_lawr iddi wedyn	NST	NST
+363, 2	952, 11-11	ION	bysai	---	NSNT
+
+
+364, 1	953, 1-1	IRW	bysai	NSNT	NSNT
+364, 2	954, 1-6	IRW	*oh* fydd raid fi wneud rywbeth	NST	NST
+364, 3	955, 1-6	IRW	mae mynd ar yn nerfau fi	---	NSNT
+
+
+365, 1	956, 1-14	ION	Duw baset ti yn cael *J_C_B* i fynd i_fewn i lle tad *Dyfrig* bron	NST	NST
+365, 2	957, 1-2	ION	byset dŵad	NSNT	NSNT
+365, 3	958, 1-9	ION	basai fraich o yn mynd dros clawdd fel yna	---	NSNT
+
+
+366, 1	959, 1-5	IRW	na mae yn is i_lawr	NSNT	NSNT
+366, 2	959, 6-6	IRW	sti	---	NSNT
+
+
+367, 1	960, 1-2	ION	na fysai	NSNT	NSNT
+367, 2	960, 3-4	ION	mae *sure*	---	NST
+
+
+368, 1	962, 1-6	IRW	*oh* dw ddim yn gwybod heblaw	NST	NST
+368, 2	962, 7-12	IRW	fydd raid fi feddwl rywbeth *so*	NST	NST
+368, 3	963, 1-8	IRW	mae hwnnw mynd i gymryd amser ac arian	NSNT	NSNT
+368, 4	963, 9-9	IRW	dydy	---	NSNT
+
+
+369, 1	964, 1-2	ION	ydy Duw	---	NSNT
+
+
+370, 1	965, 1-5	IRW	mae rywbeth o_hyd isio wneud	NSNT	NSNT
+370, 2	965, 6-6	IRW	does	---	NSNT
+
+
+371, 1	966, 1-2	ION	*oh* wsti	NST	NST
+371, 2	966, 3-6	ION	be mae *Dewi* acw	NST	NST
+371, 3	966, 8-10	ION	mae wrthi allan	NSNT	NSNT
+371, 4	966, 11-18	ION	de ers *bloody* hell ers tua blwyddyn bron	NST	ST
+371, 5	967, 1-4	ION	*oh* dwn i ddim	NST	NST
+371, 6	967, 5-14	ION	lle mae yr ei ei ffrwyth ei lafur o creadur	NSNT	NSNT
+371, 7	968, 1-6	ION	mi ddoith dros nos rywle hwyrach	NSNT	NSNT
+371, 8	969, 1-8	ION	ond ar hyn o bryd mae *just* yn	NST	NST
+371, 9	969, 9-16	ION	wsti *Rob* *Rob* yn galw efo ryw fagiau	---	NST
+
+
+372, 1	970, 1-3	IRW	*just* ddi_baid de	---	NST
+
+
+373, 1	973, 1-7	ION	lle uffar mae nhw gyd yn mynd	---	NSNT
+
+
+374, 1	975, 1-4	IRW	na mae yn *job*	NST	NST
+374, 2	976, 1-8	IRW	mae either rywbeth ti isio wneud tu fewn	NSNT	SNT
+374, 3	976, 9-12	IRW	neu mae tu allan	NSNT	NSNT
+374, 4	978, 1-4	IRW	ond mae tu allan	NSNT	NSNT
+374, 5	979, 1-5	IRW	*oh* dw ddim yn gwybod	NST	NST
+374, 6	979, 6-9	IRW	mae o *just* yn	NST	NST
+374, 7	980, 1-4	IRW	dydy o ddim yn	NSNT	NSNT
+374, 8	980, 5-11	IRW	dydy o ddim yn anodd na dim_byd	NSNT	NSNT
+374, 9	981, 1-7	IRW	ond *just* i mi dw i yn	NST	NST
+374, 10	981, 8-15	IRW	dw i yn *just* ffeindio fo yn *broblem*	NST	NST
+374, 11	982, 1-1	IRW	ond	---	NSNT
+
+
+375, 1	983, 1-2	ION	ond mae	NSNT	NSNT
+375, 2	983, 3-9	ION	mae o o_flaen dy dŷ di ddel	NSNT	NSNT
+375, 3	983, 10-10	ION	dydy	NSNT	NSNT
+375, 4	984, 1-1	ION	mae	NSNT	NSNT
+375, 5	984, 2-9	ION	gynna chdi dy shrubs wedi tyfu fan yno	NSNT	SNT
+375, 6	984, 10-10	ION	does	---	NSNT
+
+
+376, 1	985, 1-4	IRW	*oh* mae hwnnw yn	NST	NST
+376, 2	986, 2-3	IRW	dydy hwnnw	NSNT	NSNT
+376, 3	986, 4-7	IRW	mae hwnnw yn iawn	NSNT	NSNT
+376, 4	987, 1-5	IRW	fedra i gope_io efo hwnnw	---	SNT
+
+
+377, 1	988, 2-6	ION	mae hwnna yn edrych ar_ôl	NSNT	NSNT
+377, 2	988, 7-8	ION	ei hun	NSNT	NSNT
+377, 3	988, 9-9	ION	dydy	---	NSNT
+
+
+378, 1	990, 1-6	IRW	ond *just* yr *er* cefn yna	NST	NST
+378, 2	991, 1-5	IRW	sbïo ar ochr y tŷ	NSNT	NSNT
+378, 3	992, 1-6	IRW	mae hwnnw isio ei beintio ballu	---	NSNT
+
+
+379, 1	993, 1-2	ION	*oh* dyna	NST	NST
+379, 2	993, 3-10	ION	dan ni wneud ers tua tair wythnos wan	---	NSNT
+
+
+380, 1	995, 1-4	IRW	dach chi wedi gorffen	---	NSNT
+
+
+381, 1	996, 1-1	ION	naddo	---	NSNT
+
+
+382, 1	997, 1-2	IRW	ti wedi	---	NSNT
+
+
+383, 1	998, 1-14	ION	*um* rhaid ti basio acw achos dw i ddim yn *sure* o un lliw	---	NST
+
+
+384, 1	999, 1-3	IRW	y lliw gwyrdd	---	NSNT
+
+
+385, 1	1000, 1-6	ION	dan ni wedi rhoi ryw *banel*	NST	NST
+385, 2	1001, 1-10	ION	oedd yna ryw banelling yn ymyl yr ffenestr yn *front*	NST	ST
+385, 3	1003, 1-10	ION	yn bach yn wahanol i yr gweddill y wal felly	NSNT	NSNT
+385, 4	1005, 1-6	ION	fath â petasai wedi blastro wahanol	NSNT	NSNT
+385, 5	1006, 1-9	ION	a wedyn dan ni wedi peintio hwnnw ryw liw	NSNT	NSNT
+385, 6	1006, 10-14	ION	wsti fath â ryw hufen	NSNT	NSNT
+385, 7	1006, 15-21	ION	dw ddim gwybod ryw *coffee* ish felly	NST	ST
+385, 8	1008, 1-10	ION	i gymharu â yr gwyn sy tu allan wedyn felly	NSNT	NSNT
+385, 9	1009, 1-6	ION	*oh* dw i ddim yn gwybod	NST	NST
+385, 10	1009, 7-12	ION	ydy hwnna wedi gweithio yn iawn	---	NSNT
+
+
+386, 1	1011, 1-5	IRW	*oh* na dw i *sure*	---	NST
+
+
+387, 1	1012, 1-4	ION	dw ddim yn *sure*	---	NST
+
+
+388, 1	1013, 1-5	IRW	beth am y gwyrdd yna	---	NSNT
+
+
+389, 1	1015, 1-9	ION	mae yr gwyrdd wedi cael ei grafu o yna	NSNT	NSNT
+389, 2	1016, 1-14	ION	a mae wedi mynd yn fwy o wyrdd *um* *er* fath â gwyrdd *Portmeirion*	NST	NST
+389, 3	1018, 1-10	ION	ryw liw wsti fath â ryw liw glas *er* golau	NST	NST
+389, 4	1018, 11-13	ION	wsti môr neu	SNT	NSNT
+389, 5	1019, 1-1	ION	*nice*	---	NST
+
+
+390, 1	1020, 1-1	IRW	*nice*	---	NST
+
+
+391, 1	1021, 2-3	ION	mae *nice*	NST	NST
+391, 2	1022, 1-2	ION	Duw yndy	NSNT	NSNT
+391, 3	1023, 1-9	ION	a wedyn dan ni wedi cael landeri newydd gwyn	---	NSNT
+
+
+392, 1	1024, 1-9	IRW	ia ia *so* mae hynny yn tynnu fo allan	NST	NST
+392, 2	1024, 10-10	IRW	dydy	---	NSNT
+
+
+393, 1	1025, 1-16	ION	a Duw mae rheiny yn cuddio hanner y bally paent beth bynnag y paent gwyrdd yma	NSNT	SNT
+393, 2	1027, 1-7	ION	*oh* mae o wedi tacluso ti gwybod	NST	NST
+393, 3	1029, 1-6	ION	a wedyn dan ni wedi walio	NSNT	NSNT
+393, 4	1029, 7-17	ION	wsti yr *bricks* felly yn *nice* o_gwmpas y pridd fel yna	NST	NST
+393, 5	1032, 1-7	ION	a wedyn tarmacio wedyn y diwedd un	---	NSNT
+
+
+394, 1	1033, 1-3	IRW	dyna fo wedyn	---	NSNT
+
+
+395, 1	1034, 1-2	ION	a wedyn	---	NSNT
+
+
+396, 1	1035, 1-4	IRW	byddwch chi symud wedyn	---	NSNT
+
+
+397, 1	1036, 1-2	ION	gwerthu wedyn	NSNT	NSNT
+397, 3	1038, 1-1	ION	byddwn	---	NSNT
+
+
+398, 1	1039, 1-9	IRW	chi wedi para dda yna deud y gwir do	---	NSNT
+
+
+399, 1	1040, 1-2	ION	do gythreulig	NSNT	NSNT
+399, 2	1042, 1-6	ION	do gythreulig o hir i gymharu	---	NSNT
+
+
+400, 1	1043, 1-3	IRW	dw i *sure*	NST	NST
+400, 2	1043, 4-9	IRW	bod ti mynd am *record* bellach	---	NST
+
+
+401, 1	1045, 1-6	ION	ond dan ni *just* yn meddwl	NST	NST
+401, 2	1045, 7-9	ION	dw yn gwybod	NSNT	NSNT
+401, 3	1045, 10-10	ION	bod	NSNT	NSNT
+401, 4	1045, 11-15	ION	does yna neb yn ryw	NSNT	NSNT
+401, 5	1046, 1-4	ION	iawn ydy pawb yna	NSNT	NSNT
+401, 6	1048, 1-3	ION	o ran setlo	NSNT	NSNT
+401, 7	1049, 1-6	ION	ond mae yr tŷ yn *handy*	---	NST
+
+
+402, 1	1050, 1-4	IRW	mae yn dŷ braf	---	NSNT
+
+
+403, 1	1051, 1-5	ION	asu mae yn dŷ braf	NSNT	NSNT
+403, 2	1053, 1-10	ION	a mae yn hwylus ti yn gwybod i bob man	NSNT	NSNT
+403, 3	1055, 1-8	ION	a wedyn ryw feddwl dan ni *oh* tybed	NST	NST
+403, 4	1055, 9-20	ION	ydan ni fod i aros yna rywsut oherwydd ryw bethau fel yna	---	NSNT
+
+
+404, 1	1056, 1-7	IRW	ia na mae o yn dŷ braf	NSNT	NSNT
+404, 2	1057, 1-10	IRW	gyn ti ddigon o le yna fath â ti deud	---	NSNT
+
+
+405, 1	1058, 1-3	ION	ddigon o le	---	NSNT
+
+
+406, 1	1059, 1-6	IRW	digon o le i gael *party*	---	NST
+
+
+407, 1	1061, 2-6	ION	dan ni yn ffodus iawn	---	NSNT
+
+
+408, 1	1063, 1-10	IRW	pa bryd mae yr *party* yma mynd i ddod chwaith	---	NST
+
+
+409, 1	1064, 1-5	ION	*oh* *yeah* dw i wedi	NST	NST
+409, 2	1064, 6-10	ION	dw i wedi gaddo *party*	---	NST
+
+
+410, 1	1065, 1-4	IRW	do ti wedi gaddo	---	NSNT
+
+
+411, 1	1066, 1-19	ION	*oh* *well* raid ni gael o yn y stafell *er* *er* yr stafell haul yma dan ni wedi wneud	---	NST
+
+
+412, 1	1067, 1-2	IRW	ti wedi	NSNT	NSNT
+412, 2	1068, 2-6	IRW	honna yn barod wan hefyd	---	NSNT
+
+
+413, 1	1069, 1-8	ION	*well* mi mae yn cael ei pheintio rŵan	---	NST
+
+
+414, 1	1070, 1-12	IRW	*oh* beth am y pwll nofio yma sy gyn *Dewi* tu allan	NST	NST
+414, 3	1074, 1-10	IRW	fi ddeud wrtho dw i ddim yn licio dŵr dyfn	---	NSNT
+
+
+415, 1	1075, 1-2	ION	dan ni	NSNT	NSNT
+415, 4	1078, 1-9	ION	ia ia na na fydd yna ryw bwll bach	NSNT	NSNT
+415, 5	1078, 10-17	ION	ond wsti i i bysgod *type* o beth	---	NST
+
+
+416, 1	1080, 1-8	IRW	ia oedd o wrthi yn gweithio ar hwnna	NSNT	NSNT
+416, 2	1082, 1-3	IRW	dydd Sadwrn doedd	---	NSNT
+
+
+417, 1	1083, 1-2	ION	*oh* mae	NST	NST
+417, 2	1083, 3-7	ION	mae hwnnw wedi altro wan	NSNT	NSNT
+417, 3	1084, 1-7	ION	dydy o ddim yn bwll eto felly	NSNT	NSNT
+417, 4	1084, 8-8	ION	sti	NSNT	NSNT
+417, 5	1084, 9-19	ION	*just* bod o yn wagle i yn barod i ddŵr felly	---	NST
+
+
+418, 1	1085, 1-4	IRW	dydy o ddim yn	NSNT	NSNT
+418, 2	1085, 5-12	IRW	ydy o yn bwriadu roi pysgod yno fo	---	NSNT
+
+
+419, 1	1086, 1-2	ION	yndy tad	NSNT	NSNT
+419, 2	1090, 1-6	ION	yndy a ryw *lillies* a ballu	---	NST
+
+
+420, 1	1091, 1-10	IRW	argian annwyl fydd gyn ti anferth o bysgod yn hwnna	NSNT	NSNT
+420, 2	1091, 11-11	IRW	bydd	SNT	NSNT
+420, 3	1092, 1-4	IRW	because mae nhw deud	NSNT	SNT
+420, 4	1092, 5-5	IRW	mae	NSNT	NSNT
+420, 5	1092, 6-11	IRW	mae pysgodyn yn tyfu i i	---	NSNT
+
+
+421, 1	1093, 1-7	ION	i faint i yr i le felly	NSNT	NSNT
+421, 2	1097, 1-1	ION	arglwydd	---	NSNT
+
+
+422, 1	1098, 1-12	IRW	*so* os roi di bysgodyn bach de mewn andros o *dank* mawr	NST	NST
+422, 2	1098, 13-21	IRW	mae o yn tyfu i i *size* i tibod	NST	NST
+422, 3	1099, 1-5	IRW	dw i ddim yn deud	NSNT	NSNT
+422, 4	1099, 6-14	IRW	bod o tyfu yr un *size* â yr *tank*	NST	NST
+422, 5	1099, 15-17	IRW	de ond *er*	---	NST
+
+
+423, 1	1101, 1-5	ION	arglwydd ti yn *sure* wan	---	NST
+
+
+424, 1	1102, 1-1	IRW	yndw	NSNT	NSNT
+424, 2	1102, 2-2	IRW	ydw	NSNT	NSNT
+424, 3	1102, 3-6	IRW	dw i *right* *sure*	---	NST
+
+
+425, 1	1103, 1-3	ION	Duw fedra i	NSNT	NSNT
+425, 2	1103, 4-9	ION	roid ryw arwydd pick your own	SNT	SNT
+425, 3	1103, 10-11	ION	myn uffar	---	NSNT
+
+
+426, 1	1106, 1-3	IRW	felly dyna chdi	---	NSNT
+
+
+427, 1	1107, 1-5	ION	ti gyfarfodydd eto pnawn yma	---	NSNT
+
+
+428, 1	1108, 3-7	IRW	mae gynno fi trwy pnawn	NSNT	NSNT
+428, 2	1109, 1-6	IRW	esgob *nuisance* deud y gwir de	NST	NST
+428, 3	1110, 1-4	IRW	mae yn cymryd amser	NSNT	NSNT
+428, 4	1111, 1-4	IRW	a mae nhw yn	NSNT	NSNT
+428, 5	1112, 1-10	IRW	tibod pan mae gyn ti bethau ti medru wneud felly	NSNT	NSNT
+428, 6	1114, 1-3	IRW	ond dim dewis	---	NSNT
+
+
+429, 1	1115, 1-13	ION	ti yn ffeindio gweithio llawn amser yn yn yn wsti yn *broblem* hefyd	---	NST
+
+
+430, 1	1116, 1-7	IRW	ar adegau yndw i ddeud y gwir	NSNT	NSNT
+430, 2	1117, 1-8	IRW	*um* ond mae gynno fi *broblem* arall wan	NST	NST
+430, 3	1118, 1-2	IRW	achos mae	NSNT	NSNT
+430, 4	1119, 1-4	IRW	*er* timod yr hogan	NST	NST
+430, 5	1119, 5-11	IRW	sy edrych ar_ôl *Rebecca* ar_ôl yr ysgol	NST	NST
+430, 6	1121, 1-8	IRW	mae hi mynd i_fewn wsnos nesa am *op*	NST	NST
+430, 7	1122, 1-14	IRW	a wedyn mae ddebygol o fod i_ffwrdd o ei gwaith am tua dau fis	NSNT	NSNT
+430, 8	1123, 1-3	IRW	ond dyna fo	NSNT	NSNT
+430, 9	1124, 1-7	IRW	pan deith hi adre o yr ysgol	NSNT	NSNT
+430, 10	1125, 1-5	IRW	dydy o ddim mor ddrwg	NSNT	NSNT
+430, 11	1126, 1-10	IRW	achos fedr hi fynd efo *Lynne* drws nesa am gyfnod	---	NST
+
+
+431, 1	1127, 1-6	ION	be ti ddim yn keen ydy	NSNT	SNT
+431, 2	1127, 7-10	ION	bod hi yn tŷ	NSNT	NSNT
+431, 3	1127, 11-17	ION	ei hun am y cyfnod yna *yeah*	NST	NST
+431, 4	1129, 1-5	ION	Duw basai yn iawn hefyd	NSNT	NSNT
+431, 5	1129, 6-6	ION	sti	---	NSNT
+
+
+432, 1	1130, 1-1	IRW	bysai	NSNT	NSNT
+432, 2	1131, 1-3	IRW	fi ydy o	NSNT	NSNT
+432, 3	1131, 4-6	IRW	mae *sure* tibod	NST	NST
+432, 4	1132, 1-6	IRW	rywbeth dw i heb wneud o_blaen	NSNT	NSNT
+432, 5	1132, 7-11	IRW	ydy o hefo hi wrth_gwrs	NSNT	NSNT
+432, 6	1134, 1-14	IRW	fath â o'n i ddeud os basai hi mynd drws nesa efo *Lynne* *um*	NST	NST
+432, 7	1134, 15-27	IRW	fysen nhw mond ella ryw ddeg munud chwarter awr ar ben eu hunain	NSNT	NSNT
+432, 8	1136, 1-10	IRW	a wedyn basai hi yn aros yn fan yna tan	NSNT	NSNT
+432, 9	1136, 11-15	IRW	baswn i yn dod adre	NSNT	NSNT
+432, 10	1137, 1-8	IRW	*so* ryw awr ar y fwya mae *sure*	NST	NST
+432, 11	1137, 9-12	IRW	fysai hi ar ben	NSNT	NSNT
+432, 12	1137, 13-14	IRW	ei hun	NSNT	NSNT
+432, 13	1137, 16-20	IRW	os oes yna rhaid felly	NSNT	NSNT
+432, 14	1139, 1-9	IRW	ond gwyliau ha dw i yn ffeindio yn *broblem*	NST	NST
+432, 15	1139, 10-10	IRW	sti	---	NSNT
+
+
+433, 1	1140, 1-4	ION	*oh* mae yn boen	NST	NST
+433, 2	1141, 1-4	ION	mae o yn boen	NSNT	NSNT
+433, 3	1141, 5-7	ION	de yn enwedig	NSNT	NSNT
+433, 4	1141, 8-17	ION	pan mae nhw isio gwneud rywbeth a ti isio gweithio	NSNT	NSNT
+433, 5	1143, 1-13	ION	a dydw i fath â chdithau ddim y *type* i ffonio rhieni eraill	NST	NST
+433, 6	1145, 1-5	ION	i ofyn am *help* rywsut	---	NST
+
+
+434, 1	1146, 1-5	IRW	na mae yn *job* de	NST	NST
+434, 2	1147, 1-9	IRW	*oh* dw i yn ffeindio gwyliau ha yn *job*	ST	NST
+434, 3	1148, 1-16	IRW	because timod os ti medru sortio rywbeth allan fath â ti ddeud am wsnos bythefnos *well*	NST	ST
+434, 4	1148, 17-18	IRW	dyna fo	NSNT	NSNT
+434, 5	1148, 19-24	IRW	fydd gyn ti fis arall wedyn	NSNT	NSNT
+434, 6	1148, 25-25	IRW	does	NSNT	NSNT
+434, 7	1150, 1-9	IRW	a ti yn dw i yn crafu mhen wedyn	NSNT	NSNT
+434, 8	1150, 10-14	IRW	de be i wneud a	NSNT	NSNT
+434, 9	1150, 15-20	IRW	lle mae mynd a bethau felly	---	NSNT
+
+
+435, 1	1152, 1-2	ION	cofia di	NSNT	NSNT
+435, 2	1152, 3-10	ION	mae hi acw wedi cael gwaith wan hefyd	---	NSNT
+
+
+436, 1	1153, 2-5	IRW	mae hynny yn *help*	---	NST
+
+
+437, 1	1154, 1-7	ION	*er* mae hynny yn ysgafnu dipyn bach	---	NST
+
+
+438, 1	1157, 1-6	IRW	ond timod *um* yn fan acw	NST	NST
+438, 2	1157, 7-12	IRW	os oes yna *oh* lle bynnag	NST	NST
+438, 3	1157, 13-17	IRW	basai hi yn cael gwaith	NSNT	NSNT
+438, 4	1157, 18-23	IRW	fysai rhaid fi ddanfon hi rywle	NSNT	NSNT
+438, 5	1157, 24-24	IRW	bysai	---	NSNT
+
+
+439, 1	1158, 1-2	ION	bysai *sure*	---	NST
+
+
+440, 1	1159, 2-7	IRW	dydy o ddim mor hwylus nac	---	NSNT
+
+
+441, 1	1161, 1-8	ION	na a fedrith hi ddim cerdded i nunlle	NSNT	NSNT
+441, 2	1162, 1-4	ION	does yna nunlle yna	NSNT	NSNT
+441, 3	1162, 5-6	ION	nag oes	---	NSNT
+
+
+442, 1	1163, 1-5	IRW	nag oes deud y gwir	---	NSNT
+
+
+443, 1	1164, 1-6	ION	beth am y lle *Stone_Henge* yna	NST	NST
+443, 2	1165, 1-11	ION	ydy rheiny yn gwneud isio *staff* bach dros yr ha dŵad	---	NST
+
+
+444, 1	1166, 1-4	IRW	dw ddim yn gwybod	NSNT	NSNT
+444, 2	1166, 5-5	IRW	sti	NSNT	NSNT
+444, 3	1167, 1-7	IRW	dydy o ddim yn le mor brysur	NSNT	NSNT
+444, 4	1167, 8-9	IRW	baswn i	NSNT	NSNT
+444, 5	1168, 1-11	IRW	*well* dw ddim yn gwybod i ddeud y gwir wrtha chdi	NST	NST
+444, 6	1169, 1-10	IRW	ella fod o yn rywbeth fydd rhaid iddi hi wneud	NSNT	NSNT
+444, 7	1169, 11-18	IRW	ydy mynd o_gwmpas i holi yma ac acw	---	NSNT
+
+
+445, 1	1170, 1-5	ION	ia os ydy hi isio	---	NSNT
+
+
+446, 1	1171, 3-3	IRW	mae	NSNT	NSNT
+446, 2	1171, 4-5	IRW	mae licio	NSNT	NSNT
+446, 3	1171, 6-9	IRW	mae yn licio gwneud	NSNT	NSNT
+446, 4	1172, 1-10	IRW	weithiau mae mynd i yr *shop* a ballu i weithio	NST	NST
+446, 5	1172, 11-14	IRW	dydy yn y pentre	NSNT	NSNT
+446, 6	1174, 1-5	IRW	ond *um* na basai rywbeth	NST	NST
+446, 7	1174, 6-14	IRW	timod drwy yr gwyliau *right* *handy* deud y gwir	---	NST
+
+
+447, 1	1175, 1-6	ION	achos mae nhw rhad i cadw	NSNT	NSNT
+447, 2	1175, 7-10	ION	sti yn_dydyn o ran	NSNT	NSNT
+447, 3	1175, 11-14	ION	wsti yr cyflogwr wan	NSNT	NSNT
+447, 4	1177, 1-6	ION	ifanc ydyn nhw ti yn gweld	---	NSNT
+
+
+448, 1	1178, 2-10	IRW	yndy *so* dydyn nhw ddim yn gorod talu yr	---	NST
+
+
+449, 1	1179, 1-7	ION	dydyn nhw ddim yn gorod talu yr	NSNT	NSNT
+449, 2	1180, 1-2	ION	nac ydyn	---	NSNT
+
+
+450, 1	1181, 1-2	IRW	cyflog llawn	---	NSNT
+
+
+451, 1	1182, 1-3	ION	am wn i	NSNT	NSNT
+451, 2	1182, 4-9	ION	bod fi yn iawn yn deud	NSNT	NSNT
+451, 3	1182, 10-10	ION	yndw	---	NSNT
+
+
+452, 1	1186, 1-2	IRW	a timod	NSNT	NSNT
+452, 2	1186, 3-14	IRW	mae nhw yn gweithio yr un fath â rywun arall mewn ffordd	NSNT	NSNT
+452, 3	1186, 15-15	IRW	dydy	NSNT	NSNT
+452, 4	1188, 1-4	IRW	neu mae nhw yn	NSNT	NSNT
+452, 5	1188, 6-10	IRW	mae nhw yn gallu wrth_gwrs	NSNT	NSNT
+452, 6	1189, 1-4	IRW	*so* gawn ni weld	NST	NST
+452, 7	1190, 1-9	IRW	fydd rhaid ni eistedd lawr a gweithio rywbeth allan	---	NSNT
+
+
+453, 1	1191, 1-3	ION	meddwl amdano fo	NSNT	NSNT
+453, 2	1193, 1-3	ION	ia yn Duw	NSNT	NSNT
+453, 3	1194, 1-7	ION	*um* be arall sy yn newydd dŵad	NST	NST
+453, 5	1196, 1-5	ION	does yna ddim newydd arall	NSNT	NSNT
+453, 6	1196, 6-7	ION	gynna chdi	---	NSNT
+
+
+454, 1	1197, 1-4	IRW	fedra i ddim meddwl	NSNT	NSNT
+454, 2	1198, 1-3	IRW	be dw i	NSNT	NSNT
+454, 3	1198, 4-8	IRW	wedi bod yn wneud dŵad	NSNT	NSNT
+454, 4	1199, 1-3	IRW	*oh* dw ddim	NST	NST
+454, 5	1199, 4-14	IRW	wedi bod yn lawer o dim_byd na gwneud dim_byd exciting iawn	NSNT	SNT
+454, 6	1200, 1-3	IRW	be dw i	NSNT	NSNT
+454, 7	1200, 4-8	IRW	wedi bod yn wneud dŵad	---	NSNT
+
+
+455, 1	1201, 1-4	ION	*oh* yr arglwydd mawr	---	NST
+
+
+456, 1	1203, 1-5	IRW	ti cael trowsus *nice* iawn	---	NST
+
+
+457, 1	1204, 1-4	ION	*oh* ti licio fo	NST	NST
+457, 2	1206, 1-5	ION	*um* *sale* ydy o *Next*	---	NST
+
+
+458, 1	1208, 1-7	IRW	*oh* ti wedi bod yn y *sale*	---	NST
+
+
+459, 1	1209, 2-3	ION	dw i	NSNT	NSNT
+459, 2	1209, 4-8	ION	wedi bod yn y *sale*	NST	NST
+459, 3	1209, 9-10	ION	tro yma	NSNT	NSNT
+459, 4	1210, 1-4	ION	wnes i ddim methu	NSNT	NSNT
+459, 5	1211, 1-14	ION	ond o'n i meddwl *oh* Duw mae yna ryw hen fleck aur yno fo	NST	ST
+459, 6	1212, 1-4	ION	dw ddim yn gwybod	NSNT	NSNT
+459, 7	1212, 5-9	ION	ydy o yn iawn rywsut	NSNT	NSNT
+459, 8	1213, 1-4	ION	ond o'n i meddwl	NSNT	NSNT
+459, 9	1214, 1-7	ION	Duw wneith o yn iawn i gwaith	NSNT	NSNT
+459, 10	1214, 8-8	ION	wneith	---	NSNT
+
+
+460, 1	1215, 1-9	IRW	ti ddim yn gweld y fleck llawer nag wyt	---	SNT
+
+
+461, 1	1216, 1-2	ION	nag wyt	---	NSNT
+
+
+462, 1	1217, 1-2	IRW	nag wyt	NSNT	NSNT
+462, 2	1218, 1-5	IRW	na mae o yn *nice*	---	NST
+
+
+463, 1	1219, 1-4	ION	*oh* mae yn iawn	NST	NST
+463, 2	1220, 1-4	ION	Duw mae *right* braf	NST	NST
+463, 3	1220, 5-5	ION	cofia	NSNT	NSNT
+463, 4	1222, 1-5	ION	mae yn cosi dipyn bach	NSNT	NSNT
+463, 5	1223, 1-4	ION	ond mae yn iawn	NSNT	NSNT
+463, 6	1224, 1-7	ION	fedra i *just* about ei ddioddef o	---	ST
+
+
+464, 1	1227, 1-6	IRW	*well* es i i yr *sale*	ST	NST
+464, 2	1228, 1-11	IRW	God ddes i ddim o yna efo trowsus fleck aur de	---	SNT
+
+
+465, 1	1229, 1-1	ION	naddo	---	NSNT
+
+
+466, 1	1230, 1-1	IRW	naddo	---	NSNT
+
+
+467, 1	1231, 1-10	ION	*oh* deud y gwir wrtha ti wnes i wario dipyn	NST	NST
+467, 2	1232, 1-5	ION	wna i ddim deud faint	---	NSNT
+
+
+468, 1	1233, 1-6	IRW	ryw hit and *miss* ydy o	NST	ST
+468, 2	1235, 1-9	IRW	dw i *well* i mi pa yr un bynnag	NST	NST
+468, 3	1236, 1-6	IRW	achos os dw i isio trowsus	NSNT	NSNT
+468, 4	1236, 7-12	IRW	dw isio nhw yn y petite	SNT	SNT
+468, 5	1238, 1-2	IRW	a timod	NSNT	NSNT
+468, 6	1238, 3-15	IRW	dydy yr petite ddim yn mynd *round* yn waist i yn dda iawn	---	ST
+
+
+469, 1	1240, 1-10	ION	*oh* a deud y gwir mae rhein yn rhy llaes	NST	NST
+469, 2	1240, 11-11	ION	wsti	NSNT	NSNT
+469, 3	1241, 1-7	ION	ond os yn iawn efo sodlau de	NSNT	NSNT
+469, 4	1242, 1-3	ION	*sure* dw meddwl	NST	NST
+469, 5	1242, 4-13	ION	bod nhw yn long neu *extra* long length neu rywbeth	NST	ST
+469, 6	1244, 1-3	ION	ond dyna fo	NSNT	NSNT
+469, 7	1244, 4-11	ION	pan fydda i yn gwneud y *Pilates* yma	NST	NST
+469, 8	1244, 12-16	ION	fydda i wedi stretsio nghorff	---	NSNT
+
+
+470, 1	1245, 1-6	IRW	*hey* fydd y genod yn licio	NST	NST
+470, 2	1245, 7-7	IRW	mae	NSNT	NSNT
+470, 3	1245, 8-12	IRW	mae yr *um* *shop* *New_Look*	NST	NST
+470, 4	1246, 1-10	IRW	*well* mae yna *shop* *New_Look* newydd yn mynd i *Fagor*	---	NST
+
+
+471, 1	1247, 1-2	ION	newydd oes	---	NSNT
+
+
+472, 1	1248, 1-4	IRW	*mmm* mae mynd i	NST	NST
+472, 2	1248, 5-9	IRW	lle oedd yr hen *Littlewoods*	---	NST
+
+
+473, 1	1249, 1-6	ION	*oh* fydd hi yn fwy *shop*	---	NST
+
+
+474, 1	1250, 1-1	IRW	bydd	NSNT	NSNT
+474, 2	1250, 2-2	IRW	bydd	---	NSNT
+
+
+475, 1	1251, 1-6	ION	achos mae yna un yng Nghaergybi	NSNT	NSNT
+475, 2	1251, 7-7	ION	does	NSNT	NSNT
+475, 3	1253, 1-5	ION	un mawr ddeud y gwir	---	NSNT
+
+
+476, 1	1255, 2-10	IRW	ond mae hon mynd i werthu dillad dynion a	NSNT	NSNT
+476, 2	1257, 2-10	IRW	fydd o *lot* fwy o *stuff* yn hon felly	---	NST
+
+
+477, 1	1258, 1-4	ION	Duw *right* dda hefyd	---	NST
+
+
+478, 1	1260, 1-10	IRW	*so* yr *type* o *shop* mae yr genod yn licio	NST	NST
+478, 2	1260, 11-11	IRW	dydy	---	NSNT
+
+
+479, 1	1261, 2-9	ION	mae yn ufflon o *shop* bach boblogaidd iawn	NST	NST
+479, 2	1263, 1-12	ION	*oh* *so* be sy yn mynd i yr lle hen le *New_Look*	NST	NST
+479, 3	1263, 13-13	ION	ta	---	NSNT
+
+
+480, 1	1264, 1-4	IRW	dw ddim yn gwybod	NSNT	NSNT
+480, 2	1264, 5-16	IRW	be sy mynd i fan yna i ddeud y gwir wrtha chdi	NSNT	NSNT
+480, 3	1265, 1-3	IRW	na dim syniad	---	NSNT
+
+
+481, 1	1266, 1-4	ION	achos mae hwnna yn	NSNT	NSNT
+481, 2	1267, 1-2	ION	argoel mae	NSNT	NSNT
+481, 3	1267, 3-3	ION	yr	NSNT	NSNT
+481, 4	1267, 4-7	ION	mae yr erbyn meddwl	NSNT	NSNT
+481, 5	1267, 8-14	ION	mae yr adeilad yna yn ddau lawr	NSNT	NSNT
+481, 6	1267, 15-15	ION	dydy	NSNT	NSNT
+481, 7	1269, 1-6	ION	ydy yr *cafe* yn cau hefyd	---	NST
+
+
+482, 1	1270, 2-4	IRW	dw i *sure*	NST	NST
+482, 2	1270, 5-10	IRW	bod y *cafe* wedi cau rŵan	---	NST
+
+
+483, 1	1271, 1-4	ION	*oh* dwn i ddim	---	NST
+
+
+484, 1	1272, 1-6	IRW	*oh* oedd y *cafe* yn *handy*	---	NST
+
+
+485, 1	1273, 1-1	ION	wsti	NSNT	NSNT
+485, 2	1273, 2-7	ION	be oedd o le bach *handy*	---	NST
+
+
+486, 1	1274, 2-3	IRW	a timod	NSNT	NSNT
+486, 2	1274, 4-8	IRW	lle oedda chdi medru parcio	NSNT	NSNT
+486, 3	1276, 1-7	IRW	a cerdded drwy yr *shop* wrth_gwrs de	ST	NST
+486, 4	1278, 1-7	IRW	because os basa chdi mynd i yr	NSNT	SNT
+486, 5	1278, 8-12	IRW	dw ddim gwybod pa *level*	NST	NST
+486, 6	1278, 13-16	IRW	oedd o *level* chwech	NST	NST
+486, 7	1278, 17-27	IRW	dw meddwl wedyn o chdi syth allan i yr *shop* doeddet	---	NST
+
+
+487, 1	1279, 1-4	ION	ia ti yn iawn	NSNT	NSNT
+487, 2	1280, 1-1	ION	o't	NSNT	NSNT
+487, 3	1281, 1-12	ION	ond oedd o le *sudden* os o't ti isio *toilet* neu rywbeth	---	NST
+
+
+488, 1	1282, 2-4	IRW	dw i wybod	---	NSNT
+
+
+489, 1	1283, 1-2	ION	yn_doedd sti	NSNT	NSNT
+489, 2	1285, 1-9	ION	*oh* Duw bechod ydy fan yna wedi cau felly	---	NST
+
+
+490, 1	1286, 1-6	IRW	*mmm* yndy fan yna wedi cau	---	NST

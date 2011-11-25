@@ -1,0 +1,1689 @@
+1, 1	1, 1-1	AWE	rhwng	---	NSNT
+
+
+2, 1	2, 1-4	BEL	ti gallu dilyn o	---	NSNT
+
+
+3, 1	3, 1-8	AWE	erioed wedi bod i fan yna o blaen	---	NSNT
+
+
+4, 1	4, 1-1	BEL	*nice*	ST	NST
+4, 3	6, 1-5	BEL	sbïo ar y gwyliau rŵan	NSNT	NSNT
+4, 5	8, 1-9	BEL	bydd *mam* a *dad* yn siarad am y gwyliau	NST	NST
+4, 7	10, 2-4	BEL	dw i meddwl	NSNT	NSNT
+4, 8	11, 1-8	BEL	*right* *mam* a *dad* yn siarad *lot* mwy	NST	NST
+4, 9	12, 1-10	BEL	dydyn ni ddim yn siarad digon gyda ei_gilydd dw meddwl	---	NSNT
+
+
+5, 1	13, 1-6	AWE	syniad pwy oedd mynd i Llydaw	---	NSNT
+
+
+6, 1	14, 1-4	BEL	fi fi bob tro	NSNT	NSNT
+6, 3	16, 1-2	BEL	dw wedi	---	NSNT
+
+
+7, 1	17, 1-1	AWE	beth	---	NSNT
+
+
+8, 1	18, 1-6	CYW	fan yna ni ar cwch yn_de	---	NSNT
+
+
+9, 1	19, 1-3	BEL	ar y cwch	NSNT	NSNT
+9, 2	20, 1-10	BEL	dan ni yn mynd trwy yr peth yn araf *yeah*	NST	NST
+9, 3	21, 1-3	BEL	*so* ces i	---	NST
+
+
+10, 1	22, 1-8	AWE	o'n i wedi bod yn Llydaw o blaen	---	NSNT
+
+
+11, 1	23, 1-2	BEL	un waith	---	NSNT
+
+
+12, 1	24, 1-3	AWE	oeddet ti erioed	NSNT	NSNT
+12, 2	24, 4-5	AWE	wedi bod	---	NSNT
+
+
+13, 1	25, 1-5	BEL	ond dw i isio bod	NSNT	NSNT
+13, 2	25, 6-12	BEL	dw i isio mynd yna bob blwyddyn	NSNT	NSNT
+13, 4	27, 1-10	BEL	ond dw i ddim yn gallu mynd yna bob blwyddyn	---	NSNT
+
+
+14, 1	28, 1-5	CYW	ni fan yna gyda crempog	---	NSNT
+
+
+15, 1	29, 1-8	BEL	a dw i isie wneud y pedwar ardal	NSNT	NSNT
+15, 2	30, 1-4	BEL	*so* lle aethon ni	NST	NST
+15, 3	30, 5-6	BEL	tro yma	---	NSNT
+
+
+16, 1	31, 1-3	CYW	i fan yna	---	NSNT
+
+
+17, 1	32, 1-3	AWE	tŷ bach ni	---	NSNT
+
+
+18, 1	33, 1-5	BEL	neu beth bynnag ydy o	---	NSNT
+
+
+19, 1	34, 1-3	CYW	hwnna ydy *car*	---	NST
+
+
+20, 1	35, 1-5	AWE	a pam ti licio fo	NSNT	NSNT
+20, 4	38, 1-5	AWE	pam ti licio fo gymaint	---	NSNT
+
+
+21, 1	39, 1-9	BEL	*er* oherwydd dw i yn pell pell o Cymru	NST	NST
+21, 2	40, 1-6	BEL	a does dim_byd i poeni amdano	NSNT	NSNT
+21, 3	41, 1-7	BEL	a mae Llydaw yn lle braf iawn	NSNT	NSNT
+21, 4	42, 1-7	BEL	*lot* o hanes *lot* o llefydd *nice*	---	NST
+
+
+22, 1	43, 1-4	CYW	*Cywryd* ar y *dots*	---	NST
+
+
+23, 1	44, 1-7	BEL	a oedd *lot* o pethau i gwneud	---	NST
+
+
+24, 1	45, 1-12	CYW	a *helmet* *eh* *eh* *Cywryd* gyda *helmet* a *teddy* a *coat* a	---	NST
+
+
+25, 1	46, 1-1	BEL	*Cywryd*	ST	NST
+25, 2	48, 1-5	BEL	*oh* oedd hwn yn dŷ	NST	NST
+25, 3	48, 6-10	BEL	welson ni yn y *cafe*	NST	NST
+25, 4	48, 11-16	BEL	dw meddwl ar y ffordd lawr	---	NSNT
+
+
+26, 1	49, 1-4	AWE	dw i licio fo	NSNT	NSNT
+26, 2	49, 5-9	AWE	am bod o yn hen	NSNT	NSNT
+26, 4	51, 1-8	AWE	aeth y *story* *round* cyn y gwyliau yma	NST	NST
+26, 5	51, 9-16	AWE	bod fi *mam* wedi colli sbectol diwrnod cynt	NST	NST
+26, 6	52, 1-8	AWE	ac oedd raid fi drio ffeindio sbectol newydd	NSNT	NSNT
+26, 7	53, 1-9	AWE	a ges i un yn diwedd yn *Pontypridd* ia	---	NST
+
+
+27, 1	54, 1-5	CYW	ni fan yna fan yna	---	NSNT
+
+
+28, 1	55, 1-6	BEL	a yr bobl pawb yn glên	NSNT	NSNT
+28, 3	57, 1-4	BEL	gest ti *shock* gweld	NST	NST
+28, 4	57, 5-11	BEL	bod pawb yn y de yn clên	---	NSNT
+
+
+29, 1	58, 1-4	CYW	ni yn fan yna	NSNT	NSNT
+29, 2	59, 1-4	CYW	ni yn fan yna	---	NSNT
+
+
+30, 1	61, 1-10	BEL	oedd hwn yn y yn yr eglwys cadeiriol yn *Winchester*	---	NST
+
+
+31, 1	62, 1-2	AWE	paned gynta	---	NSNT
+
+
+32, 1	63, 1-15	BEL	ond cyn i ni mynd yna ar y ffordd lawr i Llydaw wnaethon ni *protest*	---	NST
+
+
+33, 1	65, 1-4	CYW	*daddy* fan yna yn_de	NST	NST
+33, 2	66, 1-4	CYW	ni ar y *train*	---	NST
+
+
+34, 1	67, 1-3	BEL	doedd y crossing	---	SNT
+
+
+35, 1	68, 1-5	CYW	ti ni fan yna hefyd	---	NSNT
+
+
+36, 1	69, 1-14	BEL	ddim mor drwg na hynny ar_wahân y ffaith deffrodd *Cywryd* yn canol y nos	---	NST
+
+
+37, 1	70, 1-10	AWE	pwy oedd yn cysgu fan yna yn yr *er* cwch	---	NST
+
+
+38, 1	71, 1-2	CYW	*um* ni	---	NST
+
+
+39, 1	72, 1-6	BEL	*yeah* a pwy oedd yn crio	---	NST
+
+
+40, 1	73, 1-1	CYW	*Cywryd*	---	NST
+
+
+41, 1	74, 1-1	BEL	*Cywryd*	ST	NST
+41, 2	75, 1-3	BEL	a be digwyddodd	NSNT	NSNT
+41, 3	76, 1-16	BEL	es i holl ffordd o_gwmpas y cwch efo *Cywryd* am un o gloch yn y bore	NST	NST
+41, 4	77, 1-7	BEL	oherwydd oedd pobl yn twt_twtio drws nesa	NSNT	NSNT
+41, 5	77, 8-8	BEL	oedden	NSNT	NSNT
+41, 7	80, 1-4	BEL	cyrhaeddon ni yn *Saint_Malo*	NST	NST
+41, 8	81, 1-4	BEL	a ti cofio *Saint_Malo*	---	NST
+
+
+42, 1	82, 1-1	CYW	ydw	---	NSNT
+
+
+43, 1	83, 1-3	BEL	lle braf iawn	NSNT	NSNT
+43, 2	84, 1-3	BEL	dw i meddwl	NSNT	NSNT
+43, 3	84, 4-12	BEL	oedd hwnnw fy hoff lle ar y gwyliau tan	NSNT	NSNT
+43, 4	84, 13-18	BEL	cyrhaeddon ni *er* ar diwedd y	---	NST
+
+
+44, 1	85, 1-7	CYW	*eh* *eh* dw isio mwy o lluniau	---	NST
+
+
+45, 1	86, 1-6	AWE	dan ni ddim wedi gorffen siarad	---	NSNT
+
+
+46, 1	87, 1-2	BEL	y gwyliau	NSNT	NSNT
+46, 2	88, 1-7	BEL	dan ni sôn am y gwyliau rŵan	---	NSNT
+
+
+47, 1	89, 1-4	AWE	gei di de tra	NSNT	NSNT
+47, 2	89, 5-6	AWE	mae tra	NSNT	NSNT
+47, 3	89, 7-10	AWE	dan ni trio cofio	---	NSNT
+
+
+48, 1	90, 1-14	BEL	ti gallu cael a geith *mam* a *dad* yn siarad am y gwyliau *yeah*	NST	NST
+48, 2	91, 1-7	BEL	*so* oedd *Saint_Malo* yn braf iawn oherwydd	NST	NST
+48, 3	91, 8-17	BEL	cyrhaeddon ni yn cynnar syth *off* yr *er* y cwch	NST	NST
+48, 4	92, 1-5	BEL	ond *er* oedd e yn	NST	NST
+48, 5	92, 6-10	BEL	oedd e yn hollol wag	NSNT	NSNT
+48, 6	93, 1-2	BEL	gallu siarad	NSNT	NSNT
+48, 7	94, 1-6	BEL	ti isio siarad efo fi rŵan	NSNT	NSNT
+48, 8	96, 1-6	BEL	be be wnes ti yn *Saint_Malo*	NST	NST
+48, 9	97, 1-2	BEL	ti cofio	---	NSNT
+
+
+49, 1	98, 1-2	CYW	*er* gwyliau	---	NST
+
+
+50, 1	99, 1-5	BEL	aethon ni i yr *cafe*	NST	NST
+50, 2	101, 1-5	BEL	a ti yn cofio chwarae	NSNT	NSNT
+50, 3	103, 1-4	BEL	chwarae efo plant Llydaweg	NSNT	NSNT
+50, 5	105, 1-1	BEL	tri	NSNT	NSNT
+50, 6	106, 1-1	BEL	a	---	NSNT
+
+
+51, 1	107, 1-5	CYW	*eh* *Cywryd* yn y *car*	ST	NST
+51, 2	108, 1-2	CYW	*eh* *Cywryd*	---	NST
+
+
+52, 1	109, 1-4	BEL	oedd yn y *car*	NST	NST
+52, 2	111, 1-6	BEL	ond oedd *lot* o arwyddion yna	NST	NST
+52, 3	112, 1-7	BEL	*lot* o arwyddion ar yr hen adeiladau	---	NST
+
+
+53, 1	113, 1-6	AWE	dw i yn y golwg wan	---	NSNT
+
+
+54, 1	114, 1-2	BEL	*um* Palesteina	---	NST
+
+
+55, 1	115, 1-6	AWE	*er* na ia dw meddwl ia	---	NST
+
+
+56, 1	116, 1-3	CYW	fi yn eto	---	NSNT
+
+
+57, 1	117, 1-9	BEL	*so* mae dy *fam* mynd i Palesteina wsnos nesa	NST	NST
+57, 2	117, 10-10	BEL	tydy	NSNT	NSNT
+57, 3	118, 1-6	BEL	ond ti ddim wedi sylwi hynny	---	NSNT
+
+
+58, 1	119, 1-5	AWE	dan ni dau licio teithio	NSNT	NSNT
+58, 2	119, 6-6	AWE	dydan	---	NSNT
+
+
+59, 1	120, 1-3	BEL	ydyn yn ofnadwy	NSNT	NSNT
+59, 3	122, 1-4	BEL	gormod dw i meddwl	NSNT	NSNT
+59, 4	123, 1-10	BEL	ond ti licio ti licio teithio hyd_yn_oed mwy na fi	NSNT	NSNT
+59, 6	125, 1-6	BEL	*er* a ti licio llefydd newydd	NST	NST
+59, 7	126, 1-11	BEL	*so* dyna hwn un o yr pethau am y am Llydaw	NST	NST
+59, 8	126, 12-14	BEL	dw i meddwl	NSNT	NSNT
+59, 9	127, 1-3	BEL	oherwydd mae bob	NSNT	NSNT
+59, 10	127, 4-11	BEL	mae o leia pedwar neu pump ardal gwahanol	NSNT	NSNT
+59, 11	128, 1-9	BEL	*so* dan ni gallu mynd yn yn_ôl bob blwyddyn	NST	NST
+59, 12	129, 1-1	BEL	ond	---	NSNT
+
+
+60, 1	130, 1-7	AWE	dw i yn aml yn yr un	NSNT	NSNT
+60, 2	130, 8-11	AWE	sy yn dewis tŷ	NSNT	NSNT
+60, 3	130, 12-12	AWE	dydw	NSNT	NSNT
+60, 4	131, 1-10	AWE	a dw i yn trio wneud ryw fath o amserlen	NSNT	NSNT
+60, 5	132, 1-8	AWE	ond dw i ddim yn *berson* trefnus iawn	---	NST
+
+
+61, 1	134, 1-11	BEL	oedd y tŷ yn tipyn bach o twll y tro yma	NSNT	NSNT
+61, 3	136, 1-8	BEL	ond *er* oedd y lle yn *nice* iawn	---	NST
+
+
+62, 1	137, 2-3	AWE	gynnon ni	---	NSNT
+
+
+63, 1	138, 1-2	CYW	isio *Mali*	---	NST
+
+
+64, 1	140, 1-3	AWE	gafael yn *Sali_Mali*	---	NST
+
+
+65, 1	142, 1-1	BEL	a	---	NSNT
+
+
+66, 1	143, 1-7	CYW	*eh* *eh* *eh* ti gyda drost ti	---	NST
+
+
+67, 1	144, 1-9	BEL	aethon ni i yr un lle bob bob bore	NSNT	NSNT
+67, 2	145, 1-3	BEL	*oh* sbia be	NST	NST
+67, 3	147, 1-5	BEL	be mae *Cywryd* wedi prynu	---	NST
+
+
+68, 1	148, 1-2	CYW	bara hir	---	NSNT
+
+
+69, 1	149, 1-2	BEL	fara hir	NSNT	NSNT
+69, 2	150, 1-6	BEL	aethon ni i *Combo* bob bore	NST	NST
+69, 3	152, 1-5	BEL	ac oedd e yn lle	---	NSNT
+
+
+70, 1	153, 1-9	AWE	wnest ti ddim ffrindiau efo yr hogan bach yma	NSNT	NSNT
+70, 2	155, 1-4	AWE	dw ddim yn cofio	---	NSNT
+
+
+71, 1	156, 1-1	BEL	*Isabelle*	ST	NST
+71, 2	157, 1-7	BEL	*so* oedd ti tipyn bach o *Romeo*	NST	NST
+71, 3	157, 8-8	BEL	oeddet	---	NSNT
+
+
+72, 1	158, 1-7	CYW	*yeah* a fi pêl bach fan yna	---	NST
+
+
+73, 1	159, 1-4	BEL	gest ti pêl *Brittany_Ferries*	---	NST
+
+
+74, 1	160, 1-5	AWE	be wnaethon ni o blaen	NSNT	NSNT
+74, 2	161, 1-6	AWE	tua faint oedd ei oed o	---	NSNT
+
+
+75, 1	162, 1-2	BEL	chwe mis	NSNT	NSNT
+75, 3	165, 1-5	BEL	chwe mis y tro cynta	---	NSNT
+
+
+76, 1	166, 1-13	AWE	pawb yn gofyn i ti pwy oedd yr hogyn hogan bach hogyn bach	NSNT	NSNT
+76, 2	167, 1-10	AWE	ac o'n i yn trio siarad yn Ffrengig efo nhw	NSNT	NSNT
+76, 5	173, 1-5	AWE	amdanat ti oedden ni *yeah*	---	NST
+
+
+77, 1	174, 1-2	BEL	ac oedd	NSNT	NSNT
+77, 2	174, 3-10	BEL	oedd ni yn trio i esbonio iddo nhw	NSNT	NSNT
+77, 3	174, 11-16	BEL	oedd y enw yn Ffrangeg *X*	---	NST
+
+
+78, 1	175, 1-1	CYW	sbia	---	NSNT
+
+
+79, 1	176, 1-2	AWE	*X* *yeah*	---	NST
+
+
+80, 1	177, 1-1	BEL	*X*	---	NST
+
+
+81, 1	178, 1-1	AWE	dyna	NSNT	NSNT
+81, 2	178, 2-6	AWE	be ydy *Cywryd* yn Ffrangeg	NST	NST
+81, 3	179, 1-6	AWE	ond o'n i licio yr *cafes*	NST	NST
+81, 4	180, 1-7	AWE	dan ni yn rei garw am *cafes*	NST	NST
+81, 5	180, 8-8	AWE	dydan	---	NSNT
+
+
+82, 1	181, 1-4	CYW	ti wneud o eto	---	NSNT
+
+
+83, 1	182, 1-3	AWE	ti isio fi	---	NSNT
+
+
+84, 1	183, 1-2	BEL	ac oedd	NSNT	NSNT
+84, 2	183, 3-8	BEL	oedden nhw yn galw fo *Petit_Mignon*	NST	NST
+84, 4	185, 1-4	BEL	beth bynnag ydy o	NSNT	NSNT
+84, 5	186, 1-4	BEL	bob bob yn dweud	NSNT	NSNT
+84, 6	187, 1-2	BEL	*oh* sbia	NST	NST
+84, 7	188, 1-5	BEL	pan oeddet ti chwe mis	SNT	NSNT
+84, 8	189, 1-1	BEL	*Petit_Mignon*	---	NST
+
+
+85, 1	190, 1-5	AWE	ddim yn gallu arnat ti	---	NSNT
+
+
+85, 2	191, 1-2	AWE	ti gallu	NSNT	NSNT
+86, 2	193, 1-7	BEL	ac oedd e yn lle braf iawn	NSNT	NSNT
+86, 3	194, 1-12	BEL	ac oedd y siopau siopau yr *er* bwyd yn arbennig o dda	NST	NST
+86, 4	195, 1-9	BEL	ar_wahân y ffaith oedd ti yn cyffwrdd y ffrwythau	NSNT	NSNT
+86, 5	196, 1-2	BEL	ac oedd	NSNT	NSNT
+86, 6	196, 3-6	BEL	gest ti *row* pob	NST	NST
+86, 7	196, 7-7	BEL	tro	---	NSNT
+
+
+87, 1	197, 1-8	AWE	*oh* do'n nhw ddim yn licio hynna na	---	NST
+
+
+88, 1	198, 2-12	BEL	dyn nhw ddim yn licio ti dewis dy fwyd dy hun	---	NSNT
+
+
+89, 1	199, 1-4	CYW	sbia gallu wneud o	---	NSNT
+
+
+90, 1	200, 1-9	AWE	mae yna *lot* mwy o *um* bethau *fresh* yna	NST	NST
+90, 2	200, 10-10	AWE	does	NSNT	NSNT
+90, 3	202, 1-10	AWE	tua ryw pa fath o bethau oedda chdi yn gwcio	NSNT	NSNT
+90, 4	203, 1-8	AWE	o'n i ddim yn cwcio *lot* nag o'n	---	NST
+
+
+91, 1	205, 1-5	BEL	o'n i cwcio bob dydd	NSNT	NSNT
+91, 3	207, 2-5	BEL	be sy yn *handy*	NST	NST
+91, 4	207, 6-7	BEL	yw ti	NSNT	NSNT
+91, 5	209, 1-2	BEL	ti yn	---	NSNT
+
+
+92, 1	210, 1-3	CYW	ble mae *Jac_y_Jwc*	---	NST
+
+
+93, 1	211, 1-9	BEL	ti yn cofnodi be dan ni yn gael bwyta	NSNT	NSNT
+93, 2	211, 10-16	BEL	be dan ni yn bwyta bob dydd	---	NSNT
+
+
+94, 1	212, 1-3	CYW	lle mae *Jac_y_Jwc*	---	NST
+
+
+95, 1	213, 1-14	BEL	*so* gawson ni *pasta* efo saws *tomato* a fennel efo *salad* *avocado* a cnau	---	ST
+
+
+96, 1	214, 1-1	CYW	*eh*	---	NST
+
+
+97, 1	215, 1-5	AWE	ti ddim yn cofio hynna	NSNT	NSNT
+97, 2	216, 1-3	AWE	ti cofio bod	NSNT	NSNT
+97, 3	216, 4-6	AWE	bod fi wedi	---	NSNT
+
+
+98, 1	217, 1-5	BEL	dw i ddim yn cofio	NSNT	NSNT
+98, 2	218, 1-6	BEL	ti ti wedi sgwennu fo lawr	NSNT	NSNT
+98, 3	219, 1-9	BEL	ond yn anffodus *Cywryd* be mae *mam* yn deud	NST	NST
+98, 4	220, 1-3	BEL	pwdin anelwig braidd	---	NSNT
+
+
+99, 1	221, 1-8	AWE	dan ni ddim yn rei garw am bwdins	NSNT	NSNT
+99, 2	222, 1-4	AWE	*well* dw i yn	NST	NST
+99, 3	223, 1-6	AWE	ond ti ddim yn wneud nhw	---	NSNT
+
+
+100, 1	224, 1-7	BEL	na dw i ddim yn wneud nhw	NSNT	NSNT
+100, 2	225, 1-1	BEL	ffrwythau	---	NSNT
+
+
+101, 1	226, 1-13	AWE	ond oedd hi digon braf i i *er* bwyta allan yn fan yna	---	NST
+
+
+102, 1	227, 1-11	BEL	oedd ni bwyta allan mwy neu lai bob bob bob nos	NSNT	NSNT
+102, 2	228, 1-7	BEL	ti cofio ni bwyta *er* bwyta allan	NST	NST
+102, 3	229, 1-9	BEL	oedd ti mynd am dro efo efo dy *fam*	NST	NST
+102, 4	230, 1-8	BEL	a sbia be beth oedd yn y cae	NSNT	NSNT
+102, 5	231, 1-5	BEL	beth oedd yn y cae	---	NSNT
+
+
+103, 1	232, 1-1	CYW	tarw	---	NSNT
+
+
+104, 1	233, 1-1	BEL	tarw	NSNT	NSNT
+104, 2	234, 1-4	BEL	cae llawn o gwartheg	NSNT	NSNT
+104, 3	235, 1-10	BEL	ond *er* aethon ni i *er* *Bécherel* sef Gelli_Gandryll *yeah*	---	NST
+
+
+105, 1	236, 1-2	AWE	Llydewig *yeah*	---	NST
+
+
+106, 1	237, 1-2	BEL	Llydewig neu	SNT	NSNT
+106, 2	238, 1-1	BEL	*Cywryd*	---	NST
+
+
+107, 1	239, 1-6	AWE	oedd tua deg *shop* lyfrau yna	NST	NST
+107, 2	239, 7-7	AWE	doedd	---	NSNT
+
+
+108, 1	241, 1-8	BEL	ond *er* oedd e tipyn bach yn *er*	---	NST
+
+
+109, 1	242, 1-4	CYW	*eh* asgwrn y coesau	---	NST
+
+
+111, 1	244, 1-3	AWE	a fasa chdi	NSNT	NSNT
+111, 2	245, 1-7	AWE	dw i ddim yn cofio pa lyfr	NSNT	NSNT
+111, 3	245, 8-13	AWE	oedda chi ddarllen ar y pryd	---	NSNT
+
+
+112, 1	246, 1-1	BEL	*ow*	---	NST
+
+
+113, 1	247, 1-9	AWE	ti dod â dau neu dri efo ti do	---	NSNT
+
+
+114, 1	248, 1-4	BEL	dw i ddim cofio	NSNT	NSNT
+114, 2	249, 1-10	BEL	*sure* o fod bydd llun ohono fi yn darllen nhw	NST	NST
+114, 5	252, 1-5	BEL	*er* dw i yn gwybod	NST	NST
+114, 6	252, 6-19	BEL	mae yn yn yn fy dyddiadur rywle be o'n i yn darllen ar gwyliau	NSNT	NSNT
+114, 7	253, 1-16	BEL	*er* ond *um* hwn oedd y tro cynta i ti mynd ar ar gwyliau efo laptop	---	ST
+
+
+115, 1	254, 1-4	AWE	*oh* ac o'n i	---	NST
+
+
+116, 1	255, 1-5	BEL	*just* chwarae efo *camera* rywun	---	NST
+
+
+117, 1	256, 1-8	AWE	*er* newydd ddysgu wneud sut i drosglwyddo lluniau	NST	NST
+117, 2	257, 1-9	AWE	wedyn o'n i yn gwneud yr scrap_book bob nos	NSNT	SNT
+117, 3	258, 1-14	AWE	*so* o'ch chi ddim yn cael fawr o ddim_byd gynno fi gyda yr nos	---	NST
+
+
+118, 1	261, 1-12	BEL	*so* o'n i tipyn bach o *camera* widow yn ystod y gwyliau	NST	ST
+118, 2	262, 1-6	BEL	oedd dy *fam* yn y cornel	---	NST
+
+
+119, 1	263, 1-1	CYW	ni	---	NSNT
+
+
+120, 1	264, 1-10	BEL	ac o'n i yn y cornel arall yn darllen bob	---	NSNT
+
+
+121, 1	265, 1-4	CYW	ni crempog arnat ti	---	NSNT
+
+
+122, 1	266, 1-7	AWE	*oh* mae yn sôn am y crempog	---	NST
+
+
+123, 1	267, 1-1	BEL	ti	NSNT	NSNT
+123, 2	268, 1-8	BEL	ti wedi roi crempog ar fy mhen *yeah*	NST	NST
+123, 3	270, 1-7	BEL	mae gen ti yn gallu defnyddio dy	NSNT	NSNT
+123, 4	270, 8-16	BEL	cwsg dy *er* clwt i wneud *lot* o pethau	NST	NST
+123, 5	271, 1-2	BEL	mae gallu	NSNT	NSNT
+123, 6	271, 3-5	BEL	bod yn cwningen	NSNT	NSNT
+123, 7	272, 1-2	BEL	mae gallu	NSNT	NSNT
+123, 8	272, 3-7	BEL	bod crempog ar ben *dad*	NST	NST
+123, 9	273, 1-2	BEL	mae yn	NSNT	NSNT
+123, 10	273, 3-10	BEL	mae yn gallu helpu ti mynd i cysgu	---	NSNT
+
+
+124, 1	274, 1-13	AWE	ar_gyfer hyn wnaeth y computer falu ar_ôl y tro cynta diwrnod cynta *yeah*	---	ST
+
+
+125, 1	275, 1-1	CYW	*mam*	---	NST
+
+
+126, 1	277, 1-7	BEL	*yeah* oedd y laptop ddim yn gweithio	---	ST
+
+
+127, 1	278, 1-1	CYW	*mam*	---	NST
+
+
+128, 1	279, 1-7	AWE	*mam* yn wedi mae cyfrifiadur wedi torri	---	NST
+
+
+129, 1	281, 1-5	BEL	ac o'n i isie deud	---	NSNT
+
+
+130, 1	282, 1-4	CYW	mae *dad* yn poeni	---	NST
+
+
+131, 1	283, 2-3	AWE	mae poeni	---	NSNT
+
+
+132, 1	284, 1-3	BEL	o'n i poeni	NSNT	NSNT
+132, 2	285, 1-8	BEL	ond *er* dw i ddim yn *sure* beth	NST	NST
+132, 3	286, 1-9	BEL	oedd e yn rywbeth i wneud efo charger fe	---	SNT
+
+
+133, 1	287, 1-7	AWE	ond *dad* wnaeth drwsio fo yn diwedd	---	NST
+
+
+134, 1	289, 1-6	BEL	oedd y cerrynt yn *er* anghywir	NST	NST
+134, 2	290, 1-6	BEL	ond does gen i ddim clem	NSNT	NSNT
+134, 3	290, 7-10	BEL	sut wnes i fo	NSNT	NSNT
+134, 4	291, 1-13	BEL	ond *er* dw i yn barod i cymryd y *credit* i_gyd ar_gyfer fo	NST	NST
+134, 6	293, 1-3	BEL	a ond *er*	---	NST
+
+
+135, 1	294, 1-5	AWE	because cwbl ddeudodd y bobl	SNT	SNT
+135, 2	295, 1-7	AWE	take it *back* to your own country	ST	NST
+135, 3	296, 1-5	AWE	oedd ddim *lot* o *help*	---	NST
+
+
+136, 1	297, 1-16	BEL	ond dwedodd y *boy* yn *er* *Pen_y_groes* yr un peth pythefnos yn_ôl pan crash_odd fy cyfrifiadur	---	ST
+
+
+137, 1	298, 1-5	AWE	fasa chdi mynd yn_ôl i	---	NSNT
+
+
+138, 1	299, 1-3	BEL	it's no *use*	NST	NST
+138, 2	300, 1-6	BEL	send it *back* to the *manufacturer*	ST	NST
+138, 4	302, 1-6	BEL	ond es i lawr i *Porthmadog*	NST	NST
+138, 5	303, 1-9	BEL	a achubodd yr *um* y *boy* yr hard *disks*	ST	ST
+138, 6	304, 2-9	BEL	oedd hwn yn da iawn cael y gwybodaeth	---	NSNT
+
+
+139, 1	305, 1-6	AWE	ti isio fi orffen wneud *Jac_y_Jwc*	NST	NST
+139, 3	308, 1-3	AWE	pa le gorau	NSNT	NSNT
+139, 4	309, 1-4	AWE	oedda chdi licio *Mont_Saint_Michel*	---	NST
+
+
+140, 1	310, 1-3	BEL	*um* nid really	ST	ST
+140, 2	311, 1-6	BEL	fel rai pethau eraill yn gwell	NSNT	NSNT
+140, 4	313, 1-9	BEL	o'n i lico *Rennes* yn yn *er* yn arw	NST	NST
+140, 7	316, 1-6	BEL	oedd e yn pentre *nice* iawn	---	NST
+
+
+141, 1	317, 1-6	AWE	*sht* be ydy yr sŵn yna	NST	NST
+141, 2	318, 1-4	AWE	mae rywun yn curo	---	NSNT
+
+
+142, 1	319, 1-5	BEL	*oh* a ti yn cofio	NST	NST
+142, 2	321, 1-5	BEL	ar ar y ffordd yna	NSNT	NSNT
+142, 3	322, 1-17	BEL	o'n i wedi o'n i ar y pryd o'n i trefnu *er* ymweliad gan rywun o *Nicaragua*	NST	NST
+142, 4	323, 1-2	BEL	ac *er*	---	NST
+
+
+143, 1	324, 1-1	CYW	sbia	---	NSNT
+
+
+144, 1	325, 1-8	BEL	ar y ffordd yna tsieciais i fy e_bost	---	NSNT
+
+
+145, 1	326, 1-3	CYW	ni fan yna	NSNT	NSNT
+145, 2	327, 1-3	CYW	ni fan yna	---	NSNT
+
+
+146, 1	328, 1-4	BEL	a dwedodd y *boy*	NST	NST
+146, 2	329, 1-8	BEL	dw i ddim wedi clywed gan unrhyw un	---	NSNT
+
+
+147, 1	330, 1-3	CYW	ni fan yna	NSNT	NSNT
+147, 2	331, 1-3	CYW	ni fan yna	---	NSNT
+
+
+148, 1	332, 1-1	AWE	*gafe*	---	NST
+
+
+149, 1	335, 1-2	BEL	sbïwch cyfrifiadur	NSNT	NSNT
+149, 2	336, 1-8	BEL	o'n i tsiecio fy e_bost a *cafe* yna	NST	NST
+149, 3	337, 1-6	BEL	a ces i e_bost i deud	NSNT	NSNT
+149, 4	338, 1-5	BEL	dw i ddim yn dod	NSNT	NSNT
+149, 5	339, 1-6	BEL	dw i ddim yn dod oherwydd	NSNT	NSNT
+149, 6	339, 7-13	BEL	does neb wedi llogi fy tocyn awyr	NSNT	NSNT
+149, 7	339, 14-14	BEL	awyren	SNT	NSNT
+149, 8	340, 1-1	BEL	*so*	---	NST
+
+
+150, 1	341, 1-6	AWE	pwy sy yn cysgu fan yna	---	NSNT
+
+
+151, 1	342, 1-3	BEL	o'n i wedi	---	NSNT
+
+
+152, 1	343, 1-1	CYW	*dad*	---	NST
+
+
+153, 1	344, 1-3	BEL	*oh* dim cysgu	NST	NST
+153, 2	345, 1-4	BEL	dw wedi ffeintio oherwydd	NSNT	NSNT
+153, 3	345, 5-10	BEL	dw i wedi cael y newyddion	---	NSNT
+
+
+154, 1	346, 1-5	AWE	oedd o ddim yn cysgu	---	NSNT
+
+
+155, 1	347, 1-1	BEL	a	---	NSNT
+
+
+156, 1	348, 1-5	AWE	oedd o yn cysgu mewn	NSNT	NSNT
+156, 2	349, 1-7	AWE	oeddet ti yn cysgu yn gwely ti	---	NSNT
+
+
+157, 1	350, 1-2	BEL	a methodd	NSNT	NSNT
+157, 2	350, 3-8	BEL	methodd y gweithiwr yn *Nicaragua* i	---	NST
+
+
+158, 1	351, 1-2	AWE	i ddod	---	NSNT
+
+
+159, 1	352, 1-4	BEL	i *er* llogi tocyn	NST	NST
+159, 2	353, 1-2	BEL	*so* o'n	---	NST
+
+
+160, 1	354, 1-3	AWE	yn poeni yn_doeddechd	---	NSNT
+
+
+161, 1	355, 1-7	BEL	o'n i tipyn bach *upset* am wythnos	---	NST
+
+
+162, 1	356, 1-3	CYW	yn *car* *Noddy*	---	NST
+
+
+163, 1	357, 1-13	BEL	oedd gen i dipyn bach o pethau eisiau digwydd yn ystod y gwyliau	---	NSNT
+
+
+164, 1	358, 1-4	CYW	ni yn *car* *Noddy*	---	NST
+
+
+165, 1	359, 1-4	AWE	*car* *Noddy* ydy hwnna	---	NST
+
+
+166, 1	361, 1-9	BEL	ar_ôl ar_ôl trychineb yr e_bost aethon ni i *Rennes*	NST	NST
+166, 2	362, 1-13	BEL	a aeth *Cywryd* ar yr *um* y *train* a *car* ar y *carousel*	NST	NST
+166, 3	363, 1-6	BEL	cawson ni *lot* o paneidiau fach	NST	NST
+166, 4	364, 1-4	BEL	aethon ni i *cafe*	---	NST
+
+
+167, 1	365, 1-5	AWE	o'n i licio *Rennes* hefyd	---	NST
+
+
+168, 1	367, 1-5	BEL	ac *um* oedd *um* lluniau	---	NST
+
+
+169, 1	368, 2-5	AWE	mae yna rywun curo	---	NSNT
+
+
+170, 1	369, 1-3	BEL	lluniau yr *um*	---	NST
+
+
+171, 1	370, 1-6	AWE	be ti meddwl mae wneud *Cywryd*	---	NST
+
+
+172, 1	371, 1-12	BEL	*Sebastio_Salgado* yr *er* ffotograffydd o *er* *Brazil* yn yr *um* prif *square*	NST	NST
+172, 2	372, 1-7	BEL	ac oedd e tipyn bach o cyd_ddigwyddiad	NSNT	NSNT
+172, 3	373, 1-10	BEL	oherwydd welson ni arddangosfa o ei *um* *er* gwaith yn	NST	NST
+172, 4	374, 1-6	BEL	*eh* paid â chwarae fan yna	NST	NST
+172, 5	375, 1-9	BEL	yn *er* yn Llundain ar ffordd i gwyliau arall	NST	NST
+172, 6	377, 1-3	BEL	*so* bob tro	NST	NST
+172, 7	377, 4-8	BEL	dan ni mynd ar gwyliau	NSNT	NSNT
+172, 8	377, 9-14	BEL	dan ni yn weld lluniau *Sebastio*	ST	NST
+172, 11	380, 1-1	BEL	*Sebastio_Salgado*	---	NST
+
+
+173, 1	381, 1-5	AWE	*oh* ti yn cofio hwnna	---	NST
+
+
+174, 1	382, 1-4	BEL	a be ydy o	---	NSNT
+
+
+175, 1	383, 1-8	AWE	ieir yn yr *er* *er* yn y farchnad	NST	NST
+175, 2	384, 1-6	AWE	oedden nhw yn gwerthu ieir byw	NSNT	NSNT
+175, 3	384, 7-7	AWE	doedden	---	NSNT
+
+
+176, 1	386, 1-6	BEL	oedd *Cywryd* isie dod adre wedyn	---	NST
+
+
+177, 1	387, 1-10	AWE	a oedd un iâr yn gwthio ei phen trwy twll	NSNT	NSNT
+177, 2	387, 11-16	AWE	doedd i ddeud *hello* wrtha chdi	---	NST
+
+
+178, 1	388, 1-1	BEL	a	---	NSNT
+
+
+179, 1	389, 1-9	AWE	be mae nhw wneud yn fan yna ti meddwl	NSNT	NSNT
+179, 2	390, 1-4	AWE	be mae nhw wneud	---	NSNT
+
+
+180, 1	391, 1-3	CYW	sŵn twrw mawr	---	NSNT
+
+
+181, 1	392, 1-4	AWE	twrw taro mawr *yeah*	---	NST
+
+
+182, 1	393, 1-6	BEL	ti cofio dynes yn y llun	---	NSNT
+
+
+183, 1	396, 1-6	AWE	mae hynna braidd yn anodd hefyd	NSNT	NSNT
+183, 2	396, 7-7	AWE	dydy	---	NSNT
+
+
+184, 1	398, 1-13	CYW	mae yna fan yna fi yn y yn y tywod yn y tywod	---	NSNT
+
+
+185, 1	399, 1-7	BEL	mae *Cywryd* yn chwarae yn y tywod	NST	NST
+185, 2	400, 1-9	BEL	ond mae yr *park* yn braidd yn *um* moel	NST	NST
+185, 3	401, 1-11	BEL	ddim yn credu mewn gwair dw i meddwl yn y parciau	---	NSNT
+
+
+186, 1	402, 1-4	AWE	tro cynta i ni	NSNT	NSNT
+186, 3	404, 1-12	AWE	a ti yn cysgu ar y ysgwyddau *dad* yn fan yna dwyt	---	NST
+
+
+187, 1	405, 1-6	BEL	tro cynta mae hwn wedi digwydd	NSNT	NSNT
+187, 2	406, 1-5	BEL	oedd ti yn cysgu cysgu	---	NSNT
+
+
+188, 1	408, 1-5	AWE	a dan ni ffeindio wan	NSNT	NSNT
+188, 2	408, 6-9	AWE	bod o yn haws	NSNT	NSNT
+188, 3	408, 10-12	AWE	dydy difyrru fo	NSNT	NSNT
+188, 4	408, 13-20	AWE	bod ti yn cael rywbeth i ddifyrru *Cywryd*	---	NST
+
+
+189, 1	409, 1-10	BEL	*um* dw i meddwl y prif beth wedi difyrru *Cywryd*	NST	NST
+189, 2	409, 11-13	BEL	oedd c_d *Wil_wrth_y_Wal*	ST	ST
+189, 3	411, 1-6	BEL	plant yn canu be gawson ni	---	NSNT
+
+
+190, 1	413, 1-2	AWE	trwy gwyliau	---	NSNT
+
+
+191, 1	414, 1-6	BEL	ti cofio plant plant yn canu	NSNT	NSNT
+191, 2	415, 1-5	BEL	sut mae *Wil_yn_y_Wal* yn mynd	---	NST
+
+
+192, 1	416, 1-3	CYW	ffwrdd â chi	---	NSNT
+
+
+193, 1	417, 1-4	BEL	ffwrdd â chi deud	NSNT	NSNT
+193, 2	418, 1-7	BEL	a ti gallu canu un o caneuon	---	NSNT
+
+
+194, 1	420, 1-2	AWE	*story* wir	---	NST
+
+
+195, 1	421, 1-1	CYW	wir	---	NSNT
+
+
+196, 1	422, 1-2	BEL	*story* wir	NST	NST
+196, 3	424, 1-9	BEL	a cawson ni hynny *er* can mil o weithiau	---	NST
+
+
+197, 1	425, 1-8	AWE	dw i yn clywed yr tâp cysylltu efo	---	NSNT
+
+
+198, 1	426, 1-8	BEL	*so* *oh* hon oedd y llun llun gorau	---	NST
+
+
+199, 1	427, 1-3	AWE	dw i meddwl	NSNT	NSNT
+199, 2	427, 4-6	AWE	bod ni lwcus	NSNT	NSNT
+199, 3	427, 7-12	AWE	bod o mynd *round* *um* orielau	NST	NST
+199, 4	428, 1-3	AWE	ti cael llun	NSNT	NSNT
+199, 5	429, 1-6	AWE	mae o isio ffeindio yr llun	NSNT	NSNT
+199, 6	430, 1-6	AWE	ond chwarae teg mae o yn	---	NSNT
+
+
+200, 1	431, 1-9	BEL	ond dw i yn lico yr *um* celfyddydau Llydaw	NST	NST
+200, 2	432, 1-7	BEL	ond *er* tro cynta aeth ni yna	NST	NST
+200, 3	432, 8-16	BEL	aethon ni *er* i weld yr *um* gwaith *Henri_Rivière*	NST	NST
+200, 4	432, 17-18	BEL	sy yn	---	NSNT
+
+
+201, 1	433, 1-1	CYW	edrych	NSNT	NSNT
+201, 2	435, 1-1	CYW	nhw	---	NSNT
+
+
+202, 1	436, 1-3	BEL	*um* ac yn	---	NST
+
+
+203, 1	437, 1-1	CYW	nhw	---	NSNT
+
+
+204, 1	438, 1-5	BEL	mae rywbeth japanëeg amdano fo	---	NSNT
+
+
+205, 1	440, 1-1	CYW	nhw	---	NSNT
+
+
+206, 1	441, 1-3	AWE	dyna ti hwnna	NSNT	NSNT
+206, 2	441, 4-6	AWE	ydy yr llun	NSNT	NSNT
+206, 3	442, 1-5	AWE	*yeah* nhw yn fan yna	---	NST
+
+
+207, 1	443, 1-2	BEL	a hwn	---	NSNT
+
+
+208, 1	444, 1-3	AWE	oedd ffefryn fi	---	NSNT
+
+
+209, 1	445, 1-2	BEL	a fi	NSNT	NSNT
+209, 2	447, 1-2	BEL	a *Cywryd*	---	NST
+
+
+210, 1	448, 1-2	AWE	cofio hwn	NSNT	NSNT
+210, 2	449, 1-5	AWE	mae o ar yr *um*	---	NST
+
+
+211, 1	450, 1-2	BEL	ti cofio	NSNT	NSNT
+211, 2	451, 1-3	BEL	prynon ni hwn	---	NSNT
+
+
+212, 1	452, 1-1	AWE	*mat*	---	NST
+
+
+213, 1	453, 1-6	BEL	ti yn cofio yr lle yma	NSNT	NSNT
+213, 2	454, 1-3	BEL	dw i cofio	NSNT	NSNT
+213, 3	455, 1-3	BEL	aethon ni yna	NSNT	NSNT
+213, 4	456, 1-7	BEL	aethon ni i farchnad yn y bore	NSNT	NSNT
+213, 5	457, 1-4	BEL	a o_gwmpas y marchnad	NSNT	NSNT
+213, 6	458, 1-6	BEL	oedd y farchnad yn anferth *er*	---	NST
+
+
+214, 1	459, 1-5	CYW	a fi ar y *motorbike*	---	NST
+
+
+215, 1	460, 1-4	BEL	*lot* o llefydd gwahanol	---	NST
+
+
+216, 1	461, 1-2	AWE	watsia di	---	NSNT
+
+
+217, 1	462, 1-4	BEL	paid â wneud hynny	---	NSNT
+
+
+218, 1	463, 1-4	CYW	sbia fi ar *motorbike*	---	NST
+
+
+219, 1	464, 1-5	BEL	fe aeth hi ar *motorbike*	NST	NST
+219, 2	465, 1-2	BEL	a aeth	NSNT	NSNT
+219, 3	466, 1-6	BEL	be digwyddodd yn y lle yma	---	NSNT
+
+
+220, 1	467, 1-4	CYW	*well* *eh* *Cywryd* gyda	---	NST
+
+
+221, 1	469, 1-3	AWE	hufen iâ mawr	---	NSNT
+
+
+222, 1	470, 1-3	BEL	dyn hufen iâ	NSNT	NSNT
+222, 2	471, 1-10	BEL	dw ddim yn weld *lot* o dynion hufen iâ o_gwmpas	NST	NST
+222, 3	472, 1-3	BEL	cawson ni crempog	NSNT	NSNT
+222, 7	476, 1-7	BEL	*yeah* beth oedd *nice* am *er* *Dinan*	NST	NST
+222, 8	476, 8-10	BEL	oedd y holl	NSNT	NSNT
+222, 9	476, 11-16	BEL	oedd y holl lle yn hen	NSNT	NSNT
+222, 10	477, 1-7	BEL	wedi cadw yr *er* y pentre i_gyd	---	NST
+
+
+223, 1	478, 1-13	AWE	fan yna aethon ni ar_ôl *Dinan* *yeah* i bentre bach del del del	---	NST
+
+
+224, 1	479, 1-2	BEL	*yeah* trwy	---	NST
+
+
+225, 1	480, 1-7	AWE	a wnest ti weld pwll nofio yna	---	NSNT
+
+
+226, 1	482, 1-10	BEL	*well* aethon ni wrth yr *um* hen *er* quay cynta	NST	ST
+226, 2	482, 11-18	BEL	pan oedd *Cywryd* yn cysgu yn y *car*	NST	NST
+226, 3	483, 1-5	BEL	oedd hwnna yn defnyddiol iawn	NSNT	NSNT
+226, 4	484, 1-9	BEL	oedd *Cywryd* yn cysgu yn y *car* bob pnawn	NST	NST
+226, 5	484, 10-12	BEL	dan ni mynd	NSNT	NSNT
+226, 6	485, 1-6	BEL	*eh* *eh* *eh* *yeah* aros wan	---	NST
+
+
+227, 1	486, 1-5	CYW	dan ni ar y tywod	---	NSNT
+
+
+228, 1	487, 1-2	BEL	cawson ni	---	NSNT
+
+
+229, 1	488, 1-10	AWE	o'n i ddim cofio na yr un diwrnod oedd o	---	NSNT
+
+
+230, 1	489, 1-5	BEL	paned wrth yr afon *Rance*	NST	NST
+230, 2	491, 1-13	BEL	ac *um* do'n i ddim yn gwybod unrhyw beth am yr ardal ar_wahân	NST	NST
+230, 4	493, 1-5	BEL	pan o'n i wneud *er*	NST	NST
+230, 6	495, 1-2	BEL	fy ngradd	---	NSNT
+
+
+231, 1	498, 1-3	CYW	wedi ffeindio hwnna	---	NSNT
+
+
+232, 1	499, 1-5	BEL	mae yr barrage yn *Rance*	---	ST
+
+
+233, 1	500, 1-4	CYW	*oh* *eh* isio hwnna	---	NST
+
+
+234, 1	502, 1-10	BEL	sef barrage *er* ynni *er* o yr yr *um* llanw	---	ST
+
+
+235, 1	503, 1-4	CYW	*eh* fi isio hwnna	NST	NST
+235, 2	504, 1-4	CYW	na ddim isio hwnna	---	NSNT
+
+
+236, 1	506, 1-12	BEL	a mae mwy neu lai yn yr unig un yn y byd	---	NSNT
+
+
+237, 1	508, 1-4	AWE	dim hwnna ydy o	---	NSNT
+
+
+238, 1	511, 1-15	BEL	ac oedden nhw yn sôn am wneud yr un peth efo yr *er* afon *um*	NST	NST
+238, 3	513, 1-4	BEL	Hafren ar y pryd	NSNT	NSNT
+238, 4	514, 1-6	BEL	ond dydyn ddim wedi wneud o	NSNT	NSNT
+238, 5	515, 1-4	BEL	*so* wnaethon ni camgymeriad	NST	NST
+238, 6	516, 1-5	BEL	yn aethon ni ar goll	NSNT	NSNT
+238, 8	518, 1-7	BEL	a cyrhaeddon ni yn pentre bach arall	---	NSNT
+
+
+239, 1	519, 1-1	AWE	sbia	NSNT	NSNT
+239, 2	520, 1-3	AWE	ti cofio hwnna	---	NSNT
+
+
+240, 1	522, 1-1	BEL	sef	NSNT	NSNT
+240, 2	523, 1-5	BEL	beth oedd enw y pentre	---	NSNT
+
+
+241, 1	525, 1-2	CYW	*Cywryd* yn	---	NST
+
+
+242, 1	526, 1-4	BEL	mae *mam* yn cuddio	NST	NST
+242, 2	527, 1-5	BEL	beth oedd enw yr pentre	NSNT	NSNT
+242, 3	528, 1-1	BEL	pentre	---	NSNT
+
+
+243, 1	529, 1-5	AWE	dw i ddim yn cofio	---	NSNT
+
+
+244, 1	531, 1-3	CYW	pentre *er* bach	---	NST
+
+
+245, 1	532, 1-4	BEL	ti ddim wedi wneud	---	NSNT
+
+
+246, 1	534, 1-6	AWE	be wnaeth *Cywryd* yn fan yna	---	NST
+
+
+247, 1	535, 1-4	CYW	yn y pwll nofio	---	NSNT
+
+
+248, 1	536, 1-3	AWE	be wnest ti	NSNT	NSNT
+248, 2	537, 1-2	AWE	pwll nofio	---	NSNT
+
+
+249, 1	538, 1-4	BEL	*well* dwedaist dwedaist ti	NST	NST
+249, 2	539, 1-8	BEL	dw i isie mynd yn y pwll nofio	NSNT	NSNT
+249, 3	540, 1-5	BEL	a dwedodd *mam* a *dad*	NST	NST
+249, 4	541, 1-2	BEL	*well* mae	NST	NST
+249, 5	541, 3-9	BEL	gynnon ni *costumes* yn cefn y *car*	NST	NST
+249, 6	542, 1-6	BEL	*so* dan ni gallu mynd i_mewn	NST	NST
+249, 7	543, 1-7	BEL	ond *er* oedd e tipyn bach oer	---	NST
+
+
+250, 1	544, 1-7	AWE	pwy aeth i yr dŵr yn diwedd	---	NSNT
+
+
+251, 1	545, 1-1	CYW	*Cywryd*	---	NST
+
+
+252, 1	546, 1-1	AWE	naddo	NSNT	NSNT
+252, 2	546, 2-5	AWE	wnest ti ddim mynd	---	NSNT
+
+
+253, 1	547, 1-5	BEL	na oedd ti yn crio	NSNT	NSNT
+253, 2	547, 6-9	BEL	oeddet *er* ar ochr	---	NST
+
+
+254, 1	548, 1-5	AWE	*dad* a *mam* aeth i_mewn	---	NST
+
+
+255, 1	549, 1-9	CYW	sbia *dad* a *mam* a *dad* wedi i pwll	---	NST
+
+
+256, 1	550, 1-3	BEL	*dad* yn pwll	---	NST
+
+
+257, 1	551, 1-5	AWE	a *mam* yn y pwll	---	NST
+
+
+258, 1	552, 1-4	BEL	*mam* yn y pwll	NST	NST
+258, 2	553, 1-4	BEL	a lle mae *Cywryd*	---	NST
+
+
+259, 1	554, 1-3	CYW	ar y boncyff	---	NSNT
+
+
+260, 1	555, 1-3	BEL	ar y boncyff	---	NSNT
+
+
+261, 1	556, 1-4	AWE	a be ydy hwnna	NSNT	NSNT
+261, 3	558, 1-2	AWE	sgodyn *yeah*	NST	NST
+261, 4	559, 1-7	AWE	oedd dim sgodyn yn y dŵr chwaith	---	NSNT
+
+
+262, 1	560, 1-10	BEL	ond ti dal ddim yn gallu cofio lle oedd o	---	NSNT
+
+
+263, 1	561, 1-3	AWE	ta dim yn	NSNT	NSNT
+263, 2	562, 1-3	AWE	lle ti isio	---	NSNT
+
+
+264, 1	563, 1-1	BEL	rywbeth	---	NSNT
+
+
+265, 1	564, 1-9	AWE	i feddwl bod ni wedi gwneud cyn_lleied o ymchwil	NSNT	NSNT
+265, 2	564, 10-12	AWE	oedden ni lwcus	NSNT	NSNT
+265, 3	564, 13-13	AWE	doedden	---	NSNT
+
+
+266, 1	565, 1-5	BEL	*eh* *eh* speak for yourself	ST	NST
+266, 3	567, 1-9	BEL	wnes i *lot* o ymchwil diolch yn fawr iawn	---	NST
+
+
+267, 1	568, 1-9	AWE	mae *Cywryd* trio roi madfall yn y ngheg i	---	NST
+
+
+268, 1	569, 1-1	CYW	0	---	NSNT
+
+
+269, 1	570, 1-5	AWE	a ti sws iddo fo	---	NSNT
+
+
+270, 1	571, 1-1	CYW	0	---	NSNT
+
+
+271, 1	572, 1-4	AWE	ti licio anifeiliaid dwyt	NSNT	NSNT
+271, 2	573, 1-5	AWE	pa anifail ti licio orau	---	NSNT
+
+
+272, 1	574, 1-2	CYW	*er* hwnna	---	NST
+
+
+273, 1	575, 1-1	AWE	hwnna	NSNT	NSNT
+273, 3	579, 1-9	AWE	mae hwnna yn ymestyn yn hir hir hir hir	NSNT	NSNT
+273, 4	579, 10-10	AWE	dydy	---	NSNT
+
+
+274, 1	580, 1-7	BEL	*so* hwn oedd diwrnod ola dydd Gwener	NST	NST
+274, 2	581, 1-6	BEL	a dw ddim yn gallu cofio	NSNT	NSNT
+274, 3	581, 7-13	BEL	be wnaethon ni ar y dydd Gwener	---	NSNT
+
+
+275, 1	582, 1-4	AWE	ryw amgueddfa oedd hi	---	NSNT
+
+
+276, 1	584, 1-3	BEL	amgueddfa i de	---	NSNT
+
+
+277, 1	585, 1-1	CYW	ffarmwr	---	NSNT
+
+
+278, 1	586, 1-4	BEL	o *Rennes* dw meddwl	NST	NST
+278, 2	587, 1-2	BEL	oedd hynna	NSNT	NSNT
+278, 3	588, 1-5	BEL	*so* oedd ni gyrru yna	---	NST
+
+
+279, 1	589, 1-1	AWE	ffarmwr	---	NSNT
+
+
+280, 1	590, 1-11	BEL	*so* un peth arall dw i yn lico amdano fo *er*	NST	NST
+280, 2	590, 12-18	BEL	does dim angen i gyrru yn pell	---	NSNT
+
+
+281, 1	591, 1-2	AWE	nag oes	---	NSNT
+
+
+282, 1	592, 1-18	BEL	beth ar y gwyliau cynta yna hefyd ti gallu gyrru tri chwarter awr mwy lai i weld popeth	NSNT	NSNT
+282, 2	593, 1-7	BEL	*so* aethon ni i weld yr amgueddfa	NST	NST
+282, 3	594, 1-7	BEL	a be welest ti yn yr amgueddfa	NSNT	NSNT
+282, 4	595, 1-2	BEL	ti cofio	---	NSNT
+
+
+283, 1	596, 1-1	CYW	ffarmwr	---	NSNT
+
+
+284, 1	597, 1-1	BEL	ffarmwr	---	NSNT
+
+
+285, 1	598, 1-1	AWE	a	---	NSNT
+
+
+286, 1	599, 1-3	BEL	a beth arall	---	NSNT
+
+
+287, 1	600, 1-2	CYW	a buwch	---	NSNT
+
+
+288, 1	601, 1-3	BEL	buwch a be	NSNT	NSNT
+288, 2	602, 1-2	BEL	beth arall	---	NSNT
+
+
+289, 1	603, 1-1	CYW	chwaden	---	NSNT
+
+
+290, 1	604, 1-2	BEL	chwiaid *yeah*	---	NST
+
+
+291, 1	606, 1-1	CYW	chwiaid	---	NSNT
+
+
+292, 1	607, 1-1	BEL	chwiaid	NSNT	NSNT
+292, 2	608, 1-7	BEL	a oedd hwnna yn *um* diddorol hefyd	---	NST
+
+
+293, 1	610, 1-1	CYW	*tractor*	---	NST
+
+
+294, 1	612, 1-5	BEL	ŷd dw i meddwl a	NSNT	NSNT
+294, 2	612, 6-10	BEL	be mae *combine* yn gallu	NST	NST
+294, 3	613, 1-7	BEL	ac mae *person* yn gallu wneud un	NST	NST
+294, 4	613, 8-10	BEL	uned mewn awr	NSNT	NSNT
+294, 5	614, 1-4	BEL	beth bynnag oedd hynny	NSNT	NSNT
+294, 6	615, 1-9	BEL	a mae *combine* yn gallu wneud cant a dau	---	NST
+
+
+295, 1	616, 1-9	AWE	o ran y yn fan yna dw i meddwl	NSNT	NSNT
+295, 2	616, 10-19	AWE	bod hwnna wedi egluro well na dim_byd i fi pam	NSNT	NSNT
+295, 3	616, 20-27	AWE	oedd dim angen gweithwyr ar_ôl i *tractor* ddod	NST	NST
+295, 4	618, 1-1	AWE	dyna	NSNT	NSNT
+295, 5	618, 2-4	AWE	sut wnaeth collapse_o	SNT	SNT
+295, 7	620, 1-7	AWE	oedd dim angen *um* gweision ffermydd wedyn	---	NST
+
+
+296, 1	622, 1-5	BEL	ond oedd e ffeithiol iawn	NSNT	NSNT
+296, 2	623, 1-8	BEL	ond oedd yr amgueddfa i_gyd yn dda iawn	---	NSNT
+
+
+297, 1	624, 1-2	AWE	anifeiliaid ond	NSNT	NSNT
+297, 2	625, 1-4	AWE	anifeiliaid oedd fwya *yeah*	---	NST
+
+
+298, 1	626, 1-1	CYW	*Cywryd*	ST	NST
+298, 2	627, 1-3	CYW	*Cywryd* ben i_lawr	---	NST
+
+
+299, 1	628, 1-7	AWE	ti ar ben lawr yn fan yna	NSNT	NSNT
+299, 2	629, 1-5	AWE	a beth honna fan yna	---	NSNT
+
+
+300, 1	630, 1-1	CYW	gafr	---	NSNT
+
+
+301, 1	632, 1-4	AWE	gafr go iawn efo	---	NSNT
+
+
+302, 1	633, 1-9	BEL	ond pam pam oedd *dad* yn gwisgo het yna	NST	NST
+302, 2	633, 10-14	BEL	dw i ddim yn gwybod	---	NSNT
+
+
+303, 1	634, 1-2	CYW	het *Wil_ar_y_Wal*	---	NST
+
+
+304, 1	635, 1-2	BEL	het *Wil_wrth_y_Wal*	NST	NST
+304, 2	636, 1-2	BEL	dyna pam	---	NSNT
+
+
+305, 1	637, 1-9	AWE	a dillad hen *fashion* oedda chdi gorod gwisgo rheina	NST	NST
+305, 2	638, 1-6	AWE	a be oedd yna fan hyn	NSNT	NSNT
+305, 3	639, 1-13	AWE	oedd yna ddim ryw gwningen ac o'n i yn trio tynnu llun hi	---	NSNT
+
+
+306, 1	640, 1-1	CYW	dafad	---	NSNT
+
+
+307, 1	641, 2-5	BEL	oedd cwningen tu allan	---	NSNT
+
+
+308, 1	642, 1-2	AWE	dafad *yeah*	---	NST
+
+
+309, 1	643, 1-3	BEL	yn redeg o_gwmpas	NSNT	NSNT
+309, 4	646, 1-2	BEL	dyna fo	---	NSNT
+
+
+310, 1	647, 1-4	AWE	dyna hi yr gwningen	---	NSNT
+
+
+311, 1	648, 1-4	BEL	ti cofio cwningen sboncian	---	NSNT
+
+
+312, 1	649, 1-3	CYW	*eh* dal cwningen	---	NST
+
+
+313, 1	650, 1-7	AWE	wnest ti ddim dal hi yn diwedd	---	NSNT
+
+
+314, 1	651, 1-10	BEL	ac am rhyw reswm oedd *Cywryd* yn *um* ben i_lawr	---	NST
+
+
+315, 1	654, 1-5	CYW	*oh* *eh* ni fan yna	---	NST
+
+
+316, 1	655, 1-6	BEL	pam oedd ti yn ben i_lawr	---	NSNT
+
+
+317, 1	656, 1-2	CYW	ben i_lawr	---	NSNT
+
+
+318, 1	657, 1-7	AWE	a crempogau faint o grempogau gaethon ni	NSNT	NSNT
+318, 2	658, 1-2	AWE	dipyn go_lew	NSNT	NSNT
+318, 3	659, 1-4	AWE	a cacenni do *Cywryd*	---	NST
+
+
+319, 1	660, 1-2	CYW	a hwnna	---	NSNT
+
+
+320, 1	662, 1-3	AWE	*banana* ti fwyta	---	NST
+
+
+321, 1	663, 1-5	BEL	*oh* mae *mam* wedi roi	NST	NST
+321, 2	664, 1-8	BEL	ar y ffordd nôl i *car* penderfynodd *Cywryd*	NST	NST
+321, 3	664, 9-22	BEL	bod golygfa llawer gwell i chael o yr byd trwy edrych arno wyneb i_waered	NSNT	NSNT
+321, 4	665, 1-10	BEL	a be be ti wedi cael sy yn wyneb i_waered	NSNT	NSNT
+321, 6	667, 1-2	BEL	llyfr *Ffred*	---	NST
+
+
+322, 1	668, 1-2	AWE	*Ffred_Wyneb_i_Waered* *yeah*	---	NST
+
+
+323, 1	670, 1-1	BEL	*Ffred_a_yr_Diwrnod_Wyneb_i_Waered*	ST	NST
+323, 2	672, 1-6	BEL	ydw i yn deud ben i_lawr	NSNT	NSNT
+323, 3	673, 1-11	BEL	dy *mam* yn deud wyneb i_waered yw peth cywir i deud	NST	NST
+323, 4	674, 1-3	BEL	a dw meddwl	NSNT	NSNT
+323, 5	674, 4-7	BEL	cest ti crempog yna	NSNT	NSNT
+323, 6	676, 1-9	BEL	gest ti crempog ym bob bob *cafe* yn Llydaw	NST	NST
+323, 7	676, 10-11	BEL	dw meddwl	---	NSNT
+
+
+324, 1	677, 1-6	AWE	crempog yn ran fwya o llefydd	---	NSNT
+
+
+325, 1	678, 1-2	CYW	fan yna	---	NSNT
+
+
+326, 1	680, 1-4	BEL	*cafe* o enw *moustache*	NST	NST
+326, 2	681, 1-3	BEL	enw *odd* *cafe*	---	NST
+
+
+327, 1	682, 1-4	AWE	pen pwy ydy hwnna	---	NSNT
+
+
+328, 1	683, 1-2	CYW	pen *Cywryd*	---	NST
+
+
+329, 1	684, 1-5	AWE	a pwy sy fan yna	---	NSNT
+
+
+330, 1	685, 1-1	CYW	*mam*	---	NST
+
+
+331, 1	687, 1-9	BEL	a hwn oedd y trychineb mwy ar y gwyliau	---	NSNT
+
+
+332, 1	688, 1-1	CYW	castell	---	NSNT
+
+
+333, 1	689, 1-2	AWE	castell *yeah*	---	NST
+
+
+334, 1	690, 1-1	BEL	castell	NSNT	NSNT
+334, 2	691, 1-5	BEL	ac oedd *Cywryd* yn cambihafio	NST	NST
+334, 3	693, 1-14	BEL	ac oedd y dynes y tywysydd yn sbïo arna ni a deud *ssh* Ffrangeg	ST	NST
+334, 5	695, 1-1	BEL	*ssh*	---	NST
+
+
+335, 1	696, 1-6	AWE	aethon ni ddim allan yn diwedd	---	NSNT
+
+
+336, 1	698, 1-6	BEL	oedd pawb arall eisiau ni gadael	NSNT	NSNT
+336, 3	700, 1-9	BEL	ond *um* oedd *Cywryd* yn bang_io bob *case* arddangos	---	ST
+
+
+337, 1	702, 1-4	CYW	*eh* i_mewn i castell	---	NST
+
+
+338, 1	703, 1-6	AWE	*yeah* be wnest ti fan yna	---	NST
+
+
+339, 1	704, 1-1	BEL	a	---	NSNT
+
+
+340, 1	705, 1-1	CYW	chwarae	---	NSNT
+
+
+341, 1	707, 1-1	AWE	*boing*	---	NST
+
+
+342, 1	708, 1-1	BEL	bownsio	NSNT	NSNT
+342, 2	709, 1-5	BEL	ond *um* dw i meddwl	NST	NST
+342, 3	709, 6-16	BEL	deffrodd *Cywryd* bob nos a dod nôl i ein gwely ni	---	NST
+
+
+343, 1	710, 1-3	CYW	*yeah* bownsio bownsio	---	NST
+
+
+344, 1	711, 1-7	BEL	*so* hwnna yn tipyn bach o her	---	NST
+
+
+345, 1	712, 1-4	AWE	ti licio bownsio dwyt	NSNT	NSNT
+345, 2	713, 1-4	AWE	ti fath â *kangaroo*	---	NST
+
+
+346, 1	714, 1-8	BEL	a dan ni wedi cyrraedd y diwrnod ola	NSNT	NSNT
+346, 2	716, 1-5	BEL	a be digwyddodd diwrnod ola	---	NSNT
+
+
+347, 1	717, 1-1	CYW	chwarae	---	NSNT
+
+
+348, 1	718, 1-2	BEL	chwarae *yeah*	---	NST
+
+
+349, 1	719, 1-6	AWE	deud *ta_ta* wrth y tŷ do	---	NST
+
+
+350, 1	720, 1-2	BEL	deud *ta_ta*	NST	NST
+350, 2	721, 1-6	BEL	ac oedden ni yn *um* kenavo	---	ST
+
+
+351, 1	722, 1-2	AWE	kenavo *yeah*	---	NST
+
+
+352, 1	723, 1-4	BEL	be ydy o *ta_ta*	---	NST
+
+
+353, 1	724, 1-1	AWE	*ta_ta*	---	NST
+
+
+354, 1	725, 1-2	BEL	*ta_ta* kenavo	---	NST
+
+
+355, 1	726, 1-11	AWE	wnaethon ni ddim clywed *lot* o Lydaweg yn cael ei siarad	---	NST
+
+
+356, 1	727, 1-2	BEL	ddim *lot*	NST	NST
+356, 2	728, 1-7	BEL	ddim yn siarad *lot* o Lydaweg chwaith	---	NST
+
+
+357, 1	729, 1-3	AWE	welson ni rywun	---	NSNT
+
+
+358, 1	730, 1-6	BEL	*oh* lle mae lluniau wedi mynd	NST	NST
+358, 2	731, 1-11	BEL	a oedd e yn wyth awr wyth awr ar y cwch	NSNT	NSNT
+358, 3	733, 1-4	BEL	oedd e yn hir	---	NSNT
+
+
+359, 1	734, 1-4	AWE	baswn i yn deud	NSNT	NSNT
+359, 2	734, 5-13	AWE	bod sefyllfa Llydaweg dipyn mwy digalon na yr Gymraeg	---	NSNT
+
+
+360, 1	735, 1-4	BEL	dw i yn meddwl	NSNT	NSNT
+360, 2	736, 1-1	BEL	a	---	NSNT
+
+
+361, 1	737, 1-5	AWE	a wnaethon ni gadw hwn	NSNT	NSNT
+361, 2	737, 6-10	AWE	do o yr amgueddfa lluniau	NSNT	NSNT
+361, 4	739, 1-3	AWE	ti gallu deud	NSNT	NSNT
+361, 5	741, 1-3	AWE	be sy yna	---	NSNT
+
+
+362, 1	742, 1-2	CYW	ceffyl sbia	---	NSNT
+
+
+363, 1	743, 1-1	BEL	ceffylau	---	NSNT
+
+
+364, 1	744, 1-7	CYW	ni ni weld rheina do *eh* hwnna	---	NST
+
+
+365, 1	747, 1-3	AWE	be ydy hwnna	---	NSNT
+
+
+366, 1	748, 1-1	CYW	mochyn	---	NSNT
+
+
+367, 1	749, 1-1	AWE	hwnna	NSNT	NSNT
+367, 3	751, 1-2	AWE	ceiliog *yeah*	---	NST
+
+
+368, 1	752, 1-1	CYW	ceffyl	NSNT	NSNT
+368, 2	753, 1-1	CYW	buwch	---	NSNT
+
+
+369, 1	754, 1-1	BEL	buwch	---	NSNT
+
+
+370, 1	755, 1-3	AWE	ddu a gwyn	---	NSNT
+
+
+371, 1	756, 1-2	CYW	*um* dafad	---	NST
+
+
+372, 1	757, 1-1	BEL	dafad	NSNT	NSNT
+372, 2	758, 1-3	BEL	be ydy rein	---	NSNT
+
+
+373, 1	759, 1-1	CYW	afal	---	NSNT
+
+
+374, 1	760, 1-2	BEL	afalau *yeah*	NST	NST
+374, 2	761, 1-4	BEL	a be ydy hwn	---	NSNT
+
+
+375, 1	762, 1-1	CYW	cwpwrdd	---	NSNT
+
+
+376, 1	763, 1-1	BEL	cwpwrdd	NSNT	NSNT
+376, 2	764, 1-4	BEL	wyt ti cofio *film*	NST	NST
+376, 3	764, 5-10	BEL	dan ni wedi weld efo cwpwrdd	---	NSNT
+
+
+377, 1	765, 1-1	CYW	*Narnia*	---	NST
+
+
+378, 1	766, 1-7	BEL	*Narnia* *yeah* oedd *wardrobe* mawr ynddo fo	NST	NST
+378, 2	767, 1-6	BEL	a aeth y blant trwy *wardrobe*	NST	NST
+378, 3	768, 1-7	BEL	a be welson ni yr ochr arall	NSNT	NSNT
+378, 4	769, 1-3	BEL	be welson ni	---	NSNT
+
+
+379, 1	770, 1-1	CYW	eira	---	NSNT
+
+
+380, 1	771, 1-1	BEL	be	NSNT	NSNT
+380, 2	772, 1-1	BEL	eira	NSNT	NSNT
+380, 3	773, 1-3	BEL	a beth arall	NSNT	NSNT
+380, 4	774, 1-6	BEL	beth oedd yn canol yr eira	---	NSNT
+
+
+381, 1	775, 1-2	CYW	*um* dyn	---	NST
+
+
+382, 1	776, 1-1	BEL	dyn	---	NSNT
+383, 2	778, 1-5	AWE	ti licio mynd i *pictures*	---	NST
+
+
+384, 1	780, 1-4	BEL	mae lico diolch byth	---	NSNT
+
+
+385, 1	781, 1-5	AWE	be arall ti wedi weld	---	NSNT
+
+
+386, 1	782, 1-1	CYW	*Wil_ar_y_Wal*	---	NST
+
+
+387, 1	783, 1-4	AWE	*well* *pictures* oedd hwnna	ST	NST
+387, 2	784, 1-1	AWE	*Nanny_McPhee*	---	NST
+
+
+388, 1	786, 1-1	BEL	*Nanny_McPhee*	---	NST
+
+
+389, 1	787, 1-9	AWE	a sut plant da oedd rheina neu plant drwg	---	NSNT
+
+
+390, 1	788, 1-2	CYW	plant drwg	---	NSNT
+
+
+391, 1	789, 1-3	AWE	plant drwg iawn	---	NSNT
+
+
+392, 1	791, 1-4	BEL	plant drwg fel ti	NSNT	NSNT
+392, 2	793, 1-3	BEL	plant drwg fel	NSNT	NSNT
+392, 4	797, 1-6	BEL	plant drwg fel *Alun* a *Mark*	NST	NST
+392, 5	799, 1-7	BEL	ie mae *Alun* a *Mark* yn ddrwg	---	NST
+
+
+393, 1	800, 1-9	AWE	be ydy enw dy ffrindiau di yn yr ysgol	---	NSNT
+
+
+394, 1	801, 1-3	CYW	*um* a *Annie*	---	NST
+
+
+395, 1	802, 1-4	BEL	a beth am yr	---	NSNT
+
+
+396, 1	803, 1-2	AWE	*Vernon* a	---	NST
+
+
+397, 1	804, 1-1	CYW	*Annie*	---	NST
+
+
+398, 1	805, 1-1	AWE	*Annie*	---	NST
+
+
+399, 1	806, 1-7	BEL	a beth am yn ysgol *Auntie* *Sue*	NST	NST
+399, 2	808, 1-1	BEL	pwy	---	NSNT
+
+
+400, 1	809, 1-5	AWE	ti ffrind yn fan yna	---	NSNT
+
+
+401, 1	810, 1-9	BEL	cwrddais i un o nhw bore yma plentyn *Branwen*	---	NST
+
+
+402, 1	811, 1-5	AWE	*oh* be ydy enw fo	---	NST
+
+
+403, 1	812, 1-2	BEL	*er* *Elfyn*	---	NST
+
+
+404, 1	814, 1-1	CYW	*Elfyn*	---	NST
+
+
+405, 1	815, 1-2	BEL	gwybod oedd	---	NSNT
+
+
+406, 1	817, 1-10	AWE	*yeah* *Branwen* ar y cwrs yn y neuadd goffa *yeah*	---	NST
+
+
+407, 1	818, 1-2	BEL	dyna fo	NSNT	NSNT
+407, 2	820, 1-13	BEL	ddim yn gwybod oedd *um* hogyn *Branwen* yn yr *er* yn y feithrinfa	---	NST
+
+
+408, 1	822, 1-3	AWE	ti nabod *Elfyn*	---	NST
+
+
+409, 1	824, 1-5	BEL	ydy *Elfyn* yn hogyn da	NST	NST
+409, 2	826, 1-2	BEL	hogyn clên	---	NSNT
+
+
+410, 1	828, 1-12	AWE	est ti yn dy het plisman i i yr ysgol yn diwedd	NSNT	NSNT
+410, 2	830, 1-5	AWE	oedd plant yn licio hi	---	NSNT
+
+
+411, 1	832, 1-4	BEL	beth ti yn wneud	---	NSNT
+
+
+412, 1	833, 1-2	AWE	nag oedd	---	NSNT
+
+
+413, 1	834, 1-4	CYW	*eh* tynnu het fi	---	NST
+
+
+414, 1	835, 1-5	AWE	*oh* be plant yn trio	---	NST
+
+
+415, 1	836, 1-3	BEL	tynnu dy het	---	NSNT
+
+
+416, 1	837, 1-5	AWE	be plant ei ddosbarth o	---	NSNT
+
+
+417, 1	838, 1-3	BEL	dyna be *oh*	NST	NST
+417, 2	838, 4-4	BEL	dyna	NSNT	NSNT
+417, 3	838, 5-12	BEL	be mae wedi dweud y holl ffordd adre	NSNT	NSNT
+417, 4	839, 1-7	BEL	mae nhw yn tynnu fy het i	NSNT	NSNT
+417, 5	841, 1-7	BEL	oedden nhw yn tynnu fy het i	---	NSNT
+
+
+418, 1	842, 1-9	AWE	oedd *Auntie* *Sue* ddim yn roi *row* iddyn nhw	NST	NST
+418, 2	845, 1-4	AWE	*oh* baswn i yn	NST	NST
+418, 3	846, 1-11	AWE	ella bod ni ddim yn fod i fynd â *stuff* yna	NST	NST
+418, 4	847, 1-7	AWE	ti fod i fynd â het blismon	---	NSNT
+
+
+419, 1	848, 1-1	CYW	yndw	---	NSNT
+
+
+420, 1	849, 1-12	AWE	ond ar_hyd y ffordd pan o'n ni cerdded oedden nhw yn deud	NSNT	NSNT
+420, 2	850, 1-7	AWE	*oh* sut mae yr plisman heddiw yma	NST	NST
+420, 3	851, 1-2	AWE	plisman *smart*	NST	NST
+420, 4	852, 1-5	AWE	a welson ni nain *Martha*	NST	NST
+420, 5	854, 1-6	AWE	a beth oedden nhw yn gofyn	NSNT	NSNT
+420, 6	855, 1-3	AWE	pwy wyt ti	NSNT	NSNT
+420, 7	856, 1-4	AWE	be oeddet ti ddeud	---	NSNT
+
+
+421, 1	857, 1-1	CYW	plisman	---	NSNT
+
+
+422, 1	858, 1-4	AWE	plisman_pod oeddet ti ddeud	---	NSNT
+
+
+423, 1	859, 1-5	BEL	*right* *Cywryd* dw i meddwl	NST	NST
+423, 2	859, 6-9	BEL	dan ni wedi gorffen	---	NSNT
+
+
+424, 1	861, 1-3	AWE	be ydy hwnna	---	NSNT
+
+
+425, 1	862, 1-1	CYW	*tractor*	---	NST
+
+
+426, 1	863, 1-4	AWE	*yeah* hen *dractor* de	---	NST
+
+
+427, 1	867, 1-4	CYW	hwn ydy *um* *um*	---	NST
+
+
+428, 1	868, 1-9	BEL	ar y ffordd yn_ôl oedden ni yn aros yn	NSNT	NSNT
+428, 4	872, 1-2	BEL	oedd e	---	NSNT
+
+
+429, 1	875, 1-4	CYW	*eh* gwneud y *stickers*	---	NST
+
+
+430, 1	876, 1-2	BEL	dim *stickers*	NST	NST
+430, 2	877, 1-7	BEL	mae ryw fath o *poster* gyda ti	---	NST
+
+
+431, 1	878, 1-15	AWE	wna i sticio fo ar dy wal di os ti isio *yeah* yn y llofft	---	NST
+
+
+432, 1	879, 1-5	BEL	a pan cyrhaeddon ni adre	NSNT	NSNT
+432, 2	879, 6-8	BEL	dywedodd dy *fam*	NST	NST
+432, 3	880, 1-9	BEL	o'n ni wedi ffeindio dy sbectol ar mynydd *Grug*	---	NST
+
+
+433, 1	882, 1-3	AWE	*Grug* o'n i	---	NST
+
+
+434, 1	883, 1-7	BEL	a dw i ddim yn credu hi	NSNT	NSNT
+434, 2	884, 1-3	BEL	dw i meddwl	---	NSNT
+
+
+435, 1	885, 1-7	AWE	*oh* dw i weld o yn amhosib	NST	NST
+435, 2	885, 8-15	AWE	bod hi wedi ffeindio nhw ar y mynydd	---	NSNT
+
+
+436, 1	886, 1-2	BEL	a finnau	NSNT	NSNT
+436, 2	887, 1-8	BEL	ond mae dy *fam* yn sneaky fel yna	NST	ST
+436, 3	887, 9-9	BEL	tydy	---	NSNT
+
+
+437, 1	888, 1-6	AWE	ond oedd hi wedi gwirioni phen	---	NSNT
+
+
+438, 1	889, 1-6	BEL	*so* dyna yr diwedd y gwyliau	NST	NST
+438, 2	890, 1-6	BEL	a roedd e yn gwyliau *nice*	NST	NST
+438, 4	892, 1-10	BEL	a ti isie mynd yn_ôl i gwlad y bara hir	NSNT	NSNT
+438, 5	894, 1-4	BEL	da iawn a finnau	---	NSNT
+
+
+439, 1	896, 1-9	AWE	mynd i_lawr i ddechrau a mae o yn mynd	NSNT	NSNT
+439, 2	897, 1-2	AWE	*oh* yli	NST	NST
+439, 3	897, 3-8	AWE	mae yn mynd yn rhes *oops*	NST	NST
+439, 4	899, 1-3	AWE	mae hwnna yn	NSNT	NSNT
+439, 5	899, 4-6	AWE	gwerth ei gael	NSNT	NSNT

@@ -1,0 +1,1698 @@
+1, 1	1, 1-4	LIN	*hmm* yeah dyna ni	---	NST
+
+
+2, 1	2, 1-6	ELI	well es i *lot* o drafferth	NST	NST
+2, 2	3, 1-18	ELI	o'n i wedi deud hanes yr yr african *violet* o'n wedi roid i yr gweinidog i fynd iddi	---	ST
+
+
+3, 1	4, 1-11	LIN	oeddech o'n i yn gweld yn y llythyr gyn um Mrs_Donald_Hughes	NSNT	NSNT
+3, 2	4, 12-17	LIN	bod hi yn cyfeirio at hynny	---	NSNT
+
+
+4, 1	5, 1-6	ELI	oedd yna lythyr Mrs_Donald_Hughes fan yna	---	NSNT
+
+
+5, 1	6, 1-9	LIN	oedd i_mewn efo yr um darn o farddoniaeth yna	---	NSNT
+
+
+6, 1	7, 2-3	ELI	dyna fo	---	NSNT
+
+
+7, 1	8, 1-11	LIN	ac mae hi yn deud rywbeth am yr *er* african *violet*	ST	ST
+7, 2	10, 1-3	LIN	a yr gweinidog	---	NSNT
+
+
+8, 1	11, 1-10	ELI	wedyn es i drafferth wedyn i drio cael un arall	NSNT	NSNT
+8, 3	15, 1-12	ELI	ac o'n nhw wedi deud wrtha i na un *bink* oedd hi	NST	NST
+8, 4	16, 1-12	ELI	o'n i ddim yn disgwyl un *bink* mor dywyll â hynna chwaith	NST	NST
+8, 5	18, 1-5	ELI	a petaswn i yn gwybod	NSNT	NSNT
+8, 6	19, 1-3	ELI	well alla i	NSNT	NSNT
+8, 7	19, 4-10	ELI	roid rhywfaint o o yr un yna	NSNT	NSNT
+8, 8	19, 11-13	ELI	wyt ti wedi	NSNT	NSNT
+8, 9	19, 14-18	ELI	roid i mi medra iddi	---	NSNT
+
+
+9, 1	20, 1-4	LIN	oh medrwch sure iawn	NSNT	NSNT
+9, 3	22, 1-12	LIN	rhaid mi drio cael un o yr rei glas yna gynnoch chi	---	NSNT
+
+
+10, 1	23, 1-3	ELI	rhaid ti be	---	NSNT
+
+
+11, 1	24, 1-12	LIN	rhaid mi gael un o yr rei glas yna gynnoch chi rywbryd	---	NSNT
+
+
+12, 1	25, 1-11	ELI	well ie mae hwnna fan yna i ti fynd efo ti	NSNT	NSNT
+12, 2	27, 1-7	ELI	rho fo yn rywle rhag ti anghofio	---	NSNT
+
+
+13, 1	29, 1-3	LIN	ia wna i	NSNT	NSNT
+13, 2	30, 1-12	LIN	er dan ni ddim yn mynd yn syth adre dydd Llun chwaith	NSNT	NSNT
+13, 3	31, 1-9	LIN	achos dan ni yn gorfod mynd *round* yr Wyddgrug	NST	NST
+13, 4	32, 1-12	LIN	mae Ianto â yr *er* cyfarfod yma yn yr Wyddgrug nos Lun	---	NST
+
+
+14, 1	33, 1-11	ELI	ia fedri di edrych ar ei hôl hi yr un fath	NSNT	NSNT
+14, 2	35, 1-7	ELI	rhoi dipyn lapio hi yn go dda	---	NSNT
+
+
+15, 1	36, 1-1	LIN	bydd	NSNT	NSNT
+15, 2	36, 2-5	LIN	fydd hi yn iawn	NSNT	NSNT
+15, 3	36, 6-6	LIN	bydd	NSNT	NSNT
+15, 4	37, 1-2	LIN	da iawn	---	NSNT
+
+
+16, 1	38, 1-9	ELI	alli di gymryd un o yr um timod rheina	NSNT	NSNT
+16, 2	38, 10-18	ELI	sy gyn i *round* un o rheina fan yna	NST	NST
+16, 3	40, 1-10	ELI	cei gymryd hwnna os lici di *round* *round* y *top*	---	NST
+
+
+17, 1	43, 1-7	LIN	oh ia ia ia mi wna i	NSNT	NSNT
+17, 2	44, 1-9	LIN	mae nhw licio yn tŷ ni yn iawn rheina	NSNT	NSNT
+17, 3	45, 1-10	LIN	dydyn nhw ddim yn cael gormod o haul dw meddwl	---	NSNT
+
+
+18, 1	46, 1-4	ELI	oh ie falle ie	NSNT	NSNT
+18, 2	47, 1-11	ELI	dydyn nhw ddim yn dydyn nhw ddim isio gormod o haul	---	NSNT
+
+
+19, 1	49, 1-11	LIN	na na mae gyn i sawl un yn ei blodau rŵan	---	NSNT
+
+
+20, 1	51, 1-2	ELI	pwy liw	---	NSNT
+
+
+21, 1	52, 1-2	LIN	oes rei	NSNT	NSNT
+21, 2	53, 1-4	LIN	oh dim ond *pink*	NST	NST
+21, 3	54, 1-6	LIN	dim ond y rei *pink* ddoth	NST	NST
+21, 4	55, 1-5	LIN	wnes i gymryd cuttings o	NSNT	SNT
+21, 5	56, 1-11	LIN	wnes i drio cael dail nifer chimod amryw un i wreiddio	---	NSNT
+
+
+22, 1	57, 1-7	ELI	mae gen ti fwy na un *pink*	---	NST
+
+
+23, 1	58, 1-10	LIN	oh ond *er* dim ond yr un *pink* ydy o	NST	NST
+23, 2	59, 1-11	LIN	mae nhw gyd wedi dod oddi_ar yr un planhigyn yn wreiddiol	---	NSNT
+
+
+24, 1	60, 1-10	ELI	ond mae gen ti fwy ohonyn nhw yn eu blodau	---	NSNT
+
+
+25, 1	63, 1-10	LIN	ond wnes i yr un faint o yr dail glas	NSNT	NSNT
+25, 2	64, 1-7	LIN	a ond doth dim un o reiny	NSNT	NSNT
+25, 3	65, 1-4	LIN	neu ddaethon nhw ddim	NSNT	NSNT
+25, 4	65, 5-12	LIN	wnaethon nhw ddim blodeuo yn las beth bynnag	NSNT	NSNT
+25, 5	66, 1-5	LIN	dw i ddim yn gwybod	NSNT	NSNT
+25, 6	66, 6-12	LIN	mae nhw naill_ai ddim wedi blodeuo o_gwbl	NSNT	NSNT
+25, 7	66, 13-19	LIN	neu mae nhw wedi blodeuo yn *bink*	NST	NST
+25, 8	67, 1-3	LIN	na go brin	---	NSNT
+
+
+26, 1	69, 1-12	ELI	baswn i wedi medru cael un *bink* arall gen ti falle i	NST	NST
+26, 2	69, 13-17	ELI	roid i yr ddynes yma	---	NSNT
+
+
+27, 1	70, 1-2	LIN	oh bysech	---	NSNT
+
+
+28, 1	71, 1-12	ELI	well o'n i wedi gweld un ddoe baswn i wedi medru brynu	NSNT	NSNT
+28, 2	71, 13-21	ELI	petaswn i yn gwybod mai un *bink* mor dlws	NST	NST
+28, 3	71, 22-25	ELI	oedd hi wedi gael	NSNT	NSNT
+28, 4	73, 1-7	ELI	oedd yna rei yn *er* *shop* ddoe	NST	NST
+28, 5	75, 1-6	ELI	oedd yna *lot* o rei glas	NST	NST
+28, 6	77, 1-14	ELI	a wedyn o o'n i gweld un *bink* a *lot* o rei *lilac* golau	NST	NST
+28, 7	79, 1-1	ELI	ond	---	NSNT
+
+
+29, 1	81, 1-3	LIN	yeah wnaethoch chi	NSNT	NSNT
+29, 2	81, 4-12	LIN	wnaethoch chi ddechrau cymryd diddordeb yn y blodau yma	NSNT	NSNT
+29, 3	81, 13-18	LIN	pan oeddech chi yn ifanc iawn	---	NSNT
+
+
+30, 1	82, 1-8	ELI	oedd gen i ardd fach adre efo nhad	NSNT	NSNT
+30, 2	84, 1-16	ELI	a a be o'n i ddim yn licio oedd pan o'n i yn dod yn_ôl weithiau	NSNT	NSNT
+30, 3	84, 17-29	ELI	wedi bod yn yr ysgol neu rywle pan o'n i yn dod yn_ôl	NSNT	NSNT
+30, 4	84, 30-31	ELI	oedd nhad	NSNT	NSNT
+30, 5	84, 32-36	ELI	wedi bod yn chwynnu yna	---	NSNT
+
+
+31, 1	86, 1-9	LIN	oeddech chi ddim yn wneud y chwynnu eich hun	NSNT	NSNT
+31, 2	86, 10-11	LIN	mae raid	NSNT	NSNT
+31, 3	86, 12-15	LIN	dach chi yn gweld	---	NSNT
+
+
+32, 1	87, 1-2	ELI	nag oeddwn	NSNT	NSNT
+32, 2	87, 3-4	ELI	mae sure	NSNT	NSNT
+32, 3	88, 1-4	ELI	ond um dw i	NSNT	NSNT
+32, 4	88, 5-11	ELI	wedi bod â diddordeb yn y rardd	NSNT	NSNT
+32, 5	89, 1-3	ELI	a mae yn	NSNT	NSNT
+32, 6	89, 4-15	ELI	mae o yn *er* fath â ryw bleser gen i really rŵan	NST	ST
+32, 7	91, 1-9	ELI	ac oedd *dad* yn licio yr ardd hefyd yn_doedd	---	NST
+
+
+33, 1	93, 1-12	LIN	oedd y garddwr yma ar y *phone* yn swnio yn siaradus iawn	---	NST
+
+
+34, 1	94, 1-3	ELI	*ooh* mae o	NST	NST
+34, 2	95, 1-2	ELI	oedd Jemimah	NSNT	NSNT
+34, 3	96, 1-4	ELI	mae mynd â Jemimah	NSNT	NSNT
+34, 4	96, 5-5	ELI	honna	NSNT	NSNT
+34, 5	96, 6-8	ELI	welais i ddoe	---	NSNT
+
+
+35, 1	97, 1-1	LIN	pwy	NSNT	NSNT
+35, 2	98, 1-8	LIN	oh ia hi oedd yn gweithio efo chi	---	NSNT
+
+
+36, 1	99, 1-2	ELI	ac oedd	NSNT	NSNT
+36, 2	99, 3-6	ELI	oedd hi yn deud	NSNT	NSNT
+36, 3	100, 1-5	ELI	mae yn licio paned yn_dydy	NSNT	NSNT
+36, 4	101, 1-4	ELI	meddai hi wrtha i	NSNT	NSNT
+36, 5	102, 1-3	ELI	a licio sgwrs	NSNT	NSNT
+36, 6	103, 1-12	ELI	a dyma fi yn gofyn iddo ar y *phone* heddiw oedd o	NST	NST
+36, 7	103, 13-16	ELI	wedi bod yn *Bryn_Môr*	NST	NST
+36, 8	105, 1-4	ELI	oedd wedi gweld Mrs_Price	NSNT	NSNT
+36, 9	105, 5-6	ELI	meddai fo	NSNT	NSNT
+36, 10	107, 1-1	ELI	a	NSNT	NSNT
+36, 11	108, 1-3	ELI	gaethoch chi baned	NSNT	NSNT
+36, 12	110, 1-4	ELI	fuoch chi yn fewn	NSNT	NSNT
+36, 13	111, 1-2	ELI	oh naddo	NSNT	NSNT
+36, 14	111, 3-7	ELI	oedd *wellington* boots arna i	NST	ST
+36, 15	112, 1-2	ELI	meddai fo	NSNT	NSNT
+36, 16	114, 1-4	ELI	ond yn y *garage*	---	NST
+
+
+37, 1	116, 1-9	LIN	oh dydy o ddim yn arfer cael paned yna	NSNT	NSNT
+37, 2	116, 10-11	LIN	mae sure	NSNT	NSNT
+37, 3	117, 1-5	LIN	does neb yna fel arfer	---	NSNT
+
+
+38, 1	118, 1-2	ELI	nac ydy	NSNT	NSNT
+38, 2	119, 1-4	ELI	nac ydy dim bob	NSNT	NSNT
+38, 3	119, 5-5	ELI	tro	NSNT	NSNT
+38, 4	121, 1-3	ELI	oedd hi ddim	NSNT	NSNT
+38, 5	121, 4-7	ELI	wedi bod yna bob	NSNT	NSNT
+38, 6	121, 8-9	ELI	tro rywsut	NSNT	NSNT
+38, 7	122, 1-4	ELI	wn i ddim pam	NSNT	NSNT
+38, 8	123, 1-4	ELI	ond oedd hi um	NSNT	NSNT
+38, 9	123, 5-8	ELI	oedd hi wedi dŵad	NSNT	NSNT
+38, 10	123, 9-20	ELI	meddai fo i fynd i nôl yr eneth fach o yr ysgol	---	NSNT
+
+
+39, 1	125, 1-7	LIN	ydy o yn mynd yna ar amser	NSNT	NSNT
+39, 2	125, 8-13	LIN	wchi yr un amser bob wsnos	---	NSNT
+
+
+40, 1	126, 1-8	ELI	oh mae yn mynd ar y dydd Mawrth	NSNT	NSNT
+40, 2	126, 9-11	ELI	yndy bob wsnos	NSNT	NSNT
+40, 3	128, 2-4	ELI	mae o talu	NSNT	NSNT
+40, 4	128, 5-14	ELI	mae Wynford yn talu iddo fo um unwaith y mis	NSNT	NSNT
+40, 5	130, 1-2	ELI	ond mae	NSNT	NSNT
+40, 6	130, 3-6	ELI	werth o i Wynford	SNT	NSNT
+40, 7	130, 7-8	ELI	you know	SNT	SNT
+40, 8	131, 1-11	ELI	mae fo yn beth da i Wynford gael rywun mynd yna	---	NSNT
+
+
+41, 1	132, 1-9	LIN	mae wedi cael trefn *right* dda fan hyn wan	NST	NST
+41, 2	132, 10-10	LIN	dydy	---	NSNT
+
+
+42, 1	133, 1-1	ELI	*pardon*	---	NST
+
+
+43, 1	134, 1-14	LIN	mae o wedi cael trefn *right* dda ar yr ardd yn fan yma rŵan	NST	NST
+43, 2	136, 1-4	LIN	mae dipyn fwy taclus	NSNT	NSNT
+43, 3	136, 5-7	LIN	nag oedd hi	---	NSNT
+
+
+44, 1	137, 1-2	ELI	yn *Bryn_Môr*	---	NST
+
+
+45, 1	138, 1-4	LIN	na yn fan hyn	---	NSNT
+
+
+46, 1	139, 3-4	ELI	mae o	NSNT	NSNT
+46, 2	140, 1-3	ELI	oh mae yn	NSNT	NSNT
+46, 3	140, 4-5	ELI	mae yn	---	NSNT
+
+
+47, 1	141, 1-8	LIN	er bod o dim ond yn dŵad ryw	NSNT	NSNT
+47, 2	141, 9-12	LIN	wchi ryw ychydig felly	---	NSNT
+
+
+48, 1	143, 2-3	ELI	mae syndod	NSNT	NSNT
+48, 2	143, 4-9	ELI	be wneith o mewn ryw awr	NSNT	NSNT
+48, 3	143, 10-10	ELI	wchi	NSNT	NSNT
+48, 4	145, 1-2	ELI	mae syndod	NSNT	NSNT
+48, 5	147, 1-5	ELI	oh dw i licio hwn	NSNT	NSNT
+48, 6	149, 1-10	ELI	a wedyn mae o wrth ei fodd yn cael paned	NSNT	NSNT
+48, 7	150, 1-8	ELI	basai fo wedi cael y belgian loaf yma	---	SNT
+
+
+49, 1	152, 1-6	LIN	oedd o ddim isio dŵad heddiw	---	NSNT
+
+
+50, 1	153, 1-5	ELI	oh na oedd o yn	NSNT	NSNT
+50, 2	153, 6-10	ELI	oedd o yn deud um	NSNT	NSNT
+50, 3	153, 11-19	ELI	oedd hi yn dylu weithiau a wedyn tro arall	NSNT	NSNT
+50, 4	153, 20-22	ELI	oedd yna haul	---	NSNT
+
+
+51, 1	155, 1-4	LIN	oedd o yn deud	NSNT	NSNT
+51, 2	155, 5-13	LIN	basai wedi gallu gwneud rywfaint yn y tŷ gwydr	NSNT	NSNT
+51, 3	155, 14-15	LIN	meddai fo	NSNT	NSNT
+51, 4	157, 1-2	LIN	ond *er*	---	NST
+
+
+52, 1	158, 1-10	ELI	a wedyn dyma fi sôn am y briallu bach yna	NSNT	NSNT
+52, 2	159, 1-5	ELI	oedd o ddim am eu	NSNT	NSNT
+52, 3	159, 6-13	ELI	rhoid nhw yn yr ardd yn fan yna	NSNT	NSNT
+52, 4	160, 1-8	ELI	gormod o yr um ground_elder yna meddai fo	NSNT	SNT
+52, 5	161, 1-5	ELI	a wedyn dyma fi meddwl	NSNT	NSNT
+52, 6	162, 1-13	ELI	o'n i yn gweld *er* mae ân nhw limp mewn dau funud os	NST	ST
+52, 7	162, 14-17	ELI	na gân nhw ddŵr	NSNT	NSNT
+52, 8	163, 1-6	ELI	a dw i ddim yn meddwl	NSNT	NSNT
+52, 9	163, 7-15	ELI	bod yna *gompost* da iawn o danyn nhw digon	NST	NST
+52, 10	166, 1-5	ELI	a wedyn dw i meddwl	NSNT	NSNT
+52, 11	166, 6-12	ELI	basai well iddyn nhw gael *fresh* *compost*	NST	NST
+52, 12	167, 1-3	ELI	oedd o wedi	NSNT	NSNT
+52, 13	168, 1-5	ELI	wyddost ti yr bach yna	NSNT	NSNT
+52, 14	170, 1-11	ELI	oedd o o'n i wedi roi hwnna iddo fo roi *compost*	NST	NST
+52, 15	172, 1-2	ELI	a mae	NSNT	NSNT
+52, 16	172, 3-5	ELI	mae o yn	NSNT	NSNT
+52, 17	172, 6-13	ELI	mae o wneud nhw *firm* yn y *compost*	NST	NST
+52, 18	173, 1-11	ELI	a wedyn dyma fo yn deud *ooh* doedd yna ddim llawer	NST	NST
+52, 19	173, 12-17	ELI	doedd yna ddim dim *compost* ar_ôl	---	NST
+
+
+53, 1	174, 1-1	LIN	argian	---	NSNT
+
+
+54, 1	175, 1-5	ELI	o'n i methu deall wir	---	NSNT
+
+
+55, 1	176, 1-10	LIN	achos dim ond newydd well does yna ddim *lot* ers	NST	NST
+55, 2	176, 11-21	LIN	pan ddaethon ni â *bag* o *gompost* i chi o Holland_Arms	NST	NST
+55, 3	176, 22-23	LIN	nag oes	---	NSNT
+
+
+56, 1	177, 1-2	ELI	nag oes	NSNT	NSNT
+56, 2	178, 1-8	ELI	oedd o o'n i wedi prynu *amaryllis* mawr	NST	NST
+56, 3	180, 1-7	ELI	wedi weld o yn ryw *catalogue* Bloms	NST	NST
+56, 4	181, 1-3	ELI	a mae rheiny	NSNT	NSNT
+56, 5	181, 4-5	ELI	mae nhw	NSNT	NSNT
+56, 6	181, 6-14	ELI	mae rheina yn *fulbs* da iawn braidd yn ddrud	NST	NST
+56, 7	184, 1-9	ELI	ac o'n i wedi prynu yr yr *amaryllis* yma	NST	NST
+56, 8	185, 1-3	ELI	glamp o *fulb*	NST	NST
+56, 9	187, 1-6	ELI	a *dear* *me* o'n i meddwl	NST	NST
+56, 10	188, 1-13	ELI	oh *dear* well mi gael rywun i roi hwn mewn mewn *compost* iawn	NST	NST
+56, 11	190, 1-6	ELI	wedyn wnes i ofyn iddo fo	NSNT	NSNT
+56, 12	191, 1-6	ELI	wedyn oedd o yn deud heddiw	NSNT	NSNT
+56, 13	191, 7-15	ELI	bod yr *amaryllis* wedi cymryd *lot* o yr *gompost*	NST	NST
+56, 14	193, 1-5	ELI	ond dw i methu deall	NSNT	NSNT
+56, 15	193, 6-11	ELI	bod y cymaint wedi mynd hefyd	---	NSNT
+
+
+57, 1	195, 1-3	LIN	oh dyna ni	---	NSNT
+
+
+58, 1	196, 1-4	ELI	bod cymaint wedi mynd	NSNT	NSNT
+58, 2	198, 1-6	ELI	o'n i ddim yn meddwl basai	NSNT	NSNT
+58, 3	199, 1-6	ELI	dw i ddim o_gwmpas i watsied	NSNT	NSNT
+58, 4	199, 7-12	ELI	dach chi weld yn hun nac	NSNT	NSNT
+58, 5	199, 13-13	ELI	ydw	NSNT	NSNT
+58, 6	201, 1-7	ELI	o dro i dro dach chi weld	NSNT	NSNT
+58, 7	202, 1-3	ELI	mae yn golled	NSNT	NSNT
+58, 8	203, 1-3	ELI	ond mae sure	NSNT	NSNT
+58, 9	203, 4-5	ELI	bod yna	NSNT	NSNT
+58, 10	204, 1-10	ELI	roth o rhai o yr *er* um y pethau bach	NST	NST
+58, 11	204, 11-17	ELI	oedd gyn i fan yma mewn *compost*	NST	NST
+58, 12	205, 1-9	ELI	oh dw ddim yn cofio be arall llawer arall	---	NSNT
+
+
+59, 1	207, 1-2	LIN	dw meddwl	NSNT	NSNT
+59, 2	207, 3-3	LIN	bod	NSNT	NSNT
+59, 3	207, 4-13	LIN	gynnoch chi *bulb* *fibre* neu rywbeth yn y *garage* yna	---	NST
+
+
+60, 1	208, 2-6	ELI	mae gen i *bulb* *fibre*	NST	NST
+60, 2	208, 7-9	ELI	wnes i brynu	NSNT	NSNT
+60, 3	209, 1-9	ELI	ddoth Cassie â fo i mi o Holland_Arms hwnna	NSNT	NSNT
+60, 4	211, 1-3	ELI	dw i meddwl	NSNT	NSNT
+60, 5	211, 4-19	ELI	bod gyn i ychydig o o o o *compost* mewn *bag* arall dim llawer dim llawer	NST	NST
+60, 6	211, 20-21	ELI	gwerth sôn	NSNT	NSNT
+60, 7	212, 1-19	ELI	well o'n i meddwl bod gen i ddigon o o yr *compost* yna tan y gwanwyn i yr *tomatoes*	---	NST
+
+
+61, 1	213, 1-1	LIN	well	NSNT	NSNT
+61, 2	214, 1-8	LIN	oh dw ddim yn cofio pa *size* *bag*	NST	NST
+61, 3	214, 9-10	LIN	oedd o	NSNT	NSNT
+61, 4	215, 1-6	LIN	oedd o yn dipyn o *fag*	NST	NST
+61, 5	215, 7-7	LIN	doedd	---	NSNT
+
+
+62, 1	216, 1-3	ELI	well eitha sizeable	---	SNT
+
+
+63, 1	217, 1-2	LIN	oh well	---	NSNT
+
+
+64, 1	218, 1-8	ELI	anyway dw i wedi gofyn iddo os *er*	NST	ST
+64, 2	219, 1-6	ELI	dach chi yn dod ar_draws *compost*	NST	NST
+64, 3	220, 1-13	ELI	well ddim ond pan dw i yn mynd i Gaerwen i nôl rhywbeth	NSNT	NSNT
+64, 4	221, 1-2	ELI	meddai o	NSNT	NSNT
+64, 5	223, 1-7	ELI	well os fyddwch chi yn digwydd mynd	NSNT	NSNT
+64, 6	224, 1-2	ELI	meddai fi	NSNT	NSNT
+64, 7	225, 1-5	ELI	dewch â bagaid i mi	NSNT	NSNT
+64, 8	227, 1-3	ELI	dalu a wedyn	---	NSNT
+
+
+65, 1	228, 1-9	LIN	fyddwch chi ddim isio llawer wan tan y gwanwyn	NSNT	NSNT
+65, 2	228, 10-11	LIN	na fyddwch	---	NSNT
+
+
+66, 1	229, 1-2	ELI	na fydd	NSNT	NSNT
+66, 2	229, 3-7	ELI	ond dw isio peth yma	NSNT	NSNT
+66, 3	231, 1-9	ELI	mae yn anodd ei gael o yn y gwanwyn	NSNT	NSNT
+66, 4	232, 1-7	ELI	i mi mae yn anodd i gael	NSNT	NSNT
+66, 5	232, 8-8	ELI	dydy	---	NSNT
+
+
+67, 1	233, 1-9	LIN	ia mae raid chi fynd ar yr union amser	NSNT	NSNT
+67, 2	234, 1-3	LIN	well hynny ydy	NSNT	NSNT
+67, 3	234, 4-5	LIN	mae nhw	NSNT	NSNT
+67, 4	234, 6-17	LIN	mae o gynnyn nhw yn fan yna yn Holland_Arms *round* y *reel*	---	NST
+
+
+68, 1	235, 1-7	ELI	yeah dw i ddim yn medru nac	NSNT	NSNT
+68, 2	235, 8-8	ELI	ydw	NSNT	NSNT
+68, 3	237, 1-9	ELI	a wedyn dw i yn gorod wneud yn sure	NSNT	NSNT
+68, 4	237, 10-12	ELI	bod gen i	NSNT	NSNT
+68, 5	237, 13-22	ELI	o bod o yn fan yma gen i yn barod	NSNT	NSNT
+68, 6	239, 1-10	ELI	dw i gorod gweld ymlaen llaw efo *lot* o bethau	NST	NST
+68, 7	241, 1-1	ELI	ond	NSNT	NSNT
+68, 8	243, 1-6	ELI	wedyn oedd o yn deud um	NSNT	NSNT
+68, 9	244, 1-3	ELI	oh dyna fo	NSNT	NSNT
+68, 10	245, 1-3	ELI	fe ddaw yma	NSNT	NSNT
+68, 11	245, 4-6	ELI	meddai fo i	NSNT	NSNT
+68, 12	246, 1-2	ELI	mae yna	NSNT	NSNT
+68, 13	247, 1-17	ELI	*er* y wal yna sy yn fan yna *er* yr un efo stepiau lawr at y dŵr	NST	NST
+68, 14	249, 1-16	ELI	mae *lot* o um o hen hadau o yr coed ynn wedi disgyn i yr wal	NST	NST
+68, 15	250, 1-5	ELI	a mae nhw yn tyfu	NSNT	NSNT
+68, 16	251, 1-10	ELI	darnau fel hyn yn tyfu fel yn goed bach yma	NSNT	NSNT
+68, 18	254, 1-3	ELI	yn y wal	NSNT	NSNT
+68, 19	255, 1-11	ELI	well mae nhw nhw yn tynnu yr wal i_lawr i mi	---	NSNT
+
+
+69, 1	256, 1-8	LIN	well mae rheina yn cymryd yn rywle tydyn	---	NSNT
+
+
+70, 1	257, 1-5	ELI	*ooh* yndyn a wedyn um	NST	NST
+70, 2	257, 6-10	ELI	dw i ddim yn meddwl	NSNT	NSNT
+70, 3	257, 11-12	ELI	bod *use*	NST	NST
+70, 4	258, 1-4	ELI	byswn ddim yn meddwl	NSNT	NSNT
+70, 5	258, 5-11	ELI	baswn i medrud eu plycio nhw allan	NSNT	NSNT
+70, 6	260, 1-2	ELI	mae nhw	NSNT	NSNT
+70, 7	260, 3-10	ELI	mae nhw mynd yn ddwfn i yr wal	NSNT	NSNT
+70, 8	260, 11-11	ELI	wchi	---	NSNT
+
+
+71, 1	261, 2-3	LIN	mae yr	---	NSNT
+
+
+72, 1	262, 1-9	ELI	a wedyn yr unig beth i wneud ydy *er*	NST	NST
+72, 2	263, 1-5	ELI	well fydd o yn gwybod	NSNT	NSNT
+72, 3	263, 6-11	ELI	be ydy yr gorau i wneud	---	NSNT
+
+
+73, 1	264, 1-1	LIN	bydd	---	NSNT
+
+
+74, 1	265, 1-10	ELI	a wnes i sôn wrtho am y flowering cherry hefyd	NSNT	SNT
+74, 2	267, 1-4	ELI	oedd o yn meddwl	NSNT	NSNT
+74, 3	267, 5-16	ELI	bod o yn well adael llonydd iddo nes ar_ôl o blodeuo yn_de	---	NSNT
+
+
+75, 1	268, 1-2	LIN	well dyna	NSNT	NSNT
+75, 2	268, 3-7	LIN	mae nhw yn ddeud fel	NSNT	NSNT
+75, 3	268, 8-8	LIN	arfer	NSNT	NSNT
+75, 4	270, 1-5	LIN	tocio pethau ar_ôl nhw flodeuo	---	NSNT
+
+
+76, 1	271, 1-1	ELI	mae	NSNT	NSNT
+76, 2	271, 2-8	ELI	honna *right* rich y belgian loaf yna	---	ST
+
+
+77, 1	272, 2-4	LIN	mae yn *nice*	NST	NST
+77, 2	272, 5-5	LIN	dydy	---	NSNT
+
+
+78, 1	273, 1-2	ELI	rich yndy	---	SNT
+
+
+79, 1	274, 1-2	LIN	da iawn	NSNT	NSNT
+79, 2	275, 1-2	LIN	mae sôn	NSNT	NSNT
+79, 3	275, 3-13	LIN	bod y côr yn mynd i ganu yn Lerpwl côr Merched_y_Garth	NSNT	NSNT
+79, 4	277, 1-6	LIN	well mae un o yr aelodau	NSNT	NSNT
+79, 5	277, 7-12	LIN	mae wedi magu yn Lerpwl Charlie	NSNT	NSNT
+79, 6	278, 1-2	LIN	a mae	NSNT	NSNT
+79, 7	278, 3-13	LIN	wedi bod yn trio um trefnu ryw gyngerdd i ni yno	NSNT	NSNT
+79, 8	279, 1-6	LIN	ond dw i ddim yn gwybod	NSNT	NSNT
+79, 9	280, 1-9	LIN	mae yn costio *lot* i fynd â *bus* i_fyny	---	NST
+
+
+80, 1	281, 1-2	ELI	well yndy	NSNT	NSNT
+80, 2	281, 3-4	ELI	mae sure	---	NSNT
+
+
+81, 1	282, 1-2	LIN	ac um	NSNT	NSNT
+81, 2	283, 1-4	LIN	ond oedd yna rywun	NSNT	NSNT
+81, 3	283, 5-11	LIN	wedi bod yn Lerpwl yn weddol ddiweddar	NSNT	NSNT
+81, 4	284, 1-6	LIN	ac o'n nhw yn deud bod	NSNT	NSNT
+81, 5	284, 7-8	LIN	bod hi	NSNT	NSNT
+81, 6	284, 9-12	LIN	werth mynd yno rŵan	NSNT	NSNT
+81, 7	284, 13-19	LIN	bod y ddinas wedi newid cymaint felly	NSNT	NSNT
+81, 8	285, 1-8	LIN	mae nhw wedi adfywio *lot* ar y lle	---	NST
+
+
+82, 1	287, 1-3	ELI	oh da iawn	---	NSNT
+
+
+83, 1	288, 1-3	LIN	dach chi ddim	NSNT	NSNT
+83, 2	288, 4-8	LIN	wedi bod yna ers blynyddoedd	NSNT	NSNT
+83, 3	288, 9-10	LIN	mae sure	---	NSNT
+
+
+84, 1	289, 1-1	ELI	naddo	NSNT	NSNT
+84, 3	291, 1-1	ELI	naddo	NSNT	NSNT
+84, 4	292, 1-7	ELI	mae *mam* Cassie yn dŵad o Lerpwl	NST	NST
+84, 5	295, 1-8	ELI	fydda i yn meddwl am y Dylans rheina	NSNT	NSNT
+84, 6	295, 9-13	ELI	ddaru brynu Llwyn_Onn gyn nain	NSNT	NSNT
+84, 7	297, 1-5	ELI	well *er* Iddewon oedden nhw	ST	NST
+84, 8	299, 1-1	ELI	*stockbrokers*	---	NST
+
+
+85, 1	300, 1-2	LIN	o Lerpwl	---	NSNT
+
+
+86, 1	301, 1-2	ELI	o Lerpwl	NSNT	NSNT
+86, 2	303, 1-5	ELI	dw i yn cofio Alexandra_Mount	NSNT	NSNT
+86, 3	303, 6-9	ELI	oedd enw tŷ nhw	NSNT	NSNT
+86, 4	304, 1-3	ELI	oh dw ddim	---	NSNT
+
+
+87, 1	305, 1-4	LIN	be yn Lerpwl felly	---	NSNT
+
+
+88, 1	306, 1-2	ELI	yn Lerpwl	NSNT	NSNT
+88, 2	307, 1-1	ELI	Litherland	SNT	NSNT
+88, 3	309, 1-1	ELI	Liverpool	---	NSNT
+
+
+89, 1	310, 1-2	LIN	a be	NSNT	NSNT
+89, 2	311, 1-11	LIN	wnaethon nhw brynu Llwyn_Onn fel ryw fath o dŷ ha felly	NSNT	NSNT
+89, 3	311, 12-13	LIN	mae sure	---	NSNT
+
+
+90, 1	312, 1-8	ELI	oh ie *novelty* yn_de oedd o iddyn nhw	---	NST
+
+
+91, 1	313, 1-5	LIN	a hynny ers_talwm wan de	NSNT	NSNT
+91, 2	314, 1-15	LIN	wchi ddim dim cymaint â hynny yn prynu tai ha ers_talwm yn y cyfnod yna	---	NSNT
+
+
+92, 1	315, 1-2	ELI	nag oedd	NSNT	NSNT
+92, 2	315, 4-7	ELI	oedd gynnyn nhw arian	NSNT	NSNT
+92, 3	315, 8-11	ELI	dach chi yn weld	SNT	NSNT
+92, 4	317, 1-1	ELI	*stockbrokers*	ST	NST
+92, 5	319, 1-4	ELI	a a oedd yn	NSNT	NSNT
+92, 6	319, 5-13	ELI	dw i sure na pedair o ferched ac un	NSNT	NSNT
+92, 7	319, 14-14	ELI	dyn	NSNT	NSNT
+92, 8	321, 1-6	ELI	ddaru nhw ddŵad y tro cynta	NSNT	NSNT
+92, 9	321, 7-11	ELI	â eu tad efo nhw	NSNT	NSNT
+92, 10	323, 1-9	ELI	a wallt yn wyn fel hyn ar ei sgwyddau	NSNT	NSNT
+92, 11	325, 1-13	ELI	a dw i ryw feddwl bod gynno fo ryw fymryn o Gymraeg hwnnw	NSNT	NSNT
+92, 12	327, 1-5	ELI	ond oedd gynnyn nhw ddim	NSNT	NSNT
+92, 13	329, 1-6	ELI	a rei distaw iawn oedden nhw	NSNT	NSNT
+92, 14	331, 1-4	ELI	a baswn i feddwl	NSNT	NSNT
+92, 15	331, 5-6	ELI	bod nhw	NSNT	NSNT
+92, 16	331, 7-8	ELI	bod o	NSNT	NSNT
+92, 17	331, 9-17	ELI	yn bod o yn *novelty* garw iawn gynnyn nhw	NST	NST
+92, 18	333, 1-4	ELI	a yn dŵad *er*	---	NST
+
+
+93, 1	334, 1-7	LIN	oedd hyn ar_ôl i nain Llwyn_Onn farw	---	NSNT
+
+
+94, 1	335, 1-4	ELI	na oedd hi yn	NSNT	NSNT
+94, 2	336, 1-11	ELI	well ar_ôl hi symud i Birmingham i fyw efo Auntie Margaret	NSNT	NSNT
+94, 3	338, 1-6	ELI	a o'n nhw yn ddoniol wchi	NSNT	NSNT
+94, 4	339, 1-8	ELI	o'n nhw yn gwisgo sandalau am eu traed	NSNT	NSNT
+94, 5	341, 1-2	ELI	y merched	NSNT	NSNT
+94, 6	343, 1-7	ELI	ac o'n nhw yn tynnu lluniau yn_de	NSNT	NSNT
+94, 7	344, 1-4	ELI	o'n nhw yn arlunio	---	NSNT
+
+
+95, 1	345, 1-2	LIN	oh mae	NSNT	NSNT
+95, 2	345, 3-7	LIN	gynnoch chi un yn llofft	NSNT	NSNT
+95, 3	345, 8-8	LIN	does	---	NSNT
+
+
+96, 1	347, 1-4	ELI	ond mi oedden nhw	NSNT	NSNT
+96, 2	347, 5-6	ELI	oedden nhw	NSNT	NSNT
+96, 3	347, 7-17	ELI	wedi bod mynd am wyliau i um Dwygyfylchi yr ochrau yna	NSNT	NSNT
+96, 4	349, 1-11	ELI	ac yn oh yn dangos lluniau a *sketches* o luniau de	NST	NST
+96, 5	350, 1-5	ELI	o'n nhw werth eu gweld	NSNT	NSNT
+96, 6	352, 1-7	ELI	oh oedden nhw yn rei talentog iawn	NSNT	NSNT
+96, 7	354, 1-9	ELI	a ac oedden nhw ddim yn cadw yr Nadolig	NSNT	NSNT
+96, 8	355, 1-9	ELI	o'ch chi ddim yn gweld nhw ar Nadolig o_gwbl	---	NSNT
+
+
+97, 1	356, 1-3	LIN	oh achos mai	---	NSNT
+
+
+98, 1	357, 1-1	ELI	Iddewon	---	NSNT
+
+
+99, 1	358, 1-2	LIN	Iddewon yeah	---	NSNT
+
+
+100, 1	359, 1-16	ELI	ac yn y flwyddyn yn y flwyddyn newydd fyddan nhw yn dŵad i edrych amdanan ni	NSNT	NSNT
+100, 2	361, 1-7	ELI	a o'n nhw dŵad â teisen *nice*	NST	NST
+100, 3	362, 1-8	ELI	dim teisen fath â dan ni yn gael	NSNT	NSNT
+100, 4	364, 1-12	ELI	teisen *er* ryw deisen efo mwy o *sponge* efo rywbeth melys yni	NST	NST
+100, 5	366, 1-13	ELI	a a dŵad â ryw fel ryw anrheg bach i ni blant yn_de	NSNT	NSNT
+100, 6	368, 1-9	ELI	oh o'n nhw fel angylion a deud y gwir	NSNT	NSNT
+100, 8	370, 1-1	ELI	oedden	NSNT	NSNT
+100, 9	371, 1-1	ELI	oedden	NSNT	NSNT
+100, 10	372, 1-9	ELI	*er* un o yr enw Jess oedd yr un	NST	NST
+100, 11	372, 10-14	ELI	ddaru wneud y llun yna	NSNT	NSNT
+100, 12	372, 15-17	ELI	sy gyn i	NSNT	NSNT
+100, 13	374, 1-2	ELI	fyny grisiau	NSNT	NSNT
+100, 14	375, 1-6	ELI	oh dw i yn trysorio hwnnw	NSNT	NSNT
+100, 15	377, 1-13	ELI	a mae gyn i J_cloth ar_ben yr *er* c_d player yna fan yna	NST	ST
+100, 16	379, 1-6	ELI	a nhw roth hwnna i mi	NSNT	NSNT
+100, 17	381, 1-5	ELI	pan o'n i yn priodi	NSNT	NSNT
+100, 18	383, 1-1	ELI	hwnna	NSNT	NSNT
+100, 19	385, 1-3	ELI	ac un arall	---	NSNT
+
+
+101, 1	386, 1-10	LIN	oedden nhw wedi dŵad nôl ac ymlaen am hir felly	---	NSNT
+
+
+102, 1	387, 1-9	ELI	oh oedden o'n nhw yn dŵad nôl ac ymlaen	NSNT	NSNT
+102, 2	388, 1-4	ELI	oedden o'n nhw wedi	NSNT	NSNT
+102, 3	388, 5-11	ELI	roid y goriad i nhad i gadw	NSNT	NSNT
+102, 4	390, 1-7	ELI	a wedyn fyddai yn mynd yna weithiau	NSNT	NSNT
+102, 5	391, 1-5	ELI	a dw i cofio deud	NSNT	NSNT
+102, 6	392, 1-9	ELI	*ooh* dydyn nhw ddim yn clirio yr lle tân	NST	NST
+102, 8	394, 1-11	ELI	dim ond slecs yn dod i hanner y y gegin neu	NSNT	NSNT
+102, 9	395, 1-6	ELI	gegin fawr oedd yna fan yno	NSNT	NSNT
+102, 10	397, 1-9	ELI	a oedd hi braidd yn dywyll efo ffenestri bach	NSNT	NSNT
+102, 11	398, 1-11	ELI	a wedyn ond *ooh* lludw y y slecs yma yn dŵad	NST	NST
+102, 14	402, 1-5	ELI	a ond mae yn sure	NSNT	NSNT
+102, 15	402, 6-6	ELI	bod	NSNT	NSNT
+102, 16	402, 7-14	ELI	bod o yn dipyn o *novelty* gynnyn nhw	NST	NST
+102, 17	404, 1-8	ELI	a wedyn oedd y nant yn rhedeg yn_doedd	NSNT	NSNT
+102, 18	406, 1-4	ELI	dw ddim yn sure	NSNT	NSNT
+102, 19	406, 5-8	ELI	oedd yna ddŵr *tap*	NST	NST
+102, 20	407, 1-5	ELI	dw i ddim yn sure	NSNT	NSNT
+102, 21	408, 1-5	ELI	dw i ddim yn meddwl	NSNT	NSNT
+102, 22	408, 6-7	ELI	bod yna	---	NSNT
+
+
+103, 1	409, 1-6	LIN	na go brin de amser hynny	---	NSNT
+
+
+104, 1	410, 1-1	ELI	*pardon*	---	NST
+
+
+105, 1	411, 1-6	LIN	go brin amser hynny mae sure	---	NSNT
+
+
+106, 1	412, 1-6	ELI	ie dw i ddim yn meddwl	NSNT	NSNT
+106, 2	412, 7-8	ELI	bod yna	NSNT	NSNT
+106, 3	416, 1-8	ELI	a wedyn oedd yna ardd dda iawn yna	NSNT	NSNT
+106, 4	418, 1-18	ELI	a honno mewn *er* *er* fath â ryw ryw gwrychoedd yn rhannu wneud hi yn yn rhanedig yn_de	NST	NST
+106, 5	420, 1-13	ELI	a llwybr yn mynd bell i yr tŷ bach yn waelod yr ardd	NSNT	NSNT
+106, 6	422, 1-3	ELI	yn bell hefyd	NSNT	NSNT
+106, 8	424, 1-3	ELI	oh yn bell	NSNT	NSNT
+106, 10	426, 1-7	ELI	a wedyn oedd yna rai o yr	NSNT	NSNT
+106, 11	427, 1-2	ELI	oedd y	NSNT	NSNT
+106, 12	427, 3-8	ELI	oedd y um um y brodyr	NSNT	NSNT
+106, 13	427, 9-10	ELI	oedd yn	NSNT	NSNT
+106, 14	427, 11-28	ELI	wedi bod yn byw yna o'n nhw gyd yn cymryd diddordeb yn eu darn o ardd eu hunain	---	NSNT
+
+
+107, 1	428, 1-4	LIN	oh i yn gweld	---	NSNT
+
+
+108, 1	429, 1-5	ELI	ac oedd rai ohonyn nhw	NSNT	NSNT
+108, 2	430, 1-6	ELI	dw i meddwl mai Uncle Geraint	NSNT	NSNT
+108, 3	430, 7-11	ELI	oedd o tad Sion_Thomas yma	NSNT	NSNT
+108, 4	431, 1-9	ELI	oedd o yn torri rai fel siâp fel topiary	SNT	SNT
+108, 5	433, 1-15	ELI	*er* fath â wneud un fel siâp ceiliog a un arall fel siâp rywbeth arall	NST	NST
+108, 6	435, 1-14	ELI	a dw i cofio nhad yn mynd ac yn dod adre ac yn deud	NSNT	NSNT
+108, 7	436, 1-8	ELI	dydyn nhw byth yn torri yr gwrychoedd yna	NSNT	NSNT
+108, 9	438, 1-5	ELI	nag oedd ddim yn gwneud	---	NSNT
+
+
+109, 1	439, 1-5	LIN	oedd hynny ddim yn gwneud	NSNT	NSNT
+109, 2	439, 6-8	LIN	tro gynno fo	NSNT	NSNT
+109, 3	439, 9-10	LIN	mae sure	---	NSNT
+
+
+110, 1	440, 1-7	ELI	oh na gwneud dim_byd caled fel yna	---	NSNT
+
+
+111, 1	443, 1-3	LIN	oh duwcs annwyl	---	NSNT
+
+
+112, 1	445, 1-16	ELI	ond o'n nhw wedi gwadd ni i fynd yna i de Gladys a fi a Peredur	NSNT	NSNT
+112, 2	447, 1-6	ELI	yna i gael te efo nhw	NSNT	NSNT
+112, 3	449, 1-5	ELI	yn y pnawn rywbryd yn_de	NSNT	NSNT
+112, 4	451, 1-6	ELI	*ooh* oedden nhw yn garedig iawn	---	NST
+
+
+113, 1	452, 1-2	LIN	*ha* oh	---	NST
+
+
+114, 1	453, 1-4	ELI	oh yn garedig iawn	NSNT	NSNT
+114, 2	455, 1-1	ELI	oedden	---	NSNT
+
+
+115, 1	456, 1-10	LIN	deudwch eich hanes yn mynd i weld Marian yn Lerpwl	---	NSNT
+
+
+116, 1	457, 1-4	ELI	oh ti aeth ti	NSNT	NSNT
+116, 2	457, 5-10	ELI	aeth â fi i weld *Marian*	---	NST
+
+
+117, 1	458, 1-1	LIN	naci	---	NSNT
+
+
+118, 1	459, 1-5	ELI	naci fi aeth i weld	---	NSNT
+
+
+119, 1	460, 1-2	LIN	na pan	NSNT	NSNT
+119, 2	461, 1-3	LIN	ia pan aethoch	NSNT	NSNT
+119, 3	461, 4-9	LIN	pan oeddech chi yn nyrsio yna	---	NSNT
+
+
+120, 1	462, 3-10	ELI	oedd cyn i Marian ddod i i Broad_Green	NSNT	NSNT
+120, 2	462, 11-12	ELI	oedd hyn	NSNT	NSNT
+120, 3	464, 1-5	ELI	oedd hi yn yn adeg	NSNT	NSNT
+120, 4	465, 1-5	ELI	yn adeg rhyfel oedd hi	NSNT	NSNT
+120, 5	466, 1-8	ELI	oeddwn i wedi cael swydd ym yn Broad_Green	NSNT	NSNT
+120, 6	467, 1-5	ELI	dw meddwl mai *staff* *nurse*	NST	NST
+120, 7	467, 6-7	ELI	oeddwn i	NSNT	NSNT
+120, 8	469, 1-2	ELI	yn Broad_Green	NSNT	NSNT
+120, 9	471, 1-8	ELI	a oedd *mam* wastad yn holi am Marian	NST	NST
+120, 10	473, 1-5	ELI	oedd *mam* wastad yn holi	NST	NST
+120, 11	474, 1-5	ELI	*ooh* sut mae geneth Jane	NST	NST
+120, 12	476, 1-4	ELI	sut mae geneth Jane	NSNT	NSNT
+120, 13	478, 1-7	ELI	ac oedden nhw wedi aros efo fi	NSNT	NSNT
+120, 14	480, 1-8	ELI	o'n i wastad yn considro yn hun wedyn	NSNT	NSNT
+120, 15	482, 1-6	ELI	ar_ôl colli *mam* sut mae Marian	NST	NST
+120, 16	484, 1-3	ELI	merch Auntie Jane	NSNT	NSNT
+120, 17	486, 1-8	ELI	a holi a holi pan es i Broad_Green	SNT	NSNT
+120, 18	487, 1-7	ELI	because oedden i yn Lerpwl erbyn hyn	NSNT	SNT
+120, 19	487, 8-8	ELI	doedden	NSNT	NSNT
+120, 20	489, 1-10	ELI	ac oedd yna ddim llawer o neb yn gwybod o_gwbl	NSNT	NSNT
+120, 21	491, 1-7	ELI	ond o yr diwedd ges i hyd	NSNT	NSNT
+120, 22	492, 1-7	ELI	ddaru rhai ohonyn nhw holi a holi	SNT	NSNT
+120, 23	494, 1-2	ELI	excuse *me*	ST	NST
+120, 24	495, 1-12	ELI	a a cael hyd i lle oedd y y Greens yn byw	NSNT	NSNT
+120, 25	497, 1-5	ELI	yn *er* Great_Crosby yn Lerpwl	NST	NST
+120, 26	499, 1-12	ELI	a dyma fi yn penderfynu baswn i mynd ar fy day *off*	ST	ST
+120, 27	499, 13-15	ELI	mae yn sure	NSNT	NSNT
+120, 29	501, 1-4	ELI	a gwisgo *right* *smart*	NST	NST
+120, 31	503, 1-5	ELI	oedd gen i *goat* lambskin	ST	ST
+120, 32	505, 1-4	ELI	fel ryw *goat* gwta	ST	NST
+120, 33	507, 1-2	ELI	lambskin golau	NSNT	SNT
+120, 35	509, 1-2	ELI	oedd *smart*	NST	NST
+120, 37	511, 1-4	ELI	a dyma fi yn	NSNT	NSNT
+120, 38	512, 1-5	ELI	o'n i yn ifanc yn_de	NSNT	NSNT
+120, 39	513, 1-6	ELI	o'n i yn medru gwneud rywbeth	NSNT	NSNT
+120, 40	515, 1-2	ELI	mae sure	NSNT	NSNT
+120, 41	515, 3-18	ELI	bod fi wedi mynd ar y *buses* a chyrraedd yna a chael hyd i yr teulu	NST	NST
+120, 42	517, 1-4	ELI	wn i ddim sut	NSNT	NSNT
+120, 43	518, 1-3	ELI	ond mi wnes	---	NSNT
+
+
+121, 1	519, 1-3	LIN	gaethoch chi groeso	---	NSNT
+
+
+122, 1	522, 1-4	ELI	oedd yna fodryb iddi	NSNT	NSNT
+122, 2	522, 5-11	ELI	wnes i gyfarfod chwaer i thad hi	NSNT	NSNT
+122, 3	524, 1-6	ELI	dw i meddwl mai Auntie Jane	NSNT	NSNT
+122, 4	524, 7-9	ELI	oedd enw honno	SNT	NSNT
+122, 5	525, 1-9	ELI	of *course* oedden nhw yn fuilders yn y cylch	NST	ST
+122, 6	527, 1-4	ELI	a wedi adeiladu tai	NSNT	NSNT
+122, 7	528, 1-7	ELI	ac oedden nhw wedi adeiladu tŷ yn	NSNT	NSNT
+122, 8	528, 8-15	ELI	lle oedd yr yr *auntie* yma yn byw	NST	NST
+122, 9	530, 1-3	ELI	wn i ddim	NSNT	NSNT
+122, 10	530, 4-9	ELI	oedd Marian efo hi erbyn hyn	NSNT	NSNT
+122, 11	531, 1-2	ELI	mae sure	NSNT	NSNT
+122, 12	531, 3-10	ELI	bod hi wedi colli yr nain erbyn hynny	NSNT	NSNT
+122, 13	533, 1-10	ELI	oedd y nain *er* i *fam* *mam* ei thad hi	NST	NST
+122, 14	533, 11-12	ELI	oedd o	NSNT	NSNT
+122, 15	533, 13-17	ELI	oedd hi wedi byw nes	NSNT	NSNT
+122, 16	533, 18-22	ELI	oedd Marian yn yn nineteen	SNT	SNT
+122, 17	534, 1-7	ELI	ond oedd ei thad hi wedi ailbriodi	NSNT	NSNT
+122, 18	536, 1-6	ELI	ond dw i ddim yn meddwl	NSNT	NSNT
+122, 19	536, 7-13	ELI	bod hi wastad hefo yr teulu yna	NSNT	NSNT
+122, 20	537, 2-7	ELI	gynni hanner brawd a hanner chwaer	NSNT	NSNT
+122, 21	537, 8-11	ELI	dw i yn credu	NSNT	NSNT
+122, 22	539, 1-4	ELI	o yr ail briodas	NSNT	NSNT
+122, 23	541, 1-6	ELI	a dyma fi yn cyrraedd yna	NSNT	NSNT
+122, 24	542, 1-6	ELI	ac oedd hi ar y pryd	NSNT	NSNT
+122, 25	543, 1-4	ELI	oedd rhaid iddi benderfynu	NSNT	NSNT
+122, 26	543, 5-17	ELI	oedd hi mynd i nyrsio neu i yr i yr *army* fel petai	NST	NST
+122, 27	545, 1-5	ELI	neu i yr land *army*	ST	ST
+122, 28	547, 1-10	ELI	oedd rhaid iddi fynd i un o yr tri yna	NSNT	NSNT
+122, 29	549, 1-8	ELI	oedd hi yr oed yna tua deunaw oed	NSNT	NSNT
+122, 30	551, 1-5	ELI	a dyma fi yn cyrraedd	NSNT	NSNT
+122, 31	552, 1-8	ELI	ac o'n i yn *staff* *nurse* yn Broad_Green	NST	NST
+122, 32	553, 1-8	ELI	a mi wnaeth ei feddwl i_fyny yn syth	NSNT	NSNT
+122, 34	555, 1-7	ELI	bysai yn dod i Broad_Green i nyrsio	---	NSNT
+
+
+123, 1	556, 1-3	LIN	ia rhyfedd de	---	NSNT
+
+
+124, 1	557, 1-3	ELI	a mi ddoth	NSNT	NSNT
+124, 2	560, 1-4	ELI	a gaeth ei derbyn	NSNT	NSNT
+124, 3	561, 1-5	ELI	a mi wnaeth y yr	NSNT	NSNT
+124, 4	562, 1-6	ELI	ddoth yna wneud y nursing training	SNT	SNT
+124, 5	564, 1-7	ELI	ac oedd hi yn hogan llawn hwyl	NSNT	NSNT
+124, 6	564, 8-8	ELI	wchi	NSNT	NSNT
+124, 7	566, 1-4	ELI	oedd hi wedi medrud	---	NSNT
+
+
+125, 1	567, 1-10	LIN	well dw i wedi siarad efo hi ar y *phone*	NST	NST
+125, 2	568, 1-5	LIN	a mae yn swnio fel	NSNT	NSNT
+125, 3	568, 6-12	LIN	bod hi yn dal yn llawn hwyl	---	NSNT
+
+
+126, 1	569, 1-2	ELI	oh mae	NSNT	NSNT
+126, 2	570, 1-4	ELI	yn llawn hwyl yndy	---	NSNT
+
+
+127, 1	571, 1-12	LIN	a mae sure o fod yn bedwar_ugain erbyn hyn wyth_deg erbyn hyn	---	NSNT
+
+
+128, 1	572, 3-3	ELI	mae	NSNT	NSNT
+128, 2	574, 1-4	ELI	mae wedi troi wyth_deg	NSNT	NSNT
+128, 3	577, 1-4	ELI	oedd yr un oed	NSNT	NSNT
+128, 4	577, 5-7	ELI	â Uncle Peredur	NSNT	NSNT
+128, 5	579, 1-5	ELI	chwe mlynedd iau na fi	---	NSNT
+
+
+129, 1	580, 1-5	LIN	pam aeth hi i Australia	NSNT	NSNT
+129, 2	580, 6-6	LIN	ta	---	NSNT
+
+
+130, 1	581, 1-5	ELI	well ar_ôl wneud y training	SNT	SNT
+130, 2	582, 1-7	ELI	oeddwn i wedi mynd o Broad_Green yn_doedd	NSNT	NSNT
+130, 3	583, 1-12	ELI	welais i ddim gymaint ohoni pan o'n i yna deud y gwir	NSNT	NSNT
+130, 4	585, 1-5	ELI	ond cadw in *touch* yn_de	NST	ST
+130, 5	587, 1-10	ELI	mi aeth hi um i Lundain i wneud *private* nursing	ST	ST
+130, 6	589, 1-5	ELI	oedden nhw yn adferteisio *lot*	NST	NST
+130, 7	589, 6-11	ELI	dach chi gweld am *private* *nurses*	NST	NST
+130, 8	590, 1-7	ELI	ac oedd hi wedi gwneud yr S_R_M	NSNT	NSNT
+130, 9	592, 1-3	ELI	mewn dim amser	NSNT	NSNT
+130, 10	594, 1-6	ELI	a dw i ddim yn meddwl	NSNT	NSNT
+130, 11	594, 7-13	ELI	bod hi wedi trio wneud y midwifery	SNT	SNT
+130, 12	596, 1-4	ELI	ac o fan yno	NSNT	NSNT
+130, 13	597, 1-6	ELI	mae raid mai yn fan yno	NSNT	NSNT
+130, 14	597, 7-13	ELI	oedd hi wedi penderfynu symud i Australia	NSNT	NSNT
+130, 15	598, 1-7	ELI	dw i ddim yn gwybod pam os	NSNT	NSNT
+130, 16	598, 8-14	ELI	na oedd yna rei o yr ffrindiau	NSNT	NSNT
+130, 17	598, 15-23	ELI	oedd hi wedi wneud yn fan yno yn mynd	---	NSNT
+
+
+131, 1	599, 1-13	LIN	oedd hi ddim wedi cwrdd â ei gŵr cyn mynd na dim_byd felly	---	NSNT
+
+
+132, 1	600, 1-6	ELI	na dw i ddim yn meddwl	NSNT	NSNT
+132, 2	601, 1-4	ELI	dw i meddwl mai	NSNT	NSNT
+132, 3	602, 1-11	ELI	oh dw i ddim yn gwybod y manylion yn fan yna	NSNT	NSNT
+132, 4	605, 1-16	ELI	oh mi ddaru gwrdd â yr hwnnw un_ai ar y llong neu wrth fynd neu rywbeth	NSNT	NSNT
+132, 5	607, 1-15	ELI	ac um o'n i yn gyrru *calendar* y Daily_Post iddyn nhw bob blwyddyn am flynyddoedd	NST	NST
+132, 6	609, 1-4	ELI	a mi ddaru fo	NSNT	NSNT
+132, 7	609, 5-7	ELI	oedd hi yn	NSNT	NSNT
+132, 8	609, 8-11	ELI	ddaru sgwennu i ddiolch	NSNT	NSNT
+132, 9	610, 1-7	ELI	oedd hi yn dda iawn am sgwennu	NSNT	NSNT
+132, 10	611, 1-13	ELI	a dyma fo rhoid pwt o lythyr hefo yr efo yr llythyr hi	NSNT	NSNT
+132, 11	613, 1-9	ELI	i ddeud bod gynno fo ddiddordeb yno fo hefyd	NSNT	NSNT
+132, 12	613, 10-18	ELI	a bod ei ei hen deulu fo o Sir_Benfro	NSNT	NSNT
+132, 13	613, 19-21	ELI	dw yn credu	---	NSNT
+
+
+133, 1	614, 1-7	LIN	oh ia dw i yn cofio ia	---	NSNT
+
+
+134, 1	615, 1-9	ELI	a hefyd wedi *er* mynd o yr wlad yma	NST	NST
+134, 2	617, 1-2	ELI	i Australia	NSNT	NSNT
+134, 3	619, 1-14	ELI	a bod yna rai ohonyn nhw yn perthyn i i yr um Plas Penmynydd	NSNT	NSNT
+134, 4	621, 1-4	ELI	be oedd henw honno	NSNT	NSNT
+134, 5	622, 1-7	ELI	um Marquis of Anglesey dw i credu	NSNT	SNT
+134, 6	624, 1-5	ELI	be oedd ei henw hi	NSNT	NSNT
+134, 7	624, 6-6	ELI	deudwch	NSNT	NSNT
+134, 8	625, 1-10	ELI	oedd *dad* wedi chyfarfod hi efo ei efo ei waith	---	NST
+
+
+135, 1	626, 1-2	LIN	Lady Anglesey	---	SNT
+
+
+136, 1	627, 1-2	ELI	Lady Anglesey	SNT	SNT
+136, 3	629, 1-3	ELI	yeah Lady Anglesey	---	SNT
+
+
+137, 1	630, 1-4	LIN	ew bobl bwysig felly	---	NSNT
+
+
+138, 1	631, 1-2	ELI	be cariad	---	NSNT
+
+
+139, 1	632, 1-3	LIN	pobl bwysig felly	---	NSNT
+
+
+140, 1	633, 1-2	ELI	well oedd	NSNT	NSNT
+140, 2	633, 3-13	ELI	oedd y o'n nhw dipyn bach o berthyn i yr rheiny	NSNT	NSNT
+140, 3	635, 1-12	ELI	a ac oedd *dad* yn ei chyfarfod hi weithiau hefo ei waith	NST	NST
+140, 4	635, 13-21	ELI	dach chi gweld efo ryw bwyllgor neu rywbeth neu	NSNT	NSNT
+140, 5	638, 1-6	ELI	oedd hi yn ddynes *right* active	ST	ST
+140, 6	640, 1-6	ELI	a dyma *dad* yn sôn wrthi	NST	NST
+140, 7	641, 1-8	ELI	ac oedd hi yn gwybod am y cysylltiad	---	NSNT
+
+
+141, 1	643, 1-2	LIN	well well	---	NSNT
+
+
+142, 1	644, 2-8	ELI	oedd hi yn gwybod am y cysylltiad	NSNT	NSNT
+142, 2	647, 1-10	ELI	a mi oeddwn i wedi cadw yr *er* darn llythyr	NST	NST
+142, 3	647, 11-14	ELI	oedd o wedi sgwennu	NSNT	NSNT
+142, 4	649, 1-6	ELI	a dw i ddim yn gwybod	NSNT	NSNT
+142, 5	649, 7-15	ELI	ydy o yn y *ddesk* yna yn fan yna	---	NST
+
+
+143, 1	650, 1-3	LIN	ia mae sure	---	NSNT
+
+
+144, 1	651, 1-10	ELI	oh baswn i ddim yn licio mynd i edrych amdano	NSNT	NSNT
+144, 3	653, 1-11	ELI	dw ddim yn gweld ddigon da i ffeindio rywbeth yn *sudden*	---	NST
+
+
+145, 1	655, 1-3	LIN	oh mae sure	NSNT	NSNT
+145, 2	655, 4-7	LIN	bod o yna rywle	---	NSNT
+
+
+146, 1	656, 1-2	ELI	mae falle	NSNT	NSNT
+146, 2	656, 3-4	ELI	bod o	NSNT	NSNT
+146, 3	657, 1-4	ELI	oh falle bod o	NSNT	NSNT
+146, 4	658, 1-9	ELI	falle bod o wedi cael ei glirio o yna	NSNT	NSNT
+146, 5	660, 1-5	ELI	so dw i yn gwybod	NSNT	NSNT
+146, 6	660, 6-7	ELI	bod ei	NSNT	NSNT
+146, 7	662, 1-10	ELI	a wedyn ymhen amser o'n i yn deall o_wrth Marian	NSNT	NSNT
+146, 8	663, 1-8	ELI	ddaru hi ddim deud wrtha i am flynyddoedd	NSNT	NSNT
+146, 9	664, 1-5	ELI	oedd wedi magu plant hefo	NSNT	NSNT
+146, 10	665, 1-8	ELI	oedd wedi cael plant hi a *er* Benjamin_Eden_Humphreys	NST	NST
+146, 11	667, 1-6	ELI	Ben oedd hi yn alw fo	NSNT	NSNT
+146, 12	667, 7-10	ELI	dw meddwl neu Eden	NSNT	NSNT
+146, 13	669, 1-12	ELI	a ymhen amser mi soniodd *er* na fel ail wraig iddo fo	NST	NST
+146, 14	669, 13-14	ELI	oedd hi	NSNT	NSNT
+146, 15	671, 1-5	ELI	ymhen amser ddeudodd hi hynny	---	NSNT
+
+
+147, 1	672, 1-7	LIN	oh o'n i ddim yn gwybod hynny	---	NSNT
+
+
+148, 1	673, 1-6	ELI	na oedden i ddim yn gwybod	NSNT	NSNT
+148, 2	674, 1-2	ELI	ymhen amser	NSNT	NSNT
+148, 3	676, 1-4	ELI	a achos mi soniodd	NSNT	NSNT
+148, 4	676, 5-7	ELI	bod gynno fab	---	NSNT
+
+
+149, 1	677, 1-11	LIN	oh ac oedd gynno fo blant o ei briodas gynta hefyd	---	NSNT
+
+
+150, 1	678, 1-5	ELI	mae raid ie neu mab	NSNT	NSNT
+150, 2	681, 1-9	ELI	a wedyn mi soniodd am y mab yma rywsut	NSNT	NSNT
+150, 3	683, 1-6	ELI	yn gwneud ryw gontact efo hi	NSNT	SNT
+150, 4	685, 1-3	ELI	a dyna chwbl	---	NSNT
+
+
+151, 1	686, 1-10	LIN	so ella bod o dipyn yn hŷn na hi felly	---	NSNT
+
+
+152, 1	687, 1-7	ELI	well dw i ddim yn gwybod falle	NSNT	NSNT
+152, 2	687, 8-9	ELI	bod o	NSNT	NSNT
+152, 3	688, 1-9	ELI	ond oedd hi wedi edrych ar ei ôl o	NSNT	NSNT
+152, 4	689, 2-11	ELI	wedi bod *right* sâl efo ryw kidney failure a rywbeth	NST	ST
+152, 5	691, 1-4	ELI	ond dw i meddwl	NSNT	NSNT
+152, 6	691, 5-11	ELI	bod nhw wedi cael amser *right* hapus	NST	NST
+152, 7	693, 1-11	ELI	a wedyn mae hi wedi ymuno efo ryw gôr erbyn hyn	---	NSNT
+
+
+153, 1	694, 2-7	LIN	mae wedi symud i ryw um	---	NSNT
+
+
+154, 1	695, 1-2	ELI	residential unit	---	NSNT
+
+
+155, 1	696, 1-7	LIN	ydy neu ryw bentre ymddeol neu rywbeth	NSNT	NSNT
+155, 2	696, 8-8	LIN	tydy	---	NSNT
+
+
+156, 1	697, 3-3	ELI	mae	NSNT	NSNT
+156, 2	698, 1-9	ELI	mi oedd hi wedi cael ei magu yn dda	NSNT	NSNT
+156, 3	699, 1-8	ELI	fedrwch chi weld arni deud deud y gwir	---	NSNT
+
+
+157, 1	701, 1-6	LIN	ond oedd o yn hanes trist	NSNT	NSNT
+157, 2	701, 7-8	LIN	doedd um	NSNT	NSNT
+157, 3	701, 9-9	LIN	wchi	NSNT	NSNT
+157, 4	701, 10-13	LIN	ei *mham* hi marw	NST	NST
+157, 5	701, 14-18	LIN	pan oedd hi mor ifanc	NSNT	NSNT
+157, 6	703, 1-4	LIN	be be oedd hi	NSNT	NSNT
+157, 7	704, 1-4	LIN	ryw chwe wsnos oed	---	NSNT
+
+
+158, 1	705, 1-6	ELI	ie mae yn sure ie neu	NSNT	NSNT
+158, 2	707, 1-3	ELI	na oedd hi	NSNT	NSNT
+158, 3	707, 4-6	ELI	dw i meddwl	NSNT	NSNT
+158, 4	707, 7-12	ELI	bod hi yn chwe mis falle	---	NSNT
+
+
+159, 1	708, 1-2	LIN	chwe mis	---	NSNT
+
+
+160, 1	709, 1-6	ELI	ond dw i ddim yn sure	NSNT	NSNT
+160, 2	709, 7-7	ELI	wchi	NSNT	NSNT
+160, 3	711, 1-5	ELI	oh oedd o hanes trist	NSNT	NSNT
+160, 4	713, 1-12	ELI	oh yr hen Ewythr Arthur fydda i wedi meddwl *lot* amdano fo	NST	NST
+160, 5	713, 13-13	ELI	wchi	---	NSNT
+
+
+161, 1	714, 1-9	LIN	so oedd o yn frawd i eich nain wedyn	---	NSNT
+
+
+162, 1	715, 1-3	ELI	brawd i nain	NSNT	NSNT
+162, 2	717, 1-3	ELI	a oedd o	NSNT	NSNT
+162, 3	717, 4-9	ELI	wedi bod yn byw efo nain	NSNT	NSNT
+162, 4	717, 10-13	ELI	dach chi yn gweld	NSNT	NSNT
+162, 5	718, 1-6	ELI	a mi briododd y ddynes yma	NSNT	NSNT
+162, 6	719, 1-5	ELI	*er* ryw Mrs_Sheridan oedd hi	NST	NST
+162, 7	721, 1-7	ELI	dw i sure mai dynes o Lerpwl	NSNT	NSNT
+162, 8	721, 8-9	ELI	oedd honno	---	NSNT
+
+
+163, 1	723, 1-5	LIN	dim Cymraes oedd hi felly	---	NSNT
+
+
+164, 1	724, 1-3	ELI	dw i meddwl	NSNT	NSNT
+164, 2	726, 1-4	ELI	well dw i meddwl	NSNT	NSNT
+164, 3	728, 1-6	ELI	wchi o'n i yn ifanc iawn	NSNT	NSNT
+164, 4	728, 7-7	ELI	doedden	---	NSNT
+
+
+165, 1	729, 1-2	LIN	oeddech sure	---	NSNT
+
+
+166, 1	730, 1-3	ELI	dw i sure	NSNT	NSNT
+166, 2	730, 4-10	ELI	bod fi yn iau na Annest wan	---	NSNT
+
+
+167, 1	731, 1-2	LIN	oh oeddech	NSNT	NSNT
+167, 2	731, 3-4	LIN	mae sure	---	NSNT
+
+
+168, 1	732, 1-8	ELI	mae yn syndod bod fi yn cofio gymaint	---	NSNT
+
+
+169, 1	733, 1-9	LIN	well tua wyth mlynedd sy rhyngthoch chi a Marian	---	NSNT
+
+
+170, 1	734, 1-1	ELI	chwech	---	NSNT
+
+
+171, 1	735, 1-1	LIN	chwech	NSNT	NSNT
+171, 2	737, 1-8	LIN	well o'ch chi yn iau na hynny felly	---	NSNT
+
+
+172, 1	738, 1-1	ELI	be	---	NSNT
+
+
+173, 1	739, 1-6	LIN	oeddech chi yn ifanc iawn felly	---	NSNT
+
+
+174, 1	740, 1-1	ELI	oedden	NSNT	NSNT
+174, 2	741, 1-8	ELI	mae yn syndod bod fi yn cofio cystal	NSNT	NSNT
+174, 3	743, 1-5	ELI	dw i ddim yn meddwl	NSNT	NSNT
+174, 4	743, 6-14	ELI	baswn i yn cofio cystal *mam* yn sôn *lot*	---	NST
+
+
+175, 1	744, 1-2	LIN	ia sure	---	NSNT
+
+
+176, 1	745, 1-7	ELI	wrtha i pan o'n i fach de	NSNT	NSNT
+176, 2	748, 1-3	ELI	a oedd y	NSNT	NSNT
+176, 3	748, 4-9	ELI	oedd y gen y Mrs_Sheridan yma	NSNT	NSNT
+176, 4	749, 2-2	ELI	gynni	NSNT	NSNT
+176, 5	749, 4-4	ELI	gynni	NSNT	NSNT
+176, 6	750, 1-11	ELI	oedd hi wraig weddw efo efo plant eraill *lot* o blant	NST	NST
+176, 7	750, 12-14	ELI	dw i meddwl	NSNT	NSNT
+176, 8	752, 1-19	ELI	a mae rhaid bod Ewythr Arthur wedi mynd i fyw ati hi a yr a yr plant eraill yma	NSNT	NSNT
+176, 9	754, 1-7	ELI	a dw i ddim yn gwybod be	NSNT	NSNT
+176, 10	755, 1-7	ELI	ond mi aeth o oddi_wrthi beth bynnag	NSNT	NSNT
+176, 11	757, 1-7	ELI	a Auntie Jane efo fo at nain	NSNT	NSNT
+176, 12	760, 1-7	ELI	oedd nhw gyd licio mynd at nain	NSNT	NSNT
+176, 13	762, 1-2	ELI	i Maes_y_Dderwen	NSNT	NSNT
+176, 14	764, 1-15	ELI	a fan yna oedd o efo efo *er* Marian a *er* naci efo Auntie Jane	NST	NST
+176, 15	765, 1-15	ELI	oedd hi wedi magu efo *mam* a a Auntie a rheina i_gyd fath â chwaer	NST	NST
+176, 16	767, 1-8	ELI	mae raid bod hi wedi mynd o ifanc	NSNT	NSNT
+176, 17	768, 1-6	ELI	fysai ddim yn gwybod dim_byd arall	NSNT	NSNT
+176, 18	770, 1-7	ELI	oedden nhw yn edrych arni fel chwaer	NSNT	NSNT
+176, 19	772, 1-9	ELI	ac oedd hi gaeth hi ac Ewythr Arthur ei	NSNT	NSNT
+176, 20	772, 10-19	ELI	roid hi yr *shop* newydd i wneud i ddysgu gwnïo	NST	NST
+176, 21	774, 1-7	ELI	ac oedd hi yn canlyn ryw Bob_Neil	NSNT	NSNT
+176, 22	776, 1-3	ELI	yn y Glyn	NSNT	NSNT
+176, 23	777, 1-10	ELI	ryw ffarmwr oedd yn byw ddim yn bell o Maes_y_Dderwen	NSNT	NSNT
+176, 24	779, 1-9	ELI	a wir mi aeth hi i yr i Lerpwl	NSNT	NSNT
+176, 25	780, 1-8	ELI	gaeth hi fel oedd hi yn cael *er*	NST	NST
+176, 26	781, 1-9	ELI	oedd hi yn gorffen ei phrentisiaeth yn *shop* newydd	NST	NST
+176, 27	783, 1-7	ELI	a mi gaeth hi swydd yn Lerpwl	NSNT	NSNT
+176, 28	784, 1-4	ELI	*er* Wigan dw i	NST	NST
+176, 29	785, 1-5	ELI	be oedd enw yr lle	NSNT	NSNT
+176, 30	786, 1-5	ELI	wn i ddim na Wigan_House	NSNT	NSNT
+176, 31	786, 6-7	ELI	oedd o	NSNT	NSNT
+176, 32	787, 1-8	ELI	dw i ddim yn cofio yn iawn rŵan	NSNT	NSNT
+176, 33	788, 1-2	ELI	ond ryw	NSNT	NSNT
+176, 34	789, 1-7	ELI	dw i ddim yn meddwl mai Wigan_House	NSNT	NSNT
+176, 35	789, 8-9	ELI	oedd o	NSNT	NSNT
+176, 36	790, 1-4	ELI	rywbeth dechrau efo w	NSNT	SNT
+176, 37	792, 1-1	ELI	House	SNT	NSNT
+176, 38	794, 1-6	ELI	yn Lerpwl yn gwneud wedding dresses	SNT	SNT
+176, 39	796, 1-12	ELI	ac i fan yna aeth hi a a cyfarfod yr Hugo_Green yma	NSNT	NSNT
+176, 40	798, 1-3	ELI	a priodi Hugo_Green	NSNT	NSNT
+176, 41	800, 1-11	ELI	a mae raid bod hi wedi gorffen efo yr Bob_Neil yma	---	NSNT
+
+
+177, 1	801, 2-3	LIN	mae raid	---	NSNT
+
+
+178, 1	802, 1-3	ELI	ac oedd o	NSNT	NSNT
+178, 2	802, 4-9	ELI	wedi bod yn gariad iddi ers	NSNT	NSNT
+178, 3	802, 10-14	ELI	oedd hi yn yr ysgol	NSNT	NSNT
+178, 4	802, 15-17	ELI	dw meddwl really	SNT	SNT
+178, 5	802, 18-18	ELI	wchi	NSNT	NSNT
+178, 6	805, 1-12	ELI	ond *er* rhyfedd iawn a mi ddoth hi o o o Lerpwl	NST	NST
+178, 7	806, 1-2	ELI	oedd o	NSNT	NSNT
+178, 8	806, 3-6	ELI	oedd y Hugo_Green yma	NSNT	NSNT
+178, 9	806, 7-13	ELI	oedd o yn dod o deulu da	NSNT	NSNT
+178, 10	806, 14-14	ELI	wchi	NSNT	NSNT
+178, 11	808, 1-9	ELI	o'n nhw yn o deulu *well* *off* *family* yn_de	NST	NST
+178, 12	810, 1-4	ELI	oedd ei *fam* o	NST	NST
+178, 13	810, 5-10	ELI	wedi bod yn dda wrth Marian	NSNT	NSNT
+178, 14	810, 11-11	ELI	wchi	NSNT	NSNT
+178, 15	812, 1-3	ELI	ond dw meddwl	NSNT	NSNT
+178, 16	812, 4-15	ELI	bod o yn dipyn o *er* o *black* sheep in the *family*	---	ST
+
+
+179, 1	813, 1-2	LIN	oedd o	---	NSNT
+
+
+180, 1	814, 1-1	ELI	dipyn	NSNT	NSNT
+180, 2	816, 1-7	ELI	dw i ddim yn gwybod yn iawn	NSNT	NSNT
+180, 3	816, 8-8	ELI	wchi	NSNT	NSNT
+180, 4	818, 1-4	ELI	ond dyna yr argraff	NSNT	NSNT
+180, 5	818, 5-6	ELI	oedd plentyn	NSNT	NSNT
+180, 6	818, 7-10	ELI	oeddwn i wedi gael	NSNT	NSNT
+180, 7	821, 1-7	ELI	ac oedd o yn y merchant *navy*	ST	ST
+180, 8	823, 1-6	ELI	wedi mynd i yr merchant *navy*	ST	ST
+180, 9	825, 1-3	ELI	wn i ddim	NSNT	NSNT
+180, 10	825, 4-8	ELI	oedd hi yn adeg rhyfel	NSNT	NSNT
+180, 11	825, 9-10	ELI	mae sure	NSNT	NSNT
+180, 12	826, 1-5	ELI	dw i ddim yn gwybod	---	NSNT
+
+
+181, 1	827, 1-4	LIN	rhyfel cynta ella ia	---	NSNT
+
+
+182, 1	828, 1-3	ELI	oh well mae	NSNT	NSNT
+182, 2	829, 1-4	ELI	well dwn i ddim	NSNT	NSNT
+182, 3	831, 1-5	ELI	dw i ddim yn gwybod	NSNT	NSNT
+182, 4	833, 1-5	ELI	dw i ddim yn gwybod	NSNT	NSNT
+182, 5	834, 1-4	ELI	ond oedd wedi mynd	---	NSNT
+
+
+183, 1	835, 1-2	LIN	nag oedd	---	NSNT
+
+
+184, 1	837, 1-8	ELI	a wedyn oedd hi wedi dod i Maes_y_Dderwen	NSNT	NSNT
+184, 2	838, 1-6	ELI	a dw cofio nhad yn deud	NSNT	NSNT
+184, 3	838, 7-19	ELI	oedd hi yn disgwyl am bres i ddod i yr *post* *office* oddi_wrtho	NST	NST
+184, 4	840, 1-6	ELI	a dw i ddim yn gwybod	NSNT	NSNT
+184, 5	841, 1-3	ELI	dw i meddwl	NSNT	NSNT
+184, 6	841, 4-9	ELI	bod yna dipyn bach o drafferth	NSNT	NSNT
+184, 7	843, 1-2	ELI	felly yn_de	NSNT	NSNT
+184, 8	845, 1-8	ELI	a wir *er* mi gaeth hi *pneumonia* do	---	NST
+
+
+185, 1	846, 1-5	LIN	ar_ôl geni yr plentyn wan	---	NSNT
+
+
+186, 1	847, 1-2	ELI	ar_ôl geni	NSNT	NSNT
+186, 2	848, 1-5	ELI	oedd hi wedi cael Marian	NSNT	NSNT
+186, 3	850, 1-5	ELI	a mae llun *er* *Marian*	---	NST
+
+
+187, 1	851, 2-7	LIN	mae o fyny yn y llofft	NSNT	NSNT
+187, 2	851, 8-9	LIN	tydy llun	---	NSNT
+
+
+188, 1	852, 1-3	ELI	well mae o	NSNT	NSNT
+188, 2	852, 4-5	ELI	wedi bod	NSNT	NSNT
+188, 3	853, 1-4	ELI	mae o gen Wynford	NSNT	NSNT
+188, 4	854, 1-4	ELI	rhaid mi atgoffa fo	NSNT	NSNT
+188, 5	856, 1-15	ELI	oedd o wedi mynd â fo o yma i wneud o yn well neu rywbeth	---	NSNT
+
+
+189, 1	857, 1-7	LIN	oh i wneud *copies* ar y cyfrifiadur	---	NST
+
+
+190, 1	860, 1-7	ELI	a wedyn um yr hanes oedd wedyn	NSNT	NSNT
+190, 2	861, 1-2	ELI	oedd yna	NSNT	NSNT
+190, 3	861, 3-6	ELI	oedd yna Pat Williams	NSNT	NSNT
+190, 4	861, 7-8	ELI	oedd hi	NSNT	NSNT
+190, 5	862, 1-20	ELI	oedd hi un o yr rei hyna o lond tŷ o o o blant o yr Garth yn y Glyn	NSNT	NSNT
+190, 6	863, 1-7	ELI	yn ymyl yr eglwys mae yr Garth	NSNT	NSNT
+190, 7	865, 1-10	ELI	oedd yna lond tŷ o nhw wedi colli eu rhieni	NSNT	NSNT
+190, 8	867, 1-10	ELI	ac oedd y Pat yma yr hyna o yr plant	NSNT	NSNT
+190, 9	869, 1-5	ELI	yn edrych ar_ôl lleill i_gyd	NSNT	NSNT
+190, 10	871, 1-10	ELI	ac oedd yna rywbeth *right* del yni llygaid *right* del	NST	NST
+190, 11	872, 1-11	ELI	ac anyway oedd honno wedi wedi cyfarfod Bob_Neil yma ryw ffordd	NSNT	SNT
+190, 12	873, 1-11	ELI	dw i ddim yn gwybod pam sut na be na be	NSNT	NSNT
+190, 13	876, 1-7	ELI	ond mi briododd honno y Bob_Neil yma	---	NSNT
+
+
+191, 1	877, 1-5	LIN	oh wnes i gyfarfod honno	NSNT	NSNT
+191, 2	879, 1-11	LIN	*just* cyn iddi farw deud y gwir do tua dwy flynedd	---	NST
+
+
+192, 1	880, 2-10	ELI	oedd hi yn gwybod yn iawn am Auntie Jane	NSNT	NSNT
+192, 2	880, 11-11	ELI	wchi	NSNT	NSNT
+192, 3	882, 1-3	ELI	a mae hi	NSNT	NSNT
+192, 4	882, 4-6	ELI	briododd hi Bob_Neil	NSNT	NSNT
+192, 5	883, 1-8	ELI	a dw i cofio ei *mam* yn deud	NST	NST
+192, 6	884, 1-4	ELI	oedd *mam* yn deud	NST	NST
+192, 7	885, 1-1	ELI	well	NSNT	NSNT
+192, 8	886, 1-2	ELI	meddai *mam*	NST	NST
+192, 9	887, 1-5	ELI	mae fath â trefn ragluniaeth	NSNT	NSNT
+192, 10	887, 6-11	ELI	bod honno wedi priodi efo Bob_Neil	NSNT	NSNT
+192, 11	889, 1-15	ELI	yn cael cartre a gofal i yr holl blant yna oedd raid gael eu magu	NSNT	NSNT
+192, 12	891, 1-7	ELI	ond oedd hi wedi deud wrtha i	NSNT	NSNT
+192, 13	892, 1-6	ELI	oedd hi yn gwybod yr hanes	NSNT	NSNT
+192, 14	893, 1-7	ELI	ac oedd hi rywbeth *right* *nice* yni	NST	NST
+192, 15	895, 1-10	ELI	a dw i cofio hi yn deud wrtha i *ooh*	NST	NST
+192, 16	895, 12-15	ELI	oedd Auntie Jane wan	NSNT	NSNT
+192, 17	895, 16-23	ELI	oedd hi yn gyrru cardyn pen_blwydd iddo fo	NSNT	NSNT
+192, 18	897, 1-7	ELI	ar_ôl priodi yn_de neu ar_ôl ymhen blynyddoedd	NSNT	NSNT
+192, 19	902, 1-2	ELI	ond um	NSNT	NSNT
+192, 20	904, 1-5	ELI	ac oedd *mam* yn deud	NST	NST
+192, 21	904, 6-16	ELI	oedd hi yn canu ar ei gwely angau Auntie Jane Abide_With_Me	---	NSNT
+
+
+193, 1	905, 1-1	LIN	esgob	NSNT	NSNT
+193, 3	907, 1-2	LIN	mae raid	NSNT	NSNT
+193, 4	907, 3-10	LIN	fysai hi ddim mwy na ryw un_ar_hugain dwy_ar_hugain	---	NSNT
+
+
+194, 1	908, 1-4	ELI	na twenty_two oedd hi	NSNT	SNT
+194, 2	908, 5-7	ELI	wchi yn marw	NSNT	NSNT
+194, 3	910, 1-8	ELI	a fydda i wedi meddwl am Ewythr Arthur	NSNT	NSNT
+194, 4	912, 1-4	ELI	yn colli ei *er*	---	NST
+
+
+195, 1	913, 1-5	LIN	ei ferch ei unig ferch	---	NSNT
+
+
+196, 1	914, 1-9	ELI	yeah colli yr unig ferch a yr plentyn yn_de	---	NSNT
+
+
+197, 1	915, 1-6	LIN	well a yr plentyn achos ddoth	NSNT	NSNT
+197, 2	915, 7-17	LIN	ddoth yr Hugo_Green yma i nôl y plentyn wedyn o Lerpwl	---	NSNT
+
+
+198, 1	916, 3-3	ELI	ei	NSNT	NSNT
+198, 2	916, 4-11	ELI	oedd ei ei *fam* o yn dŵad i	NST	NST
+198, 3	917, 1-8	ELI	mi oedd wedi dod i weld Auntie Jane	NSNT	NSNT
+198, 4	919, 1-3	ELI	aros yn Queens_Hotel	SNT	SNT
+198, 5	921, 1-14	ELI	yn Dalywern achos yn aros yn fan yna achos oedd o yn non_alcoholic *hotel*	ST	ST
+198, 6	923, 1-5	ELI	mae o yn Cheshire_Homes wan	NSNT	NSNT
+198, 7	925, 1-3	ELI	ond oedd hi	NSNT	NSNT
+198, 8	925, 4-5	ELI	wedi bod	NSNT	NSNT
+198, 9	926, 1-7	ELI	bobl *nice* iawn dach chi yn gweld	NST	NST
+198, 10	928, 1-20	ELI	ac i yn cofio o'n nhw wedi gyrru llun ohoni o Auntie o Marian pan oedd hi tua tair oed	NSNT	NSNT
+198, 11	930, 1-3	ELI	i Maes_y_Dderwen yn_de	NSNT	NSNT
+198, 12	932, 1-10	ELI	ond of *course* oedd gen i ddim *touch* efo nhw	---	ST
+
+
+198, 13	934, 1-2	ELI	ac um	NSNT	NSNT
+199, 2	937, 1-8	LIN	a oedd hi ddim wedi cael dim croeso	NSNT	NSNT
+199, 3	937, 9-9	LIN	gynni	NSNT	NSNT
+199, 4	937, 10-11	LIN	meddai hi	NSNT	NSNT
+199, 5	939, 1-4	LIN	methu dallt meddai hi	SNT	NSNT
+199, 6	940, 1-6	LIN	she was my grandmother after all	SNT	NSNT
+199, 7	941, 1-1	LIN	meddai	---	NSNT
+
+
+200, 1	943, 1-3	ELI	well dyna fo	NSNT	NSNT
+200, 2	944, 1-9	ELI	toedd hi ddim llawer o beth dw i meddwl	NSNT	NSNT
+200, 3	944, 10-11	ELI	wchi really	SNT	SNT
+200, 4	947, 1-4	ELI	does yna ddim rhyfedd	NSNT	NSNT
+200, 5	947, 5-10	ELI	bod Ewythr Arthur wedi mynd o_wrthi	---	NSNT
+
+
+201, 1	948, 1-2	LIN	nag oedd	---	NSNT
+
+
+202, 1	950, 1-3	ELI	ond oedd hi	NSNT	NSNT
+202, 2	950, 4-9	ELI	dw i cofio *mam* yn deud	NST	NST
+202, 3	950, 10-14	ELI	bod hi yn gweld ar	NSNT	NSNT
+202, 4	951, 1-8	ELI	oedd o allt yn mynd fyny i Maes_y_Dderwen	NSNT	NSNT
+202, 6	954, 1-8	ELI	ond oedd hi yn galw hun Mrs_Sheridan o_hyd	NSNT	NSNT
+202, 7	954, 9-9	ELI	wchi	---	NSNT
+
+
+203, 1	955, 1-6	LIN	oh hyd_yn_oed ar_ôl ei briodi fo	---	NSNT
+
+
+204, 1	956, 1-4	ELI	oedd hi yn Carey	NSNT	NSNT
+204, 2	957, 2-8	ELI	oedd hi wedi priodi efo Ewythr Arthur	NSNT	NSNT
+204, 3	958, 1-5	ELI	ond Sheridan_Carey oedd hi really	SNT	SNT
+204, 4	960, 1-4	ELI	ond oedd y genethod	NSNT	NSNT
+204, 5	960, 5-7	ELI	oedd gynni hi	NSNT	NSNT
+204, 6	960, 8-11	ELI	oedd rheiny yn gantorion	---	NSNT
+
+
+205, 1	961, 1-2	LIN	oh oedden	---	NSNT
+
+
+206, 1	962, 1-6	ELI	yn um yn medru canu oedd	NSNT	NSNT
+206, 2	964, 1-5	ELI	dw i ddim yn amau	NSNT	NSNT
+206, 3	964, 6-7	ELI	bod yna	NSNT	NSNT
+206, 4	964, 8-19	ELI	bod yna hanes amdanyn nhw yn canu yn yr *opera* yn Llundain	NST	NST
+206, 5	966, 1-4	ELI	rhei o rheiny yeah	---	NSNT
+
+
+207, 1	967, 1-2	LIN	oh duwcs	---	NSNT
+
+
+208, 1	969, 1-4	ELI	ond oedd *mam* Marian	NST	NST
+208, 2	969, 5-6	ELI	ei hun	NSNT	NSNT
+208, 3	971, 1-4	ELI	wn i ddim *er*	NST	NST
+208, 4	971, 5-7	ELI	sut oedd hi	NSNT	NSNT
+208, 5	972, 1-11	ELI	mi oedd yna ganu da yn y yn y teulu Carey	NSNT	NSNT
+208, 6	974, 1-2	ELI	tenoriaid yn_de	NSNT	NSNT
+208, 7	976, 1-4	ELI	ond of *course* lasai	NST	ST
+208, 8	976, 5-10	ELI	bod y Mrs_Sheridan yma medru canu	NSNT	NSNT
+208, 9	977, 1-7	ELI	dw i ddim yn gwybod am hynny	NSNT	NSNT
+208, 10	979, 1-5	ELI	dw i ddim yn gwybod	NSNT	NSNT
+208, 11	982, 1-3	ELI	ond dyna fo	NSNT	NSNT
+208, 12	982, 4-7	ELI	dw i ddim yn	---	NSNT
+
+
+209, 1	983, 1-9	LIN	oedd gyn eich *mam* *lot* o frodyr a chwiorydd	NST	NST
+209, 2	983, 10-10	LIN	doedd	---	NSNT
+
+
+210, 1	984, 1-1	ELI	*pardon*	---	NST
+
+
+211, 1	985, 1-7	LIN	na un brawd oedd gyn eich *mam*	---	NST
+
+
+212, 1	986, 1-3	ELI	yeah Uncle Roberts	---	NSNT
+
+
+213, 1	987, 1-2	LIN	a wedyn	NSNT	NSNT
+213, 2	988, 1-4	LIN	ond *lot* o chwiorydd	---	NST
+
+
+214, 1	989, 1-4	ELI	oedd Auntie Dot Dorothy_Mary	NSNT	NSNT
+214, 2	991, 1-4	ELI	ac Auntie Catherine Catherine_Gwenllian	NSNT	NSNT
+214, 3	993, 1-2	ELI	dyna cwbl	NSNT	NSNT
+214, 4	997, 1-5	ELI	dw i ddim yn meddwl	NSNT	NSNT
+214, 5	997, 6-6	ELI	bod	NSNT	NSNT
+214, 6	997, 7-8	ELI	gynni fwy	NSNT	NSNT
+214, 7	998, 1-3	ELI	dw i meddwl	NSNT	NSNT
+214, 8	998, 4-9	ELI	bod nhw wedi colli brawd hefyd	NSNT	NSNT
+214, 9	1000, 1-1	ELI	meddwl	NSNT	NSNT
+214, 10	1000, 2-3	ELI	bod nhw	NSNT	NSNT
+214, 11	1000, 4-4	ELI	wchi	NSNT	NSNT
+214, 12	1002, 1-2	ELI	Uncle Roberts	NSNT	NSNT
+214, 13	1004, 1-3	ELI	ie ond oedd	NSNT	NSNT
+214, 14	1004, 4-17	ELI	oedd yna garreg fedd i i Auntie Jane yn y fynwent y fynwent ganol	NSNT	NSNT
+214, 15	1005, 1-9	ELI	yr un fynwent â mae nain i wedi chladdu	NSNT	NSNT
+214, 16	1006, 1-3	ELI	carreg fedd wen	NSNT	NSNT
+214, 17	1008, 1-10	ELI	a dw i wedi fuais i gweld hi efo *dad*	NST	NST
+214, 18	1010, 1-4	ELI	oedd *dad* a fi	NST	NST
+214, 19	1012, 1-3	ELI	*round* y fynwent	NST	NST
+214, 20	1013, 1-5	ELI	ond oedd hi fath â	NSNT	NSNT
+214, 21	1013, 6-16	ELI	bod y gwynt wedi symud hi ar un ochr fel hyn	NSNT	NSNT
+214, 22	1015, 1-3	ELI	wn i ddim	NSNT	NSNT
+214, 23	1015, 4-9	ELI	oedd hi saff deud y gwir	NSNT	NSNT
+214, 24	1017, 1-7	ELI	ond dim_byd i wneud efo fi really	SNT	SNT
+214, 25	1019, 1-8	ELI	a wedyn oedd enw *er* Auntie Jane arni	NST	NST
+214, 26	1019, 9-15	ELI	a bod hi wraig *er* i Hugo_Green	NST	NST
+214, 27	1021, 1-5	ELI	a merch Arthur_Savage arni hefyd	SNT	NSNT
+214, 28	1023, 1-3	ELI	*sad* you know	ST	NST
+214, 29	1026, 1-7	ELI	oh dw i yn ei chofio hi	NSNT	NSNT
+214, 30	1028, 1-10	ELI	a oedd hi wedi wneud um *coat* *nice* i mi	NST	NST
+214, 31	1030, 1-3	ELI	oedd hi yn	NSNT	NSNT
+214, 32	1031, 1-2	ELI	oedd yna	NSNT	NSNT
+214, 33	1031, 3-13	ELI	wlanen *nice* iawn i gael o yr *factory* o yr *factory*	NST	NST
+214, 34	1033, 1-8	ELI	*factory* ucha lle oedd Nel_Griffiths byw yn ymyl	NST	NST
+214, 35	1034, 1-11	ELI	a peth um oedd y patrwm yn y yn y flannel	SNT	SNT
+214, 36	1036, 1-15	ELI	a wedyn oedd Auntie Jane wedi wneud *coat* i mi o hwnnw a *velvet* *collar*	NST	NST
+214, 37	1038, 1-4	ELI	a *satin* *lining* yn_de	---	NST
+
+
+215, 1	1039, 1-1	LIN	ew	---	NSNT
+
+
+216, 1	1040, 1-4	ELI	oedd hi yn lovely	SNT	SNT
+216, 2	1040, 5-5	ELI	wchi	---	NSNT
+
+
+217, 1	1041, 1-3	LIN	yndy sure ah	---	NSNT
+
+
+218, 1	1042, 2-5	ELI	oedd hi yn lovely	SNT	SNT
+218, 2	1043, 1-10	ELI	a *course* o'n i fach a not too *proud* wchi	NST	ST
+218, 4	1045, 1-1	ELI	a	---	NSNT
+
+
+219, 1	1046, 1-4	LIN	licio dillad amser hynny	---	NSNT
+
+
+220, 1	1047, 1-4	ELI	oh yn fach oeddwn	NSNT	NSNT
+220, 2	1048, 1-7	ELI	a dw i cofio yr *goat* yma	NST	NST
+220, 3	1049, 1-3	ELI	oedd hi yn	NSNT	NSNT
+220, 4	1049, 4-6	ELI	oedd hi yn	NSNT	NSNT
+220, 5	1049, 7-10	ELI	oedd hi yn lovely	SNT	SNT
+220, 6	1049, 11-11	ELI	wchi	NSNT	NSNT
+220, 7	1050, 1-7	ELI	ond oedd hi yn drwm i mi	NSNT	NSNT
+220, 8	1052, 1-8	ELI	a falle bod fi yn gwisgo hi weithiau	NSNT	NSNT
+220, 9	1052, 9-17	ELI	pan oedd hi ry rhy gynnes i *goat* felly	NST	NST
+220, 10	1054, 1-5	ELI	oh dw i yn cofio	NSNT	NSNT
+220, 11	1054, 6-9	ELI	bod hi yn drwm	NSNT	NSNT
+220, 12	1057, 1-2	ELI	a dw	---	NSNT
+
+
+221, 1	1058, 1-4	LIN	pa liw oedd hi	---	NSNT
+
+
+222, 1	1059, 1-1	ELI	*pardon*	---	NST
+
+
+223, 1	1060, 1-4	LIN	pa liw oedd hi	---	NSNT
+
+
+224, 1	1061, 1-4	ELI	oh golau oedd hi	NSNT	NSNT
+224, 3	1063, 1-4	ELI	golau oedd y *goat*	NST	NST
+224, 4	1065, 1-7	ELI	dw i ddim yn cofio pwy liw	NSNT	NSNT
+224, 5	1065, 8-10	ELI	oedd y *velvet*	NST	NST
+224, 6	1066, 1-6	ELI	dw i meddwl mai melfed tywyll	NSNT	NSNT
+224, 7	1066, 7-8	ELI	oedd hi	NSNT	NSNT
+224, 8	1067, 1-7	ELI	dw i ddim yn cofio yn iawn	NSNT	NSNT
+224, 10	1069, 1-5	ELI	ond oedd hi yn lovely	SNT	SNT
+224, 11	1069, 6-11	ELI	wchi wedi i Auntie Jane wneud	NSNT	NSNT
+224, 12	1073, 1-14	ELI	a wedyn ar_ôl mae yn sure neu ddim na cyn iddo briodi neu ar_ôl	NSNT	NSNT
+224, 13	1073, 15-31	ELI	oedd o yn dŵad lawr i *Tŷ_Mawr* ar nos ar nos Sadwrn neu ar nos Wener weithiau	---	NST
+
+
+225, 1	1074, 1-3	LIN	Dewyrth Arthur wan	---	NSNT
+
+
+226, 1	1076, 1-3	ELI	Ewythr Arthur oedd	NSNT	NSNT
+226, 2	1079, 1-14	ELI	a ddaru o farw ar y ffordd ffordd i_fyny i Maes_y_Dderwen chi yn gweld	---	NSNT
+
+
+227, 1	1082, 1-2	LIN	well well	---	NSNT
+
+
+228, 1	1083, 1-2	ELI	hen greadur	---	NSNT
+
+
+229, 1	1084, 1-16	LIN	dw i yn cofio Marian yn ffonio o Australia rywbryd a fi i fan hyn wan	NSNT	NSNT
+229, 2	1085, 1-5	LIN	a mae raid na fi	NSNT	NSNT
+229, 3	1085, 6-14	LIN	oedd wedi ateb y *phone* a well a wedyn	NST	NST
+229, 4	1085, 15-21	LIN	galw arnoch chi i siarad efo hi	NSNT	NSNT
+229, 5	1086, 1-4	LIN	a dw i cofio	NSNT	NSNT
+229, 6	1086, 5-5	LIN	wchi	NSNT	NSNT
+229, 7	1086, 6-10	LIN	bod chi yn rhoi hanes	NSNT	NSNT
+229, 8	1086, 11-20	LIN	ei *mham* a ei ei *mham* iddi mewn ffordd felly	NST	NST
+229, 9	1087, 1-9	LIN	chibod oedd o yn rhyfedd ar_ôl yr holl flynyddoedd	NSNT	NSNT
+229, 10	1087, 10-10	LIN	doedd	NSNT	NSNT
+229, 11	1087, 11-28	LIN	a wchi dros yr holl amser a o fan yma i yr ochr arall i yr byd felly	NSNT	NSNT
+229, 12	1087, 29-38	LIN	bod chi yn trosglwyddo yr wybodaeth yma iddi hi felly	NSNT	NSNT
+229, 13	1090, 1-5	LIN	am ei am ei *mham*	NST	NST
+229, 14	1091, 1-10	LIN	achos oedd hi ddim yn cofio ei *mham* o_gwbl wrth_gwrs	NST	NST
+229, 15	1091, 11-12	LIN	nag oedd	---	NSNT
+
+
+230, 1	1093, 1-3	ELI	a wedyn mae	NSNT	NSNT
+230, 2	1093, 4-9	ELI	gynni *lot* i ddeud wrtha i	NST	NST
+230, 3	1093, 10-12	ELI	dach chi gweld	NSNT	NSNT
+230, 4	1094, 1-12	ELI	achos um *um* doedd hi ddim yn cofio cofio neb arall ochr	NST	NST
+230, 5	1094, 13-14	ELI	ei *mham*	NST	NST
+230, 6	1096, 1-11	ELI	ond mi aeth hi i yr Glyn un waith efo rywun	NSNT	NSNT
+230, 7	1097, 1-8	ELI	oedd hi wedi dŵad i aros yn Lerpwl	NSNT	NSNT
+230, 8	1097, 9-11	ELI	dw i meddwl	NSNT	NSNT
+230, 9	1098, 1-5	ELI	a wedyn oedd hi wedi	NSNT	NSNT
+230, 10	1098, 6-12	ELI	oedd hi isio mynd i weld bedd	NSNT	NSNT
+230, 11	1098, 13-14	ELI	ei *mham*	NST	NST
+230, 12	1100, 1-8	ELI	well aeth hi heibio lle Auntie Gladys really	SNT	SNT
+230, 13	1102, 1-6	ELI	a ddaru ddim holi am Henry_Lloyd_Davies	NSNT	NSNT
+230, 14	1103, 1-2	ELI	mae sure	NSNT	NSNT
+230, 15	1103, 4-8	ELI	gynni ddim llawer o amser	---	NSNT
+
+
+231, 1	1104, 1-5	LIN	na fysai ddim yn falle	NSNT	NSNT
+231, 2	1105, 1-5	LIN	well gan mai chi oedd	NSNT	NSNT
+231, 3	1105, 6-12	LIN	wedi bod mewn cysylltiad efo hi falle	NSNT	NSNT
+231, 4	1105, 13-29	LIN	bod hi ddim yn ddim mor chimod hy arnyn nhw i fynd i chwilio amdanyn nhw felly	---	NSNT
+
+
+232, 1	1106, 1-2	ELI	nag oedd	NSNT	NSNT
+232, 2	1107, 1-5	ELI	ond ddaru ddim beth bynnag	SNT	NSNT
+232, 3	1110, 1-10	ELI	because Harry yn cofio yr teulu well na fi yn_basai	NSNT	SNT
+232, 4	1111, 1-5	ELI	oedd yn hŷn na fi	---	NSNT
+
+
+233, 1	1112, 1-4	LIN	oh yeah rywfaint oedd	---	NSNT
+
+
+234, 1	1113, 1-5	ELI	achos mae o yn ninety_two	SNT	SNT
+234, 2	1115, 1-8	ELI	tair blynedd hŷn na fi dach chi weld	---	NSNT
+
+
+235, 1	1117, 1-3	LIN	er ella bysai	NSNT	NSNT
+235, 2	1117, 4-14	LIN	bod ei *fam* ddim wedi siarad cymaint wrtho fo amdanyn nhw	---	NST
+
+
+236, 1	1118, 1-3	ELI	well na fysai	NSNT	NSNT
+236, 2	1118, 4-8	ELI	dw i ddim yn meddwl	NSNT	NSNT
+236, 3	1118, 9-11	ELI	bysai Auntie Dot	NSNT	NSNT
+236, 4	1120, 1-4	ELI	rhy brysur o lawer	NSNT	NSNT
+236, 5	1123, 1-14	ELI	ond oedd *mam* *er* wedi symud i *Tŷ_Mawr* yn ffeindio *Tŷ_Mawr* dipyn mwy unig	NST	NST
+236, 6	1123, 15-17	ELI	dw i meddwl	NSNT	NSNT
+236, 7	1125, 1-6	ELI	wchi wedi dod o Maes_y_Dderwen *growd*	NST	NST
+236, 8	1127, 1-2	ELI	ac oedd	NSNT	NSNT
+236, 9	1127, 3-7	ELI	oedd nain wastad yn cael	NSNT	NSNT
+236, 10	1128, 1-2	ELI	oedd nain	NSNT	NSNT
+236, 11	1128, 3-6	ELI	oedd piau yr ddau	NSNT	NSNT
+236, 12	1130, 1-1	ELI	fwthyn	NSNT	NSNT
+236, 13	1132, 1-5	ELI	yr un un ei hun	NSNT	NSNT
+236, 14	1133, 1-8	ELI	ac oedd yna bedwar llofft yn yr un	NSNT	NSNT
+236, 15	1133, 9-10	ELI	oedd nain	NSNT	NSNT
+236, 16	1135, 1-6	ELI	ac oedd y llall yn llai	NSNT	NSNT
+236, 17	1137, 1-12	ELI	a wedyn oedd hi yn osod o i i rywun well rywun	NSNT	NSNT
+236, 18	1137, 13-16	ELI	oedd hi yn licio	NSNT	NSNT
+236, 19	1139, 1-5	ELI	neu rywun oedd yn perthyn	NSNT	NSNT
+236, 20	1141, 1-6	ELI	yeah dw i yn cofio ryw	NSNT	NSNT
+236, 21	1143, 1-16	ELI	yr Annie_Michaels yma yn A_M yn atgoffa fi heddiw o oedd gyn nain rywun yna A_M_Jones	NSNT	SNT
+236, 22	1143, 17-20	ELI	dw i yn cofio	---	NSNT
+
+
+237, 1	1144, 1-5	LIN	be yn rentu yr lle	---	NSNT
+
+
+238, 1	1145, 1-3	ELI	yn rentu ie	NSNT	NSNT
+238, 2	1149, 1-15	ELI	ac oedd yna rywun yn perthyn i rheiny wedi dod i fyw nes at *Tŷ_Mawr*	NST	NST
+238, 3	1150, 1-8	ELI	a pan oedden i adre efo nhad *er*	NST	NST
+238, 4	1151, 1-6	ELI	well ie o'n i wedi priodi	NSNT	NSNT
+238, 5	1152, 1-5	ELI	ac amser cyn dy eni	NSNT	NSNT
+238, 6	1153, 1-9	ELI	ac oedd yna ryw *Mrs_Parry* Mrs_Parry Dryll yn byw	NST	NST
+238, 7	1154, 1-4	ELI	ac oedd gŵr honno	NSNT	NSNT
+238, 8	1154, 5-14	ELI	wedi bod yn byw yn tŷ nain yn fan yno	NSNT	NSNT
+238, 9	1155, 1-5	ELI	ac oedd honno wedi marw	NSNT	NSNT
+238, 10	1156, 1-8	ELI	ac oedd isio rywun fynd yna i helpio	NSNT	NSNT
+238, 11	1158, 1-11	ELI	ryw Mrs_Williams oedd yn gwneud ryw waith fel yna efo rywun	NSNT	NSNT
+238, 12	1158, 12-14	ELI	oedd wedi marw	NSNT	NSNT
+238, 13	1160, 1-8	ELI	a dyma rheiny gofyn basen i nhad tybed	NSNT	NSNT
+238, 14	1160, 9-13	ELI	fysen i mynd i helpio	NSNT	NSNT
+238, 15	1163, 1-4	ELI	hefo yr Mrs_Williams yma	NSNT	NSNT
+238, 16	1165, 1-6	ELI	well o'n i erioed wedi bod	---	NSNT
+
+
+239, 1	1166, 1-7	LIN	ond oeddech chi yn nyrsio erbyn hyn	NSNT	NSNT
+239, 2	1167, 1-2	LIN	oeddech chi	---	NSNT
+
+
+240, 1	1168, 1-3	ELI	oedden o'n i	NSNT	NSNT
+240, 2	1168, 4-7	ELI	wedi bod yn nyrsio	NSNT	NSNT
+240, 3	1170, 1-5	ELI	o'n i wedi traenio fel	NSNT	NSNT
+240, 4	1172, 1-4	ELI	yn Chester Royal yn_de	NSNT	SNT
+240, 5	1174, 1-7	ELI	ac *er* o'n i yn disgwyl ti	NST	NST
+240, 6	1175, 1-7	ELI	a *just* adre oeddwn i yn *Tŷ_Mawr*	NST	NST
+240, 7	1178, 1-3	ELI	a mae sure	NSNT	NSNT
+240, 8	1178, 4-6	ELI	bod nhw meddwl	NSNT	NSNT
+240, 9	1178, 7-13	ELI	bod fi adre a ddim_byd i wneud	NSNT	NSNT
+240, 11	1180, 1-5	ELI	llawer o ddim_byd i wneud	NSNT	NSNT
+240, 12	1181, 1-8	ELI	ond o'n i erioed wedi wneud rywbeth felly	NSNT	NSNT
+240, 13	1183, 1-6	ELI	ac o'n wedi gofyn i nhad	NSNT	NSNT
+240, 14	1184, 1-6	ELI	a nhad yn gofyn i mi	NSNT	NSNT
+240, 15	1185, 1-11	ELI	well toedd y oedd y nhad ddim yn licio gwrthod nhw	NSNT	NSNT
+240, 16	1187, 1-5	ELI	na fi yn licio gwrthod	NSNT	NSNT
+240, 17	1189, 1-3	ELI	a mi es	NSNT	NSNT
+240, 18	1190, 1-3	ELI	a Mrs_Williams Isallt	NSNT	NSNT
+240, 19	1191, 1-6	ELI	perthyn i Nancy hefyd o ochr	NSNT	NSNT
+240, 20	1191, 7-8	ELI	ei *mham*	---	NST
+
+
+241, 1	1192, 1-8	LIN	so oedd hi yn gwybod beth i wneud	---	NSNT
+
+
+242, 1	1194, 1-5	ELI	oh oedd hi wedi arfer	NSNT	NSNT
+242, 2	1196, 1-7	ELI	ond y peth dw i yn gofio	NSNT	NSNT
+242, 3	1196, 8-9	ELI	oedd yna	NSNT	NSNT
+242, 4	1196, 10-21	ELI	oedd yna lun yna llun *er* llun tebyg i yr *size* yma	NST	NST
+242, 5	1198, 1-2	ELI	o yr	NSNT	NSNT
+242, 6	1198, 3-15	ELI	oedd *er* fy ewythr un o frodyr arall *mam* *er* nain wedi wneud	NST	NST
+242, 7	1199, 1-4	ELI	oedd o ddim wedi	---	NSNT
+
+
+243, 1	1200, 1-6	LIN	o'n i ddim yn gwybod bod	NSNT	NSNT
+243, 2	1200, 7-9	LIN	gynni frawd arall	---	NSNT
+
+
+244, 1	1201, 4-11	ELI	oedd o wedi priodi ryw ddynes o Manchester	SNT	SNT
+244, 2	1202, 1-2	ELI	oedd o	NSNT	NSNT
+244, 3	1202, 3-8	ELI	oedd Ewythr Hugh ac Ewythr Richard	NSNT	NSNT
+244, 4	1205, 1-2	ELI	nain wan	NSNT	NSNT
+244, 5	1207, 1-3	ELI	nain dim *mam*	NST	NST
+244, 6	1209, 1-5	ELI	well oedd y llun yma	NSNT	NSNT
+244, 7	1209, 6-12	ELI	oedd yr Ewythr Richard yma wedi wneud	NSNT	NSNT
+244, 8	1211, 1-5	ELI	oedd o dipyn o arluniwr	NSNT	NSNT
+244, 9	1213, 1-6	ELI	a dw i fecsio hyd wan	NSNT	NSNT
+244, 10	1213, 7-10	ELI	na fysen wedi deud	NSNT	NSNT
+244, 11	1214, 1-5	ELI	oh *please* ga i hwnna	NST	NST
+244, 12	1216, 1-4	ELI	a wnes i ddim	NSNT	NSNT
+244, 13	1217, 1-9	ELI	o'n i o'n i mwy diniwed yn_doedden amser hynny	---	NSNT
+
+
+245, 1	1218, 1-3	LIN	well yeah sure	---	NSNT
+
+
+246, 1	1219, 1-7	ELI	ddim yn meddwl am ofyn am ddim_byd	NSNT	NSNT
+246, 2	1221, 1-2	ELI	mae sure	NSNT	NSNT
+246, 3	1221, 3-10	ELI	bod fi sâl isio cael mynd o yna	---	NSNT
+
+
+247, 1	1222, 1-3	LIN	mae sure oh	---	NSNT
+
+
+248, 1	1223, 1-10	ELI	well dw i ddim yn cofio o'n i yn *alright*	NST	NST
+248, 2	1225, 1-4	ELI	o brofiad i mi	NSNT	NSNT
+248, 3	1227, 1-7	ELI	ond do'n i erioed wedi arfer o_gwbl	NSNT	NSNT
+248, 4	1229, 1-9	ELI	am bod fi wedi mynd ddim yn licio gwrthod	NSNT	NSNT
+248, 5	1230, 1-5	ELI	o'n nhw yn gymdogion yn_doedden	---	NSNT
+
+
+249, 1	1232, 1-3	LIN	well oedden sure	---	NSNT
+
+
+250, 1	1233, 1-2	ELI	ac yn	---	NSNT
+
+
+251, 1	1234, 1-3	LIN	a mae sure	NSNT	NSNT
+251, 2	1234, 4-10	LIN	bod nhw meddwl gan bod chi nyrsio	NSNT	NSNT
+251, 3	1234, 11-18	LIN	bod chi yn arfer gwneud pethau fel yna	---	NSNT
+
+
+252, 1	1235, 1-3	ELI	oh mae sure	NSNT	NSNT
+252, 2	1236, 1-6	ELI	a hefyd oedden nhw yn gymdogion	NSNT	NSNT
+252, 3	1237, 1-4	ELI	dw ddim yn meddwl	NSNT	NSNT
+252, 4	1237, 5-11	ELI	bod honno wedi gwneud dim_byd i *mam*	NST	NST
+252, 5	1238, 1-7	ELI	ond mi fysai rai ohonyn nhw falle	SNT	NSNT
+252, 6	1239, 1-3	ELI	because oedd *mam*	NST	ST
+252, 7	1239, 4-7	ELI	wedi bod yn sâl	---	NSNT
+
+
+253, 1	1241, 1-2	LIN	well oedd	---	NSNT
+
+
+254, 1	1243, 1-8	ELI	ond anyway dw i wedi fecsio hyd wan	NSNT	SNT
+254, 2	1244, 1-8	ELI	oedd yr Ewythr Richard yma ac Ewythr Hugh	NSNT	NSNT
+254, 3	1244, 9-16	ELI	oedd y ddau wedi priodi merched o Manchester	SNT	SNT
+254, 4	1246, 1-3	ELI	a dw i	NSNT	NSNT
+254, 5	1246, 4-6	ELI	dw i gwybod	NSNT	NSNT
+254, 6	1246, 7-8	ELI	bod o	NSNT	NSNT
+254, 7	1246, 9-12	ELI	yn bod Ewythr Hugh	NSNT	NSNT
+254, 8	1247, 1-5	ELI	oedd yna dripiau yn dŵad	NSNT	NSNT
+254, 9	1247, 6-12	ELI	dach chi yn gweld i yr wlad	NSNT	NSNT
+254, 10	1249, 1-2	ELI	a dyna	NSNT	NSNT
+254, 11	1249, 3-9	ELI	sut oedd o wedi cyfarfod Auntie Nelly	---	NSNT
+
+
+255, 1	1250, 1-2	LIN	well well	---	NSNT
+
+
+256, 1	1251, 1-6	ELI	ac oedd hi yn *nice* iawn	NST	NST
+256, 2	1253, 1-7	ELI	a wedyn dw i ddim yn gwybod	NSNT	NSNT
+256, 3	1253, 8-18	ELI	sut oedd yr Ewythr Richard yma wedi cyfarfod ei wraig o	---	NSNT
+
+
+257, 1	1254, 1-10	LIN	ond oedden nhw yn dal i fyw yn y Glyn	---	NSNT
+
+
+258, 1	1255, 1-3	ELI	oh nag oedden	NSNT	NSNT
+258, 2	1257, 1-8	ELI	oedd y *er* Ewythr Richard wedi priodi hon	NST	NST
+258, 3	1258, 1-5	ELI	oh oedd Uncle Ewythr Hugh	NSNT	NSNT
+258, 4	1260, 1-4	ELI	ond Ewythr Richard ddim	NSNT	NSNT
+258, 5	1262, 1-6	ELI	oedd o wedi mynd i Manchester	SNT	SNT
+258, 6	1264, 1-4	ELI	a yn_ôl yr hanes	NSNT	NSNT
+258, 7	1265, 1-7	ELI	dw i ddim yn sure na Nelly	NSNT	NSNT
+258, 8	1265, 8-11	ELI	oedd ei wraig o	NSNT	NSNT
+258, 9	1266, 1-5	ELI	ie mae sure na Nelly	NSNT	NSNT
+258, 10	1266, 6-9	ELI	oedd ei wraig o	NSNT	NSNT
+258, 11	1268, 1-7	ELI	oh dw i ddim yn sure iawn	NSNT	NSNT
+258, 12	1270, 1-5	ELI	os na oedd yna ddwy	SNT	NSNT
+258, 13	1271, 1-8	ELI	anyway oedd o yn *er* yn_ôl yr hanes	NST	ST
+258, 14	1271, 9-17	ELI	oedd gynno fo ryw *shop* *er* ryw waith arlunio	NST	NST
+258, 15	1273, 1-12	ELI	a ryw ryw *shop* yn gwerthu *er* lluniau chi weld *picture* *frames*	---	NST
+
+
+259, 1	1274, 1-2	LIN	yn Manchester	---	SNT
+
+
+260, 1	1275, 1-3	ELI	yn Manceinion ie	---	NSNT
+
+
+261, 1	1276, 1-1	LIN	Manceinion	---	NSNT

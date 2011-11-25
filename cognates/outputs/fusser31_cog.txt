@@ -1,0 +1,1353 @@
+1, 1	1, 1-7	ARF	long *story* *oh* na ond wnes i	NST	ST
+1, 2	1, 8-17	ARF	wnes i ennill dau docyn i weld *Judas_Priest* a *Iron_Maiden*	NST	NST
+1, 3	2, 1-11	ARF	o'n nhw yn syportio *Iron_Maiden* *er* *Judas_Priest* yn Deeside leisure centre	ST	ST
+1, 4	4, 1-5	ARF	oedd e yn newydd agor	NSNT	NSNT
+1, 5	5, 1-8	ARF	ond oedd o yn *er* rhywle i sglefrio	---	NST
+
+
+2, 1	7, 1-4	BRW	*oh* *yeah* dw gwybod	NST	NST
+2, 2	7, 5-7	BRW	lle ydy o	---	NSNT
+
+
+3, 1	8, 1-5	ARF	ti gwybod lle mae o	NSNT	NSNT
+3, 2	10, 1-5	ARF	ac oedd e really rhyfedd	NSNT	SNT
+3, 3	11, 1-12	ARF	achos o'n nhw wedi roi ryw fath o carped dros y rhew	NSNT	NSNT
+3, 4	13, 1-7	ARF	ond o'ch chi yn sefyll arno fe	NSNT	NSNT
+3, 5	14, 1-7	ARF	erbyn diwedd y *gig* oeddech chi yn	NST	NST
+3, 6	14, 8-8	ARF	oeddech	NSNT	NSNT
+3, 7	14, 9-14	ARF	oeddech chi yn really really oer	NSNT	SNT
+3, 8	15, 1-9	ARF	ac oeddech o'n i ddim gallu teimlo nhraed i	NSNT	NSNT
+3, 11	18, 1-6	ARF	achos timod o'n i yn gwisgo	NSNT	NSNT
+3, 12	18, 7-10	ARF	timod *pumps* fel chdi	NST	NST
+3, 13	19, 1-4	ARF	ond good *gig* though	ST	ST
+3, 14	20, 1-7	ARF	a mi na mi oedden nhw dda	NSNT	NSNT
+3, 15	20, 8-11	ARF	mae raid fi ddeud	NSNT	NSNT
+3, 16	21, 1-14	ARF	ond *er* *yeah* rhyfedd bod ti yn yn licio nhw ar_ôl gymaint o amser	NST	NST
+3, 17	23, 1-8	ARF	*so* be ti isio wneud amdano fo then	---	ST
+
+
+4, 1	24, 1-4	BRW	mynd i weld nhw	---	NSNT
+
+
+5, 1	25, 1-4	ARF	mynd i weld nhw	NSNT	NSNT
+5, 2	27, 1-1	ARF	pam	---	NSNT
+
+
+6, 1	28, 1-1	BRW	*well*	---	NST
+
+
+7, 1	30, 1-1	ARF	*well*	---	NST
+
+
+8, 1	31, 1-4	BRW	dw ddim yn gwybod	---	NSNT
+
+
+9, 1	32, 1-11	ARF	ti ddim yn gwybod pam ti isio mynd i weld nhw	NSNT	NSNT
+9, 2	33, 1-14	ARF	os ti mynd i wario sixty quid ar tocyn mae raid ti wybod rywbeth	---	SNT
+
+
+10, 1	35, 1-6	BRW	achos *er* baswn i isio gweld	NST	NST
+10, 2	35, 7-13	BRW	baswn i licio gweld nhw yn live	---	SNT
+
+
+11, 1	36, 1-8	ARF	ti wedi bod mewn *gig* o yr blaen	NST	NST
+11, 2	38, 1-4	ARF	be ti wedi weld	---	NSNT
+
+
+12, 1	39, 1-3	BRW	*Thin_Lizzy* yn *Llandudno*	---	NST
+
+
+13, 1	40, 1-4	ARF	yn lle yn *Llandudno*	---	NST
+
+
+14, 1	41, 1-1	BRW	*theatre*	---	NST
+
+
+15, 1	42, 1-7	ARF	*ah* *yeah* *yeah* *yeah* dw i cofio	ST	NST
+15, 4	46, 1-6	ARF	*oh* *yeah* *Led_Zeppelin* tribute *yeah* yn	---	ST
+
+
+16, 1	47, 1-1	BRW	a	---	NSNT
+
+
+17, 1	48, 1-2	ARF	yn lle	---	NSNT
+
+
+18, 1	49, 1-4	BRW	*oh* *um* *Theatr_Gwynedd* *Bangor*	ST	NST
+18, 2	50, 1-2	BRW	a *um*	---	NST
+
+
+19, 1	51, 1-10	ARF	*so* be ti yn licio am gweld pethau yn fyw	NST	NST
+19, 2	52, 1-11	ARF	pam pam ti meddwl bod o yn beth da i ddeud	---	NSNT
+
+
+20, 1	53, 1-14	BRW	achos *um* *well* ti yn gweld o timod *icons* chdi gyd yn *real* life	ST	ST
+20, 2	55, 1-18	BRW	a *um* os ti yn clywed nhw eu hun yn chwarae fo yn lle be fedri di rywbeth	NST	NST
+20, 3	55, 19-19	BRW	sy	NSNT	NSNT
+20, 4	55, 20-23	BRW	wedi bod o blaen	NSNT	NSNT
+20, 5	57, 1-11	BRW	a *um* fasai fo yn really *cool* mynd i weld nhw	---	ST
+
+
+21, 1	59, 1-8	ARF	*so* ti meddwl bod y *music* yn well	NST	NST
+21, 2	59, 9-17	ARF	pan mae o yn byw fath yna o *fusic*	---	NST
+
+
+22, 1	61, 1-10	BRW	ond dim pan ti yn gael c_ds o *gigs* fyw	ST	ST
+22, 2	63, 1-2	BRW	I mean	SNT	NSNT
+22, 3	63, 3-18	BRW	dw i licio mynd i weld nhw ond neu *er* gwatsiad *d_v_ds* neu rywbeth fel yna	NST	NST
+22, 4	65, 1-6	BRW	o pan mae nhw yn fyw	NSNT	NSNT
+22, 5	66, 1-5	BRW	ond dw ddim yn meddwl	NSNT	NSNT
+22, 6	66, 6-18	BRW	mae yn gweithio yr un un peth pan ti ddim yn gweld nhw	NSNT	NSNT
+22, 7	66, 19-24	BRW	a mae nhw chwarae yn fyw	---	NSNT
+
+
+23, 1	67, 1-12	ARF	*so* bysai live *albums* pethau fel yna ddim yn gweithio mor dda	NST	ST
+23, 2	67, 13-20	ARF	dyna be ti be ti yn feddwl *yeah*	---	NST
+
+
+24, 1	70, 1-1	BRW	*well*	---	NST
+
+
+25, 1	71, 1-4	ARF	*yeah* *yeah* na mae	NST	NST
+25, 2	71, 5-8	ARF	galla i ddallt pam	NSNT	NSNT
+25, 3	72, 1-11	ARF	ond y drwg efo mynd i weld nhw nawr wrth_gwrs ydy	NSNT	NSNT
+25, 4	72, 12-14	ARF	mae nhw chwarae	NSNT	NSNT
+25, 5	73, 1-10	ARF	ti cofio lle mae nhw yn chwarae y y posibiliadau	---	NSNT
+
+
+26, 1	74, 1-4	BRW	Manceinion a yr Caerdydd	---	NSNT
+
+
+27, 1	76, 1-5	ARF	a mae Manceinion ar nos	NSNT	NSNT
+27, 2	77, 1-3	ARF	ti cofio pryd	NSNT	NSNT
+27, 3	78, 1-5	ARF	nos Iau dw meddwl ie	NSNT	NSNT
+27, 4	80, 1-5	ARF	a pa nos yng Nghaerdydd	---	NSNT
+
+
+28, 1	81, 1-4	BRW	nos Lun dw meddwl	---	NSNT
+
+
+29, 1	82, 1-2	ARF	nos Lun	---	NSNT
+
+
+30, 1	83, 1-1	BRW	*well*	---	NST
+
+
+31, 1	84, 1-4	ARF	achos mae yn anodd	NSNT	NSNT
+31, 2	84, 5-10	ARF	fyddet ti dal yn yr ysgol	NSNT	NSNT
+31, 3	84, 11-11	ARF	byddet	NSNT	NSNT
+31, 4	85, 1-8	ARF	dydy o ddim yn yn yr amser ysgol	NSNT	NSNT
+31, 5	85, 9-14	ARF	dydy o ddim yn amser gwyliau	---	NSNT
+
+
+32, 1	87, 1-16	BRW	*yeah* ond erbyn yr amser yna fydd y gwersi yn dechrau mynd fath â gwersi rhydd	---	NST
+
+
+33, 1	89, 1-7	ARF	a mi fysai yn haws i fi	NSNT	NSNT
+33, 2	89, 8-14	ARF	os bysai fo yn ar y weekend	SNT	SNT
+33, 3	90, 1-5	ARF	os bysai fo ar weekend	SNT	SNT
+33, 4	90, 6-11	ARF	byswn i yn deud ie *great*	---	NST
+
+
+34, 1	91, 1-1	BRW	ond	---	NSNT
+
+
+35, 1	92, 1-13	ARF	a mae nos Iau ym Manceinion yn really hwyr os ddewn ni nôl	NSNT	SNT
+35, 2	93, 2-11	ARF	fydd y *gig* ddim wedi gorffen tan hanner wedi deg	NST	NST
+35, 3	96, 1-13	ARF	a a wedyn ti yn sôn am awr a hanner o leia nôl	NSNT	NSNT
+35, 4	98, 1-3	ARF	ysgol wedyn *pph*	NST	NST
+35, 5	99, 1-5	ARF	ddim yn ffansïo hynna really	SNT	SNT
+35, 6	100, 1-4	ARF	beth am *er* *um*	NST	NST
+35, 7	101, 2-3	ARF	mae Caerdydd	NSNT	NSNT
+35, 8	101, 4-9	ARF	fysai Caerdydd yn well *um* achos	NST	NST
+35, 9	101, 10-17	ARF	bysen ni gallu aros dros nos efo *Heidi*	---	NST
+
+
+36, 1	102, 1-13	BRW	*yeah* ond *well* Manceinion fysen ni yn gallu aros dros nos efo *Nathan*	NST	NST
+36, 2	103, 1-2	BRW	dw gwybod	NSNT	NSNT
+36, 3	103, 3-7	BRW	bysa chdi yn casáu o	---	NSNT
+
+
+37, 1	104, 1-1	ARF	*Nathan*	ST	NST
+37, 2	105, 1-6	ARF	mae nhw yn byw yn *Huddersfield*	---	NST
+
+
+38, 1	106, 1-6	BRW	dydy ddim mor bell â hynna	---	NSNT
+
+
+39, 1	107, 1-3	ARF	*yeah* mae e	NST	NST
+39, 2	107, 4-9	ARF	mae o yn yr cyfeiriad anghywir	---	NSNT
+
+
+40, 1	108, 1-2	BRW	ydy o	---	NSNT
+
+
+41, 1	109, 1-7	ARF	*yeah* mae yr ochr arall i Manceinion	NST	NST
+41, 3	112, 1-12	ARF	*so* *so* dydy hynna ddim really mynd i fod yn bosib chwaith	NST	ST
+41, 4	112, 13-16	ARF	dw ddim yn meddwl	NSNT	NSNT
+41, 6	114, 1-1	ARF	mae	NSNT	NSNT
+41, 7	114, 2-8	ARF	gynna i ffrindiau ym Manceinion wrth_gwrs *Darren*	---	NST
+
+
+42, 1	115, 1-6	BRW	mae nhw gyd yn smelly *hippies*	---	ST
+
+
+43, 1	116, 1-4	ARF	mae nhw yn be	---	NSNT
+
+
+44, 1	117, 1-2	BRW	smelly *hippies*	---	NST
+
+
+45, 1	118, 1-2	ARF	smelly *hippies*	ST	NST
+45, 2	119, 1-4	ARF	diolch yn fawr iawn	SNT	NSNT
+45, 4	121, 1-12	ARF	*oh* blown your *chance* of a o *er* rywle i aros yn_dwyt	NST	ST
+45, 6	123, 1-3	ARF	*pph* dw gwybod	NST	NST
+45, 7	123, 4-14	ARF	dydy o ddim yn edrych yn yn addawol iawn i fi	NSNT	NSNT
+45, 8	124, 1-6	ARF	yr unig ffordd byswn i meddwl	NSNT	NSNT
+45, 9	124, 7-9	ARF	fysai yn bosib	NSNT	NSNT
+45, 10	124, 11-17	ARF	os ydy Seren_Arian neu rywun wneud *trip*	NST	NST
+45, 12	127, 1-6	ARF	safio fi yn gorfod *um* dreifio	NST	NST
+45, 13	128, 1-7	ARF	byset ti yn gallu cael *bus* yn_ôl	NST	NST
+45, 14	129, 1-1	ARF	bysai	NSNT	NSNT
+45, 15	129, 2-2	ARF	dal	NSNT	NSNT
+45, 16	129, 3-8	ARF	fyset ti dal mor hwyr ond	---	NSNT
+
+
+46, 1	130, 1-1	BRW	hwyrach	---	NSNT
+
+
+47, 1	131, 1-2	ARF	*er* falle	---	NST
+
+
+48, 1	132, 1-5	BRW	dw ddim yn gwybod os	---	NSNT
+
+
+49, 1	133, 1-12	ARF	ond o leia ti gallu cysgu ar y *bus* wedyn ti weld	---	NST
+
+
+50, 1	134, 1-4	BRW	*yeah* baswn i gallu	NST	NST
+50, 2	136, 1-4	BRW	baswn i gallu chwilio	NSNT	NSNT
+50, 3	137, 1-4	BRW	ond *very* unlikely Seren_Arian	---	ST
+
+
+51, 1	138, 1-1	ARF	be	NSNT	NSNT
+51, 3	140, 1-12	ARF	na mae nhw mynd i weld pob *gigs* pob math o *gigs*	NST	NST
+51, 6	143, 1-2	ARF	beth ydy	NSNT	NSNT
+51, 7	143, 3-3	ARF	mae	NSNT	NSNT
+51, 8	143, 4-9	ARF	mae pobl really licio nhw dydyn	NSNT	SNT
+51, 9	144, 1-7	ARF	*so* mae nhw mynd i bob man	NST	NST
+51, 10	147, 1-9	ARF	*o_k* *so* wnawn ni *um* ni edrych am hynna	---	NST
+
+
+52, 1	148, 1-7	BRW	ti wedi clywed am y *support* *band*	---	NST
+
+
+53, 1	149, 1-4	ARF	na pwy ydyn nhw	---	NSNT
+
+
+54, 1	151, 1-6	BRW	basa chdi ddim yn licio nhw	NSNT	NSNT
+54, 2	152, 1-3	BRW	ond dw meddwl	NSNT	NSNT
+54, 3	152, 4-7	BRW	bod nhw really *cool*	---	ST
+
+
+55, 1	153, 1-9	ARF	pam ti meddwl byswn i ddim yn licio nhw	---	NSNT
+
+
+56, 1	154, 1-3	BRW	fo death *metal*	---	ST
+
+
+57, 1	155, 1-2	ARF	death *metal*	ST	NST
+57, 2	156, 1-5	ARF	*so* be ydy death *metal*	---	ST
+
+
+58, 1	157, 1-6	BRW	*well* *um* heavy *metal* ond heavier	---	ST
+
+
+59, 1	158, 1-4	ARF	heavy *metal* ond heavier	ST	ST
+59, 2	159, 1-11	ARF	ti wedi dechrau swnio fel ti yn dod allan o *Spinal_Tap*	---	NST
+
+
+60, 1	161, 1-2	BRW	dyna fo	NSNT	NSNT
+60, 2	161, 3-3	BRW	ta	---	NSNT
+
+
+61, 1	162, 1-8	ARF	*so* be deud be ydy o yn gyflymach	NST	NST
+61, 2	163, 1-3	ARF	ydy o yn	---	NSNT
+
+
+62, 1	164, 1-8	BRW	*um* mae *style* y canu yn *lot* *well*	---	NST
+
+
+63, 1	165, 1-5	ARF	be fel *waa* fel yna	NST	NST
+63, 3	169, 1-4	ARF	*so* ti licio nhw	NST	NST
+63, 4	171, 1-7	ARF	ond beth mae nhw yn canu am	NSNT	NSNT
+63, 5	171, 8-14	ARF	pan mae nhw yn canu fel *waa*	NST	NST
+63, 6	172, 1-4	ARF	be mae nhw ddeud	NSNT	NSNT
+63, 8	174, 1-8	ARF	ti yn oes gyn ti *lyrics* a pethau	---	NST
+
+
+64, 1	175, 1-8	BRW	*um* dw ddim yn meddwl am caneuon nhw	NST	NST
+64, 2	176, 1-10	BRW	achos dw gael nhw yn fath â compilations a *magazines*	---	ST
+
+
+65, 1	178, 1-4	ARF	dyn nhw yn boblogaidd	NSNT	NSNT
+65, 3	180, 1-5	ARF	ydy pobl yn licio nhw	NSNT	NSNT
+65, 4	182, 1-8	ARF	pobl yn yr ysgol chdi yn licio nhw	---	NSNT
+
+
+66, 1	183, 1-3	BRW	*yeah* ac *Iron_Maiden*	---	NST
+
+
+67, 1	184, 1-2	ARF	a be	---	NSNT
+
+
+68, 1	185, 1-2	BRW	ac *Iron_Maiden*	---	NST
+
+
+69, 1	187, 1-4	ARF	*well* mae *Iron_Maiden* *o_k*	NST	NST
+69, 2	188, 1-5	ARF	dw i wedi clywed nhw	NSNT	NSNT
+69, 3	189, 1-6	ARF	mae nhw wedi cael *hits* dydyn	---	NST
+
+
+70, 1	191, 1-2	BRW	*um* meddwl	NST	NST
+70, 2	191, 3-4	BRW	na dw	NSNT	NSNT
+70, 3	191, 5-10	BRW	bod yn mynd tua blwyddyn wan	SNT	NSNT
+70, 4	193, 1-2	BRW	*right* *cool*	---	NST
+
+
+71, 1	194, 1-10	ARF	*so* be ydy dy *bands* dy hoff *bands* di then	---	ST
+
+
+72, 1	195, 1-4	BRW	ar hyn o bryd	NSNT	NSNT
+72, 2	197, 1-7	BRW	baswn i gallu wneud rhestr hir *um*	---	NST
+
+
+73, 1	198, 1-4	ARF	*oh* gwna rhestr hir	NST	NST
+73, 3	200, 1-5	ARF	ond dweud o yn gyflym	---	NSNT
+
+
+74, 1	201, 1-6	BRW	*um* *A_C_D_C* *Greenday* *Nirvana* *My_Chemical_Romance* *Fall_Out_Boy*	---	NST
+
+
+75, 1	202, 1-1	ARF	*Four_Lock_Boy*	---	NST
+
+
+76, 1	203, 1-1	BRW	*Fall_Out_Boy*	---	NST
+
+
+77, 1	204, 1-1	ARF	*Fall_Out_Boy*	---	NST
+
+
+78, 1	205, 1-4	BRW	*um* *Bullet_For_My_Valentine* *Funeral_For_A_Friend* a	---	NST
+
+
+79, 1	206, 1-3	ARF	*so* pwy ydy	NST	NST
+79, 2	206, 4-11	ARF	ydy yr un ti yn licio orau orau	NSNT	NSNT
+79, 3	207, 1-4	ARF	oes gyn ti un	---	NSNT
+
+
+80, 1	208, 1-2	BRW	*oh* dw	NST	NST
+80, 2	208, 3-6	BRW	dw ddim gallu ateb	---	NSNT
+
+
+81, 1	209, 1-4	ARF	ti ddim gallu *yeah*	---	NST
+
+
+82, 1	210, 1-5	BRW	pan mae rywun yn gofyn	NSNT	NSNT
+82, 2	210, 6-10	BRW	pwy ydy *band* gorau fi	NST	NST
+82, 3	210, 11-15	BRW	dw gorfod deud tua tri	---	NSNT
+
+
+83, 1	213, 1-4	ARF	wedyn ti yn gallu	NSNT	NSNT
+83, 2	214, 1-11	ARF	achos ti yn chwarae *guitar* dwyt neu yn dysgu chwarae *guitar*	---	NST
+
+
+84, 1	215, 1-2	BRW	*mmhm* ydw	---	NST
+
+
+85, 1	216, 1-9	ARF	*so* ti yn gallu chwarae caneuon rhan fwya rheina	---	NST
+
+
+86, 1	217, 1-6	BRW	*um* nhw gyd actually dw meddwl	NST	ST
+86, 2	218, 1-1	BRW	ydw	---	NSNT
+
+
+87, 1	219, 1-6	ARF	a be ti mwynhau chwarae orau	---	NSNT
+
+
+88, 1	220, 1-8	BRW	*um* *oh* be ti feddwl pa *style* neu	---	NST
+
+
+90, 1	222, 1-2	BRW	*er* *American_Idiot*	ST	NST
+90, 2	224, 1-13	BRW	achos dw yn gwybod hwnna sut i chwarae hwnna *just* iawn bob dydd	---	NST
+
+
+91, 1	225, 1-1	ARF	*uh_huh*	---	NST
+
+
+92, 1	227, 1-4	BRW	*er* *yeah* oedd *Smells_Like_Teen_Spirit*	NST	NST
+92, 2	228, 1-8	BRW	*well* dw ddim yn chwarae hwnna gymaint wan	NST	NST
+92, 3	229, 1-8	BRW	achos hwnna oedd un o yr pethau cynta	NSNT	NSNT
+92, 4	229, 9-11	BRW	wnes i ddysgu	NSNT	NSNT
+92, 5	231, 1-6	BRW	ond *um* dw i dal *well*	NST	NST
+92, 6	231, 7-15	BRW	dan ni dal yn chwarae hwnna yn y *band*	---	NST
+
+
+93, 1	232, 1-6	ARF	*oh* *yeah* ti mewn *band* dwyt	NST	NST
+93, 2	233, 1-6	ARF	isie siarad am am y *band*	---	NST
+
+
+94, 1	235, 1-1	BRW	*bands*	---	NST
+
+
+95, 1	236, 1-1	ARF	*bands*	ST	NST
+95, 2	238, 1-7	ARF	*well* siarad dipyn bach am hynna then	ST	ST
+95, 3	240, 1-2	ARF	pob peth	---	NSNT
+
+
+96, 1	241, 1-6	BRW	*um* *Ravenous* ydy un o nhw	---	NST
+
+
+97, 1	242, 1-5	ARF	hwnna ydy yr main un	SNT	SNT
+97, 2	243, 1-1	ARF	*Ravenous*	---	NST
+
+
+98, 1	245, 1-2	BRW	a *um*	---	NST
+
+
+99, 1	246, 1-4	ARF	be mae hwnna feddwl	---	NSNT
+
+
+100, 1	248, 1-3	BRW	llwglyd neu rywbeth	NSNT	NSNT
+100, 2	250, 1-4	BRW	mae yn gair *posh*	NST	NST
+100, 3	251, 1-13	BRW	a *um* dan ni yn *sort* of grunge *slash* *punk* *slash* *metal* *band*	ST	ST
+100, 4	252, 1-8	BRW	a dan ni wneud *lot* o covers hefyd	---	ST
+
+
+101, 1	253, 1-4	ARF	dach chi wneud *American_Idiot*	---	NST
+
+
+102, 1	254, 1-11	BRW	*um* *well* mae pawb yn gwybod o heblaw am y *drummer*	NST	NST
+102, 2	255, 1-4	BRW	mae o yn deud	NSNT	NSNT
+102, 3	255, 5-11	BRW	bod y darn *drums* yn rhy anodd	NST	NST
+102, 4	257, 1-15	BRW	a mae y tri *person* arall yn y *band* yn gwybod sut i chwarae fo	---	NST
+
+
+103, 1	258, 1-4	ARF	be ar y *drums*	NST	NST
+103, 2	260, 1-4	ARF	a mae o ddim	---	NSNT
+
+
+104, 1	261, 1-3	BRW	*quite* embarrassing *yeah*	---	NST
+
+
+105, 1	262, 1-5	ARF	hwn ydy yr *drummer* newydd	NST	NST
+105, 2	262, 6-6	ARF	sy	NSNT	NSNT
+105, 3	262, 7-8	ARF	gynnoch chi	---	NSNT
+
+
+106, 1	265, 1-5	BRW	does yna neb dal yna	NSNT	NSNT
+106, 2	265, 6-10	BRW	pan wnes i gychwyn o	NSNT	NSNT
+106, 3	265, 11-18	BRW	sy heb newid heblaw am y lead guitarist	---	SNT
+
+
+107, 1	266, 1-1	ARF	really	SNT	NSNT
+107, 2	267, 1-15	ARF	*so* dim ond chdi a yr a yr lead guitarist sy dal yn y *band*	NST	ST
+107, 3	267, 16-21	ARF	oedd yno fo pan ti gychwyn	---	NSNT
+
+
+108, 1	268, 1-5	BRW	*well* pan wnes i cychwyn	NST	NST
+108, 2	270, 1-10	BRW	fo ydy yr unig un o yr un go iawn	SNT	NSNT
+108, 3	271, 1-1	BRW	*Lost_In_Time*	---	NST
+
+
+109, 1	273, 1-8	ARF	*so* pa mor aml dach chi yn chwarae	---	NST
+
+
+110, 1	274, 1-19	BRW	*um* *well* oedden ni wneud ryw unwaith dwywaith y wythnos o blaen yn *um* stafell cerdd yn yr ysgol	NST	NST
+110, 2	275, 1-6	BRW	ond mae *thing* yma wedi digwydd	NST	NST
+110, 3	276, 1-7	BRW	a mae yr athrawes cerdd yn deud	NSNT	NSNT
+110, 4	276, 8-12	BRW	dan ni yn torri *leads*	NST	NST
+110, 5	276, 13-16	BRW	sy ddim yn wir	NSNT	NSNT
+110, 6	277, 1-18	BRW	ond wedyn wan ni gorfod mynd â *guitars* a *leads* ein hunan os dan ni isio practeisio nhw	NST	NST
+110, 7	278, 1-6	BRW	fedran ni mond iwsio yr *amps*	---	NST
+
+
+111, 1	279, 1-10	ARF	*so* ydy wedi cyhuddo chi yn unig o wneud o	---	NST
+
+
+112, 1	280, 1-6	BRW	*well* na ddim ni yn unig	---	NST
+
+
+113, 1	281, 1-2	ARF	*just* pawb	---	NST
+
+
+114, 1	282, 1-5	BRW	mae wedi deud y *stuff*	NST	NST
+114, 2	282, 6-12	BRW	sy yn digwydd i_e ni amser cinio	NSNT	SNT
+114, 3	284, 1-2	BRW	dyna fo	NSNT	NSNT
+114, 4	285, 1-13	BRW	mae fwy neu lai wedi rhoi rhan fwyaf o yr bai arnon ni	---	NSNT
+
+
+115, 1	286, 1-3	ARF	*oh* mae hynna	NST	NST
+115, 2	286, 4-9	ARF	dydy hynna ddim yn deg de	NSNT	NSNT
+115, 4	288, 1-7	ARF	dim chi sy wedi wneud o na	---	NSNT
+
+
+116, 1	289, 1-5	BRW	*well* dw i yn gwybod	NST	NST
+116, 2	290, 1-14	BRW	achos mae yna gwersi *guitar* gwersi *bass* yna côr llwyth o *stuff* arall yno	---	NST
+
+
+117, 1	291, 1-7	ARF	*well* chi sy yn cael y bai	---	NST
+
+
+118, 1	292, 1-1	BRW	gwersi	NSNT	NSNT
+118, 2	293, 1-2	BRW	*well* ie	NST	NST
+118, 3	294, 1-6	BRW	*well* ddim ddim yn hollol ond	ST	NST
+118, 4	295, 1-10	BRW	really yn deg iawn *lot* o yr bai arnon ni	---	ST
+
+
+119, 1	296, 1-5	ARF	*yeah* *so* mae hynna *nuisance*	NST	NST
+119, 2	297, 1-10	ARF	*so* oedd pawb o'ch chi yn arfer rihyrsio yna faint	NST	NST
+119, 3	298, 1-1	ARF	dwywaith	---	NSNT
+
+
+120, 1	299, 1-5	BRW	unwaith neu ddwywaith y wythnos	---	NSNT
+
+
+121, 1	300, 1-3	ARF	dwywaith yr wythnos	---	NSNT
+
+
+122, 1	301, 1-12	BRW	ond dan ni yn dechrau mynd i *um* practeisio mewn tai pobl	NST	NST
+122, 2	303, 1-6	BRW	*so* *lot* o neighbours yn hapus	---	ST
+
+
+123, 1	304, 1-2	ARF	*well* does	NST	NST
+123, 2	304, 3-6	ARF	gynnon ni ddim cymdogion	NSNT	NSNT
+123, 3	304, 7-8	ARF	nag oes	---	NSNT
+
+
+124, 1	305, 1-7	BRW	*yeah* ond ganddon ni ddim drum_kit chwaith	---	ST
+
+
+125, 1	306, 1-2	ARF	nag oes	---	NSNT
+
+
+126, 1	307, 1-1	BRW	*so*	ST	NST
+126, 2	308, 1-3	BRW	pawb arall yn	---	NSNT
+
+
+127, 1	309, 1-7	ARF	*so* pwy sy yn y *band* then	---	ST
+
+
+128, 1	310, 1-12	BRW	*um* fi *Stuart* fo sy wneud lead *guitar* a canu *um* *Darryl*	NST	ST
+128, 2	311, 1-4	BRW	mae o *right* newydd	NST	NST
+128, 3	312, 1-6	BRW	mae o yn chwarae *um* *bass*	NST	NST
+128, 4	313, 1-5	BRW	a *Gwil* ydy yr *drummer*	---	NST
+
+
+129, 1	314, 1-4	ARF	faint ydy oedran nhw	---	NSNT
+
+
+130, 1	315, 1-11	BRW	*um* *well* mae pawb arall heblaw am fi yn blwyddyn naw	NST	NST
+130, 2	316, 1-4	BRW	*so* rhyw un_deg_tri un_deg_pedwar	---	NST
+
+
+131, 1	317, 1-6	ARF	a ti yn blwyddyn wyth *yeah*	---	NST
+
+
+132, 1	318, 1-4	BRW	a dw yn deuddeg	NSNT	NSNT
+132, 2	318, 5-5	BRW	yndw	---	NSNT
+
+
+133, 1	320, 1-5	ARF	*so* dyna un *band* then	ST	ST
+133, 2	321, 1-6	ARF	be ydy yr *bands* arall then	---	ST
+
+
+134, 1	322, 1-4	BRW	*er* *well* un arall	NST	NST
+134, 2	323, 1-6	BRW	*um* *Emergency_Exit* ydy yr un arall	NST	NST
+134, 3	324, 1-6	BRW	dan ni ddim wedi practeisio eto	NSNT	NSNT
+134, 4	325, 1-9	BRW	achos *well* dan ni ddim wedi cael cyfle really	---	ST
+
+
+135, 1	326, 1-1	ARF	*uh_huh*	---	NST
+
+
+136, 1	327, 1-8	BRW	a ganddon ni ddim *bass* *guitar* rhyngddon ni	NST	NST
+136, 2	328, 1-8	BRW	ond ddaru fi a ffrind gorau fi *Prysor*	NST	NST
+136, 3	329, 1-9	BRW	achos o'n i newydd dechrau chwarae *guitar* cael gwersi	NST	NST
+136, 4	330, 1-9	BRW	ac oedd o newydd dechrau cael *um* gwersi *drums*	NST	NST
+136, 5	331, 1-10	BRW	o'n ni ein dau ar ar *mission* i ffeindio bassist	ST	ST
+136, 6	333, 1-6	BRW	a *um* dan ni ffeindio un	NST	NST
+136, 7	334, 1-3	BRW	*Dennis* ydy o	NST	NST
+136, 8	335, 1-3	BRW	a *um* dyna	NST	NST
+136, 9	335, 4-7	BRW	ydy *story* *so* *far*	NST	NST
+136, 10	336, 1-6	BRW	does yna ddim_byd arall wedi digwydd	---	NSNT
+
+
+137, 1	337, 1-12	ARF	*o_k* *so* dach chi wedi ffeindio y pobl i chwarae yr offerynnau	---	NST
+
+
+138, 1	339, 1-3	BRW	ond yr offerynnau	---	NSNT
+
+
+139, 1	340, 1-11	ARF	ond dach chi heb actually chwarae yr offerynnau efo eich_gilydd eto	NSNT	SNT
+139, 2	342, 1-8	ARF	*so* sut dach chi mynd i wneud hynna	NST	NST
+139, 3	343, 1-6	ARF	be dach chi mynd i wneud	---	NSNT
+
+
+140, 1	344, 1-11	BRW	*er* *well* pan mae un o ni yn gael *guitar* bas	NST	NST
+140, 2	344, 12-20	BRW	wnawn ni wneud o tu allan i yr ysgol	NSNT	NSNT
+140, 3	344, 21-22	BRW	mae *sure*	---	NST
+
+
+141, 1	345, 2-14	ARF	gallwch chi ddim benthyg *guitar* bas yn yr ysgol a cychwyn fel hynny	---	NST
+
+
+142, 1	346, 1-1	BRW	*well*	ST	NST
+142, 2	347, 1-3	BRW	*mmm* dim really	---	ST
+
+
+143, 1	348, 1-1	ARF	really	---	NSNT
+
+
+144, 1	349, 1-10	BRW	*well* dim mynd â fo allan o ysgol no way	ST	ST
+144, 2	350, 1-6	BRW	basen nhw ddim yn licio hynna	---	NSNT
+
+
+145, 1	351, 1-11	ARF	*oh* fysech chi yn gallu falle cwrdd yn yr ysgol a	NST	NST
+145, 2	352, 1-5	ARF	ond does yna ddim drum_kit	SNT	SNT
+145, 3	354, 1-6	ARF	oes yna drum_kit yn yr ysgol	NSNT	SNT
+145, 4	355, 1-4	ARF	be sy yn digwydd	---	NSNT
+
+
+146, 1	356, 2-7	BRW	dan ni yn gael iwsio drum_kit	---	SNT
+
+
+147, 1	357, 1-10	ARF	*so* mae pobl yn cael iwsio yr drum_kit yna *yeah*	NST	ST
+147, 3	360, 1-5	ARF	*so* *Danny* ydy yr bassist	ST	ST
+147, 4	361, 1-5	ARF	ond does gynno fo ddim	---	NSNT
+
+
+148, 1	362, 1-1	BRW	*Danny*	NST	NST
+148, 2	363, 1-1	BRW	*Dennis*	---	NST
+
+
+149, 1	364, 1-2	ARF	*Denny* *sorry*	---	NST
+
+
+150, 1	365, 1-1	BRW	*Dennis*	---	NST
+
+
+151, 1	366, 1-1	ARF	*Denise*	ST	NST
+151, 2	368, 1-2	ARF	be hogan	---	NSNT
+
+
+152, 1	369, 1-2	BRW	na hogyn	---	NSNT
+
+
+153, 1	370, 1-5	ARF	hogyn o yr enw *Denise*	---	NST
+
+
+154, 1	371, 1-1	BRW	*Dennis*	ST	NST
+154, 2	372, 1-7	BRW	ond ti yn deud o *Dennis* *Dennis*	---	NST
+
+
+155, 1	373, 1-2	ARF	*Dennis* *o_k*	ST	NST
+155, 2	374, 1-7	ARF	*so* mae o yn bassist heb bas	NST	ST
+155, 3	377, 1-6	ARF	ydy o actually gallu chwarae bas	---	SNT
+
+
+156, 1	378, 1-6	BRW	*um* oedd o arfer cael gwersi	NST	NST
+156, 2	379, 1-7	BRW	dw i ddim wedi clywed o eto	NSNT	NSNT
+156, 3	380, 1-2	BRW	ond dw	NSNT	NSNT
+156, 4	380, 3-6	BRW	dw ddim yn *sure*	NST	NST
+156, 5	381, 1-12	BRW	ond mae *Prysor* yn *um* *sort* of really ffrindiau da efo fo	---	ST
+
+
+157, 1	382, 1-8	ARF	*o_k* *so* fysai fo yn trystio fo i	NST	NST
+157, 2	384, 1-4	ARF	wneud o yn iawn	---	NSNT
+
+
+158, 1	385, 1-7	BRW	*well* chwarae really ar hyn o bryd	---	ST
+
+
+159, 1	386, 1-3	ARF	does yna ddim	NSNT	NSNT
+159, 2	386, 4-9	ARF	gallwch chi ddim benthyg rywbeth rywle	---	NSNT
+
+
+160, 1	387, 1-3	BRW	be ti feddwl	---	NSNT
+
+
+161, 1	388, 1-4	ARF	does yna ddim rywun	NSNT	NSNT
+161, 2	388, 5-7	ARF	dach chi nabod	NSNT	NSNT
+161, 3	388, 8-14	ARF	fysech chi yn gallu benthyg bas gynno	---	NSNT
+
+
+162, 1	389, 1-11	BRW	*um* *well* mae *Stuart* mynd i gael un i pen_blwydd fo	NST	NST
+162, 2	390, 1-7	BRW	mae hwnna yn *couple* o wythnosau *so*	---	NST
+
+
+163, 1	391, 1-8	ARF	*so* *Stuart* ddim yn gallu chwarae bas then	---	ST
+
+
+164, 1	392, 1-3	BRW	mae yn easy	SNT	SNT
+164, 2	393, 1-3	BRW	dw i yn	NSNT	NSNT
+164, 3	394, 1-5	BRW	dw ddim yn gael gwersi	NSNT	NSNT
+164, 4	396, 1-15	BRW	dim unig gwahaniaeth ydy o ar *guitar* ti efo pedwar *um* *string* yn lle chwech	NST	NST
+164, 6	398, 1-11	BRW	a mae yr fath â *pitch* yn *lot* llai is even	ST	ST
+164, 7	400, 1-1	BRW	dyna	NSNT	NSNT
+164, 8	400, 2-6	BRW	be ydy yr gwahaniaeth really	NSNT	SNT
+164, 9	401, 1-2	BRW	that's it	SNT	NSNT
+164, 10	402, 1-2	BRW	*so* *um*	---	NST
+
+
+165, 1	403, 1-12	ARF	*so* ti yn cael *um* ti isio sôn am dy gwersi *guitar*	---	NST
+
+
+166, 1	405, 1-5	BRW	*well* dw gael efo *um*	NST	NST
+166, 2	405, 6-12	BRW	dyn o yr enw *Kevin_Williams* yn *Gaernarfon*	NST	NST
+166, 3	406, 1-12	BRW	*um* mae yn chwarae mewn *band* o yr enw *Ap_Ted* sydd yn	NST	NST
+166, 4	407, 1-3	BRW	be ydyn nhw	SNT	NSNT
+166, 5	408, 1-3	BRW	covers *Geraint_Jarman* *yeah*	---	NST
+
+
+167, 1	409, 1-6	ARF	ie *Jarman* a *Edward_H* de *Edward_H_Dafis*	---	NST
+
+
+168, 1	411, 1-8	BRW	mae yn gallu chwarae nhw really da hefyd	---	SNT
+
+
+169, 1	413, 1-5	ARF	*so* be ydy yr gwahaniaeth	NST	NST
+169, 2	414, 1-7	ARF	achos ti yn cael gwersi *piano* dwyt	NST	NST
+169, 3	415, 1-7	ARF	mae gen ti ti fyny i gradd	NSNT	NSNT
+169, 4	416, 1-4	ARF	be ti wneud fory	---	NSNT
+
+
+170, 1	417, 1-7	BRW	*um* yr ail un *so* gradd dau	---	NST
+
+
+171, 1	418, 1-4	ARF	gradd gradd dau *yeah*	NST	NST
+171, 2	420, 1-8	ARF	*so* ti wneud rywbeth gwersi *piano* fel yna	NST	NST
+171, 3	421, 1-15	ARF	a wedyn ti gael gwersi *guitar* sydd yn gweithio yn hollol wahanol dw yn cymryd	NST	NST
+171, 4	423, 1-5	ARF	*so* be ydy yr gwahaniaethau	NST	NST
+171, 5	424, 1-4	ARF	sut mae nhw wahanol	---	NSNT
+
+
+172, 1	425, 1-6	BRW	*well* mae un yn defnyddio trydan	---	NST
+
+
+173, 1	428, 1-7	ARF	na o'n i meddwl mwy am yr	NSNT	NSNT
+173, 2	428, 8-14	ARF	timod sut ti yn teimlo amdanyn nhw	NSNT	NSNT
+173, 3	429, 1-16	ARF	achos yn amlwg ti yn dod drosodd weithiau bod ti ddim yn hoffi yr *stuff* *piano*	NST	NST
+173, 5	431, 1-7	ARF	*o_k* *well* egluro pam siarad amdano fo	---	NST
+
+
+174, 1	433, 1-3	BRW	achos dach chi	NSNT	NSNT
+174, 2	433, 4-10	BRW	dw i mond yn dysgu *stuff* clasurol	NST	NST
+174, 3	434, 1-7	BRW	a dw i yn casáu *music* clasurol	---	NST
+
+
+175, 1	435, 1-8	ARF	ti wneud rywfaint o *jazz* though hefyd dwyt	---	ST
+
+
+176, 1	436, 1-4	BRW	*well* *yeah* ychydig bach	NST	NST
+176, 2	437, 1-14	BRW	ond dw ddim really yn cael *lot* o bleser yn wneud o ar *piano*	NST	ST
+176, 3	439, 1-10	BRW	ond ar *clarinet* ar y llaw arall *um* dw meddwl	NST	NST
+176, 4	439, 11-12	BRW	mae yna	---	NSNT
+
+
+177, 1	440, 1-6	ARF	*so* ti chwarae *clarinet* hefyd *yeah*	---	NST
+
+
+178, 1	441, 1-2	BRW	hefyd yndw	NSNT	NSNT
+178, 2	442, 1-1	BRW	a	---	NSNT
+
+
+179, 1	443, 1-6	ARF	a ti fyny i gradd pedwar	---	NSNT
+
+
+180, 1	444, 1-7	BRW	pedwar neu bump dw ddim yn cofio	NSNT	NSNT
+180, 2	446, 1-6	BRW	*um* a peth ydy efo *clarinet*	NST	NST
+180, 3	446, 7-10	BRW	mae mwy neu lai	NSNT	NSNT
+180, 4	446, 11-21	BRW	dw i yn wneud *lot* o *stuff* fel *just* basically *jazz*	ST	ST
+180, 5	448, 1-2	BRW	sy yn	NSNT	NSNT
+180, 6	449, 1-3	BRW	dw i yn	NSNT	NSNT
+180, 7	449, 4-11	BRW	dw i yn *um* *quite* enjoio wneud o	NST	NST
+180, 8	451, 1-11	BRW	a *um* dw meddwl efo *um* a efo yr *clarinet* achos	NST	NST
+180, 9	451, 12-13	BRW	dw i	NSNT	NSNT
+180, 10	451, 14-20	BRW	wedi bod yn chwarae fo mor hir	NSNT	NSNT
+180, 11	451, 21-30	BRW	a dw i wedi gael yn *right* bell yno fo	NST	NST
+180, 12	451, 31-43	BRW	*so* dw ddim really isio roi fo fyny a *just* gwastraffu hwnna i_gyd	NST	ST
+180, 13	453, 1-1	BRW	dyna	NSNT	NSNT
+180, 14	453, 2-8	BRW	be ydy yr main *thing* efo hynna	---	ST
+
+
+181, 1	454, 1-11	ARF	ti ddim feddwl fyset ti yn gwastraffu hynna efo yr *piano*	NST	NST
+181, 2	455, 1-6	ARF	achos ti bod wneud o ers	NSNT	NSNT
+181, 3	455, 7-9	ARF	timod blwyddyn nawr	---	NSNT
+
+
+182, 1	456, 1-3	BRW	ond peth ydy	NSNT	NSNT
+182, 2	456, 4-12	BRW	dw ddim wedi gael yn bell iawn efo fo	NSNT	NSNT
+182, 3	457, 1-11	BRW	efo *piano* i_gyd gynna i un tystysgrif i ddangos amdano fo	NST	NST
+182, 4	459, 1-4	BRW	sy ddim yn *lot*	NST	NST
+182, 5	460, 1-16	BRW	a dw i *just* dim yn gael digon o bleser allan o fo i gario ymlaen	---	NST
+
+
+183, 1	461, 1-15	ARF	ond ti mynd i gael ti wneud yr arholiad sy yn dod i_fyny wythnos yma	NSNT	NSNT
+183, 2	461, 16-16	ARF	dwyt	---	NSNT
+
+
+184, 1	462, 1-1	BRW	fory	---	NSNT
+
+
+185, 1	464, 1-9	ARF	*so* be ti licio am y ffordd mae *Kevin*	NST	NST
+185, 2	465, 1-4	ARF	be pam mae achos	NSNT	NSNT
+185, 3	465, 5-10	ARF	mae *Kevin* yn ddipyn o gymeriad	NST	NST
+185, 4	465, 11-11	ARF	dydy	NSNT	NSNT
+185, 5	467, 1-13	ARF	be ti yn licio amdano fo yn y ffordd mae yn dysgu chdi	---	NSNT
+
+
+186, 1	468, 1-15	BRW	*um* *well* yn lle *just* roi cweir i fi os dw wneud rywbeth yn *wrong*	NST	NST
+186, 2	468, 16-20	BRW	wneith o ddangos i fi	NSNT	NSNT
+186, 3	468, 21-25	BRW	lle dw mynd yn *wrong*	NST	NST
+186, 4	469, 1-8	BRW	a mi wneith yr athrawes *biano* wneud hynna	NST	NST
+186, 5	470, 1-21	BRW	ond wneith hi hefyd fynd yn eitha *um* *well* ychydig bach yn flin efo fi am beidio wneud o yn iawn	---	NST
+
+
+187, 1	471, 1-12	ARF	ydy mynd yn flin efo chdi achos bod ti ddim yn practeisio	NSNT	NSNT
+187, 2	472, 1-7	ARF	neu ydy o yn fwy na hynna	---	NSNT
+
+
+188, 1	473, 1-6	BRW	*well* mae fwy na hynna really	ST	ST
+188, 2	474, 1-4	BRW	pan dw wneud *mistake*	NST	NST
+188, 3	474, 5-9	BRW	mae yn dechrau colli mynedd	NSNT	NSNT
+188, 4	474, 10-11	BRW	dw meddwl	NSNT	NSNT
+188, 5	476, 1-12	BRW	a a mae *Kevin* os ti ddim yn practeisio am tri wythnos	NST	NST
+188, 6	476, 13-16	BRW	dydy o ddim care_io	SNT	SNT
+188, 7	478, 1-2	BRW	I mean	SNT	NSNT
+188, 8	478, 3-5	BRW	mae o ond	---	NSNT
+
+
+189, 1	479, 1-6	ARF	ti meddwl fysai *Kevin* yn wahanol	NST	NST
+189, 2	479, 7-9	ARF	os byset ti	NSNT	NSNT
+189, 3	480, 1-8	ARF	achos ti ddim wedi gwneud arholiad *guitar* naddo	---	NST
+
+
+190, 1	481, 1-3	BRW	naddo ond peth	NSNT	NSNT
+190, 2	481, 4-16	BRW	sy yn gwahanol efo *guitar* ti ddim yn gorfod dysgu darnau am arholiad	NST	NST
+190, 3	482, 1-11	BRW	ti *just* yn gorfod dysgu *um* *scales* a fath â cordiau	NST	NST
+190, 4	484, 1-4	BRW	sy yn wahanol iawn	NSNT	NSNT
+190, 5	485, 1-6	BRW	mwy i gofio ond yn haws	---	NSNT
+
+
+191, 1	488, 1-4	ARF	a mae yn haws	SNT	NSNT
+191, 2	488, 5-13	ARF	I *suppose* os ti isio chwarae *solos* a pethau	NST	ST
+191, 3	489, 1-2	ARF	dyna yr	NSNT	NSNT
+191, 4	491, 1-8	ARF	fath o pethau ti isio wneud efo bysedd	NSNT	NSNT
+191, 6	493, 1-13	ARF	un o pethau o'n i wedi meddwl gofyn i chdi a dw i	NSNT	NSNT
+191, 7	493, 14-15	ARF	dw i	NSNT	NSNT
+191, 8	493, 16-21	ARF	dw i heb wneud ers_talwm iawn	NSNT	NSNT
+191, 9	494, 1-9	ARF	achos wyt ti yn *um* ti yn llaw chwith	NST	NST
+191, 10	494, 10-10	ARF	dwyt	---	NSNT
+
+
+192, 1	495, 1-1	BRW	yndw	---	NSNT
+
+
+193, 1	496, 1-10	ARF	ond ti yn chwarae yr *guitar* fel rywun llaw dde	---	NST
+
+
+194, 1	497, 1-2	BRW	llaw dde	---	NSNT
+
+
+195, 1	498, 1-8	ARF	*so* sut mae hynna wedi gweithio i chdi	---	NST
+
+
+196, 1	499, 1-13	BRW	*um* *just* yn *fatter* o cael *um* dod i arfer efo fo really	ST	ST
+196, 3	502, 1-17	BRW	ond pan o'n i yn edrych ar i_gyd o yr llyfrau yr cordiau gyd wnes i sylweddoli	NSNT	NSNT
+196, 4	502, 18-26	BRW	baswn i yn gorfod dysgu nhw gyd ffordd *wrong*	NST	NST
+196, 5	504, 1-12	BRW	ac o'n i ddim really yn rhy keen ar gorfod wneud hynna	NSNT	SNT
+196, 7	506, 1-11	BRW	wedyn wnes i *just* dod i arfer efo fo ar_ôl hynna	NST	NST
+196, 8	507, 1-1	BRW	a	NSNT	NSNT
+196, 9	509, 1-1	BRW	dyna	NSNT	NSNT
+196, 10	509, 2-7	BRW	sut dw i chwarae fo wan	---	NSNT
+
+
+197, 1	511, 1-7	ARF	*so* ddim upside down ti chwarae o	NST	ST
+197, 2	512, 1-3	ARF	na ti *just*	NST	NST
+197, 3	514, 1-6	ARF	ti chwarae fo fel bysai rywun	NSNT	NSNT
+197, 4	515, 1-2	ARF	*so* mae	NST	NST
+197, 5	515, 3-22	ARF	mae dy llaw chwith di yn wneud yr yr fyny yr *neck* *yeah* wedyn yr strumming ar yr ochr dde	---	ST
+
+
+198, 1	519, 1-5	BRW	a mae *couple* o bobl	NST	NST
+198, 2	519, 6-10	BRW	dw i wedi siarad efo	NSNT	NSNT
+198, 3	519, 11-15	BRW	sy yn chwarae *guitar* *um*	NST	NST
+198, 4	519, 16-17	BRW	a mae	NSNT	NSNT
+198, 5	519, 18-22	BRW	mae nhw wedi deud *um*	NST	NST
+198, 6	519, 23-28	BRW	mae nhw wedi troi o drosodd	NSNT	NSNT
+198, 7	520, 1-19	BRW	*so* mae nhw yn fath â wneud y y gwaith *um* ar y *fret* efo yr llaw cryfach nhw	NST	NST
+198, 8	520, 20-22	BRW	sy *um* well	NST	NST
+198, 9	520, 23-26	BRW	dw ddim yn gwybod	NSNT	NSNT
+198, 10	521, 1-10	BRW	dw meddwl na *just* wedi arfer dod i arfer efo	NST	NST
+198, 11	521, 11-12	BRW	dw i	NSNT	NSNT
+198, 12	523, 1-11	BRW	achos o'n i yn gweld o yn really anodd yn dechrau	---	SNT
+
+
+199, 1	524, 1-4	ARF	*oh* mae naturiol nawr	NST	NST
+199, 2	524, 5-5	ARF	tydy	NSNT	NSNT
+199, 4	527, 1-9	ARF	achos ti wedi bod yn wneud o am gymaint	---	NSNT
+
+
+200, 1	528, 1-9	BRW	ond mae fod i fod yn haws neu rywbeth	---	NSNT
+
+
+201, 1	529, 1-9	ARF	*well* ti yn gryfach efo dy llaw chwith dwyt	NST	NST
+201, 2	530, 1-15	ARF	*so* mae wneud wneud *sense* bod ti mynd i os ti isio wneud rywbeth cyflym	NST	NST
+201, 3	530, 16-17	ARF	gall ti	NSNT	NSNT
+201, 4	530, 18-27	ARF	mae gyn ti yr *skills* yna yn dy yn dy	NST	NST
+201, 6	534, 1-10	ARF	ond *er* *yeah* ddiddorol i i *er* i wybod hynna	NST	NST
+201, 7	535, 1-9	ARF	ond ti ddim yn meddwl amdano fo dim mwy	---	NSNT
+
+
+202, 1	536, 1-8	BRW	na *just* yn pigo fyny *guitar* chwarae fo	---	NST
+
+
+203, 1	538, 1-14	ARF	ti gallu chwarae pethau efo dy glust timod o *just* clywed rywbeth a ffeindio	NST	NST
+203, 2	538, 15-21	ARF	lle mae yr nodyn ar y *guitar*	---	NST
+
+
+204, 1	539, 1-10	BRW	*um* *well* dw i wedi wneud hynna *couple* o weithiau	NST	NST
+204, 2	540, 1-1	BRW	peth	SNT	NSNT
+204, 3	541, 1-9	BRW	I mean ti gorfod gweithio i gael y nodyn	NSNT	SNT
+204, 4	543, 1-10	BRW	dw ddim gallu cael o yn syth *just* clywed o	NST	NST
+204, 5	544, 1-2	BRW	ond *um*	---	NST
+
+
+205, 1	545, 1-6	ARF	because mae yna *lot* o bobl	NST	ST
+205, 2	545, 7-7	ARF	dyna	NSNT	NSNT
+205, 3	545, 8-8	ARF	dyna	NSNT	NSNT
+205, 4	545, 9-18	ARF	sut mae nhw wedi dysgu *guitars* a peth fel yna	NST	NST
+205, 5	547, 1-12	ARF	mae nhw *just* chwarae efo efo *records* licio ac yn trio ffeindio	NST	NST
+205, 6	547, 13-23	ARF	lle oedd y nodiadau wedyn yn *just* chwarae chwarae efo fo	---	NST
+
+
+206, 1	549, 1-3	BRW	*yeah* dw i	NST	NST
+206, 2	549, 4-4	BRW	dw	NSNT	NSNT
+206, 3	549, 5-10	BRW	dw i yn wneud hwnna weithiau	NSNT	NSNT
+206, 4	550, 1-3	BRW	ond fel arfer	NSNT	NSNT
+206, 5	550, 4-14	BRW	wna i *just* ofyn ofyn i *Kevin* sut i chwarae rywbeth	NST	NST
+206, 6	552, 1-12	BRW	neu wna i mynd ar y *um* rhyngrwyd i trio ffeindio *tabs*	---	NST
+
+
+207, 1	553, 1-1	ARF	*tabs*	ST	NST
+207, 2	554, 1-11	ARF	be yr pethau sy yn deud sut i chwarae fo *yeah*	NST	NST
+207, 3	556, 1-9	ARF	*so* lle wyt ti isio mynd efo fo i_gyd	---	NST
+
+
+208, 1	557, 1-1	BRW	*guitar*	ST	NST
+208, 2	559, 1-6	BRW	*well* *um* yn *serious* neu breuddwydion	---	NST
+
+
+209, 1	560, 1-11	ARF	*well* na *just* yn be be be ydy dy freuddwyd di	---	NST
+
+
+210, 1	561, 1-6	BRW	bod yn multimillion *record* selling *rock*	ST	ST
+210, 2	563, 1-3	BRW	*well* chwarae *guitar*	---	NST
+
+
+211, 1	564, 1-15	ARF	*well* fysai rhei pobl *just* yn chwarae fo *just* i gael hwyl wneud *music* ond	---	NST
+
+
+212, 1	566, 1-1	BRW	baswn	NSNT	NSNT
+212, 2	566, 2-13	BRW	baswn i wrth y modd fath â *um* *just* byw chwarae *guitar*	NST	NST
+212, 3	566, 14-19	BRW	timod wneud pres wrth wneud hynna	NSNT	NSNT
+212, 4	567, 1-2	BRW	bysai hynna	NSNT	NSNT
+212, 5	567, 3-10	BRW	dw ddim gwybod rywbeth really *cool* i wneud	NST	ST
+212, 6	569, 1-4	BRW	ond *um* dw meddwl	NST	NST
+212, 7	569, 5-13	BRW	basai well i fi edrych ar *stuff* mwy *realistic*	---	NST
+
+
+213, 1	570, 1-5	ARF	pam ti yn deud hynna	---	NSNT
+
+
+214, 1	571, 1-9	BRW	*well* *chances* to a *million* wneith o ddigwydd really	---	ST
+
+
+215, 1	572, 1-7	ARF	*well* mae yn digwydd i rhei pobl	NST	NST
+215, 2	572, 8-8	ARF	dydy	---	NSNT
+
+
+216, 1	574, 1-3	BRW	I don't know	---	NSNT
+
+
+217, 1	575, 1-3	ARF	ddigwydd i *er*	NST	NST
+217, 2	576, 1-7	ARF	yn amlwg *well* timod ti angen practeisio	NST	NST
+217, 3	577, 1-11	ARF	ti angen bod yn dedicated dwyt os ti isio wneud hynna	---	SNT
+
+
+218, 1	579, 1-7	BRW	a ti gorfod cymryd *lot* o bres	---	NST
+
+
+219, 1	580, 1-2	ARF	*well* mae	NST	NST
+219, 2	580, 3-9	ARF	mae pobl yn gallu chwarae mewn *bands*	ST	NST
+219, 3	581, 1-2	ARF	I mean	SNT	NSNT
+219, 4	581, 3-6	ARF	ydy *Kevin* yn gweithio	---	NST
+
+
+220, 1	582, 1-1	BRW	dyna	NSNT	NSNT
+220, 2	582, 2-7	BRW	be ydy swydd o dysgu *guitar*	---	NST
+
+
+221, 1	583, 1-8	ARF	*so* mae o yn dysgu *guitar* i bobl	NST	NST
+221, 2	584, 1-5	ARF	a mae chwarae mewn *bands*	NST	NST
+221, 3	584, 6-6	ARF	dydy	---	NSNT
+
+
+222, 1	585, 1-8	BRW	*yeah* ond mae yn basically gweithio i *just*	NST	ST
+222, 2	585, 9-15	BRW	*so* mae yn gallu mynd i *gigs*	---	NST
+
+
+223, 1	586, 1-8	ARF	*yeah* *yeah* na dw i yn dallt hynna	NST	NST
+223, 2	587, 1-14	ARF	*well* chi wastad mewn *er* yn *um* yn *handy* os dach chi efo *guitar*	NST	NST
+223, 3	587, 15-15	ARF	dydy	NSNT	NSNT
+223, 4	587, 16-21	ARF	os dach chi gallu chwarae fo	NSNT	NSNT
+223, 5	588, 1-4	ARF	mae fath o beth	NSNT	NSNT
+223, 6	588, 5-5	ARF	mae	NSNT	NSNT
+223, 7	588, 7-10	ARF	mae pobl yn licio	NSNT	NSNT
+223, 8	590, 1-3	ARF	cael o_gwmpas dydy	NSNT	NSNT
+223, 9	592, 1-4	ARF	ti wastad gallu busk_io	SNT	SNT
+223, 13	598, 1-13	ARF	a rywle rywbryd mi wneith rhywun roi pres yn yr het i chdi	---	NSNT
+
+
+224, 1	599, 1-5	BRW	dibynnu pa mor dda ti	---	NSNT
+
+
+225, 1	600, 1-5	ARF	dylet ti drio wneud hynna	NSNT	NSNT
+225, 2	601, 1-1	ARF	mae	NSNT	NSNT
+225, 3	601, 2-3	ARF	dw i	NSNT	NSNT
+225, 4	601, 4-7	ARF	dw i yn cofio	NSNT	NSNT
+225, 5	601, 8-19	ARF	oedd *um* un o yr *bands* o'n i yn arfer really licio	NST	ST
+225, 6	601, 20-24	ARF	oedd y *Waterboys* o Iwerddon	NST	NST
+225, 7	603, 1-9	ARF	ac am dwy flynedd really oedden nhw yn recordio	NSNT	SNT
+225, 9	606, 1-4	ARF	oedden nhw *just* fynd	NST	NST
+225, 11	606, 31-38	ARF	*just* chwarae *just* am yr hwyl o chwarae	NST	NST
+225, 12	609, 1-19	ARF	ac o'n nhw yn o'n nhw yn cael pobl *just* yn rhoi punnoedd iddyn nhw *just* yn cerdded heibio	NST	NST
+225, 13	611, 1-4	ARF	*so* dw i meddwl	NST	NST
+225, 14	611, 5-9	ARF	bod pobl yn really licio	NSNT	SNT
+225, 15	611, 10-14	ARF	pan mae nhw mewn dre	NSNT	NSNT
+225, 16	612, 1-11	ARF	*Caernarfon* yn enghraifft da iawn i chdi o rywle dw i	NST	NST
+225, 17	612, 12-14	ARF	dw i meddwl	NSNT	NSNT
+225, 18	612, 15-17	ARF	bysai yn really	SNT	SNT
+225, 19	612, 18-19	ARF	gwella *lot*	NST	NST
+225, 20	612, 20-29	ARF	os bysai yna bobl fel buskers yna trwy yr amser	---	SNT
+
+
+226, 1	613, 1-2	BRW	*well* *Bangor*	ST	NST
+226, 2	614, 1-1	BRW	basai	NSNT	NSNT
+226, 3	614, 2-9	BRW	roid ryw fath o hwyl i bobl tra	NSNT	NSNT
+226, 4	614, 10-13	BRW	mae nhw cerdded heibio	NSNT	NSNT
+226, 5	615, 1-3	BRW	a *record* *shops*	---	NST
+
+
+227, 1	616, 1-6	ARF	ie *well* a *record* *shops* *yeah*	NST	NST
+227, 3	618, 1-6	ARF	tro diwetha o'n i yng Nghaerdydd	NSNT	NSNT
+227, 4	619, 1-11	ARF	mae pethau mewn llefydd Edinburgh Caerdydd a llefydd mawr fel yna	NSNT	SNT
+227, 5	619, 12-17	ARF	mae yr buskers ddim *just* musicians	ST	ST
+227, 6	620, 1-7	ARF	yn yng Nghaerdydd tro diwetha oedd yna	NSNT	NSNT
+227, 7	620, 8-17	ARF	oedd yna rywun wedi wisgo fel *um* *Pharaoh* bron iawn	NST	NST
+227, 8	621, 1-6	ARF	ond oedd o gyd yn wyn	NSNT	NSNT
+227, 9	622, 1-3	ARF	oedd ei wallt	NSNT	NSNT
+227, 10	622, 5-10	ARF	oedd ei wyneb o yn wyn	NSNT	NSNT
+227, 11	624, 1-10	ARF	dillad o i_gyd yn wyn *robes* yma oedd gynno fo	NST	NST
+227, 12	625, 1-16	ARF	ac oedd o *just* yn aros yna fel fel cerflun bod o yn *just* yn llonydd	NST	NST
+227, 13	626, 1-7	ARF	a ti mynd heibio fo ti meddwl	NSNT	NSNT
+227, 14	627, 1-5	ARF	ydy hwnna yn wir be	NSNT	NSNT
+227, 15	628, 1-14	ARF	*so* oedd pobl *just* yn yn yn edrych arno fo a *just* yn edrych	NST	NST
+227, 16	628, 15-23	ARF	os bysai fo yn symud neu blink_io neu rywbeth	NSNT	SNT
+227, 17	629, 1-4	ARF	a doedd o ddim	NSNT	NSNT
+227, 18	630, 1-9	ARF	ac oedd gynno fo fel ryw fath o *box*	NST	NST
+227, 19	631, 1-4	ARF	achos yn amlwg dyna	NSNT	NSNT
+227, 20	631, 5-7	ARF	be oedd o	NSNT	NSNT
+227, 21	632, 2-5	ARF	oedd o yn *well*	NST	NST
+227, 22	632, 6-14	ARF	be mae nhw yn alw yn *street* *artist* really	ST	ST
+227, 23	634, 1-6	ARF	ac a oedd e *just* yn	NST	NST
+227, 24	635, 1-15	ARF	timod ti yn gweld pobl weithiau fel *robots* yn symud fel *robots* fel yna hefyd	NST	NST
+227, 25	637, 1-2	ARF	a mae	NSNT	NSNT
+227, 26	637, 3-5	ARF	mae *just* *er*	NST	NST
+227, 27	637, 6-6	ARF	mae	NSNT	NSNT
+227, 28	637, 7-12	ARF	mae dod â pobl *just* yn	NST	NST
+227, 29	639, 1-5	ARF	achos mae allan o yr	NSNT	NSNT
+227, 30	639, 6-12	ARF	be dach chi yn gweld bob dydd	NSNT	NSNT
+227, 31	639, 13-13	ARF	dydy	NSNT	NSNT
+227, 32	640, 1-4	ARF	mae *just* yn wahanol	NST	NST
+227, 33	641, 1-3	ARF	a mae o	NSNT	NSNT
+227, 34	641, 4-6	ARF	mae o yn	NSNT	NSNT
+227, 35	641, 7-11	ARF	mae yr fath o beth	NSNT	NSNT
+227, 36	641, 12-18	ARF	mae pobl *just* isio roi pres achos	NST	NST
+227, 37	641, 19-23	ARF	mae o yn *fantastic* really	ST	ST
+227, 39	643, 1-4	ARF	*so* lle nawr then	---	ST
+
+
+228, 1	644, 1-3	BRW	*um* fyny chdi	---	NST
+
+
+229, 1	645, 1-4	ARF	*well* na go on	ST	ST
+229, 2	646, 1-6	ARF	fi sy wedi dewis *so* *far*	NST	NST
+229, 4	648, 1-9	ARF	does gyn ti ddim_byd arall i ddeud am ddim_byd	SNT	NSNT
+229, 5	649, 1-6	ARF	your big *chance* to be famous	---	NST
+
+
+230, 1	650, 1-8	BRW	*mmm* pethau dw i yn gallu meddwl amdan	NST	NST
+230, 2	650, 9-12	BRW	wnei di ddechrau ffrae	---	NSNT
+
+
+231, 1	651, 1-3	ARF	go on then	---	NSNT
+
+
+232, 1	652, 1-1	BRW	*m_s_n*	---	NST
+
+
+233, 1	653, 1-14	ARF	*oh* *m_s_n* *right* *as* in ti isio rywbeth a dw i wedi deud na	---	ST
+
+
+234, 1	657, 1-11	BRW	*yeah* *just* isio gwybod pam ti ddim isio fi gael o	NST	NST
+234, 2	659, 1-5	BRW	*just* rhesymaeth chdi drosto fo	---	NST
+
+
+235, 1	660, 1-8	ARF	dw i ddim isio ti gael o achos	NSNT	NSNT
+235, 2	660, 9-21	ARF	mae o yn rywbeth *er* ti yn rhannu ar cyfrifiadur efo pobl eraill	NST	NST
+235, 3	661, 1-13	ARF	dw i yn poeni fawr iawn am *Delyth* a *Dyfrig* fwy na chdi	---	NST
+
+
+236, 1	662, 1-3	BRW	be ti meddwl	---	NSNT
+237, 2	666, 1-17	ARF	a dw i *just* ddim isio cymryd y *risk* yna o cael pobl yn enwedig efo *Delyth*	ST	NST
+237, 3	666, 18-19	ARF	I *suppose*	ST	NST
+237, 4	667, 1-3	ARF	ddim_byd yn_erbyn *Delyth*	NST	NST
+237, 5	668, 1-5	ARF	dw i ddim yn meddwl	NSNT	NSNT
+237, 6	668, 6-7	ARF	bysai hi	NSNT	NSNT
+237, 7	669, 1-11	ARF	ond ti mae *just* os ti yn edrych ar pethau fel	NST	NST
+237, 8	669, 12-12	ARF	yr	NSNT	NSNT
+237, 9	669, 13-15	ARF	timod y murders	SNT	SNT
+237, 10	669, 16-18	ARF	sy wedi digwydd	NSNT	NSNT
+237, 11	669, 19-20	ARF	mae yna	NSNT	NSNT
+237, 12	669, 21-24	ARF	mae *just* yn rywbeth	NST	NST
+237, 13	669, 25-35	ARF	sy really wneud i fi teimlo yn *nervous* iawn amdano fo	NST	ST
+237, 14	672, 1-8	ARF	ddim ddim bod fi ddim yn trystio chdi	NSNT	NSNT
+237, 15	672, 9-10	ARF	ydy o	NSNT	NSNT
+237, 16	674, 1-9	ARF	ond *just* bod fi poeni am y ddau arall	NST	NST
+237, 17	678, 1-8	ARF	be be sy gyn ti i ddeud then	---	SNT
+
+
+238, 1	679, 1-9	BRW	*um* *well* mae i_gyd o ffrindiau fi efo fo	NST	NST
+238, 2	680, 1-5	BRW	mae o yn definitely rywbeth	NSNT	SNT
+238, 3	680, 6-13	BRW	mae nhw yn siarad amdano fo *lot* basically	---	ST
+
+
+239, 1	682, 1-7	ARF	a be sy mor brilliant amdano fo	NSNT	SNT
+239, 2	682, 8-12	ARF	os dach chi yn text_io	---	SNT
+
+
+240, 1	683, 1-2	BRW	*yeah* ond	---	NST
+
+
+241, 1	684, 1-6	ARF	*so* *just* ffordd arall o text_io	---	ST
+
+
+242, 1	685, 1-2	BRW	mae yn	NSNT	NSNT
+242, 2	686, 1-5	BRW	ie ond mae am ddim	---	NSNT
+
+
+243, 1	687, 1-8	ARF	*well* na dydy o ddim am ddim achos	NST	NST
+243, 2	687, 9-16	ARF	dw i yn gorfod talu am y rhyngrwyd	NSNT	NSNT
+243, 3	688, 1-8	ARF	dw i yn gorod talu am y trydan	---	NSNT
+
+
+244, 1	689, 1-5	BRW	*yeah* ond dw gwybod hynna	NST	NST
+244, 2	690, 1-8	BRW	ond timod ti ddim yn gorfod cael *signal*	NST	NST
+244, 3	691, 1-7	BRW	ti ddim yn gorfod aros efo gyrru	NSNT	NSNT
+244, 4	692, 1-10	BRW	timod ti ddim yn gorfod aros pum munud am ateb	---	NSNT
+
+
+245, 1	693, 1-6	ARF	ond mae o braidd yn distracting	SNT	SNT
+245, 2	693, 7-7	ARF	dydy	NSNT	NSNT
+245, 3	694, 1-11	ARF	achos ti fod i fod yn wneud wneud dy gwaith cartre	NSNT	NSNT
+245, 4	695, 1-9	ARF	os ti yn trio wneud dy gwaith cartre *right*	NST	NST
+245, 5	697, 1-10	ARF	a mae dy *mates* di yn text_io chdi bob pum	---	ST
+
+
+246, 1	698, 1-9	BRW	*oh* na dydy o ddim yn gweithio fel yna	---	NST
+
+
+247, 1	699, 1-7	ARF	dydy o ddim yn gweithio fel yna	NSNT	NSNT
+247, 2	700, 1-6	ARF	*well* sut mae yn gweithio then	---	ST
+
+
+248, 1	701, 1-7	BRW	*well* *sort* of fath â *chat* *room*	---	ST
+
+
+249, 1	702, 1-2	ARF	*chat* *rooms*	---	NST
+
+
+250, 1	703, 1-16	BRW	ti *just* yn teipio rywbeth fewn pwyso enter a mae *just* dod yn syth ar *screen*	---	ST
+
+
+251, 1	705, 1-3	ARF	*Dyfrig* tyrd yma	NST	NST
+251, 2	706, 1-2	ARF	tyrd yma	NSNT	NSNT
+251, 3	707, 1-2	ARF	eistedd lawr	NSNT	NSNT
+251, 4	709, 1-6	ARF	*sorry* dan ni yng nghanol *er*	NST	NST
+251, 5	709, 7-11	ARF	timod hot debate fan hyn	NSNT	SNT
+251, 6	710, 1-13	ARF	ia ond o'n i meddwl na *just* instant messages ddim *just* *chat* *room*	---	ST
+
+
+252, 1	711, 1-2	BRW	*well* *yeah*	---	NST
+
+
+253, 1	712, 1-2	ARF	*o_k* *so*	---	NST
+
+
+254, 1	713, 1-5	BRW	*sort* of *thing* fel yna	---	ST
+
+
+255, 1	714, 1-7	ARF	*so* ti dal wneud y gwaith *right*	NST	NST
+255, 2	715, 1-10	ARF	ti wneud ti yng nghanol dy traethawd really pwysig chdi	NSNT	SNT
+255, 3	716, 1-2	ARF	wedyn mae	---	NSNT
+
+
+256, 1	717, 1-2	BRW	*yeah* ond	---	NST
+
+
+257, 1	718, 1-3	ARF	*Prysor* yn deud	NST	NST
+257, 2	719, 1-5	ARF	*ooh* dw i wneud hyn	---	NST
+
+
+258, 1	722, 1-9	BRW	ti yn gorfod bod yn fath â logged ar	---	SNT
+
+
+259, 1	723, 1-13	ARF	*yeah* ond y peth ydy efo hwnna ti *just* yn log_io fewn bob	NST	ST
+259, 2	723, 14-14	ARF	tro	NSNT	NSNT
+259, 3	723, 15-18	ARF	mae yr cyfrifiadur ymlaen	NSNT	NSNT
+259, 4	723, 19-20	ARF	wyt ti	---	NSNT
+
+
+260, 1	726, 1-5	BRW	na byswn i ddim seriously	SNT	SNT
+260, 2	727, 1-10	BRW	ti gallu rhoi fath â ti yn brysur yno fo	NSNT	NSNT
+260, 3	728, 1-13	BRW	wedyn ti ddim yn gael fath â messages na dim_byd yn dod i_fyny	---	SNT
+
+
+261, 1	729, 1-2	ARF	nag wyt	NSNT	NSNT
+261, 2	731, 1-12	ARF	ond sut bysen ni stopio yr *Delyth* a *Dyfrig* rhag gael o	NST	NST
+261, 3	732, 1-1	ARF	dyna	NSNT	NSNT
+261, 4	732, 2-7	ARF	be dw i yn poeni am	---	NSNT
+
+
+262, 1	733, 1-7	BRW	*well* ti gorfod creu fath â *um*	NST	NST
+262, 2	734, 1-6	BRW	*well* ti gorfod rejistro dy hun	NST	NST
+262, 3	735, 1-7	BRW	ti ddim yn cael password amdano fo	---	SNT
+
+
+263, 1	736, 1-6	ARF	a does dim ots pa mor	NSNT	NSNT
+263, 2	736, 7-12	ARF	be ydy oed chdi efo fo	---	NSNT
+
+
+264, 1	739, 1-2	BRW	I mean	SNT	NSNT
+264, 2	739, 3-9	BRW	mae ffrind ffrindiau *Delyth* yn iwsio fo	---	NST
+
+
+265, 1	740, 1-16	ARF	*right* *o_k* *well* mae hynna ddim yn rhoi *lot* o ffydd i fi yn y peth	---	NST
+
+
+266, 1	743, 1-2	BRW	ond *um*	---	NST
+
+
+267, 1	744, 1-10	ARF	achos unwaith wyt ti yn cychwyn *Delyth* isio wneud o	NST	NST
+267, 2	744, 11-11	ARF	bydd	---	NSNT
+
+
+268, 1	745, 1-2	BRW	ie ond	---	NSNT
+
+
+269, 1	746, 1-5	ARF	a dyna yr holl *boint*	---	NST
+270, 2	749, 1-2	BRW	*so* mae	NST	NST
+270, 3	749, 3-11	BRW	mae nhw wedi kind of design_io fo i blant	NSNT	SNT
+270, 4	749, 12-19	BRW	*so* mae yn saff i blant iwsio fo	---	NST
+
+
+271, 1	750, 1-2	ARF	ydyn nhw	NSNT	NSNT
+271, 2	751, 1-8	ARF	basai raid fi wybod mwy am hynna really	---	SNT
+
+
+272, 1	753, 1-5	BRW	a wedi wneud o *so*	NST	NST
+272, 2	754, 1-10	BRW	gen ti timod gen ti basically *list* o contacts yna	NST	ST
+272, 3	755, 1-9	BRW	wedyn os mae rywun yn trio siarad efo chdi	NSNT	NSNT
+272, 4	755, 10-17	BRW	sy ddim ar y *list* o contacts yna	NST	ST
+272, 5	757, 1-6	BRW	dydy o *just* dim yn digwydd	NST	NST
+272, 6	759, 1-4	BRW	wneith o ddim gyrru	NSNT	NSNT
+272, 7	760, 1-5	BRW	ti ddim yn gallu *um*	---	NST
+
+
+273, 1	761, 1-6	ARF	ond sut dach chi yn gwybod	NSNT	NSNT
+273, 2	761, 7-11	ARF	bod y pobl y *person*	NST	NST
+273, 3	761, 12-15	ARF	sy trio contact_io chi	NSNT	SNT
+273, 4	762, 1-6	ARF	falle bysen nhw yn iwsio enw	NSNT	NSNT
+273, 5	762, 7-8	ARF	sy yn	NSNT	NSNT
+273, 6	762, 9-11	ARF	dach chi meddwl	NSNT	NSNT
+273, 7	762, 12-15	ARF	bod chi nabod nhw	NSNT	NSNT
+273, 8	763, 1-7	ARF	falle basen nhw ddim yn nabod chi	NSNT	NSNT
+273, 9	764, 1-3	ARF	bysen gallu smalio	NSNT	NSNT
+273, 10	764, 4-7	ARF	bod yn rywun arall	NSNT	NSNT
+273, 11	764, 8-8	ARF	bysen	---	NSNT
+
+
+274, 1	765, 1-2	BRW	*mmm* sut	---	NST
+
+
+275, 1	766, 1-1	ARF	dyna	NSNT	NSNT
+275, 2	766, 2-5	ARF	be sy yn digwydd	NSNT	NSNT
+275, 3	767, 1-1	ARF	dyna	NSNT	NSNT
+275, 4	767, 2-5	ARF	be sy yn digwydd	NSNT	NSNT
+275, 5	767, 6-13	ARF	dyna efo yr pethau o'n i sôn am	---	NSNT
+
+
+276, 1	768, 1-5	BRW	*yeah* ond mae hwn efo	NST	NST
+276, 2	769, 1-9	BRW	ti gael kind of e_mail address a e_mail address	---	SNT
+
+
+277, 1	770, 1-7	ARF	*yeah* *yeah* na dw i dallt hynna	---	NST
+
+
+278, 1	771, 1-2	BRW	a mae	NSNT	NSNT
+278, 2	771, 3-5	BRW	mae yn gorfod	NSNT	NSNT
+278, 3	771, 6-11	BRW	bod o o yr computer yna	---	SNT
+
+
+279, 1	772, 1-12	ARF	ond yn ond yn yr un ddaru yr *person* gael ei cidnapio	NST	NST
+279, 2	773, 1-7	ARF	dw i yn cofio yr enghraifft yna	NSNT	NSNT
+279, 3	775, 1-5	ARF	oedd yr hogan yn meddwl	NSNT	NSNT
+279, 4	775, 6-18	ARF	bod ei ffrind hi wedi gofyn i fynd ar ar *m_s_n* efo hi	NST	NST
+279, 5	777, 1-6	ARF	ond ddim ei ffrind hi oedd	NSNT	NSNT
+279, 6	777, 7-16	ARF	oedd wedi iwsio yr enw a yr a yr cyfeiriad	---	NSNT
+
+
+280, 1	778, 1-7	BRW	*well* *um* ffordd byswn i wneud o	NST	NST
+280, 2	778, 8-14	BRW	bysai *um* cael webcam i wneud o	---	ST
+
+
+281, 1	779, 1-1	ARF	webcam	SNT	NSNT
+281, 2	781, 1-2	ARF	be *camera*	---	NST
+
+
+282, 1	782, 1-5	BRW	*well* *yeah* mae *sort* of	---	ST
+
+
+283, 1	783, 1-12	ARF	be ti isio edrych ar dy ffrindiau yn wneud eu waith cartre	---	NSNT
+
+
+284, 1	784, 1-3	BRW	*well* ddim hynna	NST	NST
+284, 2	785, 1-7	BRW	ond timod least ti gwybod na nhw	NSNT	SNT
+284, 3	785, 8-9	BRW	sy yna	---	NSNT
+
+
+285, 1	787, 1-10	ARF	*o_k* to be continued dw meddwl y sgwrs yma *yeah*	NST	ST
+285, 2	789, 1-2	ARF	wnawn ni	NSNT	NSNT
+285, 3	789, 3-9	ARF	wnawn ni gario fo ymlaen rywbryd eto	NSNT	NSNT

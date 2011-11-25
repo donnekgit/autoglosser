@@ -1,0 +1,2183 @@
+1, 1	1, 1-15	ENA	*just* isio gweld be oedd yn mynd i ddigwydd yn y peth yna yn *Hong_Kong*	NST	NST
+1, 2	2, 1-4	ENA	oedd hi yn deud	NSNT	NSNT
+1, 3	2, 5-9	ENA	bod y *boy* *um* Prydain	NST	NST
+1, 4	2, 10-18	ENA	oedd yn siarad efo nhw yn deud *well* os	NST	NST
+1, 5	2, 19-30	ENA	na dan ni yn llwyddo i gael y cytundeb yn *Hong_Kong* Ffrainc	NST	NST
+1, 6	2, 31-33	ENA	fydd y rhei	NSNT	NSNT
+1, 7	2, 34-36	ENA	fydd yr hapusa	NSNT	NSNT
+1, 8	3, 1-8	ENA	Ffrainc beio Ffrainc oedd y *tactic* Prydain i_gyd	NST	NST
+1, 9	4, 1-7	ENA	Ffrainc ydy yr bai yn hytrach na	NSNT	NSNT
+1, 10	5, 1-13	ENA	a wedyn yn deud erbyn y diwedd oedd o wedi mynd yn *joke*	NST	NST
+1, 11	6, 1-3	ENA	mae *just* yn	ST	NST
+1, 12	7, 1-5	ENA	blame the French oedd popeth	NSNT	SNT
+1, 13	8, 1-13	ENA	oedd y pobl yn gallu gweld drwy hynny yn hollol glir hefyd felly	---	NSNT
+
+
+2, 1	9, 1-1	GWE	gwael	---	NSNT
+
+
+3, 1	10, 1-6	ENA	ac oedden nhw yn deud dim	NSNT	NSNT
+3, 2	11, 1-8	ENA	oedden nhw ddim isio i yr pethau fethu	NSNT	NSNT
+3, 3	11, 9-11	ENA	am bod Ffrainc	NSNT	NSNT
+3, 4	11, 12-15	ENA	oedd y gwlad hapusa	NSNT	NSNT
+3, 5	12, 1-14	ENA	achos oedden nhw isio fo fethu achos mai achos mai yr *um* gwledydd tlawd	NST	NST
+3, 6	12, 15-20	ENA	fasai yr gwledydd hapusa ddim Ffrainc	---	NSNT
+
+
+4, 1	13, 1-9	GWE	mae yna *lot* o densiwn rhwng Prydain a Ffrainc	NST	NST
+4, 2	13, 10-10	GWE	does	---	NSNT
+
+
+5, 1	14, 1-2	ENA	mae yna	NSNT	NSNT
+5, 2	15, 1-2	ENA	mae yna	NSNT	NSNT
+5, 3	16, 1-2	ENA	mae yna	NSNT	NSNT
+5, 4	17, 1-4	ENA	mae o *just* yn	NST	NST
+5, 5	18, 1-11	ENA	ac oedd hi yn deud mai yr holl *fusiness* yr ffordd	NST	NST
+5, 6	18, 12-19	ENA	mae *Blair* wedi newid ei iaith a ffordd	NST	NST
+5, 7	18, 20-32	ENA	mae yn siarad am y peth really ac yr holl beth efo *Europe*	NST	ST
+5, 8	18, 33-38	ENA	bod ni ddim yn gallu deud	NSNT	NSNT
+5, 9	18, 39-45	ENA	be mae *Europe* yn fod i wneud	NST	NST
+5, 10	19, 1-7	ENA	ond dan ni really mewn i cael	NSNT	SNT
+5, 11	19, 8-16	ENA	be dan ni yn gallu cael allan ohono fo	NSNT	NSNT
+5, 12	20, 1-10	ENA	mae yr holl fargeinio efo yr rebate yma ynghlwm efo	NSNT	SNT
+5, 13	21, 1-12	ENA	wneith o gostio *lot* llai i ni efo amaeth a yr *C_A_P*	NST	NST
+5, 14	21, 13-19	ENA	os ydan ni yn ildio ychydig bach	NSNT	NSNT
+5, 15	22, 1-3	ENA	mae o i_gyd	NSNT	NSNT
+5, 16	22, 4-15	ENA	be dan ni yn gallu cael allan ohono fo yn y bôn	NSNT	NSNT
+5, 17	24, 1-4	ENA	sydd yn wir dydy	---	NSNT
+
+
+6, 1	25, 1-6	GWE	oedd gynni hi ddeunydd ymgyrchu *C_A_F_O_D*	---	NST
+
+
+7, 1	26, 1-2	ENA	nag oedd	NSNT	NSNT
+7, 2	26, 3-8	ENA	doedd gynni hi ddim_byd fel yna	NSNT	NSNT
+7, 3	27, 1-4	ENA	gynni hi wnaeth hi	NSNT	NSNT
+7, 4	27, 5-11	ENA	oedd hi yn dyfynnu *lot* o bobl	NST	NST
+7, 5	28, 1-7	ENA	ond oedd yna *lot* ofnadwy o iaith	NST	NST
+7, 6	29, 1-5	ENA	mae yr pwnc mor astrus	NSNT	NSNT
+7, 7	30, 1-16	ENA	yna *lot* ohono fo yn dechnegol iawn ynglŷn â *G_A_T_S* a *T_R_I_P_S* a pethau yma i_gyd	NST	NST
+7, 8	31, 1-2	ENA	ond y	---	NSNT
+
+
+8, 1	32, 1-5	GWE	oedd o mwy fel darlith	NSNT	NSNT
+8, 2	32, 6-6	GWE	ta	---	NSNT
+
+
+9, 1	33, 1-10	ENA	na oedd o yn rhy anffurfiol i fod yn ddarlith	NSNT	NSNT
+9, 2	34, 1-3	ENA	oedd hi yn	NSNT	NSNT
+9, 3	34, 4-12	ENA	ond oedd hi yn *right* gaeth i nodiadau chimod	NST	NST
+9, 4	35, 1-4	ENA	ond dw i meddwl	NSNT	NSNT
+9, 5	35, 5-17	ENA	bod yn deg efo hi achos bod o yn bwnc anodd beth bynnag	---	NSNT
+
+
+10, 1	36, 1-1	GWE	astrus	---	NSNT
+
+
+11, 1	37, 1-7	ENA	ti yn mwy *stuck* i nodiadau wedyn	---	NST
+
+
+12, 1	38, 1-4	GWE	oeddech chi yn cael	NSNT	NSNT
+12, 2	38, 5-8	GWE	timod gaethoch chi drafodaeth	---	NSNT
+
+
+13, 1	39, 1-6	ENA	fuodd yna drafodaeth ar y diwedd	NSNT	NSNT
+13, 2	40, 3-10	ENA	aeth y drafodaeth ychydig bach ar goll achos	NSNT	NSNT
+13, 3	40, 11-15	ENA	oedd y drafodaeth i_gyd am	NSNT	NSNT
+13, 4	41, 1-6	ENA	*well* dw i ddim yn gwybod	NST	NST
+13, 5	41, 7-10	ENA	lle aeth y drafodaeth	NSNT	NSNT
+13, 6	42, 1-6	ENA	aeth o i lefydd mwya *odd*	NST	NST
+13, 8	43, 21-27	ENA	sy wedi dod o *Canada* neu rywbeth	---	NST
+
+
+14, 1	44, 1-4	GWE	na ddaru hynny godi	---	NSNT
+
+
+15, 1	45, 2-4	ENA	wnaeth hynna godi	NSNT	NSNT
+15, 2	46, 1-17	ENA	timod yr bod y Ffrainc *well* Ffrainc bod y Ffrainc yn tsitio achos bod nhw yn deud	NST	NST
+15, 3	46, 18-18	ENA	bod	NSNT	NSNT
+15, 4	46, 19-25	ENA	bod ni yn allforio defaid yna wedyn	NSNT	NSNT
+15, 5	46, 26-29	ENA	bod nhw yn deud	NSNT	NSNT
+15, 6	46, 30-39	ENA	bod y defaid bod y cig yn dod o Ffrainc	NSNT	NSNT
+15, 7	47, 1-13	ENA	*so* ddeudes i *well* dan ni wneud yr union yr un un fath	NST	NST
+15, 8	48, 1-7	ENA	achos mae hynny newydd fod yn yr	NSNT	NSNT
+15, 9	49, 1-5	ENA	does yna ddim un cwmni	NSNT	NSNT
+15, 10	49, 6-12	ENA	sy ddim yn wneud hynny erbyn hyn	NSNT	NSNT
+15, 11	51, 1-10	ENA	wnaeth *asparagus* *Peru* ddod i_mewn i yr peth hefyd rywsut	NST	NST
+15, 12	54, 1-5	ENA	oedd bobl *Peru* yn meddwl	NST	NST
+15, 13	54, 6-12	ENA	bod ni yn bwyta dim_byd ond *asparagus*	---	NST
+
+
+16, 1	55, 1-1	GWE	*well*	ST	NST
+16, 2	56, 1-4	GWE	mae hynny digon gwir	NSNT	NSNT
+16, 3	57, 1-6	GWE	weles i rai yn *Asda* hefyd	NST	NST
+16, 4	60, 1-5	GWE	o'n i lawr yng Nghaerdydd	NSNT	NSNT
+16, 5	61, 1-14	GWE	mae nhw *just* fath â neidio allan ar yr silffoedd ata i dyddiau yma	---	NST
+
+
+17, 1	62, 1-2	ENA	peth cyntaf	NSNT	NSNT
+17, 2	64, 1-8	ENA	*yeah* mae rywun yn fwy ymwybodol ohono fo	NST	NST
+17, 3	64, 9-12	ENA	dydy ar_ôl gweld o	SNT	NSNT
+17, 4	66, 1-1	ENA	*aye*	---	NST
+
+
+18, 1	67, 1-7	GWE	ti ddim wedi clywed dim_byd gan *Alan*	---	NST
+
+
+19, 1	68, 1-1	ENA	naddo	NSNT	NSNT
+19, 2	70, 1-9	ENA	o'n i ar y *phone* efo *Brian* bore yma	NST	NST
+19, 3	71, 1-11	ENA	oedd o yn gofyn os o'n i wedi siarad efo *Chris*	NST	NST
+19, 4	71, 12-15	ENA	ond dydw i heb	SNT	NSNT
+19, 5	72, 1-1	ENA	*hello*	---	NST
+
+
+20, 1	73, 1-1	DYF	*hello*	---	NST
+
+
+21, 1	74, 1-5	ENA	*hello* *Dyfed* sut wyt ti	---	NST
+
+
+22, 1	75, 1-1	GWE	*hello*	NST	NST
+22, 2	76, 1-1	GWE	*hiya*	---	NST
+
+
+23, 1	77, 1-3	DYF	chi yn iawn	---	NSNT
+
+
+24, 1	78, 1-3	ENA	ti yn iawn	---	NSNT
+
+
+25, 1	79, 1-3	GWE	sut wyt ti	NSNT	NSNT
+25, 2	80, 1-2	GWE	tyrd i_fewn	---	NSNT
+
+
+26, 1	81, 1-5	DYF	dw i yn llawn annwyd	---	NSNT
+
+
+27, 1	82, 1-3	GWE	*oh* dos allan	NST	NST
+27, 2	82, 4-4	GWE	ta	---	NSNT
+
+
+28, 1	83, 1-9	ENA	*oh* cadwa dy germs i chdi dy hun *mate*	---	ST
+
+
+29, 1	84, 1-3	GWE	ie cadwa ffwrdd	---	NSNT
+
+
+30, 1	86, 1-8	ENA	dan ni wrthi wneud rhyw recordio i *Marika*	NST	NST
+30, 2	87, 1-8	ENA	ond dydy o ddim ots bod chdi yma	NSNT	NSNT
+30, 3	88, 1-9	ENA	achos does yna dim_byd *private* yn cael ei ddeud	NST	NST
+30, 4	89, 1-7	ENA	dan ni *just* yn gorfod cael y	---	NST
+
+
+31, 1	90, 1-3	DYF	*oh* shit *sorry*	---	NST
+
+
+32, 1	91, 1-5	ENA	recordio yn fan yna yndy	---	NSNT
+
+
+33, 1	92, 1-13	GWE	*well* dan ni ddim yn arfer eistedd gwmpas *er* yn gwisgo *radio* *mikes*	---	NST
+
+
+34, 1	93, 1-3	ENA	mae yn *great*	NST	NST
+34, 2	94, 1-6	ENA	efo *microphones* yn siarad efo ein_gilydd	NST	NST
+34, 3	95, 1-15	ENA	mae *Marika* a *Jon* yn y stafell arall yn gwrando ac yn recordio yr peth	NST	NST
+34, 4	97, 1-11	ENA	mae nhw yn wneud ryw ymchwil neu rywbeth i yr coleg	NSNT	NSNT
+34, 5	97, 12-13	ENA	ydy o	NSNT	NSNT
+34, 6	99, 1-4	ENA	dim_byd mwy na hynny	---	NSNT
+
+
+35, 1	100, 1-8	DYF	*o_k* felly dach chi yn saff i siarad	---	NST
+
+
+36, 1	101, 3-7	ENA	dan ni saff i siarad	---	NSNT
+
+
+37, 1	102, 1-4	GWE	dw i yn meddwl	---	NSNT
+
+
+38, 1	103, 1-2	ENA	yndan ni	---	NSNT
+
+
+39, 1	105, 1-2	GWE	yndan *Marika*	---	NST
+
+
+40, 1	106, 1-1	RES	yndach	---	NSNT
+
+
+41, 1	108, 2-8	ENA	dan ni yn saff i gario ymlaen	---	NSNT
+
+
+42, 1	109, 1-9	GWE	mae nhw fel llygod bach yn y stafell arall	---	NSNT
+
+
+43, 1	110, 1-11	ENA	deud y gwir oedd *Marika* wedi gofyn i fi diwrnod ddoe	NST	NST
+43, 2	110, 12-19	ENA	be oedd yn ddigwydd efo yr *um* c_d	ST	ST
+43, 3	112, 1-1	ENA	*so*	---	NST
+
+
+44, 1	113, 1-6	DYF	*well* mi fydd o nôl mi	NST	NST
+44, 2	113, 7-19	DYF	fydd yna fil o c_ds yn troi fyny un_ai fory neu dydd Llun	---	SNT
+
+
+45, 1	114, 1-2	ENA	*oh* da	---	NST
+
+
+46, 1	115, 1-4	DYF	a wedyn mae yna	NSNT	NSNT
+46, 2	115, 5-11	DYF	noson ddawnsio yn y Caplaniaeth nos Iau	---	NSNT
+
+
+47, 1	116, 1-3	ENA	nos Iau yma	---	NSNT
+
+
+48, 1	118, 1-3	GWE	be yfory heno	---	NSNT
+
+
+49, 1	119, 1-7	DYF	na na na na wythnos i heno	---	NSNT
+
+
+50, 1	120, 1-2	ENA	wythnos heno	---	NSNT
+
+
+51, 1	121, 1-4	GWE	*oh* wythnos i heno	---	NST
+
+
+52, 1	123, 1-7	DYF	*um* os dach chi isio dod neu	---	NST
+
+
+53, 1	124, 1-2	ENA	*well* ia	---	NST
+
+
+54, 1	125, 1-3	GWE	faint o gloch	---	NSNT
+
+
+55, 1	126, 1-3	DYF	hanner wedi saith	NSNT	NSNT
+55, 2	127, 1-4	DYF	fydd yna fwyd Arabeg	NSNT	NSNT
+55, 3	128, 1-7	DYF	a dw i mynd i gael rywun	NSNT	NSNT
+55, 4	129, 1-3	DYF	dw i isio	NSNT	NSNT
+55, 5	129, 4-9	DYF	dw i wedi cysylltu efo *Dean*	NST	NST
+55, 6	130, 1-9	DYF	dw i isio rywun o Cymdeithas_y_Cymod wneud ddeud rhywbeth	NSNT	NSNT
+55, 7	132, 1-3	DYF	*um* a wedyn	---	NST
+
+
+56, 1	133, 1-3	ENA	*oh* da iawn	---	NST
+
+
+57, 1	134, 1-11	DYF	mae *Ed* wedi cynnig ugain *bottle* o gwrw Palesteinaidd i ni	---	NST
+
+
+58, 1	137, 1-4	ENA	*oh* efallai ddo i	---	NST
+
+
+59, 1	138, 1-4	GWE	chwarae teg i *Ed*	NST	NST
+59, 4	141, 1-2	GWE	dyna syndod	---	NSNT
+
+
+60, 1	145, 1-2	ENA	*oh* da	---	NST
+
+
+61, 1	147, 1-6	GWE	a pawb yn dod â bwyd	---	NSNT
+
+
+63, 1	149, 1-2	GWE	*oh* *great*	---	NST
+
+
+64, 1	150, 1-9	DYF	a cwcio fo gyd fyny *just* really syml te	---	ST
+
+
+65, 1	151, 1-2	ENA	*oh* *great*	---	NST
+
+
+66, 1	152, 1-2	GWE	da iawn	NSNT	NSNT
+66, 2	153, 1-3	GWE	ti isio *help*	---	NST
+
+
+67, 1	154, 1-7	DYF	*er* ddim efo yr noson ei hun	NST	NST
+67, 2	155, 1-15	DYF	ond baswn i yn gallu e_bostio gwahoddiad i chi i chi e_bostio yn ei flaen	---	NSNT
+
+
+68, 1	156, 1-2	ENA	gwna i	NSNT	NSNT
+68, 2	157, 1-4	ENA	wna i dim *broblem*	---	NST
+
+
+69, 1	158, 1-1	DYF	eto	---	NSNT
+
+
+70, 1	161, 1-2	ENA	*oh* da	NST	NST
+70, 2	163, 1-4	ENA	*yeah* wnaeth yn good	---	ST
+
+
+71, 1	164, 1-2	GWE	da iawn	---	NSNT
+
+
+72, 1	165, 1-5	ENA	does yna ddim_byd nos Iau	SNT	NSNT
+72, 2	166, 1-1	ENA	*sure*	---	NST
+
+
+73, 1	167, 1-7	GWE	na does gen i ddim_byd chwaith os	NSNT	NSNT
+73, 2	167, 8-12	GWE	nag oes gen *Dewi* *Urdd*	---	NST
+
+
+74, 1	168, 1-4	ENA	a mae bron Ddolig	NSNT	NSNT
+74, 2	168, 5-5	ENA	dydy	NSNT	NSNT
+74, 3	168, 6-8	ENA	*so* mae yn	---	NST
+
+
+75, 1	169, 1-3	GWE	mae yn bosib	NSNT	NSNT
+75, 2	169, 4-8	GWE	bod yr *Urdd* wedi gorffen	NST	NST
+75, 3	169, 9-15	GWE	ond dydy hynna ddim yn wneud gwahaniaeth	NSNT	NSNT
+75, 4	170, 1-9	GWE	alla i biciad fyny nôl o a dod nôl	---	NSNT
+
+
+76, 1	172, 1-11	DYF	*um* a hefyd baswn i yn licio cysylltu efo unrhyw grwpiau	NST	NST
+76, 2	172, 12-16	DYF	dach chi yn gwybod amdan	NSNT	NSNT
+76, 3	173, 1-3	DYF	dw i *sure*	NST	NST
+76, 4	173, 4-8	DYF	bod yna ddigon ohonyn nhw	NSNT	NSNT
+76, 5	173, 9-11	DYF	fasai efo diddordeb	NSNT	NSNT
+76, 6	174, 1-5	DYF	*um* os dyn nhw yn	NST	NST
+76, 7	174, 6-6	DYF	rhoid	NSNT	NSNT
+76, 8	175, 1-2	DYF	dw ddim	NSNT	NSNT
+76, 9	175, 3-7	DYF	dw i ddim yn gwybod	NSNT	NSNT
+76, 10	175, 8-13	DYF	sut mae o mynd i weithio	---	NSNT
+
+
+77, 1	177, 1-3	ENA	rhai ohonyn nhw	---	NSNT
+
+
+78, 1	179, 1-2	DYF	dw i	NSNT	NSNT
+78, 2	179, 3-4	DYF	dw ddim	NSNT	NSNT
+78, 3	180, 1-16	DYF	neu os allwch chi feddwl am unrhyw sefydliad arall sydd efo neu grwpiau sydd yn cynnal	NSNT	NSNT
+78, 4	180, 17-27	DYF	timod marchnadoedd Masnach_Deg neu unrhyw beth fel yna ti yn meddwl	---	NSNT
+
+
+79, 1	183, 1-6	GWE	fasai *shop* *Ann* a *shop* *Bev*	---	NST
+
+
+80, 1	184, 1-2	ENA	*oh* basai	NST	NST
+80, 2	184, 3-3	ENA	bysan	---	NSNT
+
+
+81, 1	185, 1-7	GWE	yn cymryd nhw dw i yn *sure*	---	NST
+
+
+82, 1	186, 1-1	ENA	bysan	---	NSNT
+
+
+83, 1	187, 1-4	DYF	lle ydy fan yna	---	NSNT
+
+
+84, 1	188, 1-7	GWE	*shop* *Ann* yn *Nghonwy* timod *shop* Masnach_Deg	NST	NST
+84, 2	190, 1-5	GWE	a *shop* *Bev* yng Nghaerdydd	---	NST
+
+
+85, 1	191, 1-1	ENA	Nghaerdydd	NSNT	NSNT
+85, 2	192, 1-7	ENA	a mae yna *shop* Fasnach_Deg yn *Llandudno*	NST	NST
+85, 3	193, 1-4	ENA	dw ddim yn gwybod	NSNT	NSNT
+85, 4	193, 5-9	ENA	be fasai eu hagwedd nhw	NSNT	NSNT
+85, 5	194, 1-5	ENA	mae nhw fwy efengylaidd yna	NSNT	NSNT
+85, 6	195, 1-5	ENA	ond hwyrach bysen nhw hefyd	NSNT	NSNT
+85, 7	195, 6-9	ENA	dw ddim yn gwybod	NSNT	NSNT
+85, 8	197, 1-6	ENA	bysen ni ddim gwaeth o ofyn	---	NSNT
+
+
+86, 1	198, 1-13	GWE	pryd mae yr *er* c_ds yn cyrraedd ti meddwl fory neu dydd Llun	NST	ST
+86, 2	199, 1-8	GWE	*oh* dw i lawr yng Nghaerdydd dydd Llun	NST	NST
+86, 3	200, 1-9	GWE	baswn i yn gallu mynd â rei i chdi	---	NSNT
+
+
+87, 1	201, 1-3	DYF	mae yn *alright*	NST	NST
+87, 2	202, 1-2	DYF	dw i	NSNT	NSNT
+87, 3	203, 1-3	DYF	yn bersonol mae	NSNT	NSNT
+87, 4	203, 4-4	DYF	yr	NSNT	NSNT
+87, 5	203, 5-9	DYF	mae *lot* o yr lansio	NST	NST
+87, 6	204, 1-1	DYF	mae	NSNT	NSNT
+87, 7	204, 2-2	DYF	yr	NSNT	NSNT
+87, 8	204, 3-4	DYF	mae yr	NSNT	NSNT
+87, 9	205, 1-10	DYF	dw i wedi cael *lot* o sylw gan y cyfryngau	NST	NST
+87, 10	206, 1-13	DYF	ond dydyn nhw ddim really mynd i wneud unrhyw beth tan dw i	SNT	SNT
+87, 11	207, 1-5	DYF	because dan ni mynd nôl	NSNT	SNT
+87, 12	208, 1-3	DYF	ti wedi clywed	NSNT	NSNT
+87, 13	209, 1-6	DYF	dan ni mynd nôl mis Chwefror	---	NSNT
+
+
+88, 1	210, 1-2	ENA	efo *Ed*	NST	NST
+88, 2	212, 1-2	ENA	da iawn	---	NSNT
+
+
+89, 1	213, 1-7	GWE	mae yna ugain ar y rhestr wan	---	NSNT
+
+
+90, 1	215, 1-2	ENA	oes yna	NSNT	NSNT
+90, 2	216, 1-4	ENA	oedd *Ed* wythnos dwytha	NST	NST
+90, 3	218, 1-3	ENA	mae yn *sure*	NST	NST
+90, 4	218, 4-10	ENA	fysai fo yn gallu cael llenwi yr	---	NSNT
+
+
+91, 1	219, 1-3	DYF	mi oedd yna	---	NSNT
+
+
+92, 1	220, 1-5	ENA	o'n i meddwl bysai fo	---	NSNT
+
+
+93, 1	221, 1-5	GWE	chwech oedd *er* adeg hynny	NST	NST
+93, 2	221, 6-10	GWE	oedd *Carol* yn deud neithiwr	---	NST
+
+
+94, 1	222, 1-8	ENA	ddeudes i ti isio wneud *sure* bod yna	NST	NST
+94, 2	223, 1-2	ENA	*oh* da	---	NST
+
+
+95, 1	224, 1-2	DYF	gwych de	NSNT	NSNT
+95, 2	227, 1-14	DYF	ond *er* ga i ddim sylw tan dw i wedi mynd draw efo *camera*	NST	NST
+95, 3	229, 1-2	DYF	a wedyn	NSNT	NSNT
+95, 4	230, 1-6	DYF	*so* dw i ddim yn gwybod	NST	NST
+95, 5	230, 7-13	DYF	os oes yna *lot* o bwynt trio	NST	NST
+95, 6	230, 14-20	DYF	roid o yn y siopau cyn Dolig	NSNT	NSNT
+95, 7	231, 1-6	DYF	dw i isio trio wneud ond	SNT	NSNT
+95, 8	232, 1-12	DYF	because wedyn ti yn cystadlu efo pob_dim arall sydd allan hefyd dwyt	---	SNT
+
+
+96, 1	234, 1-11	GWE	ia ond rywle fel *shop* *Ann* dyn nhw ddim yn gwerthu	---	NST
+
+
+97, 1	235, 1-5	ENA	*oh* ellith o fod allan	NST	NST
+97, 2	235, 6-9	ENA	dydy o ddim ots	NSNT	NSNT
+97, 3	236, 1-5	ENA	dydy o ddim yn gorfod	NSNT	NSNT
+97, 4	236, 6-7	ENA	bod yn	---	NSNT
+
+
+98, 1	237, 1-10	GWE	dydy ddim yn gwerthu *lot* o c_ds eraill beth bynnag	---	ST
+
+
+99, 1	238, 1-4	ENA	dw ddim yn meddwl	NSNT	NSNT
+99, 2	238, 5-10	ENA	bod hi yn gwerthu dim c_ds	SNT	SNT
+99, 3	239, 1-2	ENA	ond wsti	NSNT	NSNT
+99, 4	239, 3-7	ENA	basai fo ddim yn cystadlu	---	NSNT
+
+
+100, 1	240, 1-4	DYF	basen ni yn gallu	NSNT	NSNT
+100, 2	241, 2-9	DYF	gynnoch chi rif cyswllt ar ei chyfer hi	---	NSNT
+
+
+101, 1	243, 1-4	GWE	ti yn gweld hi	---	NSNT
+
+
+102, 1	244, 1-4	ENA	wna i weld hi	NSNT	NSNT
+102, 2	245, 1-9	ENA	fydda i wedi gweld hi cyn diwedd y wythnos	NSNT	NSNT
+102, 3	245, 10-12	ENA	mae yn *sure*	---	NST
+
+
+103, 1	247, 1-2	GWE	yn bydd	---	NSNT
+
+
+103, 2	248, 1-6	GWE	ti yn gweld hi yn aml	---	NSNT
+
+
+105, 1	250, 1-1	ENA	yndw	NSNT	NSNT
+105, 2	250, 2-4	ENA	wna i sôn	NSNT	NSNT
+105, 3	251, 1-3	ENA	*sure* o fod	NST	NST
+105, 4	253, 1-6	ENA	dw ddim yn gwybod pam lai	NSNT	NSNT
+105, 5	254, 1-4	ENA	does gynno fi ddim	NSNT	NSNT
+105, 6	255, 1-4	ENA	trio meddwl pwy sy	NSNT	NSNT
+105, 7	255, 5-6	ENA	gynnon ni	---	NSNT
+
+
+106, 1	257, 1-6	GWE	ie mae nhw yn *crew* da	---	NST
+
+
+107, 1	259, 1-7	ENA	Cymdeithas_y_Cymod heb *lot* ofnadwy o grwpiau cry	NST	NST
+107, 2	260, 1-19	ENA	ond mae bobl fath â *Freddie* a bobl yn *Aberystwyth* yn bobl sydd yn allweddol a *Graham* a *Dawn*	---	NST
+
+
+108, 1	264, 1-7	DYF	oes yna gysylltiad efo *Oxfam* Cymru *um*	NST	NST
+108, 2	265, 1-2	DYF	neu oes	NSNT	NSNT
+108, 3	265, 3-7	DYF	oes yna *Oxfam_Cymru* neu *Oxfam*	---	NST
+
+
+109, 1	266, 1-4	ENA	*oh* mae yna *Oxfam*	NST	NST
+109, 2	268, 1-7	ENA	mae yna swyddfa *Oxfam* lawr yng Nghaerdydd	NST	NST
+109, 3	269, 1-4	ENA	dw ddim yn gwybod	NSNT	NSNT
+109, 4	269, 5-9	ENA	be ydy gyfeiriad y lle	NSNT	NSNT
+109, 5	270, 1-1	ENA	mae	NSNT	NSNT
+109, 6	270, 2-5	ENA	genno fi ar e_bost	---	NSNT
+
+
+110, 1	271, 1-16	GWE	St_Mary_Street yr un swyddfa â swyddfa *um* yr *well* yr un adeilad â swyddfa Bwrdd_yr_Iaith *yeah*	---	ST
+
+
+111, 1	274, 1-9	DYF	dach chi wedi cysylltu efo nhw o_blaen neu wedi	---	NSNT
+
+
+112, 1	275, 2-8	GWE	dan ni yn nabod *er* sawl *person*	---	NST
+
+
+113, 1	276, 2-4	ENA	dan ni yn	NSNT	NSNT
+113, 2	276, 6-10	ENA	dan ni yn nabod *staff*	NST	NST
+113, 3	277, 2-7	ENA	dan ni yn nabod *staff* *Oxfam*	---	NST
+
+
+114, 1	278, 1-3	DYF	dach chi meddwl	---	NSNT
+
+
+115, 1	279, 1-11	ENA	dw i erioed wedi wneud dim_byd efo nhw ar *Israel* Palesteina	NST	NST
+115, 2	280, 1-6	ENA	ond dydy hynny ddim_byd i wneud	NSNT	NSNT
+115, 3	280, 7-10	ENA	dydy hynny ddim yn	---	NSNT
+
+
+116, 1	281, 1-1	DYF	fasen	---	NSNT
+
+
+117, 1	282, 1-4	GWE	*well* mae nhw yn	NST	NST
+117, 2	282, 6-8	GWE	mae nhw yn	NSNT	NSNT
+117, 4	285, 1-6	GWE	dyn nhw ddim yn gweithio yna	---	NSNT
+
+
+118, 1	286, 1-4	ENA	*oh* nac ydyn nhw	---	NST
+
+
+119, 1	287, 1-3	GWE	toedden nhw ddim	---	NSNT
+
+
+120, 1	288, 1-7	ENA	dyn nhw ddim yn gweithio yna o_gwbl	---	NSNT
+
+
+121, 1	289, 1-4	GWE	dw ddim yn gwybod	NSNT	NSNT
+121, 2	289, 5-8	GWE	os ydyn nhw rŵan	NSNT	NSNT
+121, 3	291, 1-16	GWE	na o'n i yn siarad am y peth wythnos diwetha efo *Adam_Adams* i ddeud y gwir	NST	NST
+121, 4	292, 1-8	GWE	dw ddim yn *sure* iawn os mai Iddewon	NST	NST
+121, 5	292, 9-11	GWE	ddaru gychwyn *Oxfam*	NST	NST
+121, 6	293, 1-1	GWE	dyna	NSNT	NSNT
+121, 7	293, 2-4	GWE	be ddeudodd o	---	NSNT
+
+
+122, 1	296, 1-1	ENA	gosh	SNT	NSNT
+122, 2	297, 1-4	ENA	ddim yn gwybod hynny	---	NSNT
+
+
+123, 1	298, 1-10	GWE	fod y rhei o yr sylfaenwyr yn Iddewon beth bynnag	NSNT	NSNT
+123, 2	299, 1-4	GWE	dw ddim yn gwybod	NSNT	NSNT
+123, 3	299, 5-19	GWE	basai yn eitha diddorol edrych ar eu gwefan nhw i ddeud y gwir i weld	NSNT	NSNT
+123, 4	299, 20-28	GWE	os oes gynnyn nhw unrhyw *line* ar y sefyllfa	---	NST
+
+
+124, 1	301, 1-1	ENA	bysai	---	NSNT
+
+
+125, 1	303, 1-2	GWE	ond timod	NSNT	NSNT
+125, 2	303, 3-10	GWE	mae hynny wahanol i unigolion beth bynnag yn_dydy	---	NSNT
+
+
+126, 1	304, 4-5	ENA	mae o	---	NSNT
+
+
+127, 1	306, 1-6	GWE	allan ni feddwl am bobl eraill	NSNT	NSNT
+127, 2	307, 1-2	GWE	timod achos	NSNT	NSNT
+127, 3	307, 3-8	GWE	mae *crew* *um* *Nicaragua* Cymru yn_dydy	NST	NST
+127, 4	307, 9-17	GWE	timod yn yn cysylltiadau fel *Hugh* a *crew* *Blaenau_Ffestiniog*	---	NST
+
+
+128, 1	309, 1-2	ENA	basai nhw	NSNT	NSNT
+128, 2	310, 1-4	ENA	basai *Hugh* a pethau	NST	NST
+128, 3	311, 2-3	ENA	mae yna	NSNT	NSNT
+128, 4	311, 4-6	ENA	mae yna *um*	---	NST
+
+
+129, 1	313, 1-4	DYF	pryd ydy yr adeg	---	NSNT
+
+
+130, 1	314, 1-3	ENA	mae yna *shop*	NST	NST
+130, 2	314, 4-10	ENA	mae yr *shop* werdd yna yn *Blaenau_Ffestiniog*	NST	NST
+130, 3	314, 11-14	ENA	lle mae mab *Menna_Jones*	NST	NST
+130, 4	315, 1-6	ENA	*sure* basai fo yn cymryd rhei	NST	NST
+130, 5	316, 1-5	ENA	wnaeth o gymryd bandiau gwyn	---	NSNT
+
+
+131, 1	318, 1-4	DYF	because be wna i	NSNT	SNT
+131, 2	318, 5-15	DYF	ydy wneud tua swp o bosteri i fynd efo yr c_ds	---	SNT
+
+
+132, 1	319, 1-2	ENA	y *c_c*	---	NST
+
+
+133, 1	320, 1-10	DYF	*so* *poster* yn y pen y *shop* a wedyn timod	---	NST
+
+
+134, 1	322, 1-1	ENA	da	---	NSNT
+
+
+135, 1	324, 1-7	GWE	ydy yr gwahoddiad yn barod gen ti	---	NSNT
+
+
+136, 1	325, 1-3	DYF	mae yr gwahoddiad	NSNT	NSNT
+136, 2	325, 4-9	DYF	dw i wedi danfon y gwahoddiad	NSNT	NSNT
+136, 3	326, 1-10	DYF	wnes i ddanfon o i nghysylltiadau i gyd neithiwr *so*	NST	NST
+136, 4	327, 1-6	DYF	alla i ddanfon fo i chi	---	NSNT
+
+
+137, 1	328, 1-6	GWE	elli di yrru o ar e_bost	---	NSNT
+
+
+138, 1	329, 1-1	DYF	mae	NSNT	NSNT
+138, 2	329, 2-6	DYF	gynna i dy gyfeiriad di	NSNT	NSNT
+138, 3	330, 1-1	DYF	does	NSNT	NSNT
+138, 4	330, 2-7	DYF	gynna i ddim dy gyfeiriad di	NSNT	NSNT
+138, 5	330, 8-10	DYF	dw ddim meddwl	---	NSNT
+
+
+139, 1	331, 1-5	ENA	wna i anfon o ymlaen	NSNT	NSNT
+139, 2	333, 1-1	ENA	mae	NSNT	NSNT
+139, 3	333, 2-6	ENA	mae yr un fath *G_Roberts*	---	NST
+
+
+140, 1	334, 1-9	GWE	mae o yr union yr un peth *just* *G_Roberts*	---	NST
+
+
+141, 1	336, 1-4	ENA	*G_Roberts* yn lle *E_Jones*	NST	NST
+141, 2	338, 1-6	ENA	*just* *swap* un am y llall	---	NST
+
+
+142, 1	340, 1-14	DYF	ond fasai hi yn bosib dod fewn wythnos nesa rywbryd i i hel cysylltiadau	---	NSNT
+
+
+143, 1	341, 1-2	ENA	*oh* da	NST	NST
+143, 2	342, 1-1	ENA	bysai	NSNT	NSNT
+143, 3	342, 2-6	ENA	fydda i o_gwmpas wythnos nesa	NSNT	NSNT
+143, 4	342, 7-7	ENA	byddaf	NSNT	NSNT
+143, 5	344, 1-5	ENA	ti ddim yma nag wyt	---	NSNT
+
+
+144, 1	345, 1-5	GWE	dw i ar y ngwyliau	---	NSNT
+
+
+145, 1	346, 1-4	ENA	wyt o'n i meddwl	---	NSNT
+
+
+146, 1	347, 1-3	GWE	dw i meddwl	NSNT	NSNT
+146, 2	347, 4-9	GWE	alla i gerdded lawr y lôn	NSNT	NSNT
+146, 3	347, 10-15	GWE	de o *Lôn_Bopty* i fan hyn	---	NST
+
+
+147, 1	349, 1-4	DYF	*oh* dw i gweld	NST	NST
+147, 2	350, 1-5	DYF	wyt ti ar dy wyliau	---	NSNT
+
+
+148, 1	352, 1-6	GWE	yndw ar fy ngwyliau nid i_ffwrdd	NSNT	NSNT
+148, 2	353, 1-7	GWE	ar fy ngwyliau ond adre gorffen gweithio	---	NSNT
+
+
+149, 1	354, 1-1	DYF	*well*	---	NST
+
+
+150, 1	355, 1-4	GWE	dw i yng Nghaerdydd	NSNT	NSNT
+150, 2	355, 5-11	GWE	dw i yng Nghaerdydd dydd *er* Llun	NST	NST
+150, 3	355, 12-12	GWE	dydw	NSNT	NSNT
+150, 5	358, 1-5	GWE	a ella *um* dydd Mawrth	---	NST
+
+
+151, 1	359, 1-4	DYF	does yna ddim brys	NSNT	NSNT
+151, 2	359, 6-7	DYF	timod *just*	---	NST
+
+
+152, 1	361, 1-8	GWE	os ti gallu e_bostio yr gwahoddiad dw i	NSNT	NSNT
+152, 2	361, 9-14	GWE	dw i fan yma ar_ôl fory	---	NSNT
+
+
+153, 1	362, 1-3	ENA	fydda i yma	---	NSNT
+
+
+154, 1	364, 1-11	GWE	baswn i yn gallu gyrru fo i bobl cyn y penwythnos	---	NSNT
+
+
+155, 1	366, 1-3	ENA	*yeah* alla i	NST	NST
+155, 2	366, 4-7	ENA	alla i wneud hynny	NSNT	NSNT
+155, 3	367, 1-7	ENA	does yna ddim *broblem* fi anfon hwnna	NST	NST
+155, 4	369, 1-2	ENA	syniad da	NSNT	NSNT
+155, 5	370, 1-3	ENA	dw i falch	NSNT	NSNT
+155, 6	370, 4-7	ENA	bod hynna yn digwydd	---	NSNT
+
+
+156, 1	371, 1-13	GWE	*yeah* felly wyt ti isio *crew* i ddod i yr Caplandy nos Iau	---	NST
+
+
+157, 1	372, 1-2	DYF	*well* *yeah*	---	NST
+
+
+158, 1	373, 1-10	ENA	yn *Y_Ffynnon* mae o ta yn y Caplandy yn y	---	NST
+
+
+159, 1	374, 1-7	DYF	naci yn yr *um* yn y gegin	---	NST
+
+
+160, 1	375, 1-2	GWE	lle bwyta	NSNT	NSNT
+160, 2	377, 1-9	GWE	gaethon ni *barty* da yna ychydig fisoedd yn_ôl yn_do	---	NST
+
+
+161, 1	378, 2-5	ENA	pan aethon ni nôl	NSNT	NSNT
+161, 2	379, 2-7	ENA	oedd o yn *great* y noson	NST	NST
+161, 3	379, 8-8	ENA	honna	NSNT	NSNT
+161, 4	380, 1-9	ENA	*just* cyn agor y ardd heddwch yna oedd o	---	NST
+
+
+162, 1	382, 1-5	GWE	*oh* *yeah* yr noson cynt	---	NST
+
+
+163, 1	383, 1-3	ENA	y noson cynt	NSNT	NSNT
+163, 2	384, 1-5	ENA	oedd o noson cynt yn_doedd	NSNT	NSNT
+163, 3	385, 1-4	ENA	y *crew* aeth i	---	NST
+
+
+164, 1	386, 1-5	DYF	*oh* *yeah* wnes i ddim	---	NST
+
+
+165, 1	388, 1-10	GWE	oedd yna *lot* o fwyd Arabeg yn y noson honno	NST	NST
+165, 2	388, 11-11	GWE	doedd	---	NSNT
+
+
+166, 1	389, 1-5	ENA	*oh* oedd o yn lovely	ST	ST
+166, 2	390, 1-4	ENA	oedd o yn gorgeous	---	SNT
+
+
+167, 1	391, 1-1	DYF	*well*	---	NST
+
+
+168, 1	392, 1-8	GWE	pobl oedd wedi dod â platiau hefo nhw	NSNT	NSNT
+168, 2	392, 9-12	GWE	dw i yn credu	NSNT	NSNT
+168, 3	392, 13-16	GWE	oedd y noson honno	---	NSNT
+
+
+169, 1	393, 1-3	ENA	dw i meddwl	NSNT	NSNT
+169, 2	393, 4-11	ENA	bod *Emma* wedi wneud *lot* ohono fo hefyd	NST	NST
+169, 3	394, 1-12	ENA	oedd yna *lot* yn digwydd fyny yr grisiau yn y gegin yn_doedd	NST	NST
+169, 4	397, 1-8	ENA	oedd hi wedi wneud *lot* fawr o gwaith	---	NST
+
+
+170, 1	398, 1-5	DYF	*well* alla i ddim gaddo	NST	NST
+170, 2	398, 6-10	DYF	fydd o mor *nice* â	NST	NST
+170, 3	398, 11-14	DYF	be wnaeth hi ond	---	NSNT
+
+
+171, 1	400, 1-10	GWE	os ti isio *help* wna i helpu chdi efo bwyd	---	NST
+
+
+172, 1	403, 1-5	ENA	mae hon yn *gooker* dda	NST	NST
+172, 2	404, 1-4	ENA	dw i yn anobeithiol	---	NSNT
+
+
+173, 1	405, 1-11	DYF	*well* fydd ni yn gallu defnyddio yr gegin yn y Caplaniaeth	NST	NST
+173, 2	406, 1-19	DYF	felly *um* fydda i mynd pnawn dydd Iau *sure* i i yr *shop* *halal* *just* i brynu be bynnag	NST	NST
+173, 3	406, 20-21	DYF	sy yna	NSNT	NSNT
+173, 4	407, 1-8	DYF	alli di ddod efo fi os ti isio	NSNT	NSNT
+173, 5	409, 1-7	DYF	ond timod *felafel* a *humous* a *salad*	NST	NST
+173, 6	409, 8-11	DYF	a timod be bynnag	NSNT	NSNT
+173, 7	409, 12-14	DYF	ydy yr *er*	---	NST
+
+
+174, 1	410, 1-2	GWE	*yeah* *great*	---	NST
+
+
+175, 1	411, 1-2	ENA	*well* dyna	NST	NST
+175, 2	411, 3-5	ENA	ydy yr be	NSNT	NSNT
+175, 3	413, 1-1	ENA	dyna	NSNT	NSNT
+175, 4	413, 2-5	ENA	des i fwyta non_stop	---	SNT
+
+
+176, 1	414, 1-4	DYF	dyna yr unig beth	NSNT	NSNT
+176, 2	414, 5-12	DYF	wnes i fwyta tra o'n i yna *yeah*	---	NST
+
+
+177, 1	417, 1-8	ENA	heblaw am y sleisen o *lard* wnes i	NST	NST
+177, 2	417, 9-16	ENA	roid ar yn peth yna meddwl mai caws	NSNT	NSNT
+177, 3	417, 17-18	ENA	oedd o	---	NSNT
+
+
+178, 1	418, 1-2	GWE	syniad da	---	NSNT
+
+
+179, 1	419, 1-2	DYF	God ie	---	SNT
+
+
+180, 1	420, 1-5	GWE	*oh* *Ena* *ugh* go iawn	---	NST
+
+
+181, 1	424, 1-8	ENA	oedd o yn edrych yn union fel caws	---	NSNT
+
+
+182, 1	425, 1-2	GWE	*oh* ych_a_fi	---	NST
+
+
+183, 1	426, 1-8	ENA	gynnyn nhw peth yna ohono fo ar y	---	NSNT
+
+
+184, 1	427, 1-6	DYF	o'n i ddim yn dallt pam	---	NSNT
+
+
+185, 1	428, 1-4	ENA	oedd yna neb *well*	NST	NST
+185, 2	428, 5-10	ENA	oedd yna neb yn gymryd o	NSNT	NSNT
+185, 3	428, 11-15	ENA	nag oedd o'n i wedi	---	NSNT
+
+
+186, 1	429, 1-1	GWE	*lard*	---	NST
+
+
+187, 1	431, 1-4	ENA	wnes i *just* deud	NST	NST
+187, 2	432, 1-4	ENA	peidiwch â twtsiad hwnna	---	NSNT
+
+
+188, 1	433, 1-1	GWE	rhyfedd	---	NSNT
+
+
+189, 1	434, 1-4	ENA	oedd o yn *joke*	NST	NST
+189, 2	435, 1-8	ENA	rhoid hwn yn y ngheg yn meddwl mai	NSNT	NSNT
+189, 3	436, 1-4	ENA	timod cymryd bite o	---	SNT
+
+
+190, 1	438, 1-4	DYF	oedd o yn afiach	NSNT	NSNT
+190, 2	438, 5-5	DYF	doedd	---	NSNT
+
+
+191, 1	439, 1-5	ENA	doedd ddim yn *nice* iawn	NST	NST
+191, 2	440, 1-11	ENA	doedd o ddim yn *nice* at all at all at all	---	ST
+
+
+192, 1	441, 1-6	GWE	*oh* dw ddim yn nabod neb	NST	NST
+192, 2	441, 7-11	GWE	sy wedi bwyta *lard* o_blaen	---	NST
+
+
+193, 1	442, 1-1	ENA	ych_a_fi	NSNT	NSNT
+193, 2	443, 1-10	ENA	baswn i ddim yn argymell i neb fwyta fo chwaith	NSNT	NSNT
+193, 3	445, 1-6	ENA	dydy o ddim yn syniad da	NSNT	NSNT
+193, 4	447, 1-7	ENA	*well* sut o'n i fod i wybod	---	NST
+
+
+194, 1	449, 1-8	GWE	*oh* oedd yna neb wedi deud wrtha chdi	---	NST
+
+
+195, 1	450, 1-5	ENA	oedd neb ddeud wrtha fi	NSNT	NSNT
+195, 2	451, 1-7	ENA	wnes i ddeud wrth pawb arall wedyn	---	NSNT
+
+
+196, 1	452, 1-6	GWE	basai cysylltiadau mewn ysgolion eitha difir	NSNT	NSNT
+196, 2	452, 7-7	GWE	bysai	NSNT	NSNT
+196, 3	453, 3-8	GWE	os oes yna rywun yn fodlon	NSNT	NSNT
+196, 4	455, 1-6	GWE	meddwl am rywun fath â *Freda*	NST	NST
+196, 5	456, 1-17	GWE	ella basai rywun fath â *Freda* yn mynd â deg *copy* a gwerthu nhw yn yr ysgol	---	NST
+
+
+197, 1	457, 1-4	DYF	pwy ydy *Freda* wan	---	NST
+
+
+198, 1	458, 1-3	GWE	*Freda* mae *Freda*	---	NST
+
+
+199, 1	459, 1-8	ENA	wnaeth hi wneud profiad gwaith efo ni llynedd	---	NSNT
+
+
+200, 1	460, 1-4	GWE	efo chweched dosbarth *Ysgol_Tryfan*	---	NST
+
+
+201, 1	461, 1-4	ENA	hwyrach bysai *Isaac* hefyd	---	NST
+
+
+202, 1	462, 1-3	GWE	*yeah* mae ryw	NST	NST
+202, 2	463, 1-7	GWE	gynnon ni rei cysylltiadau keen yn ysgolion	---	SNT
+
+
+203, 1	464, 1-3	ENA	fasai *Gladys* hefyd	NST	NST
+203, 2	464, 4-4	ENA	bysai	---	NSNT
+
+
+204, 1	466, 1-5	GWE	basai *Gladys* yn un da	NST	NST
+204, 2	466, 6-8	GWE	dw i meddwl	NSNT	NSNT
+204, 3	466, 9-9	GWE	fysai	---	NSNT
+
+
+205, 1	467, 1-1	ENA	bysai	NSNT	NSNT
+205, 2	467, 2-7	ENA	basai hi yn gallu sifftio *lot*	NST	NST
+205, 3	468, 1-8	ENA	basai hi yn gallu cael yr un *Galeri*	---	NST
+
+
+206, 1	469, 1-6	GWE	fasai *Alice* efo *Tabernacle* *Bethesda* hefyd	NST	NST
+206, 2	470, 1-5	GWE	mae yna *gig* ym *Bethesda*	NST	NST
+206, 3	470, 6-9	GWE	does efo *Cerys* *Catatonia*	---	NST
+
+
+207, 1	471, 1-4	DYF	dw i yn syportio	---	NSNT
+
+
+208, 1	472, 1-2	GWE	wyt ti	---	NSNT
+
+
+209, 1	473, 1-1	DYF	yndw	---	NSNT
+
+
+210, 1	474, 1-1	ENA	pryd	---	NSNT
+
+
+211, 1	475, 1-6	GWE	mae yr tocynnau i_gyd wedi mynd	NSNT	NSNT
+211, 2	477, 1-11	GWE	heblaw bod fi yn gallu mynd fel backing vocals i *Dyfed*	---	ST
+
+
+212, 1	479, 1-2	DYF	nos Sul	---	NSNT
+
+
+213, 1	480, 1-9	GWE	ella basai yn dda gwerthu gwerthu c_ds i chdi	NSNT	SNT
+213, 2	481, 1-2	GWE	dw i	NSNT	NSNT
+213, 3	481, 3-6	GWE	fysai hynny yn wych	NSNT	NSNT
+213, 4	482, 1-3	GWE	gofyn i *Alice*	NST	NST
+213, 5	482, 4-11	GWE	os gaiff dau *berson* ddod i werthu c_ds	---	ST
+
+
+214, 1	483, 1-4	DYF	*well* mae yr hogan	NST	NST
+214, 2	483, 5-10	DYF	sy yn canu efo fi *Hayley*	NST	NST
+214, 3	483, 11-16	DYF	mae chariad hi *Bertie_Burton* yn *er*	NST	NST
+214, 4	483, 17-23	DYF	mae o ar y pwyllgor be bynnag	NSNT	NSNT
+214, 5	483, 24-26	DYF	ydyn nhw *Pesda_Roc*	NST	NST
+214, 6	484, 1-5	DYF	felly dw i yn *sure*	---	NST
+
+
+215, 1	485, 1-8	GWE	fyddan nhw *right* *strict* efo y rheolau tân	NST	NST
+215, 2	485, 9-9	GWE	byddan	NSNT	NSNT
+215, 3	486, 1-5	GWE	fydd pawb isio mynd yn_bydd	---	NSNT
+
+
+216, 1	487, 1-1	ENA	byddan	NSNT	NSNT
+216, 2	487, 2-2	ENA	dyna	NSNT	NSNT
+216, 3	487, 3-4	ENA	ydy peth	---	NSNT
+
+
+217, 1	488, 1-2	DYF	*well* timod	NST	NST
+217, 2	488, 3-14	DYF	dw i yn sicr yn mynd i gael y nghariad i fewn	NSNT	NSNT
+217, 3	489, 1-1	DYF	felly	NSNT	NSNT
+217, 4	490, 1-6	DYF	a does gynni hi ddim tocyn	NSNT	NSNT
+217, 5	491, 1-6	DYF	ond dw i yn gwrthod chwarae	NSNT	NSNT
+217, 6	491, 7-14	DYF	os ydy hi ddim yn cael dod *so*	NST	NST
+217, 7	492, 1-8	DYF	er dw i ddim mor bothered â hynny	NSNT	SNT
+217, 8	492, 9-12	DYF	dw i yn *sure*	---	NST
+
+
+218, 1	494, 1-5	GWE	gofyn am guest *list* rŵan	---	ST
+
+
+219, 1	496, 1-2	DYF	mae mi	NSNT	NSNT
+219, 2	496, 3-9	DYF	ddaru yr tocynnau i_gyd fynd mewn teirawr	---	NSNT
+
+
+220, 1	497, 1-8	GWE	do'n i ddim yn gwybod bod nhw yn	NSNT	NSNT
+220, 2	497, 9-14	GWE	pryd oedden nhw yn mynd ar	NSNT	NSNT
+220, 3	497, 15-15	GWE	werth	NSNT	NSNT
+220, 4	499, 1-4	GWE	pryd aethon nhw ar	NSNT	NSNT
+220, 5	499, 5-5	GWE	werth	NSNT	NSNT
+220, 6	500, 1-2	GWE	ti gwybod	---	NSNT
+
+
+221, 1	501, 1-3	DYF	ryw pythefnos yn_ôl	---	NSNT
+
+
+222, 1	503, 1-5	GWE	felly o'n i yn gwybod	NSNT	NSNT
+222, 2	504, 1-6	GWE	*oh* dydy yr tocynnau ddim ar	NST	NST
+222, 3	504, 7-8	GWE	werth eto	NSNT	NSNT
+222, 4	505, 1-4	GWE	mae nhw yn mynd	NSNT	NSNT
+222, 5	507, 1-6	GWE	byddan ni yn cyhoeddi yr dyddiad	NSNT	NSNT
+222, 6	508, 1-8	GWE	ond raid bod fi ddim o_gwmpas neu rywbeth	---	NSNT
+
+
+223, 1	509, 1-5	ENA	wnes i ddim clywed dim_byd	NSNT	NSNT
+223, 2	510, 1-2	ENA	dw i	NSNT	NSNT
+223, 3	510, 3-9	ENA	wedi bod yn mewn ogof yn rywle	---	NSNT
+
+
+224, 1	512, 1-5	GWE	a wedyn wnes i e_bostio	---	NSNT
+
+
+225, 1	513, 1-2	ENA	dw i	NSNT	NSNT
+225, 2	513, 3-10	ENA	wedi bod yn gwrando ar y pethau dŵr	NSNT	NSNT
+225, 3	514, 1-10	ENA	a dw i ddim wedi clywed dim_byd am ddim_byd arall	---	NSNT
+
+
+226, 1	515, 1-7	GWE	*well* wnes i e_bostio *Alice* a gofyn	NST	NST
+226, 2	515, 9-14	GWE	pryd oedd y tocynnau mynd ar	NSNT	NSNT
+226, 3	515, 15-15	GWE	werth	NSNT	NSNT
+226, 4	516, 1-6	GWE	*oh* mae nhw gyd wedi mynd	NST	NST
+226, 5	517, 1-14	GWE	*yeah* *so* ti yn gofyn rŵan am guest *list* o bedwar neu be bynnag	---	ST
+
+
+227, 1	518, 1-4	DYF	iawn mi wna i	---	NSNT
+
+
+228, 1	519, 1-2	ENA	*well* *yeah*	---	NST
+
+
+229, 1	520, 1-2	GWE	timod chdi	NSNT	NSNT
+229, 2	520, 3-12	GWE	a baswn i yn gallu mynd i werthu yr c_ds	---	SNT
+
+
+230, 1	521, 1-2	ENA	pam lai	---	NSNT
+
+
+231, 1	522, 1-18	GWE	rhag ofn iddyn nhw ddeud wrtha chdi ar y noson dan ni ddim yn cael chwaneg o bobl	---	NSNT
+
+
+232, 1	523, 1-4	DYF	mi wna i ffonio	NSNT	NSNT
+232, 2	524, 1-4	DYF	mi wna i ofyn	NSNT	NSNT
+232, 3	526, 1-4	DYF	wna i wneud wan	---	NSNT
+
+
+233, 1	528, 1-3	ENA	basai hynna *laugh*	---	NST
+
+
+234, 1	529, 2-2	GWE	bysai	NSNT	NSNT
+234, 2	529, 3-10	GWE	bysai hynna yn gyfle da i werthu nhw	NSNT	NSNT
+234, 3	530, 1-9	GWE	achos bydd bobl chwilio am anrhegion Dolig hefyd yn_byddan	---	NSNT
+
+
+235, 1	531, 1-1	DYF	byddan	---	NSNT
+
+
+236, 1	532, 1-7	GWE	a enwedig os wyt ti yn chwarae	NSNT	NSNT
+236, 2	533, 1-4	GWE	mae o ar blât	NSNT	NSNT
+236, 3	533, 5-5	GWE	dydy	---	NSNT
+
+
+237, 1	535, 1-2	ENA	mae o	SNT	NSNT
+237, 2	536, 1-1	ENA	straightaway	---	NSNT
+
+
+238, 1	537, 1-7	DYF	fedra i wneud cyhoeddiad o yr llwyfan	---	NSNT
+
+
+239, 1	538, 1-4	GWE	baswn i yn gallu	---	NSNT
+
+
+240, 1	539, 1-6	ENA	sbïwch allan am *Gwenith* ac *Ena*	NST	NST
+240, 2	542, 1-5	ENA	na paid â deud hynna	---	NSNT
+
+
+241, 1	543, 1-2	GWE	*real* divs	ST	NST
+241, 2	544, 1-7	GWE	ti yn dda am werthu hefyd dwyt	---	NSNT
+
+
+242, 1	545, 1-2	ENA	*oh* wonderful	---	NST
+
+
+243, 1	546, 1-11	GWE	o't ti yn dda efo bandiau gwyn yn y *gig* *Steddfod*	---	NST
+
+
+244, 1	547, 1-1	ENA	*well*	ST	NST
+244, 3	549, 1-8	ENA	*well* wnaethon ni werthu nhw hefyd yn *Cofi_Roc*	---	NST
+
+
+245, 1	550, 1-2	GWE	dim haglo	NSNT	NSNT
+245, 2	551, 1-2	GWE	be mae	NSNT	NSNT
+245, 3	551, 3-8	GWE	be ydy yr pris pump punt	NSNT	NSNT
+245, 4	552, 1-9	GWE	ta dw i wedi cael hwnna o unrhyw le	---	NSNT
+
+
+246, 1	553, 1-5	DYF	ia dw i yn meddwl	NSNT	NSNT
+246, 2	554, 1-3	DYF	mae yna bedwar	NSNT	NSNT
+246, 3	554, 4-4	DYF	cân	NSNT	NSNT
+246, 4	555, 1-9	DYF	mae yna ugain munud o gerddoriaeth gyd efo ei_gilydd	NSNT	NSNT
+246, 5	556, 1-4	DYF	*so* dw i meddwl	NST	NST
+246, 6	556, 5-9	DYF	bod pump punt yn *er*	NST	NST
+246, 7	557, 1-5	DYF	dydy o ddim yn ormod	NSNT	NSNT
+246, 8	557, 6-7	DYF	nag ydy	---	NSNT
+
+
+247, 1	558, 1-4	ENA	*oh* pump punt na	---	NST
+
+
+248, 1	559, 1-7	GWE	*oh* pump punt yn hawdd hefyd dydy	---	NST
+
+
+249, 1	562, 1-5	ENA	does dim isio newid wedyn	NSNT	NSNT
+249, 2	562, 6-7	ENA	nag oes	---	NSNT
+
+
+250, 1	563, 1-14	GWE	does dim isio mwydro dy ben efo unrhyw fath â newid a ac ati	---	NSNT
+
+
+251, 1	565, 1-2	ENA	nag oes	---	NSNT
+
+
+252, 1	566, 1-2	DYF	a mae	NSNT	NSNT
+252, 2	566, 3-8	DYF	timod *yeah* ugain munud o gerddoriaeth	NST	NST
+252, 3	566, 9-14	DYF	dw i meddwl yn ddigon teg	---	NSNT
+
+
+253, 1	567, 2-3	GWE	mae o	---	NSNT
+
+
+254, 1	568, 2-4	ENA	baswn i feddwl	---	NSNT
+
+
+255, 1	569, 1-2	GWE	pump punt	---	NSNT
+
+
+256, 1	570, 1-4	ENA	dydy o ddim yn	NSNT	NSNT
+256, 2	571, 1-7	ENA	tair punt oedden ni wedi ddeud *yeah*	NST	NST
+256, 3	573, 1-5	ENA	ond doedd yna ddim pedwar	NSNT	NSNT
+256, 4	573, 6-8	ENA	cân pryd hynny	NSNT	NSNT
+256, 5	573, 9-10	ENA	nag oedd	---	NSNT
+
+
+257, 1	574, 1-3	DYF	na yn union	---	NSNT
+
+
+258, 1	575, 1-2	ENA	*well* wsti	---	NST
+
+
+259, 1	577, 1-3	GWE	faint oedd y	---	NSNT
+
+
+260, 1	578, 1-5	ENA	buy two get two *free*	---	NST
+
+
+261, 1	580, 1-6	GWE	*yeah* faint ydy c_d newydd *Frizbee*	NST	ST
+261, 2	581, 1-4	GWE	rhyw pedair pump cân	NSNT	NSNT
+261, 3	581, 5-7	GWE	sy ar honna	---	NSNT
+
+
+262, 1	582, 1-5	DYF	fydd honno yn saith bunt	NSNT	NSNT
+262, 2	582, 6-12	DYF	dw i yn *sure* chwe phunt *sure*	---	NST
+
+
+263, 1	584, 1-6	ENA	*oh* sticiwn ni at bump punt	---	NST
+
+
+264, 1	586, 1-9	GWE	ydy yr c_ds yn cyrraedd *er* yn eu cloriau	---	ST
+
+
+265, 1	587, 1-2	DYF	*oh* ydan	NST	NST
+265, 2	588, 1-10	DYF	mae nhw yn cyrraedd mewn *boxes* o dau_ddeg_pump fel arfer	---	NST
+
+
+266, 1	589, 1-4	GWE	mae pethau wedi newid	---	NSNT
+
+
+267, 1	590, 1-5	ENA	ti wedi gweld y clawr	---	NSNT
+
+
+268, 1	591, 1-4	GWE	mae pethau wedi newid	---	NSNT
+
+
+269, 1	592, 1-4	ENA	oedd o yma yn_doedd	NSNT	NSNT
+269, 2	593, 1-5	ENA	ti wedi gweld y clawr	NSNT	NSNT
+269, 3	594, 1-6	ENA	oedd o ar y *ddesk* yma	---	NST
+
+
+270, 1	595, 1-16	GWE	o'n i rhannu tŷ efo *Alun* a *Gruff* wnaeth gychwyn *Ankst* pan o'n i yn coleg	---	NST
+
+
+271, 1	597, 1-2	ENA	dyna fo	---	NSNT
+
+
+272, 1	598, 1-9	GWE	yr oriau dw i wedi treulio yn plygu cloriau	---	NSNT
+
+
+273, 1	599, 1-4	ENA	dyna fo yr *er*	---	NST
+
+
+274, 1	600, 1-5	DYF	hwnna ydy clawr y c_d	---	SNT
+
+
+275, 1	601, 1-4	ENA	y clawr fan yma	NSNT	NSNT
+275, 2	602, 1-8	ENA	o'n isio dangos o i *Marika* beth bynnag	NST	NST
+275, 3	603, 1-6	ENA	oedd hi wedi gofyn am gael	---	NSNT
+
+
+276, 1	604, 1-2	GWE	*oh* *great*	---	NST
+
+
+277, 1	605, 1-3	ENA	mae yn dda	---	NSNT
+
+
+278, 1	606, 1-5	DYF	a hwnna ydy yr *er*	---	NST
+
+
+279, 1	607, 1-2	ENA	y cas	---	NSNT
+
+
+280, 1	608, 1-11	GWE	ew dach chi yn cael *logo* go fawr ar y clawr	---	NST
+
+
+281, 1	610, 1-7	ENA	mae o yn *er* edrych yn good	ST	ST
+281, 2	611, 1-6	ENA	colomen efo twll yn ei chanol	SNT	NSNT
+281, 4	613, 1-1	ENA	*Cantre'r_Gwaelod*	---	NST
+
+
+282, 1	615, 1-9	GWE	disgrifio dy hun fath â *person* o *Fangor* bellach	---	NST
+
+
+283, 1	616, 1-3	DYF	cerddor o *Fangor*	---	NST
+
+
+284, 1	617, 1-3	GWE	cerddor o *Fangor*	---	NST
+
+
+285, 1	619, 1-4	DYF	dw i yn cael	NSNT	NSNT
+285, 2	620, 1-2	DYF	dw i	NSNT	NSNT
+285, 3	620, 3-7	DYF	wedi bod yma ers degawd	SNT	NSNT
+285, 4	621, 1-2	DYF	blinking heck	---	NSNT
+
+
+286, 1	622, 1-2	ENA	degawd do	---	NSNT
+
+
+287, 1	624, 1-13	DYF	dw i yn teimlo ran o yr lle byth yn gallu dianc anyway	---	SNT
+
+
+288, 1	625, 1-9	GWE	*yeah* ond ti yn *Bangor* go iawn rŵan dwyt	NST	NST
+288, 2	626, 1-9	GWE	ti bod yn byw *right* ar y stryd fawr	---	NST
+
+
+289, 1	627, 1-3	ENA	uwchben swyddfa Cymorth_Cristnogol	---	NSNT
+
+
+290, 1	628, 1-9	GWE	allan o fan hyn erbyn y unfed_ar_ddeg_ar_hugain o Ragfyr	---	NSNT
+
+
+291, 1	629, 1-3	ENA	dydy o ddim	SNT	NSNT
+291, 2	632, 1-2	ENA	heck yndy	---	SNT
+
+
+292, 1	634, 1-7	GWE	ydy oherwydd y cytundebau a popeth bellach	---	NSNT
+
+
+293, 1	638, 1-6	ENA	be mae o mynd i wneud	---	NSNT
+
+
+294, 1	639, 1-14	DYF	mae mynd i werthu llyfrau ail_law o ei o ei *loft* dros y We	NST	NST
+294, 2	640, 1-5	DYF	wneith o wneud *fortune* hefyd	---	NST
+
+
+295, 1	641, 1-9	GWE	oedd o yn cario ryw lyfrau ail_law fyny neithiwr	---	NSNT
+
+
+296, 1	643, 1-4	DYF	*oh* wnes i ffeindio	NST	NST
+296, 2	643, 5-14	DYF	oedd yna lyfr Cymraeg o yr enw *Barddrin* lawr yna	NST	NST
+296, 3	644, 1-2	DYF	mae hwnna	NSNT	NSNT
+296, 4	644, 3-7	DYF	werth cant pedwar_deg o bunnoedd	NSNT	NSNT
+296, 5	644, 8-12	DYF	dan ni wedi ffeindio allan	---	NSNT
+
+
+297, 1	645, 1-1	ENA	*Barddrin*	---	NST
+
+
+298, 1	646, 1-1	DYF	*Barddrin*	ST	NST
+298, 2	647, 1-9	DYF	*just* disgrifiad o *type* o farddoneg cynnar be bynnag	---	NST
+
+
+299, 1	648, 1-2	ENA	good grief	---	NSNT
+
+
+300, 1	650, 1-2	DYF	*yeah* diddorol	---	NST
+
+
+301, 1	651, 1-1	ENA	*laugh*	---	NST
+
+
+302, 1	652, 1-12	DYF	gyn fo gant a mil o lyfrau Cymraeg lawr yna actually ail_law	NSNT	SNT
+302, 2	654, 1-4	DYF	oes rei da hefyd	NSNT	NSNT
+302, 3	654, 5-8	DYF	os gynnoch chi ddiddordeb	---	NSNT
+
+
+303, 1	656, 1-10	ENA	dan ni yn cael gwres canolog i_mewn syth ar_ôl Dolig	---	NSNT
+
+
+304, 1	657, 1-1	DYF	yndach	---	NSNT
+
+
+305, 1	658, 1-8	ENA	mae yr adeiladwyr yn mynd i fod yma	NSNT	NSNT
+305, 2	660, 1-10	ENA	dod i_mewn ar y trydydd o Ionawr am tua wythnos	---	NSNT
+
+
+306, 1	661, 1-2	DYF	*oh* *dear*	---	NST
+
+
+307, 1	662, 1-4	GWE	dach chi yn cael	---	NSNT
+
+
+308, 1	663, 1-5	ENA	*so* fyddan nhw yn codi	---	NST
+
+
+309, 1	664, 1-2	DYF	dw i	NSNT	NSNT
+309, 2	664, 3-8	DYF	gynnon ni wres canolog yn barod	---	NSNT
+
+
+310, 1	665, 1-11	ENA	mae nhw yn mynd i godi lloriau *er* floorboards a pethau	NST	ST
+310, 2	666, 1-4	ENA	mae nhw mynd i	NSNT	NSNT
+310, 3	666, 5-13	ENA	roid hi yn y *toilet* yma fan hyn hefyd	NST	NST
+310, 4	666, 14-15	ENA	medden nhw	NSNT	NSNT
+310, 5	667, 1-7	ENA	o'n i ddim yn gwybod bod nhw	NSNT	NSNT
+310, 6	667, 8-11	ENA	roid nhw fan yna	NSNT	NSNT
+310, 7	668, 1-8	ENA	*so* dw ddim yn gwybod faint o disruption	ST	ST
+310, 8	668, 9-10	ENA	gewch chi	---	NSNT
+
+
+311, 1	669, 1-7	DYF	be *Colin_Collins* rŵan sy yn wneud hyn	---	NST
+
+
+312, 1	670, 1-6	ENA	*Colin_Collins* sy yn wneud hyn *yeah*	---	NST
+
+
+313, 1	672, 1-3	GWE	y dyn tlawd	---	NSNT
+
+
+314, 1	673, 1-1	ENA	bechod	---	NSNT
+
+
+315, 1	674, 1-1	GWE	druan	---	NSNT
+
+
+316, 1	675, 1-7	ENA	dw i mynd i ofyn iddo am	NSNT	NSNT
+316, 2	675, 8-8	ENA	garped	NSNT	NSNT
+316, 3	675, 9-10	ENA	dw meddwl	NSNT	NSNT
+316, 5	677, 1-8	ENA	achos os dyn nhw symud y *thing* yna	NST	NST
+316, 6	677, 9-11	ENA	fydd yna ddim	NSNT	NSNT
+316, 7	677, 12-14	ENA	carped o_dano fo	NSNT	NSNT
+316, 8	677, 15-16	ENA	na fydd	NSNT	NSNT
+316, 9	678, 1-8	ENA	ac os dyn nhw yn codi yr llawr	NSNT	NSNT
+316, 10	678, 9-21	ENA	dydy rhein ddim yn mynd i fynd yn_ôl i_lawr yn *flat* ac yn	NST	NST
+316, 11	678, 22-24	ENA	gall wedyn nac	NSNT	NSNT
+316, 12	678, 25-25	ENA	ydyn	---	NSNT
+
+
+317, 1	679, 1-8	GWE	wnes i faglu dros hwnna diwrnod o_blaen ar_ôl	NSNT	NSNT
+317, 2	679, 9-13	GWE	roid y peiriant ateb ymlaen	NSNT	NSNT
+317, 3	680, 1-4	GWE	y darn carped yna	---	NSNT
+
+
+318, 1	681, 1-2	ENA	*oh* naddo	---	NST
+
+
+319, 1	683, 1-7	GWE	wnes i ddim disgyn yn *flat* ond	---	NST
+
+
+320, 1	684, 1-12	ENA	ti isio sgwennu well i chdi sgwennu dy adroddiad dy accident report	---	SNT
+
+
+321, 1	685, 1-2	GWE	*well* *yeah*	---	NST
+
+
+322, 1	686, 1-3	ENA	health and safety	SNT	NSNT
+322, 2	687, 1-4	ENA	na mae hwn *er*	NST	NST
+322, 3	687, 5-6	ENA	wnes i	NSNT	NSNT
+322, 4	687, 7-9	ENA	wnes i deimlo	NSNT	NSNT
+322, 5	687, 10-15	ENA	bod hwnna yn rhyfedd diwrnod o_blaen	---	NSNT
+
+
+323, 1	688, 1-4	GWE	deud hynny wrtho fo	---	NSNT
+
+
+324, 1	690, 1-12	ENA	mae yna gwpwl yn dy stafell di hefyd sydd yn wedi codi	---	NSNT
+
+
+325, 1	692, 1-12	DYF	baswn i yn gallu siwio os chi yn cael damwain go ddrwg	---	NSNT
+
+
+326, 1	694, 1-9	GWE	alla i wneud fel yr hogiau yna o Abertawe	---	NSNT
+
+
+327, 1	695, 1-2	ENA	*well* does	NST	NST
+327, 2	695, 3-10	ENA	gynnon ni ddim_byd i golli ofyn iddo fo	NSNT	NSNT
+327, 3	695, 11-12	ENA	nag oes	---	NSNT
+
+
+328, 1	696, 1-4	GWE	smalio bod wedi brifo	---	NSNT
+
+
+329, 1	698, 1-1	ENA	does	NSNT	NSNT
+329, 2	698, 2-10	ENA	gynnon ni ddim_byd i golli o ofyn iddo fo	NSNT	NSNT
+329, 3	698, 11-12	ENA	nag oes	---	NSNT
+
+
+330, 1	699, 1-2	GWE	nag oes	NSNT	NSNT
+330, 2	699, 3-4	GWE	nag oes	---	NSNT
+
+
+331, 1	702, 1-6	ENA	a mae hwn yn pretty grotty	---	SNT
+
+
+332, 1	703, 1-3	DYF	na dim o_gwbl	---	NSNT
+
+
+333, 1	704, 1-6	ENA	wnawn ni ofyn am goch *yeah*	---	NST
+
+
+334, 1	705, 1-2	GWE	dim diolch	NSNT	NSNT
+334, 2	706, 1-10	GWE	*fancy* dod fewn yma ben bore a gwynebu carped coch	---	NST
+
+
+335, 1	707, 1-5	ENA	bod o ddim yn wyn	---	NSNT
+
+
+336, 1	708, 1-6	DYF	o leia dach chi yn hwfro	---	NSNT
+
+
+337, 1	709, 1-1	ENA	hwfro	NSNT	NSNT
+337, 2	710, 1-3	ENA	ti wedi gweld	NSNT	NSNT
+337, 3	711, 1-1	ENA	mae	NSNT	NSNT
+337, 4	711, 2-8	ENA	gynnon ni ddau *hoover* yn fan yna	NST	NST
+337, 5	711, 9-16	ENA	oedd yn perthyn i *Noah* yn yr arch	NST	NST
+337, 6	711, 17-19	ENA	dw i meddwl	NSNT	NSNT
+337, 7	712, 1-4	ENA	mae nhw yn anobeithiol	---	NSNT
+
+
+338, 1	714, 1-7	GWE	peth gwaetha oedd *er* tua blwyddyn nôl	NST	NST
+338, 2	714, 8-14	GWE	pan oedd *Irene* yn hwfro yma mi	NST	NST
+338, 3	714, 15-22	GWE	ddoth yna leidr i_fewn i fy swyddfa i	---	NSNT
+
+
+339, 1	715, 1-1	DYF	naddo	---	NSNT
+
+
+340, 1	716, 1-7	ENA	ac oedd hi yn hwfro fan hyn	---	NSNT
+
+
+341, 1	717, 1-17	GWE	datblygio yr laptop rhoid o mewn *bag* a cymryd y laptop a yr y *leads* a phopeth	---	ST
+
+
+342, 1	718, 1-2	ENA	mynd allan	NSNT	NSNT
+342, 2	719, 1-5	ENA	ac o'n i yma hefyd	---	NSNT
+
+
+343, 1	720, 1-1	DYF	naddo	---	NSNT
+
+
+344, 1	722, 1-6	ENA	o'n i wedi cerdded i_mewn tra	NSNT	NSNT
+344, 2	723, 1-4	ENA	dw i yn *sure*	NST	NST
+344, 3	723, 5-6	ENA	bod ysti	---	NSNT
+
+
+345, 1	724, 1-12	GWE	*Irene* yn cloi y y y drysau wan pan mae yn hwfro	---	NST
+
+
+346, 1	725, 2-3	ENA	mae hi	---	NSNT
+
+
+347, 1	726, 1-4	GWE	mae ofn hwfro yr	NSNT	NSNT
+347, 2	726, 5-9	GWE	lle dw i yn meddwl	NSNT	NSNT
+347, 3	727, 1-2	GWE	*yeah* wir	NST	NST
+347, 4	728, 1-5	GWE	oddi_ar oddi_ar yn *nesk* i	NST	NST
+347, 5	729, 1-2	GWE	peth ydy	NSNT	NSNT
+347, 6	729, 3-4	GWE	dach chi	NSNT	NSNT
+347, 7	729, 5-10	GWE	wedi bod yn clirio neu *Irene*	NST	NST
+347, 8	729, 11-17	GWE	wedi bod yn clirio yn y bore	NSNT	NSNT
+347, 9	729, 18-18	GWE	doedd	NSNT	NSNT
+347, 10	731, 1-12	GWE	ac unrhyw beth ti yn gweld oedd yn flêr neu unrhyw beth	NSNT	NSNT
+347, 11	731, 13-14	GWE	oedd angen	NSNT	NSNT
+347, 12	732, 1-3	GWE	os oedd yna	NSNT	NSNT
+347, 13	732, 4-7	GWE	oedd hi mewn ryw	NSNT	NSNT
+347, 14	732, 8-15	GWE	os oedd hi mewn dau feddwl rhwng dau	NSNT	NSNT
+347, 15	732, 16-26	GWE	feddwl am luchio rywbeth o'n i *just* deud *skip* neu *bin*	NST	NST
+347, 16	732, 27-29	GWE	timod fel yna	NSNT	NSNT
+347, 17	737, 1-6	GWE	a ddes i fewn ar_ôl cinio	---	NSNT
+
+
+348, 1	738, 1-4	ENA	ac oedd dy laptop	---	SNT
+
+
+349, 1	739, 1-7	GWE	a dyma fi yn gofyn i *Irene*	ST	NST
+349, 2	740, 1-2	GWE	come on	SNT	NSNT
+349, 3	741, 1-4	GWE	lle mae yr laptop	SNT	SNT
+349, 4	743, 1-11	GWE	o'n i yn meddwl bod hi wedi fath â wneud *joke*	NST	NST
+349, 5	743, 13-19	GWE	a rhoid o yn y *skip* neu	---	NST
+
+
+350, 1	746, 1-2	ENA	y *safe*	---	NST
+
+
+351, 1	747, 1-4	GWE	*yeah* smalio felly timod	NST	NST
+351, 2	749, 1-3	GWE	wnaeth ddeud dim_byd	NSNT	NSNT
+351, 3	750, 1-7	GWE	*well* oedd y laptop yn fan yna	NST	ST
+351, 4	751, 1-7	GWE	baswn i byth yn wneud dim_byd felly	NSNT	NSNT
+351, 5	752, 1-2	GWE	meddai hi	NSNT	NSNT
+351, 6	753, 1-7	GWE	chwarae *joke* efo chi efo eich laptop	ST	ST
+351, 8	755, 1-3	GWE	fi yn deud	NSNT	NSNT
+351, 9	756, 1-3	GWE	mae wedi mynd	NSNT	NSNT
+351, 10	757, 1-4	GWE	mae o wedi diflannu	---	NSNT
+
+
+352, 1	758, 1-7	ENA	oedd o yn *horrible* o brofiad actually	ST	ST
+352, 2	759, 1-7	ENA	oedd hi wedi *er* fath o dychryn	---	NST
+
+
+353, 1	760, 1-4	GWE	wnaeth o ypsetio hi	---	NSNT
+
+
+354, 1	761, 1-4	ENA	wnaeth o ypsetio *Irene*	---	NST
+
+
+355, 1	762, 1-5	DYF	dan i wedi gofyn am	NSNT	NSNT
+355, 2	762, 6-9	DYF	glo ar y drws	NSNT	NSNT
+355, 3	763, 1-4	DYF	achos does yna ddim	NSNT	NSNT
+355, 4	763, 5-8	DYF	clo ar drws ni	---	NSNT
+
+
+356, 1	764, 1-6	ENA	does yna ddim_byd *er* *flat* yna	NST	NST
+356, 2	764, 7-8	ENA	nag oes	NSNT	NSNT
+356, 3	765, 1-2	ENA	nag oes	---	NSNT
+
+
+357, 1	766, 1-2	GWE	nag oes	NSNT	NSNT
+357, 2	769, 1-8	GWE	*oh* dan ni yn gwybod lle i fynd	NST	NST
+357, 3	769, 9-16	GWE	os fyddan ni yn *stuck* am lefrith wan	---	NST
+
+
+358, 1	771, 1-8	DYF	*well* dim ond drws *front* sy yn cloi	NST	NST
+358, 2	771, 9-10	DYF	de *so*	---	NST
+
+
+359, 1	772, 1-9	GWE	a mae bobl yn gallu gadael hwnna ar agor	---	NSNT
+
+
+360, 1	773, 1-7	ENA	mae bobl yn gadael hwnna ar agor	NSNT	NSNT
+360, 2	775, 1-3	ENA	mae nhw yn	---	NSNT
+
+
+361, 1	776, 1-2	GWE	*well* enwedig	NST	NST
+361, 2	777, 1-5	GWE	*well* pob parch i chi	---	NST
+
+
+362, 1	778, 1-4	ENA	*well* efo yr adeiladwyr	---	NST
+
+
+363, 1	779, 1-2	GWE	achos timod	NSNT	NSNT
+363, 2	779, 3-3	GWE	mae	NSNT	NSNT
+363, 3	779, 4-9	GWE	gynnon ni ymwelwyr yn dod yn_does	---	NSNT
+
+
+364, 1	782, 1-3	ENA	efo yr adeiladwyr	---	NSNT
+
+
+365, 1	783, 1-15	GWE	a dydy pob hen wraig neu hen ŵr ddim yn gallu cau o yn iawn	---	NSNT
+
+
+366, 1	784, 1-16	ENA	dyn nhw ddim yn gallu agor o yn y gwaelod yna chwaith yn iawn ond *er*	NST	NST
+366, 2	785, 1-4	ENA	ti yn iawn ynteu	---	NSNT
+
+
+367, 1	787, 1-10	GWE	ond oedden nhw roi ffenestri newydd yma ar y pryd	---	NSNT
+
+
+368, 1	788, 1-10	ENA	ond efo adeiladwyr i_mewn am wythnos ym mis Ionawr timod	NSNT	NSNT
+368, 2	788, 11-17	ENA	mae yr lle mynd i fod yn	NSNT	NSNT
+368, 3	788, 18-19	ENA	agored *lot*	NST	NST
+368, 4	788, 20-20	ENA	dydy	NSNT	NSNT
+368, 5	788, 21-27	ENA	baswn i yn feddwl deud y gwir	NSNT	NSNT
+368, 7	790, 1-1	ENA	dyna	NSNT	NSNT
+368, 8	790, 2-4	ENA	ydy natur adeiladwyr	NSNT	NSNT
+368, 9	793, 1-10	ENA	dyn nhw ddim yn cau drysau ar eu olau nac	NSNT	NSNT
+368, 10	793, 11-11	ENA	ydyn	---	NSNT
+
+
+369, 1	796, 1-7	DYF	mae gen i *fikes* lawr yna hefyd	NST	NST
+369, 2	796, 8-8	DYF	does	NSNT	NSNT
+369, 3	798, 1-2	DYF	raid cloi	NSNT	NSNT
+369, 4	799, 1-2	DYF	ond timod	NSNT	NSNT
+369, 5	799, 3-13	DYF	gawn ni ddim yr y clo yma tan canol blwyddyn nesa	NSNT	NSNT
+369, 6	799, 14-16	DYF	mae yn debyg	NSNT	NSNT
+369, 7	800, 1-9	DYF	dw i wedi gofyn amdano fo ers fisoedd wan	---	NSNT
+
+
+370, 1	802, 1-1	GWE	basai	NSNT	NSNT
+370, 2	802, 2-12	GWE	werth chi ofyn cyn y *er* cyn i yr adeiladwyr cyrraedd	---	NST
+
+
+371, 1	803, 1-2	ENA	cyn bysai	NSNT	NSNT
+371, 2	804, 1-5	ENA	deud bod chi yn gwybod	NSNT	NSNT
+371, 3	805, 1-2	ENA	bysai mi	NSNT	NSNT
+371, 4	805, 3-5	ENA	fysai fo deud	NSNT	NSNT
+371, 5	805, 6-12	ENA	bod chi isio fo cyn hynny achos	---	NSNT
+
+
+372, 1	807, 1-10	GWE	because dw i wedi deud wrtho fo am y laptop	---	SNT
+
+
+373, 1	809, 1-2	ENA	mae hynny	---	NSNT
+
+
+374, 1	810, 1-4	GWE	*oh* ddaru ni orfod	---	NST
+
+
+375, 1	811, 1-9	DYF	pa ffordd ddoth o fewn trwy yr drws yna	---	NSNT
+
+
+376, 1	812, 1-4	ENA	oedd drws *Gwenith* yn	NST	NST
+376, 2	812, 5-7	ENA	agored hefyd yn_doedd	NSNT	NSNT
+376, 3	814, 1-3	ENA	achos bod chi	NSNT	NSNT
+376, 4	815, 1-8	ENA	ond anaml iawn mae yr ddau ddrws yn	NSNT	NSNT
+376, 5	815, 9-9	ENA	agored	NSNT	NSNT
+376, 6	817, 1-5	ENA	ond oedd o yn digwydd	NSNT	NSNT
+376, 7	817, 6-10	ENA	bod y diwrnod hwnnw yn_doedd	NSNT	NSNT
+376, 8	819, 1-4	ENA	ond oedd yr adeiladwyr	NSNT	NSNT
+376, 9	819, 5-8	ENA	wedi bod pryd hynny	NSNT	NSNT
+376, 10	820, 1-4	ENA	oedd y ffenestri yma	NSNT	NSNT
+376, 11	820, 5-6	ENA	wedi bod	NSNT	NSNT
+376, 12	822, 1-1	ENA	dyna	NSNT	NSNT
+376, 13	826, 1-4	ENA	dan ni yn amheus	NSNT	NSNT
+376, 14	826, 5-7	ENA	bod yna *link*	NST	NST
+376, 15	826, 8-10	ENA	de bod nhw	NSNT	NSNT
+376, 16	826, 11-12	ENA	wedi bod	NSNT	NSNT
+376, 17	826, 13-18	ENA	yn bod nhw wedi cael *chance*	---	NST
+
+
+377, 1	827, 1-5	GWE	wnaethon nhw ddal y *person*	---	NST
+
+
+378, 1	828, 1-5	ENA	wnaethon nhw ddal y *person*	---	NST
+
+
+379, 1	830, 2-5	GWE	dw i yn meddwl	NSNT	NSNT
+379, 2	831, 1-6	GWE	achos wnaeth yr heddlu ffonio fi	NSNT	NSNT
+379, 3	832, 1-2	GWE	ti cofio	NSNT	NSNT
+379, 4	833, 1-9	GWE	yn deud *um* bod nhw wedi ffeindio yr *person*	NST	NST
+379, 5	834, 1-10	GWE	a wnaethon ni ddim clywed dim_byd mwy am y peth	NSNT	NSNT
+379, 6	835, 1-10	GWE	ond ti *just* yn meddwl bod o bach yn *odd*	NST	NST
+379, 7	835, 12-20	GWE	bod rywun *just* digwydd wedi cerdded i_mewn a gwybod	NST	NST
+379, 8	835, 21-26	GWE	bod yna laptop ar y *ddesk*	---	ST
+
+
+380, 1	838, 1-2	DYF	yn barod	---	NSNT
+
+
+381, 1	839, 1-3	ENA	*hello* Cymorth_Cristnogol Christian_Aid	---	ST
+
+
+382, 1	840, 1-12	GWE	*yeah* os nag oedd yna rywun wedi dod yma i wneud gwaith	NST	NST
+382, 2	840, 14-23	GWE	bod i_fewn *er* unwaith i wneud gwaith ymchwil neu rhywbeth	---	NST
+
+
+383, 1	841, 1-4	ENA	*hello* sut wyt ti	NST	NST
+383, 2	842, 1-2	ENA	nac ydw	NSNT	NSNT
+383, 3	843, 1-2	ENA	nac ydw	NSNT	NSNT
+383, 4	843, 3-4	ENA	dan ni	NSNT	NSNT
+383, 5	846, 1-8	ENA	*alright* *o_k* a i a i draw nhw	---	NST
+
+
+384, 1	847, 1-4	DYF	does dim_byd yn saff	---	NSNT
+
+
+385, 1	848, 1-2	GWE	*yeah* basai	NST	NST
+385, 2	848, 3-7	GWE	werth *er* i chi ofyn	NST	NST
+385, 3	848, 8-10	GWE	dw i meddwl	---	NSNT
+
+
+386, 1	849, 1-5	ENA	mae hi wedi cael nhw	NSNT	NSNT
+386, 2	850, 1-4	ENA	*o_k* *well* wna i	NST	NST
+386, 3	850, 5-9	ENA	wna i fynd draw toc	NSNT	NSNT
+386, 4	850, 10-10	ENA	ta	---	NSNT
+
+
+387, 1	852, 1-12	DYF	felly ga i ddod i dy ddwyn di pnawn dydd Iau ta	---	NSNT
+
+
+388, 1	853, 1-3	ENA	diolch i ti	NSNT	NSNT
+388, 2	855, 1-3	ENA	diolch i chdi	SNT	NSNT
+388, 3	856, 1-2	ENA	*ta_ra* *ta_ra*	---	NST
+
+
+389, 1	859, 1-15	DYF	a wedyn os wyt ti yn gweld unrhyw beth *special* ti isio i gwcio tra	NST	NST
+389, 2	859, 16-20	DYF	dan ni lawr yna *well*	---	NST
+
+
+390, 1	861, 1-11	GWE	o lle ti yn cael yr arian i wneud hynny ta	NSNT	NSNT
+390, 2	862, 1-4	GWE	wyt ti wedi cael	---	NSNT
+
+
+391, 1	863, 1-3	DYF	mae *Ed* *well*	NST	NST
+391, 2	863, 4-7	DYF	mae *Ed* wedi deud	NST	NST
+391, 3	863, 8-17	DYF	wneith y Gaplaniaeth dalu am y bwyd i_gyd chwarae teg	NSNT	NSNT
+391, 4	865, 1-2	DYF	achos mae	NSNT	NSNT
+391, 5	865, 3-8	DYF	mae fel *party* Dolig iddyn nhw	---	NST
+
+
+392, 1	867, 1-3	ENA	gosh *yeah* wir	NST	ST
+392, 2	868, 1-2	ENA	*oh* da	---	NST
+
+
+393, 1	869, 1-5	GWE	chwarae teg iddo fo de	---	NSNT
+
+
+394, 1	870, 1-2	DYF	caredig iawn	---	NSNT
+
+
+395, 1	871, 1-2	ENA	mae o	---	NSNT
+
+
+396, 1	872, 1-2	GWE	mae o	NSNT	NSNT
+396, 2	873, 1-2	GWE	da iawn	---	NSNT
+
+
+397, 1	874, 1-11	ENA	*well* ddo i â *box* o win *Masnach_Deg* efo fi hefyd	NST	NST
+397, 3	877, 1-4	ENA	achos dydy ychydig o	NSNT	NSNT
+397, 4	877, 5-15	ENA	boteli o gwrw ddim yn mynd i fynd yn bell iawn	---	NSNT
+
+
+398, 1	879, 1-3	GWE	*well* tydy ugain	---	NST
+
+
+399, 1	880, 1-8	ENA	ddim os ydy ffrindiau fi gyd yn dod	---	NSNT
+
+
+400, 1	881, 1-16	GWE	*yeah* a tydy ugain mewn *party* Dolig ella ddim yn *quite* yn ddigonol i yr achlysur	---	NST
+
+
+401, 1	882, 1-2	ENA	nac ydy	NSNT	NSNT
+401, 2	882, 3-8	ENA	na ddown ni â *couple* o	---	NST
+
+
+402, 1	883, 1-5	DYF	ffansïo ychydig o gerddoriaeth fyw	NSNT	NSNT
+402, 2	884, 1-14	DYF	dw i mynd i trio gael ychydig o yr *band* i droi fyny *so*	---	NST
+
+
+403, 1	885, 1-2	ENA	*oh* da	---	NST
+
+
+404, 1	886, 1-8	DYF	dan ni ddim yn gallu wneud y c_d	SNT	SNT
+404, 2	886, 9-13	DYF	ond timod gallu chwarae o	---	NSNT
+
+
+405, 1	887, 1-5	GWE	da fydd o yn hwyl	---	NSNT
+
+
+406, 1	888, 1-1	ENA	bydd	NSNT	NSNT
+406, 2	888, 2-2	ENA	bydd	---	NSNT
+
+
+407, 1	890, 1-6	GWE	a cer ar_ôl y *Pesda_Roc* wan	---	NST
+
+
+408, 1	893, 1-11	DYF	wna i ffonio *Bertie* wan a gweld faint o guest *list*	ST	ST
+408, 3	895, 1-3	DYF	achos dw i	NSNT	NSNT
+408, 4	895, 4-12	DYF	wedi bod yn dda iawn yn ddiweddar efo fo	NSNT	NSNT
+408, 5	896, 1-7	DYF	dw i ddim wedi hassle_o fo o_gwbl	NSNT	SNT
+408, 6	897, 1-3	DYF	a mae nhw	NSNT	NSNT
+408, 7	897, 4-15	DYF	mae hi yn tsiarjio ryw rywbeth fel wyth gant wyth gant punt	NSNT	NSNT
+408, 8	897, 16-17	DYF	dw meddwl	---	NSNT
+
+
+409, 1	898, 1-1	GWE	*Cerys*	---	NST
+
+
+410, 1	900, 1-4	DYF	i i hi hun	NSNT	NSNT
+410, 2	901, 1-18	DYF	a wedyn mae nhw yn gorod gwario deuddeg cant ar fflio ryw gitarydd drosor o drosodd o *America*	NST	ST
+410, 3	902, 1-6	DYF	a dw ddim yn dallt hynny	---	NSNT
+
+
+411, 1	903, 1-1	ENA	nefoedd	---	NSNT
+
+
+412, 1	905, 1-2	DYF	oedd hynna	---	NSNT
+
+
+413, 1	906, 1-4	GWE	gawn ni weld tybed	NSNT	NSNT
+413, 2	906, 6-8	GWE	sut oedd y	---	NSNT
+
+
+414, 1	907, 1-6	ENA	yn lle ym *Bethesda* mae o	NST	NST
+414, 2	907, 7-14	ENA	ta i fi gael dangos y nhwpdra llwyr	---	NSNT
+
+
+415, 1	908, 1-2	GWE	*club* *rugby*	---	NST
+
+
+416, 1	909, 1-8	DYF	yn y *clwb* *rugby* efo yr *tinsel* i_gyd	---	NST
+
+
+417, 1	911, 1-2	ENA	da de	NSNT	NSNT
+417, 2	912, 1-1	ENA	Duw	---	NSNT
+
+
+418, 1	913, 1-12	DYF	yna gynno dal *tinsel* aur ac arian o_gwmpas llwyfan o yr hen	---	NST
+
+
+419, 1	914, 2-4	GWE	ydy yr *um*	NST	NST
+419, 2	914, 5-15	GWE	timod y deunydd yn dod lawr o yr to yna hefyd	NSNT	NSNT
+419, 3	916, 1-16	GWE	ar hyn o bryd timod yr strips arian a ballu fath â ryw *bingo* hall ers_talwm	---	ST
+
+
+420, 1	918, 1-4	DYF	mae hwnna dal yna	NSNT	NSNT
+420, 2	918, 5-6	DYF	dw meddwl	---	NSNT
+
+
+421, 1	920, 1-7	GWE	wnaeth *Dewi* cael rhyw *barty* pen_blwydd yna	NST	NST
+421, 2	921, 1-6	GWE	neu mynd i ryw *barty* pen_blwydd	---	NST
+
+
+422, 1	922, 1-2	ENA	do wir	---	NSNT
+
+
+423, 1	923, 2-9	GWE	oedd yna *lot* o *barties* yn digwydd yna	NST	NST
+423, 2	924, 1-5	GWE	dw ddim yn amau dim	NSNT	NSNT
+423, 3	924, 6-16	GWE	bod fi wedi mynd yna ryw dro cynnal *party* iddo fo	---	NST
+
+
+424, 1	925, 1-4	DYF	faint ydy yr tocynnau	NSNT	NSNT
+424, 2	926, 1-4	DYF	dach chi yn gwybod	---	NSNT
+
+
+425, 1	927, 1-4	GWE	*oh* mae nhw resymol	NST	NST
+425, 2	929, 1-2	GWE	*well* na	NST	NST
+425, 3	930, 1-4	GWE	dw ddim yn gwybod	---	NSNT
+
+
+426, 1	931, 1-5	ENA	dw i ddim yn gwybod	NSNT	NSNT
+426, 3	933, 1-3	ENA	gofyn i mi	---	NSNT
+
+
+427, 1	934, 1-8	GWE	*yeah* oedd y pris yn y papur cynt	NST	NST
+427, 2	934, 9-9	GWE	ta	NSNT	NSNT
+427, 3	935, 1-4	GWE	dw ddim yn cofio	---	NSNT
+
+
+428, 1	936, 1-5	ENA	does yna ddim_byd yn hwn	NSNT	NSNT
+428, 2	936, 6-7	ENA	nag oes	---	NSNT
+
+
+429, 1	937, 1-1	GWE	ella	---	NSNT
+
+
+430, 1	938, 1-11	DYF	*well* dw i yn gwybod fi rei yn cael dwy fil	NST	NST
+430, 2	938, 12-17	DYF	dw i yn cael cant pum_deg	---	NSNT
+
+
+431, 1	941, 1-6	GWE	mae yn *scoop* iddyn nhw yn_dydy	NST	NST
+431, 2	942, 1-6	GWE	*oh* wnaeth hi wneud *Pesda_Roc* o_blaen	NST	NST
+431, 3	943, 1-2	GWE	mae *sure*	NST	NST
+431, 4	943, 3-10	GWE	bod nhw wedi wneud elw allan o hynny	NSNT	NSNT
+431, 5	944, 1-5	GWE	ond mae *Alice* yn gadael	NST	NST
+431, 6	945, 1-6	GWE	mae hi yn mynd i *Mantell_Gwynedd*	NST	NST
+431, 7	948, 1-10	GWE	felly mae yr swydd yna mynd i fynd yn wag	---	NSNT
+
+
+432, 1	949, 1-8	ENA	mae *lot* o bobl yn gweithio i *Mantell_Gwynedd*	NST	NST
+432, 2	949, 9-9	ENA	does	---	NSNT
+
+
+433, 1	950, 2-6	GWE	wnes i ofyn wrthi ddoe	NSNT	NSNT
+433, 2	950, 7-10	GWE	be oedd y swydd	NSNT	NSNT
+433, 3	950, 11-15	GWE	oedd hi mynd i wneud	NSNT	NSNT
+433, 4	951, 1-7	GWE	achos o'n i wedi anghofio gofyn wrthi	---	NSNT
+
+
+434, 1	952, 1-16	ENA	wnes i siarad efo yr bachgen yna sydd yn cynnig am swydd masnach deg heddiw hefyd	---	NSNT
+
+
+435, 1	953, 1-4	GWE	fo oedd o *yeah*	---	NST
+
+
+436, 1	954, 1-2	ENA	swniodd *yeah*	NST	NST
+436, 2	954, 3-8	ENA	mae yn swnio yn digon clên	NSNT	NSNT
+436, 3	955, 1-9	ENA	mae Gymraeg o yn eitha da hefyd chwarae teg	NSNT	NSNT
+436, 4	956, 1-7	ENA	mae yn anodd ar y *phone* wastad	NST	NST
+436, 5	956, 8-13	ENA	dydy siarad Cymraeg os ti yn	---	NSNT
+
+
+437, 1	957, 1-5	GWE	ydy os ti yn dysgu	NSNT	NSNT
+437, 2	958, 1-6	GWE	*oh* mae hwn yn llawn hysbysebion	---	NST
+
+
+438, 1	959, 1-4	DYF	un heddiw ydy hwnna	---	NSNT
+
+
+439, 1	960, 1-3	ENA	na mae o	---	NSNT
+
+
+440, 1	961, 1-1	GWE	*Cerys*	---	NST
+
+
+441, 1	962, 1-4	ENA	*Cerys* bach cyn *Bethesda*	---	NST
+
+
+442, 1	963, 1-3	DYF	local girl *Lisa_Jên*	---	NST
+
+
+443, 1	964, 1-1	ENA	*Lisa_Jên_Brown*	---	NST
+
+
+444, 1	966, 1-5	DYF	o'n i ddim yn dallt	---	NSNT
+
+
+445, 1	967, 1-11	ENA	wnaeth hi ddod i wneud gweithdai yn noddfa *couple* o weithiau	---	NST
+
+
+446, 1	969, 1-9	DYF	o'n i ddim yn dallt mai *Gerlan* oedd hi	---	NST
+
+
+447, 1	970, 1-2	ENA	pwy *Lisa_Jên*	NST	NST
+447, 2	972, 1-5	ENA	mae *Mham* hi efo *Bara_Caws*	NST	NST
+447, 3	972, 6-6	ENA	tydy	SNT	NSNT
+447, 4	973, 1-1	ENA	*Linda*	NST	NST
+447, 5	975, 1-1	ENA	*Linda_Brown*	---	NST
+
+
+448, 1	976, 1-2	GWE	chwaer *Jenny*	ST	NST
+448, 2	977, 1-10	GWE	*Alice_Andrews* said that it would be a night to remember	ST	NST
+448, 4	979, 1-3	GWE	mae yn deud	NSNT	NSNT
+448, 5	979, 4-6	GWE	bod tocynnau ar	NSNT	NSNT
+448, 6	979, 7-7	GWE	werth	NSNT	NSNT
+448, 7	980, 1-2	GWE	ond timod	NSNT	NSNT
+448, 8	980, 3-7	GWE	dydy o ddim yn deud	NSNT	NSNT
+448, 9	980, 8-11	GWE	be ydy yr pris	---	NSNT
+
+
+449, 1	981, 1-6	ENA	dydy o ddim yn deud faint	---	NSNT
+
+
+450, 1	982, 1-6	GWE	a dydy o ddim yn deud	NSNT	NSNT
+450, 2	982, 7-12	GWE	bod nhw i_gyd wedi mynd chwaith	---	NSNT
+
+
+451, 1	984, 1-6	ENA	be dach chi yn wneud Dolig	NSNT	NSNT
+451, 2	985, 1-6	ENA	oes gen ti rywbeth ymlaen Dolig	NSNT	NSNT
+451, 3	986, 1-2	ENA	*Dewi* adre	---	NST
+
+
+452, 1	987, 1-5	GWE	dw ddim yn gwybod *um*	NST	NST
+452, 2	987, 6-15	GWE	be dan ni mynd i wneud i ddeud y gwir	NSNT	NSNT
+452, 3	988, 1-5	GWE	be ti mynd i wneud	---	NSNT
+
+
+453, 1	989, 1-5	ENA	dw i ddim yn gwybod	NSNT	NSNT
+453, 2	990, 1-4	ENA	fydda i yn *Bryntirion*	NST	NST
+453, 3	990, 5-7	ENA	mae yn debyg	NSNT	NSNT
+453, 4	991, 1-4	ENA	dw ddim yn gwybod	---	NSNT
+
+
+454, 1	992, 1-3	DYF	*hello* ti iawn	---	NST
+
+
+455, 1	993, 1-6	ENA	rywun wneud cinio Dolig i *Dad*	---	NST
+
+
+456, 1	994, 1-3	DYF	*yeah* not bad	---	NST
+
+
+457, 1	995, 1-5	ENA	mae o wedi cael gŵydd	---	NSNT
+
+
+458, 1	996, 1-6	DYF	*um* o'n i *just* isio gwybod	---	NST
+
+
+459, 1	997, 1-5	GWE	ydy rei o yr *er*	---	NST
+
+
+460, 1	998, 1-8	DYF	achos dw i ddim wedi siarad efo *Bertie*	---	NST
+
+
+461, 1	1000, 1-3	ENA	dw i meddwl	NSNT	NSNT
+461, 2	1000, 4-8	ENA	bod *James* yn dod fyny	---	NST
+
+
+462, 1	1001, 1-12	DYF	ydw i yn cael guest *list* ar_gyfer y *gig* *um* *Cerys_Matthews* yma	---	ST
+
+
+463, 1	1002, 1-8	ENA	blwyddyn newydd yma mae *James* yn dod fyny	NST	NST
+463, 2	1003, 1-10	ENA	mae *Kate* wedi cael tocynnau i fynd allan i *Venice*	NST	NST
+463, 3	1004, 1-11	ENA	mae nhw mynd allan i *Venice* rhwng Dolig a flwyddyn newydd	---	NST
+
+
+464, 1	1005, 1-5	DYF	dw i yn cael dau	---	NSNT
+
+
+465, 1	1006, 1-7	GWE	*oh* *yeah* oeddet ti yn deud *yeah*	ST	NST
+465, 2	1007, 1-1	GWE	*great*	---	NST
+
+
+466, 1	1008, 1-6	ENA	*so* dw i ddim yn meddwl	NST	NST
+466, 2	1008, 7-9	ENA	fydd hi fyny	---	NSNT
+
+
+467, 1	1009, 1-2	DYF	*cool* *o_k*	---	NST
+
+
+468, 1	1010, 1-10	ENA	mae *Lyn* yn gweithio nos noswyl Dolig a nos Nadolig	NST	NST
+468, 2	1010, 11-12	ENA	dw meddwl	SNT	NSNT
+468, 3	1012, 1-1	ENA	*so*	---	NST
+
+
+469, 1	1013, 1-2	DYF	*o_k* *cool*	---	NST
+
+
+470, 1	1014, 1-8	ENA	gawn ni Dolig bach tawel o_flaen y tân	---	NSNT
+
+
+471, 1	1015, 1-2	DYF	*o_k* brill	ST	NST
+471, 2	1016, 1-2	DYF	ti be	---	NSNT
+
+
+472, 1	1017, 1-8	GWE	ti cofio *Dawn_Davies* yn gweithio efo yr *Urdd*	---	NST
+
+
+473, 1	1018, 1-5	DYF	ti ddim yn cael un	---	NSNT
+
+
+474, 1	1019, 1-1	ENA	yndw	---	NSNT
+
+
+475, 1	1021, 1-2	GWE	a *Ken*	---	NST
+
+
+476, 1	1022, 1-4	ENA	*oh* ydy wedi priodi	---	NST
+
+
+477, 1	1024, 1-2	DYF	*ah* *well*	ST	NST
+477, 3	1026, 1-2	DYF	*alright* cyw	ST	NST
+477, 4	1027, 1-2	DYF	*ta_ra* *ta_ra*	---	NST
+
+
+478, 1	1028, 1-3	ENA	*oh* da iawn	---	NST
+
+
+479, 1	1030, 1-4	GWE	gweithio efo Ynys Môn	---	NSNT
+
+
+480, 1	1031, 1-14	ENA	wnes i gyfarfod hi efo yr peth masnach efo yr *um* neges ewyllys da	ST	NST
+480, 2	1032, 1-1	ENA	*Dawn*	---	NST
+
+
+481, 1	1033, 1-7	GWE	*oh* *yeah* *yeah* hi oedd efo *Aelwyd_yr_Ynys*	---	NST
+
+
+482, 1	1036, 1-5	DYF	dw i yn cael dau	---	NSNT
+
+
+483, 1	1037, 1-1	GWE	dau	---	NSNT
+
+
+484, 1	1038, 1-6	DYF	fydd raid chi fight_io amdano fo	---	SNT
+
+
+485, 1	1039, 1-7	GWE	mae o mynd i fod yn *strict*	NST	NST
+485, 2	1040, 1-3	GWE	gei di weld	---	NSNT
+
+
+486, 1	1041, 1-3	ENA	*well* *well* *well*	ST	NST
+486, 2	1042, 1-7	ENA	wnawn ni ffeindio ffordd o ddatrys hynny	NSNT	NSNT
+486, 3	1044, 1-3	ENA	fi sy fi	NSNT	NSNT
+486, 4	1044, 4-8	ENA	ydy yr gwerthwr gorau *so*	---	NST
+
+
+487, 1	1046, 1-5	GWE	ia chdi yn bendant *yeah*	NST	NST
+487, 2	1047, 1-3	GWE	*Dickie* *Dickie_Dixon* de	NST	NST
+487, 3	1047, 4-20	GWE	oedd o wastad yn cerdded mewn i yr *Eisteddfod* yn y bore hefo morthwyl a *bag* o	NST	NST
+487, 4	1047, 21-24	GWE	hoelion neu *just* morthwyl	NST	NST
+487, 5	1048, 1-9	GWE	oedd neb yn gofyn wrtho fo am docyn achos	NSNT	NSNT
+487, 6	1048, 10-15	GWE	oedd o *just* cerdded syth i_mewn	NST	NST
+487, 7	1049, 1-8	GWE	oedden nhw meddwl mai un o yr gweithwyr	NSNT	NSNT
+487, 8	1049, 9-10	GWE	oedd o	---	NSNT
+
+
+488, 1	1051, 1-6	ENA	ti yn gael dy arrest_io fel	---	SNT
+
+
+489, 1	1052, 1-2	DYF	chwarae teg	---	NSNT
+
+
+490, 1	1053, 1-8	GWE	felly os wisgi di un o yr *um*	---	NST
+
+
+491, 1	1054, 1-4	ENA	*boiler* *suit* oren *yeah*	---	NST
+
+
+492, 1	1056, 1-4	GWE	*well* *oh* na timod	NST	NST
+492, 2	1056, 5-5	GWE	mae	NSNT	NSNT
+492, 3	1056, 6-12	GWE	gynnon ni siacedi gwasgodi melyn yn_does flourescent	SNT	SNT
+492, 4	1058, 1-6	GWE	*so* fydd rheina yn siwtio chdi	---	NST
+
+
+493, 1	1060, 1-9	ENA	alla i fod yn un o yr stiwardiaid wedyn	NSNT	NSNT
+493, 3	1062, 1-10	ENA	mae mind the *gap* neu rywbeth wedi sgwennu arnyn nhw	---	ST
+
+
+494, 1	1065, 1-4	GWE	baset ti yn gallu	NSNT	NSNT
+494, 2	1065, 6-12	GWE	*just* edrych ar y *pipes* a *stuff*	---	NST
+
+
+495, 1	1068, 1-5	ENA	wnes i wisgo hwnna llynedd	NSNT	NSNT
+495, 2	1069, 1-5	ENA	gei di wisgo fo leni	---	NSNT
+
+
+496, 1	1071, 1-5	DYF	na mi fydd *right* anodd	NST	NST
+496, 2	1071, 6-7	DYF	dw meddwl	NSNT	NSNT
+496, 3	1072, 1-6	DYF	ond alla i ofyn am fwy	NSNT	NSNT
+496, 4	1073, 1-6	DYF	*just* cariad yr *boy* hwnna *so*	---	NST
+
+
+497, 1	1075, 1-4	GWE	*well* os wyt ti	NST	NST
+497, 2	1076, 3-6	GWE	os oes yna gyfle	NSNT	NSNT
+497, 3	1076, 7-11	GWE	dan ni yn barod i	---	NSNT
+
+
+498, 1	1077, 1-7	ENA	*yeah* dan ni yn barod i wneud	---	NST
+
+
+499, 1	1078, 1-5	GWE	wnawn ni wneud i chdi	NSNT	NSNT
+499, 3	1080, 1-7	GWE	dim_byd o_gwbl bod ni isio mynd allan	---	NSNT
+
+
+500, 1	1082, 1-3	ENA	sortiwn ni rywbeth	NSNT	NSNT
+500, 2	1083, 1-4	ENA	does yna ddim *problem*	---	NST
+
+
+501, 1	1086, 1-3	GWE	dw i meddwl	NSNT	NSNT
+501, 2	1086, 4-15	GWE	fyddan nhw yn gaeth iawn oherwydd *just* y rheolau tân a gwybod	NST	NST
+501, 3	1086, 16-21	GWE	bod gymaint o bobl isio mynd	---	NSNT
+
+
+502, 1	1087, 1-6	ENA	*well* mae raid iddyn nhw fod	NST	NST
+502, 2	1088, 1-2	ENA	yn union	NSNT	NSNT
+502, 3	1089, 1-4	ENA	dyn nhw ddim yn	---	NSNT
+
+
+503, 1	1091, 2-7	GWE	dyn nhw ddim yn mynd i	NSNT	NSNT
+503, 2	1091, 8-16	GWE	dyn nhw ddim yn mynd i allu gadael pobl	---	NSNT
+
+
+504, 1	1093, 1-7	ENA	*well* fedran nhw ddim cymryd y *risk*	NST	NST
+504, 2	1093, 8-9	ENA	na fedran	NSNT	NSNT
+504, 3	1093, 10-14	ENA	timod os rywbeth yn *er*	---	NST
+
+
+505, 1	1096, 1-18	GWE	achos gei di weld fydd yna lwyth o bobl *just* yn troi fyny yn trio mynd i_fewn hefyd	---	NST
+
+
+506, 1	1097, 1-2	ENA	bydd achos	NSNT	NSNT
+506, 2	1097, 3-13	ENA	fydd y bobl sydd yn wastad yn mynd i *Besda_Roc* hefyd	NST	NST
+506, 3	1098, 1-12	ENA	mae yna *lot* ohonyn nhw wedi methu cael tocynnau hefyd mewn ffordd	NST	NST
+506, 4	1100, 1-8	ENA	*so* dydy o ddim really yn deg i	---	ST
+
+
+507, 1	1101, 1-6	GWE	a rhag ofn bysai rhywun yn	NSNT	NSNT
+507, 2	1101, 7-12	GWE	timod yn gwerthu tocyn tu allan	---	NSNT
+
+
+508, 1	1102, 2-5	ENA	tydy o ddim yn	---	NSNT
+
+
+509, 1	1103, 1-4	DYF	ti byth yn gwybod	---	NSNT
+
+
+510, 1	1104, 1-4	GWE	ar y farchnad ddu	---	NSNT
+
+
+511, 1	1105, 1-5	DYF	oedden nhw yn costio *fortune*	---	NST
+
+
+512, 1	1106, 1-4	GWE	dyna yr farchnad ddu	---	NSNT
+
+
+513, 1	1107, 1-1	ENA	byddan	---	NSNT
+
+
+514, 1	1109, 1-6	DYF	*o_k* *so* ddo i weld chi	---	NST
+
+
+515, 1	1110, 1-3	GWE	*yeah* rho wybod	NST	NST
+515, 2	1112, 1-5	GWE	*yeah* tyrd yma dydd Iau	---	NST
+
+
+516, 1	1116, 1-9	DYF	bydda i fewn ella dydd Llun neu dydd Mawrth	---	NSNT
+
+
+517, 1	1118, 1-5	ENA	*o_k* *well* fydda i yma	---	NST

@@ -1,0 +1,1123 @@
+
+
+1, 1	1, 1-7	HOW	dangos nhw *er* yn y *cinema* i	---	NST
+
+
+2, 1	2, 1-12	HEF	*well* os os ti yn wneud fersiwn wedi drosleisio yna mae gen	NST	NST
+2, 3	4, 1-7	HEF	na dw ddim yn *sure* am hynny	NST	NST
+2, 4	4, 8-11	HEF	â deud y gwir	NSNT	NSNT
+2, 5	5, 1-12	HEF	os os oes gen ti yr fersiwn wedi ysgrifennu ar_gyfer y trosleisio	NSNT	NSNT
+2, 6	5, 14-19	HEF	oes gen ti fersiwn ysgrifenedig wedyn	NSNT	NSNT
+2, 7	6, 1-4	HEF	dw i ddim yn	NSNT	NSNT
+2, 8	8, 1-4	HEF	achos dw i yn	NSNT	NSNT
+2, 9	8, 5-7	HEF	dw i yn	NSNT	NSNT
+2, 10	8, 8-12	HEF	dw i yn eitha *sure*	NST	NST
+2, 11	8, 13-16	HEF	bod *um* *er* *er*	NST	NST
+2, 12	8, 17-23	HEF	bod *Crouching* *er* *Tiger_Hidden_Dragon* neu be bynnag	NST	NST
+2, 13	8, 24-26	HEF	ydy o *um*	NST	NST
+2, 14	8, 27-35	HEF	yn bod fi wedi gweld o gynta efo isdeitlau	NSNT	NSNT
+2, 15	11, 1-10	HEF	*um* a bod y fersiwn *um* dub_io bod y bod	NST	ST
+2, 16	11, 11-15	HEF	bod y Saesneg yn wahanol	NSNT	NSNT
+2, 17	11, 16-27	HEF	timod i yr rhwng yr ysgrifen a yr a yr siarad oherwydd	NSNT	NSNT
+2, 18	11, 28-31	HEF	bod efo yr trosleisio	---	NSNT
+
+
+3, 1	13, 1-2	HOW	dyna wneud	NSNT	NSNT
+3, 2	14, 2-7	HOW	oeddwn i yn o'n i mi	NSNT	NSNT
+3, 3	14, 8-15	HOW	oedd *er* ffrind i fi wedi *um* mi	NST	NST
+3, 4	14, 16-25	HOW	oedd o wedi trio cael joban efo cwmni isdeitlo almaeneg	NSNT	NSNT
+3, 5	15, 1-8	HOW	doedd o ddim wedi cael y joban felly	NSNT	NSNT
+3, 6	16, 1-9	HOW	bod ni yn trafod y peth drost *er* tra	NST	NST
+3, 7	16, 10-13	HOW	oedden ni yno felly	NSNT	NSNT
+3, 8	17, 1-16	HOW	*um* dyna o'n i peth o'n i un o pethau o'n i wedi sôn amdano fo	NST	NST
+3, 9	17, 17-19	HOW	oedd adeg *um*	NST	NST
+3, 11	18, 1-5	HOW	ac oedd hynny *right* drawiadol	NST	NST
+3, 12	20, 1-10	HOW	fel bod nhw yn gallu deud rywbeth ar yr wyneb	NSNT	NSNT
+3, 13	20, 11-20	HOW	sy mor wahanol ond eto a deud yr un peth	---	NSNT
+
+
+4, 1	21, 1-7	HEF	ia *yeah* achos oedd eitha gwahanol weithiau	---	NST
+
+
+5, 1	24, 1-2	HOW	dw meddwl	NSNT	NSNT
+5, 2	24, 3-4	HOW	dw meddwl	NSNT	NSNT
+5, 3	24, 5-6	HOW	bod *er*	---	NST
+
+
+6, 1	25, 1-5	HEF	enwau pobl yn wahanol hefyd	---	NSNT
+
+
+7, 1	26, 1-2	HOW	oedden *yeah*	NST	NST
+7, 2	27, 1-3	HOW	a dw meddwl	NSNT	NSNT
+7, 3	27, 4-6	HOW	bod *er* ella	NST	NST
+7, 4	27, 7-14	HOW	bod yr isdeitlau yn cynnwys yr elfen *crouching_tiger_hidden_dragon*	NST	NST
+7, 5	27, 15-22	HOW	bod o ryw fath o ddywediad neu rywbeth	NSNT	NSNT
+7, 6	29, 1-6	HOW	ond bod y y trosleisio wedi	---	NSNT
+
+
+8, 1	30, 1-1	HEF	symleiddio	---	NSNT
+
+
+9, 1	31, 1-16	HOW	*yeah* neu wedi cyfleu yr ystyr ond bod nhw ddim wedi defnyddio yr union eiriau felly	NST	NST
+9, 2	33, 1-12	HOW	*um* ond oedd o yn *right* ddiddorol a *just* o safbwynt *er*	NST	NST
+9, 3	33, 13-14	HOW	sut mae	NSNT	NSNT
+9, 4	34, 1-2	HOW	os oedd	NSNT	NSNT
+9, 5	34, 3-8	HOW	os oedd gyn ti fath â	NSNT	NSNT
+9, 6	35, 1-7	HOW	*er* peth *er* arall timod yn *Pulp_Fiction*	NST	NST
+9, 7	35, 8-9	HOW	lle mae	NSNT	NSNT
+9, 8	35, 10-14	HOW	mae nhw mynd i *Jack_Rabbit_Slims*	NST	NST
+9, 9	36, 1-13	HOW	ac yn y *car* mae *er* *um* *Mia_Wallace* yn yn deud wrth *Vincent_Vega*	ST	NST
+9, 10	37, 1-4	HOW	don't be such a	SNT	NSNT
+9, 11	38, 1-11	HOW	a wedyn yn tynnu fath â siâp sgwâr yr awyr felly	NSNT	NSNT
+9, 12	40, 1-15	HOW	ond o'n i gwylio mi oedd *er* brodyr *Tamsin* gwylio *Pulp_Fiction* *er* efo trosleisio almaeneg	NST	NST
+9, 13	41, 1-5	HOW	ac oedden nhw fath â	NSNT	NSNT
+9, 14	42, 1-7	HOW	a y cymeriad wedi deud fath â	SNT	NSNT
+9, 15	43, 1-4	HOW	don't be such a	SNT	NSNT
+9, 16	45, 1-5	HOW	a oedden nhw fath â	NSNT	NSNT
+9, 17	46, 1-4	HOW	*eh* be oedd hynna	NST	NST
+9, 19	49, 1-2	HOW	yn union	NSNT	NSNT
+9, 20	50, 1-6	HOW	achos doedd gair *square* yn Saesneg	NST	NST
+9, 21	52, 1-9	HOW	*um* felly oedden ni wedi gorod esbonio wedyn felly	NST	NST
+9, 22	52, 10-11	HOW	bod yna	NSNT	NSNT
+9, 23	52, 12-23	HOW	bod fath â don't be a *square* fath o beth pumdegau *beatnik*	NST	ST
+9, 24	52, 24-31	HOW	oedd fath â yn cyd_fynd efo naws *Jack_Rabbit_Slims*	NST	NST
+9, 25	55, 1-8	HOW	ond *er* mae rywbeth tebyg yn *um* *Full_Metal_Jacket*	NST	NST
+9, 26	55, 9-10	HOW	lle mae	NSNT	NSNT
+9, 27	55, 11-19	HOW	mae nhw yn deud wrtha fo fath â beidio	NSNT	NSNT
+9, 28	56, 1-3	HOW	mae fath â	NSNT	NSNT
+9, 29	56, 4-21	HOW	bod nhw yn fod i ddal dal y *rifle* fath â hyn a hyn o fodfeddi o flaen	NST	NST
+9, 30	56, 22-25	HOW	ei frest o felly	NSNT	NSNT
+9, 31	58, 1-4	HOW	pum modfedd neu rywbeth	NSNT	NSNT
+9, 32	59, 1-4	HOW	o'n nhw dangos pum	NSNT	NSNT
+9, 33	61, 1-11	HOW	fath â dangos y llaw y fath â pum bys felly	NSNT	NSNT
+9, 35	64, 1-7	HOW	a *just* dydy o ddim yn gweithio	---	NST
+
+
+10, 1	66, 1-5	HEF	*yeah* ond dw ddim yn	NST	NST
+10, 2	66, 6-14	HEF	dydy pobl yn *Europe* ddim yn ymwybodol o fodfeddi	---	NST
+
+
+11, 1	67, 1-7	HOW	dim i yr un graddau dw meddwl	NSNT	NSNT
+11, 2	68, 1-3	HOW	dw yn gwybod	NSNT	NSNT
+11, 3	68, 4-12	HOW	bod *ounce* fath â *er* yn fath â unze	ST	ST
+11, 4	68, 13-14	HOW	dw meddwl	NSNT	NSNT
+11, 5	68, 15-22	HOW	ydy o neu rywbeth fel yna yn Almaeneg	NSNT	NSNT
+11, 6	69, 1-11	HOW	a mae hynny yn ymddangos yn y croeseiriau yn eitha aml	NSNT	NSNT
+11, 7	71, 1-3	HOW	*er* ond *mmm*	---	NST
+
+
+12, 1	72, 1-17	HEF	do'n i ddim yn *um* ymwybodol o o fluid *ounces* *er* *America* tan i fi fynd yna	NST	ST
+12, 2	73, 1-7	HEF	mae nhw *er* yn caniau *Coke* deuda	NST	NST
+12, 3	75, 1-9	HEF	*um* dydyn nhw ddim yn rhoi *um* y cyfaint	NST	NST
+12, 4	77, 1-6	HEF	mewn *er* *centilitre* neu *um* *millilitre*	NST	NST
+12, 5	79, 1-6	HEF	mae nhw yn rhoi fluid *ounce*	ST	ST
+12, 6	80, 1-10	HEF	*so* fath â rywbeth fel tri *point* wyth fluid *ounce*	ST	ST
+12, 7	81, 1-12	HEF	mae nhw wneud o drwy gymharu *um* yn lle cyfaint pwysau dŵr	NST	NST
+12, 8	83, 1-7	HEF	o yr un cyfaint a wedyn cymharu	NSNT	NSNT
+12, 9	85, 1-2	HEF	cymharu cymharu	NSNT	NSNT
+12, 10	86, 1-2	HEF	hynny yw	NSNT	NSNT
+12, 11	86, 3-3	HEF	dyna	NSNT	NSNT
+12, 12	86, 4-6	HEF	fysai pwysau dŵr	NSNT	NSNT
+12, 13	86, 7-12	HEF	os fysai fo yn yr un	---	NSNT
+
+
+13, 1	88, 1-3	HOW	duwcs cymhleth de	---	NSNT
+
+
+14, 1	90, 1-2	HEF	wedyn mae	NSNT	NSNT
+14, 2	90, 3-5	HEF	mae o yn	NSNT	NSNT
+14, 3	90, 6-11	HEF	mae o yn eitha cymhleth felly	---	NSNT
+
+
+15, 1	91, 1-2	HOW	achos mae	---	NSNT
+
+
+16, 1	92, 1-2	HEF	*yeah* dyna	NST	NST
+16, 2	92, 3-4	HEF	ydy *f_l*	ST	NST
+16, 3	94, 1-1	HEF	o_z	---	NSNT
+
+
+17, 1	96, 1-1	HOW	anyway	---	NSNT
+
+
+18, 1	97, 1-3	HEF	ond ond timod	NSNT	NSNT
+18, 2	97, 4-12	HEF	mae dangos ti ddim yn ymwybodol o rywbeth oni_bai	NSNT	NSNT
+18, 3	97, 13-15	HEF	bod chdi ymwybodol	---	NSNT
+
+
+19, 1	99, 1-2	HOW	it's the	NSNT	NSNT
+19, 2	99, 3-6	HOW	it's the small differences	SNT	NSNT
+19, 4	101, 1-3	HOW	neu beth bynnag	NSNT	NSNT
+19, 5	102, 1-8	HOW	dyna beth o'n i golli yn *Pulp_Fiction* llwyr	NST	NST
+19, 6	102, 9-10	HOW	oedd y	NSNT	NSNT
+19, 7	102, 11-14	HOW	oedd y methu cofio	NSNT	NSNT
+19, 8	102, 17-29	HOW	*just* bod chdi ddim yn cael *er* fath â y *er* chemistry felly	NST	ST
+19, 9	102, 30-37	HOW	de enwedig yn y ar gychwyn y *film*	NST	NST
+19, 10	102, 38-44	HOW	pan mae gyn ti yr ddau hitman	SNT	SNT
+19, 13	106, 1-4	HOW	*um* a doedd ddim	NST	NST
+19, 14	106, 5-14	HOW	doedd o ddim yn dod drosodd yn Almaeneg o_gwbl felly	NSNT	NSNT
+19, 15	108, 1-7	HOW	a wedyn mi oedd *Tamsin* yn deud	NST	NST
+19, 16	109, 1-10	HOW	*yeah* achos ddim actorion fel y cyfryw sy yn *er*	NST	NST
+19, 17	109, 11-15	HOW	sy yn gwneud y trosleisio	NSNT	NSNT
+19, 18	110, 1-12	HOW	neu bod y pwyslais pwyslais yn fwy ella ar wneud yn *sure*	NST	NST
+19, 19	110, 13-20	HOW	bod nhw yn deud y geiriau angenrheidiol fel	NSNT	NSNT
+19, 20	110, 21-30	HOW	bod nhw yn cyfateb i i symudiadau ceg yn hytrach	NSNT	NSNT
+19, 21	110, 31-35	HOW	na bod nhw fath â	NSNT	NSNT
+19, 22	110, 36-37	HOW	roid *er*	---	NST
+
+
+20, 1	111, 1-2	HEF	cyfleu emosiwn	NSNT	NSNT
+20, 2	115, 1-1	HEF	mae	NSNT	NSNT
+20, 3	115, 2-5	HEF	mae yn *odd* achos	NST	NST
+20, 4	116, 1-6	HEF	ia dyna fo achos cofio *um*	NST	NST
+20, 5	117, 1-10	HEF	*er* dw ddim yn gwybod os ti wedi gweld o	NST	NST
+20, 6	118, 1-3	HEF	*Night_on_Earth* ydy o	NST	NST
+20, 7	118, 4-9	HEF	lle mae *um* yr yr *pimp*	---	NST
+
+
+21, 1	120, 1-2	HOW	*film* dda	---	NST
+
+
+22, 1	121, 1-7	HEF	a yr saith saith mewn *taxi* *um*	---	NST
+
+
+23, 1	123, 1-5	HOW	*oh* ie *yeah* dyna *yeah*	---	NST
+
+
+24, 1	124, 1-1	HEF	dyna	NSNT	NSNT
+24, 2	124, 2-7	HEF	sy yn clymu nhw at ei_gilydd	NSNT	NSNT
+24, 3	125, 1-4	HEF	ond mewn dinasoedd gwahanol	NSNT	NSNT
+24, 4	126, 1-9	HEF	*um* ond mae wedi efo yr efo yr isdeitlau	NST	NST
+24, 5	126, 10-11	HEF	oedd hwnna	NSNT	NSNT
+24, 6	126, 12-20	HEF	de nid yr *um* nid efo yr tros trosleisio	NST	NST
+24, 7	128, 1-5	HEF	achos mae well gen i	NSNT	NSNT
+24, 9	128, 26-33	HEF	timod o yr o yr o yr emosiwn	NSNT	NSNT
+24, 10	131, 1-1	HEF	o	---	NSNT
+
+
+25, 1	132, 1-11	HOW	ia fath â pethau *Simpsons* yn hollol wahanol a *Sesame_Street* hefyd	NST	NST
+25, 2	133, 1-6	HOW	bod *um* *Bert* ac *Ernie* felly	NST	NST
+25, 3	134, 1-9	HOW	welais i rheina efo eu fersiwn eu lleisiau Almaeneg	NSNT	NSNT
+25, 4	135, 1-4	HOW	a oedd hi yn	NSNT	NSNT
+25, 5	135, 5-8	HOW	oedd hi yn siomedig	NSNT	NSNT
+25, 6	136, 1-7	HOW	oedd *Ernie* ddim hanner cystal yn Almaeneg	---	NST
+
+
+26, 1	138, 1-8	HEF	*yeah* sgwn sgwn i sut mae nhw yn	NST	NST
+26, 2	138, 9-20	HEF	mae nhw yn mynd ati benodi *um* pobl i yr swyddi trosleisio	NST	NST
+26, 3	139, 1-2	HEF	mae rei	NSNT	NSNT
+26, 4	140, 1-10	HEF	dw i yn cofio gweld yr *um* *X_Files* yn Ffrainc	NST	NST
+26, 5	141, 1-1	HEF	ac	NSNT	NSNT
+26, 6	143, 1-5	HEF	oedden nhw yn eitha da	NSNT	NSNT
+26, 7	145, 1-3	HEF	oedden nhw yn	NSNT	NSNT
+26, 8	145, 4-14	HEF	oedd o yn cyfateb yn eitha da i *Mulder* a *Scully*	NST	NST
+26, 9	146, 1-7	HEF	ond dw i wedi gweld rhei eraill	NSNT	NSNT
+26, 10	146, 8-11	HEF	lle mae nhw yn	NSNT	NSNT
+26, 11	147, 1-1	HEF	mae	NSNT	NSNT
+26, 12	147, 2-20	HEF	mae nhw *just* yn swnio yn rhy ddifrifol drwy yr amser fel fel petasen nhw yn darllen o bapur	---	NST
+
+
+27, 1	150, 1-3	HOW	dw meddwl ella	NSNT	NSNT
+27, 2	150, 4-15	HOW	bod hi yn dibynnu ar natur y naws y *film* neu rywbeth	NST	NST
+27, 3	152, 1-13	HOW	achos o'n i cael bod y lleisio yn yn *Lord_of_the_Rings* yn yn wych	NST	NST
+27, 4	154, 1-9	HOW	o'n i licio yr *Treebeard* Almaeneg yn well na	NST	NST
+27, 5	156, 1-2	HOW	*John_Reese_Davies* de	NST	NST
+27, 6	157, 1-15	HOW	*um* ond efo rywbeth fath â *Simpsons* neu *Sesame_Street* neu beth bynnag ella bod yna	NST	NST
+27, 7	157, 16-17	HOW	bod nhw	NSNT	NSNT
+27, 9	157, 41-46	HOW	neu bod o yn rhan o	NSNT	NSNT
+27, 10	157, 47-47	HOW	yr	NSNT	NSNT
+27, 11	157, 48-48	HOW	diddanwch	NSNT	NSNT
+27, 12	157, 49-55	HOW	ydy fath â *er* y lleisiau difyr	---	NST
+
+
+28, 1	158, 1-4	HEF	llais mwy *odd* neu	---	NST
+
+
+29, 1	160, 1-6	HOW	achos yn bendant oedd *er* *just*	NST	NST
+29, 2	161, 1-8	HOW	*o_k* dw yn gweld efo efo *Homer* Almaeneg	NST	NST
+29, 3	161, 9-24	HOW	oedden nhw wedi trio gwneud y peth yn ryw fath o lais gwyrion neu beth bynnag	NSNT	NSNT
+29, 4	163, 1-9	HOW	ond oedd *Mr_Burns* *just* toedd yna dim_byd yno o_gwbl	---	NST
+
+
+30, 1	165, 1-15	HEF	do'n i ddim yn gweld llais *Homer* yn cyfleu yr un y slobrwydd a diniweidrwydd	NST	NST
+30, 2	167, 1-7	HEF	ar yr ar yr un pryd rywsut	NSNT	NSNT
+30, 3	168, 1-16	HEF	mae yna rywbeth yn yn llais ychydig bach yn rywbeth eitha *pathetic* amdano fo hefyd yn_does	---	NST
+
+
+31, 1	169, 1-2	HOW	*yeah* plentynaidd	---	NST
+
+
+32, 1	170, 1-2	HEF	plentynaidd *yeah*	---	NST
+
+
+33, 1	173, 5-5	HOW	mae	NSNT	NSNT
+33, 2	173, 6-14	HOW	*just* mae o yn *just* ryw fath o *lob*	NST	NST
+33, 3	175, 1-3	HOW	a dyna ni	---	NSNT
+
+
+34, 1	176, 1-2	HEF	*yeah* mae	NST	NST
+34, 2	176, 3-10	HEF	mae yn swnio yn yn ddi_glem yn unig	NSNT	NSNT
+34, 3	178, 1-11	HEF	ryw fath â nid yn ddi_glem a yr holl elfennau eraill	---	NSNT
+
+
+35, 1	180, 1-3	HOW	*yeah* yn union	---	NST
+
+
+36, 1	181, 1-1	HEF	yna	NSNT	NSNT
+36, 2	183, 1-2	HEF	ond *er*	NST	NST
+36, 3	184, 1-3	HEF	*yeah* dw meddwl	NST	NST
+36, 4	184, 4-15	HEF	bod o'n i gweld efo *lot* o yr *lot* o yr *er*	NST	NST
+36, 5	184, 16-24	HEF	rhaglenni *um* o'n o'n i yn gweld yn Ffrainc	NST	NST
+36, 6	184, 26-28	HEF	bod yr *um*	NST	NST
+36, 7	184, 29-37	HEF	bod y lleisiau hefyd yn eitha tebyg i w_gilydd	NSNT	NSNT
+36, 8	186, 1-3	HEF	dw ddim gwybod	NSNT	NSNT
+36, 9	187, 1-14	HEF	a gan gan mod i ddim yn dallt pob_dim oedd yn cael ei ddeud	NSNT	NSNT
+36, 10	187, 15-23	HEF	a bod yn Ffrangeg i ddim yn hollol rhugl	NSNT	NSNT
+36, 11	187, 24-25	HEF	bod *um*	NST	NST
+36, 12	187, 26-42	HEF	bod fi yn cael hi yn anoddach gwahaniaethu rhwng lleisiau un un llais a llais rhywun arall	NSNT	NSNT
+36, 13	190, 1-12	HEF	hynny yw o'n i yn gwybod na dau *berson* gwahanol yn siarad	NST	NST
+36, 14	191, 1-14	HEF	ond oedd y lleisiau lleisiau ddim yn swnio mor wahanol â hynny i w_gilydd	---	NSNT
+
+
+37, 1	192, 1-7	HOW	*yeah* dw gwybod be ti feddwl *yeah*	NST	NST
+37, 2	193, 1-5	HOW	*yeah* mae yn *um* *yeah*	NST	NST
+37, 3	193, 6-7	HOW	mae yn	---	NSNT
+
+
+38, 1	194, 1-6	HEF	be mae nhw wneud o ran	NSNT	NSNT
+38, 2	194, 8-13	HEF	pan mae gen ti *actor* enwog	NST	NST
+38, 3	195, 1-2	HEF	*er* ydyn	NST	NST
+38, 4	195, 3-8	HEF	ydyn nhw yn *um* penodi un	---	NST
+
+
+39, 1	196, 1-3	HOW	dw i wedi	---	NSNT
+
+
+40, 1	197, 1-2	HEF	dyn trosleisio	---	NSNT
+
+
+41, 1	198, 1-5	HOW	dw i wedi holi hynna	NSNT	NSNT
+41, 2	199, 1-7	HOW	dw ddim wedi cael ateb o *Stef*	NST	NST
+41, 3	201, 1-3	HOW	dw i yn	NSNT	NSNT
+41, 4	201, 4-7	HOW	ond dw i yn	NSNT	NSNT
+41, 5	202, 1-1	HOW	mae	NSNT	NSNT
+41, 6	202, 2-8	HOW	mae yna un *film* *er* *The_Last_Unicorn* rywbeth	NST	NST
+41, 7	203, 1-14	HOW	ac yn y Saesneg *er* mi oedd *Christopher_Lee* yn un o yr actorion llais	NST	NST
+41, 8	205, 1-9	HOW	a ac yn Almaeneg mi oedd o yn mi	NSNT	NSNT
+41, 9	205, 10-17	HOW	oedd *Christopher_Lee* yn cymryd yr un rhan felly	---	NST
+
+
+42, 1	206, 1-5	HEF	*oh* ydy o siarad Almaeneg	---	NST
+
+
+43, 1	207, 1-4	HOW	mae debyg fod o	NSNT	NSNT
+43, 2	209, 1-17	HOW	dw i wedi clywed fod o yn siarad ryw bump chwech neu rywbeth o o ieithoedd eraill	---	NSNT
+
+
+44, 1	210, 1-1	HEF	difyr	NSNT	NSNT
+44, 2	211, 1-4	HEF	ond ond wedyn ydy	NSNT	NSNT
+44, 3	211, 5-10	HEF	ydy pobl yn yr Almaen neu	NSNT	NSNT
+44, 4	213, 1-9	HEF	Ffrainc neu lle bynnag pan mae nhw yn gweld	NSNT	NSNT
+44, 5	213, 10-11	HEF	bod *film*	NST	NST
+44, 6	213, 12-15	HEF	ddiweddara *um* *Tom_Cruise* allan	NST	NST
+44, 7	213, 16-16	HEF	ydyn	NSNT	NSNT
+44, 8	213, 17-20	HEF	ydyn nhw yn teimlo	NSNT	NSNT
+44, 9	213, 21-21	HEF	ydyn	NSNT	NSNT
+44, 10	213, 22-22	HEF	ydyn	NSNT	NSNT
+44, 11	213, 23-38	HEF	ydyn nhw yr un fath o yr un mor feirniadol yn yr *er* box_office ag ag	NST	ST
+44, 13	217, 1-3	HEF	ydyn nhw mynd	SNT	NSNT
+44, 14	218, 1-2	HEF	*oh* *Tom_Cruise*	ST	NST
+44, 15	220, 1-15	HEF	os ydy elfen gryf o bersonoliaeth *actor* yn yn cael ei gymryd o yr neilltu	---	NST
+
+
+45, 1	222, 1-4	HOW	*well* dw efo *Tom_Cruise*	NST	NST
+45, 2	222, 5-11	HOW	dw meddwl elfen gryf o ei bersonoliaeth	NSNT	NSNT
+45, 3	222, 13-19	HOW	bod o yn boen yn y pen_ôl	NSNT	NSNT
+45, 6	224, 20-22	HOW	mae o wneud	NSNT	NSNT
+45, 7	227, 1-5	HOW	wedyn bysai ryw fath o	NSNT	NSNT
+45, 9	228, 1-16	HOW	ta ydy o fath â trio gwneud gwahanol leisiau i gyd_fynd efo gwahanol leisiau cymeriadau felly	NSNT	NSNT
+45, 10	230, 1-4	HOW	achos mae fath â	NSNT	NSNT
+45, 11	231, 1-2	HOW	achos dyna	NSNT	NSNT
+45, 12	231, 3-6	HOW	dyna un o pethau	NSNT	NSNT
+45, 13	231, 7-14	HOW	dw i licio am am wylio ffilmiau *Johnny_Depp*	NST	NST
+45, 14	231, 15-22	HOW	ydy gan na fod o yn *actor* felly	NST	NST
+45, 15	231, 24-41	HOW	a bod y lleisiau y llais yn ran o ei berfformiad felly yn wahanol i fath â *Sean_Connery*	---	NST
+
+
+46, 1	233, 1-3	HEF	*yeah* mae yn	NST	NST
+46, 2	233, 4-10	HEF	mae yna fathau gwahanol o actorion yn_does	---	NSNT
+
+
+47, 1	235, 2-7	HOW	dw i efo dau eithaf felly	NSNT	NSNT
+47, 2	237, 1-6	HOW	*um* ond *er* ie mae yn	NST	NST
+47, 3	238, 1-11	HOW	*just* dw i wedi cymryd o achos fo i fi fo	NST	NST
+47, 4	238, 12-24	HOW	ydy yr enghraifft amlyca o *actor* sydd yn newid ei lais efo perfformiad	NST	NST
+47, 5	239, 1-19	HOW	felly bod *er* cael yr un like yr un *actor* trosleisio i wneud yr un llais ddim mor fel	NST	ST
+47, 6	239, 20-27	HOW	petasai fo yn bwysig yn hynny o beth	---	NSNT
+
+
+48, 1	241, 1-14	HEF	mae gyn i *um* y *Fifth_Element* ar *d_v_d* na ar *video* *um* o Ffrainc	---	NST
+
+
+49, 1	244, 1-6	HOW	*oh* *yeah* *Luc* *Luc_Beson* oedd wedi	---	NST
+
+
+50, 1	245, 1-1	HEF	*Le_Cinquième_Élément*	---	NST
+
+
+51, 1	246, 1-8	HOW	a mae yr trosleisio yn *er* yn hwnna	---	NST
+
+
+52, 1	247, 1-5	HEF	hynny yw yr *film* Saesneg	NST	NST
+52, 2	247, 6-7	HEF	ydy o	NSNT	NSNT
+52, 3	249, 1-8	HEF	ond *er* trosleisio *er* Ffrangeg sydd arno fo	NST	NST
+52, 4	252, 1-9	HEF	ac mae yr trosleisio yn dda iawn ar hwnna	NSNT	NSNT
+52, 5	254, 1-5	HEF	*um* mae yna ryw gymeriad	NST	NST
+52, 6	255, 1-5	HEF	*oh* ai *Chris_Rock* ydy o	NST	NST
+52, 7	255, 6-7	HEF	dw meddwl	---	NSNT
+
+
+53, 1	256, 1-3	HOW	dw ddim gwybod	---	NSNT
+
+
+54, 1	257, 1-3	HEF	sy yn *um*	NST	NST
+54, 2	258, 1-5	HEF	mae o yn d_j *radio*	ST	ST
+54, 3	260, 1-6	HEF	ac mae o hollol dros ben	NSNT	NSNT
+54, 4	260, 7-7	HEF	llestri	NSNT	NSNT
+54, 5	261, 1-3	HEF	mae o yn	NSNT	NSNT
+54, 6	261, 4-16	HEF	mae o debyg iawn i *Cat* yn *Red_Dwarf* ond yn fwy dros ben	NST	NST
+54, 7	261, 17-17	HEF	llestri	NSNT	NSNT
+54, 8	263, 1-15	HEF	*um* achos bod o ar y *radio* math o beth ac yn dangos ei hun	NST	NST
+54, 9	265, 1-2	HEF	a mae	NSNT	NSNT
+54, 10	265, 3-3	HEF	yr	NSNT	NSNT
+54, 11	265, 4-12	HEF	mae hwnna wedi cael ei drosleisio yn eitha da	NSNT	NSNT
+54, 12	266, 1-4	HEF	*um* mae yr *er*	NST	NST
+54, 13	266, 5-6	HEF	mae yr	---	NSNT
+
+
+55, 1	270, 1-8	HOW	*yeah* dyna un o yr pethau am *Pulp_Fiction*	NST	NST
+55, 2	270, 9-16	HOW	oedd yn ar_goll enwedig fath â cymeriad *Samuel_Jackson*	NST	NST
+55, 4	274, 1-6	HOW	oedd hwnnw wedi mynd yn llwyr	---	NSNT
+
+
+56, 1	277, 1-7	HEF	*yeah* mae gynno fo lais mor ddyfn	NST	NST
+56, 2	277, 8-8	HEF	does	---	NSNT
+
+
+57, 1	278, 1-10	HOW	*yeah* a efo *just* gymaint o fynegiant yno fo de	NST	NST
+57, 2	280, 1-7	HOW	*um* fel fod o yn gallu deud	ST	NST
+57, 3	281, 1-4	HOW	that's one tasty *burger*	ST	NST
+57, 4	282, 1-4	HOW	neu neu beth bynnag	NSNT	NSNT
+57, 6	284, 1-6	HOW	a mae *just* yn swnio wych	---	NST
+
+
+58, 1	286, 1-2	HEF	mae yna	NSNT	NSNT
+58, 2	286, 3-13	HEF	mae yna rywbeth mwy na dim ond tasty yn y ffordd	NSNT	SNT
+58, 3	286, 14-19	HEF	mae o yn ddeud tasty yn_does	---	SNT
+
+
+59, 1	288, 1-5	HOW	*yeah* neu *Big_Kahuna_Burger* neu rywbeth	NST	NST
+59, 2	289, 1-11	HOW	*just* yn swnio yn wirion nes fod o yn ddeud o	NST	NST
+59, 4	291, 1-6	HOW	wedyn mae swnio yn *cool* *well*	---	NST
+
+
+59, 5	291, 7-10	HOW	gynna i beth bynnag	---	NSNT
+
+
+61, 1	294, 1-2	HOW	*oh* man	---	NST
+
+
+62, 1	295, 1-7	HEF	ac oedd ei lais o yn dda	NSNT	NSNT
+62, 2	296, 1-5	HEF	oedd o yn canu dda	NSNT	NSNT
+62, 3	297, 1-3	HEF	ond oedd o	NSNT	NSNT
+62, 4	297, 4-11	HEF	oedd o fel petai o ddim yn sylweddoli	NSNT	NSNT
+62, 5	297, 12-15	HEF	bod o yn heneiddio	NSNT	NSNT
+62, 6	298, 1-8	HEF	oedd o yn trio wneud ryw ryw jiggles	SNT	SNT
+62, 7	298, 9-18	HEF	timod ysgwyd ei ei *er* gluniau nôl a ymlaen a	---	NST
+
+
+63, 1	300, 1-1	HOW	scary	---	NSNT
+
+
+64, 1	301, 1-3	HEF	*oh* oedd o	NST	NST
+64, 2	301, 4-6	HEF	oedd o yn	NSNT	NSNT
+64, 3	301, 7-13	HEF	oedd o yn edrych yn *geriatric* braidd	---	NST
+
+
+65, 1	302, 1-4	HOW	welais i rywbeth tebyg	NSNT	NSNT
+65, 2	303, 1-3	HOW	welais i *Cliff_Richard*	NST	NST
+65, 4	306, 1-6	HOW	ac oedd hynny *right* scary hefyd	NST	ST
+65, 5	308, 1-3	HOW	oedd o *just*	NST	NST
+65, 6	309, 1-6	HOW	*Cliff* *just* sefyll yn stond *please*	---	NST
+
+
+66, 1	313, 1-6	HEF	doedd o *just* methu gwneud o	---	NST
+
+
+66, 2	315, 1-3	HEF	*oh* ond *er*	NST	NST
+67, 2	316, 15-21	HOW	pwy ydy yr love God mwya felly	NSNT	SNT
+67, 3	318, 1-8	HOW	cofio dyna fath â yr unig peth doniol	NSNT	NSNT
+67, 4	318, 9-10	HOW	sy erioed	NSNT	NSNT
+67, 5	318, 11-14	HOW	wedi bod ar *Comic_Relief*	NST	NST
+67, 6	318, 15-16	HOW	dw meddwl	NSNT	NSNT
+67, 8	320, 2-7	HOW	oedd hynny yn dda iawn *yeah*	NST	NST
+67, 9	321, 1-9	HOW	ond *Tom_Jones* dipyn bach yn fengach bryd hynny felly	NST	NST
+67, 10	323, 1-9	HOW	a doedd ei wallt o ddim mor frawychus chwaith	NSNT	NSNT
+67, 11	325, 1-8	HOW	oedd o ar y ffordd ond ddim eto	---	NSNT
+
+
+68, 1	327, 1-6	HEF	mae yn edrych bach yn frawychus	NSNT	NSNT
+68, 2	329, 1-6	HEF	oedd gynno fo ei goatee beard	SNT	SNT
+68, 3	331, 1-5	HEF	dydy o ddim yn siwtio	NSNT	NSNT
+68, 5	334, 1-7	HEF	ond *um* dw meddwl na yr *House_of_Blues*	NST	NST
+68, 6	334, 8-10	HEF	oedd yr un	NSNT	NSNT
+68, 7	334, 11-22	HEF	lle oedd *um* y *Blues_Brothers* yn *um* *er* perfformio ar y diwedd	---	NST
+
+
+69, 1	335, 1-6	HOW	*oh* yr yr un anferth ia	---	NST
+
+
+70, 1	336, 1-4	HEF	yn y *Cleveland_Ohio* *yeah*	NST	NST
+70, 2	338, 1-8	HEF	*er* o'n i gweld hynny yn eitha difyr	---	NST
+
+
+71, 1	339, 1-8	HOW	achos mae *House_of_Blues* yn swnio fwy fath â	NST	NST
+71, 2	340, 1-11	HOW	o'n i mynd i ddeud swnio fwy fath â *club* bach	NST	NST
+71, 3	342, 1-6	HOW	mwy agos ata chdi fath â	---	NSNT
+
+
+72, 1	343, 1-7	HEF	a rywbeth yn *New_Orleans* neu rywbeth felly	---	NST
+
+
+73, 1	345, 1-10	HOW	neu rywbeth fath â stadiwm awyr agored neu beth bynnag	---	NSNT
+
+
+74, 1	348, 1-1	HEF	dw	NSNT	NSNT
+74, 2	348, 2-8	HEF	dw ddim yn *sure* os na yr	NST	NST
+74, 3	349, 1-15	HEF	ella bosib na yr un lle a bod nhw wedi newid o dipyn ers hynny	NSNT	NSNT
+74, 4	352, 1-8	HEF	oedd o yn edrych ychydig bach yn llai	NSNT	NSNT
+74, 5	353, 1-9	HEF	achos oedd yr un yn *Blues_Brothers* yn anferthol yn_doedd	NST	NST
+74, 6	355, 1-4	HEF	mae hwnna *film* arall	NST	NST
+74, 7	355, 5-9	HEF	mae gen i yn Ffrangeg	NSNT	NSNT
+74, 8	357, 1-8	HEF	a mae well gen i yr fersiwn Ffrangeg	---	NSNT
+
+
+75, 1	358, 1-2	HOW	be ydy	NSNT	NSNT
+75, 2	358, 3-6	HOW	be ydy *Blues_Brothers* mewn	ST	NST
+75, 3	359, 1-2	HOW	*Les_Blues_Brothers* *yeah*	---	NST
+
+
+76, 1	361, 1-5	HEF	*yeah* mae hwnna yn *odd*	NST	NST
+76, 2	362, 1-7	HEF	achos mae yr caneuon i_gyd yn Saesneg	---	NSNT
+
+
+77, 1	363, 1-5	HOW	*yeah* mae hynny ddiddorol hefyd	NST	NST
+77, 2	364, 1-5	HOW	achos wnes i weld *Sound_of_Music*	NST	NST
+77, 3	366, 1-2	HOW	wnes i	NSNT	NSNT
+77, 4	366, 3-4	HOW	wnes i	NSNT	NSNT
+77, 5	366, 5-13	HOW	wnes i ddechrau gwylio *Sound* *well* *Sound_of_Music* mewn Almaeneg	NST	NST
+77, 6	367, 1-4	HOW	a mae nhw wedi	NSNT	NSNT
+77, 7	367, 5-10	HOW	mae nhw wedi cyfieithu caneuon hefyd	NSNT	NSNT
+77, 8	369, 1-2	HOW	sydd yn	NSNT	NSNT
+77, 9	370, 1-6	HOW	ond efo *Grease* toedden nhw ddim	NST	NST
+77, 10	372, 1-3	HOW	am ryw reswm	NSNT	NSNT
+77, 11	373, 1-4	HOW	dw ddim gwybod pam	NSNT	NSNT
+77, 12	374, 1-4	HOW	*er* ond dyna ni	---	NST
+
+
+78, 1	376, 1-5	HEF	dw ddim yn gwybod achos	NSNT	NSNT
+78, 2	376, 6-15	HEF	mae yna dipyn mwy o waith i wneud hynny yn_does	---	NSNT
+
+
+79, 1	377, 1-7	HOW	at ei at ei_gilydd tydan nhw ddim	---	NSNT
+
+
+80, 1	379, 1-15	HEF	achos *um* wnaethon nhw wneud perfformiad o *Grease* yn *er* *Tryfan* pan o'n i yna	---	NST
+
+
+81, 1	380, 1-3	HOW	*yeah* mae yn	---	NST
+
+
+82, 1	381, 1-9	HEF	a oedd *Meilyr* yn un o yr *er* *extras*	NST	NST
+82, 3	383, 1-5	HEF	*um* ac oedd o yn	NST	NST
+82, 4	384, 1-4	HEF	oedd o yn *um*	NST	NST
+82, 5	384, 5-9	HEF	oedd o yn gyfieithiad llawn	NSNT	NSNT
+82, 6	385, 1-3	HEF	oedd y caneuon	NSNT	NSNT
+82, 7	387, 1-9	HEF	i_gyd wedi *um* cyfieithu yn ogystal â yr *dialogue*	NST	NST
+82, 8	389, 1-5	HEF	a wedyn oedd o yn	NSNT	NSNT
+82, 9	389, 6-10	HEF	oedd o dipyn o *job*	NST	NST
+82, 10	389, 11-13	HEF	dw meddwl i	---	NSNT
+
+
+83, 1	390, 1-4	HOW	ie alla i dychmygu	NSNT	NSNT
+83, 2	391, 1-14	HOW	*um* ond mae yna rei pobl sydd efo ryw ddawn at wneud ffasiwn beth	NST	NST
+83, 3	392, 1-7	HOW	dw ddim yn licio hynna fath â	NSNT	NSNT
+83, 4	392, 8-11	HOW	bod nhw yn cyfieithu	NSNT	NSNT
+83, 5	393, 1-10	HOW	*oh* enwedig *oh* enwedig os ydyn nhw fath â *iconic*	---	NST
+
+
+84, 1	396, 1-2	HEF	oedd o	NSNT	NSNT
+84, 2	396, 3-8	HEF	oedd o yn dda chwarae teg	NSNT	NSNT
+84, 3	397, 1-4	HEF	*um* oedd o yn	NST	NST
+84, 4	398, 1-11	HEF	o'n i wedi gweld *Grease* pan o'n i yn ifanc iawn	NST	NST
+84, 5	399, 1-14	HEF	wedyn do'n i ddim wir yn cofio *um* y *film* yn *um* dda iawn	NST	NST
+84, 6	401, 1-2	HEF	a mae	NSNT	NSNT
+84, 7	401, 3-6	HEF	mae yna ail *Grease*	NST	NST
+84, 8	402, 1-4	HEF	mae yna *Grease_two* yn_does	---	NST
+
+
+85, 1	403, 2-9	HOW	ond mae yn un *just* fath â cash_in	ST	ST
+85, 2	403, 10-16	HOW	oedd hynna ar y ar y cynta	NSNT	NSNT
+85, 3	403, 17-18	HOW	dw meddwl	NSNT	NSNT
+85, 4	404, 1-10	HOW	mi oedd o wedi dod allan wyth_deg wyth_deg_un neu rywbeth	NSNT	NSNT
+85, 8	411, 1-5	HOW	*um* wnes i ddim gwylio	NST	NST
+85, 9	412, 1-9	HOW	wnes i cychwyn *Grease* *just* i weld sut sut	NST	NST
+85, 10	412, 10-14	HOW	sut oedd o yn edrych	---	NSNT
+
+
+86, 1	413, 1-3	HEF	dw i *sure*	NST	NST
+86, 2	413, 4-11	HEF	wnest ti wylio pob un go iawn yn_do	---	NSNT
+
+
+87, 1	414, 1-4	HOW	*mmm* dw i meddwl	NST	NST
+87, 2	414, 5-8	HOW	bod *Grease_two* mor sâl	NST	NST
+87, 3	414, 9-13	HOW	fyswn i wedi methu gwneud	NSNT	NSNT
+87, 4	415, 1-5	HOW	a mae *Footloose* yn amazing	ST	ST
+87, 5	416, 1-10	HOW	felly byswn i wedi gwylio dipyn bach o *Footloose* *just*	NST	NST
+87, 7	418, 1-6	HOW	ond a wedyn *er* dw meddwl	NST	NST
+87, 8	418, 7-11	HOW	bod *Saturday_Night_Fever* yn *film* iawn	---	NST
+
+
+88, 1	419, 1-1	HEF	dw	NSNT	NSNT
+88, 2	419, 2-5	HEF	dw i heb weld	NSNT	NSNT
+88, 3	419, 6-7	HEF	honna yn	NSNT	NSNT
+88, 4	419, 8-9	HEF	ei chyfanrwydd	---	NSNT
+
+
+89, 1	420, 1-5	HOW	a mae *Staying_Alive* yn shite	ST	ST
+89, 2	421, 1-8	HOW	felly byswn i ddim wedi sbïo ar rheina	NSNT	NSNT
+89, 3	422, 1-12	HOW	eto mae *just* cash_in *John_Travolta* y *boy* y dawnsiwr *cool* beth bynnag	---	ST
+
+
+90, 1	424, 1-7	HEF	dw i heb weld *um* *Sound_of_Music* i_gyd	NST	NST
+90, 2	424, 8-11	HEF	dw ddim yn meddwl	NSNT	NSNT
+90, 3	425, 1-5	HEF	dw wedi gweld rhai golygfeydd	NSNT	NSNT
+90, 4	427, 1-8	HEF	ond byswn i ddim yn meindio gweld *um*	NST	NST
+90, 5	428, 1-3	HEF	*oh* na achos	NST	NST
+90, 6	429, 2-11	HEF	oedd rhei o yr golygfeydd yn atgoffa fi o *Bolzano*	NST	NST
+90, 7	431, 1-11	HEF	*um* y yr yr ucheldir uwchben *Bolzano* yn alpine iawn timod	---	ST
+
+
+91, 1	434, 1-4	HOW	na dw ddim yn	NSNT	NSNT
+91, 2	434, 5-7	HOW	dw ddim yn	NSNT	NSNT
+91, 3	434, 8-10	HOW	dw ddim yn	NSNT	NSNT
+91, 4	435, 1-6	HOW	*yeah* be dw meddwl am *Sound_of_Music*	NST	NST
+91, 5	436, 1-1	HOW	dw	NSNT	NSNT
+91, 6	436, 2-10	HOW	dw i ddim wedi gwylio mond ryw ddwy waith	NSNT	NSNT
+91, 7	436, 11-15	HOW	dw wedi gwylio *film* drwadd	NST	NST
+91, 8	437, 1-17	HOW	oedd unwaith pan o'n i fach iawn a wedyn unwaith yn weddol ddiweddar *just* i yn atgoffa	ST	NST
+91, 9	437, 18-19	HOW	you know	SNT	NSNT
+91, 10	437, 20-26	HOW	be oedd yn digwydd yn y *film*	NST	NST
+91, 11	438, 1-14	HOW	dw i fath â gwylio yr nabod yr hanner awr cynta yn eitha da	NSNT	NSNT
+91, 12	439, 1-3	HOW	ond wedyn does	NSNT	NSNT
+91, 13	439, 4-7	HOW	genna i ddim clem	NSNT	NSNT
+91, 14	439, 8-10	HOW	de heblaw caneuon	---	NSNT
+
+
+92, 1	440, 1-4	HEF	ai *Disney* oedd hwnna	---	NST
+
+
+93, 1	441, 1-5	HOW	dw i ddim yn meddwl	NSNT	NSNT
+93, 2	442, 1-2	HOW	ond mae	NSNT	NSNT
+93, 3	442, 3-4	HOW	mae yn	NSNT	NSNT
+93, 4	442, 5-6	HOW	mae yn	NSNT	NSNT
+93, 5	442, 7-11	HOW	mae yn *film* eitha disney_aidd	ST	ST
+93, 6	442, 12-26	HOW	tydy *um* o ran fath â canu canu baddies goodies goodies yn ennill y dydd	NST	ST
+93, 7	444, 1-9	HOW	llai o drais na mewn ffilmiau *Disney* mae *sure*	NST	NST
+93, 8	445, 1-7	HOW	achos toes yna ddim trais mewn gwirionedd	NSNT	NSNT
+93, 9	446, 1-10	HOW	*just* bod y *Nazis* yn ryw fath o bresenoldeb bygythiol	---	NST
+
+
+94, 1	450, 1-5	HEF	*yeah* dw ddim yn gwybod	---	NST
+
+
+95, 1	451, 1-2	HOW	na mae	NSNT	NSNT
+95, 2	452, 1-3	HOW	na dw meddwl	NSNT	NSNT
+95, 3	452, 4-10	HOW	bod *Disney* licio dipyn bach o drais	---	NST
+
+
+96, 1	453, 1-2	HEF	dw methu	NSNT	NSNT
+96, 2	453, 3-14	HEF	alla i meddwl am drais mewn ffilmiau o yr cyfnod yna *Disney*	---	NST
+
+
+97, 1	454, 1-8	HOW	ddim cyfnod yna ella ond yn fwy diweddar	---	NSNT
+
+
+98, 1	455, 1-6	HEF	fath â yr *Lion_King* a ballu	---	NST
+
+
+99, 1	456, 1-11	HOW	*Lion_King* a *Mulan* a *um* *Tarzan* *er* rhyw bethau fel yna	NST	NST
+99, 2	458, 1-6	HOW	ond eto mae yn drais *nice*	NST	NST
+99, 4	460, 1-7	HOW	*just* fel bod plant yn gallu dysgu	NST	NST
+99, 5	460, 8-11	HOW	bod trais yn iawn	NSNT	NSNT
+99, 6	460, 12-16	HOW	os wyt ti yn goodie	---	SNT
+
+
+100, 1	461, 1-4	HEF	wnest ti *um* weld	NST	NST
+100, 2	461, 5-9	HEF	bod *Henson* wedi cael *um*	NST	NST
+100, 3	463, 1-2	HEF	ei *er*	---	NST
+
+
+101, 1	464, 1-2	HOW	ei wahardd	---	NSNT
+
+
+102, 1	465, 1-7	HEF	*well* na na na *er* hynny yw	NST	NST
+102, 2	465, 8-10	HEF	bod o wedi	NSNT	NSNT
+102, 3	465, 11-11	HEF	ei	NSNT	NSNT
+102, 4	465, 12-15	HEF	mae wedi cael iw	NSNT	NSNT
+102, 5	465, 16-23	HEF	gafodd o ei wahardd am ddeg wythnos gynta	---	NSNT
+
+
+103, 1	466, 1-2	HOW	*oh* mae	NST	NST
+103, 2	467, 1-4	HOW	do glywais i hynna	---	NSNT
+
+
+104, 1	468, 1-13	HEF	ond ond mae nhw wedi *um* *er* gostwng y gwaharddiad i chwe wythnos	---	NST
+
+
+105, 1	469, 1-4	HOW	*oh* mae hynny yn	NST	NST
+105, 2	470, 1-5	HOW	*oh* felly fydd o yn	NST	NST
+105, 3	470, 6-8	HOW	fydd o yn	---	NSNT
+
+
+106, 1	471, 1-2	HEF	*um* rŵan	NST	NST
+106, 2	472, 1-10	HEF	felly mae o yn colli *game* Lloegr a yr Alban	NST	NST
+106, 4	475, 1-5	HEF	*um* ond mi fyddan mi	NST	NST
+106, 5	475, 6-8	HEF	fydd o yn	NSNT	NSNT
+106, 6	475, 9-15	HEF	rhydd i chwarae yr dair *game* arall	---	NST
+
+
+107, 1	476, 1-2	HOW	*yeah* basai	NST	NST
+107, 2	476, 3-7	HOW	wedi bod yn eitha defnyddiol	NSNT	NSNT
+107, 3	476, 8-9	HOW	petasai fo	NSNT	NSNT
+107, 4	476, 10-16	HOW	wedi bod ar_gael i chwarae yn_erbyn Lloegr	---	NSNT
+
+
+108, 1	477, 1-1	HEF	Lloegr	NSNT	NSNT
+108, 2	478, 1-5	HEF	*yeah* yn enwedig gan mae	NST	NST
+108, 3	478, 6-12	HEF	mae *Chris_Horseman* allan rŵan am chwe mis	NST	NST
+108, 4	479, 1-8	HEF	mae llwyth o bobl allan o yr garfan	NSNT	NSNT
+108, 5	479, 9-9	HEF	sti	---	NSNT
+
+
+109, 1	480, 1-2	HOW	*oh* man	ST	NST
+109, 2	481, 1-1	HOW	mae	NSNT	NSNT
+109, 3	481, 2-2	HOW	mae	NSNT	NSNT
+109, 4	481, 3-9	HOW	mae nhw mynd i gael eu stwffio	---	NSNT
+
+
+110, 1	483, 1-3	HEF	mae *Shanklin* allan	NST	NST
+110, 2	483, 4-4	HEF	dydy	NSNT	NSNT
+110, 3	484, 1-3	HEF	mae *Kevin_Morgan* allan	NST	NST
+110, 4	485, 1-7	HEF	*um* a *Henson* allan am am gyfnod	---	NST
+
+
+111, 1	486, 1-2	HOW	*yeah* dylai	NST	NST
+111, 2	486, 3-6	HOW	bod *Peel* yn_ôl am	NST	NST
+111, 3	486, 7-8	HOW	wn i	NSNT	NSNT
+111, 4	488, 1-2	HOW	mae nhw	---	NSNT
+
+
+112, 1	489, 1-12	HEF	o't ti wedi clywed bod *Stephen_Jones* ar ei ffordd nôl i *Llanelli*	---	NST
+
+
+113, 1	490, 1-4	HOW	do glywais i hynna	NSNT	NSNT
+113, 2	491, 1-5	HOW	sydd yn sy yn dda	NSNT	NSNT
+113, 3	492, 1-7	HOW	*um* mi mi oedd *er* mi glywais	NST	NST
+113, 4	492, 8-18	HOW	i bod Caerdydd wedi trio ei ei ei gael o hefyd	---	NSNT
+
+
+114, 1	493, 1-18	HEF	*yeah* o'n o'n o'n i wedi clywed o'n i wedi clywed bod o ar fin mynd i Gaerdydd	NST	NST
+114, 2	494, 1-8	HEF	ond aeth o i *Lanelli* yn y diwedd	NST	NST
+114, 3	495, 1-8	HEF	ond wedyn mae yn dod o ardal Caerfyrddin	NSNT	NSNT
+114, 4	495, 9-9	HEF	tydy	NSNT	NSNT
+114, 5	496, 1-9	HEF	mae wedi chwarae efo *Dwayne_Peel* o yr blaen felly	---	NST
+
+
+115, 1	497, 2-3	HOW	a dw	NSNT	NSNT
+115, 2	497, 4-9	HOW	dw meddwl *just* o ran gweld	---	NST
+
+
+116, 1	498, 1-4	HEF	mae wneud synnwyr yn_dydy	---	NSNT
+
+
+117, 1	499, 1-2	HOW	ydy gweld	NSNT	NSNT
+117, 2	499, 3-6	HOW	be sy digwydd i	NSNT	NSNT
+117, 3	499, 7-7	HOW	chwaraeon	NSNT	NSNT
+117, 4	499, 8-9	HOW	chwaraeon chwaraewyr	NSNT	NSNT
+117, 5	499, 10-15	HOW	pan fyddan nhw mynd i Gaerdydd	NSNT	NSNT
+117, 6	500, 1-6	HOW	tydyn nhw tydyn nhw ddim yn	NSNT	NSNT
+117, 7	501, 1-2	HOW	dw meddwl	NSNT	NSNT
+117, 8	501, 3-5	HOW	mae Caerdydd cynifer	NSNT	NSNT
+117, 9	501, 6-12	HOW	mae yna gynifer o *chwae* chwaraewyr da	NST	NST
+117, 10	501, 13-20	HOW	sy *just* wedi dod yn chwaraewyr sâl tra	NST	NST
+117, 11	501, 21-24	HOW	bod nhw yng Nghaerdydd	NSNT	NSNT
+117, 12	504, 1-6	HOW	*um* *mmm* dw ddim yn gwybod	NST	NST
+117, 13	505, 1-2	HOW	dw i	NSNT	NSNT
+117, 14	505, 3-5	HOW	dw i falch	NSNT	NSNT
+117, 15	505, 6-11	HOW	bod o wedi mynd i *Lanelli*	NST	NST
+117, 16	506, 1-5	HOW	dw meddwl fod o wedi	---	NSNT
+
+
+118, 1	507, 1-3	HEF	na dw meddwl	NSNT	NSNT
+118, 2	507, 4-5	HEF	dyna yr	NSNT	NSNT
+118, 3	507, 6-6	HEF	dyna	NSNT	NSNT
+118, 4	507, 7-10	HEF	oedd y dewis iawn	NSNT	NSNT
+118, 5	509, 1-11	HEF	*um* mae *Llanelli* wneud yn eitha da yn yr y Cynghrair_Celtaidd	---	NST
+
+
+119, 1	510, 1-2	HOW	glywais i	NSNT	NSNT
+119, 2	511, 1-8	HOW	glywais i bod nhw wedi curo *Leinster* *yeah*	---	NST
+
+
+120, 1	512, 1-4	HEF	mae gynnyn nhw bedair	NSNT	NSNT
+120, 2	513, 2-8	HEF	do dim ond dim ond *just* *curo*	NST	NST
+120, 3	516, 1-4	HEF	ond mae nhw ryw	NSNT	NSNT
+120, 4	516, 5-9	HEF	mae gynnyn nhw pedair *game*	NST	NST
+120, 5	518, 1-22	HEF	*um* yn ychwanegol *er* i chwarae *um* o eu cymharu â yr timau sydd ar yr ar frig ar frig y tabl	NST	NST
+120, 6	519, 1-6	HEF	wedyn *um* dw meddwl os os	NST	NST
+120, 7	519, 7-23	HEF	os fyddan nhw curo yr gemau yna i i_gyd neu yn curo ryw dair o yr bedair	NSNT	NSNT
+120, 8	521, 1-9	HEF	yna byddan nhw mynd fyny ar frig y tabl	---	NSNT
+
+
+121, 1	522, 1-2	HOW	be sy	NSNT	NSNT
+121, 2	522, 3-11	HOW	be sy yn digwydd efo efo yr y gwpan	NSNT	NSNT
+121, 3	523, 1-4	HOW	be ydy enw hi	NSNT	NSNT
+121, 4	524, 1-2	HOW	y bencampwriaeth	NSNT	NSNT
+121, 5	525, 1-3	HOW	*well* dim pencampwriaeth	---	NST
+
+
+122, 1	526, 1-2	HEF	y *Heineken*	---	NST
+
+
+123, 1	527, 1-3	HOW	ddim yr *Heineken*	NST	NST
+123, 2	528, 1-7	HOW	yr un rhwng clybiau Cymru a rei	---	NSNT
+
+
+124, 1	529, 1-3	HEF	*Powergen* ydy hwnna	---	NST
+
+
+125, 1	531, 1-6	HOW	be sy yn digwydd efo hwnna	---	NSNT
+
+
+126, 1	532, 1-3	HEF	*um* dw i	NST	NST
+126, 2	533, 1-7	HEF	ydy o ai dim ond un *team*	NST	NST
+126, 3	533, 8-9	HEF	sy drwodd	NSNT	NSNT
+126, 4	534, 1-6	HEF	a *Llanelli* sy drwodd yn hwnna	---	NST
+
+
+127, 1	535, 1-3	HOW	*Llanelli* hefyd *yeah*	---	NST
+
+
+128, 1	536, 1-3	HEF	dw meddwl ia	---	NSNT
+
+
+129, 1	537, 1-7	HOW	*mmm* baswn i ddim yn synnu ond	---	NST
+
+
+130, 1	538, 1-1	HEF	achos	NSNT	NSNT
+130, 2	539, 1-10	HEF	ai dim ond *Llanelli* sy drwodd efo yr *Heineken* ta	NST	NST
+130, 3	540, 1-5	HEF	na dydy hynny heb wedi	NSNT	NSNT
+130, 4	540, 6-11	HEF	dydy *Heineken* heb wedi gorffen eto	---	NST
+
+
+131, 1	541, 1-8	HOW	dim eto dim eto dw ddim yn meddwl	---	NSNT
+
+
+132, 1	542, 1-5	HEF	yr y y rowndiau cynghrair	---	NSNT
+
+
+133, 1	544, 1-11	HOW	achos *er* oedden nhw wedi mynd i at *Wasps* neu rywbeth	---	NST
+
+
+134, 1	545, 1-9	HEF	wnaethon nhw golli yn *Wasps* yn_do neu *er* *er*	---	NST
+
+
+135, 1	547, 1-7	HOW	achos wnaethon nhw guro *Wasps* yn *Strade*	---	NST
+
+
+136, 1	548, 2-10	HEF	ond gollon nhw yn eitha trwm yn yn Llundain	---	NSNT
+
+
+137, 1	551, 1-2	HOW	*oh* *dear*	---	NST
+
+
+138, 1	552, 1-4	HEF	*um* wedyn dw i	NST	NST
+138, 2	552, 5-8	HEF	dw i ddim yn	NSNT	NSNT
+138, 3	552, 9-15	HEF	dw ddim yn *sure* pwy sydd dal	NST	NST
+138, 4	553, 1-2	HEF	dw meddwl	NSNT	NSNT
+138, 5	553, 3-6	HEF	bod gyn Caerdydd obaith	NSNT	NSNT
+138, 6	554, 1-3	HEF	achos *er* mae	NST	NST
+138, 7	554, 4-9	HEF	mae *group* nhw yn eitha sâl	NST	NST
+138, 8	556, 1-7	HEF	mae gynnyn nhw *er* *Perpignan* a *Calvisano*	NST	NST
+138, 9	558, 1-13	HEF	a dw ddim yn a a rywun fel Caerfaddon neu neu na *Leeds*	NST	NST
+138, 10	558, 14-15	HEF	dw meddwl	NSNT	NSNT
+138, 11	560, 1-5	HEF	felly dydy hwnna ddim yn	NSNT	NSNT
+138, 12	562, 1-4	HEF	*yeah* *Leeds* ydy o	NST	NST
+138, 13	563, 1-11	HEF	felly dydy hwnna ddim yn *er* *group* anodd iawn mewn gwirionedd	---	NST
+
+
+139, 1	564, 1-4	HOW	*well* enwedig iddyn nhw	NST	NST
+139, 2	565, 1-5	HOW	ddylsai fo ddim bod chwaith	NSNT	NSNT
+139, 3	565, 6-10	HOW	de o ystyried fath â	NSNT	NSNT
+139, 4	565, 11-23	HOW	lle mae timau eraill yn yn eu gwledydd fath â eu hun a	NSNT	NSNT
+139, 5	565, 24-27	HOW	lle mae Caerdydd chwaraewyr	NSNT	NSNT
+139, 6	568, 1-4	HOW	drudfawr neu beth bynnag	---	NSNT
+
+
+140, 1	570, 1-5	HEF	na mae o yn *um*	NST	NST
+140, 2	570, 6-13	HEF	bod ychydig bach o siom yr *er* fel	NST	NST
+140, 3	570, 14-22	HEF	mae timau Cymru wedi chwarae yn enwedig y Gweilch	NSNT	NSNT
+140, 4	571, 1-3	HEF	ond hynny yw	NSNT	NSNT
+140, 5	571, 4-5	HEF	mae yn	---	NSNT
+
+
+141, 1	572, 1-7	HOW	dw ddim yn synnu cymaint am rheina	NSNT	NSNT
+141, 2	574, 1-9	HOW	*um* dw meddwl achos mai mai *team* eitha dibrofiad	NST	NST
+141, 3	574, 10-14	HOW	sy gynnyn nhw at ei_gilydd	NSNT	NSNT
+141, 4	574, 15-16	HOW	dw meddwl	---	NSNT
+
+
+142, 1	575, 1-7	HEF	*mmm* a mae *lot* o yr chwaraewyr	NST	NST
+142, 2	575, 8-10	HEF	wedi bod ar_goll	NSNT	NSNT
+142, 3	577, 1-2	HEF	dw meddwl	NSNT	NSNT
+142, 4	577, 3-6	HEF	mae nhw wedi cael	NSNT	NSNT
+142, 5	578, 1-9	HEF	mae eitha dipyn o amser ar_ôl yn yr Gynghrair_Geltaidd	NSNT	NSNT
+142, 6	579, 1-5	HEF	ond mae nhw mor isel	NSNT	NSNT
+142, 7	581, 1-4	HEF	dw meddwl na nhw	NSNT	NSNT
+142, 8	581, 5-13	HEF	sy yn ail o yr gwaelod neu rywbeth felly	NSNT	NSNT
+142, 9	584, 1-3	HEF	ond mae yn	NSNT	NSNT
+142, 10	584, 4-8	HEF	mae yn anodd iawn gweld	NSNT	NSNT
+142, 12	586, 1-5	HEF	mae yna nifer o dimau	NSNT	NSNT
+142, 13	587, 1-1	HEF	mae	NSNT	NSNT
+142, 14	587, 2-3	HEF	dw meddwl	NSNT	NSNT
+142, 16	589, 1-4	HEF	*um* achos dw meddwl	NST	NST
+142, 17	589, 5-11	HEF	dw i yn meddwl na yr *Borders*	NST	NST
+142, 18	590, 1-4	HEF	na dw meddwl Caeredin	NSNT	NSNT
+142, 19	590, 5-7	HEF	sy yn ail	---	NSNT
+
+
+143, 1	591, 1-3	HOW	wnes i sylwi	NSNT	NSNT
+143, 2	591, 4-15	HOW	bod timau yr Alban yn wneud gymaint yn well *er* eleni *yeah*	---	NST
+
+
+144, 1	592, 1-5	HEF	*mmm* ond bod nhw wedi	NST	NST
+144, 2	593, 1-2	HEF	mae nhw	NSNT	NSNT
+144, 3	593, 3-7	HEF	wedi bod yn chwarae well	NSNT	NSNT
+144, 4	594, 1-14	HEF	ond mae nhw hefyd yn uwch eu safle yn y cynghrair oherwydd *um* oherwydd	NST	NST
+144, 5	594, 15-27	HEF	eu bod nhw wedi chwarae mwy o gemau gan fod *er* timau Cymru	NST	NST
+144, 6	594, 28-37	HEF	wedi bod yn chwarae gemau *Powergen* ar y penwythnosau yna	---	NST
+
+
+145, 1	597, 1-8	HOW	ond *er* ond ond dw i yn gyffredinol	NST	NST
+145, 2	597, 9-14	HOW	dw yn eitha balch o weld	NSNT	NSNT
+145, 3	597, 15-15	HOW	bod	NSNT	NSNT
+145, 4	597, 16-30	HOW	bod y timau yr Alban yn yn *er* yn uwch y y y tro yma	NST	NST
+145, 5	599, 1-5	HOW	achos *er* dw meddwl bob	NST	NST
+145, 6	600, 1-7	HOW	ydy *Borders* yn dal ar y gwaelod	---	NST
+
+
+146, 1	601, 1-2	HEF	dw meddwl	NSNT	NSNT
+146, 2	601, 3-7	HEF	bod nhw wneud yn well	NSNT	NSNT
+146, 3	602, 1-8	HEF	ond dw meddwl *Connaught* sydd ar y gwaelod	NST	NST
+146, 4	602, 9-14	HEF	dw meddwl ar hyn o bryd	---	NSNT
+
+
+147, 1	605, 1-5	HOW	*oh* mae yn iawn felly	---	NST
+
+
+148, 1	606, 1-3	HEF	ond mae *Connaught*	NST	NST
+148, 2	606, 4-8	HEF	mae *Connaught* yn bach o	NST	NST
+148, 3	607, 1-8	HEF	mae nhw braidd yn yn sâl yn rhy	NSNT	NSNT
+148, 4	608, 1-5	HEF	mae nhw yn gyson sâl	NSNT	NSNT
+148, 5	609, 1-5	HEF	a mae hynna bach yn	NSNT	NSNT
+148, 7	611, 1-4	HEF	wael ar_gyfer yr *er*	---	NST
+
+
+149, 1	613, 1-1	HOW	nhw	---	NSNT
+
+
+150, 1	614, 1-3	HEF	y timau gwyddelig	---	NSNT
+
+
+151, 1	616, 1-4	HOW	dw meddwl na nhw	NSNT	NSNT
+151, 2	616, 5-16	HOW	ydy fath â feeder *club* feeder *club* y lleill neu rywbeth *yeah*	---	ST
+
+
+152, 1	617, 1-2	HEF	mewn gwirionedd	---	NSNT
+
+
+153, 1	618, 1-4	HOW	dw ddim yn gwybod	NSNT	NSNT
+153, 2	620, 1-5	HOW	achos dydy o ddim fel	NSNT	NSNT
+153, 3	620, 6-6	HOW	petasai	NSNT	NSNT
+153, 4	620, 7-15	HOW	gynnon nhw ryw fath o hunaniaeth *rugby* eu hunain	---	NST
+
+
+154, 1	621, 1-2	HEF	dw meddwl	NSNT	NSNT
+154, 2	621, 3-3	HEF	dyna	NSNT	NSNT
+154, 3	621, 4-7	HEF	ydy yr drwg *yeah*	---	NST
+
+
+155, 1	622, 1-17	HOW	achos efo efo *Munster* a *well* efo efo tri *team* arall ond enwedig *Munster* a *Leinster* mae	NST	NST
+155, 2	624, 1-6	HOW	os ti sbïo ar *deam* Iwerddon	NST	NST
+155, 3	626, 1-6	HOW	lle mae chwaraewyr nhw yn dod	---	NSNT
+
+
+156, 1	629, 1-3	HEF	er mae *Ulster*	NST	NST
+156, 2	629, 4-11	HEF	wedi bod yn *er* gryf *um* yn ddiweddar	---	NST
+
+
+157, 1	630, 2-3	HOW	mae nhw	---	NSNT
+
+
+158, 1	631, 1-5	HEF	mae yna dipyn o chwaraewyr	NSNT	NSNT
+158, 2	632, 1-1	HEF	mae	NSNT	NSNT
+158, 3	632, 2-3	HEF	mae fel	NSNT	NSNT
+158, 4	632, 4-13	HEF	petasai yna newid ar ar droed yn *um* *rugby* Iwerddon	NST	NST
+158, 5	633, 2-16	HEF	mae *lot* o yr hen chwaraewyr a *um* fel petasen nhw ar y ffordd allan	NST	NST
+158, 6	634, 1-15	HEF	a mae yna dipyn o rei newydd yn yn dod o o o o *Ulster*	NST	NST
+158, 7	636, 1-2	HEF	*Trimble* a	---	NST
+
+
+159, 1	637, 1-3	HOW	*Trimble* *Trimble* *yeah*	---	NST
+
+
+160, 1	638, 1-1	HEF	*Trimble*	ST	NST
+160, 2	640, 1-4	HEF	i *um* i Reverend	ST	ST
+160, 3	641, 1-5	HEF	*oh* na *Paisley* ydy hwnna	---	NST
+
+
+161, 1	643, 1-14	HOW	*well* ie ond fysai fo ddim yn chwarae mewn *team* Iwerddon unedig beth bynnag	NST	NST
+161, 2	643, 15-16	HOW	na fysai	NSNT	NSNT
+161, 3	645, 1-4	HOW	ond ond ond dw	NSNT	NSNT
+161, 4	645, 5-5	HOW	dyna	NSNT	NSNT
+161, 5	645, 6-13	HOW	ond dw yn gwybod na ryw obaith eitha	NSNT	NSNT
+161, 6	646, 1-10	HOW	mae yn groes i fath â ysbryd y *game* rywsut	NST	NST
+161, 7	647, 1-3	HOW	ond dw gobeithio	NSNT	NSNT
+161, 8	647, 4-10	HOW	bydd Cymru yn gallu sticio i Iwerddon	NSNT	NSNT
+161, 9	649, 1-11	HOW	*er* ym mhen pencampwriaeth y chwe gwlad eleni *just* achos bod	NST	NST
+161, 11	652, 1-4	HOW	*um* felly efo efo	NST	NST
+161, 12	653, 1-3	HOW	fyswn i yn	NSNT	NSNT
+161, 13	653, 4-7	HOW	fyswn i yn gobeithio	NSNT	NSNT
+161, 14	653, 8-16	HOW	bod nhw yn gallu ennill tair *game* o leia	---	NST
+
+
+162, 1	654, 1-4	HEF	*yeah* ond dw yn	NST	NST
+162, 2	654, 5-8	HEF	dw i yn meddwl	NSNT	NSNT
+162, 3	654, 9-16	HEF	bydd Ffrainc yn *er* yn drech na ni	NST	NST
+162, 4	654, 17-19	HEF	dw i meddwl	---	NSNT
+
+
+163, 1	655, 1-3	HOW	dw ddim yn	NSNT	NSNT
+163, 2	655, 4-6	HOW	dw ddim yn	NSNT	NSNT
+163, 3	656, 1-5	HOW	*yeah* dw yn cytuno *yeah*	---	NST
+
+
+164, 1	657, 1-10	HEF	o weld ffordd mae *Toulouse* a *Stade_Francais* wedi *er* chwarae	NST	NST
+164, 2	657, 11-14	HEF	dw ddim yn meddwl	NSNT	NSNT
+164, 3	657, 15-20	HEF	bod lawer o obaith yn_erbyn hynny	---	NSNT
+
+
+165, 1	659, 1-3	HOW	dw i na	NSNT	NSNT
+165, 2	660, 1-4	HOW	na dw i cytuno	NSNT	NSNT
+165, 3	661, 1-3	HOW	*just* curo Lloegr	NST	NST
+165, 4	662, 1-3	HOW	*mmm* os ydy	NST	NST
+165, 5	662, 4-9	HOW	os ydy eejit *Henson* allan *er*	NST	ST
+165, 6	663, 1-4	HOW	na dw ddim yn	---	NSNT
+
+
+166, 1	664, 1-7	HEF	*yeah* dyna yr un o yr pethau	NST	NST
+166, 2	664, 8-12	HEF	oedd yn yn eitha difyr	NSNT	NSNT
+166, 3	664, 13-20	HEF	oedd yn codi o o yr *business* *Henson*	NST	NST
+166, 4	664, 21-25	HEF	oedd *um* yr unig reswm	NST	NST
+166, 5	664, 26-33	HEF	gafodd o ei enwi ar_ôl y *game* *um*	NST	NST
+166, 6	664, 34-35	HEF	oedd gan	NSNT	NSNT
+166, 7	664, 36-36	HEF	nad	NSNT	NSNT
+166, 8	664, 37-42	HEF	oedd yr *ref* wedi ddal o	NST	NST
+166, 9	666, 1-7	HEF	doedd y *ref* heb wedi gosbi fo	NST	NST
+166, 10	668, 1-11	HEF	am *er* luchio ei *er* benelin a trio gicio chwaraewr arall	NST	NST
+166, 11	671, 1-4	HEF	ac mae yn debyg	NSNT	NSNT
+166, 12	671, 5-11	HEF	os bysai fo wedi cael ei gosbi	NSNT	NSNT
+166, 13	673, 1-12	HEF	*kick* rydd yn ei erbyn o neu *kick* gosb neu cerdyn melyn	NST	NST
+166, 14	673, 13-22	HEF	fysai yna ddim *um* modd mynd ymlaen efo *process* enwi	NST	NST
+166, 16	675, 1-3	HEF	a wedyn mae	NSNT	NSNT
+166, 17	675, 4-4	HEF	yr	NSNT	NSNT
+166, 18	675, 5-10	HEF	mae yr gwahaniaeth rhwng y gosb	NSNT	NSNT
+166, 19	677, 1-15	HEF	y gosb eithaf fan yna bysai cael dy yrru ffwrdd o yr o yr cae	NSNT	NSNT
+166, 20	677, 16-22	HEF	os bysai *ref* yn dy ddal di	NST	NST
+166, 21	680, 1-5	HEF	wedyn bysai fo yn colli	NSNT	NSNT
+166, 22	681, 1-4	HEF	dw ddim gwybod deuda	NSNT	NSNT
+166, 23	681, 5-10	HEF	bod yr *game* hanner ffordd drwodd	NST	NST
+166, 24	681, 11-17	HEF	basai yn colli pedwar_deg munud o *rugby*	NST	NST
+166, 26	685, 1-2	HEF	disgyblu yn	NSNT	NSNT
+166, 27	686, 1-2	HEF	mae yn	NSNT	NSNT
+166, 28	686, 3-10	HEF	mae yn andros o o gosb gosb fawr	NSNT	NSNT
+166, 29	687, 1-2	HEF	timod bron	NSNT	NSNT
+166, 30	687, 3-3	HEF	â	NSNT	NSNT
+166, 31	687, 4-11	HEF	bod isio wneud yn amlwg i yr *ref*	NST	NST
+166, 32	689, 1-5	HEF	be wyt ti yn gwneud	NSNT	NSNT
+166, 33	690, 1-11	HEF	achos cofio *Sidoli* a *um* be ydy enw fo *um* *er*	NST	NST
+166, 34	690, 12-15	HEF	clo *um* Iwerddon *O'Connell*	NST	NST
+166, 35	692, 1-12	HEF	yn yn y *game* chwe gwlad yn ar y llawr dyrnu gilydd	NST	NST
+166, 36	695, 1-2	HEF	a timod	NSNT	NSNT
+166, 37	695, 3-3	HEF	wnaeth	NSNT	NSNT
+166, 38	695, 4-12	HEF	wnaeth yr *ref* ddim cosbi yr un ohonyn nhw	NST	NST
+166, 39	697, 1-4	HEF	wnaeth o *just* deud	NST	NST
+166, 40	698, 1-5	HEF	*right* dw wedi gweld hynna	NST	NST
+166, 41	699, 1-2	HEF	stopiwch hynny	NSNT	NSNT
+166, 42	700, 1-2	HEF	cariwch ymlaen	NSNT	NSNT
+166, 43	702, 1-5	HEF	timod i gymharu hynny efo	---	NSNT
+
+
+167, 1	703, 1-3	HOW	*yeah* mae yn	---	NST
+
+
+168, 1	704, 1-5	HEF	oedd yna gyn gyn_lleied o	NSNT	NSNT
+168, 2	705, 1-1	HEF	bod	---	NSNT
+
+
+168, 3	705, 2-14	HEF	bod y ddau yna wedi cael i_ffwrdd efo hi heb unrhyw gosb o_gwbl	NSNT	NSNT
+169, 2	707, 21-31	HOW	roid pen penelin i rywun yn *sly* bach neu beth bynnag	NST	NST
+169, 4	709, 1-2	HOW	ond dw	NSNT	NSNT
+169, 5	709, 3-4	HOW	dw meddwl	NSNT	NSNT
+169, 6	709, 5-10	HOW	mae hynny yn *brecedent* eitha diddorol	NST	NST
+169, 8	711, 1-7	HOW	fath â dw y y *game* yna	NST	NST
+169, 9	711, 8-18	HOW	pan oedd *Neil* wedi *just* bwrw bêl allan o ddwylo rywun	NST	NST
+169, 10	714, 1-16	HOW	a toedd oedd o ddim wedi cael dim cosb ar_ôl y *game* chwaith am hynna er	---	NST
+
+
+169, 11	714, 17-34	HOW	bod hi yn hollol amlwg i bawb a wedi ddal ar y teledu fod o wedi gwneud hynna	NSNT	NSNT
+170, 2	716, 18-24	HEF	lle mae rywun yn cael ei niweidio	---	NSNT
+
+
+171, 1	719, 1-16	HOW	achos oedd *um* *Umaga* ddim wedi cael *er* neu *Alamo* *yeah* am y spear *tackle* enwog	NST	ST
+171, 2	722, 1-13	HOW	do'n do'n do'n i ddim wedi weld hynna ar y teledu ar_ôl hynna	NSNT	NSNT
+171, 4	724, 1-16	HOW	wedi clywed llawer ohono fo llawer amdano fo felly ond dim wedi dim wedi weld o	NSNT	NSNT
+171, 5	725, 1-8	HOW	oedd o wedi ddal ar y camerâu felly	---	NSNT
+
+
+172, 1	726, 1-2	HEF	oedden nhw	NSNT	NSNT
+172, 2	729, 2-5	HEF	oedd o wedi ddal	NSNT	NSNT
+172, 3	730, 1-2	HEF	ond *er*	NST	NST
+172, 4	731, 1-3	HEF	dw ddim gwybod	NSNT	NSNT
+172, 5	732, 1-3	HEF	dydy o ddim	NSNT	NSNT
+172, 6	732, 4-5	HEF	mae yn	NSNT	NSNT
+172, 7	732, 6-11	HEF	mae o yn fwy peryg na	NSNT	NSNT
+172, 8	733, 1-5	HEF	ond doedd o ddim yn	NSNT	NSNT
+172, 9	733, 6-11	HEF	doedd o ddim mor sydyn chwaith	NSNT	NSNT
+172, 10	736, 1-3	HEF	oedd yna rywbeth	NSNT	NSNT
+172, 11	736, 7-16	HEF	oedd *Driscoll* methu wneud unrhyw beth i rwystro yr peth	NST	NST
+172, 12	738, 1-13	HEF	ond oedd o yn eitha araf yn cael ei godi a ei ollwng	NSNT	NSNT
+172, 13	740, 1-5	HEF	wedyn doedd o ddim yn	NSNT	NSNT
+172, 14	740, 6-11	HEF	doedd o ddim mor drawiadol rywsut	NSNT	NSNT
+172, 15	740, 12-18	HEF	â gweld rywun yn penelinio rywun arall	NSNT	NSNT

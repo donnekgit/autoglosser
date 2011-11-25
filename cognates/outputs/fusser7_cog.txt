@@ -1,0 +1,1492 @@
+1, 1	1, 1-7	ANE	*well* dw i dal heb wedi talu	---	NST
+
+
+2, 1	2, 1-2	BLO	yn union	NSNT	NSNT
+2, 2	3, 1-8	BLO	digon haws i mi canslo canslo yr *cheque*	---	NST
+
+
+3, 1	4, 1-3	ANE	*oh* fedri di	NST	NST
+3, 2	4, 4-5	ANE	fedri di	NSNT	NSNT
+3, 3	4, 6-10	ANE	fedran ni sortio fo allan	NSNT	NSNT
+3, 4	4, 11-11	ANE	medran	---	NSNT
+
+
+4, 1	6, 1-8	BLO	*um* oedd y beth hynna i ddeud neithiwr	NST	NST
+4, 2	6, 9-11	BLO	yli at *Tony*	---	NST
+
+
+5, 1	7, 1-2	ANE	ond wsti	NSNT	NSNT
+5, 2	7, 3-9	ANE	oedden ni ddim yn gwbod am hynna	NSNT	NSNT
+5, 3	7, 10-11	ANE	nag oedden	NSNT	NSNT
+5, 4	8, 1-3	ANE	bod yna chwech	NSNT	NSNT
+5, 5	10, 2-11	ANE	bod gynnyn nhw funding i gael chwech lle i *Cofis_Bach*	ST	ST
+5, 6	12, 1-2	ANE	because tibod	NSNT	SNT
+5, 7	13, 1-5	ANE	*um* dw i yn *sure*	NST	NST
+5, 8	13, 6-12	ANE	bod yna rei a *Anna* yn deud	NST	NST
+5, 9	13, 13-19	ANE	bod hi yn wneud canu a pethau	---	NSNT
+
+
+6, 1	15, 1-3	BLO	ond mae *Bridget*	NST	NST
+6, 2	15, 4-9	BLO	fasai *Bridget* licio rywbeth fel yna	NST	NST
+6, 3	15, 10-10	BLO	yli	---	NSNT
+
+
+7, 1	16, 1-7	ANE	*yeah* a geith hi fynd yn y	---	NST
+
+
+8, 1	17, 1-4	BLO	canu ben ei hun	---	NSNT
+
+
+9, 1	18, 1-2	ANE	dyna chdi	NSNT	NSNT
+9, 2	18, 3-4	ANE	geith *um*	NST	NST
+9, 3	19, 1-2	ANE	ceith hi	NSNT	NSNT
+9, 4	20, 1-5	ANE	mae yna llefydd i plant	NSNT	NSNT
+9, 5	20, 6-7	ANE	meddai hi	NSNT	NSNT
+9, 6	21, 1-3	ANE	*yeah* geith *Bridget*	---	NST
+
+
+10, 1	22, 1-4	BLO	fasai hi yn licio	---	NSNT
+
+
+11, 1	23, 1-6	ANE	achos wnaeth hi sôn am *Bridget*	NST	NST
+11, 2	23, 7-7	ANE	yli	---	NSNT
+
+
+12, 1	24, 1-5	BLO	fasai hi yn licio hwnna	---	NSNT
+
+
+13, 1	25, 1-1	ANE	basai	---	NSNT
+
+
+14, 1	26, 1-4	BLO	because mae wedi deud	NSNT	SNT
+14, 2	26, 5-5	BLO	yli	NSNT	NSNT
+14, 3	27, 1-5	BLO	mae am ddod dydd Mawrth	NSNT	NSNT
+14, 4	28, 1-5	BLO	ond dydy ddim isio actio	NSNT	NSNT
+14, 5	29, 1-5	BLO	wneith hi canu yn y	NSNT	NSNT
+14, 6	29, 6-10	BLO	wneith hi ganu yn cefn	NSNT	NSNT
+14, 7	29, 11-12	BLO	meddai hi	---	NSNT
+
+
+15, 1	30, 1-1	ANE	ganu	---	NSNT
+
+
+16, 1	32, 1-4	BLO	wneith hi wneud dawnsio	NSNT	NSNT
+16, 2	32, 5-9	BLO	ond dydy ddim isio actio	---	NSNT
+
+
+17, 1	33, 1-6	ANE	oes yna ddim llawer o actio	NSNT	NSNT
+17, 2	33, 7-7	ANE	sti	---	NSNT
+
+
+18, 1	34, 1-7	BLO	*oh* *yeah* dydy ddim isio wneud o	NST	NST
+18, 2	34, 8-12	BLO	meddai hi because plant bach	NSNT	SNT
+18, 3	34, 13-15	BLO	fydd o ie	NSNT	NSNT
+18, 4	37, 1-4	BLO	*so* mae wedi deud	NST	NST
+18, 5	37, 5-7	BLO	dydy ddim isio	NSNT	NSNT
+18, 6	37, 8-9	BLO	meddai hi	NSNT	NSNT
+18, 7	38, 1-5	BLO	ond hi yn licio canu	---	NSNT
+
+
+19, 1	39, 1-10	ANE	*yeah* ond mae o mwy fath â dim musical ond	NST	ST
+19, 2	40, 1-8	ANE	oes yna ddim ryw *lines* yma ac acw	NST	NST
+19, 3	40, 9-13	ANE	ydy o ti yn gwybod	---	NSNT
+
+
+20, 1	41, 1-7	BLO	mae *just* fath â i cyflwyno fo	NST	NST
+20, 2	41, 8-8	BLO	tydy	---	NSNT
+
+
+21, 1	42, 1-8	ANE	a *just* *yeah* a wedyn *yeah* mwy o	---	NST
+
+
+22, 1	43, 1-3	BLO	na ddeudodd *Bridget*	NST	NST
+22, 2	43, 4-7	BLO	oedd hi ddim isio	NSNT	NSNT
+22, 3	45, 1-6	BLO	*oh* mae hi isio wneud o	NST	NST
+22, 4	45, 7-11	BLO	ond dydy ddim isio actio	NSNT	NSNT
+22, 5	45, 12-13	BLO	meddai hi	NSNT	NSNT
+22, 6	46, 1-12	BLO	doedd hi ddim yn keen ar iawn ar yr actio tro dwytha	NSNT	SNT
+22, 7	47, 1-5	BLO	well gen hi yr canu	NSNT	NSNT
+22, 8	48, 1-8	BLO	*lot* o canu wnaeth hi tro cynt *yeah*	---	NST
+
+
+23, 1	51, 1-2	ANE	oedd yna	NSNT	NSNT
+23, 2	51, 3-4	ANE	mae yna	NSNT	NSNT
+23, 3	51, 5-6	ANE	mae yna	NSNT	NSNT
+23, 4	52, 1-1	ANE	wsti	NSNT	NSNT
+23, 5	52, 2-7	ANE	gawn ni ddim cam efo *Anna*	NST	NST
+23, 6	52, 8-9	ANE	de because	SNT	SNT
+23, 7	53, 1-9	ANE	na *Christine* because mae nhw yn meddwl amdanon ni	NST	ST
+23, 8	54, 1-9	ANE	a apparently mae yr cais yma wedi mynd i_fewn	NSNT	SNT
+23, 9	55, 1-7	ANE	*well* dydy o ddim wedi mynd i_fewn	NST	NST
+23, 10	56, 1-2	ANE	mae *um*	---	NST
+
+
+24, 1	57, 1-7	BLO	do ddôth *Debbie* ddeud wrtha fi ddoe	NST	NST
+24, 2	57, 8-11	BLO	bod *yeah* *Alan* wedi	NST	NST
+24, 3	57, 12-13	BLO	roid o	---	NSNT
+
+
+25, 1	58, 1-6	ANE	*yeah* a mae *Alan* wedi *um*	ST	NST
+25, 2	60, 1-4	ANE	really bacio fo wan	NSNT	SNT
+25, 3	61, 1-6	ANE	mae o wedi dallt mwy am	NSNT	NSNT
+25, 4	61, 7-10	ANE	be mae o amdan	NSNT	NSNT
+25, 5	63, 1-7	ANE	a be dan ni yn trio wneud	NSNT	NSNT
+25, 7	66, 1-3	ANE	dw i wedi	NSNT	NSNT
+25, 8	66, 4-11	ANE	roid y *disk* *Steddfod* a pethau iddi hi	NST	NST
+25, 9	68, 1-6	ANE	a *disk* y *film* a pethau	NST	NST
+25, 10	70, 1-2	ANE	*so* timod	NST	NST
+25, 11	70, 3-8	ANE	mae hynna yn bacio fo fyny	NSNT	NSNT
+25, 12	72, 1-7	ANE	a mae wedi gael *lot* o luniau	NST	NST
+25, 13	73, 1-8	ANE	a mae hi wedi gael laptop wan *so*	---	ST
+
+
+26, 1	74, 1-2	BLO	oedd hynna	NSNT	NSNT
+26, 2	74, 3-5	BLO	be oedd hwnna	---	NSNT
+
+
+27, 1	75, 1-4	ANE	mae yn haws *yeah*	---	NST
+
+
+28, 1	76, 1-12	BLO	i wneud efo o'n i gweld hi chwarae efo fo diwrnod o_blaen	---	NSNT
+
+
+29, 1	77, 1-5	ANE	*yeah* wedyn mae yn haws	NST	NST
+29, 2	77, 6-11	ANE	pan mae nhw yn medru gweld	---	NSNT
+
+
+30, 1	78, 1-7	BLO	o'n i ddim yn deall os oedd	NSNT	NSNT
+30, 2	79, 1-5	BLO	wnaeth hi ddeud *present* Dolig	NST	NST
+30, 3	80, 1-15	BLO	o'n i ddim yn gwybod os *present* Dolig gan y gŵr oedd o ta be	---	NST
+
+
+31, 1	83, 1-3	ANE	*yeah* because *um*	ST	NST
+31, 2	84, 1-3	ANE	mae yn haws	NSNT	NSNT
+31, 3	85, 1-7	ANE	mae hwn yn *rubbish* y computer yma	NST	ST
+31, 4	86, 1-1	ANE	wedyn	---	NSNT
+
+
+32, 1	87, 1-4	BLO	mae yn iawn weithiau	NSNT	NSNT
+32, 2	88, 1-4	BLO	*oh* na wnaeth hi	---	NST
+
+
+33, 1	89, 1-7	ANE	a mae hi yn setio website i_fyny	NSNT	SNT
+33, 2	93, 1-2	ANE	sti wedyn	NSNT	NSNT
+33, 3	93, 3-7	ANE	oes yna ddim excuse wedyn	NSNT	SNT
+33, 4	94, 1-3	ANE	a mae o	NSNT	NSNT
+33, 5	95, 2-5	ANE	os ydy o ar	NSNT	NSNT
+33, 6	96, 1-6	ANE	mae pawb yn mynd ar internet	---	SNT
+
+
+34, 1	97, 1-3	BLO	yndy yn union	---	NSNT
+
+
+35, 1	98, 1-7	ANE	timod os ti yn chwilio amdano fo	NSNT	NSNT
+35, 2	98, 8-11	ANE	fedri di ffeindio fo	---	NSNT
+
+
+36, 1	99, 1-14	BLO	*oh* ddôth *Anna* *er* ddôth *Anna* i siarad efo diwrnod o blaen ynglŷn â	NST	NST
+36, 2	99, 15-17	BLO	bydd yna *um*	---	NST
+
+
+37, 1	100, 1-6	ANE	*oh* *yeah* efo yr celf *yeah*	---	NST
+
+
+38, 1	101, 1-5	BLO	yn fwy o celf *yeah*	NST	NST
+38, 2	102, 1-5	BLO	a a wnes i ddeud	NSNT	NSNT
+38, 3	103, 1-8	BLO	dw i ddim isio mynd ar traed neb	NSNT	NSNT
+38, 4	104, 1-4	BLO	dw i ddim isio	NSNT	NSNT
+38, 5	105, 1-2	BLO	beth am	NSNT	NSNT
+38, 6	106, 1-2	BLO	meddai fi	NSNT	NSNT
+38, 7	107, 1-6	BLO	beth am yr hogan arall *yeah*	NST	NST
+38, 8	108, 1-3	BLO	a mae deud	NSNT	NSNT
+38, 9	109, 1-4	BLO	na mae yn iawn	NSNT	NSNT
+38, 10	110, 1-4	BLO	mae hi efo gwaith	NSNT	NSNT
+38, 11	111, 1-2	BLO	meddai hi	NSNT	NSNT
+38, 13	114, 1-4	BLO	na mae yn iawn	NSNT	NSNT
+38, 14	115, 1-2	BLO	meddai hi	NSNT	NSNT
+38, 15	116, 1-3	BLO	bydda chdi ddim	NSNT	NSNT
+38, 16	117, 1-12	BLO	*yeah* ond os dw i ddim yn wneud y gwaith fi i_fyny	NST	NST
+38, 17	117, 13-16	BLO	be dach chi isio	NSNT	NSNT
+38, 18	118, 1-2	BLO	meddai hi	NSNT	NSNT
+38, 19	119, 1-4	BLO	ond mae yn iawn	NSNT	NSNT
+38, 20	120, 1-3	BLO	mae chdi a	---	NSNT
+
+
+39, 1	121, 1-3	ANE	*yeah* *Emma* *yeah*	---	NST
+
+
+40, 1	122, 1-4	BLO	*Emma* neu rywbeth *yeah*	---	NST
+
+
+41, 1	123, 1-5	ANE	ti cofio est ti lawr	---	NSNT
+
+
+42, 1	124, 1-5	BLO	yn wneud hanner a hanner	---	NSNT
+
+
+43, 1	125, 1-2	ANE	be sy	NSNT	NSNT
+43, 2	125, 3-5	ANE	mae fath â	NSNT	NSNT
+43, 3	126, 1-4	ANE	ti yn nabod *Ann_Andrews*	NST	NST
+43, 4	127, 1-4	ANE	mae hi wedi *um*	NST	NST
+43, 5	128, 1-1	ANE	amdani	---	NSNT
+
+
+44, 1	130, 1-2	BLO	dw i	NSNT	NSNT
+44, 2	130, 3-5	BLO	dw i ddim	NSNT	NSNT
+44, 3	130, 6-12	BLO	dw i ddim yn gwatsiad S_Four_C *lot*	---	ST
+
+
+45, 1	131, 1-3	ANE	a mae *um*	NST	NST
+45, 2	131, 4-8	ANE	mae *Ann* yn dod i_fewn	NST	NST
+45, 4	133, 1-6	ANE	mae *Ann* yn wneud efo *Sbarc*	NST	NST
+45, 5	135, 1-2	ANE	hefo *Freda*	NST	NST
+45, 6	136, 1-13	ANE	wedyn mae hi yn mynd i ddod i_fewn efo *Freda* a a pethau	NST	NST
+45, 7	138, 1-4	ANE	*so* mae fath â	NST	NST
+45, 8	139, 1-1	ANE	mae	NSNT	NSNT
+45, 9	139, 2-5	ANE	gynnon ni mewn ffordd	NSNT	NSNT
+45, 10	139, 6-9	ANE	mae gynnyn nhw *Ann*	NST	NST
+45, 11	139, 10-12	ANE	gynnon ni *Freda*	NST	NST
+45, 12	140, 2-5	ANE	mae o fath â	NSNT	NSNT
+45, 13	141, 1-4	ANE	a wedyn fydda chdi	NSNT	NSNT
+45, 14	141, 5-11	ANE	gynnon ni a *Emma* o fan yna	NST	NST
+45, 16	143, 1-17	ANE	a wnaeth ti cofio ni mynd lawr i *Galeri* i wneud yr *um* yr gwisg *Steddfod* yma	NST	NST
+45, 17	145, 1-6	ANE	adeg yna oedd *Emma* yn dechrau	NST	NST
+45, 18	145, 7-7	ANE	yli	NSNT	NSNT
+45, 19	146, 1-5	ANE	wedyn wnaeth hi helpu *Brian*	NST	NST
+45, 20	147, 1-3	ANE	mae fath â	NSNT	NSNT
+45, 21	148, 1-5	ANE	dw i ddim yn saff	NSNT	NSNT
+45, 22	148, 6-7	ANE	be ydy	NSNT	NSNT
+45, 23	148, 8-11	ANE	be ydy hi yna	SNT	NSNT
+45, 24	149, 1-2	ANE	but timod	NSNT	SNT
+45, 25	149, 3-10	ANE	mae yn gweithio *lot* efo *Christine* a wedyn	ST	NST
+45, 26	151, 1-1	ANE	*so*	ST	NST
+45, 27	152, 1-4	ANE	a mae yn dda	NSNT	NSNT
+45, 28	153, 1-3	ANE	a wedyn timod	NSNT	NSNT
+45, 29	153, 4-8	ANE	gewch chi weithio efo eich_gilydd	---	NSNT
+
+
+46, 1	154, 1-4	BLO	a mae yn deud	NSNT	NSNT
+46, 2	155, 1-11	BLO	iawn wedyn wna i helpu chdi sortio allan dy *fee* di	---	NST
+
+
+47, 1	157, 1-5	ANE	*oh* na mae isio *sure*	---	NST
+
+
+48, 1	159, 1-3	BLO	ond dw i	NSNT	NSNT
+48, 2	159, 4-11	BLO	dw i yn ychydig bach yn yn ofn	NSNT	NSNT
+48, 3	160, 1-2	BLO	meddai fi	NSNT	NSNT
+48, 4	161, 1-10	BLO	rag ofn i fi peidio dod i_fyny at expectations chi	NSNT	SNT
+48, 5	162, 1-5	BLO	ti dallt be dw feddwl	---	NSNT
+
+
+49, 1	163, 1-4	ANE	*yeah* *yeah* ond na	---	NST
+
+
+50, 1	164, 1-5	BLO	*um* a wnaeth hi explain_io	ST	ST
+50, 2	164, 6-6	BLO	bod	NSNT	NSNT
+50, 3	164, 7-15	BLO	oedd peth yna fwy i wneud efo rywbeth mawr	NSNT	NSNT
+50, 4	166, 1-1	BLO	mwy	---	NSNT
+
+
+51, 1	167, 1-8	ANE	basai hi yn wneud pethau fel yna felly	---	NSNT
+
+
+52, 1	169, 1-7	BLO	gynnon ni *broject* mawr mawr ti dallt	NST	NST
+52, 2	169, 8-10	BLO	be dw feddwl	---	NSNT
+
+
+53, 1	170, 1-2	ANE	mawr *yeah*	---	NST
+
+
+54, 1	171, 1-6	BLO	mae hi wedi arfer pethau fwy	---	NSNT
+
+
+55, 1	173, 1-7	ANE	a dydy ddim wedi arfer gweithio ben	NSNT	NSNT
+55, 2	173, 8-10	ANE	ei hun chwaith	NSNT	NSNT
+55, 3	173, 11-11	ANE	sti	---	NSNT
+
+
+56, 1	174, 1-2	BLO	*oh* naddo	---	NST
+
+
+57, 1	175, 1-1	ANE	naddo	NSNT	NSNT
+57, 2	175, 2-8	ANE	mae yn gweithio efo ei *uncle* *lot*	NST	NST
+57, 3	177, 1-2	ANE	wedyn timod	NSNT	NSNT
+57, 4	177, 3-6	ANE	be mae yn wneud	NSNT	NSNT
+57, 5	177, 7-10	ANE	mae o yn brilliant	SNT	SNT
+57, 6	179, 1-6	ANE	*just* yr organise_io ydy o *yeah*	NST	ST
+57, 7	181, 1-1	ANE	dyna	NSNT	NSNT
+57, 8	181, 2-5	ANE	be sy yn *um*	---	NST
+
+
+58, 1	182, 1-3	BLO	mae yn iawn	NSNT	NSNT
+58, 2	182, 4-7	BLO	dw i wedi cael	NSNT	NSNT
+58, 3	183, 1-3	BLO	*real* *boy* wan	---	NST
+
+
+59, 1	187, 1-13	ANE	wnes i ddim meddwl fasa chdi wedi medru roi *hem* ar trowsus *Charlie*	NST	NST
+59, 2	187, 14-14	ANE	ta	NSNT	NSNT
+59, 3	189, 1-3	ANE	dw i ddim	NSNT	NSNT
+59, 4	189, 4-11	ANE	dw i ddim wedi mynd â nhw eto	---	NSNT
+
+
+60, 1	190, 1-2	BLO	i lle	---	NSNT
+
+
+61, 1	191, 1-2	ANE	y *jeans*	---	NST
+
+
+62, 1	192, 1-1	BLO	*jeans*	---	NST
+
+
+63, 1	193, 1-1	ANE	bysachd	NSNT	NSNT
+63, 2	195, 1-4	ANE	*oh* wna i guddio	---	NST
+
+
+64, 1	196, 1-3	BLO	ydy *right* particular	---	ST
+
+
+65, 1	197, 1-2	ANE	nag ydy	NSNT	NSNT
+65, 2	197, 3-9	ANE	ond timod yr fath â yr seam	SNT	SNT
+65, 3	198, 1-4	ANE	fath â rhein wan	NSNT	NSNT
+65, 4	199, 1-5	ANE	na gynno fi ddim un	NSNT	NSNT
+65, 5	200, 1-4	ANE	wyt ti weld wan	---	NSNT
+
+
+66, 1	202, 1-3	BLO	mae yna *double*	---	NST
+
+
+67, 1	203, 1-3	ANE	na *just* bod	---	NST
+
+
+68, 1	204, 1-4	BLO	hwnna fasai yr gwaelod	---	NSNT
+
+
+69, 1	205, 1-4	ANE	hwnna fasai yr gwaelod	---	NSNT
+
+
+70, 1	206, 1-10	BLO	yr *hem* a ydy isio yr *effect* yna eto nôl	---	NST
+
+
+71, 1	207, 2-3	ANE	os fedri	NSNT	NSNT
+71, 2	207, 4-5	ANE	os timod	---	NSNT
+
+
+72, 1	208, 1-4	BLO	wna i weld o	NSNT	NSNT
+72, 2	210, 1-7	BLO	mae yn dibynnu faint o *er* tew	NST	NST
+72, 3	210, 8-10	BLO	ydy yr *jeans*	NST	NST
+72, 4	211, 1-2	BLO	dw i	NSNT	NSNT
+72, 5	211, 3-16	BLO	dw i heb wedi trio yr ar *jeans* eto *just* ar darn o defnydd	NST	NST
+72, 6	213, 1-9	BLO	wneith hwnna wneud o yn dwt iddi ti dallt	NSNT	NSNT
+72, 7	213, 10-12	BLO	be dw feddwl	NSNT	NSNT
+72, 8	215, 1-5	BLO	wna i weld o gynta	NSNT	NSNT
+72, 9	217, 1-6	BLO	a wedyn gei di beth yna	NSNT	NSNT
+72, 10	218, 1-3	BLO	na ddim *problem*	---	NST
+
+
+73, 1	219, 1-4	ANE	wnaeth hi brynu *jeans*	NST	NST
+73, 2	220, 1-7	ANE	a mae nhw yn *jeans* bach del	NST	NST
+73, 3	220, 8-8	ANE	sti	NSNT	NSNT
+73, 4	221, 1-5	ANE	ond mae nhw yn massive	SNT	SNT
+73, 5	222, 1-2	ANE	a timod	NSNT	NSNT
+73, 6	222, 3-6	ANE	mae hi yn dal	NSNT	NSNT
+73, 7	224, 1-5	ANE	ond mae nhw yn hir	NSNT	NSNT
+73, 8	225, 1-4	ANE	ond *um* gynni boots	ST	ST
+73, 9	226, 1-3	ANE	oedd hi meddwl	NSNT	NSNT
+73, 10	226, 4-12	ANE	basai yr boots yn *um* yn iawn efo nhw	---	ST
+
+
+74, 1	227, 1-4	BLO	ond sgratsio yr cefn	---	NSNT
+
+
+75, 1	228, 1-7	ANE	ond dydy o ddim wedi wneud dim	NSNT	NSNT
+75, 2	229, 1-3	ANE	na mae o	NSNT	NSNT
+75, 3	229, 4-7	ANE	mae nhw yn hongian	NSNT	NSNT
+75, 4	231, 1-6	ANE	a mae nhw yn really hir	NSNT	SNT
+75, 5	231, 7-7	ANE	sti	NSNT	NSNT
+75, 6	232, 1-4	ANE	baswn i yn deud	NSNT	NSNT
+75, 7	232, 5-8	ANE	bod nhw tua thirty_four	SNT	SNT
+75, 8	233, 1-4	ANE	dw ddim yn gwybod	---	NSNT
+
+
+76, 1	236, 1-5	BLO	*um* *so* mae edrych fel	NST	NST
+76, 2	236, 6-13	BLO	dan ni yn cael y pres yma felly	---	NSNT
+
+
+77, 1	237, 1-4	ANE	baswn i yn deud	NSNT	NSNT
+77, 3	239, 1-1	ANE	dyna	NSNT	NSNT
+77, 4	240, 2-4	ANE	mae yn deud	NSNT	NSNT
+77, 5	241, 1-5	ANE	paid â poeni amdano fo	NSNT	NSNT
+77, 6	242, 1-2	ANE	felly timod	---	NSNT
+
+
+78, 1	243, 1-6	BLO	*oh* mae yn iawn felly hwnna	NST	NST
+78, 2	245, 1-16	BLO	ond mae yr *thing* efo *um* cael nhw yn *Galeri* yn ddau wahanol beth *grant* arall	NST	NST
+78, 3	246, 1-5	BLO	ydy o ddwy wahanol *grant*	---	NST
+
+
+79, 1	247, 1-2	ANE	efo be	NSNT	NSNT
+79, 2	249, 1-3	ANE	dw ddim gwybod	---	NSNT
+
+
+80, 1	251, 1-6	BLO	fi a *Aneira* sy yn siarad	---	NST
+
+
+81, 1	253, 1-4	ANE	dan ni yn recordio	---	NSNT
+
+
+82, 1	254, 1-5	BLO	ac ac a recordio ni	NSNT	NSNT
+82, 2	255, 1-5	BLO	sut dan ni yn siarad	NSNT	NSNT
+82, 3	256, 1-1	BLO	wan	NSNT	NSNT
+82, 4	257, 1-7	BLO	ymlaen â ni siarad yn eu plith	---	NSNT
+
+
+83, 1	258, 1-2	ANE	pa *grant*	NST	NST
+83, 3	260, 1-4	ANE	*oh* dydy ddim yn	NST	NST
+83, 4	260, 5-5	ANE	gall	NSNT	NSNT
+83, 5	261, 1-2	ANE	pa *grant*	---	NST
+
+
+84, 1	262, 1-5	BLO	pa be dw i feddwl	NSNT	NSNT
+84, 2	262, 7-14	BLO	timod i nhw cael gwersi am ddim yn	---	NSNT
+
+
+85, 1	263, 1-7	ANE	*oh* ie dydy hwnna ddim_byd i wneud	---	NST
+
+
+86, 1	264, 1-4	BLO	mae yn fwy wahanol	NSNT	NSNT
+86, 2	265, 1-6	BLO	mae hwnna i wneud efo *Galeri*	---	NST
+
+
+87, 1	266, 1-4	ANE	*Galeri* ydy hwnna *yeah*	---	NST
+
+
+88, 1	267, 1-8	BLO	ia *oh* *yeah* hwnna be o'n i yn	---	NST
+
+
+89, 1	268, 1-4	ANE	mae nhw fath â	NSNT	NSNT
+89, 2	268, 5-8	ANE	mae nhw yn gael	NSNT	NSNT
+89, 3	269, 1-3	ANE	Cymunedau_yn_Gyntaf dw meddwl	NSNT	NSNT
+89, 4	269, 4-5	ANE	ydy o	NSNT	NSNT
+89, 6	271, 1-5	ANE	mae nhw yn gael pres	NSNT	NSNT
+89, 7	272, 1-4	ANE	*well* mae nhw yn	NST	NST
+89, 8	273, 1-8	ANE	*Alan* wedi ddeud bod yna ddim *problem* felly	NST	NST
+89, 9	275, 1-1	ANE	dyna	NSNT	NSNT
+89, 10	275, 2-9	ANE	be ydy yr pwrpas y *thing* i_gyd *yeah*	---	NST
+
+
+90, 1	277, 1-3	BLO	dw i *um*	NST	NST
+90, 2	277, 4-5	BLO	wnes i	NSNT	NSNT
+90, 3	277, 6-8	BLO	wnes i ffonio	---	NSNT
+
+
+91, 1	278, 1-3	ANE	*oh* mae grantiau	NST	NST
+91, 2	279, 1-4	ANE	timod y sioe wan	NSNT	NSNT
+91, 3	281, 1-4	ANE	mae yr grantiau yma	NSNT	NSNT
+91, 4	282, 1-5	ANE	dan ni yn apply_o am	---	SNT
+
+
+92, 1	283, 1-2	BLO	funding i	---	SNT
+
+
+93, 1	284, 1-18	ANE	fath â funding i ochr ni a mae nhw yn apply_o am funding ochr nhw to an extent	SNT	SNT
+93, 2	285, 1-11	ANE	ond efo *lot* ohonyn nhw fath â llogi a *um* wsti	NST	NST
+93, 3	285, 12-29	ANE	pan mae nhw yn dod i_fyny fan yma a pethau fel yna *um* cael advertising bob_dim fel yna	NST	ST
+93, 4	285, 30-34	ANE	be dan ni yn wneud	NSNT	NSNT
+93, 5	285, 35-44	ANE	ydy *just* gweld y *cost* a sblitio fo lawr canol	---	NST
+
+
+94, 1	286, 1-4	BLO	*oh* ia dim *problem*	---	NST
+
+
+95, 1	287, 1-1	ANE	*so*	---	NST
+
+
+96, 1	288, 1-6	BLO	*so* mae yn rhatach mewn ffordd	---	NST
+
+
+97, 1	289, 1-4	ANE	bydd o yn ratach	NSNT	NSNT
+97, 2	289, 5-5	ANE	bydd	NSNT	NSNT
+97, 3	289, 6-10	ANE	faswn i yn deud *yeah*	NST	NST
+97, 4	290, 1-2	ANE	a mae	NSNT	NSNT
+97, 5	290, 4-10	ANE	mae yn mynd i gostio dipyn because	SNT	SNT
+97, 6	290, 11-14	ANE	mae o yn ddau	NSNT	NSNT
+97, 7	290, 15-16	ANE	noson ddwy	NSNT	NSNT
+97, 8	290, 17-17	ANE	noson	---	NSNT
+
+
+98, 1	292, 1-10	BLO	ond at least gynnon ni *t_shirts* ni gyd yma anyway	---	ST
+
+
+99, 1	293, 1-7	ANE	ia ond dw ddim yn gwybod os	NSNT	NSNT
+99, 2	293, 8-14	ANE	os fyddan nhw isio iwsio rheina na	---	NSNT
+
+
+100, 1	294, 1-3	BLO	pam mae hynna	---	NSNT
+
+
+101, 1	295, 1-6	ANE	because ti ddim isio wneud yr	---	SNT
+
+
+102, 1	296, 1-2	BLO	yr gwahaniaeth	---	NSNT
+
+
+103, 1	297, 1-4	ANE	y gwahaniaeth nag oes	NSNT	NSNT
+103, 2	298, 1-4	ANE	dw ddim yn gwybod	NSNT	NSNT
+103, 3	300, 1-8	ANE	wnes i feddwl am hynna diwrnod o blaen	SNT	NSNT
+103, 4	301, 1-1	ANE	typical	NSNT	NSNT
+103, 5	302, 1-4	ANE	because mae nhw gyd	NSNT	SNT
+103, 6	302, 5-9	ANE	mae nhw yn tyfu i_gyd	---	NSNT
+
+
+104, 1	304, 1-8	BLO	ond at least dydy hynna ddim yn beth	---	SNT
+
+
+105, 1	305, 1-6	ANE	eith o ddim i wast na	NSNT	NSNT
+105, 2	306, 1-5	ANE	yr unig beth ydy ella	NSNT	NSNT
+105, 3	306, 6-18	ANE	eith nhw ry fach i rei ohonyn nhw ond at least gen ti	---	SNT
+
+
+106, 1	307, 1-6	BLO	rei dipyn bach mwy oes i	---	NSNT
+
+
+107, 1	308, 1-5	ANE	gen ti rei os ydy	NSNT	NSNT
+107, 2	309, 1-5	ANE	rei bach sy yn dod	NSNT	NSNT
+107, 3	309, 6-9	ANE	sy yn dŵad fel	NSNT	NSNT
+107, 4	309, 10-13	ANE	arfer yn newydd *yeah*	NST	NST
+107, 5	310, 1-5	ANE	a wedyn gynno chdi rei	---	NSNT
+
+
+108, 1	311, 1-3	BLO	sy yn dropian	---	NSNT
+
+
+109, 1	312, 1-8	ANE	sy yn dropian allan neu y rei bach	NSNT	NSNT
+109, 2	312, 9-11	ANE	sy yn tyfu	NSNT	NSNT
+109, 3	313, 1-4	ANE	a gynno chdi rei	NSNT	NSNT
+109, 4	314, 1-4	ANE	oedd gynno fi *um*	NST	NST
+109, 5	315, 1-4	ANE	beth sy gynno fi	NSNT	NSNT
+109, 6	317, 1-1	ANE	wsti	NSNT	NSNT
+109, 7	317, 2-2	ANE	mae	NSNT	NSNT
+109, 8	317, 3-7	ANE	oedd hwnna yn un mawr	NSNT	NSNT
+109, 9	318, 1-7	ANE	a wedyn *um* dw ddim yn gwybod	NST	NST
+109, 10	318, 8-15	ANE	be mae *Gail* a yr twins yn wneud	---	ST
+
+
+110, 1	320, 1-4	BLO	dw ddim yn gwybod	NSNT	NSNT
+110, 2	321, 1-12	BLO	wnes i ddeud wrth *um* ddeud wrth *Bridget* mond tair ohonyn nhw	NST	NST
+110, 3	321, 13-16	BLO	fasai yna o *Ysgol_Syr_Hugh*	NST	NST
+110, 4	322, 1-3	BLO	a mae hi	NSNT	NSNT
+110, 5	322, 4-7	BLO	oedd hi *right* *um*	---	NST
+
+
+111, 1	323, 1-5	ANE	a mae *Hayley* yn keen	---	ST
+
+
+112, 1	324, 2-7	BLO	mae *Bridget* yn *right* pissed *off*	ST	ST
+112, 2	324, 8-15	BLO	bod o ddim wedi cael dod nos Fawrth	NSNT	NSNT
+112, 3	324, 16-16	BLO	yli	---	NSNT
+
+
+113, 1	325, 1-3	ANE	mae yn bechod	---	NSNT
+
+
+114, 1	326, 1-6	BLO	oedd hi yn strancio yn tŷ	NSNT	NSNT
+114, 2	326, 7-13	BLO	oedd hi strancio yn tŷ noson cynt	NSNT	NSNT
+114, 3	326, 14-18	BLO	bod o'n i wedi deud	NSNT	NSNT
+114, 4	326, 19-24	BLO	bod hi ddim yn cael dŵad	NSNT	NSNT
+114, 5	328, 1-7	BLO	ond oedd o *just* i plant bach	NST	NST
+114, 6	329, 1-10	BLO	*o_k* ella bod fi wedi redeg yn hwyr yn aml	NST	NST
+114, 7	330, 1-6	BLO	ti dallt be dw feddwl because	SNT	SNT
+114, 8	330, 7-11	BLO	mae gen i hogiau pethau	NSNT	NSNT
+114, 11	333, 1-7	BLO	ond *um* dw i ddim isio stopio	NST	NST
+114, 12	334, 1-4	BLO	mae hi yn licio	---	NSNT
+
+
+115, 1	335, 1-4	ANE	*well* mae yn bechod	NST	NST
+115, 2	336, 1-6	ANE	dyna be ddeudes i wrtho *Anna*	NST	NST
+115, 3	337, 1-3	ANE	dw i ddim	NSNT	NSNT
+115, 4	337, 4-7	ANE	dw i ddim yn	NSNT	NSNT
+115, 5	337, 8-14	ANE	dw i ddim yn cytuno efo hynna	NSNT	NSNT
+115, 6	337, 15-19	ANE	yli because os ti yn	NSNT	SNT
+115, 7	338, 2-5	ANE	dan ni wedi stryglo	NSNT	NSNT
+115, 8	339, 1-1	ANE	dyna	NSNT	NSNT
+115, 9	339, 2-4	ANE	ydy yr pwrpas	NSNT	NSNT
+115, 10	340, 1-1	ANE	meddai	NSNT	NSNT
+115, 11	340, 3-4	ANE	medden nhw	NSNT	NSNT
+115, 12	341, 1-6	ANE	a dan ni yn colli nhw	NSNT	NSNT
+115, 13	341, 7-11	ANE	dan ni yn colli nhw	NSNT	NSNT
+115, 14	342, 1-12	ANE	a wedyn ti yn tynnu sioe a dyn nhw ddim yn cael	NSNT	NSNT
+115, 15	342, 13-15	ANE	bod yno fo	NSNT	NSNT
+115, 16	343, 2-4	ANE	dw i feddwl	SNT	NSNT
+115, 17	344, 1-5	ANE	because wnes i deud hynna	NSNT	SNT
+115, 18	344, 6-8	ANE	noson o blaen	NSNT	NSNT
+115, 19	345, 1-12	ANE	fuais i yn meddwl am *Hayley* yli a all of a *sudden*	ST	ST
+115, 20	345, 13-15	ANE	wnes i feddwl	NSNT	NSNT
+115, 21	346, 1-5	ANE	mae hon mewn *uniform* *Syr_Hugh*	NST	NST
+115, 22	347, 1-6	ANE	a wnes i ddeud wrth *Anna*	NST	NST
+115, 23	348, 1-2	ANE	gwranda *Anna*	NST	NST
+115, 24	349, 1-4	ANE	mae *Hayley* yn *Syr_Hugh*	NST	NST
+115, 25	350, 1-6	ANE	*oh* wna i siarad efo *Freda*	NST	NST
+115, 26	351, 1-2	ANE	meddai hi	NSNT	NSNT
+115, 27	352, 1-4	ANE	a ddeudodd *Freda* tibod	NST	NST
+115, 28	353, 1-8	ANE	iawn fath â blwyddyn gynta dyn nhw ie	NSNT	NSNT
+115, 29	355, 1-1	ANE	tibod	NSNT	NSNT
+115, 30	356, 1-2	ANE	ddeudodd hi	NSNT	NSNT
+115, 32	358, 1-4	ANE	*oh* na dim *problem*	NST	NST
+115, 33	359, 1-2	ANE	meddai hi	NSNT	NSNT
+115, 34	360, 1-5	ANE	paid â stopio nhw ddŵad	NSNT	NSNT
+115, 35	361, 1-2	ANE	meddai hi	---	NSNT
+
+
+116, 1	362, 1-8	BLO	wnes i cael y llythyr neithiwr efo *um*	NST	NST
+116, 2	363, 1-5	BLO	wnes i ffonio cwrs yma	---	NSNT
+
+
+117, 1	364, 1-4	ANE	*oh* y cwrs *yeah*	---	NST
+
+
+118, 1	365, 1-6	BLO	dw i newydd siarad efo *Izzy*	NST	NST
+118, 2	366, 1-8	BLO	mae hi yn hapus i fi wneud o	NSNT	NSNT
+118, 3	368, 1-15	BLO	mae hi yn hapus i colli diwrnod o waith o *Hendre* i mynd arno fo	NST	NST
+118, 4	370, 1-4	BLO	ond y peth ydy	NSNT	NSNT
+118, 5	370, 5-12	BLO	dw i wedi gofyn y cwestiynau neithiwr ynglŷn	NSNT	NSNT
+118, 6	370, 13-14	BLO	â *um*	NST	NST
+118, 7	371, 1-5	BLO	be ti yn galw fo	NSNT	NSNT
+118, 8	372, 1-6	BLO	ochr fi o rejistro i dreinio	NSNT	NSNT
+118, 9	373, 1-11	BLO	ond dw i heb wedi gofyn y cwestiynau i cael trainee	SNT	SNT
+118, 10	374, 1-3	BLO	ti yn dallt	NSNT	NSNT
+118, 11	376, 1-6	BLO	mi wnes i ofyn efo *um*	NST	NST
+118, 12	376, 7-17	BLO	os oedd yna rywun *level* dau a isio wneud *level* tri	NST	NST
+118, 13	376, 18-22	BLO	basen nhw yn cael dŵad	NSNT	NSNT
+118, 14	377, 1-10	BLO	a mae yn deud na ond fifteen yn Gymru i_gyd	NSNT	SNT
+118, 15	377, 11-13	BLO	sy cael *um*	---	NST
+
+
+119, 1	378, 1-1	ANE	convert_io	---	NSNT
+
+
+120, 1	379, 1-5	BLO	ia o dau i tri	NSNT	NSNT
+120, 2	380, 1-10	BLO	mae nhw isio fo o dim_byd i syth i tri	---	NSNT
+
+
+121, 1	381, 1-1	ANE	dim_byd	NSNT	NSNT
+121, 2	382, 1-3	ANE	a mae o	---	NSNT
+
+
+122, 1	383, 1-3	BLO	a mae o	---	NSNT
+
+
+123, 1	384, 1-9	ANE	fasai yn dda o beth i *Izzy* wneud o	NST	NST
+123, 2	384, 10-10	ANE	sti	---	NSNT
+
+
+124, 1	385, 1-3	BLO	fasai yn *ideal*	NST	NST
+124, 2	386, 1-13	BLO	fasai fo benefit_io chdi yn cynllun chwarae a benefit_io fi yn fan yna	---	SNT
+
+
+125, 1	387, 1-1	ANE	bysai	NSNT	NSNT
+125, 2	387, 2-2	ANE	fysai	NSNT	NSNT
+125, 3	387, 3-3	ANE	bysai	NSNT	NSNT
+125, 4	388, 1-4	ANE	ond dim *just* hynna	NST	NST
+125, 5	389, 1-6	ANE	mae o yn rywbeth iddi hi	NSNT	NSNT
+125, 6	390, 2-7	ANE	mae wedi wedi briodi mor ifanc	---	NSNT
+
+
+126, 1	391, 1-3	BLO	yn y diwedd	---	NSNT
+
+
+127, 1	392, 1-9	ANE	tibod wan ydy yr amser iddi hi tibod wneud	---	NSNT
+
+
+128, 1	393, 1-1	BLO	wedyn	---	NSNT
+
+
+129, 1	394, 1-3	ANE	a mae yn	NSNT	NSNT
+129, 2	394, 4-6	ANE	mae yn dda	NSNT	NSNT
+129, 3	395, 1-3	ANE	mae yn keen	SNT	SNT
+129, 4	395, 4-5	ANE	yndy tibod	---	NSNT
+
+
+130, 1	397, 1-3	BLO	wnaeth hi ddeud	NSNT	NSNT
+130, 2	397, 4-4	BLO	bod	NSNT	NSNT
+130, 3	397, 5-15	BLO	mae yr coleg yn fath â *um* mynd dipyn bach yn	---	NST
+
+
+131, 1	398, 1-7	ANE	ia *just* am bod hi heb wedi	---	NST
+
+
+132, 1	399, 1-4	BLO	dyma fi yn deud	---	NSNT
+
+
+133, 1	400, 1-9	ANE	ond mae yna ddigon ohonon ni i helpu hi	---	NSNT
+
+
+134, 1	401, 1-4	BLO	dyma fi yn deud	NSNT	NSNT
+134, 2	403, 1-4	BLO	dyma fi yn deud	---	NSNT
+
+
+135, 1	404, 1-5	ANE	a dydy ddim yn *stupid*	NST	NST
+135, 2	404, 6-6	ANE	sti	NSNT	NSNT
+135, 4	407, 1-5	ANE	dw i ddim yn meddwl	NSNT	NSNT
+135, 5	408, 1-5	ANE	dw i ddim yn meddwl	NSNT	NSNT
+135, 6	408, 6-19	ANE	basai hi byth isio bod yn fath â fath â leader fath â chdi	NSNT	SNT
+135, 7	410, 1-4	ANE	dw ddim yn meddwl	NSNT	NSNT
+135, 8	410, 5-12	ANE	basai hi byth isio wneud dim_byd fel yna	NSNT	NSNT
+135, 9	411, 1-8	ANE	ond basa chdi medru dibynnu timod fath â	NSNT	NSNT
+135, 10	411, 9-20	ANE	timod fath â petasa chdi isio mynd i rywle yna neu whatever	---	SNT
+
+
+136, 1	412, 1-3	BLO	*yeah* yn union	---	NST
+
+
+137, 1	413, 1-3	ANE	basai wneud hynna	NSNT	NSNT
+137, 2	415, 1-6	ANE	ond dw i ddim yn meddwl	NSNT	NSNT
+137, 3	416, 1-4	ANE	dim ar y funud	NSNT	NSNT
+137, 4	417, 1-7	ANE	gynni hi ddim o yr confidence timod	NSNT	SNT
+137, 5	419, 1-5	ANE	ond dŵad wneith hynna *yeah*	---	NST
+
+
+138, 1	420, 1-3	BLO	*yeah* tad *yeah*	NST	NST
+138, 2	421, 1-2	BLO	*so* mae	---	NST
+
+
+139, 1	422, 1-8	ANE	a sti pan ti yn apply_o am *jobs*	---	ST
+
+
+140, 1	423, 1-8	BLO	ia *so* wnes i explain_io iddi hi *yeah*	---	ST
+
+
+141, 1	424, 1-1	ANE	dyna	NSNT	NSNT
+141, 2	424, 2-5	ANE	mae nhw yn gofyn	---	NSNT
+
+
+142, 1	425, 1-6	BLO	*um* wnes i ofyn y dau	NST	NST
+142, 2	425, 7-8	BLO	cwestiwn neithiwr	NSNT	NSNT
+142, 3	426, 1-8	BLO	os mae rywun yn angen *um* wneud o	NST	NST
+142, 4	426, 9-22	BLO	a gynnon ni rywun yn y yn cylch ni yn barod yma *yeah* *um*	NST	NST
+142, 5	426, 23-26	BLO	be sy yn digwydd	NSNT	NSNT
+142, 6	427, 1-9	BLO	*well* os gynnoch chi rywun o meddwl yn barod	NST	NST
+142, 7	428, 1-2	BLO	meddai hi	NSNT	NSNT
+142, 8	429, 1-6	BLO	dach chi yn deud wrthon ni	NSNT	NSNT
+142, 9	430, 1-2	BLO	meddai hi	NSNT	NSNT
+142, 10	431, 1-10	BLO	ond dylai fod rhaid i nhw fynd yna efo portfolio	SNT	SNT
+142, 11	431, 11-24	BLO	dylai fod fath â pawb arall a a cael interview yn y coleg *Llangefni*	NST	ST
+142, 12	431, 25-28	BLO	dw i yn presume_io	SNT	SNT
+142, 13	433, 1-6	BLO	because fan yna felly fydd o	---	SNT
+
+
+143, 1	434, 1-6	ANE	*yeah* fan yna fydd o *yeah*	---	NST
+
+
+144, 1	435, 1-8	BLO	ond sut basai hi medru mynd yna wedyn	NSNT	NSNT
+144, 2	435, 9-12	BLO	dw ddim yn gwybod	NSNT	NSNT
+144, 3	436, 1-13	BLO	ond dan ni ddim yn cael dewis pwy sydd yn dod aton ni	NSNT	NSNT
+144, 4	437, 1-9	BLO	a mae yr *lot* gynta yn cychwyn yn February	ST	ST
+144, 5	438, 1-5	BLO	*so* baswn i yn presume_io	ST	ST
+144, 6	438, 6-6	BLO	bod	NSNT	NSNT
+144, 7	438, 7-11	BLO	mae rheina wedi cael *um*	NST	NST
+144, 8	438, 12-16	BLO	mae rheina wedi cael interviews	---	SNT
+
+
+145, 1	439, 1-5	ANE	mae rheina wedi cael interviews	---	SNT
+
+
+146, 1	440, 1-5	BLO	a mae *rest* yn cychwyn	NST	NST
+146, 2	441, 1-7	BLO	dw ddim yn saff iawn os September	SNT	SNT
+146, 3	441, 8-10	BLO	sy yn dŵad	NSNT	NSNT
+146, 4	441, 11-13	BLO	oedd y llall	NSNT	NSNT
+146, 5	443, 1-4	BLO	*oh* wneith o *ideal*	NST	NST
+146, 6	443, 5-6	BLO	wneith i	---	NSNT
+
+
+147, 1	444, 1-6	ANE	*oh* ges i lythyr yn deud	NST	NST
+147, 2	444, 8-13	ANE	bod y y cwrs yn llawn	NSNT	NSNT
+147, 3	445, 1-9	ANE	ond *um* mae enw fi lawr i September felly	NST	ST
+147, 4	445, 10-16	ANE	os dw i dal isio wneud o	---	NSNT
+
+
+148, 1	447, 1-4	BLO	*so* hwnna ydy o	NST	NST
+148, 2	448, 1-10	BLO	a five *pound* five mae nhw yn talu yr awr	NST	ST
+148, 3	449, 1-10	BLO	a wedyn mae yr cylch yn cael per *um* *person*	ST	ST
+148, 4	449, 11-28	BLO	mae ni yn trenio i_fewn yn y cylch three three hundred and thirty_three *pound* per term per trainee	ST	ST
+148, 5	450, 1-2	BLO	*so* mae	---	NST
+
+
+149, 1	451, 1-7	ANE	raid i mi dalu nhw felly *just*	---	NST
+
+
+150, 1	452, 1-3	BLO	naci mae hwnna	NSNT	NSNT
+150, 2	454, 1-7	BLO	dim i dalu ni i trenio nhw	NSNT	NSNT
+150, 3	455, 1-7	BLO	*just* i mynd i_fewn i yr cylch	NST	NST
+150, 4	457, 1-8	BLO	fath â incentive ydy o i chdi cael	---	SNT
+
+
+151, 1	458, 1-15	ANE	*oh* na o'n i yn meddwl na fath â *um* i dalu nhw oedd o	---	NST
+
+
+152, 1	461, 1-9	BLO	na mae hwnna yn mynd i_fewn i yr cylch	SNT	NSNT
+152, 2	462, 1-11	BLO	incentive ydy o ia i chdi i i chdi cymeryd nhw	---	SNT
+
+
+153, 1	463, 1-2	ANE	*oh* da	---	NST
+
+
+154, 1	465, 1-1	BLO	*so*	---	NST
+
+
+155, 1	466, 1-4	ANE	mae hynna yn dda	SNT	NSNT
+155, 2	467, 1-1	ANE	three	SNT	NSNT
+155, 3	469, 1-8	ANE	ydy hwnna yn talu cyflog rywun am term	---	SNT
+
+
+156, 1	470, 1-6	BLO	*well* dim yn bell ohono fo	---	NST
+
+
+157, 1	471, 1-2	ANE	nag ydy	---	NSNT
+
+
+158, 1	472, 1-2	BLO	yn union	NSNT	NSNT
+158, 2	473, 1-13	BLO	ond *um* mae nhw yn ddeud wrtha chdi yn yr *thing* *yeah* *um*	---	NST
+
+
+159, 1	474, 1-7	ANE	because ryw ddeg wythnos ydy tymor *yeah*	---	ST
+
+
+160, 1	475, 1-2	BLO	na chwech	NSNT	NSNT
+160, 2	476, 1-4	BLO	chwech saith chwech saith	NSNT	NSNT
+160, 3	477, 1-10	BLO	na *well* ddaeth nhw wneud yn yn y llythyr ia	NST	NST
+160, 4	477, 11-17	BLO	bod *um* i chdi peidio i chdi	NST	NST
+160, 5	477, 18-27	BLO	gyfri nhw i_fewn fath â *staff* ond i chdi gofio	NST	NST
+160, 6	477, 28-38	BLO	bod nhw yn allan o yr lle am un diwrnod cyfan	---	NSNT
+
+
+161, 1	479, 1-3	ANE	fath â *um*	NST	NST
+161, 3	481, 1-13	ANE	mae o fath â pan ti yn pan ti yn *student* yn rywle	NST	NST
+161, 4	482, 1-19	ANE	ti ti yn y *numbers* ti ddim yn y *numbers* ond ti ar y *staff* *sort* of *thing* *yeah*	---	ST
+
+
+162, 1	483, 1-8	BLO	*well* gei di gyfri nhw yn y *numbers*	NST	NST
+162, 2	484, 1-15	BLO	ond os ti yn cymeryd mwy o blant because mae nhw yna i chdi gofio	NSNT	SNT
+162, 3	484, 16-16	BLO	bod	NSNT	NSNT
+162, 4	484, 17-25	BLO	mae nhw mynd i coleg unwaith y diwrnod wythnos	NSNT	NSNT
+162, 5	486, 1-3	BLO	ond os mae	---	NSNT
+
+
+163, 1	487, 1-8	ANE	dan ni methu cymryd mwy o blant anyway	---	SNT
+
+
+164, 1	488, 1-2	BLO	anyway na	SNT	SNT
+164, 2	489, 1-6	BLO	twenty_four ydy *limit* ni *yeah* *so*	---	ST
+
+
+165, 1	490, 1-6	ANE	twenty_four ydy yr *limit* anyway *yeah*	---	ST
+
+
+166, 1	491, 1-9	BLO	ond eitha *handy* petasai *Izzy* yn gael o because	ST	ST
+166, 2	491, 10-13	BLO	mae *Jenny* yn mynd	NST	NST
+166, 3	492, 1-12	BLO	fe gawn ni rywun wedyn ar *level* tri yn cael ei dysgu	---	NST
+
+
+167, 1	493, 1-1	ANE	bydd	---	NSNT
+
+
+168, 1	494, 1-10	BLO	*so* os yna rywbeth yn digwydd i fi yn sâl	---	NST
+
+
+169, 1	495, 1-6	ANE	i chdi ia at least mae	---	SNT
+
+
+170, 1	496, 1-6	BLO	ti yn dallt be dw feddwl	NSNT	NSNT
+170, 2	498, 1-8	BLO	ddim fod yn be ti yn galw fo	---	NSNT
+
+
+171, 1	499, 1-4	ANE	os *er* geith *Kate*	NST	NST
+171, 2	499, 5-5	ANE	ei	---	NSNT
+
+
+172, 1	500, 1-5	BLO	geith *Kate* cymeryd lle fi	NST	NST
+172, 2	500, 6-13	BLO	ond mae yn well gennyn nhw *certain* amser	---	NST
+
+
+173, 1	501, 1-4	ANE	ond dim ond am	---	NSNT
+
+
+174, 1	503, 1-1	BLO	wsti	NSNT	NSNT
+174, 2	503, 2-4	BLO	wneith dim_byd deud	NSNT	NSNT
+174, 3	503, 5-5	BLO	bod	NSNT	NSNT
+174, 4	503, 6-10	BLO	wneith rywbeth digwydd i fi	NSNT	NSNT
+174, 5	504, 1-13	BLO	ond deud os o'n i yn sâl at least mae *Izzy* yna wedyn	NST	ST
+174, 6	507, 1-4	BLO	yn dysgu *level* tri	---	NST
+
+
+175, 1	508, 1-11	ANE	yn dysgu *level* tri *yeah* *so* mae hi yn iawn wedyn	NST	NST
+175, 2	511, 1-6	ANE	wnaeth *um* *Mam* ffonio fi ddoe	NST	NST
+175, 3	512, 1-4	ANE	mae gwaed bob_dim yn	NSNT	NSNT
+175, 4	513, 1-4	ANE	ges i blood *test*	ST	ST
+175, 5	514, 1-5	ANE	a mae bob_dim yn iawn	NSNT	NSNT
+175, 8	517, 1-13	ANE	oedd yna rei pethau *just* fath â raised by one *point* a pethau	NST	ST
+175, 9	517, 14-18	ANE	ond dyn nhw ddim yn	---	NSNT
+
+
+176, 1	518, 1-2	BLO	dim mega	---	SNT
+
+
+177, 1	519, 1-2	ANE	na dim_byd	---	NSNT
+
+
+178, 1	520, 1-7	BLO	*just* isio edrych dipyn bach yn *pathetic*	---	NST
+
+
+179, 1	521, 1-4	ANE	na timod be ia	NSNT	NSNT
+179, 2	522, 1-5	ANE	oedd *haemoglobin* fi yn thirteen	---	ST
+
+
+180, 1	523, 1-3	BLO	be ydy hwnna	---	NSNT
+
+
+181, 1	524, 1-7	ANE	timod fath â *um* blood count chdi	NST	ST
+181, 2	526, 1-7	ANE	timod pan ti yn anaemic neu rywbeth	---	SNT
+
+
+182, 1	527, 1-3	BLO	*oh* dyna da	---	NST
+
+
+183, 1	528, 1-5	ANE	*yeah* tua eleven ydy o	NST	ST
+183, 2	528, 7-9	ANE	ydy yr average	SNT	SNT
+183, 3	529, 1-3	ANE	ond dw i	NSNT	NSNT
+183, 4	529, 4-8	ANE	wedi bod yn cymryd *um*	---	NST
+
+
+184, 1	530, 1-2	BLO	pain *tablets*	---	NST
+
+
+185, 1	531, 1-4	ANE	*well* multivitamins of iron	ST	NST
+185, 2	532, 1-5	ANE	*so* mae hynna wedi helpu	---	NST
+
+
+186, 1	533, 1-14	BLO	wnaeth *Louise* chdi ofyn wrtha chdi os o'ch chi isio mynd allan nos Sadwrn	---	NST
+
+
+187, 1	534, 2-8	ANE	mae wedi gofyn wrtha fi wysnos dwytha	NSNT	NSNT
+187, 2	535, 1-3	ANE	dim pres *yeah*	---	NST
+
+
+188, 1	536, 1-11	BLO	gynno fi ddim pres ond dw i mynd i ffeindio pres	NSNT	NSNT
+188, 2	538, 1-2	BLO	yndw tad	NSNT	NSNT
+188, 3	539, 1-9	BLO	dw i yn fath â dim ots os hanner	NSNT	NSNT
+188, 4	540, 1-8	BLO	dw i yn teimlo fel yna wythnos yma	---	NSNT
+
+
+189, 1	541, 1-5	ANE	*yeah* bod fi isio mynd	---	NST
+
+
+190, 1	542, 1-3	BLO	dw i isio	NSNT	NSNT
+190, 2	544, 1-5	BLO	*so* dyma fi yn deud	---	NST
+
+
+191, 1	545, 1-12	ANE	mae rhaid i fi mynd adre wedyn a llnau y tŷ yna	NSNT	NSNT
+191, 2	546, 1-3	ANE	mae *Daniel* ia	NST	NST
+191, 3	547, 1-4	ANE	aeth o i wely	NSNT	NSNT
+191, 4	548, 1-7	ANE	mae wedi mynd i wely nos Fawrth	NSNT	NSNT
+191, 5	550, 1-7	ANE	es i o'n i yn absolutely *oh*	ST	ST
+191, 6	551, 1-4	ANE	dw ddim yn gwybod	NSNT	NSNT
+191, 7	551, 5-12	ANE	be oedd y *matter* efo fi nos Fawrth	NST	NST
+191, 8	552, 1-5	ANE	o'n i *just* yn teimlo	NST	NST
+191, 9	553, 1-7	ANE	dw i yn meddwl na dod yn_ôl	NSNT	NSNT
+191, 10	555, 1-1	ANE	a	---	NSNT
+
+
+192, 1	556, 1-11	BLO	hon ydy wythnos gynta fath â yn February a bob_dim *yeah*	---	ST
+
+
+193, 1	557, 1-4	ANE	wythnos gynta a bob_dim	NSNT	NSNT
+193, 2	558, 1-6	ANE	ia a gweithio tan chwech *yeah*	NST	NST
+193, 3	559, 1-6	ANE	ac o'n i fath â *ooph*	NST	NST
+193, 4	560, 1-6	ANE	o'n i yn teimlo yn awful	SNT	SNT
+193, 5	561, 1-5	ANE	a wnes i wneud te	NSNT	NSNT
+193, 6	562, 1-5	ANE	a dyma fi yn deud	NSNT	NSNT
+193, 7	563, 1-6	ANE	*Charlie* dw i yn mynd i_fyny	NST	NST
+193, 8	564, 1-2	ANE	meddai fi	NSNT	NSNT
+193, 9	565, 1-4	ANE	oedd hi tua wyth	SNT	NSNT
+193, 10	566, 1-3	ANE	*yeah* I'm *o_k*	ST	NST
+193, 11	567, 1-5	ANE	dw i hanner awr bach	NSNT	NSNT
+193, 12	567, 6-10	ANE	a fydda i nôl lawr	NSNT	NSNT
+193, 13	568, 1-5	ANE	meddai fi fel yna *yeah*	ST	NST
+193, 14	569, 1-6	ANE	anyway munud nesaf fi yn clywed	NSNT	SNT
+193, 15	570, 1-6	ANE	ti yn mynd i dy wely	NSNT	NSNT
+193, 17	572, 1-8	ANE	wedyn oedd hi wedi cymryd ar efo *Daniel*	NST	NST
+193, 18	573, 1-8	ANE	oedd o yn cysgu erbyn ten past nine	SNT	SNT
+193, 19	575, 1-3	ANE	oedd o wedi	NSNT	NSNT
+193, 20	575, 4-5	ANE	roid o	NSNT	NSNT
+193, 21	576, 1-6	ANE	*right* ti yn dod i *bath*	NST	NST
+193, 22	577, 1-6	ANE	a ti yn mynd i gwely	NSNT	NSNT
+193, 23	578, 1-8	ANE	a paid â symud o yr gwely yna	NSNT	NSNT
+193, 24	579, 1-7	ANE	dw i wedi roi diod i chdi	NSNT	NSNT
+193, 25	580, 1-5	ANE	ti wedi bod am *pee_pee*	NST	NST
+193, 26	581, 1-3	ANE	paid â symud	NSNT	NSNT
+193, 27	582, 1-4	ANE	a wnaeth o ddim	NSNT	NSNT
+193, 28	583, 1-8	ANE	aeth o *straight* i wely ten past nine	ST	ST
+193, 29	584, 1-3	ANE	a dyna fo	NSNT	NSNT
+193, 30	585, 1-7	ANE	ddôth i_fewn efo fi yn ganol nos	NSNT	NSNT
+193, 31	586, 1-7	ANE	ond wnaeth o ddim deffro na ddim_byd	NSNT	NSNT
+193, 32	587, 1-7	ANE	a fi wnaeth ddeffro fo yn bore	NSNT	NSNT
+193, 33	588, 1-1	ANE	wedyn	---	NSNT
+
+
+194, 1	589, 1-5	BLO	ti wedi trio roid y	---	NSNT
+
+
+195, 1	590, 1-4	ANE	neithiwr *yeah* oedden nhw	NST	NST
+195, 2	590, 5-9	ANE	wedi bod yn tŷ *Ed*	---	NST
+
+
+196, 1	591, 1-5	BLO	*so* oedd o yn *hyper*	---	NST
+
+
+197, 1	592, 1-9	ANE	*so* dyma nhw yn dod yn_ôl wyth o gloch	NST	NST
+197, 2	593, 1-6	ANE	*so* o'n i wedi redeg *bath*	ST	NST
+197, 3	594, 1-6	ANE	*right* come on *straight* i *bath*	NST	ST
+197, 4	595, 1-3	ANE	a dw i	NSNT	NSNT
+197, 5	595, 4-9	ANE	wedi bod yn wneud hynna bob	NSNT	NSNT
+197, 6	595, 10-10	ANE	tro	NSNT	NSNT
+197, 7	595, 11-15	ANE	mae nhw yn dod yn_ôl	NSNT	NSNT
+197, 8	596, 1-5	ANE	mae nhw wedi arfer wan	NSNT	NSNT
+197, 9	597, 1-3	ANE	a wnes i	NSNT	NSNT
+197, 10	597, 4-8	ANE	roid o yn ei wely	NSNT	NSNT
+197, 11	598, 1-5	ANE	iawn oedd o yn *fine*	NST	NST
+197, 12	599, 1-7	ANE	wnes i ddim clywed dim gynno fo	NSNT	NSNT
+197, 13	601, 1-8	ANE	a o'n i fewn yn y bore golwg	---	NSNT
+
+
+198, 1	602, 1-11	BLO	be mae o wedi wneud i sbydu yr *er* y bedroom	---	ST
+
+
+199, 1	603, 1-3	ANE	bechod bedroom sti	---	SNT
+
+
+200, 1	604, 1-2	BLO	*oh* bechod	---	NST
+
+
+201, 1	605, 1-14	ANE	glitter a gaeth hi ryw glitter *set* Dolig sti efo gel *pens* a ryw	NST	ST
+201, 2	606, 1-7	ANE	timod y glitter yna ti yn efo	NSNT	SNT
+201, 3	608, 1-4	ANE	mae hyd y lle	NSNT	NSNT
+201, 5	610, 1-6	ANE	fedri di ddim gweld y llawr	---	NSNT
+
+
+202, 1	611, 1-6	BLO	*so* ydy hi wedi disgyn gysgu	NST	NST
+202, 2	611, 7-10	BLO	a mae o wedi	---	NSNT
+
+
+203, 1	612, 1-5	ANE	na mae hi wedi wneud	NSNT	NSNT
+203, 2	613, 1-2	ANE	*oh* paid	NST	NST
+203, 3	614, 1-11	ANE	ers gaeth hi fath â mae o fath â *stage* *thing*	NST	NST
+203, 4	614, 12-18	ANE	sti efo *microphone* fath â *radio* *mike*	NST	NST
+203, 5	616, 1-7	ANE	a pasio *Ethel_Austin* Christmas *Eve* dw meddwl	NST	ST
+203, 6	617, 1-3	ANE	*ooh* yli del	NST	NST
+203, 7	618, 1-2	ANE	meddai hi	NSNT	NSNT
+203, 8	619, 1-5	ANE	*ooh* mae hwnna yn ddel	NST	NST
+203, 9	620, 1-5	ANE	ac o'n i yn meddwl	SNT	NSNT
+203, 10	621, 1-5	ANE	twenty quid wna i *just*	NST	ST
+203, 11	623, 1-3	ANE	dos di nôl	NSNT	NSNT
+203, 12	624, 1-5	ANE	meddai fi fel yna ia	NSNT	NSNT
+203, 13	625, 1-7	ANE	wedyn diwrnod Dolig oedd hi fath â	SNT	NSNT
+203, 14	626, 1-6	ANE	*oh* God mae *Santa_Claus* yn gwybod	NST	ST
+203, 15	626, 7-10	ANE	bod fi isio hwn	NSNT	NSNT
+203, 16	627, 1-4	ANE	oedd hi wedi gwirioni	NSNT	NSNT
+203, 17	628, 1-6	ANE	mae o fath â ryw backdrop	SNT	SNT
+203, 18	628, 7-8	ANE	ydy o	NSNT	NSNT
+203, 19	630, 1-7	ANE	timod fath â *um* y *tents* yma	NST	NST
+203, 20	632, 1-7	ANE	timod *just* fath â *stuff* fel yna	NST	NST
+203, 21	633, 1-9	ANE	fath â ryw backdrop fel yna ryw *pop* rhywbeth	NST	ST
+203, 22	634, 1-7	ANE	a wedyn efo *radio* *mike* yma mae	NST	NST
+203, 23	634, 8-15	ANE	mae yn wneud twrw a applause a pethau	NSNT	SNT
+203, 24	635, 1-6	ANE	wedyn oedd hwnna i_fyny dros Dolig	NSNT	NSNT
+203, 25	636, 1-9	ANE	a wedyn dw i *sure* na New Year's *Eve*	ST	ST
+203, 26	636, 10-18	ANE	mae yn decide_io wneud den yn *room* *front* iawn	---	ST
+
+
+204, 1	637, 1-1	BLO	efo	---	NSNT
+
+
+205, 1	638, 1-2	ANE	efo hwn	NSNT	NSNT
+205, 2	639, 1-3	ANE	*so* mae o	NST	NST
+205, 3	639, 4-4	ANE	mae	NSNT	NSNT
+205, 4	639, 5-5	ANE	yr	NSNT	NSNT
+205, 5	639, 6-13	ANE	mae yr *thing* yn sefyll i_fyny fel hyn	NST	NST
+205, 6	640, 1-4	ANE	ond mae hi wedi	NSNT	NSNT
+205, 7	640, 5-6	ANE	roid o	---	NSNT
+
+
+206, 1	641, 1-1	BLO	*flat*	---	NST
+
+
+207, 1	642, 1-2	ANE	fel yna	NSNT	NSNT
+207, 2	643, 1-4	ANE	*so* mae yna to	NST	NST
+207, 3	645, 1-8	ANE	a mae hwn yn mynd lawr fel hyn	NSNT	NSNT
+207, 4	646, 1-10	ANE	*so* timod *room* *front* fi ti mynd i_fewn fel yna	NST	NST
+207, 5	647, 1-4	ANE	a mae yna *sofa*	NST	NST
+207, 6	648, 1-6	ANE	a yn y canol fan yma	---	NSNT
+
+
+208, 1	649, 1-2	BLO	oedd hwnna	---	NSNT
+
+
+209, 1	650, 1-2	ANE	oedd hwnna	NSNT	NSNT
+209, 2	651, 1-7	ANE	a efo ei *quilt* a ei *pillow*	NST	NST
+209, 3	652, 1-7	ANE	*so* mae yna ers New Year's *Eve*	ST	ST
+209, 5	654, 1-3	ANE	mae yn cysgu	NSNT	NSNT
+209, 7	656, 1-8	ANE	mae yn rolio ei hun yn y *quilt*	NST	NST
+209, 8	656, 10-18	ANE	â ei *pillows* *oh* a ei *um* fath â	NST	NST
+209, 9	657, 1-6	ANE	gynni hi *glass* tables bach sti	NST	ST
+209, 10	658, 1-9	ANE	un o rheina efo ei phethau arno fo tibod	NSNT	NSNT
+209, 11	659, 1-6	ANE	*oh* mae wedi gosod o ddel	NST	NST
+209, 12	660, 1-3	ANE	*so* mae hi	NST	NST
+209, 13	660, 4-8	ANE	wedi bod yn fan yna	NSNT	NSNT
+209, 14	660, 9-9	ANE	yli	NSNT	NSNT
+209, 16	662, 1-6	ANE	a mae wedi cysgu ar ben	NSNT	NSNT
+209, 17	662, 7-11	ANE	ei hun yn fan yna	NSNT	NSNT
+209, 18	664, 1-5	ANE	*so* fan yna mae hi	NST	NST
+209, 19	665, 1-9	ANE	a wedyn aeth hi fewn i bedroom bore yma	NSNT	SNT
+209, 20	666, 1-5	ANE	oedd hi yn crio bechod	NSNT	NSNT
+209, 21	667, 1-2	ANE	*ah* golwg	NST	NST
+209, 22	668, 1-14	ANE	wedyn oedd y ci wedi mynd â ei *doll* *brat* hi allan yn cefn	NST	NST
+209, 23	669, 1-8	ANE	*so* oedd hi ddim yn amused bore yma	NST	ST
+209, 24	670, 1-3	ANE	mae raid fi	---	NSNT
+
+
+210, 1	671, 1-7	BLO	dw i ddim yn sbïo yn bedroom	SNT	SNT
+210, 2	672, 1-10	BLO	oedd bedroom *Freddie* dillad glân o *yeah* i_gyd ar llawr	NST	ST
+210, 3	673, 1-8	BLO	*so* fydd raid fi olchi nhw eto yn_fydd	---	NST
+
+
+211, 1	674, 1-12	ANE	a dim *just* ti yn gwybod be sy yn gael fi *yeah*	NST	NST
+211, 2	675, 1-7	ANE	dw i yn cadw dillad yma iawn	NSNT	NSNT
+211, 3	676, 1-2	ANE	wedyn timod	NSNT	NSNT
+211, 4	676, 3-15	ANE	fydda i ddim yn mynd i bedroom *top* yna tan bob dydd Sul	NST	ST
+211, 5	676, 16-17	ANE	timod a	NSNT	NSNT
+211, 6	677, 1-3	ANE	*right* cliriwch bedroom	ST	ST
+211, 7	678, 1-6	ANE	dillad i_lawr a cliriwch y bedroom	SNT	SNT
+211, 8	679, 1-5	ANE	a mi wnawn nhw wneud	NSNT	NSNT
+211, 9	680, 1-8	ANE	basen nhw ddim yn meddwl wneud eu hunain	NSNT	NSNT
+211, 10	681, 1-4	ANE	ond mi wnawn nhw	NSNT	NSNT
+211, 11	681, 5-9	ANE	os dw i yn gwylltio	NSNT	NSNT
+211, 12	681, 10-16	ANE	a mae nhw yn gorod wneud o	NSNT	NSNT
+211, 13	682, 1-8	ANE	munud nesa dw i yn roi washing i_fewn	NSNT	SNT
+211, 14	683, 1-4	ANE	a dw i meddwl	SNT	NSNT
+211, 15	684, 1-8	ANE	no way mae nhw wedi wisgo hwnna *yeah*	---	ST
+
+
+212, 1	685, 1-3	BLO	*yeah* dw gwybod	---	NST
+
+
+213, 1	686, 1-5	ANE	*so* beth mae nhw ella	NST	NST
+213, 2	686, 6-15	ANE	bod nhw wedi mynd i chwilio am rywbeth i wisgo	NSNT	NSNT
+213, 3	686, 16-22	ANE	a mae nhw wedi tynnu pethau allan	NSNT	NSNT
+213, 4	687, 1-5	ANE	ond mae gormod o drafferth	NSNT	NSNT
+213, 5	687, 6-8	ANE	roid o nôl	NSNT	NSNT
+213, 6	688, 1-4	ANE	mae yn y wash	---	SNT
+
+
+214, 1	690, 1-10	BLO	a fath â timod dros Dolig o'n i yn gwybod	NSNT	NSNT
+214, 2	690, 11-20	BLO	bod y *uniforms* o'n i wedi wneud nhw yn syth	---	NST
+
+
+215, 1	691, 1-7	ANE	ie o'n i wedi wneud hynna hefyd	---	NSNT
+
+
+216, 1	692, 1-11	BLO	a wedyn New Year's *Eve* ia oedden nhw nôl lawr yna	NST	ST
+216, 4	695, 1-5	BLO	be ti yn wneud *yeah*	NST	NST
+216, 5	696, 1-6	BLO	dach chi heb wedi gwisgo nhw	NSNT	NSNT
+216, 6	696, 7-11	BLO	ond mae nhw yn fudr	NSNT	NSNT
+216, 7	697, 1-6	BLO	*oh* sut mae nhw yn fudr	NST	NST
+216, 8	698, 1-2	BLO	mae nhw	NSNT	NSNT
+216, 9	698, 3-6	BLO	wedi bod ar llawr	NSNT	NSNT
+216, 10	700, 1-16	BLO	a pethau *football* hi a timod *um* *rugby* *um* be ti galw nhw *um* socks *yeah*	ST	ST
+216, 11	701, 1-3	BLO	mae rheina yn	NSNT	NSNT
+216, 12	701, 4-8	BLO	mae nhw yn dewach na	NSNT	NSNT
+216, 13	703, 1-4	BLO	o'n i rhegi de	NSNT	NSNT
+216, 14	704, 1-5	BLO	o'n i not amused o_gwbl	---	SNT
+
+
+217, 1	707, 1-3	ANE	ond oedd *um*	NST	NST
+217, 2	707, 4-6	ANE	oedd yna ryw	NSNT	NSNT
+217, 3	707, 7-9	ANE	mae union fel	NSNT	NSNT
+217, 4	707, 10-17	ANE	bod hi yn yr ha trwy yr flwyddyn	NSNT	NSNT
+217, 5	707, 18-18	ANE	sti	SNT	NSNT
+217, 7	709, 1-1	ANE	*shorts*	ST	NST
+217, 8	710, 1-6	ANE	o'n i yn meddwl *er* be	---	NST
+
+
+218, 1	711, 1-3	BLO	be yn tŷ	---	NSNT
+
+
+219, 1	712, 1-4	ANE	naci yn y wash	SNT	SNT
+219, 2	713, 1-8	ANE	*shorts* bach fath â timod really bach ha	NST	ST
+219, 3	713, 9-9	ANE	sti	NSNT	NSNT
+219, 4	714, 1-6	ANE	pa bryd wnest ti wisgo rhein	NSNT	NSNT
+219, 5	715, 1-7	ANE	*oh* wnes i estyn nhw i gym	ST	ST
+219, 6	716, 1-5	ANE	*yeah* wnest ti wisgo nhw	NST	NST
+219, 7	717, 1-1	ANE	naddo	NSNT	NSNT
+219, 8	718, 1-2	ANE	timod flip	SNT	SNT
+219, 9	718, 3-4	ANE	mae gynno	NSNT	NSNT
+219, 10	718, 6-11	ANE	mae gynno chdi ddigon o olchi	NSNT	NSNT
+219, 11	718, 12-13	ANE	oes heb	---	NSNT
+
+
+220, 1	719, 1-7	BLO	oedd washing_machine fi wedi malu dros Dolig	NSNT	SNT
+220, 2	720, 1-4	BLO	*oh* ddim wedi malu	NST	NST
+220, 3	722, 1-8	BLO	*um* tibod y peth *rubber* *thing* yna *round*	ST	NST
+220, 4	724, 1-16	BLO	anyway o'n i wedi stwffio bob_dim i_fewn ia a fath â dw i wneud fel arfer	NSNT	SNT
+220, 5	725, 1-3	BLO	a wedyn oedd	NSNT	NSNT
+220, 7	726, 1-13	BLO	a wrtho fo sbinio oedd o wedi fath â torri twll yno fo	NSNT	NSNT
+220, 8	727, 1-6	BLO	*so* yn y wash wedyn de	NST	ST
+220, 9	727, 7-10	BLO	rois i fewn *yeah*	NST	NST
+220, 10	727, 11-16	BLO	a oedd y dŵr llifo allan	NSNT	NSNT
+220, 11	729, 1-5	BLO	*so* wnes i ffonio *well*	NST	NST
+220, 12	729, 6-14	BLO	wnaeth *Graham* ffonio *boy* *um* washing_machine yn *um* *Bangor*	NST	ST
+220, 13	730, 1-7	BLO	ddôth o draw a mae yn deud	NSNT	NSNT
+220, 14	731, 1-3	BLO	agor y *top*	NST	NST
+220, 15	732, 1-2	BLO	meddai fo	NSNT	NSNT
+220, 16	733, 1-12	BLO	troi y *thing* completely *round* a wneith o wneud o i chdi	---	ST
+
+
+221, 1	734, 1-5	ANE	*oh* *yeah* wneith o wneud	---	NST
+
+
+222, 1	735, 1-3	BLO	cewch chi ddim	NSNT	NSNT
+222, 2	736, 1-2	BLO	meddai fi	SNT	NSNT
+222, 3	737, 1-4	BLO	because o'n i meddwl	SNT	SNT
+222, 4	738, 1-6	BLO	*oh* here we go *cost* arall	NST	ST
+222, 5	739, 1-4	BLO	a wnaeth o wneud	NSNT	NSNT
+222, 6	740, 1-7	BLO	wedyn mae o upside_down mewn ffordd wan	---	SNT
+
+
+223, 1	741, 1-11	ANE	*oh* *yeah* because dydy yr dŵr ddim yn cyrraedd fan yna	NST	ST
+223, 2	741, 12-13	ANE	nag ydy	---	NSNT
+
+
+224, 1	744, 1-8	BLO	mae yr *er* dŵr tueddol fod yn gwaelod	NST	NST
+224, 2	744, 10-18	BLO	pan mae o yn tollti allan ti ddallt feddwl	NSNT	NSNT
+224, 3	745, 1-4	BLO	*so* adeg yna golwg	---	NST
+
+
+225, 1	746, 1-2	ANE	*oh* paid	---	NST
+
+
+226, 1	747, 1-3	BLO	a ges i	NSNT	NSNT
+226, 2	747, 4-6	BLO	honna wedyn *um*	NST	NST
+226, 3	748, 1-4	BLO	pryd oedd hi dŵad	NSNT	NSNT
+226, 4	749, 1-2	BLO	dydd Llun	NSNT	NSNT
+226, 5	750, 1-4	BLO	dw ddim yn cofio	NSNT	NSNT
+226, 6	751, 1-5	BLO	mae yna twrw dŵr yma	NSNT	NSNT
+226, 7	752, 1-5	BLO	be ti feddwl twrw dŵr	NSNT	NSNT
+226, 8	753, 1-5	BLO	mae yna twrw dŵr yma	NSNT	NSNT
+226, 9	754, 1-5	BLO	redes i fyny llofft de	NSNT	NSNT
+226, 10	755, 1-4	BLO	na es i kitchen	SNT	SNT
+226, 11	755, 5-6	BLO	wnes i	NSNT	NSNT
+226, 12	756, 1-13	BLO	a oedd yna tua fel yna o ddŵr ar llawr dod trwy to	---	NSNT
+
+
+227, 1	757, 1-1	ANE	paid	---	NSNT
+
+
+228, 1	758, 1-5	BLO	*um* timod cistern *um* *toilet*	ST	ST
+228, 2	760, 1-10	BLO	ti roid un o pethau glas i_fewn i chdi medru	NSNT	NSNT
+228, 3	761, 1-8	BLO	o'n i wedi roid un peth glas fewn	NSNT	NSNT
+228, 4	762, 1-7	BLO	ac oedd o wedi mynd yn *stuck*	---	NST
+
+
+229, 1	763, 1-8	ANE	a oedd o yn *stuck* yn y *thing*	---	NST
+
+
+230, 1	764, 1-6	BLO	yn *stuck* yn y *thing* *yeah*	NST	NST
+230, 2	765, 1-6	BLO	oedd o dod trwy to ie	NSNT	NSNT
+230, 3	766, 1-5	BLO	ac o'n i meddwl na	NSNT	NSNT
+230, 4	767, 1-10	BLO	oedd o fath â swimming *pool* *Bangor* yn kitchen ni	NST	ST
+230, 5	768, 1-3	BLO	a *mop* fi	NST	NST
+230, 6	769, 1-6	BLO	rois i *fling* i *towels* i_gyd	NST	NST
+230, 7	770, 1-5	BLO	ac o'n i fath â	NSNT	NSNT
+230, 9	772, 1-3	BLO	a sgrechian *Graham*	NST	NST
+230, 10	773, 1-5	BLO	wnei di drwsio yr *mop*	NST	NST
+230, 12	775, 1-4	BLO	o'n i ddim wedi	---	NSNT
+
+
+231, 1	776, 1-6	ANE	a dw i isio wneud hynna	NSNT	NSNT
+231, 3	778, 1-3	ANE	mae o mynd	NSNT	NSNT
+231, 4	779, 1-4	ANE	timod y lle tsiaen	NSNT	NSNT
+231, 5	780, 1-17	ANE	mynd yn *stuck* yn fan yna ar y ar y pêl yna fan yna mae o felly	NST	NST
+231, 7	783, 1-6	ANE	a mae *just* constantly peth yna	ST	ST
+231, 9	785, 1-2	ANE	*oh* God	---	NST
+
+
+232, 1	786, 1-8	BLO	ond o'n i ddim yn dallt lle oedd	NSNT	NSNT
+232, 2	787, 1-5	BLO	o'n i yn clywed o	NSNT	NSNT
+232, 3	788, 1-11	BLO	ond do'n i ddim yn gweld ti dallt be dw feddwl	NSNT	NSNT
+232, 4	789, 1-6	BLO	o'n i yn gwybod bod neb	NSNT	NSNT
+232, 5	789, 7-14	BLO	wedi bod yn *bathroom* ers tua hanner awr	NST	NST
+232, 6	790, 1-4	BLO	yfi wnaeth dechrau hwnna	NSNT	NSNT
+232, 8	792, 1-3	BLO	o'n i sâl	NSNT	NSNT
+232, 9	793, 1-1	BLO	golwg	---	NSNT
+
+
+233, 1	794, 1-6	ANE	wnes i o'n i yn eistedd	NSNT	NSNT
+233, 2	795, 1-5	ANE	fydd raid fi ffonio *Tai_Eryri*	NST	NST
+233, 3	795, 6-6	ANE	sti	SNT	NSNT
+233, 4	796, 1-3	ANE	because bob tro	NSNT	SNT
+233, 5	796, 4-11	ANE	mae kids yma mynd i *bath* *yeah* weithiau	NST	ST
+233, 6	797, 1-3	ANE	mae yn dibynnu	NSNT	NSNT
+233, 7	798, 1-9	ANE	fath â neithiwr wnes i wneud iddyn nhw tibod	NSNT	NSNT
+233, 8	799, 1-5	ANE	a weithiau wna i ddeud	NSNT	NSNT
+233, 9	800, 1-5	ANE	*right* cerwch i yr *bath*	NST	NST
+233, 10	801, 1-8	ANE	a dw i yn eistedd ar grisiau *yeah*	---	NST
+
+
+234, 1	802, 1-7	BLO	a mae dŵr yn dod trwy yr	---	NSNT
+
+
+235, 1	803, 1-14	ANE	o'n i meddwl o'n i yn clywed fath â twrw *drip* yma sti meddwl	NST	NST
+235, 2	804, 1-9	ANE	lle uffar mae yr *drip* yma yn dod o	NST	NST
+235, 3	805, 1-5	ANE	a fi yn sbïo de	NSNT	NSNT
+235, 4	806, 1-8	ANE	*line* fel yna ar_hyd y ceiling o drips	ST	ST
+235, 5	807, 1-5	ANE	a mae o yn dod	NSNT	NSNT
+235, 6	807, 6-17	ANE	dw i ddim yn gwybod mynd lawr ochr y *bath* neu rywbeth	NST	NST
+235, 7	808, 1-5	ANE	*oh* dyma fi fyny de	NST	NST
+235, 8	809, 1-9	ANE	fath â ti yn deud swimming *pool* ar lawr	---	ST
+
+
+236, 1	810, 1-1	CIG	*sorry*	---	NST
+
+
+237, 1	812, 1-9	ANE	ia fath â swimming *pool* ar ar llawr *bathroom*	NST	ST
+237, 2	813, 1-9	ANE	wedyn mae o yn dod lawr yr *thing* i_gyd	NST	NST
+237, 3	814, 1-8	ANE	un diwrnod *yeah* fydda i yn eistedd yna	NST	NST
+237, 4	815, 1-7	ANE	a fydd y *bath* yn dod i_lawr	---	NST
+
+
+238, 1	816, 1-3	CIG	chi gorffen tapio	---	NSNT
+
+
+239, 1	817, 1-3	BLO	na mae tapio	NSNT	NSNT
+239, 2	818, 1-6	BLO	dan ni *just* yn siarad am	---	NST
+
+
+240, 1	819, 1-6	CIG	yn gwybod lle mae yr goriad	NSNT	NSNT
+240, 2	819, 7-8	CIG	nag oes	---	NSNT
+
+
+241, 1	821, 1-1	ANE	*box*	---	NST
+
+
+242, 1	822, 1-2	BLO	*Margaret* *office*	---	NST
+
+
+243, 1	823, 1-8	CIG	goriad bach i i i *um* cwpwrdd ni	---	NST
+
+
+244, 1	824, 1-7	BLO	dydy o ddim yn *stuck* efo fo	---	NST
+
+
+245, 1	825, 1-1	CIG	naci	---	NSNT
+
+
+246, 1	826, 1-6	ANE	mae fod yn y *box* tibod	---	NST
+
+
+247, 1	829, 1-5	BLO	faint o gloch dydd Mercher	---	NSNT
+
+
+248, 1	830, 1-3	ANE	dw ddim gwybod	NSNT	NSNT
+248, 4	833, 1-7	ANE	fydd raid ni wneud y llythyr yna	NSNT	NSNT
+248, 5	833, 8-8	ANE	sti	NSNT	NSNT
+248, 6	834, 1-8	ANE	neu fydd ni yn gael null communication eto	NSNT	SNT
+248, 7	835, 1-9	ANE	*yeah* dw i yn deud wrtha chdi un diwrnod	NST	NST
+248, 8	835, 10-13	ANE	fydda i yn eistedd	NSNT	NSNT
+248, 9	836, 1-6	ANE	dw i ddim yn eistedd wan	NSNT	NSNT
+248, 10	837, 1-8	ANE	mae yna gadair o_dan y *bath* deuda *yeah*	NST	NST
+248, 11	838, 1-10	ANE	a dw i ddim yn eistedd fan yna ddim mwy	NSNT	NSNT
+248, 12	839, 1-12	ANE	ti yn eistedd ar *sofa* rag ofn i yr *bath* dod drwadd	NST	NST
+248, 13	840, 1-11	ANE	fath â pwy yna pwy yna fyddan ni y *Battersbys* yna	NST	NST
+248, 15	842, 1-6	ANE	a yr ci yr un fath	---	NSNT
+
+
+249, 1	843, 1-2	BLO	*well* mae	NST	NST
+249, 2	843, 3-8	BLO	wedi bod fel yna tŷ ni	---	NSNT
+
+
+250, 1	845, 1-9	ANE	dim ots gynnyn nhw ddim parch at dim_byd na	NSNT	NSNT
+250, 2	847, 1-4	ANE	gynnyn nhw ddim *yeah*	---	NST
+
+
+251, 1	848, 1-13	BLO	bore ddoe ia ddaeth *Harry* lawr efo ei esgidiau o'n i wedi prynu	NST	NST
+251, 2	848, 14-19	BLO	baswn i yn deud rei Nineties	SNT	SNT
+251, 3	849, 1-5	BLO	be ti yn galw fo	---	NSNT
+
+
+252, 1	850, 1-4	ANE	*Total_Nineties* sôn am esgidiau	---	NST
+
+
+253, 1	853, 1-5	BLO	*so* fo dod i_lawr grisiau	NST	NST
+253, 2	854, 1-4	BLO	a fi yn deud	NSNT	NSNT
+253, 3	855, 1-11	BLO	mae dy sock di yn dod allan o dy esgid di	NSNT	SNT
+253, 4	856, 1-6	BLO	meddai fi wrtho fo bore ddoe	NSNT	NSNT
+253, 5	857, 1-2	BLO	nag ydy	NSNT	NSNT
+253, 6	858, 1-2	BLO	meddai fo	NSNT	NSNT
+253, 7	859, 2-6	BLO	dw i yn gweld du	NSNT	NSNT
+253, 8	860, 1-5	BLO	o'n i gweld *patch* du	NST	NST
+253, 10	862, 2-8	BLO	mae wedi tynnu yr *um* wedi crafu	NST	NST
+253, 11	863, 1-5	BLO	oedd gynno dwll fel yna	NSNT	NSNT
+253, 12	864, 1-7	BLO	ella na wedi tynnu yr peth *plastic*	NST	NST
+253, 13	865, 1-9	BLO	a dydyn nhw ddim yn hynna o hen sti	SNT	NSNT
+253, 14	866, 1-10	BLO	because mae yr *grip* o_dan dal i fod *right* da	NST	ST
+253, 15	867, 1-5	BLO	ac oedd yna dafod yna	NSNT	NSNT
+253, 16	868, 1-5	BLO	o'n i yn blin de	NSNT	NSNT
+253, 17	869, 1-9	BLO	mae *Freddie* dod lawr grisiau wedyn ia efo *pumps*	NST	NST
+253, 18	870, 1-11	BLO	oedd yna ddim math o careiau ar y *pumps* yma o_gwbl	---	NST
+
+
+254, 1	871, 1-4	ANE	mae *Ian* fel yna	---	NST
+
+
+255, 1	872, 1-2	BLO	dim math	NSNT	NSNT
+255, 2	873, 1-4	BLO	mae nhw yn gyffyrddus	NSNT	NSNT
+255, 3	874, 1-5	BLO	*oh* ti mynd i ysgol	NST	NST
+255, 4	875, 1-5	BLO	*so* neithiwr es i *J_J_B_Sports*	NST	NST
+255, 5	876, 1-4	BLO	gyn i cardyn *J_J_B*	NST	NST
+255, 6	877, 1-6	BLO	ond basen nhw yn drud heb	NSNT	NSNT
+255, 7	878, 1-3	BLO	dw i gwybod	NSNT	NSNT
+255, 8	878, 4-10	BLO	mae o yn costio *lot* *yeah* ond	---	NST
+
+
+256, 1	879, 1-7	ANE	ia ond raid i chdi wneud yli	---	NSNT
+
+
+257, 1	880, 1-5	BLO	ond tan mae yna *sale*	NST	NST
+257, 2	880, 6-10	BLO	dydy o ddim yn bad	SNT	SNT
+257, 3	881, 1-4	BLO	*so* es i yna	---	NST
+
+
+258, 1	883, 1-5	ANE	fydd yna dy lluniau yna	NSNT	NSNT
+258, 2	883, 6-12	ANE	mae *Anna* wedi wedi fynd â fi	NST	NST
+258, 3	884, 1-6	ANE	*oh* na mae wedi download_io nhw	NST	ST
+258, 4	885, 1-5	ANE	mae mynd i download_io nhw	---	SNT
+
+
+259, 1	888, 1-4	BLO	*so* wnes i *um*	NST	NST
+259, 2	888, 5-8	BLO	es i lawr yna	NSNT	NSNT
+259, 3	888, 9-12	BLO	es i yna neithiwr	NSNT	NSNT
+259, 4	889, 1-4	BLO	ac ges i tri	NSNT	NSNT
+259, 5	889, 5-9	BLO	pâr o *pumps* du da	NST	NST
+259, 6	889, 10-24	BLO	sy yn *make* da a *um* swimming *costumes* swimming *costumes* ia two quid hogiau ia	---	ST
+
+
+260, 1	890, 1-1	ANE	naci	---	NSNT
+
+
+261, 1	891, 1-12	BLO	a four quid dales i am two_piece i *Bridget* rei *ladies* sti	NST	ST
+261, 2	893, 1-3	BLO	rei *Adidas* da	NST	NST
+261, 3	895, 1-9	BLO	a forty five *pound* oedd bob_dim o'n wedi brynu	---	ST
+
+
+262, 1	896, 1-1	ANE	asu	NSNT	NSNT
+262, 2	898, 1-6	ANE	a tri pâr o *bumps* hefyd	NST	NST
+262, 3	900, 1-11	ANE	wnes i brynu *pumps* i *James* *yeah* *um* diwrnod o blaen	NST	NST

@@ -1,0 +1,1904 @@
+
+
+1, 1	1, 1-1	ART	*eh*	---	NST
+
+
+2, 1	3, 1-4	RES	gei di siarad *Arthur*	---	NST
+
+
+3, 1	4, 1-4	JEA	*Sandra* ti yn shower	---	ST
+
+
+4, 1	5, 1-5	SAN	a i â fo nesa	NSNT	NSNT
+4, 2	6, 1-7	SAN	dw i *just* yn torri gwinedd fi	---	NST
+
+
+5, 1	8, 1-6	RES	isio chi siarad efo eich_gilydd really	---	SNT
+
+
+6, 1	9, 1-2	JEA	*well* oes	NST	NST
+6, 2	10, 1-6	JEA	mae o allan a finnau mewn	---	NSNT
+
+
+7, 1	11, 1-4	RES	*oh* na ti chimod	---	NST
+
+
+8, 1	12, 1-5	JEA	ti yn aros i_mewn wan	NSNT	NSNT
+8, 2	14, 1-6	JEA	o'n i mynd i wneud paned	---	NSNT
+
+
+9, 1	15, 1-7	GRG	gymra i baned os gwelwch yn dda	---	NSNT
+
+
+10, 1	16, 1-6	JEA	*coffee* ia neu ti isio te	---	NST
+
+
+11, 1	17, 1-2	GRG	*coffee* *please*	---	NST
+
+
+12, 1	19, 1-7	JEA	mae isio hen glwt i wneud hwn	NSNT	NSNT
+12, 2	19, 8-8	JEA	does	---	NSNT
+
+
+13, 1	20, 1-1	GRG	*eh*	---	NST
+
+
+14, 1	21, 1-8	JEA	hen glwt i olchi yr peth adar yma	---	NSNT
+
+
+15, 1	22, 1-4	GRG	*yeah* *yeah* dim *problem*	---	NST
+
+
+16, 1	23, 1-5	JEA	*oh* lle mae yna un	---	NST
+
+
+17, 1	24, 1-8	GRG	I will find one in the *back* now	---	NST
+
+
+18, 1	25, 1-4	JEA	i pwy mae hwnna	NSNT	NSNT
+18, 2	26, 1-4	JEA	i pwy mae hwnna	---	NSNT
+
+
+19, 1	27, 1-1	GRG	fi	SNT	NSNT
+19, 2	28, 1-10	GRG	what was the second *um* Monday in March the date	---	NST
+
+
+20, 1	30, 1-4	JEA	wna i edrych wan	NSNT	NSNT
+20, 2	31, 1-2	JEA	deg tenth	SNT	SNT
+20, 3	33, 1-1	JEA	pam	---	NSNT
+
+
+21, 1	35, 1-2	GRG	shred that	---	NSNT
+
+
+22, 1	36, 1-1	JEA	pam	---	NSNT
+
+
+23, 1	37, 1-3	GRG	because it's mine	NSNT	NSNT
+23, 2	38, 1-3	GRG	I'm not having	NSNT	NSNT
+23, 3	38, 4-6	GRG	it *am* I	NST	NST
+23, 4	40, 1-8	GRG	*so* I've gotta put it on there haven't	NST	NST
+23, 5	40, 9-9	GRG	I	---	NSNT
+
+
+24, 1	42, 1-7	JEA	dw i fath â Duw *blank* *cheque*	NST	NST
+24, 3	44, 1-6	JEA	mae *dad* wedi ennill y Clwb_Cant	NST	NST
+24, 4	46, 1-13	JEA	ond mae yr peth yn mynd i dalu am ei diced o yn_dydy	NSNT	NSNT
+24, 5	47, 1-7	JEA	*so* dw i yn shredio yr *check*	NST	NST
+24, 6	48, 1-4	JEA	agor y *curtains* *Arthur*	---	NST
+
+
+25, 1	49, 1-8	ART	dw i yn mynd i newid yn munud	NSNT	NSNT
+25, 2	49, 9-9	ART	yndw	---	NSNT
+
+
+26, 1	50, 1-9	JEA	dach chi yn dod i gael paned ta be	---	NSNT
+
+
+27, 1	51, 1-5	ART	ia ddo i am baned	NSNT	NSNT
+27, 3	53, 1-7	ART	ia gymra i baned *please* thank you	---	ST
+
+
+28, 1	54, 1-6	GRG	faint o gloch ti yn mynd	---	NSNT
+
+
+29, 1	55, 1-1	JEA	croeso	---	NSNT
+
+
+30, 1	56, 1-3	ART	I don't know	---	NSNT
+
+
+31, 1	57, 1-8	GRG	*well* you wanna get *off* today don't you	---	ST
+
+
+32, 1	58, 1-4	ART	in about an *hour*	ST	NST
+32, 2	60, 1-6	ART	trio cael gwared arnan ni diawl	NSNT	NSNT
+32, 3	61, 1-4	ART	ti yn gorfod siarad	---	NSNT
+
+
+33, 1	62, 1-9	GRG	*well* you were the one who was *um* saying	NST	NST
+33, 2	62, 10-16	GRG	you wanna leave *Cynwyd* at three o'clock	---	NST
+
+
+34, 1	63, 1-1	ART	*aye*	---	NST
+
+
+35, 1	64, 1-3	JEA	Duw pwy ydy	NSNT	NSNT
+35, 2	64, 4-4	JEA	honna	---	NSNT
+
+
+36, 1	65, 1-1	GRG	pwy	---	NSNT
+
+
+37, 1	66, 1-1	JEA	honna	NSNT	NSNT
+37, 2	66, 2-6	JEA	mae yn edrych yn gyfarwydd	---	NSNT
+
+
+38, 1	67, 1-9	GRG	the one in the *front* who's fallen looks familiar	NST	NST
+38, 2	68, 1-6	GRG	she used to work in Barmouth	NSNT	NSNT
+38, 3	68, 7-8	GRG	I'm *sure*	---	NST
+
+
+39, 1	69, 1-9	JEA	troi page cyntaf *Arthur* i gael gweld pwy ydy	---	ST
+
+
+40, 1	70, 1-8	ART	*yeah* dw i yn nabod y gwyneb hefyd	---	NST
+
+
+41, 1	71, 1-2	GRG	I'm *sure*	NST	NST
+41, 2	71, 3-8	GRG	she used to work where *um*	---	NST
+
+
+42, 1	72, 1-4	JEA	be ydy enw hi	---	NSNT
+
+
+43, 1	73, 1-1	ART	*Mair_Dafydd*	---	NST
+
+
+44, 1	74, 1-10	GRG	used to work where *um* *Sionyn* worked in the *shop*	---	NST
+
+
+45, 1	75, 1-1	JEA	*Cadwaladers*	---	NST
+
+
+46, 1	76, 1-3	GRG	na no no	NSNT	SNT
+46, 2	77, 1-9	GRG	the junk *shop* where the newsagents used to be	---	NST
+
+
+47, 1	78, 1-5	JEA	*oh* dw i ddim gwybod	NST	NST
+47, 2	79, 1-2	JEA	dyna fo	NSNT	NSNT
+47, 3	80, 1-7	JEA	gewch chi de o yr tebot heddiw	NSNT	NSNT
+47, 4	81, 1-5	JEA	i fod yn *posh* de	---	NST
+
+
+48, 1	82, 1-4	ART	*oh* *please* thank you	---	NST
+
+
+49, 1	84, 1-5	JEA	ti ddim yn rhoid o	---	NSNT
+
+
+50, 1	85, 1-8	GRG	be ydy yr date heddiw *um* tenth *um*	---	ST
+
+
+51, 1	86, 1-9	JEA	ro i o yn fan yma ti a *Siân*	---	NST
+
+
+52, 1	87, 1-7	GRG	*um* no that's not the date no	---	NST
+
+
+53, 1	88, 1-3	JEA	*Ifans* goes home	ST	NST
+53, 2	89, 1-11	JEA	*oh* mae o yn mynd i brynu tŷ yn gogledd Cymru	---	NST
+
+
+54, 1	90, 1-2	ART	efo *Sienna_Miller*	---	NST
+
+
+55, 1	92, 1-1	GRG	pwy	---	NSNT
+
+
+56, 1	93, 1-1	JEA	*Rhys_Ifans*	ST	NST
+56, 2	94, 1-1	JEA	dyna	NSNT	NSNT
+56, 3	94, 2-6	JEA	be mae nhw yn ddeud	NSNT	NSNT
+56, 5	97, 1-9	JEA	dach chi wedi bwcio rywle i gael swper heno	NSNT	NSNT
+56, 6	98, 1-7	JEA	neu dach chi yn mynd i gael	---	NSNT
+
+
+57, 1	99, 1-5	ART	na gawn ni rywbeth yna	---	NSNT
+
+
+58, 1	100, 1-4	JEA	*yeah* yn y *pub*	NST	NST
+58, 2	101, 1-5	JEA	be ydy enw yr *pub*	---	NST
+
+
+59, 1	102, 1-1	ART	*Fox_and_Hound*	---	NST
+
+
+60, 1	104, 1-8	JEA	paid â mynd am *ice_cream* lawr y ffordd	NST	NST
+60, 2	104, 9-10	JEA	na wnei	NSNT	NSNT
+60, 3	105, 1-6	JEA	timod y diwrnod y ffair yna	---	NSNT
+
+
+61, 1	108, 1-3	GRG	*bloody* drud de	---	NST
+
+
+62, 1	109, 1-3	JEA	gaethon ni un	NSNT	NSNT
+62, 2	109, 4-10	JEA	oedd o ddim yn un *scoop* chwaith	NST	NST
+62, 3	110, 1-6	JEA	faint oedd o two *pound* rywbeth	---	ST
+
+
+63, 1	112, 1-2	ART	*bloody* hell	---	NST
+
+
+64, 1	113, 1-11	JEA	oedd o yr creadur methu dynnu o allan o yr *box*	NST	NST
+64, 2	113, 12-15	JEA	oedd wedi rewi gymaint	---	NSNT
+
+
+65, 1	114, 1-12	GRG	what's the name of that *firm* *Pentrefoelas* we had the *stuff* *off*	---	NST
+
+
+66, 1	116, 1-2	JEA	*ah* *Brodwaith*	---	NST
+
+
+67, 1	117, 1-4	GRG	we gotta pay them	NSNT	NSNT
+67, 2	118, 1-6	GRG	have some *checks* signed *off* *Twm*	---	NST
+
+
+68, 1	119, 1-7	JEA	fasai waeth i fi sgwennu fo ddim	NSNT	NSNT
+68, 2	119, 8-9	JEA	na fasai	---	NSNT
+
+
+69, 1	120, 1-9	ART	dyn nhw ddim mynd i ddallt y *bloody* *check*	NST	NST
+69, 2	120, 10-11	ART	nag ydyn	---	NSNT
+
+
+70, 1	121, 1-1	JEA	cyf	---	NSNT
+
+
+71, 1	123, 1-6	GRG	*right* I'll go to school after	NST	NST
+71, 2	124, 1-3	GRG	go to *Twm*	NST	NST
+71, 3	125, 1-4	GRG	you going to *um*	---	NST
+
+
+72, 1	126, 1-1	JEA	*Nia's*	---	NST
+
+
+73, 1	127, 1-1	GRG	*Nia's*	---	NST
+
+
+74, 1	128, 1-4	JEA	mynd â presantau penblwydd	---	NSNT
+
+
+75, 1	129, 1-3	GRG	what's for *tea*	NST	NST
+75, 2	130, 1-3	GRG	*oh* we got	NST	NST
+75, 3	131, 1-10	GRG	*um* do we eat the *aubergine* that's in the middle	---	NST
+
+
+76, 1	133, 1-7	JEA	*well* wyt *sure* *just* cynhesu fo yn_de	---	NST
+
+
+77, 1	134, 1-2	ART	eat everything	---	NSNT
+
+
+78, 1	135, 1-6	GRG	will it go *um* go soft	---	NST
+
+
+79, 1	136, 1-1	ART	yes	---	NSNT
+
+
+80, 1	137, 1-6	JEA	be sy mewn efo yr *mince*	---	NST
+
+
+81, 1	138, 1-3	GRG	*courgette* ac *aubergine*	---	NST
+
+
+82, 1	139, 1-2	JEA	dyna fo	NSNT	NSNT
+82, 2	140, 1-6	JEA	be sy mewn efo yr *mince*	---	NST
+
+
+83, 1	141, 1-10	ART	*well* *rest* o yr *aubergine* o yr tu_mewn wedi ffrio	---	NST
+
+
+84, 1	142, 1-1	JEA	nionyn	---	NSNT
+
+
+85, 1	143, 1-1	ART	nionyn	NSNT	NSNT
+85, 2	144, 1-6	ART	dw i wedi mynd yn *blank*	NST	NST
+85, 3	145, 1-6	ART	*aubergine* nionyn garlleg mach o *cumin*	---	NST
+
+
+86, 1	146, 1-6	JEA	oedd yna *cumin* yn yr un	NST	NST
+86, 2	146, 7-9	JEA	ddaru fi wneud	NSNT	NSNT
+86, 3	147, 1-5	JEA	*so* oedd hwnnw yn iawn	---	NST
+
+
+87, 1	148, 1-4	GRG	shouldn't have been there	NSNT	NSNT
+87, 2	149, 1-8	GRG	it shouldn't have been *cumin* though should it	---	NST
+
+
+88, 1	151, 1-1	JEA	doedd	NSNT	NSNT
+88, 2	151, 2-6	JEA	genna i ddim y llall	---	NSNT
+
+
+89, 1	152, 1-8	ART	a peth arall dw i ddim yn cofio	---	NSNT
+
+
+90, 1	153, 1-1	JEA	mushrooms	---	NSNT
+
+
+91, 1	155, 1-2	GRG	*hiya* *Bob*	---	NST
+
+
+92, 1	156, 1-2	ART	nag oedd	---	NSNT
+
+
+93, 1	157, 1-6	GRG	*oh* *well* *Bob* dim yn mynd	---	NST
+
+
+94, 1	158, 1-7	JEA	hwyrach wna i wneud *top* yn hun	NST	NST
+94, 2	158, 8-8	JEA	ta	NSNT	NSNT
+94, 3	159, 1-13	JEA	os ydy hwnna rhag ofn bod yna ŵy wedi mynd *off* neu rywbeth	---	NST
+
+
+95, 1	161, 1-2	GRG	I wouldn't	---	NSNT
+
+
+96, 1	162, 1-5	ART	gyd ti isio wneud ydy	---	NSNT
+
+
+97, 1	163, 1-3	GRG	cause it cause	NSNT	NSNT
+97, 2	163, 4-11	GRG	it wasn't in the fridge for a start	---	NSNT
+
+
+98, 1	164, 1-2	JEA	alla i	NSNT	NSNT
+98, 2	164, 3-10	JEA	roid y neu iwsio yr greek *yoghurt* yna	---	ST
+
+
+99, 1	165, 1-8	GRG	it wasn't in the fridge for a start	---	NSNT
+
+
+100, 1	166, 1-2	JEA	*well* oedd	---	NST
+
+
+101, 1	168, 1-8	GRG	no you *can* *make* *moussaka* *er* this week	NST	NST
+101, 2	169, 1-2	GRG	our own	NSNT	NSNT
+101, 3	170, 1-4	GRG	with the Greek *yoghurt*	---	NST
+
+
+102, 1	171, 1-10	ART	*oh* *bloody* hell fydd chi yn bored o *bloody* *moussaka*	---	ST
+
+
+103, 1	172, 1-5	GRG	*oh* we got Greek *yoghurt*	NST	NST
+103, 2	173, 1-5	GRG	cause your mother bought it	---	NSNT
+
+
+104, 1	175, 1-5	JEA	mae yna ddate arno fo	NSNT	SNT
+104, 2	176, 1-5	JEA	dw i ddim yn gwybod	NSNT	NSNT
+104, 3	177, 1-4	JEA	be ydy yr date	---	SNT
+
+
+105, 1	178, 1-5	GRG	did you wanna have *cufflinks*	---	NST
+
+
+106, 1	179, 2-8	JEA	mae isio sbïo dano fo eto yn_does	---	NSNT
+
+
+107, 1	180, 1-6	GRG	do you want *cufflinks* or something	---	NST
+
+
+108, 1	181, 1-4	ART	I've got *Auntie* *Jane's*	NST	NST
+108, 2	182, 1-6	ART	the ones that she gave *me*	NST	NST
+108, 3	182, 7-9	ART	she gave *me*	---	NST
+
+
+109, 1	183, 1-7	GRG	what why the heck were you looking	---	NSNT
+
+
+110, 1	184, 1-7	JEA	be mae yn ddeud yn fan yna	---	NSNT
+
+
+111, 1	185, 1-3	GRG	she *Siân* said	NST	NST
+111, 2	185, 4-6	GRG	you wanted *cufflinks*	---	NST
+
+
+112, 1	186, 1-4	JEA	twenty_ninth of the third	SNT	NSNT
+112, 2	187, 1-3	JEA	mae yn iawn	NSNT	NSNT
+112, 3	187, 4-4	JEA	dydy	---	NSNT
+
+
+113, 1	188, 1-1	GRG	twenty_ninth	---	NSNT
+
+
+114, 1	189, 1-3	JEA	be ydy heddiw	---	NSNT
+
+
+115, 1	190, 1-3	GRG	twentieth *yeah* twenty_second	---	NST
+
+
+116, 1	193, 1-4	ART	na it isn't twenty_third	---	SNT
+
+
+117, 1	194, 1-1	GRG	twenty_third	---	NSNT
+
+
+118, 1	195, 1-4	ART	no twenty_fourth ydy heddiw	SNT	SNT
+118, 2	197, 1-3	ART	it's twenty_fourth heddiw	---	SNT
+
+
+119, 1	198, 1-8	JEA	ia mae *Nia* yn cael ei phen_blwydd fory	---	NST
+
+
+120, 1	200, 1-8	ART	dw i yn cael y nhalu fory twenty_fifth	---	SNT
+
+
+121, 1	201, 1-8	GRG	cause it's *um* *Gel's* birthday tomorrow week tomorrow	---	NST
+
+
+122, 1	202, 1-6	JEA	*so* faint ddudaist ti oedd o	NST	NST
+122, 2	203, 1-16	JEA	yn lle cael ei eni yn two thousand and two two thousand and three oedd o	---	SNT
+
+
+123, 1	204, 1-9	ART	two thousand and two gaeth o ei eni ia	NSNT	SNT
+123, 2	205, 1-2	ART	wnaeth hi	NSNT	NSNT
+123, 3	205, 3-6	ART	oedd hi yn chwil	NSNT	NSNT
+123, 4	205, 7-14	ART	pan roth hi *tattoo* i glust o creadur	---	NST
+
+
+124, 1	206, 1-1	JEA	ddylai	NSNT	NSNT
+124, 2	206, 2-7	JEA	bod hi ddim wedi wneud felly	NSNT	NSNT
+124, 3	206, 8-9	JEA	na ddylai	NSNT	NSNT
+124, 4	208, 1-4	JEA	mae yn cysgu eto	NSNT	NSNT
+124, 5	209, 1-4	JEA	dw i yn *sure*	NST	NST
+124, 6	209, 5-9	JEA	bod o ddim yn dda	NSNT	NSNT
+124, 7	209, 10-10	JEA	sti	---	NSNT
+
+
+125, 1	210, 1-8	GRG	I don't think he did a *poo* while	NST	NST
+125, 2	210, 9-13	GRG	he was out this morning	NSNT	NSNT
+125, 3	211, 1-7	GRG	that's a a finch bullfinch I think	NSNT	NSNT
+125, 4	211, 8-11	GRG	you'll find that was	NSNT	NSNT
+125, 5	211, 12-16	GRG	we were looking at *Arthur*	---	NST
+
+
+126, 1	213, 1-13	ART	*oh* did you take the *paper* out to wipe his arse *as* *well*	---	NST
+
+
+127, 1	214, 1-7	JEA	papur i godi o oddi_ar y llawr	---	NSNT
+
+
+128, 1	215, 1-2	GRG	no I've	NSNT	NSNT
+128, 2	215, 3-13	GRG	because I didn't have to pick any up this morning that's	NSNT	NSNT
+128, 3	215, 14-16	GRG	why I know	---	NSNT
+
+
+129, 1	216, 1-5	RES	mae hwnna yn aros mewn	---	NSNT
+
+
+130, 1	218, 1-8	GRG	you want us to talk *normal* or what	NST	NST
+130, 3	220, 1-6	GRG	and you *can* *stop* farting *Arthur_Llywelyn*	---	NST
+
+
+131, 1	221, 1-6	JEA	mae yr te yma yn stiwio	NSNT	NSNT
+131, 2	222, 1-7	JEA	mae yr te yma yn stiwio *Siân*	---	NST
+
+
+132, 1	223, 1-4	ART	*Siân* ti isio paned	---	NST
+
+
+133, 1	225, 1-4	JEA	neu dw i wedi	NSNT	NSNT
+133, 2	225, 5-12	JEA	roid o mewn tebot a phopeth i ti	---	NSNT
+
+
+134, 1	226, 1-9	RES	roid dipyn bach o dŵr poeth ar ben o	---	NSNT
+
+
+135, 1	227, 1-3	ART	ti isio siwgr	---	NSNT
+
+
+136, 1	228, 1-5	JEA	mae yna siwgr yno fo	---	NSNT
+
+
+137, 1	231, 1-8	GRG	hanner siwgr *well* na it's not hanner sugar	NST	ST
+137, 2	231, 9-11	GRG	it's *um* one	NST	NST
+137, 3	231, 12-15	GRG	it's the same but	NSNT	NSNT
+137, 4	231, 16-18	GRG	it's half sweeteners	---	NSNT
+
+
+138, 1	232, 1-4	JEA	do hanner siwgr *yeah*	NST	NST
+138, 2	233, 1-2	JEA	*oh* duw	---	NST
+
+
+139, 1	234, 1-3	GRG	it's a bullfinch	NSNT	NSNT
+139, 2	234, 4-5	GRG	I think	NSNT	NSNT
+139, 3	234, 6-8	GRG	you saw *Arthur*	NST	NST
+139, 4	235, 1-4	GRG	I'll tell you now	---	NSNT
+
+
+140, 1	236, 1-8	JEA	pam ydy hwnnw yn debyg i *robin* goch	---	NST
+
+
+141, 1	237, 1-5	GRG	he's got a red *breast*	---	NST
+
+
+142, 1	238, 1-9	ART	*well* gynno fo bach o goch ar ei *freast*	---	NST
+
+
+143, 1	240, 1-6	GRG	a really *um* nasty looking bird	---	NST
+
+
+144, 1	242, 1-2	ART	I thought	NSNT	NSNT
+144, 2	242, 3-7	ART	it looked *quite* *cute* actually	---	NST
+
+
+145, 1	243, 1-3	GRG	no he looked	NSNT	NSNT
+145, 3	245, 1-2	GRG	that one	---	NSNT
+
+
+146, 1	246, 1-6	ART	why *does* that look *bloody* nasty	---	NST
+
+
+147, 1	247, 1-6	GRG	you have a look at them	NSNT	NSNT
+147, 2	247, 7-10	GRG	when they're out there	---	NSNT
+
+
+148, 1	248, 1-10	JEA	a mae yna ddwy wiwer yna yn dwyn y bwyd	NSNT	NSNT
+148, 2	249, 1-4	JEA	mae rheiny yn *nuisance*	---	NST
+
+
+149, 1	250, 1-2	GRG	ydy hwnna	---	NSNT
+
+
+150, 1	251, 1-12	JEA	be oedd o yn *um* fwyta diwrnod o blaen y wiwer yna	---	NST
+
+
+151, 1	253, 1-1	ART	*pardon*	---	NST
+
+
+152, 1	254, 1-7	JEA	o't ti yma diwrnod o blaen *Arthur*	---	NST
+
+
+153, 1	255, 1-5	ART	diwrnod o blaen nag o'n	---	NSNT
+
+
+154, 1	256, 1-6	JEA	be oedd y wiwer yna fwyta	NSNT	NSNT
+154, 2	257, 1-4	JEA	oedd hi yn tyllu	---	NSNT
+
+
+155, 1	258, 1-2	GRG	*um* *daffodil*	ST	NST
+155, 2	259, 1-4	GRG	head of a *daffodil*	ST	NST
+155, 3	260, 1-5	GRG	*oops* mae wedi colli eto	---	NST
+
+
+156, 1	262, 1-11	JEA	dw i yn meddwl a i i yr *Ysgethin* pnawn yma	---	NST
+
+
+157, 1	263, 1-4	GRG	ti ddim yn mynd	---	NSNT
+
+
+158, 1	265, 1-7	JEA	ddaru fi joio yn hun pnawn ddoe	---	NSNT
+
+
+159, 1	266, 1-13	ART	be tu allan tu mewn tra bod *dad* tu allan yn yr oerfel	---	NST
+
+
+160, 1	267, 1-7	GRG	na *bit* of *um* *bloody* *Baileys* de	---	ST
+
+
+161, 1	268, 1-1	RES	*handy*	---	NST
+
+
+162, 1	269, 1-8	JEA	*well* oedd yna ddim_byd yn y *brandy* yna	NST	NST
+162, 2	270, 1-5	JEA	ond oedd yr ail un	NSNT	NSNT
+162, 3	270, 7-10	JEA	oedd hwnnw yn wahanol	NSNT	NSNT
+162, 4	271, 1-4	JEA	ond oedd y cynta	NSNT	NSNT
+162, 5	271, 5-7	JEA	faset ti taeru	NSNT	NSNT
+162, 6	271, 8-12	JEA	bod yna ddŵr yno fo	---	NSNT
+
+
+163, 1	272, 1-3	ART	oedd yna *gick*	---	NST
+
+
+164, 1	274, 1-7	JEA	*sure* bod neb wedi iwsio fo ers_talwm	---	NST
+
+
+165, 1	275, 1-2	GRG	tell him	---	NSNT
+
+
+166, 1	276, 1-5	ART	faswn i yn synnu dim	---	NSNT
+
+
+167, 1	277, 1-7	GRG	*so* you going to look to see	NST	NST
+167, 2	277, 8-12	GRG	what we *can* do if	NST	NST
+167, 3	277, 13-15	GRG	when we come	NSNT	NSNT
+167, 4	278, 1-4	GRG	what day we going	NSNT	NSNT
+167, 5	279, 1-5	GRG	third of May I think	NSNT	NSNT
+167, 6	280, 1-8	GRG	unless I go to Shrewsbury on the third	---	NSNT
+
+
+168, 1	281, 1-9	JEA	o'n ni yn paso mynd i_fyny *bank* *holiday* May	---	ST
+
+
+169, 1	282, 1-9	GRG	*can* we walk along the *Pennine_Way* for a *bit*	NST	NST
+169, 2	283, 1-7	GRG	only a *bit* *couple* of old miles	---	NST
+
+
+170, 1	284, 1-9	JEA	mae yn bell i fynd i i gyrraedd o	---	NSNT
+
+
+171, 1	285, 1-3	ART	find it *aye*	NST	NST
+171, 2	286, 1-10	ART	and then you gotta *bloody* work *back* along it haven't	NST	NST
+171, 3	286, 11-17	ART	you to get *back* to the *car*	---	NST
+
+
+172, 1	287, 1-4	GRG	we've got two *cars*	---	NST
+
+
+173, 1	288, 1-7	JEA	*well* aeth *Arthur* ar y trên yn_do	NST	NST
+173, 2	290, 1-4	JEA	oedd o yn bell	NSNT	NSNT
+173, 4	292, 1-1	JEA	yn_doedd	---	NSNT
+
+
+174, 1	293, 1-7	ART	we'll go and walk around the *park*	---	NST
+
+
+175, 1	294, 1-2	GRG	what *park*	---	NST
+
+
+176, 1	295, 1-8	JEA	pwy *bark* dros y ffordd i yr tŷ	NST	NST
+176, 2	296, 1-5	JEA	dan ni wedi wneud hwnnw	---	NSNT
+
+
+177, 1	298, 1-2	GRG	Duw do	---	NSNT
+
+
+178, 1	299, 2-9	JEA	pan aethon ni i nôl papur neu rywbeth	NSNT	NSNT
+178, 2	300, 1-6	JEA	o't ti yna adeg hynny *Siân*	---	NST
+
+
+179, 1	301, 1-4	ART	o't ti ddim yna	---	NSNT
+
+
+180, 1	302, 1-5	RES	dw i ddim yn cofio	---	NSNT
+
+
+181, 1	303, 1-5	JEA	*Sandra* oedd efo ni ia	NST	NST
+181, 2	304, 1-3	JEA	wneith hi ddim	NSNT	NSNT
+181, 3	304, 4-5	JEA	na wneith	---	NSNT
+
+
+182, 1	305, 1-6	ART	wnawn ni adael half past *Siân*	---	ST
+
+
+183, 1	306, 1-2	RES	half past	---	NSNT
+
+
+184, 1	307, 1-1	ART	eleven	SNT	NSNT
+184, 2	308, 1-8	ART	tŷ chdi erbyn half twelve bwyd am un	---	SNT
+
+
+185, 1	309, 1-10	RES	*mmm* wnawn ni adael hwyrach rhein on am bach fwy	NST	ST
+185, 2	310, 1-8	RES	achos oedd o yn distortion ar y dechrau	---	SNT
+
+
+186, 1	312, 1-9	ART	a doedden nhw ddim yn deud dim_byd yn dechrau	---	NSNT
+
+
+187, 1	314, 1-10	JEA	*well* efo dy dad allan yn bwydo yr adar yma	---	NST
+
+
+188, 1	315, 1-3	ART	ni weld un	---	NSNT
+
+
+189, 1	316, 1-11	JEA	mae yr adar yma yn cael mwy o *fuss* na ni	NST	NST
+189, 2	317, 1-3	JEA	ia heavy breathing	---	SNT
+
+
+190, 1	318, 1-1	GRG	be	---	NSNT
+
+
+191, 1	320, 1-8	JEA	raid ti fynd i jecio dy *freast* *George*	---	NST
+
+
+192, 1	321, 1-2	GRG	*hiya* *Wymff*	---	NST
+
+
+193, 1	325, 1-3	JEA	be ydy hwnna	NSNT	NSNT
+193, 2	326, 1-4	JEA	pa lyfr ydy hwnna	NSNT	NSNT
+193, 3	327, 1-6	JEA	oedd yna ddim *post* arall felly	NST	NST
+193, 5	329, 1-11	JEA	be ti isio fi wneud efo yr hen beth Plaid_Cymru yma	---	NSNT
+
+
+194, 1	330, 1-10	ART	*yeah* deuda nhw gyrru details fyny i fi i *Pontefract*	NST	ST
+194, 2	331, 1-4	ART	rho address i fi	NSNT	SNT
+194, 3	332, 1-5	ART	rho address fi iddyn nhw	---	SNT
+
+
+195, 1	333, 1-4	JEA	dw i yn *sure*	NST	NST
+195, 2	333, 5-12	JEA	bod yna rywbeth wedi dod i fan yma	NSNT	NSNT
+195, 3	333, 13-13	JEA	sti	NSNT	NSNT
+195, 4	333, 14-18	JEA	ond ddaru fi shredio fo	NSNT	NSNT
+195, 5	334, 1-6	JEA	ydy o yn *free* *phone* *number*	NST	NST
+195, 6	334, 7-7	JEA	dywed	---	NSNT
+
+
+196, 1	335, 1-2	GRG	*number* be	---	NST
+
+
+197, 1	337, 1-9	JEA	mae hwn fel cael yr *um* *machine* yna pan	NST	NST
+197, 2	338, 1-8	JEA	ti cofio yr *machine* yna o yr *surgery*	ST	NST
+197, 3	339, 1-1	JEA	heartbeat	SNT	NSNT
+197, 4	341, 1-5	JEA	mae o fath â hwnnw	---	NSNT
+
+
+198, 1	342, 1-4	GRG	*oh* blood pressure *Jean*	---	NST
+
+
+199, 1	343, 1-4	RES	mae *mam* wedi cael	---	NST
+
+
+200, 1	344, 1-7	JEA	na ti yn gorod cadw fo on	---	SNT
+
+
+201, 1	345, 1-2	GRG	blood pressure	---	NSNT
+
+
+202, 1	346, 1-4	JEA	blood pressure oedd o	NSNT	SNT
+202, 2	347, 1-6	JEA	ydy dy *fam* wedi gael o	ST	NST
+202, 3	348, 1-1	JEA	*well*	---	NST
+
+
+203, 1	349, 1-3	GRG	*Sandra* wedi gorffen	---	NST
+
+
+204, 1	353, 1-11	JEA	ti yn clywed y sŵn y *boiler* yn dal i fynd	---	NST
+
+
+205, 1	354, 1-5	GRG	Duw big *fight* in Barmouth	NST	ST
+205, 2	355, 1-2	GRG	I told	NSNT	NSNT
+205, 3	355, 3-5	GRG	you didn't I	---	NSNT
+
+
+206, 1	357, 1-3	ART	gossips de diawl	---	SNT
+
+
+207, 1	358, 1-4	GRG	*Eiriome* who told her	---	NST
+
+
+208, 1	360, 1-1	ART	*pardon*	---	NST
+
+
+209, 1	361, 1-6	GRG	*Eiriome* who told her *so* *Eiriome*	NST	NST
+209, 2	362, 1-5	GRG	see you're not natural *Jean*	---	NST
+
+
+210, 1	363, 1-5	JEA	*oh* sut alla i fod	NST	NST
+210, 2	364, 1-3	JEA	mae yn anodd	NSNT	NSNT
+210, 3	364, 4-4	JEA	dydy	---	NSNT
+
+
+211, 1	365, 1-2	GRG	be natural	---	NSNT
+
+
+212, 1	366, 1-2	JEA	Iesu dylai	NSNT	NSNT
+212, 2	366, 3-7	JEA	bod fi yn cael hwn	NSNT	NSNT
+212, 3	366, 8-18	JEA	pan fydda i yn *um* yn y *garage* bore fory *Siân*	---	NST
+
+
+213, 1	367, 1-1	GRG	why	---	NSNT
+
+
+214, 1	368, 1-8	JEA	faset ti glywed fi yn ateb y *phone*	---	NST
+
+
+215, 1	369, 1-3	GRG	bore da *Smithy_Garage*	ST	NST
+215, 2	371, 1-2	GRG	I'm afraid	NSNT	NSNT
+215, 3	371, 3-8	GRG	he's not here at the *moment*	NST	NST
+215, 4	371, 9-11	GRG	he's in *America*	---	NST
+
+
+216, 1	373, 1-4	JEA	o'n i meddwl wan	NSNT	NSNT
+216, 2	374, 1-8	JEA	tua deuddeg ddaru nhw ffonio diwrnod o blaen	NSNT	NSNT
+216, 3	374, 9-17	JEA	ac oedd hi yn hanner wedi naw yn *America*	NST	NST
+216, 4	375, 1-10	JEA	o'n i meddwl bod yna fwy o amser rhyngthon ni	---	NSNT
+
+
+217, 1	376, 1-10	GRG	*yeah* it could be the day before though couldn't it	---	NST
+
+
+218, 1	377, 1-7	JEA	hanner wedi naw yn bore oedd hi	---	NSNT
+
+
+219, 1	378, 1-11	GRG	*yeah* but it could be the day before hanner wedi naw	---	ST
+
+
+220, 1	379, 1-7	JEA	gobeithio bod neb arall wedi cael *bronchitis*	NST	NST
+220, 2	380, 1-4	JEA	ond oedd hi yn	---	NSNT
+
+
+221, 1	381, 1-6	GRG	you don't catch *bronchitis* from people	NST	NST
+221, 2	381, 7-10	GRG	you catch it through	---	NSNT
+
+
+222, 1	382, 1-6	JEA	I know but gobeithio neb arall	NSNT	SNT
+222, 2	382, 7-13	JEA	wedi bod yn sâl ta cael ffliw	---	NSNT
+
+
+223, 1	383, 1-3	GRG	*oh* *Specsavers* tomorrow	NST	NST
+223, 3	386, 1-6	GRG	I think my *bloody* *Tilhill* *thing*	---	NST
+
+
+224, 1	387, 1-2	JEA	*coat* felyn	---	NST
+
+
+225, 1	388, 1-6	GRG	lent it and I haven't had	NSNT	NSNT
+225, 2	388, 7-8	GRG	it *back*	ST	NST
+225, 3	389, 1-4	GRG	*monkey* drwg wedi gorffen	ST	NST
+225, 4	390, 1-10	GRG	another one of them *um* *sponge* things anywhere old ones	---	NST
+
+
+226, 1	391, 1-15	JEA	*um* mae yna hen bethau mewn yn y *plastic* *bag* yn fan yna ar llawr	NST	NST
+226, 2	392, 1-9	JEA	be dach chi yn gael i ginio heddiw twrci	---	NSNT
+
+
+227, 1	393, 1-8	ART	*pardon* *pardon* *yeah* twrci dan ni yn gael	NST	NST
+227, 2	393, 9-10	ART	de *Siân*	---	NST
+
+
+228, 1	394, 1-2	JEA	Christmas dinner	---	NSNT
+
+
+229, 1	396, 1-2	ART	twrci yn_dyfe	---	NSNT
+
+
+230, 1	397, 1-4	JEA	*oh* iwsia hwn *George*	NST	NST
+230, 2	398, 1-6	JEA	wna i gael un newydd glân	---	NSNT
+
+
+231, 1	401, 1-1	GRG	diolch	---	NSNT
+
+
+232, 1	402, 1-1	JEA	mae	NSNT	NSNT
+232, 2	402, 2-8	JEA	genna i rei newydd yn fan yma	NSNT	NSNT
+232, 4	404, 1-10	JEA	un peth yn llai i glirio o yr *drawer* yma	---	NST
+
+
+233, 1	405, 1-5	RES	*just* yn mynd i tsiecio	---	NST
+
+
+234, 1	406, 1-13	JEA	waetsiad i yr dŵr yma gynhesu eto *Arthur* a gei di gawod ia	NST	NST
+234, 2	408, 1-5	JEA	dydy o ddim yn hir	NSNT	NSNT
+234, 3	409, 1-5	JEA	mae *right* da chwarae teg	NST	NST
+234, 4	410, 1-6	JEA	petasai yr *system* i_gyd yn gweithio	NST	NST
+234, 5	410, 7-8	JEA	yn_de ond	NSNT	NSNT
+234, 6	410, 9-10	JEA	dyna fo	SNT	NSNT
+234, 8	412, 1-1	JEA	*eh*	---	NST
+
+
+235, 1	413, 1-3	ART	*bloody* *plumber* iawn	---	NST
+
+
+236, 1	414, 1-5	GRG	don't want a *plumber* now	NST	NST
+236, 2	415, 1-12	GRG	the longer he takes the less *er* the more money the longer	NST	NST
+236, 3	415, 13-20	GRG	he has to wait for his money innit	---	NSNT
+
+
+237, 1	416, 1-9	JEA	mae o wedi wneud y gwaith caled really yn_dydy	---	SNT
+
+
+238, 1	417, 1-8	GRG	*as* long *as* the money's in the *bank*	NST	NST
+238, 3	419, 1-5	GRG	*oh* by the way *mam*	NST	NST
+238, 4	421, 1-11	GRG	we're going to see more of *Arthur* after the *rugby* season	---	NST
+
+
+239, 1	422, 1-5	JEA	rho hwnna lawr am funud	NSNT	NSNT
+239, 2	423, 1-1	JEA	be	---	NSNT
+
+
+240, 1	424, 1-11	GRG	we're gonna see more of *Arthur* after the *rugby* season's finished	---	NST
+
+
+241, 1	425, 1-6	JEA	*George* ti isio rhoi hwnna i_lawr	NST	NST
+241, 2	426, 1-3	JEA	be ddudaist ti	---	NSNT
+
+
+242, 1	427, 1-10	GRG	gonna see more of *Arthur* after the *rugby* season's finished	NST	NST
+242, 2	428, 1-6	GRG	*so* he told *um* *Mrs* *Roberts*	---	NST
+
+
+243, 1	429, 1-1	JEA	be	---	NSNT
+
+
+244, 1	430, 1-8	ART	*well* wna i drio dod lawr yn amlach	---	NST
+
+
+245, 1	431, 1-6	JEA	rhaid ninnau drio dod i_fyny hefyd	---	NSNT
+
+
+246, 1	432, 1-6	GRG	lawr yn fwy aml he said	---	SNT
+
+
+247, 1	433, 1-4	JEA	mae newydd ddeud hynna	NSNT	NSNT
+247, 2	434, 1-8	JEA	rhaid ninnau ddod i_fyny fwy aml yn_rhaid *Arthur*	---	NST
+
+
+248, 1	435, 1-6	ART	*well* chi os dach chi isio	---	NST
+
+
+249, 1	437, 1-4	JEA	paid ti â dare_io	SNT	SNT
+249, 2	438, 1-9	JEA	gei di iwsio clwt arall *George* ti ddim yn	---	NST
+
+
+250, 1	439, 1-2	GRG	this one	NSNT	NSNT
+250, 2	442, 1-7	GRG	*oh* I'll *just* take it out now	NST	NST
+250, 3	443, 1-4	GRG	put it *back* now	---	NST
+
+
+251, 1	444, 1-2	JEA	paid â	NSNT	NSNT
+251, 2	444, 3-5	JEA	bod yn hir	---	NSNT
+
+
+252, 1	445, 1-4	GRG	*so* we *can* talk	---	NST
+
+
+253, 1	446, 1-2	JEA	*well* ia	NST	NST
+253, 2	447, 1-10	JEA	alla i ddim siarad efo chdithau ti allan fan yna	NSNT	NSNT
+253, 3	447, 11-12	JEA	na alla	---	NSNT
+
+
+254, 1	448, 1-5	GRG	you *can* talk with *Arthur*	---	NST
+
+
+255, 1	449, 1-5	ART	*sense* allan o yr diawl	---	NST
+
+
+256, 1	450, 1-1	JEA	be	---	NSNT
+
+
+257, 1	451, 1-6	ART	dim *sense* allan o yr diawl	---	NST
+
+
+258, 1	454, 1-5	JEA	be ti wedi weld wan	SNT	NSNT
+258, 2	455, 1-1	JEA	*eh*	ST	NST
+258, 3	456, 1-6	JEA	Duw rywun yn pasio ydy o	NSNT	NSNT
+258, 4	457, 1-8	JEA	dach chi isio mwy o yr te yma	---	NSNT
+
+
+259, 1	458, 1-6	ART	na dw i yn iawn thank	NSNT	SNT
+259, 2	458, 7-7	ART	you	---	NSNT
+
+
+260, 1	459, 1-4	JEA	*oh* *Gel* bydd ddistaw	NST	NST
+260, 3	461, 1-1	JEA	be	NSNT	NSNT
+260, 6	464, 1-5	JEA	ydy o yn lân wan	NSNT	NSNT
+260, 7	465, 1-5	JEA	dw i wedi lluchio hwnna	---	NSNT
+
+
+261, 1	466, 1-1	GRG	*eh*	---	NST
+
+
+262, 1	467, 1-5	JEA	ydy o yn lan wan	---	NSNT
+
+
+263, 1	468, 1-6	GRG	*yeah* gonna put some water in	ST	NST
+263, 3	470, 1-5	GRG	be ti wneud *fool* bach	ST	NST
+263, 4	471, 1-6	GRG	*make* *sure* the bedroom *door* shut	---	NST
+
+
+264, 1	472, 1-2	JEA	dyna ni	---	NSNT
+
+
+265, 1	473, 1-2	GRG	tyrd mewn	SNT	NSNT
+265, 2	474, 1-2	GRG	good *boy*	---	NST
+
+
+266, 1	475, 1-1	JEA	be	---	NSNT
+
+
+267, 1	476, 1-9	GRG	tell him to come in and he came in	SNT	NSNT
+267, 2	477, 1-6	GRG	*Arthur* mynd i shower wan *yeah*	---	ST
+
+
+268, 1	478, 1-8	JEA	you going to the *um* school this afternoon	ST	NST
+268, 3	481, 1-1	JEA	be	NSNT	NSNT
+268, 4	482, 1-3	JEA	lle *Nia* ia	---	NST
+
+
+269, 1	483, 1-8	GRG	*oh* you're going before dinner for that aren't	NST	NST
+269, 2	483, 9-9	GRG	you	---	NSNT
+
+
+270, 1	484, 1-6	JEA	gawn ni weld faint o gloch	---	NSNT
+
+
+271, 1	485, 1-1	GRG	*eh*	---	NST
+
+
+272, 1	486, 1-3	JEA	gawn ni weld	NSNT	NSNT
+272, 2	487, 1-5	JEA	cadw hwnna i fi *please*	ST	NST
+272, 3	488, 1-2	JEA	thank you	SNT	NSNT
+272, 4	489, 1-2	JEA	dyna ni	SNT	NSNT
+272, 5	490, 1-1	JEA	biscuits	SNT	NSNT
+272, 7	492, 1-1	JEA	*eh*	---	NST
+
+
+273, 1	493, 1-2	GRG	*diet* fory	ST	NST
+273, 2	494, 1-8	GRG	*oh* you and *Sandra* *can* go to *Ysgethin*	---	NST
+
+
+274, 1	495, 1-6	JEA	na tynnu coes o'n i *sure*	---	NST
+
+
+275, 1	496, 1-2	GRG	pam ddim	SNT	NSNT
+275, 2	497, 1-4	GRG	*Sandra* *can* *treat* you	---	NST
+
+
+276, 1	498, 1-8	JEA	be wyt ti yn wneud fel hoodie wan	NSNT	SNT
+276, 2	499, 1-8	JEA	o'n i meddwl bod ti mynd i shower	---	SNT
+
+
+277, 1	500, 1-12	ART	mi a i dw i *just* yn mynd i sortio pick_up allan	NST	ST
+277, 2	501, 1-4	ART	dŵr gynhesu anyway does	NSNT	SNT
+277, 3	502, 1-5	ART	lle mae goriadau yng nghar	SNT	NSNT
+277, 4	503, 1-7	ART	*right* then *brush* dw i isio *brush*	---	ST
+
+
+278, 1	504, 1-2	JEA	*brush* llawr	NST	NST
+278, 2	505, 1-8	JEA	mae o yn y *toliet* bach yn cefn	---	NST
+
+
+279, 1	506, 1-1	ART	paid	NSNT	NSNT
+279, 2	506, 2-7	ART	edrych arna i fel yna *Gel*	---	NST
+
+
+280, 1	507, 1-5	JEA	*oh* she could be *Dolgellau*	---	NST
+
+
+281, 1	509, 1-14	GRG	*sure* she used to work *um* *Susan_Jones* in that little *shop* on the corner	---	NST
+
+
+282, 1	510, 1-5	JEA	*mmm* *Jones* yr *Hengoed* *Dolgellau*	NST	NST
+282, 2	511, 1-2	JEA	canu cloch	---	NSNT
+
+
+283, 1	512, 1-2	GRG	*ding* *ding*	---	NST
+
+
+284, 1	513, 1-1	JEA	*eh*	---	NST
+
+
+285, 1	514, 1-2	GRG	*ding* *ding*	---	NST
+
+
+286, 1	516, 1-3	JEA	Duw mae hwnna	---	NSNT
+
+
+287, 1	517, 1-1	GRG	be	---	NSNT
+
+
+288, 1	518, 1-9	JEA	plismon yna yn dod i yr *garage* yn aml	NST	NST
+288, 2	519, 1-4	JEA	yn y rescue *team*	ST	ST
+288, 3	520, 1-1	JEA	Duw	---	NSNT
+
+
+289, 1	521, 1-10	GRG	there's something about *um* cheap dinner in *Portmeirion* or something	---	NST
+
+
+290, 1	522, 1-2	JEA	cheap dinner	---	NSNT
+
+
+291, 1	523, 1-6	GRG	what's it say on the bottom	---	NSNT
+
+
+292, 1	524, 1-3	JEA	Easter *special* *offer*	NST	NST
+292, 2	525, 1-3	JEA	two nights *break*	---	NST
+
+
+293, 1	526, 1-5	GRG	*oh* *Arthur* could have gone	---	NST
+
+
+294, 1	527, 1-6	JEA	hundred *pound* per *person* per night	---	NST
+
+
+295, 1	528, 1-7	GRG	cinio pasg it says on the left	---	SNT
+
+
+296, 1	529, 1-5	JEA	for dinner bed and breakfast	NSNT	NSNT
+296, 2	530, 1-3	JEA	it's cinio pasg	SNT	SNT
+296, 3	530, 4-7	JEA	it's yr un fath	---	SNT
+
+
+297, 1	531, 1-1	GRG	*pardon*	---	NST
+
+
+298, 1	532, 1-1	JEA	cinio	NSNT	NSNT
+298, 2	534, 1-2	JEA	cynigion pasg	SNT	NSNT
+298, 3	536, 1-3	JEA	*offer* *special* offers	---	NST
+
+
+299, 1	537, 1-5	GRG	*Arthur* could have gone there	---	NST
+
+
+300, 1	538, 1-4	JEA	hundred *pound* a night	---	NST
+
+
+301, 1	539, 1-1	GRG	each	---	NSNT
+
+
+302, 1	540, 1-2	JEA	arglwydd mawr	SNT	NSNT
+302, 2	541, 1-6	JEA	for dinner bed and breakfast *oh*	ST	NST
+302, 3	542, 1-5	JEA	hanner awr mae yn gorod	NSNT	NSNT
+302, 4	542, 6-7	JEA	bod on	SNT	SNT
+302, 5	543, 1-3	JEA	pum munud arall	NSNT	NSNT
+302, 6	544, 1-5	JEA	ti ddim yn cael mynd	---	NSNT
+
+
+303, 1	545, 1-4	GRG	na that's the *trouble*	---	ST
+
+
+304, 1	546, 1-10	JEA	Dyw sgwn i os dw i wedi enill yr *um*	ST	NST
+304, 2	547, 1-7	JEA	easter egg mawr fel hyn yn *London_House*	NST	ST
+304, 3	548, 1-5	JEA	dw i wedi prynu *raffle*	---	NST
+
+
+305, 1	549, 1-6	GRG	that was *um* *rugby* *football* *club*	NST	NST
+305, 2	550, 1-14	GRG	and the *family* who's won it *um* the *boys* have been in *um* *Ysbyty_Gwynedd*	NST	NST
+305, 4	552, 1-5	GRG	in the premature years ago	NSNT	NSNT
+305, 5	553, 1-8	GRG	*so* they've given it to the children's unit	---	NST
+
+
+306, 1	554, 1-2	JEA	*oh* Duw	---	NST
+
+
+307, 1	555, 1-7	GRG	or their mother would have ate it	---	NSNT
+
+
+308, 1	556, 1-3	JEA	faswn innau hefyd	---	NSNT
+
+
+309, 1	557, 1-8	GRG	I'll do that letter to the *boss* tonight	---	NST
+
+
+310, 1	559, 1-1	JEA	*Sandra*	ST	NST
+310, 2	561, 1-4	JEA	ti yn adnabod hon	NSNT	NSNT
+310, 3	562, 1-2	JEA	o *Dolgellau*	---	NST
+
+
+311, 1	563, 1-2	SAN	nag ydw	---	NSNT
+
+
+312, 1	564, 1-2	GRG	I'm *sure*	NST	NST
+312, 2	564, 3-8	GRG	she used to work in Barmouth	---	NSNT
+
+
+313, 1	566, 1-3	JEA	shower yn *nice*	---	ST
+
+
+314, 1	567, 1-3	SAN	lovely thank you	SNT	NSNT
+314, 2	568, 1-4	SAN	pryd dan ni yn	---	NSNT
+
+
+315, 1	569, 1-10	JEA	ti yn mynd ti mynd cyn cinio neu ar_ôl cinio	---	NSNT
+
+
+316, 1	570, 1-2	SAN	cyn cinio	---	NSNT
+
+
+317, 1	571, 1-8	JEA	pan fydd *Siân* ac *Arthur* wedi mynd ia	NST	NST
+317, 3	573, 1-5	JEA	ti yn dod efo ni	NSNT	NSNT
+317, 4	574, 1-12	JEA	well i ni ffonio gynta rhag ofn bod nhw ddim yn dda	NSNT	NSNT
+317, 5	575, 1-6	JEA	doedd *Eilir* ddim yn dda ddoe	---	NST
+
+
+318, 1	576, 1-5	SAN	ti isio fi ffonio hi	---	NSNT
+
+
+319, 1	577, 1-3	JEA	dim wan na	NSNT	NSNT
+319, 2	578, 1-8	JEA	wnawn ni ffonio hi cyn mynd ia edrych	NSNT	NSNT
+319, 3	578, 9-11	JEA	os ydy adra	---	NSNT
+
+
+320, 1	579, 1-6	GRG	she might have the *family* there	---	NST
+
+
+321, 1	580, 1-8	SAN	allan ni *just* dropio y pethau *off* wedyn	---	NST
+
+
+322, 1	581, 1-2	JEA	gallan really	---	SNT
+
+
+323, 1	582, 1-5	GRG	os wyt ti yn gallu	---	NSNT
+
+
+324, 1	583, 1-6	JEA	lle gest ti yr *top* yna	---	NST
+
+
+325, 1	584, 1-1	SAN	*eh*	---	NST
+
+
+326, 1	585, 1-6	JEA	lle gest ti yr *top* yna	---	NST
+
+
+327, 1	586, 1-3	SAN	*oh* *um* *drawer*	ST	NST
+327, 3	589, 1-4	SAN	ydy *Arthur* isio shower	---	ST
+
+
+328, 1	591, 1-3	GRG	I'll nip to	---	NSNT
+
+
+329, 1	592, 1-3	JEA	mae o allan	---	NSNT
+
+
+330, 1	593, 1-6	SAN	dillad yn y wash dw i	NSNT	SNT
+330, 2	594, 1-6	SAN	*oh* na wna i wneud ar_ôl	---	NST
+
+
+331, 1	595, 1-11	GRG	I'll nip to *Twm's* and get the *checks* signed when the	NST	NST
+331, 2	595, 12-16	GRG	he goes in the shower	---	NSNT
+
+
+332, 1	596, 1-11	SAN	dw i isio roi rhein yn y wash at dydd Gwener	NSNT	SNT
+332, 2	597, 1-5	SAN	ddo i nôl nos fory	---	NSNT
+
+
+333, 1	599, 1-1	GRG	be	---	NSNT
+
+
+334, 1	600, 1-5	JEA	ddei di adre nos Iau	NSNT	NSNT
+334, 2	601, 1-3	JEA	be ddudaist di	---	NSNT
+
+
+335, 1	602, 1-6	GRG	ti yn dod adre nos Iau	SNT	NSNT
+335, 2	603, 1-1	GRG	*Twm*	ST	NST
+335, 3	604, 1-8	GRG	I'll go to *Twm's* get the *checks* signed	NST	NST
+335, 4	605, 1-6	GRG	while *Arthur* is in the shower	---	NST
+
+
+336, 1	606, 1-5	JEA	*oh* no you'll be late	---	NST
+
+
+337, 1	607, 1-9	GRG	but I've got to come from there then haven't	NSNT	NSNT
+337, 2	607, 10-10	GRG	I	---	NSNT
+
+
+338, 1	608, 1-6	JEA	hwyrach bod gennyn nhw deulu lawr	---	NSNT
+
+
+339, 1	609, 1-3	GRG	no they haven't	NSNT	NSNT
+339, 2	609, 4-6	GRG	they're going to	NSNT	NSNT
+339, 3	609, 7-11	GRG	Ireland I think or London	NSNT	NSNT
+339, 4	610, 1-7	GRG	*oh* *just* sponsered his daughter *as* *well*	---	NST
+
+
+340, 1	611, 1-2	JEA	what for	---	NSNT
+
+
+341, 1	612, 1-7	GRG	cycling from Holyhead to Cardiff I think	NSNT	NSNT
+341, 2	612, 8-9	GRG	I think	---	NSNT
+
+
+342, 1	613, 1-1	JEA	*Enlli*	---	NST
+
+
+343, 1	614, 1-6	GRG	*yeah* for *cerebral* palsy or something	NST	NST
+343, 2	616, 1-2	GRG	I think	NSNT	NSNT
+343, 3	616, 3-3	GRG	it's	NSNT	NSNT
+343, 4	616, 4-5	GRG	I think	NSNT	NSNT
+343, 5	616, 6-11	GRG	she's doing it all the way	NSNT	NSNT
+343, 6	617, 1-3	GRG	I'm not *sure*	NST	NST
+343, 7	618, 1-8	GRG	have to find out I'll find out today	---	NSNT
+
+
+344, 1	619, 1-7	JEA	mae yna *lot* ohonyn nhw yn mynd	NST	NST
+344, 2	621, 1-3	JEA	dim *just* hi	---	NST
+
+
+345, 1	622, 1-7	GRG	*oh* no no *lot* of people there	---	NST
+
+
+346, 1	623, 1-2	JEA	no way	---	NSNT
+
+
+347, 1	624, 1-12	GRG	I don't know I don't know she going all the way or	NSNT	NSNT
+347, 2	624, 13-16	GRG	what I don't know	NSNT	NSNT
+347, 3	625, 1-3	GRG	I'll find out	---	NSNT
+
+
+348, 1	626, 1-10	JEA	*oh* put ten *pound* down from all of us *yeah*	---	NST
+
+
+349, 1	627, 1-6	GRG	I *can* do it online no	NST	NST
+349, 2	627, 7-10	GRG	I'll do it there	---	NSNT
+
+
+350, 1	628, 1-1	SAN	*hiya*	---	NST
+
+
+351, 1	629, 1-5	GRG	*just* iawn â gorffen wan	---	NST
+
+
+352, 1	630, 1-6	JEA	ti yn mynd i shower wan	---	SNT
+
+
+353, 1	631, 1-6	ART	fedra i *just* tacluso yr cefn	NST	NST
+353, 2	632, 1-5	ART	dau funud fydda i wan	---	NSNT
+
+
+354, 1	634, 1-8	JEA	ydy o yn edrych yn iawn bore yma	---	NSNT
+
+
+355, 1	635, 1-1	ART	*pardon*	---	NST
+
+
+356, 1	636, 1-1	SAN	*hello*	---	NST
+
+
+357, 1	637, 1-11	JEA	ydy yr bumper yna yn edrych yn iawn bore yma neu	---	SNT
+
+
+358, 1	638, 1-5	ART	dydy o ddim yn bad	---	SNT
+
+
+359, 1	640, 1-3	JEA	digon saff yndy	---	NSNT
+
+
+360, 1	642, 1-8	ART	yn saff cynt *just* oedd o yn flex_io	ST	ST
+360, 2	643, 1-6	ART	*so* *just* cadw o yn *solid*	---	NST
+
+
+361, 1	644, 1-3	GRG	what about *um*	NST	NST
+361, 2	645, 1-4	GRG	*oh* go outside first	---	NST
+
+
+362, 1	646, 1-2	JEA	about what	---	NSNT
+
+
+363, 1	647, 1-2	GRG	the wood	NSNT	NSNT
+363, 2	648, 1-15	GRG	let *me* know or I might have to go there with him and *make* *sure*	NST	NST
+363, 3	648, 16-20	GRG	I don't not going anywhere	---	NSNT
+
+
+364, 1	649, 1-2	JEA	*oh* Duw	NST	NST
+364, 2	650, 1-4	JEA	wneith *Arthur* ffonio gynta	NST	NST
+364, 3	650, 5-7	JEA	mae yn debyg	---	NSNT
+
+
+365, 1	651, 1-2	SAN	ffonio de	---	NSNT
+
+
+366, 1	652, 1-7	JEA	pan fydd y coed ar y ffordd	---	NSNT
+
+
+367, 1	653, 1-9	GRG	*oh* you got a *purse* the same *as* *mam*	---	NST
+
+
+368, 1	654, 1-3	SAN	no I haven't	---	NSNT
+
+
+369, 1	655, 1-3	GRG	same pattern *yeah*	---	NST
+
+
+370, 1	656, 1-3	SAN	no it's not	---	NSNT
+
+
+371, 1	657, 1-2	JEA	rywbeth tebyg	NSNT	NSNT
+371, 2	659, 1-10	JEA	roes i yr *um* *Boots* *card* yna nôl i ti	---	NST
+
+
+372, 1	662, 1-11	GRG	your mother actually found the three *pound* she thinks she lost	---	NST
+
+
+373, 1	664, 1-1	SAN	lle	---	NSNT
+
+
+374, 1	665, 1-10	JEA	o'n i yn mae yna ddau compartment yn y pwrs	NSNT	SNT
+374, 2	667, 1-16	JEA	ac o'n i wedi roi pres o'n i yn gwybod bod fi wedi roi pres yna	NSNT	NSNT
+374, 3	667, 17-21	JEA	gallwn i ddim ffindio fo	NSNT	NSNT
+374, 4	669, 1-2	JEA	o'n i	---	NSNT
+
+
+375, 1	670, 1-4	SAN	wnest di ffindio fo	---	NSNT
+
+
+376, 1	672, 1-6	JEA	wna i ddangos o i ti	NSNT	NSNT
+376, 2	673, 1-6	JEA	wna i ddangos o i chdi	NSNT	NSNT
+376, 3	674, 1-4	JEA	lle mae o *Gel*	NST	NST
+376, 6	678, 1-2	JEA	fan yma	NSNT	NSNT
+376, 7	679, 1-6	JEA	rois i o yn fan yna	NSNT	NSNT
+376, 8	681, 1-2	JEA	fan yna	---	NSNT
+
+
+377, 1	682, 1-5	SAN	fan yna rois di o	---	NSNT
+
+
+378, 1	683, 1-7	JEA	na nac *yeah* hwyrach bod fi wedi	NST	NST
+378, 2	683, 8-15	JEA	rhoid o yn fan yna yn y *zip*	---	NST
+
+
+379, 1	684, 1-8	GRG	*mam* we got a rat in the house	---	NST
+
+
+380, 1	685, 1-5	JEA	*oh* be ti wedi ffeindio	---	NST
+
+
+381, 1	686, 1-3	GRG	tyrd yma tyrd	---	NSNT
+
+
+382, 1	687, 1-4	JEA	be ti wedi ffindio	NSNT	NSNT
+382, 2	688, 1-3	JEA	*oh* hosan *Sandra*	NST	NST
+382, 3	689, 1-5	JEA	be ydy o hosan *Sandra*	---	NST
+
+
+383, 1	690, 1-6	GRG	*oh* dw i ddim yn gwybod	NST	NST
+383, 3	692, 1-5	GRG	be ydy o *Sandra* *Gel*	---	NST
+
+
+384, 1	694, 1-1	JEA	gweld	NSNT	NSNT
+384, 2	695, 1-6	JEA	ia hefyd *oh* dillad budr *Sandra*	---	NST
+
+
+385, 1	696, 1-9	GRG	we going to gweld *Twm* in a *minute* *o_k*	ST	ST
+385, 2	697, 1-3	GRG	be ydy hwnna	SNT	NSNT
+385, 6	701, 1-8	GRG	*oh* we've got *Heartbeat* to *watch* tonight haven't	NST	NST
+385, 7	701, 9-9	GRG	we	---	NSNT
+
+
+386, 1	703, 1-2	JEA	oes a	NSNT	NSNT
+386, 2	703, 3-6	JEA	be oedd ar_ôl *Heartbeat*	---	NST
+
+
+387, 1	704, 1-3	GRG	*um* that *Copkiller*	NST	NST
+387, 2	705, 1-7	GRG	three series or something I don't know	---	NSNT
+
+
+388, 1	707, 1-8	JEA	mae hwnna yn lun neis ohonot ti really	---	SNT
+
+
+389, 1	708, 1-5	SAN	*oh* mae o yn *horrible*	---	NST
+
+
+390, 1	709, 1-3	GRG	be ydy hwnna	SNT	NSNT
+390, 2	710, 1-2	GRG	*Club_Sporty* *Aber*	---	NST
+
+
+391, 1	711, 1-4	JEA	*Club_Sporty* ddylai hwnna ddim	NST	NST
+391, 2	711, 5-7	JEA	bod yn *Sporty_Club*	---	NST
+
+
+392, 1	712, 1-2	GRG	it's expired	NSNT	NSNT
+392, 2	713, 1-3	GRG	no it hasn't	NSNT	NSNT
+392, 3	714, 1-3	GRG	yes it has	---	NSNT
+
+
+393, 1	715, 1-3	JEA	yes it has	SNT	NSNT
+393, 3	717, 1-4	JEA	rho hwnna yn y	---	NSNT
+
+
+394, 1	718, 1-2	GRG	*ah* recycling	---	NST
+
+
+395, 1	719, 1-8	JEA	rho fo yn y *bag* yn fan yna	---	NST
+
+
+396, 1	720, 1-4	GRG	in Cymru we recycle	---	SNT
+
+
+397, 1	721, 1-5	JEA	ti yn wneud *lot* *Arthur*	---	NST
+
+
+398, 1	722, 1-2	ART	gymaint â	NSNT	NSNT
+398, 2	722, 3-4	ART	fedra i	NSNT	NSNT
+398, 3	722, 5-5	ART	yndw	---	NSNT
+
+
+399, 1	724, 1-14	JEA	ydyn nhw yn hel nhw neu ti yn gorod mynd â nhw i ganolfan	---	NSNT
+
+
+400, 1	725, 1-4	ART	gorod mynd â nhw	---	NSNT
+
+
+401, 1	726, 1-5	JEA	dyn nhw ddim yn hel	---	NSNT
+
+
+402, 1	727, 1-6	ART	dyn nhw ddim yn wneud *plastics*	NST	NST
+402, 2	727, 7-8	ART	nag ydyn	---	NSNT
+
+
+403, 1	728, 1-11	JEA	*oh* dyn nhw ddim yn wneud *plastics* yn fan yma chwaith	---	NST
+
+
+404, 1	729, 1-4	GRG	that's *plastic* *as* *well*	---	NST
+
+
+405, 1	730, 1-5	ART	don't take *tops* in recycling	---	NST
+
+
+406, 1	731, 1-3	GRG	yes they do	---	NSNT
+
+
+407, 1	732, 1-2	ART	they don't	---	NSNT
+
+
+408, 1	733, 1-7	GRG	any *plastic* bottles they do with us	---	NST
+
+
+409, 1	734, 1-5	JEA	be mae nhw yn wneud	NSNT	NSNT
+409, 2	735, 1-5	JEA	be mae nhw yn hel	---	NSNT
+
+
+410, 1	736, 1-2	ART	*just* caniau	---	NST
+
+
+411, 1	737, 1-1	JEA	papur	---	NSNT
+
+
+412, 1	738, 1-5	ART	papur a caniau papur a	---	NSNT
+
+
+413, 1	739, 1-7	GRG	are you taking your *books* with you	---	NST
+
+
+414, 1	740, 1-2	ART	what *books*	NST	NST
+414, 3	742, 1-3	ART	no I'll have	NSNT	NSNT
+414, 4	742, 4-4	ART	them	NSNT	NSNT
+414, 5	743, 1-7	ART	I was looking for the *bank* ones	---	NST
+
+
+415, 1	744, 1-9	JEA	fourteen *pound* ten pee lle est ti am hynna	---	ST
+
+
+416, 1	746, 1-6	SAN	*round* *Bangor* *yeah* *just* yn y	---	NST
+
+
+417, 1	747, 1-1	JEA	pryd	NSNT	NSNT
+417, 2	748, 1-4	JEA	*oh* pan ddois di	---	NST
+
+
+418, 1	749, 1-8	SAN	pan ddos i i Chester efo chdi Dolig	---	SNT
+
+
+419, 1	752, 1-7	GRG	*right* *can* we take these *off* now	---	NST
+
+
+420, 1	753, 1-3	ART	na carry on	---	SNT
+
+
+421, 1	754, 1-6	GRG	I want to go to *Twm's*	---	NST
+
+
+422, 1	755, 1-4	ART	you're not going til	NSNT	NSNT
+422, 2	755, 5-7	ART	I've gone are	NSNT	NSNT
+422, 3	755, 8-8	ART	you	NSNT	NSNT
+422, 4	756, 1-8	ART	we're going in ten *quarter* of an *hour*	---	NST
+
+
+423, 1	757, 1-7	GRG	that's why I want to go now	NSNT	NSNT
+423, 2	757, 8-15	GRG	*so* I've got an excuse to come *back*	NST	NST
+423, 3	758, 1-5	GRG	*mam* said half an *hour*	ST	NST
+423, 4	759, 1-2	GRG	pum munud	SNT	NSNT
+423, 5	760, 1-8	GRG	don't go in the shower for a *minute*	NST	NST
+423, 6	761, 1-6	GRG	what's happening with the wood now	---	NSNT
+
+
+424, 1	762, 1-5	ART	I'll tell you next week	---	NSNT
+
+
+425, 1	763, 1-8	GRG	is it this week or next week is	NSNT	NSNT
+425, 2	763, 9-10	GRG	it coming	---	NSNT
+
+
+426, 1	764, 1-5	ART	*well* I'm trying this week	---	NST
+
+
+427, 1	765, 1-10	GRG	*so* will I have to meet it the man there	---	NST
+
+
+428, 1	766, 1-5	ART	you would have to yes	NSNT	NSNT
+428, 2	767, 1-9	ART	to show him where the *pile* has to go	---	NST
+
+
+429, 1	768, 1-6	GRG	I won't have to pay him	---	NSNT
+
+
+430, 1	769, 1-1	ART	no	---	NSNT
+
+
+431, 1	770, 1-8	GRG	give him a *tip* if he's got to	NST	NST
+431, 2	771, 1-7	GRG	where where is the wood going to	---	NSNT
+
+
+432, 1	772, 1-6	ART	probably the same place *as* before	---	NST
+
+
+433, 1	773, 1-4	JEA	o lle mae yn	---	NSNT
+
+
+434, 1	774, 1-9	GRG	*so* he got to *reverse* a long way up	---	NST
+
+
+435, 1	775, 1-1	ART	*aye*	---	NST
+
+
+436, 1	776, 1-5	GRG	and *does* he know that	---	NST
+
+
+437, 1	777, 1-1	ART	no	---	NSNT
+
+
+438, 1	778, 1-5	JEA	lle mae yn dod o	---	NSNT
+
+
+439, 1	779, 1-4	ART	dw i ddim gwybod	NSNT	NSNT
+439, 2	780, 1-4	ART	*Bontddu* dw i meddwl	NST	NST
+439, 3	780, 5-10	ART	mae yr coed yn dod o	NSNT	NSNT
+439, 4	782, 1-3	ART	dw i meddwl	---	NSNT
+
+
+440, 1	783, 1-9	GRG	what what about the other one in *um* *Maentwrog*	---	NST
+
+
+441, 1	784, 1-5	ART	there's nothing on there apparently	---	NSNT
+
+
+442, 1	786, 1-7	JEA	lle ddaru ni basio llwyth o goed	---	NSNT
+
+
+443, 1	787, 1-8	GRG	*yeah* *Maentwrog* by the side of *Maentwrog* *U_P_M_Tilhill*	---	NST
+
+
+444, 1	788, 1-2	JEA	*oh* duw	---	NST
+
+
+445, 1	790, 1-3	GRG	ti wedi blino	---	NSNT
+
+
+446, 1	791, 1-2	JEA	do braidd	---	NSNT
+
+
+447, 1	792, 1-5	GRG	gormod o cwrw neithiwr de	---	NSNT
+
+
+448, 1	793, 1-9	JEA	dan ni ddim wedi arfer wedi yfed yn pnawn	---	NSNT
+
+
+449, 1	794, 1-7	GRG	*mam* isio mynd pnawn yma felly eto	---	NST
+
+
+450, 1	795, 1-4	JEA	awn ni pnawn yma	---	NSNT
+
+
+451, 1	796, 1-2	SAN	*yeah* Duw	---	NST
+
+
+452, 1	798, 1-6	GRG	what will you have *Baileys* *coffee*	---	NST
+
+
+453, 1	800, 1-1	JEA	no	---	NSNT
+
+
+454, 1	801, 1-6	GRG	go down to Sands *um* Henry's	---	NST
+
+
+455, 1	802, 1-3	JEA	na ddim diolch	---	NSNT
+
+
+456, 1	803, 1-9	ART	dach chi mynd i *Ysgethin* pnawn yma yr diawliaid	---	NST
+
+
+457, 1	804, 1-2	GRG	pam ddim	---	NSNT
+
+
+458, 1	805, 1-3	JEA	nag ydan *Arthur*	NST	NST
+458, 2	806, 1-7	JEA	ti yn mynd i yr shower yna	---	SNT
+
+
+459, 1	808, 1-8	GRG	*oh* wait *till* we finish this and then	NST	NST
+459, 2	808, 9-14	GRG	you *can* go in the shower	---	NST
+
+
+460, 1	810, 1-7	SAN	*oh* he may *as* *well* go now	---	NST
+
+
+461, 1	811, 1-10	GRG	*so* I *can* go to *Twms* and come *back* or	NST	NST
+461, 2	811, 11-15	GRG	he'll keep *me* *bloody* talking	NST	NST
+461, 4	813, 1-11	GRG	if I've got to come *back* I've got to come *back*	---	NST
+
+
+462, 1	814, 1-6	JEA	ti isio sychu dy wallt hefyd	NSNT	NSNT
+462, 2	815, 1-5	JEA	gweld y glust yna heddiw	NSNT	NSNT
+462, 3	816, 1-8	JEA	hwyrach bod yr earrings yna wedi irritate_io fo	NSNT	SNT
+462, 4	816, 9-9	JEA	sti	---	NSNT
+
+
+463, 1	817, 1-7	SAN	*ooh* dydy o ddim yn cosi wan	---	NST
+
+
+464, 1	819, 1-3	GRG	*Cellan* been *busy*	---	NST
+
+
+465, 1	820, 1-1	SAN	yes	---	NSNT
+
+
+466, 1	821, 1-2	JEA	*oh* *dear*	ST	NST
+466, 2	822, 1-8	JEA	what you doing in school then this afternoon	---	NSNT
+
+
+467, 1	823, 1-3	GRG	cutting hedge tomorrow	---	NSNT
+
+
+468, 1	824, 1-1	JEA	hedge	---	NSNT
+
+
+469, 1	826, 1-2	GRG	hedge tomorrow	NSNT	NSNT
+469, 2	827, 1-3	GRG	finish that *off*	---	NST
+
+
+470, 1	828, 1-8	JEA	pryd mae yr ysgol yn dechrau dydd Llun	NSNT	NSNT
+470, 2	829, 1-3	JEA	*oh* na wneith	---	NST
+
+
+471, 1	830, 1-1	GRG	fortnight	NSNT	NSNT
+471, 2	831, 1-3	GRG	another fortnight yet	---	NSNT
+
+
+472, 1	832, 1-2	JEA	nag oes	---	NSNT
+
+
+473, 1	833, 1-5	GRG	yes they only finished Thursday	---	NSNT
+
+
+474, 1	835, 1-2	SAN	braf de	NSNT	NSNT
+474, 2	836, 1-8	SAN	o'n i mond yn cael *um* dydd Llun	---	NST
+
+
+475, 1	837, 1-10	GRG	no that's what what I can't understand with *Jane* *um*	NST	NST
+475, 2	837, 11-15	GRG	they got a fortnight *off*	NST	NST
+475, 3	838, 1-4	GRG	she could have *um*	NST	NST
+475, 4	838, 5-6	GRG	you know	---	NSNT
+
+
+476, 1	839, 1-4	JEA	no I don't think	---	NSNT
+
+
+477, 1	840, 1-10	GRG	*um* have you ever known your sister being refused anything	NST	NST
+477, 2	840, 11-12	GRG	she says	NSNT	NSNT
+477, 3	840, 13-14	GRG	she wants	---	NSNT
+
+
+478, 1	841, 1-5	ART	perhaps it's only that day	NSNT	NSNT
+478, 2	841, 6-11	ART	they could have gone or something	---	NSNT
+
+
+479, 1	842, 1-11	JEA	efo gwaith *um* mae *Rhys* a *Trystan* wan dydyn yn gweithio	NST	NST
+479, 2	843, 1-6	JEA	mae nhw isio gweithio *round* nhw	NST	NST
+479, 3	844, 1-7	JEA	mae nhw isio gweithio *round* yr ysgol	---	NST
+
+
+480, 1	845, 1-7	GRG	and then *mam* telling fibs for them	---	NST
+
+
+481, 1	846, 1-2	JEA	a gwaith	NSNT	NSNT
+481, 2	848, 1-6	JEA	pwy sy yn gweithio yna anyway	---	SNT
+
+
+482, 1	849, 1-1	GRG	*Florence*	---	NST
+
+
+483, 1	850, 1-7	JEA	hi sy yn ateb *phone* yn bore	---	NST
+
+
+484, 1	851, 1-3	GRG	na that's *Margaret*	---	ST
+
+
+485, 1	852, 1-3	JEA	pwy ydy honno	---	NSNT
+
+
+486, 1	853, 1-4	GRG	she's from I think	NSNT	NSNT
+486, 2	853, 5-13	GRG	she used to live in *Talysarn* *Ynys* but now	NST	NST
+486, 3	853, 14-15	GRG	I think	NSNT	NSNT
+486, 4	853, 16-21	GRG	she moved to *Morfa_Bychan* or something	NST	NST
+486, 6	855, 1-8	GRG	*er* she doesn't get paid during the *holidays*	NST	NST
+486, 7	856, 1-4	GRG	the other one *does*	NST	NST
+486, 8	857, 1-5	GRG	the other one is *um*	---	NST
+
+
+487, 1	858, 1-2	JEA	o *Blaenau*	---	NST
+
+
+488, 1	859, 1-6	GRG	related to was related to *Llwyngwffri*	NST	NST
+488, 2	861, 1-5	GRG	husband is *um* the policeman	---	NST
+
+
+489, 1	862, 1-1	JEA	*Ceiriog_Hughes*	---	NST
+
+
+490, 1	863, 1-2	GRG	*yeah* cyngor	NST	NST
+490, 2	864, 1-1	GRG	cyngor	SNT	NSNT
+490, 3	865, 1-4	GRG	I voted for him	NSNT	NSNT
+490, 4	866, 1-9	GRG	Sunday nothing to *watch* Sunday because he's not here	---	NST
+
+
+491, 1	867, 1-7	JEA	dw i yn colli arni pa ddiwrnod	NSNT	NSNT
+491, 2	867, 8-9	JEA	ydy wan	NSNT	NSNT
+491, 3	868, 1-7	JEA	argoel mae yna bythefnos i fynd eto	NSNT	NSNT
+491, 4	869, 1-4	JEA	oeddech chi yn cael	NSNT	NSNT
+491, 5	869, 5-9	JEA	pan roedd yr ysgol Pasg	NSNT	NSNT
+491, 6	871, 1-5	JEA	oeddech chi yn cael pythefnos	---	NSNT
+
+
+492, 1	872, 1-12	GRG	*yeah* but *um* I don't think they ever finished *sort* of this	NST	NST
+492, 2	873, 1-4	GRG	it's because Easter's early	NSNT	NSNT
+492, 3	874, 1-10	GRG	they've got to have *so* much in the term haven't	NST	NST
+492, 4	874, 11-11	GRG	they	---	NSNT
+
+
+493, 1	876, 1-5	JEA	ti isio siswrn dorri hwnna	NSNT	NSNT
+493, 3	878, 1-4	JEA	ti isio paned *Sandra*	ST	NST
+493, 4	880, 1-1	JEA	okey_dokey	SNT	NSNT
+493, 6	882, 1-8	JEA	*well* mae yn codi yn braf *boys* bach	---	NST
+
+
+494, 1	884, 1-8	GRG	do some chopping in the garden can't you	---	NSNT
+
+
+495, 1	885, 1-1	JEA	maybe	---	NSNT
+
+
+496, 1	886, 1-10	GRG	I'll have to leave you a pair of shears things	NSNT	NSNT
+496, 3	888, 1-11	GRG	cut the *tops* *off* the *daffodils* and things *tulips* they're knackered	---	NST
+
+
+497, 1	889, 1-2	JEA	neu siswrn	---	NSNT
+
+
+498, 1	890, 1-1	GRG	*eh*	---	NST
+
+
+499, 1	891, 1-1	JEA	mae	NSNT	NSNT
+499, 2	891, 2-4	JEA	genna i siswrn	NSNT	NSNT
+499, 3	892, 1-4	JEA	wneith siswrn y tro	NSNT	NSNT
+499, 4	892, 5-5	JEA	wneith	---	NSNT
+
+
+500, 1	893, 1-1	GRG	*Rownd_a_Rownd*	ST	NST
+500, 2	894, 1-3	GRG	*Pobol_y_Cwm* eight o'clock	---	NST
+
+
+501, 1	895, 1-8	JEA	faint o gloch mae *Rownd_a_Rownd* hanner wedi chwech	---	NST
+
+
+502, 1	896, 1-3	SAN	hanner wedi saith	---	NSNT
+
+
+503, 1	897, 1-3	GRG	hanner wedi saith	---	NSNT
+
+
+504, 1	898, 1-2	JEA	*oh* pam	---	NST
+
+
+505, 1	899, 1-5	GRG	dw i ddim yn gwybod	---	NSNT
+
+
+506, 1	900, 1-3	SAN	Sul y Pasg	---	NSNT
+
+
+507, 1	901, 1-5	JEA	*football* neu rywbeth decin i	---	NST
+
+
+508, 1	902, 1-2	GRG	na nothing	SNT	SNT
+508, 2	903, 1-1	GRG	*Saith_Gair_Olaf_Crist*	ST	NST
+508, 4	905, 1-2	GRG	*Dechrau_Canu_Dechrau_Canmol* repeat	---	NST
+
+
+509, 1	906, 1-3	JEA	*Midsomer_Murders* four o'clock	---	NST
+
+
+510, 1	908, 1-2	GRG	*yeah* repeat	---	NST
+
+
+511, 1	910, 1-4	JEA	wna i watsio hwnna	---	NSNT
+
+
+512, 1	911, 1-1	GRG	*The_Princess_Diaries*	NST	NST
+512, 3	913, 1-1	GRG	*Chicken_Run*	---	NST
+
+
+513, 1	914, 1-4	JEA	ydy hwnnw gen ti	---	NSNT

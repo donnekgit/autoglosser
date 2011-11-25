@@ -1,0 +1,1316 @@
+
+
+1, 1	1, 1-11	ADW	ie wedyn mi wna i ddeud wrth *Cadi* ryw ddydd Llun	ST	NST
+1, 2	3, 1-7	ADW	let's go up to *Dyffryn* to see	NST	NST
+1, 3	3, 8-17	ADW	if we *can* find the hundreds of *daffodils* because that's	NST	NST
+1, 4	3, 18-20	ADW	where they are	---	NSNT
+
+
+2, 1	4, 1-2	BAE	ie wir	---	NSNT
+
+
+3, 1	5, 1-5	ADW	mi ddaw *Cadi* efo fi	NST	NST
+3, 2	6, 1-8	ADW	hi *er* *er* fan yna weithiodd hi gynta	NST	NST
+3, 3	6, 9-9	ADW	wchi	NSNT	NSNT
+3, 4	6, 10-15	ADW	pan ddaru *Edna* gychwyn gymdeithas yma	NST	NST
+3, 5	8, 1-7	ADW	mi aeth *Cadi* i_fyny yma i weithio	NST	NST
+3, 6	9, 1-4	ADW	a mae yn dipyn	---	NSNT
+
+
+4, 1	10, 1-6	BAE	i wirfoddoli ta i ennill cyflog	---	NSNT
+
+
+5, 1	11, 1-5	ADW	*ah* naci cael ei thalu	NST	NST
+5, 2	13, 1-4	ADW	ond y peth oedd	NSNT	NSNT
+5, 3	13, 5-10	ADW	dach chi yn gweld typical *Edna*	ST	ST
+5, 4	15, 1-4	ADW	os oedd yna ddim_byd	NSNT	NSNT
+5, 5	15, 5-12	ADW	oedd hi yn teimlo i *Cadi* ei wneud	NST	NST
+5, 6	17, 1-5	ADW	dos i wneud yr ardd	---	NSNT
+
+
+6, 1	18, 1-1	BAE	*well*	---	NST
+
+
+7, 1	19, 1-4	ADW	dos i dorri coed	NSNT	NSNT
+7, 2	20, 1-2	ADW	rywbeth de	NSNT	NSNT
+7, 3	22, 1-17	ADW	ac *um* o'n i yn sôn wrth *Cadi* gynnau amser cinio pan o'n ni yn bwyta cinio	NST	NST
+7, 4	23, 1-13	ADW	mae yr ardd *front* *Dyffryn* yn hardd iawn chwarae teg i yr ddynes	NST	NST
+7, 5	23, 14-21	ADW	aeth yna at *Gareth* ar_ôl i *Edna* farw	NST	NST
+7, 6	25, 1-12	ADW	mae hi wedi edrych ar ei ôl o yr ddwy dair blynedd	NSNT	NSNT
+7, 7	25, 13-13	ADW	fuodd	NSNT	NSNT
+7, 8	26, 1-6	ADW	*er* ryw ddwy fuodd hi yna	NST	NST
+7, 9	27, 1-4	ADW	na ella maen nhw	NSNT	NSNT
+7, 10	27, 5-13	ADW	wedi bod efo ei_gilydd ryw dair cyn iddo farw	NSNT	NSNT
+7, 11	28, 1-7	ADW	ond dw i meddwl y flwyddyn gynta	NSNT	NSNT
+7, 12	28, 8-15	ADW	bod o wedi mynd i Sir_Fôn ati hi	NSNT	NSNT
+7, 13	29, 1-13	ADW	a wedyn maen nhw wedi dod nôl i fan hyn am ddwy flynedd	NSNT	NSNT
+7, 14	31, 1-9	ADW	ac o'n i yn deud wrth *Cadi* *um* bod	NST	NST
+7, 15	31, 10-14	ADW	bod yr ardd yn hardd	NSNT	NSNT
+7, 16	32, 1-5	ADW	a dyma hi yn deud	SNT	NSNT
+7, 17	33, 1-6	ADW	did you go down the *steps*	ST	NST
+7, 18	34, 1-3	ADW	meddai wrtha fi	SNT	NSNT
+7, 19	35, 1-5	ADW	no I didn't actually *Cadi*	NST	NST
+7, 20	36, 1-12	ADW	*well* down below that was where I used to do my penance	ST	NST
+7, 22	38, 1-9	ADW	pan pan oedd gen *um* *Edna* ddim_byd i wneud	NST	NST
+7, 23	38, 10-17	ADW	oedd hi yn gyrru *Cadi* i fan yno	---	NST
+
+
+8, 1	39, 1-4	BAE	ei gyrru fan yno	---	NSNT
+
+
+9, 1	40, 1-7	ADW	oherwydd oedd o yn lygad yr haul	NSNT	NSNT
+9, 2	40, 8-22	ADW	ac oedd hi yn benderfynol o gael ryw fath o ardd arbennig yn fan yno	NSNT	NSNT
+9, 3	42, 1-6	ADW	ac oedd *Cadi* yn deud *oh*	NST	NST
+9, 4	44, 1-1	ADW	wchi	NSNT	NSNT
+9, 5	44, 2-7	ADW	oedd o fel hyn i ddechrau	---	NSNT
+
+
+10, 1	45, 1-3	BAE	mor serth felly	---	NSNT
+
+
+11, 1	46, 1-3	ADW	fel yma de	NSNT	NSNT
+11, 2	48, 1-15	ADW	*um* ac yn lygad yr haul yn yr ha pan oedd hi yn trio garddio	NST	NST
+11, 3	49, 1-3	ADW	timod a dim	NSNT	NSNT
+11, 4	49, 4-8	ADW	does yna ddim cysgod yna	---	NSNT
+
+
+12, 1	50, 1-7	BAE	sefyllfa amhosibl i ddeud y gwir yn_de	---	NSNT
+
+
+13, 1	51, 1-10	ADW	*ah* ie does yna ddim cysgod o_dan *Dyffryn* o gwbl	---	NST
+
+
+14, 1	52, 1-3	BAE	nag oes wrth_gwrs	NSNT	NSNT
+14, 2	52, 4-5	BAE	nag oes	---	NSNT
+
+
+15, 1	53, 1-8	ADW	a wedyn *um* o'n i yn deud wrthi	ST	NST
+15, 2	54, 1-4	ADW	*well* I don't know	NST	NST
+15, 3	54, 5-9	ADW	what it looks like now	NSNT	NSNT
+15, 4	55, 1-11	ADW	but the one *right* in *front* of the house is lovely	ST	NST
+15, 5	56, 1-3	ADW	a dw i	NSNT	NSNT
+15, 6	56, 4-15	ADW	wedi bod fues i ar_ôl yr *um* Ymddiriedolaeth i ddeud wrthyn nhw	---	NST
+
+
+16, 1	57, 1-2	BAE	esgusodwch fi	---	NSNT
+
+
+17, 1	58, 1-4	ADW	bod fi yn gobeithio	NSNT	NSNT
+17, 2	58, 5-13	ADW	bod nhw ddim yn mynd i esgeuluso yr ardd	NSNT	NSNT
+17, 3	60, 1-9	ADW	achos basai yn talu iddyn nhw i gychwyn rŵan	NSNT	NSNT
+17, 4	60, 10-14	ADW	edrych ar ei hôl hi	NSNT	NSNT
+17, 5	62, 1-5	ADW	mae hi wedi cael ei	NSNT	NSNT
+17, 6	62, 6-6	ADW	roid	NSNT	NSNT
+17, 7	62, 7-7	ADW	mae	NSNT	NSNT
+17, 8	62, 8-19	ADW	mae hi wedi cael cael ei gwneud yn y fath ffordd cyn_belled	NSNT	NSNT
+17, 9	62, 20-20	ADW	â	NSNT	NSNT
+17, 10	62, 21-32	ADW	bod nhw yn *just* dal i fynd yna bob hyn a hyn	NST	NST
+17, 11	63, 1-7	ADW	dim dim yr un fath â hon	NSNT	NSNT
+17, 12	64, 1-5	ADW	chimod dim y gwaith yma	NSNT	NSNT
+17, 13	65, 1-10	ADW	mae hi wedi pacio yn dynn efo planhigion rwng gerrig	NSNT	NSNT
+17, 14	67, 1-8	ADW	a peth hawsa yn y byd gyn_belled â	NSNT	NSNT
+17, 15	67, 9-18	ADW	bod nhw yn mynd yna ryw dair gwaith y flwyddyn	NSNT	NSNT
+17, 16	68, 1-6	ADW	fasai yn hen ddigon iddyn nhw	---	NSNT
+
+
+18, 1	69, 1-2	BAE	basai wir	---	NSNT
+
+
+19, 1	70, 1-4	ADW	basai yn cadw trefn	NSNT	NSNT
+19, 2	72, 1-6	ADW	wedyn *um* maen nhw wedi deud	NST	NST
+19, 3	72, 7-11	ADW	bod nhw mynd i fynd	---	NSNT
+
+
+19, 4	74, 1-3	ADW	gawn ni weld	NSNT	NSNT
+20, 2	76, 21-27	BAE	dach chi yn credu heddiw erbyn heddiw	NSNT	NSNT
+20, 3	78, 1-15	BAE	wyddoch chi mae yna ddiddordeb mawr yn y parciau cenedlaethol yn_does drwy drwy Brydain felly	---	NSNT
+
+
+21, 1	79, 1-9	ADW	mi fasai yna ryw fath o gymdeithas i chi	NSNT	NSNT
+21, 2	80, 1-14	ADW	ond o yr herwydd na fasai hi ddim wedi gorfod goresgyn gymaint o broblemau	NSNT	NSNT
+21, 3	82, 1-7	ADW	oherwydd bod hi wedi cael ei chychwyn	NSNT	NSNT
+21, 4	83, 1-9	ADW	oedd hi yn ddynes o flaen ei amser yn_doedd	NSNT	NSNT
+21, 5	85, 1-19	ADW	a mae yr gymdeithas wedi cael ei chychwyn ar adeg pan wir yr toedd yna neb yn yn dallt	NSNT	NSNT
+21, 6	85, 20-24	ADW	be oedd gyn y ddynes	NSNT	NSNT
+21, 7	88, 1-6	ADW	am be oedd hi yn siarad	---	NSNT
+
+
+22, 1	89, 1-3	BAE	*well* *yeah* *yeah*	---	NST
+
+
+23, 1	90, 1-2	ADW	*er* mynyddoedd	NST	NST
+23, 2	91, 1-5	ADW	be sy isio amddiffyn reiniy	NSNT	NSNT
+23, 3	92, 1-9	ADW	mae reiny ddigon mawr i amddiffyn nhw eu hunain	---	NSNT
+
+
+24, 1	93, 1-5	BAE	*oh* mae hwnna yn *broblem*	NST	NST
+24, 2	93, 6-6	BAE	sy	NSNT	NSNT
+24, 3	93, 7-14	BAE	gynnon ni heddiw i ddeud y gwir yn_dydy	NSNT	NSNT
+24, 4	95, 1-6	BAE	fel oeddech chi yn *well* fel	NST	NST
+24, 5	95, 7-9	BAE	oeddech chi yn	---	NSNT
+
+
+25, 1	96, 1-5	ADW	os ydy o yn *broblem*	NST	NST
+25, 2	96, 6-11	ADW	os ydy o yn *broblem* heddiw	NST	NST
+25, 3	98, 1-3	ADW	sut oedd o	NSNT	NSNT
+25, 4	98, 4-10	ADW	meddech chi yr holl blynyddoedd yna nôl	NSNT	NSNT
+25, 5	98, 11-16	ADW	pan oedd hi yn trio amddiffyn	---	NSNT
+
+
+26, 1	99, 1-6	BAE	ie *well* *well* *yeah* *well* *yeah*	---	NST
+
+
+27, 1	100, 1-5	ADW	*um* mi ddylai *er* mi	NST	NST
+27, 2	100, 6-9	ADW	faswn i meddwl y	NSNT	NSNT
+27, 3	100, 10-16	ADW	dylai fo fod wedi datblygu *lot* gynt	NST	NST
+27, 4	101, 1-8	ADW	ond ar_ôl deud hynny dach chi yn gweld	NSNT	NSNT
+27, 5	101, 9-17	ADW	mae gwin a caws yn well wedi mature_io yn_dydy	---	SNT
+
+
+28, 1	102, 1-2	BAE	yndyn *sure*	---	NST
+
+
+29, 1	103, 1-5	ADW	a dw i yn amau	NSNT	NSNT
+29, 2	103, 6-9	ADW	bod y gymdeithas yma	NSNT	NSNT
+29, 3	103, 10-13	ADW	wedi bod yn hir	---	NSNT
+
+
+30, 1	104, 1-1	BAE	yn	---	NSNT
+
+
+31, 1	105, 1-2	ADW	yn ffermentio	NSNT	NSNT
+31, 2	107, 1-4	ADW	a dw i meddwl	NSNT	NSNT
+31, 3	107, 5-12	ADW	fedra i ddeud heb swnio yn ry orchestog	NSNT	NSNT
+31, 4	107, 13-18	ADW	bod hi yn gymdeithas *right* unigryw	NST	NST
+31, 5	109, 1-11	ADW	oherwydd er bod yna gymdeithasau dirif yn edrych ar_ôl yr amgylchedd	NSNT	NSNT
+31, 6	109, 12-16	ADW	dan ni erbyn hyn wedi	NSNT	NSNT
+31, 7	109, 17-24	ADW	dan ni wedi medru mynd allan yn llydan	NSNT	NSNT
+31, 8	110, 1-16	ADW	*er* dan ni wedi medru taflyd ein hunain allan i bob mathau o bethau erbyn hyn	NST	NST
+31, 9	111, 1-7	ADW	nid *just* cwffio yn_erbyn pethau nid *just*	---	NST
+
+
+32, 1	112, 1-5	BAE	ond cefnogi pethau hefyd yn_de	---	NSNT
+
+
+33, 1	113, 1-1	ADW	nid	---	NSNT
+
+
+34, 1	116, 1-2	BAE	gwella pethau	---	NSNT
+
+
+35, 1	119, 1-7	ADW	a dw i meddwl mai mond rywun	NSNT	NSNT
+35, 2	119, 8-8	ADW	sy	NSNT	NSNT
+35, 3	119, 9-16	ADW	wedi bod i_fewn o yr dechrau neu rywun	NSNT	NSNT
+35, 4	119, 17-17	ADW	sy	NSNT	NSNT
+35, 5	119, 18-25	ADW	wedi bod yn gwatsiad *um* ar yr ymylon	NST	NST
+35, 6	121, 1-3	ADW	sy yn sylweddoli	NSNT	NSNT
+35, 7	123, 1-6	ADW	mor ara deg ond mor *um*	NST	NST
+35, 8	124, 1-4	ADW	be ydy yr gair	SNT	NSNT
+35, 9	125, 1-6	ADW	consistent ydy yr gair yn Saesneg	NSNT	SNT
+35, 10	125, 7-8	ADW	mae *sure*	---	NST
+
+
+36, 1	126, 1-2	BAE	*yeah* petasai	---	NST
+
+
+37, 1	128, 1-2	ADW	mae yr	---	NSNT
+
+
+38, 1	129, 1-9	BAE	wchi be o'n i feddwl i ddeud y gwir	NSNT	NSNT
+38, 2	129, 10-11	BAE	oedd Sais	NSNT	NSNT
+38, 3	129, 12-14	BAE	oedd hi wrth_gwrs	---	NSNT
+
+
+39, 1	130, 1-10	ADW	*oh* *yeah* ac yn_erbyn y Gymraeg o ran y gymdeithas	NST	NST
+39, 2	132, 1-13	ADW	andros o *job* i gael ei pherswadio bod isio dim_byd yn y Gymraeg	---	NST
+
+
+40, 1	133, 1-6	BAE	mae yn hawdd dallt felly pam	NSNT	NSNT
+40, 2	133, 7-16	BAE	bod y rhan fwya o yr aelodaeth yn Saesneg yn_dydy	---	NSNT
+
+
+41, 1	134, 1-1	ADW	*hollol*	---	NST
+
+
+42, 1	135, 1-11	BAE	petasai rywun fel chi er enghraifft wedi mynnu dechrau yr gymdeithas	NSNT	NSNT
+42, 2	137, 1-17	BAE	basech chi mae yn debyg wedi mynd o_gwmpas y *er* *er* *er* y gwaith mewn ffordd gwahanol	---	NST
+
+
+43, 1	138, 1-6	ADW	*well* hollol wahanol dach chi gweld	---	NST
+
+
+44, 1	139, 1-12	BAE	ond basech chi wedi anelu at mwy o Gymry yno fo yn_basech	---	NSNT
+
+
+45, 1	140, 1-1	ADW	hollol	---	NSNT
+
+
+46, 1	141, 1-11	BAE	ond tybed fasai yr gymdeithas wedi tyfu i yr maint y	NSNT	NSNT
+46, 2	141, 12-14	BAE	mae hi heddiw	NSNT	NSNT
+46, 3	141, 15-19	BAE	pan fyddan ni yn cysidro	NSNT	NSNT
+46, 4	142, 1-17	BAE	*question* dw i wedi ofyn i fi fy hun yn aml dros y flwyddyn ddwytha yma hynny	NST	NST
+46, 5	142, 19-29	BAE	ydy yr Cymry yn gwir werthfawrogi yr tirwedd sydd o_gwmpas a	NSNT	NSNT
+46, 6	142, 30-31	BAE	be sy	NSNT	NSNT
+46, 7	142, 32-33	BAE	gynnon ni	---	NSNT
+
+
+47, 1	143, 1-10	ADW	a gwyddoch chi be dw i wedi ddeud fath â	NSNT	NSNT
+47, 2	143, 11-23	ADW	maen nhw yn deud yn y a prophet is not without honour save	SNT	SNT
+47, 3	144, 1-16	ADW	dydy a a a landscape is not without honour *er* save in its own country chwaith	---	ST
+
+
+48, 1	145, 1-3	BAE	*mmhm* ie *sure*	---	NST
+
+
+49, 1	146, 1-9	ADW	achos os dach chi wedi tyfu fyny efo rywbeth	NSNT	NSNT
+49, 2	148, 1-6	ADW	â deud y gwir yn *honest*	NST	NST
+49, 3	148, 7-8	ADW	mae gofyn	NSNT	NSNT
+49, 4	148, 9-18	ADW	bod chi yn ryw *berson* *right* *sensitive* i fod yn	NST	NST
+49, 5	150, 1-10	ADW	sylweddoli bob munud o yr dydd bod chi yn freintiedig	NSNT	NSNT
+49, 6	152, 1-6	ADW	i fyw yn y fath lle	---	NSNT
+
+
+50, 1	153, 1-3	BAE	yndy hollol wir	---	NSNT
+
+
+51, 1	154, 1-15	ADW	achos yn enwedig os dach chi fath â yr ffarmwr yn cwffio yn_erbyn yr elfennau	NSNT	NSNT
+51, 2	156, 1-17	ADW	o bump o gloch bore tan un_ar_ddeg y nos a codi bob munud at loeau a ŵyn	---	NSNT
+
+
+52, 1	157, 1-2	BAE	*yeah* *sure*	---	NST
+
+
+53, 1	158, 1-9	ADW	*um* mae yn dipyn o *job* i chi werthfawrogi	NST	NST
+53, 2	159, 1-13	ADW	*oh* ie ond dw i yn gwneud yr holl yma mewn lle ardderchog	NST	NST
+53, 3	161, 1-5	ADW	mae yn dipyn o *job*	NST	NST
+53, 4	161, 6-6	ADW	dydy	---	NSNT
+
+
+54, 1	162, 1-11	BAE	yn enwedig os dach chi yn gorfod gweithio yn_erbyn y mynydd	NSNT	NSNT
+54, 2	162, 12-16	BAE	sy ddim yn tyfu gwair	---	NSNT
+
+
+55, 1	163, 1-3	ADW	hollol hollol ie	---	NSNT
+
+
+56, 1	164, 1-10	BAE	sy ddim felly yn gallu rhoi bwyd i yr anifeiliaid	NSNT	NSNT
+56, 2	166, 1-11	BAE	lle na fydd o felly ddim yn gallu cael arian yn_ôl	---	NSNT
+
+
+57, 1	167, 1-2	ADW	hollol ie	---	NSNT
+
+
+58, 1	168, 1-10	BAE	dyna ei reswm o am fod yn yr ardal yna	NSNT	NSNT
+58, 2	168, 11-15	BAE	yn_de i ddeud y gwir	---	NSNT
+
+
+59, 1	170, 1-17	ADW	a a yr a lle gorau fel dach chi yn gwybod i weld Eryri yn ei gogoniant	NSNT	NSNT
+59, 2	170, 18-19	ADW	ydy Sir_Fôn	NSNT	NSNT
+59, 3	172, 1-1	ADW	mae	NSNT	NSNT
+59, 4	172, 2-4	ADW	gynna i ffrind	NSNT	NSNT
+59, 5	173, 1-7	ADW	a dw i yn cofio mynd â	NSNT	NSNT
+59, 6	173, 8-8	ADW	yr	NSNT	NSNT
+59, 7	173, 9-21	ADW	â ag fy ngŵr i fyny i llofft yn ffrind i ddangos rywbeth	NSNT	NSNT
+59, 8	173, 22-27	ADW	oedd wedi cael ei wneud yno	NSNT	NSNT
+59, 9	175, 1-6	ADW	ryw rywbeth dw ddim yn cofio	NSNT	NSNT
+59, 10	175, 7-13	ADW	be oedd wedi cael ei wneud yna	NSNT	NSNT
+59, 11	176, 1-5	ADW	a dyma fo yn sbïo	NSNT	NSNT
+59, 12	177, 1-14	ADW	wrth_gwrs ddim diddordeb llawer yn be oedd yn cael ei wneud yn fan yno	NSNT	NSNT
+59, 13	177, 15-23	ADW	ond bod fi yn gwneud i blesio yn ffrind	NSNT	NSNT
+59, 15	179, 1-15	ADW	dyma fo yn sbïo trwy yr ffenestr a gweld Eryri yn martsio o ei flaen	NSNT	NSNT
+59, 16	181, 1-3	ADW	yn ei gogoniant	---	NSNT
+
+
+60, 1	182, 1-4	BAE	mae o yn fendigedig	---	NSNT
+
+
+61, 1	183, 1-5	ADW	a dyma fo yn deud	NSNT	NSNT
+61, 2	184, 1-4	ADW	*oh* *oh* yli golygfa	NST	NST
+61, 3	184, 5-8	ADW	sy gen ti *Ffion*	NST	NST
+61, 4	186, 1-4	ADW	yli yr mynyddoedd yna	NSNT	NSNT
+61, 5	188, 1-9	ADW	yn un res o dy flaen di bob bore	NSNT	NSNT
+61, 6	189, 1-8	ADW	i be maen nhw yn da i mi	---	NSNT
+
+
+62, 1	192, 1-2	BAE	*well* *yeah*	---	NST
+63, 2	194, 1-8	ADW	a dyma ei frawd o oedd yn digwydd	NSNT	NSNT
+63, 3	194, 9-15	ADW	bod yn eistedd yna y noson honno	NSNT	NSNT
+63, 4	194, 16-18	ADW	dyn mewn oed	NSNT	NSNT
+63, 5	194, 19-21	ADW	mae yn deud	NSNT	NSNT
+63, 6	195, 1-10	ADW	y perffaith wir be maen nhw yn da i ni	---	NSNT
+
+
+64, 1	196, 1-2	BAE	*well* *yeah*	ST	NST
+64, 2	197, 1-12	BAE	ond rhan o yr effaith maen nhw yn gael ar y llygad	---	NSNT
+
+
+65, 1	198, 1-3	ADW	dyna fo ylwch	NSNT	NSNT
+65, 2	198, 4-12	ADW	mae bobl Sir_Fôn yn edrych draw ac yn deud	NSNT	NSNT
+65, 3	199, 1-8	ADW	i be mae rheina yn da i ni	---	NSNT
+
+
+66, 1	201, 1-11	BAE	pan o'n i yn tyfu fyny yn yr ardal yma felly	NSNT	NSNT
+66, 3	203, 1-13	BAE	a mi oedd fy nhad wedi ei eni yn *Amlwch* yn Sir_Fôn wrth_grws	NST	NST
+66, 4	205, 1-14	BAE	a pan oedd o yn aros hefo teulu fy *mam* ym *Metws_y_Coed* y *question*	NST	NST
+66, 5	205, 15-22	BAE	oedd o yn ei ofyn trwy yr amser	NSNT	NSNT
+66, 6	206, 1-9	BAE	pam dan ni yn aros yma yn y glaw	NSNT	NSNT
+66, 7	206, 10-18	BAE	pan allen ni fod yn yr haul yn Sir_Fôn	NSNT	NSNT
+66, 8	208, 1-8	BAE	felly os oedd hi yn glawio yn *Betws*	NST	NST
+66, 9	208, 9-18	BAE	be fydden ni wneud *right* aml yn ystod yr haf	NST	NST
+66, 10	210, 1-9	BAE	fasai crwydro yn y *car* drosodd wedyn i Sir_Fôn	NST	NST
+66, 11	212, 1-11	BAE	ac mae yn gywir wrth_gwrs y rhan fwya o yr amser	NSNT	NSNT
+66, 12	212, 12-22	BAE	pan oedden ni yn mynd yn y *car* i Sir_Fôn mi	NST	NST
+66, 13	212, 23-35	BAE	oedd yr haul yn tywynnu ar_ôl mynd yr ochr draw i *Bangor* yn_doedd	NST	NST
+66, 14	214, 1-16	BAE	ond *er* be oedden ni ddweud wrth_gwrs *er* fy *mam* a fi yn ei erbyn o	NST	NST
+66, 15	214, 17-22	BAE	oedd y peth gorau am Sir_Fôn	NSNT	NSNT
+66, 16	214, 23-30	BAE	oedd yr olygfa yn_ôl i yr Eryri felly	---	NSNT
+
+
+67, 1	215, 1-3	ADW	i Eryri hollol	NSNT	NSNT
+67, 3	217, 1-12	ADW	a mae yn ffrind erbyn hyn wedi priodi *er* y *person* lleol	NST	NST
+67, 4	219, 1-8	ADW	a maen nhw yn byw yn y reithordy	NSNT	NSNT
+67, 5	219, 9-17	ADW	sy yr ochr arall i yr lôn i lle	NSNT	NSNT
+67, 6	219, 18-25	ADW	lle oedd hi yn byw mwy neu lai	NSNT	NSNT
+67, 7	221, 1-13	ADW	ond *er* mae yr tŷ yn gwynebu hollol ffordd arall i yr tŷ	NST	NST
+67, 8	221, 14-17	ADW	oedd hi yno fo	NSNT	NSNT
+67, 9	223, 1-4	ADW	a mae chegin hi	NSNT	NSNT
+67, 10	223, 6-9	ADW	pan dach chi yn	NSNT	NSNT
+67, 11	223, 10-13	ADW	a mae yn *oh*	NST	NST
+67, 12	223, 14-25	ADW	pan dw i mynd lawr y grisiau yn bore i wneud paned	NSNT	NSNT
+67, 13	223, 26-33	ADW	dw i yn methu stopio edrych drwy ffenestr	---	NSNT
+
+
+68, 1	225, 1-2	BAE	mae yn	NSNT	NSNT
+68, 2	225, 3-11	BAE	mae o yn wyrthiol i ddeud y gwir yn_dydy	---	NSNT
+
+
+69, 1	226, 1-3	ADW	mae yn anhygoel	---	NSNT
+
+
+70, 1	227, 1-14	BAE	pan ges i yr fraint o fynd i_fyny i gopa yr Wyddfa bythefnos yn_ôl	NSNT	NSNT
+70, 2	227, 15-27	BAE	fuon ni yn aros yna dros nos a gweld yr haul yn machlud	NSNT	NSNT
+70, 3	229, 1-5	BAE	yr un noson wedyn codi	NSNT	NSNT
+70, 4	231, 1-15	BAE	tua ychydig ar_ôl bedwar o yr gloch bore wedyn a gweld yr haul yn codi	NSNT	NSNT
+70, 5	233, 1-5	BAE	drwy yr cymylau i_gyd yn_de	NSNT	NSNT
+70, 6	235, 1-11	BAE	am oriau drwy fod ni yna efo yr cwmni teledu yma	NSNT	NSNT
+70, 7	237, 1-1	BAE	doedd	NSNT	NSNT
+70, 8	237, 2-10	BAE	gynna i ddim_byd i wneud i ddeud y gwir	NSNT	NSNT
+70, 9	239, 1-5	BAE	ond hongian o_gwmpas a gweitied	NSNT	NSNT
+70, 10	239, 6-7	BAE	nes i	NSNT	NSNT
+70, 11	239, 8-16	BAE	nhro i ddod i fynd ar y teledu felly	NSNT	NSNT
+70, 12	241, 1-14	BAE	wedyn o'n i yn gallu mynd o_gwmpas efo *camera* tynnu lluniau o bob cyfeiriad	NST	NST
+70, 13	243, 1-7	BAE	ac o'n *oh* o'n i wedi mhlesio	---	NST
+
+
+71, 1	244, 1-3	ADW	mae yn anhygoel	NSNT	NSNT
+71, 2	244, 4-4	ADW	dydy	---	NSNT
+
+
+72, 1	245, 1-8	BAE	mae o yn fraint i fod yna felly	---	NSNT
+
+
+73, 1	246, 1-3	ADW	*oh* yndy yn_dydy	---	NST
+
+
+74, 1	247, 1-11	BAE	ond wrth_gwrs mi dach chi yn gallu edrych allan am Sir_Fôn	---	NSNT
+
+
+75, 1	248, 1-1	ADW	*well*	---	NST
+
+
+76, 1	249, 1-9	BAE	a mi oedd Sir_Fôn yn edrych *right* dlws hefyd	---	NST
+
+
+77, 1	250, 1-4	ADW	o o fan yno	---	NSNT
+
+
+78, 1	251, 1-4	BAE	yn y pellter felly	---	NSNT
+
+
+79, 1	252, 1-4	ADW	o fan yno hollol	---	NSNT
+
+
+80, 1	253, 1-2	BAE	dim bod	NSNT	NSNT
+80, 2	253, 3-10	BAE	gynna i ddim_byd yn_erbyn Sir_Fôn wrth_gwrs ond *er*	---	NST
+
+
+81, 1	254, 1-2	ADW	mae *um*	NST	NST
+81, 2	255, 1-3	ADW	dw i *oh*	NST	NST
+81, 3	255, 4-8	ADW	dw i dal i feddwl	NSNT	NSNT
+81, 4	255, 9-12	ADW	wchi *um* er hynny	NST	NST
+81, 5	255, 13-19	ADW	dydy pawb ddim yn teimlo fel yna	NSNT	NSNT
+81, 6	255, 20-20	ADW	wchi	NSNT	NSNT
+81, 8	257, 1-14	ADW	petasech chi yn gafael mewn llawer un sy yn byw yn lleol a ei	NSNT	NSNT
+81, 9	257, 15-19	ADW	roid o yn y sefyllfa	NSNT	NSNT
+81, 10	257, 20-23	ADW	oeddech chi yno fo	NSNT	NSNT
+81, 11	257, 24-28	ADW	noson honno yr unig beth	NSNT	NSNT
+81, 12	257, 29-33	ADW	fasen nhw medru deud meddwl	NSNT	NSNT
+81, 13	258, 1-7	ADW	*oh* tydy yn oer yn fan yma	---	NST
+
+
+82, 1	259, 1-6	BAE	mae hwnna yn wir hefyd wrth_gwrs	---	NSNT
+
+
+83, 1	260, 1-17	ADW	neu *um* bob mathau o bethau *er* *er* o resymau i gwyno am am orfod bod yno	NST	NST
+83, 2	262, 1-8	ADW	a gweld dim rinwedd yn y lle o_gwbl	NSNT	NSNT
+83, 3	264, 1-4	ADW	a ryfedd chi sôn	NSNT	NSNT
+83, 4	265, 1-5	ADW	mae yn ŵyr fenga fi	NSNT	NSNT
+83, 5	265, 6-14	ADW	wedi bod yn aros efo fi dros y penwythnos	NSNT	NSNT
+83, 6	266, 1-11	ADW	ac *um* mae o yn byw i_lawr ar yr yr arfordir	NST	NST
+83, 8	267, 31-34	ADW	dach chi yn gweld	NSNT	NSNT
+83, 9	269, 1-9	ADW	a crwydro i gyfeiriad sut fedra i ddeud *Tal_y_Farn*	NST	NST
+83, 10	271, 1-5	ADW	wchi i yr cyfeiriad hwnnw	---	NSNT
+
+
+84, 1	274, 1-2	BAE	*yeah* *sure*	---	NST
+
+
+85, 1	275, 1-10	ADW	maen nhw yn y *park* cenedlaethol yn fan yno wrth_gwrs	NST	NST
+85, 3	277, 1-8	ADW	a mae yna ryw lyn bach yna *Llyn_y_Wrach*	NST	NST
+85, 4	278, 1-7	ADW	*um* oedd o yn deud wrtha i	NST	NST
+85, 5	279, 1-4	ADW	ew sti be Nain	NSNT	NSNT
+85, 6	279, 5-19	ADW	oeddwn i *um* wedi bwyta gormod o yr hen *Pot_Noodles* yna cyn mynd i gwely	NST	NST
+85, 8	281, 1-4	ADW	*oh* *yeah* medda fi	NST	NST
+85, 9	282, 1-11	ADW	ew ac o'n i yn clywed y mol i yn corddi	NSNT	NSNT
+85, 11	284, 1-5	ADW	a dyma fi yn codi	NSNT	NSNT
+85, 12	285, 1-4	ADW	a dyma fi allan	NSNT	NSNT
+85, 13	286, 1-5	ADW	a dyma fi yn eistedd	NSNT	NSNT
+85, 14	287, 1-3	ADW	a dyma fi	NSNT	NSNT
+85, 15	288, 1-6	ADW	naci dyma fi yn cerdded o_gwmpas	NSNT	NSNT
+85, 16	290, 1-6	ADW	*ah* timod be o'n i falch	NST	NST
+85, 17	290, 7-8	ADW	bod fi	NSNT	NSNT
+85, 18	290, 9-12	ADW	bod fi wedi deffro	NSNT	NSNT
+85, 19	292, 1-10	ADW	*well* petaset ti yn gweld y sêr uwchben y mynyddoedd	NST	NST
+85, 20	293, 1-3	ADW	oedd o well	NSNT	NSNT
+85, 21	293, 4-7	ADW	bod allan nag i_fewn	NSNT	NSNT
+85, 22	295, 1-9	ADW	ac o'n i meddwl dach chi yn gweld un_ai	NSNT	NSNT
+85, 23	295, 10-19	ADW	dach chi yn cael eich geni hefo yr teimlad yna	NSNT	NSNT
+85, 24	297, 1-11	ADW	pedair_ar_ddeg ydy o a *real* chimod *street* kid fasech chi meddwl	NST	ST
+85, 25	299, 1-15	ADW	achos mae o neidio ar ei *fike* syth ar_ôl dod o yr ysgol ac allan	---	NST
+
+
+86, 1	300, 1-2	BAE	*yeah* *sure*	---	NST
+
+
+87, 1	301, 1-2	ADW	rywbeth nad	NSNT	NSNT
+87, 2	301, 3-5	ADW	oedd ei frawd	NSNT	NSNT
+87, 3	301, 6-13	ADW	sy yn hŷn na fo erioed wedi wneud	NSNT	NSNT
+87, 4	302, 1-7	ADW	ond *er* oedd hyd_yn_oed hwnnw yn teimlo	NST	NST
+87, 5	302, 8-14	ADW	bod o yn cael ryw fraint yn_doedd	---	NSNT
+
+
+88, 1	303, 1-2	BAE	*well* oedd	NST	NST
+88, 2	303, 3-4	BAE	oedd *sure*	---	NST
+
+
+89, 1	304, 1-12	ADW	yn gweld y mynyddoedd efo yr sêr wrth eu pennau nhw yn_de	---	NSNT
+
+
+90, 1	305, 1-3	BAE	wela i ddim	NSNT	NSNT
+90, 2	305, 4-13	BAE	bod pethau mynd i wella chwaith wyddoch chi oherwydd rŵan	NSNT	NSNT
+90, 3	305, 14-28	BAE	mae yr plant yn lle mynd allan i grwydro ar_ôl dod adre o yr ysgol	NSNT	NSNT
+90, 4	305, 29-37	BAE	pan maen nhw yn byw yn y cylch yma	NSNT	NSNT
+90, 5	305, 38-41	BAE	dw i meddwl rŵan	NSNT	NSNT
+90, 6	307, 1-19	BAE	wrth_gwrs mynd i_mewn i yr tŷ maen nhw i chwarae ar y teledu hefo neu ar yr *er* cyfrifiadur	NST	NST
+90, 7	307, 20-26	BAE	yn_de hefo yr gemau yma *electronic* felly	NST	NST
+90, 8	309, 1-10	BAE	a dydyn nhw ddim maen nhw yn byw virtual *reality*	ST	ST
+90, 9	309, 11-16	BAE	maen nhw yn ddeud yn Saesneg	---	NSNT
+
+
+91, 1	310, 1-1	ADW	ydyn	NSNT	NSNT
+91, 2	310, 2-2	ADW	ydyn	---	NSNT
+
+
+92, 1	311, 1-3	BAE	dyna yr gemau	NSNT	NSNT
+92, 2	311, 4-10	BAE	maen nhw yn chwarae ar y cyfrifiadur	NSNT	NSNT
+92, 3	312, 1-8	BAE	yn anffodus dyna yr y y y byd	NSNT	NSNT
+92, 4	312, 9-13	BAE	maen nhw yn byw yno	NSNT	NSNT
+92, 5	312, 14-15	BAE	fo yn_de	NSNT	NSNT
+92, 6	314, 1-9	BAE	dydyn nhw ddim yn byw yn y byd *um*	---	NST
+
+
+93, 1	315, 1-2	ADW	nac ydyn	---	NSNT
+
+
+94, 1	316, 1-6	BAE	*er* cyffredin fel dan ni felly	---	NST
+
+
+95, 1	317, 1-2	ADW	hollol hollol	---	NSNT
+
+
+96, 1	318, 1-10	BAE	pan o'n i yn tyfu fyny doedd dim eisiau teganau	NSNT	NSNT
+96, 2	318, 11-14	BAE	oedd yn gwneud pethau	NSNT	NSNT
+96, 3	319, 1-11	BAE	mi oeddwn i yn gwneud i yr teganau wneud be bynnag	NSNT	NSNT
+96, 4	319, 12-12	BAE	yr	NSNT	NSNT
+96, 5	319, 13-16	BAE	oeddwn i eisiau felly	NSNT	NSNT
+96, 6	321, 1-3	BAE	hyd_yn_oed os nad	NSNT	NSNT
+96, 7	321, 4-7	BAE	oedd yna degan yna	NSNT	NSNT
+96, 8	323, 1-15	BAE	er enghraifft mi oedd y bwrdd y llawr yn yr *um* ystafell fwyta *oh* mi	NST	NST
+96, 9	323, 16-19	BAE	oedd hwnna yn gallu	NSNT	NSNT
+96, 10	323, 20-22	BAE	bod yn long	---	NSNT
+
+
+97, 1	324, 1-2	ADW	*well* oedd	---	NST
+
+
+98, 1	325, 1-5	BAE	mi oedd o yn babell	---	NSNT
+
+
+99, 1	326, 1-2	ADW	oedd *sure*	---	NST
+
+
+100, 1	327, 1-5	BAE	mi oedd o yn dŷ	NSNT	NSNT
+100, 2	329, 1-7	BAE	mi oedd o yn gastell be bynnag	NSNT	NSNT
+100, 3	329, 8-19	BAE	oedd ddychymyg yn *er* *er* *er* *er* yn dymuno yn dymuno felly	---	NST
+
+
+101, 1	330, 1-2	ADW	oedd hollol	---	NSNT
+
+
+102, 1	331, 1-11	BAE	ond diwrnodiau yma wrth_gwrs mae rhaid i bob tegan wneud rywbeth	NSNT	NSNT
+102, 2	332, 1-8	BAE	ac unwaith mae o wedi gwneud be bynnag	NSNT	NSNT
+102, 3	332, 9-13	BAE	mae o fod i wneud	NSNT	NSNT
+102, 4	332, 14-22	BAE	mae yn cymryd pum munud efallai i wneud hynna	NSNT	NSNT
+102, 5	332, 23-28	BAE	mae mynd i un ochr wedyn	NSNT	NSNT
+102, 6	334, 1-9	BAE	a mae yr plentyn isio mynd am rywbeth arall	---	NSNT
+
+
+103, 1	335, 1-1	ADW	hollol	---	NSNT
+
+
+104, 1	336, 1-12	BAE	ac wedyn wrth_gwrs drwy be dan nhw yn weld ar y teledu	NSNT	NSNT
+104, 2	336, 13-30	BAE	bod ceir yn malu i_mewn i w_gilydd mi gymran nhw eu teganau a creu yr un effaith yn_gwnân	NSNT	NSNT
+104, 3	337, 1-4	BAE	a wedyn i_ffwrdd mae	NSNT	NSNT
+104, 4	337, 5-10	BAE	maen nhw mynd wedyn am byth	NSNT	NSNT
+104, 5	339, 1-6	BAE	lle mae yr dychymyg yn mynd	NSNT	NSNT
+104, 6	340, 1-8	BAE	ac i ddeud y gwir dw i meddwl	NSNT	NSNT
+104, 7	340, 9-17	BAE	pan dach chi yn edrych ar y tirwedd allan	NSNT	NSNT
+104, 8	340, 18-26	BAE	mae isio defnyddio eich dychymyg yn yr un modd	NSNT	NSNT
+104, 9	340, 27-30	BAE	mae yn debyg ag	NSNT	NSNT
+104, 10	340, 31-34	BAE	oedd bobl amser *Victoria*	NST	NST
+104, 12	341, 24-27	BAE	lle oedd yna bethau	NSNT	NSNT
+104, 13	341, 28-28	BAE	nad	NSNT	NSNT
+104, 14	341, 29-40	BAE	oedd bobl ddim yn eu dallt yn gywir yn mynd ymlaen felly	NSNT	NSNT
+104, 15	343, 1-10	BAE	a mi oedd hwnnw yn cadw rhai bobl i ffordd	NSNT	NSNT
+104, 16	343, 11-12	BAE	mae i_ffwrdd	NSNT	NSNT
+104, 17	343, 13-16	BAE	mae *sure* yn_doedd o	NST	NST
+104, 18	345, 1-8	BAE	oedd gennyn nhw ofn y y sefyllfa felly	---	NSNT
+
+
+105, 1	346, 1-1	ADW	hollol	---	NSNT
+
+
+106, 1	347, 1-8	BAE	ond am fod gennyn nhw ddychymyg oedd hynna	NSNT	NSNT
+106, 2	348, 1-12	BAE	rŵan yntau dydy bobl diwrnodiau yma sydd heb ddychymyg efallai *well* efallai	NST	NST
+106, 3	348, 13-16	BAE	bod nhw o_dan anadfantais	NSNT	NSNT
+106, 4	349, 1-1	BAE	does	NSNT	NSNT
+106, 5	349, 2-5	BAE	gynnon ni *um* dim	NST	NST
+106, 6	349, 6-6	BAE	does	NSNT	NSNT
+106, 7	349, 7-11	BAE	gynna i ddim *problem* felly	NST	NST
+106, 8	350, 1-10	BAE	os gynna i awr neu ddau i i i wastraffu	NSNT	NSNT
+106, 9	350, 11-20	BAE	does yna ddim llawer o hynna yn digwydd diwrnodiau yma	NSNT	NSNT
+106, 10	350, 21-27	BAE	pan fydda i adre ond *um* mi	NST	NST
+106, 11	350, 28-35	BAE	alla i fynd i_lawr at lan yr afon	NSNT	NSNT
+106, 12	352, 1-6	BAE	a mi alla i eistedd yna	---	NSNT
+
+
+107, 1	353, 1-3	ADW	a *just* bod	---	NST
+
+
+108, 1	354, 1-2	BAE	bod yna	---	NSNT
+
+
+109, 1	355, 1-4	ADW	a *just* bod yno	---	NST
+
+
+110, 1	356, 1-2	BAE	bod yna	NSNT	NSNT
+110, 2	358, 1-1	BAE	wchi	NSNT	NSNT
+110, 3	358, 2-2	BAE	mae	NSNT	NSNT
+110, 4	358, 3-3	BAE	yr	NSNT	NSNT
+110, 5	358, 4-8	BAE	mae yr olygfa yn wych	NSNT	NSNT
+110, 6	359, 1-10	BAE	dw i yn clywed sŵn yr afon yn mynd heibio	NSNT	NSNT
+110, 7	361, 1-6	BAE	dw i yn clywed yr adar	NSNT	NSNT
+110, 8	363, 1-6	BAE	dw i yn clywed yr anifeiliaid	---	NSNT
+
+
+111, 1	364, 1-3	ADW	mae yn anhygoel	---	NSNT
+
+
+112, 1	365, 1-2	BAE	mae o	NSNT	NSNT
+112, 2	366, 1-3	BAE	mae o yn	NSNT	NSNT
+112, 3	366, 4-5	BAE	mae yn	NSNT	NSNT
+112, 4	366, 6-7	BAE	werth chweil	---	NSNT
+
+
+113, 1	367, 1-7	ADW	a dach chi yn sylweddoli mor lwcus	NSNT	NSNT
+113, 2	367, 8-9	ADW	dach chi	---	NSNT
+
+
+114, 1	368, 1-2	BAE	bobl bach	---	NSNT
+
+
+115, 1	369, 1-1	ADW	mi	---	NSNT
+
+
+117, 1	371, 1-3	ADW	a dod yn_ôl	NSNT	NSNT
+117, 2	372, 1-3	ADW	*ah* *well* cofiwch	---	NST
+
+
+118, 1	373, 1-7	BAE	i mi gael y bendith yma felly	---	NSNT
+
+
+119, 1	374, 1-18	ADW	dw i yn meddwl er mod i fel plentyn erioed wedi mwynhau allan yn y yn y wlad	NSNT	NSNT
+119, 2	376, 1-5	ADW	mi es innau i Lloegr	NSNT	NSNT
+119, 3	376, 6-10	ADW	dach chi yn gweld am	NSNT	NSNT
+119, 4	377, 1-6	ADW	fues i yna am faint dwch	NSNT	NSNT
+119, 5	378, 1-4	ADW	chwe mlynedd mae *sure*	NST	NST
+119, 6	379, 1-3	ADW	ie chwe mlynedd	NSNT	NSNT
+119, 7	381, 1-6	ADW	ac *um* synnwn i ddim wir	NST	NST
+119, 8	383, 1-3	ADW	bod fath â	NSNT	NSNT
+119, 9	383, 4-7	ADW	dach chi yn deud	NSNT	NSNT
+119, 10	383, 8-12	ADW	mae o ella wneud gwahaniaeth	NSNT	NSNT
+119, 11	383, 13-13	ADW	wchi	NSNT	NSNT
+119, 13	387, 1-1	ADW	fyddai	NSNT	NSNT
+119, 14	387, 2-3	ADW	gynna i	NSNT	NSNT
+119, 15	388, 1-10	ADW	pan o'n i yn yr ysgol ramadeg yn *Llanelli* fyddai	NST	NST
+119, 16	388, 11-21	ADW	gynna i ffrindiau weithiau yn dod allan i ben y mynydd	NSNT	NSNT
+119, 17	390, 1-5	ADW	lle o'n i yn byw	NSNT	NSNT
+119, 18	392, 1-6	ADW	a fath â deudodd y gŵr	SNT	NSNT
+119, 19	393, 1-5	ADW	I *can* see the house	NST	NST
+119, 20	394, 1-5	ADW	I can't see the mountain	SNT	NSNT
+119, 21	397, 1-4	ADW	*um* *Penbre* mynydd *Penbre*	NST	NST
+119, 22	399, 1-9	ADW	a diddorol ar_draws y *story* baswn i yn licio	NST	NST
+119, 23	399, 10-13	ADW	petaswn i wedi sylweddoli	NSNT	NSNT
+119, 24	399, 14-19	ADW	be oedd *Penbre* yn ei feddwl	NST	NST
+119, 25	400, 1-15	ADW	wrth_gwrs oherwydd y cyfnod yr ffordd Seisnigaidd oedd o yn cael ei sillafu Pembrey P_E_M_B_R_E_Y	---	SNT
+
+
+120, 1	401, 1-3	BAE	R_E_Y *well* *yeah*	---	NST
+
+
+121, 1	402, 1-8	ADW	oedd Sais ddim yn medru deud *Penbre* nac	---	NST
+
+
+122, 1	403, 1-3	BAE	nac oedd *sure*	---	NST
+
+
+123, 1	404, 1-4	ADW	a wedyn Pembrey yn_de	NSNT	SNT
+123, 2	406, 1-16	ADW	*well* ymhen dipyn mi ddois i sylweddoli mai *P* E *N* *B* R E oedd o	---	ST
+
+
+124, 1	407, 1-4	BAE	*yeah* i fod felly	---	NST
+
+
+125, 1	408, 1-6	ADW	a hyphen at a preferably de	NSNT	SNT
+125, 2	410, 1-9	ADW	a dyma *um* fi yn gweld be oedd o	NST	NST
+125, 3	411, 1-3	ADW	wyddoch chi be	NSNT	NSNT
+125, 4	413, 1-15	ADW	*brae* fath â gen y yn yr *um* Alban fath â *B* R A E	---	ST
+
+
+126, 1	414, 1-6	BAE	*B* R A E felly *ah*	---	ST
+
+
+127, 1	416, 1-7	ADW	pen *brae* *top* of the hill yn_de	---	ST
+
+
+128, 1	417, 1-5	BAE	pen *brae* *yeah* *yeah* *sure*	---	NST
+
+
+129, 1	418, 1-8	ADW	a wedyn *um* cofiwch *um* parish of *Penbre*	ST	ST
+129, 2	418, 9-11	ADW	oedd hi yn	NSNT	NSNT
+129, 3	419, 1-9	ADW	oedd yna bentre a bob peth ar mynydd *Penbre*	NST	NST
+129, 4	421, 1-10	ADW	*um* *er* o'n i yn deud faswn i yn licio	NST	NST
+129, 5	421, 11-15	ADW	petaswn i wedi sylweddoli achos	NSNT	NSNT
+129, 6	421, 16-25	ADW	pan es i i fyw i yr tŷ yma yn	NSNT	NSNT
+129, 7	421, 26-29	ADW	lle dw i rŵan	NSNT	NSNT
+129, 8	421, 30-30	ADW	fasai	NSNT	NSNT
+129, 9	421, 31-36	ADW	wedi bod yn enw bendigedig achos	NSNT	NSNT
+129, 10	421, 37-42	ADW	mae o ar *dop* allt yn_dydy	---	NST
+
+
+130, 1	422, 1-3	BAE	yn_basai yndy *sure*	---	NST
+
+
+131, 1	423, 1-2	ADW	a fasai	NSNT	NSNT
+131, 2	423, 3-8	ADW	wedi bod mor anghyffredin Pen *Brae*	NST	NST
+131, 3	425, 1-10	ADW	achos dydan ni ddim yn defnyddio yr gair *brae* nac	NST	NST
+131, 4	425, 11-11	ADW	ydan	---	NSNT
+
+
+132, 1	426, 1-5	BAE	na dan *sure* beth bynnag	---	NST
+
+
+133, 1	427, 1-10	ADW	a mi weles i o yn y yn y geiriadur	NSNT	NSNT
+133, 2	427, 11-13	ADW	diweddara yma rwan	NSNT	NSNT
+133, 3	427, 14-16	ADW	sy gen *Bruce_Griffiths*	---	NST
+
+
+134, 1	428, 1-2	BAE	*yeah* Duw	---	NST
+
+
+135, 1	429, 1-3	ADW	*um* mai dyna	NST	NST
+135, 2	429, 4-6	ADW	be oedd o	---	NSNT
+
+
+136, 1	431, 1-5	BAE	wyddoch chi dw i erioed	NSNT	NSNT
+136, 2	431, 6-15	BAE	wedi bod i_lawr yna dim i *Penbre* i *Penbre* felly	NST	NST
+136, 3	433, 1-8	BAE	a rheswm baswn i wedi mynd yna efallai	NSNT	NSNT
+136, 4	433, 9-18	BAE	oedd i ymwilio ymwelu ymwelio â yr *um* rasys ceir	---	NST
+
+
+137, 1	434, 1-14	ADW	*well* *yeah* ar y ar y ar *Cefn* ar y ar *er* traeth *Cefn_Sidan*	---	NST
+
+
+138, 1	435, 1-5	BAE	*well* *yeah* *sure* iawn felly	---	NST
+
+
+139, 1	436, 1-6	ADW	a mi oedd yna *factory* yna	NST	NST
+139, 2	436, 7-14	ADW	dach chi yn gweld a yr *um* *aerodrome*	---	NST
+
+
+140, 1	438, 1-13	BAE	mi fues i yn dreifio ceir yn ne Cymru hefyd ar wchi hast	NSNT	NSNT
+140, 3	440, 1-10	BAE	mynd i_lawr i *Llandaw* o'n i wrth ymyl Caerdydd yn_de	NST	NST
+140, 4	442, 1-2	BAE	a dyna	NSNT	NSNT
+140, 5	442, 3-11	BAE	lle oedd yr awyrennau yn dod i_mewn ystod rhyfel	SNT	NSNT
+140, 6	444, 1-4	BAE	*er* airport neu *aerodrome*	NST	ST
+140, 7	446, 1-5	BAE	Caerdydd oedd hwnna yn wreiddiol	NSNT	NSNT
+140, 8	448, 1-16	BAE	ac *er* mi oedden ni yn gyrru yr ceir o_gwmpas yr y lle yma fel ffyliaid	NST	NST
+140, 9	448, 17-17	BAE	gwirion	NSNT	NSNT
+140, 10	448, 18-19	BAE	mae *sure*	---	NST
+
+
+141, 1	449, 1-9	ADW	*well* ddeuda i wrthach chi dw i yn *sure*	NST	NST
+141, 2	449, 10-23	ADW	bod yr *um* cwrs yna yn *Penbre* ar *er* *Cefn* traeth *Cefn_Sidan* yn *Penbre*	NST	NST
+141, 3	451, 1-8	ADW	mae yn *sure* o fod yn un da	NST	NST
+141, 4	451, 9-9	ADW	wchi	NSNT	NSNT
+141, 5	453, 1-6	ADW	achos mae yn andros o draeth	NSNT	NSNT
+141, 6	455, 1-7	ADW	ac wrth_gwrs oherwydd bod yna factory yna	NSNT	NSNT
+141, 7	457, 1-4	ADW	yn gwneud *er* explosives	ST	ST
+141, 8	459, 1-6	ADW	a a *um* *er* *R_A_F* *station*	NST	NST
+141, 9	461, 1-14	ADW	mi oedden ni yn cael dipyn o stray *bombs* ar ran y mynydd *Penbre*	NST	ST
+141, 10	461, 15-15	ADW	wchi	---	NSNT
+
+
+142, 1	462, 1-3	BAE	*oh* bobl bach	---	NST
+
+
+143, 1	463, 1-1	ADW	oedden	NSNT	NSNT
+143, 2	465, 1-12	ADW	pob hyn a hyn oedden ni mynd i weld y crater yn_doedden	---	SNT
+
+
+144, 1	466, 1-3	BAE	oeddech chi wir	---	NSNT
+
+
+145, 1	469, 1-5	ADW	ac be sy yn ddiddorol	NSNT	NSNT
+145, 2	471, 1-18	ADW	to'n i erioed wedi clywed am *Bethesda* mwy nag oedd y gŵr erioed wedi clywed am mynydd *Penbre*	NST	NST
+145, 3	473, 1-4	ADW	ond mae yn debyg	NSNT	NSNT
+145, 4	475, 1-4	ADW	yn y cyfnod hwnnw	NSNT	NSNT
+145, 5	477, 1-10	ADW	wrth bod nhwythau yn cael y strays o Lerpwl ella	---	SNT
+
+
+146, 1	480, 1-3	BAE	oedd o wir	SNT	NSNT
+146, 2	481, 1-2	BAE	*well* *well*	ST	NST
+146, 4	483, 1-6	BAE	ym *Bethesda* felly *yeah* yn *Bethesda*	---	NST
+
+
+147, 1	484, 1-4	ADW	*er* ie yn *Bethesda*	NST	NST
+147, 2	485, 1-7	ADW	doedd o erioed wedi clywed am *Penbre*	NST	NST
+147, 4	487, 1-8	ADW	a do'n i erioed wedi clywed am *Bethesda*	NST	NST
+147, 5	489, 1-10	ADW	ac oedden ni y ddau ohonan ni felly yn ein	NSNT	NSNT
+147, 6	490, 1-6	ADW	*well* mi fasai fo yn ddeg	NST	NST
+147, 7	490, 7-14	ADW	pan gychwynnodd y ryfel a finnau ryw naw	NSNT	NSNT
+147, 8	490, 15-16	ADW	mae *sure*	NST	NST
+147, 9	492, 1-9	ADW	a a wedyn yn y dyna fo i chi	NSNT	NSNT
+147, 10	493, 1-15	ADW	oedd y ddau ohonan ni yn gwneud yr un peth a ddim yn gwybod hynny	---	NSNT
+
+
+148, 1	494, 1-3	BAE	bobl bach *yeah*	---	NST
+
+
+149, 1	495, 1-14	ADW	yn cael eich gwthio mewn i yr sbensh pan oedd y *sirens* yn mynd	ST	NST
+149, 2	497, 1-6	ADW	*tea* cosy am eich pen yn_de	NST	ST
+149, 3	498, 1-4	ADW	a Nain yn deud	NSNT	NSNT
+149, 4	499, 1-4	ADW	dyro dy ben i_lawr	NSNT	NSNT
+149, 5	500, 1-4	ADW	dyro dy ben i_lawr	NSNT	NSNT
+149, 6	503, 1-9	ADW	ac wrth_gwrs Taid a *Dad* lawr yn yr ardd	NST	NST
+149, 7	505, 1-7	ADW	yn gwylio yr cwbl i_gyd yn gweld	---	NSNT
+
+
+150, 1	506, 1-2	BAE	wrth_gwrs *yeah*	---	NST
+151, 2	507, 25-28	ADW	dach chi yn gweld	NSNT	NSNT
+151, 3	509, 1-9	ADW	Taid a *Dad* yn fan yna yn gwatsiad hwnnw	---	NST
+
+
+152, 1	510, 1-3	BAE	bobl bach *yeah*	---	NST
+
+
+153, 1	511, 1-7	ADW	a ni yn cuddio dan y sbensh	NSNT	NSNT
+153, 2	513, 1-9	ADW	a *Mam* yn redeg rhwng y ddau le yn_de	---	NST
+
+
+154, 1	515, 1-5	BAE	*well* ar_ôl y rhyfel byd	NST	NST
+154, 2	516, 1-8	BAE	yr ail ryfel byd ges i ngeni wrth_gwrs	NSNT	NSNT
+154, 4	517, 19-31	BAE	oedd wedi dod i_lawr yn ystod yr ail ryfel byd wrth_gwrs o_gwmpas *Betws_y_Coed*	NST	NST
+154, 5	517, 32-37	BAE	yn_de uwchben *er* *Trefriw* ffordd acw	NST	NST
+154, 7	519, 23-32	BAE	be fydden ni wneud ar dydd Sadwrn neu ddydd Sul	NSNT	NSNT
+154, 8	519, 33-38	BAE	oedd mynd i chwilota amdanyn nhw	---	NSNT
+
+
+155, 1	520, 1-3	ADW	chwilio amdanyn nhw	---	NSNT
+
+
+156, 1	521, 1-16	BAE	ac yn y pumdegau *well* yr pumdegau hwyr a yr *um* y chwedegau cynnar felly oedd	NST	NST
+156, 2	521, 17-21	BAE	fydden ni yn gwneud hyn	NSNT	NSNT
+156, 3	523, 1-4	BAE	weles i ddim un	NSNT	NSNT
+156, 4	523, 5-5	BAE	cofiwch	---	NSNT
+
+
+157, 1	524, 1-1	ADW	naddo	---	NSNT
+
+
+158, 1	525, 1-1	BAE	naddo	---	NSNT
+
+
+159, 1	526, 1-11	ADW	*well* ddeuda i wrthach chi rŵan dyna yr pwnc mwya diddorol	NST	NST
+159, 2	526, 12-15	ADW	fuodd gen y mab	NSNT	NSNT
+159, 3	526, 16-19	ADW	pan oedd o fyw	NSNT	NSNT
+159, 4	528, 1-8	ADW	*er* a mi fuodd o ar *um* *Newsnight*	NST	NST
+159, 5	530, 1-3	ADW	ar y *B_B_C*	NST	NST
+159, 6	532, 1-14	ADW	hogyn oedd gynno fo ddim llawer o ddim_byd i ddeud wrth neb *er* wir	NST	NST
+159, 7	534, 1-8	ADW	a mi ddaru ni gael galwadau *phone* dirif	ST	NST
+159, 8	535, 1-8	ADW	gosh didn't know *Harri* could talk *so* much	ST	NST
+159, 10	537, 1-11	ADW	ie *well* you never asked him about *aeroplane* wreckages did you	---	ST
+
+
+160, 1	538, 1-2	BAE	*yeah* *well*	---	NST
+
+
+161, 1	539, 2-9	ADW	gynnon ni gwt ieir i_fyny *dop* yr ardd	NST	NST
+161, 2	541, 1-4	ADW	oedd wedi hen beidio	NSNT	NSNT
+161, 3	541, 5-8	ADW	bod yn gwt ieir	NSNT	NSNT
+161, 4	542, 1-8	ADW	a mi oedd yna ddarnau o bob *wreck*	---	NST
+
+
+162, 1	543, 1-3	BAE	oedd yna wir	---	NSNT
+
+
+163, 1	544, 1-3	ADW	yn gogledd Eryri	---	NSNT
+
+
+164, 1	545, 1-2	BAE	bobl bach	---	NSNT
+
+
+165, 1	546, 1-3	ADW	yn fan yno	NSNT	NSNT
+165, 2	548, 1-10	ADW	a mi oedd yna sylwebydd tu hwnt o *um* adnabyddus	NST	NST
+165, 3	550, 1-7	ADW	*er* ryw *um* dipyn o glamour *boy*	ST	ST
+165, 4	551, 1-8	ADW	dw i ddim yn cofio ei enw fo	NSNT	NSNT
+165, 5	552, 1-8	ADW	ond petaswn i yn cofio ei enw fo	NSNT	NSNT
+165, 6	554, 1-6	ADW	basech chi yn *sure* o ddeud	NST	NST
+165, 7	555, 1-8	ADW	*oh* dw i yn cofio yr enw yna	NST	NST
+165, 8	557, 1-4	ADW	a oherwydd bod o	NSNT	NSNT
+165, 9	557, 5-10	ADW	wedi bod yn yn yr *R_A_F*	NST	NST
+165, 10	557, 11-12	ADW	ei hun	NSNT	NSNT
+165, 11	559, 1-5	ADW	yfo gafodd ei yrru acw	---	NSNT
+
+
+166, 1	560, 1-1	BAE	*well*	---	NST
+
+
+167, 1	561, 1-9	ADW	a mi oedd y pethau yma fath â *um*	NST	NST
+167, 2	561, 10-29	ADW	be dach chi yn ei alw o candy floss gynnyn nhw i wneud y sŵn i ddal y sŵn *yeah*	---	ST
+
+
+168, 1	562, 1-5	BAE	*oh* *yeah* wrth_gwrs *yeah* *yeah*	---	NST
+
+
+169, 1	563, 1-3	ADW	i_fyny yn y	NSNT	NSNT
+169, 2	564, 1-12	ADW	*well* oedd yna bump yna a wneud yr raglen yfo y *boy*	NST	NST
+169, 3	566, 1-11	ADW	a rhein yn dal y pethau yma a yr camerâu yn_de	---	NSNT
+
+
+170, 1	567, 1-3	BAE	*yeah* *yeah* *sure*	---	NST
+
+
+171, 1	568, 1-8	ADW	a ninnau methu gwybod sut oedd y mab	NSNT	NSNT
+171, 2	568, 9-21	ADW	oedd erbyn hyn yn ryw bedair_ar_ddeg yn mynd i ddechrau ymateb iddyn nhw	NSNT	NSNT
+171, 4	570, 1-7	ADW	am bod o yn un mor swil	---	NSNT
+
+
+172, 1	571, 1-5	BAE	chwarae teg iddo fo yn_de	---	NSNT
+
+
+173, 1	572, 1-7	ADW	a dyma yr *boy* yn dod yn_ôl	NST	NST
+173, 2	573, 1-9	ADW	o'n i wedi wneud *coffee* yn barod iddyn nhw	NST	NST
+173, 3	574, 1-9	ADW	dyma yr *boy* yma yn dod yn ei ôl	NST	NST
+173, 4	575, 1-5	ADW	a dyma fo yn sbïo	SNT	NSNT
+173, 5	576, 1-13	ADW	I've learnt more about aeroplanes in the last *quarter* of an *hour* than	NST	NST
+173, 6	576, 14-24	ADW	I ever did in how ever many years in the *R_A_F*	---	NST
+
+
+174, 1	577, 1-4	BAE	da iawn wir *yeah*	---	NST
+
+
+175, 1	578, 1-3	ADW	*oh* did you	ST	NST
+175, 2	579, 1-2	ADW	medda fi	SNT	NSNT
+175, 3	580, 1-1	ADW	I	NSNT	NSNT
+175, 4	580, 2-3	ADW	I hope	NSNT	NSNT
+175, 5	580, 4-9	ADW	you've got it all stored away	SNT	NSNT
+175, 6	582, 1-7	ADW	achos oedd gynno fo yr darnau yma	NSNT	NSNT
+175, 7	584, 1-5	ADW	wedi labelu â yr hanes	NSNT	NSNT
+175, 8	586, 1-7	ADW	o lle oedd hi wedi dod i	NSNT	NSNT
+175, 9	586, 8-12	ADW	lle roedd hi yn mynd	NSNT	NSNT
+175, 10	588, 1-11	ADW	pwy oedd wedi cael colli ei fywyd a y cwbl *lot*	---	NST
+
+
+176, 1	590, 1-10	BAE	a felly dw innau wedi cael esboniad rŵan am pam	NSNT	NSNT
+176, 2	590, 12-12	BAE	nad	NSNT	NSNT
+176, 3	590, 13-19	BAE	oedden ni ddim yn gallu darganfod darnau	---	NSNT
+
+
+177, 1	591, 1-5	ADW	oedd y darnau wedi mynd	---	NSNT
+
+
+178, 1	592, 1-3	BAE	mi oedd *Harri*	NST	NST
+178, 2	592, 4-8	BAE	wedi bod yna cyn hynny	---	NSNT
+
+
+179, 1	593, 1-1	ADW	cofiwch	NSNT	NSNT
+179, 2	593, 2-6	ADW	oedd y gŵr yn deud	NSNT	NSNT
+179, 3	594, 1-9	ADW	mae yna *limit* pa maint *er* maint y darn	NST	NST
+179, 4	594, 10-15	ADW	dw i mynd i gario i_lawr	NSNT	NSNT
+179, 5	596, 1-3	ADW	ac yn *Ffynnon_Lloer*	NST	NST
+179, 6	597, 1-6	ADW	dach chi yn gwybod am *Ffynnon_Lloer*	---	NST
+
+
+180, 1	598, 1-1	BAE	ydw	---	NSNT
+
+
+181, 1	599, 1-6	ADW	mae yna *goblin* o *dyre* mawr	NST	NST
+181, 2	601, 1-13	ADW	*er* *well* olwyn basai ffitiach i mi ddeud o un o wrecks yma	NST	ST
+181, 3	603, 1-7	ADW	*well* wn i ddim faint o weithiau	NST	NST
+181, 4	603, 8-17	ADW	aeth o fyny fan yno i drio perswadio pwy bynnag	NSNT	NSNT
+181, 5	603, 18-20	ADW	oedd yn digwydd	NSNT	NSNT
+181, 6	603, 21-30	ADW	bod wedi syrthio am y *story* i fynd am dro	NST	NST
+181, 7	605, 1-10	ADW	i helpu fo i ddod â fo o yno yn_de	NSNT	NSNT
+181, 8	607, 1-6	ADW	ond chafodd o ddim no volunteers	---	SNT
+
+
+182, 1	609, 1-10	BAE	wrth_gwrs fyddan nhw yn deud i_fyny at yn ddiweddar yma	---	NSNT
+
+
+183, 1	612, 1-1	ADW	hollol	NSNT	NSNT
+183, 2	613, 1-3	ADW	mae yna *um*	NST	NST
+183, 3	613, 4-13	ADW	mae yna *lot* o yr darnau yn Llyn *Dulyn* yma	NST	NST
+183, 4	613, 14-14	ADW	wchi	NSNT	NSNT
+183, 5	615, 1-13	ADW	mi aeth yna un syth i_fewn i yr graig uwchben Llyn *Dulyn* a	---	NST
+
+
+184, 1	616, 1-10	BAE	*mmm* a disgyn i_lawr felly ac i_mewn i yr dŵr	---	NST
+
+
+185, 1	617, 1-2	ADW	syrthio i_lawr	NSNT	NSNT
+185, 2	618, 1-10	ADW	mi welwch chi yr hoel ar *um* ar y graig	---	NST
+
+
+186, 1	619, 1-3	BAE	*yeah* dw i	NST	NST
+186, 2	619, 4-6	BAE	dydw i erioed	NSNT	NSNT
+186, 3	619, 7-8	BAE	wedi bod	---	NSNT
+
+
+187, 1	620, 1-2	ADW	*well* mae	NST	NST
+187, 2	620, 3-5	ADW	dach chi ddim	NSNT	NSNT
+187, 3	620, 6-11	ADW	wedi bod yn *Dulyn* a *Melynllyn*	---	NST
+
+
+188, 1	621, 1-4	BAE	naddo tydw i ddim	NSNT	NSNT
+188, 2	622, 1-4	BAE	*oh* dw i gwybod	NST	NST
+188, 3	622, 5-9	BAE	lle mae o wrth_gwrs ond	NSNT	NSNT
+188, 4	624, 1-4	BAE	heb fod yna yn_de	---	NSNT
+
+
+189, 1	625, 1-4	ADW	*well* mae o yn	NST	NST
+189, 2	625, 5-7	ADW	mae fan yno	NSNT	NSNT
+189, 3	625, 8-12	ADW	werth i fynd iddo fo	NSNT	NSNT
+189, 4	627, 1-11	ADW	dach chi yn gwybod am *Trasbwll* ar y ffordd i *Eigiau*	---	NST
+
+
+190, 1	628, 1-4	BAE	ew mi ddyliwn i	---	NSNT
+
+
+191, 1	629, 1-6	ADW	dach chi yn gwybod am *Eigiau*	---	NST
+
+
+192, 1	630, 1-3	BAE	*oh* yndw *sure*	NST	NST
+192, 2	630, 4-4	BAE	yndw	---	NSNT
+
+
+193, 1	632, 1-9	ADW	*well* dach chi yn gadael eich *car* yn *Trasbwll*	NST	NST
+193, 2	634, 1-11	ADW	a wedyn dach chi yn gorfod cerdded ffordd *right* anodd achos	NST	NST
+193, 3	634, 12-16	ADW	mae yr giât wedi chloi	NSNT	NSNT
+193, 4	636, 1-6	ADW	*er* i fynd am yr *um*	---	NST
+
+
+194, 1	637, 1-6	BAE	be am y am y llyn	---	NSNT
+
+
+195, 1	638, 1-11	ADW	am yr *er* *er* *er* be ydy o llyn a reservoir	---	ST
+
+
+196, 1	639, 1-4	BAE	*yeah* mae reservoir yn	---	ST
+
+
+197, 1	640, 1-4	ADW	mae cwbl *lot* yno	---	NST
+
+
+198, 1	641, 1-4	BAE	oes *yeah* *sure* *mmm*	---	NST
+
+
+199, 1	642, 1-3	ADW	mae reservoir yno	NSNT	SNT
+199, 2	642, 4-4	ADW	does	NSNT	NSNT
+199, 3	643, 1-5	ADW	*well* lle mynd ffordd yno	NST	NST
+199, 4	645, 1-9	ADW	*right* wrth lle dach chi yn gadael eich *car*	NST	NST
+199, 5	645, 10-10	ADW	mae	NSNT	NSNT
+199, 6	645, 11-13	ADW	gynnoch chi giât	NSNT	NSNT
+199, 7	647, 1-3	ADW	a mi welwch	NSNT	NSNT
+199, 8	647, 4-8	ADW	bod yna ffordd *right* llydan	NST	NST
+199, 9	649, 1-6	ADW	*um* yn mynd i_fyny am *um*	NST	NST
+199, 10	650, 1-2	ADW	mae *er*	NST	NST
+199, 11	650, 3-11	ADW	mae ddigon hawdd mynd i_fyny am *Dulyn* a *Melynllyn*	NST	NST
+199, 12	652, 1-3	ADW	a wedyn mae	NSNT	NSNT
+199, 13	652, 4-13	ADW	gynnoch chi cledrffordd yn mynd drosodd i *um* i *Bethesda*	NST	NST
+199, 14	654, 1-6	ADW	ac wrth_gwrs dach chi yn gweld	NSNT	NSNT
+199, 15	654, 7-9	ADW	oedd yna bobl	---	NSNT
+
+
+200, 1	655, 1-2	BAE	bobl bach	---	NSNT
+
+
+201, 1	656, 1-9	ADW	a cael nhw nôl nid yn unig i *Bethesda*	NST	NST
+201, 2	658, 1-10	ADW	ond os dw i wedi deall yn iawn yn Sir_Fôn	NSNT	NSNT
+201, 3	658, 11-16	ADW	oedden nhw yn eu gwerthu nhw	NSNT	NSNT
+201, 4	659, 1-12	ADW	ac ella bod nhw yn mynd ymlaen o fan yno i Iwerddon	NSNT	NSNT
+201, 5	661, 1-3	ADW	achos mae chimod	NSNT	NSNT
+201, 6	661, 4-7	ADW	mae yr Gwyddelod yn	NSNT	NSNT
+201, 7	661, 8-12	ADW	wedi bod efo ceffylau a	---	NSNT
+
+
+202, 1	662, 1-2	BAE	ydyn *sure*	---	NST
+
+
+203, 1	663, 1-1	ADW	erioed	---	NSNT
+
+
+204, 1	664, 1-2	BAE	yndyn *sure*	NST	NST
+204, 2	666, 1-5	BAE	*Iago* fyddai hwn felly *yeah*	NST	NST
+204, 3	668, 1-8	BAE	teulu *Iago* o *Bethesda* fyddai yn gwneud hyn	NST	NST
+204, 4	670, 1-2	BAE	fo sy	NSNT	NSNT
+204, 5	670, 3-12	BAE	wedi bod yn edrych ar_ôl y merlod ar ochr *Bethesda*	---	NST
+
+
+205, 1	671, 1-7	ADW	ia a *Mabon_John* a llawer un arall	---	NST
+
+
+206, 1	672, 1-6	BAE	dw i ddim yn nabod *Mabon_John*	---	NST
+
+
+207, 1	676, 1-11	ADW	*oh* petasech chi yn gweld y ffordd oedden nhw mynd yn_de	NST	NST
+207, 2	677, 1-6	ADW	oedd hi yn dipyn o *job*	NST	NST
+207, 3	677, 7-9	ADW	faswn i feddwl	---	NSNT
+
+
+208, 1	678, 1-5	BAE	esgob faswn i yn credu	---	NSNT
+
+
+209, 1	679, 1-14	ADW	a dod â yr dod â yr merlod i_lawr o cledrffordd wedyn i_lawr i	NSNT	NSNT
+209, 3	682, 1-4	ADW	mae yna dair afon	---	NSNT
+
+
+210, 1	684, 1-3	BAE	does i_gyd yn_does	---	NSNT
+
+
+211, 1	685, 1-5	ADW	yn cyfarfod yn *Cwm* *Penllafar*	---	NST
+
+
+212, 1	686, 1-3	BAE	oes *sure* *yeah*	---	NST
+
+
+213, 1	687, 1-13	ADW	a maen nhw gyd yn landio i_fyny yn yn Afon *Ogwen* yn diwedd	---	NST
+
+
+214, 1	689, 1-11	BAE	gwrs mae mynnu dod â nhw un ffordd yn un peth	NSNT	NSNT
+214, 2	690, 1-17	BAE	ond wrth_gwrs mae creu yr modd iddyn nhw ddod i_lawr y ffordd yna yn beth arall yn_yndy	---	NSNT
+
+
+215, 1	691, 1-2	ADW	hollol hollol	---	NSNT
+
+
+216, 1	692, 1-10	BAE	dw i yn cofio mynd i_fyny hefo *Densil_Davies* uwchben *Llanfairfechan*	NST	NST
+216, 3	696, 1-15	BAE	gael tynnu lluniau ohonyn nhw oedden ni ar y ar y ar y tro felly	NSNT	NSNT
+216, 4	698, 1-10	BAE	sôn am yr *passports* yma i i yr merlod yn_de	NST	NST
+216, 5	700, 1-14	BAE	a mi aethon nhw i_fyny hefo yr *um* efo yr *motorbikes* yma pedair olwyn	---	NST
+
+
+217, 1	701, 1-4	ADW	*oh* you *bet* *yeah*	---	NST
+
+
+218, 1	703, 1-6	BAE	ond mi oedden ni wedi mi	NSNT	NSNT
+218, 2	703, 7-17	BAE	oedden nhw wedi cael ryw dri *group* ohonyn nhw at ei_gilydd	NST	NST
+218, 3	704, 1-16	BAE	mi oedd yna ddau mewn un *group* deg mewn un arall a deuddeg yn y trydydd	NST	NST
+218, 4	705, 1-13	BAE	a mi oedd y deg a yr deuddeg yn barod i ddod i_lawr	NSNT	NSNT
+218, 5	706, 1-13	BAE	mi oedden nhw wedi distewi ac yn anelu yn y cyfeiriad cywir felly	NSNT	NSNT
+218, 6	707, 1-12	BAE	ond mi oedd y ddau yma ar eu pennau eu hunain mi	NSNT	NSNT
+218, 7	707, 13-18	BAE	oedd gynnyn nhw syniadau eraill yn_doedd	NSNT	NSNT
+218, 8	709, 1-15	BAE	a mi oedden nhw am fynd yn_ôl i_fyny ochr y mynydd a dros y *top*	---	NST
+
+
+219, 1	710, 1-7	ADW	*ah* a unwaith basen nhw yn dechrau	NST	NST
+219, 2	710, 8-12	ADW	basai yr lleill yn dilyn	---	NSNT
+
+
+220, 1	711, 1-2	BAE	*oh* dyna	NST	NST
+220, 2	711, 3-5	BAE	be ddigwyddodd wrth_gwrs	NSNT	NSNT
+220, 3	713, 1-19	BAE	tan mi oedd un o yr hogiau yn yn mynd ar gefn y *motorbike* yma yn eu cyfeiriad nhw	NST	NST
+220, 5	715, 1-17	BAE	ond mi oedden nhw yn troi ac yn trosi mynd yn_ôl ac ymlaen ac yn_ôl ac ymlaen	NSNT	NSNT
+220, 6	716, 1-4	BAE	*um* wrth_gwrs gynted â	NST	NST
+220, 7	716, 5-8	BAE	fasen nhw yn gweld	NSNT	NSNT
+220, 8	716, 9-9	BAE	dyn	NSNT	NSNT
+220, 9	716, 10-17	BAE	fasen nhw yn troi i yr cyfeiriad arall	NSNT	NSNT
+220, 10	717, 1-11	BAE	a gweld rywun arall wedyn yn dod o yr cyfeiriad yna	NSNT	NSNT
+220, 11	719, 1-4	BAE	ac yn mynd yn_ôl	NSNT	NSNT
+220, 12	721, 1-10	BAE	ffordd arall nes yn diwedd mi oedden nhw yn teimlo	NSNT	NSNT
+220, 13	721, 11-13	BAE	mae yn *sure*	NST	NST
+220, 14	721, 14-20	BAE	bod nhw yn cael eu cau mewn	NSNT	NSNT
+220, 15	722, 1-8	BAE	ac yn syth i_fyny yr mynydd aethon nhw	---	NSNT
+
+
+221, 1	723, 1-3	ADW	ie a nôl	---	NSNT
+
+
+222, 1	724, 1-6	BAE	oedd yna ddim golwg ohonyn nhw	---	NSNT
+
+
+223, 1	725, 1-4	ADW	dach chi yn gwybod	NSNT	NSNT
+223, 2	725, 5-7	ADW	be dw i	NSNT	NSNT
+223, 3	725, 8-16	ADW	wedi bod yn trio wneud i_fyny yn fan yna	NSNT	NSNT
+223, 4	726, 1-20	ADW	mynd â *crew* o bobl yn reidio ceffylau oedd ddim ond yn *er* wneud fel bob hyn a hyn felly	---	NST
+
+
+224, 1	727, 1-4	BAE	*yeah* ie wir *mmm*	---	NST
+
+
+225, 1	728, 1-12	ADW	a fi a pwy bynnag arall oedd yn mynd â â nhw	NSNT	NSNT
+225, 2	730, 1-2	ADW	yn ffeindio	SNT	NSNT
+225, 3	731, 1-15	ADW	*oh* God we're going to get in the middle of a load of wild *ponies*	ST	NST
+225, 5	734, 1-5	ADW	a *Mabli* yn deud *er*	ST	NST
+225, 6	735, 1-4	ADW	you go over there	SNT	NSNT
+225, 7	737, 1-8	ADW	yn deud wrth deud wrth y bobl yma	SNT	NSNT
+225, 8	738, 1-14	ADW	*er* *just* hang on a while we'll *try* and *sort* these out for you	ST	NST
+225, 9	739, 1-14	ADW	ddim eisiau iddyn nhw reidio drwy canol nhw rhag ofn nhw gael *kick* de	---	NST
+
+
+226, 1	740, 1-5	BAE	*mmm* *sure* iawn felly *yeah*	---	NST
+227, 2	743, 1-13	ADW	*well* we either are going to *risk* going through them or go *back*	ST	NST
+227, 4	745, 1-9	ADW	*um* llawer i dro dw i wedi gorfod deud	ST	NST
+227, 5	746, 1-4	ADW	look *Mabli* I think	NST	NST
+227, 6	746, 5-10	ADW	it'd be safer to go *back*	ST	NST
+227, 7	748, 1-7	ADW	achos dach chi yn gweld *um* mi	NST	NST
+227, 8	748, 8-14	ADW	wnawn nhw anelu *kick* i yr ceffyl	NST	NST
+227, 9	750, 1-10	ADW	ond eich coes chi yn aml iawn sy chael hi	---	NSNT
+
+
+228, 1	751, 1-4	BAE	chael hi wrth_gwrs *yeah*	---	NST
+
+
+229, 1	752, 1-5	ADW	ges i honno ryw dro	---	NSNT
+
+
+230, 1	753, 1-6	BAE	ew mae yn boenus hefyd yn_dydy	---	NSNT
+
+
+231, 1	754, 1-7	ADW	a dydy o ddim yn beth braf	---	NSNT
+
+
+232, 1	755, 1-3	BAE	nag ydy wir	---	NSNT
+
+
+233, 1	756, 1-2	ADW	nag ydy	---	NSNT
+
+
+234, 1	757, 1-17	BAE	pan o'n i yn hogyn ifanc iawn tua saith neu wyth oed o'n i mae *sure* mi	NST	NST
+234, 2	757, 18-32	BAE	oedd gyn un o gymdogion fy y nhaid a nain felly ferlen ar y *farm*	NST	NST
+234, 3	758, 1-4	BAE	*Soksy* oedd enw hon	NST	NST
+234, 4	759, 1-9	BAE	du a gwyn oedd hi a traed gwyn wrth_gwrs	---	NSNT
+
+
+235, 1	760, 1-2	ADW	traed gwyn	---	NSNT
+
+
+236, 1	761, 1-5	BAE	fel basech chi yn ddisgwyl	NSNT	NSNT
+236, 2	762, 1-18	BAE	ac *um* tad a *mam* *um* *Nantllais_Bebb* wyddoch chi o o yr *farm* *just* fyny yr ffordd yma	NST	NST
+236, 3	764, 1-1	BAE	oedden	NSNT	NSNT
+236, 4	764, 2-3	BAE	oedd yna	NSNT	NSNT
+236, 5	765, 1-12	BAE	yn yn *um* yn *Llarwnes* maen nhw ochr ni i *Fetws_y_Coed* felly	---	NST
+
+
+237, 1	766, 1-4	ADW	ie dyna chi ie	---	NSNT
+
+
+238, 1	767, 1-12	BAE	ac mi o'n i yn cael mynd ar gefn *Soksy* yma wrth_gwrs	---	NST
+
+
+239, 1	768, 1-2	ADW	thrill mawr	---	SNT
+
+
+240, 1	769, 1-3	BAE	bobl bach ie	NSNT	NSNT
+240, 3	770, 28-29	BAE	oedd hi	NSNT	NSNT
+240, 4	770, 30-34	BAE	cofiwch yn sefyll ar yn	NSNT	NSNT
+240, 5	770, 35-36	BAE	nhroed i	---	NSNT
+
+
+241, 1	772, 1-5	ADW	dw i wedi cael honno	SNT	NSNT
+241, 3	774, 1-3	ADW	not much fun	---	NSNT
+
+
+242, 1	775, 1-13	BAE	mi oedd yn fysedd y nhraed i yn ddu am wythnosau wedyn felly	---	NSNT
+
+
+243, 1	776, 1-3	ADW	not much fun	---	NSNT
+244, 2	778, 1-14	BAE	mi aethon ni fyny ffordd y *Grenin* wyddoch chi fyny at at *um* *Penmachno*	NST	NST
+244, 3	780, 1-8	BAE	o *um* *Bont* *um* o gyfeiriad *Pont_yr_Afanc* felly	NST	NST
+244, 4	781, 1-9	BAE	ac *um* mae yr ffordd yn serth i gychwyn	NST	NST
+244, 5	782, 1-14	BAE	ond dach chi yn mynd i_lawr oddi_ar ochr y ffordd wedyn at y Conway_Falls	---	SNT
+
+
+245, 1	783, 1-3	ADW	dyna chi ie	---	NSNT
+
+
+246, 1	784, 1-3	BAE	a rŵan ta	NSNT	NSNT
+246, 2	784, 4-6	BAE	mae hwnna yn	NSNT	NSNT
+246, 3	784, 7-17	BAE	mae o yn un troedfedd mewn bob troedfedd lawr yr allt	NSNT	NSNT
+246, 4	786, 1-15	BAE	a dyma *Soksy* yn penderfynu bod gynni hi eisiau edrych dros ochr y dibyn yma	NST	NST
+246, 5	787, 1-14	BAE	a hithau yn dechrau mynd i_lawr yr allt efo fi ar ei chefn hi	NSNT	NSNT
+246, 6	788, 1-12	BAE	a mi oedd yng nghoesau i wrth ymyl ei chlustiau hi rywle	NSNT	NSNT
+246, 7	789, 1-9	BAE	a finnau yn gorwedd braidd ar ei phen hi	NSNT	NSNT
+246, 8	791, 1-9	BAE	hefo efo mhen i wrth ymyl ei chynffon hi	NSNT	NSNT
+246, 9	793, 1-6	BAE	yn trio trio dal yn_ôl felly	---	NSNT
+
+
+247, 1	794, 1-4	ADW	trio dal hi nôl	---	NSNT
+
+
+248, 1	795, 1-2	BAE	bobl bach	NSNT	NSNT
+248, 2	796, 1-10	BAE	a fel o'n i yn deud ieuanc o'n i wrth_gwrs	NSNT	NSNT
+248, 3	797, 1-7	BAE	felly *er* o'n i yn pryderu braidd	---	NST
+
+
+249, 1	798, 1-4	ADW	a oedd hi dda	NSNT	NSNT
+249, 2	798, 5-15	ADW	bod eich *mam* ddim yn gwybod be o'ch chi yn wneud	---	NST
+
+
+250, 1	799, 1-6	BAE	*oh* wnaethon nhw byth ddarganfod chwaith	---	NST
+
+
+251, 1	800, 1-7	ADW	*Marika* ti ddim wedi gorffen efo hwn	---	NST
+
+
+252, 1	801, 1-4	BAE	weld beth ydy hwn	---	NSNT

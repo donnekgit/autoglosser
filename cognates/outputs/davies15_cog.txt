@@ -1,0 +1,1623 @@
+1, 1	1, 1-6	NEL	a dyma yn deud fel *um*	---	NST
+
+
+2, 1	2, 1-1	TEG	bechod	---	NSNT
+
+
+3, 1	3, 1-4	NEL	*mam* wedi ryw gacen	NST	NST
+3, 2	4, 1-4	NEL	dyma fo yn deud	NSNT	NSNT
+3, 3	5, 1-11	NEL	*oh* o'n i meddwl basech chi licio fo efo eich paned	NST	NST
+3, 5	7, 1-4	NEL	Duw be haru ti	NSNT	NSNT
+3, 6	8, 1-8	NEL	dw i yn cael cacen yma yn barod	NSNT	NSNT
+3, 7	8, 9-9	NEL	sti	NSNT	NSNT
+3, 8	9, 1-7	NEL	*oh* dach chi ddim isio hwn felly	NST	NST
+3, 9	10, 1-8	NEL	*oh* wna i gadw hi *just* rhag ofn	NST	NST
+3, 11	12, 1-2	NEL	doedd o	NSNT	NSNT
+3, 12	12, 3-17	NEL	wnaethon nhw ddim cynnig paned na *er* cacen na dim_byd pan ddothon nhw efo paned	NST	NST
+3, 13	13, 1-4	NEL	*odd* bod o meddwl	NST	NST
+3, 14	13, 5-10	NEL	bod o cael y pethau yma	NSNT	NSNT
+3, 15	14, 1-3	NEL	dydy o ddim	---	NSNT
+
+
+4, 1	15, 1-12	TEG	*well* ella bod o yn peth da mewn ffordd bod o meddwl	NST	NST
+4, 2	15, 13-19	TEG	bod o yn cael bob_dim *nice* yma	NST	NST
+4, 3	17, 1-5	TEG	*oh* mae hwn disgyn eto	---	NST
+
+
+5, 1	19, 1-1	NEL	bechod	NSNT	NSNT
+5, 2	20, 1-3	NEL	*oh* be ydy	NST	NST
+5, 3	20, 4-9	NEL	be mae dy daid am wneud	NSNT	NSNT
+5, 4	21, 1-4	NEL	aros adre efo carers	---	SNT
+
+
+6, 1	23, 1-7	TEG	mae medru cerdded ar y *pulpit* digon	NST	NST
+6, 2	24, 1-2	TEG	a mae	NSNT	NSNT
+6, 3	24, 3-12	TEG	mae ei stafell wely fo *just* wrth ymyl y gegin	NST	NST
+6, 5	26, 1-11	TEG	a wedyn fydd o yn eistedd yn y gegin trwy dydd	NSNT	NSNT
+6, 6	27, 1-7	TEG	a mae yr carers yn picio fewn	NSNT	SNT
+6, 7	28, 1-8	TEG	a dan ni yn piciad i_fewn a neighbours	---	SNT
+
+
+7, 1	29, 1-4	NEL	*oh* Duw mae well	---	NST
+
+
+8, 1	30, 1-4	TEG	*so* mae yn iawn	NST	NST
+8, 2	31, 1-4	TEG	mae yn *champion* efo	NST	NST
+8, 3	31, 5-7	TEG	ei remote control	SNT	SNT
+8, 4	32, 1-7	TEG	a mae gynno fo *lot* o lyfrau	NST	NST
+8, 5	33, 1-3	TEG	mae yr llyfrgell	NSNT	NSNT
+8, 6	33, 4-9	TEG	mae yr mobile_library yn dod yna	---	SNT
+
+
+9, 1	35, 1-5	NEL	*oh* mae hynna yn iawn	NST	NST
+9, 2	35, 6-6	NEL	dydy	---	NSNT
+
+
+10, 1	36, 1-5	TEG	*so* mae hynna yn *champion*	NST	NST
+10, 2	37, 1-1	TEG	mae	NSNT	NSNT
+10, 3	37, 2-6	TEG	*just* dw meddwl *just* psychologically	ST	ST
+10, 4	37, 7-11	TEG	fydd o yn well adra	NSNT	NSNT
+10, 5	37, 12-16	TEG	na fysai fo mewn cartre	NSNT	NSNT
+10, 6	38, 1-6	TEG	basai fo *just* yn mynd downhill	ST	ST
+10, 7	39, 1-3	TEG	achos dw meddwl	NSNT	NSNT
+10, 8	39, 4-11	TEG	os wyt ti yn *champion* yn dy feddwl	NST	NST
+10, 9	39, 12-12	TEG	mae	NSNT	NSNT
+10, 10	39, 13-15	TEG	bod mewn cartre	NSNT	NSNT
+10, 11	39, 16-18	TEG	mae *sure* yn	---	NST
+
+
+11, 1	40, 1-2	NEL	depressing dydy	---	SNT
+
+
+12, 1	41, 1-9	TEG	ti ddim there's only one way to go felly	---	SNT
+
+
+13, 1	43, 1-7	NEL	fysai fo ddim yn dod i fyw	---	NSNT
+
+
+14, 1	44, 1-8	TEG	mind you o'n i meddwl amdan y peth	NSNT	SNT
+14, 2	45, 1-5	TEG	a dw i meddwl pan	NSNT	NSNT
+14, 3	45, 6-10	TEG	pan fydda i yn hen	NSNT	NSNT
+14, 4	45, 11-18	TEG	baswn i ddim yn meindio mynd i gartre	---	NSNT
+
+
+15, 1	46, 1-6	NEL	na baswn i ddim meindio chwaith	---	NSNT
+
+
+16, 1	48, 1-12	TEG	wyt ti yn cael bob_dim wedi wneud i chdi swper brecwast bob_dim	NSNT	NSNT
+16, 2	49, 1-11	TEG	ti cael mwydro pobl eraill sy yr un oed â chdi	---	NSNT
+
+
+17, 1	52, 1-8	NEL	oedd nain fi yn byw mewn ryw *um*	NST	NST
+17, 2	54, 1-6	NEL	hi wrth ei bodd yna sti	NSNT	NSNT
+17, 3	55, 1-8	NEL	o'n nhw i_gyd yn chwarae *bingo* a timod	---	NST
+
+
+18, 1	56, 1-2	TEG	*mmm* *ideal*	---	NST
+
+
+19, 1	57, 1-5	NEL	rywun wneud ei siopa hi	NSNT	NSNT
+19, 2	58, 1-2	NEL	wedyn oedd	NSNT	NSNT
+19, 3	58, 3-7	NEL	lle oedd ystafell hi fel	NSNT	NSNT
+19, 4	58, 8-12	NEL	oedd ffenestr hi *constant* yn	NST	NST
+19, 5	58, 13-13	NEL	agored	NSNT	NSNT
+19, 6	59, 1-7	NEL	oedd hi yn eistedd wrth ymyl ffenestr	NSNT	NSNT
+19, 7	60, 1-14	NEL	oedd hi yn gweld pawb yn pasio yn gweiddi drwy ffenestr a nhw yn	NSNT	NSNT
+19, 8	60, 15-17	NEL	timod dod draw	NSNT	NSNT
+19, 10	62, 1-7	NEL	*so* oedd hi wrth ei bodd yna	NST	NST
+19, 11	63, 1-12	NEL	o_hyd yn chwarae cardiau neu yn yr hall neu *bingo* neu rywbeth	ST	ST
+19, 12	65, 1-1	NEL	*so*	ST	NST
+19, 13	66, 1-15	NEL	o'n i meddwl basai fan yna yn le bach *right* *nice* i fynd yn hen	---	NST
+
+
+20, 1	67, 1-2	TEG	ia Duw	---	NSNT
+
+
+21, 1	69, 1-8	NEL	ond *er* dw i kind of dallt pam	NST	ST
+21, 2	69, 9-17	NEL	baset ti ddim isio mynd i nursing home felly	NSNT	SNT
+21, 4	72, 1-5	NEL	rhyfedd meddwl am hynna hefyd	NSNT	NSNT
+21, 5	72, 6-6	NEL	dydy	---	NSNT
+
+
+22, 1	73, 1-2	TEG	*mmm* gwybod	---	NST
+
+
+23, 1	75, 1-7	NEL	be sy gen ti blanio at weekend	---	SNT
+
+
+24, 1	76, 1-7	TEG	*um* dw mynd i Manceinion dydd Sadwrn	---	NST
+
+
+25, 1	77, 1-2	NEL	*oh* *cool*	---	NST
+
+
+26, 1	78, 1-9	TEG	mae un o ffrindiau o'n i yn coleg efo	NSNT	NSNT
+26, 2	78, 10-15	TEG	mae hi yn cael ei phen_blwydd	NSNT	NSNT
+26, 3	79, 1-3	TEG	wedyn dan ni	NSNT	NSNT
+26, 4	80, 1-11	TEG	mae yna *group* o tua pump neu chwech ohonan ni sydd	NST	NST
+26, 5	80, 12-20	TEG	wedi bod yn ffrindiau gorau ers i ni adael	NSNT	NSNT
+26, 6	81, 1-11	TEG	a dan ni cyfarfod tua unwaith pob chwech neu wyth wsnos	NSNT	NSNT
+26, 7	83, 1-3	TEG	wedyn tro yma	NSNT	NSNT
+26, 8	83, 4-18	TEG	dan ni gyd wedi planio mynd lawr at ei ei phen_blwydd hi a surprise_io hi	---	SNT
+
+
+27, 1	84, 1-5	NEL	*oh* dydy ddim yn gwybod	NST	NST
+27, 2	86, 1-2	NEL	*oh* bechod	---	NST
+
+
+28, 1	87, 1-12	TEG	*just* yr unig beth dan ni yn crash_o ei yn *flat* hi	NST	ST
+28, 2	88, 1-6	TEG	a dydy ddim yn gwybod eto	NSNT	NSNT
+28, 4	90, 1-9	TEG	*so* fyddan ni yn troi fyny a fath â	NST	NST
+28, 5	91, 1-3	TEG	*hiya* pen_blwydd hapus	NST	NST
+28, 6	92, 1-9	TEG	a by the way dan ni cysgu yma heno	NSNT	SNT
+28, 7	94, 1-3	TEG	ond *um* mae	NST	NST
+28, 8	94, 4-4	TEG	gynni	NSNT	NSNT
+28, 9	94, 5-5	TEG	mae	NSNT	NSNT
+28, 10	94, 6-9	TEG	gynni *flat* *right* fawr	NST	NST
+28, 11	95, 1-9	TEG	wedyn dan ni ni gyd *just* mynd â sleeping_bags	ST	ST
+28, 12	96, 1-5	TEG	a wedyn dan ni gyd	NSNT	NSNT
+28, 13	96, 6-14	TEG	dan ni mynd allan am fwyd *um* tua chwech	NST	NST
+28, 14	97, 1-9	TEG	wedyn aros allan trwy nos *round* y *bars* ballu	---	NST
+
+
+29, 1	98, 1-1	NEL	*cool*	---	NST
+
+
+30, 1	100, 1-3	TEG	*change* o *Fangor*	---	NST
+
+
+31, 1	102, 1-5	NEL	ydy *nice* mynd yn_ôl yna	NST	NST
+31, 2	103, 1-2	NEL	ta ydy	NSNT	NSNT
+31, 3	103, 3-4	NEL	ydy yn	NSNT	NSNT
+31, 4	104, 1-5	NEL	ydy o wedi newid *lot*	---	NST
+
+
+32, 1	105, 1-4	TEG	mae o wedi newid	NSNT	NSNT
+32, 2	105, 5-5	TEG	sti	---	NSNT
+
+
+33, 1	106, 1-3	NEL	newid yn *fast*	---	NST
+
+
+34, 1	108, 1-4	TEG	mae yna fath â	NSNT	NSNT
+34, 2	108, 5-10	TEG	mae yna *hotel* anferth newydd yna	NST	NST
+34, 3	109, 1-4	TEG	mae yna fath â	NSNT	NSNT
+34, 4	109, 5-9	TEG	mae yna *just* shopping complexes	ST	ST
+34, 5	110, 1-5	TEG	mae newid ac yn datblygu	NSNT	NSNT
+34, 6	112, 1-3	TEG	ond I *suppose*	ST	ST
+34, 7	112, 4-13	TEG	dw i adre ers dwy flynedd dwy flynedd a hanner	NSNT	NSNT
+34, 8	113, 1-6	TEG	*so* mae *bound* o newid *lot*	---	NST
+
+
+35, 1	115, 1-5	NEL	dw isio mynd i Manchester	SNT	SNT
+35, 2	116, 1-5	NEL	oedden ni wedi meddwl mynd	NSNT	NSNT
+35, 3	117, 1-8	NEL	mae *um* *Radio_Luxembourg* yn *um* chwarae yn Manchester	ST	ST
+35, 4	118, 1-5	NEL	wedyn oedden ni wedi meddwl	NSNT	NSNT
+35, 5	119, 1-7	NEL	*oh* Duw basai yn *cool* mynd i	---	NST
+
+
+36, 1	120, 1-7	TEG	*oh* pa bryd mae nhw chwarae Manchester	---	ST
+
+
+37, 1	121, 1-6	NEL	*um* ar nos Fercher mae o	NST	NST
+37, 2	122, 1-6	NEL	am bod o'n i wedi meddwl	NSNT	NSNT
+37, 3	122, 7-9	NEL	petasai fo weekend	SNT	SNT
+37, 4	122, 10-18	NEL	basen ni gallu mynd draw aros efo brawd *Hedd*	NST	NST
+37, 5	124, 1-2	NEL	a basai	NSNT	NSNT
+37, 6	124, 3-6	NEL	noson really da cael	NSNT	SNT
+37, 7	124, 7-13	NEL	bod yn Manchester ond efo llwyth o	---	SNT
+
+
+38, 1	125, 1-1	TEG	Cymraeg	---	NSNT
+
+
+39, 1	127, 1-5	NEL	ond *um* ar nos Fercher	NST	NST
+39, 2	128, 1-14	NEL	wedyn oedd *Hedd* ddim yn gallu cymryd amser *off* really yn ystod yr wsnos	NST	ST
+39, 3	130, 1-3	NEL	*so* basai hynna	NST	NST
+39, 4	130, 4-6	NEL	wedi bod dda	---	NSNT
+
+
+40, 1	131, 1-14	TEG	dan ni wedi cael *tickets* i weld y *View* yn Lerpwl yn mis Ebrill	NST	NST
+40, 2	132, 1-5	TEG	mae hwnna ar nos Sul	NSNT	NSNT
+40, 3	133, 1-13	TEG	ond dan ni mynd i aros a *just* trafaelio nôl bore dydd Llun	---	NST
+
+
+41, 1	134, 1-2	NEL	Duw ia	---	NSNT
+
+
+42, 1	135, 1-1	TEG	*so*	---	NST
+
+
+43, 1	136, 1-11	NEL	dw i mynd i weld *Gruff_Rhys* dim weekend nesa weekend wedyn	---	ST
+
+
+44, 1	138, 1-6	TEG	dw i really isio gweld *Gruff_Rhys*	NST	ST
+44, 2	140, 1-3	TEG	lle mae o	---	NSNT
+
+
+45, 1	141, 1-4	NEL	yn *Aberystwyth* yn y	---	NST
+
+
+46, 1	142, 1-3	TEG	yn y llyfrgell	NSNT	NSNT
+46, 2	144, 1-7	TEG	*oh* *yeah* mae yn wedi gwerthu allan	NST	NST
+46, 3	144, 8-9	TEG	dw meddwl	---	NSNT
+
+
+47, 1	145, 1-4	NEL	tocynnau gyd wedi mynd	NSNT	NSNT
+47, 2	149, 1-1	NEL	dda	---	NSNT
+
+
+48, 1	151, 1-3	TEG	ti efo *Candylion*	---	NST
+
+
+49, 1	152, 1-3	NEL	na dw i	NSNT	NSNT
+49, 2	152, 4-10	NEL	bod yn trio download_io fo ar *i_Tunes*	NST	ST
+49, 3	153, 1-1	NEL	mae	NSNT	NSNT
+49, 4	153, 2-6	NEL	genna i ryw voucher *i_Tunes*	ST	ST
+49, 5	154, 1-4	NEL	ges i o Dolig	NSNT	NSNT
+49, 6	155, 1-3	NEL	*oh* dw i	NST	NST
+49, 7	155, 4-7	NEL	bod mynd â fo	NSNT	NSNT
+49, 8	156, 1-3	NEL	i o nôl	NSNT	NSNT
+49, 9	157, 1-2	NEL	dw i	NSNT	NSNT
+49, 10	157, 3-7	NEL	bod yn *Argos* dwywaith wan	NST	NST
+49, 11	157, 8-10	NEL	am bod pethau	NSNT	NSNT
+49, 12	158, 1-14	NEL	ti fod pan ti cael voucher *i_Tunes* mae nhw fod i activate_io fo cyn	NST	ST
+49, 13	158, 15-18	NEL	roid o i chdi	NSNT	NSNT
+49, 14	159, 1-4	NEL	ond dydyn nhw ddim	NSNT	NSNT
+49, 15	160, 1-3	NEL	a dw i	NSNT	NSNT
+49, 16	160, 4-6	NEL	bod yna dwywaith	NSNT	NSNT
+49, 17	160, 7-12	NEL	am bod obviously colli *receipt* wrth_gwrs	NST	ST
+49, 18	162, 1-7	NEL	a gofyn wrthyn nhw *just* swipe_io fo	NST	ST
+49, 19	163, 1-6	NEL	a mae nhw fel yn deud	NSNT	NSNT
+49, 21	165, 1-4	NEL	es i nôl deud	NSNT	NSNT
+49, 22	165, 5-11	NEL	bod fi ddim yn gallu ffeindio fo	NSNT	NSNT
+49, 23	166, 1-4	NEL	a wedyn ddeudodd o	NSNT	NSNT
+49, 24	167, 1-15	NEL	*oh* raid chdi dod â yr cardyn ti wedi brynu fo nôl i swipe_io fo	NST	ST
+49, 25	168, 1-8	NEL	a typical gynna i ddim y cardyn yna	NSNT	SNT
+49, 26	169, 1-7	NEL	*so* dw i mynd yn_ôl hwyrach ymlaen	NST	NST
+49, 27	170, 1-4	NEL	dw isio download_io hwnnw	NSNT	SNT
+49, 28	171, 1-4	NEL	*fancy* *album* newydd *Gwen_Stefani*	---	NST
+
+
+50, 1	172, 1-9	TEG	*oh* gynna i hwnna os ti isio copïo fo	---	NST
+
+
+51, 1	174, 1-6	NEL	*oh* *yeah* basai hynna yn *cool*	NST	NST
+51, 2	175, 1-5	NEL	ydy o yn un da	NSNT	NSNT
+51, 3	175, 6-8	NEL	ydy o dda	---	NSNT
+
+
+52, 1	176, 2-5	TEG	mae o *right* dda	NST	NST
+52, 2	178, 1-11	TEG	*um* o'n i am ddeud wrtha chdi actually because dw gwybod	NST	ST
+52, 3	178, 12-16	TEG	bod chdi yn licio hi	NSNT	NSNT
+52, 4	178, 17-20	TEG	bod gynno fi fo	NSNT	NSNT
+52, 5	179, 1-9	TEG	wnes i *just* prynu fo wythnos dwytha o *Tesco*	---	NST
+
+
+53, 1	180, 1-5	NEL	*oh* fysai hynna yn *cool*	---	NST
+
+
+54, 1	181, 1-6	TEG	ond *er* mae o yn dda	NST	NST
+54, 2	182, 1-6	TEG	*yeah* wna i ddod â fo	NST	NST
+54, 3	183, 1-7	TEG	dw ddim efo fo yn *car* actually	ST	ST
+54, 4	184, 1-7	TEG	wna i ddod â fo wsnos nesa	---	NSNT
+
+
+55, 1	186, 1-4	NEL	bod yna rywun arall	NSNT	NSNT
+55, 2	186, 5-6	NEL	dw i	SNT	NSNT
+55, 3	187, 1-2	NEL	*oh* *Kooks*	---	NST
+
+
+56, 1	188, 1-7	TEG	*oh* *yeah* dw i efo hwnna hefyd	NST	NST
+56, 2	190, 1-4	TEG	dw i wedi clywed	NSNT	NSNT
+56, 3	190, 5-10	TEG	bod nhw yn headline_io *er* *Wakestock*	ST	ST
+56, 4	192, 1-4	TEG	ond dw ddim gwybod	NSNT	NSNT
+56, 5	192, 5-8	TEG	os mae yn wir	NSNT	NSNT
+56, 6	193, 1-7	TEG	achos dyn nhw ddim wedi conffyrmio eto	NSNT	NSNT
+56, 7	195, 1-8	TEG	ond *um* mae un o ffrindiau fi *Claire*	NST	NST
+56, 8	195, 9-14	TEG	mae yn byw yn *Abersoch* *well*	NST	NST
+56, 9	195, 15-19	TEG	mae chartre hi yn *Abersoch*	NST	NST
+56, 11	197, 1-3	TEG	ac dw meddwl	NSNT	NSNT
+56, 12	197, 4-9	TEG	bod hi wedi clywed gyn rywun	---	NSNT
+
+
+57, 1	199, 1-4	NEL	*oh* basai yn *cool*	---	NST
+
+
+58, 1	200, 1-3	TEG	dim syniad pwy	---	NSNT
+
+
+59, 1	201, 1-4	NEL	dw i definitely mynd	NSNT	SNT
+59, 2	201, 5-7	NEL	os ydy *Kooks*	---	NST
+
+
+60, 1	202, 1-4	TEG	dw i yn gwybod	NSNT	NSNT
+60, 2	203, 1-7	TEG	ond o'n i meddwl ia mae *sure*	NST	NST
+60, 3	203, 8-10	TEG	bydd hynna yn	NSNT	NSNT
+60, 4	203, 11-16	TEG	timod yn *right* fath â expected	ST	ST
+60, 5	204, 1-8	TEG	achos oedd y *Zutons* a *Feeder* blwyddyn dwytha	---	NST
+
+
+61, 1	206, 1-3	NEL	oedd o dda	NSNT	NSNT
+61, 2	206, 4-6	NEL	doedd blwyddyn dwytha	---	NSNT
+
+
+62, 1	207, 1-5	TEG	mae reina *right* high *profile*	ST	ST
+62, 2	207, 6-6	TEG	dydy	SNT	NSNT
+62, 3	208, 1-1	TEG	*so*	---	NST
+
+
+63, 1	210, 1-5	NEL	be wnaethoch chi drwy dydd	NSNT	NSNT
+63, 2	211, 1-5	NEL	campio ta cysgu yn *car*	---	NST
+
+
+64, 1	212, 1-5	TEG	wnaethon ni aros yn *Nefyn*	NST	NST
+64, 2	214, 1-4	TEG	dw i yn campio	NSNT	NSNT
+64, 3	214, 5-6	TEG	tro yma	NSNT	NSNT
+64, 4	216, 1-1	TEG	achos	NSNT	NSNT
+64, 5	217, 1-7	TEG	*oh* dydy *Nefyn* ddim yn bell o_gwbl	NST	NST
+64, 6	218, 1-2	TEG	ond wnaethon	NSNT	NSNT
+64, 7	218, 3-12	TEG	oedden ni yn disgwyl am y *buses* yna am oriau	NST	NST
+64, 8	221, 1-5	TEG	ac oedd hi yn oer	---	NSNT
+
+
+65, 1	222, 1-7	NEL	*oh* oedd hi yn oer uffernol yna	NST	NST
+65, 2	222, 8-8	NEL	doedd	---	NSNT
+
+
+66, 1	223, 1-4	TEG	oedd hi yn oer	NSNT	NSNT
+66, 2	223, 5-5	TEG	doedd	---	NSNT
+
+
+67, 1	224, 1-2	NEL	cofio mynd	NSNT	NSNT
+67, 2	225, 1-5	NEL	a oedd hi mor braf	NSNT	NSNT
+67, 3	225, 6-12	NEL	wnes i fynd efo ryw *t_shirt* *right*	---	NST
+
+
+68, 1	226, 1-3	TEG	*well* ia dyna	NST	NST
+68, 2	226, 4-5	TEG	ydy peth	NSNT	NSNT
+68, 3	227, 1-10	TEG	*er* *just* *shorts* a fath â *vest* *top* neu rywbeth	NST	NST
+68, 4	229, 1-4	TEG	toeddwn i ddim efo	---	NSNT
+
+
+69, 1	230, 1-3	NEL	*oh* wnes i	NST	NST
+69, 2	231, 1-9	NEL	fel o'n i mynd drwy drws dyma rywun deud	NSNT	NSNT
+69, 3	232, 1-1	NEL	rho	NSNT	NSNT
+69, 4	233, 1-5	NEL	dyma yn chwaer yn deud	NSNT	NSNT
+69, 5	234, 1-6	NEL	*oh* cer nôl i nôl *jumper*	NST	NST
+69, 6	235, 1-5	NEL	mynd i fod yn oer	NSNT	NSNT
+69, 7	236, 1-3	NEL	a wnes i	NSNT	NSNT
+69, 8	237, 1-5	NEL	ond o'n i dal yn	NSNT	NSNT
+69, 9	238, 1-4	NEL	o'n i fferu de	NSNT	NSNT
+69, 10	239, 1-11	NEL	dw cofio mynd i brynu paned o de i gynhesu nwylo	---	NSNT
+
+
+70, 1	241, 1-4	TEG	o'ch chdi yn yfed	NSNT	NSNT
+70, 2	242, 1-5	TEG	oedda chdi yn *um* dreifio	NST	NST
+70, 3	242, 6-6	TEG	doedd	---	NSNT
+
+
+71, 1	245, 1-16	NEL	blwyddyn yma raid fi berswadio un_ai perswadio chwaer i ddreifio neu ella wna i gampio yna	NSNT	NSNT
+71, 2	246, 1-7	NEL	oedd o drud neu rywbeth i gampio	NSNT	NSNT
+71, 3	246, 8-8	NEL	doedd	---	NSNT
+
+
+72, 1	248, 1-5	TEG	mi oedd o yn ddrud	NSNT	NSNT
+72, 2	248, 6-6	TEG	sti	NSNT	NSNT
+72, 3	249, 1-2	TEG	dw meddwl	NSNT	NSNT
+72, 4	249, 3-4	TEG	bod o	NSNT	NSNT
+72, 5	249, 5-13	TEG	werth o os ti am mynd am y ddau	NSNT	NSNT
+72, 6	249, 14-15	TEG	noson ella	NSNT	NSNT
+72, 7	251, 1-4	TEG	dw ddim yn gwybod	NSNT	NSNT
+72, 8	251, 5-6	TEG	os mae	NSNT	NSNT
+72, 9	251, 7-12	TEG	werth o i fynd am un	NSNT	NSNT
+72, 10	251, 13-15	TEG	noson i gampio	NSNT	NSNT
+72, 11	252, 1-8	TEG	*so* ella wnawn ni gysidro mynd am ddau	NST	NST
+72, 12	252, 9-9	TEG	noson	NSNT	NSNT
+72, 13	253, 1-3	TEG	gawn ni weld	NSNT	NSNT
+72, 14	254, 1-7	TEG	ni weld tan mae nhw wedi conffyrmio	NSNT	NSNT
+72, 15	254, 8-10	TEG	pwy sy yna	---	NSNT
+
+
+73, 1	255, 1-4	NEL	diwedd Mehefin neu Gorffennaf	---	NSNT
+
+
+74, 1	256, 1-1	TEG	Gorffennaf	NSNT	NSNT
+74, 2	258, 1-11	TEG	achos dw i yn cofio o'n i yn Llundain mewn cynhadledd	NSNT	NSNT
+74, 3	259, 1-5	TEG	ac wnes i ddod yn_ôl	NSNT	NSNT
+74, 4	260, 1-6	TEG	a dw meddwl y penwythnos wedyn	NSNT	NSNT
+74, 5	260, 7-10	TEG	oedden ni yn mynd	NSNT	NSNT
+74, 6	260, 11-16	TEG	oedden ni yn mynd i *Abersoch*	NST	NST
+74, 7	262, 1-3	TEG	dda though bydd	---	SNT
+
+
+75, 1	263, 1-1	NEL	bydd	NSNT	NSNT
+75, 2	263, 2-5	NEL	bydd o yn dda	NSNT	NSNT
+75, 3	265, 1-12	NEL	ie dw ddim gwybod be i wneud fynd i *Steddfod* blwyddyn yma	NST	NST
+75, 4	266, 1-10	NEL	amser yna fydda i really isio yn sgwennu fyny yn	NSNT	SNT
+75, 5	266, 11-13	NEL	timod final *draft*	---	ST
+
+
+76, 1	267, 1-3	TEG	dw i meddwl	NSNT	NSNT
+76, 2	267, 4-9	TEG	bod fi mynd am few days	---	SNT
+
+
+77, 1	268, 1-7	NEL	ia ella a i yr weekend ola	---	SNT
+
+
+78, 1	269, 1-5	TEG	achos dw i fel arfer	NSNT	NSNT
+78, 2	269, 6-12	TEG	dw i yn helpu cwmni cwmni fi	NSNT	NSNT
+78, 4	271, 1-6	TEG	achos mae nhw efo stondin yna	NSNT	NSNT
+78, 5	273, 1-11	TEG	wsnos dwytha *er* blwyddyn dwytha es i am yr wythnos cyfa	NST	NST
+78, 6	274, 1-8	TEG	*um* a wnes i enjoio fy hun though	ST	ST
+78, 7	275, 1-6	TEG	ac ond oedd o yn Abertawe	NSNT	NSNT
+78, 8	276, 1-4	TEG	mae o yn Wyddgrug	---	NSNT
+
+
+79, 1	277, 1-1	NEL	agosach	NSNT	NSNT
+79, 2	278, 1-4	NEL	yndy Mold yn rywle	NSNT	SNT
+79, 3	280, 1-3	NEL	rywle ffordd yna	---	NSNT
+
+
+80, 1	281, 1-6	TEG	*so* dydy o ddim mor bell	NST	NST
+80, 2	281, 7-8	TEG	nag ydy	NSNT	NSNT
+80, 4	285, 1-3	TEG	ie ti meddwl	NSNT	NSNT
+80, 5	286, 1-13	TEG	pa bryd ti meddwl fydd chdi yn hand_io fyny hand_io fewn dy *thesis*	---	ST
+
+
+81, 1	287, 1-6	NEL	*oh* aim_io am diwedd Medi de	NST	ST
+81, 2	288, 1-4	NEL	dw ddim yn meddwl	NSNT	NSNT
+81, 3	288, 5-8	NEL	wna i wneud o	NSNT	NSNT
+81, 4	289, 1-8	NEL	ond dw i yn trio meddwl amdano fo	NSNT	NSNT
+81, 5	290, 1-2	NEL	am bod	NSNT	NSNT
+81, 6	290, 3-6	NEL	os dw i meddwl	NSNT	NSNT
+81, 7	290, 7-14	NEL	wna i wneud o erbyn diwedd Medi ella	NSNT	NSNT
+81, 8	290, 15-21	NEL	wna i wneud o erbyn diwedd Hydref	NSNT	NSNT
+81, 9	291, 1-5	NEL	ond os dw i meddwl	NSNT	NSNT
+81, 10	292, 1-9	NEL	*oh* wna i ddim wneud o tan diwedd Hydref	NST	NST
+81, 11	293, 1-4	NEL	fydd hi yn Tachwedd	NSNT	NSNT
+81, 12	295, 1-3	NEL	*so* trio aim_io	---	ST
+
+
+82, 1	296, 1-5	TEG	ti wedi sgwennu dipyn hyd_yn_hyn	---	NSNT
+
+
+83, 1	297, 1-2	NEL	na dim	NSNT	NSNT
+83, 2	298, 1-2	NEL	dw i	NSNT	NSNT
+83, 3	298, 3-7	NEL	wedi bod yn trio wneud	NSNT	NSNT
+83, 4	300, 1-1	NEL	ond	---	NSNT
+
+
+84, 1	301, 1-2	TEG	dw gwybod	NSNT	NSNT
+84, 2	302, 1-2	TEG	dw i	NSNT	NSNT
+84, 3	302, 3-5	TEG	bod sgwennu methodoleg	NSNT	NSNT
+84, 4	303, 1-9	TEG	ac mae hwnna mynd i fod tua ugain mil	---	NSNT
+
+
+85, 1	306, 1-3	NEL	dw ddim meddwl	NSNT	NSNT
+85, 2	306, 4-4	NEL	bod	NSNT	NSNT
+85, 3	306, 5-11	NEL	gynna i gymaint â hynna o fethodoleg	NSNT	NSNT
+85, 4	306, 12-12	NEL	sti	---	NSNT
+
+
+86, 1	308, 1-7	TEG	ie mond holiaduron ti wedi wneud de	---	NSNT
+
+
+87, 1	309, 1-3	NEL	mae *sure* *just*	ST	NST
+87, 2	311, 1-9	NEL	really dw i wedi iwsio rhaglenni gwahanol efo *G_I_S*	NST	ST
+87, 3	312, 1-8	NEL	ond dydy hynna ddim yn *lot* i fi	NST	NST
+87, 4	313, 1-7	NEL	a cyfweliadau *oh* dydy hynna ddim yn	NST	NST
+87, 5	314, 1-3	NEL	cyfweliad ydy cyfweliad	---	NSNT
+
+
+88, 1	315, 1-3	TEG	ia ond be	---	NSNT
+
+
+89, 1	316, 1-6	NEL	be fedri di ddeud amdano fo	---	NSNT
+
+
+90, 1	317, 1-4	TEG	be trio ddeud ydy	NSNT	NSNT
+90, 2	317, 5-9	TEG	dw meddwl munud dechrau sgwennu	NSNT	NSNT
+90, 3	317, 10-17	TEG	mae actual sgwennu a cael yr word_count i_fyny	NSNT	SNT
+90, 4	317, 18-21	TEG	dw ddim yn meddwl	NSNT	NSNT
+90, 5	317, 22-25	TEG	bod o yn *job*	NST	NST
+90, 6	317, 26-28	TEG	*just* bod o	---	NST
+
+
+91, 1	318, 1-6	NEL	gorod revise_io a revise_io fo de	---	SNT
+
+
+92, 1	320, 1-14	TEG	a gael o yn berffaith ac wneud *sure* bod o yn llifo wneud *sure*	NST	NST
+92, 2	320, 15-15	TEG	bod	NSNT	NSNT
+92, 3	320, 16-22	TEG	bod yna ddim mistakes gramadegol a ryw	---	SNT
+
+
+93, 1	321, 1-15	NEL	a pethau wneud *sure* bod y pethau iawn yn y yn y chapters iawn a	---	ST
+
+
+94, 1	322, 1-3	TEG	ia yn union	NSNT	NSNT
+94, 2	323, 1-16	TEG	a bod chdi ddim yn ailadrodd dy hun a ryw bethau fel yna a *just* ie	NST	NST
+94, 4	326, 1-5	TEG	roid o i_gyd efo ei_gilydd	---	NSNT
+
+
+95, 1	327, 1-8	NEL	ie ond pan siarad efo *Hedd* *Hedd* deud	NST	NST
+95, 2	328, 1-5	NEL	faint sy gyn ti sgwennu	NSNT	NSNT
+95, 3	329, 1-3	NEL	a fi deud	NSNT	NSNT
+95, 4	330, 1-3	NEL	dydw ddim gwybod	NSNT	NSNT
+95, 5	331, 1-9	NEL	rhwng wyth_deg a can mil dyn nhw fel arfer	SNT	NSNT
+95, 6	333, 1-10	NEL	probably nabod fi fydd o *just* yn wyth_deg mil ond	NST	ST
+95, 8	335, 1-6	NEL	dw i erioed wedi gallu cyrraedd	NSNT	NSNT
+95, 9	336, 1-6	NEL	*so* fel pan mae pobl yn	---	NST
+
+
+96, 1	337, 1-4	TEG	na na fi chwaith	---	NSNT
+
+
+97, 1	338, 1-6	NEL	a fel mae rhai pobl yn	NSNT	NSNT
+97, 2	338, 8-14	NEL	mae nhw yn deud traethawd dwy fil	NSNT	NSNT
+97, 3	338, 15-19	NEL	a mae nhw sgwennu pedwar	NSNT	NSNT
+97, 4	339, 1-9	NEL	dw i lwcus sgwennu mil a hanner fel arfer	---	NSNT
+
+
+98, 1	340, 1-7	TEG	ia o'n i yr un peth hefyd	---	NSNT
+
+
+99, 1	341, 1-10	NEL	a wedyn *so* dw i yn aim_io am wyth_deg mil	NST	ST
+99, 2	342, 1-3	NEL	ond ddeudodd o	NSNT	NSNT
+99, 3	343, 1-4	NEL	*well* timod os ti	NST	NST
+99, 4	344, 1-6	NEL	faint ti gallu sgwennu bob diwrnod	NSNT	NSNT
+99, 5	345, 1-8	NEL	ti gallu sgwennu tua dwy fil y diwrnod	NSNT	NSNT
+99, 6	346, 1-2	NEL	ddeudodd o	NSNT	NSNT
+99, 7	348, 1-8	NEL	*so* mae hynna yn deg mil mewn wsnos	ST	NST
+99, 8	349, 1-1	NEL	*so*	---	NST
+
+
+100, 1	350, 1-2	TEG	wyth wsnos	---	NSNT
+
+
+101, 1	351, 1-2	NEL	wyth wsnos	NSNT	NSNT
+101, 2	352, 1-3	NEL	a ddeudais i	NSNT	NSNT
+101, 3	353, 1-3	NEL	*mmm* dw meddwl	NST	NST
+101, 4	353, 4-12	NEL	bod yna ychydig bach mwy iddo fo na hynna	NSNT	NSNT
+101, 5	354, 1-4	NEL	a wedyn ddeudodd o	NSNT	NSNT
+101, 6	355, 1-10	NEL	ond hyd_yn_oed os ti ond sgwennu mil y diwrnod dydy	NSNT	NSNT
+101, 7	355, 11-17	NEL	honna mond mynd i gymryd un_deg_naw wsnos	NSNT	NSNT
+101, 8	357, 1-3	NEL	un_deg_chwech wsnos *sorry*	NST	NST
+101, 9	359, 1-3	NEL	*so* mae hynna	NST	NST
+101, 10	359, 4-9	NEL	mae hynna dal yn bedwar mis	NSNT	NSNT
+101, 11	360, 1-2	NEL	dw meddwl	NSNT	NSNT
+101, 12	360, 3-4	NEL	bod chdi	NSNT	NSNT
+101, 13	361, 1-2	NEL	ddim gwybod	NSNT	NSNT
+101, 14	362, 1-9	NEL	o be dw i wedi siarad efo pobl eraill	NSNT	NSNT
+101, 15	362, 10-11	NEL	dw meddwl	NSNT	NSNT
+101, 16	362, 12-26	NEL	bod chdi un_ai yn gallu wneud fel few days a ti sgwennu llwyth a wedyn	NSNT	SNT
+101, 17	362, 27-35	NEL	wnei di ddim sgwennu dim_byd wedyn am tua wsnos	NSNT	NSNT
+101, 18	365, 1-1	NEL	ond	---	NSNT
+
+
+102, 1	366, 1-11	TEG	tydy o ddim yn mynd i weithio allan mor drefnus ag	NSNT	NSNT
+102, 2	367, 1-14	TEG	*oh* dw i am wneud dwy fil bob diwrnod am yr wyth wsnos nesa	NST	NST
+102, 3	369, 1-5	TEG	dydy o *just* ddim na	NST	NST
+102, 6	375, 1-6	TEG	fydda chdi *just* fath â chinese	ST	ST
+102, 7	376, 1-3	TEG	*well* mae *sure*	NST	NST
+102, 8	376, 4-7	TEG	fydd rei fi anyway	SNT	SNT
+102, 9	377, 1-1	TEG	*so*	---	NST
+
+
+103, 1	378, 1-2	NEL	ydy *well*	NST	NST
+103, 2	379, 1-2	NEL	ia dyna	NSNT	NSNT
+103, 3	379, 3-4	NEL	be wnes	NSNT	NSNT
+103, 4	380, 1-6	NEL	wnes i gychwyn wneud un pennod	NSNT	NSNT
+103, 5	381, 1-4	NEL	a wedyn i meddwl	NSNT	NSNT
+103, 6	382, 1-6	NEL	Duw wna i gychwyn efo hwn	NSNT	NSNT
+103, 7	382, 7-8	NEL	am bod	NSNT	NSNT
+103, 8	382, 9-15	NEL	basai yn bennod *right* ddiddorol i sgwennu	NST	NST
+103, 9	383, 1-4	NEL	*so* o'n i meddwl	NST	NST
+103, 10	384, 1-9	NEL	os wna i gychwyn efo yr un mwya diddorol	NSNT	NSNT
+103, 11	384, 10-18	NEL	wna i ddod i_mewn i mode sgwennu efo hwnnw	NSNT	SNT
+103, 12	386, 1-11	NEL	a wedyn wna i adael yr un mwya boring tan diwedd	NSNT	SNT
+103, 13	388, 1-5	NEL	a wnes i gychwyn hwnna	NSNT	NSNT
+103, 14	389, 1-6	NEL	a wnes i sylwi *well* er	NST	NST
+103, 15	389, 7-7	NEL	bod	NSNT	NSNT
+103, 16	389, 8-12	NEL	gynna i *data* fi gyd	NST	NST
+103, 17	389, 13-17	NEL	oedd o *just* mewn *mess*	NST	NST
+103, 18	390, 1-6	NEL	dim mewn *mess* ond oedd *just*	NST	NST
+103, 19	391, 1-2	NEL	*well* oedd	NST	NST
+103, 20	391, 3-8	NEL	gynna i llwyth o *databases* gwahanol	NST	NST
+103, 21	392, 1-10	NEL	wedyn am bod fi wedi wneud *set* gwahanol o holiaduron	NST	NST
+103, 23	394, 1-13	NEL	*so* mae yna rhai cwestiynau yr un peth ar tua ar bob un	NST	NST
+103, 24	395, 1-8	NEL	a wedyn mae yna rei eraill yn wahanol	NSNT	NSNT
+103, 25	396, 1-11	NEL	a wedyn dw isio trio dod â rhai i_gyd at ei_gilydd	---	NSNT
+
+
+104, 1	397, 1-6	TEG	ti isio trio amalgamate_io gymaint â	NSNT	SNT
+104, 2	397, 7-10	TEG	fedri di mewn ffordd	---	NSNT
+
+
+105, 1	399, 1-10	NEL	a dw isio trio dod â rhai i_gyd at ei_gilydd	NSNT	NSNT
+105, 2	400, 1-6	NEL	wedyn dw isio separate_io rei eraill	NSNT	SNT
+105, 3	402, 1-2	NEL	a wedyn	NSNT	NSNT
+105, 4	403, 1-13	NEL	*so* o'n i meddwl raid fi wneud hynna really cyn cychwyn sgwennu eto	NST	ST
+105, 5	404, 1-14	NEL	*so* dw isio trio wneud hynna erbyn tua dydd Sul neu rywbeth fel yna	NST	NST
+105, 7	407, 1-4	NEL	ond *oh* isio mynedd	---	NST
+
+
+106, 1	408, 1-8	TEG	*well* dw i dal isio casglu *data* fi	NST	NST
+106, 2	409, 1-7	TEG	dw i efo tri_deg_chwech holiaduron *so* *far*	---	NST
+
+
+107, 1	410, 1-4	NEL	mae hynna yn iawn	---	NSNT
+
+
+108, 1	411, 1-3	TEG	a saith *pilot*	NST	NST
+108, 2	412, 1-2	TEG	*so* pedwar_deg_tri	NST	NST
+108, 3	413, 1-7	TEG	dw isio aim_io am tua dau gant	---	SNT
+
+
+109, 1	414, 1-6	NEL	*mmm* ti dechrau hassle_o pobl eto	---	ST
+
+
+110, 1	416, 1-6	TEG	mae hyn *just* yn ar_ôl Mail_Merge	ST	ST
+110, 2	416, 7-9	TEG	timod e_mail *er*	ST	ST
+110, 3	416, 10-12	TEG	pan wnes i	---	NSNT
+
+
+111, 1	417, 1-3	NEL	wsnos sy yna	NSNT	NSNT
+111, 2	418, 1-6	NEL	*ooh* ti wedi hitio fo eto	---	NST
+
+
+112, 1	419, 1-7	TEG	wnes i e_mail_io tri chant a dau_ddeg	NSNT	SNT
+112, 2	420, 1-6	TEG	a ges i tua pump_deg_pump undelivered	---	SNT
+
+
+113, 1	421, 1-4	NEL	*oh* gymaint â hynna	---	NST
+
+
+114, 1	422, 1-5	TEG	*so* dw isio dechrau ffonio	NST	NST
+114, 2	423, 1-10	TEG	a gynno fi mwy o *lists* eraill o fusnesau lleol	NST	NST
+114, 3	424, 1-10	TEG	a dw meddwl ga i ga i *luck* efo rheina	NST	NST
+114, 4	424, 11-14	TEG	bod fi yn deud	NSNT	NSNT
+114, 5	425, 1-5	TEG	*oh* *hiya* dw i yn	NST	NST
+114, 6	425, 6-9	TEG	dw i yn *Bangor*	NST	NST
+114, 7	427, 1-7	TEG	fedrwch chi llenwi hwn i_fewn i fi	NSNT	NSNT
+114, 8	428, 1-10	TEG	os dw yn ffonio rywun fath â rywun yn *Llanberis*	NST	NST
+114, 9	429, 1-8	TEG	ond os dw i yn ffonio rywun Manceinion	NSNT	NSNT
+114, 10	429, 9-12	TEG	mae nhw fath â	---	NSNT
+
+
+115, 1	430, 1-3	NEL	lle mae *Bangor*	---	NST
+
+
+116, 1	431, 1-2	TEG	yn union	NSNT	NSNT
+116, 2	432, 1-5	TEG	ond *um* *so* mae *sure*	NST	NST
+116, 3	432, 6-9	TEG	byddan nhw fath â	NSNT	NSNT
+116, 4	433, 1-4	TEG	*well* pam mae hyn	NST	NST
+116, 5	434, 1-5	TEG	pam ti yn ffonio ni	NSNT	NSNT
+116, 6	435, 1-9	TEG	ond os ti ffonio cwmnïau lleol mae nhw yn	---	NSNT
+
+
+117, 1	436, 2-9	NEL	mae nhw mynd i fod yn haws tydyn	---	NSNT
+
+
+118, 1	437, 1-4	TEG	ie *so* dw meddwl	NST	NST
+118, 2	438, 1-5	TEG	dw isio trio wneud hynna	NSNT	NSNT
+118, 3	439, 1-2	TEG	dw isio	NSNT	NSNT
+118, 4	440, 1-11	TEG	*well* dydd Llun dw i am gael *um* cold calling day	ST	ST
+118, 5	440, 12-13	TEG	dw meddwl	NSNT	NSNT
+118, 6	442, 1-14	TEG	dw am eistedd yn *study* fi adre a *just* ar y *phone* trwy dydd	---	NST
+
+
+119, 1	443, 1-6	NEL	*oh* dw i casáu ffonio pobl	---	NST
+
+
+120, 1	444, 1-2	TEG	dw gwybod	---	NSNT
+
+
+121, 1	445, 1-10	NEL	yr unig beth pan ti wneud gymaint â hynna de	NSNT	NSNT
+121, 2	445, 12-27	NEL	mae yn *job* cadw *track* ar pwy ti wedi ffonio a pwy ti angen ffonio nôl	---	NST
+
+
+122, 1	446, 1-5	TEG	*oh* *yeah* bydd raid fi	NST	NST
+122, 2	446, 6-10	TEG	*just* bod ar *Excel* yn	---	NST
+
+
+123, 1	447, 1-5	NEL	raid chdi fod yn drefnus	NSNT	NSNT
+123, 2	449, 1-3	NEL	dw i ddim	---	NSNT
+
+
+124, 1	450, 1-3	TEG	ie yn union	NSNT	NSNT
+124, 2	451, 1-2	TEG	ac os	---	NSNT
+
+
+125, 1	453, 1-6	NEL	pethau y pethau sy yn annoying	SNT	SNT
+125, 2	453, 7-11	NEL	pan mae pobl yn deud	NSNT	NSNT
+125, 3	454, 1-4	NEL	*oh* ffonia nhw nôl	NST	NST
+125, 4	454, 5-14	NEL	am bod *um* *so* and *so* ti isio siarad efo	NST	ST
+125, 5	455, 1-6	NEL	a mae nhw mewn am un	NSNT	NSNT
+125, 6	456, 1-16	NEL	a wedyn ti ffonio nôl am un a wedyn mae nhw wedi mynd am eu cinio	NSNT	NSNT
+125, 7	457, 1-15	NEL	a wedyn ti ffonio nôl wedyn a mae nhw wedi mynd i ryw gyfarfod a	---	NSNT
+
+
+126, 1	459, 1-3	TEG	dw i gwybod	SNT	NSNT
+126, 2	461, 1-1	TEG	annoying	---	NSNT
+
+
+127, 1	463, 1-2	NEL	dw *sure*	NST	NST
+127, 2	463, 3-10	NEL	fyddi di teimlo well ar_ôl wneud diwrnod cyfa	---	NSNT
+
+
+128, 1	466, 1-12	TEG	dw yn teimlo well pan a i log_io fewn a gweld faint	NSNT	SNT
+128, 2	466, 13-13	TEG	sy	NSNT	NSNT
+128, 3	466, 14-26	TEG	wedi bod yn wneud o ac *um* gweld yr rhifau yn cropian i_fyny	NST	NST
+128, 5	468, 1-4	TEG	fydda i fath â	SNT	NSNT
+128, 6	469, 1-2	TEG	yes *c'mon*	ST	NST
+128, 7	470, 1-4	TEG	a fydd o yn	NSNT	NSNT
+128, 8	470, 5-14	TEG	fydd o yn motivate_io fi ffonio mwy o bobl ella	NSNT	SNT
+128, 9	472, 1-5	TEG	*so* ga i weld anyway	ST	ST
+128, 10	473, 1-10	TEG	dw i tan diwedd Mawrth i gael bob_dim at ei_gilydd	---	NSNT
+
+
+129, 1	474, 1-12	NEL	*yeah* am bod o'n i isio gorffen cyfweliadau fi erbyn mis yma	NST	NST
+129, 2	475, 1-10	NEL	ond gynna i un wedi trefnu un dechrau mis Mawrth	NSNT	NSNT
+129, 3	476, 1-6	NEL	a mae yr ddau *boy* yma	NST	NST
+129, 4	476, 7-11	NEL	dw i really isio cyfweld	NSNT	SNT
+129, 5	477, 1-5	NEL	a mae yr *boy* yn	NST	NST
+129, 6	477, 6-8	NEL	timod y swyddog	NSNT	NSNT
+129, 7	477, 9-13	NEL	dw i efo yn *Cymad*	NST	NST
+129, 8	477, 14-19	NEL	mae o nabod nhw *right* dda	NST	NST
+129, 9	477, 20-21	NEL	am bod	NSNT	NSNT
+129, 10	477, 22-22	NEL	mae	NSNT	NSNT
+129, 11	477, 23-31	NEL	wedi bod yn gweithio efo nhw ar y prosiectau	NSNT	NSNT
+129, 12	479, 1-8	NEL	a wedyn dw i wedi gofyn wrtho fo	NSNT	NSNT
+129, 13	480, 1-5	NEL	*oh* *so* dach chi meddwl	NST	NST
+129, 14	480, 6-9	NEL	basen nhw efo diddordeb	NSNT	NSNT
+129, 15	481, 1-4	NEL	a mae wedi deud	NSNT	NSNT
+129, 16	483, 1-2	NEL	a deud	NSNT	NSNT
+129, 17	484, 1-6	NEL	*oh* dach chi basech chi fodlon	NST	NST
+129, 18	484, 7-21	NEL	rhoid yn eu *er* manylion cyswllt nhw i mi gael ffonio nhw i drefnu o	NST	NST
+129, 19	485, 1-5	NEL	a mae o wedi deud	NSNT	NSNT
+129, 20	486, 1-8	NEL	*oh* wna i *just* sôn wrthyn nhw gynta	NST	NST
+129, 21	487, 1-4	NEL	a wedyn bob tro	NSNT	NSNT
+129, 22	487, 5-10	NEL	dw i yn gofyn wrtho fo	NSNT	NSNT
+129, 23	488, 1-12	NEL	dw i wedi ffonio ffonio neu e_mail_io fo dipyn o weithiau wan	---	SNT
+
+
+130, 1	490, 1-3	TEG	fedri di ddim	---	NSNT
+
+
+131, 1	491, 1-3	NEL	mae hyd yn	NSNT	NSNT
+131, 2	491, 4-8	NEL	dw i hyd yn gofyn	NSNT	NSNT
+131, 3	492, 1-6	NEL	*oh* dach chi wedi cael gafael	NST	NST
+131, 4	493, 1-7	NEL	dach chi wedi sôn iddyn nhw eto	NSNT	NSNT
+131, 5	494, 1-6	NEL	*oh* dw i heb wneud eto	NST	NST
+131, 6	495, 1-5	NEL	ond fe fydda i fory	NSNT	NSNT
+131, 7	496, 1-8	NEL	a mae o really yn bug_io fi wan	NSNT	SNT
+131, 8	497, 1-6	NEL	achos mae yn dal fi nôl	---	NSNT
+
+
+132, 1	498, 1-5	TEG	ie mae hynna yn annoying	SNT	SNT
+132, 2	499, 1-11	TEG	achos fedri di ddim ti ddim isio dibynnu ar rywun arall	NSNT	NSNT
+132, 3	500, 1-9	TEG	ti isio ffonio nhw neu cysylltu nhw dy hun	NSNT	NSNT
+132, 4	502, 1-7	TEG	ond fedri di ddim ffonio yr cwmni	NSNT	NSNT
+132, 5	502, 8-12	TEG	ei hun a siarad receptionist	SNT	SNT
+132, 6	502, 13-15	TEG	a fedrith nhw	NSNT	NSNT
+132, 7	502, 16-21	TEG	*just* roid y details i chdi	---	ST
+
+
+133, 1	503, 1-6	NEL	*oh* *just* fel ffarmwrs dyn nhw	NST	NST
+133, 2	503, 7-7	NEL	sti	NSNT	NSNT
+133, 3	505, 1-1	NEL	basai	NSNT	NSNT
+133, 4	505, 2-11	NEL	basai raid i fi gael un_ai rhif *phone* neu cyfeiriad	NST	NST
+133, 5	505, 12-13	NEL	dw meddwl	---	NSNT
+
+
+134, 1	507, 1-9	TEG	dydyn nhw ddim yn y *business* *directory* neu rywbeth	---	NST
+
+
+135, 1	509, 1-18	NEL	a ti teimlo ychydig bach yn annifyr mynd tu nôl cefn y *boy* yna wneud hynna hefyd de	---	NST
+
+
+136, 1	510, 1-5	TEG	*oh* *yeah* basai fo gwybod	NST	NST
+136, 2	511, 1-2	TEG	annifyr de	---	NSNT
+
+
+137, 1	512, 1-4	NEL	a basai gymaint haws	NSNT	NSNT
+137, 2	513, 1-1	NEL	mae	NSNT	NSNT
+137, 3	513, 2-5	NEL	gynna fo nhw i_gyd	NSNT	NSNT
+137, 4	514, 1-5	NEL	a dw ddim gwybod pam	NSNT	NSNT
+137, 5	514, 6-8	NEL	wneith o ddim	NSNT	NSNT
+137, 6	514, 9-13	NEL	*just* roid nhw i fi	NST	NST
+137, 7	515, 1-4	NEL	dydy o ddim fel	NSNT	NSNT
+137, 8	515, 5-8	NEL	bod fi mynd i	---	NSNT
+
+
+138, 1	516, 1-3	TEG	achos mae *sure*	NST	NST
+138, 2	516, 4-13	TEG	bod yr ffermwyr yma yn ddigon hapus siarad efo chdi	NSNT	NSNT
+138, 3	516, 14-22	TEG	*just* bod nhw ddim yn gwybod amdan y peth	---	NST
+
+
+139, 1	517, 1-3	NEL	dw i wedi	NSNT	NSNT
+139, 2	518, 1-8	NEL	dw i wedi cyfarfod un *boy* yn barod	NST	NST
+139, 3	519, 1-3	NEL	oedd o really	SNT	SNT
+139, 4	519, 4-5	NEL	timod annwyl	NSNT	NSNT
+139, 5	520, 1-7	NEL	ddeudodd o wrtha fi rywbeth ti isio	NSNT	NSNT
+139, 6	521, 1-11	NEL	ond wnes i ofyn ofyn amser hynny am ei manylion cyswllt	NSNT	NSNT
+139, 7	522, 1-4	NEL	a wnaeth o ddim	NSNT	NSNT
+139, 8	522, 5-5	NEL	roid	---	NSNT
+
+
+140, 1	523, 1-1	TEG	annoying	---	NSNT
+
+
+141, 1	525, 1-9	NEL	*just* teimlo baswn i *just* licio trefnu nhw fel	NST	NST
+141, 2	525, 10-11	NEL	bod fi	---	NSNT
+
+
+142, 1	527, 1-10	TEG	ti yn gwybod pa bryd mae nhw yn dod a	---	NSNT
+
+
+143, 1	529, 1-8	NEL	ond *um* *yeah* *so* dw ddim yn gwybod	NST	NST
+143, 2	530, 1-3	NEL	dw i wedi	NSNT	NSNT
+143, 3	530, 4-8	NEL	dw i hassle_o fo dipyn	NSNT	SNT
+143, 4	531, 1-3	NEL	a dw meddwl	NSNT	NSNT
+143, 5	531, 4-9	NEL	timod ti teimlo hyn a hyn	NSNT	NSNT
+143, 6	531, 10-13	NEL	fedri di hassle_o rywun	NSNT	SNT
+143, 7	532, 1-11	NEL	ella wna i e_mail_io fo eto bore dydd Llun i ofyn	---	SNT
+
+
+144, 1	533, 1-18	TEG	neu fydd raid chdi *just* e_mail_io wedyn ar_ôl few days os ti ddim wedi clywed dim_byd *just* deud	NST	ST
+144, 2	534, 1-4	TEG	*oh* peidiwch â poeni	NST	NST
+144, 3	535, 1-6	TEG	*sorry* bod fi yn hassle_o chi	NST	ST
+144, 4	536, 1-3	TEG	peidiwch â poeni	NSNT	NSNT
+144, 5	537, 1-5	TEG	*um* dw i wedi ffeindio	NST	NST
+144, 6	538, 1-12	TEG	*um* os wyt ti medru ffeindio manylion ryw ffordd arall *just* deud	NST	NST
+144, 7	540, 1-4	TEG	*oh* peidiwch â poeni	NST	NST
+144, 8	541, 1-6	TEG	diolch fawr iawn mae yn *help*	NST	NST
+144, 9	542, 1-4	TEG	fedri di even deud	NSNT	SNT
+144, 10	542, 5-12	TEG	fedri di even contact_io nhw a wedyn deud	NSNT	SNT
+144, 11	543, 1-8	TEG	*oh* dw i wedi roi caniad iddyn nhw	NST	NST
+144, 12	544, 1-9	TEG	ac mae nhw yn hapus i gyfarfod efo fi	NSNT	NSNT
+144, 13	546, 1-7	TEG	*so* diolch fawr iawn am eich *help*	ST	NST
+144, 14	548, 1-1	TEG	not	---	NSNT
+
+
+145, 1	549, 1-3	NEL	a dw i	NSNT	NSNT
+145, 2	549, 4-7	NEL	ond dw i ie	NSNT	NSNT
+145, 3	549, 8-9	NEL	ond bod	NSNT	NSNT
+145, 4	549, 10-15	NEL	dw i wedi deud wrtho fo	NSNT	NSNT
+145, 5	549, 16-30	NEL	bod fi isio bod fi wedi bwriadu gorffen wneud nhw erbyn diwedd diwedd diwedd Chwefror	NSNT	NSNT
+145, 7	551, 1-5	NEL	*oh* mor fuan â hynny	NST	NST
+145, 8	552, 1-3	NEL	o'n i meddwl	---	NSNT
+
+
+146, 1	553, 1-11	TEG	*um* *hello* dw isio trio hand_io fewn y *thesis* mis Medi	NST	ST
+146, 3	555, 1-3	TEG	basai yn *help*	---	NST
+
+
+147, 1	557, 1-1	NEL	mae	NSNT	NSNT
+147, 2	557, 2-7	NEL	mae o yr *boy* mor annwyl	NST	NST
+147, 3	558, 1-4	NEL	ond mae *right* *slow*	NST	NST
+147, 4	559, 1-6	NEL	mae licio wneud pethau yn iawn	NSNT	NSNT
+147, 5	559, 7-10	NEL	timod fel gyrru llythyr	NSNT	NSNT
+147, 6	559, 11-17	NEL	a timod pob_dim yn ei le felly	NSNT	NSNT
+147, 8	561, 1-3	NEL	ond dyna fo	SNT	NSNT
+147, 9	562, 1-1	NEL	*so*	ST	NST
+147, 10	563, 1-8	NEL	mae isio fi wneud fel *um* *er* fel	NST	NST
+147, 11	563, 9-20	NEL	timod gwaith i yr cwmni fel gyrru holiaduron allan i bobl pawb	NSNT	NSNT
+147, 12	563, 21-21	NEL	mae	NSNT	NSNT
+147, 13	563, 22-28	NEL	sy wedi wedi cysylltu efo fo fel	NSNT	NSNT
+147, 14	563, 29-37	NEL	bod fi yn gallu deud fel iddo gweld be	NSNT	NSNT
+147, 15	563, 38-40	NEL	os oedden nhw	NSNT	NSNT
+147, 16	563, 41-53	NEL	timod yr cwmni wedi trin nhw yn trin nhw yn iawn a pethau	NSNT	NSNT
+147, 17	565, 1-5	NEL	a dw i wedi deud	NSNT	NSNT
+147, 18	566, 1-8	NEL	*well* unwaith rowch chi manylion cyswllt i fi	NST	NST
+147, 19	566, 9-15	NEL	wna i yrru llythyr allan i bawb	NSNT	NSNT
+147, 20	567, 1-7	NEL	ond dydy o dal heb wneud hynna	NSNT	NSNT
+147, 21	568, 1-9	NEL	ond i ddeud gwir dw ddim yn annog hynna	NSNT	NSNT
+147, 22	569, 1-9	NEL	achos *well* mae hynna fwy o waith i fi	NST	NST
+147, 23	569, 10-10	NEL	dydy	---	NSNT
+
+
+148, 1	570, 1-4	TEG	*mmm* *yeah* yn union	NST	NST
+148, 2	571, 1-8	TEG	*mmm* *so* be ti am wneud weekend yma	---	ST
+
+
+149, 1	572, 1-5	NEL	*oh* dw i am gwaith	NST	NST
+149, 2	573, 1-5	NEL	mae ffrind ysgol i fi	NSNT	NSNT
+149, 3	573, 6-13	NEL	mae hi mynd i *Hong_Kong* wsnos nesa am	NST	NST
+149, 4	574, 1-7	NEL	mae mynd i drafaelio am chwe mis	NSNT	NSNT
+149, 5	575, 1-7	NEL	*so* dan ni mynd allan nos Sadwrn	---	NST
+
+
+150, 1	576, 1-1	TEG	braf	SNT	NSNT
+150, 2	577, 1-1	TEG	*Aberystwyth*	---	NST
+
+
+151, 1	578, 1-3	NEL	na yn *Port*	NST	NST
+151, 2	580, 1-8	NEL	*yeah* dw heb fod allan yn *Port* ers	NST	NST
+151, 3	581, 1-5	NEL	dydy o ddim rywle mynd	NSNT	NSNT
+151, 4	581, 6-10	NEL	dw i mynd allan rywsut	NSNT	NSNT
+151, 5	582, 1-5	NEL	*so* awn ni fan yna	NST	NST
+151, 6	583, 1-6	NEL	a mae yna ryw hogan arall	NSNT	NSNT
+151, 7	584, 1-7	NEL	*well* o'n i yn ysgol efo hi	NST	NST
+151, 8	585, 1-6	NEL	ond oedden ni mewn criwiau gwahanol	NSNT	NSNT
+151, 9	586, 1-5	NEL	ond oedd mamau ni ffrindiau	NSNT	NSNT
+151, 10	587, 1-11	NEL	wedyn mae hi newydd ddod nôl i fyw i yr ardal	NSNT	NSNT
+151, 11	588, 1-7	NEL	a mae hi wedi cael babi bach	NSNT	NSNT
+151, 12	589, 1-4	NEL	a wedyn dw meddwl	NSNT	NSNT
+151, 13	589, 5-9	NEL	bod hi teimlo *right* unig	NST	NST
+151, 14	589, 10-11	NEL	am bod	NSNT	NSNT
+151, 15	590, 2-4	NEL	mae ffrindiau hi	NSNT	NSNT
+151, 16	592, 1-9	NEL	i_gyd wedi mynd i wahanol lefydd a peth felly	NSNT	NSNT
+151, 17	593, 1-3	NEL	*so* dw ella	NST	NST
+151, 18	593, 4-8	NEL	wna i ffonio hi weld	NSNT	NSNT
+151, 19	593, 9-17	NEL	os ydy hi isio dod am ddrink nos Sadwrn	NSNT	SNT
+151, 20	594, 1-8	NEL	ond *er* dw ddim yn gwybod am gwaith	NST	NST
+151, 21	595, 1-8	NEL	mae *sure* ella a i *yoga* nos Wener	NST	NST
+151, 22	596, 1-3	NEL	gawn ni weld	NSNT	NSNT
+151, 23	597, 1-8	NEL	wnes i fynd dydd Gwener ddwytha yn diwedd	---	NSNT
+
+
+152, 1	599, 1-8	TEG	ia o'ch chdi deud bod chdi meddwl mynd	NSNT	NSNT
+152, 2	601, 1-7	TEG	dw i Menai_Bridge naw tan chwech fory	---	SNT
+
+
+153, 1	602, 1-1	NEL	Menai_Bridge	---	NSNT
+
+
+154, 1	603, 1-7	TEG	mae yna fath â research *methods* *workshop*	ST	ST
+154, 2	605, 1-13	TEG	a wedyn *um* dan ni gyd yn *sort* of wneud fel *lecture* felly	NST	ST
+154, 3	606, 1-4	TEG	mae i second i	---	SNT
+
+
+155, 1	607, 1-9	NEL	*oh* hwnna oedd yr un o'ch chdi yr *workshop*	---	NST
+
+
+156, 1	608, 1-9	TEG	ia y second i second *year* *students* ydy o	NST	ST
+156, 2	609, 1-5	TEG	a gesia faint o gloch	NSNT	NSNT
+156, 3	609, 6-8	TEG	mae *lecture* fi	---	NST
+
+
+157, 1	610, 1-1	NEL	naw	---	NSNT
+
+
+158, 1	611, 1-3	TEG	chwarter wedi pump	NSNT	NSNT
+158, 2	613, 1-5	TEG	fi ydy yr un ddwytha	NSNT	NSNT
+158, 3	614, 1-4	TEG	fydd pawb yn cysgu	---	NSNT
+
+
+159, 1	615, 1-6	NEL	fydd yna neb ar_ôl erbyn hynna	NSNT	NSNT
+159, 2	615, 7-8	NEL	na fydd	---	NSNT
+
+
+160, 1	616, 1-3	TEG	fi yn gwybod	---	NSNT
+
+
+161, 1	617, 1-8	NEL	dim bod nhw ddim isio clywed un chdi	NSNT	NSNT
+161, 2	617, 9-15	NEL	ond fyddan nhw ddim isio clywed dim_byd	---	NSNT
+
+
+162, 1	618, 1-7	TEG	*oh* na achos bod nhw yn *students*	NST	NST
+162, 2	619, 1-5	TEG	a mae yn nos Wener	---	NSNT
+
+
+163, 1	622, 1-5	NEL	chwarter wedi pump tan chwech	SNT	NSNT
+163, 2	624, 1-2	NEL	*oh* *nuisance*	---	NST
+
+
+164, 1	625, 1-4	TEG	fi ydy yr dwytha	---	NSNT
+
+
+165, 1	626, 1-7	NEL	ti gorod bod yna drwy dydd hefyd	---	NSNT
+
+
+166, 1	627, 1-3	TEG	ie yn union	NSNT	NSNT
+166, 2	628, 1-4	TEG	petasai gynno fi gynta	NSNT	NSNT
+166, 3	628, 5-8	TEG	baswn i yn ella	NSNT	NSNT
+166, 4	628, 9-19	TEG	baswn i medru aros amser cinio wedyn heglio hi o yna	NSNT	NSNT
+166, 5	629, 1-4	TEG	ond *um* mae pobl	NST	NST
+166, 6	629, 5-11	TEG	sy yn gweithio i yn y cwmni	NSNT	NSNT
+166, 7	629, 12-14	TEG	mae nhw bob	NSNT	NSNT
+166, 8	629, 15-24	TEG	tro mynd i yr *Vic* ar nos Wener ar_ôl gwaith	NST	NST
+166, 9	630, 1-11	TEG	wedyn mae *sure* a i *just* cyfarfod nhw am diod bach	NST	NST
+166, 10	632, 1-5	TEG	ond dw isio dreifio adre	NSNT	NSNT
+166, 11	633, 1-14	TEG	*so* wna i ddim cael y *sesh* na dim_byd *just* mynd i ddeud *hello*	NST	NST
+166, 12	634, 1-16	TEG	wedyn dw i am gael noswaith bach ddistaw nos fory wedyn mynd i Manceinion dydd Sadwrn	---	NSNT
+
+
+167, 1	635, 1-11	NEL	*so* faint o hir wneith o gymryd chdi dreifio i Manceinion	---	NST
+
+
+168, 1	636, 1-3	TEG	dwy awr union	---	NSNT
+
+
+169, 1	637, 1-5	NEL	*oh* mae hynna yn iawn	NST	NST
+169, 2	637, 6-6	NEL	dydy	---	NSNT
+
+
+170, 1	638, 1-8	TEG	os dw i yn gyrru awr a tri_chwarter	NSNT	NSNT
+170, 3	640, 1-5	TEG	ond wna i ddim gyrru	---	NSNT
+
+
+171, 1	641, 1-8	NEL	o lle mae bawb o ffrindiau Manceinion chdi	NSNT	NSNT
+171, 2	642, 1-8	NEL	ydyn nhw i_gyd o ar_draws Prydain i_gyd wan	---	NSNT
+
+
+172, 1	643, 2-8	TEG	mae un yn *Brighton* un yn *Newcastle*	NST	NST
+172, 2	644, 1-5	TEG	dw i yn fan yma	NSNT	NSNT
+172, 3	645, 1-10	TEG	mae *Louise* yn *Wrexham* un yn *Stafford* un yn *Dundee*	---	NST
+
+
+173, 1	646, 1-1	NEL	*cool*	ST	NST
+173, 3	648, 1-8	NEL	*lot* o llefydd *nice* i fynd ar *holidays*	---	NST
+
+
+174, 1	649, 1-4	TEG	ia dw i gwybod	NSNT	NSNT
+174, 3	651, 1-8	TEG	*so* os ti ffansïo *change* mae *right* *handy*	NST	NST
+174, 4	652, 1-11	TEG	mae o *just* fath â pigo un rhan o yr wlad	NST	NST
+174, 5	654, 1-4	TEG	mae *Newcastle* yn dda	NST	NST
+174, 6	655, 1-6	TEG	dw i licio mynd i *Newcastle*	---	NST
+
+
+175, 1	656, 1-3	NEL	dw i erioed	NSNT	NSNT
+175, 2	656, 4-7	NEL	wedi bod fan yna	---	NSNT
+
+
+176, 1	657, 1-4	TEG	mae o yn bell	NSNT	NSNT
+176, 2	659, 1-6	TEG	*lot* yn mynd i *um* Alban	ST	NST
+176, 3	661, 1-2	TEG	weekend yma	---	SNT
+
+
+177, 1	662, 1-5	NEL	*mmm* mae chwaer i mynd	NST	NST
+177, 2	663, 1-6	NEL	o'n i wedi bod isio mynd	---	NSNT
+
+
+178, 1	664, 1-2	TEG	mae *Don*	NST	NST
+178, 2	664, 3-7	TEG	mae *Don* yn mynd hefyd	NST	NST
+178, 3	665, 1-7	TEG	a mae rei o ffrindiau fi mynd	---	NSNT
+
+
+179, 1	666, 1-2	NEL	dw meddwl	NSNT	NSNT
+179, 2	666, 3-7	NEL	bod *Pete* yn mynd hefyd	NST	NST
+179, 3	666, 8-8	NEL	dydy	NSNT	NSNT
+179, 4	670, 1-5	NEL	baswn i wedi licio mynd	NSNT	NSNT
+179, 5	671, 1-4	NEL	ond *um* dyna fo	NST	NST
+179, 6	672, 1-4	NEL	gynnon ni *drip* Dulyn	NST	NST
+179, 7	672, 5-7	NEL	edrych ymlaen i	---	NSNT
+
+
+180, 1	675, 1-4	TEG	*yeah* fydd hwnna *laugh*	NST	NST
+180, 2	675, 5-6	TEG	dw meddwl	---	NSNT
+
+
+181, 1	676, 1-5	NEL	*mmm* dw i meddwl hefyd	NST	NST
+181, 2	678, 1-8	NEL	*just* cael rywbeth bob pawb wneud efo ei_gilydd	---	NST
+
+
+182, 1	681, 1-5	TEG	rywbeth edrych ymlaen at dydy	---	NSNT
+
+
+183, 1	683, 1-4	NEL	mae *sure* na hwnna	NST	NST
+183, 2	683, 5-9	NEL	fydd *holidays* fi blwyddyn yma	NST	NST
+183, 4	686, 1-7	NEL	byw yn tŷ *Rhiannon* am dair wsnos	NST	NST
+183, 5	688, 1-7	NEL	ia dw i cael *trial* *run* wsnos	NST	NST
+183, 6	689, 1-2	NEL	wsnos nesa	NSNT	NSNT
+183, 7	690, 1-6	NEL	na wsnos wedyn am dri noson	NSNT	NSNT
+183, 8	691, 1-4	NEL	*so* gawn ni weld	NST	NST
+183, 9	691, 5-8	NEL	sut mae hwnnw mynd	NSNT	NSNT
+183, 10	693, 1-7	NEL	*oh* ti yn gweithio nos Sadwrn Sul	---	NST
+
+
+184, 1	694, 1-7	TEG	dw i yn gweithio nos Sul yma	NSNT	NSNT
+184, 2	694, 8-11	TEG	yndw tri tan un_ar_ddeg	NSNT	NSNT
+184, 3	695, 1-11	TEG	*so* wna i *just* cychwyn yn_ôl tua hanner dydd o Manceinion	NST	NST
+184, 4	696, 1-5	TEG	fydda i nôl erbyn dau	---	NSNT
+
+
+185, 1	697, 1-9	NEL	*mmm* mae hynna *right* *handy* gweithio yr amser yna	NST	NST
+185, 2	697, 10-19	NEL	am bod ti ddigon o amser i wneud pethau weekend	---	SNT
+
+
+186, 1	698, 1-6	TEG	mae *right* wrth ymyl tŷ fi	NST	NST
+186, 2	699, 1-9	TEG	mae fath â pum munud o *drive* o tŷ	NST	NST
+186, 3	701, 1-8	TEG	a mae yr lle mor ddistaw nos Sul	NSNT	NSNT
+186, 4	702, 1-8	TEG	dw i *just* eistedd yna yn gwneud dim_byd	NST	NST
+186, 5	703, 1-10	TEG	*so* fedra i mynd â dipyn o waith efo fi	NST	NST
+186, 6	704, 1-15	TEG	neu fedra i *just* mynd ar *M_S_N* a *My_Space* a *just* siarad efo pwy bynnag	NST	NST
+186, 7	704, 16-17	TEG	sy yna	NSNT	NSNT
+186, 9	706, 1-12	TEG	achos toes yna ddim does yna ddim llawer o ddim_byd yn digwydd	NSNT	NSNT
+186, 10	706, 13-22	TEG	*just* bod rhaid i nhw gael ryw fath o *gover*	NST	NST
+186, 11	707, 1-11	TEG	ond weekend wedyn dw i gweithio dydd Sadwrn a dydd Sul	NSNT	SNT
+186, 12	708, 1-15	TEG	*well* dw i gweithio fath â ten six dydd Sadwrn a tri un_ar_ddeg dydd Sul	NST	ST
+186, 13	709, 1-7	TEG	achos mae gynnyn nhw penwythnos *right* brysur	NST	NST
+186, 14	710, 1-5	TEG	ond *um* mae yn *handy*	---	NST
+
+
+187, 1	711, 1-8	NEL	ydy o yn le *nice* i fynd am	---	NST
+
+
+188, 1	712, 2-4	TEG	mae yn braf	---	NSNT
+
+
+189, 1	713, 1-15	NEL	wnes i edrych arno fo fel pan o'n i wneud trefnu hen night yn ffrind	NSNT	SNT
+189, 2	714, 1-9	NEL	ond oedd o *just* rhy ddrud really i fynd	---	ST
+
+
+190, 1	715, 1-4	TEG	mae o *right* ddrud	---	NST
+
+
+191, 1	716, 1-5	NEL	mae yn iawn am *treat*	NST	NST
+191, 2	716, 6-7	NEL	dydy rywsut	---	NSNT
+
+
+192, 1	717, 1-9	TEG	*mmm* a mae rhy ddistaw i hen night hefyd	NST	ST
+192, 2	717, 10-12	TEG	dw i meddwl	---	NSNT
+
+
+193, 1	718, 1-1	NEL	*well*	---	NST
+
+
+194, 1	719, 1-3	TEG	achos dw meddwl	NSNT	NSNT
+194, 2	719, 4-6	TEG	basai *nice* mynd	---	NST
+
+
+195, 1	720, 1-18	NEL	wedi meddwl mynd mynd yna am y diwrnod a wedyn dod yn_ôl a mynd allan rywle wedyn rywbeth	---	NSNT
+
+
+196, 1	721, 1-6	TEG	ia *yeah* basai hynna yn iawn	NST	NST
+196, 2	722, 1-11	TEG	ond dw i ddim wedi clywed am *lot* yn wneud hynna	NST	NST
+196, 3	725, 1-7	TEG	*lot* o briodasau yna de bob weekend	---	ST
+
+
+197, 1	727, 1-13	NEL	*oh* pan o'n i yn Thailand oedd gynnyn nhw fel *spas* anhygoel yna	ST	ST
+197, 2	728, 1-3	NEL	really really *nice*	---	NST
+
+
+198, 1	729, 1-9	TEG	ia dw isio mynd i Thailand blwyddyn blwyddyn nesa	NSNT	SNT
+198, 2	729, 10-11	TEG	dw meddwl	---	NSNT
+
+
+199, 1	731, 1-12	NEL	ddo i am dro efo chdi os oes gen ti awydd cwmni	NSNT	NSNT
+199, 2	733, 1-2	NEL	ond *er*	---	NST
+
+
+200, 1	734, 1-8	TEG	gennod *er* *crew* o gennod sy am fynd	NST	NST
+200, 2	734, 9-14	TEG	dw meddwl tua pump ohonon ni	NSNT	NSNT
+200, 3	735, 1-2	TEG	*so* tyrd	---	NST
+
+
+201, 1	736, 1-18	NEL	ia os na dw i wedi cael *job* bod fi yn mynd yn_ôl i yr byd go iawn	---	NST
+
+
+202, 1	737, 1-7	TEG	*well* be o'n i yn gobeithio ydy	NST	NST
+202, 2	737, 8-15	TEG	bod fi am gael joban yn y brifysgol	NSNT	NSNT
+202, 3	738, 1-9	TEG	a wedyn ti yn cael *lot* o wyliau dwyt	NST	NST
+202, 4	739, 1-10	TEG	*so* y gwyliau yn dechrau fath â diwedd Mai dydy	NST	NST
+202, 5	741, 1-11	TEG	*so* o'n i *just* meddwl fath â mynd straightaway am pythefnos	---	ST
+
+
+203, 1	743, 1-7	NEL	*oh* na mae nhw yn bob man	NST	NST
+203, 2	743, 8-11	NEL	sti rhad rhad rhad	NSNT	NSNT
+203, 3	743, 12-13	NEL	de fel	NSNT	NSNT
+203, 4	745, 1-1	NEL	meddwl	NSNT	NSNT
+203, 5	745, 2-11	NEL	bod fi wedi talu tua pedair punt am ryw facial	---	SNT
+
+
+204, 1	746, 1-1	TEG	braf	---	NSNT
+
+
+205, 1	747, 1-4	NEL	oedd o yn anhygoel	NSNT	NSNT
+205, 2	748, 1-4	NEL	a dim *just* facial	ST	ST
+205, 3	749, 1-12	NEL	ond oedda chdi yn o'n i yna am tua awr a hanner	NSNT	NSNT
+205, 5	750, 22-29	NEL	oedden nhw yn golchi dy draed di gynta	NSNT	NSNT
+205, 6	750, 30-30	NEL	sti	NSNT	NSNT
+205, 7	751, 1-6	NEL	a wedyn oedden nhw fel yn	NSNT	NSNT
+205, 8	751, 7-10	NEL	roid y facial yma	NSNT	SNT
+205, 9	752, 1-4	NEL	a wedyn basen nhw	NSNT	NSNT
+205, 10	752, 5-15	NEL	roid *thai* *massage* ar dy ysgwyddau di a dy freichiau di	---	NST
+
+
+206, 1	753, 1-2	TEG	*mmm* *nice*	---	NST
+
+
+207, 1	754, 1-1	NEL	*nice*	---	NST
+
+
+208, 1	756, 1-6	TEG	*so* mae yn lle *right* rhad	NST	NST
+208, 2	756, 7-9	TEG	*just* bod o	NST	NST
+208, 3	756, 10-12	TEG	bod chdi isio	---	NSNT
+
+
+209, 1	757, 1-5	NEL	bwyd yn rhad yna hefyd	---	NSNT
+
+
+210, 1	758, 1-7	TEG	*just* bod y flight yn ddrud yna	NST	ST
+210, 2	758, 8-14	TEG	a bod chdi isio *insurance* a ryw	NST	NST
+210, 3	760, 1-9	TEG	ti isio talu am lle i aros a pethau	NSNT	NSNT
+210, 4	761, 1-8	TEG	a ti isio mynd am bythefnos dwyt really	---	SNT
+
+
+211, 1	763, 1-3	NEL	*nice* wlad *nice*	---	NST
+
+
+212, 1	764, 1-7	TEG	awê *treat* fi ar_ôl fi gorffen *P_h_D*	---	NST
+
+
+213, 1	766, 1-3	NEL	dw i deud	NSNT	NSNT
+213, 2	766, 4-10	NEL	os dw i yn gorffen ar amser	NSNT	NSNT
+213, 3	766, 11-16	NEL	a bod fi wedi safio pres	NSNT	NSNT
+213, 4	766, 17-22	NEL	dw i am fynd i rywle	NSNT	NSNT
+213, 5	767, 1-14	NEL	ella a i draw i *Lesotho* i weld *Rachel* yn ffrind yn fan yna	---	NST
+
+
+214, 1	769, 1-3	TEG	lle mae *Lesotho*	---	NST
+
+
+215, 1	770, 1-4	NEL	yn *er* de *Africa*	NST	NST
+215, 2	772, 1-6	NEL	fflio wedyn i *safari* am ychydig	NST	NST
+215, 3	773, 1-3	NEL	gawn ni weld	NSNT	NSNT
+215, 4	774, 1-1	NEL	ella	---	NSNT
+
+
+216, 1	775, 1-3	TEG	pam lai de	---	NSNT
+
+
+217, 1	776, 1-8	NEL	ella baswn i ddim yn meindio *thing* yna	NST	NST
+217, 2	777, 1-13	NEL	timod ti gallu cael ti cael *train* i fynd *round* *Europe* am fis	NST	NST
+217, 3	777, 14-14	NEL	dwyt	NSNT	NSNT
+217, 4	779, 1-1	NEL	hwnnw	NSNT	NSNT
+217, 5	780, 1-3	NEL	gawn ni weld	NSNT	NSNT
+217, 6	781, 1-5	NEL	*oh* mae hynna yn dibynnu	NST	NST
+217, 7	781, 6-13	NEL	os dw i gorffen ar amser a *mmm*	NST	NST
+217, 8	781, 14-17	NEL	a bod fi gallu	NSNT	NSNT
+217, 9	782, 1-5	NEL	*well* dw ddim yn gwybod	NST	NST
+217, 10	783, 1-18	NEL	ella a i ar ben yn hun deud gwir os gallu ffeindio neb sy *fancy* dod efo fi	NST	NST
+217, 11	784, 1-4	NEL	*mmm* gawn ni weld	---	NST
+
+
+218, 1	785, 1-4	TEG	a i rywle de	NSNT	NSNT
+218, 2	786, 1-5	TEG	dw i ddim yn fussed	---	SNT
+
+
+219, 1	787, 1-6	NEL	na dw i ddim yn meindio	NSNT	NSNT
+219, 2	788, 1-5	NEL	mae yna gymaint o lefydd	NSNT	NSNT
+219, 3	788, 6-8	NEL	dw isio mynd	NSNT	NSNT
+219, 4	788, 9-12	NEL	dydy o ddim yn	---	NSNT
+
+
+220, 1	790, 1-3	TEG	mae yna rei	NSNT	NSNT
+220, 2	790, 4-13	TEG	dw i *fancy* mwy na ei_gilydd mwy na llefydd eraill	NST	NST
+220, 3	792, 1-9	TEG	ond baswn i ddim yn deud na i dim_byd	NSNT	NSNT
+220, 4	792, 10-13	TEG	dw ddim yn meddwl	---	NSNT
+
+
+221, 1	793, 1-5	NEL	na baswn i ddim chwaith	---	NSNT
+
+
+222, 1	794, 1-5	TEG	heblaw am fath â *Iraq*	---	NST
+
+
+223, 1	796, 1-8	NEL	ie basai hwnna ddim *top* yn *list* i	---	NST
+
+
+224, 1	798, 1-14	TEG	ond *er* dim achos yr lle *just* achos y be sy mynd ymlaen yna	---	NST
+
+
+225, 1	800, 1-3	NEL	dw ddim gwybod	NSNT	NSNT
+225, 2	800, 4-8	NEL	dw cofio rywun deud unwaith	NSNT	NSNT
+225, 3	800, 9-14	NEL	bod nhw isio mynd i *Russia*	NST	NST
+225, 4	801, 1-11	NEL	o'n i meddwl basai hwnna ddim ar *top* yn restr i	---	NST
+
+
+226, 1	802, 1-3	TEG	*Moscow* neu *St_Petersburg*	NST	NST
+226, 2	805, 1-13	TEG	ond ia fasai *well* basa chdi yn *just* mynd i rywle fel yna	NST	NST
+226, 3	805, 14-14	TEG	fasai	NSNT	NSNT
+226, 4	806, 1-12	TEG	basa chdi ddim really mynd i yr *sticks* yn *Russia* mae *sure*	---	ST
+
+
+227, 1	807, 1-5	NEL	na dw ddim yn gwybod	---	NSNT
+
+
+228, 1	808, 1-9	TEG	na basai ddim yn *top* yn *list* i chwaith	NST	NST
+228, 2	809, 1-7	TEG	basai *Canada* ddim yn *top* y *list*	---	NST
+
+
+229, 1	810, 1-8	NEL	*mmm* baswn i ddim meindio mynd i *Canada*	---	NST
+
+
+230, 1	811, 1-6	TEG	na *oh* baswn i yn licio	---	NST
+
+
+231, 1	812, 1-5	NEL	ti wedi bod o blaen	---	NSNT
+
+
+232, 1	814, 1-3	TEG	dw i erioed	NSNT	NSNT
+232, 2	814, 4-5	TEG	wedi bod	NSNT	NSNT
+232, 3	815, 1-6	TEG	baswn i licio mynd weld *Niagra_Falls*	---	NST
+
+
+233, 1	816, 1-5	NEL	*oh* ia a fi hefyd	NST	NST
+233, 2	817, 1-8	NEL	wnaeth *Hedd* gael *trip* ysgol i fan yna	NST	NST
+233, 3	817, 9-9	NEL	sti	NSNT	NSNT
+233, 4	818, 1-9	NEL	aethon nhw i *Canada* i sgïo efo *trip* ysgol	---	NST
+
+
+234, 1	819, 1-2	TEG	no way	SNT	NSNT
+234, 2	820, 1-2	TEG	pa ysgol	---	NSNT
+
+
+235, 1	821, 1-2	NEL	*um* *Glan_y_Môr*	ST	NST
+235, 2	822, 1-10	NEL	ysgol *Eifionydd* *er* timod ysgol *Eifonydd* lwcus mynd i Ffrainc	---	NST
+
+
+236, 1	823, 1-2	TEG	da de	NSNT	NSNT
+236, 2	824, 1-1	TEG	braf	---	NSNT
+
+
+237, 1	825, 1-8	NEL	a aethon nhw yr Eidal hefyd i sgïo	---	NSNT
+
+
+238, 1	826, 1-2	TEG	*oh* braf	NST	NST
+238, 2	828, 1-7	TEG	aethoch chi ar *trip* ysgol i rywle	NST	NST
+238, 3	829, 1-8	TEG	*um* oedden ni fod i fynd i Ffrainc	NST	NST
+238, 4	830, 1-8	TEG	ond wnes i ddim mynd ar yr adeg	NSNT	NSNT
+238, 5	831, 1-13	TEG	dw ddim yn meddwl o'n i gallu mynd am ryw reswm neu gilydd	NSNT	NSNT
+238, 6	832, 1-4	TEG	ond *er* dw i	NST	NST
+238, 7	832, 5-11	TEG	wedi bod yn Ffrainc dipyn o weithiau	NSNT	NSNT
+238, 8	833, 1-14	TEG	ond *um* toedd yna ddim_byd heblaw am Ffrainc toedd yna ddim_byd pellach na Ffrainc	NST	NST
+238, 9	834, 1-10	TEG	mae rei o ffrindiau fi newydd ddod yn_ôl o *Bulgaria*	NST	NST
+238, 10	835, 1-2	TEG	na dim	NSNT	NSNT
+238, 11	836, 1-2	TEG	ia *Bulgaria*	NST	NST
+238, 12	837, 1-3	TEG	ond mae nhw	NSNT	NSNT
+238, 13	837, 4-7	TEG	wedi bod yn snowboard_io	---	SNT
+
+
+239, 1	838, 1-2	NEL	*oh* *cool*	---	NST
+
+
+240, 1	839, 1-2	TEG	*Bulgaria* dŵad	NST	NST
+240, 2	840, 1-5	TEG	naci mae hwnna yn boeth	NSNT	NSNT
+240, 3	841, 1-4	TEG	rywle fath â up_and_coming	---	SNT
+
+
+241, 1	842, 1-1	NEL	Duw	---	NSNT
+
+
+242, 1	843, 1-3	TEG	dw i methu	---	NSNT
+
+
+243, 1	844, 1-7	NEL	ti wedi ti wedi sgïo o blaen	NSNT	NSNT
+243, 2	846, 1-3	NEL	na fi chwaith	NSNT	NSNT
+243, 3	847, 1-7	NEL	baswn i licio mynd ar skiing *holiday*	ST	ST
+243, 4	848, 1-5	NEL	ond dw ddim yn gwybod	NSNT	NSNT
+243, 5	848, 6-9	NEL	baswn i gallu sgïo	---	NSNT
+
+
+244, 1	849, 1-4	TEG	baswn i yn *crap*	NST	NST
+244, 2	849, 5-7	TEG	dw i *sure*	---	NST
+
+
+245, 1	850, 1-5	NEL	snowboard_io edrych yn *cool* hefyd	---	ST
+
+
+246, 1	852, 1-5	TEG	ddim gwybod baswn i *sure*	NST	NST
+246, 2	852, 6-6	TEG	baswn	NSNT	NSNT
+246, 3	852, 7-11	TEG	baswn i yn *bit* ofnus	---	NST
+
+
+247, 1	853, 1-5	NEL	*mmm* baswn i yn disgyn	NST	NST
+247, 2	853, 6-7	NEL	mae *sure*	NST	NST
+247, 4	855, 1-9	NEL	ddeudodd rywun wrtha fi unwaith *um* *yeah* *oh* *yeah*	NST	NST
+247, 5	855, 10-15	NEL	basai fo mynd â fi snowboard_io	SNT	SNT
+247, 6	856, 1-3	NEL	a ddeudais i	NSNT	NSNT
+247, 7	857, 1-6	NEL	*oh* Duw *o_k* iawn ddo i	NST	NST
+247, 8	858, 1-9	NEL	ti ddim yn meindio cleisio ychydig bach nag wyt	NSNT	NSNT
+247, 9	859, 1-3	NEL	a fi deud	NSNT	NSNT
+247, 10	860, 1-1	NEL	cleisio	NSNT	NSNT
+247, 11	861, 1-11	NEL	wnest ti ddim deud dim_byd am cleisio efo snowboarding tan wan	---	SNT
+
+
+248, 1	862, 1-3	TEG	*um* actually yndw	NST	ST
+248, 2	862, 4-9	TEG	dw i meindio cleisio dipyn bach	---	NSNT
+
+
+249, 1	863, 1-2	NEL	*oh* *well*	---	NST
+
+
+250, 1	866, 1-6	TEG	dw i cleisio yn hawdd hefyd	---	NSNT
+
+
+251, 1	867, 1-4	NEL	ie dyna o'n i	---	NSNT
+
+
+252, 1	868, 2-8	TEG	baswn i ddu yn dod o yna	---	NSNT
+
+
+253, 1	870, 1-7	NEL	ond oedd hynna ar yr dry slopes	SNT	SNT
+253, 2	871, 1-12	NEL	ella basai ddim mor ddrwg ar ar yr *um* slopes go iawn	---	ST
+
+
+254, 1	874, 1-5	TEG	*so* be ti am wneud	NST	NST
+254, 2	875, 1-7	TEG	ti am mynd adre ar_ôl hyn ta	---	NSNT
+
+
+255, 1	876, 1-1	NEL	yndw	NSNT	NSNT
+255, 2	876, 2-3	NEL	dw meddwl	NSNT	NSNT
+255, 3	877, 1-9	NEL	er dw ddim eira ddim yn bad chwaith na	---	SNT
+
+
+256, 1	878, 1-4	TEG	na dim bad o_gwbl	NSNT	SNT
+256, 2	879, 1-3	TEG	o'n i yn	NSNT	NSNT
+256, 3	880, 1-2	TEG	*well* mae	NST	NST
+256, 4	880, 3-6	TEG	mae *right* ddrwg yn	NST	NST
+256, 5	880, 7-11	TEG	lle dan ni yn byw	NSNT	NSNT
+256, 6	881, 1-14	TEG	ond mae yr lonydd yn *champion* achos bod nhw wedi grutio nhw gymaint neithiwr	---	NST
+
+
+257, 1	883, 1-8	NEL	oedd o yr un peth lle o'n i	---	NSNT
+
+
+258, 1	884, 1-12	TEG	ond *er* noson bore blaen bore dydd Llun neu bore dydd Mawrth	---	NST
+
+
+259, 1	885, 1-10	NEL	*oh* bore dydd Mawrth oedd hi wedi rhewi yn ofnadwy	---	NST
+
+
+260, 1	888, 1-7	TEG	ges i shaky *moment* ar y lonydd	NST	ST
+260, 2	889, 1-5	TEG	o'n i fath â *ooh*	---	NST
+
+
+261, 1	891, 1-9	NEL	dw i erioed wedi cael un o rheina chwaith	---	NSNT
+
+
+262, 1	892, 1-5	TEG	oedd o *just* un bach	NST	NST
+262, 2	893, 1-12	TEG	ond mae o yn *just* dangos i chdi pa mor *mmm* God	---	ST
+
+
+263, 1	894, 1-3	NEL	digon dychryn chdi	NSNT	NSNT
+263, 2	895, 1-6	NEL	wnaeth yn ffrind i blwyddyn dwytha	NSNT	NSNT
+263, 3	895, 7-15	NEL	wnaeth hi fynd i ar ryw gwrs i rywle	NSNT	NSNT
+263, 4	896, 1-9	NEL	a wnaeth hi y y *car* i_gyd sbinio *round*	NST	NST
+263, 6	898, 1-14	NEL	a oedd hi actually yn yr ochr arall yn gwynebu am y ffordd arall	---	SNT
+
+
+264, 1	899, 1-3	TEG	*oh* my God	---	NST
+
+
+265, 1	900, 1-5	NEL	*so* wnaeth hi *just* penderfynu	NST	NST
+265, 2	901, 1-5	NEL	iawn mae hynna yn *sign*	NST	NST
+265, 3	902, 1-5	NEL	a a mynd nôl adre	NSNT	NSNT
+265, 5	904, 1-7	NEL	a wnaeth hi gymryd y diwrnod *off*	---	NST
+
+
+266, 1	905, 1-2	TEG	*bloody* hell	ST	NST
+266, 2	906, 1-5	TEG	pa mor scary basai hynna	NSNT	SNT
+266, 3	908, 1-9	TEG	ia baswn i yn crynu trwy dydd ar_ôl hynna	NSNT	NSNT
+266, 4	908, 10-11	TEG	dw meddwl	---	NSNT
+
+
+267, 1	909, 1-4	NEL	*mmm* a fi hefyd	NST	NST
+267, 2	910, 1-7	NEL	dw erioed wedi cael crash na dim_byd	NSNT	SNT
+267, 3	911, 1-10	NEL	*well* dw i wedi bump_io mewn i dipyn o bethau	NST	ST
+267, 4	912, 1-8	NEL	ond mae yna wahaniaeth rhwng bump_io a crash_o	SNT	SNT
+267, 5	912, 9-9	NEL	does	---	NSNT
+
+
+268, 1	913, 1-10	TEG	*mmm* na dw i erioed wedi cael crash *touch* wood	ST	ST
+268, 2	914, 1-10	TEG	dw i wedi rifyrsio mewn i ryw wal a ballu	---	NSNT
+
+
+269, 1	915, 3-7	NEL	dw i wedi wneud hefyd	---	NSNT
+
+
+270, 1	916, 1-9	TEG	wnes i rifyrsio *car* *car* chwaer fi wal actually	ST	ST
+270, 3	918, 1-3	TEG	dw i bob	NSNT	NSNT
+270, 4	918, 4-5	TEG	tro yn	NSNT	NSNT
+270, 5	918, 6-18	TEG	dw i manejio bump_io ceir pobl eraill ond dim un fi fy hun	---	SNT
+
+
+271, 1	919, 1-3	NEL	y *Mini* yna	---	NST
+
+
+272, 1	920, 1-5	TEG	*oh* na dim y *Mini*	ST	NST
+272, 2	922, 1-7	TEG	*oh* my God basai yn lladd fi	NST	ST
+272, 3	923, 1-5	TEG	baswn i ddim yma heddiw	NSNT	NSNT
+272, 4	923, 6-8	TEG	petasai yr *Mini*	NST	NST
+272, 6	925, 1-8	TEG	*er* y *car* cyn iddi gael y *Mini*	NST	NST
+272, 7	926, 1-5	TEG	ond oedd hi yn chwilio	NSNT	NSNT
+272, 8	926, 6-12	TEG	oedd hi yn dead_set am gael *Mini*	NST	ST
+272, 9	927, 1-2	TEG	ac oedd	NSNT	NSNT
+272, 10	927, 3-5	TEG	gynna i *Fiesta*	NST	NST
+272, 11	928, 1-5	TEG	*Fiesta* yn bach da de	NST	NST
+272, 12	929, 1-6	TEG	ac oedd ei ffrindiau hi aros	NSNT	NSNT
+272, 13	930, 1-11	TEG	ac yn *drive* ni oedd pobl *just* wedi parcio ben ei_gilydd	NST	NST
+272, 14	931, 1-7	TEG	ond o'n i fedru cael o yna	NSNT	NSNT
+272, 16	932, 23-27	TEG	oedd tu nôl i fi	SNT	NSNT
+272, 18	934, 1-6	TEG	next *minute* oedd fath â *bang*	---	ST
+
+
+273, 1	937, 1-19	NEL	*oh* wnes i recordio mewn i *er* rifyrsio mewn i *um* rywbeth ryw bolyn yn *Lidl* diwrnod o blaen	NST	NST
+273, 2	937, 20-25	NEL	am bod *er* *mam* isio stopio	---	NST
+
+
+274, 1	938, 1-2	TEG	ond *um*	---	NST
+
+
+275, 1	939, 1-6	NEL	*mam* mynd yn nuts efo fi	---	ST
+
+
+276, 1	940, 1-5	TEG	wnest ti farcio *car* chdi	---	NST
+
+
+277, 1	941, 1-7	NEL	na oedd yna ddim *mark* na dim_byd	NST	NST
+277, 3	944, 1-3	NEL	ew typical digwydd	NSNT	SNT
+277, 4	944, 4-8	NEL	pan mae *mam* efo fi	---	NST
+
+
+278, 1	946, 1-8	TEG	ydy fel *er* fath â fel yna hefyd	NST	NST
+278, 2	947, 1-4	TEG	dydy o ddim_byd *serious*	NST	NST
+278, 3	948, 1-4	TEG	mae *just* yn embarrassing	ST	ST
+278, 4	949, 1-18	TEG	achos petasa chdi os ti meddwl mae rywun yn sbïo arna chdi *just* rifyrsio rifyrsio mewn i polyn	---	NST
+
+
+279, 1	951, 1-4	NEL	a wedyn cael rywun	NSNT	NSNT
+279, 2	952, 1-7	NEL	*well* os wyt ti ben dy hun	NST	NST
+279, 3	952, 8-16	NEL	baset ti cael *just* Duw kind of dreifio *off*	NST	ST
+279, 4	953, 1-7	NEL	ond *oh* God *mam* mae *mam* yn	NST	ST
+279, 5	953, 8-10	NEL	mae fath â	NSNT	NSNT
+279, 6	955, 1-7	NEL	raid chdi watsiad be chdi wneud sti	NSNT	NSNT
+279, 7	956, 1-11	NEL	fedri di ddim *just* dreifio rywsut rywsut o_gwmpas y lle yma	---	NST
+
+
+280, 1	957, 1-6	TEG	*oh* God ia dw i gwybod	---	ST
+
+
+281, 1	958, 1-7	NEL	un diwrnod gei di ddamwain go iawn	NSNT	NSNT
+281, 2	959, 1-3	NEL	o'n i fel	NSNT	NSNT
+281, 3	960, 1-6	NEL	*mam* wnes i *just* bump_io polyn	---	ST
+
+
+282, 1	961, 1-7	TEG	a fel hyn mae *dad* fi bob	NST	NST
+282, 2	961, 8-9	TEG	tro wneud	NSNT	NSNT
+282, 3	962, 1-5	TEG	fel hyn mae *dad* fi	NST	NST
+282, 4	962, 6-7	TEG	tro wneud	NSNT	NSNT
+282, 5	963, 1-6	TEG	os os dan ni yn dreifio	NSNT	NSNT
+282, 6	963, 7-10	TEG	os mae o yn	NSNT	NSNT
+282, 7	963, 11-14	TEG	dw i yn dreifio	NSNT	NSNT
+282, 8	963, 15-20	TEG	a mae o yn y *passenger*	NST	NST
+282, 9	963, 21-26	TEG	a dan ni yn cyrraedd rywle	NSNT	NSNT
+282, 10	964, 1-9	TEG	ia *well* *Tegai* to'n i ddim yn licio deud	NST	NST
+282, 11	965, 1-7	TEG	ond mi oedda chdi mynd *right* gyflym	NST	NST
+282, 14	968, 1-9	TEG	os ti ddim yn licio deud paid â deud	NSNT	NSNT
+282, 15	968, 10-10	TEG	ta	NSNT	NSNT
+282, 16	970, 1-3	TEG	a mae bob	NSNT	NSNT
+282, 17	970, 4-6	TEG	tro wneud *sure*	NST	NST
+282, 18	970, 7-10	TEG	bod o yn deud	SNT	NSNT
+282, 19	971, 1-4	TEG	even though mae deud	NSNT	SNT
+282, 20	972, 1-6	TEG	dw ddim yn licio deud ond	---	NSNT
+
+
+283, 1	974, 1-5	NEL	*oh* oedd rhaid fi ddeud	NST	NST
+283, 2	974, 6-8	NEL	dw i ddrwg	NSNT	NSNT
+283, 3	974, 9-17	NEL	pan dw i mynd yn *passenger* efo yn chwaer	NST	NST
+283, 4	975, 1-8	NEL	mae nhraed i o_hyd yn mynd am *brake*	NST	NST
+283, 6	977, 1-3	NEL	a mae deud	NSNT	NSNT
+283, 7	978, 1-9	NEL	*Nel* mae dy draed di mynd am *brake* eto	NST	NST
+283, 8	979, 1-7	NEL	ti ddim yn trystio fi neu rywbeth	NSNT	NSNT
+283, 10	981, 1-5	NEL	ond meddwl bod o fel	NSNT	NSNT
+283, 11	981, 6-13	NEL	timod pan ti *just* ddim wedi arfer brecio	NST	NST
+283, 12	981, 14-15	NEL	am bod	NSNT	NSNT
+283, 13	981, 16-22	NEL	mae hi yn brecio gymaint yn hwyrach	NSNT	NSNT
+283, 14	983, 1-5	NEL	ti gweld traed chdi mynd	---	NSNT
+
+
+284, 1	984, 1-6	TEG	dw i yn brecio yn hwyr	NSNT	NSNT
+284, 2	984, 7-9	TEG	dw i meddwl	---	NSNT
+
+
+285, 1	985, 1-3	NEL	ond dw meddwl	NSNT	NSNT
+285, 2	985, 4-6	NEL	bod o waeth	NSNT	NSNT
+285, 3	986, 1-2	NEL	am bod	NSNT	NSNT
+285, 4	986, 3-11	NEL	dw i o_hyd yn meddwl o'n i efo hi	NSNT	NSNT
+285, 5	986, 12-16	NEL	pan oedd hi yn dysgu	NSNT	NSNT
+285, 6	987, 1-9	NEL	*so* mae waeth os ti wedi dysgu rywun yn_dydy	NST	NST

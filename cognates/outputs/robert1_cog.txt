@@ -1,0 +1,1563 @@
+1, 1	1, 1-1	FLO	anrhegion	---	NSNT
+
+
+2, 1	2, 1-6	REG	beth ŷn ni rhoi i nhw	---	NSNT
+
+
+3, 1	3, 1-2	FLO	jewellery probably	---	NSNT
+
+
+4, 1	6, 1-15	REG	o'n i meddwl un_ai cael *cufflinks* neu cael yr *um* peth i dala mewn *collar*	---	NST
+
+
+5, 1	7, 1-1	FLO	i	---	NSNT
+
+
+6, 1	8, 1-1	REG	*Neil*	---	NST
+
+
+7, 1	9, 1-1	FLO	*Neil*	ST	NST
+7, 2	10, 1-9	FLO	*right* ti ffaelu gael hwnna i *Alan* wyt ti	ST	NST
+7, 3	11, 1-3	FLO	eighteen yw e	NSNT	SNT
+7, 4	12, 1-9	FLO	*well* na so fe hyd_yn_oed yn eighteen odyw e	---	ST
+
+
+8, 1	13, 1-11	REG	na ond bydd angen *cufflinks* yn y yn y dyfodol anyway	---	ST
+
+
+9, 1	14, 1-5	FLO	*well* dyna yr unig bryd	NST	NST
+9, 2	14, 6-10	FLO	bydd e yn gwisgo nhw	NSNT	NSNT
+9, 3	14, 11-12	FLO	yw priodasau	NSNT	NSNT
+9, 4	15, 1-2	FLO	os hynny	---	NSNT
+
+
+10, 1	16, 1-5	REG	dim really falle bydd e	NSNT	SNT
+10, 2	16, 6-15	REG	bydd e yn mynd mas i yr *ball* *stuff* nawr	NST	NST
+10, 3	17, 1-1	REG	mae	NSNT	NSNT
+10, 4	17, 2-2	REG	mae	NSNT	NSNT
+10, 5	17, 3-10	REG	mag e yn mynd i coleg odyw e	NSNT	NSNT
+10, 6	18, 1-2	REG	i fod	---	NSNT
+
+
+11, 1	19, 1-7	FLO	fi yn deud bod e rhy ifanc	---	NSNT
+
+
+12, 1	20, 1-2	REG	mae rhaid	NSNT	NSNT
+12, 2	20, 3-8	REG	bydd e yn rywbeth formal anyway	---	SNT
+
+
+13, 1	21, 1-3	FLO	bydd raid feddwl	NSNT	NSNT
+13, 2	22, 1-2	FLO	anrhegion tywyswyr	NSNT	NSNT
+13, 3	23, 1-2	FLO	anrhegion mamau	NSNT	NSNT
+13, 4	24, 1-8	FLO	so i really isie cael blodau iddyn nhw	---	SNT
+
+
+14, 1	25, 1-10	REG	*well* bydd e bach o hassle gartre ar y *bus*	---	ST
+
+
+15, 1	26, 1-3	FLO	be y blodau	NSNT	NSNT
+15, 2	28, 1-9	FLO	bydd fi yn credu gemwaith neu rywbeth fel yna	NSNT	NSNT
+15, 3	30, 1-3	FLO	rywbeth gallu cadw	NSNT	NSNT
+15, 4	31, 1-4	FLO	*um* beth arall sy	NST	NST
+15, 5	32, 1-10	FLO	*ah* bydd isie ni gael arian y registrar yn barod	NST	ST
+15, 6	33, 1-6	FLO	mae isie ni ffindo mas actually	---	SNT
+
+
+16, 1	34, 1-3	REG	arian y registrar	---	SNT
+
+
+17, 1	35, 1-10	FLO	nag ŷn ni yn talu yr capel am hwnna hefyd	---	NSNT
+
+
+18, 1	36, 1-4	REG	sa i yn gwybod	---	NSNT
+
+
+19, 1	37, 1-5	FLO	mae isie ni ffindo mas	NSNT	NSNT
+19, 2	38, 1-5	FLO	gofynnan ni *Michael* heno beth	NST	NST
+19, 3	38, 6-10	FLO	yw yr drefn gyda hwnna	NSNT	NSNT
+19, 4	39, 1-5	FLO	cysylltu gyda yr heddlu amdan	---	NSNT
+
+
+20, 1	40, 1-3	REG	*yeah* mae fe	NST	NST
+20, 2	40, 4-9	REG	bydd e yn gwaith dydd Llun	SNT	NSNT
+20, 3	41, 1-2	REG	*Sergeant* *Clive_Roberts*	ST	NST
+20, 4	42, 1-4	REG	mae isie cael rhif	NSNT	NSNT
+20, 5	43, 1-15	REG	ni ddim mynd i cael rhif y *bus* tan ryw wythnos cyn hynny neu rywbeth	NST	NST
+20, 6	44, 1-5	REG	*oh* mae hwnna yn eitha	---	NST
+
+
+21, 1	45, 1-7	FLO	fi wedi cael rai *minibus* teulu ni	---	NST
+
+
+22, 1	46, 1-8	REG	a bydd isie cael e oddi_wrth y *chauffeur*	---	NST
+
+
+23, 1	48, 1-10	FLO	*right* ti wedi hala yr ffurflen yna nôl a *cheque*	---	NST
+
+
+24, 1	49, 1-2	REG	odw odw	NSNT	NSNT
+24, 2	50, 1-1	REG	odw	---	NSNT
+
+
+25, 1	51, 1-5	FLO	ti wedi trosglwyddo yr arian	---	NSNT
+
+
+26, 1	52, 1-9	REG	so yr cash wedi mynd mas eto nag ydy	NSNT	SNT
+26, 2	54, 1-6	REG	ond mae wedi cael y *cheque*	NST	NST
+26, 3	55, 1-7	REG	*well* fi wedi hala yr *cheque* anyway	---	ST
+
+
+27, 1	56, 1-4	FLO	isie ti trefnu *taxi*	---	NST
+
+
+28, 1	57, 1-5	REG	*yeah* fi yn gwybod hynny	---	NST
+
+
+29, 1	58, 1-9	FLO	*um* i ti a *Neil* ar_gyfer mynd i dre	---	NST
+
+
+30, 1	59, 1-2	REG	a ar_gyfer	---	NSNT
+
+
+31, 1	60, 1-5	FLO	a ni ar_gyfer y nos	---	NSNT
+
+
+32, 1	61, 1-3	REG	*yeah* y nos	NST	NST
+32, 2	62, 1-4	REG	a mae isie gael	NSNT	NSNT
+32, 3	63, 1-5	REG	fi wedi bwco *er* *hotel*	NST	NST
+32, 4	64, 1-11	REG	ond *um* dyw yr cash ddim wedi mynd mas eto ar_gyfer	---	ST
+
+
+33, 1	65, 1-15	FLO	na dyw e ddim yn dueddol o fynd mas tan ar_ôl i ni fod yna	---	NSNT
+
+
+34, 1	66, 1-16	REG	na na fi ddim isie *just* cadw mewn golwg pan bod ni yn *um* yn *er*	---	NST
+
+
+35, 1	67, 1-7	FLO	*o_k* trafod trefn y gwasanaeth gyda *Jonesey*	---	NST
+
+
+36, 1	68, 1-13	REG	fi wedi fi wedi fi wedi e_bosto *um* enw yr *boy* oedd organydd	---	NST
+
+
+37, 1	69, 1-14	FLO	*yeah* *yeah* ond yfe ni sy yn pigo fe lan i fynd y capel	NST	NST
+37, 2	70, 1-7	FLO	neu dyw hi yn hapus wneud neu	---	NSNT
+
+
+38, 1	71, 1-3	REG	*alright* *o_k* iawn	NST	NST
+38, 2	73, 1-5	REG	a faint ti yn cael	---	NSNT
+
+
+39, 1	74, 1-2	FLO	dou gant	NSNT	NSNT
+39, 2	76, 1-3	FLO	geith cyplau rhannu	---	NSNT
+
+
+40, 1	77, 1-5	REG	wallai bydd dim angen rhannu	---	NSNT
+
+
+41, 1	78, 1-4	FLO	achos fi *sure* bydd	NST	NST
+41, 2	79, 1-4	FLO	*well* falle na fydd	---	NST
+
+
+42, 1	80, 1-8	REG	os ti os ti yn cael dou cant	---	NSNT
+
+
+43, 1	81, 1-4	FLO	ond fi yn *sure*	NST	NST
+43, 2	82, 1-6	FLO	mae fi yn gwybod am rai	NSNT	NSNT
+43, 3	82, 7-13	FLO	sy yn dod lan o *Lanelli* i	NST	NST
+43, 4	84, 1-7	FLO	wedes basai nhw gallu cael un hefyd	SNT	NSNT
+43, 5	86, 1-1	FLO	*fine*	ST	NST
+43, 6	87, 1-10	FLO	*right* *so* basically mae bron *jobs* bach gyda ni wneud	ST	ST
+43, 7	88, 1-5	FLO	hassle_o *mam* am *outfit* hi	NST	ST
+43, 8	89, 1-9	FLO	so i yn gwybod os mae wedi dewis un	NSNT	NSNT
+43, 9	90, 1-11	FLO	a mae isie ni mynd nôl â yr *frock* yna os	NST	NST
+43, 10	90, 12-16	FLO	nag yw hi isie fe	---	NSNT
+
+
+44, 1	91, 1-6	REG	cest ti hwnna *spell* bach yn_ôl	---	NST
+
+
+45, 1	92, 1-3	FLO	do tair wythnos	---	NSNT
+
+
+46, 1	94, 1-9	REG	*so* mae rhaid wneud e cyn weekend yma de	---	ST
+
+
+47, 1	96, 1-1	FLO	*ties*	---	NST
+
+
+48, 1	97, 1-6	REG	ti ddim mynd i fod yma	NSNT	NSNT
+48, 2	98, 1-5	REG	bod ti yn nos Iau	---	NSNT
+
+
+49, 1	99, 1-2	FLO	nos Iau	---	NSNT
+
+
+50, 1	100, 1-8	REG	*right* bydd raid cwrdd â ti nos Iau	---	NST
+
+
+51, 1	101, 1-1	FLO	*ties*	ST	NST
+51, 2	102, 1-5	FLO	sawl un sy isie nawr	---	NSNT
+
+
+52, 1	103, 1-1	REG	pedwar	---	NSNT
+
+
+53, 1	104, 1-9	FLO	ti yn cael un i ti anyway un gwahanol	SNT	SNT
+53, 2	105, 1-2	FLO	*Reginald* *brown*	ST	NST
+53, 3	106, 1-3	FLO	tywyswyr a tadau	---	NSNT
+
+
+54, 1	107, 1-4	REG	mae un gyda *dad*	---	NST
+
+
+55, 1	108, 1-4	FLO	y lliw yn un	---	NSNT
+
+
+56, 1	109, 1-2	REG	lliw fe	NSNT	NSNT
+56, 2	110, 1-3	REG	does dim isie	---	NSNT
+
+
+57, 1	111, 1-8	FLO	*oh* *so* dyw yr tadau ddim yn cael	---	NST
+
+
+58, 1	114, 1-3	REG	does dim angen	NSNT	NSNT
+58, 2	114, 4-5	REG	oes e	---	NSNT
+
+
+59, 1	115, 1-7	FLO	*well* o'n i yn meddwl bod ni	NST	NST
+59, 2	116, 1-3	FLO	ond dyna ni	NSNT	NSNT
+59, 3	117, 1-2	FLO	na *fine*	NST	NST
+59, 4	118, 1-8	FLO	*so* tywyswyr *James* *Alan* *Neil* a dyna i_gyd	NST	NST
+59, 5	120, 1-5	FLO	*so* *just* tri *tie* de	---	NST
+
+
+60, 1	121, 1-2	REG	a fi	---	NSNT
+
+
+61, 1	122, 1-7	FLO	*yeah* ond ti yn cael un *frown*	NST	NST
+61, 2	124, 1-3	FLO	llwyd neu arian	---	NSNT
+
+
+62, 1	125, 1-6	REG	a cadw yr *suit* mewn cwpwrdd	NST	NST
+62, 2	126, 1-3	REG	*suit* dyna ni	---	NST
+
+
+63, 1	127, 1-4	FLO	beth arall sy isie	NSNT	NSNT
+63, 2	128, 1-12	FLO	*oh* mae isie ni wneud *list* o yr lluniau ŷn ni moyn	NST	NST
+63, 3	129, 1-5	FLO	*so* pwy bynnag sy mynd	NST	NST
+63, 4	129, 6-10	FLO	i bod yn tynnu lluniau	NSNT	NSNT
+63, 5	130, 1-4	FLO	rhestr o luniau ffurfiol	NSNT	NSNT
+63, 6	131, 1-6	FLO	*hmm* oedd *um* *Els* wedi awgrymu	NST	NST
+63, 7	131, 7-16	FLO	bod ni yn benthyg ryw fath o olau wrth *John_Warner*	NST	NST
+63, 8	132, 1-15	FLO	am *um* rhag ofn bod ni yn cael lluniau tu fas os yw e yn	NST	NST
+63, 9	132, 16-16	FLO	sych	---	NSNT
+
+
+64, 1	133, 1-3	REG	*John* ffrind *Owen*	NST	NST
+64, 2	135, 1-7	REG	os mae gan e rywbeth weekend yna	NSNT	SNT
+64, 3	135, 8-16	REG	bydd e *sure* fod wneud rywbeth gyda *camera* fe	---	NST
+
+
+65, 1	136, 1-10	FLO	so i yn gwybod os mae fe yn wneud priodas	NSNT	NSNT
+65, 2	137, 1-12	FLO	fi yn fi yn credu bod e *just* ddim isie wneud e	NST	NST
+65, 4	139, 1-6	FLO	neu falle bod *Owen* gyda un	NST	NST
+65, 5	140, 1-8	FLO	achos mae *Owen* yn eitha whizz gyda *camera*	---	ST
+
+
+66, 1	141, 1-9	REG	*o_k* *well* ti gofyn i *Owen* de beth yw	NST	NST
+66, 2	141, 10-11	REG	barn e	NSNT	NSNT
+66, 3	142, 1-3	REG	achos mae *bound*	NST	NST
+66, 4	142, 4-5	REG	bod rheswm	NSNT	NSNT
+66, 5	142, 6-10	REG	oedd e pallu wneud e	NSNT	NSNT
+66, 6	143, 1-6	REG	a *just* dim isie wneud e	NST	NST
+66, 7	144, 1-5	REG	fi yn credu oedd rywbeth	NSNT	NSNT
+66, 8	146, 1-8	REG	wedi bwco rywbeth arall fi credu oedd e	---	NSNT
+
+
+67, 1	147, 1-4	FLO	sa i yn credu	NSNT	NSNT
+67, 2	148, 1-4	FLO	*just* yn ddiawl bach	NST	NST
+67, 3	149, 1-4	FLO	rhestr o luniau ffurfiol	NSNT	NSNT
+67, 4	150, 1-5	FLO	trafod flash golau gyda *Owen*	NST	ST
+67, 5	151, 1-5	FLO	*oh* mynd â yr tea_lights	---	ST
+
+
+68, 1	152, 1-7	REG	alla i wneud hynna bore dydd Sadwrn	---	NSNT
+
+
+69, 1	153, 1-12	FLO	*yeah* *well* na bydd raid fi wneud dydd Gwener fi yn credu	NST	NST
+69, 2	154, 1-10	FLO	fel bod e yna i yr caterer osod nhw mas	---	SNT
+
+
+70, 1	157, 1-8	REG	mynd draw â yr *Volkswagen* draw i yr	---	NST
+
+
+71, 1	159, 1-2	FLO	*car* gwesty	NST	NST
+71, 2	160, 1-15	FLO	bydd raid fi wneud hwnna peth cynta bore dydd Sadwrn cyn mynd i torri gwallt	---	NSNT
+
+
+72, 1	161, 1-8	REG	cyn bod y *crowds* yn dod ar_gyfer *rugby*	---	NST
+
+
+73, 1	162, 1-3	FLO	ffeindio *make_up* *artist*	NST	NST
+73, 2	163, 1-13	FLO	fi yn gweld fi yn ragweld bydda i gorfod wneud hwnna fy hunan	NSNT	NSNT
+73, 3	164, 1-5	FLO	so i isie wneud e	---	NSNT
+
+
+74, 1	165, 1-2	REG	*well* *Toni_and_Guy*	---	NST
+
+
+75, 1	166, 1-3	FLO	paid gweud e	---	NSNT
+
+
+76, 1	167, 1-1	REG	*Theo*	---	NST
+
+
+77, 1	168, 1-4	FLO	*Reginald* i torri gwallt	---	NST
+
+
+78, 1	169, 1-2	REG	gyda *Theo*	---	NST
+
+
+79, 1	170, 1-3	FLO	cyn diwrnod *please*	NST	NST
+79, 2	171, 1-7	FLO	neu byddan nhw yn torri gormod *off*	NST	NST
+79, 3	172, 1-7	FLO	a byddi di yn edrych yn dost	NSNT	NSNT
+79, 4	173, 1-4	FLO	*Reginald* i dorri gwallt	NST	NST
+79, 5	174, 1-5	FLO	mae yn torri gormod *off*	NST	NST
+79, 6	175, 1-5	FLO	fi isie ti mynd i	---	NSNT
+
+
+80, 1	176, 1-3	REG	dim tro diwetha	---	NSNT
+
+
+81, 1	178, 1-3	FLO	a gofyn de	NSNT	NSNT
+81, 2	179, 1-11	FLO	fi yn credu fi yn credu bod ni gyda popeth nawr	---	NSNT
+
+
+82, 1	180, 1-1	REG	good	---	NSNT
+
+
+83, 1	181, 1-4	FLO	*er* na seating names	---	ST
+
+
+84, 1	182, 1-7	REG	dim ond sy isie sorto mas anyway	---	SNT
+
+
+85, 1	183, 1-5	FLO	fi yn wedi wneud e	---	NSNT
+
+
+86, 1	184, 1-2	REG	ti wedi	---	NSNT
+
+
+87, 1	185, 1-1	FLO	odw	---	NSNT
+
+
+88, 1	186, 1-2	REG	*oh* awesome	---	NST
+
+
+89, 1	187, 1-2	FLO	seddau cinio	SNT	NSNT
+89, 2	188, 1-3	FLO	*oh* my gosh	ST	NST
+89, 3	189, 1-7	FLO	*oh* ymchwilio mewn i trefniadau newid enw	---	NST
+
+
+90, 1	190, 1-3	REG	that's *post* wedding	---	NST
+
+
+91, 1	191, 1-13	FLO	*yeah* fi isie gwybod be fi yn wneud nawr though nag yf fi	---	ST
+
+
+92, 1	192, 1-4	REG	gofyn i *Michael* heno	---	NST
+
+
+93, 1	193, 1-1	FLO	because	SNT	NSNT
+93, 2	194, 1-13	FLO	os ŷn ni yn mynd i *Bilbao* bydd raid fi newid *passport* fi	NST	NST
+93, 3	194, 14-15	FLO	bydd e	NSNT	NSNT
+93, 4	195, 1-6	FLO	a gyda yr *bank* achos mae	NST	NST
+93, 5	195, 7-7	FLO	mae	NSNT	NSNT
+93, 6	195, 8-8	FLO	yr	NSNT	NSNT
+93, 7	195, 9-15	FLO	mae yr booking yn *credit* *card* fi	---	ST
+
+
+94, 1	196, 1-4	REG	sa i yn gwybod	NSNT	NSNT
+94, 2	197, 1-4	REG	gofyn i *mam* ti	---	NST
+
+
+95, 1	198, 1-9	FLO	so i yn credu bod *mam* yn cofio babe	ST	ST
+95, 2	199, 1-4	FLO	oedd e ages ago	SNT	SNT
+95, 3	199, 5-10	FLO	pan oedd hi yn wneud e	---	NSNT
+
+
+96, 1	200, 1-2	REG	gofyn rywun	NSNT	NSNT
+96, 2	200, 3-7	REG	sy wedi priodi yn diweddar	---	NSNT
+
+
+97, 1	201, 1-4	FLO	*oh* dim *just* mynd	NST	NST
+97, 2	202, 1-10	FLO	mae isie ni fynd lawr â yr *um* truffles hefyd	NST	ST
+97, 3	203, 1-7	FLO	ble mae yr tea_lights a yr truffles	SNT	SNT
+97, 4	204, 1-8	FLO	mae isie fi ffindo rywbeth i roi y	NSNT	NSNT
+97, 5	206, 1-4	FLO	y truffles yn nhw	---	SNT
+
+
+98, 1	207, 1-2	REG	gei heddi	---	NSNT
+
+
+99, 1	208, 1-3	FLO	be yn *Tesco*	NST	NST
+99, 2	210, 1-6	FLO	ewn ni i *Tesco* *Western_Avenue* de	NST	NST
+99, 3	211, 1-7	FLO	achos mae mwy o ddewis gyda nhw	SNT	NSNT
+99, 4	212, 1-2	FLO	truffle holders	NSNT	NSNT
+99, 5	213, 1-3	FLO	*oh* my gosh	ST	NST
+99, 6	214, 1-4	FLO	tri_deg o *jobs* yma	NST	NST
+99, 7	215, 1-6	FLO	*well* dyna ni always the way	---	ST
+
+
+100, 1	218, 1-2	REG	wedi bennu	---	NSNT
+
+
+101, 1	219, 1-7	FLO	fi yn credu bod ni wedi bennu	---	NSNT
+
+
+102, 1	220, 1-2	REG	*phooph* *rest*	---	NST
+
+
+103, 1	222, 1-16	FLO	licen i fynd i dre Sadwrn nesa gyda syniad o ba fath o *camera* ni moyn	---	NST
+
+
+104, 1	223, 1-9	REG	*well* falle wna i cael dydd Gwener bant te	---	NST
+
+
+105, 1	224, 1-7	FLO	ŷn ni gallu neilltuo *jobs* bach nawr	NST	NST
+105, 2	225, 1-2	FLO	yswiriant Coal_Exchange	SNT	SNT
+105, 4	227, 1-5	FLO	wna i ffono nhw yfe	NSNT	NSNT
+105, 5	228, 1-5	FLO	neu ti isie ffono nhw	---	NSNT
+
+
+106, 1	229, 1-5	REG	does dim ots gyda fi	NSNT	NSNT
+106, 2	230, 1-8	REG	*just* rho enw fi lawr os ti moyn	---	NST
+
+
+107, 1	231, 1-2	FLO	*o_k* *Reginald*	ST	NST
+107, 2	232, 1-4	FLO	talu gweddill yr arian	---	NSNT
+
+
+108, 1	233, 1-8	REG	ti ti yn gwybod pwy yw yr cwmni	---	NSNT
+
+
+109, 1	234, 1-1	FLO	ydw	NSNT	NSNT
+109, 2	234, 2-10	FLO	mae fe wedi sgriblo ar cytundeb Coal_Exchange fi rywle	NSNT	SNT
+109, 3	236, 1-4	FLO	talu gweddill yr arian	---	NSNT
+
+
+110, 1	237, 1-3	REG	wna fi fe	---	NSNT
+
+
+111, 1	238, 1-9	FLO	fi yn credu mai fi sy gorfod wneud hynna	NSNT	NSNT
+111, 2	239, 1-7	FLO	heblaw bod ti yn trosglwyddo yr arian	NSNT	NSNT
+111, 3	239, 8-20	FLO	a bod ti yn mynd mewn i *bank* ti a cael e mas	NST	NST
+111, 4	240, 1-3	FLO	pa mor fussy	SNT	SNT
+111, 5	245, 1-3	FLO	ti yn hapus	---	NSNT
+
+
+112, 1	247, 1-8	REG	bydd raid fi ffindio diwrnod sydd yn gyfleus	NSNT	NSNT
+112, 2	247, 9-14	REG	i bod y *boy* yna yna	NST	NST
+112, 3	250, 1-6	REG	achos a bydd rhaid bod e	---	NSNT
+
+
+113, 1	251, 1-13	FLO	fi yn *sure* elli di roi e i yr ferch yna *Diane* os	NST	NST
+113, 2	251, 14-17	FLO	nag yw e yna	---	NSNT
+
+
+114, 1	252, 1-10	REG	*um* well gyda fi rhoi e rhoi e i fe	NST	NST
+114, 2	254, 1-11	REG	a *um* bydd e rhaid bod e dydd Iou fi credu	---	NST
+
+
+115, 1	255, 1-3	FLO	bob tro fi	NSNT	NSNT
+115, 2	255, 4-6	FLO	wedi bod yna	NSNT	NSNT
+115, 3	255, 7-8	FLO	mae fe	NSNT	NSNT
+115, 4	255, 9-11	FLO	wedi bod yna	NSNT	NSNT
+115, 5	255, 12-12	FLO	cofia	---	NSNT
+
+
+116, 1	256, 1-5	REG	dim pan dim ar weekends	---	SNT
+
+
+117, 1	257, 1-11	FLO	*yeah* ond ti *just* gallu mynd draw yn awr ginio ti	---	NST
+
+
+118, 1	258, 1-16	REG	*yeah* fi yn gwybod os fi yn wneud hynna mae rhaid rhaid taw taw dydd Iou	NST	NST
+118, 2	258, 17-18	REG	yw e	---	NSNT
+
+
+119, 1	260, 1-6	FLO	d_j ti isie fi wneud hwnna	NSNT	SNT
+119, 2	262, 1-3	FLO	a fi de	---	NSNT
+
+
+120, 1	263, 1-4	REG	fel ti mynd i	---	NSNT
+
+
+121, 1	264, 1-4	FLO	arian i yr capel	---	NSNT
+
+
+122, 1	266, 1-2	REG	gyda d_j	SNT	SNT
+122, 2	268, 1-5	REG	wyt ti yn hapus fel	NSNT	NSNT
+122, 3	268, 6-13	REG	oedd e yn edrych yn y lle yna	NSNT	NSNT
+122, 4	268, 14-17	REG	pan oedd e yna	---	NSNT
+
+
+123, 1	269, 1-7	FLO	does neb mynd i weld e babe	---	SNT
+
+
+124, 1	270, 1-5	REG	nage yr *stand* *stand* nawr	---	NST
+
+
+125, 1	271, 1-6	FLO	dyw e ddim yn mynd i	---	NSNT
+
+
+126, 1	273, 1-7	REG	gyda yr massive *D_J_Scorpio* neu whatever *Scorpion*	---	ST
+
+
+127, 1	274, 1-7	FLO	*yeah* mae fe ffaelu *just* seto lan	NST	NST
+127, 2	274, 8-17	FLO	a bod nhw ddim yn hysbysebu pwy gwmni ŷn nhw	---	NSNT
+
+
+128, 1	275, 1-4	REG	*o_k* go on then	---	NST
+
+
+130, 1	277, 1-6	REG	*yeah* pryd ni yn wneud hynna	---	NST
+
+
+131, 1	278, 1-12	FLO	*well* elli di fynd a roi nhw i nhw ar y dechrau	NST	NST
+131, 2	278, 13-14	FLO	elli ti	NSNT	NSNT
+131, 3	279, 1-11	FLO	neu allai *Neil* wneud ar y dechrau neu ar y diwedd	NST	NST
+131, 4	282, 1-7	FLO	allwn ni roi hwnna i *Neil* te	---	NST
+
+
+132, 1	283, 1-2	REG	*yeah* good	ST	NST
+132, 2	284, 1-3	REG	blodau capel *Florence*	---	NST
+
+
+133, 1	285, 1-6	FLO	pigo gacen lan *Reginald* neu *Florence*	NST	NST
+133, 2	286, 1-5	FLO	so ni yn *sure* eto	---	NST
+
+
+134, 1	287, 1-4	REG	*well* wna fi fe	NST	NST
+134, 2	288, 1-6	REG	*er* falle na peth yw falle	NST	NST
+134, 3	288, 7-10	REG	bydd *James* a *Llinos*	NST	NST
+134, 4	289, 1-1	REG	mae	NSNT	NSNT
+134, 5	289, 2-8	REG	mae *Llinos* *James* a *Llinos* ar gwyliau	NST	NST
+134, 6	289, 9-9	REG	twel	NSNT	NSNT
+134, 7	291, 1-3	REG	a falle mae	NSNT	NSNT
+134, 8	291, 4-9	REG	mae *James* a *Llinos* wedi gweud	NST	NST
+134, 9	292, 1-14	REG	fi trio cael *Llinos* lan *just* i ddod lan i gweld y *flat* anyway	ST	ST
+134, 10	294, 1-10	REG	mae nhw yn yn y canolbarth ar hyn o bryd	NSNT	NSNT
+134, 11	295, 1-9	REG	ond falle bydd nhw yn mynd i Manceinion wedyn	NSNT	NSNT
+134, 12	296, 1-12	REG	a wedyn hynny falle bydd nhw yn galw heibio yma neu falle	NSNT	NSNT
+134, 13	296, 13-16	REG	bod nhw yn mynd	NSNT	NSNT
+134, 14	296, 17-17	REG	mae	NSNT	NSNT
+134, 15	296, 18-22	REG	bod nhw yn mynd gartre	NSNT	NSNT
+134, 16	297, 1-5	REG	a falle don nhw lan	NSNT	NSNT
+134, 17	298, 1-10	REG	a os bydd y cacen yn barod falle cacen hefyd	---	NSNT
+
+
+135, 1	299, 1-8	FLO	pryd ti yn meddwl byddwn ni yn gwybod	---	NSNT
+
+
+136, 1	300, 1-5	REG	*yeah* sa i yn gwybod	NST	NST
+136, 2	301, 1-4	REG	ond *er* beth bynnag	---	NST
+
+
+137, 1	302, 1-4	FLO	mae wythnos gyda ni	---	NSNT
+
+
+138, 1	303, 1-3	REG	*yeah* ond timod	NST	NST
+138, 2	303, 4-14	REG	mae gyda fi yr dou y dou diwrnod yna bant anyway	SNT	SNT
+138, 3	305, 1-8	REG	*just* *matter* o gael y *car* dyna i_gyd	NST	NST
+138, 4	305, 9-10	REG	yw e	---	NSNT
+
+
+139, 1	306, 1-3	FLO	anrhegion morwynion *Florence*	NST	NST
+139, 2	307, 1-6	FLO	ti isie *help* gyda anrhegion tywyswyr	NST	NST
+139, 3	308, 1-4	FLO	neu ti yn hapus	---	NSNT
+
+
+140, 1	309, 1-6	REG	*er* fi yn hapus gyda hwnna	---	NST
+
+
+141, 1	311, 1-6	FLO	anrhegion y mamau ti a fi	NSNT	NSNT
+141, 2	312, 1-2	FLO	arian registrar	SNT	SNT
+141, 3	313, 1-7	FLO	cysylltu gyda yr heddlu am y ceir	---	NSNT
+
+
+142, 1	314, 1-1	REG	fi	---	NSNT
+
+
+143, 1	315, 1-3	FLO	ceir a *taxis*	NST	NST
+143, 2	316, 1-5	FLO	*car* a *taxis* rather ti	NST	ST
+143, 3	317, 1-4	FLO	trefn y wasanaeth fi	NSNT	NSNT
+143, 4	318, 1-3	FLO	*outfit* *mam* fi	NST	NST
+143, 5	319, 1-4	FLO	*ties* ti a fi	NST	NST
+143, 6	320, 1-7	FLO	rhestr o luniau ffurfiol ti a fi	---	NSNT
+
+
+144, 1	321, 1-2	REG	rhestri beth	---	NSNT
+
+
+145, 1	322, 1-4	FLO	rhestr o luniau ffurfiol	NSNT	NSNT
+145, 2	323, 1-4	FLO	pwy ni moyn yn	NSNT	NSNT
+145, 3	325, 1-1	FLO	fi	---	NSNT
+
+
+146, 1	326, 1-5	REG	ble ni yn wneud e	---	NSNT
+
+
+147, 1	327, 1-7	FLO	*um* mae yn dibynnu ar y tywydd	NST	NST
+147, 2	328, 1-9	FLO	fi yn hapus i wneud lawr yn y Coal_Exchange	---	SNT
+
+
+148, 1	329, 1-6	REG	fi ddim yn hapus efo Coal_Exchange	---	SNT
+
+
+149, 1	330, 1-1	FLO	pam	---	NSNT
+
+
+150, 1	331, 1-6	REG	achos fi yn gweld e eitha	NSNT	NSNT
+150, 2	332, 1-7	REG	sa i lico fe *lot* yr *er*	---	NST
+
+
+151, 1	333, 1-1	FLO	cyntedd	---	NSNT
+
+
+152, 1	334, 1-2	REG	nag ydw	---	NSNT
+
+
+153, 1	335, 1-8	FLO	ffindo ryw gornel bach yn y neuadd fawr	---	NSNT
+
+
+154, 1	336, 1-9	REG	*well* bydda i yn cael cip arno fe eto	NST	NST
+154, 2	336, 10-17	REG	pan bydda mynd mewn â yr cash anyway	---	SNT
+
+
+155, 1	338, 1-5	FLO	*Florence* i sorto yr addurniadau	NST	NST
+155, 2	339, 1-4	FLO	*car* i yr gwesty	NST	NST
+155, 3	340, 1-6	FLO	wna fi hynna yn y bore	NSNT	NSNT
+155, 4	341, 1-11	FLO	neu falle bod e yn haws os ti yn wneud hwnna	---	NSNT
+
+
+156, 1	342, 1-1	REG	beth	---	NSNT
+
+
+157, 1	343, 1-9	FLO	ond so ti yn gwybod le mae yr gwesty	NSNT	NSNT
+157, 2	343, 10-11	FLO	wyt ti	NSNT	NSNT
+157, 3	344, 1-5	FLO	mynd lan â yr *car*	NST	NST
+157, 4	345, 1-4	FLO	wna fi wneud e	NSNT	NSNT
+157, 5	346, 1-3	FLO	ffeindio *make_up* *artist*	NST	NST
+157, 6	347, 1-6	FLO	mae raid fi wneud hwnna heddi	NSNT	NSNT
+157, 7	349, 1-4	FLO	*Reginald* i dorri gwallt	NST	NST
+157, 8	350, 1-5	FLO	*Reginald* yn gallu wneud hwnna	---	NST
+
+
+158, 1	351, 1-4	REG	un fi yw hwnna	---	NSNT
+
+
+159, 1	352, 1-4	FLO	enwau seddau Coal_Exchange *Florence*	---	ST
+
+
+160, 1	354, 1-8	REG	*just* rhoi nhw iddo fe sy isie wneud	NST	NST
+160, 2	355, 1-5	REG	pam bydden ni mynd yn	---	NSNT
+
+
+161, 1	356, 1-6	FLO	so i wedi wneud nhw eto	---	NSNT
+
+
+162, 1	357, 1-6	REG	*oh* rhoi *oh* *right* ti meddwl	---	NST
+
+
+163, 1	358, 1-3	FLO	place *settings* *yeah*	---	NST
+
+
+164, 1	359, 1-7	REG	fel ti fel fel ni wneud hynna	---	NSNT
+
+
+165, 1	360, 1-2	FLO	sgwennu nhw	---	NSNT
+
+
+166, 1	361, 1-11	REG	*oh* *right* ti yn prynu yr *card* I take it yfe	---	ST
+
+
+167, 1	362, 1-4	FLO	mae *card* gyda fi	NST	NST
+167, 2	362, 5-11	FLO	sy yn mynd gyda lliwiau yr gwahoddiadau	NSNT	NSNT
+167, 3	362, 12-16	FLO	sy gyda fi dros ben	NSNT	NSNT
+167, 4	364, 1-6	FLO	wna i ddechrau reina pnawn yma	---	NSNT
+
+
+168, 1	365, 1-5	REG	*well* na wna hwnna gynta	---	NST
+
+
+169, 1	366, 1-6	FLO	*well* fi wedi wneud pedwar guest	ST	ST
+169, 2	367, 1-7	FLO	dim ond dou sy gyda fi ar_ôl	NSNT	NSNT
+169, 3	368, 1-5	FLO	*so* bydda i yn *fine*	---	NST
+
+
+170, 1	371, 1-2	REG	*yeah* wna	NST	NST
+170, 2	371, 3-7	REG	wna nhw gynta anyway yfe	---	SNT
+
+
+171, 1	373, 1-8	FLO	*o_k* *so* beth sy yn a_s_a_p *jobs* de	NST	ST
+171, 2	374, 1-3	FLO	yswiriant y Coal_Exchange	---	SNT
+
+
+172, 1	375, 1-1	REG	d_j	SNT	NSNT
+172, 2	376, 1-1	REG	*suit*	---	NST
+
+
+173, 1	377, 1-7	FLO	*um* blodau kind of a_s_a_p odyw e	NST	ST
+173, 2	378, 1-10	FLO	lle bod ni o leia yn gwybod le ni yn	NSNT	NSNT
+173, 3	379, 1-5	FLO	*oh* na bydd e *fine*	NST	NST
+173, 4	380, 1-5	FLO	bydd wythnos nesa yn *fine*	---	NST
+
+
+174, 1	383, 1-7	REG	tala i talu yr *boy* yna bant	NST	NST
+174, 2	384, 1-8	REG	alla i gael gweld y lle wedyn hefyd	---	NSNT
+
+
+175, 1	385, 1-4	FLO	dewis a prynu *camera*	NST	NST
+175, 2	386, 1-6	FLO	mae hwnna mynd i gymryd *spell*	NST	NST
+175, 3	387, 1-5	FLO	esgidiau morwynion wythnos hyn gobeithio	NSNT	NSNT
+175, 4	388, 1-12	FLO	anrhegion ni isie cael nhw out of the way nag ŷn ni	---	SNT
+
+
+176, 1	389, 1-6	REG	*yeah* ond wnaethon ni *oh* *er*	---	NST
+
+
+177, 1	390, 1-8	FLO	ond ellwn ni wneud hynny dydd Sadwrn nesa	NSNT	NSNT
+177, 2	392, 1-1	FLO	anrhegion	---	NSNT
+
+
+178, 1	393, 1-12	REG	popeth ŷn ni prynu prynu allwn ni wneud e draws y weekend	---	SNT
+
+
+179, 1	394, 1-4	FLO	cysylltu gyda yr heddlu	---	NSNT
+
+
+179, 2	395, 1-4	FLO	dros yr wythnos nesa	---	NSNT
+
+
+181, 1	397, 1-5	FLO	mae isie bwco *taxis* nawr	---	NST
+
+
+182, 1	399, 1-9	REG	y fi fi wedi fi wedi trial wneud hynna	NSNT	NSNT
+182, 2	400, 1-4	REG	ond wedodd y *boy*	NST	NST
+182, 4	402, 1-17	REG	*well* gyda yr cwmni fi wedi ffono sa i yn sa i yn gwybod pwy oedd e	NST	NST
+182, 5	402, 18-32	REG	ond oedd e neu hi wedi gweud ta *um* ti wneud e ar y dydd	NST	NST
+182, 6	403, 1-8	REG	fi ddim really yn hapus i wneud hynna	---	SNT
+
+
+183, 1	404, 1-6	FLO	*well* na mae *just* ar_ôl payday	ST	ST
+183, 2	405, 1-4	FLO	a mae *game* ymlaen	---	NST
+
+
+184, 1	406, 1-1	REG	exactly	---	NSNT
+
+
+185, 1	407, 1-4	FLO	ffindo cwmni arall de	NSNT	NSNT
+185, 2	408, 1-10	FLO	trefn y wasanaeth geith hwnna aros tan dydd Sadwrn nesa	NSNT	NSNT
+185, 3	409, 1-8	FLO	*outfit* *mam* gorfod mynd nôl â fe os	NST	NST
+185, 4	409, 9-13	FLO	nag yw hi isie fe	SNT	NSNT
+185, 5	410, 1-1	FLO	*ties*	---	NST
+
+
+186, 1	411, 1-6	REG	weekend raid taw weekend yw e	---	SNT
+
+
+187, 1	412, 1-8	FLO	rhestr o luniau ffurfiol mae hwnna gallu aros	NSNT	NSNT
+187, 2	413, 1-7	FLO	mae isie ni trafod flash gyda *Owen*	NST	ST
+187, 3	414, 1-4	FLO	*car* i yr gwesty	NST	NST
+187, 4	415, 1-5	FLO	ffindo *make_up* *artist* i fi	NST	NST
+187, 5	416, 1-4	FLO	*Reginald* i dorri gwallt	NST	NST
+187, 6	417, 1-3	FLO	enwau yr seddau	NSNT	NSNT
+187, 7	418, 1-3	FLO	a hwn heddi	NSNT	NSNT
+187, 8	419, 1-3	FLO	*so* tipyn heddi	NST	NST
+187, 9	420, 1-12	FLO	a mae fe mwy neu lai yn eitha cytbwys o ran amser	NSNT	NSNT
+187, 10	421, 1-9	FLO	wnawn ni adael hwn mas ar *coffee* table fel	NST	ST
+187, 11	421, 10-12	FLO	bod ni yn	---	NSNT
+
+
+188, 1	422, 1-2	REG	cael atgoffa	---	NSNT
+
+
+189, 1	424, 1-4	FLO	rhai fwy nag eraill	---	NSNT
+
+
+190, 1	425, 1-4	REG	gentle reminder for *Reginald*	ST	NST
+190, 3	427, 1-2	REG	*tick* *box*	ST	NST
+190, 5	429, 1-4	REG	ni wedi bennu nawr	---	NSNT
+
+
+191, 1	430, 1-8	FLO	*well* nes bod ni yn mynd siopa *yeah*	---	NST
+
+
+192, 1	431, 1-6	REG	ni wedi bennu sgwrs ni nawr	NSNT	NSNT
+192, 2	432, 1-12	REG	gallu stopo jocan bod ni yn siarad i gilydd a *stuff* nawr	---	NST
+
+
+193, 1	433, 1-3	FLO	ti yn hilarious	---	SNT
+
+
+194, 1	434, 1-7	REG	ti ti really yn lico esgidiau *Elen*	---	ST
+
+
+195, 1	435, 1-3	FLO	odw ti ddim	SNT	NSNT
+195, 2	437, 1-2	FLO	*ah* *ha*	---	NST
+
+
+196, 1	438, 1-6	REG	nhw yn awful nag o'n nhw	NSNT	SNT
+196, 2	439, 1-13	REG	a wnest ti gweld hi *just* mynd â papur newydd fi fel yna	ST	NST
+196, 4	441, 1-3	REG	couldn't believe it	---	NSNT
+
+
+197, 1	442, 1-3	FLO	ti yn dead	---	SNT
+
+
+198, 1	444, 1-6	REG	didn't ask at all *just* said	ST	NST
+198, 2	445, 1-5	REG	*oh* na falle af fi	NST	NST
+198, 3	445, 6-11	REG	af fi papur newydd gyda fi	SNT	NSNT
+198, 4	446, 1-9	REG	*as* if bydden i dim isie darllen e nawr	---	ST
+
+
+199, 1	447, 1-11	FLO	ti ddim yn darllen e os ti yn siarad gyda fi	SNT	NSNT
+199, 2	448, 1-3	FLO	men can't multitask	---	NSNT
+
+
+200, 1	449, 1-2	REG	fi yn	---	NSNT
+
+
+201, 1	450, 1-7	FLO	fi angen mynd i yr tŷ bach	---	NSNT
+
+
+202, 1	452, 1-4	REG	*mmm* twel fel hyn	NST	NST
+202, 2	452, 5-7	REG	mae fe really	---	SNT
+
+
+203, 1	453, 1-4	FLO	*Reginald* the conversation killer	---	NST
+
+
+204, 1	454, 1-11	REG	ni ni ni ni ni ni ni wastad *stuck* ar conversation	ST	ST
+204, 3	456, 1-8	REG	lwcus bod priodas gyda ni i siarad amboutu	NSNT	NSNT
+204, 4	457, 1-10	REG	ar_ôl y priodas bydd ni byth yn siarad gyda ei_gilydd	---	NSNT
+
+
+205, 1	459, 1-3	FLO	ti yn funny	---	SNT
+
+
+206, 1	460, 1-7	REG	mae *Neil* yn dod lawr weekend nesa	---	ST
+
+
+207, 1	462, 1-4	FLO	ble mae priodas e	---	NSNT
+
+
+208, 1	463, 1-12	REG	pryd pryd ŷn ni yn pryd ŷn ni yn mynd i *um*	NST	NST
+208, 2	464, 1-2	REG	yn ble	NSNT	NSNT
+208, 3	465, 1-3	REG	sa i mod	NSNT	NSNT
+208, 4	466, 1-6	REG	credu yn *Cymer* fi yn credu	---	NST
+
+
+209, 1	468, 1-17	FLO	basically am y dydd Sadwrn nesa bydd raid ni fod lan a mas peth cynta peth cynta	NSNT	SNT
+209, 2	469, 1-9	FLO	achos mae yr *party* am hanner awr wedi chwech	NST	NST
+209, 3	471, 1-4	FLO	mae yn awr i	---	NSNT
+
+
+210, 1	472, 1-6	REG	ble ŷn ni aros nos Sadwrn	---	NSNT
+
+
+211, 1	473, 1-7	FLO	o'n i yn bwriadu dod fan hyn	---	NSNT
+
+
+212, 1	474, 1-5	REG	*oh* *right* *o_k* *cool* achos	NST	NST
+212, 2	475, 1-7	REG	*so* ŷn ni yn gadael yma pryd	---	NST
+
+
+213, 1	476, 1-16	FLO	*um* erbyn i ni newid a *stuff* bydd isie i ni adael erbyn *quarter* wedi pump	---	NST
+
+
+214, 1	477, 1-5	REG	be *suit* *stuff* yw e	---	NST
+
+
+215, 1	478, 1-4	FLO	na *just* dillad *nice*	---	NST
+
+
+216, 1	479, 1-4	REG	erbyn pryd wedest ti	NSNT	NSNT
+216, 2	480, 1-3	REG	*quarter* wedi pump	NST	NST
+216, 4	483, 1-10	REG	achos os ni mynd i mynd i mynd i siopa	---	NSNT
+
+
+217, 1	485, 1-4	FLO	bydd raid ni fynd	NSNT	NSNT
+217, 2	486, 1-5	FLO	dyna pam fi yn gweud	NSNT	NSNT
+217, 3	486, 6-15	FLO	bydd raid ni fynd peth cynta erbyn i *shops* agor	---	NST
+
+
+218, 1	487, 1-8	REG	a bydd rhaid ni dod nôl nos Sadwrn	NSNT	NSNT
+218, 2	488, 1-8	REG	be beth ŷn ni isie wneud dydd Sul	---	NSNT
+
+
+219, 1	489, 1-1	FLO	bydd	---	NSNT
+
+
+220, 1	490, 1-8	REG	*so* be be sy yn digwydd nos Sadwrn	NST	NST
+220, 2	491, 1-5	REG	*party* yn le yw e	---	NST
+
+
+221, 1	492, 1-4	FLO	yn neuadd eglwys *Nanna*	NST	NST
+221, 2	493, 1-5	FLO	achos bod ddi yn wyth_deg	NSNT	NSNT
+221, 3	494, 1-10	FLO	*oh* mae raid ni gael anrheg iddi a carden *nice*	NST	NST
+221, 4	495, 1-8	FLO	alla i adael ti i prynu yr carden	---	NSNT
+
+
+222, 1	496, 1-3	REG	*so* mae fe	---	NST
+
+
+223, 1	497, 1-4	FLO	achos ti wastad yn	---	NSNT
+
+
+224, 1	498, 1-7	REG	mae isie yrru *card* i *mam* actually	ST	ST
+224, 2	499, 1-2	REG	anghofiais i	NSNT	NSNT
+224, 3	500, 1-1	REG	ddoe	NSNT	NSNT
+224, 4	501, 1-2	REG	anghofiais i	---	NSNT
+
+
+225, 1	502, 1-1	FLO	be	NSNT	NSNT
+225, 2	503, 1-1	FLO	pen_blwydd	---	NSNT
+
+
+226, 1	505, 1-3	REG	yr un dydd	NSNT	NSNT
+226, 2	507, 1-3	REG	a *Sarah* nag	---	NST
+
+
+227, 1	508, 1-2	FLO	a *Sarah*	NST	NST
+227, 2	509, 1-7	FLO	mae raid fi gael anrheg i *Sarah*	NST	NST
+227, 3	510, 1-6	FLO	well i fi sgwennu nodyn fach	NSNT	NSNT
+227, 4	511, 1-5	FLO	neu bydda i yn anghofio	NSNT	NSNT
+227, 5	512, 1-3	FLO	*so* anrheg pen_blwydd	---	NST
+
+
+228, 1	514, 1-7	REG	a well fi cofio un i *mam*	NST	NST
+228, 2	515, 1-8	REG	achos wnes i anghofio priodas pen_blwydd priodas nhw	---	NSNT
+
+
+229, 1	516, 1-4	FLO	anrheg *extra* *special* de	---	NST
+
+
+230, 1	517, 1-6	REG	*ah* sa i yn gwybod os	ST	NST
+230, 2	518, 1-4	REG	*oh* my gosh yfe	NST	ST
+230, 3	519, 1-5	REG	*oh* mae un *Llinos* fory	---	NST
+
+
+231, 1	522, 1-12	FLO	*o_k* oes syniad gyda ti beth i gael *mam* a chwaer ti	---	NST
+
+
+232, 1	523, 1-6	REG	nage ddim pen_blwydd *Llinos* yw fory	---	NST
+
+
+233, 1	524, 1-2	FLO	beth de	---	NSNT
+
+
+234, 1	525, 1-2	REG	pen_blwydd priodas	---	NSNT
+
+
+235, 1	526, 1-10	FLO	*yeah* does dim angen i ni cydnabod priodasau pobl eraill	---	NST
+
+
+236, 1	527, 1-11	REG	*well* am rhyw rheswm mae *mam* a *Llinos* yn lico meddwl	NST	NST
+236, 2	527, 12-13	REG	bod e	NSNT	NSNT
+236, 3	527, 14-17	REG	yn bod ni yn	---	NSNT
+
+
+237, 1	528, 1-8	FLO	fi byth yn cofio un *mam* a *dad*	---	NST
+
+
+238, 1	529, 1-1	REG	fi	NSNT	NSNT
+238, 2	530, 1-2	REG	ond *um*	---	NST
+
+
+239, 1	531, 1-2	FLO	*so* be	NST	NST
+239, 2	532, 1-8	FLO	ni yn cael anrheg i nhw neu carden	---	NSNT
+
+
+240, 1	533, 1-16	REG	na na na na na na sa i yn credu bydd raid ni gael dim_byd actually	SNT	SNT
+240, 2	534, 1-6	REG	ond *er* *just* gweud ydw i	NST	NST
+240, 3	535, 1-8	REG	ar_gyfer *mam* *um* mae raid gael carden iddi	NST	NST
+240, 4	536, 1-5	REG	bydd raid meddwl am anrheg	NSNT	NSNT
+240, 5	537, 1-5	REG	achos bydd hi yn meddwl	NSNT	NSNT
+240, 6	537, 6-8	REG	bod e yn	---	NSNT
+
+
+241, 1	538, 1-9	FLO	ti bodlon gael carden i *Nanna* hefyd te *please*	NST	NST
+241, 2	540, 1-3	FLO	dim un Cymraeg	---	NSNT
+
+
+242, 1	541, 1-12	REG	fi fi fi isie fi isie gael un Cymraeg i *mam* though	---	ST
+
+
+243, 1	542, 1-9	FLO	*yeah* ond ti wastad yn ffindo un *blank* *nice*	NST	NST
+243, 2	544, 1-1	FLO	diolch	NSNT	NSNT
+243, 3	546, 1-12	FLO	os ffindi un *blank* *nice* i *Sarah* byddai hwnna yn *great* hefyd	---	NST
+
+
+244, 1	547, 1-8	REG	bydd raid i fi gofio hwnna bore fory	NSNT	NSNT
+244, 2	548, 1-8	REG	achos fi yn mynd i ysbyty pnawn fory	NSNT	NSNT
+244, 3	549, 1-8	REG	fi a i nôl i gwaith ar_ôl ysbyty	---	NSNT
+
+
+245, 1	550, 1-10	FLO	so ti mynd i ddal yr un bws tro yma	NSNT	NSNT
+245, 2	550, 11-12	FLO	wyt ti	---	NSNT
+
+
+246, 1	551, 1-9	REG	*er* na bydda i yn dal y bws hwyrach	NST	NST
+246, 2	552, 1-7	REG	achos o'n i yn awr yn gynnar	NSNT	NSNT
+246, 3	553, 1-2	REG	oedd llyfr	NSNT	NSNT
+246, 4	554, 1-5	REG	*so* oedd e yn *fine*	NST	NST
+246, 5	555, 1-8	REG	ond mae fe yn eitha *spell* yn_ôl nawr	NST	NST
+246, 6	556, 1-11	REG	*um* ond mae gyda fi cyfarfod hwyr nos Fawrth yn gwaith	---	NST
+
+
+247, 1	557, 1-9	FLO	bydda i yn hwyr nôl o ysgol nos Fawrth	NSNT	NSNT
+247, 2	558, 1-5	FLO	achos mae *club* yr *Urdd*	---	NST
+
+
+248, 1	559, 1-5	REG	be ti gorfod wneud rywbeth	---	NSNT
+
+
+249, 1	560, 1-15	FLO	*well* na ond mae yn edrych yn really dda os ti yn wneud pethau ychwanegol	---	ST
+
+
+250, 1	561, 1-8	REG	pethau *er* ymarfer corff *thing* yw e yfe	---	NST
+
+
+251, 1	562, 1-14	FLO	na tro diwetha gaethon nhw ryw *rugby* player blues *fan* i siarad gyda nhw	---	ST
+
+
+252, 1	563, 1-1	REG	awesome	SNT	NSNT
+252, 3	565, 1-3	REG	pwy oedd e	---	NSNT
+
+
+253, 1	566, 1-5	FLO	*Dion* neu *Deiniol* neu rywbeth	---	NST
+
+
+254, 1	567, 1-1	REG	*Deiniol_Jones*	---	NST
+
+
+255, 1	568, 1-2	FLO	dyna ni	NSNT	NSNT
+255, 2	569, 1-5	FLO	mae yn mawr odyw fe	SNT	NSNT
+255, 3	570, 1-1	FLO	apparently	---	NSNT
+
+
+256, 1	571, 1-5	REG	sa i yn gallu meddwl	---	NSNT
+
+
+257, 1	572, 1-8	FLO	mae fab e yn dod i yr ysgol	NSNT	NSNT
+257, 2	573, 1-2	FLO	mae actually	SNT	SNT
+257, 3	573, 3-14	FLO	mae *couple* o *um* cyfryngis yn hala plant nhw i ysgol ni	---	NST
+
+
+258, 1	574, 1-4	REG	*well* mae fe yn	NST	NST
+258, 2	574, 5-10	REG	mae fe yn lle bach *nice*	NST	NST
+258, 3	575, 1-9	REG	a mae ysgol yn fach hefyd dyw e *so*	---	NST
+
+
+259, 1	576, 2-4	FLO	mae yn lovely	SNT	SNT
+259, 2	577, 1-4	FLO	mae plant yn lovely	SNT	SNT
+259, 3	578, 1-11	FLO	*yeah* *so* fi wedi gweud bod fi isie helpu mas gymaint	NST	NST
+259, 4	578, 12-12	FLO	â	NSNT	NSNT
+259, 5	579, 1-15	FLO	timod o'n i ddim yn really teimlo o'n i yn barod i wneud tro diwetha	NSNT	SNT
+259, 6	580, 1-8	FLO	achos oedd *lot* o waith gyda fi wneud	NST	NST
+259, 7	581, 1-2	FLO	ond *um*	---	NST
+
+
+260, 1	582, 1-5	REG	*so* pwy sy cymeryd e	NST	NST
+260, 2	583, 1-5	REG	pa athrawes neu pa athro	---	NSNT
+
+
+261, 1	584, 1-8	FLO	dirprwy prifathrawes a un o yr athrawon eraill	NSNT	NSNT
+261, 2	585, 1-4	FLO	ond mae yr athrawes	NSNT	NSNT
+261, 3	585, 5-12	FLO	wnaeth e tro diwetha yn *Llangrannog* wythnos hyn	NST	NST
+261, 4	586, 1-5	FLO	*so* sa i yn *sure*	NST	NST
+261, 5	587, 1-9	FLO	*so* falle bod nhw yn gwerthfawrogi yr *help* anyway	ST	ST
+261, 6	588, 1-8	FLO	ond bydd raid fi wneud rywbeth erbyn hyn	---	NSNT
+
+
+262, 1	589, 1-6	REG	*yeah* na so i gweud dim_byd	NST	NST
+262, 2	590, 1-3	REG	mae yn good	---	SNT
+
+
+263, 1	591, 1-7	FLO	bydd e yn haws ar_ôl y briodas	---	NSNT
+
+
+264, 1	592, 1-6	REG	*so* pwy oedd *Iolo* *Iolo_Morgannwg* de	---	NST
+
+
+265, 1	593, 1-6	FLO	*Edward_Williams* oedd ei enw iawn e	NST	NST
+265, 2	595, 1-8	FLO	gafodd e ei eni yn y ddeunawfed ganrif	NSNT	NSNT
+265, 3	597, 1-13	FLO	*um* a oedd e yn *bit* of a genius yn yn_ôl bob sôn	---	ST
+
+
+266, 1	598, 1-3	REG	ym mha maes	---	NSNT
+
+
+267, 1	599, 1-3	FLO	oedd e yn	NSNT	NSNT
+267, 2	600, 1-2	FLO	sawl maes	NSNT	NSNT
+267, 3	601, 1-8	FLO	*well* oedd e yn ymddiddori mewn sawl maes	NST	NST
+267, 4	602, 1-8	FLO	ond oedd e yn really dda yn *um*	NST	ST
+267, 5	603, 1-7	FLO	oedd e yn fardd rhagorol quote unquote	SNT	SNT
+267, 7	604, 20-22	FLO	oedd barddoniaeth *Dafydd_ap_Gwilym*	NST	NST
+267, 8	605, 1-7	FLO	ond fe oedd *just* yn twyllo nhw	---	NST
+
+
+268, 1	606, 1-7	REG	and they named a school after him	---	NSNT
+
+
+269, 1	607, 1-6	FLO	na fi ddim yn gweud hynna	NSNT	NSNT
+269, 3	611, 1-7	FLO	wnaeth e byth mynd i yr ysgol	NSNT	NSNT
+269, 4	612, 1-5	FLO	wnaeth e dysgu darllen achos	NSNT	NSNT
+269, 5	612, 6-10	FLO	oedd dad e yn stonemason	SNT	SNT
+269, 6	613, 1-13	FLO	*so* pan oedd dad e yn torri llythrennau mewn i yr cerrig beddau	NST	NST
+269, 7	613, 14-15	FLO	dyna fel	NSNT	NSNT
+269, 8	613, 16-20	FLO	oedd e wedi dysgu darllen	NSNT	NSNT
+269, 9	615, 1-15	FLO	a oedd *mam* e yn pwsio fe fi yn credu hefyd i i ddysgu ddarllen	NST	NST
+269, 10	616, 1-9	FLO	*um* oedd e yn dwlu ar lyfrau a *stuff*	NST	NST
+269, 11	617, 1-4	FLO	a mae un *story*	NST	NST
+269, 12	618, 1-8	FLO	sa i yn gwybod os mae yn wir	NSNT	NSNT
+269, 13	619, 1-8	FLO	ond mae un *story* *er* am y reswm	NST	NST
+269, 14	619, 9-13	FLO	wnaeth e adael Cymru sef	NSNT	NSNT
+269, 15	619, 14-32	FLO	bod e wedi mynd i helpu ei dad gywiro ryw ficerdy yn *oh* sa i yn cofio ble nawr	NST	NST
+269, 16	620, 1-12	FLO	a *um* yn yr awr ginio oedd ei dad e wedi gweud	NST	NST
+269, 17	621, 1-8	FLO	*right* fi yn mynd *off* i gael *break*	NST	NST
+269, 18	622, 1-3	FLO	neu beth bynnag	NSNT	NSNT
+269, 19	623, 1-4	FLO	carca di yr tŷ	NSNT	NSNT
+269, 20	624, 1-7	FLO	a wnaeth e eistedd lawr gyda llyfyr	NSNT	NSNT
+269, 21	625, 1-12	FLO	oedd e wedi ymgolli ei hunan cymaint yn y llyfr yma fel	NSNT	NSNT
+269, 22	625, 13-26	FLO	bod anifeiliaid o tu fas wedi dod mewn ac yn crwydro *round* y gegin	NST	NST
+269, 23	626, 1-14	FLO	oedd dad e wedi dod nôl a gweld e and went *off* his head	ST	ST
+269, 24	627, 1-6	FLO	a dyma nhw yn cwympo mas	NSNT	NSNT
+269, 25	628, 1-3	FLO	a mae fe	NSNT	NSNT
+269, 26	628, 4-14	FLO	mae *Iolo_Morgannwg* *just* yn codi gyda ei *pack* o beth bynnag	NST	NST
+269, 27	629, 1-7	FLO	a mae fe *just* yn mynd *off*	NST	NST
+269, 28	630, 1-8	FLO	mae fe yn gadael i mynd i Lundain	NSNT	NSNT
+269, 29	631, 1-14	FLO	dyw rieni e ddim yn clywed wrtho fe tan ryw dri mis yn ddiweddarach	NSNT	NSNT
+269, 30	632, 1-7	FLO	mae fe yn hala llythyr i weud	NSNT	NSNT
+269, 31	633, 1-5	FLO	na fi *still* yn byw	NST	NST
+269, 32	634, 1-8	FLO	a fi yn gweithio ar Blackfriars_Bridge yn Llundain	NSNT	SNT
+269, 33	635, 1-7	FLO	yn diwedd mae fe yn dod nôl	NSNT	NSNT
+269, 35	636, 21-24	FLO	yw yr gair ysgrifau	NSNT	NSNT
+269, 36	638, 1-3	FLO	rywbeth neu gilydd	NSNT	NSNT
+269, 37	639, 1-15	FLO	*um* a yr unig *story* arall really o ddiddordeb amdano fe fi gallu ffindo yw	NST	ST
+269, 38	639, 16-17	FLO	bod *um*	NST	NST
+269, 39	639, 18-19	FLO	bod e	NSNT	NSNT
+269, 40	639, 20-29	FLO	wedi bod yn gyfrifol am ailgodi carreg celtaidd yn Llanilltud_Fawr	SNT	NSNT
+269, 41	641, 1-3	FLO	apparently oedd ryw	NSNT	SNT
+269, 42	642, 1-6	FLO	Wil_y_Cawr o'n nhw yn galw e	NSNT	NSNT
+269, 43	643, 1-6	FLO	oedd y *boy* yma wedi marw	NST	NST
+269, 44	644, 1-3	FLO	a wedodd e	NSNT	NSNT
+269, 45	645, 1-15	FLO	*right* fi isie cael y nghladdu pan y fi yn marw ar_bwys drws eglwys Llanilltud_Fawr	NST	NST
+269, 46	646, 1-3	FLO	a dyna le	NSNT	NSNT
+269, 47	646, 4-8	FLO	oedd y groes celtaidd yma	NSNT	NSNT
+269, 48	647, 1-20	FLO	a wrth bod nhw yn claddu fe dyma yr groes yn cwympo mewn i yr twll ar ben y bedd	NSNT	NSNT
+269, 49	648, 1-16	FLO	a oedd e mor drwm o'n nhw *just* wedi gadael e yna a claddu drosto fe	NST	NST
+269, 50	648, 17-22	FLO	a timod roi pridd drosto fe	NSNT	NSNT
+269, 51	649, 1-10	FLO	*um* a mae fe yn clywed am y *story* yma	NST	NST
+269, 52	649, 11-15	FLO	pan mae fe yn un_deg_pedwar	NSNT	NSNT
+269, 53	650, 1-10	FLO	a blynyddau maith wedyn timod dyma fe yn mynd nôl	NSNT	NSNT
+269, 54	651, 1-15	FLO	a mae fe yn chwilio am pobl i trial helpu fe godi yr carreg yma	NSNT	NSNT
+269, 55	653, 1-7	FLO	a mae pawb yn chwerthin arno fe	NSNT	NSNT
+269, 56	654, 1-5	FLO	a so nhw yn bodlon	NSNT	NSNT
+269, 57	655, 1-9	FLO	a mae fe yn mynd a codi fe ben	NSNT	NSNT
+269, 58	655, 10-11	FLO	ei hunan	NSNT	NSNT
+269, 59	656, 1-11	FLO	a wedyn mae fe yn tipyn o arwr am godi yr	---	NSNT
+
+
+270, 1	657, 1-3	REG	*yeah* mae fe	NST	NST
+270, 2	657, 4-6	REG	mae wedi *er*	NST	NST
+270, 3	657, 7-13	REG	mae wedi ffindio yr un un un	NSNT	NSNT
+270, 4	658, 1-7	REG	neu mae wedi wedi wedi creu un	---	NSNT
+
+
+271, 1	659, 1-7	FLO	na ffindo yr un gafodd ei golli	NSNT	NSNT
+271, 2	660, 1-8	FLO	sa i yn gwybod os yw e yna	NSNT	NSNT
+271, 3	661, 1-8	FLO	sa i yn gwybod os mae yn wir	NSNT	NSNT
+271, 4	662, 1-5	FLO	fi yn cymryd bod e	---	NSNT
+
+
+272, 1	663, 1-10	REG	*so* beth ti mynd i dysgu yr plant amboutu fe	---	NST
+
+
+273, 1	665, 1-5	FLO	*well* hwnna i_gyd really ond	NST	ST
+273, 2	666, 1-2	FLO	mae basically	SNT	SNT
+273, 3	666, 3-17	FLO	mae yr gwybodaeth y fi wedi cael o yr ysgol yn really geiriau mawr mawr	NSNT	SNT
+273, 4	667, 1-2	FLO	mae fe	NSNT	NSNT
+273, 5	667, 3-9	FLO	*just* eith e dros pen y disgyblion	---	NST
+
+
+274, 1	668, 1-16	REG	*yeah* ond dim ond rhai storïau ti mynd i gwerthu fel i plant though wyt ti	---	ST
+
+
+275, 1	669, 1-12	FLO	y y rai fwya ddiddorol iddyn nhw *yeah* bydda i yn wneud	NST	NST
+275, 2	670, 1-9	FLO	achos mae nhw gorfod wneud ryw fath o murlun	NSNT	NSNT
+275, 3	670, 10-10	FLO	twel	NSNT	NSNT
+275, 4	672, 1-18	FLO	*um* diwedd y flwyddyn fi yn cymryd neu dros y flwyddyn a roi e lan diwedd y blwyddyn	---	NST
+
+
+276, 1	674, 1-3	REG	gwersi ar beth	NSNT	NSNT
+276, 2	675, 1-1	REG	arlunio	---	NSNT
+
+
+277, 1	676, 1-1	FLO	celf	---	NSNT
+
+
+278, 1	677, 1-6	REG	*oh* *yeah* *yeah* bydd e yn	NST	NST
+278, 2	677, 7-10	REG	bydd raid ti really	SNT	SNT
+278, 3	677, 11-12	REG	bydd e	---	NSNT
+
+
+279, 1	678, 1-12	FLO	ond dim ond deunaw wers fi gallu wneud o yr blwyddyn yma	NSNT	NSNT
+279, 2	679, 1-5	FLO	*so* wna i ddechrau fe	NST	NST
+279, 3	680, 1-3	FLO	mae yn *sure*	NST	NST
+279, 4	680, 4-7	FLO	wneith yr athrawes gorffen	---	NSNT
+
+
+280, 1	681, 2-6	REG	oedd *Rhodri* yn gweud ddoe	NST	NST
+280, 2	681, 7-10	REG	pan mae fe neu	NSNT	NSNT
+280, 3	681, 11-21	REG	os mae fe yn bennu gwaith yn gynnar yn y dosbarth	NSNT	NSNT
+280, 4	681, 22-24	REG	mae nhw yn	---	NSNT
+
+
+281, 1	682, 1-1	FLO	*Alun*	---	NST
+
+
+282, 1	683, 1-1	REG	*Rhodri*	ST	NST
+282, 2	685, 1-4	REG	oedd e yn gweud	NSNT	NSNT
+282, 3	685, 5-5	REG	bod	NSNT	NSNT
+282, 4	685, 6-18	REG	bod e yn cael iwso yr we wedyn am am gweddill y wers	---	NSNT
+
+
+283, 1	686, 1-6	FLO	*yeah* ond bydden i yn meddwl	NST	NST
+283, 2	686, 7-14	FLO	bod e am yn gysylltiedig â yr gwaith	NSNT	NSNT
+283, 3	686, 15-16	FLO	mae fe	NSNT	NSNT
+283, 4	686, 17-23	FLO	wedi bod yn wneud yn y dosbarth	NSNT	NSNT
+283, 5	687, 1-7	FLO	gwaith estynedig mae nhw yn galw fe	NSNT	NSNT
+283, 6	688, 1-11	FLO	a basically mae disgwyl am blant defnyddio technoleg gwybodaeth pob cyfle	NSNT	SNT
+283, 7	688, 12-15	FLO	mae nhw yn cael	NSNT	NSNT
+283, 9	691, 1-11	FLO	*so* gwaith estynedig *lot* o nhw os yw yr adnoddau ar_gael	NST	NST
+283, 10	691, 12-20	FLO	yw hala nhw *off* i yr cyfrifiadur i parhau	---	NST
+
+
+284, 1	692, 1-5	REG	*so* mae un i gael	NST	NST
+284, 2	692, 6-6	REG	mae	NSNT	NSNT
+284, 3	692, 7-7	REG	mae	NSNT	NSNT
+284, 4	692, 8-16	REG	mae rhai i gael yn pob dosbarth nawr de	---	NSNT
+
+
+285, 1	693, 1-1	FLO	cyfrifiaduron	NSNT	NSNT
+285, 2	695, 1-4	FLO	*well* *yeah* i fod	NST	NST
+285, 3	696, 1-11	FLO	ond fi yn *sure* byddet ti yn mynd i rai ysgolion	NST	NST
+285, 4	696, 12-12	FLO	sy	NSNT	NSNT
+285, 5	696, 13-17	FLO	â ddim *lot* o arian	---	NST
+
+
+286, 1	697, 1-8	REG	sa i yn credu bod nhw yn *Trelech*	---	NST
+
+
+287, 1	698, 1-6	FLO	bydden i yn amau yn fawr	NSNT	NSNT
+287, 2	698, 7-9	FLO	petasai yr ysgol	---	NSNT
+
+
+288, 1	699, 1-18	REG	fi fi fi *just* yn cofio llynedd neu flwyddyn cyn hynny *just* un neu ddou oedd e ar_gael	NST	NST
+288, 2	699, 19-22	REG	oedd yn y neuadd	NSNT	NSNT
+288, 3	699, 23-24	REG	dyna i_gyd	---	NSNT
+
+
+289, 1	700, 1-18	FLO	a hyd_yn_oed wedyn byddai disgwyl i yr plant mynd a gallu defnyddio fe yn y neuadd pob cyfle	NSNT	NSNT
+289, 2	700, 19-22	FLO	mae nhw yn cael	---	NSNT
+
+
+290, 1	701, 1-2	REG	da iawn	---	NSNT
+
+
+291, 1	702, 1-9	FLO	achos mae e yn un o yr gofynion cyffredin	---	NSNT
+
+
+292, 1	703, 1-7	REG	i gwella teipio nhw hefyd neu beth	---	NSNT
+
+
+293, 1	704, 1-10	FLO	*well* popeth really unrhyw beth i wneud â technoleg gwybodaeth	NST	ST
+293, 2	705, 1-10	FLO	achos mwya o amser mae ymlaen mwya o o whare	---	NSNT
+
+
+294, 1	707, 1-4	REG	*yeah* fi gwybod hynny	NST	NST
+294, 2	708, 1-8	REG	ond odyw hynna yn dysgu sgiliau teipio i	NSNT	NSNT
+294, 3	709, 1-3	REG	timod ti ffaelu	---	NSNT
+
+
+295, 1	710, 1-2	FLO	*well* *yeah*	---	NST
+
+
+296, 1	711, 1-3	REG	ti ffaelu *just*	---	NST
+
+
+297, 1	712, 1-11	FLO	ond y *thing* is erbyn bod plant yn bedair dyddiau yma	NST	ST
+297, 2	712, 12-18	FLO	mae nhw yn gwybod fel i teipo	---	NSNT
+
+
+298, 1	713, 1-5	REG	*yeah* mae teipo i gael	---	NST
+
+
+298, 2	713, 6-10	REG	a mae teipo yn effeithiol	NSNT	NSNT
+299, 2	715, 1-8	FLO	paid iwso *t_shirt* ti i wneud hynna babe	---	ST
+
+
+300, 1	716, 1-6	REG	peth fi yn y stafell wely	NSNT	NSNT
+300, 2	718, 1-4	REG	mae marcyn fan yna	---	NSNT
+
+
+301, 1	719, 1-7	FLO	mae isie fi fynd a sorto mas	NSNT	NSNT
+301, 2	720, 1-8	FLO	mae rein yn bwyta mewn i fi nawr	---	NSNT
+
+
+302, 1	721, 1-13	REG	fi credu bod sa i yn gweld mor dda â beth wen i	NSNT	NSNT
+302, 2	722, 1-18	REG	fi yn gweld fi iwso rhein yn *lot* mwy aml nawr i ddarllen a o_flaen cyfrifiadur yn gwaith	---	NST
+
+
+303, 1	723, 1-9	FLO	fi yn gwybod bod *um* llygaid fi yn gwaethygu	---	NST
+
+
+304, 1	724, 1-4	REG	pryd ges i rhein	NSNT	NSNT
+304, 2	725, 1-7	REG	oedd e dyfe *just* cyn dechrau gwaith	---	NST
+
+
+305, 1	726, 1-2	FLO	blwyddyn yn_ôl	---	NSNT
+
+
+306, 1	727, 1-11	REG	*yeah* yfe *just* cyn dechrau yr gwaith coed oedd e yfe	NST	NST
+306, 2	728, 1-5	REG	neu oedd e nghanol gwaith	NSNT	NSNT
+306, 3	728, 6-15	REG	oedd e yng nghanol y tymor gynta o gwaith coed	NSNT	NSNT
+306, 4	728, 16-17	REG	oedd hwn	NSNT	NSNT
+306, 5	729, 1-18	REG	achos fi yn cofio ges i yr yswiriant dim ond achos bod fi yn wneud y gwaith coed	---	NSNT
+
+
+307, 1	730, 1-4	FLO	sa i yn cofio	NSNT	NSNT
+307, 2	731, 1-6	FLO	*ah* isie fi wneud *stuff* *Barnardo's*	---	NST
+
+
+308, 1	732, 1-4	REG	beth de yr *form*	---	NST
+
+
+309, 1	733, 1-6	FLO	y C_R_B a hawlio arian nôl	---	SNT
+
+
+310, 1	734, 1-7	REG	mae yn dod draw fory dyw hi	---	NSNT
+
+
+311, 1	736, 1-4	FLO	sa i yn fussed	---	SNT
+
+
+312, 1	737, 1-14	REG	*oh* fi yn mynd fi yn mynd i *Llanelli* nos Fercher i weld *Steff*	---	NST
+
+
+313, 1	738, 1-6	FLO	ti yn dod nôl wedyn though	---	SNT
+
+
+314, 1	739, 1-7	REG	odw odw o'n i *just* atgoffa ti	---	NST
+
+
+315, 1	740, 1-7	FLO	*so* fi gorfod coginio bwyd yn hunan	---	NST
+
+
+316, 1	741, 1-5	REG	*yeah* *so* it is then	---	NST
+
+
+317, 1	742, 1-4	FLO	beans on *toast* actually	---	NST
+
+
+318, 1	743, 1-3	REG	a bydd y	NSNT	NSNT
+318, 2	743, 4-8	REG	llestri dros y lle i_gyd	---	NSNT
+
+
+319, 1	744, 1-1	FLO	*hey*	---	NST
+
+
+320, 1	745, 1-7	REG	mas â pob *saucepan* sydd i gael	---	NST
+
+
+321, 1	746, 1-8	FLO	*oh* *yeah* gorfod wneud beans mewn *saucepan* nawr	ST	ST
+321, 2	747, 1-9	FLO	microwave hwnna ar y *list* o beth ni moyn	---	ST
+
+
+322, 1	748, 1-4	REG	sa i moyn un	---	NSNT
+
+
+323, 1	749, 1-3	FLO	fi isie un	---	NSNT
+
+
+324, 1	750, 1-5	REG	sa i yn colli un	---	NSNT
+
+
+325, 1	751, 1-4	FLO	ni yn cael un	---	NSNT
+
+
+326, 1	752, 1-5	REG	sa i yn gweld pam	---	NSNT
+
+
+327, 1	753, 1-5	FLO	achos mae fe yn *handy*	---	NST
+
+
+328, 1	754, 1-1	REG	i	---	NSNT
+
+
+329, 1	755, 1-8	FLO	twymo bwyd fel pwy ddydd fel bwyd neithiwr	NSNT	NSNT
+329, 2	756, 1-8	FLO	bydden ni wedi gallu aildwymo hwnna mewn microwave	---	SNT
+
+
+330, 1	757, 1-3	REG	neu mewn ffwrn	NSNT	NSNT
+330, 2	759, 1-1	REG	byddet	---	NSNT
+
+
+331, 1	760, 1-2	FLO	cymryd ages	NSNT	SNT
+331, 2	761, 1-4	FLO	microwave yn two seconds	SNT	SNT
+331, 4	764, 1-4	FLO	ni yn cael un	NSNT	NSNT
+331, 5	766, 1-2	FLO	ni yn	NSNT	NSNT
+331, 6	768, 1-2	FLO	ni yn	NSNT	NSNT
+331, 7	769, 1-6	FLO	*o_k* de yn lle computer de	ST	ST
+331, 8	770, 1-1	FLO	*eh*	ST	NST
+331, 9	771, 1-5	FLO	na fi gorfod cael cyfrifiadur	---	NSNT
+
+
+332, 1	772, 1-2	REG	*well* blaenoriaethu	---	NST
+
+
+333, 1	773, 1-7	FLO	mae e yn bosib cael dou blaenoriaeth	NSNT	NSNT
+333, 2	774, 1-17	FLO	*oh* *still* ddim wedi ffono *Gemma* a *Wyn* i weld os mae nhw mynd ar y *bus*	NST	NST
+333, 3	775, 1-2	FLO	atgoffa fi	---	NSNT
+
+
+334, 1	776, 1-5	REG	ti yn gallu wneud e	NSNT	NSNT
+334, 2	777, 1-6	REG	achos *um* byddwn ni ffaelu newid	---	NST
+
+
+335, 1	778, 1-5	FLO	na ni ffaelu newid e	NSNT	NSNT
+335, 2	779, 1-7	FLO	bydd raid nhw ddod lawr i Hendy	---	NSNT
+
+
+336, 1	780, 1-1	REG	ond	NSNT	NSNT
+336, 2	781, 1-8	REG	*yeah* bydd isie i *James* gael rhestr o	NST	NST
+336, 3	781, 9-14	REG	pwy sy yn dod ymlaen ble	---	NSNT
+
+
+337, 1	782, 1-3	FLO	*yeah* dim *problem*	NST	NST
+337, 2	783, 1-7	FLO	so i yn deall *Catherine* a *Craig*	---	NST
+
+
+338, 1	784, 1-4	REG	rhoi e lawr de	---	NSNT
+
+
+339, 1	785, 1-5	FLO	mae nhw yn gyrru lan	NSNT	NSNT
+339, 2	785, 6-12	FLO	pan bod *bus* yn stopo yn *Llanelli*	---	NST
+
+
+340, 1	786, 1-9	REG	*yeah* ond falle bod gyda nhw lle i aros	---	NST
+
+
+341, 1	787, 1-3	FLO	na does dim	NSNT	NSNT
+341, 2	788, 1-6	FLO	mae nhw yn gyrru nôl wedyn	NSNT	NSNT
+341, 3	789, 1-2	FLO	sa i	---	NSNT
+
+
+342, 1	790, 1-10	REG	falle bod *Simon* yn mynd lan gyda yr *rugby* anyway	---	ST
+
+
+343, 1	791, 1-4	FLO	*um* *Gemma* a *Wyn*	---	NST
+
+
+344, 1	792, 1-12	REG	ni dal heb cael yr *film* yna wedi cael ei datblygu eto	---	NST
+
+
+345, 1	793, 1-9	FLO	na so i wedi gorffen y *camera* dyna pam	NST	NST
+345, 2	794, 1-2	FLO	*oh* camerâu	NST	NST
+345, 3	795, 1-4	FLO	prynu dydd Sadwrn nesa	NSNT	NSNT
+345, 4	796, 1-5	FLO	i fynd ar y byrddau	---	NSNT
+
+
+346, 1	797, 1-3	REG	sawl bwrdd sydd	---	NSNT
+
+
+347, 1	798, 1-1	FLO	ugain	---	NSNT
+
+
+348, 1	799, 1-6	REG	*so* le mae *James* yn mynd	---	NST
+
+
+349, 1	800, 1-6	FLO	*um* gyda brawd a chwaer fi	NST	NST
+349, 2	801, 1-9	FLO	a geith *David* fynd gyda ei chwaer fawr e	NST	NST
+349, 3	802, 1-7	FLO	achos mae *Gwenno* yn dysgu fe anyway	NST	ST
+349, 4	803, 1-10	FLO	apparently mae *David* wedi troi *round* *right* a wedi gweud	NST	ST
+349, 5	804, 1-10	FLO	fi yn really edrych ymlaen at priodas *Reg* a *Florence*	---	ST
+
+
+350, 1	805, 1-4	REG	fi newydd cofio nawr	NSNT	NSNT
+350, 2	806, 1-1	REG	pwy	SNT	NSNT
+350, 4	808, 1-1	REG	*David*	ST	NST
+350, 5	810, 1-5	REG	sa i yn gwybod pwy	---	NSNT
+
+
+351, 1	811, 1-2	FLO	mab *John_Travolta*	---	NST
+
+
+352, 1	812, 1-3	REG	fi newydd meddwl	NSNT	NSNT
+352, 2	813, 1-2	REG	os mae	NSNT	NSNT
+352, 3	815, 1-7	REG	os mae *Neil* yn dod â rhywun	---	NST
+
+
+353, 1	816, 1-2	FLO	odyw e	---	NSNT
+
+
+354, 1	817, 1-6	REG	*yeah* sa i yn gwybod eto	NST	NST
+354, 2	819, 1-10	REG	achos ni wedi gweud plus one os bod e moyn	NSNT	SNT
+354, 3	819, 11-11	REG	dofe	NSNT	NSNT
+354, 4	821, 1-8	REG	bydd raid fi gofyn iddo fe penwythnos yma	---	NSNT
+
+
+355, 1	822, 1-6	FLO	*well* os mae dod â rywun	---	NST
+
+
+356, 1	823, 1-3	REG	all e mynd	NSNT	NSNT
+356, 2	823, 4-8	REG	all e mynd fan yna	---	NSNT
+
+
+357, 1	824, 1-11	FLO	neu galla i roi *Nanna* gyda *Jess* a *Rosie* a *Gary*	NST	NST
+357, 2	825, 1-1	FLO	achos	---	NSNT
+
+
+358, 1	826, 1-11	REG	na fi yn credu bydd e *nice* cael *Nanna* fan yna	---	NST
+
+
+359, 1	827, 1-10	FLO	grandparents ti mynd i weld go_chwith bod mam_gu fi yna	NSNT	SNT
+359, 2	827, 11-14	FLO	a bod nhw ddim	---	NSNT
+
+
+360, 1	828, 1-9	REG	*well* dim ond un o hi sydd i gael	NST	NST
+360, 2	830, 1-10	REG	allai *Neil* mynd man hyn a ffrind achos mai wyth	NST	NST
+360, 3	830, 11-13	REG	sy fan yna	---	NSNT
+
+
+361, 1	831, 1-4	FLO	gyda *Nerys* a *Rhian*	---	NST
+
+
+362, 1	832, 1-5	REG	*oh* bydd hynna yn *fine*	NST	NST
+362, 2	834, 1-15	REG	mae *Neil* yn gallu dal ei hunan yn yn cwmni unrhyw un though odyw e	NST	ST
+362, 3	835, 1-5	REG	mae yn dda fel yna	---	NSNT
+
+
+363, 1	836, 1-5	FLO	does dim plant bach bach	NSNT	NSNT
+363, 2	836, 6-7	FLO	oes e	---	NSNT
+
+
+364, 1	841, 1-2	REG	*yeah* mae	NST	NST
+364, 2	842, 1-2	REG	*yeah* babi	---	NST
+
+
+365, 1	843, 1-3	FLO	*o_k* blwydd oed	---	NST

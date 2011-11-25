@@ -1,0 +1,2736 @@
+
+
+1, 1	1, 1-12	EML	maen wedi peidio pedwar dryca sydd yn Amlwch yma tydyn mewn ffordd	---	NSNT
+
+
+2, 1	4, 1-3	GOR	*eh* wedi be	---	NST
+
+
+3, 1	5, 1-1	EML	dryca	---	NSNT
+
+
+4, 1	6, 1-1	CLV	ydyn	NSNT	NSNT
+4, 2	6, 2-7	CLV	mae nhw isio yr gwir ylwch	---	NSNT
+
+
+5, 1	7, 1-3	EML	dynion y môr	NSNT	NSNT
+5, 3	9, 1-3	EML	ffarmwr a *chemist*	NST	NST
+5, 4	10, 1-4	EML	a becar dw i	---	NSNT
+
+
+6, 1	11, 1-2	CLV	dyna fo	NSNT	NSNT
+6, 4	15, 1-8	CLV	maen wedi cael bob pen y pegwn rŵan	---	NSNT
+
+
+7, 1	16, 1-1	EML	be	---	NSNT
+
+
+8, 1	17, 1-7	CLV	maen wedi cael bob pen y pegwn	---	NSNT
+
+
+9, 1	18, 1-9	GOR	sôn am môr na dim_byd rŵan Stan nag oes	---	NSNT
+
+
+10, 1	19, 1-8	STN	nag oes diawl o neb yn mynd o	---	NSNT
+
+
+11, 1	20, 1-7	GOR	nag oes neb o fan yma rŵan	---	NSNT
+
+
+12, 1	21, 1-5	INT	oh sbïwch chi o Cemaes	---	NSNT
+
+
+13, 1	22, 1-7	GOR	does yna neb o fan yna chwaith	---	NSNT
+
+
+14, 1	23, 1-1	INT	Amlwch	---	NSNT
+
+
+15, 1	24, 1-1	GOR	Moelfre	---	NSNT
+
+
+16, 1	25, 1-2	INT	Bull_Bay Moelfre	NSNT	NSNT
+16, 2	26, 1-3	INT	oedd o de	---	NSNT
+
+
+17, 1	27, 1-5	GOR	yeah doedd yna dim_byd arall	---	NSNT
+
+
+18, 1	29, 1-10	STN	toedd yna mond *er* i fynd ar y *farm* te	NST	NST
+18, 2	31, 1-5	STN	a gweithio am fuck_all de	---	SNT
+
+
+19, 1	32, 1-3	EML	ia yr iaith	---	NSNT
+
+
+20, 1	34, 1-5	GOR	fydd yna bleep ar hwnna	---	SNT
+
+
+21, 1	35, 1-1	EML	*eh*	---	NST
+
+
+22, 1	36, 1-5	GOR	fydd yna bleep ar hwnna	---	SNT
+
+
+23, 1	37, 1-1	STN	bydd	---	NSNT
+
+
+24, 1	38, 1-2	EML	oh bydd	---	NSNT
+
+
+25, 1	39, 1-1	GOR	*beep*	---	NST
+
+
+26, 1	43, 1-1	EML	bydd	---	NSNT
+
+
+27, 1	44, 1-1	GOR	bydd	---	NSNT
+
+
+28, 1	45, 1-3	STN	ia neu sti	NSNT	NSNT
+28, 2	45, 4-8	STN	fyddan ni mynd i yr	---	NSNT
+
+
+29, 1	46, 1-1	EML	yli	NSNT	NSNT
+29, 2	46, 2-3	EML	dyna chdi	---	NSNT
+
+
+30, 1	48, 1-5	STN	deg punt y mis de	---	NSNT
+
+
+31, 1	49, 1-3	INT	dim gyn i	NSNT	NSNT
+31, 2	51, 1-3	INT	ydy becws yn	---	NSNT
+
+
+32, 1	52, 1-3	STN	be oedd o	---	NSNT
+
+
+33, 1	54, 1-6	INT	*er* ble mae yn mynd rŵan	---	NST
+
+
+34, 1	55, 1-2	EML	becws Brynteg	---	NSNT
+
+
+35, 1	56, 1-7	GOR	mae yna ddau *fungalow* mynd yna rŵan	---	NST
+
+
+36, 1	57, 1-1	INT	naci	---	NSNT
+
+
+37, 1	59, 1-1	GOR	Brynteg	---	NSNT
+
+
+38, 1	60, 1-2	INT	yn California	---	NSNT
+
+
+39, 1	61, 1-3	EML	bakehouse Brynteg yeah	---	SNT
+
+
+40, 1	62, 1-2	INT	ia Brynteg	NSNT	NSNT
+40, 2	64, 1-4	INT	ydy o mynd rŵan	---	NSNT
+
+
+41, 1	65, 1-2	EML	nac ydy	NSNT	NSNT
+41, 2	65, 3-11	EML	maen wedi wneud o yn dai wan fath â	NSNT	NSNT
+41, 3	65, 12-13	EML	mae Dyfan	---	NSNT
+
+
+42, 1	66, 1-6	INT	oh tai ydy fan yno hefyd	---	NSNT
+
+
+43, 1	69, 1-2	EML	ia mae	---	NSNT
+
+
+44, 1	70, 1-3	STN	be yn California	---	NSNT
+
+
+45, 1	73, 1-7	GOR	ddim yn y yn y oh *hotel*	---	NST
+
+
+46, 1	74, 1-2	STN	oh naci	---	NSNT
+
+
+47, 1	75, 1-5	GOR	yn yr *er* bakehouse de	---	ST
+
+
+48, 1	77, 1-1	INT	bakehouse	---	NSNT
+
+
+49, 1	79, 1-7	EML	y *boy* oedd biau y bakehouse ers_talwm	NST	ST
+49, 2	79, 8-9	EML	oedd John_Thomas	NSNT	NSNT
+49, 3	80, 1-8	EML	a mi aeth i gadw yr tŷ tafarn	NSNT	NSNT
+49, 5	82, 1-1	EML	Cali	NSNT	NSNT
+49, 7	85, 1-5	EML	yfo ddechreuodd y Cali *off*	NST	NST
+49, 8	87, 1-5	EML	a wedyn ddoth Mr_Willoughby yna	---	NSNT
+
+
+50, 1	88, 1-4	INT	oh unknown i mi	---	SNT
+
+
+51, 1	89, 1-1	EML	yn_te	NSNT	NSNT
+51, 3	92, 1-3	EML	a wedyn fuodd	NSNT	NSNT
+51, 4	93, 1-7	EML	dw ddim yn cofio enw yr *boy*	NST	NST
+51, 5	93, 8-9	EML	ddoth wedyn	NSNT	NSNT
+51, 6	95, 1-9	EML	*er* fo sy wedi codi Cali ar ei draed	NST	NST
+51, 7	95, 10-11	EML	te fel	NSNT	NSNT
+51, 8	95, 12-15	EML	mae o heddiw felly	---	NSNT
+
+
+52, 1	97, 1-8	GOR	i cofio mynd yna i beintio ryw faniau	---	NSNT
+
+
+53, 1	98, 1-1	EML	hapus	---	NSNT
+
+
+54, 1	100, 1-8	GOR	roler gyn i yn peintio *van* *van* *er*	NST	NST
+54, 2	101, 1-5	GOR	be oedd enw o dŵad	---	NSNT
+
+
+55, 1	102, 1-2	EML	bakehouse *er*	---	NST
+
+
+56, 1	105, 1-1	STN	Goronwy	---	NSNT
+
+
+57, 1	106, 1-2	GOR	*er* Albison	---	NST
+
+
+58, 1	107, 1-4	EML	Albison oedd o ia	---	NSNT
+59, 2	111, 1-12	INT	a wrth y bakehouse o'n i yn troi i yr dde wedyn	NSNT	SNT
+59, 3	112, 1-4	INT	wn i ddim lle	---	NSNT
+
+
+60, 1	113, 1-7	GOR	mynd am *Llannerch_y_medd* basech chi ffordd yno	---	NST
+
+
+61, 1	119, 1-4	EML	yeah yeah dyna chdi	---	NSNT
+
+
+62, 1	125, 1-7	INT	a wyddoch chi dod â fo nôl	---	NSNT
+
+
+63, 1	126, 1-3	EML	na wn i	---	NSNT
+
+
+64, 1	127, 1-4	INT	gwaith pnawn oedd yna	NSNT	NSNT
+64, 2	129, 1-2	INT	i acw	NSNT	NSNT
+64, 3	131, 1-2	INT	dyna chi	---	NSNT
+
+
+65, 1	132, 1-6	GOR	be oeddech chi wneud fan yno	---	NSNT
+
+
+66, 1	134, 1-1	INT	dyrnu	---	NSNT
+
+
+67, 1	135, 1-1	GOR	dyrnu	NSNT	NSNT
+67, 2	137, 2-5	GOR	gynnoch chi ddyrnwr Ianto	---	NSNT
+
+
+68, 1	138, 1-2	INT	nag oedd	---	NSNT
+
+
+69, 1	140, 1-1	GOR	Duw	NSNT	NSNT
+69, 2	141, 1-6	GOR	yna dim_byd felly rŵan nag oes	NSNT	NSNT
+69, 3	142, 1-4	GOR	well nag oes rŵan	---	NSNT
+
+
+70, 1	143, 1-3	INT	nag oes dim	---	NSNT
+
+
+71, 1	144, 1-3	GOR	gombined rŵan dydy	---	SNT
+
+
+72, 1	146, 1-5	EML	does yna ddim *fashion* beth	NST	NST
+72, 2	146, 6-6	EML	â	---	NSNT
+
+
+73, 1	147, 1-1	INT	mae	NSNT	NSNT
+73, 2	147, 2-4	INT	dyn wedi gwneud	NSNT	NSNT
+73, 3	147, 5-9	INT	dyn allan o waith heddiw	NSNT	NSNT
+73, 4	147, 10-10	INT	dydy	NSNT	NSNT
+73, 6	149, 1-5	INT	dau ddyn sy isio i	NSNT	NSNT
+73, 7	150, 1-4	INT	un ar y *combine*	---	NST
+
+
+74, 1	151, 1-1	GOR	un	---	NSNT
+
+
+75, 1	154, 1-9	INT	un ar y un arall i gael o i_fewn	NSNT	NSNT
+75, 2	155, 1-3	INT	dau sy isio	NSNT	NSNT
+75, 3	157, 1-3	INT	dorri o fo	NSNT	NSNT
+75, 4	159, 1-8	INT	ei gario fo chwech wsnos cyn ei ddyrnu	NSNT	NSNT
+75, 5	160, 1-5	INT	isio seventeen i ddyrnu wedyn	---	SNT
+
+
+76, 1	164, 1-2	EML	oedd yna	NSNT	NSNT
+76, 2	164, 3-6	EML	byddai yna hel giang	NSNT	NSNT
+76, 3	164, 7-7	EML	byddai	---	NSNT
+
+
+77, 1	165, 1-1	INT	arglwydd	---	NSNT
+
+
+78, 1	167, 1-4	EML	oedd yna hen *whistle*	---	NST
+
+
+79, 1	168, 1-2	INT	isio toedd	---	NSNT
+
+
+80, 1	169, 1-8	EML	oedd yna hen *whistle* yn mynd yn bore	---	NST
+
+
+81, 1	171, 1-3	INT	a yr gwyliau	---	NSNT
+
+
+82, 1	172, 1-3	EML	yn hel giang	NSNT	NSNT
+82, 2	174, 1-1	EML	byddai	---	NSNT
+
+
+83, 1	175, 1-16	GOR	ddeuda i chi un peth de chlywais i erioed ddim o Stan yma mor mor ddistaw	---	NSNT
+
+
+84, 1	176, 1-1	INT	naddo	NSNT	NSNT
+84, 4	179, 1-5	INT	fydd o ddim pnawn yma	---	NSNT
+
+
+85, 1	182, 1-7	EML	fyddan ni wedi mynd allan o wynt	NSNT	NSNT
+85, 2	183, 1-6	EML	a fydd Stan yn dod i_fewn	NSNT	NSNT
+85, 3	183, 7-9	EML	te fel *support*	---	NST
+
+
+86, 1	184, 1-8	GOR	yeah chlywais i erioed ddim ohono mor ddistaw	---	NSNT
+
+
+87, 1	185, 1-2	INT	oh Duw	---	NSNT
+
+
+88, 1	186, 1-7	STN	dan ni ddim yn yr *office* nac	NST	NST
+88, 2	186, 8-8	STN	ydan	---	NSNT
+
+
+89, 1	190, 1-1	INT	ond	---	NSNT
+
+
+90, 1	191, 1-3	STN	yn yr *office*	---	NST
+
+
+91, 1	193, 1-5	INT	under the *stairs* dan ni	---	ST
+
+
+92, 1	196, 1-2	STN	ia da	NSNT	NSNT
+92, 4	199, 2-3	STN	mae nhw	NSNT	NSNT
+92, 5	199, 4-7	STN	mae nhw pasio a	NSNT	NSNT
+92, 6	199, 8-9	STN	na fydd	NSNT	NSNT
+92, 7	199, 10-13	STN	bydd Lyn yn gofyn	NSNT	NSNT
+92, 8	199, 14-18	STN	bydd yn gweld y botel	NSNT	NSNT
+92, 9	199, 19-19	STN	bydd	---	NSNT
+
+
+93, 1	201, 1-3	EML	lle mae *er*	NST	NST
+93, 2	201, 4-10	EML	be ydy enw hi chief of *staff*	---	ST
+
+
+94, 1	202, 1-2	GOR	oh dw	NSNT	NSNT
+94, 2	202, 3-4	GOR	dw meddwl	NSNT	NSNT
+94, 3	202, 5-10	GOR	bod hi yma wsnos yma nac	---	NSNT
+
+
+95, 1	203, 1-6	EML	oh na *matron* ddim nac ydy	NST	NST
+95, 3	205, 1-4	EML	na y *er* *er*	---	NST
+
+
+96, 1	206, 1-1	GOR	Elin	---	NSNT
+
+
+97, 1	207, 1-2	EML	Elin ia	---	NSNT
+
+
+98, 1	208, 1-4	GOR	oh wn i ddim	NSNT	NSNT
+98, 2	208, 5-9	GOR	lle mae wedi mynd rŵan	---	NSNT
+
+
+99, 1	209, 1-7	EML	mae wedi mynd i guddiad i rywle	---	NSNT
+
+
+100, 1	210, 1-5	GOR	nôl nôl diferyn ni wan	---	NSNT
+
+
+101, 1	211, 1-4	STN	un garw ydy hi	NSNT	NSNT
+101, 3	214, 1-3	STN	hen hogan iawn	---	NSNT
+
+
+102, 1	216, 1-1	EML	*champion*	---	NST
+
+
+103, 1	218, 1-2	STN	*champion* yeah	---	NST
+
+
+104, 1	219, 1-7	INT	does yna ddim dewis rhwng y ddwy	NSNT	NSNT
+104, 2	219, 8-9	INT	nag oes	---	NSNT
+
+
+105, 1	220, 1-2	EML	nag oes	NSNT	NSNT
+105, 4	223, 1-13	EML	well i ddeud y gwir wrthach chi *er* y *staff* i_gyd sy yma	NST	NST
+105, 5	226, 1-3	EML	dw i ddim	NSNT	NSNT
+105, 6	226, 4-9	EML	wedi bod yma mond tair wsnos	NSNT	NSNT
+105, 7	227, 1-2	EML	a dw	NSNT	NSNT
+105, 8	227, 3-13	EML	dw i erioed wedi gweld gymaint o o o ffeindrwydd a	---	NSNT
+
+
+106, 1	228, 1-3	INT	argoel dw i	NSNT	NSNT
+106, 2	228, 4-8	INT	wedi bod yma am bedair	---	NSNT
+
+
+107, 1	229, 1-2	STN	pedair blynedd	---	NSNT
+
+
+108, 1	230, 1-3	INT	dros bedair blynedd	---	NSNT
+
+
+109, 1	231, 1-1	EML	chi	NSNT	NSNT
+109, 2	233, 1-1	EML	ew	---	NSNT
+
+
+110, 1	234, 1-9	INT	yr hen fuo fo yma dros ugain mlynedd wchi	---	NSNT
+
+
+111, 1	238, 1-12	EML	oh mi welais i o cynta ddois i yma trwy yr drws	NSNT	NSNT
+111, 2	239, 1-7	EML	a oedd hen a a rhyw *foy*	NST	NST
+111, 3	241, 1-5	EML	oh chi oedd efo fo	NSNT	NSNT
+111, 4	243, 1-6	EML	yeah bore yna ddois i fewn	NSNT	NSNT
+111, 5	245, 1-3	EML	i gael *bath*	---	NST
+
+
+112, 1	246, 1-2	INT	dyna chi	NSNT	NSNT
+112, 2	248, 1-3	INT	dyna chi gymeriad	---	NSNT
+
+
+113, 1	249, 1-5	EML	cofio rŵan na chi oedd	NSNT	NSNT
+113, 2	249, 6-7	EML	oedd efo	---	NSNT
+
+
+114, 1	250, 1-2	INT	fi oedd	NSNT	NSNT
+114, 2	251, 1-4	INT	dyna chi gymeriad yn_doedd	---	NSNT
+
+
+115, 1	254, 1-7	EML	ac oedd o mynd am y merched	NSNT	NSNT
+115, 2	254, 8-8	EML	te	---	NSNT
+
+
+116, 1	263, 1-8	INT	dydy yr *type* yna ddim o_gwmpas heddiw chwaith	---	NST
+
+
+117, 1	265, 1-4	EML	mae nhw i_gyd wedi	---	NSNT
+
+
+118, 1	266, 1-8	INT	neu mae nhw *far* few and *far* between	ST	ST
+118, 2	266, 9-9	INT	dydy	---	NSNT
+
+
+119, 1	267, 1-3	GOR	wn i ddim	NSNT	NSNT
+119, 2	267, 4-19	GOR	wn i ddim o'n i wedi gweld Twm yma ers pan o'n i yr ysgol nes	NSNT	NSNT
+119, 3	267, 20-23	GOR	dois i fan yma	---	NSNT
+
+
+120, 1	271, 1-4	INT	arglwydd wyddoch chi be	NSNT	NSNT
+120, 2	273, 1-4	INT	wyddoch chi Arthur *butchers*	NST	NST
+120, 3	275, 1-14	INT	fuais i nôl papur ar fore dydd Gwener beth bynnag oedd hi a galw	NSNT	NSNT
+120, 4	276, 1-10	INT	a pwy drawais i yn yn *shop* papur ond Arthur	NST	NST
+120, 5	278, 1-5	INT	ers fuon ni yr ysgol	---	NSNT
+
+
+121, 1	279, 1-18	GOR	yeah dw ddim meddwl mod innau yn wedi eich gweld chi ers pan o'n ni yr ysgol nes	NSNT	NSNT
+121, 2	279, 19-26	GOR	dois i fan yma yr noson Dolig yno	---	NSNT
+
+
+122, 1	280, 1-1	INT	naddo	---	NSNT
+
+
+123, 1	283, 1-6	GOR	ac oedden ni yr un *class*	---	NST
+
+
+124, 1	286, 1-7	INT	a dw byth wedi gweld Arthur wedyn	NSNT	NSNT
+124, 2	288, 1-2	INT	gweld Ifan	---	NSNT
+
+
+125, 1	289, 1-12	EML	oh mi oedd yna un arall un arall yn chwilio am Arthur	NSNT	NSNT
+125, 2	290, 1-4	EML	oedd o yma ddoe	NSNT	NSNT
+125, 3	291, 1-4	EML	oh ei frawd o	---	NSNT
+
+
+126, 1	292, 1-2	INT	oh Ifan	---	NSNT
+
+
+127, 1	293, 1-1	STN	Ifan	---	NSNT
+
+
+128, 1	294, 1-4	EML	na Arthur ei hun	---	NSNT
+
+
+129, 1	295, 1-3	CLV	Arthur ei hun	NSNT	NSNT
+129, 2	295, 4-6	CLV	oedd yma ddoe	---	NSNT
+
+
+130, 1	297, 1-4	STN	Arthur oedd yma yeah	---	NSNT
+
+
+131, 1	298, 1-9	EML	oedd yn chwarae yn chwarae yn chwarae *bowls* felly	NST	NST
+131, 2	300, 1-8	EML	oedd chwarae *bowls* hefo fi yn Amlwch yma	---	NST
+
+
+132, 1	302, 1-2	INT	dyna fo	---	NSNT
+
+
+133, 1	303, 1-6	EML	a dyma fo yn dŵad a	NSNT	NSNT
+133, 2	304, 1-7	EML	ew be ti yn da fan yma	NSNT	NSNT
+133, 3	305, 1-3	EML	meddai wrtha i	NSNT	NSNT
+133, 5	307, 1-6	EML	a ond adnabodais i ddim ohono	NSNT	NSNT
+133, 6	308, 1-7	EML	a mi oedd wraig o efo fo	---	NSNT
+
+
+134, 1	309, 1-1	GOR	Edwina	---	NSNT
+
+
+135, 1	313, 1-6	INT	mae nhw yn byw yn acw	NSNT	NSNT
+135, 2	313, 7-7	INT	wchi	---	NSNT
+
+
+136, 1	317, 1-8	GOR	yeah yn Ben_Sarn mae nhw yn byw rŵan	---	NSNT
+
+
+137, 1	322, 1-2	EML	oh mae	NSNT	NSNT
+137, 2	322, 3-8	EML	gynnon nhw ryw le *nice* iawn	NST	NST
+137, 3	322, 9-9	EML	does	---	NSNT
+
+
+138, 1	323, 1-4	GOR	wn i ddim achan	---	NSNT
+
+
+139, 1	324, 1-3	INT	wn i ddim	NSNT	NSNT
+139, 2	324, 4-4	INT	wchi	---	NSNT
+
+
+140, 1	326, 1-2	EML	dw i	NSNT	NSNT
+140, 2	326, 3-5	EML	wedi bod yna	---	NSNT
+
+
+141, 1	328, 1-1	INT	duwc	---	NSNT
+
+
+142, 1	329, 1-3	EML	*er* be fydd	NST	NST
+142, 2	329, 4-8	EML	be ydy enw fo dŵad	---	NSNT
+
+
+143, 1	330, 1-1	STN	Casablanca	NSNT	NSNT
+143, 2	331, 1-1	STN	Casablanca	---	NSNT
+
+
+144, 1	333, 1-2	CLV	Casablanca yeah	---	NSNT
+
+
+145, 1	334, 1-1	EML	Casablanca	NSNT	NSNT
+145, 4	339, 1-2	EML	ew mae	NSNT	NSNT
+145, 5	339, 3-7	EML	mae o yn Gasablanca hefyd	---	NSNT
+
+
+146, 1	340, 1-3	GOR	yeah mae o	NSNT	NSNT
+146, 2	340, 4-7	GOR	dan fan yna rywle	NSNT	NSNT
+146, 3	340, 8-8	GOR	dydy	---	NSNT
+
+
+147, 1	343, 1-2	INT	oh meddwl	NSNT	NSNT
+147, 2	343, 3-8	INT	meddyliwch amdanyn nhw yn Ben_rhyd acw	NSNT	NSNT
+147, 3	344, 1-4	INT	cofio Mrs_Wyn yn gwaelod	---	NSNT
+
+
+148, 1	345, 1-6	GOR	ah fasai Emlyn wedi nabod hi	---	NSNT
+
+
+149, 1	346, 1-2	EML	nag o'n	---	NSNT
+
+
+150, 1	347, 1-5	INT	digon o waith mae sure	---	NSNT
+
+
+151, 1	349, 1-5	EML	dw i ddim yn dŵad	---	NSNT
+
+
+152, 1	351, 1-6	GOR	*mam* Dyfan dach chi feddwl yeah	---	NST
+
+
+153, 1	353, 1-2	CLV	ia Dyfan	---	NSNT
+
+
+154, 1	355, 1-10	INT	oh mwy fyny rŵan mae yna bump o *fungalows* yna	NST	NST
+154, 2	357, 1-7	INT	a wyddoch chi be ydy enw fo	NSNT	NSNT
+154, 3	358, 1-1	INT	Kensington_Close	NSNT	NSNT
+154, 7	365, 1-3	INT	oh *dear* *me*	---	NST
+
+
+155, 1	366, 1-3	EML	ia enw *nice*	---	NST
+
+
+156, 1	367, 1-6	INT	na mae bob man wedi newid	---	NSNT
+
+
+157, 1	369, 1-10	GOR	oh gormod o yr bobl ddiarth yma sy dod yma	NSNT	NSNT
+157, 2	369, 12-16	GOR	sy wedi newid bob peth	---	NSNT
+
+
+158, 1	370, 1-6	EML	be basech chi yn ddeud rŵan	---	NSNT
+
+
+159, 1	373, 1-6	CLV	nhw sy wedi gwneud y newid	---	NSNT
+
+
+160, 1	374, 1-6	GOR	ynhw sy wedi difetha yr lle	---	NSNT
+
+
+161, 1	375, 1-2	EML	er gwell	---	NSNT
+
+
+162, 1	376, 1-10	CLV	ia dod â eu ffordd nhw i_fewn mae nhw ylwch	---	NSNT
+
+
+163, 1	378, 1-2	EML	a gwaeth	---	NSNT
+
+
+164, 1	380, 1-2	INT	gwaeth de	---	NSNT
+
+
+165, 1	381, 1-7	EML	dach chi wedi deud yn fan yna	NSNT	NSNT
+165, 2	382, 1-3	EML	mae wedi newid	---	NSNT
+
+
+166, 1	383, 1-4	INT	gwaeth dw i ddeud	NSNT	NSNT
+166, 2	385, 1-5	INT	does yna ddim cymdogaeth heddiw	NSNT	NSNT
+166, 3	385, 6-7	INT	nag oes	---	NSNT
+
+
+167, 1	387, 1-2	EML	nag oes	NSNT	NSNT
+167, 2	387, 3-5	EML	mae hynny yni	---	NSNT
+
+
+168, 1	388, 1-8	INT	dim ots gyn neb am neb nag ydy	---	NSNT
+
+
+169, 1	389, 1-3	STN	y drwg oedd	---	NSNT
+
+
+170, 1	390, 1-2	EML	nac ydy	---	NSNT
+
+
+171, 1	392, 1-15	STN	oedd y *council* yn cael pres gyn *council* Manchester a Lerpwl i gael pobl yma	---	ST
+
+
+172, 1	393, 1-5	CLV	influx o o Sais de	---	SNT
+
+
+173, 1	394, 1-10	STN	ac mi oedden nhw yn cael tai *council* o_flaen rei	NST	NST
+173, 2	394, 11-15	STN	oedd yn byw yma erioed	NSNT	NSNT
+173, 3	395, 1-1	STN	dyna	NSNT	NSNT
+173, 4	395, 2-4	STN	oedd y drwg	NSNT	NSNT
+173, 5	397, 1-7	STN	mi oedden nhw yn gael nhw hefyd	---	NSNT
+
+
+174, 1	398, 1-3	EML	ond mae yna	---	NSNT
+
+
+175, 1	399, 1-8	CLV	yeah eu cael nhw cael nhw yma te	---	NSNT
+
+
+176, 1	401, 1-6	EML	yeah oh dw i wedi clywed	NSNT	NSNT
+176, 2	401, 7-13	EML	mae o wedi digwydd rŵan eto yn	---	NSNT
+
+
+177, 1	402, 1-1	STN	Cemaes	---	NSNT
+
+
+178, 1	403, 1-5	EML	lle dw i yn byw	---	NSNT
+
+
+179, 1	404, 3-4	STN	mae sure	---	NSNT
+
+
+180, 1	405, 1-2	EML	yn um	---	NSNT
+
+
+181, 1	406, 1-2	STN	goelia i	---	NSNT
+
+
+182, 1	407, 1-1	GOR	Maes_Alaw	---	NSNT
+
+
+183, 1	408, 1-1	EML	Maes_Ala	NSNT	NSNT
+183, 2	409, 1-11	EML	mae yna ddau dau Sais wedi cael y *bungalows* o_flaen Cymry	---	NST
+
+
+184, 1	410, 1-5	STN	oh ia debyg cân mi	NSNT	NSNT
+184, 2	410, 6-7	STN	cân cân	---	NSNT
+
+
+185, 1	411, 1-2	INT	well ia	---	NSNT
+
+
+186, 1	412, 1-5	GOR	ydy rheina wedi gosod rŵan	---	NSNT
+
+
+187, 1	413, 1-1	EML	ydyn	---	NSNT
+
+
+188, 1	414, 1-1	STN	wchi	NSNT	NSNT
+188, 2	414, 2-6	STN	mae nhw yn cael pres	---	NSNT
+
+
+189, 1	415, 1-3	EML	dw i meddwl	---	NSNT
+
+
+190, 1	416, 1-5	GOR	dw i ddim yn meddwl	---	NSNT
+
+
+191, 1	417, 1-1	EML	well	---	NSNT
+
+
+192, 1	418, 1-1	GOR	dw	NSNT	NSNT
+192, 2	418, 2-6	GOR	dw i ddim yn meddwl	NSNT	NSNT
+192, 3	418, 7-13	GOR	bod *er* un gwraig Wil_Parry wedi gosod	NST	NST
+192, 4	419, 1-6	GOR	dydy ddim yma ers blwyddyn nac	---	NSNT
+
+
+193, 1	420, 1-2	EML	nac ydy	---	NSNT
+
+
+194, 1	421, 1-5	GOR	cân eu cadw am flwyddyn	NSNT	NSNT
+194, 2	421, 6-6	GOR	sti	NSNT	NSNT
+194, 3	422, 1-9	GOR	mae nhw cael eu cadw iddyn nhw am flwyddyn	---	NSNT
+
+
+195, 1	423, 1-7	EML	mae o'n i siarad efo gwraig Wil_Parry	NSNT	NSNT
+195, 2	424, 1-5	EML	ac oedd hi yn deud	NSNT	NSNT
+195, 3	424, 6-17	EML	bod hi wedi peth yna wedi gwagio yr tŷ a bob peth	---	NSNT
+
+
+196, 1	425, 1-3	GOR	oh well oh	---	NSNT
+
+
+197, 1	426, 1-8	INT	well cymerwch cymrwch chi ffordd yma wedyn te	NSNT	NSNT
+197, 2	426, 9-17	INT	mae yr Sais mwy o jawnswr na yr Cymro	NSNT	NSNT
+197, 3	426, 18-18	INT	dydy	---	NSNT
+
+
+198, 1	427, 1-1	EML	be	---	NSNT
+
+
+199, 1	428, 1-9	INT	mae yr Sais mwy o jawnswr na yr Cymro	NSNT	NSNT
+199, 2	428, 10-10	INT	dydy	NSNT	NSNT
+199, 3	429, 1-2	INT	sbïwch chi	NSNT	NSNT
+199, 4	429, 3-7	INT	does yna yna ddim *shop*	---	NST
+
+
+200, 1	430, 1-3	CLV	ydy mwy ymlaen	NSNT	NSNT
+200, 2	430, 4-5	CLV	mae o	NSNT	NSNT
+200, 3	430, 6-6	CLV	te	---	NSNT
+
+
+201, 1	431, 1-9	INT	does yna ddim *shop* yn Amlwch heblaw y Sais	NST	NST
+201, 2	432, 1-4	INT	Kwiks a yr Spar	---	NSNT
+
+
+202, 1	433, 1-7	EML	be wnaeth chi feddwl na yr Saeson	NSNT	NSNT
+202, 2	433, 8-9	EML	ydyn nhw	---	NSNT
+
+
+203, 1	434, 1-1	INT	*eh*	---	NST
+
+
+204, 1	435, 1-7	EML	be wnaeth chi feddwl na yr Saeson	NSNT	NSNT
+204, 2	435, 8-9	EML	ydyn nhw	---	NSNT
+
+
+205, 1	436, 1-3	INT	argoel mawr ia	NSNT	NSNT
+205, 2	437, 1-2	INT	*er* Somerfield	NST	NST
+205, 3	439, 1-3	INT	a yr Spar	---	NSNT
+
+
+206, 1	440, 1-5	STN	arglwydd chlywais i yr *fashion*	---	NST
+
+
+207, 1	441, 1-8	EML	Duw *bloody* Americans ydy rhan fwya ohonyn nhw	---	ST
+
+
+208, 1	442, 1-2	INT	twt yeah	NSNT	NSNT
+208, 2	443, 1-8	INT	oh ddim ond Sais ydyn nhw yn diwedd	---	NSNT
+
+
+209, 1	444, 1-6	EML	*eh* raid ni beidio mynd i_fewn	---	NST
+
+
+210, 1	445, 1-10	INT	a naci cymrwch chi cymrwch chi Llangefni yr un fath	NSNT	NSNT
+210, 2	446, 1-6	INT	mae yr siopau mawr wedi mynd	NSNT	NSNT
+210, 3	446, 7-7	INT	tydy	NSNT	NSNT
+210, 4	448, 1-9	INT	mae yr *shop* fawr wedi lladd siopau bach i_gyd	NST	NST
+210, 5	448, 10-10	INT	wchi	---	NSNT
+
+
+211, 1	450, 1-6	GOR	oh arnan ni mae yr bai	---	NSNT
+
+
+212, 1	451, 1-4	STN	ia ia tad yeah	---	NSNT
+
+
+213, 1	452, 1-18	INT	well yr un fath ag o'n i yn deud wrthach chi rŵan mae yr Sais fwy o jawnswr	---	NSNT
+
+
+214, 1	454, 1-7	GOR	well yeah arnan ni mae yr bai	NSNT	NSNT
+214, 2	456, 1-4	GOR	dan ni ddim yna	NSNT	NSNT
+214, 3	456, 5-6	GOR	nag ydan	---	NSNT
+
+
+215, 1	457, 1-3	EML	am bod o	NSNT	NSNT
+215, 2	457, 4-5	EML	am bod	---	NSNT
+
+
+216, 1	458, 1-5	STN	gawn ni fynd am am	---	NSNT
+
+
+217, 1	459, 1-10	GOR	am bod o ddrytach na yr siopau siopau mawr yma	---	NSNT
+
+
+218, 1	460, 1-5	EML	siopau mawr yn rhatach yn_de	---	NSNT
+
+
+219, 1	461, 1-2	INT	well ia	---	NSNT
+
+
+220, 1	463, 1-4	EML	y gwir amdani ydy	---	NSNT
+
+
+221, 1	464, 1-4	INT	dyna chi *shop* bach	NST	NST
+221, 2	464, 5-11	INT	de prynu wrth y *box* i_fewn dydyn	NST	NST
+221, 3	467, 1-10	INT	oh yr argoel mae rheina yn prynu wrth y tunelli	---	NSNT
+
+
+222, 1	468, 1-1	GOR	ydyn	NSNT	NSNT
+222, 2	470, 1-4	GOR	ydy ond ia dweud	NSNT	NSNT
+222, 3	470, 5-8	GOR	dw i na ni	NSNT	NSNT
+222, 4	470, 9-17	GOR	sy wedi cau nhw siopau bach ddim yn mynd	NSNT	NSNT
+222, 5	470, 18-19	GOR	atyn nhw	---	NSNT
+
+
+223, 1	473, 1-7	STN	bendant does yna ddim *doubt* am hynny	---	NST
+
+
+224, 1	474, 1-1	GOR	te	---	NSNT
+
+
+225, 1	476, 1-7	INT	well yeah cofiwch chi ffordd arall wedyn	NSNT	NSNT
+225, 2	476, 9-13	INT	dyna chi yr bunt heddiw	NSNT	NSNT
+225, 3	476, 14-15	INT	mae fychan	NSNT	NSNT
+225, 4	476, 16-16	INT	dydy	NSNT	NSNT
+225, 5	477, 1-9	INT	mae yn mynd yn bellach i lawer un wedyn	NSNT	NSNT
+225, 6	477, 10-10	INT	dydy	NSNT	NSNT
+225, 7	478, 1-1	INT	dyna	NSNT	NSNT
+225, 8	478, 2-3	INT	sut mae	NSNT	NSNT
+225, 9	478, 4-4	INT	te	---	NSNT
+
+
+226, 1	479, 1-2	GOR	na dyna	NSNT	NSNT
+226, 2	479, 3-7	GOR	ydy yr drwg i chi	NSNT	NSNT
+226, 3	480, 1-7	GOR	mae pawb yn deud yr un peth	NSNT	NSNT
+226, 4	481, 1-11	GOR	oedden nhw yn deud ar y cyngor pryd o'n i yno	NSNT	NSNT
+226, 5	482, 1-6	GOR	oh mae isio isio siopio local	SNT	SNT
+226, 6	483, 1-2	GOR	medden nhw	NSNT	NSNT
+226, 7	483, 3-3	GOR	te	SNT	NSNT
+226, 8	484, 1-1	GOR	local	SNT	NSNT
+226, 9	485, 1-11	GOR	oeddech chi sbïo arnyn nhw gyd yn ym Mangor ac ati	NSNT	NSNT
+226, 10	486, 1-8	GOR	oedden nhw yn cael Kwiks yn fan yno	---	NSNT
+
+
+227, 1	487, 1-3	INT	dyna yr drwg	NSNT	NSNT
+227, 2	487, 4-4	INT	te	NSNT	NSNT
+227, 4	489, 1-9	INT	a heddiw toes yna ddim_byd yn bell nag oes	---	NSNT
+
+
+228, 1	490, 1-2	GOR	nag oes	---	NSNT
+
+
+229, 1	492, 1-11	INT	dyna chi Fangor ryw ugain munud i yr awr fan bella	---	NSNT
+
+
+230, 1	496, 1-12	EML	a toes yna mond *bus* i un fath â fi nag oes	---	NST
+
+
+231, 1	498, 1-4	INT	oedd raid mi gael	---	NSNT
+
+
+232, 1	499, 1-9	EML	ond toes yna does gyn i ddim *car* wan	NST	NST
+232, 2	500, 1-3	EML	mae gyn i	NSNT	NSNT
+232, 3	501, 2-6	EML	mae gyn i *gar* ond	---	NST
+
+
+233, 1	502, 1-6	INT	does gyn innau mond dau droed	---	NSNT
+
+
+234, 1	503, 1-4	EML	well ia dau droed	---	NSNT
+
+
+235, 1	504, 1-4	INT	a mae rheiny wrthi	---	NSNT
+
+
+236, 1	505, 1-6	EML	a mae rheiny yn bethau gwael	---	NSNT
+
+
+237, 1	508, 1-3	STN	un *bloody* troed	NST	NST
+237, 2	508, 4-10	STN	sy gyn i ar fy enaid i	---	NSNT
+
+
+238, 1	511, 1-5	CLV	*mmm* yeah un gyn Stan	---	NST
+
+
+239, 1	513, 1-1	GOR	*eh*	ST	NST
+239, 5	517, 1-12	GOR	pwy sy wedi dod o yr *hospital* wsnos dwytha yn Amlwch wan	---	NST
+
+
+240, 1	518, 1-1	STN	*pardon*	---	NST
+
+
+241, 1	519, 1-17	GOR	pwy sy dod o yr o yr *hospital* yn Amlwch wedi torri bysedd ei draed o i_ffwrdd	---	NST
+
+
+242, 1	520, 1-3	INT	wn i ddim	---	NSNT
+
+
+243, 1	522, 1-5	GOR	o Borth rywle medden nhw	---	NSNT
+
+
+244, 1	523, 1-1	INT	Duwc	---	NSNT
+
+
+245, 1	525, 1-3	GOR	wn i ddim	NSNT	NSNT
+245, 2	525, 4-7	GOR	ydy o wir beidio	NSNT	NSNT
+245, 3	526, 1-4	GOR	mae raid bod o	---	NSNT
+
+
+246, 1	527, 1-1	EML	be	---	NSNT
+
+
+247, 1	528, 1-8	GOR	rywun wedi gael torri bysedd ei draed i_ffwrdd	---	NSNT
+
+
+248, 1	529, 1-1	EML	*ow*	---	NST
+
+
+249, 1	530, 1-2	GOR	*gangrene* oedd	---	NST
+
+
+250, 1	531, 1-2	EML	esgob Dafydd	---	NSNT
+
+
+251, 1	536, 1-4	STN	chlywais i ddim te	---	NSNT
+
+
+252, 1	537, 1-4	EML	dydy ddim ond dechrau	---	NSNT
+
+
+253, 1	539, 1-10	CLV	naci gynno fo bob math o i ddŵad eto toes	---	NSNT
+
+
+254, 1	542, 1-8	INT	dan ni yn gwybod dim amdani hi na	---	NSNT
+
+
+255, 1	543, 1-3	EML	ew nac ydan	---	NSNT
+
+
+256, 1	544, 1-3	GOR	*Tŷ_Siarad* oedd *boy*	NST	NST
+256, 2	544, 4-4	GOR	wchi	---	NSNT
+
+
+257, 1	545, 1-1	INT	*eh*	---	NST
+
+
+258, 1	546, 1-1	EML	*eh*	---	NST
+
+
+259, 1	547, 1-1	GOR	*Huw_Tŷ_Siarad*	---	NST
+
+
+260, 1	548, 1-3	INT	wn i ddim	---	NSNT
+
+
+261, 1	549, 1-5	GOR	ia dyna be gaeth o	NSNT	NSNT
+261, 2	549, 6-9	GOR	wchi torri goes i_ffwrdd	---	NSNT
+
+
+262, 1	551, 1-2	INT	a gweiddi	---	NSNT
+
+
+263, 1	554, 1-9	GOR	a fyddai chwarae *pool* a bob math o wedyn	NST	NST
+263, 3	556, 1-4	GOR	ar_ôl cael torri goes	---	NSNT
+
+
+264, 1	557, 1-3	INT	dyna fo ylwch	NSNT	NSNT
+264, 2	557, 4-6	INT	oedd y wedyn	NSNT	NSNT
+264, 3	559, 1-3	INT	be oedd o	NSNT	NSNT
+264, 4	561, 1-7	INT	mynd efo yr *car* a bob peth	---	NST
+
+
+265, 1	563, 1-1	EML	*Huw_Tŷ_Sarn*	---	NST
+
+
+266, 1	564, 1-2	CLV	naci Parker	---	NSNT
+
+
+267, 1	565, 1-2	INT	naci Parker	---	NSNT
+
+
+268, 1	566, 1-3	GOR	*er* Lastra sti	---	NST
+
+
+269, 1	567, 1-1	CLV	Lastra	---	NSNT
+
+
+270, 1	568, 1-6	EML	oh wannwyl yeah coes oedd gynno	NSNT	NSNT
+270, 2	568, 7-9	EML	oedd gynno fo	---	NSNT
+
+
+271, 1	569, 1-5	INT	dach chi yn gofio fo	NSNT	NSNT
+271, 2	570, 1-2	INT	ia tad	---	NSNT
+
+
+272, 1	571, 1-5	EML	ia mae o coes bren	NSNT	NSNT
+272, 2	571, 6-10	EML	oedd gynno fo mewn ffordd	NSNT	NSNT
+272, 3	571, 11-11	EML	te	NSNT	NSNT
+272, 4	574, 1-3	EML	a wedi gwneud	---	NSNT
+
+
+273, 1	575, 1-6	INT	dyna chi golled i Eglwys_Eilian ylwch	NSNT	NSNT
+273, 2	578, 1-4	INT	ac i eglwys Amlwch	NSNT	NSNT
+273, 3	580, 1-5	INT	doedd neb yr un fath	---	NSNT
+
+
+274, 1	581, 1-2	GOR	nag oes	---	NSNT
+
+
+275, 1	582, 1-2	EML	nag oes	---	NSNT
+
+
+276, 1	583, 1-5	GOR	does yna ddim neb yma	NSNT	NSNT
+276, 2	583, 6-7	GOR	nag oes	---	NSNT
+
+
+277, 1	584, 1-2	INT	nag oes	---	NSNT
+
+
+278, 1	585, 1-2	EML	pwy sy	---	NSNT
+
+
+279, 1	586, 1-6	INT	pawb wedi mynd don't care de	---	SNT
+
+
+280, 1	588, 2-2	EML	yr	NSNT	NSNT
+280, 2	588, 3-13	EML	ydy ei ferch o yn cadw yr lle i fynd wan	---	NSNT
+
+
+281, 1	590, 1-4	INT	ddeudodd rywun na hi	NSNT	NSNT
+281, 2	590, 5-7	INT	sy yna rŵan	---	NSNT
+
+
+282, 1	591, 1-8	STN	argoel yeah o'n i yna dydd Sul ylwch	---	NSNT
+
+
+283, 1	593, 1-4	GOR	yeah hi sy yna	---	NSNT
+
+
+284, 1	596, 1-5	STN	o'n i yna dydd Sul	---	NSNT
+
+
+285, 1	597, 1-1	EML	Duwc	---	NSNT
+
+
+286, 1	598, 1-1	STN	oeddwn	NSNT	NSNT
+286, 2	599, 1-6	STN	oedd *er* yn hogan i Greta	NST	NST
+286, 3	599, 7-9	STN	te yn cael	---	NSNT
+
+
+287, 1	600, 1-2	INT	yeah sure	---	NSNT
+
+
+288, 1	601, 1-3	STN	ei birthday de	---	SNT
+
+
+289, 1	603, 1-1	INT	duwc	---	NSNT
+
+
+290, 1	604, 1-3	STN	aethon ni allan	NSNT	NSNT
+290, 2	605, 1-5	STN	mynd hefo yr wheel_chair de	---	SNT
+
+
+291, 1	606, 1-14	GOR	yeah o'n i yno faint sy dwch ryw fis yn y cinio yr Ford_Gron	NSNT	NSNT
+291, 2	606, 15-15	GOR	te	---	NSNT
+
+
+292, 1	608, 1-3	STN	ew annwyl mae	NSNT	NSNT
+292, 2	608, 4-6	STN	mae nhw esgob	NSNT	NSNT
+292, 3	608, 7-10	STN	mae nhw dda yna	---	NSNT
+
+
+293, 1	609, 1-4	GOR	le da yna achan	---	NSNT
+
+
+294, 1	610, 1-8	EML	oedd o le da yn Lastra bob amser	NSNT	NSNT
+294, 2	612, 1-3	EML	bwyd iawn te	---	NSNT
+
+
+295, 1	613, 1-6	INT	be sy yn dod wan dwch	---	NSNT
+
+
+296, 1	615, 1-1	GOR	mae	NSNT	NSNT
+296, 2	615, 2-4	GOR	wedi bod ar	NSNT	NSNT
+296, 3	615, 5-5	GOR	werth	---	NSNT
+
+
+297, 1	616, 1-6	EML	pwy sy cadw fan yna wan	---	NSNT
+
+
+298, 1	617, 1-3	INT	na finnau chwaith	NSNT	NSNT
+298, 2	618, 1-9	INT	argoel mae fan yna wedi newid *er* Mrs_Gilbert yno	NST	NST
+298, 3	618, 10-10	INT	dydy	---	NSNT
+
+
+299, 1	620, 1-3	GOR	dw ddim gwybod	NSNT	NSNT
+299, 2	620, 4-5	GOR	ydy Emlyn	---	NSNT
+
+
+300, 1	621, 1-1	INT	*eh*	---	NST
+
+
+301, 1	623, 1-1	GOR	Mrs_Gilbert	---	NSNT
+
+
+302, 1	624, 1-4	INT	dach chi chofio hi	---	NSNT
+
+
+303, 1	625, 1-3	GOR	asu nag ydy	---	NSNT
+
+
+304, 1	626, 1-2	STN	nac ydy	---	NSNT
+
+
+305, 1	627, 1-12	INT	dach chi yn cofio twrnai pan o'n i yn yn y môr	---	NSNT
+
+
+306, 1	629, 1-2	EML	nac ydw	---	NSNT
+
+
+307, 1	630, 1-2	INT	o_flaen S_M_Edwards	---	NSNT
+
+
+308, 1	635, 1-3	GOR	wn i ddim	---	NSNT
+
+
+308, 2	635, 4-9	GOR	dw i yn gofio fo beidio	NSNT	NSNT
+309, 3	639, 1-11	EML	o'n i yn ifanc iawn te yn enwedig Dylan a Meic	NSNT	NSNT
+309, 4	641, 1-2	EML	a Dic	NSNT	NSNT
+309, 5	642, 1-9	EML	fyddai yr tri yn dod o Bryn_teg i Amlwch	NSNT	NSNT
+309, 6	643, 1-5	EML	a fyddan nhw yn deud	NSNT	NSNT
+309, 7	643, 6-15	EML	oedden nhw mynd i yr un o yr *pubs* yma	NST	NST
+309, 8	643, 16-16	EML	te	NSNT	NSNT
+309, 9	645, 1-4	EML	a yna ddynes yna	NSNT	NSNT
+309, 10	646, 1-10	EML	a toedd hi ddim yn rhyw llawer o ots gynni	NSNT	NSNT
+309, 11	646, 11-14	EML	be oedd hi yn	---	NSNT
+
+
+310, 1	647, 1-3	GOR	Clock_Inn oedd hwnnw	---	NSNT
+
+
+311, 1	648, 1-1	EML	be	---	NSNT
+
+
+312, 1	649, 1-4	GOR	y Clock_Inn oedd hwnnw	---	NSNT
+
+
+313, 1	657, 1-5	EML	oh yeah nhw deud fyddai	NSNT	NSNT
+313, 3	659, 1-7	EML	a dw i yn cofio yn iawn	NSNT	NSNT
+313, 4	660, 1-6	EML	hogyn ifanc o'n i adeg hynny	NSNT	NSNT
+313, 5	662, 1-15	EML	ac oedd y mrodyr yn peth yna wedi dresio i_fyny ac yn mynd am Amlwch	NSNT	NSNT
+313, 6	662, 16-16	EML	te	NSNT	NSNT
+313, 7	663, 1-5	EML	a wedyn oedd yn Amlwch	NSNT	NSNT
+313, 8	663, 6-11	EML	oedden nhw yn cael yr hwyl	NSNT	NSNT
+313, 9	663, 12-12	EML	te	---	NSNT
+
+
+314, 1	667, 1-8	GOR	oedd o yn banned i yr *er* R_A_F	NST	ST
+314, 2	667, 9-9	GOR	wsti	NSNT	NSNT
+314, 3	671, 1-5	GOR	yna ormod o firi yma	NSNT	NSNT
+314, 4	672, 1-7	GOR	Ianto_Jones sychwch eich crys y ngwas i	NSNT	NSNT
+314, 5	673, 1-2	GOR	eich crys	---	NSNT
+
+
+315, 1	674, 1-5	EML	ew mae Ianto yn crio	NSNT	NSNT
+315, 2	674, 6-14	EML	am bod ni sgwrsio am bethau mor beth yna	---	NSNT
+
+
+316, 1	675, 1-7	GOR	dach chi ddim wedi gael o eto	---	NSNT
+
+
+317, 1	676, 1-3	INT	ble mae o	---	NSNT
+
+
+318, 1	677, 1-2	GOR	dyna fo	---	NSNT
+
+
+319, 1	678, 1-1	INT	wan	---	NSNT
+
+
+320, 1	679, 1-2	GOR	dyna fo	NSNT	NSNT
+320, 2	680, 1-5	GOR	peth yna ydy o *er*	NST	NST
+320, 3	681, 1-4	GOR	ddaw o o yna	NSNT	NSNT
+320, 4	682, 1-4	GOR	be ydy enw o	NSNT	NSNT
+320, 5	683, 1-9	GOR	uwd neu rywbeth dach chi yn gael i frecwast	---	NSNT
+
+
+321, 1	684, 1-1	STN	uwd	---	NSNT
+
+
+322, 1	686, 1-5	INT	argoel ges i da heddiw	---	NSNT
+
+
+323, 1	689, 1-5	EML	Kellogs fydda i yn gael	---	NSNT
+
+
+324, 1	692, 1-1	INT	uwd	NSNT	NSNT
+324, 3	694, 1-4	INT	tair sleisen o *facon*	NST	NST
+324, 5	696, 1-3	INT	ŵy dwy frechdan	---	NSNT
+
+
+325, 1	697, 1-3	EML	dw i *er*	---	NST
+
+
+326, 1	698, 1-4	INT	dwy gwpan o de	SNT	NSNT
+326, 2	700, 1-1	INT	*tea*	---	NST
+
+
+327, 1	701, 1-4	EML	oh yeah mae *er*	NST	NST
+327, 2	701, 5-7	EML	dw innau hefyd	NSNT	NSNT
+327, 3	702, 1-6	EML	*bacon* ŵy a bara saim de	---	NST
+
+
+328, 1	703, 1-3	INT	a dyna chi	---	NSNT
+
+
+329, 1	704, 1-2	EML	a mae	NSNT	NSNT
+329, 2	704, 3-9	EML	mae nhw yn deud wrtha i *cholesterol*	NST	NST
+329, 3	704, 10-10	EML	te	NSNT	NSNT
+329, 4	706, 1-8	EML	peth gwaetha o ddim at *golesterol* ydy ŵy	---	NST
+
+
+330, 1	707, 1-6	INT	twt twt twt twt twt twt	---	NSNT
+
+
+331, 1	709, 1-1	EML	saim	SNT	NSNT
+331, 2	710, 1-1	EML	*eh*	---	NST
+
+
+332, 1	711, 1-2	GOR	y melynwy	---	NSNT
+
+
+333, 1	712, 1-4	EML	ia saim a *bacon*	---	NST
+
+
+334, 1	714, 1-5	GOR	be ti fwyta fo ta	---	NSNT
+
+
+335, 1	715, 1-7	EML	be be ti mynd i gael felly	---	NSNT
+
+
+336, 1	716, 1-5	GOR	be ti fwyta fo ta	---	NSNT
+
+
+337, 1	717, 1-1	EML	be	NSNT	NSNT
+337, 2	718, 1-4	EML	am bod isio fo	NSNT	NSNT
+337, 6	722, 1-4	EML	am bod isio fo	---	NSNT
+
+
+338, 1	723, 1-4	GOR	be ydy *golesterol* di	---	NST
+
+
+339, 1	724, 1-3	EML	*ooh* mae o	NST	NST
+339, 2	724, 4-7	EML	wedi bod yn seven	---	SNT
+
+
+340, 1	726, 1-6	GOR	three *point* five oeddwn i ddwytha	---	ST
+
+
+341, 1	727, 1-3	EML	oh mae o	NSNT	NSNT
+341, 2	727, 4-10	EML	mae o lawr wan i four rywbeth	---	SNT
+
+
+342, 1	728, 1-5	GOR	*mmm* ti yn iawn felly	---	NST
+
+
+343, 1	729, 1-4	EML	dw ddim yn gwybod	---	NSNT
+
+
+344, 1	730, 1-5	GOR	mae yn iawn o_dan five	---	SNT
+
+
+345, 1	732, 1-5	EML	dw i ddim yn dallt	---	NSNT
+
+
+346, 1	733, 1-6	INT	sut mae yn un i tybed	---	NSNT
+
+
+347, 1	734, 1-8	EML	dw i ddim yn dallt yr *figures* yma	NST	NST
+347, 2	734, 9-9	EML	te	---	NSNT
+
+
+348, 1	735, 1-7	GOR	well Stanley_Morgan dach chi ddistaw iawn heddiw	---	NSNT
+
+
+349, 1	736, 1-2	STN	yndw tad	NSNT	NSNT
+349, 2	737, 1-1	STN	pam	---	NSNT
+
+
+350, 1	738, 1-1	GOR	*eh*	---	NST
+
+
+351, 1	739, 1-3	STN	gormod o hanes	NSNT	NSNT
+351, 7	745, 1-3	STN	isio hanes Amlwch	NSNT	NSNT
+351, 8	746, 1-5	STN	baswn i medru deud *lot*	---	NST
+
+
+352, 1	747, 1-12	EML	well ia well fo cerwch ymlaen wan efo chi a Gordon a	---	NSNT
+
+
+353, 1	748, 1-4	STN	neu fysan ni mynd	NSNT	NSNT
+353, 3	750, 1-2	STN	ers_talwm wchi	NSNT	NSNT
+353, 4	750, 3-10	STN	oedd o yn cau naw o gloch toedden	---	NSNT
+
+
+354, 1	751, 1-1	GOR	oedden	---	NSNT
+
+
+355, 1	752, 1-3	STN	y Bull te	NSNT	NSNT
+355, 2	753, 1-3	STN	wchi Bull Amlwch	---	NSNT
+
+
+356, 1	754, 1-1	CLV	Bull_Inn	---	NSNT
+
+
+357, 1	755, 1-2	STN	Sandra de	---	NSNT
+
+
+358, 1	757, 1-3	EML	Sandra Bull ia	NSNT	NSNT
+358, 2	758, 1-8	EML	dw i wedi clywed sôn amdani hithau hefyd	---	NSNT
+
+
+359, 1	760, 1-3	STN	a Mr_Peters de	NSNT	NSNT
+359, 2	762, 1-3	STN	a nhad wrth_gwrs	---	NSNT
+
+
+360, 1	764, 1-2	CLV	yeah wrth_gwrs	---	NSNT
+
+
+361, 1	767, 1-8	GOR	oedd hi yr un fath yn bob man	NSNT	NSNT
+361, 3	770, 1-10	GOR	Liverpool_Arms yn Borth oedd pawb yn mynd i fan yno	---	NSNT
+
+
+362, 1	771, 1-1	EML	*eh*	---	NST
+
+
+363, 1	772, 1-9	GOR	Liverpool_Arms lawr Borth oedd pawb fan yno ddydd Sul	---	NSNT
+
+
+364, 1	773, 1-3	EML	oedd beth yna	NSNT	NSNT
+364, 3	776, 1-4	EML	at Harri Vaults yli	NSNT	NSNT
+364, 4	778, 1-7	EML	oeddwn i cael pethau gyn Harri Vaults	NSNT	NSNT
+364, 5	779, 1-10	EML	os oeddl isio cau ddeudan ni hanner wedi deg yn_de	NSNT	NSNT
+364, 6	781, 1-5	EML	pawb oedd yn gwsmeriaid da	NSNT	NSNT
+364, 7	781, 6-10	EML	oedden cael mynd i_fyny lloft	---	NSNT
+
+
+365, 1	782, 1-1	STN	fyddan	NSNT	NSNT
+365, 2	782, 2-4	STN	dyna chi *mmm*	---	NST
+
+
+366, 1	784, 1-5	EML	efo efo gwydr bach felly	NSNT	NSNT
+366, 2	787, 1-10	EML	wedyn oedd yn gwneud mwy o bres allan ohonan ni	---	NSNT
+
+
+367, 1	792, 1-4	GOR	oedd *er* *er* Heulyn	NST	NST
+367, 2	793, 1-7	GOR	be ia Heulyn oedd enw o dŵad	---	NSNT
+
+
+368, 1	794, 1-4	EML	Heulyn ia ia ia	---	NSNT
+
+
+369, 1	795, 1-4	GOR	fyddai fo ffrindiau mawr	NSNT	NSNT
+369, 2	795, 5-5	GOR	byddai	---	NSNT
+
+
+370, 1	797, 1-1	EML	Heulyn	NSNT	NSNT
+370, 2	799, 1-7	EML	oedd o wedi priodi gwraig *er* Harri	---	NST
+
+
+371, 1	800, 1-2	GOR	Iesu oedd	---	NSNT
+
+
+372, 1	801, 1-3	STN	oh oedd tad	NSNT	NSNT
+372, 2	803, 1-3	STN	*Anwen* Anwen te	---	NST
+
+
+373, 1	805, 1-2	EML	Heulyn ia	---	NSNT
+
+
+374, 1	806, 1-1	STN	Anwen	---	NSNT
+
+
+375, 1	807, 1-3	GOR	well ia sure	---	NSNT
+
+
+376, 1	808, 1-2	EML	well oedd	---	NSNT
+
+
+377, 1	809, 1-2	GOR	oedd hi	NSNT	NSNT
+377, 2	809, 3-7	GOR	oedd hi ddim amser hynny	NSNT	NSNT
+377, 3	809, 8-9	GOR	nag oedd	---	NSNT
+
+
+378, 1	810, 1-3	EML	well pan farwodd	NSNT	NSNT
+378, 2	810, 4-6	EML	pan farwodd Harri	---	NSNT
+
+
+379, 1	812, 1-1	GOR	*eh*	---	NST
+
+
+380, 1	813, 1-2	INT	cofiwch chi	NSNT	NSNT
+380, 2	813, 3-5	INT	oedd o yn	NSNT	NSNT
+380, 3	813, 6-7	INT	ei *prime*	---	NST
+
+
+381, 1	814, 1-3	EML	oedd o yno	---	NSNT
+
+
+382, 1	816, 1-7	INT	oedd o yn ei *brime* adeg hynny	NST	NST
+382, 2	816, 8-8	INT	doedd	---	NSNT
+
+
+383, 1	818, 1-15	GOR	well ia toedd o ddim wedi priodi efo Anwen pryd oedd Harri yn yn Vaults	---	NSNT
+
+
+384, 1	819, 1-1	EML	Heulyn	NSNT	NSNT
+384, 2	820, 1-2	EML	oedd tad	---	NSNT
+
+
+385, 1	821, 1-2	STN	oedd tad	---	NSNT
+
+
+386, 1	822, 1-1	GOR	Duw	---	NSNT
+
+
+387, 1	823, 1-1	EML	well	NSNT	NSNT
+387, 2	825, 1-7	EML	oedd toedd o ddim wedi ond *er*	NST	NST
+387, 3	825, 8-12	EML	oedd Anwen wedi symud i	---	NSNT
+
+
+388, 1	826, 1-1	GOR	Bryn_Gwynt	---	NSNT
+
+
+389, 1	827, 1-1	EML	Bryn_Gwynt	NSNT	NSNT
+389, 2	830, 1-5	EML	adeg hynny *er* farwodd Harri	---	NST
+
+
+390, 1	832, 1-8	GOR	fyddwn i gwneud *lot* i Anwen yn Bryn_Gwynt	---	NST
+
+
+391, 1	834, 1-7	EML	um o'n i ffrindiau mawr efo Harri	NSNT	NSNT
+391, 2	835, 1-9	EML	fyddai dŵad o yn ochr i ffordd yna toedd	NSNT	NSNT
+391, 4	837, 1-8	EML	a mi oedd Harri yn ofnadwy am yr	---	NSNT
+
+
+392, 1	838, 1-5	GOR	wedi mynd fyddai fo ddim	NSNT	NSNT
+392, 2	838, 6-7	GOR	na fyddai	NSNT	NSNT
+392, 3	839, 1-5	GOR	pryd oedd o yn Gemaes	NSNT	NSNT
+392, 4	839, 6-8	GOR	doedd o ddim	NSNT	NSNT
+392, 6	841, 1-1	GOR	llefrith	---	NSNT
+
+
+393, 1	842, 1-2	STN	llefrith yeah	---	NSNT
+
+
+394, 1	843, 1-9	EML	efo un un toedd yna neb yn twtsiad diferyn	---	NSNT
+
+
+395, 1	844, 1-2	GOR	ia dyna	NSNT	NSNT
+395, 2	844, 3-4	GOR	dw ddeud	---	NSNT
+
+
+396, 1	845, 1-3	EML	oh mi gafodd	NSNT	NSNT
+396, 2	845, 4-6	EML	afael ar Stag	SNT	SNT
+396, 3	847, 1-8	EML	gwerthu Stag a a tri neu bedwar arall	NSNT	SNT
+396, 5	853, 1-5	EML	doedd dim_byd wedyn dim ond	---	NSNT
+
+
+397, 1	854, 1-4	GOR	hwre oedd hi wedyn	NSNT	NSNT
+397, 2	854, 5-5	GOR	te	---	NSNT
+
+
+398, 1	855, 1-1	EML	be	---	NSNT
+
+
+399, 1	856, 1-6	GOR	dim ond hwre oedd hi wedyn	---	NSNT
+
+
+400, 1	857, 1-3	EML	well ia ia	NSNT	NSNT
+400, 2	858, 1-6	EML	fyddai Harri byth byth yn sobr	---	NSNT
+
+
+401, 1	859, 1-2	GOR	na fyddai	---	NSNT
+
+
+402, 1	860, 1-3	EML	mi lladdodd o	NSNT	NSNT
+402, 2	860, 4-4	EML	te	---	NSNT
+
+
+403, 1	861, 1-4	STN	lladd o yn diwedd	---	NSNT
+
+
+404, 1	862, 1-1	EML	be	---	NSNT
+
+
+405, 1	863, 1-5	INT	lle mae Sam bach rŵan	---	NSNT
+
+
+406, 1	864, 1-4	STN	ladd o yn diwedd	---	NSNT
+
+
+407, 1	865, 1-3	GOR	pwy Sam bach	---	NSNT
+
+
+408, 1	867, 1-7	INT	ddaru chwaer o ddim priodi efo Harri_Owen	NSNT	NSNT
+408, 2	868, 1-5	INT	oedd o gweithio yn yr	---	NSNT
+
+
+409, 1	869, 1-4	GOR	Sam_Davies dach chi feddwl	---	NSNT
+
+
+410, 1	870, 1-4	INT	dach chi cofio Martin	---	NSNT
+
+
+411, 1	872, 1-3	GOR	ei fab o	---	NSNT
+
+
+412, 1	874, 1-4	INT	oedd *er* chwaer Sam	NST	NST
+412, 2	874, 5-8	INT	oedd gwraig Harri_Owen ia	---	NSNT
+
+
+413, 1	875, 1-1	GOR	naci	---	NSNT
+
+
+414, 1	876, 1-2	INT	sure wan	---	NSNT
+
+
+415, 1	877, 1-2	GOR	pwy Harri_Owen	---	NSNT
+
+
+416, 1	878, 1-3	INT	Harri o Vaults	---	NSNT
+
+
+417, 1	879, 1-8	GOR	oh ia ia ia ia a Anwen ia	---	NSNT
+
+
+418, 1	880, 1-2	INT	dyna ni	NSNT	NSNT
+418, 2	881, 1-2	INT	dyna fo	---	NSNT
+
+
+419, 1	883, 1-9	EML	ia mi oedd tad Anwen ar y *buses* toedd	---	NST
+
+
+420, 1	885, 2-3	INT	dyna chi	---	NSNT
+
+
+421, 1	886, 1-3	STN	oedd o *er*	---	NST
+
+
+422, 1	887, 1-1	EML	Martin	NSNT	NSNT
+422, 2	888, 1-5	EML	Martin oedd ei enw fo	NSNT	NSNT
+422, 3	888, 6-6	EML	te	---	NSNT
+
+
+423, 1	890, 1-2	CLV	Martin yeah	---	NSNT
+
+
+424, 1	891, 1-8	STN	oedd o ar y *buses* â fi ylwch	---	NST
+
+
+425, 1	895, 1-3	CLV	well oedd Stan	---	NSNT
+
+
+426, 1	896, 1-3	INT	a yr tailor	---	SNT
+
+
+427, 1	897, 1-2	STN	ia tad	---	NSNT
+
+
+428, 1	898, 1-5	GOR	fuodd Stan ar y *buses*	NST	NST
+428, 2	898, 6-6	GOR	wsti	---	NSNT
+
+
+429, 1	899, 1-1	EML	*eh*	---	NST
+
+
+430, 1	900, 1-6	GOR	oedd Stan ar y *buses* hefyd	---	NST
+
+
+431, 1	901, 1-2	EML	oh oeddech	---	NSNT
+
+
+432, 1	902, 1-2	STN	o'n tad	---	NSNT
+
+
+433, 1	903, 1-1	INT	a	---	NSNT
+
+
+434, 1	904, 1-5	CLV	oedd o yn y *film*	---	NST
+
+
+435, 1	905, 1-1	EML	*eh*	---	NST
+
+
+436, 1	906, 1-5	CLV	oedd o yn y *film*	NST	NST
+436, 2	906, 6-7	CLV	wchi On_The_Buses	---	NSNT
+
+
+437, 1	909, 1-8	INT	a yr tailor o Holyhead efo fo hefyd	---	SNT
+
+
+438, 1	913, 1-2	CLV	ia Jack_James	---	NSNT
+
+
+439, 1	917, 1-1	GOR	pwy	---	NSNT
+
+
+440, 1	918, 1-1	INT	tailor	---	NSNT
+
+
+441, 1	919, 1-2	CLV	Jack_James tailor	---	SNT
+
+
+442, 1	920, 1-4	GOR	oh yeah hwnnw yeah	---	NSNT
+
+
+443, 1	921, 1-4	STN	Jack bach te *hmm*	ST	NST
+443, 2	922, 1-1	STN	conductor	---	NSNT
+
+
+444, 1	923, 1-1	GOR	Jack	---	NSNT
+
+
+445, 1	925, 1-6	INT	argoel dw ddim wedi gweld Jack_James	---	NSNT
+
+
+446, 1	926, 1-14	EML	toedd mhen i ddim yn gweithio rŵan pan ddeudaist ti bod Stan o On_The_Buses	NSNT	NSNT
+446, 2	927, 1-4	EML	o'n i wedi dechrau	NSNT	NSNT
+446, 3	928, 1-3	EML	dy goelio di	---	NSNT
+
+
+447, 1	930, 1-1	INT	argoel	---	NSNT
+
+
+448, 1	931, 1-6	GOR	mi oedd o ar y *buses*	NST	NST
+448, 2	931, 7-7	GOR	sti	---	NSNT
+
+
+449, 1	932, 1-4	EML	oh ia dw gwybod	---	NSNT
+
+
+450, 1	935, 1-6	CLV	yn y *film* dach chi feddwl	---	NST
+
+
+451, 1	936, 1-1	EML	*eh*	---	NST
+
+
+452, 1	937, 1-3	CLV	oeddech chi meddwl	NSNT	NSNT
+452, 2	937, 4-8	CLV	bod o yn y *film*	---	NST
+
+
+453, 1	938, 1-5	INT	*programme* da oedd *er* Ar_Y_Bysus	NST	NST
+453, 2	940, 1-7	INT	a yr hen fachgen mawr hwnnw sbectol	---	NSNT
+
+
+454, 1	945, 1-9	EML	ia ac oedden nhw sôn am un arall *er*	NST	NST
+454, 2	946, 1-9	EML	oedd rywun yn fan yma ddoe yn sôn amdano	NSNT	NSNT
+454, 3	947, 1-18	EML	ei fab o dw i sure wedi dod i_fewn i fan yma yn nos gyda yr nos felly	---	NSNT
+
+
+455, 1	948, 1-7	GOR	oh yeah *er* beth yna ydy hwnnw	NST	NST
+455, 2	949, 1-4	GOR	be ydy enw o	NSNT	NSNT
+455, 3	950, 1-11	GOR	mab Sam mab Sam bach oedd yn gonductor ar y *buses*	---	ST
+
+
+456, 1	953, 1-1	INT	Richard_Sam	---	NSNT
+
+
+457, 1	954, 1-2	GOR	Richard_Sam yeah	---	NSNT
+
+
+458, 1	956, 1-4	EML	any more fares *please*	NST	NST
+458, 2	958, 1-4	EML	any more fares *please*	ST	NST
+458, 3	959, 1-4	EML	dw i gofio fo	---	NSNT
+
+
+459, 1	961, 1-4	CLV	all aboard for Cemaes_Bay	SNT	NSNT
+459, 2	963, 1-2	CLV	meddai fo	---	NSNT
+
+
+460, 1	966, 1-4	STN	a wedyn fuodd fo	NSNT	NSNT
+460, 2	966, 5-6	STN	fuodd farw	NSNT	NSNT
+460, 3	967, 1-2	STN	fuodd farw	NSNT	NSNT
+460, 4	967, 3-5	STN	do Sam bach	NSNT	NSNT
+460, 5	971, 1-9	STN	toedd yna ddim pres i gladdu o nag oedd	NSNT	NSNT
+460, 6	972, 1-2	STN	yna hogiau	NSNT	NSNT
+460, 7	973, 1-11	STN	oedd yna thirty_six ohonan ni yn gweithio yn Crossfield adeg hynny	NSNT	SNT
+460, 8	975, 1-7	STN	a ni wnaeth rannu i claddu o	NSNT	NSNT
+460, 9	977, 1-6	STN	chwilio yr tŷ a bob peth	NSNT	NSNT
+460, 10	978, 1-4	STN	toedd yna ddim senten	NSNT	NSNT
+460, 11	980, 1-8	STN	wedyn mi gafon ni wnaethon ni hurio *top*	NST	NST
+460, 12	980, 9-10	STN	wsti Mona_Radio	NSNT	NSNT
+460, 13	982, 1-7	STN	oedd yna *flat* uwch ei ben o	NST	NST
+460, 14	984, 1-3	STN	i i Nerys	NSNT	NSNT
+460, 15	986, 1-10	STN	a Nerys a yr hogiau fynd i fan yno de	---	NSNT
+
+
+461, 1	987, 1-6	GOR	yeah Stryd_Salem oedden nhw yn byw	NSNT	NSNT
+461, 2	987, 7-7	GOR	te	---	NSNT
+
+
+462, 1	988, 1-3	STN	ia tad ia	---	NSNT
+
+
+463, 1	990, 1-4	EML	yeah dyna un arall	NSNT	NSNT
+463, 2	990, 5-9	EML	dw cofio ar y *buses*	NST	NST
+463, 3	991, 1-4	EML	fyddai fo yn mynd	NSNT	NSNT
+463, 4	992, 1-4	EML	Gruff Esgidiau Suede yeah	---	NSNT
+
+
+464, 1	994, 1-2	INT	dyna chi	---	NSNT
+
+
+465, 1	996, 1-1	STN	arglwydd	---	NSNT
+
+
+466, 1	999, 1-5	INT	byw yn yma rŵan ydy	---	NSNT
+
+
+467, 1	1001, 1-3	EML	wn i ddim	---	NSNT
+
+
+468, 1	1002, 1-1	GOR	pwy	---	NSNT
+
+
+469, 1	1003, 1-6	INT	ydy Gruff yn byw yn Mynydd_Du	---	NSNT
+
+
+470, 1	1004, 1-2	GOR	nag ydy	NSNT	NSNT
+470, 4	1008, 1-2	GOR	wchi hwn	NSNT	NSNT
+470, 5	1008, 3-8	GOR	sy yn byw yn fan yma	NSNT	NSNT
+470, 6	1010, 1-8	GOR	mae caru efo gwraig efo merch Gruff Suede	---	NSNT
+
+
+471, 1	1011, 1-4	INT	oh felly mae yeah	---	NSNT
+
+
+472, 1	1015, 1-1	GOR	Duw	NSNT	NSNT
+472, 2	1016, 1-4	GOR	mae *whisky* yn dŵad	---	NST
+
+
+473, 1	1022, 1-6	INT	licio gweld pen_ôl yna yn symud	---	NSNT
+
+
+474, 1	1023, 1-9	GOR	wn i ddim am Clive efo chi saff hwn	---	NSNT
+
+
+475, 1	1024, 1-1	EML	*eh*	---	NST
+
+
+476, 1	1026, 1-3	GOR	wn i ddim	NSNT	NSNT
+476, 2	1026, 4-10	GOR	fysai yn saff efo hwn Clive yma	---	NSNT
+
+
+477, 1	1027, 1-5	EML	oh dw i ddim yn	---	NSNT
+
+
+478, 1	1028, 1-12	GOR	mae yr hogan bach *Rhos_y_Bol* yn dod yma yn aml iawn ato	---	NST
+
+
+479, 1	1031, 1-4	STN	deud dim llawer teulu	---	NSNT
+
+
+480, 1	1032, 1-4	EML	oh rŵan ta be	NSNT	NSNT
+480, 2	1035, 1-5	EML	beth am hogiau Amlwch ta	---	NSNT
+
+
+481, 1	1036, 1-1	GOR	*eh*	---	NST
+
+
+482, 1	1037, 1-5	EML	beth am hogiau Amlwch ta	---	NSNT
+
+
+483, 1	1038, 1-3	GOR	oh has_beens de	SNT	SNT
+483, 2	1039, 1-4	GOR	has_beens ydy rheiny gyd	---	SNT
+
+
+484, 1	1044, 1-3	INT	oh *dear* *me*	---	NST
+
+
+485, 1	1045, 1-5	GOR	all in the mind Emlyn	---	SNT
+
+
+486, 1	1046, 1-7	EML	ia ia well ia mae hynny yni	NSNT	NSNT
+486, 3	1049, 1-2	EML	ew a	---	NSNT
+
+
+487, 1	1050, 1-6	STN	oh pwy sy wedi mopio fwya	NSNT	NSNT
+487, 2	1050, 7-8	STN	ydy peth	---	NSNT
+
+
+488, 1	1051, 1-1	GOR	*eh*	---	NST
+
+
+489, 1	1052, 1-5	STN	pwy sy wedi mopio fwya	NSNT	NSNT
+489, 3	1054, 1-3	STN	hwn ta *Rhos_y_Bol*	---	NST
+
+
+490, 1	1055, 1-5	GOR	dw ddim yn sure achan	NSNT	NSNT
+490, 3	1057, 1-5	GOR	dw i ddim yn sure	NSNT	NSNT
+490, 4	1059, 1-3	GOR	mae yr ddau	NSNT	NSNT
+490, 5	1060, 1-8	GOR	be ydy enw fo dŵad *er* o Ros_y_Bol	---	NST
+
+
+491, 1	1061, 1-3	EML	oh um Dafydd	---	NSNT
+
+
+492, 1	1062, 1-1	GOR	Dafydd	NSNT	NSNT
+492, 2	1063, 1-13	GOR	wn i ddim pwy un o yr ddau sydd yfo ta Clive yma	NSNT	NSNT
+492, 4	1065, 1-5	GOR	well Clive sy i mi	NSNT	NSNT
+492, 5	1066, 1-6	GOR	i Clive mae yn cario hefyd	NSNT	NSNT
+492, 6	1066, 7-7	GOR	te	---	NSNT
+
+
+493, 1	1067, 1-2	EML	well ia	NSNT	NSNT
+493, 4	1071, 1-2	EML	mae yna	NSNT	NSNT
+493, 5	1073, 1-2	EML	mae yna	NSNT	NSNT
+493, 6	1073, 3-3	EML	mae	NSNT	NSNT
+493, 7	1073, 4-8	EML	mae *Rhos_y_Bol* wedi mynd wan	NST	NST
+493, 9	1076, 1-3	EML	mae o wedi	NSNT	NSNT
+493, 10	1078, 1-3	EML	peth yna dydy	NSNT	NSNT
+493, 12	1082, 1-1	EML	dim	---	NSNT
+
+
+494, 1	1083, 1-2	INT	*eh* *eh*	---	NST
+
+
+495, 1	1084, 1-1	STN	*sht*	---	NST
+
+
+496, 1	1086, 1-2	EML	dim *hopes*	---	NST
+
+
+497, 1	1088, 1-2	INT	*eh* *eh*	ST	NST
+497, 2	1089, 1-4	INT	y Sais have everything	---	SNT
+
+
+498, 1	1090, 1-5	EML	ia well dyna fo ia	---	NSNT
+
+
+499, 1	1093, 1-1	STN	fedr	NSNT	NSNT
+499, 2	1093, 2-7	STN	fedr Ianto gael gael *straight* away	---	ST
+
+
+500, 1	1094, 1-2	INT	arglwydd baswn	NSNT	NSNT
+500, 2	1096, 1-2	INT	arglwydd Dduw	---	NSNT
+
+
+501, 1	1100, 1-7	STN	oh mae yr gift gynno fo gael	---	SNT
+
+
+502, 1	1102, 1-6	EML	wyt ti yn ddistaw iawn wan	NSNT	NSNT
+502, 2	1102, 7-7	EML	dwyt	---	NSNT
+
+
+503, 1	1103, 1-2	CLV	ydw tad	---	NSNT
+
+
+504, 1	1104, 1-4	EML	ti ddim yn brolio	---	NSNT
+
+
+505, 1	1105, 1-2	CLV	nag oes	---	NSNT
+
+
+506, 1	1107, 1-7	GOR	ew mae yr *whisky* yn dod hogiau	NST	NST
+506, 3	1110, 1-1	GOR	dŵr	---	NSNT
+
+
+507, 1	1111, 1-4	EML	dw ddim yn gwybod	---	NSNT
+
+
+508, 1	1112, 1-7	GOR	ta fel mae o ti isio fo	---	NSNT
+
+
+509, 1	1113, 1-1	EML	be	---	NSNT
+
+
+510, 1	1114, 1-2	GOR	*whisky* yma	---	NST
+
+
+511, 1	1116, 1-3	INT	fel mae o	NSNT	NSNT
+511, 2	1116, 4-5	INT	ydy gorau	---	NSNT
+
+
+512, 1	1117, 1-5	EML	fel mae o i mi	NSNT	NSNT
+512, 2	1117, 6-6	EML	te	---	NSNT
+
+
+513, 1	1118, 1-3	GOR	oh dyna chdi	NSNT	NSNT
+513, 2	1118, 4-4	GOR	ta	NSNT	NSNT
+513, 3	1119, 1-7	GOR	paid â yfed o gyd ar unwaith	---	NSNT
+
+
+514, 1	1121, 1-4	CLV	oh peth gwael ta	---	NSNT
+
+
+515, 1	1122, 1-4	EML	paned paned gyfa yeah	---	NSNT
+
+
+516, 1	1123, 1-5	GOR	lle da am baned yma	---	NSNT
+
+
+517, 1	1124, 1-2	EML	oh mae	NSNT	NSNT
+517, 2	1124, 3-3	EML	mae	---	NSNT
+
+
+518, 1	1125, 1-1	INT	*quite*	---	NST
+
+
+519, 1	1126, 1-3	EML	dw i sure	NSNT	NSNT
+519, 2	1126, 4-8	EML	bod gyn i botel yma	NSNT	NSNT
+519, 3	1126, 9-9	EML	sti	---	NSNT
+
+
+520, 1	1128, 1-7	GOR	welais i chdi efo un ryw noson	---	NSNT
+
+
+521, 1	1129, 1-2	EML	o Bells	NSNT	NSNT
+521, 3	1132, 1-3	EML	wn i ddim	NSNT	NSNT
+521, 4	1132, 4-5	EML	lle mae	NSNT	NSNT
+521, 5	1132, 6-8	EML	lle mae wedi	NSNT	NSNT
+521, 6	1132, 9-10	EML	roid o	NSNT	NSNT
+521, 8	1134, 1-5	EML	oes gyn i un ar_ôl	---	NSNT
+
+
+522, 1	1135, 1-5	GOR	oh dw ddim yn gwybod	NSNT	NSNT
+522, 2	1136, 1-3	GOR	gofyn i Lyn	---	NSNT
+
+
+523, 1	1137, 1-2	EML	oes yna	---	NSNT
+
+
+524, 1	1139, 1-2	INT	*very* *nice*	---	NST
+
+
+525, 1	1140, 1-4	GOR	cad hi dan heno	---	NSNT
+
+
+526, 1	1141, 1-1	EML	*eh*	---	NST
+
+
+527, 1	1142, 1-4	GOR	cad hi dan heno	---	NSNT
+
+
+528, 1	1143, 1-6	INT	argian na cyn bore gorffen hi	---	NSNT
+
+
+529, 1	1145, 1-1	CLV	mae	NSNT	NSNT
+529, 2	1145, 2-6	CLV	mae Ianto yn yn benderfynol	---	NSNT
+
+
+530, 1	1146, 1-3	GOR	mae hwn yn	NSNT	NSNT
+530, 2	1146, 4-9	GOR	mae hwn dyheu am *whisky* rŵan	---	NST
+
+
+531, 1	1147, 1-3	STN	oh myn diawl	NSNT	NSNT
+531, 2	1149, 1-8	STN	rywun wrthi yn yr ardd yn *top* yna	---	NST
+
+
+532, 1	1151, 1-2	INT	oh pwy	---	NSNT
+
+
+533, 1	1152, 1-5	EML	Duw mae yna *bostman* rŵan	---	NST
+
+
+534, 1	1154, 1-5	GOR	ryw dai digri ydy rheina	---	NSNT
+
+
+535, 1	1155, 1-1	EML	*eh*	---	NST
+
+
+536, 1	1156, 1-4	STN	be yn *top* yna	---	NST
+
+
+537, 1	1158, 1-11	GOR	mae yr llofftydd yn gwaelod a yr *er* lounge yn *top*	---	ST
+
+
+538, 1	1161, 1-3	EML	oh te gwan	---	NSNT
+
+
+539, 1	1162, 1-3	GOR	Iesu piso dryw	NSNT	NSNT
+539, 4	1165, 1-4	GOR	droi o Ianto bach	---	NSNT
+
+
+540, 1	1166, 1-3	INT	Duw nag oedd	---	NSNT
+
+
+541, 1	1167, 1-3	EML	dyma dyma ni	NSNT	NSNT
+541, 2	1168, 1-8	EML	dyma ni wedi bod yn gweithio mor galed	NSNT	NSNT
+541, 3	1169, 1-6	EML	a yr cwbl dan ni cael	NSNT	NSNT
+541, 4	1169, 7-10	EML	ydy paned o de	NSNT	NSNT
+541, 5	1170, 1-3	EML	dw i sure	NSNT	NSNT
+541, 6	1170, 4-7	EML	basai yr B_B_C yn	NSNT	NSNT
+541, 7	1170, 8-13	EML	rhoid fwy na paned o de	---	NSNT
+
+
+542, 1	1172, 1-8	GOR	yna ddigon yn hwnna Ianto peth gwan yna	---	NSNT
+
+
+543, 1	1174, 1-4	EML	ew dyna baned go_lew	SNT	NSNT
+543, 2	1175, 1-2	EML	thank you	---	NSNT
+
+
+544, 1	1176, 1-3	INT	wn i ddim	NSNT	NSNT
+544, 2	1176, 4-7	INT	lle mae yr llwyau	---	NSNT
+
+
+545, 1	1177, 1-3	GOR	dyma chi un	---	NSNT
+
+
+546, 1	1178, 1-1	EML	*ow*	---	NST
+
+
+547, 1	1179, 1-4	GOR	dach chi isio siwgr	NSNT	NSNT
+547, 2	1179, 5-9	GOR	mae sure rei ohonoch chi	---	NSNT
+
+
+548, 1	1180, 2-8	CLV	mae mynd i ddŵad â siwgr wan	---	NSNT
+
+
+549, 1	1181, 1-5	GOR	oh fydda i ddim hwnnw	NSNT	NSNT
+549, 2	1182, 1-4	GOR	ti isio siwgr Emlyn	---	NSNT
+
+
+550, 1	1183, 1-2	EML	oes *please*	NST	NST
+550, 3	1185, 1-5	EML	pedair tair llwyaid o siwgr	---	NSNT
+
+
+551, 1	1186, 1-9	GOR	yeah mae Stan yma cymryd *lot* o siwgr hefyd	---	NST
+
+
+552, 1	1187, 1-1	STN	pedair	---	NSNT
+
+
+553, 1	1188, 1-1	GOR	Iesu	---	NSNT
+
+
+554, 1	1189, 1-2	STN	chwech adre	---	NSNT
+
+
+555, 1	1191, 1-2	GOR	chwech adre	NSNT	NSNT
+555, 2	1193, 1-6	GOR	dach chi am gymryd te Ianto	---	NSNT
+
+
+556, 1	1194, 1-2	INT	na byth	---	NSNT
+
+
+557, 1	1195, 1-4	STN	disgwyl am y *whisky*	NST	NST
+557, 2	1195, 5-6	STN	mae o	---	NSNT
+
+
+558, 1	1196, 1-8	CLV	oh na fydd Ianto ddim yn cymryd dim_byd	NSNT	NSNT
+558, 2	1196, 9-10	CLV	na fyddai	---	NSNT
+
+
+559, 1	1197, 1-2	EML	ti licio	NSNT	NSNT
+559, 3	1199, 1-9	EML	ti licio rywfaint o de efo dy siwgr felly	---	NSNT
+
+
+560, 1	1201, 1-2	STN	dyna pam	NSNT	NSNT
+560, 2	1201, 3-7	STN	dw i mor dew ylwch	NSNT	NSNT
+560, 3	1203, 1-4	STN	diawl o ddim_byd na	---	NSNT
+
+
+561, 1	1204, 1-3	GOR	sut ydw i	NSNT	NSNT
+561, 2	1204, 4-9	GOR	ta ddim yn cymryd siwgr o_gwbl	---	NSNT
+
+
+562, 1	1207, 1-3	STN	dyna yr drwg	NSNT	NSNT
+562, 2	1207, 4-4	STN	yli	NSNT	NSNT
+562, 3	1208, 1-6	STN	dim yn cymryd siwgr wyt ti	NSNT	NSNT
+562, 5	1210, 1-2	STN	ia yn_bydd	---	NSNT
+
+
+563, 1	1214, 1-6	GOR	dw i dros twelve *stone* wan	---	ST
+
+
+564, 1	1215, 1-1	EML	ew	NSNT	NSNT
+564, 2	1216, 1-5	EML	dw i yn thirteen six	---	SNT
+
+
+565, 1	1217, 1-1	INT	arglwydd	---	NSNT
+
+
+566, 1	1218, 1-6	GOR	ti fwy na fi o lawer	---	NSNT
+
+
+567, 1	1219, 1-4	INT	dw i yn dri	NSNT	NSNT
+567, 3	1221, 1-6	INT	dw i yn tynnu am fifteen	SNT	SNT
+567, 4	1221, 7-7	INT	ta	---	NSNT
+
+
+568, 1	1224, 1-1	CLV	arglwydd	---	NSNT
+
+
+569, 1	1225, 1-1	GOR	*eh*	---	NST
+
+
+570, 1	1226, 1-6	INT	dw i yn tynnu am fifteen	---	SNT
+
+
+571, 1	1227, 1-2	GOR	mae sure	NSNT	NSNT
+571, 3	1229, 1-6	GOR	faint mae Clive yma tua deuddeg	NSNT	NSNT
+571, 4	1229, 7-8	GOR	mae sure	---	NSNT
+
+
+572, 1	1230, 1-2	EML	nac ydy	---	NSNT
+
+
+573, 1	1231, 1-2	CLV	nag ydy	NSNT	NSNT
+573, 2	1232, 1-1	CLV	deg	---	NSNT
+
+
+574, 1	1233, 1-2	GOR	deg yeah	---	NSNT
+
+
+575, 1	1236, 1-2	EML	ten *stone*	ST	NST
+575, 2	1238, 1-3	EML	yeah dyna fel	NSNT	NSNT
+575, 3	1238, 4-9	EML	byddwn i bob amser ten *stone*	---	ST
+
+
+576, 1	1239, 1-10	GOR	nine six fyddwn i neu nine seven pryd o'n i	---	SNT
+
+
+577, 1	1240, 1-5	INT	a tynnwch chi ddwy *stone*	---	NST
+
+
+578, 1	1241, 1-2	GOR	chwysu te	---	NSNT
+
+
+579, 1	1242, 1-3	EML	wn i pam	NSNT	NSNT
+579, 2	1242, 4-7	EML	bod ni yn torri	NSNT	NSNT
+579, 3	1243, 1-6	EML	toes yna ddim siwgr nag oes	---	NSNT
+
+
+580, 1	1244, 1-2	GOR	nag oes	---	NSNT
+
+
+581, 1	1245, 1-2	EML	ah poison	---	SNT
+
+
+582, 1	1246, 1-5	GOR	fan acw wedi mynd dwch	---	NSNT
+
+
+583, 1	1247, 1-2	EML	poison de	---	SNT
+
+
+584, 1	1248, 1-6	INT	a finnau meddwl fynd trwodd rŵan	NSNT	NSNT
+584, 2	1250, 1-2	INT	*nurses* do	---	NST
+
+
+585, 1	1251, 1-8	EML	mae yr gwair yma wedi dechrau tyfu eto	NSNT	NSNT
+585, 2	1251, 9-9	EML	tydy	NSNT	NSNT
+585, 3	1253, 1-5	EML	newydd dorri o mae nhw	---	NSNT
+
+
+586, 1	1254, 1-3	INT	dydd Gwener ia	---	NSNT
+
+
+587, 1	1257, 1-2	STN	Sion_Hardy yli	NSNT	NSNT
+587, 2	1258, 1-9	STN	oh mae o wedi mynd mynd *round* y gongl	---	NST
+
+
+588, 1	1259, 1-4	INT	fydda i byth *er*	NST	NST
+588, 2	1259, 5-11	INT	fydd Sion byth yn galw yma rŵan	---	NSNT
+
+
+589, 1	1260, 1-2	STN	na fydd	---	NSNT
+
+
+590, 1	1262, 1-5	INT	caewch y drws yna Gordon	---	NSNT
+
+
+591, 1	1263, 1-2	GOR	dyna chi	---	NSNT
+
+
+592, 1	1264, 1-2	EML	thank you	---	NSNT
+
+
+593, 1	1265, 1-2	CLV	diolch Gordon	---	NSNT
+
+
+594, 1	1266, 1-1	GOR	siwgr	---	NSNT
+
+
+595, 1	1269, 1-4	STN	te yn hwn ylwch	---	NSNT
+
+
+596, 1	1271, 1-3	EML	fydd hi meddwl	NSNT	NSNT
+596, 2	1271, 4-4	EML	bod	NSNT	NSNT
+596, 3	1271, 5-7	EML	fydd hi meddwl	NSNT	NSNT
+596, 4	1271, 8-15	EML	bod o am wagio fo i yr te	---	NSNT
+
+
+597, 1	1272, 1-4	GOR	Iesu be wnawn i	NSNT	NSNT
+597, 2	1272, 5-9	GOR	petaswn i gorod yfed hwnna	---	NSNT
+
+
+598, 1	1273, 1-1	EML	be	---	NSNT
+
+
+599, 1	1274, 1-3	GOR	wn i ddim	NSNT	NSNT
+599, 2	1274, 4-6	GOR	be wnawn i	NSNT	NSNT
+599, 3	1274, 7-11	GOR	petaswn i yn yfed hwnna	---	NSNT
+
+
+600, 1	1275, 1-2	EML	oh paid	NSNT	NSNT
+600, 2	1275, 3-3	EML	ta	---	NSNT
+
+
+601, 1	1276, 1-1	GOR	*pph*	---	NST
+
+
+602, 1	1277, 1-3	INT	helpwch eich hunan	---	NSNT
+
+
+603, 1	1278, 1-2	EML	dw i	NSNT	NSNT
+603, 2	1278, 3-7	EML	dw i yr un fath	NSNT	NSNT
+603, 3	1279, 1-5	EML	wsti beidio gael o heb	---	NSNT
+
+
+604, 1	1280, 1-2	CLV	faint Emlyn	---	NSNT
+
+
+605, 1	1281, 1-2	EML	dair te	---	NSNT
+
+
+606, 1	1282, 1-1	CLV	tair	---	NSNT
+
+
+607, 1	1283, 1-1	EML	*please*	---	NST
+
+
+608, 1	1284, 1-1	GOR	Iesu	---	NSNT
+
+
+609, 1	1285, 1-6	INT	wyddoch chi sut mae te orau	NSNT	NSNT
+609, 2	1286, 1-4	INT	peidio roi llefrith yno	---	NSNT
+
+
+610, 1	1287, 1-1	EML	*eh*	---	NST
+
+
+611, 1	1288, 1-5	INT	peidio roid llefrith yno fo	---	NSNT
+
+
+612, 1	1289, 1-2	EML	ew annwyl	---	NSNT
+
+
+613, 1	1290, 1-2	INT	ew ia	---	NSNT
+
+
+614, 1	1291, 1-11	GOR	yeah dach chi ddim i fod i roi llefrith yno fo	NSNT	NSNT
+614, 2	1291, 12-12	GOR	wchi	NSNT	NSNT
+614, 3	1292, 1-4	GOR	mae yn deud achan	---	NSNT
+
+
+615, 1	1293, 1-5	INT	arglwydd chi o yn bapur	NSNT	NSNT
+615, 2	1295, 1-4	INT	um ryw scientists America	---	SNT
+
+
+616, 1	1296, 1-3	GOR	bod o yn	---	NSNT
+
+
+617, 1	1298, 1-5	EML	tithau ddim yn cymryd llefrith	---	NSNT
+
+
+618, 1	1299, 1-3	CLV	na fydda i	---	NSNT
+
+
+619, 1	1300, 1-6	GOR	fydda i yn gythraul am lefrith	NSNT	NSNT
+619, 3	1303, 1-3	GOR	ydy yr te	---	NSNT
+
+
+620, 1	1304, 1-3	EML	lle mae paned	NSNT	NSNT
+620, 2	1304, 4-7	EML	lle mae paned Ianto	---	NSNT
+
+
+621, 1	1305, 1-3	INT	na dim diolch	---	NSNT
+
+
+622, 1	1306, 1-4	GOR	uwch wneith o ddim	---	NSNT
+
+
+623, 1	1309, 1-1	EML	*eh*	---	NST
+
+
+624, 1	1310, 1-6	GOR	ydy hwnna rhy wan gyn ti	---	NSNT
+
+
+625, 1	1311, 2-3	EML	mae o	---	NSNT
+
+
+626, 1	1312, 1-7	GOR	tynn dy lwy o fan yna Clive	---	NSNT
+
+
+627, 1	1313, 1-8	EML	*ooh* mae yna *lot* o siwgr yn hwnna	NST	NST
+627, 2	1313, 9-9	EML	sti	NSNT	NSNT
+627, 3	1314, 1-1	EML	difetha	NSNT	NSNT
+627, 4	1315, 1-4	EML	ew dyna baned iawn	---	NSNT
+
+
+628, 1	1317, 1-13	STN	arna i ofn byddwch chi mynd i weithio i Trecastell neu neu rywle	NSNT	NSNT
+628, 3	1320, 1-2	STN	yn diwedd	---	NSNT
+
+
+629, 1	1322, 1-4	EML	diolch yn fawr Clive	---	NSNT
+
+
+630, 1	1323, 1-9	GOR	dw i wedi arfer *right* dda fan yma Stan	---	NST
+
+
+631, 1	1324, 1-1	STN	*eh*	---	NST
+
+
+632, 1	1325, 1-8	GOR	dw i wedi arfer *right* dda fan yma	---	NST
+
+
+633, 1	1326, 1-2	INT	mae te	NSNT	NSNT
+633, 2	1326, 3-10	INT	rhydd yn gwneud well paned na na tea_bags	---	SNT
+
+
+634, 1	1327, 2-3	GOR	mae sure	---	NSNT
+
+
+635, 1	1329, 1-3	INT	ie o lawer	---	NSNT
+
+
+636, 1	1330, 1-3	STN	yr hen de	---	NSNT
+
+
+637, 1	1331, 1-7	GOR	fydda i byth yn iwsio hwnnw chwaith	NSNT	NSNT
+637, 2	1333, 1-5	GOR	mond tea_bags fydd gyn i	---	SNT
+
+
+638, 1	1334, 1-3	EML	a mae nhw	---	NSNT
+
+
+639, 1	1337, 1-2	GOR	te *tramp*	---	NST
+
+
+640, 1	1338, 1-3	STN	te *tramp* ia	---	NST
+
+
+641, 1	1339, 1-8	INT	arglwydd wyddoch chi be sy yn beth *nice*	NST	NST
+641, 2	1340, 1-3	INT	te yn *bowl*	NST	NST
+641, 3	1343, 1-2	INT	arglwydd yeah	NSNT	NSNT
+641, 4	1344, 1-4	INT	welsoch chi powliau crynion	NSNT	NSNT
+641, 5	1344, 5-20	INT	do dim yr hen bethau tew a *er* gwefl oh fel *powl* i wneud *pudding* lleill	NST	NST
+641, 6	1348, 1-3	INT	arglwydd mawr lovely	---	SNT
+
+
+642, 1	1349, 1-5	EML	ew annwyl dyma baned iawn	---	NSNT
+
+
+643, 1	1351, 1-3	INT	llyncwch o hogiau	NSNT	NSNT
+643, 2	1352, 1-3	INT	fynd o yma	---	NSNT
+
+
+644, 1	1354, 1-1	EML	*eh*	---	NST
+
+
+645, 1	1355, 1-2	INT	llyncwch o	NSNT	NSNT
+645, 2	1356, 1-5	INT	mi gewch fynd o yma	---	NSNT
+
+
+646, 1	1359, 1-4	GOR	gymrwch chi *cigarette* rŵan	NST	NST
+646, 2	1360, 1-2	GOR	ia Stan	---	NSNT
+
+
+647, 1	1361, 1-1	INT	arglwydd	---	NSNT
+
+
+648, 1	1362, 1-6	GOR	gymrwn ni *cigarette* bob un rŵan	---	NST
+
+
+649, 1	1363, 1-3	STN	basai *right* *nice*	NST	NST
+649, 2	1363, 4-4	STN	basai	---	NSNT
+
+
+650, 1	1364, 1-1	INT	*eh*	ST	NST
+650, 3	1366, 1-3	INT	dydd Llun nesa	NSNT	NSNT
+650, 4	1366, 4-10	INT	mae nhw yn ban_io yr smocio dwch	---	SNT
+
+
+651, 1	1368, 1-9	EML	does yna mond Clive a Stan yn smocio yeah	---	NSNT
+
+
+652, 1	1369, 1-4	GOR	na fydd Stan smocio	---	NSNT
+
+
+653, 1	1370, 1-3	EML	wneith Stan ddim	---	NSNT
+
+
+654, 1	1372, 1-6	STN	roi gorau iddi ers pedair blynedd	---	NSNT
+
+
+655, 1	1373, 1-2	EML	na Ianto	NSNT	NSNT
+655, 3	1375, 1-2	EML	na finnau	---	NSNT
+
+
+656, 1	1376, 1-2	STN	pedair blynedd	---	NSNT
+
+
+657, 1	1377, 1-1	INT	*hey*	---	NST
+
+
+658, 1	1378, 1-5	EML	oh oedd yna twenty_five years	---	SNT
+
+
+659, 1	1379, 1-1	INT	sbïwch	NSNT	NSNT
+659, 2	1380, 1-1	INT	sbïwch	---	NSNT
+
+
+660, 1	1381, 1-3	EML	roi gorau iddi	---	NSNT
+
+
+661, 1	1382, 1-3	CLV	sy gyn Ianto	---	NSNT
+
+
+662, 1	1384, 1-3	INT	sbïwch ar hwnna	---	NSNT
+
+
+663, 1	1385, 1-1	GOR	baco	---	NSNT
+
+
+664, 1	1386, 1-1	EML	baco	---	NSNT
+
+
+665, 1	1388, 1-7	INT	wneith hwnna i mi am flynyddoedd ylwch	---	NSNT
+
+
+666, 1	1389, 1-1	EML	arglwydd	---	NSNT
+
+
+667, 1	1392, 1-6	INT	mae nhw yn deud juice i_gyd	---	SNT
+
+
+668, 1	1393, 1-8	EML	ti wneud i ni feddwl am y nhad	NSNT	NSNT
+668, 2	1394, 1-7	EML	a nhad gynno fo bwtsh bach coch	NSNT	NSNT
+668, 3	1395, 1-2	EML	oedd yna	NSNT	NSNT
+668, 4	1395, 3-5	EML	a meddai fo	---	NSNT
+
+
+669, 1	1398, 1-1	INT	mae	NSNT	NSNT
+669, 2	1400, 1-4	INT	mae nhw yn deud	NSNT	NSNT
+669, 3	1400, 5-9	INT	dydy yr juice i_gyd ddim	NSNT	SNT
+669, 4	1400, 10-10	INT	dydy	---	NSNT
+
+
+670, 1	1405, 1-8	STN	pan i yn fychan ddannoedd neu rywbeth felly	NSNT	NSNT
+670, 2	1407, 1-8	STN	oedd y nhad cnoi cnoi baco bob amser	---	NSNT
+
+
+671, 1	1408, 1-3	EML	*er* yn y	---	NST
+
+
+672, 1	1410, 1-3	INT	yn enwedig o	---	NSNT
+
+
+673, 1	1411, 1-4	EML	oeddwn i methu gwybod	NSNT	NSNT
+673, 2	1411, 5-10	EML	sut oedd fan yno yn smocio	NSNT	NSNT
+673, 3	1412, 1-8	EML	ond rŵan dw i digon call i wybod	NSNT	NSNT
+673, 4	1413, 1-8	EML	o'n i mynd yn sâl a chysgu te	NSNT	NSNT
+673, 6	1416, 1-5	EML	oedd y ddannoedd wedi stopio	NSNT	NSNT
+673, 7	1416, 6-6	EML	doedd	---	NSNT
+
+
+674, 1	1418, 1-2	GOR	mae yna	NSNT	NSNT
+674, 2	1418, 3-3	GOR	mae	NSNT	NSNT
+674, 3	1418, 4-4	GOR	yr	NSNT	NSNT
+674, 4	1418, 5-6	GOR	mae smocio	---	NSNT
+
+
+675, 1	1419, 1-4	STN	pigo yn y glust	---	NSNT
+
+
+676, 1	1421, 1-7	GOR	mae smocio yn gwneud *lot* o ddrwg	NST	NST
+676, 2	1421, 8-8	GOR	wchi	---	NSNT
+
+
+677, 1	1422, 1-5	EML	pigo yn y glust ia	NSNT	NSNT
+677, 2	1423, 1-3	EML	bob peth baco	---	NSNT
+
+
+678, 1	1424, 1-4	GOR	*lot* o ddaioni hefyd	---	NST
+
+
+679, 1	1427, 1-7	STN	oh doedd yna ddim_byd arall i gael	NSNT	NSNT
+679, 2	1427, 8-9	STN	nag oedd	---	NSNT
+
+
+680, 1	1428, 1-2	GOR	nag oedd	---	NSNT
+
+
+681, 1	1429, 1-2	EML	nag oedd	NSNT	NSNT
+681, 2	1430, 1-2	EML	nag oedd	---	NSNT
+
+
+682, 1	1431, 1-4	STN	a rŵan mae *pills*	NST	NST
+682, 3	1433, 1-4	STN	mae gyn i *bills*	NST	NST
+682, 4	1434, 1-5	STN	wn i ddim be ddiawl	NSNT	NSNT
+682, 5	1434, 6-12	STN	mae nhw gyd yn wneud wir Dduw	---	NSNT
+
+
+683, 1	1438, 1-3	EML	well petaswn i	NSNT	NSNT
+683, 2	1438, 4-9	EML	petasai rywun yn yn ysgwyd i	NSNT	NSNT
+683, 3	1438, 10-10	EML	te	NSNT	NSNT
+683, 4	1438, 11-15	EML	fyswn i ratlio efo *pills*	---	NST
+
+
+684, 1	1440, 1-4	GOR	*mmm* a finnau hefyd	---	NST
+
+
+685, 1	1441, 1-3	INT	enwedig os oedd	NSNT	NSNT
+685, 2	1441, 4-8	INT	gynnoch chi dwll yn y	NSNT	NSNT
+685, 3	1441, 9-9	INT	te	NSNT	NSNT
+685, 4	1443, 1-11	INT	*er* o faco droi o a ei stwffio fo iddo fo	---	NST
+
+
+686, 1	1447, 1-9	GOR	oh fyddai ers blynyddoedd pigyn yn glust gyn bobl	---	NSNT
+
+
+687, 1	1448, 1-1	INT	byddai	---	NSNT
+
+
+688, 1	1449, 1-4	GOR	chwythu mwg efo peipen	---	NSNT
+
+
+689, 1	1450, 1-3	INT	wn i ddim	---	NSNT
+
+
+690, 1	1451, 1-4	GOR	yn dy glust di	---	NSNT
+
+
+691, 1	1453, 1-2	STN	yeah tad	---	NSNT
+
+
+692, 1	1455, 1-3	EML	yeah baco bob	---	NSNT
+
+
+693, 1	1456, 1-4	INT	yeah doedd y toedd	---	NSNT
+
+
+694, 1	1457, 1-5	EML	a heddiw mae yn lladd	NSNT	NSNT
+694, 2	1457, 6-7	EML	meddai nhw	---	NSNT
+
+
+695, 1	1460, 1-8	INT	doedd yna ddim sôn am ear_aches adeg hynny	NSNT	SNT
+695, 2	1460, 9-10	INT	nag oedd	---	NSNT
+
+
+696, 1	1461, 1-2	GOR	nag oedd	---	NSNT
+
+
+697, 1	1464, 1-2	CLV	mond ear_ache	---	SNT
+
+
+698, 1	1465, 1-8	STN	fe ges i dynnu yn lung nineteen fifty	SNT	SNT
+698, 2	1465, 9-12	STN	de tynnu yn lung	NSNT	SNT
+698, 3	1467, 1-2	STN	nineteen fifty	---	NSNT
+
+
+699, 1	1469, 1-1	EML	chi	---	NSNT
+
+
+700, 1	1470, 1-5	STN	ia ar_ôl y rhyfel de	NSNT	NSNT
+700, 2	1471, 1-7	STN	wchi o'n i wedi llyncu crude *oil*	NST	ST
+700, 3	1472, 1-4	STN	anyway ta_waeth am hynny	NSNT	SNT
+700, 4	1473, 1-8	STN	a wedyn doedd gyn i mond un lung	SNT	SNT
+700, 5	1474, 1-10	STN	a fuais i yn smocio tan tan pedair blynedd yn_dôl	NSNT	NSNT
+700, 7	1477, 1-5	STN	effeithiodd o ddim arna fi	---	NSNT
+
+
+701, 1	1478, 1-1	INT	wsti	---	NSNT
+
+
+702, 1	1479, 1-7	STN	ia a yr smocio de tua sixty	SNT	SNT
+702, 2	1481, 1-3	STN	y dydd te	---	NSNT
+
+
+703, 1	1482, 1-5	EML	ia ia fath â finnau	SNT	NSNT
+703, 2	1483, 1-10	EML	forty y dydd o'n i smocio i *senior* service te	---	ST
+
+
+704, 1	1484, 1-6	INT	oh sbïwch hen fynydd yn mynd	NSNT	NSNT
+704, 2	1484, 7-7	INT	te	NSNT	NSNT
+704, 3	1486, 1-9	INT	oh faint o daith o fan yna oedd yna	NSNT	NSNT
+704, 4	1488, 1-4	INT	a a a pibelli	NSNT	NSNT
+704, 5	1490, 1-3	INT	a yr baco	---	NSNT
+
+
+705, 1	1492, 1-8	GOR	oedd yna ddeugain yn Amlwch yma o dafarnau	---	NSNT
+
+
+706, 1	1493, 1-3	INT	wn i ddim	---	NSNT
+
+
+707, 1	1495, 1-5	GOR	ond dim tafarnau oedden nhw	NSNT	NSNT
+707, 2	1496, 1-7	GOR	tai oedden nhw wedi iwsio yr siambr	NSNT	NSNT
+707, 3	1496, 8-18	GOR	oedden nhw yn galw nhw amser hwnnw i fynd â cwrw	NSNT	NSNT
+707, 4	1496, 19-19	GOR	te	---	NSNT
+
+
+708, 1	1497, 1-1	CLV	tai	NSNT	NSNT
+708, 2	1499, 1-4	CLV	lle i yfed cwrw	---	NSNT
+
+
+709, 1	1502, 1-7	GOR	mae yna bentre ohonyn nhw rŵan yn	NSNT	NSNT
+709, 2	1502, 8-8	GOR	wchi	SNT	NSNT
+709, 3	1503, 1-6	GOR	George_the_Fourth oedd enw un yn Llaneilian	NSNT	SNT
+709, 4	1503, 7-10	GOR	te rywle yn Llaneilian	NSNT	NSNT
+709, 5	1504, 1-1	GOR	Blue_Bell	NSNT	NSNT
+709, 6	1506, 1-7	GOR	*er* dw ddim cofio nhw gyd rŵan	---	NST
+
+
+710, 1	1507, 1-1	INT	dyna	NSNT	NSNT
+710, 2	1507, 2-11	INT	sut mae Gareth wedi cael ei alw yn Gareth Blue_Bell	---	NSNT
+
+
+711, 1	1508, 1-8	GOR	ia yn Blue_Bell oedd o yn byw ylwch	---	NSNT
+
+
+712, 1	1513, 1-6	STN	Frenchman oedd eu tad nhw yeah	---	SNT
+
+
+713, 1	1514, 1-3	INT	wn i ddim	---	NSNT
+
+
+714, 1	1515, 1-3	GOR	wn i ddim	NSNT	NSNT
+714, 2	1517, 1-2	GOR	Griffiths Mr_Griffiths	NSNT	NSNT
+714, 3	1519, 1-2	GOR	*scouser* te	---	NST
+
+
+715, 1	1521, 1-5	STN	deud na Frenchman oedd o	NSNT	SNT
+715, 2	1522, 1-5	STN	ond fedra i ddim deud	---	NSNT
+
+
+716, 1	1523, 1-1	GOR	*oho*	---	NST
+
+
+717, 1	1524, 1-4	STN	fedra i ddim deud	NSNT	NSNT
+717, 2	1524, 5-5	STN	te	---	NSNT
+
+
+718, 1	1525, 1-4	GOR	*real* *scouser* beth bynnag	NST	NST
+718, 3	1527, 1-11	GOR	yeah wedyn drws nesa i yr Blue_Bell yma oedd yna le	NSNT	NSNT
+718, 4	1527, 12-16	GOR	byddai *tramps* ers_talwm cael bed_and_breakfast	---	ST
+
+
+719, 1	1530, 1-4	STN	y Cabin ia dŵad	---	NSNT
+
+
+720, 1	1531, 1-1	GOR	*pardon*	---	NST
+
+
+721, 1	1532, 1-5	STN	Cabin oedd ei enw fo	---	NSNT
+
+
+722, 1	1533, 1-3	GOR	wn i ddim	NSNT	NSNT
+722, 2	1533, 4-8	GOR	be oedd ei enw fo	---	NSNT
+
+
+723, 1	1534, 1-6	STN	*right* drws nesa i Blue_Bell ia	---	NST
+
+
+724, 1	1535, 1-6	GOR	*er* Mrs_Knight oedd yn gadw fo	NST	NST
+724, 2	1537, 1-7	GOR	yeah mond *er* mond i *dramps* felly	---	NST
+
+
+725, 1	1538, 1-2	EML	oh Duw	NSNT	NSNT
+725, 2	1540, 1-10	EML	ew oedd hi yn yn ddynes ffeind ofnadwy felly toedd	---	NSNT
+
+
+726, 1	1541, 1-4	GOR	oedden nhw yn talu	NSNT	NSNT
+726, 2	1541, 5-5	GOR	te	---	NSNT
+
+
+727, 1	1544, 1-7	EML	sut oedd gyn *tramps* bres i dalu	---	NST
+
+
+728, 1	1545, 1-4	CLV	well begio oedd o	NSNT	NSNT
+728, 2	1545, 5-5	CLV	te	---	NSNT
+
+
+729, 1	1546, 1-8	GOR	well toedd o begio ac yn peth yna	---	NSNT
+
+
+730, 1	1547, 1-1	EML	be	---	NSNT
+
+
+731, 1	1548, 1-3	CLV	begio oedd o	NSNT	NSNT
+731, 2	1548, 4-4	CLV	te	NSNT	NSNT
+731, 3	1550, 1-4	CLV	doedd gwneud dim_byd arall	NSNT	NSNT
+731, 4	1550, 5-11	CLV	nag oedd yn ei oes mond begio	---	NSNT
+
+
+732, 1	1551, 1-2	STN	Washi_Bach te	NSNT	NSNT
+732, 2	1551, 3-4	STN	fyddai Washi_Bach	---	NSNT
+
+
+733, 1	1552, 2-5	GOR	fyddai Washi_Bach yna *lot*	---	NST
+
+
+734, 1	1554, 1-4	EML	oh oh Washi_Bach yeah	---	NSNT
+
+
+735, 1	1556, 1-2	GOR	a Sawdl	---	NSNT
+
+
+736, 1	1560, 1-7	STN	pa yr un oedd yn balog dŵad	---	NSNT
+
+
+737, 1	1561, 1-4	GOR	oh wn i ddim	NSNT	NSNT
+737, 3	1563, 1-3	GOR	oh James Jim	---	NSNT
+
+
+738, 1	1565, 1-5	INT	oh yr argoel efo yr	---	NSNT
+
+
+739, 1	1566, 1-4	GOR	efo Miss_Roberts oedd hwnnw	---	NSNT
+
+
+740, 1	1568, 1-3	STN	ia dyna chdi	---	NSNT
+
+
+741, 1	1572, 1-6	INT	ac yn Amlwch pob nos Sadwrn	---	NSNT
+
+
+742, 1	1573, 1-5	GOR	byddai ac ar yr *accordion*	---	NST

@@ -1,0 +1,1555 @@
+
+
+1, 1	1, 1-9	LUN	wna i probably gysgu yn tŷ *Beth* nos Sadwrn	NST	ST
+1, 2	2, 1-6	LUN	gysgu yn tŷ hi nos Iau	NSNT	NSNT
+1, 3	3, 1-13	LUN	*oh* dw i mynd i dydd Gwener hefyd i wneud gwallt Beth hefyd	NST	NST
+1, 4	4, 1-6	LUN	mae wedi tynnu plaits fi allan	---	SNT
+
+
+2, 1	5, 1-6	BTI	*oh* *yeah* be mae yn wneud	---	NST
+
+
+3, 1	6, 1-4	LUN	*just* cael plaits *normal*	NST	ST
+3, 2	7, 1-9	LUN	apparently mae yr ddynes efo rei really *nice* *yeah*	ST	ST
+3, 3	8, 1-9	LUN	mae nhw yn rei really really really tenau *yeah*	---	ST
+
+
+4, 1	11, 1-7	BTI	*yeah* oedd hi am gael hynna o_blaen	NST	NST
+4, 2	11, 8-9	BTI	oedd ond	---	NSNT
+
+
+5, 1	13, 1-5	LUN	mae yn deud hynna bob	NSNT	NSNT
+5, 2	13, 6-6	LUN	tro	NSNT	NSNT
+5, 3	14, 1-6	LUN	ond wneith hi ddim gael nhw	NSNT	NSNT
+5, 5	16, 1-13	LUN	wedyn *um* ond wnaeth y ddynes gymryd pedwar diwrnod i wneud o *yeah*	---	NST
+
+
+6, 1	19, 1-1	BTI	*phwoa*	---	NST
+
+
+7, 1	20, 1-9	LUN	*so* *yeah* wnaeth hi ddeud never again na *yeah*	---	ST
+
+
+8, 1	22, 1-9	BTI	aeth chwaer fi i tŷ ffrind hi iawn ddoe	NSNT	NSNT
+8, 2	23, 1-9	BTI	a *um* wnes i sbïo ar *phone* hi wedyn	NST	NST
+8, 3	24, 1-3	BTI	a oedd hi	NSNT	NSNT
+8, 4	24, 4-8	BTI	wedi bod yn o'n nhw	NSNT	NSNT
+8, 5	24, 9-13	BTI	wedi bod yn text_io ei_gilydd	NSNT	SNT
+8, 6	25, 1-1	BTI	ond	---	NSNT
+
+
+9, 1	26, 1-2	LUN	yn tŷ	---	NSNT
+
+
+10, 1	27, 1-4	BTI	ia yn y tŷ	---	NSNT
+
+
+11, 1	28, 1-3	LUN	*oh* my God	---	NST
+
+
+12, 1	29, 1-4	BTI	o'n i fath â	NSNT	NSNT
+12, 2	30, 1-15	BTI	a wedyn mae hi yn cwyno *um* amdana fi yn mynd ar *games* neu rywbeth	NST	NST
+12, 3	31, 1-5	BTI	a mae hi yn meddwl	NSNT	NSNT
+12, 4	31, 6-10	BTI	bod hwnna wastio pres hi	NSNT	NSNT
+12, 5	32, 1-5	BTI	ond dydy o ddim *yeah*	NST	NST
+12, 7	34, 1-6	BTI	ond hi sy wastio pres hi	NSNT	NSNT
+12, 8	35, 1-9	BTI	*er* *mam* dw i angen top_up o twenty quid	ST	ST
+12, 9	36, 1-8	BTI	achos dim ond dim ond tri punt sy	NSNT	NSNT
+12, 10	36, 9-11	BTI	genna fi ar_ôl	---	NSNT
+
+
+13, 1	37, 1-1	LUN	twenty	---	NSNT
+
+
+14, 1	38, 1-3	BTI	mae fath â	---	NSNT
+
+
+15, 1	39, 2-9	LUN	wnaeth hi ddeud wan yn y *car* hefyd	NST	NST
+15, 2	40, 1-5	LUN	dim ond tri punt sy	NSNT	NSNT
+15, 3	40, 6-8	LUN	genna fi ar_ôl	---	NSNT
+
+
+16, 1	41, 1-2	BTI	achos mae	---	NSNT
+
+
+17, 1	42, 1-10	LUN	o'n i ddim yn gwybod sut i roi rheina sti	NSNT	NSNT
+17, 2	43, 1-6	LUN	achos pan oedd hi yn pwsio	NSNT	NSNT
+17, 3	44, 1-10	LUN	oedd hi yn mynd i *phone* *book* iawn pwsio two	ST	ST
+17, 4	45, 1-11	LUN	ac wedyn oedd o yn dod *balance* hi yn dod i_fyny	NST	NST
+17, 6	47, 1-7	LUN	o'n i ddim yn gwybod hynna o_blaen	NSNT	NSNT
+17, 7	48, 1-6	LUN	o'n i yn ffonio bob tro	---	NSNT
+
+
+18, 1	50, 1-16	BTI	*yeah* *so* *yeah* *um* essay english ydy *um* compare a contrast y dau poem am death	---	ST
+
+
+19, 1	51, 1-5	LUN	*oh* *yeah* dw ddim yn	NST	NST
+19, 2	51, 6-9	LUN	dw ddim yn gallu	NSNT	NSNT
+19, 3	51, 10-11	LUN	dw ddim	NSNT	NSNT
+19, 4	52, 1-3	LUN	dw ddim gwybod	NSNT	NSNT
+19, 5	52, 4-10	LUN	dw i *just* ddim yn licio poems	---	ST
+
+
+20, 1	53, 1-5	BTI	na dim rei Saesneg anyway	---	SNT
+
+
+21, 1	55, 1-9	LUN	na dw ddim yn dallt y rei Cymraeg chwaith	NSNT	NSNT
+21, 2	56, 1-5	LUN	timod yr llyfr melyn yna	NSNT	NSNT
+21, 3	56, 6-7	LUN	gynnon ni	NSNT	NSNT
+21, 4	58, 1-7	LUN	dw ddim yn dallt rheina chwaith *yeah*	NST	NST
+21, 5	59, 1-7	LUN	a ti yn gwybod wnaeth o ddeud	NSNT	NSNT
+21, 7	61, 1-4	LUN	o'n i fath â	NSNT	NSNT
+21, 8	62, 1-8	LUN	*oh* fel yna dw i yn wneud o	---	NST
+
+
+22, 1	65, 1-11	BTI	rhaid ni compario nhw trwy yr holl *thing* neu rywbeth does	---	NST
+
+
+23, 1	67, 1-6	LUN	dw i yn hate_io hynna *yeah*	NST	ST
+23, 2	68, 1-9	LUN	achos wedyn pan ti yn dod i yr diwedd	NSNT	NSNT
+23, 3	69, 1-4	LUN	*so* ti yn mynd	NST	NST
+23, 4	70, 1-11	LUN	*so* dw i wedi dod i yr conclusion *blah* *blah* *blah*	ST	ST
+23, 5	72, 1-7	LUN	ond ti wedi deud bob dim anyway	SNT	SNT
+23, 6	74, 1-12	LUN	*so* ti methu really deud pam ti wedi dod i yr conclusion	ST	ST
+23, 7	75, 1-8	LUN	achos ti yn repetio be ti wedi ddeud	---	NSNT
+
+
+24, 1	76, 1-11	BTI	*yeah* wedyn ti yn end_io fyny yn cael b neu rywbeth	---	ST
+
+
+25, 1	77, 1-6	LUN	*yeah* *well* na c fath â	NST	NST
+25, 2	79, 1-6	LUN	dw ddim yn meindio gael c	NSNT	NSNT
+25, 3	80, 1-9	LUN	os dw i yn gael c yn G_C_S_Es fi	NSNT	SNT
+25, 4	80, 10-11	LUN	dyna fo	NSNT	NSNT
+25, 5	80, 12-15	LUN	fydda i digon hapus	---	NSNT
+
+
+26, 1	81, 1-9	BTI	wnaeth *um* *mam* a *dad* yn deud amdano fo	NST	NST
+26, 2	81, 10-15	BTI	bod o yn *teacher* total *rubbish*	---	ST
+
+
+27, 1	82, 1-1	LUN	pwy	---	NSNT
+
+
+28, 1	83, 1-1	BTI	*Garmon*	---	NST
+
+
+29, 1	84, 1-1	LUN	*Garmon*	---	NST
+
+
+30, 1	85, 1-2	BTI	achos *um*	---	NST
+
+
+31, 1	86, 1-6	LUN	dw ddim yn licio fo *yeah*	NST	NST
+31, 2	87, 1-12	LUN	o'n i erioed yn licio fo pan o'n i yn llai chwaith	---	NSNT
+
+
+32, 1	88, 1-19	BTI	na achos ti gwybod yn fath â parents evenings yna *um* pan dan ni yn mynd i siarad efo	---	ST
+
+
+33, 1	89, 1-13	LUN	*oh* oedd o efo *bunch* o papurau yn bob man neu rywbeth *yeah*	---	NST
+
+
+34, 1	90, 1-6	BTI	*yeah* oedd o a gyd o	NST	NST
+34, 3	92, 1-3	BTI	oedd o gyd	NSNT	NSNT
+34, 4	92, 4-16	BTI	oedd o efo like papur a_pedwar a like sgriblo arno fo a *stuff*	NST	ST
+34, 6	94, 1-5	BTI	gyd oedd o yn wneud	NSNT	NSNT
+34, 7	94, 6-8	BTI	oedd *just* sgriblo	---	NST
+
+
+35, 1	95, 1-9	LUN	do'n i ddim hefo *dad* fi tro yna actually	ST	ST
+35, 2	96, 1-10	LUN	dw i yn ofn mynd efo fo ac yr adeg	NSNT	NSNT
+35, 3	96, 11-17	LUN	ges i gwaetha fi blwyddyn dwytha *yeah*	NST	NST
+35, 4	98, 1-10	LUN	ac o'n i ddim hefo fo diolch i Dduw *yeah*	NST	NST
+35, 6	100, 1-3	LUN	dod adre *yeah*	NST	NST
+35, 7	101, 1-8	LUN	*dad* fi yn mynd *oh* gweiddi arna fi	NST	NST
+35, 8	102, 1-4	LUN	o'n i fath â	NSNT	NSNT
+35, 9	103, 1-2	LUN	*um* be	NST	NST
+35, 11	105, 1-3	LUN	fath â *mmm*	NST	NST
+35, 12	106, 1-8	LUN	na o'n i wedi meddwl dechrau astudio ddoe	NSNT	NSNT
+35, 13	107, 1-5	LUN	ac o'n i fath â	NSNT	NSNT
+35, 14	108, 1-4	LUN	dw i wedi blino	NSNT	NSNT
+35, 15	109, 1-2	LUN	dim ots	---	NSNT
+
+
+36, 1	110, 1-3	BTI	*oh* my God	---	NST
+
+
+37, 1	111, 1-7	LUN	mae raid fi ddechrau cyn bo hir	NSNT	NSNT
+37, 2	111, 8-8	LUN	yli	---	NSNT
+
+
+38, 1	112, 1-5	BTI	dydy o heb sincio mewn	NSNT	NSNT
+38, 2	112, 6-10	BTI	bod rhein yn *serious* eto	---	NST
+
+
+39, 1	113, 1-3	LUN	*yeah* dw gwybod	NST	NST
+39, 2	114, 1-11	LUN	o'n i o'n i yn trio deud wrth fy hun ddoe	NSNT	NSNT
+39, 3	115, 1-4	LUN	o'n i fath â	NSNT	NSNT
+39, 4	116, 1-7	LUN	*o_k* ti angen dechrau astudio wan *o_k*	NST	NST
+39, 5	117, 1-4	LUN	na fedra i ddim	---	NSNT
+
+
+40, 1	118, 1-3	BTI	dw i wedi	---	NSNT
+
+
+41, 1	120, 1-17	LUN	a ti gwybod pan ti ddim yn y mood ti *just* ddim yn mynd i astudio anyway	ST	ST
+41, 2	121, 1-11	LUN	achos wnes i estyn llyfrau fi a bob dim allan *yeah*	NST	NST
+41, 3	122, 1-6	LUN	o'n i like sbïo arno fo	NSNT	SNT
+41, 4	123, 1-4	LUN	o'n i fath â	NSNT	NSNT
+41, 5	124, 1-4	LUN	*o_k* astudio wan astudio	NST	NST
+41, 6	125, 1-4	LUN	o'n i fath â	NSNT	NSNT
+41, 7	126, 1-3	LUN	*oh* stwffio fo	NST	NST
+41, 8	127, 1-4	LUN	gynno fi ddim amynedd	---	NSNT
+
+
+42, 1	128, 1-5	BTI	dw i *just* ddim yn	NST	NST
+42, 2	129, 1-7	BTI	wnes i totally ddim meddwl am hynna	NSNT	SNT
+42, 3	130, 1-8	BTI	achos fath â mae yn hanner tymor iawn	NSNT	NSNT
+42, 5	134, 1-4	BTI	o'n i fath â	NSNT	NSNT
+42, 6	135, 1-2	BTI	*yeah* gwely	---	NST
+
+
+43, 1	137, 1-15	LUN	*yeah* gynnon ni *tests* yn like deuda fourth i eighth of December rywbeth fel yna	---	ST
+
+
+44, 1	140, 1-2	BTI	like *mmm*	ST	NST
+44, 2	141, 1-8	BTI	wnaeth *Helen* ddod i tŷ fi ddoe iawn	ST	NST
+44, 3	142, 1-3	BTI	*oh* my God	---	NST
+
+
+45, 1	143, 1-2	LUN	*oh* God	---	NST
+
+
+46, 1	144, 1-5	BTI	a fath â oedd *um*	NST	NST
+46, 2	144, 6-8	BTI	be ddeudodd o	NSNT	NSNT
+46, 3	145, 1-5	BTI	*oh* *yeah* wnaeth *mam* ddeud	NST	NST
+46, 4	146, 1-13	BTI	*oh* ti mynd i ffonio hi gofyn i hi ddod *round* am *practice*	NST	NST
+46, 5	147, 1-2	BTI	*so* oedd	NST	NST
+46, 6	147, 3-6	BTI	oedd *Gwenllian* fath â	NST	NST
+46, 7	148, 1-9	BTI	o'n i meddwl o chdi ddim yn licio hi	NSNT	NSNT
+46, 9	150, 1-3	BTI	a wedyn oedd	NSNT	NSNT
+46, 10	150, 4-12	BTI	oedd hi yn dechrau deud wrtho *mam* a *dad*	---	NST
+
+
+47, 1	151, 1-3	LUN	*oh* my God	---	NST
+
+
+48, 1	152, 1-8	BTI	na dydy hi ddim yn ffrindiau efo *Helen*	NST	NST
+48, 2	153, 1-7	BTI	dyma hi yn mynd fel hyn *ah*	NST	NST
+48, 3	155, 1-13	BTI	achos dw i yn end_io fyny deud wrtho chwaer fi bob dim *yeah*	NST	ST
+48, 4	156, 1-6	BTI	ond dw ddim yn gwybod pam	NSNT	NSNT
+48, 5	158, 1-3	BTI	dw *just* yn	NST	NST
+48, 6	159, 1-4	BTI	fel yna ydw i	NSNT	NSNT
+48, 7	160, 1-9	BTI	*well* wneith hi ddeud wrtho i pobl eraill anyway	ST	ST
+48, 8	161, 1-10	BTI	ond dw i dal yn deud wrtha hi bob dim	---	NSNT
+
+
+49, 1	163, 1-3	LUN	*oh* my God	---	NST
+
+
+50, 1	164, 1-6	BTI	although dim ond naw oed ydy	NSNT	SNT
+50, 3	166, 1-3	BTI	ond anyway *um*	ST	ST
+50, 5	168, 1-2	BTI	*yeah* *so*	ST	NST
+50, 6	169, 1-8	BTI	*oh* *yeah* *um* *so* oedd *mam* fath â	NST	NST
+50, 7	170, 1-8	BTI	dach chi isio te i cadw chi fynd	NSNT	NSNT
+50, 8	171, 1-3	BTI	fel yna iawn	NSNT	NSNT
+50, 9	173, 1-4	BTI	o'n i fath â	NSNT	NSNT
+50, 10	175, 1-4	BTI	a wedyn o hi	NSNT	NSNT
+50, 11	176, 1-3	BTI	te du *please*	NST	NST
+50, 12	177, 1-4	BTI	o'n i fath â	SNT	NSNT
+50, 13	178, 1-2	BTI	*ugh* *o_k*	---	NST
+
+
+51, 1	179, 1-2	LUN	te du	NSNT	NSNT
+51, 2	180, 1-6	LUN	fedri di ddim gael te du	---	NSNT
+
+
+52, 1	182, 1-2	BTI	heb llefrith	---	NSNT
+
+
+53, 1	183, 1-1	LUN	ych_a_fi	NSNT	NSNT
+53, 2	184, 1-4	LUN	*ugh* heb lefrith o_gwbl	NST	NST
+53, 3	186, 1-2	LUN	*ugh* afiach	---	NST
+
+
+54, 1	188, 1-13	BTI	*yeah* anyway *so* dyma ni yn dechrau wneud y duet *piano* yma iawn	NST	ST
+54, 2	189, 1-4	BTI	a wedyn oedd hi	NSNT	NSNT
+54, 3	189, 5-11	BTI	oedd hi yn rush_io fo bob munud	NSNT	SNT
+54, 4	190, 1-8	BTI	oedd hi ddim yn cadw ar y *thing*	NST	NST
+54, 5	191, 1-2	BTI	*so* mae	NST	NST
+54, 6	191, 3-13	BTI	mae *bit* fi yn mynd fel yna yn really *fast* iawn	NST	ST
+54, 7	192, 1-5	BTI	a o'n i fath â	NSNT	NSNT
+54, 8	193, 1-6	BTI	*ugh* mae yn brifo llaw fi	NST	NST
+54, 10	195, 1-3	BTI	fel yna iawn	SNT	NSNT
+54, 11	196, 1-3	BTI	*oh* my God	ST	NST
+54, 12	197, 1-11	BTI	a oedd *mam* *mam* wedi dod â yr te mewn iawn	NST	NST
+54, 13	198, 1-8	BTI	a *um* wnaethon nhw prynu *Dairy_Milk* *size* yna	NST	NST
+54, 14	199, 1-4	BTI	oedd o yn massive	---	SNT
+
+
+55, 1	200, 1-2	LUN	*mmm* *nice*	---	NST
+
+
+56, 1	201, 1-8	BTI	a *um* wnaeth hi *just* torri *bits* i_fyny	NST	NST
+56, 2	201, 9-12	BTI	a roid o ar	NSNT	NSNT
+56, 3	201, 13-18	BTI	roid o ar y bwrdd iawn	---	NSNT
+
+
+57, 1	202, 1-7	LUN	ti efo *thing* i wneud *fondue* *set*	---	NST
+
+
+58, 1	203, 1-3	BTI	be ydy hwnna	---	NSNT
+
+
+59, 1	204, 1-3	LUN	*oh* my God	ST	NST
+59, 3	206, 1-15	LUN	fath â *o_k* ti roi cannwyll yn gwaelod *yeah* a roid y *chocolate* yn *top*	NST	NST
+59, 4	208, 1-4	LUN	a mae yn melt_io	SNT	SNT
+59, 5	209, 1-11	LUN	wedyn gynna chdi fath â forksticks i dipio marshmallows yno fo	---	SNT
+
+
+60, 1	210, 1-6	BTI	*ooh* na gynno fi ddim hwnna	---	NST
+
+
+61, 1	211, 1-9	LUN	*ooh* basen ni wedi gallu wneud hynna heno yma	---	NST
+
+
+62, 1	212, 1-5	BTI	oes yna rei yn *Tesco's*	---	NST
+
+
+63, 1	213, 1-5	LUN	na mae nhw yn ddrud	NSNT	NSNT
+63, 2	213, 6-7	LUN	dw meddwl	NSNT	NSNT
+63, 3	215, 1-7	LUN	gynno fi un yn tŷ fi hefyd	NSNT	NSNT
+63, 4	216, 1-2	LUN	dim ots	---	NSNT
+
+
+64, 1	217, 1-12	BTI	fedri di *just* roi powlen anyway mewn microwave a like iwsio *fork*	---	ST
+
+
+65, 1	219, 1-2	LUN	neu dipio	NSNT	NSNT
+65, 2	220, 1-3	LUN	gynno chdi microwave	NSNT	SNT
+65, 4	227, 1-2	LUN	*chocolate* massive	---	NST
+
+
+66, 1	228, 1-9	BTI	*oh* *yeah* oedd y *chocolate* ar y bwrdd iawn	NST	NST
+66, 2	229, 1-3	BTI	a wedyn oedd	NSNT	NSNT
+66, 3	229, 4-17	BTI	oedd *Helen* *just* yn cario ymlaen mynd at y bwrdd a *just* cymryd mwy	NST	NST
+66, 4	230, 1-1	BTI	a	NSNT	NSNT
+66, 5	231, 1-5	BTI	*ooh* mae rhein yn addictive	ST	ST
+66, 6	232, 1-2	BTI	fath â	NSNT	NSNT
+66, 7	233, 1-6	BTI	a ti gwybod y *piano* iawn	NST	NST
+66, 8	234, 1-4	BTI	achos mae yn newydd	NSNT	NSNT
+66, 9	234, 5-13	BTI	dw i wedi trio cadw fo like perfect iawn	---	SNT
+
+
+67, 1	235, 1-2	LUN	mae *nice*	---	NST
+
+
+68, 1	236, 1-3	BTI	a bob tro	NSNT	NSNT
+68, 2	236, 4-17	BTI	mae *Gwenllian* yn fath â eistedd ar y *stool* a lean_io ar y *piano*	NST	ST
+68, 3	236, 18-21	BTI	dw i fath â	NSNT	NSNT
+68, 4	237, 1-6	BTI	*Gwenllian* stopia lean_io ar y *piano*	NST	ST
+68, 5	240, 1-19	BTI	a wedyn wnaeth hi *just* dod mewn *yeah* gael *phone* hi *just* dympio fo ar yr ochr fel yna	NST	NST
+68, 6	241, 1-5	BTI	a o'n i fath â	NSNT	NSNT
+68, 7	242, 1-4	BTI	be uffar ti wneud	NSNT	NSNT
+68, 8	243, 1-2	BTI	fel yna	NSNT	NSNT
+68, 9	244, 1-9	BTI	o'n i yn o'n i really isio crogi hi	NSNT	SNT
+68, 10	245, 1-5	BTI	o'n i fath â *argh*	NST	NST
+68, 12	247, 1-6	BTI	wedyn *ah* oedd hi *just* yn	NST	NST
+68, 13	248, 1-9	BTI	sbïa *um* o'n i gorod gael y *phone* yma	NST	NST
+68, 14	249, 1-9	BTI	achos oedd o yn really *phone* crappy hyll *yeah*	NST	ST
+68, 16	251, 1-7	BTI	achos dw i wedi colli *phone* fi	NST	NST
+68, 17	252, 1-12	BTI	a wedyn wnaeth hi *just* dympio fo nôl fel yna fath â	NST	NST
+68, 18	252, 13-15	BTI	bod o yn	SNT	NSNT
+68, 19	253, 1-6	BTI	*oh* shit colli te fi *oh*	---	ST
+
+
+69, 1	254, 1-3	LUN	*oh* my God	---	NST
+
+
+70, 1	255, 1-9	BTI	*er* *yeah* fath â bod o yn *yeah* anyway	ST	ST
+70, 2	256, 1-5	BTI	*so* o'n i yn pethau	NST	NST
+70, 3	257, 1-8	BTI	*hello* mae hwn yn *piano* really *nice* newydd	NST	ST
+70, 4	258, 1-5	BTI	ti ddim yn sylwi hynna	---	NSNT
+
+
+71, 1	259, 1-1	LUN	cheeks	---	NSNT
+
+
+72, 1	260, 1-3	BTI	God dw meddwl	NSNT	SNT
+72, 2	260, 4-10	BTI	oedd hi yn wneud o ar pwrpas	NSNT	NSNT
+72, 3	260, 11-11	BTI	sti	---	NSNT
+
+
+73, 1	261, 1-3	LUN	*ugh* *ugh* *eugh*	ST	NST
+73, 3	263, 1-6	LUN	*oh* wnes i gael *Bebo* ddoe	NST	NST
+73, 4	264, 1-2	LUN	*well* wnaeth	NST	NST
+73, 5	265, 1-3	LUN	ti gwybod *Dylan_Llangefni*	---	NST
+
+
+74, 1	267, 1-6	BTI	wnaeth o wneud *Bebo* i fi	---	NST
+
+
+75, 1	269, 1-3	LUN	ti efo *Bebo*	NST	NST
+75, 2	270, 1-5	LUN	o'n i fath â na	NSNT	NSNT
+75, 3	271, 1-2	LUN	*so* mynd	NST	NST
+75, 4	272, 1-3	LUN	*well* wna un	NST	NST
+75, 5	273, 1-4	LUN	o'n i fath â	NSNT	NSNT
+75, 6	274, 1-3	LUN	na na does	NSNT	NSNT
+75, 7	274, 4-8	LUN	gynna i ddim amynedd *yeah*	ST	NST
+75, 8	275, 1-1	LUN	*so*	ST	NST
+75, 9	276, 1-7	LUN	*o_k* wna i wneud un i chdi	NST	NST
+75, 10	277, 1-4	LUN	o'n i fath â	NSNT	NSNT
+75, 11	278, 1-4	LUN	*oh* iawn *o_k* then	ST	ST
+75, 12	279, 1-6	LUN	wnes i fynd arno fo *o_k*	NST	NST
+75, 13	281, 1-9	LUN	a petasa chdi gweld pethau mae wedi sgwennu *o_k*	NST	NST
+75, 14	282, 1-8	LUN	a mae hyn yn edrych fath â fi	NSNT	NSNT
+75, 15	282, 9-12	LUN	sy wedi sgwennu fo	NSNT	NSNT
+75, 16	284, 1-8	LUN	achos *Bebo* fi fysai fo i fod *yeah*	NST	NST
+75, 17	286, 1-6	LUN	*so* ti mynd arno fo iawn	NST	NST
+75, 18	287, 1-4	LUN	mae yn *pink* iawn	ST	NST
+75, 20	289, 1-3	LUN	*um* *Candy_Girl* *o_k*	ST	NST
+75, 21	291, 1-10	LUN	efo like circles gwyn a malu cachu hyd_ddo fo iawn	NSNT	SNT
+75, 22	292, 1-11	LUN	a wedyn mae yna *just* llun o *Dylan* a fi *yeah*	---	NST
+
+
+76, 1	293, 1-1	BTI	*ugh*	---	NST
+
+
+77, 1	294, 1-5	LUN	ac o'n i fath â	---	NSNT
+
+
+78, 1	295, 1-10	BTI	*oh* my God *yeah* watsia *Dylan_Llanbêr* yn mynd arno fo	---	ST
+
+
+79, 1	296, 1-7	LUN	o'n i fath â *oh* God *yeah*	ST	ST
+79, 2	298, 1-5	LUN	mynd *um* *mates* *o_k* *um*	NST	NST
+79, 3	299, 1-4	LUN	*line* nesa iawn *um*	ST	NST
+79, 4	300, 1-8	LUN	I only have one *Dylan_Griffiths* the best forever	ST	NST
+79, 5	302, 1-4	LUN	o'n i fath â	---	NSNT
+
+
+80, 1	303, 1-4	BTI	ella ta dyna pam	NSNT	NSNT
+80, 2	303, 6-13	BTI	wnaeth *Dylan* ddim text_io chdi nôl neu rywbeth	NST	ST
+80, 3	304, 1-2	BTI	ta be	---	NSNT
+
+
+81, 1	307, 1-9	LUN	a wedyn *um* be arall oedd o wedi sgwennu	ST	NST
+81, 2	309, 1-4	LUN	what do I hate	NSNT	NSNT
+81, 3	311, 1-3	LUN	gays and spiders	SNT	NSNT
+81, 4	312, 1-4	LUN	o'n i fath â	SNT	NSNT
+81, 5	313, 1-1	LUN	gays	SNT	NSNT
+81, 6	314, 1-6	LUN	pam baswn i yn hate_io gays	SNT	SNT
+81, 8	317, 1-1	LUN	*music*	ST	NST
+81, 9	319, 1-3	LUN	listen to anything	NSNT	NSNT
+81, 10	321, 1-4	LUN	what do I love	NSNT	NSNT
+81, 11	323, 1-4	LUN	sleeping and drinking *aye*	ST	NST
+81, 12	325, 1-5	LUN	wneud swndio fath â chav	SNT	SNT
+81, 13	326, 1-4	LUN	o'n i fath â	SNT	NSNT
+81, 14	327, 1-3	LUN	*oh* my God	---	NST
+
+
+82, 1	329, 1-4	BTI	wnest ti newid o	---	NSNT
+
+
+83, 1	330, 1-1	LUN	wedyn	NSNT	NSNT
+83, 2	331, 1-7	LUN	na dw ddim yn gwybod sut i	---	NSNT
+
+
+84, 1	332, 1-2	BTI	*oh* God	---	NST
+
+
+85, 1	333, 1-11	LUN	a wedyn *um* o'ch chdi yn mynd i lluniau fi *o_k*	NST	NST
+85, 2	335, 1-7	LUN	ac *just* *Dylan* a fi eto *o_k*	NST	NST
+85, 3	336, 1-6	LUN	ac oedd o yn mynd *um*	ST	NST
+85, 4	337, 1-5	LUN	this is *me* loving *Dylan*	NST	NST
+85, 5	339, 1-3	LUN	and always will	SNT	NSNT
+85, 7	342, 1-4	LUN	o'n i fath â	SNT	NSNT
+85, 8	343, 1-3	LUN	*oh* my God	ST	NST
+85, 9	344, 1-7	LUN	a wedyn wnes i fynd ar *um*	NST	NST
+85, 10	344, 8-15	LUN	be oedd o dŵad *oh* ryw *thing* arall	NST	NST
+85, 11	344, 16-20	LUN	oedd arno fo anyway *yeah*	ST	ST
+85, 12	345, 1-5	LUN	ac oedd o yn mynd	SNT	NSNT
+85, 13	346, 1-3	LUN	I love *Dylan*	ST	NST
+85, 14	347, 1-3	LUN	arno fo *yeah*	ST	NST
+85, 15	348, 1-5	LUN	but oeddan ni fath â	NSNT	SNT
+85, 16	349, 1-7	LUN	*oh* mae hynna yn iawn anyway *yeah*	ST	ST
+85, 17	351, 1-3	LUN	achos like *Dylan*	ST	ST
+85, 18	353, 1-8	LUN	a wedyn *um* *oh* be arall oedd yna	ST	NST
+85, 19	354, 1-9	LUN	*oh* comment *o_k* which oedd yn save_io fi *o_k*	NST	ST
+85, 20	355, 1-2	LUN	oedd comment	SNT	SNT
+85, 21	356, 1-6	LUN	ac oedd llun o *Dylan* ben	NST	NST
+85, 22	356, 7-9	LUN	ei hun *yeah*	NST	NST
+85, 23	358, 1-5	LUN	wedyn oedd o yn mynd	NSNT	NSNT
+85, 24	359, 1-8	LUN	*oh* fi sy wedi wneud y gwaith i_gyd	NST	NST
+85, 25	360, 1-9	LUN	a *yeah* *um* fi sy wedi sgwennu bob dim	NST	NST
+85, 26	361, 1-9	LUN	ti heb wedi wneud dim gwaith chdi dy hun	NSNT	NSNT
+85, 27	363, 1-5	LUN	o'n i fath â *phooph*	NST	NST
+85, 28	364, 1-10	LUN	achos wedyn mae yn profi i bobl mai ddim fi	NSNT	NSNT
+85, 29	364, 11-15	LUN	sy wedi wneud o anyway	NSNT	SNT
+85, 31	367, 1-2	LUN	*ah* God	---	NST
+
+
+86, 1	369, 1-5	BTI	*yeah* be oedd *Owen* yn	NST	NST
+86, 2	370, 1-7	BTI	dw i wedi anghofio yr *story* yna	NST	NST
+86, 3	371, 1-2	BTI	oedd *Owen*	NST	NST
+86, 4	371, 3-8	BTI	yn bod yn annoying neu rywbeth	---	SNT
+
+
+87, 1	372, 1-4	LUN	y *thing* *Huw_Gwilym* yna	NST	NST
+87, 2	374, 1-7	LUN	*oh* oedd o isio *number* o iawn	NST	NST
+87, 3	375, 1-6	LUN	wedyn o'n i fath â oedd	NSNT	NSNT
+87, 4	375, 7-11	LUN	gynna fi ddim fo *yeah*	NST	NST
+87, 5	376, 1-8	LUN	*oh* o'n i meddwl o chdi hefo fo	NST	NST
+87, 6	377, 1-7	LUN	achos est ti i *rugby* efo fo	NST	NST
+87, 7	378, 1-2	LUN	aeth o	NSNT	NSNT
+87, 8	379, 1-7	LUN	na wnaeth o ofyn am *number* chdi	NST	NST
+87, 9	380, 1-4	LUN	o'n i fath â	NSNT	NSNT
+87, 10	382, 1-5	LUN	a dyma fo yn mynd	NSNT	NSNT
+87, 11	383, 1-2	LUN	*well* gynna	NST	NST
+87, 12	383, 3-6	LUN	gynna fo *number* chdi	NST	NST
+87, 13	384, 1-2	LUN	fath â	NSNT	NSNT
+87, 14	385, 1-5	LUN	na dw ddim yn meddwl	NSNT	NSNT
+87, 15	387, 1-6	LUN	*Iolo* wedi roid o iddo fo	NST	NST
+87, 16	389, 1-6	LUN	*oh* pwy fydd hefo *number* fo	NST	NST
+87, 17	390, 1-4	LUN	o'n i fath â	NSNT	NSNT
+87, 18	391, 1-2	LUN	*Iolo* ella	NST	NST
+87, 19	392, 1-6	LUN	pam ti isio *number* o anyway	ST	ST
+87, 20	393, 1-4	LUN	a dyma fo yn	SNT	NSNT
+87, 21	394, 1-2	LUN	*o_k* *ta_ra*	ST	NST
+87, 22	395, 1-3	LUN	fath â be	NSNT	NSNT
+87, 23	396, 1-4	LUN	wnes i text_io wedyn	NSNT	SNT
+87, 24	397, 1-6	LUN	pam o chdi isio *number* *Huw_Gwilym*	NST	NST
+87, 25	398, 1-7	LUN	wnaeth o ddim text_io fi nôl *yeah*	NST	ST
+87, 26	399, 1-7	LUN	wnes i ofyn wrtho fo ar *M_S_N*	NST	NST
+87, 27	400, 1-3	LUN	wnaeth o fynd	NSNT	NSNT
+87, 28	401, 1-3	LUN	pethau personol hogiau	NSNT	NSNT
+87, 29	402, 1-4	LUN	o'n i fath â	SNT	NSNT
+87, 30	403, 1-3	LUN	*o_k* you queer	ST	NST
+87, 32	405, 1-7	LUN	wnes i ddim deud hynna chwaith *yeah*	NST	NST
+87, 33	407, 1-5	LUN	o'n i *just* fath â	NST	NST
+87, 34	408, 1-3	LUN	*o_k* *fine* te	---	NST
+
+
+88, 1	409, 1-12	BTI	*yeah* *so* *oh* *yeah* *um* rhaid fi sôn amdani hi eto *Helen*	NST	NST
+88, 3	411, 1-5	BTI	achos mae *just* yn really	ST	ST
+88, 4	412, 1-3	BTI	fath â oedd	NSNT	NSNT
+88, 5	412, 4-13	BTI	oedd hi yn gwisgo *jeans* like tri blwyddyn oed iawn	NST	ST
+88, 6	413, 1-5	BTI	*um* a apparently mae hi	NST	ST
+88, 7	413, 6-13	BTI	wedi bod yn peintio *room* hi efo *Laura*	NST	NST
+88, 8	414, 1-2	BTI	a mae	NSNT	NSNT
+88, 9	414, 3-3	BTI	mae	NSNT	NSNT
+88, 10	414, 4-11	BTI	wedi bod yn wedi wneud ers tri mis	NSNT	NSNT
+88, 11	415, 1-9	BTI	a dydy dal heb gorffen o kind of *thing*	ST	ST
+88, 12	416, 1-10	BTI	*um* mae yn wneud dau wal yn like *pink* tywyll	NST	ST
+88, 13	417, 1-11	BTI	a mae yn wneud dau wal arall yn cream neu rywbeth	NSNT	SNT
+88, 14	418, 1-7	BTI	a oedda chdi yn gweld y lliw	NSNT	NSNT
+88, 15	419, 1-1	BTI	sbïa	NSNT	NSNT
+88, 16	419, 2-4	BTI	dyna yr lliw	NSNT	NSNT
+88, 17	420, 1-8	BTI	oedd hi yn dangos o ar *jeans* hi	NST	NST
+88, 18	421, 1-15	BTI	oedd *jeans* hi yn totally skank iawn efo like gyd o *dots* paent arnyn nhw	---	ST
+
+
+89, 1	422, 1-3	LUN	*oh* my God	ST	NST
+89, 2	423, 1-3	LUN	pam dau wal	NSNT	NSNT
+89, 3	424, 1-19	LUN	dylsai hi wedi roi tri wal cream ac un wal *pink* dim dau wal *pink* a dau wal cream	ST	ST
+89, 4	426, 1-4	LUN	ddim yn wneud *sense*	NST	NST
+89, 5	427, 1-6	LUN	ti wedi gweld *room* *Lisa* bach	NST	NST
+89, 6	428, 1-2	LUN	dw ddim	NSNT	NSNT
+89, 7	428, 3-7	LUN	yn bod yn evil *o_k*	NST	ST
+89, 8	429, 1-6	LUN	but mae o rhy bright *yeah*	---	ST
+
+
+90, 1	430, 1-4	BTI	pa lliw ydy o	---	NSNT
+
+
+91, 1	431, 1-3	LUN	mae yn *cool*	ST	NST
+91, 2	432, 1-5	LUN	but mae yn bright *o_k*	ST	ST
+91, 3	433, 1-2	LUN	mae like	SNT	SNT
+91, 4	433, 3-17	LUN	mae yr to iawn a fath â wal tri wal *o_k* yn flashy *pink* iawn	---	ST
+
+
+92, 1	436, 1-1	BTI	*ugh*	---	NST
+
+
+93, 1	437, 1-7	LUN	ac yn really *Barbie* flashy *pink* *yeah*	ST	ST
+93, 2	438, 1-8	LUN	a wedyn mae yr llall yn aqua green	SNT	SNT
+93, 4	440, 1-4	LUN	*oh* na doesn't go	---	ST
+
+
+94, 1	443, 1-9	BTI	*oh* ddyla chdi weld *um* *room* chwaer fi te	NST	NST
+94, 2	444, 1-7	BTI	achos dydy o ddim yn bad *yeah*	ST	ST
+94, 3	445, 1-8	BTI	ond mae wedi prynu like blodau *stickers* iawn	NST	ST
+94, 4	446, 1-11	BTI	a *um* oedd hi am sticio nhw yn y walk_in *wardrobe*	ST	ST
+94, 5	448, 1-7	BTI	ond *yeah* *sure* edrych yn *cool* ond	---	NST
+
+
+95, 1	449, 1-6	LUN	pa lliw ydy yr actual waliau	---	SNT
+
+
+96, 1	450, 1-4	BTI	*oh* *well* mae like	ST	ST
+96, 2	450, 5-12	BTI	mae rhan fwyaf ohonyn nhw yn like creamy	SNT	SNT
+96, 3	451, 1-5	BTI	ond mae yr llall yn	NSNT	NSNT
+96, 4	451, 6-9	BTI	be ydy o *garnet*	---	NST
+
+
+97, 1	452, 1-3	LUN	be ydy hwnna	---	NSNT
+
+
+98, 1	453, 1-3	BTI	kind of pinky	---	NSNT
+
+
+99, 1	454, 1-2	LUN	*hmm* *cool*	ST	NST
+99, 2	455, 1-8	LUN	*yeah* but mae hi yn hogan bach anyway	ST	ST
+99, 3	456, 1-7	LUN	wahanol fel yna yndy ti yn gwybod	NSNT	NSNT
+99, 4	456, 8-10	LUN	be dw feddwl	NSNT	NSNT
+99, 5	458, 1-6	LUN	timod pan ti yn like sixteen	SNT	SNT
+99, 6	458, 7-11	LUN	mae yn totally gwahanol *yeah*	NST	ST
+99, 7	460, 1-4	LUN	mae *Derek* yn sixteen	ST	ST
+99, 9	462, 1-7	LUN	mae yn deud ar *M_S_N* fo *um*	ST	NST
+99, 10	463, 1-4	LUN	sixteen heddiw yma hogiau	NSNT	SNT
+99, 11	464, 1-5	LUN	o'n i fath â *o_k*	---	NST
+
+
+100, 1	466, 1-7	BTI	pwy sy yn mynd i *party* chdi	ST	NST
+100, 3	469, 1-1	BTI	*Jackie_Chan*	ST	NST
+100, 5	471, 1-2	BTI	*oh* God	ST	NST
+100, 6	472, 1-7	BTI	wnes i ddeud wrtha chdi am *er*	NST	NST
+100, 7	472, 8-17	BTI	bod *mam* a *Gwenllian* wedi mynd yn *stuck* yn *hospital*	---	NST
+
+
+101, 1	473, 1-1	LUN	be	---	NSNT
+
+
+102, 1	474, 1-9	BTI	*mam* a *Gwenllian* wedi bod yn *stuck* yn *hospital*	---	NST
+
+
+103, 1	475, 1-1	LUN	sut	---	NSNT
+
+
+104, 1	476, 1-2	BTI	achos *um*	---	NST
+
+
+105, 1	477, 1-2	LUN	*er* *Ysbyty_Gwynedd*	---	NST
+
+
+106, 1	478, 4-10	BTI	oedd *Gwenllian* wedi mynd am check_up *yeah*	ST	ST
+106, 2	479, 1-17	BTI	a wedyn *er* oedd gynnyn nhw ddim pres ar_ôl i i ddod allan o yr parking *ground*	ST	ST
+106, 4	481, 1-3	BTI	*so* oedd lwcus	NST	NST
+106, 5	481, 4-8	BTI	oedd *Gwenllian* efo *phone* hi	---	NST
+
+
+107, 1	482, 1-2	LUN	*oh* God	---	NST
+
+
+108, 1	483, 1-5	BTI	achos wnaeth *Gwenllian* ffonio tŷ	NST	NST
+108, 2	484, 1-16	BTI	a wedyn oedd *dad* yn gorod mynd y holl ffordd i *Ysbyty_Gwynedd* *just* i *just* i	NST	NST
+108, 3	484, 17-22	BTI	roid rywbeth fel yna iddyn nhw	---	NSNT
+
+
+109, 1	485, 1-3	LUN	sixty pence *yeah*	---	NST
+
+
+110, 1	486, 1-4	BTI	o'n i fath â	SNT	NSNT
+110, 2	487, 1-2	BTI	*oh* funny	ST	NST
+110, 4	489, 1-6	BTI	a dw meddwl ta pres *Gwenllian*	NST	NST
+110, 5	489, 7-9	BTI	oedd o anyway	SNT	SNT
+110, 6	490, 1-5	BTI	oedd o *just* fath â	NST	NST
+110, 8	492, 1-4	BTI	pres pwy ydy hwn	NSNT	NSNT
+110, 9	494, 1-5	BTI	a *just* cerdded o yna	---	NST
+
+
+111, 1	496, 1-12	LUN	baswn i *just* wedi gofyn wrtha rywun yn *bloody* car_park ffordd yna	ST	ST
+111, 2	497, 1-9	LUN	excuse *me* ga i fenthyg sixty pence gynnoch chi	ST	ST
+111, 5	500, 1-3	LUN	ten pence anybody	NSNT	NSNT
+111, 6	501, 1-2	LUN	five pence	---	NSNT
+
+
+112, 1	502, 1-3	BTI	I *m* poor	NST	NST
+112, 3	504, 1-4	BTI	*please* give *me* money	---	NST
+
+
+113, 1	505, 1-7	LUN	*yeah* ti mynd i_fewn i *car* chdi	NST	NST
+113, 2	506, 1-6	LUN	a mae like *Porsche* neu rywbeth	NST	ST
+113, 3	507, 1-2	LUN	fath â	SNT	NSNT
+113, 4	508, 1-2	LUN	*yeah* *sure*	---	NST
+
+
+114, 1	510, 1-3	BTI	na I wish	---	SNT
+
+
+115, 1	512, 1-7	LUN	na dw ddim yn gwybod yn iawn	NSNT	NSNT
+115, 2	512, 8-16	LUN	os dw i isio like *scooter* *moped* *yeah* ta	NST	ST
+115, 3	512, 17-24	LUN	dw i isio like *motorbike* leany lawr *yeah*	ST	ST
+115, 4	514, 1-6	LUN	but dw licio rei leany lawr	SNT	SNT
+115, 5	515, 1-5	LUN	but dw ddim isio mynd	NSNT	SNT
+115, 6	515, 6-16	LUN	dw ddim isio like wneud y *test* a ffaelio fo *yeah*	NST	ST
+115, 7	517, 1-9	LUN	achos mae efo gears a thingys fel yna *yeah*	NST	ST
+115, 8	519, 1-2	LUN	ond *yeah*	ST	NST
+115, 9	520, 1-7	LUN	but os dw i yn cael *scooter*	NST	ST
+115, 10	520, 8-15	LUN	mae yn mynd i fod yn hawsach *yeah*	NST	NST
+115, 11	521, 1-9	LUN	ond eto mae yr *motorbike* yn edrych yn well	---	NST
+
+
+116, 1	522, 1-9	BTI	*yeah* be *motorbike* iawn fel yna kind of *thing*	---	ST
+
+
+117, 1	523, 1-7	LUN	*yeah* lean_io lawr a bob dim *yeah*	ST	ST
+117, 2	524, 1-2	LUN	*yeah* *cool*	---	NST
+
+
+118, 1	525, 1-9	BTI	*yeah* ti ti ddim fod i gael rheina though	ST	ST
+118, 2	526, 1-17	BTI	ti fod i o'n i meddwl o chdi ddim fod i cael rheina gynta a *mopeds* gynta	---	NST
+
+
+119, 1	527, 1-6	LUN	na gei di un fath â	NSNT	NSNT
+119, 2	528, 1-2	LUN	mae yn	NSNT	NSNT
+119, 3	528, 3-15	LUN	fyset ti yn gallu gael un lean_io *forward* efo fifty *c_c* *engine* *yeah*	NST	ST
+119, 4	530, 1-12	LUN	*as* long *as* bod o ddim yn hundred and twenty_five *c_c* *engine*	ST	ST
+119, 5	530, 13-15	LUN	mae yn iawn	NSNT	NSNT
+119, 6	531, 1-4	LUN	achos ti gwybod *Nelson*	NST	NST
+119, 7	533, 1-3	LUN	na *Iolo* bach	NST	NST
+119, 8	535, 1-6	LUN	*yeah* *well* mae o efo un	NST	NST
+119, 9	537, 1-5	LUN	dyna gaeth o gynta hefyd	NSNT	NSNT
+119, 10	539, 1-3	LUN	a *Richie_Legg* hefyd	NST	NST
+119, 11	540, 1-13	LUN	o'n i am ofyn wrtho *Richie_Legg* os oedd o isio gwerthu un fo	NST	NST
+119, 12	541, 1-3	LUN	ond dw meddwl	NSNT	NSNT
+119, 13	541, 4-9	LUN	bod o dal yn iwsio fo	NSNT	NSNT
+119, 14	543, 1-5	LUN	*mmm* ond mae *Iolo* wedi	NST	NST
+119, 15	543, 6-16	LUN	roid *um* hundred and twenty_five *c_c* yn un fo wan anyway	ST	ST
+119, 16	543, 17-19	LUN	sy yn illegal	---	SNT
+
+
+120, 1	546, 1-4	BTI	na dw ddim yn	NSNT	NSNT
+120, 4	550, 1-6	BTI	*yeah* be o'n i am ddeud	NST	NST
+120, 5	551, 1-15	BTI	*um* oes yna like dau sêt ar un fifty *c_c* then y *thing* lean_io ymlaen	---	ST
+
+
+121, 1	554, 1-7	LUN	ond ti ddim yn gael roi seat	NSNT	SNT
+121, 2	555, 1-12	LUN	but fedra i roi seater yn like *private* roads a ballu anyway	ST	ST
+121, 3	557, 1-7	LUN	roi *lift* i pawb yn *drive* fi	ST	NST
+121, 4	558, 1-1	LUN	*wee*	---	NST
+
+
+122, 1	561, 1-4	BTI	diolch gweld chdi fory	NSNT	NSNT
+122, 3	563, 1-10	BTI	*just* dod i tŷ chdi am *ride* ar *motorbike* chdi	ST	NST
+122, 5	565, 1-1	BTI	*ta_ra*	---	NST
+
+
+123, 1	568, 1-5	LUN	*oh* *hi* ti yn iawn	NST	NST
+123, 2	569, 1-2	LUN	tyrd i_fewn	NSNT	NSNT
+123, 3	570, 1-6	LUN	na dw ddim isio dod i_fewn	NSNT	NSNT
+123, 4	571, 1-9	LUN	dim ond isio *ride* ar *moped* chdi ydw i	NST	NST
+123, 5	572, 1-4	LUN	*ah* iawn *o_k* then	---	ST
+
+
+124, 1	575, 1-1	BTI	rejected	SNT	NSNT
+124, 2	577, 1-2	BTI	*ah* *so*	ST	NST
+124, 3	578, 1-11	BTI	dw dal ddim yn gwybod be i gael i pobl Dolig	NSNT	NSNT
+124, 4	578, 12-18	BTI	sti neu be i gael fy hun	---	NSNT
+
+
+125, 1	579, 1-4	LUN	na fi chwaith actually	SNT	SNT
+125, 2	580, 1-10	LUN	o'n i wedi meddwl gael *bits* and *bobs* i pobl	ST	ST
+125, 3	581, 1-4	LUN	but dw ddim gwybod	NSNT	SNT
+125, 4	582, 1-7	LUN	ella wna i gael *top* neu rywbeth	---	NST
+
+
+126, 1	583, 1-3	BTI	dw i *just*	NST	NST
+126, 3	585, 1-16	BTI	fath â *er* dw i dim ond yn gael i chdi *Angharad* *Beth* a *Kelly* *yeah*	---	NST
+
+
+127, 1	586, 1-3	LUN	*yeah* fi hefyd	---	NST
+
+
+128, 1	587, 1-5	BTI	ddim gael i neb arall	NSNT	NSNT
+128, 2	588, 1-8	BTI	fath â a *just* cardiau i rhei pobl	NST	NST
+128, 3	589, 1-6	BTI	dw ddim yn like gwario *lot*	---	ST
+
+
+129, 1	590, 1-9	LUN	*ah* dw i ddim yn rhoi llwyth o gardiau	NST	NST
+129, 2	590, 10-11	LUN	tro yma	---	NSNT
+
+
+130, 1	591, 1-1	BTI	achos	---	NSNT
+
+
+131, 1	592, 1-1	LUN	amynedd	---	NSNT
+
+
+132, 1	593, 1-5	BTI	mae yn costio *lot* o	NST	NST
+132, 2	594, 1-9	BTI	*er* dw i *just* gynno fi ddim pres *yeah*	NST	NST
+132, 3	596, 1-18	BTI	am ryw am ryw *er* reswm dw i yn really poeni am like pres ar y funud *yeah*	NST	ST
+132, 4	598, 1-14	BTI	achos bod ni yn gael extension dw i yn fath â poeni am pres	NSNT	SNT
+132, 6	600, 1-6	BTI	*mam* a *dad* fi a *stuff*	NST	NST
+132, 7	601, 1-4	BTI	*so* dw fath â	NST	NST
+132, 8	602, 1-3	BTI	ga i bres	---	NSNT
+
+
+133, 1	603, 1-10	LUN	*oh* wnes i ffraeo efo *mam* fi am hynna ddoe	---	NST
+
+
+134, 1	604, 1-1	BTI	be	---	NSNT
+
+
+135, 1	605, 1-8	LUN	ddoe *o_k* wnaeth *licence* fi ddod trwodd iawn	NST	NST
+135, 2	606, 1-4	LUN	o'n i fath â	NSNT	NSNT
+135, 3	607, 1-3	LUN	*oh* iawn *woohoo*	NST	NST
+135, 4	609, 1-8	LUN	ffonio *C_B_Ts* i wneud *c_b_t* *test* fi *yeah*	NST	NST
+135, 5	611, 1-4	LUN	*dad* fi fath â	NST	NST
+135, 6	612, 1-10	LUN	ti wedi gofyn wrth dy fam sut ydyn ni financially	SNT	SNT
+135, 7	614, 1-4	LUN	o'n i fath â	NSNT	NSNT
+135, 8	615, 1-4	LUN	na wna i dalu	NSNT	NSNT
+135, 9	616, 1-4	LUN	o'n nhw fath â	NSNT	NSNT
+135, 10	617, 1-5	LUN	*oh* iawn *o_k* then iawn	NST	ST
+135, 11	618, 1-5	LUN	wnes i ffonio fo iawn	SNT	NSNT
+135, 12	619, 1-9	LUN	hundred and ninety quid i wneud y *test* iawn	NST	ST
+135, 14	621, 1-4	LUN	o'n i fath â	NSNT	NSNT
+135, 15	622, 1-2	LUN	fath â	NSNT	NSNT
+135, 16	623, 1-5	LUN	dw i ddim yn talu	NSNT	NSNT
+135, 18	625, 1-5	LUN	wedyn *mam* fi fath â	NST	NST
+135, 19	626, 1-4	LUN	na wnawn ni dalu	NSNT	NSNT
+135, 20	627, 1-5	LUN	achos ni wnaeth talu *Owain*	NST	NST
+135, 21	629, 1-5	LUN	*so* o'n i fath â	ST	NST
+135, 22	630, 1-5	LUN	*o_k* then dw ddim meindio	ST	ST
+135, 23	632, 1-5	LUN	then *um* wnes i fynd	NST	ST
+135, 24	633, 1-7	LUN	*well* os dw i yn pasio fo	NST	NST
+135, 25	633, 8-12	LUN	dw i isio *motorbike* *yeah*	NST	NST
+135, 26	634, 1-3	LUN	wnes i fynd	NSNT	NSNT
+135, 27	635, 1-5	LUN	na be wnes i ddeud	NSNT	NSNT
+135, 28	636, 1-4	LUN	wnes i ddeud rywbeth	NSNT	NSNT
+135, 29	638, 1-11	LUN	*so* fedran ni fynd i chwilio am *motorbike* dydd Gwener *yeah*	NST	NST
+135, 30	640, 1-4	LUN	wnaeth *mam* fi fynd	NST	NST
+135, 31	641, 1-3	LUN	be ti feddwl	NSNT	NSNT
+135, 32	642, 1-8	LUN	mynd i chwilio am *motorbike* dydd Gwener *yeah*	NST	NST
+135, 33	644, 1-8	LUN	*well* os dw i yn pasio dydd Iau	NST	NST
+135, 34	644, 9-14	LUN	fedran ni gael *motorbike* dydd Gwener	NST	NST
+135, 35	644, 15-28	LUN	medran a roi fi ar y lôn *yeah* cyn fi fynd yn_ôl i ysgol	NST	NST
+135, 38	647, 1-3	LUN	*mam* fath â	NST	NST
+135, 39	648, 1-9	LUN	ti yn gwybod faint mae *motorbikes* yn costio *Luned*	NST	NST
+135, 40	649, 1-4	LUN	o'n i fath â	NSNT	NSNT
+135, 41	650, 1-5	LUN	*yeah* wnaethon ni weld un	NST	NST
+135, 42	650, 6-10	LUN	do am one thousand fifty	SNT	SNT
+135, 43	651, 1-4	LUN	*mam* fi fath â	NST	NST
+135, 44	652, 1-2	LUN	yn union	SNT	NSNT
+135, 45	653, 1-2	LUN	one thousand	SNT	NSNT
+135, 46	654, 1-5	LUN	o'n i fath â *yeah*	NST	NST
+135, 49	657, 1-5	LUN	gei di part_ex_io un *Owain*	NST	ST
+135, 50	658, 1-6	LUN	ac oedd brawd fi fath â	NSNT	NSNT
+135, 51	659, 1-7	LUN	na ti ddim yn gwerthu un fi	NSNT	NSNT
+135, 53	662, 1-3	LUN	*mam* fi fynd	NST	NST
+135, 54	663, 1-10	LUN	*oh* iawn os dan ni ddim yn gwerthu un chdi	NST	NST
+135, 55	663, 11-25	LUN	dach chi dau yn mynd â *mopeds* chi yn y bore *yeah* i ysgol *yeah*	NST	NST
+135, 56	665, 1-4	LUN	o'n i fath â	SNT	NSNT
+135, 57	666, 1-9	LUN	*fine* *as* long *as* dw i yn cael un	NST	ST
+135, 58	667, 1-7	LUN	a wedyn oedd *dad* fi yn mynd	NST	NST
+135, 59	668, 1-7	LUN	ia ti sy gorod prynu yr *coat*	NST	NST
+135, 60	668, 8-8	LUN	sti	NSNT	NSNT
+135, 61	669, 1-9	LUN	ac o'n i wedi gweld un really *nice* *o_k*	ST	ST
+135, 62	671, 1-7	LUN	fel oedd y *jacket* i roi drosodd	NST	NST
+135, 63	671, 8-10	LUN	oedd o *yeah*	NST	NST
+135, 64	672, 1-10	LUN	wedyn ti gorod prynu yr *padding* thingys yn separate *yeah*	ST	ST
+135, 65	674, 1-8	LUN	*so* oedd hwnna dim ond thirty_five quid *o_k*	ST	ST
+135, 66	675, 1-6	LUN	ond dw ddim yn gwybod faint	NSNT	NSNT
+135, 67	675, 7-10	LUN	oedd y *padding* thingys	NST	ST
+135, 68	677, 1-9	LUN	but oedd *dad* fi wedi gweld un arall *yeah*	NST	ST
+135, 69	678, 1-16	LUN	ond oedd o yn hundred and twenty_five quid hefo yr *paddings* a ballu yno fo *yeah*	NST	ST
+135, 70	680, 1-5	LUN	*so* *dad* fi yn mynd	NST	NST
+135, 71	681, 1-5	LUN	*oh* ti yn licio hwnna	NST	NST
+135, 72	682, 1-4	LUN	o'n i fath â	NSNT	NSNT
+135, 73	683, 1-2	LUN	nag ydw	NSNT	NSNT
+135, 74	683, 3-5	LUN	dw i ddim	NSNT	NSNT
+135, 75	684, 2-4	LUN	mae yn *pink*	NST	NST
+135, 76	685, 1-4	LUN	o'n i fath â	NSNT	NSNT
+135, 77	686, 1-6	LUN	*so* dw ddim yn licio fo	NST	NST
+135, 79	688, 1-9	LUN	*yeah* *well* mae raid chdi gael un efo *paddings*	NST	NST
+135, 80	689, 1-13	LUN	*so* wedyn wnaeth o weld un arall yma *o_k* un *army* yma iawn	NST	NST
+135, 81	690, 1-2	LUN	fath â	NSNT	NSNT
+135, 82	692, 1-5	LUN	dw ddim yn gael hwnna	NSNT	NSNT
+135, 83	694, 1-11	LUN	wedyn mae yr *boy* *shop* yn dod atan ni a mynd	NST	NST
+135, 84	695, 1-3	LUN	*oh* mae yna	NST	NST
+135, 85	695, 4-9	LUN	fedri di gael un *army* *pink*	NST	NST
+135, 86	696, 1-4	LUN	o'n i fath â	SNT	NSNT
+135, 87	697, 1-3	LUN	*mmm* *o_k* then	ST	NST
+135, 88	698, 1-3	LUN	weld o *yeah*	NST	NST
+135, 89	699, 1-7	LUN	wnes i weld un yn *magazine* *yeah*	NST	NST
+135, 90	700, 1-13	LUN	ac oedd o fath â *pink* tywyll iawn efo blotches *grey* hyd_ddo fo	NST	ST
+135, 91	701, 1-5	LUN	o'n i fath â ych	---	NSNT
+
+
+136, 1	702, 1-1	BTI	*ugh*	---	NST
+
+
+137, 1	703, 1-4	LUN	o'n i fath â	NSNT	NSNT
+137, 2	704, 1-5	LUN	na dw ddim yn meddwl	NSNT	NSNT
+137, 3	705, 1-6	LUN	dw i wedi gweld y *helmet*	NST	NST
+137, 4	705, 7-10	LUN	dw i isio anyway	---	SNT
+
+
+138, 1	708, 1-4	BTI	pa lliw ydy hwnna	SNT	NSNT
+138, 2	709, 1-1	BTI	*pink*	---	NST
+
+
+139, 1	710, 1-8	LUN	*well* mae o kind of fath â coch	NST	ST
+139, 2	710, 9-14	LUN	mae fath â kind of hwnna	NSNT	SNT
+139, 3	712, 1-4	LUN	fath â coch_y *yeah*	ST	ST
+139, 4	713, 1-6	LUN	a wedyn mae like du iawn	NSNT	SNT
+139, 5	714, 1-15	LUN	ond ella wna i gael yr un du a silver yn lle du a coch	SNT	SNT
+139, 6	715, 1-10	LUN	but mae efo *dragon* *chinee* *dragon* *yeah* ar y cefn	NST	ST
+139, 7	717, 1-13	LUN	a wedyn rownd_ddo fo i_gyd mae yna like patterns a pethau fel yna	---	SNT
+
+
+140, 1	718, 1-1	BTI	*cool*	---	NST
+
+
+141, 1	719, 1-3	LUN	*mmhm* it's pretty	ST	NST
+141, 2	720, 1-3	LUN	ffaelio dydd Iau	NSNT	NSNT
+141, 3	721, 1-4	LUN	fydda i fath â	SNT	NSNT
+141, 4	722, 1-2	LUN	*oh* no	ST	NST
+141, 6	725, 1-6	LUN	a mae yn seven awr *yeah*	---	ST
+
+
+142, 1	726, 1-2	BTI	y *test*	---	NST
+
+
+143, 1	727, 1-5	LUN	*uh_huh* *well* ti mynd i_fewn	NST	NST
+143, 2	728, 1-3	LUN	dw i gorod	NSNT	NSNT
+143, 3	728, 4-19	LUN	bod yna erbyn deg o gloch y bore *yeah* neu half ten rywbeth fel yna *yeah*	NST	ST
+143, 4	729, 1-13	LUN	a wedyn dw i yn gorod mynd â cinio fi efo fi *yeah*	---	NST
+
+
+144, 1	730, 1-1	BTI	God	---	NSNT
+
+
+145, 1	731, 1-7	LUN	mae nhw yn gynta *yeah* ti yn	NST	NST
+145, 2	731, 8-18	LUN	mae nhw yn dysgu chdi *signs* a pethau fel yna *yeah*	NST	NST
+145, 4	734, 1-19	LUN	a wedyn ti yn gorod mynd ar y lôn wedyn *yeah* a *just* dreifio *round* a pethau fel yna	NST	NST
+145, 5	736, 1-18	LUN	a wedyn ti mynd yn_ôl wedyn i weld os ti yn gwybod dy *signs* a pethau fel yna	---	NST
+
+
+146, 1	737, 1-9	BTI	ti ddim yn gorod gael like *theory* papur then	---	ST
+
+
+147, 1	740, 1-5	LUN	a mae yr *boy* like	ST	ST
+147, 2	741, 1-3	LUN	dw i yn	NSNT	NSNT
+147, 3	741, 4-14	LUN	dw i yn edrych ymlaen i gael speaker yn clust fi	NSNT	SNT
+147, 4	743, 1-8	LUN	ti yn cael speaker bach yn clust chdi	NSNT	SNT
+147, 5	744, 1-2	LUN	mae mynd	SNT	NSNT
+147, 6	745, 1-2	LUN	turn left	SNT	NSNT
+147, 7	746, 1-3	LUN	ti fath â	SNT	NSNT
+147, 9	749, 1-1	LUN	*wee*	ST	NST
+147, 11	752, 1-2	LUN	super fun	---	NSNT
+
+
+148, 1	754, 1-12	BTI	na ti gwybod efo yr things oedd Heddlu_Gogledd_Cymru ar *telly* achos *um*	NST	ST
+148, 2	754, 13-23	BTI	bod nhw heb roi *warning* am *signs* neu rywbeth yn *Bangor*	NST	NST
+148, 3	755, 1-7	BTI	achos oedd y *signs* yn like forty	ST	ST
+148, 4	756, 1-13	BTI	a wedyn wnaeth nhw roi nhw lawr i thirty heb deud wrtha neb	---	SNT
+
+
+149, 1	757, 1-5	LUN	*oh* allan yn *Maes_G* *yeah*	---	NST
+
+
+150, 1	758, 1-2	BTI	dw ddim	NSNT	NSNT
+150, 2	758, 3-5	BTI	oedd yna rywle	---	NSNT
+
+
+151, 1	759, 1-6	LUN	ti gwybod lle mae yr cemetery	---	SNT
+
+
+152, 1	760, 1-5	BTI	*oh* *yeah* *yeah* fan yna	---	NST
+
+
+153, 1	761, 1-7	LUN	ella mai fan yna ydy o *yeah*	---	NST
+
+
+154, 1	762, 1-4	BTI	achos oedd *dad* fi	---	NST
+
+
+155, 1	763, 1-9	LUN	oedd loads o old people yn cwyno yn *Tŷ_Mawr*	---	ST
+
+
+156, 1	764, 2-8	BTI	oedd *dad* fi wedi cael ei dal	NST	NST
+156, 2	764, 9-18	BTI	wnaeth *dad* fi cael ei ddal yn fan yna *yeah*	NST	NST
+156, 3	765, 1-7	BTI	a *um* oedd o yn wneud thirty_four	ST	ST
+156, 4	766, 1-7	BTI	ond os oedd o yn wneud thirty_three	SNT	SNT
+156, 5	766, 8-11	BTI	basai fo yn iawn	NSNT	NSNT
+156, 6	766, 12-12	BTI	bysai	---	NSNT
+
+
+157, 1	767, 1-2	LUN	thirty_three *yeah*	NST	NST
+157, 2	768, 1-4	LUN	ten per cent *yeah*	---	NST
+
+
+158, 1	769, 1-8	BTI	ond doedd o ddim yn gwybod ta thirty	SNT	SNT
+158, 2	769, 9-10	BTI	oedd o	NSNT	NSNT
+158, 3	770, 1-6	BTI	a wedyn *um* *so* oedd yn	NST	NST
+158, 4	770, 7-8	BTI	oedd pobl	---	NSNT
+
+
+159, 1	771, 1-6	LUN	*oh* my God wnaeth *dad* chdi	---	ST
+
+
+160, 1	773, 2-5	BTI	oedd o yn gorod	---	NSNT
+
+
+161, 1	774, 1-1	LUN	funny	---	NSNT
+
+
+162, 1	775, 1-4	BTI	oedd o mor funny	SNT	SNT
+162, 2	776, 1-9	BTI	achos oedd o yn gorod mynd iddo fo iawn	NSNT	NSNT
+162, 3	777, 1-6	BTI	a *er* oedd nhw yn gofyn	NST	NST
+162, 4	777, 7-9	BTI	cwestiwn *stupid* like	NST	ST
+162, 5	778, 1-6	BTI	why do you think *um* that	NST	NST
+162, 6	778, 7-11	BTI	you went over the *limit*	ST	NST
+162, 7	779, 1-4	BTI	neu rywbeth fel yna	NSNT	NSNT
+162, 8	780, 1-4	BTI	a oedd *dad* am	NST	NST
+162, 9	780, 5-5	BTI	roid	SNT	NSNT
+162, 10	781, 1-3	BTI	because nobody said	SNT	NSNT
+162, 11	782, 1-6	BTI	am y efo *thing* seiniau yna	NST	NST
+162, 12	784, 1-7	BTI	ond *um* na dw ddim yn meddwl	NST	NST
+162, 13	785, 1-2	BTI	oedd ella	NSNT	NSNT
+162, 14	785, 3-6	BTI	wnaeth o ddeud o	NSNT	NSNT
+162, 15	786, 1-4	BTI	dw ddim yn cofio	NSNT	NSNT
+162, 16	788, 1-7	BTI	ond oedd o yn like dod adre	NSNT	SNT
+162, 17	789, 1-4	BTI	oedd o fath â	NSNT	NSNT
+162, 18	790, 1-5	BTI	paid â siarad i fi	---	NSNT
+
+
+163, 1	791, 1-2	LUN	blin *yeah*	NST	NST
+163, 4	794, 1-2	LUN	oedd y	NSNT	NSNT
+163, 5	794, 3-8	LUN	oedd y llwyth o hen bobl	NSNT	NSNT
+163, 6	795, 1-14	LUN	ti gwybod normally ti yn disgwyl like pobl ifanc bod cwyno am *speed* *limits*	NST	ST
+163, 7	796, 1-6	LUN	ddylsai fo fod yn fwy *yeah*	NST	NST
+163, 8	798, 1-9	LUN	*so* oedd yr hen bobl yma yn eistedd iawn	NST	NST
+163, 9	799, 1-5	LUN	ac oedden nhw fath â	NSNT	NSNT
+163, 10	800, 1-8	LUN	*oh* dach chi wedi gwybod y lle yna	NST	NST
+163, 11	800, 9-12	LUN	lle mae *Maesgeirchen* wan	NST	NST
+163, 12	801, 1-9	LUN	mae wedi mynd lawr i tri_deg milltir yr awr	NSNT	NSNT
+163, 13	802, 1-9	LUN	ac dach chi yn mynd lawr allt beth bynnag	NSNT	NSNT
+163, 14	803, 1-7	LUN	sut dach chi fod i slofi lawr	NSNT	NSNT
+163, 15	803, 8-14	LUN	pan dach chi yn mynd lawr allt	NSNT	NSNT
+163, 16	804, 1-4	LUN	o'n i fath â	SNT	NSNT
+163, 18	806, 1-3	LUN	*oh* my God	ST	NST
+163, 20	809, 1-6	LUN	ac oedden nhw yn mynd *um*	NST	NST
+163, 21	810, 1-14	LUN	a be mae yr pobl ifanc yma fod i wneud am y hwyl wan	NSNT	NSNT
+163, 22	811, 1-5	LUN	mynd tri_deg milltir yr awr	NSNT	NSNT
+163, 23	812, 1-5	LUN	dw i ddim yn meddwl	NSNT	NSNT
+163, 24	813, 1-2	LUN	fel yna	NSNT	NSNT
+163, 25	814, 1-6	LUN	ac o'n i fath â *o_k*	NST	NST
+163, 28	817, 1-5	LUN	mae nhw fod i cwyno	NSNT	NSNT
+163, 29	817, 6-7	LUN	dw meddwl	NSNT	NSNT
+163, 30	818, 1-7	LUN	mae nhw yn mynd yn rhy sydyn	SNT	NSNT
+163, 31	819, 1-4	LUN	kind of *thing* *yeah*	ST	NST
+163, 32	821, 1-8	LUN	a oedden nhw like isio mynd yn ffastach	---	SNT
+
+
+164, 1	823, 1-3	BTI	*oh* my God	ST	NST
+164, 2	824, 1-7	BTI	ti wedi bod yn gweithio yn *Tŷ_Mawr*	---	NST
+
+
+165, 1	825, 1-6	LUN	na dim ers pedwar pump wythnos	NSNT	NSNT
+165, 2	826, 1-7	LUN	dw i am chwilio am rywle newydd	NSNT	NSNT
+165, 3	827, 1-9	LUN	mae *Spar* yn *Bethesda* yn chwilio am pobl *yeah*	NST	NST
+165, 4	829, 1-15	LUN	fath â dw ddim really isio cerdded o *Spar* ar nos Wener ben fy hun	NST	ST
+165, 5	829, 16-28	LUN	pan mae yna like loads o chavs a pobl *round* bob man *yeah*	ST	ST
+165, 6	833, 1-2	LUN	*so* no	NST	NST
+165, 7	834, 1-12	LUN	anyway os dw i yn pasio dydd Iau a gael *moped* fi	NST	ST
+165, 8	834, 13-21	LUN	fedra i chwilio am rywle yn *Bangor* neu whatever	---	ST
+
+
+166, 1	838, 1-4	BTI	talu am *petrol* though	---	ST
+
+
+167, 1	839, 1-7	LUN	*yeah* dydy o ddim yn costio llawer	NST	NST
+167, 2	839, 8-8	LUN	sti	NSNT	NSNT
+167, 3	840, 1-12	LUN	i llenwi *tank* mae yn costio rywbeth fath â three *pound* fifty	---	ST
+
+
+168, 1	843, 1-4	BTI	faint mae yn last_io	---	SNT
+
+
+169, 1	844, 1-4	LUN	dibynnu faint ti yn	NSNT	NSNT
+169, 2	845, 1-4	LUN	dw ddim yn gwybod	NSNT	NSNT
+169, 3	846, 1-6	LUN	mae brawd fi dim ond yn	NSNT	NSNT
+169, 4	846, 7-7	LUN	roid	NSNT	NSNT
+169, 5	847, 1-13	LUN	ond dydy brawd fi ddim yn mynd arno fo hynna o faint anyway	SNT	SNT
+169, 6	849, 1-16	LUN	mae brawd fi yn rhywbeth fath â three *pound* sixty_two pence i llenwi fo i_gyd *yeah*	NST	ST
+169, 7	851, 1-19	LUN	a mae hynna normally yn para fo fath â i fynd i *Llanrug* ac yn_ôl tua chwech gwaith ella	NST	ST
+169, 8	853, 1-5	LUN	*so* mae yn iawn anyway	ST	ST
+169, 9	856, 1-8	LUN	ond dw i angen chwilio am *stickers* i	NST	NST
+169, 10	856, 9-13	LUN	roid ar *moped* rhai *pink*	---	NST
+
+
+170, 1	857, 1-1	BTI	*cool*	---	NST
+
+
+171, 1	858, 1-6	LUN	*mmm* dw i efo blodyn *yeah*	NST	NST
+171, 2	859, 1-8	LUN	a dw i efo draig goch Cymru *yeah*	ST	NST
+171, 3	861, 1-6	LUN	but dw i isio pethau *pink*	NST	ST
+171, 4	862, 1-6	LUN	a dw ti ddim yn gael	NSNT	NSNT
+171, 5	862, 7-11	LUN	roid dim_byd ar *helmet* chdi	NST	NST
+171, 6	863, 1-5	LUN	achos mae yn weaken_io fo	NSNT	SNT
+171, 7	864, 1-5	LUN	ti gorfod gael *special* *stickers*	NST	NST
+171, 8	866, 1-5	LUN	o'n i fath â *pph*	NST	NST
+171, 9	867, 1-16	LUN	o'n i am roi blodyn ar ochr o os o'n i yn gweld un plaen *yeah*	---	NST
+
+
+172, 1	868, 1-12	BTI	be fath â reflector *thing* neu rhywbeth i i nhw weld chdi	---	ST
+
+
+173, 1	869, 1-5	LUN	dw ddim isio un plaen	NSNT	NSNT
+173, 2	870, 1-2	LUN	na achos	NSNT	NSNT
+173, 3	871, 1-15	LUN	na yr actual *helmet* *o_k* os ti sticio rhywbeth *stuck* yno fo mae yna like	ST	ST
+173, 4	872, 1-7	LUN	achos mae o mor tensed up *yeah*	---	ST
+
+
+174, 1	873, 1-2	BTI	*oh* yr	---	NST
+
+
+175, 1	874, 1-11	LUN	os ti roi *sticker* arno fo mae o yn gwanedu fo	---	NST
+
+
+176, 1	875, 1-7	BTI	*oh* fath â *protection* i pen chdi	---	NST
+
+
+177, 1	878, 1-6	LUN	wnest ti gweld yr hogan yna	NSNT	NSNT
+177, 2	879, 1-3	LUN	dw i *sure*	NST	NST
+177, 3	879, 4-9	LUN	oedd o yn lôn fath â	NSNT	NSNT
+177, 4	880, 1-8	LUN	ti gwybod lôn ar y ffordd i *One_Stop*	NST	NST
+177, 5	881, 1-6	LUN	dw i *sure* na fan yna	NST	NST
+177, 6	881, 7-10	LUN	ddeudodd *dad* fi iawn	NST	NST
+177, 7	883, 1-4	LUN	oedd y dynes yma	NSNT	NSNT
+177, 8	883, 5-10	LUN	wedi bod yn reidio *er* *motorbike*	NST	NST
+177, 9	883, 11-14	LUN	medda fi *bike* *normal*	NST	NST
+177, 10	885, 1-2	LUN	pedlo iawn	NSNT	NSNT
+177, 11	886, 1-7	LUN	ac oedd hi wedi disgyn drosodd *yeah*	NST	NST
+177, 12	887, 1-7	LUN	a wnaeth y *car* fynd drosta hi	NST	NST
+177, 13	888, 1-6	LUN	na ddim fan yna oedd o	NSNT	NSNT
+177, 14	889, 1-7	LUN	rywbeth fath â turning *Deiniolen* ella dŵad	NST	ST
+177, 15	890, 1-10	LUN	*well* oedd o yn dod allan o turning junction *o_k*	ST	ST
+177, 16	892, 1-8	LUN	a wnaeth hi ddim gweld yr eneth iawn	NSNT	NSNT
+177, 17	893, 1-7	LUN	ac oedd pen hi ar llawr *yeah*	NST	NST
+177, 19	895, 1-8	LUN	a wnaeth y *car* dreifio drosto fo *yeah*	NST	NST
+177, 21	897, 1-3	LUN	a wnaeth *er*	NST	NST
+177, 22	897, 4-15	LUN	oedda chdi yn gweld y *helmet* wedi cracio a bob dim *yeah*	NST	NST
+177, 23	898, 1-6	LUN	*ah* *yeah* ac *um* oedd yr	NST	NST
+177, 24	898, 7-13	LUN	os basai hi ddim wedi gwisgo *helmet*	NST	NST
+177, 25	898, 14-22	LUN	basai pen hi wedi cael ei crush_o to *bits*	---	ST
+
+
+178, 1	899, 1-2	BTI	*oh* God	---	NST
+
+
+179, 1	900, 1-7	LUN	ond oedd y *helmet* wedi save_io hi	NST	ST
+179, 2	902, 1-15	LUN	basa chdi ddim meddwl really basai fo yn safio chdi o yr *car* though na	NST	ST
+179, 3	903, 2-3	LUN	mae mor	---	NSNT
+
+
+180, 1	904, 1-1	BTI	scary	---	NSNT
+
+
+181, 1	905, 1-6	LUN	baswn i yn cachu yn hun	---	NSNT
+
+
+182, 1	906, 1-1	BTI	ych_a_fi	---	NSNT
+
+
+183, 1	907, 1-4	LUN	baswn i fath â	SNT	NSNT
+183, 2	908, 1-2	LUN	*oh* no	ST	NST
+183, 4	910, 1-12	LUN	os o'n i yn gweld gwaed baswn i yn really ofn anyway	---	SNT
+
+
+184, 1	911, 1-5	BTI	ges i dream weird neithiwr	NSNT	SNT
+184, 2	911, 6-6	BTI	sti	---	NSNT
+
+
+185, 1	912, 1-2	LUN	amdan be	---	NSNT
+
+
+186, 1	913, 1-9	BTI	*um* *well* *well* wnes i godi fyny bore yma	NST	NST
+186, 2	914, 1-8	BTI	a *um* wnes i fynd i *bathroom* iawn	NST	NST
+186, 3	915, 1-9	BTI	a oedd chwaer fi yn cymryd ages yn *bathroom*	NST	ST
+186, 4	916, 1-16	BTI	a wedyn *so* es i nôl i i *room* fi *just* i brwsio gwallt fi iawn	NST	NST
+186, 5	917, 1-8	BTI	a oedd *dad* wedi dwyn lle yn *bathroom*	NST	NST
+186, 6	918, 1-7	BTI	oedd *dad* wedi mynd i *bathroom* iawn	NST	NST
+186, 8	920, 1-6	BTI	*so* o'n i fath â *argh*	NST	NST
+186, 9	921, 1-9	BTI	*so* oedd o yna am like chwarter awr iawn	NST	ST
+186, 10	922, 1-3	BTI	a wedyn oedd	NSNT	NSNT
+186, 11	922, 4-10	BTI	oedd *Gwenllian* yn canu rywbeth fath â	ST	NST
+186, 12	923, 1-5	BTI	three hundred *millilitres* of *Ribena*	ST	NST
+186, 13	924, 1-4	BTI	rywbeth fel yna iawn	---	NSNT
+
+
+187, 1	925, 1-3	LUN	*oh* my God	---	NST
+
+
+188, 1	926, 1-6	BTI	oedd hi *just* yn canu fo	NST	NST
+188, 2	927, 1-5	BTI	o'n i fath â *o_k*	NST	NST
+188, 3	928, 1-3	BTI	ond dw meddwl	NSNT	NSNT
+188, 4	928, 4-5	BTI	dw meddwl	NSNT	NSNT
+188, 5	928, 6-18	BTI	bod hi yn gorod yfed hynna o faint neu rywbeth fel yna iawn	NSNT	NSNT
+188, 6	930, 1-10	BTI	a wedyn *um* *oh* achos o'n i yn dallt wedyn	NST	NST
+188, 7	931, 1-5	BTI	wnes i cofio dream fi	NSNT	SNT
+188, 8	932, 1-12	BTI	a o'n i yn meddwl ta *um* *Pat_Chem* oedd yn ddeud o	NST	NST
+188, 9	933, 1-2	BTI	fath â	SNT	NSNT
+188, 11	935, 1-7	BTI	*please* put three hundred *millilitres* of *Ribena*	---	NST
+
+
+189, 1	936, 1-3	LUN	*oh* my God	---	NST
+
+
+190, 1	937, 1-5	BTI	*oh* oedd o yn funny	ST	ST
+190, 3	939, 1-21	BTI	*so* o'n i yn meddwl o'n i yn gorod wneud fath â experiment yma efo *Ribena* neu rywbeth yn dream fi	---	ST
+
+
+191, 1	940, 1-3	LUN	imagine_io wneud hynna	NSNT	SNT
+191, 2	941, 1-6	LUN	basai pawb *just* yn yfed o	---	NST
+
+
+192, 1	942, 1-2	BTI	*oh* funny	ST	NST
+192, 2	943, 1-9	BTI	*ooh* ond ti gwybod efo y *toffee* yma iawn	NST	NST
+192, 3	944, 1-5	BTI	o'n i yn darllen *recipes*	NST	NST
+192, 4	945, 1-6	BTI	a ti gallu wneud honeycomb *toffee*	ST	ST
+192, 5	946, 1-5	BTI	mae ti gwybod fath â	NSNT	NSNT
+192, 6	946, 6-9	BTI	sut sy mewn *Crunchie*	NST	NST
+192, 7	948, 1-12	BTI	*um* wnes i ddarllen *um* pan ti yn adio yr *soda* i_fewn	NST	NST
+192, 8	948, 13-19	BTI	mae gyd yn bubble_o fyny fel yna	NSNT	SNT
+192, 9	949, 1-4	BTI	*so* fath â *cool*	---	NST
+
+
+193, 1	951, 1-1	LUN	*smart*	---	NST
+
+
+194, 1	952, 1-5	BTI	*so* wnawn ni wneud peth	---	NST
+
+
+195, 1	953, 1-1	LUN	experiments	---	NSNT
+
+
+196, 1	954, 1-3	BTI	*yeah* *oh* God	ST	NST
+196, 3	956, 1-5	BTI	chwaer fi sy really annoying	SNT	SNT
+196, 4	957, 1-10	BTI	fath â pan mae yn gael ffrindiau i aros draw	NSNT	NSNT
+196, 5	957, 11-12	BTI	mae bob	NSNT	NSNT
+196, 6	957, 13-21	BTI	tro yn wneud potions efo pethau *bathroom* i_gyd iawn	---	ST
+
+
+197, 1	958, 1-4	LUN	wastio nhw gyd *yeah*	---	NST
+
+
+198, 1	959, 1-4	BTI	*yeah* *so* mae like	---	ST
+
+
+199, 1	960, 1-8	LUN	o'n i yn wneud hynna o_blaen yn *sink*	---	NST
+
+
+200, 1	962, 1-8	BTI	gyd o yr mouthwash iawn wedi totally mynd	NSNT	SNT
+200, 2	963, 1-8	BTI	mae wedi ail_llenwi fo efo dŵr neu rywbeth	NSNT	NSNT
+200, 3	964, 1-3	BTI	a achos wnes	NSNT	NSNT
+200, 4	964, 4-11	BTI	wnes i cael peth like tri diwrnod yn_ôl	NSNT	SNT
+200, 5	965, 1-2	BTI	fath â	SNT	NSNT
+200, 6	966, 1-8	BTI	*oh* my God be uffar sy yn hwn	NST	ST
+200, 8	968, 1-4	BTI	iawn poeri fo allan	NSNT	NSNT
+200, 9	969, 1-4	BTI	o'n i fath â	NSNT	NSNT
+200, 10	970, 1-4	BTI	*ugh* mae nhw wedi	NST	NST
+200, 11	970, 5-8	BTI	roid rywbeth yn hwn	---	NSNT
+
+
+201, 1	971, 1-5	LUN	dyna o'n i am ddeud	SNT	NSNT
+201, 2	972, 1-9	LUN	imagine mae wedi wneud y potion a *just* wedi	NST	ST
+201, 3	972, 10-17	LUN	roid y potion gyd yn_ôl i_fewn iddo fo	---	SNT
+
+
+202, 1	973, 1-5	BTI	ia dw i gwybod *ugh*	---	NST
+
+
+203, 1	974, 1-2	LUN	*oh* God	---	NST
+
+
+204, 1	975, 1-3	BTI	a mae bob	NSNT	NSNT
+204, 3	976, 1-13	BTI	dw i yn fath â gwybod gyd o yr hiding places erbyn wan	NSNT	SNT
+204, 4	978, 1-3	BTI	*so* fath â	NST	NST
+204, 5	979, 1-3	BTI	*yeah* da iawn	NST	NST
+204, 6	980, 1-11	BTI	*um* *so* cyn i fi fynd i_fewn dw i fath â	NST	NST
+204, 7	981, 1-7	BTI	*Gwenllian* ti wedi bod yn wneud potions	ST	ST
+204, 8	982, 1-5	BTI	mae hi fath â na	NSNT	NSNT
+204, 9	983, 1-8	BTI	a wedyn *yeah* dw i yn ffeindio fo	NST	NST
+204, 10	984, 1-3	BTI	be ydy hwn	NSNT	NSNT
+204, 11	984, 4-4	BTI	ta	NSNT	NSNT
+204, 12	985, 1-3	BTI	*ah* fel yna	---	NST
+
+
+205, 1	986, 1-2	LUN	*yeah* *ugh*	---	NST
+
+
+206, 1	987, 1-4	BTI	mae eitha gutted bob	NSNT	SNT
+206, 2	987, 5-5	BTI	tro	NSNT	NSNT
+206, 3	988, 1-3	BTI	ond dw i	NSNT	NSNT
+206, 4	988, 4-8	BTI	dw i yn cofio wneud	NSNT	NSNT
+206, 5	989, 1-11	BTI	o'n i yn wneud potions though pan o'n i yn fach	---	SNT
+
+
+207, 1	990, 1-7	LUN	efo yr tooth_paste yn float_io ar *top*	---	ST
+
+
+208, 1	991, 1-10	BTI	*ugh* *yeah* na ti gwybod wnes i actually invent_io rywbeth	NST	ST
+208, 2	991, 11-11	BTI	sti	---	NSNT
+
+
+209, 1	992, 1-3	LUN	*oh* my God	---	NST
+
+
+210, 1	993, 1-11	BTI	ti gwybod *um* *oh* be *Johnson's_Baby_Lotion* iawn yr un *pink* yna	NST	NST
+210, 2	995, 1-5	BTI	a efo *talcum* *powder* iawn	NST	NST
+210, 3	996, 1-4	BTI	ti yn mix_io hwnna	NSNT	SNT
+210, 4	997, 1-6	BTI	a mae mynd kind of doughy	SNT	SNT
+210, 5	998, 1-7	BTI	ond dw i yn cofio wneud hwn	NSNT	NSNT
+210, 6	998, 8-8	BTI	sti	---	NSNT
+
+
+211, 1	999, 1-3	LUN	*oh* my God	---	NST
+
+
+212, 1	1000, 1-8	BTI	*um* mae yn mynd kind of doughy iawn	NST	ST
+212, 2	1001, 1-10	BTI	a yn tŷ hen fi oedda chdi yn agor ffenestr	NSNT	NSNT
+212, 3	1002, 1-11	BTI	a oedd fath â to y *garage* ar y ochr iawn	---	NST
+
+
+213, 1	1003, 1-2	LUN	*just* lluchio	---	NST
+
+
+214, 1	1004, 1-6	BTI	o'n i *just* lluchio fan yna	ST	NST
+214, 2	1005, 1-3	BTI	*oh* my God	ST	NST
+214, 3	1006, 1-4	BTI	oedd o mor funny	SNT	SNT
+214, 4	1007, 1-6	BTI	*um* wnaeth o ddim mynd tan	NST	NST
+214, 5	1007, 7-10	BTI	wnaeth o dechrau glawio	NSNT	NSNT
+214, 7	1009, 1-6	BTI	oedd o fath â wythnos yna	NSNT	NSNT
+214, 8	1010, 1-4	BTI	oedd o yn hilarious	SNT	SNT
+214, 10	1012, 1-5	BTI	oedd o like dough *pink*	ST	ST
+214, 11	1013, 1-2	BTI	mor *cool*	---	NST
+
+
+215, 1	1017, 1-9	LUN	faint o oriau mae pwy yna yn gweithio *Angharad*	---	NST
+
+
+216, 1	1018, 1-4	BTI	dw ddim yn gwybod	NSNT	NSNT
+216, 2	1019, 1-5	BTI	mae yn gweithio tan wyth	---	NSNT
+
+
+217, 1	1020, 1-5	LUN	*yeah* dw ddim yn gwybod	NST	NST
+217, 2	1020, 6-13	LUN	os mae yn wneud deuddeg tan wyth ta	NSNT	NSNT
+217, 3	1020, 14-21	LUN	ydy yn wneud pedwar tan wyth ta be	---	NSNT
+
+
+218, 1	1021, 1-6	BTI	*mmm* cofio be wnaeth hi ddeud	ST	NST
+218, 2	1023, 1-3	BTI	*oh* my God	---	NST
+
+
+219, 1	1025, 1-4	LUN	*oh* *yeah* mix_io diod	---	ST
+
+
+220, 1	1027, 1-3	BTI	*oh* mor funny	ST	ST
+220, 2	1028, 1-8	BTI	a wedyn tsiarjio fo like saith punt rywbeth	NSNT	SNT
+220, 3	1030, 1-11	BTI	*oh* oedd *dad* fi yn dal yn deud wrtha fi ddoe	NST	NST
+220, 4	1030, 12-15	BTI	oedd o fath â	NSNT	NSNT
+220, 5	1031, 1-7	BTI	*oh* mae dal yn chwerthin amdano fo	NST	NST
+220, 7	1033, 1-8	BTI	*ah* ti gwybod be arall oedd *dad* fi	NST	NST
+220, 8	1033, 9-18	BTI	dw i erioed wedi gweld *dad* fi yn chwerthin gymaint	NST	NST
+220, 9	1034, 1-5	BTI	oedd o yn chwerthin *oh*	NST	NST
+220, 10	1034, 6-11	BTI	oedd gwyneb o literally yn coch	NSNT	SNT
+220, 11	1035, 1-2	BTI	oedd o	NSNT	NSNT
+220, 12	1035, 3-6	BTI	oedd o fath â	NSNT	NSNT
+220, 13	1035, 7-11	BTI	bod o yn crio iawn	NSNT	NSNT
+220, 14	1036, 1-8	BTI	ond oedd o ddim tears yn dod allan	NSNT	SNT
+220, 15	1037, 1-5	BTI	*um* ti gwybod y *Royle_Family*	---	NST
+
+
+221, 1	1038, 1-7	LUN	*oh* God dw ddim yn licio hwnna	NST	ST
+221, 2	1040, 1-6	LUN	mae yn mynd ar *nerves* fi	NST	NST
+221, 3	1041, 1-7	LUN	mae yn really mynd ar *nerves* fi	---	ST
+
+
+222, 1	1042, 1-5	BTI	*er* na mae yna fel	NST	NST
+222, 2	1043, 1-10	BTI	ia mae o yn mynd ar *nerves* fi hefyd *yeah*	NST	NST
+222, 3	1044, 1-7	BTI	ond like wnes i watsio ychydig o	---	SNT
+
+
+223, 1	1045, 1-4	LUN	mae yn funny weithiau	---	SNT
+
+
+224, 1	1046, 3-8	BTI	oedd rei o *bits* yn funny	ST	ST
+224, 2	1048, 1-8	BTI	oedd *bits* eraill *just* yn fath â *hmm*	NST	NST
+224, 3	1050, 1-3	BTI	achos oedd o	NSNT	NSNT
+224, 4	1051, 1-9	BTI	*yeah* oedd o fath â one *off* neu rywbeth	NST	ST
+224, 5	1052, 1-4	BTI	wnaethon ni watsio fo	NSNT	NSNT
+224, 6	1053, 1-8	BTI	oedd *dad* fi fath â *oh* my God	ST	ST
+224, 8	1055, 1-4	BTI	oedd o funny though	SNT	SNT
+224, 9	1056, 1-8	BTI	achos oedd like y hen nain yn canu	NSNT	SNT
+224, 10	1056, 9-15	BTI	oedd o fath â efo headphones ar	NSNT	SNT
+224, 12	1058, 1-11	BTI	a *so* oedd hi yn canu yn really uchel fath â	NST	ST
+224, 13	1060, 1-7	BTI	ddim cofio be oedd hi yn canu	SNT	NSNT
+224, 14	1061, 1-2	BTI	funny though	---	NSNT
+
+
+225, 1	1062, 1-14	LUN	*ah* dw i fod i fynd ar *holidays* efo *Beth* iawn blwyddyn nesa iawn	NST	NST
+225, 2	1064, 1-17	LUN	*aye* achos mae *mam* fi newydd talu am sgïo i fynd i Italy efo ysgol anyway *yeah*	ST	ST
+225, 4	1068, 1-7	LUN	a mae nhw wedi deud wrtho fi	NSNT	NSNT
+225, 5	1068, 8-27	LUN	bod o yn nine hundred quid *yeah* i fynd i *um* *m* *m* rywle *m* rywle anyway iawn whatever *yeah*	---	ST
+
+
+226, 1	1070, 1-2	BTI	yn lle	---	NSNT
+
+
+227, 1	1071, 1-2	LUN	*m* rywle	NST	NST
+227, 2	1072, 1-4	LUN	dw ddim yn gwybod	NSNT	NSNT
+227, 3	1073, 1-5	LUN	ryw island yma ydy o	---	SNT
+
+
+228, 1	1074, 1-5	BTI	*yeah* wrth ymyl lle though	---	ST
+
+
+229, 1	1075, 1-5	LUN	*yeah* dw ddim yn gwybod	NST	NST
+229, 2	1077, 1-6	LUN	wedyn oedd o yn either hwnna	NSNT	SNT
+229, 3	1078, 1-5	LUN	*oh* be uffar oedd o	---	NST
+
+
+230, 1	1079, 1-1	BTI	*Malaga*	ST	NST
+230, 2	1080, 1-5	BTI	na ddim yn gwybod *hmm*	---	NST
+
+
+231, 1	1081, 1-5	LUN	whatever oedd o anyway iawn	NSNT	SNT
+231, 2	1083, 1-6	LUN	*well* mae *Jon* cariad chwaer fi	NST	NST
+231, 3	1083, 7-11	LUN	wedi bod yna o_blaen iawn	NSNT	NSNT
+231, 5	1086, 1-10	LUN	a dan ni yn aros yn four star *hotel* but	ST	ST
+231, 6	1086, 11-14	LUN	bod o yn all_inclusive	SNT	SNT
+231, 7	1087, 1-17	LUN	ond no way bod chdi yn talu four hundred quid yn *extra* i un *person* all_inclusive *yeah*	---	ST
+
+
+232, 1	1089, 1-3	BTI	*oh* my God	---	NST
+
+
+233, 1	1090, 1-3	LUN	no way *yeah*	ST	NST
+233, 2	1091, 1-7	LUN	*so* mae chwaer fi yn trio deud	NST	NST
+233, 3	1091, 8-12	LUN	bod nhw yn con_io fi	SNT	SNT
+233, 4	1092, 1-5	LUN	but dw ddim yn gwybod	---	SNT
+
+
+234, 1	1093, 1-4	BTI	pwy yn con_io chdi	NSNT	SNT
+234, 2	1094, 1-2	BTI	*Beth* ta	---	NST
+
+
+235, 1	1097, 1-4	LUN	dw ddim yn gwybod	NSNT	NSNT
+235, 2	1098, 1-5	LUN	ond ella wna i fynd	NSNT	NSNT
+235, 3	1099, 1-3	LUN	mae yn dibynnu	NSNT	NSNT
+235, 4	1099, 4-12	LUN	ond oedden nhw isio mynd i Ffrainc hefyd *yeah*	ST	NST
+235, 5	1101, 1-6	LUN	but mae nhw yn mynd am	NSNT	SNT
+235, 6	1102, 1-10	LUN	*er* *oh* mae nhw yn mynd am dau wythnos anyway	ST	ST
+235, 7	1103, 1-16	LUN	*so* ella bod o yn wneud *sense* am dau wythnos really am hynna o faint *yeah*	---	ST
+
+
+236, 1	1104, 1-8	BTI	*yeah* *just* sbïa ar y internet i weld	---	ST
+
+
+237, 1	1106, 1-5	LUN	*so* dw ddim yn gwybod	NST	NST
+237, 2	1107, 1-5	LUN	ond dw ddim yn gwybod	NSNT	NSNT
+237, 3	1107, 6-16	LUN	lle wna i gael hynna o faint o bres o chwaith	NSNT	NSNT
+237, 4	1108, 1-8	LUN	achos dw i wedi gwario llwyth o bres	NSNT	NSNT
+237, 5	1109, 1-7	LUN	ac os dw i yn cael *moped*	NST	NST
+237, 6	1109, 8-19	LUN	fydd raid i fi talu am *petrol* a *crap* fel yna *yeah*	NST	NST
+237, 7	1112, 1-13	LUN	a fath â dw i wedi dechrau kind of siopio loads wan *so*	---	ST
+
+
+238, 1	1113, 1-2	BTI	*ah* *cool*	---	NST
+
+
+239, 1	1114, 1-3	LUN	seriously gormod *yeah*	NST	ST
+239, 3	1116, 1-2	LUN	dw ddim	NSNT	NSNT
+239, 4	1116, 3-7	LUN	dw ddim yn prynu llawer	NSNT	NSNT
+239, 5	1117, 1-13	LUN	dw i *just* gael pethau like un peth drud a pethau fel yna	NST	ST
+239, 6	1120, 1-9	LUN	*oh* *mam* fi yn annoy_o fi heddiw yma *o_k*	NST	ST
+239, 7	1121, 1-5	LUN	o'n i isio newid iawn	NSNT	NSNT
+239, 8	1122, 1-3	LUN	wnes i fynd	NSNT	NSNT
+239, 9	1123, 1-3	LUN	dos allan *o_k*	NST	NST
+239, 10	1124, 1-8	LUN	dyma hi yn mynd na na fel yna	NSNT	NSNT
+239, 11	1125, 1-4	LUN	o'n i fath â	NSNT	NSNT
+239, 12	1126, 1-2	LUN	pam ddim	NSNT	NSNT
+239, 13	1127, 1-3	LUN	wnaeth hi fynd	NSNT	NSNT
+239, 14	1128, 1-7	LUN	dw i isio wneud y gwely wan	NSNT	NSNT
+239, 15	1129, 1-3	LUN	gei di ddisgwyl	NSNT	NSNT
+239, 16	1130, 1-4	LUN	o'n i fath â	NSNT	NSNT
+239, 17	1131, 1-6	LUN	gei di newid *sheets* fi wedyn	NST	NST
+239, 18	1132, 1-2	LUN	dos allan	NSNT	NSNT
+239, 19	1133, 1-5	LUN	ac oedd hi fath â	NSNT	NSNT
+239, 20	1134, 1-2	LUN	na wnaf	NSNT	NSNT
+239, 23	1137, 1-9	LUN	ac o'n i fath â *oh* gwylltio fi iawn	NST	NST
+239, 24	1138, 1-8	LUN	*so* dyma fi mynd lawr grisiau wedyn iawn	NST	NST
+239, 25	1139, 1-6	LUN	dyma fi yn mynd lawr *o_k*	NST	NST
+239, 26	1140, 1-4	LUN	dyma *dad* fi yn	NST	NST
+239, 27	1141, 1-9	LUN	pam ti yn mynd yn *bold* efo dy fam	NST	NST
+239, 28	1142, 1-4	LUN	o'n i fath â	NSNT	NSNT
+239, 29	1143, 1-3	LUN	dw i ddim	NSNT	NSNT
+239, 30	1144, 1-5	LUN	o'n i isio newid *yeah*	---	NST
+
+
+240, 1	1145, 1-5	BTI	*oh* mae hynna really annoying	ST	ST
+240, 2	1145, 6-12	BTI	pan mae *dad* chdi cymryd ochrau *ugh*	---	NST
+
+
+241, 1	1146, 1-2	LUN	ych annoying	---	SNT
+
+
+243, 1	1150, 1-2	LUN	*oh* mwdlyd	---	NST
+
+
+244, 1	1151, 1-5	BTI	*yeah* yr un really mwdlyd	NST	ST
+244, 2	1152, 1-4	BTI	a wedyn oedd o	NSNT	NSNT
+244, 3	1152, 5-11	BTI	oedd o yn bwrw ychydig bach iawn	NSNT	NSNT
+244, 4	1153, 1-9	BTI	ond o'n i *just* angen mynd allan o tŷ	NST	NST
+244, 5	1154, 1-13	BTI	achos ers fi sbreinio ankle fi dw ddim yn cael wneud dim_byd na	NSNT	SNT
+244, 6	1156, 1-5	BTI	wedyn oedd *dad* fath â	NST	NST
+244, 7	1157, 1-5	BTI	*oh* os wnei di power_walk_io	ST	ST
+244, 8	1157, 6-9	BTI	fydda chdi fath â	NSNT	NSNT
+244, 9	1158, 1-9	BTI	mae yn well dechrau fel yna na *just* rhedeg	NST	NST
+244, 10	1159, 1-4	BTI	o'n i fath â	NSNT	NSNT
+244, 11	1160, 1-6	BTI	na pan pan dw i yn	NSNT	NSNT
+244, 12	1160, 7-12	BTI	pan mae tri wythnos fi drosodd	NSNT	NSNT
+244, 13	1160, 13-22	BTI	dw i *just* yn mynd a rhedeg *er* fath â	NST	NST
+244, 14	1160, 23-30	BTI	bod bywyd fi drosodd kind of *thing* *yeah*	ST	ST
+244, 15	1162, 1-10	BTI	a wedyn *so* anyway aeth fi a chwaer fi cerdded	NST	ST
+244, 16	1163, 1-6	BTI	a wedyn oedden ni really mwdlyd	NSNT	SNT
+244, 17	1164, 1-5	BTI	oedden ni fath â *ugh*	NST	NST
+244, 18	1165, 1-6	BTI	a *um* am gael socsen iawn	NST	NST
+244, 20	1167, 1-5	BTI	o'n ni fath â *ugh*	---	NST
+
+
+245, 1	1168, 1-2	LUN	*oh* God	---	NST
+
+
+247, 1	1170, 1-2	LUN	*oh* ych	---	NST
+
+
+248, 1	1171, 1-8	BTI	oedd o yn dripio allan fath â *ugh*	---	NST
+
+
+249, 1	1172, 1-1	LUN	afiach	---	NSNT
+
+
+250, 1	1173, 1-4	BTI	oedd o mor disgusting	SNT	SNT
+250, 2	1174, 1-6	BTI	o'n i yn teimlo yn afiach	NSNT	NSNT
+250, 3	1175, 1-5	BTI	o'n i fath â *ugh*	NST	NST
+250, 5	1177, 1-12	BTI	*oh* iawn a wedyn wnaeth y glaw kind of mynd yn waeth	NST	ST
+250, 6	1178, 1-2	BTI	a ar	NSNT	NSNT
+250, 8	1181, 1-18	BTI	ar ar *coat* hen fi o'n i yn gwisgo *coat* hen sgïo fi mae yr *hood* wedi shrincio	NST	NST
+250, 9	1182, 1-13	BTI	*so* oedd o dim ond yn mynd tua hanner ffordd fyny pen fi	NST	NST
+250, 11	1184, 1-5	BTI	*ugh* oedd o yn afiach	NST	NST
+250, 12	1185, 1-9	BTI	a wedyn oedden ni *just* yn cerdded yn_ôl adre	NST	NST
+250, 13	1186, 1-13	BTI	a wedyn oedd *jeans* fi yn mwdlyd a *trainers* fi yn mwdlyd a	NST	NST
+250, 15	1188, 1-5	BTI	a oedd *mam* fath â	NST	NST
+250, 16	1189, 1-10	BTI	*oh* *Beti* a *Gwenllian* raid chi golchi *trainers* chi rŵan	NST	NST
+250, 17	1190, 1-3	BTI	a wedyn *great*	NST	NST
+250, 18	1191, 1-7	BTI	*so* oedd ni gorod golchi nhw iawn	NST	NST
+250, 19	1192, 1-12	BTI	a wedyn *wow* oedden nhw mor gwyn ar_ôl i fi golchi nhw	NST	NST
+250, 21	1194, 1-12	BTI	a wedyn *um* o'n ni yn gorod sticio newspaper mewn a *just*	NST	ST
+250, 22	1195, 1-2	BTI	dw meddwl	NSNT	NSNT
+250, 23	1195, 3-14	BTI	mae nhw dal efo newspaper ynyn nhw ers tua tri diwrnod actually	SNT	SNT
+250, 26	1198, 1-2	BTI	*so* *mmm*	NST	NST

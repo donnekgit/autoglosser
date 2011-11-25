@@ -1,0 +1,253 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{enumitem}
+\usepackage{url}
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
+
+%opening
+\title{Some R notes}
+\author{Kevin Donnelly}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+%\begin{abstract}
+%\end{abstract}
+
+
+\section{Setting up data for the chi-squared test}
+
+Getting data into R can be done manually in several ways.
+
+You can bind the rows:
+<<>>=
+ext=rbind(c(2430, 16776), c(2084, 27532))
+ext
+@
+
+or bind the columns:
+<<>>=
+ext=cbind(c(2430, 2084), c(16776, 27532))
+ext
+@
+
+or read in all the data in one go in column order and segment at the end of every row:
+<<>>=
+ext<-matrix(c(2430,2084,16776,27532),nrow=2)
+ext
+@
+
+You can add headings manually:
+<<>>=
+dimnames(ext)=list("Cognate"=c("Trigger", "No trigger"), "Codeswitch"=c("Switch", "No switch"))
+ext
+@
+
+and also sum rows and columns:
+<<>>=
+addmargins(ext)
+@
+
+You can get proportions (convert to percent by multiplying by 100):
+<<>>=
+prop.table(ext, 1)
+@
+
+A more complex way of getting a labelled table is as follows:
+<<>>=
+Trigger=c("yes","no","yes","no")
+Switch = c("yes","yes","no","no")
+N=c(2430, 2084, 16776, 27532)
+ext_lab=data.frame(Switch, Trigger, N)
+ext_lab
+my_ext_lab=xtabs(N~Switch+Trigger, data=ext_lab)
+my_ext_lab
+my_ext_lab=xtabs(N~Trigger+Switch, data=ext_lab)
+my_ext_lab
+@
+
+Run chi-squared on these tables (they will, of course, give identical results):
+<<>>=
+chisq.test(ext)
+chisq.test(my_ext_lab)
+@
+
+The chi-squared statistic is 437.18, with one degree of freedom. The p-value is the probability -- if it less than 0.05, it is likely that the result is not due to chance.  Here it is 22 with 15 zeros in front of it, ie 0.00000000000000022, which is really tiny.
+
+On 2x2 tables, Yates correction is applied.  If you don't want that, use:
+<<>>=
+chisq.test(ext, correct=F)
+@
+
+To get the expected distributions, use:
+<<>>=
+chisq.test(ext)$expected
+@
+
+You can also get the same thing by putting the results of the chi-squared into a variable.  The benefit here is that you don't need to run the test each time you want to access information from it.
+<<>>=
+results<-chisq.test(ext)
+results$expected
+@
+
+The test produces more data than is displayed -- \textit{expected} is just one of the items available:
+<<>>=
+names(results)
+@
+
+All the data can be accessed by using the following items:
+\begin{description}[itemsep=0.5ex,leftmargin=1cm]
+\item[statistic]: the value of the chi-squared test statistic.
+\item[parameter]: the degrees of freedom of the approximate chi-squared distribution of the test statistic, 'NA' if the p-value is computed by Monte Carlo simulation.
+\item[p.value]: the p-value for the test.
+\item[method]: a character string indicating the type of test performed, and whether Monte Carlo simulation or continuity correction was used.
+\item[data.name]: a character string giving the name(s) of the data.
+\item[observed]: the observed counts.
+\item[expected]: the expected counts under the null hypothesis.
+\item[residuals]: the Pearson residuals, \textit{(observed - expected) / sqrt(expected)}.  These allow you to pick out the most important associations (and their direction).
+\end{description}
+(Thanks to: \textit{\url{http://courses.statistics.com/software/R/Rchisq.htm}}, \textit{\url{http://www.gardenersown.co.uk/Education/Lectures/R/basics.htm}})
+
+You can use short versions of the above (eg obs, exp, res) provided such names are not already being used for soemthing else.
+
+If you wish to extract a single value from one of these tables you can do that by appending row and column headings:
+<<>>=
+results$expected["Trigger", "Switch"]
+@
+
+If you get a warning message:
+\texttt{Chi-squared approximation may be incorrect in: chisq.test(ext)}
+it probably means that the expected count in one cell is very small. 
+
+
+
+
+
+
+
+%table(ext_st, ext_snt)
+%results<-chisq.test(table(ext_st, ext_snt))
+
+
+
+
+To import a \textit{.csv} file directly, and attach the names to 
+<<>>=
+raw<-read.csv("data/raw.csv", row.names=1)
+@
+
+
+You can apply basic operations to the columns:
+<<>>=
+sum(raw$ext_st)
+@ 
+
+
+Using \textit{attach()} means that you can access columns in your dataset by name instead of using \textit{dataset\$column}:
+<<>>=
+attach(raw)
+sum(ext_st)
+@
+
+However, this can lead to problems.  If you attach the same dataset twice in succession, you will get a warning: \texttt{The following object(s) are masked from 'dataset (position n)'}.  This is because you now have two datasets with the same column names, and the columns from the most recently loaded dataset will block usage of the identically-named ones from the previously-loaded copy of the dataset (you can check loading order via \textit{search()}).  This is merely a nuisance, but if you have two completely different datasets which happen to have one or more identical column names, you can end up using a completely different set of data from the one you thought you were using.  Using \textit{attach()} is therefore not recommended unless there are strong reasons of convenience for using it.
+
+You can detach a dataset by using:
+<<>>=
+detach(raw)
+@
+
+
+
+
+
+
+\section{System information}
+
+Check what data-structures are in memory:
+<<>>=
+ls()
+@
+
+Check the searchpath:
+<<>>=
+search()
+@
+
+or (giving directory paths):
+<<>>=
+searchpaths()
+@
+
+
+
+
+
+
+
+\section{Using Sweave}
+
+Sweave inserts the output from R into a LaTeX document.
+
+Set up a basic LaTeX document, and save it with an \textit{.Rnw} extension instead of a \textit{.tex} extension.
+
+In the .Rnw document, enclose the R code with $\ll\gg=$ and @:
+
+$\ll\gg=$\\
+some R code\\
+$@$
+
+and ensure that data etc is accessible by giving the correct filepaths in the R commands..
+
+In R, from the directory where the \textit{test.Rnw} file is located, run:
+
+\texttt{Sweave("test.Rnw")}
+
+This will generate a \textit{test.tex} file, which can be opened and compiled in Kile (Alt+6), or by running:
+
+\texttt{pdflatex text.tex}
+
+The most difficult part of this is remembering to edit the \textit{.Rnw} file instead of the \textit{.tex} one.  If the file contains nicely-formatted tables between
+\textbf{\\begin\{Soutput\}} \\
+and
+\textbf{\\end\{Soutput\}} \\
+you are in the \textit{.tex} file.
+
+
+You can insert switches into the $\ll\gg=$ -- inserting \textit{echo=FALSE} will show the results of the R code, but not the code itself:
+<<echo=FALSE>>=
+ext
+@
+
+Inserting \textit{eval=FALSE} will show the R code, but not the results:
+<<eval=FALSE>>=
+ext
+@
+
+
+
+
+\section{Frequency distribution}
+
+Set up the bins for the frequencies:
+
+<<>>=
+breaks=seq(0, 120, by=10)
+breaks
+@
+
+Then select and process the relevant column (splice the column data with the breaks(\textit{cut}), tabulate the result (\textit{table}), and make it show as a column instead of the default row (\textit{cbind}):
+<<>>=
+cbind(table(cut(raw$ext_snt, breaks, right=FALSE)))
+@
+
+
+
+
+
+
+
+\end{document}

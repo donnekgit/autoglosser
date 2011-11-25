@@ -1,0 +1,4699 @@
+1, 2	2, 1-5	MEN	wnaeth o erioed fwcio dim_byd	NSNT	NSNT
+1, 3	3, 1-9	MEN	oedd wedi mynd ei hun dydd Gwener dwytha wan	NSNT	NSNT
+1, 4	5, 1-13	MEN	i fwcio ei *drain* i fynd i i Gaerdydd *er* mis nesa yma	NST	NST
+1, 5	7, 1-7	MEN	*so* doedd o ddim yn sâl o_gwbl	NST	NST
+1, 6	10, 1-4	MEN	dim *warning* dim dim	---	NST
+
+
+2, 1	11, 1-2	ANG	be digwyddodd	NSNT	NSNT
+2, 2	11, 3-4	ANG	ta felly	---	NSNT
+
+
+3, 1	12, 1-3	MEN	massive heart attack	SNT	NSNT
+3, 2	14, 1-3	MEN	doedd yna ddim_byd	NSNT	NSNT
+3, 3	14, 4-6	MEN	fedrai neb wneud	NSNT	NSNT
+3, 4	18, 1-1	MEN	chafodd	NSNT	NSNT
+3, 5	18, 2-4	MEN	fuodd gynno fo	NSNT	NSNT
+3, 6	18, 5-6	MEN	chafodd *warning*	---	NST
+
+
+4, 1	19, 1-5	BRE	chaeth o ddim rhybudd o_gwbl	---	NSNT
+
+
+5, 1	22, 1-3	ANG	mae rhyfedd fel	NSNT	NSNT
+5, 2	22, 4-17	ANG	mae rei yn fath â rei yn yn dal ymlaen ac ymlaen ac ymlaen	---	NSNT
+
+
+6, 1	23, 1-3	BRE	yn dal arni	NSNT	NSNT
+6, 2	25, 1-3	BRE	rhygnu ymlaen de	---	NSNT
+
+
+7, 1	26, 1-3	MEN	rhygnu ymlaen de	NSNT	NSNT
+7, 2	29, 1-6	MEN	ond *oh* *Harry_Owen* yn dda de	---	NST
+
+
+8, 1	31, 1-4	BRE	oedd y ngwas i	---	NSNT
+
+
+9, 1	32, 1-9	MEN	sut oedd o medru wneud chimod gymaint o ffrindiau	---	NSNT
+
+
+10, 1	35, 1-3	ANG	*oh* ia wir	---	NST
+
+
+11, 1	37, 1-3	MEN	*oh* mae *sure*	NST	NST
+11, 2	37, 4-7	MEN	mae wedi arfer gymaint	NSNT	NSNT
+11, 3	37, 8-9	MEN	mae medru	NSNT	NSNT
+11, 4	37, 10-12	MEN	roid ar ryw	---	NSNT
+
+
+12, 1	39, 1-6	ANG	argoel mae yna ryw ddawn yna	NSNT	NSNT
+12, 2	39, 7-7	ANG	does	---	NSNT
+
+
+13, 1	41, 1-2	MEN	argoel oes	---	NSNT
+
+
+14, 1	42, 1-12	BRE	mae yna ddawn o fynd i o gofio pethau bach am bobl	---	NSNT
+
+
+15, 1	43, 1-3	MEN	ew annwyl oes	NSNT	NSNT
+15, 2	43, 4-4	MEN	cofiwch	---	NSNT
+
+
+16, 1	44, 1-3	ANG	*oh* bobl oes	---	NST
+
+
+17, 1	46, 1-11	MEN	ond oedd y yr hen *Ieuan* wedi cael ryw gyfle bach	NST	NST
+17, 2	46, 12-15	MEN	de i wneud *um*	NST	NST
+17, 3	47, 1-6	MEN	welais i ddim ohono fo chwaith	NSNT	NSNT
+17, 4	48, 1-4	MEN	be ydy enw *brogramme*	NST	NST
+17, 5	48, 5-7	MEN	mae o ar	NSNT	NSNT
+17, 6	49, 1-2	MEN	*well* do	---	NST
+
+
+18, 1	50, 1-1	BRE	*Talcen_Caled*	ST	NST
+18, 2	51, 1-1	BRE	naci	---	NSNT
+
+
+19, 1	52, 1-2	MEN	ia rywbeth	---	NSNT
+
+
+20, 1	53, 1-4	BRE	a *Tri_Tan_y_Manod* neu *Talcen_Caled*	---	NST
+
+
+21, 1	56, 1-2	ANG	*Tri_Tan_y_Manod* wir	ST	NST
+21, 3	58, 1-1	ANG	*Dau_Tan_y_Manod*	---	NST
+
+
+22, 1	59, 1-2	MEN	ella wir	NSNT	NSNT
+22, 2	60, 1-5	MEN	*yeah* ryw *brogramme* newydd ydy	---	NST
+
+
+23, 1	61, 2-8	BRE	oedden nhw yn y *Ring* yn *Llanfrothen*	NST	NST
+23, 2	61, 9-9	BRE	oedden	---	NSNT
+
+
+24, 1	63, 1-8	MEN	ella wir ac oedd eistedd o_flaen y *bar*	---	NST
+
+
+25, 1	64, 1-2	BRE	dyna chi	---	NSNT
+
+
+26, 1	67, 1-2	MEN	deudais i	NSNT	NSNT
+26, 2	67, 3-4	MEN	bod o	NSNT	NSNT
+26, 3	67, 5-6	MEN	wedi bod	NSNT	NSNT
+26, 4	69, 1-2	MEN	*extra* felly	---	NST
+
+
+27, 1	70, 1-2	BRE	*extra* ia	---	NST
+
+
+28, 1	71, 1-7	MEN	ia dach chi cael *lot* o bres	NST	NST
+28, 2	71, 8-11	MEN	dach chi yn *extra*	NST	NST
+28, 4	74, 1-6	MEN	dach chi cofio ni wneud *Angharad*	NST	NST
+28, 5	75, 1-4	MEN	oedda chdi efo ni	---	NSNT
+
+
+29, 1	76, 1-3	ANG	nag o'n i	---	NSNT
+
+
+30, 1	77, 1-6	MEN	*Karen* a fi a pwy ta	---	NST
+
+
+31, 1	78, 1-5	ANG	fuais i ddim yn *extra*	---	NST
+
+
+32, 1	79, 1-3	MEN	oedd hi *sport*	NST	NST
+32, 2	80, 1-3	MEN	pres am dim_byd	---	NSNT
+
+
+33, 1	82, 1-4	ANG	*well* fuoch chi rywdro	---	NST
+
+
+34, 1	83, 1-7	MEN	do cael bwyd a bob_dim a giggles	---	SNT
+
+
+35, 1	85, 1-7	BRE	pa yr un oedd hi felly dwch	---	NSNT
+
+
+36, 1	86, 1-4	ANG	mae *sure* na *Tri_Tan_y_Manod*	NST	NST
+36, 2	87, 1-3	ANG	wnaethon nhw sôn	NSNT	NSNT
+36, 3	87, 4-15	ANG	bod nhw am fynd i_lawr i yr i yr *pub* neu rywbeth	---	NST
+
+
+37, 1	89, 1-4	MEN	fuon nhw ddim allan	---	NSNT
+
+
+38, 1	91, 1-2	BRE	nag oedd	NSNT	NSNT
+38, 2	91, 3-8	BRE	fuon nhw ddim allan o hynny	NSNT	NSNT
+38, 3	91, 9-16	BRE	welais i ar_wahân i yr i yr *um*	NST	NST
+38, 4	92, 1-7	BRE	ychydig welais i ar y gyfres felly	NSNT	NSNT
+38, 5	93, 1-4	BRE	do'n i ddim yn	NSNT	NSNT
+38, 6	95, 1-7	BRE	fuon nhw ddim allan o yr tŷ	---	NSNT
+
+
+39, 1	96, 1-4	ANG	*oh* dyna fo *Tri_Tan_y_Manod*	NST	NST
+39, 2	96, 5-6	ANG	oedd hwnnw	---	NSNT
+
+
+40, 1	98, 1-13	MEN	ia oedd o ddim yn deud dim_byd *Ieu* ond wneud ryw wynebau a	---	NST
+
+
+41, 1	100, 1-7	BRE	oedd yna rywun arall efo fo hefyd	NSNT	NSNT
+41, 2	101, 1-3	BRE	pwy ddeudon nhw	NSNT	NSNT
+41, 3	102, 1-5	BRE	oedd y ddau efo ei_gilydd	---	NSNT
+
+
+42, 1	103, 1-4	MEN	wedi joio ei hun	NSNT	NSNT
+42, 3	107, 1-5	MEN	oedd o dda mewn *drama*	NST	NST
+42, 4	108, 1-4	MEN	welsoch chi mewn *drama*	---	NST
+
+
+43, 1	109, 1-9	ANG	na ond deud bod o yn perthyn i *Drama_Llwyndyrys*	---	NST
+
+
+44, 1	111, 1-3	MEN	*oh* dan ni	NST	NST
+44, 2	111, 4-10	MEN	bod yn weld o ac yn *er*	NST	NST
+44, 3	112, 1-5	MEN	weloch chi o *er* *Angharad*	NST	NST
+44, 4	112, 6-10	MEN	dw i *sure* yn *Penmount*	NST	NST
+44, 5	112, 11-13	MEN	do dramâu bach	---	NSNT
+
+
+45, 1	113, 1-5	ANG	dw i ddim yn cofio	---	NSNT
+
+
+46, 1	114, 1-4	MEN	fuodd yn *Plas_y_Don* hefyd	NST	NST
+46, 2	116, 1-6	MEN	*oh* fe gafon ni *sport* de	NST	NST
+46, 3	117, 1-8	MEN	*well* oedd yr hen fobl wrth eu bodd	NST	NST
+46, 4	119, 1-3	MEN	dw i *sure*	NST	NST
+46, 5	119, 4-9	MEN	bod dy *dad* yna adeg hynny	NST	NST
+46, 6	122, 1-2	MEN	oedd mi	NSNT	NSNT
+46, 7	122, 3-5	MEN	oedd o hefyd	NSNT	NSNT
+46, 8	123, 1-3	MEN	achos dw cofio	NSNT	NSNT
+46, 9	124, 1-1	MEN	yndw	NSNT	NSNT
+46, 10	125, 1-5	MEN	*well* mi chwerthon ni de	NST	NST
+46, 11	126, 1-5	MEN	oedd *Ieuan* yn hollol naturiol	NST	NST
+46, 12	128, 1-5	MEN	oedd ddim isio *Ieuan* actio	NST	NST
+46, 13	129, 1-4	MEN	fel yna oedd o	---	NSNT
+
+
+47, 1	131, 1-4	BRE	fel yna oedd o	---	NSNT
+
+
+48, 1	132, 1-8	MEN	ia oedd o ddim isio *lines* na dim_byd	NST	NST
+48, 3	134, 1-8	MEN	oedd o medru wneud allan o ei ben	---	NSNT
+
+
+49, 1	136, 1-6	ANG	mae o yn fab i chwaer	---	NSNT
+
+
+50, 1	137, 1-4	BRE	*Lina* yndy chwaer *Elsie*	---	NST
+
+
+51, 1	143, 1-2	ANG	ia a	---	NSNT
+
+
+52, 1	144, 1-2	MEN	be ydy	NSNT	NSNT
+52, 2	144, 3-9	MEN	be mae *Elsie* yn berthyn iddo fo	---	NST
+
+
+53, 1	145, 1-7	BRE	modryb chwaer chwaer ei *fam* o de	---	NST
+
+
+54, 1	147, 1-3	MEN	chwaer chwaer ei	---	NSNT
+
+
+55, 1	148, 1-2	BRE	*fam* o	---	NST
+
+
+56, 1	149, 1-3	MEN	ei *fam* o	---	NST
+
+
+57, 1	152, 1-8	ANG	wedyn mi dad o yn *Plas_y_Don* hefyd felly	---	NST
+
+
+58, 1	153, 1-6	BRE	do yr un adeg â nhad	NSNT	NSNT
+58, 2	153, 7-7	BRE	doedd	NSNT	NSNT
+58, 3	156, 1-4	BRE	ddau efo ei_gilydd doedd	---	NSNT
+
+
+59, 1	161, 1-2	MEN	*oh* oedden	NST	NST
+59, 2	162, 1-12	MEN	*oh* fyddwn i mynd â eich tad yna i weld o *Bryn*	NST	NST
+59, 3	164, 1-4	MEN	fi mynd ar_ôl gadair	NSNT	NSNT
+59, 4	166, 2-5	MEN	oedd o licio *Bryn*	NST	NST
+59, 6	168, 1-3	MEN	*yeah* licio *Williams*	---	NST
+
+
+60, 1	170, 1-3	ANG	*Williams* yr harbwr	---	NST
+
+
+61, 1	171, 1-5	BRE	na doedd yna ddim llawer	---	NSNT
+
+
+62, 1	172, 1-2	MEN	*sorry* *Williams*	---	NST
+
+
+63, 1	173, 1-4	BRE	doedd yna ddim llawer	NSNT	NSNT
+63, 2	173, 5-6	BRE	nag oedd	---	NSNT
+
+
+64, 1	174, 1-1	MEN	*eh*	---	NST
+
+
+65, 1	175, 1-4	BRE	doedd yna ddim llawer	NSNT	NSNT
+65, 2	175, 5-10	BRE	oedd yn cael mynd ato fo	NSNT	NSNT
+65, 3	175, 11-12	BRE	nag oedd	---	NSNT
+
+
+66, 1	176, 1-3	MEN	ew nag oedd	---	NSNT
+
+
+67, 1	177, 1-2	BRE	nag oedd	---	NSNT
+
+
+68, 1	178, 1-2	MEN	nag oedd	NSNT	NSNT
+68, 2	179, 1-4	MEN	dw i fath â	NSNT	NSNT
+68, 3	179, 5-8	MEN	baswn i yn cofio	NSNT	NSNT
+68, 4	179, 10-15	MEN	dw i deud y gwir wan	NSNT	NSNT
+68, 5	179, 16-18	MEN	pan es i	NSNT	NSNT
+68, 6	179, 19-25	MEN	â â dy dad yna tro cynta	NSNT	NSNT
+68, 7	179, 26-28	MEN	wnaeth *Bryn* grio	NST	NST
+68, 8	180, 1-5	MEN	oedd o nabod o o_blaen	---	NSNT
+
+
+69, 1	181, 1-2	BRE	mae *sure*	NST	NST
+69, 2	181, 3-4	BRE	mae *sure*	NST	NST
+69, 3	181, 5-5	BRE	doedd	---	NSNT
+
+
+70, 1	182, 1-1	MEN	dagrau	---	NSNT
+
+
+71, 1	183, 1-2	ANG	*oh* bechod	---	NST
+
+
+72, 1	185, 1-5	MEN	a oedd y ddau *er*	NST	NST
+72, 2	185, 6-6	MEN	wnaeth	NSNT	NSNT
+72, 3	185, 7-7	MEN	fuodd	NSNT	NSNT
+72, 4	185, 8-8	MEN	fuodd	NSNT	NSNT
+72, 5	185, 9-14	MEN	fuodd o yna am tua awr	NSNT	NSNT
+72, 6	186, 1-8	MEN	a y ddau cael cysur ond yn eistedd	NSNT	NSNT
+72, 7	187, 1-7	MEN	oedd ddim isio nhw siarad *just* *um*	NST	NST
+72, 8	189, 1-1	MEN	achos	---	NSNT
+
+
+73, 1	190, 1-9	BRE	cydymdeimlo â ei_gilydd mewn ryw ffordd dawel felly de	NSNT	NSNT
+73, 2	195, 1-10	BRE	ond ddeuda i pwy gafodd *dad* gysur ofnadwy efo fo	NST	NST
+73, 3	196, 1-4	BRE	bechod chafodd o ddim	NSNT	NSNT
+73, 4	196, 5-10	BRE	bod yna yn hir efo fo	NSNT	NSNT
+73, 5	197, 1-2	BRE	achos fuodd	NSNT	NSNT
+73, 6	197, 3-6	BRE	aeth o o yna	NSNT	NSNT
+73, 7	198, 1-4	BRE	aeth o yn sâl	NSNT	NSNT
+73, 8	199, 1-8	BRE	dyn yr *farm* fawr yna i_fyny fan yna	---	NST
+
+
+74, 1	200, 1-2	MEN	*oh* cefnder	---	NST
+
+
+75, 1	201, 1-3	BRE	ia dyna chi	---	NSNT
+
+
+76, 1	202, 1-4	ANG	cefnder cefnder i *Twm*	---	NST
+
+
+77, 1	203, 1-3	MEN	cefnder chi *yeah*	---	NST
+
+
+78, 1	205, 1-1	ANG	*Thomas*	ST	NST
+78, 3	208, 1-3	ANG	gyn i lun	---	NSNT
+
+
+79, 1	209, 1-6	BRE	*well* mi oedd o yn *um*	---	NST
+
+
+80, 1	210, 1-11	ANG	*well* cerdded ar_hyd *um* *um* *um* y maes yn fan acw	NST	NST
+80, 2	212, 1-1	ANG	te	---	NSNT
+
+
+81, 1	213, 1-4	MEN	*oh* oedden nhw *gases*	---	NST
+
+
+82, 1	215, 1-11	BRE	*well* mi mi wnaeth hynny ei arhosiad o o fod gorod	NST	NST
+82, 2	215, 12-15	BRE	bod o yn gorfod	NSNT	NSNT
+82, 3	215, 16-17	BRE	bod yno	NSNT	NSNT
+82, 4	215, 18-22	BRE	wnaeth o helpu yn arw	---	NSNT
+
+
+83, 1	220, 1-3	MEN	cesyn oedd yna	NSNT	NSNT
+83, 2	220, 5-6	MEN	oedd o	NSNT	NSNT
+83, 3	220, 7-8	MEN	de *Twm*	---	NST
+
+
+84, 1	222, 1-3	BRE	dois i erioed	NSNT	NSNT
+84, 2	223, 1-7	BRE	a wnes i erioed ei gyfarfod o	NSNT	NSNT
+84, 4	225, 1-4	BRE	brawd *Guto* oedd o	NST	NST
+84, 5	225, 5-5	BRE	te	---	NSNT
+
+
+85, 1	229, 1-3	MEN	ia brawd *yeah*	---	NST
+
+
+86, 1	230, 1-6	BRE	wnes i erioed ei gyfarfod o	NSNT	NSNT
+86, 2	230, 7-10	BRE	pan ddes i yna	NSNT	NSNT
+86, 3	230, 11-15	BRE	dw i ddim yn meddwl	---	NSNT
+
+
+87, 1	231, 1-2	MEN	*oh* naddo	---	NST
+
+
+88, 1	232, 1-1	BRE	naddo	NSNT	NSNT
+88, 2	232, 2-6	BRE	dw i ddim yn meddwl	---	NSNT
+
+
+89, 1	233, 1-2	MEN	*oh* *gases*	---	NST
+
+
+90, 1	234, 1-10	BRE	wnes i gyfarfod ryw fachgen o yr Ffôr dyn tal	NSNT	NSNT
+90, 3	236, 1-2	BRE	dyn main	---	NSNT
+
+
+91, 1	237, 1-9	MEN	na pwy yna dach chi feddwl *er* *Powell* *Gerallt_Powell*	---	NST
+
+
+92, 1	238, 1-5	BRE	*oh* na wnes i ddim	---	NST
+
+
+93, 1	239, 1-3	ANG	buodd hwnnw yn	---	NSNT
+
+
+94, 1	240, 1-1	MEN	tal	---	NSNT
+
+
+95, 1	241, 1-5	ANG	wedyn oedd hwnnw yno *yeah*	---	NST
+
+
+96, 1	243, 1-6	MEN	na oedd o yna efo *Twm*	---	NST
+
+
+97, 1	246, 1-7	BRE	na wnes i erioed gyfarfod o ylwch	NSNT	NSNT
+97, 3	249, 1-6	BRE	a gymaint oedd o yn sôn	NSNT	NSNT
+97, 5	251, 1-4	BRE	wedyn oedd *Twm* yn	---	NST
+
+
+98, 1	253, 1-5	ANG	oedd o yn gwybod am	---	NSNT
+
+
+99, 1	254, 1-9	BRE	oedd o yn gwybod am y sefyllfa ac yn	NSNT	NSNT
+99, 2	255, 1-12	BRE	oedd y ddau wrthi yn dwrdio a deud drefn ac yn bob_dim	NSNT	NSNT
+99, 3	256, 1-5	BRE	na wnes i ddim ylwch	---	NSNT
+
+
+100, 1	257, 1-8	ANG	crwydro byddai i edrych am hwn a llall	---	NSNT
+
+
+101, 1	258, 1-2	MEN	ew byddai	NSNT	NSNT
+101, 2	259, 1-5	MEN	ga i weld llun *Twm*	---	NST
+
+
+102, 1	261, 1-3	BRE	wedyn yma oedd	---	NSNT
+
+
+103, 1	262, 1-5	MEN	tan aeth o fethu mynd	NSNT	NSNT
+103, 2	262, 6-7	MEN	de *Angharad*	NST	NST
+103, 3	263, 1-4	MEN	aeth o fethu mynd	---	NSNT
+
+
+104, 1	265, 1-5	ANG	*Twm* yma i swper weithiau	NST	NST
+104, 2	266, 1-6	ANG	achos oedd o yn byw yn	---	NSNT
+
+
+105, 1	267, 1-8	MEN	daeth o ddim i edrych yn hen o_gwbl	NSNT	NSNT
+105, 2	267, 9-9	MEN	naddo	---	NSNT
+
+
+106, 1	268, 1-1	ANG	naddo	NSNT	NSNT
+106, 2	269, 1-4	ANG	*oh* dwn i ddim	---	NST
+
+
+107, 1	270, 1-6	MEN	*oh* doedd o ddim yn hen	NST	NST
+107, 2	270, 7-8	MEN	nag oedd	---	NSNT
+
+
+108, 1	271, 1-10	ANG	na mi yn *um* lle yna yn *Tremadog* buodd o	---	NST
+
+
+109, 1	272, 1-5	BRE	*oh* fan yno aeth o	---	NST
+
+
+110, 1	276, 1-4	MEN	methu symud yn diwedd	NSNT	NSNT
+110, 2	277, 1-3	MEN	methu cerdded o_gwbl	---	NSNT
+
+
+111, 1	278, 1-3	BRE	*oh* ia wir	---	NST
+
+
+112, 1	280, 1-5	ANG	lle oedd *um* sôn amdani	NST	NST
+112, 2	280, 6-8	ANG	do yr *nurse*	---	NST
+
+
+113, 1	281, 1-3	BRE	*oh* fan yno	---	NST
+
+
+114, 1	282, 1-2	ANG	fan yno	NSNT	NSNT
+114, 2	283, 1-5	ANG	fuodd yna dipyn o boeni	---	NSNT
+
+
+115, 1	284, 1-4	MEN	*oh* do adeg hynny	NST	NST
+115, 3	286, 1-5	MEN	*auntie* *Mary* hefyd yno do	---	NST
+
+
+116, 1	287, 1-2	ANG	do *sure*	---	NST
+
+
+117, 1	289, 1-6	MEN	pump diwrnod fuodd hi yna *Angharad*	---	NST
+
+
+118, 1	290, 1-2	BRE	gweld hi	---	NSNT
+
+
+119, 1	291, 1-3	ANG	dwn i ddim	---	NSNT
+
+
+120, 1	292, 1-6	MEN	*oh* fuais i yn poeni de	NST	NST
+120, 2	294, 1-11	MEN	deud y wir mi fuais i yn poeni am *auntie* *Mary*	NST	NST
+120, 3	296, 1-6	MEN	ac ofn ffonio yng nghyfnither wchi	NSNT	NSNT
+120, 4	297, 1-5	MEN	modryb gyfa i mi doedd	NSNT	NSNT
+120, 5	300, 1-4	MEN	ac ofn deud dim	NSNT	NSNT
+120, 7	303, 1-3	MEN	i be de	NSNT	NSNT
+120, 9	307, 1-7	MEN	a mi oedd hi wedi gwneud hefyd	NSNT	NSNT
+120, 10	307, 8-9	MEN	medden nhw	---	NSNT
+
+
+121, 1	309, 1-2	BRE	oedd hi	---	NSNT
+
+
+122, 1	311, 1-3	ANG	a mae *sure*	---	NST
+
+
+123, 1	312, 1-4	MEN	fedrwch chi ddim peidio	---	NSNT
+
+
+124, 1	313, 1-4	BRE	wyddoch chi mi aeth	NSNT	NSNT
+124, 2	313, 5-9	BRE	oedd *er* lle o'n i	NST	NST
+124, 3	314, 1-10	BRE	mi o'n i yn aros efo ffrindiau ddoe ac echdoe	NSNT	NSNT
+124, 4	315, 1-6	BRE	a mi oedd o newydd fod	NSNT	NSNT
+124, 5	315, 7-14	BRE	wedi bod yn claddu *um* cyfnither iddo fo	NST	NST
+124, 6	316, 1-2	BRE	oedd hi	NSNT	NSNT
+124, 7	316, 3-6	BRE	wedi bod yn *Plas_Gwyn*	NST	NST
+124, 8	317, 1-5	BRE	brolio a yr lle fendigedig	NSNT	NSNT
+124, 9	318, 1-13	BRE	ond cyn hynny oedd hi yn rywle arall fwy lawr yn yn *Harlech*	NST	NST
+124, 10	319, 1-5	BRE	a bod ei mherch hi	NSNT	NSNT
+124, 11	319, 6-10	BRE	neu dw ddim yn meddwl	NSNT	NSNT
+124, 13	320, 1-6	BRE	wedyn oedd *Alzheimer's* wedi *um* dechrau	NST	NST
+124, 14	321, 1-1	BRE	wchi	NSNT	NSNT
+124, 15	321, 2-3	BRE	oedd hi	NSNT	NSNT
+124, 16	321, 4-7	BRE	oedd hi wedi dechrau	NSNT	NSNT
+124, 17	322, 1-4	BRE	oedd hi *right* ddrwg	NST	NST
+124, 18	323, 1-9	BRE	a wyddoch chi mi aeth i edrych amdani hi	NSNT	NSNT
+124, 19	324, 1-20	BRE	a mi oedd hi yn eistedd yn yr ystafell yma yn gwynebu yr wal a ei dwylo hi wedi chlymu	NSNT	NSNT
+124, 20	325, 1-6	BRE	ac yn trio gwthio bwyd iddi	NSNT	NSNT
+124, 21	326, 1-2	BRE	oedd hi	NSNT	NSNT
+124, 22	326, 3-9	BRE	oedd hi yn wraig i reolwr *bank*	NST	NST
+124, 23	326, 10-10	BRE	wchi	---	NSNT
+
+
+125, 1	327, 1-4	MEN	yn lle oedd hyn	---	NSNT
+
+
+126, 1	328, 1-6	BRE	ond mae yna bobl wedi arfer	NSNT	NSNT
+126, 2	329, 1-1	BRE	wchi	NSNT	NSNT
+126, 3	329, 2-5	BRE	mae yna rei pobl	NSNT	NSNT
+126, 4	329, 6-11	BRE	dyn nhw ddim yn gwybod sut	---	NSNT
+
+
+127, 1	330, 1-9	MEN	dach chi ddim i fod i wneud hynna *Brenda*	---	NST
+
+
+128, 1	331, 1-3	ANG	yn lle oedd	---	NSNT
+
+
+129, 1	332, 1-2	BRE	oedd hi	---	NSNT
+
+
+130, 1	333, 1-4	ANG	yn lle oedd hyn	---	NSNT
+
+
+131, 1	334, 1-2	BRE	yn *Harlech*	---	NST
+
+
+132, 1	335, 1-2	ANG	yn *Harlech*	---	NST
+
+
+133, 1	337, 1-6	BRE	a wedyn aeth hi â nhw	NSNT	NSNT
+133, 2	337, 7-10	BRE	daethon nhw â hi	NSNT	NSNT
+133, 3	338, 1-2	BRE	wchi mi	NSNT	NSNT
+133, 4	338, 3-3	BRE	ddylai	NSNT	NSNT
+133, 5	338, 4-14	BRE	bod nhw wedi gwneud codi andros o o stŵr am hynny	---	NSNT
+
+
+134, 1	339, 1-1	MEN	dylai	---	NSNT
+
+
+135, 1	340, 1-2	ANG	*oh* sobr	---	NST
+
+
+136, 1	341, 1-8	BRE	a a mi ddaethon â hi i *Pentre_Felin*	---	NST
+
+
+137, 1	343, 1-2	MEN	*oh* bechod	---	NST
+
+
+138, 1	344, 1-9	BRE	a mi o'n i yn teimlo wrth bod *mam*	NST	NST
+138, 2	344, 10-11	BRE	wedi bod	NSNT	NSNT
+138, 3	344, 12-13	BRE	wchi *oh*	---	NST
+
+
+139, 1	345, 1-1	ANG	sobr	---	NSNT
+
+
+140, 1	346, 1-2	BRE	sobr oedd	---	NSNT
+
+
+141, 1	347, 1-7	MEN	oes yna ddim achos i wneud hynny	---	NSNT
+
+
+142, 1	348, 1-2	BRE	nag oedd	---	NSNT
+
+
+143, 1	349, 1-2	MEN	nag oes	---	NSNT
+
+
+144, 1	350, 1-2	BRE	nag oedd	---	NSNT
+
+
+145, 1	351, 1-2	ANG	*oh* sobr	---	NST
+
+
+146, 1	352, 1-3	BRE	a a dyna	NSNT	NSNT
+146, 2	352, 4-6	BRE	oedd hi ddeud	NSNT	NSNT
+146, 3	353, 1-2	BRE	oedd o	NSNT	NSNT
+146, 4	353, 3-7	BRE	oedd hi *just* yno fel	NST	NST
+146, 5	353, 8-16	BRE	petasai hi mewn cawell fach felly gwynebu wal hollol	---	NSNT
+
+
+147, 1	355, 1-5	MEN	dim_byd ar y wal iddi	---	NSNT
+
+
+148, 1	357, 1-2	ANG	am sobr	---	NSNT
+
+
+149, 1	359, 1-2	MEN	ew annwyl	---	NSNT
+
+
+150, 1	360, 1-5	ANG	ydw i nes i hynna	NSNT	NSNT
+150, 2	360, 6-10	ANG	na dach chi eich dwy	---	NSNT
+
+
+151, 1	362, 1-7	MEN	dach chi ddim yn gwybod *Angharad* bach	NST	NST
+151, 2	363, 1-3	MEN	dydych chi ddim	NSNT	NSNT
+151, 3	364, 1-9	MEN	dw i wedi wneud fy deud wrth *Stacey* neithiwr	NST	NST
+151, 4	365, 1-4	MEN	wela i *Karen* heno	NST	NST
+151, 5	366, 1-2	MEN	meddai fi	NSNT	NSNT
+151, 6	367, 1-6	MEN	o'n i ar y *phone* ddoe	NST	NST
+151, 7	369, 1-11	MEN	o'n i meddwl nos Wener oedd hi heddiw *er* neithiwr ddoe	NST	NST
+151, 8	370, 1-4	MEN	a felly mae *madam*	NST	NST
+151, 9	370, 5-8	MEN	wedi bod yn meddwl	NSNT	NSNT
+151, 10	371, 1-5	MEN	pryd mae *Menna* yn ffonio	NST	NST
+151, 11	372, 1-3	MEN	mae ddeg wan	NSNT	NSNT
+151, 12	373, 1-4	MEN	eith hi yn bellach	NSNT	NSNT
+151, 13	374, 1-3	MEN	*oh* wn i	NST	NST
+151, 14	374, 4-7	MEN	be mae wedi wneud	NSNT	NSNT
+151, 15	375, 1-3	MEN	wedi drysu noson	NSNT	NSNT
+151, 16	375, 4-4	MEN	mae	SNT	NSNT
+151, 17	376, 1-6	MEN	which dyna o'n i wedi wneud	NSNT	SNT
+151, 18	376, 7-7	MEN	te	---	NSNT
+
+
+152, 1	377, 1-4	ANG	*oh* ddoth *Stacey* heddiw	---	NST
+
+
+153, 1	380, 1-4	MEN	ac *Anwen* a *Robert*	---	NST
+
+
+154, 1	383, 1-8	ANG	achos nhw wedi bod yn *Chwilog* am flynyddoedd	NST	NST
+154, 2	383, 9-9	ANG	doedden	---	NSNT
+
+
+155, 1	384, 1-2	BRE	*oh* oedden	NST	NST
+155, 2	385, 1-1	BRE	wyth	---	NSNT
+
+
+156, 1	386, 1-7	MEN	wyth mlynedd fuon nhw yn *Chwilog* ia	---	NST
+
+
+157, 1	387, 1-2	BRE	pwy wan	---	NSNT
+
+
+158, 1	388, 1-1	MEN	*Colin*	ST	NST
+158, 2	391, 1-4	MEN	gweinidog yn *Chwilog* de	NST	NST
+158, 3	392, 1-5	MEN	oedd ffrindiau mawr efo *Ieuan*	NST	NST
+158, 4	392, 6-6	MEN	wchi	NSNT	NSNT
+158, 5	393, 1-12	MEN	nhw yn canu canu plygain bob_dim dramâu doedd heblaw ar eu *holidays*	---	NST
+
+
+159, 1	396, 1-5	BRE	sut mae nhw yn setlo	---	NSNT
+
+
+160, 1	401, 1-8	MEN	mae *Colin* yn *champion* a *Stacey* yn iawn	---	NST
+
+
+161, 1	402, 1-3	BRE	*Stacey* yn iawn	---	NST
+
+
+162, 1	404, 1-5	MEN	*so* mae nhw yn *alright*	NST	NST
+162, 2	406, 1-9	MEN	*so* oedden ni meddwl mynd yna wsnos nesa wan	NST	NST
+162, 3	407, 1-9	MEN	ond wsnos gynta mis Chwefror dan ni mynd wan	NSNT	NSNT
+162, 4	410, 1-4	MEN	mae *Stacey* isio gwarchod	NST	NST
+162, 5	411, 1-1	MEN	mae	NSNT	NSNT
+162, 6	411, 2-3	MEN	gynni *Ramblers*	---	NST
+
+
+163, 1	413, 1-8	ANG	*oh* ia ydy fyny fan hyn i *Ramblers*	---	NST
+
+
+164, 1	418, 1-5	MEN	ia a mae gyn innau	NSNT	NSNT
+164, 2	418, 6-10	MEN	mae gyn pawb rywbeth rywbeth	NSNT	NSNT
+164, 3	419, 1-9	MEN	*so* mae wedi mynd yn fythefnos i_ffwrdd wan eto	---	NST
+
+
+165, 1	423, 1-7	BRE	dach chi yn dal i weithio *Menna*	---	NST
+
+
+166, 1	424, 1-7	MEN	na dw i ddim yn gweithio o_gwbl	---	NSNT
+
+
+167, 1	425, 1-6	BRE	*oh* dach chi ddim yn gweithio	ST	NST
+167, 2	426, 1-2	BRE	*oh* *well*	---	NST
+
+
+168, 1	428, 1-6	ANG	gweithio ar y computers mae *Menna*	---	ST
+
+
+169, 1	430, 1-2	MEN	*oh* gweithio	---	NST
+
+
+170, 1	431, 1-5	ANG	mae yn y nysgu fi	---	NSNT
+
+
+171, 1	432, 1-1	MEN	chwarae	NSNT	NSNT
+171, 2	432, 2-4	MEN	dach chi feddwl	---	NSNT
+
+
+172, 1	433, 1-1	ANG	naci	---	NSNT
+
+
+173, 1	434, 1-9	BRE	dw isio chi wneud gwefan i mi *Menna* *please*	---	NST
+
+
+174, 1	435, 1-1	MEN	gwefan	---	NSNT
+
+
+175, 1	437, 1-1	ANG	mae	NSNT	NSNT
+175, 2	437, 2-2	ANG	mae	NSNT	NSNT
+175, 3	437, 3-3	ANG	werth	NSNT	NSNT
+175, 4	437, 4-5	ANG	mae *Menna*	---	NST
+
+
+176, 1	438, 1-4	MEN	*well* no nac ydw	---	ST
+
+
+177, 1	439, 1-2	ANG	mae wedi	NSNT	NSNT
+177, 2	439, 3-5	ANG	wnaeth hi helpu	---	NSNT
+
+
+178, 1	440, 1-2	MEN	*oh* *Angharad*	ST	NST
+178, 2	441, 1-4	MEN	un ddrwg ydy *Angharad*	NST	NST
+178, 4	443, 1-2	MEN	ddrwg de	---	NSNT
+
+
+179, 1	445, 1-5	ANG	dangos dy *folder* i *Brenda*	NST	NST
+179, 2	446, 1-2	ANG	dangos o	---	NSNT
+
+
+180, 1	447, 1-4	MEN	*oh* dangos un ychdi	NST	NST
+180, 2	448, 1-9	MEN	mae un ychdi *lot* gwell na yn un i	---	NST
+
+
+181, 1	449, 1-6	ANG	ia dw i wedi dechrau trio	NSNT	NSNT
+181, 2	449, 7-12	ANG	roid o wrth ei_gilydd bore yma	---	NSNT
+
+
+182, 1	450, 1-4	MEN	*oh* isio a dyna	NST	NST
+182, 2	450, 5-5	MEN	dyna	NSNT	NSNT
+182, 3	450, 6-9	MEN	dw i wedi dŵad	---	NSNT
+
+
+183, 1	451, 1-4	ANG	mae o fan yna	NSNT	NSNT
+183, 3	453, 1-1	ANG	wedyn	---	NSNT
+
+
+184, 1	454, 1-1	MEN	mae	NSNT	NSNT
+184, 2	454, 2-3	MEN	gynnon ni	---	NSNT
+
+
+185, 1	455, 1-7	ANG	estyn estyn o i *Brenda* gael gweld	NST	NST
+185, 2	456, 1-2	ANG	paid â	NSNT	NSNT
+185, 3	456, 3-5	ANG	bod yn swil	---	NSNT
+
+
+186, 1	457, 1-3	MEN	mae yr *tutor*	NST	NST
+186, 2	457, 4-4	MEN	sy	NSNT	NSNT
+186, 3	457, 5-9	MEN	gynnon ni hen *foy* iawn	NST	NST
+186, 4	458, 1-8	MEN	oes yna dim_byd yn *wrong* arno fo wir_yr	NST	NST
+186, 7	461, 1-2	MEN	basai fo	---	NSNT
+
+
+187, 1	462, 1-1	BRE	mond	NSNT	NSNT
+187, 3	464, 1-2	BRE	mond nad	NSNT	NSNT
+187, 4	464, 3-7	BRE	ydy o da i ddim	---	NSNT
+
+
+188, 1	465, 1-6	ANG	*oh* dydy o ddim yn deud	NST	NST
+188, 2	465, 7-8	ANG	be dan	NSNT	NSNT
+188, 3	465, 9-13	ANG	sy isio fo ddeud nac	---	NSNT
+
+
+189, 1	466, 1-1	MEN	*well*	ST	NST
+189, 2	467, 2-7	MEN	mae o yn da i *lot*	NST	NST
+189, 4	469, 1-5	MEN	fysen ni byth wedi gwneud	NSNT	NSNT
+189, 5	469, 6-13	MEN	be dan ni wedi wneud wan hebddo fo	NSNT	NSNT
+189, 6	469, 14-16	MEN	bod yn *honest*	NST	NST
+189, 7	470, 1-2	MEN	ond de	NSNT	NSNT
+189, 8	470, 3-8	MEN	mae o yn cholli hi weithiau	NSNT	NSNT
+189, 9	471, 1-13	MEN	mae o yn dechrau ar un llwybr ac yn mynd i lwybr arall	NSNT	NSNT
+189, 10	471, 14-14	MEN	dydy	---	NSNT
+
+
+190, 1	472, 1-7	ANG	mae mynd i yr coed i mi	---	NSNT
+
+
+191, 1	473, 1-4	MEN	mae wedi a wedyn	NSNT	NSNT
+191, 2	473, 5-6	MEN	mae wedi	---	NSNT
+
+
+192, 1	474, 1-2	ANG	y niwl	---	NSNT
+
+
+193, 1	475, 1-3	BRE	yn y niwl	---	NSNT
+
+
+194, 1	476, 1-6	MEN	a wedyn dach chi dod adre	NSNT	NSNT
+194, 2	476, 7-9	MEN	dach chi meddwl	NSNT	NSNT
+194, 3	477, 1-4	MEN	be ddeudodd o wan	NSNT	NSNT
+194, 4	478, 1-6	MEN	be dw i fod i wneud	NSNT	NSNT
+194, 5	480, 1-5	MEN	yn_dydy mae o fel yna	NSNT	NSNT
+194, 6	480, 6-6	MEN	dydy	SNT	NSNT
+194, 7	482, 1-1	MEN	*eh*	---	NST
+
+
+195, 1	483, 1-5	ANG	a dw i deud dim_byd	NSNT	NSNT
+195, 2	484, 1-4	ANG	wedyn mae *Menna* yn	---	NST
+
+
+196, 1	485, 1-7	MEN	wedyn dach chi wedi gwneud rywbeth wan	NSNT	NSNT
+196, 2	486, 1-2	MEN	dach chi	NSNT	NSNT
+196, 3	486, 3-8	MEN	mae o wedi deud wsnos yma	NSNT	NSNT
+196, 4	487, 1-6	MEN	dach chi mynd yno wsnos nesa	NSNT	NSNT
+196, 5	487, 7-15	MEN	a mae wedi mynd ar ryw subject hollol wahanol	NSNT	SNT
+196, 6	487, 16-16	MEN	dydy	---	NSNT
+
+
+197, 1	489, 1-13	ANG	a ti yn gwybod lle mae yn *folders* ers llynedd i_gyd dau *folder*	NST	NST
+197, 2	491, 1-7	ANG	dw i byth wedi cael nhw nôl	NSNT	NSNT
+197, 4	493, 1-4	ANG	mae o yn deud	NSNT	NSNT
+197, 5	493, 5-10	ANG	bod o gyn rywun yn *Blaenau_Ffestiniog*	NST	NST
+197, 6	494, 1-4	ANG	wedyn mae yn deud	NSNT	NSNT
+197, 7	494, 5-8	ANG	bod o rywle arall	NSNT	NSNT
+197, 9	496, 1-5	ANG	lle oedden nhw wsnos dwytha	---	NSNT
+
+
+198, 1	497, 1-4	MEN	ar ei wely o	---	NSNT
+
+
+199, 1	498, 1-7	ANG	yn y *spare* *room* o_dan y gwely	---	NST
+
+
+200, 1	499, 1-8	MEN	mae *Angharad* mynd yno i yr *spare* *room*	---	NST
+
+
+201, 1	503, 1-12	ANG	o'n i *just* â deud wrthat ti ddod yno i nôl nhw	---	NST
+
+
+202, 1	504, 1-9	BRE	peidio mynd ar y gwely ond dan y gwely	---	NSNT
+
+
+203, 1	506, 1-6	ANG	a ganol pethau eraill meddai fo	---	NSNT
+
+
+204, 1	509, 1-8	BRE	wybod yn byd be ffeindiwch chi fan yna	---	NSNT
+
+
+205, 1	510, 1-9	MEN	a be ddeudodd wrthan ni am wneud wsnos dwytha	NSNT	NSNT
+205, 2	510, 10-13	MEN	os ydw i wedi	NSNT	NSNT
+205, 3	511, 1-7	MEN	dyna pam o'n i dod yma heddiw	NSNT	NSNT
+205, 4	513, 1-6	MEN	ddeudodd wrtha fi am wneud be	NSNT	NSNT
+205, 5	514, 1-6	MEN	a be ddeudodd o wrtha fi	---	NSNT
+
+
+206, 1	515, 1-6	ANG	am roid y *folders* mewn trefn	NST	NST
+206, 2	517, 1-4	ANG	ond does dim isio	NSNT	NSNT
+206, 3	517, 5-15	ANG	roid yn *folder* mewn trefn y *mhrinter* i ddim yn gweithio	---	NST
+
+
+207, 1	518, 1-8	MEN	*er* ydy *Brenda* yn wneud y pethau yma	---	NST
+
+
+208, 1	520, 1-6	ANG	mae *Brenda* yn medru wneud nhw	---	NST
+
+
+209, 1	521, 1-7	BRE	nac ydy *Brenda* ddim yn medru wneud	---	NST
+
+
+210, 1	524, 1-1	MEN	*eh*	---	NST
+
+
+211, 1	525, 1-9	ANG	a mi wnaeth hi wneud cardyn pen_blwydd i rywun	NSNT	NSNT
+211, 2	525, 10-15	ANG	gwerth chweil ar ar *Publisher* ia	---	NST
+
+
+212, 1	527, 3-4	MEN	gynnon ni	NSNT	NSNT
+212, 3	529, 1-8	MEN	dan ni gorod wneud pethau o yr dechrau	NSNT	NSNT
+212, 4	529, 9-10	MEN	dydan *Angharad*	---	NST
+
+
+213, 1	530, 1-8	ANG	ar *Corel_Draw* dan ni yn gorod gweithio wan	---	NST
+
+
+214, 1	531, 1-12	MEN	dan ni ddim yn cael pethau yn barod wedi wneud i ni	NSNT	NSNT
+214, 3	533, 1-12	MEN	dan ni yn gorod gwneud bob un dim ein hunain arno fo	NSNT	NSNT
+214, 4	533, 13-13	MEN	dydan	---	NSNT
+
+
+215, 1	534, 1-5	ANG	wedyn mae *Menna* wedi wneud	---	NST
+
+
+216, 1	535, 1-5	BRE	chi sy wedi gwneud rhein	NSNT	NSNT
+216, 2	535, 6-6	BRE	ta	---	NSNT
+
+
+217, 1	536, 1-6	MEN	*oh* ia pethau dan ni wneud	---	NST
+
+
+218, 1	538, 1-4	ANG	mae *Menna* yn wych	NST	NST
+218, 2	539, 1-3	ANG	gei di weld	---	NSNT
+
+
+219, 1	540, 1-3	MEN	*oh* nac ydw	NST	NST
+219, 2	540, 4-8	MEN	dydw i ddim yn wych	NSNT	NSNT
+219, 3	541, 1-3	MEN	dach chi cael	---	NSNT
+
+
+220, 1	542, 1-9	BRE	lle dach chi wedi cael y lluniau hudolus yma	---	NSNT
+
+
+221, 1	543, 1-6	MEN	*well* dw i wedi sganio nhw	NST	NST
+221, 2	545, 1-5	MEN	wedi sganio rheina dw i	---	NSNT
+
+
+222, 1	546, 1-1	ANG	mae	NSNT	NSNT
+222, 2	546, 2-2	ANG	mae	---	NSNT
+
+
+223, 1	547, 1-5	MEN	ffeindio lluniau a sganio nhw	SNT	NSNT
+223, 2	548, 1-1	MEN	*Angharad*	---	NST
+
+
+224, 1	549, 1-12	BRE	ac yn medru rhoid nhw a eu troi nhw fel yna bob_dim	---	NSNT
+
+
+225, 1	551, 1-9	MEN	ia sganio nhw a wneud eich eich *plan* de	---	NST
+
+
+226, 1	552, 1-2	ANG	a mae	NSNT	NSNT
+226, 2	552, 3-3	ANG	mae	NSNT	NSNT
+226, 3	552, 4-4	ANG	wchi	---	NSNT
+
+
+227, 1	553, 1-5	MEN	a *Tryweryn* ges i wedyn	---	NST
+
+
+228, 1	554, 1-1	BRE	*eh*	---	NST
+
+
+229, 1	555, 1-8	ANG	mae *Menna* yn sgwennu *notes* da a bob_dim	NST	NST
+229, 2	555, 9-12	ANG	de chwarae teg iddi	---	NSNT
+
+
+230, 1	556, 1-3	MEN	*oh* nac ydw	NST	NST
+230, 2	556, 4-7	MEN	dydw ddim yn sgwennu	NSNT	NSNT
+230, 3	557, 1-4	MEN	dim mynedd sgwennu *notes*	---	NST
+
+
+231, 1	558, 1-2	BRE	llyn *Celyn*	NST	NST
+231, 2	559, 1-4	BRE	*er* *er* wyt ti	NST	NST
+231, 3	559, 5-6	BRE	bod yno	---	NSNT
+
+
+232, 1	560, 1-1	MEN	*Tryweryn*	---	NST
+
+
+233, 1	561, 1-3	BRE	ti wedi bod	---	NSNT
+
+
+234, 1	562, 1-1	MEN	naddo	NSNT	NSNT
+234, 2	562, 2-2	MEN	naddo	---	NSNT
+
+
+235, 1	563, 1-6	BRE	wedi gael o ar y we	---	NSNT
+
+
+236, 1	564, 1-6	MEN	ia yr hanes de ddarllen o	---	NSNT
+
+
+237, 1	566, 1-8	ANG	*Menna* wedi bod *round* *Pwllheli* yn tynnu lluniau	---	NST
+
+
+238, 1	567, 1-8	BRE	pethau fel hyn basai gyn i ddim syniad	NSNT	NSNT
+238, 2	567, 9-15	BRE	de sut i wneud pethau fel hyn	---	NSNT
+
+
+239, 1	568, 1-3	ANG	lle mae rheiny	---	NSNT
+
+
+240, 1	569, 1-1	BRE	mae	NSNT	NSNT
+240, 2	569, 2-4	BRE	mae fy ffrindiau	NSNT	NSNT
+240, 3	569, 5-13	BRE	mae hi yn arbennig am wneud y pethau yma	NSNT	NSNT
+240, 5	571, 1-7	BRE	mae yn gwneud ryw gardiau sgwennu a	NSNT	NSNT
+240, 6	572, 1-6	BRE	mae yn prynu cardyn i mi	NSNT	NSNT
+240, 7	573, 1-8	BRE	wedyn mae sgwennu ryw bethau eraill arno fo	NSNT	NSNT
+240, 8	573, 9-11	BRE	dach chi gwybod	---	NSNT
+
+
+241, 1	574, 1-3	MEN	*well* ia ond	---	NST
+
+
+242, 1	575, 1-3	BRE	*oh* sbïa da	---	NST
+
+
+243, 1	577, 1-2	ANG	ond mae	NSNT	NSNT
+243, 2	577, 3-5	ANG	wyt ti wedi	---	NSNT
+
+
+244, 1	578, 1-4	BRE	sganio rhein oedden nhw	---	NSNT
+
+
+245, 1	579, 1-9	MEN	naci wedi wneud hwnna fy hun bach dw i	NSNT	NSNT
+245, 2	580, 1-5	MEN	sbïa yr lleuad drwy ffenestr	NSNT	NSNT
+245, 3	581, 1-8	MEN	a rhedeg yn_ôl ac ymlaen i wneud o	NSNT	NSNT
+245, 4	582, 1-5	MEN	*oh* mi ges i *job*	NST	NST
+245, 6	584, 1-5	MEN	isio wneud y lleuad yna	---	NSNT
+
+
+246, 1	585, 1-8	BRE	*oh* peidiwch ddim wedi gwneud hwnna eich hun	NST	NST
+246, 2	587, 1-2	BRE	efo be	---	NSNT
+
+
+247, 1	588, 1-1	ANG	*camera*	---	NST
+
+
+248, 1	589, 1-3	MEN	*oh* *yeah* efo	NST	NST
+248, 2	590, 1-7	MEN	wneud y crwn de efo *ellipse* *tool*	NST	NST
+248, 3	591, 1-8	MEN	a wneud y lleuad efo ryw *dool* arall	NST	NST
+248, 4	592, 1-5	MEN	a wneud o siâp wedyn	---	NSNT
+
+
+249, 1	594, 1-4	ANG	a wneud y sêr	---	NSNT
+
+
+250, 1	595, 1-2	MEN	*Angharad* dallt	NST	NST
+250, 2	596, 1-6	MEN	a wneud y sêr licio yr	---	NSNT
+
+
+251, 1	597, 1-5	BRE	a gwneud y lliw wedyn	---	NSNT
+
+
+252, 1	598, 1-6	MEN	ia *yeah* roid y lliwiau *yeah*	---	NST
+
+
+253, 1	599, 1-2	BRE	y lliw	NSNT	NSNT
+253, 2	600, 1-1	BRE	nefi	---	NSNT
+
+
+254, 1	601, 1-7	MEN	wedyn o'n i rhedeg yn_ôl a ymlaen	NSNT	NSNT
+254, 2	602, 1-6	MEN	welais i *batches* ar y lleuad	---	NST
+
+
+255, 1	604, 1-5	ANG	fel fysai un fi anyway	---	SNT
+
+
+256, 1	605, 1-1	MEN	*patches*	ST	NST
+256, 2	606, 1-6	MEN	ia dach chi ddim yn meddwl	---	NSNT
+
+
+257, 1	607, 1-11	BRE	ond hen ddyn a hen ŵr ydy hwnnw yn hel priciau	---	NSNT
+
+
+258, 1	608, 1-4	MEN	*yeah* lleuad yna wan	NST	NST
+258, 2	610, 1-3	MEN	dyna fi sbïo	NSNT	NSNT
+258, 3	611, 1-5	MEN	mae yna *batches* ar hwnna	NST	NST
+258, 4	612, 1-5	MEN	meddai fi wrth fy hun	NSNT	NSNT
+258, 5	613, 1-9	MEN	yn_ôl wedyn i trio wneud *patches* ar hwnna de	---	NST
+
+
+259, 1	614, 1-2	ANG	*oh* da	NST	NST
+259, 3	616, 1-9	ANG	*oh* dim tynnu llun y lleuad wnest ti felly	---	NST
+
+
+260, 1	617, 1-4	BRE	be ydy hwn wan	NSNT	NSNT
+260, 2	618, 1-4	BRE	be ydy hwn wan	NSNT	NSNT
+260, 3	619, 1-2	BRE	tynnu llun	---	NSNT
+
+
+261, 1	620, 1-3	MEN	ia *Port* hwnna	NST	NST
+261, 2	621, 1-9	MEN	dan ni wedi tynnu yr llun efo *nghamera* fi	---	NST
+
+
+262, 1	622, 1-4	ANG	a mae wedi gwneud	---	NSNT
+
+
+263, 1	623, 1-9	MEN	ond dw i wedi wneud o ryw dexture gwahanol	NSNT	SNT
+263, 2	624, 1-5	MEN	dw ddim yn licio fo	NSNT	NSNT
+263, 3	624, 6-6	MEN	te	NSNT	NSNT
+263, 4	625, 1-5	MEN	ond anyway geith o fod	NSNT	SNT
+263, 5	626, 1-2	MEN	ia dyna	NSNT	NSNT
+263, 6	626, 3-9	MEN	oedd isio ni wneud text fel yna	NSNT	SNT
+263, 7	627, 1-3	MEN	barddoniaeth ydy hwnna	NSNT	NSNT
+263, 8	629, 1-8	MEN	sut fysech chi yn wneud text ar farddoniaeth	NSNT	SNT
+263, 9	630, 1-2	MEN	pa fath	NSNT	NSNT
+263, 10	631, 1-3	MEN	ti gweld hwnna	---	NSNT
+
+
+264, 1	632, 1-4	BRE	y sgwennu basai raid	NSNT	NSNT
+264, 2	632, 5-13	BRE	ei sgwennu fo ella fath â *er* *italics* felly	NST	NST
+264, 3	633, 1-3	BRE	dyna chi feddwl	---	NSNT
+
+
+265, 1	634, 1-9	MEN	*yeah* i ni wneud be dan ni feddwl be	NST	NST
+265, 2	634, 10-15	MEN	be fysai *er* i wneud barddoniaeth	NST	NST
+265, 3	637, 1-12	MEN	o'n i sbïo barddoniaeth saesneg a welais i rywbeth tebyg i hwnna	NSNT	NSNT
+265, 4	638, 1-5	MEN	*so* dw i licio hwnna	NST	NST
+265, 5	639, 1-2	MEN	meddai fi	NSNT	NSNT
+265, 6	640, 1-4	MEN	*so* wnes i o	---	NST
+
+
+266, 1	641, 1-7	ANG	ydy hwnna Saesneg iawn *Menna* *er* ia	---	NST
+
+
+267, 1	643, 1-6	MEN	fel yna mae o mewn llyfr	---	NSNT
+
+
+268, 1	645, 1-2	BRE	ydy cryfa	SNT	NSNT
+268, 2	647, 1-2	BRE	japanese wisdom	---	NSNT
+
+
+269, 1	648, 1-8	MEN	a dw i wedi sbelio japanese yn *wrong*	NST	ST
+269, 2	649, 1-4	MEN	*just* mi â crio	ST	NST
+269, 4	651, 1-1	MEN	*japanais*	ST	NST
+269, 5	652, 1-2	MEN	weli di	---	NSNT
+
+
+270, 1	653, 1-1	BRE	*japanais*	---	NST
+
+
+271, 1	654, 1-3	MEN	wneith neb weld	NSNT	NSNT
+271, 4	657, 1-9	MEN	rywun *sure* o wneud ryw hen *fistake* bach gwirion	---	NST
+
+
+272, 1	658, 1-11	ANG	a roist ti yr weak a yr strong a bob_dim i_fewn	NSNT	SNT
+272, 2	660, 1-4	ANG	tydy hi yn ardderchog	---	NSNT
+
+
+273, 1	661, 2-2	BRE	wchi	---	NSNT
+
+
+274, 1	662, 1-6	MEN	*oh* na wir dydw i ddim	---	NST
+
+
+275, 1	663, 1-4	ANG	ac yn cadw tŷ	NSNT	NSNT
+275, 2	664, 1-11	ANG	a dau neu dri o ddynion yn dod i_fewn yna weithiau	NSNT	NSNT
+275, 3	665, 1-8	ANG	tri mab yn dod i nôl eu bwyd	---	NSNT
+
+
+276, 1	667, 1-4	MEN	nag ydyn ond un	NSNT	NSNT
+276, 2	667, 5-10	MEN	sy yn dod nôl ei fwyd	---	NSNT
+
+
+277, 1	668, 1-9	BRE	dw i licio hen luniau *er* *sepia* fel hyn	---	NST
+
+
+278, 1	669, 1-6	ANG	*oh* dyna be o'n i isio	---	NST
+
+
+279, 1	670, 1-7	MEN	*Dewi* druan heb ei fraich fan yna	NST	NST
+279, 2	671, 1-3	MEN	weli di o	---	NSNT
+
+
+280, 1	672, 1-3	BRE	pa yr un	---	NSNT
+
+
+281, 1	673, 1-4	MEN	y llun *rubbish* yna	NST	NST
+281, 2	674, 1-3	MEN	mae wedi colli	NSNT	NSNT
+281, 3	675, 1-3	MEN	mae o wyn	NSNT	NSNT
+281, 4	675, 4-4	MEN	dydy	NSNT	NSNT
+281, 5	676, 1-1	MEN	fraich	---	NSNT
+
+
+282, 1	677, 1-1	BRE	hwnna	---	NSNT
+
+
+283, 1	678, 1-2	MEN	ia fo	NSNT	NSNT
+283, 2	680, 1-6	MEN	mae fraich o nôl yn llall	NSNT	NSNT
+283, 3	680, 7-7	MEN	dydy	---	NSNT
+
+
+284, 1	681, 1-2	BRE	*well* ydy	---	NST
+
+
+285, 1	682, 1-6	MEN	dw i wedi pheintio hi nôl	---	NSNT
+
+
+286, 1	683, 1-7	BRE	sut wyt ti wedi medru gwneud hynna	---	NSNT
+
+
+287, 1	684, 1-5	MEN	ond mae yna ffordd hawddach	NSNT	NSNT
+287, 2	684, 6-10	MEN	meddai yr *tutor* os meddwl	NST	NST
+287, 3	686, 1-9	MEN	tynnu llun *Dewi* oedd isio fi rŵan yn cefn	NST	NST
+287, 4	686, 10-18	MEN	a baswn i medru cael ei fraich iawn o	NSNT	NSNT
+287, 5	686, 19-20	MEN	byswn yna	NSNT	NSNT
+287, 6	686, 21-28	MEN	byswn lle bod fi wedi wneud hi mewn	NSNT	NSNT
+287, 7	689, 1-6	MEN	wnes i ddim meddwl am hynny	---	NSNT
+
+
+288, 1	690, 1-15	BRE	ia ond dach chi wedi mynd â pethau gam ymhell iawn yn fan yna gamau	---	NSNT
+
+
+289, 1	693, 2-4	ANG	mae wedi mynd	---	NSNT
+
+
+290, 1	694, 1-3	MEN	*well* naddo really	---	ST
+
+
+291, 1	695, 1-6	ANG	mae hwnna yn dda iawn hefyd	NSNT	NSNT
+291, 2	697, 1-2	ANG	mae wych	NSNT	NSNT
+291, 3	697, 3-6	ANG	dydy deud y gwir	---	NSNT
+
+
+292, 1	699, 1-4	BRE	na lle dach lluniau	NSNT	NSNT
+292, 2	699, 5-8	BRE	dach chi wedi dynnu	NSNT	NSNT
+292, 3	699, 9-10	BRE	ydy rheina	---	NSNT
+
+
+293, 1	700, 1-9	MEN	na tynnu rheina dw i efo *camera* fy hun	NST	NST
+293, 2	702, 1-3	MEN	a i *Angharad*	---	NST
+
+
+294, 1	703, 1-8	ANG	ond dim yr un fath â rhein de	---	NSNT
+
+
+295, 1	704, 1-2	MEN	ydy tad	---	NSNT
+
+
+296, 1	705, 1-3	ANG	dw i *oh*	NST	NST
+296, 2	705, 4-5	ANG	dw i	---	NSNT
+
+
+297, 1	706, 1-5	MEN	*oh* rywbeth o'n isio wneud	---	NST
+
+
+298, 1	707, 1-6	BRE	be ydy enw yr cwrs yma	NSNT	NSNT
+298, 2	707, 7-7	BRE	ta	---	NSNT
+
+
+299, 1	708, 1-5	MEN	*oh* be ydy hwn wan	---	NST
+
+
+300, 1	709, 1-6	ANG	mae o newid o bob wsnos	---	NSNT
+
+
+301, 1	710, 2-2	MEN	mae	NSNT	NSNT
+301, 2	710, 3-8	MEN	mae o yn *um* desk_top publishing	---	ST
+
+
+302, 1	712, 1-4	ANG	a wedyn mae o	NSNT	NSNT
+302, 2	712, 5-14	ANG	roid o yn digital photography and the *image* neu rywbeth	---	ST
+
+
+303, 1	713, 1-4	MEN	ydy and the *image*	ST	ST
+303, 2	714, 1-8	MEN	a mae o rywbeth *er* *lobscouse* *er* *er*	---	NST
+
+
+304, 1	715, 1-2	ANG	*oh* mae	---	NST
+
+
+305, 1	716, 1-10	MEN	mae hwnnw i fod yn hawdd ddigon elfennol i fod	---	NSNT
+
+
+306, 1	717, 1-4	ANG	efo efo *Publisher* te	NST	NST
+306, 2	718, 1-3	ANG	ond efo hwn	---	NSNT
+
+
+307, 1	719, 1-3	MEN	dach chi yn	NSNT	NSNT
+307, 2	719, 4-6	MEN	roid o efo	NSNT	NSNT
+307, 3	720, 1-1	MEN	does	NSNT	NSNT
+307, 4	720, 2-6	MEN	gynnoch chi ddim_byd wedi wneud	NSNT	NSNT
+307, 5	721, 1-3	MEN	chi *Desktop* mae	NST	NST
+307, 6	721, 4-13	MEN	gynnoch chi eich *lines* a bob_dim wedi wneud yn barod	NST	NST
+307, 7	724, 1-6	MEN	does yna dim_byd yn yn hwn	NSNT	NSNT
+307, 8	725, 1-10	MEN	dach chi gorod wneud o i_gyd eich hun bach dydych	---	NSNT
+
+
+308, 1	726, 1-4	ANG	cael hyd i bethau	NSNT	NSNT
+308, 2	727, 1-11	ANG	a dydw i ddim yn dda am gael hyd i bethau	NSNT	NSNT
+308, 3	728, 1-10	ANG	well gyn rywun ddeud wrtha i be i wneud te	---	NSNT
+
+
+309, 1	729, 1-6	BRE	dach chi wedi gwneud hwn hefyd	---	NSNT
+
+
+310, 1	730, 2-3	MEN	do hwnna	---	NSNT
+
+
+311, 1	731, 1-4	ANG	ci *Menna* ydy hwnna	---	NST
+
+
+312, 1	732, 1-4	BRE	a beth am hwn	---	NSNT
+
+
+313, 1	733, 1-2	MEN	mae hwnna	NSNT	NSNT
+313, 2	734, 1-7	MEN	es i rywle arall i nôl hwnna	NSNT	NSNT
+313, 3	735, 1-5	MEN	dach chi gorod setio fo	---	NSNT
+
+
+314, 1	736, 1-8	BRE	dach chi ddim wedi wneud o eich hun	NSNT	NSNT
+314, 2	737, 1-8	BRE	na chi wedi gopïo fo dach chi hwnna	---	NSNT
+
+
+315, 1	738, 1-5	MEN	na ie naci yr ci	---	NSNT
+
+
+316, 1	739, 1-2	BRE	nage hwn	---	NSNT
+
+
+317, 1	740, 1-6	MEN	hwnna do y *calendar* bach yna	NST	NST
+317, 2	742, 1-5	MEN	ie copïo hwnna wnes i	NSNT	NSNT
+317, 3	744, 1-7	MEN	mae hwnna yna yn rywle rywbeth arall	NSNT	NSNT
+317, 4	746, 1-1	MEN	dydy	NSNT	NSNT
+317, 5	746, 2-6	MEN	mae rheina wneud eich hun	NSNT	NSNT
+317, 6	747, 1-10	MEN	duwcs *just* pethau gwahanol a text gwahanol mae nhw isio	NST	ST
+317, 7	748, 1-2	MEN	dyna fo	NSNT	NSNT
+317, 8	748, 3-3	MEN	dyna	NSNT	NSNT
+317, 9	748, 4-7	MEN	mae nhw isio *Angharad*	NST	NST
+317, 10	749, 1-5	MEN	hwnna meddai fo wsnos dwytha	---	NSNT
+
+
+318, 1	750, 1-4	ANG	be ydy hwnna wan	---	NSNT
+
+
+319, 1	751, 1-6	MEN	isio wneud text gwahanol fel yna	---	SNT
+
+
+320, 1	752, 1-10	BRE	ia wchi newid yr *er* newid y sgwennu felly *yeah*	---	NST
+
+
+321, 1	755, 1-4	ANG	yn *Glynllifon* original ia	---	ST
+
+
+322, 1	757, 1-4	MEN	*oh* lle mae o	NST	NST
+322, 2	758, 1-2	MEN	dyna o	---	NSNT
+
+
+323, 1	759, 1-10	BRE	*yeah* i mi does yna ddim math o gymhariaeth rhwng	NST	NST
+323, 2	759, 11-22	BRE	bod medru gwneud peth fel hyn a medru gwneud pethau fel hyn	NSNT	NSNT
+323, 3	760, 1-1	BRE	wchi	NSNT	NSNT
+323, 4	760, 2-10	BRE	mae hwn gan mil gwaith mwy anodd na hwnna	NSNT	NSNT
+323, 5	761, 1-8	BRE	mond clicio botwm dach chi wneud efo hwnna	---	NSNT
+
+
+324, 1	762, 1-4	MEN	*oh* *yeah* a *er*	---	NST
+
+
+325, 1	763, 1-10	BRE	ia ond mae hwn yn un o yr pethau cynta	NSNT	NSNT
+325, 2	763, 11-13	BRE	dach chi ddysgu	NSNT	NSNT
+325, 3	764, 1-2	BRE	mae hwn	NSNT	NSNT
+325, 4	764, 3-8	BRE	mae hwn yn andros o anodd	---	NSNT
+
+
+326, 1	766, 1-5	MEN	yr unig beth meddai fo	NSNT	NSNT
+326, 2	766, 6-12	MEN	te bod isio chi feddwl sut i	NSNT	NSNT
+326, 3	766, 13-17	MEN	rhoid nhw a lle i	NSNT	NSNT
+326, 4	766, 18-19	MEN	rhoid nhw	---	NSNT
+
+
+327, 1	767, 1-6	BRE	nefoedd nage mae o mor anodd	---	NSNT
+
+
+328, 1	768, 1-3	MEN	advertising neu rywbeth	---	SNT
+
+
+329, 1	770, 1-4	BRE	a pethau fel hyn	---	NSNT
+
+
+330, 1	772, 1-8	ANG	dwn i ddim lle ti yn cael amser	---	NSNT
+
+
+331, 1	774, 1-5	MEN	hwnna wnes i neithiwr *Angharad*	NST	NST
+331, 2	775, 1-4	MEN	dos yn_ôl dipyn bach	NSNT	NSNT
+331, 3	776, 1-5	MEN	edrych ti weld o *realistic*	ST	NST
+331, 4	777, 1-3	MEN	advert ydy o	NSNT	SNT
+331, 5	778, 1-6	MEN	a lle mae hwnnw wedi mynd	SNT	NSNT
+331, 6	779, 1-3	MEN	advert am *jips*	NST	ST
+331, 8	781, 1-5	MEN	*ooh* lle mae o *ooh*	---	NST
+
+
+332, 1	782, 1-7	ANG	na dw i ddim wedi weld o	---	NSNT
+
+
+333, 1	783, 1-1	BRE	*chips*	---	NST
+
+
+334, 1	784, 1-2	ANG	mae *sure*	---	NST
+
+
+335, 1	785, 1-4	MEN	*oh* lle mae o	---	NST
+
+
+336, 1	786, 1-4	ANG	rywbeth arall mae *sure*	---	NST
+
+
+337, 1	787, 1-2	MEN	dyna o	SNT	NSNT
+337, 3	789, 1-1	MEN	*chips*	---	NST
+
+
+338, 1	792, 1-2	BRE	*oh* sbïa	---	NST
+
+
+339, 1	793, 1-6	MEN	rheina hwnna dw i wedi wneud	---	NSNT
+
+
+340, 1	794, 1-7	BRE	ydy yr hogyn bach yma wedi gwneud	NSNT	NSNT
+340, 2	795, 1-9	BRE	mae o yn *fillionaire* wedi gwneud pethau fel hyn	---	NST
+
+
+341, 1	797, 1-1	ANG	*chips*	---	NST
+
+
+342, 1	798, 1-1	BRE	mae	NSNT	NSNT
+342, 2	798, 2-10	BRE	mae o yn ar y newyddion ddoe a heddiw	NSNT	NSNT
+342, 3	799, 1-6	BRE	mae o wedi mynd yn *fillionaire*	NST	NST
+342, 5	801, 1-4	BRE	be mae wedi gwneud	NSNT	NSNT
+342, 6	801, 5-11	BRE	mae wedi gwneud y pethau bach yma	NSNT	NSNT
+342, 7	803, 1-9	BRE	a wedyn mae cwmnïau mawr yma yn prynu nhw	---	NSNT
+
+
+343, 1	804, 1-6	ANG	*well* be ydy hanes *Elfyn* rŵan	---	NST
+
+
+344, 1	805, 1-4	BRE	be ydy yr *pixels*	NST	NST
+344, 2	807, 1-3	BRE	be ydy *pixels*	NST	NST
+344, 3	808, 1-4	BRE	dw ddim yn dallt	---	NSNT
+
+
+345, 1	809, 1-1	ANG	*pixels*	---	NST
+
+
+346, 1	811, 1-11	MEN	*oh* *yeah* *um* pethau bach sy wneud y llun yna i_gyd	---	NST
+
+
+347, 1	813, 1-3	ANG	a wedyn mae	---	NSNT
+
+
+348, 1	814, 1-6	MEN	ond hwnna oedd o mlaen i	NSNT	NSNT
+348, 2	815, 1-3	MEN	gyn i rheina	NSNT	NSNT
+348, 3	816, 1-3	MEN	oedd y *chips*	NST	NST
+348, 4	817, 1-1	MEN	chwerthin	NSNT	NSNT
+348, 5	818, 1-9	MEN	mae yna *jips* i fod yn gwaelod fan yna	NST	NST
+348, 6	819, 1-6	MEN	ond wnes i nhw mor transparent	SNT	SNT
+348, 7	819, 7-16	MEN	oedden nhw weld o cyn i fi brintio fo allan	NSNT	NSNT
+348, 8	820, 1-5	MEN	dyn nhw ddim i weld	NSNT	NSNT
+348, 9	820, 6-7	MEN	nag ydyn	NSNT	NSNT
+348, 10	821, 1-11	MEN	mae yna *jips* i fod yn gwaelod fan yna trwy hwnna	---	NST
+
+
+349, 1	822, 1-3	BRE	fan yna rywle	---	NSNT
+
+
+350, 1	823, 1-7	MEN	trwy *er* drwy yn fan yna de	NST	NST
+350, 2	824, 1-3	MEN	*oh* dim ots	NST	NST
+350, 3	825, 1-4	MEN	dyn nhw ddim yna	NSNT	NSNT
+350, 4	826, 1-3	MEN	*so* dim ots	---	NST
+
+
+351, 1	827, 1-7	BRE	pwy sy wedi gwneud y sgwennu yma	---	NSNT
+
+
+352, 1	828, 1-8	MEN	yfi sy wedi gwneud hwnna i_gyd fy hun	NSNT	NSNT
+352, 2	828, 9-10	MEN	de hwn	---	NSNT
+
+
+353, 1	829, 1-1	BRE	naddo	---	NSNT
+
+
+354, 1	830, 1-1	ANG	coelia	NSNT	NSNT
+354, 2	830, 2-6	ANG	i bod hi wedi gwneud	---	NSNT
+
+
+355, 1	831, 1-13	BRE	mae hwnna yn union yr un fath â *packet* sydd am yr *chips*	---	NST
+
+
+356, 1	832, 1-19	MEN	*oh* *yeah* *er* wnes i sbïo ar y *packet* a trio wneud o yr un fath â yr *packet*	---	NST
+
+
+357, 1	833, 1-7	BRE	*well* ia argian mae hynna yn brilliant	---	ST
+
+
+358, 1	834, 1-3	ANG	na anhygoel dydy	---	NSNT
+
+
+359, 1	835, 1-4	MEN	sgwennu o dano fo	---	NSNT
+
+
+360, 1	836, 1-1	BRE	anhygoel	---	NSNT
+
+
+361, 1	837, 1-12	ANG	ond ddeuda i wrthach chi *Brenda* mae *um* mab *Menna* yn brilliant	ST	ST
+361, 2	837, 13-17	ANG	dydy a hogyn *Carmen* *yeah*	---	NST
+
+
+362, 1	838, 1-4	MEN	na dydy o ddim	SNT	NSNT
+362, 2	839, 1-2	MEN	*oh* *Meilir*	---	NST
+
+
+363, 1	840, 1-7	BRE	*oh* dach chi yn sôn am whizz_kids	---	ST
+
+
+364, 1	841, 1-10	ANG	a wedyn mae yr ddau yna yn gwneud *er* rywbeth	NST	NST
+364, 2	841, 11-14	ANG	wyt ti ddeud *yeah*	---	NST
+
+
+365, 1	842, 1-3	MEN	*oh* mae nhw	NST	NST
+365, 2	843, 1-4	MEN	gwybod be mae nhw	NSNT	NSNT
+365, 3	844, 1-2	MEN	mae nhw	NSNT	NSNT
+365, 4	844, 3-7	MEN	mae nhw yn brilliant dydyn	---	SNT
+
+
+366, 1	845, 1-1	BRE	ydyn	NSNT	NSNT
+366, 2	845, 2-2	BRE	ydyn	---	NSNT
+
+
+367, 1	846, 1-9	MEN	bechod basai rywun yn cael mynd yn_ôl yn ifanc	NSNT	NSNT
+367, 2	846, 10-12	MEN	de *Brenda* *eh*	---	NST
+
+
+368, 1	847, 1-8	BRE	be be oedd eich *dask* *task* chi hyn	---	NST
+
+
+369, 1	848, 1-4	MEN	*oh* isio gwneud gwahanol	NST	NST
+369, 2	849, 1-5	MEN	mae hwnna yr un llun	NSNT	NSNT
+369, 3	849, 6-6	MEN	tydy	NSNT	NSNT
+369, 4	851, 1-8	MEN	yfi sy wedi wneud o lliw yna *charcoal*	NST	NST
+369, 5	853, 1-5	MEN	y *charcoal* ydy hwnna *effect*	NST	NST
+369, 6	855, 1-6	MEN	a hwn ydy yr llun gwreiddiol	NSNT	NSNT
+369, 7	857, 1-6	MEN	mae hwnna wedi cael ei dynnu	NSNT	NSNT
+369, 8	858, 1-4	MEN	fel yna oedd o	---	NSNT
+
+
+370, 1	859, 1-3	BRE	yng yng *Nglynllifon*	---	NST
+
+
+371, 1	861, 1-6	MEN	a wedyn wedi wneud o *charcoal*	NST	NST
+371, 2	862, 1-5	MEN	*oh* mae hwnna digon hawdd	NST	NST
+371, 3	862, 6-6	MEN	dydy	NSNT	NSNT
+371, 4	862, 7-8	MEN	dydy *Angharad*	NST	NST
+371, 5	863, 1-5	MEN	*just* tynnu llun dach chi	NST	NST
+371, 6	863, 6-12	MEN	de a wneud o yn *charcoal* wedyn	---	NST
+
+
+372, 1	864, 1-8	ANG	ella ei fod o ddigon hawdd i rei	---	NSNT
+
+
+373, 1	865, 1-4	MEN	*oh* *yeah* mae hwnna	NST	NST
+373, 2	865, 5-10	MEN	dach chi ddim yn wneud dim_byd	NSNT	NSNT
+373, 3	866, 1-4	MEN	ci fi ydy hwnna	---	NSNT
+
+
+374, 1	867, 1-11	BRE	mae fy ffrindiau fi wedi gwneud fel *brochure* bach i mi	NST	NST
+374, 2	867, 12-15	BRE	dach chi yn gwybod	NSNT	NSNT
+374, 3	869, 1-6	BRE	a mae wedi gwneud fel hyn	NSNT	NSNT
+374, 4	870, 1-15	BRE	ac ar ar yr dudalen flaen mae hi wedi gwneud fel cysgod o yr tŷ	NSNT	NSNT
+374, 5	870, 16-29	BRE	dach chi yn gwybod yn yn ysgafn ysgafn a sgwennu drosto fo mewn ffordd	---	NSNT
+
+
+375, 1	872, 1-2	MEN	transperancy de	NSNT	SNT
+375, 2	873, 1-1	MEN	dyna	NSNT	NSNT
+375, 3	873, 2-5	MEN	dan ni isio wneud	NSNT	NSNT
+375, 4	873, 6-7	MEN	de *Angharad*	NST	NST
+375, 5	875, 1-4	MEN	ar *Desktop_Publisher* meddai *Angharad*	NST	NST
+375, 6	875, 5-6	MEN	mae yna	NSNT	NSNT
+375, 7	875, 7-12	MEN	mae *brochure* yna i chi wneud	NST	NST
+375, 8	876, 1-7	MEN	ond peth roi pethau i_mewn dach chi	NSNT	NSNT
+375, 9	877, 1-5	MEN	mae yr *lines* yna bob_dim	NST	NST
+375, 10	877, 6-7	MEN	meddai chi	NSNT	NSNT
+375, 11	877, 8-8	MEN	tydy	NSNT	NSNT
+375, 12	879, 1-4	MEN	*well* yn *Corel_Draw* de	NST	NST
+375, 13	879, 5-10	MEN	dach chi dechrau o yr *scratch*	---	NST
+
+
+376, 1	880, 1-1	ANG	*scratch*	---	NST
+
+
+377, 1	882, 1-2	MEN	a dyna	NSNT	NSNT
+377, 2	882, 3-6	MEN	dan ni isio ddysgu	NSNT	NSNT
+377, 3	884, 1-6	MEN	*oh* dw mynd i ofyn iddo	NST	NST
+377, 4	884, 7-9	MEN	tro nesa hefyd	---	NSNT
+
+
+378, 1	886, 1-2	ANG	a wedyn	---	NSNT
+
+
+379, 1	887, 1-3	MEN	ond wchi be	NSNT	NSNT
+379, 2	888, 1-8	MEN	ofnadwy o'n i sbïo ar peth angladd heddiw	NSNT	NSNT
+379, 3	889, 1-8	MEN	o'n i am wneud un yr un fath	NSNT	NSNT
+379, 4	890, 1-4	MEN	fyswn i gwneud gwasanaeth	---	NSNT
+
+
+380, 1	892, 1-2	BRE	*well* ia	---	NST
+
+
+381, 1	893, 1-2	ANG	ia dyna	NSNT	NSNT
+381, 2	894, 1-12	ANG	*Menna* ryw ddiwrnod gei di ddod yma i wneud un fi hefyd	NST	NST
+381, 5	897, 1-3	ANG	isio mi wneud	---	NSNT
+
+
+382, 1	898, 1-1	MEN	chwerthin	NSNT	NSNT
+382, 2	899, 1-2	MEN	a sbïwch	NSNT	NSNT
+382, 3	900, 1-7	MEN	beth fel hyn dan ni isio wneud	NSNT	NSNT
+382, 4	900, 8-9	MEN	de *Angharad*	---	NST
+
+
+383, 1	901, 1-3	ANG	mae hwnna wahanol	---	NSNT
+
+
+384, 1	903, 1-1	MEN	*eh*	---	NST
+
+
+385, 1	904, 1-3	BRE	*hey* dw i	NST	NST
+385, 2	904, 4-8	BRE	wedi bod yn stydio hwn	NSNT	NSNT
+385, 5	907, 1-6	BRE	mi wnaethon nhw un sâl ofnadwy	NSNT	NSNT
+385, 6	908, 1-10	BRE	ges i wneud un *mam* yn y *er* gyn *Ted*	NST	NST
+385, 7	908, 11-14	BRE	pan oedd o fyw	NSNT	NSNT
+385, 8	910, 1-12	BRE	a wedyn efo *dad* o'n isio un yr un fath yn union	NST	NST
+385, 9	911, 1-10	BRE	a dw i *sure* na wedi wneud ar y cyfrifiadur	NST	NST
+385, 10	911, 11-13	BRE	oedd yr ymgymerwr	NSNT	NSNT
+385, 11	912, 1-2	BRE	doedd yna	NSNT	NSNT
+385, 12	912, 3-5	BRE	doedd o ddim_byd	NSNT	NSNT
+385, 13	913, 1-3	BRE	oedd yn deud	NSNT	NSNT
+385, 14	913, 4-11	BRE	na doedd gynno fo ddim cardyn yr hogyn	NSNT	NSNT
+385, 15	913, 12-14	BRE	sy yna rŵan	NSNT	NSNT
+385, 16	914, 1-7	BRE	mae hwn dipyn gwell graen arno fo	NSNT	NSNT
+385, 17	915, 1-5	BRE	pwy sy wedi wneud o	---	NSNT
+
+
+386, 1	916, 1-4	ANG	un da ydy o	---	NSNT
+
+
+387, 1	918, 1-5	MEN	*yeah* mae dibynnu tast chi	NST	NST
+387, 2	918, 6-8	MEN	yndy yn_dydy *Brenda*	---	NST
+
+
+388, 1	919, 1-8	BRE	*oh* *yeah* doedd hwnnw ddim yn dast neb	---	NST
+
+
+389, 1	920, 1-3	MEN	dach chi gwybod	NSNT	NSNT
+389, 2	920, 4-4	MEN	dydy	NSNT	NSNT
+389, 3	920, 5-6	MEN	dydy tast	---	NSNT
+
+
+390, 1	921, 1-4	BRE	doedd hwnnw ddim yn	NSNT	NSNT
+390, 2	922, 1-7	BRE	ia doedd hwnnw ddim yn dast neb	NSNT	NSNT
+390, 3	922, 8-10	BRE	de *just* rywbeth	NST	NST
+390, 4	922, 11-11	BRE	wchi	---	NSNT
+
+
+391, 1	923, 1-1	ANG	mae	NSNT	NSNT
+391, 2	923, 2-10	ANG	mae hwnna yn un wedi cael ei wneud home_made	SNT	SNT
+391, 3	923, 11-11	ANG	dydy	---	NSNT
+
+
+392, 1	924, 1-2	MEN	chi meddwl	---	NSNT
+
+
+393, 1	925, 1-4	ANG	gyn rywun tebyg i	---	NSNT
+
+
+394, 1	926, 1-8	MEN	*oh* mae rywun wedi wneud o fath â	NST	NST
+394, 2	926, 9-16	MEN	deudwch fath â ni wan a wedi cael	---	NSNT
+
+
+395, 1	927, 1-8	BRE	yndy a wedi glynnu y canol yno fo	---	NSNT
+
+
+396, 1	929, 1-2	MEN	*yeah* dyna	NST	NST
+396, 2	929, 3-13	MEN	ydy yr *fashion* wan wneud o fath â *double* fel yna	NST	NST
+396, 3	930, 1-2	MEN	mae yn	NSNT	NSNT
+396, 4	930, 3-5	MEN	mae o *nice*	---	NST
+
+
+396, 5	932, 1-8	MEN	ia *lot* yn gwneud fel yna wan oes	---	NST
+
+
+398, 1	935, 1-2	MEN	bysach bysach	---	NSNT
+
+
+399, 1	936, 1-7	BRE	a does dim raid cael y canol	NSNT	NSNT
+399, 2	936, 8-9	BRE	na fysai	---	NSNT
+
+
+400, 1	937, 1-2	MEN	na fysai	NSNT	NSNT
+400, 2	937, 3-4	MEN	na fysai	NSNT	NSNT
+400, 3	938, 1-16	MEN	mae nhw wneud ryw gardiau diolch yn fawr a ballu wan dydyn yn *double* fel yna	---	NST
+
+
+401, 1	940, 1-9	BRE	dw i erioed wedi gwneud yr yr *er* pethau	NST	NST
+401, 2	941, 1-6	BRE	wyddoch chi dyna mor bell ag	NSNT	NSNT
+401, 3	941, 7-8	BRE	es i	NSNT	NSNT
+401, 4	941, 9-12	BRE	oedd efo yr cardyn	NSNT	NSNT
+401, 5	941, 14-17	BRE	pan welais i chi	---	NSNT
+
+
+402, 1	942, 1-7	ANG	ond mi oedd hwnnw yn dda ofnadwy	---	NSNT
+
+
+403, 1	943, 1-2	BRE	nag oedd	NSNT	NSNT
+403, 2	943, 3-3	BRE	wchi	---	NSNT
+
+
+404, 1	945, 1-4	MEN	dach chi yn *practice*	NST	NST
+404, 2	945, 5-6	MEN	ydy o	---	NSNT
+
+
+405, 1	946, 1-6	BRE	ia raid chi ddal i wneud	---	NSNT
+
+
+406, 1	947, 1-1	MEN	dyna	NSNT	NSNT
+406, 2	947, 2-7	MEN	ydy o i_gyd deud y gwir	---	NSNT
+
+
+407, 1	948, 1-5	BRE	achos dach chi yn anghofio	---	NSNT
+
+
+408, 1	949, 1-6	MEN	dach chi wedi gwneud rywbeth wan	NSNT	NSNT
+408, 2	950, 1-4	MEN	os na dach chi	NSNT	NSNT
+408, 3	950, 5-7	MEN	roid o lawr	NSNT	NSNT
+408, 4	950, 8-9	MEN	de nesa	NSNT	NSNT
+408, 5	950, 10-12	MEN	dach chi meddwl	NSNT	NSNT
+408, 6	952, 1-5	MEN	sut wnes i hwnna wan	---	NSNT
+
+
+409, 1	954, 1-3	ANG	*oh* *Gwennan* *oh*	---	NST
+
+
+410, 1	955, 1-8	MEN	*ooh* a wchi be *er* o'n i licio	NST	NST
+410, 2	956, 1-7	MEN	*er* hwnna ydy favourite fi *er* *um*	NST	ST
+410, 3	957, 1-9	MEN	*er* *oh* pa yr un oedd o *oh* *um*	NST	NST
+410, 5	959, 1-3	MEN	na y *psalm*	NST	NST
+410, 6	960, 1-5	MEN	*oh* be ydy henw hi	---	NST
+
+
+411, 1	961, 1-5	ANG	yn nhŷ fy nhad mae	---	NSNT
+
+
+412, 1	963, 1-3	BRE	llawer o drigfannau	---	NSNT
+
+
+413, 1	964, 1-4	MEN	*oh* dw i licio	NST	NST
+413, 2	964, 5-5	MEN	honna	NSNT	NSNT
+413, 3	965, 1-3	MEN	dw i licio	NSNT	NSNT
+413, 4	965, 4-5	MEN	honna erioed	NSNT	NSNT
+413, 5	966, 1-3	MEN	*er* dw licio	NST	NST
+413, 6	966, 4-10	MEN	honna ers o'n i yr ysgol Sul	NSNT	NSNT
+413, 7	967, 1-5	MEN	dw cofio fo dysgu hi	NSNT	NSNT
+413, 8	968, 1-6	MEN	baswn i chofio hi wan chwaith	NSNT	NSNT
+413, 9	969, 1-11	MEN	ond pan oedd o yn deud hi heddiw o'n i medru	NSNT	NSNT
+413, 11	971, 1-8	MEN	*oh* lle mae hi *Angharad* yr *bible* yna	NST	NST
+413, 12	972, 1-5	MEN	dw i wedi anghofio wan	---	NSNT
+
+
+414, 1	973, 1-4	BRE	pa *psalm* oedd hi	---	NST
+
+
+415, 1	975, 1-8	MEN	yn tŷ fy nhad mae llawer o drigfannau	---	NSNT
+
+
+416, 1	976, 1-6	ANG	*oh* na dim *psalm* ydy hwnna	---	NST
+
+
+417, 1	977, 1-7	MEN	naci yn lle yn y *bible* mae	NST	NST
+417, 2	978, 1-4	MEN	mae yn ymyl *er*	---	NST
+
+
+418, 1	979, 1-3	ANG	ew mae *sure*	NST	NST
+418, 2	979, 4-9	ANG	bod hi yn y *testament* newydd	NST	NST
+418, 3	979, 10-12	ANG	baswn i feddwl	---	NSNT
+
+
+419, 1	980, 1-8	MEN	yn tŷ fy nhad mae llawer o drigfannau	NSNT	NSNT
+419, 2	981, 1-13	MEN	pan oedd o deud hi fel yna o'n i o'n i fath â	NSNT	NSNT
+419, 3	981, 14-17	MEN	petaswn i cofio nhw	NSNT	NSNT
+419, 4	981, 18-24	MEN	wsti dod yn_ôl i dy feddwl di	---	NSNT
+
+
+420, 1	982, 1-3	ANG	mae *sure* ia	NST	NST
+420, 2	983, 1-2	ANG	o'n innau	---	NSNT
+
+
+421, 1	985, 1-5	MEN	*um* a deud wrthach chi	NST	NST
+421, 2	986, 1-5	MEN	*oh* sut oedd hi dŵad	---	NST
+
+
+422, 1	987, 1-3	BRE	*oh* bechod yn_te	---	NST
+
+
+423, 1	989, 1-7	ANG	do'n i ddim yn nabod o ond	---	NSNT
+
+
+424, 1	996, 1-1	MEN	wchi	NSNT	NSNT
+424, 2	996, 2-3	MEN	dach chi	NSNT	NSNT
+424, 3	996, 4-7	MEN	wedi bod drwyddo fo	NSNT	NSNT
+424, 4	997, 1-5	MEN	pawb mynd drwyddo fo ydy	NSNT	NSNT
+424, 5	998, 1-5	MEN	na dydy pawb ddim eto	NSNT	NSNT
+424, 6	1000, 1-3	MEN	dw i ddim	NSNT	NSNT
+424, 7	1000, 4-5	MEN	nag ydw	NSNT	NSNT
+424, 8	1001, 1-7	MEN	ond wyt ti wedi mynd drwyddo fo	---	NSNT
+
+
+425, 1	1002, 1-11	ANG	*oh* do ti wedi mynd drwyddo fo efo dy *fam* a	NST	NST
+425, 2	1005, 1-3	ANG	ia mae yna	---	NSNT
+
+
+426, 1	1006, 1-8	MEN	a a mae pawb efo ryw le bach	NSNT	NSNT
+426, 2	1006, 9-10	MEN	ei hun	NSNT	NSNT
+426, 3	1006, 11-11	MEN	tydy	---	NSNT
+
+
+427, 1	1008, 1-7	BRE	ond be sy yn eich dychryn chi	NSNT	NSNT
+427, 2	1008, 9-12	BRE	ydy pa mor fyr	NSNT	NSNT
+427, 3	1008, 13-14	BRE	ydy bywyd	NSNT	NSNT
+427, 4	1008, 15-23	BRE	de yn enwedig wedi cyrraedd ein hoed ni rŵan	---	NSNT
+
+
+428, 1	1009, 1-4	MEN	dan ni meddwl byr	---	NSNT
+
+
+429, 1	1011, 1-7	BRE	ar ryw gyfnod fyddach chi meddwl bod	NSNT	NSNT
+429, 2	1011, 8-13	BRE	gynnoch chi chi fyw am byth	NSNT	NSNT
+429, 3	1011, 14-22	BRE	a bod yna flynyddoedd maith o eich blaen chi	NSNT	NSNT
+429, 4	1012, 1-10	BRE	a rŵan fath â deudodd rywun dim ond deg mlynedd	NSNT	NSNT
+429, 5	1012, 11-11	BRE	sy	NSNT	NSNT
+429, 6	1012, 12-13	BRE	gynnon ni	---	NSNT
+
+
+430, 1	1013, 1-4	MEN	ia ar ei orau	---	NSNT
+
+
+431, 1	1014, 1-7	BRE	ar ei orau de i fedru gwneud	SNT	NSNT
+431, 2	1015, 1-1	BRE	*ta_ta*	ST	NST
+431, 3	1017, 1-6	BRE	dach chi yn dal i fynd	---	NSNT
+
+
+431, 4	1018, 1-2	BRE	dach chi	NSNT	NSNT
+432, 2	1020, 1-8	MEN	fel mewn ffordd yn y pumpdegau oedden ni	NSNT	NSNT
+432, 3	1022, 1-13	MEN	*so* oedd yna un o fath â ni wedi mynd wan yn sydyn	NST	NST
+432, 4	1022, 14-14	MEN	doedd	NSNT	NSNT
+432, 5	1024, 1-9	MEN	wedyn oedd yna lawer un yn y pumdegau yna	NSNT	NSNT
+432, 6	1024, 10-10	MEN	doedd	---	NSNT
+
+
+433, 1	1028, 1-1	BRE	wchi	NSNT	NSNT
+433, 2	1028, 2-8	BRE	be sy wneud i deimlo yn hen	NSNT	NSNT
+433, 3	1028, 9-17	BRE	ydy y plant y plant yma yn cael plant	---	NSNT
+
+
+434, 1	1029, 1-8	MEN	ia plant yn cael plant yn cael plant	---	NSNT
+
+
+435, 1	1031, 1-7	ANG	*oh* o'n i meddwl hynny bore yma	NST	NST
+435, 2	1032, 1-5	ANG	*er* *Gaynor* ar y *phone*	NST	NST
+435, 3	1033, 1-9	ANG	*er* neu fi oedd ar y *phone* efo hi	NST	NST
+435, 4	1033, 10-10	ANG	te	NSNT	NSNT
+435, 5	1034, 1-8	ANG	dyma *er* fi gofyn am siarad efo *Guto*	NST	NST
+435, 6	1035, 1-5	ANG	a dyma hi yn deud	NSNT	NSNT
+435, 7	1036, 1-2	ANG	Nain here	SNT	SNT
+435, 8	1037, 1-6	ANG	un_deg_chwech meddai fi wrth yn hun	---	NSNT
+
+
+436, 1	1038, 1-8	MEN	fel yna mae nhw siarad efo chi *Angharad*	---	NST
+
+
+437, 1	1039, 1-6	ANG	Saesneg fydd hi yn siarad er	NSNT	NSNT
+437, 2	1039, 7-12	ANG	bod fi yn siarad Cymraeg weithiau	---	NSNT
+
+
+438, 1	1040, 1-2	MEN	pwy pwy	SNT	NSNT
+438, 2	1041, 1-1	MEN	*Gaynor*	---	NST
+
+
+439, 1	1044, 1-8	ANG	ond deudodd hi Nain here wrth *Guto* felly	NST	ST
+439, 2	1046, 1-8	ANG	o'n i meddwl *oh* mae *Colin* yn un_deg_chwech	NST	NST
+439, 3	1048, 1-9	ANG	a mi allwn i fod yn hen nain hefyd	---	NSNT
+
+
+440, 1	1049, 1-1	MEN	medrwch	---	NSNT
+
+
+441, 1	1051, 1-2	ANG	*ooh* *dear*	---	NST
+
+
+442, 1	1053, 1-1	MEN	bod	NSNT	NSNT
+442, 2	1053, 2-14	MEN	yn bod yn tŷ *mam* *Dewi* diwrnod blaen yn tynnu yr pumed cenhedlaeth	---	NST
+
+
+443, 1	1057, 1-3	ANG	oddi_ar y *commode*	---	NST
+
+
+444, 1	1059, 1-1	MEN	*quite*	ST	NST
+444, 3	1061, 2-6	MEN	honna yn ymyl drws nesa	---	NSNT
+
+
+445, 1	1063, 1-4	ANG	*oh* dwn i ddim	---	NST
+
+
+446, 1	1064, 1-2	BRE	*oh* *dear*	---	NST
+
+
+447, 1	1065, 1-2	ANG	*oh* *sorry*	---	NST
+
+
+448, 1	1066, 1-2	MEN	ia bechod	NSNT	NSNT
+448, 2	1068, 1-7	MEN	ond oedd yna *er* bump cenhedlaeth yna	NST	NST
+448, 3	1068, 8-8	MEN	doedd	NSNT	NSNT
+448, 4	1071, 1-5	MEN	o'n i gofyn i *Eifion_Pritchard*	NST	NST
+448, 5	1072, 1-7	MEN	ti cael *lot* o bump cenhedlaeth yma	NST	NST
+448, 6	1073, 1-4	MEN	na dim llawer iawn	NSNT	NSNT
+448, 7	1074, 1-2	MEN	meddai fo	NSNT	NSNT
+448, 8	1075, 1-5	MEN	dw i difaru yn enaid	NSNT	NSNT
+448, 9	1075, 6-10	MEN	na baswn i wedi gwneud	NSNT	NSNT
+448, 10	1076, 1-3	MEN	wnaethon ni feddwl	NSNT	NSNT
+448, 11	1077, 1-2	MEN	meddai fo	NSNT	NSNT
+448, 12	1078, 1-2	MEN	wchi *Eifion_Pritchard*	NST	NST
+448, 13	1080, 1-4	MEN	*er* oedd *Esyllt* *Llannor*	NST	NST
+448, 14	1080, 5-6	MEN	doedd *Esyllt*	---	NST
+
+
+449, 1	1081, 2-6	BRE	oedd *mam* ei *fam* o	---	NST
+
+
+450, 1	1083, 1-4	MEN	ie *mam* *Beti* de	---	NST
+
+
+451, 1	1085, 1-3	BRE	ei nain o	---	NSNT
+
+
+452, 1	1086, 1-1	MEN	wchi	NSNT	NSNT
+452, 2	1086, 2-9	MEN	oedd yna bumed pump cenhedlaeth yn fan yna	NSNT	NSNT
+452, 3	1088, 1-7	MEN	ac oedd o ddim wedi meddwl gwneud	NSNT	NSNT
+452, 4	1089, 1-4	MEN	wnawn ni mis nesa	NSNT	NSNT
+452, 5	1090, 1-4	MEN	wnawn ni mis nesa	NSNT	NSNT
+452, 6	1091, 1-5	MEN	a farwodd yr hen *Esyllt*	NST	NST
+452, 7	1092, 1-6	MEN	*so* chafon nhw ddim wneud naddo	NST	NST
+452, 8	1094, 1-3	MEN	a na does	NSNT	NSNT
+452, 9	1094, 4-9	MEN	does yna ddim gymaint â hynny	---	NSNT
+
+
+453, 1	1095, 1-3	BRE	pump nag oes	---	NSNT
+
+
+454, 1	1096, 2-5	MEN	oedd yna bumed cenhedlaeth	---	NSNT
+
+
+455, 1	1097, 1-4	BRE	ia ia ychydig o	NSNT	NSNT
+455, 2	1098, 1-2	BRE	mae pedair	---	NSNT
+
+
+456, 1	1100, 1-4	MEN	ac oedd hi deud	NSNT	NSNT
+456, 2	1101, 1-4	MEN	does yna byth chwech	NSNT	NSNT
+456, 3	1101, 5-6	MEN	nag oes	NSNT	NSNT
+456, 4	1103, 1-5	MEN	anaml iawn mae yna chwech	---	NSNT
+
+
+457, 1	1104, 1-1	ANG	chwech	---	NSNT
+
+
+458, 1	1105, 1-5	MEN	*oh* dw ddim yn gwybod	---	NST
+
+
+459, 1	1106, 1-18	BRE	mae rhaid bod rywun wedi cael yn ifanc iawn wedi cael plentyn yn ifanc iawn i gael chwech	NSNT	NSNT
+459, 2	1106, 19-19	BRE	dydy	---	NSNT
+
+
+460, 1	1108, 1-3	MEN	ew annwyl ydy	NSNT	NSNT
+460, 3	1110, 1-5	MEN	be oedd y flash yna	---	SNT
+
+
+461, 1	1112, 1-9	ANG	mi ddoth yr *lectric* on yn fan acw hefyd	NST	ST
+461, 2	1113, 1-16	ANG	achos un *bulb* sy yn gweithio yn gegin heb i mi roi *slap* i yr llall	NST	NST
+461, 4	1116, 1-5	ANG	*oh* wedyn weithiau ddaw o	NST	NST
+461, 5	1118, 1-6	ANG	a wedyn mi ddoth wedyn felly	NSNT	NSNT
+461, 6	1120, 1-5	ANG	*yeah* dw i trio meddwl	NST	NST
+461, 10	1124, 1-5	ANG	mi oedd yna bump cenhedlaeth	NSNT	NSNT
+461, 11	1125, 1-5	ANG	ond does yna ddim chwech	---	NSNT
+
+
+462, 1	1126, 1-2	BRE	na ychydig	---	NSNT
+
+
+463, 1	1128, 1-6	MEN	chlywais i erioed sôn am chwech	---	NSNT
+
+
+464, 1	1129, 1-4	BRE	chwech cenhedlaeth nag oes	NSNT	NSNT
+464, 2	1131, 1-8	BRE	baswn i licio medru gwneud pethau fel hyn	NSNT	NSNT
+464, 3	1131, 9-9	BRE	cofiwch	NSNT	NSNT
+464, 4	1132, 1-8	BRE	ond basai gyn i ddim o yr mynedd	---	NSNT
+
+
+465, 1	1133, 1-8	MEN	*oh* dŵad i yr *er* i yr *er*	---	NST
+
+
+466, 1	1134, 1-7	BRE	na does gyn i ddim mynedd *Menna*	NST	NST
+466, 2	1135, 1-3	BRE	dw isio fo	NSNT	NSNT
+466, 3	1135, 4-8	BRE	dw isio fo wedi wneud	---	NSNT
+
+
+467, 1	1137, 1-1	ANG	ffidlian	---	NSNT
+
+
+468, 1	1138, 1-5	MEN	a dw i licio ffidlian	---	NSNT
+
+
+469, 1	1139, 1-4	BRE	*oh* dydw i ddim	---	NST
+
+
+470, 1	1140, 1-6	MEN	mae raid i fi gael rywbeth	NSNT	NSNT
+470, 2	1141, 1-3	MEN	*tapestry* oedd hi	NST	NST
+470, 3	1141, 4-7	MEN	de a pethau lluniau	NSNT	NSNT
+470, 4	1142, 1-7	MEN	allwch chi ddim wneud hynny am byth	NSNT	NSNT
+470, 5	1142, 8-9	MEN	na fedrwch	NSNT	NSNT
+470, 8	1145, 1-3	MEN	*well* mae yna	NST	NST
+470, 9	1145, 4-9	MEN	dw i wedi gyn i rywbeth	NSNT	NSNT
+470, 10	1147, 1-5	MEN	*er* rhaid mi gael rywbeth	---	NST
+
+
+471, 1	1148, 1-8	ANG	does yna ddim ond blwyddyn a hanner ers	NSNT	NSNT
+471, 2	1148, 9-12	ANG	mae gyn *Menna* gomputer	---	ST
+
+
+472, 1	1149, 1-7	MEN	ew na erioed wedi twtsiad yn un	---	NSNT
+
+
+473, 1	1152, 1-5	BRE	a dyna chi yr gwahaniaeth	NSNT	NSNT
+473, 2	1153, 1-2	BRE	dw i	NSNT	NSNT
+473, 3	1153, 3-5	BRE	alla i ddeud	NSNT	NSNT
+473, 4	1153, 6-11	BRE	bod i yn un o rei	NSNT	NSNT
+473, 5	1153, 12-19	BRE	cynta yn_de yn *Llŷn* i ffidlian efo cyfrifiadur	NST	NST
+473, 6	1155, 1-1	BRE	o'n	NSNT	NSNT
+473, 7	1156, 1-9	BRE	a dydw i wedi symud dim yn y mlaen	NSNT	NSNT
+473, 8	1157, 1-9	BRE	achos does gyn i ddim_byd i ddeud wrtho fo	---	NSNT
+
+
+474, 1	1158, 1-10	MEN	*oh* doedd gyn i ddim_byd i ddeud wrtho fo chwaith	---	NST
+
+
+475, 1	1160, 1-8	BRE	o'n i efo cyfrifiadur pan oedd yr hen	NSNT	NSNT
+475, 2	1161, 1-1	BRE	wchi	NSNT	NSNT
+475, 3	1161, 2-13	BRE	oeddech chi yn gorod recordo a tâp a pethau felly efo fo	NSNT	NSNT
+475, 4	1164, 1-3	BRE	*oh* arno fo	---	NST
+
+
+476, 1	1165, 1-1	MEN	hopeless	SNT	NSNT
+476, 2	1167, 1-6	MEN	mae gyn y plant acw rei	NSNT	NSNT
+476, 3	1168, 1-10	MEN	wnes i erioed hyd_yn_oed sbïo efo yr plant na dim_byd	NSNT	NSNT
+476, 4	1170, 1-5	MEN	dim diddordeb dim dim dim	---	NSNT
+
+
+477, 1	1171, 1-6	BRE	ond hefyd mae raid mi ddeud	NSNT	NSNT
+477, 2	1171, 7-9	BRE	dw i ddiog	NSNT	NSNT
+477, 3	1172, 1-9	BRE	oherwydd os dw isio gwybod rywbeth mond ffonio ffrind	NSNT	NSNT
+477, 4	1173, 1-3	BRE	mae hi gwneud	NSNT	NSNT
+477, 5	1174, 1-5	BRE	a wedyn be mae wneud	NSNT	NSNT
+477, 6	1174, 6-9	BRE	mae yrru o lawr	NSNT	NSNT
+477, 7	1176, 1-4	BRE	ar e_bost i mi	---	NSNT
+
+
+478, 1	1177, 1-7	MEN	wn i ddim sut gymrais i ddiddordeb	NSNT	NSNT
+478, 2	1178, 1-8	MEN	am bod mynd i wneud y peth *arts*	NST	NST
+478, 4	1182, 1-2	MEN	wedyn deudwch	NSNT	NSNT
+478, 5	1182, 3-14	MEN	bod fi wedi mynd i wneud desk_top publishing ond i deipio straightaway	SNT	SNT
+478, 6	1182, 15-17	MEN	baswn i hwnna	NSNT	NSNT
+478, 7	1182, 18-21	MEN	baswn i bored *stiff*	ST	ST
+478, 8	1185, 1-7	MEN	ond *um* am bod i wneud hefo	---	NST
+
+
+479, 1	1186, 1-17	BRE	baswn i ella ddim yn meindio gwneud dipyn bach o o o gardiau pethau felly well felly	---	NSNT
+
+
+480, 1	1187, 1-1	MEN	*arts*	ST	NST
+480, 2	1188, 1-9	MEN	*yeah* ond basai rhaid chi fynd i *graphic* *arts*	NST	NST
+480, 3	1188, 10-13	MEN	bysai *classes* efo hynny	NST	NST
+480, 4	1191, 1-2	MEN	yn_te *Angharad*	---	NST
+
+
+481, 1	1192, 1-4	BRE	sut byswn i mynd	---	NSNT
+
+
+482, 1	1193, 1-7	ANG	ond mi dangosa i un fi rŵan	---	NSNT
+
+
+483, 1	1194, 1-8	BRE	sut byswn i mynd i i fedru gwneud	NSNT	NSNT
+483, 2	1195, 1-9	BRE	i lle byswn i mynd i wneud *um* gwefan	---	NST
+
+
+484, 1	1196, 1-4	MEN	*er* cael gwersi felly	NST	NST
+484, 2	1198, 1-9	MEN	*well* *oh* dwn i ddim beth am *Llanhaearn* yma	---	NST
+
+
+485, 1	1199, 1-3	ANG	*oh* dydy hwnnw	NST	NST
+485, 3	1201, 1-7	ANG	*er* sganio hwnna wnes i diwrnod o_blaen	---	NST
+
+
+486, 1	1202, 1-4	MEN	*yeah* ti wedi gwneud	NST	NST
+486, 2	1203, 1-6	MEN	be ti wedi wneud wan *Angharad*	---	NST
+
+
+487, 1	1204, 1-2	BRE	dw i	---	NSNT
+
+
+488, 1	1205, 1-7	ANG	*just* sganio fo am bod *Mary* yma	NST	NST
+488, 2	1206, 1-4	ANG	oedd hi isio sganio	---	NSNT
+
+
+489, 1	1207, 1-3	MEN	*oh* ydy *Mary*	NST	NST
+489, 2	1207, 4-6	MEN	wedi bod yma	---	NSNT
+
+
+490, 1	1208, 1-3	ANG	do yn sganio	NSNT	NSNT
+490, 2	1209, 1-9	ANG	wedyn dw i wedi ddangos hi sut i sganio	---	NSNT
+
+
+491, 1	1210, 1-1	MEN	*oops*	ST	NST
+491, 2	1211, 1-4	MEN	*oh* dyna fo dda	---	NST
+
+
+492, 1	1213, 1-6	BRE	dw i isio medru sganio *please*	---	NST
+
+
+493, 1	1215, 1-4	ANG	ia ddangosa i hynny	---	NSNT
+
+
+494, 1	1216, 1-4	MEN	*oh* mae hwnna dda	---	NST
+
+
+495, 1	1217, 1-7	ANG	dw i wedi gwneud hwnna lôn goed	NSNT	NSNT
+495, 2	1218, 1-5	ANG	a dyna yr unig beth	NSNT	NSNT
+495, 3	1218, 6-9	ANG	dw i wedi wneud	NSNT	NSNT
+495, 4	1219, 1-8	ANG	a wedyn dw i wedi roi rhein in_between	---	SNT
+
+
+496, 1	1220, 1-3	MEN	*oh* dyna fo	NST	NST
+496, 2	1220, 4-7	MEN	mae hwn yn *champion*	---	NST
+
+
+497, 1	1221, 1-5	ANG	dw i wedi dechrau hwnna	---	NSNT
+
+
+498, 1	1222, 1-4	BRE	*oh* *nice* da iawn	---	NST
+
+
+499, 1	1223, 1-4	MEN	mae hwnna dda *Angharad*	---	NST
+
+
+500, 1	1224, 1-9	BRE	dach chi wedi gwneud yr yr *er* rheina hun	NST	NST
+500, 2	1226, 1-7	BRE	efo be dach chi medru gwneud rheina	---	NSNT
+
+
+501, 1	1227, 1-2	MEN	hwnna dda	---	NSNT
+
+
+502, 1	1228, 1-4	ANG	fedra i ddim cofio	---	NSNT
+
+
+503, 1	1229, 1-5	MEN	efo yr *tools* yna sy	NST	NST
+503, 2	1229, 6-10	MEN	gynnon ni yn y *Corel_Draw*	NST	NST
+503, 4	1232, 1-4	MEN	mae hwnna dda *Angharad*	---	NST
+
+
+504, 1	1233, 1-4	ANG	ia *well* dyna fo	NST	NST
+504, 2	1233, 5-5	ANG	te	NSNT	NSNT
+504, 3	1234, 1-4	ANG	hwnna ben lawr *sorry*	---	NST
+
+
+505, 1	1235, 1-1	BRE	wedyn	---	NSNT
+
+
+506, 1	1236, 1-3	MEN	*yeah* dyma nhw	NST	NST
+506, 2	1237, 1-1	MEN	rhein	---	NSNT
+
+
+507, 1	1238, 1-3	BRE	ia gwneud rhein	NSNT	NSNT
+507, 3	1241, 1-2	BRE	am nad	---	NSNT
+
+
+508, 1	1242, 1-4	MEN	*oh* dyro mi weld	NST	NST
+508, 2	1243, 1-6	MEN	mae *Angharad* wedi wneud *fagazine* wan	NST	NST
+508, 3	1244, 1-3	MEN	*oh* dyna o	NST	NST
+508, 4	1245, 1-4	MEN	ie ei ddechrau fo	NSNT	NSNT
+508, 6	1247, 1-5	MEN	lle mae ei ddiwedd o	---	NSNT
+
+
+509, 1	1248, 1-2	ANG	nag oes	---	NSNT
+
+
+510, 1	1249, 1-2	MEN	dyna nhw	---	NSNT
+
+
+511, 1	1250, 1-9	ANG	dw i ddim wedi mynd mor bell â hynny	---	NSNT
+
+
+512, 1	1251, 1-8	MEN	ti isio wneud y y diwedd hwnna yn_does	---	NSNT
+
+
+513, 1	1252, 1-12	BRE	a be dach chi isio wneud i *um* yn y llefydd yma	---	NST
+
+
+514, 1	1253, 1-5	MEN	planning ydy hwn fath â	NSNT	SNT
+514, 2	1253, 6-11	MEN	petaswn i yn gwneud tŷ felly	---	NSNT
+
+
+515, 1	1256, 1-3	ANG	*oh* dyma fo	---	NST
+
+
+516, 1	1257, 1-2	BRE	dyma fo	---	NSNT
+
+
+517, 1	1258, 1-5	MEN	*oh* dyma o dyma o	---	NST
+
+
+518, 1	1259, 1-2	BRE	*oh* da	NST	NST
+518, 2	1260, 1-5	BRE	*well* yli *Will_Young* hefo *Lisa*	---	NST
+
+
+519, 1	1262, 1-4	MEN	dim *Will_Young* ydy hwn	---	NST
+
+
+520, 1	1264, 1-3	ANG	ia tad ia	---	NSNT
+
+
+521, 1	1265, 1-2	BRE	y *Will_Young*	---	NST
+
+
+522, 1	1267, 1-8	MEN	sut gawsoch chi afael arno fo fel yna	---	NSNT
+
+
+523, 1	1268, 1-16	ANG	a *er* *Lisa* wedi cael tynnu llun efo fo ar *um* pan oedd o yn Gaerdydd	NST	NST
+523, 2	1269, 1-9	ANG	wedyn wnaeth hi yrru o i mi ar e_mail	---	SNT
+
+
+524, 1	1270, 1-1	MEN	da	---	NSNT
+
+
+525, 1	1271, 1-5	ANG	a wedyn *er* wnes i	---	NST
+
+
+526, 1	1272, 1-1	MEN	*great*	---	NST
+
+
+527, 1	1274, 1-5	ANG	wnes i drio download_io fo	NSNT	SNT
+527, 2	1274, 6-8	ANG	te a ballu	---	NSNT
+
+
+528, 1	1275, 1-5	BRE	sut dach chi yn cael	NSNT	NSNT
+528, 2	1276, 1-9	BRE	dach chi yn gwneud hwnna wedyn yn yn yn	---	NSNT
+
+
+529, 1	1277, 1-4	ANG	*Menna* sy yn cofio	---	NST
+
+
+530, 1	1280, 1-4	MEN	*oh* peth *er* hwnnw	---	NST
+
+
+531, 1	1281, 1-7	ANG	ar *holidays* *um* Germany fi ydy hwnna	---	ST
+
+
+532, 1	1284, 1-2	MEN	lovely *Angharad*	---	NST
+
+
+533, 1	1285, 1-9	ANG	wedyn dw i wedi gwneud *poster* yn fan yna	NST	NST
+533, 2	1286, 1-3	ANG	hwn ydy yr	---	NSNT
+
+
+534, 1	1287, 1-3	MEN	*oh* dyna fo	NST	NST
+534, 2	1288, 1-5	MEN	*oh* mae hwn yn dda	---	NST
+
+
+535, 1	1290, 1-6	BRE	*poster* am y lle felly i	---	NST
+
+
+536, 1	1291, 1-4	ANG	ia dw meddwl na	NSNT	NSNT
+536, 2	1291, 5-5	ANG	dyna	NSNT	NSNT
+536, 3	1291, 6-10	ANG	be ydy hwnna gyn i	---	NSNT
+
+
+537, 1	1292, 1-5	MEN	*oh* *yeah* dach chi wedi	NST	NST
+537, 2	1292, 6-11	MEN	mae ti wedi gwneud hwn wan	---	NSNT
+
+
+538, 1	1293, 1-5	ANG	dw i wedi gwneud hwnna	NSNT	NSNT
+538, 2	1294, 1-8	ANG	llun fi ydy hwnna ar *gamera* a llun	---	NST
+
+
+539, 1	1295, 1-8	MEN	a be ti am roid i_mewn yn rhein	---	NSNT
+
+
+540, 1	1296, 1-5	ANG	*oh* dim ots gyn i	NST	NST
+540, 2	1297, 1-1	ANG	rywbeth	NSNT	NSNT
+540, 3	1298, 1-11	ANG	hwn oddi_ar yr internet a hwn oddi_ar *camera* i gymharu wan	---	ST
+
+
+541, 1	1301, 1-4	BRE	mae hwnna *lot* cliriach	---	NST
+
+
+542, 1	1303, 1-1	MEN	dydy	NSNT	NSNT
+542, 2	1303, 2-7	MEN	dach chi wedi dynnu eich hun	---	NSNT
+
+
+543, 1	1305, 1-4	ANG	mae hwnna yn las	NSNT	NSNT
+543, 2	1305, 5-5	ANG	dydy	NSNT	NSNT
+543, 3	1306, 1-6	ANG	does yna ddim_byd yn fan yma	---	NSNT
+
+
+544, 1	1307, 1-3	MEN	*oh* nag oes	NST	NST
+544, 2	1307, 4-4	MEN	yli	NSNT	NSNT
+544, 3	1309, 1-5	MEN	be hwn sy ar y	---	NSNT
+
+
+545, 1	1310, 1-3	ANG	ar y we	---	NSNT
+
+
+546, 1	1311, 1-1	MEN	naci	NSNT	NSNT
+546, 2	1313, 1-1	MEN	mae	NSNT	NSNT
+546, 3	1313, 2-6	MEN	mae nhw deud celwyddau dydyn	NSNT	NSNT
+546, 4	1315, 1-5	MEN	mae nhw rhoi môr i_mewn	NSNT	NSNT
+546, 5	1315, 6-10	MEN	lle mae yna ddim môr	NSNT	NSNT
+546, 7	1318, 1-2	MEN	mae nhw	---	NSNT
+
+
+547, 1	1321, 1-7	ANG	a wedyn be ydy llall yna wan	---	NSNT
+
+
+548, 1	1322, 1-1	MEN	*Abersoch*	---	NST
+
+
+549, 1	1326, 1-1	ANG	dibynnu	NSNT	NSNT
+549, 2	1327, 1-9	ANG	ond *er* oedd hwnna y haul yma yn rywle	NST	NST
+549, 3	1328, 1-4	ANG	dw ddim yn cofio	---	NSNT
+
+
+550, 1	1329, 1-2	MEN	*Tŷ_Newydd* *Abersoch*	---	NST
+
+
+551, 1	1330, 1-1	BRE	*Abersoch*	---	NST
+
+
+552, 1	1332, 1-3	MEN	*Guto* a *Glenys*	---	NST
+
+
+553, 1	1334, 1-9	ANG	a wedyn pam bod rheina wedi dod yn las	NSNT	NSNT
+553, 2	1334, 10-14	ANG	dw i ddim yn gwybod	NSNT	NSNT
+553, 3	1335, 1-3	ANG	a dyna fo	---	NSNT
+
+
+554, 1	1337, 2-6	MEN	mae yna rei fan yna	---	NSNT
+
+
+555, 1	1339, 1-1	ANG	cofio	NSNT	NSNT
+555, 2	1340, 1-5	ANG	*oh* fy *brochure* i de	---	NST
+
+
+556, 1	1341, 1-2	MEN	*oh* da	---	NST
+
+
+557, 1	1343, 1-5	BRE	*oh* ti wedi gwneud *brochure*	---	NST
+
+
+558, 1	1344, 1-4	ANG	*oh* ers blynyddoedd yn_ôl	NST	NST
+558, 2	1345, 1-9	ANG	a dw i *just* wedi stwffio fo fan yna	---	NST
+
+
+559, 1	1346, 1-3	MEN	*oh* da iawn	NST	NST
+559, 2	1347, 1-3	MEN	*oh* mae dda	---	NST
+
+
+560, 1	1348, 1-2	ANG	efo *Publisher*	---	NST
+
+
+561, 1	1349, 1-4	MEN	a ti isio gwneud	---	NSNT
+
+
+562, 1	1350, 1-6	BRE	dyna fo rywbeth debyg i hwn	NSNT	NSNT
+562, 2	1352, 1-7	BRE	yr un math o beth ydy o	NSNT	NSNT
+562, 3	1352, 9-11	BRE	de mewn tri	NSNT	NSNT
+562, 4	1353, 1-2	BRE	wedyn mae	NSNT	NSNT
+562, 5	1353, 3-10	BRE	oedd yr wedi wneud o mewn tri darn	---	NSNT
+
+
+563, 1	1355, 1-5	MEN	dyna fo tri fel yna	---	NSNT
+
+
+564, 1	1357, 1-8	BRE	ond ew sut dach chi wedi wneud o	---	NSNT
+
+
+565, 1	1358, 1-4	MEN	a ti isio gwneud	NSNT	NSNT
+565, 2	1359, 1-4	MEN	be ydy hwn wan	NSNT	NSNT
+565, 3	1360, 1-8	MEN	tu mewn iddo ta tu allan iddo fo	---	NSNT
+
+
+566, 1	1361, 1-3	ANG	ddangosa i chi	---	NSNT
+
+
+567, 1	1362, 1-2	BRE	tu mewn	NSNT	NSNT
+567, 2	1363, 1-4	BRE	hwnna sy tu allan	---	NSNT
+
+
+568, 1	1364, 1-2	MEN	*oh* hwn	ST	NST
+568, 2	1365, 1-2	MEN	*oh* *sure*	---	NST
+
+
+569, 1	1367, 1-2	BRE	plygu dydy	---	NSNT
+
+
+570, 1	1370, 1-3	ANG	ond bod hwn	NSNT	NSNT
+570, 2	1370, 4-8	ANG	mae hwn ar ben lawr	---	NSNT
+
+
+571, 1	1371, 1-5	MEN	dyna fo un fel yna	---	NSNT
+
+
+572, 1	1372, 1-7	BRE	ia fel yna ydy un i hefyd	---	NSNT
+
+
+573, 1	1373, 1-7	ANG	mae hwnna ddod allan ar ben i_lawr	NSNT	NSNT
+573, 2	1373, 8-8	ANG	te	---	NSNT
+
+
+574, 1	1374, 1-6	MEN	*oh* chdi sy wedi gwneud hwn	---	NST
+
+
+575, 1	1375, 1-3	ANG	*oh* ia *sure*	---	NST
+
+
+576, 1	1376, 1-7	MEN	pam ti roi hwnna mewn fan yna	---	NSNT
+
+
+577, 1	1377, 1-8	ANG	*well* *yeah* ond yr un peth ydy hwnna	NST	NST
+577, 2	1378, 1-4	ANG	mae hwnna ben lawr	NSNT	NSNT
+577, 5	1382, 1-6	ANG	ond tydy o ddim yn *Corel_Draw*	NST	NST
+577, 6	1383, 1-4	ANG	mae o yn *Publisher*	---	NST
+
+
+578, 1	1384, 1-2	BRE	mi weld	NSNT	NSNT
+578, 2	1385, 1-2	BRE	mae hwnna	---	NSNT
+
+
+579, 1	1386, 1-2	MEN	â *Publisher*	---	NST
+
+
+580, 1	1387, 1-4	BRE	*oh* baswn i licio	NST	NST
+580, 2	1387, 5-8	BRE	petaswn i medru gwneud	---	NSNT
+
+
+581, 1	1388, 1-1	ANG	dyna	NSNT	NSNT
+581, 2	1388, 2-5	ANG	dw i am wneud	---	NSNT
+
+
+582, 1	1389, 1-1	MEN	*eh*	---	NST
+
+
+583, 1	1390, 1-1	ANG	dyna	NSNT	NSNT
+583, 2	1390, 2-5	ANG	dw i am wneud	---	NSNT
+
+
+584, 1	1391, 1-8	MEN	neu ga i weld sut wyt ti wneud	NSNT	NSNT
+584, 2	1391, 9-10	MEN	y *Publisher*	---	NST
+
+
+585, 1	1392, 1-3	ANG	cei tad cei	---	NSNT
+
+
+586, 1	1393, 1-4	MEN	gyn i *Publisher* adre	---	NST
+
+
+587, 1	1394, 1-3	ANG	*oh* dyna fo	---	NST
+
+
+588, 1	1395, 1-3	MEN	fedra i wneud	NSNT	NSNT
+588, 2	1396, 1-4	MEN	mae *Angharad* wedi arfer	NST	NST
+588, 3	1396, 5-8	MEN	â *Publisher* ti gweld	---	NST
+
+
+589, 1	1397, 1-4	BRE	dwn i ddim pam	NSNT	NSNT
+589, 2	1397, 5-19	BRE	na rowch chi eich pennau efo eich_gilydd i wneud *er* website i ni ein dwy	NST	ST
+589, 3	1399, 1-7	BRE	safle we *er* i ni ein dwy	---	NST
+
+
+590, 1	1400, 1-9	MEN	mae *Elfyn* isio ni wneud *er* family_tree *thing* yma	NST	ST
+590, 2	1401, 1-9	MEN	*oh* mae hwnnw edrych yn anodd iawn i mi	---	NST
+
+
+591, 1	1402, 1-9	BRE	mae hwn yn edrych yn dda iawn iawn *Angharad*	---	NST
+
+
+592, 1	1403, 1-3	MEN	mae hwnna dda	---	NSNT
+
+
+593, 1	1404, 2-3	BRE	mae o	NSNT	NSNT
+593, 2	1404, 4-6	BRE	â deud y	---	NSNT
+
+
+594, 1	1405, 1-1	MEN	*eh*	---	NST
+
+
+595, 1	1406, 1-6	BRE	yr unig beth dw i wneud	NSNT	NSNT
+595, 2	1406, 7-9	BRE	dach chi gweld	NSNT	NSNT
+595, 3	1406, 10-23	BRE	dw i mynd ar ar y we ar yr e_bost a mynd i yr	---	NSNT
+
+
+596, 1	1407, 1-4	MEN	oes gyn ti *Publisher*	---	NST
+
+
+597, 1	1409, 2-6	BRE	dw i wedi cael *Publisher*	NST	NST
+597, 2	1411, 1-5	BRE	a wedyn ar yr e_bost	NSNT	NSNT
+597, 3	1412, 1-4	BRE	wedyn mae o gyn	NSNT	NSNT
+597, 4	1413, 1-8	BRE	am bod *Sally* wedi wneud o i mi	NST	NST
+597, 5	1413, 9-13	BRE	mae yn yrru o i_lawr	NSNT	NSNT
+597, 6	1413, 14-14	BRE	dydy	NSNT	NSNT
+597, 7	1414, 1-7	BRE	dim ond *click* sy isio mi wneud	NST	NST
+597, 9	1418, 1-2	BRE	mae o	NSNT	NSNT
+597, 10	1418, 3-4	BRE	mae o	---	NSNT
+
+
+598, 1	1419, 1-6	MEN	*yeah* i beth sy isio ni	NST	NST
+598, 2	1419, 7-12	MEN	de ladd ein hunain yn *Corel_Draw*	NST	NST
+598, 3	1422, 1-7	MEN	basen ni medru gwneud un fel yna	NSNT	NSNT
+598, 4	1422, 8-9	MEN	â *Publisher*	---	NST
+
+
+599, 1	1423, 1-4	ANG	yn union dyna pam	NSNT	NSNT
+599, 2	1423, 5-6	ANG	dw i	---	NSNT
+
+
+600, 1	1424, 1-1	MEN	dyna	NSNT	NSNT
+600, 2	1424, 2-5	MEN	dw i methu ddallt	---	NSNT
+
+
+601, 1	1425, 1-7	BRE	mae *Sally* yn licio *Publisher* yn ofnadwy	---	NST
+
+
+602, 1	1426, 1-2	MEN	ydy chdi	NSNT	NSNT
+602, 2	1426, 3-3	MEN	ddeudodd	---	NSNT
+
+
+603, 1	1428, 1-2	ANG	ia yndw	---	NSNT
+
+
+604, 1	1430, 1-4	BRE	mae o yn hawdd	---	NSNT
+
+
+605, 1	1431, 1-2	MEN	mae *Corel_Draw*	NST	NST
+605, 2	1431, 3-11	MEN	baswn i feddwl yn well i wneud *graphic* *arts*	NST	NST
+605, 3	1431, 12-16	MEN	dydy a ryw bethau crand	NSNT	NSNT
+605, 4	1435, 1-15	MEN	ond i wneud rywbeth fel yna basai waeth i rywun fod yn fan yna ddim	NSNT	NSNT
+605, 5	1435, 16-17	MEN	na fysai	---	NSNT
+
+
+606, 1	1436, 1-10	ANG	*well* mi ddylwn i ddangos i *Brenda* yr *um* cardyn	NST	NST
+606, 2	1436, 11-21	ANG	ges i ar_ôl mi fod yn *south* of France yr un	NST	ST
+606, 3	1436, 22-26	ANG	wnest ti wneud i mi	---	NSNT
+
+
+607, 1	1437, 1-4	MEN	pa yr un dŵad	---	NSNT
+
+
+608, 1	1438, 1-3	ANG	yr un *er*	NST	NST
+608, 2	1439, 1-8	ANG	mi wnes i wneud un da ofnadwy chwerthin	---	NSNT
+
+
+609, 1	1440, 1-9	MEN	a dw i sbïo ar y dechrau yr cwrs	NSNT	NSNT
+609, 2	1441, 1-10	MEN	ers faint dan ni yn y cwrs yna wan *Angharad*	---	NST
+
+
+610, 1	1442, 1-8	ANG	dan ni mynd ers blwyddyn a hanner ballu	---	NSNT
+
+
+611, 1	1443, 1-9	MEN	sôn am ddisgyn i yr *deep* end wnes i	NST	ST
+611, 2	1444, 1-7	MEN	*well* dw gweld yn hun yn *right*	---	NST
+
+
+612, 1	1445, 1-3	BRE	lle mae eich	NSNT	NSNT
+612, 2	1445, 4-11	BRE	lle mae eich lle chi yn hwn wan	---	NSNT
+
+
+613, 1	1446, 1-4	ANG	*oh* lle mae o	---	NST
+
+
+614, 1	1447, 1-5	BRE	dydy hwnna ddim yn *glear*	---	NST
+
+
+615, 1	1449, 1-1	ANG	*Glan_Cymerau*	---	NST
+
+
+616, 1	1450, 1-3	BRE	bob un dim	---	NSNT
+
+
+617, 1	1451, 1-5	MEN	a lle gest ti yr	---	NSNT
+
+
+618, 1	1452, 1-5	BRE	*oh* dach chi marcio fo	NST	NST
+618, 2	1453, 1-3	BRE	*oh* wela i	---	NST
+
+
+619, 1	1454, 1-5	MEN	lle gest ti *map* yna	NST	NST
+619, 2	1454, 6-7	MEN	ta *Angharad*	---	NST
+
+
+620, 1	1455, 1-3	ANG	oddi_ar y *Multimap*	---	NST
+
+
+621, 1	1456, 1-3	BRE	*Multimap* ydy hwn	---	NST
+
+
+622, 1	1458, 1-5	ANG	be dw i chwilio amdan	---	NSNT
+
+
+623, 1	1459, 1-5	MEN	be *Multimap* *Multimap* yn lle	---	NST
+
+
+624, 1	1460, 1-3	ANG	ar *er* hwn	NST	NST
+624, 2	1461, 1-4	ANG	ddangosa i ti rŵan	---	NSNT
+
+
+625, 1	1463, 1-6	MEN	ti mynd i *Publisher* wan wyt	---	NST
+
+
+626, 1	1464, 1-11	ANG	na dw i mynd i i nôl *Multimap* i gychwyn eto	NST	NST
+626, 2	1465, 1-7	ANG	ti dach chi yn gwybod efo *Multimap*	---	NST
+
+
+627, 1	1466, 1-2	BRE	yndw tad	NSNT	NSNT
+627, 2	1466, 3-5	BRE	dw i hwnnw	NSNT	NSNT
+627, 3	1468, 1-5	BRE	dw i medru gwneud hynny	NSNT	NSNT
+627, 4	1469, 1-6	BRE	dw i medru gwneud y pethau	NSNT	NSNT
+627, 5	1470, 1-7	BRE	a dw i medru ffeindio yn weddol	NSNT	NSNT
+627, 6	1471, 1-15	BRE	ond i wneud a mynd i_lawr a ffurfio a gwneud a ffidlian no *oh* peidiwch	---	ST
+
+
+628, 1	1472, 1-6	MEN	*yeah* ella baswn i ffeindio hynny	NST	NST
+628, 2	1473, 1-5	MEN	*er* pawb â ei peth	NST	NST
+628, 3	1473, 6-6	MEN	â	NSNT	NSNT
+628, 4	1473, 7-8	MEN	ei fo	---	NSNT
+
+
+629, 1	1475, 1-7	ANG	ydy un *Menna* yn fan hyn tybed	---	NST
+
+
+630, 1	1478, 1-3	MEN	*oh* wn i	NST	NST
+630, 2	1479, 1-3	MEN	hwnna ydy o	---	NSNT
+
+
+631, 1	1480, 1-1	ANG	hwn	---	NSNT
+
+
+632, 1	1481, 1-6	MEN	*oh* dw ddim yn gwybod chwaith	NST	NST
+632, 2	1482, 1-1	MEN	naci	---	NSNT
+
+
+633, 1	1484, 1-3	BRE	be ydy hwn	NSNT	NSNT
+633, 2	1485, 1-3	BRE	y cerdyn *post*	---	NST
+
+
+634, 1	1486, 1-7	ANG	*er* cardyn ddaru *Menna* wneud i mi	---	NST
+
+
+635, 1	1490, 1-6	MEN	na fysai fo ddim yn *Corel_Draw*	NST	NST
+635, 2	1490, 7-8	MEN	na fysai	---	NSNT
+
+
+636, 1	1491, 1-3	ANG	dwn i ddim	---	NSNT
+
+
+637, 1	1492, 1-1	BRE	wchi	NSNT	NSNT
+637, 2	1492, 2-6	BRE	be baswn i licio gael	NSNT	NSNT
+637, 3	1493, 1-6	BRE	pan aethon ni i i *Sarn*	NST	NST
+637, 4	1494, 1-7	BRE	pan es i efo chi i *Sarn*	NST	NST
+637, 5	1496, 1-15	BRE	dach chi yn cofio yn addo *um* *disk* i ni hefo bob math o luniau	NST	NST
+637, 6	1497, 1-6	BRE	a mi gafodd rei gynno fo	NSNT	NSNT
+637, 7	1498, 1-5	BRE	a ches i ddim un	NSNT	NSNT
+637, 8	1499, 1-3	BRE	talu pymtheg punt	NSNT	NSNT
+637, 9	1500, 1-4	BRE	dach chi yn cofio	---	NSNT
+
+
+638, 1	1501, 1-3	ANG	dwn i ddim	NSNT	NSNT
+638, 2	1502, 1-2	ANG	dw i	NSNT	NSNT
+638, 3	1502, 3-7	ANG	dw i ddim yn cofio	---	NSNT
+
+
+639, 1	1504, 1-3	MEN	lluniau be oedd	---	NSNT
+
+
+640, 1	1505, 1-5	BRE	chaethoch chi ddim o yr	NSNT	NSNT
+640, 2	1506, 1-8	BRE	*well* gwahanol lluniau o bob un dim felly	NST	NST
+640, 3	1509, 1-4	BRE	wchi lluniau i fedru	NSNT	NSNT
+640, 4	1510, 1-1	BRE	deudwch	NSNT	NSNT
+640, 5	1510, 2-8	BRE	bod chi isio gwneud cardyn pen_blwydd felly	---	NSNT
+
+
+641, 1	1511, 1-4	MEN	*oh* fath â *clip_art*	NST	NST
+641, 2	1513, 1-7	MEN	*yeah* baswn i licio cael *er* *clip_art*	---	NST
+
+
+642, 1	1514, 1-4	BRE	mae yna mi mi	NSNT	NSNT
+642, 2	1514, 5-9	BRE	gafodd o rei i rei	NSNT	NSNT
+642, 3	1515, 1-5	BRE	a mi rois i bres	NSNT	NSNT
+642, 4	1516, 1-8	BRE	a ches i ddim ohono fo gynno fo	---	NSNT
+
+
+643, 1	1517, 1-3	MEN	*mmm* sâl *mmm*	---	NST
+
+
+644, 1	1518, 1-1	BRE	basai	NSNT	NSNT
+644, 2	1518, 2-5	BRE	wedi bod yn *handy*	NST	NST
+644, 3	1518, 6-9	BRE	wchi petasech chi yn	NSNT	NSNT
+644, 4	1519, 1-8	BRE	basai raid i chi gael o mewn gwirionedd	NSNT	NSNT
+644, 5	1519, 9-15	BRE	bysech chi yn gwneud cardiau cardiau Dolig	---	NSNT
+
+
+645, 1	1520, 1-1	MEN	bysai	---	NSNT
+
+
+646, 1	1522, 1-3	BRE	dw i cofio	NSNT	NSNT
+646, 2	1522, 4-5	BRE	gynnon ni	---	NSNT
+
+
+647, 1	1523, 1-8	MEN	dan ni wedi mynd i ryw oed wan	NSNT	NSNT
+647, 2	1523, 9-13	MEN	dan ni isio rywbeth *handy*	NST	NST
+647, 3	1525, 1-4	MEN	dw ddim yn deud	NSNT	NSNT
+647, 4	1526, 1-13	MEN	pan dach chi gorod wneud rywbeth chi eich hun o yr dechrau un	---	NSNT
+
+
+648, 1	1527, 1-3	BRE	fath â yr	NSNT	NSNT
+648, 2	1528, 1-11	BRE	*er* argian baswn i byth yn medru gwneud y lleuad yna	---	NST
+
+
+649, 1	1529, 2-7	MEN	ges i dipyn o *job* hefyd	NST	NST
+649, 2	1530, 1-3	MEN	mae *right* hawdd	NST	NST
+649, 3	1531, 1-8	MEN	dach chi *just* wneud y crwn i ddechrau	NST	NST
+649, 4	1533, 1-10	MEN	a wedyn mae yna fath â twlsyn wneud *arc* *tool*	NST	NST
+649, 5	1534, 1-8	MEN	a wedyn dach chi wneud wneud o wedyn	NSNT	NSNT
+649, 6	1535, 1-7	MEN	a wedyn dach chi yn manipulate_io wedyn	NSNT	SNT
+649, 7	1537, 1-6	MEN	dach chi yn *envelope* *tool* wedyn	NST	NST
+649, 8	1538, 1-6	MEN	dach chi medru wneud o fel	NSNT	NSNT
+649, 9	1538, 7-10	MEN	dach chi isio wedyn	NSNT	NSNT
+649, 10	1540, 1-4	MEN	ond y *joke* oedd	NST	NST
+649, 11	1540, 5-11	MEN	de dechrau erbyn fi orffen y lleuad	NSNT	NSNT
+649, 12	1540, 12-19	MEN	oedd y lleuad wedi symud i fan acw	NSNT	NSNT
+649, 14	1542, 1-5	MEN	ac oedd o wedi troi	NSNT	NSNT
+649, 16	1544, 1-8	MEN	oedd wedi troi wahanol angle yn yr awyr	NSNT	SNT
+649, 18	1547, 1-15	MEN	achos mae ddrwg i chi sbïo ar rywbeth efo *camera* yn hir i dynnu lun	NST	NST
+649, 19	1550, 1-9	MEN	*well* peth *oh* paid â byth gwneud hyn *Angharad*	---	NST
+
+
+650, 1	1551, 1-1	ANG	be	---	NSNT
+
+
+651, 1	1552, 1-9	MEN	*oh* mae o yn deud wrtha fi am beidio	NST	NST
+651, 2	1552, 10-10	MEN	dydy	NSNT	NSNT
+651, 3	1553, 1-4	MEN	mae nhw yn deud	NSNT	NSNT
+651, 4	1554, 1-3	MEN	paid â byth	---	NSNT
+
+
+652, 1	1555, 1-3	BRE	*oh* dyna fo	NST	NST
+652, 2	1556, 1-2	BRE	sbïwch *Will_Young*	---	NST
+
+
+653, 1	1557, 1-2	MEN	*oh* da	---	NST
+
+
+654, 1	1558, 1-2	BRE	da te	---	NSNT
+
+
+655, 1	1559, 1-1	MEN	da	---	NSNT
+
+
+656, 1	1561, 1-6	BRE	mae hwnna yn lun da iawn	NSNT	NSNT
+656, 2	1563, 1-5	BRE	chi dynnodd o *Angharad* hwnna	---	NST
+
+
+657, 1	1564, 1-6	ANG	*oh* naci yn Gaerdydd dynnwyd rywun	NST	NST
+657, 2	1564, 7-8	ANG	dynnodd o	---	NSNT
+
+
+658, 1	1565, 1-6	BRE	yn yn Gaerdydd tynnwyd hwnna *oh*	---	NST
+
+
+659, 1	1566, 1-8	ANG	dw meddwl na setio *camera* i dynnu o	NST	NST
+659, 2	1566, 9-10	ANG	oedden nhw	---	NSNT
+
+
+660, 1	1568, 1-5	MEN	pwy ydy yr hogan yna	NSNT	NSNT
+660, 2	1568, 6-6	MEN	ta	---	NSNT
+
+
+661, 1	1569, 1-4	ANG	ryw hogan arall ydy	NSNT	NSNT
+661, 2	1569, 5-5	ANG	honna	NSNT	NSNT
+661, 3	1570, 1-5	ANG	dw i ddim yn cofio	NSNT	NSNT
+661, 4	1570, 6-9	ANG	be ydy henw hi	NSNT	NSNT
+661, 5	1571, 1-7	ANG	a wedyn *oh* oedd hi wedi gwirioni	NST	NST
+661, 6	1572, 1-3	ANG	oedd hi yn	---	NSNT
+
+
+662, 1	1573, 1-7	MEN	sbïa ar *Lisa* wedi posio fel yna	---	NST
+
+
+663, 1	1574, 1-3	BRE	*well* ia del	---	NST
+
+
+664, 1	1575, 1-6	ANG	yrru o straightaway i mi de	---	SNT
+
+
+665, 1	1577, 1-3	BRE	*oh* goelia i	---	NST
+
+
+666, 1	1578, 1-3	ANG	a mae hwn	NSNT	NSNT
+666, 2	1579, 1-7	ANG	mae yna un arall ohoni fan yma	NSNT	NSNT
+666, 3	1579, 8-8	ANG	does	NSNT	NSNT
+666, 4	1580, 1-4	ANG	*um* lle mae o	NST	NST
+666, 5	1581, 1-7	ANG	a fan yna gaethon ni yr hwnna	NSNT	NSNT
+666, 6	1582, 1-14	ANG	*oh* *Karen* ac *Eleri* yn yn yn *south* of France yn admire_io yr blodau	NST	ST
+666, 7	1583, 1-6	ANG	*oh* doedd hi yn braf yna	---	NST
+
+
+667, 1	1585, 1-5	BRE	ydy hi yn braf yna	---	NSNT
+
+
+668, 1	1587, 1-10	ANG	dydy yr llall yna ddim felly gyn i yn y	---	NSNT
+
+
+669, 1	1588, 1-6	MEN	dan ni wedi printio hwnnw lawr	NSNT	NSNT
+669, 2	1589, 1-3	MEN	hwnnw ti feddwl	---	NSNT
+
+
+670, 1	1590, 1-7	ANG	ia hwnnw dw i yn drio chwilio	NSNT	NSNT
+670, 2	1591, 1-1	ANG	dyna	NSNT	NSNT
+670, 3	1591, 2-3	ANG	dw i	---	NSNT
+
+
+671, 1	1592, 1-5	MEN	fysai fo ddim yn hwn	NSNT	NSNT
+671, 2	1592, 6-8	MEN	na fysai *Angharad*	---	NST
+
+
+672, 1	1593, 1-3	ANG	be fysai fo	---	NSNT
+
+
+673, 1	1594, 1-12	MEN	*oh* mae gyn ti yn dy law fan hyn i fod rywle	NST	NST
+673, 3	1596, 1-3	MEN	hwnna ydy o	---	NSNT
+
+
+674, 1	1597, 1-7	ANG	na wnest ti yrru cardyn i mi	NSNT	NSNT
+674, 2	1598, 1-3	ANG	o'n i chwerthin	---	NSNT
+
+
+675, 1	1599, 1-10	MEN	*oh* efo yr *golf* pêl *golf* yna hole in one	---	ST
+
+
+676, 1	1601, 1-5	ANG	*well* na *lot* o bethau	NST	NST
+676, 2	1602, 1-8	ANG	mae yn gyrru ryw bethau da i mi	---	NSNT
+
+
+677, 1	1603, 1-7	MEN	wedi roi het ar ei phen hi	NSNT	NSNT
+677, 3	1606, 1-1	MEN	hwnnw	---	NSNT
+
+
+678, 1	1608, 1-4	ANG	ia dwn i ddim	NSNT	NSNT
+678, 2	1608, 5-7	ANG	lle mae o	---	NSNT
+
+
+679, 1	1609, 1-2	MEN	drwg ydy	NSNT	NSNT
+679, 2	1609, 3-4	MEN	baswn i	NSNT	NSNT
+679, 3	1610, 1-6	MEN	pan wnes i ddechrau efo computer	SNT	SNT
+679, 4	1611, 1-5	MEN	o'n i erioed wedi bod	NSNT	NSNT
+679, 5	1611, 6-8	MEN	â chomputer o_blaen	NSNT	SNT
+679, 6	1612, 1-6	MEN	a do'n i ddim nag o'n	NSNT	NSNT
+679, 7	1613, 1-5	MEN	ges i ddwy frozen shoulder	---	SNT
+
+
+680, 1	1614, 1-1	BRE	naddo	---	NSNT
+
+
+681, 1	1615, 1-6	MEN	es i drwy hell am flwyddyn	---	SNT
+
+
+682, 1	1617, 1-5	ANG	*oh* dyna fo *er* *um*	---	NST
+
+
+683, 1	1618, 1-3	MEN	dyna fo *Elgan*	NST	NST
+683, 2	1619, 1-3	MEN	ti nabod o	---	NSNT
+
+
+684, 1	1620, 1-1	BRE	*Elgan*	ST	NST
+684, 2	1622, 1-3	BRE	nac ydw i	---	NSNT
+
+
+685, 1	1623, 1-2	MEN	cariad *Karen*	---	NST
+
+
+686, 1	1625, 1-3	BRE	godi weld hyn	---	NSNT
+
+
+687, 1	1627, 1-4	ANG	ac yr wedi dynnu	NSNT	NSNT
+687, 2	1629, 1-3	ANG	gyn pwy *um*	---	NST
+
+
+688, 1	1630, 1-6	BRE	ew mae hwnna dipyn o oed	---	NSNT
+
+
+689, 1	1631, 1-1	MEN	chwech_deg	---	NSNT
+
+
+690, 1	1632, 1-6	BRE	na edrych yn hŷn na hynny	---	NSNT
+
+
+691, 1	1633, 1-2	MEN	wir wan	---	NSNT
+
+
+692, 1	1634, 1-4	ANG	mae yn edrych yn	NSNT	NSNT
+692, 2	1635, 1-9	ANG	*well* oedd o wedi brifo ei glun neu rywbeth	---	NST
+
+
+693, 1	1636, 1-2	MEN	ia chwech_deg	---	NSNT
+
+
+694, 1	1637, 1-9	BRE	os dw i yn edrych mor hen â hynna	NSNT	NSNT
+694, 2	1637, 10-11	BRE	does ryfedd	---	NSNT
+
+
+695, 1	1638, 1-5	MEN	mae gynno fo wyneb ifanc	NSNT	NSNT
+695, 2	1639, 1-5	MEN	ei wallt o sy wyn	NSNT	NSNT
+695, 3	1641, 1-2	MEN	dyna be	NSNT	NSNT
+695, 4	1642, 1-5	MEN	wedyn mae yn edrych yn	---	NSNT
+
+
+696, 1	1645, 1-1	BRE	dyna	NSNT	NSNT
+696, 2	1645, 2-3	BRE	ydy o	---	NSNT
+
+
+697, 1	1646, 1-5	MEN	mae gynno wyneb digon ifanc	NSNT	NSNT
+697, 2	1646, 6-6	MEN	does	NSNT	NSNT
+697, 3	1648, 1-3	MEN	chwech_deg ydy o	---	NSNT
+
+
+698, 1	1649, 1-2	BRE	ia wir	NSNT	NSNT
+698, 3	1652, 1-7	BRE	ydy o yn byw ar ei bres	---	NSNT
+
+
+699, 1	1653, 1-4	MEN	na mae wedi riteirio	---	NSNT
+
+
+700, 1	1655, 1-3	BRE	*well* ydy chwe_deg	---	NST
+
+
+701, 1	1656, 1-1	ANG	mae	---	NSNT
+
+
+702, 1	1658, 1-4	MEN	*police* ex_police ydy o	---	ST
+
+
+703, 1	1661, 1-6	BRE	mae nhw yn ymddeol yn gynnar	---	NSNT
+
+
+704, 1	1662, 1-6	MEN	mae nhw ymddeol yn gynnar dydyn	---	NSNT
+
+
+705, 1	1663, 1-1	BRE	ydyn	NSNT	NSNT
+705, 2	1663, 2-2	BRE	ydyn	NSNT	NSNT
+705, 3	1663, 3-3	BRE	ydyn	NSNT	NSNT
+705, 4	1663, 4-4	BRE	ydyn	---	NSNT
+
+
+706, 1	1664, 1-5	MEN	wedyn wnaeth o brynu *um*	NST	NST
+706, 2	1665, 1-8	MEN	*oh* na wnaeth o ymddeol yn gynnar gynnar	---	NST
+
+
+707, 1	1666, 2-6	BRE	mae nhw cael yn bedwar_deg_pump	---	NSNT
+
+
+708, 1	1667, 1-7	MEN	na mi aeth o redeg *shop* wedyn	NST	NST
+708, 2	1670, 1-4	MEN	oedd o ddim *er*	NST	NST
+708, 3	1670, 5-13	MEN	doedd o ddim yn keen iawn yn y *police*	---	ST
+
+
+709, 1	1671, 1-6	ANG	*oh* mae yn debyg na *Menna*	NST	NST
+709, 2	1671, 7-8	ANG	ydy hwnna	NSNT	NSNT
+709, 3	1672, 1-2	ANG	dyna fo	---	NSNT
+
+
+710, 1	1673, 1-4	MEN	*oh* hwnna ydy o	---	NST
+
+
+711, 1	1674, 1-4	ANG	yfi yn gweddïo yli	---	NSNT
+
+
+712, 1	1675, 1-3	MEN	*oh* dyna hi	NST	NST
+712, 2	1676, 1-7	MEN	mae hwn yn lun iawn o *Angharad*	---	NST
+
+
+713, 1	1677, 1-5	ANG	*oh* fe chwerthais i de	---	NST
+
+
+714, 1	1678, 1-8	MEN	a fel yna oedd hi yn yr airport	SNT	SNT
+714, 2	1678, 9-9	MEN	yli	NSNT	NSNT
+714, 4	1680, 1-3	MEN	*Angharad* gweddi fyr	ST	NST
+714, 5	1681, 1-1	MEN	mental	SNT	NSNT
+714, 6	1682, 1-4	MEN	*er* hwnna ydy hwnna	---	NST
+
+
+715, 1	1683, 1-7	ANG	ia o'n i yn eistedd yn yr	---	NSNT
+
+
+716, 1	1684, 1-5	BRE	dw i ddim yn gweld	NSNT	NSNT
+716, 2	1684, 6-6	BRE	wchi	NSNT	NSNT
+716, 3	1685, 1-2	BRE	gweddi fyr	NSNT	NSNT
+716, 4	1686, 1-4	BRE	dyro fo yn fwy	---	NSNT
+
+
+717, 1	1687, 1-5	MEN	ydy mynd yn fwy *Angharad*	---	NST
+
+
+718, 1	1688, 1-6	ANG	dw i ddim yn *sure* iawn	---	NST
+
+
+719, 1	1689, 1-2	BRE	full *screen*	ST	NST
+719, 2	1690, 1-2	BRE	ym *Mentor*	---	NST
+
+
+720, 1	1691, 1-1	ANG	*Menton*	---	NST
+
+
+721, 1	1692, 1-5	MEN	*Menton* ydy enw yr lle	---	NST
+
+
+722, 1	1693, 1-1	BRE	*Menton*	---	NST
+
+
+723, 1	1694, 1-2	MEN	yn *Menton*	NST	NST
+723, 2	1695, 1-3	MEN	cyrraedd yn saff	NSNT	NSNT
+723, 3	1696, 1-3	MEN	ar y *balcony*	NST	NST
+723, 4	1697, 1-10	MEN	dyma fo y view oedden ni gael drwy yr ffenestr	---	SNT
+
+
+724, 1	1698, 1-3	ANG	oedd o yn	NSNT	NSNT
+724, 2	1698, 4-5	ANG	werth chweil	---	NSNT
+
+
+725, 1	1699, 1-4	MEN	dyna ni ein tri	---	NSNT
+
+
+726, 1	1700, 1-3	ANG	*oh* hwn *oh*	---	NST
+
+
+727, 1	1701, 1-6	MEN	hwn *Angharad* wedi gwirioni efo hwnna	---	NST
+
+
+728, 1	1702, 1-6	ANG	o'n i wedi gwirioni efo fo	---	NSNT
+
+
+729, 1	1705, 1-1	BRE	*Edouard*	---	NST
+
+
+730, 1	1706, 1-2	MEN	*Edouard* *yeah*	---	NST
+
+
+731, 1	1707, 1-4	ANG	oedd o yn lovely	---	SNT
+
+
+732, 1	1708, 1-10	MEN	dyma ni yn y *station* *er* yn mynd i rywle	NST	NST
+732, 2	1709, 1-7	MEN	*oh* i i lle oedden ni mynd	NST	NST
+732, 3	1710, 1-2	MEN	i *Monte_Carlo*	---	NST
+
+
+733, 1	1711, 1-2	ANG	ie *San_Remo*	---	NST
+
+
+734, 1	1712, 1-6	BRE	wneith hwnna ddim mynd yn fwy	NSNT	NSNT
+734, 2	1713, 1-3	BRE	eith o fwy	---	NSNT
+
+
+735, 1	1714, 1-2	MEN	nag eith	---	NSNT
+
+
+736, 1	1715, 1-5	ANG	a hwn ydy yr cardyn	NSNT	NSNT
+736, 2	1715, 6-6	ANG	te	---	NSNT
+
+
+737, 1	1716, 1-4	BRE	*oh* hwnna ydy yr	---	NST
+
+
+738, 1	1717, 1-4	MEN	*oh* cardyn ydy o	---	NST
+
+
+739, 1	1718, 1-3	ANG	ia a wedyn	---	NSNT
+
+
+740, 1	1720, 1-4	MEN	a lle mae hwnna	NSNT	NSNT
+740, 2	1721, 1-5	MEN	dw i wedi brintio fo	NSNT	NSNT
+740, 3	1722, 1-6	MEN	*oh* ti ddim wedi brintio fo	---	NST
+
+
+741, 1	1723, 1-4	ANG	*oh* na wnes i	NST	NST
+741, 2	1723, 5-8	ANG	wnes i printio fo	NSNT	NSNT
+741, 3	1724, 1-3	ANG	rhedeg neu rywbeth	---	NSNT
+
+
+742, 1	1725, 1-3	MEN	*oh* oedd hwnnw	NST	NST
+742, 2	1726, 1-5	MEN	wedyn wnes i yrru hwnna	---	NSNT
+
+
+743, 1	1728, 1-1	BRE	*Edouard*	---	NST
+
+
+744, 1	1729, 1-4	MEN	rhaid chdi brintio fo	---	NSNT
+
+
+745, 1	1730, 1-2	ANG	allan bydd	NSNT	NSNT
+745, 2	1731, 1-1	ANG	cadair	---	NSNT
+
+
+746, 1	1732, 1-3	BRE	nag oes diolch	NSNT	NSNT
+746, 2	1733, 1-2	BRE	nag oes	---	NSNT
+
+
+747, 1	1734, 1-7	ANG	fedra i ddim gael o yn fwy	NSNT	NSNT
+747, 2	1734, 8-9	ANG	na fedra	NSNT	NSNT
+747, 3	1735, 1-2	ANG	medra i	---	NSNT
+
+
+748, 1	1737, 1-1	MEN	medri	NSNT	NSNT
+748, 2	1737, 2-2	MEN	sti	NSNT	NSNT
+748, 4	1739, 1-3	MEN	dw ddim yn	NSNT	NSNT
+748, 5	1740, 1-12	MEN	mae yna groes fach i fod yn *top* fel yna fel arfer	NST	NST
+748, 6	1740, 13-13	MEN	does	NSNT	NSNT
+748, 7	1741, 1-6	MEN	dyro fo on eto hwnna wan	---	SNT
+
+
+749, 1	1742, 1-6	ANG	*yeah* *oh* *yeah* hwnna oedd o	NST	NST
+749, 2	1742, 7-7	ANG	te	---	NSNT
+
+
+750, 1	1743, 1-4	MEN	*yeah* dyro fo on	---	ST
+
+
+751, 1	1744, 1-5	ANG	petaswn i mynd fel yna	NSNT	NSNT
+751, 2	1744, 6-8	ANG	de a *copy*	---	NST
+
+
+752, 1	1745, 1-4	BRE	a roid o yn	---	NSNT
+
+
+753, 1	1746, 1-4	ANG	*copy* i rywbeth arall	---	NST
+
+
+754, 1	1747, 1-5	BRE	i *Word* neu rywbeth felly	---	NST
+
+
+755, 1	1748, 1-6	ANG	a wedyn mynd i be wan	NSNT	NSNT
+755, 2	1749, 1-2	ANG	i *My_Documents*	---	NST
+
+
+756, 1	1750, 1-7	MEN	lle mae dy luniau di fel arfer	NSNT	NSNT
+756, 2	1751, 1-2	MEN	yn *My_Documents*	NST	NST
+756, 3	1752, 1-5	MEN	dy luniau di ydy rheina	NSNT	NSNT
+756, 5	1754, 1-9	MEN	*oh* *yeah* fedri di wneud o fwy fan yno	---	NST
+
+
+757, 1	1755, 1-2	ANG	*wrong* wan	NST	NST
+757, 2	1756, 1-7	ANG	*copy* i i *My_Computer* i *My* i	NST	NST
+757, 3	1757, 1-5	ANG	ew dw ddim yn gwybod	---	NSNT
+
+
+758, 1	1758, 1-7	BRE	gewch chi drio ffidlian efo hwnna heno	---	NSNT
+
+
+759, 1	1759, 1-2	ANG	ia caf	NSNT	NSNT
+759, 3	1761, 1-6	ANG	ond dach chi yn gwybod wan	---	NSNT
+
+
+760, 1	1764, 1-6	BRE	be fyswn i licio wneud acw	NSNT	NSNT
+760, 2	1764, 7-13	BRE	a dw i wedi methu wneud o	NSNT	NSNT
+760, 3	1764, 14-16	BRE	ydy sganio llun	NSNT	NSNT
+760, 4	1767, 1-5	BRE	a be dw i wneud	NSNT	NSNT
+760, 5	1767, 7-12	BRE	mae o mynd yn rhy fawr	NSNT	NSNT
+760, 6	1768, 1-6	BRE	mae yn cymryd gormod o le	NSNT	NSNT
+760, 7	1768, 7-12	BRE	pan dw i yn anfon o	NSNT	NSNT
+760, 8	1769, 1-4	BRE	dach chi yn dallt	NSNT	NSNT
+760, 9	1769, 5-8	BRE	be dw i feddwl	NSNT	NSNT
+760, 11	1771, 1-6	BRE	wnes i anfon rywbeth i chi	---	NSNT
+
+
+761, 1	1772, 1-3	ANG	mae posib *um*	---	NST
+
+
+762, 1	1773, 1-4	BRE	dach chi yn cofio	---	NSNT
+
+
+763, 1	1774, 1-9	MEN	rhaid i chdi fynd â fo i rywle de	NSNT	NSNT
+763, 2	1774, 10-22	MEN	be ddeudodd y dyn dŵad a mynd â fo i i i *um*	---	NST
+
+
+764, 1	1775, 1-2	ANG	*oh* dyma	---	NST
+
+
+765, 1	1776, 1-4	MEN	be ydy enw yr	NSNT	NSNT
+765, 2	1776, 5-13	MEN	lle dan ni mynd wneud y resolution yn llai	---	SNT
+
+
+766, 1	1779, 1-2	ANG	*er* *Bitmaps*	---	NST
+
+
+767, 1	1780, 1-1	MEN	naci	---	NSNT
+
+
+768, 1	1781, 1-5	ANG	dw i wedi ffeindio hynny	NSNT	NSNT
+768, 2	1783, 1-2	ANG	hwn wan	NSNT	NSNT
+768, 4	1785, 1-5	ANG	mi sgania i hwn wan	---	NSNT
+
+
+769, 1	1788, 1-16	BRE	dach chi yn cofio fi yn gyrru *Euridice* i chi a eich enw chi arno fo	NST	NST
+769, 2	1790, 1-11	BRE	*oh* wnes i lanastr ar eich cyfrifiadur chi drwy yrru hwnnw	NST	NST
+769, 3	1791, 1-7	BRE	achos oedd o rhy fawr neu rywbeth	---	NSNT
+
+
+770, 1	1792, 1-8	MEN	y *file* rhy fawr ar yr e_mail ia	---	ST
+
+
+771, 1	1793, 1-7	BRE	ia er mai un bach oedd o	NSNT	NSNT
+771, 2	1794, 1-6	BRE	doedd o fawr mwy na hwnna	NSNT	NSNT
+771, 3	1796, 1-6	BRE	ond pan wnes i sganio fo	NSNT	NSNT
+771, 4	1796, 7-8	BRE	mae *sure*	NST	NST
+771, 5	1796, 9-12	BRE	bod o wedi cymryd	---	NSNT
+
+
+772, 1	1797, 1-5	MEN	wedyn mae o yn huge	SNT	SNT
+772, 2	1797, 6-6	MEN	dydy	---	NSNT
+
+
+773, 1	1799, 1-9	BRE	a wedyn mae o yn cymryd gormod o le	---	NSNT
+
+
+774, 1	1801, 1-6	MEN	*oh* be ydy enw fo *Angharad*	---	NST
+
+
+775, 1	1802, 1-7	BRE	a wedyn mae o mynd yn sownd	---	NSNT
+
+
+776, 1	1803, 1-1	MEN	*Recycle*	ST	NST
+776, 2	1804, 1-4	MEN	be ydy enw o	NSNT	NSNT
+776, 3	1804, 5-13	MEN	lle dan ni mynd i wneud pethau yn llai	---	NSNT
+
+
+777, 1	1805, 1-1	ANG	*Minimize*	---	NST
+
+
+778, 1	1806, 1-2	MEN	naci dim	NSNT	NSNT
+778, 2	1807, 1-2	MEN	yn *top*	NST	NST
+778, 3	1808, 1-3	MEN	dim *Recycle* naci	---	NST
+
+
+779, 1	1809, 1-2	ANG	*Resize* *To_Fit*	---	NST
+
+
+780, 1	1810, 1-1	MEN	ew	---	NSNT
+
+
+781, 1	1811, 1-3	ANG	hundred per cent	---	NSNT
+
+
+782, 1	1812, 1-1	MEN	naci	NSNT	NSNT
+782, 2	1813, 1-5	MEN	mae o yn y *top*	---	NST
+
+
+783, 1	1814, 1-5	BRE	hefo yr hefo yr *um*	---	NST
+
+
+784, 1	1815, 1-7	ANG	efo *Corel_Draw* wyt ti sôn amdan rŵan	---	NST
+
+
+785, 1	1816, 1-11	MEN	*oh* *yeah* fedrwch chi fynd i yr *printer* cyn ei brintio	NST	NST
+785, 2	1817, 1-2	MEN	efo e_mail	SNT	SNT
+785, 3	1818, 1-5	MEN	ar ochr yn e_mail i	NSNT	NSNT
+785, 4	1819, 1-4	MEN	*Outlook_Express* sy gyn i	NST	NST
+785, 5	1821, 1-4	MEN	mae o yn deud	SNT	NSNT
+785, 6	1822, 1-7	MEN	do you want your *file* *er* smaller	---	NST
+
+
+786, 1	1823, 1-6	BRE	*oh* na dydy o ddim yn	ST	NST
+786, 2	1824, 1-2	BRE	*oh* *well*	---	NST
+
+
+787, 1	1825, 1-4	MEN	mae gyn i hwnnw	NSNT	NSNT
+787, 2	1826, 1-7	MEN	*so* dw i rhoi *tick* ar hwnnw	NST	NST
+787, 3	1827, 1-10	MEN	a mae o wneud y *file* yn smaller yn *automatic*	---	ST
+
+
+788, 1	1829, 1-2	ANG	dw i	NSNT	NSNT
+788, 2	1829, 3-7	ANG	rhoid *scan* ar hwn rŵan	NST	NST
+788, 3	1831, 1-3	ANG	dim a wedyn	NSNT	NSNT
+788, 4	1832, 1-3	ANG	pam bod hwn	NSNT	NSNT
+788, 5	1833, 1-8	ANG	*oh* fedr o ddim dechrau heb i mi	NST	NST
+788, 6	1833, 9-11	ANG	roid o on	---	SNT
+
+
+789, 1	1835, 1-5	BRE	dw i medru wneud o	NSNT	NSNT
+789, 2	1836, 1-1	BRE	does	NSNT	NSNT
+789, 3	1836, 2-5	BRE	does yna ddim *problem*	NST	NST
+789, 4	1837, 1-2	BRE	deudwch wan	NSNT	NSNT
+789, 5	1837, 3-6	BRE	bod i yn gwneud	NSNT	NSNT
+789, 6	1837, 7-22	BRE	bod i isio gwneud *copy* o bethau i mi fy hun i ddod allan ar a_four	ST	ST
+789, 7	1841, 1-4	BRE	mae hynny dim *problem*	NST	NST
+789, 8	1843, 1-9	BRE	ond pan dw i isio anfon llun efo e_bost	---	NSNT
+
+
+790, 1	1845, 1-8	MEN	ia dach chi isio wneud o *lot* llai	NST	NST
+790, 2	1845, 9-9	MEN	does	---	NSNT
+
+
+791, 1	1846, 1-6	BRE	*oh* *yeah* hynny ydy yr *broblem*	---	NST
+
+
+792, 1	1847, 1-5	ANG	ddangosa i wan efo hwn	---	NSNT
+
+
+793, 1	1848, 1-4	MEN	wneith *Angharad* ddangos wan	---	NST
+
+
+794, 1	1849, 1-2	ANG	efo hwn	NSNT	NSNT
+794, 2	1850, 1-4	ANG	roid o ar e_bost	NSNT	NSNT
+794, 3	1851, 1-4	ANG	yrra i o e_bost	---	NSNT
+
+
+795, 1	1852, 1-2	BRE	i mi	---	NSNT
+
+
+796, 1	1854, 1-7	ANG	*right* mae hwn yn sganio i fod	NST	NST
+796, 2	1855, 1-5	ANG	raid mi fynd yn_ôl i	NSNT	NSNT
+796, 3	1856, 1-5	ANG	na mae yn dechrau sganio	---	NSNT
+
+
+797, 1	1857, 1-12	BRE	mae gyn i bethau dod i_fyny ar y *screen* wedyn yn deud	NST	NST
+797, 2	1857, 13-19	BRE	be mae o wneud a pethau felly	---	NSNT
+
+
+798, 1	1858, 1-3	MEN	preview a ballu	---	SNT
+
+
+799, 1	1859, 1-8	BRE	*well* nage pan dach chi wneud y sganio	NST	NST
+799, 2	1859, 9-13	BRE	mae o yn dod i_fyny	NSNT	NSNT
+799, 3	1860, 1-2	BRE	dach chi	NSNT	NSNT
+799, 5	1863, 1-3	BRE	ia dyna chi	---	NSNT
+
+
+800, 1	1864, 1-2	MEN	rŵan ta	NSNT	NSNT
+800, 2	1865, 1-2	MEN	dyna fo	NSNT	NSNT
+800, 3	1866, 1-2	MEN	dyna fo	---	NSNT
+
+
+801, 1	1867, 1-7	BRE	mae gyn i beth fel yna wan	---	NSNT
+
+
+802, 1	1870, 1-4	ANG	wedyn mi dechreuith o	---	NSNT
+
+
+803, 1	1872, 1-2	MEN	dyna fo	---	NSNT
+
+
+804, 1	1873, 1-12	BRE	a dach chi ddim i fod i godi yr caead o_gwbl nes	NSNT	NSNT
+804, 2	1873, 13-16	BRE	bydd o wedi gorffen	---	NSNT
+
+
+805, 1	1876, 1-5	MEN	da ydyn nhw sganio yma	---	NSNT
+
+
+806, 1	1877, 1-2	BRE	mae nhw	NSNT	NSNT
+806, 2	1878, 1-3	BRE	ond basai dda	NSNT	NSNT
+806, 3	1879, 1-3	BRE	mae yna bethau	NSNT	NSNT
+806, 4	1879, 4-12	BRE	baswn i yn licio anfon efo e_bost i *Sally*	NST	NST
+806, 5	1881, 1-2	BRE	dw i	NSNT	NSNT
+806, 6	1881, 3-14	BRE	dw i gyn i ofn gwneud rhag ofn mi wneud lanastr eto	---	NSNT
+
+
+807, 1	1882, 1-4	ANG	ddod allan wan te	NSNT	NSNT
+807, 2	1883, 1-1	ANG	hynna	NSNT	NSNT
+807, 3	1884, 1-5	ANG	*sorry* dw i yn eistedd	NST	NST
+807, 4	1885, 1-3	ANG	mae yna gadair	---	NSNT
+
+
+808, 1	1886, 1-2	BRE	nag oes	NSNT	NSNT
+808, 2	1886, 3-3	BRE	peidiwch	---	NSNT
+
+
+809, 1	1887, 1-10	ANG	*right* *um* wedyn yr unig beth dw isio wneud rŵan	NST	NST
+809, 2	1887, 12-14	ANG	pan ddaw hwnna	NSNT	NSNT
+809, 3	1888, 1-9	ANG	mae o wedi mynd i *My_Documents* yn fan yna	NST	NST
+809, 4	1888, 10-10	ANG	tydy	NSNT	NSNT
+809, 5	1889, 1-7	ANG	wedyn mae o wedi mynd i gwaelod	NSNT	NSNT
+809, 6	1889, 8-9	ANG	mae *sure*	---	NST
+
+
+810, 1	1890, 1-11	BRE	*oh* dydy o ddim yn gwneud peth fel yna hefo fi	---	NST
+
+
+811, 1	1892, 1-5	MEN	mae mynd i rywle *Brenda*	---	NST
+
+
+812, 1	1893, 1-7	BRE	na pan dach chi yn anfon o	---	NSNT
+
+
+813, 1	1894, 1-9	MEN	*oh* na dach chi isio fo fel yna gynta	NST	NST
+813, 2	1894, 10-11	MEN	does cyn	---	NSNT
+
+
+814, 1	1895, 1-4	BRE	*oh* *oh* wela i	---	NST
+
+
+815, 1	1896, 1-11	ANG	mae o wedi mynd o yr scanner i hwnna i *My_Documents*	NST	ST
+815, 2	1898, 1-8	ANG	agora i hwnna i edrych na fan yna	NSNT	NSNT
+815, 3	1898, 9-10	ANG	mae o	NSNT	NSNT
+815, 4	1899, 1-5	ANG	ia fan yna mae o	---	NSNT
+
+
+816, 1	1900, 1-4	BRE	ond dach chi yn	NSNT	NSNT
+816, 2	1900, 5-6	BRE	dach chi	---	NSNT
+
+
+817, 1	1901, 1-2	MEN	dyna fo	---	NSNT
+
+
+818, 1	1902, 1-4	ANG	*right* hwnna yn done	ST	ST
+818, 2	1903, 1-8	ANG	dw i yn gwybod na yn yn hwnna	NSNT	NSNT
+818, 3	1903, 9-18	ANG	mae o yn_dydw yn y gwaelod un yna fan yna	SNT	NSNT
+818, 4	1904, 1-1	ANG	*oops*	---	NST
+
+
+819, 1	1905, 1-18	BRE	dw i yn cofio *Hedd* yn dod acw pan i yn trio gwneud *brochure* fy hun ryw dro	---	NST
+
+
+820, 1	1906, 1-3	ANG	dw i gwybod	---	NSNT
+
+
+821, 1	1907, 1-6	BRE	wnaeth *Hedd* o'n i yn gwneud	---	NST
+
+
+822, 1	1908, 1-2	MEN	yli wan	---	NSNT
+
+
+823, 1	1909, 1-6	ANG	dw i yn fan yna wan	NSNT	NSNT
+823, 2	1910, 1-5	ANG	be dw i wneud wan	NSNT	NSNT
+823, 3	1910, 6-13	ANG	ydy *right* hand *click* arno fo fel yna	NST	ST
+823, 4	1912, 1-5	ANG	wedyn dw i rhoi *copy*	NST	NST
+823, 5	1914, 1-7	ANG	dw i left hand *click* ar hwnna	NST	ST
+823, 6	1915, 1-6	ANG	wedyn dw i mynd i start	SNT	SNT
+823, 7	1916, 1-5	ANG	a dw i mynd i	NSNT	NSNT
+823, 8	1917, 1-3	ANG	dria i hwnna	NSNT	NSNT
+823, 9	1918, 1-6	ANG	*oh* naci isio e_mail_io dach chi	NST	ST
+823, 10	1920, 1-7	ANG	*oh* *right* wna i fynd i hwn	NST	NST
+823, 11	1920, 8-11	ANG	ta i e_mail_io fo	NSNT	SNT
+823, 12	1920, 12-13	ANG	ta *right*	NST	NST
+823, 13	1921, 1-1	ANG	hwnna	NSNT	NSNT
+823, 14	1922, 1-3	ANG	dw i wedi	NSNT	NSNT
+823, 15	1922, 4-7	ANG	roid *right* hand *click*	---	ST
+
+
+824, 1	1923, 1-6	BRE	mae yn tywyllu fuan *boys* bach	---	NST
+
+
+825, 1	1924, 1-2	MEN	ofnadwy hefyd	---	NSNT
+
+
+826, 1	1925, 1-2	ANG	*oh* peidiwch	ST	NST
+826, 2	1926, 1-4	ANG	sign_on yn fan yna	---	SNT
+
+
+827, 1	1928, 1-5	MEN	wneud *copy* hwnna mae wan	ST	NST
+827, 2	1929, 1-1	MEN	*copy*	---	NST
+
+
+828, 1	1930, 1-11	ANG	a wedyn dw i wedi mynd i yr e_mail *thing* wan	NST	ST
+828, 2	1930, 12-12	ANG	dydw	---	NSNT
+
+
+829, 1	1932, 1-8	BRE	dach chi yn codi iselder mawr arna i	NSNT	NSNT
+829, 2	1932, 9-13	BRE	te efo yr pethau yma	---	NSNT
+
+
+830, 1	1934, 1-1	MEN	pam	---	NSNT
+
+
+831, 1	1935, 1-7	BRE	does gyn i ddim mynedd efo fo	NSNT	NSNT
+831, 2	1935, 8-8	BRE	wchi	---	NSNT
+
+
+832, 1	1936, 1-2	ANG	rŵan ta	NSNT	NSNT
+832, 2	1936, 3-5	ANG	sbïwch chi wan	NSNT	NSNT
+832, 3	1937, 1-2	ANG	cerwch i	NSNT	NSNT
+832, 4	1937, 3-3	ANG	te	NSNT	NSNT
+832, 5	1938, 1-3	ANG	a *Brenda* ia	NST	NST
+832, 6	1939, 1-6	ANG	*oh* Duw send to G te	---	ST
+
+
+833, 1	1941, 1-3	BRE	dyna fo i_fyny	---	NSNT
+
+
+834, 1	1942, 1-4	ANG	*oh* hwnna ydy o	NST	NST
+834, 2	1943, 1-5	ANG	dim yr un cynta yna	NSNT	NSNT
+834, 3	1944, 1-3	ANG	achos ydy llall	NSNT	NSNT
+834, 4	1944, 4-4	ANG	te	NSNT	NSNT
+834, 5	1946, 1-6	ANG	a wedyn a i fan yna	NSNT	NSNT
+834, 6	1947, 1-2	ANG	wna i	NSNT	NSNT
+834, 7	1947, 3-4	ANG	roid llun	NSNT	NSNT
+834, 8	1949, 1-4	ANG	a wedyn fan yna	NSNT	NSNT
+834, 9	1951, 1-7	ANG	a wedyn wna i *just* a paste	ST	ST
+834, 10	1951, 8-8	ANG	te	NSNT	NSNT
+834, 11	1952, 1-2	ANG	dyna fo	NSNT	NSNT
+834, 12	1954, 1-2	ANG	a send	SNT	SNT
+834, 14	1956, 1-4	ANG	a wedyn mae o	NSNT	NSNT
+834, 15	1957, 1-7	ANG	*oh* dydw i ddim wedi reduce_io fo	NST	ST
+834, 16	1957, 8-8	ANG	naddo	NSNT	NSNT
+834, 17	1958, 1-3	ANG	dyna un peth	SNT	NSNT
+834, 18	1959, 1-1	ANG	*hello*	ST	NST
+834, 19	1960, 1-5	ANG	*oh* *hello* sut dach chi	NST	NST
+834, 20	1961, 1-2	ANG	iawn diolch	NSNT	NSNT
+834, 21	1962, 1-2	ANG	a chi	---	NSNT
+
+
+835, 1	1963, 1-2	MEN	dyna ni	NSNT	NSNT
+835, 2	1964, 1-3	MEN	be gest ti	NSNT	NSNT
+835, 3	1965, 1-4	MEN	gei di e_mail cathedral	SNT	SNT
+835, 4	1967, 1-3	MEN	wnaeth hi ddim	SNT	NSNT
+835, 5	1968, 1-8	MEN	resize resize dw i feddwl y gair resize	---	SNT
+
+
+836, 1	1969, 1-3	BRE	resize *oh* *yeah*	---	NST
+
+
+837, 1	1970, 1-6	MEN	a lle mae hwnnw yn hwn	NSNT	NSNT
+837, 2	1972, 1-2	MEN	dw achos	NSNT	NSNT
+837, 3	1972, 3-3	MEN	â	NSNT	NSNT
+837, 4	1972, 4-6	MEN	bod yn *honest*	NST	NST
+837, 5	1972, 7-12	MEN	mae gyn i e_mail rhy *handy*	NST	ST
+837, 6	1972, 13-13	MEN	does	NSNT	NSNT
+837, 7	1973, 1-8	MEN	mae gyn i deud e_mail ochr fan yna	NSNT	SNT
+837, 8	1975, 1-5	MEN	dw i clicio yn hwnna	NSNT	NSNT
+837, 9	1977, 1-7	MEN	a mae yna beth bach yn deud	SNT	NSNT
+837, 10	1979, 1-7	MEN	do you want to *make* it smaller	NST	NST
+837, 12	1982, 1-4	MEN	yes mae hwnna yn	NSNT	SNT
+837, 13	1982, 5-8	MEN	mae o yn hawdd	NSNT	NSNT
+837, 14	1982, 9-11	MEN	dydy i mi	NSNT	NSNT
+837, 16	1984, 1-7	MEN	ti *sure* does gyn ti ddim hwnnw	---	NST
+
+
+838, 1	1985, 1-4	BRE	*oh* dw ddim gwybod	NST	NST
+838, 2	1986, 1-4	BRE	ella bod gyn i	NSNT	NSNT
+838, 3	1987, 1-12	BRE	ond am na does gyn i ddim diddordeb yn y peiriant mond	NSNT	NSNT
+838, 4	1988, 1-2	BRE	a wedyn	NSNT	NSNT
+838, 5	1989, 1-1	BRE	mae	NSNT	NSNT
+838, 6	1989, 2-9	BRE	dw i yn annheg ofnadwy efo yr peiriant	NSNT	NSNT
+838, 8	1991, 1-4	BRE	oherwydd dw i rhoi	NSNT	NSNT
+838, 9	1991, 5-8	BRE	bai ar y peiriant	NSNT	NSNT
+838, 10	1992, 1-7	BRE	a dw i yn ei felltithio fo	---	NSNT
+
+
+839, 1	1994, 1-4	MEN	*yeah* mynedd sy isio	NST	NST
+839, 2	1996, 1-5	MEN	*Angharad* pan ti llun wan	NST	NST
+839, 3	1998, 1-2	MEN	mae gyn	NSNT	NSNT
+839, 4	1999, 1-3	MEN	ar bob llun	SNT	NSNT
+839, 5	2000, 1-7	MEN	do you want to send this e_mail	SNT	NSNT
+839, 6	2002, 1-1	MEN	yn_does	NSNT	NSNT
+839, 7	2004, 1-15	MEN	dos i lluniau chdi wan i *album* chdi wan i ni gael dangos i *Brenda*	NST	NST
+839, 9	2006, 1-5	MEN	mae o *sure* o fod	NST	NST
+839, 10	2007, 1-4	MEN	dos i ryw *album*	NST	NST
+839, 11	2007, 5-11	MEN	sy gyn ti wan *album* o luniau	---	NST
+
+
+840, 1	2008, 1-10	ANG	*er* dw isio mynd allan o *A_O_L* o *A_O_L* *A_O_L*	---	NST
+
+
+841, 1	2010, 1-5	MEN	fynd allan o hwnna wan	---	NSNT
+
+
+842, 1	2011, 1-2	ANG	*o_k* sign_off	---	NST
+
+
+843, 1	2012, 1-1	MEN	sign_off	SNT	NSNT
+843, 2	2013, 1-6	MEN	*o_k* dos i ryw rywle wan	NST	NST
+843, 3	2013, 7-12	MEN	mae gyn ti *album* o luniau	---	NST
+
+
+844, 1	2014, 1-2	ANG	rhein ia	---	NSNT
+
+
+845, 1	2015, 1-4	MEN	*yeah* *pictures* *pictures* dydy	---	NST
+
+
+846, 1	2016, 1-4	ANG	mae hwnna ar *My_Documents*	ST	NST
+846, 2	2017, 1-2	ANG	*pictures* *right*	---	NST
+
+
+847, 1	2018, 1-3	MEN	mae gyn ti	NSNT	NSNT
+847, 2	2018, 4-4	MEN	mae	NSNT	NSNT
+847, 3	2018, 5-9	MEN	mae yna rei fan yma	NSNT	NSNT
+847, 4	2018, 10-10	MEN	does	NSNT	NSNT
+847, 5	2020, 1-3	MEN	*oh* sbïa wan	---	NST
+
+
+848, 1	2021, 1-3	ANG	be ydy hwnna	---	NSNT
+
+
+849, 1	2024, 1-1	MEN	yli	NSNT	NSNT
+849, 2	2024, 2-3	MEN	sbïa *Brenda*	NST	NST
+849, 3	2025, 1-4	MEN	mae gyn pawb hwn	SNT	NSNT
+849, 4	2026, 1-3	MEN	e_mail this *file*	---	NST
+
+
+850, 1	2028, 1-2	ANG	*oh* hwnna	---	NST
+
+
+851, 1	2029, 1-5	MEN	*oh* dos i hwnna wan	---	NST
+
+
+852, 1	2030, 1-8	ANG	dw i wedi e_mail_io hwnna i *Lisa* anyway	ST	ST
+852, 2	2032, 1-5	ANG	dw i wedi trio iddi	---	NSNT
+
+
+853, 1	2034, 1-8	MEN	dos di nôl wan *Angharad* am funud bach	NST	NST
+853, 2	2036, 1-4	MEN	mae o mor hawdd	NSNT	NSNT
+853, 3	2036, 5-6	MEN	de *Brenda*	---	NST
+
+
+854, 1	2037, 1-6	ANG	*right* dangos di wan ta *Menna*	---	NST
+
+
+855, 1	2039, 1-7	MEN	*oh* lle mae hwnna wedi mynd wan	NST	NST
+855, 3	2041, 1-5	MEN	dydy hwnna ddim yno fo	---	NSNT
+
+
+856, 1	2042, 1-2	BRE	nac ydy	NSNT	NSNT
+856, 2	2042, 3-7	BRE	dydy o ddim gyn i	NSNT	NSNT
+856, 3	2043, 1-6	BRE	un fel yna sy gyn i	---	NSNT
+
+
+857, 1	2044, 1-2	MEN	dos yn_ôl	---	NSNT
+
+
+858, 1	2045, 1-8	ANG	mae raid chi glicio ar hwnna i gychwyn	NSNT	NSNT
+858, 2	2045, 9-12	ANG	bydd ar beth bynnag	---	NSNT
+
+
+859, 1	2046, 1-11	MEN	dos i dy *bictures* wan lle bynnag dy bethau di wan	---	NST
+
+
+860, 1	2047, 1-2	ANG	*pictures* *right*	ST	NST
+860, 2	2048, 1-4	ANG	sbian ni ar hwnna	---	NSNT
+
+
+861, 1	2049, 1-2	MEN	dyna fo	NSNT	NSNT
+861, 2	2050, 1-6	MEN	naci dw ddim isio fo on	---	SNT
+
+
+862, 1	2051, 1-2	ANG	nag oes	---	NSNT
+
+
+863, 1	2053, 1-2	MEN	nag oes	---	NSNT
+
+
+864, 1	2054, 1-5	ANG	be isio wneud wan ta	---	NSNT
+
+
+865, 1	2055, 1-4	BRE	dyna chdi mond rheina	NSNT	NSNT
+865, 2	2055, 5-9	BRE	sy dod i_fyny i mi	---	NSNT
+
+
+866, 1	2056, 1-2	MEN	ti isio	---	NSNT
+
+
+867, 1	2058, 1-6	BRE	does yna ddim sôn am luniau	---	NSNT
+
+
+868, 1	2059, 1-6	MEN	lle lle mae dy *My_Picures* di	NST	NST
+868, 2	2059, 7-7	MEN	dywed	---	NSNT
+
+
+869, 1	2061, 1-5	ANG	*oh* *My_Pictures* yn fan yna	---	NST
+
+
+870, 1	2062, 1-6	MEN	*er* oes gyn ti luniau yma	---	NST
+
+
+871, 1	2063, 1-2	ANG	mae *sure*	NST	NST
+871, 2	2063, 3-3	ANG	bod	NSNT	NSNT
+871, 3	2064, 1-5	ANG	dw i ddim yn gwybod	---	NSNT
+
+
+872, 1	2066, 1-4	BRE	dyna fo fyny wan	---	NSNT
+
+
+873, 1	2067, 1-3	ANG	*oh* dyna fo	NST	NST
+873, 3	2070, 1-4	ANG	*ooh* dyna un da	---	NST
+
+
+874, 1	2071, 1-2	MEN	dyna fo	NSNT	NSNT
+874, 2	2072, 1-4	MEN	weli di hwn wan	---	NSNT
+
+
+875, 1	2073, 1-5	ANG	*Menna* yn fan yna wan	---	NST
+
+
+876, 1	2077, 1-4	MEN	lle lle yn *top*	---	NST
+
+
+877, 1	2078, 1-3	BRE	yn *top* *yeah*	---	NST
+
+
+878, 1	2079, 1-2	MEN	lle mae	NSNT	NSNT
+878, 2	2079, 3-6	MEN	lle mae yn deud	SNT	NSNT
+878, 3	2080, 1-3	MEN	e_mail this *picture*	---	NST
+
+
+879, 1	2081, 1-13	BRE	*oh* o'n i meddwl bod o yn y *top* yn fan yna wan	---	NST
+
+
+880, 1	2082, 1-6	MEN	mae o yn deud arnyn nhw	---	NSNT
+
+
+881, 1	2083, 1-1	ANG	*print*	---	NST
+
+
+882, 1	2084, 1-3	MEN	na ddim *print*	NST	NST
+882, 2	2085, 1-1	MEN	rhyfedd	---	NSNT
+
+
+883, 1	2086, 1-2	BRE	nac ydy	---	NSNT
+
+
+884, 1	2087, 1-2	ANG	*oh* dibynnu	ST	NST
+884, 2	2088, 1-1	ANG	*My_Pictures*	ST	NST
+884, 3	2089, 1-6	ANG	ella na yn *My_Documents* fysai fo	NST	NST
+884, 4	2090, 1-11	ANG	ella bod isio transfer_io fo i rywle weithiau cyn gwneud hynny	---	SNT
+
+
+885, 1	2091, 1-1	MEN	*eh*	---	NST
+
+
+886, 1	2092, 1-3	BRE	dyna chi pam	NSNT	NSNT
+886, 2	2092, 4-11	BRE	na does gyn i mynedd hefo yr peth	NSNT	NSNT
+886, 3	2093, 1-8	BRE	os nag dach chi yn gwybod yn union	NSNT	NSNT
+886, 4	2094, 1-7	BRE	a pan mae yna bobl fath â	NSNT	NSNT
+886, 5	2094, 8-16	BRE	dan ni yn wybod amdanyn nhw sydd yn meddwl	NSNT	NSNT
+886, 6	2094, 17-28	BRE	bod nhw yn yn *gamblers* ac yn mynd i ddysgu pobl eraill	NST	NST
+886, 7	2094, 29-38	BRE	mae raid chi fod un ar y blaen i bawb	NSNT	NSNT
+886, 8	2094, 39-39	BRE	bydd	---	NSNT
+
+
+887, 1	2096, 1-2	ANG	*oh* bydd	NST	NST
+887, 2	2096, 3-3	ANG	bydd	NSNT	NSNT
+887, 3	2096, 4-4	ANG	bydd	NSNT	NSNT
+887, 4	2096, 5-5	ANG	bydd	NSNT	NSNT
+887, 5	2097, 1-4	ANG	*oh* tydw i ddim	---	NST
+
+
+888, 1	2099, 1-4	BRE	baswn i medru dysgu	NSNT	NSNT
+888, 2	2100, 1-10	BRE	ond dydw i ddim digon i fynd ar y blaen	NSNT	NSNT
+888, 3	2101, 1-13	BRE	mae yna pobl fath â chi wedyn yn mynd i fod â diddordeb	---	NSNT
+
+
+889, 1	2102, 1-3	MEN	ia mae rhaid	---	NSNT
+
+
+890, 1	2103, 1-9	BRE	a dach chi yn ysu am gael gwneud ymlaen	---	NSNT
+
+
+891, 1	2104, 1-2	MEN	oes a	---	NSNT
+
+
+892, 1	2106, 1-8	BRE	a mae raid i chi fod un cam	NSNT	NSNT
+892, 2	2106, 9-9	BRE	does	---	NSNT
+
+
+893, 1	2107, 1-6	MEN	a dan ni isio un da	NSNT	NSNT
+893, 2	2107, 7-7	MEN	does	NSNT	NSNT
+893, 3	2108, 1-7	MEN	dan ni isio ryw *dutor* da da	---	NST
+
+
+894, 1	2112, 1-7	BRE	dach chi isio bod un cam ymlaen	---	NSNT
+
+
+895, 1	2113, 1-4	MEN	lle welon ni hynna	NSNT	NSNT
+895, 2	2113, 5-8	MEN	do e_mail this *file*	ST	ST
+895, 3	2113, 9-10	MEN	do *Brenda*	NST	NST
+895, 4	2114, 1-3	MEN	oedd o yna	NSNT	NSNT
+895, 5	2114, 4-4	MEN	doedd	---	NSNT
+
+
+896, 1	2115, 1-9	ANG	ar rywbeth arall oedd hwnnw ar ryw *brogramme* arall	NST	NST
+896, 2	2115, 10-11	ANG	mae *sure*	---	NST
+
+
+897, 1	2117, 1-2	MEN	nag ydy	NSNT	NSNT
+897, 3	2121, 1-2	MEN	dyna o	---	NSNT
+
+
+898, 1	2122, 1-2	BRE	dyna fo	---	NSNT
+
+
+899, 1	2123, 1-6	MEN	dach chi fan hyn wan *right*	NST	NST
+899, 2	2124, 1-6	MEN	dyna fo e_mail this *folder* *files*	ST	ST
+899, 3	2124, 7-7	MEN	te	NSNT	NSNT
+899, 4	2126, 1-2	MEN	dyna fo	NSNT	NSNT
+899, 5	2127, 1-2	MEN	weli di	SNT	NSNT
+899, 6	2128, 1-4	MEN	keep the original *size*	---	NST
+
+
+900, 1	2129, 1-4	BRE	*oh* ia dydw i	---	NST
+
+
+901, 1	2130, 1-6	MEN	*make* all of my *pictures* smaller	---	NST
+
+
+902, 1	2131, 1-7	BRE	na dydw i ddim wedi gweld hwnna	NSNT	NSNT
+902, 2	2132, 1-10	BRE	mi ella i ddeud gant y cant wedi gweld hynna	---	NSNT
+
+
+903, 1	2133, 1-3	MEN	weli di o	SNT	NSNT
+903, 2	2134, 1-4	MEN	send *pictures* via e_mail	---	NST
+
+
+904, 1	2136, 1-6	BRE	dydw i erioed wedi gweld hwnna	---	NSNT
+
+
+905, 1	2137, 1-2	MEN	dyna fo	NSNT	NSNT
+905, 2	2138, 1-2	MEN	a wedyn	NSNT	NSNT
+905, 3	2139, 1-1	MEN	naddo	---	NSNT
+
+
+906, 1	2140, 1-9	BRE	ia ond *pictures* ydy hwnna sydd yn barod yna	NST	NST
+906, 2	2141, 1-6	BRE	be dw i sôn amdano fo	NSNT	NSNT
+906, 3	2141, 8-10	BRE	ydy sganio nhw	---	NSNT
+
+
+907, 1	2142, 1-6	ANG	a fydd raid cael hyd i	NSNT	NSNT
+907, 2	2143, 1-1	ANG	sganio	---	NSNT
+
+
+908, 1	2144, 1-3	MEN	*oh* sganio fo	---	NST
+
+
+909, 1	2145, 1-3	BRE	sganio fo syth	---	NSNT
+
+
+910, 1	2146, 1-3	ANG	*oh* wnes i	NST	NST
+910, 2	2147, 1-8	ANG	*oh* na fedra i ddim gwneud hynny wan	NST	NST
+910, 3	2148, 1-5	ANG	dw i sganio i_lawr i	---	NSNT
+
+
+911, 1	2150, 1-9	MEN	fydd rhaid chdi fynd â fo i rywle gynta	---	NSNT
+
+
+912, 1	2151, 1-3	BRE	ia *oh* dyna	NST	NST
+912, 2	2151, 4-6	BRE	be dw i	NSNT	NSNT
+912, 3	2151, 7-13	BRE	wedi bod yn wneud yn anghywir felly	---	NSNT
+
+
+913, 1	2153, 1-2	ANG	wedyn mae	NSNT	NSNT
+913, 2	2153, 3-13	ANG	mae hwn yn sortio fo allan wedyn cyn ei yrru o	NSNT	NSNT
+913, 3	2153, 14-14	ANG	dydy	---	NSNT
+
+
+914, 1	2156, 1-6	MEN	fydd rhaid chdi yrru o rywle	---	NSNT
+
+
+915, 1	2158, 1-4	BRE	*yeah* ond dyna pam	NST	NST
+915, 2	2158, 5-9	BRE	na dydy wedi gweithio felly	---	NSNT
+
+
+916, 1	2159, 1-5	MEN	i *My_Photos* neu rywbeth de	---	NST
+
+
+917, 1	2160, 1-7	BRE	mae o yn hollol anghywir gyn i	---	NSNT
+
+
+918, 1	2162, 1-2	ANG	dyna pam	---	NSNT
+
+
+919, 1	2163, 1-3	BRE	a dyna pam	NSNT	NSNT
+919, 2	2163, 4-4	BRE	bod	---	NSNT
+
+
+920, 1	2164, 3-6	MEN	mae o yn huge	SNT	SNT
+920, 2	2165, 1-11	MEN	fedri di ddim gyrru fo trwy e_mail yn *straight* o *gamera*	---	ST
+
+
+921, 1	2166, 1-3	BRE	ia *oh* dyna	NST	NST
+921, 2	2166, 4-5	BRE	wnes i	NSNT	NSNT
+921, 3	2167, 1-5	BRE	wedyn mi wnes i lanastr	NSNT	NSNT
+921, 4	2168, 1-7	BRE	wedyn pan dw i wedi weld o	NSNT	NSNT
+921, 5	2168, 8-12	BRE	mae mond ei hanner o	NSNT	NSNT
+921, 6	2168, 13-16	BRE	sy ar y dudalen	---	NSNT
+
+
+922, 1	2169, 1-2	MEN	ia *sure*	---	NST
+
+
+923, 1	2170, 1-2	ANG	dw i	NSNT	NSNT
+923, 2	2170, 3-9	ANG	wedi bod yn cael hynny yn dechrau	---	NSNT
+
+
+924, 1	2173, 1-7	BRE	*well* wnes i yrru un i chi	NST	NST
+924, 2	2174, 1-2	BRE	felly do	---	NSNT
+
+
+925, 1	2175, 1-3	ANG	*oh* do *sure*	---	NST
+
+
+926, 1	2176, 1-11	MEN	er gei di os gei di lun mawr mawr mawr weithiau	NSNT	NSNT
+926, 2	2177, 1-10	MEN	dw i wedi cael un gyn *Elfyn* *panoramic* neu rywbeth	NST	NST
+926, 3	2179, 1-8	MEN	wneud *copy* and paste wedi gael drwy e_mail	ST	ST
+926, 4	2181, 1-5	MEN	a mae o yn iawn	NSNT	NSNT
+926, 5	2181, 6-6	MEN	tydy	NSNT	NSNT
+926, 6	2183, 1-5	MEN	a send to *photos* de	NST	ST
+926, 7	2185, 1-13	MEN	ti isio sgrolio fo i_lawr ar yr e_mail i weld o i_gyd does	NSNT	SNT
+926, 8	2187, 1-2	MEN	isio chwerthin	NSNT	NSNT
+926, 9	2188, 1-4	MEN	*Harry_Owen* ac yn deud	NST	NST
+926, 10	2189, 1-8	MEN	llun da o yr frenhines a yr plant	NSNT	NSNT
+926, 11	2190, 1-4	MEN	meddai o wrtha i	NSNT	NSNT
+926, 12	2191, 1-6	MEN	wedi gyrru yr llun i mi	NSNT	NSNT
+926, 13	2192, 1-6	MEN	*oh* welwn i ddim *top* pen	NST	NST
+926, 14	2193, 1-8	MEN	doedd *Stacey* druan ddim pwt o *dop* pen	---	NST
+
+
+927, 1	2195, 1-4	ANG	mae hynny yn digwydd	---	NSNT
+
+
+928, 1	2196, 1-3	MEN	*oh* mae *sure*	NST	NST
+928, 2	2196, 4-6	MEN	bod o o_dan	NSNT	NSNT
+928, 3	2196, 7-7	MEN	yr	NSNT	NSNT
+928, 4	2196, 8-8	MEN	wsti	NSNT	NSNT
+928, 5	2196, 9-13	MEN	dan rywbeth yn yr e_mail	SNT	SNT
+928, 6	2197, 1-8	MEN	waeth faint o'n i yn sgrolio arno fo	NSNT	NSNT
+928, 7	2199, 1-3	MEN	gynni *dop* pen	NST	NST
+928, 8	2200, 1-2	MEN	fedrith neb	NSNT	NSNT
+928, 9	2200, 3-11	MEN	bod mor hopeless a heb *dop* pen gynno fo	NST	ST
+928, 12	2203, 1-6	MEN	*so* dyna fi yn *copy* paste	ST	ST
+928, 13	2204, 1-3	MEN	a na doedd	NSNT	NSNT
+928, 14	2204, 4-7	MEN	gynni ddim *top* pen	NST	NST
+928, 15	2205, 1-6	MEN	thalcen fel yna pwt o wallt	NSNT	NSNT
+928, 16	2208, 1-13	MEN	tri o blant lovely a *Stacey* ddel gwyneb hi a pwt o ben	---	ST
+
+
+929, 1	2212, 1-5	BRE	dach chi sôn am hynna	NSNT	NSNT
+929, 2	2213, 1-7	BRE	chi mynd i yr feddygfa i *Botwnnog*	NST	NST
+929, 3	2215, 1-9	BRE	oedd yna ryw ddynes yn deud yr un peth	NSNT	NSNT
+929, 4	2216, 1-4	BRE	mae yna luniau i_fyny	NSNT	NSNT
+929, 5	2216, 5-8	BRE	wchi lluniau *nice* iawn	NST	NST
+929, 6	2216, 9-14	BRE	â deud y gwir wedi cael	NSNT	NSNT
+929, 7	2216, 15-22	BRE	wchi peintio i cael eu gwerthu mewn ffordd	NSNT	NSNT
+929, 8	2218, 1-14	BRE	oedd yna lun o long hen fath â hen long hwyliau fawr hen_ffasiwn felly	NSNT	NSNT
+929, 9	2219, 1-6	BRE	a mae yr môr yma o_dani	NSNT	NSNT
+929, 10	2220, 1-6	BRE	mae *top* y llong wedi mynd	NST	NST
+929, 11	2222, 1-8	BRE	*oh* pwy fasai yn prynu peth felly heb	NST	NST
+929, 12	2223, 1-1	BRE	wchi	NSNT	NSNT
+929, 13	2225, 1-6	BRE	mae o yn edrych yn *odd*	NST	NST
+929, 14	2225, 7-7	BRE	wchi	NSNT	NSNT
+929, 15	2225, 8-12	BRE	dach chi yn deud yn	---	NSNT
+
+
+930, 1	2226, 1-4	MEN	*oh* mae o ar	NST	NST
+930, 2	2226, 5-5	MEN	werth	---	NSNT
+
+
+931, 1	2229, 1-5	BRE	a mae o yno ers	NSNT	NSNT
+931, 2	2229, 6-11	BRE	pan mae yr lle wedi agor	NSNT	NSNT
+931, 3	2229, 12-14	BRE	dw i *sure*	---	NST
+
+
+932, 1	2230, 1-3	MEN	mae fath â	NSNT	NSNT
+932, 2	2230, 4-10	MEN	fysai *top* y llong yna ddim yna	---	NST
+
+
+933, 1	2231, 1-4	BRE	ia yn union wan	NSNT	NSNT
+933, 2	2232, 1-10	BRE	petasech chi wedi rhoi torri *top* *top* honna i_gyd i_ffwrdd	---	NST
+
+
+934, 1	2233, 1-4	MEN	pwy wnaeth hwnna *Angharad*	---	NST
+
+
+935, 1	2234, 1-1	ANG	*Ifan*	---	NST
+
+
+936, 1	2236, 1-1	MEN	*eh*	---	NST
+
+
+937, 1	2237, 1-1	ANG	*Ifan*	---	NST
+
+
+938, 1	2238, 1-5	MEN	*oh* mae hwnna lun lovely	---	ST
+
+
+939, 1	2239, 1-2	BRE	*Ifan* lle	---	NST
+
+
+940, 1	2241, 1-3	MEN	*Ifan* gwallt de	NST	NST
+940, 2	2243, 1-5	MEN	mae o yn *artist* da	NST	NST
+940, 3	2243, 6-6	MEN	tydy	---	NSNT
+
+
+941, 1	2244, 1-1	ANG	mae	---	NSNT
+
+
+942, 1	2246, 1-5	MEN	a dw i licio fo	---	NSNT
+
+
+943, 1	2247, 1-6	ANG	pan o yn hogyn bach ifanc	---	NSNT
+
+
+944, 1	2248, 1-5	MEN	mae o yn soft *nice*	ST	ST
+944, 2	2248, 6-6	MEN	dydy	---	NSNT
+
+
+945, 1	2250, 1-6	BRE	*oh* ydy o ryw long arbennig	---	NST
+
+
+946, 1	2251, 1-5	ANG	dw i ddim yn gwybod	NSNT	NSNT
+946, 2	2252, 1-7	ANG	mae *Geoff* â diddordeb mewn llongau hwyliau	NST	NST
+946, 3	2254, 1-8	ANG	wedyn wnaeth *Ifan* hwnna iddo fo yn *bresent*	NST	NST
+946, 4	2255, 1-6	ANG	pam dw i ddim yn gwybod	---	NSNT
+
+
+947, 1	2256, 1-3	MEN	*oh* *nice* de	NST	NST
+947, 2	2258, 1-8	MEN	be oedd o ddeud wrtha fi lawer gwaith	NSNT	NSNT
+947, 3	2258, 9-22	MEN	oedd o rhwng dau feddwl be ddeuthai fo wneud gwalltiau ta mynd yn *artist*	---	NST
+
+
+948, 1	2259, 1-5	ANG	mae nhw i_gyd yn *artists*	NST	NST
+948, 2	2260, 1-4	ANG	a mae *mham* nhw	---	NST
+
+
+949, 1	2266, 1-2	MEN	ydy *mam*	NST	NST
+949, 2	2266, 3-6	MEN	ydy *fam* o fyw	---	NST
+
+
+950, 1	2267, 1-2	ANG	ydy tad	---	NSNT
+
+
+951, 1	2268, 1-6	MEN	*oh* ydy *Mrs_Evans* yn fyw o_hyd	---	NST
+
+
+952, 1	2269, 2-3	ANG	a mae	---	NSNT
+
+
+953, 1	2270, 1-6	MEN	mae dal yn byw yn *Tudweiliog*	---	NST
+
+
+954, 1	2271, 1-6	ANG	na byw efo ei merch *Nia*	---	NST
+
+
+955, 1	2272, 1-6	MEN	*oh* ydy yn byw efo *Nia*	---	NST
+
+
+956, 1	2276, 1-2	ANG	*oh* mae	NST	NST
+956, 2	2276, 3-7	ANG	mae yn arbennig o dda	---	NSNT
+
+
+957, 1	2279, 1-5	MEN	*oh* faint ydy hoed hi	---	NST
+
+
+958, 1	2280, 1-3	ANG	mae yn naw_deg	---	NSNT
+
+
+959, 1	2283, 1-5	MEN	dynes *nice* oedd hi hefyd	---	NST
+
+
+960, 1	2284, 1-3	ANG	*oh* mae hi	NST	NST
+960, 2	2285, 1-11	ANG	a mae yn dal yn ddel ac yn cymryd diddordeb felly	---	NSNT
+
+
+961, 1	2287, 1-4	MEN	*oh* dwn i ddim	NST	NST
+961, 2	2289, 1-6	MEN	chwarae teg de i *Nia* hefyd	---	NST
+
+
+962, 1	2291, 1-9	ANG	o'n i wedi meddwl chael hi yma a *Barbara_Parry*	NST	NST
+962, 2	2292, 1-5	ANG	mae yn perthyn i *Barbara*	---	NST
+
+
+963, 1	2293, 1-4	MEN	be *Barbara* *Silwyn* felly	NST	NST
+963, 2	2297, 1-2	MEN	argoel tad	NSNT	NSNT
+963, 3	2298, 1-6	MEN	sut mae yn perthyn i *Barbara*	---	NST
+
+
+964, 1	2299, 1-2	ANG	cysylltiadau *Llangwnadl*	---	NST
+
+
+965, 1	2301, 1-4	BRE	*um* *Trosyrafon* oedden nhw	NST	NST
+965, 2	2301, 5-5	BRE	te	---	NSNT
+
+
+966, 1	2303, 1-10	MEN	*oh* mae gyn *mam* *Ifan* ryw acen gwahanol i ni	NST	NST
+966, 2	2303, 11-11	MEN	does	---	NSNT
+
+
+967, 1	2305, 2-9	BRE	aeth ei thad hi lawr i yr pyllau	NSNT	NSNT
+967, 2	2305, 10-12	BRE	glo i weithio	---	NSNT
+
+
+968, 1	2306, 1-9	ANG	*yeah* i yr *south* o *um* i *south* Wales	---	ST
+
+
+969, 1	2308, 1-5	MEN	*oh* be ydy yr acen	NST	NST
+969, 2	2308, 6-9	MEN	sy gyn *mam* *Ifan*	NST	NST
+969, 3	2308, 10-10	MEN	ta	---	NSNT
+
+
+970, 1	2310, 1-5	BRE	acen y de ydy hi	---	NSNT
+
+
+971, 1	2312, 1-9	MEN	am bod hi wedi byw yn y de *yeah*	---	NST
+
+
+972, 1	2315, 1-2	BRE	*yeah* magu	---	NST
+
+
+973, 1	2317, 1-5	MEN	*oh* *just* dyna pam felly	---	NST
+
+
+974, 1	2318, 1-10	ANG	*yeah* ddoth hi fyny ar ei gwyliau i *Tŷ_yr_Ysgol* *Llangwnadl*	NST	NST
+974, 2	2319, 1-7	ANG	wedyn adeg hynny oedd hi yn cyfarfod	NSNT	NSNT
+974, 3	2319, 8-12	ANG	wnaeth hi gyfarfod ei gŵr	NSNT	NSNT
+974, 4	2319, 13-18	ANG	oedd yn frawd i ngŵr i	---	NSNT
+
+
+975, 1	2320, 1-7	MEN	*oh* *so* mae wedi cael ei magu	---	NST
+
+
+976, 1	2321, 1-5	ANG	*er* lawr yn *south* Wales	---	ST
+
+
+977, 1	2322, 1-3	MEN	*er* lawr felly	---	NST
+
+
+978, 1	2324, 1-2	ANG	wedyn mae	NSNT	NSNT
+978, 2	2324, 3-8	ANG	gynni hanes diddorol am ffordd yma	---	NSNT
+
+
+979, 1	2326, 1-2	MEN	*well* oes	---	NST
+
+
+980, 1	2328, 1-6	ANG	wedyn oedd ei thad hi *er*	NST	NST
+980, 2	2328, 7-12	ANG	oedd o yn *um* *factory* wlân	NST	NST
+980, 3	2328, 13-15	ANG	oedd gynno fo	---	NSNT
+
+
+981, 1	2329, 1-6	BRE	*factory* wlân *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+982, 1	2332, 1-4	ANG	a ei brawd hi	NSNT	NSNT
+982, 2	2334, 1-7	ANG	wnaeth ei brawd hi briodi ryw *Miss_Woodward*	NST	NST
+982, 3	2334, 8-13	ANG	oedd yn dysgu yn ysgol *Botwnnog*	NST	NST
+982, 5	2338, 1-4	ANG	*Rebecca_Woodward* dw i meddwl	NST	NST
+982, 6	2339, 1-6	ANG	mae hi wedi marw erbyn hyn	---	NSNT
+
+
+983, 1	2340, 1-3	MEN	dw i *sure*	NST	NST
+983, 2	2340, 4-11	MEN	bod hi yr un *Woodward* ag *Elaine_Woodward* felly	NST	NST
+983, 3	2340, 12-14	MEN	sy yn *Queen_Street*	NST	NST
+983, 4	2341, 1-5	MEN	*oh* dw i wedi deud	NST	NST
+983, 5	2341, 6-11	MEN	bod fi mynd i weld honno	NSNT	NSNT
+983, 6	2342, 1-2	MEN	mae deud	NSNT	NSNT
+983, 7	2343, 1-6	MEN	ti yn deud bod chdi dŵad	NSNT	NSNT
+983, 8	2344, 1-5	MEN	a ti byth wedi bod	NSNT	NSNT
+983, 9	2345, 1-5	MEN	a tydw i ddim chwaith	NSNT	NSNT
+983, 10	2346, 1-1	MEN	cywilydd	---	NSNT
+
+
+984, 1	2347, 2-2	BRE	mae	NSNT	NSNT
+984, 2	2348, 1-7	BRE	a mae nhw mor falch o weld	---	NSNT
+
+
+985, 1	2349, 1-6	MEN	gollodd hi ei gŵr yn sydyn	---	NSNT
+
+
+986, 1	2351, 1-12	BRE	mae nhw mor falch o weld rywun dydyn yn yr oed yna	NSNT	NSNT
+986, 2	2351, 13-19	BRE	pan mae nhw ar ben eu hun	---	NSNT
+
+
+987, 1	2353, 1-7	MEN	*oh* na thydy *Elaine* ddim yn hen	---	NST
+
+
+988, 1	2354, 1-5	BRE	*oh* na be dw feddwl	NST	NST
+988, 2	2354, 6-11	BRE	mae yr un oed â fi	NSNT	NSNT
+988, 3	2354, 12-15	BRE	*so* mae yn hen	---	NST
+
+
+989, 1	2356, 1-5	ANG	na dw ddim yn meddwl	NSNT	NSNT
+989, 2	2356, 6-9	ANG	bod hi yn perthyn	---	NSNT
+
+
+990, 1	2357, 1-6	MEN	gollodd hi gŵr yn sydyn sydyn	NSNT	NSNT
+990, 2	2358, 1-2	MEN	hogyn iach	NSNT	NSNT
+990, 4	2360, 1-5	MEN	*Elaine_Woodward* yn byw yn *Fleet_Street*	---	NST
+
+
+991, 1	2361, 1-2	ANG	nac ydw	---	NSNT
+
+
+992, 1	2362, 1-4	BRE	na dw innau chwaith	---	NSNT
+
+
+993, 1	2363, 1-1	MEN	*eh*	---	NST
+
+
+994, 1	2366, 1-3	BRE	be ydy perthynas	NSNT	NSNT
+994, 2	2367, 1-11	BRE	ar_draws bob_dim be ydy berthynas *mam* *Ifan* efo *Maggie* *doctor* ers_talwm	---	NST
+
+
+995, 1	2368, 1-10	ANG	*oh* mi oedd chwaer *Maggie* *doctor* yn *fam* i *Eiry*	---	NST
+
+
+996, 1	2369, 1-2	BRE	*mam* *Ifan*	---	NST
+
+
+997, 1	2371, 1-4	ANG	*mam* a tad *Ifan*	NST	NST
+997, 2	2372, 1-4	ANG	sut oedd hynny yn	NSNT	NSNT
+997, 3	2373, 1-3	ANG	*oh* dyna pam	NST	NST
+997, 4	2373, 4-11	ANG	byddai *Eiry* yn dŵad i aros i *Llangwnadl*	NST	NST
+997, 5	2374, 1-2	ANG	achos oedd	NSNT	NSNT
+997, 6	2374, 3-7	ANG	ei *mham* hi o *Llangwnadl*	NST	NST
+997, 7	2374, 8-8	ANG	doedd	---	NSNT
+
+
+998, 1	2375, 1-2	BRE	oedd *sure*	---	NST
+
+
+999, 1	2376, 1-10	ANG	a mi oedd hi wedi mynd i ditso i *Penmachno*	NST	NST
+999, 2	2378, 1-8	ANG	ac un o *Penmachno* oedd ei thad hi	NST	NST
+999, 3	2379, 1-16	ANG	wedyn wnaethon nhw gyfarfod felly a mynd i_lawr i yr de i agor *factory* wlân yno	NST	NST
+999, 4	2381, 1-8	ANG	achos oedd gyn gynnyn nhw *factory* wlân *Penmachno*	NST	NST
+999, 5	2381, 9-11	ANG	dw i meddwl	---	NSNT
+
+
+1000, 1	2382, 1-4	BRE	*well* oedd ia mi	NST	NST
+1000, 2	2382, 5-7	BRE	fysai ia *yeah*	---	NST
+
+
+1001, 1	2383, 1-7	ANG	wedyn wnaeth *um* wedyn merch *Tŷ_yr_Ysgol* *Llangwnadl*	NST	NST
+1001, 2	2383, 8-10	ANG	oedd *mam* *Eiry*	NST	NST
+1001, 3	2384, 1-3	ANG	priodi efo *Herbert_Davies*	---	NST
+
+
+1002, 1	2385, 1-9	BRE	a beth ydy cysylltiad wedyn hefo y *Cannon* *Hughes*	NST	NST
+1002, 2	2386, 1-7	BRE	brawd nhw yn frawd yn frawd iddyn	NSNT	NSNT
+1002, 3	2387, 1-11	BRE	*er* eu tad ei dad o yn frawd iddyn nhw ia	---	NST
+
+
+1003, 1	2389, 1-5	ANG	dw i ddim yn gwybod	---	NSNT
+
+
+1004, 1	2390, 1-4	BRE	dw i yn meddwl	NSNT	NSNT
+1004, 2	2390, 5-7	BRE	bod yna rywbeth	---	NSNT
+
+
+1005, 1	2391, 1-2	ANG	dw i	NSNT	NSNT
+1005, 2	2391, 3-8	ANG	dw i ddim yn gwybod hynny	---	NSNT
+
+
+1006, 1	2392, 1-2	BRE	dw i	NSNT	NSNT
+1006, 2	2392, 3-4	BRE	holwch eto	NSNT	NSNT
+1006, 3	2394, 1-3	BRE	hola i *Ifan*	NST	NST
+1006, 4	2395, 1-4	BRE	achos dw i cofio	NSNT	NSNT
+1006, 5	2395, 5-15	BRE	pan oedd *um* na wneud hanes disgyblion cynnar ysgol *Botwnnog* felly	NST	NST
+1006, 6	2396, 1-6	BRE	a mi oedd rhein yn deulu	NSNT	NSNT
+1006, 7	2397, 1-5	BRE	oedd o yn beth anghyffredin	NSNT	NSNT
+1006, 8	2397, 6-15	BRE	mae *sure* yr adeg yno i i i yr teulu	NST	NST
+1006, 9	2398, 1-1	BRE	wchi	---	NSNT
+
+
+1007, 1	2399, 1-3	MEN	oedd ers_talwm ers_talwm	NSNT	NSNT
+1007, 2	2399, 4-4	MEN	doedd	---	NSNT
+
+
+1008, 1	2403, 1-10	BRE	ond mi oedd rhein yn mynd un ar_ôl y llall	---	NSNT
+
+
+1009, 1	2405, 1-8	MEN	yr un fath ysgol ramadeg *Pwllheli* hefyd doedd	---	NST
+
+
+1010, 1	2406, 1-4	ANG	*Tŷ_yr_Ysgol* felly oedden nhw	NST	NST
+1010, 2	2408, 1-2	ANG	plant *Tŷ_yr_Ysgol*	---	NST
+
+
+1011, 1	2409, 1-3	BRE	na dw *sure*	NST	NST
+1011, 2	2409, 4-9	BRE	bod yna ryw gysylltiad efo Tros_yr_Afon	NSNT	NSNT
+1011, 3	2409, 10-10	BRE	wchi	NSNT	NSNT
+1011, 4	2411, 1-4	BRE	na ddim *Tŷ_yr_Ysgol* oedd	NST	NST
+1011, 5	2412, 1-5	BRE	*Tros_yr_Afon* oedden nhw fel teulu	---	NST
+
+
+1012, 1	2414, 1-3	ANG	achos oedd *Barbara*	---	NST
+
+
+1013, 1	2415, 1-7	BRE	*um* ella bod i yn hollol anghywir	---	NST
+
+
+1014, 1	2416, 1-3	ANG	*Minafon* oedden nhw	---	NST
+
+
+1015, 1	2417, 1-2	BRE	*Minafon* ella	NST	NST
+1015, 2	2419, 1-5	BRE	fi sy wedi *er* camgymeryd	---	NST
+
+
+1016, 1	2420, 1-1	ANG	mae	NSNT	NSNT
+1016, 2	2420, 2-8	ANG	gynni frawd yn byw yn Aberhonddu *Barbara*	---	NST
+
+
+1017, 1	2421, 1-3	BRE	dyna chi *mmm*	---	NST
+
+
+1018, 1	2422, 1-3	ANG	dwn i ddim	NSNT	NSNT
+1018, 2	2422, 4-10	ANG	os ydy o yn hŷn na hi	---	NSNT
+
+
+1019, 1	2423, 1-3	MEN	*oh* *Barbara* *er*	---	NST
+
+
+1020, 1	2424, 1-2	ANG	mae *sure*	NST	NST
+1020, 2	2424, 3-4	ANG	bod o	SNT	NSNT
+1020, 3	2425, 1-2	ANG	*er* *Silwyn*	---	NST
+
+
+1021, 1	2426, 1-2	MEN	*Tŷ_yr_Ysgol* ers_talwm	---	NST
+
+
+1022, 1	2432, 1-7	BRE	mae gyn *Barbara* *lot* *er* o hanesion	NST	NST
+1022, 2	2432, 8-11	BRE	does o Ben_Llŷn felly	---	NSNT
+
+
+1023, 1	2435, 1-3	ANG	mae yn debyg	NSNT	NSNT
+1023, 2	2436, 1-4	ANG	*er* mae nhw yn	NST	NST
+1023, 3	2438, 1-5	ANG	mae nhw yn perthyn hefyd	NSNT	NSNT
+1023, 4	2439, 1-8	ANG	a mi oedd *Eiry* yn perthyn i *Gwilym_Rees*	NST	NST
+1023, 5	2440, 1-8	ANG	a mae *Barbara* hefyd yn perthyn i *Gwilym_Rees*	---	NST
+
+
+1024, 1	2442, 3-4	MEN	oedd mi	NSNT	NSNT
+1024, 2	2442, 5-6	MEN	oedd hi	---	NSNT
+
+
+1025, 1	2444, 1-3	BRE	teulu *Llangwnadl* oedd	---	NST
+
+
+1026, 1	2445, 1-1	ANG	Dyffryn_Nantlle	NSNT	NSNT
+1026, 2	2446, 1-4	ANG	a gymaint o ryw	---	NSNT
+
+
+1027, 1	2449, 1-4	BRE	mi aeth yna *lot*	NST	NST
+1027, 2	2449, 5-15	BRE	wchi o Ben_Llŷn naill_ai i yr chwareli neu i yr de	---	NSNT
+
+
+1028, 1	2450, 2-3	MEN	mae *sure*	---	NST
+
+
+1029, 1	2451, 1-4	ANG	*oh* ella ia ia	---	NST
+
+
+1030, 1	2453, 1-5	BRE	a teulu *Gilfach* wchi *um*	NST	NST
+1030, 2	2453, 6-13	BRE	aeth rheiny i_lawr i i de Cymru hefyd	NSNT	NSNT
+1030, 3	2454, 1-7	BRE	a mae nhw yn dal i gysylltu	---	NSNT
+
+
+1031, 1	2458, 1-9	MEN	*well* ia gyn i *er* *uncle* hefyd yn *Caerphilly*	NST	NST
+1031, 2	2460, 1-4	MEN	*um* cefnder Nain felly	NST	NST
+1031, 3	2461, 1-10	MEN	a mae nhw yn dŵad bob un blwyddyn i *Pen_Bryn*	NST	NST
+1031, 4	2463, 1-6	MEN	mae nhw yn aros am wsnos	NSNT	NSNT
+1031, 5	2463, 7-10	MEN	wchi tŷ Nain felly	NSNT	NSNT
+1031, 6	2465, 1-5	MEN	wrth ein bodd gweld nhw	NSNT	NSNT
+1031, 7	2466, 1-4	MEN	*well* am bobl wahanol	NST	NST
+1031, 8	2468, 1-10	MEN	mae nhw yn bobl *lot* fwy *jolly* rhaid mi ddeud	NST	NST
+1031, 9	2471, 1-5	MEN	*auntie* *Gwen* ac *uncle* *Albert*	NST	NST
+1031, 10	2473, 1-7	MEN	wrth ein bodd gweld nhw yn dŵad	NSNT	NSNT
+1031, 11	2474, 1-4	MEN	oedden nhw mor *jolly*	NST	NST
+1031, 12	2476, 1-6	MEN	oedden nhw yn gafael ynoch chi	---	NSNT
+
+
+1032, 1	2477, 1-4	ANG	fwy outgoing o lawer	---	SNT
+
+
+1033, 1	2479, 1-1	MEN	wchi	NSNT	NSNT
+1033, 5	2482, 1-6	MEN	be ti bod yn wneud heddiw	NSNT	NSNT
+1033, 6	2483, 1-3	MEN	est ti capel	NSNT	NSNT
+1033, 8	2485, 1-4	MEN	fuest ti yn seiat	NSNT	NSNT
+1033, 9	2486, 1-2	MEN	*well* wchi	NST	NST
+1033, 10	2486, 3-8	MEN	oedd yna ddim sôn am sws	NSNT	NSNT
+1033, 11	2486, 9-10	MEN	nag oedd	SNT	NSNT
+1033, 13	2488, 1-2	MEN	no way	SNT	NSNT
+1033, 14	2489, 1-8	MEN	a felly oedd hi hefyd wir yr wan	NSNT	NSNT
+1033, 15	2489, 9-11	MEN	te teulu *dad*	NST	NST
+1033, 17	2492, 1-7	MEN	ond mae teulu *mam* dipyn bach mwy	---	NST
+
+
+1034, 1	2494, 1-3	BRE	dangos emosiwn felly	---	NSNT
+
+
+1035, 1	2495, 1-3	MEN	ia yn be	NSNT	NSNT
+1035, 2	2497, 1-4	MEN	ond oedd *uncle* *Albert*	NST	NST
+1035, 3	2498, 1-5	MEN	*oh* *yeah* teulu ochr arall	NST	NST
+1035, 4	2500, 1-9	MEN	ond *uncle* *Albert* dod drwy drws de *oh* heblaw	NST	NST
+1035, 5	2500, 10-15	MEN	bod o rhoi sws i bawb	NSNT	NSNT
+1035, 6	2500, 16-27	MEN	oedd o yn codi chi fyny yn ei freichiau deud *wow* a	NST	NST
+1035, 7	2502, 1-11	MEN	*well* oedd hi fath â *party* gweld *uncle* *Albert* dod i_mewn	NST	NST
+1035, 8	2504, 1-5	MEN	oedden ni wrth ein boddau	NSNT	NSNT
+1035, 9	2506, 1-10	MEN	gweld y gwahaniaeth rhwng teulu *mam* a teulu *dad* de	NST	NST
+1035, 10	2509, 1-11	MEN	teulu *mam* yn *jolly* de a teulu *dad* hen bobl iawn	NST	NST
+1035, 11	2509, 12-15	MEN	de ond yn *stiff*	---	NST
+
+
+1036, 1	2510, 1-6	ANG	yr un fath oedd i minnau	NSNT	NSNT
+1036, 2	2516, 1-10	ANG	teulu nhad i mi yn hollol reserved hollol swil hollol	NSNT	SNT
+1036, 3	2518, 1-2	ANG	capel a	---	NSNT
+
+
+1037, 1	2520, 1-2	BRE	seiat a	---	NSNT
+
+
+1038, 1	2522, 1-9	ANG	teulu *mam* wedyn gafael am ei_gilydd sws a ballu	NST	NST
+1038, 2	2522, 10-10	ANG	te	---	NSNT
+
+
+1039, 1	2525, 1-7	MEN	fath â teulu *mam* de teulu *mam*	NST	NST
+1039, 2	2528, 1-4	MEN	na mae yn *odd*	NST	NST
+1039, 3	2529, 1-9	MEN	ac eto y ddau deulu o o Ben_Llŷn de	---	NSNT
+
+
+1040, 1	2533, 1-5	ANG	o *Eifionydd* oedd *mam* felly	NST	NST
+1040, 2	2534, 1-4	ANG	oedd *mam* yn wahanol	NST	NST
+1040, 3	2534, 5-5	ANG	doedd	---	NSNT
+
+
+1041, 1	2535, 1-7	MEN	ia oedd Taid yn dod o *Llandecwyn*	NST	NST
+1041, 2	2535, 8-8	MEN	doedd	NSNT	NSNT
+1041, 3	2536, 1-8	MEN	a a Nain yn dod o Sir *Eifionydd*	NST	NST
+1041, 4	2537, 1-4	MEN	ia ochr yna de	---	NSNT
+
+
+1042, 1	2541, 1-5	ANG	a beth amdan rei chi	NSNT	NSNT
+1042, 2	2542, 1-3	ANG	*Aberdaron* a *Thaliesin*	---	NST
+
+
+1043, 1	2543, 1-5	BRE	*oh* dw ddim yn gwybod	NST	NST
+1043, 2	2545, 1-3	BRE	nage doedd yna	NSNT	NSNT
+1043, 3	2545, 4-8	BRE	fedra i ddim deud ddim	NSNT	NSNT
+1043, 4	2545, 9-17	BRE	bod naill ddim gwahanol i yr llall felly rywsut	---	NSNT
+
+
+1044, 1	2546, 1-5	MEN	*oh* dau yr un fath	NST	NST
+1044, 2	2547, 1-3	MEN	rei gwahanol de	---	NSNT
+
+
+1045, 1	2548, 1-1	ANG	dau	---	NSNT
+
+
+1046, 1	2550, 1-1	BRE	dau	---	NSNT
+
+
+1047, 1	2551, 1-3	ANG	dau reserved felly	NSNT	SNT
+1047, 2	2552, 1-2	ANG	neb yn	---	NSNT
+
+
+1048, 1	2553, 1-5	BRE	nage yn y canol rywsut	NSNT	NSNT
+1048, 2	2554, 1-9	BRE	achos dw i yn cofio mynd i ysgol *Botwnnog*	NST	NST
+1048, 3	2555, 1-8	BRE	a mi wnes i ffrindiau efo hogan *Abersoch*	NST	NST
+1048, 4	2556, 1-8	BRE	oedd thad hi yn reolwr *bank* yn *Abersoch*	NST	NST
+1048, 5	2557, 1-15	BRE	a dw i yn cofio mynd yno hefo hi cael mynd o yr ysgol felly	NSNT	NSNT
+1048, 6	2557, 16-18	BRE	de yn ffrindiau	NSNT	NSNT
+1048, 7	2558, 1-2	BRE	mae *sure*	NST	NST
+1048, 8	2558, 3-10	BRE	be basen nhw yn alw heddiw yn sleep_over	---	SNT
+
+
+1049, 1	2559, 1-3	ANG	*oh* dyna fo	---	NST
+
+
+1050, 1	2561, 1-4	BRE	a mynd yno a	NSNT	NSNT
+1050, 2	2562, 1-6	BRE	*um* a dw i yn cofio	NST	NST
+1050, 3	2562, 8-11	BRE	gynni ryw gath siamese	SNT	SNT
+1050, 4	2563, 1-7	BRE	a peth cynta oedd yn gwynebu ni	NSNT	NSNT
+1050, 5	2563, 8-14	BRE	oedd y gath wedi gwneud ar lawr	---	NSNT
+
+
+1051, 1	2564, 1-4	MEN	*oh* dwn i ddim	---	NST
+
+
+1052, 1	2565, 1-10	BRE	*well* ddim hynny pam bod i yn deud y *story*	NST	NST
+1052, 3	2566, 32-37	BRE	de a roi sws i thad	NSNT	NSNT
+1052, 4	2567, 1-1	BRE	wchi	NSNT	NSNT
+1052, 5	2567, 2-6	BRE	oedd hi yn hogan fawr	NSNT	NSNT
+1052, 6	2567, 7-10	BRE	doedd yn ysgol *Botwnnog*	NST	NST
+1052, 7	2569, 1-10	BRE	*well* o'n i yn rhyfeddu â ngheg yn agored do'n	NST	NST
+1052, 8	2572, 1-3	BRE	doedd o erioed	NSNT	NSNT
+1052, 9	2572, 4-10	BRE	wedi bod yn yn rhan o mywyd	NSNT	NSNT
+1052, 10	2572, 11-12	BRE	i bod	NSNT	NSNT
+1052, 11	2572, 13-13	BRE	wchi	NSNT	NSNT
+1052, 12	2572, 14-26	BRE	bod neb yn mynd i eistedd ar lin ei dad a rhoi sws	NSNT	NSNT
+1052, 13	2574, 1-1	BRE	wchi	NSNT	NSNT
+1052, 14	2574, 2-4	BRE	oedd peth yn	---	NSNT
+
+
+1053, 1	2577, 1-3	MEN	*yeah* mae rhyfedd	NST	NST
+1053, 2	2577, 5-7	MEN	sut mae pawb	NSNT	NSNT
+1053, 3	2577, 8-10	MEN	wchi yn cael	---	NSNT
+
+
+1054, 1	2579, 1-4	BRE	ia dyn o *Nefyn*	NST	NST
+1054, 2	2579, 5-6	BRE	oedd o	NSNT	NSNT
+1054, 3	2579, 7-11	BRE	oedd ei thad hi felly	---	NSNT
+
+
+1055, 1	2583, 1-7	ANG	a dw i cofio mynd i *Llanbedrog*	NST	NST
+1055, 2	2584, 1-9	ANG	a mae hi yn dal yn byw *Iona* *mam*	---	NST
+
+
+1056, 1	2585, 3-10	BRE	mae nhw yn dal i fod wrthi dydyn	---	NSNT
+
+
+1057, 1	2587, 1-13	ANG	a gweld y genod naci hi *Iona* yn eistedd ar lin ei gŵr	NST	NST
+1057, 2	2588, 1-5	ANG	*Eliphalet* oedd enw yr gŵr	---	NST
+
+
+1058, 1	2589, 1-2	BRE	*Eliphalet* ia	---	NST
+
+
+1059, 1	2590, 1-3	MEN	be enw fo	---	NSNT
+
+
+1060, 1	2591, 1-1	BRE	*Eliphalet*	---	NST
+
+
+1061, 1	2593, 1-5	ANG	a dw i yn cofio	---	NSNT
+
+
+1062, 1	2594, 1-6	MEN	o lle oedd o yn dŵad	---	NSNT
+
+
+1063, 1	2595, 1-7	ANG	o'n i mond ryw saith wyth oed	---	NSNT
+
+
+1064, 1	2597, 1-3	MEN	*Eliphalet* enw fo	---	NST
+
+
+1065, 1	2601, 1-3	BRE	enw beiblaidd *Eliphalet*	---	NST
+
+
+1066, 1	2602, 1-1	MEN	*Eliphalet*	---	NST
+
+
+1067, 1	2604, 1-16	ANG	a o'n i methu dallt chwaer *Elen* rŵan yn wraig a dau dwy genod gynni hi	NST	NST
+1067, 2	2606, 1-15	ANG	a mi oedd hi yn eistedd ar lin ei gŵr a digon o gadeiriau yno	NSNT	NSNT
+1067, 4	2608, 1-2	ANG	bobl annwyl	NSNT	NSNT
+1067, 5	2609, 1-15	ANG	o'n i weld o gartre hapus bod pawb yn medru gafael am ei_gilydd a ballu	NSNT	NSNT
+1067, 6	2612, 1-4	ANG	ddim *use* i mi	NST	NST
+1067, 7	2613, 1-7	ANG	baswn i wedi cael *row* gyn Nain	---	NST
+
+
+1068, 1	2615, 1-10	BRE	oedd hi yn gwneud gyferbyn eich *mam* ac oedolion hefyd	---	NST
+
+
+1069, 1	2616, 1-8	ANG	naci *er* *well* dw i ddim yn gwybod	NST	NST
+1069, 2	2617, 1-15	ANG	o'n i yn blentyn yn mynd efo *Elen* yn ffrindiau chwaer i *Iona* yno felly	NST	NST
+1069, 3	2623, 1-6	ANG	pam bod ni wedi mynd yno	NSNT	NSNT
+1069, 4	2624, 1-4	ANG	efo *bus* mae *sure*	NST	NST
+1069, 5	2624, 5-6	ANG	aethon ni	NSNT	NSNT
+1069, 6	2626, 1-6	ANG	oedden ni yn fwy na saith	NSNT	NSNT
+1069, 7	2627, 1-3	ANG	dw i *sure*	NST	NST
+1069, 8	2627, 4-11	ANG	bod ni yn ryw ddeg ddeuddeg felly deuda	SNT	NSNT
+1069, 9	2629, 1-6	ANG	because mae *Eleri* a *Meinir* ryw	NST	ST
+1069, 10	2630, 1-3	ANG	faint sy rhyngthyn	NSNT	NSNT
+1069, 11	2631, 1-4	ANG	faint ydy oed *Meinir*	NST	NST
+1069, 12	2632, 1-4	ANG	hi ydy yr ifenga	---	NSNT
+
+
+1070, 1	2635, 1-8	BRE	ond fysech chi ddim yn gwneud hynny heddiw	NSNT	NSNT
+1070, 2	2635, 9-10	BRE	na fysech	NSNT	NSNT
+1070, 3	2636, 1-2	BRE	fysech chi	NSNT	NSNT
+1070, 4	2637, 1-3	BRE	deudwch chi wan	NSNT	NSNT
+1070, 5	2637, 4-6	BRE	bod chi wan	---	NSNT
+
+
+1071, 1	2638, 1-2	ANG	*well* mi	---	NST
+
+
+1072, 1	2639, 1-2	MEN	na deudwch	NSNT	NSNT
+1072, 2	2639, 3-15	MEN	bod chi eich dwy yn dŵad fi a fi a *Dewi* yn tŷ	NST	NST
+1072, 3	2639, 16-21	MEN	baswn i eistedd ar lin *Dewi*	NST	NST
+1072, 4	2639, 22-23	MEN	na fyswn	---	NSNT
+
+
+1073, 1	2640, 1-9	BRE	fysech chi ddim yn eistedd ar ei lin o	NSNT	NSNT
+1073, 2	2640, 10-11	BRE	na fysech	---	NSNT
+
+
+1074, 1	2641, 1-2	MEN	na fyswn	NSNT	NSNT
+1074, 4	2644, 1-2	MEN	na fyswn	---	NSNT
+
+
+1075, 1	2645, 1-3	BRE	basa chdi *shock*	---	NST
+
+
+1076, 1	2646, 1-5	MEN	be wyt ti ddeud *eh*	---	NST
+
+
+1077, 1	2648, 1-4	ANG	yn eistedd ar lin	---	NSNT
+
+
+1078, 1	2649, 1-3	BRE	be haru ti	---	NSNT
+
+
+1079, 1	2650, 1-3	MEN	na fysai wahanol	NSNT	NSNT
+1079, 2	2650, 4-8	MEN	pan oeddech chi canlyn ers_talwm	NSNT	NSNT
+1079, 3	2650, 9-9	MEN	doedd	SNT	NSNT
+1079, 6	2653, 1-1	MEN	*eh*	---	NST
+
+
+1080, 1	2655, 1-11	BRE	*oh* dw i yn cofio mynd at gyfnither *mam* yn *Rhoshirwen*	NST	NST
+1080, 2	2656, 1-7	BRE	bob tro mynd yno a modryb *Sharon*	NST	NST
+1080, 3	2657, 1-4	BRE	*oh* dwn i ddim	NST	NST
+1080, 4	2657, 5-13	BRE	dw i ddim yn cofio modryb *Sharon* yn fyw	NST	NST
+1080, 5	2658, 1-6	BRE	ond oedd ei ei mherch hi	NSNT	NSNT
+1080, 6	2659, 1-3	BRE	a oedden nhw	NSNT	NSNT
+1080, 7	2659, 4-12	BRE	oedden nhw bob amser ddau yn gorwedd ar *settee*	NST	NST
+1080, 8	2659, 13-13	BRE	wchi	NSNT	NSNT
+1080, 9	2659, 14-18	BRE	pan oeddech chi mynd yno	NSNT	NSNT
+1080, 11	2661, 1-3	BRE	oedden wir wan	---	NSNT
+
+
+1081, 1	2662, 1-6	MEN	gorwedd ar *settee* efo *Dewi* hefyd	NST	NST
+1081, 2	2662, 7-7	MEN	te	---	NSNT
+
+
+1082, 1	2664, 1-2	BRE	*well* ia	---	NST
+
+
+1083, 1	2665, 1-7	MEN	ond ddim efo pobl o_gwmpas chwaith de	---	NSNT
+
+
+1084, 1	2666, 1-4	BRE	ia dyna yn union	NSNT	NSNT
+1084, 2	2667, 1-1	BRE	dyna	NSNT	NSNT
+1084, 3	2667, 2-4	BRE	ydy yr peth	NSNT	NSNT
+1084, 4	2668, 1-11	BRE	basech chi meddwl basen nhw wedi codi pan rywun mynd i_mewn	NSNT	NSNT
+1084, 5	2668, 12-12	BRE	bysech	---	NSNT
+
+
+1085, 1	2669, 1-2	MEN	*oh* bysai	---	NST
+
+
+1086, 1	2671, 1-3	BRE	wnaethon nhw ddim	NSNT	NSNT
+1086, 2	2672, 1-6	BRE	a wchi yn yr un oed	NSNT	NSNT
+1086, 4	2674, 1-7	BRE	dw i yn cofio plentyn cof plentyn	NSNT	NSNT
+1086, 5	2675, 1-4	BRE	ond oedden nhw wedi	NSNT	NSNT
+1086, 6	2675, 5-8	BRE	oedden nhw wedi priodi	NSNT	NSNT
+1086, 7	2676, 1-7	BRE	a mi oedd gynnyn nhw blentyn bach	NSNT	NSNT
+1086, 8	2678, 1-10	BRE	a dyma nhw yn dal i orwedd ar y *settee*	---	NST
+
+
+1087, 1	2680, 1-2	MEN	braf de	---	NSNT
+
+
+1088, 1	2682, 1-8	BRE	dal i gysgu wedi deffro siarad efo chi	---	NSNT
+
+
+1089, 1	2685, 1-5	MEN	*yeah* mae pawb yn wahanol	NST	NST
+1089, 2	2685, 6-8	MEN	dydy tipyn bach	NSNT	NSNT
+1089, 3	2685, 9-12	MEN	dydy yn bob man	NSNT	NSNT
+1089, 4	2685, 13-13	MEN	dydy	NSNT	NSNT
+1089, 5	2688, 1-5	MEN	Duw mae yn beth rhyfedd	---	NSNT
+
+
+1090, 1	2689, 1-9	BRE	a dw i *sure* *lot* o ein cenhedlaeth ni	NST	NST
+1090, 2	2689, 10-24	BRE	na fysai ni ddim yn gweld *mam* a *dad* yn cofleidio ac yn roi sws	---	NST
+
+
+1091, 1	2690, 1-8	MEN	na *ooh* na ddim gyferbyn â yr plant	---	NST
+
+
+1092, 1	2693, 1-2	ANG	ddim o_gwbl	NSNT	NSNT
+1092, 2	2694, 1-9	ANG	fyddwn i ddim yn cael wneud hynny efo ngŵr	NSNT	NSNT
+1092, 3	2695, 1-4	ANG	be ti feddwl dŵad	NSNT	NSNT
+1092, 4	2696, 1-6	ANG	be petasai pobl yn gweld ni	---	NSNT
+
+
+1093, 1	2700, 1-3	MEN	rhyfedd hefyd te	---	NSNT
+
+
+1094, 1	2702, 1-4	BRE	*oh* dw i cofio	NST	NST
+1094, 2	2702, 5-6	BRE	fyddai *mam*	NST	NST
+1094, 3	2702, 7-14	BRE	fyddai *dad* yn fwy am wneud na *mam*	NST	NST
+1094, 4	2703, 1-6	BRE	a pan fyddai fo yn gwneud	NSNT	NSNT
+1094, 5	2703, 7-9	BRE	oedd gyn i	NSNT	NSNT
+1094, 6	2703, 10-11	BRE	fyddwn i	NSNT	NSNT
+1094, 7	2703, 12-16	BRE	baswn i yn genfigennus felly	---	NSNT
+
+
+1095, 1	2704, 1-3	ANG	mae *sure* ia	---	NST
+
+
+1096, 1	2705, 1-5	BRE	o'n i ddim yn licio	NSNT	NSNT
+1096, 3	2707, 1-10	BRE	na na fyddwn i ddim yn licio peth fel hynny	---	NSNT
+
+
+1097, 1	2708, 1-4	MEN	codi cywilydd arnach chi	SNT	NSNT
+1097, 2	2712, 1-2	MEN	*dear* *me*	NST	NST

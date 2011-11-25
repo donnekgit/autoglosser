@@ -1,0 +1,2603 @@
+
+
+1, 1	1, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+1, 2	1, 5-6	ILI	bod ni	NSNT	NSNT
+1, 3	1, 7-15	ILI	wedi bod yn gweithio ar hwnna ers tua mis	NSNT	NSNT
+1, 4	1, 16-16	ILI	oedden	---	NSNT
+
+
+2, 1	2, 1-1	HAW	*uh_huh*	ST	NST
+2, 2	3, 1-3	HAW	do ac *oh*	---	NST
+
+
+3, 1	4, 1-4	ILI	oedden ers tua mis	NSNT	NSNT
+3, 2	5, 1-7	ILI	achos wnaethon ni gychwyn syth ar_ôl Dolig	---	NSNT
+
+
+4, 1	6, 1-4	HAW	o'n i yn meddwl	---	NSNT
+
+
+6, 1	8, 1-6	HAW	ia achos wnaeth *Llanllechid* ffonio ni	---	NST
+
+
+7, 1	10, 1-5	ILI	ond tibod be dw feddwl	NSNT	NSNT
+7, 2	10, 6-9	ILI	mae *just* fath â	---	NST
+
+
+8, 1	11, 1-5	HAW	wnaeth peth cyfeilyddio yna gymryd	---	NSNT
+
+
+9, 1	12, 1-4	ILI	ac oedd hwnna yn	---	NSNT
+
+
+10, 1	13, 1-4	HAW	ac *oh* y noson	---	NST
+
+
+11, 1	14, 1-6	ILI	oedd hwnna yn *shambles* yn_doedd o	---	NST
+
+
+12, 1	15, 1-21	HAW	o'n i yn gwybod *oh* o'n i yn gwybod bod yna rywbeth yn mynd i fod yn *wrong* ar y noson	NST	NST
+12, 2	16, 1-6	HAW	ac y peth *Pen_Bryn* oedd o	---	NST
+
+
+13, 1	17, 1-17	ILI	ia ond beth o'n i yn meddwl basai yna rywbeth mwy wedi mynd yn *wrong* efo fo	---	NST
+
+
+14, 1	18, 1-2	HAW	do achos	NSNT	NSNT
+14, 2	18, 3-9	HAW	wnaeth *Tracy* sortio hwnna allan diolch byth	---	NST
+
+
+15, 1	19, 2-5	ILI	oedd hynna yn dda	NSNT	NSNT
+15, 2	20, 1-9	ILI	ond tibod be dw feddwl o'n i yn meddwl	NSNT	NSNT
+15, 3	20, 10-13	ILI	basai yna rywbeth really	SNT	SNT
+15, 4	21, 1-13	ILI	o'n i yn meddwl fath â fysai yna ddim pobl wedi troi fyny	NSNT	NSNT
+15, 5	22, 1-4	ILI	oedden i mor falch	NSNT	NSNT
+15, 6	22, 5-8	ILI	pan wnes i weld	NSNT	NSNT
+15, 7	22, 9-14	ILI	bod y neuadd bron yn llawn	---	NSNT
+
+
+16, 1	23, 1-5	HAW	*oh* dw i yn gwybod	---	NST
+
+
+17, 1	24, 1-4	ILI	o'n i yn *proud*	NST	NST
+17, 2	25, 1-6	ILI	a wedyn o'n i fath â	---	NSNT
+
+
+18, 1	26, 1-4	HAW	o'n i seriously meddwl	NSNT	SNT
+18, 2	26, 5-7	HAW	basai neb yna	---	NSNT
+
+
+19, 1	27, 1-5	ILI	*oh* mae hynna yn dda	NST	NST
+19, 2	28, 1-14	ILI	a fi o'n i yn meddwl *just* fath â tua hanner dwsin o rhieni	---	NST
+
+
+20, 1	31, 1-2	HAW	rhieni ni	---	NSNT
+
+
+21, 1	32, 1-5	ILI	a ni yn wneud diolchiadau	NSNT	NSNT
+21, 2	33, 1-4	ILI	oedd hwnna yn ddoniol	---	NSNT
+
+
+22, 1	34, 1-5	HAW	wnes i enjoio wneud hwnna	---	NSNT
+
+
+23, 1	35, 1-5	ILI	ia ond be ges i	NSNT	NSNT
+23, 2	36, 1-5	ILI	ges i yr peth hollol	NSNT	NSNT
+23, 3	36, 6-8	ILI	wirion i wneud	---	NSNT
+
+
+24, 1	37, 1-2	HAW	peth *Maldwyn_John*	---	NST
+
+
+25, 1	38, 1-9	ILI	ia *Tomos_Lewis* *just* yn deud wrtha i munud ola	NST	NST
+25, 2	39, 1-10	ILI	*oh* ia am y sioe a mae *Maldwyn_John* yma a	NST	NST
+25, 3	40, 1-3	ILI	ryw *Gillian* rywun	NST	NST
+25, 4	41, 1-8	ILI	wnaeth o ddim hyd_yn_oed deud wrtha fi pwy	NSNT	NSNT
+25, 5	42, 1-6	ILI	*so* o'n i yn gorfod mynd	NST	NST
+25, 6	43, 1-3	ILI	actorion enwog megis	NSNT	NSNT
+25, 7	44, 1-7	ILI	a do'n i ddim yn nabod neb	NSNT	NSNT
+25, 8	46, 1-7	ILI	a *Will* yn dod fyny ata fi	---	NST
+
+
+26, 1	47, 2-4	HAW	wnaeth o ddeud	---	NSNT
+
+
+27, 1	48, 1-4	ILI	*oh* ia da iawn	NST	NST
+27, 2	49, 1-8	ILI	ond doedd o ddim yn nabod y *person*	NST	NST
+27, 3	49, 9-12	ILI	nag oedd diolch byth	---	NSNT
+
+
+28, 1	50, 1-4	HAW	ia dyna *er* fel	NST	NST
+28, 2	50, 5-10	HAW	oedd o fod neu rywbeth *yeah*	NST	NST
+28, 3	51, 1-5	HAW	*oh* oedd o yn funny	ST	ST
+28, 4	52, 1-12	HAW	ti yn gwybod y planhigyn yna wnaeth o ennill yn y *raffle*	---	NST
+
+
+29, 1	53, 1-6	ILI	*oh* pwy wnaeth guro fo *Will*	---	NST
+
+
+30, 1	54, 1-1	HAW	*Will*	ST	NST
+30, 2	56, 1-4	HAW	*oh* rargian fawr *oh*	NST	NST
+30, 3	57, 1-5	HAW	nhw mor funny yno fo	---	SNT
+
+
+31, 1	58, 1-1	ILI	sebon	NSNT	NSNT
+31, 2	59, 1-5	ILI	ti yn gwybod *Kevin* de	NST	NST
+31, 3	60, 1-8	ILI	sebon o tŷ ni wnaeth o guro yn_dôl	---	NSNT
+
+
+32, 1	61, 1-4	HAW	*oh* wnaeth o ennill	---	NST
+
+
+33, 1	62, 1-6	ILI	y *thing* y peth ola un	NST	NST
+33, 2	63, 1-6	ILI	*so* oedd o gorfod cymryd o	NST	NST
+33, 3	64, 1-8	ILI	ond sebon o tŷ o o o *um*	NST	NST
+33, 5	66, 1-9	ILI	tŷ ni oedd o wedi dod yn lle cynta	SNT	NSNT
+33, 6	67, 1-3	ILI	because wnaeth *mam*	NST	ST
+33, 7	67, 4-10	ILI	doedd *mam* ddim isio deud wrtho fo	ST	NST
+33, 8	68, 1-5	ILI	because oedd o mor *proud*	NST	ST
+33, 9	68, 6-9	ILI	bod o wedi curo	NSNT	NSNT
+33, 10	69, 1-7	ILI	a wnaeth hi yn diwedd a deud	NSNT	NSNT
+33, 11	70, 1-9	ILI	ti yn dod â fo adre nôl efo chdi	NSNT	NSNT
+33, 13	72, 1-9	ILI	o tŷ ni wnaeth o ddod yn lle cynta	---	NSNT
+
+
+34, 1	73, 1-7	HAW	*oh* ti yn gwybod y cannwyll yna	NST	NST
+34, 2	75, 1-5	HAW	fan yno mae *Esyllt* *Cilmynach*	NST	NST
+34, 3	76, 1-5	HAW	achos oedd *Tracy* fath â	ST	NST
+34, 4	77, 1-9	HAW	take the *candle* take the *candle* take the *candle*	ST	NST
+34, 6	79, 1-6	HAW	a wedyn *so* wnaeth *Guy* ddeud	NST	NST
+34, 7	81, 1-3	HAW	a wnaeth hi	NSNT	NSNT
+34, 8	81, 4-15	HAW	roid o i nôl i fi wedyn i fynd â fo nôl	---	NSNT
+
+
+35, 1	82, 1-7	ILI	dw i ddim yn beio hi chwaith	---	NSNT
+
+
+36, 1	83, 1-3	HAW	*oh* wnaethon ni	NST	NST
+36, 2	83, 4-6	HAW	roid o i	NSNT	NSNT
+36, 3	84, 1-3	HAW	ti gwybod hogan	NSNT	NSNT
+36, 4	85, 1-5	HAW	be ydy enw hi *um*	---	NST
+
+
+37, 1	86, 1-5	ILI	dw ddim gwybod hogan pwy	---	NSNT
+
+
+38, 1	87, 1-5	HAW	mae o_hyd yn *Steddfod* *Dyffryn_Ogwen*	NST	NST
+38, 2	88, 1-4	HAW	dw ddim yn gwybod	NSNT	NSNT
+38, 3	88, 5-9	HAW	be ydy enw hi anyway	SNT	SNT
+38, 4	89, 1-10	HAW	a dweud wrthi rhoid o i *mam* er mwyn deud	NST	NST
+38, 5	89, 11-16	HAW	bod hi wedi ennill y *raffle*	---	NST
+
+
+39, 1	90, 1-4	ILI	pa mor hen ydy	---	NSNT
+
+
+40, 1	91, 1-3	HAW	*er* hogan bach	---	NST
+
+
+41, 1	92, 1-7	ILI	*oh* dw i ddim yn nabod hi	NST	NST
+41, 2	92, 8-11	ILI	dw ddim yn meddwl	---	NSNT
+
+
+42, 1	93, 1-5	HAW	wyt merch *um* granddaughter *Joyce_Jenkins*	ST	ST
+42, 2	93, 6-9	HAW	dw i yn meddwl	---	NSNT
+
+
+43, 1	94, 1-2	ILI	*oh* *Fflur*	ST	NST
+43, 2	95, 1-5	ILI	*Fflur* ydy enw hi dŵad	---	NST
+
+
+44, 1	96, 1-6	HAW	ia ia dw i yn meddwl	---	NSNT
+
+
+45, 1	97, 1-3	ILI	*Fflur* merch *Rachel*	NST	NST
+45, 2	99, 1-2	ILI	*oh* yndw	NST	NST
+45, 3	99, 3-10	ILI	dw i yn gwybod pwy ti yn feddwl	NSNT	NSNT
+45, 4	99, 11-11	ILI	yndw	NSNT	NSNT
+45, 5	100, 1-14	ILI	*oh* na am funud do'n i ddim yn dallt pwy oedda chdi yn feddwl	NST	NST
+45, 6	101, 1-2	ILI	mae bob	NSNT	NSNT
+45, 7	101, 3-5	ILI	tro yn *Steddfod*	NST	NST
+45, 8	102, 1-5	ILI	ac o'n i fath â	NSNT	NSNT
+45, 9	103, 1-2	ILI	na dw	NSNT	NSNT
+45, 10	103, 3-4	ILI	dw *uh*	NST	NST
+45, 11	103, 5-13	ILI	dw i yn gwybod pwy ti yn feddwl rŵan	---	NSNT
+
+
+46, 1	106, 1-5	HAW	mae o_hyd ar y llwyfan	---	NSNT
+
+
+47, 1	107, 1-3	ILI	*oh* chwarae teg	---	NST
+
+
+48, 1	108, 1-8	HAW	dw i wedi siarad efo hi bob blwyddyn	---	NSNT
+
+
+49, 1	109, 1-6	ILI	a *mam* hi sy wedi wneud	NST	NST
+49, 2	110, 1-10	ILI	*oh* ia dw i yn gwybod pwy ti yn feddwl	NST	NST
+49, 3	112, 1-7	ILI	*sorry* o'n i wedi camddallt am funud	NST	NST
+49, 4	114, 1-10	ILI	na dw i yn dallt rŵan pwy ti yn feddwl	---	NSNT
+
+
+50, 1	115, 1-4	HAW	ti yn camddallt pob_dim	---	NSNT
+
+
+51, 1	116, 1-2	ILI	yndw ia	NSNT	NSNT
+51, 2	116, 3-7	ILI	mae *Joyce_Jenkins* yn nain iddi	NST	NST
+51, 3	117, 1-1	ILI	yndw	NSNT	NSNT
+51, 4	117, 2-9	ILI	dw i yn gwybod pwy ti yn feddwl	NSNT	NSNT
+51, 5	118, 1-2	ILI	ia mae	NSNT	NSNT
+51, 6	118, 3-9	ILI	gynnon ni *lot* o drefnu i wneud	---	NST
+
+
+52, 1	119, 1-1	HAW	llwythi	---	NSNT
+
+
+53, 1	120, 1-6	ILI	*ugh* fedra i ddim coelio fo	NST	NST
+53, 2	121, 1-7	ILI	wyt ti angen ffonio *Bara_Caws* ar_ôl gwyliau	---	NST
+
+
+54, 1	122, 1-1	HAW	yndw	NSNT	NSNT
+54, 2	122, 2-4	HAW	dw i angen	NSNT	NSNT
+54, 3	122, 5-5	HAW	does	---	NSNT
+
+
+55, 1	123, 1-13	ILI	dw i yn meddwl *as* long os cei di wneud *er* dydd Llun	NST	ST
+55, 2	123, 14-17	ILI	fydd o yn iawn	SNT	NSNT
+55, 3	124, 1-3	ILI	because os mae	NSNT	SNT
+55, 4	124, 4-8	ILI	wedi bod yn hanner tymor	SNT	NSNT
+55, 5	125, 1-5	ILI	because dw i yn gwybod	NSNT	SNT
+55, 6	125, 6-12	ILI	wnaeth y prifathro ddeud na yn syth	NSNT	NSNT
+55, 7	126, 1-6	ILI	ond tibod be dw feddwl achos	NSNT	NSNT
+55, 8	126, 7-11	ILI	oedd hi yn hanner tymor	NSNT	NSNT
+55, 9	127, 1-9	ILI	a do'n ni ddim yn mynd o *Paris* tan	ST	NST
+55, 10	128, 1-9	ILI	because basa chdi ddim yn gallu gwneud cyn *Paris*	ST	ST
+55, 11	130, 1-10	ILI	because fysai yna ddim bwriad trio trefnu yr *er* dyddiad	ST	ST
+55, 13	132, 1-5	ILI	because do'n ni ddim o_gwmpas	---	SNT
+
+
+56, 1	133, 1-1	HAW	dw	NSNT	NSNT
+56, 2	133, 2-5	HAW	dw i yn meddwl	NSNT	NSNT
+56, 3	133, 6-15	HAW	wna i actually roi hwnna i rywun arall i wneud	---	SNT
+
+
+57, 1	134, 1-4	ILI	dw ddim gwybod *thing*	NST	NST
+57, 2	134, 6-9	ILI	dw i *just* bob	NST	NST
+57, 3	134, 10-10	ILI	tro	NSNT	NSNT
+57, 4	134, 11-21	ILI	mae hi wedi gweld ni wedi dod atan ni i siarad	NSNT	NSNT
+57, 5	134, 22-23	ILI	mae hi	NSNT	NSNT
+57, 6	136, 1-1	ILI	dyna	NSNT	NSNT
+57, 7	136, 2-4	ILI	dw i yn	---	NSNT
+
+
+58, 1	137, 1-6	HAW	achos mae *Kate* yn adnabod o	---	NST
+
+
+59, 1	138, 1-4	ILI	*just* deud dw i	NST	NST
+59, 2	139, 1-3	ILI	ond dw i	NSNT	NSNT
+59, 3	139, 4-6	ILI	dw i yn	NSNT	NSNT
+59, 4	139, 7-14	ILI	dw i ddim yn ffonio hi *just* because	ST	ST
+59, 5	139, 16-21	ILI	mae *mam* yn gweithio iddyn nhw	NST	NST
+59, 6	141, 1-5	ILI	ond dw i yn *sure*	NST	NST
+59, 7	141, 6-10	ILI	dw i ddim yn meddwl	NSNT	NSNT
+59, 8	141, 11-15	ILI	fysai hi yn meindio anyway	SNT	SNT
+59, 9	142, 1-10	ILI	ond *just* dw i ddim yn really isio ffonio hi	NST	ST
+59, 10	143, 1-9	ILI	ond faswn i yn fodlon dod i yr cyfarfod	SNT	NSNT
+59, 11	144, 1-4	ILI	because fair enough timod	NSNT	SNT
+59, 12	146, 1-1	ILI	ond	---	NSNT
+
+
+60, 1	147, 1-3	HAW	na wna i	NSNT	NSNT
+60, 2	147, 4-9	HAW	wna i ffonio hi dydd Llun	NSNT	NSNT
+60, 3	147, 10-12	HAW	os fedra i	---	NSNT
+
+
+61, 1	148, 1-2	ILI	nac ydw	NSNT	NSNT
+61, 2	149, 1-5	ILI	ond dw i yn meddwl	NSNT	NSNT
+61, 3	149, 6-18	ILI	bod os gei di wneud dydd Llun neu dydd Mawrth ar y hwyra	NSNT	NSNT
+61, 4	149, 19-22	ILI	fyddan ni yn iawn	SNT	NSNT
+61, 5	150, 1-2	ILI	because timod	NSNT	SNT
+61, 6	150, 3-14	ILI	fysen ni ddim yn gallu trefnu o *er* adeg yn hanner tymor	ST	NST
+61, 7	151, 1-2	ILI	because oedd	NSNT	SNT
+61, 8	151, 3-8	ILI	wedi bod mor brysur beth bynnag	---	NSNT
+
+
+62, 1	152, 1-2	HAW	do ac	NSNT	NSNT
+62, 2	152, 3-8	HAW	os wnawn ni *just* egluro hynna	NST	NST
+62, 3	152, 9-13	HAW	bod hi yn hanner tymor	NSNT	NSNT
+62, 4	152, 14-16	HAW	a bod ni	NSNT	NSNT
+62, 5	152, 17-20	HAW	wedi bod yn *Paris*	---	NST
+
+
+63, 1	153, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+63, 2	153, 5-9	ILI	dw i ddim yn meddwl	NSNT	NSNT
+63, 3	153, 10-13	ILI	basai hi yn meindio	NSNT	NSNT
+63, 4	154, 1-8	ILI	os *er* os wnawn ni *just* deud wrthi	NST	NST
+63, 5	155, 1-2	ILI	dan ni	NSNT	NSNT
+63, 6	155, 3-12	ILI	wedi bod ar ein gwyliau yn *Paris* efo yr ysgol	NST	NST
+63, 7	156, 1-3	ILI	dw i yn	NSNT	NSNT
+63, 8	156, 4-8	ILI	dw i ddim yn meddwl	NSNT	NSNT
+63, 9	156, 9-13	ILI	basai hi yn meindio anyway	SNT	SNT
+63, 10	156, 14-14	ILI	sti	SNT	NSNT
+63, 11	158, 1-10	ILI	*as* long *as* basa chdi yn ddigon cwrtais i ddeud	NST	ST
+63, 12	159, 1-8	ILI	dw yn ymddiheuro am peidio ffonio yn gynt	NSNT	NSNT
+63, 13	161, 1-5	ILI	dw i ddim yn meddwl	NSNT	NSNT
+63, 14	161, 6-10	ILI	basai hi yn meindio llawer	NSNT	NSNT
+63, 15	163, 1-7	ILI	achos mae hi ychydig yn fel yna	NSNT	NSNT
+63, 16	163, 8-10	ILI	ei hun weithiau	NSNT	NSNT
+63, 17	164, 1-9	ILI	mae yn colli pethau ar *desk* hi a pethau	NST	NST
+63, 19	166, 1-5	ILI	*so* dw i yn meddwl	NST	NST
+63, 20	166, 6-9	ILI	dw i yn meddwl	NSNT	NSNT
+63, 21	166, 10-15	ILI	basai hi yn *fine* efo hwnna	NST	NST
+63, 22	167, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+63, 23	167, 5-9	ILI	fydd hwnna yn un da	NSNT	NSNT
+63, 24	168, 1-8	ILI	*just* angen gweithio allan be dan ni angen	NST	NST
+63, 25	169, 1-6	ILI	mae hi yn sôn am y	---	NSNT
+
+
+64, 1	170, 1-3	HAW	pryd mae o	NSNT	NSNT
+64, 2	171, 1-3	HAW	Ebrill dau_ddeg_pump ia	---	NSNT
+
+
+65, 1	172, 1-2	ILI	Ebrill dau_ddeg_pump	---	NSNT
+
+
+66, 1	173, 1-4	HAW	*er* mae Mawrth dau_ddeg_pedwar	---	NST
+
+
+67, 1	174, 1-2	ILI	Mawrth dau_ddeg_pedwar	---	NSNT
+
+
+68, 1	176, 1-2	HAW	a wedyn	---	NSNT
+
+
+69, 1	177, 1-2	ILI	mae hwnna	NSNT	NSNT
+69, 2	178, 1-15	ILI	a wnes i weld *er* mewn yn *Golwg* neu ryw yn *er* ryw cylchgrawn Cymraeg	NST	NST
+69, 3	179, 1-6	ILI	dw i yn meddwl mai *Golwg*	NST	NST
+69, 4	179, 7-9	ILI	oedd o ddoe	NSNT	NSNT
+69, 5	180, 1-6	ILI	oedd yna *list* o *gigs* *Frizbee*	NST	NST
+69, 6	181, 1-9	ILI	ac *um* ond doedd un ni ddim lawr eto	NST	NST
+69, 8	183, 1-2	ILI	ond oedd	NSNT	NSNT
+69, 9	183, 3-4	ILI	mae bron	NSNT	NSNT
+69, 10	183, 5-9	ILI	â cyrraedd adeg yna though	SNT	SNT
+69, 11	185, 1-5	ILI	*er* timod yr y rei	NST	NST
+69, 12	185, 6-9	ILI	mae nhw yn adferteisio	NSNT	NSNT
+69, 13	186, 1-2	ILI	mae bron	NSNT	NSNT
+69, 14	186, 3-5	ILI	â cyrraedd Mawrth	NSNT	NSNT
+69, 15	187, 1-8	ILI	fath â mae nhw yn tua ganol Mawrth	NSNT	NSNT
+69, 17	189, 1-5	ILI	dydy o ddim yn hir	NSNT	NSNT
+69, 18	189, 6-11	ILI	dydy ni yn cael ei adferteisio	NSNT	NSNT
+69, 19	190, 1-4	ILI	bydd hynna yn ddoniol	NSNT	NSNT
+69, 20	192, 1-4	ILI	dw i isio gwybod	NSNT	NSNT
+69, 22	192, 19-26	ILI	de ta fath â *Gig* *Patagonia* ta be	---	NST
+
+
+70, 1	193, 1-10	HAW	*gig* *Patagonia* dw i yn meddwl dylen nhw galw hwnna	NST	NST
+70, 2	194, 1-7	HAW	achos oedd y llall yn Cyngerdd *Patagonia*	---	NST
+
+
+71, 1	196, 1-3	ILI	dw i wedi	NSNT	NSNT
+71, 2	196, 4-6	ILI	dw i wedi	NSNT	NSNT
+71, 3	196, 7-13	ILI	mae yr tocynnau yn barod gynno fi	---	NSNT
+
+
+72, 1	197, 1-2	HAW	*gig* *Patagonia*	---	NST
+
+
+73, 1	198, 1-9	ILI	dw i efo nhw yn barod ar y cyfrifiadur	---	NSNT
+
+
+74, 1	199, 1-3	HAW	tocynnau yr *gig*	---	NST
+
+
+75, 1	200, 1-12	ILI	ia yn barod i dim ond isio printio nhw *off* dw i	---	NST
+
+
+76, 1	201, 1-6	HAW	*oh* ti wedi wneud o ia	---	NST
+
+
+77, 1	202, 2-6	ILI	be dw i wedi wneud	NSNT	NSNT
+77, 2	202, 7-12	ILI	ydy *just* newid y rei cyngerdd	---	NST
+
+
+78, 1	203, 1-2	HAW	*o_k* dw	NST	NST
+78, 2	203, 3-6	HAW	dw i yn meddwl	NSNT	NSNT
+78, 3	203, 7-13	HAW	ddylwn ni cael rhein ar *gardboard* though	ST	ST
+78, 4	204, 1-7	HAW	achos mae rhein yn mwy fath â	---	NSNT
+
+
+79, 1	205, 1-7	ILI	*oh* na *just* deud dw i *oh*	NST	NST
+79, 2	205, 8-11	ILI	na dw i ddim	NSNT	NSNT
+79, 3	206, 1-8	ILI	fel ia *cardboard* neu timod fath â cardyn	NST	NST
+79, 4	206, 10-15	ILI	be dw feddwl rhwng y ddau	NSNT	NSNT
+79, 5	208, 1-10	ILI	*oh* na *just* ia dw i efo nhw yn barod	NST	NST
+79, 6	209, 1-12	ILI	*just* ond mae yr dyddiad yna pris yna *gig* *Patagonia* *Frizbee* *gigs*	NST	NST
+79, 7	210, 1-3	ILI	ond dw i	NSNT	NSNT
+79, 8	210, 4-7	ILI	ond mae yn dibynnu	NSNT	NSNT
+79, 9	210, 8-17	ILI	os dan ni yn cael rywun arall i wneud o	NSNT	NSNT
+79, 10	211, 1-5	ILI	dw i ddim yn meddwl	NSNT	NSNT
+79, 11	211, 6-8	ILI	gawn ni yn_gwnawn	---	NSNT
+
+
+80, 1	212, 1-1	HAW	dw	NSNT	NSNT
+80, 2	212, 2-7	HAW	dw i ddim yn meddwl na	NSNT	NSNT
+80, 3	213, 1-2	HAW	achos mae	NSNT	NSNT
+80, 4	213, 3-5	HAW	mae yn be	---	NSNT
+
+
+81, 1	214, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+81, 2	214, 5-12	ILI	bod o braidd rhy hwyr though na really	---	SNT
+
+
+82, 1	215, 1-3	HAW	achos mis sy	NSNT	NSNT
+82, 2	215, 4-5	HAW	gynnon ni	---	NSNT
+
+
+83, 1	216, 1-4	ILI	because mis ydy o	---	SNT
+
+
+84, 1	217, 1-4	HAW	ia mis i heddiw	---	NSNT
+
+
+85, 1	218, 1-2	ILI	a os	---	NSNT
+
+
+86, 1	219, 1-4	HAW	mae mis i heddiw	---	NSNT
+
+
+87, 1	220, 1-4	ILI	*oh* mis i heddiw	ST	NST
+87, 2	222, 1-5	ILI	because baswn i yn meddwl	NSNT	SNT
+87, 3	222, 6-9	ILI	fydd *lot* o bandiau	NST	NST
+87, 4	223, 1-9	ILI	neu gweld na un da dan ni isio arall	NSNT	NSNT
+87, 5	224, 1-13	ILI	fydd nhw wedi cael eu bwcio ar tri mis ella o flaen llaw	NSNT	NSNT
+87, 6	225, 1-4	ILI	*so* fysai hi ddim	NST	NST
+87, 7	225, 5-5	ILI	fysai	---	NSNT
+
+
+88, 1	226, 1-5	HAW	definitely fyswn i yn meddwl	---	SNT
+
+
+89, 1	227, 1-3	ILI	ond dw i	NSNT	NSNT
+89, 2	227, 4-7	ILI	dw i yn meddwl	NSNT	NSNT
+89, 3	227, 8-12	ILI	bod hwnna yn dda though	SNT	SNT
+89, 4	228, 1-9	ILI	dau fysai hi yn *nice* cael un arall though	ST	ST
+89, 5	228, 10-10	ILI	fasai	NSNT	NSNT
+89, 6	229, 1-5	ILI	*oh* dw i yn meddwl	NST	NST
+89, 7	229, 6-10	ILI	bod dau yn ddigon da	---	NSNT
+
+
+90, 1	230, 1-6	HAW	rhag ofn iddo cael yn mental	---	SNT
+
+
+91, 1	231, 1-4	ILI	dan ni ddim yn	NSNT	NSNT
+91, 2	232, 1-5	ILI	na dw i yn meddwl	NSNT	NSNT
+91, 3	232, 6-6	ILI	sti	NSNT	NSNT
+91, 4	232, 7-12	ILI	bod dau yn ddigon dda though	SNT	SNT
+91, 5	234, 1-9	ILI	ond pum punt a tair punt ddeudon ni de	---	NSNT
+
+
+92, 1	235, 1-4	HAW	pump a tair *yeah*	---	NST
+
+
+93, 1	236, 1-7	ILI	dydy hynna ddim yn rhy ddrwg na	---	NSNT
+
+
+94, 1	237, 1-4	HAW	dw i yn meddwl	NSNT	NSNT
+94, 2	237, 5-10	HAW	wnawn ni werthu yr rhan fwya	---	NSNT
+
+
+95, 1	238, 1-8	ILI	na ac hyd_yn_oed *er* os dan ni yn	NST	NST
+95, 2	238, 9-13	ILI	os mae pobl fath â	NSNT	NSNT
+95, 3	238, 14-22	ILI	awn ni i ddechrau gwerthu nhw o_gwmpas yr ysgol	NSNT	NSNT
+95, 4	239, 1-8	ILI	timod a i *round* ffrindiau ni a pobl	---	NST
+
+
+96, 1	240, 1-8	HAW	wedyn allan nhw *er* sôn wrth bobl eraill	---	NST
+
+
+97, 1	241, 1-6	ILI	ond ia os mae nhw *well*	NST	NST
+97, 2	241, 7-11	ILI	os mae nhw yn deud	NSNT	NSNT
+97, 3	242, 1-8	ILI	*ooh* mae hynna braidd yn ddrud am nhw	NST	NST
+97, 4	243, 2-14	ILI	fydd raid ni fynd â nhw lawr i pedair a dwy beth bynnag	NSNT	NSNT
+97, 5	243, 15-15	ILI	fedran	NSNT	NSNT
+97, 6	245, 1-17	ILI	ac anyway os mae rywun arall yn talu am y p_a a yr *er* llogi yr neuadd	NST	ST
+97, 7	245, 18-19	ILI	mae bob_dim	NSNT	NSNT
+97, 8	245, 20-25	ILI	dan ni yn wneud yn *profit*	NST	NST
+97, 9	247, 1-12	ILI	*so* fedra i cael cant yn talu pedair punt neu pedwar cant	NST	NST
+97, 10	247, 13-13	ILI	bysai	---	NSNT
+
+
+98, 1	248, 1-1	HAW	dw	NSNT	NSNT
+98, 2	248, 2-6	HAW	dw i yn meddwl na	NSNT	NSNT
+98, 3	248, 7-14	HAW	dyna ddylen ni gael peth arall yna efo	NSNT	NSNT
+98, 4	249, 1-8	HAW	*just* wnes i *just* ddim meddwl amdano fo	NST	NST
+98, 5	249, 9-12	HAW	pan oedden ni ffwrdd	---	NSNT
+
+
+99, 1	250, 1-2	ILI	a fi	---	NSNT
+
+
+100, 1	251, 1-2	HAW	achos oedd	---	NSNT
+
+
+101, 1	252, 1-12	ILI	na fi ac na o'n i wedi bod yn meddwl amdano fo	NSNT	NSNT
+101, 2	253, 1-10	ILI	ond o'n i yn meddwl pump_deg punt a ychydig mwy	NSNT	NSNT
+101, 3	254, 1-4	ILI	dim bod yn greedy	SNT	SNT
+101, 4	255, 1-9	ILI	*just* ti isio wneud mwya o yr cyfle yma	NST	NST
+101, 5	257, 1-3	ILI	gweld bod rywun	NSNT	NSNT
+101, 6	257, 4-13	ILI	wedi bod ddigon clên i roi y cyfle iddo chdi	NSNT	NSNT
+101, 7	258, 1-5	ILI	ac o'n i yn meddwl	NSNT	NSNT
+101, 8	259, 1-6	ILI	pump_deg be arall de be arall	NSNT	NSNT
+101, 9	260, 1-7	ILI	a ond mae hwnna yn syniad da	NSNT	NSNT
+101, 10	260, 8-11	ILI	dw i yn meddwl	---	NSNT
+
+
+102, 1	261, 1-9	HAW	a wedyn wnes i *just* *er* *just* bore yma	NST	NST
+102, 2	261, 10-17	HAW	wnes i feddwl amdano fo yn *sudden* fel	---	NST
+
+
+102, 3	262, 1-8	HAW	*oh* ie gynnon ni hwnna i dalu o	NST	NST
+103, 2	263, 20-20	ILI	mae	NSNT	NSNT
+103, 3	263, 21-25	ILI	be mae yn golygu really	SNT	SNT
+103, 4	263, 27-31	ILI	bod bob dim bob ceiniog	NSNT	NSNT
+103, 5	263, 32-35	ILI	dan ni yn wneud	NSNT	NSNT
+103, 6	263, 36-38	ILI	yn *brofit* de	NST	NST
+103, 7	265, 1-2	ILI	a dyna	NSNT	NSNT
+103, 8	265, 3-8	ILI	be dan ni isio erbyn rŵan	---	NSNT
+
+
+104, 1	266, 1-15	HAW	tibod be fyddan ni efo *profit* wedyn o tua dau gant a hanner o *Steddfod*	---	NST
+
+
+105, 1	267, 1-9	ILI	*well* dau gant yn braf baswn i yn gobeithio	---	NST
+
+
+106, 1	268, 1-4	HAW	dau gant *o_k* wnawn	NST	NST
+106, 2	268, 5-9	HAW	wnawn ni ddeud dau gant	NSNT	NSNT
+106, 3	269, 1-10	HAW	wedyn faint ti yn meddwl wnawn ni yn y *gig*	---	NST
+
+
+107, 1	270, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+107, 2	270, 5-8	ILI	bod hynna yn ofnadwy	SNT	NSNT
+107, 4	272, 1-7	ILI	because dw i ddim yn gwybod faint	NSNT	SNT
+107, 5	272, 8-12	ILI	mae neuadd *Ogwen* yn ddal	NST	NST
+107, 6	273, 1-1	ILI	dyna	NSNT	NSNT
+107, 7	273, 2-4	ILI	ydy yr *broblem*	NST	NST
+107, 9	275, 1-5	ILI	does gen i ddim clem	---	NSNT
+
+
+108, 1	276, 1-10	HAW	dw i yn trio meddwl faint o faint o rhesi	NSNT	NSNT
+108, 2	276, 11-13	HAW	sy yna dŵad	---	NSNT
+
+
+109, 1	277, 1-4	ILI	mae cant beth bynnag	NSNT	NSNT
+109, 2	278, 1-9	ILI	mae o yn *bound* o dal cant yn braf	---	NST
+
+
+110, 1	279, 1-5	HAW	mae yna o leia cant	NSNT	NSNT
+110, 2	280, 1-4	HAW	dw i yn *sure*	NST	NST
+110, 3	280, 5-15	HAW	bod yna tua dau gant o bobl yn gallu ffitio yna	---	NSNT
+
+
+111, 1	281, 1-1	ILI	dyna	NSNT	NSNT
+111, 2	281, 2-2	ILI	dyna	NSNT	NSNT
+111, 3	281, 3-5	ILI	ydy yr *thing*	NST	NST
+111, 4	282, 1-1	ILI	dw	NSNT	NSNT
+111, 5	282, 2-6	ILI	fedra i *just* ddim meddwl	---	NST
+
+
+112, 1	283, 1-2	HAW	trio meddwl	---	NSNT
+
+
+113, 1	284, 1-7	ILI	baswn i yn meddwl tua dau gant	NSNT	NSNT
+113, 2	284, 8-8	ILI	bysai	---	NSNT
+
+
+114, 1	285, 1-3	HAW	mae yn *sure*	NST	NST
+114, 2	285, 4-12	HAW	bod yna tua ugain ugain gadair yn bob rhes	NSNT	NSNT
+114, 3	286, 1-8	HAW	a faint o resi sy yna ti meddwl	---	NSNT
+
+
+115, 1	287, 1-5	ILI	dw i ddim yn *sure*	NST	NST
+115, 2	288, 1-1	ILI	dw	NSNT	NSNT
+115, 3	288, 2-10	ILI	dw i yn meddwl rhaid bod yna ddau gant	NSNT	NSNT
+115, 4	288, 11-14	ILI	dw i yn meddwl	NSNT	NSNT
+115, 5	288, 15-15	ILI	bysai	---	NSNT
+
+
+116, 1	289, 1-4	HAW	baswn i yn meddwl	NSNT	NSNT
+116, 2	289, 5-10	HAW	bod yna mwy na dau gant	NSNT	NSNT
+116, 3	290, 1-7	HAW	achos mae yna mwy na deg rhes	---	NSNT
+
+
+117, 1	291, 1-4	ILI	baswn i yn deud	NSNT	NSNT
+117, 2	292, 1-13	ILI	wnawn ni *just* deud dau gant *just* i fod yn saff fath â	NST	NST
+117, 3	292, 14-18	ILI	bod hwnna yn eitha *positive*	NST	NST
+117, 4	293, 1-2	ILI	fedrith o	NSNT	NSNT
+117, 5	293, 3-5	ILI	bod dim llai	NSNT	NSNT
+117, 6	295, 1-4	ILI	ond dw i yn	NSNT	NSNT
+117, 7	295, 5-8	ILI	mae yn anodd deud	SNT	NSNT
+117, 8	296, 1-8	ILI	because dw i trio cymharu fo i *Theatr_Gwynedd*	NST	ST
+117, 9	297, 1-9	ILI	ond fedra i ddim cael o yn pen fi	NSNT	NSNT
+117, 10	297, 11-16	ILI	be dw feddwl cymharu yr ddau	NSNT	NSNT
+117, 11	299, 1-6	ILI	ond dw i ddim yn meddwl	NSNT	NSNT
+117, 12	299, 7-16	ILI	bod o gymaint â hynna yn llai na fan yna	---	NSNT
+
+
+118, 1	300, 1-6	HAW	ia *sure* bod o rywbeth debyg	---	NST
+
+
+119, 1	301, 1-13	ILI	ond wnawn ni *just* deud dau gant *just* i fod yn hollol saff	---	NST
+
+
+120, 1	302, 1-2	HAW	dau gant	NSNT	NSNT
+120, 2	303, 1-6	HAW	wedyn *o_k* deuda average o pedair	NST	ST
+120, 3	304, 1-4	HAW	na mae yn *sure*	NST	NST
+120, 4	304, 5-10	HAW	bydd yna mwy o plant yna	NSNT	NSNT
+120, 5	304, 11-11	HAW	bydd	---	NSNT
+
+
+121, 1	305, 1-6	ILI	*just* average o tair punt ia	---	ST
+
+
+122, 1	306, 1-6	HAW	ond *er* average o tair punt	NST	ST
+122, 2	307, 1-7	HAW	a deuda bod o yn sell_out wedyn	---	SNT
+
+
+123, 1	308, 1-3	ILI	mae hynna yn	NSNT	NSNT
+123, 2	308, 4-9	ILI	mae hynna yn wneud chwe chant	NSNT	NSNT
+123, 3	309, 1-8	ILI	ond deuda baswn ni yn deud pum cant	NSNT	NSNT
+123, 4	309, 9-9	ILI	bysai	---	NSNT
+
+
+124, 1	310, 1-1	HAW	Iesu	NSNT	NSNT
+124, 2	312, 1-7	HAW	*so* wedyn pum cant a wedyn mae	NST	NST
+124, 3	312, 8-11	HAW	gynnon ni deuda na	---	NSNT
+
+
+125, 1	313, 1-7	ILI	a mae hynna heb y *bands* pethau	NST	NST
+125, 2	314, 1-5	ILI	timod y glow *sticks* yna	NST	ST
+125, 3	316, 1-6	ILI	rheina i werthu ar y noson	NSNT	NSNT
+125, 4	317, 1-8	ILI	dan ni dal efo rei o rheina ar_ôl	---	NSNT
+
+
+126, 1	318, 1-3	HAW	*um* os oes	NST	NST
+126, 2	318, 4-6	HAW	gynnon ni ddim	NSNT	NSNT
+126, 3	318, 7-10	HAW	wnawn ni ordro mwy	---	NSNT
+
+
+127, 1	319, 1-2	ILI	ordro mwy	NSNT	NSNT
+127, 2	320, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+127, 3	320, 5-5	ILI	ddylai	NSNT	NSNT
+127, 4	320, 6-6	ILI	bod	NSNT	NSNT
+127, 5	320, 7-10	ILI	gynnon ni dau *packet*	ST	NST
+127, 6	322, 1-5	ILI	because meddwl ar y trydydd	NSNT	SNT
+127, 7	322, 6-11	ILI	oedden ni *yeah* yn y cyngerdd	---	NST
+
+
+128, 1	323, 1-4	HAW	*yeah* dw i meddwl	---	NST
+
+
+129, 1	324, 1-3	ILI	ail neu trydydd	---	NSNT
+
+
+130, 1	325, 1-1	HAW	dan	NSNT	NSNT
+130, 2	325, 2-6	HAW	dan ni wedi gorffen tri	NSNT	NSNT
+130, 3	325, 7-8	HAW	dw meddwl	---	NSNT
+
+
+131, 1	326, 1-3	ILI	*oh* *oh* ond	---	NST
+
+
+132, 1	327, 1-7	HAW	gynnon ni ddau gant ohonyn nhw ar_ôl	NSNT	NSNT
+132, 2	328, 1-3	HAW	ond meddylia faint	NSNT	NSNT
+132, 3	328, 4-10	HAW	mae rheina wedi newydd wneud i ni	---	NSNT
+
+
+133, 1	330, 1-4	ILI	wnaeth rheina wneud *lot*	NST	NST
+133, 2	331, 1-8	ILI	ond dw i yn meddwl defnyddio rheina really	SNT	SNT
+133, 3	333, 1-8	ILI	oherwydd *well* dan ni ddim isio ordro gormod	NST	NST
+133, 4	334, 1-16	ILI	ond wedyn os o'n ni angen mwy rywbryd arall basen ni gallu ordro mwy beth bynnag	SNT	NSNT
+133, 5	336, 1-11	ILI	because *as* long *as* dan ni yn wneud y pres yn_dôl	NST	ST
+133, 6	336, 12-16	ILI	wnaethon ni dalu amdano fo	---	NSNT
+
+
+134, 1	337, 1-7	HAW	dan ni wedi wneud hynna yn barod	---	NSNT
+
+
+135, 1	338, 1-13	ILI	*oh* na efo yr os o'n ni am ordro mwy dw i feddwl	---	NST
+
+
+136, 1	339, 1-8	HAW	*oh* *yeah* bysen ni gallu *just* defnyddio pres	NST	NST
+136, 2	339, 9-16	HAW	dan ni wedi wneud yn barod efo pethau	---	NSNT
+
+
+137, 1	341, 1-8	ILI	a *er* because *er* dw ddim yn meddwl	NST	ST
+137, 2	341, 9-12	ILI	baswn i isio ordro	NSNT	NSNT
+137, 3	341, 13-29	ILI	gymaint yn_de cant neu ddau gant arall *just* digon i fath â cadw ni ticio drosodd tan	NST	NST
+137, 4	341, 30-34	ILI	dan ni yn tan Gorffennaf	NSNT	NSNT
+137, 5	341, 35-37	ILI	sy yn iawn	NSNT	NSNT
+137, 6	341, 38-38	ILI	bysai	NSNT	NSNT
+137, 7	341, 39-42	ILI	dw i yn meddwl	NSNT	NSNT
+137, 8	343, 1-5	ILI	ond dw i yn meddwl	NSNT	NSNT
+137, 9	343, 6-22	ILI	bod ni angen cael y *cheque* yna y *cheque* hanner cant neuadd *Ogwen* yna allan dydd Llun	---	NST
+
+
+138, 1	344, 1-4	HAW	dw i yn gwybod	NSNT	NSNT
+138, 2	345, 1-8	HAW	ond mae hwnna yn mynd yn hwyr wan	---	NSNT
+
+
+139, 1	346, 1-4	ILI	na because wnes i	NSNT	SNT
+139, 2	346, 5-12	ILI	oedd o ar *list* fi dydd Llun *er*	NST	NST
+139, 3	346, 13-15	ILI	timod dydd Llun	NSNT	NSNT
+139, 4	346, 16-21	ILI	pan oedden ni yn ysgol ddwytha	NSNT	NSNT
+139, 5	347, 1-13	ILI	ond rhwng bob dim because dim fi oedd yn mynd trwy yr *agenda*	NST	ST
+139, 6	348, 1-8	ILI	o'n i wedi sgwennu *agenda* yn hun lawr	NST	NST
+139, 7	349, 1-6	ILI	ond wnaeth *Tracy* ddim gweld o	---	NST
+
+
+140, 1	350, 1-6	HAW	dyla chdi *just* wedi deud bod	NST	NST
+140, 2	350, 7-11	HAW	bod chdi yn wneud o	NSNT	NSNT
+140, 3	350, 12-12	HAW	sti	---	NSNT
+
+
+141, 1	351, 1-4	ILI	na wnes ia wedyn	NSNT	NSNT
+141, 2	351, 5-7	ILI	wnes i anghofio	NSNT	NSNT
+141, 3	352, 1-7	ILI	wedyn wnaeth hi gychwyn ar un hi	SNT	NSNT
+141, 4	353, 1-6	ILI	because oedd hi efo rhywbeth pwysig	NSNT	SNT
+141, 5	353, 7-11	ILI	oedd hi isio sôn am	NSNT	NSNT
+141, 6	354, 1-4	ILI	dw ddim yn cofio	NSNT	NSNT
+141, 7	354, 5-7	ILI	be oedd o	NSNT	NSNT
+141, 8	355, 1-3	ILI	a wedyn ar_ôl	---	NSNT
+
+
+142, 1	356, 1-7	HAW	*oh* ella yr ella yr cyfarfod efo	---	NST
+
+
+143, 1	357, 1-5	ILI	dw i ddim yn cofio	NSNT	NSNT
+143, 2	358, 1-3	ILI	oedd yna rywbeth	NSNT	NSNT
+143, 3	359, 1-4	ILI	*er* na dim dyna	NST	NST
+143, 4	359, 5-7	ILI	be oedd o	NSNT	NSNT
+143, 5	360, 1-4	ILI	ond oedd yna rywbeth	NSNT	NSNT
+143, 6	360, 5-9	ILI	oedd hi isio sôn am	NSNT	NSNT
+143, 7	361, 1-12	ILI	a erbyn hynny wnes i anghofio yn hollol am y er *cheque*	NST	NST
+143, 8	363, 1-8	ILI	ond rhaid ni gael o allan *um* dydd	ST	NST
+143, 10	365, 1-6	ILI	because dw i efo cyfeiriad adre	SNT	SNT
+143, 11	366, 1-1	ILI	because	---	NSNT
+
+
+144, 1	367, 1-11	HAW	*oh* *yeah* *oh* *yeah* gynno fi hwnna hefyd dw i meddwl	NST	NST
+144, 2	368, 1-6	HAW	naci *boy* gwahanol ydy hwn wan	NST	NST
+144, 3	369, 1-12	HAW	dim yr un *boy* â y *boy* cynta wnaethon ni gyrru i	---	NST
+
+
+145, 1	370, 1-5	ILI	na dyn gwahanol ydy hwn	---	NSNT
+
+
+146, 1	371, 1-6	HAW	*oh* iawn *boy* gwahanol ydy hwn	---	NST
+
+
+147, 1	372, 1-7	ILI	ond dw i efo cyfeiriad o yn	NSNT	NSNT
+147, 2	373, 1-5	ILI	wnes i sgwennu fo lawr	NSNT	NSNT
+147, 3	374, 1-5	ILI	dw i yn gobeithio adre	NSNT	NSNT
+147, 4	375, 1-9	ILI	ond mae hwnna rhaid ni gael hwnna i ffwrdd	SNT	NSNT
+147, 5	377, 1-7	ILI	because otherwise dw i ddim yn meddwl	NSNT	SNT
+147, 6	377, 8-10	ILI	gawn ni o	NSNT	NSNT
+147, 7	379, 1-7	ILI	a dw i ddim yn beio fo	NSNT	NSNT
+147, 8	380, 1-2	ILI	ond mae	NSNT	NSNT
+147, 9	380, 3-5	ILI	wedi bod yn	NSNT	NSNT
+147, 10	380, 6-10	ILI	faswn i yn synnu dim	NSNT	NSNT
+147, 11	380, 11-11	ILI	petasai	NSNT	NSNT
+147, 12	380, 12-20	ILI	wedi bod tua mis ers i fi ffonio fo	---	NSNT
+
+
+148, 1	381, 1-3	HAW	mae yn *sure*	NST	NST
+148, 2	381, 4-4	HAW	dydy	NSNT	NSNT
+148, 3	382, 1-9	HAW	na actually na *just* cyn y cyngerdd oedd o	NST	ST
+148, 4	383, 1-4	HAW	*so* bron yn fis	---	NST
+
+
+149, 1	384, 1-15	ILI	ia bydd rhaid ni gael o allan felly *um* a_s_a_p dydd Llun neu dydd Mawrth	NST	ST
+149, 2	384, 16-16	ILI	bydd	---	NSNT
+
+
+150, 1	385, 1-2	HAW	bydd definitely	SNT	SNT
+150, 2	385, 3-6	HAW	dw i yn meddwl	---	NSNT
+
+
+151, 1	386, 1-6	ILI	ond *cheque* wnaeth o ofyn am	NST	NST
+151, 2	387, 1-2	ILI	wnaeth o	NSNT	NSNT
+151, 3	387, 3-8	ILI	wnaeth o ddim gofyn am cash	SNT	SNT
+151, 4	388, 1-4	ILI	dw i ddim hwnna	NSNT	NSNT
+151, 5	388, 5-7	ILI	ydy yr *problem*	NST	NST
+151, 6	388, 8-17	ILI	dw i yn meddwl efo cael *um* *account* fath â	NST	NST
+151, 7	388, 18-18	ILI	sy	NSNT	NSNT
+151, 8	388, 19-23	ILI	gynnon ni un beth bynnag	NSNT	NSNT
+151, 9	388, 24-31	ILI	ydy o un achos da neu beth bynnag	NSNT	NSNT
+151, 10	389, 1-5	ILI	dw i ddim yn gwybod	NSNT	NSNT
+151, 11	390, 1-5	ILI	dw i yn meddwl ella	NSNT	NSNT
+151, 12	390, 6-13	ILI	fydd rhaid i *Tracy* a *Ianto_Bryn* seinio fo	---	NST
+
+
+152, 1	391, 1-7	HAW	efo *cheques* dw i yn meddwl beth	NST	NST
+152, 2	391, 8-12	HAW	fysen ni yn gallu wneud	NSNT	NSNT
+152, 3	392, 1-3	HAW	mae yn *sure*	NST	NST
+152, 4	392, 4-6	HAW	be wneith *Tracy*	NST	NST
+152, 5	392, 7-9	HAW	ydy cymryd pres	NSNT	NSNT
+152, 6	392, 10-15	HAW	ei hun a wedyn sgwennu *cheque*	---	NST
+
+
+153, 1	393, 1-8	ILI	*oh* ella *oh* fysai *Tracy* yn gallu wneud	NST	NST
+153, 2	393, 9-9	ILI	fysai	---	NSNT
+
+
+154, 1	394, 1-1	HAW	dyna	NSNT	NSNT
+154, 2	394, 2-3	HAW	dan ni	NSNT	NSNT
+154, 3	394, 4-9	HAW	wedi bod yn wneud *so* *far*	---	NST
+
+
+155, 1	395, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+155, 2	395, 5-8	ILI	basai hynna yn hawsach	NSNT	NSNT
+155, 3	396, 1-6	ILI	ond hwnna hwnna a be arall	NSNT	NSNT
+155, 4	397, 1-7	ILI	oedd yna un *thing* arall dydd Llun	NST	NST
+155, 5	398, 1-9	ILI	hwnna a *Bara_caws* ydy *top* priorities ni beth bynnag	---	ST
+
+
+156, 1	399, 1-4	HAW	*oh* ia ffonio nhw	---	NST
+
+
+157, 1	400, 1-18	ILI	because o'n i wedi bod yn meddwl dros y *couple* o diwrnodau dwytha ers i ni gyrraedd yn_dôl	NST	ST
+157, 2	400, 19-24	ILI	be sy angen cael ei wneud	NSNT	NSNT
+157, 3	402, 1-5	ILI	oedd erthygl yna yn un	NSNT	NSNT
+157, 4	403, 1-6	ILI	a dw i wedi gyrru hwnna	NSNT	NSNT
+157, 5	404, 1-5	ILI	ac oedd dau peth arall	NSNT	NSNT
+157, 6	405, 1-5	ILI	rheina ddau dan nhw rŵan	SNT	NSNT
+157, 7	406, 1-8	ILI	because o'n i *just* yn meddwl *oh* *er*	ST	ST
+157, 8	407, 1-5	ILI	but mae yr *cheque* yna	NST	ST
+157, 9	408, 1-10	ILI	dw i actually yn poeni amdano ychydig bach rhag ofn	---	SNT
+
+
+158, 1	409, 1-4	HAW	yr hanner can punt	---	NSNT
+
+
+159, 1	410, 1-14	ILI	ia rhag ofn bod o wedi cymryd gweld bod ni ddim wedi gyrru un	NSNT	NSNT
+159, 2	410, 15-21	ILI	bod ni ddim isio fo dim mwy	---	NSNT
+
+
+160, 1	412, 1-3	HAW	mae yn *sure*	NST	NST
+160, 2	412, 4-7	HAW	fysai fo ddim though	---	SNT
+
+
+161, 1	413, 1-5	ILI	na dw i yn cymryd	NSNT	NSNT
+161, 2	413, 6-10	ILI	basai fo wedi ffonio fi	NSNT	NSNT
+161, 3	414, 1-6	ILI	*er* *well* dw i yn gobeithio	NST	NST
+161, 4	414, 7-11	ILI	basai fo wedi ffonio fi	---	NSNT
+
+
+162, 1	415, 1-3	HAW	mae yn *sure*	NST	NST
+162, 2	415, 4-5	HAW	fysai fo	---	NSNT
+
+
+163, 1	416, 2-4	ILI	faset ti feddwl	NSNT	NSNT
+163, 2	417, 1-10	ILI	dan ni really ddim isio colli yr dyddiad yna gweld	NSNT	SNT
+163, 3	417, 11-15	ILI	bod fi wedi trefnu fo	---	NSNT
+
+
+164, 1	419, 1-4	HAW	dw i yn gwybod	NSNT	NSNT
+164, 2	420, 1-7	HAW	a gynnon ni *Frizbee* i wneud o	---	NST
+
+
+165, 1	421, 1-2	ILI	ond wnaeth	---	NSNT
+
+
+166, 1	422, 1-2	HAW	a *gigs*	---	NST
+
+
+167, 1	423, 1-4	ILI	ond wnaeth o ddeud	NSNT	NSNT
+167, 2	423, 5-15	ILI	bod nhw ddim yn cael llawer o bobl isio nosweithiau yna	NSNT	NSNT
+167, 3	424, 1-5	ILI	felly dw i yn cymryd	NSNT	NSNT
+167, 4	424, 6-11	ILI	os oedd o yn canslo fo	NSNT	NSNT
+167, 5	424, 12-22	ILI	basen ni yn gallu cael o yn_dôl wedyn yn eitha hawdd	NSNT	NSNT
+167, 6	426, 1-5	ILI	*just* gan wnaeth o ddeud	NST	NST
+167, 7	426, 6-12	ILI	dw i yn meddwl na yn boreau	NSNT	NSNT
+167, 8	426, 13-20	ILI	mae o fwya prysur boreau *coffee* a pethau	NST	NST
+167, 9	428, 1-9	ILI	ella ddylen ni gael un o rheina bore *coffee*	NST	NST
+167, 10	429, 1-7	ILI	mae nhw yn gallu wneud dipyn weithiau	---	NSNT
+
+
+168, 1	430, 1-4	HAW	basan ni yn gallu	---	NSNT
+
+
+169, 1	431, 1-12	ILI	ond dw i yn meddwl rhywbeth o cant i *couple* o cannoedd	NST	NST
+169, 2	431, 13-16	ILI	mae nhw yn wneud	NSNT	NSNT
+169, 3	432, 1-2	ILI	dw i	---	NSNT
+
+
+170, 1	433, 1-4	HAW	basen ni yn gallu	---	NSNT
+
+
+171, 1	434, 1-6	ILI	dw i yn meddwl ddylen ni	---	NSNT
+
+
+172, 1	435, 1-12	HAW	petasen ni yn petasen ni yn roid y syniad i rywun arall	---	NSNT
+
+
+173, 1	436, 1-6	ILI	ia ond dw ddim yn meddwl	NSNT	NSNT
+173, 2	436, 7-12	ILI	wneith nhw wneud llawer o ddim_byd	---	NSNT
+
+
+174, 1	437, 1-3	HAW	na ond dal	---	NSNT
+
+
+175, 1	438, 1-13	ILI	*oh* na dw i yn meddwl na dim deud dylen ni wneud o	NST	NST
+175, 2	438, 14-15	ILI	ydw i	NSNT	NSNT
+175, 3	439, 1-6	ILI	oherwydd dan ni wedi wneud dipyn	NSNT	NSNT
+175, 4	441, 1-10	ILI	*well* dan ni efo dipyn go_lew *still* heb wedi wneud	---	NST
+
+
+176, 1	443, 1-4	HAW	dw i yn meddwl	NSNT	NSNT
+176, 2	443, 5-14	HAW	dan ni wedi wneud bron tair mil ni yn barod	---	NSNT
+
+
+177, 1	444, 1-16	ILI	dw i yn meddwl erbyn ni orffen efo yr lleill efo y chwech peth arall yna	NSNT	NSNT
+177, 2	444, 17-22	ILI	de dros siâr ni yn braf	---	NSNT
+
+
+178, 1	446, 1-3	HAW	a dw i	NSNT	NSNT
+178, 2	446, 4-11	HAW	dw i yn edrych ymlaen i yr *abseil*	NST	NST
+178, 3	447, 1-6	HAW	achos dw i yn *sure* y	NST	NST
+178, 4	447, 7-13	HAW	gwneith hwnna ddod â dros mil i_fewn	---	NSNT
+
+
+179, 1	448, 1-4	ILI	baswn i yn gobeithio	NSNT	NSNT
+179, 2	448, 5-6	ILI	wneith o	NSNT	NSNT
+179, 3	449, 1-5	ILI	faint oedd yn wneud o	NSNT	NSNT
+179, 4	450, 1-2	ILI	un_deg_tri de	---	NSNT
+
+
+180, 1	451, 1-1	HAW	un_deg_tri	---	NSNT
+
+
+181, 1	452, 1-1	ILI	un_deg_tri	---	NSNT
+
+
+182, 1	453, 1-5	HAW	wnes i deud tua un_deg_tri	NSNT	NSNT
+182, 2	454, 1-2	HAW	achos dyna	NSNT	NSNT
+182, 3	454, 3-6	HAW	ddeudais i wrth *Frank*	---	NST
+
+
+183, 1	455, 1-3	ILI	*Frank* na ddylai	NST	NST
+183, 2	455, 4-7	ILI	baswn i yn meddwl	NSNT	NSNT
+183, 3	455, 8-12	ILI	ddylai hwnna hel tua mil	NSNT	NSNT
+183, 4	456, 1-5	ILI	ond dw i yn meddwl	NSNT	NSNT
+183, 5	456, 6-7	ILI	ddylai pobl	NSNT	NSNT
+183, 6	456, 8-18	ILI	sy ddim wedi wneud llawer o ddim_byd hyd_yn_hyn really trio cael	NSNT	SNT
+183, 7	456, 19-22	ILI	llwythi o sponsors dylen	---	SNT
+
+
+184, 1	457, 1-5	HAW	dw i yn trio gwybod	NSNT	NSNT
+184, 2	457, 6-11	HAW	ond dw i ddim yn gwybod	NSNT	NSNT
+184, 3	457, 12-19	HAW	os mae nhw wedi actually cychwyn cael sponsors	---	SNT
+
+
+185, 1	458, 1-9	ILI	*oh* dw i ddim wedi cael llawer o neb	NST	NST
+185, 2	458, 10-13	ILI	dw i yn gwybod	---	NSNT
+
+
+186, 1	459, 1-7	HAW	dw i wedi cael hanner can punt	---	NSNT
+
+
+187, 1	460, 1-7	ILI	dw i ddim wedi cael dim *just*	---	NST
+
+
+188, 1	461, 1-4	HAW	sy ddim yn llawer	NSNT	NSNT
+188, 2	462, 1-1	HAW	ond	---	NSNT
+
+
+189, 1	463, 1-5	ILI	ond tibod be dw feddwl	NSNT	NSNT
+189, 2	463, 6-11	ILI	dw i yn mynd i *just*	---	NST
+
+
+190, 1	465, 1-2	HAW	achos mae	NSNT	NSNT
+190, 2	465, 3-5	HAW	gynnon ni be	NSNT	NSNT
+190, 3	466, 1-4	HAW	gynnon ni dros mis	---	NSNT
+
+
+191, 1	467, 1-14	ILI	*oh* ia *oh* na dw i yn gallu dallt fath â chdi a fi	NST	NST
+191, 2	468, 1-4	ILI	dw i yn gwybod	NSNT	NSNT
+191, 3	468, 5-9	ILI	bod chdi wedi gwneud dipyn	NSNT	NSNT
+191, 4	469, 1-6	ILI	ond dw i yn fodlon cyfaddef	NSNT	NSNT
+191, 5	469, 7-12	ILI	dw ddim wedi wneud ddim *just*	NST	NST
+191, 6	471, 1-5	ILI	*just* dw i yn gwybod	NST	NST
+191, 7	472, 1-5	ILI	ond tibod be dw feddwl	NSNT	NSNT
+191, 8	472, 6-7	ILI	dan ni	NSNT	NSNT
+191, 9	472, 8-12	ILI	wedi bod yn eitha prysur	NSNT	NSNT
+191, 10	473, 1-6	ILI	cyngerdd timod y pethau yma i_gyd	NSNT	NSNT
+191, 11	475, 1-5	ILI	ond dyn nhw ddim yn	NSNT	NSNT
+191, 12	475, 6-13	ILI	dyn nhw ddim yn weld yn wneud dim_byd	NSNT	NSNT
+191, 13	476, 1-15	ILI	*so* basa chdi yn meddwl basen nhw wedi gallu cael hel rywfaint beth bynnag bysachd	NST	NST
+191, 14	477, 1-10	ILI	ond dw i yn disgwyl nhw hel *lot* o sponsors	---	ST
+
+
+192, 1	478, 1-4	HAW	dw i yn gwybod	---	NSNT
+
+
+193, 1	479, 1-6	ILI	timod fath â cant yr un	NSNT	NSNT
+193, 2	479, 7-10	ILI	baswn i yn deud	---	NSNT
+
+
+194, 1	480, 1-4	HAW	o leia can punt	NSNT	NSNT
+194, 2	481, 1-3	HAW	dw i yn	NSNT	NSNT
+194, 3	481, 4-10	HAW	dw i yn aim_io am gan punt	NSNT	SNT
+194, 4	482, 1-6	HAW	dw i yn meddwl ddylen nhw	---	NSNT
+
+
+195, 1	483, 1-6	ILI	*oh* dw i ddim yn *sure*	NST	NST
+195, 2	484, 1-3	ILI	mae yn dibynnu	NSNT	NSNT
+195, 3	484, 4-8	ILI	be ydy o i fod	NSNT	NSNT
+195, 4	485, 1-8	ILI	fath â lle mae rhieni nhw yn gweithio	NSNT	NSNT
+195, 5	487, 1-7	ILI	os mae nhw yn gweithio efo ryw	---	NSNT
+
+
+196, 1	488, 1-3	HAW	dylai fod *Martha*	NST	NST
+196, 2	489, 1-4	HAW	basai hi yn gallu	---	NSNT
+
+
+197, 1	490, 1-12	ILI	dw i yn meddwl rei o nhw fath â hi ella *Megan*	ST	NST
+197, 2	491, 1-10	ILI	because mae rhieni nhw yn gweithio efo *lot* o bobl	NST	ST
+197, 3	491, 11-15	ILI	yndy a pobl eitha cefnog	NSNT	NSNT
+197, 4	492, 1-10	ILI	*so* dw i yn disgwyl i nhw gael dipyn go_lew	NST	NST
+197, 5	493, 1-7	ILI	ella rywun fath â *Richard* ddim gymaint	NST	NST
+197, 6	494, 1-6	ILI	ond tibod be dw feddwl os	---	NSNT
+
+
+198, 1	495, 1-7	HAW	*as* long *as* mae pawb yn trio	---	ST
+
+
+199, 1	496, 1-3	ILI	*oh* ia dyna	NST	NST
+199, 2	496, 4-8	ILI	be dw i yn ddeud	NSNT	NSNT
+199, 3	497, 1-4	ILI	os os mae o	NSNT	NSNT
+199, 4	497, 5-8	ILI	os dw i yn	NSNT	NSNT
+199, 5	497, 9-14	ILI	os fedri di weld yn amlwg	NSNT	NSNT
+199, 6	497, 15-22	ILI	bod o wedi roi ymdrech fath â hyd_yn_oed	NSNT	NSNT
+199, 7	497, 23-26	ILI	os bod gynno fo	NSNT	NSNT
+199, 8	497, 27-29	ILI	llwythi o bobl	NSNT	NSNT
+199, 10	497, 42-50	ILI	bod o wedi wneud ymdrech i fynd *round* pobl	NST	NST
+199, 11	499, 2-8	ILI	dw i ddim yn cwyno am hynna	NSNT	NSNT
+199, 12	500, 1-10	ILI	ond os mae nhw *just* ddim wedi wneud ymdrech wedyn	NST	NST
+199, 13	500, 11-13	ILI	faswn i ddim	NSNT	NSNT
+199, 14	500, 14-22	ILI	fyswn i ddim yn hapus efo hynna o_gwbl de	NSNT	NSNT
+199, 16	502, 1-6	ILI	basai hynna yn gwylltio fi braidd	NSNT	NSNT
+199, 17	503, 1-13	ILI	a petasen nhw ddim wedi timod *just* ddim wedi trio cael pobl *well*	NST	NST
+199, 18	503, 14-19	ILI	dydy hynna ddim wedyn yn iawn	NSNT	NSNT
+199, 19	503, 20-21	ILI	nag ydy	---	NSNT
+
+
+200, 1	505, 1-10	HAW	o'n i yn meddwl mae yn *sure* efo yr *abseil*	NST	NST
+200, 2	505, 11-13	HAW	mae yn *sure*	NST	NST
+200, 3	505, 14-14	HAW	bod	NSNT	NSNT
+200, 4	505, 15-15	HAW	gynnon	NSNT	NSNT
+200, 5	505, 16-21	HAW	gynnon ni o leia deg mil	---	NSNT
+
+
+201, 1	506, 1-5	ILI	be ti yn feddwl *um*	---	NST
+
+
+202, 1	507, 1-5	HAW	efo yr chwech peth yna	---	NSNT
+
+
+203, 1	508, 1-11	ILI	*oh* be ti yn feddwl erbyn Gorffennaf rŵan neu erbyn pryd	---	NST
+
+
+204, 1	509, 1-4	HAW	*yeah* mae yn *sure*	NST	NST
+204, 2	509, 5-5	HAW	bydd	NSNT	NSNT
+204, 3	509, 6-10	HAW	gynnon ni o leia hynna	---	NSNT
+
+
+205, 1	510, 1-10	ILI	ydyn ni fod yn er talu yn Ebrill ta Mehefin	---	NSNT
+
+
+206, 1	511, 1-1	HAW	Mehefin	NSNT	NSNT
+206, 2	513, 1-2	HAW	na wnaeth	NSNT	NSNT
+206, 3	513, 3-6	HAW	wnaeth *Tracy* ffonio nhw	---	NST
+
+
+207, 1	514, 1-7	ILI	na *just* pan wnaeth *Frank* ddod draw	NST	NST
+207, 2	514, 8-14	ILI	wnaeth o ddeud Ebrill dal i fod	NSNT	NSNT
+207, 3	516, 1-2	ILI	wnes i	---	NSNT
+
+
+208, 1	517, 1-13	HAW	ond dw i yn meddwl ddylen ni smalio wrth y lleill na Ebrill	NSNT	NSNT
+208, 2	517, 14-22	HAW	ydy o i trio cael nhw i codi sanau	NSNT	NSNT
+208, 3	519, 1-5	HAW	dw i ddim yn meddwl	NSNT	NSNT
+208, 4	519, 6-8	HAW	wneith o weithio	---	NSNT
+
+
+209, 1	520, 1-6	ILI	na dw i ddim yn meddwl	NSNT	NSNT
+209, 2	520, 7-13	ILI	wneith o weithio i deud y gwir	NSNT	NSNT
+209, 3	520, 14-15	ILI	na wneith	NSNT	NSNT
+209, 4	520, 17-19	ILI	be dw feddwl	---	NSNT
+
+
+210, 1	521, 1-1	HAW	ond	---	NSNT
+
+
+211, 1	522, 1-11	ILI	does yna ddim_byd wedi gweithio i gael nhw i godi sanau	NSNT	NSNT
+211, 2	523, 1-7	ILI	dim dim_byd o_gwbl dan ni wedi wneud	---	NSNT
+
+
+212, 1	524, 1-13	HAW	*oh* faint o faint o weithiau yn y cyfarfodydd dan ni wedi ddeud	---	NST
+
+
+213, 1	525, 1-8	ILI	baswn i yn deud bob cyfarfod bron iawn	NSNT	NSNT
+213, 2	526, 1-6	ILI	*well* yn ddiweddar dan ni ddim	ST	NST
+213, 3	527, 1-3	ILI	because dan ni	NSNT	SNT
+213, 4	527, 4-9	ILI	wedi bod yn brysur efo pethau	NSNT	NSNT
+213, 5	528, 1-2	ILI	ond timod	NSNT	NSNT
+213, 6	528, 3-5	ILI	be dw feddwl	NSNT	NSNT
+213, 7	528, 6-9	ILI	baswn i yn deud	NSNT	NSNT
+213, 8	528, 10-18	ILI	bod ni tua wedi deud tua *pph* deg gwaith	NST	NST
+213, 9	528, 19-22	ILI	baswn i yn deud	---	NSNT
+
+
+214, 1	529, 1-2	HAW	o leia	NSNT	NSNT
+214, 2	530, 1-6	HAW	dyla chdi wedi bod yna pan	NSNT	NSNT
+214, 3	530, 7-11	HAW	pan oedda chdi ddim yna	---	NSNT
+
+
+215, 1	531, 1-7	ILI	*oh* ia wnes i benderfynu mynd adre	NST	NST
+215, 2	532, 1-7	ILI	o'n i wedi cael llond bol do	---	NSNT
+
+
+216, 1	533, 3-7	HAW	oedd hwnna yn un dda	---	NSNT
+
+
+217, 1	534, 1-5	ILI	be be oedd yn hwnna	NSNT	NSNT
+217, 2	535, 1-6	ILI	dw i ddim yn cofio hwnna	NSNT	NSNT
+217, 3	536, 1-4	ILI	do'n i ddim yna	---	NSNT
+
+
+218, 1	537, 1-1	HAW	wnaeth	NSNT	NSNT
+218, 2	537, 2-5	HAW	wnaethon ni gyd gwyno	---	NSNT
+
+
+219, 1	538, 1-7	ILI	*well* wnaeth *Tracy* a fi cwyno pam	NST	NST
+219, 2	538, 8-13	ILI	bod neb arall yn wneud dim_byd	NSNT	NSNT
+219, 3	539, 1-5	ILI	wnaeth o gael unrhyw effaith	---	NSNT
+
+
+220, 1	540, 1-1	HAW	be	---	NSNT
+
+
+221, 1	541, 1-5	ILI	wnaeth o gael unrhyw effaith	---	NSNT
+
+
+222, 1	542, 1-4	HAW	*um* am yr wythnos	ST	NST
+222, 3	544, 1-2	HAW	*so* *hmm*	---	NST
+
+
+223, 1	545, 1-1	ILI	dyna	NSNT	NSNT
+223, 2	545, 2-7	ILI	be sy yn digwydd fel arfer	NSNT	NSNT
+223, 3	546, 1-9	ILI	mae o yn cael effaith am tua dau ddiwrnod	NSNT	NSNT
+223, 4	547, 1-8	ILI	a wedyn mae nhw yn anghofio amdano fo	---	NSNT
+
+
+224, 1	548, 1-9	HAW	ia dw i yn falch rŵan na dydd Llun	NSNT	NSNT
+224, 2	548, 10-12	HAW	mae yr cyfarfodydd	NSNT	NSNT
+224, 3	549, 1-6	HAW	achos mae o yn fath â	NSNT	NSNT
+224, 4	549, 7-11	HAW	mae yn cychwyn yr wsnos	---	NSNT
+
+
+225, 1	550, 1-4	ILI	dw i yn gwybod	NSNT	NSNT
+225, 2	551, 1-7	ILI	dydd Mawrth dan ni yn dydd Mawrth	NSNT	NSNT
+225, 3	551, 8-13	ILI	dan ni yn licio *just* tibod	---	NST
+
+
+226, 1	552, 1-5	HAW	ia achos bod o yn	NSNT	NSNT
+226, 2	553, 1-8	HAW	*oh* fysai ddim yn wneud gwahaniaeth rwan anyway	---	ST
+
+
+227, 1	554, 1-7	ILI	*oh* ia tibod be dw feddwl ond	---	NST
+
+
+228, 1	555, 1-11	HAW	*oh* am hynna *oh* wnes i anghofio am hynna tan wan	---	NST
+
+
+229, 1	556, 1-7	ILI	a fi tan wnest ti atgoffa fi	NSNT	NSNT
+229, 2	556, 8-19	ILI	bod ni ddim yn *cael* mynd adre pnawn dydd Mawrth dim mwy	NST	NST
+229, 3	558, 1-2	ILI	*oh* paid	---	NST
+
+
+230, 1	559, 1-7	HAW	bore dydd Iau dw i cael o	NSNT	NSNT
+230, 2	560, 1-2	HAW	o'n i	NSNT	NSNT
+230, 3	561, 1-11	HAW	*yeah* ac at least gest ti o yr wsnos wsnos ola	---	ST
+
+
+231, 1	562, 1-18	ILI	o'n i yn *oh* o'n i yn o'n i yn meddwl bod hynna yn o'n i mor lwcus	---	NST
+
+
+232, 1	563, 1-6	HAW	oedda chdi yn ofnadwy o lwcus	---	NSNT
+
+
+233, 1	564, 1-3	ILI	dw yr adeg	NSNT	NSNT
+233, 2	564, 4-9	ILI	wnaethon nhw ddeud o'n i adre	---	NSNT
+
+
+234, 1	567, 1-7	HAW	*oh* na wnaeth o annoy_o fi hefyd	NST	ST
+234, 2	568, 1-13	HAW	achos o'n i yn gorfod bod yn ysgol dydd Gwener trwy yr dydd	NSNT	NSNT
+234, 3	568, 14-17	HAW	pan doedd neb arall	---	NSNT
+
+
+235, 1	569, 1-8	ILI	*oh* ia na doedd hynna ddim yn deg	NST	NST
+235, 2	569, 9-10	ILI	nag oedd	NSNT	NSNT
+235, 3	570, 1-3	ILI	ond dw i	NSNT	NSNT
+235, 4	570, 4-8	ILI	dw i ddim yn meddwl	NSNT	NSNT
+235, 5	570, 9-12	ILI	bod hi yn deg	NSNT	NSNT
+235, 6	570, 13-17	ILI	bod nhw wedi stopio ni	NSNT	NSNT
+235, 7	570, 18-18	ILI	sti	---	NSNT
+
+
+236, 1	571, 1-7	HAW	na achos dydy o ddim yn mynd	NSNT	NSNT
+236, 2	571, 8-22	HAW	dydy o ddim yn mynd i wneud i pobl eraill dilyn y rheolau wan nac	---	NSNT
+
+
+237, 1	572, 1-10	ILI	na pwy bynnag *er* sy yn torri yr rheolau ynglŷn	ST	NST
+237, 2	573, 1-14	ILI	because fath â fath â mae yna *lot* o nhw yn torri yr rheolau	NST	ST
+237, 3	574, 1-8	ILI	ti yn gwybod yn iawn pwy ydyn nhw	NSNT	NSNT
+237, 4	576, 1-4	ILI	baswn i yn deud	NSNT	NSNT
+237, 5	576, 5-14	ILI	bod tua *pph* hanner tri chwarter y flwyddyn yn wneud	NST	NST
+237, 6	576, 15-15	ILI	does	---	NSNT
+
+
+238, 1	577, 1-15	HAW	*well* dw i yn wneud ond fath â *just* mynd lawr y stryd a pethau	NST	NST
+238, 2	578, 1-1	HAW	ond	---	NSNT
+
+
+239, 1	579, 1-6	ILI	*oh* na mae hynna yn iawn	NST	NST
+239, 2	579, 8-19	ILI	be dw feddwl mynd lawr y stryd os ti ddim efo gwers	---	NSNT
+
+
+240, 1	580, 1-4	HAW	fath â dw i	NSNT	NSNT
+240, 2	580, 5-7	HAW	dw i ddim	NSNT	NSNT
+240, 3	580, 8-8	HAW	dw	NSNT	NSNT
+240, 4	580, 9-19	HAW	dw i ddim yn methu gwersi na dim_byd *oh* fel arfer	---	NST
+
+
+241, 1	581, 1-13	ILI	*oh* na ond *oh* chwarae teg ti yn rhan fwya o gwersi chdi	NST	NST
+241, 2	582, 1-10	ILI	a ti yn mynd lawr stryd yn gwersi rhydd chdi	NSNT	NSNT
+241, 3	583, 1-5	ILI	ond dw i yn meddwl	NSNT	NSNT
+241, 4	583, 6-10	ILI	bod hynna yn fair enough	SNT	SNT
+241, 6	584, 28-29	ILI	rhydd yn_dwyt	---	NSNT
+
+
+242, 1	586, 1-1	HAW	mae	NSNT	NSNT
+242, 2	586, 2-6	HAW	mae hynna *just* yn amlwg	---	NST
+
+
+243, 1	587, 1-6	ILI	*yeah* mae hynna *just* *common* *sense*	NST	NST
+243, 2	587, 7-8	ILI	nag ydy	NSNT	NSNT
+243, 3	588, 1-4	ILI	ond mae yna rei	NSNT	NSNT
+243, 4	588, 5-11	ILI	sy yn mynd adre deuda efo nhw	NSNT	NSNT
+243, 5	588, 12-18	ILI	llwythi o gwersi a methu nhw i_gyd	NSNT	NSNT
+243, 6	589, 1-2	ILI	ond mae	NSNT	NSNT
+243, 7	589, 3-16	ILI	mae nhw dal yn wneud rŵan fath â o'n nhw yn wneud diwedd tymor	NSNT	NSNT
+243, 8	589, 17-27	ILI	pan oedden nhw wedi stopio yr *thing* bore neu pnawn *off*	NST	NST
+243, 9	590, 1-7	ILI	ond *just* smalio bod nhw yn sâl	NST	NST
+243, 10	590, 8-9	ILI	oedden nhw	---	NSNT
+
+
+244, 1	591, 1-20	HAW	*oh* o'n i o'n i yn licio yr peth oedd o yn wneud sgwennu yn y peth seinio allan yna	---	NST
+
+
+245, 1	592, 1-5	ILI	*oh* oedd hynna yn ddoniol	NST	NST
+245, 2	592, 6-7	ILI	oedd hynna	---	NSNT
+
+
+246, 1	594, 1-8	HAW	sgwn i be feddwl am rhai tro nesa	---	NSNT
+
+
+247, 1	595, 1-2	ILI	*ha* *ha*	ST	NST
+247, 2	597, 1-5	ILI	wna i feddwl am rei	NSNT	NSNT
+247, 3	599, 1-6	ILI	ond dw i ddim yn hapus	NSNT	NSNT
+247, 4	599, 7-15	ILI	bod fi ddim yn cael pnawn dydd Mawrth ffwrdd	SNT	NSNT
+247, 5	601, 1-2	ILI	0 0	---	NSNT
+
+
+248, 1	602, 1-5	HAW	ond mae yn iawn er	NSNT	NSNT
+248, 2	603, 1-16	HAW	fel os o'n i efo pnawn *off* baswn i yn gallu *just* mynd i yr *Edge*	NST	NST
+248, 3	604, 1-9	HAW	a wedyn baswn i ella yn deud dim gwersi	NSNT	NSNT
+248, 4	605, 1-6	HAW	a baswn i yn mynd adre	NSNT	NSNT
+248, 5	605, 7-7	HAW	yli	NSNT	NSNT
+248, 6	606, 1-5	HAW	dw i yn meddwl mai	NSNT	NSNT
+248, 7	606, 6-10	HAW	dyna ddyla chdi wneud hefyd	---	NSNT
+
+
+249, 1	607, 1-5	ILI	dw i ddim yn *sure*	NST	NST
+249, 2	608, 1-3	ILI	wna i weld	NSNT	NSNT
+249, 3	608, 4-8	ILI	sut dw i yn teimlo	NSNT	NSNT
+249, 4	608, 9-10	ILI	dw meddwl	SNT	NSNT
+249, 5	609, 1-8	ILI	because mae dydd Mawrth yn ddiwrnod ti gallu	SNT	SNT
+249, 6	610, 1-8	ILI	because mae o yn *just* diwrnod gwyliau fi	NST	ST
+249, 7	611, 1-7	ILI	does gynno fi ddim_byd gwers gynta na	SNT	NSNT
+249, 8	612, 1-5	ILI	key *skills* hanes bugeiliol dim_byd	---	ST
+
+
+250, 1	613, 1-2	HAW	*hey* does	NST	NST
+250, 2	613, 3-8	HAW	gynnon ni ddim Sbaeneg wan na	---	NSNT
+
+
+251, 1	614, 1-15	ILI	na *so* dim ond *uh* *pph* hanes sy gynno fi fath â gwers iawn tibod	NST	NST
+251, 2	614, 16-18	ILI	be dw feddwl	---	NSNT
+
+
+252, 1	617, 1-10	HAW	yn aml does gynno fi byth bugeiliol really ac *er*	---	ST
+
+
+253, 1	618, 1-7	ILI	mae wedi dod yn_dôl ar_ôl hanner tymor	---	NSNT
+
+
+254, 1	619, 1-5	HAW	*oh* nag ydy *oh* na	---	NST
+
+
+255, 1	620, 1-3	ILI	ond dw ddim	NSNT	NSNT
+255, 2	620, 4-9	ILI	be wnes i gael i ddallt	NSNT	NSNT
+255, 3	620, 10-14	ILI	oedd na *um* dosbarth arall	NST	NST
+255, 4	620, 15-18	ILI	oedd efo hi gynta	---	NSNT
+
+
+256, 1	621, 1-8	HAW	*oh* ia dosbarth *Tracy* oedd efo hi gynta	---	NST
+
+
+257, 1	622, 1-1	ILI	ond	---	NSNT
+
+
+258, 1	623, 1-1	HAW	dal	---	NSNT
+
+
+259, 1	624, 1-5	ILI	bydd hi wedi gadael gwaith	NSNT	NSNT
+259, 2	624, 6-6	ILI	bydd	NSNT	NSNT
+259, 3	625, 1-18	ILI	*thing* yna wneud *um* y *thing* *Powerpoint* ar un_ai pa swydd dan ni isio wneud neu pa coleg	---	NST
+
+
+260, 1	626, 1-6	HAW	*oh* ia fydd hynna yn *o_k*	NST	NST
+260, 2	627, 1-8	HAW	ga i *just* ga i *just* ran Caerdydd	---	NST
+
+
+261, 1	628, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+261, 2	628, 5-8	ILI	bydd o yn *alright*	NST	NST
+261, 3	629, 1-3	ILI	dw i wedi	NSNT	NSNT
+261, 4	629, 4-12	ILI	dydy *prospectuses* fi ddim wedi cyrraedd dal i fod	NST	NST
+261, 5	631, 1-4	ILI	dw i ddim efo	NSNT	NSNT
+261, 6	631, 5-13	ILI	dw i ddim yn hapus efo Dulyn na *Wimbledon*	NST	NST
+261, 8	633, 1-9	ILI	ond efo yr un ges i o lle gyrfaoedd	NSNT	NSNT
+261, 9	633, 10-14	ILI	dw i edrych trwy hwnna	NSNT	NSNT
+261, 10	634, 1-12	ILI	be i wneud ydy cyn mynd â fo yn_dôl i yr ysgol	NSNT	NSNT
+261, 11	634, 13-21	ILI	ydy sganio yr tudalennau i sganio tudalennau yr cyrsiau	NSNT	NSNT
+261, 12	634, 22-26	ILI	dw i mwya diddordeb yn	NSNT	NSNT
+261, 13	635, 1-9	ILI	*so* wedyn os oedd *Nicola* yn dod a deud	NST	NST
+261, 14	636, 1-6	ILI	*ooh* pa waith ti wedi wneud	NST	NST
+261, 15	637, 1-5	ILI	ga i fynd fath â	NSNT	NSNT
+261, 16	638, 1-8	ILI	*hey* na dw i wedi ordro rei eraill	NST	NST
+261, 17	639, 1-7	ILI	ond dyn nhw ddim wedi cyrraedd eto	NSNT	NSNT
+261, 19	641, 1-5	ILI	ella wneith nhw gyrraedd heddiw	NSNT	NSNT
+261, 20	642, 1-7	ILI	dw i yn deud hynna bob diwrnod	NSNT	NSNT
+261, 21	643, 1-4	ILI	dw i yn gobeithio	NSNT	NSNT
+261, 22	643, 5-8	ILI	wneith nhw gyrraedd heddiw	---	NSNT
+
+
+262, 1	644, 1-8	HAW	wyt chdi yn sôn am hynna trwy *Paris*	---	NST
+
+
+263, 1	645, 1-4	ILI	dw i yn gwybod	---	NSNT
+
+
+264, 1	646, 1-3	HAW	*ooh* dw gobeithio	NST	NST
+264, 2	646, 4-9	HAW	bod nhw wedi cyrraedd *ooh* gobeithio	NST	NST
+264, 3	646, 10-15	HAW	bod nhw wedi cyrraedd *ooh* gobeithio	NST	NST
+264, 4	646, 16-19	HAW	bod nhw wedi cyrraedd	---	NSNT
+
+
+265, 1	647, 1-5	ILI	o'n i isio nhw gyrraedd	NSNT	NSNT
+265, 2	648, 1-5	ILI	na dw i yn gobeithio	NSNT	NSNT
+265, 3	648, 6-10	ILI	fydd nhw wedi cyrraedd heddiw	NSNT	NSNT
+265, 4	649, 1-4	ILI	dw ddim yn meddwl	NSNT	NSNT
+265, 5	650, 1-5	ILI	ond dw i yn gobeithio	NSNT	NSNT
+265, 6	651, 1-10	ILI	*oh* wnest ti gyrru cardyn *post* o *Paris* i rywun	NST	NST
+265, 7	653, 1-8	ILI	wnes i sgwennu rei ond ddim gyrru nhw	---	NSNT
+
+
+266, 1	654, 1-3	HAW	*ah* ia dyna	NST	NST
+266, 2	654, 4-7	HAW	wnes i yn *Austria*	---	NST
+
+
+267, 1	655, 1-9	ILI	*so* mae *mam* a *dad* wedi cael un nhw	NST	NST
+267, 2	655, 10-13	ILI	de *Jim* a *Janet*	NST	NST
+267, 3	656, 1-8	ILI	ac oedd un nhw efo *stamp* *just* heb	NST	NST
+267, 4	656, 9-10	ILI	ei gyrru	---	NSNT
+
+
+268, 1	657, 1-2	HAW	*stamp* Ffrangeg	---	NST
+
+
+269, 1	658, 1-3	ILI	ia *stamp* Ffrangeg	ST	NST
+269, 2	659, 1-3	ILI	because oedd *Delyth*	---	ST
+
+
+270, 1	660, 1-6	HAW	*so* wnest ti ddim gyrru fo	---	NST
+
+
+271, 1	661, 1-1	ILI	naddo	NSNT	NSNT
+271, 2	661, 2-7	ILI	oedd *Delyth* efo dau *stamp* sbâr	NST	NST
+271, 3	662, 1-16	ILI	na do'n i ddim isio gyrru dau efo *stamp* a ddim rei pawb arall ti gweld	NST	NST
+271, 4	663, 1-5	ILI	*er* ceith *Mari* un hi	NST	NST
+271, 5	663, 6-10	ILI	pan mae yn cyrraedd adre	NSNT	NSNT
+271, 6	664, 1-9	ILI	mae *Kevin* a *mam* wedi mynd i weld nain	NST	NST
+271, 7	664, 10-12	ILI	timod nain heddiw	NSNT	NSNT
+271, 8	666, 1-5	ILI	*so* dw i yn gobeithio	NST	NST
+271, 9	666, 6-12	ILI	bydd nhw wedi cofio mynd â hwnna	NSNT	NSNT
+271, 10	667, 1-8	ILI	a beth bynnag sy yn mynd i *Bryn_Bela*	NST	NST
+271, 11	667, 9-9	ILI	nesa	NSNT	NSNT
+271, 12	667, 10-13	ILI	geith fynd â hwnna	SNT	NSNT
+271, 13	668, 1-1	ILI	*so*	---	NST
+
+
+272, 1	669, 1-4	HAW	wnes i *just* ddim	NST	NST
+272, 2	669, 5-7	HAW	boddran prynu dim	---	NSNT
+
+
+273, 1	670, 1-3	ILI	*oh* wnes i	ST	NST
+273, 2	671, 1-10	ILI	because oedd o yn fath â pymtheg am un *Euro*	---	ST
+
+
+274, 1	672, 1-2	HAW	*ha* *ha*	---	NST
+
+
+275, 1	673, 1-7	ILI	tibod *um* draws lôn i yr *Louvre*	NST	NST
+275, 2	675, 1-8	ILI	yn un o yr llefydd bach yna de	SNT	NSNT
+275, 3	676, 1-4	ILI	because ges i chwech	NSNT	SNT
+275, 4	677, 1-5	ILI	wnaeth *Delyth* *Lowri* a *Fflur*	NST	NST
+275, 5	677, 6-11	ILI	wnaeth ni roi pymtheg rhyngddon ni	NSNT	NSNT
+275, 6	678, 1-13	ILI	ond *yeah* pymtheg am un *Euro* mae hynna yn llai na deg ceiniog	NST	NST
+275, 7	679, 1-11	ILI	mae hynna fath â pump ceiniog neu rhywbeth am cardyn *post*	NST	NST
+275, 9	681, 1-9	ILI	oedden nhw yn eitha *nice* deud y gwir though	ST	ST
+275, 10	682, 1-4	ILI	ges i un *er*	NST	NST
+275, 11	682, 5-11	ILI	gwirion i *Jim* a *Janet* un *l'Opera*	NST	NST
+275, 12	683, 1-4	ILI	rywle doedden ni ddim	NSNT	NSNT
+275, 13	683, 5-8	ILI	wedi bod yn hyd_yn_oed	SNT	NSNT
+275, 14	684, 1-15	ILI	*just* because o'n i yn meddwl bod o yn ddoniol i gael o iddo nhw	---	ST
+
+
+276, 1	685, 1-4	HAW	mi fysa chdi bysachd	---	NSNT
+
+
+277, 1	686, 1-6	ILI	na *oh* oedd *Jim* yn licio	NST	NST
+277, 2	686, 7-13	ILI	bod o wedi cael cardyn *post* though	ST	ST
+277, 3	687, 1-9	ILI	ond oedd *Janet* ddim yna neithiwr i weld o	NST	NST
+277, 4	688, 1-4	ILI	ond wnes i fynd	NSNT	NSNT
+277, 5	690, 1-4	ILI	i *Jim* a *Janet*	NST	NST
+277, 6	691, 1-4	ILI	oedd o yn lovely	---	SNT
+
+
+278, 1	692, 1-3	HAW	chwarae teg chdi	---	NSNT
+
+
+279, 1	693, 1-1	ILI	paid	NSNT	NSNT
+279, 2	693, 2-4	ILI	bod fel yna	---	NSNT
+
+
+280, 1	694, 1-8	HAW	ti gwybod bod fi *just* o_hyd yn *sarcastic*	---	NST
+
+
+281, 1	695, 1-5	ILI	dydy hynna ddim yn *nice*	NST	NST
+281, 2	696, 1-11	ILI	*yeah* dw i ddim ti gwybod pobl o flaen tŷ fi	---	NST
+
+
+282, 1	697, 1-9	HAW	*er* pobl sy byw dros ffordd i tŷ chdi	---	NST
+
+
+283, 1	698, 1-11	ILI	na tibod mae nhw yn wneud twll o flaen tŷ fi	NSNT	NSNT
+283, 2	700, 1-7	ILI	yn lôn wnest ti ddim nabod heddiw	---	NSNT
+
+
+284, 1	701, 3-9	HAW	oedd o yn gweithio ar y lôn	NSNT	NSNT
+284, 2	701, 10-10	HAW	doedd	---	NSNT
+
+
+285, 1	702, 1-5	ILI	*yeah* timod *right* o flaen	NST	NST
+285, 2	702, 6-8	ILI	mae o *right*	---	NST
+
+
+286, 1	703, 1-4	HAW	*er* dw i yn	NST	NST
+286, 2	703, 5-8	HAW	dw i yn cofio	NSNT	NSNT
+286, 3	704, 1-7	HAW	achos oedd yna *bus* yn trio pasio	NST	NST
+286, 4	706, 1-5	HAW	a doedd o methu mynd	NSNT	NSNT
+286, 5	707, 1-8	HAW	achos oedd *er* *car* chi wedi parcio yna	NST	NST
+286, 6	708, 1-5	HAW	*oh* oedd o yn funny	---	ST
+
+
+287, 1	709, 1-5	ILI	be doedd o methu mynd	SNT	NSNT
+287, 2	710, 1-7	ILI	because oedd *car* ni wedi parcio yna	---	ST
+
+
+288, 1	711, 1-7	HAW	dw i yn meddwl na *car* chi	NST	NST
+288, 2	711, 8-9	HAW	oedd o	NSNT	NSNT
+288, 3	712, 1-3	HAW	ond oedd o	NSNT	NSNT
+288, 4	712, 4-6	HAW	wnaeth o gymryd	NSNT	NSNT
+288, 5	712, 7-9	HAW	oes i fynd	---	NSNT
+
+
+289, 1	713, 1-8	ILI	wnaeth yna *lorry* *Argos* trio pasio *just* about	ST	ST
+289, 2	714, 1-11	ILI	oedd fath â *er* *couple* o modfeddi oddi_wrth er wal ni	---	NST
+
+
+290, 1	715, 2-9	HAW	oedd o yn gorfod mynd really really *slow*	---	ST
+
+
+291, 1	716, 1-7	ILI	*yeah* fel yna oedd y *lorry* hefyd	NST	NST
+291, 2	717, 1-3	ILI	ond ddoe de	NSNT	NSNT
+291, 3	717, 4-9	ILI	aethon nhw wneud o bore ddoe	NSNT	NSNT
+291, 4	718, 1-6	ILI	pan wnaethon ni ddod adre ar_ôl	NSNT	NSNT
+291, 5	718, 7-9	ILI	bod yn siopa	NSNT	NSNT
+291, 6	719, 1-4	ILI	ond oedd hi bwrw	NSNT	NSNT
+291, 7	720, 1-7	ILI	*so* wnaethon nhw stopio a gadael *stuff*	NST	NST
+291, 8	721, 1-12	ILI	*just* roi er timod yr *thing* coch a gwyn yna *round* o	NST	NST
+291, 9	723, 1-12	ILI	a dydyn nhw ddim wedi bod yn_dôl ers hynna ers dau_ddeg_pedwar awr	NSNT	NSNT
+291, 10	724, 1-8	ILI	mae nhw *just* wedi gadael o fel yna	NST	NST
+291, 12	726, 1-14	ILI	a dydyn nhw ddim wedi roi *traffic* lights na wedi cau lôn na dim_byd	NST	ST
+291, 13	727, 1-7	ILI	a mae hanner y lôn wedi mynd	---	NSNT
+
+
+292, 1	729, 1-2	HAW	wedi diflannu	---	NSNT
+
+
+293, 1	730, 1-3	ILI	mae yn ofnadwy	NSNT	NSNT
+293, 2	731, 1-7	ILI	na mae yna *just* twll mawr yna	---	NST
+
+
+294, 1	733, 1-5	HAW	mae gymaint o gwaith lôn	NSNT	NSNT
+294, 2	734, 1-7	HAW	oes yna dal *traffic* lights yn *Bryn_Bela*	---	ST
+
+
+295, 1	735, 1-1	ILI	dyna	NSNT	NSNT
+295, 2	735, 2-8	ILI	be dw i ddim yn ddallt iawn	NSNT	NSNT
+295, 4	737, 1-11	ILI	a dydyn nhw ddim hyd_yn_oed wedi cychwyn sortio *Bryn_Bela* allan eto	NST	NST
+295, 5	738, 1-5	ILI	mae dal union fath â	NSNT	NSNT
+295, 6	738, 6-6	ILI	mae	NSNT	NSNT
+295, 7	738, 7-8	ILI	wedi bod	---	NSNT
+
+
+296, 1	739, 1-7	HAW	na mae yna *just* *traffic* lights yna	NST	ST
+296, 2	740, 1-2	HAW	ers faint	---	NSNT
+
+
+297, 1	741, 1-2	ILI	mae hwnna	---	NSNT
+
+
+298, 1	742, 1-9	HAW	tua tair wsnos mae yn *sure* o leia wan	---	NST
+
+
+299, 1	743, 1-4	ILI	mae o mis rŵan	NSNT	NSNT
+299, 2	744, 1-4	ILI	mae o beth bynnag	NSNT	NSNT
+299, 3	744, 5-9	ILI	mae *er* mis yn braf	---	NST
+
+
+300, 1	746, 1-3	HAW	ydy o yn	---	NSNT
+
+
+301, 1	747, 1-6	ILI	ond dw i ddim yn meddwl	NSNT	NSNT
+301, 2	747, 7-11	ILI	bod o yn saff though	SNT	SNT
+301, 4	748, 19-25	ILI	pryd mae yr *buses* yn dod neu	---	NST
+
+
+302, 1	749, 1-4	HAW	ia dw i gwybod	---	NSNT
+
+
+303, 1	750, 1-5	ILI	ond mae yn ddigon drwg	---	NSNT
+
+
+304, 1	751, 1-7	HAW	ond mae yna gymaint o *buses* wan	NST	NST
+304, 2	751, 8-10	HAW	mae yn annoying	---	SNT
+
+
+305, 1	752, 1-3	ILI	dw i gwybod	NSNT	NSNT
+305, 2	752, 4-9	ILI	mae o ddigon drwg *just* fel	NST	NST
+305, 3	752, 10-15	ILI	timod faniau fel faniau gwaith builder	SNT	SNT
+305, 4	753, 1-4	ILI	mae hwnna ddigon drwg	NSNT	NSNT
+305, 5	754, 1-8	ILI	mae nhw yn cymryd rhan fwya o lle	NSNT	NSNT
+305, 6	755, 1-10	ILI	*so* ti gorfod fath â mynd i ochr y lôn	NST	NST
+305, 7	757, 1-9	ILI	*er* *oh* na dw i ddim yn dallt pam	NST	NST
+305, 8	758, 1-4	ILI	oedd bob man *just*	NST	NST
+305, 9	759, 1-8	ILI	o'n i yn mynd i rywle ddoe de	---	NSNT
+
+
+306, 1	760, 1-4	HAW	*yeah* ti yn gwybod	---	NST
+
+
+307, 1	761, 1-4	ILI	tyllau yn bob man	---	NSNT
+
+
+308, 1	762, 1-9	HAW	pan dw i yn cerdded adre o yr ysgol	NSNT	NSNT
+308, 2	763, 1-11	HAW	a ti gwybod y *steps* yna i fynd i_fyny o *Bryn_Bela*	NST	NST
+308, 3	765, 1-12	HAW	dw i o_hyd yn mynd i_fyny fan yna wedyn ar_hyd a *Bron_Dinas*	---	NST
+
+
+309, 1	767, 1-4	ILI	dw i tempted bob	NSNT	SNT
+309, 2	767, 5-5	ILI	tro	NSNT	NSNT
+309, 3	768, 1-4	ILI	ond dw i meddwl	---	NSNT
+
+
+310, 1	769, 1-3	HAW	dw i meddwl	NSNT	NSNT
+310, 2	769, 4-8	HAW	bod hynna yn saffach really	---	SNT
+
+
+311, 1	770, 1-3	ILI	na dw i	NSNT	NSNT
+311, 2	771, 1-8	ILI	a dw i *just* yn meddwl am wneud	NST	NST
+311, 3	772, 1-4	ILI	a dw i meddwl	NSNT	NSNT
+311, 4	773, 1-3	ILI	*ooh* ddylwn i	NST	NST
+311, 5	774, 1-4	ILI	a baswn i medru	NSNT	NSNT
+311, 6	775, 1-7	ILI	*oh* wnai tsiansio fo i_fyny ffordd yna	ST	NST
+311, 7	776, 1-6	ILI	because dw wedi meddwl amdan bob	NSNT	SNT
+311, 8	776, 7-9	ILI	tro bron iawn	NSNT	NSNT
+311, 10	778, 1-5	ILI	dw i wedi meddwl amdano	NSNT	NSNT
+311, 11	779, 1-8	ILI	dw i *just* yn edrych lawr i weld	NST	NST
+311, 12	779, 9-14	ILI	os mae yr *bus* yn dod	NST	NST
+311, 13	779, 15-17	ILI	de a deud	NSNT	NSNT
+311, 14	780, 1-9	ILI	*oh* wna i *just* tsiansio mynd fyny ffordd yna	---	NST
+
+
+312, 1	783, 1-3	HAW	ond fel arfer	NSNT	NSNT
+312, 2	783, 4-9	HAW	dw i yn trio mynd ar_hyd	NSNT	NSNT
+312, 3	784, 1-5	HAW	ond pan mae yn fwdlyd	NSNT	NSNT
+312, 4	784, 6-8	HAW	fedri di ddim	---	NSNT
+
+
+313, 1	785, 1-5	ILI	*oh* dw i yn gweld	NST	NST
+313, 2	786, 1-6	ILI	mae hwnna *just* *er* mor ddrwg	NST	NST
+313, 3	787, 1-1	ILI	mae	NSNT	NSNT
+313, 4	787, 2-5	ILI	dw i yn meddwl	NSNT	NSNT
+313, 5	787, 6-7	ILI	bod hwnna	NSNT	NSNT
+313, 6	787, 8-18	ILI	wedi bod yn ofnadwy yn y *couple* o ddiwrnodau dwytha yma	NST	NST
+313, 7	788, 1-6	ILI	dydy o wedi sychu ers misoedd	NSNT	NSNT
+313, 8	788, 7-10	ILI	dw ddim yn meddwl	NSNT	NSNT
+313, 9	788, 11-11	ILI	sti	---	NSNT
+
+
+314, 1	789, 1-6	HAW	mi mi oedd ychydig bach yn_ôl	NSNT	NSNT
+314, 2	789, 7-7	HAW	sti	---	NSNT
+
+
+315, 1	790, 2-5	ILI	pan es i ddwytha	NSNT	NSNT
+315, 2	790, 7-8	ILI	oedd o	NSNT	NSNT
+315, 3	790, 9-10	ILI	*just* oedd	NST	NST
+315, 4	790, 11-17	ILI	oedd o dal fath â *mud* yna	---	NST
+
+
+316, 1	791, 1-19	HAW	mi oedd o ti yn gwybod pan gafon ni gafon ni ychydig o wythnosau heb *er* law ychydig yn_ôl	NST	NST
+316, 2	793, 1-6	HAW	oedd o yn iawn amser yna	NSNT	NSNT
+316, 3	793, 7-7	HAW	sti	NSNT	NSNT
+316, 4	795, 1-5	HAW	oedd o yn hollol iawn	---	NSNT
+
+
+317, 1	796, 1-2	ILI	oedd because	SNT	SNT
+317, 2	796, 3-6	ILI	pan es i yna	SNT	NSNT
+317, 3	797, 1-7	ILI	because doedd *just* dal ddim wedi sychu	NST	ST
+317, 4	798, 1-5	ILI	dw i yn meddwl ella	NSNT	NSNT
+317, 5	798, 6-12	ILI	bod hi *just* wedi wneud un cawod	ST	NST
+317, 6	799, 1-7	ILI	because mae hynna yn ddigon fel arfer	NSNT	SNT
+317, 7	799, 8-11	ILI	yndy *round* fan yna	NST	NST
+317, 8	801, 1-3	ILI	mae fan yna	NSNT	NSNT
+317, 9	802, 1-4	ILI	dw ddim gwybod because	SNT	SNT
+317, 10	802, 5-11	ILI	mae fan yna yn ofnadwy o fwdlyd	NSNT	NSNT
+317, 11	803, 1-6	ILI	a wedyn mae yr llall *just*	NST	NST
+317, 12	804, 1-4	ILI	mae golau *traffic* yna	NST	NST
+317, 13	804, 5-9	ILI	sy da i ddim_byd really	SNT	SNT
+317, 14	806, 1-7	ILI	heblaw os ti isio mynd *right* *round*	---	NST
+
+
+318, 1	807, 1-5	HAW	*right* *round* *um* Pont Tŵr	---	NST
+
+
+319, 1	808, 1-6	ILI	ia ond dw i yn *sure*	NST	NST
+319, 2	808, 7-8	ILI	bod yna	---	NSNT
+
+
+320, 1	809, 1-3	HAW	na dim diolch	---	NSNT
+
+
+321, 1	810, 1-8	ILI	mae yna ryw fath o *traffic* fan yna	NST	NST
+321, 2	810, 9-11	ILI	dw yn *sure*	---	NST
+
+
+322, 1	811, 1-3	HAW	mae yn *sure*	---	NST
+
+
+323, 1	812, 1-5	ILI	ond ddoe pan es i	NSNT	NSNT
+323, 2	812, 6-15	ILI	de bob ffordd o chdi yn mynd o tŷ ni	NSNT	NSNT
+323, 3	812, 17-22	ILI	oedd yna *traffic* lights yn rywle	---	ST
+
+
+324, 1	813, 1-3	HAW	a bod ni	---	NSNT
+
+
+325, 1	814, 1-4	ILI	because dw i cofio	NSNT	SNT
+325, 2	815, 1-5	ILI	aethon ni ffordd gefn *yeah*	NST	NST
+325, 3	816, 1-4	ILI	ac oedd yna dal	NSNT	NSNT
+325, 4	816, 5-14	ILI	oedd nhw yn setio rei fyny yn fan yna wedyn	---	NSNT
+
+
+326, 1	817, 1-5	HAW	yn yn lle aethoch chi	---	NSNT
+
+
+327, 1	818, 1-10	ILI	*um* timod *round* pasio tŷ chdi yn lle troi *round*	NST	NST
+327, 2	818, 11-12	ILI	aethon ni	---	NSNT
+
+
+328, 1	819, 1-2	HAW	*o_k* deuda	NST	NST
+328, 2	820, 1-5	HAW	dw i ddim yn dallt	---	NSNT
+
+
+329, 1	821, 1-8	ILI	na be oedden ni yn mynd i wneud	NSNT	NSNT
+329, 2	821, 9-12	ILI	oedd mynd lawr *Bryn_Bela*	---	NST
+
+
+330, 1	822, 1-5	HAW	lle oeddech chi yn mynd	---	NSNT
+
+
+331, 1	823, 1-1	ILI	dyna	NSNT	NSNT
+331, 2	823, 2-5	ILI	dw ddim yn cofio	---	NSNT
+
+
+332, 1	824, 1-4	HAW	mewn *car* ta cerdded	---	NST
+
+
+333, 1	825, 1-1	ILI	*car*	---	NST
+
+
+334, 1	826, 1-8	HAW	*o_k* do'n i ddim yn gwybod hynna yli	---	NST
+
+
+335, 1	827, 1-3	ILI	na dw ddim	NSNT	NSNT
+335, 2	827, 4-7	ILI	dw ddim yn cofio	NSNT	NSNT
+335, 3	828, 1-9	ILI	ella na pan oedden ni yn mynd i siopa	NSNT	NSNT
+335, 4	828, 10-11	ILI	oedd o	NSNT	NSNT
+335, 5	829, 1-5	ILI	na dw ddim yn meddwl	NSNT	NSNT
+335, 6	829, 6-11	ILI	es i allan ddwy waith ddoe	NSNT	NSNT
+335, 7	830, 1-3	ILI	ella bod fi	NSNT	NSNT
+335, 8	831, 1-6	ILI	Duw na dw ddim yn meddwl	---	NSNT
+
+
+336, 1	832, 1-1	HAW	anyway	---	NSNT
+
+
+337, 1	833, 1-7	ILI	*yeah* ond oedd yna golau *traffic* *traffic*	NST	NST
+337, 2	833, 8-13	ILI	timod *problems* efo *traffic* bob ffordd	NST	NST
+337, 3	833, 14-17	ILI	oedden ni yn mynd	SNT	NSNT
+337, 4	835, 1-14	ILI	because aethon ni cario ymlaen heibio tŷ chdi yn lle mynd lawr am *Bryn_Bela*	---	ST
+
+
+338, 1	836, 1-2	HAW	Bont Tŵr	---	NSNT
+
+
+339, 1	837, 1-2	ILI	ond oedd	NSNT	NSNT
+339, 2	837, 3-4	ILI	oedd because	SNT	SNT
+339, 3	837, 5-13	ILI	mae yr un o fyny ffordd yna am mynydd	NSNT	NSNT
+339, 4	838, 1-13	ILI	ac oedd yna un arall hefyd yn cael ei roi i_fyny neu rywbeth	NSNT	NSNT
+339, 5	839, 1-7	ILI	neu oedd yna ryw *van* neu rywbeth	NST	NST
+339, 6	840, 1-5	ILI	mae nhw yn bob man	NSNT	NSNT
+339, 8	842, 1-7	ILI	ddoe oedd diwrnod wneud tyllau yn lôn	NSNT	NSNT
+339, 9	842, 8-15	ILI	mae raid a *just* gadael nhw yna wedyn	---	NST
+
+
+340, 1	843, 1-2	HAW	ewadd *yeah*	NST	NST
+340, 2	844, 1-15	HAW	*oh* wnaeth *Hosan* a *Huwcyn* fynd allan ar ben nhw eu hunain diwrnod o blaen	---	NST
+
+
+341, 1	845, 1-3	ILI	aethon nhw ar_goll	---	NSNT
+
+
+342, 1	846, 1-2	HAW	naddo *well*	NST	NST
+342, 2	846, 3-4	HAW	wnaethon ni	NSNT	NSNT
+342, 3	846, 5-9	HAW	aethon ni â nhw allan	SNT	NSNT
+342, 4	847, 1-12	HAW	*well* actually nid es i i gwely ar_ôl cyrraedd adre o *Paris*	NST	ST
+342, 6	849, 1-2	HAW	ond oedd	NSNT	NSNT
+342, 7	849, 3-8	HAW	wnaeth *mam* fynd â nhw allan	NST	NST
+342, 8	850, 1-3	HAW	wnaethon nhw enjoio	NSNT	NSNT
+342, 9	851, 1-11	HAW	ond wedyn o'n nhw allan bron i awr mae yn *sure*	NST	NST
+342, 10	852, 1-3	HAW	nôl i tŷ	NSNT	NSNT
+342, 11	853, 1-7	HAW	wedyn oedden nhw isio mynd nôl allan	NSNT	NSNT
+342, 12	853, 8-8	HAW	doedd	NSNT	NSNT
+342, 13	854, 1-4	HAW	fel mae nhw bob	NSNT	NSNT
+342, 14	854, 5-6	HAW	tro bechod	NSNT	NSNT
+342, 15	855, 1-7	HAW	*so* wnaeth *mam* agor drws iddyn nhw	NST	NST
+342, 16	856, 1-10	HAW	gadael nhw fynd allan ar ben eu hunain tro cynta	NSNT	NSNT
+342, 17	857, 1-5	HAW	oedd Hosan rhy ofn bechod	NSNT	NSNT
+342, 18	858, 1-8	HAW	ond *Huwcyn* *oh* wnaeth o fynd allan iawn	NST	NST
+342, 19	859, 1-11	HAW	dau funud wedyn wnaeth yna rywbeth dychryn o yn yr ardd	NSNT	NSNT
+342, 20	860, 1-8	HAW	*so* wnaeth o redeg yn ôl i tŷ	---	NST
+
+
+343, 1	861, 1-5	ILI	tibod be oedd y *thing*	---	NST
+
+
+344, 1	862, 1-3	HAW	na dim syniad	---	NSNT
+
+
+345, 1	863, 1-1	ILI	pry_cop	---	NSNT
+
+
+346, 1	864, 1-2	HAW	ia ella	NSNT	NSNT
+346, 2	865, 1-2	HAW	babi bechod	NSNT	NSNT
+346, 3	867, 1-4	HAW	babi pry_cop dim babi	---	NSNT
+
+
+347, 1	868, 1-6	ILI	dyna be o'n i yn meddwl	NSNT	NSNT
+347, 3	870, 1-7	ILI	sut basai yna babi yn rardd chdi	NSNT	NSNT
+347, 5	872, 1-11	ILI	o'n i yn dechrau dechrau ffwndro yn lân yn fan yna	NSNT	NSNT
+347, 6	874, 1-8	ILI	dw ddim gwybod be o chdi yn wneud	SNT	NSNT
+347, 7	875, 1-2	ILI	*oh* *Paris*	---	NST
+
+
+348, 1	876, 1-5	HAW	*yeah* rhaid i chdi ddod	NST	NST
+348, 2	877, 1-11	HAW	*sorry* rhaid i chdi ddod nôl i weld nhw mewn ychydig	---	NST
+
+
+349, 1	878, 1-5	ILI	*oh* yndw rhaid i fi	---	NST
+
+
+350, 1	879, 1-5	HAW	mae nhw wedi tyfu gymaint	NSNT	NSNT
+350, 2	880, 1-8	HAW	wnaeth *Hosan* tyfu gymaint tra o'n i ffwrdd	NST	NST
+350, 3	881, 1-3	HAW	*oh* mae bron	NST	NST
+350, 4	881, 4-10	HAW	â mor fawr â *Huwcyn* wan *oh*	---	NST
+
+
+351, 1	882, 1-7	ILI	pa run ydy yr un du *Huwcyn*	---	NST
+
+
+352, 1	883, 1-1	HAW	*Huwcs*	---	NST
+
+
+353, 1	884, 1-3	ILI	na *just* tsiecio	NST	NST
+353, 2	885, 1-6	ILI	na because o'n i yn meddwl	SNT	SNT
+353, 3	886, 1-10	ILI	because dw cofio well ers i fi weld nhw tibod	NSNT	SNT
+353, 4	888, 1-6	ILI	fath â bod yr un stafell	SNT	NSNT
+353, 5	889, 1-11	ILI	because pan oedda chdi yn lluniau do'n i ddim gallu cofio	---	SNT
+
+
+354, 1	890, 1-5	HAW	pa run ydy pa run	---	NSNT
+
+
+355, 1	891, 1-7	ILI	ond o'n i gallu cofio well wedyn	---	NSNT
+
+
+356, 1	892, 1-1	HAW	basai	NSNT	NSNT
+356, 2	892, 2-13	HAW	wedi bod yn haws os o'n ni wedi galw fo yn *Huddyg*	NST	NST
+356, 3	893, 1-4	HAW	basai yn haws cofio	---	NSNT
+
+
+357, 1	894, 1-3	ILI	bysai fath â	NSNT	NSNT
+357, 2	894, 4-4	ILI	fysai	---	NSNT
+
+
+358, 1	897, 1-3	HAW	ond *just* cofia	NST	NST
+358, 2	897, 4-6	HAW	de y rheswm	NSNT	NSNT
+358, 3	897, 7-11	HAW	gafodd *Hosan* enw *hosan* hi	NST	NST
+358, 4	898, 1-13	HAW	o'n ni yn gwybod bod hi mynd i fod yn ddu a gwyn	NSNT	NSNT
+358, 5	899, 1-11	HAW	a wedyn wnes i sbïo ar *er* o'n i yn meddwl	NST	NST
+358, 6	900, 1-7	HAW	*hmm* be sy yn ddu a gwyn	NST	NST
+358, 7	901, 1-14	HAW	ac o'n i yn digwydd bod yn gwisgo sanau du a gwyn diwrnod yna	SNT	NSNT
+358, 8	903, 1-2	HAW	*so* *Hosan*	ST	NST
+358, 10	905, 1-3	HAW	du a gwyn	---	NSNT
+
+
+359, 1	907, 1-2	ILI	be oedd	NSNT	NSNT
+359, 3	909, 1-7	ILI	be oedd peth gorau chdi yn *Paris*	NST	NST
+359, 4	911, 1-5	ILI	fath â pa *um* timod	NST	NST
+359, 5	912, 1-3	ILI	be wnaethon ni	NSNT	NSNT
+359, 6	912, 4-9	ILI	oedd y peth gorau ti gwybod	NSNT	NSNT
+359, 7	912, 10-13	ILI	be dw i feddwl	---	NSNT
+
+
+360, 1	914, 1-4	HAW	wnes i enjoio *Stade_de_France*	---	NST
+
+
+361, 1	916, 1-11	ILI	wnes i enjoio hwnna *lot* mwy na o'n i yn meddwl	NST	NST
+361, 2	916, 12-13	ILI	baswn i	NSNT	NSNT
+361, 3	917, 1-10	ILI	do'n i ddim yn meddwl baswn i yn licio fo	---	NSNT
+
+
+362, 1	918, 1-9	HAW	*hmm* o'n o'n i really edrych ymlaen at hwnna	---	ST
+
+
+363, 1	919, 1-4	ILI	o'n i fath â	NSNT	NSNT
+363, 2	920, 1-6	ILI	hwnna oedd ail peth gwaetha fi	NSNT	NSNT
+363, 3	921, 1-13	ILI	o'n i yn meddwl *um* o'n i yn meddwl peth gwaetha fi fysai	NST	NST
+363, 4	921, 14-20	ILI	wedi bod *um* be ti galw fo	NST	NST
+363, 5	922, 1-7	ILI	*oh* *Disney* o'n i yn eitha *sure*	---	NST
+
+
+364, 1	923, 1-1	HAW	*Disney*	---	NST
+
+
+365, 1	924, 1-7	ILI	o'n i yn meddwl ail fasai *Stade_de_France*	NST	NST
+365, 3	926, 1-7	ILI	ond wnes i actually eitha enjoio fo	---	SNT
+
+
+366, 1	927, 1-7	HAW	wnes i enjoio *Disney* a *Stade_de_France* *oh*	---	NST
+
+
+367, 1	928, 1-5	ILI	be oedd peth gwaetha chdi	NSNT	NSNT
+367, 2	928, 6-6	ILI	ta	NSNT	NSNT
+367, 3	929, 1-9	ILI	ta ti ddim yn ta doedd yna ddim really	SNT	SNT
+367, 4	931, 1-4	ILI	paid â deud gwesty	---	NSNT
+
+
+368, 1	932, 1-8	HAW	na do'n i ddim yn meindio yr gwesty	NSNT	NSNT
+368, 2	933, 1-3	HAW	gafon ni *laugh*	NST	NST
+368, 3	934, 1-8	HAW	*oh* ddyla chdi *oh* oedd o yn *laugh*	NST	NST
+368, 4	935, 1-9	HAW	dyla chdi wedi bod yn rhannu *room* efo ni	NST	NST
+368, 6	937, 1-3	HAW	fyny am oriau	NSNT	NSNT
+368, 7	938, 1-9	HAW	ti gwybod fel oedd *Tracy* yn patrolio yr *corridors*	---	NST
+
+
+369, 1	939, 1-3	ILI	*oh* *yeah* yndw	---	NST
+
+
+370, 1	940, 1-12	HAW	oedden ni yn disgwyl tan iddi hi mynd i yn_ôl i gwely	NSNT	NSNT
+370, 2	941, 1-6	HAW	disgwyl am rhyw bum munud wedyn	NSNT	NSNT
+370, 3	942, 1-9	HAW	*Janet* a a *Sioned* yn dod yn yn_ôl i_fewn	---	NST
+
+
+371, 1	943, 1-1	ILI	*Sioned*	---	NST
+
+
+372, 1	945, 1-5	HAW	wedyn ond fan yna de	NSNT	NSNT
+372, 2	945, 6-18	HAW	aeth nhw i nôl i gwely ychydig o wedyn tua *just* ar_ôl dau	NST	NST
+372, 3	946, 1-12	HAW	wedyn oedden ni gyd *just* ar gwely *Mary* fath â ar *bunks*	NST	NST
+372, 4	947, 1-6	HAW	*so* oedd o yn eitha scary	ST	ST
+372, 6	949, 1-8	HAW	*oh* a gynnon ni *just* ddim amynedd symud	NST	NST
+372, 7	950, 1-5	HAW	o'n ni yna am oes	NSNT	NSNT
+372, 8	951, 1-9	HAW	aethon ni ddim i gysgu tan hir ar_ôl tri	NSNT	NSNT
+372, 10	953, 1-11	HAW	tua half past *well* tua half three mae yn *sure* *yeah*	---	ST
+
+
+373, 1	954, 1-4	ILI	doedd yna ddim rhyfedd	NSNT	NSNT
+373, 2	954, 5-14	ILI	bod chdi wedi cysgu rhan fwya o dydd Mercher felly	NSNT	NSNT
+373, 3	956, 1-4	ILI	dw ddim yn gwybod	NSNT	NSNT
+373, 4	956, 5-9	ILI	be oedd hoff *bit* fi	NST	NST
+373, 5	957, 1-11	ILI	dw yn meddwl na *just* fath â mynd *round* y strydoedd	NST	NST
+373, 6	958, 1-5	ILI	fath â llai rhywbeth penodol	NSNT	NSNT
+373, 7	960, 1-7	ILI	a mwy *just* *sort* of bod yna	NST	ST
+373, 8	961, 1-4	ILI	ond dw meddwl na	NSNT	NSNT
+373, 9	961, 5-13	ILI	be sy yn well am mynd efo teulu chdi	NSNT	NSNT
+373, 10	961, 14-22	ILI	ydy ti cael wneud mwy o cerdded o_gwmpas neu	---	NSNT
+
+
+374, 1	962, 1-3	HAW	*yeah* *just* wneud	---	NST
+
+
+375, 1	963, 1-7	ILI	because efo hwnna oedd o fath â	NSNT	SNT
+375, 2	964, 1-18	ILI	pan aethon ni o yr *Louvre* i *Notre_Dame* deuda fath â yn y *bus* basa chdi yn mynd	NST	NST
+375, 3	965, 1-9	ILI	tra os oedda chdi efo teulu chdi cerdded o	NSNT	NSNT
+375, 4	965, 10-27	ILI	baset ti yn fath â cael hyd mwy o llefydd bach diddorol neu *café* neu siopau bach diddorol	NST	NST
+375, 5	967, 1-4	ILI	ond dw ddim gwybod	NSNT	NSNT
+375, 6	967, 5-9	ILI	ond dw ddim yn meddwl	NSNT	NSNT
+375, 7	967, 10-20	ILI	basen ni wedi gallu wneud hynna fath â efo *trip* yna	---	NST
+
+
+376, 1	968, 1-5	HAW	efo pedwar_deg ohonon ni yna	---	NSNT
+
+
+377, 1	969, 1-5	ILI	*oh* na ond timod *yeah*	NST	NST
+377, 2	969, 6-11	ILI	doedd o ddim practical wneud hynna	NSNT	SNT
+377, 3	970, 1-2	ILI	*just* dyna	NST	NST
+377, 4	970, 3-6	ILI	ydy yr darn *nice*	NST	NST
+377, 5	970, 7-8	ILI	dw meddwl	NSNT	NSNT
+377, 6	971, 1-3	ILI	dw ddim gwybod	NSNT	NSNT
+377, 7	971, 4-9	ILI	wnes i licio yr *Centre_Pompidou* unwaith	NST	NST
+377, 8	971, 10-16	ILI	aethon ni *right* fyny i *top* *yeah*	---	NST
+
+
+378, 1	972, 1-3	HAW	i yr *Big_Bang*	---	NST
+
+
+379, 1	973, 1-10	ILI	*yeah* because yn y *bit* gwaelod o'n i fath â	NST	ST
+379, 2	974, 1-3	ILI	mae hwn *oh*	---	NST
+
+
+380, 1	975, 1-2	HAW	do achos	NSNT	NSNT
+380, 2	975, 4-6	HAW	gynnon ni *stickers*	NST	NST
+380, 3	976, 1-9	HAW	do'n ni ddim yn methu mynd i_fewn i nunlle	---	NSNT
+
+
+381, 1	977, 1-4	ILI	o'n i efo *sticker*	NST	NST
+381, 2	978, 1-7	ILI	ond doedd o ddim really yn gweithio	NSNT	SNT
+381, 3	979, 1-2	ILI	wnes i	NSNT	NSNT
+381, 4	979, 3-4	ILI	wnaeth y	NSNT	NSNT
+381, 5	979, 5-13	ILI	wnaeth y bedair ohonon ni manejio mynd fewn i	NSNT	NSNT
+381, 6	979, 14-14	ILI	yr	NSNT	NSNT
+381, 7	979, 16-19	ILI	lle oedd y *café*	NST	NST
+381, 8	980, 1-3	ILI	timod dwy exhibition	SNT	SNT
+381, 9	980, 4-9	ILI	oedd cario ymlaen yn fan yna	NSNT	NSNT
+381, 10	982, 1-5	ILI	doedden ni ddim fod i	NSNT	NSNT
+381, 11	983, 1-4	ILI	wnaethon ni *just* mynd	NST	NST
+381, 12	983, 5-18	ILI	bod ni efo ysgol a *just* mwydro nhw yn hanner Ffrangeg hanner Saesneg tibod	NST	NST
+381, 14	985, 1-4	ILI	a wnaethon ni *er*	NST	NST
+381, 15	985, 5-14	ILI	dw ddim gwybod do'n nhw ddim mor dda yn hynna	NSNT	NSNT
+381, 16	986, 1-5	ILI	ac o'n i fath â	NSNT	NSNT
+381, 17	987, 1-9	ILI	*oh* os mai dim ond dyma be sy yma	NST	NST
+381, 18	987, 10-16	ILI	mae o ddim yn dda o gwbl	NSNT	NSNT
+381, 20	989, 1-7	ILI	a wedyn pan aethon ni fyny grisiau	---	NSNT
+
+
+382, 1	990, 1-4	HAW	oedden i yn meddwl	NSNT	NSNT
+382, 2	990, 5-8	HAW	fysai fo yn ofnadwy	---	NSNT
+
+
+383, 1	991, 1-9	ILI	o'n i o'n i yn edrych ymlaen iddo fo	NSNT	NSNT
+383, 2	993, 1-6	ILI	ond wedyn o'n i fath â	NSNT	NSNT
+383, 3	994, 1-7	ILI	*oh* o'n i mor ddigalon fath â	NST	NST
+383, 4	995, 1-5	ILI	*oh* does na ddim_byd yma	NST	NST
+383, 5	996, 1-4	ILI	mae hwn yn ofnadwy	NSNT	NSNT
+383, 7	998, 1-6	ILI	ond unwaith oedda chdi fyny grisiau	---	NSNT
+
+
+384, 1	999, 2-5	HAW	oedd hwnna yn dda	---	NSNT
+
+
+385, 1	1000, 1-9	ILI	ond gaethon ni ddim amser i fynd *round* bob_dim	NST	NST
+385, 2	1001, 1-2	ILI	aethon ni	---	NSNT
+
+
+386, 1	1002, 1-10	HAW	na oedden ni isio mynd i nôl bwyd hefyd *so*	---	NST
+
+
+387, 1	1003, 1-12	ILI	fath â aethon ni aros yna tibod tan deg munud i chwech	---	NSNT
+
+
+388, 1	1004, 1-6	HAW	oedden ni yna cynnach chi do'n	---	NSNT
+
+
+389, 1	1005, 1-1	ILI	oeddech	NSNT	NSNT
+389, 2	1005, 2-2	ILI	dyna	NSNT	NSNT
+389, 3	1005, 3-6	ILI	be oedd y *thing*	NST	NST
+389, 4	1006, 1-10	ILI	oedden ni wedi methu dipyn o amser ar y cychwyn	NSNT	NSNT
+389, 5	1007, 1-7	ILI	wnaeth ni weld dipyn o *stuff* hefyd	NST	NST
+389, 6	1008, 1-4	ILI	yr unig beth ydy	SNT	NSNT
+389, 7	1009, 1-13	ILI	because *um* ti gwybod gwaith arholiad ni dan ni yn cychwyn yn celf	NST	ST
+389, 8	1010, 1-3	ILI	*well* ti ddim	NST	NST
+389, 9	1011, 1-4	ILI	ond dan ni yn	---	NSNT
+
+
+390, 1	1012, 1-4	HAW	*yeah* dach chi yn	---	NST
+
+
+391, 1	1013, 1-4	ILI	ar_ôl hanner tymor de	NSNT	NSNT
+391, 2	1014, 1-12	ILI	oedden ni *sort* of fod i base_io fo ar rywbeth yn *Paris*	NST	ST
+391, 3	1015, 1-5	ILI	dw i ddim yn meddwl	NSNT	NSNT
+391, 4	1015, 6-10	ILI	bod fi wedi weld ar	NSNT	NSNT
+391, 5	1015, 11-16	ILI	be dw i isio wneud o	SNT	NSNT
+391, 7	1017, 1-8	ILI	because oedd hi wedi hanner meddwl wneud hynna	SNT	SNT
+391, 8	1018, 1-4	ILI	because mae o yn	NSNT	SNT
+391, 9	1018, 5-8	ILI	mae yr *um* pobl	NST	NST
+391, 10	1018, 9-20	ILI	sy yn marcio fo yn licio os ti wedi gweld y gwaith	NSNT	NSNT
+391, 11	1020, 1-10	ILI	timod dim *just* gweld ar y we neu mewn llyfr	NST	NST
+391, 12	1021, 1-4	ILI	ond y peth ydy	NSNT	NSNT
+391, 13	1021, 5-21	ILI	mae fod i fod i wneud efo be ti wedi wneud o blaen i ddangos datblygiad hefyd	NSNT	NSNT
+391, 14	1022, 1-4	ILI	*so* dw i meddwl	NST	NST
+391, 15	1022, 5-8	ILI	fydd hynna yn anodd	NSNT	NSNT
+391, 16	1023, 1-6	ILI	ond dw i ddim yn meddwl	---	NSNT
+
+
+392, 1	1024, 1-11	HAW	*er* wnes i enjoio mynd *round* y *Pompidou* centre efo *Efa_Griffiths*	NST	ST
+392, 2	1025, 1-13	HAW	achos fath â o'n i yn hyd yn gallu gofyn cwestiynau wrtha hi	---	NSNT
+
+
+393, 1	1026, 1-9	ILI	*ah* *yeah* dw i yn dallt be ti feddwl	---	NST
+
+
+394, 1	1027, 1-3	HAW	am bob dim	NSNT	NSNT
+394, 2	1028, 1-5	HAW	ac oedd hi fath â	NSNT	NSNT
+394, 3	1029, 1-4	HAW	oedd o yn funny	SNT	SNT
+394, 4	1030, 1-4	HAW	oedd hi yn meddwl	NSNT	NSNT
+394, 5	1031, 1-9	HAW	*ooh* dyma yr *artist* yma dw i yn licio	NST	NST
+394, 6	1033, 1-8	HAW	a wedyn oedd hi yn gofyn wrtha fi	NSNT	NSNT
+394, 7	1034, 1-6	HAW	*oh* be mae hwnna yn feddwl	NST	NST
+394, 8	1035, 1-5	HAW	achos oedd o yn Ffrangeg	NSNT	NSNT
+394, 9	1037, 1-7	HAW	wedyn o'n i yn translatio fo iddi	---	NSNT
+
+
+395, 1	1038, 1-6	ILI	*oh* oedd hynna yn *handy* hynna	---	NST
+
+
+396, 1	1039, 1-2	HAW	fath â	NSNT	NSNT
+396, 2	1040, 1-2	HAW	*oh* dyna	NST	NST
+396, 3	1040, 3-6	HAW	be mae hynna feddwl	NSNT	NSNT
+396, 4	1041, 1-3	HAW	*so* fath â	NST	NST
+396, 5	1042, 1-15	HAW	achos do'n do'n i byth yn meddwl baswn i yn licio yr celf fel yna	NSNT	NSNT
+396, 7	1044, 1-14	HAW	ond pan oedd hi yn egluro i fi fath â be *um* hanes o	---	NST
+
+
+397, 1	1045, 1-8	ILI	*oh* *yeah* *yeah* dw gwybod be ti feddwl	---	NST
+
+
+398, 1	1046, 1-10	HAW	achos oedd hi yn gwybod *lot* o pethau fel yna	NST	NST
+398, 2	1047, 1-10	HAW	*so* *yeah* o'n i yn meddwl bod hynna yn ddiddorol	---	NST
+
+
+399, 1	1048, 1-4	ILI	dw i yn meddwl	NSNT	NSNT
+399, 2	1048, 5-8	ILI	oedd hi yn *handy*	NST	NST
+399, 3	1048, 9-12	ILI	bod gŵr hi yna	SNT	NSNT
+399, 4	1049, 1-4	ILI	because wnaeth o fo	NSNT	SNT
+399, 5	1049, 5-14	ILI	wnaeth ddod lawr i roi y tocyn yna ni tibod	NSNT	NSNT
+399, 6	1049, 15-17	ILI	be dw feddwl	NSNT	NSNT
+399, 7	1051, 1-16	ILI	oedd o bron iawn fath â athro ychwanegol o'n i yn meddwl chwarae teg iddo fo	---	NSNT
+
+
+400, 1	1052, 1-2	HAW	do mi	NSNT	NSNT
+400, 2	1052, 3-4	HAW	oedd mi	NSNT	NSNT
+400, 3	1052, 5-8	HAW	oedd o yn *nice*	---	NST
+
+
+401, 1	1053, 1-14	ILI	because fath â *um* oedd yna rei pobl wedi anghofio eu *stuff* neu rywbeth	NST	ST
+401, 2	1054, 1-6	ILI	ac oedd o yn cario bagiau	NSNT	NSNT
+401, 3	1055, 1-4	ILI	oedd o yn really	SNT	SNT
+401, 4	1055, 5-11	ILI	wnaeth o wneud *lot* o waith basach	NST	NST
+401, 5	1055, 12-18	ILI	doedd o ddim yn gorfod really na	SNT	SNT
+401, 6	1057, 1-6	ILI	because dydy o ddim yn athro	NSNT	SNT
+401, 7	1058, 1-3	ILI	a timod gwyliau	NSNT	NSNT
+401, 8	1058, 4-11	ILI	oedd o fod iddo fo a merch o	NSNT	NSNT
+401, 9	1060, 1-9	ILI	ond *oh* na o'n i yn meddwl chwarae teg	NST	NST
+401, 10	1061, 1-10	ILI	achos fo ddoth lawr dim *Efa_Griffiths* efo yr efo yr	---	NST
+
+
+402, 1	1062, 1-4	HAW	*yeah* dw i gwybod	NST	NST
+402, 2	1063, 1-3	HAW	wnaeth o ddeud	NSNT	NSNT
+402, 3	1063, 4-12	HAW	basai fo yn dod lawr i nôl gweddill tra	NSNT	NSNT
+402, 4	1063, 13-16	HAW	oedd *Efa_Griffiths* yn *Martha*	---	NST
+
+
+403, 1	1064, 1-8	ILI	*oh* *yeah* ond o'n i yn meddwl tibod	NST	NST
+403, 2	1065, 1-5	ILI	*oh* chwarae teg iddo fo	ST	NST
+403, 3	1066, 1-6	ILI	because doedd o ddim_byd iddo fo	NSNT	SNT
+403, 4	1067, 1-8	ILI	yr unig peth ychydig confusing amdano fo oedd	NSNT	SNT
+403, 5	1067, 10-16	ILI	pan wnaeth o ddod i gyfarfod ni	NSNT	NSNT
+403, 6	1067, 17-23	ILI	wnaeth o siarad Saesneg efo ni iawn	NSNT	NSNT
+403, 7	1068, 1-14	ILI	a wedyn pan o'n ni yn mynd fyny yr escalator siarad Cymraeg wnaeth o	NSNT	SNT
+403, 8	1069, 1-5	ILI	ac o'n i fath â	---	NSNT
+
+
+404, 1	1070, 1-2	HAW	na dw	NSNT	NSNT
+404, 2	1070, 3-9	HAW	dw yn meddwl na wedi dysgu Cymraeg	NSNT	NSNT
+404, 3	1070, 10-11	HAW	mae o	---	NSNT
+
+
+405, 1	1071, 1-3	ILI	na dyna because	SNT	SNT
+405, 2	1071, 4-8	ILI	wnes i holi *Kevin* wedyn	ST	NST
+405, 3	1072, 1-7	ILI	because wnes i ddeud hynna wrth *Kevin*	NST	ST
+405, 4	1073, 1-4	ILI	a wnaeth *Kevin* fynd	NST	NST
+405, 5	1074, 1-8	ILI	*oh* dw yn meddwl na wedi dysgu Cymraeg	NST	NST
+405, 6	1074, 9-10	ILI	mae o	---	NSNT
+
+
+406, 1	1075, 1-5	HAW	achos oedd o yn siarad	---	NSNT
+
+
+407, 1	1076, 1-8	ILI	*just* wedi dysgu fo yn dda mae o	---	NST
+
+
+408, 1	1077, 1-7	HAW	oedd o yn siarad Cymraeg efo ni	NSNT	NSNT
+408, 2	1078, 1-14	HAW	a wedyn o'n i yn clywed oedd o yn siarad Saesneg weithiau efo *Efa_Griffiths*	---	NST
+
+
+409, 1	1079, 1-11	ILI	*oh* na because o'n i clywed o weithiau Saesneg weithiau Cymraeg	NST	ST
+409, 2	1080, 1-4	ILI	o'n i fath â	NSNT	NSNT
+409, 3	1081, 1-11	ILI	do'n i ddim yn *sure* o'n i o'n i yn ffwndro	---	NST
+
+
+410, 1	1082, 1-9	HAW	*hmm* oedd o o_hyd yn siarad Cymraeg efo *Martha*	NST	NST
+410, 2	1084, 1-6	HAW	ac oedd o fath â *oh*	---	NST
+
+
+411, 1	1085, 1-8	ILI	baswn i yn meddwl na wedi dysgu Cymraeg	NSNT	NSNT
+411, 2	1085, 9-11	ILI	mae o felly	---	NSNT
+
+
+412, 1	1086, 1-5	HAW	wedi dysgu mae o *yeah*	---	NST
+
+
+413, 1	1087, 1-8	ILI	mae o wedi dysgu fo yn dda hefyd	NSNT	NSNT
+413, 2	1087, 9-9	ILI	doedd	NSNT	NSNT
+413, 4	1089, 1-9	ILI	tibod be dw feddwl because o'n i yn confused	SNT	SNT
+413, 5	1089, 10-14	ILI	pan oedd o siarad Saesneg	NSNT	NSNT
+413, 6	1090, 1-5	ILI	*so* o'n i fath â	NST	NST
+413, 7	1091, 1-9	ILI	*oh* o'n i yn meddwl na Cymraeg oedd o	NST	NST
+413, 8	1092, 1-5	ILI	na oedd o wedi dysgu	---	NSNT
+
+
+414, 1	1093, 1-3	HAW	nain *Pesda* fi	NST	NST
+414, 2	1094, 1-5	HAW	wedi dysgu Cymraeg mae hi	NSNT	NSNT
+414, 3	1095, 1-6	HAW	a mae hi yn fluent *yeah*	---	ST
+
+
+415, 1	1099, 1-6	ILI	nain *Pesda* chdi mae efo sbectol	NST	NST
+415, 2	1101, 1-3	ILI	na *just* tsiecio	NST	NST
+415, 3	1102, 1-9	ILI	*just* wneud yn *sure* bod fi efo *person* iawn	---	NST
+
+
+416, 1	1103, 1-4	HAW	gwraig taid *Pesda* fi	---	NST
+
+
+417, 1	1104, 1-6	ILI	na *just* wneud connections dw angen	NST	ST
+417, 2	1105, 1-11	ILI	na because dw i ddim yn gweld hi hanner gymaint o_gwmpas	NSNT	SNT
+417, 3	1105, 12-12	ILI	â	NSNT	NSNT
+417, 4	1105, 13-16	ILI	dw gweld taid chdi	NSNT	NSNT
+417, 5	1106, 1-6	ILI	*so* dw i *just* wneud *sure*	NST	NST
+417, 6	1106, 7-11	ILI	bod fi efo *person* iawn	---	NST
+
+
+418, 1	1107, 1-7	HAW	taid *Tregarth* fi mae yn *sure* *yeah*	---	NST
+
+
+420, 1	1111, 1-6	HAW	*oh* wnaeth hi gael hip *operation*	ST	ST
+420, 2	1112, 1-10	HAW	dydy ddim yn dod allan o tŷ mor aml wan	---	NSNT
+
+
+421, 1	1113, 3-4	ILI	oedd hi	NSNT	NSNT
+421, 2	1113, 5-8	ILI	oedd hi yn cael	NSNT	NSNT
+421, 3	1114, 1-7	ILI	tibod pan oedd *dad* fi yn sâl	NST	NST
+421, 4	1115, 1-11	ILI	oedd hi fewn yn yr ysbyty yr un pryd â *dad*	ST	NST
+421, 5	1116, 1-5	ILI	because dw i yn cofio	NSNT	SNT
+421, 6	1117, 1-3	ILI	bore oedden ni	NSNT	NSNT
+421, 7	1117, 4-8	ILI	oedden ni newydd ffonio rywun	NSNT	NSNT
+421, 8	1117, 9-16	ILI	pwy oedd *dad* fod i wneud joban i	NST	NST
+421, 9	1118, 1-12	ILI	a wnes i weld taid chdi yn dod allan o yr ysbyty	NSNT	NSNT
+421, 10	1119, 1-13	ILI	wnes i weld taid chdi yn dod allan o yr ysbyty diwrnod yna	NSNT	NSNT
+421, 11	1120, 1-3	ILI	a timod *Joseph*	NST	NST
+421, 12	1120, 4-7	ILI	oedd o yr un	NSNT	NSNT
+421, 13	1120, 8-9	ILI	â *Kevin*	NST	NST
+421, 14	1122, 1-2	ILI	*mam* fo	NST	NST
+421, 15	1123, 1-3	ILI	dw i cofio	NSNT	NSNT
+421, 16	1124, 1-9	ILI	nhw oedd y dau *person* o'n i yn nabod	NST	NST
+421, 17	1124, 10-15	ILI	wnaethon ni weld y diwrnod yna	NSNT	NSNT
+421, 18	1125, 1-5	ILI	a dw i yn cofio	NSNT	NSNT
+421, 19	1125, 6-11	ILI	wnaeth hi roi hug iddo fi	NSNT	SNT
+421, 21	1127, 1-5	ILI	oedd o yn eitha funny	SNT	SNT
+421, 22	1128, 1-7	ILI	na ond oedd o *just* fath â	NST	NST
+421, 23	1129, 1-11	ILI	na because dw cofio hynna na taid chdi a *mam* *Joseph*	NST	ST
+421, 24	1129, 12-18	ILI	wnes i weld ar y diwrnod yna	NSNT	NSNT
+421, 25	1131, 1-3	ILI	na because dyna	NSNT	SNT
+421, 26	1131, 4-17	ILI	pryd dw ddim yn cofio os na mynd fewn ta ar y ffordd allan	NSNT	NSNT
+421, 27	1132, 1-7	ILI	ond oedd nain chdi fath â rhywbeth	NSNT	NSNT
+421, 28	1133, 1-12	ILI	fedra i ddim cofio os na mynd fewn i gael yr *operation*	NST	NST
+421, 29	1133, 13-28	ILI	oedd hi ta ar ei ffordd allan neu *er* fath â i cael hi i recyfro	---	NST
+
+
+422, 1	1135, 1-2	HAW	be bynnag	---	NSNT
+
+
+423, 1	1136, 1-4	ILI	ond oedd yna rywbeth	NSNT	NSNT
+423, 2	1137, 1-3	ILI	dw i cofio	SNT	NSNT
+423, 4	1139, 1-9	ILI	because dw i *just* yn cofio gweld taid chdi	NST	ST
+423, 5	1140, 1-3	ILI	wnaethon ni ddim	---	NSNT
+
+
+424, 1	1141, 1-10	HAW	oedd hynna hynna bron i dwy flynedd yn_ôl wan felly	NSNT	NSNT
+424, 2	1141, 11-11	HAW	doedd	---	NSNT
+
+
+425, 1	1142, 1-7	ILI	0 dwy flynedd mis Mehefin dw i	NSNT	NSNT
+425, 2	1144, 1-4	ILI	dw i ddim yn	NSNT	NSNT
+425, 3	1144, 5-12	ILI	dw i ddim yn cofio yr dyddiad *specific*	---	NST
+
+
+426, 1	1145, 1-3	HAW	o_gwmpas fan yna	---	NSNT
+
+
+427, 1	1146, 1-2	ILI	Mehefin oedd	NSNT	NSNT
+427, 2	1147, 1-14	ILI	dw i yn cofio ni yn wneud gwaith cwrs *maths* yr un triongls yna	---	NST
+
+
+428, 1	1148, 1-8	HAW	*oh* *oh* do'n i ddim yn licio hwnna	---	NST
+
+
+429, 1	1149, 1-5	ILI	na fi *just* cofio because	---	ST
+
+
+430, 1	1150, 1-2	HAW	oedd actually	SNT	SNT
+430, 2	1150, 3-13	HAW	oedd y gwaith cwrs yna yn well na gwaith cwrs arall	---	NSNT
+
+
+431, 1	1151, 1-8	ILI	because dw i *just* yn cofio dod i_fewn	NST	ST
+431, 2	1152, 1-11	ILI	a because cofio oedd yr athrawon i_gyd yn ofnadwy o *nice*	NST	ST
+431, 4	1154, 1-8	ILI	ond doedd o ddim yn ofnadwy o *nice*	NST	NST
+431, 5	1155, 1-5	ILI	ond wnaeth o *just* gofyn	NST	NST
+431, 6	1156, 1-6	ILI	*oh* i_fyny at lle wyt ti	NST	NST
+431, 7	1157, 1-6	ILI	a wnes i ddeud lle bynnag	NSNT	NSNT
+431, 8	1158, 1-4	ILI	a wnaeth o fynd	NSNT	NSNT
+431, 9	1159, 1-3	ILI	*oh* iawn *fine*	NST	NST
+431, 10	1160, 1-7	ILI	a wnaeth o ddim deud dim_byd arall	NSNT	NSNT
+431, 11	1161, 1-3	ILI	a wnaeth o	SNT	NSNT
+431, 12	1162, 1-6	ILI	because ti yn gwybod fel arfer	NSNT	SNT
+431, 13	1162, 7-13	ILI	pan mae pobl yn dod yn_dôl ar_ôl	NSNT	NSNT
+431, 14	1162, 14-16	ILI	bod yn sâl	NSNT	NSNT
+431, 15	1163, 1-4	ILI	mae o fath â	NSNT	NSNT
+431, 16	1164, 1-5	ILI	ti mynd i ddal i_fyny	NSNT	NSNT
+431, 17	1165, 1-8	ILI	ond wnaeth o ddim deud hynna wrtha fi	NSNT	NSNT
+431, 18	1165, 9-10	ILI	dw gwybod	NSNT	NSNT
+431, 19	1167, 1-7	ILI	*so* mae raid bod o yn gwybod	NST	NST
+431, 20	1168, 1-4	ILI	baswn i yn meddwl	NSNT	NSNT
+431, 21	1168, 5-6	ILI	bod o	NSNT	NSNT
+431, 22	1169, 1-13	ILI	ond na oedd na dwy flynedd yn_dôl bron *yeah* mewn *couple* o misoedd	NST	NST
+431, 24	1171, 1-5	ILI	mae hynna yn anodd coelio	NSNT	NSNT
+431, 25	1171, 6-6	ILI	dydy	---	NSNT
+
+
+432, 1	1172, 1-6	HAW	do'n ni ddim mor hen *Ilid*	---	NST
+
+
+433, 1	1173, 1-4	ILI	fedra i coelio fo	NSNT	NSNT
+433, 2	1174, 1-4	ILI	dw i yn gwybod	NSNT	NSNT
+433, 3	1175, 1-2	ILI	fedra i	NSNT	NSNT
+433, 4	1175, 3-8	ILI	fedra i dal cofio fath â	NSNT	NSNT
+433, 5	1175, 9-12	ILI	oedd o yn ddoe	NSNT	NSNT
+433, 6	1175, 13-13	ILI	sti	NSNT	NSNT
+433, 8	1177, 1-11	ILI	os o'n i yn mynd yn_dôl i yr ysbyty yna de	NSNT	NSNT
+433, 9	1177, 12-15	ILI	dw i yn *sure*	NST	NST
+433, 10	1177, 16-24	ILI	baswn i yn gallu ffeindio ffordd o_gwmpas fel yna	---	NSNT
+
+
+434, 1	1180, 1-9	HAW	fath â fel yna fyswn i yn *er* *Ysbyty_Gwynedd*	NST	NST
+434, 2	1182, 1-8	HAW	fath â bob_dim efo nain fi o blaen	NSNT	NSNT
+434, 4	1184, 1-11	HAW	achos o'n i yna bob nos am fath â dros blwyddyn	---	NSNT
+
+
+435, 1	1185, 1-5	ILI	na dw i gwybod mynd	NSNT	NSNT
+435, 2	1186, 1-5	ILI	oedden ni *yeah* mynd yn	NST	NST
+435, 3	1186, 6-6	ILI	dw	NSNT	NSNT
+435, 4	1186, 7-14	ILI	doedd o ddim fath â bob am flwyddyn	NSNT	NSNT
+435, 5	1187, 1-5	ILI	ond oedd o fath â	NSNT	NSNT
+435, 7	1190, 1-7	ILI	ond oedd nhw yn *alright* efo ni	ST	NST
+435, 8	1191, 1-6	ILI	because oedd nhw yn gwybod gweld	NSNT	SNT
+435, 9	1191, 7-11	ILI	bod ni yn eitha pell	NSNT	NSNT
+435, 10	1193, 1-7	ILI	ond os na *just* *mam* basai hi	NST	NST
+435, 11	1193, 8-13	ILI	basai hi wedi cael aros yna	NSNT	NSNT
+435, 12	1194, 1-6	ILI	tibod o'n nhw efo stafell yna	NSNT	NSNT
+435, 13	1195, 1-6	ILI	ond gweld bod ni i_gyd hefyd	NSNT	NSNT
+435, 14	1195, 7-10	ILI	wnaethon nhw ddim *er*	NST	NST
+435, 15	1195, 11-12	ILI	aethon ni	NSNT	NSNT
+435, 16	1195, 13-23	ILI	oedden ni yn mynd dôl a ymlaen dôl a ymlaen *yeah*	NST	NST
+435, 17	1197, 1-4	ILI	*ah* oedd o rhyfedd	NST	NST
+435, 18	1198, 1-8	ILI	yr un mwya doniol oedd ryw *boy* yma	NST	NST
+435, 19	1198, 9-16	ILI	oedd efo *dad* ar y *ward* yna de	NST	NST
+435, 20	1199, 1-16	ILI	oedd tad o yn efo ryw *van* lawr yn yn car_park ond efo *cooker* yno hefyd	NST	ST
+435, 21	1200, 1-5	ILI	oedd hanner ffordd rhwng *van*	NST	NST
+435, 22	1201, 1-10	ILI	timod fath â *van* lle ti yn byw yno fo	---	NST
+
+
+436, 1	1202, 1-1	HAW	*R_V*	---	NST
+
+
+437, 1	1203, 1-14	ILI	*yeah* ond dim un da timod fath â un hen really hen *type* *thing*	---	ST
+
+
+438, 1	1205, 1-7	HAW	mae *dad* fi isio un fel yna	---	NST
+439, 2	1208, 1-4	ILI	because timod bwyd *er*	NST	ST
+439, 3	1208, 5-12	ILI	dydy o ddim yn necessarily *nice* mewn ysbyty	NST	ST
+439, 5	1210, 1-19	ILI	ac oedd o yn wneud fath â *chips* a *pie* a dod â fo fyny a rhannu nhw allan	NST	NST
+439, 7	1212, 1-6	ILI	mae yna pobl really strange yna	NSNT	SNT
+439, 8	1213, 1-4	ILI	ond oedd yna un	NSNT	NSNT
+439, 9	1213, 5-10	ILI	dyn *um* *right* yn gongl bella	NST	NST
+439, 10	1213, 11-20	ILI	nesa at y ffenestr ochr *dad* ond yn y gongl	NST	NST
+439, 11	1214, 1-7	ILI	ac oedd o yn uffernol o sâl	SNT	NSNT
+439, 12	1215, 1-11	ILI	because pan aethon ni pan o'n ni yna fath â pan	NSNT	SNT
+439, 13	1215, 12-18	ILI	pan wnaeth o ddod i lle *dad*	ST	NST
+439, 14	1216, 1-9	ILI	because dim lle really *serious* oedd o fan yna	NST	ST
+439, 15	1217, 1-5	ILI	doedd o ddim yn conscious	SNT	SNT
+439, 16	1218, 1-6	ILI	ond wnaeth y hogan merch o	NSNT	NSNT
+439, 17	1219, 1-4	ILI	baswn i yn deud	NSNT	NSNT
+439, 18	1219, 5-10	ILI	bod hi tua yr un oed	NSNT	NSNT
+439, 19	1219, 11-11	ILI	â	NSNT	NSNT
+439, 20	1219, 12-14	ILI	dan ni rŵan	NSNT	NSNT
+439, 21	1219, 15-18	ILI	baswn i yn meddwl	NSNT	NSNT
+439, 22	1220, 1-8	ILI	wnaeth hi ddod fewn a mynd *hiya* *dad*	NST	NST
+439, 23	1221, 1-7	ILI	fath â bod o yn hollol *normal*	NST	NST
+439, 24	1222, 1-4	ILI	ond y rheswm oedd	NSNT	NSNT
+439, 25	1222, 5-9	ILI	oedd o am pump wsnos	NSNT	NSNT
+439, 26	1222, 10-11	ILI	oedd o	NSNT	NSNT
+439, 27	1222, 12-16	ILI	wedi bod yn intensive care	SNT	SNT
+439, 28	1223, 1-3	ILI	*so* oedd o	NST	NST
+439, 29	1223, 4-7	ILI	wedi bod hyd_yn_oed gwaeth	NSNT	NSNT
+439, 30	1223, 8-12	ILI	nag oedd o adeg yna	NSNT	NSNT
+439, 31	1224, 1-15	ILI	ac oedd o *just* mor strange gweld hi yn dod fewn a tibod fath â	ST	ST
+439, 32	1225, 1-5	ILI	because oedd *Llinos* fath â	NST	ST
+439, 33	1226, 1-5	ILI	*oh* mae o really sâl	NST	ST
+439, 34	1227, 1-8	ILI	ond oedd hi wedi gweld o hyd_yn_oed gwaeth	NSNT	NSNT
+439, 35	1228, 1-4	ILI	*ah* mae yn rei	NST	NST
+439, 36	1228, 5-8	ILI	mae yna rei pethau	NSNT	NSNT
+439, 37	1228, 9-12	ILI	wnei di byth anghofio	NSNT	NSNT
+439, 39	1230, 1-3	ILI	dw i gwybod	NSNT	NSNT
+439, 40	1230, 4-6	ILI	bod hwnna yn	NSNT	NSNT
+439, 41	1231, 1-3	ILI	dw gwybod wsnos	NSNT	NSNT
+439, 42	1231, 4-5	ILI	oedd o	NSNT	NSNT
+439, 43	1232, 1-5	ILI	ond tibod be dw feddwl	NSNT	NSNT
+439, 44	1232, 6-15	ILI	mae yn teimlo fath â wsnos hirach yn bywyd chdi	---	NSNT
+
+
+440, 1	1234, 1-7	HAW	galw *er* seicoleg galw hwnna flashbulb memory	ST	ST
+440, 2	1234, 8-10	HAW	dw i meddwl	---	NSNT
+
+
+441, 1	1235, 1-1	ILI	strange	---	NSNT
+
+
+442, 1	1237, 1-2	HAW	dw meddwl	---	NSNT
+
+
+443, 1	1238, 1-2	ILI	ti meddwl	NSNT	NSNT
+443, 2	1239, 1-1	ILI	ti	---	NSNT
+
+
+444, 1	1240, 1-3	HAW	dw i meddwl	---	NSNT
+
+
+445, 1	1241, 1-7	ILI	ond tibod be dw feddwl fath â	---	NSNT
+
+
+446, 1	1242, 1-6	HAW	dw ddim wedi wneud hynna ers	---	NSNT
+
+
+447, 1	1243, 1-3	ILI	na mae *sure*	NST	NST
+447, 2	1243, 4-11	ILI	bod chdi wedi cael rhywbeth tebyg pan tibod	NSNT	NSNT
+447, 3	1243, 12-18	ILI	pan oedd nain chdi yn really sâl	NSNT	SNT
+447, 4	1245, 1-18	ILI	tibod mae o yn un o yr adegau yna ti gallu cofio bob dim amdano fo *just* iawn	NST	NST
+447, 5	1247, 1-1	ILI	ti	NSNT	NSNT
+447, 6	1248, 1-2	ILI	na strange	SNT	SNT
+447, 7	1249, 1-4	ILI	*ah* *yeah* rhyfedd de	NST	NST
+447, 8	1250, 1-6	ILI	ond *er* deuda wsnos dwytha de	NST	NST
+447, 9	1250, 7-17	ILI	baswn i ddim yn gallu cofio hwnna hanner mor *er* byw	NST	NST
+447, 10	1250, 18-25	ILI	na dw i yn cofio adeg yna er	NSNT	NSNT
+447, 11	1250, 26-29	ILI	bod hwnna dwy flynedd	NSNT	NSNT
+447, 12	1250, 30-37	ILI	a bod wsnos dwytha dim ond wsnos yn_ôl	NSNT	NSNT
+447, 14	1253, 1-2	ILI	*ah* rhyfedd	---	NST
+
+
+448, 1	1254, 1-13	HAW	*yeah* amser yma wsnos dwytha o'n i cael gwersi fi trwy yr dydd	---	NST
+
+
+449, 1	1255, 1-5	ILI	*oh* *yeah* oedda chdi yn	---	NST
+
+
+450, 1	1256, 1-4	HAW	day *off* i fod	---	ST
+
+
+451, 1	1257, 1-4	ILI	day *off* i fod	---	ST
+
+
+452, 1	1258, 1-3	HAW	i fod *yeah*	---	NST
+
+
+453, 1	1259, 1-1	ILI	chdi	---	NSNT
+
+
+454, 1	1260, 1-12	HAW	*oh* God mae yn ddydd Gwener heddiw yma diwrnod ola hanner tymor	---	ST
+
+
+455, 1	1261, 1-5	ILI	*oh* paid deud hynna *Hawen*	NST	NST
+455, 2	1262, 1-4	ILI	na dw i gwybod	NSNT	NSNT
+455, 3	1262, 5-9	ILI	mae wedi mynd yn *sudden*	NST	NST
+455, 5	1264, 1-2	ILI	dau diwrnod	---	NSNT
+
+
+456, 1	1265, 1-6	HAW	ond aeth *Paris* yn really *sudden*	---	ST
+
+
+457, 1	1266, 2-2	ILI	wnaeth	---	NSNT
+
+
+458, 1	1268, 1-6	HAW	aeth o really *sudden* tan *Disneyland*	NST	ST
+458, 2	1269, 1-8	HAW	a wedyn wnaeth hynna complete_io fo i fi	NSNT	SNT
+458, 3	1270, 1-6	HAW	achos *thing* *sort* of *thing* naddo	NST	ST
+458, 4	1272, 1-6	HAW	noson cynt oedd o fath â	NSNT	NSNT
+458, 5	1273, 1-7	HAW	dario dan ni yn mynd adre fory	NSNT	NSNT
+458, 6	1274, 1-2	HAW	ond oedd	NSNT	NSNT
+458, 7	1274, 3-9	HAW	gynnon ni trwy dydd dydd Sul gynta	---	NSNT
+
+
+459, 1	1276, 1-6	ILI	os baswn i yn newid rhywbeth	NSNT	NSNT
+459, 2	1276, 7-8	ILI	de hwnna	NSNT	NSNT
+459, 3	1276, 9-12	ILI	baswn i wedi newid	NSNT	NSNT
+459, 4	1276, 13-22	ILI	ydy peidio mynd i *Disneyland* ella mynd adre yn syth	---	NST
+
+
+460, 1	1277, 1-5	HAW	*hmm* wnes i enjoio fo	---	NST
+
+
+461, 1	1278, 1-7	ILI	ond *just* personal preference ydy o tibod	NST	ST
+461, 2	1278, 8-10	ILI	be dw feddwl	---	NSNT
+
+
+462, 1	1279, 1-10	HAW	ond ddyla chdi wedi dod ar *rides* efo ni sti	---	NST
+
+
+463, 1	1280, 1-3	ILI	ond oedd *er*	---	NST
+
+
+464, 1	1281, 1-12	HAW	do'n i methu coelio bod chdi ddim wedi dŵad ar *Haunted_House* *thing*	---	NST
+
+
+465, 1	1282, 1-11	ILI	do'n i ddim meddwl na hwnna o'ch chi yn mynd ar	NSNT	NSNT
+465, 2	1283, 1-8	ILI	o'n i yn meddwl na yr llall *yeah*	---	NST
+
+
+466, 1	1284, 1-4	HAW	wnes i ddeud *Haunted_House*	---	NST
+
+
+467, 1	1285, 1-7	ILI	dw i gwybod o'n i yn confusion	SNT	SNT
+467, 2	1286, 1-8	ILI	dyna pam o'n i edrych ar y llall	SNT	NSNT
+467, 3	1287, 1-12	ILI	because o'n i yn meddwl na ar hwnna o'ch chi yn mynd	NSNT	SNT
+467, 4	1288, 1-4	ILI	mae raid na fi	NSNT	NSNT
+467, 5	1288, 5-8	ILI	oedd *just* wedi ffwndro	---	NST
+
+
+468, 1	1290, 1-12	HAW	basa chdi dod ar efo ni arno fo efo ni rywle arall	---	NSNT
+
+
+469, 1	1291, 1-2	ILI	*er* byswn	NST	NST
+469, 2	1292, 1-4	ILI	o'n i yn meddwl	NSNT	NSNT
+469, 3	1294, 1-1	ILI	wnaeth	NSNT	NSNT
+469, 4	1294, 2-5	ILI	wnes i *just* ffwndro	NST	NST
+469, 5	1294, 6-7	ILI	dw meddwl	SNT	NSNT
+469, 6	1295, 1-9	ILI	because o'n i yn disgwyl gweld chi fan yna	NSNT	SNT
+469, 7	1296, 1-5	ILI	ac o'n i fath â	NSNT	NSNT
+469, 8	1297, 1-6	ILI	dw i ddim wedi gweld nhw	NSNT	NSNT
+469, 9	1298, 1-5	ILI	mae nhw wedi dod *off*	NST	NST
+469, 10	1299, 1-4	ILI	sut mae hynna dŵad	NSNT	NSNT
+469, 12	1301, 1-10	ILI	wedyn seriously o'n i fath â o'n i fath â	NSNT	SNT
+469, 13	1302, 1-4	ILI	sut wnaeth hynna ddigwydd	NSNT	NSNT
+469, 15	1304, 1-5	ILI	ond wedyn oedd chi mynd	NSNT	NSNT
+469, 16	1305, 1-4	ILI	dw mynd ar hwnna	NSNT	NSNT
+469, 17	1306, 1-4	ILI	o'n i fath â	---	NSNT
+
+
+470, 1	1307, 1-2	HAW	*Big_Thunder_Mountain* *yeah*	---	NST
+
+
+471, 1	1308, 1-4	ILI	dach chi ddim *just*	NST	NST
+471, 2	1308, 5-8	ILI	wedi bod arno fo	---	NSNT
+
+
+472, 1	1309, 1-1	HAW	naddo	---	NSNT
+
+
+473, 1	1310, 1-8	ILI	wedyn de a wedyn o'n i fath â	---	NSNT
+
+
+474, 1	1311, 1-17	HAW	*oh* *oh* dyla chdi wedi gweld gwyneb *Menna* pan oedden ni yn mynd ar yr un *Indiana_Jones*	NST	NST
+474, 2	1311, 18-21	HAW	pan wnaeth hi weld	NSNT	NSNT
+474, 3	1311, 22-28	HAW	bod o yn mynd ar ben lawr	NSNT	NSNT
+474, 4	1312, 1-11	HAW	achos o'n ni bron yn cychwyn *queue* pan wnaethon ni sylwi	---	NST
+
+
+475, 1	1313, 1-5	ILI	*ah* bron yn barod yn	---	NST
+
+
+476, 1	1314, 1-2	HAW	cychwyn *queue*	---	NST
+
+
+477, 1	1315, 1-4	ILI	bron yn cychwyn o	---	NSNT
+
+
+478, 1	1316, 1-3	HAW	bron bron yn	---	NSNT
+
+
+479, 1	1317, 1-7	ILI	bron yn pen o fath â *yeah*	NST	NST
+479, 2	1319, 1-6	ILI	*oh* *yeah* *yeah* dw i dallt	---	NST
+
+
+480, 1	1321, 1-10	HAW	i fi diwedd y *queue* ydy pan ti cychwyn o	---	NST
+
+
+481, 1	1322, 1-10	ILI	*yeah* diwedd *yeah* na dw i dallt be ti feddwl	---	NST
+
+
+482, 1	1323, 1-3	HAW	cychwyn *queue* *yeah*	---	NST

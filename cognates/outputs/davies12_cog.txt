@@ -1,0 +1,2273 @@
+
+
+1, 1	1, 1-5	SAL	be ti wneud weekend yma	---	SNT
+
+
+2, 1	2, 1-7	CER	*um* dw i mynd adre nos Wener	NST	NST
+2, 2	4, 1-5	CER	yndw am y tro cynta	NSNT	NSNT
+2, 3	6, 1-10	CER	*so* *um* dal *bus* adre o fan yma i *Dolgellau*	---	NST
+
+
+3, 1	8, 1-3	SAL	*oh* my gosh	---	NST
+
+
+4, 1	9, 1-9	CER	cymryd dwy awr a hanner i fi gyrraedd yna	NSNT	NSNT
+4, 2	10, 1-11	CER	a mae yn cymryd awr i fi mynd adre mewn *car*	NST	NST
+4, 3	12, 1-4	CER	felly dw i gorod	NSNT	NSNT
+4, 4	13, 1-11	CER	*yeah* a wedyn gynna i ugain munud arall o *Dolgellau* adre	NST	NST
+4, 5	14, 1-8	CER	wedyn mae pen_blwydd ffrind fi *um* dydd Sul	NST	NST
+4, 6	15, 1-7	CER	felly dan ni mynd allan nos Sadwrn	NSNT	NSNT
+4, 7	17, 1-6	CER	wedyn *um* nôl dydd Sul gobeithio	---	NST
+
+
+5, 1	18, 1-2	SAL	*oh* *nice*	---	NST
+
+
+6, 1	19, 1-4	CER	*yeah* be am ti	---	NST
+
+
+7, 1	20, 1-4	SAL	*er* dw ddim gwybod	NST	NST
+7, 2	21, 1-9	SAL	dw ddim efo dim_byd yn planned i dydd Sadwrn	NSNT	SNT
+7, 3	22, 1-5	SAL	ond dw meddwl *er* hwyrach	NST	NST
+7, 4	22, 6-15	SAL	fydd yn ffrind i o adre hwyrach yn dod drosodd	SNT	NSNT
+7, 5	23, 1-8	SAL	because dw i deud gallu dod drosodd rywbryd	NSNT	SNT
+7, 6	24, 1-4	SAL	ac dydy dal ddim	NSNT	NSNT
+7, 7	24, 5-7	SAL	wedi bod eto	SNT	NSNT
+7, 8	26, 1-1	SAL	*so*	ST	NST
+7, 9	27, 1-1	SAL	naddo	NSNT	NSNT
+7, 10	28, 1-4	SAL	teimlo bach yn ddrwg	---	NSNT
+
+
+8, 1	30, 1-6	CER	be ers i ti fod yma	NSNT	NSNT
+8, 2	32, 1-4	CER	cymryd ei amser felly	---	NSNT
+
+
+9, 1	33, 1-1	SAL	*well*	ST	NST
+9, 2	34, 1-7	SAL	*oh* na *just* bai na mai i	NST	NST
+9, 3	34, 8-9	SAL	ydy o	NSNT	NSNT
+9, 4	35, 1-7	SAL	*just* dw i ddim wedi gofyn iddi	NST	NST
+9, 6	37, 1-4	SAL	ond wnaeth hi ddod	NSNT	NSNT
+9, 7	37, 5-13	SAL	wnaeth hi text_io fi nos Sadwrn hwyr nos Sadwrn	NSNT	SNT
+9, 8	38, 1-9	SAL	ac o'n i bod yn cerdded drwy yr dydd	NSNT	NSNT
+9, 9	39, 1-4	SAL	*um* newid *pyjamas* fi	NST	NST
+9, 10	40, 1-9	SAL	ac o'n i all *set* i fynd i ngwely	NST	ST
+9, 11	41, 1-6	SAL	wnes i gael text yn deud	NSNT	SNT
+9, 12	42, 1-5	SAL	*oh* dw i ym *Mangor*	NST	NST
+9, 13	43, 1-4	SAL	ti isio dod allan	NSNT	NSNT
+9, 15	45, 1-5	SAL	dw i yn *pyjamas* fi	---	NST
+
+
+10, 1	47, 1-4	CER	be oedd hi allan	---	NSNT
+
+
+11, 1	48, 1-3	SAL	wnaeth hi dod	NSNT	NSNT
+11, 2	48, 4-11	SAL	oedd yna *grew* ohonon ni wedi dod drosodd	NST	NST
+11, 5	51, 1-6	SAL	teimlo bach yn ddrwg ar_ôl hwnna	NSNT	NSNT
+11, 6	53, 1-5	SAL	ond wnes i gael text	SNT	SNT
+11, 7	53, 6-7	SAL	gynni gynt	NSNT	NSNT
+11, 8	54, 1-8	SAL	*so* o'n i meddwl well ofyn iddi drosodd	---	NST
+
+
+12, 1	55, 1-5	CER	ia well ti gynnig iddi	---	NSNT
+
+
+13, 1	56, 1-3	SAL	ia *oh* God	---	ST
+
+
+14, 1	58, 1-3	CER	be wneith hi	NSNT	NSNT
+14, 2	59, 1-4	CER	aros am penwythnos i_gyd	---	NSNT
+
+
+15, 1	60, 1-2	SAL	na dw	NSNT	NSNT
+15, 2	61, 1-7	SAL	*um* *well* dw ddim yn *sure* actually	NST	ST
+15, 3	62, 1-7	SAL	actually hwyrach *er* nos Wener nos Sadwrn	NST	ST
+15, 4	64, 1-1	SAL	ddrwg	---	NSNT
+
+
+16, 1	65, 1-3	CER	lle ei di	SNT	NSNT
+16, 2	66, 1-1	CER	*Academy*	---	NST
+
+
+17, 1	69, 1-5	SAL	ie dw licio fan yna	---	NSNT
+
+
+18, 1	70, 1-3	CER	mae o dda	---	NSNT
+
+
+19, 1	71, 1-2	SAL	really yn	NSNT	SNT
+19, 2	73, 1-4	SAL	mae pen_blwydd *um* *Daniel*	NST	NST
+19, 3	74, 1-5	SAL	*well* pen_blwydd *Daniel* wsnos nesa	NST	NST
+19, 4	76, 1-8	SAL	ond mae yn dathlu o dydd Sadwrn yma	---	NSNT
+
+
+20, 1	78, 1-7	CER	be dydy o ddim yma wsnos nesa	---	NSNT
+
+
+21, 1	79, 1-5	SAL	*um* mae nhw mynd i_ffwrdd	NST	NST
+21, 2	80, 1-7	SAL	*um* mae yna *trip* geography i *Barcelona*	NST	ST
+21, 3	82, 1-6	SAL	ar y weekend ar_ôl pen_blwydd o	NSNT	SNT
+21, 4	83, 1-6	SAL	*so* mae yn dathlu o rŵan	NST	NST
+21, 7	87, 1-5	SAL	a dyna wsnos pen_blwydd fi	---	NSNT
+
+
+22, 1	88, 1-8	CER	*oh* *yeah* dw i cofio ti yn deud	---	NST
+
+
+23, 1	89, 1-10	SAL	I was like *oh* my gosh bobl yn gadael fi	---	ST
+
+
+24, 1	90, 1-8	CER	be ti mynd i wneud then pen_blwydd ti	---	SNT
+
+
+25, 1	91, 1-3	SAL	*um* dw meddwl	NST	NST
+25, 2	91, 4-10	SAL	wna i fynd adre am y noson	NSNT	NSNT
+25, 3	92, 1-7	SAL	*so* dw ddim yn teimlo yn deserted	ST	ST
+25, 4	92, 8-11	SAL	pan dw i yma	---	NSNT
+
+
+26, 1	95, 1-2	CER	pa noson	NSNT	NSNT
+26, 2	95, 3-4	CER	mae o	NSNT	NSNT
+26, 3	96, 1-4	CER	pa diwrnod ydy o	---	NSNT
+
+
+27, 1	97, 1-5	SAL	*er* nos Iau ydy o	---	NST
+
+
+28, 1	98, 1-2	CER	nos Iau	NSNT	NSNT
+28, 2	99, 1-6	CER	*oh* dydy o ddim fath â	NST	NST
+28, 3	99, 7-12	CER	bod yna ddim_byd ymlaen yma chwaith	---	NSNT
+
+
+29, 1	101, 1-2	SAL	na exactly	NSNT	SNT
+29, 3	103, 1-3	SAL	*oh* *rubbish* really	ST	NST
+29, 4	104, 1-1	SAL	*so*	ST	NST
+29, 5	106, 1-6	SAL	because mae yn reading week hefyd	NSNT	SNT
+29, 6	106, 7-10	SAL	dw ddim efo *lectures*	NST	NST
+29, 7	108, 1-6	SAL	*so* alla i fforddio mynd adre	---	NST
+
+
+30, 1	109, 1-4	CER	wsnos saith ydy o	---	NSNT
+
+
+31, 1	110, 1-3	SAL	*er* na chwech	NST	NST
+31, 2	111, 1-7	SAL	*well* chwech i ni ydy o anyway	---	ST
+
+
+32, 1	112, 1-1	CER	chwech	NSNT	NSNT
+32, 2	113, 1-4	CER	*yeah* saith i ni	NST	NST
+32, 3	114, 1-2	CER	wsnos darllen	---	NSNT
+
+
+33, 1	116, 1-4	SAL	*um* adre nos Iau	NST	NST
+33, 2	117, 1-12	SAL	a wedyn mae yna rei ohonyn dod nôl ar dydd dydd Gwener	NSNT	NSNT
+33, 3	118, 1-7	SAL	*so* bydd ni allan ar dydd Sadwrn	NST	NST
+33, 4	120, 1-10	SAL	a mae yr gweddill yn dod adre ar dydd Sul	NSNT	NSNT
+33, 5	121, 1-9	SAL	*so* gobeithio mynd allan ar y dydd dydd Llun	---	NST
+
+
+34, 1	122, 1-4	CER	*oh* all weekender felly	---	ST
+
+
+35, 1	124, 1-8	SAL	hwnna good excuse really i fynd allan *lot*	---	ST
+
+
+36, 1	125, 1-2	CER	ia hollol	SNT	NSNT
+36, 2	126, 1-1	CER	0	---	NSNT
+
+
+37, 1	127, 1-4	SAL	dyna yr *plan* anyway	ST	ST
+37, 2	128, 1-6	SAL	wneith o *er* ddigwydd neu ddim	NST	NST
+37, 3	128, 7-10	SAL	dw ddim yn gwybod	---	NSNT
+
+
+38, 1	130, 1-7	CER	be wnei di pan ei di adre	NSNT	NSNT
+38, 2	131, 1-5	CER	*just* gwario amser efo teulu	---	NST
+
+
+39, 1	132, 1-6	SAL	mynd allan am bryd o fwyd	---	NSNT
+
+
+40, 1	133, 1-2	CER	*oh* *nice*	---	NST
+
+
+41, 1	134, 1-1	SAL	*so*	ST	NST
+41, 2	135, 1-12	SAL	ac *er* pigo *couple* o ddillad a *stuff* dw i wedi anghofio	---	NST
+
+
+42, 1	136, 1-5	CER	cymryd fantais tra ti adre	---	NSNT
+
+
+43, 1	138, 1-15	SAL	wnes i bacio mewn gymaint o rush yn dod yma fel yn cyn freshers week	NSNT	SNT
+43, 2	140, 1-10	SAL	because wnes i ddim wneud dim pacio cyn y diwrnod	NSNT	SNT
+43, 4	142, 1-7	SAL	wnes i bacio i_gyd y bore yna	NSNT	NSNT
+43, 5	144, 1-4	SAL	*so* oedd *dad* fel	ST	NST
+43, 6	145, 1-3	SAL	*oh* *c'mon* *Sali*	NST	NST
+43, 7	146, 1-2	SAL	*c'mon* *Sali*	NST	NST
+43, 8	147, 1-2	SAL	*o_k* *fine*	ST	NST
+43, 10	149, 1-8	SAL	*so* dw i wedi anghofio *lot* o bethau	ST	NST
+43, 11	152, 1-1	SAL	*so*	---	NST
+
+
+44, 1	153, 1-3	CER	dw i wahanol	NSNT	NSNT
+44, 2	154, 1-11	CER	dw i mynd â *stuff* *lot* o *stuff* adre efo fi	NST	NST
+44, 3	155, 1-5	CER	mae gen i ormod really	---	SNT
+
+
+45, 1	156, 1-1	SAL	really	NSNT	NSNT
+45, 2	158, 1-3	SAL	*oh* my gosh	ST	NST
+45, 3	159, 1-2	SAL	fel be	---	NSNT
+
+
+46, 1	160, 1-11	CER	*er* *well* ddaru *mam* roi pethau fel platiau ballu i fi	NST	NST
+46, 2	161, 1-6	CER	ond dan ni ddim angen nhw	NSNT	NSNT
+46, 3	162, 1-9	CER	mae gen i gymaint o bethau yn y tŷ	NSNT	NSNT
+46, 4	164, 1-9	CER	ond pryd dw i mynd adref *um* penwythnos yma	NST	NST
+46, 5	164, 10-16	CER	dw gorod clirio lloft fi gyd achos	NSNT	NSNT
+46, 6	165, 1-16	CER	achos bod chwaer i cael babi mewn mis mae yn *um* gorod gwagu pob peth allan	---	NST
+
+
+47, 1	166, 1-3	SAL	*oh* my gosh	---	NST
+
+
+48, 1	167, 1-8	CER	felly *um* bydd yna *cot* a ballu yna	NST	NST
+48, 2	169, 1-12	CER	*so* mae pethau fi gyd yn gorod mynd allan o llofft wan	NST	NST
+48, 3	170, 1-8	CER	*so* ffeindio rhywle iddyn nhw gyd cyn hir	NST	NST
+48, 4	173, 1-4	CER	felly ie dw *well*	NST	NST
+48, 5	173, 5-6	CER	dw gwybod	NSNT	NSNT
+48, 6	173, 7-11	CER	be wna i efo nhw	---	NSNT
+
+
+49, 1	174, 1-5	SAL	chi stafell sbâr neu rywbeth	---	NSNT
+
+
+50, 1	177, 1-7	CER	fydda i yn byw efo nain fi	NSNT	NSNT
+50, 2	177, 8-9	CER	dw meddwl	NSNT	NSNT
+50, 3	178, 1-2	CER	ond *um*	---	NST
+
+
+51, 1	179, 1-1	SAL	wir	SNT	NSNT
+51, 2	181, 1-3	SAL	*oh* my gosh	---	NST
+
+
+52, 1	182, 1-5	CER	*yeah* mae mond dros ffordd	NST	NST
+52, 2	183, 1-5	CER	dydy o ddim yn bell	---	NSNT
+
+
+53, 1	187, 1-5	SAL	*oh* *oh* rywbeth yn_dydy actually	---	ST
+
+
+54, 1	188, 1-1	CER	*so*	ST	NST
+54, 2	190, 1-6	CER	fi ydy yr gorau allan diwedd	NSNT	NSNT
+54, 3	191, 1-5	CER	*so* dw i ddim meindio	---	NST
+
+
+55, 1	193, 1-3	SAL	*oh* my gosh	ST	NST
+55, 2	194, 1-7	SAL	ydy gwybod os mai bachgen neu merch	NSNT	NSNT
+55, 3	194, 8-9	SAL	ydy o	---	NSNT
+
+
+56, 1	195, 1-1	CER	geneth	---	NSNT
+
+
+57, 1	198, 1-3	SAL	ydy efo enw	---	NSNT
+
+
+58, 1	199, 1-7	CER	*oh* *yeah* *um* *Eirlys_Angharad* neu *um* *Eirlys_Gwenllian*	NST	NST
+58, 2	200, 1-5	CER	dydy ddim yn gwybod eto	SNT	NSNT
+58, 3	201, 1-2	CER	*Eirlys* anyway	---	NST
+
+
+59, 1	202, 1-3	SAL	ie *oh* *nice*	---	NST
+
+
+60, 1	204, 1-4	CER	mae yn huge wan	---	SNT
+
+
+61, 1	207, 1-2	SAL	*oh* gosh	---	NST
+
+
+62, 1	208, 1-1	CER	ond	NSNT	NSNT
+62, 2	209, 1-7	CER	*yeah* pawb yn disgwyl ar y funud	---	NST
+
+
+63, 1	211, 1-2	SAL	*oh* God	NST	NST
+63, 2	212, 1-4	SAL	something in the water	---	NSNT
+
+
+64, 1	214, 1-9	CER	*um* ffrind mae yna hogan yn blwyddyn fi wan	NST	NST
+64, 2	215, 1-4	CER	mae yn disgwyl wan	NSNT	NSNT
+64, 3	216, 1-7	CER	a mae yn due ym mis Ionawr	---	SNT
+
+
+65, 1	218, 1-1	SAL	really	NSNT	NSNT
+65, 2	219, 1-2	SAL	*oh* gosh	---	NST
+
+
+66, 1	222, 1-10	CER	felly mynd i fod bach yn stressful iddi dw meddwl	---	SNT
+
+
+67, 1	224, 1-2	SAL	God *yeah*	---	NST
+
+
+68, 1	225, 1-1	CER	ond	NSNT	NSNT
+68, 3	229, 1-6	CER	baswn i ddim yn gallu wneud	---	NSNT
+
+
+69, 1	230, 1-3	SAL	*oh* God na	NST	ST
+69, 3	233, 1-5	SAL	oedd *Elinor* yn deud *er*	NST	NST
+69, 4	233, 6-16	SAL	mae un o ffrindiau hi *um* newydd briodi penwythnos dwytha yma	---	NST
+
+
+70, 1	234, 1-11	CER	*oh* *yeah* o'n i darllen ar *um* ar yr internet actually	---	ST
+
+
+71, 1	235, 1-3	SAL	*oh* yr internet	---	ST
+
+
+72, 1	237, 1-1	CER	o'n	NSNT	NSNT
+72, 2	238, 1-10	CER	oedd y sgwrs bach *right* ddiddorol rhwng y ddau yna	NST	NST
+72, 5	241, 1-7	CER	ie o'n i ddim yn dallt hynny	---	NSNT
+
+
+73, 1	242, 1-6	SAL	wnes i ddim dallt o chwaith	SNT	NSNT
+73, 3	244, 1-3	SAL	really ddim dallt	SNT	SNT
+73, 4	245, 1-9	SAL	confusion along the *line* rywle fan yna dw meddwl	---	ST
+
+
+74, 1	246, 1-3	CER	ia dw meddwl	---	NSNT
+
+
+75, 1	248, 1-7	SAL	ond *er* *yeah* oedd *couple* yma *um*	NST	NST
+75, 2	248, 8-11	SAL	wnaeth briodi weekend dwytha	NSNT	SNT
+75, 3	248, 12-22	SAL	oedd pen_blwydd twenty_first hi *couple* ddyddiau nôl cyn cyn y diwrnod	NST	ST
+75, 4	250, 1-11	SAL	ac y diwrnod yna wnaeth hi gael *scan* cynta yr babi	NST	NST
+75, 5	250, 12-14	SAL	mae yn disgwyl	---	NSNT
+
+
+76, 1	252, 1-4	CER	be diwrnod phriodas hi	---	NSNT
+
+
+77, 1	253, 1-1	SAL	*so*	ST	NST
+77, 2	254, 1-7	SAL	na *er* ar diwrnod ei phen_blwydd hi	---	NST
+
+
+78, 1	255, 1-3	CER	diwrnod pen_blwydd hi	---	NSNT
+
+
+79, 1	258, 1-11	SAL	y tro cynta iddi glywed y babi oedd ar twenty_first hi	---	SNT
+
+
+80, 1	259, 1-5	CER	*oh* mae hynna mor *nice*	---	NST
+
+
+81, 1	260, 1-5	SAL	mae yn kind of *sweet*	ST	ST
+81, 2	260, 6-6	SAL	dydy	---	NSNT
+
+
+82, 1	261, 1-3	CER	*oh* be ydy	NST	NST
+82, 2	262, 1-4	CER	fath â three months	SNT	SNT
+82, 3	263, 1-5	CER	tair mis wedi mynd do	---	NSNT
+
+
+83, 1	264, 1-6	SAL	*er* dw ddim yn gwybod actually	ST	ST
+83, 2	266, 1-8	SAL	ie rywbeth fel yna baswn i meddwl *yeah*	---	NST
+
+
+84, 1	268, 1-2	CER	*oh* del	---	NST
+
+
+85, 1	270, 1-4	SAL	*oh* my gosh *yeah*	ST	NST
+85, 2	272, 1-2	SAL	*oh* *well*	---	NST
+
+
+86, 1	273, 1-3	CER	pryd mae ie	NSNT	NSNT
+86, 2	273, 4-9	CER	pryd mae *Elinor* yn paso priodi	---	NST
+
+
+87, 1	274, 1-7	SAL	*oh* gosh tua pedair blynedd dw meddwl	---	ST
+
+
+88, 1	277, 1-5	CER	pa mor hir mae nhw	NSNT	NSNT
+88, 2	277, 6-8	CER	bod efo ei_gilydd	---	NSNT
+
+
+89, 1	278, 1-4	SAL	*oh* dim yn hir	ST	NST
+89, 2	280, 1-4	SAL	*oh* my God na	NST	ST
+89, 3	281, 1-4	SAL	ers Chwefror na Ionawr	NSNT	NSNT
+89, 4	282, 1-3	SAL	flwyddyn yma anyway	---	SNT
+
+
+90, 1	283, 1-1	CER	wir	---	NSNT
+
+
+91, 1	287, 1-5	SAL	*um* *yeah* Ionawr mis Ionawr	NST	NST
+91, 2	289, 1-3	SAL	*yeah* mis Ionawr	---	NST
+
+
+92, 1	290, 1-5	CER	dim yn hir iawn na	---	NSNT
+
+
+93, 1	292, 1-12	SAL	because wnaeth hi ddeud *um* *er* *oh* yr *boy* yma nabod *Brad*	NST	ST
+93, 2	292, 13-14	SAL	wnaeth hi	NSNT	NSNT
+93, 3	292, 15-23	SAL	wnaeth hi gael e_mail gynno fo yn deud *oh*	NST	ST
+93, 4	292, 24-27	SAL	mae o yn engaged	SNT	SNT
+93, 5	293, 1-4	SAL	ac oedd hi fel	SNT	NSNT
+93, 6	294, 1-8	SAL	*oh* my gosh he's got engaged *so* *fast*	ST	NST
+93, 7	295, 1-4	SAL	ac o'n i fel	NSNT	NSNT
+93, 8	297, 1-4	SAL	*so* hwn mis Medi	ST	NST
+93, 9	299, 1-4	SAL	when *er* pan wnaeth	NST	ST
+93, 10	299, 5-13	SAL	pryd wnaeth nhw *um* dechrau mynd allan efo ei_gilydd	NST	NST
+93, 11	300, 1-3	SAL	*oh* mis Chwefror	ST	NST
+93, 12	301, 1-8	SAL	exactly yr un faint o amser â hi	SNT	SNT
+93, 13	303, 1-4	SAL	I was like *mmm*	---	NST
+
+
+94, 1	305, 1-7	CER	*yeah* alli di ddim really deud dim_byd	NST	ST
+94, 2	307, 1-12	CER	*yeah* ddaru un o ffrindiau adre fi dechrau canlyn ym mis Mai	NST	NST
+94, 3	308, 1-7	CER	ac oedd hi wedi dyweddio erbyn Dolig	---	NSNT
+
+
+95, 1	309, 1-3	SAL	*oh* my gosh	---	NST
+
+
+96, 1	310, 1-5	CER	dyn nhw dal heb priodi	NSNT	NSNT
+96, 2	311, 1-2	CER	mae nhw	NSNT	NSNT
+96, 3	311, 3-12	CER	wedi bod efo ei_gilydd wan am *well* dros blwyddyn wan	NST	NST
+96, 4	312, 1-12	CER	ond *er* dyn nhw ddim paso priodi am ychydig mwy o flynyddoedd	NST	NST
+96, 5	312, 13-14	CER	dw meddwl	NSNT	NSNT
+96, 6	314, 1-10	CER	ond mae o yn byw efo hi yn coleg wan	NSNT	NSNT
+96, 7	315, 1-3	CER	mae yn Hertfordshire	SNT	SNT
+96, 8	317, 1-16	CER	ac *um* mae o yn byw efo hi mwy neu lai yn byw *off* loan hi	NST	ST
+96, 9	318, 1-2	CER	ond timod	NSNT	NSNT
+96, 10	318, 3-11	CER	mae nhw yn paso priodi *um* ar_ôl graddio anyway	---	ST
+
+
+97, 1	319, 1-3	SAL	*oh* my gosh	---	NST
+
+
+98, 1	321, 1-8	CER	i ddim yn gallu dychmygu priodi wan de	NSNT	NSNT
+98, 2	322, 1-4	CER	mae *just* mor ifanc	---	NST
+
+
+99, 1	324, 1-3	SAL	na fi chwaith	---	NSNT
+
+
+100, 1	326, 1-7	CER	ddaru un o ffrindiau eraill adre fi	NSNT	NSNT
+100, 2	326, 8-11	CER	mae nhw wedi priodi	NSNT	NSNT
+100, 3	326, 13-14	CER	ddaru briodi	NSNT	NSNT
+100, 4	326, 15-19	CER	pryd oedd hi yn un_deg_wyth	NSNT	NSNT
+100, 5	327, 1-6	CER	a un o ffrindiau eraill fi	NSNT	NSNT
+100, 6	328, 1-5	CER	mae yna ddipyn o nhw	---	NSNT
+
+
+101, 1	329, 1-1	SAL	un_deg_wyth	SNT	NSNT
+101, 2	331, 1-3	SAL	*oh* my gosh	---	NST
+
+
+102, 1	332, 1-5	CER	a oedd o mond un_deg_saith	---	NSNT
+
+
+103, 1	333, 1-2	SAL	*oh* really	---	NST
+
+
+104, 1	334, 1-11	CER	*so* oedd o ddim yn gallu cael *pint* ar ei briodas	NST	NST
+104, 2	337, 1-10	CER	ond mae yn ofnadwy fel yna adre ar y funud	NSNT	NSNT
+104, 3	338, 1-14	CER	mae yna *lot* o bobl yn priodi a cael plant yn andros o ifanc	NST	NST
+104, 5	340, 1-8	CER	mae *lot* o blwyddyn fi efo plant wan	---	NST
+
+
+105, 1	341, 1-1	SAL	really	---	NSNT
+
+
+106, 1	342, 1-3	CER	*mmm* a iau	---	NST
+
+
+107, 1	343, 1-2	SAL	*mmm* God	---	NST
+
+
+108, 1	344, 1-2	CER	ond ie	---	NSNT
+
+
+109, 1	345, 1-4	SAL	*oh* gosh credu hynny	ST	ST
+109, 2	347, 1-2	SAL	*oh* scary	---	NST
+
+
+110, 1	348, 1-9	CER	*yeah* ti ddim yn disgwyl oed yma nag wyt	---	NST
+
+
+111, 1	350, 1-7	SAL	y mhen i dal yn really ifanc	---	SNT
+
+
+112, 1	351, 1-6	CER	mae fath â chwarae plant really	SNT	SNT
+112, 2	352, 1-12	CER	timod pryd ti yn chwarae pryd ti yn fach fath â cogio	NSNT	NSNT
+112, 3	352, 13-18	CER	bod mewn tŷ bach a ballu	NSNT	NSNT
+112, 4	354, 1-9	CER	mae *just* fel yna neu *just* bach mwy extreme	ST	ST
+112, 5	357, 1-9	CER	ti gwybod be ti cael i pen_blwydd ti felly	---	NSNT
+
+
+113, 1	358, 1-3	SAL	*er* dim syniad	NST	NST
+113, 2	360, 1-2	SAL	dim syniad	NSNT	NSNT
+113, 3	362, 1-5	SAL	baswn licio digital *camera* rywbryd	NST	ST
+113, 5	364, 1-5	SAL	wna i hintio am hwnna	NSNT	NSNT
+113, 6	364, 6-7	SAL	dw meddwl	NSNT	NSNT
+113, 7	366, 1-10	SAL	ond *er* my gosh dw gwario *fortune* ar disposable *cameras*	---	ST
+
+
+114, 1	367, 1-3	CER	*yeah* es i	---	NST
+
+
+115, 1	368, 1-4	SAL	dw i really yn	---	SNT
+
+
+116, 1	369, 1-6	CER	wnes i gwario gymaint flwyddyn yma	NSNT	NSNT
+116, 2	369, 7-20	CER	wnes i gael digital *camera* *um* *just* cyn y mhen_blwydd i yn y ha	NST	ST
+116, 3	371, 1-4	CER	do *er* *off* *Amazon*	NST	NST
+116, 4	373, 1-5	CER	mond chwe_deg punt oedd hi	---	NSNT
+
+
+117, 1	375, 1-1	SAL	really	---	NSNT
+
+
+118, 1	376, 1-5	CER	*yeah* mae *right* dda hefyd	NST	NST
+118, 2	377, 1-9	CER	alla i dal pum cant o luniau arno fo	---	NSNT
+
+
+119, 1	378, 1-3	SAL	*oh* my gosh	---	NST
+
+
+120, 1	379, 1-3	CER	*so* mae yn	NST	NST
+120, 2	379, 4-8	CER	mae yn andros o dda	NSNT	NSNT
+120, 3	380, 1-1	CER	does	NSNT	NSNT
+120, 4	380, 2-15	CER	genna i ddim laptop na dim_byd ar y funud i download_io yr lluniau ymlaen	NSNT	SNT
+120, 5	382, 1-5	CER	felly dyna yr cam nesa	NSNT	NSNT
+120, 6	382, 6-7	CER	dw meddwl	NSNT	NSNT
+120, 7	384, 1-5	CER	ond *yeah* werth cael un	NST	NST
+120, 8	385, 1-2	CER	*lot* rhatach	---	NST
+
+
+121, 1	386, 2-2	SAL	mae	---	NSNT
+
+
+122, 1	389, 1-2	CER	ie hollol	NSNT	NSNT
+122, 2	391, 1-10	CER	*well* dw i yn ordro lluniau fi *off* yr internet	ST	ST
+122, 3	392, 1-11	CER	fath â mae nhw yn *um* ti gallu upload_io lluniau chdi	NST	ST
+122, 4	393, 1-9	CER	a wedyn mae nhw yn i ti fath â	NSNT	NSNT
+122, 5	393, 10-13	CER	bysai fo yn disposable	SNT	SNT
+122, 6	395, 1-2	CER	*so* mae	NST	NST
+122, 7	395, 3-9	CER	mae yn *quality* *right* dda arnyn nhw	NST	NST
+122, 8	397, 1-8	CER	a mae *lot* rhatach na prynu disposables o_hyd	---	ST
+
+
+123, 1	398, 1-3	SAL	mae nhw yn_dydy	NSNT	NSNT
+123, 2	400, 1-12	SAL	yr unig beth yr unig beth dw i yn licio am disposable	SNT	SNT
+123, 3	400, 13-19	SAL	ydy fel os ti yn colli o	NSNT	NSNT
+123, 4	400, 20-25	SAL	dydy o ddim diwedd y byd	---	NSNT
+
+
+124, 1	401, 1-2	CER	ie hollol	---	NSNT
+
+
+125, 1	402, 1-11	SAL	fel because os dw i cadw o yn y *mag* i	NST	ST
+125, 2	402, 12-17	SAL	dw i yn anghofio amdano fo	NSNT	NSNT
+125, 3	404, 1-8	SAL	*so* os dw i wastad isio dal o	NST	NST
+125, 4	404, 9-14	SAL	*so* wna i gofio defnyddio fo	NST	NST
+125, 5	406, 1-3	SAL	ac *er* timod	NST	NST
+125, 6	406, 4-13	SAL	os dw i yn gollwng diod neu rywbeth arno fo	NSNT	NSNT
+125, 7	406, 14-18	SAL	dydy o ddim bwys really	SNT	SNT
+125, 8	408, 1-8	SAL	dw meddwl os o'n i hefo digital *camera*	ST	ST
+125, 9	408, 9-11	SAL	baswn i fel	NSNT	NSNT
+125, 10	408, 12-13	SAL	baswn i	---	NSNT
+
+
+126, 1	409, 1-1	CER	crio	---	NSNT
+
+
+127, 1	410, 1-1	SAL	bysai	NSNT	NSNT
+127, 2	411, 1-1	SAL	bysai	SNT	NSNT
+127, 4	413, 1-7	SAL	*oh* my gosh baswn i yn mortified	---	ST
+
+
+128, 1	415, 1-4	CER	o'n i wastad meddwl	NSNT	NSNT
+128, 2	415, 5-8	CER	basen andros o ddrud	NSNT	NSNT
+128, 3	416, 1-8	CER	ond dyn nhw ddim mor ddrud â hynny	---	NSNT
+
+
+129, 1	417, 1-6	SAL	*mmm* na dyw ddim bad o_gwbl	ST	ST
+129, 2	419, 1-12	SAL	because oedd yna *um* rywbeth ar *radio* fel *oh* dros yr ha	ST	ST
+129, 4	420, 1-1	SAL	*great*	---	NST
+
+
+130, 1	422, 1-7	CER	na oedd un fi mond yn chwe_deg	NSNT	NSNT
+130, 2	424, 1-4	CER	a un *Kodak* hefyd	ST	NST
+130, 3	425, 1-1	CER	*so*	---	NST
+
+
+131, 1	426, 1-4	SAL	*oh* mae hynna dda	---	NST
+
+
+132, 1	427, 1-6	CER	yr un peth boen ydy *batteries*	NST	NST
+132, 2	428, 1-2	CER	ti yn	NSNT	NSNT
+132, 3	429, 1-8	CER	mae yr *batteries* yn rhedeg allan mor sydyn	NST	NST
+132, 4	431, 1-2	CER	arnyn nhw	---	NSNT
+
+
+133, 1	432, 1-10	SAL	pa mor gyflym pa mor *er* hir wnaeth o para	---	NST
+
+
+134, 1	433, 1-6	CER	*um* *well* ges i rei *um*	NST	NST
+134, 2	433, 7-14	CER	be ydyn nhw *Energize* *oh* na *um* *Duracel*	NST	NST
+134, 3	435, 1-5	CER	mae rheina para *right* hir	NST	NST
+134, 4	436, 1-5	CER	ond ges i rei *Energizer*	NST	NST
+134, 5	438, 1-14	CER	roes i yno fo a oedd y *battery* wedi marw *just* cyn i fi	NST	NST
+134, 6	438, 15-24	CER	roid o on *well* *just* roes i o on ymlaen	---	ST
+
+
+135, 1	439, 1-3	SAL	*oh* my gosh	---	NST
+
+
+136, 1	440, 1-8	CER	*so* *oh* wnes i wario *fortune* mewn *batteries*	NST	NST
+136, 2	441, 1-6	CER	a ddim yn gweithio yn diwedd	NSNT	NSNT
+136, 3	443, 1-8	CER	o'n i meddwl falle yr *batteries* oedd o	NST	NST
+136, 4	444, 1-3	CER	prynu *pack* arall	NST	NST
+136, 5	445, 1-6	CER	union yr un peth ddigwydd eto	NSNT	NSNT
+136, 6	446, 1-7	CER	*so* werth cael rei rechargeable o *Boots*	NST	ST
+136, 7	449, 1-1	CER	mae	NSNT	NSNT
+136, 8	449, 2-2	CER	werth	NSNT	NSNT
+136, 9	450, 1-11	CER	*yeah* ti yn safio gymaint o bres trwy gael nhw de	---	NST
+
+
+137, 1	451, 1-4	SAL	*yeah* *sure* bod ti	NST	NST
+137, 2	453, 1-4	SAL	*yeah* meddwl am hwnna	ST	NST
+137, 4	455, 1-4	SAL	*yeah* think about that	ST	NST
+137, 5	457, 1-6	SAL	ti gwybod be ti gael Dolig	---	NSNT
+
+
+138, 1	459, 1-6	CER	*well* dw i ddim yn gwybod	NST	NST
+138, 2	460, 1-1	CER	does	NSNT	NSNT
+138, 3	460, 2-5	CER	genna i ddim syniad	---	NSNT
+
+
+139, 1	461, 1-3	SAL	wyt ti yn	NSNT	NSNT
+139, 2	461, 4-8	SAL	wyt ti fel yn *er*	NST	NST
+139, 3	461, 9-18	SAL	wyt ti yn gofyn wrth rhieni fel be ti isio	NSNT	NSNT
+139, 4	462, 1-7	SAL	neu ti *just* yn cael fel *surprise*	---	NST
+
+
+140, 1	463, 1-4	CER	*well* o'n i arfer	NST	NST
+140, 3	465, 1-11	CER	o'n i ddim yn gwybod be i ofyn am na dim_byd	---	NSNT
+
+
+141, 1	466, 1-1	SAL	really	---	NSNT
+
+
+142, 1	467, 1-1	CER	*so*	---	NST
+
+
+143, 1	468, 1-13	SAL	a drws *er* drws ti yn yn halls oedd yr un mwya nadoligaidd	---	ST
+
+
+144, 1	470, 1-5	CER	o'n i teimlo fath â	NSNT	NSNT
+144, 2	471, 1-6	CER	achos oedd o mor fath â	NSNT	NSNT
+144, 3	471, 7-10	CER	oedd o'n i medddwl	NSNT	NSNT
+144, 4	471, 11-16	CER	bod o mor dywyll a mor	NSNT	NSNT
+144, 5	471, 17-18	CER	timod plaen	NSNT	NSNT
+144, 6	472, 1-4	CER	*oh* lliw arno fo	---	NST
+
+
+145, 1	476, 1-2	SAL	syniad da	---	NSNT
+
+
+146, 1	477, 1-11	CER	*yeah* ond es i adre o'n i *just* fath â *ugh*	NST	NST
+146, 2	478, 1-3	CER	peth gorau oedd	NSNT	NSNT
+146, 3	478, 4-7	CER	gynna i *advent* *calendar*	NST	NST
+146, 4	479, 1-5	CER	a aethon ni ddim adre	NSNT	NSNT
+146, 5	479, 6-10	CER	naddo tan *just* cyn Dolig	NST	NST
+146, 6	482, 1-12	CER	*so* gynna i fath â *lot* o *chocolate* yn aros amdana i	---	NST
+
+
+147, 1	484, 1-2	SAL	*oh* *nice*	---	NST
+
+
+148, 1	485, 1-11	CER	*oh* *yeah* dw ddim yn gwybod be i ofyn am wan	NST	NST
+148, 2	486, 1-4	CER	*yeah* be am ti	---	NST
+
+
+149, 1	487, 1-6	SAL	dw byth yn gofyn am byd	NSNT	NSNT
+149, 2	488, 1-9	SAL	fel dw i byth yn gwybod be i gael	NSNT	NSNT
+149, 3	490, 1-3	SAL	dw *just* fel	NST	NST
+149, 4	490, 4-9	SAL	mae *just* *bunch* o *stuff* yna	NST	NST
+149, 6	494, 1-9	SAL	*oh* wnaeth *mam* mynd yn bach o_t_t un blwyddyn	NST	ST
+149, 7	495, 1-17	SAL	*um* wnaeth hi *just* prynu *lot* a *lot* o *jumpers* i fi *lot* a *lot* o *jumpers*	NST	NST
+149, 9	497, 1-4	SAL	ac o'n i fel	NSNT	NSNT
+149, 10	498, 1-2	SAL	*mam* mae	NST	NST
+149, 11	498, 3-8	SAL	mae halls yn really really gynnes	NSNT	SNT
+149, 12	499, 2-6	SAL	dw i ddim angen *jumpers*	---	NST
+
+
+150, 1	500, 1-4	CER	ie *yeah* yn enwedig	---	NST
+
+
+151, 1	501, 1-3	SAL	*oh* God *yeah*	ST	NST
+151, 2	504, 1-1	SAL	*so*	ST	NST
+151, 3	505, 1-3	SAL	*sorry* go on	---	NST
+
+
+152, 1	506, 1-2	CER	*sorry* na	NST	NST
+152, 3	508, 1-11	CER	*just* deud blwyddyn diwetha love_io mynd adre a cael llofft oer	NST	ST
+152, 4	510, 2-5	CER	oedd *Rathbone* mor boeth	---	NST
+
+
+153, 1	511, 1-3	SAL	mae refreshing yn_dydy	---	SNT
+
+
+154, 1	513, 1-6	CER	achos y ffenestr wedi agor o_hyd	NSNT	NSNT
+154, 2	514, 1-6	CER	a oedd y *radiator* dal ymlaen	NST	NST
+154, 3	515, 1-8	CER	o'n i byth yn gallu roid o *off*	---	NST
+
+
+155, 1	516, 1-3	SAL	mae hynna awful	NSNT	SNT
+155, 2	517, 1-2	SAL	really yn	---	SNT
+
+
+156, 1	518, 1-9	CER	*yeah* ac oedd ffenestr fi mond yn agor bach	NST	NST
+156, 2	519, 1-8	CER	a wnes i manejio symud y *blocks* fel	NST	NST
+156, 3	519, 9-14	CER	bod o yn agor bach mwy	NSNT	NSNT
+156, 4	521, 1-2	CER	ond dal	NSNT	NSNT
+156, 5	521, 3-6	CER	oedd o mor boeth	---	NSNT
+
+
+157, 1	524, 1-6	SAL	a dw i cofio *um* un	NST	NST
+157, 2	524, 7-7	SAL	noson	NSNT	NSNT
+157, 3	525, 1-5	SAL	ond flwyddyn blwyddyn dwytha though	SNT	SNT
+157, 4	527, 1-4	SAL	eistedd yn stafell fi	NSNT	NSNT
+157, 5	528, 1-7	SAL	ac o'n i *just* fel yn wilter_o	ST	ST
+157, 6	529, 1-3	SAL	*well* oedd ddwy	NST	NST
+157, 7	529, 4-10	SAL	oedd ffenestr ar agor drws ar agor	NSNT	NSNT
+157, 8	530, 1-6	SAL	a *just* doedd yna ddim *draft*	---	NST
+
+
+158, 1	531, 1-6	CER	dw meddwl o'n o'n i yna	NSNT	NSNT
+158, 2	532, 1-6	CER	achos dw i yn cofio beth	NSNT	NSNT
+158, 3	532, 7-10	CER	oedd o blwyddyn diwetha	---	NSNT
+
+
+159, 1	533, 1-3	SAL	*sure* o fod	---	NST
+
+
+160, 1	534, 1-3	CER	*yeah* dw cofio	NST	NST
+160, 2	534, 4-12	CER	ddaru *Naomi* cwyno yn_do i yr *um* halls *office*	---	ST
+
+
+161, 1	536, 1-4	SAL	mae wastad yn cwyno	SNT	NSNT
+161, 2	538, 1-2	SAL	my gosh	---	NSNT
+
+
+162, 1	541, 1-12	CER	a does yna mond ryw chwech wsnos tan Dolig wan anyway yn_does	---	SNT
+
+
+163, 1	544, 1-4	SAL	mae hynna mor scary	---	SNT
+
+
+164, 1	545, 1-2	CER	mae o	---	NSNT
+
+
+165, 1	546, 1-10	SAL	dim ond un dim ond un *semester* wedyn sy yna	NST	NST
+165, 2	546, 12-14	SAL	genna i wedyn	SNT	NSNT
+165, 3	547, 1-3	SAL	*oh* my gosh	ST	NST
+165, 4	551, 1-4	SAL	ie mae mor drist	---	NSNT
+
+
+166, 1	552, 1-5	CER	ti ddim yn cael gadael	---	NSNT
+
+
+167, 1	553, 1-7	SAL	*oh* gosh dw i ddim isio gadael	NST	ST
+167, 2	554, 1-3	SAL	dw really ddim	NSNT	SNT
+167, 3	556, 1-3	SAL	dal yma hefyd	SNT	NSNT
+167, 5	559, 1-1	SAL	*well*	ST	NST
+167, 6	560, 1-4	SAL	because mae yn *oh*	NST	ST
+167, 7	560, 5-14	SAL	mae actually meddwl am mynd mewn i yr fflatiau yna	NSNT	SNT
+167, 8	561, 1-4	SAL	timod fflatiau yn halls	---	SNT
+
+
+168, 1	562, 1-4	CER	be rheiny sy yn	NSNT	NSNT
+168, 2	563, 1-3	CER	*oh* yn *Rathbone*	---	NST
+
+
+169, 1	564, 1-6	SAL	*yeah* ti gwybod lle mae *Kurt*	NST	NST
+169, 2	566, 1-3	SAL	y rhei yna	SNT	NSNT
+169, 3	567, 1-6	SAL	because mae yna *grew* ohonyn nhw	NST	ST
+169, 4	568, 1-10	SAL	*um* a mae yn trio perswadio gyd i fynd yna	NST	NST
+169, 5	570, 1-8	SAL	ond mae yna rei ohonyn nhw fel licio	NSNT	NSNT
+169, 6	570, 9-11	SAL	bod yn self_catered	SNT	SNT
+169, 7	572, 1-4	SAL	*um* *so* wnaeth hi	NST	NST
+169, 8	572, 5-10	SAL	mae wedi cofio am y *flats*	NST	NST
+169, 9	573, 1-7	SAL	*so* *um* hwyrach wneith nhw cael rheiny	---	NST
+
+
+170, 1	574, 1-2	CER	*yeah* mae	NST	NST
+170, 2	574, 3-14	CER	mae yna un tua deuddeg o bobl rywbeth fel yna yn_doedd wedyn	---	NSNT
+
+
+171, 1	575, 2-2	SAL	dw	NSNT	NSNT
+171, 2	575, 3-4	SAL	dw meddwl	NSNT	NSNT
+171, 3	575, 5-18	SAL	bod ti cael *lot* o freshers yn wandro lawr yn disgwyl partïon a *stuff*	NST	ST
+171, 4	575, 19-22	SAL	timod pan ti yn	---	NSNT
+
+
+172, 1	576, 1-13	CER	ie *well* mond ddau *person* ti gallu cael yn y *flats* dw meddwl	---	NST
+
+
+173, 1	577, 1-3	SAL	mae yna ddau	NSNT	NSNT
+173, 2	578, 1-4	SAL	mae yna un gyferbyn	NSNT	NSNT
+173, 3	578, 5-5	SAL	does	---	NSNT
+
+
+174, 1	579, 1-8	CER	achos mae yr un un *person* yn amlwg	---	NST
+
+
+175, 1	580, 1-3	SAL	un *person* *yeah*	---	NST
+
+
+176, 1	581, 1-4	CER	yr gyferbyn gyfer ddau	---	NSNT
+
+
+177, 1	583, 1-5	SAL	mae yna ddau fan yna	NSNT	NSNT
+177, 2	585, 1-8	SAL	*so* tair ohonyn nhw gallu bod fan yna	NST	NST
+177, 3	587, 1-2	SAL	dw meddwl	NSNT	NSNT
+177, 4	587, 3-8	SAL	basai *just* isio rywun fod yna	NST	NST
+177, 5	588, 1-3	SAL	dw ddim meddwl	NSNT	NSNT
+177, 6	590, 2-4	SAL	dw ddim meddwl	NSNT	NSNT
+177, 7	590, 5-9	SAL	bod o gymaint o bwys	NSNT	NSNT
+177, 8	590, 10-16	SAL	os dyn nhw gyd ddim mynd yna	---	NSNT
+
+
+178, 1	592, 1-3	CER	*well* dw meddwl	NST	NST
+178, 2	592, 4-13	CER	bod *Kurt* paso trio fan yna eto blwyddyn nesa ond	---	NST
+
+
+179, 1	593, 1-1	SAL	really	---	NSNT
+
+
+180, 1	595, 1-5	CER	*well* dw ddim yn gwybod	---	NST
+
+
+181, 1	596, 1-3	SAL	ydy o yn	---	NSNT
+
+
+182, 1	597, 1-10	CER	oedd o sôn am fath â symud i efo ni	NSNT	NSNT
+182, 2	597, 11-21	CER	os oes un o ni yn fath â yn dropio allan	---	NSNT
+
+
+183, 1	598, 1-3	SAL	*oh* pa flwyddyn	---	NST
+
+
+184, 1	599, 1-1	CER	ddaru	NSNT	NSNT
+184, 2	599, 2-7	CER	ddaru o graddio flwyddyn diwetha seicoleg	NSNT	NSNT
+184, 3	600, 1-15	CER	ond mae wneud yr *um* cwrs *um* dwy *er* dau flwyddyn yn *um* y gyfraith	NST	NST
+184, 4	602, 1-2	CER	*so* mae	NST	NST
+184, 5	602, 3-7	CER	genno fo flwyddyn arall ar_ôl	---	NSNT
+
+
+185, 1	603, 1-5	SAL	*oh* dw i yn gweld	NST	NST
+185, 2	605, 1-5	SAL	be pa gwrs ydy hwnna	---	NSNT
+
+
+186, 1	606, 1-8	CER	*um* dw ddim yn cofio be pa un	NST	NST
+186, 2	606, 9-19	CER	ydy o *just* y gyfraith *just* yr llai mwy neu lai	---	NST
+
+
+187, 1	607, 1-1	SAL	gosh	SNT	NSNT
+187, 2	609, 1-4	SAL	be oedd e wneud	SNT	NSNT
+187, 3	610, 1-5	SAL	because oedd fi *just* fel	NST	ST
+187, 4	610, 6-9	SAL	bod o wedi fel	NSNT	NSNT
+187, 5	610, 10-19	SAL	dw ddim gwybod methu ryw flwyddyn ac yn ail_wneud o	---	NSNT
+
+
+188, 1	612, 1-3	CER	wnaeth o *um*	NST	NST
+188, 2	612, 4-8	CER	wnaeth o graddio blwyddyn diwetha	---	NSNT
+
+
+189, 1	614, 1-5	SAL	*oh* chwarae teg i fo	NST	NST
+189, 2	616, 1-4	SAL	timod be gaeth o	---	NSNT
+
+
+190, 1	617, 1-4	CER	*um* two_one dw meddwl	---	ST
+
+
+191, 1	618, 1-2	SAL	*oh* *wow*	---	NST
+
+
+192, 1	619, 1-5	CER	wnaeth o yn *right* dda	---	NST
+
+
+193, 1	620, 1-5	SAL	*oh* chwarae teg iddo fo	---	NST
+194, 3	624, 1-7	CER	wnaeth o andros o dda chwarae teg	SNT	NSNT
+194, 4	626, 1-1	CER	*so*	---	NST
+
+
+195, 1	627, 1-3	SAL	gosh really dda	NSNT	SNT
+195, 2	629, 1-5	SAL	ti cael impressions o bobl	NSNT	SNT
+195, 3	630, 1-7	SAL	ti ddim yn really nabod nhw gwbl	NSNT	SNT
+195, 4	632, 1-8	SAL	*well* dw i ddim yn nabod o gwbl	---	NST
+
+
+196, 1	634, 1-11	CER	*well* wnaeth o a ei gariad o gorffen fath â tra	NST	NST
+196, 2	634, 12-16	CER	oedd o wneud dissertation o	NSNT	SNT
+196, 3	635, 1-4	CER	a oedd o *right*	NST	NST
+196, 4	635, 5-9	CER	timod wedi ypsetio am hynny	---	NSNT
+
+
+197, 1	636, 1-2	SAL	*oh* God	---	NST
+
+
+198, 1	637, 1-8	CER	ond *um* na wnaeth o weithio *right* galed	NST	NST
+198, 2	638, 1-6	CER	wnaeth o yn andros o dda	---	NSNT
+
+
+199, 1	639, 1-2	SAL	chwarae teg	---	NSNT
+
+
+200, 1	641, 1-6	CER	ond oedd o sôn blwyddyn nesa	NSNT	NSNT
+200, 2	642, 1-19	CER	achos fath â dan ni ddim yn gwybod os un o yr genethod *well* un o yr genethod genethod	NST	NST
+200, 3	642, 20-31	CER	dan ni yn byw efo yn paso byw efo ni blwyddyn nesa	NSNT	NSNT
+200, 4	643, 1-5	CER	mae yna un hogyn hefyd	NSNT	NSNT
+200, 5	643, 6-17	CER	dan ni dal ddim yn rhy *sure* mynd i fyw efo ni	NST	NST
+200, 6	645, 1-7	CER	ond gobeithio fydd yna le iddo fo	NSNT	NSNT
+200, 7	645, 8-11	CER	os ydy isio symud	NSNT	NSNT
+200, 8	646, 1-6	CER	achos dydy o ddim yn licio	NSNT	NSNT
+200, 9	646, 7-9	CER	bod ar ben	NSNT	NSNT
+200, 10	646, 10-13	CER	ei hun mewn *flat*	---	NST
+
+
+201, 1	647, 1-5	SAL	mae yn unig yn_dydy *mmm*	---	NST
+
+
+202, 1	648, 1-3	CER	basai fo gallu	NSNT	NSNT
+202, 2	648, 4-6	CER	bod *right* unig	NST	NST
+202, 3	649, 1-8	CER	achos fath â tra oedden ni yna o_leia	NSNT	NSNT
+202, 4	649, 9-10	CER	oedd gyn	NSNT	NSNT
+202, 5	649, 11-20	CER	oedden ni gallu mynd am swper a ballu efo ein_gilydd	NSNT	NSNT
+202, 6	651, 1-6	CER	ond tra mae o fan yna	NSNT	NSNT
+202, 7	651, 7-9	CER	mae ar ben	NSNT	NSNT
+202, 8	651, 10-12	CER	ei hun o_hyd	NSNT	NSNT
+202, 9	656, 1-8	CER	gobeithio wneith o cyfarfod pobl newydd yn y	---	NSNT
+
+
+203, 1	657, 1-2	SAL	ie gobeithio	NSNT	NSNT
+203, 3	661, 1-13	SAL	ie because fel ti yn deud ti mynd lawr am de nag wyt	---	SNT
+
+
+204, 1	663, 1-9	CER	ydyn nhw wedi dechrau ar addurno yr *um* common_room	---	ST
+
+
+205, 1	664, 1-2	SAL	dw meddwl	NSNT	NSNT
+205, 2	664, 3-6	SAL	bod nhw wedi actually	---	SNT
+
+
+206, 1	667, 1-7	CER	mae nhw actually wedi wneud rywbeth felly	---	SNT
+
+
+207, 1	668, 1-2	SAL	do *well*	NST	NST
+207, 2	668, 3-4	SAL	dw meddwl	NSNT	NSNT
+207, 3	668, 5-6	SAL	mae pawb	NSNT	NSNT
+207, 4	668, 7-13	SAL	wedi bod yn poeni amdano fo gymaint	NSNT	NSNT
+207, 5	670, 1-4	SAL	*um* a dw meddwl	NST	NST
+207, 6	670, 5-6	SAL	dw meddwl	NSNT	NSNT
+207, 7	670, 7-17	SAL	bod *Naomi* yn mynd i *er* reseinio ar_ôl yr un yma	ST	NST
+207, 8	672, 1-4	SAL	because mae wedi cael	SNT	SNT
+207, 9	673, 1-8	SAL	*oh* my gosh mae yna gymaint wedi digwydd	NST	ST
+207, 11	675, 1-5	SAL	*oh* fel *oh* my gosh	---	ST
+
+
+208, 1	677, 1-4	CER	*yeah* oedd o achos	NST	NST
+208, 2	677, 5-12	CER	oedd o yn andros o dda blwyddyn diwetha	NSNT	NSNT
+208, 3	678, 1-8	CER	oeddech chi gyd yn fath â yn brilliant	SNT	SNT
+208, 4	678, 9-10	CER	dw cofio	---	NSNT
+
+
+209, 1	679, 1-3	SAL	*Naomi* oedd o	---	NST
+
+
+210, 1	680, 1-2	CER	oedd y	---	NSNT
+
+
+211, 1	681, 1-4	SAL	*Naomi* oedd o gyd	---	NST
+
+
+212, 1	683, 1-5	CER	ie oedd y yn brilliant	SNT	SNT
+212, 2	685, 1-5	CER	ond alla i weld *yeah*	NST	NST
+212, 3	685, 6-17	CER	alla i weld y hogiau blwyddyn yma ddim yn wneud dim_byd llawer	---	NSNT
+
+
+213, 1	687, 1-4	SAL	mae *Mark* wedi reseinio	---	NST
+
+
+214, 1	688, 1-1	CER	*Mark*	ST	NST
+214, 2	690, 1-1	CER	naddo	NSNT	NSNT
+214, 3	692, 1-1	CER	pam	---	NSNT
+
+
+215, 1	693, 1-7	SAL	*er* wna i ddeud wrth ti wedyn	---	NST
+
+
+216, 1	695, 1-2	CER	digon teg	---	NSNT
+
+
+217, 1	696, 1-5	SAL	ac *er* dw ddim meddwl	NST	NST
+217, 2	696, 6-11	SAL	wneith *er* *Euros* aros yn hir	ST	NST
+217, 4	700, 1-14	SAL	because o yr un *er* *well* un o un *er* fel *issue* ydy o	ST	ST
+217, 5	702, 1-2	SAL	*so* *um*	---	NST
+
+
+218, 1	703, 1-16	CER	*er* o'n i clywed *um* gen rywun bod *um* *lot* o bobl isio cicio *Simon* ffwrdd	---	NST
+
+
+219, 1	704, 1-1	SAL	really	SNT	NSNT
+219, 2	706, 1-2	SAL	*oh* bechod	---	NST
+
+
+220, 1	707, 1-5	CER	*yeah* dw ddim gwybod pam	NST	NST
+220, 2	709, 1-9	CER	ond dydy o ddim wneud dim_byd o ei le	NSNT	NSNT
+220, 3	710, 1-1	CER	mae	NSNT	NSNT
+220, 4	710, 2-15	CER	*just* mae *just* yn licio fath â siarad â pobl tu ôl eu gefnau	NST	NST
+220, 5	711, 1-1	CER	ond	---	NSNT
+
+
+221, 1	712, 1-3	SAL	*oh* dw gwybod	NST	NST
+221, 2	712, 4-11	SAL	noson gynta yn freshers week *oh* my gosh	ST	ST
+221, 3	712, 12-19	SAL	wnaeth o gwyno wrth fi gymaint a deud	NSNT	NSNT
+221, 4	712, 20-31	SAL	bod yr hogiau gyd wedi rhedeg i_ffwrdd efo freshers a gadael o	NSNT	SNT
+221, 6	714, 1-5	SAL	dw ddim yn nabod ti	---	NSNT
+
+
+222, 1	715, 1-2	CER	ia hollol	---	NSNT
+
+
+223, 1	716, 1-3	SAL	for God's sake	---	NSNT
+
+
+224, 1	717, 1-5	CER	wneith o siarad efo rywun	NSNT	NSNT
+224, 2	718, 1-6	CER	*yeah* oedd o siarad efo fi	NST	NST
+224, 3	719, 1-8	CER	o'n i o'n i ar *m_s_n* noson blaen	NST	NST
+224, 4	720, 1-5	CER	ac wnaeth o adio fi	NSNT	NSNT
+224, 5	721, 1-12	CER	oedd o yn dechrau siarad efo fi am ei gariad a ballu	NSNT	NSNT
+224, 6	722, 1-2	CER	a timod	NSNT	NSNT
+224, 7	722, 3-6	CER	dw ddim yn meindio	NSNT	NSNT
+224, 8	723, 1-6	CER	ond dw ddim yn nabod hi	NSNT	NSNT
+224, 9	724, 1-8	CER	a dw ddim yn nabod o mor dda	NSNT	NSNT
+224, 10	725, 1-6	CER	*well* dw nabod o yn *o_k*	NST	NST
+224, 11	727, 1-8	CER	ond *um* timod dim digon da i siarad	---	NST
+
+
+225, 1	729, 1-14	SAL	dydy o ddim *quite* wedi cael y divide rhwng ffrindiau da a *just* pobl	NST	ST
+225, 2	729, 15-17	SAL	mae nabod na	---	NSNT
+
+
+226, 1	731, 1-4	CER	mae yn uffernol though	SNT	SNT
+226, 2	732, 1-7	CER	wneith o ddeud celwyddau o_hyd wrtha chdi	---	NSNT
+
+
+227, 1	733, 1-1	SAL	really	---	NSNT
+
+
+228, 1	734, 1-2	CER	dw cofio	NSNT	NSNT
+228, 2	734, 3-11	CER	wnaeth o really styrio rhwng ni gyd blwyddyn diwetha	NSNT	SNT
+228, 3	735, 1-15	CER	wnaeth o *um* deud pethau wrth un hogan bod rywun arall wedi ddeud rywbeth arall	NST	NST
+228, 5	737, 1-6	CER	a troi allan o'n nhw heb	NSNT	NSNT
+228, 6	738, 1-8	CER	timod bron i dipyn o ni disgyn allan	NSNT	NSNT
+228, 7	739, 1-9	CER	ond lwcus ni sylweddoli be be oedd o wneud	---	NSNT
+
+
+229, 1	740, 1-3	SAL	*oh* hynna *pathetic*	NST	NST
+229, 2	742, 1-6	SAL	mae hwnna yn really yn *pathetic*	---	ST
+
+
+230, 1	743, 1-4	CER	ond mae yn unig	NSNT	NSNT
+230, 2	744, 1-5	CER	oes gynno fo ddim ffrindiau	NSNT	NSNT
+230, 3	745, 1-1	CER	does	NSNT	NSNT
+230, 4	745, 2-8	CER	genno fo ddim social *skills* da iawn	NST	ST
+230, 5	747, 1-6	CER	felly dydy o ddim yn gwybod	NSNT	NSNT
+230, 6	747, 7-11	CER	lle mae mynd yn anghywir	NSNT	NSNT
+230, 7	748, 1-2	CER	mae meddwl	NSNT	NSNT
+230, 8	748, 3-9	CER	bod pawb yn troi yn erbyn o	NSNT	NSNT
+230, 9	749, 1-7	CER	ond dydy o ddim yn helpu hun	---	NSNT
+
+
+231, 1	750, 1-4	SAL	na dydy o ddim	NSNT	NSNT
+231, 2	752, 1-2	SAL	ddim o_gwbl	NSNT	NSNT
+231, 3	753, 1-7	SAL	*oh* ti wedi gweld ei gariad o	---	NST
+
+
+232, 1	754, 1-1	CER	naddo	---	NSNT
+
+
+233, 1	755, 1-4	SAL	mae yn really hardd	SNT	SNT
+233, 2	757, 1-3	SAL	really really hardd	NSNT	SNT
+233, 3	758, 1-2	SAL	ac timod	NSNT	NSNT
+233, 4	758, 3-9	SAL	dw i ddim isio bod yn gas	NSNT	NSNT
+233, 5	759, 1-7	SAL	ond be ddiawl mae wneud efo fo	---	NSNT
+
+
+234, 1	761, 1-5	CER	o'n i clywed bod o	NSNT	NSNT
+234, 2	761, 6-9	CER	bod hi yn gallu	NSNT	NSNT
+234, 3	761, 10-16	CER	bod yn *right* gas efo fo though	ST	ST
+234, 4	761, 17-18	CER	bod o	NSNT	NSNT
+234, 5	761, 19-25	CER	bod hi yn gadael o ballu weithiau	NSNT	NSNT
+234, 6	763, 1-2	CER	ond dw	NSNT	NSNT
+234, 7	763, 3-3	CER	mae	NSNT	NSNT
+234, 8	763, 4-6	CER	mae o wedi	NSNT	NSNT
+234, 9	765, 1-5	CER	fo ydy cariad cynta hi	NSNT	NSNT
+234, 10	765, 6-8	CER	dw gwybod hynna	NSNT	NSNT
+234, 11	767, 1-7	CER	achos oedd o yn deud wrth fi	NSNT	NSNT
+234, 12	767, 8-21	CER	bod hi yn paso disgyn allan fath â dropio allan yr wsnos gynta yma	NSNT	NSNT
+234, 13	768, 1-4	CER	achos mae wedi symud	NSNT	NSNT
+234, 14	769, 1-5	CER	mae rieni hi yn Ffrainc	NSNT	NSNT
+234, 15	771, 1-2	CER	wedyn mae	NSNT	NSNT
+234, 16	771, 3-8	CER	mae wedi byw yn bob man	NSNT	NSNT
+234, 17	772, 1-3	CER	mae wedi achos	NSNT	NSNT
+234, 18	772, 4-12	CER	mae thad tad hi yn yr *army* neu rywbeth	NST	NST
+234, 19	774, 1-2	CER	dw meddwl	NSNT	NSNT
+234, 20	774, 3-10	CER	oedd hi *just* yn fath â colli teulu	NST	NST
+234, 21	775, 1-7	CER	ond *um* yn amlwg mae wedi aros	NST	NST
+234, 22	779, 1-2	CER	efo *Simon*	NST	NST
+234, 23	782, 1-4	CER	oedd o yn deud	NSNT	NSNT
+234, 24	782, 5-11	CER	bod o mynd i *Trash* heno *so*	NST	NST
+234, 25	784, 1-3	CER	dw ddim gwybod	NSNT	NSNT
+234, 26	785, 1-4	CER	dragio hi *sure* *so*	---	NST
+
+
+235, 1	786, 1-4	SAL	ie baswn i meddwl	NSNT	NSNT
+235, 2	788, 1-6	SAL	mae yn edrych yn hogan *nice*	---	NST
+
+
+236, 1	790, 1-5	CER	*yeah* *oh* *sure* bod hi	NST	NST
+236, 2	791, 1-5	CER	dw gobeithio nhw yn hapus	NSNT	NSNT
+236, 3	792, 1-3	CER	dw wir yn	---	NSNT
+
+
+237, 1	793, 1-5	SAL	ie basai fo yn *nice*	NST	NST
+237, 2	793, 6-6	SAL	bysai	---	NSNT
+
+
+238, 1	795, 1-2	CER	ond *hmm*	---	NST
+
+
+239, 1	796, 1-6	SAL	*yeah* *watch* this space really de	---	ST
+
+
+240, 1	798, 1-1	CER	*so*	ST	NST
+240, 2	799, 1-9	CER	ti paso mynd i *Occy* rhwng wan a Dolig	---	NST
+
+
+241, 1	800, 1-4	SAL	*oh* my gosh na	ST	ST
+241, 3	802, 1-8	SAL	*phh* God alla i ddim diodde yr lle	NST	ST
+241, 4	803, 1-4	SAL	ti ti mynd yna	---	NSNT
+
+
+242, 1	804, 1-5	CER	es i nos Fercher diwetha	---	NSNT
+
+
+243, 1	805, 1-3	SAL	do *School_Night* *School_Night*	NST	NST
+243, 2	805, 4-5	SAL	oedd o	---	NSNT
+
+
+244, 1	808, 2-4	CER	oedd o *laugh*	---	NST
+
+
+245, 1	810, 1-4	SAL	wnest ti wisgo fyny	---	NSNT
+
+
+246, 1	812, 1-11	CER	ddim fath â yr sgert byr yna mae merched eraill three_quarters	SNT	SNT
+246, 2	814, 1-7	CER	sanau stripy a yr esgidiau am *laugh*	---	ST
+
+
+247, 1	815, 1-2	SAL	*oh* God	ST	NST
+247, 2	816, 1-2	SAL	*oh* *nice*	---	NST
+
+
+248, 1	817, 1-10	CER	*so* *um* ie dim ond ryw chwech o ni aeth	NST	NST
+248, 2	818, 1-6	CER	ond *um* na oedd hi yn	NST	NST
+248, 3	818, 7-8	CER	noson iawn	NSNT	NSNT
+248, 4	819, 1-12	CER	ddaru un o ffrindiau fi disgyn lawr a *um* torri garddwrn hi	NST	NST
+248, 6	822, 1-2	CER	ac *um*	NST	NST
+248, 7	823, 1-7	CER	do *um* ffrind fi *Mari* o *j_m_j*	NST	NST
+248, 8	824, 1-12	CER	ac *um* wnaeth hi wneud rywbeth i choes hi a gên hi	NST	NST
+248, 9	825, 1-1	CER	mae	NSNT	NSNT
+248, 10	825, 2-5	CER	mae really wedi brifo	---	SNT
+
+
+249, 1	826, 1-3	SAL	*oh* my gosh	---	NST
+
+
+250, 1	827, 1-6	CER	ond *um* *yeah* mae yn iawn	NST	NST
+250, 2	828, 2-6	CER	oedd hi wedi meddwi gymaint	NSNT	NSNT
+250, 3	828, 7-13	CER	ddaru ddim teimlo fo tan bore wedyn	NSNT	NSNT
+250, 6	831, 1-1	CER	felly	NSNT	NSNT
+250, 7	834, 1-4	CER	ond noson dda though	SNT	SNT
+250, 8	835, 1-7	CER	oedd hi yn andros o packed yna	NSNT	SNT
+250, 9	836, 1-6	CER	oedd hi yn *right* brysur yna	NST	NST
+250, 10	838, 1-5	CER	ond *um* *yeah* mae gallu	NST	NST
+250, 11	838, 6-12	CER	bod yn *o_k* pob hyn a hyn	NST	NST
+250, 12	841, 1-6	CER	mae yr d_j yn boen though	SNT	SNT
+250, 13	842, 1-6	CER	mae yn siarad dros bob peth	---	NSNT
+
+
+251, 1	843, 1-3	SAL	*oh* my God	ST	NST
+251, 2	844, 1-1	SAL	dyna	NSNT	NSNT
+251, 3	844, 2-6	SAL	be sy yn cael fi	NSNT	NSNT
+251, 4	846, 1-3	SAL	mae really yn	---	SNT
+
+
+252, 1	847, 1-3	CER	achos *boy* yna	NST	NST
+252, 2	848, 1-6	CER	ti cofio rhaglen *Fun_House* blwyddyn diwetha	NST	NST
+252, 3	850, 1-6	CER	*Pat* rywbeth oedd enw yr presenter	ST	ST
+252, 4	852, 1-4	CER	fo oedd y *boy*	NST	NST
+252, 5	852, 5-7	CER	oedd yn d_j	SNT	SNT
+252, 6	852, 8-9	CER	noson hwnnw	NSNT	NSNT
+252, 7	853, 1-5	CER	oedd o wedi dod yna	---	NSNT
+
+
+253, 1	856, 1-9	SAL	*oh* my gosh os o'n i wedi gwybod hynny	---	ST
+
+
+254, 1	857, 1-2	CER	ac *um*	NST	NST
+254, 2	858, 1-17	CER	*oh* o'n i ddim o'n i ddim yn dallt mai fo oedd o tan hanner ffordd trwy	NST	NST
+254, 3	858, 18-18	CER	noson	NSNT	NSNT
+254, 4	859, 1-11	CER	oedd dechrau siarad am y twins ar y rhaglen a ballu	NSNT	SNT
+254, 5	860, 1-6	CER	*well* be be mae sôn am	NST	NST
+254, 6	861, 1-5	CER	a wedyn deud wrth fi	NSNT	NSNT
+254, 7	862, 1-4	CER	fath â *oh* *o_k*	NST	NST
+254, 8	863, 1-4	CER	ond *um* *yeah* oedd	NST	NST
+254, 9	863, 5-6	CER	oedd o	NSNT	NSNT
+254, 10	863, 7-8	CER	noson *o_k*	NST	NST
+254, 11	865, 1-11	CER	ond oedd yna *boy* arall efo fo fath â yn deejay_o	ST	ST
+254, 12	866, 1-6	CER	ac oedd yr un un *boy*	NST	NST
+254, 13	866, 7-17	CER	sy yna pob wsnos wythnos *just* yn siarad drosto fo o_hyd	---	NST
+
+
+255, 1	867, 1-5	SAL	*oh* *oh* mae hwnna yn	---	NST
+
+
+256, 1	868, 1-5	CER	cân dda yn dod mlaen	NSNT	NSNT
+256, 2	869, 1-7	CER	mae hwnna siarad dros y rhan gorau	---	NSNT
+
+
+257, 1	870, 1-4	SAL	*oh* dw i gwybod	---	NST
+
+
+258, 1	871, 1-7	CER	ti fath â *oh* dos o yma	---	NST
+
+
+259, 1	872, 1-7	SAL	*oh* tro dwytha o'n i yna *um*	NST	NST
+259, 2	873, 1-9	SAL	*oh* tro cynta wnes i fynd yna d_j arall	NST	ST
+259, 3	873, 10-11	SAL	oedd o	SNT	NSNT
+259, 4	874, 1-3	SAL	because dw mond	NSNT	SNT
+259, 5	874, 4-8	SAL	wedi bod yna dwy waith	NSNT	NSNT
+259, 8	878, 1-10	SAL	*um* *yeah* ond tro dwytha oedd o yn *um* *yeah*	NST	NST
+259, 9	878, 11-13	SAL	oedd o *just*	ST	NST
+259, 10	878, 14-21	SAL	you know doing usual a siarad dros popeth	NSNT	SNT
+259, 11	880, 1-10	SAL	ac *er* wnaeth yn ffrind i sgwennu nodyn iddo fo	ST	NST
+259, 12	881, 1-11	SAL	because ti gwybod ti gallu sgwennu fel am requests a *stuff*	NST	ST
+259, 13	883, 1-6	SAL	*so* wnaeth o sgwennu nodyn deud	ST	NST
+259, 14	884, 1-6	SAL	shut up you're talking too much	SNT	NSNT
+259, 15	886, 1-3	SAL	a wnaeth e	NSNT	NSNT
+259, 16	886, 4-5	SAL	wnaeth o	NSNT	NSNT
+259, 17	886, 6-6	SAL	roid	NSNT	NSNT
+259, 18	886, 7-8	SAL	wnaeth o	NSNT	NSNT
+259, 19	886, 9-12	SAL	roid o i bouncer	SNT	SNT
+259, 20	886, 13-15	SAL	roid i fo	NSNT	NSNT
+259, 21	887, 1-8	SAL	wnaeth yr d_j ddarllen fo mynd *ah* *yeah*	NST	ST
+259, 22	888, 1-3	SAL	a dal siarad	---	NSNT
+
+
+260, 1	889, 1-4	CER	dal i wneud *yeah*	---	NST
+
+
+261, 1	890, 1-5	SAL	mae yna bwynt i pam	NSNT	NSNT
+261, 2	890, 6-12	SAL	mae pobl yn sgwennu peth fel yna	---	NSNT
+
+
+262, 1	891, 1-1	CER	ddaru	NSNT	NSNT
+262, 3	895, 1-4	CER	ond wnaeth o dal	NSNT	NSNT
+262, 4	895, 5-10	CER	wnaeth o ddim cymryd sylw o_gwbl	NSNT	NSNT
+262, 5	896, 1-3	CER	*yeah* pa noson	NST	NST
+262, 6	896, 4-5	CER	est ti	NSNT	NSNT
+262, 7	897, 1-3	CER	ar nos Fercher	---	NSNT
+
+
+263, 1	898, 1-6	SAL	*yeah* nos Fercher oedd hi *yeah*	---	NST
+
+
+264, 1	900, 1-5	CER	mae nos Wener yn gallu	NSNT	NSNT
+264, 2	900, 6-9	CER	bod *right* dda yna	NST	NST
+264, 3	903, 1-3	CER	mae bach ddistawach	NSNT	NSNT
+264, 4	904, 1-4	CER	ond mae gyn ti	NSNT	NSNT
+264, 5	905, 1-7	CER	*well* achos *students* night ydy nos Fercher	NST	ST
+264, 6	906, 1-9	CER	*so* mae *lot* o fath â myfyrwyr yn mynd	NST	NST
+264, 7	908, 1-12	CER	ond nos Wener mae gyn ti *lot* o pobl lleol yn mynd	---	NST
+
+
+265, 1	911, 1-3	SAL	*yeah* avoid those	---	NST
+
+
+266, 1	912, 1-11	CER	*yeah* hefo eu capiau bach *Burberry* a timod efo eu gynau	---	NST
+
+
+267, 1	914, 1-2	SAL	*oh* God	ST	NST
+267, 2	915, 1-9	SAL	*oh* noson o_blaen *um* ar y ffordd o'n i	NST	NST
+267, 3	915, 10-12	SAL	wedi bod yn	NSNT	NSNT
+267, 4	917, 1-3	SAL	*Racubah* dyna fo	ST	NST
+267, 5	919, 1-1	SAL	*Racubah*	ST	NST
+267, 6	920, 1-8	SAL	mynd fyny yr allt *er* i nôl *pizza*	NST	NST
+267, 7	921, 1-3	SAL	a wnaeth *um*	NST	NST
+267, 8	922, 1-6	SAL	oedd yna tua pedwar ohonon ni	NSNT	NSNT
+267, 9	923, 1-9	SAL	ac oedd yna dau neu dri hogyn o_flaen ni	NSNT	NSNT
+267, 10	924, 1-16	SAL	wnaeth y ddau ddyn yma cerdded lawr yr allt *um* pasio ni a deud rywbeth fel	ST	NST
+267, 11	925, 1-3	SAL	*oh* effing locals	NST	NST
+267, 13	927, 1-1	SAL	what	SNT	NSNT
+267, 14	928, 1-12	SAL	timod pethau completely unnecessary fel *just* yn gweiddi yr pethau yma allan	---	ST
+
+
+268, 1	929, 1-7	CER	*yeah* oedd yna ddim angen iddo fo	---	NST
+
+
+269, 1	930, 1-7	SAL	*yeah* mae *just* yn styrio pethau fyny	NST	NST
+269, 2	931, 1-8	SAL	fel os o'n ni wedi bod yn locals	---	SNT
+
+
+270, 1	933, 1-6	CER	be deud hynna amdan amdanoch chi	---	NSNT
+
+
+271, 1	934, 1-2	SAL	*well* ia	---	NST
+
+
+272, 1	935, 1-3	CER	*oh* my God	---	NST
+
+
+273, 1	936, 1-4	SAL	like *mmm* *o_k* diolch	---	ST
+
+
+274, 1	937, 1-6	CER	*yeah* dydy o ddim fath â	NST	NST
+274, 2	937, 7-12	CER	bod chi lleol anyway really na	---	SNT
+
+
+275, 1	938, 1-2	SAL	nag ydy	---	NSNT
+
+
+276, 1	939, 1-1	CER	*just*	---	NST
+
+
+277, 1	940, 1-7	SAL	mae gymaint o bobl saesneg yn meddwl	NSNT	NSNT
+277, 2	940, 8-14	SAL	bod fi *well* ffrindiau fi wan deud	ST	NST
+277, 3	942, 1-4	SAL	*oh* *yeah* *well* you're	NST	NST
+277, 4	942, 5-9	SAL	you're kind of a local	SNT	NSNT
+277, 5	943, 1-7	SAL	tro cynta wnes i ddod i *Fangor*	NST	NST
+277, 6	943, 8-10	SAL	oedd open day	SNT	SNT
+277, 7	944, 1-5	SAL	dydw i ddim yn local	---	SNT
+
+
+278, 1	945, 1-2	CER	*yeah* hollol	NST	NST
+278, 2	947, 1-7	CER	*oh* ti byw really agos yma yn_dwyt	---	ST
+
+
+279, 1	950, 1-12	SAL	os ti yn byw yng gogledd Cymru ish ti yn local dwyt	---	SNT
+280, 2	954, 1-6	CER	*oh* pa *shop* ydy yr gorau	NST	NST
+280, 4	956, 1-5	CER	*well* dw ddim yn gwybod	NST	NST
+280, 5	957, 1-3	CER	dw i erioed	NSNT	NSNT
+280, 6	957, 4-7	CER	wedi bod yma o_blaen	---	NSNT
+
+
+281, 1	962, 1-2	SAL	ti yn	NSNT	NSNT
+281, 2	963, 1-5	SAL	ia *yeah* dw i gwybod	---	NST
+
+
+282, 1	965, 1-5	CER	a bod ti nabod pawb	NSNT	NSNT
+282, 2	967, 1-14	CER	*yeah* dw cofio fi siarad efo rywun *um* ffrind fi o Lloegr unwaith deud	NST	NST
+282, 3	968, 1-9	CER	*oh* dw nabod hogan o *er* Cymru enw *Laura*	NST	NST
+282, 4	969, 1-3	CER	ti nabod hi	NSNT	NSNT
+282, 6	971, 1-1	CER	be	NSNT	NSNT
+282, 7	972, 2-2	CER	disgwyl	NSNT	NSNT
+282, 8	972, 3-8	CER	bod Cymru mor fach â hynny	NSNT	NSNT
+282, 9	972, 9-14	CER	bod ti mynd i nabod pawb	---	NSNT
+
+
+283, 1	976, 1-6	SAL	mae *lot* llai *lot* o lefydd	ST	NST
+283, 2	977, 1-2	SAL	but *still*	---	NST
+
+
+284, 1	979, 1-8	CER	wnes i kind of chwerthin arni cerdded ffwrdd	---	SNT
+
+
+285, 1	981, 1-2	SAL	*oh* bechod	ST	NST
+285, 2	983, 1-2	SAL	*oh* *well*	ST	NST
+285, 3	985, 1-7	SAL	*oh* mae biscuits yma edrych yn *nice*	NST	ST
+285, 4	986, 1-3	SAL	ti isio un	---	NSNT
+
+
+286, 1	987, 1-4	CER	na yn iawn diolch	---	NSNT
+
+
+287, 1	989, 1-2	SAL	ti *sure*	---	NST
+
+
+288, 1	990, 1-2	CER	yndw diolch	NSNT	NSNT
+288, 3	992, 1-3	CER	be ydan nhw	---	NSNT
+
+
+289, 1	993, 1-2	SAL	dim syniad	NSNT	NSNT
+289, 3	996, 1-5	SAL	ti isio ti isio darn	---	NSNT
+
+
+290, 1	997, 1-4	CER	na yn iawn diolch	NSNT	NSNT
+290, 2	998, 1-3	CER	gei di o	---	NSNT
+
+
+291, 1	999, 1-9	SAL	ti isio ti yn gwybod ti isio un dwyt	SNT	NSNT
+291, 2	1000, 1-2	SAL	*well* deep_down	---	NST
+
+
+292, 1	1001, 1-5	CER	na wir dw i iawn	NSNT	NSNT
+292, 2	1002, 1-5	CER	na dw i yn *o_k*	NST	NST
+292, 3	1003, 1-9	CER	faint o gloch mae swper yn *Rathbone* gen ti	---	NST
+
+
+293, 1	1004, 1-1	SAL	chwech	NSNT	NSNT
+293, 2	1008, 1-3	SAL	*oh* mae *alright*	NST	NST
+293, 3	1009, 1-3	SAL	*oh* na mae	NST	NST
+293, 4	1009, 4-4	SAL	mae	NSNT	NSNT
+293, 5	1009, 5-13	SAL	bydd yna fwyd yna tan o leia chwarter wedi	NSNT	NSNT
+293, 6	1011, 1-4	SAL	*so* i yn iawn	---	NST
+
+
+294, 1	1012, 2-4	CER	noson *curry* heno	---	NST
+
+
+295, 1	1014, 1-1	SAL	italian	SNT	NSNT
+295, 2	1015, 1-5	SAL	*oh* mae rhein yn *nice*	NST	NST
+295, 4	1017, 1-4	SAL	mae nhw really yn	NSNT	SNT
+295, 5	1018, 1-4	SAL	*mmm* be ydy o	NST	NST
+295, 6	1019, 1-3	SAL	*bolognese* a *pizza*	---	NST
+
+
+296, 1	1020, 1-2	CER	*oh* *nice*	---	NST
+
+
+297, 1	1021, 1-6	SAL	*so* dydy o ddim ry ddrwg	ST	NST
+297, 2	1022, 1-4	SAL	could be *lot* worse	---	NST
+
+
+298, 1	1023, 1-3	CER	*oh* dw cofio	NST	NST
+298, 2	1023, 4-8	CER	noson *curry* blwyddyn blwyddyn diwetha	NST	NST
+298, 3	1024, 1-6	CER	o'n i gallu ogleuo fo o_hyd	---	NSNT
+
+
+299, 1	1025, 1-3	SAL	*oh* my gosh	---	NST
+
+
+300, 1	1026, 1-7	CER	ti gallu ogleuo fo am dyddiau yn_do't	NSNT	NSNT
+300, 2	1027, 1-4	CER	oedd o yn afiach	---	NSNT
+
+
+301, 1	1029, 1-9	SAL	mae nhw gwneud mwy o *sweet* and sours wan	NST	ST
+301, 2	1031, 1-4	SAL	rheina *quite* *nice* actually	---	ST
+
+
+302, 1	1033, 1-5	CER	oedd rheina *right* *nice* actually	ST	ST
+302, 2	1034, 1-5	CER	dw cofio rheina blwyddyn diwetha	NSNT	NSNT
+302, 3	1036, 1-9	CER	clywed bod chi wedi cael larwm tân diwrnod blaen	---	NSNT
+
+
+303, 1	1037, 1-7	SAL	*oh* my gosh o'n i mor flin	NST	ST
+303, 2	1038, 1-5	SAL	chwech yn bore oedd hi	SNT	NSNT
+303, 4	1041, 1-1	SAL	*sorry*	ST	NST
+303, 5	1042, 1-5	SAL	chwech yn bore oedd hi	NSNT	NSNT
+303, 6	1043, 1-2	SAL	ac oedd	NSNT	NSNT
+303, 7	1043, 3-9	SAL	gynna i nine o'clock *lecture* diwrnod wedyn	NST	ST
+303, 8	1045, 1-9	SAL	ac o'n i *oh* my gosh o'n i mortified	ST	ST
+303, 9	1046, 1-1	SAL	dyna	NSNT	NSNT
+303, 10	1046, 2-10	SAL	lle oedd *Rhydian* yn edrych yn *smug* tu allan	NST	NST
+303, 11	1047, 1-3	SAL	ac goodness sake	---	SNT
+
+
+304, 1	1050, 1-10	CER	ti yn actually yn gwybod timod gweld faint o bwyd	NSNT	SNT
+304, 2	1050, 11-15	CER	sy gynnyn nhw i frecwast	NSNT	NSNT
+304, 3	1052, 1-6	CER	faint o bobl mae nhw prepario	NSNT	NSNT
+304, 4	1053, 1-10	CER	achos mae pawb *just* yn mynd syth i frecwast wedyn	NST	NST
+304, 5	1053, 11-11	CER	ydyn	---	NSNT
+
+
+305, 1	1055, 1-2	SAL	God yndy	---	SNT
+
+
+306, 1	1056, 1-5	CER	achos cofio dw i cofio	NSNT	NSNT
+306, 2	1056, 6-11	CER	pryd gaethon ni o blwyddyn diwetha	NSNT	NSNT
+306, 3	1057, 1-5	CER	ac oedd hi yn bwrw	NSNT	NSNT
+306, 4	1058, 1-6	CER	a oedden ni allan am ages	---	SNT
+
+
+307, 1	1059, 1-7	SAL	*oh* oedd rywun efo *duvet* nhw allan	NST	NST
+307, 2	1059, 8-8	SAL	doedd	---	NSNT
+
+
+308, 1	1060, 2-4	CER	dw i cofio	---	NSNT
+
+
+309, 1	1061, 1-2	SAL	ti cofio	---	NSNT
+
+
+310, 1	1062, 1-7	CER	*yeah* *um* *Alex* neu rywun dw meddwl	---	NST
+
+
+311, 1	1063, 1-9	SAL	God rhaid bod hwnna wedi bod yn socian wedyn	---	SNT
+
+
+312, 1	1064, 1-10	CER	ia *oh* oedd hi ofnadwy yn_doedd hi yn bwrw *lot*	---	NST
+
+
+313, 1	1067, 1-1	SAL	*horrible*	---	NST
+
+
+314, 1	1070, 1-8	CER	cofio ni gyd gorod mynd i lle *post*	NST	NST
+314, 2	1071, 1-14	CER	ni yna am oriau ages yn_doedden ni am dros awr dw i yn gwybod	---	SNT
+
+
+315, 1	1073, 1-11	SAL	*oh* God *um* *yeah* because wnaeth rywun *um* setio fo ffwrdd	---	ST
+
+
+316, 1	1074, 1-4	CER	do trio wneud *toast*	NST	NST
+316, 4	1078, 1-10	CER	*yeah* *um* *er* *Pete* o yr *um* two hundreds wnaeth	---	ST
+
+
+317, 1	1079, 1-1	SAL	dyna	NSNT	NSNT
+317, 2	1079, 2-5	SAL	oedd y tro yna	---	NSNT
+
+
+318, 1	1080, 1-2	CER	wnaeth o	NSNT	NSNT
+318, 2	1081, 1-4	CER	dw ddim yn gwybod	NSNT	NSNT
+318, 3	1081, 5-7	CER	sut wnaeth o	NSNT	NSNT
+318, 4	1082, 1-8	CER	ond wnaeth o manejio llosgi *toast* ac *um*	---	NST
+
+
+319, 1	1083, 1-2	SAL	bod drws	NSNT	NSNT
+319, 2	1083, 3-6	SAL	wedi bod ar agor	---	NSNT
+
+
+320, 1	1084, 1-8	CER	*yeah* *well* oedd yna *lot* o fwg ond	---	NST
+
+
+321, 1	1085, 1-2	SAL	*oh* God	---	NST
+
+
+322, 1	1086, 1-3	CER	*yeah* dw cofio	NST	NST
+322, 2	1086, 4-13	CER	wnaeth yr *engine* dân a bob peth gorod dod yn_do	---	NST
+
+
+323, 1	1087, 3-6	SAL	dw i cofio hwnna	SNT	NSNT
+323, 3	1089, 1-10	SAL	*oh* my gosh siarad am *um* llosgi bwyd blooming heck	ST	ST
+323, 4	1090, 1-3	SAL	ti cofio *Jim*	---	NST
+
+
+324, 1	1091, 1-5	CER	*um* byw wrth ymyl *Daniel*	NST	NST
+324, 2	1093, 1-7	CER	hwnna sy ddim deud dim_byd wrtha fi	NSNT	NSNT
+324, 4	1095, 1-13	CER	dw meddwl fi wedi wneud rywbeth i fath â ypsetio fo heb meddwl	---	NSNT
+
+
+325, 1	1096, 1-5	SAL	na count yourself lucky God	SNT	SNT
+325, 2	1097, 1-5	SAL	pan mae siarad efo ti	NSNT	NSNT
+325, 3	1097, 6-9	SAL	mae kind of *um*	ST	ST
+325, 4	1097, 10-23	SAL	wneith *just* sefyll yna a syllu arnat ti ac yn aros i ddeud rywbeth	NST	NST
+325, 5	1099, 1-12	SAL	*o_k* dydy o really ddim yn gwybod sut i fod efo pobl	NST	ST
+325, 6	1100, 1-2	SAL	wnaeth o	NSNT	NSNT
+325, 8	1102, 1-5	SAL	oedd o yn cwcio *er*	NST	NST
+325, 9	1102, 6-9	SAL	oedd o yn *er*	NST	NST
+325, 10	1103, 1-5	SAL	ie cwcio *bacon* oedd o	NST	NST
+325, 11	1104, 1-2	SAL	dyna fo	NSNT	NSNT
+325, 12	1106, 1-17	SAL	*um* a wnaeth *Daniel* fynd mewn i yr gegin *well* God knows faint o ar_ôl iddo fo	NST	ST
+325, 13	1106, 18-20	SAL	roid o ymlaen	NSNT	NSNT
+325, 14	1108, 1-2	SAL	wnaeth ddeud	NSNT	NSNT
+325, 15	1108, 3-10	SAL	oedd y gegin llawn mwg llawn mwg du	NSNT	NSNT
+325, 17	1110, 1-4	SAL	*so* wnaeth o fynd	NST	NST
+325, 18	1111, 1-5	SAL	ac timod fel three guesses	SNT	SNT
+325, 19	1111, 6-13	SAL	pwy sy yn coginio gadael bwyd fel yna	NSNT	NSNT
+325, 20	1113, 1-9	SAL	mynd a hammer_o ar drws *er* *Jim* a deud	ST	ST
+325, 21	1114, 1-6	SAL	*oh* you cooking *bacon* kitchen like	NST	NST
+325, 22	1115, 1-1	SAL	yes	NSNT	NSNT
+325, 23	1116, 1-6	SAL	*oh* *well* it's burning a *lot*	NST	NST
+325, 25	1118, 1-2	SAL	*oh* crikey	---	NST
+
+
+326, 1	1119, 1-1	CER	aros	---	NSNT
+
+
+327, 1	1121, 1-7	SAL	is that all you got to say	NSNT	NSNT
+327, 2	1122, 1-1	SAL	God	NSNT	NSNT
+327, 3	1123, 1-12	SAL	like basai yr lle wedi cael ei llosgi lawr a *oh* crikey	NST	ST
+327, 5	1126, 1-1	SAL	God	---	NSNT
+
+
+328, 1	1127, 1-4	CER	dw i *well* unwaith	NST	NST
+328, 2	1127, 5-8	CER	wnes i fron llosgi	NSNT	NSNT
+328, 3	1128, 1-11	CER	ti cofio blwyddyn diwetha oedd yna ddim golau yn y gegin	NSNT	NSNT
+328, 4	1130, 1-13	CER	*well* un adeg yn nos oedd fi a *Cliff* ni really isio bwyd	NST	ST
+328, 5	1131, 1-3	CER	*so* aethon ni	NST	NST
+328, 6	1132, 2-5	CER	genna i *popcorn* seeds	ST	ST
+328, 7	1133, 1-7	CER	*so* wnaethon ni penderfynu wneud *popcorn* yn	NST	NST
+328, 8	1133, 8-8	CER	tywyllwch	NSNT	NSNT
+328, 10	1135, 1-5	CER	*oh* oedden ni gallu ogleuo	NST	NST
+328, 11	1135, 6-8	CER	bod o llosgi	NSNT	NSNT
+328, 12	1136, 1-6	CER	ond o'n i meddwl mai dyna	NSNT	NSNT
+328, 13	1136, 7-10	CER	sut oedd o fod	NSNT	NSNT
+328, 14	1137, 1-6	CER	a wedyn wnaethon ni roi golau	NSNT	NSNT
+328, 15	1138, 1-13	CER	ac oedd yna fath â ryw *sparks* bach yn dod fyny fath â	---	NST
+
+
+329, 1	1139, 1-2	SAL	*oh* *dear*	---	NST
+
+
+330, 1	1140, 1-4	CER	*oh* tynna o ffwrdd	NST	NST
+330, 2	1141, 1-7	CER	a gwaelod y *pan* wedi hollol llosgi	NST	NST
+330, 3	1142, 1-4	CER	oedd o yn afiach	SNT	NSNT
+330, 4	1145, 1-13	CER	God mae yr gegin yna yn mor fach i feddwl faint o bobl	NSNT	SNT
+330, 5	1145, 14-17	CER	sy gorod defnyddio fo	---	NSNT
+
+
+331, 1	1146, 1-4	SAL	*mmm* mae e yn_dydy	NST	NST
+331, 2	1147, 1-12	SAL	*just* *as* *well* dydy pob stafell dim wedi cael ei cymryd really	---	ST
+
+
+332, 1	1148, 1-2	CER	ie hollol	NSNT	NSNT
+332, 2	1150, 1-1	CER	meddylia	NSNT	NSNT
+332, 3	1151, 1-4	CER	basai hynna yn uffernol	NSNT	NSNT
+332, 4	1151, 5-5	CER	bysai	---	NSNT
+
+
+333, 1	1152, 1-2	SAL	basai awful	SNT	SNT
+333, 2	1152, 3-3	SAL	bysai	---	NSNT
+
+
+334, 1	1153, 1-7	CER	a fyny staer hefyd yn_bysai llawr *top*	---	NST
+
+
+335, 1	1155, 1-2	SAL	God *yeah*	NST	NST
+335, 2	1156, 1-8	SAL	actually dw ddim yn gweld fyny grisiau *lot*	NST	ST
+335, 3	1158, 1-4	SAL	mae *Alex* a *Neville*	---	NST
+
+
+336, 1	1159, 1-7	CER	fan yno mae nhw yn byw *yeah*	---	NST
+
+
+337, 1	1160, 1-4	SAL	fyny grisiau uwchben ni	---	NSNT
+
+
+338, 1	1161, 1-5	CER	mae yna un *um* hogan	NST	NST
+338, 2	1161, 6-16	CER	sy yn blwyddyn cynta fyny fan yna yn hen llofft *Kara*	---	NST
+
+
+339, 1	1162, 4-6	SAL	mae yna *oh*	NST	NST
+339, 2	1162, 7-9	SAL	mae yn blonde	---	SNT
+
+
+340, 1	1163, 1-1	CER	does	NSNT	NSNT
+340, 2	1163, 2-5	CER	genna i ddim syniad	NSNT	NSNT
+340, 3	1165, 1-7	CER	ond cofio yr llofft yna blwyddyn diwetha	NSNT	NSNT
+340, 4	1166, 1-5	CER	oedd o fath â *sauna*	NST	NST
+340, 5	1167, 1-8	CER	oedd hi yn afiach o boeth yna o_hyd	NSNT	NSNT
+340, 6	1169, 1-3	CER	oedd yn *horrible*	---	NST
+
+
+341, 1	1170, 1-1	SAL	*horrible*	---	NST
+
+
+342, 1	1171, 1-1	CER	*ugh*	---	NST
+
+
+343, 1	1172, 1-10	SAL	mae yna un ferch blonde ac un ferch gwallt tywyll	NSNT	SNT
+343, 2	1173, 1-2	SAL	enw honna	NSNT	NSNT
+343, 3	1173, 3-4	SAL	ydy *Kylie*	NST	NST
+343, 4	1174, 1-4	SAL	dw ddim yn cofio	NSNT	NSNT
+343, 5	1174, 5-11	SAL	be ydy enw yr un gwallt blonde	SNT	SNT
+343, 6	1175, 1-3	SAL	ddim yn cofio	---	NSNT
+
+
+344, 1	1176, 1-4	CER	dw ddim yn cofio	NSNT	NSNT
+344, 2	1176, 5-8	CER	be ydy enw hi	NSNT	NSNT
+344, 3	1177, 1-3	CER	ond dw gwybod	NSNT	NSNT
+344, 4	1177, 4-10	CER	bod yna hogan blwyddyn cynta yna anyway	SNT	SNT
+344, 5	1180, 1-8	CER	dw cofio blwyddyn diwetha o'n nhw yn deud	NSNT	NSNT
+344, 6	1180, 9-15	CER	bod yna ddim stafelloedd ar_ôl yn *Rathbone*	NST	NST
+344, 7	1181, 1-9	CER	ond oedd yna gymaint ohonyn nhw fath â *just*	---	NST
+
+
+345, 1	1183, 1-9	SAL	dw meddwl mai *just* angen *um* bach o waith	---	NST
+
+
+346, 1	1184, 1-2	CER	ail_wneud nhw	---	NSNT
+
+
+347, 1	1185, 1-6	SAL	*yeah* bach o waith arnyn nhw	---	NST
+
+
+348, 1	1187, 1-12	CER	wedi clywed gymaint weithiau bod nhw yn paso knock_io yr lle lawr	---	SNT
+
+
+349, 1	1189, 1-2	SAL	mae nhw	NSNT	NSNT
+349, 2	1189, 3-16	SAL	wedi bod yn deud hynna ers blwyddyn gynta ni hefyd a cyn hynny hefyd	---	NSNT
+
+
+350, 1	1191, 1-6	CER	*yeah* achos deud yng nghefnder i	NST	NST
+350, 2	1192, 1-7	CER	a wnaeth o graddio ryw blynyddoedd yn_ôl	NSNT	NSNT
+350, 3	1194, 1-16	CER	yn deud wrtho fo bod *J_M_J* a *Rathbone* yn mynd i gael eu knock_io lawr a	---	ST
+
+
+351, 1	1195, 1-4	SAL	pan oedd o yma	SNT	NSNT
+351, 2	1197, 1-3	SAL	*oh* my gosh	---	NST
+
+
+352, 1	1198, 1-11	CER	a bob peth yn mynd i end_io fyny yn *er* *Ffriddoedd*	---	ST
+
+
+353, 1	1199, 1-4	SAL	*yeah* *well* dw meddwl	NST	NST
+353, 2	1199, 5-5	SAL	dyna	NSNT	NSNT
+353, 3	1199, 6-9	SAL	ydy yr *great* *plan*	NST	NST
+353, 4	1200, 1-9	SAL	mynd i ddigwydd neu ddim dw ddim yn gwybod	---	NSNT
+
+
+354, 1	1202, 1-6	CER	mae lle newydd yn dre wan	NSNT	NSNT
+354, 2	1202, 7-7	CER	does	---	NSNT
+
+
+355, 1	1204, 1-7	SAL	*oh* mae yn edrych yn *nice* yn_dydy	---	NST
+
+
+356, 1	1206, 1-4	CER	ti wedi bod fewn	---	NSNT
+
+
+357, 1	1207, 1-10	SAL	*um* na ond dw i wedi gweld lluniau ohono fo	NST	NST
+357, 2	1208, 1-7	SAL	mae nhw fel *um* identical i stafell	NST	ST
+357, 3	1209, 1-7	SAL	*well* yr yr un dw i gweld	NST	NST
+357, 4	1209, 8-16	SAL	mae yn identical i rhei o stafelloedd yn *Ffriddoedd*	NST	ST
+357, 5	1210, 1-5	SAL	*um* *oh* mae yn edrych	NST	NST
+357, 6	1210, 6-10	SAL	mae *just* *brand* spanking new	---	ST
+
+
+358, 1	1213, 1-2	CER	*oh* lovely	ST	NST
+358, 2	1215, 1-3	CER	achos wan mae	NSNT	NSNT
+358, 3	1215, 4-10	CER	genna i ffrindiau fath â yn Lerpwl	NSNT	NSNT
+358, 4	1216, 1-2	CER	lle nhw	NSNT	NSNT
+358, 5	1217, 1-11	CER	a dydy *Ffriddoedd* fath â *Ffriddoedd* ddim hanner mor *nice* â	NST	NST
+358, 6	1217, 12-15	CER	be ydy rei nhw	NSNT	NSNT
+358, 7	1218, 1-3	CER	timod fath â	---	NSNT
+
+
+359, 1	1219, 1-1	SAL	wir	---	NSNT
+
+
+360, 1	1220, 1-6	CER	*yeah* ond mae nhw mor *nice*	NST	NST
+360, 2	1221, 1-10	CER	gynnyn nhw fath â *phone* yn llofft i nhw hunain	NST	NST
+360, 3	1222, 1-3	CER	gynnyn nhw mini_fridge	---	SNT
+
+
+361, 1	1223, 1-3	SAL	*oh* my gosh	---	NST
+
+
+362, 1	1224, 1-10	CER	*yeah* a mae gynnyn nhw gymaint o bethau fath â	NST	NST
+362, 2	1225, 1-9	CER	dim fath â *curtain* shower sy gynnyn nhw chwaith	NST	ST
+362, 3	1226, 1-7	CER	mae gynnyn nhw fath â cawod iawn	NSNT	NSNT
+362, 4	1226, 8-13	CER	timod fath â drws a ballu	---	NSNT
+
+
+363, 1	1227, 1-1	SAL	drws	NSNT	NSNT
+363, 2	1228, 1-5	SAL	*oh* basai hwnna *nice* actually	---	ST
+
+
+364, 1	1230, 1-6	CER	gynnon ni hynna yn tŷ ni	NSNT	NSNT
+364, 2	1231, 1-4	CER	mae mor *nice* power_shower	ST	ST
+364, 3	1232, 1-3	CER	mae yn *great*	---	NST
+
+
+365, 1	1235, 1-8	SAL	cawodydd ni ar y funud mae yr *um*	NST	NST
+365, 2	1235, 9-10	SAL	mae rywun	NSNT	NSNT
+365, 3	1235, 11-13	SAL	dw ddim gwybod	NSNT	NSNT
+365, 4	1235, 14-20	SAL	pwy ydy o yn cadw agor ffenestr	NSNT	NSNT
+365, 5	1236, 1-11	SAL	*so* mae yr blooming wasps yma yn gyd yn dod mewn	NST	ST
+365, 8	1241, 1-7	SAL	ac *oh* my gosh mae yn lethal	ST	ST
+365, 10	1243, 1-10	SAL	newydd gael cawod a mae popeth yn wlyb wedyn ac	---	NSNT
+
+
+366, 1	1245, 1-1	CER	*ugh*	ST	NST
+366, 2	1246, 1-10	CER	cofio blwyddyn diwetha o'n i mynd â *flip_flops* efo fi	NST	NST
+366, 3	1247, 1-8	CER	achos fath â oedd yna gwallt yn bob	NSNT	NSNT
+366, 4	1248, 2-9	CER	oedd o *just* yn afiach o'n i meddwl	NST	NST
+366, 5	1249, 1-14	CER	fath â yr llawr a pobl gadael gwallt nhw yn bob man a *just*	---	NST
+
+
+367, 1	1250, 1-4	SAL	dw i yn gwybod	NSNT	NSNT
+367, 2	1250, 5-8	SAL	mae o yn disgusting	---	SNT
+
+
+368, 1	1252, 1-14	CER	hefyd achos oedd yna dipyn o ferched ar llawr ni blwyddyn diwetha yn_doedd *so*	---	NST
+
+
+369, 1	1253, 1-2	SAL	*oh* *well*	ST	NST
+369, 2	1254, 1-8	SAL	dydy o ddim yn helpu gael *Naomi* yna	NST	NST
+369, 3	1254, 9-9	SAL	naddo	---	NSNT
+
+
+370, 1	1256, 1-10	CER	gwallt *Naomi* ddigon hir fath â ryw bump o bobl	---	NST
+
+
+371, 1	1258, 2-3	SAL	mae o	NSNT	NSNT
+371, 2	1259, 1-5	SAL	*oh* mae yn funny pan	ST	ST
+371, 3	1260, 1-7	SAL	*oh* I cut my hair this morning	NST	NST
+371, 5	1262, 1-4	SAL	you really can't tell	---	NSNT
+
+
+372, 1	1264, 1-6	CER	*yeah* alli really ddeud y wahaniaeth	NST	ST
+372, 3	1268, 1-4	CER	na mae *right* *nice*	NST	NST
+372, 4	1268, 5-6	CER	gynni though	SNT	SNT
+372, 5	1269, 2-8	CER	mae *lot* o bobl efo gwallt hir	NST	NST
+372, 6	1269, 9-21	CER	a mae *just* yn edrych fath â *just* ddim yn edrych yn *nice*	NST	NST
+372, 7	1271, 1-4	CER	ond mae un hi	NSNT	NSNT
+372, 8	1271, 5-5	CER	mae	NSNT	NSNT
+372, 9	1271, 6-10	CER	gynni lliw *nice* naturiol yn_does	---	NST
+
+
+373, 1	1274, 1-8	SAL	a mae yn conditioned really *nice* actually hefyd	ST	ST
+373, 2	1276, 1-4	SAL	french_plait_io fo tro cynta	NSNT	SNT
+373, 3	1277, 1-2	SAL	meddwl *great*	ST	NST
+373, 4	1277, 3-10	SAL	you know God knows pa fath o stad	NSNT	SNT
+373, 5	1277, 11-12	SAL	fydd o	NSNT	NSNT
+373, 6	1278, 1-4	SAL	ond mae o mor	NSNT	NSNT
+373, 7	1279, 1-5	SAL	mae yn really yn amazing	---	SNT
+
+
+374, 1	1281, 1-2	CER	mae yn	NSNT	NSNT
+374, 2	1281, 3-9	CER	mae yn edrych ar_ôl o yn iawn	NSNT	NSNT
+374, 3	1281, 10-10	CER	dydy	---	NSNT
+
+
+375, 1	1283, 1-3	SAL	*well* dw meddwl	NST	NST
+375, 3	1285, 1-2	SAL	fel mae	NSNT	NSNT
+375, 4	1285, 3-13	SAL	mae yn really yn mynd am fel own *brands* a *stuff*	NST	ST
+375, 5	1287, 1-7	SAL	*well* mae nhw gweithio i hi anyway	---	ST
+
+
+376, 1	1289, 1-17	CER	fath â yr *stuff* *um* alla i ddim meddwl am y gair fath â fair_trade a ballu	---	ST
+
+
+377, 1	1293, 1-4	SAL	mae rhein really *nice*	---	ST
+
+
+378, 1	1295, 1-7	CER	ti wedi gweld *Rob* ers dod nôl	---	NST
+
+
+379, 1	1296, 3-8	SAL	wnes i weld o ddoe actually	SNT	SNT
+379, 2	1299, 1-19	SAL	mae o yn dod i yr formal *well* i yr *bit* ar_ôl dim i yr dim i yr bwyd	ST	ST
+379, 3	1301, 1-3	SAL	*so* *er* *yeah*	ST	NST
+379, 4	1302, 1-2	SAL	mae yn	NSNT	NSNT
+379, 5	1302, 3-3	SAL	mae	NSNT	NSNT
+379, 6	1302, 4-5	SAL	mae licio	NSNT	NSNT
+379, 7	1302, 6-17	SAL	bod yn chaplaincy though especially efo yr hassle efo *J_C_R* a *stuff*	NST	ST
+379, 8	1304, 1-3	SAL	mae yn bach	NSNT	NSNT
+379, 9	1304, 4-5	SAL	mae fel	NSNT	NSNT
+379, 10	1304, 7-13	SAL	dydy o ddim_byd i wneud efo fo	---	NSNT
+
+
+380, 1	1307, 1-7	CER	na oedd o yn andros o dda	---	NSNT
+
+
+381, 1	1308, 1-5	SAL	oedd o yn chwarae teg	---	NSNT
+
+
+382, 1	1309, 1-9	CER	*yeah* mae wneud *lot* efo yr *um* undeb wan	---	NST
+
+
+383, 1	1310, 2-3	SAL	mae o	---	NSNT
+
+
+384, 1	1312, 1-4	CER	dw ddim yn cofio	NSNT	NSNT
+384, 2	1312, 5-7	CER	be mae wneud	NSNT	NSNT
+384, 3	1313, 1-6	CER	ond dw cofio gweld o yna	---	NSNT
+
+
+385, 1	1314, 1-1	SAL	mae	NSNT	NSNT
+385, 2	1314, 2-4	SAL	mae yna *lot*	---	NST
+
+
+386, 1	1315, 1-9	CER	*yeah* dw cofio weld e yn *thing* *Serendipity* yna	---	NST
+
+
+387, 1	1316, 1-6	SAL	*oh* *yeah* hand_io allan *bags* yna	---	ST
+
+
+388, 1	1317, 1-3	CER	ia *top* *Dafydd*	NST	NST
+388, 3	1320, 1-6	CER	*oh* *yeah* efo yr *bags* *yeah*	NST	NST
+388, 4	1321, 1-4	CER	dal yn gegin ni	NSNT	NSNT
+388, 6	1323, 1-6	CER	mae gyn i loads ohonyn nhw	NSNT	SNT
+388, 7	1325, 1-4	CER	*just* wedi stacio fyny	---	NST
+
+
+389, 1	1326, 1-5	SAL	*bag* o *rubbish* oedd o	ST	NST
+389, 2	1328, 1-6	SAL	leaflets and God knows what else	---	NSNT
+
+
+390, 1	1329, 1-3	CER	bach o fferins	---	NSNT
+
+
+391, 1	1331, 1-3	SAL	my God *yeah*	---	NST
+
+
+392, 1	1333, 1-3	CER	*yeah* dw i	NST	NST
+392, 2	1333, 4-8	CER	wnes i weld o *um*	NST	NST
+392, 3	1334, 1-9	CER	wnes i weld o yn *Octagon* wsnos diwetha actually	ST	ST
+392, 4	1336, 1-4	CER	wedi meddwi *as* always	ST	ST
+392, 6	1338, 1-3	CER	*yeah* mae allan	NST	NST
+392, 7	1339, 1-3	CER	dw ddim gwybod	NSNT	NSNT
+392, 8	1339, 4-7	CER	sut all fo fforddio	NSNT	NSNT
+392, 9	1340, 1-3	CER	mae allan o_hyd	---	NSNT
+
+
+393, 1	1342, 1-4	SAL	yn blwyddyn gynta fo	SNT	NSNT
+393, 2	1343, 1-2	SAL	*hmm* *sorry*	---	NST
+
+
+394, 1	1346, 1-1	CER	*nice*	---	NST
+
+
+395, 1	1347, 1-1	SAL	*sorry*	ST	NST
+395, 2	1348, 1-4	SAL	mae really yn *nice*	NST	ST
+395, 3	1349, 1-7	SAL	yn blwyddyn gynta *well* blwyddyn gynta ni	NST	NST
+395, 4	1351, 1-14	SAL	*um* oedd yna ferch yma o yr enw *Kate* yn flwyddyn hŷn na fi	---	NST
+
+
+396, 1	1352, 1-3	CER	*Conners* neu rywbeth	NST	NST
+396, 2	1353, 1-3	CER	achos dw meddwl	NSNT	NSNT
+396, 3	1353, 4-6	CER	dw wedi gweld	---	NSNT
+
+
+397, 1	1354, 1-3	SAL	mae yn italian	SNT	SNT
+397, 2	1354, 4-8	SAL	mae yn edrych yn italian	---	SNT
+
+
+398, 1	1355, 1-4	CER	*yeah* dw wedi gweld	NST	NST
+398, 2	1356, 1-8	CER	oedd hi fyny yma *um* wsnos ola yn_doedd	---	NST
+
+
+399, 1	1357, 2-2	SAL	dyna	NSNT	NSNT
+399, 2	1358, 2-3	SAL	oedd hi	NSNT	NSNT
+399, 3	1359, 1-2	SAL	dyna fo	NSNT	NSNT
+399, 4	1360, 1-10	SAL	ac *er* oedd ddau ohonyn mynd allan pretty much bob	NST	ST
+399, 5	1360, 11-11	SAL	noson	NSNT	NSNT
+399, 6	1362, 1-3	SAL	*just* bod bob	NST	NST
+399, 7	1362, 4-4	SAL	noson	---	NSNT
+
+
+400, 1	1363, 1-5	CER	achos pryd oedd hi fyny	NSNT	NSNT
+400, 2	1364, 1-5	CER	dw cofio hi fath â	NSNT	NSNT
+400, 3	1365, 1-6	CER	oedden ni yn computer *room* un	NST	ST
+400, 4	1365, 7-7	CER	noson	NSNT	NSNT
+400, 5	1366, 1-1	CER	achos	NSNT	NSNT
+400, 6	1367, 1-2	CER	dw cofio	NSNT	NSNT
+400, 7	1367, 3-12	CER	wnes i rhedeg allan o bres yn llwyr blwyddyn diwetha	NSNT	NSNT
+400, 8	1368, 1-6	CER	ac oedd hi yna fath â	SNT	NSNT
+400, 9	1369, 1-7	CER	*oh* do none of these go out	ST	NST
+400, 10	1370, 1-2	CER	meddai hi	NSNT	NSNT
+400, 11	1370, 3-5	CER	timod fath â	NSNT	NSNT
+400, 12	1370, 6-8	CER	bod ni *just*	NST	NST
+400, 13	1370, 9-12	CER	yn bod yn boring	SNT	SNT
+400, 14	1371, 1-9	CER	ond na dan ni actually ddim yn gallu fforddio	---	SNT
+
+
+401, 1	1373, 1-3	SAL	na dw meddwl	NSNT	NSNT
+401, 2	1373, 4-9	SAL	bod hi *quite* wedi wedi *er*	NST	NST
+401, 3	1374, 1-3	SAL	timod mai hi	NSNT	NSNT
+401, 4	1374, 4-7	SAL	ydy yr exception *well*	ST	ST
+401, 5	1374, 8-11	SAL	mae mynd allan bob	NSNT	NSNT
+401, 6	1374, 12-12	SAL	noson	SNT	NSNT
+401, 7	1376, 1-10	SAL	I mean God fair enough os ti gallu fforddio fo	NSNT	SNT
+401, 8	1376, 11-13	SAL	de ond *um*	---	NST
+
+
+402, 1	1378, 1-7	CER	cofio oedd *Rob* yn deud wrtha fi	NST	NST
+402, 2	1378, 8-20	CER	mae rieni o yn talu am *phone* *bill* o ac *um* accommodation o	NST	ST
+402, 3	1380, 1-5	CER	felly mae o *right* lwcus	NST	NST
+402, 4	1382, 1-9	CER	timod ga i bob peth mynd allan *account* fi	NST	NST
+402, 5	1383, 1-6	CER	a dw gan ffrindiau fi hefyd	NSNT	NSNT
+402, 6	1384, 1-10	CER	*so* mae o o'n i ddim yn gallu fforddio llawer	---	NST
+
+
+403, 1	1386, 1-5	SAL	mae *lot* gorod gweithio hefyd	NST	NST
+403, 2	1388, 1-6	SAL	*lot* gorod gweithio fel cael *job*	---	NST
+
+
+404, 1	1389, 1-8	CER	ie *well* dw i wedi trio yn dre	NST	NST
+404, 2	1390, 1-4	CER	ond bod mor anodd	NSNT	NSNT
+404, 3	1393, 1-5	CER	mae yn amhosibl ffeindio rywle	NSNT	NSNT
+404, 4	1394, 1-6	CER	mae gymaint o myfyrwyr yn trio	NSNT	NSNT
+404, 5	1395, 1-4	CER	fath â dw gwybod	NSNT	NSNT
+404, 6	1395, 5-17	CER	ddaru ffrindiau fi dod fyny fath â dechrau ha i chwilio am rei	NSNT	NSNT
+404, 7	1396, 1-4	CER	a gaethon nhw ddim_byd	---	NSNT
+
+
+405, 1	1397, 1-3	SAL	*oh* my gosh	---	NST
+
+
+406, 1	1398, 1-14	CER	*so* pam mae dipyn o bobl mynd i *Llandudno* fath â *Caernarfon* a ballu	---	NST
+
+
+407, 1	1399, 1-4	SAL	mae yn *bity* hynna	NST	NST
+407, 2	1399, 5-5	SAL	dydy	---	NSNT
+
+
+408, 1	1401, 1-3	CER	*well* peth ydy	NST	NST
+408, 2	1401, 4-7	CER	os ydy o wir	NSNT	NSNT
+408, 3	1402, 1-6	CER	fath â dw mynd i weld	NSNT	NSNT
+408, 4	1402, 7-10	CER	sut mae mynd wan	NSNT	NSNT
+408, 5	1403, 1-3	CER	ond achos does	NSNT	NSNT
+408, 6	1403, 4-13	CER	genna ddim_byd dydd Iau *well* pob yn ail dydd Iau	NST	NST
+408, 7	1404, 1-2	CER	a does	NSNT	NSNT
+408, 8	1404, 3-6	CER	genna ddim_byd dydd Gwener	NSNT	NSNT
+408, 9	1406, 1-15	CER	*so* os o'n i wir isio baswn i gallu mynd adre am penwsnos a gweithio	NST	NST
+408, 10	1407, 1-1	CER	mae	NSNT	NSNT
+408, 11	1407, 2-6	CER	genna i *job* adre anyway	ST	ST
+408, 12	1407, 7-10	CER	os dw isio fo	NSNT	NSNT
+408, 13	1409, 1-4	CER	gweithio mewn gegin felly	NSNT	NSNT
+408, 14	1410, 1-12	CER	os o'n i wir angen pres baswn i yn gallu wneud hynny	---	NSNT
+
+
+409, 1	1411, 1-7	SAL	*yeah* baset ti methu allan cael penwythnos	---	NST
+
+
+410, 1	1412, 1-2	CER	dyna peth	---	NSNT
+
+
+411, 1	1413, 1-1	SAL	dyna	NSNT	NSNT
+411, 2	1413, 2-7	SAL	be dw feddwl am am *Elinor*	NST	NST
+411, 3	1414, 1-2	SAL	fel timod	NSNT	NSNT
+411, 4	1414, 3-4	SAL	dydy ddim	NSNT	NSNT
+411, 5	1414, 5-15	SAL	wedi bod yma am yr un weekend ers iddi fod yma	---	SNT
+
+
+412, 1	1416, 1-1	CER	o_gwbl	---	NSNT
+
+
+413, 1	1417, 1-2	SAL	dim un	NSNT	NSNT
+413, 2	1418, 1-3	SAL	dim un naddo	---	NSNT
+
+
+414, 1	1419, 1-6	CER	ddim hyd_yn_oed freshers week na dim_byd	NSNT	SNT
+414, 2	1421, 1-6	CER	mae hynna bach yn drist hynna	---	NSNT
+
+
+415, 1	1422, 1-4	SAL	achos ti fath â	NSNT	NSNT
+415, 2	1423, 1-2	SAL	mae methu	NSNT	NSNT
+415, 3	1424, 1-1	SAL	dw	NSNT	NSNT
+415, 4	1424, 2-6	SAL	a dw ddim meddwl because	NSNT	SNT
+415, 5	1425, 1-6	SAL	because dydy erioed wedi aros yma	NSNT	SNT
+415, 6	1425, 7-10	SAL	dydy ddim yn gwybod	NSNT	NSNT
+415, 7	1425, 11-13	SAL	be mae methu	NSNT	NSNT
+415, 8	1427, 1-8	SAL	*so* *suppose* i hi fel dydy ddim yn	NST	NST
+415, 9	1427, 9-12	SAL	mae hi meddwl *oh*	NST	NST
+415, 10	1428, 1-7	SAL	*well* dw i ddim methu dim_byd really	---	ST
+
+
+416, 1	1429, 1-2	CER	ia hollol	---	NSNT
+
+
+417, 1	1430, 1-11	SAL	ond *er* *just* gobeithio wneith hi ddim edrych nôl ac ac	---	NST
+
+
+418, 1	1431, 1-1	CER	difaru	NSNT	NSNT
+418, 2	1434, 1-6	CER	achos o'n i meddwl bod hi	NSNT	NSNT
+418, 3	1434, 7-9	CER	wedi bod yma	NSNT	NSNT
+418, 4	1434, 10-11	CER	timod rhei	NSNT	NSNT
+418, 5	1434, 12-15	CER	timod rhei penwythnos ond	---	NSNT
+
+
+419, 1	1435, 1-1	SAL	naddo	---	NSNT
+
+
+420, 1	1437, 1-13	CER	achos y peth dw i ffeindio fath â gweithio mor galed trwy ha	NSNT	NSNT
+420, 2	1437, 14-15	CER	dw isio	NSNT	NSNT
+420, 3	1437, 16-20	CER	*just* timod mwynhau yn hun	NST	NST
+420, 4	1438, 1-9	CER	a dw ddim isio mynd adre ar penwythnos weithio	NSNT	NSNT
+420, 5	1440, 1-7	CER	ond *yeah* mae bach yn drist really	---	ST
+
+
+421, 1	1442, 1-1	SAL	mae	NSNT	NSNT
+421, 2	1442, 2-4	SAL	gynni *Simon* rŵan	ST	NST
+421, 3	1443, 1-2	SAL	I mean	SNT	NSNT
+421, 4	1443, 3-5	SAL	alla i weld	NSNT	NSNT
+421, 5	1443, 6-9	SAL	alla i weld pam	NSNT	NSNT
+421, 6	1443, 10-13	SAL	mae mynd adre rŵan	NSNT	NSNT
+421, 7	1445, 1-2	SAL	ond timod	NSNT	NSNT
+421, 8	1445, 3-5	SAL	dydy *Simon* mond	NST	NST
+421, 9	1445, 6-14	SAL	wedi bod ar y *scene* am llai na blwyddyn	---	NST
+
+
+422, 1	1447, 1-2	CER	ia hollol	NSNT	NSNT
+422, 3	1450, 1-4	CER	oedd hi efo rywun	NSNT	NSNT
+422, 4	1450, 5-8	CER	cynno fo hefyd yn_doedd	---	NSNT
+
+
+423, 1	1452, 1-13	SAL	*um* but oedd hwnna mond am tua be dau fis rywbeth fel yna	---	ST
+
+
+424, 1	1454, 1-7	CER	achos dw i cofio hi efo rywun	NSNT	NSNT
+424, 2	1455, 1-7	CER	ond dw i yn drysu rhwng pawb	---	NSNT
+
+
+425, 1	1457, 1-7	SAL	na *Simon* oedd enw fo hefyd actually	---	ST
+
+
+425, 2	1459, 1-5	SAL	*Simon* oedd enw fo hefyd	NST	NST
+426, 2	1462, 29-34	CER	timod *metallic* *um* *um* *medallion* ring	---	ST
+
+
+427, 1	1463, 1-2	SAL	chav *yeah*	NST	NST
+427, 2	1465, 1-2	SAL	massive *gold*	---	NST
+
+
+428, 1	1467, 1-3	CER	*yeah* dyna fo	NST	NST
+428, 2	1469, 1-6	CER	*just* yn cofio gweld o *oh*	NST	NST
+428, 4	1472, 1-5	CER	*yeah* *just* yn deud chav	---	ST
+
+
+429, 1	1474, 1-12	SAL	*oh* blwyddyn dwytha wnest ti weld *um* ti weld ar drws hi	NST	NST
+429, 2	1475, 1-2	SAL	mae gyn	NSNT	NSNT
+429, 3	1475, 3-6	SAL	oedd yna *photograph* ohoni	NST	NST
+429, 4	1477, 1-3	SAL	y chavette yna	---	SNT
+
+
+430, 1	1478, 1-4	CER	*yeah* be oedd o	ST	NST
+430, 2	1479, 1-7	CER	ninety rywbeth per cent neu forty rywbeth	---	SNT
+
+
+431, 1	1481, 1-3	SAL	fifty_two per cent	SNT	NSNT
+431, 4	1484, 1-8	SAL	*yeah* wnaeth hi ac *er* dau ffrind fi	NST	NST
+431, 5	1484, 9-20	SAL	wnaeth nhw gymryd y *test* yma i faint o chav o'n nhw	NST	ST
+431, 6	1485, 1-10	SAL	ac o'n nhw fel ten per cent fifteen per cent	SNT	SNT
+431, 7	1486, 1-6	SAL	wnaeth hi dod allan fifty_four neu	SNT	SNT
+431, 8	1486, 7-9	SAL	whatever it was	NSNT	NSNT
+431, 10	1488, 1-3	SAL	like *oh* *Elinor*	---	NST
+
+
+432, 1	1489, 1-1	CER	ofnadwy	---	NSNT
+
+
+433, 1	1490, 1-3	SAL	*so* wnaeth *er*	NST	NST
+433, 2	1490, 4-8	SAL	wnaeth un ohonyn nhw *Joel*	NST	NST
+433, 3	1490, 9-14	SAL	wnaeth o wneud y *poster* yna	---	NST
+
+
+434, 1	1495, 1-9	CER	alla i ddim dychmygu hi fath â chav though	SNT	SNT
+434, 2	1496, 1-3	CER	dydy hi ddim	NSNT	NSNT
+434, 3	1496, 4-6	CER	dydy ddim yn	NSNT	NSNT
+434, 4	1496, 8-15	CER	dydy ddim yn gegog na dim_byd really nac	SNT	SNT
+434, 5	1497, 1-1	CER	*well*	---	NST
+
+
+435, 1	1498, 1-2	SAL	na mae	NSNT	NSNT
+435, 2	1498, 3-8	SAL	gynni the *gold* jewellery ac *er*	NST	ST
+435, 3	1500, 1-6	SAL	pan mae mynd i yr gym	SNT	SNT
+435, 4	1500, 7-11	SAL	mae yn edrych fel chav	SNT	SNT
+435, 5	1501, 1-3	SAL	mae really yn	SNT	SNT
+435, 7	1503, 1-3	SAL	*oh* goodness *Elinor*	---	NST
+
+
+436, 1	1504, 1-7	CER	alla i weld sut allith hi fod	NSNT	NSNT
+436, 2	1505, 1-2	CER	ond *yeah*	---	NST
+
+
+437, 1	1507, 1-3	SAL	*oh* mae pobl	NST	NST
+437, 2	1507, 4-10	SAL	mae hi gwmpas yn gyd yn chavs	---	SNT
+
+
+438, 1	1508, 1-5	CER	be adre neu yn coleg	NSNT	NSNT
+438, 2	1510, 1-1	CER	adre	---	NSNT
+
+
+439, 1	1514, 1-7	SAL	fel pobl mae yn gweitho efo *stuff*	---	NST
+
+
+440, 1	1516, 1-6	CER	*yeah* mae *Rhyl* llawn o chavs	---	ST
+
+
+441, 1	1518, 2-4	SAL	mae o yn_dydy	SNT	NSNT
+441, 2	1519, 1-3	SAL	*oh* never mind	ST	NST
+441, 3	1520, 1-4	SAL	*oh* mae yr hoodie	ST	ST
+441, 4	1520, 5-5	SAL	mae	NSNT	NSNT
+441, 5	1520, 6-7	SAL	gynni *um*	ST	NST
+441, 6	1520, 8-12	SAL	I'm not from *Rhyl* *honest*	ST	NST
+441, 8	1523, 1-2	SAL	*oh* *dear*	---	NST
+
+
+442, 1	1524, 1-8	CER	*yeah* dim ond wedi bod yna ryw unwaith	NST	NST
+442, 2	1525, 1-5	CER	a dw cofio *just* fel	NST	NST
+442, 3	1526, 1-7	CER	*oh* dw byth isio dod yma eto	---	NST
+
+
+442, 5	1528, 1-6	CER	oedd o yn iawn ond *yeah*	---	NST
+
+
+444, 1	1531, 1-7	CER	mae yn atgoffa fi o Bermo bach	NSNT	NSNT
+444, 2	1532, 1-4	CER	dw ddim gwybod pam	---	NSNT
+
+
+445, 1	1533, 1-1	SAL	really	---	NSNT
+
+
+446, 1	1534, 1-6	CER	*yeah* ond *er* dim mor *nice*	NST	NST
+446, 3	1536, 1-2	CER	ond timod	NSNT	NSNT
+446, 4	1536, 3-11	CER	oedd yna darnau bach yn atgoffa fi o Bermo	---	NSNT
+
+
+447, 1	1538, 1-3	SAL	bysai yn gallu	NSNT	NSNT
+447, 2	1538, 4-8	SAL	bod yn le mor *nice*	ST	NST
+447, 3	1540, 1-10	SAL	because mae wrth yr *er* y dŵr and all that	ST	ST
+447, 4	1541, 1-2	SAL	timod *Llandudno*	NST	NST
+447, 5	1541, 3-5	SAL	mae *Llandudno* yn	---	NST
+
+
+448, 1	1542, 1-3	CER	*rough* ydy o	---	NST
+
+
+449, 1	1545, 1-7	SAL	*just* yn gyrru yr *Scousers* i_gyd yna	ST	NST
+449, 2	1546, 1-3	SAL	nothing against *Scousers*	---	NST
+
+
+450, 1	1547, 1-6	CER	*yeah* dw i yn hanner *Scouser*	---	NST
+
+
+451, 1	1548, 1-3	SAL	hanner teulu fi	NSNT	NSNT
+451, 3	1550, 1-3	SAL	fel *er* *er*	NST	NST
+451, 4	1551, 1-6	SAL	*oh* sut dw allan o hwn	NST	NST
+451, 6	1553, 1-5	SAL	*Scousers* ddim yn *nice* iawn	---	NST
+
+
+452, 1	1556, 1-7	CER	lle mae *dad* ti yn dod o	NST	NST
+452, 2	1557, 1-5	CER	mae *dad* ti yn saesneg	---	NST
+
+
+453, 1	1559, 1-1	SAL	Yorkshire	---	NSNT
+
+
+454, 1	1563, 1-4	CER	*mam* fi o Lerpwl	---	NST
+
+
+455, 1	1564, 1-2	SAL	love *Scousers*	---	NST
+
+
+456, 1	1566, 1-7	CER	*yeah* mae teulu fi gyd o Lerpwl	---	NST
+
+
+457, 1	1568, 1-2	SAL	actually mae	NSNT	SNT
+457, 2	1568, 3-4	SAL	mae *er*	NST	NST
+457, 3	1568, 5-13	SAL	mae un *set* o cousins dod o o Lerpwl	NST	ST
+457, 4	1569, 1-10	SAL	a mae yr *lot* arall yn dod o Caerdydd Gaerdydd	NST	NST
+457, 5	1570, 1-4	SAL	*proper* fel welshy welshy	ST	ST
+457, 7	1573, 1-8	SAL	ac *um* ffrind i meddwl yn hilarious bod	NST	ST
+457, 8	1573, 9-17	SAL	genna i fel *Scousers* a Cymry fel dau extreme	---	ST
+
+
+458, 1	1574, 1-6	CER	*yeah* dw i cael hynna hefyd	---	NST

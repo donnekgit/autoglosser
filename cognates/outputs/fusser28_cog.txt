@@ -1,0 +1,844 @@
+
+
+1, 1	1, 1-7	IFO	na dan ni isio *um* ffonio pobl	NST	NST
+1, 2	2, 1-3	IFO	wnaeth *Danny* ffonio	NST	NST
+1, 3	2, 5-6	IFO	meddai chdi	NSNT	NSNT
+1, 4	2, 7-8	IFO	do *Danny_Edmunds*	---	NST
+
+
+2, 1	3, 1-4	LLA	do *er* *Danny_Maelor* *yeah*	---	NST
+
+
+3, 1	4, 1-4	IFO	*oh* wnaeth o ffonio	---	NST
+
+
+4, 1	5, 1-3	LLA	*Danny_Maelor* oedd o	NST	NST
+4, 2	5, 4-5	LLA	de *Madlen*	---	NST
+
+
+5, 1	6, 1-1	MAD	*eh*	---	NST
+
+
+6, 1	7, 1-3	LLA	ffoniodd neithiwr *Danny_Maelor*	---	NST
+
+
+7, 1	9, 1-2	IFO	efo be	SNT	NSNT
+7, 3	12, 1-1	IFO	*Danny_Maelor*	ST	NST
+7, 4	14, 1-2	IFO	dim *Danny_Edmunds*	NST	NST
+7, 6	16, 1-2	IFO	dim *Danny*	---	NST
+
+
+8, 1	17, 1-6	MAD	*Maelor* ydy enw ei dŷ fo	---	NST
+
+
+9, 1	18, 1-1	IFO	*Danny_Edmunds*	NST	NST
+9, 2	19, 1-1	IFO	*eh*	---	NST
+
+
+10, 1	20, 1-6	MAD	*Maelor* ydy enw ei dŷ fo	---	NST
+
+
+11, 1	21, 1-4	IFO	*oh* ia *Danny_Edmunds* ia	NST	NST
+11, 2	23, 1-2	IFO	mae yna	---	NSNT
+
+
+12, 1	24, 1-1	MAD	lle	---	NSNT
+
+
+13, 1	25, 1-4	LLA	*ah* *yeah* dyna chdi	---	NST
+
+
+14, 1	26, 1-4	IFO	a *Steffan* ydy llall	NST	NST
+14, 2	27, 1-6	IFO	mae *Steffan* yn ffonio heno actually	ST	ST
+14, 3	28, 1-5	IFO	dydy o ddim isio llawer	SNT	NSNT
+14, 4	29, 1-6	IFO	five *square* metres rywbeth fel yna	NST	ST
+14, 7	32, 1-5	IFO	dw isio ffonio hwn actually	---	SNT
+
+
+15, 1	35, 1-4	LLA	beth yw enw o	---	NSNT
+
+
+16, 1	38, 1-2	IFO	good evening	NSNT	NSNT
+16, 2	39, 1-9	IFO	*er* it's *Ifor* here from up in *north* Wales	NST	NST
+16, 3	41, 1-9	IFO	I left a message on your answerphone this morning	NSNT	NSNT
+16, 4	43, 1-3	IFO	*yeah* no *problem*	NST	NST
+16, 5	44, 1-7	IFO	I *can* get some *samples* to you	ST	NST
+16, 6	45, 1-1	IFO	*sorry*	NST	NST
+16, 7	46, 1-2	IFO	*Sahara* *yeah*	NST	NST
+16, 8	47, 1-2	IFO	*Silver_Sunset* *yeah*	NST	NST
+16, 9	48, 1-1	IFO	*Tropical_Haze*	ST	NST
+16, 10	50, 1-8	IFO	they'll be either four or six inch *samples*	NST	NST
+16, 11	53, 1-4	IFO	in in the *cubicle*	NST	NST
+16, 13	55, 1-3	IFO	*yeah* *very* tasteful	NST	NST
+16, 14	56, 1-4	IFO	that's *nice* that *yeah*	NST	NST
+16, 15	57, 1-15	IFO	the only *thing* I will express *yeah* with a natural product like slate like this	NST	NST
+16, 16	58, 1-2	IFO	it *yeah*	NST	NST
+16, 17	58, 3-4	IFO	it's considerable	NSNT	NSNT
+16, 18	59, 1-10	IFO	*um* I've had a few *customers* who've purchased the *Silver_Sunset*	NST	NST
+16, 19	60, 1-15	IFO	and they've actually seen it on *er* our website and on a *sample* and said	NST	NST
+16, 20	61, 1-6	IFO	*yeah* I'll have some of that	NST	NST
+16, 21	62, 1-8	IFO	but the the variation is *very* *very* considerable	NST	NST
+16, 22	63, 1-9	IFO	*yeah* that that's the beauty of it really anyway	NST	NST
+16, 23	64, 1-7	IFO	that's the beauty of natural *stone* *yeah*	NST	NST
+16, 24	65, 1-9	IFO	*o_k* *so* if I *can* take your full address	---	NST
+
+
+17, 1	66, 1-6	LLA	*hiya* dach chi yn o lew	---	NST
+
+
+18, 1	67, 1-3	IFO	crikey that's *far*	NST	NST
+18, 2	68, 1-7	IFO	that's not *far* from *Norwich* is it	ST	NST
+18, 3	69, 1-2	IFO	*Great_Yarmouth* *yeah*	ST	NST
+18, 4	71, 1-1	IFO	brilliant	NSNT	NSNT
+18, 5	72, 1-2	IFO	that's *great*	NST	NST
+18, 6	74, 1-7	IFO	I'll *sort* these *samples* out for you	NST	NST
+18, 7	75, 1-8	IFO	*er* *er* have you got the prices have	NST	NST
+18, 8	75, 9-9	IFO	you	NSNT	NSNT
+18, 10	76, 19-20	IFO	you see	NSNT	NSNT
+18, 11	77, 1-2	IFO	no *problem*	NST	NST
+18, 12	78, 1-4	IFO	*yeah* all came today	NST	NST
+18, 13	79, 1-7	IFO	*yeah* I'll *sort* these out for you	NST	NST
+18, 14	80, 1-9	IFO	*er* hopefully they'll be with you around Tuesday Wednesday	NST	NST
+18, 15	81, 1-3	IFO	is that *o_k*	NST	NST
+18, 16	82, 1-1	IFO	brilliant	NSNT	NSNT
+18, 17	83, 1-3	IFO	you're *very* welcome	NST	NST
+18, 18	84, 1-2	IFO	thank you	NSNT	NSNT
+18, 19	85, 1-2	IFO	bye_bye now	SNT	NSNT
+18, 21	87, 1-5	IFO	*sure* bod ti newydd ddychryn	NST	NST
+18, 22	88, 1-3	IFO	sut wyt ti	NSNT	NSNT
+18, 23	89, 1-2	IFO	*hi* iawn	ST	NST
+18, 24	90, 1-1	IFO	*aye*	ST	NST
+18, 26	94, 1-5	IFO	sut *temper* sy arno fo	---	NST
+
+
+19, 1	96, 1-4	LLA	fynedd efo fo does	---	NSNT
+
+
+20, 1	97, 1-1	MAD	*eh*	---	NST
+
+
+21, 1	98, 1-5	LLA	oes yna fynedd efo fo	NSNT	NSNT
+21, 2	98, 6-6	LLA	does	---	NSNT
+
+
+22, 1	100, 1-5	MAD	Duw chwarae teg ddim amser	---	NSNT
+
+
+23, 1	103, 1-10	LLA	*oh* na dim efo fo dw i ddeud efo *um*	NST	NST
+23, 2	103, 11-15	LLA	bod yna *diles* ar llawr	---	NST
+
+
+24, 1	105, 1-11	MAD	*yeah* na am y *tiles* yn ganol llawr dw i feddwl	---	NST
+
+
+25, 1	108, 1-4	IFO	be be i felly	---	NSNT
+
+
+26, 1	111, 1-8	LLA	sut *goblin* mae hwn yn gweithio dŵad *Madlen*	---	NST
+
+
+27, 1	112, 1-1	MAD	be	---	NSNT
+
+
+28, 1	113, 1-4	LLA	oes gyn ti syniad	NSNT	NSNT
+28, 2	113, 5-9	LLA	sut mae hwn yn gweithio	---	NSNT
+
+
+29, 1	115, 1-3	IFO	be i *Gabby*	ST	NST
+29, 2	117, 1-5	IFO	eighteen months onwards oedd o	NSNT	SNT
+29, 3	118, 1-5	IFO	*oh* hwnna yn *ideal* fysai	---	NST
+
+
+30, 1	119, 1-8	LLA	sut *goblin* ti fod i gael rhein i_fewn	---	NST
+
+
+31, 1	120, 1-4	IFO	I don't think *so*	ST	NST
+31, 2	121, 1-1	IFO	cawn	NSNT	NSNT
+31, 3	121, 2-2	IFO	cawn	SNT	NSNT
+31, 4	122, 1-1	IFO	*aye*	ST	NST
+31, 5	124, 1-5	IFO	ti wedi clywed gyn rywun	NSNT	NSNT
+31, 6	126, 1-2	IFO	na heno	NSNT	NSNT
+31, 7	127, 1-1	IFO	chdi	SNT	NSNT
+31, 9	129, 1-1	IFO	*great*	ST	NST
+31, 10	130, 1-4	IFO	paid â deud gormod	NSNT	NSNT
+31, 11	131, 1-4	IFO	ti cael dy recordio	NSNT	NSNT
+31, 12	133, 1-12	IFO	mae yna rywun yn *shop* yn recordio fi a *Llawdden* yn siarad	NST	NST
+31, 13	134, 1-6	IFO	*oh* rywun o o coleg felly	NST	NST
+31, 14	135, 1-6	IFO	*so* paid â deud gormod *please*	NST	NST
+31, 15	136, 1-2	IFO	*o_k* cyw	ST	NST
+31, 16	137, 1-1	IFO	*ta_ra*	ST	NST
+31, 17	138, 1-2	IFO	fucking hell	---	NSNT
+
+
+32, 1	139, 1-3	LLA	be wnaeth hi	NSNT	NSNT
+32, 2	140, 1-4	LLA	mynd *off* yn *straight*	---	NST
+
+
+33, 1	141, 1-2	IFO	sediwsio chdi	NSNT	NSNT
+33, 3	143, 1-3	IFO	paid deud llawer	NSNT	NSNT
+33, 4	144, 1-2	IFO	meddai fi	---	NSNT
+
+
+34, 1	147, 1-1	LLA	greadures	---	NSNT
+
+
+35, 1	148, 1-3	IFO	*just* rhag ofn	---	NST
+
+
+36, 1	150, 1-2	LLA	fedr hi	---	NSNT
+
+
+37, 1	151, 1-6	IFO	mae rhein isio mynd yn_ôl wan	NSNT	NSNT
+37, 2	151, 7-7	IFO	does	SNT	NSNT
+37, 3	153, 1-6	IFO	*oh* actually mae *Tim* isio hand	---	ST
+
+
+38, 1	154, 1-7	LLA	ydy o wedi gorffen efo hi dŵad	---	NSNT
+
+
+39, 1	155, 1-3	IFO	mae isio hand	SNT	SNT
+39, 2	156, 1-6	IFO	mae wedi gofyn ers un awr	---	NSNT
+
+
+40, 1	157, 1-1	LLA	hwn	---	NSNT
+
+
+41, 1	158, 1-3	IFO	*oh* Radio_Two de	---	ST
+
+
+42, 1	159, 1-5	LLA	o'n i meddwl bod chdi	NSNT	NSNT
+42, 2	159, 6-11	LLA	roid o on *special* i fi	---	ST
+
+
+43, 1	161, 1-2	IFO	*Drive_Time* *Johnnie_Walker*	ST	NST
+43, 3	163, 1-6	IFO	ti wedi cynnig paned i *Marika*	---	NST
+
+
+44, 1	164, 1-1	LLA	naddo	---	NSNT
+
+
+45, 1	165, 1-3	IFO	ti isio paned	---	NSNT
+
+
+46, 1	167, 1-2	RES	oes diolch	---	NSNT
+
+
+47, 1	168, 1-1	IFO	llefrith	NSNT	NSNT
+47, 2	169, 1-1	IFO	siwgr	---	NSNT
+
+
+48, 1	170, 1-1	RES	*sorry*	---	NST
+
+
+49, 1	171, 1-3	IFO	llefrith a siwgr	---	NSNT
+
+
+50, 1	172, 1-4	RES	dim ond llefrith *please*	---	NST
+
+
+51, 1	173, 1-3	IFO	dim ond llefrith	NSNT	NSNT
+51, 2	174, 1-5	IFO	*eh* wnest ti ddim clywed	NST	NST
+51, 3	174, 6-13	IFO	be deudodd cariad fi ar y *phone* wan	NST	NST
+51, 4	174, 14-14	IFO	naddo	SNT	NSNT
+51, 6	177, 1-3	IFO	*oh* my God	---	NST
+
+
+52, 1	180, 1-1	RES	clywed	NSNT	NSNT
+52, 2	181, 1-2	RES	dim ond	---	NSNT
+
+
+53, 1	183, 1-2	IFO	*oh* God	---	NST
+
+
+54, 1	185, 1-3	RES	torri fo allan	---	NSNT
+
+
+55, 1	189, 1-3	IFO	*sorry* llefrith *yeah*	NST	NST
+55, 2	191, 1-1	IFO	siwgr	---	NSNT
+
+
+56, 1	192, 1-4	LLA	ti isio un o	NSNT	NSNT
+56, 2	193, 1-2	LLA	mynd yn_ôl	---	NSNT
+
+
+57, 1	194, 1-3	IFO	na *job* done	NST	ST
+57, 2	195, 1-2	IFO	*job* done	ST	NST
+57, 3	196, 1-2	IFO	dyna chdi	---	NSNT
+
+
+58, 1	197, 1-4	RES	diolch yn fawr iawn	---	NSNT
+
+
+59, 1	198, 1-11	LLA	wnes i losgi yn llaw ar y slyfaeth yna wan hefyd	---	NSNT
+
+
+60, 1	199, 1-3	IFO	wnest ti losgi	---	NSNT
+
+
+61, 1	201, 1-2	LLA	go iawn	---	NSNT
+
+
+62, 1	202, 1-5	IFO	mae rhein yn mynd fory	NSNT	NSNT
+62, 2	202, 6-10	IFO	meddai *Madlen* anyway drysau yna	---	ST
+
+
+63, 1	203, 1-6	LLA	mae yn packed yn *Rhos_lan* wan	---	ST
+
+
+64, 1	204, 1-1	IFO	be	---	NSNT
+
+
+65, 1	205, 1-7	LLA	fydd hi yn packed yn *Rhos_lan* wan	---	ST
+
+
+66, 1	206, 1-1	IFO	packed	---	NSNT
+
+
+67, 1	208, 1-3	LLA	golwg yna de	---	NSNT
+
+
+68, 1	209, 1-2	IFO	be *tiles*	NST	NST
+68, 2	211, 1-3	IFO	*oh* dw gwybod	NST	NST
+68, 3	212, 1-3	IFO	rhoi nhw dan	NSNT	NSNT
+68, 4	212, 5-8	IFO	wnes i am wan	---	NSNT
+
+
+69, 1	213, 1-2	LLA	golwg yna	NSNT	NSNT
+69, 2	214, 1-1	LLA	be	---	NSNT
+
+
+70, 1	215, 1-3	IFO	rhoi nhw dan	NSNT	NSNT
+70, 2	216, 1-3	IFO	ges i tri	---	NSNT
+
+
+71, 1	218, 1-5	LLA	lle gest ti roi rheiny	NSNT	NSNT
+71, 2	218, 6-6	LLA	ta	---	NSNT
+
+
+72, 1	219, 1-3	IFO	dw i wedi	NSNT	NSNT
+72, 2	219, 4-16	IFO	roid *er* un yn *shed* gefn un *shed* fawr a un *shed* *borders*	NST	NST
+72, 4	221, 1-8	IFO	tyllau ar y *tarpaulin* yna i weld does	---	NST
+
+
+73, 1	222, 1-6	LLA	dydy o yn da i dim_byd	NSNT	NSNT
+73, 2	222, 7-8	LLA	nag ydy	NSNT	NSNT
+73, 3	223, 1-10	LLA	does yna ddim_byd gwaeth na roi *boxes* rhacs i bobl	NST	NST
+73, 4	223, 11-15	LLA	nag oes neu yn socian	---	NSNT
+
+
+74, 1	226, 1-1	IFO	mae	NSNT	NSNT
+74, 2	226, 2-7	IFO	llechi yma isio mynd yn_ôl hefyd	NSNT	NSNT
+74, 3	226, 8-8	IFO	does	---	NSNT
+
+
+75, 1	228, 1-7	LLA	ydy *um* peth yna yn barod *van*	---	NST
+
+
+76, 1	229, 1-2	IFO	nag ydy	NSNT	NSNT
+76, 2	230, 1-4	IFO	na mae dal wrthi	---	NSNT
+
+
+77, 1	231, 1-6	LLA	dydy o ddim bwys anyway really	SNT	SNT
+77, 2	232, 1-6	LLA	genno fi *gar* yn hun wan	NST	NST
+77, 3	232, 7-7	LLA	does	---	NSNT
+
+
+78, 1	234, 1-6	IFO	mae isio yr *tax* iddi hefyd	---	NST
+
+
+79, 1	237, 1-11	LLA	dw isio *tax* am y mis yma ac *M_O_T* a *tyres*	NST	NST
+79, 2	237, 12-13	LLA	mae *sure*	---	NST
+
+
+80, 1	239, 1-3	IFO	be wnei di	NSNT	NSNT
+80, 2	240, 1-4	IFO	*tax* chwech ta blwyddyn	---	NST
+
+
+81, 1	241, 1-1	LLA	chwech	---	NSNT
+
+
+82, 1	242, 1-5	IFO	faint ydy o i chdi	---	NSNT
+
+
+83, 1	243, 1-3	LLA	ninety rywbeth *yeah*	---	ST
+
+
+84, 1	244, 1-2	IFO	am chwech	NSNT	NSNT
+84, 2	247, 1-3	IFO	ac mae *dad*	NST	NST
+84, 3	248, 1-5	IFO	*Ford* *Focus* sy gyn *dad*	ST	NST
+84, 4	249, 1-9	IFO	hundred and thirty rywbeth mae o dalu am flwyddyn	NSNT	SNT
+84, 5	251, 1-7	IFO	dw i talu hundred and eighty rywbeth	SNT	SNT
+84, 6	252, 1-5	IFO	emissions a ballu ydy o	---	SNT
+
+
+85, 1	254, 1-4	LLA	gyn ti *T_D_I* does	ST	NST
+85, 2	255, 1-3	LLA	high *performance* yndy	---	ST
+
+
+86, 1	256, 1-4	IFO	mae *dad* yn *T_D_C_I*	---	NST
+
+
+87, 1	257, 1-6	LLA	*oh* *yeah* mae hynna yn helpu	NST	NST
+87, 2	258, 1-7	LLA	mae nhw ryw bach o rywbeth *special*	NST	NST
+87, 3	258, 8-9	LLA	dw meddwl	---	NSNT
+
+
+88, 1	260, 1-7	IFO	efo yr *er* amgylchedd a ballu *yeah*	---	NST
+
+
+89, 1	261, 1-2	LLA	*yeah* apparently	---	NST
+
+
+90, 1	262, 1-10	IFO	bydd raid i un o ni picio i *Gaernarfon* fory	---	NST
+
+
+91, 1	263, 1-2	LLA	i be	---	NSNT
+
+
+92, 1	264, 1-10	IFO	os ydy ddistaw a i *Hardie* backerboards yna gyn *Smiths*	---	ST
+
+
+93, 1	265, 1-3	LLA	yn lle yna	---	NSNT
+
+
+94, 1	266, 1-9	IFO	mae nhw yn dilifro no further than *Caernarfon* fory	---	ST
+
+
+95, 1	267, 1-5	LLA	a mynd i gyfarfod nhw	---	NSNT
+
+
+96, 1	269, 1-4	IFO	basen nhw wedi deud	SNT	NSNT
+96, 2	270, 1-11	IFO	if you're willing to go to *Caernarfon* and meet him there	NST	NST
+96, 3	270, 12-13	IFO	you know	NSNT	NSNT
+96, 4	270, 14-17	IFO	we'll put them on	SNT	NSNT
+96, 6	272, 1-7	IFO	*so* iawn mae yna *cheque* *Smiths* *blank*	ST	NST
+96, 7	275, 1-4	IFO	one *point* two metre	ST	NST
+96, 8	276, 1-8	IFO	wedyn wneith nhw iawn i *car* yn iawn	---	NST
+
+
+97, 1	277, 1-7	LLA	a aethan nhw fewn i *car* yn_aethan	NST	NST
+97, 2	278, 1-3	LLA	*right* dim *problem*	---	NST
+
+
+98, 1	279, 1-1	IFO	roid	NSNT	NSNT
+98, 2	279, 2-5	IFO	roid seti lawr rywbeth	NSNT	NSNT
+98, 3	279, 6-7	IFO	wna i	NSNT	NSNT
+98, 4	279, 8-8	IFO	sti	---	NSNT
+
+
+99, 1	281, 1-4	LLA	*yeah* dyna chdi *o_k*	NST	NST
+99, 2	281, 5-5	LLA	ta	---	NSNT
+
+
+100, 1	282, 1-7	IFO	*yeah* dyn nhw ddim bethau mawr iawn	NST	NST
+100, 2	282, 8-9	IFO	nag ydyn	---	NSNT
+
+
+101, 1	283, 1-1	LLA	be	---	NSNT
+
+
+102, 1	284, 1-7	IFO	bydd raid ni gael sêt nôl actually	NSNT	SNT
+102, 2	285, 1-3	IFO	one *point* two	---	NST
+
+
+103, 1	286, 1-2	LLA	y backerboards	---	SNT
+
+
+104, 1	288, 1-2	IFO	*Hardie* backer	---	NST
+
+
+105, 1	289, 1-5	LLA	faint ohonyn nhw sy yna	---	NSNT
+
+
+106, 1	290, 1-1	IFO	wyth	---	NSNT
+
+
+107, 1	291, 1-10	LLA	be sy mynd i orffen y llawr yma *off* wan	NST	NST
+107, 2	291, 11-11	LLA	ta	---	NSNT
+
+
+108, 1	292, 1-1	IFO	twelve	---	NSNT
+
+
+109, 1	293, 1-9	LLA	be sy mynd i orffen y llawr yma *off*	---	NST
+
+
+110, 1	294, 1-1	IFO	*Fred*	---	NST
+
+
+111, 1	295, 1-2	LLA	na be	NSNT	NSNT
+111, 2	296, 1-3	LLA	efo be though	---	SNT
+
+
+112, 1	297, 1-5	IFO	*ah* dw ddim yn gwybod	NST	NST
+112, 2	298, 1-5	IFO	teilsau newydd eto mae *sure*	---	NST
+
+
+113, 1	299, 1-10	LLA	ar_ôl honna mond un lle i un sy yna really	---	SNT
+
+
+114, 1	300, 1-8	IFO	fan yna ac fewn i yr *alcove* de	ST	NST
+114, 2	302, 1-2	IFO	*job* done	---	NST
+
+
+115, 1	303, 1-11	LLA	well i *just* stretsio hwn drwadd i fan yna really dydy	---	ST
+
+
+116, 1	304, 1-2	IFO	bysai really	SNT	SNT
+116, 2	304, 3-3	IFO	bysai	---	NSNT
+
+
+117, 1	305, 1-4	LLA	yn_hytrach na roid rywbeth	---	NSNT
+
+
+118, 1	306, 1-9	MAD	be arall sy isio wneud gorffen y *step* yna	---	NST
+
+
+119, 1	309, 1-12	IFO	*eh* basa chdi medru roi ryw combination o *mosaics* yma neu rywbeth	NST	ST
+119, 2	311, 1-2	IFO	roi llawr	---	NSNT
+
+
+120, 1	312, 2-6	LLA	be dylsen ni wneud hefyd	NSNT	NSNT
+120, 2	313, 1-9	LLA	iwsio un *shed* de i dim ond stocio pethau	NST	NST
+120, 3	313, 10-14	LLA	dan ni yn ordro i_fewn	---	NSNT
+
+
+121, 1	314, 1-6	IFO	*oh* mae yn ofnadwy fan yna	---	NST
+
+
+122, 1	315, 1-4	LLA	fath â rhein de	NSNT	NSNT
+122, 2	316, 1-10	LLA	timod iawn hwnna fair enough *just* fath â *shed* bob_dim	NST	ST
+122, 3	317, 1-14	LLA	ond basen ni *just* yn cadw un *shed* i *fuck* all mond pethau newydd	NST	ST
+122, 4	319, 1-2	LLA	timod pethau	NSNT	NSNT
+122, 5	319, 3-8	LLA	sy yma am dau ddiwrnod tri	---	NSNT
+
+
+123, 1	321, 1-6	IFO	mae yna few kitchen units yna	NSNT	SNT
+123, 2	321, 7-8	IFO	does hefyd	---	NSNT
+
+
+124, 1	322, 4-8	LLA	a mae yr *bath* yna	NST	NST
+124, 2	322, 9-9	LLA	dydy	---	NSNT
+
+
+125, 1	324, 1-6	IFO	mae yr *bath* gobeithio mynd fory	NST	NST
+125, 2	325, 1-5	IFO	dw i wedi ffonio fo	NSNT	NSNT
+125, 3	325, 6-8	IFO	de i ddeud	NSNT	NSNT
+125, 4	325, 9-11	IFO	bod bob_dim yma	---	NSNT
+
+
+126, 1	326, 1-4	LLA	*oh* *yeah* dyna chdi	---	NST
+
+
+127, 1	327, 1-4	IFO	talking of which *um*	ST	NST
+127, 2	328, 1-1	IFO	*Geraint*	ST	NST
+127, 3	329, 1-2	IFO	sut mae	NSNT	NSNT
+127, 4	329, 3-3	IFO	dyn	NSNT	NSNT
+127, 5	330, 1-5	IFO	mae pethau *Gwyn* wedi cyrraedd	NST	NST
+127, 6	331, 1-10	IFO	yr hand dryer *yeah* a yr *basin* a *toilet* felly	NST	ST
+127, 7	332, 1-2	IFO	cei *sure*	NST	NST
+127, 8	333, 1-2	IFO	cei *sure*	NST	NST
+127, 9	335, 1-7	IFO	*oh* *great* basai hynna yn *great* *yeah*	ST	NST
+127, 10	336, 1-2	IFO	superb *Geraint*	ST	NST
+127, 11	337, 1-7	IFO	*so* wela i di dydd Llun *yeah*	ST	NST
+127, 12	338, 1-3	IFO	*o_k* thanks *Ger*	ST	NST
+127, 13	339, 1-1	IFO	*ta_ra*	---	NST
+
+
+128, 1	340, 1-12	LLA	mae hwn wedi treulio tua tri diwrnod ar y *van* yma wan	---	NST
+
+
+129, 1	341, 1-7	IFO	be ddeudaist ti am tri diwrnod *sorry*	---	NST
+
+
+130, 1	342, 1-12	LLA	mae hwn wedi treulio tua tri diwrnod ar y *van* yma wan	---	NST
+
+
+131, 1	343, 1-5	IFO	wnaeth o ddim_byd ddoe na	NSNT	NSNT
+131, 2	345, 1-5	IFO	wnes i wneud refund hefyd	NSNT	SNT
+131, 3	346, 1-6	IFO	cwsmer wedi talu cash am rhein	NSNT	SNT
+131, 4	347, 1-3	IFO	dw i deud	NSNT	NSNT
+131, 5	348, 1-4	IFO	*yeah* gei di refund	ST	ST
+131, 6	349, 1-9	IFO	roi o nôl ar *debit* *card* i chdi de	NST	NST
+131, 7	350, 1-6	IFO	*oh* na dw isio cash yn_ôl	NST	ST
+131, 8	351, 1-1	IFO	annifyr	NSNT	NSNT
+131, 9	352, 1-12	IFO	*so* gynta dw i yn cymryd digon o cash gorod ffonio fo	---	ST
+
+
+132, 1	353, 1-6	LLA	mae pwy yna yn dalu cash	SNT	SNT
+132, 2	353, 7-9	LLA	sti *um* *Minffordd*	NST	NST
+132, 3	355, 1-5	LLA	mae hynna fifteen hundred quid	---	SNT
+
+
+133, 1	356, 1-8	IFO	*yeah* waetsiad tan hynna felly i wneud o	NST	NST
+133, 2	357, 2-6	IFO	dydy o wneud dim gwahaniaeth	NSNT	NSNT
+133, 3	358, 1-4	IFO	doro di *debit* *card*	NST	NST
+133, 4	359, 1-6	IFO	*o_k* mae yn costio *Tony* weithiau	---	NST
+
+
+134, 1	360, 1-8	LLA	dan ni fod i jarjio amdano fo dydyn	NSNT	NSNT
+134, 2	362, 1-7	LLA	ond dw i ddim yn *sure* iawn	NST	NST
+134, 3	363, 1-7	LLA	ar be ti yn fod i jarjio	NSNT	NSNT
+134, 4	364, 1-6	LLA	ar y *debit* ta yr *credit*	---	NST
+
+
+135, 1	365, 1-2	IFO	ar *credit*	NST	NST
+135, 2	366, 1-3	IFO	dim ar *debit*	---	NST
+
+
+136, 1	367, 1-7	LLA	a sut ti yn gweithio fo allan	SNT	NSNT
+136, 2	368, 1-8	LLA	five per cent o yr total neu rywbeth	---	SNT
+
+
+137, 1	369, 1-8	IFO	na *just* times one *point* five per cent	ST	ST
+137, 2	371, 1-12	IFO	so os yna gwsmer yn gwario mil o bunnoedd efo chdi de	---	NSNT
+
+
+138, 1	372, 1-4	LLA	dydy o ddim yn	---	NSNT
+
+
+139, 1	373, 1-15	IFO	times one *point* five a talu efo *credit* *card* mae nhw fod i dalu hynna	---	ST
+
+
+140, 1	374, 1-3	LLA	one thousand fifteen	NSNT	NSNT
+140, 2	375, 1-3	LLA	fifteen quid *extra*	---	NST
+
+
+141, 1	376, 1-2	IFO	because dyna	NSNT	SNT
+141, 2	377, 1-6	IFO	mae *Tony* yn cael charge yna	NST	ST
+141, 3	377, 7-7	IFO	yli	NSNT	NSNT
+141, 4	378, 1-5	IFO	be mae *Tony* yn deud	NST	NST
+141, 5	378, 6-10	IFO	de tsiarjio ar y gwsmer	NSNT	NSNT
+141, 6	378, 11-18	IFO	be mae o yn gael ei jarjio am	---	NSNT
+
+
+142, 1	379, 1-3	LLA	gyn *bank* *ah*	---	NST
+
+
+143, 1	380, 1-4	IFO	mae yn deud gwir	NSNT	NSNT
+143, 2	382, 1-4	IFO	mae yn mowntio fyny	---	NSNT
+
+
+144, 1	383, 1-3	LLA	oes yna rywbeth	NSNT	NSNT
+144, 2	384, 1-7	LLA	sut ti roid o ar *till* though	---	ST
+
+
+145, 1	385, 1-8	IFO	*um* dw ddim yn *sure* sut i wan	NST	NST
+145, 2	386, 1-2	IFO	dyna hi	---	NSNT
+
+
+146, 1	387, 1-3	LLA	*credit* *card* charge	ST	NST
+146, 2	388, 1-9	LLA	a wedyn ti *just* rhoid o i_fewn be bynnag	NST	NST
+146, 3	388, 10-12	LLA	ydy o *yeah*	---	NST
+
+
+147, 1	389, 1-3	IFO	ia dyna chdi	---	NSNT
+
+
+148, 1	390, 1-3	LLA	mond efo *credit*	NST	NST
+148, 2	391, 1-8	LLA	dydy o ddim yn gweithio efo *cheques* chwaith	NST	NST
+148, 3	392, 1-7	LLA	mae nhw yn tsiarjio am handlo rheiny	---	NSNT
+
+
+149, 1	393, 1-7	IFO	be wna i efo *tax* *van* yma	NST	NST
+149, 2	394, 1-7	IFO	mae *dad* wedi gadael *cheque* a manylion	NST	NST
+149, 3	395, 1-13	IFO	waetsiad tan *M_O_T* a wedyn wneud o ta well ei wneud o wan	NST	NST
+149, 4	396, 1-2	IFO	basen nhw	NSNT	NSNT
+149, 5	396, 3-7	IFO	basai yn cael ei ddal	---	NSNT
+
+
+150, 1	397, 1-8	LLA	fydd raid chdi gael *M_O_T* i gael *tax*	NST	NST
+150, 2	397, 9-9	LLA	bydd	---	NSNT
+
+
+151, 1	398, 1-2	IFO	bydd *sure*	NST	NST
+151, 2	399, 1-6	IFO	a dan ni isio *M_O_T* *certificates*	NST	NST
+151, 3	399, 7-7	IFO	does	SNT	NSNT
+151, 4	400, 1-2	IFO	*duh* brain	---	NST
+
+
+152, 1	401, 1-3	LLA	you said it	---	NSNT
+
+
+153, 1	402, 1-1	IFO	*aye*	ST	NST
+153, 2	403, 1-9	IFO	mis yma fydd un chdi yn due ddeudaist ti	NSNT	SNT
+153, 3	404, 1-5	IFO	mis Mai mae un fi	---	NSNT
+
+
+154, 1	405, 1-3	LLA	diwedd mis yma	NSNT	NSNT
+154, 2	406, 1-5	LLA	*so* gynna fi ryw bythefnos	---	NST
+
+
+155, 1	407, 1-1	IFO	*M_O_T*	---	NST
+
+
+156, 1	408, 1-7	LLA	*oh* dw i ddim yn *sure* iawn	NST	NST
+156, 2	408, 8-17	LLA	be ydy hanes *M_O_T* arno fo deud gwir wrtha chdi	NST	NST
+156, 3	410, 1-6	LLA	*um* o ran dw i *sure*	NST	NST
+156, 4	410, 7-17	LLA	bod yna *M_O_T* arno fo tan rywbeth fath â mis Mai	NST	NST
+156, 5	410, 18-18	LLA	sti	---	NSNT
+
+
+157, 1	411, 1-5	IFO	dos â fo i *Port*	NST	NST
+157, 2	413, 1-2	IFO	at *Alan*	---	NST
+
+
+158, 1	414, 1-3	LLA	be ydy o	SNT	NSNT
+158, 2	415, 1-2	LLA	fifteen quid	---	NSNT
+
+
+159, 1	416, 1-1	IFO	*eh*	---	NST
+
+
+160, 1	417, 1-4	LLA	be ydy *M_O_T* dŵad	ST	NST
+160, 2	418, 1-2	LLA	fifteen quid	---	NSNT
+
+
+161, 1	419, 1-3	IFO	na thirty_five *yeah*	ST	ST
+161, 2	421, 1-8	IFO	es i â fo i *Alan* yn *Port*	NST	NST
+161, 3	423, 1-8	IFO	wnaeth o wneud o am ddim i fi	NSNT	NSNT
+161, 4	424, 1-4	IFO	oedd wedi prynu *tiles*	NST	NST
+161, 5	426, 1-4	IFO	gaeth o *deal* go_lew	NST	NST
+161, 6	427, 1-5	IFO	wnaeth o wneud o ddim	NSNT	NSNT
+161, 7	428, 1-2	IFO	noswaith dda	SNT	NSNT
+161, 8	429, 1-4	IFO	*yeah* who's speaking *please*	NST	NST
+161, 9	430, 1-8	IFO	I'll go and get her for you now	---	NSNT
+
+
+162, 1	433, 1-5	LLA	ydy *Eilir* wedi talu wan	---	NST
+
+
+163, 1	434, 1-11	IFO	na wnes i adael neges fo diwrnod blaen *just* rhoi caniad	NST	NST
+163, 2	435, 1-5	IFO	*ah* bydd *Eilir* yn iawn	---	NST
+
+
+164, 1	436, 1-15	LLA	rhaid ni ffeindio ffigro rywbeth allan efo *Adam* i gael gorffen o *off* hefyd bydd	---	NST
+
+
+165, 1	437, 1-1	IFO	*Criccieth*	---	NST
+
+
+166, 1	439, 1-7	LLA	dw i ddim yn gweld *er* ffordd	NST	NST
+166, 2	439, 8-12	LLA	mae *Tony* isio mynd yna	---	NST
+
+
+167, 1	440, 1-1	IFO	be	---	NSNT
+
+
+168, 1	441, 1-12	LLA	dw i ddim yn gweld y *boy* yn talu nine hundred quid	---	ST
+
+
+169, 1	442, 1-1	IFO	be	NSNT	NSNT
+169, 2	443, 1-11	IFO	mynd yna gung_ho deud naw cant mae o isio chdi wneud	---	SNT
+
+
+170, 1	446, 1-3	LLA	six hundred cash	---	NSNT
+
+
+171, 1	447, 1-6	IFO	ti wedi antagonise_io yr *boy* dwyt	---	ST
+
+
+172, 1	448, 2-6	LLA	dw i ddim *quite* digon	NST	NST
+172, 2	449, 1-6	LLA	ddim yn dallt hi ddigon i	---	NSNT
+
+
+173, 1	450, 1-3	IFO	isio fi o	---	NSNT
+
+
+174, 1	451, 1-5	LLA	dw i ddim yn meindio	NSNT	NSNT
+174, 2	452, 1-3	LLA	timod *just* *um*	NST	NST
+174, 3	452, 4-9	LLA	petasai fo yn dod i_fyny yma	---	NSNT
+
+
+175, 1	453, 1-8	IFO	tra mae o ffwrdd a i weld o	---	NSNT
+
+
+176, 1	454, 1-7	LLA	be mae o feddwl ar y funud	NSNT	NSNT
+176, 2	455, 1-7	LLA	*oh* mae nhw wedi anghofio amdana fi	NST	NST
+176, 3	455, 8-9	LLA	mae *sure*	---	NST
+
+
+177, 1	456, 1-4	IFO	gyn ti *number* o	NST	NST
+177, 2	458, 1-5	IFO	wna i ffonio fo wan	---	NSNT
+
+
+178, 1	459, 1-1	LLA	wnei	NSNT	NSNT
+178, 2	461, 1-9	LLA	be be mae nhw yn da fan yma anyway	---	SNT
+
+
+179, 1	465, 1-6	IFO	hen *pad* yna wnaethon ni ddechrau	---	NST
+
+
+180, 1	466, 1-2	LLA	yr hen	---	NSNT
+
+
+181, 1	467, 1-2	IFO	lle gest	NSNT	NSNT
+181, 2	467, 3-8	IFO	lle gest ti hyd i hwn	---	NSNT
+
+
+182, 1	468, 1-2	LLA	garden centre	SNT	NSNT
+182, 2	469, 1-11	LLA	*Tony* wnaeth ddropio fo *off* i fi diwrnod ryw oes yn_ôl	---	NST
+
+
+183, 1	470, 1-2	IFO	oes yn_ôl	---	NSNT
+
+
+184, 1	471, 1-8	LLA	oedd o wedi mynd â fo nôl adre	NSNT	NSNT
+184, 2	471, 9-9	LLA	doedd	---	NSNT
+
+
+185, 1	472, 1-11	IFO	*ah* dw i wedi chwilio amdan hwn a chwilio amdan hwn	---	NST
+
+
+186, 1	474, 1-6	LLA	o'n i meddwl yr un peth	NSNT	NSNT
+186, 2	475, 1-9	LLA	dyma hwn wan mae o yn dod i ben	NSNT	NSNT
+186, 3	475, 10-10	LLA	dydy	---	NSNT
+
+
+187, 1	476, 1-1	IFO	sbïa	NSNT	NSNT
+187, 2	477, 1-7	IFO	hwnna oedden ni chwilio amdan bob man	---	NSNT
+
+
+188, 1	478, 1-5	LLA	fath â *manna* yr nefoedd	NST	NST
+188, 2	479, 1-9	LLA	achos mae yr llall yn dod i ben wan	NSNT	NSNT
+188, 3	479, 10-10	LLA	dydy	---	NSNT
+
+
+189, 1	480, 1-6	IFO	wnes i anghofio ffonio *Heritage_Homes* yn_ôl	NST	NST
+189, 2	481, 1-8	IFO	o'n i yn brysur pan wnaeth hi ffonio	NSNT	NSNT
+189, 3	482, 1-7	IFO	*so* well i honno fod yn *list*	NST	NST
+189, 4	483, 1-3	IFO	iwsio hwn eto	NSNT	NSNT
+189, 5	484, 1-4	IFO	gadwa i hwn felly	NSNT	NSNT
+189, 6	485, 1-7	IFO	does yna ddim *point* dechrau un newydd	---	NST
+
+
+190, 1	486, 1-4	LLA	gorffen hwn *off* gynta	---	NST
+
+
+191, 1	488, 1-6	IFO	neu byddan nhw yn bob man	NSNT	NSNT
+191, 2	488, 7-7	IFO	byddan	---	NSNT
+
+
+192, 1	489, 1-1	LLA	byddan	---	NSNT
+
+
+193, 1	490, 1-3	IFO	counter_tops *yeah* *James*	---	NST
+
+
+194, 1	492, 1-3	LLA	be mae yn	NSNT	NSNT
+194, 2	492, 4-4	LLA	roid	NSNT	NSNT
+194, 3	494, 1-2	LLA	be mae	NSNT	NSNT
+194, 4	494, 3-3	LLA	roid	NSNT	NSNT
+194, 5	495, 1-5	LLA	pa *diles* mae nhw isio	---	NST
+
+
+195, 1	496, 1-1	IFO	mawr	---	NSNT
+
+
+196, 1	498, 1-4	LLA	*ah* *yeah* dyna chdi	---	NST
+
+
+197, 1	499, 1-3	IFO	hwn o'n isio	---	NSNT
+
+
+198, 1	500, 1-3	LLA	ti ffonio fo	---	NSNT

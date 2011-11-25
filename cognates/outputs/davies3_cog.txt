@@ -1,0 +1,1363 @@
+1, 1	3, 1-1	TOS	mae	NSNT	NSNT
+1, 2	3, 2-3	TOS	gynna i	NSNT	NSNT
+1, 3	3, 4-4	TOS	mae	NSNT	NSNT
+1, 4	3, 5-11	TOS	gynna i arholiad cemeg ar ben_blwydd fi	NSNT	NSNT
+1, 5	3, 12-12	TOS	sti	NSNT	NSNT
+1, 6	5, 1-9	TOS	o'n i yn gutted pan wnes i ffeindio allan	NSNT	SNT
+1, 7	6, 1-5	TOS	wnes i sbïo arno fo	NSNT	NSNT
+1, 9	9, 1-8	TOS	ond dw i wneud yn *alright* yn cemeg	NST	NST
+1, 10	10, 1-2	TOS	*so* gobeithio	---	NST
+
+
+2, 1	11, 1-9	HAR	oedd y cwrs yma yn uffernol o dda yn	NSNT	NSNT
+2, 2	11, 10-13	HAR	timod *um* blwyddyn dwytha	NST	NST
+2, 3	13, 1-15	HAR	fath â *just* aros fyny tan hwyr siarad efo pobl a neb yn stopio chi	---	NST
+
+
+3, 1	15, 1-14	TOS	*sure* bod o gyfle i wneud cyfle da i wneud ffrindiau newydd a *stuff*	NST	NST
+3, 2	15, 15-15	TOS	dydy	NSNT	NSNT
+3, 3	18, 1-3	TOS	dw i *sure*	NST	NST
+3, 4	18, 4-9	TOS	fydda i yn dros y Pasg	NSNT	NSNT
+3, 5	18, 10-17	TOS	fydda i yn *stuck* adre trwy yr adeg	NST	NST
+3, 6	20, 1-2	TOS	achos mae	NSNT	NSNT
+3, 7	20, 3-4	TOS	gynna i	---	NSNT
+
+
+4, 1	21, 1-3	HAR	bydd y tywydd	NSNT	NSNT
+4, 2	21, 4-13	HAR	baswn i ddim meindio mynd ar y *mike* i rywle	NST	NST
+4, 3	22, 1-14	HAR	*well* dydy o ddim yn gallu mynd ar y *mike* i yn bell *so*	NST	NST
+4, 4	23, 1-12	HAR	baswn i ddim wedi meindio mynd i *um* rywle fath â Caergybi	---	NST
+
+
+5, 1	24, 1-8	TOS	ia mae fan yna *right* lle *right* *flat*	NST	NST
+5, 2	24, 9-9	TOS	dydy	NSNT	NSNT
+5, 3	26, 1-3	TOS	dw i gobeithio	NSNT	NSNT
+5, 4	26, 4-13	TOS	fydda i wedi cael *bike* newydd yn eitha buan hefyd	NST	NST
+5, 5	27, 1-6	TOS	mae yna cymaint o bethau newydd	NSNT	NSNT
+5, 6	27, 7-10	TOS	dw isio dyddiau yma	NSNT	NSNT
+5, 7	27, 11-20	TOS	de speakers newydd i llofft fi *bike* newydd *phone* newydd	---	ST
+
+
+6, 1	28, 1-14	HAR	chi beiciau da am bris *right* isel rywbeth fath â *disk* *breaks* pethau a	---	NST
+
+
+7, 1	29, 1-4	TOS	*yeah* dw i gwybod	NST	NST
+7, 2	30, 1-8	TOS	welais i un am *just* o_dan hundred quid	ST	ST
+7, 3	31, 1-12	TOS	oedd o yn edrych yn really *nice* fath â teiars chunky a	NST	ST
+7, 4	33, 1-8	TOS	*disk* *breaks* a suspension i_gyd arno fo ballu	---	ST
+
+
+8, 1	34, 1-4	HAR	pob_dim efo *cost* dydy	NST	NST
+8, 2	35, 1-5	HAR	be oedd *dad* yn deud	NST	NST
+8, 3	36, 1-5	HAR	fel dach chi meddwl *ooh*	NST	NST
+8, 4	36, 6-10	HAR	dach chi mynd i roi	NSNT	NSNT
+8, 5	36, 11-18	HAR	dach chi yn gorod talu am *betrol* bethau	NST	NST
+8, 6	37, 1-3	HAR	ond efo *bike*	NST	NST
+8, 7	39, 1-12	HAR	deuda os dach chi isio cael upgrade neu rywbeth ar y *bike*	NST	ST
+8, 8	41, 1-5	HAR	mae dal yn costio yn_dydy	---	NSNT
+
+
+9, 1	42, 2-4	TOS	mae yn costio	NSNT	NSNT
+9, 2	43, 1-9	TOS	ond does yna ddim fath â treth na dim_byd	NSNT	NSNT
+9, 3	43, 10-11	TOS	de *insurance*	---	NST
+
+
+10, 1	45, 1-6	HAR	dda o'n i cael *phone* de	NST	NST
+10, 2	45, 7-13	HAR	alla i *um* cysylltu adre pethau deuda	NST	NST
+10, 3	45, 14-26	HAR	os dw isio rywbeth lle bod ni yn gorod cnocio drws neu rywbeth	---	NSNT
+
+
+11, 1	46, 1-10	TOS	*yeah* ti cofio pan wnes i ddisgyn ar y ar	NST	NST
+11, 2	48, 1-5	TOS	ar y *bike* yn *Gaernarfon*	ST	NST
+11, 3	49, 1-11	TOS	God *stupid* bod dim top_up ar *phone* na dim_byd adeg yna	---	ST
+
+
+12, 1	52, 1-11	HAR	ti cael ryw spurt yma efo dechrau prynu top_ups wan wyt	---	SNT
+
+
+13, 1	53, 1-8	TOS	*well* *just* *just* mae yn rhan pwysig really	ST	ST
+13, 2	53, 9-10	TOS	dydy o	SNT	NSNT
+13, 3	55, 1-1	TOS	teenager	---	NSNT
+
+
+14, 1	56, 1-17	HAR	baswn i ddim meindio ella wneud mwy o pethau fath â ffrindiau wneud *M_S_N* a pethau a	---	NST
+
+
+15, 1	57, 1-4	TOS	ia dw i gwybod	NSNT	NSNT
+15, 2	57, 5-7	TOS	mae yn annoying	SNT	SNT
+15, 3	57, 8-8	TOS	dydy	---	NSNT
+
+
+16, 1	58, 1-2	HAR	mynd allan	---	NSNT
+
+
+17, 1	59, 1-8	TOS	exactly mae yna gymaint o yn ffrindiau i	NSNT	SNT
+17, 2	59, 9-12	TOS	mae nhw mynd allan	NSNT	NSNT
+17, 3	60, 1-8	TOS	a *party* *Gavin* wsnos yma *well* dechrau wythnos	NST	NST
+17, 4	61, 1-5	TOS	a llwythi mynd i hwnna	NSNT	NSNT
+17, 5	62, 1-7	TOS	er baswn i ddim yn meindio mynd	NSNT	NSNT
+17, 6	63, 1-2	TOS	ond dal	NSNT	NSNT
+17, 7	63, 4-6	TOS	dw i gwybod	NSNT	NSNT
+17, 8	63, 7-12	TOS	basai *mam* ddim yn gadael fi	NST	NST
+17, 9	64, 1-8	TOS	ond er ar_ôl deud hynny dw i *sure*	NST	NST
+17, 10	64, 9-16	TOS	fasai yna fath â loads o ffrindiau *Gavin*	NST	ST
+17, 11	65, 1-16	TOS	mae gynno gymaint o ffrindiau ella rhei pobl fath â ryw *idiots* o_gwmpas y lle *sure*	NST	NST
+17, 12	67, 1-6	TOS	be dw i yn edrych ymlaen	NSNT	NSNT
+17, 13	67, 7-12	TOS	ydy cael *job* wan dechrau gweithio	---	NST
+
+
+18, 1	68, 1-5	HAR	*yeah* faint ydy hynna un_deg_chwech	NST	NST
+18, 2	68, 6-8	HAR	fydd o *yeah*	---	NST
+
+
+19, 1	69, 1-3	TOS	mae o yn	NSNT	NSNT
+19, 2	69, 5-8	TOS	mae o yn un_deg_chwech	NSNT	NSNT
+19, 3	69, 9-9	TOS	dydy	NSNT	NSNT
+19, 4	70, 1-3	TOS	achos mae yn	---	NSNT
+
+
+20, 1	71, 1-5	HAR	*oh* *yeah* *so* pam bod	NST	NST
+20, 2	71, 6-10	HAR	genno *barty* mor fawr te	NST	NST
+20, 3	72, 1-1	HAR	un_deg_saith	---	NSNT
+
+
+21, 1	73, 1-5	TOS	nage *just* *party* *just* cyffredinol	---	NST
+
+
+22, 1	74, 1-5	HAR	pam bod o wneud hynna	NSNT	NSNT
+22, 2	74, 6-6	HAR	ta	---	NSNT
+
+
+23, 1	75, 1-3	TOS	*just* *party* de	NST	NST
+23, 3	77, 1-8	TOS	*um* dw i yn edrych ymlaen ddechrau gweithio	NST	NST
+23, 4	78, 1-6	TOS	achos genna i ddigon o bres	NSNT	NSNT
+23, 5	79, 1-8	TOS	fydd *mam* ddim yn swnian arna fi bob	NST	NST
+23, 6	79, 9-11	TOS	tro fath â	NSNT	NSNT
+23, 7	81, 1-5	TOS	*oh* raid chdi ffeindio *job*	NST	NST
+23, 8	82, 1-8	TOS	wedyn fydda i yn cael cyflog *right* dda	---	NST
+
+
+24, 1	83, 1-5	HAR	tibod pan oedd *um* *Rhodri*	NST	NST
+24, 2	85, 1-2	HAR	oedd o	NSNT	NSNT
+24, 3	85, 3-15	HAR	pan oedd o yn gweithio yna pa mor gyflym gaeth o pay rise	---	SNT
+
+
+25, 1	86, 1-4	TOS	dw ddim yn *sure*	NST	NST
+25, 2	87, 1-10	TOS	ond mae o yn cael *holiday* pay a pethau felly	NST	ST
+25, 3	89, 1-5	TOS	mae yn gweithio *right* aml	NST	NST
+25, 4	90, 1-11	TOS	pan es i yna *um* i gael cyfweliad o'n nhw deud	NST	NST
+25, 5	90, 12-19	TOS	bod o yn *Rhodri* yn weithiwr da felly	---	NST
+
+
+26, 1	91, 1-8	HAR	o leia bod *round* bapur yn eitha dibynadwy	NST	NST
+26, 2	92, 1-6	HAR	ond *um* mae *Ifan* yn ysgol	NST	NST
+26, 3	94, 1-3	HAR	mae o *um*	NST	NST
+26, 4	94, 4-11	HAR	mae nhw newydd gymryd y *job* oddi_wrtho fo	NST	NST
+26, 5	95, 1-5	HAR	am y *Chronicle* ydy o	NST	NST
+26, 6	96, 1-2	HAR	deud *um*	ST	NST
+26, 7	97, 1-7	HAR	*sorry* we have *just* cancelled your *job*	ST	NST
+26, 8	98, 1-3	HAR	deud wrtha fi	---	NSNT
+
+
+27, 1	99, 1-1	TOS	*serious*	ST	NST
+27, 2	101, 1-2	TOS	pam hynny	---	NSNT
+
+
+28, 1	102, 1-4	HAR	dw ddim yn gwybod	NSNT	NSNT
+28, 3	104, 1-2	HAR	dim syniad	NSNT	NSNT
+28, 4	105, 1-6	HAR	*yeah* doedd o ddim yn meddwl	NST	NST
+28, 5	105, 7-10	HAR	bod o yn *serious*	NST	NST
+28, 6	106, 1-13	HAR	oedd o *just* yn mynd yes achos bod o yn gwaith eitha caled	NST	ST
+28, 7	106, 14-22	HAR	bod o yn gorod wneud y leaflets *thing* yna	NST	ST
+28, 8	108, 1-9	HAR	dw i yn gweld o yn mynd yn bored	---	SNT
+
+
+29, 1	109, 1-8	TOS	mae yr *Chronicle* yn bapur mor gachlyd though	ST	ST
+29, 2	111, 1-4	TOS	mae *rubbish* o bapur	---	NST
+
+
+30, 1	112, 1-5	HAR	*Mail* tua yr un peth	NST	NST
+30, 2	113, 1-1	HAR	does	NSNT	NSNT
+30, 3	113, 2-12	HAR	does dim prin dim storïau i ddeud o_gwmpas fan hyn anyway	---	SNT
+
+
+31, 1	115, 1-16	TOS	mae fath â fath â headlines ryw bethau fath â yr adeilad newydd yr peth yna	---	SNT
+
+
+32, 1	116, 1-6	HAR	*yeah* yr yr *um* brifysgol de	NST	NST
+32, 2	118, 1-10	HAR	a mae wedi mynd on am tri wythnos tair wythnos	---	SNT
+
+
+33, 1	119, 1-5	TOS	tair wythnos on the go	---	SNT
+
+
+34, 1	120, 1-9	HAR	a dydy o ddim yn deud dim_byd amdano fo	NSNT	NSNT
+34, 2	122, 1-13	HAR	ond *just* dach chi really isio gwybod am a ryw dŷ cyngor rywle	---	ST
+
+
+35, 1	125, 1-8	TOS	ond be dw yn edrych ymlaen i wneud	NSNT	NSNT
+35, 2	125, 9-10	TOS	ydy unwaith	NSNT	NSNT
+35, 3	125, 11-14	TOS	fydda i yn un_deg_saith	NSNT	NSNT
+35, 4	125, 15-20	TOS	pan fydda i yn y chweched	NSNT	NSNT
+35, 5	125, 21-26	TOS	fydda i yn gallu dechrau dreifio	NSNT	NSNT
+35, 6	125, 27-27	TOS	byddaf	NSNT	NSNT
+35, 7	126, 1-1	TOS	dyna	NSNT	NSNT
+35, 8	126, 2-7	TOS	dw i yn edrych ymlaen wneud	NSNT	NSNT
+35, 9	128, 1-6	TOS	gobeithio cael *Mini* fel *car* cynta	NST	NST
+35, 11	130, 1-7	TOS	achos mae yn *right* rhad o *gar*	NST	NST
+35, 13	133, 1-2	TOS	a wedyn	---	NSNT
+
+
+36, 1	134, 1-10	HAR	ti mynd i citio fo fyny gyd efo headlights *yeah*	---	ST
+
+
+38, 1	137, 1-3	HAR	dw i isio	NSNT	NSNT
+38, 2	137, 4-15	HAR	dw i isio eitha tipyn o bethau newydd yn llofft fi rŵan	NSNT	NSNT
+38, 3	138, 1-4	HAR	mae ychydig bach yn	---	NSNT
+
+
+39, 1	139, 1-7	TOS	*yeah* mae lloft chdi yn tiny though	---	ST
+
+
+40, 1	140, 1-4	HAR	ia dw i gwybod	NSNT	NSNT
+40, 2	141, 1-2	HAR	fath â	---	NSNT
+
+
+41, 1	142, 1-11	TOS	ddylia chdi cael y surround_sound yna felly i Dolig dw meddwl	---	SNT
+
+
+42, 1	143, 1-3	HAR	ia dw gwybod	---	NSNT
+
+
+43, 1	144, 1-2	TOS	basai hynna	NSNT	NSNT
+43, 2	144, 3-7	TOS	wedi bod yn *right* *cool*	---	NST
+
+
+44, 1	145, 1-10	HAR	*mam* a *dad* yn deud does dim digon o le	NST	NST
+44, 2	146, 1-4	HAR	beth sy gen i	NSNT	NSNT
+44, 3	146, 5-9	HAR	ydy *desks* cwpwrdd cwpwrdd llyfrau	NST	NST
+44, 4	146, 10-22	HAR	de a wedyn *just* yr cwpwrdd twll yn y cwpwrdd yn y wal	---	NST
+
+
+45, 1	147, 1-3	TOS	completely *minimal* *yeah*	---	NST
+
+
+46, 1	148, 1-8	HAR	sticio un ar y wal neu rywbeth neu	NSNT	NSNT
+46, 2	150, 1-8	HAR	neu roid o ar y llawr neu rywbeth	NSNT	NSNT
+46, 3	151, 1-8	HAR	chi ddim yn gwybod beth i wneud really	---	SNT
+
+
+47, 1	152, 1-8	TOS	mae speakers chdi *right* bwerus yn *size* bach	NST	ST
+47, 2	154, 1-9	TOS	ond rheina dw i wedi gweld ar y we	NSNT	NSNT
+47, 3	154, 11-16	TOS	mae nhw yn uffar o rhad	NSNT	NSNT
+47, 4	156, 1-3	TOS	chwech_deg_tri punt am	---	NSNT
+
+
+48, 1	157, 1-12	HAR	*yeah* be be dw i ddim yn dallt efo *phone* yma hefyd	NST	NST
+48, 2	157, 13-14	HAR	de seven	NSNT	SNT
+48, 3	159, 1-8	HAR	seventy quid de *um* er er yr *minimum*	NST	ST
+48, 4	159, 9-13	HAR	ydy o yn y siopau	NSNT	NSNT
+48, 5	159, 14-17	HAR	ydy hundred and ten	SNT	SNT
+48, 6	160, 1-5	HAR	dw ddim yn dallt hynna	NSNT	NSNT
+48, 7	161, 1-15	HAR	edrych *um* hundred and ten to hundred and fifty hundred and twenty rywbeth fel yna	NST	ST
+48, 8	162, 1-3	HAR	a a nesa	NSNT	NSNT
+48, 9	162, 4-6	HAR	oedd y sixty	SNT	SNT
+48, 10	163, 1-6	HAR	falle *payment* dw ddim yn gwybod	NST	NST
+48, 11	164, 1-8	HAR	dw ychydig bach yn obsessed am y *phone*	---	ST
+
+
+49, 1	166, 1-5	TOS	*yeah* dyna sut o'n i	NST	NST
+49, 2	166, 6-9	TOS	pan brynais i *phone*	NST	NST
+49, 3	167, 1-5	TOS	pan wnes i gael un	NSNT	NSNT
+49, 4	167, 6-14	TOS	wnes i sylweddoli pa mor pa mor really *rubbish*	ST	ST
+49, 5	167, 15-16	TOS	oedd o	NSNT	NSNT
+49, 6	169, 1-19	TOS	a wedyn ar_ôl hynny o'n i yn difaru ar_ôl gweld o bod yna *deals* newydd ar *phones* a bethau	---	NST
+
+
+50, 1	170, 1-10	HAR	faint faint o memory oedd ar tua ar un ti	---	SNT
+
+
+51, 1	171, 1-2	TOS	*oh* does	NST	NST
+51, 2	171, 3-6	TOS	gynna i ddim syniad	NSNT	NSNT
+51, 3	171, 7-7	TOS	sti	SNT	NSNT
+51, 4	172, 1-3	TOS	no *idea* wsti	NST	ST
+51, 5	172, 4-5	TOS	mae yn	NSNT	NSNT
+51, 6	172, 6-8	TOS	mae yn completely	---	SNT
+
+
+52, 1	173, 1-5	HAR	ti ddim yn gwybod be	---	NSNT
+
+
+53, 1	174, 1-10	TOS	ond basic ydy o four ti gael memory *card* a	---	ST
+54, 2	175, 24-27	HAR	oedd gan plant eraill	NSNT	NSNT
+54, 3	175, 28-31	HAR	gennon nhw *phones* *fancy*	ST	NST
+54, 4	175, 32-33	HAR	you know	---	NSNT
+
+
+55, 1	176, 1-11	TOS	*yeah* achos mae nhw efo gymaint o bethau ti angen o	---	NST
+
+
+56, 1	177, 1-2	HAR	ond *just*	NST	NST
+56, 2	178, 1-18	HAR	o'n o'n i yn gweld nhw yn dal dal dau *phone* erbyn ei_gilydd *Bluetooth* i symud *um* ffeiliau	NST	NST
+56, 3	180, 1-13	HAR	dangos mor syml chi ddim yn gorod hyd_yn_oed anfon *picture* message na dim_byd	---	ST
+
+
+57, 1	181, 1-7	TOS	*yeah* achos mae rheiny yn ddrud uffernol	NST	NST
+57, 2	182, 1-3	TOS	dw i meddwl	NSNT	NSNT
+57, 3	182, 4-12	TOS	bod *tariffs* *er* mobile *phones* yn *stupid* o ddrud	---	ST
+
+
+58, 1	184, 1-3	HAR	a bob tro	NSNT	NSNT
+58, 2	184, 4-12	HAR	os dach chi yn gweld rywbeth da fan yna	NSNT	NSNT
+58, 3	184, 14-20	HAR	mae rhaid bod ryw catch neu rywbeth	NSNT	SNT
+58, 4	186, 1-6	HAR	achos pob_dim yn mynd mae pob_dim	---	NSNT
+
+
+59, 1	187, 1-3	TOS	mae *right* gymhleth	NST	NST
+59, 2	188, 1-10	TOS	pan o'n i yn chwilio am *phone* i fath â	NST	NST
+59, 3	190, 1-4	TOS	dw ddim yn dallt	NSNT	NSNT
+59, 6	193, 1-3	TOS	i fath â	SNT	NSNT
+59, 7	194, 1-2	TOS	*help* *me*	ST	NST
+59, 9	196, 1-7	TOS	wedyn yn diwedd *O_two* mae network iawn	NST	ST
+59, 10	197, 1-7	TOS	ond mae pan ti meddwl amdano fo	NSNT	NSNT
+59, 11	197, 8-9	TOS	mae ddrud	NSNT	NSNT
+59, 12	198, 1-15	TOS	ti talu ten pee *just* i sgwennu ia neu na a text_io fo i rhywun	---	ST
+
+
+60, 1	200, 1-6	HAR	be sy yn dda efo *Tesco*	NST	NST
+60, 2	200, 7-13	HAR	de dech chi yn dewis pa rei	NSNT	NSNT
+60, 3	200, 14-17	HAR	ydy tri ffrind gorau	NSNT	NSNT
+60, 4	202, 1-7	HAR	elli di wneud *Radio_Cymru* neu beth bynnag	NST	NST
+60, 5	203, 1-8	HAR	elli di *just* text_io *Radio_Cymru* bump ceiniog wedyn	---	ST
+
+
+61, 1	204, 1-5	TOS	wnes i dext_io mewn neithiwr	NSNT	SNT
+61, 2	206, 1-10	TOS	a ti gwybod wnest ti weld o yn y *Western_Mail*	NST	NST
+61, 3	207, 1-3	TOS	oedd yn deud	SNT	NSNT
+61, 4	208, 1-4	TOS	hudred most beautiful women	SNT	NSNT
+61, 5	210, 1-6	TOS	ac *er* oedden nhw wedi dod	NST	NST
+61, 6	210, 7-14	TOS	de o *Women's_Weekly* *magazine* neu rywbeth fel yna	NST	NST
+61, 7	211, 1-7	TOS	ond oedd o yn y *Western_Mail* *yeah*	NST	NST
+61, 8	213, 1-7	TOS	*so* ar rhaglen *um* *Kevin_Davies* neithiwr de	NST	NST
+61, 9	213, 8-14	TOS	oedd o'n nhw yn deud *um* *um*	NST	NST
+61, 10	214, 1-4	TOS	pwy dach chi meddwl	NSNT	NSNT
+61, 11	214, 5-8	TOS	oedd yn rhif un	NSNT	NSNT
+61, 12	215, 1-5	TOS	o'n i gwybod yn iawn	NSNT	NSNT
+61, 13	216, 1-8	TOS	es i lawr grisiau i nôl y papur	NSNT	NSNT
+61, 14	218, 1-9	TOS	a wedyn *er* text_io mewn gesio yn gywir de	NST	ST
+61, 15	219, 1-2	TOS	wedyn oedd	NSNT	NSNT
+61, 16	220, 1-4	TOS	a wnes i ddeud	NSNT	NSNT
+61, 17	221, 2-5	TOS	oedd *Kevin_Davies* yn deud	NST	NST
+61, 18	222, 1-11	TOS	*oh* mae yna llawer gormod o o pobl yn darllen *Women's_Weekly*	NST	NST
+61, 19	223, 1-7	TOS	wnes i text_io nôl mewn yn deud	NSNT	SNT
+61, 20	224, 1-7	TOS	na dw i ddim yn darllen *Women's_Weekly*	NST	NST
+61, 21	225, 1-1	TOS	wedyn	NSNT	NSNT
+61, 23	227, 1-7	TOS	wnaeth *um* *Kevin* *Kevin* newid o *round*	NST	NST
+61, 24	227, 8-14	TOS	bod fi yn darllen o bob wythnos	SNT	NSNT
+61, 26	229, 1-1	TOS	funny	SNT	NSNT
+61, 27	230, 1-7	TOS	dw edrych ymlaen i fynd i yr	NSNT	NSNT
+61, 28	231, 1-12	TOS	gobeithio bod ni yn cael mynd i yr *thing* yma *Mona* fory	NST	NST
+61, 29	233, 1-2	TOS	diwrnod agored	NSNT	NSNT
+61, 30	234, 1-3	TOS	basai hwnna *laugh*	---	NST
+
+
+62, 1	235, 1-1	HAR	basen	NSNT	NSNT
+62, 2	235, 2-5	HAR	basen nhw wneud gyrfa	NSNT	NSNT
+62, 3	235, 6-7	HAR	dw isio	NSNT	NSNT
+62, 4	235, 8-12	HAR	pan dw i tyfu fyny	NSNT	NSNT
+62, 5	235, 13-22	HAR	de fath â recording *studio* neu d_j neu rywbeth neu	---	ST
+
+
+63, 1	236, 1-2	TOS	*yeah* dyna	NST	NST
+63, 2	236, 3-3	TOS	dyna	NSNT	NSNT
+63, 3	236, 4-8	TOS	dw isio wneud fath â	---	NSNT
+
+
+64, 1	237, 1-1	HAR	technegol	---	NSNT
+
+
+65, 1	238, 1-9	TOS	basai yn *cool* fath â *just* gweithio fath â	NST	NST
+65, 2	239, 1-5	TOS	baswn i ddim yn meindio	---	NSNT
+
+
+66, 1	240, 1-8	HAR	falle bod o weithiau ychydig bach yn boring	SNT	SNT
+66, 2	241, 1-11	HAR	achos o'n i yn gweld *um* yn y *Galeri* ddoe oedd	NST	NST
+66, 3	241, 12-18	HAR	*just* oedd ddynes yma yr unig beth	NST	NST
+66, 4	241, 19-20	HAR	oedd wneud	NSNT	NSNT
+66, 5	241, 21-24	HAR	de newid y golau	NSNT	NSNT
+66, 6	241, 25-34	HAR	de a *just* eistedd yna am weddill yn darllen papur	NST	NST
+66, 8	243, 1-1	HAR	wedyn	---	NSNT
+
+
+67, 1	244, 1-9	TOS	*yeah* achos basai fo *right* *cool* *um* ownio *business*	ST	NST
+67, 2	246, 1-4	TOS	recording *studio* neu rywbeth	NST	ST
+67, 3	247, 1-7	TOS	achos ti wneud eitha tipyn o bres	NSNT	NSNT
+67, 4	248, 1-8	TOS	achos mae yna gymaint o fandiau newydd lleol	NSNT	NSNT
+67, 5	248, 9-14	TOS	does fath â enwedig fath â	---	NSNT
+
+
+68, 1	250, 1-9	HAR	o'n deud bod yna loads yn mynd i cyfryngau	NSNT	SNT
+68, 2	252, 1-7	HAR	baswn i ddim meindio yn athro hefyd	---	NSNT
+
+
+69, 1	253, 1-2	TOS	dyna be	NSNT	NSNT
+69, 2	254, 1-9	TOS	*yeah* rhyfedd dw i meddwl hynna hefyd exactly hynna	NST	ST
+69, 3	256, 1-7	TOS	baswn i ddim meindio dysgu ffiseg neu	NSNT	NSNT
+69, 4	258, 1-10	TOS	daearyddiaeth neu rywbeth i gael roi bollockings i blant *stupid*	NST	ST
+69, 6	260, 1-8	TOS	*yeah* er i ddeud bod fi yn ddigon	NST	NST
+69, 7	260, 9-11	TOS	gwirion yn dosbarth	---	NSNT
+
+
+70, 1	264, 1-3	HAR	prawf llafar heddiw	NSNT	NSNT
+70, 2	266, 1-3	HAR	*just* dan ni	NST	NST
+70, 3	266, 4-12	HAR	bod yn paratoi ers ryw dri tri wythnos wan	NSNT	NSNT
+70, 4	267, 1-7	HAR	mae pob_dim wedi mynd ar y ffordd	NSNT	NSNT
+70, 5	269, 1-13	HAR	rhywun yn mynd i sgïo pobl eraill yn mynd i dawnsio pethau ac	NSNT	NSNT
+70, 6	270, 1-9	HAR	wedyn diwrnod ola cadw fo tan munud ola de	---	NSNT
+
+
+71, 1	272, 1-6	TOS	oedd yna efo llafar Cymraeg fi	NSNT	NSNT
+71, 2	273, 1-5	TOS	*um* wythnos diwetha oedd o	NST	NST
+71, 3	275, 1-10	TOS	oedd yna andros o *lot* o waith paratoi wneud hwnna	NST	NST
+71, 4	276, 1-17	TOS	o'n i gorod darllen *Tylluan_Wen* eto i_gyd a darllen trwy yr holl *notes* gwylio yr *film* eto	NST	NST
+71, 5	277, 1-8	TOS	wnes i adael hwnnw tan noson ola hefyd	NSNT	NSNT
+71, 6	278, 1-7	TOS	a braidd yn rush gorffen y llyfr	NSNT	SNT
+71, 7	279, 1-8	TOS	wnes i ddarllen y llyfr mewn dau ddiwrnod	---	NSNT
+
+
+72, 1	280, 1-10	HAR	chwarae teg wnaeth *Miss* adael ni ddod allan o Saesneg	NST	NST
+72, 2	281, 1-9	HAR	Saesneg dyddiau yma dechrau mynd yn really boring de	---	SNT
+
+
+73, 1	282, 1-4	TOS	*oh* mae Saesneg gymaint	NST	NST
+73, 2	283, 1-5	TOS	ti *just* yn eistedd yna	NST	NST
+73, 3	284, 1-7	TOS	a mae llais *Miss* *just* fath â	NST	NST
+73, 4	285, 1-8	TOS	ti yn teimlo fath â mynd i gysgu	NSNT	NSNT
+73, 5	287, 1-9	TOS	a mae gofyn *question* ti fath â *um* *um*	---	NST
+
+
+74, 1	288, 1-6	HAR	mae yr holl dermau fath â	NSNT	NSNT
+74, 2	289, 1-5	HAR	*yeah* yn union dyna union	NST	NST
+74, 3	289, 6-8	HAR	dw i hefyd	NSNT	NSNT
+74, 4	290, 1-5	HAR	dw ddim yn dallt hynna	NSNT	NSNT
+74, 5	291, 1-7	HAR	dw i yn eistedd yna a wedyn	NSNT	NSNT
+74, 6	291, 8-19	HAR	dach chi *ooh* byth yn mynd i ofyn y *question* i fi	NST	NST
+74, 7	292, 1-6	HAR	munud nesa dach chi fath â	NSNT	NSNT
+74, 8	293, 1-9	HAR	*oh* na dw ddim isio hi ofyn *question* yna	---	NST
+
+
+75, 1	294, 1-5	TOS	*yeah* *yeah* ti fath â	NST	NST
+75, 2	295, 1-10	TOS	*oh* *please* paid â gofyn y *question* yna i fi	ST	NST
+75, 3	296, 1-8	TOS	end_io fyny gofyn i ti ti fath â	---	SNT
+
+
+76, 1	298, 1-7	HAR	a dach chi ddim really yn gwybod	---	SNT
+
+
+77, 1	299, 1-3	TOS	I don't know	---	NSNT
+
+
+78, 1	300, 1-5	HAR	dach chi ddim yn gwybod	NSNT	NSNT
+78, 2	300, 6-8	HAR	be mae yn	NSNT	NSNT
+78, 3	300, 9-14	HAR	be mae nhw yn sôn amdan	NSNT	NSNT
+78, 4	301, 1-9	HAR	dach chi wneud *real* *fool* chi eich hun wedyn	---	NST
+
+
+79, 1	303, 1-12	TOS	*yeah* o'n i really falch pan wnes i gael llafar o yr	NST	ST
+79, 2	303, 13-14	TOS	ffordd de	NSNT	NSNT
+79, 3	304, 1-16	TOS	aeth o yn *right* dda hefyd enwedig yr un unigol sôn am y *band* a *stuff*	---	NST
+
+
+80, 1	305, 1-5	HAR	achos o'n i yn gorod	NSNT	NSNT
+80, 2	306, 1-1	HAR	oeddech	NSNT	NSNT
+80, 3	306, 2-4	HAR	ydych chi gorod	NSNT	NSNT
+80, 4	306, 5-14	HAR	oeddech chi yn gorod siarad am *um* ryw destun hefyd	---	NST
+
+
+81, 1	307, 1-11	TOS	*yeah* oedden ni yn gael dewis o fath â tri peth	NST	NST
+81, 2	308, 1-8	TOS	oedd yna fath â cau ysgolion bach *um*	NST	NST
+81, 3	308, 9-13	TOS	tlodi a wedyn yr un	NSNT	NSNT
+81, 4	308, 14-22	TOS	wnaethon ni ddewis fath â yfed twenty_four hours felly	---	SNT
+
+
+82, 1	311, 1-6	HAR	ychydig bach mwy soffistigedig ni de	NSNT	NSNT
+82, 2	311, 7-16	HAR	dydy pobl ddrwg ddim yn cael digon o gosb pethau	NSNT	NSNT
+82, 3	311, 17-20	HAR	dylai pawb wisgo dillad	NSNT	NSNT
+82, 4	311, 21-26	HAR	mae nhw isio pethau fel yna	---	NSNT
+
+
+83, 1	313, 1-18	TOS	ti gwybod o'n nhw yn *topics* o'n o'n i ddim yn o'n i ddim yn licio nhw o_gwbl	NST	NST
+83, 2	315, 1-7	TOS	oedd athrawes yn deud yr un peth	NSNT	NSNT
+83, 3	316, 1-3	TOS	ond dal hwnna	NSNT	NSNT
+83, 4	316, 4-11	TOS	oedd yr un gorau o'n i meddwl though	SNT	SNT
+83, 5	317, 1-5	TOS	wedyn aeth o dda wedyn	NSNT	NSNT
+83, 6	318, 1-10	TOS	*just* malu cachu oedden i yn diwedd *just* fath â	NST	NST
+83, 8	320, 1-18	TOS	*yeah* a dw i meddwl hynna hefyd a *er* *yeah* hynna hefyd *er* cytuno efo chdi fan yna	---	NST
+
+
+84, 1	323, 1-14	HAR	fath â o'n i o'n i yn oedden i yn gorod wneud *story* i_fyny	NST	NST
+84, 2	323, 15-22	HAR	de a sôn am brofiad chi eich hun	NSNT	NSNT
+84, 3	324, 1-9	HAR	o'n i ddim yn gwybod beth i sôn amdano	NSNT	NSNT
+84, 4	326, 1-8	HAR	sôn am bethau *round* i neu ryw bethau	---	NST
+
+
+85, 1	327, 1-11	TOS	*yeah* fath â profiadau personol dw i yn casáu fath â	NST	NST
+85, 2	328, 1-2	TOS	timod weithiau	NSNT	NSNT
+85, 3	328, 3-8	TOS	mae athrawon yn gofyn i chdi	SNT	NSNT
+85, 4	329, 1-5	TOS	write about a personal experience	SNT	NSNT
+85, 5	330, 1-12	TOS	neu rywbeth a ti fath â *oh* methu meddwl am yr un	NST	NST
+85, 6	332, 1-7	TOS	a ti am ages yn trio meddwl	---	SNT
+
+
+86, 1	333, 1-4	HAR	ond dach chi ddim	---	NSNT
+87, 2	338, 1-4	TOS	ffrindiau neu rywbeth de	NSNT	NSNT
+87, 3	339, 1-16	TOS	ond oedd sôn am y *band* yn funny fath â rhedeg dros y swimming *pool* a	---	ST
+
+
+88, 1	340, 1-5	HAR	be wnaeth ddigwydd adeg yna	---	NSNT
+
+
+89, 1	341, 1-1	TOS	burp	SNT	NSNT
+89, 2	342, 1-10	TOS	*um* *well* oedden ni yn o'n ni wedi cyrraedd Abertawe	NST	NST
+89, 3	343, 1-8	TOS	wedyn oedden ni chwarae *pool* a *stuff* *o_k*	NST	NST
+89, 4	345, 1-6	TOS	a wedyn wrth ymyl oedd yna	NSNT	NSNT
+89, 5	345, 7-8	TOS	oedd yna	NSNT	NSNT
+89, 6	345, 9-12	TOS	oedd yna swimming *pool*	ST	ST
+89, 7	346, 1-13	TOS	ac oedd y *cover* ar y swimming *pool* *just* fath â bubble wrap	ST	ST
+89, 8	347, 1-5	TOS	oedd o yn really denau	NSNT	SNT
+89, 9	348, 1-9	TOS	wedyn *er* *John_Ifan* a ei frawd yn *idiots* de	NST	NST
+89, 10	348, 10-16	TOS	wnaethon nhw dare_io fi redeg drosto fo	NSNT	SNT
+89, 11	349, 1-6	TOS	a wedyn oedd o mor funny	SNT	SNT
+89, 12	350, 1-2	TOS	wnes i	---	NSNT
+
+
+90, 1	351, 1-5	HAR	pa mor denau oedd o	NSNT	NSNT
+90, 2	351, 6-6	HAR	ta	---	NSNT
+
+
+91, 1	352, 1-10	TOS	*just* yn union fath â bubble wrap oedd o really	ST	ST
+91, 3	354, 1-11	TOS	*just* er_mwyn cadw gwres fath â i_mewn i yr pwll nofio	NST	NST
+91, 4	355, 1-10	TOS	*so* wnes i *just* eistedd yna am ages yn meddwl	NST	ST
+91, 5	356, 1-3	TOS	*yeah* pam ddim	NST	NST
+91, 6	357, 1-4	TOS	wnes i yn diwedd	NSNT	NSNT
+91, 7	358, 1-8	TOS	wnes i ddechrau rhedeg dros y pwll nofio	NSNT	NSNT
+91, 8	359, 1-7	TOS	mond ryw dri cam oedd o ar_draws	NSNT	NSNT
+91, 9	361, 1-8	TOS	wnes i wneud yn iawn dau cam cynta	NSNT	NSNT
+91, 10	362, 1-10	TOS	ar y cam ola wnes i suddo mewn i gwaelod	SNT	NSNT
+91, 11	363, 1-6	TOS	*oh* embarrassment ar y pryd de	NST	ST
+91, 13	365, 1-3	TOS	ond edrych yn_ôl	NSNT	NSNT
+91, 14	365, 5-6	TOS	oedd o	NSNT	NSNT
+91, 15	365, 7-9	TOS	oedd o yn	NSNT	NSNT
+91, 16	365, 10-15	TOS	oedd o yn uffar o funny	SNT	SNT
+91, 17	366, 1-19	TOS	timod fath â yn yr ysgol fath â hefo *Rich* a pethau deud fath â sôn amdan fath â	NST	NST
+91, 18	367, 1-9	TOS	*oh* *yeah* ti cofio yr pwll nofio a *stuff*	NST	NST
+91, 19	368, 1-6	TOS	mae yn wneud chdi chwerthin weithiau	---	NSNT
+
+
+92, 1	370, 1-4	HAR	dw i eitha difaru	NSNT	NSNT
+92, 2	371, 1-4	HAR	basai well gyn i	NSNT	NSNT
+92, 3	371, 5-10	HAR	de bod yn dewis offeryn brass	SNT	SNT
+92, 4	372, 1-7	HAR	achos pan blwyddyn pedwar de dewis cynta	NSNT	NSNT
+92, 5	372, 8-9	HAR	oedd pres	NSNT	NSNT
+92, 6	373, 1-2	HAR	ail ddewis	NSNT	NSNT
+92, 7	374, 1-2	HAR	dewis cynta	NSNT	NSNT
+92, 8	374, 3-4	HAR	oedd *cornet*	NST	NST
+92, 9	375, 1-2	HAR	ail ddewis	NSNT	NSNT
+92, 10	375, 3-4	HAR	oedd *clarinet*	NST	NST
+92, 11	377, 1-11	HAR	a wedyn yn diwedd erbyn erbyn rŵan dw i yn ddifaru	NSNT	NSNT
+92, 12	378, 1-8	HAR	achos mae llawer mwy social wneud *band* pres	NST	ST
+92, 13	378, 9-14	HAR	baswn i meddwl na ryw *clarinet*	---	NST
+
+
+93, 1	379, 2-3	TOS	mae o	NSNT	NSNT
+93, 2	379, 4-4	TOS	dydy	NSNT	NSNT
+93, 3	380, 1-4	TOS	ond beth dw i	---	NSNT
+
+
+94, 1	381, 1-6	HAR	a ryw bobl really you know	SNT	SNT
+94, 2	381, 7-13	HAR	dyn nhw ddim yn ryw fashionable iawn	---	SNT
+
+
+95, 1	382, 1-2	TOS	nac ydy	---	NSNT
+
+
+96, 1	383, 1-7	HAR	yr hogyn yma sy yn *principal* *clarinet*	---	NST
+
+
+97, 1	384, 1-2	TOS	achos mae	NSNT	NSNT
+97, 2	384, 3-5	TOS	mae fwy o	NSNT	NSNT
+97, 3	384, 6-10	TOS	gyfleon hefyd fath â pres	NSNT	NSNT
+97, 4	384, 11-11	TOS	dydy	NSNT	NSNT
+97, 5	385, 1-7	TOS	mwy o cyfleon i fynd i lefydd	---	NSNT
+
+
+98, 1	389, 1-6	HAR	does dim raid i chi dalu	---	NSNT
+
+
+99, 1	392, 1-2	TOS	efo Band_Borth	NSNT	NSNT
+99, 2	394, 1-4	TOS	dw ddim yn meddwl	---	NSNT
+
+
+100, 1	395, 1-7	HAR	rywbeth chwarae yn y cefndir neu rywbeth	NSNT	NSNT
+100, 2	396, 1-3	HAR	falle bod arall	---	NSNT
+
+
+100, 5	400, 1-14	HAR	a wedyn edrych yn gymaint o hwyl fath â pawb yn hapus i_gyd a	NSNT	NSNT
+101, 2	403, 1-12	TOS	*so* doedd yna ddim dewis fath â *drums* a *guitar* na dim_byd	NST	NST
+101, 3	405, 1-7	TOS	a erbyn hyn dw isio wneud hynny	NSNT	NSNT
+101, 4	406, 1-5	TOS	fath â *mam* yn deud	NST	NST
+101, 5	407, 1-7	TOS	*oh* gei di ddim chwarae dau offeryn	NST	NST
+101, 6	408, 1-7	TOS	ti ddim yn practeisio yr *euph* digon	NST	NST
+101, 7	409, 1-2	TOS	a *stuff*	NST	NST
+101, 8	411, 1-4	TOS	a wedyn ti gwybod	---	NSNT
+
+
+102, 1	412, 1-10	HAR	pan wnes i gychwyn o'n i llawer mwy o ymarfer	NSNT	NSNT
+102, 2	413, 1-7	HAR	achos dach chi yn dysgu pethau newydd	NSNT	NSNT
+102, 3	414, 1-12	HAR	ond erbyn rŵan dach chi *just* yn *stuck* wneud yr un peth	NST	NST
+102, 4	415, 1-5	HAR	dach chi yn yr un	NSNT	NSNT
+102, 5	415, 6-6	HAR	safon	NSNT	NSNT
+102, 6	417, 1-10	HAR	dach chi yn cyrraedd *sort* of gradd chwech saith wyth	NST	ST
+102, 7	418, 1-6	HAR	prin wedi newid yna really de	NSNT	SNT
+102, 8	420, 1-10	HAR	mae yn eitha anodd i ddod dod i_fyny fan yna	---	NSNT
+
+
+103, 1	421, 1-3	TOS	be sy yn	NSNT	NSNT
+103, 3	421, 30-30	TOS	tro	SNT	NSNT
+103, 4	422, 1-8	TOS	boring erbyn diwedd *just* chwarae yr un darn	NST	ST
+103, 5	423, 1-3	TOS	ti fath â	SNT	NSNT
+103, 6	424, 1-4	TOS	*o_k* lets play *El_Paso*	ST	NST
+103, 7	425, 1-3	TOS	ti fath â	SNT	NSNT
+103, 8	426, 1-2	TOS	*oh* God	---	NST
+
+
+104, 1	427, 1-13	HAR	*yeah* achos fel *um* oedd ond wedyn pan o'n i cyrraedd blwyddyn chwech	NST	NST
+104, 2	427, 14-25	HAR	de o'n i wedi cyrraedd rywbeth fath â gradd pump gradd chwech	NSNT	NSNT
+104, 3	428, 1-3	HAR	o'n i meddwl	NSNT	NSNT
+104, 4	429, 1-8	HAR	*ooh* os dw mynd ar y rât yma	NST	NST
+104, 5	430, 1-7	HAR	dwy flynedd wedi bod yn wneud o	NSNT	NSNT
+104, 6	431, 1-6	HAR	dw mynd ar y rât yma	NSNT	NSNT
+104, 7	431, 7-16	HAR	fydda i wedi cyrraedd gradd wyth erbyn erbyn blwyddyn wyth	NSNT	NSNT
+104, 9	433, 1-8	HAR	dw i dal gradd chwech neu saith rŵan	NSNT	NSNT
+104, 10	435, 1-14	HAR	*bity* baswn i yn gallu wneud *um* arholiad rywbryd i brofi pa mor dda	NST	NST
+104, 11	435, 15-16	HAR	ydw i	---	NSNT
+
+
+105, 1	436, 1-13	TOS	*yeah* ti ddim yn ti ddim yn wneud yr un gradd nag wyt	NST	NST
+105, 2	438, 1-6	TOS	cofio wnes i wneud gradd tri	NSNT	NSNT
+105, 3	439, 1-5	TOS	ges i ddistinction am hwnna	NSNT	SNT
+105, 4	440, 1-6	TOS	o'n i yn *proud* o hwnna	NST	NST
+105, 6	442, 1-11	TOS	a wedyn wnes i ddim boddro wedyn efo yr un arall	---	NSNT
+
+
+106, 1	444, 1-4	HAR	achos dw isio pam	NSNT	NSNT
+106, 2	444, 5-8	HAR	dw isio wneud cerdd	NSNT	NSNT
+106, 3	444, 9-11	HAR	de *um* T_G_A_U	NST	NST
+106, 4	445, 1-4	HAR	dw ddim yn gwybod	NSNT	NSNT
+106, 5	445, 5-10	HAR	os dach chi angen really chwarae	NSNT	SNT
+106, 6	445, 11-11	HAR	yr	NSNT	NSNT
+106, 7	445, 12-23	HAR	dach chi angen bod yn chwarae yr *piano* yn dda neu rywbeth	---	NST
+
+
+107, 1	446, 1-3	TOS	na mae ti	NSNT	NSNT
+107, 2	446, 4-8	TOS	mae nhw yn dysgu chdi	NSNT	NSNT
+107, 3	446, 9-10	TOS	dw meddwl	NSNT	NSNT
+107, 4	446, 11-11	TOS	sti	---	NSNT
+
+
+108, 1	447, 1-1	HAR	ydyn	---	NSNT
+
+
+109, 1	448, 1-4	TOS	*right* hwyl dw meddwl	NST	NST
+109, 2	449, 1-1	TOS	mae	---	NSNT
+
+
+109, 3	449, 2-4	TOS	mae yr plant	---	NSNT
+
+
+111, 1	452, 1-15	TOS	*yeah* fath â un o ffrindiau fi wedi wneud rywbeth really *crap* cyfansoddiad really *crap*	ST	ST
+111, 2	453, 1-8	TOS	oedd o yn gwybod hynny ei hun hefyd	NSNT	NSNT
+111, 3	455, 1-9	TOS	a oedd o *just* wedi *um* yn eitha *rubbish*	NST	NST
+111, 4	456, 1-3	TOS	ond be wnaeth	NSNT	NSNT
+111, 5	456, 4-8	TOS	be wnaeth o alw fo	NSNT	NSNT
+111, 6	456, 9-14	TOS	oedd *Fanfare_Brilliant* rywbeth *stupid* fel yna	NST	NST
+111, 8	458, 1-7	TOS	oedd o bell o fod yn brilliant	NSNT	SNT
+111, 9	459, 1-1	TOS	funny	SNT	NSNT
+111, 11	461, 1-7	TOS	baswn i ddim wedi meindio cymryd cerdd	NSNT	NSNT
+111, 12	462, 1-3	TOS	ond efo yr	---	NSNT
+
+
+112, 1	463, 1-5	HAR	edrych yn gymaint o hwyl	NSNT	NSNT
+112, 2	465, 1-9	HAR	ond mae pob_dim efo cerddoriaeth yn eitha cymdeithasol pob_dim	NSNT	NSNT
+112, 3	465, 10-10	HAR	dydy	---	NSNT
+
+
+113, 1	466, 1-13	TOS	yndy ond ar_ôl ychydig ti yn laru efo yr offeryn ti fath â	NSNT	NSNT
+113, 2	468, 1-14	TOS	o'n i yn o'n i ddim yn practeisio dim ar yr *euph* o blaen	NST	NST
+113, 3	469, 1-5	TOS	o'n i fath â *oh*	NST	NST
+113, 4	470, 1-6	TOS	wnes i gychwyn chwarae *drums* wedyn	NST	NST
+113, 5	471, 1-9	TOS	*bity* baswn i wedi gallu *drums* yr adeg yna	---	NST
+
+
+114, 1	473, 1-10	HAR	basai yn dda chi yn gallu wneud pethau gwahanol weithiau	NSNT	NSNT
+114, 2	473, 11-13	HAR	de hefo *um*	NST	NST
+114, 3	474, 1-4	HAR	*just* dw ddim yn	NST	NST
+114, 4	474, 5-8	HAR	dw ddim yn gallu	NSNT	NSNT
+114, 5	474, 9-18	HAR	bod yn sicr iawn achos bod yn athro newydd pob_dim	NSNT	NSNT
+114, 6	476, 1-9	HAR	ond mae yn edrych yn athro eitha *nice* really	---	ST
+
+
+115, 1	477, 1-15	TOS	*yeah* achos ti yn gael dewis offeryn wneith o dysgu dipyn bach felly fath â	NST	NST
+115, 2	477, 16-22	TOS	safon gradd dau neu rywbeth fath â	NSNT	NSNT
+115, 3	479, 1-12	TOS	gwybod bod yna rhei wedi dysgu chwarae *bass* ychydig bach fath â	NST	NST
+115, 4	480, 1-7	TOS	peth yna sy wedi wneud yn dda	NSNT	NSNT
+115, 5	481, 1-5	TOS	wnaeth *band* wneud yn dda	NST	NST
+115, 6	483, 1-6	TOS	eitha da efo Brwydr_y_Bandiau a *stuff*	NST	NST
+115, 7	484, 1-6	TOS	a mae nhw *band* *right* dda	NST	NST
+115, 8	485, 2-11	TOS	mae nhw yn *group* o gerddorol iawn yn enwedig *Ben*	ST	NST
+115, 9	486, 1-4	TOS	passionate iawn amdan *music*	NST	ST
+115, 10	487, 1-4	TOS	bob tro yn sôn	SNT	NSNT
+115, 11	488, 1-7	TOS	*uh* *bass* *bass* *uh* *jazz* *uh* *funk*	---	NST
+
+
+116, 1	490, 1-7	HAR	*yeah* *so* dach chi yn sylweddoli wedyn	NST	NST
+116, 2	490, 8-11	HAR	bod bobl eraill yna	NSNT	NSNT
+116, 3	491, 1-5	HAR	a dach chi meddwl *ooh*	NST	NST
+116, 4	491, 6-8	HAR	dach chi meddwl	NSNT	NSNT
+116, 5	491, 9-17	HAR	bod chi mor dda i gychwyn efo bobl eraill	NSNT	NSNT
+116, 6	492, 1-4	HAR	ond dach chi *just*	NST	NST
+116, 7	494, 1-9	HAR	dach chi yn ychydig bach yn llai hyderus wedyn	---	NSNT
+
+
+117, 1	495, 1-10	TOS	*yeah* dyna be o'n i meddwl pan o'n i meddwl	NST	NST
+117, 2	495, 11-14	TOS	bod fi *right* dda	NST	NST
+117, 3	496, 1-5	TOS	mi o'n i de ond	NSNT	NSNT
+117, 4	498, 1-14	TOS	neu o'n i o'n i seriously isio fath â chwarae *principal* *euph* yn *band*	NST	ST
+117, 5	500, 1-7	TOS	a o'n i dal methu cyrraedd yna	NSNT	NSNT
+117, 6	501, 1-14	TOS	o'n i *proud* pan ges i wneud *Capel_Mawr* wneud y *solos* i_gyd yn hwnna	NST	NST
+117, 7	502, 1-4	TOS	oedd hynna yn hwyl	---	NSNT
+
+
+118, 1	503, 1-18	HAR	*lot* o ryw *solos* *eupho* yn yn yr *um* *set* y rei *band* *band* pres hŷn ddoe de	NST	NST
+118, 2	504, 1-5	HAR	oedd gennyn nhw *set* dda	---	NST
+
+
+119, 1	506, 1-3	TOS	dw yn gwybod	NSNT	NSNT
+119, 2	507, 1-6	TOS	dw i yn cofio fath â	NSNT	NSNT
+119, 3	508, 1-5	TOS	oedd o mor hawdd unwaith	NSNT	NSNT
+119, 4	509, 1-4	TOS	dw i yn cofio	NSNT	NSNT
+119, 5	509, 5-6	TOS	oedd *Rich*	NST	NST
+119, 6	509, 7-8	TOS	oedd o	NSNT	NSNT
+119, 7	510, 1-9	TOS	wnaeth o ond fynd i un *practice* cerddorfa sir	NST	NST
+119, 8	512, 1-11	TOS	ac oedd o end_io fyny mynd i yr i yr *concert*	NST	ST
+119, 9	513, 1-5	TOS	basai hynna ddim yn digwydd	NSNT	NSNT
+119, 10	513, 6-10	TOS	na fysai mewn fath â	NSNT	NSNT
+119, 11	515, 1-9	TOS	ti gorod roid y commitment mewn Band_Borth a *stuff*	NST	ST
+119, 12	516, 1-8	TOS	ti yn gorod mynd i yr holl ymarferion	NSNT	NSNT
+119, 13	518, 1-8	TOS	fedri di ddim *just* troi fyny a deud	NST	NST
+119, 14	519, 1-4	TOS	*oh* wna i fynd	NST	NST
+119, 15	520, 1-8	TOS	neu deud troi nôl munud ola a deud	NSNT	NSNT
+119, 16	521, 1-7	TOS	*oh* na medra i ddim wneud o	NST	NST
+119, 17	522, 1-9	TOS	mae commitment yn peth pwysig iawn efo yr *bands*	---	ST
+
+
+120, 1	523, 1-11	HAR	oedd yna rei efo yr *um* hefo yr *um* *band* sir	NST	NST
+120, 2	523, 13-28	HAR	oedd yna rhei *just* yn dod i_fyny yr un ymarfer o yr diwedd neu beth bynnag	NST	NST
+120, 3	523, 29-35	HAR	de a *just* mynd i yr cyngerdd	NST	NST
+120, 4	525, 1-9	HAR	erbyn hyn dach chi ddim yn cael wneud hynna	NSNT	NSNT
+120, 5	527, 1-10	HAR	*so* *just* os dach chi yn wneud rywbeth gwahanol deuda	NST	NST
+120, 6	527, 11-20	HAR	os dach chi yn *just* yn sâl am un ymarfer	NST	NST
+120, 7	527, 21-25	HAR	allwch chi *just* symud lawr	NST	NST
+120, 8	529, 1-4	HAR	reolau *odd* weithiau de	NST	NST
+120, 9	530, 1-8	HAR	dyn nhw ddim yn marcio chi am eich	NSNT	NSNT
+120, 10	531, 1-4	HAR	dach chi ddim yn	NSNT	NSNT
+120, 11	531, 5-5	HAR	roid	NSNT	NSNT
+120, 12	531, 6-9	HAR	dyn nhw ddim yn	NSNT	NSNT
+120, 13	531, 10-15	HAR	roid chi yn y lle oherwydd	NSNT	NSNT
+120, 14	531, 16-17	HAR	safon chi	NSNT	NSNT
+120, 15	532, 1-9	HAR	ond dach chi yn lle chi oherwydd pa mor	---	NSNT
+
+
+121, 1	533, 1-9	TOS	pa mor aml dach chi mynd i yr ymarferion	NSNT	NSNT
+121, 2	535, 1-2	TOS	*yeah* pa	---	NST
+
+
+122, 1	536, 1-7	HAR	be oedd hynna wahanol i yr bas	NSNT	NSNT
+122, 2	537, 1-8	HAR	achos oedd yna un wedi cyrraedd yn hwyr	NSNT	NSNT
+122, 3	538, 1-12	HAR	a anaml iawn dw i wedi gweld nhw dod i yr ymarferion	NSNT	NSNT
+122, 4	539, 1-9	HAR	oedd o *right* yn y blaen efo yr brass	ST	ST
+122, 5	540, 1-4	HAR	oedd o yn *odd*	---	NST
+
+
+123, 1	541, 1-5	TOS	*mmm* mae nhw nabod rhei	NST	NST
+123, 2	541, 6-9	TOS	sy yn brofiadol ella	NSNT	NSNT
+123, 3	542, 1-6	TOS	gwybod *oh* mae o yn dda	NST	NST
+123, 4	543, 1-7	TOS	waeth ni *just* roid o ar ar	NST	NST
+123, 5	545, 1-2	TOS	beth bynnag	NSNT	NSNT
+123, 6	546, 1-13	TOS	*ah* dw i really edrych ymlaen wan i yr arholiadau gyd fod drosodd	NST	ST
+123, 7	548, 1-6	TOS	mae yn roi gymaint o ryddhad	NSNT	NSNT
+123, 8	549, 1-4	TOS	dw ddim yn gwybod	NSNT	NSNT
+123, 9	549, 5-11	TOS	be wnawn ni dros yr ha though	---	SNT
+
+
+124, 1	550, 1-4	HAR	dw *just* yn meddwl	NST	NST
+124, 2	550, 5-7	HAR	mae yn dal	NSNT	NSNT
+124, 3	550, 8-12	HAR	gynna i pethau fath â	NSNT	NSNT
+124, 4	550, 13-15	HAR	dw meddwl *ooh*	NST	NST
+124, 5	550, 16-17	HAR	dw bron	NSNT	NSNT
+124, 6	550, 18-20	HAR	â gael bron	NSNT	NSNT
+124, 7	550, 21-26	HAR	â gorffen *um* T_A_Sau fi rŵan	NST	NST
+124, 8	551, 1-6	HAR	ond dw i dal yn meddwl	NSNT	NSNT
+124, 9	552, 1-3	HAR	*oh* *damn* mae	NST	NST
+124, 10	552, 4-7	HAR	gynna i T_G_A_U lefel_A	NSNT	NSNT
+124, 11	553, 1-6	HAR	dw gorod mynd trwy brifysgol pethau	NSNT	NSNT
+124, 12	554, 1-4	HAR	a wir fydd gen	NSNT	NSNT
+124, 13	554, 5-8	HAR	dw ddim yn meddwl	NSNT	NSNT
+124, 14	554, 9-9	HAR	fydd	NSNT	NSNT
+124, 15	554, 10-14	HAR	genna i syniad erbyn hynna	NSNT	NSNT
+124, 16	556, 1-8	HAR	beth i beth i wneud â ngyrfa i	NSNT	NSNT
+124, 17	557, 1-1	HAR	mae	NSNT	NSNT
+124, 18	557, 2-8	HAR	genna i ryw fath o syniadau rŵan	NSNT	NSNT
+124, 19	558, 1-6	HAR	ond dw ddim yn gwybod weithio	---	NSNT
+
+
+125, 1	559, 1-5	TOS	mae yn cymaint o hassle	---	SNT
+
+
+126, 1	560, 1-11	HAR	dw *just* isio *job* efo arian hwyl cyfarfod pobl newydd de	NST	NST
+126, 2	560, 12-12	HAR	ond	NSNT	NSNT
+126, 3	562, 1-8	HAR	falle dydy o ddim yn bosib erbyn hyn	---	NSNT
+
+
+127, 1	563, 1-4	TOS	beth dda ydy *um*	NST	NST
+127, 2	563, 5-5	TOS	fydd	NSNT	NSNT
+127, 3	563, 6-15	TOS	genna i fath â mis a hanner *off* ysgol tra	NST	NST
+127, 4	563, 16-22	TOS	fyddwch chi yn gorod dal i fynd	NSNT	NSNT
+127, 5	564, 1-6	TOS	achos fydda i wedi gorffen erbyn	NSNT	NSNT
+127, 6	565, 1-10	TOS	dw meddwl mai *um* Mehefin ugeinfed neu rywbeth fel yna	NST	NST
+127, 7	565, 11-14	TOS	ydy dyddiad ola fi	NSNT	NSNT
+127, 8	567, 1-8	TOS	*so* wedyn dach chi yn gorffen ysgol Gorffennaf	---	NST
+
+
+128, 1	568, 1-2	HAR	Gorffennaf ugeinfed	---	NSNT
+
+
+129, 1	569, 1-4	TOS	ugeinfed rywbeth fel yna	---	NSNT
+
+
+130, 1	570, 1-1	HAR	*so*	---	NST
+
+
+131, 1	571, 1-2	TOS	*so* mae	NST	NST
+131, 2	571, 3-6	TOS	genna i fis *off*	NST	NST
+131, 4	573, 1-13	TOS	a ti gwybod baswn i ddim yn meindio really wneud yn Gorffennaf Gorffennaf	NSNT	SNT
+131, 5	573, 14-17	TOS	ydy mynd i *Sesiwn_Fawr*	NST	NST
+131, 7	575, 1-8	TOS	achos mae yna line_up really dda fan yna	---	SNT
+
+
+132, 1	576, 1-1	HAR	jammy	---	NSNT
+
+
+133, 1	577, 1-1	TOS	be	---	NSNT
+
+
+134, 1	578, 1-1	HAR	jammy	---	NSNT
+
+
+135, 1	579, 1-1	TOS	be	---	NSNT
+
+
+136, 1	580, 1-4	HAR	bod ti yn gorod	NSNT	NSNT
+136, 2	580, 5-11	HAR	bod ti yn cael colli mis cyfan	NSNT	NSNT
+136, 3	581, 1-8	HAR	dan ni *just* yn gorod cario ymlaen waith	NST	NST
+136, 4	581, 9-10	HAR	sy *just*	---	NST
+
+
+137, 1	583, 1-9	TOS	ia ond dan ni wedi wneud gymaint o waith	NSNT	NSNT
+137, 2	583, 10-10	TOS	sti	NSNT	NSNT
+137, 3	584, 1-10	TOS	basa chdi ddim yn coelio faint o waith ydy o	NSNT	NSNT
+137, 5	586, 1-5	TOS	mae gymaint o waith cwrs	NSNT	NSNT
+137, 6	587, 1-8	TOS	mae hwnna i_gyd o yr ffordd wan felly	NSNT	NSNT
+137, 7	588, 1-7	TOS	ond dw i yn difaru yn enwedig	NSNT	NSNT
+137, 8	588, 8-15	TOS	bod Saesneg yn un *mark* o gael a	NST	NST
+137, 9	589, 1-4	TOS	o'n i yn gutted	SNT	SNT
+137, 10	590, 1-13	TOS	petaswn i wedi roi *just* tiny *bit* mwy o ymdrech mewn iddo fo	NST	ST
+137, 11	591, 1-18	TOS	to'n i ddim yn bothered efo Saesneg *just* fath â *oh* *just* cael o o yr ffordd felly	NST	ST
+137, 12	593, 1-8	TOS	wedyn dw i yn difaru trwy edrych nôl	NSNT	NSNT
+137, 13	594, 1-4	TOS	achos fedri di ddim	NSNT	NSNT
+137, 14	595, 1-9	TOS	oni_bai bod yr os mai fi yn y *sample*	NST	NST
+137, 15	595, 10-17	TOS	sy yn cael ei anfon ffwrdd i farcio	NSNT	NSNT
+137, 16	596, 1-6	TOS	gobeithio wneith yr arholwr fan yna	NSNT	NSNT
+137, 17	596, 7-11	TOS	roid *mark* ychwanegol i fi	NST	NST
+137, 19	598, 1-12	TOS	dw ddim really yn edrych ymlaen ar_gyfer arholiad T_G_A_U Saesneg na *maths*	NST	ST
+137, 20	600, 1-7	TOS	rhaid fi *just* adolygu loads iddyn nhw	---	ST
+
+
+138, 1	601, 1-4	HAR	dw ddim yn meddwl	NSNT	NSNT
+138, 2	601, 5-15	HAR	wneith yr arholiad *um* Saesneg fi mor dda mor dda â	NST	NST
+138, 3	601, 16-22	HAR	be ges i yn yr ffug rei	NSNT	NSNT
+138, 4	602, 1-1	HAR	achos	---	NSNT
+
+
+139, 1	603, 1-2	TOS	be T_A_Sau	---	NSNT
+
+
+140, 1	604, 1-5	HAR	ia achos oedd *just* lwcus	NST	NST
+140, 2	604, 6-14	HAR	bod fi wedi cael agos i marciau llawn achos	NSNT	NSNT
+140, 3	604, 15-20	HAR	*just* bod o yn bwnc da	NST	NST
+140, 4	605, 1-3	HAR	siarad am gyfnod	NSNT	NSNT
+140, 5	605, 4-5	HAR	dach chi	NSNT	NSNT
+140, 6	607, 1-9	HAR	oedd o yn bwnc eitha da i wneud o	NSNT	NSNT
+140, 7	609, 1-2	HAR	achos *just*	---	NST
+
+
+141, 1	610, 1-3	TOS	mae yn dibynnu	NSNT	NSNT
+141, 3	611, 1-6	TOS	a mae yn nightmare gweld cerdd	NSNT	SNT
+141, 4	611, 7-10	TOS	sy *just* fath â	NST	NST
+141, 5	611, 11-14	TOS	dw ddim yn gwybod	NSNT	NSNT
+141, 6	611, 15-19	TOS	be mae o amdan be	NSNT	NSNT
+141, 7	611, 20-24	TOS	be mae o yn sôn	NSNT	NSNT
+141, 9	615, 1-4	TOS	mae really wneud chdi	NSNT	SNT
+141, 10	617, 1-13	TOS	*oh* *question* ola ar y papur a bob_dim a ti *just* fath â	ST	NST
+141, 11	618, 1-3	TOS	*oh* my God	---	NST
+
+
+142, 1	619, 1-4	HAR	papur blwyddyn diwetha dyna	NSNT	NSNT
+142, 2	619, 5-16	HAR	be dan ni wneud fath â ryw ymarfer bach yn Cymraeg wan	NSNT	NSNT
+142, 3	619, 17-25	HAR	de a wedyn ryw gerdd yma am y *parrot*	NST	NST
+142, 5	621, 1-6	HAR	pwy sy isio cerdd am *barrot*	NST	NST
+142, 6	622, 1-8	HAR	be mae hynna i wneud efo pobl ifanc	---	NSNT
+
+
+143, 1	623, 1-10	TOS	*yeah* Cymraeg dan ni yn gorod dysgu pymtheg cerdd ar_gyfer	---	NST
+
+
+144, 1	624, 1-5	HAR	dysgu nhw *off* by heart	---	ST
+
+
+145, 1	625, 1-16	TOS	basically ia achos ti yn gorod dysgu fath â o leia pedwar *um* dyfyniad ohono fo	NST	ST
+145, 2	626, 1-11	TOS	ti yn gorfod gwybod be mae yr bardd yn sôn amdano	NSNT	NSNT
+145, 3	626, 12-18	TOS	pwy ydy yr bardd mesur y gerdd	NSNT	NSNT
+145, 4	628, 1-8	TOS	ti gorod gwybod hynny ar_gyfer pymtheg ohonyn nhw	NSNT	NSNT
+145, 5	629, 1-17	TOS	ac yn diwedd wyt ti mond yn mynd i fod yn iwsio un neu ddau ohonyn nhw	NSNT	NSNT
+145, 6	631, 1-9	TOS	*so* ar_ôl chdi orffen yr arholiad ti fath â	NST	NST
+145, 7	632, 1-15	TOS	*oh* wnes i wario gymaint o amser yn yn *er* edrych ar y gerdd yna	ST	NST
+145, 8	633, 1-4	TOS	useless erbyn y diwedd	---	SNT
+
+
+146, 1	634, 1-8	HAR	*yeah* achos pan o'n i yn paratoi de	NST	NST
+146, 2	634, 10-21	HAR	oedd *Miss* wedi roi rhestr o destunau i ni dim ond ryw	NST	NST
+146, 3	634, 22-34	HAR	oedd gen i ryw naw *question* a ryw dri o'n i wedi dewis	NST	NST
+146, 4	635, 1-9	HAR	o'n i wedi wneud ryw bedwar tudalen o nodiadau	NSNT	NSNT
+146, 5	636, 1-13	HAR	dim ond ryw falle tri chwarter tudalen i wedi defnyddio yn y diwedd	---	NSNT
+
+
+147, 1	637, 1-13	TOS	*mmm* yr unig beth dw i yn mwynhau wneud really ran gwaith ysgol	NST	ST
+147, 2	637, 14-15	TOS	ydy woodwork	SNT	SNT
+147, 3	639, 1-7	TOS	lwcus mae *um* *Mr_Churchill* yn ysgol heddiw	NST	NST
+147, 4	640, 1-14	TOS	a dw i wedi cychwyn torri allan yr c_d *racks* yna wan efo router	ST	ST
+147, 5	642, 1-6	TOS	mae hwnna yn mynd yn *o_k*	NST	NST
+147, 6	643, 1-9	TOS	a mae o yn dipyn bach yn gam though	SNT	SNT
+147, 7	644, 1-13	TOS	rhaid fi rhaid fi *um* ffeilio lawr dipyn bach ar y *jig* sy	NST	NST
+147, 8	644, 14-15	TOS	gynna i	NSNT	NSNT
+147, 10	646, 1-3	TOS	edrych yn dda	NSNT	NSNT
+147, 11	648, 1-5	TOS	dw i really enjoio woodwork	SNT	SNT
+147, 12	649, 1-6	TOS	dw i gobeithio dros yr ha	NSNT	NSNT
+147, 13	649, 7-18	TOS	baswn i gallu wneud mwy o bethau i yr ardd a bethau	NSNT	NSNT
+147, 14	650, 1-9	TOS	achos wnes i enjoio joio wneud y bwrdd yna	NSNT	NSNT
+147, 15	650, 10-10	TOS	sy	NSNT	NSNT
+147, 16	650, 11-15	TOS	gynnon ni yn yr ardd	NSNT	NSNT
+147, 17	652, 1-3	TOS	oedd hynna *cool*	---	NST
+
+
+148, 1	653, 1-6	HAR	*just* be dw i ddim yn	NST	NST
+148, 2	653, 7-9	HAR	ydy yr colofnau	NSNT	NSNT
+148, 3	654, 1-7	HAR	baswn i really really licio cymryd woodwork	SNT	SNT
+148, 4	654, 8-14	HAR	de achos bod yn gymaint o hwyl	NSNT	NSNT
+148, 5	656, 1-7	HAR	yr un pryd dw isio cymryd cerdd	NSNT	NSNT
+148, 6	657, 1-6	HAR	a mae o really annoy_o fi	NSNT	SNT
+148, 7	659, 1-11	HAR	baswn i wedi eitha licio wneud rywbeth ar_gyfer yn stafell i	NSNT	NSNT
+148, 8	659, 12-21	HAR	de ryw gwpwrdd bach neu rywbeth fel y *trolley* table	ST	ST
+148, 9	659, 22-24	HAR	sy gen ti	NSNT	NSNT
+148, 10	660, 1-6	HAR	ond falle rywbeth mwy soffistigedig de	NSNT	NSNT
+148, 11	662, 1-10	HAR	ond dach chi methu wneud pob_dim ar unwaith nac ydach	NSNT	NSNT
+148, 12	664, 1-11	HAR	dw yn clywed plant eraill yn wneud pethau ar_ôl ysgol pethau	NSNT	NSNT
+148, 13	665, 1-10	HAR	a *just* dw ddim yn gweld isio wneud hynna really	ST	ST
+148, 14	666, 1-8	HAR	ond dw ddim yn gwybod yn y diwedd	---	NSNT
+
+
+149, 1	667, 1-3	TOS	dw i cofio	NSNT	NSNT
+149, 2	668, 1-18	TOS	dw cofio llynedd pan o'n i edrych ymlaen i wneud fath â decking a *stuff* yn yr ardd	NST	ST
+149, 3	669, 1-7	TOS	fath â dw i really isio adre	NSNT	SNT
+149, 4	669, 8-16	TOS	baswn i licio wneud mwy o gwaith coed adre	NSNT	NSNT
+149, 5	671, 1-5	TOS	achos mae pren yn gallu	NSNT	NSNT
+149, 6	671, 6-9	TOS	bod yn eitha drud	SNT	NSNT
+149, 7	672, 1-9	TOS	end_io fyny talu saith_deg punt am y bwrdd yna	NSNT	SNT
+149, 8	673, 1-16	TOS	a mae fath â yn ysgol trwy yr ysgol ti cael dy defnyddiau am really rhad	NSNT	SNT
+149, 9	674, 1-6	TOS	a mae fath â ti gallu	NSNT	NSNT
+149, 10	674, 7-7	TOS	mae	NSNT	NSNT
+149, 11	674, 8-12	TOS	mae yr fath â offer	NSNT	NSNT
+149, 12	674, 13-17	TOS	mae yr ysgol yn gael	NSNT	NSNT
+149, 13	674, 18-22	TOS	mae nhw *right* rhad hefyd	NST	NST
+149, 14	676, 1-4	TOS	ond be dw isio	NSNT	NSNT
+149, 15	676, 5-10	TOS	ydy gael pethau fel yna adre	NSNT	NSNT
+149, 16	678, 1-11	TOS	achos basai *cool* wneud hynny achos cael yr holl *tools* adre	---	NST
+
+
+150, 1	679, 1-2	HAR	dwyn nhw	---	NSNT
+
+
+151, 1	681, 1-6	TOS	*just* gael fath â *workshop* massive	ST	ST
+151, 2	682, 1-6	TOS	bysai hynna yn hell of *cool*	---	ST
+
+
+152, 1	684, 1-8	HAR	unig peth baswn i cael recording *studio* massive	---	ST
+
+
+153, 1	685, 1-3	TOS	bob_dim ti angen	NSNT	NSNT
+153, 2	686, 1-2	TOS	basai hynna	NSNT	NSNT
+153, 3	686, 3-5	TOS	basai hynna yn	---	NSNT
+
+
+154, 1	687, 1-8	HAR	baswn i licio cael y *hi_fi* really pwerus	NST	ST
+154, 2	688, 1-1	HAR	ond	NSNT	NSNT
+154, 3	690, 1-6	HAR	dw ddim yn cael y cyfle	NSNT	NSNT
+154, 4	690, 7-11	HAR	roid o fyny ddim mwy	NSNT	NSNT
+154, 5	691, 1-5	HAR	*stuck* ar ryw *minus* forty_five	ST	ST
+154, 6	692, 1-7	HAR	mae yn gallu mynd at pedwar_deg_pump *decibel*	NST	NST
+154, 7	694, 1-3	HAR	mae really annoying	---	SNT
+
+
+155, 1	695, 1-7	TOS	dw o'n i really licio *hi_fi* fi	NST	ST
+155, 2	695, 8-11	TOS	pan ges i o	NSNT	NSNT
+155, 3	696, 1-10	TOS	ond o'n i yn gutted pan wnes i ffeindio allan	NSNT	SNT
+155, 4	696, 11-19	TOS	bod yr yr *er* subwoofers wedi torri arno fo	NST	ST
+155, 5	698, 1-3	TOS	dal yn gweithio	NSNT	NSNT
+155, 6	699, 1-10	TOS	ond dydy yr safon sŵn ddim yn dda arno fo	---	NSNT
+
+
+156, 1	700, 1-9	HAR	*yeah* dach chi methu *lot* mwy fyny nag ydach	---	NST
+
+
+157, 1	701, 1-6	TOS	na *suppose* basa chdi yn gallu	NST	NST
+157, 2	702, 1-10	TOS	ond dw i yn ofn iddo fo dorri fo eto	NSNT	NSNT
+157, 3	704, 1-8	TOS	mae rhei newydd nhw yn four hundred *watts*	ST	ST
+157, 4	705, 1-9	TOS	digon i chwythu yr tŷ lawr *sure* o fod	NST	NST
+157, 6	707, 1-5	TOS	ond dw i yn gobeithio	NSNT	NSNT
+157, 7	707, 6-7	TOS	pan fydd	NSNT	NSNT
+157, 8	707, 8-12	TOS	genna i ddigon o bres	NSNT	NSNT
+157, 9	707, 13-16	TOS	fydda i yn gallu	NSNT	NSNT
+157, 10	708, 1-11	TOS	achos ti gwybod dw i yn wneud y *thing* *hi_fi* yma	NST	NST
+157, 11	708, 12-14	TOS	dw i wneud	NSNT	NSNT
+157, 12	709, 1-9	TOS	mae yna tri tri tier iddo fo tri *box*	NST	ST
+157, 13	710, 1-5	TOS	a mond dau beth sy	NSNT	NSNT
+157, 14	710, 6-11	TOS	genna i yn yn llofft i	NSNT	NSNT
+157, 15	712, 1-12	TOS	a dw i seriously isio cael c_d player neu *Minidisc* player newydd	NST	ST
+157, 16	713, 1-6	TOS	achos mond tuner *tape* *deck* sy	NST	ST
+157, 17	713, 7-8	TOS	genna i	NSNT	NSNT
+157, 18	714, 1-7	TOS	a dw ddim really isio *tape* *deck*	---	ST
+
+
+158, 1	715, 1-11	HAR	erbyn hyn dach chi yn gorod talu am bethau da dydach	NSNT	NSNT
+158, 3	716, 26-31	HAR	ei hun gallu rhwygo arno fo	---	NSNT
+
+
+159, 1	717, 1-4	TOS	*yeah* achos mae speakers	---	ST
+
+
+160, 1	718, 1-7	HAR	fel yr un sy yn *P_C_World* *yeah*	---	NST
+
+
+161, 1	719, 1-11	TOS	be o'n i yn gweld oedd fath â ar y we	NSNT	NSNT
+161, 2	719, 12-29	TOS	pan wnes i sbïo ar y we rhei speakers fath â wyth gan punt a pethau fel yna	NSNT	SNT
+161, 3	720, 1-19	TOS	a pan wnes i weld rei yma yn chwech_deg_tri punt o'n i fath â *wow* methu coelio yr peth	NST	NST
+161, 4	722, 1-18	TOS	peth o'n i dipyn bach yn gutted pryd achos o'n i meddwl mai dau am chwech_deg_tri oedd o	SNT	SNT
+161, 5	723, 1-7	TOS	massive o rei fath â tri subwoofer	SNT	SNT
+161, 7	725, 1-4	TOS	un mid_range a un	SNT	SNT
+161, 8	726, 1-1	TOS	amazing	---	NSNT
+
+
+162, 1	727, 1-8	HAR	ti yn ti yn cofio yr speakers bach	---	SNT
+
+
+163, 1	728, 1-4	TOS	rheiny braidd yn *rubbish*	---	NST
+
+
+164, 1	730, 1-8	HAR	dach chi *just* yn cael yr sŵn uchel	---	NST
+
+
+165, 1	731, 1-12	TOS	*yeah* mae yn *alright* fel a digon digon o *treble* a *stuff*	NST	NST
+165, 2	733, 1-12	TOS	ond fath â mond ar_ôl hyn a hyn mynd yn really distorted	SNT	SNT
+165, 3	736, 1-3	TOS	beth sy yn	NSNT	NSNT
+165, 4	736, 4-7	TOS	basai yn really *cool*	ST	ST
+165, 5	737, 1-7	TOS	gobeithio ga i *job* da a *stuff*	NST	NST
+165, 6	738, 1-12	TOS	pan fydda i yn hŷn fath â cael recording *studio* a *stuff*	NST	ST
+165, 7	739, 1-5	TOS	byswn i love_io cael tŷ	NSNT	SNT
+165, 8	739, 6-12	TOS	sy efo fath â media centre massive	SNT	SNT
+165, 10	741, 1-15	TOS	fath â *plasma* *screen* i bob stafell fath â y speakers yn y waliau *stuff*	NST	ST
+165, 11	742, 1-5	TOS	ti cofio fo ar *Click*	---	NST
+
+
+166, 1	743, 1-2	HAR	*Click_Online* *yeah*	ST	NST
+166, 2	745, 1-5	HAR	a wedyn dach chi gallu	NSNT	NSNT
+166, 3	746, 1-1	HAR	mae	NSNT	NSNT
+166, 4	746, 2-4	HAR	gennoch chi yr	NSNT	NSNT
+166, 5	747, 1-14	HAR	fel os os ti isio un tri tri *um* lle de i yr separate	ST	ST
+166, 6	748, 1-3	HAR	oedd yna un	NSNT	NSNT
+166, 7	749, 1-8	HAR	be oedd y stafell yna efo ryw deg	---	NSNT
+
+
+167, 1	750, 1-5	TOS	ia oedd loads o drws	NSNT	SNT
+167, 2	751, 1-2	TOS	deg *yeah*	---	NST
+
+
+168, 1	752, 1-8	HAR	a dach chi yn defnyddio yr remote unigol	NSNT	SNT
+168, 2	753, 1-7	HAR	meddwl hynna remote unigol ar_gyfer pob un	NSNT	SNT
+168, 3	754, 1-8	HAR	*o_k* pa un sy yn mynd efo hwn	NST	NST
+168, 4	756, 1-4	HAR	neu hwnna *oh* damia	NST	NST
+168, 5	757, 1-4	HAR	basech chi mynd confused	---	SNT
+
+
+169, 1	758, 1-9	TOS	basa chdi gorod wneud *cabinet* *special* ar_gyfer holl remotes	ST	ST
+169, 3	760, 1-5	TOS	basai fo costio *bomb* though	ST	ST
+169, 4	760, 6-6	TOS	basai	---	NSNT
+
+
+170, 1	761, 1-1	HAR	bysai	NSNT	NSNT
+170, 2	762, 1-9	HAR	ond deud *just* ar_gyfer yr servers faint oedd o	NST	ST
+170, 3	763, 1-8	HAR	ryw bum mil *just* ar_gyfer y servers falle	NST	ST
+170, 4	765, 1-2	HAR	basai *nice*	NST	NST
+170, 5	765, 3-8	HAR	bysai cael *projector* erbyn y wal	---	NST
+
+
+171, 1	766, 1-2	TOS	basai hynna	NSNT	NSNT
+171, 2	766, 3-8	TOS	basai hynna yn eitha *cool* actually	ST	ST
+171, 3	767, 1-7	TOS	dw isio cael teledu am bedroom fi	NSNT	SNT
+171, 4	769, 1-3	TOS	achos fath â	NSNT	NSNT
+171, 5	770, 1-8	TOS	neu laptop baswn i ddim yn meindio gael	SNT	SNT
+171, 6	771, 1-13	TOS	really cheap dw i gwybod wedi gallu gael un am pedwar can punt	NSNT	SNT
+171, 7	772, 1-10	TOS	dw isio *just* wneud gael gwaith a *stuff* arno fo	NST	NST
+171, 8	774, 1-12	TOS	a dydy *projectors* ddim yn mor ddrud â hynny dyddiau yma chwaith	---	NST
+
+
+172, 1	775, 1-8	HAR	chi yn edrych yn eitha *cool* hefyd dydych	NST	NST
+172, 2	776, 1-9	HAR	chi fath â mynd i yr ysgol neu rywbeth	---	NSNT
+
+
+173, 1	778, 1-5	TOS	wneud bach o waith wan	NSNT	NSNT
+173, 3	780, 1-8	TOS	*yeah* joio computers gweithio efo computers yn fawr	NST	ST
+173, 4	782, 1-6	TOS	er mae yna gymaint o waith	NSNT	NSNT
+173, 5	783, 1-11	TOS	achos dw i wedi iwsio de wneud I_T yn bwnc *extra*	NST	ST
+173, 6	784, 1-10	TOS	a mae yna loads o waith catch_o fyny i wneud	NSNT	SNT
+173, 7	785, 1-6	TOS	mae yr *deadline* syth ar_ôl pasg	NST	NST
+173, 8	786, 1-3	TOS	o'n i meddwl	NSNT	NSNT
+173, 9	787, 1-2	TOS	*oh* fydd	NST	NST
+173, 10	787, 3-11	TOS	genna i ddigon o amser dros Pasg i wneud	NSNT	NSNT
+173, 11	789, 1-3	TOS	digon ar I_T	SNT	SNT
+173, 12	790, 1-11	TOS	ond wedyn gweld bod yna gymaint o waith ar_gyfer bob peth	NSNT	NSNT
+173, 13	791, 1-8	TOS	mae yr hen bapurau hen gwestiynau i wneud	---	NSNT
+
+
+174, 1	792, 1-8	HAR	falle bod yr athro wedi gweld hynna drosto	NSNT	NSNT
+174, 2	792, 9-11	HAR	ei hun hefyd	NSNT	NSNT
+174, 3	792, 12-12	HAR	dydy	NSNT	NSNT
+174, 4	793, 1-3	HAR	falle bod yr	NSNT	NSNT
+174, 5	794, 1-13	HAR	dyna falle yr un rheswm bod o wedi stopio ni rag wneud o	---	NSNT
+
+
+175, 1	795, 1-4	TOS	*yeah* dim amynedd ella	NST	NST
+175, 3	797, 1-5	TOS	a wedyn mae yr *X_P*	NST	NST
+175, 4	797, 6-17	TOS	dan ni wedi cael yn computer yn *right* dda yn_dydy yn ddiweddar	NST	ST
+175, 5	799, 1-2	TOS	ar_ôl ni	NSNT	NSNT
+175, 6	800, 1-7	TOS	i thick o blaen pan wnaeth hi	NSNT	SNT
+175, 7	800, 8-9	TOS	roid o	NSNT	NSNT
+175, 8	801, 1-10	TOS	*thing* methu ffeindio ella bod y *printers* ddim yn gweithio	---	NST
+
+
+176, 1	802, 1-5	HAR	ychydig bach o frains de	---	SNT
+
+
+177, 1	805, 1-11	TOS	rhywbeth oedd gen i ddim ohono fo ryw ychydig flynyddoedd yn_ôl	NSNT	NSNT
+177, 2	806, 1-3	TOS	mae hwnna *right*	NST	NST
+177, 3	807, 1-5	TOS	dw i yn enjoio iwsio	---	NSNT
+
+
+178, 1	808, 1-10	HAR	a dan ni cael yr yr *um* *Office* newydd hefyd	---	NST
+
+
+179, 1	809, 2-5	TOS	mae hwnnw yn *cool*	---	NST
+
+
+180, 1	810, 1-2	HAR	*yeah* eitha	---	NST
+
+
+181, 1	811, 1-11	TOS	dw i licio hwnna though fath â *picture* message a *stuff*	---	ST
+
+
+182, 1	812, 1-3	HAR	eitha *nice* hwnna	---	NST
+
+
+183, 1	813, 1-6	TOS	mae really *smart* yr *um* *Windows_Movie_Maker*	NST	ST
+183, 2	814, 1-5	TOS	dw i licio iwsio hwnna	---	NSNT
+
+
+184, 1	815, 1-7	HAR	mae yr *Photo_Editor* hefyd yn eitha *cool*	NST	NST
+184, 2	815, 8-8	HAR	dydy	---	NSNT
+
+
+185, 1	816, 2-7	TOS	mae really dda i fath â	NSNT	SNT
+185, 2	817, 1-6	TOS	wnes i wneud fath â llun	NSNT	NSNT
+185, 3	818, 1-12	TOS	wnes i dynnu llun o blaen *panoramic* o Eryri allan o ffenest	NST	NST
+185, 4	818, 13-20	TOS	de a wedyn cropio fo lawr really gul	NSNT	SNT
+185, 5	819, 1-9	TOS	oedd e yn edrych yn hell o *smart* hwnna	---	ST
+
+
+186, 1	820, 1-1	HAR	dyna	NSNT	NSNT
+186, 2	820, 2-7	HAR	be sy yn dda efo *phone*	---	NST
+
+
+187, 1	822, 1-4	TOS	achos dw i *sure*	NST	NST
+187, 2	822, 5-9	TOS	baswn i deud wrth *mam*	NST	NST
+187, 3	823, 1-7	TOS	*oh* mae yna *M_P_three* player yn hwn	NST	ST
+187, 4	824, 1-2	TOS	mae yna	NSNT	NSNT
+187, 5	824, 3-5	TOS	mae yna *camera*	NST	NST
+187, 6	825, 1-3	TOS	fysai yn deud	NSNT	NSNT
+187, 7	826, 1-5	TOS	*oh* mae gen ti *gamera*	NST	NST
+187, 8	827, 1-6	TOS	*oh* mae gen ti *M_P_three* player	ST	ST
+187, 9	829, 1-2	TOS	peth ydy	NSNT	NSNT
+187, 10	829, 3-8	TOS	does yna ddim gymaint â hynna	NSNT	NSNT
+187, 11	829, 9-14	TOS	fedri di ddim really gael *phone*	NST	ST
+187, 12	829, 15-17	TOS	sy efo *just*	NST	NST
+187, 13	830, 1-2	TOS	hynny yw	NSNT	NSNT
+187, 14	830, 3-7	TOS	fedri di ddim cael *phone*	NST	NST
+187, 15	830, 8-10	TOS	sy yn ffasiynol	NSNT	NSNT
+187, 16	832, 1-8	TOS	sy heb *camera* ac *M_P_three* player arno fo	NST	ST
+187, 17	833, 1-11	TOS	mae bob un basically *right* ddrud efo *camera* arno fo yn_dydy	---	ST
+
+
+188, 1	834, 1-6	HAR	*well* yr un sy efo tad_cu	NST	NST
+188, 2	834, 8-12	HAR	dach chi yn gweld *ooh*	NST	NST
+188, 3	834, 13-20	HAR	mae yna *lot* o bethau da ar hon	---	NST
+
+
+189, 1	836, 1-11	TOS	*yeah* o'n i really isio yr *phone* yna gan tad_cu though	ST	ST
+189, 2	838, 1-4	TOS	o'n i fath â	NSNT	NSNT
+189, 3	839, 1-4	TOS	oedd o fath â	NSNT	NSNT
+189, 4	840, 1-7	TOS	*oh* gei di o os ti isio	NST	NST
+189, 5	841, 1-4	TOS	o'n i fath â	SNT	NSNT
+189, 6	842, 1-2	TOS	*yeah* *please*	ST	NST
+189, 7	843, 1-15	TOS	*yeah* a yr a yr laptop yna y *Ferrari* laptop mae hwnna yn amazing hwnna	---	ST
+
+
+190, 1	845, 1-5	HAR	technoleg yn symud ymlaen de	NSNT	NSNT
+190, 2	845, 6-12	HAR	dach chi fath â falle erbyn rŵan	NSNT	NSNT
+190, 3	845, 13-19	HAR	mae yr laptop fath â hen falle	NSNT	SNT
+190, 4	846, 1-5	HAR	dach chi ddim yn gwybod	---	NSNT
+
+
+191, 1	848, 1-15	TOS	ond o'n i surprised bod gyn tad_cu *wireless* broadband *round* y tŷ i_gyd a *stuff*	NST	ST
+191, 3	850, 1-5	TOS	o'n i fath â *phoo*	NST	NST
+191, 4	851, 1-13	TOS	a mae gynno fo *Sky_Plus* bob_dim fath â really with it efo technoleg	NST	ST
+191, 5	851, 14-14	TOS	dydy	---	NSNT
+
+
+192, 1	852, 1-7	HAR	dan ni *stuck* adre *just* efo ryw	NST	NST
+192, 2	853, 1-6	HAR	pethau mwya soffistigedig sy yna falle	NSNT	NSNT
+192, 3	853, 7-10	HAR	ydy yr teledu falle	---	NSNT
+
+
+193, 1	854, 1-6	TOS	*yeah* yr teledu yn really *cool*	---	ST
+
+
+194, 1	855, 1-13	HAR	ia ond *pity* bod ni ddim efo *Sky* na dim_byd arno fo de	---	NST
+
+
+195, 1	856, 1-13	TOS	*yeah* ond diwedd y dydd *Sky* dydy o ddim mor dda â hynna	NST	NST
+195, 2	856, 14-15	TOS	nag ydy	---	NSNT
+
+
+196, 1	857, 1-6	HAR	na faint dach chi gorod talu	NSNT	NSNT
+196, 2	858, 1-6	HAR	wyth bunt neu rywbeth y mis	---	NSNT
+
+
+197, 1	859, 1-5	TOS	na mae fwy na hynna	NSNT	NSNT
+197, 2	860, 1-4	TOS	mae tua fifteen quid	SNT	SNT
+197, 3	862, 1-6	TOS	a wedyn mae yna loads o	NSNT	SNT
+197, 4	862, 7-10	TOS	sianeli ti ddim isio	NSNT	NSNT
+197, 5	863, 1-3	TOS	mae nhw yn	NSNT	NSNT
+197, 6	863, 4-16	TOS	mae nhw yn fath â useless channels fath â day_time_T_V *crap* fel yna	---	ST
+
+
+198, 1	865, 1-11	HAR	falle bod yr wyth bunt yna con *Sky* *sure* o fod	NST	ST
+198, 2	865, 12-13	HAR	ydy o	NSNT	NSNT
+198, 3	867, 1-7	HAR	sut mae dy ffrindiau di gweld o	NSNT	NSNT
+198, 4	868, 1-13	HAR	mae *lot* o ffrindiau i yn sôn pethau fath â *Soccer_A_M* a pethau	NST	NST
+198, 5	869, 1-5	HAR	deud bod hwnna yn dda	---	NSNT
+
+
+199, 1	870, 1-8	TOS	*yeah* bob tro yn sôn am *Soccer_A_M* actually	ST	ST
+199, 2	871, 1-8	TOS	does yna ddim sôn am unrhyw sianel arall	NSNT	NSNT
+199, 4	873, 1-4	TOS	mond rei fath â	NSNT	NSNT
+199, 5	874, 1-7	TOS	diwedd y dydd mae yr sianeli gorau	NSNT	NSNT
+199, 6	874, 8-11	TOS	ydy *B_B_C* a *stuff*	NST	NST
+199, 7	876, 1-2	TOS	ond dal	NSNT	NSNT
+199, 8	876, 3-9	TOS	mae yna rhei pethau *rubbish* yn hwnna	---	NST
+
+
+200, 1	877, 1-9	HAR	fath â *Simpsons* *Sky_One* dach chi really angen hynna	---	ST
+
+
+201, 1	878, 1-12	TOS	na dydy *Simpsons* ddim mor funny â hynna dim mwy beth bynnag	---	ST
+
+
+202, 1	880, 1-9	HAR	repetio trwy yr adeg ar *um* *Channel_four* pethau de	---	NST
+
+
+203, 1	881, 1-5	TOS	*yeah* be sy yn annoying	ST	ST
+203, 2	881, 6-11	TOS	ydy commercial *breaks* yn ganol things	ST	ST
+203, 3	882, 1-8	TOS	pob tro fath â rywbeth interesting yn digwydd	NSNT	SNT
+203, 4	882, 9-14	TOS	mae yna commercial *break* mwya *sudden*	NST	ST
+203, 5	884, 1-9	TOS	wedyn mae rheiny yn bara fath â hanner awr	NSNT	NSNT
+203, 6	885, 1-3	TOS	braidd yn *silly*	---	NST
+
+
+204, 1	887, 1-9	HAR	mae nhw stopio nhw rywbeth am amseroedd really annoying	SNT	SNT
+204, 2	888, 1-12	HAR	dach chi *just* isio wneud iddo fo orffen mor gynt â phosib	NST	NST
+204, 3	889, 1-3	HAR	oedd o arfer	NSNT	NSNT
+204, 4	889, 4-11	HAR	bod *just* chwech tan ugain munud wedi chwech	NST	NST
+204, 5	890, 1-9	HAR	wedi stretsio fo gymaint o *break* yn y canol	---	NST
+
+
+205, 1	892, 1-2	TOS	dw gwybod	NSNT	NSNT
+205, 2	893, 1-3	TOS	mae o *yeah*	NST	NST
+205, 3	893, 4-6	TOS	wnaeth o stopio	NSNT	NSNT
+205, 4	893, 7-9	TOS	bod ar *B_B_C_two*	---	NST
+
+
+206, 1	896, 1-8	HAR	dach chi yn gallu cael o ar D_V_Ds	SNT	SNT
+206, 2	896, 9-9	HAR	dach	---	NSNT
+
+
+207, 1	897, 1-3	TOS	*yeah* basai dda	NST	NST
+207, 2	897, 4-10	TOS	petaswn i yn cael mwy o D_V_Ds	SNT	SNT
+207, 3	899, 1-1	TOS	adre	---	NSNT
+
+
+208, 1	900, 1-8	HAR	dach chi ddim really angen yr *Simpsons* *D_V_D*	NST	ST
+208, 2	901, 1-2	HAR	mae *sure*	NST	NST
+208, 3	901, 3-9	HAR	bod nhw mynd i cael eu repetio	NSNT	NSNT
+208, 4	903, 1-13	HAR	ryw dair gwaith ar_ôl o gael ei *um* *um* ar_ôl dod allan de	---	NST
+
+
+209, 1	904, 1-7	TOS	ti be o'n i methu coelio deudodd	NSNT	NSNT
+209, 2	904, 8-21	TOS	ddeudodd un o ffrindiau i yn yr ysgol bod o efo two hundred and	SNT	SNT
+209, 3	904, 22-26	TOS	bod o wedi cael Dolig	---	NSNT
+
+
+210, 1	905, 1-10	HAR	ychydig bach yn far_fetched ella two hundred and five dydy	---	SNT
+
+
+211, 1	907, 1-12	TOS	*oh* mae hwnnw yn *stuck* efo ei computer *games* trwy yr adeg	NST	ST
+211, 2	909, 1-1	TOS	meddwl	NSNT	NSNT
+211, 3	909, 2-5	TOS	bod chdi yn gwybod	NSNT	NSNT
+211, 4	909, 6-12	TOS	pwy dw i yn sôn amdano ella	NSNT	NSNT

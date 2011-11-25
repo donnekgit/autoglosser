@@ -1,0 +1,1946 @@
+1, 1	1, 1-4	SND	dw i yn *sure*	NST	NST
+1, 2	1, 5-11	SND	os oedden nhw wedi deud wrtha fi	SNT	NSNT
+1, 3	2, 1-9	SND	because oedd fi ddim yn gwybod be i wneud	---	SNT
+
+
+2, 1	4, 1-3	RHO	*well* na ond	NST	NST
+2, 2	5, 1-2	RHO	*well* heb	NST	NST
+2, 3	6, 1-8	RHO	heb gael i_fewn i *row* efo chdi de	NST	NST
+2, 4	6, 9-11	RHO	mae raid chdi	NSNT	NSNT
+2, 6	6, 33-40	RHO	bod nhw mynd i wneud o i chdi	NSNT	NSNT
+2, 7	6, 41-41	RHO	does	---	NSNT
+
+
+3, 1	7, 1-13	SND	*yeah* mae yn iawn os ti yn gwybod be ti yn tsiecio am	---	NST
+
+
+4, 1	8, 1-8	RHO	o't ti yn gwybod bod isio llenwi ffurflen	NSNT	NSNT
+4, 2	10, 1-2	RHO	nag wyt	NSNT	NSNT
+4, 3	12, 1-2	RHO	dw meddwl	NSNT	NSNT
+4, 4	12, 3-9	RHO	fydd raid ni adael hynna fan yno	NSNT	NSNT
+4, 5	13, 1-3	RHO	dyna fo *row*	---	NST
+
+
+5, 1	14, 1-4	SND	ond toeddwn i ddim	---	NSNT
+
+
+6, 1	15, 1-8	RHO	na na dw i gwybod be ti feddwl	NSNT	NSNT
+6, 2	16, 1-3	RHO	gawn ni *row*	---	NST
+
+
+7, 1	17, 1-7	SND	*well* petasai rywun wedi deud wrtha fi	NST	NST
+7, 2	17, 8-11	SND	baswn i wedi cofio	NSNT	NSNT
+7, 3	17, 12-16	SND	a baswn i wedi wneud	---	NSNT
+
+
+8, 1	20, 1-1	RHO	byset	NSNT	NSNT
+8, 2	21, 1-5	RHO	dw ddim yn amau hynny	SNT	NSNT
+8, 3	22, 1-7	RHO	anyway wnawn ni newid y subject *yeah*	ST	ST
+8, 4	24, 1-9	RHO	sut aeth y *concert* heddiw yma neu yr *practice*	---	NST
+
+
+9, 1	25, 1-1	SND	ymarfer	---	NSNT
+
+
+10, 1	26, 1-1	RHO	ymarfer	---	NSNT
+
+
+11, 1	27, 1-8	SND	mae yn atgoffa fi yr *mike* yma actually	ST	ST
+11, 2	29, 1-10	SND	achos mae pawb yn gwaith yn galw fi yn *Madonna*	NST	NST
+11, 3	30, 1-8	SND	dw i yn gwisgo yr head *mike* yma	---	ST
+
+
+12, 1	31, 1-3	RHO	prima_donna ta *Madonna*	---	ST
+
+
+13, 1	32, 1-1	SND	*Madonna*	ST	NST
+13, 2	34, 1-2	SND	neu *Britney*	---	NST
+
+
+14, 1	35, 1-1	RHO	*Britney*	ST	NST
+14, 2	37, 1-3	RHO	baswn i meddwl	NSNT	NSNT
+14, 3	37, 4-13	RHO	bod cael dy alw yn *Britney* yn insulting dyddiau yma	---	ST
+
+
+15, 1	38, 1-4	SND	*well* dyddiau yma yndy	---	NST
+
+
+16, 1	41, 1-8	RHO	lle lle oeddech chi yn practisio heddiw yma	NSNT	NSNT
+16, 2	41, 9-9	RHO	ta	NSNT	NSNT
+16, 3	42, 1-2	RHO	yn ysgol	---	NSNT
+
+
+17, 1	43, 1-3	SND	yn capel *Capel_Mynydd_Seion*	---	NST
+
+
+18, 1	44, 1-4	RHO	*oh* hwn oedd yr	NST	NST
+18, 2	45, 1-7	RHO	toedd ddim yn dress *rehearsal* nag oedd	NST	ST
+18, 3	47, 1-3	RHO	yn y capel	SNT	NSNT
+18, 4	49, 1-1	RHO	*wow*	ST	NST
+18, 5	50, 1-3	RHO	sut aeth o	---	NSNT
+
+
+19, 1	52, 1-3	SND	*room* for improvement	---	NST
+
+
+20, 1	55, 1-4	RHO	ti ddim isio fo	---	NSNT
+
+
+21, 1	56, 1-2	SND	dydd Llun	NSNT	NSNT
+21, 2	57, 1-9	SND	ti ddim isio fo fod rhy dda nag oes	NSNT	NSNT
+21, 3	58, 1-10	SND	dydd Llun dress *rehearsal* go iawn efo yr ysgol i_gyd	NST	ST
+21, 4	61, 1-4	SND	tri chant a hanner	---	NSNT
+
+
+22, 1	62, 1-1	RHO	ydyn	---	NSNT
+
+
+23, 1	63, 1-1	SND	cerdded	NSNT	NSNT
+23, 2	64, 1-13	SND	gaethon ni *police* heddi i helpu ni dros dros y ffordd a pethau	NST	NST
+23, 3	66, 1-10	SND	wnaethon ni mynd â dros y cant o blant heddi	---	NSNT
+
+
+24, 1	67, 1-1	RHO	be	NSNT	NSNT
+24, 2	68, 1-8	RHO	wnaeth yr Old_Bill actually troi fyny wneud hynna	---	SNT
+
+
+25, 1	69, 1-6	SND	dan ni yn wneud hynna bob	NSNT	NSNT
+25, 2	69, 7-7	SND	tro	NSNT	NSNT
+25, 3	70, 1-11	SND	dan ni methu croesi nhw dros y lle yna yn *Abergele*	---	NST
+
+
+26, 1	71, 1-6	RHO	na baset ti ddim yn medru	---	NSNT
+
+
+27, 1	72, 1-3	SND	brysur awful brysur	---	SNT
+
+
+28, 1	73, 1-1	RHO	be	NSNT	NSNT
+28, 2	74, 1-7	RHO	yr yr *traffic* lights yna yn ganol	---	ST
+
+
+29, 1	75, 1-3	SND	*well* nag ydy	NST	NST
+29, 2	76, 1-9	SND	mae yna *lot* o ffyrdd cyn y *traffic* lights	ST	ST
+29, 3	76, 10-10	SND	does	NSNT	NSNT
+29, 4	78, 1-7	SND	mae *Mynydd_Seion* yn bell o ysgol ni	---	NST
+
+
+30, 1	79, 1-11	RHO	pam na wnewch chi gael *bus* neu rywbeth i fynd yno	---	NST
+
+
+31, 1	80, 1-2	SND	faint o	NSNT	NSNT
+31, 3	82, 1-4	SND	dim yn meddwl *Rhodri*	NST	NST
+31, 4	84, 1-6	SND	basai hwnna gostio tua pump cant	NSNT	NSNT
+31, 5	85, 1-2	SND	*hey* mae	NST	NST
+31, 6	85, 3-6	SND	gynnon ni *crisis* hefyd	---	NST
+
+
+32, 1	86, 1-1	RHO	be	---	NSNT
+
+
+33, 1	87, 1-8	SND	yn y swyddfa maen nhw newydd sylweddoli heddi	NSNT	NSNT
+33, 2	88, 1-3	SND	es i fewn	SNT	NSNT
+33, 3	89, 1-5	SND	*Mrs_Hughes* we've got a *crisis*	ST	NST
+33, 4	90, 1-1	SND	be	NSNT	NSNT
+33, 5	91, 1-2	SND	meddai fi	SNT	NSNT
+33, 6	92, 1-6	SND	we have sold five hundred *tickets*	ST	NST
+33, 7	93, 1-2	SND	*oh* *dear*	ST	NST
+33, 8	95, 1-7	SND	mae yr capel yn dal chwe chant	NSNT	NSNT
+33, 9	97, 1-7	SND	mae tri chant a hanner o blant	---	NSNT
+
+
+34, 1	101, 1-2	RHO	*well* surely	---	NST
+
+
+35, 1	102, 1-6	SND	*oh* mae o *just* yn mad	---	ST
+
+
+36, 1	103, 1-12	RHO	os oes gen ti tri chant a hanner o kids fan yno	NSNT	SNT
+36, 2	103, 13-14	RHO	de deuda	NSNT	NSNT
+36, 3	103, 15-33	RHO	bod hanner nhw efo dau o riant yn medru dŵad ti dal mynd i fynd dros pump cant wedyn	NSNT	NSNT
+36, 4	103, 34-34	RHO	dwyt	---	NSNT
+
+
+37, 1	105, 1-7	SND	achos o_blaen dan ni ddim wedi cael	NSNT	NSNT
+37, 2	106, 1-5	SND	fi ddim yn gwybod pam	NSNT	NSNT
+37, 3	107, 1-15	SND	am ryw reswm mae *lot* a *lot* *lot* fawr bobl isio dod y flwyddyn yma	NST	NST
+37, 4	109, 1-10	SND	achos efo *lot* o ysgolion be maen nhw yn deud	NST	NST
+37, 5	109, 11-22	SND	ydy ti ddim yn cael prynu mwy na dau ticed per teulu	NSNT	SNT
+37, 6	113, 1-7	SND	ond dan ni ddim wedi deud hynna	NSNT	NSNT
+37, 7	114, 1-8	SND	mae rai bobl wedi prynu fath â wyth	NSNT	NSNT
+37, 8	115, 1-1	SND	deg	NSNT	NSNT
+37, 10	117, 1-7	SND	mae *Nana* o Liverpool yn dod a	ST	ST
+37, 11	118, 1-2	SND	*oh* no	---	NST
+
+
+38, 1	121, 1-2	RHO	*hmm* tricky	ST	NST
+38, 2	122, 1-3	RHO	be wnewch chi	NSNT	NSNT
+38, 3	122, 4-4	RHO	ta	---	NSNT
+
+
+39, 1	123, 1-5	SND	mi fydd e nos Fawrth	---	NSNT
+
+
+40, 1	124, 1-2	RHO	*yeah* bydd	---	NST
+
+
+41, 1	125, 1-10	SND	pan maen nhw gyd yn sefyll allan ar y stryd	---	NSNT
+
+
+42, 1	126, 1-6	RHO	fydd raid chi gael *mikes* allan	---	NST
+
+
+43, 1	127, 1-2	SND	*yeah* *screen*	---	NST
+
+
+44, 1	129, 1-2	RHO	big *screen*	---	NST
+
+
+45, 1	130, 1-4	SND	*party* in the *park*	---	NST
+
+
+46, 1	133, 1-2	RHO	*Abergele* *prom*	---	NST
+
+
+47, 1	135, 1-4	SND	does dim *Abergele* *prom*	---	NST
+
+
+48, 1	136, 1-4	RHO	na basai fo yn	---	NSNT
+
+
+49, 1	137, 1-4	SND	mae yna *Pensarn* *prom*	ST	NST
+49, 2	138, 1-5	SND	*oh* *prom* *as* in *music*	---	NST
+
+
+50, 1	139, 1-1	RHO	*ugh*	---	NST
+
+
+51, 1	140, 1-1	SND	*sorry*	---	NST
+
+
+52, 1	141, 1-1	RHO	*prom*	ST	NST
+52, 3	143, 1-8	RHO	na dydy *Abergele* ddim wrth y môr nac	NST	NST
+52, 4	143, 9-10	RHO	ydy *Sioned*	---	NST
+
+
+53, 1	144, 1-2	SND	*Pensarn* yn	---	NST
+
+
+54, 1	145, 1-10	RHO	*job* bildio *prom* os ti ddim wrth y môr dydy	NST	NST
+54, 2	147, 1-8	RHO	*so* os fydd o yn sortio allan mi	NST	NST
+54, 3	147, 9-13	RHO	fydd yn llwyddiant ysgubol felly	---	NSNT
+
+
+55, 1	149, 1-5	SND	*well* mae yn dibynnu yn_dydy	---	NST
+
+
+56, 1	150, 1-8	RHO	faint maen nhw yn dalu am y *tickets*	---	NST
+
+
+57, 1	151, 1-2	SND	dim llawer	---	NSNT
+
+
+58, 1	152, 1-1	RHO	punt	---	NSNT
+
+
+59, 1	154, 1-3	SND	fwy na hynna	---	NSNT
+
+
+60, 1	155, 1-2	RHO	two quid	---	NSNT
+
+
+61, 1	157, 1-2	SND	am oedolion	NSNT	NSNT
+61, 2	158, 1-3	SND	punt am plant	---	NSNT
+
+
+62, 1	159, 1-4	RHO	punt am plant *oh*	NST	NST
+62, 2	160, 1-8	RHO	a be sy yn digwydd heblaw am y	NSNT	NSNT
+62, 3	161, 1-6	RHO	*just* un sioe ydy o *yeah*	---	NST
+
+
+63, 1	162, 1-2	SND	ti feddwl	NSNT	NSNT
+63, 2	163, 1-4	SND	heblaw am un sioe	NSNT	NSNT
+63, 3	164, 1-12	SND	yr un sioe fi wedi bod yn gweithio ar ers mis Hydref	---	NSNT
+
+
+64, 1	166, 1-11	RHO	*yeah* *yeah* *yeah* na na na dw i yn dallt hwnna	NST	NST
+64, 2	167, 1-6	RHO	ond y sioe ydy o *yeah*	NST	NST
+64, 3	168, 1-5	RHO	dydy o ddim fath â	NSNT	NSNT
+64, 4	169, 1-4	RHO	toes yna ddim pethau	---	NSNT
+
+
+65, 1	170, 1-2	SND	y sioe	SNT	NSNT
+65, 2	172, 1-1	SND	nativity	SNT	NSNT
+65, 3	174, 1-2	SND	ti gwybod	NSNT	NSNT
+65, 4	175, 1-3	SND	*Mair* *Joseph* babi	---	NST
+
+
+66, 1	177, 1-3	RHO	un un newydd	---	NSNT
+
+
+67, 1	178, 1-2	SND	bugeiliaid hynna	---	NSNT
+
+
+68, 1	179, 1-8	RHO	un newydd ta un hen ffasiwn ydy o	---	NSNT
+
+
+69, 1	180, 1-10	SND	wnes i ddeud wrthot ti am y plentyn yna yn_do	---	NSNT
+
+
+70, 1	181, 1-2	RHO	pa un	---	NSNT
+
+
+71, 1	182, 1-2	SND	blwyddyn tri	---	NSNT
+
+
+72, 1	183, 1-2	RHO	pa un	---	NSNT
+
+
+73, 1	184, 1-8	SND	wnes i ddim deud wrthot ti am hynna	---	NSNT
+
+
+74, 1	185, 1-1	RHO	be	---	NSNT
+
+
+75, 1	186, 1-6	SND	Dolig diwetha yn un o yr	NSNT	NSNT
+75, 2	187, 1-4	SND	ddim cofio dosbarth pwy	NSNT	NSNT
+75, 3	188, 1-1	SND	ella	NSNT	NSNT
+75, 4	190, 1-3	SND	ddim cofio anyway	SNT	SNT
+75, 5	191, 1-3	SND	does dim ots	NSNT	NSNT
+75, 6	192, 1-12	SND	oedden ni yn wneud gwaith *just* gwaith Dolig *just* cyn Dolig whatever	ST	ST
+75, 7	193, 1-5	SND	wnaeth bachgen bach yma deud	SNT	NSNT
+75, 8	194, 1-9	SND	*miss* do we have to read this *story* again	---	NST
+
+
+76, 1	197, 1-1	RHO	yes	---	NSNT
+
+
+77, 1	198, 1-2	SND	yes fyddi	---	SNT
+
+
+78, 1	199, 1-7	RHO	yr un ni yn darllen bob flwyddyn	NSNT	NSNT
+78, 2	202, 1-3	RHO	*yeah* da iawn	NST	NST
+78, 3	203, 1-6	RHO	pa mor hir ydy yr sioe	NSNT	NSNT
+78, 4	204, 1-1	RHO	awr	---	NSNT
+
+
+79, 1	205, 1-2	SND	ia awr	NSNT	NSNT
+79, 2	207, 1-3	SND	*just* dros awr	---	NST
+
+
+80, 1	208, 1-3	RHO	faint o ganeuon	---	NSNT
+
+
+81, 1	209, 1-1	SND	un_deg_pump	---	NSNT
+
+
+82, 1	210, 1-11	RHO	ti ddim wedi gwneud dim_byd mor ambitious â hyn o_blaen naddo	---	SNT
+
+
+83, 1	211, 1-5	SND	dim efo yr *thing* carolau	NST	NST
+83, 2	212, 1-4	SND	mae hwn *right* fawr	---	NST
+
+
+84, 1	214, 1-4	RHO	be ddoth drosta chdi	---	NSNT
+
+
+85, 1	215, 1-3	SND	dim yn gwybod	---	NSNT
+
+
+86, 1	216, 1-6	RHO	*mmm* baswn i ddim gwybod chwaith	ST	NST
+86, 2	218, 1-1	RHO	crazy	---	NSNT
+
+
+87, 1	219, 1-6	SND	maen nhw yn canu fo *nice*	---	NST
+
+
+88, 1	222, 1-6	RHO	fyddan nhw yn *o_k* ti meddwl	---	NST
+
+
+89, 1	223, 1-1	SND	gobeithio	NSNT	NSNT
+89, 2	225, 1-12	SND	ond eto heddi dan ni wedi gofyn iddyn nhw faint o plant	NSNT	NSNT
+89, 3	225, 13-15	SND	sy yn dod	NSNT	NSNT
+89, 4	226, 1-10	SND	dyma fel maen nhw yn matsio yr *business* *tickets* yma	NST	NST
+89, 5	227, 1-8	SND	ond mae yna llwyth o blant yn deud	NSNT	NSNT
+89, 6	227, 9-13	SND	bod nhw ddim yn dod	NSNT	NSNT
+89, 7	228, 1-8	SND	fath â mae raid mai yr teuluoedd ffyddlon	NSNT	NSNT
+89, 8	228, 9-15	SND	sy wedi prynu deg ticed yr un	NSNT	NSNT
+89, 9	230, 1-12	SND	ond eto mae yna llwyth o blant ddim yn boddro dod o_gwbl	---	NSNT
+
+
+90, 1	231, 1-7	RHO	ond plant yn mynd i bod yn	NSNT	NSNT
+90, 2	232, 1-6	RHO	faint o kids yn perfformio felly	---	SNT
+
+
+91, 1	233, 1-3	SND	*well* *yeah* mae	NST	NST
+91, 2	233, 4-6	SND	gynnon ni tua	NSNT	NSNT
+91, 3	234, 1-9	SND	ar y mwya cant a tri_deg actually wneud rywbeth	NSNT	SNT
+91, 5	237, 1-5	SND	sy yn *lot* mewn ysgol	---	NST
+
+
+92, 1	238, 1-2	RHO	argian ydy	---	NSNT
+
+
+93, 1	239, 1-2	SND	ond mae	NSNT	NSNT
+93, 2	239, 3-8	SND	gynnon ni tri chant a hanner	NSNT	NSNT
+93, 3	239, 9-9	SND	does	---	NSNT
+
+
+94, 1	240, 1-3	RHO	o o blant	NSNT	NSNT
+94, 2	241, 1-10	RHO	*well* ti ddim disgwyl *rest* o nhw ddod nag wyt	---	NST
+
+
+95, 1	242, 1-1	SND	yndw	NSNT	NSNT
+95, 2	243, 1-8	SND	fi wedi dysgu yr caneuon iddyn nhw gyd	NSNT	NSNT
+95, 3	244, 1-3	SND	dyna be fi	NSNT	NSNT
+95, 4	244, 4-12	SND	wedi bod yn wneud am yr wythnosau dwytha yma	---	NSNT
+
+
+96, 1	245, 1-10	RHO	*so* be maen nhw all fod i wneud pan *um*	NST	ST
+96, 2	245, 11-15	RHO	pan maen nhw yna felly	---	NSNT
+
+
+97, 1	246, 1-1	SND	canu	---	NSNT
+
+
+98, 1	248, 1-3	RHO	hefo yr *rest*	---	NST
+
+
+99, 1	249, 1-1	SND	mae	NSNT	NSNT
+99, 2	249, 2-8	SND	gynnon nhw bymtheg o ganeuon i ganu	NSNT	NSNT
+99, 3	250, 1-8	SND	yr ysgol i_gyd wi yn dysgu nhw i	---	NSNT
+
+
+100, 1	251, 1-8	RHO	dydy yr ysgol i_gyd ddim yn perfformio nac	---	NSNT
+
+
+101, 1	253, 1-6	SND	mae yr ysgol i_gyd yn canu	---	NSNT
+
+
+102, 1	254, 1-1	RHO	*so*	ST	NST
+102, 2	255, 1-6	RHO	pob un kid yn yr ysgol	---	SNT
+
+
+103, 1	257, 1-2	SND	dyna pam	NSNT	NSNT
+103, 2	258, 1-9	SND	ti cofio pan wnaethon ni wneud y c_d yna	NSNT	SNT
+103, 3	260, 1-3	SND	wnaeth y *boy*	NST	NST
+103, 4	260, 4-9	SND	wnaeth ddod i yr ysgol meddwl	NSNT	NSNT
+103, 5	260, 10-22	SND	bod ni yn amazing achos bod ni yn actually cynnwys pob un plentyn	NSNT	SNT
+103, 6	262, 1-3	SND	oedd yn deud	NSNT	NSNT
+103, 7	262, 4-12	SND	bod o erioed wedi dod ar_draws ysgol fel yna	---	NSNT
+
+
+104, 1	263, 1-14	RHO	*oh* *so* mae rei o yr performers felly ddim ddim mynd i droi fyny	NST	ST
+104, 2	264, 1-6	RHO	dyna ti yn ddeud wrtha fi	---	NSNT
+
+
+105, 1	265, 1-6	SND	*oh* llwyth o nhw tua fifty	---	ST
+
+
+106, 1	268, 1-3	RHO	mae hynna wael	NSNT	NSNT
+106, 2	268, 4-4	RHO	dydy	---	NSNT
+
+
+107, 1	271, 1-8	SND	yn lle fel yna dw i yn gweithio	NSNT	NSNT
+107, 2	273, 1-1	SND	mae	NSNT	NSNT
+107, 3	273, 2-4	SND	genna i ofn	---	NSNT
+
+
+108, 1	274, 1-2	RHO	mae *sure*	NST	NST
+108, 2	275, 1-7	RHO	*well* baset ti yn meddwl os nhw	NST	NST
+108, 3	275, 8-13	RHO	wedi bod yn practisio ers wsnosau	---	NSNT
+
+
+109, 1	276, 1-6	SND	*yeah* ond ddim bai y plant	NST	NST
+109, 2	276, 7-9	SND	yw e naci	---	NSNT
+
+
+110, 1	277, 1-5	RHO	na mae yn *sure* na	NST	NST
+110, 2	278, 1-6	RHO	*Mam* a *Dad* yn ry brysur	NST	NST
+110, 3	282, 1-2	RHO	yn gwaith	---	NSNT
+
+
+111, 1	283, 1-4	SND	mynd i yr *bub*	---	NST
+
+
+112, 1	284, 1-6	RHO	*yeah* timod fi yn deud wrth	---	NST
+
+
+113, 1	285, 1-7	SND	rhy brysur yn mynd i chwarae *darts*	---	NST
+
+
+114, 1	287, 1-12	RHO	*yeah* a *party* ella bod *party* Doligs nhw on neu rywbeth felly	NST	ST
+114, 2	287, 13-17	RHO	a bod nhw methu dŵad	---	NSNT
+
+
+115, 1	288, 1-5	SND	gweithio *shift* ydy yr excuse	ST	ST
+115, 2	290, 1-4	SND	ran fwya ohonyn nhw	---	NSNT
+
+
+116, 1	291, 1-3	RHO	*well* mae *sure*	NST	NST
+116, 2	291, 4-9	RHO	bod yna dipyn yn gweithio *shifts*	NST	NST
+116, 3	291, 10-10	RHO	wsti	---	NSNT
+
+
+117, 1	292, 1-13	SND	*yeah* ond maen nhw wedi gwybod am y cyngerdd yma ers mis Medi	---	NST
+
+
+118, 1	293, 1-9	RHO	*yeah* ond tydy ddim yn hawdd swopio *shift* o_hyd	NST	NST
+118, 2	293, 10-11	RHO	nag ydy	---	NSNT
+
+
+119, 1	294, 1-5	SND	*yeah* ond baset ti meddwl	NST	NST
+119, 2	294, 6-13	SND	basen nhw gallu gofyn i rywun arall wneud	---	NSNT
+
+
+120, 1	295, 1-7	RHO	*well* os oedd plentyn chdi neu fi	NST	NST
+120, 2	295, 8-10	RHO	fasen ni yn	NSNT	NSNT
+120, 3	295, 11-11	RHO	basen	NSNT	NSNT
+120, 4	296, 1-4	RHO	ond there we go	SNT	SNT
+120, 5	297, 1-7	RHO	dydy pawb ddim fath â ni nac	NSNT	NSNT
+120, 6	297, 8-8	RHO	ydyn	NSNT	NSNT
+120, 8	299, 1-2	RHO	nac ydyn	---	NSNT
+
+
+121, 1	300, 1-2	SND	nag ydyn	---	NSNT
+
+
+122, 1	301, 1-10	RHO	*ah* ges i *phone* call diddorol bore yma yn gwaith	NST	ST
+122, 2	303, 1-5	RHO	dw i hefo *boy* yma	NST	NST
+122, 3	303, 6-13	RHO	sy wedi cael ei wahardd rhag cadw anifeiliaid	---	NSNT
+
+
+123, 1	305, 1-4	SND	be mae wedi wneud	---	NSNT
+
+
+124, 1	306, 1-6	RHO	*oh* dydy o ddim wedi wneud	NST	NST
+124, 2	307, 1-2	RHO	mae wedi	NSNT	NSNT
+124, 3	307, 3-9	RHO	roid i_fewn appeal yn_erbyn yr banning *order*	ST	ST
+124, 4	308, 1-2	RHO	wnaeth y	---	NSNT
+
+
+125, 1	309, 1-1	SND	pam	---	NSNT
+
+
+126, 1	310, 1-10	RHO	*oh* on the *grounds* of diminished responsibility due to madness	ST	NST
+126, 2	311, 1-5	RHO	dw ddim yn gwybod pam	---	NSNT
+
+
+127, 1	312, 1-6	SND	*so* be ydy yr *point* o	NST	NST
+127, 2	312, 7-10	SND	roid appeal yn_erbyn o	---	SNT
+
+
+128, 1	313, 1-5	RHO	*well* gei di appeal_io i	NST	ST
+128, 2	314, 1-9	RHO	mae o yn appeal_io i Crown Courts ti weld	SNT	SNT
+128, 3	315, 1-1	RHO	*so*	---	NST
+
+
+129, 1	316, 1-3	SND	be mae isie	NSNT	NSNT
+129, 2	316, 4-10	SND	mae o isie edrych ar_ôl anifeiliaid dal	---	NSNT
+
+
+130, 1	317, 1-5	RHO	*well* mae o yn meddwl	NST	NST
+130, 2	317, 6-14	RHO	bod o yn medru edrych ar eu holau nhw	NSNT	NSNT
+130, 3	317, 15-15	RHO	twel	NSNT	NSNT
+130, 4	318, 1-7	RHO	*so* mae o dal isio cadw nhw	---	NST
+
+
+131, 1	319, 1-2	SND	oes rywbeth	NSNT	NSNT
+131, 2	319, 3-6	SND	yn bod arno fo	---	NSNT
+
+
+132, 1	320, 1-2	RHO	dydy o	NSNT	NSNT
+132, 2	321, 1-2	RHO	*well* oes	ST	NST
+132, 4	324, 1-1	RHO	he's	NSNT	NSNT
+132, 5	324, 2-7	RHO	what you'd call technically a nutter	SNT	NSNT
+132, 7	326, 1-10	RHO	dydy hynna ddim yn professional *diagnosis* na ddim_byd *just* tibod	ST	ST
+132, 9	328, 1-4	RHO	layman's *opinion* ydy hynny	NST	ST
+132, 10	330, 1-18	RHO	*so* mae o yn mynd i *um* apelio ar *gost* y wlad all paid for gan legal aid	ST	ST
+132, 11	331, 1-2	RHO	*handy* iawn	NST	NST
+132, 12	332, 1-9	RHO	a fydd raid ni fynd i yr Crown Court	SNT	SNT
+132, 13	333, 1-16	RHO	a fydd raid ni dalu gael barrister yna a *blah* *dee* *blah* *dee* *blah* *dee* *blah*	NST	ST
+132, 14	335, 1-5	RHO	a wneith y judge ddeud	SNT	SNT
+132, 15	336, 1-3	RHO	you *silly* man	NST	NST
+132, 17	338, 1-6	RHO	*well* in legal terms wneith ddeud	ST	ST
+132, 18	339, 1-3	RHO	you *silly* man	NST	NST
+132, 19	340, 1-7	RHO	*course* I'm not gonna overturn this *order*	NST	NST
+132, 20	341, 1-13	RHO	in *fact* I'm going to impose a week for you to do *so*	NST	NST
+132, 21	342, 1-10	RHO	and unless *so* you'll be going on your *holidays* again	---	NST
+
+
+133, 1	343, 1-4	SND	be ti feddwl again	---	SNT
+
+
+134, 1	344, 2-8	RHO	oedd raid iddo fynd ar ei *holidays*	NST	NST
+134, 2	344, 9-20	RHO	pan oedden ni yn trio gael o i yr llys lle gynta	NSNT	NSNT
+134, 3	345, 1-1	RHO	dyna	NSNT	NSNT
+134, 4	345, 2-9	RHO	sut gaethon ni o i yr llys yn	NSNT	NSNT
+134, 5	346, 1-7	RHO	aeth o i *Walton* neu lle bynnag	NST	NST
+134, 6	346, 8-13	RHO	maen nhw mynd remanded in custody	---	SNT
+
+
+135, 1	347, 1-2	SND	am faint	---	NSNT
+
+
+136, 1	348, 1-2	RHO	am weekend	---	SNT
+
+
+137, 1	349, 1-1	SND	weekend	---	NSNT
+
+
+138, 1	350, 1-9	RHO	os ti yn gweld os wnes ti gweld golwg	SNT	NSNT
+138, 3	352, 1-4	RHO	*honest* to God wan	NST	ST
+138, 4	353, 1-2	RHO	oedd golwg	---	NSNT
+
+
+139, 1	354, 1-5	SND	be ydy oed y *boy*	---	NST
+
+
+140, 1	355, 1-4	RHO	*oh* mae yn hen	NST	NST
+140, 2	355, 5-5	RHO	sti	NSNT	NSNT
+140, 3	356, 1-3	RHO	mae yn creadur	NSNT	NSNT
+140, 4	357, 1-2	RHO	mae *um*	ST	NST
+140, 5	358, 1-5	RHO	nineteen_forty_two gaeth o ei eni	NSNT	SNT
+140, 6	359, 1-5	RHO	dw i yn cofio hynna	---	NSNT
+
+
+141, 1	360, 1-5	SND	hwnna ddim yn hen iawn	---	NSNT
+
+
+142, 1	361, 1-5	RHO	*well* petaset ti gweld o	NST	NST
+142, 2	361, 6-8	RHO	baset ti meddwl	NSNT	NSNT
+142, 3	361, 9-14	RHO	bod o nineteen twenty_two neu oh_two	---	SNT
+
+
+143, 1	362, 1-1	SND	oh_two	SNT	NSNT
+143, 2	363, 1-3	SND	*mmm* *dear* *me*	---	NST
+
+
+144, 1	364, 1-3	RHO	na oedd o	---	NSNT
+
+
+145, 1	365, 1-8	SND	oes gynno fo ddim teulu na ffrindiau na	---	NSNT
+
+
+146, 1	366, 1-2	RHO	na mae	NSNT	NSNT
+146, 2	366, 3-3	RHO	wsti	NSNT	NSNT
+146, 3	366, 4-10	RHO	mae o yn un o bobl yma	NSNT	NSNT
+146, 4	366, 11-15	RHO	sy really angen *help* ond	---	ST
+
+
+147, 1	367, 1-8	SND	*well* pam bod e ddim yn cael *help*	NST	NST
+147, 2	367, 9-9	SND	ta	---	NSNT
+
+
+148, 1	368, 1-4	RHO	*well* mae o ben	NST	NST
+148, 2	368, 5-6	RHO	ei hun	NSNT	NSNT
+148, 3	368, 7-7	RHO	dydy	NSNT	NSNT
+148, 4	369, 1-3	RHO	os nag wyt	NSNT	NSNT
+148, 5	369, 4-5	RHO	timod os	NSNT	NSNT
+148, 6	369, 6-16	RHO	nag oes yna deulu i chdi yn cysylltu efo social services	SNT	SNT
+148, 7	369, 17-22	RHO	neu timod rywbeth felly yn digwydd	NSNT	NSNT
+148, 9	369, 45-46	RHO	nag oes	---	NSNT
+
+
+149, 1	370, 1-7	SND	pobl sy yn gwybod be i wneud	NSNT	NSNT
+149, 2	372, 1-5	SND	*yeah* ond baset ti meddwl	NST	NST
+149, 3	372, 6-10	SND	bod *boy* yma ddim yn	NST	NST
+149, 4	373, 1-6	SND	mae pobl yn gwybod amdano fo	NSNT	NSNT
+149, 5	373, 7-7	SND	dydan	---	NSNT
+
+
+150, 1	375, 1-5	RHO	*well* dw ddim yn gwybod	NST	NST
+150, 2	375, 6-10	RHO	os ydyn nhw neu beidio	---	NSNT
+
+
+151, 1	376, 1-4	SND	*well* ti ddim yn	NST	NST
+151, 2	377, 1-19	SND	dydy bobl ddim yn gwybod amdanat ti os ti mynd i *Walton* neu be bynnag ti galw yr lle	---	NST
+
+
+152, 1	379, 1-6	RHO	timod cael ei yrru i *jail*	NST	NST
+152, 2	379, 7-17	RHO	wnaeth o achos bod o ddim yn dod i yr llys	---	NSNT
+
+
+153, 1	380, 1-6	SND	*yeah* ond mae raid bod *um*	NST	NST
+153, 2	381, 1-4	SND	dw ddim yn gwybod	NSNT	NSNT
+153, 3	382, 1-6	SND	pwy sy yn cael i wybod	NSNT	NSNT
+153, 4	382, 7-15	SND	bod rywun yn mynd i *jail* heblaw yr heddlu	---	NST
+
+
+154, 1	383, 1-7	RHO	*well* ddim deud wrth neb nag dyn	---	NST
+
+
+155, 1	384, 1-4	SND	mae neb yn gwybod	---	NSNT
+
+
+156, 1	385, 1-3	RHO	fath â pwy	---	NSNT
+
+
+157, 1	386, 1-4	SND	dw ddim yn gwybod	---	NSNT
+
+
+158, 1	387, 1-2	RHO	*jail* *register*	---	NST
+
+
+159, 1	388, 1-5	SND	*well* dw ddim yn gwybod	---	NST
+
+
+160, 1	390, 1-7	RHO	*ah* ddeud wrtha chdi un peth de	NST	NST
+160, 2	391, 1-3	RHO	oedd o yn	NSNT	NSNT
+160, 3	391, 4-10	RHO	oedd o yn edrych llawer iawn gwell	NSNT	NSNT
+160, 4	391, 11-20	RHO	pan ddaeth o nôl o yna ar y dydd Llun	NSNT	NSNT
+160, 5	392, 1-3	RHO	wedi cael wash	SNT	SNT
+160, 6	393, 1-6	RHO	a oedd gyn o ddillad glân	NSNT	NSNT
+160, 8	395, 1-5	RHO	yn wneud ffafr iddo fo	NSNT	NSNT
+160, 10	397, 1-13	RHO	o'n i yn siarad wedyn efo yr *um* *um* *boy* probation *officer* de	NST	ST
+160, 11	398, 1-7	RHO	a un o ei *stories* o ydy	NST	NST
+160, 12	399, 1-9	RHO	*oh* does gynno fi ddim o yr papurau yma	NST	NST
+160, 13	400, 1-3	RHO	a mae o	NSNT	NSNT
+160, 14	400, 4-4	RHO	mae	NSNT	NSNT
+160, 15	400, 5-6	RHO	mae roi	NSNT	NSNT
+160, 16	400, 7-7	RHO	bai	NSNT	NSNT
+160, 17	401, 1-9	RHO	dydy o ddim yn cymryd dim cyfrifoldeb am dim_byd	NSNT	NSNT
+160, 18	401, 10-14	RHO	sy yn digwydd ei hun	NSNT	NSNT
+160, 19	402, 1-2	RHO	mae roi	NSNT	NSNT
+160, 20	402, 3-8	RHO	bai ar bob math o bethau	NSNT	NSNT
+160, 21	404, 1-6	RHO	a un o yr bais ydy	NSNT	NSNT
+160, 22	404, 7-12	RHO	bod y tŷ wedi llosgi lawr	NSNT	NSNT
+160, 23	405, 1-4	RHO	a mae yr probation	---	SNT
+
+
+161, 1	406, 1-4	SND	tŷ wedi llosgi lawr	---	NSNT
+
+
+162, 1	407, 1-5	RHO	ie wnaeth y tŷ llosgi	NSNT	NSNT
+162, 2	408, 1-7	RHO	a wnaeth o losgi papurau fo i_gyd	NSNT	NSNT
+162, 3	409, 1-3	RHO	*so* dyna pam	NST	NST
+162, 6	411, 1-12	RHO	dydy o ddim ots bod hyn wedi digwydd tua pum mlynedd yn_ôl	NSNT	NSNT
+162, 7	412, 1-2	RHO	ond timod	---	NSNT
+
+
+163, 1	413, 1-4	SND	wnaeth y tŷ llosgi	---	NSNT
+
+
+164, 1	414, 1-4	RHO	do gaeth o dân	SNT	NSNT
+164, 2	416, 1-3	RHO	*so* anyway oedd	NST	ST
+164, 3	416, 4-11	RHO	oedd hyn yn rhan fawr o yr *story*	NST	NST
+164, 4	417, 1-9	RHO	dyma yr *boy* probation yma mynd i weld o	NST	ST
+164, 5	418, 1-9	RHO	a deud wrtha fi aeth o i yr tŷ	NSNT	NSNT
+164, 6	419, 1-9	RHO	a *just* golwg ofnadwy bob man timod fath â	NST	NST
+164, 7	419, 10-13	RHO	baset ti yn ddisgwyl	NSNT	NSNT
+164, 8	420, 1-4	RHO	a un o yr	NSNT	NSNT
+164, 9	421, 1-3	RHO	mae yn sbïo	NSNT	NSNT
+164, 10	422, 1-6	RHO	oedd gynno yr tân yn mynd	NSNT	NSNT
+164, 11	423, 1-6	RHO	be oedd gynno fo yn tân	NSNT	NSNT
+164, 12	423, 7-12	RHO	oedd uffar o *blank* mawr hir	NST	NST
+164, 13	424, 1-18	RHO	a oedd un pen o yn y tân yn llosgi a yr *bit* arall allan o yr tân	NST	NST
+164, 14	425, 1-7	RHO	wedyn fel oedd o yn llosgi lawr	NSNT	NSNT
+164, 15	425, 8-18	RHO	oedd o yn bwsio *rest* o fo fewn i yr tân	NST	NST
+164, 16	427, 1-2	RHO	does ryfedd	NSNT	NSNT
+164, 17	427, 3-9	RHO	bod tŷ yr *clown* wedi llosgi lawr	NST	NST
+164, 18	429, 1-5	RHO	a oedd o yn deud	NSNT	NSNT
+164, 19	430, 1-4	RHO	dw ddim yn gwybod	NSNT	NSNT
+164, 20	430, 5-11	RHO	os ydy hyn yn wir neu beidio	NSNT	NSNT
+164, 21	431, 1-3	RHO	oedd gynno fo	NSNT	NSNT
+164, 22	431, 4-9	RHO	oedd gynno llygod yn tŷ probably	SNT	SNT
+164, 23	432, 1-9	RHO	wedyn be oedd o yn wneud i ddal nhw	NSNT	NSNT
+164, 24	432, 11-16	RHO	roid y *glue* yma ar llawr	NST	NST
+164, 25	433, 1-13	RHO	wedyn oedd y llygod yn cael eu yn *stuck* ar y *glue* yma	NST	NST
+164, 26	434, 1-8	RHO	a fel yna oedd o yn dal nhw	---	NSNT
+
+
+165, 1	435, 1-4	SND	*so* sixty_five yw fo	NST	ST
+165, 2	437, 1-7	SND	*well* ddim yn hen hen nag ydy	---	NST
+
+
+166, 1	438, 1-3	RHO	*well* nac ydy	NST	NST
+166, 2	439, 1-5	RHO	mae *foy* *right* mawr hefyd	NST	NST
+166, 3	439, 6-6	RHO	sti	NSNT	NSNT
+166, 4	440, 1-1	RHO	mae	NSNT	NSNT
+166, 5	440, 2-6	RHO	mae o yn eitha scary	SNT	SNT
+166, 6	440, 7-10	RHO	os wyt ti yn	NSNT	NSNT
+166, 7	441, 1-3	RHO	medru mae medru	NSNT	NSNT
+166, 8	441, 4-10	RHO	bod yn *er* ddyn *right* flin weithiau	---	NST
+
+
+167, 1	442, 1-2	SND	*mmm* Duw	---	NST
+
+
+168, 1	444, 1-11	RHO	ond *er* mae yr *just* *cost* y peth yn unbelievable *yeah*	ST	ST
+168, 2	446, 1-5	RHO	mwy a mwy o *gost*	---	NST
+
+
+169, 1	447, 1-3	SND	sut oedd *um*	NST	NST
+169, 2	448, 1-9	SND	oedd e wedi mwynhau pryd o fwyd yn dathlu	NSNT	NSNT
+169, 3	449, 1-4	SND	dau_ddeg_un wnaeth o ddeud	NSNT	NSNT
+169, 4	449, 5-6	SND	oedd yna	---	NSNT
+
+
+170, 1	450, 1-2	RHO	*oh* *Alan*	ST	NST
+170, 2	452, 1-2	RHO	oedd da	NSNT	NSNT
+170, 3	453, 1-3	RHO	yn tafarn Y_Bont	NSNT	NSNT
+170, 4	455, 1-4	RHO	oedd o yn deud	NSNT	NSNT
+170, 5	455, 5-10	RHO	bod wedi cael bwyd *nice* yna	NST	NST
+170, 6	456, 1-5	RHO	oedd o wedi cael *steak*	NST	NST
+170, 7	457, 1-3	RHO	oedd o yn	NSNT	NSNT
+170, 8	457, 4-11	RHO	oedd o yn sixteen quid am y *steak*	NST	ST
+170, 9	458, 1-3	RHO	ond dyna fo	---	NSNT
+
+
+171, 1	459, 1-4	SND	pa fath o *steak*	---	NST
+
+
+172, 1	460, 1-9	RHO	*well* super_duper *sirloin* baswn i yn gobeithio am hynna	---	ST
+
+
+173, 1	461, 1-2	SND	yn *fillet*	---	NST
+
+
+174, 1	462, 1-6	RHO	*sure* na *fillet* *steak* oedd o	ST	NST
+174, 3	464, 1-2	RHO	sixteen quid	SNT	NSNT
+174, 4	466, 1-5	RHO	a yr starter yn fiver	SNT	SNT
+174, 5	467, 1-3	RHO	pwdin yn fiver	NSNT	SNT
+174, 6	468, 1-10	RHO	twenty_six quid am pryd o fwyd three *course* mewn *pub*	---	ST
+
+
+175, 1	469, 1-6	SND	mae yn *sure* na ddim fo	NST	NST
+175, 2	469, 7-9	SND	oedd yn talu	---	NSNT
+
+
+176, 1	470, 1-8	RHO	*well* na toedd ddim yn talu nag oedd	---	NST
+
+
+177, 1	471, 1-8	SND	*yeah* ond maen nhw ddim yn licio meddwl	NST	NST
+177, 2	471, 9-12	SND	bod nhw yn *pub*	NST	NST
+177, 3	471, 13-14	SND	nag dyn	---	NSNT
+
+
+178, 1	472, 1-6	RHO	*well* na ond *pub* ydy o	NST	NST
+178, 2	473, 1-7	RHO	ti yn *stuck* yn y conservatory yna	NST	ST
+178, 3	474, 1-3	RHO	tra bod *um*	---	NST
+
+
+179, 1	475, 1-3	SND	mae *nice* yna	---	NST
+
+
+180, 1	476, 2-4	RHO	mae yn iawn	NSNT	NSNT
+180, 2	477, 1-5	RHO	dw ddim yn deud ond	NSNT	NSNT
+180, 3	478, 1-11	RHO	petaswn i yn talu gymaint â hynna am bryd o fwyd	---	NSNT
+
+
+181, 1	479, 1-8	SND	mae un fi wsnos nesa yn eighteen ninety_five	---	SNT
+
+
+182, 1	480, 1-17	RHO	*yeah* ond ti ddim yn meddwl bod yna kind of barrier fath â the twenty quid barrier	---	ST
+
+
+183, 1	481, 1-8	SND	*well* mae un ysgol mynd dros thirty quid	---	ST
+
+
+184, 1	482, 1-2	RHO	thirty quid	---	NSNT
+
+
+185, 1	483, 1-1	SND	dros	SNT	NSNT
+185, 2	484, 1-2	SND	thirty_one ninety_five	---	NSNT
+
+
+186, 1	485, 1-5	RHO	be dach chi yn gael	---	NSNT
+
+
+187, 1	486, 1-3	SND	*disco* magician entertainment	---	NST
+
+
+188, 1	487, 1-2	RHO	*oh* yes	---	NST
+
+
+189, 1	488, 1-1	SND	quiz	SNT	NSNT
+189, 2	490, 1-2	SND	dawnsio bwyd	SNT	NSNT
+189, 3	493, 1-2	SND	that's it	---	NSNT
+
+
+190, 1	494, 1-5	RHO	dach chi cael bwyd hefyd	SNT	NSNT
+190, 2	496, 1-1	RHO	traditional	---	NSNT
+
+
+191, 1	497, 1-3	SND	*yeah* Christmas fare	---	NST
+
+
+192, 1	498, 1-1	RHO	twrci	---	NSNT
+
+
+193, 1	499, 1-1	SND	twrci	---	NSNT
+
+
+194, 1	500, 1-4	RHO	*soup* twrci pwdin Dolig	NST	NST
+194, 2	502, 1-7	RHO	*ooh* *sure* bod hwnna yn costio tua	NST	NST
+194, 3	503, 1-2	RHO	*oof* be	ST	NST
+194, 4	504, 1-1	RHO	fiver	SNT	NSNT
+194, 5	507, 1-5	RHO	na oedd o yn deud	NSNT	NSNT
+194, 6	507, 6-13	RHO	bod o wedi cael bwyd *nice* iawn yna	NST	NST
+194, 7	508, 1-5	RHO	ond dw ddim yn *sure*	NST	NST
+194, 8	508, 6-17	RHO	baswn i isio talu thirty twenty_five quid i fynd yna cael bwyd	NSNT	SNT
+194, 9	509, 1-12	RHO	a ti yn nabod *um* *Anna* sy yn gweithio yn lle ni	---	NST
+
+
+195, 1	510, 1-2	SND	nag dw	---	NSNT
+
+
+196, 1	511, 1-2	RHO	ti yn	NSNT	NSNT
+196, 2	512, 1-12	RHO	pan oedden ni yn mynd i *party* Dolig yr dynes crazy yna	NST	ST
+196, 3	514, 1-9	RHO	hi mae hi yn gweithio yna fath â *waitress*	NST	NST
+196, 4	515, 1-15	RHO	*so* ti isio bod yna yn talu twenty_five quid i cael dy serfio gynni hi	---	ST
+
+
+197, 1	516, 1-2	SND	ers pryd	---	NSNT
+
+
+198, 1	517, 1-3	RHO	mae yn gweithio	---	NSNT
+
+
+199, 1	518, 1-8	SND	mae ddim yn gweithio efo chi ddim mwy	---	NSNT
+
+
+200, 1	520, 1-2	RHO	dau *job*	NST	NST
+200, 2	521, 1-8	RHO	baset ti isio cael dy serfio gynni hi	NSNT	NSNT
+200, 6	525, 1-4	RHO	dim diolch yn fawr	---	NSNT
+
+
+201, 1	526, 1-6	SND	fi yn gwybod baset ti ddim	NSNT	NSNT
+201, 4	532, 1-12	SND	oh fi yn falch bod yna ddim_byd i wneud efo *ballet* fory	NST	NST
+201, 5	533, 1-7	SND	gawn ni fynd i *Treborth* yn bore	---	NST
+
+
+202, 1	534, 1-1	RHO	*B_and_Q*	---	NST
+
+
+203, 1	535, 1-4	SND	*Bethan* yn dewis coeden	---	NST
+
+
+204, 1	536, 1-13	RHO	dw i wedi gael y *Nordmann* firs yna yn *B_and_Q* am fifteen quid	---	ST
+
+
+205, 1	537, 1-3	SND	na *Treborth* neisach	---	NST
+
+
+206, 1	538, 1-3	RHO	be ydy *point*	NST	NST
+206, 2	539, 1-4	RHO	coeden ydy o *Sioned*	---	NST
+
+
+207, 1	540, 1-4	SND	na mae yn neisach	---	NSNT
+
+
+208, 1	541, 1-2	RHO	be ydy	NSNT	NSNT
+208, 2	542, 1-4	RHO	sut ti yn gwybod	---	NSNT
+
+
+209, 1	543, 1-4	SND	dw ddim yn cofio	NSNT	NSNT
+209, 2	543, 5-8	SND	sut dan ni wedi	NSNT	NSNT
+209, 3	543, 9-15	SND	roid y cadair a yr *settee* o_blaen	NST	NST
+209, 4	544, 1-8	SND	mae yn edrych yn fwy llawn yma rywsut	NSNT	NSNT
+209, 5	546, 1-6	SND	*oh* na roid yn y canol	NST	NST
+209, 6	547, 1-2	SND	*yeah* dyna	NST	NST
+209, 7	547, 3-4	SND	fydd wneud	NSNT	NSNT
+209, 8	548, 1-6	SND	rhoid o *right* yn y canol	---	NST
+
+
+210, 1	549, 1-2	RHO	deud be	---	NSNT
+
+
+211, 1	550, 1-8	SND	*yeah* coeden *right* yn y canol fan yna	NST	NST
+211, 2	551, 1-5	SND	wedyn mae yn ffitio wedyn	NSNT	NSNT
+211, 3	551, 6-6	SND	dydy	NSNT	NSNT
+211, 4	552, 1-4	SND	fi yn cofio wan	NSNT	NSNT
+211, 5	553, 1-7	SND	o'n i yn meddwl bod ni wedi	NSNT	NSNT
+211, 6	553, 8-14	SND	roid o yn y gornel fan yna	---	NSNT
+
+
+212, 1	554, 1-11	RHO	na na yn ffordd yna mae yn mynd wrth y drws	---	NSNT
+
+
+213, 1	555, 1-4	SND	yn y canol *yeah*	NST	NST
+213, 2	556, 1-5	SND	*yeah* wedyn mae yr *yeah*	NST	NST
+213, 3	557, 1-12	SND	os allwn ni fficsio fe cyn i ti fynd i chwarae *rugby*	NST	NST
+213, 4	557, 13-21	SND	alla i wneud y gweddill ar ben fy hun	---	NSNT
+
+
+214, 1	558, 1-5	RHO	*mmm* fydd yna ddim *problem*	NST	NST
+214, 2	559, 1-8	RHO	dan ni ddim yn cael un six foot	SNT	SNT
+214, 3	559, 9-10	RHO	nag dan	NSNT	NSNT
+214, 4	560, 1-5	RHO	un five foot gaethon ni	NSNT	SNT
+214, 5	561, 1-3	RHO	ti yn cofio	---	NSNT
+
+
+215, 1	562, 1-3	SND	fe wnaethon ni	NSNT	NSNT
+215, 2	562, 4-5	SND	roid ar	---	NSNT
+
+
+216, 1	563, 1-5	RHO	wnaethon ni fynd lawr troedfedd	---	NSNT
+
+
+217, 1	564, 1-4	SND	dw ddim yn cofio	---	NSNT
+
+
+218, 1	566, 1-9	RHO	achos mae yn ffitio well i_fewn i yr peth	NSNT	NSNT
+218, 2	566, 10-10	RHO	dydy	---	NSNT
+
+
+219, 1	567, 1-5	SND	dw ddim yn cofio hynna	NSNT	NSNT
+219, 2	569, 1-7	SND	wnes i ddeud wrth *Bethan* bore yma	NST	NST
+219, 3	569, 8-13	SND	bod ni yn cael coeden Nadolig	NSNT	NSNT
+219, 4	570, 1-2	SND	coeden Nadolig	NSNT	NSNT
+219, 5	571, 1-4	SND	oedd hi yn deud	NSNT	NSNT
+219, 6	572, 1-2	SND	go iawn	NSNT	NSNT
+219, 8	574, 1-3	SND	*yeah* go iawn	NST	NST
+219, 10	576, 1-5	SND	fydd Sion_Corn isio gweld o	NSNT	NSNT
+219, 11	577, 1-4	SND	o'n i yn deud	---	NSNT
+
+
+220, 1	579, 1-6	RHO	ti meddwl bod hi yn cofio	NSNT	NSNT
+220, 2	579, 7-13	RHO	bod hi wedi cael un o_blaen felly	---	NSNT
+
+
+221, 1	582, 1-4	SND	na dw ddim meddwl	NSNT	NSNT
+221, 2	582, 5-8	SND	bod hi ddim callach	---	NSNT
+
+
+222, 1	584, 1-2	RHO	excuse *me*	---	NST
+
+
+223, 1	586, 1-3	SND	dw ddim meddwl	NSNT	NSNT
+223, 2	586, 4-7	SND	basai hi yn cofio	NSNT	NSNT
+223, 3	586, 8-19	SND	nag basai o dwy a hanner i un a hanner no way	---	SNT
+
+
+224, 1	587, 1-3	RHO	na *suppose* not	ST	ST
+224, 2	588, 1-12	RHO	ti feddwl petasen ni yn sôn am roid carrots allan i *Rudolph*	NST	ST
+224, 3	588, 13-17	RHO	basai hi yn cofio hynny	---	NSNT
+
+
+225, 1	589, 1-6	SND	na fi wedi sôn efo hi	NSNT	NSNT
+225, 2	590, 1-4	SND	oedd ddim yn cofio	---	NSNT
+
+
+226, 1	591, 1-3	RHO	dim yn cofio	---	NSNT
+
+
+227, 1	592, 1-9	SND	*well* ti cofio pan wnaethon ni sôn am *Rudolph*	NST	NST
+227, 2	593, 1-6	SND	wnaeth hi alw fo yn *radiator*	ST	NST
+227, 3	595, 1-3	SND	*Rudolph* the reindeer	---	NST
+
+
+228, 1	596, 1-2	RHO	*yeah* *Rudolph*	---	NST
+
+
+229, 1	597, 1-9	SND	o'n i meddwl basai hi yn cofio adeg yna	NSNT	NSNT
+229, 2	598, 1-3	SND	wnaeth hi ddim	NSNT	NSNT
+229, 3	598, 4-4	SND	naddo	---	NSNT
+
+
+230, 1	599, 1-2	RHO	na naddo	---	NSNT
+
+
+231, 1	600, 1-3	SND	*Rudolph* the *Radiator*	---	NST
+
+
+232, 1	601, 1-4	RHO	*Rudolph* the *Radiator* *yeah*	---	NST
+
+
+233, 1	604, 1-3	SND	wnaeth hi ddim	NSNT	NSNT
+233, 2	605, 1-9	SND	wnes i droi yr gwres yna on *lot* yn_ôl	NST	ST
+233, 3	606, 1-9	SND	mae dal ddim yn teimlo yn gynnes iawn yma	NSNT	NSNT
+233, 4	606, 10-11	SND	nag ydy	---	NSNT
+
+
+234, 1	607, 1-2	RHO	na mae	NSNT	NSNT
+234, 2	607, 3-7	RHO	wedi bod *off* trwy dydd	---	NST
+
+
+235, 1	608, 1-7	SND	fi yn clywed y gath yma wan	---	NSNT
+
+
+236, 1	609, 1-3	RHO	lle mae o	---	NSNT
+
+
+237, 1	610, 1-8	SND	fi yn clywed o chwarae wrth y drws	---	NSNT
+
+
+238, 1	611, 1-2	RHO	yn gall	---	NSNT
+
+
+239, 1	612, 1-10	SND	mae o ddim yn mwynhau ddim yn cael bwyd yna	NSNT	NSNT
+239, 2	612, 11-12	SND	nag ydy	---	NSNT
+
+
+240, 1	613, 1-2	RHO	nag ydy	NSNT	NSNT
+240, 2	613, 3-4	RHO	nag ydy	---	NSNT
+
+
+241, 1	614, 1-6	SND	ond oedd *um* *Carol* yn deud	NST	NST
+241, 2	614, 7-10	SND	bod hynna yn iawn	NSNT	NSNT
+241, 3	614, 11-11	SND	doedd	---	NSNT
+
+
+242, 1	615, 1-3	RHO	*well* mae o	NST	NST
+242, 2	616, 1-7	RHO	mae yr bwyd caled yna fod yn	NSNT	NSNT
+242, 3	617, 2-3	RHO	dyna chwbl	NSNT	NSNT
+242, 4	617, 4-6	RHO	maen nhw angen	NSNT	NSNT
+242, 5	618, 1-6	RHO	mae yna hynny o o *stuff*	NST	NST
+242, 6	618, 7-10	RHO	mae o isio yna	---	NSNT
+
+
+243, 1	619, 1-5	SND	*mmm* *oh* *yeah* mae raid	---	NST
+
+
+244, 1	620, 1-5	RHO	ond mae *just* yn awkward_o	ST	ST
+244, 2	620, 6-6	RHO	sti	---	NSNT
+
+
+245, 1	621, 1-6	SND	*well* na wedi arfer mae o	NST	NST
+245, 2	623, 1-2	SND	chwarae teg	---	NSNT
+
+
+246, 1	624, 1-4	RHO	mae yn disgwyl cael	---	NSNT
+
+
+247, 1	625, 1-2	SND	wedi arfer	---	NSNT
+
+
+248, 1	627, 1-7	RHO	ond dw ddim isio mynd yn_ôl i	NSNT	NSNT
+248, 2	627, 8-12	RHO	roid y tins yna iddo	---	SNT
+
+
+249, 1	628, 1-4	SND	na mae yn drewi	---	NSNT
+
+
+250, 1	630, 1-1	RHO	drewi	NSNT	NSNT
+250, 2	631, 1-3	RHO	deud wrtha fi	NSNT	NSNT
+250, 3	633, 1-13	RHO	*mmm* o'n i yn siarad efo *um* *Bernard* yn gwaith heddiw yma de	---	NST
+
+
+251, 1	634, 1-5	SND	be hwnna oedd yr un	NSNT	NSNT
+251, 2	634, 6-10	SND	wnaeth mynd a dod nôl	---	NSNT
+
+
+252, 1	635, 1-4	RHO	naci yr un arall	NSNT	NSNT
+252, 2	637, 1-4	RHO	a o yn deud	NSNT	NSNT
+252, 3	638, 1-4	RHO	ond dw i wedi	NSNT	NSNT
+252, 4	638, 5-8	RHO	roid goeden Dolig i_fyny	NSNT	NSNT
+252, 5	640, 1-9	RHO	dw i wedi gyrru yr *um* cardiau Dolig i_gyd	---	NST
+
+
+253, 1	641, 1-1	SND	fo	---	NSNT
+
+
+254, 1	642, 1-1	RHO	chdi	NSNT	NSNT
+254, 2	645, 1-9	RHO	*well* be ti yn mynd i wneud wan ta	NST	NST
+254, 3	646, 1-2	RHO	meddai fi	NSNT	NSNT
+254, 5	648, 1-5	RHO	raid bod o yn drefnus	---	NSNT
+
+
+255, 1	649, 1-4	SND	*oh* mae yn amazing	ST	ST
+255, 2	650, 1-8	SND	fydd raid fi brynu rei fi wythnos yma	NSNT	NSNT
+255, 3	651, 1-15	SND	o'n i wedi meddwl gofyn i *Mam* gofyn i yr *um* cylch enwau yr plant	NST	NST
+255, 4	651, 16-24	SND	sy yn cylch efo hi i cael gyrru cerdyn	---	NSNT
+
+
+256, 1	652, 1-2	RHO	*Charlie* de	---	NST
+
+
+257, 1	653, 1-3	SND	*well* na mae	NST	NST
+257, 2	654, 1-6	SND	lle mae yr *list* yna efo	NST	NST
+257, 3	654, 7-13	SND	pwy sy yn y dosbarth efo hi	NSNT	NSNT
+257, 4	655, 1-6	SND	ti yn gwybod lle mae hwnna	NSNT	NSNT
+257, 5	656, 1-4	SND	wnaethon ni daflu hwnna	---	NSNT
+
+
+258, 1	657, 1-13	RHO	dw i yn meddwl mod i wedi gadael o ar y *sill* ffenest	NST	NST
+258, 2	657, 14-14	RHO	wsti	NSNT	NSNT
+258, 3	658, 1-8	RHO	ond ella bod chdi wedi taflu o wedyn	---	NSNT
+
+
+259, 1	659, 1-4	SND	*yeah* dw i meddwl	NST	NST
+259, 2	659, 5-6	SND	bod fi	NSNT	NSNT
+259, 3	660, 1-4	SND	os dan ni wedi	NSNT	NSNT
+259, 4	660, 5-11	SND	wnei di ofyn i *Mrs_Smith* dydd Llun	---	NST
+
+
+260, 1	661, 1-12	RHO	wnân nhw ddim wneud *list* o enwau yr kids i_gyd i chdi	---	ST
+
+
+261, 1	662, 1-1	SND	gwnân	NSNT	NSNT
+261, 2	663, 1-6	SND	maen nhw yn fodlon wneud hynna	---	NSNT
+
+
+262, 1	667, 1-1	RHO	pam	---	NSNT
+
+
+263, 1	668, 1-11	SND	achos mae *lot* o rieni yn gofyn yr un un *guestion*	NST	NST
+263, 2	669, 1-5	SND	dw i yn gwybod hynna	NSNT	NSNT
+263, 3	672, 1-10	SND	yr un peth pan mae plentyn yn cael *party* pen_blwydd	---	NST
+
+
+264, 1	674, 1-6	RHO	ti isio gwybod pwy i wahodd	---	NSNT
+
+
+265, 1	677, 1-5	SND	os maen nhw yn deud	NSNT	NSNT
+265, 2	677, 6-8	SND	na wnawn ni	NSNT	NSNT
+265, 3	677, 9-13	SND	*just* roid cardiau yn deud	NST	NST
+265, 4	678, 1-4	SND	Nadolig llawen oddi_wrth *Bethan*	---	NST
+
+
+266, 1	679, 1-7	RHO	faint ohonyn nhw ti yn wneud wedyn	---	NSNT
+
+
+267, 1	680, 1-3	SND	*well* mae raid	NST	NST
+267, 2	681, 1-12	SND	os mae yn deud na pan ti yn gofyn am yr enwau	NSNT	NSNT
+267, 3	681, 13-15	SND	*just* gofyn faint	---	NST
+
+
+268, 1	682, 1-7	RHO	fasai ddim yn haws *just* wneud hynna	---	NST
+
+
+269, 1	683, 1-5	SND	na baswn i yn licio	NSNT	NSNT
+269, 2	683, 6-8	SND	roid yr enwau	---	NSNT
+
+
+270, 1	684, 1-1	RHO	pam	---	NSNT
+
+
+271, 1	685, 1-1	SND	wahodd	NSNT	NSNT
+271, 2	686, 1-1	SND	cynnesach	NSNT	NSNT
+271, 3	687, 1-3	SND	dyn ta dynes	NSNT	NSNT
+271, 4	687, 4-5	SND	ydy hwnna	---	NSNT
+
+
+272, 1	688, 1-3	RHO	dynes ydy hwnna	---	NSNT
+
+
+273, 1	689, 1-1	SND	dynes	NSNT	NSNT
+273, 2	691, 1-6	SND	be mae yn wneud ben to	---	NSNT
+
+
+274, 1	692, 1-3	RHO	brwsio fo de	---	NSNT
+
+
+275, 1	693, 1-2	SND	i be	---	NSNT
+
+
+276, 1	694, 1-6	RHO	dw i ddim yn gwybod nac	NSNT	NSNT
+276, 2	694, 7-7	RHO	dw	NSNT	NSNT
+276, 3	695, 1-5	RHO	does gen i ddim syniad	---	NSNT
+
+
+277, 1	696, 1-5	SND	weles i pedwar enfys heddi	---	NSNT
+
+
+278, 1	697, 1-8	RHO	be ti yn galw mwy nag un enfys	---	NSNT
+
+
+279, 1	698, 1-1	SND	multicoloured	---	NSNT
+
+
+280, 1	699, 1-2	RHO	*well* enfys	NST	NST
+280, 2	700, 1-1	RHO	enfysys	NSNT	NSNT
+280, 3	701, 1-1	RHO	enfau	---	NSNT
+
+
+281, 1	702, 1-1	SND	enfysau	---	NSNT
+
+
+282, 1	703, 1-1	RHO	enfysau	NSNT	NSNT
+282, 3	705, 1-1	RHO	enfysau	---	NSNT
+
+
+283, 1	706, 1-7	SND	o'n i meddwl na *joke* oedd hwnna	NST	NST
+283, 2	707, 1-10	SND	wnes i trio deud y *Tiger_Woods* *joke* yn gwaith heddi	---	NST
+
+
+284, 1	708, 1-3	RHO	wnest ti drio	---	NSNT
+
+
+285, 1	709, 1-3	SND	wnes i drio	SNT	NSNT
+285, 2	710, 1-3	SND	*oh* *dear* *me*	---	NST
+
+
+286, 1	711, 1-3	RHO	be ti feddwl	NSNT	NSNT
+286, 2	712, 1-3	RHO	ti yn deud	NSNT	NSNT
+286, 3	713, 1-4	RHO	wnes i weld mwy	NSNT	NSNT
+286, 4	713, 5-10	RHO	nag wnes i weld pedair enfys	NSNT	NSNT
+286, 6	717, 1-6	RHO	a wnaethon ni weld dau enfys	NSNT	NSNT
+286, 7	718, 1-3	RHO	a yn deud	NSNT	NSNT
+286, 8	719, 1-9	RHO	be ti yn galw mwy nag un enfys ta	---	NSNT
+
+
+287, 1	720, 1-4	SND	wnaeth *Dean* deud hynna	---	NST
+
+
+288, 1	722, 1-5	RHO	enfysau oedd *Dean* yn feddwl	NST	NST
+288, 2	722, 6-7	RHO	oedd o	NSNT	NSNT
+288, 3	724, 1-6	RHO	*well* toedd o ddim yn meddwl	NST	NST
+288, 4	725, 1-10	RHO	oedd o yn deud hynna fath â *joke* deud gwir	---	NST
+
+
+289, 1	726, 1-8	SND	enfys *aye* os ti yn byw ym *Mangor*	NST	NST
+289, 2	728, 1-7	SND	be os ti yn byw yn *Caernarfon*	NST	NST
+289, 3	729, 1-2	SND	enfys *yeah*	---	NST
+
+
+290, 1	730, 1-4	RHO	enfysys *aye* *aye* *yeah*	NST	NST
+290, 3	732, 1-2	RHO	enfau *aye*	---	NST
+
+
+291, 1	733, 1-1	SND	enfau	---	NSNT
+
+
+292, 1	734, 1-1	RHO	dyna	NSNT	NSNT
+292, 2	734, 2-2	RHO	dyna	NSNT	NSNT
+292, 3	734, 3-9	RHO	basai rywun clyfar o *Fangor* yn ddeud	---	NST
+
+
+293, 1	735, 2-6	SND	gynnon ni geiriadur yn deud	---	NSNT
+
+
+294, 1	736, 1-2	RHO	enfau *aye*	---	NST
+
+
+295, 1	737, 1-3	SND	mwy nag un	---	NSNT
+
+
+296, 1	738, 1-9	RHO	ti ti ddim yn gweld mwy nag un enfys	NSNT	NSNT
+296, 2	739, 1-2	RHO	un enfys	---	NSNT
+
+
+297, 1	740, 1-8	SND	wnes i weld dau ar un pryd heddi	---	NSNT
+
+
+298, 1	741, 1-4	RHO	yn yr un awyr	---	NSNT
+
+
+299, 1	743, 1-5	SND	yn yr un un awyr	---	NSNT
+
+
+300, 1	744, 1-1	RHO	ond	NSNT	NSNT
+300, 2	745, 1-3	RHO	*yeah* *well* wnes	NST	NST
+300, 3	745, 4-9	RHO	wnaethon ni weld dau ddiwrnod o_blaen	---	NSNT
+
+
+301, 1	746, 1-10	SND	*well* pam ti yn deud be ti yn deud ta	---	NST
+
+
+302, 1	748, 1-5	RHO	*so* dw ddim yn gwybod	NST	NST
+302, 2	748, 6-11	RHO	be ydy mwy nag un enfys	---	NSNT
+
+
+303, 1	749, 1-13	SND	God druan ar y bobl yma efo yr *um* *tornado* yna yn Llundain	NST	ST
+303, 3	751, 1-7	SND	*lot* o bobl heb tŷ na ddim_byd	---	NST
+
+
+304, 1	752, 1-6	RHO	mae wedi wneud dipyn o fess	NSNT	SNT
+304, 2	755, 1-7	RHO	global warming sy yn cael y bai	---	SNT
+
+
+305, 1	756, 1-13	SND	*yeah* oedden nhw yn deud ar y newyddion ar y *radio* bore yma	NST	NST
+305, 2	757, 1-4	SND	ond wnes i anghofio	NSNT	NSNT
+305, 3	758, 3-8	SND	gaethon ni *tornado* llynedd yn *Birmingham*	NST	NST
+305, 4	759, 1-5	SND	o'n wedi anghofio am hwnna	---	NSNT
+
+
+306, 1	760, 1-5	RHO	gaethon ni *tornado* yn *Birmingham*	---	NST
+
+
+307, 1	761, 1-3	SND	yn gwlad yma	---	NSNT
+
+
+308, 1	762, 1-6	RHO	dim gwlad yma ydy *Birmingham* *Sioned*	---	NST
+
+
+309, 1	763, 1-1	SND	U_K	---	NSNT
+
+
+310, 1	766, 1-5	RHO	termau ni yn *o_k* wan	NST	NST
+310, 3	768, 1-1	RHO	yndw	SNT	NSNT
+310, 4	769, 1-2	RHO	*mmm* *tornados*	NST	NST
+310, 5	771, 1-1	RHO	*Wizard_of_Oz*	---	NST
+
+
+311, 1	772, 1-4	SND	oedden nhw yn deud	NSNT	NSNT
+311, 2	772, 5-17	SND	bod y gwynt dros cant a tri_deg miles per *hour* yn Llundain ddoe	---	ST
+
+
+312, 1	774, 1-3	RHO	mae hynna *lot*	NST	NST
+312, 2	774, 4-4	RHO	dydy	---	NSNT
+
+
+313, 1	775, 1-6	SND	welest ti yr lluniau yr tai	---	NSNT
+
+
+314, 1	776, 1-2	RHO	do wrecked	---	SNT
+
+
+315, 1	777, 1-2	SND	*mmm* hollol	---	NST
+
+
+316, 1	778, 1-4	RHO	timod *Wizard_of_Oz* y *film*	NST	NST
+316, 2	779, 1-6	RHO	mynd yn_ôl i *tornados* a *Wizard_of_Oz*	---	NST
+
+
+317, 1	780, 1-5	SND	that was all a dream	---	NSNT
+
+
+318, 1	783, 1-3	RHO	na mae yna	NSNT	NSNT
+318, 2	783, 4-12	RHO	maen nhw wedi *um* ffeindio yr *film* gwreiddiol wan	NST	NST
+318, 3	784, 1-4	RHO	a maen nhw wedi	NSNT	NSNT
+318, 4	785, 2-6	RHO	mae mewn lliw rhyfedd bob	NSNT	NSNT
+318, 5	785, 7-7	RHO	tro	NSNT	NSNT
+318, 6	785, 8-11	RHO	mae ar y *telly*	NST	NST
+318, 7	785, 12-12	RHO	dydy	NSNT	NSNT
+318, 8	787, 1-10	RHO	ond mi gaeth o ei ffilmio mewn *Technicolor* ar y	NST	NST
+318, 9	787, 11-19	RHO	pryd oedd yn really *wow* sefyll allan y lliw	NST	ST
+318, 10	789, 1-8	RHO	a drost amser mae yr *film* wedi disintegrate_io	ST	ST
+318, 11	790, 1-9	RHO	neu mae yr lliw wedi cael ei golli ohono	NSNT	NSNT
+318, 12	791, 1-5	RHO	wedyn maen nhw wedi cael	NSNT	NSNT
+318, 13	791, 6-9	RHO	maen nhw wedi *um*	---	NST
+
+
+319, 1	792, 1-2	SND	*oh* edrych	NST	NST
+319, 2	792, 3-6	SND	be mae hi wisgo	---	NSNT
+
+
+320, 1	793, 1-3	RHO	maen nhw wedi	---	NSNT
+
+
+321, 1	794, 1-3	SND	mae yn *sure*	NST	NST
+321, 2	794, 4-14	SND	bod nhw gallu wneud rywbeth rŵan efo yr digital a bethau	---	SNT
+
+
+322, 1	795, 1-6	RHO	na dydyn nhw ddim wedi digitise_io	SNT	SNT
+322, 2	796, 1-6	RHO	maen nhw wedi restore_io fo i_gyd	NSNT	SNT
+322, 3	797, 1-5	RHO	ella bod nhw wedi digitise_io	SNT	SNT
+322, 4	798, 1-4	RHO	dw ddim yn gwybod	NSNT	NSNT
+322, 5	799, 1-9	RHO	ond maen nhw wedi restore_io yr lliw i fel	NSNT	SNT
+322, 6	799, 10-15	RHO	oedd o *right* yn y cychwyn	NST	NST
+322, 7	800, 1-3	RHO	a mae yna	NSNT	NSNT
+322, 8	800, 4-6	RHO	maen nhw yn	NSNT	NSNT
+322, 9	800, 7-9	RHO	dw i meddwl	NSNT	NSNT
+322, 10	800, 10-17	RHO	bod nhw yn re_release_io fo i yr *pictures*	ST	ST
+322, 11	803, 1-3	RHO	*Wizard_of_Oz* in *Technicolor*	---	NST
+
+
+323, 1	804, 1-4	SND	*oh* basai yn *nice*	---	NST
+
+
+324, 1	805, 1-2	RHO	*as* original	---	NST
+
+
+325, 1	806, 1-4	SND	*yeah* alla i gweld	NST	NST
+325, 2	806, 5-8	SND	mae hynna wedi digwydd	NSNT	NSNT
+325, 3	808, 1-7	SND	oedd o yn amlwg ar y *film*	NST	NST
+325, 4	808, 8-8	SND	doedd	---	NSNT
+
+
+326, 1	809, 1-13	RHO	achos mi oedd yna liwiau melyn a ballu rhyfedd ar y *film* gwreiddiol	NST	NST
+326, 2	809, 14-14	RHO	doedd	---	NSNT
+
+
+327, 1	810, 1-3	SND	oedd a *brown*	---	NST
+
+
+328, 1	814, 1-8	RHO	pwy ydy yr ddynes yn y *film* anyway	---	ST
+
+
+329, 1	815, 1-1	SND	*Judy_Garland*	---	NST
+
+
+330, 1	816, 1-2	RHO	*Judy_Garland* *yeah*	ST	NST
+330, 2	817, 1-6	RHO	mae hi yn fam i rywun	NSNT	NSNT
+330, 3	817, 7-7	RHO	dydy	---	NSNT
+
+
+331, 1	818, 1-3	SND	*sure* o fod	---	NST
+
+
+332, 1	821, 1-1	RHO	*Shirley_Temple*	ST	NST
+332, 2	823, 1-5	RHO	ddim hi ydy *mam* *Shirley_Temple*	---	NST
+
+
+333, 1	824, 1-2	SND	ddim gwybod	---	NSNT
+
+
+334, 1	825, 1-4	RHO	be ti yn feddwl	NSNT	NSNT
+334, 2	826, 1-5	RHO	ia dw ddim yn gwybod	---	NSNT
+
+
+335, 1	827, 1-4	SND	*yeah* dw i feddwl	---	NST
+
+
+336, 1	828, 1-2	RHO	a dydy	---	NSNT
+
+
+337, 1	829, 1-1	SND	yfe	---	NSNT
+
+
+338, 1	830, 1-3	RHO	dw i meddwl	NSNT	NSNT
+338, 2	830, 4-4	RHO	sti	NSNT	NSNT
+338, 3	831, 1-2	RHO	a dydy	NSNT	NSNT
+338, 4	831, 3-4	RHO	mae yna	NSNT	NSNT
+338, 5	831, 5-6	RHO	mae yna	NSNT	NSNT
+338, 6	832, 1-5	RHO	be ydy enw *boy* yna	---	NST
+
+
+339, 1	834, 1-1	SND	*Tin_Man*	---	NST
+
+
+340, 1	835, 1-3	RHO	naci *um* *Clooney*	ST	NST
+340, 2	836, 1-1	RHO	*George_Clooney*	---	NST
+
+
+341, 1	837, 1-1	SND	*George_Clooney*	---	NST
+
+
+342, 1	838, 1-6	RHO	mae o yn fab i rywun	NSNT	NSNT
+342, 4	841, 1-5	RHO	na mab i rywun enwog	---	NSNT
+
+
+343, 1	843, 1-5	SND	yndy ei fam o *yeah*	---	NST
+
+
+344, 1	844, 1-7	RHO	mae o yn fab i fam o	---	NSNT
+
+
+345, 1	846, 1-4	SND	na mae fam o	NSNT	NSNT
+345, 2	846, 5-9	SND	mae fam o yn enwog	---	NSNT
+
+
+346, 1	849, 1-9	RHO	a dim dim_byd i wneud efo *Shirley_Temple* nag ydy	---	NST
+
+
+347, 1	850, 1-4	SND	fi ddim yn cofio	---	NSNT
+
+
+348, 1	854, 1-6	RHO	*so* anyway dan ni wedi penderfynu	NST	ST
+348, 2	854, 7-7	RHO	bod	---	NSNT
+
+
+349, 1	855, 1-6	SND	ti sy wedi penderfynu ddim fi	---	NSNT
+
+
+350, 1	856, 1-6	RHO	bod *George_Clooney* yn fab ei fam	---	NST
+
+
+351, 1	857, 1-4	SND	ti wnaeth penderfynu hynna	---	NSNT
+
+
+352, 1	858, 1-3	RHO	a bod *Shirley_Temple*	---	NST
+
+
+353, 1	859, 1-8	SND	yn fam i rywun neu merch i rywun	---	NSNT
+
+
+354, 1	860, 1-5	RHO	yn ferch i *mam* hi	NST	NST
+354, 2	861, 1-3	RHO	*oh* da iawn	---	NST
+
+
+355, 1	863, 1-6	SND	ti wedi siarad efo *Ed* heddi	---	NST
+
+
+356, 1	864, 1-2	RHO	dw i	NSNT	NSNT
+356, 2	864, 3-11	RHO	wedi bod yn trio ffonio *Ed* trwy yr wsnos	NST	NST
+356, 3	865, 1-1	RHO	ond	NSNT	NSNT
+356, 4	867, 1-5	RHO	*well* na dw i ddim	NST	NST
+356, 5	867, 6-11	RHO	wedi bod yn trio ffonio fo	NSNT	NSNT
+356, 6	868, 1-8	RHO	dw i wedi meddwl ffonio fo trwy wsnos	NSNT	NSNT
+356, 7	869, 1-10	RHO	ond dw i erioed wedi cael *round* i wneud eto	---	NST
+
+
+357, 1	870, 1-5	SND	mae nhw ffwrdd weekend yma	---	SNT
+
+
+358, 1	871, 1-1	RHO	ydyn	---	NSNT
+
+
+359, 1	872, 2-4	SND	dw i meddwl	NSNT	NSNT
+359, 2	873, 1-8	SND	achos oedd *mam* ti fod mynd lawr yn_doedd	---	NST
+
+
+360, 1	874, 1-2	RHO	oedd *sure*	NST	NST
+360, 2	875, 1-4	RHO	lle oedd o mynd	NSNT	NSNT
+360, 3	876, 1-6	RHO	na ella toedd ddim i_ffwrdd weekend	SNT	SNT
+360, 4	877, 1-11	RHO	oedd o yn gorfod mynd i *Somerset* neu rywbeth wsnos nesa	NST	NST
+360, 5	877, 12-12	RHO	doedd	---	NSNT
+
+
+361, 1	878, 1-2	SND	i be	---	NSNT
+
+
+362, 1	879, 1-5	RHO	rywbeth efo gwaith dw meddwl	---	NSNT
+
+
+363, 1	883, 1-10	SND	o'n i yn gofyn o'n i meddwl bod nhw ffwrdd	NSNT	NSNT
+363, 2	884, 1-2	SND	fo a	---	NSNT
+
+
+364, 1	885, 1-5	RHO	be ar ei *holidays* felly	---	NST
+
+
+365, 1	886, 1-2	SND	*well* na	NST	NST
+365, 2	887, 1-4	SND	yn y tŷ yna	NSNT	NSNT
+365, 3	888, 1-6	SND	neu oedden nhw yna weekend diwetha	NSNT	SNT
+365, 4	889, 1-7	SND	y lle yna yn *Devon* neu rywle	---	NST
+
+
+366, 1	890, 1-7	RHO	na weekend dwytha aethon nhw lawr yna	SNT	SNT
+366, 2	894, 1-2	RHO	*Torquay* *Torkwai*	---	NST
+
+
+367, 1	895, 1-6	SND	yn fan yna mae o *yeah*	---	NST
+
+
+368, 1	896, 1-6	RHO	dw i ddim yn *sure* iawn	NST	NST
+368, 2	896, 7-13	RHO	lle mae o deud gwir wrtha chdi	NSNT	NSNT
+368, 3	898, 1-5	RHO	dw i ddim yn *sure*	---	NST
+
+
+369, 1	900, 1-11	SND	mae dal ddim yn teimlo yn gynnes yn y stafell yma	NSNT	NSNT
+369, 2	902, 1-3	SND	ydy hwnna on	---	SNT
+
+
+370, 1	905, 1-3	RHO	mae yn boeth	NSNT	NSNT
+370, 2	905, 4-4	RHO	dydy	---	NSNT
+
+
+371, 1	906, 1-10	SND	really efo *room* *size* yma basai dau *radiator* yn well	NST	ST
+371, 2	906, 11-11	SND	bysai	---	NSNT
+
+
+372, 1	907, 1-9	RHO	*well* yn un peth mae *sofa* yma yn_erbyn hwn	NST	NST
+372, 2	907, 10-10	RHO	dydy	---	NSNT
+
+
+373, 1	908, 1-5	SND	*well* ddim llawer nag ydy	---	NST
+
+
+374, 1	909, 1-6	RHO	*well* cymryd dipyn o gwres dydy	---	NST
+
+
+375, 1	910, 1-5	SND	be mae *use* cael hwn	---	NST
+
+
+376, 1	911, 1-5	RHO	dw ddim yn *sure* iawn	NST	NST
+376, 3	913, 1-3	RHO	be wnei di	---	NSNT
+
+
+377, 1	915, 1-5	SND	wnes i cyfrif pres côr	NSNT	NSNT
+377, 2	916, 1-5	SND	wnes i ddeud wrthat ti	NSNT	NSNT
+377, 3	917, 1-2	SND	pres cyngor	NSNT	NSNT
+377, 4	918, 1-1	SND	cyngor	NSNT	NSNT
+377, 5	919, 1-3	SND	cyngerdd côr neithiwr	---	NSNT
+
+
+378, 1	920, 1-6	RHO	do tri chant wyth_deg a pump	NSNT	NSNT
+378, 2	922, 1-2	RHO	dau gant	---	NSNT
+
+
+379, 1	923, 1-3	SND	pedwar pedwar dau	---	NSNT
+
+
+380, 1	924, 1-6	RHO	*oh* mae wedi mynd i_fyny felly	---	NST
+
+
+381, 1	926, 1-9	SND	pedwar pedwar dau ond wnes i cymryd pum_deg yn_do	NSNT	NSNT
+381, 2	927, 1-4	SND	*so* tri nine dau	NST	ST
+381, 3	928, 1-3	SND	tri nine dau	---	SNT
+
+
+382, 1	929, 1-3	RHO	tri nine dau	---	SNT
+
+
+383, 1	930, 1-3	SND	tri naw dau	---	NSNT
+
+
+384, 1	931, 1-7	RHO	be ti feddwl wnest ti gymryd pump_deg	---	NSNT
+
+
+385, 1	932, 1-7	SND	oedd arnon nhw pum_deg i fi ddo	---	NSNT
+
+
+386, 1	933, 1-7	RHO	*oh* *yeah* oedd ti wedi talu yr	NST	NST
+386, 2	935, 1-6	RHO	*oh* *yeah* dw i yn gwybod	---	NST
+
+
+387, 1	936, 1-7	SND	dw ddim yn *sure* pa un *group*	NST	NST
+387, 2	936, 8-11	SND	wnaeth cymryd o chwaith	NSNT	NSNT
+387, 3	937, 1-3	SND	ti yn cofio	---	NSNT
+
+
+388, 1	938, 1-2	RHO	*band* ieuenctid	NST	NST
+388, 2	940, 1-5	RHO	achos wnaeth y *rest* i_gyd	---	NST
+
+
+389, 1	941, 1-7	SND	oedd yr amlenni i_gyd efo ni yn_doedden	NSNT	NSNT
+389, 2	943, 1-16	SND	na ti ddim yn gwybod lle wnaeth y deg punt yna dod o *off* y *top*	---	NST
+
+
+390, 1	944, 1-2	RHO	dim syniad	NSNT	NSNT
+390, 2	946, 1-4	RHO	pres fi oedd o	NSNT	NSNT
+390, 3	946, 5-6	RHO	mae *sure*	---	NST
+
+
+391, 1	949, 1-11	SND	os ti ddim yn gwybod dim pres ti oedd o naci	---	NSNT
+
+
+392, 1	950, 1-5	RHO	*oh* baswn i yn ddeud	---	NST
+
+
+393, 1	951, 1-2	SND	nag oedd	---	NSNT
+
+
+394, 1	952, 1-2	RHO	ond pam	---	NSNT
+
+
+395, 1	954, 1-14	SND	*oh* ti cofio deud wrthat ti am y cerdyn Nadolig yna gaeth *Frank* *Mr_Jones*	NST	NST
+395, 2	956, 1-5	SND	wnaeth *Dawn* cael un heddi	NST	NST
+395, 3	958, 1-4	SND	enw hi ydy *X*	NST	NST
+395, 4	962, 1-6	SND	gaeth hi gerdyn arno fo *Mrs_Wardrobe*	NST	NST
+395, 5	963, 1-2	SND	blwyddyn chwech	NSNT	NSNT
+395, 6	964, 1-4	SND	oedd yna *joke* heddi	NST	NST
+395, 7	965, 1-3	SND	gen ti *Mrs_Wardrobe*	NST	NST
+395, 8	966, 1-6	SND	a pa un oedd y lion	SNT	SNT
+395, 9	967, 1-5	SND	pa un oedd y *witch*	NST	NST
+395, 10	968, 1-5	SND	hwnna edrych fath â Castell_Powys	NSNT	NSNT
+395, 11	970, 1-1	SND	dyna	NSNT	NSNT
+395, 12	970, 2-4	SND	be ydy o	NSNT	NSNT
+395, 13	973, 1-11	SND	dw i ddim yn cael sillafu diddorol iawn ar rei fi	---	NSNT
+
+
+396, 1	975, 1-4	RHO	*Hughes* wyt ti gael	---	NST
+
+
+397, 1	977, 1-2	SND	H_I_W_S ydy	NSNT	SNT
+397, 2	979, 1-4	SND	*yeah* fel arfer *Hiws*	---	NST
+
+
+398, 1	982, 1-1	RHO	*Hiws*	ST	NST
+398, 2	984, 1-6	RHO	does yna neb yn ddeud H_U_ws	---	NSNT
+
+
+399, 1	985, 1-3	SND	na ddim really	SNT	SNT
+399, 2	986, 1-6	SND	does yna ddim bobl Cymraeg yna	NSNT	NSNT
+399, 3	986, 7-8	SND	nag oes	---	NSNT
+
+
+400, 1	987, 1-2	RHO	nag oes	NSNT	NSNT
+400, 2	988, 1-7	RHO	ti ddim yn cael H_E_W_S nag wyt	---	SNT
+
+
+401, 1	989, 1-1	SND	*Hews*	---	NST
+
+
+402, 1	990, 1-1	RHO	*Hews*	---	NST
+
+
+403, 1	991, 1-2	SND	nag ydw	---	NSNT
+
+
+404, 1	992, 1-5	RHO	*oh* ges i hwnna ddoe	---	NST
+
+
+405, 1	993, 1-2	SND	gest ti	NSNT	NSNT
+405, 2	995, 1-2	SND	o lle	---	NSNT
+
+
+406, 1	996, 1-3	RHO	*fax* yn gwaith	---	NST
+
+
+407, 1	997, 1-1	SND	*Hews*	---	NST
+
+
+408, 1	998, 1-4	RHO	*Hews* *yeah* *Rhodri* *Hews*	ST	NST
+408, 3	1000, 1-4	RHO	who who's this for	---	NSNT
+
+
+409, 1	1002, 1-6	SND	o lle oedd o wedi dod	---	NSNT
+
+
+410, 1	1003, 1-1	RHO	*Lancashire*	ST	NST
+410, 2	1005, 1-3	RHO	rywle yn *Chorley*	---	NST
+
+
+411, 1	1006, 1-1	SND	*Chorley*	---	NST
+
+
+412, 1	1007, 1-1	RHO	*Chorley*	---	NST
+
+
+413, 1	1008, 1-11	SND	lle mae yr cakes cacennau yna yn dod o fan yna	SNT	SNT
+413, 2	1010, 1-1	SND	*Chorley_Cakes*	---	NST
+
+
+414, 1	1013, 1-6	RHO	mae *real* ginc o *foy* hefyd	NST	NST
+414, 2	1014, 1-7	RHO	achos wnes i ffonio fo bore yma	NSNT	NSNT
+414, 3	1016, 1-4	RHO	be oedd o ddeud	NSNT	NSNT
+414, 4	1017, 1-3	RHO	deud ei enw	SNT	NSNT
+414, 5	1018, 1-6	RHO	what *can* I do for you	ST	NST
+414, 6	1019, 1-1	RHO	dyna	NSNT	NSNT
+414, 7	1019, 2-5	RHO	oedd o ddeud bob	NSNT	NSNT
+414, 8	1019, 6-6	RHO	tro	NSNT	NSNT
+414, 9	1019, 7-8	RHO	oedd o	NSNT	NSNT
+414, 10	1019, 9-13	RHO	oedd o yn codi *phone*	---	NST
+
+
+415, 1	1020, 1-4	SND	be ydy *job* o	---	NST
+
+
+416, 1	1021, 1-6	RHO	mae yr un fath â fi	NSNT	NSNT
+416, 2	1023, 1-7	RHO	*so* oedd gynno fath â yr patter	NST	ST
+416, 3	1024, 1-2	RHO	this is	SNT	NSNT
+416, 4	1025, 1-4	RHO	dw ddim yn cofio	NSNT	NSNT
+416, 5	1025, 5-12	RHO	be ydy enw o ond *blah* *dee* *blah*	ST	NST
+416, 6	1027, 1-3	RHO	*Lancashire* County *Council*	ST	NST
+416, 7	1029, 1-11	RHO	toedd ddim toedd ddim yn sowndio fath â *Lancashire* chwaith ond	ST	NST
+416, 10	1032, 1-1	RHO	*Lancashire_Trading_Standards*	ST	NST
+416, 11	1033, 1-6	RHO	what *can* I do for you	---	NST
+
+
+417, 1	1034, 1-7	SND	o't ti ddim yn nabod o ta	---	NSNT
+
+
+418, 1	1036, 1-2	RHO	yn deud	SNT	NSNT
+418, 2	1037, 1-8	RHO	my man you *can* do nothing for *me*	---	NST
+
+
+419, 1	1038, 1-6	SND	*well* be oedd o isio gwybod	---	NST
+
+
+420, 1	1039, 1-13	RHO	*well* oedd o isio gwybod rywbeth am ryw gig wedi rhewi neu rywbeth	NST	NST
+420, 2	1041, 1-7	RHO	fi bron iawn â deud wrtho fo	NSNT	NSNT
+420, 3	1042, 1-14	RHO	os ti isio *help* pam na wnei di yrru manylion iawn yn lle cynta	NST	NST
+420, 4	1043, 1-15	RHO	wedyn fydd ddim raid fi ffonio chdi fyny i ofyn hanner y *story* gyn ti	NST	NST
+420, 5	1043, 16-17	RHO	na fydd	NSNT	NSNT
+420, 7	1045, 1-4	RHO	ond wnes i ddim	---	NSNT
+
+
+421, 1	1046, 1-2	SND	da iawn	---	NSNT
+
+
+422, 1	1048, 1-9	RHO	to'n i ddim meddwl basai yn syniad da iawn	NSNT	NSNT
+422, 2	1050, 1-4	RHO	dim deud y gwir	---	NSNT
+
+
+423, 1	1051, 1-9	SND	wnes i anghofio gofyn *Emma* am y pethau yma	---	NST
+
+
+424, 1	1052, 1-2	RHO	pa beth	NSNT	NSNT
+424, 2	1053, 1-5	RHO	fydd raid fi wneud yn_bydd	---	NSNT
+
+
+425, 1	1054, 1-13	SND	baswn i wedi gofyn iddi os o'n i ddim wedi fod yn sâl	NSNT	NSNT
+425, 2	1055, 1-3	SND	wnes i anghofio	NSNT	NSNT
+425, 3	1056, 1-5	SND	wnes i ddim gweld hi	NSNT	NSNT
+425, 4	1056, 6-6	SND	naddo	---	NSNT
+
+
+426, 1	1057, 1-3	RHO	paid â poeni	NSNT	NSNT
+426, 2	1058, 1-5	RHO	wna i ffonio fo fory	---	NSNT
+
+
+427, 1	1059, 1-5	SND	does isio gwneud cyn Dolig	NSNT	NSNT
+427, 2	1059, 6-6	SND	does	---	NSNT
+
+
+428, 1	1060, 2-3	RHO	basai *nice*	NST	NST
+428, 2	1060, 4-4	RHO	bysai	---	NSNT
+
+
+429, 1	1061, 1-10	SND	a yr peth yna dan fan yna yr un un	---	NSNT
+
+
+430, 1	1062, 1-12	RHO	*yeah* *well* os dan ni isio peintio hwnna beintio hwnna yr un	NST	NST
+430, 2	1062, 13-14	RHO	pryd bysai	NSNT	NSNT
+430, 3	1063, 1-5	RHO	does dim isio wneud hwnna	NSNT	NSNT
+430, 4	1063, 6-6	RHO	sti	NSNT	NSNT
+430, 5	1064, 1-10	RHO	*just* crafu yr *stuff* i_ffwrdd a beintio fo sy isio	---	NST
+
+
+431, 1	1066, 1-8	SND	ond dan ni ddim yn mynd i wneud	NSNT	NSNT
+431, 2	1066, 9-10	SND	nag dan	---	NSNT
+
+
+432, 1	1067, 1-3	RHO	be peintio fo	---	NSNT
+
+
+433, 1	1068, 1-3	SND	crafu na peintio	---	NSNT
+
+
+434, 1	1069, 1-9	RHO	*well* mae gen i scraper yn yr *er* *shed*	NST	ST
+434, 2	1071, 1-4	RHO	a mae gynno fi	---	NSNT
+
+
+435, 1	1072, 1-5	SND	na dim ni sy wneud	---	NSNT
+
+
+436, 1	1073, 1-5	RHO	pwy sy mynd i wneud	NSNT	NSNT
+436, 2	1073, 6-6	RHO	ta	---	NSNT
+
+
+437, 1	1074, 1-5	SND	pwy bynnag sy wneud hwn	---	NSNT
+
+
+438, 1	1075, 1-5	RHO	unig peth wneith *Frank* wneud	NST	NST
+438, 2	1075, 6-12	RHO	ydy sticio coving newydd i_fyny i chdi	NSNT	SNT
+438, 3	1076, 1-5	RHO	wneith o ddim beintio fo	NSNT	NSNT
+438, 4	1077, 1-12	RHO	ni wnaeth peintio yr covings a ballu yn yr ystafell arall yna	NSNT	SNT
+438, 5	1078, 1-3	RHO	ti yn cofio	---	NSNT
+
+
+439, 1	1079, 1-3	SND	yndw achos fi	NSNT	NSNT
+439, 2	1079, 4-4	SND	wnaeth	---	NSNT
+
+
+440, 1	1080, 1-3	RHO	*yeah* yn hollol	---	NST
+
+
+441, 1	1082, 1-7	SND	sut dan ni mynd i cael un	NSNT	NSNT
+441, 2	1082, 8-9	SND	sy matsio	---	NSNT
+
+
+442, 1	1083, 1-14	RHO	achos mae yr un *bit* o yr un gwreiddiol gynno fi yn y *car*	NST	NST
+442, 2	1084, 1-5	RHO	fedri di matsio hwnna fyny	NSNT	NSNT
+442, 3	1085, 1-12	RHO	dydyn nhw ddim yn gwerthu o yn *B_and_Q* achos wnes i sbïo	NST	NST
+442, 4	1086, 1-6	RHO	raid chdi fynd i builders merchant	---	SNT
+
+
+443, 1	1087, 1-1	SND	*Jewson's*	---	NST
+
+
+444, 1	1088, 1-2	RHO	*er* *Huws_Gray*	---	NST
+
+
+445, 1	1089, 1-1	SND	*Huws_Gray*	---	NST
+
+
+446, 1	1090, 1-3	RHO	a mae yna	NSNT	NSNT
+446, 2	1090, 4-4	RHO	mae	NSNT	NSNT
+446, 3	1090, 5-5	RHO	yr	NSNT	NSNT
+446, 4	1090, 6-16	RHO	mae yn deud enw yr peth ar cefn yr yr *bit*	NST	NST
+446, 5	1090, 17-17	RHO	sy	NSNT	NSNT
+446, 6	1090, 18-21	RHO	sy gynno fi anyway	SNT	SNT
+446, 7	1092, 1-2	RHO	*so* ddylai	NST	NST
+446, 8	1092, 3-8	RHO	bod o yn doddle i ffeindio	---	SNT
+
+
+447, 1	1093, 1-7	SND	os maen nhw dal yn gwerthu fe	---	NSNT
+
+
+448, 1	1094, 1-2	RHO	*well* dyna	NST	NST
+448, 2	1094, 3-4	RHO	ydy peth	---	NSNT
+
+
+449, 1	1095, 1-6	SND	dan ni ddim isio rywbeth gwahanol	NSNT	NSNT
+449, 2	1095, 7-8	SND	nag dan	---	NSNT
+
+
+450, 1	1096, 1-4	RHO	*well* ideally nag oes	---	ST
+
+
+451, 1	1097, 1-4	SND	be ti feddwl ideally	SNT	SNT
+451, 3	1099, 1-12	SND	os ddim yn matsio fydd raid ni tynny yr whole *thing* *off*	ST	ST

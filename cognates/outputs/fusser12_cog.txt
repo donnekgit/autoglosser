@@ -1,0 +1,4091 @@
+
+
+1, 1	1, 1-8	WEN	does yna ddim pethau bach cuddiedig na dim_byd	NSNT	NSNT
+1, 2	1, 9-10	WEN	nag oes	NSNT	NSNT
+1, 3	2, 1-10	WEN	o'n i *just* yn meddw am funud oes yna ryw	---	NST
+
+
+2, 1	3, 1-3	LUN	does yna ddim	NSNT	NSNT
+2, 2	3, 4-5	LUN	mae yna	NSNT	NSNT
+2, 3	3, 6-8	LUN	sbïwch y coed	NSNT	NSNT
+2, 4	4, 1-5	LUN	mae yr coed yn ddiddorol	---	NSNT
+
+
+3, 1	5, 1-1	WEN	ydyn	---	NSNT
+
+
+4, 1	6, 1-4	LUN	chi yn gweld nhw	NSNT	NSNT
+4, 2	7, 1-2	LUN	mae nhw	NSNT	NSNT
+4, 3	7, 3-8	LUN	mae nhw yn rhan o yr	NSNT	NSNT
+4, 4	9, 1-5	LUN	dach chi yn gweld hwnna	NSNT	NSNT
+4, 5	11, 1-3	LUN	mae yn ddiddorol	NSNT	NSNT
+4, 6	12, 1-10	LUN	mae nhw yn rhan o yr mynydd rywsut y siapiau	NSNT	NSNT
+4, 7	15, 1-10	LUN	ond bron iawn fath â petasen nhw yn *flat* ar	---	NST
+
+
+5, 1	16, 1-11	CEW	*well* mae nhw fath â yr coed *bananas* neu yr pethau	NST	NST
+5, 2	16, 12-18	CEW	sy ddim yn tyfu yn Lloegr hwnna	NSNT	NSNT
+5, 3	16, 19-19	CEW	dydy	NSNT	NSNT
+5, 4	18, 1-7	CEW	dyn nhw ddim yn realaidd iawn rheina	NSNT	NSNT
+5, 5	19, 1-12	CEW	ond mae yr rhei cynt yn fwy tebyg i goed go iawn	NSNT	NSNT
+5, 6	20, 1-7	CEW	*well* mae hwnna hwnna yn *right* realaidd	---	NST
+
+
+6, 1	21, 2-4	WEN	mae hwnna yn	---	NSNT
+
+
+7, 1	23, 1-4	CEW	ond mae rhein yn	---	NSNT
+
+
+8, 1	24, 1-3	WEN	mae yn amlwg	NSNT	NSNT
+8, 2	24, 4-5	WEN	bod o	---	NSNT
+
+
+9, 1	25, 1-7	CEW	ar goed ti yn cael ffordd hyn	NSNT	NSNT
+9, 2	27, 1-2	CEW	er mae	NSNT	NSNT
+9, 3	27, 3-5	CEW	honna yn rhyfedd	---	NSNT
+
+
+10, 1	28, 1-6	WEN	ond be oedd ei hanes o	NSNT	NSNT
+10, 2	28, 7-8	WEN	ta *Ceinwen*	NST	NST
+10, 3	28, 9-11	WEN	bod o yn	NSNT	NSNT
+10, 4	29, 1-1	WEN	sti	NSNT	NSNT
+10, 5	29, 2-4	WEN	dydy o ddim	NSNT	NSNT
+10, 6	29, 5-11	WEN	wedi bod mor enwog â hynny nac	NSNT	NSNT
+10, 7	30, 1-6	WEN	dydy o ddim mor enwog wrth_gwrs	NSNT	NSNT
+10, 8	30, 7-7	WEN	â	NSNT	NSNT
+10, 9	32, 1-5	WEN	*Blake* a ballu nac ydy	NST	NST
+10, 10	34, 1-6	WEN	er mae o yn arlunydd ardderchog	NSNT	NSNT
+10, 11	34, 7-7	WEN	dydy	---	NSNT
+
+
+11, 1	35, 1-3	LUN	mae hwn yn	---	NSNT
+
+
+12, 1	36, 1-2	WEN	sbïa di	NSNT	NSNT
+12, 2	36, 3-6	WEN	mae o yn dda	NSNT	NSNT
+12, 3	36, 7-7	WEN	dydy	---	NSNT
+
+
+13, 1	37, 1-3	LUN	yndy ardderchog yma	NSNT	NSNT
+13, 2	38, 1-11	LUN	wahanol yn_dydy yr golwg yn fan yna rywsut mymryn yn wahanol	---	NSNT
+
+
+14, 1	39, 1-2	WEN	*well* yndy	---	NST
+
+
+15, 1	40, 1-3	CEW	mae o yn	NSNT	NSNT
+15, 2	40, 4-6	CEW	mae o wedi	NSNT	NSNT
+15, 3	40, 7-9	CEW	mae mwsog yna	---	NSNT
+
+
+16, 1	41, 1-4	WEN	dim yn hollol yndy	---	NSNT
+
+
+17, 1	43, 1-3	LUN	yndy mymryn mwy	---	NSNT
+
+
+18, 1	44, 1-5	WEN	naturiol dydy fan yna wan	NSNT	NSNT
+18, 2	46, 1-12	WEN	ti meddwl na ar bapur mae lluniau yma wedi cael eu gwneud	---	NSNT
+
+
+19, 1	47, 1-4	CEW	rheina baswn i feddwl	NSNT	NSNT
+19, 2	49, 1-3	CEW	dyfrliw ydyn nhw	NSNT	NSNT
+19, 3	49, 4-9	CEW	de a a *pin* ac *ink*	---	NST
+
+
+20, 1	51, 1-11	LUN	*oh* mae hwn yn ie *pen* ac *ink* rhein yn edrych	---	NST
+
+
+21, 1	53, 1-6	WEN	awn ni ymlaen trwyddo fo ia	---	NSNT
+
+
+22, 1	54, 1-8	CEW	baswn i yn gallu troi yr gwres i_lawr	---	NSNT
+
+
+23, 1	55, 1-4	WEN	*oh* ia wela i	---	NST
+
+
+24, 1	56, 2-5	LUN	mae nhw coed mwy	---	NSNT
+
+
+25, 1	57, 1-1	WEN	Blake_aidd	---	NSNT
+
+
+26, 1	59, 1-4	LUN	*mmm* naturiol ffordd hyn	---	NST
+
+
+27, 1	60, 1-7	WEN	gweithio yn fanwl mae o ar y	NSNT	NSNT
+27, 2	63, 1-3	WEN	gweithio yn fanwl	NSNT	NSNT
+27, 3	64, 1-5	WEN	a mae rywun yn teimlo	NSNT	NSNT
+27, 4	64, 6-8	WEN	bod o awydd	NSNT	NSNT
+27, 5	65, 1-13	WEN	wsti ti yn cael y teimlad bod o awydd rhoi gwynebau a ballu	NSNT	NSNT
+27, 6	65, 14-15	WEN	dwyt bron	NSNT	NSNT
+27, 7	65, 16-19	WEN	dw i yn teimlo	---	NSNT
+
+
+28, 1	67, 2-3	LUN	mae o	NSNT	NSNT
+28, 2	67, 4-11	LUN	mae o *hmm* bron iawn chi weld rei	---	NST
+
+
+29, 1	68, 1-1	WEN	wsti	NSNT	NSNT
+29, 2	68, 2-5	WEN	wsti yn_does bron yn_does	NSNT	NSNT
+29, 3	69, 1-3	WEN	baswn i feddwl	NSNT	NSNT
+29, 4	69, 4-7	WEN	bod o yn trio	NSNT	NSNT
+29, 5	69, 8-9	WEN	rhoid ryw	NSNT	NSNT
+29, 6	70, 1-1	WEN	yn_does	---	NSNT
+
+
+30, 1	71, 1-3	LUN	mae hwn yn	---	NSNT
+
+
+31, 1	72, 1-6	WEN	rywun teimlo bod yna wynebau a	---	NSNT
+
+
+32, 1	73, 1-9	LUN	yndy dyma nhw yma *well* dyma nhw yr coed	NST	NST
+32, 2	73, 10-11	LUN	mae *sure*	NST	NST
+32, 3	74, 1-6	LUN	ei waith ydy hwnna ta *photograph*	---	NST
+
+
+33, 1	75, 1-7	CEW	*oh* *yeah* *yeah* na *photo* ydy hwnna	---	NST
+
+
+34, 1	78, 1-4	LUN	a mae yna ryw	---	NSNT
+
+
+35, 1	79, 1-3	CEW	mae nhw yn	NSNT	NSNT
+35, 2	79, 4-8	CEW	mae nhw yn edrych fel	NSNT	NSNT
+35, 3	79, 9-13	CEW	bod yna wynebau yna dydyn	---	NSNT
+
+
+36, 1	80, 1-7	LUN	fath â ryw *lava* rywsut wedi toddi	---	NST
+
+
+37, 1	81, 1-3	CEW	mae nhw yn	NSNT	NSNT
+37, 2	85, 1-4	CEW	mae hwnna yn un	NSNT	NSNT
+37, 3	85, 5-8	CEW	sy yn *right* enwog	NST	NST
+37, 4	85, 9-11	CEW	sy gael ei	NSNT	NSNT
+37, 5	85, 12-17	CEW	roid ar gardiau a pethau dipyn	---	NSNT
+
+
+38, 1	87, 1-5	LUN	mae o lun tlws iawn	NSNT	NSNT
+38, 2	88, 1-3	LUN	ryw liwiau tlws	NSNT	NSNT
+38, 3	90, 1-5	LUN	*oh* mae hwn yn wahanol	---	NST
+
+
+39, 1	91, 1-11	WEN	mae hwnna yn debyg i ryw fwy fath â ryw *Millet*	NST	NST
+39, 2	91, 12-18	WEN	dydy neu mewn ryw ryw olygfa bach	NSNT	NSNT
+39, 3	91, 19-19	WEN	sti	---	NSNT
+
+
+40, 1	94, 1-1	LUN	wladaidd	---	NSNT
+
+
+41, 1	95, 1-3	WEN	ia wladaidd ia	---	NSNT
+
+
+42, 1	96, 1-2	LUN	wladaidd iawn	---	NSNT
+
+
+43, 1	97, 1-2	CEW	*well* dyna	NST	NST
+43, 2	97, 3-9	CEW	ydy rhan fwya ohonyn nhw go iawn	---	NSNT
+
+
+44, 1	98, 1-6	WEN	ia ond mae o fath â	NSNT	NSNT
+44, 2	98, 7-17	WEN	petasai fo fwy dipyn bach fwy o *ddrama* na hynny hefyd	NST	NST
+44, 3	98, 18-18	WEN	does	---	NSNT
+
+
+45, 1	100, 1-7	LUN	yndy mewn rhei o ei luniau fo	NSNT	NSNT
+45, 2	101, 1-7	LUN	mae hwn eto braidd deud y gwir	---	NSNT
+
+
+46, 1	102, 1-4	WEN	mae o wedi gwirioni	---	NSNT
+
+
+47, 1	104, 1-6	CEW	ond mae rhein yn fwy diweddar	NSNT	NSNT
+47, 3	106, 1-4	CEW	basai hwnna wedi gallu	NSNT	NSNT
+47, 4	106, 5-7	CEW	bod gyn rywun	NSNT	NSNT
+47, 5	107, 1-7	CEW	dydy o ddim yn nodweddiadol ohono fo	---	NSNT
+
+
+48, 1	108, 1-2	WEN	nag ydy	---	NSNT
+
+
+49, 1	109, 1-2	LUN	ddim o_gwbl	---	NSNT
+
+
+50, 1	110, 1-4	WEN	mae gyn *George_Richard* arall	---	NST
+
+
+51, 1	111, 1-5	CEW	*oh* *oh* iawn dyna pam	NST	NST
+51, 2	111, 6-7	CEW	dyna pam	NSNT	NSNT
+51, 3	111, 8-11	CEW	bod nhw yn debyg	---	NSNT
+
+
+52, 1	117, 1-5	WEN	a mae *sure* na fo	NST	NST
+52, 2	117, 6-13	WEN	sy wedi gwneud hwn ti yn gweld *Ruth_Return_from_Gleaning*	---	NST
+
+
+53, 1	119, 1-3	LUN	*oh* na hwnna	---	NST
+
+
+54, 1	120, 1-4	WEN	dw i yn teimlo	---	NSNT
+
+
+55, 1	121, 1-13	CEW	because oedd yna rhai yn yr arddangosfa o *just* ei ffrindiau neu bobl	NST	ST
+55, 2	121, 14-20	CEW	oedd wedi dylanwadu arno fo a ballu	---	NSNT
+
+
+56, 1	124, 2-5	WEN	mae *sure* o ddifri	NST	NST
+56, 2	124, 6-10	WEN	bod o yn *er* feiblaidd	NST	NST
+56, 3	124, 11-11	WEN	dydy	---	NSNT
+
+
+57, 1	127, 1-9	CEW	*oh* mae hwnna yn y *Ruth_Returning* ond dim i_gyd	---	NST
+
+
+58, 1	128, 1-3	WEN	yn_dydy ddim i_gyd	NSNT	NSNT
+58, 2	129, 1-3	WEN	ond felly yn_does	---	NSNT
+
+
+59, 1	130, 1-6	CEW	o_gwmpas lle oedd o yn byw	---	NSNT
+
+
+60, 1	131, 1-3	LUN	romantic iawn rywsut	NSNT	SNT
+60, 2	133, 1-7	LUN	mae yna dŷ bach yn fan hyn	NSNT	NSNT
+60, 3	133, 8-8	LUN	does	---	NSNT
+
+
+61, 1	134, 1-11	CEW	mae o wrth ei fodd efo pethau yng ngolau yr lleuad	---	NSNT
+
+
+62, 1	135, 2-5	WEN	dw innau yn sylwi	NSNT	NSNT
+62, 2	135, 6-8	WEN	bod yna leuad	---	NSNT
+
+
+63, 1	136, 1-5	LUN	yndy o'n i yn gweld	NSNT	NSNT
+63, 2	136, 6-9	LUN	bod yna *lot* o	---	NST
+
+
+64, 1	137, 1-4	CEW	dw ddim yn gweld	NSNT	NSNT
+64, 2	137, 5-7	CEW	bai arno fo	---	NSNT
+
+
+65, 1	142, 1-4	WEN	*yeah* ti yn iawn	NST	NST
+65, 2	143, 1-4	WEN	mae gyn ti yr	---	NSNT
+
+
+66, 1	144, 1-7	LUN	*yeah* yr lleuad yn fawr yn ryw	---	NST
+
+
+67, 1	146, 1-1	WEN	*Woman_with_Full_Moon_and_Deer*	---	NST
+
+
+68, 1	147, 1-1	CEW	ear	---	NSNT
+
+
+69, 1	148, 1-2	LUN	na *Deer*	---	NST
+
+
+70, 1	149, 1-2	CEW	*Deer* *oh*	---	NST
+
+
+71, 1	150, 1-1	WEN	*Deer*	NST	NST
+71, 2	151, 1-1	WEN	*Deer*	---	NST
+
+
+72, 1	153, 1-7	CEW	*yeah* o'n i methu gweld y deer	---	ST
+
+
+73, 1	155, 1-4	WEN	na *Deer* ydy o	NST	NST
+73, 2	156, 1-2	WEN	carw de	---	NSNT
+
+
+74, 1	158, 1-2	CEW	ond dw	NSNT	NSNT
+74, 2	158, 3-5	CEW	lle mae o	NSNT	NSNT
+74, 3	159, 1-2	CEW	mae *sure*	NST	NST
+74, 4	159, 3-7	CEW	mae rhaid na fan yna	NSNT	NSNT
+74, 6	162, 1-5	CEW	ond dydy o ddim yn	NSNT	NSNT
+74, 7	163, 1-6	CEW	*oh* mae yna ychydig o geirw	NST	NST
+74, 8	166, 1-13	CEW	pan o'n i yn edrych ar y gwreiddiol o'n i yn methu dallt	---	NSNT
+
+
+75, 1	168, 1-9	WEN	*yeah* deer yn yr lluosog mae o yn feddwl	---	ST
+
+
+76, 1	169, 1-2	CEW	lluosog ia	NSNT	NSNT
+76, 2	170, 1-7	CEW	ia o'n i yn edrych am un	---	NSNT
+
+
+77, 1	173, 1-3	LUN	dyma fo *yeah*	NST	NST
+77, 2	174, 1-6	LUN	naci *oh* hwn ydy yr bryn	---	NST
+
+
+78, 1	175, 1-2	CEW	naci *George_Richmond*	NST	NST
+78, 2	176, 1-3	CEW	llun o *Sam*	---	NST
+
+
+79, 1	178, 1-2	WEN	hwnna ydy	---	NSNT
+
+
+80, 1	179, 1-5	CEW	mae yn edrych fel Iesu_Grist	NSNT	NSNT
+80, 2	182, 1-7	CEW	ond oedd o *um* ryw fudiad ramantaidd	NST	NST
+80, 3	183, 1-20	CEW	ac oedden nhw yn gwisgo fyny fel yna ac yn mynd o_gwmpas yn ac yn tyfu ac yn gwisgo dillad	---	NSNT
+
+
+81, 1	186, 1-11	WEN	ia ryw fath â ryw feirdd a ryw bethau yn_de ryw	---	NSNT
+
+
+82, 1	187, 1-3	CEW	ia rywbeth felly	---	NSNT
+
+
+83, 1	189, 1-4	LUN	*Shepherds_Under_the_Full_Moon* ydy hwn ylwch	---	NST
+
+
+84, 1	191, 1-3	CEW	dw licio hwnna	---	NSNT
+
+
+85, 1	192, 1-7	LUN	mae hwn yn fugail yn fan yna	NSNT	NSNT
+85, 2	193, 1-4	LUN	ydy hwn yn fugail	---	NSNT
+
+
+86, 1	194, 1-7	CEW	dw licio yr cymylau a yr holl	---	NSNT
+
+
+87, 1	195, 2-4	WEN	dw innau hefyd	---	NSNT
+
+
+88, 1	197, 1-6	CEW	*mmm* dw i ddim yn gwybod	---	NST
+
+
+89, 1	198, 1-5	WEN	mae o yn bwerus iawn	NSNT	NSNT
+89, 2	198, 6-7	WEN	dydy hwn	---	NSNT
+
+
+90, 1	201, 1-3	LUN	yndy drawiadol iawn	---	NSNT
+
+
+91, 1	202, 1-12	WEN	wedyn mae yna ryw arlunydd arall wedyn mwy *modern* o Gymru yma	NST	NST
+91, 2	202, 13-16	WEN	sy yn defnyddio hwn	NSNT	NSNT
+91, 3	204, 1-3	WEN	trio meddwl rŵan	---	NSNT
+
+
+92, 1	205, 1-8	CEW	mae o wrth ei fodd efo eglwysi hefyd	---	NSNT
+
+
+93, 1	206, 2-5	LUN	dw i wedi sylwi	NSNT	NSNT
+93, 2	206, 6-11	LUN	bod yna ambell i big yn	---	NSNT
+
+
+94, 1	207, 1-9	CEW	*lot* ohonyn nhw *just* yn y pellter yn rhywle	---	NST
+
+
+95, 1	210, 2-13	LUN	mae hwnna ddeud y gwir yn yr un un o rei cynta	NSNT	NSNT
+95, 2	210, 14-15	LUN	welson ni	---	NSNT
+
+
+96, 1	211, 1-3	WEN	*Church_by_Moonlight* yn_de *Cornfield_and_Church*	NST	NST
+96, 2	212, 1-4	WEN	*Cornfield_and_Church_by_Moonlight* wedyn mae hwnna	---	NST
+
+
+97, 1	213, 1-9	LUN	mae hwn yn un eto ryw liwiau cyfoethog ofnadwy	NSNT	NSNT
+97, 2	215, 1-3	LUN	mae o *nice*	---	NST
+
+
+98, 1	216, 1-1	CEW	*The_Magic*	ST	NST
+98, 3	218, 1-7	CEW	mae hi yn mor llawn o afalau	NSNT	NSNT
+98, 4	218, 8-12	CEW	dydy o ddim yn debyg	NSNT	NSNT
+98, 5	218, 13-13	CEW	bod	NSNT	NSNT
+98, 6	218, 14-18	CEW	gynni un dail hyd_yn_oed afalau	---	NSNT
+
+
+99, 1	220, 2-2	LUN	mae	NSNT	NSNT
+99, 2	221, 1-3	LUN	mae yn syrthio	---	NSNT
+
+
+100, 1	223, 1-5	WEN	mae yna rywbeth yn *fodern*	NST	NST
+100, 2	223, 6-8	WEN	does yno fo	NSNT	NSNT
+100, 3	223, 9-16	WEN	pan mae o yn gwneud pethau fel hyn	---	NSNT
+
+
+101, 1	225, 1-8	LUN	oes efo yr coed yna ar_draws a yr	---	NSNT
+
+
+102, 1	227, 1-5	WEN	yn y lliwiau a ballu	NSNT	NSNT
+102, 3	230, 1-1	WEN	yn_does	NSNT	NSNT
+102, 5	232, 1-14	WEN	yr oes yna yn_does mae yna rywbeth yn *fodern* mewn rywbeth fel yna yn_does	NST	NST
+102, 6	232, 15-15	WEN	wsti	NSNT	NSNT
+102, 7	232, 16-25	WEN	bod o yn trio rywsut dod â rywbeth newydd i_mewn	---	NSNT
+
+
+103, 1	236, 1-11	CEW	pobl yn torri ŷd yn fan a yr lle bron iawn	NSNT	NSNT
+103, 2	238, 1-2	CEW	*well* na	---	NST
+
+
+104, 1	240, 1-4	WEN	*well* ia sbïa di	NST	NST
+104, 2	240, 5-6	WEN	mae o	NSNT	NSNT
+104, 4	242, 1-4	WEN	mae yr lleuad yna	NSNT	NSNT
+104, 5	242, 5-10	WEN	ond bod o yn edrych fymryn	---	NSNT
+
+
+105, 1	243, 1-6	LUN	a dyma ni un arall hefyd	---	NSNT
+
+
+106, 1	244, 1-4	CEW	dechrau tywyllu mae raid	NSNT	NSNT
+106, 2	245, 1-1	CEW	mae	NSNT	NSNT
+106, 3	245, 2-19	CEW	ei dail a ei blodau hi *lot* rhy fawr i gymharu efo yr *boy* bach yn eistedd yn_tydyn	---	NST
+
+
+107, 1	246, 1-1	LUN	eglwys	---	NSNT
+
+
+108, 1	247, 1-2	CEW	dyna *nice*	---	NST
+
+
+109, 1	248, 2-4	LUN	mae nhw rywsut	---	NSNT
+
+
+110, 1	249, 1-7	WEN	a felly yn y *British_Museum* oedd hwn	NST	NST
+110, 2	251, 1-6	WEN	fedra i ddim feddwl am funud	NSNT	NSNT
+110, 3	251, 7-10	WEN	lle mae yr *British_Museum*	---	NST
+
+
+111, 1	253, 1-4	LUN	dim yr brif un	---	NSNT
+
+
+112, 1	254, 1-8	CEW	oedd o ddim yn bell iawn o *Euston*	NST	NST
+112, 2	255, 2-4	CEW	gynna i *fap*	NST	NST
+112, 3	256, 1-5	CEW	ond wnes i gadw fo	---	NSNT
+
+
+113, 1	258, 1-9	LUN	be ydy enw yr un yn *Trafalgar* y *National*	---	NST
+
+
+114, 1	259, 1-3	WEN	ia *The_National_Portrait* ydy	NST	NST
+114, 2	259, 4-4	WEN	honna	---	NSNT
+
+
+115, 1	260, 1-12	CEW	*oh* *yeah* *yeah* dydy yr *British_Museum* ddim yn ddim yn oriel gelf	NST	NST
+115, 3	262, 1-4	CEW	mae yn dangos bob_dim	NSNT	NSNT
+115, 4	262, 5-5	CEW	dydy	---	NSNT
+
+
+116, 1	263, 1-2	WEN	ydy bob_dim	NSNT	NSNT
+116, 2	263, 3-6	WEN	am bod yna ddau	NSNT	NSNT
+116, 3	265, 1-4	WEN	ia yr *National_Gallery* de	NST	NST
+116, 4	265, 5-6	WEN	ydy yr	---	NSNT
+
+
+117, 1	266, 1-5	LUN	*oh* *right* *yeah* mae yn	---	NST
+
+
+118, 1	267, 1-2	WEN	*National* ia	---	NST
+
+
+119, 1	268, 1-7	CEW	ia ia ia hwnnw ia ia ia	---	NSNT
+
+
+120, 1	269, 1-4	WEN	*National_Gallery* ydy yr un	---	NST
+
+
+121, 1	271, 1-7	LUN	*oh* *yeah* *so* be ydy hwn wan	---	NST
+
+
+122, 1	272, 1-4	WEN	a mae yr *Tate*	---	NST
+
+
+123, 1	273, 1-3	LUN	museum ydy hwn	---	SNT
+
+
+124, 1	274, 1-3	WEN	mae yr *Tate*	---	NST
+
+
+125, 1	276, 1-1	LUN	amgueddfa	---	NSNT
+
+
+126, 1	278, 1-9	WEN	ar yr afon dydy yr *Tate* ti yn gweld	NST	NST
+126, 2	278, 10-12	WEN	dydy ar y	---	NSNT
+
+
+127, 1	279, 1-6	LUN	mae yna *Date* yn Lerpwl hefyd	---	NST
+
+
+128, 1	282, 1-4	CEW	a mae yna *Date_Modern*	---	NST
+
+
+129, 1	284, 1-4	LUN	yn lle mae hwnna	---	NSNT
+
+
+130, 1	285, 1-5	CEW	*well* ar yr afon hefyd	---	NST
+
+
+131, 1	286, 1-3	WEN	ar yr afon	---	NSNT
+
+
+132, 1	288, 1-2	LUN	yn Llundain	---	NSNT
+
+
+133, 1	289, 1-6	WEN	ia *oh* ia yn Llundain ia	---	NST
+
+
+134, 1	290, 1-4	CEW	ia yn Llundain ia	---	NSNT
+
+
+135, 1	292, 1-4	WEN	wedyn mae yr *British_Museum*	---	NST
+
+
+136, 1	294, 1-5	CEW	bobl mynd i yr eglwys	NSNT	NSNT
+136, 2	296, 1-4	CEW	ond dw i meddwl	NSNT	NSNT
+136, 3	296, 5-10	CEW	mae hwnna yn lliw go iawn	---	NSNT
+
+
+137, 1	297, 1-1	LUN	ddylai	NSNT	NSNT
+137, 2	297, 2-9	LUN	bod o yn deud yn rywle fan yna	NSNT	NSNT
+137, 4	299, 1-12	LUN	basech chi meddwl basen nhw yn dangos o mewn lliw mewn gwirionedd	NSNT	NSNT
+137, 7	303, 1-7	LUN	hwyrach bod chi meddwl am lun tebyg	---	NSNT
+
+
+138, 1	304, 1-4	CEW	dw i yn *sure*	NST	NST
+138, 2	305, 1-5	CEW	*mmm* na dw i *sure*	NST	NST
+138, 3	305, 6-10	CEW	bod fi wedi gweld hwnna	---	NSNT
+
+
+139, 1	306, 1-12	LUN	mae yr eglwys a yr lleuad llawn a a yr coed i_gyd	NSNT	NSNT
+139, 2	309, 1-9	LUN	mae o yn fframio ei luniau efo ei goed	NSNT	NSNT
+139, 3	309, 10-10	LUN	dydy	---	NSNT
+
+
+140, 1	310, 1-4	CEW	mae hwnna mewn lliw	NSNT	NSNT
+140, 2	310, 5-5	CEW	te	NSNT	NSNT
+140, 3	311, 1-6	CEW	dw i ddim yn dallt pam	NSNT	NSNT
+140, 4	311, 7-9	CEW	bod nhw wedi	NSNT	NSNT
+140, 5	311, 10-15	CEW	roid o yn ddu a gwyn	---	NSNT
+
+
+141, 1	313, 2-12	LUN	mae yna goed bob amser gynno fo ar yr ochr yn_does	NSNT	NSNT
+141, 2	315, 1-5	LUN	mae o yn defnyddio nhw	---	NSNT
+
+
+142, 1	317, 1-12	CEW	dw i yn licio yr dail a yr blodau beth bynnag yna	---	NSNT
+
+
+143, 1	320, 1-4	WEN	gael gweld fan yna	---	NSNT
+
+
+144, 1	322, 1-3	LUN	dyna chi ddiddorol	NSNT	NSNT
+144, 2	323, 1-19	LUN	hwn ydy yr un un llun ond hwyrach ymlaen neu rywbeth neu mewn adeg gwahanol o yr dydd *yeah*	NST	NST
+144, 3	324, 1-13	LUN	mae yn debyg iawn i yr un yna gynt efo yr ddwy fuwch	NSNT	NSNT
+144, 4	326, 1-6	LUN	ond mae yna dair yn hwn	NSNT	NSNT
+144, 5	327, 1-6	LUN	a mae yna *dop* tŷ bach	---	NST
+
+
+145, 1	329, 1-6	WEN	sbïwch chi tua yr cefn yma	NSNT	NSNT
+145, 2	330, 1-3	WEN	y later years	---	SNT
+
+
+146, 1	331, 1-6	LUN	*yeah* hwyrach basai yn ddiddorol gweld	---	NST
+
+
+147, 1	332, 1-3	WEN	*oh* funud bach	---	NST
+
+
+148, 1	333, 1-5	CEW	dw i ddim yn meddwl	NSNT	NSNT
+148, 2	333, 6-9	CEW	bod hwnna yn cystal	NSNT	NSNT
+148, 3	333, 10-10	CEW	te	---	NSNT
+
+
+149, 1	334, 1-1	WEN	gweld	---	NSNT
+
+
+150, 1	337, 1-1	LUN	*Henry_Walter*	---	NST
+
+
+151, 1	339, 1-3	WEN	dyna ni rŵan	---	NSNT
+
+
+152, 1	340, 1-3	LUN	*oh* dyna fo	---	NST
+
+
+153, 1	342, 1-4	WEN	dw i ofn fflicio	NSNT	NSNT
+153, 3	344, 1-4	WEN	*oh* wela i rhein	NST	NST
+153, 4	344, 5-8	WEN	ydy yr later years	---	SNT
+
+
+154, 1	345, 1-10	CEW	mae o yn mynd yn fwy tebyg i bawb arall	---	NSNT
+
+
+155, 1	346, 2-3	WEN	mae o	NSNT	NSNT
+155, 2	347, 1-2	WEN	ydy debycach	NSNT	NSNT
+155, 3	349, 1-10	WEN	o'n i wedi meddwl bysai fo wedi mynd mwy *modern*	---	NST
+
+
+156, 1	350, 1-2	CEW	nag ydy	NSNT	NSNT
+156, 2	350, 3-6	CEW	mae o yn dirywio	---	NSNT
+
+
+157, 1	351, 1-4	WEN	ond tydy o ddim	NSNT	NSNT
+157, 2	352, 1-3	WEN	mae fel arall	NSNT	NSNT
+157, 3	353, 2-5	WEN	mae o yn dirywio	---	NSNT
+
+
+158, 1	355, 1-6	LUN	mae o newid yn gyfan gwbl	NSNT	NSNT
+158, 3	359, 1-4	LUN	pam dach chi meddwl	NSNT	NSNT
+158, 4	359, 5-7	LUN	bod hynna rywsut	---	NSNT
+
+
+159, 1	360, 1-6	CEW	*well* dw i ddim yn gwybod	NST	NST
+159, 2	361, 1-5	CEW	o'n i wedi siomi braidd	---	NSNT
+
+
+160, 1	362, 1-2	WEN	digon diddorol	---	NSNT
+
+
+161, 1	363, 1-5	CEW	oedd *Jen* wedi deud *oh*	NST	NST
+161, 2	363, 6-14	CEW	bod ei pethau bod well gynni hi pethau gynhara	---	NSNT
+
+
+162, 1	365, 1-3	WEN	ei ei bethau	NSNT	NSNT
+162, 2	366, 1-4	WEN	ia bod y pethau	---	NSNT
+
+
+163, 1	367, 1-8	CEW	a wedyn o'n i yn gytuno yn llwyr	---	NSNT
+
+
+164, 1	368, 1-3	LUN	ar yr amser	NSNT	NSNT
+164, 2	370, 1-15	LUN	yr amser yna yn yr yn yr later years yma pwy arall oedd yn peintio	NSNT	SNT
+164, 3	371, 1-4	LUN	pa fath arall o	---	NSNT
+
+
+165, 1	372, 1-1	WEN	*well*	---	NST
+
+
+166, 1	373, 1-6	CEW	*oh* dw i ddim yn gwybod	---	NST
+
+
+167, 1	374, 2-2	LUN	ei	NSNT	NSNT
+167, 2	374, 3-8	LUN	oedd yna rei go *fodern* a	---	NST
+
+
+168, 1	375, 1-5	WEN	dw i ddim yn *sure*	NST	NST
+168, 2	375, 6-7	WEN	lle oedd	---	NSNT
+
+
+169, 1	376, 1-7	CEW	oedd *Constable* a bobl fel yna ia	---	NST
+
+
+170, 1	377, 1-5	WEN	*Constable* baswn i yn ddeud	---	NST
+
+
+171, 1	379, 1-6	CEW	oedd o arbennig o boring *Constable*	ST	ST
+171, 2	379, 7-8	CEW	gynna i	---	NSNT
+
+
+172, 1	380, 1-2	LUN	a sut	---	NSNT
+
+
+173, 1	384, 1-9	WEN	ond mae gyn *Constable* lun tebyg iawn i hwn	NST	NST
+173, 2	384, 10-20	WEN	does ti yn gweld efo yr ci tu nôl a ballu	NSNT	NSNT
+173, 3	386, 1-2	WEN	basech chi	NSNT	NSNT
+173, 4	388, 1-3	WEN	ti yn gwybod	NSNT	NSNT
+173, 5	389, 1-9	WEN	y ci tu nôl a rywun yn mynd efo	---	NSNT
+
+
+174, 1	390, 1-9	CEW	*oh* dw i ddim yn gwybod am y ci	---	NST
+
+
+175, 1	391, 1-3	WEN	tebyg i *Constable*	---	NST
+
+
+176, 1	392, 1-7	CEW	a dw i *just* debyg i mi	---	NST
+
+
+177, 1	393, 1-7	WEN	*oh* yndy *Cornfield* a pethau fel yna	---	NST
+
+
+178, 1	394, 1-3	LUN	*oh* sbïwch hwn	NST	NST
+178, 2	395, 1-5	LUN	mae hwn yn un gwahanol	---	NSNT
+
+
+179, 1	396, 1-9	CEW	*mmm* mae hwnna yn fwy diddorol na yr llall	---	NST
+
+
+180, 1	397, 1-5	LUN	ryw gastell ydy o *yeah*	---	NST
+
+
+181, 1	399, 1-1	CEW	*Tintern*	---	NST
+
+
+182, 1	401, 2-8	LUN	mae hwn mwy diddorol a mwy nodweddiadol	---	NSNT
+
+
+183, 1	403, 1-6	CEW	mwy o awyrgylch iddo fo does	---	NSNT
+
+
+184, 1	404, 1-2	LUN	dyna fo	NSNT	NSNT
+184, 2	406, 1-7	LUN	mae o wedi stopio defnyddio yr coed	NSNT	NSNT
+184, 3	408, 1-6	LUN	a mae yr eglwys dal yna	NSNT	NSNT
+184, 4	409, 1-2	LUN	mae yr	---	NSNT
+
+
+185, 1	410, 1-4	CEW	yndy a yr goleuni	NSNT	NSNT
+185, 2	411, 1-5	CEW	ond dydy o ddim cystal	---	NSNT
+
+
+186, 1	412, 1-3	LUN	nag ydy rywsut	---	NSNT
+
+
+187, 1	413, 1-6	WEN	*well* na mae o fwy pastoral	ST	ST
+187, 2	413, 7-8	WEN	dydy mwy	---	NSNT
+
+
+188, 1	414, 1-4	CEW	mae yn llai trawiadol	NSNT	NSNT
+188, 2	414, 5-8	CEW	gynna i llai hudolus	---	NSNT
+
+
+189, 1	415, 2-5	WEN	ydy sicr fath â	NSNT	NSNT
+189, 2	415, 6-9	WEN	petasai fo yn trio	NSNT	NSNT
+189, 3	415, 10-15	WEN	bod yn fwy o ryw *um*	---	NST
+
+
+190, 1	417, 1-6	LUN	mae mwy fath â pawb arall	NSNT	NSNT
+190, 2	419, 1-5	LUN	mae hwn fwy fath â	---	NSNT
+
+
+191, 1	420, 1-3	WEN	mae yn *sure*	NST	NST
+191, 2	420, 4-9	WEN	bod o wedi dylanwadu ar *Constable*	NST	NST
+191, 3	420, 10-12	WEN	baswn i ddeud	---	NSNT
+
+
+192, 1	421, 1-3	CEW	*mmm* mae *sure*	---	NST
+
+
+193, 1	422, 1-1	WEN	yn_dydy	NSNT	NSNT
+193, 2	423, 1-3	WEN	baswn i ddeud	NSNT	NSNT
+193, 3	423, 4-8	WEN	bod ei ei waith o	---	NSNT
+
+
+194, 1	424, 1-5	CEW	ond ella fel arall hefyd	---	NSNT
+
+
+195, 1	425, 1-9	LUN	mae yr *person* yna i weld rywsut mwy fanwl	NST	NST
+195, 2	425, 10-11	LUN	na ei	NSNT	NSNT
+195, 3	427, 1-4	LUN	gweithoedd cynnar o rywsut	NSNT	NSNT
+195, 4	428, 1-2	LUN	yr yr	---	NSNT
+
+
+196, 1	430, 1-12	CEW	hwnna yn yn engraving neu woodcuts neu wsti wedi beintio rywsut yn_do	---	SNT
+
+
+197, 1	431, 1-2	LUN	mae raid	---	NSNT
+
+
+198, 1	432, 1-3	CEW	mae rhein i_gyd	NSNT	NSNT
+198, 2	432, 4-6	CEW	dw i meddwl	NSNT	NSNT
+198, 3	434, 1-3	CEW	ella dyna pam	NSNT	NSNT
+198, 4	434, 4-6	CEW	bod nhw yn	NSNT	NSNT
+198, 6	436, 1-6	CEW	na dim *just* hynna ydy o	---	NST
+
+
+199, 1	438, 1-4	WEN	ond un tebyg iawn	SNT	NSNT
+199, 2	439, 1-1	WEN	*The_Morning_of_Life*	---	NST
+
+
+200, 1	440, 1-4	CEW	hwnna wedi beintio do	NSNT	NSNT
+200, 3	442, 1-4	CEW	a hwnna hwyrach do	NSNT	NSNT
+200, 4	443, 1-10	CEW	dan ni ddim gorod siarad amdano fo drwy yr amser	---	NSNT
+
+
+201, 1	444, 1-3	WEN	nag ydan ella	NSNT	NSNT
+201, 2	444, 4-7	WEN	basai well i ni	---	NSNT
+
+
+202, 1	445, 1-3	CEW	because dydy o	NSNT	SNT
+202, 2	445, 4-6	CEW	dw i meddwl	NSNT	NSNT
+202, 3	445, 7-15	CEW	bod y sgwrs yn boring i wrando arno fo	---	SNT
+
+
+203, 1	446, 2-5	WEN	yndy *sure* o fod	---	NST
+
+
+204, 1	447, 1-9	LUN	*well* dydyn nhw ddim yn gweld y lluniau wedyn	---	NST
+
+
+205, 1	448, 1-4	WEN	dw innau yn teimlo	---	NSNT
+
+
+206, 1	449, 1-7	CEW	well i ni *um* siarad am rywbeth	---	NST
+
+
+207, 1	451, 1-7	WEN	well i ni siarad am rywbeth arall	---	NSNT
+
+
+208, 1	452, 1-4	CEW	sut ddylsai pethau fod	---	NSNT
+
+
+209, 1	454, 1-5	WEN	sut sut ddylsai pethau fod	NSNT	NSNT
+209, 2	455, 1-5	WEN	ond mae o yn ddiddorol	NSNT	NSNT
+209, 3	456, 1-4	WEN	a dw i falch	NSNT	NSNT
+209, 4	456, 5-8	WEN	bod fi wedi gweld	NSNT	NSNT
+209, 5	456, 9-11	WEN	pwy ydy o	NSNT	NSNT
+209, 6	456, 12-13	WEN	yn_de rywsut	NSNT	NSNT
+209, 7	458, 1-11	WEN	er bod fi yn gwybod nabod yr enw pan ddeudaist di	NSNT	NSNT
+209, 8	460, 1-6	WEN	ac o'n i yn meddwl tirluniau	NSNT	NSNT
+209, 9	461, 1-6	WEN	ond baswn i byth wedi meddwl	---	NSNT
+
+
+210, 1	463, 1-3	LUN	basai yn ddiddorol	NSNT	NSNT
+210, 2	463, 4-10	LUN	bod wedi cael gweld yr *um* arddangosfa	---	NST
+
+
+211, 1	464, 1-2	WEN	*mmm* bysai	---	NST
+
+
+212, 1	465, 1-1	LUN	yn_bysai	---	NSNT
+
+
+213, 1	466, 1-1	WEN	bysai	---	NSNT
+
+
+214, 1	467, 1-2	LUN	ond *yeah*	---	NST
+
+
+215, 1	468, 1-5	CEW	mae fe wedi mynd achan	---	NSNT
+
+
+216, 1	469, 1-4	LUN	do dros y bryniau	---	NSNT
+
+
+217, 1	472, 1-10	WEN	be gawn ni yn bwnc bwnc llosg i drafod rŵan	---	NSNT
+
+
+218, 1	474, 1-2	LUN	bwnc llosg	---	NSNT
+
+
+219, 1	475, 1-9	CEW	be ti meddwl am gael dy fomio gyn *Iran*	NST	NST
+219, 2	476, 1-6	CEW	ti meddwl basai hynna yn hwyl	NSNT	NSNT
+219, 5	479, 1-2	CEW	a wsti	NSNT	NSNT
+219, 6	479, 3-18	CEW	os ydy *Bush* yn cau tynnu nôl ac yn *just* yn dal i bwyso arnyn nhw	---	NST
+
+
+220, 1	480, 1-6	WEN	be mae o wedi wneud rŵan	NSNT	NSNT
+220, 2	481, 1-3	WEN	mae rhaid ti	NSNT	NSNT
+220, 3	482, 1-5	WEN	achos o'n i yn gwrando	---	NSNT
+
+
+221, 1	483, 1-2	LUN	yn union	NSNT	NSNT
+221, 2	484, 1-6	LUN	*oh* mae o wedi gwneud dau	NST	NST
+221, 3	484, 7-8	LUN	dw meddwl	---	NSNT
+
+
+222, 1	486, 1-5	CEW	dw i ddim yn gwybod	NSNT	NSNT
+222, 2	487, 1-1	CEW	mae	NSNT	NSNT
+222, 3	487, 2-5	CEW	mae yr brif *boy*	NST	NST
+222, 4	487, 6-10	CEW	dw i ddim yn cofio	NSNT	NSNT
+222, 5	487, 11-14	CEW	be ydy enw fo	---	NSNT
+
+
+223, 1	488, 1-5	WEN	mae *Bush* wedi deud rywbeth	---	NST
+
+
+224, 1	489, 1-8	LUN	*oh* mae yna ddau beth ar y funud	---	NST
+
+
+225, 1	490, 1-9	WEN	mae o wedi cyfeirio yn yr yn yr yn	NSNT	NSNT
+225, 2	490, 10-10	WEN	ei	---	NSNT
+
+
+226, 1	491, 1-3	CEW	deuda di ta	---	NSNT
+
+
+227, 1	492, 1-8	LUN	*well* o'n i meddwl bod y ddau beth	NST	NST
+227, 2	492, 9-14	LUN	mae nhw sôn y prif pethau	NSNT	NSNT
+227, 3	492, 15-24	LUN	mae nhw yn sôn heddiw ac ar y funud hon	NSNT	NSNT
+227, 4	492, 26-29	LUN	bod *Bush* wedi *um*	---	NST
+
+
+228, 1	493, 1-1	WEN	sôn	---	NSNT
+
+
+229, 1	494, 1-2	LUN	sôn *well*	NST	NST
+229, 2	495, 1-6	LUN	be mae nhw mynd i ddeud	NSNT	NSNT
+229, 3	495, 7-20	LUN	bod nhw mynd i wneud efo *Iran* rhoi nhw i yr i yr *um*	---	NST
+
+
+230, 1	496, 1-7	CEW	mynd â nhw at y Genhedloedd_Unedig yn_de	---	NSNT
+
+
+231, 1	497, 1-2	LUN	ie i	---	NSNT
+
+
+232, 1	498, 1-3	WEN	*oh* *yeah* mae	---	NST
+
+
+233, 1	499, 1-6	CEW	ie a mae o yn deud	---	NSNT
+
+
+234, 1	500, 1-17	LUN	mae o wedi gwneud ryw peth yna yn_do ryw *er* rhoi ryw araith am yr olew a	NST	NST
+234, 2	500, 18-20	LUN	sut mae *America*	---	NST
+
+
+235, 1	501, 1-3	CEW	mae pwy wedi	SNT	NSNT
+235, 2	502, 1-2	CEW	*boy* *Iran*	---	NST
+
+
+236, 1	503, 1-3	LUN	naci *Bush* wan	---	NST
+
+
+237, 1	504, 1-2	CEW	ta *Bush*	---	NST
+
+
+238, 1	506, 2-3	LUN	bod o	NSNT	NSNT
+238, 2	506, 4-4	LUN	bod	---	NSNT
+
+
+239, 1	507, 1-5	WEN	rywbeth efo *diplomacy* oedd o	NST	NST
+239, 2	507, 6-9	WEN	yn_de wedi gwneud ryw	NSNT	NSNT
+239, 3	508, 1-6	WEN	be mae o wedi ddeud *Ceinwen*	NST	NST
+239, 4	509, 1-2	WEN	deuda di	---	NSNT
+
+
+240, 1	510, 1-5	CEW	dw i ddim yn gwybod	NSNT	NSNT
+240, 2	511, 1-9	CEW	dw i ddim wedi darllen y peth yn fanwl	---	NSNT
+
+
+241, 1	512, 1-10	WEN	*oh* *yeah* ond dw i wedi gwrando ti yn gweld	NST	NST
+241, 2	513, 1-1	WEN	dyna	NSNT	NSNT
+241, 3	513, 2-4	WEN	ydy yr peth	---	NSNT
+
+
+241, 4	515, 1-8	WEN	a rŵan dw i methu cofio yn iawn	NSNT	NSNT
+242, 2	518, 1-7	CEW	mae nhw *just* yn mynd i ymosod	---	NST
+
+
+243, 1	519, 1-2	WEN	*oh* nefoedd	---	NST
+
+
+244, 1	521, 1-1	CEW	wsti	NSNT	NSNT
+244, 2	521, 2-3	CEW	mae nhw	NSNT	NSNT
+244, 3	523, 1-6	CEW	mae nhw mynd i ti gwybod	---	NSNT
+
+
+245, 1	525, 1-8	LUN	hwyrach bod yna ddim pwynt i recordio hwn	NSNT	NSNT
+245, 2	526, 1-8	LUN	achos efallai fydd yna neb yma i wrando	---	NSNT
+
+
+246, 1	527, 1-3	CEW	*well* yn union	NST	NST
+246, 2	528, 1-11	CEW	ond ond ella geith o ei ddarganfod gyn ryw species arall	NSNT	SNT
+246, 3	528, 12-17	CEW	sy wedi datblygu yn y dyfodol	NSNT	NSNT
+246, 5	531, 1-10	CEW	a fydd yn gweld lluniau ola ni ac yn meddwl	NSNT	NSNT
+246, 6	531, 11-14	CEW	bod o ddiddorol iawn	NSNT	NSNT
+246, 7	533, 1-11	CEW	ond fydd gan nhw ddigon o waith dysgu Cymraeg a bob_dim	---	NSNT
+
+
+247, 1	535, 1-1	LUN	cân	---	NSNT
+
+
+248, 1	536, 1-6	CEW	ond ella fyddan nhw mor ddeallus	NSNT	NSNT
+248, 2	536, 7-17	CEW	bod o yn hollol amlwg iddyn nhw o yr dechrau un	---	NSNT
+
+
+249, 1	538, 1-4	WEN	be oedden ni ddeud	---	NSNT
+
+
+250, 1	539, 1-3	LUN	fydd hi ddiddorol	NSNT	NSNT
+250, 2	539, 4-5	LUN	be ddigwyddith	---	NSNT
+
+
+251, 1	540, 1-8	WEN	ia *well* dydw i ddim yn meddwl llawer	NST	NST
+251, 2	540, 9-14	WEN	yn_de i ateb dy *guestion* di	---	NST
+
+
+252, 1	541, 1-7	CEW	ddim yn ddim yn licio yr syniad	---	NSNT
+
+
+253, 1	542, 1-14	WEN	dw i ddim yn meddwl llawer am gael y momio gyn *Iran* *right* *sure*	---	NST
+
+
+254, 1	543, 1-8	CEW	*well* yn rhyfedd iawn dydw innau ddim chwaith	NST	NST
+254, 2	545, 1-7	CEW	a dw i ddim yn gwybod pam	NSNT	NSNT
+254, 3	545, 8-15	CEW	bod rhaid i ni ddioddef o gamymddygiad *George_Bush*	---	NST
+
+
+255, 1	546, 1-6	LUN	na dydy o ddim deg o_gwbl	---	NSNT
+
+
+256, 1	549, 1-5	CEW	dydy o ddim fath â	NSNT	NSNT
+256, 2	549, 6-16	CEW	bod ni yn cefnogi hyd_yn_oed *Tony_Blair* heb sôn am *bloody* *Bush*	---	NST
+
+
+257, 1	550, 1-3	WEN	nac ydyn ni	NSNT	NSNT
+257, 2	551, 1-4	WEN	dw i yn gwybod	NSNT	NSNT
+257, 3	552, 1-4	WEN	mae hynny yn sobr	---	NSNT
+
+
+258, 1	553, 1-6	LUN	faint sy gynno fo ar_ôl rŵan	NSNT	NSNT
+258, 2	554, 1-8	LUN	sut faint sy yna ers yr etholiad dwytha	---	NSNT
+
+
+259, 1	556, 1-1	CEW	pwy	---	NSNT
+
+
+260, 1	557, 1-6	LUN	achos mond dwywaith geith o fynd	---	NSNT
+
+
+261, 1	558, 1-1	CEW	*Tony*	---	NST
+
+
+262, 1	559, 1-4	LUN	naci na *Bush* wan	---	NST
+
+
+263, 1	560, 1-1	CEW	*Bush*	---	NST
+
+
+264, 1	561, 1-8	LUN	tair mlynedd arall sy gynno fo ta llai	NSNT	NSNT
+264, 2	562, 1-3	LUN	llai o fymryn	NSNT	NSNT
+264, 3	563, 1-4	LUN	achos wyth mlynedd ydy	NSNT	NSNT
+264, 4	563, 5-5	LUN	yr	NSNT	NSNT
+264, 5	563, 6-6	LUN	hira	---	NSNT
+
+
+265, 1	564, 1-10	CEW	ia hwyrach llai ond dim *lot* llai baswn i meddwl	---	NST
+
+
+266, 1	565, 1-10	WEN	os ia dau dau gyfnod o ia o bedair blynedd	---	NSNT
+
+
+267, 1	567, 1-10	CEW	ia ond dydy hynna ddim yn bodoli efo rei ni	NSNT	NSNT
+267, 2	567, 11-12	CEW	nag ydy	---	NSNT
+
+
+268, 1	568, 1-3	WEN	nac ydy *oh*	NST	NST
+268, 2	568, 4-6	WEN	nag ydy na	---	NSNT
+
+
+269, 1	570, 1-6	LUN	*oh* na dw i yn gwybod	---	NST
+
+
+270, 1	571, 1-4	WEN	na mae gyn *Bush*	---	NST
+
+
+271, 1	572, 1-6	CEW	*yeah* *yeah* na dw i gwybod	---	NST
+
+
+272, 1	573, 1-2	WEN	mae *sure*	NST	NST
+272, 2	573, 3-10	WEN	bod gynno fo ryw dair blynedd ar_ôl wan	NSNT	NSNT
+272, 3	573, 11-11	WEN	does	---	NSNT
+
+
+273, 1	574, 1-5	CEW	ond *just* difaru dw i	NST	NST
+273, 2	576, 1-2	CEW	*bity* garw	---	NST
+
+
+274, 1	577, 1-5	LUN	be mae o yn feddwl	NSNT	NSNT
+274, 2	578, 1-10	LUN	sgwn i be mae o yn feddwl o yr peth	NSNT	NSNT
+274, 3	579, 1-7	LUN	ydy o ddim ofn cael ei fomio	NSNT	NSNT
+274, 4	580, 1-11	LUN	bechod na achos fydd o mewn ryw *nuclear* *bunker* yn rywle	NST	NST
+274, 5	580, 12-13	LUN	mae *sure*	---	NST
+
+
+275, 1	581, 1-3	CEW	*oh* geith o	NST	NST
+275, 2	581, 4-11	CEW	geith o gychwyn rhyfel *nuclear* heb feddwl ddwywaith	NST	NST
+275, 3	583, 1-6	CEW	dydy o ddim bwys gynno fo	NSNT	NSNT
+275, 4	585, 1-10	CEW	does gynno fo ddim digon yn ei ben i ddychmygu	NSNT	NSNT
+275, 5	585, 11-14	CEW	be fydd y canlyniadau	---	NSNT
+
+
+276, 1	586, 1-2	LUN	ofnadwy de	NSNT	NSNT
+276, 2	587, 1-8	LUN	sut bod o wedi medru cael mynd i_fewn	NSNT	NSNT
+276, 3	588, 1-5	LUN	dw i ddim yn dallt	---	NSNT
+
+
+277, 1	590, 1-19	CEW	*well* yn anonest iawn drwy *lot* o bobl gefnogi fo ac yn twyllo yn y ddau *um* ddwy etholiad	---	NST
+
+
+278, 1	594, 1-6	LUN	ond twyllo mae hynna yn ofnadwy	NSNT	NSNT
+278, 2	594, 7-7	LUN	dydy	---	NSNT
+
+
+279, 1	596, 1-3	WEN	ond be sy	NSNT	NSNT
+279, 2	596, 4-9	WEN	wedi bod yn digwydd felly rywsut	NSNT	NSNT
+279, 3	597, 1-1	WEN	wsti	NSNT	NSNT
+279, 4	597, 2-5	WEN	dydw i ddim *quite*	NST	NST
+279, 5	598, 1-7	WEN	er bod fi yn gwrando ar yr	---	NSNT
+
+
+280, 1	599, 1-1	LUN	Radio_Pedwar	---	NSNT
+
+
+281, 1	600, 1-6	WEN	Radio_Pedwar yn y bore a bob_dim	NSNT	NSNT
+281, 2	601, 1-3	WEN	ond wsti tra	NSNT	NSNT
+281, 3	601, 4-8	WEN	mae nhw wrthi efo *Iraq*	NST	NST
+281, 4	602, 1-5	WEN	a rŵan mae *Iran* yn	NST	NST
+281, 5	602, 6-6	WEN	wsti	---	NSNT
+
+
+282, 1	603, 1-4	CEW	*well* mae nhw wedi	NST	NST
+282, 2	603, 5-6	CEW	mae *Iran*	NST	NST
+282, 3	603, 7-20	CEW	wedi bod yn wedi cael ei gwahardd rhag fynd dim bellach efo rywbeth *nuclear*	---	NST
+
+
+283, 1	605, 1-1	WEN	ydyn	NSNT	NSNT
+283, 2	606, 1-3	WEN	ond mae nhw	---	NSNT
+
+
+284, 1	607, 1-7	CEW	a wedyn mae nhw wedi deud *well*	NST	NST
+284, 2	608, 1-8	CEW	damia chi dan ni mynd i fynd ymlaen	---	NSNT
+
+
+285, 1	609, 1-4	WEN	dan ni mynd ymlaen	---	NSNT
+
+
+286, 1	612, 1-4	CEW	a wedyn mae *America*	NST	NST
+286, 2	612, 5-8	CEW	mae *sure* wedi deud	NST	NST
+286, 3	613, 1-9	CEW	*well* awn ni â chi at y y Genhedloedd_Unedig	---	NST
+
+
+287, 1	614, 1-6	WEN	*well* mae yna *lot* o wledydd	NST	NST
+287, 2	614, 7-18	WEN	does Ffrainc a bob man yn dod at ei_gilydd i i riportio	NSNT	NSNT
+287, 3	617, 1-6	WEN	wedyn mae nhw mynd i rŵan	NSNT	NSNT
+287, 4	617, 7-7	WEN	wsti	---	NSNT
+
+
+288, 1	618, 1-14	LUN	y peth ydy hyd_yn_oed petasen nhw petasen nhw yn deud wrth yr yr *um*	NST	NST
+288, 2	618, 15-20	LUN	be ydy enwau nhw yr Cenhedloedd_Unedig	NSNT	NSNT
+288, 3	618, 21-28	LUN	bod nhw ddim yn gwneud dim_byd efo *nuclear*	NST	NST
+288, 4	618, 29-32	LUN	mae yn debyg y	NSNT	NSNT
+288, 5	618, 33-39	LUN	bysen nhw yn gyfrinachol yn_bysen beth bynnag	---	NSNT
+
+
+289, 1	619, 1-5	CEW	*well* os fysai nhw deud	NST	NST
+289, 2	619, 6-8	CEW	bod nhw ddim	NSNT	NSNT
+289, 3	619, 9-20	CEW	basai raid nhw adael yr *um* bobl i_mewn i sbïo fel fel	NST	NST
+289, 4	619, 21-28	CEW	oedd raid i *Iraq* wneud o yr blaen	---	NST
+
+
+290, 1	621, 1-1	LUN	bysai	NSNT	NSNT
+290, 2	623, 1-1	LUN	bysai	---	NSNT
+
+
+291, 1	624, 1-11	CEW	ond *um* mae yn gyfle euraid i *George_Bush* cael rhyfel arall	NST	NST
+291, 2	624, 12-12	CEW	dydy	---	NSNT
+
+
+292, 1	626, 1-3	WEN	*oh* nefoedd ofnadwy	---	NST
+
+
+293, 1	627, 1-3	LUN	gynno fo ryw	---	NSNT
+
+
+294, 1	628, 1-5	CEW	mae o wrth ei fodd	NSNT	NSNT
+294, 4	632, 1-5	CEW	dw i ddim yn gwybod	---	NSNT
+
+
+295, 1	633, 2-2	WEN	wsti	---	NSNT
+
+
+296, 1	634, 1-14	CEW	*well* dydy o ddim yn mynd i fod yn boblogaidd gyn ei bobl adre	NST	NST
+296, 2	634, 15-19	CEW	nag ydy ar_ôl yr holl	---	NSNT
+
+
+297, 1	636, 1-9	WEN	ond sut felly bod o wedi ffysan gymaint ynglŷn	NSNT	NSNT
+297, 2	636, 10-11	WEN	â *Saddam_Hussein*	NST	NST
+297, 3	636, 12-14	WEN	a ei *nuclear*	NST	NST
+297, 4	638, 1-8	WEN	pan oedd yna ddim *nuclear* yna beth bynnag	NST	NST
+297, 6	641, 1-4	WEN	mae yna yn *Iran*	NST	NST
+297, 7	644, 1-2	WEN	wsti be	NSNT	NSNT
+297, 8	644, 3-10	WEN	sut mae pethau fel yna yn wedi digwydd	NSNT	NSNT
+297, 9	646, 1-6	WEN	dw i ddim wedi dallt *quite*	NST	NST
+297, 10	646, 7-10	WEN	be ydy hynna rywsut	---	NSNT
+
+
+298, 1	647, 1-5	LUN	na mae yn anodd deud	NSNT	NSNT
+298, 2	648, 1-12	LUN	achos mae yna ryw lol pobl yn deud *oh* na yr olew	NST	NST
+298, 3	648, 13-16	LUN	mae nhw isio felly	---	NSNT
+
+
+299, 1	649, 1-5	CEW	olew oedd o yn amlwg	NSNT	NSNT
+299, 2	649, 6-8	CEW	yn_te efo *Iraq*	---	NST
+
+
+300, 1	650, 1-5	WEN	ia olew oedd hi ia	---	NSNT
+
+
+301, 1	653, 1-11	CEW	a wedyn efo *Iran* ella mai nukes ydy o go iawn	NST	ST
+301, 2	654, 1-11	CEW	neu ella bod o *just* yn esgus eto dros rywbeth arall	---	NST
+
+
+302, 1	656, 1-5	WEN	a beth am yr *Afghanistan*	---	NST
+
+
+303, 1	657, 1-6	CEW	dw i ddim yn gwybod beth	NSNT	NSNT
+303, 2	657, 7-12	CEW	sy yn digwydd yn fan yna	---	NSNT
+
+
+304, 1	658, 1-3	LUN	*well* dw i	NST	NST
+304, 2	658, 4-7	LUN	dw i wedi clywed	NSNT	NSNT
+304, 3	658, 8-20	LUN	bod nhw wedi cael ryw fath o ryfel o *Afghanistan* neu rywun wedi	NST	NST
+304, 4	659, 1-5	LUN	dw i ddim wedi dallt	---	NSNT
+
+
+305, 1	660, 1-10	CEW	mae nhw gyrru *lot* o bobl yna dydyn o Loegr	---	NST
+
+
+306, 1	663, 2-11	WEN	a mae nhw yn gyrru rŵan tair neu bedair mil	NSNT	NSNT
+306, 2	663, 12-14	WEN	dyn o o	NSNT	NSNT
+306, 3	663, 15-15	WEN	wsti	---	NSNT
+
+
+307, 1	665, 1-5	LUN	because mae *Aled* yn mynd	---	ST
+
+
+308, 1	666, 1-4	CEW	mae *Aled* yn mynd	---	NST
+
+
+309, 1	670, 1-8	WEN	mae nhw yn tair mil neu bedair mil	NSNT	NSNT
+309, 2	670, 9-18	WEN	mae nhw yn gyrru i ryw ddarn o *Afghanistan* lle	NST	NST
+309, 3	670, 19-22	WEN	na dyn nhw ddim	---	NSNT
+
+
+310, 1	673, 1-6	CEW	ond dw i ddim yn dallt	NSNT	NSNT
+310, 2	675, 1-13	CEW	ond oedd *Taliban* yn_erbyn yr *opium* a wedi gael gwared ohono fo tra	NST	NST
+310, 3	675, 14-16	CEW	oedden nhw reoli	---	NSNT
+
+
+311, 1	676, 1-11	WEN	*oh* *well* oedden nhw yn deud ar yr peth diwrnod o_blaen	NST	NST
+311, 2	676, 12-12	WEN	wsti	NSNT	NSNT
+311, 3	676, 13-19	WEN	bod y *Taliban* yn go iawn yn	---	NST
+
+
+312, 1	677, 1-1	LUN	Radio_Pedwar	---	NSNT
+
+
+313, 1	678, 1-6	CEW	wedi cael gwared ohono fo llwyr	---	NSNT
+
+
+314, 1	679, 1-4	LUN	ryw oruchwylio yr oruchwylio	---	NSNT
+
+
+315, 1	680, 1-9	WEN	*well* yn rheoli yr peth wsti na nhw sydd	---	NST
+
+
+316, 1	682, 1-2	CEW	rhyfedd de	---	NSNT
+
+
+317, 1	685, 1-5	LUN	oes yna ddim posib deud	NSNT	NSNT
+317, 2	685, 6-9	LUN	be mae nhw wneud	NSNT	NSNT
+317, 3	686, 1-3	LUN	dach chi meddwl	NSNT	NSNT
+317, 4	686, 4-12	LUN	bod y peth *Iraq* rywbeth i wneud efo *Iran*	NST	NST
+317, 5	686, 13-15	LUN	bod nhw isio	NSNT	NSNT
+317, 7	688, 1-5	LUN	dw i ddim yn gwybod	NSNT	NSNT
+317, 8	689, 1-3	LUN	mae yn dibynnu	NSNT	NSNT
+317, 9	689, 4-14	LUN	be oedden nhw feddwl *Bush* a *Blair* cyn mynd i *Iraq*	NST	NST
+317, 10	690, 1-4	LUN	oedden nhw yn meddwl	NSNT	NSNT
+317, 11	690, 5-7	LUN	bysai gyn *Iraq*	NST	NST
+317, 12	691, 1-5	LUN	ta oedden nhw yn gwybod	NSNT	NSNT
+317, 13	691, 6-8	LUN	bod yna ddim	---	NSNT
+
+
+318, 1	692, 1-4	CEW	oedden nhw yn gwybod	NSNT	NSNT
+318, 2	692, 5-7	CEW	bod yna ddim	---	NSNT
+
+
+319, 1	693, 1-5	WEN	*oh* oedden nhw yn gwybod	---	NST
+
+
+320, 1	695, 1-8	CEW	oedd o yn esgus i dwyllo yr cyhoedd	---	NSNT
+
+
+321, 1	696, 1-4	WEN	oedd o yn esgus	---	NSNT
+
+
+322, 1	697, 1-6	LUN	because mae *Colin_Powell* wedi deud wan	NST	ST
+322, 2	697, 7-8	LUN	bod o	NSNT	NSNT
+322, 3	697, 9-13	LUN	bod o ddim yn gwybod	NSNT	NSNT
+322, 4	697, 14-17	LUN	ond bod o wedi	NSNT	NSNT
+322, 5	697, 18-21	LUN	rhoid y wybodaeth anghywir	NSNT	NSNT
+322, 6	697, 22-26	LUN	bod heb wybod ei hun	---	NSNT
+
+
+323, 1	699, 1-5	CEW	oedden nhw gyd yn gwybod	NSNT	NSNT
+323, 2	700, 1-4	CEW	oedden ni yn gwybod	---	NSNT
+
+
+324, 1	702, 1-1	WEN	oedden	---	NSNT
+
+
+325, 1	703, 1-4	LUN	*oh* *yeah* dyna wrth_gwrs	---	NST
+
+
+326, 1	704, 1-12	CEW	oedd rywun efo rywbeth yn ei ben yn gwybod hyd_yn_oed y cyhoedd	NSNT	NSNT
+326, 2	704, 13-21	CEW	sy ddim yn cael gwybod yr holl bethau cyfrinachol	NSNT	NSNT
+326, 3	706, 1-5	CEW	oedd o yn hollol amlwg	---	NSNT
+
+
+327, 1	707, 1-5	WEN	a mi ddeudodd y dyn	NSNT	NSNT
+327, 2	708, 1-4	WEN	pwy oedd yr expert	SNT	SNT
+327, 3	708, 5-14	WEN	oedd yn mynd i_mewn i sbïo wyddost ti yr dyn	NSNT	NSNT
+327, 4	709, 1-5	WEN	be ydy enw fo dŵad	---	NSNT
+
+
+328, 1	710, 1-1	CEW	*Blix*	---	NST
+
+
+329, 1	711, 1-2	WEN	*Blinx* ia	---	NST
+
+
+330, 1	712, 1-1	CEW	*Blix*	---	NST
+
+
+331, 1	713, 1-2	WEN	*Blix* ia	NST	NST
+331, 2	715, 1-3	WEN	ddeudodd o yn_do	NSNT	NSNT
+331, 3	715, 4-6	WEN	bod o ddim	NSNT	NSNT
+331, 4	715, 7-12	WEN	bod yna ddim ti yn gweld	---	NSNT
+
+
+332, 1	716, 1-5	CEW	bod yna ddim *mmm* *mmm*	---	NST
+
+
+333, 1	717, 1-5	WEN	ond mynd ddaru nhw wedyn	---	NSNT
+
+
+334, 1	718, 1-16	CEW	a petasen petasen nhw o ddifri basen nhw wedi gadael iddo fo fynd ymlaen a ffeindio	NSNT	NSNT
+334, 2	718, 17-19	CEW	be oedd yna	NSNT	NSNT
+334, 3	719, 1-6	CEW	ond wnaethon nhw dynnu fo allan	NSNT	NSNT
+334, 4	720, 1-10	CEW	achos basai gynnyn nhw ddim esgus ar_ôl petasen nhw ffeindio	NSNT	NSNT
+334, 5	720, 11-13	CEW	bod yna ddim_byd	NSNT	NSNT
+334, 6	722, 1-3	CEW	dyna faint o	---	NSNT
+
+
+335, 1	725, 1-10	WEN	a wedyn mewn ffordd y y pwynt mae yn *sure*	NST	NST
+335, 2	725, 12-20	WEN	wsti stopio y ffaith bod gynnyn nhw ddim *nuclear*	NST	NST
+335, 3	725, 21-26	WEN	a bod *Saddam_Hussein* yn ddyn drwg	NST	NST
+335, 4	726, 1-1	WEN	dyna	NSNT	NSNT
+335, 5	726, 2-4	WEN	be oedd yr	NSNT	NSNT
+335, 6	726, 5-5	WEN	dyna	NSNT	NSNT
+335, 7	726, 6-12	WEN	be oedden nhw yn ddefnyddio i gael	---	NSNT
+
+
+336, 1	728, 1-4	CEW	ond ynhw oedd wedi	NSNT	NSNT
+336, 2	728, 5-15	CEW	roid o yna i ddechrau a wedi arfu fo arfogi fo	NSNT	NSNT
+336, 4	733, 1-10	CEW	a fel yna sy yn digwydd yn aml dros ben	NSNT	NSNT
+336, 5	734, 1-1	CEW	gwin	---	NSNT
+
+
+337, 1	737, 1-1	WEN	tropyn	---	NSNT
+
+
+338, 1	738, 1-2	LUN	*yeah* tropyn	---	NST
+
+
+339, 1	741, 1-5	WEN	ar y tâp yna hwyrach	---	NSNT
+
+
+340, 1	743, 1-6	CEW	petaswn i yn *Iraq* neu *Iran*	NST	NST
+340, 2	743, 7-13	CEW	basai yr dropyn o win yn anghyfreithlon	---	NSNT
+
+
+341, 1	745, 1-6	WEN	*oh* baswn i ddim yn synnu	---	NST
+
+
+342, 1	746, 1-5	LUN	na yn enwedig i ferched	---	NSNT
+
+
+343, 1	748, 1-1	WEN	diolch	---	NSNT
+
+
+344, 1	749, 1-2	CEW	*well* *yeah*	---	NST
+
+
+345, 1	750, 1-1	WEN	bendigedig	---	NSNT
+
+
+346, 1	751, 1-5	LUN	ie a finnau mond mymryn	SNT	NSNT
+346, 2	752, 1-1	LUN	*stop*	ST	NST
+346, 3	753, 1-3	LUN	diolch yn fawr	---	NSNT
+
+
+347, 1	755, 1-1	WEN	diolch	NSNT	NSNT
+347, 2	756, 1-5	WEN	*right* dan ni wedi trafod	---	NST
+
+
+348, 1	757, 1-1	CEW	gwleidyddiaeth	---	NSNT
+
+
+349, 1	758, 1-3	LUN	dan ni wedi	NSNT	NSNT
+349, 2	758, 4-8	LUN	rhoid *Bush* yn ei le	---	NST
+
+
+350, 1	759, 1-2	WEN	*well* do	NST	NST
+350, 2	759, 3-6	WEN	dan ni ddim wedi	NSNT	NSNT
+350, 3	759, 7-13	WEN	rhoid o yn ei le chwaith wrth_gwrs	NSNT	NSNT
+350, 5	761, 1-4	WEN	achos y peth ydy	NSNT	NSNT
+350, 6	761, 5-6	WEN	dw i	---	NSNT
+
+
+351, 1	762, 1-5	LUN	*oh* mae yn anodd gwybod	NST	NST
+351, 2	763, 1-6	LUN	mae yna gymaint o ryw *um*	NST	NST
+351, 3	763, 7-11	LUN	dach chi gwybod ryw media	---	SNT
+
+
+352, 1	765, 1-3	WEN	*oh* dw i	NST	NST
+352, 2	766, 1-5	WEN	dw i ddim yn ddallt	NSNT	NSNT
+352, 3	766, 6-11	WEN	dw i ddim yn dallt *quite*	NST	NST
+352, 4	766, 13-16	WEN	mae rhaid mi ddeud	---	NSNT
+
+
+353, 1	768, 1-10	CEW	*oh* dw i ddim yn dallt yn dda iawn chwaith	---	NST
+
+
+354, 1	770, 1-2	LUN	mae bob_dim	NSNT	NSNT
+354, 2	770, 3-6	LUN	sy yn cael ei	NSNT	NSNT
+354, 3	770, 7-15	LUN	roid i yr papur newydd ac yn y newyddion	NSNT	NSNT
+354, 4	770, 16-29	LUN	dw i yn teimlo wedi cael ei wisgo i_fyny efo ryw media *propaganda* mawr	---	ST
+
+
+355, 1	771, 1-1	CEW	achos	NSNT	NSNT
+355, 2	772, 1-2	CEW	yn union	NSNT	NSNT
+355, 3	773, 1-5	CEW	dydyn ni ddim yn gael	---	NSNT
+
+
+356, 1	775, 1-4	LUN	oes yna ddim posib	NSNT	NSNT
+356, 3	777, 1-10	LUN	dw i yn cael llond bol o yr newyddion am	NSNT	NSNT
+356, 4	777, 11-15	LUN	am bod fi methu trystio	---	NSNT
+
+
+357, 1	778, 2-3	WEN	mae o	---	NSNT
+
+
+359, 1	782, 1-9	WEN	na a wedyn mae *Israel* a Palestine a ballu	NST	ST
+359, 2	783, 1-3	WEN	mae yn un	NSNT	NSNT
+359, 3	783, 4-9	WEN	wsti llanastr mawr rywsut bob_dim nes	NSNT	NSNT
+359, 4	783, 10-11	WEN	dw i	---	NSNT
+
+
+360, 1	786, 1-7	LUN	achos mae *America* yn ffrindiau efo *Israel*	NST	NST
+360, 2	787, 1-11	LUN	wedyn mae nhw wedi arfogi *Israel* a roi pres iddyn nhw	---	NST
+
+
+361, 1	788, 3-9	CEW	mae nhw yn ffrindiau mawr efo nhw	---	NSNT
+
+
+362, 1	789, 1-1	WEN	ydyn	---	NSNT
+
+
+363, 1	790, 1-7	LUN	a mae *Israel* yn wlad eithafol iawn	NST	NST
+363, 2	790, 8-14	LUN	dydy yr un fath â y Palestinians	---	SNT
+
+
+364, 1	793, 1-5	WEN	a rŵan mae yr *Hamas*	NST	NST
+364, 2	793, 6-11	WEN	ydy o *yeah* mynd i_mewn gweld	---	NST
+
+
+365, 1	794, 1-5	CEW	wedi cael eu hethol do	---	NSNT
+
+
+366, 1	795, 1-1	LUN	yn	---	NSNT
+
+
+367, 1	796, 1-3	CEW	yn *er* Palesteina	---	NST
+
+
+368, 1	800, 1-5	WEN	ac mae nhw yn deud	NSNT	NSNT
+368, 2	800, 6-6	WEN	ydyn	---	NSNT
+
+
+369, 1	801, 1-10	CEW	mae nhw isio gael gwared o *Israel* yn gyfan gwbl	NST	NST
+369, 2	803, 1-8	CEW	mae nhw isio dileu *Israel* oddi_ar y *map*	---	NST
+
+
+370, 1	804, 1-3	WEN	yndyn a wedyn	NSNT	NSNT
+370, 2	804, 4-7	WEN	mae nhw yn deud	---	NSNT
+
+
+371, 1	805, 1-11	CEW	ond wrth_gwrs does gynnyn nhw ddim gobaith o wneud hynny hynny	---	NSNT
+
+
+372, 1	806, 1-1	LUN	Palestiniaid	---	NSNT
+
+
+373, 1	807, 1-13	CEW	ond mae nhw yn gredu mewn *um* suicide *bombs* a pethau beth bynnag	NST	ST
+373, 2	807, 14-17	CEW	ydy hynna yn Gymraeg	---	NSNT
+
+
+374, 1	810, 1-2	WEN	sobr de	---	NSNT
+
+
+375, 1	812, 1-1	LUN	*so*	---	NST
+
+
+376, 1	813, 1-12	CEW	*oh* mae yna ddynes sydd yn *er* *um* gwleidydd *er* go bwysig	NST	NST
+376, 2	814, 1-12	CEW	mae hi wedi anfon dau o ei meibion i ladd eu hunain	NSNT	NSNT
+376, 3	815, 1-6	CEW	a hi wedi deud wrthyn nhw	NSNT	NSNT
+376, 4	816, 1-4	CEW	gynni saith o blant	NSNT	NSNT
+376, 5	816, 5-7	CEW	dw i meddwl	NSNT	NSNT
+376, 6	817, 1-14	CEW	a mae wedi deud wrth ddau ohonyn nhw fynd i i ffrwydro eu hunain	---	NSNT
+
+
+377, 1	818, 1-5	LUN	a mae nhw wedi gwneud	---	NSNT
+
+
+378, 1	820, 1-5	WEN	a mae nhw wedi gwneud	---	NSNT
+
+
+379, 1	821, 1-7	CEW	wnaeth hi cael parch mawr am hynna	---	NSNT
+
+
+380, 1	823, 1-5	LUN	a sut mae yn teimlo	---	NSNT
+
+
+381, 1	824, 1-5	CEW	dw i ddim yn gwybod	---	NSNT
+
+
+382, 1	826, 1-2	LUN	llawn balchder	---	NSNT
+
+
+383, 1	827, 1-5	CEW	yn falch dw i meddwl	---	NSNT
+
+
+384, 1	828, 1-7	WEN	yn falch ia am bod gynnyn nhw	NSNT	NSNT
+384, 2	828, 8-13	WEN	wsti ryw ffordd wahanol i ni	NSNT	NSNT
+384, 3	828, 14-21	WEN	does o sbïo ar pethau mawr fel yna	---	NSNT
+
+
+385, 1	829, 1-2	CEW	anghredadwy dydy	---	NSNT
+
+
+386, 1	831, 1-4	LUN	mae o yn anghredadwy	NSNT	NSNT
+386, 2	831, 5-14	LUN	pan dach chi meddwl i gymharu â yr ffordd hyn	NSNT	NSNT
+386, 3	831, 15-18	LUN	bod crefydd yn medru	NSNT	NSNT
+386, 4	831, 19-21	LUN	bod mor gry	---	NSNT
+
+
+387, 1	832, 1-1	WEN	rywsut	NSNT	NSNT
+387, 2	833, 1-1	WEN	sti	NSNT	NSNT
+387, 3	833, 2-12	WEN	sut fedri di siarad yn iawn byth ti yn gweld tra	NSNT	NSNT
+387, 4	833, 13-22	WEN	mae pawb rywsut ddim yn dallt ei_gilydd o yr dechrau	NSNT	NSNT
+387, 5	836, 1-5	WEN	pobl o anian hollol wahanol	---	NSNT
+
+
+388, 1	837, 1-2	LUN	ond mae	NSNT	NSNT
+388, 2	837, 3-13	LUN	mae yr dwyrain canol ffordd yna yn le ofnadwy o ansicr	NSNT	NSNT
+388, 3	837, 14-22	LUN	dydy llawn llawn gwahanol grefyddau gwahanol goel o yr	---	NSNT
+
+
+389, 1	839, 1-3	WEN	a mae o	NSNT	NSNT
+389, 2	839, 4-9	WEN	yndy yn yn ansicr heb sôn	NSNT	NSNT
+389, 3	841, 1-9	WEN	ta *just* *Bush* a pobl felly sy yn busnesu	---	NST
+
+
+390, 1	842, 1-8	CEW	*well* ia pobl o yr tu allan sy	NST	NST
+390, 2	842, 9-14	CEW	wedi bod yn busnesu ers ganrifoedd	---	NSNT
+
+
+391, 1	843, 1-5	LUN	ond mae nhw busnesu hefyd	NSNT	NSNT
+391, 2	845, 1-3	LUN	ond mae yna	---	NSNT
+
+
+392, 1	846, 1-7	CEW	a mae yna olew yna a ballu	NSNT	NSNT
+392, 2	847, 1-3	CEW	dw i *sure*	NST	NST
+392, 3	847, 4-9	CEW	oedd o yn iawn cyn hynny	---	NSNT
+
+
+393, 1	849, 1-2	LUN	ond cyn	---	NSNT
+
+
+394, 1	850, 1-3	CEW	neu yn well	NSNT	NSNT
+394, 2	853, 1-7	CEW	dw i ddim yn gwybod go iawn	---	NSNT
+
+
+395, 1	854, 1-5	WEN	na dw innau ddim chwaith	---	NSNT
+
+
+396, 1	855, 1-11	LUN	oedd yna gwffio rhwng y Palestiniaid a a a yr *Israel*	---	NST
+
+
+397, 1	856, 1-2	WEN	oes erioed	---	NSNT
+
+
+398, 1	857, 1-8	CEW	*well* na ia dydy *Israel* ddim yna erioed	NST	NST
+398, 2	857, 9-10	CEW	nag ydy	---	NSNT
+
+
+399, 1	858, 1-2	LUN	nag ydy	NSNT	NSNT
+399, 2	859, 1-3	LUN	*oh* nag ydy	NST	NST
+399, 3	859, 4-7	LUN	be dw i yn	---	NSNT
+
+
+400, 1	860, 1-7	CEW	ond cwta iawn ydy yr amser ers	NSNT	NSNT
+400, 2	860, 8-10	CEW	mae *Israel* yna	---	NST
+
+
+401, 1	861, 1-7	LUN	*sorry* rhwng yr un naw saith_degau rywbeth	---	NST
+
+
+402, 1	862, 1-6	CEW	ac wrth_gwrs mae hynna yn *broblem*	---	NST
+
+
+403, 1	863, 1-12	LUN	ond dw i yn golygu wan rhwng yr Iddewon a yr Palestiniaid	NSNT	NSNT
+403, 2	863, 13-20	LUN	dach chimod ac wedyn yr *yeah* ar_ôl *Israel*	NST	NST
+403, 3	866, 1-3	LUN	ond dach chimod	NSNT	NSNT
+403, 4	866, 4-12	LUN	mae yna ffraeo rhyngthyn nhw ers canrifoedd ar ganrifoedd	NSNT	NSNT
+403, 5	866, 13-13	LUN	does	NSNT	NSNT
+403, 6	867, 1-5	LUN	ond wrth_gwrs wrth i bobl	---	NSNT
+
+
+404, 1	868, 1-9	CEW	*oh* doedd yna ddim llawer o o Iddewon yna	NST	NST
+404, 2	868, 10-12	CEW	nag oedden nhw	NSNT	NSNT
+404, 3	869, 1-5	CEW	oedden nhw ar_hyd y lle	---	NSNT
+
+
+405, 1	870, 1-5	LUN	oedden nhw wedi symud allan	NSNT	NSNT
+405, 2	870, 6-6	LUN	doedden	NSNT	NSNT
+405, 3	871, 1-4	LUN	ond wedi dod yn_ôl	---	NSNT
+
+
+406, 1	873, 1-6	WEN	*right* bysai well ni newid yr	NST	NST
+406, 2	874, 1-2	WEN	be sy	NSNT	NSNT
+406, 3	874, 3-5	WEN	gynnon ni arall	NSNT	NSNT
+406, 4	874, 6-11	WEN	deudwch yn yn bwnc ar_gyfer y	---	NSNT
+
+
+407, 1	875, 1-4	LUN	digwydd y newyddion heddiw	NSNT	NSNT
+407, 2	875, 5-5	LUN	dyna	NSNT	NSNT
+407, 3	875, 6-8	LUN	ydy yr peth	NSNT	NSNT
+407, 4	876, 1-13	LUN	o'n i yn trio meddwl os oes yna rywbeth efo yr efo iechyd	NSNT	NSNT
+407, 5	876, 14-16	LUN	de meddygaeth ballu	---	NSNT
+
+
+408, 1	878, 1-4	WEN	*oh* dw i meddwl	---	NST
+
+
+409, 1	879, 1-3	CEW	glywais i ddim_byd	---	NSNT
+
+
+410, 1	880, 1-3	WEN	wsti ia peth	NSNT	NSNT
+410, 2	880, 4-6	WEN	sy mynd ymlaen	---	NSNT
+
+
+411, 1	881, 1-6	LUN	does yna ddim llawer ar yr	NSNT	NSNT
+411, 2	882, 1-14	LUN	*oh* mae yna ryw newyddion efo yr efo yr *um* bird *flu* yma wan	NST	ST
+411, 3	882, 15-15	LUN	does	NSNT	NSNT
+411, 4	884, 2-4	LUN	mae nhw wedi	---	NSNT
+
+
+412, 1	885, 1-11	CEW	bod nhw wedi genetically engineer_io ryw vaccine bod nhw yn meddwl	NSNT	SNT
+412, 2	885, 12-13	CEW	gallan nhw	---	NSNT
+
+
+413, 1	886, 1-3	LUN	ia ryw vaccine	SNT	SNT
+413, 2	888, 1-7	LUN	ond bod nhw dal ddim yn *sure*	NST	NST
+413, 3	889, 1-2	LUN	achos wrth_gwrs	---	NSNT
+
+
+414, 1	890, 1-6	CEW	mae o yn gweithio ar lygod	NSNT	NSNT
+414, 2	892, 1-4	CEW	a mae nhw gobeithio	NSNT	NSNT
+414, 3	892, 5-9	CEW	wneith o weithio ar bobl	---	NSNT
+
+
+415, 1	893, 1-15	LUN	ond mae o mynd i newid cyn iddo fo fethu mynd o *berson* i *berson*	NST	NST
+415, 2	894, 1-7	LUN	felly dyn nhw ddim yn hollol sicr	NSNT	NSNT
+415, 3	894, 8-13	LUN	os fedrith o daclo yr straen	NSNT	NSNT
+415, 4	895, 1-1	LUN	ond	---	NSNT
+
+
+416, 1	897, 3-5	CEW	oedd yn rywbeth	---	NSNT
+
+
+417, 1	898, 1-5	LUN	ond mae nhw meddwl hyd_yn_oed	NSNT	NSNT
+417, 2	898, 6-10	LUN	dach chimod hyd_yn_oed os weithio	NSNT	NSNT
+417, 4	898, 32-39	LUN	dach chimod *er* gwasgaru o *berson* i *berson*	---	NST
+
+
+418, 1	899, 1-3	CEW	mae nhw meddwl	NSNT	NSNT
+418, 2	899, 4-6	CEW	bod newid o	---	NSNT
+
+
+419, 1	901, 1-8	LUN	*er* mewn ryw bedair mlynedd mae nhw meddwl	NST	NST
+419, 2	901, 9-11	LUN	fydd hynna barod	NSNT	NSNT
+419, 3	903, 1-7	LUN	os ydy o yn gynt na hynna	NSNT	NSNT
+419, 4	903, 8-8	LUN	fedrith	NSNT	NSNT
+419, 5	903, 9-12	LUN	fedran nhw ddim gwneud	---	NSNT
+
+
+420, 1	906, 1-12	CEW	*oh* o'n i meddwl bod nhw sôn am rywbeth cynt na hynna	NST	NST
+420, 2	908, 1-3	CEW	o'n i wedi	NSNT	NSNT
+420, 4	909, 26-29	CEW	be sy yn digwydd	---	NSNT
+
+
+421, 1	910, 1-4	LUN	mae yn amhosib deud	---	NSNT
+
+
+422, 1	916, 1-18	WEN	a yr peth arall i wneud efo rywbeth meddygol ydy y *doctor* sgiwsiwch y *ddoctor* y *doctor* yma	NST	NST
+422, 2	916, 19-19	WEN	yn_te	NSNT	NSNT
+422, 3	916, 20-27	WEN	aeth i yr Swistir i wneud y *Dignitas*	---	NST
+
+
+423, 1	919, 1-3	CEW	be ydy hynna	NSNT	NSNT
+423, 3	921, 1-3	CEW	i ladd pobl	---	NSNT
+
+
+424, 1	922, 1-5	WEN	*well* i ladd ei hun	---	NST
+
+
+425, 1	923, 1-4	CEW	i ladd ei hun	---	NSNT
+
+
+426, 1	924, 1-4	WEN	i ladd ei hun	NSNT	NSNT
+426, 2	926, 1-16	WEN	ac oedd hi yn gorod mynd i yr Swistir i wneud i yr peth *Dignitas* yma	NST	NST
+426, 4	929, 1-5	WEN	a cymryd yr lethal *dose*	---	ST
+
+
+427, 1	930, 1-3	CEW	oedd o sâl	NSNT	NSNT
+427, 2	930, 4-6	CEW	dw i cymryd	---	NSNT
+
+
+428, 1	931, 1-2	WEN	mi farwodd	---	NSNT
+
+
+429, 1	932, 1-2	LUN	ia hogan	---	NSNT
+
+
+430, 1	933, 1-6	CEW	ond oedd o yn sâl cyn	NSNT	NSNT
+430, 2	934, 1-1	CEW	hi	---	NSNT
+
+
+431, 1	935, 1-4	WEN	*oh* aeth hi sâl	---	NST
+
+
+432, 1	936, 1-3	LUN	dynes oedd hi	---	NSNT
+
+
+433, 1	937, 1-4	CEW	oedd hi yn sâl	---	NSNT
+
+
+434, 1	938, 1-3	LUN	*doctor* oedd hi	---	NST
+
+
+435, 1	939, 1-4	WEN	oedd hi yn *ddoctor*	NST	NST
+435, 2	940, 1-3	WEN	dw i meddwl	NSNT	NSNT
+435, 3	940, 4-7	WEN	bod hi ryw saith_deg_un	NSNT	NSNT
+435, 4	940, 8-11	WEN	oedd ei oed hi	NSNT	NSNT
+435, 6	942, 1-5	WEN	dw i meddwl mai saith_deg_un	---	NSNT
+
+
+436, 1	943, 1-7	LUN	dan ni ddim wedi dallt yn iawn	NSNT	NSNT
+436, 2	943, 8-9	LUN	be oedd	NSNT	NSNT
+436, 3	944, 1-3	LUN	a ddeudodd hi	NSNT	NSNT
+436, 4	944, 4-8	LUN	bod yna *cerebral* palsy arni	---	ST
+
+
+437, 1	946, 1-2	WEN	*well* do	NST	NST
+437, 2	946, 3-3	WEN	dyna	NSNT	NSNT
+437, 3	946, 4-7	WEN	dw i wedi dallt	---	NSNT
+
+
+438, 1	947, 1-8	LUN	ond dan ni ddim yn dallt yn iawn	---	NSNT
+
+
+439, 1	948, 1-6	WEN	ond ydy *cerebral* palsy yn rywbeth	NST	ST
+439, 2	948, 7-10	WEN	sy yn dŵad medru	---	NSNT
+
+
+440, 1	949, 1-9	CEW	na mae hynna rywbeth ti gael dy eni efo	---	NSNT
+
+
+441, 1	950, 1-2	WEN	*well* ydy	---	NST
+
+
+442, 1	951, 1-4	CEW	*er* *spastic* ydy o	NST	NST
+442, 2	951, 5-12	CEW	be oedd pobl yn galw yn *spastic* ers_talwm	---	NST
+
+
+443, 1	952, 1-2	LUN	na dim	NSNT	NSNT
+443, 2	953, 1-9	LUN	ond mae *cerebral* palsy yn medru dŵad mewn bywyd	---	ST
+
+
+444, 1	956, 1-2	CEW	fel arfer	NSNT	NSNT
+444, 2	956, 3-11	CEW	mae o cael ei achosi gyn dy enedigaeth di	---	NSNT
+
+
+445, 1	958, 1-1	LUN	deudwch	NSNT	NSNT
+445, 2	958, 2-3	LUN	bod hi	---	NSNT
+
+
+446, 1	959, 1-6	WEN	pan ti cael dy eni yndy	---	NSNT
+
+
+447, 1	960, 1-3	LUN	ond *well* deudwch	NST	NST
+447, 2	960, 4-7	LUN	bod hi bron yn	---	NSNT
+
+
+448, 1	961, 1-10	CEW	brain damage ond hwyrach basai rywbeth arall yn gallu niweidio	---	SNT
+
+
+449, 1	962, 1-8	LUN	*well* fath â bron iawn boddi felly de	NST	NST
+449, 2	964, 1-4	LUN	fel bod chi bron	---	NSNT
+
+
+450, 1	965, 1-6	CEW	ia rywbeth sy yn rhwystro oxygen	---	SNT
+
+
+451, 1	967, 1-7	LUN	dydy o ddim yn mynd yn waeth	NSNT	NSNT
+451, 2	969, 1-4	LUN	dw i yn gwybod	NSNT	NSNT
+451, 3	969, 5-11	LUN	bod o ddim yn mynd yn waeth	NSNT	NSNT
+451, 4	971, 1-4	LUN	dw i wedi darllen	NSNT	NSNT
+451, 5	971, 5-7	LUN	bod o ddim	---	NSNT
+
+
+452, 1	972, 1-7	WEN	ond oedd gynni hi o'n i meddwl	NSNT	NSNT
+452, 2	972, 8-9	WEN	bod *er*	NST	NST
+452, 3	972, 10-13	WEN	bod nhw sôn o_hyd	NSNT	NSNT
+452, 4	972, 14-21	WEN	bod yna rywbeth *cerebral* palsy a rywbeth arall	NST	ST
+452, 5	974, 1-5	WEN	dw i ddim yn cofio	NSNT	NSNT
+452, 6	974, 6-8	WEN	be oedd o	NSNT	NSNT
+452, 7	976, 1-4	WEN	wsti rywbeth fath â	---	NSNT
+
+
+453, 1	977, 1-9	LUN	hwyrach ryw gymhlethdod efo yr *cerebral* palsy neu rywbeth	NST	ST
+453, 2	979, 1-4	LUN	dw ddim yn gwybod	NSNT	NSNT
+453, 3	980, 1-7	LUN	rywbeth mwy oedd o yn swnio o	NSNT	NSNT
+453, 4	980, 8-20	LUN	be ddaru hi ddisgrifio yn rywbeth mwy *er* fath â *m_s* neu *m*	---	NST
+
+
+454, 1	982, 1-5	WEN	wedyn oedd hi sôn am	---	NSNT
+
+
+455, 1	983, 1-9	CEW	rywbeth sydd yn wneud i *er* yn dirywio felly	---	NST
+
+
+456, 1	986, 1-6	WEN	a wedyn ddaru nhw holi hi	NSNT	NSNT
+456, 2	987, 1-11	WEN	mi oedd hi yn siarad ei hun ond ar yr *camera*	NST	NST
+456, 3	988, 1-18	WEN	ac wedyn oedd yna luniau ohoni mynd a phob_dim ac wedyn sgwrs efo dau o ei phlant hi	NSNT	NSNT
+456, 4	990, 1-8	WEN	pobl yn yn eu tridegau wsti yn yn	---	NSNT
+
+
+457, 1	992, 1-2	LUN	hollol gall	---	NSNT
+
+
+458, 1	993, 1-12	WEN	ia yn gall iawn ac yn ei chefnogi hi yn gyfan gwbl	NSNT	NSNT
+458, 2	995, 1-10	WEN	ond mae o wedi codi ryw fath o drafodaeth yma	NSNT	NSNT
+458, 3	995, 11-13	WEN	dw i meddwl	NSNT	NSNT
+458, 4	995, 14-19	WEN	de o ran bod yna bobl	NSNT	NSNT
+458, 5	995, 20-28	WEN	fysai yn licio i yr peth fod yn hollol	NSNT	NSNT
+458, 6	996, 2-6	WEN	oedd y plant yn deud	NSNT	NSNT
+458, 7	996, 7-21	WEN	bod o yn *bity* bod hi yn gorod mynd mewn *aeroplane* i Swistir i wneud	---	NST
+
+
+459, 1	997, 2-5	CEW	dw i yn cytuno	NSNT	NSNT
+459, 2	998, 1-7	CEW	dw i cytuno yn llwyr efo hynna	---	NSNT
+
+
+460, 1	999, 1-9	WEN	achos i ryw raddau oedd hi yn poeni *um*	NST	NST
+460, 2	999, 10-17	WEN	bysai hi mynd i yr *fashion* stâd fel	NST	NST
+460, 3	999, 18-23	WEN	na fysai yn bosib iddi fynd	---	NSNT
+
+
+461, 1	1000, 1-7	CEW	fel na fysai fo ddim yn bosib	NSNT	NSNT
+461, 2	1001, 1-3	CEW	*yeah* *er* wrth_gwrs	---	NST
+
+
+462, 1	1002, 1-10	LUN	a mewn ffordd mae wedi gorod mynd mymryn yn gynt	NSNT	NSNT
+462, 2	1002, 11-14	LUN	na fysai wedi gorod	---	NSNT
+
+
+463, 1	1004, 1-1	WEN	hwyrach	---	NSNT
+
+
+464, 1	1005, 1-10	CEW	mi fysai yn medru yn yr Iseldiroedd hefyd hyd y	NSNT	NSNT
+464, 2	1005, 11-12	CEW	gwn i	---	NSNT
+
+
+465, 1	1006, 1-1	WEN	medri	NSNT	NSNT
+465, 2	1006, 2-2	WEN	medri	---	NSNT
+
+
+466, 1	1008, 1-2	LUN	a mae	NSNT	NSNT
+466, 2	1008, 3-16	LUN	basai yn wrth_gwrs yn fwy cyfforddus rywsut i rywun gael gwneud yn eu gwlad	---	NSNT
+
+
+467, 1	1009, 1-5	CEW	basai yn brafiach o lawer	---	NSNT
+
+
+468, 1	1010, 1-1	WEN	bysai	NSNT	NSNT
+468, 2	1010, 2-2	WEN	bysai	---	NSNT
+
+
+469, 1	1011, 1-9	CEW	a baset ti gallu gweld dy holl ffrindiau yn_dwyt	---	NSNT
+
+
+470, 1	1012, 1-2	WEN	deud fysai	NSNT	NSNT
+470, 2	1012, 3-4	WEN	bysai hi	NSNT	NSNT
+470, 3	1012, 5-6	WEN	wedi bod	NSNT	NSNT
+470, 4	1012, 7-7	WEN	wsti	NSNT	NSNT
+470, 5	1012, 8-14	WEN	fysai well gynni hi fod adre wrth_gwrs	---	NSNT
+
+
+471, 1	1013, 1-1	CEW	wrth_gwrs	NSNT	NSNT
+471, 2	1016, 1-5	CEW	ac *um* dw i meddwl	NST	NST
+471, 3	1016, 6-6	CEW	ddylai	NSNT	NSNT
+471, 4	1016, 7-10	CEW	bod o yn gyfreithlon	---	NSNT
+
+
+472, 1	1018, 1-11	WEN	ond o'n i gwrando ar ryw gonsultant yn siarad ryw ddynes	NSNT	SNT
+472, 2	1019, 1-7	WEN	a dw i meddwl na o Gaerdydd	NSNT	NSNT
+472, 3	1019, 8-23	WEN	oedd hi yn siarad deud y gwir o yr o *um* o yr *Heath* yn Gaerdydd	---	NST
+
+
+473, 1	1020, 1-1	LUN	*Heath*	---	NST
+
+
+474, 1	1021, 1-5	WEN	i wneud efo palliative care	---	SNT
+
+
+475, 1	1024, 1-6	CEW	fel bod pobl ddim isio marw	---	NSNT
+
+
+476, 1	1025, 1-3	WEN	*well* wsti ia	NST	NST
+476, 2	1025, 4-5	WEN	wsti felly	NSNT	NSNT
+476, 3	1025, 6-11	WEN	oedd hi yn teimlo yn teimlo	---	NSNT
+
+
+477, 1	1026, 1-2	CEW	dim gymaint	NSNT	NSNT
+477, 2	1027, 1-4	CEW	ond dw i meddwl	NSNT	NSNT
+477, 3	1027, 5-8	CEW	bod isio yr ddau	---	NSNT
+
+
+478, 1	1028, 1-4	WEN	oedd isio yr ddau	NSNT	NSNT
+478, 2	1030, 1-7	WEN	ond hwyrach bod hi yn teimlo wan	NSNT	NSNT
+478, 3	1030, 8-11	WEN	bod pobl yn yn	---	NSNT
+
+
+479, 1	1031, 1-7	LUN	*oh* dw i yn teimlo efo pethau	NST	NST
+479, 3	1031, 30-33	LUN	dw i yn teimlo	NSNT	NSNT
+479, 4	1031, 34-52	LUN	pan mae o yn effeithio pethau fath â y llyncu a yr cymryd gwynt a *well* y symudiadau ond	---	NST
+
+
+480, 1	1032, 1-1	CEW	siarad	---	NSNT
+
+
+481, 1	1033, 1-4	LUN	ia siarad ond yn	NSNT	NSNT
+481, 2	1034, 1-6	LUN	dach chimod yn yr un mwya	NSNT	NSNT
+481, 3	1034, 8-9	LUN	gynna i	NSNT	NSNT
+481, 4	1034, 10-13	LUN	fedra i ddim ddiodde	NSNT	NSNT
+481, 5	1034, 14-26	LUN	ydy meddwl am llyncu a ac cymryd gwynt a ballu yn cael eu	NSNT	NSNT
+481, 6	1035, 1-2	LUN	dach chimod	NSNT	NSNT
+481, 7	1035, 3-3	LUN	mae	NSNT	NSNT
+481, 8	1035, 4-9	LUN	mae amharu ar hynna yn ofnadwy	NSNT	NSNT
+481, 9	1035, 10-10	LUN	dydy	NSNT	NSNT
+481, 10	1037, 1-5	LUN	ac wrth_gwrs curiad y galon	NSNT	NSNT
+481, 11	1038, 1-9	LUN	ac am bod yr y nerfau ddim yn gweithio	NSNT	NSNT
+481, 12	1038, 10-21	LUN	dydy yr bol na dim un *organ* mynd i weithio yn iawn	NST	NST
+481, 13	1040, 1-8	LUN	a dw i yn gweld hi mwy annifyr	NSNT	NSNT
+481, 14	1041, 1-9	LUN	achos mae yr *brocess* o hynny llawer mwy araf	NST	NST
+481, 15	1043, 1-3	LUN	a mae o	NSNT	NSNT
+481, 16	1043, 4-21	LUN	mae yna gymaint o ofal yn mynd i fod ei angen i edrych ar_ôl y *person* am flynyddoedd	---	NST
+
+
+482, 1	1046, 1-3	CEW	*mmm* am flynyddoedd	---	NST
+
+
+483, 1	1049, 1-14	LUN	wedyn mewn ffordd dw i meddwl efallai efo efo afiechydon mwy fel yna efallai	NSNT	NSNT
+483, 2	1049, 15-15	LUN	dylai	NSNT	NSNT
+483, 3	1049, 16-19	LUN	bod o yn gyfreithlon	NSNT	NSNT
+483, 4	1051, 1-2	LUN	achos *mmm*	---	NST
+
+
+484, 1	1052, 1-9	CEW	*well* ia because dydy o ddim yn *matter* bod	NST	ST
+484, 2	1052, 10-14	CEW	bod raid i rywun wneud	NSNT	NSNT
+484, 3	1054, 1-8	CEW	mae o mond bod y dewis gynnyn nhw	NSNT	NSNT
+484, 4	1054, 9-12	CEW	os ydyn nhw isio	---	NSNT
+
+
+485, 1	1055, 1-1	WEN	dyna	---	NSNT
+
+
+486, 1	1057, 1-4	CEW	*oh* dw i meddwl	NST	NST
+486, 2	1057, 5-9	CEW	bod hynna yn ddigon teg	---	NSNT
+
+
+487, 1	1059, 1-11	WEN	a a ond be oedd hon yn ddeud y ddynes yma	NSNT	NSNT
+487, 2	1059, 12-23	WEN	a dw i ddim yn cofio ei henw hi ond yn deud	NSNT	NSNT
+487, 3	1059, 24-25	WEN	wsti y	NSNT	NSNT
+487, 4	1059, 26-32	WEN	bydd yna bwysau rywsut ar bobl wedyn	---	NSNT
+
+
+488, 1	1062, 1-2	LUN	ia wedyn	---	NSNT
+
+
+489, 1	1063, 1-1	WEN	wsti	NSNT	NSNT
+489, 2	1063, 2-4	WEN	oedd hi yn	---	NSNT
+
+
+490, 1	1065, 1-5	LUN	*oh* mae hynna yn bwynt	---	NST
+
+
+491, 1	1066, 1-14	WEN	be oedd gyn y bobl y teulu plant y yr y y ddynes yma	NSNT	NSNT
+491, 2	1066, 16-16	WEN	ddylai	NSNT	NSNT
+491, 3	1066, 17-20	WEN	bod o yn *option*	NST	NST
+491, 4	1066, 21-25	WEN	de i i gael gwneud	NSNT	NSNT
+491, 5	1070, 1-8	WEN	a wedyn oedd y ddynes yma yn deud	NSNT	NSNT
+491, 6	1070, 9-12	WEN	bod o rywsut yn	NSNT	NSNT
+491, 7	1070, 13-16	WEN	rhoid ryw bwysau y	NSNT	NSNT
+491, 8	1070, 17-21	WEN	bydd yna bobl yn teimlo	NSNT	NSNT
+491, 9	1070, 22-30	WEN	bod nhw ddim isio bod yn bwysau ar neb	NSNT	NSNT
+491, 10	1070, 31-43	WEN	de a ddim isio bod yn ti yn gwybod yn *nuisance* a ballu	NST	NST
+491, 11	1074, 1-2	WEN	a wedyn	---	NSNT
+
+
+492, 1	1075, 1-9	LUN	mae hynna yn bwynt *um* teg iawn chwarae teg	---	NST
+
+
+493, 1	1076, 1-3	WEN	ti yn gweld	---	NSNT
+
+
+494, 1	1077, 1-12	CEW	*oh* mae hi yn beth anodd iawn i ddeddfu yn ei chylch	---	NST
+
+
+495, 1	1078, 1-6	WEN	ac ella bod hi yn teimlo	NSNT	NSNT
+495, 2	1078, 7-7	WEN	sti	NSNT	NSNT
+495, 3	1078, 8-8	WEN	nad	NSNT	NSNT
+495, 4	1078, 9-24	WEN	ydy yr wlad yma ddim yn rhoi digon o bwyslais ar edrych ar_ôl pobl wael iawn	NSNT	NSNT
+495, 5	1078, 25-30	WEN	sy yn marw a pobl hen	NSNT	NSNT
+495, 6	1078, 31-33	WEN	sy yn marw	---	NSNT
+
+
+496, 1	1081, 1-3	LUN	mae yn dibynnu	NSNT	NSNT
+496, 2	1081, 4-9	LUN	be mae feddwl efo palliative care	SNT	SNT
+496, 3	1083, 1-7	LUN	achos mae rywun yn meddwl yn syth	NSNT	NSNT
+496, 4	1084, 1-11	LUN	*oh* *well* *um* *morphine* a *heroin* neu *just* cyffuriau a ballu	NST	NST
+496, 5	1085, 1-6	LUN	ond go iawn mae yn debyg	NSNT	NSNT
+496, 6	1085, 7-14	LUN	bod hi yn golygu gofalwyr a ballu hefyd	NSNT	NSNT
+496, 7	1085, 15-15	LUN	dydy	---	NSNT
+
+
+497, 1	1087, 1-3	WEN	*oh* yndy bob_dim	NST	NST
+497, 2	1087, 4-7	WEN	baswn i yn feddwl	---	NSNT
+
+
+498, 1	1088, 1-3	LUN	*mmm* bob_dim ie	NST	NST
+498, 2	1092, 1-7	LUN	wedyn mewn ffordd basai yn ddiddorol gweld	NSNT	NSNT
+498, 3	1092, 8-14	LUN	be sy gynni hi i gynnig neu	NSNT	NSNT
+498, 4	1092, 15-20	LUN	be fysai gynni hi i gynnig	---	NSNT
+
+
+499, 1	1093, 1-6	WEN	ia *well* dw i meddwl na	NST	NST
+499, 2	1093, 7-11	WEN	be oedd gynni hi gynnig	NSNT	NSNT
+499, 3	1093, 13-16	WEN	bod hi yn teimlo	NSNT	NSNT
+499, 4	1093, 17-23	WEN	na ddylai fod o ddim yn *option*	NST	NST
+499, 5	1093, 25-25	WEN	wsti	---	NSNT
+
+
+500, 1	1096, 1-4	LUN	na ia ond sut	---	NSNT
+
+
+501, 1	1097, 1-6	CEW	*oh* pwy pwy ydy hon wan	---	NST
+
+
+502, 1	1098, 1-5	WEN	dw i ddim yn cofio	---	NSNT
+
+
+503, 1	1099, 1-6	CEW	dim yr un sy wedi marw	---	NSNT
+
+
+504, 1	1101, 1-3	WEN	na *oh* naci	---	NST
+
+
+505, 1	1102, 1-3	CEW	na rywun arall	---	NSNT
+
+
+506, 1	1103, 1-9	WEN	na rywun sydd yn gweithio rŵan ryw ddynes wsti	---	NSNT
+
+
+507, 1	1104, 1-5	LUN	achos wrth_gwrs oedd yr un	NSNT	NSNT
+507, 2	1104, 6-13	LUN	sy wedi marw yn hollol o blaid *euthanasia*	---	NST
+
+
+508, 1	1105, 1-3	CEW	o blaid wrth_gwrs	NSNT	NSNT
+508, 3	1108, 1-13	CEW	mae o yn beth anodd i ddeddfu yn ei gylch o yn amlwg	NSNT	NSNT
+508, 4	1108, 14-17	CEW	yn_de i wneud *sure*	NST	NST
+508, 5	1108, 18-21	CEW	bod rywun yn hollol	NSNT	NSNT
+508, 6	1108, 22-24	CEW	rydd i ddewis	NSNT	NSNT
+508, 7	1108, 25-31	CEW	a bod yna ddim pwysau arnyn nhw	---	NSNT
+
+
+509, 1	1114, 2-9	LUN	dydy o ddim i weld yn deg rywsut	NSNT	NSNT
+509, 2	1115, 1-8	LUN	achos *well* basech chi meddwl o bob_dim sy	NST	NST
+509, 3	1115, 9-12	LUN	gynnan ni yn ddewis	NSNT	NSNT
+509, 4	1115, 13-13	LUN	bysai	NSNT	NSNT
+509, 5	1115, 14-20	LUN	gennon ni yr dewis i farw rywsut	---	NSNT
+
+
+509, 6	1115, 21-21	LUN	bysai	NSNT	NSNT
+510, 2	1118, 1-14	CEW	*well* basech chi ddim yn cadw ci yn yn fyw yn y cyflwr yna	---	NST
+
+
+511, 1	1120, 1-6	WEN	na yn union fysen nhw ddim	NSNT	NSNT
+511, 2	1120, 7-7	WEN	sti	---	NSNT
+
+
+512, 1	1121, 1-7	CEW	basech chi yn gweld o yn yn	---	NSNT
+
+
+513, 1	1123, 1-11	WEN	ond am ryw reswm mae nhw yn teimlo ti yn gweld	NSNT	NSNT
+513, 2	1123, 12-12	WEN	bod	NSNT	NSNT
+513, 3	1123, 13-15	WEN	bod ni uwchlaw	---	NSNT
+
+
+514, 1	1124, 1-3	LUN	*well* meddwl meddwl	NST	NST
+514, 2	1124, 4-5	LUN	oedden ni	---	NSNT
+
+
+515, 1	1125, 1-13	CEW	ond dan ni yn gallu diodde *just* cyn_gystal neu yn waeth na ci	---	NST
+
+
+516, 1	1126, 1-3	WEN	yndyn yn union	NSNT	NSNT
+516, 2	1127, 1-3	WEN	yndyn yn union	---	NSNT
+
+
+517, 1	1128, 1-1	LUN	bendant	NSNT	NSNT
+517, 2	1129, 2-5	LUN	mae o yn ofnadwy	---	NSNT
+
+
+518, 1	1130, 1-3	WEN	achos mae mi	NSNT	NSNT
+518, 2	1130, 4-9	WEN	wneith ci yn aml fynd i_ffwrdd	NSNT	NSNT
+518, 3	1130, 10-10	WEN	wsti	NSNT	NSNT
+518, 4	1130, 11-14	WEN	gwneith i i farw	NSNT	NSNT
+518, 5	1130, 15-21	WEN	pan mae o mor sâl â hynna	---	NSNT
+
+
+519, 1	1131, 1-3	LUN	gwneith i eistedd	---	NSNT
+
+
+520, 1	1132, 1-9	WEN	wneith o ddim aros i gael palliative care na	---	SNT
+
+
+521, 1	1133, 1-2	LUN	na wneith	---	NSNT
+
+
+522, 1	1135, 1-7	CEW	dim ond unwaith dw i wedi gorod	NSNT	NSNT
+522, 2	1135, 8-10	CEW	rhoid anifail i_lawr	NSNT	NSNT
+522, 3	1137, 1-6	CEW	*well* oedd o'n i yn teimlo	NST	NST
+522, 4	1137, 7-13	CEW	bod o *matter* o raid yn hollol	NST	NST
+522, 5	1138, 2-5	CEW	oedd o yn *um*	NST	NST
+522, 6	1138, 6-9	CEW	oedd o yn diodde	NSNT	NSNT
+522, 7	1138, 10-11	CEW	de cath	---	NSNT
+
+
+523, 1	1140, 1-7	LUN	dan ni meddwl am gael ci wan	NSNT	NSNT
+523, 2	1141, 1-5	LUN	methu penderfynu be i wneud	---	NSNT
+
+
+524, 1	1142, 1-1	CEW	yndych	---	NSNT
+
+
+525, 1	1143, 2-5	WEN	dan ni awydd mawr	---	NSNT
+
+
+526, 1	1144, 1-7	CEW	ia sut gi basech chi licio gael	---	NSNT
+
+
+527, 1	1146, 1-2	WEN	ci defaid	---	NSNT
+
+
+528, 1	1148, 1-6	LUN	*well* dan ni ddim yn *sure*	---	NST
+
+
+529, 1	1149, 1-2	WEN	ci defaid	---	NSNT
+
+
+530, 1	1150, 1-2	LUN	mae yna	NSNT	NSNT
+530, 2	1150, 3-9	LUN	mae yna gŵn bach gyn ryw hogyn	NSNT	NSNT
+530, 3	1150, 10-17	LUN	dan ni nabod *um* o yr enw *Jack*	---	NST
+
+
+531, 1	1151, 1-4	WEN	a dan ni awydd	---	NSNT
+
+
+532, 1	1152, 1-7	LUN	tri ci mae nhw yn gŵn *er*	NST	NST
+532, 2	1152, 8-13	LUN	mae yr *fam* yn gi defaid	NST	NST
+532, 3	1153, 1-8	LUN	a mae tad yn ryw *Huntaway* enw fo	NST	NST
+532, 4	1153, 9-10	LUN	yn_de *mam*	---	NST
+
+
+533, 1	1154, 1-3	CEW	be ydy rheiny	---	NSNT
+
+
+534, 1	1155, 1-5	WEN	*well* ryw dw i meddwl	NST	NST
+534, 2	1155, 6-14	WEN	bod o ryw fath o gi defaid o New_Zealand	SNT	SNT
+534, 3	1155, 15-16	WEN	ydy o	---	NSNT
+
+
+535, 1	1156, 1-1	LUN	New_Zealand	SNT	NSNT
+535, 2	1157, 1-1	LUN	Seland_Newydd	---	NSNT
+
+
+536, 1	1158, 1-3	CEW	*oh* *yeah* dw	NST	NST
+536, 2	1158, 4-11	CEW	dw i wedi clywed yr enw o blaen	---	NSNT
+
+
+537, 1	1160, 1-2	WEN	o New_Zealand	---	SNT
+
+
+538, 1	1162, 1-7	CEW	ond sut mae nhw yn edrych felly	---	NSNT
+
+
+539, 1	1163, 1-16	WEN	*well* mae nhw dipyn bach yn debycach i *labrador* o ran siâp y gwyneb a ballu	---	NST
+
+
+540, 1	1164, 1-3	LUN	*well* fath â	---	NST
+
+
+541, 1	1165, 1-1	WEN	trwynau	---	NSNT
+
+
+542, 1	1166, 1-9	CEW	fath â fwy *brown* yn_hytrach na du a gwyn	---	NST
+
+
+543, 1	1167, 1-3	LUN	dw i meddwl	---	NSNT
+
+
+544, 1	1168, 1-5	WEN	*well* *well* du fel arfer	NST	NST
+544, 2	1170, 1-4	WEN	a dw i meddwl	NSNT	NSNT
+544, 3	1170, 5-7	WEN	bod gynnyn nhw	NSNT	NSNT
+544, 4	1170, 8-10	WEN	wsti fel ryw	---	NSNT
+
+
+545, 1	1171, 1-1	CEW	aeliau	---	NSNT
+
+
+546, 1	1172, 1-2	WEN	aeliau *brown*	NST	NST
+546, 2	1174, 1-2	WEN	uwchben yn_does	---	NSNT
+
+
+547, 1	1175, 1-3	LUN	*brown* oren i	---	NST
+
+
+548, 1	1176, 1-4	WEN	a dw i meddwl	NSNT	NSNT
+548, 2	1176, 5-10	WEN	bod gwaelod y droed yn *frown*	---	NST
+
+
+549, 1	1178, 1-6	LUN	mae nhw fwy siâp ryw *coyote*	NST	NST
+549, 2	1179, 1-2	LUN	dw meddwl	NSNT	NSNT
+549, 3	1179, 3-8	LUN	bod nhw tua yr un siâp	NSNT	NSNT
+549, 4	1181, 1-11	LUN	dach chi yn gwybod ryw siâp boxy iawn rywsut y gwyneb	---	SNT
+
+
+550, 1	1182, 1-3	WEN	*oh* ydy fwy	---	NST
+
+
+551, 1	1183, 1-3	LUN	dw i meddwl	---	NSNT
+
+
+552, 1	1184, 1-2	WEN	tlws iawn	---	NSNT
+
+
+553, 1	1185, 1-5	LUN	hwyrach bod fi yn *wrong*	---	NST
+
+
+554, 1	1187, 1-16	WEN	ond dan ni yn gwybod am y rei sydd yn hanner *Huntaway* a hanner ci defaid	NST	NST
+554, 2	1190, 1-6	WEN	a mi dan ni awydd mawr	---	NSNT
+
+
+555, 1	1191, 1-4	LUN	a mae yna gast	---	NSNT
+
+
+556, 1	1192, 1-7	WEN	mae yna un ast a tri ci	NSNT	NSNT
+556, 2	1195, 1-6	WEN	a dan ni awydd cymryd un	---	NSNT
+
+
+557, 1	1197, 1-6	LUN	a dan ni methu methu penderfynu	---	NSNT
+
+
+558, 1	1199, 1-3	WEN	dan ni bron	NSNT	NSNT
+558, 2	1199, 4-4	WEN	â	NSNT	NSNT
+558, 3	1200, 1-10	WEN	ti meddwl bod o yn syniad i ni gael ci	---	NSNT
+
+
+559, 1	1201, 1-11	CEW	*well* dach chi wedi cael ci o blaen heb ddifaru o_gwbl	---	NST
+
+
+560, 1	1204, 1-3	LUN	dan ni yn	NSNT	NSNT
+560, 2	1204, 4-7	LUN	dan ni awydd ci	---	NSNT
+
+
+561, 1	1205, 1-4	WEN	*oh* dan ni wedi	NST	NST
+561, 2	1205, 5-7	WEN	ddaru ni ddifaru	---	NSNT
+
+
+562, 1	1207, 1-1	CEW	*well*	---	NST
+
+
+563, 1	1209, 1-1	WEN	braidd	NSNT	NSNT
+563, 3	1211, 1-2	WEN	mae o	NSNT	NSNT
+563, 4	1211, 3-3	WEN	sti	NSNT	NSNT
+563, 5	1211, 4-9	WEN	mae o yn dy glymu di	NSNT	NSNT
+563, 6	1211, 10-12	WEN	dydy dipyn bach	NSNT	NSNT
+563, 7	1211, 13-17	WEN	dydy i ofalu amdano fo	---	NSNT
+
+
+564, 1	1213, 1-1	CEW	ond	---	NSNT
+
+
+565, 1	1214, 1-4	WEN	ond dan ni hiraeth	NSNT	NSNT
+565, 2	1214, 5-7	WEN	yn_te ar_ôl *Jack*	NST	NST
+565, 3	1216, 1-9	WEN	dan ni ddim yn cerdded gymaint na dim_byd rywsut	---	NSNT
+
+
+566, 1	1217, 1-2	CEW	*well* ia	---	NST
+
+
+567, 1	1218, 1-5	LUN	dydy o ddim yn iach	---	NSNT
+
+
+568, 1	1219, 1-3	CEW	baswn i yn	NSNT	NSNT
+568, 2	1219, 4-13	CEW	petasai rywun yn gofyn i mi sgwennu adroddiad i ddeud	NSNT	NSNT
+568, 3	1219, 14-24	CEW	os dach chi bobl ddigon tebol i gymryd ci neu beidio	NSNT	NSNT
+568, 4	1219, 25-28	CEW	baswn i yn deud	NSNT	NSNT
+568, 5	1219, 29-31	CEW	eich bod chi	---	NSNT
+
+
+569, 1	1222, 1-3	WEN	dyna ni felly	NSNT	NSNT
+569, 2	1222, 4-5	WEN	dyna fo	NSNT	NSNT
+569, 5	1226, 1-6	WEN	baset ti ddim yn cymryd ci	---	NSNT
+
+
+570, 1	1227, 1-6	CEW	na dw i isio mynd i_ffwrdd	---	NSNT
+
+
+571, 1	1230, 1-2	WEN	dyna fo	NSNT	NSNT
+571, 2	1231, 1-1	WEN	dyna	NSNT	NSNT
+571, 3	1231, 2-6	WEN	ydy peth ti yn gweld	---	NSNT
+
+
+572, 1	1232, 1-4	LUN	*oh* dan ni meddwl	---	NST
+
+
+573, 1	1233, 1-4	WEN	fysen ni ddim mynd	---	NSNT
+
+
+574, 1	1235, 1-2	LUN	ond deudwch	NSNT	NSNT
+574, 2	1235, 3-4	LUN	bod chi	NSNT	NSNT
+574, 3	1236, 1-5	LUN	*well* be ddaru ni benderfynu	NST	NST
+574, 4	1236, 6-15	LUN	ddaru chi ddeud mewn ffordd gall iawn diwrnod o blaen	NSNT	NSNT
+574, 5	1236, 16-17	LUN	dach chimod	NSNT	NSNT
+574, 6	1236, 18-29	LUN	os dan ni isio mynd i Ffrainc am benwythnos neu rywbeth *well*	NST	NST
+574, 7	1236, 30-37	LUN	fasai yna ddim pwynt peidio cymryd ci *just*	NST	NST
+574, 8	1236, 38-46	LUN	am bod ni wedi wneud unwaith mewn tair blynedd	NSNT	NSNT
+574, 9	1236, 47-48	LUN	nag oes	---	NSNT
+
+
+575, 1	1237, 1-2	WEN	nag oes	---	NSNT
+
+
+576, 1	1238, 1-3	CEW	dw i *sure*	NST	NST
+576, 2	1238, 4-6	CEW	basai rywun yn	NSNT	NSNT
+576, 3	1238, 7-9	CEW	yn gwarchod de	---	NSNT
+
+
+577, 1	1239, 1-5	LUN	*oh* dan ni yn teimlo	NST	NST
+577, 2	1239, 6-7	LUN	fasen ni	NSNT	NSNT
+577, 3	1239, 8-15	LUN	roid o mewn yn y *kennel* neu rywbeth	---	NST
+
+
+578, 1	1240, 1-1	WEN	bysan	---	NSNT
+
+
+579, 1	1241, 1-2	CEW	*well* *yeah*	---	NST
+
+
+580, 1	1242, 1-2	LUN	achos dyna	NSNT	NSNT
+580, 2	1242, 3-8	LUN	mae yr ddynes drws nesa wneud	---	NSNT
+
+
+581, 1	1243, 1-3	CEW	ond dw *sure*	NST	NST
+581, 2	1243, 4-13	CEW	basai rywun ryw gymydog yn yn gymryd o neu hi	---	NSNT
+
+
+582, 1	1246, 1-3	LUN	wedyn *yeah* dyna	NST	NST
+582, 2	1246, 4-7	LUN	ydy yr unig *nuisance*	---	NST
+
+
+583, 1	1247, 1-8	CEW	mae ci bach *Liz* wedi mynd at *Iain*	---	NST
+
+
+584, 1	1249, 1-3	WEN	mae nhw wedi	NSNT	NSNT
+584, 2	1249, 4-8	WEN	mae nhw wedi cael digon	---	NSNT
+
+
+585, 1	1253, 1-6	CEW	oedden nhw isio cael gwared arni	NSNT	NSNT
+585, 2	1254, 1-9	CEW	achos *er* oedd hi yn ormod o waith a	NST	NST
+585, 3	1255, 1-7	CEW	*oh* wnes i aros y nos yna	NST	NST
+585, 4	1256, 1-2	CEW	pan oedd	NSNT	NSNT
+585, 5	1256, 3-10	CEW	oedd rhaid i mi gysgu yn gwely *Jen*	NST	NST
+585, 6	1257, 1-2	CEW	achos oedd	NSNT	NSNT
+585, 7	1257, 3-6	CEW	oedd *Liz* ddim yna	NST	NST
+585, 8	1259, 1-4	CEW	ond oedd hi deud	NSNT	NSNT
+585, 9	1259, 5-16	CEW	basai yr ci ddim yn licio i mi gysgu yn llofft *Liz*	NST	NST
+585, 10	1260, 1-19	CEW	ond pan aeth *Jen* i yr gwely *well* *er* dipyn hwyrach pan o'n i yn y ngwely ers meitin	NST	NST
+585, 11	1260, 20-26	CEW	oedd hi yn cyfarth yn ofnadwy arni	---	NSNT
+
+
+586, 1	1261, 1-2	WEN	ar *Jen*	---	NST
+
+
+587, 1	1263, 1-8	CEW	*just* am bod hi mynd i yr llofft	NST	NST
+587, 2	1265, 1-7	CEW	ond *er* mae yn brathu weithiau ballu	NST	NST
+587, 3	1266, 1-10	CEW	ond mae o angen mynd am dro llawer iawn mwy	NSNT	NSNT
+587, 4	1266, 11-17	CEW	na mae nhw yn debyg o wneud	---	NSNT
+
+
+588, 1	1268, 1-8	LUN	a mae *Liz* wedi blino ar gael ci	---	NST
+
+
+589, 1	1269, 1-2	WEN	dipyn bach	---	NSNT
+
+
+590, 1	1270, 1-6	CEW	hwyrach bod hi isio ci arall	NSNT	NSNT
+590, 2	1271, 1-5	CEW	dw i ddim yn gwybod	---	NSNT
+
+
+591, 1	1272, 1-7	WEN	ia wneith *Jen* ddim cymryd un eto	NST	NST
+591, 2	1272, 8-9	WEN	na wneith	---	NSNT
+
+
+592, 1	1273, 1-1	CEW	petasai	NSNT	NSNT
+592, 2	1273, 2-7	CEW	petasai hi yn cymryd un arall	NSNT	NSNT
+592, 3	1273, 8-10	CEW	basai yn gorod	NSNT	NSNT
+592, 4	1273, 11-14	CEW	bod yn un bach	NSNT	NSNT
+592, 5	1273, 15-17	CEW	sy ddim angen	NSNT	NSNT
+592, 6	1273, 18-29	CEW	sy ddim yn brathu a dim angen mynd am dro a ballu	NSNT	NSNT
+592, 7	1273, 30-39	CEW	sy yn cael digon o *exercise* mynd *round* y tŷ	---	NST
+
+
+593, 1	1276, 1-5	LUN	at *Iain_Franklin* mae wedi mynd	NST	NST
+593, 2	1279, 1-5	LUN	a ydy o isio ci	NSNT	NSNT
+593, 3	1280, 1-3	LUN	ydy o yn	---	NSNT
+
+
+594, 1	1281, 1-2	CEW	mae rhaid	NSNT	NSNT
+594, 2	1282, 1-6	CEW	a mae hynna yn lwcus iawn	---	NSNT
+
+
+595, 1	1283, 1-4	WEN	*Iain* oedd yr hogyn	NST	NST
+595, 2	1283, 5-6	WEN	oedd yma	NSNT	NSNT
+595, 3	1283, 7-12	WEN	tro yma efo nhw hogyn tal	---	NSNT
+
+
+596, 1	1284, 1-5	CEW	gwelais i ddim ohono fo	NSNT	NSNT
+596, 2	1284, 6-7	CEW	tro yma	NSNT	NSNT
+596, 4	1286, 1-2	CEW	ond dw	NSNT	NSNT
+596, 5	1286, 3-6	CEW	bod o yn dŵad	---	NSNT
+
+
+597, 1	1287, 1-3	WEN	*Iain* oedd o	NST	NST
+597, 2	1287, 4-6	WEN	dw i *sure*	NST	NST
+597, 3	1289, 2-4	WEN	dw i *sure*	---	NST
+
+
+598, 1	1290, 1-3	CEW	gwallt tywyll cyrliog	---	NSNT
+
+
+599, 1	1291, 1-7	WEN	ia oedd o yn gyrliog beth bynnag	NSNT	NSNT
+599, 2	1293, 1-6	WEN	*alright* mae o wedi gymryd o	NST	NST
+599, 3	1294, 1-8	WEN	achos dw i wedi gweld brawd iddo fo	NSNT	NSNT
+599, 4	1294, 9-11	WEN	do y ci	---	NSNT
+
+
+600, 1	1295, 1-6	CEW	a mae yna dri ohonyn nhw	NSNT	NSNT
+600, 2	1296, 1-4	CEW	mae un yn Seland_Newydd	NSNT	NSNT
+600, 3	1297, 1-4	CEW	a mae yna *Josh*	---	NST
+
+
+601, 1	1299, 1-4	LUN	mae un yn Seland_Newydd	---	NSNT
+
+
+602, 1	1301, 1-2	CEW	*mmm* *Adam*	ST	NST
+602, 3	1304, 1-7	CEW	mae *mham* nhw yn dod o Seland_Newydd	NST	NST
+602, 4	1307, 1-10	CEW	a mae o wedi cael hogan bach yna efo rywun	NSNT	NSNT
+602, 5	1308, 1-5	CEW	dydy o ddim efo hi	NSNT	NSNT
+602, 6	1310, 1-9	CEW	ond mae o isio bod efo o_gwmpas y ferch	---	NSNT
+
+
+603, 1	1311, 1-4	WEN	ia o_gwmpas y ferch	---	NSNT
+
+
+604, 1	1312, 1-8	LUN	*oh* mae yn braf yn Seland_Newydd beth bynnag	NST	NST
+604, 2	1312, 9-11	LUN	dydy i fod	---	NSNT
+
+
+605, 1	1313, 1-15	WEN	ddeud wrth *Claire* bod *Liz* felly wedi pasio yr ci ymlaen i rywun arall *yeah*	NST	NST
+605, 2	1315, 1-2	WEN	dydy methu	NSNT	NSNT
+605, 3	1316, 1-3	WEN	mae yn anodd	---	NSNT
+
+
+606, 1	1317, 1-10	CEW	hwyrach bod hi yn gwrando ar y sgwrs yma rŵan	---	NSNT
+
+
+607, 1	1320, 1-4	WEN	digon posib bod hi	---	NSNT
+
+
+608, 1	1322, 1-4	LUN	ie wedyn mae *sure*	NST	NST
+608, 2	1323, 1-4	LUN	*well* dw i ddim	NST	NST
+608, 3	1323, 5-7	LUN	wedi bod yn	NSNT	NSNT
+608, 4	1323, 8-12	LUN	lle mae nhw yn aros	NSNT	NSNT
+608, 5	1324, 1-2	LUN	mae nhw	NSNT	NSNT
+608, 6	1324, 3-4	LUN	mae nhw	NSNT	NSNT
+608, 7	1325, 1-6	LUN	*well* lle mae nhw yn byw	NST	NST
+608, 8	1326, 1-9	LUN	mae nhw yn byw mewn lle go ddiwydiannol felly	NSNT	NSNT
+608, 9	1326, 10-11	LUN	mae *sure*	---	NST
+
+
+609, 1	1327, 1-7	WEN	*oh* na ond bod o ar stryd	NST	NST
+609, 2	1330, 1-15	WEN	y stryd ac hwyrach ddim yn mynd am dro nac ydyn fath â ni rywsut	---	NSNT
+
+
+610, 1	1331, 1-6	CEW	mae nhw yn mynd am dro	NSNT	NSNT
+610, 2	1332, 1-2	CEW	ond ond	---	NSNT
+
+
+611, 1	1334, 1-6	LUN	mae yna geir a prysurdeb yna	NSNT	NSNT
+611, 2	1334, 7-7	LUN	does	---	NSNT
+
+
+612, 1	1335, 1-1	CEW	ac	NSNT	NSNT
+612, 2	1336, 1-10	CEW	*mmm* mae yna ryw barciau a pethau o_gwmpas y lle	NST	NST
+612, 3	1337, 1-2	CEW	mae *Jen*	NST	NST
+612, 4	1337, 3-7	CEW	wedi bod mynd â fo	NSNT	NSNT
+612, 5	1339, 1-9	CEW	a mae wneud lles iddi gorod mynd am dro	NSNT	NSNT
+612, 6	1339, 10-14	CEW	dw i ddim yn deud	NSNT	NSNT
+612, 7	1341, 1-8	CEW	ond mae yr ci yna yn *nuisance* ofnadwy	---	NST
+
+
+613, 1	1344, 1-3	LUN	ydy *right* fywiog	NST	NST
+613, 2	1344, 4-6	LUN	mae yn *sure*	---	NST
+
+
+614, 1	1345, 1-5	WEN	newid ei bywyd hi de	---	NSNT
+
+
+615, 1	1347, 1-2	CEW	*oh* mae	NST	NST
+615, 2	1347, 3-8	CEW	mae nhw rhy ffeind efo hi	SNT	NSNT
+615, 4	1349, 1-5	CEW	because pan wnes i weiddi	NSNT	SNT
+615, 5	1350, 1-5	CEW	cau dy geg y diawl	NSNT	NSNT
+615, 6	1351, 1-13	CEW	neu rywbeth fel yna arni yn y nos pan oedd hi yn cyfarth	NSNT	NSNT
+615, 7	1351, 14-17	CEW	oedd *Jen* yn deud	ST	NST
+615, 8	1352, 1-5	CEW	*oh* don't shout at her	NST	NST
+615, 9	1353, 1-5	CEW	it doesn't do any good	NSNT	NSNT
+615, 12	1356, 1-3	CEW	no you see	NSNT	NSNT
+615, 13	1356, 4-7	CEW	you have to understand	SNT	SNT
+615, 14	1357, 1-5	CEW	deud rywbeth fel yna yn_de	NSNT	NSNT
+615, 16	1359, 1-10	CEW	ac *er* dw i ddim yn meddwl na fel yna	NST	NST
+615, 17	1359, 11-13	CEW	mae trin ci	NSNT	NSNT
+615, 18	1359, 14-14	CEW	te	---	NSNT
+
+
+616, 1	1363, 1-6	WEN	ia iddo fo neu rywbeth de	---	NSNT
+
+
+617, 1	1367, 1-3	CEW	be ydy be	---	NSNT
+
+
+618, 1	1368, 1-5	LUN	dw i ddim yn meddwl	NSNT	NSNT
+618, 2	1368, 6-10	LUN	bod o yn dallt *um*	NST	NST
+618, 3	1368, 11-13	LUN	sibrwd a ballu	---	NSNT
+
+
+619, 1	1371, 1-5	CEW	*oh* na dw i gor_ddeud	NST	NST
+619, 2	1372, 1-11	CEW	ond ddeud bod hi ddim isio gweiddi arno fo a finnau	NSNT	NSNT
+619, 3	1372, 12-17	CEW	meddwl bod isio gweiddi arno fo	---	NSNT
+
+
+620, 1	1377, 1-12	LUN	*oh* mae o *just* yn swnio fath â gobbledygook i yr ci	---	ST
+
+
+621, 1	1379, 1-4	WEN	*oh* dw i *sure*	NST	NST
+621, 2	1379, 5-7	WEN	bod *Jen* falch	---	NST
+
+
+622, 1	1380, 1-3	CEW	mae yn *sure*	---	NST
+
+
+623, 1	1381, 2-4	WEN	dw i *sure*	NST	NST
+623, 2	1381, 5-6	WEN	bod hi	---	NSNT
+
+
+624, 1	1382, 1-8	CEW	*well* dan ni mynd i weld nhw fory	NST	NST
+624, 2	1383, 1-13	CEW	rhaid mi ffonio *Dorothy* i ddeud pryd dw i mynd i droi fyny	---	NST
+
+
+625, 1	1384, 1-2	WEN	*oh* ti	NST	NST
+625, 2	1385, 1-4	WEN	lle mae *Dorothy* wan	NST	NST
+625, 3	1386, 1-3	WEN	dw isio gwybod	NSNT	NSNT
+625, 4	1386, 4-6	WEN	sut mae *Dorothy*	---	NST
+
+
+626, 1	1387, 1-2	CEW	mae yna	---	NSNT
+
+
+627, 1	1388, 1-4	WEN	*oh* mae yn Llundain	---	NST
+
+
+628, 1	1391, 1-5	CEW	dw ddim yn gwybod pam	NSNT	NSNT
+628, 2	1391, 6-14	CEW	bod hi ddim yn dod am cyn_gymaint o amser	---	NSNT
+
+
+629, 1	1393, 1-5	WEN	ond hwyrach yn y gaea	NSNT	NSNT
+629, 2	1393, 6-12	WEN	mae fan hyn yn le anghysbell iddi	NSNT	NSNT
+629, 3	1393, 13-18	WEN	dydy i_fyny ar y *top* a	---	NST
+
+
+630, 1	1396, 1-5	LUN	faint ydy hoed hi wan	---	NSNT
+
+
+631, 1	1397, 1-7	CEW	mae yn saith_deg rywbeth saith_deg_dau tri ballu	---	NSNT
+
+
+632, 1	1400, 1-1	LUN	mae	NSNT	NSNT
+632, 2	1400, 2-8	LUN	wedi bod trwy dipyn o bethau rŵan	NSNT	NSNT
+632, 3	1402, 1-6	LUN	a mae *Leonard* yn Llundain hefyd	NST	NST
+632, 4	1404, 1-6	LUN	mae o yn dipyn haws iddi	NSNT	NSNT
+632, 5	1404, 7-10	LUN	dydy dipyn mwy cyfleus	---	NSNT
+
+
+633, 1	1405, 1-3	CEW	yndy ond eto	NSNT	NSNT
+633, 2	1405, 4-11	CEW	fysai yn licio peidio dod i fan hyn	---	NSNT
+
+
+634, 1	1406, 1-7	WEN	na ond mi ddaw yn y gwanwyn	NSNT	NSNT
+634, 2	1406, 8-8	WEN	wneith	---	NSNT
+
+
+635, 1	1407, 1-6	CEW	a mae mynd yn ddrud iddi	NSNT	NSNT
+635, 2	1408, 1-2	CEW	a mae	NSNT	NSNT
+635, 3	1408, 3-10	CEW	mae yr agents isio codi *rent* yn ofnadwy	NST	ST
+635, 4	1409, 1-2	CEW	dyna pam	NSNT	NSNT
+635, 5	1409, 3-9	CEW	mae nhw isio wneud y ffordd i_fyny	NSNT	NSNT
+635, 6	1409, 10-12	CEW	dw i *sure*	---	NST
+
+
+636, 1	1410, 1-6	WEN	*oh* mi ddaw yn y gwanwyn	---	NST
+
+
+637, 1	1411, 1-7	CEW	mae nhw isio wneud y lle i_fyny	NSNT	NSNT
+637, 2	1412, 1-7	CEW	a wedyn dw i ddim yn gwybod	NSNT	NSNT
+637, 3	1412, 8-9	CEW	be ddigwyddith	NSNT	NSNT
+637, 4	1413, 1-7	CEW	*Lowri* sy yn deud hynna wrtha i	NST	NST
+637, 5	1415, 1-7	CEW	dydyn nhw ddim wedi deud wrth *Dorothy*	---	NST
+
+
+638, 1	1416, 1-2	LUN	*Bryn_yr_Haul* wan	---	NST
+
+
+639, 1	1420, 1-5	WEN	am wneud y tŷ fyny	NSNT	NSNT
+639, 2	1422, 1-1	WEN	i	---	NSNT
+
+
+640, 1	1423, 1-9	CEW	*well* i rywun efo mwy o bres na *Dorothy*	NST	NST
+640, 2	1425, 1-13	CEW	*well* mae yn ddrud iddi hi because fod ni ddim yn byw yna	NST	ST
+640, 3	1425, 14-14	CEW	dydy	NSNT	NSNT
+640, 4	1425, 15-22	CEW	bod hi yn gorod talu am ddau le	NSNT	NSNT
+640, 5	1428, 1-3	CEW	hynny ydy hi	NSNT	NSNT
+640, 6	1428, 4-7	CEW	sy biau yr lle	NSNT	NSNT
+640, 7	1428, 8-8	CEW	yn_te	NSNT	NSNT
+640, 8	1429, 1-9	CEW	mae yn cael *rent* i_mewn am y fyny grisiau	---	NST
+
+
+641, 1	1430, 1-4	WEN	yndy am y *top*	---	NST
+
+
+642, 1	1431, 1-3	CEW	ond *er* dal	NST	NST
+642, 2	1431, 4-6	CEW	mae yn debyg	NSNT	NSNT
+642, 3	1431, 7-11	CEW	bod o yn ddrud iddi	---	NSNT
+
+
+643, 1	1432, 1-5	LUN	mae raid ei fod o	---	NSNT
+
+
+644, 1	1433, 1-8	WEN	ond fyddan nhw yn colli fan yma hefyd	NSNT	NSNT
+644, 2	1433, 9-9	WEN	petasai	NSNT	NSNT
+644, 3	1434, 1-7	WEN	ond fedran nhw ddim mynd â hi	NSNT	NSNT
+644, 4	1434, 8-8	WEN	wsti	NSNT	NSNT
+644, 5	1434, 9-17	WEN	fedran nhw ddim deud wrthi am fynd o yna	NSNT	NSNT
+644, 6	1434, 18-20	WEN	na fedran *Ceinwen*	---	NST
+
+
+645, 1	1435, 1-10	CEW	*well* fedran nhw godi *rent* tu allan i chyrraedd hi	---	NST
+
+
+646, 1	1437, 1-5	WEN	gân nhw dŵad godi *rent*	---	NST
+
+
+647, 1	1438, 1-10	CEW	os ydyn nhw wneud gwaith ar y lle a ballu	NSNT	NSNT
+647, 2	1438, 11-13	CEW	mae yn debyg	---	NSNT
+
+
+648, 1	1439, 1-2	WEN	ia hwyrach	NSNT	NSNT
+648, 2	1441, 1-3	WEN	hwyrach codi *rent*	---	NST
+
+
+649, 1	1442, 1-4	LUN	geith hi wrthod hynny	NSNT	NSNT
+649, 2	1443, 1-7	LUN	ta ta oes gynnyn nhw yr hawl	---	NSNT
+
+
+650, 1	1444, 1-5	CEW	dw i ddim yn gwybod	---	NSNT
+
+
+651, 1	1445, 1-3	WEN	baset ti meddwl	NSNT	NSNT
+651, 2	1445, 4-4	WEN	bod	NSNT	NSNT
+651, 3	1445, 5-8	WEN	gynni ryw hawliau yn_byset	---	NSNT
+
+
+652, 1	1446, 1-5	CEW	dydw i ddim yn meddwl	---	NSNT
+
+
+653, 1	1447, 1-3	WEN	baset ti feddwl	NSNT	NSNT
+653, 2	1447, 4-4	WEN	bod	NSNT	NSNT
+653, 3	1447, 5-7	WEN	gynni ryw hawliau	---	NSNT
+
+
+654, 1	1448, 1-2	CEW	fyset ti	NSNT	NSNT
+654, 2	1449, 1-1	CEW	byset	NSNT	NSNT
+654, 3	1450, 1-5	CEW	dw i ddim yn gwybod	NSNT	NSNT
+654, 4	1450, 6-9	CEW	sut mae yn gweithio	NSNT	NSNT
+654, 6	1452, 1-10	CEW	mae nhw i weld yn cael trin pawb fel baw	NSNT	NSNT
+654, 7	1452, 11-11	CEW	yn_te	NSNT	NSNT
+654, 8	1454, 1-3	CEW	yn hapus braf	NSNT	NSNT
+654, 9	1455, 1-3	CEW	cwyno amdanyn nhw	---	NSNT
+
+
+655, 1	1456, 1-5	WEN	drws nesa mae *Lowri* yn	---	NST
+
+
+656, 1	1457, 1-13	CEW	*well* dydyn nhw ddim yn licio bod *Dorothy* yn cael *rent* gyn *Lowri*	NST	NST
+656, 2	1457, 14-18	CEW	bod hi wedi is_osod o	---	NSNT
+
+
+657, 1	1459, 1-12	WEN	ond mewn ffordd fysai mond dwy ohonyn nhw yn byw yna wedyn	NSNT	NSNT
+657, 2	1459, 13-14	WEN	nag oes	NSNT	NSNT
+657, 3	1459, 15-16	WEN	yndy rywsut	---	NSNT
+
+
+658, 1	1461, 1-2	CEW	dw meddwl	NSNT	NSNT
+658, 2	1461, 3-8	CEW	bod isio gadael llonydd iddyn nhw	NSNT	NSNT
+658, 3	1462, 1-5	CEW	mae nhw yn hapus yna	NSNT	NSNT
+658, 4	1463, 1-9	CEW	dyn nhw ddim yn wneud dim drwg i neb	---	NSNT
+
+
+659, 1	1465, 1-2	WEN	nag ydyn	---	NSNT
+
+
+660, 1	1466, 1-8	CEW	dyn nhw ddim mynd i fyw am byth	NSNT	NSNT
+660, 2	1466, 9-10	CEW	nag ydyn	---	NSNT
+
+
+661, 1	1469, 1-8	WEN	ac oes yna ddim llawer iawn o deuluoedd	NSNT	NSNT
+661, 2	1469, 9-11	WEN	eith i *fashion*	NST	NST
+661, 3	1470, 1-1	WEN	wsti	NSNT	NSNT
+661, 4	1470, 2-9	WEN	mae yn le anodd yn_dydy i fyw yno	NSNT	NSNT
+661, 5	1470, 10-18	WEN	wsti deuda i blant fynd i yr ysgol a	NSNT	NSNT
+661, 6	1475, 1-4	WEN	mae o rhy bell	NSNT	NSNT
+661, 7	1475, 5-5	WEN	dydy	NSNT	NSNT
+661, 8	1477, 1-4	WEN	go iawn dyddiau yma	---	NSNT
+
+
+662, 1	1478, 1-13	LUN	*oh* mae yna *lot* ddim hyd_yn_oed isio byw yng cefn yng nghefn gwlad	NST	NST
+662, 2	1479, 1-7	LUN	a mae hwn yn anghysbell iawn yn_dydy	---	NSNT
+
+
+663, 1	1483, 1-5	WEN	plant mae o am dipyn	NSNT	NSNT
+663, 2	1484, 1-10	WEN	mae *Heulwen* yn cerdded dipyn i_fyny yma ti yn gweld	NST	NST
+663, 3	1484, 11-11	WEN	dydy	---	NSNT
+
+
+664, 1	1485, 1-2	CEW	yndy ond	---	NSNT
+
+
+665, 1	1486, 1-3	WEN	be mae wneud	NSNT	NSNT
+665, 2	1487, 1-2	WEN	cerdded i_fyny	---	NSNT
+
+
+666, 1	1490, 1-2	CEW	ac i_lawr	---	NSNT
+
+
+667, 1	1491, 1-1	LUN	cerdded	NSNT	NSNT
+667, 2	1493, 1-2	LUN	i lle	---	NSNT
+
+
+668, 1	1494, 1-10	WEN	i adre yma ti yn gweld ti yn gweld yn_de	---	NSNT
+
+
+669, 1	1495, 1-3	CEW	i yr ffordd	---	NSNT
+
+
+670, 1	1496, 1-4	LUN	*oh* *yeah* fyny ia	---	NST
+
+
+671, 1	1498, 1-13	WEN	wedyn mewn ffordd deuda di bod yna blant yn byw i_fyny fan yna	NSNT	NSNT
+671, 2	1498, 14-19	WEN	mae o yn *goblin* o *step*	NST	NST
+671, 3	1498, 20-20	WEN	dydy	---	NSNT
+
+
+672, 1	1499, 3-4	LUN	mae o	---	NSNT
+
+
+673, 1	1500, 1-15	CEW	mae o yn gallu mynd lawr dros y bryn dydyn i yr ffordd ffordd yna	NSNT	NSNT
+673, 2	1501, 1-3	CEW	ond mae yn	NSNT	NSNT
+673, 3	1501, 4-8	CEW	ond mae yn serth iawn	---	NSNT
+
+
+674, 1	1502, 1-4	LUN	dal yn dipyn o	NSNT	NSNT
+674, 2	1504, 1-4	LUN	yndy blant ifanc *mmm*	---	NST
+
+
+675, 1	1505, 1-4	WEN	mewn tywydd a bob_dim	---	NSNT
+
+
+676, 1	1506, 1-10	CEW	hwyrach bod hi ddim yn bellach nag i fan hyn	NSNT	NSNT
+676, 2	1507, 1-3	CEW	ond mae serthach	---	NSNT
+
+
+677, 1	1510, 1-4	LUN	*yeah* mae yn debyg	NST	NST
+677, 2	1510, 5-19	LUN	bod nhw awydd cael wneud y ffordd a yr tŷ wneud bob_dim mwy hwylus rywsut	NSNT	NSNT
+677, 3	1512, 1-5	LUN	achos mae yr ffordd yn	NSNT	NSNT
+677, 4	1512, 6-12	LUN	dydy ddim yn dda ar_gyfer y ceir	---	NSNT
+
+
+678, 1	1513, 1-2	CEW	nag ydy	NSNT	NSNT
+678, 2	1513, 3-4	CEW	nag ydy	---	NSNT
+
+
+679, 1	1514, 1-3	WEN	na sicr ddim	---	NSNT
+
+
+680, 1	1516, 1-13	LUN	*oh* *yeah* o'n i meddwl fi heb weld *Dorothy* o_gwmpas ers ers tro	---	NST
+
+
+681, 1	1518, 1-3	WEN	dw i meddwl	NSNT	NSNT
+681, 2	1518, 4-8	WEN	bod hi wedi flwyddyn dwytha	NSNT	NSNT
+681, 3	1518, 9-16	WEN	bod hi wedi mynd tua yr amser yma	NSNT	NSNT
+681, 4	1519, 1-9	WEN	doedd hi ddim yma yn yn dechrau yr flwyddyn	---	NSNT
+
+
+682, 1	1522, 1-7	LUN	na na na mae yna ryw gyfnodau	NSNT	NSNT
+682, 2	1522, 8-11	LUN	pan mae rywun *mmm*	---	NST
+
+
+683, 1	1524, 1-3	CEW	sut mae hi	---	NSNT
+
+
+684, 1	1526, 1-8	LUN	ia wrth_gwrs dach chi mynd i gweld hi	NSNT	NSNT
+684, 2	1527, 1-4	LUN	sut dach chi mynd	---	NSNT
+
+
+685, 1	1528, 1-3	WEN	*well* cofia ni	NST	NST
+685, 2	1528, 4-5	WEN	atyn nhw	---	NSNT
+
+
+686, 1	1529, 1-2	CEW	wna i	NSNT	NSNT
+686, 2	1530, 1-2	CEW	wna i	---	NSNT
+
+
+687, 1	1531, 1-3	LUN	dach chi mynd	NSNT	NSNT
+687, 2	1532, 1-3	LUN	ia cofiwch ni	NSNT	NSNT
+687, 3	1532, 4-5	LUN	atyn nhw	NSNT	NSNT
+687, 4	1533, 1-7	LUN	ond dach chi mynd i yr peth	NSNT	NSNT
+687, 5	1534, 1-4	LUN	be sy gynnach chi	NSNT	NSNT
+687, 6	1535, 1-1	LUN	cyfarfod	NSNT	NSNT
+687, 7	1537, 1-2	LUN	efo yr	---	NSNT
+
+
+688, 1	1538, 1-1	CEW	Saith_Heddychwr_Treth	NSNT	NSNT
+688, 2	1539, 1-6	CEW	efo pedwar heddychwr treth a fi	---	NSNT
+
+
+689, 1	1540, 1-7	WEN	*oh* *yeah* deuda dipyn bach am hwnnw	NST	NST
+689, 2	1541, 1-1	WEN	deuda	---	NSNT
+
+
+690, 1	1542, 1-2	CEW	*just* bod	NST	NST
+690, 2	1542, 3-9	CEW	gynnon ni achos llys dechrau mis Mawrth	---	NSNT
+
+
+691, 1	1544, 1-2	LUN	yn lle	---	NSNT
+
+
+692, 1	1545, 1-4	CEW	yn cort of appeal	---	SNT
+
+
+693, 1	1546, 1-4	LUN	yn Llundain Llundain ia	---	NSNT
+
+
+694, 1	1547, 1-1	CEW	Llundain	NSNT	NSNT
+694, 2	1548, 1-4	CEW	dw ddim yn gwybod	NSNT	NSNT
+694, 3	1548, 5-7	CEW	lle mae o	NSNT	NSNT
+694, 4	1549, 1-3	CEW	ond ond mae	NSNT	NSNT
+694, 5	1549, 4-15	CEW	gennon ni ddiwrnod cyfan i drafod ein ein dadl eu dadl nhw	---	NSNT
+
+
+695, 1	1551, 1-2	LUN	fory fory	---	NSNT
+
+
+696, 1	1552, 1-2	CEW	dim yni	NSNT	NSNT
+696, 2	1553, 1-18	CEW	na na dechrau mis Mawrth un_ai yr ail neu yr trydydd *just* pryd mae yr *ddrama* yma ymlaen	---	NST
+
+
+697, 1	1556, 1-2	WEN	a faint	NSNT	NSNT
+697, 2	1557, 1-5	WEN	saith ohonach chi sy yn	---	NSNT
+
+
+698, 1	1560, 1-6	CEW	na dim yni sy yn trafod	NSNT	NSNT
+698, 2	1561, 1-9	CEW	ein twrnai ni sydd a eu twrnai nhw Cyllid_y_Wlad	---	NSNT
+
+
+699, 1	1564, 1-3	WEN	ti meddwl bod	NSNT	NSNT
+699, 2	1564, 4-7	WEN	gynnoch chi ryw obaith	---	NSNT
+
+
+700, 1	1565, 1-3	CEW	ryw obaith oes	NSNT	NSNT
+700, 2	1567, 1-3	CEW	dim *lot* fawr	NST	NST
+700, 3	1568, 1-2	CEW	ond mae	NSNT	NSNT
+700, 4	1568, 3-6	CEW	werth i ni drio	NSNT	NSNT
+700, 5	1570, 1-7	CEW	mae dadl nhw yn hollol warthus *well*	NST	NST
+700, 6	1570, 8-9	CEW	dadleuon nhw	---	NSNT
+
+
+701, 1	1571, 1-3	WEN	yndy o ddifri	NSNT	NSNT
+701, 2	1571, 4-4	WEN	tydy	---	NSNT
+
+
+702, 1	1572, 2-6	LUN	mae nhw yn hollol warthus	---	NSNT
+
+
+703, 1	1573, 1-2	WEN	mae o	NSNT	NSNT
+703, 2	1573, 3-3	WEN	sti	NSNT	NSNT
+703, 3	1574, 1-9	WEN	dydy o ddim yn rhoi rhyddid i rywun nac	NSNT	NSNT
+703, 4	1576, 1-1	WEN	sti	NSNT	NSNT
+703, 5	1576, 2-5	WEN	dydy o ddim yn	NSNT	NSNT
+703, 6	1576, 6-10	WEN	rhoid rhyddid i rywun ddewis	---	NSNT
+
+
+704, 1	1577, 1-2	LUN	nag ydy	---	NSNT
+
+
+705, 1	1578, 1-3	WEN	ddim go iawn	---	NSNT
+
+
+706, 1	1579, 1-9	CEW	achos be mae nhw angen gyn pobl dyddiau yma	NSNT	NSNT
+706, 2	1579, 10-18	CEW	ydy pres dim i bobl fynd i yr fyddin	NSNT	NSNT
+706, 3	1582, 1-13	CEW	ran fwya ohonyn nhw yn dibynnu ar bres ac offer a ballu dydy	---	NSNT
+
+
+707, 1	1583, 1-9	WEN	ond be fasai rywun rŵan fath â *Michelle* wan	NST	NST
+707, 2	1583, 11-13	WEN	fysai yn deud	NSNT	NSNT
+707, 3	1583, 14-17	WEN	bod deuda di rŵan	NSNT	NSNT
+707, 4	1583, 18-19	WEN	bod chdi	NSNT	NSNT
+707, 5	1583, 20-24	WEN	bod ni yn cael dewis	NSNT	NSNT
+707, 6	1583, 25-32	WEN	dw i ddim yn mynd i dalu treth	---	NSNT
+
+
+708, 1	1585, 1-2	CEW	baset ti	NSNT	NSNT
+708, 2	1586, 1-13	CEW	na baset ti gorod cael rywbeth arall iddo fo fynd iddo fo fel	NSNT	NSNT
+708, 3	1586, 14-21	CEW	bod chdi talu yr un faint o dreth	NSNT	NSNT
+708, 4	1586, 22-28	CEW	ond bod o ddim mynd at ryfel	---	NSNT
+
+
+709, 1	1588, 1-6	LUN	*oh* *yeah* bod chi yn dewis	NST	NST
+709, 2	1588, 7-10	LUN	lle mae yn mynd	---	NSNT
+
+
+710, 1	1590, 1-1	CEW	bod	NSNT	NSNT
+710, 2	1590, 2-8	CEW	bod o rywbeth bod yna gronfa heddychlon	---	NSNT
+
+
+711, 1	1591, 1-3	WEN	*oh* dyna *oh*	NST	NST
+711, 2	1591, 4-5	WEN	dyna ia	---	NSNT
+
+
+712, 1	1592, 1-6	LUN	achos pan dach chi yn gwneud	---	NSNT
+
+
+713, 1	1595, 1-5	WEN	ia mae hynna yn iawn	---	NSNT
+
+
+714, 1	1596, 1-11	LUN	pan dach chi yn gwneud fath â *pension* neu rywbeth *well*	---	NST
+
+
+715, 1	1598, 1-6	WEN	ia ond ti yn cael dewis	---	NSNT
+
+
+716, 1	1601, 1-9	LUN	a gewch chi ddewis i fod yn hollol foesegol	NSNT	NSNT
+716, 2	1602, 1-5	LUN	does dim rhaid i chi	NSNT	NSNT
+716, 3	1602, 6-9	LUN	roid o mewn rywle	NSNT	NSNT
+716, 4	1602, 10-10	LUN	sy	NSNT	NSNT
+716, 5	1602, 11-13	LUN	dach chimod *um*	NST	NST
+716, 6	1603, 1-1	LUN	dyna	NSNT	NSNT
+716, 7	1603, 2-11	LUN	mae yna dipyn o *fuss* amdano fo ar y funud	NST	NST
+716, 8	1604, 1-2	LUN	wedyn ddylai	NSNT	NSNT
+716, 9	1604, 3-9	LUN	bod yna yr un fath efo hynny	---	NSNT
+
+
+717, 1	1605, 1-6	CEW	hefo *pension* drwy yr llywodraeth wan	---	NST
+
+
+718, 1	1606, 1-10	LUN	*well* ie petasech chi *just* yn gwneud *pension* yn gyffredinol	---	NST
+
+
+719, 1	1607, 1-4	CEW	ti gorod cael dewis	---	NSNT
+
+
+720, 1	1609, 1-6	LUN	yndych dach chi yn cael dewis	NSNT	NSNT
+720, 2	1609, 7-13	LUN	lle dach chi isio buddsoddi yr pres	NSNT	NSNT
+720, 3	1612, 1-4	LUN	wrth_gwrs dach chi isio	NSNT	NSNT
+720, 4	1612, 5-7	LUN	roid o rywle	NSNT	NSNT
+720, 5	1612, 8-13	LUN	sy mynd i ddodwy i chi	---	NSNT
+
+
+721, 1	1613, 1-3	CEW	ia ond mae	NSNT	NSNT
+721, 2	1613, 4-7	CEW	mae gyn rei pobl	NSNT	NSNT
+721, 3	1613, 8-15	CEW	mae yn bwysicach am egwyddorion nag am hynny	---	NSNT
+
+
+722, 1	1617, 1-10	WEN	yndy wedyn mewn ffordd ti yn sôn am dalu treth	NSNT	NSNT
+722, 2	1620, 1-6	WEN	ond bod chdi yn cael deud	NSNT	NSNT
+722, 3	1620, 7-9	WEN	bod yna ddim	---	NSNT
+
+
+723, 1	1621, 1-6	CEW	bod o ddim mynd ar rhyfel	---	NSNT
+
+
+724, 1	1622, 1-1	WEN	hollol	---	NSNT
+
+
+725, 1	1623, 1-6	LUN	*well* mae hynna yn hollol deg	NST	NST
+725, 2	1625, 1-2	LUN	dydy hynna	---	NSNT
+
+
+725, 3	1625, 3-4	LUN	dach chimod	NSNT	NSNT
+726, 2	1627, 20-27	CEW	os ydyn nhw ddim yn gredu yno fo	---	NSNT
+
+
+727, 1	1628, 1-11	LUN	*oh* dydy o ddim yn deg talu amdano fo chwaith felly	NST	NST
+727, 2	1628, 12-13	LUN	nag ydy	---	NSNT
+
+
+728, 1	1629, 1-15	CEW	ond mae talu amdano fo yn bwysicach o lawer dyddiau yma na mynd i ryfel	---	NSNT
+
+
+729, 1	1631, 1-9	LUN	achos mae gynnyn nhw eu eu byddin mewn ffordd	NSNT	NSNT
+729, 2	1631, 10-10	LUN	does	NSNT	NSNT
+729, 3	1632, 1-1	LUN	wedyn	NSNT	NSNT
+729, 4	1634, 1-4	LUN	*oh* dw i meddwl	NST	NST
+729, 5	1634, 5-5	LUN	bod	NSNT	NSNT
+729, 6	1634, 6-10	LUN	gynnoch chi ddadl dda iawn	NSNT	NSNT
+729, 7	1635, 1-4	LUN	a mae yn debyg	NSNT	NSNT
+729, 8	1635, 5-7	LUN	bod yna *lot*	---	NST
+
+
+730, 1	1637, 1-8	CEW	ond dydy llywodraethau ddim yn licio fo because	SNT	SNT
+730, 2	1637, 9-27	CEW	mae yn mynd i darfu ar eu rhyddid nhw i fynd i ymosod ar wledydd diniwed bob munud fel	NSNT	NSNT
+730, 3	1637, 28-32	CEW	mae nhw yn licio wneud	---	NSNT
+
+
+731, 1	1639, 1-2	WEN	mae *bity*	NST	NST
+731, 2	1639, 3-9	WEN	na fysai yna bobl yn yn yn	---	NSNT
+
+
+731, 3	1639, 10-10	WEN	yn_te	NSNT	NSNT
+732, 2	1641, 1-4	LUN	achos dw i meddwl	---	NSNT
+
+
+733, 1	1643, 1-3	CEW	cael pobl i	NSNT	NSNT
+733, 2	1644, 1-9	CEW	dan ni mynd i drio wneud *gig* yn *er*	---	NST
+
+
+734, 1	1645, 1-6	LUN	yndy o'n i mynd i ddeud	---	NSNT
+
+
+735, 1	1646, 1-4	CEW	*Hendre* be ydy Plas_Hendre	---	NST
+
+
+736, 1	1647, 1-2	WEN	ia Hendre_Hall	---	SNT
+
+
+737, 1	1649, 1-4	CEW	ella diwrnod cyn Pasg	NSNT	NSNT
+737, 2	1651, 1-4	CEW	dan ni yn gobeithio	---	NSNT
+
+
+738, 1	1652, 1-4	LUN	basai hynna yn *great*	NST	NST
+738, 2	1653, 1-4	LUN	basai hynna yn *great*	---	NST
+
+
+739, 1	1656, 1-5	WEN	mae o yn annhegwch mawr	NSNT	NSNT
+739, 2	1656, 6-6	WEN	dydy	NSNT	NSNT
+739, 3	1656, 7-12	WEN	bod ni yn gorod talu *fashion*	NST	NST
+739, 4	1656, 13-13	WEN	drethi	NSNT	NSNT
+739, 5	1656, 14-20	WEN	a bod rhan fwya mynd ar bethau	NSNT	NSNT
+739, 6	1656, 21-25	WEN	na dan ni ddim yn	---	NSNT
+
+
+740, 1	1657, 2-3	CEW	mae o	SNT	NSNT
+740, 3	1659, 1-1	CEW	*well*	---	NST
+
+
+741, 1	1660, 1-6	WEN	ti yn gweld mae hwnnw yn	NSNT	NSNT
+741, 2	1660, 8-9	WEN	mae o	---	NSNT
+
+
+742, 1	1661, 1-2	LUN	dach chi	---	NSNT
+
+
+743, 1	1662, 2-3	CEW	mae o	---	NSNT
+
+
+744, 1	1663, 1-4	LUN	*bity* bod yna fwy	---	NST
+
+
+745, 1	1664, 1-10	CEW	because mae rhan fwya o bobl teimlo yr un fath	---	SNT
+
+
+746, 1	1665, 1-1	WEN	ydyn	NSNT	NSNT
+746, 2	1665, 2-3	WEN	mae *sure*	---	NST
+
+
+747, 1	1666, 1-11	CEW	dim dim mwyafrif llethol ond *just* dros hanner baswn i ddeud	---	NST
+
+
+748, 1	1667, 1-5	LUN	*oh* fedra i ddim meddwl	NST	NST
+748, 2	1667, 6-7	LUN	bod pawb	NSNT	NSNT
+748, 3	1668, 1-3	LUN	dach chimod pawb	NSNT	NSNT
+748, 4	1668, 4-8	LUN	sy o blaid rhyfel wrth_gwrs	NSNT	NSNT
+748, 5	1668, 9-13	LUN	mae nhw mynd i anghytuno	NSNT	NSNT
+748, 6	1668, 14-16	LUN	mae yn debyg	NSNT	NSNT
+748, 7	1669, 1-5	LUN	ond pawb sy yn_erbyn rhyfel	NSNT	NSNT
+748, 8	1669, 6-9	LUN	fedra i ddim dallt	NSNT	NSNT
+748, 9	1669, 10-16	LUN	be sy gynnyn nhw yn_erbyn y peth	---	NSNT
+
+
+749, 1	1672, 1-10	CEW	*just* ddim yn gwybod am y peth mae nhw debyg	NST	NST
+749, 2	1673, 1-18	CEW	ond pan o'n i yn Llundain oedd yna yr ddynes yma *um* wedi sgwennu yn y *Guardian* Dolig	NST	NST
+749, 3	1674, 1-17	CEW	ac o'n i wedi colli fo y Dolig a wedi gael o wedyn a wedi darllen o	NSNT	NSNT
+749, 4	1676, 1-2	CEW	*Claire_Higgins* actores	NST	NST
+749, 5	1677, 1-5	CEW	ac oedden nhw yn deud	NSNT	NSNT
+749, 6	1678, 1-1	CEW	wsti	NSNT	NSNT
+749, 7	1678, 2-5	CEW	mae yna yr *paragraph*	NST	NST
+749, 8	1678, 6-10	CEW	mae nhw yn holi bobl	NSNT	NSNT
+749, 10	1681, 1-3	CEW	oedd hi deud	NSNT	NSNT
+749, 11	1681, 4-5	CEW	bod hi	SNT	NSNT
+749, 12	1682, 1-9	CEW	who who would you most like to apologise to	NSNT	NSNT
+749, 13	1683, 1-5	CEW	the people of *Iraq* for	ST	NST
+749, 14	1684, 1-2	CEW	beth bynnag	SNT	NSNT
+749, 15	1687, 1-9	CEW	with my in my name and with my *taxes*	ST	NST
+749, 16	1688, 1-2	CEW	meddai hi	NSNT	NSNT
+749, 17	1691, 1-3	CEW	*so* felly dw	NST	NST
+749, 18	1691, 4-9	CEW	wnes i sgwennu llythyr a rhoi	NSNT	NSNT
+749, 19	1691, 10-24	CEW	taflen a mynd â fo i yr i yr *um* backstage *door* a ballu a	NST	ST
+749, 20	1693, 1-7	CEW	mynd i weld y *ddrama* efo *Sebastian*	---	NST
+
+
+750, 1	1695, 1-4	WEN	oedd y *ddrama* ia	---	NST
+
+
+751, 1	1696, 1-4	LUN	na wnaeth hi weld	NSNT	NSNT
+751, 2	1696, 5-10	LUN	wnaeth hi gaethoch chi gyfarfod hi	---	NSNT
+
+
+752, 1	1697, 2-14	CEW	wnaeth hi ffonio fi ar yn mobile *just* cyn dechrau yr *drama* deud	NST	ST
+752, 2	1698, 1-5	CEW	tyrd i weld fi wedyn	NSNT	NSNT
+752, 3	1699, 1-4	CEW	a mi es i	NSNT	NSNT
+752, 4	1700, 1-3	CEW	ac oedd hi	---	NSNT
+
+
+753, 1	1701, 1-3	WEN	paid â deud	---	NSNT
+
+
+754, 1	1703, 1-5	CEW	oedd hi yn frwdfrydig iawn	NSNT	NSNT
+754, 2	1703, 6-12	CEW	yn_te chwarae teg iddi ac yn deud	NSNT	NSNT
+754, 3	1703, 13-22	CEW	basai hi yn trio lledaenu gwybodaeth ymysg yr actorion eraill	NSNT	NSNT
+754, 4	1704, 1-3	CEW	mae yn deud	NSNT	NSNT
+754, 5	1704, 4-9	CEW	bod naw_deg y cant neu ella	NSNT	NSNT
+754, 6	1704, 10-12	CEW	ddeudodd hi naw_deg_pump	NSNT	NSNT
+754, 7	1704, 13-18	CEW	dw i ddim yn cofio *yeah*	NST	NST
+754, 8	1704, 19-27	CEW	dw meddwl yn yn teimlo yr un fath ia	NSNT	NSNT
+754, 9	1704, 28-43	CEW	a bod nhw yn hunan_gyflogedig ac yn gallu dal deg y cant o eu treth yn_ôl	NSNT	NSNT
+754, 10	1704, 44-47	CEW	os ydyn nhw isio	NSNT	NSNT
+754, 13	1707, 1-19	CEW	dydyn nhw ddim yn ti gwybod fel bobl eraill yn cael tynnu fo yn *automatic* allan o eu cyflog	---	NST
+
+
+755, 1	1708, 1-2	LUN	be ti	NSNT	NSNT
+755, 2	1710, 1-13	LUN	*bity* bod ddim posib gwneud rywbeth mwy ar y teledu efo hyn de	NST	NST
+755, 3	1712, 1-7	LUN	achos basai hynna yn roi boost mawr	---	SNT
+
+
+756, 1	1713, 1-4	WEN	gwnân nhw ryw ddiwrnod	NSNT	NSNT
+756, 2	1714, 1-3	WEN	mi wnewch hwyrach	NSNT	NSNT
+756, 4	1717, 1-5	WEN	petasech chi medru *just* dal	---	NST
+
+
+757, 1	1718, 1-9	LUN	*yeah* ond *bity* does yna ddim mwy o bobl	---	NST
+
+
+759, 1	1721, 1-5	WEN	ond sut oedd y *ddrama*	NST	NST
+759, 2	1721, 6-9	WEN	oedd hi yno fo	---	NSNT
+
+
+760, 1	1722, 1-5	CEW	oedd o dda iawn iawn	NSNT	NSNT
+760, 2	1723, 1-3	CEW	*Night_of_the_Iguana* gyn *Tennessee_Williams*	---	NST
+
+
+761, 1	1724, 1-2	LUN	gyn *Tennessee*	---	NST
+
+
+762, 1	1726, 1-11	CEW	ac o'n i ddim wedi gweld na wedi darllen y *ddrama*	NST	NST
+762, 2	1727, 1-11	CEW	o'n i ddim yn gwybod am be oedd hi na dim_byd	---	NSNT
+
+
+763, 1	1729, 1-1	LUN	rywsut	NSNT	NSNT
+763, 2	1730, 1-4	LUN	am be oedd hi	---	NSNT
+
+
+764, 1	1731, 1-9	CEW	am ryw le yn *Mexico* adeg y ryfel dwytha	NST	NST
+764, 2	1732, 1-8	CEW	*um* Americanes a ei gŵr mae yn debyg	NST	NST
+764, 3	1732, 9-23	CEW	ond oedd o newydd farw wedi agor ryw westy yn dim yn bell o *America*	NST	NST
+764, 4	1732, 24-25	CEW	dw meddwl	NSNT	NSNT
+764, 5	1734, 1-6	CEW	a gwahanol bobl yn galw heibio	NSNT	NSNT
+764, 6	1735, 1-13	CEW	*er* ac un prif *boy* oedd o yn fath â gweinidog neu rywbeth	NST	NST
+764, 7	1736, 1-18	CEW	ond oedd o wedi cael ei luchio allan o ei eglwys am gambihafio ballu a wneud ryw bregeth	NSNT	NSNT
+764, 8	1736, 19-31	CEW	oedd ddim yn dderbyniol a mynd efo genod ifanc a ryw bethau felly	NSNT	NSNT
+764, 9	1738, 1-17	CEW	ac wedi cael gwaith yn tywys ymwelwyr o_gwmpas y lle a wedi dod yno efo ei *fus*	NST	NST
+764, 10	1740, 1-7	CEW	ac oedden nhw i_gyd isio symud ymlaen	NSNT	NSNT
+764, 11	1741, 1-14	CEW	ond oedd o isio aros yna a meddwi a siarad efo yr ddynes yma	NSNT	NSNT
+764, 14	1745, 1-6	CEW	a ac oedd yna ddau Almaenwr	NSNT	NSNT
+764, 15	1745, 7-10	CEW	oedd yn dod yna	SNT	NSNT
+764, 16	1746, 1-4	CEW	*oh* they're bombing London	NST	NST
+764, 17	1747, 1-4	CEW	it's all on fire	SNT	NSNT
+764, 18	1748, 1-8	CEW	ac oedden nhw wrth eu boddau ac yn	NSNT	NSNT
+764, 19	1748, 9-19	CEW	roid y *radio* ymlaen yn Almaeneg i bawb clywed y newyddion	NST	NST
+764, 20	1750, 1-3	CEW	a ddifyr iawn	---	NSNT
+
+
+765, 1	1752, 1-6	WEN	oedd hi yn actio yn dda	---	NSNT
+
+
+766, 1	1753, 2-5	CEW	oedd hi dda iawn	NSNT	NSNT
+766, 2	1754, 1-3	CEW	oedden nhw gyd	---	NSNT
+
+
+767, 1	1755, 1-5	LUN	be oedd ei henw hi	---	NSNT
+
+
+768, 1	1756, 1-1	WEN	*Claire_Higgins*	---	NST
+
+
+769, 1	1757, 1-1	CEW	*Claire_Higgins*	---	NST
+
+
+770, 1	1758, 1-1	LUN	*Claire_Higgins*	---	NST
+
+
+771, 1	1759, 1-6	CEW	*yeah* oedd hi wedi gael ryw	NST	NST
+771, 2	1759, 7-17	CEW	wobrwyon am fod yn best actress yn hyn a yr llall	NSNT	SNT
+771, 3	1761, 1-6	CEW	mae wedi cael dipyn o gydnabyddiaeth	---	NSNT
+
+
+772, 1	1764, 1-8	WEN	*oh* mae wedi gwirioni efo chdi a Saith_Heddychwr_Treth	---	NST
+
+
+773, 1	1767, 1-3	CEW	ond dw gobeithio	NSNT	NSNT
+773, 2	1767, 4-12	CEW	bod i wedi ddim wedi colli rhif *phone* hi	---	NST
+
+
+774, 1	1769, 1-5	LUN	glywsoch chi ddim_byd gyn *Richard_Gere*	---	NST
+
+
+775, 1	1770, 1-3	WEN	a mae *sure*	NST	NST
+775, 2	1770, 4-5	WEN	bod hi	---	NSNT
+
+
+776, 1	1773, 1-1	LUN	sâl	---	NSNT
+
+
+777, 1	1774, 1-3	WEN	sâl ydy o	---	NSNT
+
+
+778, 1	1776, 1-16	CEW	*well* ia ond mae o wneud *lot* efo ffoaduriaid Tibetan chwarae teg iddo fo *lot* fawr	---	ST
+
+
+779, 1	1777, 1-3	WEN	ydy o yn	---	NSNT
+
+
+780, 1	1778, 1-2	CEW	mae o	NSNT	NSNT
+780, 2	1778, 3-14	CEW	roid *lot* o bres iddyn nhw ac yn trefnu *lot* o bethau	NST	NST
+780, 4	1783, 1-6	CEW	*so* mae gynno fo ei bethau	NST	NST
+780, 5	1783, 7-8	CEW	ei hun	---	NSNT
+
+
+781, 1	1786, 1-2	WEN	ac wsti	NSNT	NSNT
+781, 2	1786, 3-7	WEN	mae o mewn gwlad arall	NSNT	NSNT
+781, 3	1786, 8-9	WEN	mae *sure*	NST	NST
+781, 4	1786, 10-13	WEN	tydy a phob_dim rywsut	NSNT	NSNT
+781, 5	1788, 1-6	WEN	ti yn gwybod mae o rhy	NSNT	NSNT
+781, 6	1789, 1-6	WEN	rywun fath â yr ddynes Saesnes	---	NSNT
+
+
+782, 1	1790, 1-6	LUN	yn *America* mae o yn byw	---	NST
+
+
+783, 1	1792, 1-5	CEW	ia American ydy o *yeah*	---	ST
+
+
+784, 1	1793, 1-3	WEN	American ydy o	NSNT	SNT
+784, 2	1794, 1-2	WEN	wedyn rywsut	---	NSNT
+
+
+785, 1	1796, 1-6	CEW	*oh* mae o wneud *lot* o	---	NST
+
+
+786, 1	1797, 1-5	LUN	dydy o ddim mor hawdd	---	NSNT
+
+
+787, 1	1798, 1-2	WEN	nag ydy	---	NSNT
+
+
+788, 1	1799, 1-9	CEW	*lot* o les yn ei ffordd ei hun hefyd	---	NST
+
+
+789, 1	1800, 1-2	WEN	yndy felly	NSNT	NSNT
+789, 2	1800, 3-3	WEN	dydy	---	NSNT
+
+
+790, 1	1801, 1-4	LUN	*oh* mae hynna dda	---	NST
+
+
+791, 1	1803, 2-3	WEN	mae o	---	NSNT
+
+
+792, 1	1804, 1-11	LUN	*ah* *yeah* o'n i ddim yn gwybod bod o yn gwneud	NST	NST
+792, 2	1806, 2-6	LUN	mae hynna yn dda iawn	NSNT	NSNT
+792, 3	1807, 1-5	LUN	*well* dw i yn gobeithio	---	NST
+
+
+793, 1	1808, 1-6	WEN	mae *Ceinwen* wedi eistedd wrth ymyl	NST	NST
+793, 2	1809, 1-4	WEN	dw i am ddeud	NSNT	NSNT
+793, 3	1809, 5-12	WEN	yn_te er_mwyn y tâp bod *Ceinwen* yn eistedd	NST	NST
+793, 4	1809, 13-17	WEN	wsti drws nesa i *Richard_Gere*	---	NST
+
+
+794, 1	1810, 1-1	LUN	be	---	NSNT
+
+
+795, 1	1813, 1-2	CEW	*well* do	---	NST
+
+
+796, 1	1814, 1-4	LUN	ac wan mae yn	NSNT	NSNT
+796, 2	1814, 5-11	LUN	mae yn mynd yn ffrindiau efo *Claire_Higgins*	---	NST
+
+
+797, 1	1816, 1-7	CEW	ia dydy o ddim yn anodd iawn	NSNT	NSNT
+797, 2	1817, 1-10	CEW	ti *just* yn mynd atyn nhw ac yn deud *hello*	---	NST
+
+
+798, 1	1818, 1-5	LUN	fyddach chi ymysg y sêr	NSNT	NSNT
+798, 4	1823, 1-4	LUN	sgwennu llythyr a ballu	NSNT	NSNT
+798, 5	1825, 1-8	LUN	ond gobeithio y deith yna fwy o sylw	NSNT	NSNT
+798, 6	1828, 1-6	LUN	geith y peth fwy o sylw	NSNT	NSNT
+798, 7	1828, 7-11	LUN	dw i yn drio ddeud	NSNT	NSNT
+798, 8	1830, 1-2	LUN	geith yr	---	NSNT
+
+
+799, 1	1832, 1-12	CEW	*well* mae yna *foy* isio sgwennu erthygl amdanon ni yn y *Sunday_Times*	NST	NST
+799, 2	1833, 1-10	CEW	a mae o mynd i fod yn y cyfarfod yma	---	NSNT
+
+
+800, 1	1834, 1-4	LUN	beth am y *Guardian*	---	NST
+
+
+801, 1	1835, 1-4	CEW	*oh* mae *Guardian* wedi	NST	NST
+801, 2	1835, 5-12	CEW	rhoid ryw bwt i_mewn amdanon ni ychydig yn_ôl	NSNT	NSNT
+801, 3	1838, 1-5	CEW	wnes i ddim gweld o	NSNT	NSNT
+801, 4	1839, 1-9	CEW	o'n i ddim yn gwybod pryd oedd o mewn	NSNT	NSNT
+801, 5	1840, 1-8	CEW	dw i ddim yn cael *Guardian* bob dydd	NST	NST
+801, 6	1841, 1-7	CEW	ond ges i o ar e_bost wedyn	NSNT	NSNT
+801, 8	1845, 1-6	CEW	ond oedd o ddim yn llawer	NSNT	NSNT
+801, 9	1846, 1-4	CEW	ond oedd o yna	NSNT	NSNT
+801, 10	1848, 1-8	CEW	basai rhan fwya o bobl wedi methu fo	---	NSNT
+
+
+802, 1	1849, 1-4	WEN	ella bydd yna fwy	NSNT	NSNT
+802, 2	1849, 5-6	WEN	tro yma	---	NSNT
+
+
+803, 1	1851, 1-2	LUN	bydd gobeithio	---	NSNT
+
+
+804, 1	1852, 1-5	CEW	pan fydd yr achos llys	NSNT	NSNT
+804, 2	1852, 6-8	CEW	mae yn *sure*	---	NST
+
+
+805, 1	1854, 1-9	LUN	adael ni wybod pryd mae nhw ni gael gweld	---	NSNT
+
+
+806, 1	1857, 1-16	WEN	o'n i wedi cymryd ti yn gweld bod chi yn gwrthod talu treth neu gwrthod talu	NSNT	NSNT
+806, 2	1857, 17-20	WEN	cyfran o eich treth	---	NSNT
+
+
+807, 1	1858, 1-2	LUN	y canran	---	NSNT
+
+
+808, 1	1859, 1-3	CEW	dan ni yn	---	NSNT
+
+
+809, 1	1861, 1-3	LUN	o'n i meddwl	---	NSNT
+
+
+810, 1	1862, 1-14	CEW	dan ni dal o nôl achos bod ni ddim isio fo fynd at ryfel	NSNT	NSNT
+810, 2	1862, 15-15	CEW	te	NSNT	NSNT
+810, 3	1864, 1-10	CEW	so dan ni gyd yn cadw deg y cant yn_ôl	---	NSNT
+
+
+811, 1	1865, 1-4	LUN	ia ar y funud	NSNT	NSNT
+811, 2	1866, 1-2	LUN	ond be	---	NSNT
+
+
+812, 1	1867, 1-5	WEN	cadw deg y cant yn_ôl	---	NSNT
+
+
+813, 1	1868, 1-6	LUN	ond be mae nhw isio wneud	---	NSNT
+
+
+814, 1	1869, 1-4	CEW	ac dan ni isio	NSNT	NSNT
+814, 2	1869, 5-11	CEW	roid o at rywbeth da yn lle	---	NSNT
+
+
+815, 1	1872, 1-7	LUN	ond os rowch chi o rŵan mi	NSNT	NSNT
+815, 2	1872, 8-10	LUN	eith at ryfel	NSNT	NSNT
+815, 3	1874, 1-1	LUN	dyna	NSNT	NSNT
+815, 4	1874, 2-5	LUN	sy gynnach chi ie	NSNT	NSNT
+815, 5	1876, 1-4	LUN	a dach chi yn	---	NSNT
+
+
+816, 1	1877, 1-6	CEW	a mae yna *lot* o bobl	NST	NST
+816, 2	1877, 7-9	CEW	sy wneud hynna	NSNT	NSNT
+816, 3	1878, 1-9	CEW	mae yna yr mudiad yma o yr enw *Conscience*	---	NST
+
+
+817, 1	1879, 1-3	WEN	*ah* wela i	---	NST
+
+
+818, 1	1880, 1-11	CEW	ac mae yna *lot* o aelodau o hwnnw yn wneud hynna	---	NST
+
+
+819, 1	1882, 1-3	WEN	wedyn mae nhw	---	NSNT
+
+
+820, 1	1883, 1-6	CEW	a wedyn ddaru nhw ofyn i	---	NSNT
+
+
+821, 1	1884, 1-10	WEN	ond pwy sy yn cael dal deg y cant yn_ôl	---	NSNT
+
+
+821, 2	1885, 1-5	WEN	dw i ddim wedi *quite*	---	NST
+
+
+823, 1	1889, 1-3	WEN	ti yn gweld	---	NSNT
+
+
+824, 1	1890, 1-14	CEW	os ti ar gyflog a cael tynnu fo yn *automatic* *well* does yna ddim_byd	NST	NST
+824, 2	1890, 15-17	CEW	fedri di wneud	---	NSNT
+
+
+825, 1	1891, 1-6	WEN	na fedri di ddim ti gweld	NSNT	NSNT
+825, 2	1892, 1-2	WEN	nag oes	---	NSNT
+
+
+826, 1	1893, 1-4	CEW	mae yn anodd iawn	NSNT	NSNT
+826, 3	1895, 1-6	CEW	mae pobl wedi gofyn i ni	NSNT	NSNT
+826, 4	1896, 1-7	CEW	*oh* dan ni yn cydymdeimlo yn llwyr	NST	NST
+826, 5	1897, 1-4	CEW	be fedrwn ni wneud	NSNT	NSNT
+826, 6	1898, 1-6	CEW	a mae yn anodd iawn deud	---	NSNT
+
+
+827, 1	1900, 1-10	LUN	achos go iawn bysen ni gorod am reol neu rywbeth	NSNT	NSNT
+827, 2	1900, 11-15	LUN	bysai neu ryw fath o	---	NSNT
+
+
+828, 1	1901, 1-2	CEW	dan ni	NSNT	NSNT
+828, 2	1901, 3-9	CEW	wedi bod yn trio meddwl am rywbeth	NSNT	NSNT
+828, 3	1902, 1-10	CEW	ond petaswn i yn ennill ennill yr hawl yma wedyn	NSNT	NSNT
+828, 4	1902, 11-18	CEW	basai gyn pawb yr hawl yn_bysai i ddeud	NSNT	NSNT
+828, 5	1902, 19-23	CEW	bod nhw ddim isio i	NSNT	NSNT
+828, 6	1902, 24-27	CEW	trethi fynd at ryfel	---	NSNT
+
+
+829, 1	1903, 1-1	WEN	bysai	NSNT	NSNT
+829, 2	1903, 2-2	WEN	bysai	---	NSNT
+
+
+830, 1	1904, 1-9	LUN	ydy o yn dibynnu ar yr un diwrnod yna	NSNT	NSNT
+830, 2	1905, 1-5	LUN	ta ydy yr achos llys	NSNT	NSNT
+830, 3	1907, 1-6	LUN	mae o mynd i mynd ymlaen	NSNT	NSNT
+830, 4	1907, 7-8	LUN	mae *sure*	---	NST
+
+
+831, 1	1908, 1-4	CEW	mae o yn *er*	NST	NST
+831, 2	1908, 5-7	CEW	mae hynna un_ai	NSNT	NSNT
+831, 3	1908, 8-20	CEW	mae nhw mynd i rhoi caniatâd i ni gael yr *um* judicial *review*	ST	ST
+831, 4	1908, 21-29	CEW	be ydy enw fo arolwg barnwrol yma neu peidio	NSNT	NSNT
+831, 5	1909, 1-8	CEW	a wedyn dan ni ella yn wneud hynna	NSNT	NSNT
+831, 6	1910, 1-6	CEW	neu os dyn nhw yn deud	NSNT	NSNT
+831, 7	1910, 7-9	CEW	na chewch wedyn	NSNT	NSNT
+831, 8	1910, 10-14	CEW	dan ni mynd i *Strasbourg*	NST	NST
+831, 10	1913, 1-3	CEW	*so* mae o	NST	NST
+831, 11	1913, 4-7	CEW	dydy o ddim yn	NSNT	NSNT
+831, 12	1913, 8-13	CEW	mae o yn a dal ymlaen	---	NSNT
+
+
+832, 1	1915, 1-5	WEN	mae o yn dal yn	NSNT	NSNT
+832, 2	1915, 6-8	WEN	werth ei wneud	NSNT	NSNT
+832, 5	1918, 1-6	WEN	a dw i yn teimlo hyd_yn_oed	NSNT	NSNT
+832, 6	1918, 7-7	WEN	wsti	NSNT	NSNT
+832, 7	1918, 8-17	WEN	os fydd o mond yn diwedd yn rywbeth bach rywsut	NSNT	NSNT
+832, 8	1918, 18-21	WEN	dw i yn teimlo	NSNT	NSNT
+832, 9	1918, 22-26	WEN	wneith o ddim stopio chwaith	NSNT	NSNT
+832, 10	1919, 1-5	WEN	wyddost ti mae o rywbeth	NSNT	NSNT
+832, 11	1919, 6-8	WEN	bigith i_fyny eto	NSNT	NSNT
+832, 12	1919, 9-11	WEN	dw i *sure*	NST	NST
+832, 13	1919, 12-12	WEN	sti	---	NSNT
+
+
+833, 1	1923, 1-1	LUN	gwneith	---	NSNT
+
+
+834, 1	1925, 1-5	WEN	os na fydd *Iran* wedi	---	NST
+
+
+835, 1	1926, 1-10	CEW	os na fyddan ni wedi cael ein bomio allan o	---	NSNT
+
+
+836, 1	1927, 1-5	LUN	rhoi diwedd arnan ni gyd	---	NSNT
+
+
+837, 1	1928, 1-6	WEN	ein dileu ni yn llwyr te	---	NSNT
+
+
+838, 1	1929, 1-2	CEW	*well* ia	---	NST
+
+
+839, 1	1931, 1-7	LUN	mae yn gwneud mockery o ein holl	---	SNT
+
+
+840, 1	1932, 1-3	WEN	mae yn *bity*	NST	NST
+840, 2	1932, 4-4	WEN	dydy	---	NSNT
+
+
+841, 1	1933, 1-8	LUN	o ein bywyd ni ac effort pawb rywsut	---	SNT
+
+
+842, 1	1934, 1-4	WEN	a gas gyn i	NSNT	NSNT
+842, 2	1935, 1-7	WEN	mae yn *bity* bod gwledydd yn ffraeo	NST	NST
+842, 3	1935, 8-10	WEN	dydy fel yna	---	NSNT
+
+
+843, 1	1937, 1-4	CEW	*ooh* mae yn *bity*	NST	NST
+843, 2	1937, 5-6	CEW	pan mae	NSNT	NSNT
+843, 3	1937, 7-11	CEW	gynnon nhw arfau fel yna	NSNT	NSNT
+843, 4	1937, 12-19	CEW	a bod o yn nwylo pobl mor hurt	---	NSNT
+
+
+844, 1	1941, 1-1	WEN	dyna	NSNT	NSNT
+844, 2	1941, 2-5	WEN	dw innau yn deimlo	---	NSNT
+
+
+845, 1	1942, 1-11	LUN	a dau neu dri o bobl dach chimod neu mymryn mwy	NSNT	NSNT
+845, 2	1942, 12-14	LUN	mae o yn	NSNT	NSNT
+845, 3	1942, 15-16	LUN	mae o	NSNT	NSNT
+845, 4	1942, 17-18	LUN	wirion *bost*	---	NST
+
+
+846, 1	1944, 1-1	WEN	wsti	NSNT	NSNT
+846, 2	1944, 2-2	WEN	mae	---	NSNT
+
+
+847, 1	1945, 1-5	LUN	mae o yn hen_ffasiwn iawn	NSNT	NSNT
+847, 2	1945, 6-6	LUN	dydy	NSNT	NSNT
+847, 3	1946, 1-9	LUN	achos dan ni fod yn efo democratiaeth a ballu	NSNT	NSNT
+847, 4	1949, 1-2	LUN	dach chimod	---	NSNT
+
+
+848, 1	1950, 1-9	CEW	*oh* dydy democratiaeth ddim yn gweithio yn dda iawn	NST	NST
+848, 2	1951, 1-9	CEW	ond mae o well na systemau eraill o ychydig	---	NSNT
+
+
+849, 1	1952, 1-6	LUN	na na na dydy o ddim	---	NSNT
+
+
+850, 1	1958, 1-17	WEN	ond ti yn gweld y drwg ydy mynd i dwylo nhw fel yna rŵan ti yn gweld	---	NSNT
+
+
+851, 1	1962, 1-12	CEW	tydy bywyd unigolion bach ddim o bwys o_gwbl gyn y gwleidyddion yma	---	NSNT
+
+
+852, 1	1963, 1-2	WEN	nag ydy	NSNT	NSNT
+852, 2	1965, 1-3	WEN	na dim o_gwbl	---	NSNT
+
+
+853, 1	1966, 1-8	LUN	dydy *euthanasia* ddim yn bwnc gynnyn nhw o_gwbl	NST	NST
+853, 2	1966, 9-10	LUN	nag ydy	---	NSNT
+
+
+854, 1	1967, 1-1	CEW	be	---	NSNT
+
+
+855, 1	1968, 1-8	LUN	dydy *euthanasia* ddim yn bwnc gynnyn nhw o_gwbl	---	NST
+
+
+856, 1	1969, 1-2	WEN	nag ydy	NSNT	NSNT
+856, 2	1971, 1-2	WEN	nag ydy	---	NSNT
+
+
+857, 1	1972, 1-3	LUN	ddim yn destun	---	NSNT
+
+
+858, 1	1974, 1-7	CEW	na mae nhw yn ddigon hapus i	NSNT	NSNT
+858, 2	1974, 8-18	CEW	roid *euthanasia* i mil o bobl ar unwaith *just* fel yna	NST	NST
+858, 3	1974, 19-22	CEW	os ydyn nhw yn	NSNT	NSNT
+858, 4	1974, 23-28	CEW	os ydy o yn arwain at	NSNT	NSNT
+858, 5	1974, 29-32	CEW	be mae nhw isio	---	NSNT
+
+
+859, 1	1976, 1-1	WEN	ydyn	---	NSNT
+
+
+860, 1	1979, 1-2	LUN	heb ofyn	---	NSNT
+
+
+861, 1	1981, 1-4	WEN	na ti gweld dyna	NSNT	NSNT
+861, 2	1981, 5-8	WEN	sy yn gwneud y	NSNT	NSNT
+861, 3	1981, 9-12	WEN	yn_de peth yn ofnadwy	NSNT	NSNT
+861, 4	1981, 15-26	WEN	wsti *fashion* drafod rŵan efo pethau fath â *euthanasia* ac eto eto	NST	NST
+861, 5	1981, 27-37	WEN	wsti gyrru *crew* mawr o ddynion i wlad arall ifanc iach	---	NST
+
+
+862, 1	1983, 1-1	LUN	efo	---	NSNT
+
+
+863, 1	1984, 1-16	CEW	oedd yna lun o *Tony_Blair* efo yr canfed *boy* brit i gael ei ladd yn *Iraq*	NST	ST
+863, 3	1987, 1-9	CEW	oedd y ddau ohonyn nhw yn gwenu fel giatiau	NSNT	NSNT
+863, 4	1988, 1-9	CEW	a wedyn y *boy* yna yn cael ei ladd	NST	NST
+863, 5	1990, 1-3	CEW	a mae *sure*	NST	NST
+863, 6	1990, 4-11	CEW	bod *Tony_Blair* yn deud trio deud wedyn *oh*	NST	NST
+863, 7	1990, 12-19	CEW	bod o yn drist iawn ac yn bechod	NSNT	NSNT
+863, 8	1990, 20-24	CEW	a bod o yn difaru	---	NSNT
+
+
+864, 1	1993, 1-4	WEN	oedd *Bush* yn deud	NST	NST
+864, 2	1994, 1-2	WEN	ia *well*	---	NST
+
+
+865, 1	1995, 1-2	CEW	*bastard* te	---	NST
+
+
+866, 1	1996, 1-3	WEN	ia mi ddeudodd	---	NSNT
+
+
+867, 1	1997, 1-14	CEW	oedd *Maggie_Thatcher* yn union yr un peth ond dim cyn_waethed efo yr *Malvinas* yna	NST	NST
+867, 5	2002, 1-8	CEW	mynd i grio wnaeth hi dros y bobl	NSNT	NSNT
+867, 6	2002, 9-12	CEW	oedd hi wedi lladd	NSNT	NSNT
+867, 7	2004, 1-3	CEW	do neu pobl	NSNT	NSNT
+867, 8	2004, 4-13	CEW	oedd hi wedi gyrru i gael eu eu lladd felly	NSNT	NSNT
+867, 9	2007, 1-9	CEW	mi gollodd hi ddeigryn uwch eu *bloody* beddau nhw	---	NST
+
+
+868, 1	2008, 1-2	WEN	sobr de	---	NSNT
+
+
+869, 1	2010, 1-1	CEW	dyna	NSNT	NSNT
+869, 2	2010, 2-9	CEW	be mae nhw yn galw yn *crocodile* tears	ST	ST
+869, 3	2012, 1-9	CEW	does yna ddim gair am hynna yn y Gymraeg	NSNT	NSNT
+869, 4	2012, 10-11	CEW	nag oes	---	NSNT
+
+
+870, 1	2014, 1-2	WEN	nag oes	---	NSNT
+
+
+871, 1	2016, 1-8	CEW	dan ni ddim ddigon drwg i angen o	NSNT	NSNT
+871, 2	2016, 9-10	CEW	nag ydyn	---	NSNT
+
+
+872, 1	2018, 1-3	WEN	dw i *sure*	NST	NST
+872, 2	2018, 4-11	WEN	bod yna rywbeth am *grocodile* tears yn Gymraeg	NST	ST
+872, 3	2020, 1-4	WEN	mae yna ryw rywbeth	NSNT	NSNT
+872, 4	2020, 5-7	WEN	mae yn *sure*	NST	NST
+872, 5	2020, 8-8	WEN	does	NSNT	NSNT
+872, 8	2025, 1-4	WEN	ryw ddagrau rywbeth de	NSNT	NSNT
+872, 9	2027, 1-9	WEN	*bity* de bod y peth i weld mor dychrynllyd	---	NST
+
+
+873, 1	2028, 1-8	LUN	*bity* bod ni yn gorod dŵad i ddiwedd	---	NST
+
+
+874, 1	2029, 1-10	WEN	a mae o mynd allan o ddwylo rywun yn llwyr	---	NSNT
+
+
+875, 1	2030, 1-4	CEW	*well* dydyn ni ddim	---	NST
+
+
+876, 1	2031, 1-3	WEN	nag ydyn nac	NSNT	NSNT
+876, 2	2031, 4-4	WEN	ydyn	NSNT	NSNT
+876, 3	2032, 1-1	WEN	gobeithio	---	NSNT
+
+
+877, 1	2033, 1-3	LUN	mae *mam* isio	---	NST
+
+
+878, 1	2034, 1-2	CEW	dw i	NSNT	NSNT
+878, 2	2034, 3-6	CEW	wedi bod yn meddwl	NSNT	NSNT
+878, 3	2034, 7-7	CEW	bod	---	NSNT
+
+
+879, 1	2035, 1-3	WEN	dw isio sicrwydd	---	NSNT
+
+
+880, 1	2036, 1-15	CEW	pan o'n i yn bedair_ar_ddeg oedd yna yr Cuban *crisis* yna a finnau yn deud	NST	ST
+880, 2	2036, 16-33	CEW	bod fi ddim yn mynd i wneud y ngwaith cartre *maths* bod yna ddim *point* because rhag ofn	NST	ST
+880, 3	2036, 34-42	CEW	baswn i ddim yna pan o'n i yn gorod	NSNT	NSNT
+880, 4	2036, 43-45	CEW	roid o mewn	---	NSNT
+
+
+881, 1	2038, 1-2	WEN	*well* ia	---	NST
+
+
+882, 1	2039, 1-6	CEW	ond mi baron ni heibio hynna	---	NSNT
+
+
+883, 1	2040, 1-2	LUN	do mi	NSNT	NSNT
+883, 2	2040, 3-6	LUN	ddoth y wers *maths*	---	NST
+
+
+884, 1	2043, 2-8	CEW	fuodd raid mi wneud o yn diwedd	---	NSNT
+
+
+885, 1	2044, 1-4	WEN	mae hwn i weld	NSNT	NSNT
+885, 3	2046, 1-3	WEN	mae hwn ia	NSNT	NSNT
+885, 4	2046, 5-8	WEN	mae hwn i weld	NSNT	NSNT
+885, 5	2047, 1-4	WEN	mae raid mi ddeud	NSNT	NSNT
+885, 6	2047, 5-6	WEN	tro yma	NSNT	NSNT
+885, 7	2047, 7-10	WEN	mae o yn deimlo	NSNT	NSNT
+885, 8	2047, 12-17	WEN	mae o yn teimlo yn mwy	---	NSNT
+
+
+886, 1	2048, 1-5	LUN	mae yr peth *nuclear* yma	NST	NST
+886, 3	2050, 1-6	LUN	mae yr peth *nuclear* yma ddychrynllyd	NST	NST
+886, 4	2051, 1-13	LUN	a mae nhw wedi gwneud camgymeriad mawr efo yr peth *Iraq* yma yn_do	---	NST
+
+
+887, 1	2054, 1-7	WEN	wedyn tra mae nhw wrthi efo *Iraq*	NST	NST
+887, 2	2054, 8-14	WEN	mae *Iran* arfogi eu hunan efo *nuclear*	NST	NST
+887, 3	2056, 1-11	WEN	*just* yn pwyso yr botwm ac yn gwneud i_ffwrdd â pawb	---	NST
+
+
+888, 1	2058, 1-10	CEW	ia ac os fysai rywun yn gollwng *bomb* ar *America*	NST	NST
+888, 2	2058, 11-12	CEW	basai o	NSNT	NSNT
+888, 3	2058, 13-17	CEW	basen nhw yn gollwng cyn_gymaint	NSNT	NSNT
+888, 4	2058, 18-22	CEW	basai yna ddim_byd ar_ôl wedyn	---	NSNT
+
+
+889, 1	2059, 1-2	WEN	na fysai	---	NSNT
+
+
+890, 1	2060, 1-4	LUN	basen nhw mor wyllt	NSNT	NSNT
+890, 2	2061, 1-5	LUN	*oh* peth mae yr peth	---	NST
+
+
+891, 1	2062, 1-4	CEW	a basen nhw yn	NSNT	NSNT
+891, 2	2062, 5-14	CEW	basen nhw yn gwneud i yr Brits gollwng rei hefyd	NSNT	SNT
+891, 3	2063, 1-9	CEW	a wedyn basai rywun yn gollwng rei arnon ni	---	NSNT
+
+
+892, 1	2065, 1-3	WEN	dw i meddwl	NSNT	NSNT
+892, 2	2065, 4-8	WEN	basai well i ni ddechrau	---	NSNT
+
+
+893, 1	2066, 1-1	LUN	be	---	NSNT
+
+
+894, 1	2067, 1-2	CEW	tyllu tyllu	---	NSNT
+
+
+895, 1	2068, 1-5	WEN	*oh* tyllu o_dan y ddaear	---	NST
+
+
+896, 1	2072, 1-2	CEW	*yeah* mae	NST	NST
+896, 2	2072, 3-7	CEW	gynnon ni chwareli a ballu	NSNT	NSNT
+896, 3	2072, 8-22	CEW	lle wnaethon nhw gadw yr national *galleries* a bob_dim yn_do neu yn yn rywle yn_do	---	ST
+
+
+897, 1	2074, 1-4	LUN	*yeah* yr holl weithiau	---	NST
+
+
+898, 1	2076, 1-6	CEW	yr holl *er* luniau a pethau	---	NST
+
+
+899, 1	2078, 1-10	LUN	a mae nhw yn deud petasech chi mynd i *Blaenau*	NST	NST
+899, 2	2078, 11-19	LUN	bod y bod y mynydd mynyddoedd fath â honeycomb	SNT	SNT
+899, 3	2079, 1-20	LUN	a medsech chi ffitio *um* eglwys fawr chimod cathedral fawr yn rhei o yr yn rhei o yr tyllau ia	---	ST
+
+
+900, 1	2081, 1-5	WEN	yn rhei o yr tyllau	---	NSNT
+
+
+901, 1	2082, 1-9	CEW	*oh* ti gwybod wnân nhw ddim gadael ni mewn	NST	NST
+901, 2	2083, 1-8	CEW	wnân nhw lenwi fo efo *bloody* llywodraeth yn_gwnân	---	NST
+
+
+902, 1	2084, 1-2	WEN	gwnân *sure*	---	NST
+
+
+903, 1	2085, 1-1	LUN	gwnân	---	NSNT
+
+
+904, 1	2086, 1-13	CEW	a dw i ddim isio mynd i_mewn mewn yna efo nhw beth bynnag	---	NSNT
+
+
+905, 1	2087, 1-2	LUN	*oh* gwnân	NST	NST
+905, 2	2088, 1-7	LUN	fydd *George_Bush* wedi dŵad i *Blaenau* eto	---	NST
+
+
+906, 1	2090, 1-5	WEN	yn *front* y *queue* de	---	NST
+
+
+907, 1	2091, 1-1	LUN	byddan	NSNT	NSNT
+907, 3	2093, 1-1	LUN	fyddan	---	NSNT
+
+
+908, 1	2095, 1-1	WEN	brensiach	NSNT	NSNT
+908, 2	2096, 1-9	WEN	lle dan ni arni efo yr tri chwarter awr	NSNT	NSNT
+908, 3	2097, 1-4	WEN	dw i am ofyn	---	NSNT
+
+
+909, 1	2098, 1-1	CEW	anyway	---	NSNT
+
+
+910, 1	2099, 1-4	WEN	ond ydy ta be	---	NSNT
+
+
+911, 1	2100, 1-9	CEW	wnes i ddim sbïo ar y *clock* i ddechrau	---	NST
+
+
+912, 1	2101, 1-3	LUN	chwarter i oedd	NSNT	NSNT
+912, 2	2101, 4-6	LUN	pan oedden ni	---	NSNT
+
+
+913, 1	2102, 1-2	CEW	*well* oedd	NST	NST
+913, 2	2102, 3-5	CEW	oedd hi yn	NSNT	NSNT
+913, 3	2103, 1-2	CEW	oedd because	SNT	SNT
+913, 4	2103, 3-12	CEW	oedd y bara wed wedi gorffen am chwarter i yn_doedd	---	NSNT
+
+
+914, 1	2104, 1-7	LUN	dan ni wedi pasio tri chwarter awr	---	NSNT
+
+
+915, 1	2106, 1-7	CEW	dw ddim yn gallu gweld yn iawn	---	NSNT
+
+
+916, 1	2108, 1-2	LUN	do achos	NSNT	NSNT
+916, 2	2108, 3-7	LUN	mae yn ddeg munud i	NSNT	NSNT
+916, 3	2109, 1-3	LUN	*so* dan ni	NST	NST
+916, 4	2109, 4-9	LUN	wedi bod yn siarad am awr	---	NSNT
+
+
+917, 1	2110, 1-7	WEN	ia dydy *Marika* ddim yn gwybod hwyrach	---	NST
+
+
+918, 1	2111, 1-11	CEW	dan ni ond wedi dechrau dod yn ddiddorol tua yr diwedd	NSNT	NSNT
+918, 3	2114, 1-5	CEW	hanner awr cynta yn hollol	---	NSNT
+
+
+919, 1	2115, 1-8	LUN	ymddiheuro rŵan am fod mor uffernol o ddiflas	---	NSNT
+
+
+920, 1	2119, 1-3	CEW	mae yn anodd	NSNT	NSNT
+920, 2	2119, 4-4	CEW	dydy	NSNT	NSNT
+920, 3	2119, 5-10	CEW	*just* bod yn ddiddorol ar alwad	---	NST
+
+
+921, 1	2121, 1-10	WEN	achos o ddifri dan ni medru siarad heb *stop* dydyn	NST	NST
+921, 2	2123, 1-1	WEN	wsti	NSNT	NSNT
+921, 3	2123, 2-7	WEN	does yna ddim taw arnon ni	---	NSNT
+
+
+922, 1	2124, 1-18	CEW	well ni fynd ymlaen am dipyn os nag ydy *Marika* mynd i ddod i dorri ar_draws a deud	NST	NST
+922, 2	2124, 19-24	CEW	bod hi wedi cael llond bol	---	NSNT
+
+
+923, 1	2127, 1-6	WEN	*oh* felly be wnawn ni wan	NST	NST
+923, 2	2127, 7-11	WEN	wsti ni bach wan bwysig	NSNT	NSNT
+923, 3	2128, 1-2	WEN	ni bwysig	NSNT	NSNT
+923, 5	2130, 1-3	WEN	be wnawn ni	NSNT	NSNT
+923, 6	2130, 4-6	WEN	os daw yr	---	NSNT
+
+
+924, 1	2131, 1-4	LUN	os daw yna *nuclear*	---	NST
+
+
+925, 1	2132, 1-1	CEW	marw	---	NSNT
+
+
+926, 1	2133, 1-2	LUN	marw ie	---	NSNT
+
+
+927, 1	2134, 1-6	WEN	*oh* dw i mynd i wneud	NST	NST
+927, 3	2136, 1-6	WEN	dw i mynd i wneud twll	NSNT	NSNT
+927, 4	2137, 1-1	WEN	mae	NSNT	NSNT
+927, 5	2137, 2-4	WEN	gynnon ni *cellar*	---	NST
+
+
+928, 1	2138, 1-5	CEW	ti mynd i wneud twll	NSNT	NSNT
+928, 2	2141, 1-1	CEW	does	NSNT	NSNT
+928, 3	2141, 2-5	CEW	gynna i ddim un	---	NSNT
+
+
+929, 1	2142, 1-4	LUN	mae yna ryw lyfr	NSNT	NSNT
+929, 2	2143, 1-6	LUN	a fedra i ddim myw gofio	NSNT	NSNT
+929, 3	2143, 7-10	LUN	be ydy enw fo	NSNT	NSNT
+929, 4	2144, 1-4	LUN	dw i yn cofio	NSNT	NSNT
+929, 5	2144, 5-13	LUN	bod yna gymeriad o yr enw *Katherine* yno fo	NST	NST
+929, 7	2146, 1-7	LUN	mae *sure* ie rhwng naw a *Melangell*	NST	NST
+929, 9	2148, 1-15	LUN	*yeah* ryw dair_ar_ddeg ffordd yna rhwng rhwng y ddwy ddwy yna felly *Melangell* a naw	NST	NST
+929, 10	2149, 1-5	LUN	ac oedd o am *oh*	NST	NST
+929, 11	2149, 6-18	LUN	dw i ddim yn cofio yn iawn ond effeithiau ryw ryfel *nuclear* a	NST	NST
+929, 12	2149, 19-24	LUN	pwy oedd wedi byw a faint	NSNT	NSNT
+929, 13	2149, 25-28	LUN	oedd wedi marw a	NSNT	NSNT
+929, 14	2149, 29-32	LUN	be oedden nhw wneud	NSNT	NSNT
+929, 15	2150, 1-6	LUN	ac oedd o yn ddychrynllyd iawn	NSNT	NSNT
+929, 16	2151, 1-7	LUN	fedra i ddim myw cofio enw fo	NSNT	NSNT
+929, 17	2152, 1-11	LUN	llyfr go fyr oedd o mewn gwirionedd llyfr i blwyddyn naw	---	NSNT
+
+
+930, 1	2153, 1-3	WEN	ia llyfr bach	---	NSNT
+
+
+931, 1	2154, 1-5	LUN	ac dw i yn cofio	NSNT	NSNT
+931, 2	2154, 6-9	LUN	bod yna un cymeriad	NSNT	NSNT
+931, 3	2154, 10-19	LUN	oedd yn goroesi trwy yr cwbl trwy yr peth *nuclear*	NST	NST
+931, 4	2155, 1-6	LUN	ond oedd pawb arall yn marw	NSNT	NSNT
+931, 5	2156, 1-10	LUN	ac oedd gennyn nhw ddim_byd i i fwydo yr ci	NSNT	NSNT
+931, 6	2158, 1-4	LUN	ac oedden nhw gorod	NSNT	NSNT
+931, 7	2158, 5-10	LUN	roid y ci allan i farw	NSNT	NSNT
+931, 8	2160, 1-1	LUN	ofnadwy	---	NSNT
+
+
+932, 1	2161, 1-2	CEW	*oh* dyna	NST	NST
+932, 2	2161, 3-5	CEW	ydy yr peth	NSNT	NSNT
+932, 3	2162, 1-5	CEW	basai yna ddim i anadlu	NSNT	NSNT
+932, 4	2163, 1-5	CEW	basai ddim dŵr i yfed	---	NSNT
+
+
+933, 1	2164, 1-2	WEN	na fysai	---	NSNT
+
+
+934, 1	2166, 1-5	CEW	basai yna ddim_byd i fwyta	---	NSNT
+
+
+935, 1	2167, 1-5	LUN	dw i am weddïo heno	---	NSNT
+
+
+936, 1	2169, 1-6	CEW	*oh* wnes i ddarllen llyfr Cymraeg	NST	NST
+936, 2	2170, 1-7	CEW	dw ddim yn cofio yr enw chwaith	---	NSNT
+
+
+937, 1	2171, 2-6	LUN	dw i yn ryw deimlo	NSNT	NSNT
+937, 2	2171, 7-9	LUN	bod yna un	---	NSNT
+
+
+938, 1	2173, 1-8	CEW	pobl mewn ryw *funker* o_dan y ddaear a	---	NST
+
+
+939, 1	2174, 1-2	LUN	*oh* God	---	NST
+
+
+940, 1	2175, 1-3	CEW	ar_ôl rhyfel *nuclear*	---	NST
+
+
+941, 1	2176, 1-6	LUN	*oh* gobeithio na wnân nhw ddim	NST	NST
+941, 2	2177, 1-2	LUN	basai well	NSNT	NSNT
+941, 3	2177, 3-8	LUN	genna i *fombs* arferol na hynny	---	NST
+
+
+942, 1	2178, 1-2	CEW	*well* ia	ST	NST
+942, 2	2179, 1-4	CEW	because y peth ydy	NSNT	SNT
+942, 3	2179, 5-5	CEW	mae	NSNT	NSNT
+942, 4	2179, 6-6	CEW	basai	NSNT	NSNT
+942, 5	2179, 7-10	CEW	basai yn lladd ni	---	NSNT
+
+
+943, 1	2180, 1-6	LUN	mae *nuclear* yn para am flynyddoedd	---	NST
+
+
+944, 1	2181, 1-20	CEW	ond sut mae nhw mynd i ladd yr holl fyd a yr holl blanhigion a ac anifeiliaid a bob_dim hefyd	---	NSNT
+
+
+945, 1	2183, 1-5	LUN	mae o yn gwneud mockery	SNT	SNT
+945, 2	2183, 6-18	LUN	dydy mockery o yr o yr holl yr holl evolution a ymdrech a	---	SNT
+
+
+946, 1	2184, 1-2	CEW	a wedyn	---	NSNT
+
+
+947, 1	2187, 1-1	WEN	ymdrech	NSNT	NSNT
+947, 2	2188, 1-3	WEN	yr holl ymdrech	---	NSNT
+
+
+947, 3	2190, 1-3	WEN	mae bob_dim wedi	---	NSNT
+
+
+949, 1	2193, 1-4	WEN	gario ymlaen rywsut ia	---	NSNT
+
+
+950, 1	2195, 1-7	LUN	mae o yn gwneud mockery o bob_dim	NSNT	SNT
+950, 2	2195, 8-8	LUN	dydy	---	NSNT
+
+
+951, 1	2196, 1-2	WEN	*oh* *dear*	---	NST
+
+
+952, 1	2198, 1-9	LUN	ac achos o'n i yn meddwl dach chi gweld	NSNT	NSNT
+952, 2	2199, 1-8	LUN	ddarllen rywbeth yn y papur newydd am ddyn	NSNT	NSNT
+952, 3	2200, 1-6	LUN	dw ddim yn cofio enw fo	NSNT	NSNT
+952, 4	2201, 1-6	LUN	ond oedd o wedi cael *O_B_E*	NST	NST
+952, 5	2201, 7-12	LUN	am bod o wedi dyfeisio nodwydd	NSNT	NSNT
+952, 6	2201, 13-23	LUN	oedd yn torri ar_ôl un ar_ôl ei ddefnyddio fo unwaith felly	SNT	NSNT
+952, 7	2202, 1-10	LUN	because mae yna hyn a hyn o filoedd o bobl	---	SNT
+
+
+953, 1	2203, 1-4	CEW	i i roid chwistrelliad	---	NSNT
+
+
+954, 1	2204, 1-5	LUN	*yeah* chwistrellwr felly efo nodwydd	NST	NST
+954, 2	2205, 1-8	LUN	ac oedd y nodwydd yn torri yn syth	NSNT	NSNT
+954, 3	2206, 1-6	LUN	*um* achos mae nhw yn deud	---	NST
+
+
+955, 1	2207, 1-2	CEW	fudr ie	---	NSNT
+
+
+956, 1	2208, 1-6	LUN	*um* ac oedd o yn deud	NST	NST
+956, 2	2208, 7-13	LUN	bod y dyn yma wedi cael *O_B_E*	NST	NST
+956, 3	2208, 14-24	LUN	a bod pethau wedi gwella yn ofnadwy ar_ôl cychwyn gwneud hwn	NSNT	NSNT
+956, 4	2209, 1-12	LUN	ond o'n i *just* yn meddwl am yr ymdrech mae o wedi	NST	NST
+956, 5	2209, 13-24	LUN	roid i_fewn a yr a ei gyfraniad bach o at y byd	NSNT	NSNT
+956, 6	2210, 1-10	LUN	*well* mae o yn gwneud mockery o bob_dim fel yna	NST	ST
+956, 7	2210, 11-11	LUN	dydy	---	NSNT
+
+
+957, 1	2211, 1-3	CEW	ia wrth_gwrs yndy	---	NSNT
+
+
+958, 1	2212, 1-3	LUN	dach chimod achos	---	NSNT
+
+
+959, 1	2214, 2-5	CEW	mae nhw mor dydyn	NSNT	NSNT
+959, 3	2217, 1-7	CEW	yn gallu hyd_yn_oed ystyried y pethau yma	NSNT	NSNT

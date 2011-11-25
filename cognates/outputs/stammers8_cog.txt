@@ -1,0 +1,1566 @@
+1, 1	1, 1-11	ISL	*Ann_Andrews* sy yn sefyll i yr Cynulliad yn yr ardal yma	NST	NST
+1, 2	3, 1-4	ISL	un da ydy hi	NSNT	NSNT
+1, 3	5, 1-5	ISL	mae yn ferch i *A_A_Andrews*	NST	NST
+1, 4	7, 1-2	ISL	y bardd	NSNT	NSNT
+1, 5	10, 1-3	ISL	mae yn enwog	NSNT	NSNT
+1, 6	11, 1-6	ISL	mae wedi sgwennu llyfrau beth bynnag	NSNT	NSNT
+1, 7	12, 1-6	ISL	wnaethon ni wrando arni yn *Mynydd_Isa*	NST	NST
+1, 8	12, 7-8	ISL	noson o_blaen	NSNT	NSNT
+1, 9	14, 1-5	ISL	oedd y lle yn llawn	NSNT	NSNT
+1, 10	15, 1-4	ISL	ac oedd *Dafydd_Wigley* yna	NST	NST
+1, 11	17, 1-8	ISL	a *Anna* a *Bridget* a *lot* o bobl	---	NST
+
+
+2, 1	19, 1-7	CAR	ti yn mynd i yr côr heno	---	NSNT
+
+
+3, 1	20, 1-1	ISL	enwog	NSNT	NSNT
+3, 2	21, 1-3	ISL	*question* da iawn	---	NST
+
+
+4, 1	22, 1-4	CAR	oes yna rywbeth arall	---	NSNT
+
+
+5, 1	23, 1-5	ISL	*ah* hwyrach a i heno	NST	NST
+5, 2	24, 1-7	ISL	mae yn annwyd i dipyn bach well	---	NSNT
+
+
+6, 1	25, 1-2	CAR	mae o	---	NSNT
+
+
+7, 1	26, 1-11	ISL	a mae gynna i andros o ddolur annwyd yn fan yma	NSNT	NSNT
+7, 2	28, 1-6	ISL	mae yn debyg iawn mai ringworm	---	SNT
+
+
+8, 1	29, 1-2	CAR	nac ydy	---	NSNT
+
+
+9, 1	30, 1-2	ISL	basai ofnadwy	---	NSNT
+
+
+10, 1	31, 2-6	CAR	oedd *Bob* gyn rywbeth hefyd	NST	NST
+10, 2	32, 1-5	CAR	oedd o yr un fath	---	NSNT
+
+
+11, 1	34, 1-4	ISL	*oh* dw i gyn	NST	NST
+11, 2	35, 1-6	ISL	*oh* mae yn y *pocket* yna	NST	NST
+11, 3	36, 1-4	ISL	*Cymex* ydy enw fo	ST	NST
+11, 5	38, 1-1	ISL	*C_Y_M_E_X*	---	NST
+
+
+12, 1	39, 1-3	CAR	*mmm* *yeah* dan	NST	NST
+12, 2	40, 1-2	CAR	peth bychan	NSNT	NSNT
+12, 3	42, 1-5	CAR	ie dw i gyn hwnna	---	NSNT
+
+
+13, 1	43, 1-2	ISL	*tube* melyn	---	NST
+
+
+14, 1	44, 1-4	CAR	mae yn un da	NSNT	NSNT
+14, 2	45, 1-1	CAR	mae	NSNT	NSNT
+14, 3	45, 2-3	CAR	mae *Adam*	---	NST
+
+
+15, 1	46, 1-9	ISL	pa yr un ydy yr gorau *Cymex* neu *Germolene*	---	NST
+
+
+16, 1	47, 1-4	CAR	*well* mae yn dibynnu	NST	NST
+16, 2	47, 5-9	CAR	be sy *matter* efo ti	---	NST
+
+
+17, 1	48, 2-3	ISL	mae o	---	NSNT
+
+
+18, 1	49, 1-6	CAR	mae *Adam* yn llawn o annwyd	NST	NST
+18, 2	50, 1-9	CAR	oedd o yn mynd at y meddyg bore yma	NSNT	NSNT
+18, 3	51, 1-4	CAR	*Zoe* *Zoe* ac *Adam*	---	NST
+
+
+19, 1	52, 1-1	ISL	pwy	---	NSNT
+
+
+20, 1	53, 1-2	CAR	oedd o	NSNT	NSNT
+20, 2	53, 3-7	CAR	mae o yn llawn annwyd	---	NSNT
+
+
+21, 1	57, 1-6	ISL	*well* alaw gyn *Ben* *Bennett* *Pistyll_Isa*	NST	NST
+21, 2	58, 1-1	ISL	Argian	NSNT	NSNT
+21, 3	59, 1-5	ISL	ar_ôl bod i *Llysfasi* *yeah*	NST	NST
+21, 4	60, 1-9	ISL	wsnos i heno neu bythefnos i heno oedd hi	NSNT	NSNT
+21, 5	61, 1-5	ISL	nos Wener oedd hi bynnag	NSNT	NSNT
+21, 6	62, 1-8	ISL	ew oedd o yn y stafell gwrando ar	NSNT	NSNT
+21, 7	63, 1-5	ISL	*well* oedd hi yn *forum*	NST	NST
+21, 8	64, 1-10	ISL	oedd yna bedwar o bobl yna o bob plaid wleidyddol	NSNT	NSNT
+21, 9	65, 1-7	ISL	*Colin_Collins* *Dickie_Dixon* *Cilcain* *Eddie_Evans* dros y blaid	NST	NST
+21, 10	67, 1-7	ISL	*mmm* enw yr llall rhyddfrydwr oedd arfer	NST	NST
+21, 11	67, 8-13	ISL	bod yn athro yn y canoldir	NSNT	NSNT
+21, 12	68, 1-9	ISL	a mae wedi prynu dwy *farm* rŵan yn Sir_Drefaldwyn	ST	NST
+21, 14	72, 1-2	ISL	*oh* *Francis*	NST	NST
+21, 15	73, 1-1	ISL	*Frankie_Francis*	ST	NST
+21, 16	75, 1-4	ISL	fo ydy prifathro *Llysfasi*	---	NST
+
+
+22, 1	76, 1-3	CAR	wyt ti yn	---	NSNT
+
+
+23, 1	77, 1-6	ISL	a mae yn dod o Gogledd_Iwerddon	NSNT	NSNT
+23, 2	78, 1-6	ISL	mae wedi dysgu Cymraeg yn rhugl	---	NSNT
+
+
+24, 1	80, 1-4	CAR	ew dyna ardderchog yn_de	---	NSNT
+
+
+25, 1	81, 1-7	ISL	a mae yn nabod *Chris* ac *Olga*	NST	NST
+25, 2	83, 1-9	ISL	*well* ti yn gwybod bod *Chris* wedi cael *M_B_E*	---	NST
+
+
+26, 1	85, 1-11	CAR	ddaru o ddim cael paned o de na ddim_byd efo fo	---	NSNT
+
+
+27, 1	86, 1-3	ISL	a mae yn	NSNT	NSNT
+27, 2	87, 1-2	ISL	am anrhydedd	---	NSNT
+
+
+28, 1	88, 1-5	CAR	hynny *just* roi iddo fo	ST	NST
+28, 2	89, 1-1	CAR	*ta_ra*	ST	NST
+28, 3	90, 1-2	CAR	dyna cwbl	---	NSNT
+
+
+29, 1	91, 1-4	ISL	anrhydedd am ei waith	---	NSNT
+
+
+30, 1	92, 1-4	CAR	na ddwn i ddim	---	NSNT
+
+
+31, 1	93, 1-6	ISL	*yeah* ond oedd o yn meddwl	NST	NST
+31, 2	93, 7-13	ISL	fasen nhw wedi cael llymaid o rywbeth	NSNT	NSNT
+31, 3	94, 1-3	ISL	mae *Chris* yn	NST	NST
+31, 4	95, 1-7	ISL	mae *Chris* yn gefnder gynta i ni	NST	NST
+31, 6	98, 1-4	ISL	chwarae teg iddo fo	NSNT	NSNT
+31, 7	99, 1-9	ISL	*Chris* ac *Olga* mab *Auntie* *Dawn* a *Uncle* *Daniel*	---	NST
+
+
+32, 1	100, 1-3	CAR	*yeah* *sure* ia	NST	NST
+32, 2	101, 1-3	CAR	*well* lle mae	NST	NST
+32, 3	102, 1-7	CAR	hwnnw sy yn byw yn Sir_Fôn be	SNT	NSNT
+32, 4	103, 1-1	CAR	*Gary*	---	NST
+
+
+33, 1	104, 1-2	ISL	*oh* *Gary_Graham*	---	NST
+
+
+34, 1	105, 1-4	CAR	lle mae yn byw	---	NSNT
+
+
+35, 1	106, 1-4	ISL	*Cemaes* neu rywle felly	NST	NST
+35, 2	108, 1-2	ISL	rywle felly	---	NSNT
+
+
+36, 1	109, 1-5	CAR	*so* oedd o gyn *um*	---	NST
+
+
+37, 1	110, 1-5	ISL	a ei wraig *Emma* *Emma*	---	NST
+
+
+38, 1	111, 1-5	CAR	oedd o gyn exhibition neu	NSNT	SNT
+38, 2	111, 6-14	CAR	be ydy gair yn yr *Oriel* yn_doedd yn *Llangefni*	---	NST
+
+
+39, 1	113, 1-4	ISL	oedd ti yn iawn	NSNT	NSNT
+39, 2	114, 1-3	ISL	ddaru *Chris* fynd	---	NST
+
+
+40, 1	117, 1-3	CAR	dw i meddwl	NSNT	NSNT
+40, 2	117, 4-7	CAR	bod nhw wedi mynd	NSNT	NSNT
+40, 3	118, 1-3	CAR	dwn i ddim	NSNT	NSNT
+40, 4	118, 4-8	CAR	os ddaru *Auntie* *Dawn* mynd	NST	NST
+40, 5	119, 1-4	CAR	ond ddaru *Freda* fynd	---	NST
+
+
+41, 1	120, 1-5	ISL	*oh* do *Freda* a *Eric*	---	NST
+
+
+42, 1	121, 1-4	CAR	oedd fi yn meddwl	NSNT	NSNT
+42, 2	121, 5-9	CAR	bod *Auntie* *Dawn* yn sâl	---	NST
+
+
+43, 1	122, 1-2	ISL	ddaru nhw	NSNT	NSNT
+43, 2	122, 3-9	ISL	ddaru nhw ddod yn arbennig o Lundain	NSNT	NSNT
+43, 3	123, 1-10	ISL	*yeah* oedd *Freda* yn ffrindiau efo *Betty_Brown* yn_doedd o *Trelogan*	---	NST
+
+
+44, 1	126, 1-6	CAR	oeddet ti yn siarad am *Zimbabwe*	---	NST
+
+
+45, 1	127, 1-3	ISL	a mae hi	---	NSNT
+
+
+46, 1	129, 1-6	CAR	ddaru *Frank* mynd yna efo ryw	NST	NST
+46, 2	130, 1-4	CAR	o yr fyddin yn_de	---	NSNT
+
+
+47, 1	132, 1-3	ISL	*soldier* ydy o	---	NST
+
+
+48, 1	133, 1-6	CAR	ia ac oedd o yn mynd	---	NSNT
+
+
+49, 1	134, 1-3	ISL	mae yn uwch_ringyll	---	NSNT
+
+
+50, 1	135, 1-5	CAR	nhw gorfod mynd ar *train*	---	NST
+
+
+51, 1	136, 1-1	ISL	uwch_ringyll	---	NSNT
+
+
+52, 1	137, 1-3	CAR	be ydy hwnna	---	NSNT
+
+
+53, 1	138, 1-1	ISL	major	---	NSNT
+
+
+54, 1	140, 1-7	CAR	ac *er* pan oedd o yn dechrau	NST	NST
+54, 2	140, 8-9	CAR	oedd hwn	NSNT	NSNT
+54, 3	141, 1-4	CAR	ac o'n nhw gorfod	NSNT	NSNT
+54, 4	142, 1-12	CAR	oedd yna naw ohonyn nhw yn mynd ar sleeper ar y *train*	NST	ST
+54, 5	144, 1-7	CAR	ac oedd yna heblaw le i *um*	NST	NST
+54, 6	145, 1-4	CAR	neu wyth neu rywbeth	NSNT	NSNT
+54, 7	146, 1-3	CAR	wyth oedd o	NSNT	NSNT
+54, 8	148, 1-3	CAR	ac o'n nhw	NSNT	NSNT
+54, 9	148, 4-16	CAR	oedd y dynion ar y *railway* methu dallt sut i roi nhw i_mewn	NST	NST
+54, 10	150, 1-6	CAR	ac o'n nhw yna am hydoedd	NSNT	NSNT
+54, 11	151, 1-7	CAR	sut i roi nhw mewn lle heblaw	NSNT	NSNT
+54, 12	152, 1-5	CAR	naw oedden nhw *yeah* naw	NST	NST
+54, 13	153, 1-16	CAR	ac o'n nhw na heblaw dau wely neu rywbeth nhw ddim yn gwybod be i wneud	NSNT	NSNT
+54, 14	154, 1-2	CAR	neu pedwar	NSNT	NSNT
+54, 15	155, 1-10	CAR	*oh* gau gau ngheg rŵan dw i wedi colli hi	---	NST
+
+
+55, 1	157, 1-3	ISL	a be ddaru	NSNT	NSNT
+55, 2	157, 4-4	ISL	ddigwydd	---	NSNT
+
+
+56, 1	159, 1-12	CAR	ac o'n nhw methu deud wrthyn nhw sut i roi nhw mewn	NSNT	NSNT
+56, 2	160, 1-9	CAR	ac yn y diwedd ddaru *Frank* siarad fel nhw	NST	NST
+56, 3	160, 10-14	CAR	yn_de yn ddeud daru ddeud	SNT	NSNT
+56, 4	161, 1-7	CAR	we are three and three and three	SNT	NSNT
+56, 5	162, 1-4	CAR	oedden nhw yn deud	SNT	NSNT
+56, 6	163, 1-2	CAR	*oh* *fine*	ST	NST
+56, 7	164, 1-9	CAR	ac oedden nhw yn roi tri ohonyn nhw a	NSNT	NSNT
+56, 8	164, 10-18	CAR	lle oedd yna le i bedwar ti yn gweld	---	NSNT
+
+
+57, 1	166, 1-3	ISL	*oh* *nice* iawn	---	NST
+
+
+58, 1	167, 1-9	CAR	ac oedden nhw methu dallt sut i wneud o	---	NSNT
+
+
+59, 1	169, 1-10	ISL	oedd yna ddim raid i nhw gysgu ar *dop* ei_gilydd	---	NST
+
+
+60, 1	170, 1-2	CAR	nag oedd	---	NSNT
+
+
+61, 1	171, 1-9	ISL	oedd yna ddigon o le i nhw ar wahân	NSNT	NSNT
+61, 3	173, 1-5	ISL	yn mwy fath â brechdanau	NSNT	NSNT
+61, 4	174, 1-5	ISL	un ar *dop* y llall	ST	NST
+61, 6	176, 1-1	ISL	*well*	---	NST
+
+
+62, 1	177, 1-3	CAR	mae nhw gyn	---	NSNT
+
+
+63, 1	178, 1-8	ISL	y wraig wnaeth hwnnw y ddraig goch yna	---	NSNT
+
+
+64, 1	179, 1-4	CAR	dw i yn gwybod	NSNT	NSNT
+64, 2	180, 1-4	CAR	mae yn ardderchog yn_dydy	---	NSNT
+
+
+65, 1	181, 1-6	ISL	*oh* ti wedi gweld o_blaen do	---	NST
+
+
+66, 1	182, 2-5	CAR	mae yn ardderchog hwnna	---	NSNT
+
+
+67, 1	183, 1-8	ISL	a hwnna a hwnna a hwnna hwnna crochet	---	SNT
+
+
+68, 1	184, 1-2	CAR	ewadd mae	NSNT	NSNT
+68, 2	184, 3-7	CAR	mae yn andros o dda	---	NSNT
+
+
+69, 1	185, 1-8	ISL	a dyma llun y lle o yr awyr	---	NSNT
+
+
+70, 1	186, 1-5	CAR	mae hwn yn un da	---	NSNT
+
+
+71, 1	187, 1-8	ISL	mae yna *lot* o rheiny ym bob man	NST	NST
+71, 2	187, 9-9	ISL	does	---	NSNT
+
+
+72, 1	188, 1-7	CAR	dan ni gyn un o fan yna	---	NSNT
+
+
+73, 1	189, 1-1	ISL	yndach	NSNT	NSNT
+73, 2	190, 1-1	ISL	dydyn	---	NSNT
+
+
+74, 1	191, 1-6	CAR	oedd yna dyn newydd fod i	NSNT	NSNT
+74, 2	192, 1-6	CAR	mae yn gwerthu pethau wedi rhewi	NSNT	NSNT
+74, 3	193, 1-4	CAR	daru o ddod yma	---	NSNT
+
+
+75, 1	194, 1-1	ISL	naddo	SNT	NSNT
+75, 3	196, 1-1	ISL	*Iceland*	---	NST
+
+
+76, 1	197, 1-6	CAR	naci dyn ar ben ei hun	NSNT	NSNT
+76, 2	197, 7-8	CAR	ydy o	NSNT	NSNT
+76, 3	198, 1-2	CAR	mae gyn	NSNT	NSNT
+76, 4	199, 1-6	CAR	wnes i ddim weld o blaen	NSNT	NSNT
+76, 5	200, 1-7	CAR	cig a pysgod a bethau fel yna	NSNT	NSNT
+76, 6	203, 1-4	CAR	mae yn dympio pethau	NSNT	NSNT
+76, 7	204, 1-6	CAR	ond dan ni ddim isio fo	NSNT	NSNT
+76, 8	206, 1-5	CAR	mae ry fawr i ni	---	NSNT
+
+
+77, 1	207, 1-5	ISL	isio teuluoedd mawr oedd o	NSNT	NSNT
+77, 2	209, 1-8	ISL	*oh* does yna ddim llawer o rheiny wan	NST	NST
+77, 3	209, 9-10	ISL	nag oes	---	NSNT
+
+
+78, 1	210, 1-2	CAR	nag oes	---	NSNT
+
+
+79, 1	211, 1-8	ISL	a dyna *videos* yn fan yna a theledu	NST	NST
+79, 2	212, 1-10	ISL	a dacw enwau fi a yr wraig a yr plant	---	NSNT
+
+
+80, 1	213, 1-5	CAR	*oh* *yeah* pwy ydy hwnna	NST	NST
+80, 2	213, 6-10	CAR	ddaru *Gladys* wneud hwnna hefyd	NST	NST
+80, 3	215, 1-4	CAR	ew mae yn *nice*	---	NST
+
+
+81, 1	216, 2-5	ISL	mae raid mi ddeud	---	NSNT
+
+
+82, 1	217, 1-4	CAR	a yr llun yna	NSNT	NSNT
+82, 2	219, 1-7	CAR	ew mae hwnna yn cymryd yn *lot*	---	NST
+
+
+83, 1	220, 1-2	ISL	yndy wir	---	NSNT
+
+
+84, 1	221, 1-3	CAR	o o lle	NSNT	NSNT
+84, 2	222, 1-6	CAR	mae hwn yn un da hefyd	---	NSNT
+
+
+85, 1	223, 1-2	ISL	ac wedyn	NSNT	NSNT
+85, 2	224, 1-8	ISL	*oh* mae gynna i bennill i yr gweinidog	NST	NST
+85, 3	227, 1-11	ISL	a fi ddarllen o mewn llyfr yn llyfrgell ddoe yn Dreffynnon	NSNT	NSNT
+85, 4	229, 1-4	ISL	dyma fel mae mynd	NSNT	NSNT
+85, 5	230, 1-4	ISL	oedd o yn Saesneg	SNT	NSNT
+85, 6	231, 1-7	ISL	the *Llwyni* *Methodists* have built a church	NST	NST
+85, 7	232, 1-6	ISL	the *front* looks like an abbey	NST	NST
+85, 8	233, 1-12	ISL	but thinking they could *fool* the Lord the *back* looks partly *shabby*	---	NST
+
+
+86, 1	234, 1-3	CAR	fath â *Carmel*	---	NST
+
+
+87, 1	235, 1-6	ISL	oedd *Greg* yn pregethu yn *Carmel*	NST	NST
+87, 2	236, 1-4	ISL	ac oedd o yn	NSNT	NSNT
+87, 3	236, 5-11	ISL	pan o'n nhw yn altro *Bethesda* Wyddgrug	NST	NST
+87, 4	238, 1-10	ISL	ac mae hwnnw yn hardd yn y pen blaen polion	NSNT	NSNT
+87, 5	240, 1-5	ISL	fath â *Bethesda* Wyddgrug yn_de	ST	NST
+87, 6	242, 1-3	ISL	*Queen* *Anne* *front*	ST	NST
+87, 7	243, 1-2	ISL	meddai fo	SNT	NSNT
+87, 8	244, 1-2	ISL	*Mary_Anne* *back*	---	NST
+
+
+88, 1	245, 1-8	CAR	*yeah* ond tu mewn mae fel llety mawr	---	NST
+
+
+89, 1	246, 1-1	ISL	hardd	NSNT	NSNT
+89, 2	247, 1-1	ISL	llety	---	NSNT
+
+
+90, 1	248, 1-7	CAR	yndy ti yn gwybod efo o lefydd	NSNT	NSNT
+90, 2	249, 1-3	CAR	digon o le	---	NSNT
+
+
+91, 1	250, 1-6	ISL	*oh* yndy yn y cefn stafelloedd	---	NST
+
+
+92, 1	251, 1-6	CAR	ew mae *nice* yn tu mewn	---	NST
+
+
+93, 1	252, 1-1	ISL	ysgoldy	---	NSNT
+
+
+94, 1	253, 1-3	CAR	ew yndy ardderchog	---	NSNT
+
+
+95, 1	254, 1-2	ISL	a cegin	---	NSNT
+
+
+96, 1	255, 1-4	CAR	cegin da a bopeth	---	NSNT
+
+
+97, 1	256, 1-2	ISL	oes wir	---	NSNT
+
+
+98, 1	257, 1-5	CAR	ddim fath â fan yma	---	NSNT
+
+
+99, 1	260, 1-2	ISL	ac wedyn	NSNT	NSNT
+99, 2	261, 1-11	ISL	*well* *er* wyt ti ar dy golled yn fawr bore Sul	NST	NST
+99, 3	262, 1-6	ISL	*Clare* oedd yn pregethu yn *Penbryn*	NST	NST
+99, 4	264, 1-16	ISL	ac *er* mi gynorthwyodd hi i gludo ryw fath o ffrâm yn i_fewn i yr capel	NST	NST
+99, 5	265, 1-7	ISL	ac oedd o fath â sioe pypedau	---	NSNT
+
+
+100, 1	266, 1-2	CAR	*oh* *nice*	ST	NST
+100, 2	267, 1-4	CAR	*oh* efo yr plant	NST	NST
+100, 3	268, 1-3	CAR	*oh* *yeah* ardderchog	---	NST
+
+
+101, 1	269, 1-7	ISL	*yeah* yn arbennig i yr plant oedd	---	NST
+
+
+102, 1	270, 1-7	CAR	ew *oh* pwy oedd yn wneud hynna	---	NST
+
+
+103, 1	271, 1-1	ISL	*Clare*	---	NST
+
+
+104, 1	272, 1-7	CAR	*oh* ddaru hi wneud o iddyn nhw	---	NST
+
+
+105, 1	273, 1-5	ISL	*Clare_Cook* y gweinidoges o Wyddgrug	---	NST
+
+
+106, 1	275, 1-5	CAR	a be oedd y poppets	---	SNT
+
+
+107, 1	276, 1-3	ISL	*oh* mond un	NST	NST
+107, 2	278, 1-3	ISL	sut i weddïo	NSNT	NSNT
+107, 3	280, 1-7	ISL	a sut i mynd i yr Nefoedd	---	NSNT
+
+
+108, 1	281, 1-8	CAR	*oh* *pity* bod mi ddim wedi bod yna	---	NST
+
+
+109, 1	282, 1-5	ISL	a bethau felly yn_de ia	NSNT	NSNT
+109, 2	283, 1-10	ISL	*well* o'n i yn *Steddfod* yr *Urdd* pnawn Sadwrn dwytha	NST	NST
+109, 3	285, 1-13	ISL	i blant iau plant ysgolion cynradd yn_de yn *Dinas_Basing* yr ysgol uwchradd Treffynnon	NST	NST
+109, 4	286, 1-7	ISL	y glamp o neuadd yn fan yna	NSNT	NSNT
+109, 5	288, 1-8	ISL	ond o'n i yn eistedd ar y gadair	NSNT	NSNT
+109, 6	288, 9-14	ISL	ac o'n i meddwl amdanat ti	NSNT	NSNT
+109, 7	289, 1-4	ISL	oedd o fel hyn	NSNT	NSNT
+109, 8	291, 2-7	ISL	ac oedd o dipyn yn anghyfforddus	---	NSNT
+
+
+110, 1	292, 1-3	CAR	mae yn *sure*	---	NST
+
+
+111, 1	293, 1-11	ISL	ond fasai dy draed ti wedi twtsio yr llawr ynddo fo	---	NSNT
+
+
+112, 1	294, 1-6	CAR	ond dw i ddim isio bod	---	NSNT
+
+
+113, 1	295, 1-7	ISL	ond ddaru mi symud wedyn a gadair	NSNT	NSNT
+113, 2	295, 8-9	ISL	oedd ddim	NSNT	NSNT
+113, 3	297, 1-8	ISL	raid bod o wedi torri o_dano neu rywbeth	---	NSNT
+
+
+114, 1	298, 1-3	CAR	raid raid *yeah*	---	NST
+
+
+115, 1	299, 1-7	ISL	ond es i i yr gadair nesa	NSNT	NSNT
+115, 2	300, 1-6	ISL	ac oedd hwnnw gan mil gwell	---	NSNT
+
+
+116, 1	301, 1-4	CAR	*oh* *job* dda yn_de	---	NST
+
+
+117, 1	302, 1-10	ISL	ac oedd yna wraig yn yn ymyl fi fan yma	NSNT	NSNT
+117, 2	303, 1-9	ISL	mae wedi symud o *Pentre_Lygian* i fyw ym *Bagill*	---	NST
+
+
+118, 1	304, 1-6	CAR	*oh* am bod hi yn gynhesach	---	NST
+
+
+119, 1	307, 1-11	ISL	ac oedd hi ar adran damweiniau yn ysbyty Dreffynnon yma hefyd	SNT	NSNT
+119, 2	308, 1-1	ISL	*Ysbyty_Bwthyn*	ST	NST
+119, 3	310, 1-5	ISL	ac oedd gynni hi ferch	NSNT	NSNT
+119, 4	311, 1-3	ISL	o ferch hardd	NSNT	NSNT
+119, 5	312, 1-11	ISL	ac ddaru hi ennill yn y *Steddfod* cynta ail neu trydydd	NST	NST
+119, 6	313, 1-3	ISL	ond daru ennill	NSNT	NSNT
+119, 7	314, 1-13	ISL	a wedyn oedd yna wraig o *Trelawnyd* i eistedd ochr yma i mi	NST	NST
+119, 8	315, 1-11	ISL	oedd hi yn byw drws nesa i yr capel yn *Trelawnyd*	NST	NST
+119, 9	317, 1-6	ISL	ac oedd hi yn llawn annwyd	---	NSNT
+
+
+120, 1	318, 1-7	CAR	*oh* ddaru hi roi o i ti	---	NST
+
+
+121, 1	319, 1-1	ISL	naddo	NSNT	NSNT
+121, 3	321, 1-5	ISL	ddaru gymryd o wrtha fi	---	NSNT
+
+
+122, 1	322, 1-5	CAR	wneud hi yn waeth do	---	NSNT
+
+
+123, 1	323, 1-7	ISL	y greadures o'n i cynnig *Fisherman's_Friend* iddi	---	NST
+
+
+124, 1	324, 2-5	CAR	oedd o *right* boeth	---	NST
+
+
+125, 1	325, 1-7	ISL	oedd ddigon am llosgi cheg yn dwll	NSNT	NSNT
+125, 3	327, 1-5	ISL	fath â bwyta rheiny yndy	NSNT	NSNT
+125, 5	329, 1-6	ISL	ac wedyn lle est ti ddoe	---	NSNT
+
+
+126, 1	330, 1-4	CAR	i i *er* *Gonwy*	NST	NST
+126, 2	332, 1-5	CAR	i drio cael *car* O_O_Seven	NST	ST
+126, 3	333, 1-3	CAR	because dw i	NSNT	SNT
+126, 4	333, 4-9	CAR	dan ni brynu un i *Harry*	NST	NST
+126, 5	335, 1-7	CAR	mae yn saethu missiles neu rywbeth a	NSNT	SNT
+126, 6	337, 1-9	CAR	mae fod i fynd o_dan y dŵr neu rywbeth	NSNT	NSNT
+126, 7	337, 10-11	CAR	yndy fel	NSNT	NSNT
+126, 8	337, 12-15	CAR	oedd yn y *film*	NST	NST
+126, 9	339, 1-7	CAR	ac wedyn oedd y llall isio fo	NSNT	NSNT
+126, 10	340, 1-6	CAR	ac o'n nhw yn paffio o_hyd	NSNT	NSNT
+126, 11	342, 1-4	CAR	gorfod cael un arall	SNT	NSNT
+126, 12	344, 1-8	CAR	anyway o'n i methu cael yr un yna	NSNT	SNT
+126, 13	346, 1-6	CAR	a wnes i fynd i Colwyn_Bay	SNT	SNT
+126, 14	347, 1-7	CAR	ac o'n i methu cael o yna	NSNT	NSNT
+126, 15	348, 1-7	CAR	a ddaru o ddeud lle i fynd	NSNT	NSNT
+126, 16	349, 1-5	CAR	mae yna le yn Hen_Gonwy	NSNT	NSNT
+126, 17	351, 1-7	CAR	a mae drws nesa i warehouse teganau	NSNT	SNT
+126, 18	353, 1-3	CAR	ddaru nhw ddeud	NSNT	NSNT
+126, 19	354, 1-6	CAR	*well* dw i ddim gynno fo	NST	NST
+126, 20	355, 1-8	CAR	ond medra i gael o mewn dau funud	NSNT	NSNT
+126, 21	356, 1-5	CAR	a dyma ffonio drws nesa	NSNT	NSNT
+126, 22	358, 1-5	CAR	a ddaru nhw nôl o	---	NSNT
+
+
+127, 1	359, 1-4	ISL	oedd ti gael un	NSNT	NSNT
+127, 2	361, 1-1	ISL	ew	NSNT	NSNT
+127, 3	362, 1-6	ISL	a ti mynd i weld *Natalie*	---	NST
+
+
+128, 1	363, 1-7	CAR	na o'n i ry hwyr wedyn yn_de	NSNT	NSNT
+128, 2	364, 1-5	CAR	o'n i yn meddwl mynd	---	NSNT
+
+
+129, 1	365, 1-2	ISL	ddaru mi	NSNT	NSNT
+129, 2	365, 3-6	ISL	ro i galwad i	---	NSNT
+
+
+130, 1	366, 1-5	CAR	dw i isio mynd heddiw	NSNT	NSNT
+130, 2	366, 6-6	CAR	meddwl	---	NSNT
+
+
+131, 1	367, 1-8	ISL	ddaru mi roi galwad iddi ar y *phone*	NST	NST
+131, 2	369, 1-4	ISL	ac mae yn disgwyl	NSNT	NSNT
+131, 3	370, 1-8	ISL	oedd *Ian* wedi mynd i Sir_Fôn efo *batteries*	---	NST
+
+
+132, 1	371, 1-1	CAR	heddiw	---	NSNT
+
+
+133, 1	372, 1-5	ISL	na diwrnod ei phen_blwydd seithfed	NSNT	NSNT
+133, 2	374, 1-1	ISL	seithfed	NSNT	NSNT
+133, 3	375, 1-5	ISL	ac *er* mae braich hi	NST	NST
+133, 4	376, 1-7	ISL	mae yn gwaetiad i gael o wedi	---	NSNT
+
+
+134, 1	377, 2-11	CAR	oedd hi yn mynd i yr ysbyty dydd Llun yma	NSNT	NSNT
+134, 2	379, 1-7	CAR	dydd Llun oedd hi yn mynd *yeah*	---	NST
+
+
+135, 1	380, 1-6	ISL	*yeah* dydd Llun sydd i ddŵad	NST	NST
+135, 2	381, 1-4	ISL	dydd Llun nesa *yeah*	---	NST
+
+
+136, 1	382, 1-10	CAR	*oh* *yeah* i yn meddwl mai yr Llun wsnos yma	NST	NST
+136, 2	384, 1-5	CAR	dw i ddim yn *sure*	---	NST
+
+
+137, 1	385, 1-1	ISL	*well*	---	NST
+
+
+138, 1	386, 1-6	CAR	ond am bod hi dydd Sul	NSNT	NSNT
+138, 2	386, 7-18	CAR	o'n nhw heblaw wedi X_ray ochr yma a ddim yr ochr arall	---	SNT
+
+
+139, 1	387, 1-2	ISL	ei hysgwydd	---	NSNT
+
+
+140, 1	389, 1-7	CAR	a dyna pam oedd o yn brifo	NSNT	NSNT
+140, 2	391, 1-8	CAR	o'n nhw ddim wedi setio fo yn iawn	NSNT	NSNT
+140, 4	393, 1-6	CAR	dyna pam oedd hi yn mynd	NSNT	NSNT
+140, 6	395, 1-5	CAR	mae yn poen yn ofnadwy	---	NSNT
+
+
+141, 1	396, 1-1	ISL	poen	---	NSNT
+
+
+142, 1	398, 1-6	CAR	*yeah* *oh* *oh* *well* wna i	NST	NST
+142, 2	399, 1-6	CAR	o'n i am ffonio i weld	NSNT	NSNT
+142, 3	399, 7-14	CAR	os oedd o yn iawn i fynd heno	NSNT	NSNT
+142, 4	400, 1-8	CAR	ew gest ti andros o golled pan y	---	NSNT
+
+
+143, 1	401, 1-13	ISL	*oh* o't ti ddim wedi dod adre o cynhebrwng dy fam_yng_nghyfraith nag oedd	NST	NST
+143, 2	403, 1-9	ISL	dydd Gwener dwytha wsnos i heno oedd hi *yeah*	NST	NST
+143, 3	404, 1-10	ISL	o'n ni yn dathlu Gŵyl_Dewi yn y *Stanford_Gate* yn dre	---	NST
+
+
+144, 1	405, 1-6	CAR	*oh* *yeah* oedd o yn dda	---	NST
+
+
+145, 1	406, 1-5	ISL	*Humph_Humphreys* oedd y gŵr gwadd	NST	NST
+145, 2	407, 1-10	ISL	a mae wraig o *Debbie* yn dŵad o *Cilcain* *Debbie_Davies*	NST	NST
+145, 3	408, 1-13	ISL	oedd ei thad a ei *mam* yn cadw yr swyddfa *post* yn *Cilcain*	NST	NST
+145, 4	409, 1-5	ISL	ac o'n i yn deud	NSNT	NSNT
+145, 5	410, 1-11	ISL	dw i yn cofio hi yn dod i *Ysgol_Llan* yma efo	NST	NST
+145, 6	410, 12-18	ISL	be o'n i yn gael i ginio	SNT	NSNT
+145, 7	412, 1-5	ISL	dietician dw i yn meddwl	NSNT	SNT
+145, 8	414, 1-6	ISL	adeg oedd *Iago_Irons* yn brifathro yna	NST	NST
+145, 9	416, 1-3	ISL	sawl blwyddyn yn_ôl	---	NSNT
+
+
+146, 1	417, 1-5	CAR	well mae yn ychydig rŵan	---	NSNT
+
+
+147, 1	419, 1-2	ISL	ond *er*	NST	NST
+147, 2	420, 1-8	ISL	*oh* ac o'n i yn meddwl mai *Ford_Popular*	NST	NST
+147, 3	420, 9-10	ISL	oedd gynni	NSNT	NSNT
+147, 4	421, 1-6	ISL	ond oedd hi yn gywiro fi	NSNT	NSNT
+147, 5	422, 1-4	ISL	*Ford_Anglia* oedd gynni hi	---	NST
+
+
+148, 1	423, 1-7	CAR	*oh* oedd hwnna *right* *right* agos yn_do	---	NST
+
+
+149, 1	424, 1-5	ISL	wneith hwnnw ateb ei hun	NSNT	NSNT
+149, 2	424, 6-6	ISL	yli	NSNT	NSNT
+149, 3	426, 1-8	ISL	mae yr *phone* yn canu ym ben draw	NST	NST
+149, 5	428, 1-7	ISL	ond geith o ei ateb ei hun	---	NSNT
+
+
+150, 1	429, 1-5	CAR	ond ydy *Gladys* ddim yna	---	NST
+
+
+151, 1	430, 1-4	ISL	na mae yn *fine*	NST	NST
+151, 2	431, 1-5	ISL	cymryd polion i yr cae	NSNT	NSNT
+151, 3	432, 1-4	ISL	*Jason* yn gosod polion	---	NST
+
+
+152, 1	433, 1-4	CAR	*oh* mae *Jason* yna	NST	NST
+152, 3	437, 1-4	CAR	dw i yn meddwl	NSNT	NSNT
+152, 4	437, 5-7	CAR	fysai fo yn	NSNT	NSNT
+152, 5	437, 8-16	CAR	roir wneud *tap* i mi yn y *bath* yma	---	NST
+
+
+153, 1	438, 1-1	ISL	*tap*	---	NST
+
+
+154, 1	439, 1-5	CAR	mi oedd yn y gegin	NSNT	NSNT
+154, 2	440, 1-5	CAR	dw i isio *tap* gwahanol	---	NST
+
+
+155, 1	441, 1-2	ISL	*oh* basai	NST	NST
+155, 2	441, 3-5	ISL	mae *sure* llawen	---	NST
+
+
+156, 1	443, 1-7	CAR	*oh* wna i ofyn iddo fo ta	---	NST
+
+
+157, 1	444, 1-2	ISL	ry falch	NSNT	NSNT
+157, 2	445, 1-6	ISL	mae yn ateb ei hun wan	---	NSNT
+
+
+158, 1	446, 2-4	CAR	mae yn ardderchog	NSNT	NSNT
+158, 3	448, 1-11	CAR	oedd *Merched_y_Wawr* wedi mynd i rywle yn *Nanerch* i gael cinio	---	NST
+
+
+159, 1	449, 1-4	ISL	*oh* *yeah* cinio Gŵyl_Dewi	---	NST
+
+
+160, 1	450, 1-5	CAR	ie cyn y Gŵyl_Dewi yndy	NSNT	NSNT
+160, 2	452, 1-3	CAR	o'n nhw ddeud	NSNT	NSNT
+160, 3	452, 4-7	CAR	bod o yn ardderchog	---	NSNT
+
+
+161, 1	454, 1-9	ISL	glywes i am un arall tua ochrau Wyddgrug rywle	NSNT	NSNT
+161, 2	455, 1-5	ISL	oedd o bob chwe phunt	---	NSNT
+
+
+162, 1	457, 1-4	CAR	hwnna yn rhad yn_doedd	NSNT	NSNT
+162, 2	459, 1-7	CAR	be o'ch chi yn gael am hwnna	NSNT	NSNT
+162, 3	461, 1-2	CAR	bob peth	---	NSNT
+
+
+163, 1	462, 1-7	ISL	cawl a cinio iawn a *pudding* wedyn	---	NST
+
+
+164, 1	464, 1-3	CAR	ew ardderchog yn_de	---	NSNT
+
+
+165, 1	465, 1-8	ISL	oedd hwnnw rywbeth i wneud efo *Menter_Iaith* Sir_Fflint	NST	NST
+165, 2	465, 9-11	ISL	dw i meddwl	---	NSNT
+
+
+166, 1	469, 1-7	CAR	*well* *oh* hwyrach mai dyna be oedd	NST	NST
+166, 2	470, 1-5	CAR	oedd *Keith* yn mynd yno	NST	NST
+166, 3	471, 1-4	CAR	dw ddim yn gwybod	---	NSNT
+
+
+167, 1	472, 1-3	ISL	hwyrach bod o	NSNT	NSNT
+167, 2	473, 1-4	ISL	rheitiach bod o wedi	NSNT	NSNT
+167, 3	474, 1-7	ISL	oedd y tocynnau wedi mynd fel yna	---	NSNT
+
+
+168, 1	475, 1-4	CAR	*oh* mae yn *sure*	NST	NST
+168, 3	477, 1-4	CAR	ond dydy o ddim	NSNT	NSNT
+168, 4	477, 5-11	CAR	wedi bod ti yn gweld yn y	---	NSNT
+
+
+169, 1	478, 1-9	ISL	ti yn cofio yr rhaglen yna ar y teledu	NSNT	NSNT
+169, 2	479, 2-6	ISL	be oedd ei enw o	---	NSNT
+
+
+170, 1	480, 1-1	CAR	be	---	NSNT
+
+
+171, 1	481, 1-1	ISL	*Torri_Gwynt*	ST	NST
+171, 2	482, 1-4	ISL	oedd *Dewi_Pws* yno fo	NST	NST
+171, 3	485, 1-5	ISL	ew oedd o yn ddoniol	---	NSNT
+
+
+172, 1	486, 1-6	CAR	ew oedd o yn da yn_doedd	---	NSNT
+
+
+173, 1	487, 1-4	ISL	mae o dal yn	NSNT	NSNT
+173, 2	487, 5-5	ISL	dydy	NSNT	NSNT
+173, 3	488, 1-3	ISL	mae *Rownd_a_Rownd* wan	NST	NST
+173, 4	489, 1-4	ISL	ti yn gwatsio hwnnw	---	NSNT
+
+
+174, 1	491, 1-8	CAR	na dw i ddim yn gweld hwnna llawer	---	NSNT
+
+
+175, 1	492, 1-10	ISL	nos Lun a nos Fercher hanner wedi chwech tan saith	NSNT	NSNT
+175, 2	493, 1-1	ISL	cofia	NSNT	NSNT
+175, 3	494, 1-1	ISL	S_pedwar_C	---	NSNT
+
+
+176, 1	495, 1-3	CAR	oeddwn i yn	NSNT	NSNT
+176, 2	496, 1-2	CAR	nos Llun	---	NSNT
+
+
+177, 1	498, 1-6	ISL	a yr nos Mercher *oh* *right*	NST	NST
+177, 2	499, 1-8	ISL	*yeah* mae ar tua amser cinio dydd Sul	---	NST
+
+
+178, 1	502, 1-4	CAR	*oh* dyna ni ta	---	NST
+
+
+179, 1	503, 1-2	ISL	y *omnibus*	---	NST
+
+
+180, 1	505, 1-3	CAR	dyna dda yn_de	---	NSNT
+
+
+181, 1	506, 1-8	ISL	ew *oh* mae yna raglenni da ar S_pedwar_C	---	NST
+
+
+182, 1	507, 1-2	CAR	ew oes	---	NSNT
+
+
+183, 1	508, 1-4	ISL	oes wir mae yna	NSNT	NSNT
+183, 2	509, 1-7	ISL	*oh* mae *Dai_Jones* yn cychwyn eto *Cefn_Gwlad*	---	NST
+
+
+184, 1	511, 1-3	CAR	*oh* da iawn	---	NST
+
+
+185, 1	512, 1-2	ISL	yndy wir	---	NSNT
+
+
+186, 1	514, 1-8	CAR	mae isio nhw wneud *Dechrau_Canu* yn iawn hefyd	---	NST
+
+
+187, 1	515, 1-8	ISL	mae yna lythyr yn y *Goleuad* am hynny	---	NST
+
+
+188, 1	516, 1-5	CAR	*oh* raid mi sgwennu hefyd	---	NST
+
+
+189, 1	517, 1-3	ISL	a yr *Cymro*	NST	NST
+189, 2	518, 1-6	ISL	ti ddim yn cael y *Goleuad*	---	NST
+
+
+190, 1	519, 1-2	CAR	nac ydw	---	NSNT
+
+
+191, 1	520, 1-2	ISL	nag wyt	---	NSNT
+
+
+192, 1	521, 1-9	CAR	*well* pam ti ddim yn roi un i mi	---	NST
+
+
+193, 1	522, 1-3	ISL	mi wna i	NSNT	NSNT
+193, 2	523, 1-2	ISL	dw i	NSNT	NSNT
+193, 3	523, 3-11	ISL	wedi bod yn postio rei i *John_Johnson* *Fron_Hendre* achos	NST	NST
+193, 4	523, 12-19	ISL	oedd ei lun o ar ei flaen o	---	NSNT
+
+
+194, 1	524, 1-3	CAR	*oh* dyna *nice*	---	NST
+
+
+195, 1	525, 1-4	ISL	ynglŷn â *Capel_y_Gad* *Cilcain*	NST	NST
+195, 2	526, 1-12	ISL	oedd y Parch *Erin_Evans* wedi sgwennu hanes yr achos mewn llyfr dwyieithog	---	NST
+
+
+196, 1	527, 1-1	CAR	ew	---	NSNT
+
+
+197, 1	528, 1-3	ISL	am dair punt	---	NSNT
+
+
+198, 1	529, 1-3	CAR	mae yn rhad	---	NSNT
+
+
+199, 1	530, 1-4	ISL	oedd o fath â	NSNT	NSNT
+199, 2	530, 5-10	ISL	oedd o ratach na cerdyn Dolig	NSNT	NSNT
+199, 3	532, 1-2	ISL	es i	NSNT	NSNT
+199, 4	533, 1-10	ISL	*oh* o'n i mynd i lle *Pauline* i nôl un	NST	NST
+199, 5	535, 1-5	ISL	ti yn cofio i Bwcle	---	NSNT
+
+
+200, 1	536, 1-8	CAR	yndw raid ni fynd fyny ac i_lawr yn_do	---	NSNT
+
+
+201, 1	537, 1-7	ISL	*Ffordd_Nant_Mawr* *well* dyna ti le ydy hwnnw	NST	NST
+201, 3	539, 1-7	ISL	mae yr tai wedi rhifo bob siâp	NSNT	NSNT
+201, 4	540, 1-5	ISL	a mae nhw yn deud	NSNT	NSNT
+201, 5	540, 6-10	ISL	bod *Rhosllanerchrugog* yr un fath	---	NST
+
+
+202, 1	541, 1-1	CAR	be	NSNT	NSNT
+202, 2	542, 1-8	CAR	y ffyrdd yn newid eu henwau hanner ffordd	---	NSNT
+
+
+203, 1	543, 1-4	ISL	a rhifau bob siâp	---	NSNT
+
+
+204, 1	544, 1-8	CAR	a un ochr yn un le yn un	---	NSNT
+
+
+205, 1	545, 1-2	ISL	un enw	---	NSNT
+
+
+206, 1	546, 1-5	CAR	a yr llall enw arall	---	NSNT
+
+
+207, 1	547, 1-2	ISL	enw arall	---	NSNT
+
+
+208, 1	548, 1-2	CAR	ochr arall	---	NSNT
+
+
+209, 1	549, 1-9	ISL	*yeah* *well* wrth bod nhw wedi dal i adeiladu	NST	NST
+209, 2	549, 10-11	ISL	ydy o	---	NSNT
+
+
+210, 1	551, 1-8	CAR	*well* bysen medru wneud phase two neu rywbeth	NST	ST
+210, 2	551, 9-12	CAR	yn_de yr un enw	---	NSNT
+
+
+211, 1	552, 1-8	ISL	dydy hi ddim yn gynnes iawn heddiw nac	---	NSNT
+
+
+212, 1	553, 1-6	CAR	*well* dim yn mae yn go_lew	NST	NST
+212, 2	555, 1-4	CAR	mae ddim yn glawio	NSNT	NSNT
+212, 3	556, 1-3	CAR	dyna yr peth	---	NSNT
+
+
+213, 1	557, 1-5	ISL	*yeah* dyna peth mawr yn_de	NST	NST
+213, 2	559, 1-8	ISL	hwyrach ddylsen ni wneud tân yn fan yma	---	NSNT
+
+
+214, 1	560, 1-5	CAR	ydy yr plant yn dod	---	NSNT
+
+
+215, 1	562, 1-4	ISL	*oh* nos Wener yndyn	NST	NST
+215, 2	563, 1-6	ISL	mi ddawn i ein gweld ni	---	NSNT
+
+
+216, 1	564, 1-7	CAR	dan ni yn mynd yna i Gaerdydd	NSNT	NSNT
+216, 2	565, 1-3	CAR	oedd fi meddwl	NSNT	NSNT
+216, 3	565, 4-8	CAR	bod ni mynd wsnos nesa	NSNT	NSNT
+216, 4	566, 1-7	CAR	ac yr wsnos arall dan ni mynd	NSNT	NSNT
+216, 5	568, 1-10	CAR	ac wedyn mae nhw yn dod yma am y Pasg	---	NSNT
+
+
+217, 1	569, 1-3	ISL	*oh* *nice* iawn	---	NST
+
+
+218, 1	570, 1-13	CAR	a mae nhw am aros am yn *er* rhieni *Imogen* ar y ffordd	NST	NST
+218, 2	571, 1-3	CAR	mae nhw yn	NSNT	NSNT
+218, 3	573, 1-10	CAR	a dod i_fyny a aros yna ar y ffordd yn_ôl	---	NSNT
+
+
+219, 1	574, 1-5	ISL	ddaru *Ken_King* ffonio diwrnod o_blaen	NST	NST
+219, 2	575, 1-8	ISL	oedd isie canwyl canol i olwyn *Ford* *Four_Thousand*	NST	NST
+219, 3	576, 1-8	ISL	raid bod un o wedi cracio neu rywbeth	NSNT	NSNT
+219, 4	577, 1-5	ISL	oedd gynna i un yma	NSNT	NSNT
+219, 5	578, 1-13	ISL	ond mae raid bod nhw wedi cael gafael ar un o rywle arall	NSNT	NSNT
+219, 6	579, 1-7	ISL	*tyre* oedd *er* wedi prynu am bunt	---	NST
+
+
+220, 1	580, 1-4	CAR	*oh* ddaru ti ddeud	---	NST
+
+
+221, 1	581, 1-7	ISL	super singles mae nhw yn galw nhw	NSNT	SNT
+221, 2	582, 1-5	ISL	mae nhw gyn_lleted â hynny	NSNT	NSNT
+221, 3	583, 1-11	ISL	yn lle bod fath â *lorries* ers_talwm gyn twin wheels yn_doedd	---	ST
+
+
+222, 1	584, 1-7	CAR	*oh* *yeah* mae nhw wneud un mawr	---	NST
+
+
+223, 1	585, 1-3	ISL	super single *yeah*	ST	NST
+223, 2	586, 1-4	ISL	naw_deg modfedd o led	---	NSNT
+
+
+224, 1	587, 1-1	CAR	ew	---	NSNT
+
+
+225, 1	588, 1-11	ISL	ac oedd yna ddigon o gig yno fo ti yn dallt	NSNT	NSNT
+225, 2	590, 1-5	ISL	oedd y llall yn foel	NSNT	NSNT
+225, 3	591, 1-5	ISL	wedyn mae wedi newid o	---	NSNT
+
+
+226, 1	592, 1-3	CAR	ew mae yna	---	NSNT
+
+
+227, 1	593, 1-8	ISL	a rywbeth felly mae yn gwneud wan o_hyd	---	NSNT
+
+
+228, 1	594, 1-10	CAR	fasai wedi costio andros o *lot* am un newydd yn_basai	---	NST
+
+
+229, 1	595, 1-2	ISL	mi fasai	NSNT	NSNT
+229, 2	596, 1-1	ISL	fasai	---	NSNT
+
+
+230, 1	597, 1-5	CAR	oedd fi ddim yn gwybod	NSNT	NSNT
+230, 2	597, 6-8	CAR	bod nhw wneud	NSNT	NSNT
+230, 3	597, 9-11	CAR	olwynion fel yna	---	NSNT
+
+
+231, 1	599, 1-3	ISL	a mae nhw	NSNT	NSNT
+231, 2	600, 1-5	ISL	mae gynna i rei hen	NSNT	NSNT
+231, 3	600, 6-7	ISL	olwynion yma	NSNT	NSNT
+231, 4	601, 1-3	ISL	mae nhw gyn	NSNT	NSNT
+231, 5	601, 4-9	ISL	be mae nhw galw knock_off *rims*	ST	ST
+231, 6	603, 1-2	ISL	ac ddaru	NSNT	NSNT
+231, 7	603, 3-16	ISL	dyn *Saracen* o *Cerrigydrudion* ddod yma i newid *tyres* a gwerthu un newydd unwaith	NST	NST
+231, 8	604, 1-6	ISL	ond oedd o yn methu lân	NSNT	NSNT
+231, 9	604, 7-15	ISL	â cael y *tyre* ar y knock_off *rim* yma	NST	ST
+231, 11	606, 1-6	ISL	mi allan fod yn beryg hefyd	NSNT	NSNT
+231, 12	607, 1-9	ISL	os wyt ti ddim yn cael nhw yn iawn	NSNT	NSNT
+231, 13	607, 10-19	ISL	fedr yr holl wynt chwythu yr knock_off *rim* yma i_ffwrdd	NST	ST
+231, 14	608, 1-4	ISL	a mae yna ddamweiniau	NSNT	NSNT
+231, 15	608, 5-6	ISL	wedi bod	---	NSNT
+
+
+232, 1	609, 1-5	CAR	ew ti ddim isio rheina	---	NSNT
+
+
+233, 1	610, 1-6	ISL	*well* mae nhw wedi mynd wan	---	NST
+
+
+234, 1	611, 1-6	CAR	dyn nhw ddim yn wneud nhw	---	NSNT
+
+
+235, 1	612, 1-3	ISL	a mae yr	NSNT	NSNT
+235, 2	613, 1-8	ISL	os wnei di sylwi wan *rims* whiliau *lorries*	NST	NST
+235, 3	613, 9-15	ISL	mae nhw wedi plygu *right* drosodd fel	NST	NST
+235, 4	613, 16-30	ISL	bod o yn hawddach cael y *tyre* dros yr ymyl heb y knock_off *rims* yma	---	ST
+
+
+236, 1	615, 1-4	CAR	*yeah* *well* mae yn	---	NST
+
+
+237, 1	617, 1-9	ISL	wneith peiriant neu *tyre* lever mawr ei osod o	---	ST
+
+
+238, 1	618, 1-2	CAR	wneud o	NSNT	NSNT
+238, 2	619, 1-6	CAR	y ffordd hen ffasiwn yn well	---	NSNT
+
+
+239, 1	620, 1-10	ISL	*well* oedd y knock_off *rims* yma yn ryw bethau go	NST	ST
+239, 2	621, 1-4	ISL	o'n nhw yn beryg	NSNT	NSNT
+239, 3	622, 1-5	ISL	lle est ti dydd Llun	NSNT	NSNT
+239, 4	623, 1-6	ISL	o'n i yn chwilio amdanat ti	---	NSNT
+
+
+240, 1	624, 1-2	CAR	dydd Llun	NSNT	NSNT
+240, 2	626, 1-8	CAR	*oh* o'n i mynd i edrych ar *bathrooms*	---	NST
+
+
+241, 1	628, 1-2	ISL	*bathroom* suite	ST	NST
+241, 2	630, 1-7	ISL	*George_Henry_Wright* ddaru nhad gael hwnnw yn un_naw_chwech_wyth	---	NST
+
+
+242, 1	631, 1-6	CAR	ie mae hwnnw yn un da	---	NSNT
+
+
+243, 1	632, 1-5	ISL	pa liw wyt ti isio	---	NSNT
+
+
+244, 1	633, 1-1	CAR	gwyn	---	NSNT
+
+
+245, 1	635, 1-5	ISL	pa liw sy yna wan	---	NSNT
+
+
+246, 1	636, 1-2	CAR	melyn yn_de	NSNT	NSNT
+246, 2	638, 1-3	CAR	melyn ia melyn	---	NSNT
+
+
+247, 1	639, 1-5	ISL	gwyn ydy rei ni hefyd	NSNT	NSNT
+247, 3	641, 1-7	ISL	powlen ail law o *Flint* ni gael	NST	NST
+247, 4	643, 1-10	ISL	ac a does yr un o yr tapiau yn matsio	NSNT	NSNT
+247, 5	644, 1-4	ISL	felly mae hi orau	---	NSNT
+
+
+248, 1	645, 1-10	CAR	*oh* *well* does dim isio bob peth yr un fath	NST	NST
+248, 2	645, 11-12	CAR	nag wyt	NSNT	NSNT
+248, 3	646, 1-1	CAR	mae	NSNT	NSNT
+248, 5	648, 1-9	CAR	*well* dach chi ddim yn ffwndro pa yr un	NST	NST
+248, 6	648, 10-11	CAR	ydy yr	---	NSNT
+
+
+249, 1	649, 1-3	ISL	poeth ac oer	---	NSNT
+
+
+250, 1	650, 1-3	CAR	dyna ti *yeah*	---	NST
+
+
+251, 1	651, 1-6	ISL	mae yr *bath* yr un fath	NST	NST
+251, 2	652, 1-9	ISL	oedd raid ni newid un *tap* yn fan yna	NST	NST
+251, 3	654, 1-10	ISL	dydy o ddim *quite* yr un fath â yr llall	---	NST
+
+
+252, 1	655, 1-4	CAR	*well* dim ots naci	---	NST
+
+
+253, 1	656, 1-6	ISL	mae rei yn cael tapiau aur	---	NSNT
+
+
+254, 1	657, 1-9	CAR	ond dw i gyn ofn i yr bowlen dorri	NSNT	NSNT
+254, 2	658, 1-9	CAR	a mae wedi cracio yn fwy ac yn fwy	---	NSNT
+
+
+255, 1	659, 1-3	ISL	y *bath* neu	---	NST
+
+
+256, 1	660, 1-3	CAR	na y bowlen	---	NSNT
+
+
+257, 1	663, 1-4	ISL	*yeah* potyn dyn nhw	NST	NST
+257, 2	665, 1-2	ISL	clai yn_de	NSNT	NSNT
+257, 3	667, 1-6	ISL	*well* fyswn i yn hoffi llond	---	NST
+
+
+258, 1	668, 1-5	CAR	ond ond mae yna rei	NSNT	NSNT
+258, 2	668, 6-9	CAR	yn_de ti yn golchi	NSNT	NSNT
+258, 3	668, 10-21	CAR	a mae yr dŵr yn mynd dros y mynd ar y llawr	NSNT	NSNT
+258, 4	671, 1-2	CAR	ac oedd	NSNT	NSNT
+258, 5	671, 3-9	CAR	oedd nhw gyn fo yn yr ysgol	NSNT	NSNT
+258, 6	672, 1-11	CAR	ac o'ch chi yn dod allan a golchi eich dillad ynddi	---	NSNT
+
+
+259, 1	673, 1-1	ISL	wlyb	SNT	NSNT
+259, 2	675, 1-2	ISL	*yeah* *well*	---	NST
+
+
+260, 1	676, 1-8	CAR	ond dw i ddim isio un fel yna	---	NSNT
+
+
+261, 1	677, 1-4	ISL	ochrau serth ydy yr	---	NSNT
+
+
+262, 1	678, 1-2	CAR	gorau ie	---	NSNT
+
+
+263, 1	679, 3-6	ISL	sy yn arbed hynny	---	NSNT
+
+
+264, 1	680, 1-1	CAR	ond	NSNT	NSNT
+264, 2	681, 1-9	CAR	ia mae nhw yn roi o mewn work surface	SNT	SNT
+264, 3	681, 10-11	CAR	yndyn weithiau	NSNT	NSNT
+264, 4	683, 1-4	CAR	gan wneud y *job*	---	NST
+
+
+265, 1	684, 1-4	ISL	ydy hynny yn *help*	---	NST
+
+
+266, 1	685, 1-2	CAR	nac ydy	NSNT	NSNT
+266, 2	685, 3-7	CAR	mae yn wneud yn waeth	---	NSNT
+
+
+267, 1	686, 1-2	ISL	bellach i_ffwrdd	---	NSNT
+
+
+268, 1	687, 1-6	CAR	na mae yn rhedeg o lawr	---	NSNT
+
+
+269, 1	689, 1-3	ISL	*oh* wela i	NST	NST
+269, 2	690, 1-2	ISL	ac *er*	NST	NST
+269, 3	691, 1-6	ISL	be o'n i yn sôn am	---	NSNT
+
+
+270, 1	692, 1-9	CAR	a mae nhw isio roi *bath* yn y wal	NST	NST
+270, 2	693, 1-8	CAR	ond dw i ddim isio nhw wneud hynna	---	NSNT
+
+
+271, 1	694, 1-1	ISL	*bath*	---	NST
+
+
+272, 1	695, 1-11	CAR	*yeah* mae isio roi o yn y wal neu wneud twll	---	NST
+
+
+273, 1	696, 1-3	ISL	ia am be	---	NSNT
+
+
+274, 1	697, 1-5	CAR	am bod o ry fawr	NSNT	NSNT
+274, 2	698, 1-7	CAR	ond mae nhw yn wneud rhei llai	NSNT	NSNT
+274, 3	699, 1-5	CAR	daru nhw wneud hynna efo	---	NSNT
+
+
+275, 1	700, 1-3	ISL	chip_io yr *plaster*	---	ST
+
+
+276, 1	702, 1-7	CAR	daru nhw wneud hynna yn lle yn_de	---	NSNT
+
+
+277, 1	703, 1-5	ISL	*well* wneith o ddim gollwng	---	NST
+
+
+278, 1	704, 1-7	CAR	ac oeddech chi methu troi yr *tap*	---	NST
+
+
+279, 1	705, 1-4	ISL	*oh* ar y pen	---	NST
+
+
+280, 1	706, 1-5	CAR	*yeah* oedd o mor agos	---	NST
+
+
+281, 1	707, 1-3	ISL	*oh* wela i	---	NST
+
+
+282, 1	708, 1-6	CAR	*well* o o_gwmpas dw i meddwl	NST	NST
+282, 2	709, 1-5	CAR	ond dw i ddim isio	---	NSNT
+
+
+283, 1	710, 1-5	ISL	y pen a yr ochrau	---	NSNT
+
+
+284, 1	711, 1-3	CAR	*well* yr ochrau	NST	NST
+284, 2	712, 1-3	CAR	*er* ie pennau	NST	NST
+284, 3	714, 1-2	CAR	ac o'n	NSNT	NSNT
+284, 4	714, 3-5	CAR	ond oedden nhw	NSNT	NSNT
+284, 5	714, 6-8	CAR	ac oedden nhw	NSNT	NSNT
+284, 6	714, 9-13	CAR	oedden nhw cau wneud dim_byd	NSNT	NSNT
+284, 7	715, 1-7	CAR	ond ddaru nhw wneud yn y diwedd	---	NSNT
+
+
+285, 1	716, 1-7	ISL	dw i yn mynd i yn y	NSNT	NSNT
+285, 2	716, 8-11	ISL	cae o_flaen *Tyddyn_Ucha* eleni	NST	NST
+285, 3	718, 1-6	ISL	ar_ôl i yr defaid orffen pori	NSNT	NSNT
+285, 4	720, 1-3	ISL	y swêj yma	---	NSNT
+
+
+286, 1	721, 1-2	CAR	ydy yr	NSNT	NSNT
+286, 2	721, 3-8	CAR	ydy yr swêj wedi gorffen rŵan	---	NSNT
+
+
+287, 1	722, 1-4	ISL	ew na mi baran	NSNT	NSNT
+287, 2	723, 1-6	ISL	mae nhw wedi bwyta yr dail	NSNT	NSNT
+287, 3	723, 7-9	ISL	ond mae nhw	---	NSNT
+
+
+288, 1	725, 1-6	CAR	mae nhw yn *alright* i fwyta	---	NST
+
+
+289, 1	726, 1-5	ISL	mae yna swêj mawr yna	---	NSNT
+
+
+290, 1	731, 1-4	CAR	ew mae nhw *nice*	---	NST
+
+
+291, 1	732, 1-1	ISL	swêj	NSNT	NSNT
+291, 2	735, 1-5	ISL	faset ti yn bwyta un	NSNT	NSNT
+291, 3	735, 6-11	ISL	petasai yr ddafad wedi brathu o	---	NSNT
+
+
+292, 1	736, 1-2	CAR	na fysai	---	NSNT
+
+
+293, 1	737, 1-2	ISL	am be	---	NSNT
+
+
+294, 1	738, 1-3	CAR	i ddim isio	---	NSNT
+
+
+295, 1	739, 1-2	ISL	mae yn	NSNT	NSNT
+295, 3	741, 1-13	ISL	rhaid i llnau dannedd ceg y ddafad *right* iach dw i yn *sure*	---	NST
+
+
+296, 1	743, 1-9	CAR	wnes i luchio rywbeth i yr ci bore yma	NSNT	NSNT
+296, 2	744, 1-7	CAR	ac oedd o yn cau bwyta fo	NSNT	NSNT
+296, 3	745, 1-8	CAR	oedd o *just* yn eistedd wrth ymyl o	NST	NST
+296, 4	747, 1-9	CAR	ac o'n i am roi o yn y *bin*	NST	NST
+296, 5	748, 1-7	CAR	ond ar y diwedd ddaru fwyta fo	NSNT	NSNT
+296, 6	749, 1-7	CAR	mae yn raid bod dim yn *nice*	---	NST
+
+
+297, 1	752, 1-7	ISL	*well* ges i rywbeth melyn diwrnod o_blaen	NST	NST
+297, 2	753, 1-6	ISL	ac o'n i ddim yn *sure*	NST	NST
+297, 3	753, 7-20	ISL	os oedd o yn bysgodyn cig pysgodyn neu darn o ffrwyth o ryw fath	NSNT	NSNT
+297, 4	754, 1-4	ISL	oedd o yn felyn	---	NSNT
+
+
+298, 1	755, 1-7	CAR	ddim smoked *haddock* neu rywbeth fel yna	---	ST
+
+
+299, 1	756, 1-2	ISL	ie hwyrach	---	NSNT
+
+
+300, 1	757, 1-6	CAR	be oedd o yn y diwedd	---	NSNT
+
+
+301, 1	758, 1-3	ISL	be ydy *haddock*	NST	NST
+301, 2	759, 1-1	ISL	penwaig	NSNT	NSNT
+301, 3	760, 1-2	ISL	penwaig *Nefyn*	NST	NST
+301, 4	761, 1-5	ISL	oedd yna sôn am rheiny	---	NSNT
+
+
+302, 1	762, 1-2	CAR	oes *sure*	---	NST
+
+
+303, 1	763, 1-7	ISL	ti byth wedi fod i *Nefyn* naddo	---	NST
+
+
+304, 1	764, 2-3	CAR	dw i	NSNT	NSNT
+304, 2	764, 4-7	CAR	wedi bod yn *Nefyn*	---	NST
+
+
+305, 1	765, 1-1	ISL	pryd	---	NSNT
+
+
+306, 1	766, 1-1	CAR	ew	---	NSNT
+
+
+307, 1	767, 1-3	ISL	yr haf dwytha	---	NSNT
+
+
+308, 1	768, 1-6	CAR	na ddim flwyddyn cynt neu rywbryd	NSNT	NSNT
+308, 2	769, 1-6	CAR	dan ni fynd yn hir yn_ôl	NSNT	NSNT
+308, 3	770, 1-7	CAR	wnaen ni fynd i yr bedd yn_do	NSNT	NSNT
+308, 4	772, 1-6	CAR	dw i gyn llun ohono rywle	---	NSNT
+
+
+309, 1	774, 1-10	ISL	a pan oedd fi a *Greg* yn dod o yna	NST	NST
+309, 2	774, 11-19	ISL	pwy oedd yn canlyn ni fewn *lorry* heblaw *Lyn_Lloyd*	---	NST
+
+
+310, 1	775, 1-3	CAR	pwy ydy hynna	---	NSNT
+
+
+311, 1	776, 1-1	ISL	*Lyn_Lloyd*	ST	NST
+311, 2	777, 1-6	ISL	o'n i yn dreifio *lorry* efo	NST	NST
+311, 3	777, 7-7	ISL	ei	NSNT	NSNT
+311, 4	778, 1-6	ISL	mae nhw yn byw ym *Pentreffynnon*	NST	NST
+311, 5	779, 1-2	ISL	gwraig *Larry_Lloyd*	NST	NST
+311, 6	781, 1-10	ISL	mae yn ferch i *Ffion_Foster* yn wreiddiol y *garage* *yeah*	NST	NST
+311, 7	783, 1-5	ISL	byw ym *Pen_y_Bryn* yn gartre	---	NST
+
+
+312, 1	784, 1-3	CAR	*oh* mae *oh*	---	NST
+
+
+313, 1	785, 1-6	ISL	ac *Owain_Owens* ydy ei thad hi	NST	NST
+313, 2	786, 1-10	ISL	a ei brawd hi oedd yn apprentice of the *year*	ST	ST
+313, 3	787, 1-10	ISL	mae yn andros o un da am weldio a pethau	NSNT	NSNT
+313, 4	789, 1-8	ISL	ddaru o drwsio yr beth cymysgu blawd yna	SNT	NSNT
+313, 5	790, 1-1	ISL	fabricator	SNT	NSNT
+313, 6	791, 1-7	ISL	a gwneud bob math o bethau felly	---	NSNT
+
+
+314, 1	793, 1-7	CAR	*well* pwy oedd yn dreifio yr *bus*	NST	NST
+314, 2	793, 8-12	CAR	oedden ni fynd i *Aberystwyth*	---	NST
+
+
+315, 1	795, 1-2	ISL	*oh* *Glenda*	---	NST
+
+
+316, 1	796, 1-5	CAR	*oh* *Glenda_Gregory* oedd hynna *yeah*	NST	NST
+316, 3	798, 1-9	CAR	wnes i weld hi yn ddiweddar yn y dre	---	NSNT
+
+
+317, 1	801, 1-6	ISL	*well* oedd *William* yn deud hanes	NST	NST
+317, 2	803, 1-6	ISL	mae gynna i gynhebrwng dydd Mawrth	NSNT	NSNT
+317, 3	805, 1-2	ISL	oes *Mike_Mitchell*	ST	NST
+317, 5	807, 1-1	ISL	*Mike_Myers_Mitchell*	ST	NST
+317, 6	809, 1-1	ISL	o	---	NSNT
+
+
+318, 1	810, 1-5	CAR	sut oedd y cynhebrwng efo	---	NSNT
+
+
+319, 1	811, 1-3	ISL	ddaru o briodi	SNT	NSNT
+319, 2	812, 1-1	ISL	*Jenny*	---	NST
+
+
+320, 1	813, 1-2	CAR	*yeah* *Jenny*	---	NST
+
+
+321, 1	814, 1-3	ISL	*oh* iawn diolch	---	NST
+
+
+322, 1	817, 1-4	CAR	oedd yna *lot* yna	---	NST
+
+
+323, 1	820, 1-7	ISL	*Luke* a *Martin* a *lot* o bobl	---	NST
+
+
+324, 1	821, 1-6	CAR	oedd e wedi cael braw yn_do	NSNT	NSNT
+324, 2	822, 1-7	CAR	oedd ddim yn disgwyl iddi farw nac	---	NSNT
+
+
+325, 1	823, 1-2	ISL	nac oedd	---	NSNT
+
+
+326, 1	824, 1-2	CAR	oedd neb	---	NSNT
+
+
+327, 1	825, 1-3	ISL	nac oedd wir	NSNT	NSNT
+327, 2	826, 1-2	ISL	nac oedd	NSNT	NSNT
+327, 3	827, 1-7	ISL	oedd hi *nice* gweld *Kathy* a *Neil*	NST	NST
+327, 4	828, 1-7	ISL	o'n i ddim wedi weld nhw ers_talwm	NSNT	NSNT
+327, 5	829, 1-6	ISL	mae nhw yn byw yn *Glyn_Ceiriog*	---	NST
+
+
+328, 1	830, 1-2	CAR	ew yndyn	---	NSNT
+
+
+329, 1	831, 1-6	ISL	ac oedd eu mherch nhw yno	NSNT	NSNT
+329, 2	832, 1-5	ISL	a mae hi yn briod	NSNT	NSNT
+329, 3	833, 1-3	ISL	wn i ddim	NSNT	NSNT
+329, 4	833, 4-6	ISL	oes gynni *fabi*	---	NST
+
+
+330, 1	834, 1-1	CAR	ew	---	NSNT
+
+
+331, 1	835, 1-5	ISL	ond mae yn dangos fel	NSNT	NSNT
+331, 2	835, 6-9	ISL	mae amser yn mynd	NSNT	NSNT
+331, 3	836, 1-7	ISL	oedden nhw yn byw arfer byw ym	NSNT	NSNT
+331, 4	840, 1-8	ISL	ac oedd nhw yn prynu tatws gynna i	NSNT	NSNT
+331, 5	841, 1-4	ISL	a mi ddoth clause	SNT	SNT
+331, 6	841, 5-9	ISL	pan ddaru werthu yr tŷ	NSNT	NSNT
+331, 7	843, 1-3	ISL	oedd raid rywun	NSNT	NSNT
+331, 8	843, 4-12	ISL	oedd yn prynu yr tŷ brynu tatws gynno fi	---	NSNT
+
+
+332, 1	845, 1-3	CAR	ddaru o ddim	---	NSNT
+
+
+333, 1	846, 1-9	ISL	a mae raid i nhw brynu tatws gynno fi	---	NSNT
+
+
+334, 1	847, 1-2	CAR	ddaru nhw	NSNT	NSNT
+334, 2	848, 1-2	CAR	ddaru nhw	---	NSNT
+
+
+335, 1	849, 1-5	ISL	*oh* dw i yn *sure*	NST	NST
+335, 2	849, 6-7	ISL	bod nhw	NSNT	NSNT
+335, 4	851, 1-4	ISL	os na ydyn nhw	NSNT	NSNT
+335, 5	851, 5-12	ISL	mae rywun arall yn prynu tatws gynno fi	NSNT	NSNT
+335, 7	853, 1-9	ISL	ti yn gwybod bod *Paul_Pritchard* adre o yr ysbyty	NST	NST
+335, 8	855, 1-6	ISL	yn y nôl yn y *Gelli*	---	NST
+
+
+336, 1	858, 1-4	CAR	ew dyna dda yn_de	---	NSNT
+
+
+337, 1	860, 1-7	ISL	*Louise* yn dda efo fo yndy chwaer	NST	NST
+337, 2	861, 1-9	ISL	*um* *Owen* *Plas_Ucha* wedi symud o *Bodelwyddan* i *Lluesty*	NST	NST
+337, 3	863, 2-5	ISL	mae o yn gwella	NSNT	NSNT
+337, 4	865, 1-10	ISL	a mae nhw yn sôn am symud *Margaret* ar y	NST	NST
+337, 5	866, 1-4	ISL	ydy ddeud wrthat ti	---	NSNT
+
+
+338, 1	867, 1-1	CAR	naddo	---	NSNT
+
+
+339, 1	868, 1-6	ISL	symud hi o *Bodelwyddan* i *Llys_Gwenffrwd*	---	NST
+
+
+340, 1	869, 1-5	CAR	ew mae dal yn ysbyty	NSNT	NSNT
+340, 2	871, 1-6	CAR	ew oedd fi ddim yn gwybod	NSNT	NSNT
+340, 3	872, 1-7	CAR	ddim yn sylweddoli bod hi dal yna	---	NSNT
+
+
+341, 1	873, 1-1	ISL	mae	NSNT	NSNT
+341, 2	873, 2-6	ISL	ei *char* hi dal yma	---	NST
+
+
+342, 1	874, 1-2	CAR	*oh* dyna	---	NST
+
+
+343, 1	875, 1-12	ISL	ni yn edrych ar ei ôl o rag ofn i rywun ddwyn	NSNT	NSNT
+343, 2	876, 1-4	ISL	ddaru rywun ddwyn o	---	NSNT
+
+
+344, 1	878, 1-4	CAR	ddaru gael o nôl	---	NSNT
+
+
+345, 1	879, 1-2	ISL	oedd o	NSNT	NSNT
+345, 2	879, 3-3	ISL	dan	NSNT	NSNT
+345, 3	879, 4-16	ISL	oedd o wedi cloi yn y *garage* a drysau yr *garage* wedi cloi	NST	NST
+345, 4	880, 1-5	ISL	ddaru mi ddeud wrthat ti	NSNT	NSNT
+345, 5	880, 6-17	ISL	bod fi wedi cael *test* ar yn anadl gyn blismon nos Fawrth	---	NST
+
+
+346, 1	881, 1-1	CAR	pam	---	NSNT
+
+
+347, 1	882, 1-5	ISL	ar y bypass yn *Ffynnongroyw*	---	ST
+
+
+348, 1	883, 1-2	CAR	dyna *cheek*	---	NST
+
+
+349, 1	884, 1-6	ISL	oedd o yn yng nghanlyn i	NSNT	NSNT
+349, 2	885, 1-5	ISL	*Smith* oedd ei enw fo	NST	NST
+349, 3	886, 1-6	ISL	oedd o ddim yn siarad Cymraeg	NSNT	NSNT
+349, 4	887, 1-4	ISL	ddaru mi ddeud wrtho	NSNT	NSNT
+349, 5	887, 5-9	ISL	bod *Richard_Brunstrom* yn siarad Cymraeg	NST	NST
+349, 6	888, 1-9	ISL	mae wedi dysgu yn rugl chwarae teg iddo fo	NSNT	NSNT
+349, 7	889, 1-4	ISL	un da ydy o	NSNT	NSNT
+349, 8	890, 1-4	ISL	pennaeth heddlu Gogledd Cymru	NSNT	NSNT
+349, 9	891, 1-4	ISL	un da ydy o	---	NSNT
+
+
+350, 1	892, 1-10	CAR	*well* pam oedd o yn mynd ar dy ôl di	---	NST
+
+
+351, 1	893, 1-11	ISL	mi ddoth allan o yr ffordd wrth *Gronant* lawr o *Gronant*	NST	NST
+351, 2	894, 1-7	ISL	ac oedd o yn y nghanlyn i	NSNT	NSNT
+351, 3	895, 1-8	ISL	ac oedd ei oleuadau fo yn dallu fi	NSNT	NSNT
+351, 4	896, 1-12	ISL	ac wedyn fedri di altro yr drych tu fewn i yr *car*	NST	NST
+351, 5	896, 13-16	ISL	fedri i dywyllu o	NSNT	NSNT
+351, 6	898, 1-10	ISL	ond fedri di ddim altro yr ddau ar y drws	NSNT	NSNT
+351, 7	900, 1-9	ISL	a wedyn o'n i yn iawn mynd ara deg	NSNT	NSNT
+351, 8	901, 1-11	ISL	ond pan o'n i yn mynd ar y bypass *Ffynnongroyw* yna	NST	ST
+351, 9	901, 12-20	ISL	o'n i isio mynd dipyn cynt er_mwyn cyrraedd adre	NSNT	NSNT
+351, 10	902, 1-16	ISL	a wedyn rois i mraich fel hyn i *just* codi a codi yr llall fel hyn	NST	NST
+351, 11	903, 1-21	ISL	a raid bod fi wedi twtsio yr olwyn mymryn a *just* twtsiad y white *line* fel hyn efo yr *car* de	---	ST
+
+
+352, 1	904, 1-2	CAR	ewadd annwyl	---	NSNT
+
+
+353, 1	905, 1-4	ISL	oedd o yn meddwl	NSNT	NSNT
+353, 2	905, 5-8	ISL	bod fi wedi meddwi	NSNT	NSNT
+353, 5	908, 1-19	ISL	a mi ddoth allan o yr *car* a â yr holl oleuadau glas yma yn flash_io fel yr Andros	---	ST
+
+
+354, 1	909, 1-5	CAR	*oh* be oedd haru o	---	NST
+
+
+355, 1	910, 1-6	ISL	ac o'n nhw yn dallu fi	NSNT	NSNT
+355, 2	911, 1-6	ISL	a be petaswn i yn *epileptic*	---	NST
+
+
+356, 1	912, 1-2	CAR	*well* ie	---	NST
+
+
+357, 1	913, 1-6	ISL	basai wedi effeithio fawr arna fi	---	NSNT
+
+
+358, 1	914, 1-1	CAR	basai	NSNT	NSNT
+358, 2	914, 2-2	CAR	basai	---	NSNT
+
+
+359, 1	916, 1-7	ISL	oedd o ddim yn gwisgo *jacket* melyn	NST	NST
+359, 2	918, 1-13	ISL	ac o'n i yn methu weld ei ei rifau fo yn iawn chwaith	---	NSNT
+
+
+360, 1	919, 1-8	CAR	o't ti ddim yn gwybod be oedd o	---	NSNT
+
+
+361, 1	921, 1-7	ISL	hwyrach bod o wedi dwyn *car* plismon	---	NST
+
+
+362, 1	922, 1-7	CAR	basach chi ddim yn gwybod nac ydach	---	NSNT
+
+
+363, 1	923, 1-2	ISL	na fysai	---	NSNT
+
+
+364, 1	925, 1-9	CAR	na oedd o gyn y pethau i gwneud *test*	---	NST
+
+
+365, 1	928, 1-5	ISL	o wedi dwyn rheiny hefyd	---	NSNT
+
+
+366, 1	929, 1-6	CAR	hwyrach bod o heblaw yn chwarae	---	NSNT
+
+
+367, 1	931, 1-5	ISL	*Smith* oedd ei enw o	NST	NST
+367, 2	932, 1-5	ISL	ddaru o ddeud yn diwedd	NSNT	NSNT
+367, 3	933, 1-2	ISL	ddaru mi	NSNT	NSNT
+367, 4	933, 3-3	ISL	ofyn	NSNT	NSNT
+367, 5	933, 4-8	ISL	be oedd ei enw fo	NSNT	NSNT
+367, 6	933, 9-16	ISL	am bod fi methu gweld ei rif o	---	NSNT
+
+
+368, 1	935, 1-4	CAR	gofyn am ei I_D	---	SNT
+
+
+369, 1	936, 1-3	ISL	*Smith* oedd o	---	NST
+
+
+370, 1	937, 1-5	CAR	oedd o unmarked *car* fel	NST	ST
+370, 2	937, 6-9	CAR	mae nhw yn deud	---	NSNT
+
+
+371, 1	938, 1-3	ISL	*oh* nac oedd	NST	NST
+371, 2	939, 1-2	ISL	oedd o	NSNT	NSNT
+371, 3	941, 1-3	ISL	oedd y *car*	---	NST
+
+
+372, 1	942, 1-7	CAR	dydy o ddim yn deud mai plismon	NSNT	NSNT
+372, 2	942, 8-11	CAR	sydd tu mewn nac	---	NSNT
+
+
+373, 1	943, 1-5	ISL	melyn a coch dyn nhw	NSNT	NSNT
+373, 2	944, 1-9	ISL	a rheiny yn tywynnu yn y golau yn tywyllwch	NSNT	NSNT

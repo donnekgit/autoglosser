@@ -1,0 +1,1389 @@
+
+
+1, 1	1, 1-9	EVA	i i i *um* i gau y rhif archebu	---	NST
+
+
+2, 1	3, 1-2	WYN	bob tro	---	NSNT
+
+
+3, 1	4, 1-2	EVA	bob tro	NSNT	NSNT
+3, 2	5, 1-7	EVA	*um* ond dw i meddwl *um* *yeah*	NST	NST
+3, 3	5, 8-14	EVA	dan ni raid i ni *um* ofyn	---	NST
+
+
+4, 1	6, 1-4	WYN	ia rhaid ni ofyn	---	NSNT
+
+
+5, 1	7, 1-6	EVA	y *clients* *clients* *yeah* bob tro	---	NST
+
+
+6, 1	8, 1-8	WYN	i i yr i yr *client* bob tro	---	NST
+
+
+7, 1	10, 1-5	EVA	but that's up to us	---	NSNT
+
+
+8, 1	13, 1-9	WYN	mae hwnna i_fyny *Iestyn* a fi ddeud y gwir	NST	NST
+8, 2	14, 1-3	WYN	ni sydd yn	NSNT	NSNT
+8, 3	16, 1-7	WYN	tro cynta dan ni yn gweld nhw	NSNT	NSNT
+8, 4	16, 8-8	WYN	dydy	NSNT	NSNT
+8, 5	18, 1-9	WYN	peth arall dan ni isio siarad dydd dydd Llun	---	NSNT
+
+
+9, 1	19, 1-3	EVA	*mmhm* dydd Llun	---	NST
+
+
+10, 1	20, 1-7	WYN	dan ni yn cyfarfod *Stan* dydd Llun	---	NST
+
+
+11, 1	21, 1-1	EVA	cyfarfod	---	NSNT
+
+
+12, 1	22, 1-3	WYN	*yeah* wyt ti	NST	NST
+12, 4	27, 1-3	WYN	mae yn rhyfedd	NSNT	NSNT
+12, 5	28, 1-8	WYN	mae yr turn_over yn dal yn mynd i_fyny	---	SNT
+
+
+13, 1	29, 1-3	EVA	it's *still* *yeah*	ST	NST
+13, 2	29, 4-8	EVA	mae yn dal i_fyny *yeah*	---	NST
+
+
+14, 1	31, 2-11	WYN	ond mae yr llif arian yn dal yn ara deg	SNT	NSNT
+14, 2	32, 1-2	WYN	cash flow's	NSNT	NSNT
+14, 3	34, 1-7	WYN	I'm trying to understand why that's happening	---	NSNT
+
+
+15, 1	36, 1-4	EVA	*er* dw i yn	NST	NST
+15, 2	36, 5-7	EVA	dw i yn	NSNT	NSNT
+15, 3	36, 8-10	EVA	dw i yn	NSNT	NSNT
+15, 4	36, 11-13	EVA	dw i yn	NSNT	NSNT
+15, 5	36, 14-17	EVA	dw i yn dallt	---	NSNT
+
+
+16, 1	38, 1-5	WYN	dw ddim yn dallt pam	NSNT	NSNT
+16, 2	38, 6-8	WYN	mae yn digwydd	---	NSNT
+
+
+17, 1	39, 1-3	EVA	*yeah* you saying	---	NST
+
+
+18, 1	40, 1-3	WYN	*yeah* the turn_over	---	NST
+
+
+19, 1	41, 1-4	EVA	is is is is	---	NSNT
+
+
+20, 1	42, 1-7	WYN	the turn_over is is is *very* good	---	NST
+
+
+21, 1	43, 1-2	EVA	is reasonable	---	NSNT
+
+
+22, 1	44, 1-9	WYN	*yeah* but then we have big gaps cash flow	NST	NST
+22, 3	47, 1-7	WYN	what the hell is going on de	SNT	SNT
+22, 4	48, 1-11	WYN	is it because the individual *jobs* of work are getting bigger	NST	NST
+22, 5	49, 1-2	WYN	*so* that	---	NST
+
+
+23, 1	52, 1-5	EVA	it looks *as* if *um*	ST	NST
+23, 2	53, 1-4	EVA	*yeah* dw i meddwl	NST	NST
+23, 3	53, 5-7	EVA	dw i yn	NSNT	NSNT
+23, 4	53, 8-15	EVA	dw i yn *um* gwneud llai o anfonebau	NST	NST
+23, 5	55, 1-6	EVA	*um* ers ers mis mis Hydref	ST	NST
+23, 7	59, 1-6	EVA	*um* and that's why *yeah* gaps	---	NST
+
+
+24, 1	61, 1-2	WYN	I thought	NSNT	NSNT
+24, 2	61, 3-5	WYN	it was that	NSNT	NSNT
+24, 3	62, 1-2	WYN	that's why	---	NSNT
+
+
+25, 1	63, 1-4	EVA	in the cash flow	---	NSNT
+
+
+26, 1	64, 1-8	WYN	*yeah* *so* if we ask for *part* payments	NST	NST
+26, 2	64, 9-10	WYN	it should	NSNT	NSNT
+26, 3	64, 11-14	WYN	it should be better	---	NSNT
+
+
+27, 1	66, 1-8	EVA	ia it would be spread spread out better	---	SNT
+
+
+28, 1	67, 1-1	WYN	because	NSNT	NSNT
+28, 2	68, 1-8	WYN	that that's what *Iestyn* and *me* are thinking	NST	NST
+28, 3	69, 1-1	WYN	because	---	NSNT
+
+
+29, 1	70, 1-7	EVA	because ar hyn o bryd dan ni	NSNT	SNT
+29, 2	70, 8-13	EVA	dan ni aros *um* *um* *um*	ST	NST
+29, 3	71, 1-4	EVA	what's an amount amount	---	NSNT
+
+
+30, 1	72, 1-1	WYN	swm	---	NSNT
+
+
+31, 1	73, 1-5	EVA	swm *um* swm swmau mawr	---	NST
+
+
+32, 1	74, 1-6	WYN	swmiau mawr *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+33, 1	75, 1-6	EVA	*um* *lot* o *lot* o waith	---	NST
+
+
+34, 1	78, 1-5	WYN	achos dw i yn cofio	NSNT	NSNT
+34, 2	78, 7-10	WYN	pan oedden ni yn	NSNT	NSNT
+34, 3	78, 11-19	WYN	pan oedden ni cychwyn deuda pum mlynedd yn_ôl *yeah*	NST	NST
+34, 4	78, 20-26	WYN	oedd invoices o_gwmpas dwy fil tair mil	NSNT	SNT
+34, 6	82, 1-5	WYN	rŵan mae nhw deg mil	NSNT	NSNT
+34, 7	84, 1-10	WYN	*so* ti yn os ti yn gorod disgwyl mwy amdano	NST	NST
+34, 8	86, 1-4	WYN	mae fwy o waith	NSNT	NSNT
+34, 9	86, 5-13	WYN	ond bod o yn mwy o waith efo ei_gilydd	---	NSNT
+
+
+35, 1	87, 1-1	EVA	mwy	NSNT	NSNT
+35, 2	89, 1-5	EVA	*yeah* *yeah* dw i yn	NST	NST
+35, 3	89, 6-8	EVA	dw i yn	NSNT	NSNT
+35, 4	89, 9-12	EVA	dw i yn dallt	---	NSNT
+
+
+36, 1	90, 1-4	WYN	*yeah* ti yn dallt	NST	NST
+36, 2	91, 1-4	WYN	*so* mae yr ateb	NST	NST
+36, 3	91, 5-7	WYN	ydy *part* payments	---	ST
+
+
+37, 1	92, 1-2	EVA	*um* payments	---	NST
+
+
+38, 1	93, 1-1	WYN	rhandaliadau	---	NSNT
+
+
+39, 1	94, 1-3	EVA	ia *um* rhan	ST	NST
+39, 2	96, 1-2	EVA	*yeah* difference	---	NST
+
+
+40, 1	98, 1-2	WYN	*yeah* but	NST	NST
+40, 2	99, 1-2	WYN	I think	NSNT	NSNT
+40, 3	99, 3-6	WYN	it's only asking them	NSNT	NSNT
+40, 4	99, 7-8	WYN	you know	---	NSNT
+
+
+41, 1	100, 1-2	EVA	a hefyd	---	NSNT
+
+
+42, 1	101, 1-5	WYN	most people would I think	NSNT	NSNT
+42, 2	102, 1-3	WYN	it's *just* that	NST	NST
+42, 3	102, 4-5	WYN	we haven't	NSNT	NSNT
+42, 4	104, 1-5	WYN	people some people are strange	NSNT	NSNT
+42, 5	105, 1-1	WYN	they	NSNT	NSNT
+42, 6	105, 2-5	WYN	they won't pay *till*	NST	NST
+42, 7	105, 6-12	WYN	they've seen the end of the work	SNT	NSNT
+42, 8	107, 1-12	WYN	*oh* chwarae teg os ydy gwaith yn tri mis waiting three months	NST	ST
+42, 10	110, 1-3	WYN	I don't think	NSNT	NSNT
+42, 11	111, 1-4	WYN	if we ask them	---	NSNT
+
+
+43, 1	113, 1-3	EVA	*well* mae yna	NST	NST
+43, 2	113, 4-14	EVA	mae yna pwynt i *er* i cyfarfod *um* y dydd Llun	---	NST
+
+
+44, 1	118, 1-5	WYN	*um* a peth arall mae	NST	NST
+44, 2	119, 1-5	WYN	dw i ddim yn *sure*	NST	NST
+44, 3	120, 1-6	WYN	mae *Stan* a *Iestyn* yn meddwl	NST	NST
+44, 4	120, 7-12	WYN	bod yna patrwm yn y flwyddyn	---	NSNT
+
+
+45, 1	121, 1-5	EVA	*yeah* i_fyny lawr i_fyny lawr	---	NST
+
+
+46, 1	122, 1-2	WYN	dw i	NSNT	NSNT
+46, 2	122, 3-7	WYN	dw i ddim yn *sure*	NST	NST
+46, 3	123, 1-2	WYN	mae yn_does	NSNT	NSNT
+46, 4	124, 1-8	WYN	ond ddim yr un amser bob blwyddyn timod	NSNT	NSNT
+46, 5	125, 1-2	WYN	dw i	NSNT	NSNT
+46, 6	125, 3-7	WYN	dw i ddim yn meddwl	---	NSNT
+
+
+47, 1	126, 1-2	EVA	dw i	NSNT	NSNT
+47, 2	126, 3-4	EVA	dw i	---	NSNT
+
+
+48, 1	127, 1-2	WYN	ti meddwl	---	NSNT
+
+
+49, 1	128, 1-5	EVA	dw i ddim yn *sure*	---	NST
+
+
+50, 1	129, 1-2	WYN	dw i	NSNT	NSNT
+50, 2	129, 3-4	WYN	dw i	---	NSNT
+
+
+51, 1	130, 1-3	EVA	achos mae yna	NSNT	NSNT
+51, 2	130, 4-17	EVA	mae yna swydd gyda *er* *Stan* i i sortio allan *er* y gash flow	ST	ST
+51, 3	134, 1-5	EVA	dw i yn gwneud anfonebau	NSNT	NSNT
+51, 4	135, 1-1	EVA	anfonebau	SNT	NSNT
+51, 5	137, 1-4	EVA	*um* correspondence *er* e_bosts	NST	ST
+51, 6	138, 1-18	EVA	*um* a dw i ddim yn eisio *um* jump_io i_lawr *um* *er* into cash flow *issues* cash flow	NST	ST
+51, 9	142, 1-3	EVA	because mae yn	NSNT	SNT
+51, 10	142, 4-5	EVA	mae yn	NSNT	NSNT
+51, 11	142, 6-7	EVA	mae yn	NSNT	NSNT
+51, 12	142, 8-14	EVA	mae yn anodd i dallt i ddallt	---	NSNT
+
+
+52, 1	144, 1-6	WYN	be sy rhyfedd ti weld hwyrach	SNT	NSNT
+52, 2	145, 1-8	WYN	strange because I know there's peaks and troughs	NSNT	NSNT
+52, 3	147, 1-10	WYN	but they don't happen in the same time *every* *year*	---	NST
+
+
+53, 1	148, 1-1	EVA	no	---	NSNT
+
+
+54, 1	149, 1-9	WYN	you'd expect the seasonal *business* like this one here	NST	NST
+54, 2	151, 1-8	WYN	I'm *sure* there are peaks and troughs troughs	---	NST
+
+
+55, 1	153, 1-5	EVA	*oh* *oh* yma *oh* definitely	---	ST
+
+
+56, 1	154, 1-11	WYN	bob flwyddyn yr un fath hwyrach yr un amser o flwyddyn	NSNT	NSNT
+56, 2	156, 1-5	WYN	Pasg mae yn codi fyny	NSNT	NSNT
+56, 4	159, 1-4	WYN	tawel wedyn yr ha	NSNT	NSNT
+56, 5	161, 1-3	WYN	dan ni wahanol	NSNT	NSNT
+56, 6	163, 1-4	WYN	dw i ddim yn	NSNT	NSNT
+56, 7	163, 5-9	WYN	dw i *just* ddim yn	NST	NST
+56, 8	165, 1-14	WYN	fath â dan ni yn cael weithiau tri mis yn yr ha yn dawel	NSNT	NSNT
+56, 9	167, 1-3	WYN	ond ddim flwyddyn	NSNT	NSNT
+56, 10	168, 1-10	WYN	*er* flwyddyn dwytha oedd hi yn *o_k* yn yr ha	NST	NST
+56, 11	169, 1-8	WYN	flwyddyn yma tri mis cyn Dolig yn dawel	NSNT	NSNT
+56, 12	173, 1-5	WYN	dw i ddim yn dallt	---	NSNT
+
+
+57, 1	174, 1-2	EVA	dw i	NSNT	NSNT
+57, 2	174, 3-4	EVA	dw i	NSNT	NSNT
+57, 3	174, 5-10	EVA	dw i ddim yn dallt hefyd	---	NSNT
+
+
+58, 1	175, 1-2	WYN	rhyfedd yndy	---	NSNT
+
+
+59, 1	177, 1-5	EVA	dw i ddim yn dallt	---	NSNT
+
+
+60, 1	178, 1-12	WYN	ella bod ella methu wneud dim_byd can't do anything about it maybe	NSNT	SNT
+60, 2	180, 1-5	WYN	it's *just* that's the way	NST	NST
+60, 3	180, 6-7	WYN	it is	NSNT	NSNT
+60, 4	181, 1-7	WYN	that's the kind of *business* it is	---	NST
+
+
+61, 1	183, 1-2	EVA	it's how	NSNT	NSNT
+61, 2	183, 3-4	EVA	it is	NSNT	NSNT
+61, 3	184, 1-16	EVA	and and overall *er* dach chi yn hapus efo *um* efo partneriaeth ar hyn o bryd	---	ST
+
+
+62, 1	185, 1-2	WYN	*oh* ydyn	ST	NST
+62, 2	186, 1-2	WYN	*yeah* *great*	---	NST
+
+
+63, 1	187, 1-3	EVA	dach chi yn	NSNT	NSNT
+63, 2	187, 4-10	EVA	dach chi yn eisio eisio dal ati	---	NSNT
+
+
+64, 1	188, 1-2	WYN	yndyn tad	NSNT	NSNT
+64, 2	189, 2-4	WYN	mae yn *great*	NST	NST
+64, 3	191, 1-4	WYN	dw i yn hapus	NSNT	NSNT
+64, 4	192, 1-5	WYN	mae yn gweithio yn iawn	NSNT	NSNT
+64, 5	194, 2-7	WYN	mae *Stan* yn gwneud y pethau	NST	NST
+64, 6	194, 8-13	WYN	dw i ddim yn licio wneud	NSNT	NSNT
+64, 7	194, 14-22	WYN	neu dw i ddim digon *er* disciplined i wneud	NST	ST
+64, 9	197, 1-8	WYN	cadw yr cadw yr gweinyddiaeth a dilyn i_fyny	---	NSNT
+
+
+65, 1	200, 1-13	EVA	baswn i licio gweld *um* *yeah* *er* prosiect *er* i *Stan* *um* hefyd	---	NST
+
+
+66, 1	202, 1-7	WYN	*oh* mae gynno fo rywbeth ar wan	NST	NST
+66, 2	202, 8-8	WYN	does	---	NSNT
+
+
+67, 1	203, 1-5	EVA	*er* baswn i yn licio	NST	NST
+67, 2	205, 1-3	EVA	a although *yeah*	NST	ST
+67, 3	206, 1-2	EVA	although er	NSNT	SNT
+67, 4	208, 1-12	EVA	er mae o yn *er* brysur efo brysur efo *um* ddysgu Ffrainc	NST	NST
+67, 6	210, 1-3	EVA	*um* *phone* symudol	---	NST
+
+
+68, 1	211, 1-2	WYN	*phone* symudol	---	NST
+
+
+69, 1	212, 1-2	EVA	*phone* symudol	NST	NST
+69, 3	214, 1-2	EVA	i *er*	---	NST
+
+
+70, 1	219, 1-1	WYN	*hello*	ST	NST
+70, 2	220, 1-4	WYN	*hi* sut wyt ti	ST	NST
+70, 3	221, 1-1	WYN	*eh*	ST	NST
+70, 4	222, 1-3	WYN	*Wyn* sy yma	NST	NST
+70, 5	224, 1-4	WYN	pwy oedda chdi feddwl	NSNT	NSNT
+70, 6	224, 5-6	WYN	oedd yna	NSNT	NSNT
+70, 8	226, 1-7	WYN	*oh* na na na fi ydy hwn	NST	NST
+70, 9	227, 1-5	WYN	ia dy boeni di yli	NSNT	NSNT
+70, 12	230, 1-3	WYN	*oh* fi sy	NST	NST
+70, 13	230, 4-8	WYN	bod trio ffonio chdi *yeah*	NST	NST
+70, 14	231, 1-3	WYN	*oh* dyna fo	NST	NST
+70, 15	232, 1-5	WYN	ga i *just* gair sydyn	NST	NST
+70, 16	233, 1-6	WYN	dw i yn ganol ryw gyfarfod	NSNT	NSNT
+70, 17	234, 1-7	WYN	ond unig beth o'n isio ddeud oedd	NSNT	NSNT
+70, 18	234, 8-12	WYN	dw i wedi siarad efo	NSNT	NSNT
+70, 19	235, 1-5	WYN	a mae o yn *um*	NST	NST
+70, 20	235, 6-7	WYN	mae o	NSNT	NSNT
+70, 21	235, 8-17	WYN	mae o yn hel ryw ychydig o *stuff* i ni	NST	NST
+70, 22	237, 1-15	WYN	a a dw i wedi cael hyd i yr gerdd *Cled* yna gyn *Dylan* hefyd	NST	NST
+70, 23	238, 1-4	WYN	a hefyd rywbeth arall	NSNT	NSNT
+70, 24	239, 1-3	WYN	ti yn cofio	NSNT	NSNT
+70, 25	240, 1-5	WYN	oedden ni methu yn *glear*	NST	NST
+70, 26	240, 6-7	WYN	â cofio	NSNT	NSNT
+70, 27	240, 8-11	WYN	be oedd y gerdd	NSNT	NSNT
+70, 28	241, 1-7	WYN	ella bod o gyn ti yn barod	NSNT	NSNT
+70, 29	242, 1-12	WYN	*er* fesul tŷ neu fesul ton daw y modd i dir *Meirion*	NST	NST
+70, 30	243, 1-5	WYN	ti yn gwybod am honna	NSNT	NSNT
+70, 31	244, 1-3	WYN	a *Tryweryn* ydy	NST	NST
+70, 32	245, 1-8	WYN	dw i wedi cael hyd i honno hefyd	NSNT	NSNT
+70, 33	246, 1-6	WYN	er bod o yn deud *Tryweryn*	NST	NST
+70, 34	246, 7-14	WYN	mae o am fwy o lawer na hynny	NSNT	NSNT
+70, 35	248, 1-3	WYN	dan ni meddwl	NSNT	NSNT
+70, 36	248, 4-5	WYN	bod hi	NSNT	NSNT
+70, 37	252, 1-7	WYN	dyna be o'n isio ddeud wrtha chdi	NSNT	NSNT
+70, 38	253, 1-10	WYN	*well* ella fydd raid mynd i nôl nhw dydd Llun	NST	NST
+70, 40	255, 1-1	WYN	byddan	NSNT	NSNT
+70, 41	255, 2-2	WYN	byddan	NSNT	NSNT
+70, 42	256, 1-4	WYN	*o_k* iawn cyn_belled bod	NST	NST
+70, 43	256, 5-12	WYN	bod chdi ddim yn cael gormod o bwysau	NSNT	NSNT
+70, 44	257, 1-1	WYN	grio	NSNT	NSNT
+70, 46	259, 1-1	WYN	dyna	NSNT	NSNT
+70, 47	259, 2-7	WYN	ydy ffordd i fygwth fygwth pobl	NSNT	NSNT
+70, 48	259, 8-8	WYN	sti	NSNT	NSNT
+70, 49	260, 1-2	WYN	paid ti	NSNT	NSNT
+70, 50	260, 3-6	WYN	â gwneud hynna eto	NSNT	NSNT
+70, 51	260, 7-10	WYN	neu wna i grio	NSNT	NSNT
+70, 52	262, 1-4	WYN	*sorry* rhaid mi fynd	NST	NST
+70, 53	263, 1-3	WYN	*o_k* diolch *ta_ra*	ST	NST
+70, 54	264, 1-1	WYN	*ta_ra*	ST	NST
+70, 55	266, 4-4	WYN	mae	NSNT	NSNT
+70, 56	266, 5-5	WYN	mae	---	NSNT
+
+
+71, 1	269, 1-5	EVA	ydy yr y prosiect *sure*	ST	NST
+71, 2	270, 1-3	EVA	is it has	NSNT	NSNT
+71, 3	270, 4-6	EVA	it been confirmed	---	NSNT
+
+
+72, 1	272, 1-4	WYN	it hasn't been confirmed	NSNT	NSNT
+72, 2	273, 1-3	WYN	but I think	NSNT	NSNT
+72, 3	273, 4-5	WYN	it will	NSNT	NSNT
+72, 4	275, 1-2	WYN	I think	NSNT	NSNT
+72, 5	275, 3-4	WYN	it will	---	NSNT
+
+
+73, 1	277, 1-2	EVA	pryd pryd	---	NSNT
+
+
+74, 1	278, 1-5	WYN	cyn diwedd y flwyddyn ariannol	SNT	NSNT
+74, 2	279, 1-3	WYN	he said slippage	NSNT	NSNT
+74, 3	280, 1-11	WYN	spend the money before the the end of the financial *year*	---	NST
+
+
+75, 1	282, 1-4	EVA	cyn *er* cyn Ebrill	---	NST
+
+
+76, 1	285, 1-7	WYN	*well* ti yn gwybod fel mae nhw	ST	NST
+76, 2	286, 1-5	WYN	*um* if os dan ni	NST	ST
+76, 3	286, 6-13	WYN	rhoid yr anfoneb cyn cyn diwedd y flwyddyn	---	NSNT
+
+
+77, 1	287, 1-3	EVA	cyn mis Ebrill	NSNT	NSNT
+77, 3	291, 1-4	EVA	*yeah* mae o yn	NST	NST
+77, 4	291, 5-11	EVA	mae o yn brysur yn dysgu Ffrangeg	---	NSNT
+
+
+78, 1	292, 1-1	WYN	ydyn	NSNT	NSNT
+78, 2	292, 2-4	WYN	ond mae *er*	NST	NST
+78, 3	292, 5-9	WYN	dydy hynna ddim yn talu	NSNT	NSNT
+78, 4	292, 10-11	WYN	nag ydy	---	NSNT
+
+
+79, 1	293, 1-4	EVA	*er* mae o yn	NST	NST
+79, 2	293, 5-7	EVA	mae o yn	NSNT	NSNT
+79, 4	297, 1-7	EVA	*er* mae o yn angen i *er*	NST	NST
+79, 5	299, 1-3	EVA	dw i yn	NSNT	NSNT
+79, 6	299, 4-7	EVA	dw i yn teimlo	NSNT	NSNT
+79, 7	299, 8-19	EVA	mae o yn angen i i i *er* i gwneud rhywbeth arall	---	NST
+
+
+80, 1	301, 1-7	WYN	*well* dan ni hefyd yn cael wythnos	NST	NST
+80, 2	302, 1-3	WYN	wsnos i heddiw	NSNT	NSNT
+80, 3	303, 1-2	WYN	dydd Gwener	---	NSNT
+
+
+81, 1	304, 1-4	EVA	dydd Gwener *yeah* heddiw	---	NST
+
+
+82, 1	305, 1-6	WYN	pythefnos i heddiw pythefnos i heddiw	NSNT	NSNT
+82, 2	307, 1-1	WYN	mae	NSNT	NSNT
+82, 3	307, 2-5	WYN	gynnon ni cyfarfod yma	NSNT	NSNT
+82, 4	308, 1-7	WYN	dan ni wedi wneud cyfarfod yn *Castell_Deudraeth*	NST	NST
+82, 5	310, 1-5	WYN	ti yn gwybod am hwnna	---	NSNT
+
+
+83, 1	311, 1-8	EVA	*yeah* *er* *yeah* I've seen the e_mail *yeah*	---	NST
+
+
+84, 1	313, 1-8	WYN	*so* dan ni wedi cael deg o bobl	NST	NST
+84, 2	315, 1-8	WYN	dan ni yn *sort* o gweithio efo nhw	NST	NST
+84, 3	316, 1-8	WYN	dan ni gyd dod at ein_gilydd i feddwl	NSNT	NSNT
+84, 4	316, 9-12	WYN	be ydy yr opportunities	SNT	SNT
+84, 5	316, 13-16	WYN	be ydy yr cyfleon	NSNT	NSNT
+84, 6	316, 17-21	WYN	sut fedran ni helpu ein_gilydd	NSNT	NSNT
+84, 7	319, 1-2	WYN	dw meddwl	NSNT	NSNT
+84, 8	319, 3-3	WYN	wneith	NSNT	NSNT
+84, 9	319, 4-10	WYN	wneith hynny sbarcio ychydig o waith hefyd	NSNT	NSNT
+84, 10	321, 1-10	WYN	a dan ni isio bod dipyn bach yn fwy proactive	SNT	SNT
+84, 11	323, 1-2	WYN	ddim *just*	---	NST
+
+
+85, 1	324, 1-5	EVA	I hope that that *yeah*	NST	NST
+85, 2	324, 6-6	EVA	he	NSNT	NSNT
+85, 3	324, 7-12	EVA	he will be after his *exams*	---	NST
+
+
+86, 1	325, 1-3	WYN	*yeah* I think	NST	NST
+86, 2	325, 4-5	WYN	he will	NSNT	NSNT
+86, 3	326, 1-4	WYN	when is his *exams*	---	NST
+
+
+87, 1	327, 1-4	EVA	May May and June	NSNT	NSNT
+87, 2	329, 1-5	EVA	should be should be available	---	NSNT
+
+
+88, 1	330, 1-17	WYN	*well* the social services *project* *well* we got to start it before the end of financial *year*	NST	NST
+88, 2	332, 1-5	WYN	it'll go into that budget	SNT	NSNT
+88, 4	335, 1-4	WYN	hwyrach nhw dalu ni	NSNT	NSNT
+88, 5	336, 1-7	WYN	ond yn sicr fydd nhw isio anfoneb	NSNT	NSNT
+88, 6	338, 1-11	WYN	er_mwyn i yr dyddiad fod o_fewn yr *um* flwyddyn ariannol de	ST	NST
+88, 7	341, 1-2	WYN	*um* *so*	ST	NST
+88, 9	343, 1-4	WYN	mae hwnna yn ddifyr	NSNT	NSNT
+88, 10	345, 2-3	WYN	mae o	NSNT	NSNT
+88, 11	346, 1-6	WYN	os dyn nhw yn digwydd yn	NSNT	NSNT
+88, 12	347, 1-6	WYN	a *just* yn *Llanrwst* ydy hwnna	NST	NST
+88, 13	348, 1-3	WYN	dw i meddwl	NSNT	NSNT
+88, 14	348, 4-16	WYN	fydd rhaid ni wneud yr un peth yn y dau le arall hefyd	NSNT	NSNT
+88, 15	350, 1-7	WYN	fel mae yr *project* yn symud ymlaen	ST	NST
+88, 16	351, 1-2	WYN	*yeah* they've	NST	NST
+88, 17	351, 3-8	WYN	they've started to build in *Llanrwst*	NST	NST
+88, 18	354, 1-7	WYN	*still* haven't started in the other two	ST	NST
+88, 19	355, 1-1	WYN	*so*	ST	NST
+88, 20	357, 1-9	WYN	everything we've done *so* *far* is dechrau yn *Llanrwst*	---	ST
+
+
+89, 1	358, 1-3	EVA	*yeah* *so* mae	NST	NST
+89, 2	358, 4-11	EVA	mae yna *lot* o syniadau mewn y pipeline	NST	ST
+89, 3	360, 1-11	EVA	but but not coming out yet not dim eto dim dim	---	SNT
+
+
+90, 1	362, 1-3	WYN	not nac ydy	NSNT	SNT
+90, 2	363, 1-8	WYN	*yeah* ond ond mae hwnna mynd i ddigwydd	---	NST
+
+
+91, 1	364, 1-2	EVA	nac ydy	---	NSNT
+
+
+92, 1	365, 1-2	WYN	mae yna	NSNT	NSNT
+92, 2	365, 3-6	WYN	mae yna syniadau eraill	NSNT	NSNT
+92, 3	366, 1-5	WYN	*um* mae yna rei pethau	NST	NST
+92, 4	367, 1-1	WYN	mae	NSNT	NSNT
+92, 5	367, 2-4	WYN	gynnon ni ddigon	NSNT	NSNT
+92, 6	367, 5-9	WYN	gynnon ni ddigon o waith	NSNT	NSNT
+92, 7	368, 1-9	WYN	mae gan *Iestyn* a fi ddigon o waith rŵan	NST	NST
+92, 9	370, 1-5	WYN	*um* tri pedwar mis de	---	NST
+
+
+93, 1	371, 3-10	EVA	gynnoch chi ddigon o ddigon o waith *yeah*	---	NST
+
+
+94, 1	373, 1-12	WYN	dan ni yn disgwyl clywed un neu ddau o bethau *right* fawr	---	NST
+
+
+95, 1	374, 1-3	EVA	yn disgwyl ydy	---	NSNT
+
+
+96, 1	375, 1-2	WYN	disgwyl waiting	---	SNT
+
+
+97, 1	377, 1-1	EVA	waiting	---	NSNT
+
+
+98, 1	380, 1-6	WYN	*um* in the pipeline big pipeline	ST	NST
+98, 2	383, 1-7	WYN	ond *um* dan ni yn teimlo hefyd	NST	NST
+98, 3	383, 8-12	WYN	bod isio pwsio dipyn bach	NSNT	NSNT
+98, 4	383, 13-19	WYN	a timod mynd i siarad efo pobl	NSNT	NSNT
+98, 5	386, 1-3	WYN	ond ond mae	NSNT	NSNT
+98, 6	386, 4-16	WYN	gynnon ni rŵan digon o *brojects* i am faint pedwar pedwar pum mis	---	NST
+
+
+99, 1	388, 1-5	EVA	to to to carry out	---	NSNT
+
+
+100, 1	390, 1-3	WYN	and that's agreed	NSNT	NSNT
+100, 2	391, 1-4	WYN	they've agreed the *projects*	NST	NST
+100, 3	392, 1-2	WYN	but they	NSNT	NSNT
+100, 4	392, 3-9	WYN	they haven't started working on them yet	NSNT	NSNT
+100, 5	395, 1-8	WYN	*so* that's it's enough to get on with	---	NST
+
+
+101, 1	396, 1-5	EVA	*o_k* *so* *yeah* *yeah* *yeah*	---	NST
+
+
+102, 1	397, 1-10	WYN	*um* but the social service *thing* that's that's Stan's speciality	NST	NST
+102, 2	398, 1-3	WYN	and I think	---	NSNT
+
+
+103, 1	400, 1-7	EVA	because he's got his *special* specialist subjects	NST	NST
+103, 2	403, 1-3	EVA	he *does* *yeah*	---	NST
+
+
+104, 1	404, 1-2	WYN	*um* that's	NST	NST
+104, 2	405, 1-14	WYN	and the other *thing* that'll come out of the meeting we've got in *Castell_Deudraeth*	NST	NST
+104, 3	405, 15-18	WYN	I think is that	NSNT	NSNT
+104, 4	407, 1-3	WYN	because you know	NSNT	NSNT
+104, 6	409, 1-13	WYN	*so* if we *can* *tap* in to *projects* from them *as* *well* de	NST	NST
+104, 7	409, 14-20	WYN	it'll and bring people in *just* *as*	NST	NST
+104, 8	409, 21-22	WYN	we want	NSNT	NSNT
+104, 9	412, 1-6	WYN	we've started doing it informally already	SNT	NSNT
+104, 10	415, 1-3	WYN	*er* mae *Iestyn*	NST	NST
+104, 11	415, 4-6	WYN	wedi bod yn	NSNT	NSNT
+104, 12	416, 1-4	WYN	mae *Gwenith* a *John*	NST	NST
+104, 13	416, 5-13	WYN	wedi bod yn helpu ni ar yr ymgynghoriad ia	NSNT	NSNT
+104, 14	418, 1-2	WYN	ymgynghoriad consultation	---	SNT
+
+
+105, 1	419, 1-1	EVA	consultation	---	NSNT
+
+
+106, 1	420, 1-6	WYN	digwydd y *police* efo yr heddlu	ST	NST
+106, 2	421, 1-3	WYN	consultation efo heddlu	---	SNT
+
+
+107, 1	422, 1-3	EVA	y heddlu *yeah*	---	NST
+
+
+108, 1	423, 1-5	WYN	a ac *um* mae *Iestyn*	NST	NST
+108, 2	423, 6-15	WYN	wedi bod yn helpu *John* ar consultation *um* amgylcheddol environmental	---	ST
+
+
+109, 1	424, 1-4	EVA	*um* environmental *yeah* ie	---	ST
+
+
+110, 1	425, 1-3	WYN	ie in Denbighshire	NSNT	SNT
+110, 2	427, 1-6	WYN	*so* it's starting to to work	ST	NST
+110, 3	428, 1-1	WYN	*so*	ST	NST
+110, 5	431, 1-4	WYN	and *so* you know	NST	NST
+110, 6	431, 5-6	WYN	if you	SNT	NSNT
+110, 7	433, 1-10	WYN	os ti isio if you want to take a *job*	NST	ST
+110, 8	433, 11-25	WYN	you know *Wyn* or *Iestyn* or *Stan* will *help* *can* *help* *me* on this one	NST	NST
+110, 9	435, 1-4	WYN	it's not a partnership	NSNT	NSNT
+110, 10	436, 1-8	WYN	it's *just* like a *group* of associates networking	---	NST
+
+
+111, 1	437, 1-4	EVA	*yeah* *yeah* *yeah* networking	ST	NST
+111, 2	438, 1-5	EVA	*yeah* be ydy networking yn	---	ST
+
+
+112, 1	439, 1-1	WYN	rhwydwaith	NSNT	NSNT
+112, 2	440, 1-4	WYN	rhwyd waith rhwydwaith *yeah*	---	NST
+
+
+113, 1	441, 1-1	EVA	rhwydwaith	NSNT	NSNT
+113, 2	442, 1-1	EVA	rhwydwaith	---	NSNT
+
+
+114, 1	443, 1-3	WYN	rhwydwaith *yeah* *yeah*	---	NST
+
+
+115, 1	444, 1-1	EVA	rhwydwaith	NSNT	NSNT
+115, 2	446, 1-3	EVA	*mmm* da iawn	---	NST
+
+
+116, 1	447, 1-4	WYN	*so* mae hwnna yn	ST	NST
+116, 2	448, 1-6	WYN	that *can* be a springboard really	ST	NST
+116, 5	451, 1-4	WYN	*um* dw i wedi	NST	NST
+116, 6	451, 5-13	WYN	roid syniad mawr mawr i_fewn yn *Blaenau_Ffestiniog* am *project*	---	NST
+
+
+117, 1	452, 1-1	EVA	sy	NSNT	NSNT
+117, 2	452, 2-3	EVA	gynnoch chi	---	NSNT
+
+
+118, 1	453, 2-5	WYN	dw i wedi wneud	NSNT	NSNT
+118, 2	454, 1-12	WYN	a dw i wedi wneud *er* cyflwyniad *yeah* presentation i Cymunedau_yn_Gyntaf Communities_First	---	ST
+
+
+119, 1	458, 1-2	EVA	yn *Blaenau*	---	NST
+
+
+120, 1	461, 1-10	WYN	ar *er* *well* community based audits of health and well_being	ST	ST
+120, 3	465, 1-7	WYN	a oedd *lot* o bobl yn poeni	NST	NST
+120, 4	466, 1-13	WYN	mae yna *lot* o *lot* o ynni energy yn mynd i_fewn i protestio	ST	ST
+120, 5	468, 1-3	WYN	*stop* the closure	NST	NST
+120, 6	470, 1-5	WYN	*lot* of energy *negative* energy	---	NST
+
+
+121, 1	471, 1-1	EVA	*negative*	---	NST
+
+
+122, 1	472, 1-15	WYN	if we *can* take some of that without taking away from from that *just* cause	NST	NST
+122, 2	475, 1-3	WYN	if we *can*	---	NST
+
+
+123, 1	479, 1-5	EVA	ie dw i yn cytuno	NSNT	NSNT
+123, 2	479, 6-9	EVA	dw i yn cytuno	---	NSNT
+
+
+124, 1	481, 1-3	WYN	*so* fedran ni	NST	NST
+124, 2	482, 1-7	WYN	dan ni wedi dechrau trafodaeth yn deud	NSNT	NSNT
+124, 3	483, 1-5	WYN	*o_k* be fedran ni wneud	NST	NST
+124, 4	484, 1-17	WYN	pa fath o waith fedran ni wneud hefo yr holl boblogaeth i ddechrau cael strategaeth neu strategy	---	SNT
+
+
+125, 1	487, 1-7	EVA	what's the kind of work and strategy	---	NSNT
+
+
+126, 1	489, 1-9	WYN	*yeah* but do it from a bottom up de	ST	ST
+126, 2	491, 1-7	WYN	ask people how they feel about it	NSNT	NSNT
+126, 3	493, 1-4	WYN	I've done that presentation	NSNT	NSNT
+126, 4	494, 1-1	WYN	they	SNT	NSNT
+126, 5	494, 2-8	WYN	oedden nhw yn licio fo yn *Blaenau*	NST	NST
+126, 7	496, 1-6	WYN	oedden nhw yn licio yr syniad	NSNT	NSNT
+126, 8	497, 1-11	WYN	oedden nhw chwilio wan am y funding i wneud o ddigwydd	NSNT	SNT
+126, 9	499, 1-4	WYN	dw i yn gobeithio	NSNT	NSNT
+126, 10	499, 5-10	WYN	fedran ni ddechrau hwnna *right* fuan	NST	NST
+126, 11	500, 1-8	WYN	*oh* fydd hynny yn golygu *lot* o waith	NST	NST
+126, 12	500, 9-17	WYN	timod mynd at stakeholder *groups* unigol *er* a siarad	NST	ST
+126, 13	502, 1-9	WYN	*um* *so* fyddan ni angen pobl i wneud hynna	NST	NST
+126, 14	504, 1-5	WYN	ond mae *Stan* efo cysylltiadau	ST	NST
+126, 15	506, 1-6	WYN	*yeah* he's got contacts in *Blaenau*	NST	NST
+126, 16	508, 1-4	WYN	different different stakeholder *groups*	---	NST
+
+
+127, 1	509, 1-7	EVA	a fi a fi hefyd fi hefyd	NSNT	NSNT
+127, 2	510, 1-13	EVA	achos ar hyn o bryd dw i yn *er* volunteering efo *Blaenau_Beni* *Blaenau_Bendigedig*	---	ST
+
+
+128, 1	513, 1-3	WYN	be ti wneud	---	NSNT
+
+
+129, 1	514, 1-4	EVA	*well* mae yna ie	NST	NST
+129, 2	514, 5-6	EVA	dan ni	NSNT	NSNT
+129, 3	514, 7-14	EVA	dan ni *um* paratoi *um* *Blaenau* western *carnival*	ST	ST
+129, 4	515, 1-1	EVA	*carnival*	---	NST
+
+
+130, 1	519, 1-2	WYN	western *carnival*	---	NST
+
+
+131, 1	520, 1-10	EVA	western western *carnival* i *er* mis *um* Gorffennaf *er* July	---	ST
+
+
+132, 1	521, 1-1	WYN	*cowboys*	---	NST
+
+
+133, 1	523, 1-4	EVA	*um* *yeah* efo *Blaenau_Bendigedig*	NST	NST
+133, 2	524, 1-11	EVA	*er* mae yna *yeah* penwythnos *um* i yr i yr community	NST	ST
+133, 3	526, 1-12	EVA	*um* it's going to be on the old *rugby* *pitches* at *Tanygrisiau*	NST	NST
+133, 4	528, 1-9	EVA	and there's going to be a big *American_Civil_War_Society* event	---	NST
+
+
+134, 1	529, 1-5	WYN	they've done that before though	---	NSNT
+
+
+135, 1	530, 1-7	EVA	but it's going to be even bigger	NSNT	NSNT
+135, 2	531, 1-3	EVA	two days running	NSNT	NSNT
+135, 4	533, 1-3	EVA	and I mean	NSNT	NSNT
+135, 5	533, 4-5	EVA	I think	NSNT	NSNT
+135, 6	533, 6-12	EVA	they must have done it last *year*	NST	NST
+135, 7	535, 1-4	EVA	*er* and and they	NST	NST
+135, 8	535, 5-6	EVA	they all	NSNT	NSNT
+135, 9	535, 7-17	EVA	they want now is *just* to *double* the *numbers* and and	---	NST
+
+
+136, 1	538, 1-3	WYN	everybody dressed up	---	NSNT
+
+
+137, 1	539, 1-4	EVA	promote it *er* re_enactment	---	NST
+
+
+138, 1	541, 1-2	WYN	*oh* yes	---	NST
+
+
+139, 1	542, 1-14	EVA	*um* ond hefyd *lot* o *lot* o *er* *stalls* a hwyl a dawnsio *lot*	---	NST
+
+
+140, 1	543, 1-3	WYN	*yeah* *just* hwyl	NST	NST
+140, 2	545, 1-5	WYN	*yeah* oes yna *group* *Blaenau_Bendigedig*	NST	NST
+140, 3	546, 1-6	WYN	mae fath â *group* bobl *yeah*	---	NST
+
+
+141, 1	547, 1-3	EVA	*yeah* mae yna	NST	NST
+141, 2	547, 4-18	EVA	mae yna *group* *yeah* *er* bobl *er* o o *um* *yeah* busnesau o *businesses* ie	NST	NST
+141, 3	549, 1-5	EVA	*um* a hefyd *er* Rheilffordd_Ffestiniog	ST	NST
+141, 4	551, 1-11	EVA	*um* and although I'm sitting there on behalf of the Ffestiniog_Railway	NST	NST
+141, 5	551, 12-13	EVA	I'm also	NSNT	NSNT
+141, 6	553, 1-9	EVA	like there's now we've got a fundraising *projects* which	NST	NST
+141, 7	553, 10-10	EVA	I	NSNT	NSNT
+141, 8	553, 11-14	EVA	I'm taking *part* of	NST	NST
+141, 9	554, 1-1	EVA	I	NSNT	NSNT
+141, 10	554, 2-8	EVA	I do that in my own name	NSNT	NSNT
+141, 11	556, 1-9	EVA	because it would be a *bit* of a conflict	NST	NST
+141, 12	556, 10-12	EVA	if I say	NSNT	NSNT
+141, 13	556, 13-20	EVA	I'm doing this on behalf of *er* Rheilffordd_Ffestiniog	ST	ST
+141, 14	559, 1-10	EVA	because it's not in the *interest* of the authority to	NST	NST
+141, 15	561, 1-4	EVA	although we of *course*	NST	NST
+141, 16	561, 5-13	EVA	we want it to be a *very* successful event	---	NST
+
+
+142, 1	562, 1-1	WYN	yes	---	NSNT
+
+
+143, 1	565, 1-13	EVA	because we are running a *special* *train* for the *yeah* american *soldiers* re_enactors	---	NST
+
+
+144, 1	567, 1-1	WYN	*great*	---	NST
+
+
+145, 1	568, 1-4	EVA	*um* *er* but I'm	ST	NST
+145, 2	568, 5-7	EVA	dw i yn	NSNT	NSNT
+145, 3	568, 8-12	EVA	dw i yn *er* diddoreb	ST	NST
+145, 4	569, 1-4	EVA	I'm interested how would	NSNT	NSNT
+145, 5	569, 5-7	EVA	you say that	---	NSNT
+
+
+146, 1	570, 1-1	WYN	diddordeb	NSNT	NSNT
+146, 2	571, 1-4	WYN	mae gen i ddiddordeb	---	NSNT
+
+
+147, 1	572, 1-3	EVA	mae gen i	NSNT	NSNT
+147, 2	572, 4-15	EVA	mae gen i ddiddordeb yn weld *yeah* what's going on how *does*	NST	ST
+147, 3	572, 16-17	EVA	it work	---	NSNT
+
+
+148, 1	574, 1-2	WYN	da de	---	NSNT
+
+
+149, 1	575, 1-2	EVA	*so* I	NST	NST
+149, 2	575, 3-3	EVA	I	NSNT	NSNT
+149, 3	575, 4-9	EVA	I'm going to be there *yeah*	---	NST
+
+
+150, 1	576, 1-2	WYN	*oh* *great*	---	NST
+
+
+151, 1	577, 1-2	EVA	dw i	NSNT	NSNT
+151, 2	577, 3-9	EVA	dw i *er* dau dydd dau diwrnod	---	NST
+
+
+152, 1	579, 1-3	WYN	dau ddiwrnod *yeah*	---	NST
+
+
+153, 1	580, 1-10	EVA	*um* i i i weld i *um* *yeah* i explore_io	---	ST
+
+
+154, 1	582, 1-11	WYN	achos peth yna y pwrpas *Blaenau_Bendigedig* ydy gwneud pethau i ddatblygu	---	NST
+
+
+154, 2	584, 1-5	WYN	ta *just* events ydy o	ST	ST
+155, 4	589, 1-11	EVA	*er* to to *lift* to to i i codi *er* spirits	---	ST
+
+
+156, 1	590, 1-4	WYN	i codi hyder a	SNT	NSNT
+156, 2	591, 1-2	WYN	confidence hyder	---	SNT
+
+
+157, 1	592, 1-7	EVA	i codi codi hyder i codi *yeah*	---	NST
+
+
+158, 1	593, 1-1	WYN	confidence	---	NSNT
+
+
+159, 1	596, 1-3	EVA	i codi hyder	NSNT	NSNT
+159, 2	597, 1-8	EVA	a i i *um* *yeah* to *er* enthusiasts	ST	ST
+159, 3	599, 1-4	EVA	*um* y bobl lleol	---	NST
+
+
+160, 1	601, 1-5	WYN	achos os dan ni yn	NSNT	NSNT
+160, 2	602, 1-10	WYN	efo *project* iechyd a lles it's wider than *just* health	NST	ST
+160, 3	604, 1-2	WYN	it's well_being	NSNT	NSNT
+160, 4	607, 1-13	WYN	*so* that takes in all kinds de of different things going on already	NST	ST
+160, 5	610, 1-9	WYN	and hwyrach fysai *group* *Blaenau_Bendigedig* yn un o yr	NST	ST
+160, 6	611, 1-3	WYN	achos fedri di	NSNT	NSNT
+160, 7	612, 1-12	WYN	dw i ddim isio mynd allan efo holiadur questionnaire *round* bob tŷ	NST	ST
+160, 8	613, 1-11	WYN	dw isio mynd at grwpiau o bobl and do it participative	SNT	SNT
+160, 9	616, 1-3	WYN	mae well yn_dydy	---	NSNT
+
+
+161, 1	617, 1-8	EVA	*yeah* mae yn *er* *well* i i siarad	---	NST
+
+
+163, 1	624, 1-2	EVA	you saying	NSNT	NSNT
+163, 2	624, 3-5	EVA	it takes longer	NSNT	NSNT
+163, 3	624, 6-10	EVA	where you're using hwyrach hwyrach	---	SNT
+
+
+164, 1	625, 1-2	WYN	*um* hwyrach	---	NST
+
+
+165, 1	626, 1-3	EVA	you were saying	NSNT	NSNT
+165, 2	627, 1-5	EVA	what *does* it mean hwyrach	---	ST
+
+
+166, 1	628, 1-2	WYN	*oh* hwyrach	---	NST
+
+
+167, 1	629, 1-5	EVA	is it from hwyr hwyr	---	SNT
+
+
+168, 1	630, 1-2	WYN	no maybe	NSNT	NSNT
+168, 2	631, 1-1	WYN	maybe	---	NSNT
+
+
+169, 1	632, 1-2	EVA	*oh* maybe	---	NST
+
+
+170, 1	633, 1-5	WYN	*yeah* hwyrach hwyrach ella *yeah*	---	NST
+
+
+171, 1	634, 1-1	EVA	ella	NSNT	NSNT
+171, 2	635, 1-1	EVA	ella	---	NSNT
+
+
+172, 1	636, 1-3	WYN	*yeah* ella *yeah*	---	NST
+
+
+173, 1	637, 1-2	EVA	because I	NSNT	NSNT
+173, 2	637, 3-7	EVA	I don't *use* that word	NST	NST
+173, 3	638, 1-2	EVA	I don't	---	NSNT
+
+
+174, 1	639, 1-2	WYN	ella hwyrach	---	NSNT
+
+
+175, 1	640, 1-1	EVA	hwyrach	---	NSNT
+
+
+176, 1	641, 1-7	WYN	it's the same word *yeah* ella hwyrach	---	ST
+
+
+177, 1	642, 1-2	EVA	*yeah* ella	---	NST
+
+
+178, 1	643, 1-5	WYN	it means later *as* *well*	---	NST
+
+
+179, 1	644, 1-3	EVA	*yeah* you see	NST	NST
+179, 2	644, 4-5	EVA	I thought	NSNT	NSNT
+179, 3	644, 6-8	EVA	I could only	---	NSNT
+
+
+180, 1	646, 1-6	WYN	*yeah* wela i di hwyrach *yeah*	ST	NST
+180, 2	646, 7-10	WYN	I'll see you later	SNT	NSNT
+180, 3	648, 1-5	WYN	wela i di yn hwyrach	SNT	NSNT
+180, 4	649, 1-5	WYN	but hwyrach means means efellai	---	SNT
+
+
+181, 1	650, 1-5	EVA	efellai efellai neu ella efellai	NSNT	NSNT
+181, 3	654, 1-7	EVA	*yeah* *um* *yeah* *yeah* dw i yn	---	NST
+
+
+182, 1	655, 1-2	WYN	*mmm* *so*	ST	NST
+182, 2	656, 1-5	WYN	*o_k* dydy o ddim yn	NST	NST
+182, 3	656, 6-9	WYN	dydy o ddim yn	SNT	NSNT
+182, 4	657, 1-14	WYN	*yeah* *Blaenau_Bendigedig* isn't a *sort* of a *sort* of *er* *project* iechyd health *project*	---	ST
+
+
+183, 1	658, 1-2	EVA	it's not	---	NSNT
+
+
+184, 1	659, 1-8	WYN	but it's a well_being *thing* a feel_good *factor*	---	NST
+
+
+185, 1	660, 1-4	EVA	it's a well_being *thing*	ST	NST
+185, 2	662, 1-13	EVA	*um* *yeah* mae yna hanner hanner o bobl *er* yn yn yn Saesneg	ST	NST
+185, 3	664, 1-6	EVA	*um* the chairman is an Englishman	ST	NST
+185, 4	665, 1-9	EVA	a yr hanner arall yn y bobl *er* Cymraeg	---	NST
+
+
+186, 1	666, 1-1	WYN	Cymraeg	NSNT	NSNT
+186, 2	668, 1-2	WYN	*oh* difyr	---	NST
+
+
+187, 1	669, 1-4	EVA	mae yn iawn *yeah*	---	NST
+
+
+188, 1	671, 1-8	WYN	*oh* mae yna *lot* o bethau yn digwydd	NST	NST
+188, 2	672, 1-11	WYN	mae yna *lot* fawr o bethau yn digwydd yn *Blaenau* toes	NST	NST
+188, 3	673, 1-9	WYN	mae nhw gyd yn wneud eu pethau eu hunain	NSNT	NSNT
+188, 4	675, 1-4	WYN	timod *lot* o *groups*	---	NST
+
+
+189, 1	676, 1-3	EVA	*lot* o *groups*	NST	NST
+189, 2	677, 1-8	EVA	a hefyd *er* y siambr siambr o *trade*	---	NST
+
+
+190, 1	678, 1-6	WYN	*oh* *yeah* *yeah* *yeah* *yeah* Siambr_Fasnach	---	NST
+
+
+191, 1	679, 1-2	EVA	achos mae	NSNT	NSNT
+191, 2	681, 1-1	EVA	Siambr_Fasnach	---	NSNT
+
+
+192, 1	683, 1-2	WYN	ydy hwnnw	NSNT	NSNT
+192, 2	683, 3-5	WYN	yn bod wan	NSNT	NSNT
+192, 3	684, 1-6	WYN	ydy o yn dal i fynd	SNT	NSNT
+192, 4	685, 1-2	WYN	*still* going	---	NST
+
+
+193, 1	686, 1-3	EVA	it's *still* going	ST	NST
+193, 2	686, 4-8	EVA	dal i dal yn fynd	NSNT	NSNT
+193, 3	688, 1-15	EVA	achos *um* our commercial *manager* *does* *exams* for the the Siambr y Fasnach *er* gyfarfod	---	ST
+
+
+194, 1	690, 1-1	WYN	Duw	NSNT	NSNT
+194, 2	694, 1-6	WYN	peth arall dan ni isio wneud	NSNT	NSNT
+194, 3	694, 7-9	WYN	de peth arall	NSNT	NSNT
+194, 4	694, 10-14	WYN	ydy trefnu pryd o fwyd	NSNT	NSNT
+194, 5	696, 1-5	WYN	dim_byd i wneud efo gwaith	NSNT	NSNT
+194, 8	701, 1-2	WYN	ond mae	NSNT	NSNT
+194, 9	701, 3-10	WYN	mae *Jen* a fi a *Sylvie* a *Wil*	NST	NST
+194, 10	701, 11-16	WYN	dan ni mynd i_lawr i Caerdydd	---	NSNT
+
+
+195, 1	703, 1-1	EVA	you're	NSNT	NSNT
+195, 2	703, 2-6	EVA	you're going down to Cardiff	---	NSNT
+
+
+196, 1	705, 1-6	WYN	i *game* Ffrainc *rugby* Cymru Ffrainc	---	NST
+
+
+197, 1	707, 1-2	EVA	*um* pryd	---	NST
+
+
+198, 1	709, 1-2	WYN	tair wsnos	NSNT	NSNT
+198, 2	710, 1-3	WYN	*er* deunaw eighteenth	---	ST
+
+
+199, 1	711, 1-3	EVA	eighteenth o Mawrth	---	SNT
+
+
+200, 1	712, 1-1	WYN	eighteenth	SNT	NSNT
+200, 2	713, 1-3	WYN	o Mawrth ia	NSNT	NSNT
+200, 3	714, 1-5	WYN	*so* ar_ôl hynny hwyrach *yeah*	---	NST
+
+
+201, 1	716, 4-7	EVA	ydy *Jen* yn mynd	NST	NST
+201, 2	717, 1-3	EVA	ydy *Jen* *er*	---	NST
+
+
+202, 1	718, 1-6	WYN	dim yn mynd i yr cae	NSNT	NSNT
+202, 2	719, 1-6	WYN	dan ni ddim yn mynd i	NSNT	NSNT
+202, 3	720, 2-5	WYN	gynnon ni ddim tocyn	SNT	NSNT
+202, 4	721, 1-8	WYN	we haven't got a *ticket* for the *game*	---	NST
+
+
+203, 1	722, 1-1	EVA	no	NSNT	NSNT
+203, 2	723, 1-6	EVA	you're not going to the *game*	---	NST
+
+
+204, 1	724, 1-5	WYN	but we're going to Cardiff	---	NSNT
+
+
+205, 1	725, 1-5	EVA	*yeah* to for the atmosphere	---	NST
+
+
+206, 1	728, 1-1	WYN	I	NSNT	NSNT
+206, 2	728, 2-2	WYN	I	SNT	NSNT
+206, 3	728, 3-7	WYN	mae yna *hotel* *right* *nice*	NST	NST
+206, 4	729, 1-5	WYN	dw i wedi bwcio dwy	NSNT	NSNT
+206, 5	729, 6-6	WYN	noson	NSNT	NSNT
+206, 6	732, 1-10	WYN	a felly dan ni mynd lawr i Caerdydd nos Wener	NSNT	NSNT
+206, 7	734, 1-4	WYN	mynd i *hotel* *nice*	NST	NST
+206, 8	735, 1-2	WYN	pwll nofio	NSNT	NSNT
+206, 9	738, 1-4	WYN	pryd o fwyd *nice*	NST	NST
+206, 10	740, 1-6	WYN	wedyn bore dydd Sadwrn dan ni	NSNT	NSNT
+206, 11	740, 7-12	WYN	dan ni mynd i_fewn i Caerdydd	NSNT	NSNT
+206, 12	742, 1-8	WYN	mae *Sylvie* *Sylvie* yn gwisgo crys *rugby* Ffrainc	NST	NST
+206, 13	746, 1-6	WYN	*Wil* gwisgo crys *rugby* Cymru de	NST	NST
+206, 14	748, 1-11	WYN	a dan ni *just* yn mynd i gael yr *er* awyrgylch	NST	NST
+206, 15	749, 1-2	WYN	cerdded o_gwmpas	---	NSNT
+
+
+207, 1	750, 1-3	EVA	ie cerdded o_gwmpas	---	NSNT
+
+
+208, 1	751, 1-3	WYN	*pint* amser cinio	NST	NST
+208, 2	752, 1-6	WYN	a wedyn yn_ôl i yr gwesty	NSNT	NSNT
+208, 3	755, 1-3	WYN	gweld y *game*	---	NST
+
+
+209, 1	756, 1-3	EVA	ddim yn ddrwg	---	NSNT
+
+
+210, 1	757, 1-7	WYN	achos mae o gwesty *um* *er* Village_Hotels	NST	ST
+210, 2	758, 1-1	WYN	they're	NSNT	NSNT
+210, 3	758, 2-5	WYN	they're like *um* gwesty	NST	ST
+210, 4	758, 6-8	WYN	chwaraeon like *sports*	---	ST
+
+
+211, 1	759, 1-3	EVA	gwesty teulu gwesty	---	NSNT
+
+
+212, 1	760, 1-10	WYN	gwesty teulu ond gwesty *um* *er* *er* *sports* ydy o	ST	NST
+212, 2	762, 1-8	WYN	they've got tremendous sporting facilities specialist sporting *hotel*	NST	NST
+212, 3	764, 1-11	WYN	they've got this *bar* with *televisions* *right* *round* the big *screen*	NST	NST
+212, 4	766, 1-5	WYN	*so* got *sport* all day	---	NST
+
+
+213, 1	767, 1-12	EVA	*yeah* *just* but not their own gym not their own swimming *pool*	---	NST
+
+
+214, 1	768, 1-3	WYN	they have *yeah*	NST	NST
+214, 2	768, 4-13	WYN	they've got their own swimming *pool* and gym *yeah* *yeah*	---	NST
+
+
+215, 1	769, 1-2	EVA	a hefyd	---	NSNT
+
+
+216, 1	771, 1-12	WYN	a mae *very* good food *very* good *very* good *quality* *rooms* *yeah*	ST	ST
+216, 2	774, 1-4	WYN	mae nhw yn *great*	NST	NST
+216, 3	775, 1-10	WYN	*so* fydd y lle yn llawn i weld y *game*	NST	NST
+216, 4	777, 1-9	WYN	a wedyn pryd o fwyd *nice* gyda yr nos	NST	NST
+216, 5	780, 1-6	WYN	a cael Cymru yn curo Ffrainc	---	NSNT
+
+
+217, 1	781, 1-4	EVA	dach chi yn *er*	ST	NST
+217, 2	782, 1-7	EVA	I was going to say you are	NSNT	NSNT
+217, 3	783, 1-17	EVA	I can't find the word now for a *yeah* someone who really enjoys eating and drinking *er*	---	NST
+
+
+218, 1	784, 1-2	WYN	and *sport*	---	NST
+
+
+219, 1	785, 1-3	EVA	*um* and *sport*	NST	NST
+219, 3	787, 1-4	EVA	*er* what's the word	NST	NST
+219, 4	788, 1-5	EVA	what's the word for it	SNT	NSNT
+219, 5	789, 1-8	EVA	burgunder in Dutch in in yn yn Iseldireg	NSNT	SNT
+219, 6	791, 1-3	EVA	*er* dan ni	NST	NST
+219, 7	791, 4-6	EVA	dan ni *um*	---	NST
+
+
+220, 1	792, 1-7	WYN	*er* *oh* wn i be ti feddwl	---	NST
+
+
+221, 1	795, 1-7	EVA	dan ni ddeud *um* burgunder from Burgundy	ST	ST
+221, 2	797, 1-5	EVA	a because Burgundy mae yna	NSNT	SNT
+221, 3	797, 6-7	EVA	mae yna	---	NSNT
+
+
+222, 1	798, 1-4	WYN	*bourgeoisie* y same gair	---	ST
+
+
+223, 1	799, 1-2	EVA	*yeah* *bourgeoisie*	---	NST
+
+
+224, 1	800, 1-5	WYN	*er* nace nag ydy na	---	NST
+
+
+226, 1	802, 1-5	WYN	ia ardal o Ffrainc *yeah*	NST	NST
+226, 2	803, 1-7	WYN	lle mae pobl yn byw *right* dda	---	NST
+
+
+227, 1	805, 1-17	EVA	and *um* burgunder *er* ydy *person* i i i fwyta *lot* o *lot* o bwyd *er* i	---	ST
+
+
+228, 1	806, 1-5	WYN	*er* ffordd o fyw mwynhau	---	NST
+
+
+229, 1	807, 1-9	EVA	*yeah* *yeah* who who lives life to the full	---	NST
+
+
+230, 1	810, 1-1	WYN	bohemian	---	NSNT
+
+
+231, 1	812, 1-2	EVA	not necessarily	---	NSNT
+
+
+232, 1	813, 1-1	WYN	no	---	NSNT
+
+
+233, 1	814, 1-2	EVA	you don't	NSNT	NSNT
+233, 2	815, 1-3	EVA	no *just* *er*	---	NST
+
+
+234, 1	816, 1-3	WYN	a good life	---	NSNT
+
+
+235, 1	817, 1-1	EVA	you	NSNT	NSNT
+235, 2	817, 2-3	EVA	you *just*	NST	NST
+235, 3	818, 1-3	EVA	*yeah* and and	---	NST
+
+
+236, 1	820, 1-7	WYN	a mae Ffrancwyr yn gwybod sut i	---	NSNT
+
+
+237, 1	822, 1-1	EVA	burgunder	---	NSNT
+
+
+238, 1	823, 1-1	WYN	burgunder	---	NSNT
+
+
+239, 1	824, 1-5	EVA	*yeah* mi wna i sgrifennu	NST	NST
+239, 2	827, 1-4	EVA	mi wna i sgrifennu	---	NSNT
+
+
+240, 1	828, 1-4	WYN	*oh* dw i licio	NST	NST
+240, 2	828, 5-8	WYN	dw licio yr syniad	NSNT	NSNT
+240, 3	829, 1-4	WYN	felly wyt ti yn	NSNT	NSNT
+240, 4	829, 5-13	WYN	wyt ti yn byw fath â rywun o Burgundy	SNT	SNT
+240, 5	830, 1-10	WYN	mae nhw licio bwyd a gwin a byw yn dda	---	NSNT
+
+
+241, 1	832, 1-2	EVA	mae yna	NSNT	NSNT
+241, 2	832, 3-5	EVA	mae yna *slogan*	NST	NST
+241, 3	832, 6-18	EVA	mae yna phrase i i i deud i *um* *yeah* chi *er* *yeah*	NST	ST
+241, 4	832, 19-19	EVA	dach	NSNT	NSNT
+241, 5	832, 20-22	EVA	dach chi burgunder	---	SNT
+
+
+242, 1	837, 1-5	WYN	*oh* *um* mi ydyn ni	NST	NST
+242, 2	838, 1-8	WYN	*so* ni wneud rywbeth *um* cyn cyn cyn	NST	NST
+242, 4	842, 1-3	WYN	mis Mawrth Ebrill	NSNT	NSNT
+242, 5	843, 1-5	WYN	ia dechrau mis Ebrill hwyrach	NSNT	NSNT
+242, 6	845, 1-2	WYN	achos *um*	NST	NST
+242, 7	847, 1-10	WYN	hwyrach gawn ni *Sylvie* i wneud bwyd eto bwyd *creole*	---	NST
+
+
+243, 1	848, 1-5	EVA	*um* I don't understand you	ST	NST
+243, 2	849, 1-5	EVA	dw i ddim yn ddallt	---	NSNT
+
+
+244, 1	850, 1-2	WYN	*Sylvie* *er*	ST	NST
+244, 2	851, 1-12	WYN	you came along before didn't you when *Sylvie* made some *creole* food	---	NST
+
+
+245, 1	854, 1-7	EVA	*yeah* not *so* long ago *yeah* *yeah*	---	NST
+
+
+246, 1	855, 1-3	WYN	you had that	NSNT	NSNT
+246, 2	856, 1-4	WYN	yes we've had that	SNT	NSNT
+246, 3	858, 1-6	WYN	diawl o'n i ddim yn cofio	NSNT	NSNT
+246, 4	860, 1-3	WYN	yn tŷ ni	NSNT	NSNT
+246, 5	862, 1-5	WYN	*yeah* tŷ ni *yeah* *yeah*	NST	NST
+246, 6	863, 1-2	WYN	*o_k* os	NST	NST
+246, 8	865, 1-5	WYN	*yeah* *yeah* *yeah* tŷ ni	NST	NST
+246, 9	866, 1-2	WYN	wedyn oedd	NSNT	NSNT
+246, 10	867, 2-5	WYN	wnaeth hi bwyd *creole*	NST	NST
+246, 11	868, 1-5	WYN	wnaeth hi wneud yr *um*	---	NST
+
+
+247, 1	870, 1-3	EVA	*yeah* efo pysgodyn	---	NST
+
+
+248, 1	873, 1-7	WYN	a yr *um* *prawns* a a yr	---	NST
+
+
+249, 1	874, 1-2	EVA	*prawns* a	---	NST
+
+
+250, 1	875, 1-7	WYN	be ti yn galw pethau parseli *um*	---	NST
+
+
+251, 1	876, 1-2	EVA	*um* *pph*	---	NST
+
+
+252, 1	877, 1-1	WYN	*samosas*	---	NST
+
+
+253, 1	878, 1-4	EVA	*samosas* a llysiau llysiau	---	NST
+
+
+254, 1	879, 1-3	WYN	llysiau a pysgodyn	---	NSNT
+
+
+255, 1	880, 1-4	EVA	pysgodyn *curry* *um* ffrwythau	---	NST
+
+
+256, 1	881, 1-1	WYN	*curry*	---	NST
+
+
+257, 1	883, 1-1	EVA	ar_ôl	---	NSNT
+
+
+258, 1	884, 1-5	WYN	*oh* do'n i ddim yn	NST	NST
+258, 2	885, 1-6	WYN	*oh* *yeah* *Amanda* oedd ddim yna	NST	NST
+258, 3	886, 1-8	WYN	oedda chdi chdi a *Stan* a a *Iestyn*	---	NST
+
+
+259, 1	887, 1-4	EVA	*Iestyn* yn yn yn	---	NST
+
+
+260, 1	888, 1-4	WYN	oedd *Amanda* methu dod	NST	NST
+260, 3	891, 1-3	WYN	*oh* tro chi	NST	NST
+260, 4	891, 4-5	WYN	ydy o	NSNT	NSNT
+260, 5	891, 6-7	WYN	tro nesa	---	NSNT
+
+
+261, 1	894, 1-4	EVA	na na dim *problem*	---	NST
+
+
+262, 1	895, 1-6	WYN	yn tŷ chi yn yr ogof	---	NSNT
+
+
+263, 1	896, 1-3	EVA	yn yr ogof	NSNT	NSNT
+263, 2	897, 1-3	EVA	faint o bobl	---	NSNT
+
+
+264, 1	899, 1-1	WYN	seventeen	---	NSNT
+
+
+265, 1	902, 1-2	EVA	mae yna	NSNT	NSNT
+265, 2	902, 3-5	EVA	mae yna rhy	---	NSNT
+
+
+266, 1	903, 1-5	WYN	na na does dim lle	---	NSNT
+
+
+267, 1	904, 1-1	EVA	mae	NSNT	NSNT
+267, 2	904, 2-2	EVA	mae	NSNT	NSNT
+267, 3	904, 3-3	EVA	mae	---	NSNT
+
+
+268, 1	905, 1-4	WYN	na does dim lle	NSNT	NSNT
+268, 2	905, 5-6	WYN	nag oes	NSNT	NSNT
+268, 4	907, 1-3	WYN	dim lle na	NSNT	NSNT
+268, 5	908, 1-8	WYN	mae yn iawn i pedwar neu i pump	NSNT	NSNT
+268, 6	909, 1-1	WYN	chwech	NSNT	NSNT
+268, 7	910, 1-4	WYN	dim mwy na chwech	---	NSNT
+
+
+269, 1	911, 1-1	EVA	chwech	NSNT	NSNT
+269, 2	912, 1-1	EVA	dim	NSNT	NSNT
+269, 4	915, 1-7	EVA	a mae tŷ yn yn yn fach	NSNT	NSNT
+269, 5	917, 1-2	EVA	ry rhy	---	NSNT
+
+
+270, 1	918, 1-4	WYN	a gormod o ddiod	NSNT	NSNT
+270, 2	920, 1-3	WYN	gormod o ddiod	---	NSNT
+
+
+271, 1	921, 1-2	EVA	am tŷ	---	NSNT
+
+
+272, 1	922, 1-2	WYN	tŷ chi	---	NSNT
+
+
+273, 1	923, 1-6	EVA	*yeah* but does yna ddim *problem*	NST	ST
+273, 3	925, 1-2	EVA	ydy o	---	NSNT
+
+
+274, 1	926, 1-1	WYN	gormod	SNT	NSNT
+274, 2	927, 1-2	WYN	too much	---	NSNT
+
+
+275, 1	928, 1-5	EVA	*yeah* but it's always there	NST	NST
+275, 2	929, 1-7	EVA	it's not not a *problem* for us	---	NST
+
+
+276, 1	930, 1-1	WYN	no	---	NSNT
+
+
+277, 1	931, 1-3	EVA	not a *problem*	---	NST
+
+
+278, 1	932, 1-3	WYN	*problem* i mi	---	NST
+
+
+279, 1	933, 1-6	EVA	would you drink more of it	NSNT	NSNT
+279, 2	933, 7-12	EVA	if you were living in our	NSNT	NSNT
+279, 3	936, 1-6	EVA	would you be finding it difficult	SNT	SNT
+279, 4	938, 1-2	EVA	na you	SNT	SNT
+279, 5	938, 3-4	EVA	*just* jocio	---	NST
+
+
+280, 1	939, 1-4	WYN	na *just* jocio *yeah*	---	NST
+
+
+281, 1	940, 1-2	EVA	*just* jocio	---	NST
+
+
+282, 1	943, 1-3	WYN	diod gwahanol sy	NSNT	NSNT
+282, 2	943, 4-5	WYN	gynnoch chi	NSNT	NSNT
+282, 3	943, 7-8	WYN	timod *just*	---	NST
+
+
+283, 1	944, 1-5	EVA	*yeah* *lot* o *lot* o	---	NST
+
+
+284, 1	945, 1-3	WYN	*lot* of different	NST	NST
+284, 2	946, 1-4	WYN	it's the good *stuff*	---	NST
+
+
+285, 1	948, 1-2	EVA	*well* mae	NST	NST
+285, 2	948, 3-3	EVA	mae	NSNT	NSNT
+285, 3	948, 4-9	EVA	mae tŷ yn *er* ry fach	---	NST
+
+
+286, 1	949, 1-3	WYN	yndy rhy fach	---	NSNT
+
+
+287, 1	950, 1-2	EVA	*yeah* it's	ST	NST
+287, 2	952, 1-3	EVA	gawn ni weld	---	NSNT
+
+
+288, 1	953, 1-5	WYN	gei di prynu *er* *Plas_Tan_y_Bwlch*	ST	NST
+288, 3	955, 1-6	WYN	lord and *lady* of the *manor*	NST	NST
+288, 5	957, 1-2	WYN	Lord *Batten*	---	NST
+
+
+289, 1	958, 1-4	EVA	a *lot* o servants	---	ST
+
+
+290, 1	959, 1-5	WYN	Lord *Batten* of of *Tan_y_Bwlch*	---	NST
+
+
+291, 1	960, 1-2	EVA	Lord *Batten*	NST	NST
+291, 2	961, 1-2	EVA	I've dropped	NSNT	NSNT
+291, 4	963, 1-5	EVA	I've dropped the word *Mount*	NST	NST
+291, 5	964, 1-7	EVA	I'm now *just* *Mr_Batten* no longer *Mr_Mountbatten*	---	NST
+
+
+292, 1	967, 1-7	WYN	dw i erioed wedi meddwl am hynna	SNT	NSNT
+292, 2	968, 1-6	WYN	I've never thought of that before	SNT	NSNT
+292, 4	970, 1-1	WYN	*Mountbatten*	ST	NST
+292, 6	972, 1-4	WYN	dropped dropped the *Mount*	---	NST
+
+
+293, 1	973, 1-5	EVA	yes *just* dropped the *Mount*	---	NST
+
+
+294, 1	974, 1-2	WYN	argoel fawr	SNT	NSNT
+294, 3	976, 1-4	WYN	he could be *king*	ST	NST
+294, 4	977, 1-2	WYN	*king* *Stan*	---	NST
+
+
+295, 1	978, 1-2	EVA	*king* *Stan_Mountbatten*	ST	NST
+295, 2	979, 1-4	EVA	*king* *Stan* of *Mountbatten*	---	NST
+
+
+296, 1	981, 1-3	WYN	y brenin *Stan*	NST	NST
+296, 2	983, 1-4	WYN	brenin *Stan* of *course*	ST	ST
+296, 4	986, 1-1	WYN	*Mountbatten*	ST	NST
+296, 5	989, 1-5	WYN	*right* dw i mynd wan	NST	NST
+296, 6	992, 1-2	WYN	amser bwyd	NSNT	NSNT
+296, 7	993, 1-4	WYN	deg munud i bump	SNT	NSNT
+296, 8	994, 1-2	WYN	*bloody* hell	NST	NST

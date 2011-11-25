@@ -1,0 +1,1741 @@
+
+
+1, 1	1, 1-7	GUT	*um* *trot* and walk *ride* oedd o	NST	ST
+1, 2	2, 1-2	GUT	*er* wnaeth	NST	NST
+1, 3	2, 3-6	GUT	wnes i ddim ganter_o	SNT	SNT
+1, 4	3, 1-8	GUT	wnes i ofyn os o'n i gael canter_o	SNT	SNT
+1, 5	4, 1-6	GUT	ond do'n i ddim yn cael	---	NSNT
+
+
+2, 1	5, 1-1	NER	pam	---	NSNT
+
+
+3, 1	6, 1-11	GUT	because mae yna *lot* o bobl wedi siwio yn y gorffennol	---	ST
+
+
+4, 1	7, 1-1	NER	naci	---	NSNT
+
+
+5, 1	9, 1-7	GUT	wedi meddwl bod nhw yn gallu canter_o	SNT	SNT
+5, 2	10, 1-8	GUT	a pobl y *stables* wedi gadael nhw ganter_o	ST	ST
+5, 3	11, 1-13	GUT	a nhw fath â wedi disgyn i_ffwrdd a siwio y riding *stables* wedyn	NST	ST
+5, 4	14, 1-5	GUT	*so* ges i ddim canter_o	ST	ST
+5, 5	15, 1-4	GUT	ond ges i drotio	NSNT	NSNT
+5, 6	16, 1-6	GUT	a wnes i drotio Western *style*	ST	ST
+5, 7	17, 1-3	GUT	wnes i trotio	---	NSNT
+
+
+6, 1	18, 1-3	NER	*just* jiggly *jig*	---	NST
+
+
+7, 1	19, 1-7	GUT	*well* eistedd yn y saddle yn dwfn	NST	ST
+7, 2	19, 8-14	GUT	de peidio jump_io fyny ac i_lawr felly	NSNT	SNT
+7, 3	20, 1-5	GUT	bobio dy hun i_fyny felly	NSNT	NSNT
+7, 4	21, 1-2	GUT	*just* eistedd	NST	NST
+7, 5	22, 1-7	GUT	reidio fath â *cowboy* mewn ffordd de	NST	NST
+7, 6	24, 1-5	GUT	fel mae *Dad* yn reidio	NST	NST
+7, 7	25, 1-9	GUT	a ryw *cross* rhwng Shire a *cob* ges i	NST	ST
+7, 8	26, 1-6	GUT	ceffyl digon trwm deud y gwir	---	NSNT
+
+
+8, 1	27, 1-5	NER	pa bryd oedd hynna de	NSNT	NSNT
+8, 2	28, 1-5	NER	dydd Sadwrn ta dydd Sul	---	NSNT
+
+
+9, 1	29, 1-4	GUT	dydd Sul oedd hyn	NSNT	NSNT
+9, 2	30, 1-8	GUT	wnes i ddim llawer o dim_byd dydd Sadwrn	NSNT	NSNT
+9, 3	31, 1-7	GUT	es i am jog dydd Sul hefyd	NSNT	SNT
+9, 4	32, 1-3	GUT	dw i *um*	NST	NST
+9, 5	32, 4-12	GUT	dw i am ddechrau jog_io eto yn o fuan	NSNT	SNT
+9, 6	32, 13-15	GUT	dw i meddwl	---	NSNT
+
+
+10, 1	33, 1-4	NER	beth am y smocio	---	NSNT
+
+
+11, 1	34, 1-2	GUT	weather permitting	SNT	NSNT
+11, 2	35, 1-6	GUT	smocio mae smocio yn flêr iawn	NSNT	NSNT
+11, 3	37, 1-8	GUT	mond yn smocio baco wan *so* gwario llai	---	NST
+
+
+12, 1	39, 1-4	NER	ti yn iwsio *filters*	---	NST
+
+
+13, 1	40, 1-6	GUT	nac ydw dim iwsio *filters* o_gwbl	NST	NST
+13, 2	41, 1-6	GUT	a mae gwaith yn galed iawn	NSNT	NSNT
+13, 3	42, 1-9	GUT	o'n i yn deud wrth *Debbie* wan neu *Debs*	NST	NST
+13, 4	43, 1-5	GUT	mae gwaith yn galed iawn	NSNT	NSNT
+13, 5	44, 1-11	GUT	mae yna toes yna ddim digon o oriau yn y diwrnod	NSNT	NSNT
+13, 6	45, 1-7	GUT	gen i case_load o *um* dri_deg wan	NST	ST
+13, 7	47, 1-8	GUT	a *lot* o nhw yn achosion digon cymhleth	NST	NST
+13, 8	48, 1-5	GUT	mae Nghymraeg i yn gwella	---	NSNT
+
+
+14, 1	49, 2-4	NER	mae yn swnio	---	NSNT
+
+
+15, 1	50, 2-3	GUT	mae gweithio	---	NSNT
+
+
+16, 1	51, 1-6	NER	gweithio drwy gyfrwng Gymraeg yn helpu	---	NSNT
+
+
+17, 1	52, 1-11	GUT	*well* dw gorod wneud *lot* o pethau drwy gyfrwng y Gymraeg	---	NST
+
+
+18, 1	53, 1-7	NER	dw i wneud pob_dim trwy gyfrwng Saesneg	NSNT	NSNT
+18, 2	53, 8-8	NER	yli	---	NSNT
+
+
+19, 1	54, 1-4	GUT	*well* *yeah* yn hollol	NST	NST
+19, 2	55, 1-7	GUT	dyna pam ti swnio fath â scally	SNT	SNT
+19, 4	57, 1-2	GUT	wedyn *um*	ST	NST
+19, 6	59, 1-1	GUT	anyway	SNT	NSNT
+19, 7	60, 1-11	GUT	mae Nghymraeg i yn gwella yn yr ystyr bod fi yn	NSNT	NSNT
+19, 8	61, 1-3	GUT	*well* dw i	NST	NST
+19, 9	61, 4-15	GUT	dw i sgwennu *case* *notes* yn Gymraeg neu nodiadau achos yn Gymraeg	NST	NST
+19, 11	63, 1-7	GUT	dw i yn sgwennu adroddiadau yn Gymraeg	NSNT	NSNT
+19, 12	64, 1-6	GUT	dw i sgwennu asesiadau yn Gymraeg	NSNT	NSNT
+19, 13	66, 1-1	GUT	adolygiadau	---	NSNT
+
+
+20, 1	67, 1-4	NER	pob_dim trwy Saesneg really	SNT	SNT
+20, 2	69, 1-4	NER	*er* mae wneud gwahaniaeth	---	NST
+
+
+21, 1	70, 1-4	GUT	*oh* er dw i	NST	NST
+21, 2	70, 5-10	GUT	os mae yr *client* yn Saesneg	NST	NST
+21, 3	70, 11-12	GUT	wna i	NSNT	NSNT
+21, 4	70, 13-18	GUT	wna i yr gwaith trwy Saesneg	NSNT	NSNT
+21, 5	71, 1-7	GUT	ond mae *lot* o *client* yn Gymraeg	---	NST
+
+
+22, 1	72, 1-3	NER	*oh* *yeah* *sure*	---	NST
+
+
+23, 1	73, 1-5	GUT	*so* ni yn trio cadw	NST	NST
+23, 2	74, 1-10	GUT	mae yna *bolicy* iaith cry *er* *er* yn yn *Gaernarfon*	NST	NST
+23, 3	74, 11-11	GUT	yli	NSNT	NSNT
+23, 4	75, 1-4	GUT	cryfa yng Nghymru de	NSNT	NSNT
+23, 5	76, 1-5	GUT	*lot* gwell na Sir_Fôn de	NST	NST
+23, 6	79, 1-4	GUT	*yeah* maen nhw yn	NST	NST
+23, 7	79, 5-14	GUT	maen nhw yn keen iawn ar y Gymraeg yn *Gaernarfon*	NST	ST
+23, 8	81, 1-6	GUT	mae rei mwy keen na ei_gilydd	NSNT	SNT
+23, 9	82, 1-4	GUT	mae rei yn ofnadwy	NSNT	NSNT
+23, 10	83, 1-4	GUT	mae rei yn eithafol	NSNT	NSNT
+23, 11	84, 1-3	GUT	mae rei yn	NSNT	NSNT
+23, 12	84, 4-7	GUT	timod Welsh Nationalists ffyrnig	NSNT	SNT
+23, 13	84, 8-10	GUT	baswn i ddeud	NSNT	NSNT
+23, 14	85, 1-5	GUT	gobeithio bod hyn yn confidential	SNT	SNT
+23, 16	87, 1-3	GUT	ond *um* na	NST	NST
+23, 17	88, 1-7	GUT	mae wneud byd o les i mi	NSNT	NSNT
+23, 18	90, 1-5	GUT	dw i mwynhau yr gwaith	NSNT	NSNT
+23, 19	91, 1-2	GUT	ond mae	NSNT	NSNT
+23, 20	91, 3-3	GUT	yr	NSNT	NSNT
+23, 21	91, 4-8	GUT	mae braidd yn ormodol weithiau	NSNT	NSNT
+23, 22	92, 1-8	GUT	ddes i weld *Adam_Adams* *college* *tutor* ychydig yn_ôl	NST	NST
+23, 23	93, 1-11	GUT	a fel wnes i sylwi llyfr ar ei shelf o *The_Crisis_of_Local_Authorities*	NST	ST
+23, 24	94, 1-8	GUT	*so* o'n i meddwl i fi yn hun	ST	NST
+23, 25	95, 1-3	GUT	how *very* apt	NST	NST
+23, 26	96, 1-14	GUT	because *er* mae yna dipyn o *grisis* yna in terms of *er* human resources	ST	ST
+23, 27	97, 1-14	GUT	*team* ni er enghraifft oedd yna fod yna dri social worker a ddim dau	NST	ST
+23, 29	98, 23-25	GUT	ddylwn i ddeud	SNT	NSNT
+23, 30	99, 1-6	GUT	anyway mae hynna swnio contrived wan	NSNT	SNT
+23, 31	100, 1-6	GUT	wna i siarad *Wenglish* eto *yeah*	---	NST
+
+
+23, 33	102, 1-7	GUT	deuda di am dy waith di ta	NSNT	NSNT
+24, 2	103, 24-25	NER	nag wyt	NSNT	NSNT
+24, 3	104, 1-4	NER	mae hynna yn rywbeth	NSNT	NSNT
+24, 4	104, 5-5	NER	dydy	NSNT	NSNT
+24, 5	106, 1-3	NER	a mae well	NSNT	NSNT
+24, 6	106, 4-7	NER	mae well ers dipyn	NSNT	NSNT
+24, 7	107, 1-3	NER	oedd yr hogyn	NSNT	NSNT
+24, 8	107, 4-16	NER	oedden ni yn gweithio efo ddwytha creadur bach *um* ddipyn o llond llaw	NST	NST
+24, 9	109, 1-18	NER	o'n i yn o'n i yn cael *lot* o o'n i yn cael swaden yn aml adeg hynny	NST	NST
+24, 10	110, 1-3	NER	ond oedden ni	NSNT	NSNT
+24, 11	110, 4-5	NER	oedden ni	NSNT	NSNT
+24, 12	110, 6-10	NER	wnes i dechrau deud gynnau	NSNT	NSNT
+24, 13	111, 1-9	NER	oedden ni wedi wneud yr yr yr functional analysis	SNT	SNT
+24, 14	111, 10-14	NER	mae yn cael ei alw	NSNT	NSNT
+24, 15	113, 1-12	NER	lle wyt ti yn *um* trio *um* copïo kind of sefyllfaoedd naturiol	NST	ST
+24, 16	113, 13-19	NER	sy yn digwydd ym mywyd y plentyn	NSNT	NSNT
+24, 17	113, 20-24	NER	dan ni yn gweithio efo	NSNT	NSNT
+24, 18	116, 1-10	NER	i trio weld os mae yna rywbeth os yna *er*	NST	NST
+24, 19	117, 1-3	NER	mae o yn	NSNT	NSNT
+24, 20	117, 4-10	NER	mae o yn medru attack_io yn ofnadwy	NSNT	SNT
+24, 21	117, 11-11	NER	tydy	---	NSNT
+
+
+25, 1	118, 1-2	GUT	ymosod *yeah*	---	NST
+
+
+26, 1	120, 1-12	NER	a er enghraifft i i yr pwynt lle oedd yna un hogan	NSNT	NSNT
+26, 2	121, 1-6	NER	mae un hogan *off* dal *off*	NST	NST
+26, 3	123, 1-6	NER	mae wedi brathu llaw hi nes	NSNT	NSNT
+26, 4	123, 7-13	NER	mae wedi cael fracture yn ei llaw	NSNT	SNT
+26, 5	125, 1-4	NER	*so* mae o yn	NST	NST
+26, 6	126, 1-9	NER	a hefyd mae o medru brifo *er* *er* attack_io	ST	ST
+26, 7	126, 10-13	NER	ei hun yn ofnadwy	NSNT	NSNT
+26, 8	126, 14-14	NER	dydy	SNT	NSNT
+26, 9	127, 1-3	NER	self_injury ofnadwy erchyll	NSNT	SNT
+26, 10	129, 1-9	NER	wedyn maen nhw yn trio wneud y *study* yma	NST	NST
+26, 11	129, 10-11	NER	lle mae	NSNT	NSNT
+26, 12	129, 12-18	NER	lle dan ni yn trio ffeindio os	NSNT	NSNT
+26, 13	129, 19-35	NER	os mae yna rywbeth heblaw ei environment o yn achosi yr self_injury a yr a yr attack_io	SNT	SNT
+26, 14	132, 1-2	NER	neu ymosod	NSNT	NSNT
+26, 15	134, 1-9	NER	a oedd yna fath â un o yr pethau	NSNT	NSNT
+26, 16	134, 10-14	NER	oedd rywun yn teimlo o_blaen	NSNT	NSNT
+26, 17	134, 15-21	NER	oedd yn medru achosi yr ymosod yma	NSNT	NSNT
+26, 18	134, 24-26	NER	pan fyddai fo	NSNT	NSNT
+26, 19	134, 27-33	NER	fydda chdi yn demand_io rywbeth ohono fo	NSNT	SNT
+26, 20	135, 1-3	NER	*so* os fyddai	NST	NST
+26, 21	135, 4-10	NER	fasai yr demand yn ry ry fawr	NSNT	SNT
+26, 22	135, 11-14	NER	fasai fo methu cope_io	SNT	SNT
+26, 23	137, 1-3	NER	fasai methu deud	NSNT	NSNT
+26, 24	139, 1-7	NER	*oh* mae yr demand yma ry fawr	NST	ST
+26, 25	140, 1-4	NER	fasai fo yn attack_io	SNT	SNT
+26, 26	142, 1-2	NER	*so* byddai	NST	NST
+26, 27	143, 1-1	NER	dyna	NSNT	NSNT
+26, 28	143, 2-3	NER	oedd un	NSNT	NSNT
+26, 29	144, 1-4	NER	un arall oedd wrth	NSNT	NSNT
+26, 30	144, 5-16	NER	bod gynno fo ddim iaith *um* un o un o yr sefyllfaoedd	NST	NST
+26, 31	144, 18-18	NER	bod	NSNT	NSNT
+26, 32	144, 19-29	NER	bod yna rywun yn siarad ato fo am bum munud non_stop	---	SNT
+
+
+27, 1	146, 1-2	GUT	*oh* dyna	NST	NST
+27, 2	146, 3-9	GUT	be oedda chdi ddeud wrth *Deb* wan	---	NST
+
+
+28, 1	148, 1-9	NER	a weld os os mae hynna medru achosi ymosod	NSNT	NSNT
+28, 2	150, 1-5	NER	a ac oedd hynna weld	NSNT	NSNT
+28, 3	150, 6-9	NER	petasai fo yn medru	NSNT	NSNT
+28, 4	153, 1-4	NER	a *so* gwahanol sefyllfaoedd	---	NST
+
+
+29, 1	154, 1-7	GUT	*so* chwilio am y *triggers* mewn ffordd	---	NST
+
+
+30, 1	155, 1-5	NER	*yeah* be oedd y *triggers*	NST	NST
+30, 2	157, 1-15	NER	ond *so* i weld os mae yna fath â environmental *triggers* ta *er* rywbeth biological	ST	ST
+30, 3	157, 16-17	NER	ydy o	NSNT	NSNT
+30, 4	159, 1-2	NER	*so* dyna	NST	NST
+30, 5	159, 3-9	NER	be dan ni wneud ar y funud	NSNT	NSNT
+30, 6	160, 1-3	NER	ond dydy *yeah*	NST	NST
+30, 7	160, 4-8	NER	ond mae o yn iawn	NSNT	NSNT
+30, 8	161, 1-2	NER	ond baswn	NSNT	NSNT
+30, 9	161, 3-9	NER	basai well gen i fod adre though	SNT	SNT
+30, 10	161, 10-10	NER	bysai	NSNT	NSNT
+30, 11	162, 1-1	NER	dyna	NSNT	NSNT
+30, 12	162, 2-4	NER	ydy yr peth	NSNT	NSNT
+30, 13	163, 1-5	NER	ond mae o yn iawn	NSNT	NSNT
+30, 14	165, 1-3	NER	mae yn iawn	---	NSNT
+
+
+31, 1	166, 1-7	GUT	ia *matter* *matter* o raid ydy o	---	NST
+
+
+32, 1	167, 1-7	NER	*well* dw i ddim yn gwybod gymaint	NST	NST
+32, 2	168, 1-4	NER	*er* gawn ni weld	NST	NST
+32, 3	170, 1-10	NER	achos dim *matter* o raid gymaint yn y *sense* that	---	ST
+
+
+33, 1	171, 1-13	GUT	*well* ti isio cael cadw dy career yn fyw hefyd does i raddau	NST	ST
+33, 2	171, 14-14	GUT	does	NSNT	NSNT
+33, 3	172, 1-4	GUT	ti isio cario ymlaen	NSNT	NSNT
+33, 4	173, 1-11	GUT	nag oes ta ti ddim yn fussed am hynna dim mwy	---	SNT
+
+
+34, 1	174, 1-7	NER	*well* basai well gyn i fod adre	---	NST
+
+
+35, 1	175, 1-9	GUT	ia *oh* *just* yn wraig ac yn fam felly	---	NST
+
+
+36, 1	176, 1-4	NER	ond mae yna ddigon	NSNT	NSNT
+36, 2	177, 2-2	NER	fedri	---	NSNT
+
+
+37, 1	178, 1-6	GUT	mae gen ti gymaint i gynnig	NSNT	NSNT
+37, 2	178, 7-7	GUT	does	NSNT	NSNT
+37, 3	179, 1-1	GUT	tibod	---	NSNT
+
+
+38, 1	180, 1-3	NER	*yeah* fedri di	NST	NST
+38, 2	180, 4-5	NER	fedri di	---	NSNT
+
+
+39, 1	181, 1-6	GUT	ar un adeg oedda chdi sôn	NSNT	NSNT
+39, 2	181, 7-16	GUT	am bod yn educational psychologist neu seicoloegwr neu seicolegwraig addysgol	---	SNT
+
+
+40, 1	182, 1-5	NER	na seicolegydd baset ti ddeud	---	NSNT
+
+
+41, 1	183, 1-3	GUT	*oh* *sorry* seicolegydd	NST	NST
+41, 3	185, 1-10	GUT	deud y gwir dydy Cymraeg ni mor ddrwg â hynna	NSNT	NSNT
+41, 4	186, 1-10	GUT	*just* diogrwydd ydy o fath â ran fwya bobl Cymraeg	NST	NST
+41, 5	188, 1-1	GUT	naci	---	NSNT
+
+
+42, 1	189, 1-3	NER	na mae yn	NSNT	NSNT
+42, 3	191, 1-7	NER	rwyt ti na ddim fi na uffernol	---	NSNT
+
+
+43, 1	192, 1-1	GUT	*Wenglish*	ST	NST
+43, 2	193, 1-7	GUT	tair iaith de Cymraeg Saesneg a *Wenglish*	---	NST
+
+
+44, 1	194, 1-9	NER	*yeah* ond dw i wedi symud o yma ers	NST	NST
+44, 2	194, 10-15	NER	bod fi yn eighteen yn_do yn_do	NSNT	SNT
+44, 3	195, 1-2	NER	dw i	NSNT	NSNT
+44, 4	197, 1-2	NER	do tibod	SNT	NSNT
+44, 5	199, 1-1	NER	*so*	---	NST
+
+
+45, 1	200, 1-11	GUT	ond *um* be mae yr bobl yma isio ni wneud really	ST	ST
+45, 2	200, 12-14	GUT	ydy siarad fel	NSNT	NSNT
+45, 3	200, 15-18	GUT	dan ni siarad adre	NSNT	NSNT
+45, 4	200, 19-21	GUT	de efo ein_gilydd	---	NSNT
+
+
+46, 1	201, 1-4	NER	*well* dw i yn	NST	NST
+46, 2	202, 1-1	NER	dyna	NSNT	NSNT
+46, 3	202, 2-4	NER	dw i wneud	---	NSNT
+
+
+47, 1	203, 1-3	GUT	*yeah* a dyna	NST	NST
+47, 2	203, 4-7	GUT	be dw i wneud	SNT	NSNT
+47, 3	203, 8-9	GUT	I *suppose*	ST	NST
+47, 5	206, 1-2	GUT	ond *um*	NST	NST
+47, 7	208, 1-20	GUT	*so* ar y cyfan ti yn teimlo basai well gen ti fod yn fam ac yn ac yn *er* wraig	---	NST
+
+
+48, 1	209, 1-12	NER	ew ti byth yn gofyn cwestiynau fel hyn fi fel arfer *Guto*	NST	NST
+48, 3	212, 1-1	NER	yndw	NSNT	NSNT
+48, 4	212, 2-4	NER	a mae *Anna*	NST	NST
+48, 5	212, 5-8	NER	aethon ni i hi	SNT	NSNT
+48, 6	213, 1-2	NER	*oh* God	ST	NST
+48, 7	214, 1-10	NER	mae iaith hi yn dod yn ei blaen yn wych	NSNT	NSNT
+48, 8	216, 2-9	NER	aethon ni i *Ti_a_Fi* heddiw *Auntie* *Mary* *sorry*	NST	NST
+48, 9	216, 10-17	NER	mae yn gael ei alw yn yn *Mynydd_Llandygai*	NST	NST
+48, 10	218, 1-4	NER	*oh* mae mor lovely	ST	ST
+48, 11	219, 1-6	NER	*yeah* mae plant arall yn mynd	NST	NST
+48, 12	221, 1-2	NER	ond timod	NSNT	NSNT
+48, 13	221, 3-5	NER	be wnaeth hi	SNT	NSNT
+48, 14	222, 1-3	NER	*oh* my goodness	ST	NST
+48, 15	223, 1-6	NER	oedd hi chwarae yn y tywod	NSNT	NSNT
+48, 16	224, 1-6	NER	a oedd yna hogyn bach yma	NSNT	NSNT
+48, 17	225, 1-5	NER	*um* dim bod yn annifyr	NST	NST
+48, 18	225, 6-7	NER	oedd hi	NSNT	NSNT
+48, 19	226, 1-2	NER	ond be	NSNT	NSNT
+48, 20	227, 1-11	NER	achos dw i yn gadael iddi gael dipyn *lot* o ryddid	NST	NST
+48, 21	227, 12-14	NER	dydw really tra	NSNT	SNT
+48, 22	227, 15-18	NER	dw i fath â	NSNT	NSNT
+48, 23	228, 1-2	NER	mae yna	NSNT	NSNT
+48, 24	228, 3-5	NER	mae yna rei	NSNT	NSNT
+48, 25	228, 6-10	NER	dw i gweld rei mamau	NSNT	NSNT
+48, 26	229, 1-10	NER	maen nhw really kind of hung up ar fath â	NSNT	SNT
+48, 27	230, 2-6	NER	os maen nhw yn peintio	NSNT	NSNT
+48, 28	231, 1-9	NER	achos *er* wrth_gwrs cefndir fi ydy mewn celf hefyd	NST	NST
+48, 29	233, 1-2	NER	*so* timod	NST	NST
+48, 30	233, 3-4	NER	os mae	NSNT	NSNT
+48, 31	233, 5-15	NER	os mae rywun yn wneud gwaith peintio efo efo plant *yeah*	NST	NST
+48, 32	233, 16-25	NER	maen nhw yn cael fath â pishyn bach o bapur	NSNT	NSNT
+48, 33	233, 26-39	NER	a mae yn wneud dipyn bach o beintio wedyn cadw yr paent yn dwt	NSNT	NSNT
+48, 34	234, 1-3	NER	a dyna o	NSNT	NSNT
+48, 35	236, 1-9	NER	a wedyn dan ni yn peintio ym bob man	NSNT	NSNT
+48, 36	236, 10-10	NER	dydan	NSNT	NSNT
+48, 37	238, 1-3	NER	fi a *Anna*	NST	NST
+48, 38	241, 1-11	NER	a hefyd fath â pan dan ni yn wneud gwaith clai	NSNT	NSNT
+48, 39	241, 12-25	NER	dan ni dim *just* dod â ryw rowlyn bach o glai allan a *well*	NST	NST
+48, 40	241, 26-28	NER	dyna o felly	NSNT	NSNT
+48, 41	242, 1-17	NER	dw i yn dod â homer o *bot* allan a powndio yr clai a *blah* *blah* *blah*	NST	NST
+48, 42	242, 18-19	NER	mae o	NSNT	NSNT
+48, 43	245, 1-4	NER	a anyway oedd hi	NSNT	SNT
+48, 44	245, 5-12	NER	oedd hi yn yn chwarae yn y tywod	NSNT	NSNT
+48, 45	246, 1-5	NER	wedyn dim bod yn annifyr	NSNT	NSNT
+48, 46	246, 6-7	NER	oedd hi	NSNT	NSNT
+48, 47	247, 1-12	NER	ond dyma hi yn *just* dechrau fling_io yr tywod i bob man	ST	ST
+48, 49	249, 1-3	NER	*oh* my God	ST	NST
+48, 50	250, 1-6	NER	dyma hi yn gael gafael ar	NSNT	NSNT
+48, 51	251, 1-5	NER	a dim bod yn annifyr	NSNT	NSNT
+48, 52	252, 1-9	NER	mae yn gafael ar rhawiaid o tywod tywod soft	SNT	SNT
+48, 53	252, 11-22	NER	sych ofnadwy a roi *fling* iddo fo dros yr hogyn bach yma	NST	NST
+48, 54	253, 1-4	NER	o'n i fath â	SNT	NSNT
+48, 55	254, 1-2	NER	*oh* *Norah*	---	NST
+
+
+49, 1	255, 1-4	GUT	fel yna mae plant	---	NSNT
+
+
+50, 1	256, 1-6	NER	*yeah* ond a *yeah* ond digwydd	NST	NST
+50, 2	256, 7-15	NER	bod yr hogyn bach yma efo *phobia* am dywod	---	NST
+
+
+51, 1	257, 1-2	GUT	*oh* God	ST	NST
+51, 2	258, 1-3	GUT	*oh* wela i	---	NST
+
+
+52, 1	259, 1-5	NER	*so* oedd o yn iawn	---	NST
+
+
+53, 1	260, 1-7	GUT	*well* mae yna rywbeth yn ddireidus yni	NST	NST
+53, 2	260, 8-8	GUT	does	NSNT	NSNT
+53, 3	262, 1-4	GUT	deud y gwir does	NSNT	NSNT
+53, 4	264, 1-2	GUT	mae yna	NSNT	NSNT
+53, 5	264, 3-3	GUT	does	---	NSNT
+
+
+54, 1	265, 2-4	NER	mae yna gymeriad	---	NSNT
+
+
+55, 1	266, 1-2	GUT	a mae	NSNT	NSNT
+55, 2	266, 3-3	GUT	mae	NSNT	NSNT
+55, 3	266, 4-8	GUT	mae chwerthin yn ddrwg weithiau	NSNT	NSNT
+55, 4	266, 9-9	GUT	dydy	---	NSNT
+
+
+56, 1	267, 2-6	NER	a mae yna gymeriad cry	---	NSNT
+
+
+57, 1	268, 1-5	GUT	ryw cackle bach felly de	---	SNT
+
+
+58, 1	271, 1-2	NER	es i	NSNT	NSNT
+58, 2	271, 3-3	NER	â	---	NSNT
+
+
+59, 1	272, 1-4	GUT	fydd hi yn gymeriad	NSNT	NSNT
+59, 2	273, 1-6	GUT	fydd hi yn uffar o gymeriad	NSNT	NSNT
+59, 3	273, 7-11	GUT	pan wneith hi dyfu fyny	NSNT	NSNT
+59, 4	275, 1-3	GUT	dw i meddwl	---	NSNT
+
+
+60, 1	277, 1-7	NER	es i â hi *um* weld homeopath	ST	ST
+60, 2	277, 8-10	NER	do dipyn yn_ôl	NSNT	NSNT
+60, 3	278, 1-7	NER	achos pan mae yn cael dodgy tummy	---	SNT
+
+
+61, 1	279, 1-5	GUT	homeopath *er* *oh* *yeah* *yeah*	---	NST
+
+
+62, 1	280, 1-20	NER	a dyma o'n i yn gorod o'n i o'n i gorod treulio tua tua awr a disgrifio ei phersonoliaeth hi	NSNT	NSNT
+62, 2	282, 1-19	NER	a *um* *so* os deuda bod os os gynni hi fath â gwendid yn ei yn ei stumog deuda	NST	NST
+62, 3	283, 1-6	NER	pan mae hi yn cael yn	NSNT	NSNT
+62, 4	283, 7-13	NER	pan mae hi yn cael yn *upset*	NST	NST
+62, 6	287, 1-4	NER	ond oedd o yn	NSNT	NSNT
+62, 7	287, 5-10	NER	oedd o yn deud *um* *er*	NST	NST
+62, 8	287, 11-20	NER	oedd o yn disgrifio fath â personality *type* hi felly	NST	ST
+62, 9	289, 1-7	NER	a bod hi yn *er* a a	NST	NST
+62, 10	289, 8-10	NER	be fasai fo	NSNT	NSNT
+62, 11	289, 11-16	NER	roid iddi hi fel triniaeth triniaeth	NSNT	NSNT
+62, 12	289, 17-23	NER	pan fasai yn gael ei *bouts* yma	NST	NST
+62, 13	289, 24-25	NER	fasai *phosphorus*	NST	NST
+62, 14	291, 1-14	NER	ac i i *um* i blant bach wnaeth o ddeud i quote_io fo felly	NST	ST
+62, 15	291, 15-17	NER	wnaeth o ddeud	SNT	NSNT
+62, 16	292, 1-3	NER	*er* they are	NST	NST
+62, 17	292, 4-7	NER	they are a delight	NSNT	NSNT
+62, 18	293, 1-5	NER	*phosphorus* children are a delight	ST	NST
+62, 19	294, 1-8	NER	achos maen nhw *just* mor fath â llawn	---	NST
+
+
+63, 1	295, 1-2	GUT	*phosphorus* children	---	NST
+
+
+64, 1	296, 1-2	NER	*well* mae	NST	NST
+64, 2	296, 3-3	NER	dyna	NSNT	NSNT
+64, 3	296, 4-5	NER	sut mae	NSNT	NSNT
+64, 4	297, 1-8	NER	dw ddim yn really gwybod llawer amdan *homeopathy*	NST	ST
+64, 5	298, 1-8	NER	ond basically dw meddwl ti yn sbïo ar	NSNT	SNT
+64, 6	300, 1-13	NER	ti yn sbïo ar y plentyn neu ar y ar y *person* holistically	ST	ST
+64, 7	301, 1-10	NER	*so* ti yn sbïo ar pan ti os os mae	NST	NST
+64, 8	301, 11-28	NER	os mae yna rywbeth yn *matter* efo nhw ti yn sbïo ar eu personoliaeth nhw *um* i weld	NST	NST
+64, 9	301, 29-38	NER	timod sut sut i i trin eu afiechyd nhw hyd_yn_oed	NSNT	NSNT
+64, 10	301, 39-45	NER	os mae yr afiechyd yn physical felly	NSNT	SNT
+64, 11	305, 1-8	NER	a *so* *so* mae yna fath â *types*	NST	NST
+64, 12	306, 1-10	NER	ti yn sbïo ar sut *type* o *berson* wyt ti	---	NST
+
+
+65, 1	307, 1-11	GUT	*oh* ti wedi sôn am hyn o_blaen dw meddwl *yeah* *yeah*	ST	NST
+65, 2	309, 1-3	GUT	anyway *phosphorus* fasai	NST	ST
+65, 3	309, 4-6	GUT	oedd o yn	NSNT	NSNT
+65, 4	309, 7-12	GUT	oedd o yn awgrymu iddi hi	---	NSNT
+
+
+66, 1	310, 1-4	NER	a i i *um*	NST	NST
+66, 2	311, 1-2	NER	dw meddwl	NSNT	NSNT
+66, 3	311, 3-5	NER	wnaeth o ddeud	SNT	NSNT
+66, 4	312, 1-6	NER	if if she's a *phosphorus* child	ST	NST
+66, 5	313, 1-9	NER	achos toedd hi cau mynd i_fewn ato fo yli	NSNT	NSNT
+66, 6	314, 1-2	NER	mae mor	NSNT	NSNT
+66, 7	314, 4-6	NER	mae yn *person*	NST	NST
+66, 8	314, 7-20	NER	oedd hi yn adamant toedd hi ddim yn mynd i_fewn at y *doctor* yma	NST	ST
+66, 9	315, 1-6	NER	*so* o'n i yn *just* gorod	NST	NST
+66, 10	316, 1-7	NER	*so* wnaeth o ddim observe_io hi o_gwbl	NST	ST
+66, 11	318, 1-3	NER	a wnaeth hi	NSNT	NSNT
+66, 12	318, 4-11	NER	wnaeth o ddeud *um* na *er* *phosphorus* child	ST	ST
+66, 13	318, 12-13	NER	oedd hi	NSNT	NSNT
+66, 14	319, 1-4	NER	a mae yn deud	NSNT	NSNT
+66, 15	319, 5-8	NER	bod nhw yn delight	SNT	SNT
+66, 16	319, 9-19	NER	a bod nhw yn ofnadwy o greadigol ofnadwy o expressive ofnadwy	NSNT	SNT
+66, 17	320, 1-14	NER	achos o'n i yn deud sut mae hi *er* efo ei *er* dawnsio a	---	NST
+
+
+67, 1	321, 1-5	GUT	*yeah* fedri *yeah* fel yna	NST	NST
+67, 2	321, 6-7	GUT	mae *yeah*	---	NST
+
+
+68, 1	322, 1-7	NER	symudiadau mawr felly a *er* gwyneb hi	NST	NST
+68, 2	325, 1-5	NER	gwneud symudiadau expressive ofnadwy tydy	---	SNT
+
+
+69, 1	327, 1-2	GUT	*yeah* mae	NST	NST
+69, 2	327, 3-4	GUT	mae yn	NSNT	NSNT
+69, 3	327, 5-11	GUT	mae yn anhygoel yn yr ystyr yna	NSNT	NSNT
+69, 4	327, 12-12	GUT	dydy	---	NSNT
+
+
+70, 1	329, 1-3	NER	*so* *yeah* *so*	ST	NST
+70, 2	330, 1-2	NER	a mae	NSNT	NSNT
+70, 3	330, 3-3	NER	mae	NSNT	NSNT
+70, 4	330, 4-17	NER	mae iaith hi yn dod yn ei blaen yn really da Saesneg a Cymraeg	---	SNT
+
+
+71, 1	332, 1-10	GUT	*well* dipyn o gamp tyfu fyny efo dwy iaith dydy	NST	NST
+71, 3	334, 1-4	GUT	mae dipyn o gamp	---	NSNT
+
+
+72, 1	335, 1-4	NER	baswn i yn deud	NSNT	NSNT
+72, 2	335, 5-6	NER	mae ella	---	NSNT
+
+
+73, 1	336, 1-6	GUT	mae fod i helpu di *well*	NST	NST
+73, 2	336, 7-12	GUT	mae fod i helpu chdi cognitively	SNT	SNT
+73, 3	337, 1-8	GUT	mae fod i ymestyn dy feddwl di a	SNT	NSNT
+73, 4	339, 1-15	GUT	*well* apparently *well* apparently *um* mae monolingual pobl monolingual yn minority bach yn y byd	NST	ST
+73, 5	340, 1-11	GUT	mae ran fwya o bobl y byd yn siarad dwy iaith	NSNT	NSNT
+73, 6	341, 1-6	GUT	*so* ni ydy yr *norm* really	ST	ST
+73, 7	342, 1-8	GUT	*so* dan ni ddim yn mor unusual â	NST	ST
+73, 8	342, 9-12	GUT	dan ni licio meddwl	NSNT	NSNT
+73, 9	342, 13-15	GUT	bod ni tibod	NSNT	NSNT
+73, 10	344, 1-1	GUT	tibod	SNT	NSNT
+73, 11	345, 1-9	GUT	anyway moving swiftly on *back* on the *ranch* de	---	ST
+
+
+74, 1	346, 1-4	NER	*oh* yr granny annexe	ST	ST
+74, 4	350, 1-7	NER	mae o mynd i gael ei wneud	NSNT	NSNT
+74, 5	352, 1-8	NER	mae o yn mynd i gael ei wneud	---	NSNT
+
+
+75, 1	353, 1-7	GUT	because *er* dw i isio gadael *Aberffraw*	NST	ST
+75, 3	355, 1-5	GUT	dw i isio gadael Sir_Fôn	NSNT	NSNT
+75, 4	356, 1-9	GUT	dw i isio cael y Menai_Straits rhwng fi a	---	SNT
+
+
+76, 1	357, 1-6	NER	*yeah* a dy a dy frawd	---	NST
+
+
+77, 1	358, 1-3	GUT	a mrawd *yeah*	ST	NST
+77, 2	359, 1-6	GUT	anyway the less said the better	NSNT	NSNT
+77, 4	361, 1-3	GUT	*so* basically ynteu	NST	ST
+77, 5	361, 4-8	GUT	dan ni am gael *um*	---	NST
+
+
+78, 1	362, 1-5	NER	y peth cynta ydy yr	---	NSNT
+
+
+79, 1	363, 1-7	GUT	ryw fath o *Tardis* *effect* trwyddo *yeah*	ST	NST
+79, 3	365, 1-19	GUT	because *er* no way fedri di gael *cooker* fridge shower wash_basin *sink* yn y cwt bach yma yn cefn	ST	ST
+79, 6	368, 1-1	GUT	surely	---	NSNT
+
+
+80, 1	371, 1-3	NER	ti isio *bet*	---	NST
+
+
+81, 1	373, 1-6	GUT	mae *music* *Doctor_Who* yn dod i_fewn	ST	NST
+81, 3	375, 1-3	GUT	at some *point*	---	NST
+
+
+82, 1	376, 1-5	NER	dw i yn gweld chdi	NSNT	NSNT
+82, 2	377, 1-8	NER	dw i yn gweld chdi yn amau bob	NSNT	NSNT
+82, 3	377, 9-9	NER	tro	NSNT	NSNT
+82, 4	378, 1-5	NER	ti yn amau yn deud	SNT	NSNT
+82, 5	379, 1-1	NER	*hey*	ST	NST
+82, 6	380, 1-5	NER	ti yn ti yn mynd	NSNT	NSNT
+82, 7	382, 1-4	NER	mae mynd i weithio	NSNT	NSNT
+82, 8	383, 1-5	NER	mynd i fod yn lovely	SNT	SNT
+82, 9	384, 1-6	NER	mae mynd i fod yn lovely	SNT	SNT
+82, 10	385, 1-7	NER	dan ni mynd i codi yr to	NSNT	NSNT
+82, 11	386, 1-7	NER	*so* mae mynd i fod yn uwch	NST	NST
+82, 12	387, 1-4	NER	mae hynna mynd i	NSNT	NSNT
+82, 13	387, 5-10	NER	roid *sense* o space i chdi	---	ST
+
+
+83, 1	388, 1-5	GUT	*well* *sense* o space *yeah*	NST	ST
+83, 2	389, 1-7	GUT	lack of space dal i fodoli fydd	---	SNT
+
+
+84, 1	392, 1-5	NER	a dan ni mynd i	NSNT	NSNT
+84, 2	392, 6-6	NER	roid	---	NSNT
+
+
+85, 1	393, 1-7	GUT	er bod fath â *sardine* at least	ST	ST
+85, 2	393, 8-8	GUT	mae	NSNT	NSNT
+85, 3	393, 9-13	GUT	genna i *sense* o space	ST	ST
+85, 4	394, 1-1	GUT	*great*	---	NST
+
+
+86, 1	397, 1-2	NER	fydd o	NSNT	NSNT
+86, 2	397, 3-6	NER	fydd o yn lovely	---	SNT
+
+
+87, 1	398, 1-3	GUT	it's no *secret*	---	NST
+
+
+88, 1	400, 1-12	NER	a yli codi fyny i yr i yr i yr olygfa gwych	NSNT	NSNT
+88, 2	400, 13-13	NER	sy	---	NSNT
+
+
+89, 1	401, 1-3	GUT	prydferth hardd bendigedig	---	NSNT
+
+
+90, 1	402, 1-2	NER	prydferth hardd	NSNT	NSNT
+90, 2	403, 1-2	NER	dyna chdi	NSNT	NSNT
+90, 3	405, 1-3	NER	sy fan yma	NSNT	NSNT
+90, 4	406, 1-4	NER	a mae yna gitchen	SNT	SNT
+90, 5	406, 5-11	NER	dan ni mynd i roi *porch* bach	NST	NST
+90, 6	406, 12-18	NER	a roid y kitchen yn fan yna	---	SNT
+
+
+91, 1	407, 1-5	GUT	*so* mae yna extension bach	---	ST
+
+
+92, 1	410, 1-8	NER	y *porch* bach a kitchen yn fan yna	---	ST
+
+
+93, 1	411, 1-6	GUT	iawn because be ydy o basically	SNT	SNT
+93, 2	411, 8-17	GUT	dw i ddim isio talu pres i boced ryw complete	SNT	SNT
+93, 3	413, 1-4	GUT	*well* dyn estron basically	ST	ST
+93, 4	413, 5-10	GUT	a timod satisfy_o capitalist needs o	NSNT	SNT
+93, 5	414, 1-3	GUT	dw i isio	NSNT	NSNT
+93, 6	414, 4-18	GUT	os dw i am dalu *rent* i rywun well fi dalu *rent* i nheulu *yeah*	---	NST
+
+
+94, 1	415, 1-6	NER	*oh* paid â poeni am hynna	NST	NST
+94, 2	416, 1-9	NER	bydd yna ddigon o pres yn cael ei dalu	---	NSNT
+
+
+95, 1	417, 1-2	GUT	*well* *yeah*	ST	NST
+95, 2	418, 1-6	GUT	dim ots gen i dalu chi	NSNT	NSNT
+95, 3	419, 1-4	GUT	ond *um* dw i	NST	NST
+95, 4	419, 5-14	GUT	wedi bod yn sbïo ar bedsit yn *Felinheli* er enghraifft	NST	ST
+95, 6	420, 25-36	GUT	dw ddim yn nabod *boy* sydd *just* isio wneud pres ohonof fi	---	NST
+
+
+96, 1	421, 1-3	NER	faint oedd hwnnw	---	NSNT
+
+
+97, 1	422, 1-16	GUT	*so* os dw i am dalu *rent* i rywun well gyn i dalu *rent* i nheulu	NST	NST
+97, 2	422, 17-17	GUT	sy	NSNT	NSNT
+97, 3	422, 18-21	GUT	timod pobl yn hun	NSNT	NSNT
+97, 4	422, 22-23	GUT	de tibod	NSNT	NSNT
+97, 5	424, 1-1	GUT	dyna	NSNT	NSNT
+97, 6	424, 2-3	GUT	ydy rheswm	NSNT	NSNT
+97, 7	424, 4-8	GUT	dw i isio byw yna	SNT	NSNT
+97, 8	425, 1-10	GUT	plus dw i isio lle i fi yn hun basically	---	SNT
+
+
+98, 1	426, 1-5	NER	bysai fo yn *step* stepping_stone	ST	ST
+98, 2	426, 6-6	NER	bysai	---	NSNT
+
+
+99, 1	427, 1-2	GUT	because *um*	NST	NST
+99, 2	428, 1-3	GUT	because dw i	NSNT	SNT
+99, 3	428, 4-11	GUT	bod ry hir wan i fod yn *honest*	NST	NST
+99, 4	429, 1-3	GUT	dw i wedi	---	NSNT
+
+
+100, 1	431, 1-4	NER	basai fo yn stepping_stone	SNT	SNT
+100, 2	431, 5-5	NER	bysai	---	NSNT
+
+
+101, 1	432, 1-2	GUT	ry hir	NSNT	NSNT
+101, 2	433, 1-4	GUT	a dw i meddwl	NSNT	NSNT
+101, 3	433, 5-16	GUT	bod fi wneud mwy o ddrwg na daioni drwy fyw adre because	SNT	SNT
+101, 4	433, 17-28	GUT	mae *lot* o *stress* yn creu rhwng *Adrian* a fi yn ffraeo	NST	NST
+101, 5	434, 1-12	GUT	a petaswn i yn tynnu yn hun allan o yr equation ella	NSNT	SNT
+101, 6	434, 13-22	GUT	basai yna llai o ffraeo a hence llai o *stress*	---	ST
+
+
+102, 1	435, 1-7	NER	dw i dal dal hi gynno fo	NSNT	NSNT
+102, 2	437, 1-5	NER	dw i dal dal hi	---	NSNT
+
+
+103, 1	438, 1-6	GUT	*oh* dw i ddim yn gwybod	NST	NST
+103, 2	439, 1-9	GUT	mae pawb dal hi gynno fo at some *point*	ST	ST
+103, 3	439, 10-12	GUT	dydy bob diwrnod	NSNT	NSNT
+103, 4	441, 1-8	GUT	ond ella daw haul ar fryn yn diwedd	NSNT	NSNT
+103, 5	442, 1-3	GUT	gawn ni weld	---	NSNT
+
+
+104, 1	443, 1-5	NER	*mmm* *er* be ydy yr	---	NST
+
+
+105, 1	444, 1-4	GUT	mae *Mam* yn gweddïo	NST	NST
+105, 2	445, 1-1	GUT	dyna	NSNT	NSNT
+105, 3	445, 2-10	GUT	be mae *Mam* yn wneud *Mam* yn wneud fo	NST	NST
+105, 4	446, 1-4	GUT	bydd raid fi gyfadde	NSNT	NSNT
+105, 5	446, 5-10	GUT	dw i yn gweddïo yn hun	SNT	NSNT
+105, 6	447, 1-6	GUT	because dw i isio pethau wella	SNT	SNT
+105, 7	448, 1-10	GUT	because fedrith pethau ddim aros yr un fath am hir	NSNT	SNT
+105, 8	448, 11-13	GUT	de eto because	SNT	SNT
+105, 9	448, 14-16	GUT	mae too much	SNT	SNT
+105, 10	449, 1-3	GUT	ond dyna o	---	NSNT
+
+
+106, 1	451, 1-4	NER	dw i yn meddwl	NSNT	NSNT
+106, 2	451, 5-9	NER	be ydy *er* yr *plan*	NST	NST
+106, 3	451, 11-16	NER	bod y to yn dod i_ffwrdd	NSNT	NSNT
+106, 4	453, 1-6	NER	a ac yn mynd yn uwch	NSNT	NSNT
+106, 5	455, 1-11	NER	a to newydd yn cael ei roid yn ei le fo	NSNT	NSNT
+106, 6	456, 1-1	NER	dyna	NSNT	NSNT
+106, 7	456, 2-5	NER	ydy yr *plan* gynta	NST	NST
+106, 8	457, 1-10	NER	*so* mae hynna yn gael ei wneud diwedd mis yma	NST	NST
+106, 9	459, 1-17	NER	a wedyn yn y build_up i wedyn cyn Dolig mae o mynd i roi *bathroom* newydd i_fewn	NST	ST
+106, 10	461, 1-4	NER	a roid *partition* *wall*	NST	NST
+106, 11	462, 1-2	NER	a wedyn	---	NSNT
+
+
+107, 1	463, 1-6	GUT	cyn Dolig fydd hyn i_gyd *yeah*	---	NST
+
+
+108, 1	464, 1-3	NER	cyn Dolig *yeah*	---	NST
+
+
+109, 1	465, 1-6	GUT	*well* ro i hand i *Bob*	NST	ST
+109, 2	465, 7-7	GUT	yli	SNT	NSNT
+109, 3	466, 1-2	GUT	because *er*	---	NST
+
+
+110, 1	467, 1-3	NER	fydd rhaid chdi	---	NSNT
+
+
+111, 1	468, 1-10	GUT	bob weekend dw i yn *er* *free* *as* a bird	---	ST
+
+
+112, 1	469, 1-9	NER	ie dydy o ddim isio bod yn wneud o	NSNT	NSNT
+112, 2	470, 2-7	NER	be mae o yn gobeithio wneud	NSNT	NSNT
+112, 3	470, 8-8	NER	yli	NSNT	NSNT
+112, 4	471, 1-3	NER	mae yr joban	NSNT	NSNT
+112, 5	471, 4-4	NER	nesa	NSNT	NSNT
+112, 6	471, 5-7	NER	sy gynno fo	NSNT	NSNT
+112, 7	471, 8-20	NER	mae o mynd i gael rywun arall i_fewn i wneud y rhan gynta	NSNT	NSNT
+112, 8	473, 1-4	NER	achos dw i meddwl	NSNT	NSNT
+112, 9	473, 5-14	NER	mae hynna mynd i safio fo safio pres iddo fo	NSNT	NSNT
+112, 10	474, 1-13	NER	wedyn mae o mynd i fod efo amser i wneud o adeg hynny	NSNT	NSNT
+112, 11	474, 14-14	NER	yli	NSNT	NSNT
+112, 12	476, 1-7	NER	ond gobeithio fydd di fewn cyn Dolig	---	NSNT
+
+
+113, 1	477, 1-3	GUT	*oh* gobeithio de	---	NST
+
+
+114, 1	478, 1-3	NER	*yeah* *well* mae	NST	NST
+114, 2	478, 4-5	NER	mae wneud	SNT	NSNT
+114, 3	479, 1-1	NER	*well*	---	NST
+
+
+115, 1	480, 1-4	GUT	i mi gael bod	NSNT	NSNT
+115, 2	480, 5-7	GUT	dyn yn hun	---	NSNT
+
+
+116, 1	481, 1-1	NER	because	---	NSNT
+
+
+117, 1	482, 2-3	GUT	dw ddim	NSNT	NSNT
+117, 2	482, 4-5	GUT	dydy ddim	NSNT	NSNT
+117, 3	482, 6-9	GUT	dydy o ddim yn	NSNT	NSNT
+117, 4	482, 10-15	GUT	dw i ddim yn teimlo yn	NSNT	NSNT
+117, 5	483, 1-16	GUT	gen i ddim yr un hunan_barch yn byw adre fel ydw i ar hyn o bryd	NSNT	NSNT
+117, 6	485, 1-3	GUT	dydw i ddim	NSNT	NSNT
+117, 7	486, 1-7	GUT	dw ddim yn teimlo yn complete felly	NSNT	SNT
+117, 8	487, 1-6	GUT	neu cyflawn ydy yr gair Cymraeg	---	NSNT
+
+
+118, 1	490, 1-7	NER	na na dydy o ddim yn na	NSNT	NSNT
+118, 2	492, 1-7	NER	dydy o ddim yn wneud daioni chdi	NSNT	NSNT
+118, 3	493, 1-5	NER	na ond ond dyna o	NSNT	NSNT
+118, 4	495, 1-3	NER	dydy o ddim_byd	NSNT	NSNT
+118, 5	496, 1-5	NER	timod dim ots chwaith nac	NSNT	NSNT
+118, 6	497, 1-11	NER	ond ond na *well* y y sefyllfa sy mwy anodd anyway	ST	ST
+118, 7	499, 1-6	NER	*so* na na fydd o yn	NST	NST
+118, 8	499, 7-9	NER	fydd o yn	NSNT	NSNT
+118, 9	499, 10-12	NER	fydd o *nice*	---	NST
+
+
+119, 1	500, 1-4	GUT	a wedyn fydd ti	NSNT	NSNT
+119, 2	500, 5-5	GUT	fydd	NSNT	NSNT
+119, 3	500, 6-12	GUT	fydd di gei di ddod i_fewn cael	NSNT	NSNT
+119, 4	500, 13-27	GUT	mae a a a a am baned am fwyd efo ni a chwarae efo *Anna*	NST	NST
+119, 5	501, 1-5	GUT	*well* na na fydda i	NST	NST
+119, 6	501, 6-10	GUT	fydda i yn hollol annibynnol	---	NSNT
+
+
+120, 1	502, 1-2	NER	na weithiau	NSNT	NSNT
+120, 2	503, 1-3	NER	*yeah* ond basai	NST	NST
+120, 3	504, 1-4	NER	na dw i isio	NSNT	NSNT
+120, 4	505, 1-7	NER	mae *Anna* wrth ei bodd efo chdi	---	NST
+
+
+121, 1	506, 1-8	GUT	*well* *yeah* ddo i fyny weld *Anna* wrth_gwrs	NST	NST
+121, 2	507, 1-15	GUT	ond gewch chi eich bwyd yn fan yma a ga i mwyd yn fan yna	---	NSNT
+
+
+122, 1	508, 1-3	NER	*oh* *yeah* *sure*	---	NST
+
+
+123, 1	509, 1-13	GUT	a mae yn iawn mi invite_io *Chris* neu rywun *round* rhyw noson ella	---	ST
+
+
+124, 1	510, 1-3	NER	*well* yndy *sure*	---	NST
+
+
+125, 1	512, 1-4	GUT	cael ffrindiau *round* weithiau	---	NST
+
+
+126, 1	513, 1-1	NER	*sure*	---	NST
+
+
+127, 1	514, 1-5	GUT	os oes yna le yna	NSNT	NSNT
+127, 3	516, 1-9	GUT	fedra i ddim gael mwy na un neu ddau	NSNT	NSNT
+127, 4	516, 10-10	GUT	fedra	---	NSNT
+
+
+128, 1	517, 1-2	NER	nag ydy	---	NSNT
+
+
+129, 1	518, 1-6	GUT	does yna ddim lle i dri	NSNT	NSNT
+129, 2	518, 7-8	GUT	nag oes	---	NSNT
+
+
+130, 1	519, 1-6	NER	fedri di ddim cael dinner_party yna	---	SNT
+
+
+131, 1	520, 1-6	GUT	*oh* mae yr *phone* yn canu	---	NST
+
+
+132, 1	522, 1-1	NER	*hello*	ST	NST
+132, 2	523, 1-4	NER	*oh* fo fod *off*	---	NST
+
+
+133, 1	524, 1-5	GUT	dw i yn tŷ *Nerys*	NST	NST
+133, 2	525, 1-5	GUT	dw i yn tŷ *Nerys*	NST	NST
+133, 3	526, 1-4	GUT	fydda i adre tua	SNT	NSNT
+133, 4	527, 1-1	GUT	*well*	ST	NST
+133, 5	528, 1-6	GUT	*yeah* fydda i ddim yn hir	NST	NST
+133, 6	530, 1-3	GUT	wnes i ddeud	NSNT	NSNT
+133, 7	530, 4-9	GUT	baswn i adre yn hwyr anyway	SNT	SNT
+133, 8	531, 1-3	GUT	wnes i ddeud	NSNT	NSNT
+133, 9	531, 4-8	GUT	baswn i adre yn hwyr	SNT	NSNT
+133, 10	533, 1-2	GUT	*o_k* *tara*	NST	NST
+133, 11	534, 1-1	GUT	*tara*	NST	NST
+133, 12	535, 1-2	GUT	*yeah* *so*	---	NST
+
+
+134, 1	536, 1-4	NER	be *Adrian* oedd hwnna	---	NST
+
+
+135, 1	537, 1-6	GUT	na *Papa* hwnna father *dear* *Dad*	---	ST
+
+
+136, 1	538, 1-4	NER	oedd o yn gwybod	NSNT	NSNT
+136, 2	538, 5-8	NER	bod ddim yn *sure*	NST	NST
+136, 3	538, 9-11	NER	oedda chdi deud	NSNT	NSNT
+136, 4	540, 1-9	NER	o'ch chdi wedi deud bod chdi am ddod yma	---	NSNT
+
+
+137, 1	541, 1-1	GUT	oeddwn	NSNT	NSNT
+137, 2	542, 1-9	GUT	*well* o'n o'n i wedi deud wrth *Mam* de	NST	NST
+137, 3	543, 1-9	GUT	*oh* dw i gael missed call gyn *Chris* hefyd	---	ST
+
+
+138, 1	545, 1-8	NER	*oh* paid â dechrau ateb dy *phone* wan	---	NST
+
+
+139, 1	546, 1-3	GUT	wna i ddim	NSNT	NSNT
+139, 2	547, 1-7	GUT	*so* be arall fedrwn ni siarad amdan	---	NST
+
+
+140, 1	548, 1-2	NER	*um* *Anna*	---	NST
+
+
+141, 1	549, 1-1	GUT	*well*	ST	NST
+141, 2	550, 1-11	GUT	fedran ni siarad am *Anna* *Anna* *till* the cows come home	ST	ST
+141, 3	551, 1-4	GUT	oes yna rywbeth arall	NSNT	NSNT
+141, 4	553, 1-5	GUT	faint amser sy wedi pasio	---	NSNT
+
+
+142, 1	554, 1-2	NER	ugain munud	---	NSNT
+
+
+143, 1	555, 1-2	GUT	ugain munud	---	NSNT
+
+
+144, 1	556, 1-6	NER	*well* dros dros dw i meddwl	---	NST
+
+
+145, 1	557, 1-7	GUT	*oh* mae yna ugain munud wedi pasio	NST	NST
+145, 2	558, 1-2	GUT	dim bad	---	SNT
+
+
+146, 1	559, 1-4	NER	diolch yn fawr *Guto*	---	NST
+
+
+147, 1	560, 1-5	GUT	*um* gad i mi feddwl	NST	NST
+147, 2	561, 1-4	GUT	be sy rywbeth ddiddorol	NSNT	NSNT
+147, 3	561, 5-10	GUT	sy digwydd i mi ddiweddar yma	NSNT	NSNT
+147, 4	562, 1-9	GUT	*well* dw i dal yn young *free* and single	---	ST
+
+
+148, 1	563, 1-3	NER	*yeah* mae hynna	NST	NST
+148, 2	563, 4-5	NER	mae hynna	---	NSNT
+
+
+149, 1	564, 1-8	GUT	does yna ddim females ar y *scene* o_gwbl	NST	ST
+149, 2	565, 1-2	GUT	maen nhw	---	NSNT
+
+
+150, 1	566, 1-6	NER	na mae hyn yn ddigalon wan	---	NSNT
+
+
+151, 1	567, 1-6	GUT	plenty of fish in the sea	SNT	NSNT
+151, 2	568, 1-2	GUT	medden nhw	NSNT	NSNT
+151, 3	569, 1-7	GUT	ond dw i ddim yn gweld nhw	---	NSNT
+
+
+152, 1	570, 1-2	NER	mae hyn	---	NSNT
+
+
+153, 1	571, 1-5	GUT	dw i mewn môr wahanol	NSNT	NSNT
+153, 2	571, 6-7	GUT	mae raid	SNT	NSNT
+153, 3	572, 1-5	GUT	the dead sea dw i	NSNT	SNT
+153, 4	572, 6-7	GUT	wedi bod	---	NSNT
+
+
+154, 1	574, 1-4	NER	mae hyn yn ddigalon	---	NSNT
+
+
+155, 1	575, 2-3	GUT	dw gwybod	---	NSNT
+
+
+156, 1	576, 1-3	NER	mae hyn yn	NSNT	NSNT
+156, 2	577, 1-6	NER	rhaid chdi sortio hyn allan *Guto*	---	NST
+
+
+157, 1	578, 1-4	GUT	*yeah* dw i gwybod	NST	NST
+157, 2	579, 1-3	GUT	mae yn embarrassing	---	SNT
+
+
+158, 1	580, 1-3	NER	*oh* nag ydy	NST	NST
+158, 2	581, 1-9	NER	na *just* *just* fath â come on wan de	---	ST
+
+
+159, 1	582, 1-4	GUT	*yeah* dw i gwybod	---	NST
+
+
+160, 1	583, 1-3	NER	mae yn amser	---	NSNT
+
+
+161, 1	584, 1-3	GUT	dw ddim gwybod	NSNT	NSNT
+161, 2	585, 1-1	GUT	dydy	NSNT	NSNT
+161, 3	585, 2-4	GUT	dydy yr *um*	NST	NST
+161, 4	585, 5-12	GUT	dydy yr *oomph* ddim gynno fi dim mwy	NST	NST
+161, 5	586, 1-3	GUT	dw ddim gwybod	NSNT	NSNT
+161, 6	587, 1-9	GUT	dw i *sort* of *er* *set* my ways felly	NST	ST
+161, 7	588, 1-4	GUT	fydd raid fi watsiad	---	NSNT
+
+
+162, 1	589, 1-7	NER	fyddi di fath â *Dean* tad *Bob*	NST	NST
+162, 2	592, 1-5	NER	fydd cael llwyth o gŵn	---	NSNT
+
+
+163, 1	593, 1-6	GUT	oedd yna ferched *nice* yn coleg	NST	NST
+163, 2	594, 1-7	GUT	ond ti gwybod sut maen nhw gyd	NSNT	NSNT
+163, 3	595, 1-6	GUT	timod pawb mor i_fewn i gwaith	NSNT	NSNT
+163, 4	596, 1-8	GUT	ti ddim yn meddwl am bethau felly tibod	---	NSNT
+
+
+164, 1	598, 1-4	NER	*oh* ti yn gwybod	---	NST
+
+
+165, 1	599, 1-8	GUT	mae yna ferched *nice* yn yn y gwaith	NST	NST
+165, 2	599, 9-12	GUT	lle dw i wan	NSNT	NSNT
+165, 3	600, 1-7	GUT	ond dw ddim yn bothered deud gwir	---	SNT
+
+
+166, 1	601, 1-3	NER	ti yn gwybod	NSNT	NSNT
+166, 2	602, 1-5	NER	*oh* isio chdi ofyn nhw	NST	NST
+166, 3	603, 1-8	NER	ti isio chdi fynd ofyn nhw allan de	NSNT	NSNT
+166, 4	605, 1-3	NER	isio chdi ofyn	NSNT	NSNT
+166, 5	606, 1-3	NER	rhaid i chdithau	---	NSNT
+
+
+167, 1	607, 1-11	GUT	mae yna *foy* yn gwaith wedi cael cariad ar yr internet	ST	ST
+167, 2	607, 12-12	GUT	sti	---	NSNT
+
+
+168, 1	608, 1-9	NER	*well* dyna o'n i mynd i ddeud wrtha chdi	---	NST
+
+
+169, 1	609, 1-4	GUT	mae hynna yn *sad*	---	NST
+
+
+170, 1	610, 1-2	NER	nac ydy	NSNT	NSNT
+170, 2	610, 3-8	NER	dydy o ddim yn *sad* *Guto*	---	NST
+
+
+171, 1	611, 1-3	GUT	*oh* God yndy	---	ST
+
+
+172, 1	612, 1-6	NER	*Guto* dydy o ddim yn *sad*	NST	NST
+172, 2	613, 2-12	NER	mae hi yn *fine* pan ti yn dy *er* early twenties	---	ST
+
+
+173, 1	614, 1-13	GUT	basai well gen i gael dim cariad o_gwbl na gael cariad ar internet	---	SNT
+
+
+174, 1	615, 1-10	NER	early twenties *o_k* mae pawb yn young *free* and single	ST	ST
+174, 2	616, 1-11	NER	a mae pawb allan pawb un_ai yn coleg neu unrhyw man	NSNT	NSNT
+174, 3	617, 1-4	NER	a pawb yn chwilio	NSNT	NSNT
+174, 4	618, 1-3	NER	a mae yn	NSNT	NSNT
+174, 5	618, 4-8	NER	mae yn hawdd adeg hynny	NSNT	NSNT
+174, 6	619, 1-4	NER	rwyt ti yn cyfarfod	NSNT	NSNT
+174, 7	620, 1-2	NER	mae o	NSNT	NSNT
+174, 8	620, 3-10	NER	mae o yn kind of *er* unspoken rule	ST	ST
+174, 9	621, 1-2	NER	dyna o	NSNT	NSNT
+174, 10	622, 1-6	NER	ti yn mynd i cael cariad	NSNT	NSNT
+174, 11	624, 1-2	NER	ond pan	NSNT	NSNT
+174, 12	625, 1-3	NER	argoel mae hanner	NSNT	NSNT
+174, 13	626, 1-7	NER	timod pan ti yn dy approaching *well*	---	ST
+
+
+175, 1	627, 1-6	GUT	*yeah* *yeah* less said the better	---	NST
+
+
+176, 1	629, 1-2	NER	mae tibod	NSNT	NSNT
+176, 2	629, 3-14	NER	mae rhan fwya o bobl neu *lot* neu *lot* dim rhan fwya	NST	NST
+176, 3	629, 15-18	NER	mae *lot* wedi priodi	NST	NST
+176, 4	630, 1-7	NER	mae *lot* wedi priodi neu efo rywun	NST	NST
+176, 5	633, 1-4	NER	a wedyn tydy o	NSNT	NSNT
+176, 6	634, 1-5	NER	dw i yn nabod loads	SNT	SNT
+176, 7	635, 1-7	NER	timod *Bridget* *um* godmother *Anna* o Chepstow	ST	ST
+176, 8	637, 1-7	NER	brawd hi iawn brawd hi oedd o	NSNT	NSNT
+176, 9	637, 8-18	NER	mae o rywbeth tebyg i oed rywbeth tebyg i oed fi	NSNT	NSNT
+176, 10	637, 19-20	NER	dw meddwl	NSNT	NSNT
+176, 11	639, 1-3	NER	ac oedd o	NSNT	NSNT
+176, 12	639, 4-8	NER	wedi bod yn sengl am	---	NSNT
+
+
+177, 1	640, 1-2	GUT	sengl *yeah*	---	NST
+
+
+178, 1	641, 1-2	NER	am oes	NSNT	NSNT
+178, 2	643, 1-6	NER	a oedd o ddim yn meddwl	NSNT	NSNT
+178, 3	643, 7-12	NER	bod o mynd i gael neb	NSNT	NSNT
+178, 4	644, 1-3	NER	dyna o *la_la*	NST	NST
+178, 5	644, 4-5	NER	dyna o	NSNT	NSNT
+178, 6	645, 1-7	NER	wedyn oedd o wedi mynd ar yr	NSNT	NSNT
+178, 7	646, 1-11	NER	dw i gynno fi yr *um* website address actually i chdi	NST	ST
+178, 8	648, 1-2	NER	*yeah* gwranda	NST	NST
+178, 9	649, 1-1	NER	gwranda	SNT	NSNT
+178, 10	650, 1-7	NER	anyway *so* dyma fo yn cyfarfod hi	NST	ST
+178, 11	651, 1-6	NER	oedd hi o o yr Alban	NSNT	NSNT
+178, 12	653, 1-1	NER	a	---	NSNT
+
+
+179, 1	654, 1-6	GUT	o yr Alban oedd hi *yeah*	NST	NST
+179, 2	656, 1-2	GUT	dim *Scotland*	---	NST
+
+
+180, 1	657, 1-6	NER	ac oedd hi o yr Alban	NSNT	NSNT
+180, 2	658, 1-5	NER	a mi oedd hi yn	SNT	NSNT
+180, 3	659, 1-20	NER	anyway dyma nhw yn ar_ôl dwn i ddim am ar_ôl ar_ôl hyn a hyn o amser dyma nhw yn cyfarfod	NSNT	SNT
+180, 4	660, 1-6	NER	a mi wnaethon nhw ddechrau mynd	NSNT	NSNT
+180, 6	663, 1-5	NER	a maen nhw yn priodi	---	NSNT
+
+
+181, 1	664, 1-2	GUT	good grief	---	NSNT
+
+
+182, 1	665, 1-4	NER	maen nhw yn priodi	NSNT	NSNT
+182, 2	666, 1-12	NER	*um* *boy* dw i yn nabod i_fyny yr lôn yn fan yma	NST	NST
+182, 3	668, 1-4	NER	*um* *boy* dw i	---	NST
+
+
+183, 1	669, 1-3	GUT	internet *job* arall	---	ST
+
+
+184, 1	670, 1-14	NER	na dw i mynd i *baby* gym efo fo efo ei hogyn bach o	NST	ST
+184, 2	672, 1-9	NER	*um* mae o yn adre efo yr hogyn bach	NST	NST
+184, 3	673, 1-10	NER	a mae ei wraig yn gweithio yn actually yn *Agoriad*	---	ST
+
+
+185, 1	674, 1-2	GUT	ie wir	SNT	NSNT
+185, 2	676, 1-5	GUT	*oh* *Dad* it's not *me*	ST	NST
+185, 3	678, 1-3	GUT	dw ddim yn	NSNT	NSNT
+185, 4	678, 4-9	GUT	dw ddim yn licio yr *idea*	---	NST
+
+
+186, 1	679, 1-7	NER	*Guto* toes yna ddim toes yna ddim	NST	NST
+186, 2	680, 1-4	NER	ti yn cofio *o_k*	---	NST
+
+
+187, 1	681, 1-9	GUT	wnes i ddeud wrth y *boy* yma yn gwaith	NST	NST
+187, 2	682, 1-9	GUT	wnes i ddeud wrth y *boy* yma yn gwaith	NST	NST
+187, 3	683, 1-2	GUT	wnes i	NSNT	NSNT
+187, 4	683, 3-6	GUT	wnes i ddim deud	NSNT	NSNT
+187, 5	683, 7-8	GUT	na bod	NSNT	NSNT
+187, 6	683, 9-18	GUT	wnes i ddim ddeud wrtho fo fod o yn *sad*	NST	NST
+187, 7	684, 1-5	GUT	dydy ddim yn *sad* o_gwbl	---	NST
+
+
+188, 1	685, 1-6	NER	tydy o ddim yn *sad* o_gwbl	---	NST
+
+
+189, 1	686, 1-6	GUT	be wnes i ddeud wrtho fo	---	NSNT
+
+
+190, 1	687, 1-5	NER	baswn i yn wneud o	NSNT	NSNT
+190, 2	687, 6-8	NER	petaswn i yn	---	NSNT
+
+
+191, 1	688, 1-2	GUT	oes felly	NSNT	NSNT
+191, 2	689, 1-1	GUT	mae	NSNT	NSNT
+191, 3	689, 2-6	GUT	mae pawb yn wneud o	NSNT	NSNT
+191, 4	689, 7-8	GUT	oes yma	---	NSNT
+
+
+192, 1	690, 1-5	NER	baswn i yn wneud o	---	NSNT
+
+
+193, 1	691, 1-4	GUT	dydy hynna ddim golygu	NSNT	NSNT
+193, 2	691, 5-10	GUT	bod raid i fi wneud o	NSNT	NSNT
+193, 3	691, 11-12	GUT	nag ydy	NSNT	NSNT
+193, 4	692, 1-1	GUT	tibod	---	NSNT
+
+
+194, 1	693, 1-5	NER	baswn i yn wneud o	---	NSNT
+
+
+195, 1	694, 1-6	GUT	dw ddim mor desperate â hynna	---	SNT
+
+
+196, 1	695, 1-1	NER	dydy	NSNT	NSNT
+196, 2	695, 2-5	NER	dydy o ddim yn	NSNT	NSNT
+196, 3	695, 6-8	NER	am bod yn	NSNT	NSNT
+196, 4	695, 9-11	NER	dydy o ddim	---	NSNT
+
+
+197, 1	696, 1-3	GUT	in *fact* de	NST	ST
+197, 2	696, 4-7	GUT	baswn i *right* fodlon	NST	NST
+197, 3	696, 8-16	GUT	de bod ar ben yn hun am weddill yn	---	NSNT
+
+
+198, 1	698, 1-2	NER	*oh* rwtsh	---	NST
+
+
+199, 1	699, 1-7	GUT	because dw i licio cwmni yn hun	NSNT	SNT
+199, 2	700, 1-6	GUT	dw i yn deud wrtha chdi	NSNT	NSNT
+199, 3	701, 1-4	GUT	dw ddim yn fussed	---	SNT
+
+
+200, 1	702, 1-1	NER	rwtsh	---	NSNT
+
+
+201, 1	703, 1-4	GUT	dw ddim yn fussed	---	SNT
+
+
+202, 1	704, 1-1	NER	rwtsh	---	NSNT
+
+
+203, 1	705, 1-4	GUT	ond y drwg ydy	NSNT	NSNT
+203, 2	705, 5-8	GUT	mae pobl yn meddwl	NSNT	NSNT
+203, 3	705, 9-23	GUT	bod chi yn *odd* os ti ar ben dy hun felly yn yr oes hon	---	NST
+
+
+204, 1	706, 1-3	NER	ti wedi darllen	---	NSNT
+
+
+205, 1	707, 1-5	GUT	ti fod efo *partner* tibod	---	NST
+
+
+206, 1	708, 1-4	NER	ti wedi darllen *Bridget_Jones_Diary*	---	NST
+
+
+207, 1	709, 1-10	GUT	*oh* *well* fedra i identify_o efo hwnna deud y gwir	NST	ST
+207, 3	711, 1-1	GUT	tibod	SNT	NSNT
+207, 4	712, 1-6	GUT	anyway anyway siarad am rywbeth arall	---	SNT
+
+
+208, 1	714, 1-3	NER	baset ti isio	NSNT	NSNT
+208, 2	715, 1-6	NER	*well* dw i meddwl dyla chdi	NST	NST
+208, 3	717, 1-3	NER	dw i yn	---	NSNT
+
+
+209, 1	718, 1-4	GUT	dan ni deud gormod	NSNT	NSNT
+209, 2	719, 1-5	GUT	na dan ni yn iawn	NSNT	NSNT
+209, 3	719, 6-6	GUT	dydan	---	NSNT
+
+
+210, 1	720, 1-2	NER	do *sure*	---	NST
+
+
+211, 1	721, 1-2	GUT	anyway *um*	ST	NST
+211, 2	722, 1-7	GUT	*so* ydy yr humidity dal ddrwg yma	NST	ST
+211, 4	724, 1-4	GUT	dw ddim yn gwybod	NSNT	NSNT
+211, 5	724, 5-10	GUT	be ydy gair Cymraeg am humidity	---	SNT
+
+
+212, 1	726, 1-7	NER	ti ddim yn fod i ddeud hwnna	NSNT	NSNT
+212, 2	728, 1-2	NER	*um* mae	NST	NST
+212, 3	729, 1-5	NER	*well* dw ddim yn gwybod	NST	NST
+212, 4	730, 1-2	NER	mae well	NSNT	NSNT
+212, 5	731, 1-6	NER	mae yr dehumidifier yna on wastad	NSNT	SNT
+212, 6	732, 4-6	NER	oedd *mam* *Carol*	NST	NST
+212, 7	732, 7-12	NER	wedi bod efo *problem* *er* tamprwydd	NST	NST
+212, 8	734, 1-3	NER	a oedd hi	NSNT	NSNT
+212, 9	734, 4-9	NER	oedd hi yn deud wrtha fi	NSNT	NSNT
+212, 10	734, 10-19	NER	os mae o seventy_five percent neu *er* neu i_fyny humidity	ST	ST
+212, 11	734, 20-23	NER	mae o yn hwnna	NSNT	NSNT
+212, 12	734, 24-26	NER	mae drwg felly	NSNT	NSNT
+212, 13	736, 1-12	NER	a pan wnaethon ni sticio yr *thing* on am y tro cynta	NST	ST
+212, 14	736, 13-20	NER	oedd hi yn *um* dros eighty percent humidity	ST	ST
+212, 15	736, 21-22	NER	sy yn	NSNT	NSNT
+212, 16	739, 1-4	NER	dw i *sure* ninety_five	ST	ST
+212, 17	739, 5-5	NER	sti	SNT	NSNT
+212, 18	740, 1-10	NER	anyway mae yn tueddu fod o_gwmpas y sixty yma rŵan	NSNT	SNT
+212, 19	741, 1-3	NER	*so* mae hynna	NST	NST
+212, 20	743, 1-5	NER	*pph* dw ddim yn gwybod	NST	NST
+212, 21	744, 1-4	NER	dw ddim yn gwybod	SNT	NSNT
+212, 22	745, 1-4	NER	really gawn ni weld	---	SNT
+
+
+213, 1	746, 1-11	GUT	ti meddwl bod o yn creu yr annwyd yma fath â	---	NSNT
+
+
+214, 1	747, 1-5	NER	*oh* dw ddim yn gwybod	NST	NST
+214, 2	748, 1-3	NER	*oh* dw ddim	NST	NST
+214, 3	749, 1-2	NER	fedr o	---	NSNT
+
+
+215, 1	750, 1-2	GUT	baswn i	---	NSNT
+
+
+216, 1	752, 1-10	NER	fedr o ddim wneud dim drwg sticio *thing* yna on	ST	ST
+216, 2	752, 11-12	NER	na fedr	NSNT	NSNT
+216, 3	754, 1-4	NER	ac ers *well* ers	---	NST
+
+
+217, 1	755, 1-7	GUT	ydy o yn wneud gwahaniaeth ti meddwl	NSNT	NSNT
+217, 2	756, 1-3	GUT	efo yr annwyd	SNT	NSNT
+217, 3	757, 1-1	GUT	*well*	---	NST
+
+
+218, 1	758, 1-7	NER	*er* *um* *well* dw ddim yn gwybod	---	NST
+
+
+219, 1	759, 1-6	GUT	i yr humidity ei hun felly	---	SNT
+
+
+220, 1	760, 1-2	NER	*well* yndy	NST	NST
+220, 2	760, 3-3	NER	mae	NSNT	NSNT
+220, 3	761, 1-5	NER	*oh* *sure* iawn bod o	NST	NST
+220, 4	761, 6-14	NER	os mae o wedi mynd o eighty_five i sixty	---	SNT
+
+
+221, 1	762, 1-4	GUT	*yeah* *yeah* ond ydy	NST	NST
+221, 2	762, 5-12	GUT	ydy o deimlo wahanol felly yn y tŷ	---	NSNT
+
+
+222, 1	763, 1-5	NER	*oh* dw ddim yn amau	NST	NST
+222, 2	764, 2-5	NER	dw ddim yn amau	NSNT	NSNT
+222, 3	765, 1-1	NER	bod	NSNT	NSNT
+222, 4	765, 2-13	NER	oedd yna ryw oglau musty yma a ballu yn yn dechrau mynd	NSNT	SNT
+222, 5	767, 1-3	NER	achos oedd o	NSNT	NSNT
+222, 6	767, 4-5	NER	mae o	NSNT	NSNT
+222, 7	767, 6-12	NER	wedi bod yn iawn yn yr ha	NSNT	NSNT
+222, 8	768, 1-8	NER	ond wedyn efo yr glaw mawr yma mae	NSNT	NSNT
+222, 9	768, 9-16	NER	mae yr dŵr yn rhedeg o_dan y tai	NSNT	NSNT
+222, 10	768, 17-17	NER	yli	NSNT	NSNT
+222, 11	769, 1-5	NER	mae yna fath â *gullies*	---	NST
+
+
+223, 1	770, 1-8	GUT	*yeah* oedd *Bob* yn sôn am hyn *yeah*	---	NST
+
+
+224, 1	773, 1-5	NER	a wedyn dw i meddwl	NSNT	NSNT
+224, 2	773, 6-9	NER	mae o *just* rhedeg	NST	NST
+224, 3	774, 1-11	NER	mae *Diane* yn gael drws nesa yn cael yr un trafferth	NST	NST
+224, 4	775, 1-6	NER	wedyn rydw i *sure* bod o	NST	NST
+224, 5	775, 7-9	NER	dw i *sure*	NST	NST
+224, 6	775, 10-13	NER	bod o yn helpu	NSNT	NSNT
+224, 7	777, 1-10	NER	ond *er* ac ac ac ers maen nhw wedi gael	NST	NST
+224, 8	778, 1-4	NER	dw ddim yn gwybod	NSNT	NSNT
+224, 9	779, 1-6	NER	efallai na *just* *fluke* ydy o	NST	NST
+224, 10	780, 1-7	NER	ond ers bod ni nôl o *Florence*	NST	NST
+224, 11	780, 9-10	NER	tydy ddim	NSNT	NSNT
+224, 12	780, 11-15	NER	tydy ddim wedi cael annwyd	NSNT	NSNT
+224, 13	782, 1-2	NER	ond doedd	NSNT	NSNT
+224, 14	782, 3-6	NER	wnaeth hi ddim stopio	NSNT	NSNT
+224, 15	783, 1-3	NER	toedd yna ddim	NSNT	NSNT
+224, 17	785, 1-4	NER	dw ddim yn meddwl	NSNT	NSNT
+224, 18	785, 5-14	NER	bod yna wsnos gyfan heb iddi gael annwyd blwyddyn dwytha	NSNT	NSNT
+224, 19	786, 1-4	NER	ond ella na *just*	---	NST
+
+
+225, 1	787, 1-2	GUT	Argol tybed	---	NSNT
+
+
+226, 1	788, 1-7	NER	naddo o un annwyd i yr llall	NSNT	NSNT
+226, 2	788, 8-9	NER	de trwy	NSNT	NSNT
+226, 3	788, 10-10	NER	yr	NSNT	NSNT
+226, 4	788, 11-11	NER	gaea	NSNT	NSNT
+226, 5	790, 1-4	NER	ond *um* *er* dw	NST	NST
+226, 6	790, 5-8	NER	dw ddim yn gwybod	NSNT	NSNT
+226, 7	792, 1-3	NER	ddim yn gwybod	NSNT	NSNT
+226, 8	793, 1-3	NER	gawn ni weld	NSNT	NSNT
+226, 9	795, 1-3	NER	gawn ni weld	NSNT	NSNT
+226, 10	796, 1-2	NER	dw ddim	NSNT	NSNT
+226, 11	796, 3-4	NER	dw ddim	NSNT	NSNT
+226, 12	796, 5-7	NER	dan ni meddwl	NSNT	NSNT
+226, 13	796, 8-14	NER	dan ni meddwl symud anyway yn y	---	SNT
+
+
+227, 1	797, 1-2	GUT	nac ydach	---	NSNT
+
+
+228, 1	798, 1-8	NER	yn y blynyddoedd *well* ar_ôl dipyn o flynyddoedd	---	NST
+
+
+229, 1	799, 1-5	GUT	*oh* be am y *Tardis*	---	NST
+
+
+230, 1	800, 1-10	NER	*well* ti ddim am fod yna am flynyddoedd nag wyt	NST	NST
+230, 2	801, 1-2	NER	ti wedi	---	NSNT
+
+
+231, 1	802, 1-6	GUT	*oh* mewn blynyddoedd i ddŵad felly	---	NST
+
+
+232, 1	803, 1-7	NER	*yeah* fyddi di wedi gael gwraig a	---	NST
+
+
+233, 1	804, 1-8	GUT	ddim yn y ddim yn y dyfodol agos	---	NSNT
+
+
+234, 1	805, 1-4	NER	wedi blwyddyn neu ddau	---	NSNT
+
+
+235, 1	806, 1-2	GUT	Argol tybed	---	NSNT
+
+
+236, 1	807, 1-10	NER	ti ddim i fod yna am flynyddoedd nag wyt *Guto*	---	NST
+
+
+237, 1	808, 1-7	GUT	ond be sy *wrong* efo fan yma	NST	NST
+237, 2	809, 1-1	GUT	mae	NSNT	NSNT
+237, 3	809, 2-5	GUT	mae lovely o le	---	SNT
+
+
+238, 1	810, 1-2	NER	dan ni	NSNT	NSNT
+238, 2	812, 1-8	NER	ond na dan ni wedi cael *idea* da	NST	NST
+238, 3	813, 1-7	NER	dan ni mynd i chwilio am *plot*	NST	NST
+238, 4	815, 1-4	NER	a *er* ochrau *Mynydd_Llandygai*	NST	NST
+238, 5	817, 1-6	NER	a bildio tŷ arty_farty hefo turret	---	SNT
+
+
+239, 1	820, 1-2	GUT	*oh* diddorol	---	NST
+
+
+240, 1	821, 1-3	NER	*yeah* *well* na	NST	NST
+240, 2	822, 1-12	NER	un o yr rhesymau mwya dw i isio symud o fan yma	NSNT	NSNT
+240, 3	822, 13-15	NER	ydy yr lôn	NSNT	NSNT
+240, 4	823, 1-7	NER	achos pan wnaethon ni symud i_fewn yma	NSNT	NSNT
+240, 5	823, 8-8	NER	mae	NSNT	NSNT
+240, 6	823, 9-9	NER	yr	NSNT	NSNT
+240, 7	823, 10-17	NER	mae yr *um* *speed* thirty miles an *hour*	ST	ST
+240, 8	823, 18-20	NER	ydy o fod	NSNT	NSNT
+240, 9	826, 1-8	NER	ond *pooh* maen nhw yn curo i_lawr yma	NST	NST
+240, 10	828, 1-4	NER	*mmm* mae yn ofnadwy	NST	NST
+240, 11	829, 1-7	NER	wedyn i hogan bach yn tyfu fyny	---	NSNT
+
+
+241, 1	830, 1-2	GUT	*boy* racers	---	NST
+
+
+242, 1	831, 1-6	NER	Argol *ooh* dim hyd_yn_oed *just* hyn	NST	NST
+242, 2	832, 1-8	NER	dw i meddwl achos bod yna allt yna	---	NSNT
+
+
+243, 1	833, 1-6	GUT	*yeah* maen nhw yn codi *speed*	---	NST
+
+
+244, 1	834, 1-7	NER	maen nhw *just* yn meddwl *ooh* *ah*	NST	NST
+244, 2	836, 1-6	NER	a mae yn *phew* fath â	NST	NST
+244, 3	837, 1-5	NER	na dim *just* *boy* racers	ST	ST
+244, 4	839, 1-6	NER	mae yna rei yn ganol nos	NSNT	NSNT
+244, 5	839, 7-10	NER	de o rheiny hefyd	NSNT	NSNT
+244, 6	841, 1-1	NER	wedyn	---	NSNT
+
+
+245, 1	842, 1-5	GUT	ydy *Bob* yn frysur o_hyd	---	NST
+
+
+246, 1	843, 1-2	NER	Argol yndy	---	NSNT
+
+
+247, 1	845, 1-5	GUT	dim yn stopio nag ydy	---	NSNT
+
+
+248, 1	846, 1-2	NER	nac ydy	---	NSNT
+
+
+249, 1	847, 1-5	GUT	Argol bydd rhaid watsiad *huh*	NST	NST
+249, 2	849, 1-2	GUT	gorwneud hi	---	NSNT
+
+
+250, 1	850, 1-13	NER	oedd *Dad* a fo wedi cael ymlaen yn iawn yn gweithio hefo ei_gilydd	NST	NST
+250, 2	851, 1-5	NER	o'n i ddim yn synnu	NSNT	NSNT
+250, 3	852, 1-4	NER	o'n i wedi synnu	---	NSNT
+
+
+251, 1	854, 1-3	GUT	dw i gwybod	---	NSNT
+
+
+252, 1	855, 1-4	NER	ti ddim wedi synnu	---	NSNT
+
+
+253, 1	856, 1-2	GUT	na maen	NSNT	NSNT
+253, 2	856, 3-10	GUT	maen yna rywbeth yn debyg yn y ddau	NSNT	NSNT
+253, 3	856, 11-11	GUT	sti	NSNT	NSNT
+253, 4	856, 12-14	GUT	dw i meddwl	---	NSNT
+
+
+254, 1	858, 1-1	NER	belligerent	---	NSNT
+
+
+255, 1	859, 1-2	GUT	mae yna	NSNT	NSNT
+255, 2	860, 1-5	GUT	*yeah* dw ddim yn gwybod	NST	NST
+255, 3	860, 6-8	GUT	be ydy o	NSNT	NSNT
+255, 4	861, 1-5	GUT	ond *um* dw i meddwl	NST	NST
+255, 5	861, 6-10	GUT	bod nhw yn dallt ei_gilydd	NSNT	NSNT
+255, 6	861, 11-14	GUT	de yn o dda	---	NSNT
+
+
+256, 1	862, 1-2	NER	oedden nhw	NSNT	NSNT
+256, 2	864, 1-3	NER	oedd y tri	NSNT	NSNT
+256, 3	865, 1-7	NER	a wedyn mae ti wedi cyfarfod *Ed*	---	NST
+
+
+257, 1	866, 1-1	GUT	naddo	NSNT	NSNT
+257, 2	866, 2-4	GUT	pwy ydy o	---	NSNT
+
+
+258, 1	867, 1-4	NER	sy yn gweithio efo	---	NSNT
+
+
+259, 1	868, 1-3	GUT	labrwr ydy o	---	NSNT
+
+
+260, 1	869, 1-2	NER	*oh* personoliaeth	---	NST
+
+
+261, 1	871, 1-1	GUT	cymer	---	NSNT
+
+
+262, 1	872, 1-2	NER	na dim	---	NSNT
+
+
+263, 1	873, 1-3	GUT	*oh* dim zilch	---	ST
+
+
+264, 1	874, 1-6	NER	Arglwydd o ddim sbïo arna fi	NSNT	NSNT
+264, 2	875, 1-3	NER	dw i *sure*	NST	NST
+264, 3	875, 4-7	NER	bod o ofn fi	---	NSNT
+
+
+265, 1	876, 1-4	GUT	shady mae yn *sure*	NST	ST
+265, 2	876, 5-5	GUT	sti	---	NSNT
+
+
+266, 1	877, 1-2	NER	ia ond	---	NSNT
+
+
+267, 1	878, 1-4	GUT	hogyn ifanc ydy o	---	NSNT
+
+
+268, 1	880, 1-7	NER	ond oedd *Dad* a fo a *Bob*	NST	NST
+268, 2	880, 8-15	NER	wedi bod yn cael whale of a time	SNT	SNT
+268, 3	883, 1-9	NER	*so* *Dad* a *Bob* yn hapus iawn efo ei_gilydd	NST	NST
+268, 4	884, 1-5	NER	oedd *Dad* yn deud adre	NST	NST
+268, 5	886, 1-8	NER	na dydy o ddim yn deud dim nac	NSNT	NSNT
+268, 6	887, 1-5	NER	oedd *Dad* yn deud adre	---	NST
+
+
+269, 1	888, 1-5	GUT	*well* dw ddim yn gwrando	NST	NST
+269, 2	888, 6-7	GUT	mae *sure*	NST	NST
+269, 3	888, 8-8	GUT	sti	NSNT	NSNT
+269, 4	889, 1-10	GUT	ella bod o wedi deud a fi ddim yn cofio	NSNT	NSNT
+269, 5	891, 1-4	GUT	*Mam* dal efo shingles	ST	ST
+269, 6	893, 1-6	GUT	mae yn dechrau gwella *slow* bach	NST	NST
+269, 7	893, 7-10	GUT	dw meddwl hefyd de	---	NSNT
+
+
+270, 1	896, 1-4	NER	mae am ddod yma	---	NSNT
+
+
+271, 1	897, 1-3	GUT	ond *um* *huh*	---	NST
+
+
+272, 1	898, 1-1	NER	mae	NSNT	NSNT
+272, 2	898, 2-3	NER	mae wedi	NSNT	NSNT
+272, 3	898, 4-6	NER	mae wedi deud	NSNT	NSNT
+272, 4	898, 7-13	NER	bod hi am ddod yma dydd Mercher	NSNT	NSNT
+272, 5	900, 1-4	NER	digon da ti meddwl	---	NSNT
+
+
+273, 1	901, 1-5	GUT	*well* ges i ddallt *um*	NST	NST
+273, 2	901, 6-11	GUT	bod rhaid iddi watsiad efo shingles	SNT	SNT
+273, 3	902, 1-6	GUT	achos mae yn beryg i i	NSNT	NSNT
+273, 4	903, 1-4	GUT	dyna chdi *Anna* wan	NST	NST
+273, 5	903, 5-11	GUT	dydy ddim wedi gael frech y ieir	---	NSNT
+
+
+274, 1	905, 2-5	NER	mae o yn beryg	---	NSNT
+
+
+274, 2	905, 6-7	NER	dw gwybod	NSNT	NSNT
+275, 2	906, 23-28	GUT	ei hun tibod neu dal rywbeth	NSNT	NSNT
+275, 3	907, 1-5	GUT	*so* dw ddim yn gwybod	NST	NST
+275, 4	907, 6-17	GUT	os ydy yn *idea* dda *Mam* ddod yma mor fuan â hynna	NST	NST
+275, 5	908, 1-10	GUT	ella basai well iddo glirio gynta cyn iddi ddod *round*	---	NST
+
+
+276, 1	909, 1-5	NER	ond mae hi wedi deud	NSNT	NSNT
+276, 2	909, 6-9	NER	bod hi am ddŵad	---	NSNT
+
+
+277, 1	910, 1-1	GUT	*well*	ST	NST
+277, 2	911, 1-5	GUT	*well* chi sy gwybod orau	NST	NST
+277, 3	912, 1-4	GUT	chi ydy yr nurturers	---	SNT
+
+
+278, 1	913, 1-5	NER	*well* na hi hi really	ST	ST
+278, 2	914, 1-1	NER	mae	NSNT	NSNT
+278, 3	914, 2-2	NER	yr	NSNT	NSNT
+278, 4	914, 3-6	NER	oedd *doctor* wedi deud	NST	NST
+278, 5	914, 7-17	NER	os maen nhw wedi sychu i_fyny y yr yr be bynnag	NSNT	NSNT
+278, 6	914, 18-20	NER	ydyn nhw *um*	NST	NST
+278, 7	914, 21-23	NER	mae yn iawn	NSNT	NSNT
+278, 8	918, 1-4	NER	*so* mae mynd i	NST	NST
+278, 9	918, 5-8	NER	mae mynd i ddŵad	NSNT	NSNT
+278, 10	918, 9-10	NER	meddai hi	---	NSNT
+
+
+279, 1	920, 1-7	GUT	am faint dan ni yn siarad wan	---	NSNT
+
+
+280, 1	921, 1-6	NER	dw ddim gwybod ryw hanner awr	NSNT	NSNT
+280, 2	921, 7-8	NER	dw meddwl	---	NSNT
+
+
+281, 1	922, 1-6	GUT	*yeah* ydy hwnna ddigon ti meddwl	---	NST
+
+
+282, 1	923, 1-2	NER	nac ydy	---	NSNT
+
+
+283, 1	924, 1-2	GUT	nag ydy	---	NSNT
+
+
+284, 1	925, 1-3	NER	nac ydy thirty_five	---	SNT
+
+
+285, 1	926, 1-11	GUT	*o_k* sticia i yr *er* i yr *er* i yr cytundeb	---	NST
+
+
+286, 1	927, 1-4	NER	dw i yn meddwl	NSNT	NSNT
+286, 2	928, 1-2	NER	yn iawn	---	NSNT
+
+
+287, 1	929, 1-3	GUT	pum munud arall	---	NSNT
+
+
+288, 1	930, 1-3	NER	diolch diolch *Guto*	NST	NST
+288, 3	932, 1-4	NER	ti ddim yn arfer	---	NSNT
+
+
+289, 1	933, 1-10	GUT	wnest ti erioed meddwl basa chdi mewn sefyllfa fel hynny	NSNT	NSNT
+289, 2	933, 11-11	GUT	naddo	---	NSNT
+
+
+290, 1	934, 1-1	NER	naddo	---	NSNT
+
+
+291, 1	935, 1-6	GUT	dw i yn nabod pobl diddorol	NSNT	NSNT
+291, 2	935, 7-10	GUT	sti deud wrtha chdi	NSNT	NSNT
+291, 4	937, 1-13	GUT	*so* be wnawn ni *er* weekend nesa ta be efo yr granny annexe	---	ST
+
+
+292, 1	938, 1-6	NER	*oh* *er* dw ddim yn gwybod	NST	NST
+292, 2	939, 1-10	NER	*yeah* dydy o ddim yn trystio chdi dynnu yr to	NST	NST
+292, 3	940, 1-3	NER	*just* y ceiling	ST	ST
+292, 4	941, 1-9	NER	mae yn ofn i chdi disgyn trwy yr to	---	NSNT
+
+
+293, 1	942, 1-8	GUT	Argol tibod dw i wedi gweithio efo toeau	NSNT	NSNT
+293, 3	944, 1-8	GUT	wnes i weithio i *Ogwen_Roofing* am am flwyddyn	---	NST
+
+
+294, 1	945, 2-4	NER	dw i meddwl	NSNT	NSNT
+294, 2	945, 5-7	NER	bod o yn	---	NSNT
+
+
+295, 1	946, 1-8	GUT	dw i fath â mountain *goat* mechan i	---	ST
+
+
+296, 1	947, 1-7	NER	*yeah* dyna o'n i ddeud wrtho fo	NST	NST
+296, 2	948, 1-5	NER	mae yn ofn i chdi	NSNT	NSNT
+296, 3	948, 6-11	NER	mae fo ofn chdi cael popo	---	NSNT
+
+
+297, 1	949, 1-5	GUT	Argol annwyl be ydy o	NSNT	NSNT
+297, 2	949, 6-8	GUT	be mae meddwl	NSNT	NSNT
+297, 3	949, 9-11	GUT	dw i *poof*	NST	NST
+297, 5	951, 1-3	GUT	be dim dyna	NSNT	NSNT
+297, 6	951, 4-5	GUT	ddeudodd o	NSNT	NSNT
+297, 7	952, 1-8	GUT	dydy o ddim yn ofn i mi frifo	---	NSNT
+
+
+298, 1	953, 1-2	NER	yndy ella	NSNT	NSNT
+298, 2	953, 3-9	NER	bod chdi dipyn bach yn *common* *sense*	---	NST
+
+
+299, 1	954, 1-3	GUT	*office* *boy* felly	---	NST
+
+
+300, 1	955, 1-4	NER	*yeah* dyna chdi *yeah*	---	NST
+
+
+301, 1	956, 1-15	GUT	*oh* *right* *oh* yr working *class* *er* *grit* yma *yeah* ddim gynno fi dim mwy	NST	ST
+301, 3	958, 1-3	GUT	*oh* wela i	---	NST
+
+
+302, 1	959, 1-7	NER	*oh* *yeah* *er* dw ddim yn gwybod	NST	NST
+302, 2	959, 8-12	NER	be dw ddim yn gwybod	NSNT	NSNT
+302, 3	959, 13-17	NER	be mae wneud weekend yma	NSNT	SNT
+302, 4	963, 1-1	NER	mae	NSNT	NSNT
+302, 5	963, 2-2	NER	mae	NSNT	NSNT
+302, 6	963, 3-7	NER	dan ni wedi cael gwared	---	NSNT
+
+
+303, 1	964, 1-10	GUT	mond iddo roi shout i mi pan mae yn barod	NSNT	SNT
+303, 2	964, 11-15	GUT	a ro i hand iddo	NSNT	SNT
+303, 3	965, 1-7	GUT	a fydda i yma bright and early	NSNT	SNT
+303, 4	966, 1-16	GUT	because *er* dw i yn edrych ymlaen cael lle i fi bach i fi yn hun	NST	ST
+303, 5	967, 1-5	GUT	a bach fydd o hefyd	---	NSNT
+
+
+304, 1	968, 1-5	NER	*Tardis* enw da iddo fo	NST	NST
+304, 2	969, 1-3	NER	mi fydd o	NSNT	NSNT
+304, 3	969, 4-4	NER	sti	NSNT	NSNT
+304, 4	970, 1-4	NER	fydd o yn lovely	NSNT	SNT
+304, 5	971, 1-11	NER	at least dim angen chdi feddwl amdan cael dodrefn nag oes	---	SNT
+
+
+305, 1	972, 1-7	GUT	*well* fydd yna ddim lle iddyn nhw	NST	NST
+305, 2	972, 8-9	GUT	na fydd	---	NSNT
+
+
+306, 1	973, 1-9	NER	a fydd yna wely yma yn barod i chdi	NSNT	NSNT
+306, 2	975, 1-2	NER	a *nice*	NST	NST
+306, 3	976, 1-4	NER	mae yn lovely actually	SNT	SNT
+306, 4	978, 1-2	NER	fydd mi	NSNT	NSNT
+306, 5	978, 3-4	NER	fydd mi	NSNT	NSNT
+306, 6	978, 5-6	NER	fydd o	---	NSNT
+
+
+307, 1	979, 1-5	GUT	*well* dw i edrych ymlaen	ST	NST
+307, 2	980, 1-12	GUT	because *er* mae yn hen bryd i mi symud ymlaen ddeud gwir	NST	ST
+307, 3	981, 1-3	GUT	Argol dw i	NSNT	NSNT
+307, 4	981, 4-12	GUT	wedi bod gael gael yn nal yn_ôl ry hir	NSNT	NSNT
+307, 5	981, 13-14	GUT	dw meddwl	---	NSNT
+
+
+308, 1	982, 1-2	NER	gyn pwy	---	NSNT
+
+
+309, 1	983, 1-8	GUT	*well* dim gyn neb arbennig *just* circumstances felly	NST	ST
+309, 2	984, 1-5	GUT	felly dw i yn teimlo	NSNT	NSNT
+309, 3	985, 1-8	GUT	ond wna i ddim mynd i_fewn iddo fo	NSNT	NSNT
+309, 4	986, 1-4	GUT	dw ddim yn gwybod	NSNT	NSNT
+309, 5	987, 1-6	GUT	mae yn amser mi symud ymlaen	NSNT	NSNT
+309, 6	988, 1-2	GUT	dw i	---	NSNT
+
+
+310, 1	989, 1-15	NER	*hey* ti wedi ti am mynd am yr *um* am y swydd yna yn *er*	NST	NST
+310, 2	990, 1-11	NER	oedda chdi am mynd ryw am ryw swydd arall neu rywbeth	---	NSNT
+
+
+311, 1	991, 1-4	GUT	pa swydd ydy hon	---	NSNT
+
+
+312, 1	992, 1-4	NER	dw ddim yn gwybod	NSNT	NSNT
+312, 2	993, 1-3	NER	efo child *protection*	---	ST
+
+
+313, 1	994, 1-1	GUT	*protection*	ST	NST
+313, 2	995, 1-3	GUT	*oh* ella ella	NST	NST
+313, 3	996, 1-10	GUT	mae dipyn o minefield *um* legally yn y legal *sense*	ST	ST
+313, 4	997, 1-7	GUT	mae yr legal framework yn gymhleth ofnadwy	---	SNT
+
+
+314, 1	998, 1-8	NER	yn *Gaernarfon* mae hwnna mynd i fod *yeah*	---	NST
+
+
+315, 1	999, 1-3	GUT	a *yeah* mae	NST	NST
+315, 2	999, 4-7	GUT	mae *job* stressful ofnadwy	NST	ST
+315, 3	1000, 1-7	GUT	mwy os rywbeth mae mwy stressful na	NSNT	SNT
+315, 4	1000, 8-11	GUT	be dw wneud wan	NSNT	NSNT
+315, 5	1001, 1-9	GUT	*well* dw i licio pawb ar y *team* yna	---	NST
+
+
+316, 1	1002, 1-5	NER	*oh* mae hynna yn bwysig	---	NST
+
+
+317, 1	1003, 1-3	GUT	mae hynna rywbeth	NSNT	NSNT
+317, 2	1004, 1-9	GUT	a dw i cael ymlaen i_gyd i_gyd efo nhw	NSNT	NSNT
+317, 3	1005, 1-5	GUT	a maen nhw wedi deud	NSNT	NSNT
+317, 4	1005, 6-13	GUT	mae croeso fi gael ddod *round* am *chat*	NST	NST
+317, 5	1006, 1-5	GUT	y *team* leaders ydy hyn	NST	ST
+317, 6	1008, 1-7	GUT	neu yr arweinydd *team* ddylwn i ddeud	NST	NST
+317, 7	1009, 1-2	GUT	*um* dyna	NST	NST
+317, 8	1009, 3-7	GUT	be ydy o yn *Gwynedd*	NST	NST
+317, 9	1010, 1-3	GUT	a wedyn *um*	NST	NST
+317, 10	1011, 1-8	GUT	be am siarad efo *Ben_Bennett* ynglŷn â hyn	NST	NST
+317, 11	1012, 1-9	GUT	ac ella wna i gysidro ymuno yr *team* yna	NST	NST
+317, 12	1013, 1-6	GUT	ond mae yna *options* eraill ysti	NST	NST
+317, 13	1016, 1-3	GUT	dw i gweld	NSNT	NSNT
+317, 14	1016, 4-7	GUT	dw i clywed sôn	NSNT	NSNT
+317, 15	1016, 8-17	GUT	mae yna *job* yn mynd mynd yn *team* hen bobl	NST	NST
+317, 16	1017, 1-11	GUT	mae yna *job* arall yn mynd *er* ochrau *Dolgellau* ffordd yno	NST	NST
+317, 17	1018, 1-7	GUT	baswn i gallu symud lawr fan yna	NSNT	NSNT
+317, 18	1019, 1-6	GUT	ond eto dw ddim yn teimlo	NSNT	NSNT
+317, 19	1019, 7-10	GUT	os dw i isio	NSNT	NSNT
+317, 20	1020, 2-8	GUT	pwy sy yn byw yn *Dolgellau* wan	NST	NST
+317, 21	1021, 1-2	GUT	*Frank* sti	---	NST
+
+
+318, 1	1022, 1-5	NER	o'n i wedi clywed *yeah*	---	NST

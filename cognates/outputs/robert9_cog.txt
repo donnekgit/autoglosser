@@ -1,0 +1,1673 @@
+1, 1	1, 1-6	CRL	beth oedd y tywydd fel yna	NSNT	NSNT
+1, 2	2, 1-4	CRL	oedd e yn wlyb	---	NSNT
+
+
+2, 1	3, 1-6	PEN	*um* doedd ddim weld rhy ddrwg	NST	NST
+2, 2	4, 1-6	PEN	dw weld hi waeth na teledu	NSNT	NSNT
+2, 3	6, 1-3	PEN	dw ddim gwybod	---	NSNT
+
+
+3, 1	7, 1-5	CRL	*so* oedd e ddim fel	NST	NST
+3, 2	7, 6-10	CRL	pryd oedd *Becs* wedi mynd	NST	NST
+3, 3	7, 11-12	CRL	a oedd	NSNT	NSNT
+3, 4	7, 13-17	CRL	pabelli yn *er* pebyll yn	---	NST
+
+
+4, 1	8, 1-2	PEN	na nofio	---	NSNT
+
+
+5, 1	9, 1-6	CRL	yn suddo a a nofio *yeah*	---	NST
+
+
+6, 1	10, 1-4	PEN	dw ddim yn meddwl	---	NSNT
+
+
+7, 1	11, 1-7	CRL	*o_k* *oh* mae hwnna yn un peth	---	NST
+
+
+8, 1	12, 1-3	PEN	ond dw *yeah*	NST	NST
+8, 2	12, 4-8	PEN	dw ddim yn meddwl na	NSNT	NSNT
+8, 3	13, 1-8	PEN	ond wnaeth *um* y nheledu fi chwythu fyny	NST	NST
+8, 4	13, 9-9	PEN	sti	---	NSNT
+
+
+9, 1	14, 1-4	CRL	wnaeth beth chwythu fyny	---	NSNT
+
+
+10, 1	15, 1-2	PEN	*telly* tv	---	NST
+
+
+11, 1	16, 1-1	CRL	pryd	---	NSNT
+
+
+12, 1	17, 1-2	PEN	dydd Gwener	---	NSNT
+
+
+13, 1	18, 1-3	CRL	*oh* my gosh	ST	NST
+13, 2	19, 1-8	CRL	yr un yn y yn y stafell fyw	---	NSNT
+
+
+14, 1	20, 1-5	PEN	ia yr un fawr yno	---	NSNT
+
+
+15, 1	22, 1-5	CRL	be hollol hollol wedi marw	---	NSNT
+
+
+16, 1	23, 1-4	PEN	*well* oedda chdi roi	NST	NST
+16, 2	23, 5-9	PEN	oedd o mynd ar stand_by	SNT	SNT
+16, 3	23, 10-16	PEN	pan oedda chdi yn switsio channel felly	NSNT	SNT
+16, 5	25, 1-7	PEN	oedd o mynd o goch i wyrdd	NSNT	NSNT
+16, 6	25, 8-9	PEN	a mae	NSNT	NSNT
+16, 7	25, 10-10	PEN	yr	NSNT	NSNT
+16, 8	25, 11-15	PEN	mae yr channel dod ymlaen	NSNT	SNT
+16, 9	26, 1-5	PEN	wnaeth o ddim dod ymlaen	NSNT	NSNT
+16, 10	27, 1-3	PEN	oglau llosgi mawr	NSNT	NSNT
+16, 11	28, 1-10	PEN	*so* es i â fo i ryw *G_D_Electronics* yn *Llanwnda*	NST	NST
+16, 12	29, 1-2	PEN	a wnaeth	NSNT	NSNT
+16, 13	30, 1-2	PEN	ia randomly	SNT	SNT
+16, 14	31, 1-7	PEN	wrth ymyl lle *um* *Garden_Nurseries* yn *Gaernarfon*	ST	NST
+16, 15	33, 1-2	PEN	ish felly	NSNT	SNT
+16, 16	34, 1-7	PEN	a wedyn *um* wnaeth o wneud o	NST	NST
+16, 17	35, 1-6	PEN	wnaeth o wneud o mewn diwrnod	NSNT	NSNT
+16, 18	36, 1-7	PEN	a oedd isio ryw ddau component a	---	SNT
+
+
+17, 1	37, 1-4	CRL	oedd e yn ddrud	---	NSNT
+
+
+18, 1	38, 1-1	PEN	pedwar_deg_pump	---	NSNT
+
+
+19, 1	39, 1-3	CRL	hwnna ddrud am	---	NSNT
+
+
+20, 1	40, 2-5	PEN	mae o yn glec	NSNT	NSNT
+20, 2	40, 6-7	PEN	mawr de	NSNT	NSNT
+20, 3	41, 1-8	PEN	ond wneith o bara am wyth mlynedd arall	NSNT	NSNT
+20, 4	41, 9-10	PEN	meddai fo	NSNT	NSNT
+20, 5	43, 1-6	PEN	*er* cyn i yr *tube* fynd	---	NST
+
+
+21, 1	44, 1-6	CRL	ond beth sy yn digwydd gyda	NSNT	NSNT
+21, 2	45, 1-6	CRL	timod gyda yr trosglwyddo i ddigidol	---	NSNT
+
+
+22, 1	46, 1-5	PEN	dydy o wneud dim gwahaniaeth	NSNT	NSNT
+22, 2	47, 1-5	PEN	os oes gyn ti teledu	NSNT	NSNT
+22, 3	47, 7-18	PEN	sy yn *um* fwy na pymtheg mlwydd oed ti angen newid nhw	---	NST
+
+
+23, 1	48, 1-2	CRL	newid e	---	NSNT
+
+
+24, 1	49, 1-4	PEN	mae rheina yn iawn	NSNT	NSNT
+24, 2	49, 5-10	PEN	*just* bod nhw cam camarwain chdi	NST	NST
+24, 3	49, 11-14	PEN	dw meddwl ar teledu	NSNT	NSNT
+24, 4	49, 15-20	PEN	bod chdi yn digital ready neu	---	SNT
+
+
+25, 1	50, 1-2	CRL	*so* gyd	NST	NST
+25, 2	52, 1-4	CRL	*so* gyd byddet ti	NST	NST
+25, 3	53, 1-10	CRL	gyd chi angen felly te yw *free* *box* *Freeview* *box*	---	NST
+
+
+26, 1	54, 1-5	PEN	*Freeview* *yeah* neu *Sky* de	---	NST
+
+
+28, 1	58, 1-2	PEN	nag wyt	---	NSNT
+
+
+29, 1	59, 1-12	CRL	ond wedyn falle bydd e newid gyda yr holl beth yn yn	NSNT	NSNT
+29, 2	59, 13-18	CRL	timod yn newid ledled y wlad	---	NSNT
+
+
+30, 1	60, 1-5	PEN	cael ei lansio felly ie	---	NSNT
+
+
+31, 1	61, 1-5	CRL	*so* fi ddim yn gwybod	---	NST
+
+
+32, 1	62, 1-3	PEN	fydd raid iddo	NSNT	NSNT
+32, 2	62, 4-4	PEN	bydd	---	NSNT
+
+
+33, 1	63, 1-3	CRL	*well* *yeah* bendant	---	NST
+
+
+34, 1	64, 1-10	PEN	pwy sy mynd i dalu am drwydded teledu heb llun	---	NSNT
+
+
+35, 1	65, 1-4	CRL	yn union yn union	NSNT	NSNT
+35, 2	66, 1-1	CRL	fi	NSNT	NSNT
+35, 3	69, 1-4	CRL	na fi yn cytuno	---	NSNT
+
+
+36, 1	71, 1-6	PEN	os na wnan nhw ostwng hwnna	NSNT	NSNT
+36, 2	72, 1-8	PEN	na dw ddim yn gweld nhw wneud chwaith	---	NSNT
+
+
+37, 1	73, 1-14	CRL	na fi gobeithio *yeah* fi *just* yn gobeithio mae yn eitha syml i wneud	NST	NST
+37, 2	74, 1-13	CRL	achos timod fi *just* yn poeni am yr hen bobl ar_draws y wlad	NST	NST
+37, 3	75, 1-6	CRL	achos chi *just* yn meddwl *well*	---	NST
+
+
+38, 1	76, 1-6	PEN	mae nhw cael o am ddim	NSNT	NSNT
+38, 2	76, 7-7	PEN	dydy	NSNT	NSNT
+38, 3	77, 1-7	PEN	*oh* be yr *er* yr trawsnewid felly	---	NST
+
+
+39, 1	78, 1-9	CRL	ond *just* sut i gyfarwyddo gyda yr peth timod	NST	NST
+39, 3	80, 1-6	CRL	timod a wedyn chi meddwl *oh*	NST	NST
+39, 4	80, 7-15	CRL	bydd *lot* o bobl *just* ddim yn trafferthu falle	NST	NST
+39, 5	81, 1-3	CRL	wedyn ond timod	NSNT	NSNT
+39, 6	81, 4-13	CRL	os mae nhw yn unig a byw ben eu hunain	NSNT	NSNT
+39, 7	83, 1-5	CRL	*so* dyna yr unig gwmni	NST	NST
+39, 8	83, 6-10	CRL	sy gyda nhw weithiau yn_dyfe	---	NSNT
+
+
+40, 1	85, 1-10	PEN	ti ddim yn gwybod ella wneith Cynulliad ddod i_fyny rywbeth	---	NSNT
+
+
+41, 1	86, 1-4	CRL	*yeah* mae hwnna wir	---	NST
+
+
+42, 1	87, 1-2	PEN	ella de	---	NSNT
+
+
+43, 1	88, 1-2	CRL	digon teg	NSNT	NSNT
+43, 2	89, 1-3	CRL	*yeah* hwnna wir	---	NST
+
+
+44, 1	90, 1-1	PEN	*Tony_Brown*	ST	NST
+44, 2	91, 1-3	PEN	*oh* *Tony_Brown* clyw	NST	NST
+44, 4	93, 1-5	PEN	*Tony_Blaire* mynd allan wan dydy	---	NST
+
+
+45, 1	94, 1-5	CRL	ydy ar y ffordd allan	---	NSNT
+
+
+46, 1	95, 1-2	PEN	dydd Mercher	---	NSNT
+
+
+47, 1	96, 1-3	CRL	*yeah* fi meddwl	---	NST
+
+
+48, 1	97, 1-3	PEN	diwrnod dwytha fo	---	NSNT
+
+
+49, 1	98, 1-5	CRL	*yeah* ti yn iawn chweched_ar_hugain	---	NST
+
+
+50, 1	99, 1-5	PEN	*Gordon_Brown* dod fewn dydd Iau	---	NST
+
+
+51, 1	100, 1-5	CRL	na *yeah* seithfed ar hugain	---	NST
+
+
+52, 1	101, 1-3	PEN	pedwerydd ar hugain	---	NSNT
+
+
+53, 1	102, 1-3	CRL	pumed ar hugain	---	NSNT
+
+
+54, 1	103, 1-3	PEN	pumed ar hugain	---	NSNT
+
+
+55, 1	108, 1-8	CRL	mae mynd i fod yn ddiddorol *just* gweld	NST	NST
+55, 2	108, 9-16	CRL	sut mae fe mynd i arwain y wlad	NSNT	NSNT
+55, 3	110, 1-7	CRL	fi ddim yn gwybod os yw os	NSNT	NSNT
+55, 4	110, 8-13	CRL	os yw yr flair gyda fe	NSNT	SNT
+55, 5	110, 14-17	CRL	i bod yn greadigol	---	NSNT
+
+
+56, 1	111, 1-4	PEN	sicr ohono fo hefyd	NSNT	NSNT
+56, 2	112, 1-3	PEN	dydy o ddim	NSNT	NSNT
+56, 3	112, 4-5	PEN	nag ydy	---	NSNT
+
+
+57, 1	113, 1-2	CRL	mae yn	NSNT	NSNT
+57, 2	113, 3-7	CRL	mae yn ymddangos yn rywun	NSNT	NSNT
+57, 3	113, 8-11	CRL	timod rhesymegol a rhywun	NSNT	NSNT
+57, 4	113, 12-15	CRL	sy yn dilyn *logic*	NST	NST
+57, 5	114, 1-9	CRL	ond sa i yn *sure* os bydd e yn	---	NST
+
+
+58, 1	115, 1-5	PEN	*didactic* ydy yr gair *yeah*	---	NST
+
+
+59, 1	117, 1-8	CRL	fi ddim yn *sure* os bydd e yn	NST	NST
+59, 2	118, 1-4	CRL	fi ddim yn gwybod	---	NSNT
+
+
+60, 1	119, 1-3	PEN	cynhesu at cynulleidfa	---	NSNT
+
+
+61, 1	121, 1-8	CRL	*oh* falle gawn ni yn profi yn anghywir	NST	NST
+61, 2	122, 1-9	CRL	falle bydd e yn synnu ar yr ochr orau	NSNT	NSNT
+61, 3	124, 1-4	CRL	sa i yn *sure*	NST	NST
+61, 4	126, 1-9	CRL	pryd ti mynd i gynllunio yr *barbecue* yma te	---	NST
+
+
+62, 1	127, 1-6	PEN	*well* amlwg ddim fory tywydd yma	NST	NST
+62, 3	129, 1-6	PEN	o'n i wedi meddwl wneud e_bost	NSNT	NSNT
+62, 4	130, 1-3	PEN	ond dw falch	NSNT	NSNT
+62, 5	130, 4-10	PEN	bod fi ddim wan deud y gwir	NSNT	NSNT
+62, 6	131, 1-9	PEN	i bobl dydd Gwener de *um* erbyn fory felly	NST	NST
+62, 7	132, 1-5	PEN	ond *um* *well* dw falch	NST	NST
+62, 8	132, 6-8	PEN	bod fi ddim	NSNT	NSNT
+62, 9	133, 1-4	PEN	mae yn gaddo glaw	NSNT	NSNT
+62, 10	133, 5-8	PEN	dan ddydd Mawrth nesa	NSNT	NSNT
+62, 11	133, 9-9	PEN	dydy	---	NSNT
+
+
+63, 1	134, 1-4	CRL	yr holl ffordd yn	SNT	NSNT
+63, 2	136, 1-3	CRL	*oh* my gosh	---	NST
+
+
+64, 1	137, 1-10	PEN	yn_ôl y Met_Office ar yr *um* ar y we de	---	ST
+
+
+65, 1	138, 1-8	CRL	well allwn ni wastad cael *barbecue* tu fewn	---	NST
+
+
+66, 1	139, 1-1	PEN	indoors	---	NSNT
+
+
+67, 1	140, 1-11	CRL	yn *as* in allai fi *just* coginio popeth yn y ffwrn	NST	ST
+67, 2	142, 1-11	CRL	fi yn gwybod o't ti eisiau trio allan y *barbecue* newydd	---	NST
+
+
+68, 1	143, 1-5	PEN	o'n a yr furniture de	---	SNT
+
+
+69, 1	144, 1-11	CRL	yn gweld y *jelly* loungers yna ti gallu prynu yn *Tesco*	---	ST
+
+
+70, 1	145, 1-2	PEN	naw punt	---	NSNT
+
+
+71, 1	146, 1-5	CRL	*yeah* mae nhw really dda	NST	ST
+71, 2	147, 1-4	CRL	fi yn hoffi reina	---	NSNT
+
+
+72, 1	148, 1-4	PEN	ydyn nhw yn braf	---	NSNT
+
+
+73, 1	149, 1-6	CRL	mae nhw yn edrych yn dda	NSNT	NSNT
+73, 2	150, 1-5	CRL	a mae nhw lliwgar *nice*	NST	NST
+73, 3	152, 1-4	CRL	*so* mae nhw edrych	NST	NST
+73, 4	152, 5-10	CRL	bydden nhw dda yn yr ardd	---	NSNT
+
+
+74, 1	153, 1-3	PEN	yndy ti iawn	---	NSNT
+
+
+75, 1	154, 1-6	CRL	*so* pwy wyt ti meddwl gwahodd	NST	NST
+75, 2	155, 1-10	CRL	*just* pawb o yr *lot* o bobl o yr adran	---	NST
+
+
+76, 1	156, 1-5	PEN	*well* ia bawb *Sandra* *um*	---	NST
+
+
+77, 1	157, 1-1	CRL	*Louis*	---	NST
+
+
+78, 1	158, 1-7	PEN	*Louis* *Louis* *Louis* a *um* pwy yna	---	NST
+
+
+79, 1	159, 1-3	CRL	*Ray* a *Guy*	---	NST
+
+
+80, 1	160, 1-2	PEN	*Sophie* *Sophie*	---	NST
+
+
+81, 1	162, 1-3	CRL	actually bydd e	---	SNT
+
+
+82, 1	163, 1-6	PEN	a *Adam* mae *sure* actually a	NST	ST
+82, 2	165, 1-2	PEN	tithau *Heidi*	---	NST
+
+
+83, 1	166, 1-1	CRL	*Heidi*	---	NST
+
+
+84, 1	168, 1-3	PEN	dw ddim gwybod	NSNT	NSNT
+84, 2	168, 4-8	PEN	os fyddan nhw yn dod	NSNT	NSNT
+84, 3	168, 9-9	PEN	cofia	---	NSNT
+
+
+85, 1	169, 1-10	CRL	*yeah* falle bydd e yn syniad actually i *er* i	---	ST
+
+
+86, 1	170, 1-1	PEN	*Stephanie*	---	NST
+
+
+87, 1	172, 1-6	CRL	i wneud yn *sure* bod *er*	NST	NST
+87, 2	172, 7-10	CRL	bod *Sophie* yn dod	NST	NST
+87, 3	173, 1-4	CRL	achos mae mynd i	NSNT	NSNT
+87, 4	173, 5-10	CRL	mae yn gadael yn_dyw hi *so*	---	NST
+
+
+88, 1	175, 1-5	PEN	pryd mae hi yn gadael	---	NSNT
+
+
+89, 1	176, 1-4	CRL	sa i yn *sure*	NST	NST
+89, 2	177, 1-6	CRL	fi yn gwybod mae yn dechrau	NSNT	NSNT
+89, 3	178, 1-10	CRL	fi yn credu bod hi yn dechrau yn mis Awst	NSNT	NSNT
+89, 4	179, 1-4	CRL	ond wnaeth hi ddweud	NSNT	NSNT
+89, 5	179, 5-10	CRL	byddai hi o_gwmpas dros yr haf	NSNT	NSNT
+89, 6	180, 1-16	CRL	ond falle bydd e yn syniad i weud hwyl fawr rag ofn ni wneud pethau gwahanol	NSNT	NSNT
+89, 7	180, 17-21	CRL	a byddwn ni ddim o_gwmpas	NSNT	NSNT
+89, 8	180, 22-25	CRL	pryd mae yn gadael	NSNT	NSNT
+89, 9	182, 1-2	CRL	*so* os	---	NST
+
+
+90, 1	183, 1-7	PEN	mae *handy* iddi hi *just* i_fyny lôn	NST	NST
+90, 2	183, 8-11	PEN	ydy really hefyd felly	---	SNT
+
+
+91, 1	184, 1-4	CRL	*well* *yeah* yn union	NST	NST
+91, 2	185, 1-13	CRL	*so* *yeah* bydd e yn really dda i i weud hwyl wrthi hi	NST	ST
+91, 3	185, 14-16	CRL	os mae o_gwmpas	NSNT	NSNT
+91, 4	187, 1-2	CRL	ond *um*	---	NST
+
+
+92, 1	188, 1-3	PEN	dw ddim yn	NSNT	NSNT
+92, 2	188, 4-12	PEN	dw ddim gweld hi yn cael dod ei hun	---	NSNT
+
+
+93, 1	189, 1-2	CRL	heb *Gavin*	NST	NST
+93, 2	191, 1-5	CRL	*oh* bydd e yn iawn	---	NST
+
+
+94, 1	193, 1-1	PEN	bydd	---	NSNT
+
+
+95, 1	195, 1-6	CRL	sut mae gwaith academaidd yn mynd	---	NSNT
+
+
+96, 1	196, 1-5	PEN	well dw i wedi cynllunio	---	NSNT
+
+
+97, 1	197, 1-13	CRL	ti dod ymlaen ti yn gweud bod ti wedi cynllunio naw_deg diwrnod ar_ôl	---	NSNT
+
+
+98, 1	198, 1-2	PEN	naw_deg_pedwar heddiw	NSNT	NSNT
+98, 2	199, 1-10	PEN	*um* dros y penwythnos wnes i gynllunio tri *um* holiadur	---	NST
+
+
+99, 1	201, 1-2	CRL	*oh* gwych	---	NST
+
+
+100, 1	202, 1-4	PEN	*um* dw i wedi	NST	NST
+100, 2	202, 5-17	PEN	dw i wedi argraffu nhw a wneud yr holl bethau eraill yn barod	NSNT	NSNT
+100, 3	203, 1-19	PEN	ond dw i *just* disgwyl yr *o_k* gyn *um* gyn yr *um* y Swyddfa_Gartre ddeud gwir a yr carchardai	NST	NST
+100, 4	204, 1-7	PEN	ond dw i wedi meddwl amdano fo	NSNT	NSNT
+100, 5	205, 1-11	PEN	does yna ddim *broblem* cael *sample* yn y carchar felly bobl	NST	NST
+100, 6	206, 1-14	PEN	*um* rhaid fi *just* cael y *sample* pan mae nhw newydd cael eu ryddhau	NST	NST
+100, 7	208, 1-11	PEN	yn y gymuned a *just* gofyn am eu profi nhw tra	NST	NST
+100, 8	208, 12-14	PEN	mae nhw i_mewn	NSNT	NSNT
+100, 9	210, 1-7	PEN	digon hawdd wneud o fel yna dydy	SNT	NSNT
+100, 10	212, 1-3	PEN	*so* *um* *yeah*	---	NST
+
+
+101, 1	213, 1-3	CRL	mae swnio fel	NSNT	NSNT
+101, 2	213, 4-7	CRL	mae mynd yn dda	NSNT	NSNT
+101, 3	214, 1-6	CRL	ti yn dda gyda yr strwythur	NSNT	NSNT
+101, 4	215, 1-9	CRL	a ti yn gwybod be ti mynd i wneud	---	NSNT
+
+
+102, 1	216, 1-3	PEN	dw i wedi	NSNT	NSNT
+102, 2	216, 4-5	PEN	roid strwythur	NSNT	NSNT
+102, 4	218, 1-5	PEN	dw i wedi roi strwythur	NSNT	NSNT
+102, 5	219, 1-14	PEN	gen i yr llun bach del de wedi wneud ar *front* a yr cefn	NST	NST
+102, 6	220, 1-12	PEN	*um* dw ddim yn roi *title* crand arno fo o_gwbl dim mwy	NST	NST
+102, 7	221, 1-5	PEN	lol wnaeth neb ddallt o	NSNT	NSNT
+102, 8	222, 1-7	PEN	*um* a ti yn gwybod yr content	ST	ST
+102, 9	224, 1-7	PEN	*um* dw i wedi cynllunio hwnnw felly	---	NST
+
+
+103, 1	225, 1-5	CRL	ti wedi roi yr *format*	---	NST
+
+
+104, 1	226, 2-16	PEN	dw i wedi wneud y *format* i_gyd a *er* *addendums* a yr appendices a yr	NST	ST
+104, 2	228, 1-3	PEN	*figures* a pethau	NST	NST
+104, 3	229, 1-14	PEN	*yeah* dw i roughly yn gwybod be i sôn am pa strwythur i ddilyn	---	ST
+
+
+105, 1	231, 1-11	CRL	ond fi ddim yn gweld e yn *broblem* i ti o_gwbl	NST	NST
+105, 2	232, 1-9	CRL	achos gyd ti yn anelu at yw pymtheg mil	---	NSNT
+
+
+106, 1	233, 1-3	PEN	ia dw gwybod	NSNT	NSNT
+106, 2	234, 1-3	PEN	ia wnaeth hynna	NSNT	NSNT
+106, 3	234, 4-10	PEN	wnaeth y *just* *format* gymryd pedwar mil	NST	NST
+106, 4	234, 11-11	PEN	sti	NSNT	NSNT
+106, 5	235, 1-1	PEN	ond	NSNT	NSNT
+106, 6	236, 1-5	PEN	ond o'n i *right* gutted	ST	ST
+106, 7	237, 1-5	PEN	wnes i ddarllen *um* ymchwil	---	NST
+
+
+107, 1	238, 1-3	CRL	*so* be sy	ST	NST
+107, 2	239, 1-3	CRL	*sorry* go on	---	NST
+
+
+108, 1	240, 1-8	PEN	wnes i ddarllen ymchwil yn *er* journal *Howard*	NST	ST
+108, 2	241, 1-2	PEN	*Howard* journal	ST	NST
+108, 3	242, 1-3	PEN	*um* a mae	NST	NST
+108, 4	242, 4-12	PEN	mae wedi gael ei wneud o blaen gyn *Iolo_Madoc_Jones*	---	NST
+
+
+109, 1	243, 1-3	CRL	yr union beth	---	NSNT
+
+
+110, 1	245, 1-17	PEN	*well* dim yr union beth ond timod yr un yr un *sample* o'n i meddwl wneud a	---	NST
+
+
+111, 1	247, 1-9	CRL	*well* gei di ddefnyddio hwnna yn yr adolygiad llenyddol	---	NST
+
+
+112, 1	248, 1-9	PEN	ond does yna ddim gogwydd *policy* o_gwbl arno fo	NST	NST
+112, 2	249, 1-4	PEN	*well* dyna fe te	---	NST
+
+
+113, 1	250, 1-6	CRL	a gei di a gei di	NSNT	NSNT
+113, 2	251, 1-9	CRL	bydden i yn gweud yn yr adolygiad llenyddol felly	NSNT	NSNT
+113, 3	251, 10-11	CRL	bod ti	NSNT	NSNT
+113, 4	251, 12-21	CRL	timod ti wedi gweld hyn fel gwaith cefndirol a wedyn	NSNT	NSNT
+113, 5	251, 22-23	CRL	*just* bod	NST	NST
+113, 6	251, 24-26	CRL	bod angen bod	---	NSNT
+
+
+114, 1	252, 1-4	PEN	datblygu arno fo really	---	SNT
+
+
+115, 1	253, 1-4	CRL	*yeah* bod ti mynd	NST	NST
+115, 2	253, 5-9	CRL	i bod ti yn gweld	NSNT	NSNT
+115, 3	253, 10-19	CRL	bod angen cynnwys *um* yr elfen o *bolicy* yno fe	NST	NST
+115, 5	254, 1-7	CRL	ond mae yn eitha da mewn ffordd	NSNT	NSNT
+115, 6	256, 1-2	CRL	achos ti	NSNT	NSNT
+115, 7	257, 1-12	CRL	a ti hefyd yn gallu gweld beth mae hi wedi wneud a	NSNT	NSNT
+115, 8	257, 13-19	CRL	be sy wedi gweithio i hi a	NSNT	NSNT
+115, 9	257, 20-25	CRL	be sy heb weithio i hi	---	NSNT
+
+
+116, 1	258, 1-1	PEN	hollol	---	NSNT
+
+
+117, 1	259, 1-6	CRL	*so* mae hwnna fi yn credu	NST	NST
+117, 2	259, 7-10	CRL	bod hwnna yn dda	---	NSNT
+
+
+118, 1	262, 1-8	PEN	ond mae o yn dwy fil a phedwar	NSNT	NSNT
+118, 2	262, 9-10	PEN	dw meddwl	NSNT	NSNT
+118, 3	263, 1-7	PEN	a mae pethau wedi newid ers hynny	NSNT	NSNT
+118, 4	265, 1-2	PEN	wedyn *um*	---	NST
+
+
+119, 1	266, 1-10	CRL	*oh* na fi yn credu mae hwnna yn dda iawn	NST	NST
+119, 2	266, 11-17	CRL	bod ti yn cael tynnu ar hwnna	---	NSNT
+
+
+120, 1	267, 1-13	PEN	*oh* dyn nhw ddim wedi cynnwys ddim o yr Basic_Skills_Agency na dim_byd felly	NST	ST
+120, 2	267, 14-15	PEN	sy yn	NSNT	NSNT
+120, 3	269, 1-4	PEN	neu strategaethau yr Cynulliad	---	NSNT
+
+
+121, 1	270, 1-2	CRL	*yeah* mae	NST	NST
+121, 2	270, 3-10	CRL	mae niche ychwanegol fan yna te ar_gyfer hwnna	---	SNT
+
+
+122, 1	271, 1-1	PEN	yn_dydy	NSNT	NSNT
+122, 2	272, 1-17	PEN	dw i yn sbïo ar y *um* *well* llythrennedd a rhifyddeg yn y cyd_destun *policy* yna felly	NST	NST
+122, 3	274, 1-6	PEN	chwarae fwy efo yr *theory* pam	NST	NST
+122, 4	274, 7-15	PEN	bod nhw gorod mynd i carchar yn lle cynta	---	NSNT
+
+
+123, 1	275, 1-9	CRL	*yeah* *oh* na mae hwnna yn swno really ddiddorol	NST	ST
+123, 3	278, 1-9	CRL	fi yn credu byddi di yn *fine* gyda fe	NST	NST
+123, 4	279, 1-3	CRL	bydd ti *just*	NST	NST
+123, 5	280, 2-11	CRL	mae gyda ti hen ddigon o amser i wneud e	---	NSNT
+
+
+124, 1	281, 1-4	PEN	*well* dw yn gobeithio	NST	NST
+124, 2	282, 1-17	PEN	a wedyn dw i hefyd yn trio llunio yr *um* pethau i yr *ambulance* yma i *er*	---	NST
+
+
+125, 1	283, 1-4	CRL	i cael eu cyhoeddi	---	NSNT
+
+
+126, 1	284, 1-5	PEN	parod i cael ei gyhoeddi	NSNT	NSNT
+126, 2	285, 1-9	PEN	fwy o waith na o'n i feddwl ddeud gwir	---	NSNT
+
+
+127, 1	286, 1-4	CRL	beth yw yr beth	NSNT	NSNT
+127, 2	286, 5-8	CRL	yw yr *um* amser	NST	NST
+127, 3	286, 9-14	CRL	sy gyda ti ar_gyfer hwnna te	NSNT	NSNT
+127, 4	287, 1-5	CRL	beth yw yr terfyn amser	---	NSNT
+
+
+128, 1	288, 1-6	PEN	*well* mae nhw *just* wedi deud	NST	NST
+128, 2	288, 7-14	PEN	mae nhw wneud o yn y rhifyn nesa	NSNT	NSNT
+128, 3	289, 1-8	PEN	ond dw ddim yn gwybod faint o gyfrolau	NSNT	NSNT
+128, 4	289, 9-13	PEN	sy mewn rhifyn ti gwybod	NSNT	NSNT
+128, 5	289, 14-15	PEN	dw feddwl	---	NSNT
+
+
+129, 1	290, 1-7	CRL	dylet ti gofyn iddyn nhw yn union	NSNT	NSNT
+129, 2	290, 8-13	CRL	pryd mae nhw isie fe *just*	NST	NST
+129, 3	290, 14-18	CRL	*so* bod ti yn gallu	NST	NST
+129, 4	292, 1-10	CRL	gweld dy hunan be ti yn gweithio tuag ato fe	---	NSNT
+
+
+130, 1	293, 1-15	PEN	ond dw i yn tempted i *just* cael fath â *Jenny_Jones* *sort* of wneud o	NST	ST
+130, 2	294, 1-7	PEN	achos dw i wedi blino pwnc pwnc	---	NSNT
+
+
+131, 1	295, 1-2	CRL	*well* *yeah*	---	NST
+
+
+132, 1	296, 1-7	PEN	wneud o ers dros chwe mis do	---	NSNT
+
+
+133, 1	297, 1-10	CRL	*yeah* ti wedi treulio gymaint o amser yn wneud e	---	NST
+
+
+134, 1	298, 1-7	PEN	*just* dw ddim isio gweld o mwy	---	NST
+
+
+135, 1	299, 1-5	CRL	na gosh alla i gredu	---	SNT
+
+
+136, 1	301, 1-6	PEN	sut mae pethau mynd efo chdi	---	NSNT
+
+
+137, 1	302, 1-6	CRL	*yeah* ddim yn ddim yn wael	NST	NST
+137, 2	303, 1-6	CRL	fi wedi bod yn edrych ar	NSNT	NSNT
+137, 3	304, 1-9	CRL	*well* *Manon* a fi wedi bod yn siarad *um*	NST	NST
+137, 4	305, 1-9	CRL	oedd nhw wedi wneud astudiaeth tebyg yn y *Rhondda*	NST	NST
+137, 5	307, 1-6	CRL	*well* wnaethon *well* yn y saith_degau	NST	NST
+137, 6	307, 7-8	CRL	wnaethon nhw	NSNT	NSNT
+137, 7	308, 1-19	CRL	sa i yn gwybod fi yn credu fi wedi siarad amdanat ti amdano fe o yr blaen gyda ti	NSNT	NSNT
+137, 8	309, 1-15	CRL	*um* mae nhw yn o'n nhw yn edrych ar y cysyniad o spiralists a burgers	NST	ST
+137, 9	311, 1-1	CRL	spiralists	SNT	NSNT
+137, 10	312, 1-8	CRL	am y rhieni nawr yn spiralists a burgers	SNT	SNT
+137, 12	314, 1-9	CRL	a timod yr holl syniad o *spirals* o *um*	NST	NST
+137, 13	314, 10-18	CRL	timod o lefydd i fyw a rhwydweithiau gwahanol a	NSNT	NSNT
+137, 15	316, 1-16	CRL	felly o'n nhw yn *um* awgrymu i plant nhw dysgu ieithoedd eraill fel Sbaeneg neu Ffrangeg	---	NST
+
+
+138, 1	317, 1-2	PEN	*oh* *wow*	---	NST
+
+
+139, 1	318, 1-9	CRL	*um* a wedyn burgers wedyn yw *um* y rhieni	NST	ST
+139, 2	318, 10-12	CRL	oedd yn meddwl	NSNT	NSNT
+139, 3	319, 1-6	CRL	*well* mae yr Gymraeg yn ddefnyddiol	NST	NST
+139, 4	320, 1-10	CRL	a mae ein plant ni mynd i aros yng Nghymru	NSNT	NSNT
+139, 5	321, 1-5	CRL	felly mae dwyieithrwydd yn hanfodol	NSNT	NSNT
+139, 6	322, 1-8	CRL	*so* o'n nhw wedi fel bathu yr term	NST	NST
+139, 7	323, 1-10	CRL	*well* wnaethon nhw cymryd cymryd y termau o *um* *boy*	NST	NST
+139, 8	323, 11-18	CRL	oedd wedi bathu nhw *Watson* yn fi credu	NST	NST
+139, 9	323, 19-27	CRL	oedd e yn mil naw chwech pedwar neu rywbeth	NSNT	NSNT
+139, 10	324, 1-16	CRL	wedyn wnaethon nhw cymhwyso reina at astudiaeth o'n nhw wneud yn y saith_degau yn y *Rhondda*	NST	NST
+139, 11	325, 1-14	CRL	*um* *so* i mynd i fi wedi bod yn edrych ar yr astudiaeth yna	NST	NST
+139, 12	326, 1-8	CRL	wnes i treulio yr penwythnos yn wneud hwnna	---	NSNT
+
+
+140, 1	327, 1-2	PEN	*oh* *wow*	---	NST
+
+
+141, 1	328, 1-10	CRL	*um* a felly fi wedi bod yn edrych ar hwnna	NST	NST
+141, 3	329, 22-30	CRL	mae gyda nhw *um* uchelgeision gwahanol i plant nhw	NST	NST
+141, 4	330, 1-2	CRL	felly timod	NSNT	NSNT
+141, 5	330, 3-14	CRL	mae yr pobl o yr o yr *group* Cymraeg *um* yn meddwl	NST	NST
+141, 6	331, 1-8	CRL	*right* ni isie plant ni aros yng Nghymru	NST	NST
+141, 7	332, 1-17	CRL	fel fi wedi gweud defnyddio yr iaith *um* parchu yr iaith a a timod adfywio yr iaith	NST	NST
+141, 8	333, 1-10	CRL	lle mae yr pobl o o yr *group* di_Gymraeg yn	NST	NST
+141, 9	333, 11-12	CRL	dyn nhw	NSNT	NSNT
+141, 10	333, 13-21	CRL	pan mae nhw yn dewis ysgol i plant nhw	NSNT	NSNT
+141, 11	333, 22-27	CRL	mae nhw meddwl o ran cyfleustra	NSNT	NSNT
+141, 12	335, 1-19	CRL	dyn nhw ddim yn meddwl yn nhermau dyfodol i plant nhw gyrfa a a a iaith a pethau diwylliannol	NSNT	NSNT
+141, 13	336, 1-3	CRL	mae nhw meddwl	NSNT	NSNT
+141, 14	337, 1-7	CRL	*right* mae hyn yn gyfleus i fi	NST	NST
+141, 15	338, 1-6	CRL	mae yn cyfleus i yr plentyn	NSNT	NSNT
+141, 16	339, 1-6	CRL	*um* ond hefyd mae nhw meddwl	NST	NST
+141, 17	339, 7-10	CRL	bod Saesneg taw Saesneg	NSNT	NSNT
+141, 18	339, 11-16	CRL	yw yr ffordd i fynd ymlaen	NSNT	NSNT
+141, 19	341, 1-2	CRL	mae *lot*	NST	NST
+141, 20	341, 3-12	CRL	oedd *lot* ohonyn nhw yn y saith_degau yn y saith_degau	NST	NST
+141, 21	341, 13-21	CRL	mae yn eitha anhygoel i gredu dal yn credu	NSNT	NSNT
+141, 22	341, 22-28	CRL	bod y Gymraeg yn dal pobl nôl	NSNT	NSNT
+141, 24	343, 1-6	CRL	*so* timod y *Welsh_Not* drosodd drosodd	---	NST
+
+
+142, 1	344, 1-6	PEN	dim *just* yn ofalus ond dyna	NST	NST
+142, 2	344, 8-10	PEN	barn *mam* hefyd	NST	NST
+142, 3	344, 11-12	PEN	dw meddwl	NSNT	NSNT
+142, 4	346, 1-5	PEN	*yeah* sti dim cefnogaeth lleol	---	NST
+
+
+143, 1	347, 1-8	CRL	*mmm* mae yn anghredadwy i feddwl yn_dyw e	NST	NST
+143, 2	349, 1-3	CRL	a oedd *um*	NST	NST
+143, 3	350, 1-5	CRL	*so* *so* mae nhw wedi	NST	NST
+143, 4	350, 6-14	CRL	*so* mae nhw wedi gweld hwnna *um* fel ffordd	NST	NST
+143, 5	350, 16-19	CRL	bod nhw yn gweld	NSNT	NSNT
+143, 6	350, 20-27	CRL	bod symudolaeth cymdeithasol yng ynghlwm wrth y Saesneg	NSNT	NSNT
+143, 8	351, 20-25	CRL	sut mae wedi datblygu a beth	NSNT	NSNT
+143, 9	351, 26-28	CRL	yw rhesymau rhieni	---	NSNT
+
+
+144, 1	352, 1-6	PEN	os dan nhw wedi symud felly	---	NSNT
+
+
+145, 1	353, 1-4	CRL	dros anfon plant nhw	NSNT	NSNT
+145, 2	355, 1-11	CRL	*yeah* a timod ni yn ni yn gwybod fi yn gwybod	NST	NST
+145, 3	355, 12-13	CRL	timod nawr	NSNT	NSNT
+145, 4	355, 14-19	CRL	mae mynd i fod yn wahanol	NSNT	NSNT
+145, 5	355, 20-21	CRL	timod oherwydd	NSNT	NSNT
+145, 6	355, 22-29	CRL	timod ers i yr Cynulliad cael ei sefydlu	NSNT	NSNT
+145, 7	357, 1-3	CRL	mae dwyieithrwydd *just*	NST	NST
+145, 8	357, 4-7	CRL	wedi bod mor bwysig	NSNT	NSNT
+145, 9	358, 1-3	CRL	a mae yn	NSNT	NSNT
+145, 10	358, 4-6	CRL	mae yn rywbeth	NSNT	NSNT
+145, 11	358, 7-7	CRL	sy	NSNT	NSNT
+145, 12	358, 8-15	CRL	wedi bod ar *radar* pobl *um* a rywbeth	NST	NST
+145, 13	358, 16-24	CRL	mae nhw yn gallu cyfeirio ato fe a rywbeth	NSNT	NSNT
+145, 14	358, 25-35	CRL	sy yn cynnwys dewis *realistic* am yrfa hefyd fi yn credu	---	NST
+
+
+146, 1	361, 1-7	PEN	sut ti mynd i fesur hyn i_gyd	---	NSNT
+
+
+147, 1	362, 1-2	CRL	*question* da	NST	NST
+147, 3	365, 1-2	CRL	trwy addysg	NSNT	NSNT
+147, 4	366, 1-6	CRL	*so* fi mynd i dechrau gyda	NST	NST
+147, 5	367, 1-12	CRL	credu fi yn dechrau gyda cyfres o *um* holiaduron yn mynd allan	NST	NST
+147, 6	368, 1-18	CRL	a yn digon lwcus fi yn nabod *um* menyw sy yn gweithio yn y meithrinfa meithrinfa *um* lleol	NST	NST
+147, 7	369, 1-5	CRL	felly mae hi wedi dweud	NSNT	NSNT
+147, 8	369, 6-13	CRL	byddai hi yn os nag i yn gallu	NSNT	NSNT
+147, 9	369, 14-16	CRL	bod yn bresennol	NSNT	NSNT
+147, 10	369, 17-29	CRL	byddai hi yn dosbarthu nhw i fi a casglu nhw nhw nôl mewn	NSNT	NSNT
+147, 11	371, 1-5	CRL	ond licen i fod yna	NSNT	NSNT
+147, 12	372, 1-6	CRL	*so* wna i probably mynd lawr	NST	ST
+147, 13	374, 1-9	CRL	*um* a wedyn *so* hwnna yw yr cam cynta	NST	NST
+147, 15	375, 23-24	CRL	sy wedi	NSNT	NSNT
+147, 16	375, 25-28	CRL	sy wedi gorffen addysg	NSNT	NSNT
+147, 17	377, 1-19	CRL	*just* i ni gael yr amrediad yna a hefyd rhieni sy yn feichiog falle i *just* i weld beth	---	NST
+
+
+148, 1	379, 1-5	PEN	be ydy meddylfryd nhw felly	---	NSNT
+
+
+149, 1	380, 1-3	CRL	*yeah* yn union	NST	NST
+149, 2	382, 1-7	CRL	*so* ni ddim yn hollol *sure* eto	NST	NST
+149, 3	383, 1-4	CRL	mae raid ni *um*	NST	NST
+149, 4	383, 5-15	CRL	bod yn fwy really ffocysu fwy i i allu wneud hwnna	NSNT	SNT
+149, 5	384, 1-13	CRL	ond yn *so* dyna beth ni yn dechrau gyda ar hyn o bryd	NST	NST
+149, 6	385, 1-9	CRL	a wedyn fi ni mynd i gael cyfweliadau wedyn	NSNT	NSNT
+149, 7	386, 1-5	CRL	ond *um* *yeah* ran fwyaf	NST	NST
+149, 8	387, 1-3	CRL	sa i yn	NSNT	NSNT
+149, 9	388, 1-11	CRL	falle wnawn ni gael *er* *couple* o ddisgyblion mewn hefyd falle	NST	NST
+149, 10	390, 1-5	CRL	*um* *just* i weld timod	NST	NST
+149, 11	390, 6-15	CRL	os mae nhw yn ymwybodol o ddewis ddewis rhieni nhw	NSNT	NSNT
+149, 12	390, 16-20	CRL	a timod pethau fel yna	NSNT	NSNT
+149, 13	391, 1-9	CRL	ond *um* *yeah* na fi yn credu mae yn	NST	NST
+149, 14	391, 10-10	CRL	mae	NSNT	NSNT
+149, 15	391, 11-17	CRL	mae mynd i ddod ymlaen yn dda	NSNT	NSNT
+149, 16	392, 1-8	CRL	fi yn really edrych ymlaen at yr ymchwil	NSNT	SNT
+149, 18	395, 1-12	CRL	yn enwedig gyda dim *lot* wedi cael ei sgwennu ar y maes	NST	NST
+149, 19	397, 1-5	CRL	a felly achos timod ni	NSNT	NSNT
+149, 20	397, 6-11	CRL	wedi bod yn siarad gyda *Ray*	NST	NST
+149, 21	397, 12-24	CRL	a mae fe yn mynd trwy llyfrau lle fi yn mynd trwy penodau	NSNT	NSNT
+149, 22	399, 1-10	CRL	achos does dim *lot* wedi cael ei sgwennu arno fe	NST	NST
+149, 23	400, 1-10	CRL	mae yn anodd iawn cadw yn frwdfrydig pan chi meddwl	NSNT	NSNT
+149, 24	401, 1-10	CRL	*oh* fi wedi darllen hyn tua pedair gwaith yn barod	---	NST
+
+
+150, 1	402, 3-4	PEN	mae o	NSNT	NSNT
+150, 2	402, 5-5	PEN	dydy	---	NSNT
+
+
+151, 1	403, 1-3	CRL	*so* *so* dyna	NST	NST
+151, 2	403, 4-10	CRL	be sy yn anodd ar y funud	---	NSNT
+
+
+152, 1	404, 1-9	PEN	yr un themâu yn dal i ddod i_fyny a	---	NSNT
+
+
+153, 1	406, 1-3	CRL	a mae hwnna	NSNT	NSNT
+153, 2	406, 5-10	CRL	mae hwnna yn dangos o leia	NSNT	NSNT
+153, 3	406, 11-11	CRL	bod	NSNT	NSNT
+153, 4	406, 12-21	CRL	bod yna ryw fath o gadernid o_gwmpas *um* y themâu	NST	NST
+153, 5	408, 1-11	CRL	a hefyd bod yna neb yn wneud ddim_byd amdano fo dal	NSNT	NSNT
+153, 6	408, 12-13	CRL	yn bod	NSNT	NSNT
+153, 7	409, 1-6	CRL	*well* *yeah* yn union yn union	NST	NST
+153, 8	410, 1-13	CRL	ond fi yn gallu cyfri ar yn un llaw faint o o astudiaethau	NSNT	NSNT
+153, 9	410, 14-17	CRL	mae pobl wedi wneud	NSNT	NSNT
+153, 10	410, 18-21	CRL	timod gyda dewis rhieni	NSNT	NSNT
+153, 11	410, 22-24	CRL	timod pa fath	NSNT	NSNT
+153, 12	410, 25-26	CRL	timod le	NSNT	NSNT
+153, 13	410, 27-33	CRL	mae yr plant yn mynd i fynd	NSNT	NSNT
+153, 14	411, 2-9	CRL	does dim *lot* o_gwbl mor benodol â hwnna	NST	NST
+153, 15	412, 1-7	CRL	mae ran fwyaf o yr pethau fi	NSNT	NSNT
+153, 16	412, 8-16	CRL	wedi bod yn darllen ar hyn o bryd ynglŷn	NSNT	NSNT
+153, 17	412, 17-22	CRL	â fel hanes cymdeithasol yr iaith	NSNT	NSNT
+153, 18	414, 1-17	CRL	*so* pontio beth o'n i wedi wneud gyda yr *m_a* a ychwanegu a mynd yn fwy fanwl	NST	NST
+153, 19	416, 1-3	CRL	*so* mae hwnna	NST	NST
+153, 20	416, 4-14	CRL	timod fi wedi sgwennu bron i ugain mil ar hwnna *so*	---	NST
+
+
+154, 1	417, 1-3	PEN	oes yna rywbeth	NSNT	NSNT
+154, 2	417, 4-11	PEN	elli di ddwyn o dy *m_a* i yr	---	NST
+
+
+155, 1	420, 1-13	CRL	a *as* long *as* bod ti yn cite_o dy hunan ti yn iawn	ST	ST
+155, 2	422, 1-2	CRL	*yeah* *so*	---	NST
+
+
+156, 1	423, 1-4	PEN	*as* I said before	---	NST
+
+
+157, 1	424, 1-5	CRL	*Salisbury* dwy fil a chwech	---	NST
+
+
+158, 1	425, 1-2	PEN	da wan	---	NSNT
+
+
+159, 1	426, 1-11	CRL	*so* *um* *yeah* na *so* *yeah* na bydd e yn iawn	NST	NST
+159, 2	427, 1-15	CRL	ond fi *just* yn *yeah* fi yn fi yn joio fe ar hyn o bryd	NST	NST
+159, 4	430, 1-7	CRL	achos fi *just* yn meddwl *well* timod	---	NST
+
+
+160, 1	431, 1-7	PEN	mae *Manon* yn dda fel yna though	ST	ST
+160, 2	431, 8-8	PEN	dydy	---	NSNT
+
+
+161, 1	432, 1-2	CRL	*well* ydy	NST	NST
+161, 2	432, 4-6	CRL	mae yn dda	NSNT	NSNT
+161, 3	433, 1-7	CRL	mae yn roi *lot* o opsiynau gwahanol	NST	NST
+161, 5	435, 1-12	CRL	dyna beth o'n i yn hoffi pan o'n i yn wneud *m_a*	NST	NST
+161, 6	436, 1-7	CRL	timod o'n i ddim yn ry hoff	---	NSNT
+
+
+162, 1	437, 1-4	PEN	be gwaith maes felly	---	NSNT
+
+
+163, 1	438, 1-16	CRL	*yeah* o'n i ddim yn ry hoff o yr modylau fel ti yn gwybod dy hunan	---	NST
+
+
+164, 1	442, 1-2	PEN	does neb	NSNT	NSNT
+164, 2	442, 3-4	PEN	nag oes	---	NSNT
+
+
+165, 1	443, 1-3	CRL	nag oes na	---	NSNT
+
+
+166, 1	444, 1-4	PEN	does neb wneud y	NSNT	NSNT
+166, 2	444, 5-6	PEN	nag oes	---	NSNT
+
+
+167, 1	446, 1-3	CRL	ond mae yn	NSNT	NSNT
+167, 2	446, 5-7	CRL	mae yn dangos	SNT	NSNT
+167, 3	447, 1-8	CRL	because mae pobl yn dod o yr gradd	NSNT	SNT
+167, 4	447, 9-25	CRL	timod wedi wneud yn dda neu *just* wedi joio cymaint a wedyn chi yn cyrraedd yr *m_a*	NST	NST
+167, 5	447, 26-34	CRL	a does neb yn mwynhau ar yr un *level*	NST	NST
+167, 6	449, 2-10	CRL	oedd merched y swyddfa yn gweud o'n nhw *just*	NST	NST
+167, 7	451, 1-5	CRL	y peth o *just* orffen	NST	NST
+167, 8	451, 6-9	CRL	*just* gorffen yr *m_a*	NST	NST
+167, 9	451, 10-12	CRL	oedd e dim	NSNT	NSNT
+167, 10	451, 13-15	CRL	timod mwynhau e	NSNT	NSNT
+167, 11	452, 1-11	CRL	o'n nhw *just* wneud e er_mwyn gorffen a wedyn dyna fe	---	NST
+
+
+168, 1	453, 1-7	PEN	oedden nhw gyd yr un fath o'n	---	NSNT
+
+
+169, 1	454, 1-2	CRL	*yeah* bendant	NST	NST
+169, 2	455, 1-3	CRL	*well* oedd un	NST	NST
+169, 3	455, 4-15	CRL	oedd un wedi treulio wythnos ar thraethawd hir ei thraethawd hir hi	---	NSNT
+
+
+170, 1	456, 1-1	PEN	*Sandra*	---	NST
+
+
+171, 1	457, 1-12	CRL	*yeah* oedd hi ddim wedi treulio *lot* o amser o_gwbl falle pythefnos	---	NST
+
+
+172, 1	459, 1-2	PEN	*yeah* wir	---	NST
+
+
+173, 1	460, 1-7	CRL	oedd hi *just* ddim yn mwynhau e	NST	NST
+173, 2	461, 1-2	CRL	oedd hi	NSNT	NSNT
+173, 3	461, 3-12	CRL	oedd hi yn agos iawn at at at gollwng allan	NSNT	NSNT
+173, 4	462, 1-14	CRL	*so* fi yn credu oedd hi *just* isie *just* gorffen e llinell o_dano fe	NST	NST
+173, 5	462, 15-17	CRL	dyna fe wedyn	NSNT	NSNT
+173, 6	463, 1-7	CRL	ond *um* *yeah* mae fi yn credu	NST	NST
+173, 7	463, 8-10	CRL	bod e yn	NSNT	NSNT
+173, 8	463, 11-14	CRL	mae yn fel trueni	NSNT	NSNT
+173, 9	463, 15-20	CRL	bod pobl yn teimlo fel yna	NSNT	NSNT
+173, 10	464, 1-9	CRL	achos chi yn meddwl *well* timod rywbeth ôl_radd nawr	NST	NST
+173, 11	464, 10-10	CRL	dylai	NSNT	NSNT
+173, 12	464, 11-15	CRL	bod e yn fwy stimulating	SNT	SNT
+173, 13	465, 1-2	CRL	dylai rywbeth	NSNT	NSNT
+173, 14	465, 3-6	CRL	mae pobl yn gallu	NSNT	NSNT
+173, 15	465, 7-19	CRL	timod cymryd gafael arno fe a a arwain *lot* ohono fe eu hunain	NST	NST
+173, 16	467, 1-4	CRL	ond wedyn mae isie	NSNT	NSNT
+173, 17	467, 5-9	CRL	bod y cefnogaeth fan yna	NSNT	NSNT
+173, 18	468, 1-10	CRL	ac yn aml dyw e ddim fi ddim yn meddwl	NSNT	NSNT
+173, 19	471, 1-4	CRL	fi ddim yn credu	---	NSNT
+
+
+174, 1	472, 1-4	PEN	dydy strwythur ddim yna	NSNT	NSNT
+174, 2	472, 5-8	PEN	nag ydy i helpu	---	NSNT
+
+
+175, 1	473, 1-12	CRL	na a sa i yn credu bod y cydbwysedd yn iawn chwaith	NSNT	NSNT
+175, 2	474, 1-13	CRL	achos fi yn credu weithiau ych chi yn cael eich gadael i wneud	NSNT	NSNT
+175, 3	474, 14-19	CRL	timod pethau ar ben eich hunan	NSNT	NSNT
+175, 4	474, 20-23	CRL	sy yn hollol iawn	NSNT	NSNT
+175, 5	474, 24-25	CRL	a dylai	NSNT	NSNT
+175, 6	474, 26-31	CRL	bod ni yn annog gwaith annibynnol	NSNT	NSNT
+175, 7	476, 1-13	CRL	ond wedyn ar y llaw arall ych chi yn talu am cwrs wedi	NSNT	NSNT
+175, 8	476, 14-16	CRL	ei dysgu hefyd	NSNT	NSNT
+175, 9	477, 1-5	CRL	felly timod fi yn credu	NSNT	NSNT
+175, 10	477, 6-12	CRL	bod angen fwy o gydbwysedd fan yna	NSNT	NSNT
+175, 11	479, 1-11	CRL	ond na fi yn really edrych ymlaen at y gwaith maes	NSNT	SNT
+175, 12	480, 1-4	CRL	fi yn edrych ymlaen	---	NSNT
+
+
+176, 1	481, 1-5	PEN	pryd fyddi yn cychwyn hwnna	---	NSNT
+
+
+177, 1	482, 1-6	CRL	*yeah* sa i yn hollol *sure*	NST	NST
+177, 2	483, 1-6	CRL	oedd *Manon* yn wreiddiol wedi dweud	NST	NST
+177, 3	483, 7-9	CRL	bydden ni yn	NSNT	NSNT
+177, 4	483, 10-18	CRL	bydden ni yn wneud *um* *stuff* dros yr haf	NST	NST
+177, 5	484, 1-7	CRL	ond fi ddim yn credu bod hwnna	---	NSNT
+
+
+178, 1	485, 1-4	PEN	*lot* rhy fuan de	---	NST
+
+
+179, 1	486, 1-11	CRL	*yeah* fi ddim yn credu bod e mynd i weithio chwaith	NST	NST
+179, 2	487, 1-9	CRL	oherwydd os fi eisiau mynd i ysgolion a meithrinfeydd	---	NSNT
+
+
+180, 1	488, 1-3	PEN	wedi cau bydd	---	NSNT
+
+
+181, 1	489, 1-2	CRL	yn union	NSNT	NSNT
+181, 2	490, 1-13	CRL	*so* fi *just* mynd i weld cymaint mwy fi yn gallu darllen nawr	NST	NST
+181, 3	491, 1-13	CRL	a fi yn credu fi angen dechrau darllen fwy o pethau cyfoes hefyd	NSNT	NSNT
+181, 4	493, 1-13	CRL	*um* achos fi wedi bod yn treulio *lot* o amser gyda yr hanes	NST	NST
+181, 5	494, 1-7	CRL	fi yn credu mae isie i fi	NSNT	NSNT
+181, 6	494, 8-25	CRL	timod dechrau cael fwy o adroddiadau adroddiadau yr Cynulliad a roi fwy o *policy* mewn i yr waith	NST	NST
+181, 7	495, 1-5	CRL	achos timod fi yn cymdeithasegwraig	NSNT	NSNT
+181, 8	496, 1-5	CRL	sa i yn *person* *policy*	NST	NST
+181, 9	497, 1-8	CRL	*so* mae isie fi ychwanegu fwy at hwnna	---	NST
+
+
+182, 1	498, 1-4	PEN	lle gei di rheina	SNT	NSNT
+182, 2	499, 1-8	PEN	Sure_Start a ballu a ryw brosiectau fel yna	---	SNT
+
+
+183, 1	500, 1-3	CRL	fi meddwl *yeah*	NST	NST
+183, 2	501, 1-8	CRL	a wna i *just* edrych fi yn credu	NST	NST
+183, 3	501, 9-12	CRL	wna i *just* edrych	NST	NST
+183, 4	502, 1-10	CRL	fi yn gwybod dyw e ddim yn wefan rwydd iawn	NSNT	NSNT
+183, 5	503, 1-9	CRL	fi credu wna i *just* edrych ar y Cynulliad	---	NST
+
+
+184, 1	504, 1-4	PEN	*och* hollol glogyrnaidd dydy	---	NST
+
+
+185, 1	505, 1-6	CRL	mae yn ofnadwy yn_dyw e ofnadwy	NSNT	NSNT
+185, 3	508, 1-11	CRL	ond *um* fi mynd i edrych mewn timod cyfrolau addysg hefyd	---	NST
+
+
+186, 1	509, 1-3	PEN	cynghorau lleol sti	NSNT	NSNT
+186, 2	511, 1-4	PEN	*lot* hawsach i ddefnyddio	---	NST
+
+
+187, 1	513, 1-4	CRL	mae hwnna wir ie	---	NSNT
+
+
+188, 1	514, 1-6	PEN	mae nhw gorod addasu cynlluniau Cynulliad	NSNT	NSNT
+188, 2	514, 7-7	PEN	dydy	---	NSNT
+
+
+189, 1	515, 1-2	CRL	yn union	NSNT	NSNT
+189, 2	516, 1-2	CRL	a timod	NSNT	NSNT
+189, 3	516, 3-8	CRL	mae gen i gysylltiadau yng *Nghaerphilly*	NST	NST
+189, 5	518, 33-35	CRL	timod i weud	NSNT	NSNT
+189, 6	518, 36-39	CRL	bod nhw mynd i	NSNT	NSNT
+189, 7	518, 40-42	CRL	timod perfformio popeth	---	NSNT
+
+
+190, 1	519, 1-6	PEN	trwy Cymraeg *yeah* dw yn cofio	---	NST
+
+
+191, 1	521, 1-2	CRL	naw_deg_chwech falle	NSNT	NSNT
+191, 2	522, 1-6	CRL	pan wnaeth y siroedd newid drosodd	---	NSNT
+
+
+192, 1	524, 1-3	PEN	*oh* ie ella	NST	NST
+192, 2	525, 1-6	PEN	na *just* naw_deg_tri oedd y ddeddf	---	NST
+
+
+193, 1	526, 1-1	CRL	*so*	---	NST
+
+
+194, 1	528, 1-5	PEN	ia naw_deg_naw chdi felly de	NSNT	NSNT
+194, 2	528, 6-13	PEN	pan oedd Bwrdd_Iaith yn monitro cynlluniau iaith felly	---	NSNT
+
+
+195, 1	529, 1-6	CRL	*yeah* *yeah* a naw_deg_chwech pryd oedd	NST	NST
+195, 2	531, 1-11	CRL	ti ddim yn digwydd gwybod beth yw *um* cyllid *er* Bwrdd_yr_Iaith	NST	NST
+195, 3	531, 12-13	CRL	wyt ti	---	NSNT
+
+
+196, 1	532, 1-1	PEN	nach	NSNT	NSNT
+196, 2	532, 2-2	PEN	ydw	---	NSNT
+
+
+197, 1	534, 1-5	CRL	dim *off* *top* dy ben	---	NST
+
+
+198, 1	535, 1-7	PEN	na dim *off* *top* y mhen de	NST	NST
+198, 4	538, 1-1	PEN	nach	NSNT	NSNT
+198, 5	538, 2-2	PEN	ydw	NSNT	NSNT
+198, 6	539, 1-5	PEN	gofyn wrtha fi mis Medi	NSNT	NSNT
+198, 7	539, 6-6	PEN	yli	NSNT	NSNT
+198, 9	541, 1-4	PEN	fydda i yn gwybod	---	NSNT
+
+
+199, 1	542, 1-6	CRL	bydd ti yn ran ohono fe	---	NSNT
+
+
+200, 1	543, 1-1	PEN	byddaf	---	NSNT
+
+
+201, 1	544, 1-4	CRL	ti yn edrych ymlaen	---	NSNT
+
+
+202, 1	545, 1-1	PEN	yndw	NSNT	NSNT
+202, 2	545, 2-4	PEN	dw i yn	NSNT	NSNT
+202, 3	546, 1-5	PEN	ond *um* mae yn *odd*	NST	NST
+202, 4	546, 6-6	PEN	sti	NSNT	NSNT
+202, 5	547, 1-3	PEN	dw gorod darfod	NSNT	NSNT
+202, 6	548, 1-10	PEN	mae nhw isio cofrestru ar y *p_h_d* ar y twenty_sixth	---	ST
+
+
+203, 1	549, 1-9	CRL	a bydd ti heb bennu yr Masters erbyn hynny	---	SNT
+
+
+204, 1	550, 1-7	PEN	traethawd hir fod i_fewn ar y thirtieth	SNT	SNT
+204, 2	551, 1-9	PEN	ond dw i am drio gael o i_fewn twenty_eighth	SNT	SNT
+204, 3	552, 1-3	PEN	*er* gawn ni	NST	NST
+204, 4	552, 4-6	PEN	gawn ni weld	NSNT	NSNT
+204, 5	553, 1-3	PEN	gawn ni weld	---	NSNT
+
+
+205, 1	554, 1-2	CRL	mae yn	NSNT	NSNT
+205, 2	554, 3-5	CRL	mae yn annheg	NSNT	NSNT
+205, 3	554, 6-10	CRL	bod y ddau yn gor_lap_io	---	SNT
+
+
+206, 1	555, 1-1	PEN	cyd_daro	NSNT	NSNT
+206, 2	558, 1-3	PEN	ond mae yna	NSNT	NSNT
+206, 3	558, 4-9	PEN	oes wedyn cyn dyfarnu yr gradd	NSNT	NSNT
+206, 4	558, 10-11	PEN	mae *sure*	---	NST
+
+
+207, 1	559, 1-2	CRL	*oh* bydd	---	NST
+
+
+208, 1	560, 1-1	PEN	*so*	---	NST
+
+
+209, 1	561, 1-2	CRL	wyth mis	---	NSNT
+
+
+210, 1	562, 1-3	PEN	*oh* mae hynna	NST	NST
+210, 2	563, 1-6	PEN	oedd hi yn wyth yn diwedd	---	NSNT
+
+
+211, 1	564, 1-2	CRL	wnawn ni	NSNT	NSNT
+211, 2	564, 3-4	CRL	gyfri nawr	---	NSNT
+
+
+212, 1	565, 1-2	PEN	chwech de	---	NSNT
+
+
+213, 1	566, 1-1	CRL	Medi	SNT	NSNT
+213, 2	567, 1-1	CRL	*well*	ST	NST
+213, 3	568, 1-4	CRL	*so* Hydref Tachwedd Rhagfyr	---	NST
+
+
+214, 1	570, 1-2	PEN	Mawrth Medi	---	NSNT
+
+
+215, 1	572, 1-12	CRL	mis ges i diwedd mis Mawrth yn mynd mewn i wyliau Pasg	---	NSNT
+
+
+216, 1	573, 1-6	PEN	mi oedd hi yn wyth felly	---	NSNT
+
+
+217, 1	575, 1-5	CRL	*so* wnaeth hwnna cymryd *spell*	---	NST
+
+
+218, 1	576, 1-7	PEN	does yna ddim *point* cael *deadline* felly	NST	NST
+218, 2	576, 8-9	PEN	nag oes	---	NSNT
+
+
+219, 1	577, 1-3	CRL	*oh* nag oes	NST	NST
+219, 2	578, 1-2	CRL	allen i	NSNT	NSNT
+219, 3	578, 3-9	CRL	wedi bod dal yn gweithio arno fe	---	NSNT
+
+
+220, 1	579, 1-2	PEN	*oh* hollol	---	NST
+
+
+221, 1	580, 1-10	CRL	ond *um* na fi *just* yn credu bydd e yn	NST	NST
+221, 2	580, 11-16	CRL	bydd e yn *nice* i ti	NST	NST
+221, 3	581, 1-9	CRL	*just* bydd e yn *change* of scenery *change* pace	ST	ST
+221, 4	582, 1-8	CRL	a gei di *just* mynd swyddfa dy hunan	NST	NST
+221, 5	584, 1-7	CRL	*um* timod gweithio ar *broject* hollol wahanol	---	NST
+
+
+222, 1	585, 1-1	PEN	bydd	NSNT	NSNT
+222, 2	585, 2-5	PEN	fydd hynna yn braf	---	NSNT
+
+
+223, 1	586, 1-6	CRL	dal yn cynnwys yr iaith fel	NSNT	NSNT
+223, 2	586, 7-18	CRL	bod ti isie a fel ni gyd isie ond *just* *perspective* gwahanol	---	NST
+
+
+224, 1	588, 1-1	PEN	bydd	---	NSNT
+225, 2	590, 1-6	CRL	achos oedd e yn eitha tebyg	---	NSNT
+
+
+226, 1	591, 1-2	PEN	dilyniant felly	---	NSNT
+
+
+227, 1	594, 1-18	CRL	ond wedyn ar y llaw arall fi yn timod fi yn dal yn defnyddio *lot* o yr *data*	NST	NST
+227, 2	595, 1-4	CRL	mae *lot* o bethau	NST	NST
+227, 3	595, 5-10	CRL	wnes i darllen ar_gyfer yr *m_a*	---	NST
+
+
+228, 1	596, 1-2	PEN	yn berthnasol	---	NSNT
+
+
+229, 1	597, 1-4	CRL	*yeah* yn hollol berthnasol	NST	NST
+229, 2	598, 1-5	CRL	*so* mae hwnna yn dda	---	NST
+
+
+230, 1	599, 1-6	PEN	fydd o i_gyd yn gorgyffwrdd anyway	SNT	SNT
+230, 2	599, 7-7	PEN	bydd	---	NSNT
+
+
+231, 1	600, 1-1	CRL	bydd	NSNT	NSNT
+231, 2	600, 2-2	CRL	bydd	NSNT	NSNT
+231, 3	601, 1-11	CRL	*so* fi *yeah* fi yn credu mae hwnna yn bwysig iawn	NST	NST
+231, 4	602, 1-2	CRL	a timod	NSNT	NSNT
+231, 5	602, 3-12	CRL	mae *lot* o pethau fel *profile* ieithyddol yr ardal *well*	NST	NST
+231, 6	602, 13-18	CRL	bydda i ddim goffod ailsgwennu hwnna	NSNT	NSNT
+231, 7	603, 1-7	CRL	achos mae wedi cael ei sgwennu nawr	NSNT	NSNT
+231, 8	605, 1-10	CRL	*so* mae hwnna tua tair pedair mil *just* fan yna	NST	NST
+231, 9	606, 1-5	CRL	*so* bydd hwnna yn cael	---	NST
+
+
+232, 1	607, 1-5	PEN	ti yn iawn felly dwyt	---	NSNT
+
+
+233, 1	608, 1-6	CRL	bydd hwnna yn cael ei cynnwys	---	NSNT
+
+
+234, 1	609, 1-9	PEN	os na fydd *Gordon_Brown* yn newid pethau i ni	---	NST
+
+
+235, 1	610, 1-4	CRL	*well* ie dyna fe	NST	NST
+235, 2	611, 1-2	CRL	ond timod	NSNT	NSNT
+235, 3	611, 3-6	CRL	mae pethau lleol lleol	NSNT	NSNT
+235, 5	613, 1-10	CRL	pethau lleol lleol fel hanes y Gymraeg yn yr ardal	NSNT	NSNT
+235, 6	615, 2-6	CRL	mae hwnna yn sefyll fel	NSNT	NSNT
+235, 7	615, 7-8	CRL	yw e	NSNT	NSNT
+235, 8	616, 2-4	CRL	does dim angen	NSNT	NSNT
+235, 9	616, 5-9	CRL	does dim angen addasu hwnna	NSNT	NSNT
+235, 11	619, 1-11	CRL	achos mae gyda fi fwy o eiriau i chwarae gyda nhw	NSNT	NSNT
+235, 12	620, 1-12	CRL	ond *um* na fi yn credu mae mynd i fod yn iawn	NST	NST
+235, 14	622, 1-5	CRL	ond mae *Manon* wedi dweud	NST	NST
+235, 15	622, 6-12	CRL	bydd hi yn helpu gyda hwnna achos	---	NSNT
+
+
+236, 1	623, 1-7	PEN	pryd mae dy *thesis* committee nesa di	---	ST
+
+
+237, 1	624, 1-4	CRL	sa i yn *sure*	NST	NST
+237, 2	625, 1-7	CRL	a fi fi ddim mynd i i	---	NSNT
+
+
+238, 1	626, 1-2	PEN	bwyso na	---	NSNT
+
+
+239, 1	627, 1-3	CRL	na ddim o_gwbl	NSNT	NSNT
+239, 3	629, 1-7	CRL	ond fi ddim mynd i wthio fe	---	NSNT
+
+
+240, 1	631, 1-7	PEN	ti ddim wedi wneud llawer o gynnydd	---	NSNT
+
+
+241, 1	632, 1-2	CRL	*well* na	NST	NST
+241, 2	633, 1-7	CRL	fi wedi timod fi yn fi yn	---	NSNT
+
+
+242, 1	634, 1-1	PEN	darllen	---	NSNT
+
+
+243, 1	635, 1-6	CRL	*yeah* fi yn darllen a darllen	NST	NST
+243, 2	636, 1-7	CRL	a fi yn compile_o *lot* o nodiadau	NST	ST
+243, 3	637, 1-19	CRL	ond i ddim wedi roi nhw mewn i i ffurf pennod fel fi wedi gyda yr pennod gynta eto	NSNT	NSNT
+243, 4	639, 1-11	CRL	*just* oherwydd fi ddim yn gweld unrhyw *boint* wneud hwnna eto	NST	NST
+243, 5	640, 1-10	CRL	a timod o'n i siarad gyda pobl yn y swyddfa	NSNT	NSNT
+243, 6	640, 11-25	CRL	a timod o'n nhw ddim hyd_yn_oed wedi wneud unrhyw benodau yn ystod y flwyddyn gynta	NSNT	NSNT
+243, 7	641, 1-11	CRL	oedd e *just* yn darllen darllen creu nodiadau teipio nhw fyny	NST	NST
+243, 8	641, 12-24	CRL	a bod nhw *just* fan yna yn barod a wedyn dechrau fformwleiddio penodau	---	NST
+
+
+244, 1	642, 1-6	PEN	*oh* ti ar y blaen felly	---	NST
+
+
+245, 1	644, 1-7	CRL	*well* fi ddim yn gwybod am hwnna	NST	NST
+245, 2	645, 1-2	CRL	ond fi	---	NSNT
+
+
+246, 1	646, 1-4	PEN	na mae o yn	NSNT	NSNT
+246, 2	646, 5-6	PEN	dw meddwl	NSNT	NSNT
+246, 3	646, 7-9	PEN	bod o bwysig	NSNT	NSNT
+246, 4	647, 1-9	PEN	achos ti yn *berson* visual fath â fi dwyt	---	ST
+
+
+247, 1	648, 1-2	CRL	*yeah* ydw	---	NST
+
+
+248, 1	649, 1-11	PEN	ti yn gorod weld o *sort* of yn ffurfio ei hunan	---	ST
+
+
+249, 1	650, 1-6	CRL	*yeah* a fi yn credu mae	NST	NST
+249, 2	651, 1-14	CRL	beth fi mynd i wneud hefyd fi yn credu yw achos bod fi yn	NSNT	NSNT
+249, 3	652, 1-5	CRL	fi mynd trwy pethau nawr	NSNT	NSNT
+249, 4	653, 1-8	CRL	fi wedi llenwi *lot* o dudalennau ar papur	NST	NST
+249, 5	654, 1-16	CRL	*so* beth fi wneud ar hyn o bryd yw fi yn teipio *lot* o bethau lan	NST	NST
+249, 6	654, 17-25	CRL	pan mae gyda fi awr sbâr neu beth bynnag	NSNT	NSNT
+249, 7	655, 1-4	CRL	fi *just* yn teipio	NST	NST
+249, 8	657, 1-20	CRL	a wedyn fi mynd i gyrru popeth at *Manon* wedyn *so* mae hi yn gallu gweld faint fi wedi darllen	NST	NST
+249, 9	658, 1-3	CRL	*um* a timod	NST	NST
+249, 10	658, 4-12	CRL	mae gyda fi yr *files* i_gyd ar y cyrfrifiadur	NST	NST
+249, 11	659, 1-15	CRL	*um* *so* mae hwnna wedyn yn yn galluogi fi i greu penodau gyda nhw wedyn	NST	NST
+249, 12	660, 1-5	CRL	achos mae popeth fan yna	NSNT	NSNT
+249, 13	661, 1-1	CRL	mae	NSNT	NSNT
+249, 14	661, 2-6	CRL	mae wybodaeth gyd fan yna	NSNT	NSNT
+249, 15	662, 1-5	CRL	timod fi ddim yn goffod	NSNT	NSNT
+249, 16	662, 6-7	CRL	meddwl *oh*	NST	NST
+249, 17	662, 8-14	CRL	bydd raid fi teipo hyn gyd lan	NSNT	NSNT
+249, 18	662, 15-17	CRL	timod blwyddyn nesa	NSNT	NSNT
+249, 19	663, 1-4	CRL	mae gyd wedi teipio	NSNT	NSNT
+249, 20	664, 1-16	CRL	*so* mae *just* angen creu a chwarae o_gwmpas gyda fe wedyn i creu y penodau yna	NST	NST
+249, 21	666, 1-11	CRL	ond *um* *yeah* fi na fi yn edrych ymlaen ato fe	---	NST
+
+
+250, 1	670, 1-10	PEN	ie elli di reoli dy hun heb ystyried bobl eraill	---	NSNT
+
+
+251, 1	672, 1-3	CRL	*yeah* yn union	NST	NST
+251, 2	673, 1-10	CRL	achos o'n i fi wedi bod meddwl yn ddiweddar *oh*	NST	NST
+251, 3	673, 12-17	CRL	wna i mynd mewn i llyfrgell	NSNT	NSNT
+251, 4	673, 18-23	CRL	a wna i hammer_o yr gwaith	NSNT	SNT
+251, 5	674, 1-16	CRL	timod o'n i yn cofio yr haf diwetha gyda ni yn wneud yr holl aseiniadau yna	---	NSNT
+
+
+252, 1	675, 1-4	PEN	yn byw yna doedden	---	NSNT
+
+
+253, 1	676, 1-6	CRL	faint oedd gyda gyda ni wneud	---	NSNT
+
+
+254, 1	677, 1-9	PEN	*well* wnes i wneud pump mewn tair wsnos *yeah*	---	NST
+
+
+255, 1	678, 1-4	CRL	*mmm* wnaethon ni wneud	NST	NST
+255, 3	680, 1-17	CRL	o'n ni yn eistedd wrth y *desk* gymaint o amser yn y llyfrgell oedd pobl yn credu	NST	NST
+255, 4	680, 18-23	CRL	bod ni yn dechrau byw yna	SNT	NSNT
+255, 5	682, 1-4	CRL	*change* of address *cards*	ST	NST
+255, 6	684, 1-3	CRL	ond *um* *yeah*	NST	NST
+255, 7	685, 1-16	CRL	fi yn credu hefyd mae yn un o yr un o yr pethau yna lle os	NSNT	NSNT
+255, 8	685, 17-24	CRL	nag wyt ti teimlo cyfforddus yn gweithio rywle	NSNT	NSNT
+255, 9	685, 25-31	CRL	does dim *point* hyd_yn_oed ystyried y peth	---	NST
+
+
+256, 1	686, 1-4	PEN	ddim gweithio na wneith	---	NSNT
+
+
+257, 1	688, 1-13	CRL	a ar hyn o bryd fi ddim yn gweld y swyddfa yn lle	---	NSNT
+
+
+258, 1	689, 1-1	PEN	cynyhyrchiol	---	NSNT
+
+
+259, 1	690, 1-3	CRL	na fi ddim	NSNT	NSNT
+259, 2	691, 1-17	CRL	*just* oherwydd fi ddim yn gwybod dyw yr vive ddim yn iawn yna ar hyn o bryd	---	ST
+
+
+260, 1	693, 1-4	PEN	a mae lleill bron	NSNT	NSNT
+260, 2	693, 5-8	PEN	â darfod wan dydyn	NSNT	NSNT
+260, 3	694, 1-4	PEN	mae nhw yn eu	---	NSNT
+
+
+261, 1	695, 1-1	CRL	ydyn	NSNT	NSNT
+261, 2	695, 2-2	CRL	ydyn	---	NSNT
+
+
+262, 1	696, 1-8	PEN	wedyn mae gynnyn nhw lai o bwysau am	NSNT	NSNT
+262, 2	696, 9-10	PEN	wn i	NSNT	NSNT
+262, 3	696, 11-11	PEN	does	NSNT	NSNT
+262, 4	697, 1-6	PEN	a *just* fine_tune_io lle ti angen	---	ST
+
+
+263, 1	699, 1-3	CRL	ie yn union	---	NSNT
+
+
+264, 1	700, 1-13	PEN	ella roi fwy o sylw dy waith a ffeindio dy ffordd ymlaen de	---	NSNT
+
+
+265, 1	701, 1-3	CRL	*yeah* yn union	NST	NST
+265, 2	702, 1-5	CRL	*yeah* ti yn hollol gywir	NST	NST
+265, 3	703, 1-4	CRL	ni mewn llefydd gwahanol	NSNT	NSNT
+265, 4	704, 1-12	CRL	*um* felly fi yn credu fi credu mae yn anodd iawn wedyn	NST	NST
+265, 5	705, 1-7	CRL	mae *nice* i gwrdd fyny gyda nhw	NST	NST
+265, 6	707, 1-8	CRL	*so* timod be fi yn dueddol o wneud	NST	NST
+265, 7	707, 9-13	CRL	yw os fi yn gwybod	NSNT	NSNT
+265, 8	707, 14-18	CRL	mae nhw mynd i gwrdd	NSNT	NSNT
+265, 9	707, 19-26	CRL	wna i ddod mewn i gwrdd â nhw	NSNT	NSNT
+265, 10	708, 1-7	CRL	ond wedyn wna i *just* mynd gartre	NST	NST
+265, 11	709, 1-7	CRL	achos mae gyda fi stafell fach yna	NSNT	NSNT
+265, 12	711, 1-8	CRL	felly fi *just* yn gweithio mewn fan yna	NST	NST
+265, 13	713, 1-7	CRL	stafell creadigol fi yn hoffi galw hi	---	NSNT
+
+
+266, 1	714, 1-12	PEN	wnest ti *lot* o waith yn fan yno blwyddyn dwytha ti gweld	NST	NST
+266, 2	716, 1-4	PEN	mae rywun yn cofio	NSNT	NSNT
+266, 3	716, 5-14	PEN	fedri di wneud *lot* o waith yn yr un lle	---	NST
+
+
+267, 1	717, 1-4	CRL	yn union yn union	NSNT	NSNT
+267, 2	718, 1-5	CRL	dyna sut fi yn gweithio	---	NSNT
+
+
+268, 1	719, 1-3	PEN	a finnau hefyd	---	NSNT
+
+
+269, 1	720, 1-2	CRL	yn union	NSNT	NSNT
+269, 2	721, 1-14	CRL	pan ti yn ffeindio rywle lle ti yn gwybod bod ti yn gallu gweithio	NSNT	NSNT
+269, 3	721, 15-19	CRL	mae yn *just* mor werthfawr	---	NST
+
+
+270, 1	722, 2-3	PEN	mae o	---	NSNT
+
+
+271, 1	723, 1-5	CRL	a ti *just* yn meddwl	NST	NST
+271, 2	724, 1-10	CRL	*oh* *right* wna i *just* wneud e fan hyn nawr	NST	NST
+271, 3	726, 1-16	CRL	ond *um* na fi yn credu fi yn fi yn eitha lico gweithio yna hefyd *um*	NST	NST
+271, 4	727, 1-4	CRL	*so* *yeah* mae yn	NST	NST
+271, 5	727, 5-13	CRL	mae yn anodd cadw cadw mynd dros yr haf	NSNT	NSNT
+271, 6	727, 14-21	CRL	pan mae pawb yn wneud wahanol bethau a	---	NSNT
+
+
+272, 1	728, 1-3	PEN	dw i gwybod	---	NSNT
+
+
+273, 1	729, 1-4	CRL	fi yn credu dyna	NSNT	NSNT
+273, 2	729, 5-5	CRL	dyna	NSNT	NSNT
+273, 3	729, 6-8	CRL	sy yn gwahanol	NSNT	NSNT
+273, 4	729, 10-17	CRL	sy yn wahanol i pan chi wneud gradd	NSNT	NSNT
+273, 5	730, 1-3	CRL	achos chi meddwl	NSNT	NSNT
+273, 6	731, 1-18	CRL	*well* mae gyda fi dau tri mis *off* nawr dros yr haf i i wneud beth fi eisiau	---	NST
+
+
+274, 1	732, 1-8	PEN	dydy ddim fel yna efo gradd *m_a* chwaith	NST	NST
+274, 2	732, 9-10	PEN	nag ydy	---	NSNT
+
+
+275, 1	733, 1-4	CRL	*well* na yn union	NST	NST
+275, 2	734, 1-17	CRL	timod o't ti yn gweithio yn galed ar y traethawd hir ar_ôl cael marciau *fantastic* yn y	---	NST
+
+
+276, 1	735, 1-9	PEN	fyswn i ddim yn galw nhw yn marciau *fantastic*	---	NST
+
+
+277, 1	736, 1-12	CRL	yn y yn y modiwlau a adroddiad ar fin cael ei cyhoeddi	---	NSNT
+
+
+278, 1	737, 1-1	PEN	*well*	---	NST
+
+
+279, 1	738, 1-2	CRL	*so* timod	NST	NST
+279, 2	738, 3-3	CRL	mae	NSNT	NSNT
+279, 3	738, 4-15	CRL	mae yn amlwg beth ti wneud ar hyn o bryd yn gweithio	---	NSNT
+
+
+280, 1	740, 1-8	PEN	dw i *just* yn cadw yr un un	---	NST
+
+
+281, 1	741, 1-1	CRL	fi	---	NSNT
+
+
+282, 1	742, 1-6	PEN	*oh* dw meddwl fel y *person*	NST	NST
+282, 2	742, 7-17	PEN	wnest ti enwi gynnau *just* *um* tynnu llinell o_dan hon felly	---	NST
+
+
+283, 1	743, 1-3	CRL	*yeah* yn union	---	NST
+
+
+284, 1	744, 1-2	PEN	ond dw	NSNT	NSNT
+284, 2	744, 3-10	PEN	dw ddim mynd i dorri cefn yn wneud	NSNT	NSNT
+284, 3	744, 11-12	PEN	o de	---	NSNT
+
+
+285, 1	745, 1-3	CRL	na yn union	---	NSNT
+
+
+286, 1	746, 1-11	PEN	wna i wneud y gorau o m gallu a m hamser	---	NSNT
+
+
+287, 1	747, 1-7	CRL	ond fi yn credu mae mor dda	NSNT	NSNT
+287, 3	748, 1-3	CRL	achos ti meddwl	NSNT	NSNT
+287, 4	749, 1-8	CRL	*well* fi mynd ymlaen at rywbeth mwy nawr	NST	NST
+287, 5	751, 1-7	CRL	*um* a mae gyda fi rywbeth i	NST	NST
+287, 6	751, 8-12	CRL	timod i anelu ato fe	NSNT	NSNT
+287, 7	752, 1-7	CRL	a fi yn credu hefyd os oedd	NSNT	NSNT
+287, 8	752, 8-18	CRL	timod os o't ti *just* yn gorffen gyda yr *m_a* yma	NST	NST
+287, 9	752, 19-31	CRL	byddet ti falle yn roi *lot* fwy o bwysau ar dy hunan achos	NST	NST
+287, 10	752, 32-34	CRL	byddet ti meddwl	NSNT	NSNT
+287, 11	753, 1-11	CRL	*right* dyma lle fi mynd i orffen nawr gyda yr ôl_radd	NST	NST
+287, 12	755, 1-8	CRL	ond achos ti yn gwybod ti mynd ymlaen	NSNT	NSNT
+287, 13	756, 1-4	CRL	timod ti yn gwybod	NSNT	NSNT
+287, 14	756, 5-11	CRL	bod ti mynd ymlaen at rywbeth uwch	---	NSNT
+
+
+288, 1	757, 1-2	PEN	*mmm* gwir	---	NST
+
+
+289, 1	758, 1-9	CRL	*so* ti yn cael *spin* gwahanol arno fe i_gyd	---	NST
+
+
+290, 1	759, 1-4	PEN	*mmm* dw am drio	---	NST
+
+
+291, 1	760, 1-2	CRL	ond *er*	NST	NST
+291, 2	761, 1-15	CRL	*so* beth *so* beth ti yn prynu i yr peb_blwydd te sy yn dod fyny	---	NST
+
+
+292, 1	762, 1-10	PEN	*um* *just* yr *um* mwnci mwnci a cardyn dw meddwl	NST	NST
+292, 2	764, 1-5	PEN	a rywbeth fath â *chocolate*	---	NST
+
+
+293, 1	766, 1-8	CRL	pa fath o bethau ydyn nhw yn hoffi	---	NSNT
+
+
+294, 1	767, 1-4	PEN	dw ddim yn gwybod	NSNT	NSNT
+294, 2	768, 1-3	PEN	*um* cacen ella	---	NST
+
+
+295, 1	769, 1-8	CRL	fi yn credu dylet ti cael *balloon* huge	ST	ST
+295, 2	771, 1-6	CRL	*balloon* a bathodyn mawr sgleiniog lliwgar	NST	NST
+295, 3	773, 1-4	CRL	*yeah* a dylet ti	NST	NST
+295, 4	773, 5-22	CRL	dylet ti cael *um* fel ti gallu cael yn *Tesco* fel y fudge brownies bach yna mewn *tubs*	NST	ST
+295, 5	775, 1-5	CRL	pethau fel yna yn *cool*	NST	NST
+295, 6	776, 1-3	CRL	a *angel* *cake*	---	NST
+
+
+296, 1	777, 1-7	PEN	*oh* mae rhaid fo fod ar fudget	ST	ST
+296, 2	777, 8-10	PEN	de total budget	---	SNT
+
+
+297, 1	780, 1-12	CRL	*oh* allen ni mynd i i weld nawr beth ni gallu cael	---	NST
+
+
+298, 1	781, 1-14	PEN	neu neu alla i cael *just* dau beth un cacen *Thorntons* a *just* mwnci	---	NST
+
+
+299, 1	782, 1-5	CRL	*yeah* *yeah* mae hwnna *nice*	NST	NST
+299, 2	783, 1-10	CRL	timod be ti yn gallu wneud am *um* am cerdyn	---	NST
+
+
+300, 1	784, 1-1	PEN	be	---	NSNT
+
+
+301, 1	785, 1-14	CRL	does dim oes unrhyw luniau gyda ti ar y *phone* o chi gyda eich_gilydd	NST	NST
+301, 2	787, 1-8	CRL	oes unrhyw luniau o_gwbl o chi gyda eich_gilydd	NSNT	NSNT
+301, 3	789, 1-3	CRL	*o_k* falle ddim	NST	NST
+301, 4	790, 1-12	CRL	o'n i mynd i ddweud chi yn gallu wneud cardiau mewn *Boots*	NST	NST
+301, 5	791, 1-8	CRL	fel *just* greeting *cards* syml iawn yw nhw	NST	ST
+301, 6	793, 1-6	CRL	a chi *just* yn roi llun	NST	NST
+301, 7	794, 1-8	CRL	a mae nhw yn roi creu fel *border*	NST	NST
+301, 8	795, 1-9	CRL	wnes i trio wneud e am dy ben_blwydd di	NSNT	NSNT
+301, 9	796, 1-5	CRL	ond wnaeth e ddim gweithio	NSNT	NSNT
+301, 10	797, 1-9	CRL	wnest ti gael cerdyn ben_blwydd fi o yr diwedd	---	NSNT
+
+
+302, 1	798, 1-1	PEN	naddo	NSNT	NSNT
+302, 2	799, 1-2	PEN	lle ddoth	NSNT	NSNT
+302, 3	799, 3-5	PEN	lle mae o	---	NSNT
+
+
+303, 1	800, 1-5	CRL	o'n i wedi postio fe	---	NSNT
+
+
+304, 1	801, 1-3	PEN	dw ddim wedi	NSNT	NSNT
+304, 2	801, 4-4	PEN	mae	NSNT	NSNT
+304, 3	801, 5-7	PEN	dw ddim gwybod	NSNT	NSNT
+304, 4	801, 8-11	PEN	lle mae wedi mynd	---	NSNT
+
+
+305, 1	802, 1-8	CRL	ond *well* gobeithio mae rywun yn ffeindio fe	---	NST
+
+
+306, 1	803, 1-3	PEN	wir i chdi	---	NSNT
+
+
+307, 1	804, 1-2	CRL	achos mae	---	NSNT
+
+
+308, 1	805, 1-9	PEN	a dw i wedi cael cardyn pen_blwydd gyn rywun	---	NSNT
+
+
+309, 1	806, 1-7	CRL	fi methu credu ti heb gael e	---	NSNT
+
+
+310, 1	807, 1-16	PEN	*er* yn deud rywbeth amdan ice age *stone* age a rywbeth rywbeth wedyn mae yna ddrych	NST	ST
+310, 2	807, 18-21	PEN	sy yn hollol ddistorted	SNT	SNT
+310, 3	808, 1-6	PEN	a ti yn agor o de	NSNT	NSNT
+310, 4	808, 7-15	PEN	a mae *just* cymryd y *piss* basically ohona chdi	NST	ST
+310, 5	809, 1-13	PEN	a o'n i methu dallt pen_blwydd hapus oddi_wrth a ryw ysgrif mawr *hieroglyphics*	NST	NST
+310, 6	810, 1-7	PEN	ddim gwybod pwy sy wedi sgwennu fo	---	NSNT
+
+
+311, 1	811, 1-10	CRL	*oh* fi methu credu ti heb gael yn un i	---	NST
+
+
+312, 1	812, 1-4	PEN	*so* dw ddim gwybod	NST	NST
+312, 2	812, 5-11	PEN	pwy dw fod i ddiolch amdano fo	---	NSNT
+
+
+313, 1	813, 1-18	CRL	oedd gyda fe o'n i wedi roi *er* o'n i wedi y llun ohonon ni yn y *Galeri*	NST	NST
+313, 2	814, 1-14	CRL	a o'n i wedi ti yn gallu sgwennu text ar y lluniau yn_dwyt ti	NSNT	SNT
+313, 3	815, 1-5	CRL	*so* o'n i wedi roi	NST	NST
+313, 4	816, 1-6	CRL	pen_blwydd hapus *Penri* cariad mawr *Carol*	NST	NST
+313, 5	817, 1-3	CRL	ar y llun	---	NSNT
+
+
+314, 1	818, 1-2	PEN	do mi	NSNT	NSNT
+314, 2	818, 3-5	PEN	ges i o	---	NSNT
+
+
+315, 1	819, 1-4	CRL	ti wedi cael e	---	NSNT
+
+
+316, 1	820, 1-6	PEN	do diolch yn fawr cael o	---	NSNT
+
+
+317, 1	821, 1-4	CRL	ti yn dweud celwydd	---	NSNT
+
+
+318, 1	822, 1-1	PEN	yndw	NSNT	NSNT
+318, 2	822, 2-6	PEN	dw i yn deud celwyddau	NSNT	NSNT
+318, 3	822, 7-7	PEN	yndw	NSNT	NSNT
+318, 4	822, 8-8	PEN	yndw	NSNT	NSNT
+318, 5	823, 1-8	PEN	na mi ges i hwnna diolch yn fawr	NSNT	NSNT
+318, 7	825, 1-3	PEN	mewn bubble ia	NSNT	SNT
+318, 8	827, 1-6	PEN	na oedd yr ysgrif mewn bubble	SNT	SNT
+318, 9	827, 7-11	PEN	oedd mewn *speech* neu rywbeth	---	NST
+
+
+319, 1	828, 1-3	CRL	*oh* oedd e	NST	NST
+319, 2	832, 1-5	CRL	fi ddim gallu cofio nawr	---	NSNT
+
+
+320, 1	833, 1-4	PEN	ella bod o ddim	NSNT	NSNT
+320, 2	833, 5-5	PEN	ta	NSNT	NSNT
+320, 3	834, 1-6	PEN	ond dw i cofio weld o	---	NSNT
+
+
+321, 1	835, 1-2	CRL	oedd e	NSNT	NSNT
+321, 2	835, 3-8	CRL	*just* oedd e *just* yn ysgrifen	NST	NST
+321, 3	836, 1-16	CRL	oedd e yr llun yna o ni bwys y *Galeri* ar_ôl i yr dyn ryfedd yna	NST	NST
+321, 4	836, 17-18	CRL	bod o_gwmpas	---	NSNT
+
+
+322, 1	838, 1-7	PEN	mae lluniau eraill dal ar nesg i	---	NSNT
+
+
+323, 1	841, 1-13	CRL	*yeah* mae gyda fi *lot* o luniau o yr pen_blwydd fi isie datblygu	NST	NST
+323, 2	842, 1-11	CRL	*so* allen ni wneud nhw yn y dref os ti eisiau	---	NST
+
+
+324, 1	843, 1-2	PEN	*yeah* *cool*	ST	NST
+324, 2	844, 1-10	PEN	dw isio rywbeth i *Carly* hefyd nineteenth o mis nesa	NST	ST
+324, 4	846, 1-4	PEN	be i gael iddi	NSNT	NSNT
+324, 5	847, 1-8	PEN	*oh* bydd gyn gyn honna gyn honna bob_dim	NST	NST
+324, 6	847, 9-9	PEN	does	---	NSNT
+
+
+325, 1	849, 1-3	CRL	dylet ti *um*	NST	NST
+325, 2	849, 4-5	CRL	dylet ti	---	NSNT
+
+
+326, 1	850, 1-8	PEN	ti cofio blwyddyn dwytha oedd hi yn strach	NSNT	NSNT
+326, 2	850, 9-9	PEN	doedd	---	NSNT
+
+
+327, 1	852, 1-8	CRL	ond wnes i cael pethau lovely blwyddyn diwetha	---	SNT
+
+
+328, 1	853, 1-7	PEN	ia ond dydy yr un budget de	---	SNT
+
+
+329, 1	854, 1-5	CRL	jewellery o jewellery o *Pilgrim*	---	ST
+
+
+330, 1	855, 1-2	PEN	*Pilgrims* a	---	NST
+
+
+330, 2	856, 1-2	PEN	*Paris_Hilton's* de	NST	NST
+331, 2	859, 2-9	CRL	oes ti yn gallu wneud ryw fath o	NSNT	NSNT
+331, 3	860, 1-9	CRL	*oh* falle bydd hi ddim yn hoffi e though	---	ST
+
+
+332, 1	861, 1-6	PEN	na dydy ddim fath â ni	NSNT	NSNT
+332, 2	861, 7-7	PEN	sti	NSNT	NSNT
+332, 3	862, 1-4	PEN	dan ni licio cheese	SNT	SNT
+332, 4	862, 5-5	PEN	dydan	NSNT	NSNT
+332, 6	865, 1-4	PEN	na dw ddim gwybod	---	NSNT
+
+
+333, 1	866, 1-13	CRL	byddai really *nice* os o't ti gyda llun o yr ddau ohonoch chi	NST	ST
+333, 2	867, 1-6	CRL	ond chi byth yn cael lluniau	---	NSNT
+
+
+334, 1	868, 1-5	PEN	na byth dydw i ddim	---	NSNT
+
+
+335, 1	869, 1-3	CRL	ti yn awful	SNT	SNT
+335, 3	872, 1-6	CRL	ti yn poen yn y ben_ôl	---	NSNT
+
+
+336, 1	873, 1-1	PEN	yndw	NSNT	NSNT
+336, 3	875, 1-2	PEN	a timod	NSNT	NSNT
+336, 4	875, 3-5	PEN	be sy waeth	NSNT	NSNT
+336, 5	876, 1-8	PEN	gynni hi ddim tyllau yn ei chlustiau chwaith	NSNT	NSNT
+336, 6	877, 1-5	PEN	*so* dw ddim yn cael	---	NST
+
+
+337, 1	880, 1-6	CRL	fi byth wedi sylwi ar hwnna	---	NSNT
+
+
+338, 1	881, 1-8	PEN	*oh* fedra i ddim cael earrings iddi byth	---	ST
+
+
+339, 1	882, 1-4	CRL	beth mae yn gwisgo	SNT	NSNT
+339, 2	883, 1-1	CRL	clip_ons	---	NSNT
+
+
+340, 1	884, 1-3	PEN	gynni byth glustdlysau	---	NSNT
+
+
+341, 1	885, 1-12	CRL	*oh* fi *well* i ddim o'n i ddim wedi sylwi ar hwnna	---	NST
+
+
+342, 1	888, 1-2	PEN	byth byth	---	NSNT
+
+
+343, 1	889, 1-7	CRL	be *just* byth wedi eisiau wneud e	---	NST
+
+
+344, 1	890, 1-4	PEN	dw ddim yn gwybod	NSNT	NSNT
+344, 2	890, 5-8	PEN	be oedd y resymeg	NSNT	NSNT
+344, 3	891, 1-4	PEN	ei chlustiau hi fach	NSNT	NSNT
+344, 4	892, 1-4	PEN	gynni hi ddim lobes	SNT	SNT
+344, 5	893, 1-5	PEN	mae yna rei heb lobes	SNT	SNT
+344, 6	893, 6-6	PEN	does	NSNT	NSNT
+344, 7	895, 1-4	PEN	*um* dw meddwl ella	NST	NST
+344, 8	895, 5-6	PEN	dyna pam	NSNT	NSNT
+344, 9	897, 1-4	PEN	dw ddim gwybod pam	---	NSNT
+
+
+345, 1	898, 1-1	CRL	*random*	---	NST
+
+
+346, 1	899, 1-13	PEN	ond *um* *yeah* baswn i ddim licio cael *gun* ar y nghlust chwaith	NST	NST
+346, 2	899, 14-17	PEN	de rhaid fi ddeud	---	NSNT
+
+
+347, 1	900, 1-7	CRL	o'n i wedi cael hwnna wedi pierce_o	---	SNT
+
+
+348, 1	901, 1-2	PEN	y *top*	ST	NST
+348, 2	903, 1-1	PEN	*ouch*	---	NST
+
+
+349, 1	904, 1-3	CRL	a wnaeth y	NSNT	NSNT
+349, 2	905, 1-7	CRL	*yeah* ond na ond wnes i penderfynu	NST	NST
+349, 3	905, 8-10	CRL	bod fi ddim	NSNT	NSNT
+349, 4	906, 1-7	CRL	*so* wnes i adael iddo cau lan	NST	NST
+349, 5	908, 1-15	CRL	os ti yn teimlo *top* clust fi mae *lot* fwy trwchus hwnna na hwnna nawr	NST	NST
+349, 6	911, 1-13	CRL	ond ar y pryd timod pan ti yn un_deg_chwech a ti yn credu	NSNT	NSNT
+349, 7	911, 14-20	CRL	bod ti yn gwybod popeth ti fel	NSNT	NSNT
+349, 8	912, 1-8	CRL	*oh* *yeah* wna i cael hwnna wedi pierce_o	---	ST
+
+
+350, 1	913, 1-3	PEN	ia dw gwybod	---	NSNT
+
+
+351, 1	914, 1-8	CRL	lwcus bod chdi ddim wedi cael *tattoo* felly	NST	NST
+351, 2	915, 1-4	CRL	*well* *yeah* yn union	NST	NST

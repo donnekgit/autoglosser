@@ -1,0 +1,1816 @@
+
+
+1, 1	1, 1-8	FRE	wedyn mae o wedi mynd â yr llyfrau	---	NSNT
+
+
+2, 1	2, 1-7	GWA	a dydy o ddim *ah* *oh* *right*	NST	NST
+2, 2	3, 1-6	GWA	dydy o ddim yn gwybod pam	NSNT	NSNT
+2, 3	4, 1-5	GWA	dydy o ddim yn dallt	NSNT	NSNT
+2, 4	5, 1-6	GWA	does yna ddim rheswm pam felly	---	NSNT
+
+
+3, 1	8, 1-11	FRE	wedyn mae o wedi mynd â yr llyfrau i ddarllen nhw	---	NSNT
+
+
+4, 1	9, 1-2	GWA	*oh* iesgob	NST	NST
+4, 2	10, 1-2	GWA	*so* dyna	NST	NST
+4, 3	10, 3-5	GWA	lle bydd o	NSNT	NSNT
+4, 5	12, 1-2	GWA	*oh* gobeithio	---	NST
+
+
+5, 1	13, 1-5	FRE	*well* *well* mae yna *lot*	NST	NST
+5, 2	13, 6-9	FRE	mae yna ddigon o	NSNT	NSNT
+5, 3	13, 10-10	FRE	sianeli	NSNT	NSNT
+5, 4	14, 1-5	FRE	heb meddwl am recordio de	---	NSNT
+
+
+6, 1	15, 1-6	GWA	ond fedrwch chi ddim recordio though	SNT	SNT
+6, 2	15, 7-8	GWA	na fedrwch	NSNT	NSNT
+6, 4	17, 1-1	GWA	dim_ond	---	NSNT
+
+
+7, 1	18, 1-9	FRE	mae o wedi recordio ar y Cymraeg hen S_pedwar_C	---	NSNT
+
+
+8, 1	19, 1-2	GWA	S_pedwar_C *yeah*	---	NST
+
+
+9, 1	20, 1-5	FRE	ac *er* *B_B_C* hen *B_B_C_one*	---	NST
+
+
+10, 1	21, 1-11	GWA	ond dim_ond trwy yr teledu ydach chi wneud hynny though ynde	---	SNT
+
+
+11, 1	22, 1-2	FRE	a *B_B_C_two*	---	NST
+
+
+12, 1	24, 1-12	GWA	fedrwch chi ddim recordio oddi_ar yr y *box* y *Freeview* a pethau	NST	NST
+12, 2	24, 13-14	GWA	na fedrwch	NSNT	NSNT
+12, 3	25, 1-5	GWA	dw i ddim yn meddwl	---	NSNT
+
+
+13, 1	26, 1-6	FRE	na mae o yn medru *er*	NST	NST
+13, 2	26, 7-11	FRE	chwarae yr yr *v_t_r* *yeah*	---	NST
+
+
+14, 1	27, 1-1	GWA	*videos*	---	NST
+
+
+15, 1	28, 1-4	FRE	ac *er* y *d_v_ds*	---	NST
+
+
+16, 1	29, 1-2	GWA	a *d_v_ds*	---	NST
+
+
+17, 1	31, 1-17	FRE	ond *um* os ydan ni isio recordio er enghraifft yr yr heddlu y *Bill* y rhaglen *Bill*	NST	NST
+17, 3	34, 1-5	FRE	toes yna ddim gobaith na	---	NSNT
+
+
+18, 1	35, 1-7	GWA	*oh* fedri di wneud o ar *B_B_C_one*	NST	NST
+18, 2	36, 1-4	GWA	neu ella bod yna	NSNT	NSNT
+18, 3	37, 1-6	GWA	*oh* achos mae o ar *I_T_V*	---	NST
+
+
+19, 1	38, 1-7	FRE	mae o ar *I_T_V* ti yn weld	---	NST
+
+
+20, 1	39, 1-7	GWA	*oh* *well* Duw *rubbish* ydy o anyway	---	ST
+
+
+21, 1	40, 1-3	FRE	a wedyn *yeah*	ST	NST
+21, 2	41, 1-1	FRE	*well*	ST	NST
+21, 3	43, 1-4	FRE	os fedra i ddim	NSNT	NSNT
+21, 4	44, 1-5	FRE	fydda i yn beichio crio	---	NSNT
+
+
+22, 1	45, 1-2	GWA	*oh* druan	NST	NST
+22, 3	47, 1-3	GWA	ti licio hwnna	---	NSNT
+
+
+23, 1	48, 1-8	FRE	wedi bod yn dilyn o am am flynyddoedd	---	NSNT
+
+
+24, 1	51, 1-2	GWA	y *Bill*	---	NST
+
+
+25, 1	52, 1-3	FRE	yr unig un	---	NSNT
+
+
+26, 1	53, 1-7	GWA	dw i erioed wedi edrych arno fo	---	NSNT
+
+
+27, 1	55, 1-3	FRE	mae yn dda	NSNT	NSNT
+27, 2	55, 4-4	FRE	sti	---	NSNT
+
+
+28, 1	56, 1-7	GWA	na dw i erioed wedi edrych arno	NSNT	NSNT
+28, 3	58, 1-6	GWA	dw i ddim yn deall pethau	---	NSNT
+
+
+29, 1	59, 1-8	FRE	os ydach chi yn *fond* o yr heddlu	---	NST
+
+
+30, 1	62, 1-9	GWA	os oes rywbeth yn parhau mwy na hanner awr	NSNT	NSNT
+30, 2	63, 1-16	GWA	ac os oes rywun yn mynd *off* y *screen* ac yn dod on mewn *jumper* wahanol	NST	ST
+30, 3	65, 1-5	GWA	dw i ddim yn gwybod	NSNT	NSNT
+30, 4	65, 6-8	GWA	pwy ydyn nhw	NSNT	NSNT
+30, 5	66, 1-3	GWA	*so* dw i	NST	NST
+30, 6	66, 4-10	GWA	dw i yn *just* yn mynd yn	---	NST
+
+
+31, 1	67, 1-14	FRE	*well* mae yn rhaid i nhw gwisgo yr un fath trwy yr trwy yr	---	NST
+
+
+32, 1	68, 1-3	GWA	trwy yr amser	---	NSNT
+
+
+33, 1	70, 1-10	FRE	beth os ydy yr *film* yn mynd dros pum mlynedd	---	NST
+
+
+34, 1	71, 1-3	GWA	dyna pam *er*	NST	NST
+34, 2	72, 1-6	GWA	oedd *Katie* yn dweud wrtha i	NST	NST
+34, 3	73, 1-8	GWA	baswn i yn hapus yn yn edrych ar	NSNT	NSNT
+34, 4	74, 1-7	GWA	mae yna rywbeth o yr enw Twenty_Four	SNT	SNT
+34, 5	75, 1-7	GWA	a mae o yn rhaglen am rywbeth	NSNT	NSNT
+34, 6	75, 8-12	GWA	sy yn digwydd mewn diwrnod	NSNT	NSNT
+34, 7	76, 1-5	GWA	cymeryd pedair awr ar hugain	NSNT	NSNT
+34, 9	78, 1-14	GWA	a dydy bobl ddim yn mynd adra i newid yn yn yn hynna o_gwbl	---	NSNT
+
+
+35, 1	79, 1-6	FRE	wyt ti yn *o_k* am hwnna	---	NST
+
+
+36, 1	80, 1-5	GWA	*so* mae hi yn meddwl	NST	NST
+36, 2	80, 6-8	GWA	baswn i yn	NSNT	NSNT
+36, 3	80, 9-13	GWA	baswn i yn deall hwnna	NSNT	NSNT
+36, 4	82, 1-9	GWA	ac o'n i yr un fath efo yr *Da_Vinci_Code*	NST	NST
+36, 5	83, 1-6	GWA	achos mae hwnna i_gyd yn digwydd	NSNT	NSNT
+36, 6	83, 7-7	GWA	dydy	---	NSNT
+
+
+37, 1	84, 1-3	FRE	mae nhw wedi	---	NSNT
+
+
+38, 1	85, 1-6	GWA	yn yr un mewn un diwrnod	NSNT	NSNT
+38, 2	86, 1-8	GWA	felly o'n i yn gwybod pwy oedd bobl	NSNT	NSNT
+38, 3	87, 1-6	GWA	ond dw i ddim yn gwybod	NSNT	NSNT
+38, 4	87, 7-19	GWA	pwy ydy bobl sydd yn mynd *off* a dod yn dod yn_ôl ymlaen	---	NST
+
+
+39, 1	88, 1-12	FRE	*er* os fasach chi yn edrych ar *film* yn sôn am Iesu_Grist	NST	NST
+39, 2	89, 1-4	FRE	fasach chi ar goll	NSNT	NSNT
+39, 3	90, 1-12	FRE	os ydy o yn mynd dros tair blynedd neu rywbeth fel yna	---	NSNT
+
+
+40, 1	91, 1-7	GWA	neu os faswn i *just* yn gwybod	NST	NST
+40, 2	91, 8-13	GWA	pwy ydy yr un efo barf	---	NSNT
+
+
+41, 1	92, 1-6	FRE	yr un efo barf a coban	---	NSNT
+
+
+42, 1	95, 1-2	GWA	coban wen	NSNT	NSNT
+42, 2	96, 1-4	GWA	*yeah* sut mae *Andy*	NST	NST
+42, 3	97, 1-4	GWA	ydy o yn *alright*	---	NST
+
+
+43, 1	98, 1-3	FRE	mae yn iawn	NSNT	NSNT
+43, 2	99, 2-11	FRE	mae o yn brysur yn efo yr *um* yr *ambulance*	NST	NST
+43, 3	101, 1-4	FRE	be ydy yr Cymraeg	---	NSNT
+
+
+44, 1	102, 1-2	GWA	am *ambulance*	NST	NST
+44, 2	103, 1-6	GWA	*um* dw i ddim yn gwybod	ST	NST
+44, 3	104, 1-1	GWA	*ambulance*	---	NST
+
+
+45, 1	105, 1-2	FRE	*ambulance* service	ST	NST
+45, 2	106, 1-1	FRE	gwasanaeth	---	NSNT
+
+
+46, 1	107, 1-1	GWA	*ambulance*	---	NST
+
+
+47, 1	108, 1-1	FRE	achub	NSNT	NSNT
+47, 2	109, 1-3	FRE	cyntaf cymorth cyntaf	---	NSNT
+
+
+48, 1	110, 1-2	GWA	ac efo	NSNT	NSNT
+48, 2	111, 1-7	GWA	a dydy o ddim efo Red_Cross nac_ydy	SNT	SNT
+48, 3	112, 1-2	GWA	first aid	SNT	NSNT
+48, 5	114, 1-6	GWA	be mae yr hogiau yn wneud	NSNT	NSNT
+48, 6	115, 1-4	GWA	ydyn nhw yn dal	---	NSNT
+
+
+49, 1	116, 1-7	FRE	mae nhw dal i fod yn ysgol	NSNT	NSNT
+49, 2	117, 1-8	FRE	ac *um* yn yr Dyffryn_Nantlle *yeah* ysgol *Dyffryn_Nantlle*	---	NST
+
+
+50, 1	119, 1-1	GWA	dyna	NSNT	NSNT
+50, 2	119, 2-3	GWA	lle fydd	NSNT	NSNT
+50, 3	119, 4-4	GWA	dyna	NSNT	NSNT
+50, 4	119, 5-9	GWA	lle fydd plant *Edith* mynd	ST	NST
+50, 5	120, 1-1	GWA	*Dyffryn_Nantlle*	---	NST
+
+
+51, 1	121, 1-6	FRE	mae o yn ysgol *right* dda	NST	NST
+51, 2	122, 1-3	FRE	mae nhw yn	NSNT	NSNT
+51, 4	124, 1-7	FRE	mae nhw yn hoff o yr lle	NSNT	NSNT
+51, 5	125, 1-6	FRE	ac *um* mae yr disgyblaeth yno	---	NST
+
+
+52, 1	127, 1-3	GWA	doedd o ddim	NSNT	NSNT
+52, 2	128, 1-8	GWA	dw i yn cofio mynd yno blynyddoedd yn_ôl	---	NSNT
+
+
+53, 1	129, 1-3	FRE	toedd o ddim	---	NSNT
+
+
+54, 1	130, 1-4	GWA	ac oedd hi yn	---	NSNT
+
+
+55, 1	131, 1-4	FRE	oedd hi yn *shambles*	---	NST
+
+
+56, 1	132, 1-4	GWA	oedd hi ddim yn	---	NSNT
+
+
+57, 1	133, 1-3	FRE	*shop* shafins ynde	---	NST
+
+
+58, 1	134, 1-6	GWA	oedd hi yn ofnadwy adeg hynny	---	NSNT
+
+
+59, 1	135, 1-7	FRE	*oh* mae yn well o lawer rwan	NST	NST
+59, 3	137, 1-11	FRE	ac *um* mae nhw yn edrych ymlaen i fynd i ysgol	---	NST
+
+
+60, 1	138, 1-5	GWA	*oh* mae hynna yn dda	NST	NST
+60, 2	138, 6-6	GWA	tydy	---	NSNT
+
+
+61, 1	139, 1-2	FRE	iesgob ydy	NSNT	NSNT
+61, 2	140, 1-3	FRE	dyddiau yma te	NSNT	NSNT
+61, 3	142, 1-7	FRE	a ambell o pwnc yma boring ynde	NSNT	SNT
+61, 4	143, 1-13	FRE	ond *er* ydach chi gael o boring gan bob bob ifanc rwan te	NST	ST
+61, 5	145, 1-2	FRE	ac *um*	---	NST
+
+
+62, 1	146, 1-6	GWA	be mae nhw yn gobeithio wneud	---	NSNT
+
+
+63, 1	147, 1-5	FRE	does gen i ddim syniad	NSNT	NSNT
+63, 2	149, 1-5	FRE	na rhywbeth efo yr rheilffordd	NSNT	NSNT
+63, 3	151, 1-1	FRE	yn	---	NSNT
+
+
+64, 1	152, 1-2	GWA	yr hynaf	---	NSNT
+
+
+65, 1	153, 1-2	FRE	yr hynaf	NSNT	NSNT
+65, 2	154, 1-5	FRE	ond y fenga sy *er*	NST	NST
+65, 3	154, 6-7	FRE	mae o	NSNT	NSNT
+65, 4	156, 1-8	FRE	*oh* mae yna ddigon o fynd yn hwnna	NST	NST
+65, 5	157, 1-4	FRE	mwy na yr llall	NSNT	NSNT
+65, 6	158, 1-9	FRE	ac *um* mae o *right* dda *er* yn arlunio	NST	NST
+65, 7	160, 1-5	FRE	wedyn ella fydd o yn	---	NSNT
+
+
+66, 1	161, 1-7	GWA	fath â fewn i rywbeth fel yna	---	NSNT
+
+
+67, 1	162, 1-5	FRE	wneud rywbeth fel yna *er*	---	NST
+
+
+68, 1	163, 1-2	GWA	rywbeth *artistic*	---	NST
+
+
+69, 1	164, 1-11	FRE	*yeah* ti yn gwybod *um* adverts a pethau fel yna ella	---	ST
+
+
+70, 1	165, 1-2	GWA	*oh* wir	NST	NST
+70, 2	166, 1-12	GWA	dylai fo ddod i_fewn i beintio yr *set* neu rywbeth i ni	NST	NST
+70, 3	167, 1-1	GWA	helpu	---	NSNT
+
+
+71, 1	168, 1-11	FRE	*well* dw i wedi trio gaddo peintio yr *shop* i chi	---	NST
+
+
+72, 1	169, 1-4	GWA	fasai hynna yn *help*	---	NST
+
+
+73, 1	170, 1-3	FRE	dyna dechrau da	NSNT	NSNT
+73, 2	170, 4-4	FRE	te	---	NSNT
+
+
+74, 1	171, 1-5	GWA	*yeah* fasai hynna yn *help*	---	NST
+
+
+75, 1	172, 1-6	FRE	a beth am *er* *Genevieve* ac	---	NST
+
+
+76, 1	173, 1-3	GWA	*Genevieve* ac *David*	---	NST
+
+
+77, 1	174, 1-1	FRE	*David*	---	NST
+
+
+78, 1	175, 1-4	GWA	*well* ti yn gwybod	NST	NST
+78, 2	176, 1-3	GWA	fel mae nhw	NSNT	NSNT
+78, 3	176, 4-4	GWA	ynde	NSNT	NSNT
+78, 4	177, 1-4	GWA	mae nhw yn *alright*	---	NST
+
+
+79, 1	178, 1-10	FRE	be mae nhw yn meddwl o Nain yn redeg *shop*	---	NST
+
+
+80, 1	179, 1-6	GWA	*oh* mae nhw wrth eu bodd	NST	NST
+80, 2	180, 1-5	GWA	achos mae nhw yn golygu	NSNT	NSNT
+80, 3	181, 1-9	GWA	mae nhw yn cael dod yma ar ddydd Sadwrn	NSNT	NSNT
+80, 4	182, 1-18	GWA	mae nhw yn cael dwyn *chocolate* a dwyn ryw bethau *toys* bach rhad a weithiau dim mor rhad	NST	NST
+80, 5	183, 1-9	GWA	a mae raid i Nain dalu amdanyn nhw *so*	---	NST
+
+
+81, 1	184, 1-5	FRE	os os mae yn *o_k*	NST	NST
+81, 2	184, 6-12	FRE	os wyt ti yn talu amdanyn nhw	NSNT	NSNT
+81, 3	186, 1-5	FRE	*oh* beth am *er* Taid	NST	NST
+81, 4	187, 1-6	FRE	ydy Taid yn talu amdanyn nhw	---	NSNT
+
+
+82, 1	188, 1-2	GWA	*well* weithiau	---	NST
+
+
+83, 1	189, 1-8	FRE	mae gynno fo mwy o bres na hi	---	NSNT
+
+
+84, 1	190, 1-8	GWA	mae gen pawb fwy o bres na hi	---	NSNT
+
+
+85, 1	191, 1-6	FRE	*well* *yeah* mae raid i hynny	NST	NST
+85, 2	192, 1-3	FRE	rhaid i mi	---	NSNT
+
+
+86, 1	193, 1-4	GWA	na mae nhw yn	NSNT	NSNT
+86, 2	193, 5-10	GWA	na mae nhw yn blant da	NSNT	NSNT
+86, 3	194, 1-4	GWA	efo nhw dydd Sadwrn	NSNT	NSNT
+86, 4	195, 1-9	GWA	ond mae *Andrea* efo nhw dydd Sadwrn yma hefyd	NST	NST
+86, 5	196, 1-2	GWA	merch *Rupert*	NST	NST
+86, 7	198, 1-3	GWA	mae yr tri	---	NSNT
+
+
+87, 1	199, 1-5	FRE	gen ti tri ohonyn nhw	---	NSNT
+
+
+88, 1	200, 1-10	GWA	*so* mae gennyf i dri ohonyn nhw dydd Sadwrn yma	---	NST
+
+
+89, 1	201, 1-4	FRE	be ti am wneud	NSNT	NSNT
+89, 3	203, 1-3	FRE	mynd yn wyllt	---	NSNT
+
+
+90, 1	204, 1-5	GWA	dw i ddim yn gwybod	NSNT	NSNT
+90, 2	205, 1-9	GWA	mae yna ryw wasnaeth arbennig yn yr eglwys gadeiriol	NSNT	NSNT
+90, 3	205, 10-10	GWA	does	---	NSNT
+
+
+91, 1	206, 1-2	FRE	mae yna	NSNT	NSNT
+91, 2	207, 1-11	FRE	*er* ro'n i meddwl mynd i fod yn *honest* i ti	NST	NST
+91, 3	208, 1-4	FRE	*er* deng mlynedd ers	---	NST
+
+
+92, 1	209, 1-3	GWA	ers ordeinio merched	---	NSNT
+
+
+93, 1	210, 1-2	FRE	ordeinio merched	NSNT	NSNT
+93, 2	211, 1-6	FRE	a mae gynno i rhaglen y	---	NSNT
+
+
+94, 1	212, 1-4	GWA	*yeah* yr un gwreiddiol	---	NST
+
+
+95, 1	213, 1-4	FRE	yr yr un gwreiddiol	NSNT	NSNT
+95, 2	214, 1-8	FRE	*er* *um* yn yr gadeirlan oedd hwnna yn	NST	NST
+95, 3	215, 1-4	FRE	mis Mawrth oedd hi	NSNT	NSNT
+95, 4	215, 5-5	FRE	te	---	NSNT
+
+
+96, 1	216, 1-5	GWA	dw i yn cofio pryd	---	NSNT
+
+
+97, 1	217, 1-4	FRE	yn nineteen *er* ninety_seven	---	ST
+
+
+98, 1	218, 1-8	GWA	dw i yn cofio yr achlysur yn iawn	NSNT	NSNT
+98, 2	219, 1-8	GWA	ond dw i ddim yn mynd i hwnnw	NSNT	NSNT
+98, 3	220, 1-14	GWA	wrth gwrs fedra i ddim mynd â yr ti gwybod tri plentyn efo fi	NSNT	NSNT
+98, 6	223, 1-5	GWA	ond mae *mam* isio mynd	NST	NST
+98, 7	224, 1-9	GWA	ond mae *Andrea* yn aros efo hi dros penwythnos	NST	NST
+98, 8	225, 1-11	GWA	*so* dw i yn pigo *Andrea* i_fyny amser cinio dydd Sadwrn	NST	NST
+98, 9	227, 1-4	GWA	a wedyn gawn nhw	NSNT	NSNT
+98, 10	227, 5-10	GWA	geith y tri ohonyn nhw chwarae	---	NSNT
+
+
+99, 1	228, 1-2	FRE	beth oes	NSNT	NSNT
+99, 2	228, 4-10	FRE	oes rhaid i ti weithio efo nhw	---	NSNT
+
+
+100, 1	229, 1-4	GWA	mae *Jasper* *er* yma	---	NST
+
+
+101, 1	231, 1-4	FRE	rhaid i ti fynd	---	NSNT
+
+
+102, 1	233, 1-8	GWA	*er* na dw i yn gwarchod y plant	---	NST
+
+
+103, 1	234, 1-7	FRE	*oh* dydy yr bychan ddim yn mynd	NST	NST
+103, 2	235, 1-4	FRE	dydy *David* ac *er*	---	NST
+
+
+104, 1	236, 1-5	GWA	*David* ac *Genevieve* ac *Andrea*	NST	NST
+104, 2	237, 1-8	GWA	fedran nhw ddim mynd i yr eglwys gadeiriol	---	NSNT
+
+
+105, 1	239, 1-4	FRE	nhw ddim isio mynd	---	NSNT
+
+
+106, 1	240, 1-6	GWA	wrth gwrs faswn i yn medru	NSNT	NSNT
+106, 3	242, 1-5	GWA	dw i ddim yn meddwl	NSNT	NSNT
+106, 4	242, 6-13	GWA	faswn i yn roi dewis iddyn nhw fynd	NSNT	NSNT
+106, 5	243, 1-4	GWA	fasan nhw yn bored	SNT	SNT
+106, 6	244, 1-14	GWA	fasan nhw yn na dydyn nhw ddim wedi arfer mynd i bethau fel yna	NSNT	NSNT
+106, 7	246, 1-5	GWA	fasai rhy hir iddyn nhw	---	NSNT
+
+
+107, 1	247, 1-4	FRE	basai fo yn boring	---	SNT
+
+
+108, 1	248, 1-5	GWA	na mae nhw rhy ifanc	---	NSNT
+
+
+109, 1	249, 1-5	FRE	mae yr esgob yn pregethu	---	NSNT
+
+
+110, 1	252, 1-3	GWA	dweud y cwbl	---	NSNT
+
+
+111, 1	253, 1-5	FRE	*oh* no na chwarae teg	NST	ST
+111, 2	254, 1-4	FRE	mae o yn dda	---	NSNT
+
+
+112, 1	255, 1-3	GWA	*yeah* ond timod	NST	NST
+112, 2	256, 1-5	GWA	na mae nhw rhy ifanc	---	NSNT
+
+
+113, 1	257, 1-3	FRE	rhy ifanc *yeah*	---	NST
+
+
+114, 1	258, 1-3	GWA	dw i meddwl	---	NSNT
+
+
+115, 1	259, 1-5	FRE	*yeah* dw i yn *sure*	NST	NST
+115, 2	259, 6-9	FRE	fydd o yn ddiddorol	---	NSNT
+
+
+116, 1	260, 1-2	GWA	*yeah* *so*	---	NST
+
+
+117, 1	261, 1-4	FRE	fydd o yn orlawn	---	NSNT
+
+
+118, 1	262, 1-5	GWA	*oh* fydd o yn orlawn	NST	NST
+118, 2	263, 1-6	GWA	wnawn nhw ddim yng ngholli fi	NSNT	NSNT
+118, 3	264, 1-2	GWA	Duw na_fyddan	---	NSNT
+
+
+119, 1	265, 1-7	FRE	*oh* na byth yn wneud hynny te	---	NST
+
+
+120, 1	266, 1-5	GWA	a mae yr tri plentyn	NSNT	NSNT
+120, 2	267, 1-13	GWA	*so* ella af i â nhw i *um* i *Gaernarfon* i yr Hwylfan	---	NST
+
+
+121, 1	268, 1-3	FRE	i yr wal	---	NSNT
+
+
+122, 1	269, 1-4	GWA	a wna i yfed	NSNT	NSNT
+122, 2	269, 5-10	GWA	wna i eistedd i yfed *coffee*	NST	NST
+122, 3	270, 1-10	GWA	a gawn nhw chwarae yn wyllt bonkers am dair awr	---	SNT
+
+
+123, 1	271, 1-3	FRE	mynd yn wyllt	NSNT	NSNT
+123, 2	272, 1-5	FRE	yn dringo yr wal yna	---	NSNT
+
+
+124, 1	274, 1-9	GWA	na does yna ddim wal yn fan yna nag_oes	---	NSNT
+
+
+125, 1	275, 1-1	FRE	nag_oes	---	NSNT
+
+
+126, 1	276, 1-5	GWA	mae yna wal yn rywle	NSNT	NSNT
+126, 2	277, 1-8	GWA	mae *David* isio dringo wal ar ei benblwydd	NST	NST
+126, 3	278, 1-3	GWA	mae o isio	---	NSNT
+
+
+127, 1	279, 1-13	FRE	*yeah* be be mae gynno chi yr *velcro* neu rywbeth ar ar eich	NST	NST
+127, 2	282, 1-7	FRE	*er* a a wal *velcro* ydy o	---	NST
+
+
+128, 1	283, 1-9	GWA	na nid *well* os na ydy o yn newydd	NST	NST
+128, 3	285, 1-6	GWA	ond dw i ddim yn meddwl	NSNT	NSNT
+128, 4	285, 7-14	GWA	bod yna un o rheiny yn yr Hwylfan	---	NSNT
+
+
+129, 1	286, 1-1	FRE	nac_ydyn	---	NSNT
+
+
+130, 1	287, 1-5	GWA	dw i ddim yn meddwl	---	NSNT
+
+
+131, 1	288, 1-5	FRE	*oh* ti wedi bod yna	NST	NST
+131, 2	289, 1-3	FRE	dw i ddim	---	NSNT
+
+
+132, 1	290, 1-3	GWA	mae yna bethau	NSNT	NSNT
+132, 2	291, 1-5	GWA	mae yna *slides* i_fewn i	NST	NST
+132, 3	291, 6-6	GWA	yr	NSNT	NSNT
+132, 4	291, 7-10	GWA	timod peli *plastic* yma	NST	NST
+132, 5	292, 1-12	GWA	a mae nhw yn trio yng nghael i i wneud hwnna bob	NSNT	NSNT
+132, 6	292, 13-13	GWA	tro	NSNT	NSNT
+132, 7	293, 1-5	GWA	ond dw i erioed wedi	NSNT	NSNT
+132, 8	293, 6-12	GWA	dw i ddim wedi wneud o eto	---	NSNT
+
+
+133, 1	294, 1-4	FRE	*oh* tyrd o yna	NST	NST
+133, 2	296, 1-6	FRE	cyn i ti fynd yn hen	---	NSNT
+
+
+134, 1	297, 1-8	GWA	argol rhy hen yn barod i wneud hynna	---	NSNT
+
+
+135, 1	298, 1-13	FRE	*yeah* mae yn yr headlines yn yn yr *er* *er* *er* y *Goriad*	NST	ST
+135, 5	302, 1-5	FRE	Nain yn yr eglwys pêl	---	NSNT
+
+
+136, 1	305, 1-1	GWA	*so*	---	NST
+
+
+137, 1	306, 1-8	FRE	*er* *well* sut mae yr *shop* yn wneud	---	NST
+
+
+138, 1	307, 1-9	GWA	*oh* *well* mae yn dawel ar hyn o bryd	NST	NST
+138, 2	308, 1-5	GWA	achos mae yn fis Ionawr	---	NSNT
+
+
+139, 1	309, 1-4	FRE	wedi bod yn brysur	---	NSNT
+
+
+140, 1	310, 1-10	GWA	dw i yn brysur i_fyny at brysur i_fyny at Nadolig	---	NSNT
+
+
+141, 1	311, 1-7	FRE	dw i yn cofio chi yn dweud	NSNT	NSNT
+141, 2	312, 1-1	FRE	adeg	---	NSNT
+
+
+142, 1	313, 1-5	GWA	ond ers ailagor ar_ôl Nadolig	NSNT	NSNT
+142, 2	314, 1-7	GWA	*oh* na mae wedi mynd *right* dawel	NST	NST
+142, 3	315, 1-3	GWA	ond mae *right*	---	NST
+
+
+143, 1	316, 1-4	FRE	oes yna bres o_gwmpas	---	NSNT
+
+
+144, 1	318, 1-5	GWA	ond mae *right* *nice* hefyd	NST	NST
+144, 2	319, 1-5	GWA	achos oedd hi yn brysur	NSNT	NSNT
+144, 3	320, 1-12	GWA	ond mae yn gyfle i ddal i_fyny a clirio a llnau a	---	NSNT
+
+
+145, 1	321, 1-6	FRE	*well* i mi mae yn edrych	NST	NST
+145, 2	321, 7-10	FRE	bod chi yn cwyno	NSNT	NSNT
+145, 3	321, 11-15	FRE	bod o yn rhy brysur	NSNT	NSNT
+145, 5	323, 1-10	FRE	a rwan ydach chi yn cwyno bod hi yn ddistaw	---	NSNT
+
+
+146, 1	324, 1-8	GWA	cwyno bod o yn rhy dawel *ah* *well*	NST	NST
+146, 2	325, 1-8	GWA	ti byth yn mynd i gael timod rhywun	NSNT	NSNT
+146, 3	325, 9-16	GWA	sy yn cadw *shop* i fod yn hapus	NST	NST
+146, 4	326, 1-7	GWA	adroddiad diddorol allan heddiw ynglŷn â *um*	NST	NST
+146, 5	326, 8-9	GWA	timod *Tesco*	NST	NST
+146, 6	327, 1-11	GWA	a oes gen *Tesco* ormod o rym ac yn cymryd *um*	---	NST
+
+
+147, 1	328, 1-7	FRE	wnes i ddarllen rywbeth *er* ynglŷn hynny	NST	NST
+147, 2	329, 1-9	FRE	*um* oedd yr siopau mawr yma yn prynu tir	---	NST
+
+
+148, 1	330, 2-3	GWA	mae nhw	---	NSNT
+
+
+149, 1	331, 1-6	FRE	*lot* o dir i i i	---	NST
+
+
+150, 1	332, 1-3	GWA	yn enwedig *Tesco*	---	NST
+
+
+151, 1	333, 1-4	FRE	i stopio yr lleill	---	NSNT
+
+
+152, 1	334, 1-1	GWA	er_mwyn	SNT	NSNT
+152, 2	335, 1-1	GWA	*well*	---	NST
+
+
+153, 1	336, 1-2	FRE	adeiladu neu	---	NSNT
+
+
+154, 1	337, 1-3	GWA	*just* *just* *yeah*	---	NST
+
+
+155, 1	338, 1-2	FRE	i cadw	---	NSNT
+
+
+156, 1	339, 1-11	GWA	neu er_mwyn adeiladu timod siopau eu hunain rywbryd yn y dyfodol	NSNT	NSNT
+156, 3	342, 1-9	GWA	o'n i yn clywed am un lle yn Lloegr	NSNT	NSNT
+156, 4	343, 1-9	GWA	dw i ddim yn gwybod ddim yn cofio lle	NSNT	NSNT
+156, 5	344, 1-3	GWA	efo chwech *Tesco*	NST	NST
+156, 6	345, 1-9	GWA	mae yna chwech *Tesco* yn yr un lle yma	NST	NST
+156, 7	346, 1-4	GWA	dau_ddeg_wyth mil o bobl	NSNT	NSNT
+156, 8	348, 1-3	GWA	a chwech *Tesco*	---	NST
+
+
+157, 1	349, 1-5	FRE	oedd o *er* *um* *Banbury*	NST	NST
+157, 2	349, 6-7	FRE	oedd o	---	NSNT
+
+
+158, 1	350, 1-4	GWA	*yeah* rywle fel yna	ST	NST
+158, 2	351, 1-1	GWA	crazy	SNT	NSNT
+158, 4	353, 1-9	GWA	un un fawr fath â fath â un *Bangor*	---	NST
+
+
+159, 1	354, 1-3	FRE	rhai bychain yna	---	NSNT
+
+
+160, 1	356, 1-7	GWA	ond y lleill wedyn *just* siopau bach	NST	NST
+160, 2	357, 1-2	GWA	ond timod	---	NSNT
+
+
+161, 1	359, 1-13	FRE	*oh* dw i yn *sure* o o o_gwmpas Lerpwl a Pen_y_Berllan *er* *er*	---	NST
+
+
+162, 1	360, 1-3	GWA	mae yn crazy	---	SNT
+
+
+163, 1	361, 1-4	FRE	os ydach chi yn	NSNT	NSNT
+163, 3	363, 1-2	FRE	mae yna	NSNT	NSNT
+163, 4	363, 3-5	FRE	dw i *sure*	NST	NST
+163, 5	363, 6-14	FRE	bod yna *lot* yn *er* *er* o_gwmpas *um* rhwng	---	NST
+
+
+164, 1	364, 1-4	GWA	ac oedden nhw ymlaen	NSNT	NSNT
+164, 2	365, 1-5	GWA	ac oedden nhw yn dweud	NSNT	NSNT
+164, 3	365, 6-13	GWA	bod nhw ddim yn wneud chwarae dirty *tricks*	ST	ST
+164, 4	365, 14-20	GWA	a timod hen *tactics* budr a pethau	NST	NST
+164, 5	366, 1-2	GWA	ond timod	NSNT	NSNT
+164, 6	366, 3-5	GWA	mae nhw yn	NSNT	NSNT
+164, 7	367, 1-12	GWA	achos yr un *person* ymlaen ar y *radio* yn dweud bod yna	NST	NST
+164, 8	367, 13-18	GWA	oedd o yn agor *shop* newydd	NST	NST
+164, 10	369, 1-5	GWA	ac oedd *Tesco* wedi rhoi	NST	NST
+164, 11	370, 1-3	GWA	gwariwch dri_deg punt	NSNT	NSNT
+164, 12	371, 1-7	GWA	a mi gewch chi ddeg punt yn_ôl	NSNT	NSNT
+164, 13	372, 1-13	GWA	timod i trio gael bobl i fynd i i i *Tesco* yn lle	NST	NST
+164, 14	373, 1-4	GWA	*well* argol mae yn	---	NST
+
+
+165, 1	374, 1-1	FRE	ofnadwy	---	NSNT
+
+
+166, 1	375, 1-4	GWA	mae hynna yn *lot*	NST	NST
+166, 2	375, 5-5	GWA	dydy	SNT	NSNT
+166, 3	376, 1-2	GWA	thirty_three percent	---	NSNT
+
+
+167, 1	377, 1-9	FRE	mae yn mwy na chi yn cael mewn wythnos	---	NSNT
+
+
+168, 1	378, 2-3	GWA	mae o	---	NSNT
+
+
+169, 1	379, 1-2	FRE	mewn cyflog	---	NSNT
+
+
+170, 1	380, 1-3	GWA	argol bach yndy	NSNT	NSNT
+170, 2	381, 1-7	GWA	na dw i ddim yn licio *Tesco*	NST	NST
+170, 3	382, 1-7	GWA	ddim yn licio yr hen siopau mawr	NSNT	NSNT
+170, 5	384, 1-1	GWA	ysglyfaethus	---	NSNT
+
+
+171, 1	385, 1-8	FRE	*well* i i i symud i rywbeth arall	NST	NST
+171, 2	386, 1-9	FRE	ydach chi yn dod i ymarfer heno gyda ni	---	NSNT
+
+
+172, 1	387, 1-4	GWA	na dw i ddim	NSNT	NSNT
+172, 2	388, 1-8	GWA	achos dw i wedi cael gair efo *Katie*	NST	NST
+172, 3	389, 1-4	GWA	mae gen i *oh*	NST	NST
+172, 4	389, 5-8	GWA	mae yn chest i	NSNT	SNT
+172, 5	389, 9-11	GWA	rhydd rhy wael	NSNT	NSNT
+172, 6	390, 1-5	GWA	a does gen i ddim	NSNT	NSNT
+172, 7	390, 6-14	GWA	does gen i ddim digon o wynt i ganu	---	NSNT
+
+
+173, 1	391, 1-4	FRE	oes yna gwaith llawr	---	NSNT
+
+
+174, 1	393, 1-6	GWA	dydy hi ddim yn dod heno	---	NSNT
+
+
+175, 1	394, 1-5	FRE	does yna ddim gwaith llawr	---	NSNT
+
+
+176, 1	395, 1-6	GWA	dydy *Katie* ddim yno heno chwaith	NST	NST
+176, 2	396, 1-7	GWA	na mae ganddi hi ormod o waith	---	NSNT
+
+
+177, 1	397, 1-12	FRE	*oh* be ydan ni am wneud hebddo chi yr ddau ohonoch chi	---	NST
+
+
+178, 1	399, 1-3	GWA	ddwy ohonon ni	---	NSNT
+
+
+179, 1	400, 1-4	FRE	y ddwy o ni	NSNT	NSNT
+179, 3	402, 1-7	FRE	diolch yn fawr iawn am hynny hefyd	---	NSNT
+
+
+180, 1	403, 1-2	GWA	thank you	SNT	NSNT
+180, 2	404, 1-9	GWA	*yeah* na *um* *well* mae fyny i ti really	ST	ST
+180, 3	405, 1-5	GWA	am be ydach chi wneud	NSNT	NSNT
+180, 4	406, 1-5	GWA	a mae hi ddim yno	NSNT	NSNT
+180, 5	407, 1-2	GWA	achos mae	NSNT	NSNT
+180, 6	407, 3-4	GWA	mae diwedd	---	NSNT
+
+
+181, 1	408, 1-7	FRE	does yna ddim ots gennyt ti nag_oes	NSNT	NSNT
+181, 2	410, 1-3	FRE	mae y golwg	---	NSNT
+
+
+182, 1	411, 1-3	GWA	*er* diwedd *um*	NST	NST
+182, 2	412, 1-8	GWA	mae yr ffurflenni self assessment treth yn gorfod	NSNT	SNT
+182, 3	412, 9-14	GWA	bod i_mewn diwedd y mis yma	---	NSNT
+
+
+183, 1	413, 1-8	FRE	a wedyn mae hi yn nghanol y ffigyrau	---	NSNT
+
+
+184, 1	414, 1-6	GWA	*so* ryw faint sy ganddi hi	NST	NST
+184, 2	415, 1-5	GWA	ryw wyth diwrnod i orffen	NSNT	NSNT
+184, 3	416, 1-5	GWA	nid nid rai ei hun	NSNT	NSNT
+184, 4	417, 1-2	GWA	ond timod	NSNT	NSNT
+184, 5	417, 3-6	GWA	mae hi yn gweithio	NSNT	NSNT
+184, 6	417, 7-14	GWA	mae hi yn wneud llenwi nhw i bobl	---	NSNT
+
+
+185, 1	418, 1-4	FRE	be mae hi yn	NSNT	NSNT
+185, 2	419, 1-8	FRE	mae hi yn brysur yn coginio yr llyfrau	---	NSNT
+
+
+186, 1	420, 1-2	GWA	fel fi	---	NSNT
+
+
+187, 1	421, 1-4	FRE	dw i yn credu	---	NSNT
+
+
+188, 1	422, 1-10	GWA	*well* oeddwn i wedi gwneud yn un i mis Medi	NST	NST
+188, 2	423, 1-12	GWA	oeddwn i wedi llenwi yr ffurflenni i_gyd a wedi anfon nhw mewn	---	NSNT
+
+
+189, 1	424, 1-5	FRE	be digwyddodd i yr popty	---	NSNT
+
+
+190, 1	426, 1-11	GWA	*well* anyway ges i lythyr gan y pobl treth o *Wrexham*	NST	ST
+190, 2	427, 1-11	GWA	yn dweud *um* bod nhw heb dderbyn dim_byd gen i o_gwbl	NST	NST
+190, 3	428, 1-8	GWA	bod nhw heb gael ffurflen treth gen i	NSNT	NSNT
+190, 4	429, 1-6	GWA	*so* wnes i ffonio nhw a	---	NST
+
+
+191, 1	430, 1-3	FRE	gest ti gosb	---	NSNT
+
+
+192, 1	431, 1-3	GWA	*oh* dim eto	NST	NST
+192, 2	432, 1-5	GWA	*so* wnes i ffonio nhw	NST	NST
+192, 3	433, 1-3	GWA	a dweud na	NSNT	NSNT
+192, 4	434, 1-4	GWA	bod nhw heb gael	NSNT	NSNT
+192, 5	435, 1-4	GWA	dim camgymeriad oedd o	NSNT	NSNT
+192, 6	436, 1-9	GWA	na dydyn nhw heb gael dim_byd gen i o_gwbl	NSNT	NSNT
+192, 7	437, 1-5	GWA	*so* wnes i ffonio *Katie*	NST	NST
+192, 8	438, 1-6	GWA	ac oedd hi yn dweud *well*	NST	NST
+192, 9	439, 1-12	GWA	oedd hi wedi mynd â fo i yr swyddfa *er* yn Bae_Colwyn	NST	NST
+192, 10	440, 1-7	GWA	a wedi roi o fewn iddyn nhw	NSNT	NSNT
+192, 11	441, 1-6	GWA	ond doedd hi heb gael *receipt*	NST	NST
+192, 12	442, 1-4	GWA	felly doedd yna ddim	NSNT	NSNT
+192, 13	442, 5-10	GWA	oedd yna ddim ffordd i brofi	NSNT	NSNT
+192, 14	442, 11-12	GWA	bod hi	NSNT	NSNT
+192, 15	442, 13-16	GWA	wedi bod yno o_gwbl	NSNT	NSNT
+192, 16	444, 1-14	GWA	wedyn *um* oedd rhaid ail ei wneud o wedyn ac ail ei anfon o	NST	NST
+192, 17	445, 1-4	GWA	a wnes i ddweud	NSNT	NSNT
+192, 18	446, 1-6	GWA	ga i anfon o tro hyn	NSNT	NSNT
+192, 19	447, 1-5	GWA	a dyma hi yn dweud	NSNT	NSNT
+192, 20	448, 1-7	GWA	na a i â fo i Fae_Colwyn	NSNT	NSNT
+192, 21	449, 1-5	GWA	*so* dyma fi yn dweud	NST	NST
+192, 22	450, 1-5	GWA	*oh* wnei di gael *receipts*	NST	NST
+192, 23	450, 6-7	GWA	tro yma	NSNT	NSNT
+192, 24	451, 1-7	GWA	*please* i ni gael wneud yn *sure*	NST	NST
+192, 25	452, 1-17	GWA	*so* oedd rhaid iddi fynd i_fewn hanner wedi wyth un bore i weld rywun a cael *receipts*	NST	NST
+192, 26	453, 1-5	GWA	ond mae hi yn dweud	NSNT	NSNT
+192, 27	453, 6-12	GWA	bod hi wedi cael un rwan *so*	---	NST
+
+
+193, 1	455, 1-5	FRE	wyt ti wedi weld o	---	NSNT
+
+
+194, 1	456, 1-4	GWA	dw i ddim wedi	NSNT	NSNT
+194, 3	458, 1-7	GWA	*so* os oes yna unrhyw *broblem* eto	NST	NST
+194, 4	459, 1-4	GWA	fedra i ddweud *well*	---	NST
+
+
+195, 1	460, 1-6	FRE	*mmm* digon cymhleth fel mae o	---	NST
+
+
+196, 1	461, 1-1	GWA	bach	NSNT	NSNT
+196, 2	462, 1-2	GWA	yndy *so*	---	NST
+
+
+197, 1	464, 1-5	FRE	wedyn sut mae eich dad	NSNT	NSNT
+197, 2	464, 6-8	FRE	mae eich tad	---	NSNT
+
+
+198, 1	465, 1-2	GWA	yn nhad	SNT	NSNT
+198, 2	466, 1-1	GWA	bonkers	---	NSNT
+
+
+199, 1	467, 1-7	FRE	*well* mae yr teulu yn bonkers i_gyd	NST	ST
+199, 3	469, 1-5	FRE	dw i yn gwybod hynny	NSNT	NSNT
+199, 4	470, 1-8	FRE	ond sut mae o yn ei iechyd yn	NSNT	NSNT
+199, 5	470, 9-10	FRE	ei hun	---	NSNT
+
+
+200, 1	471, 1-4	GWA	mae yn *great* yn	NST	NST
+200, 2	471, 5-6	GWA	ei hun	NSNT	NSNT
+200, 3	472, 1-4	GWA	am bod hi yn	---	NSNT
+
+
+201, 1	473, 1-5	FRE	efo yr tylwyth teg weithiau	---	NSNT
+
+
+202, 1	474, 1-5	GWA	away with the fairies yndy	NSNT	SNT
+202, 2	474, 6-7	GWA	mae o	NSNT	NSNT
+202, 3	475, 1-5	GWA	weithiau gei di sgwrs gall	NSNT	NSNT
+202, 4	476, 1-4	GWA	a weithiau timod *well*	---	NST
+
+
+203, 1	477, 1-8	FRE	*well* ro'n i efo fo *er* pnawn Sul	NST	NST
+203, 2	478, 1-9	FRE	oedd o yn siarad yn call iawn chwarae teg	NSNT	NSNT
+203, 3	479, 1-3	FRE	*er* oedd o	NST	NST
+203, 4	479, 4-12	FRE	oedden ni yn sôn am yr *club* pêl_droed *Arsenal*	NST	NST
+203, 5	481, 1-2	FRE	mae *er*	NST	NST
+203, 6	481, 3-7	FRE	mae o *er* a *Tudor*	---	NST
+
+
+204, 1	482, 2-4	GWA	dw i gwybod	NSNT	NSNT
+204, 2	483, 1-6	GWA	a *Rupert* mae nhw i_gyd yn	---	NST
+
+
+205, 1	484, 1-11	FRE	a *Rupert* a fy mab i a finnau yn dilyn *Arsenal*	---	NST
+
+
+206, 1	485, 1-4	GWA	gyd yn syportio yndyn	NSNT	NSNT
+206, 2	487, 1-8	GWA	*well* oedd o yn siarad efo fi ddoe	NST	NST
+206, 3	488, 1-6	GWA	oedd o yn dweud wrtha i	NSNT	NSNT
+206, 4	488, 7-15	GWA	bod o wedi cael sgwrs efo nhad am bethau	SNT	NSNT
+206, 5	489, 1-1	GWA	*so*	---	NST
+
+
+207, 1	490, 1-2	FRE	mae ymson	---	NSNT
+
+
+208, 1	491, 1-2	GWA	dweud *well*	NST	NST
+208, 2	492, 1-4	GWA	a mae o isio	NSNT	NSNT
+208, 3	492, 5-5	GWA	ffôn	NSNT	NSNT
+208, 4	492, 6-8	GWA	oedd o isio	NSNT	NSNT
+208, 5	492, 9-12	GWA	ffôn yn fawr iawn	---	NSNT
+
+
+209, 1	494, 1-1	FRE	*well*	---	NST
+
+
+210, 1	495, 1-6	GWA	i be ydach chi isio ffôn	NSNT	NSNT
+210, 2	496, 1-4	GWA	*well* isio ffonio ti	NST	NST
+210, 3	497, 1-3	GWA	dw i yma	NSNT	NSNT
+210, 4	498, 1-3	GWA	*well* ti gwybod	NST	NST
+210, 5	499, 1-5	GWA	mae o bob amser *a_ha*	NST	NST
+210, 6	500, 1-5	GWA	na mae hynna yn wir	---	NSNT
+
+
+211, 1	501, 1-1	FRE	*a_ha*	ST	NST
+211, 2	502, 1-13	FRE	*well* *er* tua mis yn_ôl oedd o yn cael gair efo yr esgob	---	NST
+
+
+212, 1	504, 2-5	GWA	dw i yn gwybod	---	NSNT
+
+
+213, 1	505, 1-9	FRE	*er* ynglŷn â baptise_iad yn rhedeg *er* yr *um*	---	ST
+
+
+214, 1	506, 1-4	GWA	*yeah* mae yn *sure*	NST	NST
+214, 2	506, 5-7	GWA	bod yna rhyw	---	NSNT
+
+
+215, 1	507, 1-5	FRE	*Bryn_Hyfryd* yma yr un peth	---	NST
+
+
+216, 1	509, 1-2	GWA	*Bryn_Hyfryd* *Bryn_Llifon*	---	NST
+
+
+217, 1	510, 1-1	FRE	*Bryn_Llifon*	---	NST
+
+
+218, 1	511, 1-8	GWA	*Bryn_Llifon* *yeah* oedd o ddim yn hapus o_gwbl	---	NST
+
+
+219, 1	512, 1-1	FRE	nag_oedd	---	NSNT
+
+
+220, 1	513, 1-2	GWA	bod *um*	---	NST
+
+
+221, 1	514, 1-8	FRE	oedd *er* yr *er* baptise_iad yn cymryd drosodd	NST	ST
+221, 2	514, 9-10	FRE	meddai fo	NSNT	NSNT
+221, 3	515, 1-7	FRE	a mae rhaid i *er* rhywun *er*	---	NST
+
+
+222, 1	516, 1-12	GWA	na *well* dim *yeah* oedd o isio gweld yr esgob am hynny	NST	NST
+222, 2	517, 1-18	GWA	ond hefyd oedd o wedi cael ryw syniad i 'w ben bod *vicar* *Bangor* yn *er* yn Gatholig	NST	NST
+222, 4	519, 1-8	GWA	aelod o yr Eglwys Gatholig nid yn Anglican	---	SNT
+
+
+223, 1	520, 1-5	FRE	dw i yn cofio hynna	---	NSNT
+
+
+224, 1	522, 1-6	GWA	felly argol oedd hi yn *job*	---	NST
+
+
+225, 1	523, 1-8	FRE	*yeah* methu cysgu yn meddwl am y peth	---	NST
+
+
+226, 1	524, 1-8	GWA	methu cysgu nos yn meddwl am y peth	---	NSNT
+
+
+227, 1	525, 1-5	FRE	oedd o am sgwennu wir	---	NSNT
+
+
+228, 1	526, 1-2	GWA	argol bach	---	NSNT
+
+
+229, 1	527, 1-2	FRE	raid chi	NSNT	NSNT
+229, 3	529, 1-11	FRE	pan *er* i ddechrau dydd Sul dwytha oedd o yn sôn	NST	NST
+229, 4	529, 12-20	FRE	bod eich *mam* ddim yn cysgu yn rhyw dda	NST	NST
+229, 5	530, 1-4	FRE	o yr gor blino	NSNT	NSNT
+229, 6	532, 1-9	FRE	ac *um* oedd ei anadlu hi yn deffro fo	NST	NST
+229, 7	533, 1-8	FRE	*well* mae raid bod hi yn uchel iawn	NST	NST
+229, 8	534, 1-2	FRE	meddai fi	NSNT	NSNT
+229, 9	535, 1-8	FRE	mae ei tŷ o_gwmpas byw yn milltir bell	NSNT	NSNT
+229, 11	539, 1-3	FRE	*well* ydy *sure*	NST	NST
+229, 13	541, 1-5	FRE	*oh* *well* *yeah* a pam	NST	NST
+229, 14	542, 1-9	FRE	ydach chi wedi bod yn dewr iawn ac yn	NSNT	NSNT
+229, 15	545, 1-8	FRE	*oh* na i adael hi adael aros adra	NST	NST
+229, 16	546, 1-6	FRE	a chi dod i fan yma	NSNT	NSNT
+229, 17	547, 1-2	FRE	i roid	NSNT	NSNT
+229, 18	547, 3-4	FRE	seibiant bach	NSNT	NSNT
+229, 19	549, 1-4	FRE	iddi hi cael *um*	NST	NST
+229, 20	550, 1-7	FRE	oedd hi yn mynd i_lawr ac i_lawr	NSNT	NSNT
+229, 21	551, 1-2	FRE	meddai fi	NSNT	NSNT
+229, 22	552, 1-5	FRE	*well* oedd wir toedd hi	NST	NST
+229, 23	553, 1-8	FRE	a wedyn o hynny allan oedd ni yn	NSNT	NSNT
+229, 24	553, 9-10	FRE	oedd o	NSNT	NSNT
+229, 25	553, 11-15	FRE	oedd y sgwrs yn call	---	NSNT
+
+
+230, 1	554, 1-4	GWA	*oh* *yeah* *right* gall	NST	NST
+230, 2	555, 1-5	GWA	*yeah* na gei di weithiau	NST	NST
+230, 3	557, 1-4	GWA	mae yn dibynnu sut	NSNT	NSNT
+230, 4	557, 5-11	GWA	sut wyt ti yn ei ddal o	NSNT	NSNT
+230, 5	558, 1-7	GWA	pryd wyt ti yn ei ddal o	---	NSNT
+
+
+231, 1	559, 1-3	FRE	y diffyg ydy	NSNT	NSNT
+231, 2	560, 1-7	FRE	os ydy o efo yr tylwyth teg	NSNT	NSNT
+231, 3	561, 1-10	FRE	a ydach chi yn dechrau siarad yr un fath efo	---	NSNT
+
+
+232, 1	562, 1-1	GWA	*mm_hm*	---	NST
+
+
+233, 1	563, 1-9	FRE	a ar unwaith mae o yn dod yn_ôl at	NSNT	NSNT
+233, 2	564, 1-7	FRE	y chi sydd yn teimlo yn bonkers	---	SNT
+
+
+234, 1	565, 1-3	GWA	bonkers *yeah* *mmm*	ST	NST
+234, 2	566, 1-1	GWA	bechod	---	NSNT
+
+
+235, 1	568, 1-10	FRE	pam pam ti yn siarad mor gwirion â hynny mor	NSNT	NSNT
+235, 2	568, 11-13	FRE	wirion â hynny	NSNT	NSNT
+235, 3	569, 1-2	FRE	*yeah* duwcs	---	NST
+
+
+236, 1	570, 1-5	GWA	*yeah* dw i yn gwybod	NST	NST
+236, 2	571, 1-9	GWA	na *well* mynd yn_ôl rwan at *um* y *Tragedians*	NST	NST
+236, 3	572, 1-5	GWA	ydan ni wedi ffindio *Nanki_Poo*	---	NST
+
+
+237, 1	573, 1-3	FRE	*um* na *well*	NST	NST
+237, 2	574, 1-7	FRE	ydan ni yn dal trio gael un	NSNT	NSNT
+237, 3	575, 1-7	FRE	a o'n i yn siarad efo *Rhys_Williams*	NST	NST
+237, 4	576, 1-9	FRE	mae o yn canu yn y côr y Gadeirlan	NSNT	NSNT
+237, 5	577, 1-8	FRE	ro'n i yn trio ro'n i yn sôn	NSNT	NSNT
+237, 6	579, 1-15	FRE	oe'n i isio rhywun i canu yr *er* *er* *um* yr lead y *tenor* de	NST	ST
+237, 8	582, 1-10	FRE	ac *um* *oh* mae o yn gwybod dipyn *er* *well*	NST	NST
+237, 9	583, 1-15	FRE	dydy o ddim yn gwybod *lot* lawer am y am *Gilbert* and *Sullivan* ond *um*	NST	ST
+237, 10	584, 1-9	FRE	ddim yn gwybod os fasai fo yn medru wneud	NSNT	NSNT
+237, 11	585, 1-6	FRE	ond *er* ddeudais i wrtho fo	NST	NST
+237, 12	586, 1-7	FRE	*well* ydach chi yn byw yn Mae_Colwyn	NST	NST
+237, 13	587, 1-8	FRE	ac *er* dewch yn i i cyfarfod ni	NST	NST
+237, 14	588, 1-9	FRE	wna i ddim dweud pwy ydach chi na ddim_byd	NSNT	NSNT
+237, 15	589, 1-2	FRE	dim_ond eistedd	NSNT	NSNT
+237, 17	591, 1-5	FRE	wna i ddim dweud gair	NSNT	NSNT
+237, 19	593, 1-3	FRE	*oh* rhywun newydd	NST	NST
+237, 20	594, 1-6	FRE	be ydy eich enw *oh* *yeah*	NST	NST
+237, 21	595, 1-11	FRE	*oh* os ydach chi isio isio canu efo ni *great* ond	NST	NST
+237, 22	596, 1-1	FRE	triwch	NSNT	NSNT
+237, 23	597, 1-11	FRE	*um* a i weld os ddoith o *er* eith o am	NST	NST
+237, 24	597, 12-13	FRE	noson *um*	NST	NST
+237, 25	598, 1-5	FRE	ella wneith o troi fyny	NSNT	NSNT
+237, 26	599, 1-9	FRE	dw i ddim yn dal fy ngwynt ond *er*	NST	NST
+237, 27	601, 1-4	FRE	os wneith o ddim	NSNT	NSNT
+237, 28	602, 1-7	FRE	dydd Iau a dydd Sul wedyn ond	NSNT	NSNT
+237, 29	603, 1-4	FRE	wna i trio yn	---	NSNT
+
+
+238, 1	604, 1-8	GWA	trio roi dipyn bach o bwysau arno fo	---	NSNT
+
+
+239, 1	605, 1-3	FRE	*yeah* heb roid	---	NST
+
+
+240, 1	606, 1-4	GWA	*yeah* heb roi gormod	NST	NST
+240, 2	607, 1-4	GWA	achos dim isio roid	---	NSNT
+
+
+241, 1	608, 1-9	FRE	gormod *ah* dim isio roi y y *boy* *off*	---	NST
+
+
+242, 1	609, 1-3	GWA	roid o *off*	---	NST
+
+
+243, 1	610, 1-5	FRE	roi o *off* dyna chi	---	NST
+
+
+244, 1	612, 1-4	GWA	os na ddaw o	NSNT	NSNT
+244, 2	613, 1-3	GWA	ti yn gwybod	NSNT	NSNT
+244, 3	614, 1-7	GWA	be be sy mynd i ddigwydd wedyn	---	NSNT
+
+
+245, 1	616, 1-12	FRE	ydach chi yn gwybod *um* ydach chi wedi dysgu darn o barddoniaeth	---	NST
+
+
+246, 1	617, 1-7	GWA	dw i wedi dysgu darn o barddoniaeth	---	NSNT
+
+
+247, 1	618, 1-3	FRE	na ydach chi	---	NSNT
+
+
+248, 1	619, 1-4	GWA	be ti yn feddwl	---	NSNT
+
+
+249, 1	620, 1-8	FRE	*well* os ydach chi wnewch chi adrodd o	NST	NST
+249, 2	621, 1-7	FRE	ga fedra i bwyta yr *Geo_Bar* yma	---	NST
+
+
+250, 1	623, 1-2	GWA	na *sorry*	---	NST
+
+
+251, 1	625, 1-1	FRE	*well*	ST	NST
+251, 2	627, 1-3	FRE	*pity* am hynny	NST	NST
+251, 3	629, 1-2	FRE	*pity* iawn	ST	NST
+251, 4	630, 1-1	FRE	*well*	ST	NST
+251, 6	632, 1-9	FRE	be be pa waith sydd o eich blaen yfory	---	NSNT
+
+
+252, 1	633, 1-9	GWA	*oh* dw i yn mynd i siarad yfory hefo	---	NST
+
+
+253, 1	634, 1-6	FRE	ydach chi yn siarad gormod rwan	---	NSNT
+
+
+254, 1	635, 1-1	GWA	ydw	NSNT	NSNT
+254, 2	635, 2-4	GWA	dw i gwybod	NSNT	NSNT
+254, 3	636, 1-14	GWA	ond dw i mynd i siarad efo *group* o ferched yn *Capel_Mawr* yn *Borth*	---	NST
+
+
+255, 1	637, 1-2	FRE	diddorol iawn	---	NSNT
+
+
+256, 1	638, 1-1	GWA	*fantastic*	ST	NST
+256, 2	639, 1-3	GWA	am fasnach deg	---	NSNT
+
+
+257, 1	640, 1-4	FRE	gwell chi na fi	NSNT	NSNT
+257, 2	642, 1-3	FRE	am fasnach deg	---	NSNT
+
+
+258, 1	643, 1-3	GWA	*yeah* am *well*	---	NST
+
+
+259, 1	644, 1-2	FRE	*oh* *bity*	ST	NST
+259, 2	645, 1-9	FRE	ydach chi wedi penderfynu be ydach chi am ddweud	---	NSNT
+
+
+260, 1	646, 1-7	GWA	*well* timod yr un hen beth really	ST	ST
+260, 2	647, 1-4	GWA	na yr un peth	NSNT	NSNT
+260, 3	648, 1-7	GWA	wna i siarad efo nhw am *jocolate*	NST	NST
+260, 4	648, 8-10	GWA	dw i meddwl	NSNT	NSNT
+260, 5	649, 1-7	GWA	a wedyn gawn nhw ddarn o *jocolate*	NST	NST
+260, 6	650, 1-5	GWA	a byddan nhw yn meddwl	NSNT	NSNT
+260, 7	650, 6-9	GWA	bod fi yn *great*	NST	NST
+260, 8	651, 1-8	GWA	os gawn nhw ddarn o *jocolate* am ddim	---	NST
+
+
+261, 1	652, 1-4	FRE	*yeah* beth am *bananas*	---	NST
+
+
+262, 1	653, 1-3	GWA	*well* *um* *yeah*	ST	NST
+262, 2	654, 1-9	GWA	iawn mi wna i siarad efo nhw am *jocolate*	NST	NST
+262, 3	655, 1-9	GWA	a mi gawn nhw *jocolate* a darn o *jocolate*	NST	NST
+262, 4	656, 1-7	GWA	dw i ddim isio wneud *bananas* achos	---	NST
+
+
+263, 1	657, 1-6	FRE	oes yna rhyw fath o *game*	NST	NST
+263, 2	657, 7-9	FRE	fedrwch chi chwarae	---	NSNT
+
+
+264, 1	658, 1-10	GWA	*oh* na dw i ddim yn chwarae *games* efo bobl	NST	NST
+264, 2	659, 1-4	GWA	achos mae nhw i_gyd	NSNT	NSNT
+264, 3	659, 5-7	GWA	timod yn hen	---	NSNT
+
+
+265, 1	660, 1-10	FRE	*well* *yeah* mynd yn_ôl i fod yn blant mae nhw	---	NST
+
+
+266, 1	661, 1-6	GWA	na dydyn nhw ddim yn licio	---	NSNT
+
+
+267, 1	662, 1-6	FRE	fel mae nhw dweud yn Saesneg	SNT	NSNT
+267, 2	663, 1-2	FRE	regress_io de	---	SNT
+
+
+268, 1	664, 1-7	GWA	*yeah* na dydyn nhw ddim yn licio	NST	NST
+268, 2	665, 1-7	GWA	yr unig beth mae nhw isio really	SNT	SNT
+268, 3	665, 8-11	GWA	ydy rhywun yno rhwng	---	NSNT
+
+
+269, 1	666, 1-5	FRE	cyn i nhw gael paned	---	NSNT
+
+
+270, 1	667, 1-3	GWA	*yeah* rywbeth i	---	NST
+
+
+271, 1	668, 1-6	FRE	a fynd adre i gael te	---	NSNT
+
+
+272, 1	669, 1-2	GWA	dyna chdi	NSNT	NSNT
+272, 2	670, 1-5	GWA	*so* dw i yn gorfod	NST	NST
+272, 3	670, 6-11	GWA	bod yno erbyn hanner wedi un	---	NSNT
+
+
+273, 1	671, 1-4	FRE	a faint fydd yno	---	NSNT
+
+
+274, 1	672, 1-7	GWA	*oh* *well* faswn i ddim yn meddwl	NST	NST
+274, 2	672, 8-13	GWA	bod yna fwy na ryw bymtheg	NSNT	NSNT
+274, 3	673, 1-9	GWA	*so* dw i ddim yn gwybod ond o brofiad	---	NST
+
+
+275, 1	674, 1-5	FRE	ydy o y lle oer	NSNT	NSNT
+275, 2	674, 6-6	FRE	tydy	---	NSNT
+
+
+276, 1	675, 1-5	GWA	*well* gobeithio fydd hi ddim	NST	NST
+276, 2	676, 1-5	GWA	achos os ydy yn oer	NSNT	NSNT
+276, 3	676, 6-10	GWA	fydda i methu siarad anyway	SNT	SNT
+276, 5	678, 1-10	GWA	achos fydd gen i ddim gwynt i siarad efo nhw	NSNT	NSNT
+276, 6	679, 1-10	GWA	*so* fydd rhaid iddyn nhw gynhesu ychydig ar y lle	---	NST
+
+
+277, 1	680, 1-5	FRE	yn y pnawn mae hynna	---	NSNT
+
+
+278, 1	681, 1-3	GWA	dau o gloch	NSNT	NSNT
+278, 2	682, 1-3	GWA	*well* hynny yw	NST	NST
+278, 3	682, 4-12	GWA	dw i isio bod yno erbyn hanner wedi un	---	NSNT
+
+
+279, 1	683, 1-9	FRE	a be ydach chi am wneud yn y bore	---	NSNT
+
+
+280, 1	684, 1-6	GWA	dw i ddim yn *sure* eto	NST	NST
+280, 2	685, 1-14	GWA	ella a i at y *doctor* actually i trio sortio yr annwyd yma allan	---	ST
+
+
+281, 1	686, 1-4	FRE	i sôn am *bananas*	---	NST
+
+
+282, 1	687, 1-4	GWA	*oh* mynd yn *bananas*	NST	NST
+282, 2	688, 1-5	GWA	*so* efallai a i yno	NST	NST
+282, 3	690, 1-2	GWA	*just* i	---	NST
+
+
+283, 1	691, 1-2	FRE	*well* isio	---	NST
+
+
+284, 1	692, 1-9	GWA	*just* i weld os fedra i sortio fo allan	---	NST
+
+
+285, 1	693, 1-4	FRE	wneud eich hun yn	NSNT	NSNT
+285, 2	694, 1-6	FRE	gwneud eich hun yn iawn eto	---	NSNT
+
+
+286, 1	695, 1-10	GWA	*oh* dw i wedi cael *antiobitic* ers dydd Gwener dwytha	NST	NST
+286, 2	696, 1-6	GWA	ond *um* dydy o ddim fel	NST	NST
+286, 3	696, 7-11	GWA	bod o yn gwella o_gwbl	NSNT	NSNT
+286, 5	698, 1-4	GWA	dydy o ddim fel	NSNT	NSNT
+286, 6	698, 5-8	GWA	bod o yn *um*	---	NST
+
+
+287, 1	699, 1-8	FRE	*well* ydach chi dal i besychu yn yr	---	NST
+
+
+288, 1	700, 1-6	GWA	*oh* dim pesychu ydy yr *broblem*	NST	NST
+288, 2	701, 1-5	GWA	ond *just* bod fi methu	---	NST
+
+
+289, 1	702, 1-5	FRE	mae yr *freast* yn dynn	---	NST
+
+
+290, 1	704, 2-3	GWA	mae hi	SNT	NSNT
+290, 2	705, 1-5	GWA	*so* anyway ga i weld	NST	ST
+290, 3	706, 1-3	GWA	ga i weld	NSNT	NSNT
+290, 4	707, 1-2	GWA	*so* dyna	NST	NST
+290, 5	707, 3-4	GWA	ydy yfory	NSNT	NSNT
+290, 6	708, 1-8	GWA	a wedyn mae gen *Jake* dri cyfarfod yfory	NST	NST
+290, 7	709, 1-7	GWA	mae o efo yr *um* Anglican chaplaincy	---	ST
+
+
+291, 1	710, 1-3	FRE	pwy ydy hwnnw	---	NSNT
+
+
+292, 1	711, 1-1	GWA	*Jake_Took*	---	NST
+
+
+293, 1	712, 1-1	FRE	*Jake_Took*	---	NST
+
+
+294, 1	713, 1-4	GWA	mae o efo *Jake_Took*	NST	NST
+294, 2	714, 1-8	GWA	*um* mae yna ddau gyfarfod yn fan yna	NST	NST
+294, 3	715, 1-3	GWA	dw i meddwl	NSNT	NSNT
+294, 4	716, 1-8	GWA	wedyn mae yna rywbeth gyda yr nos hefyd	NSNT	NSNT
+294, 5	717, 1-6	GWA	ddim yn cofio yn iawn be	NSNT	NSNT
+294, 6	718, 1-6	GWA	*so* mae yn ddiwrnod digon prysur	NST	NST
+294, 8	720, 1-2	GWA	rhwng bob_dim	SNT	NSNT
+294, 9	721, 1-2	GWA	*aye* *so*	---	NST
+
+
+295, 1	722, 1-5	FRE	a beth am nos Fercher	---	NSNT
+
+
+296, 1	723, 1-3	GWA	dim_byd nos yfory	---	NSNT
+
+
+297, 1	724, 1-1	FRE	dim_byd	---	NSNT
+
+
+298, 1	725, 1-1	GWA	smwddio	---	NSNT
+
+
+299, 1	726, 1-3	FRE	mynd i smwddio	NSNT	NSNT
+299, 2	727, 1-6	FRE	*oh* a i i côr meibion	---	NST
+
+
+300, 1	728, 1-4	GWA	ti mynd i côr	NSNT	NSNT
+300, 3	731, 1-11	GWA	be sy gynno nhw ar y gweill ar hyn o bryd	NSNT	NSNT
+300, 4	732, 1-1	GWA	rhywbeth	---	NSNT
+
+
+301, 1	733, 1-5	FRE	does yna ddim *um* cyngerdd	NST	NST
+301, 2	734, 1-13	FRE	ond mae yna yr hanner dwsin yn dod drosodd o yr *er* Unol_Daleithiau	NST	NST
+301, 3	735, 1-5	FRE	aeth y côr Awst dwytha	NSNT	NSNT
+301, 4	737, 1-11	FRE	*well* oedd nhw yn aros efo rhyw rhai o bobl yno	NST	NST
+301, 5	738, 1-2	FRE	mae yn	NSNT	NSNT
+301, 6	738, 3-9	FRE	mae rhai o rhain yn dod drosodd	NSNT	NSNT
+301, 7	739, 1-6	FRE	o cwmni Cymraeg *Chicago* neu rywbeth	---	NST
+
+
+302, 1	740, 1-1	GWA	gosh	---	NSNT
+
+
+303, 1	741, 1-7	FRE	a wedyn ydan ni am canu yn	NSNT	NSNT
+303, 2	742, 1-6	FRE	ydan ni yn ymarfer fel arfer	NSNT	NSNT
+303, 3	743, 1-11	FRE	ond *um* fyddan ni yn canu *oh* hanner dwsin iddyn nhw	NST	NST
+303, 4	743, 12-21	FRE	dw i yn *sure* o yr hen ffefryn ac yn	---	NST
+
+
+304, 1	744, 1-6	GWA	fyddan nhw yn canu efo chi	---	NSNT
+
+
+305, 1	745, 1-5	FRE	*well* dw i ddim yn	NST	NST
+305, 2	745, 6-11	FRE	es i ddim yn efo nhw	---	NSNT
+
+
+306, 1	746, 1-8	GWA	na na fyddan nhw yn canu efo yr	---	NSNT
+
+
+307, 1	747, 1-3	FRE	os oes yna	---	NSNT
+
+
+308, 1	748, 1-3	GWA	ydyn nhw yn	NSNT	NSNT
+308, 2	748, 4-7	GWA	ydyn nhw yn bethau	NSNT	NSNT
+308, 3	748, 8-12	GWA	fyddan nhw yn ei wybod	NSNT	NSNT
+308, 4	749, 1-6	GWA	neu fyddan nhw yn medru darllen	---	NSNT
+
+
+309, 1	750, 1-1	FRE	*well*	ST	NST
+309, 2	751, 1-7	FRE	fydd dy ffefryn di yn troi fyny	SNT	NSNT
+309, 3	752, 1-1	FRE	*Myfanwy*	ST	NST
+309, 5	754, 1-8	FRE	byddan nhw yn *sure* o gofyn am hwnnw	---	NST
+
+
+310, 1	755, 1-1	GWA	horrendous	---	NSNT
+
+
+311, 1	757, 1-4	FRE	ac *um* yr *American_Trilogy*	---	NST
+
+
+312, 1	758, 1-3	GWA	be ydy hwnnw	---	NSNT
+
+
+313, 1	759, 1-6	FRE	*oh* sôn am *Glory_Glory_Hallelujah* and *Hush_little_baby_don't_you_cry*	ST	ST
+313, 2	760, 1-4	FRE	rheina wedi cael eu	NSNT	NSNT
+313, 3	762, 1-4	FRE	mae yn *right* *fodern*	NST	NST
+313, 4	763, 1-2	FRE	ond mae	NSNT	NSNT
+313, 5	763, 3-6	FRE	mae yn dda iawn	NSNT	NSNT
+313, 6	764, 1-5	FRE	yn licio hwnna fy hun	---	NSNT
+
+
+314, 1	765, 1-2	GWA	da iawn	---	NSNT
+
+
+315, 1	766, 1-6	FRE	ac *um* *well* ydan ni yn	NST	NST
+315, 2	766, 7-14	FRE	ydan ni yn dysgu rhywfaint o bethau newydd	NSNT	NSNT
+315, 3	767, 1-4	FRE	ond emynau i_gyd bron	---	NSNT
+
+
+316, 1	768, 1-1	GWA	God	---	NSNT
+
+
+317, 1	769, 1-1	FRE	esgob	NSNT	NSNT
+317, 2	770, 1-12	FRE	mae o fath â mynd i yr nef neu i yr nefoedd	NSNT	NSNT
+317, 3	771, 1-6	FRE	pan ydach chi yn cerdded i_fewn	NSNT	NSNT
+317, 4	772, 1-14	FRE	a chi yn gwybod ydach chi am canu am y seintiau a yr nefoedd	NSNT	NSNT
+317, 5	773, 1-6	FRE	y nef sy yn datgan y	NSNT	NSNT
+317, 6	774, 1-6	FRE	ydan ni yn ail atgyfodi hwnna	---	NSNT
+
+
+318, 1	775, 1-1	GWA	ail	NSNT	NSNT
+318, 2	776, 1-5	GWA	*oh* dylanwad *Joseph* ydy hwnna	NST	NST
+318, 3	776, 6-6	GWA	ynde	---	NSNT
+
+
+319, 1	777, 1-2	FRE	*well* *yeah*	---	NST
+
+
+320, 1	778, 1-7	GWA	y math o beth mae o licio	NSNT	NSNT
+320, 2	778, 8-9	GWA	ydy hwnna	---	NSNT
+
+
+321, 1	779, 1-4	FRE	*oh* wnes i dweud	NST	NST
+321, 2	780, 1-6	FRE	daru ni dechrau *er* dysgu *Love_Could_I_Only_Tell_Thee*	NST	NST
+321, 3	781, 1-3	FRE	un fawr de	NSNT	NSNT
+321, 4	782, 1-6	FRE	*oh* dw i ddim yn gwybod	NST	NST
+321, 5	783, 1-8	FRE	*er* does gynno fo ddim *um* ffydd yn	---	NST
+
+
+322, 1	785, 1-1	GWA	hyder	---	NSNT
+
+
+323, 1	786, 1-3	FRE	*er* dyna chi	NST	NST
+323, 2	788, 1-2	FRE	ond *um*	NST	NST
+323, 3	789, 1-2	FRE	emynau fwya	NSNT	NSNT
+323, 4	790, 1-5	FRE	dw i yn *sure* rwan	NST	NST
+323, 5	792, 1-5	FRE	ac *um* mae côr *um*	NST	NST
+323, 6	792, 6-15	FRE	mae tua hanner y côr yn Caergybi efo ni rwan	NSNT	NSNT
+323, 7	793, 1-17	FRE	ddaru nhw *um* dŵad i helpu i fynd pan i i fynd i yr Unol_Daleithau i ganu	NST	NST
+323, 8	794, 1-6	FRE	ond *er* mae nhw wedi aros	---	NST
+
+
+324, 1	795, 1-1	GWA	duwcs	---	NSNT
+
+
+325, 1	796, 1-11	FRE	*um* ond *um* *Graham* *Graham* be ydy enw fo *Graham* *um*	NST	NST
+325, 2	796, 12-16	FRE	sy yn byw yng Nghaergybi	NSNT	NSNT
+325, 3	797, 1-6	FRE	mae o yn redeg y côr	NSNT	NSNT
+325, 4	798, 1-6	FRE	mae o yn *um* da iawn	NST	NST
+325, 5	799, 1-6	FRE	ac yn cyfansoddwyr cyfansoddwr ei hun	---	NSNT
+
+
+326, 1	803, 1-14	GWA	*oh* mae yn *handy* cael bobl fel yna yn bobl newydd i_fewn o hyd	NST	NST
+326, 2	803, 15-15	GWA	tydy	---	NSNT
+
+
+327, 1	804, 1-9	FRE	*well* mae wedi mynd yn hen *glub* rwan yn_dydy	NST	NST
+327, 2	805, 1-5	FRE	mae o yn dod i_fewn	NSNT	NSNT
+327, 3	806, 1-7	FRE	*oh* dw i wedi wneud hwn *Joseph*	NST	NST
+327, 4	807, 1-5	FRE	*oh* awn ni trio fo	NST	NST
+327, 5	809, 1-5	FRE	*oh* tydy hi yn dda	NST	NST
+327, 6	810, 1-10	FRE	*oh* diawl *Graham* dach chi wedi cael hwyl efo hwn	NST	NST
+327, 8	812, 1-6	FRE	*well* yr un fath â chi	NST	NST
+327, 9	813, 1-9	FRE	mis yn_ôl efo eich *er* *um* *er* sirioldeb chi	NST	NST
+327, 10	814, 1-8	FRE	*well* *yeah* toedd o ddim yn bad nag_oedd	NST	ST
+327, 11	815, 1-3	FRE	a wedyn *er*	NST	NST
+327, 12	817, 1-6	FRE	nhw *club* *club* o ddau te	---	NST
+
+
+328, 1	818, 1-3	GWA	dipyn o grafu	NSNT	NSNT
+328, 2	819, 1-5	GWA	*yeah* *club* yn mynd ymlaen	ST	NST
+328, 3	821, 1-3	GWA	mutual admiration society	---	NSNT
+
+
+329, 1	822, 1-4	FRE	ond mutual admiration society	SNT	SNT
+329, 2	824, 1-2	FRE	dyna ni	---	NSNT
+
+
+330, 1	827, 1-12	GWA	ond does gen dydyn nhw ddim yn mynd ar ryw daith eto	---	NSNT
+
+
+331, 1	828, 1-11	FRE	toes yna ddim_byd ar yr *er* dyddiadur ar hyn o bryd	NST	NST
+331, 2	830, 1-14	FRE	yn y dyddiadur ond *er* *sure* mae o yn dechrau mynd ar y awel	---	NST
+
+
+332, 1	831, 1-3	GWA	dechrau safio eto	---	NSNT
+
+
+333, 1	832, 1-1	FRE	awydd	---	NSNT
+
+
+334, 1	833, 1-5	GWA	cael yr awydd i fynd	NSNT	NSNT
+334, 2	834, 1-4	GWA	mae nhw licio teithio	---	NSNT
+
+
+335, 1	835, 1-4	FRE	yr awydd duwcs *yeah*	NST	NST
+335, 2	836, 1-3	FRE	wn i ddim	NSNT	NSNT
+335, 3	836, 4-10	FRE	ydy yr taith canu neu yr cwrw	---	NSNT
+
+
+336, 1	837, 1-4	GWA	*well* ti yn gwybod	---	NST
+
+
+337, 1	838, 1-2	FRE	y tri	---	NSNT
+
+
+338, 1	839, 1-6	GWA	fedran nhw aros adra yn canu	NSNT	NSNT
+338, 2	840, 1-8	GWA	fedran nhw aros adra ac yfed cwrw hefyd	NSNT	NSNT
+338, 3	841, 1-6	GWA	*so* dw i ddim yn gwybod	---	NST
+
+
+339, 1	842, 1-1	FRE	*well*	---	NST
+
+
+340, 1	843, 1-6	GWA	yr holl beth dw i meddwl	---	NSNT
+
+
+341, 1	845, 1-4	FRE	heb y gwragedd ella	---	NSNT
+
+
+342, 1	846, 1-7	GWA	*yeah* mynd i_ffwrdd oddi_wrth y wraig *yeah*	NST	NST
+342, 2	847, 1-4	GWA	faswn i meddwl na	NSNT	NSNT
+342, 3	847, 5-5	GWA	dyna	NSNT	NSNT
+342, 4	847, 6-7	GWA	ydy really	---	SNT
+
+
+343, 1	848, 1-2	FRE	dyna ni	---	NSNT
+
+
+344, 1	850, 1-4	GWA	*yeah* faswn i meddwl	---	NST
+
+
+345, 1	851, 1-2	FRE	*er* mae	NST	NST
+345, 2	851, 3-4	FRE	mae nhw	NSNT	NSNT
+345, 3	851, 5-12	FRE	mae cael rhyw ffordd o o rhyddhau tydyn	---	NSNT
+
+
+346, 1	852, 1-1	GWA	rhyddhad	---	NSNT
+
+
+347, 1	853, 1-3	FRE	rhyddhad dyna chi	---	NSNT
+
+
+348, 1	854, 2-4	GWA	dw i *sure*	NST	NST
+348, 2	854, 5-10	GWA	eu bod nhw hefyd am ychydig	NSNT	NSNT
+348, 3	855, 1-9	GWA	*yeah* *well* *so* be arall sy yna i drafod	NST	NST
+348, 5	857, 1-4	GWA	wyt ti yma yfory	---	NSNT
+
+
+349, 1	858, 1-6	FRE	ydach chi wedi clywed oddi_wrth *Sian*	---	NST
+
+
+350, 1	859, 1-1	GWA	naddo	NSNT	NSNT
+350, 2	861, 1-4	GWA	*ooh* dyna un peth	NST	NST
+350, 4	865, 1-4	GWA	dw i heb glywed	NSNT	NSNT
+350, 5	866, 1-10	GWA	ond fydd raid ni drio cael y dyddiad yna eto	---	NSNT
+
+
+351, 1	867, 1-1	FRE	dyddiad	---	NSNT
+
+
+352, 1	868, 1-1	GWA	wythfed_ar_hugain	---	NSNT
+
+
+353, 1	869, 1-4	FRE	diwedd mis Chwefror *yeah*	---	NST
+
+
+354, 1	870, 1-3	GWA	wythfed_ar_hugain o Chwefror	NSNT	NSNT
+354, 2	872, 1-3	GWA	*um* am *Ann_Griffiths*	NST	NST
+354, 3	873, 1-10	GWA	*so* na dw i ddim wedi clywed dim_byd gan *Sian*	---	NST
+
+
+355, 1	875, 1-5	FRE	a Cymraeg fydd o *yeah*	NST	NST
+355, 2	876, 1-2	FRE	rhaglen Gymraeg	---	NSNT
+
+
+356, 1	877, 1-4	GWA	*well* am wn i	NST	NST
+356, 2	878, 1-6	GWA	ond dw i ddim yn meddwl	NSNT	NSNT
+356, 3	878, 7-12	GWA	bod *Ann_Griffiths* yn sgwennu yn Saesneg	NST	NST
+356, 4	879, 1-7	GWA	na dw i meddwl na emynau Cymraeg	NSNT	NSNT
+356, 5	879, 8-11	GWA	oedd hi yn sgwennu	NSNT	NSNT
+356, 6	880, 1-7	GWA	felly dw i meddwl na yn Gymraeg	NSNT	NSNT
+356, 7	880, 8-11	GWA	fyddwn ni yn canu	---	NSNT
+
+
+357, 1	883, 1-15	FRE	ydach chi yn nabod ydach chi yn gwybod y y rhai oedd hi wedi sgwennu	---	NSNT
+
+
+358, 1	884, 1-4	GWA	*well* dw i ddim	NST	NST
+358, 2	885, 1-11	GWA	ond ti gwybod y *person* i siarad efo ydy *Doctor* *Elizabeth*	NST	NST
+358, 3	886, 1-2	GWA	achos mae	---	NSNT
+
+
+359, 1	887, 1-6	FRE	dw i ddim isio siarad efo	---	NSNT
+
+
+360, 1	888, 1-4	GWA	na ond mae *Doctor*	NST	NST
+360, 2	888, 5-11	GWA	mae *Doctor* *Elizabeth* yn perthyn i *Ann_Griffiths*	---	NST
+
+
+361, 1	890, 1-5	FRE	mae yn fath â chi	---	NSNT
+
+
+362, 1	891, 1-4	GWA	neu mae hi yn	NSNT	NSNT
+362, 2	891, 5-14	GWA	mae hi yn yr un dod o yr un ardal	NSNT	NSNT
+362, 3	892, 1-5	GWA	felly dw i yn meddwl	NSNT	NSNT
+362, 4	892, 6-9	GWA	bod yna berthynas yno	NSNT	NSNT
+362, 5	893, 1-5	GWA	neu o leia mae yna	NSNT	NSNT
+362, 6	893, 6-7	GWA	timod hanes	---	NSNT
+
+
+363, 1	894, 1-7	FRE	ydy yn y llyfr gwyrdd newydd yma	NSNT	NSNT
+363, 2	894, 8-11	FRE	sy wedi ddod allan	NSNT	NSNT
+363, 3	895, 1-7	FRE	ti yn gwybod efo yr *er* emynwyr	---	NST
+
+
+364, 1	896, 1-6	GWA	*oh* dw i ddim yn gwybod	---	NST
+
+
+365, 1	898, 1-5	FRE	mae dy dad ynddo fo	---	NSNT
+
+
+366, 1	899, 1-4	GWA	dw i yn gwybod	NSNT	NSNT
+366, 2	900, 1-4	GWA	fi wnaeth sgwennu o	---	NSNT
+
+
+367, 1	901, 1-3	FRE	*oh* dyna pam	NST	NST
+367, 2	901, 4-7	FRE	mae o mor dda	---	NSNT
+
+
+368, 1	903, 1-7	GWA	na oedd rhaid i fi sgwennu o	NSNT	NSNT
+368, 2	904, 1-8	GWA	achos oedd *Dad* yn yn barod yn sâl	NST	NST
+368, 3	906, 1-7	GWA	pan ddaru nhw dod â hwnna allan	NSNT	NSNT
+368, 4	908, 1-3	GWA	*so* wnaethon nhw	NST	NST
+368, 5	908, 4-8	GWA	wnaethon nhw gysylltu efo fi	NSNT	NSNT
+368, 6	909, 1-4	GWA	felly fi oedd yn	NSNT	NSNT
+368, 7	909, 5-5	GWA	rhoid	NSNT	NSNT
+368, 8	909, 6-11	GWA	rhoid y cefndir a pethau bob_dim	---	NSNT
+
+
+369, 1	910, 1-5	FRE	be be oedd *Ann_Griffiths* *er*	NST	NST
+369, 2	911, 1-3	FRE	*um* ysgrifennu emynau	---	NST
+
+
+370, 1	912, 1-2	GWA	yr geiriau	---	NSNT
+
+
+371, 1	913, 1-7	FRE	a rhywun arall wneud yr yr cerddoriaeth	---	NSNT
+
+
+372, 1	914, 1-8	GWA	yn rhoi yr rhoi yr emynau i dôn	---	NSNT
+
+
+373, 1	916, 1-11	FRE	i dôn *ah* i dôn arbennig dôn sy yn y llyfr	---	NST
+
+
+374, 1	917, 1-10	GWA	faswn i meddwl na yr ffordd orau i daclo hwnna	NSNT	NSNT
+374, 2	917, 11-14	GWA	ydy *um* defnyddio tonau	---	NST
+
+
+375, 1	918, 1-5	FRE	dibynnu ar y medr te	---	NSNT
+
+
+376, 1	919, 1-10	GWA	*well* *yeah* ond defnyddio tonau sy yn adnabyddus yn barod	NST	NST
+376, 2	921, 1-7	GWA	enwedig os oes isio yr gynulleidfa ganu	NSNT	NSNT
+376, 3	922, 1-7	GWA	achos fydd yna ddim amser i ymarfer	---	NSNT
+
+
+377, 1	923, 1-9	FRE	*well* os ydy o yn eight seven eight seven	---	ST
+
+
+378, 1	924, 1-2	GWA	efo nhw	---	NSNT
+
+
+379, 1	925, 1-5	FRE	mae hwnna yn digon poblogaidd	NSNT	NSNT
+379, 2	925, 6-6	FRE	dydy	---	NSNT
+
+
+380, 1	926, 1-4	GWA	mae ddigon o rheiny	NSNT	NSNT
+380, 2	926, 5-5	GWA	does	---	NSNT
+
+
+381, 1	927, 1-1	FRE	digon	---	NSNT
+
+
+382, 1	928, 1-9	GWA	*so* faswn i ddim yn poeni am hynna o_gwbl	NST	NST
+382, 2	930, 1-8	GWA	*um* ond *yeah* yr wythfed_ar_hugain o o Chwefror	---	NST
+
+
+383, 1	931, 1-1	FRE	yn	---	NSNT
+
+
+384, 1	932, 1-4	GWA	yn y capel yma	NSNT	NSNT
+384, 2	933, 1-2	GWA	capel *St_John's*	---	NST
+
+
+385, 1	934, 1-2	FRE	capel *St_John's*	---	NST
+
+
+386, 1	935, 1-2	GWA	yng Nglan_Conwy	---	NSNT
+
+
+387, 1	936, 1-9	FRE	ac ydy o yn dathlu *er* hanes ei bywyd	---	NST
+
+
+388, 1	937, 1-6	GWA	*well* rhyw fath o ddathliad o	NST	NST
+388, 2	938, 1-11	GWA	*yeah* *oh* dw i ddim yn gwybod i fod yn *honest*	NST	NST
+388, 3	939, 1-8	GWA	*just* nhw isio ryw *group* bach i ganu	NST	NST
+388, 4	940, 1-6	GWA	dw i wedi gofyn i *Melissa*	NST	NST
+388, 5	942, 1-5	GWA	a mae hi yn hapus	NSNT	NSNT
+388, 6	943, 1-11	GWA	felly *um* *so* efallai os fedrwn ni wneud rhywbeth fel yna	NST	NST
+388, 7	944, 1-6	GWA	bydd o yn *help* iddyn nhw	NST	NST
+388, 9	946, 1-16	GWA	a wedyn mae yr cyngerdd wedyn ym Mai un unfed_ar_ddeg wedyn ar_ôl hynny yn rhywle yn	---	NSNT
+
+
+389, 1	947, 1-2	FRE	yn *Dwyran*	---	NST
+
+
+390, 1	948, 1-2	GWA	rhywle *Dwyran*	---	NST
+
+
+391, 1	949, 1-2	FRE	eglwys *Dwyran*	---	NST
+
+
+392, 1	950, 1-3	GWA	Niwbwrch ffordd yna	NSNT	NSNT
+392, 2	951, 1-6	GWA	*yeah* dw i ddim yn *sure*	NST	NST
+392, 3	953, 1-2	GWA	pa eglwys	---	NSNT
+
+
+393, 1	954, 1-7	FRE	es i *um* galwad ar y mobile	---	ST
+
+
+394, 1	955, 1-2	GWA	gan *Arianwen*	---	NST
+
+
+395, 1	956, 1-2	FRE	text te	---	SNT
+
+
+396, 1	957, 1-3	GWA	text i ddweud	---	SNT
+
+
+397, 1	958, 1-9	FRE	ac *um* i ddweud *er* *Dwyran* oedd yr un	---	NST
+
+
+398, 1	960, 1-5	GWA	*oh* *yeah* *well* beth bynnag	---	NST
+
+
+399, 1	961, 1-4	FRE	dim ots gynno i	NSNT	NSNT
+399, 2	962, 1-9	FRE	ond wythnos dwytha wnaeth y rhingyll hyll o Niwbwrch	SNT	NSNT
+399, 4	964, 1-2	FRE	*um* *Martin_Hughes*	ST	NST
+399, 5	965, 1-7	FRE	*hey* chi yn gwybod yr *group* chi	NST	NST
+399, 6	967, 1-9	FRE	wnei chdi chwarae yn *er* canu yn eglwys ni	NST	NST
+399, 7	968, 1-4	FRE	*well* pryd a be	NST	NST
+399, 8	969, 1-6	FRE	*well* dw i ddim yn gwybod	NST	NST
+399, 9	970, 1-9	FRE	ella *er* rhywbeth cysegredig yn ystod yr *um* wythnos	---	NST
+
+
+400, 1	971, 1-2	GWA	pa wythnos	---	NSNT
+
+
+401, 1	972, 1-2	FRE	y cysegredig	NSNT	NSNT
+401, 2	973, 1-3	FRE	yr holy week	---	SNT
+
+
+402, 1	974, 1-5	GWA	*oh* *oh* wythnos cyn Pasg	---	NST
+
+
+403, 1	976, 1-4	FRE	*well* wn i ddim	NST	NST
+403, 2	977, 1-4	FRE	mae raid i chi	---	NSNT
+
+
+404, 1	978, 1-6	GWA	*well* mae o dibynnu pa *group*	NST	NST
+404, 2	978, 7-9	GWA	mae o isio	NSNT	NSNT
+404, 3	979, 1-7	GWA	yr unig *group* mae o wedi weld	NST	NST
+404, 4	979, 8-14	GWA	ydy yr *group* efo *Melissa* a *Caswallon*	NST	NST
+404, 5	979, 15-15	GWA	ynde	---	NSNT
+
+
+405, 1	981, 1-2	FRE	dyna ni	---	NSNT
+
+
+406, 1	982, 1-6	GWA	*well* fydd *Caswallon* methu wneud dim_byd	---	NST
+
+
+407, 1	984, 1-3	FRE	methu wneud dim_byd	---	NSNT
+
+
+408, 1	985, 1-6	GWA	a faswn i ddim yn meddwl	NSNT	NSNT
+408, 2	985, 7-9	GWA	byddai *Melissa* chwaith	NST	NST
+408, 3	986, 1-11	GWA	achos mae hi yn rhedeg yr eglwys yn fan yna hefyd	NSNT	NSNT
+408, 4	986, 12-12	GWA	tydy	NSNT	NSNT
+408, 5	987, 1-3	GWA	*so* faswn i	---	NST
+
+
+409, 1	988, 1-10	FRE	*well* *yeah* dim_ond *er* fydd yna ddim rhywbeth bob nos	NST	NST
+409, 2	988, 11-12	FRE	na fydd	---	NSNT
+
+
+410, 1	989, 1-6	GWA	*well* dw i ddim yn gwybod	---	NST
+
+
+411, 1	990, 1-2	FRE	mynd ymlaen	---	NSNT
+
+
+412, 1	991, 1-4	GWA	*oh* *well* dw i	---	NST
+
+
+413, 1	992, 1-6	FRE	*well* wnes i dweud wrtho fo	NST	NST
+413, 2	993, 1-10	FRE	dewch i_fyny efo rhyw dyddiad neu ddwy ac *er* *yeah*	---	NST
+
+
+414, 1	994, 1-2	GWA	a pres	---	NSNT
+
+
+415, 1	995, 1-3	FRE	a faint *yeah*	---	NST
+
+
+416, 1	997, 1-5	GWA	a wedyn gawn ni weld	NSNT	NSNT
+416, 2	998, 1-4	GWA	*ah* gawn ni weld	NST	NST
+416, 3	1000, 1-5	GWA	ond *um* faswn i yn	NST	NST
+416, 4	1000, 6-12	GWA	faswn i *just* mor hapus i beidio	---	NST
+
+
+417, 1	1001, 1-3	FRE	gawn ni weld	NSNT	NSNT
+417, 2	1002, 1-2	FRE	*well* wnes	NST	NST
+417, 3	1002, 3-5	FRE	wnaeth o ofyn	---	NSNT
+
+
+418, 1	1003, 1-4	GWA	dw i yn *sure*	NST	NST
+418, 2	1003, 5-7	GWA	byddai *Caswallon* hefyd	---	NST
+
+
+419, 1	1004, 1-9	FRE	oedd o yn llawn o yr Ysbryd yn gofyn	NSNT	NSNT
+419, 4	1008, 1-8	FRE	oedd *er* ei ei llygaid o yn fflachio	---	NST
+
+
+420, 1	1009, 1-1	GWA	esgob	---	NSNT

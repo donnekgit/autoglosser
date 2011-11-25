@@ -1,0 +1,2546 @@
+1, 2	2, 1-1	OSW	arglwydd	NSNT	NSNT
+1, 3	3, 1-4	OSW	a wedyn meddai fi	SNT	NSNT
+1, 4	4, 1-4	OSW	*um* where after that	ST	NST
+1, 5	5, 1-3	OSW	*well* meddai fo	ST	NST
+1, 6	6, 1-5	OSW	you could *stop* in *um*	NST	NST
+1, 7	6, 6-10	OSW	you could *stop* in *Honolulu*	ST	NST
+1, 8	7, 1-2	OSW	meddai fo	NSNT	NSNT
+1, 9	7, 3-3	OSW	te	SNT	NSNT
+1, 10	8, 1-1	OSW	*Hawaii*	ST	NST
+1, 11	9, 1-2	OSW	arglwydd mawr	NSNT	NSNT
+1, 13	11, 1-2	OSW	meddai fi	SNT	NSNT
+1, 14	12, 1-4	OSW	but *um* I think	NST	NST
+1, 15	12, 5-9	OSW	I know you *well* enough	ST	NST
+1, 16	13, 1-2	OSW	meddai fo	SNT	NSNT
+1, 17	14, 1-9	OSW	I don't think you and *Mrs_Jones* are Hawaiian people	ST	NST
+1, 18	15, 1-2	OSW	meddai fo	---	NSNT
+
+
+2, 1	16, 1-10	CYN	*oh* wedyn achos oedd o yn gyfle chdi weld o	---	NST
+
+
+3, 1	17, 1-1	OSW	it's	NSNT	NSNT
+3, 2	18, 1-5	OSW	it's more of a *Blackpool*	NST	NST
+3, 3	18, 6-7	OSW	you know	SNT	NSNT
+3, 4	19, 1-2	OSW	meddai fi	NSNT	NSNT
+3, 5	21, 1-2	OSW	*oh* Iesu	NST	NST
+3, 6	22, 1-2	OSW	meddai fi	---	NSNT
+
+
+4, 1	23, 1-2	CYN	commercialised ia	---	SNT
+
+
+5, 1	24, 1-4	OSW	we don't want that	NSNT	NSNT
+5, 2	25, 1-4	OSW	*so* *er* *well* then	ST	NST
+5, 3	26, 1-2	OSW	meddai fo	SNT	NSNT
+5, 4	27, 1-3	OSW	in that *case*	ST	NST
+5, 5	28, 1-2	OSW	meddai fo	SNT	NSNT
+5, 6	29, 1-5	OSW	you will fly from *San_Francisco*	NST	NST
+5, 7	30, 1-6	OSW	you'll have a week in *San_Francisco*	NST	NST
+5, 8	31, 1-17	OSW	and then you will fly and *er* *stop* in *L_A* a *just* for a brief *um* pick_up	---	ST
+
+
+6, 1	32, 1-9	CYN	*mmm* *yeah* stretsio coesau mewn ffordd *yeah* a ia	---	NST
+
+
+7, 1	33, 1-6	OSW	and then you'll fly from there	SNT	NSNT
+7, 2	34, 1-2	OSW	meddai fo	SNT	NSNT
+7, 3	35, 1-3	OSW	to *Sydney* *Australia*	ST	NST
+7, 4	36, 1-2	OSW	a Duw	NSNT	NSNT
+7, 5	37, 1-2	OSW	meddai fi	SNT	NSNT
+7, 6	38, 1-3	OSW	that sounds good	NSNT	NSNT
+7, 7	39, 1-2	OSW	and then	SNT	NSNT
+7, 8	40, 1-2	OSW	meddai fo	SNT	NSNT
+7, 9	41, 1-5	OSW	*as* you are *so* *close*	ST	NST
+7, 10	42, 1-2	OSW	meddai fo	---	NSNT
+
+
+8, 1	43, 1-2	CYN	New_Zealand Seland_Newydd	---	SNT
+
+
+9, 1	45, 1-3	OSW	New_Zealand meddai fo	NSNT	SNT
+9, 2	45, 4-4	OSW	te	SNT	NSNT
+9, 4	47, 1-7	OSW	it's only like a three *hour* flight	NST	NST
+9, 6	49, 1-4	OSW	it's only like going	---	NSNT
+
+
+10, 1	50, 1-3	CYN	dydy o ddim_byd	NSNT	NSNT
+10, 2	50, 4-5	CYN	nag ydy	---	NSNT
+
+
+11, 1	51, 1-8	OSW	it's only like going from here to Spain	---	NSNT
+
+
+12, 1	52, 1-4	CYN	dyna chdi *yeah* *yeah*	---	NST
+
+
+13, 1	53, 1-2	OSW	meddai fo	NSNT	NSNT
+13, 2	54, 1-5	OSW	arglwydd meddai fi wrth *Carol*	ST	NST
+13, 3	55, 1-5	OSW	what a *bloody* marvellous opportunity	---	NST
+
+
+14, 1	56, 1-4	CYN	*chance* of a lifetime	---	NST
+
+
+15, 1	57, 1-5	OSW	*well* it's up to you	ST	NST
+15, 2	58, 1-2	OSW	meddai fo	SNT	NSNT
+15, 3	59, 1-5	OSW	*um* I *can* either *book*	NST	NST
+15, 4	59, 6-14	OSW	you a *straight* flight to to *er* *Australia* or	NST	NST
+15, 5	59, 15-22	OSW	you *can* do it on this amazing *offer*	ST	NST
+15, 6	60, 1-2	OSW	meddai fo	NSNT	NSNT
+15, 7	61, 1-11	OSW	a wedyn *er* dyma fi sbïo ar y y *missus* acw	ST	NST
+15, 8	63, 1-4	OSW	what do you reckon	SNT	NSNT
+15, 9	64, 1-3	OSW	*well* meddai hi	ST	NST
+15, 10	65, 1-3	OSW	there you go	SNT	NSNT
+15, 11	66, 1-1	OSW	meddai	SNT	NSNT
+15, 12	67, 1-6	OSW	it's a *chance* of a lifetime	---	NST
+
+
+16, 1	68, 1-5	CYN	*mmm* *yeah* *quite* *yeah* *yeah*	---	NST
+
+
+17, 1	69, 1-9	OSW	dyma ni mynd achan ar y fy enaid i	---	NSNT
+
+
+18, 1	70, 1-5	CYN	sut oedd pris yn gymharu	NSNT	NSNT
+18, 2	70, 6-12	CYN	â â pris *just* pris i *Australia*	NST	NST
+18, 3	71, 1-4	CYN	oedd o *right* resymol	NST	NST
+18, 4	72, 1-6	CYN	oedd o *lot* mwy ta be	---	NST
+
+
+19, 1	73, 1-7	OSW	*well* ryw gant a hanner yn fwy	---	NST
+
+
+20, 1	74, 1-3	CYN	dydy o ddim_byd	---	NSNT
+
+
+21, 1	75, 1-3	OSW	dydy o ddim_byd	---	NSNT
+
+
+22, 1	76, 1-3	CYN	dydy o ddim_byd	---	NSNT
+
+
+23, 1	77, 1-7	OSW	a dyma ni dyma ni mynd rŵan	NSNT	NSNT
+23, 2	79, 1-14	OSW	a wedyn dal *plane* i fan yno mynd â ni lawr wedyn i *Heathrow*	---	NST
+
+
+24, 1	80, 1-4	CYN	i *Heathrow* mae *sure*	NST	NST
+24, 2	80, 5-7	CYN	dyna chdi ia	---	NSNT
+
+
+25, 1	81, 1-6	OSW	ac wedyn *Heathrow* wedyn am *San_Francisco*	NST	NST
+25, 2	82, 1-5	OSW	a wsti be *Cynddylan* mi	NST	NST
+25, 3	82, 6-13	OSW	fuon ni yn ddiawledig o lwcus efo sêt	NSNT	NSNT
+25, 4	84, 1-10	OSW	gafon ni yr ddwy sêt *right* yn tu nôl sti	---	NST
+
+
+26, 1	85, 1-3	CYN	digon o leg_room	---	SNT
+
+
+27, 1	86, 1-5	OSW	wedyn toeddet ti ddim isio	---	NSNT
+
+
+28, 1	87, 1-4	CYN	pasio neb i *toilet*	---	NST
+
+
+29, 1	88, 1-6	OSW	toeddet ti ddim isio pasio neb	SNT	NSNT
+29, 2	90, 1-9	OSW	excuse *me* I want to go to the *toilet*	ST	NST
+29, 3	91, 1-1	OSW	felly	---	NSNT
+
+
+30, 1	92, 1-1	CYN	*ideal*	---	NST
+
+
+31, 1	93, 1-14	OSW	a wedyn tu nôl i yr *er* i tu nôl i yr seddi yli	NST	NST
+31, 2	93, 15-18	OSW	oedd yna emergency *door*	ST	ST
+31, 3	95, 1-10	OSW	wedyn oedd yna le i ti sefyll yn fan yna	NSNT	NSNT
+31, 4	95, 11-11	OSW	te	NSNT	NSNT
+31, 5	97, 1-7	OSW	*well* Iesu mi wnaeth hwnnw yr *trip*	---	NST
+
+
+32, 1	98, 1-2	CYN	*ideal* *yeah*	---	NST
+
+
+33, 1	99, 1-3	OSW	wedyn dyna fo	NSNT	NSNT
+33, 2	100, 1-5	OSW	dyma ni mynd i_fyny rŵan	NSNT	NSNT
+33, 3	101, 1-14	OSW	*well* arglwydd peth nesa achan oedden ni yn pasio drost *um* *Heysham* power *station*	ST	ST
+33, 4	101, 15-17	OSW	sti ffordd yna	NSNT	NSNT
+33, 5	103, 1-18	OSW	arglwydd beth wedyn achan o'n i yn sbïo lawr ar y ar yr ynys yna yn yn *Scotland*	ST	NST
+33, 6	105, 1-1	OSW	Isle_of_Skye	---	NSNT
+
+
+34, 1	106, 1-3	CYN	Isle_of_Skye dyna chdi	NSNT	SNT
+34, 2	106, 4-6	CYN	lle mae bont	NSNT	NSNT
+34, 3	107, 1-5	CYN	*yeah* mae yna bont yna	NST	NST
+34, 4	107, 6-6	CYN	does	---	NSNT
+
+
+35, 1	108, 1-4	OSW	dyna fo y bont	---	NSNT
+
+
+36, 1	109, 1-2	CYN	dyna chdi	---	NSNT
+
+
+37, 1	110, 1-2	OSW	dan ni	NSNT	NSNT
+37, 2	110, 3-6	OSW	wedi bod ar honna	---	NSNT
+
+
+38, 1	111, 1-4	CYN	dyna chdi *yeah* ia	---	NST
+
+
+39, 1	112, 1-20	OSW	a wedyn *er* arglwydd peth nesa achan oedden ni mynd i_fyny fel hyn am y *top* a gweld yr eira	NST	NST
+39, 2	113, 1-5	OSW	wedyn lle fysan ni dŵad	NSNT	NSNT
+39, 3	114, 1-2	OSW	*Iceland* ta	---	NST
+
+
+40, 1	115, 1-7	CYN	*Iceland* neu Greenland dydw ddim yn saff	---	ST
+
+
+41, 1	116, 1-5	OSW	*Iceland* *Iceland* dw i meddwl	NST	NST
+41, 2	118, 1-2	OSW	a wedyn	---	NSNT
+
+
+42, 1	119, 1-2	CYN	dim Greenland	---	SNT
+
+
+43, 1	120, 1-5	OSW	a wedyn oeddat ti mynd	---	NSNT
+
+
+44, 1	121, 1-5	CYN	dw ddim yn saff *yeah*	---	NST
+
+
+45, 1	122, 1-2	OSW	Greenland neu	---	SNT
+
+
+46, 1	123, 1-6	CYN	dw i *sure* na Greenland Greenland	ST	ST
+46, 2	123, 7-13	CYN	basai wneud mwy o *sense* i fi	---	NST
+
+
+47, 1	124, 1-6	OSW	ella ella bod chdi yn iawn	---	NSNT
+
+
+48, 1	125, 1-3	CYN	because aethon ni	NSNT	SNT
+48, 2	125, 4-7	CYN	aethon ni dros Greenland	SNT	SNT
+48, 3	125, 8-10	CYN	pan aethon ni	NSNT	NSNT
+48, 4	125, 11-11	CYN	yli	---	NSNT
+
+
+49, 1	126, 1-9	OSW	a wedyn dyma fo Iesu wedyn oeddet ti mynd	NSNT	NSNT
+49, 2	126, 10-18	OSW	oeddet ti rŵan mynd am y *top* y byd	NST	NST
+49, 3	127, 1-9	OSW	oeddet ti yn yr eira i sbïo lawr felly	NSNT	NSNT
+49, 4	127, 10-10	OSW	sti	NSNT	NSNT
+49, 5	129, 1-4	OSW	arglwydd peth nesa achan	NSNT	NSNT
+49, 6	130, 1-10	OSW	ond oedd o yn cymryd deuddeg awr o o *drip*	NST	NST
+49, 7	130, 11-13	OSW	sti deuddeg awr	---	NSNT
+
+
+50, 1	131, 1-4	CYN	oedd cymryd deuddeg awr	---	NSNT
+
+
+51, 1	132, 1-2	OSW	deuddeg awr	NSNT	NSNT
+51, 2	133, 1-6	OSW	a wedyn be oedd yn dda	NSNT	NSNT
+51, 3	133, 7-7	OSW	te	NSNT	NSNT
+51, 4	133, 8-10	OSW	oedd gyn *British_Rail*	NST	NST
+51, 5	134, 1-4	OSW	*British_Rail* *British_Rail* meddai fi	---	NST
+
+
+52, 1	135, 1-1	CYN	*British_Rail*	ST	NST
+52, 2	136, 1-3	CYN	ti ti yn	---	NSNT
+
+
+53, 1	137, 1-1	OSW	*British_Airways*	---	NST
+
+
+54, 1	138, 1-3	CYN	ti cracio fyny	---	NSNT
+
+
+55, 1	139, 2-9	OSW	gynnon nhw *er* y sêt o flaen di	NST	NST
+55, 2	139, 10-14	OSW	oedd yna fath â *camera*	NST	NST
+55, 3	139, 15-23	OSW	sti yn deud yr destination *um* faint o gloch	NST	ST
+55, 4	139, 24-26	OSW	oedd hi yn	---	NSNT
+
+
+56, 1	140, 1-8	CYN	a faint o faint o filltiroedd oedd ar_ôl	---	NSNT
+
+
+57, 1	141, 1-10	OSW	faint o filltiroedd a llun y *plane* yn fan yna	---	NST
+
+
+58, 1	143, 1-2	CYN	dyna chdi	NSNT	NSNT
+58, 2	143, 3-5	CYN	dyna chdi *yeah*	NST	NST
+58, 3	144, 1-12	CYN	*er* union un fath â ni pan aethon ni *America* a *Canada*	---	NST
+
+
+59, 1	145, 1-2	OSW	dyna fo	NSNT	NSNT
+59, 2	146, 1-6	OSW	a wedyn a wedyn dyna fo	NSNT	NSNT
+59, 3	147, 1-13	OSW	wedyn sbïo lawr te arglwydd gweld yr *Hoover_Dam* ti galw fo neu *Hoover_Dam*	---	NST
+
+
+60, 1	148, 1-2	CYN	*Hoover_Dam* do	NST	NST
+60, 2	149, 1-3	CYN	*oh* dan ni	NST	NST
+60, 3	149, 4-7	CYN	wedi bod *yeah* *yeah*	---	NST
+
+
+61, 1	150, 1-4	OSW	peth nesa achan arglwydd	NSNT	NSNT
+61, 2	151, 1-5	OSW	a be oedd yn dda	NSNT	NSNT
+61, 3	151, 6-7	OSW	te *Cynddylan*	NST	NST
+61, 4	151, 8-9	OSW	te wrth	NSNT	NSNT
+61, 5	151, 10-15	OSW	bod ni mynd gorllewin west yn_de	NSNT	SNT
+61, 6	153, 1-15	OSW	oedden ni yn mynd i yr haul lle bod ni mynd i yr tywyllwch toedden	---	NSNT
+
+
+62, 1	154, 1-14	CYN	*well* ia ia *so* oedd dy ddiwrnod di yn ddiwrnod hir mewn ffordd felly	---	NST
+
+
+63, 1	155, 1-2	OSW	oedd *well*	NST	NST
+63, 3	157, 1-7	OSW	a wedyn oeddet ti yn *constant* ia	NST	NST
+63, 4	157, 8-14	OSW	oeddet ti yn ddim yn y tywyllwch	NSNT	NSNT
+63, 5	159, 1-15	OSW	a wedyn dyma ni yn dod lawr wan a yr a yr *er* *pilot* deud	ST	NST
+63, 6	160, 1-7	OSW	there we are *ladies* gentlemen touching down	ST	NST
+63, 7	162, 1-9	OSW	ac *um* arglwydd sbïo achan gweld y *Golden_Gate* de	NST	NST
+63, 8	164, 1-8	OSW	a finnau yn deud wrth fi yn hun	NSNT	NSNT
+63, 9	165, 1-2	OSW	Iesu_Grist sbïa	NSNT	NSNT
+63, 10	166, 1-2	OSW	meddai fi	NSNT	NSNT
+63, 11	167, 1-2	OSW	*Oswy* Berffro	---	NST
+
+
+64, 1	168, 1-2	CYN	yn y	---	NSNT
+
+
+65, 1	169, 1-5	OSW	yn dod i_lawr am *San_Francisco*	NST	NST
+65, 3	171, 1-3	OSW	a wsti be	---	NSNT
+
+
+66, 1	172, 1-3	CYN	wnest ti joio	---	NSNT
+
+
+67, 1	173, 1-4	OSW	fe joion ni hunain	---	NSNT
+
+
+68, 1	174, 1-6	CYN	est ti ar y bont hefyd	---	NSNT
+
+
+69, 1	175, 1-2	OSW	arglwydd do	---	NSNT
+
+
+70, 1	176, 1-4	CYN	mae nhw yn deud	NSNT	NSNT
+70, 2	176, 5-9	CYN	de bob ryw gan llath	NSNT	NSNT
+70, 3	176, 11-13	CYN	mae yna *phones*	NST	NST
+70, 4	176, 14-14	CYN	does	NSNT	NSNT
+70, 5	178, 1-10	CYN	am bod yna gymaint o bobl yn lladd eu hunain	---	NSNT
+
+
+71, 1	179, 1-2	OSW	dyna fo	---	NSNT
+
+
+72, 1	180, 1-7	CYN	i nhw ffonio fyny fath â counsellors	---	SNT
+
+
+73, 1	181, 1-2	OSW	dyna fo	NSNT	NSNT
+73, 2	182, 1-10	OSW	a wedyn gafon ni gafon ni yn fan yna yli	NSNT	NSNT
+73, 3	182, 11-13	OSW	dw i *sure*	NST	NST
+73, 4	182, 14-18	OSW	bod ni wedi aros pump	NSNT	NSNT
+73, 5	182, 19-20	OSW	noson yno	NSNT	NSNT
+73, 7	184, 1-11	OSW	a wedyn mae fan yno y gay *city* of the world	ST	ST
+73, 8	184, 12-12	OSW	sti	---	NSNT
+
+
+74, 1	185, 1-3	CYN	*oh* yndy Iesu	NST	NST
+74, 2	185, 4-9	CYN	mae yna bob math o bethau	NSNT	NSNT
+74, 3	185, 10-10	CYN	does	---	NSNT
+
+
+75, 1	186, 1-5	OSW	a ti yn gweld y	NSNT	NSNT
+75, 2	187, 1-7	OSW	a ti yn gweld nhw yn swsio	---	NSNT
+
+
+76, 1	188, 1-4	CYN	*yeah* mae o yn	---	NST
+
+
+77, 1	189, 1-4	OSW	ar y *buses* yma	---	NST
+
+
+78, 1	190, 1-4	CYN	mae yn agoriad llygad	NSNT	NSNT
+78, 2	190, 5-5	CYN	dydy	---	NSNT
+
+
+79, 1	191, 1-1	OSW	llygad	NSNT	NSNT
+79, 2	192, 1-16	OSW	a wedyn mi oedd yr *um* *Llangefni* wedi trefnu i ni i fynd i weld *Alcatraz*	NST	NST
+79, 3	192, 17-17	OSW	yli	---	NSNT
+
+
+80, 1	193, 1-9	CYN	*oh* yr hen prison dyna chdi *yeah* *yeah* ia	---	ST
+
+
+81, 1	194, 1-5	OSW	y carchar y carchar de	---	NSNT
+
+
+82, 1	195, 2-5	CYN	fuodd *Kathy* fan yna	---	NST
+
+
+83, 1	196, 1-8	OSW	a wedyn oeddet ti mynd i fan yno	NSNT	NSNT
+83, 2	196, 9-9	OSW	te	NSNT	NSNT
+83, 3	197, 1-6	OSW	a wedyn oeddet ti yn gweld	NSNT	NSNT
+83, 4	197, 7-10	OSW	lle oedd yr *er*	NST	NST
+83, 5	197, 11-17	OSW	lle wnaethon nhw yr *film* y *Birdman*	---	NST
+
+
+84, 1	198, 1-4	CYN	y *Birdman* efo *Burt_Lancaster*	---	NST
+
+
+85, 1	199, 1-3	OSW	a dyna fo	NSNT	NSNT
+85, 2	200, 1-5	OSW	a wedyn lluniau rheiny oedd	NSNT	NSNT
+85, 3	200, 6-8	OSW	wedi bod yna	NSNT	NSNT
+85, 4	200, 9-13	OSW	sti *Al_Capone* a rheiny gyd	---	NST
+
+
+86, 1	201, 1-4	CYN	*yeah* dyna chdi *Al_Capone*	---	NST
+
+
+87, 1	202, 1-3	OSW	*well* bendigedig te	NST	NST
+87, 2	203, 1-9	OSW	a wedyn oedden ni yn aros yn be ddiawl	NSNT	NSNT
+87, 3	203, 10-14	OSW	ydy enw fo dŵad *Fisherman's_Wharf*	NST	NST
+87, 4	204, 1-9	OSW	a gafon ni *lot* fawr o hwyl yno de	NST	NST
+87, 5	206, 1-4	OSW	wedyn dyna hi wedyn	NSNT	NSNT
+87, 6	207, 1-14	OSW	symudon ni wedyn a dal y y y *plane* a mynd am am *er*	---	NST
+
+
+88, 1	208, 1-4	CYN	fath â local flight	SNT	SNT
+88, 2	209, 1-1	CYN	naci	NSNT	NSNT
+88, 3	210, 1-7	CYN	oedda chdi mynd am *Sydney* wedyn doeddachd	---	NST
+
+
+89, 1	211, 1-1	OSW	naci	---	NSNT
+
+
+90, 1	212, 1-1	CYN	naci	NSNT	NSNT
+90, 2	213, 1-3	CYN	lle ddeudaist ti	---	NSNT
+
+
+91, 1	214, 1-1	OSW	*L_A*	---	NST
+
+
+92, 1	215, 1-5	CYN	*L_A* dyna chdi *yeah* *yeah*	---	NST
+
+
+93, 1	216, 1-2	OSW	*L_A* *yeah*	ST	NST
+93, 2	217, 1-12	OSW	a myn uffar i achan mynd o un *um* haul i un	NST	ST
+93, 3	217, 13-14	OSW	arall de	NSNT	NSNT
+93, 4	218, 1-4	OSW	a wedyn oedd yna	NSNT	NSNT
+93, 5	218, 5-6	OSW	oedd yna	NSNT	NSNT
+93, 6	219, 1-8	OSW	to'n i ddim yn *er* gwybod amdani chwaith	NST	NST
+93, 7	220, 1-6	OSW	*er* *er* rywun oedd efo digwydd	NST	NST
+93, 8	220, 7-10	OSW	bod hefo ni felly	SNT	NSNT
+93, 9	222, 1-2	OSW	*ooh* look	ST	NST
+93, 10	223, 1-11	OSW	ac yn pwyntio allan ryw actores ddiawledig o enwog felly sti	NSNT	NSNT
+93, 11	225, 1-8	OSW	toedd gyn i ddim *idea* pwy oedd hi	---	NST
+
+
+94, 1	226, 1-6	CYN	hogyn o Sir_Fôn ti de *boy*	---	NST
+
+
+95, 1	227, 1-2	OSW	yn union	NSNT	NSNT
+95, 3	229, 1-7	OSW	dyna fo rŵan mynd rŵan am *Sydney*	NST	NST
+95, 4	229, 8-8	OSW	te	NSNT	NSNT
+95, 5	230, 1-3	OSW	*well* Iesu wsti	NST	NST
+95, 6	230, 4-8	OSW	be cyrraedd yn fan yno	NSNT	NSNT
+95, 7	230, 9-23	OSW	te a dod o yr y *plane* wan ar_hyd y *corridors* yma welcome to *Sydney*	ST	ST
+95, 8	231, 1-8	OSW	wsti be *Cynddylan* bach o'n i methu coelio	NST	NST
+95, 9	231, 9-10	OSW	myn diawl	---	NSNT
+
+
+96, 1	232, 1-8	CYN	am faint o'ch chdi actually yn *Sydney* ta	---	ST
+
+
+97, 1	233, 1-4	OSW	oedden ni yn *Sydney*	NST	NST
+97, 2	233, 5-13	OSW	te ni yno am *just* i fythefnos a hanner	---	NST
+
+
+98, 1	234, 1-2	CYN	Iesu oeddachd	---	NSNT
+
+
+99, 1	235, 1-2	OSW	do tad	NSNT	NSNT
+99, 2	236, 1-10	OSW	a wedyn mae yna gymaint i sôn am y lle	NSNT	NSNT
+99, 3	236, 11-11	OSW	te	---	NSNT
+
+
+100, 1	237, 1-5	CYN	est ti ar y bont	---	NSNT
+
+
+101, 1	238, 1-4	OSW	ni ar y bont	---	NSNT
+
+
+102, 1	239, 1-3	CYN	efo yr *harness*	---	NST
+
+
+103, 1	240, 1-10	OSW	efo yr *harness* cerdded i i i_fyny yr bont de	---	NST
+
+
+104, 1	242, 1-3	CYN	*right* drosto *yeah*	---	NST
+
+
+105, 1	244, 1-7	OSW	*well* pwy bynnag sy mynd i *Sydney*	NST	NST
+105, 2	244, 8-8	OSW	te	NSNT	NSNT
+105, 3	244, 9-12	OSW	mae hwnnw yn must	SNT	SNT
+105, 4	244, 13-13	OSW	te	---	NSNT
+
+
+106, 1	245, 3-4	CYN	mae raid	NSNT	NSNT
+106, 2	245, 5-8	CYN	mae gyn ti hwnna	NSNT	NSNT
+106, 3	245, 9-15	CYN	a mae gyn ti yr *opera* house	ST	ST
+106, 4	245, 16-20	CYN	does y ddau beth yna	---	NSNT
+
+
+107, 1	246, 1-4	OSW	mae o yn ddrud	NSNT	NSNT
+107, 2	246, 5-8	OSW	mae o yn ddrud	NSNT	NSNT
+107, 3	246, 9-9	OSW	yn_te	NSNT	NSNT
+107, 4	247, 1-10	OSW	ond wrth bod chdi yn wneud yr ymdrech fynd yna	NSNT	NSNT
+107, 5	247, 11-11	OSW	te	---	NSNT
+
+
+108, 1	248, 1-5	CYN	*well* am bod chdi yna	NST	NST
+108, 2	248, 6-8	CYN	basai rywun deud	NSNT	NSNT
+108, 3	248, 9-9	CYN	bod	NSNT	NSNT
+108, 4	248, 10-12	CYN	petaset chdi ddeud	NSNT	NSNT
+108, 5	248, 13-14	CYN	bod chdi	NSNT	NSNT
+108, 6	248, 15-25	CYN	bod yn *Australia* siarad efo dy *fates* yn *pub* a a	NST	NST
+108, 7	250, 1-6	CYN	*well* est ti ar y bont	NST	NST
+108, 8	253, 1-4	CYN	a ti deud naddo	NSNT	NSNT
+108, 9	255, 1-8	CYN	*well* ella chei di ddim cyfle eto de	---	NST
+
+
+109, 1	257, 1-6	OSW	a wedyn oeddet ti mynd i_fyny	NSNT	NSNT
+109, 2	257, 7-9	OSW	sti a cleimio	NSNT	NSNT
+109, 3	257, 10-10	OSW	te	NSNT	NSNT
+109, 4	258, 1-10	OSW	a wedyn vertical i_fyny fel yna a hwnnw yn syth	NSNT	SNT
+109, 5	259, 1-4	OSW	arglwydd peth nesa te	NSNT	NSNT
+109, 6	259, 5-6	OSW	oedd yna	NSNT	NSNT
+109, 7	259, 7-11	OSW	olwynion *trains* yn basio di	NST	NST
+109, 9	261, 1-1	OSW	arglwydd	NSNT	NSNT
+109, 10	262, 1-9	OSW	ond fedran nhw ddim wneud dim difa i chdi	---	NSNT
+
+
+110, 1	263, 1-4	CYN	na ond wedyn oedd	---	NSNT
+
+
+111, 1	264, 1-8	OSW	ond oedd o yn brofiad mwya diawledig achan	NSNT	NSNT
+111, 3	266, 1-6	OSW	a peth arall wnaethon ni yno	NSNT	NSNT
+111, 4	266, 7-7	OSW	te	NSNT	NSNT
+111, 5	267, 1-11	OSW	fedrwn i siarad efo ti trwy yr dydd am y peth	NSNT	NSNT
+111, 6	268, 1-2	OSW	wrth bod	NSNT	NSNT
+111, 7	268, 3-12	OSW	dw i mewn côr yn Sir_Fôn yma côr *Gareth_Glyn* *Lleisiau_Frogwy*	---	NST
+
+
+112, 1	269, 1-6	CYN	ia dyna chdi sôn *yeah* *yeah*	---	NST
+
+
+113, 1	270, 1-9	OSW	o'n i wedi trefnu yli *er* trwy yr *um*	---	NST
+
+
+114, 1	271, 1-3	CYN	y *travel* agent	---	ST
+
+
+115, 1	273, 1-12	OSW	y secretary i mi gael cyfarfod â yr *Australia* *um* *Choir* te	NST	ST
+115, 2	275, 1-10	OSW	*well* dyna i ti brofiad diawledig bendigedig mynd efo nhw	NST	NST
+115, 3	275, 11-12	OSW	noson ymarfer	NSNT	NSNT
+115, 4	277, 1-12	OSW	a o'n i mynd es i am dair nos Fercher efo nhw	NSNT	NSNT
+115, 5	278, 1-14	OSW	a wsti hogiau ballu o o o *Bangor* yma achan wedi symud wedi emigrate_io	ST	ST
+115, 6	278, 15-15	OSW	te	---	NSNT
+
+
+116, 1	279, 1-12	CYN	fath â ex expats mewn ffordd wedi emigrate_io fel ti deud *yeah*	---	ST
+
+
+117, 1	281, 1-2	OSW	wedi emigrate_io	SNT	SNT
+117, 2	282, 1-4	OSW	oedden nhw cael mynd	NSNT	NSNT
+117, 3	282, 5-12	OSW	yli am tua deg punt ar un cyfnod	NSNT	NSNT
+117, 4	282, 13-13	OSW	sti	---	NSNT
+
+
+118, 1	283, 1-4	CYN	*so* mewn ffordd gynnon	NST	NST
+118, 2	283, 5-11	CYN	gynnon nhw gymdeithas Cymraeg yn *Sydney* felly	---	NST
+
+
+119, 1	284, 1-3	OSW	arglwydd mawr oedd	---	NSNT
+
+
+120, 1	285, 1-6	CYN	mae yna rei yn bob man	NSNT	NSNT
+120, 2	285, 7-7	CYN	does	---	NSNT
+
+
+121, 1	287, 1-6	OSW	a wedyn mi symudon ni wedyn	NSNT	NSNT
+121, 2	287, 7-9	OSW	te i Seland_Newydd	NSNT	NSNT
+121, 3	289, 1-6	OSW	*well* dyna i ti wlad fendigedig	---	NST
+
+
+122, 1	290, 1-4	CYN	mae nhw yn deud	NSNT	NSNT
+122, 2	290, 5-9	CYN	bod hi *right* debyg Gymru	NST	NST
+122, 3	290, 10-15	CYN	dydy yr un yr un *idea*	---	NST
+
+
+123, 1	291, 1-2	OSW	yndy tad	NSNT	NSNT
+123, 2	292, 1-10	OSW	ac *um* oedden ni wedi trefnu achan trwy *dad* o	NST	NST
+123, 3	293, 1-15	OSW	oedd yna gyfaill i fi o *Rosneigr* yn byw *just* tu allan i *Auckland* achan	NST	NST
+123, 4	294, 1-6	OSW	ac oedd gynno fo *stud* *ranch*	NST	NST
+123, 5	295, 1-3	OSW	oedd o yn	NSNT	NSNT
+123, 6	295, 4-9	OSW	oedd o yn *er* cadw ceffylau	NST	NST
+123, 7	295, 10-10	OSW	sti	---	NSNT
+
+
+124, 1	296, 1-1	CYN	brilliant	---	NSNT
+
+
+125, 1	297, 1-6	OSW	a wsti be beth braf *Cynddylan*	NST	NST
+125, 2	298, 1-11	OSW	cerdded ar dir glas am dro cynta ers *just* i fis	NST	NST
+125, 3	300, 1-9	OSW	a finnau wedi arfer yn y nghae bach i	---	NSNT
+
+
+126, 1	301, 1-2	CYN	*well* ia	---	NST
+
+
+127, 1	302, 1-14	OSW	arrive_io yn y cae yma rŵan a yr buchod a yr *Herefords* yma ballu	---	ST
+
+
+128, 1	304, 1-2	CYN	mae *sure*	NST	NST
+128, 2	304, 3-4	CYN	bod caeau	NSNT	NSNT
+128, 3	304, 5-6	CYN	mae *sure*	NST	NST
+128, 4	304, 7-13	CYN	bod caeau nhw yr un un *size*	NST	NST
+128, 5	304, 14-15	CYN	â Sir_Fôn	NSNT	NSNT
+128, 6	304, 16-17	CYN	mae *sure*	---	NST
+
+
+129, 1	305, 1-3	OSW	ond be oedd	NSNT	NSNT
+129, 2	305, 4-5	OSW	be oedd	NSNT	NSNT
+129, 3	305, 6-11	OSW	be oedd yn fan yna rŵan	NSNT	NSNT
+129, 4	305, 12-13	OSW	te *Cynddylan*	NST	NST
+129, 5	305, 14-20	OSW	oeddet ti wan wedi mynd i autumn	---	SNT
+
+
+130, 1	306, 1-5	CYN	o un tymor i llall	---	NSNT
+
+
+131, 1	307, 1-4	OSW	oedden ni yn gadael	NSNT	NSNT
+131, 2	307, 5-10	OSW	oedden ni yn gadael yn gwanwyn	---	NSNT
+
+
+132, 1	308, 1-4	CYN	*oh* ia ia dyna	NST	NST
+132, 2	308, 5-7	CYN	be ydy o	---	NSNT
+
+
+133, 1	310, 1-6	OSW	dod yn autumn yn fan yna	NSNT	SNT
+133, 2	311, 1-2	OSW	a wedyn	NSNT	NSNT
+133, 3	312, 1-9	OSW	Iesu rhaid mi ddeud yr hanes yma wrthat ti	NSNT	NSNT
+133, 4	313, 1-6	OSW	mynd ar y *bus* yma rŵan	NST	NST
+133, 5	314, 1-16	OSW	a wedyn y *trip* oedd hwn *north* and *south* island wneud *trip* am bythefnos yn Seland_Newydd	NST	ST
+133, 6	315, 1-19	OSW	a wedyn Duw achan ar_ôl ni fod ar y *bus* am ryw hanner awr mi oedd yr *er* mi	NST	NST
+133, 7	315, 20-29	OSW	oedd yr *er* y dreifar y *courier* isio ti ddeud	NST	NST
+133, 8	315, 30-34	OSW	pwy oeddet ti a ballu	NSNT	NSNT
+133, 9	315, 35-35	OSW	sti	---	NSNT
+
+
+134, 1	316, 1-3	CYN	*oh* wela i	---	NST
+
+
+135, 1	317, 1-13	OSW	wedyn oedd yna bob math o bobl o bob ban o yr byd	SNT	NSNT
+135, 2	319, 1-3	OSW	Africans you name	NSNT	NSNT
+135, 3	319, 4-7	OSW	it o'n nhw yna	NSNT	SNT
+135, 4	319, 8-10	OSW	te Americans Chinese	SNT	SNT
+135, 5	320, 1-12	OSW	wedyn gyd yn deud eu henwau a lle oedden nhw yn dŵad	NSNT	NSNT
+135, 6	320, 13-13	OSW	sti	NSNT	NSNT
+135, 7	321, 1-9	OSW	dyma hi yn dod y nhwrn i rŵan te	NSNT	NSNT
+135, 9	323, 1-9	OSW	dyma fi yn codi ac yn dechrau siarad Cymraeg	NSNT	NSNT
+135, 11	325, 1-4	OSW	*well* Iesu hwyl te	NST	NST
+135, 13	327, 1-11	OSW	ac ar_ôl siarad am ryw ella bod o ryw bymtheg eiliad	SNT	NSNT
+135, 14	328, 1-7	OSW	I *can* speak another language *as* *well*	ST	NST
+135, 15	329, 1-4	OSW	i yr Saesneg de	---	NSNT
+
+
+136, 1	330, 1-3	CYN	bilingual ydy o	NSNT	SNT
+136, 2	330, 4-6	CYN	yli bilingual *yeah*	---	ST
+
+
+137, 1	331, 1-3	OSW	a felly buo	NSNT	NSNT
+137, 2	332, 1-5	OSW	a wnaethon ni ffrindiau achan	NSNT	NSNT
+137, 3	333, 1-4	OSW	*well* wnaethon ni ffrindiau	NST	NST
+137, 4	334, 1-15	OSW	a wedyn bod ni yn cyfarfod hefyd yn Seland_Newydd *um* ffrind i ffrind i fi	NST	NST
+137, 5	335, 1-6	OSW	oedd o yn dod o *Blaenau_Ffestiniog*	NST	NST
+137, 6	335, 7-7	OSW	sti	NSNT	NSNT
+137, 7	337, 1-11	OSW	ac *um* ac oedd o yn *farm* cadw ceirw yna achan	---	NST
+
+
+138, 1	338, 1-2	CYN	Iesu *yeah*	---	NST
+
+
+139, 1	339, 1-10	OSW	a wedyn dyma fo mynd â ni am dro achan	NSNT	NSNT
+139, 2	340, 1-8	OSW	a dyma ryw ffarmwr dŵad i cwrdd ni	NSNT	NSNT
+139, 3	341, 1-7	OSW	a dyma fo yn deud wrtha fi	NSNT	NSNT
+139, 4	342, 1-2	OSW	yli *Oswy*	NST	NST
+139, 6	344, 1-5	OSW	dw isio ti gyfarfod hwn	NSNT	NSNT
+139, 8	346, 1-8	OSW	a dyma fo yn stopio yr *car* wan	NST	NST
+139, 9	347, 1-5	OSW	mae o fath â *jeep*	NST	NST
+139, 10	347, 6-13	OSW	oedd gynno fo fath â ryw four_by_four fawr	NSNT	SNT
+139, 11	347, 14-14	OSW	sti	NSNT	NSNT
+139, 12	350, 1-5	OSW	a dyma fo yn deud	SNT	NSNT
+139, 13	351, 1-12	OSW	*oh* I like you to meet a friend of mine from Wales	ST	NST
+139, 14	352, 1-2	OSW	meddai fo	NSNT	NSNT
+139, 15	352, 3-3	OSW	te	SNT	NSNT
+139, 16	353, 1-3	OSW	he's got sheep	SNT	NSNT
+139, 17	354, 1-2	OSW	meddai fo	NSNT	NSNT
+139, 19	356, 1-3	OSW	*oh* meddai fo	---	NST
+
+
+140, 1	360, 1-9	CYN	dw i wedi clywed o gyd o yr blaen	NSNT	NSNT
+140, 2	360, 10-11	CYN	dw meddwl	NSNT	NSNT
+140, 3	360, 12-15	CYN	do hefo defaid *yeah*	---	NST
+
+
+141, 1	361, 1-2	OSW	*yeah* te	NST	NST
+141, 2	362, 1-2	OSW	dyma fo	SNT	NSNT
+141, 3	363, 1-6	OSW	what sheep have you got *Oswy*	NST	NST
+141, 4	364, 1-4	OSW	*oh* I've got texans	ST	NST
+141, 5	365, 1-2	OSW	meddai fi	NSNT	NSNT
+141, 6	365, 3-3	OSW	te	SNT	NSNT
+141, 7	366, 1-2	OSW	*oh* wonderful	ST	NST
+141, 8	367, 1-2	OSW	meddai fo	NSNT	NSNT
+141, 9	368, 1-8	OSW	a dyma fo yn deud be oedd enw	NSNT	NSNT
+141, 10	368, 9-12	OSW	ei *breeds* o felly	NST	NST
+141, 11	368, 13-13	OSW	sti	NSNT	NSNT
+141, 12	369, 1-2	OSW	ac *um*	ST	NST
+141, 13	370, 1-6	OSW	how many sheep have you got	SNT	NSNT
+141, 14	371, 1-2	OSW	meddai fo	SNT	NSNT
+141, 15	372, 1-4	OSW	I've got twenty thousand	SNT	NSNT
+141, 17	374, 1-2	OSW	meddai fo	NSNT	NSNT
+141, 18	374, 3-3	OSW	te	NSNT	NSNT
+141, 19	375, 1-1	OSW	te	SNT	NSNT
+141, 20	376, 1-2	OSW	good God	---	NSNT
+
+
+142, 1	377, 1-5	CYN	a faint oedd gynno chdi	---	NSNT
+
+
+143, 1	378, 1-2	OSW	meddai fi	NSNT	NSNT
+143, 2	379, 1-6	OSW	dyma fo yn gofyn i mi	SNT	NSNT
+143, 3	380, 1-7	OSW	how many sheep have you got *Oswy*	NST	NST
+143, 4	381, 1-3	OSW	I've got thirty	---	NSNT
+
+
+144, 1	382, 1-2	CYN	meddai fi	---	NSNT
+
+
+145, 1	383, 1-2	OSW	good God	SNT	NSNT
+145, 2	384, 1-2	OSW	meddai fo	SNT	NSNT
+145, 3	385, 1-2	OSW	I thought	NSNT	NSNT
+145, 4	385, 3-9	OSW	I had a hell of a *lot*	NST	NST
+145, 6	387, 1-5	OSW	but you've got thirty thousand	NSNT	NSNT
+145, 7	388, 1-3	OSW	no meddai fi	---	SNT
+
+
+146, 1	389, 1-3	CYN	no *just* thirty	---	NST
+
+
+147, 1	390, 1-2	OSW	thirty sheep	---	NSNT
+
+
+148, 1	391, 1-5	CYN	dw i cofio ti deud	---	NSNT
+
+
+149, 1	392, 1-2	OSW	*well* chwerthin	---	NST
+
+
+150, 1	393, 1-7	CYN	dw i cofio chdi deud wrthon ni	NSNT	NSNT
+150, 2	393, 8-16	CYN	pan oedden ni ffilmio ffilmio yn *er* efo *Rownd_a_Rownd*	---	NST
+
+
+151, 1	395, 1-2	OSW	a wedyn	NSNT	NSNT
+151, 3	397, 1-5	OSW	wedyn ni ddarfod wedyn te	NSNT	NSNT
+151, 5	399, 1-9	OSW	aethon ni o fan yna wedyn yn_ôl i *Sydney*	NST	NST
+151, 6	402, 1-8	OSW	gafon ni wsnos yn yn yn *Sydney* wedyn	---	NST
+
+
+152, 1	403, 1-4	CYN	wedyn yn_ôl i *L_A*	---	NST
+
+
+153, 1	404, 1-6	OSW	a wedyn yn_ôl wedyn i *Singapore*	---	NST
+
+
+154, 1	405, 1-6	CYN	*oh* i *Singapore* aethoch chi *oh*	---	NST
+
+
+155, 1	406, 1-4	OSW	oedd hi yn ddiawledig	NSNT	NSNT
+155, 2	407, 1-5	OSW	mae hwnnw ar yr equator	SNT	SNT
+155, 3	407, 6-6	OSW	tydy	---	NSNT
+
+
+156, 1	408, 2-4	CYN	mae o yn	NSNT	NSNT
+156, 2	408, 5-5	CYN	mae	NSNT	NSNT
+156, 3	408, 6-8	CYN	mae yna *lot*	NST	NST
+156, 4	408, 9-11	CYN	mae yna *um*	NST	NST
+156, 5	408, 12-16	CYN	be mae yn ddeud *yeah*	NST	NST
+156, 6	408, 17-19	CYN	ydy *um* humidity	---	ST
+
+
+157, 1	409, 1-2	OSW	humidity te	---	SNT
+
+
+158, 1	410, 1-1	CYN	dyna	NSNT	NSNT
+158, 2	410, 2-4	CYN	be ydy o	---	NSNT
+
+
+159, 1	411, 1-12	OSW	*oh* oeddet ti yn dod allan o yr foyer yn yr *hotels*	NST	ST
+159, 2	411, 13-19	OSW	de a hwnnw yn dy hitio di	---	NSNT
+
+
+160, 1	412, 1-2	CYN	hitio ti	---	NSNT
+
+
+161, 1	413, 1-4	OSW	*oh* mi gafon ni	NST	NST
+161, 2	414, 1-7	OSW	ond be oedd yn dda fan yno	NSNT	NSNT
+161, 3	414, 8-10	OSW	te y taclusrwydd	NSNT	NSNT
+161, 4	415, 1-5	OSW	ti ddim *cigarettes* na dim_byd	---	NST
+
+
+162, 1	416, 1-3	CYN	*ah* mae o	---	NST
+
+
+163, 1	417, 1-5	OSW	fedret ti ddim prynu chewing_gum	SNT	SNT
+163, 3	419, 1-10	OSW	a wedyn oedden ni yn fan yno tua tair bedair	NSNT	NSNT
+163, 4	419, 11-20	OSW	noson a wedyn adre wedyn yn_ôl i i *er* Sir_Fôn	NST	NST
+163, 6	421, 1-8	OSW	a dyna i ti hanes fy nhaith i	NSNT	NSNT
+163, 7	421, 9-9	OSW	yli	---	NSNT
+
+
+164, 1	422, 1-2	CYN	thirty thousand	---	NSNT
+
+
+165, 1	423, 1-7	OSW	a wedyn wyt ti wedi crwydro ddiawledig	---	NSNT
+
+
+166, 1	424, 1-2	CYN	*well* wnes	NST	NST
+166, 2	424, 3-3	CYN	wnes	---	NSNT
+
+
+167, 1	425, 1-5	OSW	wyt ti fath â *Alan_Whicker*	---	NST
+
+
+168, 1	426, 1-3	CYN	byth adre de	---	NSNT
+
+
+169, 1	427, 1-3	OSW	wyt ti mynd	NSNT	NSNT
+169, 2	427, 4-6	OSW	myn uffar i	NSNT	NSNT
+169, 3	428, 1-7	OSW	wyt ti mynd bob pythefnos dair wsnos	---	NSNT
+
+
+170, 1	429, 1-4	CYN	*well* dw mynd mewn	NST	NST
+170, 2	429, 5-8	CYN	dw mynd mewn bythefnos	NSNT	NSNT
+170, 3	430, 1-14	CYN	a dw newydd fod yn_ôl newydd dod nôl o Sbaen ers tua tair wythnos	NSNT	NSNT
+170, 4	432, 1-6	CYN	ond be fuon ni yn *um*	NST	NST
+170, 5	433, 1-3	CYN	*America* fuon ni	NST	NST
+170, 6	434, 1-3	CYN	faint nôl dŵad	NSNT	NSNT
+170, 7	435, 1-3	CYN	tua dwy flynedd	NSNT	NSNT
+170, 8	437, 1-10	CYN	oedden ni yn fflio o mynd efo *taxi* i Manceinion	NST	NST
+170, 9	439, 1-10	CYN	wedyn fflio lawr wedyn efo fath â shuttle i *Heathrow*	NST	ST
+170, 10	441, 1-8	CYN	drosodd wedyn i *Phoenix* naci *sorry* *Chicago* *sorry*	NST	NST
+170, 11	444, 1-5	CYN	a wedyn drosodd i *Phoenix*	NST	NST
+170, 12	446, 1-5	CYN	cwrdd â *bus* yn *Phoenix*	NST	NST
+170, 13	448, 1-7	CYN	wedyn trafaelio drosodd wedyn i *er* *Las_Vegas*	NST	NST
+170, 14	450, 1-9	CYN	a wedyn stopio ryw ddau ddiwrnod mewn wahanol llefydd	NSNT	NSNT
+170, 15	452, 1-3	CYN	wedyn welson ni	NSNT	NSNT
+170, 16	452, 4-8	CYN	aethon ni weld yr *um*	NST	NST
+170, 17	452, 9-11	CYN	aethon ni *Lake_Powell*	NST	NST
+170, 18	454, 1-7	CYN	fel ti deud ni weld yr *Hoover_Dam*	NST	NST
+170, 19	456, 1-4	CYN	a wedyn *Grand_Canyon* de	NST	NST
+170, 20	457, 1-6	CYN	*oh* dyna chdi le *Oswy* bach	---	NST
+
+
+171, 1	459, 1-3	OSW	ydy hwnnw fawr	---	NSNT
+
+
+172, 1	460, 1-9	CYN	*oh* a mae yn anodd gredu *size* y lle	NST	NST
+172, 2	462, 1-19	CYN	a wedyn ar y ffordd i yr *um* ar y ffordd i *Grand_Canyon* i yr i yr lle hun	NST	NST
+172, 3	464, 1-4	CYN	mae nhw yn gofyn	NSNT	NSNT
+172, 4	464, 5-8	CYN	pwy sy yn mynd	NSNT	NSNT
+172, 5	465, 1-7	CYN	a wedyn ti roi dy law i_fyny	NSNT	NSNT
+172, 6	466, 1-10	CYN	a wedyn mae nhw yn gofyn am dy bwysau di	NSNT	NSNT
+172, 7	468, 1-7	CYN	wedyn mae nhw ffonio wedyn ymlaen llaw	NSNT	NSNT
+172, 8	470, 1-3	CYN	i yr lle	NSNT	NSNT
+172, 9	472, 1-13	CYN	fel bod nhw yn cael y pwysau balansio pwysau allan i yr *helicopter*	NST	NST
+172, 10	474, 1-4	CYN	a wedyn oedden ni	NSNT	NSNT
+172, 11	474, 5-13	CYN	oedd chwaer a fi isio mynd ond ofn mynd	NSNT	NSNT
+172, 12	476, 1-10	CYN	ond oedd y wraig isio mynd a a gŵr *Irene*	NST	NST
+172, 13	478, 1-5	CYN	ond o'n i fel hyn	NSNT	NSNT
+172, 14	479, 1-9	CYN	achos o'n ni ni oedd rei dwytha i fynd	NSNT	NSNT
+172, 15	480, 1-9	CYN	*so* be ti wneud pan ti cyrraedd y lle	NST	NST
+172, 16	482, 1-9	CYN	ti mynd i reception a deud pwy wyt ti	NSNT	SNT
+172, 17	483, 1-15	CYN	a wedyn ti mynd i ryw foyer i ddisgwyl am ryw hanner awr tri chwarter	NSNT	SNT
+172, 18	485, 1-3	CYN	i dy dwrn	NSNT	NSNT
+172, 19	487, 1-8	CYN	ond gan mai ni oedd rei dwytha mynd	NSNT	NSNT
+172, 20	487, 9-13	CYN	gaethon ni fynd yn *straight*	NST	NST
+172, 21	489, 1-10	CYN	a pedwar ohonon ni mewn *helicopter* oedd yn dal chwech	NST	NST
+172, 22	491, 1-3	CYN	*so* gaethon ni	NST	NST
+172, 23	491, 4-6	CYN	lwythi o le	---	NSNT
+
+
+173, 1	492, 1-2	OSW	da de	---	NSNT
+
+
+174, 1	493, 1-3	CYN	ond oedd o	NSNT	NSNT
+174, 2	493, 4-6	CYN	werth ei weld	---	NSNT
+
+
+175, 1	494, 1-5	OSW	oedd hwnnw yn ddrud *Cynddylan*	---	NST
+
+
+176, 1	495, 1-8	CYN	chwe_deg punt am ryw dri chwarter awr deud	NSNT	NSNT
+176, 3	497, 1-3	CYN	ond oedd o	NSNT	NSNT
+176, 4	497, 4-5	CYN	werth chweil	---	NSNT
+
+
+177, 1	498, 1-5	OSW	once once in a lifetime	---	NSNT
+
+
+178, 1	499, 1-2	CYN	*oh* dyna	NST	NST
+178, 2	499, 3-5	CYN	be ydy o	SNT	NSNT
+178, 3	500, 1-14	CYN	because oedden ni yn *Canada* ryw bedair mlynedd yn gynt adeg yr *um* New_York	ST	ST
+178, 4	502, 1-4	CYN	ac fuon ni *Niagra_Falls*	NST	NST
+178, 5	504, 1-1	CYN	ac	---	NSNT
+
+
+179, 1	505, 1-5	OSW	fuais i fan yno hefyd	---	NSNT
+
+
+180, 1	506, 1-3	CYN	ac oedd yna	NSNT	NSNT
+180, 2	506, 4-7	CYN	oedd yna flight *helicopter*	ST	ST
+180, 3	508, 1-6	CYN	a wedyn petaswn i wedi gwybod	NSNT	NSNT
+180, 4	508, 7-10	CYN	sut oedd yn teimlo	NSNT	NSNT
+180, 5	510, 1-10	CYN	cynt baswn i wedi mynd ar y *trip* y falls	ST	ST
+180, 6	513, 1-6	CYN	ond oedd y falls yn unbelievable	SNT	SNT
+180, 7	515, 1-9	CYN	o'ch chdi gorod gwisgo ryw *um* raincoats glas sti	---	ST
+
+
+181, 1	516, 1-2	OSW	dyna fo	---	NSNT
+
+
+182, 1	517, 1-5	CYN	i stopio chdi wlychu de	NSNT	NSNT
+182, 2	519, 1-12	CYN	ond be o ddim yn deud wrtha chdi oedd y agosa byd	NSNT	NSNT
+182, 3	519, 13-18	CYN	oedda chdi mynd at y falls	SNT	SNT
+182, 4	521, 1-5	CYN	oedd y gwynt yn codi	NSNT	NSNT
+182, 5	523, 1-10	CYN	*so* oedd y *bloody* raincoats yma dros dy ben di	NST	ST
+182, 6	525, 1-3	CYN	*so* o't ti	---	NST
+
+
+183, 1	526, 1-4	OSW	anghofia i byth achan	NSNT	NSNT
+183, 3	528, 1-9	OSW	i dorri ar dy draws di anghofia i byth	NSNT	NSNT
+183, 4	528, 11-21	OSW	aeth *Carol* a fi i fan yna i *Toronto* am bythefnos	---	NST
+
+
+184, 1	529, 1-3	CYN	na mae iawn	SNT	NSNT
+184, 2	530, 1-5	CYN	*oh* *Toronto* lovely o le	---	ST
+
+
+185, 1	531, 1-16	OSW	a a fuon ni *Montana* am bythefnos yn y wneud o yn yr un peth felly	NST	NST
+185, 2	531, 17-17	OSW	sti	NSNT	NSNT
+185, 3	533, 1-9	OSW	ond dod yn_ôl i yr *Niagra_Falls* yma rŵan te	NST	NST
+185, 4	535, 1-8	OSW	oedden ni *right* o_dan y dŵr fel yna	NST	NST
+185, 5	536, 1-5	OSW	arglwydd mae yn dod lawr	NSNT	NSNT
+185, 6	537, 1-3	OSW	wn i ddim	NSNT	NSNT
+185, 7	537, 4-6	OSW	be ydy o	---	NSNT
+
+
+186, 1	538, 1-8	CYN	do mewn o'ch chdi mewn cotiau melyn oeddachd	---	NSNT
+
+
+187, 1	539, 1-5	OSW	y cotiau melyn yma te	---	NSNT
+
+
+188, 1	540, 1-2	CYN	dyna chdi	NSNT	NSNT
+188, 2	541, 1-3	CYN	dw i cofio	---	NSNT
+
+
+189, 1	543, 1-13	OSW	a yr peth nesa achan te dyma fi yn clywed ryw acen Gymraeg	NSNT	NSNT
+189, 2	544, 1-9	OSW	a be oedden nhw achan ond bedair o genenod	NSNT	NSNT
+189, 3	545, 1-6	OSW	athrawon oedden nhw o de Cymru	NSNT	NSNT
+189, 4	547, 1-4	OSW	Duw meddai fi Cymry	NSNT	NSNT
+189, 5	548, 1-10	OSW	dyma ni munud hwnnw dyma ni i yr gân *Nid_Wy'n_Gofyn_Bywyd_Moethus*	NST	NST
+189, 7	550, 1-2	OSW	a wsti	NSNT	NSNT
+189, 8	550, 3-10	OSW	be oedd o dod â dagrau ohona fi	NSNT	NSNT
+189, 9	551, 1-9	OSW	a dyna ti yr hanes i mi yn *Niagra_Falls*	NST	NST
+189, 10	551, 10-10	OSW	yli	NSNT	NSNT
+189, 11	552, 1-1	OSW	wedyn	---	NSNT
+
+
+190, 1	554, 1-3	CYN	*sorry* caria ymlaen	---	NST
+
+
+191, 1	555, 1-4	OSW	*oh* mae gyn ti	NST	NST
+191, 2	555, 5-7	OSW	mae gyn ti	---	NSNT
+
+
+192, 1	556, 1-8	CYN	*well* chdi ddeud hynna wan de pobl Cymraeg	NST	NST
+192, 2	557, 1-10	CYN	dw i ers i i yr plant fynd i coleg	NSNT	NSNT
+192, 3	559, 1-10	CYN	a wedi gorffen coleg a wneud *er* bywyd eu hunain	NST	NST
+192, 4	561, 1-2	CYN	dw i	NSNT	NSNT
+192, 5	561, 3-7	CYN	wedi bod mynd i_ffwrdd *lot*	NST	NST
+192, 6	563, 1-8	CYN	a dydy o ddim ots lle ti mynd	NSNT	NSNT
+192, 7	563, 9-11	CYN	mae yna Gymry	NSNT	NSNT
+192, 9	566, 1-4	CYN	dydy o ddim ots	NSNT	NSNT
+192, 10	567, 1-3	CYN	mae yn incredible	---	SNT
+
+
+193, 1	568, 1-2	OSW	yn union	---	NSNT
+
+
+194, 1	569, 1-4	CYN	baset ti ddim meddwl	NSNT	NSNT
+194, 2	569, 5-10	CYN	bod yna gymaint o Gymry o_gwmpas	NSNT	NSNT
+194, 3	570, 1-2	CYN	dan ni	NSNT	NSNT
+194, 4	570, 3-8	CYN	wedi bod mewn caves yn Sbaen	NSNT	SNT
+194, 5	572, 1-2	CYN	Cymry yna	NSNT	NSNT
+194, 6	574, 1-3	CYN	*Toronto* Cymry yna	NST	NST
+194, 7	576, 1-7	CYN	dydy o ddim ots lle ti mynd	---	NSNT
+
+
+195, 1	577, 1-4	OSW	na dydy ddim ots	---	NSNT
+
+
+196, 1	578, 1-3	CYN	mae yn incredible	---	SNT
+
+
+197, 1	579, 1-5	OSW	dim ots lle ei di	NSNT	NSNT
+197, 2	581, 1-12	OSW	dim ots lle dim ots lle ei di yn y byd yma	---	NSNT
+
+
+198, 1	583, 1-11	CYN	ti siarad ti siarad o'n i yn siarad Cymraeg efo wraig	NSNT	NSNT
+198, 2	584, 1-5	CYN	a clywed siarad Cymraeg de	NSNT	NSNT
+198, 3	586, 1-13	CYN	*oh* dan ni dod o *Bethesda* neu dod o dre neu o Sir_Fôn	---	NST
+
+
+199, 1	590, 1-8	OSW	wedyn fyddi di mynd i *Portugal* yn aml	NST	NST
+199, 2	590, 9-9	OSW	byddi	---	NSNT
+
+
+200, 1	591, 1-8	CYN	dw i mynd i *Portugal* wan mewn pythefnos	NST	NST
+200, 2	593, 1-2	CYN	efo ffrindiau	NSNT	NSNT
+200, 3	595, 1-4	CYN	a wedyn dan ni	NSNT	NSNT
+200, 4	595, 5-6	CYN	mae nhw	NSNT	NSNT
+200, 5	595, 7-9	CYN	mae nhw mynd	NSNT	NSNT
+200, 6	595, 10-10	CYN	mae	NSNT	NSNT
+200, 7	595, 11-15	CYN	mae nhw mynd efo *car*	ST	NST
+200, 8	596, 1-1	CYN	*taxi*	ST	NST
+200, 9	598, 1-8	CYN	mae nhw parcio *car* a wedyn fflio drosodd	NST	NST
+200, 10	600, 1-9	CYN	a wedyn fydda i wrth y modd efo lle	NSNT	NSNT
+200, 11	601, 1-4	CYN	mae o le *nice*	NST	NST
+200, 12	602, 1-8	CYN	a ti yn guaranteed o tywydd braf de	---	SNT
+
+
+201, 1	603, 1-4	OSW	be wyt ti wneud	NSNT	NSNT
+201, 2	604, 1-8	OSW	wyt ti mynd i yr un lle ta	---	NSNT
+
+
+202, 1	605, 2-11	CYN	dan ni wrth ein boddau mynd i *Algarve* i *Albufeira*	---	NST
+
+
+203, 1	606, 1-6	OSW	*oh* fuais i yn fan yno	---	NST
+
+
+204, 1	607, 1-4	CYN	really really *nice* de	NST	ST
+204, 2	609, 1-1	CYN	lan_môrs	NSNT	NSNT
+204, 3	611, 1-7	CYN	ond fel ti yn deud de glân	NSNT	NSNT
+204, 4	614, 1-4	CYN	timod ti ddim yn	---	NSNT
+
+
+205, 1	615, 1-9	OSW	tydw i ddim yn ddyn am fwyta bysgodyn te	---	NSNT
+
+
+206, 1	616, 1-3	CYN	*oh* finnau chwaith	---	NST
+
+
+207, 1	617, 1-2	OSW	ond oedden	NSNT	NSNT
+207, 2	617, 3-5	OSW	oedden ni yn	---	NSNT
+
+
+208, 1	618, 1-1	CYN	*sardines*	---	NST
+
+
+209, 1	619, 1-3	OSW	ar ochr te	NSNT	NSNT
+209, 2	620, 1-2	OSW	a dyna	NSNT	NSNT
+209, 3	620, 3-20	OSW	lle oedd y bobl yma darn o o o fara a *sardines* wedi dod *straight* oddi_ar y cwch	---	NST
+
+
+210, 1	621, 1-6	CYN	ia mae nhw ar glan môr	---	NSNT
+
+
+211, 1	622, 1-6	OSW	a a potel o win te	NSNT	NSNT
+211, 2	623, 1-3	OSW	*oh* wsti be	NST	NST
+211, 3	624, 1-4	OSW	medda i wrth *Carol*	NST	NST
+211, 4	625, 1-13	OSW	*oh* dydy o uffar o ots gyn i os da i yn sâl	NST	NST
+211, 5	626, 1-2	OSW	meddai fi	NSNT	NSNT
+211, 6	627, 1-7	OSW	dw i mynd i wneud hyn wan	---	NSNT
+
+
+212, 1	628, 1-1	CYN	effort	---	NSNT
+
+
+213, 1	629, 1-2	OSW	meddai fi	NSNT	NSNT
+213, 2	630, 1-2	OSW	a myn	NSNT	NSNT
+213, 3	630, 3-9	OSW	wsti be mi enjoiais i o achan	NSNT	NSNT
+213, 4	632, 1-17	OSW	ond *um* a ond blodau oedden ni yno mis Mai a yr lle yn ei blodau gyd	NST	NST
+213, 5	632, 18-18	OSW	sti	---	NSNT
+
+
+214, 1	633, 1-4	CYN	ia mae gynnyn nhw	---	NSNT
+
+
+215, 1	634, 1-1	OSW	bendigedig	---	NSNT
+
+
+216, 1	635, 1-7	CYN	a fel ti yn deud de glân	NSNT	NSNT
+216, 2	637, 1-4	CYN	dydy o ddim ots	NSNT	NSNT
+216, 3	637, 5-8	CYN	dydy o ddim ots	NSNT	NSNT
+216, 4	637, 9-11	CYN	lle dw i	NSNT	NSNT
+216, 5	637, 12-13	CYN	wedi bod	NSNT	NSNT
+216, 6	638, 1-6	CYN	a fel ti deud dw i	NSNT	NSNT
+216, 7	638, 7-12	CYN	wedi bod mewn *lot* o lefydd	NST	NST
+216, 8	640, 1-6	CYN	a bob man yn lân de	NSNT	NSNT
+216, 9	642, 1-12	CYN	a ti byth yn gweld plant yn wneud twrw a cadw reiat	NSNT	NSNT
+216, 10	644, 1-3	CYN	mae yn incredible	SNT	SNT
+216, 11	646, 1-8	CYN	fyddi di yn hiraethu am fod adre *Cynddylan*	NST	NST
+216, 12	647, 1-5	CYN	*er* mi fydda i ddim	NST	NST
+216, 13	648, 1-5	CYN	ond *er* mae yr wraig	NST	NST
+216, 14	649, 1-5	CYN	fyswn i wrth y modd	NSNT	NSNT
+216, 15	651, 1-6	CYN	mynd drosodd i fyw yna de	NSNT	NSNT
+216, 16	653, 1-4	CYN	ond dydy *missus* ddim	NST	NST
+216, 17	654, 1-2	CYN	oherwydd mae	NSNT	NSNT
+216, 18	654, 3-5	CYN	gynnon ni blant	NSNT	NSNT
+216, 19	655, 1-6	CYN	mae gyn i tair o genod	NSNT	NSNT
+216, 20	657, 1-2	CYN	mae dwy	NSNT	NSNT
+216, 21	657, 3-10	CYN	mae un byw yn Llundain un yn Gaerdydd	NSNT	NSNT
+216, 22	658, 1-7	CYN	ond mae llall yn byw yn *Bontnewydd*	NST	NST
+216, 23	660, 1-5	CYN	wedyn mae gynno hi grandchildren	SNT	SNT
+216, 24	660, 6-6	CYN	does	NSNT	NSNT
+216, 25	662, 1-2	CYN	*so* basai	NST	NST
+216, 26	662, 3-9	CYN	basai *Pat* ddim yn licio mynd gadael	NST	NST
+216, 27	664, 1-5	CYN	mae yn iawn cael mynd	NSNT	NSNT
+216, 28	666, 1-4	CYN	ond mae *nice* iddi	NST	NST
+216, 29	666, 5-11	CYN	mae hi yn deud dod adre nôl	---	NSNT
+
+
+217, 1	668, 1-12	OSW	o'n i yn hiraethu yn enwedig aethon ni am y cyfnod yna	---	NSNT
+
+
+218, 1	669, 1-9	CYN	*yeah* ond o'ch chdi *off* am gyfnod hir doeddachd	---	NST
+
+
+219, 1	670, 1-5	OSW	dau fis dros dau fis	NSNT	NSNT
+219, 2	672, 1-8	OSW	ond Iesu colli yr hen geffylau acw te	---	NSNT
+
+
+220, 1	673, 1-6	CYN	*oh* *yeah* mae wahanol i chdi	---	NST
+
+
+221, 1	674, 1-6	OSW	a yr hen gi bach de	---	NSNT
+
+
+222, 1	675, 1-2	CYN	*Meg* te	---	NST
+
+
+223, 1	676, 1-7	OSW	Iesu_Grist o'n i yn colli hwnnw te	---	NSNT
+
+
+224, 1	677, 1-8	CYN	baset ti gallu mynd â hi efo chdi	NSNT	NSNT
+224, 2	678, 1-3	CYN	ond basai hi	NSNT	NSNT
+224, 3	678, 4-9	CYN	basai hi gorod mynd mewn *quarantine*	NST	NST
+224, 4	678, 10-10	CYN	basai	---	NSNT
+
+
+225, 1	679, 1-7	OSW	*oh* na na na baset ti byth	NST	NST
+225, 2	680, 1-6	OSW	o'n i wedi roid hi mewn	NSNT	NSNT
+225, 3	680, 7-7	OSW	wsti	---	NSNT
+
+
+226, 1	681, 1-2	CYN	mewn *kennels*	---	NST
+
+
+227, 1	682, 1-6	OSW	*oh* *oh* na dim mewn *kennel*	NST	NST
+227, 3	684, 1-1	OSW	ffrind	NSNT	NSNT
+227, 5	686, 1-23	OSW	*au_pair* myn uffar i yn dod acw i gwatsiad ar ar ar ar ar ei ar_ôl y ci am am am ddau fis	---	NST
+
+
+228, 1	687, 1-5	CYN	mae o yr un fath	NSNT	NSNT
+228, 2	687, 6-10	CYN	pan dan ni mynd i_ffwrdd	NSNT	NSNT
+228, 3	688, 1-6	CYN	gynnon ni ddwy gath ti gweld	NSNT	NSNT
+228, 4	690, 1-7	CYN	a *er* plant dod acw i watsiad	NST	NST
+228, 5	692, 1-6	CYN	watsio ar eu holau nhw de	NSNT	NSNT
+228, 6	694, 3-5	CYN	mae o yn	---	NSNT
+
+
+229, 1	695, 1-10	OSW	a wedyn oedd y ddynes yma yn dod i aros	NSNT	NSNT
+229, 2	697, 1-16	OSW	oedd hi yn cael tri_deg punt am am watsiad ar_ôl y ci a yr *free* housing	---	ST
+
+
+230, 1	698, 1-2	CYN	*well* ia	---	NST
+
+
+231, 1	699, 1-7	OSW	arglwydd oedd hi yn gwneud yn dda	NSNT	NSNT
+231, 2	699, 8-8	OSW	doedd	NSNT	NSNT
+231, 4	701, 1-3	OSW	Iesu mawr oedd	---	NSNT
+
+
+232, 1	702, 1-9	CYN	wnest ti lenwi yr fridge iddi cyn ti fynd	NSNT	SNT
+232, 2	703, 1-9	CYN	ta oedd o fyny iddi hi lenwi yr fridge	---	SNT
+
+
+233, 1	704, 1-8	OSW	*oh* na fyny hi lenwi yr *bloody* fridge	ST	ST
+233, 3	706, 1-8	OSW	arglwydd na dw i ry gynnil bethau felly	NSNT	NSNT
+233, 4	706, 9-9	OSW	sti	---	NSNT
+
+
+234, 1	707, 1-6	CYN	*oh* na baswn i ddim deud	NST	NST
+234, 2	707, 7-11	CYN	bod chdi gynnil *Oswy* bach	NST	NST
+234, 3	709, 1-4	CYN	baswn i ddim deud	NSNT	NSNT
+234, 4	709, 5-7	CYN	bod chdi gynnil	---	NSNT
+
+
+235, 1	710, 1-3	OSW	ew annwyl *yeah*	NST	NST
+235, 2	711, 1-3	OSW	a wedyn *um*	---	NST
+
+
+236, 1	712, 1-9	CYN	*so* ti am mynd i rywle leni ta be	---	NST
+
+
+237, 1	713, 1-4	OSW	dan ni mynd eto	NSNT	NSNT
+237, 2	714, 1-1	OSW	mae	NSNT	NSNT
+237, 3	714, 2-2	OSW	yr	NSNT	NSNT
+237, 4	714, 3-9	OSW	mae yr mab yn priodi *er* leni	---	NST
+
+
+238, 1	715, 1-7	CYN	*well* ia wnaeth *Carol* sôn flwyddyn dwytha	---	NST
+
+
+239, 1	716, 1-7	OSW	leni mae yr hogyn acw yn priodi	NSNT	NSNT
+239, 2	717, 1-14	OSW	wedyn dan ni yn gobeithio mynd *er* yn yr tri bedwar mis nesa yma	---	NST
+
+
+240, 1	719, 1-17	CYN	ei di ei di drosodd am gyfnod hir ta ta *just* am ryw wsnos neu ddau briodas	---	NST
+
+
+241, 1	720, 1-11	OSW	*well* fedri di ddim mynd i fan yna am gyfnod byr	---	NST
+
+
+242, 1	721, 1-5	CYN	na mae na na na	---	NSNT
+
+
+243, 1	722, 1-4	OSW	mae rhaid chdi fynd	NSNT	NSNT
+243, 2	723, 1-9	OSW	mae rhaid chdi fynd am beth bynnag dair wsnos	---	NSNT
+
+
+244, 1	724, 1-6	CYN	*well* aeth *Kathy* y ferch fenga	NST	NST
+244, 2	724, 7-15	CYN	aeth hi i ryw briodas ryw ddwy flynedd yn_ôl	NSNT	NSNT
+244, 3	726, 1-5	CYN	wnaeth hi hel ei gwyliau	NSNT	NSNT
+244, 4	727, 1-7	CYN	oedd hi ddrosodd am tua tri mis	SNT	NSNT
+244, 5	729, 1-6	CYN	because fel oedd hi yn deud	NSNT	SNT
+244, 6	729, 7-13	CYN	mae yna gymaint o lefydd i weld	---	NSNT
+
+
+245, 1	730, 1-2	OSW	arglwydd mawr	---	NSNT
+
+
+246, 1	731, 1-7	CYN	sti ti ddim isio colli allan dim_byd	---	NSNT
+
+
+247, 1	732, 1-11	OSW	wyt ti wneud gymaint o ffrindiau fel ti yn gwybod *Cynddylan*	NST	NST
+247, 2	734, 1-8	OSW	pan oedden ni ar y *trip* yn Seland_Newydd	NST	NST
+247, 3	734, 9-16	OSW	te gwahoddiad i fynd i aros yn *Toronto*	NST	NST
+247, 4	734, 17-17	OSW	te	NSNT	NSNT
+247, 5	736, 1-12	OSW	gwahoddiad i fynd i aros yn tu allan i *Ayr* yn *Scotland*	NST	NST
+247, 6	738, 1-10	OSW	gwahoddiad i fynd i aros mewn *indian* reservation yn *Montana*	NST	ST
+247, 7	739, 1-7	OSW	a mi gymron ni nhw fyny te	---	NSNT
+
+
+248, 1	740, 1-12	CYN	*well* Duw petasa chdi efo yr *Indian* ti wrth dy fodd bysat	---	NST
+
+
+249, 1	741, 1-1	OSW	Iesu	---	NSNT
+
+
+250, 1	742, 1-3	CYN	efo ceffylau pethau	---	NSNT
+
+
+251, 1	743, 1-7	OSW	arglwydd mawr mi oedd hwnnw yn brofiad	NSNT	NSNT
+251, 2	743, 8-16	OSW	te bod yn *Montana* yn aros ar *indian* reservation	---	ST
+
+
+252, 1	744, 1-1	CYN	reservation	---	NSNT
+
+
+253, 1	745, 1-4	OSW	ac indiaid cochion sti	NSNT	NSNT
+253, 2	747, 1-7	OSW	ond fel dan ni yn cofio fel	NSNT	NSNT
+253, 3	747, 8-15	OSW	oedden ni yn blant red *indians* a *cowboys*	NST	ST
+253, 4	749, 1-9	OSW	mae nhw heddiw wedi cymryd mantais o yr addysg	NSNT	NSNT
+253, 5	749, 10-10	OSW	yli	NSNT	NSNT
+253, 6	751, 1-4	OSW	mae nhw i_gyd heddiw	---	NSNT
+
+
+254, 1	752, 1-7	CYN	yn ddoctoriaid ac yn gyfreithwyr *yeah* *yeah*	---	NST
+
+
+255, 1	753, 1-7	OSW	mae nhw yn ddoctoriaid ac yn athrawon	NSNT	NSNT
+255, 2	754, 1-9	OSW	Iesu mae nhw wedi cymryd mantais iawn o yr	---	NSNT
+
+
+256, 1	755, 1-3	CYN	ond cofia iawn	NSNT	NSNT
+256, 2	755, 4-7	CYN	ydy o hefyd because	SNT	SNT
+256, 3	755, 8-25	CYN	oedd y Saeson wedi cymryd mantais o nhw efo eu tir nhw yn yr yn yr eighteen hundreds	SNT	SNT
+256, 4	755, 26-28	CYN	de chwarae teg	---	NSNT
+
+
+257, 1	756, 1-6	OSW	yn union yn union yn union	---	NSNT
+
+
+258, 1	757, 1-7	CYN	*so* mae yr olwyn yn troi wan	NST	NST
+258, 2	757, 8-8	CYN	dydy	---	NSNT
+
+
+259, 1	759, 1-8	OSW	a wedyn tra oedden ni yn fan yno	NSNT	NSNT
+259, 2	759, 9-12	OSW	yli yn *Montana* mi	NST	NST
+259, 3	759, 13-20	OSW	aethon nhw â ni i benwythnos i *Yellowstone_Park*	---	NST
+
+
+260, 1	760, 1-11	CYN	*oh* *yeah* dw i wedi sbïo ar hwnna ar y brochures	---	ST
+
+
+261, 1	761, 1-6	OSW	ac yn fan yna sti gwrando	NSNT	NSNT
+261, 2	761, 7-10	OSW	te a clywed yr	NSNT	NSNT
+261, 3	762, 1-6	OSW	be ydy o yn Gymraeg dŵad	NSNT	NSNT
+261, 4	763, 1-4	OSW	*wolfs* dan ni ddeud	NST	NST
+261, 5	763, 5-5	OSW	te	---	NSNT
+
+
+262, 1	765, 1-1	CYN	blaidd	---	NSNT
+
+
+263, 1	766, 1-2	OSW	blaidds de	---	NSNT
+
+
+264, 1	768, 1-5	CYN	*yeah* dim blaidd ydy o	NST	NST
+264, 2	769, 1-5	CYN	y *coyotes* ydyn nhw *yeah*	---	NST
+
+
+265, 1	770, 1-1	OSW	*well*	---	NST
+
+
+266, 1	771, 1-3	CYN	yr un *idea*	---	NST
+
+
+267, 1	772, 1-6	OSW	baswn i yn deud na blaidd	NSNT	NSNT
+267, 2	773, 1-2	OSW	*well* ia	NST	NST
+267, 3	774, 1-9	OSW	*um* a wedyn oeddet ti yn gweld nhw *er*	NST	NST
+267, 4	775, 1-6	OSW	a ti yn clywed nhw a	---	NSNT
+
+
+268, 1	776, 1-4	CYN	*yeah* ganol nos *yeah*	---	NST
+
+
+269, 1	777, 1-3	OSW	Iesu mawr *yeah*	---	NST
+
+
+270, 1	778, 1-7	CYN	howling at the moon mae nhw deud	NSNT	SNT
+270, 2	778, 8-11	CYN	mae yr Saeson deud	---	NSNT
+
+
+271, 1	779, 1-3	OSW	ew annwyl *yeah*	NST	NST
+271, 2	780, 1-6	OSW	a wedyn dan ni wedi enjoio	NSNT	NSNT
+271, 3	780, 7-11	OSW	be dan ni wedi wneud	NSNT	NSNT
+271, 4	780, 12-12	OSW	te	NSNT	NSNT
+271, 5	781, 1-9	OSW	a wedyn os gawn ni fyw ac iach mi	---	NSNT
+
+
+271, 6	781, 10-26	OSW	fyddan ni yn mynd eto yn y cyfnod yn yr ddau tri mis nesa yma i ti	NSNT	NSNT
+272, 2	786, 1-6	CYN	a yr *Banff* area a *Rockies*	NST	ST
+272, 3	788, 1-1	CYN	dyna	NSNT	NSNT
+272, 4	788, 2-7	CYN	ydy *idea* ar hyn o bryd	NST	NST
+272, 5	790, 1-6	CYN	dw ddim yn gwybod yn iawn	NSNT	NSNT
+272, 6	791, 1-1	CYN	dyna	NSNT	NSNT
+272, 7	791, 2-7	CYN	ydy yr main *holiday* flwyddyn nesa	---	ST
+
+
+273, 1	793, 1-7	OSW	dan ni yn byw mewn lle bendigedig	NSNT	NSNT
+273, 2	793, 9-11	OSW	lle dw i	NSNT	NSNT
+273, 3	793, 12-15	OSW	te yn yn *Llanfaelog*	NST	NST
+273, 4	793, 16-16	OSW	te	NSNT	NSNT
+273, 5	795, 1-13	OSW	a caeau bach gyn i yn yn *Porthcwyfan* de eglwys bach y môr	NST	NST
+273, 6	797, 1-4	OSW	a pobl dod yno	NSNT	NSNT
+273, 7	798, 1-6	OSW	a good God medden nhw *um*	ST	ST
+273, 8	799, 1-9	OSW	is no need to go from *holidays* from here	ST	NST
+273, 9	800, 1-1	OSW	te	SNT	NSNT
+273, 10	801, 1-5	OSW	this is a wonderful place	---	NSNT
+
+
+274, 1	802, 1-6	CYN	*oh* *yeah* dw i yn gwybod	---	NST
+
+
+275, 1	803, 1-1	OSW	te	---	NSNT
+
+
+276, 1	804, 1-2	CYN	mae yn	NSNT	NSNT
+276, 2	804, 3-10	CYN	mae pawb deud yr un fath wrtha fi	---	NSNT
+
+
+277, 1	805, 1-4	OSW	ond y peth ydy	NSNT	NSNT
+277, 2	805, 5-6	OSW	te *Cynddylan*	NST	NST
+277, 3	805, 7-10	OSW	te wyddost ti *um*	NST	NST
+277, 4	805, 11-14	OSW	baset ti yn blino	NSNT	NSNT
+277, 5	805, 15-17	OSW	baset ti yn	---	NSNT
+
+
+278, 1	806, 1-8	CYN	ti ddim yn cael y tywydd nag wyt	---	NSNT
+
+
+279, 1	807, 1-4	OSW	na dim hynny chwaith	---	NSNT
+
+
+280, 1	808, 1-5	CYN	dw i yn gweld hynna	---	NSNT
+
+
+281, 1	809, 1-3	OSW	ond baset ti	NSNT	NSNT
+281, 2	809, 4-12	OSW	baset ti yn blino ar gael *steak* bob dydd	NST	NST
+281, 3	809, 13-13	OSW	byset	NSNT	NSNT
+281, 5	811, 1-6	OSW	wyt ti isio ryw newid toes	NSNT	NSNT
+281, 6	812, 1-6	OSW	fel fydda i yn deud i	NSNT	NSNT
+281, 7	812, 7-8	OSW	fydda i	NSNT	NSNT
+281, 8	812, 9-16	OSW	fydda i wrth y modd mynd i Lundain	NSNT	NSNT
+281, 9	814, 1-5	OSW	tri diwrnod yn Llundain de	---	NSNT
+
+
+282, 1	815, 1-4	CYN	*well* ia ia ia	---	NST
+
+
+283, 1	816, 1-6	OSW	o un extreme i llall te	---	SNT
+
+
+284, 1	817, 1-3	CYN	*oh* dw i	NST	NST
+284, 2	817, 4-14	CYN	dw i ddim yn licio yr hustle and bustle yn Llundain	---	SNT
+
+
+285, 1	818, 1-2	OSW	*oh* Iesu	---	NST
+
+
+286, 1	819, 1-9	CYN	fydda i mynd yna weithiau i weld y ferch	NSNT	NSNT
+286, 2	820, 1-6	CYN	a fydda i mynd i Gaerdydd	NSNT	NSNT
+286, 3	821, 1-6	CYN	a mae Caerdydd yr un fath	NSNT	NSNT
+286, 4	822, 1-3	CYN	pawb ar frys	NSNT	NSNT
+286, 5	823, 1-4	CYN	pawb ar mobile *phone*	ST	ST
+286, 6	824, 1-1	CYN	a	NSNT	NSNT
+286, 7	825, 1-7	CYN	*oh* ddim yn licio yr *idea* de	---	NST
+
+
+287, 1	826, 1-8	OSW	mi sefa i mi sefa i yn *Piccadilly*	---	NST
+
+
+288, 1	827, 1-3	CYN	a gwatsiad pobl	---	NSNT
+
+
+290, 1	829, 1-2	CYN	people_watching *yeah*	ST	NST
+290, 2	830, 1-7	CYN	mae pace y bywyd yn hollol wahanol	NSNT	SNT
+290, 3	832, 1-4	CYN	dan ni wedi arfer	NSNT	NSNT
+290, 4	832, 5-13	CYN	wsti yn fel fi fi yn *Bont* yn Sir_Fôn	NST	NST
+290, 5	832, 14-16	CYN	de Duw Duw	NSNT	NSNT
+290, 6	834, 1-8	CYN	ond mae rhein yn rush_io i bob man	---	SNT
+
+
+291, 1	835, 1-6	OSW	*oh* Iesu rush_io a gwneud pres	---	ST
+
+
+292, 1	836, 1-6	CYN	tydy o ddim yn beth iach	---	NSNT
+
+
+293, 1	837, 1-6	OSW	pres pres pres ydy pethau nhw	---	NSNT
+
+
+294, 1	838, 1-5	CYN	a dydy o da dim_byd	NSNT	NSNT
+294, 2	838, 6-6	CYN	dydy	---	NSNT
+
+
+295, 1	839, 1-2	OSW	Iesu mawr	---	NSNT
+
+
+296, 1	840, 1-20	CYN	does yna ddim *point* ti gael llwyth o bres yn *bank* os ti os ti yn *hospital* efo calon giami	NST	NST
+296, 2	840, 21-23	CYN	myn uffar i	---	NSNT
+
+
+297, 1	841, 1-2	OSW	arglwydd mawr	NSNT	NSNT
+297, 2	842, 1-4	OSW	mae nhw yn gweithio	NSNT	NSNT
+297, 3	842, 5-7	OSW	myn uffar i	NSNT	NSNT
+297, 4	843, 1-15	OSW	mae yna rei o nhw yn trafaelio dwy awr a mwy i fynd i gwaith	---	NSNT
+
+
+298, 1	844, 1-6	CYN	*yeah* dyna chdi *yeah* ia *yeah*	---	NST
+
+
+299, 1	845, 1-6	OSW	mae isio trafaelio o yna wedyn	---	NSNT
+
+
+300, 1	847, 1-6	CYN	*so* mewn ffordd deud mae deud	NST	NST
+300, 2	847, 7-12	CYN	mae nhw gorod gweithio am naw	NSNT	NSNT
+300, 3	847, 13-21	CYN	basai gofyn nhw gychwyn o tŷ erbyn tua chwech	NSNT	NSNT
+300, 4	849, 1-7	CYN	a wedyn mynd adre wedyn pump deud	NSNT	NSNT
+300, 5	851, 1-7	CYN	naw *so* gwely a gwaith ydy o	---	NST
+
+
+301, 1	852, 1-3	OSW	arglwydd pressure diawledig	---	SNT
+
+
+302, 1	853, 1-3	CYN	baswn i ddim	---	NSNT
+
+
+303, 1	854, 1-2	OSW	pressure diawledig	---	SNT
+
+
+304, 1	855, 1-3	CYN	baswn i ddim	NSNT	NSNT
+304, 2	856, 1-8	CYN	sti o'n i yn gweithio yn cyngor sir	NSNT	NSNT
+304, 3	857, 1-7	CYN	ond o'n i erioed yn ddyn ambitious	SNT	SNT
+304, 4	859, 1-11	CYN	cael pres bob wsnos bob mis o'n i *right* hapus de	---	NST
+
+
+305, 1	860, 1-2	OSW	yn union	---	NSNT
+
+
+306, 1	861, 1-5	CYN	pobl eraill wedi mynd ymlaen	NSNT	NSNT
+306, 2	862, 1-8	CYN	*oh* do'n i ddim isio mynd te Iesu	---	NST
+
+
+307, 1	863, 1-2	OSW	yn union	---	NSNT
+
+
+308, 1	864, 1-15	CYN	o'n i *right* hapus wneud be o'n i yn ym byd bach yn hun de	---	NST
+
+
+309, 1	865, 1-4	OSW	*as* long *as* you	ST	NST
+309, 2	867, 1-7	OSW	os *as* long *as* dy iechyd di	NST	ST
+309, 3	869, 1-6	OSW	wyt ti ddim isio dim_byd wedyn	NSNT	NSNT
+309, 4	871, 1-8	OSW	a gwneud dy fyd bach dy hun de	---	NSNT
+
+
+310, 1	872, 1-2	CYN	ia hollol	SNT	NSNT
+310, 2	874, 1-12	CYN	because dydy o ddim ots faint o bres ti *lot* o bres	NST	ST
+310, 3	874, 13-22	CYN	de *oh* ti ddim yn cael amser i wario fo	---	NST
+
+
+311, 1	876, 1-2	OSW	yn union	---	NSNT
+
+
+312, 1	877, 1-9	CYN	because ti yn gwely yn gwely ac yn gweithio	---	SNT
+
+
+313, 1	878, 1-5	OSW	yn union yn union *Cynddylan*	---	NST
+
+
+314, 1	879, 1-4	CYN	*oh* na baswn i	NST	NST
+314, 2	879, 5-17	CYN	baswn i ddim balchach o holl hassle am ychydig bach mwy o bres	NSNT	SNT
+314, 4	883, 1-6	CYN	tydy o ddim fi *Oswy* bach	---	NST
+
+
+315, 1	884, 1-13	OSW	sôn am fwyd achan ew wsti yr noson honno ddois i i i	NSNT	NSNT
+315, 2	884, 14-18	OSW	lle wyt ti yn gweithio	---	NSNT
+
+
+316, 1	885, 1-3	CYN	*oh* yr *Indian*	---	NST
+
+
+317, 1	886, 1-3	OSW	yr *Indian* yna	---	NST
+
+
+318, 1	887, 1-4	CYN	wnest ti fwynhau o	---	NSNT
+
+
+319, 1	888, 1-2	OSW	Iesu wsti	NSNT	NSNT
+319, 2	888, 3-6	OSW	be oedd hi yn	NSNT	NSNT
+319, 3	888, 7-15	OSW	oedd hi yn ben_blwydd *er* *Carol* gael ei phen_blwydd	NST	NST
+319, 4	890, 1-14	OSW	a fyddwn i yn gwrthod i i fynd i ryw *indians* a ryw jineses	---	ST
+
+
+320, 1	891, 1-7	CYN	mae gwraig *Elfyn* yr un fath *Rhian*	---	NST
+
+
+321, 1	892, 1-3	OSW	tawn i ddim	NSNT	NSNT
+321, 2	892, 4-4	OSW	sti	NSNT	NSNT
+321, 3	894, 1-3	OSW	tawn i ddim	NSNT	NSNT
+321, 4	895, 1-11	OSW	a mewn ffordd oeddwn i yn boen yn y *bloody* tin	---	NST
+
+
+322, 1	896, 1-8	CYN	pawb arall isio mynd a chdi ddim *yeah*	---	NST
+
+
+323, 1	897, 1-7	OSW	*um* mynd i yr llefydd yma a	ST	NST
+323, 2	898, 1-5	OSW	lets go for a chinese	NSNT	NSNT
+323, 3	899, 1-5	OSW	lets go for an *indian*	ST	NST
+323, 4	902, 1-3	OSW	tawn i ddim	NSNT	NSNT
+323, 5	902, 4-4	OSW	te	---	NSNT
+
+
+324, 1	903, 1-7	CYN	*oh* dw yr un fath fel yna	---	NST
+
+
+325, 1	904, 1-7	OSW	wedi cael wedi cael fy magu wsti	NSNT	NSNT
+325, 2	904, 8-11	OSW	be dw feddwl adre	---	NSNT
+
+
+326, 1	905, 1-4	CYN	meat and two veg	---	NSNT
+
+
+327, 1	906, 1-2	OSW	dyna fo	NSNT	NSNT
+327, 2	907, 1-14	OSW	dyma hi yn dŵad yn amser wan pen_blwydd *um* Chwefror fel ti yn gwybod	---	NST
+
+
+328, 1	908, 1-1	CYN	*Carol*	---	NST
+
+
+329, 1	910, 1-5	OSW	a meddwl Duw medda fi	NSNT	NSNT
+329, 2	911, 1-4	OSW	be wna i leni	NSNT	NSNT
+329, 3	911, 5-5	OSW	te	NSNT	NSNT
+329, 4	912, 1-4	OSW	trio gael ryw *jange*	---	NST
+
+
+330, 1	913, 1-2	CYN	drio fo	---	NSNT
+
+
+331, 1	914, 1-4	OSW	a dyma fi deud	NSNT	NSNT
+331, 2	915, 1-2	OSW	*well* Duw	NST	NST
+331, 3	916, 1-2	OSW	medda fi	NSNT	NSNT
+331, 4	917, 1-2	OSW	mae Cynddylan	NSNT	NSNT
+331, 5	918, 1-2	OSW	medda fi	NSNT	NSNT
+331, 6	919, 1-10	OSW	mae o yn gweithio yn yr *indian* yn *Borth* yn	NST	NST
+331, 7	920, 1-5	OSW	be ydy enw yr lle	---	NSNT
+
+
+332, 1	921, 1-2	CYN	*Llanwnda* *yeah*	---	NST
+
+
+333, 1	922, 1-2	OSW	*Llanwnda* de	NST	NST
+333, 2	923, 1-4	OSW	a Duw medda fi	NSNT	NSNT
+333, 3	924, 1-10	OSW	mi mi wna i *surprise* i *Cynddylan* a bwcio bwrdd	NST	NST
+333, 4	925, 1-11	OSW	a wsti be *Cynddylan* o'n i wedi enjoio yr bwyd gyn_gymaint	NST	NST
+333, 5	927, 1-8	OSW	dyma fi yn galw yr yr head *waiter*	ST	ST
+333, 6	929, 1-7	OSW	fel yna efo mys felly sti fel	NSNT	NSNT
+333, 7	929, 8-15	OSW	mae rywun dipyn bach yn *bold* mewn ffordd	NST	NST
+333, 8	929, 16-16	OSW	te	NSNT	NSNT
+333, 10	931, 1-3	OSW	ac oedd y	---	NSNT
+
+
+334, 1	932, 1-5	CYN	fel mae pawb yn wneud	---	NSNT
+
+
+335, 1	933, 1-6	OSW	oedd y creadur bach yn meddwl	NSNT	NSNT
+335, 2	933, 7-11	OSW	bod fi rywbeth yn *wrong*	NST	NST
+335, 3	933, 12-12	OSW	yli	---	NSNT
+
+
+336, 1	934, 1-3	CYN	rywbeth yn *wrong*	---	NST
+
+
+337, 1	936, 1-2	OSW	*oh* *Sir*	ST	NST
+337, 2	937, 1-2	OSW	meddai fo	SNT	NSNT
+337, 3	938, 1-5	OSW	is there anything the *matter*	NST	NST
+337, 4	939, 1-2	OSW	completely different	SNT	NSNT
+337, 5	940, 1-3	OSW	medda fi wrtho	NSNT	NSNT
+337, 6	942, 1-8	OSW	dyma fi yn deud yr hanes wrtho fo	NSNT	NSNT
+337, 7	943, 1-7	OSW	fuais i erioed mewn *foreign* restaurant before	NST	ST
+337, 8	944, 1-4	OSW	do you know what	SNT	NSNT
+337, 9	945, 1-4	OSW	medda fi wrtho fo	SNT	NSNT
+337, 10	946, 1-5	OSW	I have thoroughly enjoyed this	---	NSNT
+
+
+338, 1	947, 1-4	CYN	be gest ti fwyta	NSNT	NSNT
+338, 2	947, 5-5	CYN	ta	---	NSNT
+
+
+339, 1	948, 1-2	OSW	medda fi	NSNT	NSNT
+339, 2	949, 1-3	OSW	*oh* Iesu paid	---	NST
+
+
+340, 1	950, 1-3	CYN	oedd gyn ti	NSNT	NSNT
+340, 2	950, 4-12	CYN	oedd gyn ti *idea* be o'ch chdi yn ordro	NST	NST
+340, 3	951, 1-6	CYN	ta *just* gweld enw chicken rywbeth	---	ST
+
+
+341, 1	952, 1-5	OSW	chicken chicken rywbeth oedd o	NSNT	SNT
+341, 2	952, 6-6	OSW	te	SNT	NSNT
+341, 4	954, 1-4	OSW	chicken *galala* neu rywbeth	NST	ST
+341, 6	956, 1-7	OSW	a wedyn a wedyn be wnaethon ni	NSNT	NSNT
+341, 7	956, 8-18	OSW	yli mi gymrais i un peth a gymrodd *missus* beth arall	---	NST
+
+
+342, 1	957, 1-6	CYN	*oh* *yeah* gewch chi blasu wahanol	---	NST
+
+
+343, 1	958, 1-7	OSW	wedyn oedden ni cael trio yr ddau	NSNT	NSNT
+343, 2	958, 8-8	OSW	doedden	SNT	NSNT
+343, 3	960, 1-7	OSW	anyway dyma yr yr head *waiter* dŵad	ST	ST
+343, 4	961, 1-3	OSW	anything *wrong* *sir*	NST	NST
+343, 5	962, 1-3	OSW	no medda fi	SNT	SNT
+343, 6	963, 1-2	OSW	completely opposite	---	NSNT
+
+
+344, 1	964, 1-3	CYN	*yeah* *yeah* excellent	---	NST
+
+
+345, 1	965, 1-2	OSW	medda fi	SNT	NSNT
+345, 2	966, 1-6	OSW	I have thoroughly enjoyed this meal	SNT	NSNT
+345, 3	967, 1-2	OSW	medda fi	NSNT	NSNT
+345, 4	968, 1-12	OSW	a deud wrtho fuais i erioed o yr blaen mewn *foreign* restaurant	ST	ST
+345, 5	970, 1-6	OSW	a look medda fi wrtho fo	SNT	SNT
+345, 6	971, 1-5	OSW	I *am* *so* made up	ST	NST
+345, 7	972, 1-4	OSW	medda fi wrtho fo	SNT	NSNT
+345, 8	973, 1-7	OSW	I *can* even give it in writing	ST	NST
+345, 9	974, 1-4	OSW	meddai fi wrtho fo	SNT	NSNT
+345, 10	976, 1-6	OSW	how much I've enjoyed your food	---	NSNT
+
+
+346, 1	977, 2-8	CYN	mae yna *lot* deud yr un fath	NST	NST
+346, 2	977, 9-9	CYN	sti	---	NSNT
+
+
+347, 1	979, 1-3	OSW	arglwydd mawr ia	---	NSNT
+
+
+348, 1	980, 1-15	CYN	be mae *lot* deud a dod yna pnawn dydd Sul pan ti cael y *buffet*	NST	NST
+348, 2	982, 1-17	CYN	a wedyn be ydy o dŵad yn y yn y restaurant arall *sorry* yn y *room* arall	NST	ST
+348, 3	982, 18-34	CYN	mae gyn ti tua hanner dwsin neu ddeg o o o botiau efo wahanol bwydydd yno fo	NSNT	NSNT
+348, 4	985, 1-6	CYN	wedyn ti *just* helpu dy hun	NST	NST
+348, 5	987, 1-7	CYN	a wedyn mae roi *chance* wedyn yn	NST	NST
+348, 6	987, 8-22	CYN	lle bod chdi yn deud talu naw punt neu ddeg punt am gwrs o fwyd	NSNT	NSNT
+348, 7	990, 1-19	CYN	a cael cegaid a ddim yn licio fo ti cael trio pethau gwahanol yli wyth neu naw wahanol beth	---	NSNT
+
+
+349, 1	992, 1-11	OSW	ti gweld pan o'n i mynd i_ffwrdd efo yr côr yn_te	NSNT	NSNT
+349, 2	994, 1-9	OSW	fydd yr hogiau yma mynd i ryw jinese a	---	SNT
+
+
+350, 1	995, 1-5	CYN	*yeah* fyddan nhw fel yna	NST	NST
+350, 2	995, 6-7	CYN	mae nhw	---	NSNT
+
+
+351, 1	996, 1-8	OSW	a wedyn dw innau yn deud *oh* no	---	ST
+
+
+352, 1	997, 1-4	CYN	mi ei di wan	---	NSNT
+
+
+353, 1	998, 1-9	OSW	fish and *chips* I'll go for fish and *chips*	ST	NST
+353, 2	1000, 1-2	OSW	*oh* rŵan	---	NST
+
+
+354, 1	1001, 1-4	CYN	mi ei di de	---	NSNT
+
+
+355, 1	1002, 1-3	OSW	mi a i	NSNT	NSNT
+355, 2	1003, 1-11	OSW	a mi a i efo yr hogiau ac enjoio fy hun	NSNT	NSNT
+355, 3	1004, 1-3	OSW	argoel mi dychrynan	NSNT	NSNT
+355, 4	1004, 4-9	OSW	myn diawl y ngweld i mewn	---	NSNT
+
+
+356, 1	1005, 1-2	CYN	mae rywun	NSNT	NSNT
+356, 2	1006, 1-8	CYN	dw i yn un sâl am drio pethau	NSNT	NSNT
+356, 3	1006, 9-9	CYN	sti	NSNT	NSNT
+356, 4	1007, 1-7	CYN	fel ti deud dw mynd i_ffwrdd *lot*	NST	NST
+356, 5	1008, 1-5	CYN	ond wna i mond bwyta	NSNT	NSNT
+356, 6	1008, 6-12	CYN	be dw i yn wybod mewn ffordd	NSNT	NSNT
+356, 7	1010, 1-2	CYN	wna i	NSNT	NSNT
+356, 8	1010, 3-7	CYN	wneith *Pat* drio bethau gwahanol	NST	NST
+356, 9	1012, 1-3	CYN	wna i ddim	NSNT	NSNT
+356, 10	1013, 1-6	CYN	dw i yn un sâl ofnadwy	NSNT	NSNT
+356, 11	1015, 1-4	CYN	dw i yn gwybod	NSNT	NSNT
+356, 12	1015, 5-8	CYN	be dw i licio	NSNT	NSNT
+356, 13	1016, 1-5	CYN	a wna i fwyta fo	SNT	NSNT
+356, 14	1018, 1-14	CYN	because yn yn *Portugal* mae gyn ti *er* fel ti yn deud yn *Portugal*	NST	ST
+356, 15	1018, 15-19	CYN	mae gyn ti yr *sardines*	NST	NST
+356, 16	1020, 1-7	CYN	a dydw i ddim yn licio nhw	NSNT	NSNT
+356, 17	1022, 1-7	CYN	ond wna i ddim trio nhw chwaith	---	NSNT
+
+
+357, 1	1023, 1-15	OSW	ond i mi sbïo ar *din* *sardines* wedi agor ddigon i wneud fi gyfogi de	---	NST
+
+
+358, 1	1024, 1-2	CYN	mae nhw	NSNT	NSNT
+358, 2	1025, 1-3	CYN	ond mae rhein	NSNT	NSNT
+358, 3	1025, 4-4	CYN	mae	NSNT	NSNT
+358, 4	1025, 5-10	CYN	mae nhw ar *grill* mewn ffordd	NST	NST
+358, 6	1027, 1-4	CYN	ar lan môr dydy	---	NSNT
+
+
+359, 1	1028, 1-2	OSW	glan môr	NSNT	NSNT
+359, 2	1030, 1-9	OSW	ar ochr dŵr a yr *waitresses* dod nhw yna	NST	NST
+359, 3	1031, 1-7	OSW	fedret ti ddim cael nhw mwy *fresh*	---	NST
+
+
+360, 1	1032, 1-3	CYN	na na hollol	---	NSNT
+
+
+361, 1	1033, 1-8	OSW	a potel o win a tamaid o fara	NSNT	NSNT
+361, 2	1034, 1-1	OSW	bendigedig	NSNT	NSNT
+361, 3	1035, 1-1	OSW	bendigedig	---	NSNT
+
+
+362, 1	1036, 1-1	CYN	ond	---	NSNT
+
+
+363, 1	1037, 1-9	OSW	be sy gyn ti ar y go pnawn yma	---	SNT
+
+
+364, 1	1038, 1-3	CYN	dim_byd pnawn yma	NSNT	NSNT
+364, 2	1039, 1-9	CYN	*um* o'n i fod i chwarae *football* heno yma	NST	NST
+364, 3	1040, 1-8	CYN	ond does gyn i ddim *lot* o fynedd	NST	NST
+364, 4	1041, 1-9	CYN	mae gyn i ryw gorn ar y mawd i	NSNT	NSNT
+364, 5	1042, 1-6	CYN	*so* geith hwnna *miss* heno yma	NST	NST
+364, 6	1043, 1-5	CYN	rown ni *fiss* ar hwnna	---	NST
+
+
+365, 1	1044, 1-11	OSW	arglwydd mawr ti ddim yn hen i ddechrau chwarae *football* dŵad	---	NST
+
+
+366, 1	1046, 1-3	CYN	*oh* dw i	NST	NST
+366, 2	1046, 4-6	CYN	wedi bod yn	NSNT	NSNT
+366, 3	1046, 7-11	CYN	dw i ddim wedi stopio	NSNT	NSNT
+366, 4	1047, 1-1	CYN	dw	NSNT	NSNT
+366, 5	1047, 2-6	CYN	bod chwarae *football* ers blynyddoedd	---	NST
+
+
+367, 1	1048, 1-1	OSW	Iesu	---	NSNT
+
+
+368, 1	1049, 1-2	CYN	*so* arfer	NST	NST
+368, 2	1049, 3-4	CYN	wyt ti	NSNT	NSNT
+368, 3	1051, 1-7	CYN	a dw i yn enjoio y craic	SNT	SNT
+368, 4	1053, 1-3	CYN	be sy dda	NSNT	NSNT
+368, 5	1053, 5-5	CYN	dw	NSNT	NSNT
+368, 6	1053, 6-6	CYN	dw	NSNT	NSNT
+368, 7	1053, 7-14	CYN	dw chwarae efo efo yr grandson ti gweld	NSNT	SNT
+368, 8	1055, 1-4	CYN	mae o yna hefyd	NSNT	NSNT
+368, 9	1057, 1-3	CYN	wnaeth o *well*	---	NST
+
+
+369, 1	1058, 1-1	OSW	bendigedig	NSNT	NSNT
+369, 2	1059, 1-9	OSW	be dw i yn mynd i wneud pnawn yma	NSNT	NSNT
+369, 3	1059, 10-15	OSW	os fydd y tywydd yn iawn	NSNT	NSNT
+369, 4	1059, 16-18	OSW	mae gyn i	---	NSNT
+
+
+370, 1	1060, 1-8	CYN	*oh* mae gaddo hi braf drwy yr dydd	NST	NST
+370, 2	1060, 9-9	CYN	dydy	---	NSNT
+
+
+371, 1	1061, 1-17	OSW	mae gyn i isio chwalu dipyn bach o giwana i i ddechrau yr cae yr gwair *off*	NST	NST
+371, 2	1062, 1-3	OSW	wedyn dyna ti	NSNT	NSNT
+371, 3	1062, 4-10	OSW	be sy gyn i ar y go	---	SNT
+
+
+372, 1	1063, 1-6	CYN	ti sôn wan am hynna de	NSNT	NSNT
+372, 2	1065, 1-4	CYN	be dw i isio	NSNT	NSNT
+372, 3	1065, 6-9	CYN	ydy rywfaint o top_soil	SNT	SNT
+372, 4	1067, 1-8	CYN	oes gyn ti rywfaint i allu cael peth	---	NSNT
+
+
+373, 1	1068, 1-5	OSW	*er* faint wyt ti isio	---	NST
+
+
+374, 1	1069, 1-10	CYN	a basai rywfaint o yr *guano* yma yn *ideal* hefyd	NST	NST
+374, 2	1071, 1-5	CYN	dw i ddim isio *lot*	NST	NST
+374, 3	1071, 6-6	CYN	sti	NSNT	NSNT
+374, 4	1072, 1-6	CYN	*um* mae gyn i *batch* bach	NST	NST
+374, 5	1073, 1-18	CYN	dw i wedi roi cerrig yn y *front* wedi tynnu yr wrth ei_gilydd a wedi roi cerrig yna	NST	NST
+374, 6	1075, 1-7	CYN	wedyn mae yna ryw *batch* bach ryw	NST	NST
+374, 7	1076, 1-3	CYN	faint ydy hynna	NSNT	NSNT
+374, 8	1077, 1-3	CYN	ryw ddwy droedfedd	NSNT	NSNT
+374, 9	1079, 1-8	CYN	a ryw deuddeg i bymtheg droedfedd o hir	NSNT	NSNT
+374, 10	1081, 1-10	CYN	a wedyn mae wedi iwsio pridd i leflo yr ardd	NSNT	NSNT
+374, 11	1083, 1-8	CYN	*so* dw isio *just* ail_leflo y *patch* yna	NST	NST
+374, 12	1085, 1-6	CYN	*so* dw i ddim isio *lot*	NST	NST
+374, 13	1086, 1-2	CYN	bobl deud	NSNT	NSNT
+374, 14	1087, 1-5	CYN	*oh* gei di dunnell *yeah*	NST	NST
+374, 15	1088, 1-8	CYN	ond mae tunnell yn swndio *lot* i fi	---	NST
+
+
+375, 1	1089, 1-3	OSW	tydy o ddim	NSNT	NSNT
+375, 2	1089, 4-4	OSW	sti	---	NSNT
+
+
+376, 1	1090, 1-2	CYN	nag ydy	---	NSNT
+
+
+377, 1	1091, 1-4	OSW	na tydy tunnell ddim	NSNT	NSNT
+377, 2	1092, 1-5	OSW	baset ti yn synnu achan	---	NSNT
+
+
+378, 1	1093, 1-5	CYN	faint o ychydig ydy o	---	NSNT
+
+
+379, 1	1094, 1-4	OSW	baset ti yn synnu	NSNT	NSNT
+379, 2	1094, 5-5	OSW	te	NSNT	NSNT
+379, 3	1095, 1-4	OSW	baswn i yn deud	NSNT	NSNT
+379, 4	1095, 5-6	OSW	bod tunnell	NSNT	NSNT
+379, 5	1095, 7-15	OSW	te ryw ddeg *well* ryw ddeg i bymtheg berfâid	---	NST
+
+
+380, 1	1096, 1-9	CYN	*oh* dydy hynna ddim yn swndio *lot* i fi	---	NST
+
+
+381, 1	1097, 1-7	OSW	dyna i ti yr lyries yma rŵan	NSNT	NSNT
+381, 2	1097, 8-8	OSW	te	---	NSNT
+
+
+382, 1	1100, 1-4	CYN	y pick_ups bach yma	---	SNT
+
+
+383, 1	1101, 1-5	OSW	mi garith rheina ten tons	SNT	SNT
+383, 2	1101, 6-6	OSW	yli	---	NSNT
+
+
+384, 1	1102, 1-5	CYN	*yeah* ella ella mae *sure*	NST	NST
+384, 2	1102, 6-10	CYN	bod chdi yn iawn hefyd	---	NSNT
+
+
+385, 1	1103, 1-15	OSW	pan di yn dropio tunnell de pan di gael tunnell o dywod gyn y builders	SNT	SNT
+385, 2	1103, 16-21	OSW	mae yn dŵad mewn *bag* tua	---	NST
+
+
+386, 1	1106, 3-7	CYN	dw i gael bagiau mawr	---	NSNT
+
+
+387, 1	1107, 1-2	OSW	dyna fo	---	NSNT
+
+
+388, 1	1108, 1-4	CYN	*yeah* dyna chdi *yeah*	---	NST
+
+
+389, 1	1109, 1-5	OSW	a mae hwnna yn dal	NSNT	NSNT
+389, 2	1109, 6-10	OSW	mae hwnna yn dal tunnell	NSNT	NSNT
+389, 3	1109, 11-11	OSW	yli	---	NSNT
+
+
+390, 1	1110, 1-8	CYN	*oh* dydy o ddim yn swndio *lot* felly	---	NST
+
+
+391, 1	1112, 1-2	OSW	yn anffodus	---	NSNT
+
+
+392, 1	1113, 1-3	CYN	because ti meddwl	---	SNT
+
+
+393, 1	1114, 1-1	OSW	yn	---	NSNT
+
+
+394, 1	1115, 1-4	CYN	ti meddwl am dunnell	NSNT	NSNT
+394, 2	1117, 1-11	CYN	ti ti yn meddwl am am *lot* o o bridd de	---	NST
+
+
+395, 1	1118, 1-4	OSW	*yeah* tydy o ddim	NST	NST
+395, 2	1119, 1-17	OSW	ond ti yn gweld yn anffodus dim *use* mi ddod â pridd o nghae fi i chdi	---	NST
+
+
+396, 1	1120, 1-5	CYN	*oh* nac ydy *sure* nac	NST	NST
+396, 2	1120, 6-7	CYN	ydy *sure*	---	NST
+
+
+397, 1	1121, 1-8	OSW	am y rheswm pam te *Cynddylan* tir cleiog	NST	NST
+397, 2	1121, 9-11	OSW	sy gyn i	NSNT	NSNT
+397, 3	1121, 12-12	OSW	yli	---	NSNT
+
+
+398, 1	1122, 1-7	CYN	*oh* *yeah* ti ymyl y môr dwyt	---	NST
+
+
+399, 1	1123, 1-7	OSW	wyt ti isio *stuff* *nice* yr ardd	---	NST
+
+
+400, 1	1124, 1-3	CYN	top_soil iawn de	---	SNT
+
+
+401, 1	1125, 1-14	OSW	a wedyn beth calla i chdi petaset ti yn gweld *er* rywun yn flatten_io	ST	ST
+401, 2	1125, 15-17	OSW	neu wsti *er*	NST	NST
+401, 3	1125, 18-26	OSW	fysai rywun yn torri sylfaen i ryw dŷ ballu	---	NSNT
+
+
+402, 1	1127, 1-4	CYN	neu alla i *just*	---	NST
+
+
+403, 1	1128, 1-5	OSW	i yr ti isio de	---	NSNT
+
+
+404, 1	1129, 1-11	CYN	neu alla i *just* dopio fo fyny efo efo *um* *compost*	---	NST
+
+
+405, 1	1130, 1-6	OSW	*oh* mae hwnnw yn iawn hefyd	---	NST
+
+
+406, 1	1131, 1-13	CYN	wsti efo a adio fertilizer fo wedyn a *just* gymysgu o yn iawn	NST	ST
+406, 2	1134, 1-3	CYN	dw ddim bwriadu	NSNT	NSNT
+406, 3	1134, 4-8	CYN	roid *lot* o *stuff* yna	NST	NST
+406, 4	1136, 1-1	CYN	sti	NSNT	NSNT
+406, 5	1136, 2-3	CYN	dw isio	NSNT	NSNT
+406, 6	1136, 4-8	CYN	roid un neu ddau bush	SNT	SNT
+406, 7	1136, 9-9	CYN	wneith	NSNT	NSNT
+406, 8	1136, 10-20	CYN	wneith sefydlu yna a a a llenwi o fyny mewn ffordd	NSNT	NSNT
+406, 9	1138, 1-6	CYN	bach o wyrdd yn y *front*	ST	NST
+406, 10	1139, 1-2	CYN	because mae	NSNT	SNT
+406, 11	1139, 3-12	CYN	mae yr cerrig wedi cymryd y gwyrdd o yna i_gyd	NSNT	NSNT
+406, 12	1141, 1-11	CYN	ond pan ti cyrraedd oedran fi *well* be all maintenance de	NST	ST
+406, 13	1143, 1-8	CYN	mae gyn i *batch* o wyrdd yn cefn	NST	NST
+406, 14	1145, 1-6	CYN	ond basai well gynno fi *er*	NST	NST
+406, 15	1145, 7-7	CYN	sti	NSNT	NSNT
+406, 16	1145, 8-15	CYN	roid ryw hanner dwsin o o shrubs yna	NSNT	SNT
+406, 17	1147, 1-2	CYN	i sefydlu	---	NSNT
+
+
+407, 1	1149, 1-4	OSW	*oh* mae ti gweld	NST	NST
+407, 2	1149, 7-15	OSW	gynnon ni ryw *batch* bach yn flaen tŷ acw	---	NST
+
+
+408, 1	1150, 1-16	CYN	ond fel ti deud os os ydy o yn *er* *er* bridd clai yn da dim_byd	NST	NST
+408, 2	1150, 17-17	CYN	dydy	---	NSNT
+
+
+409, 1	1152, 1-4	OSW	plisgyn coed rois i	NSNT	NSNT
+409, 2	1152, 5-6	OSW	yli *bark*	---	NST
+
+
+410, 1	1153, 1-3	CYN	*oh* *bark* *yeah*	---	NST
+
+
+411, 1	1154, 1-8	OSW	a wedyn mae hwnnw yn edrych yn dda	NSNT	NSNT
+411, 2	1155, 1-7	OSW	a mae o yn cadw yr *um*	---	NST
+
+
+412, 1	1156, 1-1	CYN	moisture	---	NSNT
+
+
+413, 1	1157, 1-6	OSW	mae o yn cadw yr moisture	SNT	SNT
+413, 2	1158, 1-8	OSW	a tydw i ddim cael dim chwyn yn_de	---	NSNT
+
+
+414, 1	1159, 1-5	CYN	*well* ia wrth_gwrs *yeah* chwyn	---	NST
+
+
+415, 1	1160, 1-6	OSW	mae *lot* o yr cynghorau yma	NST	NST
+415, 2	1160, 7-10	OSW	mae nhw yn iwsio	---	NSNT
+
+
+416, 1	1161, 3-14	CYN	dw i sylwi hynna ar y *patches* blodau sydd ym yn dre	---	NST
+
+
+417, 1	1162, 1-2	OSW	dyna fo	NSNT	NSNT
+417, 2	1163, 1-6	OSW	a *round* y coed a ballu	NST	NST
+417, 3	1164, 1-9	OSW	wedyn ti ddim yn gael chwyn yn tyfu yli	---	NSNT
+
+
+418, 1	1165, 1-6	CYN	dyna be ti ti ddim isio	NSNT	NSNT
+418, 2	1165, 8-9	CYN	nag oes	---	NSNT
+
+
+419, 1	1166, 1-2	OSW	nag oes	NSNT	NSNT
+419, 2	1167, 1-9	OSW	*well* dw i barod i fynd am baned *Cynddylan*	---	NST
+
+
+420, 1	1168, 1-7	CYN	yr amser yn awr yw five to	---	SNT
+
+
+421, 1	1170, 1-2	OSW	*well* ia	NST	NST
+421, 2	1171, 1-12	OSW	a wedyn dw i *nice* wedi cael dy gyfarfod ti unwaith eto	---	NST
+
+
+422, 1	1172, 1-4	CYN	*well* ia likewise de	---	ST
+
+
+423, 1	1173, 1-2	OSW	wedyn *er*	---	NST
+
+
+424, 1	1174, 1-4	CYN	because dw ddim wedi	NSNT	SNT
+424, 2	1174, 5-12	CYN	dw ddim wedi gweld chdi ers talwm na	NSNT	NSNT
+424, 3	1175, 1-8	CYN	a do'n ni heb e_bostio ers dipyn chwaith	NSNT	NSNT
+424, 4	1177, 1-4	CYN	mae rywun yn anghofio	---	NSNT
+
+
+425, 1	1178, 1-8	OSW	a wedyn dw isio siarad ar yr twenty_fifth	---	SNT
+
+
+426, 1	1180, 1-5	CYN	ia am be mae hwnna	NSNT	NSNT
+426, 2	1180, 6-6	CYN	ta	---	NSNT
+
+
+427, 1	1181, 1-3	OSW	*well* ges i	NST	NST
+427, 2	1181, 4-9	OSW	ges i alwad *phone* gyn *Radio*	---	NST
+
+
+428, 1	1182, 1-1	CYN	Cymru	---	NSNT
+
+
+429, 1	1183, 1-1	OSW	Cymru	SNT	NSNT
+429, 2	1184, 1-1	OSW	*Hayward*	ST	NST
+429, 3	1185, 1-5	OSW	be ydy henw hi dŵad	---	NSNT
+
+
+430, 1	1186, 1-2	CYN	*Nicola_Hayward_Thomas* *yeah*	---	NST
+
+
+431, 1	1187, 1-1	OSW	*Nicola_Hayward_Thomas*	---	NST
+
+
+432, 1	1188, 1-8	CYN	*oh* sut gaeth afael yn dy enw di	---	NST
+
+
+433, 1	1189, 1-6	OSW	dw i ddim yn gwybod achan	NSNT	NSNT
+433, 2	1190, 1-6	OSW	mae isio fi siarad *er* sut	NST	NST
+433, 3	1190, 7-12	OSW	sut ges i fynd yn involved	---	SNT
+
+
+434, 1	1191, 1-1	CYN	am	NSNT	NSNT
+434, 2	1192, 1-5	CYN	*oh* efo yr *film* *Demi_Moore*	---	NST
+
+
+435, 1	1193, 1-5	OSW	efo yr *film* *Demi_Moore* yma	---	NST
+
+
+436, 1	1194, 1-11	CYN	ella am bod y *film* yn cael ei *um* release_io ella	NST	ST
+436, 2	1196, 1-7	CYN	mae première mewn ryw fis neu ddau	NSNT	SNT
+436, 3	1196, 8-8	CYN	dydy	NSNT	NSNT
+436, 4	1197, 1-4	CYN	*so* dyna pam ella	---	NST
+
+
+437, 1	1198, 1-4	OSW	yn June ddeudodd o	NSNT	SNT
+437, 2	1198, 5-5	OSW	te	---	NSNT
+
+
+438, 1	1199, 1-5	CYN	oedd o fod mis Mai	NSNT	NSNT
+438, 2	1199, 6-6	CYN	doedd	---	NSNT
+
+
+439, 1	1200, 1-2	OSW	oedd tad	---	NSNT
+
+
+440, 1	1201, 1-6	CYN	ond mae nhw wedi ohirio fo	NSNT	NSNT
+440, 2	1201, 7-13	CYN	am bod nhw wneud mwy o cuts	---	SNT
+
+
+441, 1	1202, 1-2	OSW	mae yna	NSNT	NSNT
+441, 2	1203, 1-7	OSW	be mae hynny yn golygu efo cuts	---	SNT
+
+
+442, 1	1204, 1-17	CYN	*well* torri *lot* o *scene* allan wneud o yn llai i i yr *cinema* mae *sure* *yeah*	---	NST
+
+
+443, 1	1205, 1-2	OSW	arglwydd ia	NSNT	NSNT
+443, 3	1207, 1-3	OSW	ia wedyn *um*	---	NST
+
+
+444, 1	1208, 1-2	CYN	*so* dyna	NST	NST
+444, 2	1208, 3-5	CYN	be ydy o	SNT	NSNT
+444, 3	1209, 1-8	CYN	*er* because gest ti *article* yn y *Daily_Post*	---	ST
+
+
+445, 1	1210, 1-10	OSW	yr y y wraig *er* hi gymrodd y message de	NST	ST
+445, 2	1211, 1-4	OSW	o'n i yn digwydd	---	NSNT
+
+
+446, 1	1212, 1-12	CYN	*oh* mae raid bod yna rywun wedi pasio dy enw di ymlaen	NST	NST
+446, 2	1212, 13-14	CYN	mae raid	---	NSNT
+
+
+447, 1	1213, 1-6	OSW	*well* mae yna rywun yn rywle	NST	NST
+447, 2	1213, 7-9	OSW	dw i gwybod	NSNT	NSNT
+447, 3	1213, 10-10	OSW	gosa	NSNT	NSNT
+447, 4	1213, 11-16	OSW	ydy o yr agencies neu rywbeth	NSNT	SNT
+447, 5	1214, 1-4	OSW	dw ddim yn gwybod	---	NSNT
+
+
+448, 1	1215, 1-7	CYN	*oh* *yeah* ella *um* *Jenny_Powell* ella *yeah*	---	NST
+
+
+449, 1	1216, 1-3	OSW	y *Jenny* yna	NST	NST
+449, 2	1217, 1-7	OSW	a wedyn *um* wedyn be ddeudodd hi	ST	NST
+449, 3	1218, 1-12	OSW	would I prepared to *um* how you got *um* onto the *um*	NST	NST
+449, 5	1220, 1-3	OSW	on the *film*	ST	NST
+449, 6	1222, 1-2	OSW	felly de	SNT	NSNT
+449, 7	1223, 1-8	OSW	and possibly talk a little *bit* about farming	ST	NST
+449, 8	1225, 1-2	OSW	wedyn *um*	---	NST
+
+
+450, 1	1226, 1-4	CYN	mae dy lun di	NSNT	NSNT
+450, 2	1226, 5-13	CYN	wedi bod yn yn *Daily_Post* hefyd efo efo efo	---	NST
+
+
+451, 1	1227, 1-2	OSW	Iesu mawr	NSNT	NSNT
+451, 2	1228, 1-11	OSW	*well* o'n i yn fan yna yn *Llanddwyn* efo hi te	NST	NST
+451, 3	1230, 1-9	OSW	beth nesa myn uffar i o'n i yn superstar	SNT	SNT
+451, 5	1232, 1-6	OSW	*Daily_Post* acw tynnu yn llun i	NST	NST
+451, 6	1233, 1-9	OSW	a myn uffar i achan diwrnod wedyn local local	---	SNT
+
+
+452, 1	1234, 1-2	CYN	*well* do	NST	NST
+452, 2	1234, 3-6	CYN	dw i wedi cadw	NSNT	NSNT
+452, 3	1235, 1-6	CYN	gadwais i o yr *er* *article*	NST	NST
+452, 4	1236, 1-12	CYN	mae o gen i yn y *er* yn y yn y *folder*	---	NST
+
+
+453, 1	1237, 1-2	OSW	Iesu *yeah*	NST	NST
+453, 2	1238, 1-9	OSW	a wedyn *um* wedyn aethon ni o fan yno	NST	NST
+453, 3	1239, 1-4	OSW	a myn diawl i	NSNT	NSNT
+453, 4	1239, 5-10	OSW	oeddet ti fan yno efo *Elfyn*	---	NST
+
+
+454, 1	1240, 2-5	CYN	oedden ni yn *Porthdinllaen*	---	NST
+
+
+455, 1	1241, 1-2	OSW	*Porthdinllaen* de	NST	NST
+455, 2	1243, 1-7	OSW	a wedyn *um* ges i fan yna	NST	NST
+455, 3	1244, 1-7	OSW	ges i wneud *scene* efo yr *um*	NST	NST
+455, 4	1244, 8-8	OSW	yr	NSNT	NSNT
+455, 5	1244, 9-10	OSW	wsti yr	---	NSNT
+
+
+456, 1	1245, 1-8	CYN	*er* *Jimmy_Cosmos* yr *er* y *er* y sgotyn	---	NST
+
+
+457, 1	1246, 1-5	OSW	y y dyn mawr *Cosmo_Monroe*	---	NST
+
+
+458, 1	1247, 1-4	CYN	*yeah* dyna chdi *yeah*	NST	NST
+458, 2	1248, 1-5	CYN	*Jimmy_Cosmo* naci *Jimmy_Cosmo* ydy o	NST	NST
+458, 3	1249, 1-8	CYN	achos oedd o yn actio yn *um* *Braveheart*	NST	NST
+458, 4	1249, 9-9	CYN	doedd	---	NSNT
+
+
+459, 1	1250, 1-2	OSW	*Braveheart* *yeah*	ST	NST
+459, 2	1251, 1-14	OSW	a wedyn oedd hwnnw a finnau yn eistedd tu allan i yr tŷ coch	NSNT	NSNT
+459, 3	1252, 1-1	OSW	dyna	NSNT	NSNT
+459, 4	1252, 2-4	OSW	oedd y *scene*	NST	NST
+459, 5	1254, 1-10	OSW	a wedyn dyma *Demi_Moore* yn cerdded o lan y môr	NST	NST
+459, 6	1255, 1-7	OSW	a dyma hi yn cerdded atan ni	NSNT	NSNT
+459, 7	1256, 1-14	OSW	a dyma hi dyma hi dyma yr *er* y dyn yma rŵan yn codi	ST	NST
+459, 8	1257, 1-8	OSW	*ah* *can* I take you for a beer	ST	NST
+459, 9	1260, 1-8	OSW	a wedyn *er* dyma nhw ngadael i wedyn	NST	NST
+459, 10	1261, 1-15	OSW	dyma nhw mynd am am *er* am am ddrink i yr i yr *pub* yli	NST	ST
+459, 11	1261, 16-16	OSW	te	---	NSNT
+
+
+460, 1	1262, 1-2	CYN	dyna chdi	---	NSNT
+
+
+461, 1	1263, 1-3	OSW	ond wsti *Cynddylan*	---	NST
+
+
+462, 1	1265, 1-2	CYN	*sorry* *yeah*	---	NST
+
+
+463, 1	1266, 1-5	OSW	*um* oedd yr olygfa yna	NST	NST
+463, 2	1266, 6-6	OSW	te	NSNT	NSNT
+463, 3	1266, 7-13	OSW	oedden ni yn cymryd efo rihyrsio felly	NSNT	NSNT
+463, 4	1266, 14-21	OSW	oedden ni yn cymryd tua tri chwarter awr	NSNT	NSNT
+463, 5	1266, 22-26	OSW	sti fel ti yn cofio	---	NSNT
+
+
+464, 1	1267, 1-5	CYN	*yeah* oedden nhw yn hir	---	NST
+
+
+465, 1	1268, 1-5	OSW	ond pryd ddaw o actually	SNT	SNT
+465, 2	1268, 6-10	OSW	os wnan nhw ddangos o	NSNT	NSNT
+465, 3	1268, 11-11	OSW	te	---	NSNT
+
+
+466, 1	1269, 1-3	CYN	ia os de	---	NSNT
+
+
+467, 1	1271, 1-5	OSW	*well* fydd o mond eiliad	NST	NST
+467, 2	1271, 6-7	OSW	bydd o	NSNT	NSNT
+467, 3	1271, 8-8	OSW	te	---	NSNT
+
+
+468, 1	1272, 1-3	CYN	na ia dyna	NSNT	NSNT
+468, 2	1272, 4-6	CYN	be ydy o	---	NSNT
+
+
+469, 1	1273, 1-2	OSW	ond oedd	---	NSNT
+
+
+470, 1	1274, 1-15	CYN	ac ella bydd o ar y llawr yn y yn yr yn y cutting *room*	---	ST
+
+
+471, 1	1275, 1-4	OSW	yn y cutting *room*	ST	ST
+471, 2	1276, 1-10	OSW	ond at least ges i yr fraint o fod one_to_one	---	SNT
+
+
+472, 1	1277, 1-4	CYN	*oh* efo hi de	---	NST
+
+
+473, 1	1278, 1-2	OSW	efo hi	---	NSNT
+
+
+474, 1	1279, 1-3	CYN	*yeah* a fo	---	NST
+
+
+475, 1	1280, 1-5	OSW	a one_to_one efo hithau de	---	SNT
+
+
+476, 1	1281, 1-3	CYN	dyna fo *yeah*	ST	NST
+476, 2	1282, 1-3	CYN	because mewn ffordd	NSNT	SNT
+476, 3	1283, 1-6	CYN	oedden nhw ffilmio yn yn Newborough	SNT	SNT
+476, 4	1283, 7-8	CYN	doedd Sir_Fôn	NSNT	NSNT
+476, 5	1285, 1-4	CYN	a wedyn yn *Porthdinllaen*	NST	NST
+476, 6	1287, 1-8	CYN	*so* mewn ffordd pan oedd hi cerdded o	NST	NST
+476, 7	1287, 9-11	CYN	lle oedd hi	NSNT	NSNT
+476, 8	1290, 1-5	CYN	i yr i yr pentre	NSNT	NSNT
+476, 9	1292, 1-4	CYN	mewn ffordd oedd o	NSNT	NSNT
+476, 10	1292, 5-19	CYN	oedd hi yn dechrau cerdded yn *Llanddwyn* yn Newborough ac yn gorffen i_fyny yn *Porthdinllaen*	NST	ST
+476, 11	1292, 20-20	CYN	doedd	---	NSNT
+
+
+477, 1	1293, 2-4	OSW	sy yn impossible	---	SNT
+
+
+478, 1	1294, 1-2	CYN	dyna ti	NSNT	NSNT
+478, 2	1295, 1-4	CYN	ia *well* ia hollol	---	NST
+
+
+479, 1	1297, 1-5	OSW	a wedyn fe orffennodd hwnnw	NSNT	NSNT
+479, 2	1298, 1-10	OSW	a wedyn *um* hi thank you *very* much wonderful experience	ST	ST
+479, 3	1298, 11-13	OSW	te gan feddwl	NSNT	NSNT
+479, 4	1298, 14-15	OSW	dyna fo	NSNT	NSNT
+479, 5	1298, 16-16	OSW	te	---	NSNT
+
+
+480, 1	1299, 1-1	CYN	dyna	---	NSNT
+
+
+480, 2	1299, 2-4	CYN	be ydy o	---	NSNT
+
+
+482, 1	1301, 1-4	CYN	dyna chdi yn Llundain	NSNT	NSNT
+482, 2	1302, 1-1	CYN	gaethon	NSNT	NSNT
+482, 3	1302, 2-5	CYN	gaethon ni gynnig mynd	NSNT	NSNT
+482, 4	1303, 1-6	CYN	ond o'n ni yn *America* yli	---	NST
+
+
+483, 1	1304, 1-3	OSW	yn yn Llundain	NSNT	NSNT
+483, 2	1306, 1-7	OSW	oeddet ti wedi mynd i *America* toeddet	---	NST
+
+
+484, 1	1307, 1-7	CYN	mynd i *America* dyna chdi *yeah* *yeah*	---	NST
+
+
+485, 1	1308, 1-3	OSW	*well* dyna hi	NST	NST
+485, 2	1309, 1-2	OSW	medda fi	NSNT	NSNT
+485, 3	1310, 1-4	OSW	dyna ti experience eto	NSNT	SNT
+485, 4	1311, 1-4	OSW	dyna i ti brofiad	NSNT	NSNT
+485, 5	1313, 1-3	OSW	a wedyn *um*	NST	NST
+485, 6	1314, 1-4	OSW	arglwydd awn ni amdani	SNT	NSNT
+485, 7	1315, 1-3	OSW	all expenses paid	---	NSNT
+
+
+486, 1	1316, 1-2	CYN	ia hollol	---	NSNT
+
+
+487, 1	1317, 1-16	OSW	a myn diawl achan ryw dri bedwar diwrnod cyn ni fod i fynd dyma yna e_bost	SNT	NSNT
+487, 2	1318, 1-4	OSW	*dear* *Oswy* I'm *sure*	NST	NST
+487, 3	1318, 5-7	OSW	you'll be disappointed	NSNT	NSNT
+487, 4	1319, 1-5	OSW	but *as* you are heavily	---	NST
+
+
+488, 1	1320, 1-5	CYN	*oh* oedd isio gwyneb gwahanol	---	NST
+
+
+489, 1	1321, 1-12	OSW	*ah* *as* you are heavily exposed *um* on the other *scenes* *um*	NST	NST
+489, 2	1321, 13-16	OSW	they want somebody less	SNT	NSNT
+489, 3	1322, 1-4	OSW	be yna felly sti	---	NSNT
+
+
+490, 1	1323, 1-8	CYN	because aeth yr hogan yna o Dinbych lawr	---	SNT
+
+
+491, 1	1324, 1-7	OSW	aeth yr hogan yna o Dinbych mi	NSNT	NSNT
+491, 2	1324, 8-10	OSW	aeth hi lawr	---	NSNT
+
+
+492, 1	1325, 1-3	CYN	dyna chdi *yeah*	NST	NST
+492, 2	1326, 1-3	CYN	aeth hi ddim	NSNT	NSNT
+492, 3	1326, 4-7	CYN	wnaeth hi ddim mwynhau	NSNT	NSNT
+492, 4	1326, 8-8	CYN	naddo	SNT	NSNT
+492, 5	1327, 1-4	CYN	because oedd yna neb	NSNT	SNT
+492, 6	1327, 5-10	CYN	oedd hi nabod yn y *crowd*	---	NST
+
+
+493, 1	1328, 1-3	OSW	doedd yna neb	---	NSNT
+
+
+494, 1	1329, 1-6	CYN	oedden ni ddim yna mewn ffordd	---	NSNT
+
+
+495, 1	1330, 1-5	OSW	oedd yr *warriors* ddim yna	NST	NST
+495, 2	1330, 6-7	OSW	nag oedd	---	NSNT
+
+
+496, 1	1331, 1-2	CYN	nag oedd	NSNT	NSNT
+496, 2	1331, 3-3	CYN	dyna	NSNT	NSNT
+496, 3	1331, 4-6	CYN	be ydy o	---	NSNT
+
+
+497, 1	1332, 1-5	OSW	wedi gael hwyl fysen ni	NSNT	NSNT
+497, 3	1334, 1-2	OSW	arglwydd mawr	---	NSNT
+
+
+498, 1	1335, 1-4	CYN	enwedig efo open *tab*	---	ST
+
+
+499, 1	1336, 1-6	OSW	was London ready for us de	NSNT	SNT
+499, 3	1338, 1-4	OSW	*oh* dyna fo achan	NST	NST
+499, 4	1339, 1-8	OSW	wedyn dw i am ei throi hi rŵan	---	NSNT
+
+
+500, 1	1340, 1-2	CYN	dyna fo	NSNT	NSNT
+500, 2	1340, 3-3	CYN	ta	NSNT	NSNT
+500, 3	1341, 1-7	CYN	mae hi wan yn faint o gloch	---	NSNT
+
+
+501, 1	1342, 1-5	OSW	mae rŵan yn tynnu am	---	NSNT
+
+
+502, 1	1343, 1-3	CYN	newydd droi un_ar_ddeg	---	NSNT
+
+
+503, 1	1344, 1-4	OSW	mae wedi un_ar_ddeg yn_dydy	---	NSNT
+
+
+504, 1	1345, 1-7	CYN	*so* be ti am wneud wan ta	---	NST
+
+
+505, 1	1346, 1-11	OSW	*well* dw i mynd adre rŵan i gael tamaid o ginio	---	NST
+
+
+506, 1	1348, 1-10	CYN	*mmm* gyn i un neu ddau bethau wneud yn *Bangor*	NST	NST
+506, 2	1349, 1-7	CYN	wedyn mae *sure* adre yr un fath	---	NST
+
+
+507, 1	1351, 1-4	OSW	wedyn dyna ni washi	NSNT	NSNT
+507, 2	1352, 1-8	OSW	wedyn *er* gawn ni sgwrs eto ryw dro	---	NST
+
+
+508, 1	1353, 1-2	CYN	*well* definitely	NST	NST
+508, 2	1354, 1-17	CYN	because does yna ddim_byd i weld yn mynd ymlaen ar hyn o bryd yn y gwaith *film*	NST	ST
+508, 3	1354, 18-19	CYN	nag oes	---	NSNT
+
+
+509, 1	1355, 1-12	OSW	*oh* Iesu o'n i mewn *um* cyfarfod bore dydd Sadwrn efo *Menter_Môn*	NST	NST
+509, 2	1357, 1-5	OSW	a pwy oedd yna achan	---	NSNT
+
+
+510, 1	1358, 1-3	CYN	*well* ti nabod	NST	NST
+510, 2	1359, 1-10	CYN	*oh* *Menter_Môn* ti nabod *Geraint* felly dwyt tad *um* *Carys_Wyn*	---	NST
+
+
+511, 1	1360, 1-2	OSW	dyna fo	NSNT	NSNT
+511, 2	1361, 1-3	OSW	tad *Carys_Wyn* *yeah*	---	NST
+
+
+512, 1	1362, 2-2	CYN	mae	NSNT	NSNT
+512, 2	1362, 3-16	CYN	mae fo a *Eleri* dod i i fan yna am fwyd yn aml ofnadwy	---	NST
+
+
+513, 1	1363, 1-7	OSW	*Geraint* ydy yr m_d ym *Menter_Môn* *Menter_Môn*	---	ST
+
+
+514, 1	1365, 1-3	CYN	dyna chdi *yeah*	NST	NST
+514, 2	1365, 4-5	CYN	dyna chdi	NSNT	NSNT
+514, 3	1366, 1-6	CYN	uffar o *foy* iawn *boy* iawn	NST	NST
+514, 4	1367, 1-3	CYN	bach yn *nervous*	---	NST
+
+
+515, 1	1368, 1-2	OSW	dyna fo	NSNT	NSNT
+515, 2	1369, 1-13	OSW	a wedyn o'n i oeddwn i yna ar ryw gwrs bach dydd Sadwrn	NSNT	NSNT
+515, 3	1369, 14-14	OSW	yli	NSNT	NSNT
+515, 4	1371, 1-9	OSW	a pwy oedd yna achan ond *um* be ddiawl	NST	NST
+515, 5	1371, 10-12	OSW	ydy enw *Herbert_Edwards*	NST	NST
+515, 6	1372, 1-5	OSW	yfo oedd yn cyfarwyddo *Emyn_Roc_and_Rôl*	NST	NST
+515, 7	1374, 1-9	OSW	a wedyn dyma fo yn deud wrtha fi te	NSNT	NSNT
+515, 8	1376, 1-7	OSW	fod o rŵan yn gweithio ar *Pobol_y_Cwm*	NST	NST
+515, 9	1378, 1-9	OSW	ond mae o isio ni gysylltu rŵan *Tenfydd* *Tenfydd_Eryri*	---	NST
+
+
+516, 1	1379, 1-1	CYN	*Tonfed*	---	NST
+
+
+517, 1	1380, 1-1	OSW	*Henfed*	---	NST
+
+
+518, 1	1381, 1-1	CYN	*Tonfed*	ST	NST
+518, 2	1382, 1-4	CYN	sydd yn *Cibyn* *yeah*	---	NST
+
+
+519, 1	1385, 1-2	OSW	mae isio	NSNT	NSNT
+519, 2	1385, 3-9	OSW	mae nhw yn yn castio wsnos yma	NSNT	NSNT
+519, 3	1386, 1-10	OSW	wedyn mae o wedi awgrymu i ni roi galwad *phone*	---	NST
+
+
+520, 1	1387, 1-3	CYN	castio i *Pobol_y_Cwm*	---	NST
+
+
+521, 1	1388, 1-1	OSW	naci	---	NSNT
+
+
+522, 1	1389, 1-3	CYN	*oh* rywbeth arall	---	NST
+
+
+523, 1	1390, 1-5	OSW	rywbeth arall mae nhw rŵan	NSNT	NSNT
+523, 2	1391, 1-5	OSW	a wedyn mae yr *um*	NST	NST
+523, 3	1392, 1-6	OSW	ti gwybod yr hogan yna *er*	NST	NST
+523, 4	1393, 1-5	OSW	be ydy enw yr *um*	---	NST
+
+
+524, 1	1394, 1-1	CYN	*Click*	---	NST
+
+
+525, 1	1395, 1-1	OSW	*Click*	---	NST
+
+
+526, 1	1396, 1-2	CYN	*Amanda* *yeah*	---	NST
+
+
+527, 1	1397, 1-1	OSW	*Amanda_Thompson*	ST	NST
+527, 2	1399, 1-8	OSW	oedd o yn deud wrtho fi am gysylltu	NSNT	NSNT
+527, 3	1399, 9-10	OSW	â *Tonfedd*	NST	NST
+527, 4	1400, 1-4	OSW	be ti galw nhw	---	NSNT
+
+
+528, 1	1401, 1-2	CYN	*Tonfed* *yeah*	---	NST
+
+
+529, 1	1402, 1-1	OSW	*Tonfed*	ST	NST
+529, 2	1404, 1-3	OSW	ac gofyn *er*	NST	NST
+529, 3	1404, 4-10	OSW	oes yna *jance* o o cael *um*	---	NST
+
+
+530, 1	1405, 1-5	CYN	*oh* *phone* pnawn yma ta	---	NST
+
+
+531, 1	1406, 1-4	OSW	wedyn mae isio ni	NSNT	NSNT
+531, 2	1406, 5-8	OSW	mae isio ni ffonio	---	NSNT
+
+
+532, 1	1407, 1-7	CYN	does yna ddim *point* mynd drwy *Amanda*	NST	NST
+532, 2	1408, 1-9	CYN	basai hi yn deud mynd yn direct i *Tonfed*	---	ST
+
+
+533, 1	1409, 1-9	OSW	*well* be ddeudodd *er* *Herbert* wrtha fi am ffonio	---	NST
+
+
+534, 1	1410, 1-3	CYN	*Tonfed* ei hun	---	NST
+
+
+535, 1	1411, 1-1	OSW	*Tonfed*	ST	NST
+535, 2	1412, 1-2	OSW	wrth bod	NSNT	NSNT
+535, 3	1412, 3-4	OSW	dw i	NSNT	NSNT
+535, 4	1412, 5-14	OSW	wedi bod yn involved efo nhw efo yr peth *um*	NST	ST
+535, 5	1413, 1-4	OSW	er dw i *sure*	NST	NST
+535, 6	1413, 5-11	OSW	dw ddim yn *sure* na *Emyn_Roc_and_Rôl* ta	---	NST
+
+
+536, 1	1414, 1-1	CYN	*Midfield*	---	NST
+
+
+537, 1	1415, 1-4	OSW	ta *Midfield* oedd o	NST	NST
+537, 2	1416, 1-5	OSW	tydw i ddim yn *sure*	NST	NST
+537, 3	1417, 1-7	OSW	raid mi jecio pan a i adre	NSNT	NSNT

@@ -1,0 +1,2642 @@
+
+
+1, 1	1, 1-1	BEN	*Picnic_at_Hanging_Rocks*	---	NST
+
+
+2, 1	2, 1-5	AET	ia ia ella wir *yeah*	---	NST
+
+
+3, 1	3, 1-6	BEN	cofiwch y *film* yn y saith_degau	---	NST
+
+
+4, 1	4, 1-5	AET	dw i cofio yr *film*	NST	NST
+4, 2	6, 1-1	AET	ydw	NSNT	NSNT
+4, 3	6, 2-3	AET	yndw tad	---	NSNT
+
+
+5, 1	7, 1-9	BEN	*yeah* ac *er* y tomennau tomennau llechi yno a	---	NST
+
+
+6, 1	8, 1-3	AET	anffodus dw i	NSNT	NSNT
+6, 2	8, 4-7	AET	dw i yn *um*	NST	NST
+6, 3	8, 8-24	AET	dw i yn cofio ormod o bethau o yr saith_degau heb sôn am y chwech a pumdegau	---	NSNT
+
+
+7, 1	11, 1-6	BEN	*oh* mae yn hyfryd cael y	---	NST
+
+
+8, 1	12, 1-2	AET	*Bad_Day_at_Black_Rock* hefyd	ST	NST
+8, 3	14, 1-1	AET	*Spencer_Tracy*	ST	NST
+8, 4	16, 1-13	AET	a wedyn symud i lle mae pawb yn mynd efo *car* i Pen_Llŷn	---	NST
+
+
+9, 1	17, 1-5	BEN	*oh* *yeah* mae llyn llyn	---	NST
+
+
+10, 1	19, 1-12	AET	*er* lle mae yr y dŵr yn rhedeg allan o llyn *Llanberis*	NST	NST
+10, 2	21, 1-11	AET	a yr Wyddfa er dyna chi yn gweld yn y cefndir	NSNT	NSNT
+10, 3	23, 1-11	AET	a trio cael llun ychydig bach yn wahanol i pawb eraill	NSNT	NSNT
+10, 5	26, 1-5	AET	a amser dydd yn wahanol	---	NSNT
+
+
+11, 1	27, 1-11	BEN	mae yn bron fel gweld rhyw *um* llenni *net* neu rhywbeth	NST	NST
+11, 2	29, 1-6	BEN	*yeah* dach chi yn cael gweld	---	NST
+
+
+12, 1	30, 1-5	AET	ia rywbeth fel yna *yeah*	---	NST
+
+
+13, 1	31, 1-8	BEN	ond mae rhywbeth neu bron mewn fel *filter*	NST	NST
+13, 2	32, 1-4	BEN	*yeah* licio hynny *yeah*	---	NST
+
+
+14, 1	33, 1-18	AET	ac os dach chi mynd yna wahanol amserion y flwyddyn neu ystod y dydd hefyd amser y dydd	NSNT	NSNT
+14, 2	33, 19-23	AET	mae pethau medru newid fel	NSNT	NSNT
+14, 3	33, 24-31	AET	mae yn y tri pedwar llun nesa felly	NSNT	NSNT
+14, 4	36, 1-3	AET	hwnna yn gaea	NSNT	NSNT
+14, 5	37, 1-7	AET	mae yr brwyn wan wedi disgyn wrth_gwrs	---	NSNT
+
+
+15, 1	38, 1-5	BEN	*yeah* o yr un lle	---	NST
+
+
+16, 1	39, 1-4	AET	*er* yn y gwanwyn	---	NST
+
+
+17, 1	40, 1-10	BEN	o y un un o yr union yr un lle	---	NSNT
+
+
+18, 1	41, 1-3	AET	yr un dwytha	NSNT	NSNT
+18, 2	42, 1-5	AET	ia union yr un lle	NSNT	NSNT
+18, 3	44, 1-6	AET	ychydig bach fwy o ddŵr hefyd	---	NSNT
+
+
+19, 1	45, 1-3	BEN	*yeah* ac *er*	---	NST
+
+
+20, 1	46, 1-9	AET	a dyna chi yn gweld eira ben y Wyddfa	NSNT	NSNT
+20, 2	46, 10-11	AET	tro yma	NSNT	NSNT
+20, 3	49, 1-8	AET	*yeah* oedd y llun dwytha yn y gwanwyn	NST	NST
+20, 4	50, 1-4	AET	mae hwn yn y	NSNT	NSNT
+20, 5	50, 5-6	AET	gaea naturiol	NSNT	NSNT
+20, 6	52, 1-17	AET	*um* dach chi *just* about gweld llyn *er* *er* castell *Dolbadarn* yn y pen draw fan yna	NST	ST
+20, 7	52, 18-23	AET	lle mae yr golau yn taro	---	NSNT
+
+
+21, 1	55, 1-8	BEN	*oh* nôl i weld *er* yr un ddiwetha	NST	NST
+21, 2	57, 1-2	BEN	dach chi	SNT	NSNT
+21, 3	59, 1-10	BEN	*oh* yes dach chi yn *just* weld e *yeah* *yeah*	---	ST
+
+
+22, 1	60, 1-3	AET	fyd o wahaniaeth	NSNT	NSNT
+22, 2	61, 1-5	AET	mae yn wyrdd bob man	---	NSNT
+
+
+23, 1	62, 1-7	BEN	*oh* dw i yn licio y ffordd	NST	NST
+23, 2	63, 1-7	BEN	uwchder chi yn union yr un fath	NSNT	NSNT
+23, 3	65, 1-6	BEN	mae yn edrych rhywbeth yn wahanol	NSNT	NSNT
+23, 4	65, 7-9	BEN	dw i meddwl	NSNT	NSNT
+23, 5	66, 1-6	BEN	ond i ddim yn *sure* be	---	NST
+
+
+24, 1	68, 1-12	AET	dw i yn agosach i tu blaen i yr llyn ar hwn	---	NSNT
+
+
+25, 1	69, 1-2	BEN	*just* meddwl	---	NST
+
+
+26, 1	70, 1-6	AET	dw i wedi mynd bellach yn_ôl	---	NSNT
+
+
+27, 1	72, 1-9	BEN	ychydig oherwydd y *oh* *yeah* maint y ddŵr ia	---	NST
+
+
+28, 1	73, 1-6	AET	ar y ar y nesa felly	NSNT	NSNT
+28, 2	73, 7-11	AET	dach chi yn gweld *er*	NST	NST
+28, 3	74, 1-6	AET	am reswm bod yna ddŵr hefyd	---	NSNT
+
+
+29, 1	75, 1-5	BEN	a dw i yn licio	NSNT	NSNT
+29, 2	75, 6-15	BEN	dw i yn licio wahaniaeth y y y y ffurf	NSNT	NSNT
+29, 3	75, 16-18	BEN	mae cymylau hefyd	---	NSNT
+
+
+30, 1	76, 1-2	AET	mae yr	NSNT	NSNT
+30, 2	78, 1-8	AET	mae yr lliwiau wedi newid ychydig bach hefyd	NSNT	NSNT
+30, 3	80, 1-2	AET	mae yna	NSNT	NSNT
+30, 4	80, 3-9	AET	mae yr lliwiau yna yn gryfach a	NSNT	NSNT
+30, 5	80, 10-13	AET	am bod hi yn	NSNT	NSNT
+30, 6	80, 14-15	AET	gaea felly	NSNT	NSNT
+30, 7	81, 1-7	AET	a wsti yr haul yn mynd lawr	NSNT	NSNT
+30, 8	82, 1-6	AET	mae yr haul tueddu newid lliw	SNT	NSNT
+30, 9	84, 1-16	AET	because fath â yr Wyddfa rwan *um* ambell i dro os ydy haul yn mynd lawr	NST	ST
+30, 10	86, 1-7	AET	*er* machlud y haul mewn ffordd felly	NST	NST
+30, 11	86, 9-13	AET	dach chi yn cael lliw	---	NSNT
+
+
+31, 1	89, 1-5	BEN	lliw bron *pink* i awyr	---	NST
+
+
+32, 1	90, 1-7	AET	*pink* ar ar yr eira felly de	---	NST
+
+
+33, 1	91, 1-6	BEN	*yeah* hyfryd bron y ie *apricot*	---	NST
+
+
+34, 1	92, 1-7	AET	*so* mae o yn anodd weithiau *um*	NST	NST
+34, 2	92, 8-12	AET	pan mae rywun yn deud	NSNT	NSNT
+34, 3	93, 1-7	AET	*oh* tydy eira ddim yn lliw felly	NST	NST
+34, 4	94, 1-3	AET	gwyn ydy eira	NSNT	NSNT
+34, 5	95, 1-5	AET	ond mae *lot* yn dibynnu	NST	NST
+34, 6	95, 6-14	AET	be sy yn cael ei luchio tuag ato fo	---	NSNT
+
+
+35, 1	97, 1-3	BEN	holloll *yeah* *yeah*	---	NST
+
+
+36, 1	98, 1-10	AET	wedyn un arall gyda yn hwyr gyda yr nos wan	---	NSNT
+
+
+37, 1	100, 1-5	BEN	mor y tywydd mor dawel	NSNT	NSNT
+37, 2	101, 1-3	BEN	mae yn *oh*	NST	NST
+37, 3	101, 4-6	BEN	mae yn hyfryd	---	NSNT
+
+
+38, 1	102, 1-5	AET	*oh* mae o yn dawel	---	NST
+
+
+39, 1	103, 1-2	BEN	mae fel	NSNT	NSNT
+39, 2	103, 3-7	BEN	mae fe yn fel drych	---	NSNT
+
+
+40, 1	104, 1-3	AET	toes yna ddim	NSNT	NSNT
+40, 2	105, 1-8	AET	does yna ddim hoel dim_byd ar y dŵr	NSNT	NSNT
+40, 3	105, 9-10	AET	nag oes	NSNT	NSNT
+40, 4	107, 1-4	AET	toes yna ddim gwynt	---	NSNT
+
+
+41, 1	108, 1-8	BEN	dach chi *just* angen un un *er* aderyn	NST	NST
+41, 2	110, 1-4	BEN	i glanio neu *er*	---	NST
+
+
+42, 1	111, 1-4	AET	neu hedfan na dim_byd	---	NSNT
+
+
+43, 1	112, 1-3	BEN	hedfan i_ffwrdd *yeah*	NST	NST
+43, 2	113, 1-4	BEN	*oh* mae yn *yeah*	NST	NST
+43, 3	113, 5-7	BEN	mae yn hyfryd	---	NSNT
+
+
+44, 1	114, 1-9	AET	a wedyn tro arall fuan yn bore dw meddwl	---	NSNT
+
+
+45, 1	115, 1-2	BEN	*oh* *wow*	---	NST
+
+
+46, 1	116, 1-3	AET	hollol wahanol eto	---	NSNT
+
+
+47, 1	118, 1-5	BEN	*oh* dw i licio *yeah*	NST	NST
+47, 2	118, 6-12	BEN	dw i licio gwynt yn chwythu atoch	---	NSNT
+
+
+48, 1	119, 1-1	AET	gaea	---	NSNT
+
+
+49, 1	121, 1-9	BEN	a ac *er* *er* eto ffurf y y cymylau	NST	NST
+49, 2	122, 1-4	BEN	*oh* mae yn hyfryd	---	NST
+
+
+50, 1	123, 1-6	AET	mae hwnna yn fuan yn bore	NSNT	NSNT
+50, 2	124, 1-6	AET	wedyn un arall fuan yn bore	---	NSNT
+
+
+51, 1	126, 1-12	BEN	*oh* *oh* efo *yeah* efo yr *er* efo yr *er* yr adar	---	NST
+
+
+52, 1	127, 1-4	AET	y lerych elyrch *yeah*	---	NST
+
+
+53, 1	128, 1-18	BEN	ac y *er* *um* tonnau bach *er* *um* tu ôl i yr *er* i yr i yr adar	---	NST
+
+
+54, 1	131, 1-2	AET	rhein ia	NSNT	NSNT
+54, 2	133, 1-2	AET	a mae	NSNT	NSNT
+54, 3	133, 3-13	AET	mae nhw wedi troi gwynebau tuag ata fi hefyd i ddeud	NSNT	NSNT
+54, 4	134, 1-6	AET	*hello* sut dach chi bore yma	---	NST
+
+
+55, 1	135, 1-2	BEN	da iawn	---	NSNT
+
+
+56, 1	137, 1-2	AET	a disgwyl	---	NSNT
+
+
+57, 1	138, 1-10	BEN	a pa *er* be *er* be ydy yr *er* tymor	---	NST
+
+
+58, 1	139, 1-8	AET	*um* mis yma mis Chwefror ydy o digwydd	NST	NST
+58, 2	139, 9-13	AET	bod yn fuan y bore	---	NSNT
+
+
+59, 1	140, 1-4	BEN	*oh* wir ie *yeah*	---	NST
+
+
+60, 1	142, 1-10	AET	a mae yna ychydig bach o *patches* *um* gwlyb gwlyb	---	NST
+
+
+61, 1	143, 1-6	BEN	oes yna rhywbeth ar y *lens*	---	NST
+
+
+62, 1	144, 1-3	AET	naci ar y	NSNT	NSNT
+62, 2	145, 1-4	AET	*oh* yn bosib hefyd	NST	NST
+62, 3	147, 1-9	AET	na ond dw i meddwl na ar y *slide*	NST	NST
+62, 4	147, 10-11	AET	mae o	NSNT	NSNT
+62, 5	149, 1-14	AET	*um* ychydig bach o oerni *er* a cynhesrwydd a ychydig bach o tamprwydd ella	NST	NST
+62, 6	151, 1-17	AET	ond be o'n i yma ar y pryd o'n i yn disgwyl cael yr haul dod i_fyny	NSNT	NSNT
+62, 7	152, 1-7	AET	a mae yr *lines* yna yn dangos	---	NST
+
+
+63, 1	153, 1-4	BEN	dach chi yn cael	NSNT	NSNT
+63, 2	154, 1-4	BEN	*yeah* wir *yeah* *yeah*	NST	NST
+63, 3	155, 1-3	BEN	dw i yn	NSNT	NSNT
+63, 4	155, 4-11	BEN	dw i wedi cael rhywbeth rhyw rhyw pryd	NSNT	NSNT
+63, 5	157, 1-12	BEN	wrth gyrru ar_draws yr y ffordd osgoi *Felinheli* i_mewn i_mewn i *Bangor*	NST	NST
+63, 6	159, 1-3	BEN	mae rhyw tymor	NSNT	NSNT
+63, 7	159, 4-19	BEN	pan dach chi yn cael wythnos o gweld y haul syth i_lawr un o yr cymoedd	NSNT	NSNT
+63, 8	161, 1-8	BEN	dw i ddim yn *sure* pa yr un	NST	NST
+63, 9	163, 1-6	BEN	ond *just* fel fel dach chi	NST	NST
+63, 10	164, 1-11	BEN	*er* pan dach chi yn cyrraedd *top* y y ffordd osgoi	NST	NST
+63, 11	164, 12-15	BEN	sbïwch i yr *er*	---	NST
+
+
+64, 1	166, 1-7	AET	i weld o tu ôl i chi	---	NSNT
+
+
+65, 1	170, 1-2	BEN	*yeah* *well*	---	NST
+
+
+66, 1	173, 1-7	AET	o'n i gweld hwnna yn bwysig ofnadwy	---	NSNT
+
+
+67, 1	174, 1-6	BEN	a hefyd y haul ei hunan	NSNT	NSNT
+67, 2	175, 1-8	BEN	yn ganol y haul mae yna cerrig bach	---	NSNT
+
+
+68, 1	177, 1-6	AET	wrth_gwrs gynta mae haul yn codi	NSNT	NSNT
+68, 2	177, 7-7	AET	mae	NSNT	NSNT
+68, 3	177, 8-12	AET	mae lliwiau newid hollol eto	NSNT	NSNT
+68, 4	179, 1-5	AET	wedyn i_fyny ar y Wyddfa	NSNT	NSNT
+68, 5	180, 1-17	AET	o'n i efo un neu ddau o bobl o'n i yn mynd â nhw o_gwmpas y mynyddoedd	NSNT	NSNT
+68, 6	181, 1-15	AET	a o'n i redeg cwrsys un tro o o yr *um* *Y_H_A* youth_hostel ar *Ben_y_Pas*	NST	ST
+68, 8	184, 1-16	AET	a mi welais i un yn digwydd y cymylau yma yn dŵad lawr uwchben llyn *Llydaw*	NST	NST
+68, 9	184, 17-19	AET	sy fan yma	NSNT	NSNT
+68, 10	186, 1-10	AET	*Lliwedd* ydy hwn rhan o yr o yr Horseshoe fel	NST	ST
+68, 11	186, 11-15	AET	mae nhw galw fo felly	NSNT	NSNT
+68, 12	188, 1-10	AET	a yr haul *just* tu nôl i cwmwl fan yna	---	NST
+
+
+69, 1	189, 1-6	BEN	ydy yr y y cymylau yn	NSNT	NSNT
+69, 2	189, 7-8	BEN	ydy yr	---	NSNT
+
+
+70, 1	190, 1-17	AET	ie rhedais i mor agos â ag o'n i medru mynd tuag at rhein i cael y	SNT	NSNT
+70, 2	191, 1-13	AET	because dach chi ddim yn cael llawer o o o ddewis rhan amser	NSNT	SNT
+70, 3	191, 14-18	AET	pan mae hwn yn digwydd	NSNT	NSNT
+70, 4	193, 1-7	AET	mae yn digwydd unwaith ella mewn oes	NSNT	NSNT
+70, 5	193, 8-12	AET	os dach chi yn lwcus	NSNT	NSNT
+70, 6	193, 13-16	AET	os dach chi yna	---	NSNT
+
+
+71, 1	195, 1-3	BEN	*er* oedd y	---	NST
+
+
+72, 1	196, 1-7	AET	*so* oedd bob_dim cael ei adael ar_ôl	NST	NST
+72, 2	197, 1-9	AET	dach chi yn mynd yna syth i dynnu o	NSNT	NSNT
+72, 3	198, 1-6	AET	dim ots am neb arall felly	---	NSNT
+
+
+73, 1	199, 1-6	BEN	oedd y y cymylau yn symud	NSNT	NSNT
+73, 2	201, 1-8	BEN	*yeah* rhywbeth am y *video* *yeah* *yeah* *yeah*	---	NST
+
+
+74, 1	202, 1-1	AET	dyna	NSNT	NSNT
+74, 2	202, 2-5	AET	be oedd y *problem*	NST	NST
+74, 3	203, 1-4	AET	*er* oedd o ddim	NST	NST
+74, 4	203, 5-11	AET	wnaethon nhw ddim aros yn hir iawn	NSNT	NSNT
+74, 5	204, 1-7	AET	wnaethon nhw diflannu ar_ôl ychydig o amser	NSNT	NSNT
+74, 6	206, 1-15	AET	a wedyn mae hwn yn lle gwaith cyffredin o ar ochr yr lôn yn *Porthmadog*	---	NST
+
+
+75, 1	208, 1-2	BEN	ia wir	NSNT	NSNT
+75, 2	209, 1-8	BEN	*yeah* *just* tu ôl i i *er* Recordiau_Cob	---	NST
+
+
+76, 1	210, 1-1	AET	ac	NSNT	NSNT
+76, 2	211, 1-3	AET	dyna o *yeah*	NST	NST
+76, 3	213, 1-8	AET	ar y *cob* ei hun ar y lôn	---	NST
+
+
+77, 1	214, 1-8	BEN	*yeah* *yeah* *yeah* ar y *cob* ei hun	NST	NST
+77, 2	215, 1-5	BEN	ar y *cob* ei hunan	---	NST
+
+
+78, 1	218, 1-5	AET	baswn i wrth y modd	NSNT	NSNT
+78, 2	218, 6-8	AET	petasai yr dŵr	NSNT	NSNT
+78, 3	218, 9-11	AET	wedi bod i_fewn	NSNT	NSNT
+78, 4	219, 1-5	AET	basai hwn *er* yn yn	NST	NST
+78, 5	219, 6-6	AET	wchi	NSNT	NSNT
+78, 6	219, 7-14	AET	basai chi weld o yn y dŵr basach	---	NSNT
+
+
+79, 1	220, 1-2	BEN	*oh* mae	NST	NST
+79, 2	220, 3-4	BEN	mae *er*	NST	NST
+79, 3	220, 5-6	BEN	mae *um*	---	NST
+
+
+80, 1	221, 1-2	AET	a mae	NSNT	NSNT
+80, 2	221, 3-5	AET	gynnoch chi *Cnicht*	NST	NST
+80, 3	221, 6-13	AET	does a yr *Moelwyn_Fawr* a *Moelwyn_Fychan* fan yna	NST	NST
+80, 4	223, 1-7	AET	a ond *Cnicht* wrth_gwrs mae *lot* *er*	NST	NST
+80, 5	224, 1-1	AET	mae	NSNT	NSNT
+80, 6	224, 2-5	AET	be dw i ddallt	NSNT	NSNT
+80, 7	224, 6-13	AET	ydy *cnicht* yn Gymraeg gair Cymraeg am knight	NST	ST
+80, 8	225, 1-5	AET	knight of the shining *armour*	NST	NST
+80, 9	227, 1-6	AET	*King* *Arthur* *type* knight felly de	ST	ST
+80, 10	228, 1-2	AET	*so* *Cnicht*	ST	NST
+80, 11	230, 1-3	AET	ydy yr *point*	NST	NST
+80, 12	231, 1-11	AET	a mae yna rei pobl yn galw fo the Welsh *Matterhorn*	---	ST
+
+
+81, 1	232, 1-4	BEN	*oh* holloll *yeah* *yeah*	---	NST
+
+
+82, 1	233, 1-5	AET	am bod o rywbeth debyg	---	NSNT
+
+
+83, 1	234, 1-7	BEN	*yeah* dw i wedi clywed hynny *yeah*	---	NST
+
+
+84, 1	235, 1-4	AET	dim *quite* mor syth	---	NST
+
+
+85, 1	236, 1-6	BEN	*yeah* *yeah* dim mor fawr *oh*	---	NST
+
+
+86, 1	237, 1-8	AET	ond mae nhw rywbeth debyg yn eu *shape*	NST	NST
+86, 2	239, 1-7	AET	ond dw i yn trio dangos golau	NSNT	NSNT
+86, 3	239, 8-13	AET	oedd hynna wrth_gwrs wan mewn llefydd	NSNT	NSNT
+86, 4	241, 1-8	AET	a mae hwn yn llyn *Elsi* uwchben *Betws_y_Coed*	---	NST
+
+
+87, 1	242, 1-7	BEN	*uh_huh* *yeah* dw i yn gwybod *yeah*	---	NST
+
+
+88, 1	243, 1-4	AET	diwrnod heb haul wan	NSNT	NSNT
+88, 2	244, 1-3	AET	diwrnod *right* *flat*	NST	NST
+88, 3	247, 1-1	AET	llonydd	NSNT	NSNT
+88, 4	248, 1-4	AET	niwl yn y cefndir	NSNT	NSNT
+88, 5	250, 1-4	AET	*Moel_Siabod* fan yna hefyd	NST	NST
+88, 6	251, 1-13	AET	ac i trio cael ryw fath o liw i yr i yr llun	---	NSNT
+
+
+89, 1	252, 1-3	BEN	dw i licio	---	NSNT
+
+
+90, 1	253, 1-11	AET	mi elli di edrych ar hwn y lichen neu lichen neu	---	SNT
+
+
+91, 1	254, 1-3	BEN	*right* lichen *yeah*	ST	NST
+91, 2	255, 1-4	BEN	dw i yn licio	---	NSNT
+
+
+92, 1	256, 1-2	AET	lichen *yeah*	---	NST
+
+
+93, 1	257, 1-2	BEN	lichen *yeah*	ST	NST
+93, 2	258, 1-6	BEN	dw i yn licio *um* y	---	NST
+
+
+94, 1	259, 1-9	AET	*so* wnes i concentrate_io ar hwnna i tynnu lliw	NST	ST
+94, 2	261, 1-7	AET	os dach chi yn edrych tuag at	NSNT	NSNT
+94, 3	262, 1-8	AET	wchi fath â ryw las ryw wyrdd felyn	---	NSNT
+
+
+95, 1	263, 1-5	BEN	*yeah* *oh* mae yn hyfryd	NST	NST
+95, 2	264, 1-5	BEN	*yeah* mae cannoedd o blynyddoedd	NST	NST
+95, 3	265, 1-13	BEN	*yeah* mae *er* meddwl yr un ar y *er* lawr ar y dde	NST	NST
+95, 4	267, 1-8	BEN	*oh* efallai mai rhywbeth fel cant blwyddyn oed	---	NST
+
+
+96, 1	268, 1-1	AET	bosib	---	NSNT
+
+
+97, 1	269, 1-8	BEN	a dw i yn licio hefyd y *um*	NST	NST
+97, 2	270, 1-9	BEN	na mae yn tyfu yn yn araf araf iawn	---	NSNT
+
+
+98, 1	271, 3-4	AET	mae o	---	NSNT
+
+
+99, 1	273, 1-5	BEN	dw i licio y reflection	SNT	SNT
+99, 2	274, 1-6	BEN	dw i yn licio y ffordd	NSNT	NSNT
+99, 3	274, 7-21	BEN	dach chi yn *just* yn gweld *um* y *rocks* yn mynd lawr o_dan y ddŵr	---	NST
+
+
+100, 1	275, 1-8	AET	*mmm* *oh* *yeah* *just* o_dan fan yna *yeah*	NST	NST
+100, 2	277, 1-6	AET	*mmm* ac o_dan fan yna hefyd	---	NST
+
+
+101, 1	278, 1-4	BEN	*yeah* *oh* hwnnw *yeah*	NST	NST
+101, 2	279, 1-12	BEN	mae *just* dipyn o patrwm neu *er* rhywbeth i gweld *just* o_dan	---	NST
+
+
+102, 1	280, 1-9	AET	*mmm* rywbeth i torri fyny y yr lle *blank*	NST	NST
+102, 2	282, 1-8	AET	wedyn llyn *um* un o llynnoedd o_dan *Cnicht*	NST	NST
+102, 3	284, 1-14	AET	a Wyddfa yn pen draw fel dach chi weld a *Lliwedd* yn fan yna	NST	NST
+102, 4	286, 1-3	AET	*um* llyn bychan	NST	NST
+102, 5	287, 1-4	AET	*Llyn_yr_Adar* neu llyn *Aredig*	NST	NST
+102, 6	288, 1-6	AET	mae yna ryw enw arno fo	NSNT	NSNT
+102, 7	289, 1-12	AET	llyn mor fychan does yna ddim llawer o neb mynd ato fo	NSNT	NSNT
+102, 8	291, 1-6	AET	a wedyn i fod yn *honest*	NST	NST
+102, 9	292, 1-6	AET	dwn i ddim faint o weithiau	NSNT	NSNT
+102, 10	292, 7-8	AET	dw i	NSNT	NSNT
+102, 11	292, 9-11	AET	wedi bod yma	NSNT	NSNT
+102, 12	293, 1-3	AET	ond bob tro	NSNT	NSNT
+102, 13	293, 4-6	AET	dw i yna	NSNT	NSNT
+102, 14	293, 7-11	AET	does yna neb arall yna	NSNT	NSNT
+102, 15	294, 1-5	AET	tydy o ddim yn le	NSNT	NSNT
+102, 16	294, 6-10	AET	basai rywun yn mynd because	SNT	SNT
+102, 17	294, 11-24	AET	dydy o ddim yn le fath â mynd i_fyny yr Wyddfa neu fyny ben	---	NSNT
+
+
+103, 1	295, 1-3	BEN	edrych fel *yeah*	NST	NST
+103, 2	297, 1-5	BEN	*oh* na dw i *yeah*	NST	NST
+103, 3	297, 6-24	BEN	dw i licio *er* y cylch o o *Beddgelert* i i *Nantmor* ac i_fyny a lawr ger *um* *Sygun*	---	NST
+
+
+104, 1	298, 1-2	AET	lle *um*	NST	NST
+104, 2	299, 1-3	AET	dyna o *yeah*	NST	NST
+104, 3	301, 1-3	AET	*oh* mae hwn	NST	NST
+104, 4	302, 1-3	AET	ia mewn ffordd	---	NSNT
+
+
+105, 1	303, 1-3	BEN	ie bron *yeah*	---	NST
+
+
+106, 1	304, 1-5	AET	mae yna lôn *er* *Nantmor*	NST	NST
+106, 2	304, 6-12	AET	ydy hwn tu nôl i fan yma	NSNT	NSNT
+106, 3	306, 1-8	AET	a mae yna hwn rhedeg lawr i *Nantmor*	NST	NST
+106, 4	307, 1-8	AET	y lôn bychan sy mynd trwy yr cefndir	---	NSNT
+
+
+107, 1	309, 1-5	BEN	os dach chi yn redeg	NSNT	NSNT
+107, 2	309, 6-19	BEN	os dach chi yn cerdded i_fyny i_fyny *Nantmor* yn gweld y hen pethau mwyngloddio	---	NST
+
+
+108, 1	311, 1-2	AET	dyna o	---	NSNT
+
+
+109, 1	312, 1-9	BEN	*yeah* a a yr y ropeway y peiriannau ropeway	---	ST
+
+
+110, 1	313, 1-5	AET	mae yna ddigon ffordd yna	NSNT	NSNT
+110, 2	315, 1-6	AET	a wedyn o'n i licio ffordd	---	NSNT
+
+
+111, 1	316, 1-2	BEN	*oh* *wow*	---	NST
+
+
+112, 1	317, 1-9	AET	*er* dwn i ddim os na yr glacial *effect*	ST	ST
+112, 2	317, 10-12	AET	ydy hwn i_gyd	NSNT	NSNT
+112, 3	318, 1-2	AET	ond mae	NSNT	NSNT
+112, 4	318, 3-7	AET	mae *Cnicht* yn fan yna	NST	NST
+112, 5	320, 1-12	AET	a wedyn mae yna ryw *hint* o ryw lliw oren yn hwn	NST	NST
+112, 6	322, 1-6	AET	fel dw i yn gweld ar	NSNT	NSNT
+112, 7	323, 1-6	AET	wrth_gwrs fel dach chi yn gweld	NSNT	NSNT
+112, 8	323, 7-14	AET	mae wedi cael ei naddu yn_tydy efo rywbeth	---	NSNT
+
+
+113, 1	324, 1-6	BEN	*yeah* ydy posib i weld *er*	---	NST
+
+
+114, 1	325, 1-5	AET	dw i meddwl na rhew	NSNT	NSNT
+114, 2	325, 6-7	AET	ydy o	NSNT	NSNT
+114, 3	327, 1-6	AET	sy wedi wneud o canrifoedd yn_ôl	---	NSNT
+
+
+115, 1	328, 1-6	BEN	dw i ddim ry *sure* os	NST	NST
+115, 2	328, 7-20	BEN	os dach chi yn gweld y pethau glacial yno neu y cerrig eu hunain	NSNT	SNT
+115, 3	329, 1-2	BEN	oes yna	NSNT	NSNT
+115, 4	329, 3-10	BEN	oes yna chi yn cael gweld y y	NSNT	NSNT
+115, 5	329, 11-18	BEN	lle mae y cerrig wedi cael eu crafu	---	NSNT
+
+
+116, 1	330, 1-3	AET	bosib *er* bod	NST	NST
+116, 2	332, 1-6	AET	mae dim yn y llun yma	NSNT	NSNT
+116, 3	332, 7-18	AET	mae gyn i un llun yn yr un ardal o_gwmpas fan yna	NSNT	NSNT
+116, 4	332, 19-25	AET	os dw i yn cofio yn iawn	NSNT	NSNT
+116, 6	335, 1-5	AET	*um* dw i ddim wedi	NST	NST
+116, 7	335, 6-11	AET	roid o i_fewn heno i ddangos	NSNT	NSNT
+116, 8	336, 1-19	AET	ond mae gyn i rywbeth debyg fath â ryw hoel *um* dim yn edrych yn naturiol mewn un ffordd	NST	NST
+116, 9	338, 1-1	AET	wchi	NSNT	NSNT
+116, 10	339, 1-2	AET	a wedyn	NSNT	NSNT
+116, 11	341, 1-8	AET	mae rhein *right* agos i yr llyn dwytha	NST	NST
+116, 12	342, 1-6	AET	llyn *um* *Cerrig_y_Myllt* neu llynnau *Cerrig_y_Myllt*	ST	NST
+116, 13	344, 1-11	AET	because mae yna lyn arall *just* is lawr o fan yna	NST	ST
+116, 14	345, 1-5	AET	a mae yr Wyddfa fel	NSNT	NSNT
+116, 15	345, 6-11	AET	dach chi gweld pen draw eto	NSNT	NSNT
+116, 16	347, 1-13	AET	*um* *rough* *translation* Saesneg *er* lake of the wild *rocks* llynnau *Cerrig_y_Myllt* de	---	ST
+
+
+117, 1	348, 1-1	BEN	wir	---	NSNT
+
+
+118, 1	349, 1-6	AET	myllt pan mae rywun yn gwylltio	---	NSNT
+
+
+119, 1	351, 1-6	BEN	*oh* myllt *er* *um* myllt a	---	NST
+
+
+120, 1	352, 1-4	AET	mae *right* o_dan *Cnicht*	NST	NST
+120, 2	352, 5-7	AET	ydy rhein eto	---	NSNT
+
+
+121, 1	353, 1-3	BEN	ia wir *yeah*	---	NST
+
+
+122, 1	354, 1-6	AET	*er* fel dach chi yn gweld	NST	NST
+122, 2	354, 7-10	AET	mae yna hoel glaw	NSNT	NSNT
+122, 3	355, 1-1	AET	wchi	NSNT	NSNT
+122, 4	355, 2-6	AET	mae yna ddŵr ar ben	NSNT	NSNT
+122, 5	357, 1-5	AET	y brwyn yn fan yna	NSNT	NSNT
+122, 6	358, 1-9	AET	*well* mae yna ogof bach tu nôl *um* y	NST	NST
+122, 7	358, 10-14	AET	lle dw i yn sefyll	NSNT	NSNT
+122, 8	358, 15-17	AET	lle dw i	NSNT	NSNT
+122, 9	358, 18-21	AET	wedi bod yn cysgodi	NSNT	NSNT
+122, 10	359, 1-6	AET	ond be fydda i yn wneud	NSNT	NSNT
+122, 11	359, 7-13	AET	fydda i mynd â *tripod* *right* gry	NST	NST
+122, 12	361, 1-12	AET	*camera* ar ei ben o a roi *bag* *plastic* dros y *camera*	NST	NST
+122, 13	363, 1-14	AET	a wedyn gynta mae stopio bwrw wrth_gwrs ga i ddod allan o yr cysgod	NSNT	NSNT
+122, 15	365, 1-5	AET	tynnu *bag* *plastic* o yna	---	NST
+
+
+123, 1	366, 1-2	BEN	clicio ffwrdd	---	NSNT
+
+
+124, 1	367, 1-10	AET	a *click* because mae wedi cael ei fframio yn barod	NST	ST
+124, 2	369, 1-4	AET	a wrth_gwrs dyna pam	NSNT	NSNT
+124, 3	369, 5-17	AET	mae yna ychydig bach o oleuni yn taro yr dŵr am y reswm	NSNT	NSNT
+124, 4	369, 18-20	AET	dw i wedi	NSNT	NSNT
+124, 5	371, 1-7	AET	mae yr cymylau yma wedi pasio fel	NSNT	NSNT
+124, 6	371, 8-11	AET	dach chi yn gweld	---	NSNT
+
+
+125, 1	374, 1-13	BEN	dach chi yn gweld ychydig ar y chwith *er* *er* y cerrig hefyd	NST	NST
+125, 2	376, 1-6	BEN	mae yn *just* dipyn o reflect_io	ST	ST
+125, 3	376, 7-8	BEN	you know	---	NSNT
+
+
+126, 1	377, 1-3	AET	ia dyna o	---	NSNT
+
+
+127, 1	378, 1-6	BEN	disgleirio ychydig yn y haul *yeah*	---	NST
+
+
+128, 1	379, 1-1	AET	wrth_gwrs	NSNT	NSNT
+128, 2	380, 1-2	AET	mae yn	NSNT	NSNT
+128, 3	380, 3-11	AET	roid amser fi gael paned o *goffee* hefyd *er*	NST	NST
+128, 4	380, 12-16	AET	pan dw i yn cysgodi	---	NSNT
+
+
+129, 1	382, 1-4	BEN	*oh* paned o *goffee*	NST	NST
+129, 2	384, 1-4	BEN	gofynnwch am y *waitress*	NST	NST
+129, 3	385, 1-4	BEN	mas o *coffee* bach	---	NST
+
+
+130, 1	386, 1-3	AET	*well* ia *yeah*	NST	NST
+130, 3	388, 1-5	AET	a wedyn mae hwn *um*	---	NST
+
+
+131, 1	389, 1-1	RES	0	---	NSNT
+
+
+132, 1	390, 1-7	BEN	*yeah* cyn ni fynd yn oer *yeah*	---	NST
+
+
+133, 1	391, 1-7	AET	mae hwn ar ben *er* crib *er*	NST	NST
+133, 2	391, 8-10	AET	sy rhedeg o	NSNT	NSNT
+133, 3	391, 11-20	AET	sut fedra i ddeud wan o *Nantlle* i_fyny i *Moel_Hebog*	NST	NST
+133, 4	392, 1-7	AET	a *Moel_Hebog* ydy yr mynydd uwchben *Beddgelert*	---	NST
+
+
+134, 1	393, 1-4	BEN	o *Nantlle* o *Nantlle*	NST	NST
+134, 2	394, 1-9	BEN	*oh* *so* bron ar_draws y y y y ridge	---	ST
+
+
+135, 1	396, 1-5	AET	dyna o *right* ar *top*	NST	NST
+135, 2	398, 1-11	AET	a mae yna *just* drost o yr ochr yn fan yma	NST	NST
+135, 3	398, 12-15	AET	mae yna ogof *Owain_Glyndŵr*	NST	NST
+135, 4	400, 1-2	AET	lle dw	NSNT	NSNT
+135, 5	400, 3-7	AET	lle dw i yn dallt	NSNT	NSNT
+135, 6	400, 8-16	AET	bod o wedi cuddiad oddi_wrth y milwyr *er* Saeson	NST	NST
+135, 7	400, 17-26	AET	ddoth draw i edrych ar ei ôl amdano fo felly	NSNT	NSNT
+135, 8	401, 1-10	AET	*so* *just* dros yr ochr mae yna ryw ogof fach	NST	NST
+135, 9	402, 1-10	AET	dydy o ddim mor hawdd i fynd ato fo fel	NSNT	NSNT
+135, 10	402, 11-14	AET	dw i yn dallt	NSNT	NSNT
+135, 11	403, 1-3	AET	dw i ddim	NSNT	NSNT
+135, 12	403, 4-6	AET	wedi bod eto	NSNT	NSNT
+135, 13	404, 1-3	AET	mae yr mab	NSNT	NSNT
+135, 14	404, 4-5	AET	wedi bod	NSNT	NSNT
+135, 15	405, 1-4	AET	oedd o yn deud	NSNT	NSNT
+135, 16	405, 5-10	AET	bod o yn resymol hawdd cyn_belled	NSNT	NSNT
+135, 17	405, 11-17	AET	dach chi ddim yn ofn uchder felly	NSNT	NSNT
+135, 18	405, 18-19	AET	de achos	NSNT	NSNT
+135, 19	405, 20-23	AET	mae o ar ochr	NSNT	NSNT
+135, 20	407, 1-7	AET	fel dw i yn dallt ar_ôl darllen	NSNT	NSNT
+135, 21	407, 8-19	AET	mae o tua chwech troedfedd o uchder a tua un_ar_bymtheg troedfeddi i_fewn	NSNT	NSNT
+135, 22	409, 1-5	AET	*um* yn *right* sych fel	NST	NST
+135, 23	409, 6-9	AET	dw i yn dallt	---	NSNT
+
+
+136, 1	410, 1-2	BEN	diddorol *yeah*	---	NST
+
+
+137, 1	411, 1-9	AET	ond mae raid fi ffeindio amser i fynd yna	NSNT	NSNT
+137, 2	412, 1-11	AET	ond wan i fi mae yn fwy pwysig ar y pryd	NSNT	NSNT
+137, 3	412, 12-19	AET	pan dynnais i hwn i ddisgwyl y golau	NSNT	NSNT
+137, 4	413, 1-15	AET	*um* a dw i yn gweld hwn fath â *shape* doughnut yn fan yna *yeah*	NST	ST
+137, 5	413, 16-20	AET	sy wneud chi isio bwyd	---	NSNT
+
+
+138, 1	414, 1-10	BEN	*yeah* *oh* na mae yn edrych yn hyfryd *yeah* *yeah*	---	NST
+
+
+139, 1	415, 1-5	AET	ond dach chi yn gweld	NSNT	NSNT
+139, 2	415, 6-14	AET	sut mae rhein wedi plygu drosodd efo yr tywydd	NSNT	NSNT
+139, 3	417, 1-16	AET	*um* gwahaniaeth rwng y gwair yn y tu blaen a yr gwair yn y cefndir yna	---	NST
+
+
+140, 1	418, 1-4	BEN	gwair tu ôl a	---	NSNT
+
+
+141, 1	419, 1-2	AET	mae hwnna	NSNT	NSNT
+141, 2	419, 3-13	AET	baswn i ddeud wedi cael ei cropio lawr efo yr defaid	NSNT	NSNT
+141, 3	420, 1-10	AET	ond am ryw reswm dydy hwn ddim cael ei dwtsiad	NSNT	NSNT
+141, 4	421, 1-5	AET	ella bod yna flas wahanol	---	NSNT
+
+
+142, 1	422, 1-21	BEN	hefyd mae yna wahaniaeth rhwng *um* manylion y cerrig yn y chwith yn y yn y yn y blaendir a wedyn	NST	NST
+142, 2	422, 22-27	BEN	dach chi yn *yeah* manylion fach	---	NST
+
+
+143, 1	424, 2-3	AET	mae yna	NSNT	NSNT
+143, 2	424, 4-5	AET	mae yna	---	NSNT
+
+
+144, 1	425, 1-6	BEN	*yeah* a wedyn dach chi yn	NST	NST
+144, 2	425, 7-22	BEN	sbïwch tu ôl y y yr yn y cefn a yr tirlun o y mynyddoedd mawr	---	NSNT
+
+
+145, 1	426, 1-1	AET	wrth_gwrs	NSNT	NSNT
+145, 2	428, 1-9	AET	yn y cefndir ia a yr cymylau uwchben y	---	NSNT
+
+
+146, 1	429, 1-7	BEN	*yeah* na licio hynny hefyd *yeah* *yeah*	---	NST
+
+
+147, 1	430, 1-4	AET	y Wyddfa wrth_gwrs sy	NSNT	NSNT
+147, 2	430, 5-8	AET	dan y cymylau yna	---	NSNT
+
+
+148, 1	431, 1-3	BEN	*yeah* wir *yeah*	---	NST
+
+
+149, 1	432, 1-5	AET	ond mae yr pwll yma	NSNT	NSNT
+149, 3	435, 1-4	AET	*so* dydy o ddim	NST	NST
+149, 4	435, 5-11	AET	dydy o ddim yn pwll mawr ofnadwy	NSNT	NSNT
+149, 5	436, 1-7	AET	ond mae yna rywbeth i tynnu sylw	NSNT	NSNT
+149, 6	437, 1-19	AET	dach chi yn cael ychydig bach o o yr o yr brwyn yn taro ar y dŵr fan yna	SNT	NSNT
+149, 7	439, 1-3	AET	reflection felly de	NSNT	SNT
+149, 8	441, 1-1	AET	wedyn	NSNT	NSNT
+149, 10	443, 1-3	AET	hwn ydy yr	NSNT	NSNT
+149, 11	444, 1-13	AET	*er* mewn ffordd hwn ydy yr doughnut yr hanner o'n i sôn gynnau	NST	ST
+149, 12	446, 1-9	AET	a dw i yn edrych wan tuag at *Foel_Hebog*	---	NST
+
+
+150, 1	447, 1-5	BEN	dw i yn licio ffordd	NSNT	NSNT
+150, 2	447, 6-8	BEN	mae yr *um*	NST	NST
+150, 3	447, 9-15	BEN	mae wal yn arwain eich llygaid lawr	---	NSNT
+
+
+151, 1	448, 1-2	AET	a hwn	NSNT	NSNT
+151, 2	449, 1-2	AET	i yr	---	NSNT
+
+
+152, 1	450, 1-4	BEN	*yeah* mae yn hyfryd	NST	NST
+152, 2	452, 1-4	BEN	neu composition da iawn	NSNT	SNT
+152, 3	453, 1-12	BEN	na nid y wal hwnna na *just* y wal yn y cefndir	---	NST
+
+
+153, 1	454, 1-1	AET	hwn	---	NSNT
+
+
+154, 1	455, 1-6	BEN	a *just* yn yn yn yn	---	NST
+
+
+155, 1	456, 1-5	AET	ia *well* hwn ydy o	NST	NST
+155, 2	457, 1-13	AET	yr un un wal yma *just* mynd *right* lawr a dilyn *right* i_fyny	---	NST
+
+
+156, 1	458, 1-6	BEN	*oh* yr un un wal *yeah*	---	NST
+
+
+157, 1	461, 1-3	AET	*oh* mae yna	NST	NST
+157, 2	461, 4-6	AET	na mae yna	---	NSNT
+
+
+158, 1	462, 1-3	BEN	*just* y ffordd	---	NST
+
+
+159, 1	463, 1-6	AET	mae yna ddyfnder yn fan yna	---	NSNT
+160, 2	466, 1-5	BEN	*oh* *yeah* na hyfryd hyfryd	---	NST
+
+
+161, 1	467, 1-6	AET	a wrth_gwrs dach chi yn gweld	NSNT	NSNT
+161, 2	467, 7-8	AET	mae yr	NSNT	NSNT
+161, 3	469, 1-5	AET	yn y dŵr hefyd de	NSNT	NSNT
+161, 4	470, 1-11	AET	mae hwnna i_gyd o fan yna yn yn y dŵr hefyd	NSNT	NSNT
+161, 5	471, 1-12	AET	*um* oedd hwnna yn bwysig yn y yn y composition mewn ffordd	NST	ST
+161, 6	473, 1-4	AET	wedyn mae fath â	NSNT	NSNT
+161, 7	473, 5-9	AET	oeddwn i yn sôn gynnau	NSNT	NSNT
+161, 8	473, 10-16	AET	os ydy yr haul yn mynd lawr	NSNT	NSNT
+161, 9	473, 17-18	AET	a mae	NSNT	NSNT
+161, 10	473, 19-27	AET	gynnoch chi yr *um* y gwair yma yn y	NST	NST
+161, 11	473, 28-28	AET	gaea	NSNT	NSNT
+161, 12	473, 29-37	AET	mae yn wyn *um* mwya mwy na dim_byd arall	NST	NST
+161, 13	475, 1-7	AET	ond wrth_gwrs pan mae haul mynd lawr	NSNT	NSNT
+161, 14	475, 8-18	AET	os ydy o yn lluchio yr haul at gwyn fath â	NSNT	NSNT
+161, 15	475, 19-31	AET	dan ni wan edrych ar y *screen* yma *er* lluchio lliw arno fo	NST	NST
+161, 16	475, 32-38	AET	mae mynd i newid ei liw a	NSNT	NSNT
+161, 17	475, 39-39	AET	dyna	NSNT	NSNT
+161, 18	475, 40-46	AET	be sy digwydd i yr gwair yma	NSNT	NSNT
+161, 19	477, 1-8	AET	dach chi yn cael y lliw hyfryd yma	NSNT	NSNT
+161, 20	478, 1-5	AET	ac wrth_gwrs dyna o *Foel_Hebog*	---	NST
+
+
+162, 1	479, 1-5	BEN	*yeah* mae yn *right* *yeah*	NST	NST
+162, 2	479, 6-8	BEN	mae yn edrych	---	NSNT
+
+
+163, 1	480, 1-5	AET	*er* hwnna ydy yr un	NST	NST
+163, 2	481, 1-9	AET	ar ben y ridge yna oedden ni *just* wan	NST	ST
+163, 3	483, 1-4	AET	yn y *shot* dwytha	NST	NST
+163, 4	484, 1-10	AET	o'n i edrych i_fyny y wal sy mynd i_fyny hwnna	---	NSNT
+
+
+164, 1	486, 1-3	BEN	dw i ddim	NSNT	NSNT
+164, 2	486, 4-6	BEN	dw i ddim	NSNT	NSNT
+164, 3	486, 7-13	BEN	wedi bod i_fyny *er* yn yr ardal	---	NST
+
+
+165, 1	487, 1-8	AET	wrth_gwrs mae gyn i ychydig bach o imagination	SNT	SNT
+165, 2	488, 1-7	AET	oedd hi yn sôn am ffilmiau gynnau	NSNT	NSNT
+165, 3	489, 1-6	AET	*um* edrych tuag at y ffilmiau	NST	NST
+165, 4	489, 7-7	AET	sy	NSNT	NSNT
+165, 5	489, 8-12	AET	wedi bod yn yr wythdegau	NSNT	NSNT
+165, 6	490, 1-3	AET	*um* *Close_Encounters_of_the_Third_Kind* de	ST	NST
+165, 7	492, 1-1	AET	*Spielberg*	ST	NST
+165, 8	493, 1-2	AET	dyna o	NSNT	NSNT
+165, 9	493, 3-12	AET	ei mothership yn dŵad uwch uwchben y mynydd fan yna	---	SNT
+
+
+166, 1	494, 1-4	BEN	*yeah* bron *yeah* *yeah*	---	NST
+
+
+167, 1	496, 1-10	AET	a wedyn edrych lawr o yr ochrau *Gwynant* llyn *Gwynant*	---	NST
+
+
+168, 1	497, 1-1	BEN	*uh*	---	NST
+
+
+169, 1	499, 1-2	AET	yr *Aran*	---	NST
+
+
+170, 1	500, 1-5	BEN	yes dw i yn gweld	NSNT	SNT
+170, 2	501, 1-5	BEN	*yeah* dw i wedi *yeah*	NST	NST
+170, 3	501, 6-11	BEN	dw i wedi cael y y	---	NSNT
+
+
+171, 1	502, 1-9	AET	*um* mae yna nifer o hen bythynnod fel hyn	NST	NST
+171, 2	504, 1-13	AET	tai *er* *well* hafod basen nhw yn galw nhw mor uchel â hyn	---	NST
+
+
+172, 1	505, 1-4	BEN	*yeah* wir *yeah* *yeah*	---	NST
+
+
+173, 1	506, 1-5	AET	because oedd hendre yn y	NSNT	SNT
+173, 2	506, 6-11	AET	gaea wrth_gwrs *er* yn y gwaelodion	---	NST
+
+
+174, 1	507, 1-4	BEN	lawr y waelod *yeah*	---	NST
+
+
+175, 1	508, 1-8	AET	ac yn yr ha *um* edrych ar_ôl defaid	NST	NST
+175, 2	508, 9-16	AET	oedden nhw mynd i_fyny i yr tŷ bach	NSNT	NSNT
+175, 3	508, 17-21	AET	oedden nhw galw yr hafod	NSNT	NSNT
+175, 4	510, 1-3	AET	ac *um* dyna	NST	NST
+175, 5	510, 4-7	AET	be oedd hwn un	NSNT	NSNT
+175, 6	510, 8-8	AET	tro	NSNT	NSNT
+175, 7	511, 1-7	AET	anffodus dim to ddim mwy arno fo	NSNT	NSNT
+175, 8	512, 1-13	AET	a mae yna llwybr yn dod o yr gwaelodion i_fyny heibio ffordd hyn	NSNT	NSNT
+175, 9	513, 1-5	AET	a dw i yn amau	NSNT	NSNT
+175, 10	513, 6-23	AET	bod o yn *um* lôn bach gyhoeddus i i i mynd â gwartheg a defaid a ballu drosodd	NST	NST
+175, 11	515, 1-4	AET	wchi *drovers* road felly	---	ST
+
+
+176, 1	516, 1-4	BEN	*yeah* holloll *yeah* *yeah*	---	NST
+
+
+177, 1	517, 1-6	AET	dw i bron yn *safe* na	NST	NST
+177, 2	517, 7-7	AET	dyna	NSNT	NSNT
+177, 3	517, 8-11	AET	be oedd o un	NSNT	NSNT
+177, 4	517, 12-12	AET	tro	SNT	NSNT
+177, 6	520, 1-5	AET	because mae o *right* llydan	NST	ST
+177, 7	521, 1-9	AET	a mae yn hawdd cael hyd iddo fo unwaith	NSNT	NSNT
+177, 8	521, 10-13	AET	dach chi yn gwybod	NSNT	NSNT
+177, 9	521, 14-20	AET	lle mae yn cychwyn ar yr lôn	NSNT	NSNT
+177, 10	521, 21-29	AET	sy mynd lawr o *Pen_y_Gwryd* i ochr y llyn	---	NST
+
+
+178, 1	523, 1-3	BEN	*yeah* dan ni	---	NST
+
+
+179, 1	524, 1-14	AET	tua tri chwarter ffordd lawr y y yr allt ddewch chi ar_draws ryw ryw	NSNT	NSNT
+179, 2	524, 15-20	AET	lle fysech chi medru parcio *car*	NST	NST
+179, 3	525, 1-12	AET	a drost y ffordd mae yna sign_post yn deud *public* path felly	NST	ST
+179, 4	527, 1-14	AET	a unwaith dach chi fan yna chi yn cael hyd i llwybr *right* llydan	NST	NST
+179, 5	529, 1-9	AET	a mae yn mynd drosodd wedyn i *Dolwyddelan* i	NST	NST
+179, 6	529, 10-19	AET	lle mae yr castell *er* *Dolwyddelan* yn *um* Crimea_Pass felly	---	ST
+
+
+180, 1	530, 1-5	BEN	*oh* *yeah* yes *yeah* *yeah*	ST	NST
+180, 3	533, 1-7	BEN	pan dach chi yn cyrraedd y copa	NSNT	NSNT
+180, 4	533, 8-11	BEN	mae yna llyn bach	NSNT	NSNT
+180, 5	533, 12-16	BEN	lle mae pobl yn pysgota	NSNT	NSNT
+180, 6	536, 1-6	BEN	*yeah* o'n ni yn cerdded o_gwmpas	---	NST
+
+
+181, 1	537, 1-2	AET	llyn *Dywarchen*	---	NST
+
+
+182, 1	538, 1-9	BEN	*er* dw i ddim yn *sure* am yr enw	NST	NST
+182, 4	543, 1-10	BEN	o'n ni yn cerdded i_fyny yn yno *um* dydd Dolig	NST	NST
+182, 5	545, 1-5	BEN	oedd e yn hyfryd *yeah*	NST	NST
+182, 6	545, 6-15	BEN	oedd e yn hyfryd dydd dydd dydd da dydd Dolig	NSNT	NSNT
+182, 7	547, 1-4	BEN	*er* oedd e *yeah*	NST	NST
+182, 9	549, 1-6	BEN	a *just* yn hyfryd a mor	---	NST
+
+
+183, 1	550, 1-4	AET	ella fyddwch chi lwcus	NSNT	NSNT
+183, 2	551, 1-10	AET	ella welwch chi llun a llun ohono fo munud ella	---	NSNT
+
+
+184, 1	552, 1-3	BEN	*yeah* mor unig	NST	NST
+184, 2	553, 1-5	BEN	*right* da iawn *yeah* *o_k*	---	NST
+
+
+185, 1	554, 1-4	AET	mae yna *jance* da	---	NST
+
+
+186, 1	555, 1-4	BEN	*er* lawr yn *er*	---	NST
+
+
+187, 1	556, 1-3	AET	*Gwynant* ydy hwn	---	NST
+
+
+188, 1	557, 1-4	BEN	*yeah* *Gwynant* *yeah* na	---	NST
+
+
+189, 1	558, 1-14	AET	dan ni wedi edrych i_lawr o uchder gynnau yn y y *slide* cyn hwn	NST	NST
+189, 2	560, 1-7	AET	dan ni lawr wrth ochr y llyn	NSNT	NSNT
+189, 3	560, 8-9	AET	tro yma	NSNT	NSNT
+189, 4	562, 1-11	AET	a dw i wedi defnyddio y yr y yr afon bychan	NSNT	NSNT
+189, 5	562, 12-26	AET	sy dod i_fewn i yr llyn i arwain chi fewn i yr llun mewn ffordd	NSNT	NSNT
+189, 6	563, 1-12	AET	a hwnna ydy yr *er* yr yn y pen draw fan yna	---	NST
+
+
+190, 1	565, 1-12	BEN	yn y y hydref baswn i meddwl or or diwedd y haf	---	SNT
+
+
+191, 1	566, 1-3	AET	ia mae o	---	NSNT
+
+
+192, 1	567, 1-8	BEN	*yeah* mae dailiau yn dechrau troi i *brown*	---	NST
+
+
+193, 1	568, 1-3	AET	mae o diwedd	NSNT	NSNT
+193, 2	569, 1-4	AET	mae o yn dechrau	NSNT	NSNT
+193, 3	570, 1-10	AET	mae yna wyrdd dal i fod o_gwmpas yn yr coed	NSNT	NSNT
+193, 5	574, 1-4	AET	baswn i yn deud	NSNT	NSNT
+193, 6	574, 5-10	AET	bod o diwedd mis Awst ballu	NSNT	NSNT
+193, 7	576, 1-3	AET	o_gwmpas adeg yna	---	NSNT
+
+
+194, 1	579, 1-4	BEN	ac yn dawel eto	---	NSNT
+
+
+195, 1	580, 1-3	AET	wedyn mae hwn	NSNT	NSNT
+195, 2	580, 4-15	AET	mae *right* lle *right* beryg i i grwydro i fod yn *honest*	NST	NST
+195, 3	581, 1-11	AET	mae o yn agos i *er* Conwy_Falls yn agos i *Betws_y_Coed*	NST	ST
+195, 4	584, 1-5	AET	fel dach chi yn gweld	NSNT	NSNT
+195, 5	584, 6-9	AET	mae yna rhew dangos	NSNT	NSNT
+195, 6	584, 10-19	AET	bod hi yn oer *er* dal i fod yn y	NST	NST
+195, 7	584, 20-21	AET	gaea felly	NSNT	NSNT
+195, 8	587, 1-6	AET	*er* mewn ffordd o'n i lwcus	NST	NST
+195, 9	588, 1-14	AET	toedd yna ddim *lot* o ddŵr *er* yn dod trwy yr yr ochrau yna	---	NST
+
+
+196, 1	589, 1-4	BEN	*yeah* a mae *yeah*	NST	NST
+196, 2	589, 5-6	BEN	mae yn	---	NSNT
+
+
+197, 1	590, 1-8	AET	because mae *right* serth i fod yn *honest*	---	ST
+
+
+198, 1	591, 1-8	BEN	*effect* da yr y dŵr yn symud hefyd	---	NST
+
+
+199, 1	592, 1-10	AET	*oh* dw i licio yr *um* y cerrig yma wan	NST	NST
+199, 2	593, 1-7	AET	*shot* nesa yn dangos mwy dw meddwl	NST	NST
+199, 3	595, 1-3	AET	*yeah* edrych i_fyny	NST	NST
+199, 4	596, 1-6	AET	ond dw i licio yr siapiau	NSNT	NSNT
+199, 5	596, 7-10	AET	sy yn y dŵr	---	NSNT
+
+
+200, 1	597, 1-5	BEN	*oh* mae yn hyfryd *yeah*	---	NST
+
+
+201, 1	598, 1-2	AET	mae o	NSNT	NSNT
+201, 2	598, 3-6	AET	mae o fath â	NSNT	NSNT
+201, 3	598, 7-8	AET	bod rywun	NSNT	NSNT
+201, 4	598, 9-11	AET	wedi bod yn	NSNT	NSNT
+201, 5	598, 12-14	AET	wchi smwddio fo	NSNT	NSNT
+201, 6	598, 15-15	AET	wchi	---	NSNT
+
+
+202, 1	599, 1-10	BEN	mae dŵr a a y y cerrig mân yn *just*	NST	NST
+202, 2	600, 1-4	BEN	*yeah* *yeah* hyfryd potholes	---	ST
+
+
+203, 1	601, 1-14	AET	ac o'n i yn gobeithio basai hwn fath â *gold* nugget bach yma yn	NST	ST
+203, 2	603, 1-4	AET	baswn i *right* gyfoethog	NST	NST
+203, 3	603, 5-5	AET	petasai	NSNT	NSNT
+203, 4	603, 6-7	AET	wedi bod	NSNT	NSNT
+203, 6	605, 1-8	AET	a *round* y troead yna mae yr *um*	NST	NST
+203, 7	606, 1-7	AET	dach chi wedi tynnu yr *mike* wan	---	NST
+
+
+204, 1	607, 1-5	BEN	*yeah* *just* am eiliad *yeah*	NST	NST
+204, 2	609, 1-4	BEN	dw i nôl rwan	---	NSNT
+
+
+205, 1	610, 1-11	AET	*yeah* *just* *round* y troead yn fan yna mae yr Conwy_Falls	ST	ST
+205, 2	612, 1-11	AET	*well* os dach chi yn edrych tuag at y dŵr faint	NST	NST
+205, 3	612, 12-16	AET	sut mae o yn symud	---	NSNT
+
+
+206, 1	613, 1-4	BEN	*yeah* mae yn hyfryd	---	NST
+
+
+207, 1	614, 1-6	AET	mae hwn yn golygu i rywun	NSNT	NSNT
+207, 2	614, 7-12	AET	sy tynnu lluniau faint o *slow*	NST	NST
+207, 3	614, 13-15	AET	oedd y shutter_speed	---	SNT
+
+
+208, 1	615, 1-6	BEN	*oh* *yeah* wir holloll *yeah* *yeah*	---	NST
+
+
+209, 1	616, 1-7	AET	ac y reswm mae o mor *slow*	NST	NST
+209, 2	616, 9-9	AET	bod	NSNT	NSNT
+209, 3	616, 10-16	AET	bod hi *right* dywyll ystod y dydd	NST	NST
+209, 4	618, 1-2	AET	*well* mae	NST	NST
+209, 5	618, 3-12	AET	dan ni sôn am tua hanner wedi tri pedwar gloch	---	NSNT
+
+
+210, 1	619, 1-15	BEN	*oh* er_mwyn cael digon o olau er_mwyn cael digon o olau mewn i yr *camera*	---	NST
+
+
+211, 1	620, 1-6	AET	i i tynnu yr llun *yeah*	---	NST
+
+
+212, 1	621, 1-2	BEN	*yeah* wir	NST	NST
+212, 2	622, 1-8	BEN	a mae yn edrych hyfryd ia yno *yeah*	NST	NST
+212, 3	622, 9-9	BEN	mae	NSNT	NSNT
+212, 4	622, 10-13	BEN	lle mae wedi erydu	---	NSNT
+
+
+213, 1	623, 1-7	AET	*well* mae yr dŵr wedi symud hwnna	---	NST
+
+
+214, 1	626, 1-6	BEN	*oh* mae yn hyfryd *yeah* *yeah*	---	NST
+
+
+215, 1	627, 1-7	AET	erode_io fewn i yr ochr fan yna	---	SNT
+
+
+216, 1	628, 1-3	BEN	mae yn digon	NSNT	NSNT
+216, 2	628, 4-11	BEN	wedi bod yn digon heddiw yma am darlith	NSNT	NSNT
+216, 3	630, 1-2	BEN	diarygaeth geography	---	SNT
+
+
+217, 1	632, 1-3	AET	*yeah* geography *yeah*	ST	NST
+217, 3	635, 1-9	AET	a wedyn os dach chi yn un am gerdded	NSNT	NSNT
+217, 4	637, 1-2	AET	dw i	NSNT	NSNT
+217, 5	637, 3-13	AET	wedi bod mynd *round* *lot* o glybiau a gofyn i pobl	---	NST
+
+
+218, 1	638, 1-3	BEN	lle ydy hwn	---	NSNT
+
+
+219, 1	639, 1-4	AET	lle ydy fan yna	---	NSNT
+
+
+220, 1	640, 1-3	BEN	lle ydy hwnna	NSNT	NSNT
+220, 2	641, 1-2	BEN	dw i	NSNT	NSNT
+220, 3	641, 3-8	BEN	na dw i ddim yn *sure*	NST	NST
+220, 4	642, 1-5	BEN	dydyn ni ddim yn mawr	NSNT	NSNT
+220, 5	643, 1-13	BEN	ond dw i yn adnabod y *um* y y craig yn y cefndir	NST	NST
+220, 6	644, 1-8	BEN	*er* dw i ddim yn *sure* o lle	NST	NST
+220, 7	645, 1-3	BEN	na go on	SNT	SNT
+220, 8	646, 1-2	BEN	dwedwch dwedwch	---	NSNT
+
+
+221, 1	647, 1-5	AET	be ydy enw yr graig	---	NSNT
+
+
+222, 1	648, 1-5	BEN	does gen i ddim syniad	NSNT	NSNT
+222, 2	649, 1-1	BEN	dwedwch	NSNT	NSNT
+222, 3	650, 1-2	BEN	dw i	NSNT	NSNT
+222, 4	650, 3-4	BEN	dw i	NSNT	NSNT
+222, 5	650, 5-8	BEN	dw i wedi *yeah*	NST	NST
+222, 6	650, 9-10	BEN	dw i	NSNT	NSNT
+222, 7	650, 11-14	BEN	dw i yn adnabod	NSNT	NSNT
+222, 8	651, 1-5	BEN	ond dw i ddim yn	NSNT	NSNT
+222, 9	652, 1-3	BEN	dw i adnabod	NSNT	NSNT
+222, 10	653, 1-11	BEN	ond dw i ddim yn gwybod yn o lle yn union	NSNT	NSNT
+222, 11	654, 1-3	BEN	*yeah* *so* lle	---	NST
+
+
+223, 1	655, 1-1	AET	*Crib_Coch*	---	NST
+
+
+224, 1	657, 1-4	BEN	*yeah* edrych lawr i	---	NST
+
+
+225, 1	659, 1-7	AET	a beth cynta dach chi yn gofyn	NSNT	NSNT
+225, 2	660, 1-7	AET	lle mae yr coed efo yr *Crib_Coch*	---	NST
+
+
+226, 1	661, 1-6	BEN	na does gen i ddim syniad	NSNT	NSNT
+226, 2	662, 1-5	BEN	does gen i ddim syniad	NSNT	NSNT
+226, 3	663, 1-1	BEN	falle	---	NSNT
+
+
+227, 1	664, 1-7	AET	mae llun nesa yn dangos i chi	NSNT	NSNT
+227, 2	664, 8-11	AET	lle mae o union	SNT	NSNT
+227, 3	666, 1-1	AET	*Cwm_Glas*	ST	NST
+227, 4	668, 1-10	AET	mae yna ynys bach a yr ddwy goeden yn tyfu	NSNT	NSNT
+227, 5	670, 1-7	AET	a mi oedd yna drydydd yn canol	---	NSNT
+
+
+228, 1	671, 1-10	BEN	*oh* mae dipyn o *stuff* wedi cael ei golchi lawr	---	NST
+
+
+229, 1	672, 1-6	AET	na wedi cael ei roid i	NSNT	NSNT
+229, 2	673, 1-7	AET	mae nhw wedi cael eu plannu yna	NSNT	NSNT
+229, 3	674, 1-9	AET	*er* fel dw i yn dallt yn y pumdegau	NST	NST
+229, 4	676, 1-15	AET	tua diwedd y pumdegau rywun o coleg *Bangor* sy wedi plannu nhw yna i weld	NST	NST
+229, 5	676, 16-30	AET	sut fasen nhw yn tyfu yn yr yn yr *um* yn yn yr ardal yna	NST	NST
+229, 6	678, 1-10	AET	wrth_gwrs because mae yr tywydd *right* galed iddyn nhw *well*	NST	ST
+229, 7	680, 1-4	AET	a mae yna *well*	NST	NST
+229, 8	680, 5-9	AET	mae yr trydydd yn canol	NSNT	NSNT
+229, 9	682, 1-8	AET	wedi cael ei dorri lawr am ryw reswm	NSNT	NSNT
+229, 11	685, 1-3	AET	ond mae hwn	NSNT	NSNT
+229, 12	685, 4-10	AET	mae rheina dal i dyfu yna wrth_gwrs	SNT	NSNT
+229, 13	687, 1-2	AET	*er* evergreens	ST	NST
+229, 14	688, 1-6	AET	ond *um* mae hwn yn ynys	NST	NST
+229, 15	689, 1-13	AET	dydy o ddim yn edrych fath â ynys o yr o yr *er*	NST	NST
+229, 16	689, 14-21	AET	lle dw i yn sefyll ar y funud	NSNT	NSNT
+229, 17	690, 1-11	AET	ond mae yna *er* stepping_stones *just* o_dan y dŵr fan yma	NST	ST
+229, 18	692, 1-5	AET	i fynd ar yr ynys	NSNT	NSNT
+229, 19	693, 1-6	AET	mae dŵr yn rhedeg *right* *round*	NST	NST
+229, 20	694, 1-5	AET	*well* mae yna llun arall	NST	NST
+229, 21	695, 1-8	AET	dw i ar yr ynys tynnu llun nesa	NSNT	NSNT
+229, 22	695, 9-15	AET	os dw i yn cofio yn iawn	NSNT	NSNT
+229, 23	696, 1-1	AET	yndw	---	NSNT
+
+
+230, 1	697, 1-7	BEN	*oh* yes dw i yn gweld rwan	---	ST
+
+
+231, 1	698, 1-6	AET	*er* *er* be dw i licio	NST	NST
+231, 2	698, 7-10	AET	dw i licio cael	NSNT	NSNT
+231, 3	698, 11-14	AET	wchi foreground *interest* fel	NST	ST
+231, 4	698, 15-25	AET	mae nhw deud a wedyn middleground *interest* a wedyn *far* *distance*	---	ST
+
+
+232, 1	700, 1-5	BEN	*yeah* *oh* holloll bob_dim *yeah*	---	NST
+
+
+233, 1	701, 1-4	AET	dach chi yn gweld	NSNT	NSNT
+233, 2	701, 5-11	AET	lle mae wedi cael yr enw *Crib_Coch*	NST	NST
+233, 3	703, 1-6	AET	mae yna gochni yn fan yna	---	NSNT
+
+
+234, 1	704, 1-4	BEN	*oh* *yeah* yna *yeah*	---	NST
+
+
+235, 1	705, 1-13	AET	a dw i yn amau toes yna ddim llawer o neb wedi deud	NSNT	NSNT
+235, 2	705, 14-21	AET	bod fi yn anghywir ond yn yr blynyddoedd	NSNT	NSNT
+235, 3	705, 22-24	AET	wchi yn_ôl felly	NSNT	NSNT
+235, 4	707, 1-4	AET	bod nhw wedi meddwl	NSNT	NSNT
+235, 5	707, 5-12	AET	bod hwn yn debyg iawn i crib ceiliog	NSNT	NSNT
+235, 6	708, 1-7	AET	a dyna sut gaeth o yr enw	NSNT	NSNT
+235, 7	708, 8-9	AET	dw meddwl	---	NSNT
+
+
+236, 1	709, 1-4	BEN	ceiliog be ydy ceiliog	---	NSNT
+
+
+237, 1	710, 1-2	AET	wchi comb	---	SNT
+
+
+238, 1	711, 1-3	BEN	*yeah* comb *yeah*	---	NST
+
+
+239, 1	712, 1-5	AET	ceiliog mae gynno fo crib	NSNT	NSNT
+239, 2	712, 6-6	AET	does	---	NSNT
+
+
+240, 1	713, 1-5	BEN	*oh* *right* iawn te *yeah*	---	NST
+
+
+241, 1	714, 1-7	AET	a wedyn am bod o yn goch	NSNT	NSNT
+241, 2	714, 9-12	AET	dw i meddwl na	NSNT	NSNT
+241, 3	714, 13-18	AET	dyna sut gaeth o ei enw	NSNT	NSNT
+241, 4	714, 19-20	AET	de *Crib_Coch*	ST	NST
+241, 5	716, 1-7	AET	red comb of the cockerel felly de	---	SNT
+
+
+242, 1	717, 1-3	BEN	*oh* holloll *yeah*	---	NST
+
+
+243, 1	718, 1-4	AET	dw i yn amau	---	NSNT
+
+
+244, 1	719, 1-7	BEN	*oh* ceiliog cockerel *yeah* *yeah* wir *yeah*	---	ST
+
+
+245, 1	720, 1-5	AET	dw i yn amau na	NSNT	NSNT
+245, 2	720, 6-10	AET	dyna sut gaeth o enw	---	NSNT
+
+
+246, 1	721, 1-3	BEN	*yeah* falle *yeah*	---	NST
+
+
+247, 1	722, 1-5	AET	dw i ddim yn bendant	NSNT	NSNT
+247, 2	722, 6-10	AET	dw i ddim yn *safe*	NST	NST
+247, 3	723, 1-7	AET	ond ond dw i yn amau na	NSNT	NSNT
+247, 4	723, 8-13	AET	dyna sut gaeth o yr enw	NSNT	NSNT
+247, 5	725, 1-6	AET	a does yna neb wedi deud	NSNT	NSNT
+247, 6	725, 7-10	AET	bod fi yn anghywir	NSNT	NSNT
+247, 7	725, 11-16	AET	na does yna ddim_byd i ddeud	NSNT	NSNT
+247, 8	725, 17-22	AET	bod fi yn yn gywir chwaith	---	NSNT
+
+
+248, 1	726, 1-5	BEN	*yeah* *yeah* dw i yn	---	NST
+
+
+249, 1	727, 1-4	AET	ond mae yna bosibilydd	NSNT	NSNT
+249, 2	727, 5-8	AET	bod o yn iawn	---	NSNT
+
+
+250, 1	728, 1-4	BEN	dw i licio *yeah*	NST	NST
+250, 2	728, 5-8	BEN	dw i licio ffordd	NSNT	NSNT
+250, 3	728, 9-14	BEN	mae yr *er* planhigion yn symud	NST	NST
+250, 4	729, 1-5	BEN	*oh* *yeah* eto *yeah* *yeah*	NST	NST
+250, 5	731, 1-1	BEN	hyfryd	---	NSNT
+
+
+251, 1	732, 1-16	AET	wan petasech chi yn un am tynnu lluniau fath â dan ni yn wneud fath â	NSNT	NSNT
+251, 2	732, 17-24	AET	dw i mynd *round* clybiau dangos lluniau yma	NST	NST
+251, 3	734, 1-2	AET	a cwestiwn	NSNT	NSNT
+251, 4	734, 3-7	AET	baswn i yn gofyn syth	NSNT	NSNT
+251, 5	735, 1-10	AET	be sy wahaniaeth rhwng y llun yma a llun dwytha	NSNT	NSNT
+251, 6	735, 11-14	AET	dach chi newydd weld	NSNT	NSNT
+251, 8	737, 1-4	AET	edrych ar hwnna wan	NSNT	NSNT
+251, 9	738, 1-1	AET	mae	NSNT	NSNT
+251, 10	738, 2-12	AET	gynnoch chi yr un fath yn y yn y tu blaen	---	NSNT
+
+
+252, 1	739, 1-4	BEN	dach chi wedi colli	NSNT	NSNT
+252, 2	739, 5-5	BEN	yr	NSNT	NSNT
+252, 3	739, 6-11	BEN	dach chi wedi colli yr coed	NSNT	NSNT
+252, 4	740, 1-2	BEN	wchi symud	---	NSNT
+
+
+253, 1	741, 1-13	AET	*well* mae yr llun toedd y coed ddim yn y llun dwytha chwaith	---	NST
+
+
+254, 1	743, 1-8	BEN	*oh* mae yn ddrwg gen i nôl yn_ôl	NST	NST
+254, 2	744, 1-8	BEN	*um* *oh* mae *format* y *format* *format* wahanol	ST	NST
+254, 3	745, 1-2	BEN	*format* landscape	---	NST
+
+
+255, 1	746, 1-3	AET	*format* vertical de	NST	ST
+255, 2	748, 1-4	AET	y llall yn landscape	---	SNT
+
+
+256, 1	749, 1-2	BEN	*yeah* holloll	NST	NST
+256, 2	750, 1-2	BEN	a a	---	NSNT
+
+
+257, 1	751, 1-4	AET	be arall sy wahanol	---	NSNT
+
+
+258, 1	752, 1-2	BEN	alô eto	NSNT	NSNT
+258, 2	753, 1-2	BEN	mae fel	NSNT	NSNT
+258, 3	753, 3-6	BEN	bod yn yr optegydd	NSNT	NSNT
+258, 4	754, 1-7	BEN	*um* y canran y blaendir y canran	NST	NST
+258, 5	755, 1-8	BEN	*yeah* canran y y blaendir foreground yn wahanol	---	ST
+
+
+259, 1	756, 1-5	AET	yndy ychydig bach yn wahanol	---	NSNT
+
+
+260, 1	757, 1-3	BEN	dw i meddwl	NSNT	NSNT
+260, 2	758, 1-1	BEN	a	---	NSNT
+
+
+261, 1	759, 1-5	AET	am bod o yn vertical	---	SNT
+
+
+262, 1	760, 1-3	BEN	*oh* yn_ôl eto	NST	NST
+262, 2	761, 1-6	BEN	rywbeth efallai y golau y haul	---	NSNT
+
+
+263, 1	762, 2-12	AET	mae nhw wedi cael eu tynnu *er* wahanol diwrnodiau i ddechrau	---	NST
+
+
+264, 1	763, 1-6	BEN	*yeah* *um* a mae ychydig bach	NST	NST
+264, 2	764, 1-2	BEN	oherwydd y	NSNT	NSNT
+264, 3	765, 1-20	BEN	dach chi yn cael gweld fwy o yr o yr allt y rhiw a mynydd yn y ar y dde	NSNT	NSNT
+264, 4	767, 1-11	BEN	dach chi ddim yn cael eich *um* goruchwylio gan *Crib_Goch* cymaint	NST	NST
+264, 5	770, 1-3	BEN	*yeah* mae yn	NST	NST
+264, 6	770, 4-6	BEN	mae yn llai	NSNT	NSNT
+264, 7	771, 1-3	BEN	mae gyda ni	NSNT	NSNT
+264, 8	772, 1-2	BEN	yn_ôl eto	---	NSNT
+
+
+265, 1	773, 1-8	AET	glywais i yr gair o'n i edrych amdan	NSNT	NSNT
+265, 2	774, 1-1	AET	llai	---	NSNT
+
+
+266, 1	775, 1-2	BEN	llai *yeah*	---	NST
+
+
+267, 1	776, 1-10	AET	ylwch faint mor fawr ydy *Crib_Coch* yn y llun yma	---	NST
+
+
+268, 1	777, 1-3	BEN	*yeah* wir *yeah*	---	NST
+
+
+269, 1	778, 1-6	AET	o gymharu i yr llun yma	NSNT	NSNT
+269, 2	779, 1-3	AET	mae hynna golygu	NSNT	NSNT
+269, 3	779, 4-12	AET	bod fi wedi newid y *lens* ar y *camera*	NST	NST
+269, 4	781, 1-5	AET	mae hwn yn wide_angle *lens*	---	ST
+
+
+270, 1	782, 1-8	BEN	*oh* *yeah* yn_ôl eto *er* *just* am unwaith	---	NST
+
+
+271, 1	783, 1-13	AET	mae yr wide_angle *lens* yn wneud pethau yn y pellter mynd yn llai	---	ST
+
+
+272, 1	784, 1-3	BEN	*yeah* yn_ôl eto	---	NST
+
+
+273, 1	785, 1-8	AET	y *standard* *lens* ydy hwn i yr llygad	---	NST
+
+
+274, 1	786, 1-10	BEN	*yeah* does yna ddim wahaniaeth yn y yn y blaendir	---	NST
+
+
+275, 1	787, 1-10	AET	na toes yna ddim llawer o wahaniaeth yn y blaendir	---	NSNT
+
+
+276, 1	788, 1-8	BEN	*yeah* *yeah* *oh* ie *yeah* mae yn yes	ST	ST
+276, 2	788, 9-14	BEN	mae yn drwg gen i am	---	NSNT
+
+
+277, 1	789, 1-6	AET	*so* *so* be dan ni yn	NST	NST
+277, 2	789, 7-9	AET	be ydy yr	NSNT	NSNT
+277, 3	790, 1-6	AET	pan dw i mynd *round* clybiau	NST	NST
+277, 4	790, 7-13	AET	be dw i trio ddeud wrth bobl	NSNT	NSNT
+277, 5	791, 1-7	AET	pan dach chi yn defnyddio wide_angle *lenses*	ST	ST
+277, 6	791, 8-13	AET	dach chi yn emphasize_io yr foreground	---	SNT
+
+
+278, 1	793, 1-7	BEN	*yeah* ac llai o yr cefndir *yeah*	---	NST
+
+
+279, 1	794, 1-6	AET	be sy yn y tu blaen	NSNT	NSNT
+279, 2	794, 7-13	AET	a mae yr cefndir ddim mor bwysig	NSNT	NSNT
+279, 3	796, 1-4	AET	ond yn hwn de	NSNT	NSNT
+279, 4	796, 5-15	AET	mae yr cefndir yn bwysig mewn un ffordd am na *Crib_Coch*	NST	NST
+279, 5	796, 16-17	AET	ydy o	NSNT	NSNT
+279, 6	798, 1-9	AET	ond dach chi yn dal i nabod na *Crib_Coch*	NST	NST
+279, 7	798, 10-11	AET	ydy o	NSNT	NSNT
+279, 8	799, 1-20	AET	ond o'n i isio wneud pobl edrych ar y brwyn sydd *er* ar gwyneb y dŵr yn y tu blaen	NST	NST
+279, 9	802, 1-10	AET	a hefyd faint o bwysig oedd hwnna hwnna a hwnna	NSNT	NSNT
+279, 10	803, 1-6	AET	gyd yn mynd yr un ffordd	---	NSNT
+
+
+280, 1	804, 1-3	BEN	*oh* *yeah* hollol	---	NST
+
+
+281, 1	805, 1-3	AET	er bod hwn	NSNT	NSNT
+281, 2	805, 4-14	AET	wedi bod troi nôl ac ymlaen *slow* bach efo yr gwynt	---	NST
+
+
+282, 1	806, 1-5	BEN	efo gwynt o ddŵr *yeah*	---	NST
+
+
+283, 1	807, 1-6	AET	*well* awel bychan distaw oedd yna	NST	NST
+283, 2	808, 1-5	AET	ond mi oedd o symud	NSNT	NSNT
+283, 3	809, 1-11	AET	a pan oedd o draws ffordd yna toedd o ddim yn	NSNT	NSNT
+283, 4	810, 1-9	AET	*er* be dw i yn galw yn *balance* i	NST	NST
+283, 5	811, 1-7	AET	achos gynnoch chi fath â diagonal *lines*	ST	ST
+283, 6	811, 8-13	AET	pan dach chi ar_draws y llun	---	NSNT
+
+
+284, 1	812, 1-8	BEN	*oh* *yeah* eto mae yna *just* mwy fwy	---	NST
+
+
+285, 1	813, 1-7	AET	a wedyn dach chi mynd i_fyny wedyn	---	NSNT
+
+
+286, 1	814, 1-7	BEN	*oh* *yeah* fwy o composition *yeah* *yeah*	---	ST
+
+
+287, 1	815, 1-2	AET	ac ar_draws	NSNT	NSNT
+287, 2	816, 1-5	AET	a wyddoch chi mae yna	NSNT	NSNT
+287, 3	816, 6-13	AET	mae yna drefn i yr llun mewn ffordd	NSNT	NSNT
+287, 4	818, 1-8	AET	a mae hwn fath â *triangle* ar ben	NST	NST
+287, 5	818, 9-10	AET	ei hun	NSNT	NSNT
+287, 6	819, 1-11	AET	mae rhein pwyntio ag i_fyny i fynd ar_draws i_fyny fan yna	NSNT	NSNT
+287, 7	820, 1-12	AET	a dach chi ar_draws y yr *um* y crib wedyn y *Crib_Coch*	NST	NST
+287, 8	820, 13-14	AET	ei hun	NSNT	NSNT
+287, 9	823, 1-7	AET	a os dach chi isio fynd i_fyny	NSNT	NSNT
+287, 10	823, 8-14	AET	dach chi *safe* o dod lawr yn_ôl	---	NST
+
+
+288, 1	824, 1-4	BEN	*oh* mae yn hyfryd	---	NST
+
+
+289, 1	825, 1-12	AET	ond *um* mewn ffordd trio arwain chi *round* y llun mewn ffordd	---	NST
+
+
+290, 1	826, 1-1	BEN	mae	NSNT	NSNT
+290, 2	826, 2-2	BEN	mae	NSNT	NSNT
+290, 3	826, 3-6	BEN	mae yn mwy fwy	---	NSNT
+
+
+291, 1	828, 1-6	AET	*so* yr yr *um* y yr	NST	NST
+291, 2	829, 1-17	AET	be o'n i yn trio gadael pobl wybod y wahaniaeth defnyddio wahanol *lenses* wchi ar y *camera*	---	NST
+
+
+292, 1	830, 1-17	BEN	*yeah* yn_ôl eto at y at y llall at y at y y yr yr un arall	---	NST
+
+
+293, 1	831, 1-1	AET	*Crib_Coch*	ST	NST
+293, 2	832, 1-2	AET	y vertical	---	SNT
+
+
+294, 1	834, 1-3	BEN	*yeah* does *yeah*	NST	NST
+294, 2	834, 4-8	BEN	does dim cymaint o composition	SNT	SNT
+294, 3	834, 9-9	BEN	â	---	NSNT
+
+
+295, 1	835, 1-2	AET	nag oes	NSNT	NSNT
+295, 2	836, 1-12	AET	be sy gyn i wan tri *element* foreground middleground a *far* *distance*	---	ST
+
+
+296, 1	838, 1-8	BEN	a wedyn yn y llall mae mwy o	---	NSNT
+
+
+297, 1	839, 1-4	AET	mwy o yr foreground	---	SNT
+
+
+298, 1	840, 1-3	BEN	*er* na mwy	NST	NST
+298, 2	841, 1-5	BEN	a hefyd mae mwy o	---	NSNT
+
+
+299, 1	842, 1-9	AET	os dach chi mynd yn_ôl *just* un peth arall	NST	NST
+299, 2	844, 1-10	AET	byddech chi medru deud one third one third one third	---	SNT
+
+
+300, 1	845, 1-4	BEN	third one third *yeah*	---	NST
+
+
+301, 1	846, 1-7	AET	ond dach chi mynd i llall wan	NSNT	NSNT
+301, 2	846, 8-11	AET	de one half wan	---	SNT
+
+
+302, 1	847, 1-3	BEN	*yeah* holloll *yeah*	---	NST
+
+
+303, 1	848, 1-4	AET	mae one half wan	---	SNT
+
+
+304, 1	849, 1-12	BEN	a mae mwy o *um* *well* composition i dod bob_dim at ei_gilydd	---	ST
+
+
+305, 1	850, 1-3	AET	yndy yn hwnna	---	NSNT
+
+
+306, 1	851, 1-11	BEN	*yeah* does yna ddim_byd yn y llall ond un dau tri	---	NST
+
+
+307, 1	852, 1-3	AET	tri *yeah* *steps*	---	NST
+
+
+308, 1	853, 1-8	BEN	ond wedyn dach chi yn cael eich arwain	---	NSNT
+
+
+309, 1	854, 1-5	AET	mynd â chi fyny i	---	NSNT
+
+
+310, 1	855, 1-7	BEN	*yeah* dach chi yn cael eich arwain	---	NST
+
+
+311, 1	856, 1-3	AET	a dyna pam	NSNT	NSNT
+311, 2	856, 4-8	AET	mae o wedi cael ei	NSNT	NSNT
+311, 3	856, 9-16	AET	roid yn vertical *format* yn lle horizontal hefyd	NST	ST
+311, 4	858, 1-11	AET	am y reswm dach chi yn dringo fyny i *top* *Crib_Coch*	---	NST
+
+
+312, 1	859, 1-3	BEN	*yeah* a does	NST	NST
+312, 2	859, 4-4	BEN	does	NSNT	NSNT
+312, 3	859, 5-9	BEN	ond doedd yna dim arwiniaidd	NSNT	NSNT
+312, 4	860, 1-7	BEN	dach chi ddim yn cael eich arwain	---	NSNT
+
+
+313, 1	861, 1-6	AET	nag oedd dim yr un fath	---	NSNT
+
+
+314, 1	862, 1-2	BEN	*right* ymlaen	NST	NST
+314, 2	863, 1-4	BEN	*oh* *wow* *yeah* dŵr	---	NST
+
+
+315, 1	864, 1-8	AET	neidio wan i cwm arall cwm *er* *Dyffryn_Ogwen*	NST	NST
+315, 2	866, 1-6	AET	*er* *Nant_Francon* *pass* a ballu de	NST	NST
+315, 3	868, 1-5	AET	dach chi *just* about gweld	NST	ST
+315, 4	869, 1-3	AET	wchi fan yna	NSNT	NSNT
+315, 5	869, 4-6	AET	ydy yr A_five	SNT	SNT
+315, 6	871, 1-6	AET	gweld y bont yn fan yna	---	NSNT
+
+
+316, 1	872, 1-8	BEN	*so* oeddech chi ar yr ochr arall ar	---	NST
+
+
+317, 1	873, 1-6	AET	dw i ar yr hen lôn	NSNT	NSNT
+317, 2	873, 7-13	AET	sy mynd â chi fyny i *Ben_y_Pas*	---	NST
+
+
+318, 1	875, 1-5	BEN	*oh* *yeah* *yeah* *um* *just*	---	NST
+
+
+319, 1	876, 1-6	AET	*um* heibio yr *farm* a ballu	---	NST
+
+
+320, 1	877, 1-5	BEN	ar ben y y dyffryn	---	NSNT
+
+
+321, 1	879, 1-3	AET	dyna o *yeah*	---	NST
+
+
+322, 1	880, 1-4	BEN	*yeah* *just* *just* fel	---	NST
+
+
+323, 1	881, 1-2	AET	dim *quite*	NST	NST
+323, 2	883, 1-15	AET	wedyn fel ti yn deud dw i yn is na yr lôn ar fan yna	NSNT	NSNT
+323, 3	884, 1-18	AET	mae yr lôn arall yn mynd i_fyny tros *top* fan yna ac i_fewn i yr coed ffordd yna	NST	NST
+323, 4	886, 1-2	AET	dyna o	NSNT	NSNT
+323, 5	886, 3-3	AET	yr	NSNT	NSNT
+323, 6	886, 4-9	AET	wchi *just* *line* yn fan yna	---	NST
+
+
+324, 1	887, 1-8	BEN	*oh* *yeah* dw i yn gweld *yeah* *yeah*	---	NST
+
+
+325, 1	888, 1-1	AET	honna	NSNT	NSNT
+325, 2	888, 2-6	AET	ydy yr lôn fan yna	NSNT	NSNT
+325, 3	889, 1-8	AET	dach chi mynd *round* y *lump* yma lawr	NST	NST
+325, 4	890, 1-5	AET	dach chi yn gweld *shape*	ST	NST
+325, 5	892, 1-5	AET	*neolithic* man neu prehistoric man	---	ST
+
+
+326, 1	893, 1-8	BEN	*oh* yes *yeah* *yeah* *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+327, 1	894, 1-11	AET	ei geg o ei ên o a ei drwyn bach o	NSNT	NSNT
+327, 2	894, 12-16	AET	ei dalcen *er* *very* small	---	ST
+
+
+328, 1	895, 1-7	BEN	*yeah* yn gwenu ychydig bach *yeah* *yeah*	---	NST
+
+
+329, 1	897, 1-3	AET	sti talcen bychan	---	NSNT
+
+
+330, 1	898, 1-5	BEN	*yeah* holloll *yeah* os rywbeth	---	NST
+
+
+331, 1	899, 1-5	AET	dim gymaint o frain felly	---	SNT
+
+
+332, 1	900, 1-5	BEN	*yeah* ond but *just* *gogs*	ST	ST
+332, 2	901, 1-2	BEN	*gogs* i_gyd	NST	NST
+332, 3	902, 1-2	BEN	*gogs* i_gyd	---	NST
+
+
+333, 1	903, 1-2	AET	*gogs* de	NST	NST
+333, 2	904, 1-4	AET	oedden nhw on heno	NSNT	SNT
+333, 3	904, 5-5	AET	doedd	NSNT	NSNT
+333, 5	908, 1-16	AET	a wedyn mae hwn wedi cael ei dynnu ar_ôl dipyn o law i fod yn *honest*	NST	NST
+333, 6	909, 1-16	AET	achos dach chi ddim yn gweld cymaint o ddŵr â hyn yn enwedig lawr ochr yma	---	NSNT
+
+
+334, 1	911, 1-1	BEN	mae	NSNT	NSNT
+334, 2	911, 2-10	BEN	a timod digon o olau yn y yn y	---	NSNT
+
+
+335, 1	912, 1-5	AET	a toes yna ddim haul	---	NSNT
+
+
+336, 1	913, 1-12	BEN	yr awyr digon o olau yn dod i_lawr o yr *yeah* er_mwyn	---	NST
+
+
+337, 1	914, 1-8	AET	*yeah* does yna ddim haul yn fan yma	NST	NST
+337, 2	916, 1-15	AET	ond mae yna ddigon o *um* reflection ddeudan ni yn dod i_fewn i yr cwm	---	ST
+
+
+338, 1	917, 1-8	BEN	*yeah* i i dod i_fewn i i wneud	NST	NST
+338, 2	919, 1-8	BEN	y nantoedd i gweld yn wen iawn ie	---	NSNT
+
+
+339, 1	920, 1-3	AET	dyna o *yeah*	NST	NST
+339, 2	921, 1-14	AET	wedyn roid *lens* arall wan *telephoto* i dod â pethau yn agos i chi	---	NST
+
+
+340, 1	922, 1-4	BEN	*yeah* tynnu mewn *yeah*	---	NST
+
+
+341, 1	923, 1-13	AET	*just* er_mwyn chi gael gwybod be sy mynd ymlaen yn y llun eto	NST	NST
+341, 2	924, 1-10	AET	*um* dw i wedi symud ychydig bach i yr chwith	ST	NST
+341, 3	925, 1-8	AET	because dach chi ddim yn gweld y bont	---	SNT
+
+
+342, 1	926, 1-2	BEN	*yeah* a	---	NST
+
+
+343, 1	927, 1-4	AET	fath ag oeddech chi	---	NSNT
+
+
+344, 1	928, 1-6	BEN	dach chi gweld dipyn o embankment	---	SNT
+
+
+345, 1	929, 1-3	AET	a mae yna	NSNT	NSNT
+345, 2	929, 4-11	AET	dach chi wedi gweld y bont bach Rufeiniaid	NSNT	NSNT
+345, 3	929, 12-14	AET	sy o_dano fo	---	NSNT
+
+
+346, 1	930, 1-8	BEN	yes dw i wedi gweld hynny *yeah* *yeah*	---	ST
+
+
+347, 1	931, 1-4	AET	mae nhw yn deud	NSNT	NSNT
+347, 2	931, 5-5	AET	bod	NSNT	NSNT
+347, 3	932, 1-5	AET	mae nhw yn deud na	NSNT	NSNT
+347, 4	932, 6-6	AET	dyna	NSNT	NSNT
+347, 5	932, 7-9	AET	be ydy o	NSNT	NSNT
+347, 6	933, 1-6	AET	ond mae yna rei pobl deud	NSNT	NSNT
+347, 7	933, 7-9	AET	tydy o ddim	NSNT	NSNT
+347, 8	935, 1-5	AET	ond pwy bynnag sy wedi	NSNT	NSNT
+347, 9	935, 6-11	AET	roid o yna wedi fildio fo	NSNT	NSNT
+347, 10	935, 12-13	AET	mae nhw	NSNT	NSNT
+347, 11	935, 14-23	AET	wedi bod yn *er* camp mawr ofnadwy i wneud o	---	NST
+
+
+348, 1	936, 1-3	BEN	*oh* holloll *yeah*	---	NST
+
+
+349, 1	937, 1-4	AET	achos dw i *sure*	NST	NST
+349, 2	937, 5-12	AET	bod dŵr yn mynd drost ei ben o	NSNT	NSNT
+349, 3	937, 13-20	AET	pan mae yna ddipyn o o peth yna	NSNT	NSNT
+349, 4	939, 1-10	AET	*right* mae yr afon naturiol yn dod o yr llyn	NST	NST
+349, 5	940, 1-5	AET	a mae yna afonydd sydd	NSNT	NSNT
+349, 6	940, 6-11	AET	sy yn dod i yr llyn	NSNT	NSNT
+349, 7	943, 1-6	AET	mae hwn dod o llyn *Bochlwyd*	NST	NST
+349, 8	944, 1-7	AET	mae yna afon arall i yr dde	NSNT	NSNT
+349, 9	944, 8-13	AET	sy yn dod o llyn *Idwal*	NST	NST
+349, 10	946, 1-7	AET	*um* *er* a wedyn mae hwn yn	NST	NST
+349, 11	946, 8-8	AET	gaea	NSNT	NSNT
+349, 12	947, 1-6	AET	dach chi yn gweld y lliwiau	---	NSNT
+
+
+350, 1	948, 1-4	BEN	*yeah* y lliwiau gaea	---	NST
+
+
+351, 1	949, 1-3	AET	*brown* ballu de	NST	NST
+351, 2	951, 1-11	AET	*um* ond mae llun nesa wedi cael ei dynnu yr ha	NST	NST
+351, 3	952, 1-7	AET	dach chi yn gweld y wahaniaeth syth	SNT	NSNT
+351, 4	953, 1-9	AET	because mae yna wyrdd bob man ar yr ochrau	NSNT	SNT
+351, 5	955, 1-12	AET	a wedyn y llwybr *line* yn fan yna ydy yr llwybr *um*	NST	NST
+351, 6	955, 13-26	AET	oedd pobl yn tyllu am y *copper* yn o_dan yr Wyddfa *Miners_Track* felly de	NST	NST
+351, 7	957, 1-6	AET	mae yna *Miners_Track* mynd i_fyny Wyddfa	NST	NST
+351, 8	957, 7-7	AET	does	NSNT	NSNT
+351, 9	958, 1-12	AET	a mae hwn yn cario ymlaen wedyn o *Pen_y_Gwryd* dros topiau lawr	NST	NST
+351, 10	959, 1-8	AET	*well* oedden nhw byw yn *Bethesda* wrth_gwrs ballu	NST	NST
+351, 11	961, 1-8	AET	a wedyn *Tryfan* ydy hwnna yr un fath	NST	NST
+351, 12	961, 9-11	AET	de gweld gynnau	NSNT	NSNT
+351, 13	963, 1-10	AET	a dw i wedi arbed dangos ormod o yr llyn	NSNT	NSNT
+351, 14	964, 1-5	AET	a be oedd y syniad	NSNT	NSNT
+351, 16	964, 29-36	AET	mae nhw naturiol mynd i edrych i i_fyny	---	NSNT
+
+
+352, 1	966, 1-10	BEN	*yeah* at y copa copa *Tryfan* go iawn *yeah* *yeah*	---	NST
+
+
+353, 1	967, 1-8	AET	at *er* copa yr *Tryfan* a yr cymylau	NST	NST
+353, 2	968, 1-9	AET	ac am bod hwn yn oleuach na hwnna cymylau	NSNT	NSNT
+353, 3	968, 10-21	AET	mae naturiol i chi fynd i_fyny a cael eich tynnu nôl i_lawr	NSNT	NSNT
+353, 4	969, 1-6	AET	neu felly o'n i yn trio	---	NSNT
+
+
+354, 1	970, 1-15	BEN	*yeah* *oh* *just* symud o un i yr llall o un i yr llall *yeah*	---	NST
+
+
+355, 1	971, 1-1	AET	*ping_pong*	ST	NST
+355, 2	974, 1-8	AET	dyna be o'n i yn galw *ping_pong* *shot*	---	NST
+
+
+356, 1	975, 1-2	BEN	*yeah* hollol	---	NST
+
+
+357, 1	976, 1-1	AET	wchi	NSNT	NSNT
+357, 2	976, 2-6	AET	mae fath â pêl *pink*	---	NST
+
+
+358, 1	977, 1-3	BEN	*oh* fel pêl	NST	NST
+358, 2	979, 3-4	BEN	mae nhw	---	NSNT
+
+
+359, 1	980, 1-4	AET	bownsio fyny ac i_lawr	---	NSNT
+
+
+360, 1	981, 1-8	BEN	dyma be mae nhw yn eu alw nhw	---	NSNT
+
+
+361, 1	982, 1-2	AET	*well* fi	---	NST
+
+
+362, 1	983, 1-7	BEN	*yeah* fi *oh* *right* *right* *o_k* *yeah*	---	NST
+
+
+363, 1	984, 1-4	AET	yfi sy deud hynna	NSNT	NSNT
+363, 2	986, 1-15	AET	i tynnu chi lawr yn_ôl de bod y pelen mynd i_fyny a dod lawr yn_ôl	SNT	NSNT
+363, 3	988, 1-11	AET	because mae hwn yn grwn fath â pelen mewn un ffordd	---	SNT
+
+
+363, 4	989, 1-11	AET	o'n isio pobl notisio dod lawr yn_ôl dach chi yn gweld	---	NSNT
+
+
+365, 1	994, 1-3	AET	dyna o *yeah*	---	NST
+
+
+366, 1	995, 1-3	BEN	*yeah* dw i	NST	NST
+366, 2	996, 1-3	BEN	*oh* yn_ôl eto	---	NST
+
+
+367, 1	997, 1-3	AET	dach chi neidio	---	NSNT
+
+
+368, 1	998, 1-8	BEN	bron yn *parallel* efo yr *er* y llwybr	---	NST
+
+
+369, 1	1001, 1-11	AET	a hefyd *er* bysech chi mynd i_fyny fel yna yr *idea*	NST	NST
+369, 2	1001, 12-23	AET	oedd mynd oddi_wrth hwnna a neidio ar y creigiau i_fyny fan yna	NSNT	NSNT
+369, 3	1004, 1-17	AET	dach chi yn hitio yr hwnna yn mynd â chi fyny at y llwybr a lawr yn_ôl	NSNT	NSNT
+369, 4	1005, 1-20	AET	neu os dach chi isio mynd i_fyny a dilyn y llwybr i fan yna ac ar_hyd y *top* a lawr	---	NST
+
+
+370, 1	1006, 1-1	BEN	*wow*	---	NST
+
+
+371, 1	1009, 1-1	AET	mae	NSNT	NSNT
+371, 2	1009, 2-3	AET	mae yna	NSNT	NSNT
+371, 3	1009, 4-12	AET	mae yna wahanol ffyrdd i edrych ar y llun	---	NSNT
+
+
+372, 1	1010, 1-14	BEN	faint o amser mae yn cymryd i *just* i cael y composition yn iawn	NST	ST
+372, 2	1011, 1-6	BEN	dach chi yn *just* mynd i_mewn	---	NST
+
+
+373, 1	1012, 1-1	AET	*well*	---	NST
+
+
+374, 1	1013, 1-6	BEN	ydyw e *just* mynd mynd i_fyny	NST	NST
+374, 2	1013, 7-11	BEN	a dach chi yn gweld	NSNT	NSNT
+374, 3	1014, 1-6	BEN	*right* dw isio llun fel yna	NST	NST
+374, 4	1015, 1-6	BEN	a wedyn dach chi eistedd lawr	NSNT	NSNT
+374, 5	1015, 7-13	BEN	ac edrych ar y y tirlun a	NSNT	NSNT
+374, 6	1016, 1-3	BEN	dw isio hynny	NSNT	NSNT
+374, 7	1017, 1-5	BEN	a dw isio *er* rhain	NST	NST
+374, 8	1018, 1-7	BEN	dw i ddim yn phoeni am hwn	NSNT	NSNT
+374, 9	1019, 1-14	BEN	faint o amser mae yn cymryd i i i cael y composition yn iawn	---	SNT
+
+
+375, 1	1020, 1-1	AET	*well*	ST	NST
+375, 2	1021, 1-9	AET	mae o yn medru cymryd munudau a neu eiliadau	NSNT	NSNT
+375, 3	1022, 1-1	AET	dibynnu	NSNT	NSNT
+375, 4	1024, 1-3	AET	be sy yn	NSNT	NSNT
+375, 5	1024, 4-7	AET	be fydda i wneud	NSNT	NSNT
+375, 6	1025, 1-8	AET	fath â llun sy newydd ddod i_fyny wan	NSNT	NSNT
+375, 7	1027, 1-4	AET	naturiol eira yr mynydd	NSNT	NSNT
+375, 8	1029, 1-5	AET	tynnu sylw chi yn syth	NSNT	NSNT
+375, 9	1030, 1-8	AET	*oh* raid fi gael hwnna yn y llun	NST	NST
+375, 10	1031, 1-8	AET	a dach chi edrych o_gwmpas o_gwmpas a deud	NSNT	NSNT
+375, 11	1032, 1-12	AET	be fedra i wneud yn y tu blaen y llun i helpu	NSNT	NSNT
+375, 12	1033, 1-6	AET	achos mae rhein *right* bell i_ffwrdd	NST	NST
+375, 13	1034, 1-9	AET	a bysech chi *just* tynnu llun hwnna ar ben	NST	NST
+375, 14	1034, 10-11	AET	ei hun	NSNT	NSNT
+375, 15	1036, 1-5	AET	mae ychydig bach yn boring	SNT	SNT
+375, 17	1039, 1-13	AET	*so* hwnna fan yna a yr dŵr dod lawr o yr ochr dde	NST	NST
+375, 18	1041, 1-13	AET	*so* mae yr ddau ochr yna yn tynnu chi fewn i yr canol	NST	NST
+375, 19	1042, 1-7	AET	mae yr afon mynd â chi lawr	NSNT	NSNT
+375, 20	1044, 1-6	AET	at y at y pen draw	NSNT	NSNT
+375, 21	1045, 1-3	AET	wan mae *sure*	NST	NST
+375, 23	1047, 1-4	AET	*er* dach chi yn	NST	NST
+375, 24	1047, 5-12	AET	dach chi yn adeiladu yr llun mewn ffordd	NSNT	NSNT
+375, 25	1049, 1-13	AET	dach chi chwilio am darnau o o yr o o yr beth bynnag	NSNT	NSNT
+375, 26	1049, 14-14	AET	sy	NSNT	NSNT
+375, 27	1049, 15-20	AET	gynnoch chi o eich blaen i	NSNT	NSNT
+375, 28	1049, 21-29	AET	roid at ei_gilydd i wneud composition wneud llun felly	---	SNT
+
+
+376, 1	1050, 1-4	BEN	position go iawn *yeah*	---	ST
+
+
+377, 1	1051, 1-4	AET	oedd hi yn deud	NSNT	NSNT
+377, 3	1054, 1-15	AET	*course* oedd gyn i opposite *effect* i hwnna mynd ffordd yna dod lawr ffordd yna	NST	ST
+377, 4	1055, 1-9	AET	ond dan ni gyd yn gwybod na ffordd hyn	NSNT	NSNT
+377, 5	1055, 10-13	AET	mae dŵr yn rhedeg	NSNT	NSNT
+377, 6	1055, 14-19	AET	a bod dŵr rhedeg ffordd hyn	NSNT	NSNT
+377, 7	1057, 1-11	AET	*so* dw i ar ryw ynys bach mewn ffordd o dir	---	NST
+
+
+378, 1	1058, 1-3	BEN	*yeah* *oh* hyfryd	---	NST
+
+
+379, 1	1059, 1-3	AET	*so* mae *er*	NST	NST
+379, 2	1059, 4-5	AET	wchi *um*	NST	NST
+379, 3	1059, 6-9	AET	baswn i wedi licio	NSNT	NSNT
+379, 4	1059, 10-17	AET	petasai hwnna ddim yna i fod yn *honest*	NST	NST
+379, 5	1060, 1-7	AET	ond mae hwnna ry fawr i symud	NSNT	NSNT
+379, 6	1062, 1-12	AET	darn mawr o graig fel yna ychydig bach yn fawr i symud	NSNT	NSNT
+379, 7	1064, 1-5	AET	ond fysai hwnna ddim yna	NSNT	NSNT
+379, 8	1064, 6-8	AET	dw i meddwl	NSNT	NSNT
+379, 9	1064, 9-14	AET	basai fo ychydig bach mwy naturiol	NSNT	NSNT
+379, 10	1064, 15-24	AET	wchi fath â tir *plain* yn fan yna cario ymlaen	NST	NST
+379, 11	1066, 1-3	AET	baswn i licio	NSNT	NSNT
+379, 12	1066, 4-6	AET	petasai hwnna ddim	NSNT	NSNT
+379, 13	1066, 7-9	AET	wedi bod yna	NSNT	NSNT
+379, 14	1067, 1-9	AET	ond petaswn i wedi symud a torri fan yna	NSNT	NSNT
+379, 15	1067, 10-15	AET	dw i mynd trwy dŵr wedyn	---	NSNT
+
+
+380, 1	1068, 1-4	BEN	*oh* *yeah* wir *yeah*	---	NST
+
+
+381, 1	1069, 1-4	AET	dw i yn colli	NSNT	NSNT
+381, 2	1069, 5-12	AET	os dw i trio cael gwared o hwnna	---	NSNT
+
+
+382, 1	1070, 1-4	BEN	*yeah* colli yr *yeah*	---	NST
+
+
+383, 1	1071, 1-2	AET	*so* oedd	NST	NST
+383, 3	1073, 1-11	AET	a gobeithio does neb arall yn mynd i notisio fo gymaint	NSNT	NSNT
+383, 4	1073, 12-12	AET	â	NSNT	NSNT
+383, 5	1073, 13-16	AET	dach chi wedi notisio	NSNT	NSNT
+383, 6	1075, 1-5	AET	wrth_gwrs erbyn fydda i wedi	NSNT	NSNT
+383, 7	1075, 6-7	AET	roid o	---	NSNT
+
+
+384, 1	1076, 1-5	BEN	*oh* wrth_gwrs *yeah* fel fel	NST	NST
+384, 2	1078, 1-6	BEN	unrhyw un sy wneud unrhyw beth	NSNT	NSNT
+384, 3	1078, 7-17	BEN	dach chi yn gweld y y camgymeriadau fwy na unrhyw un	NSNT	NSNT
+384, 4	1078, 18-21	BEN	sy yn gwylio *yeah*	---	NST
+
+
+385, 1	1080, 1-1	AET	*hollol*	ST	NST
+385, 2	1081, 1-10	AET	wrth_gwrs os o'n i yn efo brws a paent de	NSNT	NSNT
+385, 3	1081, 11-14	AET	baswn i ddim yn	NSNT	NSNT
+385, 4	1081, 15-17	AET	roid o fewn	NSNT	NSNT
+385, 5	1081, 18-19	AET	na faswn	---	NSNT
+
+
+386, 1	1082, 1-4	BEN	*yeah* dw i yn	NST	NST
+386, 2	1082, 5-9	BEN	dw i yn licio *um*	NST	NST
+386, 3	1082, 10-17	BEN	baswn i meddwl y *crevasses* a a *Tryfan*	NST	NST
+386, 4	1083, 1-3	BEN	mae yn edrych	NSNT	NSNT
+386, 5	1085, 1-10	BEN	dach chi yn dal yn dal yn gweld y wyneb	---	NSNT
+
+
+387, 1	1086, 1-1	AET	yndach	---	NSNT
+
+
+388, 1	1087, 1-8	BEN	ond mae gan y wyneb *um* raffau gwyn	NST	NST
+388, 2	1089, 1-4	BEN	ar_draws dw i meddwl	---	NSNT
+
+
+389, 1	1092, 1-13	AET	pan mae yr gwynt a yr *er* wedi chwythu yr eira i yr	---	NST
+
+
+390, 1	1093, 1-11	BEN	i *yeah* lawr i yr i i_mewn i yr *crevasses* *yeah*	---	NST
+
+
+391, 1	1094, 1-4	AET	i yr *crevasses* felly	NST	NST
+391, 2	1096, 1-4	AET	dw ddim yn cofio	NSNT	NSNT
+391, 3	1096, 5-13	AET	be ydy yr llun nesa i fod yn *honest*	NST	NST
+391, 5	1098, 1-17	AET	*oh* *yeah* wedi cerdded drosodd o llyn *Bochlwyd* sy ochr arall i yr *Tryfan* dal i fod	---	NST
+
+
+392, 1	1100, 1-3	BEN	*yeah* wir *yeah*	---	NST
+
+
+393, 1	1101, 1-7	AET	ond ochr arall i *Tryfan* mae yna	NST	NST
+393, 2	1101, 8-14	AET	mae yna *line* ar_draws *Tryfan* ochr yma	NST	NST
+393, 3	1103, 1-2	AET	sy yn	NSNT	NSNT
+393, 4	1103, 3-7	AET	mae nhw galw fo *Heather_Terrace*	---	NST
+
+
+394, 1	1106, 1-2	BEN	y hen	---	NSNT
+
+
+395, 1	1107, 1-4	AET	*er* gair Saesneg wrth_gwrs	NST	NST
+395, 2	1108, 1-4	AET	pobl sy yn dringo	NSNT	NSNT
+395, 3	1108, 5-6	AET	sy wedi	NSNT	NSNT
+395, 4	1108, 7-8	AET	roid o	NSNT	NSNT
+395, 5	1110, 1-4	AET	mae o yn y	NSNT	NSNT
+395, 6	1110, 5-23	AET	lle mae nhw yn dringo fyny a cerdded ar ei hyd hi i ddod i yr bwlch yma felly	NSNT	NSNT
+395, 7	1112, 1-9	AET	*er* mae *right* *glear* i weld o yr lôn	NST	NST
+395, 8	1114, 1-15	AET	pan dach chi edrych ato fo o yr o yr ochr gyfeiriad *er* *Capel_Curig* felly	---	NST
+
+
+396, 1	1115, 1-5	BEN	*yeah* *oh* dw ddim wedi	NST	NST
+396, 2	1115, 6-7	BEN	sylweddolai *yeah*	---	NST
+
+
+397, 1	1118, 1-12	AET	*oh* be o'n i licio wrth_gwrs y lliwiau yma a yr gwyn	NST	NST
+397, 2	1120, 1-3	AET	*er* yr *um*	---	NST
+
+
+398, 1	1121, 1-4	BEN	y grug yno a	---	NSNT
+
+
+399, 1	1122, 1-20	AET	y grug ochr chwith yma a yr *well* beth bynnag ydy hwnna brwyn wedi troi yn *frown* y gwaelod yna	NST	NST
+399, 2	1124, 1-8	AET	y y gwahanol lliwiau sy yna yn y	NSNT	NSNT
+399, 3	1124, 9-9	AET	gaea	NSNT	NSNT
+399, 4	1125, 1-6	AET	a un arall *er* uwch i_fyny	NST	NST
+399, 5	1126, 1-5	AET	lawr fan yna o'n i	---	NSNT
+
+
+400, 1	1127, 1-5	BEN	*oh* *Tryfan* eto *yeah* *yeah*	---	NST
+
+
+401, 1	1128, 1-17	AET	dw i wedi dod i_fyny ar y crib wan neu ar y ia ar y crib basically	SNT	SNT
+401, 2	1129, 1-8	AET	a wedyn mae yna niwl dechrau codi fel	NSNT	NSNT
+401, 3	1129, 9-12	AET	dach chi yn gweld	NSNT	NSNT
+401, 4	1131, 1-5	AET	yn y yn y gwaelodion	NSNT	NSNT
+401, 5	1132, 1-6	AET	ond mae yna ddigon o olau	NSNT	NSNT
+401, 6	1133, 1-6	AET	toes yna ddim haul i weld	NSNT	NSNT
+401, 7	1134, 1-6	AET	chi does yna ddim cysgodion cry	NSNT	NSNT
+401, 8	1135, 1-8	AET	ond be o'n i isio yma ydy triangles	SNT	SNT
+401, 9	1135, 9-12	AET	wchi tri gongl eto	---	NSNT
+
+
+402, 1	1136, 1-9	BEN	*oh* holloll ar_gyfer y composition *yeah* fi yn clywed	---	ST
+
+
+403, 1	1137, 1-2	AET	achos mae	NSNT	NSNT
+403, 2	1137, 3-8	AET	gynnoch chi hwn yn fan yma	NSNT	NSNT
+403, 3	1138, 1-4	AET	yn fan yma mae	NSNT	NSNT
+403, 4	1138, 5-7	AET	gynnoch chi hwnna	NSNT	NSNT
+403, 5	1139, 1-2	AET	a mae	NSNT	NSNT
+403, 6	1139, 3-8	AET	gynnoch chi yr tir yna hefyd	NSNT	NSNT
+403, 7	1141, 1-5	AET	wchi ryw fath o *diles*	NST	NST
+403, 8	1143, 1-17	AET	a mae hwn eto yn mynd â chi fyny draws ac fel yna lawr yn_ôl fel yna	---	NSNT
+
+
+404, 1	1144, 1-2	BEN	fyny *yeah*	NST	NST
+404, 2	1145, 1-8	BEN	yn_ôl at y cychwyn at y cychwyn ie	---	NSNT
+
+
+405, 1	1146, 1-2	AET	i_fyny lawr	NSNT	NSNT
+405, 2	1147, 1-9	AET	*so* dach chi medru mynd *right* *round* y llun	NST	NST
+405, 3	1149, 1-3	AET	efo yr *lines*	NST	NST
+405, 4	1150, 1-7	AET	ond hefyd be o'n i wedi weld	NSNT	NSNT
+405, 5	1152, 1-11	AET	fath â o'n i sôn amdan gynnau ychydig bach o imagination	SNT	SNT
+405, 6	1154, 1-10	AET	*er* yr *er* *Spielberg* mothership yn dod drost y mynydd	---	ST
+
+
+406, 1	1156, 1-4	BEN	dw i yn licio	---	NSNT
+
+
+407, 1	1157, 1-1	AET	*well*	ST	NST
+407, 2	1159, 1-5	AET	llygad dwy lygad a ceg	SNT	NSNT
+407, 3	1160, 1-1	AET	Easter_Island	---	NSNT
+
+
+408, 1	1161, 1-6	BEN	*oh* holloll *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+409, 1	1162, 1-8	AET	pen un o rheina sy dod o Easter_Island	SNT	SNT
+409, 2	1164, 1-6	AET	o'n i yn gweld hynna yn	NSNT	NSNT
+409, 3	1166, 1-3	AET	yn yn *glear*	NST	NST
+409, 4	1167, 1-6	AET	a mae gynno fo freckles wrth_gwrs	---	SNT
+
+
+410, 1	1169, 1-19	BEN	llygaid fi wedi cael eu tynnu at *er* at y cymylau eto *just* y y cymylau uwch uwch iawn	---	NST
+
+
+411, 1	1170, 1-1	AET	bysai	---	NSNT
+
+
+412, 1	1173, 1-8	BEN	fel *er* rhyw fath o lid ar_draws bob_dim	---	ST
+
+
+413, 1	1174, 1-8	AET	*mmm* ond dw i licio yr *er* hwnna	---	NST
+
+
+414, 1	1175, 1-2	BEN	ond *er*	---	NST
+
+
+415, 1	1177, 1-6	AET	*um* mae hwnna yn tynnu sylw	NST	NST
+415, 2	1178, 1-18	AET	yn y *er* unwaith dw i wedi ddangos i rywun y ddwy lygad a yr ceg fan yna	---	NST
+
+
+416, 1	1179, 1-8	BEN	*oh* *yeah* mae yn amlwg wedyn *yeah* *yeah*	---	NST
+
+
+417, 1	1180, 1-8	AET	*er* mae yna fath â *er* edrych i_fyny	NST	NST
+417, 3	1183, 1-12	AET	a wedyn ar_ôl tynnu hwnna mi edrychais i lawr tuag at *er*	---	NST
+
+
+418, 1	1184, 1-1	BEN	*wow*	---	NST
+
+
+419, 1	1185, 1-4	AET	at y llyn yma	NSNT	NSNT
+419, 2	1186, 1-1	AET	llyn	SNT	NSNT
+419, 3	1188, 1-1	AET	*Caseg_Fraith*	ST	NST
+419, 4	1189, 1-6	AET	dach chi wedi clywed amdan hwnna	---	NSNT
+
+
+420, 1	1190, 1-8	BEN	no dw i ddim yn na hynny eto	---	SNT
+
+
+421, 1	1191, 1-7	AET	*well* caseg fraith ydy spotted *horse* roughly	ST	ST
+421, 2	1193, 1-3	AET	wchi *translation* felly	NST	NST
+421, 3	1194, 1-3	AET	a mae hwn	NSNT	NSNT
+421, 4	1195, 1-12	AET	*er* *well* mae rywbeth *odd* amdan y llun yma mewn un ffordd	NST	NST
+421, 5	1195, 13-16	AET	ydy yr cymylau yma	NSNT	NSNT
+421, 7	1199, 1-12	AET	a roes i enw ar hwn fath â *er* enw Saesneg *Spirits_of_the_Lake*	NST	NST
+421, 8	1201, 1-6	AET	ond be sy yn *odd* mi	NST	NST
+421, 9	1201, 7-7	AET	ddoth	NSNT	NSNT
+421, 10	1202, 1-1	AET	wchi	NSNT	NSNT
+421, 11	1202, 2-10	AET	mae cymylau yn bell rywsut oddi_wrthon ni fan yna	NSNT	NSNT
+421, 12	1204, 1-5	AET	mae yr dŵr hollol llonydd	NSNT	NSNT
+421, 13	1206, 1-3	AET	mi ddoth hwn	NSNT	NSNT
+421, 14	1207, 1-9	AET	mi arhosodd am ryw funud neu ddau a diflannu	NSNT	NSNT
+421, 15	1208, 1-5	AET	a dw ddim yn saff	NSNT	NSNT
+421, 16	1208, 6-11	AET	sut wnaethon nhw cael eu cynhyrchu	NSNT	NSNT
+421, 17	1209, 1-7	AET	dw i licio meddwl na i fi	NSNT	NSNT
+421, 18	1209, 8-11	AET	gaethon nhw eu cynhyrchu	NSNT	NSNT
+421, 19	1211, 1-10	AET	ond mi wnaethon nhw diflannu mor *sudden* â ddothon nhw	---	NST
+
+
+422, 1	1212, 1-7	BEN	*yeah* na mae yn hyfryd *yeah* *yeah*	---	NST
+
+
+423, 1	1213, 2-9	AET	oedd o yn *odd* i fod yn *honest*	ST	NST
+423, 2	1214, 1-7	AET	anyway *um* *Spirits_of_the_Lake* o'n i galw hwnna	---	ST
+
+
+424, 1	1215, 1-1	BEN	*well*	ST	NST
+424, 2	1216, 1-1	BEN	hyfryd	---	NSNT
+
+
+425, 1	1218, 1-4	AET	am neu *Ysbryd_y_Llyn* de	NST	NST
+425, 2	1220, 1-5	AET	wedyn yr ha eto de	---	NSNT
+
+
+426, 1	1221, 1-2	BEN	hyfryd *oh*	NST	NST
+426, 2	1222, 1-6	BEN	*er* *er* mae pethau yn digwydd	NST	NST
+426, 3	1223, 1-3	BEN	mae *action* yno	NST	NST
+426, 4	1225, 1-18	BEN	*er* mae haul disgleirio ar y ar y y *algae* neu *stuff* gwyrdd ar y ar y cerrig	NST	NST
+426, 5	1227, 1-5	BEN	*um* mae dŵr yn redeg	NST	NST
+426, 6	1228, 1-10	BEN	dach chi yn cael y wahaniaeth rhwng y y *top*	NST	NST
+426, 7	1228, 11-15	BEN	lle mae bob_dim fel gwallt	SNT	NSNT
+426, 9	1232, 1-6	BEN	*yeah* no dw i licio hynny	NST	ST
+426, 10	1233, 1-6	BEN	a mae diwrnod hyfryd awyr glas	---	NSNT
+
+
+427, 1	1234, 1-2	AET	mae o	NSNT	NSNT
+427, 2	1236, 1-3	AET	mae o ddiwrnod	NSNT	NSNT
+427, 3	1236, 4-6	AET	lle dach chi	NSNT	NSNT
+427, 4	1236, 7-15	AET	roid eich botel *pop* yn y dŵr i oeri	NST	NST
+427, 5	1238, 1-2	AET	a *sandwich*	NST	NST
+427, 6	1239, 1-7	AET	a dach chi yn eistedd i edrych	---	NSNT
+
+
+428, 1	1240, 1-2	BEN	*oh* hyfryd	---	NST
+
+
+429, 1	1242, 1-8	AET	i edrych ar y ar y olygfa felly	NSNT	NSNT
+429, 2	1244, 1-8	AET	y dŵr yn dod lawr yn fan yma	NSNT	NSNT
+429, 3	1245, 1-2	AET	a *Tryfan*	---	NST
+
+
+430, 1	1246, 1-1	BEN	*Tryfan*	---	NST
+
+
+431, 1	1247, 1-1	AET	o	---	NSNT
+
+
+432, 1	1248, 1-6	BEN	*Tryfan* *oh* *Tryfan* o yr ochr	---	NST
+
+
+433, 1	1249, 1-2	AET	*Tryfan* *yeah*	ST	NST
+433, 2	1250, 1-4	AET	dydy o ddim_byd debyg	---	NSNT
+
+
+434, 1	1251, 1-15	BEN	*oh* *yeah* dw i ddim wedi gweld *Tryfan* o o yr angle hwnnw byth erioed	---	ST
+
+
+435, 1	1252, 1-4	AET	dydy o ddim_byd debyg	NSNT	NSNT
+435, 2	1252, 5-6	AET	nag ydy	NSNT	NSNT
+435, 3	1254, 1-13	AET	bwysig yn fan yma oedd y cymylau yn mynd ar_draws yma *slow* bach	NST	NST
+435, 4	1255, 1-8	AET	oedd o bwysig i hwnna fod yn *balance*	---	NST
+
+
+436, 1	1256, 1-5	BEN	yn yes *er* *yeah* *yeah*	---	ST
+
+
+437, 1	1257, 1-7	AET	a fel oedd yn dod ei ôl	NSNT	NSNT
+437, 2	1257, 8-12	AET	oedd o yn dechrau diflannu	NSNT	NSNT
+437, 3	1258, 1-10	AET	oedd o ychydig bach fwy o big o_gwmpas fan yma	NSNT	NSNT
+437, 4	1260, 1-9	AET	ond oedd o ry agos i canol y llun	NSNT	NSNT
+437, 5	1261, 1-6	AET	*so* o'n i disgwyl ddod ar_draws	NST	NST
+437, 6	1262, 1-14	AET	a mi ddoth o *just* digon i i cael fath â counterbalance ddeudan ni	---	ST
+
+
+438, 1	1263, 1-5	BEN	*yeah* *oh* mae yn hyfryd	NST	NST
+438, 2	1264, 1-4	BEN	*yeah* a mae little	---	ST
+
+
+439, 1	1265, 1-18	AET	a ddim poeni am y bob_dim arall because oedd bob_dim arall yr un fath mynd i symud dim	---	SNT
+
+
+441, 1	1268, 1-8	AET	*yeah* wedi *yeah* *just* wedi gwthio drosodd *yeah*	NST	NST
+441, 2	1269, 1-6	AET	a be be oedd yn digwydd	NSNT	NSNT
+441, 3	1269, 7-13	AET	oedd o gyd yn mynd drosodd eventually	SNT	SNT
+441, 4	1269, 14-14	AET	nes	NSNT	NSNT
+441, 5	1269, 16-22	AET	gynnoch chi *just* rywbeth fath â hwn	NST	NST
+441, 6	1271, 1-7	AET	oedd o bechod mewn ffordd bod o	NSNT	NSNT
+441, 7	1271, 8-10	AET	wnaeth o ddigwydd	NSNT	NSNT
+441, 8	1272, 1-8	AET	ac wrth_gwrs *um* fath â o'n i deud	NST	NST
+441, 9	1273, 1-19	AET	ar y ffordd i_fyny i cwm *Ffynnon_Lloer* ydy hwn by the way *er* yn *um* dyffryn *Ogwen* fan yna	NST	ST
+441, 10	1275, 1-9	AET	*er* wedyn mae llyn *Idwal* *Ogwen* yn is lawr	NST	NST
+441, 11	1276, 1-9	AET	ond fan yma ydy yr lle i cael *picnic*	NST	NST
+441, 12	1277, 1-10	AET	a dw meddwl *shot* nesa chi yn gweld pam wan	NST	NST
+441, 13	1278, 1-3	AET	*yeah* fan yna	NST	NST
+441, 14	1280, 1-3	AET	*er* *Tryfan* de	---	NST
+
+
+442, 1	1281, 1-2	BEN	*yeah* ffordd	NST	NST
+442, 2	1282, 1-8	BEN	dw i gweld y ffordd cwm *Idwal* *yeah*	---	NST
+
+
+443, 1	1283, 1-4	AET	cwm *Idwal* fan yna	NST	NST
+443, 2	1284, 1-5	AET	mae *Bochlwyd* i_fyny fan yma	---	NST
+
+
+444, 1	1286, 1-8	BEN	a mae cymylau *just* yn *um* syrthio lawr	NST	NST
+444, 2	1289, 1-9	BEN	neu mae yn ddrwg gen i fynd i_fyny *yeah*	---	NST
+
+
+445, 1	1291, 1-6	AET	yr A_pump yr A_pump yn gwaelod	NSNT	NSNT
+445, 2	1293, 1-10	AET	chi weld y dotiau bach yna lle mae ceir i_gyd	---	NSNT
+
+
+446, 1	1294, 1-2	BEN	y ceir	NSNT	NSNT
+446, 2	1295, 1-13	BEN	*yeah* y ceir disgleirio ac y y tonnau ar y llyn ac y	---	NST
+
+
+447, 1	1296, 1-4	AET	*yeah* gwynt bach *just*	---	NST
+
+
+448, 1	1297, 1-6	BEN	dach chi yn cael gweld y	NSNT	NSNT
+448, 2	1298, 1-10	BEN	*yeah* gwynt wahanol wahanol mewn darnau wahanol o yr llyn	NST	NST
+448, 3	1300, 1-10	BEN	a hefyd dach chi yn gweld y y tir gwyrdd	NSNT	NSNT
+448, 4	1302, 1-10	BEN	yn dim ond lle mae llyn wedi cael ei llenwi	NSNT	NSNT
+448, 5	1304, 1-9	BEN	efo yr you know y pridd efo yr pethau	NSNT	SNT
+448, 6	1304, 10-18	BEN	sy wedi erydu lawr o yr o yr mynyddoedd	---	NSNT
+
+
+449, 1	1305, 1-5	AET	ia o_gwmpas fan yma *yeah*	---	NST
+
+
+449, 2	1307, 1-6	AET	wedi troi yn *er* *er* *well*	NST	NST
+450, 2	1311, 1-2	BEN	ac cymylau	NSNT	NSNT
+450, 3	1312, 1-5	BEN	a mae rywbeth hefyd oherwydd	NSNT	NSNT
+450, 4	1312, 6-9	BEN	dach chi yn gwylio	NSNT	NSNT
+450, 5	1313, 1-13	BEN	dach chi yn edrych ar *er* at y tuag at y haul *yeah*	---	NST
+
+
+451, 1	1315, 1-2	AET	ia dyna	NSNT	NSNT
+451, 2	1315, 3-14	AET	sut mae yr haul yn yn dod trwy yr dŵr mewn ffordd	---	NSNT
+
+
+452, 1	1316, 1-4	BEN	ond mae yn da	NSNT	NSNT
+452, 2	1317, 1-1	BEN	mae	NSNT	NSNT
+452, 3	1317, 2-5	BEN	dach chi yn dal	NSNT	NSNT
+452, 4	1318, 1-7	BEN	*yeah* dach chi yn dal yn cael	---	NST
+
+
+453, 1	1319, 1-6	AET	mae o yn dod *right* drwodd	NST	NST
+453, 2	1321, 1-2	AET	yn y	NSNT	NSNT
+453, 3	1322, 1-2	AET	ia *just*	NST	NST
+453, 4	1323, 1-10	AET	ia *just* ychydig bach colli yn y tywyllwch fan yma	NST	NST
+453, 5	1325, 1-2	AET	ond dyna	NSNT	NSNT
+453, 6	1325, 3-14	AET	be sy yn digwydd pan chi gymaint o olau cry yn taro	---	NSNT
+
+
+454, 1	1326, 1-6	BEN	*yeah* olau cry dod i_mewn *yeah*	---	NST
+
+
+455, 1	1327, 1-4	AET	mae yn hawdd *um*	NST	NST
+455, 2	1327, 5-11	AET	bod yn trio cael fath â detail	SNT	SNT
+455, 3	1327, 12-12	AET	wchi	NSNT	NSNT
+455, 4	1327, 13-19	AET	bod yna hoel rywbeth yn y cysgodion	NSNT	NSNT
+455, 5	1329, 1-6	AET	wan os dach chi wneud hynna	NSNT	NSNT
+455, 6	1329, 7-16	AET	dach chi mynd i colli hoel yn y dŵr wedyn	NSNT	NSNT
+455, 7	1330, 1-4	AET	mae hwnna mynd yn	NSNT	NSNT
+455, 8	1330, 5-9	AET	wchi *just* wyn a dim	ST	NST
+455, 9	1332, 1-5	AET	detail eto ydy yr gair	NSNT	SNT
+455, 10	1332, 6-8	AET	mae *sure* *um*	NST	NST
+455, 11	1333, 1-16	AET	wedyn mae hwn yr un lle o'n i sôn am efo yr cwmwl wedi mynd ar_draws	NSNT	NSNT
+455, 12	1334, 1-7	AET	ond dim cymaint o ddŵr tro yma	NSNT	NSNT
+455, 13	1336, 1-8	AET	mae yr dŵr yn llai mynd drost yr	NSNT	NSNT
+455, 14	1337, 1-10	AET	ond o'n i licio patrymau ar ar_hyd fan yma i_gyd	NSNT	NSNT
+455, 15	1339, 1-7	AET	mewn ffordd baswn i medru wneud i_ffwrdd	NSNT	NSNT
+455, 16	1339, 8-9	AET	baswn i	NSNT	NSNT
+455, 17	1339, 10-19	AET	baswn i deud a anghofio *top* y llun *just* concentrate	---	ST
+
+
+456, 1	1340, 1-2	BEN	a timod	NSNT	NSNT
+456, 2	1340, 3-5	BEN	mae yna amser	NSNT	NSNT
+456, 3	1340, 6-8	BEN	dach chi yn	---	NSNT
+
+
+457, 1	1341, 1-7	AET	dach chi yn gweld faint mor olau	NSNT	NSNT
+457, 2	1341, 8-12	AET	mae hwnna yn mynd wan	---	NSNT
+
+
+458, 1	1342, 1-4	BEN	*oh* hyfryd *yeah* *yeah*	---	NST
+
+
+459, 1	1343, 1-2	AET	because mae	NSNT	SNT
+459, 2	1343, 3-3	AET	yr	NSNT	NSNT
+459, 3	1343, 4-9	AET	mae yr awyr mewn competition yn	NSNT	SNT
+459, 4	1344, 1-1	AET	mae	---	NSNT
+
+
+459, 5	1344, 2-6	AET	dw i wrth fy modd	---	NSNT
+
+
+461, 1	1346, 1-5	AET	dach chi yn *just* *just*	NST	NST
+461, 2	1348, 1-9	AET	ia pwysleisio mwy ar y tu blaen fan yna	---	NSNT
+
+
+462, 1	1349, 1-5	BEN	*um* rywbeth arall hefyd *er*	NST	NST
+462, 2	1350, 1-2	BEN	yr amser	---	NSNT
+
+
+463, 1	1351, 1-5	AET	amser y flwyddyn yn wahanol	---	NSNT
+
+
+464, 1	1352, 1-6	BEN	na na nid yr amser blwyddyn	NSNT	NSNT
+464, 2	1353, 1-4	BEN	yr amser amser exposure	---	SNT
+
+
+465, 1	1354, 1-6	AET	*oh* *yeah* mae yr amser yn	NST	NST
+465, 2	1355, 1-16	AET	i fod yn *honest* does yna ddim llawer o wahaniaeth rhwng hwn rhan *er* shutter_speed felly	---	ST
+
+
+466, 1	1356, 1-5	BEN	na *just* y y ffordd	ST	NST
+466, 2	1357, 1-4	BEN	*oh* *yeah* *yeah* shutter_speed	ST	NST
+466, 3	1359, 1-6	BEN	*sorry* mae yn ddrwg gen i	NST	NST
+466, 4	1360, 1-7	BEN	*er* *yeah* dach chi yn cael weld	---	NST
+
+
+467, 1	1361, 1-12	AET	dim cymaint o geir ar y diwrnod yna chwaith neu i weld	---	NSNT
+
+
+468, 1	1362, 1-7	BEN	*oh* efallai dach chi ddim yn *um*	---	NST
+
+
+469, 1	1363, 1-6	AET	diwrnod wahanol oedd hwn i yr	---	NSNT
+
+
+470, 1	1364, 1-2	BEN	defnyddio reflections	SNT	SNT
+470, 2	1365, 1-6	BEN	does ddim cymaint o reflections efallai	---	SNT
+
+
+471, 1	1366, 1-2	AET	nag oes	NSNT	NSNT
+471, 2	1366, 3-4	AET	nag oes	---	NSNT
+
+
+472, 1	1367, 1-11	BEN	mae *er* golau yn dod o yr *er* cyfeiriad wahanol *yeah*	---	NST
+
+
+473, 1	1368, 1-10	AET	oedd yna ychydig bach o niwl ar y diwrnod hefyd	NSNT	NSNT
+473, 4	1371, 1-8	AET	*yeah* llyn *Idwal* edrych tuag at mynydd *Pen_yr_Ole_Wen*	NST	NST
+473, 5	1373, 1-5	AET	neu *er* top_of_the_white_mountain *er* mountain_of_white_light	ST	ST
+473, 7	1376, 1-5	AET	pen yr ole wen de	---	NSNT
+
+
+474, 1	1377, 1-9	BEN	ie wir *yeah* *yeah* *yeah* *yeah* dw yn *yeah*	---	NST
+
+
+475, 1	1378, 1-1	AET	white_light	SNT	NSNT
+475, 3	1381, 1-14	AET	wedyn *er* hwn wedi cael ei dynnu dim yr un amser â yr dwytha	NST	NST
+475, 4	1382, 1-6	AET	*um* mae hwn yn y gwanwyn	ST	NST
+475, 5	1383, 1-5	AET	because dach chi yn gweld	NSNT	SNT
+475, 6	1383, 6-15	AET	mae brwyn hen dal i fod yn y a *fresh*	---	NST
+
+
+476, 1	1384, 1-8	BEN	*yeah* dal yn dal yn cael ei gweld	NST	NST
+476, 2	1385, 1-4	BEN	*yeah* mae yn *yeah*	---	NST
+
+
+477, 1	1386, 1-11	AET	tua diwedd mis Mai oedd hwn efo eira ar y topiau	NSNT	NSNT
+477, 2	1387, 1-8	AET	gafon ni eira yn hwyr yn y flwyddyn	NSNT	NSNT
+477, 4	1389, 1-4	AET	yr un un *shot*	NST	NST
+477, 5	1390, 1-15	AET	heblaw yn lle iwsio brwyn tu blaen dw i wedi defnyddio yr *well* y cerrig	---	NST
+
+
+478, 1	1392, 1-3	BEN	y cerrig *yeah*	NST	NST
+478, 2	1393, 1-4	BEN	mae dŵr yn is	---	NSNT
+
+
+479, 1	1394, 1-6	AET	neu yn lle iwsio *just* dŵr	NST	NST
+479, 2	1395, 1-4	AET	fysai dŵr ar ben	NSNT	NSNT
+479, 3	1395, 5-6	AET	ei hun	NSNT	NSNT
+479, 4	1395, 7-15	AET	basai fo ychydig bach yn *er* ddeudan ni monotonous	ST	ST
+479, 5	1397, 1-5	AET	dim ddim rywbeth i weld	NSNT	NSNT
+479, 6	1398, 1-16	AET	ond o'n i yn teimlo hefyd bod chi medru neidio one two three four five i_fyny	NSNT	SNT
+479, 7	1398, 17-23	AET	de fath â *steps* trwy yr llun	---	NST
+
+
+480, 1	1399, 1-4	BEN	*oh* holloll *yeah* *yeah*	---	NST
+
+
+481, 1	1401, 1-2	AET	horizontal *steps*	ST	NST
+481, 2	1402, 1-8	AET	wedyn edrych *er* cyfeiriad arall wan tuag at	NST	NST
+481, 3	1404, 1-9	AET	*er* fan yma mae nhw yn dringo *Idwal* *slabs*	NST	NST
+481, 4	1406, 1-6	AET	a mae Devil's_Kitchen i yr dde	NSNT	SNT
+481, 5	1408, 1-5	AET	*um* a yr cymylau wrth_gwrs	NST	NST
+481, 6	1409, 1-12	AET	fysech chi yn topiau basech chi ddim yn gweld llawer o ddim_byd	NSNT	NSNT
+481, 7	1410, 1-9	AET	*er* mae yna *berson* efo *anorak* coch *just* cerdded	ST	NST
+481, 8	1412, 1-1	AET	*scale*	ST	NST
+481, 9	1413, 1-9	AET	nid bod fi licio cael pobl yn y llun	NSNT	NSNT
+481, 10	1413, 10-11	AET	ond digwydd	NSNT	NSNT
+481, 11	1413, 12-12	AET	bod	NSNT	NSNT
+481, 13	1415, 1-4	AET	wnes i ddim notisio	NSNT	NSNT
+481, 14	1415, 5-9	AET	dw meddwl ar y pryd	NSNT	NSNT
+481, 15	1417, 1-1	AET	a	---	NSNT
+
+
+482, 1	1418, 1-2	BEN	*oh* hyfryd	NST	NST
+482, 2	1419, 1-3	BEN	o lle *er*	---	NST
+
+
+483, 1	1420, 1-6	AET	mae o llyn *Idwal* a *Ogwen*	NST	NST
+483, 2	1421, 1-8	AET	dw i cerdded i_fyny i ben y *Garn*	NST	NST
+483, 3	1422, 1-13	AET	*well* tes i ddim i ben y *Garn* ond am cyfeiriad y *Garn*	---	NST
+
+
+484, 1	1425, 1-8	BEN	*yeah* hyfryd efo yr ganghennau y y coed	---	NST
+
+
+485, 1	1427, 1-4	AET	*oh* ia mae yna	---	NST
+
+
+486, 1	1428, 1-2	BEN	a *yeah*	NST	NST
+486, 2	1429, 1-15	BEN	a hyfryd efo ychydig bach o o eira dal ar y mynydd ar y chwith	NSNT	NSNT
+486, 3	1432, 1-3	BEN	yn y cefndir	---	NSNT
+
+
+487, 1	1433, 1-6	AET	mae mis Mai diwedd mis Mai	NSNT	NSNT
+487, 2	1433, 7-9	AET	oedd hwn eto	NSNT	NSNT
+487, 3	1434, 1-16	AET	*um* raid mynd yn_ôl un diwrnod i tynnu lluniau efo yr efo yr dail a ballu	---	NST
+
+
+488, 1	1435, 1-2	BEN	*oh* yes	---	NST
+
+
+489, 1	1437, 1-6	AET	a dw i meddwl na rowan_tree	SNT	SNT
+489, 2	1437, 7-8	AET	ydy o	NSNT	NSNT
+489, 3	1438, 1-7	AET	dw ddim yn hundred per cent *sure*	ST	ST
+489, 4	1439, 1-22	AET	o'n i disgwyl am y cwmwl fath â bod y bys yn mynd â chi at y cwmwl felly a pointing up	SNT	SNT
+489, 6	1442, 1-3	AET	wedyn symud y	---	NSNT
+
+
+490, 1	1443, 1-3	BEN	*oh* *yeah* *so*	---	NST
+
+
+491, 1	1444, 1-15	AET	*camera* i ychydig bach i *round* i yr chwith er_mwyn cael y llyn i_gyd i_fewn	NST	NST
+491, 2	1446, 1-4	AET	a hwn dod i_fyny	---	NSNT
+
+
+492, 1	1447, 1-5	BEN	*oh* mae hwnna yn hyfryd	---	NST
+
+
+493, 1	1448, 1-6	AET	*pity* bod y lôn yn dal	NST	NST
+493, 2	1449, 1-5	AET	hwnna ydy yr hen lôn	---	NSNT
+
+
+494, 1	1450, 1-3	BEN	*oh* hen lôn	NST	NST
+494, 2	1451, 1-8	BEN	*yeah* *yeah* *yeah* dach chi yn cael gweld	---	NST
+
+
+495, 1	1452, 1-3	AET	yr hen lôn	NSNT	NSNT
+495, 2	1453, 1-6	AET	*pity* mewn ffordd bod o yna	NST	NST
+495, 3	1454, 1-6	AET	heb hwnna does yna ddim hoel	NSNT	NSNT
+495, 4	1454, 7-10	AET	dyn yn y llun	NSNT	NSNT
+495, 5	1455, 1-1	AET	wchi	NSNT	NSNT
+495, 6	1455, 2-12	AET	does yna ddim wal *fence* neu lôn na dim_byd ond hwnna	---	NST
+
+
+496, 1	1456, 1-4	BEN	*yeah* *yeah* holloll *yeah*	---	NST
+
+
+497, 1	1458, 1-8	AET	wrth_gwrs baswn i sganio hwn digitally mewn ffordd	NSNT	SNT
+497, 2	1458, 10-15	AET	baswn i medru cael gwared o	---	NSNT
+
+
+498, 1	1459, 1-4	BEN	*yeah* tynnu ffwrdd *yeah*	---	NST
+
+
+499, 1	1460, 1-15	AET	clonio creigiau yma i_gyd ar ei ben o rhag i neb notisio bod o yna	NSNT	NSNT
+499, 2	1461, 1-3	AET	ond dyna o	NSNT	NSNT
+499, 3	1462, 1-8	AET	mae digidol yn crefft ychydig bach yn wahanol	NSNT	NSNT
+499, 4	1463, 1-7	AET	mae hwn yn hwyr yn pnawn fel	NSNT	NSNT
+499, 5	1463, 8-10	AET	dach chi weld	NSNT	NSNT
+499, 6	1464, 1-11	AET	mae yna golau yn yr *um* *er* *Ogwen_Cottage* yn gwaelod yna	NST	NST
+499, 7	1466, 1-10	AET	a hwn ydy yr afon dod allan yn llyn *Idwal*	NST	NST
+499, 8	1468, 1-12	AET	ac o'n i gweld hwn fath â ryw *halo* o olau uwchben	NST	NST
+499, 9	1470, 1-2	AET	y llyn	SNT	NSNT
+499, 10	1472, 1-5	AET	*um* Sacred_Light_of_the_Mountaineer o'n i ddeud	---	ST
+
+
+500, 1	1473, 1-2	BEN	*yeah* gwybod	---	NST
+
+
+501, 1	1474, 1-3	AET	mae hwnna bwysig	NSNT	NSNT
+501, 2	1475, 1-11	AET	basech chi yn *stuck* yn fan yna mae yna olau yna	NST	NST
+501, 3	1475, 12-21	AET	does dod trwy yr cymylau yma i helpu nhw lawr	NSNT	NSNT
+501, 4	1477, 1-8	AET	ond oedd hwnna yn hwyr yn mis Ionawr	NSNT	NSNT
+501, 5	1477, 9-23	AET	os dw yn cofio yn iawn *um* tua hanner wedi tri pedwar o_gloch yn pnawn	NST	NST
+501, 6	1478, 1-9	AET	*so* oedd hi *right* agos i fynd yn dywyll	---	NST
+
+
+502, 1	1479, 1-6	BEN	*yeah* agos at y *ah* *yeah*	---	NST
+
+
+503, 1	1482, 1-5	AET	mae hwn eto *right* ganol	NST	NST
+503, 2	1482, 6-9	AET	gaea yn llyn *Idwal*	NST	NST
+503, 3	1484, 1-9	AET	*um* brwyn wan lle oedd o yn wyrdd gynnau	NST	NST
+503, 4	1484, 10-11	AET	gynnon ni	---	NSNT
+
+
+504, 1	1485, 1-11	BEN	mae eira yn tynnu y manylion *um* y cerrig y geology	ST	ST
+504, 2	1487, 1-2	BEN	*yeah* mae	NST	NST
+504, 3	1487, 3-11	BEN	mae yn *just* dod y manylion allan *lot* well	NST	NST
+504, 4	1489, 1-13	BEN	mae yn *just* ychydig bach o eira *just* sprinkling bach o eira *yeah*	---	ST
+
+
+505, 1	1490, 1-3	AET	dyna o *yeah*	NST	NST
+505, 2	1491, 1-1	AET	wedyn	---	NSNT
+
+
+506, 1	1494, 1-1	BEN	oer	---	NSNT
+
+
+507, 1	1496, 1-13	AET	*yeah* fath â ni gweld dros hanner y llun yn y tu blaen	NST	NST
+507, 2	1497, 1-3	AET	defnyddio wide_angle *lens*	ST	ST
+507, 3	1499, 1-3	AET	er_mwyn wneud saff	NSNT	NSNT
+507, 4	1500, 1-13	AET	be o'n i wedi gweld y dŵr *er* yn torri yr gwyneb y	NST	NST
+507, 5	1502, 1-6	AET	y pwll bach yn fan yma	NSNT	NSNT
+507, 6	1504, 1-6	AET	a wedyn es i digon isel	NSNT	NSNT
+507, 7	1505, 1-4	AET	o'n i *right* ofalus	ST	NST
+507, 8	1506, 1-9	AET	because be oedd yn digwydd hefyd o'n i notisio	NSNT	SNT
+507, 9	1506, 10-19	AET	oedd y dŵr yn chwythu at tu blaen y *camera*	NST	NST
+507, 10	1507, 1-18	AET	oedden nhw rhewi fath â ryw lympiau bach o rhew efo yr gwynt yn codi yr dŵr i_fyny	NSNT	NSNT
+507, 12	1510, 1-5	AET	am bod hi mor oer	NSNT	NSNT
+507, 13	1510, 6-10	AET	oedd o yn rhewi fel	NSNT	NSNT
+507, 14	1510, 11-19	AET	oedden nhw yn hitio y y *camera* mewn ffordd	---	NST
+
+
+508, 1	1511, 1-2	BEN	mae yn	---	NSNT
+509, 2	1514, 1-12	AET	pwyso yr bwtwn y y llaw yn_ôl i nadu mwy o wynt	---	NSNT
+
+
+510, 1	1515, 1-2	BEN	yn_ôl *yeah*	NST	NST
+510, 2	1516, 1-3	BEN	mae yn *um*	NST	NST
+510, 3	1516, 4-8	BEN	mae *just* fel fel fel	NST	NST
+510, 4	1516, 9-13	BEN	mae rhywbeth fel yr *Arctic*	---	NST
+
+
+511, 1	1520, 1-9	AET	oedd o yn teimlo felly ar y diwrnod hefyd	---	NSNT
+
+
+512, 1	1521, 1-2	BEN	*oh* hollol	---	NST
+
+
+513, 1	1522, 1-5	AET	*er* ella hwn oedd y	NST	NST
+513, 3	1524, 1-7	AET	mae hwn yn un o yr bythynnod	NSNT	NSNT
+513, 4	1524, 8-13	AET	oeddech chi sôn am *top* *Drws_y_Coed*	NST	NST
+513, 5	1527, 1-8	AET	ond nid yr un dach chi sôn am	NSNT	NSNT
+513, 6	1527, 9-16	AET	dw ddim yn meddwl wrth ochr y llyn	NSNT	NSNT
+513, 7	1529, 1-14	AET	*er* *er* wchi mewn ryw gornel fach i yr chwith i yr gronfa ddŵr	NST	NST
+513, 8	1530, 1-4	AET	oeddech chi sôn gynnau	---	NSNT
+
+
+514, 1	1531, 1-9	BEN	*oh* *yeah* *yeah* *yeah* *oh* yes dw i *yeah*	---	ST
+
+
+515, 1	1532, 1-3	AET	dach chi cofio	NSNT	NSNT
+515, 2	1534, 1-9	AET	o'ch chi sôn bwthyn lle mae nhw pysgota ballu	---	NSNT
+
+
+516, 1	1535, 1-4	BEN	*yeah* mi welon ni	NST	NST
+516, 2	1536, 1-5	BEN	*yeah* mi welon ni rai	---	NST
+
+
+517, 1	1537, 1-6	AET	oeddech chi sôn gynnau am *Drws_y_Coed*	---	NST
+
+
+518, 1	1538, 1-3	BEN	*yeah* yes *yeah*	---	NST
+
+
+519, 1	1539, 1-9	AET	*well* mae hwn dim yn agos i yr llyn	---	NST
+
+
+520, 1	1540, 1-3	BEN	ochr arall *yeah*	---	NST
+
+
+521, 1	1541, 1-2	AET	na tydy	NSNT	NSNT
+521, 2	1543, 1-3	AET	hwn ydy yr	NSNT	NSNT
+521, 3	1544, 1-8	AET	mae yna fath â ynys bach o craig	NSNT	NSNT
+521, 4	1546, 1-7	AET	*er* ac i yr chwith fan yma	NST	NST
+521, 5	1548, 1-5	AET	fan yna mae yr bwthyn	---	NSNT
+
+
+522, 1	1549, 1-3	BEN	*oh* *wow* *oh*	---	NST
+
+
+523, 1	1550, 1-6	AET	o_dan y goeden mae yr bwthyn	---	NSNT
+
+
+524, 1	1551, 1-2	BEN	golau hyfryd	NSNT	NSNT
+524, 2	1552, 1-2	BEN	golau *um*	---	NST
+
+
+525, 1	1553, 1-6	AET	ia mae yr Wyddfa fan yna	NSNT	NSNT
+525, 2	1554, 1-3	AET	cenllysg gafon ni	NSNT	NSNT
+525, 3	1555, 1-5	AET	newydd cael cawod o genllysg	SNT	NSNT
+525, 4	1557, 1-9	AET	*um* obviously bod o *right* i_fewn i mis Hydref	NST	ST
+525, 5	1558, 1-5	AET	*er* oedd hi *right* oer	NST	NST
+525, 6	1559, 1-7	AET	*um* dw i cofio hynna yn digwydd	NST	NST
+525, 7	1561, 1-8	AET	*yeah* mae hwnna yn llyn *Dywarchen* *Drws_y_Coed* felly	NST	NST
+525, 8	1563, 1-7	AET	wedyn mae hwn yr un un diwrnod	---	NSNT
+
+
+526, 1	1564, 1-1	BEN	eto	---	NSNT
+
+
+527, 1	1565, 1-3	AET	mae cymylau yn	NSNT	NSNT
+527, 2	1565, 4-15	AET	dach chi yn gweld stormus gwynt yn plygu yr brwyn tu blaen	NSNT	NSNT
+527, 3	1568, 1-9	AET	*just* ychydig bach o olau yn taro fan yma	NST	NST
+527, 6	1571, 1-8	AET	mae gwyn a *Mynydd_Mawr* yn fan yna wrth_gwrs	NST	NST
+527, 7	1573, 1-11	AET	a mae yr hen bwthyn bach *right* yn golau fan yna	---	NST
+
+
+528, 1	1574, 1-4	BEN	*yeah* dyna ni *yeah*	---	NST
+
+
+529, 1	1576, 1-7	AET	mae yna fwthyn bach yn fan yna	NSNT	NSNT
+529, 2	1578, 1-16	AET	a yr un weloch chi gynnau *er* cyn dangos y llyn sydd *right* gyferbyn â hwnna	---	NST
+
+
+530, 1	1579, 1-3	BEN	*right* *just* yes	---	NST
+
+
+531, 1	1580, 1-8	AET	a mae yna un arall yn fan yna	---	NSNT
+
+
+532, 1	1581, 1-3	BEN	*yeah* holloll *yeah*	---	NST
+
+
+533, 1	1582, 1-4	AET	a mae yna hefyd	NSNT	NSNT
+533, 2	1582, 5-12	AET	mae yna un arall yn fan yma rywle	NSNT	NSNT
+533, 3	1584, 1-5	AET	mae yna tua tri bwthyn	NSNT	NSNT
+533, 4	1585, 1-11	AET	ond dach chi ddim yn gweld rhein o yr lôn o_gwbl	SNT	NSNT
+533, 5	1586, 1-5	AET	because raid chi gerdded *round*	NST	ST
+533, 6	1588, 1-5	AET	y lwmpyn yma felly de	---	NSNT
+
+
+534, 1	1589, 1-6	BEN	*oh* dach chi ddim yn gweld	---	NST
+
+
+535, 1	1590, 1-10	AET	mae hwn debyg i *elephant* hefyd petasech chi yn gweld	NST	NST
+535, 2	1591, 1-9	AET	ei drwnc o fan yna ei ben o cefn	---	NSNT
+
+
+536, 1	1592, 1-11	BEN	*oh* holloll *yeah* *yeah* dw i yn gweld hynny *yeah* *yeah*	---	NST
+
+
+537, 1	1593, 1-6	AET	a mae hwnna fel Elephant_Mountain hefyd	NSNT	SNT
+537, 2	1593, 7-10	AET	medden nhw o Sir_Fôn	---	NSNT
+
+
+538, 1	1594, 1-5	BEN	*elephant* mawr *yeah* *yeah* *yeah*	---	NST
+
+
+539, 1	1595, 1-3	AET	*Mynydd_Mawr* felly de	NST	NST
+539, 2	1596, 1-5	AET	wedyn *oh* *Rosneigr* ydy hwn	---	NST
+
+
+540, 1	1597, 1-7	BEN	*oh* *oh* *yeah* wir *yeah* *um* *Llanddwyn*	---	NST
+
+
+541, 1	1598, 1-6	AET	yndy *sorry* ddim *Rosneigr* *um* *Aberffraw*	---	NST
+
+
+542, 1	1599, 1-2	BEN	*yeah* *Llanddwyn*	ST	NST
+542, 2	1601, 1-5	BEN	a lawr at *er* Pen_Llŷn	---	NST
+
+
+543, 1	1602, 1-8	AET	*oh* ia mae *Llanddwyn* *round* y gornel felly	NST	NST
+543, 2	1603, 1-12	AET	a ia dach chi gweld yr *er* yr *Eifls* yn pen draw	NST	NST
+543, 3	1605, 1-7	AET	a ballu mynd lawr am *er* Llŷn_Peninsula	ST	ST
+543, 4	1606, 1-8	AET	ryw Ddolig oedden ni yn teimlo yn ddiog	NSNT	NSNT
+543, 5	1607, 1-4	AET	wnaeth y tywydd troi	NSNT	NSNT
+543, 6	1608, 1-6	AET	gafon ni yr haul mwya *sudden*	NST	NST
+543, 7	1609, 1-15	AET	*er* o'n i licio ffordd mae hwn yn mynd â chi *round* am pentre *Aberffraw*	NST	NST
+543, 8	1612, 1-8	AET	a wedyn *just* polyn bach haul yn twtsiad	NST	NST
+543, 9	1614, 1-14	AET	a bod chi yn cael diagonal *line* tuag ato fo golau *right* cry felly	---	ST
+
+
+544, 1	1615, 1-14	BEN	a cryfder y polyn erbyn y y y brwyn yn symud yn y gwynt	---	NSNT
+
+
+545, 1	1616, 1-4	AET	yn ganol y dunes	SNT	SNT
+545, 2	1619, 1-4	AET	*right* dyna o then	---	ST
+
+
+546, 1	1620, 1-2	BEN	da iawn	NSNT	NSNT
+546, 2	1621, 1-6	BEN	diolch yn fawr iawn am hynny	---	NSNT
+
+
+547, 1	1623, 1-8	AET	*oh* mae yna *lot* mwy i ddangos wrth_gwrs	---	NST
+
+
+548, 1	1624, 1-3	BEN	ardderchog o ddiddorol	---	NSNT
+
+
+549, 1	1626, 1-8	AET	one third dach chi wedi gweld mewn ffordd	---	SNT

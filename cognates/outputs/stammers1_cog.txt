@@ -1,0 +1,1474 @@
+
+
+1, 1	1, 2-4	GTH	a dan ni	NSNT	NSNT
+1, 2	1, 5-21	GTH	bod yn ffodus i gael y y rhai i ddod i_fewn i lenwi bylchau hefyd *Eifion* yn_do	---	NST
+
+
+2, 1	2, 1-6	EIF	*well* mae hynny yn rhyfeddol weithiau	NST	NST
+2, 2	2, 8-14	EIF	sut mae pobl yn fodlon gwneud weithiau	---	NSNT
+
+
+3, 1	5, 1-1	GTH	wsti	---	NSNT
+
+
+4, 1	6, 1-6	EIF	mae well ar yr ochr ddosbarthu	NSNT	NSNT
+4, 2	6, 7-12	EIF	na mae ar yr ochr arall	NSNT	NSNT
+4, 3	6, 13-15	EIF	yn_de ochr y	---	NSNT
+
+
+5, 1	7, 1-9	GTH	hwyrach mod i yn fwy ar yr ochr dosbarthu	NSNT	NSNT
+5, 2	8, 1-6	GTH	a dw i yn gweld *er*	NST	NST
+5, 3	8, 7-7	GTH	wsti	NSNT	NSNT
+5, 4	8, 8-14	GTH	dan ni wedi cael prif ddosbarthwr wan	NSNT	NSNT
+5, 5	9, 1-5	GTH	mae *Meirion* wedi cymryd ati	NST	NST
+5, 6	11, 1-5	GTH	dosbarthwr i yr siopau wedyn	NSNT	NSNT
+5, 7	13, 1-5	GTH	mae nhw yn gydwybodol yn	NSNT	NSNT
+5, 8	13, 6-9	GTH	be mae nhw wneud	---	NSNT
+
+
+6, 1	14, 1-3	EIF	hollol hollol hollol	---	NSNT
+
+
+7, 1	15, 1-1	GTH	ydyn	---	NSNT
+
+
+8, 1	16, 1-13	EIF	*oh* dydy ddim *quite* mor hawdd efo yr ochr *um* olygyddol fel petai	---	NST
+
+
+9, 1	17, 1-2	GTH	nag ydy	NSNT	NSNT
+9, 2	19, 1-4	GTH	diolcha di peth felly	---	NSNT
+
+
+10, 1	20, 1-7	EIF	pobl i sgwennu ac yn y blaen	---	NSNT
+
+
+11, 1	21, 1-3	GTH	mae yn anodd	NSNT	NSNT
+11, 2	22, 2-2	GTH	mae	NSNT	NSNT
+11, 3	22, 3-15	GTH	mae yn anodd cael pobl i roi ryw ddarn i_fewn yno fo yn_dydy	---	NSNT
+
+
+12, 1	24, 1-4	EIF	ac eto mae hynny	NSNT	NSNT
+12, 2	24, 5-12	EIF	mae hynny wedi mynd yn fwy *er* didrafferth	NST	NST
+12, 3	24, 13-15	EIF	nag oedd o	NSNT	NSNT
+12, 4	24, 16-16	EIF	cofiwch	---	NSNT
+
+
+13, 1	25, 1-1	GTH	gweld	NSNT	NSNT
+13, 2	26, 1-3	GTH	nag oedd o	---	NSNT
+
+
+14, 1	27, 2-11	EIF	mae efo *um* yn enwedig efo e_bost ac ac ati	NST	NST
+14, 2	28, 1-14	EIF	pobl yn gyrru pethau na fasen nhw ddim wneud o yr blaen o bosib	---	NSNT
+
+
+15, 1	29, 1-4	GTH	*oh* *well* da iawn	---	NST
+
+
+16, 1	30, 1-4	EIF	ac ysgolion wrth_gwrs mae	NSNT	NSNT
+16, 2	30, 5-13	EIF	mae hynny o fantais i yr ysgolion wedi mynd	NSNT	NSNT
+16, 3	31, 1-8	EIF	mond yrru o drwy yr we sy isio	---	NSNT
+
+
+17, 1	32, 1-1	GTH	wsti	NSNT	NSNT
+17, 2	34, 1-10	GTH	wyt ti fel finnau yn *er* ddim yn ie Bangorian	ST	ST
+17, 3	36, 1-14	GTH	ac wyt tithau fel fel finnau yn cael papur bro o yr hen ardal	NSNT	NSNT
+17, 4	36, 15-17	GTH	mae yn *sure*	---	NST
+
+
+18, 1	37, 1-4	EIF	*oh* hollol hollol hollol	---	NST
+
+
+19, 1	38, 1-5	GTH	a mae yna *right* elyniaeth	NST	NST
+19, 2	38, 6-8	GTH	wsti darllen un	NSNT	NSNT
+19, 3	39, 1-11	GTH	fydda i yn cael un *Blewyn_Glas* *Bro_Ddyfi* *er* bob mis felly	NST	NST
+19, 4	41, 1-13	GTH	a pryd mae *Goriad* yn delio efo tre *Bangor* a yr *Felinheli* wrth_gwrs	NST	NST
+19, 5	41, 14-14	GTH	te	NSNT	NSNT
+19, 6	43, 1-15	GTH	ond mae papur bro y nghartre i yn cynnwys pentrefi bach a dyffryn *Dyfi* i_gyd	NST	NST
+19, 7	44, 1-7	GTH	ac wyt ti yn *um* ardal wledig	---	NST
+
+
+20, 1	45, 1-6	EIF	*yeah* hollol dyna yr gwahaniaeth mawr	---	NST
+
+
+21, 1	46, 1-10	GTH	a mae yna wahaniaeth mawr rwng y ddau ti weld	NSNT	NSNT
+21, 2	48, 1-8	GTH	wyt ti yn gael hanes bob pentre yno	---	NSNT
+
+
+22, 1	49, 1-2	EIF	*sure* iawn	---	NST
+
+
+23, 1	50, 1-6	GTH	a pwy sy wedi marw a	NSNT	NSNT
+23, 2	50, 7-11	GTH	pwy sy wedi priodi a	NSNT	NSNT
+23, 3	50, 12-16	GTH	pwy sy wedi cael plant	NSNT	NSNT
+23, 4	52, 1-2	GTH	pwy sy	NSNT	NSNT
+23, 5	52, 3-7	GTH	wedi bod yn yr ysbyty	NSNT	NSNT
+23, 6	54, 1-10	GTH	a ryw golofn arbennig iawn yn hwnnw felly o ddiolchiadau	NSNT	NSNT
+23, 7	56, 1-2	GTH	*oh* mae	NST	NST
+23, 8	56, 3-6	GTH	mae yna ddudalen gyfan	NSNT	NSNT
+23, 9	58, 1-3	GTH	o ddiolchiadau am	NSNT	NSNT
+23, 10	60, 1-8	GTH	y llu cardiau mae nhw wedi cael tra	NSNT	NSNT
+23, 11	60, 9-17	GTH	mae nhw yn yr ysbyty neu *er* priodas a	NST	NST
+23, 12	61, 1-3	GTH	*er* ie mae	NST	NST
+23, 13	62, 1-4	GTH	ond *er* ydw i	NST	NST
+23, 14	62, 5-15	GTH	wedi bod o yna ers faint dros hanner can mlynedd bellach	NSNT	NSNT
+23, 15	63, 1-8	GTH	ac wrth_gwrs dydw i ddim yn nabod *lot*	NST	NST
+23, 16	65, 1-6	GTH	*er* mae nhw sôn amdano bellach	NST	NST
+23, 17	65, 7-19	GTH	de dim ond y rhai sydd yn fy oed i a hynach hwyrach	---	NSNT
+
+
+23, 18	65, 20-22	GTH	sy ar_ôl yna	NSNT	NSNT
+24, 2	66, 28-37	EIF	na mae nhw yn cael ar y bapur *er* ardal	NST	NST
+24, 3	66, 38-46	EIF	lle mae nhw yn byw ar hyn o bryd	---	NSNT
+
+
+25, 1	67, 1-4	GTH	*oh* dw i ddim	NST	NST
+25, 2	67, 5-9	GTH	dw i ddim yn amau	NSNT	NSNT
+25, 3	67, 10-13	GTH	na ydy hynny *um*	NST	NST
+25, 4	67, 14-15	GTH	yn bod	NSNT	NSNT
+25, 5	67, 16-16	GTH	wsti	NSNT	NSNT
+25, 6	68, 1-8	GTH	ac wyt ti yn cael hanes pobl *er*	NST	NST
+25, 7	68, 9-9	GTH	wsti	NSNT	NSNT
+25, 8	68, 10-21	GTH	sy wedi mynd o yr ardal a rywbeth wedi digwydd iddyn nhw	NSNT	NSNT
+25, 9	69, 1-8	GTH	mae nhw yn byw bellach hwyrach yn Llundain	NSNT	NSNT
+25, 10	70, 1-12	GTH	hwyrach bod nhw yn byw bellach yn Gaerdydd neu yn unrhyw le	NSNT	NSNT
+25, 11	72, 1-6	GTH	a mae ryfeddod gweld y cyfraniadau	NSNT	NSNT
+25, 13	73, 1-9	GTH	a mae nhw cyfranu yn hael at y papur	---	NSNT
+
+
+26, 1	75, 1-13	EIF	*yeah* dw i yn teimlo yr un peth efo mhapur i ardal *Ardudwy*	NST	NST
+26, 2	76, 1-2	EIF	hynny ydy	NSNT	NSNT
+26, 3	76, 3-15	EIF	dw i yn darllen hwnnw yn sicr yn darllen yn ddyfnach i hwnnw	NSNT	NSNT
+26, 4	76, 16-23	EIF	nag ydw i yn darllen papur ffordd hyn	NSNT	NSNT
+26, 5	76, 24-25	EIF	mae *sure*	NST	NST
+26, 6	76, 26-36	EIF	de ac yn cymryd mwy o ddiddordeb yn ambell i beth	---	NSNT
+
+
+27, 1	77, 1-5	GTH	yn aml iawn dyna chdi	NSNT	NSNT
+27, 2	79, 1-3	GTH	ie *sure* ie	---	NST
+
+
+28, 1	80, 1-6	EIF	*oh* mae rhyfedd *er* yr ymlyniad	NST	NST
+28, 2	80, 7-12	EIF	oes gyn bobl i hardal *er*	---	NST
+
+
+29, 1	81, 1-2	GTH	*oh* mae	---	NST
+
+
+30, 1	82, 1-4	EIF	*oh* dw i *sure*	NST	NST
+30, 2	82, 5-17	EIF	bod yna fwy o fynd ar bapur drwy yr *post* yn fan hynny	NST	NST
+30, 3	82, 18-19	EIF	nag oedd	NSNT	NSNT
+30, 4	82, 20-28	EIF	oeddech chi yn yrru drwy yr *post* yn *Fangor*	NST	NST
+30, 5	82, 29-30	EIF	mae *sure*	---	NST
+
+
+31, 1	83, 1-2	GTH	*well* oes	NST	NST
+31, 2	83, 3-5	GTH	mae yn debyg	NSNT	NSNT
+31, 3	84, 1-2	GTH	baswn i	NSNT	NSNT
+31, 4	84, 3-10	GTH	dw i ddim yn gwybod yn union faint	NSNT	NSNT
+31, 5	84, 11-11	GTH	cofia	NSNT	NSNT
+31, 6	85, 1-15	GTH	ydw i ryw rif tri_deg_tri i_lawr yn *er* *er* yn rhestr y postio o *Blewyn_Glas*	NST	NST
+31, 7	87, 1-4	GTH	a dw i *er*	NST	NST
+31, 8	87, 5-12	GTH	mae yr *number* yno gynno i ers blynyddoedd	NST	NST
+31, 9	87, 13-15	GTH	mae yn debyg	NSNT	NSNT
+31, 10	87, 16-19	GTH	te neu rhif yna	NSNT	NSNT
+31, 11	88, 1-16	GTH	*er* ie ryw bedwar_deg ydyn ni yn yrru o fan hyn rywle o_gwmpas pedwar_deg o yr	NST	NST
+31, 12	90, 1-3	GTH	*er* *Goriad* yn_de	NST	NST
+31, 13	92, 1-8	GTH	*er* tra o'n i wneud o felly yn_de	---	NST
+
+
+32, 1	94, 1-6	EIF	mae hwnna wedi aros rywbeth tebyg	NSNT	NSNT
+32, 2	94, 7-8	EIF	mae *sure*	---	NST
+
+
+33, 1	95, 2-7	GTH	mae o wedi aros rywbeth tebyg	NSNT	NSNT
+33, 2	95, 8-12	GTH	wsti drwy yr amser felly	NSNT	NSNT
+33, 3	96, 1-6	GTH	*er* oedd yna un wythnos yma	NST	NST
+33, 4	96, 7-18	GTH	oedd *er* *Meirion* wedi cael neges bod hi *er* wedi marw felly	---	NST
+
+
+34, 1	97, 1-14	EIF	*well* ia o'n i yn clywed o yn deud yn y cyfarfod heddiw *yeah*	---	NST
+
+
+35, 1	98, 1-8	GTH	*um* oedd hi mewn cartre yn *Porthmadog* felly	NST	NST
+35, 2	100, 1-3	GTH	dwn i ddim	NSNT	NSNT
+35, 3	100, 4-8	GTH	be oedd ei chysylltiad hi	NSNT	NSNT
+35, 4	100, 9-10	GTH	â *Bangor*	---	NST
+
+
+36, 1	101, 1-11	EIF	na o'n i erioed wedi clywed yr enw yn hun de	NSNT	NSNT
+36, 2	103, 1-7	EIF	oedd yr enw golygu dim_byd i mi	NSNT	NSNT
+36, 3	103, 8-11	EIF	mae arna i ofn	---	NSNT
+
+
+37, 1	105, 1-2	GTH	*oh* mae	NST	NST
+37, 2	105, 3-4	GTH	mae hi	NSNT	NSNT
+37, 3	105, 5-13	GTH	wedi bod yn gael o ers *er* ers blynyddoedd	---	NST
+
+
+38, 1	107, 1-12	EIF	*oh* na mae yna enwau diarth ofnadwy yn gael o *er* yn_does	---	NST
+
+
+39, 1	108, 1-4	GTH	oes diarth ofnadwy felly	---	NSNT
+
+
+40, 1	109, 1-6	EIF	ac o ryw bellter rhyfeddol a	---	NSNT
+
+
+41, 1	110, 1-4	GTH	o bellter *oh* ie	NST	NST
+41, 2	111, 1-14	GTH	a mae yr papur yn cael ei ddarfod *er* danfon i_lawr i *Norfolk* hyd_yn_oed	NST	NST
+41, 3	111, 15-15	GTH	wsti	NSNT	NSNT
+41, 4	113, 1-6	GTH	mae yna ddynes yn fan yno	NSNT	NSNT
+41, 5	113, 7-14	GTH	oedd ei thad hi yn *vicar* yn *Port_Dinorwic*	---	NST
+
+
+42, 1	114, 1-3	EIF	*oh* *yeah* wir	---	NST
+
+
+43, 1	116, 1-14	GTH	a wedyn mae hi yn dal â diddordeb yn *er* yn y *Felinheli* felly	NST	NST
+43, 2	119, 1-3	GTH	un arall oedd	NSNT	NSNT
+43, 3	119, 4-9	GTH	wedi bod yn coleg fan hyn	NSNT	NSNT
+43, 4	119, 10-17	GTH	faset ti rhyfeddu ac wedi dysgu Cymraeg tra	NSNT	NSNT
+43, 5	119, 18-23	GTH	oedd hi yn y coleg yma	NSNT	NSNT
+43, 6	120, 1-2	GTH	Saesnes bur	NSNT	NSNT
+43, 7	121, 1-9	GTH	ond oedd hi isio cadw ei Chymraeg i fynd	NSNT	NSNT
+43, 8	123, 1-11	GTH	ac yn *er* eisiau *er* *Blewyn_Glas* yr *er* papur y *Goriad*	NST	NST
+43, 9	125, 1-7	GTH	er_mwyn cael cadw yr ei Chymraeg *er*	NST	NST
+43, 10	126, 1-15	GTH	ac oedd hi meddwl gael hwnna hi fwy o ddiddordeb darllen *er* y y *Goriad*	NST	NST
+43, 11	126, 16-18	GTH	yn_de er_mwyn cael	---	NSNT
+
+
+44, 1	127, 1-7	EIF	ia *yeah* *yeah* *sure* *yeah* *yeah* *yeah*	---	NST
+
+
+45, 1	129, 1-12	GTH	cadw faint o Gymraeg oedd hi ddysgu yn yn yn fyw felly	---	NSNT
+
+
+46, 1	131, 1-6	EIF	er fydda i yn teimlo weithiau	NSNT	NSNT
+46, 2	131, 7-11	EIF	dw i ddim yn gwybod	NSNT	NSNT
+46, 3	131, 12-23	EIF	oes yna ddigon o bethau difyr yno fo i bobl fel yna	NSNT	NSNT
+46, 4	131, 24-27	EIF	de yn aml iawn	---	NSNT
+
+
+47, 1	132, 1-4	GTH	ie mae yn anodd	NSNT	NSNT
+47, 2	132, 5-5	GTH	dydy	NSNT	NSNT
+47, 3	132, 6-8	GTH	wyt *er* gan	NST	NST
+47, 4	132, 9-11	GTH	na wyt ti	---	NSNT
+
+
+48, 1	134, 1-11	EIF	oherwydd papur fel dach chi ddeud papur tre i bob pwrpas	NSNT	NSNT
+48, 2	134, 12-13	EIF	ydy o	NSNT	NSNT
+48, 3	136, 1-3	EIF	mae *Felinheli* wahanol	NST	NST
+48, 4	137, 1-5	EIF	mae o yn bentre yn_dydy	NSNT	NSNT
+48, 5	138, 1-4	EIF	mae nhw yn hefo	NSNT	NSNT
+48, 6	138, 5-6	EIF	mae nhw	NSNT	NSNT
+48, 7	138, 7-7	EIF	mae	NSNT	NSNT
+48, 8	138, 8-14	EIF	mae nhw nabod eu pobl yn well	---	NSNT
+
+
+49, 1	139, 2-8	GTH	mae nhw yn gallu roi mwy fewn	---	NSNT
+
+
+50, 1	141, 1-12	EIF	achos mae yr boblogaeth *Bangor* yn symudol iawn neu newid yn gyson	NST	NST
+50, 2	141, 13-13	EIF	dydy	---	NSNT
+
+
+51, 1	142, 2-4	GTH	mae newid yn_dydy	---	NSNT
+
+
+52, 1	144, 1-1	EIF	wchi	NSNT	NSNT
+52, 2	144, 2-11	EIF	mae yr dosbarthu yn ambell i le wedi mynd lawr	NSNT	NSNT
+52, 3	144, 12-15	EIF	dydy o ran nifer	NSNT	NSNT
+52, 4	144, 16-16	EIF	dydy	NSNT	NSNT
+52, 5	146, 1-7	EIF	oherwydd *um* bod y lle wedi newid	NST	NST
+52, 6	148, 1-7	EIF	nid oherwydd bod bobl ddim isio fo	NSNT	NSNT
+52, 7	149, 1-6	EIF	ond mae yr boblogaeth wedi newid	NSNT	NSNT
+52, 8	149, 7-7	EIF	dydy	---	NSNT
+
+
+53, 1	151, 1-9	GTH	a dw isio roi rywbeth i_fewn hefyd am *er*	NST	NST
+53, 2	152, 1-12	GTH	mae yr *club* *golf* yn dathlu ei ei *er* canmlwyddiant blwyddyn yma	NST	NST
+53, 3	152, 13-13	GTH	wsti	---	NSNT
+
+
+54, 1	153, 1-2	EIF	yndy wir	---	NSNT
+
+
+55, 1	155, 1-7	GTH	a mae *Rhodri* *er* *er* a *er*	NST	NST
+55, 2	156, 1-5	GTH	oedd e yn *brofessor* *Rhodri_Evans*	---	NST
+
+
+56, 1	158, 1-3	EIF	yn fan hyn	---	NSNT
+
+
+57, 1	159, 1-7	GTH	*yeah* mae o wedi gwneud llyfr dwyieithog	NST	NST
+57, 2	159, 8-8	GTH	sti	---	NSNT
+
+
+58, 1	161, 1-9	EIF	*yeah* welais i o yn holi am *er* am	NST	NST
+58, 2	162, 1-8	EIF	ryw dro yn_do fuo yn holi am hanesion	---	NSNT
+
+
+59, 1	163, 3-8	GTH	do fuo fuo yn holi am	NSNT	NSNT
+59, 2	164, 1-2	GTH	*oh* mae	NST	NST
+59, 3	164, 3-4	GTH	mae *Rhodri*	NST	NST
+59, 4	164, 5-12	GTH	wedi bod wrthi wan ers tua tair blynedd	NSNT	NSNT
+59, 5	164, 13-19	GTH	wsti yn *er* gwneud ymchwil i_fewn i	NST	NST
+59, 6	164, 20-20	GTH	yr	NSNT	NSNT
+59, 7	164, 21-25	GTH	wsti i yr cyfnod cynhara	NSNT	NSNT
+59, 8	164, 28-38	GTH	pan sefydlwyd y *club* yn mil naw dim chwech ti weld	NST	NST
+59, 9	165, 1-2	GTH	mae *Rhodri*	NST	NST
+59, 10	165, 3-13	GTH	wedi bod yn gwneud ymchwil dychrynllyd yn ystod y tair blynedd	NSNT	NSNT
+59, 11	167, 1-12	GTH	yn ystod y blynyddoedd cynnar *um* i gael y llyfr yma yn_de	NST	NST
+59, 12	169, 1-3	GTH	wedi bod yn	---	NSNT
+
+
+60, 1	170, 1-4	EIF	pryd fydd hwnnw allan	---	NSNT
+
+
+61, 1	171, 1-9	GTH	*oh* fydd o allan ar y pumed o Fai	---	NST
+
+
+62, 1	172, 1-6	EIF	*oh* *well* mor fuan â hynny	---	NST
+
+
+63, 1	173, 1-9	GTH	mae o yn Gwasg_Dwyfor wan yn cael ei printio	---	NSNT
+
+
+64, 1	177, 1-8	EIF	*yeah* fuodd o yn holi yn y papur	NST	NST
+64, 2	177, 9-17	EIF	do am *er* luniau a ryw hanesion a ballu	NST	NST
+64, 3	179, 1-5	EIF	dw i yn cofio wan	NSNT	NSNT
+64, 4	180, 1-1	EIF	be	---	NSNT
+
+
+65, 1	182, 1-5	GTH	ac *er* oedd y *club*	NST	NST
+65, 2	182, 6-10	GTH	wsti wedi cael ei ddechrau	NSNT	NSNT
+65, 3	183, 1-5	GTH	neu fyddai Lord *Penrhyn* wrth_gwrs	NST	ST
+65, 4	184, 1-9	GTH	*er* fo oedd piau yr tir a phob_dim felly	NST	NST
+65, 5	185, 1-5	GTH	ac *er* mi oedd pobl	NST	NST
+65, 6	185, 6-16	GTH	oedd yn gweithio iddo fo fel *er* *manager* y yr ystâd	NST	NST
+65, 7	185, 17-17	GTH	wsti	NSNT	NSNT
+65, 8	186, 1-6	GTH	oedd hwnnw ddyn pwysig yno hefyd	NSNT	NSNT
+65, 9	188, 1-14	GTH	ac *er* y dyn fuo *lot* o sôn amdano amser *strike* y chwarel wsti	NST	NST
+65, 10	189, 1-2	GTH	*George_Young* yn_de	NST	NST
+65, 11	191, 1-4	GTH	yfo oedd *er* yfo	NST	NST
+65, 12	191, 5-9	GTH	oedd y *manager* y chwarel	NST	NST
+65, 13	191, 10-14	GTH	pan ddigwyddodd y *strike* fawr	NST	NST
+65, 14	192, 1-12	GTH	wedyn oedd o yn ddyn pwysig iawn yn y *golf* yma hefyd	---	NST
+
+
+66, 1	193, 1-7	EIF	ac oedd y *club* *golf* yn y	NST	NST
+66, 2	193, 8-11	EIF	lle mae rŵan *er*	---	NST
+
+
+67, 1	194, 2-8	GTH	ydy yn union yr un lle â	NSNT	NSNT
+67, 2	194, 9-11	GTH	mae o rŵan	---	NSNT
+
+
+68, 1	196, 1-2	EIF	ie wir	---	NSNT
+
+
+69, 1	197, 1-6	GTH	*um* mae yna *lot* o hanesion	NST	NST
+69, 2	198, 1-8	GTH	ond *er* dw i falch ar y diawch	NST	NST
+69, 3	198, 9-12	GTH	bod *Rhodri* wedi ymgymeryd	NST	NST
+69, 4	198, 13-19	GTH	â gwneud y llyfr yma yn ddwyieithog	NSNT	NSNT
+69, 5	198, 20-20	GTH	te	NSNT	NSNT
+69, 6	200, 1-7	GTH	dwn i ddim sawl *club* *golf* arall	NST	NST
+69, 7	200, 8-16	GTH	sy yn yn gogledd Cymru wedi cyhoeddi llyfr dwyieithog	---	NSNT
+
+
+70, 1	201, 1-4	EIF	ddifyr basai ddifyr gwybod	---	NSNT
+
+
+71, 1	202, 1-6	GTH	ar eu ar y canmlwyddiant yn_de	---	NSNT
+
+
+72, 1	203, 1-5	EIF	*well* ia *yeah* hollol hollol	---	NST
+
+
+73, 1	204, 1-6	GTH	*yeah* fysai yn ddifyr cael gwybod	---	NST
+
+
+74, 1	205, 1-5	EIF	*oh* be dach chi wan	NST	NST
+74, 2	206, 1-3	EIF	dach chi ddim	NSNT	NSNT
+74, 3	206, 4-11	EIF	wedi bod yn swyddog efo yr *club* *golf*	---	NST
+
+
+75, 1	208, 1-8	GTH	dw i yn dal yn gadeirydd arno fo	NSNT	NSNT
+75, 2	208, 9-9	GTH	sti	---	NSNT
+
+
+76, 1	209, 1-1	EIF	cadeirydd	NSNT	NSNT
+76, 2	210, 1-8	EIF	*yeah* o'n i meddwl bod chi yn *er*	---	NST
+
+
+77, 1	211, 1-12	GTH	wedi cael *lot* o bleser allan o fod yn chwarae *golf* a	---	NST
+
+
+78, 1	212, 1-12	EIF	oeddech chi wedi treulio mwy yn fan hynny nag efo yr *Goriad*	NST	NST
+78, 2	214, 1-3	EIF	efo yr *golf*	---	NST
+
+
+79, 1	216, 1-2	GTH	mae ddiddorol	NSNT	NSNT
+79, 2	216, 3-3	GTH	wsti	NSNT	NSNT
+79, 3	217, 1-9	GTH	dw i cofio pan ddos i *Fangor* gynta mi	NST	NST
+79, 4	217, 10-12	GTH	fyddai yr *er*	NST	NST
+79, 5	217, 13-21	GTH	fyddwn ni byw lawr yn gwaelod dre yn *Hirael*	NST	NST
+79, 6	217, 22-22	GTH	wsti	NSNT	NSNT
+79, 7	218, 1-4	GTH	a mi oedd y	NSNT	NSNT
+79, 8	218, 5-11	GTH	bachan yn byw drws nesa i ni	NSNT	NSNT
+79, 9	219, 1-6	GTH	*yeah* un o *Morfa_Nefyn* oedd o	NST	NST
+79, 10	220, 1-14	GTH	a mi oedd o yn yr heddlu a finnau yn yr heddlu felly wrth_gwrs	NSNT	NSNT
+79, 11	221, 1-10	GTH	a mi oedd o gallu chwarae *golf* i safon da	NST	NST
+79, 12	222, 1-16	GTH	a o'n i newydd briodi ti weld a ddim gallu fforddio llawer o ddim_byd felly yn_de	NSNT	NSNT
+79, 13	223, 1-6	GTH	ond fyddai yn gofyn i mi	NSNT	NSNT
+79, 14	224, 1-13	GTH	wyt ti yn dod am dro am dro i yr *er* *club* *golf*	NST	NST
+79, 15	225, 1-21	GTH	a wedyn fyddai rhoi ryw bêl i yma a draw felly a *club* i weld sut o'n i yn gallu taro	NST	NST
+79, 16	226, 1-9	GTH	cofia di allan o olwg y y swyddogion uwch_swyddogion	NSNT	NSNT
+79, 17	228, 1-8	GTH	oedd o wedi o yr golwg i rywle	NSNT	NSNT
+79, 18	230, 1-10	GTH	achos o't ti ddim i fod i wneud hynny yn_de	NSNT	NSNT
+79, 19	233, 1-8	GTH	a mae hynny wedyn nôl yn y chwedegau	---	NSNT
+
+
+80, 1	234, 1-3	EIF	*oh* *yeah* wir	---	NST
+
+
+81, 1	236, 1-11	GTH	a wedyn ar_wahân i ryw bum mlynedd pan o'n i ar_goll	NSNT	NSNT
+81, 2	237, 1-19	GTH	hynny ydy ar_goll fuais i o yma fuais i yn yn *Flint* a *Gonwy* *er* yn y cyfnod yno	NST	NST
+81, 3	238, 1-5	GTH	a wedyn *er* dw i	NST	NST
+81, 4	238, 6-17	GTH	wedi bod yn aelod yn fan hyn ers *oh* pum_deg o flynyddoedd	NST	NST
+81, 5	238, 18-20	GTH	mae *sure* ti	---	NST
+
+
+82, 1	239, 1-5	EIF	dwn i ddim ia *yeah*	NST	NST
+82, 2	241, 1-7	EIF	*yeah* dydw i ddim yn ddyn *golf*	---	NST
+
+
+83, 1	242, 1-10	GTH	chwedegau nag ydy ryw bedwar bedair bedwar_deg o flynyddoedd *yeah*	NST	NST
+83, 2	244, 1-17	GTH	*yeah* a wedi wedi wneud *er* wsti ffrindiau da a phob_dim *er* *er* *er* gwmnïaeth da yna	NST	NST
+83, 3	247, 1-1	GTH	mae	NSNT	NSNT
+83, 4	247, 2-5	GTH	gennon ni *grew* rŵan	NST	NST
+83, 5	247, 6-16	GTH	sy mynd allan ar fore dydd Mawrth a bore dydd Iau	NSNT	NSNT
+83, 6	248, 1-10	GTH	mae nhw yn galw nhw yn *Slicks* am ryw reswm	NST	NST
+83, 7	248, 11-11	GTH	sti	---	NSNT
+
+
+84, 1	249, 1-2	EIF	Duw annwyl	---	NSNT
+
+
+85, 1	250, 1-6	GTH	y *Slick* the Lame the Idle	---	ST
+
+
+86, 1	251, 1-2	EIF	be ydy	---	NSNT
+
+
+87, 1	253, 1-4	GTH	dw ddim cofio gweddill	NSNT	NSNT
+87, 2	255, 1-12	GTH	ond y rhan fwya ohonyn nhw yn athrawon wedi ymddeol sti *yeah*	NST	NST
+87, 3	258, 1-5	GTH	*yeah* rhan fwya ohonyn nhw	NST	NST
+87, 4	259, 1-4	GTH	baswn i yn deud	NSNT	NSNT
+87, 5	259, 5-23	GTH	bod *er* *er* mwy na eu hanner nhw *er* yn *er* athrawon wedi ymddeol rhai ohonyn nhw yn gynnar	---	NST
+
+
+88, 1	262, 1-3	EIF	*well* ddim bod	NST	NST
+88, 2	262, 4-8	EIF	dw i wedi trio *golf*	NST	NST
+88, 3	262, 9-11	EIF	cofiwch yn yn	NSNT	NSNT
+88, 4	263, 1-12	EIF	ond *um* dw i ddim wedi cael gafael arno fo yn iawn	NST	NST
+88, 5	265, 1-2	EIF	dw i	NSNT	NSNT
+88, 6	265, 3-9	EIF	wedi bod yn y *club* ym *Mangor*	NST	NST
+88, 7	266, 1-3	EIF	le dymunol iawn	NSNT	NSNT
+88, 8	268, 1-11	EIF	*oh* mae pobl yn deud wrtha i mai ryw le blin	NST	NST
+88, 9	268, 12-23	EIF	ydy o i chwarae *golf* bod o dipyn bach yn rhy llechweddog	NST	NST
+88, 10	270, 1-3	EIF	ydach chi yn	---	NSNT
+
+
+89, 1	271, 1-8	GTH	gadw di cadw di *fit* ydy o fod	NST	NST
+89, 2	271, 9-9	GTH	wsti	NSNT	NSNT
+89, 3	273, 1-2	GTH	dyna pam	NSNT	NSNT
+89, 4	273, 3-6	GTH	ydw i chwarae *golf*	NST	NST
+89, 5	275, 1-6	GTH	mae yn cadw fi yn *fit*	---	NST
+
+
+90, 1	276, 1-7	EIF	dw i wedi arfer gweld llefydd *golf*	NST	NST
+90, 2	276, 8-15	EIF	oedd wrth ymyl y hen ysgol i ers_talwm	NSNT	NSNT
+90, 3	276, 16-21	EIF	wchi ar y ar y gwastadedd	---	NSNT
+
+
+91, 1	277, 1-10	GTH	*yeah* *yeah* *yeah* efo yr crachach o't ti fan yno	---	NST
+
+
+92, 1	279, 1-6	EIF	*well* *yeah* oedd o beth ryfedd	NST	NST
+92, 2	279, 7-7	EIF	wchi	NSNT	NSNT
+92, 3	280, 1-6	EIF	oedden i erioed yn meddwl am	NSNT	NSNT
+92, 4	281, 1-8	EIF	*well* tan o'n i yn y chweched hwyrach	NST	NST
+92, 5	282, 1-11	EIF	dw i yn cofio un bachgen yn dechrau ymddiddori mewn *golf*	NST	NST
+92, 6	283, 1-8	EIF	oedd o yn hŷn na fi ryw fymryn	NSNT	NSNT
+92, 7	284, 1-7	EIF	a dechrau mynd i chwarae *golf* wchi	NST	NST
+92, 8	285, 1-6	EIF	mynd o yr ysgol i yr	NSNT	NSNT
+92, 9	287, 1-7	EIF	i yr *club* *golf* i chwarae *golf*	NST	NST
+92, 10	288, 1-12	EIF	unig rhai dw i yn gofio yr ysgol yn wneud *er* erioed	NST	NST
+92, 11	290, 1-10	EIF	achos oedd rywbeth ni a nhw yn perthyn iddo yn_doedd	NSNT	NSNT
+92, 12	290, 11-11	EIF	wchi	---	NSNT
+
+
+93, 1	291, 2-3	GTH	oedd mi	NSNT	NSNT
+93, 2	291, 4-9	GTH	roedd o yn yr hen adeg	NSNT	NSNT
+93, 3	291, 10-10	GTH	wsti	---	NSNT
+
+
+94, 1	292, 1-2	EIF	yn_doedd yn_doedd	---	NSNT
+
+
+95, 1	294, 1-16	GTH	*oh* oedd rhaid ti fod yn rhywun i ti fod yn perthyn i *glub* *golf* felly	NST	NST
+95, 2	297, 1-1	GTH	ond	---	NSNT
+
+
+96, 1	298, 1-7	EIF	oeddech chi yn gweld hynny yn *er*	NST	NST
+96, 2	298, 8-13	EIF	wchi efo eich llygad eich hun	NSNT	NSNT
+96, 3	299, 1-6	EIF	*er* oedden nhw yn bobl wahanol	NST	NST
+96, 4	299, 7-7	EIF	doedden	NSNT	NSNT
+96, 5	299, 8-13	EIF	wchi yn eu *plus_fours* a ballu	---	NST
+
+
+97, 1	300, 1-5	GTH	*oh* *oh* yn sicr wchi	NST	NST
+97, 2	301, 1-2	GTH	o'n o'n	NSNT	NSNT
+97, 3	302, 1-2	GTH	dyna chdi	NSNT	NSNT
+97, 4	303, 1-13	GTH	ac *er* i i ambell i *glub* *er* yn enwedig yn Lloegr wsti	NST	NST
+97, 5	303, 14-25	GTH	mae raid i ti wisgo *er* *collar* a *thie* i mynd mewn	NST	NST
+97, 6	304, 1-6	GTH	*oh* mae hollol wahanol fan hyn	NST	NST
+97, 7	306, 1-2	GTH	hollol wahanol	---	NSNT
+
+
+98, 1	308, 1-14	EIF	*oh* raid ni gael rywbeth i yr *Goriad* am yr canmlwyddiant yma hefyd bydd	---	NST
+99, 2	309, 23-30	GTH	mae o wedi cael *lot* o eiriau drwg	---	NST
+
+
+100, 1	310, 1-3	EIF	yndy feirniadu hallt	---	NSNT
+
+
+101, 1	311, 1-4	GTH	a a hynny ydy	NSNT	NSNT
+101, 2	311, 5-7	GTH	dydy o ddim	NSNT	NSNT
+101, 3	311, 8-12	GTH	wedi bod yn boblogaidd iawn	NSNT	NSNT
+101, 4	313, 1-9	GTH	fuodd o erioed yn boblogaidd iawn yn y gymdeithas	NSNT	NSNT
+101, 5	313, 10-10	GTH	sy	NSNT	NSNT
+101, 6	313, 11-18	GTH	gennon ni o_gwmpas fan hyn yn enwedig *Bethesda*	---	NST
+
+
+102, 1	314, 1-2	EIF	*sure* iawn	NST	NST
+102, 2	317, 1-4	EIF	teimladau cry o_hyd does	---	NSNT
+
+
+103, 1	318, 1-1	GTH	wsti	NSNT	NSNT
+103, 2	318, 3-17	GTH	does dim llawer o bethau da wedi cael eu ddeud amdano fo dim mewn gwirionedd	NSNT	NSNT
+103, 3	319, 1-9	GTH	*well* rŵan oedden ni isio cyhoeddi yr llyfr yma	NST	NST
+103, 4	320, 1-8	GTH	ac mae o mynd i gostio wyth mil	NSNT	NSNT
+103, 5	320, 9-14	GTH	wsti i i *er* i brintio	NST	NST
+103, 6	321, 1-14	GTH	*well* ti sôn am mond rhyw saith cant a hanner o gopïau felly yn_de	---	NST
+
+
+104, 1	322, 1-1	EIF	ew	---	NSNT
+
+
+105, 1	323, 1-2	GTH	wyth mil	---	NSNT
+
+
+106, 1	324, 1-2	EIF	wyth mil	---	NSNT
+
+
+107, 1	326, 1-2	GTH	wsti *er*	NST	NST
+107, 2	326, 3-3	GTH	allwn	NSNT	NSNT
+107, 3	326, 4-8	GTH	allwn ni *er* *club* ni	NST	NST
+107, 4	327, 1-6	GTH	*club* cyffredin iawn ydy *club* *Bangor*	NST	NST
+107, 5	327, 7-11	GTH	wsti *club* *er* bobl gweithiol	NST	NST
+107, 6	330, 1-7	GTH	a a mae *lot* fawr o bob_dim	NST	NST
+107, 7	330, 8-14	GTH	sy yn digwydd yna yn y Gymraeg	NSNT	NSNT
+107, 8	330, 15-15	GTH	te	---	NSNT
+
+
+108, 1	333, 1-7	EIF	yfo sy yn *er* *Penrhyn* wan *yeah*	---	NST
+
+
+109, 1	334, 1-6	GTH	*yeah* fo sy piau *Penrhyn* wan	---	NST
+
+
+110, 1	336, 1-6	EIF	*oh* ydy o byw yna hefyd	---	NST
+
+
+111, 1	337, 1-6	GTH	na dydy o ddim byw yna	NSNT	NSNT
+111, 2	337, 7-7	GTH	wsti	---	NSNT
+
+
+112, 1	338, 1-7	EIF	*oh* dydy o ddim yn byw yna	---	NST
+
+
+113, 1	339, 1-6	GTH	mae yn byw yn *er* *Cyprus*	---	NST
+
+
+114, 1	340, 1-3	EIF	*oh* wannwyl dad	---	NST
+
+
+115, 1	341, 1-14	GTH	timod a wedyn dod nôl bob ryw chwech wythnos *er* *er* i i weld	NST	NST
+115, 2	341, 15-21	GTH	bod pob_dim yn iawn fan hyn felly	NSNT	NSNT
+115, 3	342, 1-1	GTH	mae	NSNT	NSNT
+115, 4	342, 2-11	GTH	oes yn yr hen fo piau yr hen gartre felly	NSNT	NSNT
+115, 5	344, 1-5	GTH	a dim yn y castell	NSNT	NSNT
+115, 6	345, 1-12	GTH	mae yr castell wedi mynd i i National_Trust ers blynyddoedd ti gweld	---	SNT
+
+
+116, 1	346, 1-3	EIF	*oh* yndy *sure*	---	NST
+
+
+117, 1	347, 1-3	GTH	a wedyn mae	NSNT	NSNT
+117, 2	347, 4-12	GTH	genno fo *fungalow* tua ar dir y *Penrhyn* felly	NST	NST
+117, 3	347, 13-17	GTH	lle mae o yn byw	NSNT	NSNT
+117, 4	348, 1-4	GTH	a chwarae teg iddo	NSNT	NSNT
+117, 5	349, 1-11	GTH	mi aeth *Rhodri* *Professor* *Rhodri* a fi lawr i weld o	NST	NST
+117, 6	350, 1-7	GTH	a wsti ymgymeryd â yr *gost* i_gyd	---	NST
+
+
+118, 1	352, 1-3	EIF	yr wyth mil	---	NSNT
+
+
+119, 1	353, 1-4	GTH	do yr wyth mil	---	NSNT
+
+
+120, 1	354, 1-3	EIF	ew annwyl lwcus	---	NSNT
+121, 2	356, 1-1	GTH	wsti	NSNT	NSNT
+121, 3	356, 2-3	GTH	be mae	NSNT	NSNT
+121, 4	356, 4-12	GTH	be oedden ni yn bwriadu gofyn iddo am cefnogaeth	NSNT	NSNT
+121, 5	356, 13-14	GTH	oedden ni	NSNT	NSNT
+121, 6	358, 1-9	GTH	a mi ofynnodd *er* *er* *Richard* i ni *um*	NST	NST
+121, 7	358, 10-12	GTH	a oedden ni	NSNT	NSNT
+121, 8	358, 13-21	GTH	wedi bod yn rywle arall yn chwilio am *er*	---	NST
+
+
+122, 1	359, 1-2	EIF	nawdd felly	---	NSNT
+
+
+123, 1	360, 1-3	GTH	gefnogaeth nawdd felly	NSNT	NSNT
+123, 2	362, 1-5	GTH	a dyma ni deud wrtho	NSNT	NSNT
+123, 3	363, 1-18	GTH	na oedden ni meddwl mai dyma yr lle gynta dylen ni fod yn dŵad gan bod cysylltiadau *Penrhyn*	NST	NST
+123, 4	363, 19-29	GTH	wedi bod mor gry efo yr *club* dros y blynyddoedd felly	NST	NST
+123, 5	365, 1-7	GTH	ac o'n ni meddwl mai *er* ychi	NST	NST
+123, 6	365, 8-15	GTH	ddylai gael y cyfle cynta o fod yn	NSNT	NSNT
+123, 7	366, 1-8	GTH	a chwarae teg iddo droeodd *round* a gweud	NST	NST
+123, 8	367, 1-6	GTH	faint yn union dach chi isio	NSNT	NSNT
+123, 9	368, 1-8	GTH	mae yr llyfr yn costio hyn a hyn	NSNT	NSNT
+123, 10	370, 1-2	GTH	wyth mil	NSNT	NSNT
+123, 11	372, 1-6	GTH	a well beth nesa ofynnodd o	NSNT	NSNT
+123, 12	373, 1-6	GTH	pryd dach chi isio yr arian	---	NSNT
+
+
+124, 1	374, 1-2	EIF	nefi wen	---	NSNT
+
+
+125, 1	375, 1-16	GTH	a rhoth o yn ysgrifenedig *er* ie pan fysai yr llyfr yn cael *er* ei gyhoeddi	NST	NST
+125, 2	375, 17-20	GTH	byddai fo yn talu	---	NSNT
+
+
+126, 1	376, 1-3	EIF	*well* gwych de	---	NST
+
+
+127, 1	377, 1-5	GTH	*oh* gwych dros ben felly	NST	NST
+127, 2	379, 1-2	GTH	a wsti	NSNT	NSNT
+127, 3	379, 3-3	GTH	mae	NSNT	NSNT
+127, 4	379, 4-10	GTH	mae hyn mynd i cael ei ei	NSNT	NSNT
+127, 5	379, 11-15	GTH	roid yn y llyfr yn_dydy	---	NSNT
+
+
+128, 1	380, 1-3	EIF	ia yndy *sure*	NST	NST
+128, 2	381, 1-8	EIF	a nhw biau yr tir *right* ystâd ia	---	NST
+
+
+129, 1	385, 1-6	GTH	mae yna ddwy ystâd yno bellach	NSNT	NSNT
+129, 2	385, 7-7	GTH	sti	NSNT	NSNT
+129, 3	386, 1-1	GTH	mae	NSNT	NSNT
+129, 4	386, 2-2	GTH	mae	NSNT	NSNT
+129, 5	386, 3-7	GTH	pan oedd *Richard* byw mi	NST	NST
+129, 6	386, 8-17	GTH	fyddai *um* y *Penrhyn* *lot* o ystâd *Penrhyn* cael ei	NST	NST
+129, 7	386, 18-22	GTH	roid yn ei enw fo	NSNT	NSNT
+129, 8	387, 1-6	GTH	yn ei enw fo *Cochwillan* wsti	---	NST
+
+
+130, 1	389, 1-3	EIF	*oh* wela i	---	NST
+
+
+131, 1	390, 1-8	GTH	a wedyn mae yna *Cochwillan* a *Penrhyn* pellach	---	NST
+
+
+132, 1	391, 1-4	EIF	dw i yn gweld	NSNT	NSNT
+132, 2	395, 1-4	EIF	*oh* ydy yr *club*	---	NST
+
+
+133, 1	396, 1-4	GTH	ond ni dan ni	NSNT	NSNT
+133, 2	396, 5-8	GTH	wedi bod ffodus iawn	NSNT	NSNT
+133, 3	396, 9-13	GTH	wsti i cael y y	NSNT	NSNT
+133, 4	396, 14-18	GTH	nawdd yna gen gen *Richard*	---	NST
+
+
+134, 1	397, 1-5	EIF	*well* ar un go de	---	ST
+
+
+135, 1	398, 1-4	GTH	ar un go felly	---	SNT
+
+
+136, 1	399, 1-5	EIF	*well* ia *yeah* *yeah* *yeah*	NST	NST
+136, 2	401, 1-2	EIF	bobl bach	NSNT	NSNT
+136, 3	403, 1-4	EIF	arbed cerdded *lot* yn_doedd	---	NST
+
+
+137, 1	404, 1-3	GTH	wyt ti gweld	NSNT	NSNT
+137, 2	404, 4-19	GTH	mae yna *lot* o o rai yn ardal *Bethesda* *er* sydd yn cofio *er* y tlodi	NST	NST
+137, 3	404, 20-22	GTH	fuodd oherwydd gwahanol	NSNT	NSNT
+137, 4	404, 23-26	GTH	achlysuron yn y *Penrhyn*	---	NST
+
+
+138, 1	405, 1-10	EIF	*oh* *yeah* mae yna bobl yn dal i edliw hynny	NST	NST
+138, 2	405, 11-11	EIF	does	---	NSNT
+
+
+139, 1	406, 1-8	GTH	dal i i edliw hynny ac yn deud	NSNT	NSNT
+139, 2	407, 1-9	GTH	na ddown ni ddim yn agos i yr lle	NSNT	NSNT
+139, 3	408, 1-2	GTH	felly yn_de	NSNT	NSNT
+139, 4	409, 1-2	GTH	mae o	NSNT	NSNT
+139, 5	409, 3-7	GTH	mae yna ormod o gysylltiad	NSNT	NSNT
+139, 6	409, 8-9	GTH	â *Penrhyn*	NST	NST
+139, 7	409, 10-11	GTH	wedi bod	NSNT	NSNT
+139, 8	409, 12-12	GTH	wchi	NSNT	NSNT
+139, 9	410, 1-8	GTH	mae hwnna wedi mynd *lot* ohono wedi mynd	NST	NST
+139, 10	410, 9-9	GTH	cofia	NSNT	NSNT
+139, 11	412, 1-12	GTH	ond *er* *um* mae *lot* o bobl ifanc *Bethesda* yn aelodau bellach	NST	NST
+139, 12	414, 1-8	GTH	a mae nhw yn dechrau anghofio hynny felly	---	NSNT
+
+
+140, 1	416, 1-3	EIF	mae wedi cymryd	NSNT	NSNT
+140, 2	416, 4-5	EIF	oes wneud	---	NSNT
+
+
+141, 1	417, 1-3	GTH	mae wedi cymryd	NSNT	NSNT
+141, 2	417, 4-11	GTH	wyt ti sôn am bron i gan mlynedd	---	NSNT
+
+
+142, 1	418, 1-6	EIF	*well* *sure* *sure* yndych hollol *yeah*	NST	NST
+142, 2	420, 1-5	EIF	*oh* na dw i wedi	NST	NST
+142, 3	420, 6-21	EIF	dw i yn *er* clywed rhai yn deud ac yn sgyrnygu wrth glywed yr enw bron	NST	NST
+142, 4	420, 22-24	EIF	wchi yn yn	NSNT	NSNT
+142, 5	420, 25-27	EIF	oes i wan	---	NSNT
+
+
+143, 1	422, 1-2	GTH	dyna chdi	NSNT	NSNT
+143, 2	422, 3-5	GTH	dyna chdi *yeah*	NST	NST
+143, 3	424, 1-7	GTH	na mae yr ambell un wedi deud	NSNT	NSNT
+143, 4	424, 8-13	GTH	na fysan nhw byth yn rhoi	NSNT	NSNT
+143, 5	424, 14-20	GTH	troed tu fewn y *club* acw felly	NST	NST
+143, 6	426, 1-2	GTH	ond mae	NSNT	NSNT
+143, 7	426, 3-6	GTH	mae hynny wedi gweithio	NSNT	NSNT
+143, 8	427, 1-5	GTH	*er* wn i am un	NST	NST
+143, 9	427, 6-9	GTH	ddeudodd fwy nag unwaith	NSNT	NSNT
+143, 10	428, 1-7	GTH	a wyddost ti am hwnnw hefyd de	NSNT	NSNT
+143, 11	430, 1-10	GTH	ond mae o wedi dechrau dŵad i yr *club* felly	---	NST
+
+
+144, 1	432, 1-2	EIF	yndy *sure*	NST	NST
+144, 2	433, 1-6	EIF	ydy yr *club* ar y we	NST	NST
+144, 3	435, 1-5	EIF	ydy o ar y we	---	NSNT
+
+
+145, 1	438, 1-8	GTH	a *lot* wedi ymateb ar y we wsti	---	NST
+
+
+146, 1	439, 1-2	EIF	oes wir	---	NSNT
+
+
+147, 1	440, 1-12	GTH	o hen aelodau sydd wedi mynd draws gwlad i bob man sti	---	NSNT
+
+
+148, 1	441, 1-2	EIF	*yeah* wir	---	NST
+
+
+149, 1	443, 1-12	GTH	*oh* mae rheiny wedi cyfrannu ac wedi rhoi ryw straeon bach difyr	NST	NST
+149, 2	443, 13-13	GTH	wsti	---	NSNT
+
+
+150, 1	447, 1-6	EIF	*oh* chi wedi cael cyfraniadau felly	NST	NST
+150, 2	449, 1-3	EIF	Duw annwyl dad	---	NSNT
+
+
+151, 1	450, 1-10	GTH	oedd gen ti yn *er* *er* o yr dre yma	NST	NST
+151, 2	450, 11-14	GTH	oedd gen ti *er*	NST	NST
+151, 3	452, 1-11	GTH	ti wyt ti *oh* glywaist ti sôn am *shop* *Wartki* yn_do	NST	NST
+151, 4	454, 1-5	GTH	*oh* *shop* ddrud *shop* wsti	---	NST
+
+
+152, 1	455, 1-4	EIF	lle mae *Debenhams* wan	NST	NST
+152, 2	455, 5-7	EIF	dach chi feddwl	---	NSNT
+
+
+153, 1	458, 1-3	GTH	ie oedd hi	NSNT	NSNT
+153, 2	458, 4-12	GTH	pan oedd hi yn y dyddiau o fri felly	NSNT	NSNT
+153, 3	460, 1-4	GTH	oedd hi *shop* arbennig	NST	NST
+153, 4	460, 5-5	GTH	wsti	---	NSNT
+
+
+154, 1	461, 1-2	EIF	*well* oedd	NST	NST
+154, 2	461, 3-6	EIF	dw i yn cofio	NSNT	NSNT
+154, 3	462, 1-3	EIF	oedd hi yn	NSNT	NSNT
+154, 4	462, 4-6	EIF	oedd hi yn	NSNT	NSNT
+154, 5	462, 7-8	EIF	oedd hi	NSNT	NSNT
+154, 6	462, 9-17	EIF	yn bod pan o'n i ddois i yma *sure*	---	NST
+
+
+155, 1	463, 1-7	GTH	wyt ti yn cofio *shop* *Polykoff* wedyn	---	NST
+
+
+156, 1	464, 1-1	EIF	yndw	NSNT	NSNT
+156, 2	464, 2-2	EIF	yndw	---	NSNT
+
+
+157, 1	465, 1-12	GTH	*well* rŵan mi oedd gen ti *er* berchennog *Wartki* yn aelod acw	NST	NST
+157, 2	467, 1-10	GTH	mi oedd gen ti perchennog *er* *Polykoff* yn aelod acw	NST	NST
+157, 3	470, 1-6	GTH	a dyn o yr enw *Ischy_Polykoff*	NST	NST
+157, 4	470, 7-8	GTH	oedd hwnnw	NSNT	NSNT
+157, 5	472, 1-7	GTH	glywaist ti sôn amdano mae *sure* yn_do	---	NST
+
+
+158, 1	473, 1-5	EIF	na ddim fel yna naddo	NSNT	NSNT
+158, 2	473, 6-6	EIF	naddo	---	NSNT
+
+
+159, 1	474, 1-5	GTH	*well* dyn bach oedd yn	---	NST
+
+
+160, 1	475, 1-7	EIF	dim ond bod *Polykoff* arall yn *Pwllheli*	---	NST
+
+
+161, 1	476, 1-5	GTH	*oh* dyna chdi brawd iddo	NST	NST
+161, 2	478, 1-5	GTH	*Jack* oedd hwnnw ti weld	NST	NST
+161, 3	479, 1-4	GTH	*Ischy* oedd piau hon	NST	NST
+161, 4	480, 1-6	GTH	oedd yna *shop* arall Holyhead yn_doedd	NST	ST
+161, 5	481, 1-7	GTH	a wedyn ryw *story* bach am *Ischy_Polykoff*	NST	NST
+161, 6	482, 1-5	GTH	neb isio chwarae efo fo	NSNT	NSNT
+161, 7	483, 1-6	GTH	doedd ddim yn chwaraewr da iawn	NSNT	NSNT
+161, 8	484, 1-6	GTH	ac *er* fel digwyddodd hi mi	NST	NST
+161, 9	484, 7-19	GTH	oedd yna hogyn ifanc wedi *er* troi fyny yn hwyr i ryw cystadleuaeth	NST	NST
+161, 10	485, 1-4	GTH	a benderfynodd y ddau	NSNT	NSNT
+161, 11	485, 5-10	GTH	basen nhw mynd allan efo ei_gilydd	NSNT	NSNT
+161, 12	486, 1-16	GTH	a wedyn mi dyma *Ischy_Polykoff* yn tynnu ryw bêl i ganol ryw *er* weiriach mawr wsti	NST	NST
+161, 13	488, 1-11	GTH	a mi gafon dipyn o drafferth cael hyd i yr bêl	NSNT	NSNT
+161, 14	489, 1-7	GTH	*oh* mi gawd hyd i yr bêl	NST	NST
+161, 15	490, 1-17	GTH	a dyma *Mr_Polykoff* yn gafael yn y bêl a ei lluchio hi allan i ganol y fairway	ST	ST
+161, 16	492, 1-8	GTH	a dyma yr hogyn yma yn deud wrtho	SNT	NSNT
+161, 17	493, 1-3	GTH	what you doing	SNT	NSNT
+161, 18	494, 1-2	GTH	felly yn_de	SNT	NSNT
+161, 19	495, 1-4	GTH	what are you doing	NSNT	NSNT
+161, 20	496, 1-5	GTH	*oh* this is how I	ST	NST
+161, 21	497, 1-3	GTH	Saesneg oedden nhw	NSNT	NSNT
+161, 22	497, 4-4	GTH	sti	---	NSNT
+
+
+162, 1	498, 1-4	EIF	*sure* iawn *yeah* *yeah*	---	NST
+
+
+163, 1	500, 1-4	GTH	what are you doing	SNT	NSNT
+163, 2	501, 1-11	GTH	meddai *er* y *Eric* yma wrtho fo felly yr hogyn yma	NST	NST
+163, 3	501, 12-14	GTH	oedd chwarae fo	SNT	NSNT
+163, 4	502, 1-7	GTH	*oh* this is how I always play	ST	NST
+163, 5	503, 1-2	GTH	meddai *Mr_Polykoff*	ST	NST
+163, 6	504, 1-6	GTH	not when you're playing with *me*	ST	NST
+163, 7	505, 1-7	GTH	a dyma yn gafael yn y bêl	NSNT	NSNT
+163, 8	506, 1-10	GTH	a dyma fo lluchio hi nôl i ble oedd hi	NSNT	NSNT
+163, 9	508, 1-7	GTH	a mi fethon nhw gael hyd iddi	NSNT	NSNT
+163, 10	510, 1-6	GTH	oedd o wedi pechu yn anfaddeuol	---	NSNT
+
+
+164, 1	511, 1-4	EIF	*oh* mae yn amlwg	NST	NST
+164, 2	512, 1-2	EIF	*oh* Duw	---	NST
+
+
+165, 1	513, 1-2	GTH	anfaddeuol de	NSNT	NSNT
+165, 2	515, 1-7	GTH	*oh* methu cael hyd i yr bêl	---	NST
+
+
+166, 1	516, 1-9	EIF	oedd hogiau *Maesgeirchen* ddim yn dwyn nhw amser hynny	---	NST
+
+
+167, 1	517, 1-6	GTH	*well* o'n nhw ffeindio nhw yn_do'n	---	NST
+
+
+168, 1	519, 1-2	EIF	*oh* Duwch	---	NST
+
+
+169, 1	520, 1-2	GTH	*Mr_Polykoff* *yeah*	---	NST
+
+
+170, 1	521, 1-2	EIF	*oh* be	NST	NST
+170, 2	522, 1-8	EIF	oedd o yn byw yn yn *Bangor* Ucha	NST	NST
+170, 3	526, 1-3	EIF	pwtyn byr bach	---	NSNT
+
+
+171, 1	527, 1-2	GTH	dyna chdi	---	NSNT
+
+
+172, 1	528, 1-5	EIF	ie *yeah* dw cofio fo	---	NST
+
+
+173, 1	529, 1-9	GTH	mynd *er* ben ben i *er* yr llawr de	---	NST
+
+
+174, 1	530, 1-8	EIF	ia oedd o yn mynd yn wargam braidd	---	NSNT
+
+
+175, 1	532, 1-2	GTH	adawodd filiynau	NSNT	NSNT
+175, 2	532, 3-7	GTH	cofia ar ei ôl felly	---	NSNT
+
+
+176, 1	533, 1-3	EIF	*yeah* oedd gynno	NST	NST
+176, 2	533, 4-14	EIF	oedd gynno ddim ryw *synagogue* yn ei dŷ neu rywbeth neu	---	NST
+
+
+177, 1	534, 2-3	GTH	dyna chdi	---	NSNT
+
+
+178, 1	535, 1-3	EIF	oedd ia fo	NSNT	NSNT
+178, 2	535, 4-5	EIF	oedd o	---	NSNT
+
+
+179, 1	536, 1-7	GTH	mae yna *lot* o straeon amdano fo	NST	NST
+179, 2	536, 8-10	GTH	sti straeon *er*	NST	NST
+179, 3	536, 11-20	GTH	sut oedd o yn trin ei weithwyr a rhyw bethau	---	NSNT
+
+
+180, 1	540, 1-5	EIF	*yeah* *Polykoff* lle mae *um*	NST	NST
+180, 2	540, 6-10	EIF	be ydyn nhw wan *um*	---	NST
+
+
+181, 1	541, 1-1	GTH	*Peacocks*	---	NST
+
+
+182, 1	542, 1-3	EIF	*Peacocks* wan de	---	NST
+
+
+183, 1	543, 1-4	GTH	*Peacocks* sy yna rŵan	---	NST
+
+
+184, 1	544, 1-2	EIF	fan yna	NSNT	NSNT
+184, 2	547, 1-7	EIF	*yeah* dw i yn cofio yr *shop*	NST	NST
+184, 3	547, 8-8	EIF	yndw	NSNT	NSNT
+184, 4	547, 9-9	EIF	yndw	NSNT	NSNT
+184, 5	549, 1-10	EIF	a ryw ddyn bach *er* sarrug yr olwg oedd o	---	NST
+
+
+185, 1	550, 1-4	GTH	sarrug yr olwg *yeah*	---	NST
+
+
+186, 1	551, 1-2	EIF	oedd o	---	NSNT
+
+
+187, 1	552, 1-3	GTH	blin yr olwg	NSNT	NSNT
+187, 2	555, 1-3	GTH	a dyn blin	NSNT	NSNT
+187, 3	555, 4-5	GTH	oedd o	NSNT	NSNT
+187, 4	555, 6-6	GTH	cofia	NSNT	NSNT
+187, 5	557, 1-2	GTH	a ie	---	NSNT
+
+
+188, 1	558, 1-2	EIF	oedd o	NSNT	NSNT
+188, 2	558, 3-11	EIF	oedd o ddim yn perthyn dim i yr *Wartski*	NST	NST
+188, 3	558, 12-13	EIF	nag oedd	NSNT	NSNT
+188, 4	559, 1-5	EIF	oedd yna ddim perthynas felly	---	NSNT
+
+
+189, 1	560, 1-5	GTH	nag oedd dim perthynas o_gwbl	NSNT	NSNT
+189, 2	560, 6-6	GTH	wsti	NSNT	NSNT
+189, 3	563, 1-9	GTH	o'n i o'n oedd yna ddynes acw ddoe *Eifion*	NST	NST
+189, 4	565, 1-5	GTH	wedi bod mewn yn Llundain	NSNT	NSNT
+189, 5	566, 1-10	GTH	ac oedd ei wyres hi neu wyrion hi ŵyr iddi	NSNT	NSNT
+189, 6	566, 11-22	GTH	wedi bod yr *er* *er* mynd i yr ysgol Gymraeg yn Llundain	NST	NST
+189, 7	567, 1-10	GTH	a mi oedd hi wedi cwrdd hogan *er* o *Llanfaircaereinion*	NST	NST
+189, 8	568, 1-5	GTH	oedd hi yn perthyn iddi	---	NSNT
+
+
+190, 1	569, 1-2	EIF	bobl annwyl	---	NSNT
+
+
+191, 1	570, 1-2	GTH	*Mair_Gwyn_Evans* felly	NST	NST
+191, 2	572, 2-4	GTH	oedd hi yn	---	NSNT
+
+
+192, 1	573, 1-8	EIF	*oh* *yeah* o'n i meddwl nabod yr enw	---	NST
+
+
+193, 1	574, 1-13	GTH	ond *er* *oh* o'n i o'n i wedi hanes hi ers tro rŵan	NST	NST
+193, 2	576, 1-10	GTH	ond o'n i yn gwybod bod hi yn Llundain felly	NSNT	NSNT
+193, 3	579, 1-4	GTH	ond *er* *Susan* oedd	NST	NST
+193, 4	579, 5-7	GTH	wedi bod lawr	NSNT	NSNT
+193, 5	579, 8-8	GTH	sti	---	NSNT
+
+
+194, 1	580, 1-4	EIF	*oh* dwn i ddim	---	NST
+
+
+195, 1	581, 1-6	GTH	a wedi gwrdd hi yn Lundain	---	NSNT
+
+
+196, 1	582, 1-3	EIF	*oh* nefi wen	NST	NST
+196, 2	584, 1-9	EIF	a mae yn perthyn i chi rywsut neu gilydd	---	NSNT
+
+
+197, 1	585, 3-3	GTH	mae	NSNT	NSNT
+197, 2	585, 4-13	GTH	mae un thaid hi taid hi o yr enw *Hywel_Gwyn*	NST	NST
+197, 3	587, 1-7	GTH	ond dim y *Hywel_Gwyn* dan ni nabod	NST	NST
+197, 4	589, 1-2	GTH	ond timod	NSNT	NSNT
+197, 5	589, 3-5	GTH	mae yna gysylltiadau	NSNT	NSNT
+197, 6	591, 1-4	GTH	mae nhw yn perthyn	NSNT	NSNT
+197, 7	593, 1-10	GTH	ei thaid hi a fy *mam* yn gefnder a chyfnither	---	NST
+
+
+198, 1	594, 1-4	EIF	*oh* Duw annwyl *dad*	NST	NST
+198, 2	596, 1-9	EIF	oedd hi yn ymddiddori yn ei theulu neu be	---	NSNT
+
+
+199, 1	599, 1-13	GTH	na *er* doedd hi ddim yn gwybod mod i yn yn fan hyn	NST	NST
+199, 2	601, 1-8	GTH	mond bod *er* *Susan* wedi digwydd sôn ddoe	NST	NST
+199, 3	603, 1-6	GTH	ond oedd *Susan* ddim yn gwybod	NST	NST
+199, 4	603, 7-12	GTH	bod ni yn perthyn mi nes	NSNT	NSNT
+199, 5	603, 13-14	GTH	ddeudais i	---	NSNT
+
+
+200, 1	604, 1-8	EIF	*oh* wela i *yeah* *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+201, 1	605, 1-6	GTH	mond bod hi wedi cwrdd hi	NSNT	NSNT
+201, 2	607, 1-3	GTH	a gofyn iddi	NSNT	NSNT
+201, 3	608, 1-4	GTH	*well* gofyn i mi	NST	NST
+201, 4	608, 5-7	GTH	oedd hi *oh*	NST	NST
+201, 5	608, 8-13	GTH	a fyddwn i yn nabod hi	---	NSNT
+
+
+202, 1	609, 1-2	EIF	a mae	NSNT	NSNT
+202, 2	609, 3-12	EIF	mae yn byw ym *Mangor* meddach chi wan neu be	---	NST
+
+
+203, 1	610, 1-2	GTH	nac ydy	NSNT	NSNT
+203, 2	612, 1-6	GTH	na yn Llundain mae yn byw	---	NSNT
+
+
+204, 1	613, 1-6	EIF	*oh* yn Llundain mae yn byw	---	NST
+
+
+205, 1	615, 1-5	GTH	Llundain mae yn byw ie	NSNT	NSNT
+205, 2	617, 1-4	GTH	*um* ond yn wreiddiol	NST	NST
+205, 3	618, 1-2	GTH	dyna pam	NSNT	NSNT
+205, 4	618, 3-10	GTH	oedd *Susan* yn gofyn o'n i nabod hi	NST	NST
+205, 5	618, 11-20	GTH	am bod hi dod o *Llanfaircaereinion* ti weld o Sir_Drefaldwyn	---	NST
+
+
+206, 1	622, 1-2	EIF	*oh* Duwch	NST	NST
+206, 2	623, 1-6	EIF	*oh* mae fyd bach fel yna	---	NST
+
+
+207, 1	624, 1-3	GTH	mae fyd bach	NSNT	NSNT
+207, 2	624, 4-5	GTH	dydy o	NSNT	NSNT
+207, 3	626, 1-5	GTH	mae yna rywun yn bobman	NSNT	NSNT
+207, 4	626, 6-6	GTH	does	NSNT	NSNT
+207, 5	628, 1-3	GTH	sydd yn *er*	NST	NST
+207, 6	629, 1-8	GTH	yn enwedig o o yr canolbarth *er* Cymru	NST	NST
+207, 7	630, 1-8	GTH	mae pobl ifanc gorod mynd o yna ti	---	NSNT
+
+
+208, 1	631, 1-3	EIF	*well* *sure* yndy	NST	NST
+208, 2	632, 1-4	EIF	does yna ddim_byd ar_ôl	NSNT	NSNT
+208, 3	632, 5-6	EIF	nag oes	---	NSNT
+
+
+209, 1	633, 1-6	GTH	does yna ddim_byd ar ôl yna	NSNT	NSNT
+209, 2	635, 1-5	GTH	ar_wahân i i ffermio felly	NSNT	NSNT
+209, 3	637, 1-6	GTH	does yna ddim arall ar_ôl yna	NSNT	NSNT
+209, 4	637, 7-8	GTH	nag oes	---	NSNT
+
+
+210, 1	638, 1-6	EIF	mae *Laura_Ashley* wedi mynd i_lawr ofnadwy	---	NST
+
+
+211, 1	639, 1-3	GTH	*Laura_Ashley* wedi mynd	NST	NST
+211, 2	640, 1-10	GTH	does yna fawr o ddim_byd yn fan yno ti weld	NSNT	NSNT
+211, 3	643, 1-2	GTH	a dyna	NSNT	NSNT
+211, 4	643, 3-11	GTH	sy yn digwydd mewn *lot* o lefydd ti weld	---	NST
+
+
+212, 1	646, 1-8	EIF	*well* dw i wedi cael *job* ddymunol iawn	NST	NST
+212, 2	646, 9-12	EIF	wchi dyddiau dwytha yma	NSNT	NSNT
+212, 3	647, 1-15	EIF	wnaeth yna ryw *grew* ohonan ni efo ein_gilydd i *er* drio trefnu ryw aduniad coleg	NST	NST
+212, 4	648, 1-4	EIF	mae yn ddeugain mlynedd	NSNT	NSNT
+212, 5	650, 1-7	EIF	leni ers i ni adael y *Normal*	---	NST
+
+
+213, 1	651, 1-3	GTH	*oh* wela i	---	NST
+
+
+214, 1	652, 1-4	EIF	yr hen Goleg *Normal*	NST	NST
+214, 2	654, 1-3	EIF	wedyn oedd *um*	NST	NST
+214, 3	654, 4-17	EIF	oedd yna un neu ddau wedi cael syniad o beth am drio trefnu rywbeth	---	NSNT
+
+
+215, 1	656, 1-2	GTH	*well* ie	---	NST
+
+
+216, 1	658, 1-4	EIF	wedyn mae yr e_bost	NSNT	NSNT
+216, 2	658, 5-19	EIF	wedi bod gweithio yn o brysur ers ryw ddau ddiwrnod dri i drio cael ymateb	---	NSNT
+
+
+217, 1	659, 1-2	GTH	*oh* Duw	---	NST
+
+
+218, 1	660, 1-3	EIF	*well* dw i	NST	NST
+218, 2	660, 4-7	EIF	wedi bod ar *Friends_Reunited*	NST	NST
+218, 3	662, 1-15	EIF	yn gweld pwy sy fan hynny o_dan yr un flwyddyn a wedyn wedi gyrru ryw	NSNT	NSNT
+218, 4	662, 16-18	EIF	negeseuon i rheiny	NSNT	NSNT
+218, 5	663, 1-12	EIF	wedyn dw i wedi cael ryw ymateb gen ryw dri erbyn hyn	---	NSNT
+
+
+219, 1	664, 1-2	GTH	*oh* Duw	---	NST
+
+
+220, 1	665, 1-6	EIF	falle bod yna fwy erbyn hyn	NSNT	NSNT
+220, 2	666, 1-6	EIF	ond dw i ddim yn gwybod	NSNT	NSNT
+220, 3	667, 1-7	EIF	dw ddim wedi cael golwg bore yma	---	NSNT
+
+
+221, 1	668, 1-6	GTH	mae *Gwenith* a *Marian* yn rheina	---	NST
+
+
+222, 1	669, 1-7	EIF	na mae nhw oes iau na ni	---	NSNT
+
+
+223, 1	670, 1-4	GTH	dim yr un flwyddyn	---	NSNT
+
+
+224, 1	671, 1-1	EIF	ydyn	NSNT	NSNT
+224, 2	671, 2-2	EIF	ydyn	NSNT	NSNT
+224, 3	671, 3-3	EIF	ydyn	---	NSNT
+
+
+225, 1	672, 1-7	GTH	*oh* mae nhw yn iau na chdi	---	NST
+
+
+226, 1	676, 1-9	EIF	na mae pawb yn rhein yn drigain oed ylwch	---	NSNT
+
+
+227, 1	677, 1-3	GTH	*oh* wela i	NST	NST
+227, 2	679, 1-7	GTH	*yeah* *well* ia hanner cant ydy *er*	NST	NST
+227, 3	680, 1-5	GTH	*yeah* dan ni sôn am	---	NST
+
+
+228, 1	681, 1-6	EIF	ia yn eu pumdegau mae nhw	---	NSNT
+
+
+229, 1	684, 1-3	GTH	*oh* diddorol *Eifion*	---	NST
+
+
+230, 1	685, 1-8	EIF	*well* na *task* ydy cael hyd i bobl	NST	NST
+230, 2	685, 10-11	EIF	wchi *um*	---	NST
+
+
+231, 1	687, 1-12	GTH	ond wrth i ti fod yn cysylltu â ryw un neu ddau	NSNT	NSNT
+231, 2	687, 13-14	GTH	mae rhyfeddod	---	NSNT
+
+
+232, 1	688, 4-7	EIF	dw i wedi cael	---	NSNT
+
+
+233, 1	689, 1-11	GTH	faint o rei eraill mae rheiny *um* mewn cysylltiad â nhw	---	NST
+
+
+234, 1	691, 1-7	EIF	*oh* mae yna un hogyn o *Rhos*	NST	NST
+234, 2	692, 1-10	EIF	*er* *oh* mae yn dal i fyw yn ardal *Wrexham*	NST	NST
+234, 3	693, 1-11	EIF	mae hwnnw wedi gyrru ryw ddau gyfeiriad i mi yn syth	NSNT	NSNT
+234, 4	693, 12-12	EIF	wchi	---	NSNT
+
+
+235, 1	694, 1-4	GTH	*ah* dyna chdi ie	---	NST
+
+
+236, 1	695, 1-1	EIF	wedyn	---	NSNT
+
+
+237, 1	696, 1-1	GTH	dyna	NSNT	NSNT
+237, 2	696, 2-2	GTH	dyna	NSNT	NSNT
+237, 3	696, 3-5	GTH	fydd yn digwydd	---	NSNT
+
+
+238, 1	698, 1-4	EIF	dan ni wedi penderfynu	NSNT	NSNT
+238, 2	698, 5-6	EIF	tro yma	NSNT	NSNT
+238, 3	698, 7-14	EIF	bod raid ni gael gyrru llythyr i bobl	NSNT	NSNT
+238, 4	698, 15-24	EIF	a bod nhw gyrru *cheque* yn barod at y noson	NST	NST
+238, 5	700, 1-4	EIF	achos gaeth gaethon ni	NSNT	NSNT
+238, 6	700, 5-8	EIF	ein dal tro dwytha	NSNT	NSNT
+238, 7	701, 1-8	EIF	wnaethon ni rywbeth bach ryw dair blynedd yn_ôl	NSNT	NSNT
+238, 8	702, 1-7	EIF	ond wnaeth yna rhai ddim troi fyny	NSNT	NSNT
+238, 9	702, 8-8	EIF	naddo	NSNT	NSNT
+238, 10	704, 1-8	EIF	o'n nhw wedi gaddo bod nhw yn dŵad	---	NSNT
+
+
+239, 1	705, 1-1	GTH	a	---	NSNT
+
+
+240, 1	706, 1-11	EIF	a wedyn o'n ni wedi ordro bwyd i hyn a hyn	---	NSNT
+
+
+241, 1	707, 1-4	GTH	a ddaru nhw ddim	---	NSNT
+
+
+242, 1	708, 1-5	EIF	ddau dri ddim troi fyny	NSNT	NSNT
+242, 2	710, 1-2	EIF	*well* wchi	NST	NST
+242, 3	710, 3-11	EIF	mae rywun yn gorod derbyn y *gost* wedyn rywle	NST	NST
+242, 4	710, 12-12	EIF	does	NSNT	NSNT
+242, 5	710, 13-16	EIF	wchi am rywbeth felly	---	NSNT
+
+
+243, 1	711, 1-3	GTH	*yeah* *yeah* mae	NST	NST
+243, 2	712, 1-1	GTH	mae	NSNT	NSNT
+243, 3	712, 2-9	GTH	mae gofyn i ti wneud rywbeth fel yna	NSNT	NSNT
+243, 4	713, 1-8	GTH	dan ni mynd ar ryw *drip* *golf* wan	NST	NST
+243, 5	713, 9-15	GTH	wsti *um* dros *um* dros y Pasg	NST	NST
+243, 6	715, 1-11	GTH	a a wyt ti wedi gorod talu ymlaen llaw cyn mynd	---	NSNT
+
+
+244, 1	716, 1-4	EIF	*oh* *yeah* *yeah* mae	---	NST
+
+
+245, 1	717, 1-9	GTH	dan ni mynd lawr am y am y de	NSNT	NSNT
+245, 2	717, 10-11	GTH	tro yma	---	NSNT
+
+
+246, 1	718, 1-3	EIF	*oh* ydych chi	---	NST
+
+
+247, 1	719, 1-8	GTH	ni wedi bod yn Iwerddon am ddwy flynedd	NSNT	NSNT
+247, 2	720, 1-10	GTH	ond dan ni mynd lawr am y de i *Lanelli*	NST	NST
+247, 3	720, 11-12	GTH	tro yma	---	NSNT
+
+
+248, 1	721, 1-2	EIF	ew annwyl	---	NSNT
+
+
+249, 1	722, 1-4	GTH	mae yna ryw gwrs	---	NSNT
+
+
+250, 1	723, 1-1	EIF	Pen_bre	---	NSNT
+
+
+251, 1	724, 1-5	GTH	mae yna ryw gwrs *Ashburnham*	NST	NST
+251, 2	726, 1-7	GTH	ond mae yna gwrs newydd sbon yna	NSNT	NSNT
+251, 3	726, 8-11	GTH	sy wedi cael ei	---	NSNT
+
+
+252, 1	728, 1-4	EIF	*oh* fuais i *well*	---	NST
+
+
+253, 1	729, 1-1	GTH	*Machynys*	---	NST
+
+
+254, 1	730, 1-8	EIF	ia fuais i yno *er* ryw bythefnos yn_ôl	NST	NST
+254, 2	732, 1-11	EIF	na *oh* *oh* mae *Cerys* acw yn byw yn *Llanelli* ylwch	NST	NST
+254, 3	734, 1-7	EIF	a aethon ni lawr i weld hi	NSNT	NSNT
+254, 4	735, 1-10	EIF	a aethon ni am dro ar_hyd y glannau fan yna	NSNT	NSNT
+254, 5	736, 1-3	EIF	lle newydd i_gyd	---	NSNT
+
+
+255, 1	737, 1-5	GTH	*oh* *yeah* dyna chdi *yeah*	---	NST
+
+
+256, 1	738, 1-5	EIF	ac *um* dwn i ddim	NST	NST
+256, 2	738, 6-8	EIF	wnaethon ni droi	NSNT	NSNT
+256, 3	739, 1-8	EIF	weithiau os dach chi dod o un cyfeiriad	NSNT	NSNT
+256, 4	739, 9-9	EIF	mae	NSNT	NSNT
+256, 5	739, 10-13	EIF	mae yn anodd gwybod	NSNT	NSNT
+256, 6	739, 14-18	EIF	lle dach chi yn iawn	NSNT	NSNT
+256, 7	740, 1-5	EIF	wnaethon ni troi fan yna	NSNT	NSNT
+256, 8	741, 1-4	EIF	a duwch mwya *sudden*	NST	NST
+256, 9	741, 5-21	EIF	oedden ni yn mynd ar y y ffordd yma am y *club* *golf* y ffordd syth ia	---	NST
+
+
+257, 1	742, 1-1	GTH	*Machynys*	---	NST
+
+
+258, 1	744, 1-6	EIF	a mae uffach o *glub* mawr	NST	NST
+258, 2	746, 1-7	EIF	oedd yna yna gannoedd o geir yna	NSNT	NSNT
+258, 3	749, 1-3	EIF	welais i mo	NSNT	NSNT
+258, 4	749, 4-4	EIF	yr	NSNT	NSNT
+258, 5	749, 5-14	EIF	wchi *greens* na dim_byd mond mond adeilad y *club* felly	---	NST
+
+
+259, 1	750, 1-6	GTH	o ddim ymhell medden nhw o	NSNT	NSNT
+259, 2	750, 7-11	GTH	lle oedd y *Steddfod* *yeah*	---	NST
+
+
+260, 1	751, 1-5	EIF	*oh* nac ydy dim o_gwbl	NST	NST
+260, 2	752, 1-6	EIF	mae yr un yr un ardal	---	NSNT
+
+
+261, 1	753, 1-10	GTH	ryw *er* *er* draw wedyn i *er* i yr dde	---	NST
+
+
+262, 1	755, 1-2	EIF	*well* fethais	NST	NST
+262, 2	755, 3-5	EIF	fethais i ffeindio	NSNT	NSNT
+262, 3	755, 6-9	EIF	lle oedd y *Steddfod*	NST	NST
+262, 4	756, 1-4	EIF	fuon ni yn chwilio	NSNT	NSNT
+262, 5	758, 1-2	EIF	ond oedd	NSNT	NSNT
+262, 6	758, 3-10	EIF	doedd y lle ddim do'n i methu myw	NSNT	NSNT
+262, 7	758, 11-12	EIF	â cofio	NSNT	NSNT
+262, 8	758, 13-17	EIF	lle oedd y y *Steddfod*	NST	NST
+262, 9	758, 18-18	EIF	wchi	---	NSNT
+
+
+263, 1	759, 1-11	GTH	*oh* Duw hwyrach bod o wedi cymryd rhan o hwnnw i_fyny	NST	NST
+263, 2	759, 12-12	GTH	sti	---	NSNT
+
+
+264, 1	760, 1-7	EIF	na dw i ddim yn meddwl na	NSNT	NSNT
+264, 2	761, 1-8	EIF	oedd y *Steddfod* yn nes i i *well*	NST	NST
+264, 3	761, 9-15	EIF	dwn i ddim i yr dre am	NSNT	NSNT
+264, 4	761, 16-17	EIF	wn i	NSNT	NSNT
+264, 5	761, 18-21	EIF	os dach chi ddeud	NSNT	NSNT
+264, 6	762, 1-5	EIF	ac *er* mae mwy yn	NST	NST
+264, 7	762, 6-13	EIF	wchi nes i ryw hen *er* le diwydiannol	NST	NST
+264, 8	764, 1-4	EIF	ond fedrwn i myw	NSNT	NSNT
+264, 9	764, 5-8	EIF	â dyfeisio yn union	NSNT	NSNT
+264, 10	765, 1-7	EIF	mae nhw wedi adeiladu chwaneg o yno	NSNT	NSNT
+264, 11	765, 8-8	EIF	wchi	---	NSNT
+
+
+265, 1	766, 1-3	GTH	*oh* mae *sure*	---	NST
+
+
+266, 1	767, 1-11	EIF	wedyn wedyn dydy yr lle ddim yn edrych yr un fath	---	NSNT
+
+
+267, 1	768, 1-8	GTH	dydy o ddim yn edrych yr un fath	NSNT	NSNT
+267, 2	768, 9-12	GTH	mae yn debyg de	---	NSNT
+
+
+268, 1	769, 1-5	EIF	na dim *quite* na na	---	NST
+
+
+269, 1	771, 1-9	GTH	*oh* *Rhodri* sy wedi trefnu hwnna hefyd *trip* yma	---	NST
+
+
+270, 1	773, 1-3	EIF	*oh* argoel annwyl	---	NST
+
+
+271, 1	774, 1-6	GTH	a *Ceri* bach yn *er* drysorydd	NST	NST
+271, 2	776, 1-6	GTH	a a be sy wedi digwydd	NSNT	NSNT
+271, 3	776, 7-12	GTH	mae un *Dic* wedi torri fraich	NST	NST
+271, 4	777, 1-5	GTH	dw i ddim yn *sure*	NST	NST
+271, 5	777, 6-11	GTH	ydy o mynd i allu dŵad	---	NSNT
+
+
+272, 1	778, 1-2	EIF	ew annwyl	---	NSNT
+
+
+273, 1	779, 1-3	GTH	a mewn *plaster*	---	NST
+
+
+274, 1	780, 1-2	EIF	*oh* nefi	---	NST
+
+
+275, 1	781, 1-5	GTH	wedi disgyn o oddi_ar ystol	---	NSNT
+
+
+276, 1	782, 1-4	EIF	o yr argoel fawr	---	NSNT
+
+
+277, 1	783, 1-7	GTH	fel sach o datws i yr llawr	NSNT	NSNT
+277, 2	784, 3-9	GTH	genno ddim anadl ar_ôl ei *golf* gorff	NST	NST
+277, 3	787, 1-2	GTH	wsti fel	NSNT	NSNT
+277, 4	787, 3-8	GTH	mae rywun yn cael ryw gnoc	---	NSNT
+
+
+278, 1	788, 1-4	EIF	*well* ia *yeah* *yeah*	---	NST
+
+
+279, 1	789, 1-4	GTH	ac *er* mi ddioddodd	---	NST
+
+
+280, 1	790, 1-9	EIF	be tu allan i yr tŷ oedd wedi digwydd	---	NSNT
+
+
+281, 1	794, 1-6	GTH	ie tu allan i yr tŷ	NSNT	NSNT
+281, 2	795, 1-18	GTH	o'n i o'n i efo fo yn helpu o roi ryw fascia *boards* mae nhw yn galw nhw	NST	ST
+281, 3	797, 1-4	GTH	ond *bungalow* ydy o	NST	NST
+281, 4	797, 5-5	GTH	sti	NSNT	NSNT
+281, 5	798, 1-11	GTH	wedyn do't do't ti ddim yn uchel iawn ar yr ystol	---	NSNT
+
+
+282, 1	799, 1-3	EIF	yn *Llandygai* rŵan	NST	NST
+282, 2	801, 1-3	EIF	*oh* yr argoel	---	NST
+
+
+283, 1	802, 1-4	GTH	a dyma yn disgyn	NSNT	NSNT
+283, 2	803, 1-7	GTH	ddigwyddodd yna rywun ddod at y teulu	NSNT	NSNT
+283, 3	804, 1-7	GTH	a mi droeodd *round* ar yr ystol	NST	NST
+283, 4	805, 1-5	GTH	a dyma hi lawr fel	---	NSNT
+
+
+284, 1	806, 1-2	EIF	*oh* duwch	NST	NST
+284, 2	808, 1-3	EIF	*oh* codwm gas	---	NST
+
+
+285, 1	809, 1-6	GTH	a wedyn dydy o ddim yn	NSNT	NSNT
+285, 2	810, 1-11	GTH	oedd o fod wedi mynd i sgïo ddoe *er* dydd Mercher	NST	NST
+285, 3	812, 1-10	GTH	i_lawr i *Ffrainc* rywle efo *Derek* a rheina o *Port*	NST	NST
+285, 4	814, 1-5	GTH	wrth_gwrs mae wedi methu mynd	---	NSNT
+
+
+286, 1	815, 1-3	EIF	*oh* Duw annwyl	---	NST
+
+
+287, 1	816, 1-7	GTH	a wedyn dydy o ddim yn *sure*	NST	NST
+287, 2	816, 8-16	GTH	geith o ddod ar y ar y *trip* *golf*	---	NST
+
+
+288, 1	819, 1-7	EIF	*well* na mae wedi darfod am *golf*	NST	NST
+288, 2	819, 8-8	EIF	dydy	---	NSNT
+
+
+289, 1	820, 3-6	GTH	oedd y *boy* *er*	NST	NST
+289, 2	820, 7-23	GTH	oedd wedi roi *plaster* iddo neu *boy* *er* *er* ysbyty *Gwynedd* y consultant wedi deud wrtho felly	ST	ST
+289, 3	821, 1-10	GTH	we'll have to put you in *plaster* for a fortnight	NST	NST
+289, 4	822, 1-5	GTH	there's too much swelling there	SNT	NSNT
+289, 5	823, 1-2	GTH	meddai o	SNT	NSNT
+289, 6	824, 1-3	GTH	at the *moment*	ST	NST
+289, 7	825, 1-1	GTH	felly	SNT	NSNT
+289, 8	826, 1-12	GTH	we'll have to take it *off* in *er* a fortnight and x_ray	NST	NST
+289, 9	826, 13-14	GTH	you again	SNT	NSNT
+289, 10	827, 1-1	GTH	felly	SNT	NSNT
+289, 11	829, 1-9	GTH	and be prepared for another six weeks in *plaster*	ST	NST
+289, 12	830, 1-2	GTH	meddai o	---	NSNT
+
+
+290, 1	831, 1-3	EIF	*oh* *yeah* wir	NST	NST
+290, 2	832, 1-6	EIF	ella fydd isio *pin* neu rywbeth	---	NST
+
+
+291, 1	833, 1-4	GTH	*well* doedd o ddim	NST	NST
+291, 2	833, 5-9	GTH	dw i ddim yn gwybod	NSNT	NSNT
+291, 3	834, 1-6	GTH	oedd o methu ffeindio yn union	NSNT	NSNT
+291, 4	834, 7-10	GTH	lle oedd y toriad	---	NSNT
+
+
+292, 1	835, 1-3	EIF	*oh* wela i	---	NST
+
+
+293, 1	836, 1-5	GTH	oherwydd yr *er* chwydd yma	NST	NST
+293, 2	837, 1-11	GTH	ond oedd o yn amau mai ryw un asgwrn yn y	---	NSNT
+
+
+294, 1	838, 1-6	EIF	wedi arbed ei hun oedd o	NSNT	NSNT
+294, 2	838, 7-9	EIF	mae *sure* *yeah*	---	NST
+
+
+295, 1	839, 1-4	GTH	ia mae yn beryg	NSNT	NSNT
+295, 2	839, 5-5	GTH	sti	NSNT	NSNT
+295, 3	841, 1-4	GTH	wedi arbed ei hunan	NSNT	NSNT
+295, 4	843, 1-1	GTH	a	---	NSNT
+
+
+296, 1	844, 1-3	EIF	*oh* duwch annwyl	---	NST

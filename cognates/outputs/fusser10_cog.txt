@@ -1,0 +1,1615 @@
+1, 1	1, 1-5	BAR	os o't ti yn cofio	NSNT	NSNT
+1, 2	2, 1-2	BAR	dw meddwl	NSNT	NSNT
+1, 3	2, 3-8	BAR	bod o ddipyn ifengach na ni	NSNT	NSNT
+1, 4	3, 1-2	BAR	dw meddwl	NSNT	NSNT
+1, 5	3, 3-6	BAR	bod o mond yn	NSNT	NSNT
+1, 6	3, 7-8	BAR	ei bedwardegau	---	NSNT
+
+
+2, 1	4, 1-1	ADD	*Geraint*	ST	NST
+2, 2	6, 1-2	ADD	*Geraint* be	---	NST
+
+
+3, 1	7, 1-1	BAR	ond	---	NSNT
+
+
+4, 1	8, 1-1	ADD	ti	---	NSNT
+
+
+5, 1	9, 1-2	BAR	ond dyna	NSNT	NSNT
+5, 2	9, 3-7	BAR	ond wnes i ddim gofyn	NSNT	NSNT
+5, 3	10, 1-2	BAR	ond *er*	NST	NST
+5, 4	11, 1-17	BAR	ti gwybod *Rhys* *Rhys* *er* sydd yn gweithio mae o yn gweithio yn *club* ieuenctid efo fi	ST	NST
+5, 5	13, 1-1	BAR	*Rhys*	ST	NST
+5, 6	14, 1-2	BAR	oedd o	NSNT	NSNT
+5, 7	14, 3-12	BAR	oedd o byw drws nesa iddo fo yn *Bont* hefyd	---	NST
+
+
+6, 1	15, 1-1	ADD	iesgob	---	NSNT
+
+
+7, 1	16, 1-2	BAR	am gyfnod	NSNT	NSNT
+7, 2	17, 1-2	BAR	ond mae	NSNT	NSNT
+7, 3	17, 3-9	BAR	wedi bod o yma pymtheg mlynedd wan	---	NSNT
+
+
+8, 1	18, 1-4	ADD	*oh* dwn i ddim	---	NST
+
+
+9, 1	19, 1-3	BAR	pymtheg ugain mlynedd	---	NSNT
+
+
+10, 1	20, 1-5	ADD	yn byw felly yn *Llangurig*	---	NST
+
+
+11, 1	21, 1-11	BAR	*well* mae raid bod o yn byw yn *Llangurig* yn rywle	NST	NST
+11, 2	22, 1-2	BAR	oedd o	NSNT	NSNT
+11, 3	22, 3-7	BAR	a mae yn gofyn iddo	NSNT	NSNT
+11, 4	22, 8-11	BAR	be oedd o wneud	NSNT	NSNT
+11, 5	23, 1-5	BAR	a mae yn gwneud *um*	NST	NST
+11, 7	25, 1-6	BAR	mae raid bod o yn *brivate*	NST	NST
+11, 9	27, 1-3	BAR	oedd o yn	NSNT	NSNT
+11, 10	27, 4-9	BAR	oedd o yn gweithio iddi hi	NSNT	NSNT
+11, 11	28, 1-4	BAR	ond dw i meddwl	NSNT	NSNT
+11, 12	28, 5-9	BAR	bod o yn trefnu pethau	NSNT	NSNT
+11, 13	28, 10-10	BAR	wsti	---	NSNT
+
+
+12, 1	31, 1-10	ADD	*oh* stopion ni yn *um* *Llanbrynmair* ddoe am am ginio	NST	NST
+12, 2	32, 1-16	ADD	mae yna le fel ti yn mynd i_lawr am Gaerdydd efo ddraig goch fawr tu allan	NSNT	NSNT
+12, 3	34, 1-2	ADD	*Matchinations* neu	---	NST
+
+
+13, 1	37, 1-4	BAR	mae yna *cafe* yna	NST	NST
+13, 2	37, 5-5	BAR	does	---	NSNT
+
+
+14, 1	38, 1-7	ADD	a wedyn gaeth ni ginio fan yno	NSNT	NSNT
+14, 2	39, 1-14	ADD	ac oeddan ni wedi cymryd na white settlers oedd y cwbl *lot* a wedyn	NST	ST
+14, 3	41, 1-5	ADD	pethau saeson efo acenion ryfedd	NSNT	NSNT
+14, 5	43, 1-11	ADD	ond ddynes bach yma mynd fyny at at *Ceri* yn deud	NST	NST
+14, 6	44, 1-6	ADD	dech chi ar y *television* dydach	NST	NST
+14, 7	45, 1-16	ADD	felly oedd y ddwy y dair ohonyn nhw yn siarad Cymraeg yn Gymry Cymraeg lleol felly	NSNT	NSNT
+14, 8	46, 1-10	ADD	ac oedd hon yn perthyn i *Llio* *um* cymar *Dafydd_Siôn*	NST	NST
+14, 10	48, 1-9	ADD	oedd hi yn chwaer i *mam* *Catrin* neu rywbeth	NST	NST
+14, 11	48, 11-12	ADD	ei hewyrth	---	NSNT
+
+
+15, 1	49, 1-1	BAR	Arglwydd	---	NSNT
+
+
+16, 1	50, 1-3	ADD	yn fodryb iddi	NSNT	NSNT
+16, 2	51, 1-9	ADD	wedyn fan yno fuon ni efo yr acen felly	NSNT	NSNT
+16, 3	52, 1-4	ADD	oedd o yn hyfryd	NSNT	NSNT
+16, 4	53, 1-1	ADD	wedyn	---	NSNT
+
+
+17, 1	54, 1-5	BAR	mae *Llanbrynmair* yn lle rhyfedd	NST	NST
+17, 2	55, 1-8	BAR	dw i yn cofio torri lawr yna un	NSNT	NSNT
+17, 3	55, 9-9	BAR	tro	NSNT	NSNT
+17, 4	57, 1-11	BAR	ac *um* ac es i *garage* yma efo yr *car* yma	NST	NST
+17, 5	58, 1-12	BAR	ac o'n i yn cael bron ddim ymateb yn siarad yn Saesneg	NSNT	NSNT
+17, 6	59, 1-3	BAR	dechrau siarad Cymraeg	NSNT	NSNT
+17, 7	60, 1-2	BAR	wnaeth o	NSNT	NSNT
+17, 8	60, 3-8	BAR	oedd yr agwedd yn hollol wahanol	NSNT	NSNT
+17, 10	62, 1-4	BAR	oedd o ddifri wan	NSNT	NSNT
+17, 12	64, 1-2	BAR	wsti a	NSNT	NSNT
+17, 13	64, 3-4	BAR	a oedd	NSNT	NSNT
+17, 14	64, 5-17	BAR	dw i erioed wedi weld o fel mor amlwg ag hynna o blaen	---	NSNT
+
+
+18, 1	65, 1-2	ADD	dyna chdi	NSNT	NSNT
+18, 2	66, 1-8	ADD	oedd hi yn deud yr *Beti* yma *um*	NST	NST
+18, 3	66, 9-12	ADD	ddeudodd hi wrth *Ceri*	NST	NST
+18, 4	66, 13-22	ADD	bod hi wrth ei bodd efo *Jonsi* ar y *radio*	NST	NST
+18, 5	68, 1-4	ADD	felly mae *Ceri* wedi	NST	NST
+18, 6	68, 5-9	ADD	roid *er* wedi e_bostio *Jen_Tomos*	NST	NST
+18, 7	68, 10-10	ADD	sy	NSNT	NSNT
+18, 8	68, 11-12	ADD	timod hi	NSNT	NSNT
+18, 9	68, 13-16	ADD	sy cynhyrchu rhaglen *Jonsi*	---	NST
+
+
+19, 1	69, 1-3	BAR	*oh* ia wir	---	NST
+20, 2	71, 1-7	ADD	achos mae yn gwrando bob bore felly	NSNT	NSNT
+20, 3	72, 1-2	ADD	wedyn oedd	NSNT	NSNT
+20, 4	72, 3-15	ADD	oedd hi mynd i wrando arno fo tua naw o gloch bore edrych	NSNT	NSNT
+20, 5	72, 16-22	ADD	os oedd o wedi mynd drwadd felly	NSNT	NSNT
+20, 6	73, 1-5	ADD	a fydd hi wedi gwirioni	NSNT	NSNT
+20, 7	73, 6-13	ADD	de bod hi cael mensh ar *radio* felly	---	ST
+
+
+21, 1	74, 1-1	BAR	arglwydd	NSNT	NSNT
+21, 2	76, 1-4	BAR	dw i ddim meddwl	NSNT	NSNT
+21, 3	76, 5-12	BAR	bod yna ddim_byd arall deud gwir yn *honest*	NST	NST
+21, 4	77, 1-7	BAR	*um* mae yna na toes yna ddim_byd	NST	NST
+21, 5	78, 1-9	BAR	heblaw y peth yna efo *Charlie* efo yr cyfrifiadaur	NST	NST
+21, 6	80, 1-3	BAR	dan ni isio	NSNT	NSNT
+21, 7	81, 1-3	BAR	mae yn amlwg	NSNT	NSNT
+21, 8	81, 4-7	BAR	bod yna raglen *um*	NST	NST
+21, 9	82, 1-7	BAR	be uffar ti yn alw fo eto	---	NSNT
+
+
+22, 1	83, 1-1	ADD	*Powerpoint*	---	NST
+
+
+23, 1	84, 1-5	BAR	*Powerpoint* yn rywle fan yma	ST	NST
+23, 2	85, 1-3	BAR	a mae isio	NSNT	SNT
+23, 3	85, 4-7	BAR	roid o ar y	SNT	NSNT
+23, 4	86, 1-12	BAR	because dan ni wedi trio gyrru y *stuff* i *Daniel* yn Iwerddon	NST	ST
+23, 5	87, 1-2	BAR	a mae	NSNT	NSNT
+23, 6	87, 3-7	BAR	mae *just* yn syrthio ddarnau	NST	NST
+23, 7	88, 1-9	BAR	a dydy o ddim yn dod drwodd yn gyfan	NSNT	NSNT
+23, 8	90, 1-5	BAR	ddim gwybod be ydy o	NSNT	NSNT
+23, 9	93, 1-7	BAR	*so* na dw i ddim yn meddwl	NST	NST
+23, 10	93, 8-11	BAR	bod na ddim_byd arall	NSNT	NSNT
+23, 12	95, 1-9	BAR	*um* mae *Siân* yn Gaerdydd mynd i weld *Y_M_C_A*	ST	NST
+23, 13	97, 1-1	BAR	*Y_M_C_A*	ST	NST
+23, 14	99, 1-8	BAR	ac *um* fel fel ti yn gwybod mae	NST	NST
+23, 15	99, 9-10	BAR	mae pethau	NSNT	NSNT
+23, 16	99, 11-20	BAR	mae *Carys* yn dod o *Llangefni* yn dod yma wedyn	---	NST
+
+
+24, 1	104, 1-2	ADD	dw isio	NSNT	NSNT
+24, 2	104, 3-15	ADD	mae gen i ryw anfoneb i baratoi sydd wedi dod o yr diwedd	NSNT	NSNT
+24, 3	105, 1-3	ADD	mae *Siân* druan	NST	NST
+24, 4	105, 4-14	ADD	wedi bod yn trio cael *um* *Kate* a *Rhonwen* yn *Llandudno*	NST	NST
+24, 5	107, 1-13	ADD	i gael enw ac cyfeiriad y bobl sydd fod i gael yr anfoneb	NSNT	NSNT
+24, 6	109, 1-5	ADD	mae wedi dod o diwedd	NSNT	NSNT
+24, 7	110, 1-5	ADD	wedyn mi wna i mi	NSNT	NSNT
+24, 8	110, 6-8	ADD	wna i hwnna	---	NSNT
+
+
+25, 1	111, 1-1	BAR	ti	---	NSNT
+
+
+26, 1	112, 1-8	ADD	*um* bore yma geith o fynd i *post*	NST	NST
+26, 2	114, 1-3	ADD	heblaw am hynny	NSNT	NSNT
+26, 4	116, 1-11	ADD	oedd yna e_bost gynno *Craig* ar hwnna bore yma yn deud	NST	NST
+26, 5	117, 1-6	ADD	wnes i ofyn *right* swta pam	NST	NST
+26, 6	117, 7-9	ADD	bod nhw wedi	NSNT	NSNT
+26, 8	119, 2-4	ADD	oes yna *broblem*	NST	NST
+26, 9	120, 1-6	ADD	ac *um* hwnna ydy yr ateb	NST	NST
+26, 10	120, 7-10	ADD	dw i wedi gael	NSNT	NSNT
+26, 11	121, 1-6	ADD	yn amlwg toes yna ddim *problem*	---	NST
+
+
+27, 1	122, 1-4	BAR	*oh* *so* oeddet ti	NST	NST
+27, 2	122, 5-8	BAR	oeddet ti yn meddwl	NSNT	NSNT
+27, 3	122, 9-12	BAR	oeddet ti yn pryderu	NSNT	NSNT
+27, 4	122, 13-21	BAR	bod nhw yn trio cael rywun arall i geisio	---	NSNT
+
+
+28, 1	123, 1-6	ADD	ia be oedden ni yn boeni	NSNT	NSNT
+28, 2	123, 9-14	ADD	bod nhw ddim yn hapus efo	NSNT	NSNT
+28, 3	123, 15-19	ADD	cais *Gaernarfon* y *gogs* felly	NST	NST
+28, 4	123, 20-27	ADD	a bod nhw yn chwilio am rywun arall	NSNT	NSNT
+28, 5	125, 1-8	ADD	ond mae yn amlwg tydyn nhw ddim felly	NSNT	NSNT
+28, 6	126, 1-8	ADD	yr unig beth mae nhw yn trio wneud	NSNT	NSNT
+28, 7	126, 9-16	ADD	ydy cael ryw fath o enw arall felly	NSNT	NSNT
+28, 8	127, 1-9	ADD	toes yna neb yn mynd i wneud nag oes	---	NSNT
+
+
+29, 1	128, 1-2	BAR	nac oes	NSNT	NSNT
+29, 2	128, 3-4	BAR	nag oes	---	NSNT
+
+
+30, 1	129, 1-5	ADD	fasen nhw wedi wneud bellach	NSNT	NSNT
+30, 2	129, 6-6	ADD	basen	---	NSNT
+
+
+31, 1	130, 1-6	BAR	ia *oh* ia baswn i meddwl	NST	NST
+31, 2	131, 1-6	BAR	*so* diwedd Chwefror ydy o rŵan	---	NST
+
+
+32, 1	132, 1-5	ADD	diwedd Chwefror ydy o wan	---	NSNT
+
+
+33, 1	133, 1-8	BAR	*oh* be oedd o yn y lle cynta	---	NST
+
+
+34, 1	134, 1-5	ADD	diwedd mis Hydref i ddechrau	NSNT	NSNT
+34, 2	135, 1-5	ADD	wedyn aeth o i Ionawr	NSNT	NSNT
+34, 3	136, 1-6	ADD	wedyn mae yn Chwefror wan felly	NSNT	NSNT
+34, 4	137, 1-8	ADD	wedyn wnes i *um* gyrru llythyr iddo fo	---	NST
+
+
+35, 1	138, 1-5	BAR	gweld dim bai arnach chi	---	NSNT
+
+
+36, 1	139, 1-4	ADD	a deud tibod *um*	NST	NST
+36, 2	140, 1-7	ADD	pam bod hwn yn mynd ymlaen eto	NSNT	NSNT
+36, 3	141, 1-4	ADD	*um* oes yna reswm	NST	NST
+36, 4	142, 1-3	ADD	oes yna *broblem*	NST	NST
+36, 5	143, 1-7	ADD	wedyn mae yn amlwg toes yna ddim	NSNT	NSNT
+36, 6	143, 8-9	ADD	nag oes	NSNT	NSNT
+36, 7	145, 1-10	ADD	ond *um* a mae *John_Williams* yn ddistaw iawn felly wedyn	NST	NST
+36, 8	146, 1-5	ADD	dw i ddim yn meddwl	NSNT	NSNT
+36, 9	146, 6-10	ADD	bod yna deud gwir felly	NSNT	NSNT
+36, 10	147, 1-5	ADD	ond oedd well wneud *sure*	NST	NST
+36, 11	147, 6-6	ADD	doedd	---	NSNT
+
+
+37, 1	148, 1-3	BAR	*oh* Iesu_Grist ia	---	NST
+
+
+38, 1	149, 1-15	ADD	ac oedd o wan *Craig* yma wedi *um* wedi gyrru llythyr i fi yn deud	NST	NST
+38, 2	149, 16-26	ADD	bod o wedi prynu *um* pafin bach tu allan i Stadiwm_y_Milleniwm	NST	NST
+38, 3	150, 2-5	ADD	pan wnaethon adeiladu fo	NSNT	NSNT
+38, 4	150, 6-23	ADD	oedda chdi gallu prynu fath â *block* bach *um* *terracotta* tu allan efo dy enw arno fo felly	NST	NST
+38, 5	152, 1-17	ADD	a gofyn faswn i mynd i dynnu luniau fo *um* os o'n i Gaerdydd i *games* rhyngwladol	NST	NST
+38, 6	153, 1-8	ADD	*well* *games* rhyngwladol ti yn gweld miloedd miloedd	---	NST
+
+
+39, 1	154, 1-6	BAR	*oh* does yna ddim gobaith cerdded	---	NST
+
+
+40, 1	155, 1-13	ADD	felly aeth *Ceri* a fi *round* iddo *um* echdoe ac chwilio amdano fo	NST	NST
+40, 2	156, 1-10	ADD	argoel *golwg* oedd yna filoedd ohonyn nhw yn bob man	NST	NST
+40, 3	157, 1-11	ADD	wedyn aethon ni nôl i yr Angel am baned o *goffee*	NST	ST
+40, 4	158, 1-10	ADD	a dyma fi yn edrych ar y peth yn deud	SNT	NSNT
+40, 5	159, 1-2	ADD	other nations	SNT	NSNT
+40, 6	160, 1-19	ADD	oedd gyn ti Cymru Iwerddon yr Alban Lloegr ac yn y blaen ac yn y blaen ac gwledydd eraill	NSNT	NSNT
+40, 7	161, 1-8	ADD	wedyn aethon ni nôl yna a ffindio fo	NSNT	NSNT
+40, 8	162, 1-9	ADD	a wedyn dan ni wedi tynnu lluniau ohono fo	NSNT	NSNT
+40, 9	163, 1-18	ADD	unwaith ga i gysylltu yr *um* beiriant yma adra wna i e_bostio bob peth o fan yna wedyn	NST	NST
+40, 10	165, 1-14	ADD	wedyn *er* ond oedd o ddiddorol felly bob mathau o bethau wedi sgwennu yno	NST	NST
+40, 11	166, 1-6	ADD	*um* be oedd un o dŵad	NST	NST
+40, 12	167, 1-3	ADD	fi a *Mrs_Jones*	NST	NST
+40, 13	168, 1-5	ADD	*um* *Huw* a ei fam	NST	NST
+40, 14	169, 1-4	ADD	bob hwyl i Gymru	NSNT	NSNT
+40, 15	170, 1-7	ADD	a pethau fel hyn sti iesgob dafydd	---	NSNT
+
+
+41, 1	171, 1-5	BAR	yn lle lle mae hwnnw	NSNT	NSNT
+41, 2	171, 6-6	BAR	ta	---	NSNT
+
+
+42, 1	172, 1-15	ADD	ti gwybod lle mae yr *um* y lle yna i gerdded uwchben yr afon Taf	NST	NST
+42, 2	174, 1-10	ADD	*just* fel ti yn dod at y *stadium* ei hun	NST	NST
+42, 3	174, 11-17	ADD	mae yna resi ohonyn nhw fan yna	NSNT	NSNT
+42, 4	175, 1-3	ADD	*um* mae yna	---	NST
+
+
+43, 1	176, 1-6	BAR	*oh* dw i ddim wedi sylwi	NST	NST
+43, 2	177, 1-4	BAR	dw i wedi cerdded	NSNT	NSNT
+43, 3	178, 1-1	BAR	mae	NSNT	NSNT
+43, 4	178, 2-4	BAR	mae fath â	NSNT	NSNT
+43, 5	178, 5-8	BAR	mae yn bren i_gyd	NSNT	NSNT
+43, 6	178, 9-9	BAR	dydy	---	NSNT
+
+
+44, 1	179, 1-3	ADD	mae yn bren	NSNT	NSNT
+44, 2	180, 1-8	ADD	a wedyn mae yn troi yn *goncrete* wedyn	NST	NST
+44, 3	182, 1-4	ADD	*um* y *tiles* yma	NST	NST
+44, 4	183, 1-9	ADD	*oh* fasa chdi ddim yn sylwi ystod *game* twel	NST	NST
+44, 5	183, 10-17	ADD	mae yna gymaint o filoedd o bobl o_gwmpas	NSNT	NSNT
+44, 6	183, 18-18	ADD	does	NSNT	NSNT
+44, 7	185, 1-5	ADD	wedyn oedd hi yn hawdd	NSNT	NSNT
+44, 8	185, 6-9	ADD	doedd cerdded o_gwmpas felly	NSNT	NSNT
+44, 9	186, 1-4	ADD	*oh* wnes i wario	NST	NST
+44, 10	187, 1-4	ADD	o'n isio prynu *suit*	NST	NST
+44, 11	188, 1-6	ADD	wedyn *Marks_and_Sparks* wedyn ges i un	NST	NST
+44, 12	188, 7-10	ADD	do *off* the *peg*	---	ST
+
+
+45, 1	189, 1-2	BAR	*wow* iawn	---	NST
+
+
+46, 1	190, 1-15	ADD	digon debyg i honna sydd gyn ti sti tibod yr un llwyd tywyll yna felly	NSNT	NSNT
+46, 2	192, 1-11	ADD	wedyn *er* *um* *great* ffitio fi bob peth *um* a bargeinion	---	NST
+
+
+47, 1	193, 1-5	BAR	ti bod yn *sales* felly	NST	NST
+47, 2	195, 1-3	BAR	beth ges di	---	NSNT
+
+
+48, 1	196, 3-17	ADD	oedd gyn i tokens o'n i wedi gael gan yn chwaer i *Waterstones* a *H_M_V*	NST	ST
+48, 2	198, 1-12	ADD	a toes yna ddim un yn agos i fan yma nag oes	NSNT	NSNT
+48, 3	199, 1-3	ADD	Gaer ydy agosa	NSNT	NSNT
+48, 4	199, 4-5	ADD	dw meddwl	---	NSNT
+
+
+49, 1	200, 1-4	BAR	ia *yeah* dw meddwl	---	NST
+
+
+50, 1	201, 1-15	ADD	felly es i brynu llyfrau yn *Waterstones* wrth reswm ac *um* *er* D_V_Ds yn *H_M_V*	NST	ST
+50, 2	202, 1-5	ADD	mae yna un *um* *Bellevue_Rendezvous*	NST	NST
+50, 3	202, 6-23	ADD	ydy enw fo *um* *film* wedi animeiddio o Ffrainc am ryw hogyn bach yn *um* seiclo a ballu	NST	NST
+50, 4	203, 1-6	ADD	a wedyn mae mynd ar *Tour_de_France*	NST	NST
+50, 5	204, 1-4	ADD	ac oedd o wych	NSNT	NSNT
+50, 6	204, 5-8	ADD	pan welais i o	NSNT	NSNT
+50, 7	205, 1-10	ADD	wedyn dan ni mynd i gael *D_V_D* mewn rei wsnosau	NST	NST
+50, 8	206, 1-8	ADD	felly wnes i brynu hwnnw a rywbeth arall	NSNT	NSNT
+50, 9	207, 1-13	ADD	a ges i y Gamp_Lawn hefyd *um* wedi gostwng yn ei bris *bargain*	---	NST
+
+
+51, 1	208, 1-10	BAR	*yeah* pobl yn barod i guro eto flwyddyn yma bydd	---	NST
+
+
+52, 1	209, 1-9	ADD	dw i ddim yn gweld ni wneud o eto	NSNT	NSNT
+52, 2	209, 10-11	ADD	de ond	---	NSNT
+
+
+53, 1	210, 1-5	BAR	sôn am *rugby* ges i	NST	NST
+53, 2	210, 6-8	BAR	dw ddim gwybod	NSNT	NSNT
+53, 3	210, 9-11	BAR	be sy ymlaen	NSNT	NSNT
+53, 4	211, 1-15	BAR	a dw ddim isio chdi amharu na ddim_byd os os ti ddim gofyn i ti	NSNT	NSNT
+53, 5	212, 1-7	BAR	ond ddaeth *Dylan* ata i ofyn ofyn	NST	NST
+53, 6	213, 1-1	BAR	wsti	NSNT	NSNT
+53, 7	213, 2-5	BAR	dydy *Dylan* yn *club*	NST	NST
+53, 8	214, 1-6	BAR	dydy o ddim y gorau nac	NSNT	NSNT
+53, 9	215, 1-6	BAR	dydy o ddim mwya diplomataidd nac	---	NSNT
+
+
+54, 1	216, 1-3	ADD	*mmhm* nag ydy	---	NST
+
+
+55, 1	217, 1-3	BAR	na a mae	NSNT	NSNT
+55, 2	217, 4-7	BAR	a mae ata i	NSNT	NSNT
+55, 3	217, 8-9	BAR	de a	NSNT	NSNT
+55, 4	218, 1-6	BAR	wyt ti am dalu dy aelodaeth	NSNT	NSNT
+55, 5	219, 1-2	BAR	medda fi	NSNT	NSNT
+55, 6	220, 1-9	BAR	*um* a dyma a dw i wedi deud erioed	NST	NST
+55, 7	220, 10-13	BAR	wna i ddim tan	NSNT	NSNT
+55, 8	220, 14-19	BAR	mae *gogs* yn cael gwell *deal*	---	NST
+
+
+56, 1	221, 1-5	ADD	*mmm* ia mha ffordd felly	---	NST
+
+
+57, 1	222, 1-6	BAR	*well* dan ni wedi prynu crysau	NST	NST
+57, 2	223, 1-4	BAR	dan ni yn hunangynhaliol	NSNT	NSNT
+57, 3	224, 1-6	BAR	toes yna ddim *insurance* arnon ni	---	NST
+
+
+58, 1	225, 1-3	ADD	mae yn anodd	NSNT	NSNT
+58, 2	225, 4-7	ADD	yndy dros yr oedran	NSNT	NSNT
+58, 3	225, 8-10	ADD	dan ni chwarae	---	NSNT
+
+
+59, 1	226, 1-8	BAR	*um* *well* rhyfedd iawn tra bod ni siarad	NST	NST
+59, 2	226, 9-13	BAR	oedd peth yna yna *um*	NST	NST
+59, 3	226, 14-16	BAR	ddoth *oh* *Carl_Williams*	NST	NST
+59, 4	228, 1-1	BAR	yna	NSNT	NSNT
+59, 5	229, 1-5	BAR	*oh* na mae fyny chwe_deg	NST	NST
+59, 6	230, 1-2	BAR	medda fo	NSNT	NSNT
+59, 7	232, 1-6	BAR	*well* dw i ddim yn gwybod	---	NST
+
+
+60, 1	233, 1-5	ADD	dw i ddim yn gwybod	NSNT	NSNT
+60, 2	234, 1-9	ADD	o'n i meddwl bod o yn gorffen am bedwar_deg	---	NSNT
+
+
+61, 1	236, 1-5	BAR	ia *well* hynna beth bynnag	NST	NST
+61, 2	237, 1-1	BAR	yli	NSNT	NSNT
+61, 3	237, 2-2	BAR	wsti	NSNT	NSNT
+61, 4	237, 3-3	BAR	wsti	NSNT	NSNT
+61, 5	237, 4-5	BAR	dan ni	NSNT	NSNT
+61, 6	237, 6-6	BAR	mae	NSNT	NSNT
+61, 7	237, 7-11	BAR	dw i gei di feddwl	NSNT	NSNT
+61, 8	237, 12-14	BAR	be lici di	NSNT	NSNT
+61, 9	238, 1-4	BAR	ond dw i meddwl	NSNT	NSNT
+61, 10	238, 5-16	BAR	bod y *gogs* gweithio yn andros o galed i yr *club* yna	NST	NST
+61, 11	241, 1-3	BAR	a dan ni	NSNT	NSNT
+61, 12	241, 4-12	BAR	dan ni yn talu yn ffordd yn bob peth	NSNT	NSNT
+61, 13	242, 1-8	BAR	dan ni cael dim_byd yn_ôl gan y *club*	NST	NST
+61, 14	243, 1-2	BAR	wsti am	NSNT	NSNT
+61, 15	243, 3-4	BAR	ac wsti	NSNT	NSNT
+61, 16	243, 5-19	BAR	mae *lot* o bobl yn *just* ymuno â yr *club* i gael tocynnau gemau ryngwladol	NST	NST
+61, 17	245, 1-7	BAR	dydw i ddim isio tocynnau gemau ryngwladol	NSNT	NSNT
+61, 18	246, 1-7	BAR	ti ti yn dallt be dw feddwl	---	NSNT
+
+
+62, 1	247, 1-1	ADD	ydw	NSNT	NSNT
+62, 2	247, 2-2	ADD	ydw	---	NSNT
+
+
+63, 1	248, 1-8	BAR	*so* tydy o ddim yn fantais i mi	NST	NST
+63, 2	249, 1-7	BAR	does gen i ddim *problem* i bobl	NST	NST
+63, 3	249, 8-10	BAR	sy yn gwneud	NSNT	NSNT
+63, 4	251, 1-5	BAR	oes gen i ddim *problem*	NST	NST
+63, 5	252, 1-8	BAR	ond fel *team* dw i ddim yn meddwl	NST	NST
+63, 6	252, 9-9	BAR	bod	NSNT	NSNT
+63, 7	252, 10-17	BAR	bod ni yn cael y cymorth ddylien ni	NSNT	NSNT
+63, 8	253, 1-4	BAR	barn bersonol ydy hwnnw	NSNT	NSNT
+63, 9	256, 1-9	BAR	ella bod pobl eraill ddim yn cytuno efo fi	NSNT	NSNT
+63, 10	257, 1-3	BAR	*so* dyna pam	NST	NST
+63, 11	257, 4-8	BAR	dw i ddim wedi aelodi	NSNT	NSNT
+63, 12	258, 1-13	BAR	toes neb erioed yn y ngho i wedi dod atan ni a deud	NSNT	NSNT
+63, 13	259, 1-6	BAR	iawn dach chi angen rywbeth hogiau	---	NSNT
+
+
+64, 1	261, 1-4	ADD	ond gofyn amdano fo	NSNT	NSNT
+64, 2	261, 5-6	ADD	ydan ni	NSNT	NSNT
+64, 3	261, 8-13	ADD	os dan ni angen rywbeth felly	---	NSNT
+
+
+65, 1	262, 1-2	BAR	ond mae	NSNT	NSNT
+65, 2	262, 3-9	BAR	na ydy hogiau *team* gofyn amdano fo	---	NST
+
+
+66, 1	263, 1-5	ADD	oes dim raid iddyn nhw	NSNT	NSNT
+66, 2	263, 6-7	ADD	nag oes	---	NSNT
+
+
+67, 1	264, 1-4	BAR	na na yn hollol	---	NSNT
+
+
+68, 1	265, 1-5	ADD	dw i ddim yn meddwl	NSNT	NSNT
+68, 2	265, 6-14	ADD	bod yr un *format* yn gweithio fan yno felly	NST	NST
+68, 3	266, 1-9	ADD	ond *er* mae bob un *team* yn hunangynhaliol bellach	NST	NST
+68, 4	267, 1-5	ADD	does yna neb yn cael	NSNT	NSNT
+68, 5	267, 6-6	ADD	yr	NSNT	NSNT
+68, 6	267, 7-15	ADD	mae yr crysau yn cael gan noddwyr a ballu	---	NSNT
+
+
+69, 1	268, 1-6	BAR	ia ond trwy yr *club* de	---	NST
+
+
+70, 1	269, 1-5	ADD	trwy yr *club* ia ia	---	NST
+
+
+71, 1	270, 1-6	BAR	ia oes neb erioed wedi deud	---	NSNT
+
+
+72, 1	271, 1-13	ADD	*oh* dw i *sure* petasen ni yn gofyn am grysau trwy yr noddwyr	---	NST
+
+
+73, 1	272, 1-4	BAR	*well* fasai sefyllfa newid	NST	NST
+73, 2	272, 5-5	BAR	fasai	NSNT	NSNT
+73, 3	272, 6-9	BAR	marn i newid felly	NSNT	NSNT
+73, 4	273, 1-4	BAR	ond toes neb erioed	NSNT	NSNT
+73, 5	274, 1-3	BAR	a dan ni	NSNT	NSNT
+73, 6	275, 1-1	BAR	wsti	NSNT	NSNT
+73, 7	275, 2-4	BAR	dw i ddim	NSNT	NSNT
+73, 8	275, 5-7	BAR	dw i ddim	NSNT	NSNT
+73, 9	275, 8-12	BAR	dw i ddim yn cwyno	NSNT	NSNT
+73, 10	277, 1-5	BAR	wsti ti fath â fi	NSNT	NSNT
+73, 11	278, 1-5	BAR	dan ni wedi wneud bwyd	NSNT	NSNT
+73, 12	279, 1-6	BAR	dan ni wedi wneud pob peth	NSNT	NSNT
+73, 13	281, 1-3	BAR	*so* pan mae	NST	NST
+73, 14	281, 4-13	BAR	mae o yn *just* rhuthro allan ata i fel yna	NST	NST
+73, 16	283, 1-5	BAR	wnes i *just* ddeud wrtho	NST	NST
+73, 17	284, 1-6	BAR	na dw i ddim am aelodi	---	NSNT
+
+
+74, 1	285, 1-7	ADD	dw i yn ymwybodol o yr sefyllfa	NSNT	NSNT
+74, 2	286, 1-6	ADD	ond dw i wedi deud egluro	NSNT	NSNT
+74, 3	287, 1-6	ADD	dw i yn ffrindiau efo *Barri*	NST	NST
+74, 4	288, 1-6	ADD	dw i yn gweithio efo fo	NSNT	NSNT
+74, 5	290, 1-9	ADD	peidiwch â fy nhaflu fi mewn i hyn felly	NSNT	NSNT
+74, 7	293, 1-5	ADD	mae gynno fo ei safbwynt	NSNT	NSNT
+74, 8	294, 1-7	ADD	mae gen i yn safbwynt hefyd felly	NSNT	NSNT
+74, 9	296, 1-4	ADD	ond dw i falch	NSNT	NSNT
+74, 10	296, 5-10	ADD	bod ni di drafod o achos	NSNT	NSNT
+74, 11	296, 11-15	ADD	wna i drafod *insurance* yma	NST	NST
+74, 12	297, 1-8	ADD	os oes yna *insurance* i gael *well* mi	NST	NST
+74, 13	297, 9-11	ADD	gawn ni o	---	NSNT
+
+
+75, 1	299, 1-2	BAR	fasai rywbeth	NSNT	NSNT
+75, 2	299, 3-3	BAR	basai	---	NSNT
+
+
+76, 1	300, 1-15	ADD	mi gei di o os ti yn aelod o yr *club* ti cael *insurance* dwyt	---	NST
+
+
+77, 1	301, 1-2	BAR	yn hollol	NSNT	NSNT
+77, 2	302, 1-5	BAR	ond dw i ddim yn	NSNT	NSNT
+77, 3	302, 6-10	BAR	dw i ddim yn meddwl	NSNT	NSNT
+77, 4	302, 11-27	BAR	bod ni fel *group* o ddynion a weithiau be fyny i ddeg_ar_hugain ohonon ni yn cael ddim	NST	NST
+77, 5	302, 28-35	BAR	manteision o fod yn aelodau o yr *club*	NST	NST
+77, 6	304, 1-4	BAR	a *just* dw i	NST	NST
+77, 7	304, 5-14	BAR	dw i ddim isio pobl *bloody* brynu popeth i ni	NST	NST
+77, 8	305, 1-6	BAR	paid â gael i yn anghywir	NSNT	NSNT
+77, 9	307, 1-4	BAR	toes yna ddim a	NSNT	NSNT
+77, 10	308, 1-5	BAR	ac yr unig cwyn cwyn	NSNT	NSNT
+77, 11	309, 1-5	BAR	wnaeth o ddigwydd flwyddyn dwytha	NSNT	NSNT
+77, 12	310, 1-7	BAR	a gaeth y mrawd gan rywun do	NSNT	NSNT
+77, 13	312, 1-3	BAR	do a cega	NSNT	NSNT
+77, 14	312, 4-12	BAR	bod y *gogs* yn wneud dim_byd i yr *club*	NST	NST
+77, 15	313, 1-5	BAR	a mae hwnna *just* mynd	NST	NST
+77, 16	313, 6-9	BAR	dan y nghroen i	---	NSNT
+
+
+78, 1	315, 1-9	ADD	mae yr barn yna wedi newid yn bendant felly	---	NSNT
+
+
+79, 1	316, 1-11	BAR	*yeah* *well* *well* mae ella bo ti isio deud wrth *Dylan*	NST	NST
+79, 2	317, 1-9	BAR	dydy o ddim i ddod ata i fel yna	NSNT	NSNT
+79, 3	317, 11-26	BAR	wsti a a dechrau yn syth i_ffwrdd a ddim yn gwybod y cefndir na yr gwybod	NSNT	NSNT
+79, 4	317, 27-27	BAR	wsti	---	NSNT
+
+
+80, 1	319, 1-17	ADD	well gaeth o ei basio mewn pwyllgor bod ni yn sgwennu at bobl sy ddim yn aelodau	NSNT	NSNT
+80, 2	321, 1-4	ADD	nid taclo nhw felly	NSNT	NSNT
+80, 3	323, 1-10	ADD	os ti isio wna i gael gair efo *Dylan* felly	---	NST
+
+
+81, 1	324, 1-12	BAR	*well* na na ddim hynna dw i ddim isio chdi gael gair	NST	NST
+81, 2	325, 1-6	BAR	os ydy o yn dod i_fyny	NSNT	NSNT
+81, 3	327, 1-6	BAR	*just* isio sicrhau bod yn saff	NST	NST
+81, 4	327, 7-12	BAR	bod un ti yn mynd drosodd	NSNT	NSNT
+81, 5	327, 13-14	BAR	dw i	SNT	NSNT
+81, 6	329, 1-9	BAR	because os ydy o yn dod fewn i *club*	ST	ST
+81, 7	330, 1-10	BAR	because y peth nesa dw i yn digwydd clywed clywed	NSNT	SNT
+81, 8	330, 11-11	BAR	fydd	NSNT	NSNT
+81, 9	330, 12-21	BAR	fydda i ddim yn cael mynd mewn i yr *club*	NST	NST
+81, 10	332, 1-5	BAR	os ydy hynna yn digwydd	NSNT	NSNT
+81, 11	332, 6-9	BAR	fydda i yn gadael	---	NSNT
+
+
+82, 1	333, 1-4	ADD	ia ia ia wrth_gwrs	---	NSNT
+
+
+83, 1	334, 1-8	BAR	ti yn ti yn ti yn dallt o	NSNT	NSNT
+83, 2	336, 1-1	BAR	wsti	NSNT	NSNT
+83, 3	336, 2-7	BAR	dydy o ddim ots gen i	NSNT	NSNT
+83, 4	337, 1-1	BAR	wsti	NSNT	NSNT
+83, 5	337, 2-5	BAR	mae gen i ots	NSNT	NSNT
+83, 6	339, 1-7	BAR	ond ond mi wna i chwarae *rugby*	NST	NST
+83, 7	340, 1-7	BAR	ond ta i ddim i yr *club*	---	NST
+
+
+84, 1	342, 1-6	ADD	*er* ddim *just* chdi ydy o	NST	NST
+84, 2	342, 7-14	ADD	does dim raid i chdi gael dallt felly	NSNT	NSNT
+84, 3	344, 1-3	ADD	mae o ar_draws	NSNT	NSNT
+84, 4	344, 4-10	ADD	mae o bobl eraill o_fewn y *club*	NST	NST
+84, 5	344, 11-15	ADD	sy ddim wedi ymaelodi felly	---	NSNT
+
+
+85, 1	345, 1-6	BAR	*yeah* ond y peth ydy *um*	NST	NST
+85, 2	345, 7-17	BAR	ydyn nhw ddim yn aelodau am yr un rheswm neu rhesymau	---	NSNT
+
+
+86, 1	346, 1-2	ADD	dw i	NSNT	NSNT
+86, 2	346, 3-7	ADD	dw i ddim yn gwybod	NSNT	NSNT
+86, 3	346, 8-10	ADD	be ydy resymau	---	NSNT
+
+
+87, 1	347, 1-4	BAR	ia na ond wsti	NSNT	NSNT
+87, 2	347, 5-9	BAR	dw i wedi deud erioed	NSNT	NSNT
+87, 3	347, 10-13	BAR	mae gen i reswm	NSNT	NSNT
+87, 4	349, 1-7	BAR	ti yn ti yn dallt na dyna	NSNT	NSNT
+87, 5	349, 8-10	BAR	ydy reswm i	NSNT	NSNT
+87, 7	351, 1-11	BAR	ac dw i ddim isio chdi gymryd safbwynt i na ddim_byd	NSNT	NSNT
+87, 8	352, 1-10	BAR	ond os ydy o dod i_fyny yn pwyllgor yn pwyllgor	NSNT	NSNT
+87, 9	352, 11-18	BAR	faswn i yn gofyn i ti *just* ddeud	---	NST
+
+
+88, 1	353, 1-5	ADD	mi wna i yn bendant	---	NSNT
+
+
+89, 1	354, 1-15	BAR	a a ddim ddim bod chdi yn cytuno fi ddim_byd ti yn ti yn dallt	---	NSNT
+
+
+90, 1	355, 1-11	ADD	ond timod y ddau bwynt yna ti wedi ddeud *insurance* *well*	NST	NST
+90, 2	355, 12-19	ADD	fedra i godi hwnnw beth bynnag a gofyn	NSNT	NSNT
+90, 3	355, 20-25	ADD	os ydy *Carl* *Llanrug* yn deud	NST	NST
+90, 4	355, 26-30	ADD	bod o i_fyny i chwe_deg	NSNT	NSNT
+90, 6	358, 1-2	ADD	*well* does	NST	NST
+90, 7	358, 3-9	ADD	gennon ni mond dau chwarewr dros chwe_deg	---	NSNT
+
+
+91, 1	359, 1-4	BAR	dyna chdi yn hollol	---	NSNT
+
+
+92, 1	360, 1-5	ADD	*Huw* a *Alun* ydy rheiny	NST	NST
+92, 2	360, 6-10	ADD	de ar hyn o bryd	NSNT	NSNT
+92, 3	362, 1-7	ADD	*um* ac efo crysau fedran ni ofyn	NST	NST
+92, 4	363, 1-2	ADD	gawn ni	NSNT	NSNT
+92, 5	363, 3-6	ADD	nawdd i gael crysau	---	NSNT
+
+
+93, 1	364, 1-2	BAR	ia hollol	---	NSNT
+
+
+94, 1	365, 1-6	ADD	dan ni angen crysau newydd felly	---	NSNT
+
+
+95, 1	366, 1-4	BAR	wsti a fel fel	NSNT	NSNT
+95, 2	366, 5-11	BAR	dan ni wedi mynd i bob ŵyl	NSNT	NSNT
+95, 3	366, 12-15	BAR	dan ni wedi mynd	NSNT	NSNT
+95, 4	366, 16-22	BAR	dan ni wedi talu *insurance* ein hun	NST	NST
+95, 5	368, 1-9	BAR	ti ti ti yn dallt be dw i feddwl	---	NSNT
+
+
+96, 1	370, 1-1	ADD	yndw	NSNT	NSNT
+96, 2	370, 2-2	ADD	yndw	---	NSNT
+
+
+97, 1	371, 1-2	BAR	a mae	NSNT	NSNT
+97, 2	371, 3-4	BAR	mae hwnna	NSNT	NSNT
+97, 3	371, 5-9	BAR	wedi bod yn ddeg_ar_hugain bob	NSNT	NSNT
+97, 4	371, 10-10	BAR	tro	NSNT	NSNT
+97, 5	373, 1-1	BAR	dydy	NSNT	NSNT
+97, 6	374, 1-5	BAR	a faint ydy aelodaeth *club*	---	NST
+
+
+98, 1	375, 1-1	ADD	pump_ar_hugain	---	NSNT
+
+
+99, 1	376, 1-2	BAR	dyna chdi	NSNT	NSNT
+99, 2	378, 1-5	BAR	ti ti ti yn dallt	---	NSNT
+
+
+100, 1	380, 1-1	ADD	yndw	---	NSNT
+
+
+101, 1	381, 1-4	BAR	fasen ni wedi medru	NSNT	NSNT
+101, 2	381, 5-6	BAR	faswn i	NSNT	NSNT
+101, 3	381, 7-11	BAR	petaswn i yn gweld rywbeth	NSNT	NSNT
+101, 4	381, 12-22	BAR	fasai yn arbed y *gost* yna i ni *well* i mi	NST	NST
+101, 5	382, 1-10	BAR	mae o fyny chdi be ti wneud ti yn dallt	NSNT	NSNT
+101, 6	382, 11-14	BAR	be dw i feddwl	NSNT	NSNT
+101, 7	384, 1-5	BAR	ond dyna yn safbwynt i	NSNT	NSNT
+101, 8	385, 1-9	BAR	ac o'n i o'n i *just* braidd yn wyllt	NST	NST
+101, 9	386, 1-2	BAR	wnaeth *um*	NST	NST
+101, 10	386, 3-7	BAR	wnaeth *Dylan* *just* neidio allan	NST	NST
+101, 11	387, 1-8	BAR	o'n i yn sefyll tu allan i drws	NSNT	NSNT
+101, 13	389, 1-6	BAR	a wnaeth o *just* neidio allan	NST	NST
+101, 14	390, 1-10	BAR	ac ac oedd o yn gwybod ddim am y cefndir	NSNT	NSNT
+101, 15	391, 1-4	BAR	wnaeth o ddim deud	NSNT	NSNT
+101, 16	392, 1-4	BAR	oes gyn ti reswm	NSNT	NSNT
+101, 17	393, 1-2	BAR	na ddim_byd	NSNT	NSNT
+101, 18	394, 1-11	BAR	oedd o yn *just* cymryd fy mod i ddim isio talu	NST	NST
+101, 19	396, 1-5	BAR	ti yn ti yn *yeah*	NST	NST
+101, 20	397, 1-3	BAR	*so* *so* mae	NST	NST
+101, 21	397, 4-6	BAR	mae hwnna wedi	---	NSNT
+
+
+102, 1	398, 1-7	ADD	ond fynd yn_ôl be o'n i ddeud	NSNT	NSNT
+102, 2	399, 1-9	ADD	wnaeth o gael ei godi yn yn y pwyllgor	---	NSNT
+
+
+103, 1	402, 1-4	BAR	ddim yn aelodau ia	---	NSNT
+
+
+104, 1	403, 1-3	ADD	wedyn *um* mae	NST	NST
+104, 2	403, 4-10	ADD	mae gennyn nhw restr ohonyn nhw felly	NSNT	NSNT
+104, 3	405, 1-6	ADD	*um* oes yna fawr neb wan	NST	NST
+104, 4	405, 7-20	ADD	sy yn chwarae o *team* cynta a yr ail *deam* *um* ddim wedi aelodi	NST	NST
+104, 5	406, 1-7	ADD	achos mae nhw wedi cael eu targedu	---	NSNT
+
+
+105, 1	408, 1-10	BAR	*yeah* ond mae nhw yn cael y benefits i_gyd dydyn	NST	ST
+105, 3	410, 1-3	BAR	mae nhw yn	NSNT	NSNT
+105, 4	410, 4-8	BAR	mae nhw yn cael *insurance*	NST	NST
+105, 5	411, 1-8	BAR	mae nhw yn cael crysau iawn *um* trafnidiaeth	---	NST
+
+
+106, 1	413, 1-7	ADD	*mmm* *well* mae nhw cael *cost* *petrol*	NST	NST
+106, 2	413, 9-10	ADD	dw meddwl	---	NSNT
+
+
+107, 1	414, 1-9	BAR	ia well *um* pa bryd gaethon ni gynnig dim_byd	---	NST
+
+
+108, 1	415, 1-1	ADD	erioed	---	NSNT
+
+
+109, 1	416, 1-6	BAR	*um* dw i ddim isio fo	NST	NST
+109, 2	418, 1-3	BAR	ond fasai *nice*	NST	NST
+109, 3	418, 4-10	BAR	bod rywun yn cydnabod hyn a deud	NSNT	NSNT
+109, 5	420, 1-4	BAR	iawn aelodaeth pymtheg punt	---	NSNT
+
+
+110, 1	421, 1-5	ADD	ond dw i yn *sure*	NST	NST
+110, 2	421, 6-9	ADD	dw i yn *sure*	NST	NST
+110, 3	421, 10-12	ADD	petasai fo codi	NSNT	NSNT
+110, 4	421, 13-16	ADD	basen ni isio *bus*	NST	NST
+110, 5	421, 17-20	ADD	fasen ni cael *bus*	NST	NST
+110, 6	422, 1-7	ADD	achos mae yr genod wedi cael *bus*	NST	NST
+110, 7	423, 1-6	ADD	mae yr ieuenctid wedi cael *bus*	NST	NST
+110, 8	425, 1-5	ADD	petasai yr *gogs* yn deud	NST	NST
+110, 9	426, 1-10	ADD	dan ni isio *bus* i fynd i Gaerdydd neu rywbeth	---	NST
+
+
+111, 1	427, 1-12	BAR	*oh* dw i cofio ni yn cael *bus* i fynd i *Bethesda*	NST	NST
+111, 2	428, 1-6	BAR	a ni wnaeth dalu amdano fo	NSNT	NSNT
+111, 3	430, 1-7	BAR	oedd raid i bob un ohonon ni	NSNT	NSNT
+111, 4	430, 8-9	BAR	roid ein	NSNT	NSNT
+111, 5	431, 1-15	BAR	a wsti a a bron neb yn mynd arno fo yn diwedd ti yn cofio	---	NSNT
+
+
+112, 1	432, 1-5	ADD	*yeah* *yeah* *yeah* yn hollol	---	NST
+
+
+113, 1	433, 1-5	BAR	*yeah* ond dw i isio	---	NST
+
+
+114, 1	435, 1-14	ADD	dw i sicr petasech chi wedi roi y *bill* yna i yr i *Gerallt_Wyn*	NST	NST
+114, 2	437, 1-5	ADD	*bus* i *gogs* i *Bethesda*	NST	NST
+114, 3	438, 1-5	ADD	fasa wedi cael ei dalu	---	NSNT
+
+
+115, 1	439, 1-5	BAR	gawn ni glirio fo fyny	---	NSNT
+
+
+116, 1	440, 1-4	ADD	mi wnawn ni *yeah*	NST	NST
+116, 2	442, 1-3	ADD	na dw i	NSNT	NSNT
+116, 3	442, 4-11	ADD	dw i falch iawn o yr sgwrs yma	NSNT	NSNT
+116, 4	443, 1-3	ADD	achos dw i	NSNT	NSNT
+116, 5	443, 4-9	ADD	wedi bod mewn sefyllfa anodd iawn	NSNT	NSNT
+116, 6	445, 1-1	ADD	wsti	NSNT	NSNT
+116, 7	447, 1-6	ADD	am bod fi *mates* efo chdi	NST	NST
+116, 8	449, 1-4	ADD	a dan ni gyd_chwaraewyr	NSNT	NSNT
+116, 9	449, 5-19	ADD	a dan ni yn gweitho efo ei_gilydd ac yn y blaen ac yn y blaen	NSNT	NSNT
+116, 10	449, 20-22	ADD	dw i deud	NSNT	NSNT
+116, 11	452, 1-9	ADD	dw i ddim yn mynd i ffraeo efo *Barri*	ST	NST
+116, 12	453, 1-2	ADD	because timod	NSNT	SNT
+116, 13	453, 3-12	ADD	dw isio cadw yn yn yn gyfeillgar efo fo felly	---	NSNT
+
+
+117, 1	456, 1-6	BAR	ond *um* mae gen i *um*	NST	NST
+117, 2	456, 7-15	BAR	dydy o ddim fy mod i ddim isio talu	NSNT	NSNT
+117, 3	458, 1-3	BAR	ond dw i	NSNT	NSNT
+117, 4	458, 4-7	BAR	dw i isio gwybod	NSNT	NSNT
+117, 5	458, 8-14	BAR	dw i isio yr un un hawliau	NSNT	NSNT
+117, 6	458, 15-19	BAR	sy gen bawb arall neu	NSNT	NSNT
+117, 7	458, 20-35	BAR	os fedran ni ddim cael yr un hawliau bod yna *goncession* yn *cost* aelodaeth y *gogs*	NST	NST
+117, 8	462, 1-6	BAR	os dan ni mor hunangynhaliol pam	NSNT	NSNT
+117, 9	462, 7-15	BAR	chawn ni ddim talu deg punt neu bymtheg punt	---	NSNT
+
+
+118, 1	463, 1-7	ADD	*right* *o_k* na mae hwnna bwynt da	---	NST
+
+
+119, 1	464, 1-9	BAR	ti yn ti yn dallt be dw i feddwl	---	NSNT
+
+
+120, 1	465, 1-1	ADD	yndw	NSNT	NSNT
+120, 2	465, 2-2	ADD	yndw	---	NSNT
+
+
+121, 1	466, 1-2	BAR	does neb	NSNT	NSNT
+121, 2	466, 3-4	BAR	oes neb	NSNT	NSNT
+121, 3	466, 5-6	BAR	dw i	NSNT	NSNT
+121, 4	466, 7-9	BAR	wedi bod *um*	NST	NST
+121, 5	466, 10-12	BAR	a dw i	NSNT	NSNT
+121, 6	466, 13-22	BAR	wedi bod yn deud hwn wrth *Eric* dair blynedd yn_ôl	NST	NST
+121, 7	468, 1-5	BAR	pan oedd *Eric* yn drysorydd	NST	NST
+121, 8	469, 1-11	BAR	ti ti ti yn ti yn dallt be dw i feddwl	NSNT	NSNT
+121, 9	471, 1-8	BAR	ac dydy yr neges ddim wedi mynd draw	NSNT	NSNT
+121, 10	472, 1-11	BAR	ella *well* dw i ddim wedi cael cyfle i wneud eto	NST	NST
+121, 11	473, 1-13	BAR	ond dw i ddim isio chdi os ti ddim yn cytuno efo fi	NSNT	NSNT
+121, 12	473, 14-14	BAR	does	NSNT	NSNT
+121, 13	473, 15-20	BAR	does ddim raid ti wneud dim_byd	NSNT	NSNT
+121, 14	474, 1-4	BAR	yr unig beth ydy	NSNT	NSNT
+121, 15	474, 5-9	BAR	petasai rywun gofyn i ti	NSNT	NSNT
+121, 16	475, 1-4	BAR	be ydy yr safbwynt	NSNT	NSNT
+121, 17	477, 1-1	BAR	dyna	NSNT	NSNT
+121, 18	477, 2-4	BAR	ydy safbwynt i	---	NSNT
+
+
+122, 1	478, 1-2	ADD	dyna chdi	NSNT	NSNT
+122, 2	479, 1-3	ADD	dw i meddwl	NSNT	NSNT
+122, 3	479, 4-11	ADD	bod y ffaith bod ni wneud fwy wan	NSNT	NSNT
+122, 4	480, 3-11	ADD	dan ni wedi trefnu un gŵyl bach yn barod	NSNT	NSNT
+122, 6	482, 1-8	ADD	os gawn ni yr un fawr yma *well*	NST	NST
+122, 7	482, 9-17	ADD	fedran nhw ddim troi cefnau arna ni wedyn o_gwbl	NSNT	NSNT
+122, 8	482, 18-19	ADD	na fedran	NSNT	NSNT
+122, 9	484, 1-12	ADD	dan ni mynd i ddod a mega bucks i_mewn i yr *club*	NST	ST
+122, 11	486, 1-4	ADD	*um* dw i meddwl	NST	NST
+122, 12	486, 5-7	ADD	bod yna ddrwg	NSNT	NSNT
+122, 13	486, 8-12	ADD	wedi bod yn y caws	NSNT	NSNT
+122, 14	487, 1-9	ADD	a dw i ddim yn mynd i enwi neb	NSNT	NSNT
+122, 15	488, 1-8	ADD	*um* sydd wedi wneud drwg i yr *gogs*	NST	NST
+122, 16	489, 1-5	ADD	a wedyn mae nhw well	NSNT	NSNT
+122, 17	489, 6-18	ADD	neu mae un ohonyn nhw yn bendant wedi newid ei farn rŵan felly	NSNT	NSNT
+122, 18	491, 1-14	ADD	ac achos mae yna ffrindiau i fi wedi mynd i ben o yn deud	NSNT	NSNT
+122, 19	492, 2-2	ADD	mae	NSNT	NSNT
+122, 20	492, 3-7	ADD	mae *gogs* wedi wneud hyn	NST	NST
+122, 21	493, 1-6	ADD	mae yr *gogs* wedi wneud llall	NST	NST
+122, 22	495, 1-2	ADD	dan ni	NSNT	NSNT
+122, 23	495, 3-14	ADD	wedi bod yn Sbaen yn cynrhychioli yr *club* ac yn y blaen	NST	NST
+122, 24	498, 1-3	ADD	wedyn dw meddwl	NSNT	NSNT
+122, 25	498, 4-7	ADD	bod hynna yn well	NSNT	NSNT
+122, 26	499, 1-6	ADD	ond mae yna rei sydd wedi	NSNT	NSNT
+122, 27	499, 7-9	ADD	dw i meddwl	NSNT	NSNT
+122, 28	499, 10-17	ADD	bod nhw wneud drwg mawr i ni felly	---	NSNT
+
+
+123, 1	500, 1-2	BAR	wsti *um*	NST	NST
+123, 2	500, 3-4	BAR	a mae	NSNT	NSNT
+123, 3	500, 5-5	BAR	mae	NSNT	NSNT
+123, 4	500, 6-13	BAR	dw i *just* yn meddwl am y pethau	NST	NST
+123, 5	500, 14-17	BAR	dach chi wedi wneud	NSNT	NSNT
+123, 6	500, 18-23	BAR	dach chi yn dal i wneud	NSNT	NSNT
+123, 7	500, 24-25	BAR	rŵan de	NSNT	NSNT
+123, 8	501, 1-1	BAR	wsti	NSNT	NSNT
+123, 9	501, 2-7	BAR	a wnaeth *Dylan* ddeud wrtha i	NST	NST
+123, 10	502, 1-6	BAR	*well* ti yn defnyddio yr *bar*	NST	NST
+123, 11	503, 1-5	BAR	a dyma fi yn deud	NSNT	NSNT
+123, 12	504, 1-8	BAR	dw i yn talu am y *bar* *Dylan*	NST	NST
+123, 13	505, 1-9	BAR	*yeah* ges i erioed ddrink am ddim yn *Gaernarfon*	NST	ST
+123, 14	506, 1-5	BAR	a dw i ddim isio	NSNT	NSNT
+123, 15	508, 1-17	BAR	ond paid ti â dechrau deud wrtha i fy mod i yn cymryd mantais o yr *club*	NST	NST
+123, 16	509, 1-4	BAR	de ti yn dallt	NSNT	NSNT
+123, 17	509, 5-9	BAR	be dw i yn feddwl	---	NSNT
+
+
+124, 1	511, 1-8	ADD	ond dylsai fo ddim wedi wneud hynna *Barri*	---	NST
+
+
+125, 1	512, 1-1	BAR	wsti	NSNT	NSNT
+125, 2	512, 2-3	BAR	fuon ni	NSNT	NSNT
+125, 3	512, 4-10	BAR	fuon ni yn *um* *um* gŵyl San_Steffan	NST	NST
+125, 5	515, 1-3	BAR	dalon ni *well*	NST	NST
+125, 6	515, 4-15	BAR	dalon ni am yr *um* am y *Karaoke* gyd ta yn rhannol	---	NST
+
+
+126, 1	516, 1-2	ADD	rhannol rhannol	---	NSNT
+
+
+127, 1	517, 1-2	BAR	rhannol iawn	NSNT	NSNT
+127, 2	518, 1-5	BAR	*um* wnaethon ni godi *raffle*	NST	NST
+127, 3	520, 1-8	BAR	wnaethon ni godi ar pawb i ddod mewn	---	NSNT
+
+
+128, 1	521, 1-4	ADD	a wnaethon ni bwyd	---	NSNT
+
+
+129, 1	522, 1-5	BAR	wnes i wneud y bwyd	NSNT	NSNT
+129, 2	527, 1-9	BAR	*er* wnaethon ni dalu tu nôl i yr *bar*	NST	NST
+129, 3	528, 1-6	BAR	gaeth neb ddiod am ddim na	NSNT	NSNT
+129, 4	530, 1-5	BAR	*so* am be mae sôn	NST	NST
+129, 5	532, 1-11	BAR	ti ti ti yn ti yn dallt be dw i feddwl	---	NSNT
+
+
+130, 1	534, 1-3	ADD	dw i gwybod	NSNT	NSNT
+130, 2	534, 4-7	ADD	be sy gynno fo	NSNT	NSNT
+130, 3	535, 1-10	ADD	*um* *just* yr y ffrwd o bobl yma sy yn	NST	NST
+130, 4	535, 11-14	ADD	sy yn gwrthod ymaelodi	---	NSNT
+
+
+131, 1	536, 1-3	BAR	*oh* *right* *well*	---	NST
+
+
+132, 1	537, 1-6	ADD	*yeah* *right* *so* wyt ti wedi	NST	NST
+132, 2	537, 7-11	ADD	roid rhesymau wan iddo fo	NSNT	NSNT
+132, 3	539, 1-10	ADD	ella bod hynna wneud o yn haws iddo fo ddallt	NSNT	NSNT
+132, 4	541, 1-13	ADD	wedyn fel ti yn deud os ddoith o fyny pwyllgor wna i egluro	---	NSNT
+
+
+133, 1	542, 1-7	BAR	*just* rhoi yn safbwynt i faset ti	---	NST
+
+
+134, 1	544, 1-7	ADD	lle dan ni yn sefyll efo *insurance*	NST	NST
+134, 2	546, 1-8	ADD	a beth am gael nawdd i gael crysau	NSNT	NSNT
+134, 3	547, 1-5	ADD	dan ni angen crysau newydd	---	NSNT
+
+
+135, 1	548, 1-13	BAR	neu neu neu neu os ydy hynna ddim yn digwydd beth am ddeud	NSNT	NSNT
+135, 2	549, 1-7	BAR	iawn dach chi ddim yn cael crysau	NSNT	NSNT
+135, 3	550, 1-11	BAR	ond dach chi mond talu deg punt y flwyddyn am aelodau	NSNT	NSNT
+135, 4	553, 1-4	BAR	ddim *problem* efo hynna	---	NST
+
+
+136, 1	554, 1-2	ADD	digon teg	---	NSNT
+
+
+137, 1	555, 1-3	BAR	wsti ddim o_gwbl	NSNT	NSNT
+137, 2	556, 1-5	BAR	ond oedd o yn rhyfedd	NSNT	NSNT
+137, 3	557, 1-2	BAR	oedd o	NSNT	NSNT
+137, 4	557, 3-3	BAR	wsti	SNT	NSNT
+137, 5	558, 1-3	BAR	anyway dyna fo	NSNT	SNT
+137, 6	559, 1-2	BAR	dyna fo	NSNT	NSNT
+137, 7	560, 1-13	BAR	ac oedd hi yn *game* wael yn y *er* cychwyn y hanner cynta	---	NST
+
+
+138, 1	561, 1-6	ADD	*oh* oedd hi yn *game* wael	---	NST
+
+
+139, 1	562, 1-8	BAR	*oh* *well* wnes i adael hanner amser because	ST	ST
+139, 2	562, 9-12	BAR	oedd plant gen i	NSNT	NSNT
+139, 3	563, 1-4	BAR	ac oedd plant yn	NSNT	NSNT
+139, 4	563, 6-7	BAR	oedd plant	NSNT	NSNT
+139, 5	563, 9-15	BAR	oedd plant wedi mynd *er* ry bell	NST	NST
+139, 6	564, 1-5	BAR	ond fedran nhw ddim cysgu	NSNT	NSNT
+139, 7	565, 1-4	BAR	*so* wnes i gychwyn	NST	NST
+139, 8	566, 1-10	BAR	ond welais i *well* i drafod efo *Huwcyn* dydd Sul	NST	NST
+139, 9	567, 1-7	BAR	welais i o yn yn *er* *Morrisons*	NST	NST
+139, 10	569, 1-5	BAR	ac oedd o yn deud	NSNT	NSNT
+139, 11	569, 6-7	BAR	bod o	NSNT	NSNT
+139, 12	569, 8-9	BAR	bod nhw	NSNT	NSNT
+139, 13	569, 10-21	BAR	wedi bod yn well yn yr ail ran cychwyn yr ail ran	---	NSNT
+
+
+140, 1	571, 1-10	ADD	ond *um* timod i petasen nhw wedi chwarae fath â	NST	NST
+140, 2	571, 11-17	ADD	wnaethon nhw chwarae yn *Pwllheli* wsnos gynt	NST	NST
+140, 3	573, 1-7	ADD	fasen nhw wedi malu Dinbych go_iawn felly	NSNT	NSNT
+140, 4	575, 1-8	ADD	ond mae gennyn nhw dueddiad i *just* mynd	NST	NST
+140, 5	576, 1-6	ADD	*ugh* dan ni well na rhein	NST	NST
+140, 6	578, 1-3	ADD	a peidio trio	NSNT	NSNT
+140, 7	579, 1-10	ADD	fydd gennyn nhw *game* galed dydd Sadwrn yma Bae_Colwyn adra	NST	NST
+140, 8	580, 1-9	ADD	a mae Bae_Colwyn wedi curo *Pwllheli* dydd Sadwrn dwytha	---	NST
+
+
+141, 1	581, 1-4	BAR	oedd o'n i gweld	NSNT	NSNT
+141, 2	582, 1-4	BAR	oedd o yn papur	NSNT	NSNT
+141, 3	582, 5-5	BAR	doedd	---	NSNT
+
+
+142, 1	583, 1-3	ADD	*shock* mawr felly	ST	NST
+142, 2	585, 1-6	ADD	because mae Bae_Colwyn *right* yn gwaelod	NST	ST
+142, 3	586, 1-9	ADD	wedyn mae nhw ennill dwy ar y *trot* rŵan	NST	NST
+142, 4	587, 1-1	ADD	wedyn	---	NSNT
+
+
+143, 1	588, 1-2	BAR	be ydyn	NSNT	NSNT
+143, 2	588, 3-11	BAR	ydyn nhw wedi cael chwaraewyr newydd ne rywbeth ta	---	NSNT
+
+
+144, 1	589, 1-4	ADD	*er* dw i meddwl	NST	NST
+144, 2	589, 5-11	ADD	bod un neu ddau wedi dod yn_ôl	NSNT	NSNT
+144, 3	590, 1-15	ADD	wedyn ond pan fuon ni yna yn dechrau tymor oeddan nhw yn da i ddim_byd	NSNT	NSNT
+144, 4	590, 16-18	ADD	sti go iawn	---	NSNT
+
+
+145, 1	591, 1-1	BAR	sobor	---	NSNT
+
+
+146, 1	592, 1-12	ADD	*yeah* ond mae gadael *Dolgellau* a *Bethesda* ar y ffordd i_lawr eto	NST	NST
+146, 2	592, 13-14	ADD	de ffordd	NSNT	NSNT
+146, 3	592, 15-18	ADD	mae yn mynd felly	---	NSNT
+
+
+147, 1	593, 1-8	BAR	welaist di *Nant* wedi curo yn y de	---	NST
+
+
+148, 1	595, 1-5	ADD	pwy mae nhw wedi gael	NSNT	NSNT
+148, 2	595, 6-6	ADD	dywed	NSNT	NSNT
+148, 3	596, 1-4	ADD	wnes i ddim clywed	---	NSNT
+
+
+149, 1	597, 1-5	BAR	*er* dw i ddim gwybod	NST	NST
+149, 2	597, 6-13	BAR	pwy mae nhw wedi cael *um* yn *round*	NST	NST
+149, 3	597, 14-14	BAR	nesa	NSNT	NSNT
+149, 4	598, 1-4	BAR	ew oedd o yn	NSNT	NSNT
+149, 5	598, 5-8	BAR	oedd o yn anhygoel	NSNT	NSNT
+149, 6	599, 1-2	BAR	mae nhw	NSNT	NSNT
+149, 7	599, 3-11	BAR	ydy nhw yn yr wyth ola neu rywbeth neu	---	NSNT
+
+
+150, 1	600, 1-2	ADD	nag ydy	NSNT	NSNT
+150, 2	600, 3-10	ADD	mae yr *teams* mawr yn dod i_mewn wan	NST	NST
+150, 3	601, 1-2	ADD	un_deg_chwech olaf	---	NSNT
+
+
+151, 1	602, 1-6	BAR	*oh* *yeah* ella ella bosib *yeah*	---	NST
+
+
+152, 1	604, 1-3	ADD	dw i ddim	NSNT	NSNT
+152, 2	604, 4-8	ADD	dw i ddim yn *sure*	---	NST
+
+
+153, 1	605, 1-2	BAR	ond dydy	NSNT	NSNT
+153, 2	605, 3-3	BAR	yr	NSNT	NSNT
+153, 3	605, 4-4	BAR	dydy	NSNT	NSNT
+153, 4	605, 5-12	BAR	dydy rhanbarthau ddim yn rhan ohono fo nac	---	NSNT
+
+
+154, 1	606, 1-2	ADD	nag ydy	NSNT	NSNT
+154, 2	606, 3-11	ADD	nag ydy *just* y *teams* yr *um* y Premiership	---	ST
+
+
+155, 1	607, 1-11	BAR	*yeah* *yeah* fath â Castell_nedd a hyn a yr llall *yeah*	---	NST
+
+
+156, 1	608, 1-3	ADD	dyna chdi *yeah*	NST	NST
+156, 2	610, 1-14	ADD	welson ni *um* fuais i i Stadiwm_y_Milleniwm wan i i i *shop* i ofyn	NST	NST
+156, 3	610, 15-20	ADD	lle oedd yr yr pafin yma	NSNT	NSNT
+156, 5	613, 1-4	ADD	efo *Craig* arno fo	NST	NST
+156, 6	614, 1-7	ADD	a fel oedden ni yn cerdded i_lawr	NSNT	NSNT
+156, 7	614, 8-22	ADD	oedd *um* *Neil_Jenkins* a *Robin_McBryde* a rei o hogiau Gaerdydd yn mynd mynd i_lawr felly	NST	NST
+156, 8	615, 1-4	ADD	*just* iawn fi ofyn	NST	NST
+156, 9	616, 1-4	ADD	sut mae hogiau Borth	NSNT	NSNT
+156, 10	617, 1-5	ADD	a dynnu lun o felly	NSNT	NSNT
+156, 11	618, 1-4	ADD	ond wnaethon ni ddim	NSNT	NSNT
+156, 12	619, 1-7	ADD	o'n nhw yn ganol rhyw sgwrs felly	NSNT	NSNT
+156, 13	620, 1-4	ADD	wedyn mae yn amlwg	NSNT	NSNT
+156, 14	620, 5-6	ADD	bod *um*	NST	NST
+156, 15	621, 1-7	ADD	mae *Jenkins* yn ymarfer yn hyfforddi cicio	NST	NST
+156, 16	621, 8-12	ADD	yndy efo *um* *Nikki_Robinson* *yeah*	NST	NST
+156, 17	623, 1-2	ADD	a mae	NSNT	NSNT
+156, 18	623, 3-11	ADD	mae raid bod *er* *Robin* gwneud rhywbeth efo forwards	ST	ST
+156, 19	625, 1-2	ADD	bore da	NSNT	NSNT
+156, 20	626, 1-5	ADD	*hello* *Siân* sut wyt ti	NST	NST
+156, 21	627, 1-2	ADD	nag ydy	---	NSNT
+
+
+157, 1	628, 1-4	BAR	dw i wedi ffonio	---	NSNT
+
+
+158, 1	629, 1-11	ADD	mae *Barri* wedi ffonio fo a wedi gadael neges iddo fo	NST	NST
+158, 2	630, 1-12	ADD	ynglŷn ynglŷn a yr e_bost yma ballu ydy hyn *yeah* a *Power_Point*	NST	NST
+158, 3	631, 1-3	ADD	*oh* dyna chdi	NST	NST
+158, 4	633, 1-1	ADD	mae	NSNT	NSNT
+158, 5	633, 2-13	ADD	mae *Barri* wedi wneud hynna yn yr yn yr awr diwethaf yma	NST	NST
+158, 6	635, 1-5	ADD	cei *sure* wrth_gwrs gei di	NST	NST
+158, 7	636, 1-3	ADD	dyma o yli	---	NSNT
+
+
+159, 1	637, 1-6	BAR	*hello* yr aur sut dach chi	NST	NST
+159, 2	638, 1-4	BAR	be ti wedi cyraedd	NSNT	NSNT
+159, 3	639, 1-2	BAR	Arglwydd annwyl	---	NSNT
+
+
+160, 1	640, 1-4	ADD	ydy o yn iawn	---	NSNT
+
+
+161, 1	641, 1-5	BAR	faint o amser gymraist ti	NSNT	NSNT
+161, 2	642, 1-7	BAR	*oh* wnest di amser da pedair awr	NST	NST
+161, 3	645, 1-5	BAR	sut sut oedd y lonydd	NSNT	NSNT
+161, 4	646, 1-6	BAR	y tywydd ydy tywydd yn ddrwg	NSNT	NSNT
+161, 5	647, 1-10	BAR	na dydy o ddim yn ddrwg yn fan yma nac	NSNT	NSNT
+161, 6	648, 1-4	BAR	lle wyt ti rŵan	NSNT	NSNT
+161, 7	648, 5-5	BAR	ta	NSNT	NSNT
+161, 8	649, 1-1	BAR	be	NSNT	NSNT
+161, 9	650, 1-11	BAR	*oh* ti ti *um* faint o gloch mae dy gyfarfod ti	NST	NST
+161, 10	652, 1-6	BAR	*well* be *Llanishen* wyt ti felly	NST	NST
+161, 11	653, 1-6	BAR	*oh* *o_k* *o_k* *yeah* *alright* ta	NST	NST
+161, 12	654, 1-1	BAR	yndw	NSNT	NSNT
+161, 13	654, 2-2	BAR	yndw	NSNT	NSNT
+161, 14	654, 3-6	BAR	yndw *um* blino braidd	NST	NST
+161, 15	655, 1-7	BAR	ond *um* wsti ar_ôl ond *er* well	NST	NST
+161, 16	655, 8-10	BAR	na baswn i	NSNT	NSNT
+161, 17	655, 11-12	BAR	wedi bod	NSNT	NSNT
+161, 18	655, 13-17	BAR	petaswn i teithio ddau ddiwrnod	NSNT	NSNT
+161, 19	656, 1-1	BAR	dw	NSNT	NSNT
+161, 20	656, 2-4	BAR	dw i wedi	NSNT	NSNT
+161, 21	656, 5-9	BAR	dw i wedi ffonio *Gethin*	NST	NST
+161, 22	657, 1-9	BAR	a dw i am ffonio yr y Cynulliad i_fyny	NSNT	NSNT
+161, 23	658, 1-3	BAR	a efo hwn	NSNT	NSNT
+161, 24	659, 1-2	BAR	ac mae	NSNT	NSNT
+161, 25	659, 3-5	BAR	mae o yn	NSNT	NSNT
+161, 26	659, 6-9	BAR	mae *Ceian* yn_ôl heddiw	NST	NST
+161, 27	660, 1-6	BAR	*so* felly mae nhw yn *um*	NST	NST
+161, 28	660, 7-12	BAR	mae nhw yn cyfarfod dydd Llun	NSNT	NSNT
+161, 29	661, 1-5	BAR	a wedyn fydd gen i	NSNT	NSNT
+161, 30	661, 6-6	BAR	fydd	NSNT	NSNT
+161, 31	661, 7-27	BAR	gynnon ni amseroedd i i i gael gael trafodaeth am y gwaith yn yn *Abergele* hyn a yr llall a a	NST	NST
+161, 32	662, 1-9	BAR	*mmm* *well* na na dw i ddim yn meddwl	NST	NST
+161, 33	663, 1-5	BAR	dw i ddim yn meddwl	NSNT	NSNT
+161, 34	664, 1-4	BAR	ond fydd raid nhw	NSNT	NSNT
+161, 35	664, 5-9	BAR	fydd raid nhw gyfarfod eitha	NSNT	NSNT
+161, 36	665, 1-7	BAR	ond o'n i wedi anghofio mae *Ceian*	NST	NST
+161, 37	665, 8-10	BAR	wedi bod ffwrdd	NSNT	NSNT
+161, 38	665, 11-14	BAR	yndy ar ei wyliau	NSNT	NSNT
+161, 39	665, 15-15	BAR	dydy	NSNT	NSNT
+161, 40	667, 1-6	BAR	*o_k* ta pa bryd ti nôl	NST	NST
+161, 41	668, 1-9	BAR	ti ti ti ti ddim cychwyn tan dydd Sul	NSNT	NSNT
+161, 42	670, 1-2	BAR	*o_k* ta	NST	NST
+161, 43	671, 1-10	BAR	ond dw i wedi gyrru rhestr o ddyddiadau iddyn nhw	NSNT	NSNT
+161, 44	672, 1-6	BAR	oedd rheina ddim da i ddim_byd	NSNT	NSNT
+161, 45	673, 1-5	BAR	*oh* *o_k* ta because because	ST	ST
+161, 46	673, 6-7	BAR	wnes i	NSNT	NSNT
+161, 47	673, 8-8	BAR	roid	NSNT	NSNT
+161, 48	673, 9-11	BAR	dw i wedi	NSNT	NSNT
+161, 49	673, 12-25	BAR	roid pentwr o ddyddiadau rwng rŵan a mis Mawrth iddyn nhw diwedd mis Mawrth	NSNT	NSNT
+161, 50	674, 1-3	BAR	oedd hi yn	NSNT	NSNT
+161, 51	675, 1-3	BAR	*oh* pwy oedd	NST	NST
+161, 52	676, 1-3	BAR	*er* *Tudwen* ia	NST	NST
+161, 53	677, 1-15	BAR	*oh* *right* *o_k* *so* *so* wna i ddisgwyl i ti ddod mewn dydd Llun ia	NST	NST
+161, 54	678, 1-8	BAR	a wnawn ni sortio allan yn fan yna	NSNT	NSNT
+161, 55	679, 1-5	BAR	*yeah* *yeah* ella wna i	NST	NST
+161, 56	680, 1-3	BAR	ella wna i	NSNT	NSNT
+161, 57	681, 1-4	BAR	mae gen i amser	NSNT	NSNT
+161, 59	685, 1-8	BAR	ella bod ti ddim wedi cael yr e_bost	NSNT	NSNT
+161, 60	686, 1-5	BAR	*yeah* wnes i ddeud *um*	NST	NST
+161, 61	687, 1-1	BAR	wsti	NSNT	NSNT
+161, 62	687, 2-19	BAR	be dw i wedi wneud o leia tri diwrnod yr wsnos rhwng rŵan ac *um* a mis Mawrth	NST	NST
+161, 63	688, 1-2	BAR	*o_k* wna	NST	NST
+161, 64	688, 3-9	BAR	wna i edrych arno fo wedyn ia	NSNT	NSNT
+161, 65	689, 1-2	BAR	*o_k* ta	NST	NST
+161, 67	691, 1-4	BAR	*oh* *yeah* dyma chdi	NST	NST
+161, 68	692, 1-4	BAR	mae o yma *yeah*	ST	NST
+161, 69	693, 1-4	BAR	*right* *um* *specs* *mmm*	ST	NST
+161, 70	695, 1-10	BAR	angen restr o ddyddiadau dydd Llun dydd Mawrth yn *Gaernarfon*	---	NST
+
+
+162, 1	696, 1-8	ADD	ac because mae Caerdydd Chwefror a *Gaernarfon* Mawrth	NST	ST
+162, 2	697, 1-6	ADD	*oh* mae hynna yn iawn iawn	---	NST
+
+
+163, 1	698, 1-8	BAR	ia ia *um* ia dyna chdi yn *Gaernarfon*	NST	NST
+163, 2	700, 1-7	BAR	argian annwyl ddipyn o waith hwnna does	NSNT	NSNT
+163, 3	701, 1-7	BAR	*o_k* well i mi ffonio hi felly	NST	NST
+163, 4	702, 1-7	BAR	wna i ffonio hi hwyrach ymlaen *o_k*	NST	NST
+163, 5	703, 1-4	BAR	*o_k* *well* pob *luck*	NST	NST
+163, 6	704, 1-8	BAR	efo yr efo peth yna efo *Miriam* *yeah*	NST	NST
+163, 7	705, 1-8	BAR	ella gawn ni hanes rywbeth yr *um* yma	NST	NST
+163, 8	706, 1-8	BAR	ia tyrd â fo nôl yn dy boced	SNT	NSNT
+163, 9	707, 1-1	BAR	cash	NSNT	NSNT
+163, 10	708, 1-5	BAR	how much for cash *yeah*	ST	NST
+163, 11	709, 1-2	BAR	*o_k* ta	NST	NST
+163, 12	711, 1-11	BAR	*er* faint o gloch ti yn debygol o fod wedi gorffen	NST	NST
+163, 13	712, 1-10	BAR	*oh* *o_k* wna i drio ffonio chdi ar_ôl hynna *yeah*	NST	NST
+163, 14	714, 1-4	BAR	*well* fydda i yma	NST	NST
+163, 15	715, 1-3	BAR	fydda i yma	NSNT	NSNT
+163, 16	717, 1-4	BAR	*o_k* ta *ta_ra* rŵan	NST	NST
+163, 17	718, 1-2	BAR	pob *luck*	NST	NST
+163, 18	719, 1-4	BAR	*ta_ra* wan *ta_ra* wan	NST	NST
+163, 19	720, 1-15	BAR	*Siân* wedi cychwyn am Gaerdydd hanner wedi chwech bore yma wedi cyraedd hanner wedi deg	---	NST
+
+
+164, 1	721, 1-1	ADD	Iesgob	---	NSNT
+
+
+165, 1	722, 1-4	BAR	wnaeth ddipyn o siwrnai	NSNT	NSNT
+165, 2	723, 1-1	BAR	faint	NSNT	NSNT
+165, 3	724, 1-9	BAR	*well* mae yn bedair awr o siwrnai peth yna	---	NST
+
+
+166, 1	726, 1-12	ADD	pedair awr gymron ni *just* dros pedair awr a a stopio ddwywaith	NST	NST
+166, 2	728, 1-6	ADD	wnei di arwyddo hwnna i fi	---	NSNT
+
+
+167, 1	729, 1-2	BAR	wna i	NSNT	NSNT
+167, 2	730, 1-3	BAR	wna i *sure*	---	NST
+
+
+168, 1	731, 1-4	ADD	gyrru *cheque* i rhein	---	NST
+
+
+169, 1	733, 1-7	BAR	wnest di aros efo teulu yn Gaerdydd	---	NSNT
+
+
+170, 1	734, 1-1	ADD	naddo	NSNT	NSNT
+170, 2	734, 2-8	ADD	wnaethon ni aros yn y y *Park*	---	NST
+
+
+171, 1	735, 1-5	BAR	*oh* ia dw yn gwybod	NST	NST
+171, 2	735, 6-8	BAR	lle mae hwnnw	---	NSNT
+
+
+172, 1	736, 1-6	ADD	*Thistle* mae nhw galw fo wan	NST	NST
+172, 2	738, 1-11	ADD	ond mae o *right* yn ganol y ddinas sydd yn *great*	NST	NST
+172, 3	738, 12-22	ADD	timod ti *just* isio picio allan i siopa neu beth bynnag	NST	NST
+172, 5	741, 1-6	ADD	a mae o mynd i *er*	NST	NST
+172, 6	742, 1-8	ADD	fi yn mynd i_ffwrdd am fis *round* *Europe*	NST	NST
+172, 8	744, 1-8	ADD	wedyn *um* mae yn gweithio yn y Cynulliad	NST	NST
+172, 9	745, 1-5	ADD	a mae nhw wedi ddeud	NSNT	NSNT
+172, 11	746, 1-6	ADD	ella ddim yn yr un adran	NSNT	NSNT
+172, 12	747, 1-8	ADD	a wedyn *um* fuon ni am fwyd *Thai*	NST	NST
+172, 13	748, 1-3	ADD	mae yna dŷ	NSNT	NSNT
+172, 14	748, 4-6	ADD	mae yna tibod	NSNT	NSNT
+172, 16	750, 1-11	ADD	*um* mae nhw wedi cael gwared o yr bragdy a wedi	NST	NST
+172, 17	750, 12-13	ADD	rhoid *Brewery_Quarter*	---	NST
+
+
+173, 1	751, 1-5	BAR	a mae yn llawn yna	---	NSNT
+
+
+174, 1	752, 1-8	ADD	llefydd bwyta waeth ti ddeud *er* Eidaleg a	---	NST
+
+
+175, 1	753, 1-1	BAR	mae	NSNT	NSNT
+175, 2	753, 2-19	BAR	mae yna dŷ tafarn mawr yn un ochr o yr o dŷ tafarn mawr *Brains* *The* *The* *The*	---	NST
+
+
+176, 1	754, 1-1	ADD	*The*	---	NST
+
+
+177, 1	755, 1-6	BAR	*oh* dw i ddim yn cofio	NST	NST
+177, 2	755, 7-10	BAR	be ydy enw o	NSNT	NSNT
+177, 3	756, 1-6	BAR	fues i mewn yn fan yno	---	NSNT
+
+
+178, 1	757, 1-2	ADD	mae yna	NSNT	NSNT
+178, 2	757, 3-5	ADD	mae yna *Hard_Rock_Café*	NST	NST
+178, 3	758, 1-8	ADD	a mae yna *um* y tai bwyta yma	NST	NST
+178, 4	760, 1-4	ADD	felly fuon ni *Thai_Edge*	NST	NST
+178, 5	761, 1-8	ADD	da iawn oedd o hefyd arbennig o dda	NSNT	NSNT
+178, 7	763, 1-12	ADD	*just* cael wahanol bethau pawb yn yn cymysgu a hyn a llall	NST	NST
+178, 8	765, 1-10	ADD	wedyn welais i hogan yn chwaer *er* dydd Mercher *Lisa*	NST	NST
+178, 9	766, 1-8	ADD	mae hi yn gweithio yn yn Cynulliad hefyd	NSNT	NSNT
+178, 10	767, 1-7	ADD	wedyn wnaeth hi gyfarfod ni am ginio	NSNT	NSNT
+178, 11	768, 1-11	ADD	a wedyn mae nhw yn gobeithio cael symud i_fyny i Cyffordd_Llandudno	---	NSNT
+
+
+179, 1	769, 1-11	BAR	*oh* *yeah* yn lle hen lle *Hoover* neu *Hotpoint* *Hotpoint* *yeah*	---	NST
+
+
+180, 1	770, 1-2	ADD	mae hi	NSNT	NSNT
+180, 2	772, 1-3	ADD	dyna chdi ia	NSNT	NSNT
+180, 3	773, 1-3	ADD	mae nhw isio	NSNT	NSNT
+180, 4	773, 4-5	ADD	mae nhw	NSNT	NSNT
+180, 5	773, 6-15	ADD	mae nhw yn symud pum cant i_fyny o o Gaerdydd	NSNT	NSNT
+180, 7	775, 1-14	ADD	a mae yna ddau gant wedi wneud yn barod i Llanelwy a llefydd felly	NSNT	NSNT
+180, 8	776, 1-10	ADD	a mae nhw isio tri chant i symud i Cyffordd_Llandudno	NSNT	NSNT
+180, 9	777, 1-7	ADD	wrth_gwrs dydy bobl Gaerdydd ddim isio mynd	NSNT	NSNT
+180, 10	777, 8-9	ADD	nag ydyn	NSNT	NSNT
+180, 11	778, 1-5	ADD	ond mae *Lisa* yn ddeud	NST	NST
+180, 12	779, 1-4	ADD	iawn mi a i	NSNT	NSNT
+180, 13	780, 1-11	ADD	wedyn mae hi a a ei chymar *Cai* mynd i symud	NST	NST
+180, 14	781, 1-5	ADD	mae nhw gobeithio blwyddyn ar_ôl	NSNT	NSNT
+180, 15	781, 6-7	ADD	nesa dwy_fil_a_saith	NSNT	NSNT
+180, 16	782, 1-13	ADD	mae nhw yn briodi yn dwy_fil_a_saith a symud i_fyny i yr ardal yma	---	NSNT
+
+
+181, 1	783, 1-8	BAR	ydyn nhw yn cael unrhyw fath o *um*	NST	NST
+181, 2	783, 9-12	BAR	wsti *um* ryw *help*	---	NST
+
+
+182, 1	784, 3-11	ADD	yndy cael *help* i brynu tŷ ac i symud	---	NST
+
+
+183, 1	785, 1-2	BAR	*oh* *fantastic*	ST	NST
+183, 2	787, 1-8	BAR	cyfle cyfle gwych dydy deud gwir yn *honest*	---	NST
+
+
+184, 1	789, 1-5	ADD	mae yn *great* iddyn nhw	NST	NST
+184, 2	790, 1-10	ADD	mae nhw wrth eu bodd mynydda a dringo a ballu	NSNT	NSNT
+184, 3	792, 1-6	ADD	felly mae Eryri lawr lawr lôn	NSNT	NSNT
+184, 4	793, 1-6	ADD	a mae o yn mynd i	NSNT	NSNT
+184, 5	793, 7-16	ADD	mae ei deulu fo yn ardal y llynnoedd neu rywbeth	NSNT	NSNT
+184, 6	794, 1-2	ADD	wedyn timod	NSNT	NSNT
+184, 7	794, 3-12	ADD	dydy o mond be awr a hanner i_fyny yr lôn	---	NSNT
+
+
+185, 1	795, 1-2	BAR	*oh* *fantastic*	---	NST
+
+
+186, 1	796, 1-4	ADD	mae hi wedi gwirioni	NSNT	NSNT
+186, 2	798, 1-9	ADD	wedyn oeddan ni wedi meddwl gweld ffrindiau a ballu	NSNT	NSNT
+186, 3	799, 1-5	ADD	ond doedd yna ddim amser	NSNT	NSNT
+186, 4	800, 1-7	ADD	nos Fercher benderfynu mynd i weld *film*	NST	NST
+186, 5	801, 1-9	ADD	ac mae *U_C_G* yn ymyl *Marriots* yn fan yna	NST	NST
+186, 6	802, 1-3	ADD	*pictures* mawr felly	NST	NST
+186, 7	803, 1-4	ADD	felly *off* â ni	NST	NST
+186, 8	804, 1-9	ADD	aethon ni am fwyd a cerdded lawr i *U_C_G*	NST	NST
+186, 9	805, 1-5	ADD	iargoel gweld *queue* *boys* bach	NST	NST
+186, 10	806, 1-8	ADD	wedyn dyma ni ymuno â yr *queue* wan	NST	NST
+186, 11	807, 1-9	ADD	ac oedd y *film* yn dechrau chwarter i naw	NST	NST
+186, 12	808, 1-7	ADD	ac oedd hi yn hanner wedi wyth	NSNT	NSNT
+186, 13	809, 1-10	ADD	fasen ni byth wedi cyrraedd i weld ei ddechrau fo	NSNT	NSNT
+186, 14	810, 1-7	ADD	felly dyma Ceri yn gofyn i nhw	NSNT	NSNT
+186, 15	811, 1-5	ADD	be sy mynd ymlaen felly	NSNT	NSNT
+186, 16	812, 1-8	ADD	pam pam bod yna gymaint o bobl ifanc	NSNT	NSNT
+186, 17	813, 1-3	ADD	myfyrwyr oedden nhw	NSNT	NSNT
+186, 18	814, 1-3	ADD	*oh* mae o	NST	NST
+186, 19	814, 4-15	ADD	noson *um* ti yn mynd un yn cael mynd i_mewn am ddim	NST	NST
+186, 20	814, 16-21	ADD	os ydy o efo rywun arall	NSNT	NSNT
+186, 21	815, 1-5	ADD	felly oedden nhw gyd yna	NSNT	NSNT
+186, 22	815, 6-9	ADD	doedd cannoedd o nhw	NSNT	NSNT
+186, 23	816, 1-11	ADD	felly wnaethon ni droi *round* a mynd yn_ôl i yr gwesty	NST	NST
+186, 24	817, 1-6	ADD	o'n ni isio gweld *Brokeback_Mountain* sti	---	NST
+
+
+187, 1	818, 1-3	BAR	*oh* ia mae	---	NST
+
+
+188, 1	819, 1-6	ADD	*film* *cowboys* yna sy yn hoyw	NST	NST
+188, 2	820, 1-3	ADD	mae nhw deud	NSNT	NSNT
+188, 3	820, 4-9	ADD	bod o yn dda iawn ond	---	NSNT
+
+
+189, 1	821, 1-7	BAR	oedd *Siân* wedi weld o dydd Sadwrn	NST	NST
+189, 2	823, 1-6	BAR	oedd hi yn deud wrtha i	SNT	NSNT
+189, 3	824, 1-12	BAR	because *er* dw i *just* wedi gweld o wedi gael ei hysbysebu	---	ST
+
+
+190, 1	825, 1-2	ADD	dyna chdi	---	NSNT
+
+
+191, 1	826, 1-8	BAR	ac oedd hi wedi gweld o dydd Sadwrn	NSNT	NSNT
+191, 2	827, 1-5	BAR	ac oedd hi yn deud	NSNT	NSNT
+191, 3	827, 6-9	BAR	bod o yn *er*	NST	NST
+191, 4	827, 10-13	BAR	bod nhw wedi mynd	NSNT	NSNT
+191, 5	828, 1-13	BAR	wsti wrth *um* y *pictures* yna yn yn *er* Deganwy sydd yn *um*	NST	NST
+191, 6	829, 1-4	BAR	mae yna un lle	NSNT	NSNT
+191, 7	829, 5-8	BAR	lle fedri di mewn	NSNT	NSNT
+191, 8	830, 1-2	BAR	mae yna	NSNT	NSNT
+191, 9	830, 3-8	BAR	mae yna *far* a bob peth	NST	NST
+191, 10	831, 1-2	BAR	fedri di	NSNT	NSNT
+191, 11	831, 3-7	BAR	mae yna le i ti	NSNT	NSNT
+191, 12	831, 8-10	BAR	roid dy win	NSNT	NSNT
+191, 13	832, 1-3	BAR	a mae yn	---	NSNT
+
+
+192, 1	833, 1-2	ADD	*oh* ydyn	---	NST
+
+
+193, 1	834, 1-4	BAR	mae yna *bictures* bach	---	NST
+
+
+194, 1	835, 1-4	ADD	*oh* ia wn i	NST	NST
+194, 2	836, 1-3	ADD	ia wn i	---	NSNT
+
+
+195, 1	837, 1-5	BAR	mae o *bictures* eitha bach	NST	NST
+195, 2	839, 1-3	BAR	dw i meddwl	NSNT	NSNT
+195, 3	839, 4-7	BAR	bod o yn hwnna	NSNT	NSNT
+195, 4	840, 1-5	BAR	ac oedd hi yn deud	NSNT	NSNT
+195, 5	841, 1-10	BAR	oedd y cadeiriau cadeiriau mawr cyffyrddus a glasied o win	NSNT	NSNT
+195, 6	842, 1-8	BAR	ac oeddan nhw wedi oedd Siân wedi deud	NSNT	NSNT
+195, 7	842, 9-13	BAR	oedd hi bron wedi cysgu	NSNT	NSNT
+195, 9	844, 1-4	BAR	ond bod y *film*	NST	NST
+195, 10	844, 5-9	BAR	oedd y *film* yn dda	NST	NST
+195, 11	844, 10-12	BAR	meddai hi a	NSNT	NSNT
+195, 12	844, 13-17	BAR	ond bod o yn weepy	SNT	SNT
+195, 13	844, 18-20	BAR	de dipyn bach	NSNT	NSNT
+195, 14	846, 1-4	BAR	*um* oedd pobl yn	NST	NST
+195, 15	846, 5-5	BAR	wsti	NSNT	NSNT
+195, 16	847, 1-5	BAR	oedd yna *lot* o grio	---	NST
+
+
+196, 1	850, 1-4	ADD	ond mae o yn	NSNT	NSNT
+196, 2	850, 5-12	ADD	mae o yn *um* *er* syniad gwahanol iawn	NST	NST
+196, 3	850, 13-13	ADD	tydy	NSNT	NSNT
+196, 4	852, 2-2	ADD	dydy	NSNT	NSNT
+196, 5	852, 3-9	ADD	dydy *cowboys* fel arfer ddim yn hoyw	NST	NST
+196, 6	852, 10-11	ADD	nag ydyn	---	NSNT
+
+
+197, 1	853, 1-3	BAR	*oh* mae *sure*	NST	NST
+197, 2	853, 4-7	BAR	bod yna *gowboys* hoyw	NST	NST
+197, 3	853, 8-9	BAR	wedi bod	---	NSNT
+
+
+198, 1	854, 1-3	ADD	*sure* bod yna	---	NST
+
+
+199, 1	856, 1-6	BAR	wsti *lot* ohonyn nhw o bosib	---	NST
+
+
+200, 1	857, 1-15	ADD	ond ti ddim yn ti ddim yn debygol o fynd i_fyny at *Wyatt_Earp* a deud	NST	NST
+200, 2	858, 1-4	ADD	*hello* ti yn queer	---	ST
+
+
+201, 1	859, 1-4	BAR	nag wyt na *yeah*	NST	NST
+201, 2	860, 1-3	BAR	neu neu *John_Wayne*	NST	NST
+201, 3	862, 1-6	BAR	*Marion* *Marion* oedd enw iawn o	ST	NST
+201, 4	864, 1-3	BAR	*yeah* *Marion* *yeah*	ST	NST
+201, 5	865, 1-3	BAR	*yeah* dyna pam	NST	NST
+201, 6	865, 4-7	BAR	wnaeth o newid o	NSNT	NSNT
+201, 7	866, 1-4	BAR	ella bod o meddwl	NSNT	NSNT
+201, 8	866, 5-8	BAR	bod o pobl meddwl	NSNT	NSNT
+201, 9	866, 9-12	BAR	bod o yn hoyw	---	NSNT
+
+
+202, 1	868, 1-5	ADD	ti dda efo *cowboys* yma	ST	NST
+202, 2	869, 1-10	ADD	because ti o'ch chdi yn gwybod wnest di ffindio allan	NSNT	SNT
+202, 3	869, 11-14	ADD	pwy oedd *Lone_Ranger* hefyd	ST	NST
+202, 4	871, 1-1	ADD	*Clayton_Moore*	---	NST
+
+
+203, 1	872, 1-1	BAR	*Clayton_Moore*	ST	NST
+203, 2	873, 1-7	BAR	a ti yn gwybod pwy oedd *Tonto*	---	NST
+
+
+204, 1	876, 1-2	ADD	ddeudi di	NSNT	NSNT
+204, 2	877, 1-2	ADD	wna i	NSNT	NSNT
+204, 3	877, 3-6	ADD	wna i gofio wedyn	NSNT	NSNT
+204, 4	877, 7-7	ADD	wnaf	---	NSNT
+
+
+205, 1	878, 1-3	BAR	*Jay_Silverheels* oedd *Tonto*	---	NST
+
+
+206, 1	879, 1-1	ADD	*Jay_Silverheels*	---	NST
+
+
+207, 1	880, 1-5	BAR	dw i ddim yn gwybod	NSNT	NSNT
+207, 2	880, 6-15	BAR	os oedd o yn *J* am *John* neu *just* *J_A_Y*	NST	NST
+207, 4	882, 1-5	BAR	dw i ddim yn gwybod	NSNT	NSNT
+207, 5	883, 1-4	BAR	*yeah* o'n licio *cowboys*	NST	NST
+207, 6	884, 1-7	BAR	*cowboys* yn bwysig yn dy fywyd di	NST	NST
+207, 7	885, 1-7	BAR	mae raid i ti wybod am *gowboys*	NST	NST
+207, 9	890, 1-4	BAR	*so* mae efo *Daniel_Moss*	NST	NST
+207, 10	890, 5-14	BAR	mae nhw am ddod i *well* gobeithio ddon nhw fyny	NST	NST
+207, 11	892, 1-5	BAR	gobeithio wnan nhw ddim pwdu	---	NSNT
+
+
+208, 1	893, 1-5	ADD	be be ddeudwyd ddwedwyd oedd	NSNT	NSNT
+208, 2	893, 6-14	ADD	bod ni yn mynd i_lawr *um* *game* yr Eidal	NST	NST
+208, 3	895, 1-13	ADD	a wedyn bod ni chwarae *round* y dydd Sul ar_ôl *game* yr Eidal	NST	NST
+208, 4	896, 1-11	ADD	a fasen nhw yn dod i_fyny mis Ebrill ar_ôl y chwech_gwlad	NSNT	NSNT
+208, 5	897, 1-13	ADD	a wedyn *um* dw ddim gwybod chwarae pnawn dydd Sul neu rywbeth felly	NST	NST
+208, 6	898, 1-19	ADD	bod nhw yn dŵad ar ar fore dydd neu nos Sadwrn aros nos Sadwrn mynd yn_ôl syth ar_ôl *game*	NST	NST
+208, 7	899, 1-12	ADD	felly wna i gael gair efo yr hogiau *um* penwythnos yma edrych	NST	NST
+208, 8	899, 13-16	ADD	pwy sy ar gael	NSNT	NSNT
+208, 9	900, 1-8	ADD	*um* chwilio am ddydd Sul yn mis Ebrill	NST	NST
+208, 10	902, 1-2	ADD	a wedyn	NSNT	NSNT
+208, 11	903, 1-5	ADD	mae Pasg mis Ebrill hefyd	---	NSNT
+
+
+209, 1	904, 1-3	BAR	*mmm* na dw	NST	NST
+209, 2	904, 4-9	BAR	dw i meddwl na mis Mawrth	NSNT	NSNT
+209, 3	904, 10-11	BAR	ydy o	NSNT	NSNT
+209, 4	905, 1-5	BAR	dw i ddim yn *sure*	NST	NST
+209, 5	906, 1-3	BAR	wna i jecio	---	NSNT
+
+
+210, 1	907, 1-2	ADD	na naci	NSNT	NSNT
+210, 2	909, 1-4	ADD	mis Ebrill ydy o	NSNT	NSNT
+210, 3	910, 1-1	ADD	mae	NSNT	NSNT
+210, 4	910, 2-8	ADD	mae *um* dydd Gwener_y_Groglith ar y pedwreydd_ar_ddeg	NST	NST
+210, 5	912, 1-7	ADD	yn_ôl hwn *calendar* *calendar* y cyngor dre	NST	NST
+210, 6	914, 1-8	ADD	felly fasai yn gallu wneud dros dros Pasg	NSNT	NSNT
+210, 7	915, 1-4	ADD	dydd Sul Pasg ella	NSNT	NSNT
+210, 8	916, 1-1	ADD	wedyn	---	NSNT
+
+
+211, 1	917, 1-8	BAR	*well* fasai hynna yn ddiwrnod arall iddyn nhw	NST	NST
+211, 2	917, 9-9	BAR	basai	---	NSNT
+
+
+212, 1	918, 1-1	ADD	fasai	NSNT	NSNT
+212, 3	920, 1-13	ADD	gan nhw aros nos Sul mynd yn_ôl dow_dow dydd Llun os na dyna	NSNT	NSNT
+212, 4	920, 14-16	ADD	mae nhw isio	NSNT	NSNT
+212, 5	923, 1-5	ADD	wedyn ni ffindio lefydd aros	NSNT	NSNT
+212, 6	924, 1-9	ADD	aros yn *Prince* neu rywle felly neu yr *Black_Boy*	---	NST
+
+
+213, 1	925, 1-5	BAR	*yeah* rywbeth fel yna de	NST	NST
+213, 2	926, 1-3	BAR	mae yr *Prince*	NST	NST
+213, 3	926, 4-5	BAR	mae nhw	NSNT	NSNT
+213, 4	926, 6-14	BAR	wedi bod yn wneud *lot* o waith ar *Prince*	NST	NST
+213, 5	928, 1-4	BAR	wedi dwtio fo *lot*	---	NST
+
+
+214, 1	930, 1-4	ADD	ond does yna ddim_byd	NSNT	NSNT
+214, 2	931, 1-9	ADD	does yna ddim un arwydd Cymraeg tu allan o_gwbl	---	NSNT
+
+
+215, 1	932, 1-2	BAR	nag oes	---	NSNT
+
+
+216, 1	934, 1-6	ADD	sydd yn rhyfeddol dyddiau yma felly	NSNT	NSNT
+216, 2	935, 1-6	ADD	mae bob peth yn uniaith Saesneg	---	NSNT
+
+
+217, 1	937, 1-4	BAR	fydd raid ni fynd	NSNT	NSNT
+217, 2	937, 5-13	BAR	fydd rhaid ni fynd yna am dro i weld	NSNT	NSNT
+217, 3	937, 14-18	BAR	be sy yn digwydd yna	NSNT	NSNT
+217, 4	938, 1-1	BAR	wsti	NSNT	NSNT
+217, 5	938, 2-8	BAR	mae flynyddoedd ers i mi fynd yna	NSNT	NSNT
+217, 6	938, 9-9	BAR	dydy	---	NSNT
+
+
+218, 1	939, 2-5	ADD	mae wedi newid dwylo	NSNT	NSNT
+218, 2	939, 6-7	ADD	yndy ddwywaith	NSNT	NSNT
+218, 3	939, 8-11	ADD	dw i meddwl ers	NSNT	NSNT
+218, 4	941, 1-9	ADD	ew mae yn y flwyddyn dwy flynedd dwytha yma	NSNT	NSNT
+218, 5	942, 1-2	ADD	felly *um*	NST	NST
+218, 6	943, 1-7	ADD	yr un yr un set_up ydy o	NSNT	SNT
+218, 7	944, 1-1	ADD	mae	NSNT	NSNT
+218, 8	944, 2-8	ADD	gynnon nhw *Royal_Oak_Bar* a ballu dros y	NST	NST
+218, 9	945, 1-4	ADD	mae o yn iawn	NSNT	NSNT
+218, 10	946, 1-4	ADD	mae wneud ei waith	NSNT	NSNT
+218, 11	947, 1-4	ADD	*well* am wn i	NST	NST
+218, 12	947, 5-6	ADD	fydd isio	NSNT	NSNT
+218, 13	947, 7-12	ADD	roid i_mewn yn y stafelloedd yno	NSNT	NSNT
+218, 15	949, 1-2	ADD	oedd yna	NSNT	NSNT
+218, 16	949, 3-14	ADD	mae raid bod yna gynhadledd merched *golf* neu rywbeth yn y *Park*	NST	NST
+218, 18	951, 1-6	ADD	ac oedd yna ddegau o rhein	NSNT	NSNT
+218, 19	951, 7-11	ADD	de o_gwmpas y merched yma	NSNT	NSNT
+218, 20	952, 1-8	ADD	ac i_gyd yn timod yn *Tamara_Pres* look_alikes felly	ST	ST
+218, 21	953, 1-2	ADD	*sorry* *Tamara_Press*	ST	NST
+218, 23	955, 1-4	ADD	oedd o yn amlwg	NSNT	NSNT
+218, 24	955, 5-10	ADD	bod o yn le poblogaidd *Barri*	NST	NST
+218, 25	956, 1-8	ADD	achos oedd yna rywbeth ymlaen yna bob dydd	NSNT	NSNT
+218, 26	956, 9-17	ADD	timod cynhadledd neu cyfarfod a hyn a yr llall	---	NSNT
+
+
+219, 1	958, 1-9	BAR	dw i yn cofio *um* ffrind i mi *Dyfan_Rees*	NST	NST
+219, 2	959, 1-4	BAR	*er* wnaeth o briodi	NST	NST
+219, 3	959, 5-13	BAR	a gaethon nhw yr *um* *party* priodas fan yno	NST	NST
+219, 4	962, 1-10	BAR	oedd ac fel bryd o fwyd ac wedyn twmpath wedyn	---	NSNT
+
+
+220, 1	963, 1-4	ADD	o'ch chdi yn deud	---	NSNT
+
+
+221, 1	964, 1-2	BAR	oedd o	NSNT	NSNT
+221, 2	964, 3-5	BAR	oedd o yn	NSNT	NSNT
+221, 3	964, 6-8	BAR	oedd o yn	NSNT	NSNT
+221, 4	964, 9-14	BAR	doedd ddim *quite* gweithio i mi	NST	NST
+221, 5	964, 15-19	BAR	de twmpath yn y *Park*	NST	NST
+221, 6	966, 1-7	BAR	*hotel* de *er* yn yn yn Gaerdydd	NST	NST
+221, 7	968, 1-3	BAR	doedd ddim yn	NSNT	NSNT
+221, 8	968, 4-10	BAR	doedd ddim yn gweithio o_gwbl i mi	NSNT	NSNT
+221, 9	969, 1-3	BAR	wsti ond *er*	NST	NST
+221, 10	969, 4-5	BAR	oedd rhyfedd	NSNT	NSNT
+221, 11	970, 1-2	BAR	oedd pawb	NSNT	NSNT
+221, 12	971, 1-2	BAR	dim rhyfedd	NSNT	NSNT
+221, 13	972, 1-5	BAR	oedd pawb wedi fwynhau o	NSNT	NSNT
+221, 14	973, 1-6	BAR	doedd yna ddim amheuaeth am hynna	NSNT	NSNT
+221, 15	974, 1-11	BAR	oedd pawb yn dawnsio ac yn bopio a hyn a llall	NSNT	NSNT
+221, 16	975, 1-8	BAR	oedd pawb wedi mwynhau o yn fawr iawn	---	NSNT
+
+
+222, 1	976, 1-7	ADD	*oh* fan yno oeddan ni mynd timod	NST	NST
+222, 2	977, 1-9	ADD	*Park* oedd yr man cyfarfod cyn *games* rhyngwladol bob	NST	NST
+222, 3	977, 10-11	ADD	tro felly	NSNT	NSNT
+222, 4	979, 1-3	ADD	*yeah* am flynyddoedd	NST	NST
+222, 5	980, 1-6	ADD	a wedyn wnaeth ryw *bolicy* wedyn	NST	NST
+222, 7	981, 1-9	ADD	o'n nhw isio pobl crys a *tie* a ballu	NST	NST
+222, 8	982, 1-6	ADD	felly wnaeth ni symud o yna	NSNT	NSNT
+222, 9	983, 1-4	ADD	wedyn dan ni ddim	NSNT	NSNT
+222, 10	983, 5-10	ADD	wedi bod nôl ers hynny felly	NSNT	NSNT
+222, 11	984, 1-6	ADD	ond oedd o yn lle *handy*	NST	NST
+222, 12	984, 7-7	ADD	doedd	NSNT	NSNT
+222, 13	985, 1-3	ADD	oedd o faint	NSNT	NSNT
+222, 14	985, 4-13	ADD	ydy o pum munud o yr o yr cae felly	NSNT	NSNT
+222, 15	988, 1-9	ADD	ond mae yna gymaint mwy o lefydd yn Gaerdydd	NSNT	NSNT
+222, 16	989, 1-11	ADD	pan ti mynd i_lawr yna mae yna *far* newydd wedi agor	---	NST
+
+
+223, 1	990, 1-3	BAR	ia oes hollol	---	NSNT
+
+
+224, 1	991, 1-9	ADD	trwy yr adeg mae yna lefydd newydd yn agor	---	NSNT
+
+
+225, 1	992, 1-5	BAR	*yeah* oedd *um* peth *um*	NST	NST
+225, 2	993, 1-2	BAR	mae yna	NSNT	NSNT
+225, 3	993, 3-12	BAR	mae gyn ti yr *Australian* *bar* yna wan *Walkabout* *yeah*	NST	NST
+225, 4	995, 1-3	BAR	gen ti *Walkabout*	NST	NST
+225, 5	996, 1-7	BAR	a wedyn mae gen ti *O_Neill's* wedyn	NST	NST
+225, 6	998, 2-7	BAR	mae nhw ti mynd i_fyny St_Mary_Street	SNT	SNT
+225, 7	998, 8-13	BAR	a mae yna dŵr ohonyn nhw	NSNT	NSNT
+225, 8	998, 14-14	BAR	does	---	NSNT
+
+
+226, 1	1000, 1-3	ADD	un ar_ôl llall	---	NSNT
+
+
+227, 1	1001, 1-3	BAR	a hyd_yn_oed wsti	NSNT	NSNT
+227, 2	1001, 4-5	BAR	wsti Westgate_Street	SNT	SNT
+227, 3	1001, 6-7	BAR	ydy o	NSNT	NSNT
+227, 4	1002, 1-5	BAR	lle mae yr y *Stadium*	NST	NST
+227, 5	1004, 1-8	BAR	mae yna dŵr ohonyn nhw yn fan yna	NSNT	NSNT
+227, 6	1004, 9-9	BAR	does	---	NSNT
+
+
+228, 1	1005, 1-9	ADD	mae yna un o yr *um* *er* *Weatherspoons* *yeah*	NST	NST
+228, 2	1007, 1-5	ADD	y *Gate_Keeper* yn fan yno	NST	NST
+228, 3	1009, 1-9	ADD	*well* na mae yna ddigon o ddewis yn Gaerdydd	NST	NST
+228, 4	1010, 1-2	ADD	gormod ella	NSNT	NSNT
+228, 5	1011, 1-4	ADD	dw i ddim gwybod	---	NSNT
+
+
+229, 1	1012, 1-3	BAR	hen yfed yma	---	NSNT
+
+
+230, 1	1013, 1-3	ADD	mae hwnna wedi	---	NSNT
+
+
+231, 1	1014, 1-7	BAR	dydy o ddim yn dda i ti	NSNT	NSNT
+231, 2	1014, 8-8	BAR	wsti	NSNT	NSNT
+231, 3	1015, 1-3	BAR	dydy o ddim	---	NSNT
+
+
+232, 1	1016, 1-7	ADD	*oh* wnes i ddim gormod deud gwir	NST	NST
+232, 2	1017, 1-10	ADD	ges i dipyn bach o win efo swper a ballu	NSNT	NSNT
+232, 3	1018, 1-10	ADD	*bill* gynno *Orange* yn fan yma de can punt union	NST	NST
+232, 4	1019, 1-11	ADD	sut mae nhw yn gallu llwyddo i gael can punt union	---	NSNT
+
+
+233, 1	1021, 1-5	BAR	*right* dw i am fynd	NST	NST
+233, 2	1021, 6-12	BAR	dw i am fynd ar yr e_bost	---	NSNT
+
+
+234, 1	1023, 1-2	ADD	iawn *sure*	---	NST
+
+
+235, 1	1024, 1-2	BAR	dan ni	NSNT	NSNT
+235, 2	1024, 3-6	BAR	bod wrthi awr eto	---	NSNT
+
+
+236, 1	1025, 1-1	ADD	*well*	---	NST
+
+
+237, 1	1026, 1-2	BAR	deugain munud	---	NSNT
+
+
+238, 1	1027, 1-3	ADD	dw i *sure*	NST	NST
+238, 2	1027, 4-7	ADD	bod ni yna bellach	---	NSNT
+
+
+239, 1	1029, 1-6	BAR	dan ni yn sychu fyny ia	NSNT	NSNT
+239, 2	1031, 1-6	BAR	well fi ddeud wrth *Marika* *yeah*	NST	NST

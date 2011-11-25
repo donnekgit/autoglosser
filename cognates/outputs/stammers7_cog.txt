@@ -1,0 +1,1292 @@
+
+
+1, 1	1, 1-14	ROY	dw i fel arfer yn wneud ryw gwasanaeth o hanner awr neu pedwar_deg munud	NSNT	NSNT
+1, 2	4, 1-6	ROY	dw ddim yn gwybod os dyna	NSNT	NSNT
+1, 3	4, 7-17	ROY	be mae nhw yn disgwyl am mod i yn mynd yno	NSNT	NSNT
+1, 4	5, 1-16	ROY	*well* o'n i yn mynd *er* i yr *um* ysgol yna rhyw un waith bob mis	NST	NST
+1, 5	5, 17-23	ROY	pan o'n i yn byw ym *Mhenygroes*	NST	NST
+1, 6	7, 1-20	ROY	ond *um* ers symud i fan yma dw ddim yn wneud nhw dim_ond ella bob tri mis rywbeth fel yna	NST	NST
+1, 7	9, 1-14	ROY	*um* ond dyna dyna yr *er* esiampl oedd *Dick* *Dixon* yn dangos i fi	NST	NST
+1, 8	11, 1-7	ROY	*so* dyna be dw i yn wneud	---	NST
+
+
+2, 1	12, 1-10	GWN	*well* os mai dyna be maen nhw yn disgwyl dyna	NST	NST
+2, 2	12, 11-15	GWN	be maen nhw yn disgwyl	NSNT	NSNT
+2, 4	15, 1-6	GWN	maen nhw yn deud wrtha fi	NSNT	NSNT
+2, 5	16, 1-7	GWN	ti yn gael deg munud chwarter awr	---	NSNT
+
+
+3, 1	18, 1-7	ROY	er mod i yn siarad fel arfer	NSNT	NSNT
+3, 3	18, 31-36	ROY	cân a dysgu adnod iddyn nhw	NSNT	NSNT
+3, 4	21, 1-8	ROY	a mae hynny yn cymryd rhyw tri_deg munud	---	NSNT
+
+
+4, 1	22, 1-8	GWN	dw i ddim yn wneud canu efo nhw	NSNT	NSNT
+4, 2	23, 1-8	GWN	maen nhw yn wneud canu yn yr ysgol	---	NSNT
+
+
+5, 1	24, 1-1	ROY	*uh_huh*	---	NST
+
+
+6, 1	26, 1-8	GWN	mae yna rhei pethau ti ddim yn cael	NSNT	NSNT
+6, 2	26, 9-9	GWN	does	NSNT	NSNT
+6, 3	27, 1-4	GWN	ti yn gorod bod	NSNT	NSNT
+6, 4	28, 1-9	GWN	ti ddim yn cael siarad yn plural nag wyt	NSNT	SNT
+6, 5	29, 1-5	GWN	ti yn gorod siarad am	NSNT	NSNT
+6, 6	30, 1-6	GWN	fel Cristion dw i yn credu	NSNT	NSNT
+6, 7	32, 1-1	GWN	dim	NSNT	NSNT
+6, 8	33, 1-4	GWN	dan ni yn credu	NSNT	NSNT
+6, 9	35, 1-1	GWN	neu	NSNT	NSNT
+6, 10	36, 1-4	GWN	dan ni yn addoli	NSNT	NSNT
+6, 11	37, 1-5	GWN	neu *um* pethau bach *odd*	NST	NST
+6, 12	38, 1-10	GWN	dydy o ddim gymaint â hyn ots yn yr ysgolion	NSNT	NSNT
+6, 13	38, 11-15	GWN	dw i yn mynd achos	NSNT	NSNT
+6, 14	38, 16-21	GWN	dw i yn nabod nhw anyway	SNT	SNT
+6, 15	39, 1-7	GWN	*so* fasen nhw ddim yn deud dim_byd	---	NST
+
+
+7, 1	41, 1-3	ROY	*yeah* a finnau	---	NST
+
+
+8, 1	42, 1-9	GWN	*um* a yr un peth yn yr ysgol uwchradd	NST	NST
+8, 2	43, 1-12	GWN	*um* dw i yn gorod mynd i wneud gwasanaeth ym mis Mai	NST	NST
+8, 3	44, 1-7	GWN	ond mae yr H_M_Is yr arolygwyr yna	NSNT	SNT
+8, 4	46, 1-7	GWN	*so* dw i yn mynd i gorod	NST	NST
+8, 5	46, 8-14	GWN	bod yn really gwatsiad allan am hynna	NSNT	SNT
+8, 6	48, 1-11	GWN	ond dydy yr athrawon ddim yn gwybod dim_byd am y peth	NSNT	NSNT
+8, 7	50, 1-7	GWN	*so* ddylsen nhw ddim wedi ddeud dim_byd	---	NST
+
+
+9, 1	53, 1-2	ROY	fel arfer	NSNT	NSNT
+9, 2	53, 3-19	ROY	dydy hynny ddim yn *broblem* i fi am mod i yn *just* deud *story* allan o Feibl	NST	NST
+9, 3	55, 1-7	ROY	*um* ond weithiau dw i yn gorod	NST	NST
+9, 4	55, 8-12	ROY	bod yn ofalus efo fo	NSNT	NSNT
+9, 5	57, 1-8	ROY	be ti wedi bod yn wneud heddiw yma	---	NSNT
+
+
+10, 1	58, 1-9	GWN	*um* dw i i fod yn cael day *off*	ST	ST
+10, 2	59, 1-9	GWN	ond mae gynna i loads o waith i wneud	NSNT	SNT
+10, 3	60, 1-8	GWN	*so* dw i ddim wedi cael day *off*	ST	ST
+10, 4	61, 1-6	GWN	wnes i gael lie_in bach heddiw	NSNT	SNT
+10, 5	62, 1-8	GWN	wnes i ddim codi tan tua half nine	SNT	SNT
+10, 6	63, 1-17	GWN	wedyn gwatsio *telly* am ychydig shower a newid a pethau *um* wneud cinio mynd i yr gwaith	NST	ST
+10, 7	64, 1-7	GWN	o'n i wedi gobeithio mynd i gym	SNT	SNT
+10, 8	65, 1-8	GWN	ond wnes i ddim cael *round* iddo fo	NST	NST
+10, 9	67, 1-13	GWN	wedyn dan ni yn wneud rhyw gwaith crefft yn y capel ar_gyfer Pasg	NSNT	NSNT
+10, 10	68, 1-3	GWN	wedyn dw i	NSNT	NSNT
+10, 11	68, 4-7	GWN	wedi bod yn *er*	NST	NST
+10, 12	69, 1-8	GWN	mae *auntie* fi yn mynd i yr capel	NST	NST
+10, 13	70, 1-7	GWN	mae hi yn helpu fi wneud hwnna	NSNT	NSNT
+10, 14	71, 1-11	GWN	*so* mae hi yn mwydro fi yn sôn am gwahanol *stuff*	NST	NST
+10, 15	71, 12-15	GWN	be mae yn isio	NSNT	NSNT
+10, 17	73, 1-4	GWN	mae yn really da	NSNT	SNT
+10, 18	74, 1-9	GWN	ond mae yn mynd i_mewn gormod o detail a	NSNT	SNT
+10, 19	75, 1-5	GWN	*so* mae mynd *lot* *er*	NST	NST
+10, 20	76, 1-12	GWN	pan dw i efo gymaint o waith i wneud wythnos yma amser	SNT	NSNT
+10, 21	78, 1-6	GWN	come on come on come on	SNT	NSNT
+10, 23	80, 1-9	GWN	wedyn oedd gynna i pwyllgor athrawon ysgol Sul *Felinheli*	---	NST
+
+
+11, 1	83, 1-11	ROY	dw i yn meddwl mod i yn nabod rhai ohonyn nhw	---	NSNT
+
+
+12, 1	84, 1-1	GWN	o	---	NSNT
+
+
+13, 1	85, 1-2	ROY	o *Felinheli*	NST	NST
+13, 2	87, 1-11	ROY	*yeah* am mod i *um* a mi es i *Llangrannog* dwywaith	---	NST
+
+
+14, 1	88, 1-2	GWN	*oh* *Anna*	---	NST
+
+
+15, 1	89, 1-1	ROY	*uh_huh*	ST	NST
+15, 2	92, 1-4	ROY	oedd hi yn gymeriad	---	NSNT
+
+
+16, 1	93, 1-3	GWN	dw ddim yn	NSNT	NSNT
+16, 2	93, 4-6	GWN	dw i meddwl	NSNT	NSNT
+16, 3	93, 7-13	GWN	dw i ddim yn gwybod fath â	NSNT	NSNT
+16, 4	94, 1-4	GWN	ond mae yn *sure*	NST	NST
+16, 5	94, 5-6	GWN	bod chdi	NSNT	NSNT
+16, 6	94, 7-15	GWN	wedi bod yn *Llangrannog* cyn i fi fynd yna	ST	NST
+16, 7	95, 1-8	GWN	because dw i ddim yn gweld chdi yna	NSNT	SNT
+16, 8	96, 1-9	GWN	wedyn maen nhw wedi newid *lot* o yr athrawon	NST	NST
+16, 9	97, 1-4	GWN	ond yn iawn de	---	NSNT
+
+
+17, 1	98, 1-14	ROY	isio dwy fil a ella dwy fil a thri a dwy fil a phedwar	---	NSNT
+
+
+18, 1	99, 1-3	GWN	*yeah* dw i	NST	NST
+18, 2	99, 4-14	GWN	wedi bod wedyn dwy fil a pump dwy fil a chwech	---	NSNT
+
+
+19, 1	100, 1-3	ROY	wnes i glywed	NSNT	NSNT
+19, 2	100, 4-11	ROY	bod *Bridget* wedi symud yn_ôl i yr de	NST	NST
+19, 3	101, 1-3	ROY	neu yn symud	NSNT	NSNT
+19, 4	103, 1-7	ROY	*uh_huh* mae hi yn gwerthu ei thŷ	---	NST
+
+
+20, 1	104, 1-6	GWN	o'n i ddim yn gwybod dim_byd	---	NSNT
+
+
+21, 1	105, 1-4	ROY	*hmm* *Al* wnaeth sôn	---	NST
+
+
+22, 1	106, 1-5	GWN	mae o yn drist really	SNT	SNT
+22, 2	106, 6-6	GWN	dydy	---	NSNT
+
+
+23, 1	107, 2-4	ROY	mae o yn	NSNT	NSNT
+23, 2	108, 1-7	ROY	oedd o yn dda cael hi yma	---	NSNT
+
+
+24, 1	110, 1-9	GWN	dw i ddim yn gweld hi yma ddim mwy	NSNT	NSNT
+24, 2	112, 1-8	GWN	dw i yn teimlo yn euog dylswn i	NSNT	NSNT
+24, 3	114, 1-2	GWN	dyna ni	NSNT	NSNT
+24, 4	115, 1-5	GWN	lle oedda chdi neithiwr ta	---	NSNT
+
+
+25, 1	116, 1-6	ROY	*um* es i capel gyda nos	NST	NST
+25, 2	117, 1-6	ROY	a wedyn daeth *Eddie* *Dixon* drosodd	NST	NST
+25, 3	118, 1-7	ROY	a wnes i cwcio bwyd iddo fo	SNT	NSNT
+25, 4	119, 1-1	ROY	fajitas	---	NSNT
+
+
+26, 1	120, 1-8	GWN	mae *Al* yn cael effaith drwg ar yr	---	NST
+
+
+27, 1	121, 2-4	ROY	oeddet ti yno	---	NSNT
+
+
+28, 1	122, 1-9	GWN	fi *Frankie* *Francis* *Julie* *Jones* a *Carol* a *Al*	NST	NST
+28, 3	124, 1-9	GWN	oedd o yn sgwrs bach da deud y gwir	---	NSNT
+
+
+29, 1	126, 1-2	ROY	o'n i	NSNT	NSNT
+29, 2	126, 3-6	ROY	o'n i yn glywed	NSNT	NSNT
+29, 3	126, 7-12	ROY	wnaeth o canu cân i chi	---	NSNT
+
+
+30, 1	129, 1-7	GWN	oedda chdi yn gorod canu hwnna hefyd	---	NSNT
+
+
+31, 1	130, 1-3	ROY	na o'n i	NSNT	NSNT
+31, 2	131, 1-7	ROY	a deud y gwir o'n i *er*	NST	NST
+31, 3	131, 8-10	ROY	o'n i yn	NSNT	NSNT
+31, 4	131, 11-23	ROY	o'n i yn chwilio ar y We bore yma am syniadau am wasanaeth	NSNT	NSNT
+31, 5	132, 1-8	ROY	a dyma fi yn dod dros y cân	NSNT	NSNT
+31, 6	133, 1-4	ROY	ac o'n i meddwl	NSNT	NSNT
+31, 7	134, 1-6	ROY	*oh* wna i wrando ar hwn	NST	NST
+31, 8	135, 1-11	ROY	a daeth *Al* i_fewn tra mod i yn gwrando arno fo	NST	NST
+31, 9	136, 1-3	ROY	ac yn deud	NSNT	NSNT
+31, 10	137, 1-8	ROY	*oh* o'n i yn dysgu hwnna fel plentyn	NST	NST
+31, 11	138, 1-8	ROY	ond *er* do'n i erioed wedi glywed o	---	NST
+
+
+32, 1	139, 1-1	GWN	mae	NSNT	NSNT
+32, 2	139, 2-3	GWN	cân yn	NSNT	NSNT
+32, 3	139, 5-11	GWN	mae yn gwneud i chdi gofio rywbeth	NSNT	NSNT
+32, 4	139, 12-12	GWN	dydy	---	NSNT
+
+
+33, 1	141, 1-3	ROY	yndy dyna pam	NSNT	NSNT
+33, 2	141, 4-12	ROY	dw i yn licio wneud nhw yn mewn gwasanaeth	---	NSNT
+
+
+34, 1	142, 1-10	GWN	be dw i yn licio yn gwasanaeth drwy yr amser	NSNT	NSNT
+34, 2	142, 12-28	GWN	ydy ti yn wneud *story* a ti yn deud *um* fel *story* Pedr cerdded ar y dŵr	NST	NST
+34, 3	143, 1-3	GWN	wnes i dyna	NSNT	NSNT
+34, 4	143, 4-9	GWN	be wnes i wneud tro dwytha	NSNT	NSNT
+34, 5	144, 1-7	GWN	a ti yn gael bowlen o ddŵr	NSNT	NSNT
+34, 6	145, 1-6	GWN	a ti yn deud wrthyn nhw	NSNT	NSNT
+34, 7	146, 1-12	GWN	*well* mae yr *story* heddiw yma am rywun yn cerdded ar dŵr	NST	NST
+34, 8	147, 1-4	GWN	basai rywun yn meddwl	NSNT	NSNT
+34, 9	147, 5-11	GWN	bod chi yn gallu cerdded ar dŵr	NSNT	NSNT
+34, 10	148, 1-3	GWN	wedyn fel arfer	NSNT	NSNT
+34, 11	148, 4-12	GWN	mae yna un neu ddau yn roi llaw fyny	NSNT	NSNT
+34, 12	149, 1-17	GWN	*so* ti yn cael nhw i ddod i_fyny a ddeud wrthyn nhw tynnu esgidiau a socks *off*	ST	ST
+34, 14	151, 1-4	GWN	a wedyn ti ddeud	NSNT	NSNT
+34, 15	152, 1-5	GWN	iawn ti meddwl fedri di	NSNT	NSNT
+34, 16	152, 6-9	GWN	roid un balansio un	NSNT	NSNT
+34, 17	152, 10-13	GWN	troed ar y dŵr	NSNT	NSNT
+34, 18	153, 1-1	GWN	medri	NSNT	NSNT
+34, 19	154, 1-6	GWN	fedri di wneud y troed arall	NSNT	NSNT
+34, 20	155, 1-1	GWN	fedri	NSNT	NSNT
+34, 21	156, 1-9	GWN	*oh* fedri di wneud y ddau efo ei gilydd	NST	NST
+34, 22	157, 1-8	GWN	a obviously dydyn nhw ddim yn gallu na	NSNT	SNT
+34, 23	158, 1-4	GWN	*so* ti yn ddeud	NST	NST
+34, 24	159, 1-7	GWN	*oh* mae yr *story* yma am rywun	NST	NST
+34, 25	159, 8-9	GWN	sydd yn	NSNT	NSNT
+34, 26	160, 1-18	GWN	a wedyn ti yn roid geiriau fel *um* Pedr rhwyfo gwynt ysbryd *um* i_gyd i_mewn yn y *story*	NST	NST
+34, 27	161, 1-9	GWN	a ti yn rhoid fath â *action* iddyn nhw	NST	NST
+34, 28	162, 1-7	GWN	*so* bob tro ti yn deud rhwyfo	NST	NST
+34, 29	162, 8-15	GWN	maen nhw gyd yn gorod mynd fel hyn	---	NSNT
+
+
+35, 1	163, 1-1	ROY	*uh_huh*	---	NST
+
+
+36, 1	164, 1-7	GWN	*um* bob tro ti yn deud rhwyfo	NST	NST
+36, 2	164, 8-14	GWN	maen nhw yn gorod mynd fel yna	NSNT	NSNT
+36, 3	165, 1-6	GWN	bob tro ti yn deud ysbryd	NSNT	NSNT
+36, 4	165, 7-10	GWN	maen nhw yn gorod	NSNT	NSNT
+36, 5	165, 11-13	GWN	bod yn ofn	---	NSNT
+
+
+37, 1	166, 1-1	ROY	*uh_huh*	---	NST
+
+
+38, 1	167, 1-16	GWN	a wedyn wrth i chdi fynd trwy yr *story* mae yr geiriau yma yn dod i_fyny	NST	NST
+38, 2	168, 1-8	GWN	*so* maen nhw yn gwrando ar y *story*	NST	NST
+38, 3	168, 9-17	GWN	a maen nhw yn cael rhan yno fo hefyd	NSNT	NSNT
+38, 4	170, 1-6	GWN	hwnna yn gweithio dda fel arfer	NSNT	NSNT
+38, 5	171, 1-7	GWN	a mae o yn *short* and *sweet*	ST	ST
+38, 6	172, 1-11	GWN	wedyn *so* mae hwnna yn para tua tua saith munud ella	NST	NST
+38, 7	173, 1-5	GWN	*um* maen nhw wedi wneud	NST	NST
+38, 8	173, 6-12	GWN	cân yn fel arfer yn y dechrau	NSNT	NSNT
+38, 9	174, 1-7	GWN	a wedyn pan dw i yn gweddïo	NSNT	NSNT
+38, 10	174, 8-13	GWN	dw i fel arfer yn gofyn	NSNT	NSNT
+38, 11	175, 1-11	GWN	oes yna rywbeth yn mynd ymlaen yn yr ysgol heddiw yma	NSNT	NSNT
+38, 12	176, 1-4	GWN	a wedyn timod fel	NSNT	NSNT
+38, 13	176, 5-9	GWN	arfer yn ysgol yn ysgol	NSNT	NSNT
+38, 14	176, 10-13	GWN	dw i yn mynd	NSNT	NSNT
+38, 15	176, 14-23	GWN	mae yna un o yr dosbarthiadau yn mynd am *trip*	NST	NST
+38, 16	176, 24-35	GWN	neu mae yna rhei o yr plant yn rywle neu ddim yma	NSNT	NSNT
+38, 17	176, 36-41	GWN	maen nhw yn deud rhei eraill	NSNT	NSNT
+38, 18	176, 42-44	GWN	sy yn sâl	NSNT	NSNT
+38, 19	176, 45-62	GWN	neu mae un o yr athrawon yn disgwyl babi a pethau wedyn roi hwnna mewn yn y gweddi	NSNT	NSNT
+38, 20	178, 1-7	GWN	wedyn roi hwnna mewn yn y gweddi	---	NSNT
+
+
+39, 1	180, 1-5	ROY	mae hynny yn syniad da	---	NSNT
+
+
+40, 1	181, 1-8	GWN	*um* wedyn maen nhw yn gwrando wedyn achos	NST	NST
+40, 2	181, 9-14	GWN	maen nhw yn clywed am pobl	NSNT	NSNT
+40, 3	181, 15-17	GWN	maen nhw nabod	NSNT	NSNT
+40, 4	181, 18-18	GWN	dydy	---	NSNT
+
+
+41, 1	182, 1-1	ROY	*uh_huh*	ST	NST
+41, 2	185, 1-6	ROY	mae hynny yn syniad da iawn	---	NSNT
+
+
+42, 1	187, 1-5	GWN	ond mae yn *bity* really	ST	ST
+42, 2	188, 1-6	GWN	achos dw i yn enjoio mynd	NSNT	NSNT
+42, 3	189, 1-5	GWN	a dw i yn meddwl	NSNT	NSNT
+42, 4	189, 6-11	GWN	maen nhw licio cael fi yna	NSNT	NSNT
+42, 5	190, 1-13	GWN	ond maen nhw dim_ond yn wneud gwasanaeth i yr ysgol unwaith bob wythnos	NSNT	NSNT
+42, 6	192, 1-10	GWN	a mae yr gwahanol dosbarthiadau yn cymryd rhan yn hwnna	NSNT	NSNT
+42, 7	194, 1-4	GWN	*so* mae hwnna mynd	NST	NST
+42, 8	195, 1-11	GWN	*so* does yna dim_ond ella dau neu tri Sul y flwyddyn	NST	NST
+42, 9	195, 12-21	GWN	lle maen nhw yn gallu gofyn i rywun mynd i_mewn	NSNT	NSNT
+42, 10	197, 1-3	GWN	dw i *just*	---	NST
+
+
+43, 1	198, 1-7	ROY	be dau neu tri gwaith pob blwyddyn	---	NSNT
+
+
+44, 1	199, 1-10	GWN	*so* dw i yn trio perswadio cael fi mewn bob	NST	NST
+44, 2	199, 11-11	GWN	tro	NSNT	NSNT
+44, 3	203, 1-5	GWN	wedyn dw i yn cael	NSNT	NSNT
+44, 4	203, 6-9	GWN	dw i ddim yn	NSNT	NSNT
+44, 5	203, 10-19	GWN	dw i wedi dechrau mynd i yr ysgol uwchradd wan	NSNT	NSNT
+44, 6	204, 1-6	GWN	*so* mae hwnna beth eitha da	NST	NST
+44, 7	205, 1-13	GWN	wnes i wneud gwasanaeth i yr chweched dosbarth ychydig yn_ôl *um* ar *U_Two*	---	NST
+
+
+45, 1	207, 1-1	ROY	*U_Two*	---	NST
+
+
+46, 1	208, 1-1	GWN	*I_still_haven't_found_what_I'm_looking_for*	ST	NST
+46, 2	210, 1-10	GWN	yn gwrando ar y cân a wedyn deud fel Cristion	NSNT	NSNT
+46, 3	210, 11-19	GWN	mae pobl yn meddwl ti yn dod yn Gristion	NSNT	NSNT
+46, 4	210, 20-25	GWN	a mae bywyd chdi yn hunky_dory	SNT	SNT
+46, 5	210, 26-30	GWN	a mae bob_dim yn *nice*	NST	NST
+46, 6	211, 1-10	GWN	a wedyn o'n i yn dangos fel *slides* o *um*	NST	NST
+46, 7	211, 11-27	GWN	timod yr bombings yn Llundain ar y *bus* *um* a newyn a rhyfel a marwolaeth a pethau	NST	ST
+46, 8	212, 1-6	GWN	a wedyn o'n i yn deud	NSNT	NSNT
+46, 9	212, 7-23	GWN	timod fel Cristion ti yn edrych ar y pethau fel yna a ti ddim yn gallu deud	NSNT	NSNT
+46, 10	212, 24-32	GWN	bod chdi wedi ffeindio be ti yn chwilio am	NSNT	NSNT
+46, 11	213, 1-5	GWN	achos mae pethau fel yna	NSNT	NSNT
+46, 12	213, 6-15	GWN	pan mae ffydd a dod yn Gristion yn yn daith	NSNT	NSNT
+46, 13	214, 1-7	GWN	*so* hwnna ydy yr dechrau yr daith	NST	NST
+46, 14	215, 1-11	GWN	a mae yna pethau eraill ti ddim yn hapus efo nhw	NSNT	NSNT
+46, 15	216, 1-4	GWN	ond mae yr daith	NSNT	NSNT
+46, 16	217, 1-8	GWN	ti yn cyrraedd ar y ddiwedd yr amser	NSNT	NSNT
+46, 17	218, 1-8	GWN	*so* ti yn ddod yn nes at Dduw	NST	NST
+46, 18	219, 1-7	GWN	ti yn dod yn fwy fel Iesu_Grist	NSNT	NSNT
+46, 19	220, 1-12	GWN	a ti yn mynd yn hapusach am dy sefyllfa di bob tro	NSNT	NSNT
+46, 20	221, 1-6	GWN	ond mae yn dal cario ymlaen	NSNT	NSNT
+46, 21	223, 1-5	GWN	*so* yn gweithio yn eitha	NST	NST
+46, 22	224, 1-10	GWN	ac mae gwasanaeth fel yna yn eitha perthnasol iddyn nhw	NSNT	NSNT
+46, 23	225, 1-11	GWN	ond dydy o ddim yn *um* rhy in your face fel	NST	ST
+46, 24	225, 12-16	GWN	bod yr athrawon yn dychryn	NSNT	NSNT
+46, 25	227, 1-3	GWN	maen nhw yn	NSNT	NSNT
+46, 26	228, 1-6	GWN	er wnaeth yr athrawes bytio mewn	NSNT	NSNT
+46, 27	228, 7-18	GWN	a roid ryw humanist *um* *thing* iddo fo *er* ar_ôl fi orffen	---	ST
+
+
+47, 1	229, 1-4	ROY	do be ar_ôl o	NSNT	NSNT
+47, 2	230, 1-3	ROY	ar_ôl gorffen o	---	NSNT
+
+
+48, 1	231, 1-2	GWN	ond timod	NSNT	NSNT
+48, 2	231, 3-5	GWN	wnaeth hi ddeud	NSNT	NSNT
+48, 3	233, 1-7	GWN	*oh* da iawn diolch yn fawr iawn	NST	NST
+48, 4	234, 1-9	GWN	*um* *so* raid ni gofio mai taith ydy bywyd	NST	NST
+48, 5	235, 1-2	GWN	a pethau	NSNT	NSNT
+48, 6	237, 1-5	GWN	ac o'n i yn meddwl	NSNT	NSNT
+48, 7	238, 1-8	GWN	*well* na dan ni ddim yn deud hynna	NST	NST
+48, 8	239, 1-4	GWN	o'n i yn deud	NSNT	NSNT
+48, 9	241, 1-4	GWN	taith ydy bywyd Cristnogol	SNT	NSNT
+48, 10	242, 1-6	GWN	dead_end journey ydy bywyd fel arall	NSNT	SNT
+48, 11	244, 1-8	GWN	ond dan ni ddim yn cael deud hynna	NSNT	NSNT
+48, 12	244, 9-12	GWN	*so* wnes i ddim	NST	NST
+48, 13	246, 1-3	GWN	*so* dyna ni	NST	NST
+48, 14	247, 1-6	GWN	timod gobeithio ga i fynd yn_ôl	NSNT	NSNT
+48, 15	249, 1-4	GWN	maen nhw yn gorod	NSNT	NSNT
+48, 16	250, 1-2	GWN	a maen	NSNT	NSNT
+48, 17	250, 3-15	GWN	a maen nhw fath athrawon yn eitha yn enwedig yn yr ysgol uwchradd	NSNT	NSNT
+48, 18	251, 1-11	GWN	*um* *well* dan ni ddim wedi cael neb i_mewn yn siarad	NST	NST
+48, 19	252, 1-8	GWN	*so* dan ni yn trio boost_io fyny hynna	NST	ST
+48, 20	254, 1-6	GWN	iawn fydd roi rywbeth iddyn nhw	NSNT	NSNT
+48, 21	254, 7-8	GWN	roid i_lawr	---	NSNT
+
+
+49, 1	255, 1-1	ROY	*uh_huh*	---	NST
+
+
+50, 1	256, 1-8	GWN	mae yn excuse i fi gael mynd yna	NSNT	SNT
+50, 2	256, 9-9	GWN	dydy	NSNT	NSNT
+50, 3	258, 1-3	GWN	a tro nesa	NSNT	NSNT
+50, 4	258, 4-13	GWN	dw i yn mynd achos bod yna H_M_Is yna *so*	---	ST
+
+
+51, 1	259, 1-1	ROY	*uh_huh*	---	NST
+
+
+52, 1	260, 1-3	GWN	mae hynna yn	---	NSNT
+
+
+53, 1	261, 1-3	ROY	be ydy H_M_I	NSNT	SNT
+53, 2	262, 1-3	ROY	Her Majesty's Inspectors	---	NSNT
+
+
+54, 1	265, 1-7	GWN	*so* maen nhw yn tsiecio yr ysgol	NST	NST
+54, 2	267, 1-8	GWN	*um* yn gwneud yn *sure* bod o yn	NST	NST
+54, 3	268, 1-8	GWN	*so* fydd hynna yn eitha profiad o ran	NST	NST
+54, 4	269, 1-4	GWN	ond mae yr ddynes	NSNT	NSNT
+54, 5	269, 5-9	GWN	sy wedi gofyn i fi	NSNT	NSNT
+54, 6	270, 1-5	GWN	*er* mae hi yn athrawes	NST	NST
+54, 7	271, 1-9	GWN	mae hi yn aelod yn y capel ti weld	NSNT	NSNT
+54, 8	272, 1-8	GWN	*so* wnes i ddeud wrth hi yn syth	NST	NST
+54, 9	273, 1-6	GWN	*well* fydd raid fi watsiad felly	NST	NST
+54, 10	274, 1-6	GWN	achos mae yna pethau am gwasanaethau	NSNT	NSNT
+54, 11	274, 7-18	GWN	dach chi ddim yn cael deud a pethau o ran safbwynt o	NSNT	NSNT
+54, 12	275, 1-5	GWN	wna i wneud yn *sure*	NST	NST
+54, 13	275, 6-8	GWN	bod fi yn	NSNT	NSNT
+54, 14	278, 1-12	GWN	timod achos ti yn gallu iwsio fo fel *just* mynd yna deud	NST	NST
+54, 15	278, 13-13	GWN	dwyt	NSNT	NSNT
+54, 16	279, 1-10	GWN	ond os dyn nhw ddim yn deud dim_byd nag yn	NSNT	NSNT
+54, 17	280, 1-4	GWN	os ti yn gofyn	NSNT	NSNT
+54, 18	281, 1-6	GWN	be dw i yn cael deud	NSNT	NSNT
+54, 19	282, 1-8	GWN	a be dw i ddim yn cael ddeud	NSNT	NSNT
+54, 20	283, 1-15	GWN	a dyn nhw ddim yn deud dim_byd basa chdi gallu mynd mewn a deud rywbeth	NSNT	NSNT
+54, 21	285, 1-12	GWN	ond mae yn well ti yn gael cyfle i ddod yn_ôl wedyn	NSNT	NSNT
+54, 22	288, 1-1	GWN	gobeithio	NSNT	NSNT
+54, 23	290, 1-10	GWN	a dw i yn dechrau clwb plant yn *um* *Abergwyngregyn*	---	NST
+
+
+55, 1	291, 1-1	ROY	yn_dwyt	---	NSNT
+
+
+56, 1	292, 1-2	GWN	nos yfory	NSNT	NSNT
+56, 2	293, 1-2	GWN	un newydd	NSNT	NSNT
+56, 3	294, 1-5	GWN	*so* be wnaethon ni gael	NST	NST
+56, 4	294, 6-9	GWN	oedd fath â ryw	---	NSNT
+
+
+57, 1	296, 1-6	ROY	be gen gen ti capel yno	---	NSNT
+
+
+58, 1	299, 1-6	GWN	does yna ddim *lot* yn mynd	---	NST
+
+
+59, 1	300, 1-5	ROY	dim_ond un o yr saith	---	NSNT
+
+
+60, 1	301, 1-1	GWN	tri	NSNT	NSNT
+60, 2	302, 1-4	GWN	tri sy gynnof fi	---	NSNT
+
+
+61, 1	303, 1-1	ROY	tri	---	NSNT
+
+
+62, 1	304, 1-9	GWN	*um* ond *um* does yna ddim *lot* yn mynd	NST	NST
+62, 2	305, 1-11	GWN	a maen nhw gyd yn hen really heblaw am un teulu	NSNT	SNT
+62, 3	306, 1-8	GWN	a maen nhw yn really da chwarae teg	NSNT	SNT
+62, 4	307, 1-11	GWN	*um* wedyn mae *mam* yr teulu yna yn yn helpu fi	NST	NST
+62, 5	309, 1-2	GWN	a wedyn	---	NSNT
+
+
+63, 1	310, 1-9	ROY	dyna lle dyna lle oedd y hen llys *Llewelyn*	---	NST
+
+
+64, 1	311, 1-5	GWN	*yeah* maen nhw yn deud	NST	NST
+64, 2	312, 1-7	GWN	ond oedd y darlithydd fi yn deud	NSNT	NSNT
+64, 3	312, 8-11	GWN	mae hwnna yn rwtsh	NSNT	NSNT
+64, 4	313, 1-6	GWN	doedd o ddim yna go iawn	---	NSNT
+
+
+65, 1	314, 1-4	ROY	oedd ar y teledu	---	NSNT
+
+
+66, 1	315, 1-3	GWN	*yeah* dw i	NST	NST
+66, 2	315, 4-8	GWN	ond mae darlithydd fi *er*	NST	NST
+66, 4	317, 1-10	GWN	*Griff* *Griffiths* oedd yn darlith i fi yn hanes Cymru	---	NST
+
+
+67, 1	318, 1-1	ROY	*uh_huh*	---	NST
+
+
+68, 1	319, 1-7	GWN	a fo ydy main man hanes Cymru	NSNT	SNT
+68, 2	321, 1-4	GWN	fo ydy yr chief	SNT	SNT
+68, 3	322, 1-10	GWN	*so* dw i yn coelio fo mwy na neb arall	NST	NST
+68, 4	324, 1-7	GWN	*um* a wedyn *yeah* *so* mae yn	NST	NST
+68, 5	324, 8-9	GWN	mae yn	NSNT	NSNT
+68, 6	324, 10-14	GWN	mae yn gyfle bach da	NSNT	NSNT
+68, 7	325, 1-2	GWN	dan ni	NSNT	NSNT
+68, 8	325, 3-14	GWN	wedi bod *round* y pentre yn roi flyers a pethau cyn Dolig	NST	ST
+68, 9	326, 1-10	GWN	*um* a wnaeth yna pump troi fyny a rhieni nhw	NST	NST
+68, 10	327, 1-5	GWN	*so* oedd hynna yn dda	NST	NST
+68, 11	329, 1-5	GWN	a wedyn wnaeth o hynna	NSNT	NSNT
+68, 12	329, 6-9	GWN	oedden nhw yn deud	NSNT	NSNT
+68, 13	329, 10-23	GWN	bod nhw yn cael ryw fath o children's day of fun yn y pentre	NSNT	SNT
+68, 14	330, 1-6	GWN	*um* a wedyn wnes i ddeud	NST	NST
+68, 15	331, 1-5	GWN	*well* dach chi isio *help*	NST	NST
+68, 16	332, 1-16	GWN	*so* wnes i fynd i fod yn Sion_Corn a *um* wneud ychydig o *games* a pethau	---	NST
+
+
+69, 1	333, 1-2	ROY	*oh* *cool*	---	NST
+
+
+70, 1	334, 1-10	GWN	*so* dw i wedi dod i nabod y pobl ychydig	NST	NST
+70, 2	335, 2-4	GWN	maen nhw yn	NSNT	NSNT
+70, 3	336, 1-10	GWN	a dw i wedi wneud rywbeth iddyn nhw am *free*	NST	NST
+70, 4	337, 1-11	GWN	*so* gobeithio fydden nhw yn ddechrau ddod i yr *club* plant	NST	NST
+70, 5	338, 1-18	GWN	wedyn dan ni yn mynd i wneud cardiau Dydd Sul y Mamau efo nhw ac ychydig o *games*	---	NST
+
+
+71, 1	339, 1-2	ROY	syniad da	NSNT	NSNT
+71, 2	340, 1-3	ROY	pryd mae hwnna	---	NSNT
+
+
+72, 1	341, 1-1	GWN	be	NSNT	NSNT
+72, 2	342, 1-2	GWN	y *club*	---	NST
+
+
+73, 1	343, 1-4	ROY	Dydd Sul y Mamau	---	NSNT
+
+
+74, 1	344, 1-4	GWN	wythnos i dydd Sul	---	NSNT
+
+
+75, 1	345, 1-8	ROY	ti wybod bod o yn wahanol yn *America*	NST	NST
+75, 2	347, 2-5	ROY	mae yn mis Mai	SNT	NSNT
+75, 4	350, 1-1	ROY	*uh_huh*	---	NST
+
+
+76, 1	351, 1-1	GWN	pam	---	NSNT
+
+
+77, 1	352, 1-8	ROY	yr ail neu trydydd Sul ym mis Mai	---	NSNT
+
+
+78, 1	353, 1-17	GWN	mae o yn fath â yn bron yn rhan o yr *calendar* Cristnogol yn y gwlad yma	NST	NST
+78, 2	355, 1-12	GWN	yn y gwaith dan ni yn wneud ar y Pasg crefft wan	NSNT	NSNT
+78, 3	355, 13-16	GWN	mae hwnna yn rhan	NSNT	NSNT
+78, 5	357, 1-8	GWN	Dydd Iau Cablyd ydy Iau y Swper Olaf	NSNT	NSNT
+78, 6	358, 1-7	GWN	Dydd_Gwener_Groglith ac Dydd Sul yr *um* Atgyfodiad	NST	NST
+78, 7	360, 1-1	GWN	wedyn	NSNT	NSNT
+78, 8	361, 1-6	GWN	mae hynna yn rhyfedd hefyd *yeah*	NST	NST
+78, 9	361, 7-9	GWN	bod o yn	NSNT	NSNT
+78, 10	362, 1-6	GWN	be dach chi yn galw o	---	NSNT
+
+
+79, 1	363, 1-2	ROY	*er* Mother's_Day	---	NST
+
+
+80, 1	364, 1-5	GWN	Mothering_Sunday dw i yn meddwl	NSNT	SNT
+80, 2	364, 6-12	GWN	maen nhw yn galw fo yn Lloegr	---	NSNT
+
+
+81, 1	366, 1-7	ROY	mae Father's_Day yr un peth yn *America*	---	ST
+
+
+82, 1	367, 1-5	GWN	dw i ddim yn gwybod	NSNT	NSNT
+82, 2	367, 6-11	GWN	pryd mae Father's_Day yn wlad yma	---	SNT
+
+
+83, 1	368, 2-2	ROY	mae	NSNT	NSNT
+83, 2	368, 3-7	ROY	mae o yr un peth	NSNT	NSNT
+83, 3	370, 1-3	ROY	ym mis Mehefin	NSNT	NSNT
+83, 4	371, 1-5	ROY	*so* os dw i isio	NST	NST
+83, 5	371, 6-11	ROY	os dw i isio prynu cerdyn	NSNT	NSNT
+83, 6	371, 12-16	ROY	bydd rhaid wneud o cyn	---	NSNT
+
+
+84, 1	372, 1-2	GWN	dydd Sul	NSNT	NSNT
+84, 2	374, 1-2	GWN	i gael	---	NSNT
+
+
+85, 1	375, 1-5	ROY	bydd dim un ar gael	SNT	NSNT
+85, 2	377, 1-15	ROY	*oh* no *well* unwaith am mod i yn byw ym *Mhenygroes* ac oedd y postmaster	ST	ST
+85, 3	378, 1-4	ROY	fo oedd *landlord* fi	NST	NST
+85, 4	379, 1-5	ROY	*so* es i ato fo	NST	NST
+85, 5	380, 1-6	ROY	ac oedd gynno fo rhai sbâr	NSNT	NSNT
+85, 6	381, 1-5	ROY	*so* ges i un yno	NST	NST
+85, 7	382, 1-7	ROY	dw i meddwl na *mmm* blwyddyn diwetha	NST	NST
+85, 8	382, 8-11	ROY	wnes i colli o	NSNT	NSNT
+85, 9	383, 1-5	ROY	*so* fydd rhaid gwneud un	---	NST
+
+
+86, 1	385, 1-10	GWN	pa mor aml wyt ti yn ffonio adre a pethau	---	NSNT
+
+
+87, 1	386, 1-6	ROY	*er* trio ffonio *Mam* bob wythnos	NST	NST
+87, 2	387, 1-12	ROY	ond mae o yn gweithio allan i ryw bob wsnos bob bythefnos	NSNT	NSNT
+87, 3	389, 1-3	ROY	a dwy chwaer	NSNT	NSNT
+87, 4	390, 1-14	ROY	*mmm* dw i yn siarad efo hyna yn mwy aml na yr un iau	NST	NST
+87, 5	391, 1-6	ROY	ella bob pythefnos rywbeth fel yna	---	NSNT
+
+
+88, 1	392, 1-6	GWN	be maen nhw yn meddwl o	NSNT	NSNT
+88, 2	392, 7-14	GWN	bod chdi yn byw yn fan yma ta	---	NSNT
+
+
+89, 1	393, 1-4	ROY	*um* *Mam* yn ngholli	NST	NST
+89, 2	394, 1-7	ROY	a dw i yn gallu dallt hynny	NSNT	NSNT
+89, 3	396, 1-4	ROY	*um* mae chwaer hyna	NST	NST
+89, 4	396, 5-9	ROY	mae hi yn gefnogol iawn	NSNT	NSNT
+89, 5	397, 1-7	ROY	mae hi yn *right* falch ohona i	NST	NST
+89, 6	398, 1-6	ROY	a yr *um* yr un iau	NST	NST
+89, 7	399, 2-4	ROY	mae hi yn	NSNT	NSNT
+89, 8	399, 5-8	ROY	mae hi yn gefnogol	NSNT	NSNT
+89, 9	400, 1-10	ROY	ond *er* ella hi dim cymaint â yr chwaer arall	---	NST
+
+
+90, 1	401, 1-8	GWN	dyn nhw wedi dod drosodd i weld chdi	---	NSNT
+
+
+91, 1	402, 1-4	ROY	na yn anffodus na	NSNT	NSNT
+91, 2	403, 1-10	ROY	chwaer hyna wedi bod yn sôn amdano fo am blynyddoedd	NSNT	NSNT
+91, 3	404, 1-13	ROY	ond *um* wnaeth *stuff* dod fel teulu hi yn mynd ar y ffordd	NST	NST
+91, 4	405, 1-1	ROY	oedden	NSNT	NSNT
+91, 5	405, 2-9	ROY	oedden nhw yn bwriadu wneud o haf diwetha	NSNT	NSNT
+91, 6	406, 1-11	ROY	ond dyma nhw yn ffeindio allan oedd hi yn feichiog eto	NSNT	NSNT
+91, 7	407, 1-5	ROY	*so* wnaeth hynny sbwylio hwnna	---	NST
+
+
+92, 1	409, 1-5	GWN	o'n i ddim yn gwybod	NSNT	NSNT
+92, 2	409, 6-10	GWN	bod chdi yn *Uncle* *Roy*	---	NST
+
+
+93, 1	410, 1-1	ROY	yndw	NSNT	NSNT
+93, 2	411, 1-4	ROY	pedwar a bydd un	NSNT	NSNT
+93, 3	411, 5-10	ROY	mae un arall ar y ffordd	---	NSNT
+
+
+94, 1	412, 1-5	GWN	ydy efo pump o blant	NSNT	NSNT
+94, 2	412, 6-11	GWN	neu ydy yr llall efo rei	---	NSNT
+
+
+95, 1	413, 1-4	ROY	mae un efo pedwar	NSNT	NSNT
+95, 2	414, 1-10	ROY	a mae llall yn mynd i cael ei un cynta	---	NSNT
+
+
+96, 1	416, 1-10	GWN	ti yn faint o weithiau ti wedi gweld y plant	---	NSNT
+
+
+97, 1	417, 1-3	ROY	*lot* o weithiau	ST	NST
+97, 2	419, 1-1	ROY	*uh_huh*	ST	NST
+97, 3	420, 1-13	ROY	gaeth *um* gaeth y hyna ei geni ella pan o'n i yn prifysgol	NST	NST
+97, 4	421, 1-9	ROY	*so* mae mwy anodd rwan i mi byw yma	NST	NST
+97, 5	422, 1-4	ROY	ond pan o'n yn	NSNT	NSNT
+97, 6	422, 5-11	ROY	pan o'n i yn byw yn *America*	NST	NST
+97, 7	422, 12-23	ROY	o'n i yn gweld nhw ryw ella unwaith pob blwyddyn neu dwywaith	NSNT	NSNT
+97, 8	424, 1-13	ROY	am mod i yn byw yn *Texas* a nhw yn byw yn *Florida*	NST	NST
+97, 9	425, 1-4	ROY	gŵr hi o *Florida*	NST	NST
+97, 10	426, 1-15	ROY	ond mae hi wedi cael dau arall *mmm* ers i mi symud tramor dros môr	---	NST
+
+
+98, 1	427, 1-5	GWN	lle mae *Ali* heno ta	---	NST
+
+
+99, 1	428, 1-3	ROY	yn y swyddfa	---	NSNT
+
+
+100, 1	429, 1-1	GWN	yn	---	NSNT
+
+
+101, 1	430, 1-2	ROY	y swyddfa	---	NSNT
+
+
+102, 1	431, 1-4	GWN	lle mae yr swyddfa	---	NSNT
+
+
+103, 1	432, 1-7	ROY	*er* y swyddfa *er* ystafell gwaith ni	NST	NST
+103, 2	434, 1-5	ROY	ti heb wedi gweld o	---	NSNT
+
+
+104, 1	438, 1-6	GWN	trefnu yr briodas mae yn *sure*	---	NST
+
+
+105, 1	439, 1-3	ROY	mae yn *sure*	---	NST
+
+
+106, 1	440, 1-2	GWN	chwarae teg	---	NSNT
+
+
+107, 1	441, 1-11	ROY	gynno fo *brochure* am ella cael rhyw rywbeth i mis mêl	---	NST
+
+
+108, 1	444, 1-6	GWN	mae hynna yn typical *Al* actually	ST	ST
+108, 2	445, 1-5	GWN	trefnu fo yn iawn dydy	NSNT	NSNT
+108, 4	447, 1-5	GWN	os dw i yn priodi	NSNT	NSNT
+108, 5	447, 6-9	GWN	fydda i *just* fel	ST	NST
+108, 6	448, 1-2	GWN	*oh* whatever	---	NST
+
+
+109, 1	450, 1-10	ROY	ti ddim isio gadael o tan y tan munud ola	---	NSNT
+
+
+110, 1	451, 1-6	GWN	*right* pwy ydy yr best_man o	ST	ST
+110, 2	452, 1-1	GWN	*Brian*	---	NST
+
+
+111, 1	453, 1-3	ROY	mae yn *sure*	---	NST
+
+
+112, 1	454, 1-7	GWN	*Brian* yn trefnu yr stag do felly	NST	ST
+112, 2	455, 1-10	GWN	dw i yn mynd ar stag do yn mis Medi	NSNT	SNT
+112, 3	456, 1-2	GWN	mae *um*	NST	NST
+112, 4	457, 1-5	GWN	ti wedi cyfarfod *Humph* *Humphreys*	---	NST
+
+
+113, 1	458, 1-10	ROY	*er* dw ddim yn meddwl mod i yn nabod o	---	NST
+
+
+114, 1	459, 1-5	GWN	mae o yn engaged wan	NSNT	SNT
+114, 2	460, 1-5	GWN	wedyn mae o yn priodi	NSNT	NSNT
+114, 3	461, 1-7	GWN	ond mae yn priodi fath â Pasg	NSNT	NSNT
+114, 4	461, 8-8	GWN	nesa	NSNT	NSNT
+114, 5	462, 1-13	GWN	ond *um* dan ni yn mynd i weld y *rugby* World_Cup yn *Ffrainc*	NST	ST
+114, 6	464, 1-5	GWN	weld Cymru yn erbyn *Canada*	---	NST
+
+
+115, 1	465, 1-1	ROY	*cool*	---	NST
+
+
+116, 1	466, 1-8	GWN	*so* mae yna *gang* o ni yn mynd	---	NST
+
+
+117, 1	467, 1-5	ROY	ti wedi cael tocynnau eto	---	NSNT
+
+
+118, 1	468, 1-5	GWN	na maen nhw yn trefnu	NSNT	NSNT
+118, 2	469, 1-6	GWN	*so* dw i yn meddwl un_ai	NST	NST
+118, 3	470, 1-10	GWN	os dyn nhw yn gallu cael tocynnau i ni gyd	NSNT	NSNT
+118, 4	470, 11-14	GWN	dan ni yn mynd	---	NSNT
+
+
+119, 1	471, 1-1	ROY	*uh_huh*	---	NST
+
+
+120, 1	472, 1-9	GWN	os dyn nhw yn dim_ond yn gallu cael rhei	NSNT	NSNT
+120, 2	472, 10-13	GWN	dan ni ddim yn	NSNT	NSNT
+120, 3	472, 14-14	GWN	boddran	NSNT	NSNT
+120, 4	473, 1-15	GWN	dan ni *just* yn mynd i fynd yna a gweld cael yr atmosphere a pethau	---	ST
+
+
+121, 1	474, 1-1	ROY	*uh_huh*	ST	NST
+121, 2	476, 1-9	ROY	*oh* be a gwatsiad o mewn *pub* neu rywbeth	NST	NST
+121, 4	480, 1-6	ROY	gyrru lawr byddech chi ta fflio	---	NSNT
+
+
+122, 1	481, 1-5	GWN	dw i ddim yn gwybod	NSNT	NSNT
+122, 2	482, 1-5	GWN	*well* dw i ddim yn	NST	NST
+122, 3	483, 1-6	GWN	dw i *just* gadael nhw trefnu	NST	NST
+122, 4	485, 1-6	GWN	dydy o ddim ots gynnof fi	---	NSNT
+
+
+123, 1	486, 1-11	ROY	mae *Dick* yn mynd i Lydaw dros y penwythnos efo gwaith	NST	NST
+123, 2	487, 1-7	ROY	baswn i yn licio mynd efo fo	NSNT	NSNT
+123, 3	488, 1-8	ROY	ond mae *passport* fi wedi mynd i Lerpwl	NST	NST
+123, 4	490, 1-9	ROY	*yeah* a dw i yn methu cael o yn_ôl	NST	NST
+123, 5	491, 1-4	ROY	i yr *um* Home_Office	ST	ST
+123, 6	492, 1-1	ROY	*so*	---	NST
+
+
+124, 1	493, 1-2	GWN	pam chdi	NSNT	NSNT
+124, 2	494, 1-5	GWN	*oh* efo citizenship chdi neu	---	ST
+
+
+125, 1	496, 1-2	ROY	ond *er*	---	NST
+
+
+126, 1	497, 1-10	GWN	ti yn gorod wneud ryw fath â pledge o allegiance	---	SNT
+
+
+127, 1	498, 1-1	ROY	bydd	---	NSNT
+
+
+128, 1	499, 1-5	GWN	i yr *Queen* neu rywbeth	NST	NST
+128, 2	501, 1-2	GWN	da iawn	---	NSNT
+
+
+129, 1	503, 1-9	ROY	dw i yn cael wneud o yn y Cymraeg	NSNT	NSNT
+129, 2	504, 1-4	ROY	bydd o ym *Mangor*	NST	NST
+129, 3	504, 5-7	ROY	dw i meddwl	SNT	NSNT
+129, 4	506, 1-1	ROY	*uh_huh*	ST	NST
+129, 5	507, 1-2	ROY	a mae	NSNT	NSNT
+129, 6	507, 3-10	ROY	mae yn mynd i cymryd ryw pedair mis	---	NSNT
+
+
+130, 1	508, 1-15	GWN	oeddech chi yn gorod wneud pledge o allegiance yn ysgol a pethau yn y bore	---	SNT
+
+
+131, 1	509, 1-1	ROY	o'n	---	NSNT
+
+
+132, 1	510, 1-1	GWN	oeddech	---	NSNT
+
+
+133, 1	511, 1-1	ROY	*uh_huh*	ST	NST
+133, 2	512, 1-1	ROY	o'n	---	NSNT
+
+
+134, 1	513, 1-3	GWN	be ydy o	---	NSNT
+
+
+135, 1	514, 1-6	ROY	*um* *just* ryw beth rywbeth i	---	NST
+
+
+136, 1	515, 1-7	GWN	na be ydy yr geiriau yno fo	---	NSNT
+
+
+137, 1	517, 1-18	ROY	I pledge allegiance to the *flag* of the *United* States of *America* and to the republic for which	NST	NST
+137, 2	517, 19-27	ROY	it stands one nation under God with liberty indivisible	NSNT	NSNT
+137, 3	518, 1-2	ROY	I think	NSNT	NSNT
+137, 4	518, 3-6	ROY	I *just* messed up	NST	NST
+137, 5	519, 1-6	ROY	with liberty and justice for all	SNT	NSNT
+137, 6	520, 1-3	ROY	rywbeth fel yna	NSNT	NSNT
+137, 7	521, 1-1	ROY	mae	NSNT	NSNT
+137, 8	521, 2-4	ROY	mae rywbeth da	NSNT	NSNT
+137, 9	521, 5-7	ROY	dw i meddwl	NSNT	NSNT
+137, 10	523, 1-12	ROY	beth i cadw *well* rywbeth i gwneud chi teimlo dros eich gwlad	NST	NST
+137, 11	524, 1-5	ROY	ond dan ni ddim yn	NSNT	NSNT
+137, 12	524, 6-19	ROY	dan ni ddim yn canu yr *um* cân cenedlaethol cymaint â chi yng Nghymru	NST	NST
+137, 13	525, 1-3	ROY	ella basai hwnna	NSNT	NSNT
+137, 14	525, 4-8	ROY	basai hynny mwy fath â	---	NSNT
+
+
+138, 1	526, 1-7	GWN	*well* dwyt ti ddim really yn Cymru	NST	ST
+138, 2	527, 1-6	GWN	dim_ond mewn gemau *football* a *rugby*	---	NST
+
+
+139, 1	528, 1-7	ROY	ie ond mae pawb yn canu o	NSNT	NSNT
+139, 2	530, 1-6	ROY	a mae bob ym bob *Eisteddfod*	NST	NST
+139, 3	530, 7-12	ROY	dach chi yn gorffen efo fo	---	NSNT
+
+
+140, 1	532, 1-13	GWN	ond dach chi ddim yn chwarae *sports* yn erbyn pobl eraill *lot* na	NST	NST
+140, 2	532, 14-18	GWN	neu fysech chi yn wneud	NSNT	NSNT
+140, 3	533, 1-7	GWN	*sure* bod y *team* *rugby* yn wneud	NST	NST
+140, 4	534, 1-2	GWN	ond dydy	NSNT	NSNT
+140, 5	534, 3-17	GWN	dach chi ddim yn chwarae American *football* na basketball na baseball yn_erbyn gwlad arall na	NST	ST
+140, 6	535, 1-5	GWN	*so* does yna ddim *boint*	NST	NST
+140, 7	537, 1-6	GWN	*so* ti ddim yn really canu	---	ST
+
+
+141, 1	538, 1-4	ROY	*yeah* ella dyna pam	NST	NST
+141, 2	539, 1-10	ROY	*mmm* na mae ychydig bach o patriotism yn peth dda	NST	ST
+141, 3	541, 1-4	ROY	gormod yn peth ddrwg	NSNT	NSNT
+141, 4	542, 1-11	ROY	ond dw i yn gweld hynny fel peth dda y pledge	SNT	SNT
+141, 5	543, 1-10	ROY	a meddwl bod o yn addas i ddod yn dinesydd	NSNT	NSNT
+141, 6	545, 1-9	ROY	be wnei di yn *er* lle mynd i Llydaw	NST	NST
+141, 7	546, 1-3	ROY	be wneith *Dick*	NST	NST
+141, 8	547, 1-7	ROY	*oh* be be wna i yn lle	---	NST
+
+
+142, 1	548, 1-4	GWN	na be wnei di	---	NSNT
+
+
+143, 1	549, 1-5	ROY	*oh* aros yma i gweithio	NST	NST
+143, 2	550, 1-5	ROY	gyn i ddigon i wneud	NSNT	NSNT
+143, 3	551, 1-7	ROY	a gen ti Sold Out nos Wener	SNT	SNT
+143, 4	553, 1-1	ROY	*so*	---	NST
+
+
+144, 1	554, 1-3	GWN	ti yn dod	---	NSNT
+
+
+145, 1	555, 1-2	ROY	gobeithio *yeah*	---	NST
+
+
+146, 1	556, 1-2	GWN	da iawn	NSNT	NSNT
+146, 2	557, 1-5	GWN	mae *Karen* *Kelly* yn dod	NST	NST
+146, 3	559, 1-5	GWN	dw i ddim yn gwybod	NSNT	NSNT
+146, 4	559, 6-9	GWN	be wneith *Dawn* ddeud	NST	NST
+146, 5	559, 10-11	GWN	bod fi	NSNT	NSNT
+146, 6	559, 12-19	GWN	wedi bod yn invite_io loads o bobl ond	SNT	SNT
+146, 7	561, 1-2	GWN	my house	SNT	NSNT
+146, 8	562, 1-4	GWN	iawn i fi wneud	NSNT	NSNT
+146, 9	563, 1-8	GWN	ga i wneud be bynnag dw i isio	NSNT	NSNT
+146, 10	565, 1-1	GWN	wedyn	---	NSNT
+
+
+147, 1	566, 1-5	ROY	o'n i yn meddwl ella	NSNT	NSNT
+147, 2	566, 6-10	ROY	basai gofyn i *Emma* dod	---	NST
+
+
+148, 1	567, 1-3	GWN	basa chdi gallu	NSNT	NSNT
+148, 2	569, 1-5	GWN	dw i ddim yn gwybod	NSNT	NSNT
+148, 3	569, 6-13	GWN	be wnaeth ddigwydd i *um* yr e_bost yna	NST	NST
+148, 4	571, 1-11	GWN	dw i ddim wedi cael amser i ffonio neb heddiw chwaith	NSNT	NSNT
+148, 5	573, 1-5	GWN	i *Dawn* wnes i ofyn	NST	NST
+148, 6	574, 1-4	GWN	wnes i ddeud wrthi	SNT	NSNT
+148, 7	575, 1-5	GWN	keep it under your *hat*	ST	NST
+148, 9	577, 1-3	GWN	wneith *Dawn* hefyd	NST	NST
+148, 10	578, 1-6	GWN	wneith hi ddim deud wrth neb	NSNT	NSNT
+148, 12	580, 1-5	GWN	a wnes i ofyn iddi	NSNT	NSNT
+148, 13	581, 1-6	GWN	be ydy yr gorau fath â	NSNT	NSNT
+148, 14	581, 7-13	GWN	os fasai rywun yn text_io neu e_bostio	NSNT	SNT
+148, 15	582, 1-3	GWN	wnaeth hi ddeud	NSNT	NSNT
+148, 16	582, 4-4	GWN	fasai	NSNT	NSNT
+148, 17	583, 1-4	GWN	dw i yn meddwl	NSNT	NSNT
+148, 18	583, 5-8	GWN	fasai e_bost yn well	NSNT	NSNT
+148, 19	585, 1-2	GWN	meddai hi	---	NSNT
+
+
+149, 1	587, 1-3	ROY	wnes i *um*	NST	NST
+149, 2	588, 1-10	ROY	yn *America* tro diwetha mi o'n adre am gyfnod hir	NST	NST
+149, 3	588, 11-13	ROY	oedd yna hogan	NSNT	NSNT
+149, 4	588, 14-18	ROY	o'n i isio gofyn allan	NSNT	NSNT
+149, 5	589, 1-13	ROY	a wnes i aros braidd yn rhy hir cyn i mi ddod yn_ôl	NSNT	NSNT
+149, 6	590, 1-18	ROY	*so* ond o'n i wedi gweld o yn yn y capel y dydd Sul cynta mi fod yno	NST	NST
+149, 7	591, 1-7	ROY	ond wnaeth ryw dau fis mynd heibio	NSNT	NSNT
+149, 8	592, 1-11	ROY	*um* *so* dyma fi yn ffonio hi ac yn deud *um*	ST	NST
+149, 9	593, 1-4	ROY	*Freda* this is *Roy*	ST	NST
+149, 10	594, 1-5	ROY	a dyma hi yn ateb	SNT	NSNT
+149, 11	595, 1-1	ROY	who	SNT	NSNT
+149, 12	596, 1-2	ROY	*Roy* *Williams*	ST	NST
+149, 13	597, 1-1	ROY	who	SNT	NSNT
+149, 15	599, 1-2	ROY	*Roy* *Williams*	ST	NST
+149, 16	601, 1-3	ROY	o'n i isio	NSNT	NSNT
+149, 17	601, 4-14	ROY	o'n i isio *um* gwneud hang up ar_ôl y who cynta	NST	ST
+149, 18	602, 1-5	ROY	ac ar_ôl yr ail *ugh*	NST	NST
+149, 19	603, 1-4	ROY	oedd hwnna yn embarrassing	SNT	SNT
+149, 20	604, 1-4	ROY	oedd hi yn mynnu	NSNT	NSNT
+149, 21	604, 5-8	ROY	oedd hi yn honni	NSNT	NSNT
+149, 22	604, 9-16	ROY	oedd hi yn methu glywed fi yn iawn	NSNT	NSNT
+149, 23	605, 1-10	ROY	ond dim yn meddwl mod i yn coelio coelio hi	NSNT	NSNT
+149, 24	606, 1-6	ROY	aethon ni allan unwaith neu dwywaith	NSNT	NSNT
+149, 25	607, 1-7	ROY	cyn i yr pethau gorffen yn dagrau	---	NSNT
+
+
+150, 1	609, 1-2	GWN	am be	NSNT	NSNT
+150, 2	610, 1-9	GWN	gan fod chdi yn dod yn_ôl i fan yma	---	NSNT
+
+
+151, 1	611, 1-16	ROY	*yeah* oedden ni yn ffonio ein gilydd dros dros cyfnod fi yn fan yma hi yno	NST	NST
+151, 2	612, 1-14	ROY	ac o'n i fod mynd adre i weld hi dros Dolig dwy flynedd yn_ôl	NSNT	NSNT
+151, 3	613, 1-9	ROY	*so* dyma fi yn ffonio hi a a gofyn	NST	NST
+151, 4	614, 1-5	ROY	ydy o yn fath â	NSNT	NSNT
+151, 5	614, 6-8	ROY	byddi di adre	NSNT	NSNT
+151, 6	614, 9-14	ROY	os dw i yn prynu docyn	NSNT	NSNT
+151, 7	616, 1-3	ROY	*oh* byddaf *sure*	NST	NST
+151, 8	617, 1-7	ROY	hwnnw hwnnw ar beth fel dydd Llun	NSNT	NSNT
+151, 9	618, 1-8	ROY	*so* wnes i prynu tocyn ar dydd Llun	NST	NST
+151, 10	619, 1-9	ROY	erbyn dydd Iau oedd hi wedi gorffen efo fi	---	NSNT
+
+
+152, 1	621, 1-4	GWN	wnaeth hi ddeud pam	---	NSNT
+
+
+153, 1	623, 1-6	ROY	*stupid* *stuff* fel irreconcilable differences neu	NST	ST
+153, 3	625, 1-4	ROY	roedd hwnna yn ddrud	---	NSNT
+
+
+154, 1	626, 1-5	GWN	wnest ti fynd yna anyway	---	SNT
+
+
+155, 1	629, 1-9	ROY	o'n i methu cael pres yn_ôl o yr cwmni	NSNT	NSNT
+155, 2	629, 10-10	ROY	awyren	NSNT	NSNT
+155, 3	630, 1-10	ROY	*so* ges i deg diwrnod efo efo efo yn rhieni	ST	NST
+155, 4	631, 1-6	ROY	not what I had in mind	---	NSNT
+
+
+156, 1	632, 1-8	GWN	be wnaeth ddigwydd i chdi a *Gladys* ta	---	NST
+
+
+157, 1	633, 1-4	ROY	*oh* paid â gofyn	---	NST
+
+
+158, 1	634, 1-4	GWN	*o_k* wna i ddim	NST	NST
+158, 3	636, 1-5	GWN	rhaid chdi watsiad de felly	NSNT	NSNT
+158, 4	637, 1-6	GWN	fyddi di cael dipyn o reputation	---	SNT
+
+
+159, 1	638, 1-2	ROY	shut up	---	NSNT
+
+
+160, 1	640, 1-8	GWN	wnest ti ddod i yr lle iawn anyway	NSNT	SNT
+160, 2	641, 1-9	GWN	because mae yna *lot* mwy o gennod Cristnogol Cymraeg	NST	ST
+160, 3	641, 10-13	GWN	na sy yna hogiau	NSNT	NSNT
+160, 4	642, 1-5	GWN	*so* dw ddim yn gwybod	NST	NST
+160, 5	642, 6-13	GWN	os oes yna Cawl a Chwestiwn wythnos nesa	NSNT	NSNT
+160, 6	643, 1-5	GWN	dydy *Ali* ddim yna na	---	NST
+
+
+161, 1	644, 1-3	ROY	dydy o ddim	---	NSNT
+
+
+162, 1	645, 1-4	GWN	mae o yn *Llansannan*	NST	NST
+162, 2	647, 1-8	GWN	a dw i yn mynd i *Llansannan* hefyd	NST	NST
+162, 3	647, 9-11	GWN	dw i meddwl	NSNT	NSNT
+162, 4	649, 1-5	GWN	*um* mae yr *thing* yna	NST	NST
+162, 5	649, 6-6	GWN	dydy	NSNT	NSNT
+162, 6	650, 1-7	GWN	*so* wnes i fethu flwyddyn dwytha achos	NST	NST
+162, 7	650, 8-12	GWN	oedd *car* fi wedi falu	NST	NST
+162, 8	651, 1-6	GWN	*so* dw i isio mynd y	NST	NST
+162, 9	651, 7-9	GWN	tro nesa really	SNT	SNT
+162, 10	653, 1-1	GWN	wedyn	---	NSNT
+
+
+163, 1	654, 1-6	ROY	be dy *car* wedi torri lawr	---	NST
+
+
+164, 1	655, 1-6	GWN	na o'n i wedi cael blow_out	SNT	SNT
+164, 2	657, 1-7	GWN	*so* oedd gynnof fi *um* replacement *tyre*	ST	ST
+164, 3	658, 1-6	GWN	ac oedd hi yn dydd Sul	NSNT	NSNT
+164, 4	659, 1-9	GWN	*so* do'n i ddim yn gallu cael teiar iawn	NST	NST
+164, 5	660, 1-5	GWN	*so* ti ddim fod i	NST	NST
+164, 6	661, 1-4	GWN	ddylsa chdi ddim really	SNT	SNT
+164, 7	662, 1-9	GWN	oedd y *boy* yn deud i beidio dreifio os	NST	NST
+164, 8	662, 10-14	GWN	na oedd raid i chdi	NSNT	NSNT
+164, 9	664, 1-2	GWN	wedyn *um*	---	NST
+
+
+165, 1	665, 1-4	ROY	be am y *spare*	---	NST
+
+
+166, 1	666, 1-10	GWN	*yeah* ond oedd o yn fath â llai o *size*	NST	NST
+166, 2	668, 1-7	GWN	*um* chdi dim_ond yn cael wneud fifty	ST	ST
+166, 3	670, 1-7	GWN	wedyn wythnos wedyn dw i yn meddwl	NSNT	NSNT
+166, 4	670, 8-12	GWN	dan ni yn siarad am	NSNT	NSNT
+166, 5	671, 2-3	GWN	dan ni	NSNT	NSNT
+166, 6	671, 4-11	GWN	wedi bod yn sôn am yr Ysbryd Glân	NSNT	NSNT
+166, 7	673, 1-3	GWN	*well* dan ni	NST	NST
+166, 8	673, 4-9	GWN	wedi bod yn wneud *stuff* mwy	NST	NST
+166, 9	673, 10-11	GWN	dan ni	NSNT	NSNT
+166, 10	674, 1-3	GWN	dw i isio	NSNT	NSNT
+166, 11	675, 1-3	GWN	wnes i ddeud	NSNT	NSNT
+166, 12	676, 1-5	GWN	dw i yn *er* awgrymu	NST	NST
+166, 13	677, 1-11	GWN	gawn ni siarad am siarad mewn tafodau a iacháu a pethau	NSNT	NSNT
+166, 15	679, 1-4	GWN	wedyn wnaethon nhw ddeud	NSNT	NSNT
+166, 16	680, 1-14	GWN	*oh* wnawn ni ddisgwyl i chdi a *Al* ddod yn_ôl ac i wneud hynna	NST	NST
+166, 18	682, 1-7	GWN	wedyn na oedd o yn dda actually	SNT	SNT
+166, 19	683, 1-8	GWN	yn teimlo weithiau bod fi yn siarad gormod	NSNT	NSNT
+166, 20	684, 2-7	GWN	pan mae rhei yn ddistaw a	NSNT	NSNT
+166, 21	684, 8-13	GWN	pan maen nhw yn deud dim_byd	NSNT	NSNT
+166, 22	686, 1-8	GWN	wnaeth *Hayley* na *Frankie* *Francis* ddim deud dim_byd	NST	NST
+166, 23	686, 9-16	GWN	dw i ddim yn meddwl *right* drwyddo fo	---	NST
+
+
+167, 1	687, 1-1	ROY	*uh_huh*	---	NST
+
+
+168, 1	688, 1-3	GWN	ond dyna ni	NSNT	NSNT
+168, 2	689, 1-7	GWN	mae rhei ddim yn isio siarad na	---	NSNT
+
+
+169, 1	690, 1-1	ROY	*uh_huh*	ST	NST
+169, 2	691, 1-9	ROY	*yeah* byth yn gwybod be i wneud efo hwnnw	---	NST
+
+
+170, 1	692, 1-6	GWN	a dw i isio siarad *lot*	NST	NST
+170, 2	693, 1-2	GWN	*so* mae	NST	NST
+170, 3	693, 3-5	GWN	mae yn iawn	NSNT	NSNT
+170, 4	694, 1-5	GWN	wna i siarad drostyn nhw	NSNT	NSNT
+170, 6	696, 1-8	GWN	*Ifan* *um* *Ifans* sy yn arwain nos Wener	NST	NST
+170, 7	698, 1-2	GWN	i fod	NSNT	NSNT
+170, 8	699, 1-5	GWN	*well* mae wedi text_io fi	NST	ST
+170, 9	700, 1-7	GWN	dw i angen ffonio fo wedyn actually	---	SNT
+
+
+171, 1	701, 1-4	ROY	be sy nos Wener	SNT	NSNT
+171, 2	702, 1-4	ROY	*oh* *er* Sold Out	---	NST
+
+
+172, 1	703, 1-2	GWN	Sold Out	SNT	NSNT
+172, 2	705, 1-3	GWN	mae o wedi	NSNT	NSNT
+172, 3	705, 4-12	GWN	wnaeth o text_io fi heddiw yn deud rywbeth fel	NSNT	SNT
+172, 4	705, 13-14	GWN	bod *um*	NST	NST
+172, 5	705, 15-21	GWN	bod o yn brysur efo gwaith cwrs	NSNT	NSNT
+172, 6	705, 22-36	GWN	*so* dydy o ddim yn gallu wneud o i_gyd a gofyn i fi wneud o	---	NST
+
+
+173, 1	707, 1-5	ROY	wnes i ddeud wrthat ti	NSNT	NSNT
+173, 2	708, 1-3	ROY	ges i *um*	NST	NST
+173, 3	708, 4-5	ROY	wnes i	NSNT	NSNT
+173, 4	708, 6-11	ROY	cais i Lerpwl am cwrs nyrsio	NSNT	NSNT
+173, 5	710, 1-5	ROY	dw i wedi cael cyfweliad	NSNT	NSNT
+173, 6	712, 2-7	ROY	dw i mynd yno dydd Iau	---	NSNT
+
+
+174, 1	713, 1-2	GWN	da iawn	---	NSNT
+
+
+175, 1	714, 1-6	ROY	*so* dw i ddim yn gwybod	NST	NST
+175, 2	715, 1-9	ROY	fath â tasen nhw yn cynnig o i fi	NSNT	NSNT
+175, 3	715, 10-14	ROY	dw i ddim yn gwybod	NSNT	NSNT
+175, 4	715, 15-19	ROY	os baswn i cymryd o	NSNT	NSNT
+175, 5	716, 1-4	ROY	ond dw i isio	NSNT	NSNT
+175, 6	716, 5-13	ROY	dw i isio profiad o wneud o o leia	NSNT	NSNT
+175, 7	717, 1-5	ROY	*um* a gawn ni weld	---	NST
+
+
+176, 1	719, 1-8	GWN	fydd ddim rhaid chdi ddewis rwan anyway na	---	SNT
+
+
+177, 1	720, 1-5	ROY	dw i ddim yn gwybod	NSNT	NSNT
+177, 2	721, 1-8	ROY	mae yr cwrs yn cychwyn yn yn Ebrill	NSNT	NSNT
+177, 3	723, 1-3	ROY	dw i meddwl	NSNT	NSNT
+177, 4	723, 4-9	ROY	bod rhai pobl wedi tynnu allan	---	NSNT
+
+
+178, 1	724, 1-4	GWN	a wedyn bod nhw	---	NSNT
+
+
+179, 1	725, 1-7	ROY	a maen nhw angen lenwi rhai *spots*	NST	NST
+179, 2	726, 1-6	ROY	dyna be dw i yn gesio	NSNT	NSNT
+179, 3	727, 1-5	ROY	dw i ddim yn gwybod	NSNT	NSNT
+179, 4	728, 1-3	ROY	ond pam arall	---	NSNT
+
+
+180, 1	729, 1-6	GWN	faint o hir ydy yr cwrs	---	NSNT
+
+
+181, 1	730, 1-2	ROY	tair blynedd	---	NSNT
+
+
+182, 1	731, 1-7	GWN	*so* basa chdi yn Lerpwl wedyn am	NST	NST
+182, 2	733, 1-7	GWN	ti yn wneud placement mae yn *sure*	NST	ST
+182, 3	733, 8-8	GWN	dwyt	---	NSNT
+
+
+183, 1	734, 1-6	ROY	*yeah* ond mae *sure* yn Lerpwl	NST	NST
+183, 2	734, 7-8	ROY	fydd o	NSNT	NSNT
+183, 3	735, 1-9	ROY	*so* mae hynny yn yn poeni fi ychydig bach	NST	NST
+183, 4	736, 1-5	ROY	dw i ddim yn gwybod	NSNT	NSNT
+183, 5	736, 6-15	ROY	os dw i isio byw yn Lerpwl am tair blynedd	---	NSNT
+
+
+184, 1	738, 1-4	GWN	mae *Larry* *Mitchell* yna	NST	NST
+184, 2	738, 5-5	GWN	dydy	NSNT	NSNT
+184, 3	740, 1-5	GWN	ti yn nabod *Mike* *Mitchell*	---	NST
+
+
+185, 1	741, 1-1	ROY	ydw	---	NSNT
+
+
+186, 1	742, 1-3	GWN	mab *Mike* *Mitchell*	---	NST
+
+
+187, 1	743, 1-5	ROY	be mae yn wneud yno	---	NSNT
+
+
+188, 1	744, 1-3	GWN	mynd yn *ddoctor*	NST	NST
+188, 2	746, 1-5	GWN	*so* dw i yn meddwl	NST	NST
+188, 3	746, 6-7	GWN	mae o	NSNT	NSNT
+188, 4	746, 8-11	GWN	wedi bod dwy flynedd	NSNT	NSNT
+188, 5	747, 1-8	GWN	*so* mae o yna am dair blynedd arall	---	NST
+
+
+189, 1	748, 1-2	ROY	*oh* *hah*	---	NST
+
+
+190, 1	749, 1-9	GWN	a mae yna *Chris* hogyn arall o Sold Out	ST	ST
+190, 2	750, 1-4	GWN	mae o yna hefyd	---	NSNT
+
+
+191, 1	751, 1-5	ROY	pa mor hen ydy o	---	NSNT
+
+
+192, 1	752, 1-5	GWN	mae o yn blwyddyn gynta	NSNT	NSNT
+192, 2	752, 6-10	GWN	*so* mae o yn un_deg_wyth	NST	NST
+192, 3	753, 1-6	GWN	mae *Larry* yn dau_ddeg neu dau_ddeg_un	---	NST
+
+
+193, 1	755, 1-5	ROY	does gen i ddim clem	NSNT	NSNT
+193, 2	755, 6-12	ROY	pwy baswn i yn byw efo yno	---	NSNT
+
+
+194, 1	756, 1-4	GWN	na *so* *so* timod	NST	NST
+194, 2	756, 5-9	GWN	dw i yn meddwl na	NSNT	NSNT
+194, 3	756, 10-14	GWN	os wyt ti yn mynd	NSNT	NSNT
+194, 4	756, 15-17	GWN	mae yn *sure*	NST	NST
+194, 5	756, 18-20	GWN	basai fo yn	---	NSNT
+
+
+195, 1	758, 1-4	ROY	mae hynny yn syniad	NSNT	NSNT
+195, 2	759, 1-4	ROY	dw ddim yn gwybod	---	NSNT
+
+
+196, 1	760, 1-8	GWN	*yeah* mae yn dibynnu be ti isio wneud	NST	NST
+196, 2	760, 9-9	GWN	dydy	---	NSNT
+
+
+197, 1	762, 1-3	ROY	gawn ni weld	NSNT	NSNT
+197, 2	763, 1-8	ROY	dw i yn gorod gweddïo *lot* amdano fo	---	NST
+
+
+198, 1	764, 1-7	GWN	be wnest ti gael i *supper* *Roy*	---	NST
+
+
+199, 1	765, 1-2	ROY	*um* *salad*	---	NST
+
+
+200, 1	766, 1-11	GWN	dw i mynd i fynd i nôl *pizza* yn munud wan	NST	NST
+200, 2	767, 1-6	GWN	dw i ddim wedi cael *supper*	NST	NST
+200, 3	768, 1-5	GWN	dw i newydd sylwi wan	NSNT	NSNT
+200, 4	769, 1-11	GWN	wnes i gael chicken in white *sauce* on *toast* i ginio	ST	ST
+200, 5	770, 1-2	GWN	*tin* food	ST	NST
+200, 6	771, 1-4	GWN	dw i yn *sure*	NST	NST
+200, 7	771, 5-12	GWN	bod finnau wedi anghofio wneud rywbeth heddiw yma	NSNT	NSNT
+200, 8	771, 13-13	GWN	sti	NSNT	NSNT
+200, 9	772, 1-13	GWN	timod pan ti yn gael teimlad fath â nagging yng nghefn pen chdi	NSNT	SNT
+200, 10	774, 1-6	GWN	dw i fod wedi wneud rywbeth	NSNT	NSNT
+200, 11	775, 1-8	GWN	mae gynna i andros o wythnos wythnos yma	NSNT	NSNT
+200, 12	776, 1-2	GWN	mae yn	NSNT	NSNT
+200, 13	779, 1-8	GWN	*so* dw i fod wedi cael heddiw *off*	NST	NST
+200, 14	780, 1-5	GWN	ond dw i ddim wedi	NSNT	NSNT
+200, 15	781, 1-6	GWN	ond dw i ddim wedi wneud	NSNT	NSNT
+200, 16	781, 7-15	GWN	dw i ddim wedi really wneud loads o waith	NSNT	SNT
+200, 17	783, 1-3	GWN	ond dw i	NSNT	NSNT
+200, 18	783, 4-6	GWN	wedi bod i_mewn	NSNT	NSNT
+200, 19	784, 1-4	GWN	*so* mae hynna fel	NST	NST
+200, 20	785, 1-12	GWN	*so* dw i wedi wneud dros hanner diwrnod o waith yn braf	NST	NST
+200, 21	786, 1-6	GWN	a o'n i yn gweithio ddoe	NSNT	NSNT
+200, 23	788, 1-9	GWN	a mae yna dosbarth derbyn in_between syth ar_ôl ysgol	NSNT	SNT
+200, 24	790, 1-4	GWN	*um* wedyn dydd Mercher	---	NST
+
+
+201, 1	791, 1-4	ROY	ydy pa mor hir	NSNT	NSNT
+201, 2	791, 5-8	ROY	ydy hynny yn bara	---	NSNT
+
+
+202, 1	792, 1-2	GWN	dosbarthiadau derbyn	---	NSNT
+
+
+203, 1	793, 1-1	ROY	*uh_huh*	---	NST
+
+
+204, 1	794, 1-3	GWN	*well* dan ni	NST	NST
+204, 2	794, 4-12	GWN	wedi bod yn anelu am fath â deg *session*	NST	NST
+204, 3	795, 1-10	GWN	wneud deg *session* efo nhw a am deg *session* awr	NST	NST
+204, 4	796, 1-3	GWN	*um* sy yn	NST	NST
+204, 5	796, 4-6	GWN	sy yn dda	NSNT	NSNT
+204, 6	797, 1-4	GWN	sy yn fwy na	NSNT	NSNT
+204, 7	797, 5-10	GWN	be mae rhan fwya yn wneud	NSNT	NSNT
+204, 8	799, 1-6	GWN	ond oedd y gweinidog yn deud	NSNT	NSNT
+204, 9	799, 7-18	GWN	mae yna un o yr aelodau rhywun newydd ddod yn aelod wan	NSNT	NSNT
+204, 10	800, 1-7	GWN	*um* maen nhw yn byw yn *Llanberis*	NST	NST
+204, 11	801, 1-8	GWN	mae hi yn dod o yr yr Almaen	NSNT	NSNT
+204, 12	802, 1-2	GWN	a oedd	NSNT	NSNT
+204, 13	802, 3-4	GWN	timod faint	NSNT	NSNT
+204, 14	802, 5-10	GWN	oedd dosbarthiadau derbyn nhw yn para	NSNT	NSNT
+204, 15	804, 1-2	GWN	dwy flynedd	---	NSNT
+
+
+205, 1	805, 1-2	ROY	dwy flynedd	---	NSNT
+
+
+206, 1	806, 1-10	GWN	oedden nhw yn gorod mynd bob wythnos am dwy flynedd	---	NSNT
+
+
+207, 1	807, 1-1	ROY	*wow*	---	NST
+
+
+208, 1	809, 1-4	GWN	yn rhyw Lutheran church	SNT	SNT
+208, 2	810, 1-9	GWN	wedyn *so* be ond be dan ni yn wneud	NST	NST
+208, 3	810, 10-11	GWN	tro yma	NSNT	NSNT
+208, 4	812, 1-7	GWN	dan ni bron â gorffen y *session*	NST	NST
+208, 6	813, 25-28	GWN	timod yr actual cwestiynau	NSNT	SNT
+208, 7	813, 29-39	GWN	maen nhw yn cael eu gael yn y gwasanaeth a pethau	NSNT	NSNT
+208, 8	815, 1-11	GWN	*um* be sut mae yr gwasanaeth yn mynd ambell un *extra*	NST	NST
+208, 9	816, 1-5	GWN	dan ni yn mynd drwy	NSNT	NSNT
+208, 10	817, 1-9	GWN	ti wedi clywed y Cyffes Fer o ein Ffydd	---	NSNT
+
+
+209, 1	818, 1-9	ROY	dw i yn meddwl mod i wedi gweld o	---	NSNT
+
+
+210, 1	819, 1-10	GWN	credwn yn Nuw *Dad* Hollalluog Creawdwr a Llywodraethwr pob peth	NST	NST
+210, 2	820, 1-10	GWN	*so* dan ni yn wneud fath â *session* ar hwnna	NST	NST
+210, 3	822, 1-18	GWN	ychydig ar yr Eglwys a pethau i ddechrau a bedydd a hanes Cristnogaeth a ychydig o bethau wedyn	NSNT	NSNT
+210, 4	823, 1-5	GWN	credwn yn Nuw *Dad* Hollalluog	NST	NST
+210, 5	824, 1-1	GWN	wedyn	NSNT	NSNT
+210, 6	825, 1-11	GWN	credwn yn Iesu Grist ei Uniganedig Fab ein Harglwydd ein Gwaredwr	NSNT	NSNT
+210, 7	826, 1-4	GWN	a wedyn tro nesa	NSNT	NSNT
+210, 8	826, 5-8	GWN	dan ni yn wneud	NSNT	NSNT
+210, 10	827, 25-26	GWN	â Duw	NSNT	NSNT
+210, 11	828, 1-7	GWN	*so* dan ni yn mynd trwy hwnna	NST	NST
+210, 12	828, 8-16	GWN	dw i yn meddwl wneud rywbeth ar y *gap*	NST	NST
+210, 13	828, 17-21	GWN	sy rwng ni a Duw	NSNT	NSNT
+210, 14	828, 22-28	GWN	a bod Iesu Grist yn llenwi fo	NSNT	NSNT
+210, 15	829, 1-5	GWN	*so* dw i yn gobeithio	NST	NST
+210, 16	830, 1-5	GWN	mae yr gweinidog yn dda	NSNT	NSNT
+210, 17	831, 1-14	GWN	ond *um* mae yn gallu mynd fath â yn mynd yn hir ar pethau	NST	NST
+210, 18	831, 15-19	GWN	sydd yn ddim yn bwysig	NSNT	NSNT
+210, 19	834, 1-5	GWN	dw ddim yn gwybod pam	NSNT	NSNT
+210, 20	835, 1-4	GWN	dw ddim yn meddwl	NSNT	NSNT
+210, 21	835, 5-5	GWN	bod	NSNT	NSNT
+210, 22	836, 1-5	GWN	dydy o ddim yn trio	NSNT	NSNT
+210, 23	837, 1-11	GWN	ond *um* wedyn os ti yn mynd yn hir mae yn	NST	NST
+210, 24	837, 12-16	GWN	maen nhw yn colli yr	NSNT	NSNT
+210, 25	838, 1-6	GWN	achos hwn ydy yr un pwysig	NSNT	NSNT
+210, 26	838, 7-9	GWN	dw i meddwl	NSNT	NSNT
+210, 27	840, 1-8	GWN	wedyn *um* dan ni yn wneud un ar	NST	NST
+210, 28	840, 9-13	GWN	credwn yn yr Ysbryd Glân	NSNT	NSNT
+210, 29	842, 1-3	GWN	bod drwyddo fo	NSNT	NSNT
+210, 30	842, 4-9	GWN	mae Crist yn preswylio yn pobl	NSNT	NSNT
+210, 31	842, 10-14	GWN	sy yn credu yno fo	NSNT	NSNT
+210, 32	844, 1-8	GWN	a wedyn *um* y Beibl a yr *sacraments*	NST	NST
+210, 33	845, 1-8	GWN	ac dan ni ddim really yn pwysleisio ar	NSNT	SNT
+210, 34	845, 9-15	GWN	credwn yn nyfodiad Teyrnas Dduw *um* digon	NST	NST
+210, 35	845, 16-20	GWN	dw i ddim yn meddwl	NSNT	NSNT
+210, 36	846, 1-2	GWN	a wedyn	NSNT	NSNT
+210, 37	848, 2-7	GWN	*so* mae yn ddeud wrth pobl	NST	NST
+210, 38	849, 1-8	GWN	*so* dan ni yn mynd drwy hwnna i_gyd	NST	NST
+210, 39	850, 1-6	GWN	*so* mae hwnna yn eitha da	NST	NST
+210, 40	851, 1-7	GWN	a wedyn dan ni wedi adio wan	NSNT	NSNT
+210, 41	851, 8-9	GWN	tro yma	NSNT	NSNT
+210, 42	852, 1-13	GWN	dan ni yn mynd i wneud dau *session* ar_ôl nhw cael eu derbyn	NST	NST
+210, 43	853, 1-7	GWN	un ar sut mae darllen y Beibl	NSNT	NSNT
+210, 44	855, 1-10	GWN	a un am ychydig o sut mae gweddïo yn bersonol	NSNT	NSNT
+210, 45	856, 1-13	GWN	a ella rhywbeth am dan ni yn disgwyl ti ddod i yr Eglwys	NSNT	NSNT
+210, 46	857, 1-4	GWN	*um* achos fel arfer	NST	NST
+210, 47	857, 5-16	GWN	maen nhw yn cael eu derbyn a ti yn gweld nhw weithiau	NSNT	NSNT
+210, 48	858, 1-11	GWN	os ti yn gofyn i nhw ddod maen nhw yn dod	NSNT	NSNT
+210, 49	860, 1-3	GWN	ond fel arall	NSNT	NSNT
+210, 50	861, 1-6	GWN	*so* dan ni yn trio deud	NST	NST
+210, 51	862, 1-13	GWN	dan ni yn disgwyl i chi ddod be bynnag un waith y mis	NSNT	NSNT
+210, 52	864, 1-7	GWN	dydy hynna ddim yn ormod iddyn nhw	NSNT	NSNT
+210, 53	866, 1-9	GWN	a dan ni yn mynd i wneud gwasanaeth *special*	NST	NST
+210, 54	867, 1-6	GWN	*so* ddylsai hynna fod yn iawn	NST	NST
+210, 55	869, 1-7	GWN	*so* mae gen i hwnna dosbarth derbyn	NST	NST
+210, 57	871, 1-5	GWN	ond dw i ddim yna	NSNT	NSNT

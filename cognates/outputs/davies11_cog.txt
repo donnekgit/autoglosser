@@ -1,0 +1,1901 @@
+
+
+1, 1	1, 1-14	OWA	ond *er* na fydda i byth yn clywed neb yn sôn am y brawd	NST	NST
+1, 2	3, 1-4	OWA	ddim dim o_gwbl felly	NSNT	NSNT
+1, 4	5, 1-14	OWA	ond *er* wedyn fyddai fo yn dod yn_ôl y *story* fod y mai *Arwel*	NST	NST
+1, 5	5, 15-22	OWA	oedd ei ei *fentor* o yn y cychwyn	NST	NST
+1, 6	6, 1-13	OWA	a wedyn *er* ato fo byddai fo yn dŵad i gael gwersi *um*	---	NST
+
+
+2, 1	7, 1-1	RAC	*Arwel_Morris*	ST	NST
+2, 2	8, 1-4	RAC	na dim *Arwel_Morris* nage	---	NST
+
+
+3, 1	9, 1-1	DER	naci	---	NSNT
+
+
+4, 1	10, 1-1	OWA	naci	---	NSNT
+
+
+5, 1	11, 1-1	DER	naci	---	NSNT
+
+
+6, 1	12, 1-8	OWA	na *Arwyn_Morris* ydy hwnnw yr *er* yr archdderwydd	NST	NST
+6, 2	14, 1-7	OWA	na *Arwel_Ifan_Edward_Morris* ydy enw cywir o felly	NST	NST
+6, 3	15, 1-7	OWA	*um* mae *Arwel* teulu yr un teulu	NST	NST
+6, 4	15, 8-14	OWA	â *Megan_Wynne* a *Elfyn* *Siop_Griffiths* a *Rhys_Lewis*	---	NST
+
+
+7, 1	16, 1-8	DER	pa *Megan_Wynne* dach chi yn sôn amdani rŵan	NST	NST
+7, 2	17, 1-9	DER	un sydd yn yn yn yn *Porthmadog* yn byw	---	NST
+
+
+8, 1	18, 1-3	OWA	dwn i ddim	NSNT	NSNT
+8, 2	18, 4-8	OWA	lle mae *Megan* yn byw	NST	NST
+8, 3	19, 1-12	OWA	ond un yn enedigol o ardal *Griffiths* *er* *Llangybi* yr ardal yna	NST	NST
+8, 4	21, 1-3	OWA	fyddai hi yn	NSNT	NSNT
+8, 5	21, 4-9	OWA	oedd gynni hi *barty* cerdd dant	NST	NST
+8, 6	21, 10-10	OWA	byddai	NSNT	NSNT
+8, 7	22, 1-12	OWA	*um* be oedd enw fo o *grew* o ferched ifanc ym *Mhwllheli*	---	NST
+
+
+9, 1	23, 1-4	DER	*oh* *well* dyna hi	NST	NST
+9, 2	24, 1-9	DER	na ei chyfarfod hi dydd Sadwrn dwytha wnes i	NSNT	NSNT
+9, 3	26, 1-5	DER	a gofyn pwy oedd hi	SNT	NSNT
+9, 4	27, 1-2	DER	*well* *Megan_Wynne*	ST	NST
+9, 5	28, 1-7	DER	ac yn amlwg bod hi yn gerddorol	---	NSNT
+
+
+10, 1	29, 3-6	OWA	byswn i feddwl felly	---	NSNT
+
+
+11, 1	30, 1-10	DER	ac *um* bod hi wedi gwneud *lot* o waith cerddoriaeth	NST	NST
+11, 2	30, 11-16	DER	yn_de yn y pwyllgor pump rhanbarth	NSNT	NSNT
+11, 3	33, 1-2	DER	ac oedd	NSNT	NSNT
+11, 4	33, 3-3	DER	gynna	NSNT	NSNT
+11, 5	33, 5-8	DER	gynna i ddim syniad	NSNT	NSNT
+11, 6	33, 9-11	DER	pwy oedd hi	NSNT	NSNT
+11, 7	34, 1-9	DER	mae raid bod hi yna am y tro cynta	NSNT	NSNT
+11, 8	36, 1-4	DER	ac *um* llawn syniadau	---	NST
+
+
+12, 1	37, 1-5	OWA	dw i credu mai dysgu	NSNT	NSNT
+12, 2	37, 6-6	OWA	mae	NSNT	NSNT
+12, 3	37, 7-9	OWA	mae *Megan* felly	---	NST
+
+
+13, 1	38, 1-3	DER	*oh* dyna ni	---	NST
+
+
+14, 1	39, 1-5	OWA	a wedyn mae *Elfyn* wrth_gwrs	NST	NST
+14, 2	39, 6-9	OWA	ddaru sefydlu *business* *Siop_Griffiths*	---	NST
+
+
+15, 1	41, 1-1	RAC	*Siop_Griffiths*	---	NST
+
+
+16, 1	44, 1-3	DER	ei gŵr hi	---	NSNT
+
+
+17, 1	45, 1-3	OWA	naci brawd hi	---	NSNT
+
+
+18, 1	46, 1-3	DER	ei brawd hi	---	NSNT
+
+
+19, 1	48, 1-4	OWA	ei brawd hi ia	NSNT	NSNT
+19, 2	50, 1-13	OWA	*um* a dw i yn credu fod y tad yn frawd i *Arwel*	---	NST
+
+
+20, 1	53, 1-3	DER	*oh* dyna chi	---	NST
+
+
+21, 1	54, 1-5	OWA	a wedyn mae yna *Rhys_Lewis*	NST	NST
+21, 2	54, 6-11	OWA	oedd yn flaenllaw iawn yng *Nghymdeithas_yr_Iaith*	---	NST
+
+
+22, 1	55, 1-2	RAC	*Siop_y_Pethau* *Aberystwyth*	---	NST
+
+
+23, 1	56, 1-2	OWA	*Siop_y_Pethau* *Aberystwyth*	ST	NST
+23, 2	57, 1-8	OWA	dyna frawd arall i *Megan* ac *er* *Elfyn*	NST	NST
+23, 3	59, 1-5	OWA	*er* dw ddim yn cofio	NST	NST
+23, 4	59, 6-16	OWA	oedd yna chwaer arall hefyd yn yr yn gweithio yn *Siop_Griffiths*	NST	NST
+23, 5	61, 1-4	OWA	*so* dyna yr *er*	---	NST
+
+
+24, 1	62, 1-4	DER	*oh* dw i wedi	NST	NST
+24, 2	62, 5-7	DER	dw i wedi	NSNT	NSNT
+24, 3	62, 8-11	DER	pwy ydy hi felly	---	NSNT
+
+
+25, 1	64, 1-8	RAC	*mmm* mae *Siop_Griffiths* wedi symud yn *Porthmadog* yn_do	---	NST
+
+
+26, 1	65, 1-2	DER	ydyn nhw	---	NSNT
+
+
+27, 1	67, 3-7	OWA	mae wedi mynd lawr wan	NSNT	NSNT
+27, 2	68, 1-6	OWA	mae hi bron dros ffordd yr	NSNT	NSNT
+27, 3	69, 1-4	OWA	be ydy yr gwesty	NSNT	NSNT
+27, 4	70, 1-3	OWA	y *Sportsman* de	---	NST
+
+
+28, 1	71, 1-3	DER	y *Sportsman* ia	NST	NST
+28, 2	74, 1-5	DER	*oh* fan yna mae rŵan	---	NST
+
+
+29, 1	75, 1-5	OWA	fan yno mae rŵan *yeah*	---	NST
+
+
+30, 1	77, 1-8	DER	achos oedd hi nes i yr *cob* yn_doedd	NST	NST
+30, 2	78, 1-2	DER	oedd hi	---	NSNT
+
+
+31, 1	79, 1-7	OWA	nag oedd yng nghanol y stryd fawr	NSNT	NSNT
+31, 2	79, 8-13	OWA	oedd hi hen hen *gafe* *Gandolfini*	---	NST
+
+
+32, 1	80, 1-2	RAC	*oh* yfe	---	NST
+
+
+33, 1	82, 1-3	OWA	oedd o flynyddoedd	---	NSNT
+
+
+34, 1	83, 1-1	RAC	Italian	---	NSNT
+
+
+35, 1	84, 1-3	OWA	Italian gwerthu *ice_cream*	NST	ST
+35, 2	85, 1-4	OWA	mae yna a wedyn	NSNT	NSNT
+35, 3	85, 5-8	OWA	mae yna un arall	NSNT	NSNT
+35, 4	86, 1-7	OWA	petasech chi mynd i_fyny yr stryd *um*	---	NST
+
+
+36, 1	87, 1-6	DER	mae *Cadwaladr* yn rywle yna yn_dydy	---	NST
+
+
+37, 1	88, 1-6	OWA	*oh* yndy yn y pen draw	---	NST
+
+
+38, 1	89, 1-5	RAC	pen draw fan yno *yeah*	---	NST
+
+
+39, 1	90, 1-2	DER	pen draw	---	NSNT
+
+
+40, 1	91, 1-3	OWA	ond oedd y	NSNT	NSNT
+40, 2	91, 4-5	OWA	oedd yr	---	NSNT
+
+
+41, 1	92, 1-4	RAC	ochr draw i *well*	---	NST
+
+
+42, 1	93, 1-6	OWA	ia lle oedd *Siop_Griffiths* gynta fel	NST	NST
+42, 2	93, 7-11	OWA	dw i yn deud *Gandolfini*	NST	NST
+42, 3	93, 12-22	OWA	oedd o *oh* be ryw ganllath o yr y y *roundabout*	NST	NST
+42, 4	93, 23-26	OWA	sy mynd am *Griccieth*	NST	NST
+42, 5	95, 1-8	OWA	wedyn o'ch chi mynd i_fyny hanner canllath wedyn	NSNT	NSNT
+42, 6	97, 1-8	OWA	a wedyn mi oedd yna *Gandolfini* arall dau	---	NST
+
+
+43, 1	98, 1-3	RAC	yr un teulu	---	NSNT
+
+
+44, 1	99, 1-7	OWA	mae raid bod nhw yr un teulu	NSNT	NSNT
+44, 2	100, 1-13	OWA	*um* dwn i ddim ella basech chi yn gyfarwydd efo *Derwena* *um* *Steven_Gandolfini*	NST	NST
+44, 3	101, 1-2	OWA	dysgu Ffrangeg	---	NSNT
+
+
+45, 1	102, 1-3	DER	dysgu oedd o	---	NSNT
+
+
+46, 1	103, 1-3	OWA	dysgu yn *Motwnnog*	---	NST
+
+
+47, 1	104, 1-2	DER	dyna fo	---	NSNT
+
+
+48, 1	106, 1-2	OWA	a wedyn	---	NSNT
+
+
+49, 1	107, 1-6	DER	o'n i yn gwybod bod fi	NSNT	NSNT
+49, 2	107, 7-11	DER	yn bod fi yn gwybod	NSNT	NSNT
+49, 3	107, 12-15	DER	pwy oedd o felly	---	NSNT
+
+
+50, 1	109, 1-4	OWA	a wedyn oedd yna	NSNT	NSNT
+50, 2	109, 5-7	OWA	oedd yna *Heidi*	NST	NST
+50, 3	111, 1-3	OWA	dw i credu	NSNT	NSNT
+50, 4	111, 4-11	OWA	bod *Heidi* yn byw rywle yng nghyfeiriad *Gaernarfon*	NST	NST
+50, 5	112, 1-7	OWA	*um* mae hi ychydig hŷn na fi	NST	NST
+50, 6	114, 1-6	OWA	a wedyn *er* ia oedd o	NST	NST
+50, 7	114, 7-9	OWA	dw i cofio	NSNT	NSNT
+50, 8	114, 10-10	OWA	yr	NSNT	NSNT
+50, 9	114, 11-19	OWA	dw i cofio yr ddau yr ysgol yn *Port*	NST	NST
+50, 10	114, 20-20	OWA	te	---	NSNT
+
+
+51, 1	115, 1-8	RAC	achos yr un teulu *Antonatsi* sydd yn *Aberystwyth*	NST	NST
+51, 2	116, 1-9	RAC	mae nhw wedi agor *cafe* yn *Bangor* yn_dyn nhw	---	NST
+
+
+52, 1	117, 1-4	OWA	dyna yr teulu *yeah*	NST	NST
+52, 2	119, 1-2	OWA	*oh* duwcs	---	NST
+
+
+53, 1	120, 1-4	RAC	doth y cyfnither i_fyny	NSNT	NSNT
+53, 2	121, 1-6	RAC	oedd hi yn gyfarwydd efo nhw	NSNT	NSNT
+53, 3	122, 1-12	RAC	oedd hi yn gofyn beth o'n nhw yn wneud lan fan hyn	NSNT	NSNT
+53, 4	123, 1-14	RAC	a oedd hi yn arfer eu gweld nhw yn cerdded y strydoedd yn *Aberystwyth*	---	NST
+
+
+54, 1	124, 1-2	OWA	ia wir	---	NSNT
+
+
+55, 1	126, 1-5	RAC	wnaethon nhw bypass_io *Porthmadog* yn_do	---	ST
+
+
+56, 1	127, 1-2	OWA	do *well*	---	NST
+
+
+57, 1	128, 1-2	DER	do felly	---	NSNT
+
+
+58, 1	131, 1-2	OWA	mae rhyfedd	NSNT	NSNT
+58, 2	132, 1-2	OWA	oedd yna	NSNT	NSNT
+58, 3	132, 3-13	OWA	oedd yna amryw byd o yr teulu *er* eidalaidd yma felly	NST	NST
+58, 4	132, 14-14	OWA	doedd	SNT	NSNT
+58, 5	134, 1-8	OWA	because dw yn cofio pan i yn gweithio	---	SNT
+
+
+59, 1	135, 1-8	DER	mae yna *lot* yma ers amser rhyfel yn_does	NST	NST
+59, 2	138, 1-10	DER	yn dod yma yma ac yn yn priodi yma yn_de	---	NSNT
+
+
+60, 1	141, 1-4	OWA	oedd yna deulu *Tadis*	NST	NST
+60, 2	143, 1-2	OWA	yn *Stiniog*	NST	NST
+60, 3	145, 1-5	OWA	oedden nhw yn gwerthu *ice_cream*	NST	NST
+60, 4	147, 1-3	OWA	ac oedd o	NSNT	NSNT
+60, 5	147, 4-6	OWA	dyna yr cyfan	NSNT	NSNT
+60, 6	147, 7-13	OWA	oedden nhw wneud a deud y gwir	NSNT	NSNT
+60, 7	147, 14-16	OWA	oedd gwerthu *ice_cream*	NST	NST
+60, 8	148, 1-8	OWA	ac *er* mi oedd yna felyn lliw menyn	NST	NST
+60, 9	148, 9-11	OWA	arno fo de	---	NSNT
+
+
+61, 1	149, 1-2	RAC	braf *nice*	---	NST
+
+
+62, 1	150, 1-1	OWA	braf	NSNT	NSNT
+62, 2	152, 1-9	OWA	a fyddai fo yn cerdded yr hen fachgen *Tadi*	NST	NST
+62, 3	153, 1-5	OWA	mi gwela i rŵan trowsus	NSNT	NSNT
+62, 4	154, 1-3	OWA	dwn i ddim	NSNT	NSNT
+62, 5	154, 4-10	OWA	be baset ti yn alw fo *Rachel*	NST	NST
+62, 6	155, 1-4	OWA	trowsus *rib* trowsus melfaréd	---	NST
+
+
+63, 1	156, 1-2	RAC	*yeah* *corduroy*	---	NST
+
+
+64, 1	157, 1-1	DER	melfaréd	---	NSNT
+
+
+65, 1	158, 1-2	OWA	*corduroy* ia	---	NST
+
+
+66, 1	159, 1-2	DER	*corduroy* ia	---	NST
+
+
+67, 1	160, 1-6	OWA	a esgidiau hoelion mawr fel ffarmwr	NSNT	NSNT
+67, 2	162, 1-11	OWA	a fyddai fo yn cerdded efo ei *drolley* lawr i *Dan_y_Grisiau*	NST	NST
+67, 3	163, 1-6	OWA	a cloch gynno fo yn canu	NSNT	NSNT
+67, 4	165, 1-3	OWA	a wedyn fyddai	NSNT	NSNT
+67, 5	166, 1-6	OWA	dwn i ddim ei frawd o	NSNT	NSNT
+67, 6	166, 7-9	OWA	dw i credu	NSNT	NSNT
+67, 7	166, 10-15	OWA	oedd yn y *shop* wedyn felly	NST	NST
+67, 8	168, 1-3	OWA	ond oedd o	NSNT	NSNT
+67, 9	168, 4-8	OWA	fyddai mynd bron yn ddyddiol	---	NSNT
+
+
+68, 1	169, 1-8	DER	*oh* sut oedd o gadw fo wedi rhewi	NST	NST
+68, 2	169, 9-9	DER	ta	---	NSNT
+
+
+69, 1	170, 1-2	OWA	oedd gynno	NSNT	NSNT
+69, 2	170, 3-18	OWA	mae raid bod gynno fo ryw fath o fridge *er* yn yr *er* y peiriant yma	NST	ST
+69, 3	171, 1-15	OWA	doedd o mond *box* sgwâr a dwy olwyn fath â dwy olwyn *bike* a handlen	---	NST
+
+
+70, 1	174, 1-5	RAC	*oh* dw i yn cofio	NST	NST
+70, 2	174, 6-20	RAC	dyna sut o'n nhw yn gwerthu *ice_cream* ar y *front* yn *Aberystwyth* yn_dyfe efo *bike*	---	NST
+
+
+71, 1	176, 1-6	DER	dw ddim yn cofio pethau felly	NSNT	NSNT
+71, 2	176, 7-7	DER	sti	---	NSNT
+
+
+72, 1	178, 1-2	RAC	fi yn	NSNT	NSNT
+72, 2	180, 1-7	RAC	*mmm* a *donkeys* ar y *front* yfe	NST	NST
+72, 4	184, 1-6	RAC	sut wnaeth y *Cadwaladers* dechrau de	NST	NST
+72, 5	185, 1-9	RAC	achos dyn nhw ddim yn Eidalwyr nag ŷn nhw	---	NSNT
+
+
+73, 1	186, 1-3	OWA	bachgen o *Griccieth*	---	NST
+
+
+74, 1	187, 1-3	DER	*Criccieth* ydyn nhw	---	NST
+
+
+75, 1	188, 1-2	RAC	*oh* yfe	---	NST
+
+
+76, 1	192, 1-4	OWA	baswn i medru deud	---	NSNT
+
+
+77, 1	193, 1-11	DER	*oh* hwn mae yn deud *lot* o straeon amdano fo rŵan	---	NST
+
+
+78, 1	195, 1-10	OWA	na fiw mi ddeud rhag ofn i *Peredur* fethu edit_io	---	ST
+
+
+79, 1	199, 1-9	RAC	*oh* *right* ydy yr teulu yn teulu dy dad	NST	NST
+79, 2	199, 10-16	RAC	sy yn rhedeg y cwmni te yfe	---	NSNT
+
+
+80, 1	200, 1-2	OWA	mae yr	NSNT	NSNT
+80, 2	201, 1-2	OWA	nac ydy	NSNT	NSNT
+80, 3	201, 3-3	OWA	mae	NSNT	NSNT
+80, 4	201, 4-4	OWA	yr	NSNT	NSNT
+80, 5	201, 5-5	OWA	mae	NSNT	NSNT
+80, 6	201, 6-6	OWA	mae	NSNT	NSNT
+80, 7	201, 7-15	OWA	mae yr hen *Gadwaladers* a yr *er* beth bynnag	NST	NST
+80, 8	201, 16-26	OWA	oedd y cynhwysion wedi cael ei werthu i yr *firm* yma	---	NST
+
+
+81, 1	202, 1-4	DER	naci mae wedi gwerthu	---	NSNT
+
+
+82, 1	204, 1-6	OWA	*um* na *Robin_Cadwalader* oedd yr ola	NST	NST
+82, 2	205, 1-5	OWA	*er* dw i yn cofio	NST	NST
+82, 3	205, 6-15	OWA	pan fyddwn i yn gweithio allan o gwyliau yr ysgol	NSNT	NSNT
+82, 4	207, 1-9	OWA	gweithio yng *Nghricieth* *um* cario allan yr arferiad felly	NST	NST
+82, 5	208, 1-4	OWA	*um* mi fyddai mi	NST	NST
+82, 6	208, 5-9	OWA	fyddai *Robin* dipyn o gymeriad	---	NST
+
+
+83, 1	209, 1-6	RAC	*mmm* ti ddim yn nabod *Idwal_Cadwalader*	NST	NST
+83, 2	210, 1-11	RAC	oedd *Idwal* arfer gweithio yn y *bank* ym *Machynlleth* yn *Dolgellau*	NST	NST
+83, 3	211, 1-8	RAC	*bound* fod yr un *Cadwaladers* ŷn nhw yfe	---	NST
+
+
+84, 1	212, 1-1	OWA	*Idwal*	ST	NST
+84, 2	213, 1-2	OWA	*Cadwalader* oedd	NST	NST
+84, 3	213, 3-5	OWA	ei gyfenw fo	SNT	NSNT
+84, 4	215, 1-1	OWA	*Idwal_Cadwalader*	ST	NST
+84, 5	216, 1-3	OWA	dim fel yna	NSNT	NSNT
+84, 6	217, 1-6	OWA	yn y pa *fank* oedd o	---	NST
+
+
+85, 1	218, 1-1	RAC	*Standard*	---	NST
+
+
+86, 1	219, 1-1	OWA	*Standard*	NST	NST
+86, 2	220, 1-1	OWA	*Idwal*	ST	NST
+86, 3	221, 1-5	OWA	nag ydw dim fel yna	---	NSNT
+
+
+87, 1	222, 1-11	RAC	achos mae deulu fe yn dod *Gaernarfon* ffordd yna neu rywle	---	NST
+
+
+88, 1	223, 1-14	DER	achos yn aml iawn mae yna *Cadwalader* fel ail enw a ddim cyfenw yn_does	---	NST
+
+
+89, 1	225, 1-6	RAC	na yr ail enw yw e	---	NSNT
+
+
+90, 1	226, 1-3	DER	*oh* yr ail	NST	NST
+90, 2	229, 1-5	DER	ia yr cyfenw ydy o	---	NSNT
+
+
+91, 1	233, 1-6	OWA	na o'n i ddim yn gyfarwydd	---	NSNT
+
+
+92, 1	234, 1-10	RAC	mae yn anghyffredin iawn i ni i fi ta beth	---	NSNT
+
+
+93, 1	239, 1-7	OWA	ychydig iawn o o *Gadwaladers* dim ond	NST	NST
+93, 2	240, 1-7	OWA	yr unig rai wn i amdanyn nhw	NSNT	NSNT
+93, 3	240, 8-12	OWA	ydy yr teulu yng *Griccieth*	---	NST
+
+
+94, 1	242, 1-9	DER	*yeah* *well* ers pryd wyt ti yn fyny yma	---	NST
+
+
+95, 1	244, 1-3	RAC	*er* deunaw mlynedd	NST	NST
+95, 2	245, 1-7	RAC	pan oedd tra fod nhw yn wyth	NSNT	NSNT
+95, 3	245, 8-14	RAC	wnaethon ni symud fewn i yr tŷ	---	NSNT
+
+
+96, 1	246, 1-3	DER	deunaw mlynedd yn_ôl	---	NSNT
+
+
+97, 1	249, 1-2	OWA	ia wir	NSNT	NSNT
+97, 2	250, 1-3	OWA	i_fyny o lle	---	NSNT
+
+
+98, 1	251, 1-2	DER	o le	---	NSNT
+
+
+99, 1	252, 1-1	RAC	*Llangollen*	---	NST
+
+
+100, 1	253, 1-5	DER	*oh* ti hanner ffordd i_fyny	---	NST
+
+
+101, 1	254, 1-1	RAC	*Ceiriog*	NST	NST
+101, 2	255, 1-1	RAC	*Glyn_Ceiriog*	---	NST
+
+
+102, 1	256, 1-3	DER	hanner ffordd i_fyny	---	NSNT
+
+
+103, 1	257, 1-1	OWA	*Glyn_Ceiriog*	---	NST
+
+
+104, 1	258, 1-4	DER	hanner ffordd i_fyny felly	---	NSNT
+
+
+105, 1	263, 1-3	RAC	*Sodom* a *Gomorrah*	---	NST
+
+
+106, 1	264, 1-5	OWA	*Langolen* fel fyddai yr Saeson	---	NST
+
+
+107, 1	267, 1-5	RAC	*yeah* pen draw yr byd	NST	NST
+107, 2	269, 1-9	RAC	syndod faint o Gymraeg sy yn dal yn *Glyn_Ceiriog*	NST	NST
+107, 3	270, 1-13	RAC	dal i fod papur bro a eglwys ysgol sul a pethau fel hynny	---	NSNT
+
+
+108, 1	271, 1-2	OWA	oes wir	NSNT	NSNT
+108, 2	273, 1-2	OWA	oes wir	---	NSNT
+
+
+109, 1	275, 1-7	RAC	dw ddim yn *sure* pwy mor Gymraeg	NST	NST
+109, 2	275, 8-10	RAC	yw yr ysgol	NSNT	NSNT
+109, 3	277, 1-2	RAC	erbyn nawr	NSNT	NSNT
+109, 4	278, 1-6	RAC	ond pan oedd plant fi mynd	NSNT	NSNT
+109, 5	278, 7-14	RAC	oedd rhan fwya o yr plant yn Gymry	NSNT	NSNT
+109, 6	280, 1-1	RAC	oedden	---	NSNT
+
+
+110, 1	281, 1-6	DER	pa mor fawr oedd yr ysgol	---	NSNT
+
+
+111, 1	282, 1-11	RAC	*um* ysgol *er* *Llanarmon_Dyffryn_Ceiriog* *um* deg_ar_ugain o blant pump_ar_ugain o blant	---	NST
+
+
+112, 1	284, 1-2	DER	ysgolion bach	---	NSNT
+
+
+113, 1	285, 1-5	RAC	mae yn dal ar agor	---	NSNT
+
+
+114, 1	286, 1-5	DER	ydy yn dal ar agor	NSNT	NSNT
+114, 2	288, 1-6	DER	yna lai yna rŵan mae *sure*	---	NST
+
+
+115, 1	289, 1-3	RAC	basen i meddwl	NSNT	NSNT
+115, 2	291, 1-3	RAC	basen i meddwl	NSNT	NSNT
+115, 3	292, 1-6	RAC	*um* *Mcalpine* sydd biau yr cwm	NST	NST
+115, 4	293, 1-7	RAC	nhw oedd biau *lot* o yr tir	NST	NST
+115, 5	294, 1-7	RAC	oedd y bobl yn gweithio i *Mcalpines*	---	NST
+
+
+116, 1	295, 1-2	OWA	*yeah* wir	NST	NST
+116, 2	297, 1-8	OWA	*so* oedd yna chwarel yn ymyl felly *yeah*	---	NST
+
+
+117, 1	298, 1-2	RAC	hen stad	NSNT	NSNT
+117, 2	302, 1-7	RAC	a *um* pwy yna sgwennodd *er* *Cysgod_y_Cryman*	---	NST
+
+
+118, 1	303, 1-1	DER	*Islwyn_Ffowc_Elis*	---	NST
+
+
+119, 1	305, 1-2	RAC	dyna ti	NSNT	NSNT
+119, 2	306, 1-3	RAC	dyna yr pentre	NSNT	NSNT
+119, 3	306, 4-4	RAC	dyna	NSNT	NSNT
+119, 4	306, 5-10	RAC	lle oedd e yn dod o	---	NSNT
+
+
+120, 1	307, 1-11	OWA	*oh* *yeah* *sure* iawn ia ia un o *Glyn_Ceiriog* ia ia	---	NST
+
+
+121, 1	310, 1-7	RAC	oedd ei *er* brawd *um* *Islwyn_Ffowc_Elis* fe	NST	NST
+121, 2	310, 8-12	RAC	yw pregethwr ni yn *Llanilar*	---	NST
+
+
+122, 1	311, 1-1	OWA	Duw	---	NSNT
+
+
+123, 1	313, 1-2	DER	yn *Llanilar*	NST	NST
+123, 2	315, 1-3	DER	*oh* rhyfedd de	---	NST
+
+
+124, 1	316, 1-4	RAC	*well* *yeah* bach yn_dyfe	NST	NST
+124, 3	321, 1-7	RAC	ond *um* gaethon nhw *well* anlwc ofnadwy	NST	NST
+124, 4	322, 1-5	RAC	fuodd eu mhab nhw lladd	NSNT	NSNT
+124, 5	322, 6-11	RAC	yn_do ar y by_pass yn Oswestry	---	SNT
+
+
+125, 1	323, 1-2	OWA	do wir	---	NSNT
+
+
+126, 1	325, 1-3	RAC	drist iawn really	---	SNT
+
+
+127, 1	326, 1-5	OWA	ond oeddet ti yn deud	NSNT	NSNT
+127, 2	326, 6-11	OWA	bod o ben draw byd *Rachel*	NST	NST
+127, 3	327, 1-3	OWA	baswn i meddwl	NSNT	NSNT
+127, 4	327, 4-10	OWA	bod o yn le delfrydol canolig iawn	---	NSNT
+
+
+128, 1	328, 1-1	DER	canolig	---	NSNT
+
+
+129, 1	329, 1-9	RAC	*oh* *yeah* os wyt ti yn byw yn Chirk	ST	ST
+129, 2	330, 1-2	RAC	ond mae	NSNT	NSNT
+129, 3	330, 3-3	RAC	yr	NSNT	NSNT
+129, 4	330, 4-6	RAC	mae yr cwm	NSNT	NSNT
+129, 5	330, 7-9	RAC	ei hunan tua	NSNT	NSNT
+129, 6	331, 1-5	RAC	ti mynd tair pedair milltir	---	NSNT
+
+
+130, 1	334, 1-2	OWA	*oh* Duw	---	NST
+
+
+131, 1	335, 1-6	DER	oes yna neuadd yno yn *Glyn_Ceiriog*	---	NST
+
+
+132, 1	337, 1-6	RAC	mae yna neuadd yn *Llanarmon* hefyd	NST	NST
+132, 2	337, 7-10	RAC	sy wedi ennill gwobr	---	NSNT
+
+
+133, 1	338, 1-4	DER	*yeah* achos dw i	NST	NST
+133, 2	338, 5-7	DER	dw i *sure*	NST	NST
+133, 3	338, 8-9	DER	bod ni	NSNT	NSNT
+133, 4	338, 10-23	DER	wedi bod yn gwneud *drama* yn *Glyn_Ceiriog* mynd *er* *drama* o yr ysgol felly	---	NST
+
+
+134, 1	339, 1-2	OWA	*yeah* wir	---	NST
+
+
+135, 1	342, 1-2	DER	*Adar_Mewn_Cawell* do	---	NST
+
+
+136, 1	343, 1-1	OWA	Duw	---	NSNT
+
+
+137, 1	344, 1-9	DER	a mynd â nhw i *Glyn_Ceiriog* de efo ceir	NST	NST
+137, 2	346, 1-14	DER	a yr *er* *bus* *mini* yn cario yr dodrefn a yr gêr i_gyd de	NST	NST
+137, 3	349, 1-6	DER	dw i *sure* na tua *Glyn_Ceiriog*	NST	NST
+137, 4	349, 7-8	DER	oedd hi	---	NSNT
+
+
+138, 1	351, 1-5	RAC	trio cofio enw yr llefydd	NSNT	NSNT
+138, 2	352, 1-3	RAC	mae *Idris_Davies* yn	NST	NST
+138, 3	353, 1-6	RAC	mae fe wneud *lot* o waith	NST	NST
+138, 4	354, 1-3	RAC	a mae *Theo_Davies*	NST	NST
+138, 5	354, 4-15	RAC	mae gyda nhw wneud dodrefn arbennig o dda yn_dyn nhw yn *Glyn_Ceiriog*	---	NST
+
+
+139, 1	355, 1-3	DER	*oh* ydyn nhw	---	NST
+
+
+140, 1	357, 1-4	RAC	gynnon nhw ganolfan gristnogol	NSNT	NSNT
+140, 3	359, 1-3	RAC	ond erbyn nawr	---	NSNT
+
+
+141, 1	360, 1-2	OWA	ia wir	NSNT	NSNT
+141, 2	362, 1-2	OWA	oedd wir	NSNT	NSNT
+141, 3	363, 1-7	OWA	*oh* pa mor bell ydy o *Llanrhaeadr_ym_Mochnant*	---	NST
+
+
+142, 1	364, 1-3	RAC	tua deng milltir	---	NSNT
+
+
+143, 1	365, 1-2	OWA	deng milltir	---	NSNT
+
+
+144, 1	366, 1-9	RAC	a dyma ni yn dod i *Talwrn* i fyw	NST	NST
+144, 2	367, 1-8	RAC	a drws nesa ni oedd *Ted* a *Gwenfair_Llwyd*	NST	NST
+144, 3	368, 1-7	RAC	oedd *Ted* a *Gwenfair* yn dod o	---	NST
+
+
+145, 1	369, 1-4	OWA	hollol hollol *yeah* *yeah*	---	NST
+
+
+146, 1	371, 1-3	DER	*well* ia de	---	NST
+
+
+147, 1	372, 1-3	RAC	byd bach yn_de	---	NSNT
+
+
+148, 1	374, 1-6	DER	o le oedden nhw yn dod	---	NSNT
+
+
+149, 1	375, 1-6	RAC	*er* mae *Gwenfair* dod o *Pen_y_Bont_Fawr*	---	NST
+
+
+150, 1	376, 1-1	OWA	*Fawr*	---	NST
+
+
+151, 1	377, 1-10	RAC	a mae *Ted* yn dod o *um* *Llangollen* yn_doedd e	---	NST
+
+
+152, 1	378, 1-1	DER	*Pen_y_Bont*	ST	NST
+152, 2	379, 1-2	DER	oedd o	---	NSNT
+
+
+153, 1	380, 1-6	OWA	yr ardal yna rywle oedd o	---	NSNT
+
+
+154, 1	383, 1-7	RAC	*yeah* oedd ei *farm* ar_bwys yr *um*	NST	NST
+154, 2	384, 1-5	RAC	beth yw yr *Ladies_of_Llangollen* yfe	ST	NST
+154, 3	387, 1-2	RAC	*yeah* *Allt_Wen*	---	NST
+
+
+155, 1	388, 1-2	DER	gymeriad de	---	NSNT
+
+
+156, 1	391, 1-3	RAC	ar ei *fotorbike*	---	NST
+
+
+157, 1	392, 1-5	OWA	because fuon ni yn *er*	NST	ST
+157, 2	392, 6-16	OWA	be oedd enw fo *oh* *Llanrhaeadr_ym_Mochnant* yn ystod yr ha yma	NST	NST
+157, 3	395, 1-2	OWA	am wythnos	---	NSNT
+
+
+158, 1	396, 1-2	DER	do wir	---	NSNT
+
+
+159, 1	398, 2-9	OWA	oedd *Einir* wedi cael gafael yn ryw fwthyn	NST	NST
+159, 2	399, 1-4	OWA	bwthyn coed oedd o	NSNT	NSNT
+159, 3	401, 1-6	OWA	ac *er* yng nghwrt ryw *farm*	NST	NST
+159, 4	402, 1-4	OWA	a oedd o fendigedig	NSNT	NSNT
+159, 5	403, 1-4	OWA	wnes i fwynhau o	---	NSNT
+
+
+160, 1	404, 1-2	RAC	do wir	---	NSNT
+
+
+161, 1	405, 1-3	OWA	ew annwyl do	NSNT	NSNT
+161, 2	407, 1-2	OWA	fuon ni	---	NSNT
+
+
+162, 1	408, 1-3	RAC	fuoch chi *Melangell*	---	NST
+
+
+163, 1	409, 1-1	OWA	naddo	NSNT	NSNT
+163, 2	409, 2-2	OWA	aethon	NSNT	NSNT
+163, 3	409, 3-4	OWA	dyna un	NSNT	NSNT
+163, 4	409, 5-6	OWA	lle nad	NSNT	NSNT
+163, 5	409, 7-9	OWA	aethon ni ddim	NSNT	NSNT
+163, 6	412, 1-2	OWA	ddaru ni	NSNT	NSNT
+163, 7	412, 3-8	OWA	fuon ni fyny am y pistyll	NSNT	NSNT
+163, 8	413, 1-13	OWA	a wedyn aethon ni am yr *er* gwarchodfa natur yng nghwm *er* dim	NST	NST
+163, 9	415, 1-4	OWA	be ydy enw fo	NSNT	NSNT
+163, 10	416, 1-8	OWA	*oh* be ydy enw yr llyn neu yr	NST	NST
+163, 11	416, 9-12	OWA	lle mae yr argae	---	NSNT
+
+
+164, 1	419, 1-6	RAC	dim *Nant* *oh* *Cwm* *er* *Llyn_Brianne*	---	NST
+
+
+165, 1	420, 1-1	OWA	naci	NSNT	NSNT
+165, 2	421, 1-2	OWA	*oh* duwcs	NST	NST
+165, 3	422, 1-3	OWA	mae o tua	NSNT	NSNT
+165, 4	422, 4-9	OWA	be ydy o deuddeng milltir *round*	NST	NST
+165, 5	422, 10-10	OWA	dydy	NSNT	NSNT
+165, 6	423, 1-4	OWA	mae o andros o	NSNT	NSNT
+165, 7	424, 1-7	OWA	wyt ti yn troi mynd drwy *Pen_y_Bont_Fawr*	NST	NST
+165, 8	425, 1-8	OWA	a wedyn wyt ti mynd i yr chwith	NSNT	NSNT
+165, 9	426, 1-3	OWA	*oh* be *goblin*	---	NST
+
+
+166, 1	427, 1-1	RAC	*Fyrnwy*	---	NST
+
+
+167, 1	428, 1-5	OWA	*Fyrnwy* *sure* iawn ia ia	NST	NST
+167, 2	430, 1-5	OWA	fuon ni draw ffordd yno	NSNT	NSNT
+167, 3	431, 1-5	OWA	wedyn aethon ni yr Amwythig	---	NSNT
+
+
+168, 1	434, 1-4	RAC	fuoch chi yn *Erddig*	NST	NST
+168, 2	436, 1-3	RAC	bendigedig yn_dyw e	---	NSNT
+
+
+169, 1	439, 1-4	OWA	a wedyn *er* do	NST	NST
+169, 2	439, 5-6	OWA	gaethon ni	NSNT	NSNT
+169, 3	440, 1-3	OWA	faint fuon ni	NSNT	NSNT
+169, 4	441, 1-3	OWA	ryw bum noson	---	NSNT
+
+
+170, 1	444, 1-5	RAC	gaethoch chi dywydd go lew	---	NSNT
+
+
+171, 1	445, 1-8	OWA	fuon ni lwcus lwcus iawn efo yr tywydd	NSNT	NSNT
+171, 2	446, 1-11	OWA	ryw un diwrnod oedd hi lawog yn y bore *er* fel	NST	NST
+171, 3	446, 12-18	OWA	oedd hi yma bore deud y gwir	NSNT	NSNT
+171, 4	447, 1-3	OWA	ond dyna fo	NSNT	NSNT
+171, 5	447, 4-10	OWA	oedd y lle lle ein hunain a	NSNT	NSNT
+171, 6	449, 1-6	OWA	defaid o_gwmpas a yr gwartheg a	NSNT	NSNT
+171, 7	450, 1-4	OWA	wedyn oedd y pobl	NSNT	NSNT
+171, 8	450, 5-10	OWA	oedd yn byw ar y *farm*	NST	NST
+171, 9	450, 11-21	OWA	oedden nhw rhentio yr tir ac yn gwneud *er* gwaith contractio	---	NST
+
+
+172, 1	454, 1-2	RAC	dw *sure*	NST	NST
+172, 2	454, 3-9	RAC	bod teulu *Gwenfair* dal yna yn_dyn nhw	---	NST
+
+
+173, 1	455, 1-2	DER	talu felly	---	NSNT
+
+
+174, 1	456, 1-2	OWA	ella wir	NSNT	NSNT
+174, 2	458, 1-5	OWA	a rhyfedd dw i ddim	NSNT	NSNT
+174, 3	458, 6-19	OWA	dw i ddim wedi gweld *Gwenfair* i siarad *well* ers hynny deud y gwir	---	NST
+
+
+175, 1	461, 1-3	RAC	o'n arfer gweud	NSNT	NSNT
+175, 2	461, 4-8	RAC	bod yna dafarn yn *Llanrhaeadr_ym_Mochnant*	NST	NST
+175, 3	461, 9-20	RAC	lle oedd *lady* yn cadw yr *er* cwrw mewn *jug* mewn jygau	---	NST
+
+
+176, 1	462, 1-2	OWA	oedd wir	NSNT	NSNT
+176, 2	464, 1-2	OWA	oedd wir	---	NSNT
+
+
+177, 1	468, 1-5	DER	fath â honna yn Sir_Fôn	NSNT	NSNT
+177, 2	468, 6-12	DER	mae yna un yn *Bethel* neu *Bodorgan*	NST	NST
+177, 3	468, 13-13	DER	does	NSNT	NSNT
+177, 4	470, 1-9	DER	honno yr yr hen un yn fan yna oedd	---	NSNT
+
+
+178, 1	471, 1-5	OWA	dal i dal i *yeah*	NST	NST
+178, 2	473, 1-2	OWA	ia wir	---	NSNT
+
+
+179, 1	475, 1-4	DER	ochr arall i *Bethel*	---	NST
+
+
+180, 1	478, 1-14	OWA	*oh* ia o'n i sôn am hynna yn yn yr ysgol *um* wythnos dwytha	NST	NST
+180, 2	479, 1-4	OWA	dan ni darllen *Barti_Ddu*	NST	NST
+180, 3	480, 1-7	OWA	ac oedden nhw sôn am yr *er*	NST	NST
+180, 4	480, 8-14	OWA	pan oedd y *press_gang* yn dod felly	NST	NST
+180, 5	480, 15-23	OWA	a bod y hen wraig yma yn y dafarn	NSNT	NSNT
+180, 6	481, 1-6	OWA	*um* be oedd enw yr dafarn	NST	NST
+180, 7	482, 1-7	OWA	rywbeth fath â *Cae_Gwair* neu rywbeth felly	NST	NST
+180, 8	484, 1-8	OWA	a bod hi yn dŵad efo yr *jug*	NST	NST
+180, 9	485, 1-9	OWA	wedyn oedd yr hen hogiau ddim yn dallt hynny	NSNT	NSNT
+180, 11	487, 1-8	OWA	finnau yn trio deud wrthyn na dyna felly	NSNT	NSNT
+180, 12	487, 9-15	OWA	oedden nhw yn yr hen gyfnod felly	NSNT	NSNT
+180, 13	487, 16-37	OWA	bod hi yn mynd lawr i yr *cellar* ac yn agor y y gasgen ac yn dŵad efo llond *jug* ac yn	NST	NST
+180, 14	487, 38-41	OWA	roid o yn y	NSNT	NSNT
+180, 17	494, 1-4	OWA	y potiau felly de	NSNT	NSNT
+180, 18	496, 1-10	OWA	a wedyn oes yna rei yn dal i wneud hynny	---	NSNT
+
+
+181, 1	497, 1-4	DER	dw ddim yn gwybod	NSNT	NSNT
+181, 2	497, 5-9	DER	ydy yn dal i wneud	NSNT	NSNT
+181, 3	498, 1-2	DER	mi oedd	NSNT	NSNT
+181, 4	498, 3-4	DER	dw i	NSNT	NSNT
+181, 5	498, 5-6	DER	mae wedi	NSNT	NSNT
+181, 6	498, 7-16	DER	oedd hi wneud o yn yn amser i yma felly	NSNT	NSNT
+181, 7	500, 1-10	DER	ond chimod mae yna dipyn o flynyddoedd ers hynny felly	---	NSNT
+
+
+182, 1	501, 1-2	OWA	ia wir	---	NSNT
+
+
+183, 1	502, 1-5	DER	ond *um* dw ddim gwybod	NST	NST
+183, 2	503, 1-6	DER	mae yna rywun wedi gymryd drosodd	NSNT	NSNT
+183, 3	503, 7-8	DER	dw meddwl	---	NSNT
+
+
+184, 1	504, 1-2	OWA	dyna fo	---	NSNT
+
+
+185, 1	505, 1-7	DER	yr hen yn yr dafarn yna felly	---	NSNT
+
+
+186, 1	508, 1-7	RAC	un o ble chi yn wreiddiol *Derwena*	---	NST
+
+
+187, 1	509, 1-2	DER	o *Gonwy*	ST	NST
+187, 2	510, 1-1	DER	*Gonwy*	---	NST
+
+
+188, 1	511, 1-1	RAC	*Conwy*	ST	NST
+188, 3	513, 1-5	RAC	*Conwy* hunan neu tu allan	---	NST
+
+
+189, 1	514, 1-2	DER	tu allan	NSNT	NSNT
+189, 2	516, 1-10	DER	tu allan tu allan dwy filltir a hanner tu allan	---	NSNT
+
+
+190, 1	517, 1-2	OWA	dyna fo	---	NSNT
+
+
+191, 1	518, 1-4	DER	i_fyny yn y mynyddoedd	NSNT	NSNT
+191, 2	520, 1-4	DER	*yeah* fyny yr mynydd	---	NST
+
+
+192, 1	522, 1-8	RAC	ni gyd yn blant i ffermwyr te ni	---	NSNT
+
+
+193, 1	524, 1-5	OWA	na dw i ddim na	---	NSNT
+
+
+194, 1	525, 1-4	DER	na dydy o ddim	NSNT	NSNT
+194, 2	528, 1-3	DER	dim ond bod	---	NSNT
+
+
+195, 1	529, 1-13	OWA	dim ond bod *um* nheulu o nhad yn gweini ffarmwrs blynyddoedd nôl felly	NST	NST
+195, 2	531, 1-7	OWA	*um* a wedyn ryw wella ei hun	NST	NST
+195, 3	532, 1-2	OWA	a ddaru	NSNT	NSNT
+195, 4	532, 3-12	OWA	orffen yn *er* yn *well* yn weinyddwr yn *er* Gwynedd_Health	---	ST
+
+
+196, 1	534, 1-2	DER	do wir	NSNT	NSNT
+196, 2	536, 1-3	DER	da iawn de	---	NSNT
+
+
+197, 1	538, 1-10	OWA	*um* do chath o gadael yr ysgol yn ddeuddeg oed	NST	NST
+197, 2	539, 1-10	OWA	oedd angen i nain dalu hanner coron yr wythnos iddo	---	NSNT
+
+
+198, 1	540, 1-6	RAC	ie a nhad yn un_deg_pedwar oed	NSNT	NSNT
+198, 2	543, 1-10	RAC	dydy plant dim yn gwybod dim am hynna nawr na	---	NSNT
+
+
+199, 1	544, 1-5	OWA	na nac ydyn na na	---	NSNT
+
+
+200, 1	546, 1-12	DER	basai yna rei ohonyn nhw *right* falch petasen nhw yn cael mynd	NST	NST
+200, 2	546, 13-14	DER	dw *sure*	---	NST
+
+
+201, 1	548, 1-8	OWA	ond *er* dw i yn dal i ddeud	NST	NST
+201, 2	548, 9-13	OWA	dw i ddim yn credu	NSNT	NSNT
+201, 3	548, 14-17	OWA	fysai nhad y dyn	NSNT	NSNT
+201, 4	548, 18-28	OWA	oedd o betai o wedi cael yr addysg drwy brifysgol a	---	NSNT
+
+
+202, 1	549, 1-5	RAC	*yeah* wedi cael y cyfle	---	NST
+
+
+203, 1	550, 1-9	OWA	y cyfle ella na fasai fo ddim mor *er*	---	NST
+
+
+204, 1	551, 1-5	DER	awyddus i gymryd y blaen	---	NSNT
+
+
+205, 1	552, 1-7	OWA	y dyn y dyn oedd o felly	NSNT	NSNT
+205, 2	555, 1-3	OWA	ond mi ddatblygodd	NSNT	NSNT
+205, 3	555, 4-5	OWA	ei hun	NSNT	NSNT
+205, 4	557, 1-16	OWA	*um* a gwneud hynny heb ddim ysgol nag *er* choleg na dim y math felly yn_de	NST	NST
+205, 5	559, 1-7	OWA	*um* a mi mae gynno bump mi	NST	NST
+205, 6	559, 8-14	OWA	ysgrifennodd o bump o lyfrau i blant	---	NSNT
+
+
+206, 1	560, 1-2	RAC	do wir	---	NSNT
+
+
+207, 1	565, 1-13	OWA	mi gychwynnodd ar *er* sgrifennu storïau *siaconwnci* i yr *Cymro* i yr *Cymru_Plant*	---	NST
+
+
+208, 1	566, 1-2	DER	*well* *well*	---	NST
+
+
+209, 1	567, 1-7	OWA	a wedyn mi ddatblygodd hwnnw yn lyfr	NSNT	NSNT
+209, 2	568, 1-3	OWA	a mae yna	NSNT	NSNT
+209, 3	569, 2-8	OWA	mae yna bump o rei i blant	NSNT	NSNT
+209, 4	569, 9-9	OWA	dan	NSNT	NSNT
+209, 5	569, 10-16	OWA	dan ddeuddeg ella iau erbyn heddiw felly	---	NSNT
+
+
+210, 1	571, 1-6	DER	ydyn nhw yn dal mewn *print*	---	NST
+
+
+211, 1	572, 1-4	OWA	na faswn i credu	NSNT	NSNT
+211, 2	572, 5-13	OWA	bod nhw allan o *brint* *er* erbyn rŵan felly	---	NST
+
+
+212, 1	577, 1-1	DER	mae	NSNT	NSNT
+212, 2	577, 2-4	DER	gynnoch chi gopïau	---	NSNT
+
+
+213, 1	578, 1-1	OWA	mae	NSNT	NSNT
+213, 2	578, 2-5	OWA	gynna i *set* adre	---	NST
+
+
+214, 1	580, 1-9	RAC	*yeah* bydd yn *great* i yr wyres fach yn_fydd	---	NST
+
+
+215, 1	581, 1-2	DER	*well* bydd	NST	NST
+215, 2	581, 3-3	DER	bydd	NSNT	NSNT
+215, 3	583, 1-5	DER	bydd yn hollol wahanol i	NSNT	NSNT
+215, 4	583, 6-14	DER	be mae yr plant bach arall wedi darllen yn_bydd	---	NSNT
+
+
+216, 1	585, 1-2	OWA	*well* bydd	NST	NST
+216, 2	585, 3-5	OWA	mae hynny wir	---	NSNT
+
+
+217, 1	586, 1-1	RAC	bydd	---	NSNT
+
+
+218, 1	587, 1-1	DER	bydd	---	NSNT
+
+
+219, 1	588, 1-15	OWA	because dw i yn cofio trafod hyn efo *Bethan* cyn iddi fynd o ysgol *Talwrn*	NST	ST
+219, 2	589, 1-10	OWA	ac oedd hi yn awyddus iawn i gweld nhw felly	NSNT	NSNT
+219, 3	590, 1-7	OWA	ond *er* na oedd hi yn deud	NST	NST
+219, 4	590, 8-10	OWA	dw ddim credu	NSNT	NSNT
+219, 5	590, 11-16	OWA	bod nhw i blant heddiw felly	---	NSNT
+
+
+220, 1	591, 1-4	RAC	na mae yr *well*	NST	NST
+220, 2	591, 5-9	RAC	mae yr oes wedi newid	NSNT	NSNT
+220, 3	592, 1-3	RAC	*Llyfr_Mawr_y_Plant* yn_dyfe really	---	ST
+
+
+221, 1	593, 1-4	OWA	dyna ti un arall	---	NSNT
+
+
+222, 1	594, 1-6	RAC	mae hwnnw wedi newid yn_dyw e	---	NSNT
+
+
+223, 1	598, 1-7	OWA	*so* sut mae bywyd yn *Llanilar* *Rachel*	---	NST
+
+
+224, 1	599, 1-1	RAC	gwledig	NSNT	NSNT
+224, 3	603, 1-9	RAC	oedd y nhad cofio nhad yn godro a *um*	NST	NST
+224, 4	604, 1-11	RAC	godro llaw o'n nhw wneud ambell waith a bethau fel hynny	NSNT	NSNT
+224, 5	605, 1-10	RAC	dyw plant yr oes yma ddim yn gwybod dim_byd amdani	---	NSNT
+
+
+225, 1	606, 1-4	DER	ti wedi trio erioed	---	NSNT
+
+
+226, 1	607, 3-8	RAC	a ges i *kick* sawl *kick*	---	NST
+
+
+227, 1	609, 1-7	DER	oedd *mam* yn medru godro yn chimod	NST	NST
+227, 2	609, 8-12	DER	oedd hi medru godro yn	---	NSNT
+
+
+228, 1	610, 1-2	RAC	oedd fel	---	NSNT
+
+
+229, 1	611, 1-1	DER	*well*	ST	NST
+229, 3	614, 1-8	DER	ac o'n innau wedyn wrthi ac yn gwasgu	NSNT	NSNT
+229, 4	618, 1-4	DER	fuwch druan yn barod	---	NSNT
+
+
+230, 1	620, 1-7	OWA	oedd hi yn gallu tical yn deud	NSNT	NSNT
+230, 2	621, 1-3	OWA	dwn i ddim	NSNT	NSNT
+230, 3	621, 4-9	OWA	be dach chi yn alw fo	---	NSNT
+
+
+231, 1	622, 1-2	DER	*yeah* tical	---	NST
+
+
+232, 1	623, 1-1	OWA	tical	NSNT	NSNT
+232, 2	624, 1-6	OWA	ar y diwedd ar_ôl y godriad	NSNT	NSNT
+232, 3	626, 1-7	OWA	mae rywun yn mynd *round* yn enwedig	NST	NST
+232, 4	627, 1-6	OWA	oedd rywun yn hel bob diferyn	NSNT	NSNT
+232, 5	627, 7-7	OWA	doedd	NSNT	NSNT
+232, 6	629, 1-16	OWA	wedyn oedd rywun yn mynd *round* bob buwch a *just* tynnu yr y diferion o yna	---	NST
+
+
+233, 1	630, 1-2	DER	gael digon	---	NSNT
+
+
+234, 1	631, 1-13	RAC	*oh* *yeah* i sieco mae nhw i_gyd wedi clirio *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+235, 1	635, 1-8	OWA	*oh* lle roeddech chi wrth *Ffridd_Uchaf* *er* *Derwena*	---	NST
+
+
+236, 1	636, 1-9	DER	*um* ar_draws caeau ryw bum chwech o o gaeau	---	NST
+
+
+237, 1	640, 1-3	OWA	dw i gybyddus	NSNT	NSNT
+237, 2	640, 4-6	OWA	â *Herbert_George* *Ffridd_Uchaf*	---	NST
+
+
+238, 1	641, 1-2	DER	oeddech chi	---	NSNT
+
+
+239, 1	642, 1-1	OWA	oeddwn	NSNT	NSNT
+239, 2	643, 1-6	OWA	oedd *Alwena* yn gweithio efo ni	---	NST
+
+
+240, 1	644, 1-2	DER	oedd hi	---	NSNT
+
+
+241, 1	645, 2-10	OWA	oedd fuais i yn ffrindiau mawr efo efo *Alwena*	---	NST
+
+
+242, 1	647, 1-3	DER	*oh* deudwch chi	---	NST
+
+
+243, 1	648, 1-5	OWA	*yeah* wedyn priododd hi *Neville*	---	NST
+
+
+244, 1	649, 1-2	DER	*well* *well*	---	NST
+
+
+245, 1	650, 1-6	OWA	a wedyn oedd y chwaer arall	NSNT	NSNT
+245, 2	651, 1-5	OWA	oedd yna dair ohonyn nhw	NSNT	NSNT
+245, 3	653, 1-5	OWA	ddaru un priodi ac yn	NSNT	NSNT
+245, 4	654, 1-9	OWA	mi roedden nhw ffarmio wrth ymyl ysgol y *Creuddyn*	---	NST
+
+
+246, 1	656, 1-3	DER	*Lot* oedd un	---	NST
+
+
+247, 1	658, 1-5	OWA	a wedyn oedd yr ienga	---	NSNT
+
+
+248, 1	659, 1-6	DER	*Lot* dan ni yn galw hi	NST	NST
+248, 2	660, 1-5	DER	ddim be oedd enw hi	---	NSNT
+
+
+249, 1	661, 1-5	OWA	dw innau ddim cofio be	---	NSNT
+
+
+250, 1	662, 1-2	DER	*Charlotte* ydy	NST	NST
+250, 2	663, 1-2	DER	*Lot* ydy	---	NST
+
+
+251, 1	664, 1-3	OWA	*er* y ganol	NST	NST
+251, 2	665, 1-5	OWA	a wedyn oedd yr ienga	NSNT	NSNT
+251, 3	666, 1-4	OWA	*Mari* oedd yr ienga	---	NST
+
+
+252, 1	667, 1-4	DER	*oh* *right* nabod hi	---	NST
+
+
+253, 1	668, 1-4	OWA	aeth hi yn physiotherapist	---	SNT
+
+
+254, 1	669, 1-4	DER	*oh* ddim nabod hi	---	NST
+
+
+255, 1	670, 1-2	OWA	ond *er*	---	NST
+
+
+256, 1	672, 1-9	RAC	oes dal i fod teulu gyda chi yn *Conwy*	---	NST
+
+
+257, 1	673, 1-2	DER	mond chwaer	NSNT	NSNT
+257, 2	674, 1-8	DER	mond cefndryd a chyfnitherod yma ac acw de	---	NSNT
+
+
+258, 1	675, 1-5	OWA	dyna fo ia ia ia	---	NSNT
+
+
+259, 1	677, 1-2	DER	ond *um*	---	NST
+
+
+260, 1	678, 1-4	RAC	be amdano ti *Owain*	---	NST
+
+
+261, 1	679, 1-3	OWA	na *well* mae	NST	NST
+261, 2	679, 4-8	OWA	gynna i chwaer yn *Penrhyndeudraeth*	NST	NST
+261, 3	680, 1-1	OWA	mae	NSNT	NSNT
+261, 4	680, 2-6	OWA	gynna i chwaer yn *Doncaster*	NST	NST
+261, 5	682, 1-5	OWA	ond dyna yr cyfan ohono	NSNT	NSNT
+261, 6	682, 6-7	OWA	sy ar_ôl	NSNT	NSNT
+261, 7	684, 1-12	OWA	wedyn mi oedd y mrawd yn byw yn y yn y pentre	NSNT	NSNT
+261, 8	684, 13-13	OWA	dan	NSNT	NSNT
+261, 9	685, 1-7	OWA	*well* fuodd o farw dwy flynedd yn_ôl	---	NST
+
+
+262, 1	686, 1-6	DER	oes yna ddwy flynedd wedi mynd	NSNT	NSNT
+262, 2	688, 1-2	DER	i Dolig	---	NSNT
+
+
+263, 1	689, 1-6	RAC	na brawd *Sandra* oedd Dolig yfe	NST	NST
+263, 2	691, 1-3	RAC	oedd brawd *Sandra*	---	NST
+
+
+264, 1	692, 2-3	OWA	oedd *Sandra*	NST	NST
+264, 2	693, 2-4	OWA	oedd o Dolig	NSNT	NSNT
+264, 3	694, 1-8	OWA	ac oedd mrawd yn mynd diwedd diwedd Ionawr	---	NSNT
+
+
+265, 1	696, 1-7	DER	do *round* yr un pryd yn_doedden ia	---	NST
+
+
+266, 1	700, 2-4	OWA	na mae *sure*	NST	NST
+266, 2	700, 5-5	OWA	bod	NSNT	NSNT
+266, 3	700, 6-9	OWA	bod hi yn bedair	---	NSNT
+
+
+267, 1	701, 1-5	DER	mae yna fwy na dwy	---	NSNT
+
+
+268, 1	702, 3-4	OWA	bydd hi	NSNT	NSNT
+268, 2	702, 5-6	OWA	mae *sure*	NST	NST
+268, 3	702, 7-17	OWA	bydd hi yn bump ers i *Sandra* golli brawd leni ia	---	NST
+
+
+269, 1	703, 1-1	RAC	pump	---	NSNT
+
+
+270, 1	704, 1-3	OWA	bump mae *sure*	NST	NST
+270, 2	705, 1-7	OWA	a finnau wedyn ym mis mis Ionawr	NSNT	NSNT
+270, 3	706, 1-4	OWA	bydd *sure* o fod	---	NST
+
+
+271, 1	707, 1-3	DER	*sure* bod hi	---	NST
+
+
+272, 1	710, 2-5	OWA	mae amser yn hedfan	---	NSNT
+
+
+273, 1	711, 1-6	DER	amser yn yn_dydy yn fflio dydy	---	NSNT
+
+
+274, 1	714, 1-8	RAC	a yr ddau yn sydyn really do'n nhw	---	SNT
+
+
+275, 1	718, 1-8	OWA	*well* aeth brawd *Sandra* yn sydyn iawn iawn	---	NST
+
+
+276, 1	720, 1-4	DER	achos mae yr adar	NSNT	NSNT
+276, 2	720, 5-9	DER	gynnoch chi ers pa bryd	---	NSNT
+
+
+277, 1	721, 1-2	OWA	*well* ia	---	NST
+
+
+278, 1	722, 1-3	DER	raid chi feddwl	---	NSNT
+
+
+279, 1	723, 1-3	OWA	dw i wedi	NSNT	NSNT
+279, 2	724, 1-5	OWA	fe ddoth y deryn acw	---	NSNT
+
+
+280, 1	725, 1-3	RAC	dal efo chi	---	NSNT
+
+
+281, 1	726, 1-4	OWA	mond un mond un	NSNT	NSNT
+281, 2	727, 1-5	OWA	gadwon ni un fel *pet*	NST	NST
+281, 3	729, 1-5	OWA	ond dan ni yn difaru	NSNT	NSNT
+281, 4	729, 7-12	OWA	na basen ni cadw un arall	---	NSNT
+
+
+282, 1	730, 1-1	RAC	yndych	---	NSNT
+
+
+283, 1	732, 1-7	DER	yn *bartner* yn *bartner* iddo fo felly	---	NST
+
+
+284, 1	733, 1-2	OWA	oedd yna	NSNT	NSNT
+284, 2	733, 3-4	OWA	oedd yna	NSNT	NSNT
+284, 3	733, 5-6	OWA	oedd yna	NSNT	NSNT
+284, 4	733, 7-12	OWA	oedd yna *barrot* yna *er* eclectus	ST	ST
+284, 5	736, 1-9	OWA	a lliw tebyg iawn i geiliog *pheasant* arno fo	NST	NST
+284, 6	738, 1-7	OWA	ac *er* *oh* pan ddoth o acw	NST	NST
+284, 7	738, 8-19	OWA	oedd o yn edrych yn welw ei wedd a deud y gwir	NSNT	NSNT
+284, 8	739, 1-14	OWA	*um* o'n i ddim yn *sure* iawn pa mor hir basai fo yn byw	NST	NST
+284, 9	740, 1-7	OWA	ond oedd o yn dynwared y *phone*	---	NST
+
+
+285, 1	741, 1-2	RAC	oedd wir	---	NSNT
+
+
+286, 1	742, 1-4	OWA	fasai fo yn canu	---	NSNT
+
+
+287, 1	745, 1-10	RAC	*oh* *ho* *ho* *ho* *ho* *ho* *ho* *ho* *ho* *ho*	---	NST
+
+
+288, 1	746, 1-9	OWA	*um* ond *er* na mi aeth ymysg y lleill	NST	NST
+288, 2	748, 1-3	OWA	*um* ond dan	NST	NST
+288, 3	748, 4-9	OWA	dan ni yn difaru erbyn rŵan	NSNT	NSNT
+288, 4	748, 10-19	OWA	mae rywun yn dallt dipyn bach mwy amdanyn nhw *um*	NST	NST
+288, 5	748, 20-26	OWA	na fasen ni wedi cadw o felly	---	NSNT
+
+
+289, 1	750, 1-9	DER	fysai fo yn aderyn *right* ddiddorol i gael felly	---	NST
+
+
+290, 1	751, 1-2	OWA	mi fasai	NSNT	NSNT
+290, 2	751, 3-3	OWA	basai	NSNT	NSNT
+290, 3	753, 1-11	OWA	mae nhw yn gwerthu rywle ar_draws ryw bedwar cant yr un	---	NSNT
+
+
+291, 1	754, 1-2	RAC	nag ŷn	---	NSNT
+
+
+292, 1	755, 1-1	OWA	ydyn	NSNT	NSNT
+292, 2	755, 2-2	OWA	ydyn	---	NSNT
+
+
+293, 1	756, 1-4	DER	am un fel yna	NSNT	NSNT
+293, 3	759, 1-9	DER	fuoch chi yn y yn y sioe yma yn	---	NSNT
+
+
+294, 1	760, 1-5	OWA	do yn *Stafford* bythefnos yn_ôl	---	NST
+
+
+295, 1	761, 1-12	DER	a dach chi wedi newid o sioe cŵn i sioe adar wan	---	NSNT
+
+
+296, 1	762, 1-2	OWA	do wan	NSNT	NSNT
+296, 4	765, 1-8	OWA	colli yr sioeau cŵn hefyd rhaid mi gyfadde	---	NSNT
+
+
+297, 1	766, 1-1	RAC	yndych	NSNT	NSNT
+297, 2	768, 1-7	RAC	pwy gŵn o'ch chi yn arfer gadw	---	NSNT
+
+
+298, 1	769, 1-1	OWA	cockers	NSNT	NSNT
+298, 2	771, 1-4	OWA	cocker *spaniels* *yeah* *yeah*	---	NST
+
+
+299, 1	772, 1-2	DER	rei glas	---	NSNT
+
+
+300, 1	775, 1-1	OWA	mae	NSNT	NSNT
+300, 2	775, 2-12	OWA	genna i rei du a rei coch a deud y gwir	NSNT	NSNT
+300, 3	777, 1-17	OWA	ond *er* na o'n i cael mwy o fwyniant allan o yr cŵn na dw i yn	NST	NST
+300, 4	778, 1-5	OWA	dw yn mwynhau yr adar	---	NSNT
+
+
+301, 1	780, 1-7	DER	*yeah* fyddech chi mynd i *Crufts* yn_byddech	---	NST
+
+
+302, 1	781, 1-2	OWA	*oh* byddwn	NST	NST
+302, 2	781, 3-3	OWA	byddwn	---	NSNT
+
+
+303, 1	782, 1-3	DER	i weld sioe	---	NSNT
+
+
+304, 1	784, 1-5	RAC	*oh* mae ci mwy ffyddlon	---	NST
+
+
+305, 1	785, 3-4	OWA	mae o	---	NSNT
+
+
+306, 1	786, 1-4	RAC	mae fe yn ffrind	---	NSNT
+
+
+307, 1	787, 3-7	OWA	mae o wrth ochr rywun	---	NSNT
+
+
+308, 1	790, 1-2	DER	wahanol de	NSNT	NSNT
+308, 2	792, 3-9	DER	mae nhw yn yn *freed* arall dydyn	---	NST
+
+
+309, 1	796, 1-10	OWA	ond *er* oedd *Sandra* a finnau yn trafod *um* bore	NST	NST
+309, 2	797, 1-9	OWA	ryw wythnos i dydd Sul oedden ni yn *Stafford*	NST	NST
+309, 3	798, 1-13	OWA	oedden ni yn tynnu fewn i yr maes parcio ryw chwarter wedi naw	NSNT	NSNT
+309, 4	800, 1-7	OWA	a gweld y pobl oedd yn cerdded	NSNT	NSNT
+309, 5	801, 1-7	OWA	oedd yna filoedd yna *um* yn yr	NST	NST
+309, 6	802, 1-9	OWA	ryw fath o arddangosfa a a *sale* oedd hi	NST	NST
+309, 8	805, 1-4	OWA	oedd yna filoedd yna	NSNT	NSNT
+309, 9	806, 1-9	OWA	*um* *er* *er* yr hen *well* cae sioe *Stafford*	NST	NST
+309, 10	806, 10-14	OWA	oedd o sioe sir felly	NSNT	NSNT
+309, 11	808, 1-11	OWA	ac oedd yna tua pedair bump neuadd o wahanol bethau yna	NSNT	NSNT
+309, 12	809, 1-5	OWA	ac oedden nhw yn orlawn	---	NSNT
+
+
+310, 1	811, 1-2	RAC	mae yn	---	NSNT
+
+
+311, 1	812, 2-2	OWA	mae	NSNT	NSNT
+311, 2	812, 3-6	OWA	mae yn hynod o	---	NSNT
+
+
+312, 1	813, 1-7	DER	oes yna dim_byd tebyg ffordd hyn felly	---	NSNT
+
+
+313, 1	814, 1-2	OWA	nag oes	NSNT	NSNT
+313, 2	814, 3-4	OWA	nag oes	---	NSNT
+
+
+314, 1	815, 1-9	RAC	mae nhw wneud ryw gymaint yn Royal_Welsh ŷn nhw	---	SNT
+
+
+315, 1	816, 1-4	OWA	nac ydyn chydig iawn	NSNT	NSNT
+315, 2	817, 1-7	OWA	mae nhw gwneud efo ieir a colomennod	NSNT	NSNT
+315, 3	819, 1-5	OWA	ond *er* does yna ddim_byd	---	NST
+
+
+316, 1	820, 1-4	RAC	dim efo yr *exotics*	---	NST
+
+
+317, 1	821, 1-3	OWA	nac ydy nac	NSNT	NSNT
+317, 2	822, 1-7	OWA	*well* y *Parrot_Society* oedd yn gwneud hon	NST	NST
+317, 3	825, 1-6	OWA	a wedyn a mae yna firi	NSNT	NSNT
+317, 4	825, 7-9	OWA	wedi bod wrth_gwrs	NSNT	NSNT
+317, 5	826, 1-20	OWA	mae yna rei wedi mynd â yr *Parrot_Society* a gwahanol gymdeithasau i yr i yr i yr llys i ddeud	NST	NST
+317, 6	826, 21-24	OWA	bod nhw yn anghyfreithlon	NSNT	NSNT
+317, 7	827, 1-5	OWA	*um* ond *er* mae yna	---	NST
+
+
+318, 1	828, 1-4	DER	anghyfreithlon ym mha ffordd	---	NSNT
+
+
+319, 1	829, 1-2	OWA	*well* nad	NST	NST
+319, 2	829, 3-10	OWA	oedd rywun ddim yn cael gwerthu adar *um*	---	NST
+
+
+320, 1	830, 1-9	RAC	dyn nhw ddim yn adar gwyllt though ŷn nhw	---	SNT
+
+
+321, 1	831, 1-2	OWA	mae yna	NSNT	NSNT
+321, 2	832, 1-6	OWA	mae yna yr african *grey* *parrot*	ST	ST
+321, 3	832, 7-7	OWA	does	---	NSNT
+
+
+322, 1	835, 1-3	DER	*oh* rheina *yeah*	---	NST
+
+
+323, 1	836, 1-3	OWA	a mae rheiny	NSNT	NSNT
+323, 2	837, 1-5	OWA	*well* oedd rywun yn sôn	NST	NST
+323, 3	838, 1-5	OWA	dw meddwl mai rhaglen *Iolo*	NST	NST
+323, 4	838, 6-8	OWA	oedd hi *yeah*	NST	NST
+323, 5	839, 1-8	OWA	noson blaen ddeudodd rywun bod nhw yn sôn	NSNT	NSNT
+323, 6	839, 9-11	OWA	bod nhw *er*	NST	NST
+323, 7	839, 12-16	OWA	wchi yn yn lleihau oherwydd	---	NSNT
+
+
+323, 9	843, 1-3	OWA	*um* ond *er*	---	NST
+
+
+325, 1	845, 1-10	OWA	i wneud yr *er* tystysgrifau yma felly ia ia ia	---	NST
+
+
+327, 1	847, 1-4	OWA	dyna fo *yeah* *yeah*	NST	NST
+327, 2	849, 1-6	OWA	mi oedd yna ddau dderyn o	NSNT	NSNT
+327, 3	849, 7-19	OWA	ddoth acw *er* yn y yn y cyfnod hwnnw â phapurau efo fo	NST	NST
+327, 4	849, 20-25	OWA	be mae yn galw yn *C_I_T_E_S*	ST	NST
+327, 5	850, 1-7	OWA	c i *t* e *s* dw meddwl	NST	ST
+327, 6	851, 1-5	OWA	dwn i ddim be am	NSNT	NSNT
+327, 7	851, 6-8	OWA	be mae sefyll	NSNT	NSNT
+327, 8	852, 1-12	OWA	ond ffurflen *D_E_F_R_A* erbyn hyn yn rhoid hawl i chdi chadw hi	NST	NST
+327, 9	853, 1-7	OWA	os nag ydy yr y drwydded yna	NSNT	NSNT
+327, 10	853, 8-9	OWA	genno ti	NSNT	NSNT
+327, 11	853, 10-12	OWA	mae yn anghyfreithlon	---	NSNT
+
+
+328, 1	854, 1-1	RAC	papur	---	NSNT
+
+
+329, 1	856, 1-10	OWA	*er* a wedyn *er* na mi oedd yna un deryn	NST	NST
+329, 2	856, 12-13	OWA	ddoth acw	NSNT	NSNT
+329, 3	856, 14-15	OWA	oedd o	NSNT	NSNT
+329, 4	856, 16-16	OWA	werth	NSNT	NSNT
+329, 5	857, 1-12	OWA	*well* oedd o wedi cael ei yswirio i bymtheg cant adeg yna	---	NST
+
+
+330, 1	858, 1-2	DER	ewadd mawr	---	NSNT
+
+
+331, 1	859, 1-1	RAC	Duw	---	NSNT
+
+
+332, 1	860, 1-2	OWA	oedd o	NSNT	NSNT
+332, 2	860, 3-4	OWA	werth hynny	NSNT	NSNT
+332, 3	860, 5-9	OWA	dw i ddim yn gwybod	NSNT	NSNT
+332, 4	862, 1-4	OWA	ond *er* na oedd	NST	NST
+332, 5	862, 5-6	OWA	oedd o	NSNT	NSNT
+332, 6	862, 7-16	OWA	oedd wedi cael ei yswirio i i bymtheg can punt	---	NSNT
+
+
+333, 1	863, 1-6	RAC	oedd yn dipyn o gyfrifoldeb yn_doedd	---	NSNT
+
+
+334, 1	864, 1-1	DER	mae	NSNT	NSNT
+334, 2	866, 1-4	DER	mae yn dibynnu dibynnu	NSNT	NSNT
+334, 3	866, 5-7	DER	pwy sy isio	NSNT	NSNT
+334, 4	866, 8-15	DER	os dach chi yn werthu fo am bris	NSNT	NSNT
+334, 5	866, 16-16	DER	dydy	---	NSNT
+
+
+335, 1	867, 1-4	OWA	*well* dyna yr peth	NST	NST
+335, 2	869, 1-3	OWA	ac oedd rhyfedd	NSNT	NSNT
+335, 3	869, 4-11	OWA	pan ddoth rywun i ddechrau meddwl lle ti	NSNT	NSNT
+335, 4	869, 12-21	OWA	lle oedd rywun mynd i droi i gael wared arno	NSNT	NSNT
+335, 6	871, 1-16	OWA	i feddwl bod yna ddyn yn *Llantrisant* yn eu magu nhw ac yn eu gwerthu nhw	---	NST
+
+
+336, 1	876, 1-8	DER	a sut ddothoch chi ar ei draws o	---	NSNT
+
+
+337, 1	877, 1-10	OWA	*well* holi hwn a llall oedden nhw gwybod am rywun	NST	NST
+337, 2	878, 1-8	OWA	o'n i wedi clywed bod yna rywun yn	NSNT	NSNT
+337, 3	879, 1-7	OWA	fydda i yn camgymeryd y y lle	NSNT	NSNT
+337, 4	880, 1-2	OWA	dim *Llanfachreth*	NST	NST
+337, 6	882, 1-5	OWA	*um* lle lle roedd *Peter*	---	NST
+
+
+338, 1	883, 1-1	RAC	*Llanfechell*	---	NST
+
+
+339, 1	884, 1-3	OWA	*Llanfechell* dyna fo	NST	NST
+339, 2	885, 1-12	OWA	yn ochr *Llanfechell* mi oedd yna deulu fan yno yn cadw nhw	NST	NST
+339, 3	887, 1-11	OWA	*um* a wedyn holi am hwnnw a rywun arall yn deud	NST	NST
+339, 4	888, 1-8	OWA	*oh* ti wedi clywed am hwn a hwn	NST	NST
+339, 5	889, 1-5	OWA	a wedyn wnes i gysylltu	NSNT	NSNT
+339, 6	889, 6-11	OWA	â â yr *er* *chap* yma	NST	NST
+339, 7	890, 1-3	OWA	mi ddoth acw	NSNT	NSNT
+339, 8	891, 1-6	OWA	a chwarae teg fuodd o yn	NSNT	NSNT
+339, 9	891, 7-10	OWA	fuodd o dda iawn	NSNT	NSNT
+339, 10	892, 1-9	OWA	a wedyn fuon ni yn trafod dod i ddealltwriaeth	---	NSNT
+
+
+340, 1	894, 1-1	RAC	setlo	---	NSNT
+
+
+341, 1	895, 1-1	OWA	setlo	---	NSNT
+
+
+342, 1	896, 1-4	DER	cartre newydd iddyn nhw	NSNT	NSNT
+342, 2	898, 1-2	DER	*well* ia	---	NST
+
+
+343, 1	900, 1-4	OWA	ac yn *odd* yr	NST	NST
+343, 2	900, 5-9	OWA	oedd hyn be diwedd Ionawr	NSNT	NSNT
+343, 3	900, 10-10	OWA	doedd	NSNT	NSNT
+343, 4	901, 1-8	OWA	*well* wan oedd yr *er* y sioe yma	NST	NST
+343, 5	901, 9-16	OWA	oedd sioe hefyd yn *Stafford* ym mis Mawrth	NST	NST
+343, 6	902, 1-5	OWA	ac i fan yno yr	NSNT	NSNT
+343, 7	902, 6-9	OWA	aeth y ran fwya	---	NSNT
+
+
+344, 1	903, 1-2	RAC	*yeah* wir	---	NST
+
+
+345, 1	905, 1-11	OWA	ond aethon ni yno wedyn ym mis Hydref *um* o ddiddordeb	NST	NST
+345, 2	906, 1-9	OWA	ond wrth_gwrs oedden nhw wedi mynd *er* adeg hynny	NST	NST
+345, 3	907, 1-9	OWA	ond oedd y *boy* *er* yno felly yn gwerthu	NST	NST
+345, 4	908, 1-9	OWA	oedd gynno fo haid o o deulu yr parotiaid	---	NSNT
+
+
+346, 1	911, 1-10	DER	*oh* gynno fo le mawr i cadw nhw mae raid	---	NST
+
+
+347, 1	914, 1-3	RAC	a sŵn yfe	---	NSNT
+
+
+348, 1	915, 1-4	OWA	*well* dw i ddim	NST	NST
+348, 2	915, 5-8	OWA	oedd ei wraig o	NSNT	NSNT
+348, 3	915, 9-15	OWA	dw i *sure* yn dysgu yn ysgol	NST	NST
+348, 4	916, 1-3	OWA	dw ddim yn	NSNT	NSNT
+348, 5	917, 1-3	OWA	lle mae *Elsi*	NST	NST
+348, 6	918, 1-3	OWA	*Llantrisant* mae hi	---	NST
+
+
+349, 1	919, 1-3	DER	pwy *Elsi* wan	---	NST
+
+
+350, 1	920, 1-2	OWA	*Elsi_Owen* *Isallt*	---	NST
+
+
+351, 1	922, 1-1	RAC	*Llanddeusant*	---	NST
+
+
+352, 1	923, 1-1	DER	*Llanddeusant*	---	NST
+
+
+353, 1	924, 1-3	OWA	*Llanddeusant* ydy *Elsi*	---	NST
+
+
+354, 1	926, 1-8	DER	ia yn dim yn bell o felin *Llynnon*	---	NST
+
+
+355, 1	927, 1-3	OWA	dyna fo ia	NSNT	NSNT
+355, 2	928, 1-6	OWA	*um* ond *Llantrisant* *er* ysgol *Llantrisant*	NST	NST
+355, 3	929, 1-5	OWA	*er* oedden nhw byw *Plas_Llantrisant*	NST	NST
+355, 4	929, 6-7	OWA	mae *sure*	NST	NST
+355, 5	929, 8-10	OWA	fasai fo felly	NSNT	NSNT
+355, 6	930, 1-7	OWA	ac yn fan yno oedd ei *um*	NST	NST
+355, 7	930, 8-10	OWA	oedden nhw byw	NSNT	NSNT
+355, 8	931, 1-6	OWA	fyddai fo yn dreifio *lorry* ready_mix	ST	ST
+355, 9	932, 1-6	OWA	ond fuodd farw yn sydyn iawn	NSNT	NSNT
+355, 10	934, 1-12	OWA	*um* o_fewn o_fewn dwy flynedd sicr i mi ddod i nabod o	---	NST
+
+
+356, 1	935, 1-2	DER	ie wir	---	NSNT
+
+
+357, 1	936, 1-8	OWA	fuon ni yn siarad efo fo yn *Stafford*	NST	NST
+357, 2	936, 9-14	OWA	fysech chi yn deud penwythnos yma	NSNT	NSNT
+357, 3	937, 1-8	OWA	ac o_fewn wythnos oedd wedi marw trawiad felly	---	NSNT
+
+
+358, 1	938, 1-2	DER	*dear* *me*	---	NST
+
+
+359, 1	939, 1-2	RAC	*yeah* wir	ST	NST
+359, 2	942, 1-1	RAC	*horrible*	---	NST
+
+
+360, 1	943, 1-2	DER	*yeah* ofnadwy	---	NST
+
+
+361, 1	945, 1-8	RAC	fuoch chi yn dangos *lot* o yr cŵn	---	NST
+
+
+362, 1	946, 1-11	OWA	do fues i yn dangos am faint *just* i ugain mlynedd	NST	NST
+362, 2	949, 1-1	OWA	wedyn	---	NSNT
+
+
+363, 1	950, 1-6	RAC	wneud pwy fath o sioeau wedyn	NSNT	NSNT
+363, 2	951, 1-5	RAC	rai lleol neu chi mynd	---	NSNT
+
+
+364, 1	952, 1-8	OWA	oedd yna ia cychwyn y rei lleol felly	NSNT	NSNT
+364, 2	953, 1-7	OWA	a wedyn oedd rywun yn symud allan	NSNT	NSNT
+364, 3	954, 1-9	OWA	rhan fwya o_fewn *Glannau_Dyfrdwy* i Ben_Llŷn lawr i Drenewydd	NST	NST
+364, 4	956, 1-10	OWA	a wedyn *er* *Leeds* *Birmingham* wedyn *er* *Crufts* un waith	ST	NST
+364, 5	958, 1-3	OWA	*yeah* home home_grown	---	NST
+
+
+365, 1	959, 1-2	RAC	*yeah* go_lew	---	NST
+
+
+366, 1	960, 1-3	OWA	ia home_bred felly	NSNT	SNT
+366, 2	961, 1-2	OWA	wedyn *er*	---	NST
+
+
+367, 1	962, 1-5	RAC	yw e mor competitive cystadleuol	NSNT	SNT
+367, 2	962, 6-6	RAC	â	NSNT	NSNT
+367, 3	962, 7-10	RAC	be mae nhw weud	NSNT	NSNT
+367, 4	963, 1-5	RAC	yw yr bobl mor keen	---	SNT
+
+
+368, 1	964, 1-4	OWA	mae o yr peth	NSNT	NSNT
+368, 2	964, 5-5	OWA	sy	NSNT	NSNT
+368, 3	965, 1-6	OWA	i mi mae o yr peth	NSNT	NSNT
+368, 4	965, 7-9	OWA	sy yn cydredeg	NSNT	NSNT
+368, 5	965, 10-11	OWA	â canu	NSNT	NSNT
+368, 6	966, 1-7	OWA	mae yna sôn am gythraul y canu	NSNT	NSNT
+368, 7	969, 1-5	OWA	a mae yna gythraul cŵn	NSNT	NSNT
+368, 8	970, 2-2	OWA	mae	NSNT	NSNT
+368, 9	970, 3-9	OWA	mae o yn digwydd yn aml iawn	NSNT	NSNT
+368, 10	971, 1-1	OWA	mae	NSNT	NSNT
+368, 11	971, 2-4	OWA	mae yn dibynnu	NSNT	NSNT
+368, 12	971, 5-12	OWA	pwy sy yn sefyll ar ben y tennyn	NSNT	NSNT
+368, 13	973, 1-15	OWA	ar ar ei *dop* o yn_hytrach na be sy ar ei waelod o felly yn	NST	NST
+368, 14	973, 16-18	OWA	cyfri *lot* fawr	---	NST
+
+
+369, 1	974, 1-3	DER	dyna fo *yeah*	---	NST
+
+
+370, 1	976, 4-11	RAC	oedd *um* rhywun o'n i nabod yn *Fangor*	NST	NST
+370, 2	976, 12-16	RAC	mae hi yn clipio cŵn	NSNT	NSNT
+370, 3	977, 1-7	RAC	oedd hi yn gweud yr un peth	NSNT	NSNT
+370, 4	979, 1-8	RAC	oedd hi ddim yn yn trafferthu i gystadlu	NSNT	NSNT
+370, 5	979, 9-12	RAC	pan oedd hi gweld	NSNT	NSNT
+370, 6	979, 13-16	RAC	pwy oedd y beirniad	---	NSNT
+
+
+371, 1	980, 1-10	DER	*oh* mae yna *lot* o bobl *Eisteddfod* yn gwneud hynny	NST	NST
+371, 2	983, 1-4	DER	mae nhw holi gynta	NSNT	NSNT
+371, 3	983, 5-11	DER	pwy ydy beirniad yn enwedig efo canu	NSNT	NSNT
+371, 4	983, 12-16	DER	de pwy wedi beirniad canu	---	NSNT
+
+
+372, 1	986, 3-3	OWA	mae	NSNT	NSNT
+372, 2	986, 4-6	OWA	mae hynny wir	NSNT	NSNT
+372, 3	988, 1-9	OWA	ond *er* na wnes i ddechrau drwy *well* un	NST	NST
+372, 4	988, 10-16	OWA	oedd eto yn y *bank* *Standard* *Brian_Humphreys*	NST	NST
+372, 5	989, 1-2	OWA	ar_draws *Brian*	NST	NST
+372, 6	991, 1-1	OWA	dal	NSNT	NSNT
+372, 7	991, 2-9	OWA	dw i dal yn ffrindiau mawr efo *Brian*	NST	NST
+372, 8	992, 1-6	OWA	ei ei dad o gychwynnodd fi	SNT	NSNT
+372, 9	995, 1-1	OWA	*Brian*	ST	NST
+372, 10	996, 1-5	OWA	lle oedd *Brian* adeg hynny	ST	NST
+372, 11	997, 1-3	OWA	Newtown oedd o	NSNT	SNT
+372, 12	997, 4-5	OWA	dw meddwl	---	NSNT
+
+
+373, 1	999, 1-5	RAC	beth yw hanes *Brian* nawr	---	NST
+
+
+374, 1	1000, 1-11	OWA	*Brian* yn byw yn Llanelwy wedi ymddeol *um* ar ben *Allt_Goch*	NST	NST
+374, 2	1003, 1-4	OWA	ti gwybod y ffordd	---	NSNT
+
+
+375, 1	1004, 1-9	RAC	dim na dw i ddim yn gyfarwydd o_gwbl na	---	NSNT
+
+
+376, 1	1005, 1-3	OWA	dim yn gybyddus	NSNT	NSNT
+376, 2	1006, 1-11	OWA	pan fydda i mynd i Ddinbych neu i yr cyfeiriad yna	NSNT	NSNT
+376, 3	1006, 12-13	OWA	fydda i	NSNT	NSNT
+376, 4	1006, 14-23	OWA	dw i mynd rŵan drwy yr stâd ddiwydiannol *er* *Glan_Clwyd*	NST	NST
+376, 5	1008, 1-6	OWA	troi ffwrdd wrth pasio yr Eglwys_Farmor	NSNT	NSNT
+376, 6	1010, 1-18	OWA	a wedyn i_fyny a drwy ffordd gefn a wedyn i_lawr i Lanelwy drwy yr cefn math o beth	NSNT	NSNT
+376, 7	1012, 1-5	OWA	a wedyn mae a wedyn	NSNT	NSNT
+376, 8	1012, 6-12	OWA	mae yna ffordd pasio yr swyddfeydd *um*	NST	NST
+376, 9	1012, 13-19	OWA	be oedden nhw *Opticals* a rhein felly	NST	NST
+376, 10	1014, 1-6	OWA	a wedyn oedd yna ffordd troi	---	NSNT
+
+
+377, 1	1015, 1-1	DER	*Pilkingtons*	---	NST
+
+
+378, 1	1017, 1-4	OWA	troi i yr dde	---	NSNT
+
+
+379, 1	1018, 1-4	DER	i_fyny yr hen yna	---	NSNT
+
+
+380, 1	1020, 1-3	OWA	dyna fo *yeah*	NST	NST
+380, 2	1021, 1-2	OWA	dyna fo	NSNT	NSNT
+380, 4	1023, 1-16	OWA	a wedyn ar ben yr *er* yr allt ar y ar y dde yn fan yno	NST	NST
+380, 5	1025, 2-8	OWA	mae o wedi roi gorau i ddangos	NSNT	NSNT
+380, 6	1026, 1-9	OWA	ond *um* mae o gwneud *lot* efo yr *Kennel_Club*	NST	NST
+380, 7	1027, 1-1	OWA	mae	NSNT	NSNT
+380, 8	1027, 2-5	OWA	wedi bod yn De_Affrica	---	NSNT
+
+
+381, 1	1030, 1-8	RAC	oedd ei frawd e yn *vet* neu rywbeth	---	NST
+
+
+382, 1	1031, 1-2	OWA	nag oedd	NSNT	NSNT
+382, 2	1031, 3-5	OWA	na oedd o	NSNT	NSNT
+382, 3	1031, 6-9	OWA	oedd yna frawd yn	NSNT	NSNT
+382, 4	1031, 10-26	OWA	be oedd o wneud gweithio i_lawr yn y burfa olew yn fath â Aberdaugleddau neu rywle felly	NSNT	NSNT
+382, 5	1034, 1-12	OWA	a wedyn oedd yna ddwy chwaer un yn dysgu yn ochrau San_Clêr	NSNT	NSNT
+382, 6	1036, 1-7	OWA	ac un arall *er* ar y Wirral	ST	ST
+382, 7	1038, 1-20	OWA	wedyn ia oedd ei gartre fo *just* tu draw i i hen *gamp* *Butlins* ar y ffordd i_fewn i *Pwllheli*	NST	NST
+382, 8	1040, 1-3	OWA	oedd y tŷ	NSNT	NSNT
+382, 9	1040, 4-11	OWA	â ei gefn at y ffordd fawr felly	---	NSNT
+
+
+383, 1	1042, 1-5	RAC	fuodd ddim yn *Dolgellau* dofe	NST	NST
+383, 2	1043, 1-3	RAC	trio cofio nôl	NSNT	NSNT
+383, 3	1044, 1-2	RAC	cymysgu rwng	---	NSNT
+
+
+384, 1	1045, 1-8	OWA	dw i ddim yn gwybod deud y gwir	NSNT	NSNT
+384, 2	1047, 1-6	OWA	ond *er* dw i yn cofio	NST	NST
+384, 3	1047, 7-15	OWA	ddoth o i_fyny o o *Drenewydd* i i *Rhyl*	NST	NST
+384, 4	1049, 1-5	OWA	a wedyn mi oedd o	NSNT	NSNT
+384, 5	1049, 6-15	OWA	oedden nhw isio fo symud i rywle fath â *Market_Drayton*	---	NST
+
+
+385, 1	1050, 1-7	RAC	*oh* *right* ie oedd e yn arfer	NST	NST
+385, 2	1050, 8-17	RAC	bod yr hen Amwythig yn_doedd e yn rhan o yr	---	NSNT
+
+
+386, 1	1051, 1-2	OWA	dyna fo	NSNT	NSNT
+386, 2	1052, 1-4	OWA	a wedyn ddaru o	---	NSNT
+
+
+387, 1	1053, 1-1	RAC	gwrthod	---	NSNT
+
+
+388, 1	1054, 1-1	OWA	wrthod	NSNT	NSNT
+388, 2	1056, 1-8	OWA	wedyn gaeth o gyfle i ymddeol yn gynnar	NSNT	NSNT
+388, 3	1058, 1-3	OWA	a mi wnaeth	NSNT	NSNT
+388, 4	1060, 1-5	OWA	wedyn *er* na mae *Brian*	NST	NST
+388, 5	1060, 6-16	OWA	mae wedi mwynhau ei hun yn yr yn y byd cŵn	NSNT	NSNT
+388, 6	1062, 1-4	OWA	fel dw yn deud	NSNT	NSNT
+388, 7	1062, 5-8	OWA	mae o yn mi	NSNT	NSNT
+388, 8	1062, 9-18	OWA	oedd o yn beirniadu llawer iawn a deud y gwir	NSNT	NSNT
+388, 9	1063, 1-5	OWA	ond *er* dwn i ddim	NST	NST
+388, 10	1063, 6-9	OWA	ydy o dal wrthi	---	NSNT
+
+
+389, 1	1064, 1-13	RAC	gyda fi cyfnither sy yn cadw ieir a *bantams* a pethau fel hynny	NST	NST
+389, 2	1067, 1-5	RAC	a mae yn cadw *um*	NST	NST
+389, 3	1068, 1-17	RAC	mae rhai du pert i gael a phethau fel hynny yn_does a *pheasants* a pethau fel hynny	NST	NST
+389, 4	1069, 1-10	RAC	mae gyda hi tŷ cyngor mewn rhes o dai cyngor	NSNT	NSNT
+389, 5	1070, 1-4	RAC	a wedyn mae yna	NSNT	NSNT
+389, 6	1070, 5-7	RAC	gae ochr draw	NSNT	NSNT
+389, 7	1071, 1-9	RAC	a mae nhw yn wedi *um* rhentu yr cae	NST	NST
+389, 8	1072, 1-13	RAC	a mae e llawn *sheds* hefo yr yr adar yma pethau fel hynny	NST	NST
+389, 9	1073, 1-6	RAC	mae whi gyda nhw bob peth	---	NSNT
+
+
+390, 1	1074, 1-2	OWA	ia wir	---	NSNT
+
+
+391, 1	1076, 1-5	RAC	a wedyn mae nhw yn	NSNT	NSNT
+391, 2	1076, 6-12	RAC	mae nhw yn dangos rhai o nhw	NSNT	NSNT
+391, 3	1078, 1-2	RAC	dyna pam	NSNT	NSNT
+391, 4	1078, 3-6	RAC	oedd fi yn gweud	NSNT	NSNT
+391, 5	1078, 7-19	RAC	mae nhw yn dangos lawr yn yr y Royal_Welsh a bethau fel hynny	---	SNT
+
+
+392, 1	1079, 1-2	OWA	dyna fo	NSNT	NSNT
+392, 2	1080, 1-3	OWA	dw i cofio	NSNT	NSNT
+392, 3	1080, 4-5	OWA	mae yna	NSNT	NSNT
+392, 4	1080, 6-8	OWA	mae yna weinidog	NSNT	NSNT
+392, 5	1080, 9-17	OWA	dw i yn credu o yr canolbarth yn rywle	NSNT	NSNT
+392, 6	1083, 1-4	OWA	be ydy enw o	NSNT	NSNT
+392, 7	1084, 1-11	OWA	*Sion* rywbeth debyg iawn i *Sion_Aled* neu ryw ryw enw felly	NST	NST
+392, 8	1086, 1-3	OWA	*um* a mae	NST	NST
+392, 9	1086, 4-5	OWA	genno fo	NSNT	NSNT
+392, 10	1086, 6-6	OWA	dyna	NSNT	NSNT
+392, 11	1086, 7-10	OWA	ydy *er* *hobby* fo	NST	NST
+392, 12	1086, 11-18	OWA	ydy *er* cadw yr *bantams* yma pethau felly	---	NST
+
+
+393, 1	1087, 1-2	DER	*hobby* o	---	NST
+
+
+394, 1	1088, 1-6	OWA	wedyn mae yr mab hefyd rŵan	NSNT	NSNT
+394, 2	1090, 1-2	OWA	a mae	NSNT	NSNT
+394, 3	1090, 3-12	OWA	mae o ennill llawer iawn yn y sioe yn *Llanelwedd*	NST	NST
+394, 4	1093, 1-1	OWA	duwcs	NSNT	NSNT
+394, 6	1095, 1-7	OWA	*oh* sut mae yn gwneud o fel	NST	NST
+394, 7	1095, 8-17	OWA	oedd o mor agos i i i stâd dai cyngor	---	NSNT
+
+
+395, 1	1096, 1-5	RAC	dw i ddim yn deall	NSNT	NSNT
+395, 2	1098, 1-5	RAC	dw i ddim yn deall	NSNT	NSNT
+395, 3	1100, 1-5	RAC	dw i ddim yn deall	NSNT	NSNT
+395, 4	1101, 1-5	RAC	dw i ddim yn deall	---	NSNT
+
+
+396, 1	1103, 1-7	DER	sut mae gael hawl i wneud o	NSNT	NSNT
+396, 2	1105, 1-8	DER	fasai yna rywun wedi troi *round* yn deud	NST	NST
+396, 3	1105, 9-11	DER	mae nhw fudr	NSNT	NSNT
+396, 4	1105, 12-14	DER	neu mae nhw	NSNT	NSNT
+396, 5	1105, 15-17	DER	neu mae nhw	---	NSNT
+
+
+397, 1	1106, 1-1	OWA	*well*	ST	NST
+397, 2	1107, 1-8	OWA	*well* ia neu bod nhw wneud sŵn y	---	NST
+
+
+398, 1	1108, 1-10	RAC	*yeah* y sŵn baswn i meddwl mwy na dim_byd arall	---	NST
+
+
+399, 1	1110, 1-13	OWA	y sŵn clochdar yn y bore yn y bore cynnar baswn i feddwl	---	NSNT
+
+
+400, 1	1111, 1-3	RAC	*yeah* *yeah* dychmygu	---	NST
+
+
+401, 1	1112, 1-2	OWA	na fyddai	NSNT	NSNT
+401, 2	1112, 3-6	OWA	genna i *well* bachgen	NST	NST
+401, 3	1112, 7-13	OWA	oedd cydweithio fi a deud y gwir	---	NSNT
+
+
+402, 1	1113, 1-2	DER	*clock* larwm	---	NST
+
+
+403, 1	1114, 1-11	OWA	*er* byw yn *Fangor* yn *er* heb fod ymhell o *Ysbyty_Gwynedd*	NST	NST
+403, 2	1115, 1-9	OWA	a mi oedd o yn gwneud yr un peth	NSNT	NSNT
+403, 3	1116, 1-19	OWA	oedd o yn cadw yr *er* y *dandys* yma a pethau felly ac yn eu dangos nhw yn sioeau	NST	NST
+403, 4	1118, 1-11	OWA	ond oedd o mynd â yr ceiliogod i tŷ bob nos	---	NSNT
+
+
+404, 1	1120, 1-2	RAC	nag oedd	---	NSNT
+
+
+405, 1	1122, 1-3	OWA	oedd oherwydd *er*	NST	NST
+405, 2	1122, 4-10	OWA	bod nhw yn enwedig yn y gwanwyn	NSNT	NSNT
+405, 3	1122, 11-12	OWA	pan oedd	NSNT	NSNT
+405, 4	1122, 13-19	OWA	wchi yr wawr yn torri yn gynnar	---	NSNT
+
+
+406, 1	1123, 1-5	RAC	oedd pobl yn cwyno *yeah*	NST	NST
+406, 2	1124, 1-4	RAC	pobl yn achwyn *mmm*	---	NST
+
+
+407, 1	1128, 1-8	OWA	*er* ond mae raid bod pobl yn achwyn	NST	NST
+407, 2	1130, 1-5	OWA	wedyn dyna yr unig ffordd	NSNT	NSNT
+407, 3	1130, 6-10	OWA	oedd o yn gallu gwneud	---	NSNT
+
+
+408, 1	1132, 1-2	RAC	*yeah* achwyn	NST	NST
+408, 2	1132, 3-7	RAC	wyt ti weud neu cwyno	---	NSNT
+
+
+409, 1	1133, 1-9	OWA	fydda i yn defnyddio yr ddau deud y gwir	NSNT	NSNT
+409, 2	1135, 1-6	OWA	*yeah* achwyn neu neu gwyno felly	---	NST
+
+
+410, 1	1136, 1-2	DER	achwyn i	---	NSNT
+
+
+411, 1	1137, 1-6	OWA	basen i deud wrth y plant	NSNT	NSNT
+411, 2	1138, 1-3	OWA	paid ag achwyn	---	NSNT
+
+
+412, 1	1140, 1-7	DER	am peidio deud *story* felly am rywun	---	NST
+
+
+413, 1	1142, 1-9	OWA	ac eto os ydy rywun yn sut ddeuda i	---	NSNT
+
+
+414, 1	1143, 1-4	RAC	paid â gweud *story*	NST	NST
+414, 2	1144, 1-1	RAC	achwyn	NSNT	NSNT
+414, 3	1144, 2-5	RAC	yw cwyno i fi	---	NSNT
+
+
+415, 1	1145, 1-2	DER	ie paid	NSNT	NSNT
+415, 2	1146, 1-4	DER	na paid â deud	NSNT	NSNT
+415, 3	1146, 5-7	DER	paid â deud	---	NSNT
+
+
+416, 1	1147, 1-11	OWA	*yeah* cwyno cwyno i mi yn iawn ydy rywun yn moan_io	ST	ST
+416, 2	1149, 1-1	OWA	dyna	NSNT	NSNT
+416, 3	1149, 2-4	OWA	basai yr gair	NSNT	NSNT
+416, 4	1152, 1-2	OWA	ond achwyn	NSNT	NSNT
+416, 5	1152, 3-6	OWA	fasai deud *yeah* deud	NST	NST
+416, 6	1152, 7-12	OWA	basai rywun yn rhedeg a deud	---	NSNT
+
+
+417, 1	1153, 1-10	DER	paid ag achwyn wrth dy fam bod chdi wedi cael	---	NSNT
+
+
+418, 1	1154, 2-9	OWA	oedd *Rachel* yn deud peth a peth heno	NST	NST
+418, 2	1158, 1-7	OWA	a wedyn *oh* faset ti yn deud	NST	NST
+418, 3	1159, 1-3	OWA	*oh* paid â	NST	NST
+418, 4	1159, 4-6	OWA	paid ag achwyn	NSNT	NSNT
+418, 5	1160, 1-1	OWA	dyna	NSNT	NSNT
+418, 6	1160, 2-5	OWA	ydy achwyn i mi	---	NSNT
+
+
+419, 1	1162, 1-10	RAC	fydden i ddim yn meddwl defnyddio achwyn fel yna o_gwbl	---	NSNT
+
+
+420, 1	1164, 1-3	OWA	*oh* *yeah* wir	---	NST
+
+
+421, 1	1165, 1-2	RAC	na achwyn	NSNT	NSNT
+421, 2	1165, 3-4	RAC	byddai cwyno	NSNT	NSNT
+421, 3	1167, 1-10	RAC	ŷn ni yn cowntio achwyn a cwyno yr un peth	---	NSNT
+
+
+422, 1	1168, 1-4	OWA	dyna fo ia *yeah*	---	NST
+
+
+423, 1	1173, 1-4	RAC	does dim *use* cwyno	NST	NST
+423, 2	1175, 1-5	RAC	fyddech chi yn gweud hynna	---	NSNT
+
+
+424, 1	1178, 2-7	OWA	mae hwnnw yn yn rhannol felly	---	NSNT
+
+
+424, 3	1182, 1-2	OWA	ond *er*	NST	NST
+425, 2	1184, 1-15	DER	a do'n i yn dallt dim gair oedd y tair yn ei ddeud dim union	---	NSNT
+
+
+426, 1	1185, 1-1	RAC	gair	---	NSNT
+
+
+427, 1	1186, 1-7	DER	siarad iaith *Swahili* am a wyddwn i	---	NST
+
+
+428, 1	1188, 1-5	OWA	dyna fo *yeah* *yeah* *yeah*	---	NST
+
+
+429, 1	1192, 1-12	RAC	o'n i yn arfer *um* o'n i yn yn wreiddiol o *Aberystwyth*	NST	NST
+429, 2	1194, 1-6	RAC	mynd ar *bus* fyny i *Machynlleth*	NST	NST
+429, 3	1195, 1-9	RAC	a oedd yr acen yn newid trwy pob pentre	---	NSNT
+
+
+430, 1	1196, 1-2	OWA	oedd wir	---	NSNT
+
+
+431, 1	1197, 1-5	RAC	oedd o'n i yn gwybod	NSNT	NSNT
+431, 2	1197, 6-13	RAC	oedd e yn troi ochr draw i *Talybont*	NST	NST

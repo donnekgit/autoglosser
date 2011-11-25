@@ -1,0 +1,1626 @@
+1, 1	1, 1-7	JAQ	*right* be gest ti i ginio heddiw	---	NST
+
+
+2, 1	2, 1-1	CHR	brechdanau	---	NSNT
+
+
+3, 1	3, 1-1	JAQ	brechdanau	---	NSNT
+
+
+4, 1	4, 1-2	CHR	*crisps* creision	NST	NST
+4, 2	6, 1-3	CHR	siocled diod ac	---	NSNT
+
+
+5, 1	7, 1-1	JAQ	what	SNT	NSNT
+5, 3	9, 1-2	JAQ	deud o	---	NSNT
+
+
+6, 1	10, 1-2	CHR	ac *yoghurt*	---	NST
+
+
+7, 1	11, 1-2	JAQ	*oh* da	NST	NST
+7, 2	12, 1-4	JAQ	oedd o yn *nice*	NST	NST
+7, 3	16, 1-6	JAQ	be gest ti ar dy brechdan	---	NSNT
+
+
+8, 1	17, 1-1	CHR	*coleslaw*	---	NST
+
+
+9, 1	18, 1-4	JAQ	*ooh* braf *nice* iawn	NST	NST
+9, 2	20, 1-8	JAQ	mi ges i heddiw *crackers* a egg *mayonnaise*	ST	ST
+9, 3	22, 1-4	JAQ	oedd o yn *nice*	---	NST
+
+
+10, 1	23, 1-4	CHR	ti gwybod fory *yeah*	NST	NST
+10, 2	25, 1-8	CHR	ga i egg *mayonnaise* ar fy brechdanau fi	---	ST
+
+
+11, 1	26, 1-2	JAQ	cei *sure*	---	NST
+
+
+12, 1	27, 1-1	CHR	diolch	---	NSNT
+
+
+13, 1	28, 1-6	JAQ	mae raid i chi atgoffa fi	NSNT	NSNT
+13, 2	28, 7-12	JAQ	pan dan ni yn mynd adre	NSNT	NSNT
+13, 3	31, 1-6	JAQ	ond dw i ddim yn gwybod	NSNT	NSNT
+13, 4	31, 7-13	JAQ	be dw i am wneud i te	NSNT	NSNT
+13, 5	32, 1-8	JAQ	be dach chi yn ffansïo i te heno	---	NSNT
+
+
+14, 1	33, 1-5	CHR	*um* dw ddim yn gwybod	---	NST
+
+
+15, 1	36, 1-2	JAQ	dim_byd *special*	---	NST
+
+
+16, 1	37, 1-1	CHR	*pasta*	---	NST
+
+
+17, 1	38, 1-3	JAQ	ti isio *pasta*	---	NST
+
+
+18, 1	39, 1-2	CHR	*pasta* *yeah*	---	NST
+
+
+19, 1	40, 1-5	JAQ	ia mae gen i *um*	---	NST
+
+
+20, 1	41, 1-3	CHR	hefo garlic bread	---	SNT
+
+
+21, 1	42, 1-2	JAQ	*o_k* ta	NST	NST
+21, 2	44, 1-5	JAQ	wna i wneud hynna ia	---	NSNT
+
+
+22, 1	47, 1-3	CHR	*oh* ella *yeah*	NST	NST
+22, 2	49, 1-8	CHR	ga i *um* cael *pasta* i ysgol fory	NST	NST
+22, 3	51, 1-11	CHR	neu cael spares ac wedyn ar dydd Iau cael egg *mayonnaise*	---	ST
+
+
+23, 1	52, 1-3	JAQ	mae fyny chi	---	NSNT
+
+
+24, 1	53, 1-2	CHR	ia hwnna	---	NSNT
+
+
+25, 1	54, 1-10	JAQ	os dw i wneud *pasta* i chi i te heno	NST	NST
+25, 2	54, 11-23	JAQ	a mae yna peth ar_ôl gei di fo fory i cinio am *change*	NST	NST
+25, 3	58, 1-2	JAQ	*o_k* ta	NST	NST
+25, 4	59, 1-8	JAQ	felly ti yn cael *pasta* a garlic bread	ST	ST
+25, 5	60, 1-10	JAQ	dw ddim gwybod be i wneud i fi a *dad*	NST	NST
+25, 6	61, 1-3	JAQ	ddim gwybod eto	NSNT	NSNT
+25, 7	62, 1-6	JAQ	be wnest ti ar y penwythnos	---	NSNT
+
+
+26, 1	63, 1-7	CHR	mynd nofio hefo *Mia* fy ffrind orau	---	NST
+
+
+27, 1	65, 1-5	JAQ	oeddech chi wedi blino ar_ôl	NSNT	NSNT
+27, 2	65, 6-8	JAQ	bod yn nofio	---	NSNT
+
+
+28, 1	68, 1-2	CHR	do *sure*	---	NST
+
+
+29, 1	69, 1-8	JAQ	oeddech chi wedi mynd i gwely yn fuan	---	NSNT
+
+
+30, 1	70, 1-6	CHR	*well* ia naw o gloch *yeah*	---	NST
+
+
+31, 1	72, 1-3	JAQ	naw o gloch	NSNT	NSNT
+31, 2	74, 1-5	JAQ	*oh* mae hwnna yn hwyr	---	NST
+
+
+32, 1	75, 1-2	CHR	nac ydy	---	NSNT
+
+
+33, 1	76, 2-4	JAQ	dw i meddwl	---	NSNT
+
+
+34, 1	79, 1-5	CHR	na ddim i fi *sure*	---	NST
+
+
+35, 1	80, 1-3	JAQ	dim i chdi	---	NSNT
+
+
+36, 1	81, 1-2	CHR	nag ydy	---	NSNT
+
+
+37, 1	82, 1-10	JAQ	faint o gloch dach chi yn mynd i gwely fel	NSNT	NSNT
+37, 2	82, 11-11	JAQ	arfer	---	NSNT
+
+
+38, 1	83, 1-3	CHR	chwarter i naw	---	NSNT
+
+
+39, 1	84, 1-3	JAQ	chwarter i naw	NSNT	NSNT
+39, 2	86, 1-11	JAQ	yn yr wythnos pan mae gen ti ysgol y bore nesa	---	NSNT
+
+
+40, 1	87, 1-7	CHR	ia ond pan does yna ddim ysgol	NSNT	NSNT
+40, 2	87, 8-16	CHR	dw i yn mynd i gwely yn hwyr iawn	NSNT	NSNT
+40, 3	89, 1-5	CHR	fel *um* deg o gloch	---	NST
+
+
+41, 1	90, 1-3	JAQ	deg o gloch	SNT	NSNT
+41, 2	92, 1-1	JAQ	*wow*	---	NST
+
+
+42, 1	93, 1-4	CHR	ti yn hoffi *Coronation_Street*	---	NST
+
+
+43, 1	94, 1-5	JAQ	ydw i yn hoffi *Coronation_Street*	NST	NST
+43, 2	97, 1-1	JAQ	yndw	NSNT	NSNT
+43, 3	97, 2-4	JAQ	dw i yn	---	NSNT
+
+
+44, 1	98, 1-2	CHR	a fi	---	NSNT
+
+
+45, 1	99, 1-7	JAQ	ond dw i yn hoffi *Eastenders* mwya	---	NST
+
+
+46, 1	100, 1-7	CHR	dw i yn hoffi *The_Bill* ac *Casualty*	---	NST
+
+
+47, 1	102, 1-7	JAQ	ia dw i yn hoffi rheina hefyd	NSNT	NSNT
+47, 2	104, 1-12	JAQ	ond ar hyn o yr bryd dw i yn hooked i *Big_Brother*	---	ST
+
+
+48, 1	105, 1-2	CHR	a fi	NSNT	NSNT
+48, 2	106, 1-5	CHR	dw i yn hoffi *Big_Brother*	---	NST
+
+
+49, 1	107, 1-7	JAQ	faint o weithiau ti wedi gweld o	NSNT	NSNT
+49, 2	108, 1-5	JAQ	dim *lot* o weithiau na	---	NST
+
+
+50, 1	109, 1-2	CHR	dipyn *yeah*	---	NST
+
+
+51, 1	111, 1-5	JAQ	dw i wedi colli un	NSNT	NSNT
+51, 2	111, 6-9	JAQ	oedd ar teledu neithiwr	---	NSNT
+
+
+52, 1	112, 1-1	CHR	pam	---	NSNT
+
+
+53, 1	113, 1-7	JAQ	oherwydd oedd fy ngŵr yn gwylio pêl_droed	---	NSNT
+
+
+54, 1	114, 1-1	CHR	pêl_droed	---	NSNT
+
+
+55, 1	115, 1-2	JAQ	pêl_droed ia	---	NSNT
+
+
+56, 1	116, 1-2	CHR	ac roedd	NSNT	NSNT
+56, 2	119, 1-5	CHR	oedda chdi wedi mynd allan	---	NSNT
+
+
+57, 1	120, 1-18	JAQ	oedd yna dwy *game* ddoe un yn yn y pnawn ac un ac wyth o yr gloch neithiwr	---	NST
+
+
+58, 1	121, 1-2	CHR	pwy ydy	NSNT	NSNT
+58, 2	121, 3-12	CHR	pwy ydych chi yn eisiau i ennill yn yr World_Cup	---	SNT
+
+
+59, 1	122, 1-5	JAQ	*ooh* England dw isio ennill	---	ST
+
+
+60, 1	123, 1-5	CHR	dw isio England neu *Brazil*	---	ST
+
+
+61, 1	124, 1-6	JAQ	ia mae *Brazil* yn *team* dda	NST	NST
+61, 2	124, 7-7	JAQ	tydy	---	NSNT
+
+
+62, 1	125, 1-6	CHR	a mae *Ronaldinho* yn dda iawn	---	NST
+
+
+63, 1	126, 2-3	JAQ	mae o	---	NSNT
+
+
+64, 1	127, 1-2	CHR	ac *Ronaldo*	---	NST
+
+
+65, 1	128, 1-5	JAQ	dw i yn syportio Lerpwl	---	NSNT
+
+
+66, 1	129, 1-2	CHR	ac fi	---	NSNT
+
+
+67, 1	130, 1-2	JAQ	dyna pam	NSNT	NSNT
+67, 2	130, 3-8	JAQ	dw i isio England i ennill	---	SNT
+
+
+68, 1	131, 1-8	CHR	a fi oherwydd mae *Gerrard* a *Crouch* yna	---	NST
+
+
+69, 1	132, 1-4	JAQ	*oh* o *team* Lerpwl	---	NST
+
+
+70, 1	133, 1-6	CHR	o *team* Lerpwl yn England *yeah*	---	ST
+
+
+71, 1	137, 1-7	JAQ	gwelsoch chi yr *game* ddoe pnawn ddoe	---	NST
+
+
+72, 1	140, 1-4	CHR	ond dw i wedi	NSNT	NSNT
+72, 2	140, 5-10	CHR	ond gwelodd fi *Beckham* yn sgorio	---	NST
+
+
+73, 1	143, 1-3	JAQ	oedd o yn	---	NSNT
+
+
+74, 1	144, 1-3	CHR	oeddwn i meddwl	NSNT	NSNT
+74, 2	144, 4-7	CHR	oedd o yn *Rooney*	NST	NST
+74, 3	145, 1-6	CHR	roeddwn i jump_io i_fyny ac i_lawr	---	SNT
+
+
+75, 1	146, 1-1	JAQ	neidio	---	NSNT
+
+
+76, 1	148, 2-2	CHR	yndw	---	NSNT
+
+
+77, 1	149, 1-4	JAQ	*oh* da iawn ti	NST	NST
+77, 2	151, 1-10	JAQ	oeddech chi wedi gael hwyl ddoe yn tŷ *auntie* *auntie*	NST	NST
+77, 3	154, 1-2	JAQ	be wnaethoch	NSNT	NSNT
+77, 4	154, 3-4	JAQ	wnaethoch chi	---	NSNT
+
+
+78, 1	155, 1-3	CHR	chwarae hefo *dolls*	NST	NST
+78, 2	157, 1-4	CHR	ac mynd ar *bike*	---	NST
+
+
+79, 1	158, 1-2	JAQ	*oh* braf	NST	NST
+79, 2	160, 1-8	JAQ	mae *um* *bike* fi wedi cael ei trwsio	NST	NST
+79, 3	161, 1-3	JAQ	oedd gynno fo	NSNT	NSNT
+79, 4	161, 4-10	JAQ	oedd yr olwyn wedi mynd yn *flat*	---	NST
+
+
+80, 1	162, 1-7	CHR	oedd yn olwyn fi wedi cael *puncture*	NST	NST
+80, 2	164, 1-1	CHR	ac	NSNT	NSNT
+80, 3	165, 1-7	CHR	na doedd o ddim yn olwyn chdi	---	NSNT
+
+
+81, 1	166, 1-3	JAQ	be oedd o	NSNT	NSNT
+81, 2	166, 4-4	JAQ	ta	---	NSNT
+
+
+82, 1	167, 1-6	CHR	roedd o yn *um* *chain* chdi	---	NST
+
+
+83, 1	168, 1-3	JAQ	*oh* tsiaen ia	NST	NST
+83, 2	170, 1-5	JAQ	dyna fo a olwyn chdi	---	NSNT
+
+
+84, 1	173, 1-3	CHR	ac olwyn *Luke*	ST	NST
+84, 2	175, 1-2	CHR	*puncture* *yeah*	---	NST
+
+
+85, 1	176, 1-2	JAQ	*puncture* ia	NST	NST
+85, 2	178, 1-4	JAQ	*nuisance* mynd drost gwydr	---	NST
+
+
+86, 1	180, 1-2	CHR	*oh* *mam*	---	NST
+
+
+87, 1	181, 1-2	JAQ	cael tyllau	---	NSNT
+
+
+88, 1	182, 3-10	CHR	oeddwn i wedi mynd i yr llyfrgell *yeah*	NST	NST
+88, 2	183, 1-7	CHR	*oh* dw i wedi anghofio yr llyfrau	---	NST
+
+
+89, 1	184, 1-5	JAQ	lle ti wedi adael nhw	NSNT	NSNT
+89, 3	186, 1-2	JAQ	yn ysgol	---	NSNT
+
+
+90, 1	187, 1-2	CHR	yn ysgol	NSNT	NSNT
+90, 2	188, 1-4	CHR	oeddwn i isio *um*	---	NST
+
+
+91, 1	189, 1-5	JAQ	ti wedi gael llyfr newydd	NSNT	NSNT
+91, 3	193, 1-4	JAQ	pa llyfr ydy o	---	NSNT
+
+
+92, 1	194, 1-7	CHR	*um* *Abigail* fy breeze y breeze fairy	---	ST
+
+
+93, 1	195, 1-7	JAQ	*oh* ti wedi darllen dipyn o fo	---	NST
+
+
+94, 1	196, 1-1	CHR	naddo	---	NSNT
+
+
+95, 1	198, 1-5	JAQ	ti ddim wedi cychwyn o	---	NSNT
+
+
+96, 1	202, 1-6	CHR	ac yr un Cymraeg ydy *um*	NST	NST
+96, 2	203, 1-4	CHR	dw i anghofio fo	NSNT	NSNT
+96, 3	204, 1-5	CHR	ond mae o amdan diary	---	SNT
+
+
+97, 1	205, 1-2	JAQ	amdan diary	SNT	SNT
+97, 2	208, 1-4	JAQ	oes gen ti diary	SNT	SNT
+97, 3	212, 1-7	JAQ	ti yn sgwennu yno fo bob dydd	NSNT	NSNT
+97, 4	216, 1-8	JAQ	dw i yn cadw diary ond *just* i	NST	ST
+97, 5	216, 9-10	JAQ	rhoid dyddiadau	---	NSNT
+
+
+98, 1	217, 1-14	CHR	mae *Joanne* wedi deud wrth fi *um* i mynd i weld hi ar_ôl ysgol	---	NST
+
+
+99, 1	218, 1-6	JAQ	oedd hi wedi agor y *present*	---	NST
+
+
+100, 1	219, 3-7	CHR	ac roedd hi wedi dweud	NSNT	NSNT
+100, 2	219, 8-10	CHR	bod hi angen	---	NSNT
+
+
+101, 1	220, 1-2	JAQ	*size* mwy	---	NST
+
+
+102, 1	221, 1-1	CHR	*size*	---	NST
+
+
+103, 1	222, 1-2	JAQ	*size* mwy	---	NST
+
+
+104, 1	225, 1-3	CHR	dim fourteen na	---	SNT
+
+
+105, 1	227, 1-6	JAQ	mi geith hi fynd â fo	---	NSNT
+
+
+106, 1	228, 1-5	CHR	ond lle mae yr *receipt*	---	NST
+
+
+107, 1	229, 1-3	JAQ	i yr *shop*	NST	NST
+107, 2	230, 1-1	JAQ	mae	NSNT	NSNT
+107, 3	230, 2-7	JAQ	genno fi yr *receipt* yn tŷ	---	NST
+
+
+108, 1	231, 1-2	CHR	ffonia hi	---	NSNT
+
+
+109, 1	232, 1-2	JAQ	wna i	NSNT	NSNT
+109, 2	233, 1-9	JAQ	dw i wedi text_io hi i ddeud pen_blwydd hapus	NSNT	SNT
+109, 3	235, 1-8	JAQ	ond tydy hi ddim wedi text_io fi nôl	NSNT	SNT
+109, 4	237, 1-6	JAQ	ydy hi yn mynd allan heno	---	NSNT
+
+
+110, 1	238, 1-2	CHR	nag ydy	---	NSNT
+
+
+111, 1	241, 1-7	JAQ	oedden nhw wedi mynd i *pictures* neithiwr	NST	NST
+111, 2	243, 1-5	JAQ	oedde hi wedi mwynhau hynna	---	NSNT
+
+
+112, 1	246, 1-3	CHR	dw meddwl *yeah*	---	NST
+
+
+113, 1	247, 1-5	JAQ	lle aethon nhw i te	---	NSNT
+
+
+114, 1	248, 1-3	CHR	ddim yn gwybod	NSNT	NSNT
+114, 2	249, 1-4	CHR	*Pizza_Hut* dw i meddwl	---	NST
+
+
+115, 1	250, 1-1	JAQ	*Pizza_Hut*	ST	NST
+115, 3	253, 1-11	JAQ	*yeah* oedden nhw yn sôn am fynd i *Pizza_Hut* neu *K_F_C*	NST	NST
+115, 4	255, 1-4	JAQ	*so* *Pizza_Hut* oedd o	---	NST
+
+
+116, 1	256, 2-4	CHR	dw meddwl *yeah*	---	NST
+
+
+117, 1	257, 1-6	JAQ	pa *film* oedden nhw wedi gwylio	---	NST
+
+
+118, 1	258, 1-5	CHR	*oh* dw i wedi anghofio	---	NST
+
+
+119, 1	259, 1-4	JAQ	oedd hi yn deud	NSNT	NSNT
+119, 2	259, 5-8	JAQ	oedd o yn dda	---	NSNT
+
+
+120, 1	262, 1-6	CHR	ac *um* oedd *Michelle* yn mad	---	ST
+
+
+121, 1	263, 1-1	JAQ	pam	---	NSNT
+
+
+122, 1	264, 1-3	CHR	dawnsio yn yr	---	NSNT
+
+
+123, 1	265, 1-1	JAQ	yn	NSNT	NSNT
+123, 2	266, 1-2	JAQ	pa bryd	NSNT	NSNT
+123, 3	267, 1-2	JAQ	bore yma	NSNT	NSNT
+123, 4	269, 1-4	JAQ	pan aethoch chi yna	---	NSNT
+
+
+124, 1	273, 1-5	CHR	yn dawnsio i yr *Wiggles*	---	NST
+
+
+125, 1	274, 1-2	JAQ	*ah* bechod	NST	NST
+125, 2	275, 1-6	JAQ	oedd gynni hi *lot* o presantau	---	NST
+
+
+126, 1	278, 1-7	CHR	ac roedd hi wedi dweud yr *oh*	NST	NST
+126, 2	278, 8-10	CHR	roedd yr *um*	---	NST
+
+
+127, 1	279, 1-1	JAQ	cardyn	---	NSNT
+
+
+128, 1	280, 1-4	CHR	*er* cerdyn yn *nice*	---	NST
+
+
+129, 1	281, 1-2	JAQ	yr un	---	NSNT
+
+
+130, 1	282, 1-7	CHR	*er* beth roedd i wedi dweud *yeah*	---	NST
+
+
+131, 1	283, 1-6	JAQ	*oh* be oeddech chi wedi ddeud	---	NST
+
+
+132, 1	284, 1-3	CHR	ac roedd hi	NSNT	NSNT
+132, 2	285, 1-5	CHR	*um* i cael pen_blwydd da	NST	NST
+132, 3	286, 1-8	CHR	ac roedd fi wedi dweud dda fel chdi	---	NSNT
+
+
+133, 1	288, 1-5	JAQ	oedde hi yn hoffi hynna	NSNT	NSNT
+133, 2	292, 1-7	JAQ	be oedd hi wedi gael gyn *Adrian*	---	NST
+
+
+134, 1	293, 1-1	CHR	*perfume*	---	NST
+
+
+135, 1	296, 1-5	JAQ	ti ddim gwybod enw fo	---	NSNT
+
+
+136, 1	297, 1-2	CHR	nag ydw	---	NSNT
+
+
+137, 1	300, 1-2	JAQ	be arall	---	NSNT
+
+
+138, 1	301, 1-3	CHR	ddim yn gwybod	---	NSNT
+
+
+139, 1	304, 1-6	JAQ	oedd gynni hi *lot* o cardiau	---	NST
+
+
+140, 1	308, 1-10	CHR	ac *um* pan roedd fi yn cerdded i yr ysgol	NST	NST
+140, 2	308, 11-15	CHR	oeddwn i wedi gweld *Nana*	---	NST
+
+
+141, 1	309, 1-3	JAQ	yn mynd yna	---	NSNT
+
+
+142, 1	311, 1-4	CHR	na yn mynd i	SNT	NSNT
+142, 2	312, 1-1	CHR	*Nana*	---	NST
+
+
+143, 1	314, 1-4	JAQ	oedd hi wedi gael	NSNT	NSNT
+143, 2	314, 5-12	JAQ	oedd *er* hi wedi gael *present* gyn *Nana*	---	NST
+
+
+144, 1	315, 1-5	CHR	dw i ddim yn gwybod	NSNT	NSNT
+144, 2	317, 1-6	CHR	doeddwn i wedi ddim wedi gofyn	---	NSNT
+
+
+145, 1	318, 1-5	JAQ	*oh* mae raid i chi	NST	NST
+145, 2	320, 1-4	JAQ	mae raid i chi	NSNT	NSNT
+145, 3	320, 5-10	JAQ	bod yn busnesu a gofyn cwestiynau	NSNT	NSNT
+145, 4	322, 1-3	JAQ	*well* ia *sure*	NST	NST
+145, 5	323, 1-11	JAQ	ti ddim yn gwybod wedyn os dach chi ddim yn gofyn	NSNT	NSNT
+145, 6	324, 1-8	JAQ	os dach chi yn gofyn ti yn gwybod	---	NSNT
+
+
+146, 1	325, 1-13	CHR	oedd hi wedi dweud *um* maybe fi yn cael cysgu yn tŷ hi	---	ST
+
+
+147, 1	326, 1-3	JAQ	*oh* *right* braf	---	NST
+
+
+148, 1	327, 1-1	CHR	on	---	NSNT
+
+
+149, 1	328, 1-2	JAQ	pa bryd	---	NSNT
+
+
+150, 1	329, 1-3	CHR	ar dydd Sadwrn	---	NSNT
+
+
+151, 1	330, 1-3	JAQ	dydd Sadwrn nesa	---	NSNT
+
+
+152, 1	333, 1-4	CHR	na dydd Sadwrn yma	---	NSNT
+
+
+153, 1	335, 1-4	JAQ	ar ben dy hun	---	NSNT
+
+
+154, 1	336, 1-3	CHR	dw meddwl *yeah*	---	NST
+
+
+155, 1	337, 1-5	JAQ	*yeah* mae rhaid i chi	NST	NST
+155, 2	337, 6-12	JAQ	paid â ddeud dim_byd wrth neb arall	NSNT	NSNT
+155, 3	337, 13-13	JAQ	ta	NSNT	NSNT
+155, 4	340, 1-9	JAQ	oherwydd ti yn gwybod be sy mynd i digwydd	---	NSNT
+
+
+156, 1	341, 1-2	CHR	*Christina* isio	---	NST
+
+
+157, 1	342, 1-4	JAQ	wneith hi isio aros	NSNT	NSNT
+157, 2	343, 1-14	JAQ	ond mae o yn *lot* i wneud efo dwy o plant bach hefyd yn_tydy	---	NST
+
+
+158, 1	344, 1-1	CHR	*Christina*	---	NST
+
+
+159, 1	346, 1-6	JAQ	mae gynni hi gwaith efo nhw	NSNT	NSNT
+159, 2	347, 1-5	JAQ	mae nhw yn ifanc yn_tydyn	NSNT	NSNT
+159, 3	349, 1-7	JAQ	*oh* dw i gwybod ti yn dda	NST	NST
+159, 4	350, 1-4	JAQ	ti yn helpu hi	---	NSNT
+
+
+160, 1	351, 1-7	CHR	naci mae hi eisio fi aros *yeah*	NST	NST
+160, 2	352, 1-9	CHR	oherwydd dw i yn dda helpu hefo yr babi	---	NSNT
+
+
+161, 1	353, 1-3	JAQ	ia ti yn	NSNT	NSNT
+161, 2	354, 1-4	JAQ	ti yn hogan dda	---	NSNT
+
+
+162, 1	355, 1-3	CHR	beth ydy amser	---	NSNT
+
+
+163, 1	356, 1-3	JAQ	mae hi yn	---	NSNT
+
+
+164, 1	357, 1-4	CHR	mae hwnna yn *wrong*	---	NST
+
+
+165, 1	358, 1-6	JAQ	bron yn chwarter i dw meddwl	NSNT	NSNT
+165, 2	359, 1-6	JAQ	*oh* ia mae o yn *wrong*	NST	NST
+165, 3	360, 1-4	JAQ	ugain munud wedi pedwar	NSNT	NSNT
+165, 4	361, 1-2	JAQ	dan ni	NSNT	NSNT
+165, 5	361, 3-7	JAQ	wedi bod yma ugain munud	SNT	NSNT
+165, 7	363, 1-2	JAQ	twenty *minutes*	---	NST
+
+
+166, 1	365, 1-5	CHR	be dach chi yn wneud	NSNT	NSNT
+166, 2	365, 6-11	CHR	pan dan ni mynd adre rŵan	---	NSNT
+
+
+167, 1	366, 1-2	JAQ	*well* dim_byd	NST	NST
+167, 2	367, 1-8	JAQ	dw isio *just* cychwyn wneud te i ni	NST	NST
+167, 4	369, 1-6	JAQ	a wedyn ond dw i meddwl	NSNT	NSNT
+167, 5	369, 7-12	JAQ	wna i popio i gweld *Joanne*	NST	NST
+167, 6	371, 1-6	JAQ	i ddeud pen_blwydd hapus iddi hi	---	NSNT
+
+
+168, 1	372, 1-3	CHR	ca i dod	---	NSNT
+
+
+169, 1	373, 1-5	JAQ	ia os dach chi isio	NSNT	NSNT
+169, 2	375, 1-9	JAQ	a wedyn awn ni mynd adre cael wneud te	NSNT	NSNT
+169, 3	376, 1-10	JAQ	gei di helpu fi wneud te os dach chi isio	NSNT	NSNT
+169, 4	378, 1-5	JAQ	dach chi wedi wneud *er*	---	NST
+
+
+170, 1	379, 1-7	CHR	beth ydy yr hoff anifail anifail chdi	---	NSNT
+
+
+171, 1	380, 1-3	JAQ	hoff anifail fi	NSNT	NSNT
+171, 2	382, 1-5	JAQ	*ooh* dw i yn hoffi	NST	NST
+171, 3	382, 6-10	JAQ	dw i yn hoffi cathod	NSNT	NSNT
+171, 4	383, 1-5	JAQ	oherwydd mae gennyn ni cath	NSNT	NSNT
+171, 5	385, 1-1	JAQ	a	NSNT	NSNT
+171, 7	387, 1-10	JAQ	dach chi ddim gorod wneud *lot* efo cathod nac ydach	NST	NST
+171, 9	389, 1-4	JAQ	mae nhw yn medru	---	NSNT
+
+
+172, 1	390, 1-1	CHR	pwpŵo	---	NSNT
+
+
+173, 1	391, 1-4	JAQ	edrych ar_ôl eu hunain	---	NSNT
+
+
+174, 1	392, 1-6	CHR	ac wneud yr waste eu hunain	---	SNT
+
+
+175, 1	393, 1-4	JAQ	tu allan i yr	NSNT	NSNT
+175, 2	395, 1-6	JAQ	ia dim yn y tŷ na	NSNT	NSNT
+175, 3	397, 1-6	JAQ	dach chi yn *just* bwydo nhw	NST	NST
+175, 4	398, 1-8	JAQ	a mae nhw yn molchi yn hunain yn_tydyn	---	NSNT
+
+
+176, 1	399, 1-9	CHR	ac mae nhw yn mynd allan heb heb ni	---	NSNT
+
+
+177, 1	400, 1-5	JAQ	a mae nhw yn mynd	NSNT	NSNT
+177, 2	400, 6-13	JAQ	mae nhw yn mynd allan trwy yr nos	NSNT	NSNT
+177, 3	402, 1-8	JAQ	yr unig beth dw i ddim yn hoffi	---	NSNT
+
+
+178, 1	403, 1-3	CHR	roi bwyd i	---	NSNT
+
+
+179, 1	404, 1-1	JAQ	mae	NSNT	NSNT
+179, 2	405, 1-1	JAQ	naci	NSNT	NSNT
+179, 3	406, 1-1	JAQ	mae	NSNT	NSNT
+179, 4	406, 2-7	JAQ	mae hi yn dŵad â llygoden	---	NSNT
+
+
+180, 1	407, 1-1	CHR	llygod	---	NSNT
+
+
+181, 1	408, 1-3	JAQ	i yr drws	NSNT	NSNT
+181, 2	409, 1-7	JAQ	a dw i ddim yn hoffi llygod	---	NSNT
+
+
+182, 1	410, 1-2	CHR	na fi	---	NSNT
+
+
+183, 1	411, 1-7	JAQ	sy wedi marw a pethau fel yna	NSNT	NSNT
+183, 2	411, 8-8	JAQ	ych	---	NSNT
+
+
+184, 1	412, 1-2	CHR	*guts* ych_a_fi	---	NST
+
+
+185, 1	414, 1-6	JAQ	ond dw i hoffi ci hefyd	NSNT	NSNT
+185, 2	415, 1-4	JAQ	mae rheina yn *nice*	---	NST
+
+
+186, 1	416, 1-4	CHR	dw i isio un	---	NSNT
+
+
+187, 1	418, 1-5	JAQ	dach chi yn hoffi ci	---	NSNT
+
+
+188, 1	419, 1-1	CHR	yndw	---	NSNT
+
+
+189, 1	421, 1-2	JAQ	pa fath	---	NSNT
+
+
+190, 1	422, 1-1	CHR	*labrador*	---	NST
+
+
+191, 1	423, 1-2	JAQ	*labradors* braf	NST	NST
+191, 2	424, 1-6	JAQ	dw i yn hoffi rheina hefyd	---	NSNT
+
+
+192, 1	425, 1-7	CHR	a dw yn hoffi rhei fel *Tyson*	---	NST
+
+
+193, 1	426, 1-6	JAQ	ia mae o yn ci *nice*	---	NST
+
+
+194, 1	428, 1-4	CHR	*guard* ydy o *guard*	---	NST
+
+
+195, 1	429, 1-1	JAQ	be	SNT	NSNT
+195, 3	431, 1-2	JAQ	*guard* dog	ST	NST
+195, 4	432, 1-5	JAQ	ia mae o yn dda	NSNT	NSNT
+195, 5	433, 1-6	JAQ	ia chwilio am ar_ôl y tŷ	NSNT	NSNT
+195, 6	436, 1-1	JAQ	da	NSNT	NSNT
+195, 7	438, 1-7	JAQ	a be ydy yr hoff anifail chdi	NSNT	NSNT
+195, 8	438, 8-8	JAQ	ta	---	NSNT
+
+
+196, 1	439, 1-1	CHR	*dolphin*	---	NST
+
+
+197, 1	440, 1-2	JAQ	*dolphin* ia	NST	NST
+197, 2	442, 1-1	JAQ	pam	---	NSNT
+
+
+198, 1	443, 1-4	CHR	*just* yn hoffi nhw	---	NST
+
+
+199, 1	444, 1-2	JAQ	*yeah* pam	---	NST
+
+
+200, 1	445, 1-1	CHR	*cute*	---	NST
+
+
+201, 1	446, 1-5	JAQ	ia mae nhw yn *cute*	NST	NST
+201, 2	448, 1-5	JAQ	dw i yn hoffi nhw	---	NSNT
+
+
+202, 1	449, 1-4	CHR	a fi *hmm* obviously	---	ST
+
+
+203, 1	450, 1-3	JAQ	mae *auntie* ni	NST	NST
+203, 2	450, 4-9	JAQ	wedi bod yn nofio hefo nhw	---	NSNT
+
+
+204, 1	451, 1-2	CHR	*auntie* *Laura*	---	NST
+
+
+205, 1	452, 1-6	JAQ	*yeah* ti cofio gweld y *d_v_d*	NST	NST
+205, 2	454, 1-4	JAQ	oedden nhw yn lle	SNT	NSNT
+205, 3	455, 1-1	JAQ	*America*	---	NST
+
+
+206, 1	456, 1-4	CHR	*um* dw meddwl *yeah*	NST	NST
+206, 2	458, 1-3	CHR	ddim yn *sure*	---	NST
+
+
+207, 1	459, 1-8	JAQ	a wedyn oedden nhw wedi nofio hefo *dolphin*	---	NST
+
+
+208, 1	460, 1-5	CHR	ia dw i yn *jealous*	---	NST
+
+
+209, 1	462, 1-1	JAQ	be	---	NSNT
+
+
+210, 1	463, 1-4	CHR	dw i yn *jealous*	NST	NST
+210, 2	465, 1-1	CHR	yndw	---	NSNT
+
+
+211, 1	466, 1-4	JAQ	dyro hwnna nôl *please*	NST	NST
+211, 2	467, 1-10	JAQ	*well* mae nhw wedi mynd ar eu gwyliau eto heddiw	---	NST
+
+
+212, 1	468, 1-2	CHR	pa bryd	NSNT	NSNT
+212, 2	469, 1-1	CHR	heddiw	---	NSNT
+
+
+213, 1	470, 1-1	JAQ	heddiw	---	NSNT
+
+
+214, 1	472, 1-2	CHR	i lle	---	NSNT
+
+
+215, 1	473, 1-11	JAQ	mae nhw yn mynd o fan yma i *Palma_Nova* a wedyn	---	NST
+
+
+216, 1	474, 1-3	CHR	lle mae hwnna	---	NSNT
+
+
+217, 1	475, 1-2	JAQ	yn Sbaen	---	NSNT
+
+
+218, 1	476, 1-1	CHR	Sbaen	---	NSNT
+
+
+219, 1	477, 1-7	JAQ	a wedyn mae nhw yn cael *cruise*	---	NST
+
+
+220, 1	478, 1-2	CHR	hefo pwy	---	NSNT
+
+
+221, 1	479, 1-8	JAQ	mae *Laura* *George* *Mrs_Swain* wedi mynd a *Andy*	---	NST
+
+
+222, 1	480, 1-2	CHR	dim *Simon*	---	NST
+
+
+223, 1	481, 1-8	JAQ	na mae *Simon* yn aros yn tŷ *Anna*	NST	NST
+223, 2	483, 1-3	JAQ	am yr wythnos	NSNT	NSNT
+223, 3	484, 1-8	JAQ	ond wedyn mae nhw yn criwsio y Mediterranean	---	SNT
+
+
+224, 1	485, 1-2	CHR	*ooh* *nice*	---	NST
+
+
+225, 1	486, 1-3	JAQ	braf iawn te	---	NSNT
+
+
+226, 1	487, 1-1	CHR	braf	---	NSNT
+
+
+227, 1	488, 1-9	JAQ	a mae *Andy* yn edrych ymlaen mynd ar *cruise*	NST	NST
+227, 2	489, 1-3	JAQ	dydy o ddim	NSNT	NSNT
+227, 3	489, 4-7	JAQ	wedi bod o blaen	NSNT	NSNT
+227, 4	491, 1-2	JAQ	na *Mrs_Swain*	NST	NST
+227, 5	492, 1-10	JAQ	*so* mae nhw yn edrych ymlaen mynd yn cael hwyl	---	NST
+
+
+228, 1	493, 1-1	CHR	*nice*	---	NST
+
+
+229, 1	494, 1-2	JAQ	braf te	NSNT	NSNT
+229, 2	496, 1-7	JAQ	a dan ni ddim yn mynd nunlle	---	NSNT
+
+
+230, 1	497, 1-1	CHR	boring	---	NSNT
+
+
+231, 1	498, 1-5	JAQ	*mmm* mae o yn boring	ST	ST
+231, 2	499, 1-2	JAQ	ond does	NSNT	NSNT
+231, 3	499, 3-9	JAQ	gynnon ni ddim pres dim blwyddyn yma	NSNT	NSNT
+231, 5	501, 1-1	JAQ	oherwydd	---	NSNT
+
+
+232, 1	503, 1-8	CHR	dan ni angen *lot* o pres i hwnna	---	NST
+
+
+233, 1	504, 1-4	JAQ	i adeiladu tŷ newydd	NSNT	NSNT
+233, 3	508, 1-12	JAQ	felly dan ni ddim yn medru mynd am *holiday* dim blwyddyn yma	NST	NST
+233, 4	509, 1-5	JAQ	ella gawn ni weekend rhywle	NSNT	SNT
+233, 5	510, 1-5	JAQ	dw ddim yn gwybod lle	NSNT	NSNT
+233, 6	511, 1-2	JAQ	dan ni	---	NSNT
+
+
+234, 1	512, 1-4	CHR	a fi a *Luke*	---	NST
+
+
+235, 1	513, 1-11	JAQ	*well* na dw ddim yn meddwl dim ond fi a *dad*	NST	NST
+235, 2	515, 1-4	JAQ	mi gewch chi fynd	NSNT	NSNT
+235, 3	515, 5-12	JAQ	pan dach chi yn gorffen ysgol gwyliau ha	NSNT	NSNT
+235, 4	516, 1-13	JAQ	wnawn ni fynd allan diwrnodau ella i Chester ella rywle fel yna *yeah*	NST	ST
+235, 5	518, 1-5	JAQ	neu os dach chi yn	NSNT	NSNT
+235, 6	519, 1-6	JAQ	gei di fynd i *Rhyl* *Sun_Centre*	NST	NST
+235, 7	520, 1-5	JAQ	mae hwnna yn dda yn_tydy	NSNT	NSNT
+235, 8	522, 1-8	JAQ	yn braf i lle braf i fynd *yeah*	---	NST
+
+
+236, 1	523, 1-6	CHR	*oh* *mam* wnei di nôl *um*	NST	NST
+236, 2	524, 1-3	CHR	beth ydy o	---	NSNT
+
+
+237, 1	525, 1-1	JAQ	be	---	NSNT
+
+
+238, 1	526, 1-4	CHR	*um* wedi anghofio do	---	NST
+
+
+239, 1	528, 1-2	JAQ	nôl be	---	NSNT
+
+
+240, 1	529, 1-1	CHR	*sheet*	---	NST
+
+
+241, 1	530, 1-1	JAQ	*sheet*	---	NST
+
+
+242, 1	531, 1-3	CHR	i fill_io mewn	---	SNT
+
+
+243, 1	532, 1-3	JAQ	i llenwi fewn	---	NSNT
+
+
+244, 1	533, 1-3	CHR	i llenwi fewn	---	NSNT
+
+
+245, 1	534, 1-2	JAQ	shiten be	---	NSNT
+
+
+246, 1	535, 1-3	CHR	yr summer *holidays*	ST	ST
+246, 2	537, 1-3	CHR	gwyliau haf i	---	NSNT
+
+
+247, 1	538, 1-2	JAQ	efo pwy	---	NSNT
+
+
+248, 1	539, 1-3	CHR	activities hefo *Tŷ_Cegin*	NST	ST
+248, 2	541, 1-5	CHR	ga i un o rheina	NSNT	NSNT
+248, 3	542, 1-5	CHR	ga i mynd i nhw	---	NSNT
+
+
+249, 1	543, 1-4	JAQ	*well* wnawn ni weld	NST	NST
+249, 2	543, 5-9	JAQ	be sy ar y taflen	---	NSNT
+
+
+250, 1	544, 1-5	CHR	*Sun_Centre* a *Greenwood* a pethau	---	NST
+
+
+251, 1	545, 1-4	JAQ	pwy sy wedi deud	NSNT	NSNT
+251, 2	545, 5-7	JAQ	bod nhw mynd	---	NSNT
+
+
+252, 1	546, 3-8	CHR	dan ni wneud o pob haf	NSNT	NSNT
+252, 2	546, 9-9	CHR	ydan	NSNT	NSNT
+252, 3	548, 1-1	CHR	meddwl	---	NSNT
+
+
+253, 1	549, 1-3	JAQ	dw ddim yn	NSNT	NSNT
+253, 2	549, 4-8	JAQ	dw i ddim yn meddwl	NSNT	NSNT
+253, 3	549, 9-15	JAQ	bod yr taflenni wedi dod allan eto	NSNT	NSNT
+253, 4	551, 1-7	JAQ	dw ddim wedi clywed am neb ddeud	NSNT	NSNT
+253, 5	552, 1-17	JAQ	mae nhw fel arfer yn dod â nhw i yr ysgol i rhannu allan i yr plant	NSNT	NSNT
+253, 6	554, 1-8	JAQ	ond dydyn dw i ddim wedi gweld dim_byd	---	NSNT
+
+
+254, 1	555, 1-10	CHR	dan ni mynd i *Knowsley_Safari_Park* dydd *um* dydd Iau nesaf	---	NST
+
+
+255, 1	556, 1-2	JAQ	*oh* braf	NST	NST
+255, 2	557, 1-8	JAQ	dach chi yn edrych ymlaen i mynd yna	---	NSNT
+
+
+256, 1	558, 1-2	CHR	*oh* yndw	NST	NST
+256, 2	560, 1-1	CHR	yndw	---	NSNT
+
+
+257, 1	561, 1-4	JAQ	dach chi yn gwybod	NSNT	NSNT
+257, 2	561, 5-7	JAQ	be sy yna	---	NSNT
+
+
+258, 1	564, 1-2	CHR	dim yn	NSNT	NSNT
+258, 3	566, 1-8	CHR	ydyn ni mynd i yr un yn *Birmingham*	---	NST
+
+
+259, 1	567, 1-1	JAQ	*Birmingham*	ST	NST
+259, 2	568, 1-4	JAQ	naci Lerpwl dw meddwl	NSNT	NSNT
+259, 3	570, 1-5	JAQ	*just* tu allan i Lerpwl	NST	NST
+259, 4	572, 1-6	JAQ	ti yn gwybod be sydd yna	---	NSNT
+
+
+260, 1	573, 1-2	CHR	nag ydw	---	NSNT
+
+
+261, 1	574, 1-8	JAQ	anifeiliaid gwyllt teigrod *monkeys* a pethau fel yna	NST	NST
+261, 3	576, 1-7	JAQ	dach chi mynd ar ar_hyd llwybr *yeah*	---	NST
+
+
+262, 1	578, 1-1	CHR	cerdded	---	NSNT
+
+
+263, 1	579, 1-3	JAQ	naci mewn *bus*	NST	NST
+263, 2	581, 1-17	JAQ	a wedyn mae yr mwncïod yn neidio ar y *bus* a chwarae hefo *windscreen* wipers a pethau	---	ST
+
+
+264, 1	583, 1-1	CHR	*smart*	---	NST
+
+
+265, 1	585, 1-6	JAQ	mae *nice* i cael gweld nhw	NST	NST
+265, 2	586, 1-7	JAQ	oherwydd mae nhw *right* o flaen ti	NST	NST
+265, 3	587, 1-14	JAQ	ti ddim yn gael hynna nag ydach pan dach chi mynd i yr *zoo*	NST	NST
+265, 4	589, 1-4	JAQ	mae nhw yn *caets*	NST	NST
+265, 5	591, 1-7	JAQ	dydy o ddim yr un fath nac	---	NSNT
+
+
+266, 1	592, 1-2	CHR	nac ydy	---	NSNT
+
+
+267, 1	593, 1-8	JAQ	a yr mwncïod *right* *right* o mlaen chi	NST	NST
+267, 2	595, 1-4	JAQ	be arall sy yna	---	NSNT
+
+
+268, 1	596, 1-4	CHR	ac fydd yna ffair	---	NSNT
+
+
+269, 1	598, 1-9	JAQ	dach chi isio pres i mynd ar pethau *yeah*	---	NST
+
+
+270, 1	600, 1-2	CHR	*smart* *yeah*	NST	NST
+270, 2	602, 1-1	CHR	*cool*	---	NST
+
+
+271, 1	603, 1-7	JAQ	gwell na bod yn ysgol yn gweithio	---	NSNT
+
+
+272, 1	606, 1-8	CHR	os dydan ni ddim yn mynd *yeah* *um*	NST	NST
+272, 2	606, 9-13	CHR	dan ni yn aros adre	---	NSNT
+
+
+273, 1	610, 1-5	JAQ	*oh* *yeah* oherwydd mae yna	NST	NST
+273, 2	610, 6-9	JAQ	does yna ddim *um*	---	NST
+
+
+274, 1	611, 1-1	CHR	ysgol	---	NSNT
+
+
+275, 1	612, 1-1	JAQ	athrawon	NSNT	NSNT
+275, 2	614, 1-3	JAQ	yn ysgol na	---	NSNT
+
+
+276, 1	615, 1-1	CHR	naci	---	NSNT
+
+
+277, 1	616, 1-3	JAQ	i edrych ar_ôl	---	NSNT
+
+
+278, 1	617, 1-6	CHR	mae nhw yn dod hefo ni	---	NSNT
+
+
+279, 1	619, 1-11	JAQ	ella fydd rhei ohonyn nhw yn mynd i yr *um* babanod	NST	NST
+279, 2	621, 1-3	JAQ	am y dydd	---	NSNT
+
+
+280, 1	622, 1-6	CHR	mae nhw yn *um* aros adre	NST	NST
+280, 2	623, 1-2	CHR	aros adre	---	NSNT
+
+
+281, 1	624, 1-3	JAQ	cael day *off*	ST	ST
+281, 2	628, 1-3	JAQ	*oh* braf iawn	NST	NST
+281, 3	629, 1-9	JAQ	ydy *lot* o ffrindiau chi yn mynd hefo chi	---	NST
+
+
+282, 1	630, 1-5	CHR	dydy *Sharon* ddim yn mynd	---	NST
+
+
+283, 1	631, 1-1	JAQ	pam	---	NSNT
+
+
+284, 1	632, 1-4	CHR	mae *Mia* yn mynd	NST	NST
+284, 2	633, 1-3	CHR	*Samantha* yn mynd	NST	NST
+284, 3	634, 1-2	CHR	*Kirsten* mynd	---	NST
+
+
+285, 1	635, 1-4	JAQ	*lot* ohonyn nhw felly	---	NST
+
+
+286, 1	637, 1-2	CHR	*Ryan* mynd	---	NST
+
+
+287, 1	638, 1-9	JAQ	dach chi gorod fynd â packed lunch efo chi	---	SNT
+
+
+288, 1	641, 1-2	CHR	a pres	---	NSNT
+
+
+289, 1	642, 1-4	JAQ	a pres i fynd	---	NSNT
+
+
+290, 1	643, 1-5	CHR	faint ydw i yn cael	---	NSNT
+
+
+291, 1	644, 1-5	JAQ	dw i ddim yn gwybod	NSNT	NSNT
+291, 2	645, 1-8	JAQ	faint oedd o wedi ddeud ar y taflen	---	NSNT
+
+
+292, 1	646, 1-3	CHR	ten *pound* *maximum*	---	NST
+
+
+293, 1	647, 1-4	JAQ	*well* dyna chdi ta	NST	NST
+293, 2	648, 1-8	JAQ	gei di fynd â deg punt efo chdi	NSNT	NSNT
+293, 3	650, 2-6	JAQ	gynnoch chi savings i fynd	---	SNT
+
+
+294, 1	651, 1-2	CHR	*well* na	---	NST
+
+
+295, 1	654, 1-6	JAQ	na dach chi yn wario pres	---	NSNT
+
+
+296, 1	655, 1-5	CHR	ca i pres gan *Nana*	NST	NST
+296, 2	657, 1-6	CHR	pres gan ti pres gan *dad*	---	NST
+
+
+297, 1	658, 1-9	JAQ	mae raid i chi cadw yr *um* arian *pocket*	NST	NST
+297, 2	660, 1-3	JAQ	wythnos yma ia	---	NSNT
+
+
+298, 1	661, 1-2	CHR	wythnos yma	NSNT	NSNT
+298, 2	662, 1-7	CHR	ond dw i isio *credit* i fy	NST	NST
+298, 3	664, 1-5	CHR	fy *um* mobile *phone* fi	NST	ST
+298, 4	666, 1-1	CHR	yndw	---	NSNT
+
+
+299, 1	667, 1-12	JAQ	wyt ti yn gwario *lot* o pres ar y mobile *phone* chi	---	ST
+
+
+300, 1	668, 1-1	CHR	yndw	NSNT	NSNT
+300, 2	670, 1-5	CHR	ac *um* dw i yn	---	NST
+
+
+301, 1	671, 1-6	JAQ	ti ddim yn gael *free* texts	---	ST
+
+
+302, 1	672, 1-5	CHR	dim ond i *Virgin* mobiles	ST	ST
+302, 2	674, 1-7	CHR	a dw i yn *Virgin* mobile *yeah*	ST	ST
+302, 3	676, 1-11	CHR	ond mae *lot* o pobl yn fel *T_Mobile* a pethau *yeah*	---	NST
+
+
+303, 1	678, 1-3	JAQ	dw i efo	---	NSNT
+
+
+304, 1	679, 1-5	CHR	dw i yn ar *Virgin*	NST	NST
+304, 2	681, 1-14	CHR	dim ond *Sharon* ac *Eve* sydd ar *Virgin_Mobile* dw i yn *well* y pobl	NST	NST
+304, 3	681, 15-19	CHR	dw i yn gwybod *yeah*	---	NST
+
+
+305, 1	683, 1-8	JAQ	mae gyn *lot* ohonyn nhw *er* fobile *phones*	ST	ST
+305, 2	684, 1-9	JAQ	*lot* o plant plant ifanc ia efo mobile *phones*	---	ST
+
+
+306, 1	687, 1-7	CHR	cael *um* un newydd i fy pen_blwydd	---	NST
+
+
+307, 1	688, 1-2	JAQ	*oh* yndach	NST	NST
+307, 2	690, 1-6	JAQ	mae hwnna yn newyddion i fi	---	NSNT
+
+
+308, 1	691, 1-1	CHR	D_six_hundred	---	NSNT
+
+
+309, 1	692, 1-1	JAQ	D_six_hundred	---	NSNT
+
+
+310, 1	694, 1-3	CHR	neu *flat* D_six_hundred	---	ST
+
+
+311, 1	695, 1-7	JAQ	faint o pres mae nhw yn costio	---	NSNT
+
+
+312, 1	696, 1-1	CHR	ninety_nine	---	NSNT
+
+
+313, 1	697, 1-1	JAQ	ninety_nine	---	NSNT
+
+
+314, 1	698, 1-2	CHR	naw_deg_naw punt	---	NSNT
+
+
+315, 1	699, 1-12	JAQ	dw i ddim yn prynu un am naw_deg_naw punt no way *Jose*	---	ST
+
+
+316, 1	700, 1-7	CHR	*well* maybe mae nhw yn mynd i_lawr	---	ST
+
+
+317, 1	701, 1-2	JAQ	ella ia	---	NSNT
+
+
+318, 1	702, 1-2	CHR	ella *yeah*	---	NST
+
+
+319, 1	703, 1-5	JAQ	ia ella gei di un	NSNT	NSNT
+319, 2	704, 1-8	JAQ	mae yna *lot* o plant yn gael nhw	NST	NST
+319, 3	705, 1-9	JAQ	a wedyn pan mae nhw isio *credit* iddo fo	NST	NST
+319, 4	705, 10-13	JAQ	mae nhw yn meddwl	NSNT	NSNT
+319, 5	706, 1-13	JAQ	*oh* dw i ddim yn hoffi hyn gorod talu fy hun am *credit*	---	NST
+
+
+320, 1	708, 1-4	CHR	na dw i ddim	---	NSNT
+
+
+321, 1	709, 1-3	JAQ	*lot* o plant	NST	NST
+321, 2	710, 1-5	JAQ	*oh* mae o yn iawn	NST	NST
+321, 3	710, 6-12	JAQ	os dach chi yn cael arian *pocket*	NST	NST
+321, 4	710, 13-26	JAQ	os dach chi wneud jobsys i i yr teulu neu rhywbeth fel yna ia	NSNT	NSNT
+321, 5	713, 1-4	JAQ	dw i yn meddwl	NSNT	NSNT
+321, 6	713, 5-10	JAQ	bod o yn dechrau bwrw glaw	NSNT	NSNT
+321, 7	714, 1-2	JAQ	oeddwn i	NSNT	NSNT
+321, 8	714, 3-3	JAQ	oeddwn	NSNT	NSNT
+321, 9	714, 4-9	JAQ	oeddwn wedi gwisgo *shorts* bore yma	---	NST
+
+
+322, 1	716, 1-1	CHR	*shorts*	---	NST
+
+
+323, 1	717, 1-6	JAQ	*shorts* *well* rhei at fy mhengliniau	NST	NST
+323, 2	719, 1-7	JAQ	a wedyn amser cinio mi wnes mi	NSNT	NSNT
+323, 3	719, 8-16	JAQ	wnes i fynd adre i newid i *trousers* oherwydd	NST	NST
+323, 4	719, 17-20	JAQ	oedd hi yn oer	NSNT	NSNT
+323, 5	720, 1-9	JAQ	dach chi ddim yn gwybod be i gwisgo na	---	NSNT
+
+
+324, 1	721, 1-3	CHR	na ddim os	---	NSNT
+
+
+325, 1	722, 1-3	JAQ	yn y boreau	NSNT	NSNT
+325, 2	724, 1-12	JAQ	ella gei gewch chi gwisgo *trousers* a wedyn tua deg o gloch	NST	NST
+325, 3	724, 13-16	JAQ	mae yr haul yn	---	NSNT
+
+
+326, 1	725, 1-2	CHR	dod allan	---	NSNT
+
+
+327, 1	726, 1-2	JAQ	dod allan	NSNT	NSNT
+327, 2	727, 1-9	JAQ	a wedyn dach chi yn boeth wedyn yn dosbarth	NSNT	NSNT
+327, 3	729, 1-3	JAQ	ac yn gwaith	NSNT	NSNT
+327, 4	730, 1-7	JAQ	ti ddim yn gwybod be i gwisgo	NSNT	NSNT
+327, 5	732, 1-2	JAQ	*nuisance* yn_tydy	NST	NST
+327, 6	734, 1-3	JAQ	dw i meddwl	NSNT	NSNT
+327, 7	734, 4-11	JAQ	dan ni wedi cael yr ha ni rŵan	NSNT	NSNT
+327, 8	736, 1-2	JAQ	ti meddwl	---	NSNT
+
+
+328, 1	737, 1-1	CHR	yndw	---	NSNT
+
+
+329, 1	738, 1-16	JAQ	*lot* o plant wedi *ah* *well* rhieni wedi prynu paddling *pools* a pethau i plant nhw	NST	ST
+329, 2	740, 1-7	JAQ	lle mae yr ha ni wedi mynd	NSNT	NSNT
+329, 3	741, 1-2	JAQ	*nuisance* yn_tydy	NST	NST
+329, 4	743, 1-7	JAQ	a ydy yr un fath efo dillad	NSNT	NSNT
+329, 5	745, 1-11	JAQ	dach chi yn prynu dillad *nice* i yr ha a wedyn	NST	NST
+329, 6	745, 12-12	JAQ	does	NSNT	NSNT
+329, 7	745, 13-19	JAQ	gynnon ni ddim *chance* i gwisgo nhw	---	NST
+
+
+330, 1	746, 1-2	CHR	nag oes	---	NSNT
+
+
+331, 1	749, 1-10	JAQ	braf ar rhei sydd yn cael mynd ar eu wyliau	---	NSNT
+
+
+332, 1	750, 1-1	CHR	braf	---	NSNT
+
+
+333, 1	752, 1-2	JAQ	braf iawn	---	NSNT
+
+
+334, 1	753, 1-2	CHR	braf *sure*	---	NST
+
+
+335, 1	755, 1-6	JAQ	mae yn lle mawr hwn yn_tydy	NSNT	NSNT
+335, 2	757, 1-5	JAQ	mae yna *lot* o stafelloedd	---	NST
+
+
+336, 1	758, 1-1	CHR	stafelloedd	---	NSNT
+
+
+337, 1	759, 1-3	JAQ	*lot* o pobl	NST	NST
+337, 2	760, 1-2	JAQ	dw i	NSNT	NSNT
+337, 3	760, 3-7	JAQ	wedi bod yma o blaen	NSNT	NSNT
+337, 4	762, 1-5	JAQ	ti yn gwybod *Auntie* *Doris*	---	NST
+
+
+338, 1	763, 1-1	CHR	yndw	---	NSNT
+
+
+339, 1	764, 1-9	JAQ	oedd hi yn byw lawr y lôn fan yna	NSNT	NSNT
+339, 2	767, 1-12	JAQ	oeddwn i yn dod i_fyny i aros ar y penwythnos gyda nhw	NSNT	NSNT
+339, 3	769, 1-15	JAQ	a oeddwn i chwarae lawr y yn yr *um* ar y gwair yn fan yna	---	NST
+
+
+340, 1	770, 1-3	CHR	wrth ymyl hwnna	NSNT	NSNT
+340, 2	773, 1-1	CHR	da	---	NSNT
+
+
+341, 1	774, 1-7	JAQ	mae yna *lot* o llyfrau fan yma	ST	NST
+341, 2	776, 1-1	JAQ	*lot*	---	NST
+
+
+342, 1	777, 1-1	CHR	*lot*	---	NST
+
+
+343, 1	778, 1-6	JAQ	ti wedi bod yma o blaen	---	NSNT
+
+
+344, 1	779, 1-1	CHR	naddo	NSNT	NSNT
+344, 2	782, 1-2	CHR	mawr *yeah*	---	NST
+
+
+345, 1	783, 1-1	JAQ	*lot*	ST	NST
+345, 2	785, 1-7	JAQ	*mmm* be arall gawn ni siarad amdan	---	NST
+
+
+346, 1	786, 1-1	CHR	dim_byd	---	NSNT
+
+
+347, 1	787, 1-4	JAQ	ti wedi blino rŵan	NSNT	NSNT
+347, 2	791, 1-7	JAQ	dw i byth yn blino yn siarad	---	NSNT
+
+
+348, 1	792, 1-3	CHR	dw i yn	---	NSNT
+
+
+349, 1	793, 1-8	JAQ	medra i siarad i am Cymru a ennill	NSNT	NSNT
+349, 3	795, 1-3	JAQ	a cael gwobr	NSNT	NSNT
+349, 5	797, 1-3	JAQ	*lot* o pres	NST	NST
+349, 7	799, 1-7	JAQ	be ti am wneud ar_ôl mynd adre	---	NSNT
+
+
+350, 1	800, 1-1	CHR	aros	---	NSNT
+
+
+351, 1	801, 1-3	JAQ	ti mynd allan	---	NSNT
+
+
+352, 1	802, 1-4	CHR	aros i_mewn gwylio teledu	---	NSNT
+
+
+353, 1	803, 1-2	JAQ	aros i_mewn	NSNT	NSNT
+353, 2	805, 1-1	JAQ	pam	---	NSNT
+
+
+354, 1	806, 1-2	CHR	yn boring	---	SNT
+
+
+355, 1	807, 1-7	JAQ	ffrindiau chi ddim yn dod allan heno	---	NSNT
+
+
+356, 1	808, 1-3	CHR	*Sharon* yn grounded	---	ST
+
+
+357, 1	809, 1-2	JAQ	*ooh* pam	---	NST
+
+
+358, 1	810, 1-10	CHR	oherwydd roedd hi wedi cuddio yr gel o *Brad* *yeah*	NST	ST
+358, 2	811, 1-9	CHR	ac mae ei fam hi eisiau *um* defnyddio fo	NST	NST
+358, 3	812, 1-7	CHR	ac roedd hi wedi heb ffeindio fo	---	NSNT
+
+
+359, 1	813, 1-7	JAQ	a lle oedd hi wedi cuddio fo	---	NSNT
+
+
+360, 1	814, 1-2	CHR	ddim gwybod	---	NSNT
+
+
+361, 1	815, 1-3	JAQ	oddi_wrth ei brawd	---	NSNT
+
+
+362, 1	816, 1-2	CHR	oddi_wrth *yeah*	---	NST
+
+
+363, 1	817, 1-5	JAQ	mae hwnna yn cas yn_tydy	NSNT	NSNT
+363, 2	819, 1-5	JAQ	ydy hi yn defnyddio gel	SNT	SNT
+363, 3	821, 1-3	JAQ	i gwallt hi	---	NSNT
+
+
+364, 1	822, 1-2	CHR	fel fi	NSNT	NSNT
+364, 2	824, 1-3	CHR	copïo fi *yeah*	---	NST
+
+
+365, 1	825, 1-9	JAQ	a wedyn oedd *Brad* isio defnyddio yr gel *yeah*	---	ST
+
+
+366, 1	826, 1-4	CHR	roedd o yn *um*	NST	NST
+366, 2	826, 5-6	CHR	roedd hi	NSNT	NSNT
+366, 3	826, 7-12	CHR	roedd o yn mess_io rowndo fo	---	SNT
+
+
+367, 1	828, 1-3	JAQ	efo yr gel	SNT	SNT
+367, 2	830, 1-5	JAQ	a wedyn oedd *Sharon* wedi	---	NST
+
+
+368, 1	831, 1-4	CHR	cuddio fo oddi_wrtho fo	---	NSNT
+
+
+369, 1	832, 1-1	JAQ	cuddio	NSNT	NSNT
+369, 2	834, 1-9	JAQ	ydy hi wedi ddeud hwnna i i ei *mam*	NST	NST
+369, 3	837, 1-9	JAQ	a wedyn mae *mam* yn cas efo hi flin	ST	NST
+369, 4	840, 1-2	JAQ	*oh* *well*	---	NST
+
+
+370, 1	841, 1-1	CHR	*uh_huh*	---	NST
+
+
+371, 1	842, 1-2	JAQ	plant yma	NSNT	NSNT
+371, 2	843, 1-3	JAQ	sut mae *Debora*	NST	NST
+371, 3	844, 1-4	JAQ	ydy hi yn iawn	---	NSNT
+
+
+372, 1	845, 1-2	CHR	ddim gwybod	---	NSNT
+
+
+373, 1	846, 1-5	JAQ	ti ddim wedi gweld hi	NSNT	NSNT
+373, 2	850, 1-8	JAQ	ti ddim wedi bod yn *party* ers dipyn	---	NST
+
+
+374, 1	851, 1-1	CHR	pwy	---	NSNT
+
+
+375, 1	852, 1-1	JAQ	chdi	NSNT	NSNT
+375, 2	856, 1-5	JAQ	neb yn cael eu pen_blwydd	---	NSNT
+
+
+376, 1	857, 1-2	CHR	nag ydy	NSNT	NSNT
+376, 2	859, 1-2	CHR	nac ydy	---	NSNT
+
+
+377, 1	860, 1-10	JAQ	oedd *Sebastian* yn *um* dosbarth *Mrs_Morris* yn ddeud wrtha fi	NST	NST
+377, 2	860, 11-16	JAQ	bod o yn cael ei pen_blwydd	NSNT	NSNT
+377, 3	861, 1-10	JAQ	a mae o mynd i cael cacen pen_blwydd efo *Spongebob*	---	NST
+
+
+378, 1	862, 1-1	CHR	*Spongebob*	---	NST
+
+
+379, 1	863, 1-1	JAQ	*Spongebob_Squarepants*	ST	NST
+379, 2	864, 1-10	JAQ	a mae o mynd i cael *party* yn ei tŷ	NST	NST
+379, 3	865, 1-10	JAQ	a dim ond pump o ei ffrindiau fo sy mynd	NSNT	NSNT
+379, 4	866, 1-12	JAQ	a mae *mam* yfo yn gwneud *um* brechdanau a *jelly* cacennau bach	NST	NST
+379, 5	868, 1-4	JAQ	a mae hi yn	NSNT	NSNT
+379, 6	868, 5-12	JAQ	roid *um* *music* ar iddyn nhw chwarae gemau	NST	NST
+379, 7	869, 1-19	JAQ	a wedyn mae nhw yn gallu mynd allan i chwarae am dipyn bach cyn mynd adre o yr *party*	---	NST
+
+
+380, 1	870, 1-1	CHR	*nice*	---	NST
+
+
+381, 1	871, 1-4	JAQ	oedd o yn ddeud	NSNT	NSNT
+381, 2	871, 5-10	JAQ	bod o yn hoffi cael *party*	NST	NST
+381, 3	872, 1-7	JAQ	oedd ei brawd o wedi cael *party*	NST	NST
+381, 4	873, 1-11	JAQ	oedd o wedi mynd i yr *um* *cinema* efo ffrindiau fo	NST	NST
+381, 5	874, 1-5	JAQ	ond mae nhw yn hynach	---	NSNT
+
+
+382, 1	875, 1-2	CHR	dyna i_gyd	---	NSNT
+
+
+383, 1	878, 1-12	JAQ	*so* ti ddim wedi bod yn yr *um* *cinema* ers dipyn na	NST	NST
+383, 2	880, 1-7	JAQ	oeddech chi mynd weithiau ar dydd Sadwrn	NSNT	NSNT
+383, 3	881, 1-1	JAQ	Sul	---	NSNT
+
+
+384, 1	883, 1-2	CHR	dydd Sul	---	NSNT
+
+
+385, 1	884, 1-2	JAQ	dydd Sul	NSNT	NSNT
+385, 2	887, 1-2	JAQ	efo pwy	---	NSNT
+
+
+386, 1	888, 1-4	CHR	*Sharon* *Ryan* a *Cecil*	NST	NST
+386, 2	890, 1-3	CHR	a *Samantha* weithiau	---	NST
+
+
+387, 1	891, 1-11	JAQ	oedd *er* *Ryan* wedi deud wrtha chdi heddiw amdan *um* *trophies*	NST	NST
+387, 2	891, 12-15	JAQ	oedd o wedi ennill	---	NSNT
+
+
+388, 1	892, 1-4	CHR	dw wedi weld nhw	---	NSNT
+
+
+389, 1	893, 1-5	JAQ	ti wedi gweld nhw do	NSNT	NSNT
+389, 2	895, 1-9	JAQ	oedd o wedi dŵad â nhw i yr ysgol	---	NSNT
+
+
+390, 1	896, 1-1	CHR	naddo	NSNT	NSNT
+390, 2	898, 1-5	CHR	mae o yn *um* *gwig*	---	NST
+
+
+391, 1	899, 1-1	JAQ	*gwig*	ST	NST
+391, 2	901, 1-3	JAQ	be ydy hwnna	---	NSNT
+
+
+392, 1	902, 1-4	CHR	mae *gwig* yn glas	---	NST
+
+
+393, 1	903, 1-4	JAQ	mae nhw yn glas	SNT	NSNT
+393, 3	905, 1-1	JAQ	*gwig*	ST	NST
+393, 5	907, 1-8	JAQ	ydyn nhw rhei bach ta rhei rhei mawr	---	NSNT
+
+
+394, 1	908, 1-1	CHR	middle	---	NSNT
+
+
+395, 1	909, 1-5	JAQ	ydyn nhw medalau ta *trophies*	---	NST
+
+
+396, 1	910, 1-2	CHR	*trophies* *yeah*	---	NST
+
+
+397, 1	911, 1-1	JAQ	*trophies*	ST	NST
+397, 2	912, 1-3	JAQ	faint ohonyn nhw	---	NSNT
+
+
+398, 1	913, 1-1	CHR	tri	---	NSNT
+
+
+399, 1	914, 1-1	JAQ	tri	NSNT	NSNT
+399, 2	916, 1-1	JAQ	da	NSNT	NSNT
+399, 3	917, 1-2	JAQ	am be	NSNT	NSNT
+399, 4	918, 1-3	JAQ	ti yn gwybod	NSNT	NSNT
+399, 5	921, 1-6	JAQ	ti ddim yn gwybod am be	---	NSNT
+
+
+400, 1	922, 1-2	CHR	nag ydw	---	NSNT
+
+
+401, 1	924, 1-8	JAQ	*well* pêl_droed dan ni yn gwybod hynny *yeah*	NST	NST
+401, 2	926, 1-8	JAQ	ond mae yna gwahanol *um* *trophies* i ennill	NST	NST
+401, 4	928, 1-8	JAQ	a dan ni yn mynd nos nos Mercher	---	NSNT
+
+
+402, 1	929, 1-1	CHR	Mercher	---	NSNT
+
+
+403, 1	932, 1-3	JAQ	i un *Luke*	NST	NST
+403, 2	934, 1-8	JAQ	mae o yn edrych edrych ymlaen i mynd	---	NSNT
+
+
+404, 1	935, 1-5	CHR	dw i ddim yn mynd	---	NSNT
+
+
+405, 1	936, 1-5	JAQ	ti mynd i aros yn	---	NSNT
+
+
+406, 1	937, 1-2	CHR	no way	---	NSNT
+
+
+407, 1	938, 1-7	JAQ	ti mynd i tŷ tŷ *Nana* *yeah*	---	NST
+
+
+408, 1	939, 1-1	CHR	boring	SNT	NSNT
+408, 2	940, 1-7	CHR	ydy *Dawn* yn mynd i fod yna	---	NST
+
+
+409, 1	941, 1-5	JAQ	dw i ddim yn gwybod	NSNT	NSNT
+409, 2	941, 6-6	JAQ	sti	NSNT	NSNT
+409, 3	942, 1-15	JAQ	ella fydd o yn syniad i chi mynd ar *M_S_N* a gofyn gofyn wrthi hi	NST	NST
+409, 4	942, 16-19	JAQ	os ydy hi mynd	---	NSNT
+
+
+410, 1	943, 1-1	CHR	gofyn	NSNT	NSNT
+410, 2	944, 1-5	CHR	ond dydy *Luke* ddim yn	NST	NST
+410, 3	945, 1-5	CHR	wnei di gofyn i *Luke*	---	NST
+
+
+411, 1	946, 1-1	JAQ	pam	---	NSNT
+
+
+412, 1	947, 1-7	CHR	iddi fi *um* gofyn iddo fo gei	NST	NST
+412, 2	947, 8-13	CHR	geith geitha fi mynd arno fo	---	NSNT
+
+
+413, 1	948, 1-6	JAQ	*oh* gei di gofyn wrth *Luke*	---	NST
+
+
+414, 1	949, 1-7	CHR	dydy o ddim yn gadael i fi	---	NSNT
+
+
+415, 1	951, 1-11	JAQ	ti ddim yn fod i mynd yn *er* stafell yfo na	NST	NST
+415, 2	952, 1-5	JAQ	dyro hwnna ar fan yna	NSNT	NSNT
+415, 3	953, 1-5	JAQ	wna i gofyn wrtho fo	NSNT	NSNT
+415, 4	953, 6-10	JAQ	pan dan ni mynd adre	NSNT	NSNT
+415, 5	954, 1-3	JAQ	atgoffa fi *please*	NST	NST
+415, 6	957, 1-5	JAQ	a wedyn wna i ofyn	---	NSNT
+
+
+416, 1	958, 1-6	CHR	ac os ydy hi yn mynd	NSNT	NSNT
+416, 2	958, 7-11	CHR	ydw i yn cael dod	---	NSNT
+
+
+417, 1	959, 1-2	JAQ	dw i	NSNT	NSNT
+417, 2	959, 3-7	JAQ	dw i ddim yn meddwl	NSNT	NSNT
+417, 3	959, 8-11	JAQ	bod hi yn mynd	NSNT	NSNT
+417, 4	960, 1-3	JAQ	oherwydd dw i	NSNT	NSNT
+417, 5	960, 4-11	JAQ	dan ni ddim yn gwybod faint o gloch	NSNT	NSNT
+417, 6	960, 12-15	JAQ	mae o yn gorffen	NSNT	NSNT
+417, 7	961, 1-6	JAQ	a mae gen ti ysgol *yeah*	NST	NST
+417, 8	963, 1-3	JAQ	y bore wedyn	NSNT	NSNT
+417, 9	964, 1-2	JAQ	a *Luke*	NST	NST
+417, 10	966, 1-4	JAQ	*so* dw i ddim	NST	NST
+417, 11	966, 5-9	JAQ	dw i ddim yn meddwl	NSNT	NSNT
+417, 12	966, 10-15	JAQ	bod o yn *um* noson hir	---	NST
+
+
+418, 1	967, 1-5	CHR	na oherwydd mae yna ysgol	---	NSNT
+
+
+419, 1	968, 1-6	JAQ	mae yna *lot* o blant yna	NST	NST
+419, 2	969, 1-1	JAQ	mae	NSNT	NSNT
+419, 3	969, 2-2	JAQ	mae	NSNT	NSNT
+419, 4	969, 3-11	JAQ	mae gennyn nhw *um* presentation i yr *team* i_gyd	---	ST
+
+
+420, 1	970, 1-3	CHR	fel pob *game*	---	NST
+
+
+421, 1	971, 1-9	JAQ	a mae yna *lot* o gwahanol *um* oed yna	NST	NST
+421, 2	975, 1-1	JAQ	mae	NSNT	NSNT
+421, 3	975, 2-3	JAQ	gynnoch chi	NSNT	NSNT
+421, 4	976, 1-9	JAQ	*ooh* dw i ddim yn gwybod faint o timoedd	NST	NST
+421, 5	976, 10-15	JAQ	sy yna i ddeud y gwir	---	NSNT
+
+
+422, 1	977, 1-4	CHR	beth ydy gloch rŵan	---	NSNT
+
+
+423, 1	978, 1-4	JAQ	ugain munud i pump	NSNT	NSNT
+423, 2	979, 1-3	JAQ	a mae *Luke*	NST	NST
+423, 3	979, 4-15	JAQ	wedi bod yn lle *doctor* bore yma cyn mynd i yr ysgol	---	NST
+
+
+424, 1	980, 1-2	CHR	efo pwy	---	NSNT
+
+
+425, 1	981, 1-2	JAQ	efo *dad*	---	NST
+
+
+426, 1	982, 1-1	CHR	pam	---	NSNT
+
+
+427, 1	983, 1-7	JAQ	mae gynno fo *ulcers* yn ei ceg	NST	NST
+427, 2	984, 1-6	JAQ	a mae nhw yn eitha drwg	NSNT	NSNT
+427, 3	985, 1-5	JAQ	a mae yr *doctor* wedi	NST	NST
+427, 4	985, 6-14	JAQ	rhoid rhyw past iddo fo iddyn nhw *um* gwella	NST	NST

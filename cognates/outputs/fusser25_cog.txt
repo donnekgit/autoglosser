@@ -1,0 +1,1671 @@
+
+
+1, 3	3, 1-1	HUN	*eh*	---	NST
+
+
+2, 1	4, 1-5	ALB	ers faint mae o yna	---	NSNT
+
+
+3, 1	6, 1-2	HUN	rywbeth felly	---	NSNT
+
+
+4, 1	8, 1-2	ALB	*oh* *fantastic*	---	NST
+
+
+5, 1	9, 1-7	HUN	mae ryw *well* ryw eleven twelve quid	ST	ST
+5, 2	9, 8-9	HUN	ydy o	---	NSNT
+
+
+6, 1	11, 1-2	ALB	*mmm* *fantastic*	---	NST
+
+
+7, 1	12, 1-1	HUN	*so*	ST	NST
+7, 2	13, 1-4	HUN	mae yn good ffiden	NSNT	SNT
+7, 3	14, 1-10	HUN	os ti isio mynd â *Barry* yna nos Sadwrn rywbeth	NST	NST
+7, 5	16, 1-3	HUN	*right* rhad sti	---	NST
+
+
+8, 1	17, 1-10	ALB	raid fi trio meddwl be dw i wneud fath â	NSNT	NSNT
+8, 2	20, 1-4	ALB	mis galed mis yma	NSNT	NSNT
+8, 3	21, 1-6	ALB	a wedyn faint o gloch byddwch	NSNT	NSNT
+8, 4	21, 7-9	ALB	byddwch chi allan	---	NSNT
+
+
+9, 1	22, 1-3	HUN	baswn i feddwl	NSNT	NSNT
+9, 2	22, 4-7	HUN	fydd hi *right* hwyr	NST	NST
+9, 3	23, 1-11	HUN	ryw naw rywbeth felly baswn i meddwl naw hanner wedi naw	NSNT	NSNT
+9, 5	25, 1-3	HUN	byddwn ni *yeah*	NST	NST
+9, 6	25, 4-11	HUN	dan ni usually mynd i fwyta ryw saith	NSNT	SNT
+9, 7	26, 1-8	HUN	*so* ryw awr awr a hanner half eight	ST	ST
+9, 8	27, 1-7	HUN	wedyn *yeah* baswn i gallu cyfarfod chdi	NST	NST
+9, 9	28, 1-7	HUN	a i â mobile efo fi anyway	SNT	SNT
+9, 10	29, 1-8	HUN	ond faint o gloch fyddach chi allan ta	---	NSNT
+
+
+10, 1	30, 1-8	ALB	*um* bwyd tua hanner wedi chwech saith eto	---	NST
+
+
+11, 1	31, 1-12	HUN	*oh* ti wneud yr un peth â ni *just* iawn te dwyt	---	NST
+
+
+12, 1	32, 1-4	ALB	*yeah* mwy neu lai	NST	NST
+12, 2	34, 1-6	ALB	allwn ni cwrdd yn y *Ship*	---	NST
+
+
+13, 1	35, 1-2	HUN	*oh* *great*	---	NST
+
+
+14, 1	36, 1-1	ALB	*fantastic*	ST	NST
+14, 3	38, 1-6	ALB	mae yna atmosphere gwych yn *Ship*	NST	ST
+14, 6	42, 1-8	ALB	cael i stumble_o nôl *Barry* nôl i i	---	ST
+
+
+15, 1	45, 1-5	HUN	nôl i *Ship* am un	ST	NST
+15, 2	46, 1-4	HUN	because mae hwnnw yn	NSNT	SNT
+15, 3	46, 5-9	HUN	agored fwy hwyr na *Pencei*	ST	NST
+15, 4	48, 1-7	HUN	because mae rheiny dal yn cau un_ar_ddeg	SNT	SNT
+15, 5	49, 1-7	HUN	actually mae *Pencei* shit actually actually because	---	ST
+
+
+16, 1	50, 1-2	ALB	mae o	NSNT	NSNT
+16, 2	51, 1-11	ALB	ond dw isio mynd â fo yna *just* iddo cael weld	---	NST
+
+
+17, 1	52, 1-1	HUN	faint	NSNT	NSNT
+17, 2	53, 1-3	HUN	na *doubles* yn	ST	NST
+17, 3	54, 1-4	HUN	two quid a *shot*	ST	NST
+17, 4	55, 1-5	HUN	mae *double* yn four quid	---	ST
+
+
+18, 1	56, 1-1	ALB	te	---	NSNT
+
+
+19, 1	58, 1-7	HUN	beth am mynd i *Ozzie* am *laugh*	NST	NST
+19, 2	59, 1-11	HUN	ia *well* baset ti gallu mynd â fo yna am un	NST	NST
+19, 3	59, 12-24	HUN	byset a wedyn i *Ozzie* *Ship_and_Castle* a nôl i *Ship* iddo gael circuit	---	ST
+
+
+20, 1	61, 1-7	ALB	neu neu dechrau circuits o yr gwaelod	NSNT	SNT
+20, 2	62, 1-16	ALB	*Red_Lion* ella yr hen *um* be *um* peth yna fyny stryd fawr i i i *Ship_and_Castle*	---	NST
+
+
+21, 1	65, 1-1	HUN	*great*	---	NST
+
+
+22, 1	66, 1-1	ALB	tackiness	SNT	NSNT
+22, 3	68, 1-3	ALB	a wedyn *um*	---	NST
+
+
+23, 1	69, 1-3	HUN	gweitied mynd yn_ôl	---	NSNT
+
+
+24, 1	70, 1-8	ALB	i *Ozzie* wedyn *Pencei* wedyn end_io fyny yn	NST	ST
+24, 2	71, 1-7	ALB	*oh* na na mae rhy gormod wedyn	---	NST
+
+
+25, 1	72, 1-6	HUN	*mmm* *just* meet yn y *Ship*	---	ST
+
+
+26, 1	75, 1-1	ALB	hawsach	NSNT	NSNT
+26, 3	77, 1-4	ALB	*oh* mae *nice* yn	NST	NST
+26, 4	78, 1-3	ALB	dw i licio	---	NSNT
+
+
+27, 1	79, 1-4	HUN	mae o yn neisach	NSNT	NSNT
+27, 2	79, 5-5	HUN	dydy	NSNT	NSNT
+27, 3	80, 1-5	HUN	mae fwy o atmosphere yna	---	SNT
+
+
+28, 1	81, 1-7	ALB	rhaid fi mynd â fo i *Spooners*	NST	NST
+28, 2	82, 1-1	ALB	mae	NSNT	NSNT
+28, 3	83, 1-4	ALB	dw i gwybod hynny	---	NSNT
+
+
+29, 1	84, 1-7	HUN	pam ti isio mynd i fan yna	---	NSNT
+
+
+30, 1	85, 1-5	ALB	isio dangos rywbeth yn *Spooners*	NST	NST
+30, 2	87, 1-4	ALB	*so* dw i i	---	NST
+
+
+31, 1	88, 1-4	HUN	dw ddim isio gwybod	---	NSNT
+
+
+32, 1	89, 1-2	ALB	long *story*	ST	NST
+32, 2	90, 1-10	ALB	wna ddeud wrthot ti nos Sadwrn ar_ôl o ddigwydd pam	NSNT	NSNT
+32, 3	92, 1-4	ALB	os dw i cofio	---	NSNT
+
+
+33, 1	93, 1-4	HUN	fath â fi neithiwr	NSNT	NSNT
+33, 2	94, 1-4	HUN	ges i bum *pint*	---	NST
+
+
+34, 1	95, 1-1	ALB	Iesu	---	NSNT
+
+
+35, 1	96, 1-4	HUN	o'n i fath â	NSNT	NSNT
+35, 2	97, 1-5	HUN	wna i ddreifio heno *Angharad*	NST	NST
+35, 3	98, 1-4	HUN	fyddan ni yn iawn	NSNT	NSNT
+35, 4	99, 1-7	HUN	wnes i ddim dreifio ar pum *pint*	NST	NST
+35, 5	100, 1-3	HUN	wnaeth *Angharad* ddreifio	NST	NST
+35, 6	101, 1-8	HUN	ond *um* ia fath â big quiet one	ST	ST
+35, 11	106, 1-12	HUN	wnes i gyrraedd adre wneud beans on *toast* dau o gloch bore	NST	ST
+35, 12	108, 1-6	HUN	fwyta fo de mynd i gwely	NSNT	NSNT
+35, 13	109, 1-7	HUN	wedyn bore yma o'n i fath â	NSNT	NSNT
+35, 14	110, 1-3	HUN	arglwydd pwy sy	NSNT	NSNT
+35, 15	110, 4-8	HUN	wedi bod yn bwyta neithiwr	SNT	NSNT
+35, 17	112, 1-1	HUN	flashback	---	NSNT
+
+
+36, 1	113, 1-1	ALB	*oops*	---	NST
+
+
+37, 1	114, 1-1	HUN	embarrassing	---	NSNT
+
+
+38, 1	115, 1-6	ALB	*oh* mae funny pethau ti wneud	NST	ST
+38, 2	116, 1-3	ALB	ti wedi meddwi	NSNT	NSNT
+38, 3	117, 1-6	ALB	a ti yn deffro yn bore	NSNT	NSNT
+38, 4	118, 1-3	ALB	Iesu be wnes	NSNT	NSNT
+38, 5	118, 4-7	ALB	be wnes i wneud	NSNT	NSNT
+38, 7	120, 1-3	ALB	lle dw i	NSNT	NSNT
+38, 8	120, 4-5	ALB	wedi bod	SNT	NSNT
+38, 9	121, 1-3	ALB	*oh* my God	---	NST
+
+
+39, 1	122, 1-7	HUN	be ddiawl sy mynd ymlaen fan hyn	NSNT	NSNT
+39, 3	124, 1-5	HUN	ti sbïo ti fath â	SNT	NSNT
+39, 4	125, 1-2	HUN	holy *crap*	ST	NST
+39, 6	127, 1-7	HUN	*bit* o bapurau ar llawr fath â	NST	NST
+39, 7	128, 1-4	HUN	*Greg* isio darllen rywbeth	---	NST
+
+
+40, 1	129, 1-3	ALB	*oh* nain bach	---	NST
+
+
+41, 1	130, 1-9	HUN	dw i wedi ffonio *Rhydian* dau o gloch bore	---	NST
+
+
+42, 1	133, 1-6	ALB	faint o gloch oedd o yn	NSNT	NSNT
+42, 2	133, 7-9	ALB	lle oedd *Rhydian*	---	NST
+
+
+43, 1	134, 1-5	HUN	*oh* dau o gloch bore	NST	NST
+43, 2	135, 1-6	HUN	yr un amser â ni dydy	---	NSNT
+
+
+44, 1	136, 1-3	ALB	*oh* *oh* *fantastic*	ST	NST
+44, 2	138, 1-4	ALB	oedd o wedi deffro	---	NSNT
+
+
+45, 1	139, 1-4	HUN	be ti isio *Hunydd*	NST	NST
+45, 3	141, 1-8	HUN	ddaru chdi ddeud wrtha fi am ffonio chdi	---	NSNT
+
+
+46, 1	144, 1-3	ALB	*oh* dw *sure*	NST	NST
+46, 2	144, 4-7	ALB	oedd o yn pleased	---	SNT
+
+
+47, 1	145, 1-3	HUN	*oh* loved it	---	NST
+
+
+48, 1	147, 1-12	ALB	sut mae yr *um* cynhesu by light *bulb* yn mynd efo *Dave*	---	ST
+
+
+49, 1	148, 1-3	HUN	*oh* mae nhw	NST	NST
+49, 2	148, 4-4	HUN	mae	NSNT	NSNT
+49, 3	148, 5-5	HUN	yr	NSNT	NSNT
+49, 4	148, 6-10	HUN	mae yr tywydd de because	SNT	SNT
+49, 5	148, 11-11	HUN	mae	NSNT	NSNT
+49, 6	148, 12-17	HUN	gynnyn nhw *just* heddiw i fynd	NST	NST
+49, 7	148, 18-23	HUN	mae yr tywydd yn brilliant heddiw	SNT	SNT
+49, 8	148, 24-26	HUN	because they're leaving	SNT	NSNT
+49, 10	150, 1-2	HUN	*oh* bechod	NST	NST
+49, 12	152, 1-13	HUN	wedi cael two weeks of hell leaving light *bulbs* on to get warm	---	ST
+
+
+50, 1	154, 1-13	ALB	*just* meddwl *Rhydian* wrth ymyl light *bulb* yn cynhesu dwylo fo cynhesu bechod	---	ST
+
+
+51, 1	156, 1-3	HUN	ti well *Andy*	---	NST
+
+
+52, 1	159, 1-3	ALB	*oh* bechod am	---	NST
+
+
+53, 1	161, 1-3	HUN	timod y *video*	NST	NST
+53, 2	161, 4-6	HUN	wnaeth o yrru	NSNT	NSNT
+53, 3	163, 1-10	HUN	dw i wedi cael un wedyn wedyn o yr *um*	NST	NST
+53, 4	164, 1-3	HUN	be oedden nhw	NSNT	NSNT
+53, 5	165, 1-11	HUN	*just* nhw yn ffilmio tu allan yr *hotel* yma fath â	NST	NST
+53, 6	166, 1-4	HUN	y cymylau *gray* yma	NST	NST
+53, 7	167, 1-5	HUN	welais i cymylau mawr *gray*	ST	NST
+53, 8	168, 1-7	HUN	*oh* my God mae well fan hyn	---	ST
+
+
+54, 1	170, 1-4	ALB	a ti wedi fo	NSNT	NSNT
+54, 2	171, 1-6	ALB	cymylau fan yma ac awyr glas	---	NSNT
+
+
+55, 1	173, 1-3	HUN	ylwch braf ydy	---	NSNT
+
+
+56, 1	175, 1-8	ALB	*Rhydian* fath â dod nôl o fath â	---	NST
+
+
+57, 1	178, 1-4	HUN	chdi deud wrtha fi	---	NSNT
+
+
+58, 1	180, 1-2	ALB	*bloody* *holiday*	---	NST
+
+
+59, 1	182, 1-7	HUN	mynd ar sun bed later on *eh*	---	ST
+
+
+60, 1	183, 1-1	ALB	sneaky	SNT	NSNT
+60, 3	185, 1-2	ALB	dw i	NSNT	NSNT
+60, 4	185, 3-8	ALB	wedi bod allan *er* torheulo pethau	---	NST
+
+
+61, 1	187, 1-6	HUN	hanner awr o'n i yno sbïa	---	NSNT
+
+
+62, 1	188, 1-4	ALB	dyna sneaky syniad sneaky	SNT	SNT
+62, 4	192, 1-9	ALB	lle mae *er* sun bed agosa i fan yma	---	ST
+
+
+63, 1	193, 1-4	HUN	mae un yn *Port*	NST	NST
+63, 2	193, 5-8	HUN	does *um* wrth ymyl	NST	NST
+63, 6	197, 1-8	HUN	*um* gwaelodion yna wrth ymyl *Kwiks* ffordd yna	ST	NST
+63, 7	198, 1-1	HUN	*Beauty_Box*	---	NST
+
+
+64, 1	199, 1-1	ALB	*Beauty_Box*	NST	NST
+64, 2	200, 1-4	ALB	*oh* *yeah* *Beauty_Box* *yeah*	---	NST
+
+
+65, 1	201, 1-2	HUN	dyna fo	NSNT	NSNT
+65, 2	202, 1-6	HUN	arglwydd all too powerful sun bed	---	SNT
+
+
+66, 1	203, 1-8	ALB	be un walk_in ydy o neu lie_down neu	---	SNT
+
+
+67, 1	204, 1-2	HUN	na walk_in	SNT	SNT
+67, 2	205, 1-8	HUN	ond ti fath â you come out glowing	SNT	SNT
+67, 3	206, 1-1	HUN	*pooph*	ST	NST
+67, 6	209, 1-2	HUN	boeth dydy	---	NSNT
+
+
+68, 1	211, 1-4	ALB	*oh* mae yn *fantastic*	NST	NST
+68, 2	213, 1-12	ALB	o'n i arfer mynd danyn nhw pan o'n i gweithio yn *Llandudno*	NST	NST
+68, 4	218, 1-3	ALB	ond *er* *so*	---	NST
+
+
+69, 1	219, 1-5	HUN	mynd ar y sun bed	---	SNT
+
+
+70, 1	220, 1-8	ALB	Duw a i sun bed am funud bach	NSNT	SNT
+70, 2	221, 1-2	ALB	deg munud	NSNT	NSNT
+70, 3	222, 1-7	ALB	o'n dod allan fath â *phooph* boeth	---	NST
+
+
+71, 1	223, 1-3	HUN	fath â *wow*	ST	NST
+71, 2	224, 1-4	HUN	is it freezing outside	NSNT	NSNT
+71, 3	225, 1-1	HUN	good	---	NSNT
+
+
+72, 1	227, 1-7	ALB	a pobl deud yn nos fath â	NSNT	NSNT
+72, 2	228, 1-6	ALB	Iesu ti wedi mynd yn *bink*	---	NST
+
+
+73, 1	229, 1-2	HUN	oedda chdi	NSNT	NSNT
+73, 2	229, 3-11	HUN	roid y cream yna on fath â accelerator cream	NSNT	SNT
+73, 3	231, 1-8	HUN	*oh* my God mae wneud o yn waeth	NST	ST
+73, 4	232, 1-5	HUN	ti gallu deud exactly lle	NSNT	SNT
+73, 5	233, 1-20	HUN	os ti smear_io fo a ti yn colli un *patch* ti yn gweld y *patch* yna wyn compared i *rest*	NST	ST
+73, 6	234, 1-5	HUN	mae *rest* *just* yn goch	NST	NST
+73, 9	237, 1-8	HUN	oedd *just* yn goch lle o'n i wedi	NST	NST
+73, 10	237, 9-10	HUN	roid o	---	NSNT
+
+
+74, 1	238, 1-2	ALB	*oh* God	---	NST
+
+
+75, 1	239, 1-2	HUN	*mmm* uffernol	ST	NST
+75, 2	240, 1-2	HUN	*quite* funny	ST	NST
+75, 3	241, 1-9	HUN	un o ffrindiau fi *Sarah* meddwl na *um* *protection*	NST	NST
+75, 4	241, 10-11	HUN	oedd o	NSNT	NSNT
+75, 5	242, 1-5	HUN	*so* wedi roi loads on	NST	ST
+75, 10	247, 1-5	HUN	I nearly burned myself *Hunydd*	NST	NST
+75, 12	249, 1-3	HUN	it's not *protection*	NST	NST
+75, 13	250, 1-5	HUN	you *just* go for less	NST	NST
+75, 14	250, 6-9	HUN	if you want *protection*	NST	NST
+75, 16	252, 1-5	HUN	*just* do less *minutes* *duh*	---	NST
+
+
+76, 1	253, 1-10	ALB	*oh* mae *Barry* yn defnyddio fo i yr *um* *um*	NST	NST
+76, 2	254, 1-3	ALB	ei weld o	NSNT	NSNT
+76, 3	255, 1-12	ALB	ac *er* o'n ni mynd *er* i pwll nofio ac yn newid	NST	NST
+76, 5	258, 1-4	ALB	Iesu gen ti sun_tan	SNT	SNT
+76, 6	259, 1-4	ALB	lle ti wedi bod	NSNT	NSNT
+76, 7	260, 1-2	ALB	ac oedd	NSNT	NSNT
+76, 8	260, 3-12	ALB	wedi bod ar sun bed *um* i helpu *eczema* fo	NST	ST
+76, 9	262, 1-5	ALB	timod sychu y peth allan	NSNT	NSNT
+76, 10	265, 1-14	ALB	gwybod lle oedd o wedi mynd yn Manceinion i i yr sun bed yma	NSNT	SNT
+76, 11	266, 1-10	ALB	ac *um* rywle ac yn deud un walk_in ydy o	NST	ST
+76, 12	267, 1-7	ALB	ei *trunks* o fath â y *band*	NST	NST
+76, 13	268, 1-5	ALB	*yeah* wnes i wisgo *trunks*	NST	NST
+76, 14	269, 1-11	ALB	dw i hyd yn wisgo *trunks* mewn i sun beds yna	NST	ST
+76, 15	270, 1-2	ALB	i be	NSNT	NSNT
+76, 17	272, 1-9	ALB	cer mewn yn noethlymun i cael tan gyd drosodd	NSNT	SNT
+76, 18	273, 1-13	ALB	na na na dw i wisgo trôns *just* rhag ofn rywun cerdded mewn	NST	NST
+76, 20	275, 1-1	ALB	bechod	---	NSNT
+
+
+77, 1	276, 1-6	HUN	oedd *Simon* wneud hynna gwisgo hosan	---	NST
+
+
+78, 1	278, 1-2	ALB	go iawn	NSNT	NSNT
+78, 2	279, 1-5	ALB	pam ofn disgyn neu rywbeth	---	NSNT
+
+
+79, 1	282, 1-2	HUN	watsiad losgi	NSNT	NSNT
+79, 4	285, 1-9	HUN	wnes i ddim gofyn pa yr un *size* hosan	---	NST
+
+
+80, 1	286, 1-2	ALB	*oh* naddo	---	NST
+
+
+81, 1	287, 1-5	HUN	it's a *bit* *far* that	---	NST
+
+
+82, 1	289, 1-3	ALB	*Simon* mynd surprised	---	ST
+
+
+83, 1	290, 1-11	HUN	*yeah* *so* wnes i ddim deud dim_byd wedyn am y peth	ST	NST
+83, 3	292, 1-3	HUN	*oh* that's *normal*	---	NST
+
+
+84, 1	293, 1-2	ALB	*oh* bechod	NST	NST
+84, 2	294, 1-12	ALB	dw i erioed hosan eu *um* pethau nhw i cael lliw haul	---	NST
+
+
+85, 1	296, 1-3	HUN	a llosgi *yeah*	ST	NST
+85, 2	298, 1-1	HUN	God	---	NSNT
+
+
+86, 1	299, 1-10	ALB	o'n i yn gweithio mewn gwesty *um* arall *um* oedd	NST	NST
+86, 2	299, 11-13	ALB	gynnon ni *yeah*	NST	NST
+86, 3	299, 14-25	ALB	timod sun bed yma lle ti cerdded mewn i stafell bach yma	NSNT	SNT
+86, 4	301, 1-16	ALB	fath â stafell bach newid cyn mynd mewn i yr sun bed i yr *um* sunshower	ST	ST
+86, 5	303, 1-17	ALB	ac y *boy* bach yn dod bob wythnos ac yn talu *yeah* timod bron iawn ugain munud	NST	NST
+86, 6	303, 18-24	ALB	de a cael lliw haul bob peth	NSNT	NSNT
+86, 7	304, 1-5	ALB	ac oedd byth yn lliwio	NSNT	NSNT
+86, 8	305, 1-5	ALB	neb yn deall pam lliwio	NSNT	NSNT
+86, 9	306, 1-4	ALB	a wedyn *um* deud	NST	NST
+86, 10	307, 1-7	ALB	*oh* dw i ddim yn dod eto	NST	NST
+86, 11	308, 1-6	ALB	dw i byth yn lliwio yma	NSNT	NSNT
+86, 12	309, 1-2	ALB	meddai fo	NSNT	NSNT
+86, 13	310, 2-3	ALB	ddeall pam	NSNT	NSNT
+86, 14	310, 4-14	ALB	oedd o ddim yn cael lliw haul pan pawb arall yn	NSNT	NSNT
+86, 15	313, 1-17	ALB	be ddigwyddodd ond *er* tynnu gyd o dillad *off* yn y stafell *um* newid a *just* sefyll	NST	NST
+86, 16	313, 18-22	ALB	dan y y *bulb* golau	NST	NST
+86, 17	314, 1-2	ALB	meddwl hwnna	NSNT	NSNT
+86, 18	314, 3-5	ALB	oedd y sunshower	SNT	SNT
+86, 20	317, 1-10	ALB	ddim yn deall bod yna stafell arall mwy iddo fo	NSNT	NSNT
+86, 21	317, 11-14	ALB	lle oedd y sunshower	---	SNT
+
+
+87, 1	320, 1-1	HUN	shit	SNT	NSNT
+87, 3	322, 1-7	HUN	be oedd o sixty *watt* light *bulb*	ST	ST
+87, 4	323, 1-6	HUN	dydy o ddim yn wneud dim_byd	NSNT	NSNT
+87, 5	323, 7-7	HUN	wchi	---	NSNT
+
+
+88, 1	324, 1-18	ALB	oedd yna tri light *bulb* mewn rhes fath â ryw fath â fitting fath â *fancy* yma yn_de	NST	ST
+88, 2	324, 19-21	ALB	y units yma	---	SNT
+
+
+89, 1	325, 1-2	HUN	*oh* my	---	NST
+
+
+90, 1	326, 1-8	ALB	ac yn *just* sefyll yna yn pam ddeall	NST	NST
+90, 2	327, 1-16	ALB	ond y *person* syrfio fo timod *um* *um* aelod o *staff* galon i deud wrtho fo	NST	NST
+90, 3	327, 17-18	ALB	bod o	NSNT	NSNT
+90, 4	327, 19-24	ALB	bod ei wneud o yn iawn	---	NSNT
+
+
+91, 1	328, 1-3	HUN	*oh* my God	---	NST
+
+
+92, 1	329, 1-3	ALB	timod mor hawdd	NSNT	NSNT
+92, 2	330, 1-6	ALB	ond oedd o yn stafell du	NSNT	NSNT
+92, 3	330, 7-18	ALB	timod fath â paneli bob peth fath â fath â thirties *style*	ST	ST
+92, 5	333, 1-12	ALB	a wedyn ti mynd mewn iddo fo a cau yr drws newid	NSNT	NSNT
+92, 6	334, 1-13	ALB	a wedyn mae drws arall a *switch* wrth ymyl drws i dechrau timer	---	ST
+
+
+93, 1	337, 1-3	HUN	*yeah* *normal* *yeah*	---	NST
+
+
+94, 1	338, 1-2	ALB	*oh* *dear*	---	NST
+
+
+95, 1	339, 1-3	HUN	*oh* my God	---	NST
+
+
+96, 1	340, 1-6	ALB	mae yn syndod yr hen bobl	NSNT	NSNT
+96, 2	340, 7-11	ALB	sy yn *doolall* wneud pethau	NST	NST
+96, 3	340, 12-12	ALB	gwirion	---	NSNT
+
+
+97, 1	341, 1-2	HUN	arglwydd mawr	SNT	NSNT
+97, 2	342, 1-2	HUN	funny de	---	SNT
+
+
+98, 1	343, 1-8	ALB	ond gwario bron iawn cant punt yn torheulo	NSNT	NSNT
+98, 2	345, 1-1	ALB	bechod	---	NSNT
+
+
+99, 1	346, 1-2	HUN	ddaru nhw	NSNT	NSNT
+99, 2	346, 3-10	HUN	roid vouchers neu rywbeth iddo fo neu *just*	---	ST
+
+
+100, 1	347, 1-7	ALB	*well* *well* o'n i yn paso wneud	NST	NST
+100, 2	348, 1-7	ALB	ond *um* wnes i trio ffonio fo	NST	NST
+100, 3	349, 1-3	ALB	ond oedd *er*	NST	NST
+100, 4	350, 1-8	ALB	timod i gadael o cael hwnna am ddim	NSNT	NSNT
+100, 5	351, 1-8	ALB	ond dan methu cael gafael arno fo *so*	NST	NST
+100, 6	352, 1-15	ALB	o'n i wedi roi nodyn ar cerdyn o i gadael o cael werth cant punt	NSNT	NSNT
+100, 7	352, 16-17	ALB	tro nesa	NSNT	NSNT
+100, 8	353, 1-6	ALB	ond daeth o byth nôl bechod	---	NSNT
+
+
+101, 1	355, 1-3	HUN	*oh* thick de	---	ST
+
+
+102, 1	357, 1-3	ALB	*oh* *well* bechod	---	NST
+
+
+103, 1	358, 1-2	HUN	arglwydd mawr	---	NSNT
+
+
+104, 1	359, 1-4	ALB	sut mae yr mynd	NSNT	NSNT
+104, 2	360, 1-6	ALB	ti ti wedi mynd i na	---	NSNT
+
+
+105, 1	361, 1-7	HUN	na dw ddim wedi mynd eto na	NSNT	NSNT
+105, 2	362, 1-11	HUN	dw ddim wedi cael yr *um* motivation i mynd eto anyway	---	ST
+
+
+106, 1	363, 1-2	ALB	finnau chwaith	---	NSNT
+
+
+107, 1	364, 1-2	HUN	excuse fi	SNT	SNT
+107, 2	365, 1-2	HUN	it's cold	NSNT	NSNT
+107, 5	368, 1-4	HUN	can't possibly go out	NSNT	NSNT
+107, 7	370, 1-6	HUN	however I'm going to the *pub*	---	NST
+
+
+108, 1	373, 1-1	ALB	*well*	ST	NST
+108, 2	375, 1-5	ALB	ti yn codi *pint* wyt	NST	NST
+108, 3	376, 1-3	ALB	timod ti cael	---	NSNT
+
+
+109, 1	377, 1-5	HUN	it's like a workout innit	---	NSNT
+
+
+110, 1	378, 1-19	ALB	*yeah* a ti gorod cerdded o yr *taxi* mewn trwy yr drws a tynnu drws workout i a cerdded	---	ST
+
+
+111, 1	379, 1-2	HUN	*bloody* hell	ST	NST
+111, 2	380, 1-6	HUN	*hey* dw i wedi ffigro *cider*	NST	NST
+111, 3	380, 7-14	HUN	sy wneud fi yn dizzy boreau diwrnod wedyn	---	SNT
+
+
+112, 1	381, 1-1	ALB	*cider*	---	NST
+113, 4	385, 1-3	HUN	a dw once	SNT	SNT
+113, 5	385, 4-7	HUN	dw i wedi bwyta	NSNT	NSNT
+113, 6	385, 8-10	HUN	dw yn iawn	NSNT	NSNT
+113, 7	386, 1-8	HUN	*so* *cider* oedd yn wneud fi yn dizzy	ST	ST
+113, 8	386, 9-9	HUN	yli	---	NSNT
+
+
+114, 1	389, 1-7	ALB	oedd milk thistle yna yn gweithio gwbl	---	SNT
+
+
+115, 1	390, 1-4	HUN	*well* dw ddim gwybod	ST	NST
+115, 3	392, 1-4	HUN	because wnes i ddim	NSNT	SNT
+115, 4	392, 5-9	HUN	roid *lot* o *jance* really	NST	ST
+115, 5	393, 1-6	HUN	because o'n i wedi yfed gymaint	NSNT	SNT
+115, 6	394, 1-7	HUN	oedd tri o yr things mawr yna	NSNT	SNT
+115, 7	394, 8-8	HUN	doedd	NSNT	NSNT
+115, 8	396, 1-6	HUN	ac *bloody* *thing* arall yn diwedd	NST	NST
+115, 9	397, 1-2	HUN	dw meddwl	NSNT	NSNT
+115, 10	397, 3-7	HUN	baswn i yn ill anyway	SNT	SNT
+115, 11	398, 1-5	HUN	ond oedd o mor nasty	SNT	SNT
+115, 12	398, 6-6	HUN	doedd	---	NSNT
+
+
+116, 1	400, 1-7	ALB	mae yn dda i cael ti meddwol	NSNT	NSNT
+116, 2	401, 1-5	ALB	ond mae nhw yn *crap*	---	NST
+
+
+117, 1	402, 1-3	HUN	dw i *sure*	NST	NST
+117, 2	402, 4-12	HUN	bod chdi cael hangover uffernol *off* hwnna anyway ond	NST	ST
+117, 3	404, 1-6	HUN	baswn i yn trio nhw normally	SNT	SNT
+117, 4	406, 1-11	HUN	fath â petaswn i pum *pint* rywbryd eto a cymryd nhw	NST	NST
+117, 5	406, 12-16	HUN	baset gallu deud wedyn really	SNT	SNT
+117, 6	406, 17-18	HUN	byset *so*	---	NST
+
+
+118, 1	408, 1-18	ALB	mynd allan os dw i yn yfed fath â house *doubles* a ballu neu neu pethau fel yna	NST	ST
+118, 2	408, 19-26	ALB	dw i teimlo yn waeth diwrnod wedyn na	NSNT	NSNT
+118, 3	408, 27-38	ALB	os dw i yn cymryd *normal* fath â *Smirnoff* rywbeth fel yna	NST	NST
+118, 4	408, 39-42	ALB	timod fath â *brands*	---	NST
+
+
+119, 1	412, 1-2	HUN	*oh* *Smirnoff*	---	NST
+
+
+120, 1	414, 1-4	ALB	mae llai o hangover	SNT	SNT
+120, 2	415, 1-2	ALB	dw meddwl	NSNT	NSNT
+120, 3	415, 3-8	ALB	bod o rywbeth wneud efo x	NSNT	NSNT
+120, 5	417, 1-2	ALB	dyna pam	NSNT	NSNT
+120, 6	417, 3-5	ALB	mae mor rhad	---	NSNT
+
+
+121, 1	418, 1-3	HUN	na dw i	NSNT	NSNT
+121, 2	418, 4-6	HUN	dw i yn	NSNT	NSNT
+121, 3	418, 7-11	HUN	dw i yn coelio hynna	---	NSNT
+
+
+122, 1	419, 1-1	ALB	*so*	---	NST
+
+
+123, 1	420, 1-17	HUN	*oh* *yeah* because pan o'n i yn *Gran_Canaria* deud *oh* because o'n i yn yfed bob noson	NST	ST
+123, 2	421, 1-4	HUN	paid â mix_io drinks	SNT	SNT
+123, 3	422, 1-5	HUN	o'n i fath â bollocks	SNT	SNT
+123, 4	423, 1-3	HUN	ond un noson	NSNT	NSNT
+123, 5	423, 4-8	HUN	wnes i yfed *just* *vodkas*	NST	NST
+123, 6	424, 1-6	HUN	ac wnes i ddim cael hangover	NSNT	SNT
+123, 7	426, 1-1	HUN	weird	SNT	NSNT
+123, 8	427, 1-5	HUN	o'n i fath â *wow*	ST	NST
+123, 10	429, 1-2	HUN	it's magic	---	NSNT
+
+
+124, 1	430, 1-4	ALB	mae o yn *fantastic*	---	NST
+
+
+125, 1	431, 1-9	HUN	o'ch chdi ddim yn gorod yfed dŵr na dim_byd	NSNT	NSNT
+125, 2	432, 1-8	HUN	o'ch chdi *just* yfed *vodka* mynd i gwely	NST	NST
+125, 3	433, 1-3	HUN	o'ch chdi deffro	NSNT	NSNT
+125, 4	434, 1-6	HUN	o'ch chdi iawn fath â *wow*	---	NST
+
+
+126, 1	435, 1-1	ALB	*wow*	---	NST
+
+
+127, 1	436, 1-5	HUN	o'n i fath â hollol	SNT	NSNT
+127, 2	437, 1-4	HUN	that's bullshit about mixing	---	NSNT
+
+
+128, 1	441, 1-6	ALB	dw i erioed wedi trio hynna	NSNT	NSNT
+128, 2	442, 1-8	ALB	dw i hyd yn mix_io efo rywbeth o_hyd	NSNT	SNT
+128, 3	444, 1-2	ALB	cofio hwnna	NSNT	NSNT
+128, 4	445, 1-4	ALB	wna i trio hynny	---	NSNT
+
+
+129, 1	446, 1-4	HUN	*yeah* dw i because	ST	ST
+129, 2	446, 5-9	HUN	dw i o_hyd wedi mix_io	SNT	SNT
+129, 3	446, 10-10	HUN	yli	NSNT	NSNT
+129, 4	447, 1-13	HUN	dw i dechrau fath â *W_K_D* a wedyn *pints* a wedyn rywbeth arall	NST	NST
+129, 5	448, 1-7	HUN	ond for once I *stuck* to *vodka*	ST	ST
+129, 6	449, 1-4	HUN	mae yn *bloody* gweithio	---	NST
+
+
+130, 1	450, 1-1	ALB	*fantastic*	---	NST
+
+
+131, 1	453, 1-2	HUN	*yeah* *so*	---	NST
+
+
+132, 1	456, 1-9	ALB	*so* oes gyn ti awydd dod i Manceinion am	NST	NST
+132, 2	456, 10-11	ALB	noson allan	---	NSNT
+
+
+133, 1	457, 1-2	HUN	oes rywbryd	---	NSNT
+
+
+134, 1	458, 1-1	ALB	*fantastic*	---	NST
+
+
+135, 1	459, 1-4	HUN	ddim gwybod pryd de	SNT	NSNT
+135, 2	460, 1-8	HUN	because dw i yn *very* *short* ar cash	ST	ST
+135, 4	462, 1-11	HUN	genno fi ryw seventy quid i bara *rest* o yr mis	ST	ST
+135, 6	464, 1-4	HUN	*phone* *bill* eighty quid	---	NST
+
+
+136, 1	465, 1-1	ALB	*ouch*	NST	NST
+136, 2	467, 1-1	ALB	*ouch*	---	NST
+
+
+137, 1	468, 1-7	HUN	because dw i wedi cael handset newydd	NSNT	SNT
+137, 2	469, 1-8	HUN	a mae hwnnw ar y merge fifty quid	SNT	SNT
+137, 4	471, 1-12	HUN	*yeah* ond dw yn cael next two months yn *line* rental *free*	---	ST
+
+
+138, 1	472, 1-2	ALB	*oh* *so*	---	NST
+
+
+139, 1	473, 1-7	HUN	*so* *just* chunk mis yma ydy o	NST	ST
+139, 2	473, 8-10	HUN	de mewn ffordd	NSNT	NSNT
+139, 3	474, 1-6	HUN	ond o'n i fath â what	NSNT	SNT
+139, 4	475, 1-2	HUN	holy *crap*	---	NST
+
+
+140, 1	476, 1-2	ALB	*bloody* hell	---	NST
+
+
+141, 1	477, 1-2	HUN	*yeah* *so*	---	NST
+
+
+142, 1	478, 1-2	ALB	pwy ti	NSNT	NSNT
+142, 2	479, 1-2	ALB	*O_two* neu	---	NST
+
+
+143, 1	480, 1-1	HUN	*Vodafone*	---	NST
+
+
+144, 1	481, 1-1	ALB	*Vodafone*	---	NST
+
+
+145, 1	483, 1-2	HUN	wnaeth nhw	NSNT	NSNT
+145, 2	483, 3-7	HUN	roid handset yna i fi	NSNT	SNT
+145, 3	484, 1-8	HUN	*so* o'n i fath â *oh* fair enough	NST	ST
+145, 5	486, 1-7	HUN	eighteen month *contract* dw i arno fo	---	ST
+
+
+146, 1	487, 1-3	ALB	nhw gyd wneud	NSNT	NSNT
+146, 2	489, 1-5	ALB	mae hwnna poen go iawn	NSNT	NSNT
+146, 3	490, 1-6	ALB	gas gynna i eighteen month *contract*	NST	ST
+146, 4	491, 1-7	ALB	twelve month *contract* *phone* newydd bob blwyddyn	---	ST
+
+
+147, 1	493, 1-3	HUN	ti fath â	SNT	NSNT
+147, 2	494, 1-6	HUN	*oh* new *phone* here I come	NST	NST
+147, 4	496, 1-2	HUN	eighteen months	SNT	NSNT
+147, 5	497, 1-5	HUN	mae *mam* yn eighteen months	ST	ST
+147, 6	498, 1-7	HUN	mae wedi dechrau un hi ers ages	---	SNT
+
+
+148, 1	499, 1-1	ALB	trafferth	NSNT	NSNT
+148, 2	500, 1-7	ALB	mewn ffordd mae wneud mwy o *sense*	NST	NST
+148, 3	501, 1-1	ALB	mae	NSNT	NSNT
+148, 4	501, 2-4	ALB	mae gwell hefyd	NSNT	NSNT
+148, 5	501, 6-8	ALB	mae llai o	---	NSNT
+
+
+149, 1	502, 1-6	HUN	*well* dydy o well i ni	NST	NST
+149, 2	502, 7-10	HUN	dw ddim yn meddwl	SNT	NSNT
+149, 3	503, 1-8	HUN	because oedden ni yn cael newid *every* blwyddyn	NST	ST
+149, 4	503, 9-15	HUN	doedden a gwerthu dy handset hen on	SNT	SNT
+149, 5	505, 1-5	HUN	ond wan ti fath â	---	NSNT
+
+
+150, 1	506, 1-4	ALB	dach chi ac yn	NSNT	NSNT
+150, 2	508, 1-5	ALB	x yn dy law de	---	NSNT
+
+
+151, 1	510, 1-5	HUN	o'n i meddwl prynu hen	NSNT	NSNT
+151, 2	511, 1-6	HUN	timod fath â eighty_two rywbeth felly	SNT	SNT
+151, 3	513, 1-7	HUN	*just* handset bach *just* mynd allan efo	---	ST
+
+
+152, 1	514, 1-2	ALB	syniad da	---	NSNT
+
+
+153, 1	515, 1-15	HUN	*so* os dw i yn colli fo ti ddim yn gorod talu *insurance* ar llall	NST	NST
+153, 2	515, 16-17	HUN	nag wyt	---	NSNT
+
+
+154, 1	516, 1-2	ALB	nag wyt	---	NSNT
+
+
+155, 1	517, 1-7	HUN	mae hwnna ryw eight quid a month	SNT	SNT
+155, 2	517, 8-8	HUN	dydy	---	NSNT
+
+
+156, 1	518, 1-5	ALB	*well* dydw i ddim yn	---	NST
+
+
+157, 1	520, 1-8	HUN	*well* dw i ddim yn talu o anyway	ST	ST
+157, 2	521, 1-5	HUN	ond faint ydy o nowadays	SNT	SNT
+157, 3	522, 1-11	HUN	byset ti yn cael rywbeth felly *off* *E_bay* am twenty quid	ST	ST
+157, 4	524, 1-4	HUN	dw isio mynd allan	---	NSNT
+
+
+158, 1	525, 1-4	ALB	*well* dw i yn	NST	NST
+158, 2	525, 5-7	ALB	mae *phone* fi	NST	NST
+158, 3	525, 8-15	ALB	mae o yn *er* cael insiwro y tŷ	NST	NST
+158, 4	525, 16-18	ALB	sy yn *handy*	---	NST
+
+
+159, 1	527, 1-1	HUN	Duw	SNT	NSNT
+159, 2	528, 1-8	HUN	actually mae *lot* o bobl wedi cleimio tŷ	NST	ST
+159, 3	530, 1-2	HUN	am *phones*	---	NST
+
+
+160, 1	532, 1-10	ALB	ond ti ddim cael colli o tra ti allan meddwol	---	NSNT
+
+
+161, 1	535, 1-8	HUN	os ti colli o pan ti wedi meddwi	SNT	NSNT
+161, 2	536, 1-4	HUN	no I was *sober*	---	NST
+
+
+162, 1	537, 1-3	ALB	no stone_cold *sober*	---	NST
+
+
+163, 1	540, 1-3	HUN	*alcohol* what's that	---	NST
+
+
+164, 1	541, 1-2	ALB	I'm *teetotal*	NST	NST
+164, 2	542, 1-2	ALB	I'm *kosher*	NST	NST
+164, 4	544, 1-3	ALB	I don't drink	SNT	NSNT
+164, 5	545, 1-1	ALB	bechod	NSNT	NSNT
+164, 6	546, 1-7	ALB	*oh* dw i synnu efo eira yma	NST	NST
+164, 7	547, 1-3	ALB	mae o yn	NSNT	NSNT
+164, 8	548, 1-7	ALB	gallu weld o o fan yma wan	NSNT	NSNT
+164, 9	549, 1-4	ALB	mae yn dechrau dadmer	NSNT	NSNT
+164, 11	552, 2-9	ALB	mae o mwy o *brown* yn lle gwyn	---	NST
+
+
+165, 1	553, 1-2	HUN	*oh* shit	---	NST
+
+
+166, 1	554, 1-1	ALB	gwybod	---	NSNT
+
+
+167, 1	555, 1-3	HUN	mae yn funny	NSNT	SNT
+167, 2	556, 1-5	HUN	because lle mae yna cysgod	NSNT	SNT
+167, 3	556, 6-9	HUN	mae *just* yn wyn	NST	NST
+167, 4	556, 10-10	HUN	dydy	NSNT	NSNT
+167, 5	558, 1-5	HUN	mae yr haul mynd yn_ôl	SNT	NSNT
+167, 7	560, 1-1	HUN	no	---	NSNT
+
+
+168, 1	561, 1-2	ALB	tyrd nôl	NSNT	NSNT
+168, 3	563, 1-2	ALB	dos ymlaen	NSNT	NSNT
+168, 4	564, 1-7	ALB	dw isio mwy eira mwy o eira	---	NSNT
+
+
+169, 1	565, 1-2	HUN	go *back*	---	NST
+
+
+170, 1	566, 1-3	ALB	ond *oh* bechod	NST	NST
+170, 2	567, 1-2	ALB	oedd yna	NSNT	NSNT
+170, 3	567, 3-7	ALB	llwythi ysgolion wedi cau ddoe	---	NSNT
+
+
+171, 1	568, 1-2	HUN	arglwydd oedd	---	NSNT
+
+
+172, 1	569, 1-11	ALB	oherwydd oedd hwn drws nesa *um* yn *Llanwthern* ac un *Penrhyn*	NST	NST
+172, 2	570, 1-5	ALB	mae *Llanwthern* dod o_dan *Penrhyn*	NST	NST
+172, 3	570, 6-7	ALB	dw meddwl	NSNT	NSNT
+172, 4	572, 1-3	ALB	timod fath â	NSNT	NSNT
+172, 5	572, 4-9	ALB	mae fath â subsidiary ysgol neu	---	SNT
+
+
+173, 1	573, 1-1	HUN	*Penrhyn*	---	NST
+
+
+174, 1	574, 1-5	ALB	dw ddim yn deall sut	---	NSNT
+
+
+175, 1	575, 1-4	HUN	*yeah* rywbeth felly *mmm*	---	NST
+
+
+176, 1	576, 1-2	ALB	ond oedd	NSNT	NSNT
+176, 2	576, 3-15	ALB	llwythi nhw wedi cau *er* *Blaenau* *Bala* *Bangor* *Caernarfon* *Deiniolen* yn *Gwynedd* a	NST	NST
+176, 4	578, 1-4	ALB	trwy Cymru gyd ond	---	NSNT
+
+
+177, 1	579, 1-7	HUN	Jesus o'n ddim gwybod bod hynna bad	SNT	SNT
+177, 2	581, 1-6	HUN	oedd *Barclays* wedi cau yn *Port*	NST	NST
+177, 3	581, 7-9	HUN	sti dydd Mercher	---	NSNT
+
+
+178, 1	582, 1-2	ALB	go iawn	SNT	NSNT
+178, 3	584, 1-1	ALB	dodgy	---	NSNT
+
+
+179, 1	585, 1-4	HUN	o'n fath â *o_k*	---	NST
+
+
+180, 1	587, 1-1	ALB	cwyno	---	NSNT
+
+
+181, 1	588, 1-7	HUN	*well* wnaeth un *person* cwyno wrtha fi	NST	NST
+181, 2	588, 8-11	HUN	bod *Barclays* wedi cau	NST	NST
+181, 3	589, 1-4	HUN	o'n i fath â	SNT	NSNT
+181, 5	591, 1-7	HUN	do you know what *bank* you're in	NST	NST
+181, 6	592, 1-1	HUN	retard	NSNT	NSNT
+181, 8	594, 1-8	HUN	*does* it say *Barclays* on the fucking *door*	NST	NST
+181, 9	595, 1-1	HUN	no	SNT	NSNT
+181, 11	597, 1-6	HUN	ti ddim yn y fucking *Barclays*	ST	ST
+181, 13	599, 1-2	HUN	*fuck* *off*	ST	NST
+181, 14	600, 1-2	HUN	fath â	---	NSNT
+
+
+182, 1	601, 1-7	ALB	*oh* ti gwybod pobl gwirion fel yna	NST	NST
+182, 2	601, 8-11	ALB	mae nhw fath â	---	NSNT
+
+
+183, 1	606, 1-5	HUN	*oh* mynd ar *nerves* fi	---	NST
+
+
+184, 1	607, 1-11	ALB	dw i cofio cael *er* bobl ffonio fi gweithio i *Bupa*	NST	NST
+184, 2	608, 1-14	ALB	un *boy* bach yma yn deud drefn wrtha fi bod prisiau *gas* yn codi	NST	NST
+184, 4	610, 1-2	ALB	fath â	NSNT	NSNT
+184, 5	611, 1-5	ALB	*hello* dach chi ffonio *Bupa*	---	NST
+
+
+185, 1	612, 1-3	HUN	*Bupa* not British_Gas	---	NST
+
+
+186, 1	613, 1-1	ALB	*Gas*	---	NST
+
+
+187, 1	614, 1-5	HUN	go up the alphabet love	---	NSNT
+
+
+188, 1	616, 1-5	ALB	ac oedd o yn mynnu	NSNT	NSNT
+188, 2	616, 6-8	ALB	bod *British* *er*	NST	NST
+188, 3	616, 9-13	ALB	timod o'n ni yn British_Gas	SNT	SNT
+188, 4	617, 1-5	ALB	smalio bod ni ddim nhw	---	NSNT
+
+
+189, 1	618, 1-3	HUN	*oh* my God	---	NST
+
+
+190, 1	619, 1-7	ALB	ac oedd o yn cau coelio ni	NSNT	NSNT
+190, 2	620, 1-9	ALB	ymlaen a ymlaen a ymlaen am rhyw ugain munud	NSNT	NSNT
+190, 4	622, 1-5	ALB	dw i yn yn *sorry*	NST	NST
+190, 5	623, 1-7	ALB	gyn ti personal membership mynd efo *Bupa*	NST	ST
+190, 6	624, 1-9	ALB	fel arall rhaid mi gorffen y galwad yma wan	NSNT	NSNT
+190, 7	625, 2-6	ALB	dan ni ddim yn British_Gas	SNT	SNT
+190, 8	626, 1-6	ALB	rhif *phone* British_Gas wyt ti angen	NST	ST
+190, 9	626, 7-8	ALB	ydy hyn	NSNT	NSNT
+190, 10	627, 1-6	ALB	wyt ti wedi deialo rhif yma	NSNT	NSNT
+190, 11	628, 1-6	ALB	bach o wahaniaeth rhyngddyn nhw ond	---	NSNT
+
+
+191, 1	629, 1-7	HUN	*oh* baswn i *just* roi *phone* lawr	---	NST
+
+
+192, 1	631, 1-5	ALB	I have to go now	---	NSNT
+
+
+193, 1	632, 1-1	HUN	*uh_huh*	---	NST
+
+
+194, 1	633, 1-3	ALB	*um* I hope	NST	NST
+194, 2	633, 4-6	ALB	you have a	NSNT	NSNT
+194, 3	633, 7-8	ALB	I hope	NSNT	NSNT
+194, 4	633, 9-12	ALB	you get through to	NSNT	NSNT
+194, 5	634, 1-6	ALB	*can* you not connect *me* through	NST	NST
+194, 6	635, 1-4	ALB	no unfortunately I can't	---	NSNT
+
+
+195, 1	636, 1-3	HUN	connect *me* through	NST	NST
+195, 2	637, 1-4	HUN	*oh* we are linked	---	NST
+
+
+196, 1	639, 1-4	ALB	no unfortunately I can't	NSNT	NSNT
+196, 2	640, 1-4	ALB	this is the *number*	NST	NST
+196, 3	641, 1-4	ALB	*just* dial that *number*	ST	NST
+196, 5	643, 1-13	ALB	rhywun arall ffonio fyny *um* wneud trio wneud *claim* *er* *insurance* o *Bupa*	NST	NST
+196, 6	644, 1-8	ALB	ond *um* o'n methu ffeindio fo ar *system*	NST	NST
+196, 7	645, 1-11	ALB	oedd ddau *system* gyn i y *system* hen a *system* newydd	NST	NST
+196, 8	646, 1-15	ALB	methu ffeindio fo a gael gwario ryw ugain munud hawdd mwydro yr *boy* bach yma	ST	NST
+196, 9	648, 1-2	ALB	blinking aelod	NSNT	SNT
+196, 10	649, 1-14	ALB	cael cael llythyr allan a darllen o lle mae o deud *top* llythyr *Standard_Life*	---	NST
+
+
+197, 1	652, 1-7	HUN	you might want to ring *Standard_Life* love	---	NST
+
+
+198, 1	653, 1-9	ALB	*yeah* *Standard_Life* neu *P_P_P* un o rheiny oedd o	NST	NST
+198, 2	655, 1-5	ALB	na dim un un cwmni	NSNT	NSNT
+198, 3	656, 1-7	ALB	*oh* dach chi gyd yr un fath	NST	NST
+198, 4	657, 1-2	ALB	nag ydan	---	NSNT
+
+
+199, 1	658, 1-3	HUN	*oh* *stupid* de	---	NST
+
+
+200, 1	660, 1-6	ALB	rhif *phone* ti isio ti angen	NST	NST
+200, 2	661, 1-10	ALB	ti gallu mynd ar y we ffeindio rhif *phone* iddo	NST	NST
+200, 3	662, 1-5	ALB	ffonio nhw fan yna wan	SNT	NSNT
+200, 4	663, 1-1	ALB	go	---	NSNT
+
+
+201, 1	664, 1-4	HUN	*yeah* go go go	NST	NST
+201, 2	665, 1-2	HUN	go away	---	NSNT
+
+
+202, 1	668, 1-10	ALB	*oh* ti gwybod bobl sy yn yn ffwndro a mwydro	NST	NST
+202, 2	669, 1-4	ALB	galwad dwytha ces i	NSNT	NSNT
+202, 3	669, 5-10	ALB	oedd hwn trio lladd eu hunain	---	NSNT
+
+
+203, 1	670, 1-2	HUN	arglwydd *yeah*	---	NST
+
+
+204, 1	671, 1-18	ALB	dw i cael dwy waith yn *Bupa* bobl isio llawdriniaeth ac ddim yn cael *cover* amdano fo oherwydd	NST	NST
+204, 2	671, 19-23	ALB	bod nhw llawdriniaeth yn experimental	SNT	SNT
+204, 3	673, 2-7	ALB	timod a dim yn cael eu	NSNT	NSNT
+204, 4	674, 1-9	ALB	*um* timod ti methu cael o *er* ar *N_H_S*	NST	NST
+204, 5	675, 1-7	ALB	mae yn fath â un *person* deud	NST	NST
+204, 6	677, 2-11	ALB	mae gyn ti *N_I_C_E* *er* *National_Institute_for_Clinical_Excellence* neu rywbeth fel yna	NST	NST
+204, 7	678, 1-11	ALB	a pan isio llawdriniaeth really experimental dodgy yma *America* a deud	NST	ST
+204, 8	679, 1-5	ALB	na na na di ddim	NSNT	NSNT
+204, 9	680, 1-1	ALB	a	NSNT	NSNT
+204, 10	681, 1-6	ALB	*oh* dw mynd lladd fy hun	NST	NST
+204, 11	681, 7-7	ALB	ta	NSNT	NSNT
+204, 12	682, 1-9	ALB	a mae hwn yn digwydd a ti fath â	NSNT	NSNT
+204, 13	683, 1-3	ALB	mae *phone* ni	NST	NST
+204, 14	684, 1-8	ALB	a mae fath â fath â wneud rywbeth	NSNT	NSNT
+204, 15	685, 1-4	ALB	mae yna fath â	NSNT	NSNT
+204, 16	687, 1-7	ALB	fath â wneud rywbeth i recording *special*	ST	ST
+204, 17	688, 1-11	ALB	a wedyn recordio fo a gyrru e_mail *off* i Instance_Report felly	NST	ST
+204, 18	689, 1-2	ALB	*oh* llanast	---	NST
+
+
+205, 1	690, 1-2	HUN	arglwydd *yeah*	---	NST
+
+
+206, 1	691, 1-10	ALB	a rhywun arall aelod o *staff* wedi deud *um* rywbeth	NST	NST
+206, 2	692, 1-13	ALB	llawdriniaeth mwya pitw fath â *bunion* treatment neu rywbeth really *stupid* dw meddwl	NST	ST
+206, 3	693, 1-3	ALB	lladd fy hun	NSNT	NSNT
+206, 4	694, 1-2	ALB	ac timod	NSNT	NSNT
+206, 5	694, 4-13	ALB	ac oedd hi yn ffonio fyny sawl waith a pawb	NSNT	NSNT
+206, 6	696, 1-9	ALB	hi yn ffonio fyny *psych* *nurses* timod *psychiatric* *nurses*	NST	NST
+206, 7	698, 1-3	ALB	yr un fath	NSNT	NSNT
+206, 8	699, 1-3	ALB	nhw yn deud	NSNT	NSNT
+206, 9	700, 1-6	ALB	*well* dan ni methu mwy iddi	ST	NST
+206, 10	701, 1-5	ALB	*oh* anyway *Bupa* talu diwedd	NST	ST
+206, 11	702, 1-14	ALB	*er* oedden ni yn cael cael y llawdriniaeth i *bunions* hi neu be bynnag	NST	NST
+206, 12	702, 15-16	ALB	oedd o	---	NSNT
+
+
+207, 1	703, 1-7	HUN	*oh* ddim isio deud wrth neb na	ST	NST
+207, 3	705, 1-6	HUN	you wanna keep that quiet love	---	NSNT
+
+
+208, 1	707, 1-5	ALB	dw isio lladd fy hun	NSNT	NSNT
+208, 2	708, 1-3	ALB	gynna i *bunions*	NST	NST
+208, 4	710, 1-5	ALB	dach chi ddim cyfro fi	NSNT	NSNT
+208, 5	711, 1-8	ALB	dach chi yn cau talu am y llawdriniaeth	---	NSNT
+
+
+209, 1	712, 1-3	HUN	*oh* my God	---	NST
+
+
+210, 1	713, 1-3	ALB	fath â gwirion	NSNT	NSNT
+210, 2	714, 1-11	ALB	*oh* mae gyn ti pethau mwya rhyfedd yn y byd yma	---	NST
+
+
+211, 1	715, 1-2	HUN	arglwydd mawr	---	NSNT
+
+
+212, 1	716, 1-1	ALB	Duw	NSNT	NSNT
+212, 2	717, 1-8	ALB	oes gyn ti arwydd o bird *flu* yma	---	ST
+
+
+213, 1	718, 1-2	HUN	arglwydd na	NSNT	NSNT
+213, 4	721, 1-5	HUN	mae yr *parrot* wedi mynd	---	NST
+
+
+214, 1	723, 1-4	ALB	oedd *parrot* yn funny	---	ST
+
+
+215, 1	724, 1-6	HUN	arglwydd oedd hi funny efo *Helen*	NST	ST
+215, 2	724, 7-7	HUN	doedd	NSNT	NSNT
+215, 4	726, 1-5	HUN	oedd hi mond tormentio hi	NSNT	NSNT
+215, 6	729, 1-7	HUN	tro cynta ddoth hi allan o cratsh	NSNT	NSNT
+215, 7	729, 8-15	HUN	aeth hi *straight* at *Helen* a brathu hi	NST	NST
+215, 9	731, 2-8	HUN	gynni bach o waed *just* dod lawr	NST	NST
+215, 10	731, 9-9	HUN	ei	NSNT	NSNT
+215, 11	731, 10-11	HUN	boch hi	NSNT	NSNT
+215, 12	733, 1-5	HUN	oes yna waed yna *Hunydd*	NST	NST
+215, 13	734, 1-5	HUN	na dach chi yn iawn	---	NSNT
+
+
+216, 1	737, 1-5	ALB	*oh* mae *Helen* yn *fantastic*	NST	NST
+216, 3	739, 1-4	ALB	dy nain yn gwych	NSNT	NSNT
+216, 4	740, 1-3	ALB	mae yn absolutely	---	SNT
+
+
+217, 1	741, 1-6	HUN	*oh* dydy ddim yn *bloody* call	NST	NST
+217, 2	741, 7-10	HUN	dw ddeud wrtha chdi	NSNT	NSNT
+217, 4	743, 1-3	HUN	mae yn uffernol	---	NSNT
+
+
+218, 1	744, 1-9	ALB	a *blue* *W_K_D* yn yfed *blue* *W_K_D* bob munud	---	NST
+
+
+219, 1	745, 1-3	HUN	*oh* *blue* *W_K_Ds*	ST	NST
+219, 2	746, 1-5	HUN	dw i licio *lemonade* nhw	NST	NST
+219, 5	750, 1-4	HUN	dw i yn *sure*	NST	NST
+219, 6	750, 5-9	HUN	bod hi gwybod yn iawn	NSNT	NSNT
+219, 7	750, 10-12	HUN	be mae o	NSNT	NSNT
+219, 8	751, 1-6	HUN	deud hynna o flaen *mam* mae	NST	NST
+219, 10	753, 1-2	HUN	tormentio *mam*	---	NST
+
+
+220, 1	754, 1-1	ALB	bechod	NSNT	NSNT
+220, 2	755, 1-6	ALB	gallu weld dy fam fath â	NSNT	NSNT
+220, 3	756, 1-5	ALB	Iesu_Grist calm down wan *Helen*	NST	ST
+220, 5	758, 1-2	ALB	paid â	---	NSNT
+
+
+221, 1	759, 1-5	HUN	that's your fourth now *Helen*	ST	NST
+221, 3	761, 1-5	HUN	arglwydd mawr ddim yn gall	NSNT	NSNT
+221, 4	762, 1-6	HUN	faint o gloch ydy wan dŵad	---	NSNT
+
+
+222, 1	763, 1-6	ALB	*oh* mae o yn chwarter i	---	NST
+
+
+223, 1	764, 1-2	HUN	argoel mawr	---	NSNT
+
+
+224, 1	765, 1-3	ALB	chwarter i tri	---	NSNT
+
+
+225, 1	766, 1-4	HUN	chwarter awr i fynd	---	NSNT
+
+
+226, 1	767, 1-5	ALB	*ooh* faint ni yn recordio	---	NST
+
+
+227, 1	768, 1-2	HUN	hanner awr	---	NSNT
+
+
+228, 1	769, 1-2	ALB	hanner awr	NSNT	NSNT
+228, 2	770, 1-3	ALB	hanner awr wan	NSNT	NSNT
+228, 3	772, 1-12	ALB	*oh* na pum munud arall hanner awr pum munud arall dw meddwl	---	NST
+
+
+229, 1	773, 1-2	HUN	ti *sure*	NST	NST
+229, 2	775, 1-5	HUN	o'n i meddwl na ryw	NSNT	NSNT
+229, 3	776, 1-7	HUN	*oh* deuda bod ni yn twenty_five past	---	ST
+
+
+230, 1	777, 1-2	ALB	twenty past	---	NSNT
+
+
+231, 1	778, 1-7	HUN	*oh* *yeah* ryw bum munud eto *yeah*	---	NST
+
+
+232, 1	779, 1-7	ALB	deg munud arall *just* yn bod sicr	NST	NST
+232, 2	781, 1-5	ALB	mae ddigon o amser i	NSNT	NSNT
+232, 5	784, 1-2	ALB	*oh* bechod	NST	NST
+232, 6	785, 1-5	ALB	bore yma ar y *phone*	---	NST
+
+
+233, 1	786, 1-10	HUN	*yeah* be oedd yn siarad bore yma ar y *phone*	---	NST
+
+
+234, 1	787, 1-5	ALB	am *Angharad* yn ces felly	---	NST
+
+
+235, 1	789, 2-6	HUN	oedd hi yn funny neithiwr	NSNT	SNT
+235, 2	790, 1-4	HUN	oedd hi mor blunt	SNT	SNT
+235, 3	791, 1-4	HUN	oedd *Peggy* ffordd yna	NST	NST
+235, 4	792, 1-5	HUN	o'n i fan hyn deuda	NSNT	NSNT
+235, 5	793, 1-5	HUN	wedyn oedd hi yn canol	NSNT	NSNT
+235, 7	795, 1-8	HUN	amser i chdi ffeindio rywun arall rŵan *Hunydd*	ST	NST
+235, 9	797, 1-3	HUN	*oh* *real* subtle	---	NST
+
+
+236, 1	799, 1-4	ALB	subtle *as* a sledge_hammer	---	NST
+
+
+237, 1	802, 1-5	HUN	ti isio rywun ifengach *Hunydd*	---	NST
+
+
+238, 1	807, 1-1	ALB	cochi	---	NSNT
+
+
+239, 1	808, 1-3	HUN	*oh* funny de	---	ST
+
+
+240, 1	809, 1-1	ALB	bechod	---	NSNT
+
+
+241, 1	811, 1-1	HUN	trio	---	NSNT
+
+
+242, 1	812, 1-3	ALB	*oh* mae yn	NST	NST
+242, 2	812, 4-6	ALB	ces go iawn	---	NSNT
+
+
+243, 1	813, 1-6	HUN	arglwydd mae yn star bach funny	SNT	SNT
+243, 2	815, 1-1	HUN	arglwydd	---	NSNT
+
+
+244, 1	816, 1-3	ALB	ond timod unwaith	NSNT	NSNT
+244, 2	816, 4-12	ALB	eith hi *off* i *um* i *Bangor* penwythnos yma	NST	NST
+244, 3	816, 13-17	ALB	geith hi hwyl efo *Heulwen*	NST	NST
+244, 4	817, 1-5	ALB	mae *Heulwen* yn dod lawr	---	NST
+
+
+245, 1	818, 1-1	HUN	bydd	NSNT	NSNT
+245, 2	818, 2-4	HUN	dw i *sure*	---	NST
+
+
+246, 1	822, 1-2	ALB	*yeah* *Harry*	ST	NST
+246, 2	823, 1-2	ALB	timod *Harry*	NST	NST
+246, 3	824, 1-6	ALB	ti weld o weithiau yn *er*	---	NST
+
+
+247, 1	825, 1-5	HUN	*oh* *er* gwallt blonde gynni	---	ST
+
+
+248, 1	827, 1-5	ALB	a mae yn *case* ofnadwy	NST	NST
+248, 2	828, 1-6	ALB	bod allan dwywaith efo hi wan	NSNT	NSNT
+248, 3	829, 1-6	ALB	a mae hi yn *just* yn	NST	NST
+248, 4	831, 1-8	ALB	timod ti ddim yn stopio chwerthin efo hi	NSNT	NSNT
+248, 6	834, 1-8	ALB	a mae hi yn fath â ditsy hefyd	NSNT	SNT
+248, 7	834, 10-14	ALB	gwirion fath â fath â	---	NSNT
+
+
+249, 1	836, 1-1	HUN	God	---	NSNT
+
+
+250, 1	837, 1-7	ALB	Iesu mae awyr glas *er* piws allan	ST	NST
+250, 2	838, 1-2	ALB	June ydy	NSNT	SNT
+250, 4	840, 1-8	ALB	timod lle ti meddwl diniwed mewn un ffordd	NSNT	NSNT
+250, 5	841, 1-2	ALB	piso chwerthin	---	NSNT
+
+
+251, 1	842, 1-2	HUN	arglwydd mawr	---	NSNT
+
+
+252, 1	843, 1-2	ALB	Duw Duw	NSNT	NSNT
+252, 2	844, 1-8	ALB	ti clywed unrhyw sôn mwy o gwaith celfyddydau	---	NSNT
+
+
+253, 1	845, 1-14	HUN	na mae nhw *just* gweitied i yr cwrs yma gael ei adferteisio gan *Cyfle*	ST	NST
+253, 2	847, 1-9	HUN	apart from that mae bach yn shit really *just*	---	ST
+
+
+254, 1	849, 1-5	ALB	ti ar mailing *list* nhw	NST	ST
+254, 2	851, 1-5	ALB	*um* meddwl sôn wrthat ti	NST	NST
+254, 3	851, 6-7	ALB	ydy *Innocent_Smoothies*	NST	NST
+254, 4	851, 8-13	ALB	mae nhw yn wneud fath â	NSNT	NSNT
+254, 5	851, 14-27	ALB	mae nhw gofyn i bobl i submit_io fath â adverts i *um* products nhw	NST	ST
+254, 6	854, 2-15	ALB	dw meddwl ti cael ti cael fath â pum_deg punt neu rywbeth fel yna	NSNT	NSNT
+254, 7	856, 1-7	ALB	mae nhw yn rhoi o ar *telly*	NST	NST
+254, 8	858, 2-2	ALB	dyna	NSNT	NSNT
+254, 9	858, 3-5	ALB	be wnaeth nhw	NSNT	NSNT
+254, 10	859, 1-7	ALB	mae nhw yn fath â cwmni bach	---	NSNT
+
+
+255, 1	860, 1-4	HUN	be ydy enw o	SNT	NSNT
+255, 2	861, 1-1	HUN	*Instant*	---	NST
+
+
+256, 1	862, 1-1	ALB	*Innocent_Smoothies*	---	NST
+
+
+257, 1	863, 1-1	HUN	*Innocent_Smoothies*	ST	NST
+257, 2	864, 1-2	HUN	*oh* rheiny	---	NST
+
+
+258, 1	867, 1-4	ALB	*so* rywbeth i ti	NST	NST
+258, 2	868, 1-7	ALB	timod *couple* *cartons* a *couple* o ffrwythau	NST	NST
+258, 4	870, 1-5	ALB	helpu nhw fo ar *telly*	NST	NST
+258, 5	871, 1-13	ALB	a nhw wnaeth o yn *park* efo *couple* *cartons* a *couple* o ffrwythau	NST	NST
+258, 6	872, 1-4	ALB	a timod *costs* advert	ST	ST
+258, 7	872, 5-6	ALB	timod cynhyrchu	---	NSNT
+
+
+259, 1	873, 1-6	HUN	*oh* yr un animation bach yna	---	ST
+
+
+260, 1	874, 1-11	ALB	ia efo ffrwythau yn popio a ballu yn diflannu yn *er*	NST	NST
+260, 2	876, 2-10	ALB	mae nhw ar gwair *cartons* yn symud a ballu	---	NST
+
+
+261, 1	878, 1-8	HUN	*oh* o'n i weld o bach yn basic	NST	ST
+261, 3	880, 1-2	HUN	that's why	---	NSNT
+
+
+262, 1	883, 1-8	ALB	dw cael y newsletters bob wythnos gynnyn nhw	NSNT	SNT
+262, 2	884, 1-6	ALB	dw i cofio weld rywbeth yna	SNT	NSNT
+262, 3	886, 1-1	ALB	*so*	---	NST
+
+
+263, 1	887, 1-7	HUN	*yeah* ydyn nhw dal yn wneud o	NST	NST
+263, 2	888, 1-3	HUN	ta *just* one_off	---	ST
+
+
+264, 1	889, 1-3	ALB	dw i *sure*	NST	NST
+264, 2	889, 4-5	ALB	bod nhw	NSNT	NSNT
+264, 3	890, 1-6	ALB	wythnos dwytha yn hysbyseb cylchlythyr nhw	NSNT	NSNT
+264, 4	892, 1-17	ALB	oedd rhywun wedi wneud *video* adre sut i cael gwared o *bits* ola o gwaelod y *carton*	ST	NST
+264, 5	893, 1-5	ALB	dance_o i i cân *reggae*	NST	ST
+264, 6	895, 1-20	ALB	mae yn dawnsio efo *carton* ei geg o upside down yn dawnsio i cael *bits* ola allan o yr *carton*	NST	ST
+264, 8	897, 1-12	ALB	ac o'n nhw yn rhoi o ar website nhw ti watsiad o	NSNT	SNT
+264, 9	898, 1-7	ALB	*so* *so* os wnei di *clip* bach	---	NST
+
+
+265, 1	899, 1-3	HUN	*oh* *cool* de	---	NST
+
+
+266, 1	900, 1-6	ALB	deud enw yr *person* bob peth	NST	NST
+266, 2	902, 2-6	ALB	bysai yn showcase *right* dda	---	ST
+
+
+267, 1	903, 1-3	HUN	bysai hwnna *cool*	NST	NST
+267, 2	903, 4-4	HUN	bysai	NSNT	NSNT
+267, 3	905, 1-6	HUN	isio meddwl am rywbeth sy isio	---	NSNT
+
+
+268, 1	906, 1-4	ALB	*yeah* rywbeth efo *Innocent_Smoothies*	NST	NST
+268, 2	908, 1-7	ALB	timod be bynnag pobl ti nabod neu	---	NSNT
+
+
+269, 1	910, 1-5	HUN	mae isio meddwl am rywbeth	NSNT	NSNT
+269, 2	910, 6-6	HUN	fydd	---	NSNT
+
+
+270, 1	912, 1-5	ALB	get your thinking *cap* on	ST	NST
+270, 2	913, 1-7	ALB	*well* cael look arno fo anyway *Innocent*	---	ST
+
+
+271, 1	915, 1-9	HUN	*oh* actually baset ti gallu helpu fi heno actually	ST	ST
+271, 3	917, 1-3	HUN	dw i wedi	NSNT	NSNT
+271, 4	918, 1-4	HUN	timod *Avid* y *programme*	NST	NST
+271, 5	918, 5-12	HUN	mae nhw yn iwsio in the industry bethau	NSNT	SNT
+271, 6	920, 1-12	HUN	dw i wedi manejio download_io *free* *copy* ohono *off* yr *Avid* website	ST	ST
+271, 7	921, 1-7	HUN	fath â *trial* *thing* ydy o fod	NST	NST
+271, 8	922, 1-6	HUN	a mae wedi connect_io yr *camera*	NST	ST
+271, 9	923, 1-3	HUN	dydy o *just*	NST	NST
+271, 10	924, 1-1	HUN	mae	NSNT	NSNT
+271, 11	924, 3-8	HUN	mae yr llun dod i_fyny bob_dim	NSNT	NSNT
+271, 12	925, 1-9	HUN	ond dydy o *just* cau import_io i yr computer	ST	ST
+271, 13	927, 1-6	HUN	mae yn *just* deud fath â	NST	NST
+271, 14	927, 7-10	HUN	mae yn the source	NSNT	SNT
+271, 15	928, 1-4	HUN	basically be mae ddeud	NSNT	SNT
+271, 16	928, 6-13	HUN	bod y *camera* wedi stopio chwarae yr footage	NST	ST
+271, 17	930, 1-3	HUN	which is weird	SNT	NSNT
+271, 18	931, 1-7	HUN	a dw i wedi trio lle ti	NSNT	NSNT
+271, 19	931, 8-20	HUN	roid in and out *points* a wedyn ti yn pwyso *record* a wedyn	NST	ST
+271, 20	931, 21-33	HUN	mae ffeindio yr *point* ar y tâp a dod â fo i_fewn felly	NST	NST
+271, 21	932, 1-18	HUN	a ffordd arall ydy ti yn *just* roi play ar y *camera* a pwsio *record* ar y computer	ST	ST
+271, 22	934, 1-4	HUN	mae yr ddau ffordd	NSNT	NSNT
+271, 23	935, 1-17	HUN	a wedyn even pan ti pwsio *stop* ar y computer mae yn deud tâp wedi stopio chwarae	NST	ST
+271, 25	937, 1-5	HUN	ia a ti fath â	SNT	NSNT
+271, 26	938, 1-3	HUN	no it hasn't	SNT	NSNT
+271, 27	940, 1-7	HUN	o'n i ddim gallu meddwl am ddim_byd	NSNT	NSNT
+271, 28	941, 1-4	HUN	*so* ella bod o	---	NST
+
+
+272, 1	942, 1-5	ALB	pa mor hen ydy *camera*	NST	NST
+272, 2	943, 1-5	ALB	ydy o yn *right* newydd	---	NST
+
+
+273, 1	945, 1-2	HUN	*Sony* bach	NST	NST
+273, 4	948, 1-18	HUN	*oh* dw i wedi mynd i *deck* configuration a pethau felly a wedi wneud o i_gyd yn iawn	NST	ST
+273, 5	949, 1-5	HUN	a mae hwnnw yn iawn	NSNT	NSNT
+273, 6	950, 1-3	HUN	ond mae weird	NSNT	SNT
+273, 7	952, 1-1	HUN	because	---	NSNT
+
+
+274, 1	953, 1-6	ALB	wna i gael look ti isio	---	SNT
+
+
+275, 1	955, 1-6	HUN	petaswn i gallu ffigro hwnna allan	NSNT	NSNT
+275, 2	955, 7-16	HUN	baswn i gallu at least trio dysgu yr *programme* wedyn	NST	ST
+275, 3	955, 17-17	HUN	yli	---	NSNT
+
+
+276, 1	958, 1-8	ALB	ond fel arall ti gallu import_io o *Premiere*	---	ST
+
+
+277, 1	960, 1-1	HUN	be	---	NSNT
+
+
+278, 1	961, 1-12	ALB	cael y *tape* mewn i *Premiere* wedyn export_io o *Premiere* i *Avid*	---	ST
+
+
+279, 1	962, 1-2	HUN	*oh* fedra	---	NST
+
+
+280, 1	963, 1-3	ALB	mae yn long_winded	---	SNT
+
+
+281, 1	964, 1-8	HUN	o'n i ddim wedi meddwl am hynna actually	---	SNT
+
+
+282, 1	965, 1-2	ALB	long_winded approach	SNT	NSNT
+282, 2	966, 1-5	ALB	*just* os ti wedi cael	---	NST
+
+
+283, 1	967, 1-8	HUN	basai fo wneud gwahaniaeth i yr *clip* though	ST	ST
+283, 2	967, 9-17	HUN	bod o wedi dod o *Premiere* ddim o hwnna	---	NST
+
+
+284, 1	968, 1-8	ALB	*well* be be mae gallu agor *Avid* weld	NST	ST
+284, 2	968, 9-18	ALB	be mae gallu agor y *type* o *files* *file* *types*	NST	NST
+284, 3	970, 1-11	ALB	a dos i *Premiere* wedyn a edrych pa fath o *file*	NST	NST
+284, 4	970, 12-15	ALB	mae gallu safio fel	---	NSNT
+
+
+285, 1	974, 1-3	HUN	holl dw isio	NSNT	NSNT
+285, 2	974, 4-17	HUN	ydy cael few *clips* i_fewn *just* i fi gael edit_io i gael *just* really	---	ST
+
+
+286, 1	976, 1-12	ALB	neu bosib mae pics ar dy computer yn barod bosib chwarae hefo	---	SNT
+
+
+287, 1	977, 1-3	HUN	dw i *sure*	NST	NST
+287, 2	977, 4-5	HUN	bod yna	NSNT	NSNT
+287, 3	977, 6-6	HUN	sti	---	NSNT
+
+
+288, 1	979, 1-7	ALB	ti yn gwybod rywbeth amdan *Quicktime* o_gwbl	---	NST
+
+
+289, 1	980, 1-4	HUN	*Quicktime* na dim *lot*	---	NST
+
+
+290, 1	981, 1-3	ALB	*yeah* safio bopeth	---	NST
+
+
+291, 1	984, 1-4	HUN	pam be ydy *Quicktime*	---	NST
+
+
+292, 1	985, 1-10	ALB	peth *Apple* *am* i gallu weld o ar y we	NST	NST
+292, 2	986, 1-10	ALB	isio rhoi ar ar y we i *um* i gwaith	NST	NST
+292, 3	988, 1-5	ALB	i yr ail safle we	NSNT	NSNT
+292, 4	990, 1-4	ALB	*um* er_mwyn y daith	NST	NST
+292, 5	991, 1-7	ALB	*Lybia* *video* o peth pobl ifanc wneud	NST	NST
+292, 6	993, 1-9	ALB	wnes i roi *clip* arno fo fel yna felly	ST	NST
+292, 7	995, 1-1	ALB	*so*	---	NST
+
+
+293, 1	996, 1-4	HUN	*oh* dw ddim gwybod	NST	NST
+293, 2	997, 1-7	HUN	os ydy yn un i yn p_c	SNT	SNT
+293, 3	997, 8-12	HUN	wneith o gymryd pethau *Apple*	---	NST
+
+
+294, 1	1001, 1-3	ALB	neu neu *Real*	---	NST
+
+
+295, 1	1002, 1-2	HUN	neu *Realplayer*	---	NST
+
+
+296, 1	1003, 1-3	ALB	*Realplayer* dyna fo	NST	NST
+296, 2	1004, 1-4	ALB	safio fo ar hwnna	---	NSNT
+
+
+297, 1	1005, 1-5	HUN	*yeah* baswn i trio rywbeth	NST	NST
+297, 2	1006, 1-10	HUN	ti dod â *um* c_ds *round* hefyd os ti isio	---	ST
+
+
+298, 1	1007, 1-1	ALB	laptop	---	NSNT
+
+
+299, 1	1010, 1-5	HUN	gawn ni wrando ar rheiny	---	NSNT
+
+
+300, 1	1011, 1-2	ALB	*oh* *fantastic*	ST	NST
+300, 3	1013, 1-5	ALB	*oh* *yeah* *music* *videos* yna	NST	NST
+300, 4	1014, 1-3	ALB	cael rheiny drosodd	NSNT	NSNT
+300, 5	1015, 1-10	ALB	ddo i â yr c_ds drosodd hefyd o swyddfa fi	---	SNT
+
+
+301, 1	1017, 1-3	HUN	tyrd â nhw	---	NSNT
+
+
+302, 1	1018, 1-1	ALB	*fantastic*	---	NST
+
+
+303, 1	1019, 1-4	HUN	be arall sy yna	NSNT	NSNT
+303, 4	1022, 1-2	HUN	dw i	NSNT	NSNT
+303, 5	1022, 3-6	HUN	bod yn gwely tan	---	NSNT
+
+
+304, 1	1023, 1-3	ALB	*oh* dw i	NST	NST
+304, 2	1024, 1-12	ALB	*oh* o'n i hwyr mynd i gwely neithiwr ryw dau o gloch	---	NST
+
+
+305, 1	1025, 1-4	HUN	*oh* *yeah* o'n i	---	NST
+
+
+306, 1	1026, 1-12	ALB	wneud ryw *lists* o pethau isio mynd i gwaith heddiw yma ballu	---	NST
+
+
+307, 1	1028, 1-4	HUN	wnes i dal godi	NSNT	NSNT
+307, 2	1029, 1-5	HUN	*oh* wnes i ddim codi	NST	NST
+307, 3	1030, 1-4	HUN	wnes i ddeffro naw	---	NSNT
+
+
+308, 1	1035, 1-3	ALB	naw o gloch	---	NSNT
+
+
+309, 1	1037, 1-1	HUN	*eh*	---	NST
+
+
+310, 1	1038, 1-11	ALB	ryw ugain munud wedi naw wnes i ffonio ti bore yma	---	NSNT
+
+
+311, 1	1039, 1-3	HUN	*yeah* rywbeth felly	NST	NST
+311, 2	1040, 1-5	HUN	o'n i wedi ddeffro sti	NSNT	NSNT
+311, 3	1041, 1-6	HUN	o'n i *just* gorwedd yn gwely	---	NST
+
+
+312, 1	1042, 1-8	ALB	o't ti swnio yn sŵn gysglyd arnat ti	NSNT	NSNT
+312, 3	1045, 1-7	ALB	*oh* damia dw i wedi deffro *Hunydd*	---	NST
+
+
+313, 1	1047, 1-5	HUN	na o'n i fel hyn	SNT	NSNT
+313, 2	1048, 1-3	HUN	*o_k* *phone* *o_k*	ST	NST
+313, 3	1049, 1-3	HUN	ti fath â	SNT	NSNT
+313, 4	1050, 1-3	HUN	*clear* your head	NST	NST
+313, 5	1051, 1-5	HUN	don't like to *sound* groggy	ST	NST
+313, 6	1052, 1-1	HUN	*hello*	ST	NST
+313, 7	1053, 1-4	HUN	a pawb yn deud	NSNT	NSNT
+313, 8	1054, 1-3	HUN	newydd ddeffro chdi	SNT	NSNT
+313, 9	1055, 1-1	HUN	*sorry*	ST	NST
+313, 11	1057, 1-1	HUN	no	NSNT	NSNT
+313, 12	1058, 1-8	HUN	I went into effort to not *sound* like	NST	NST
+313, 13	1058, 9-12	HUN	I been woken up	---	NSNT
+
+
+314, 1	1060, 1-5	ALB	dw meddwl *lot* ohono fo	NST	NST
+314, 2	1060, 7-13	ALB	bod ti yn gorwedd lawr hefyd bosib	NSNT	NSNT
+314, 4	1062, 2-16	ALB	dw i yn ffeindio gwely yn darllen rywbeth a rywun wedi ffonio fi *er* *hello*	NST	NST
+314, 7	1065, 1-5	ALB	*oh* ti bod yn cysgu	NST	NST
+314, 8	1066, 1-6	ALB	ti ddim yn teimlo yn dda	NSNT	NSNT
+314, 9	1067, 1-5	ALB	*oh* na dw yn iawn	NST	NST
+314, 10	1068, 1-4	ALB	dw i yn iawn	NSNT	NSNT
+314, 11	1069, 1-11	ALB	dw i yn *just* fath â gorwedd ar gwely darllen llyfr	NST	NST
+314, 13	1072, 1-3	ALB	a deud *oh*	---	NST
+
+
+315, 1	1073, 1-5	HUN	*so* bosib hwnna ydy o	ST	NST
+315, 2	1073, 6-8	HUN	I don't know	---	NSNT
+
+
+316, 1	1075, 1-1	ALB	bosib	NSNT	NSNT
+316, 2	1076, 1-5	ALB	*just* fi sy yn mwydro	NST	NST
+316, 4	1078, 1-2	ALB	*right* tebyg	NST	NST
+316, 5	1079, 1-1	ALB	bechod	---	NSNT
+
+
+317, 1	1081, 1-6	HUN	*yeah* ond *Fred* ffonio o *bank*	NST	NST
+317, 2	1083, 1-4	HUN	*sorry* wedi deffro chdi	NST	NST
+317, 3	1084, 1-1	HUN	naddo	SNT	NSNT
+317, 5	1086, 1-1	HUN	shit	---	NSNT
+
+
+318, 1	1087, 1-6	ALB	meddwl ti fath â *student* eto	NST	NST
+318, 2	1087, 7-10	ALB	gorwedd yn gwely tan	---	NSNT
+
+
+319, 1	1089, 1-4	HUN	how do you know	---	NSNT
+
+
+320, 1	1091, 1-6	ALB	*oh* mae yn annoying pan *argh*	NST	ST
+320, 2	1093, 1-7	ALB	ti mynd ar gwyliau flwyddyn yma gwbl	---	NSNT
+
+
+321, 1	1094, 1-10	HUN	dw mynd i yr gay *pride* *thing* yna yn *Gran_Canaria*	---	ST
+
+
+322, 1	1095, 1-4	ALB	*ah* efo dy ffrindiau	---	NST
+
+
+323, 1	1096, 1-6	HUN	*yeah* dw isio colli pwysau gynta	---	NST
+
+
+324, 1	1098, 1-10	ALB	*well* ewn ni cerdded fyny mynyddoedd hefo *Angharad* a wedyn	---	NST
+
+
+325, 1	1099, 1-6	HUN	*yeah* rywbeth felly dw isio wneud	NST	NST
+325, 2	1099, 7-8	HUN	dw meddwl	---	NSNT
+
+
+326, 1	1100, 1-6	ALB	dwyt ti ddim mynd i gym	SNT	SNT
+326, 2	1100, 7-8	ALB	nag wyt	---	NSNT
+
+
+327, 1	1101, 1-4	HUN	*well* baswn i yn	NST	NST
+327, 2	1102, 1-7	HUN	ond *just* mae yn costio bob mis	NST	NST
+327, 3	1102, 8-8	HUN	dydy	---	NSNT
+
+
+328, 1	1104, 1-15	ALB	*oh* na *well* efo canolfan hamdden *Port* ti yn talu flwyddyn dw meddwl deg punt	NST	NST
+328, 2	1105, 1-5	ALB	ti yn *just* talu mesul	NST	NST
+328, 3	1107, 1-2	ALB	*entry* wedyn	---	NST
+
+
+329, 1	1108, 1-2	HUN	faint ydy	---	NSNT
+
+
+330, 1	1109, 1-8	ALB	dw meddwl rywbeth fath â dau bunt neu	---	NSNT
+
+
+331, 1	1111, 1-4	HUN	mae hwnna yn iawn	NSNT	NSNT
+331, 2	1111, 5-5	HUN	dydy	---	NSNT
+
+
+332, 1	1112, 2-19	ALB	timod ti meddwl ti yn talu deg punt fath â fod yn aelod o canolfan hamdden am flwyddyn	NSNT	NSNT
+332, 2	1114, 1-2	ALB	a wedyn	---	NSNT
+
+
+333, 1	1115, 1-5	HUN	Duw basai well fi wneud	NSNT	NSNT
+333, 2	1116, 1-8	HUN	ga i iwsio sun bed nhw wedyn caf	---	SNT
+
+
+334, 1	1117, 1-2	ALB	exactly exactly	SNT	NSNT
+334, 3	1119, 1-3	ALB	ond mae o	NSNT	NSNT
+334, 4	1120, 1-2	ALB	wna i	NSNT	NSNT
+334, 5	1120, 3-9	ALB	wna i ffeindio allan ti heno yma	---	NSNT
+
+
+335, 1	1121, 1-3	HUN	dw ddim meddwl	NSNT	NSNT
+335, 2	1121, 4-9	HUN	bod o mor powerful â llall	SNT	SNT
+335, 3	1123, 1-9	HUN	because ti gorfod mynd arno *lot* fwy na llall	---	ST
+
+
+336, 1	1124, 1-9	ALB	*oh* wna i cael look i ti heno yma	NST	ST
+336, 2	1125, 1-12	ALB	wna i weld a i ar y we pnawn yma heno yma	NSNT	NSNT
+336, 3	1127, 1-9	ALB	isio tsiecio rywbeth fyny anyway efo canolfan hamdden *Port*	NST	ST
+336, 4	1128, 1-3	ALB	isio bwcio stafell	NSNT	NSNT
+336, 5	1129, 1-4	ALB	*so* dw i tra	NST	NST
+336, 6	1129, 5-8	ALB	dw i wneud hynny	NSNT	NSNT
+336, 7	1129, 9-10	ALB	wna i	---	NSNT
+
+
+337, 1	1130, 1-2	HUN	*yeah* *cool*	---	NST
+
+
+338, 1	1131, 1-1	ALB	*yay*	ST	NST
+338, 2	1132, 1-5	ALB	be ti wneud weekend nesa	---	SNT
+
+
+339, 1	1135, 1-10	HUN	*um* *oh* dw i yn y *B_B_C* drwy dydd Gwener	---	NST
+
+
+340, 1	1136, 1-2	ALB	*oh* lle	---	NST
+
+
+341, 1	1137, 1-1	HUN	yn	---	NSNT
+
+
+342, 1	1138, 1-1	ALB	*Bangor*	---	NST
+
+
+343, 1	1139, 1-4	HUN	*yeah* dydd Gwener yma	---	NST
+
+
+344, 1	1140, 1-2	ALB	*oh* *fantastic*	---	NST
+
+
+345, 1	1141, 1-4	HUN	mae *Simon* isio fi	NST	NST
+345, 2	1141, 5-8	HUN	roid hand iddo symud	NSNT	SNT
+345, 3	1142, 1-5	HUN	ond dw ddim really ffansïo	NSNT	SNT
+345, 4	1143, 1-5	HUN	dydy o ddim fath â	NSNT	NSNT
+345, 5	1143, 6-12	HUN	fedra i fynd yn gynnar dydd Gwener	NSNT	NSNT
+345, 6	1143, 13-14	HUN	nag ydy	NSNT	NSNT
+345, 7	1144, 1-14	HUN	mae yn four *well* two *hour* *drive* i Shrewsbury ryw dair arall i *Derby*	NST	ST
+345, 8	1144, 15-15	HUN	dydy	SNT	NSNT
+345, 9	1145, 1-1	HUN	*so*	ST	NST
+345, 10	1146, 1-7	HUN	a dw isio bod yn *fresh* really	NST	ST
+345, 11	1147, 1-12	HUN	because mae gynno fi wsnos llawn o yr *B_B_C* wedyn wsnos wedyn	NST	ST
+345, 12	1147, 13-14	HUN	does *so*	---	NST
+
+
+346, 1	1151, 1-6	ALB	mynd i Manceinion penwythnos nesa bosib	NSNT	NSNT
+346, 2	1152, 1-5	ALB	ond bosib wna i ddim	NSNT	NSNT
+346, 3	1154, 1-7	ALB	neu a i gwmpas yma a gweithio	---	NSNT
+
+
+347, 1	1156, 1-9	HUN	*well* cael y nhalu ar talu ar y twentieth	ST	ST
+347, 2	1157, 1-3	HUN	ond *thing* ydy	NST	NST
+347, 3	1157, 4-8	HUN	fydd o ddim yn *lot*	NST	NST
+347, 4	1157, 9-11	HUN	dw meddwl *so*	---	NST
+
+
+348, 1	1159, 1-5	ALB	join the *club* of the	ST	NST
+348, 2	1160, 1-5	ALB	mae o yn tair gloch	NSNT	NSNT
+348, 3	1162, 1-3	ALB	tri gloch yndy	NSNT	NSNT
+348, 4	1163, 1-4	ALB	*so* mae o yn	NST	NST
+348, 5	1164, 1-5	ALB	dechrau ugain munud wedi do	---	NSNT
+
+
+349, 1	1165, 1-4	HUN	mae yn hanner awr	NSNT	NSNT
+349, 2	1165, 5-5	HUN	dydy	---	NSNT
+
+
+350, 1	1167, 1-2	ALB	stopio fo	---	NSNT
+
+
+351, 1	1168, 1-8	HUN	dw ddim yn gwybod sut i stopio fo	NSNT	NSNT
+351, 2	1169, 1-3	HUN	torri yr *thing*	NST	NST
+351, 3	1170, 1-3	HUN	wedi recordio drosto	---	NSNT
+
+
+352, 1	1172, 1-1	ALB	pause	NSNT	NSNT
+352, 2	1173, 1-3	ALB	I don't know	SNT	NSNT
+352, 3	1174, 1-4	ALB	wna i nôl *Marika*	NST	NST
+352, 4	1175, 1-4	ALB	bydd o yn hawsach	NSNT	NSNT

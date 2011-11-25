@@ -1,0 +1,1024 @@
+1, 1	1, 1-1	ANT	*ideal*	---	NST
+
+
+2, 1	2, 1-14	AMR	ia ond mae *sure* ti ddim yn medru roi hwnna yn y *system* though	ST	ST
+2, 2	2, 15-16	AMR	nag wyt	---	NSNT
+
+
+3, 1	3, 1-10	ANT	ia ond *just* isio teipio fo i_fyny wedyn sydd yn_de	NST	NST
+3, 2	5, 1-10	ANT	*oh* mae yn bach o boen yn teipio fe fyny	NST	NST
+3, 3	6, 1-9	ANT	ond dw i wedi dysgu mwy o hwnna achos	NSNT	NSNT
+3, 4	6, 10-16	ANT	wnes i iwsio *module* evaluation *forms* hefyd	NST	ST
+3, 5	8, 1-2	ANT	a wnes	NSNT	NSNT
+3, 6	8, 3-9	ANT	dw i wedi dysgu mwy o hwnna	NSNT	NSNT
+3, 7	10, 1-5	ANT	na na *module* evaluation *forms*	ST	ST
+3, 8	11, 1-2	ANT	dyna i_gyd	NSNT	NSNT
+3, 9	11, 3-6	ANT	mae hwnna yn wneud	NSNT	NSNT
+3, 10	11, 7-14	ANT	yw ffitio yr *um* yr audit trails yma	NST	ST
+3, 11	11, 15-18	ANT	sy gynnyn nhw really	SNT	SNT
+3, 12	13, 1-11	ANT	ti ddim yn dysgu dim_byd ar wella dy gwrs di o_gwbl	NSNT	NSNT
+3, 13	14, 1-10	ANT	ond efo hwn dw i yn gallu gwella yr cwrs	SNT	NSNT
+3, 14	16, 1-4	ANT	really gwella yr cwrs	NSNT	SNT
+3, 15	17, 1-6	ANT	a *er* *crew* *Graham_Green* yw rhein	NST	NST
+3, 16	18, 1-13	ANT	*so* gyd o rhein dyn nhw ddim yn licio eistedd yn y dosbarth	NST	NST
+3, 17	20, 1-4	ANT	mae nhw yn licio	NSNT	NSNT
+3, 18	20, 5-9	ANT	bod allan yr awyr iach	NSNT	NSNT
+3, 19	20, 10-10	ANT	wsti	NSNT	NSNT
+3, 20	22, 1-8	ANT	a does dim ots beth ti yn wneud	NSNT	NSNT
+3, 21	23, 1-10	ANT	es i â nhw am dro wedyn ar_ôl wneud hwn	NSNT	NSNT
+3, 22	24, 1-8	ANT	wsnos wedyn es i â nhw i *Capel_Curig*	NST	NST
+3, 23	25, 1-19	ANT	a wnaethon ni wneud yr union beth o'n i mynd i wneud yn y dosbarth ond *just* cerdded o_gwmpas	ST	NST
+3, 24	27, 1-1	ANT	*Capel_Curig*	ST	NST
+3, 25	28, 1-7	ANT	o'n nhw yn hapus tibod fath â	NSNT	NSNT
+3, 26	30, 1-4	ANT	efo plant bach sti	NSNT	NSNT
+3, 28	32, 1-9	ANT	ia mynd am dro a dysgu ar y ffordd	NSNT	NSNT
+3, 29	33, 1-10	ANT	ond mae nhw *lot* hapusach yn wneud gwerthuso fel yna	NST	NST
+3, 30	34, 1-11	ANT	dydy o ddim yn cymryd chwinciad i wneud o fel yna	NSNT	NSNT
+3, 31	36, 1-6	ANT	ond mae llenwi ryw ffurflen boring	---	SNT
+
+
+4, 1	38, 1-5	AMR	sganio hwnna mae nhw wedyn	---	NSNT
+
+
+5, 1	41, 1-13	ANT	*so* rhyw bryd dros y Dolig dw i mynd i teipio hwnna mewn	NST	NST
+5, 2	42, 1-9	ANT	a be sy gynno ni fan yna *question* *mark*	NST	NST
+5, 3	42, 10-18	ANT	yw yr pethau o'n nhw ddim yn *sure* amboutu	NST	NST
+5, 4	43, 1-2	ANT	*so* ydy	NST	NST
+5, 5	43, 3-11	ANT	mae o yn o bethau yn fan yna tibod	NSNT	NSNT
+5, 7	45, 1-11	ANT	*um* ond dw i meddwl fod e yn *system* bach da	NST	NST
+5, 8	46, 1-6	ANT	mae *lot* mwy o hwyl hefyd	NST	NST
+5, 9	47, 1-11	ANT	mae nhw yn cael *lot* o sbort yn wneud o tibod	---	NST
+
+
+6, 1	50, 1-9	AMR	ia *oh* na na dw i yn licio fo	---	NST
+
+
+7, 1	51, 1-5	ANT	wedyn beth bynnag dw isio	---	NSNT
+
+
+8, 1	52, 1-2	AMR	syniad da	---	NSNT
+
+
+9, 1	53, 1-6	ANT	ie dw i yn licio fo	NSNT	NSNT
+9, 2	54, 1-4	ANT	mae o *lot* gwell	NST	NST
+9, 3	57, 1-4	ANT	ffordd o wneud o	---	NSNT
+
+
+10, 1	58, 1-2	AMR	syniad da	---	NSNT
+
+
+11, 1	59, 1-5	ANT	wedyn *um* *oh* dyna fe	ST	NST
+11, 2	60, 1-11	ANT	God dw i *just* wedi blino gormod i wneud dim_byd wan	NST	ST
+11, 3	60, 12-12	ANT	wsti	NSNT	NSNT
+11, 4	61, 1-2	ANT	ond mae	NSNT	NSNT
+11, 5	61, 3-5	ANT	gynna i prosiect	NSNT	NSNT
+11, 6	61, 6-16	ANT	cais prosiect i orffen erbyn prynhawn fory erbyn un_ar_ddeg bore fory	NSNT	NSNT
+11, 8	63, 1-3	ANT	postio fe *off*	NST	NST
+11, 9	64, 1-11	ANT	a dw i ddim wedi cael cyfle i wneud e heddiw	NSNT	NSNT
+11, 10	65, 1-2	ANT	dw i	NSNT	NSNT
+11, 11	65, 3-11	ANT	wedi bod yn wneud pethau eraill trwy yr dydd	NSNT	NSNT
+11, 12	66, 1-8	ANT	*so* dw i yn credu a i adre	---	NST
+
+
+12, 1	67, 1-17	AMR	ond dw i ddim yn gwybod medra i helpu llawer arna chdi rhwng wan a bore fory	---	NSNT
+
+
+13, 1	68, 1-9	ANT	na *just* rhywbeth i *Capel_Curig* yw e anyway tibod	NST	ST
+13, 2	70, 1-5	ANT	ond *um* fel peth cymunedol	NST	NST
+13, 3	72, 1-9	ANT	ond os ga i fo bydd e yn golygu	NSNT	NSNT
+13, 4	72, 10-19	ANT	bydd gynno ni *um* be ti yn galw fo *er*	NST	NST
+13, 5	72, 20-30	ANT	cyfrifiaduron efo broadband *band* eang interactive whiteboards yn y neuadd pentre	NST	ST
+13, 6	74, 1-13	ANT	*so* felly wneud fydd o *um* mwy better equipped na yr coleg yma	NST	ST
+13, 7	75, 1-10	ANT	a fydda i gallu wneud dosbarthiadau lan fan yna wedyn	NSNT	NSNT
+13, 8	76, 1-2	ANT	alla i	---	NSNT
+
+
+14, 1	77, 1-2	AMR	super high_tech	---	NSNT
+
+
+15, 1	78, 1-11	ANT	ia ia cwbl *lot* a fydd web cams ar y computers	ST	ST
+15, 2	79, 1-7	ANT	naw computer a web cams a pob_dim	---	SNT
+
+
+16, 1	81, 1-3	AMR	*oh* da de	---	NST
+
+
+17, 1	82, 1-5	ANT	*um* a yr syniad yw	NST	NST
+17, 2	82, 6-16	ANT	bod ti yn gweithio efo pobl ifanc rhwng un_deg_pump a dau_ddeg_pump	NSNT	NSNT
+17, 3	82, 17-20	ANT	dw i yn credu	NSNT	NSNT
+17, 4	83, 1-11	ANT	ond ryw ddwsin o reina sy gynno ni yn y pentre	NSNT	NSNT
+17, 5	84, 1-12	ANT	*so* mae nhw wedi gweud ga i iwsio fe efo grwpiau eraill	NST	NST
+17, 6	86, 1-1	ANT	o_gwmpas	NSNT	NSNT
+17, 7	87, 1-9	ANT	a wedyn os oes gynno ni rywbeth fel yna	NSNT	NSNT
+17, 8	87, 10-22	ANT	alla i rentio allan yn_galla i y neuadd wedyn a yr kit yna	---	SNT
+
+
+18, 1	88, 1-1	AMR	medri	NSNT	NSNT
+18, 2	88, 2-2	AMR	medri	NSNT	NSNT
+18, 3	88, 3-3	AMR	medri	---	NSNT
+
+
+19, 1	89, 1-6	ANT	i grwpiau eraill fel y Brifysgol	NSNT	NSNT
+19, 2	91, 1-7	ANT	a wneud darlithoedd o fan yna tibod	NSNT	NSNT
+19, 3	93, 1-5	ANT	mae e *lot* gwell really	ST	ST
+19, 4	95, 1-9	ANT	*um* alla i wneud olradd lan fan yna wedyn	NST	NST
+19, 5	96, 1-8	ANT	fydd dim raid fi dod mewn i coleg	NSNT	NSNT
+19, 6	97, 1-9	ANT	allan o yr gwely syth mewn i yr dosbarth	NSNT	NSNT
+19, 7	99, 1-6	ANT	a mynd am *pint* amser cinio	ST	NST
+19, 8	100, 1-2	ANT	*oh* anyway	ST	NST
+19, 9	101, 1-7	ANT	*oh* ti mynd i_ffwrdd dros Dolig neu	---	NST
+
+
+20, 1	102, 1-8	AMR	na dan ni fi a *Gus* diwrnod Dolig	NST	NST
+20, 2	104, 1-9	AMR	wedyn mae *mam* a nhad yn dod Boxing Day	ST	ST
+20, 3	106, 1-6	AMR	ac ella *mam* a tad *Gus*	NST	NST
+20, 4	108, 1-3	AMR	ond dyna fo	---	NSNT
+
+
+21, 1	109, 1-3	ANT	ia ia lovely	---	SNT
+
+
+22, 1	110, 1-3	AMR	*so* *er* *nice*	---	NST
+
+
+23, 1	111, 1-4	ANT	*er* dw i yn	---	NST
+
+
+24, 1	112, 1-4	AMR	ti be ti wneud	---	NSNT
+
+
+25, 1	113, 1-1	ANT	adre	NSNT	NSNT
+25, 2	114, 1-4	ANT	wedyn mae yr genod	NSNT	NSNT
+25, 3	115, 1-7	ANT	dw i yn brysur wsnos nesa achos	NSNT	NSNT
+25, 4	115, 8-14	ANT	mae *party* Dolig y plant dydd Llun	NST	NST
+25, 5	116, 1-3	ANT	pedwar_deg_pump ohonyn nhw	NSNT	NSNT
+25, 6	118, 1-6	ANT	wnes i yr siopa pnawn ddoe	NSNT	NSNT
+25, 7	119, 1-12	ANT	pedwar_deg_pump o anrhegion bach i plant rhwng chwech mis oed a pymtheg	SNT	NSNT
+25, 8	121, 1-1	ANT	God	SNT	NSNT
+25, 9	122, 1-4	ANT	a wedyn *um* wnes	NST	NST
+25, 10	123, 1-5	ANT	*so* mae hwnna dydd Llun	NST	NST
+25, 11	124, 1-11	ANT	mae rhaid fi roi yr coeden Dolig i_fyny yn y neuadd	NSNT	NSNT
+25, 12	125, 1-3	ANT	dan ni yn	NSNT	NSNT
+25, 13	126, 1-9	ANT	ddoe gawson ni goriadau yr neuadd ti yn gweld	NSNT	NSNT
+25, 14	128, 1-10	ANT	*so* mae rhaid mynd mewn a rhoi yr furnishings mewn	NST	ST
+25, 15	129, 1-9	ANT	a mae rhaid mi *um* decorate_io ryw bethau felly	NST	ST
+25, 16	130, 1-4	ANT	a mae yn debyg	NSNT	NSNT
+25, 17	130, 5-13	ANT	bod y *system* dŵr poeth ddim yn gweithio yna	NST	NST
+25, 18	131, 1-6	ANT	ond mae yr *toilets* yn fflysio	NST	NST
+25, 19	132, 1-5	ANT	a mae yr gwres ymlaen	NSNT	NSNT
+25, 20	133, 1-5	ANT	*so* mae hwnna yn rywbeth	---	NST
+
+
+26, 1	134, 1-6	AMR	*oh* mae yn lân *nice* yna	---	NST
+
+
+27, 1	135, 1-4	ANT	*oh* mae yn beautiful	---	ST
+
+
+28, 1	136, 1-2	AMR	newydd sbon	---	NSNT
+
+
+29, 1	137, 1-4	ANT	a wedyn dan ni	NSNT	NSNT
+29, 2	138, 1-4	ANT	peth cynta fydd yno	NSNT	NSNT
+29, 3	138, 5-12	ANT	fydd pedwar_deg_pump o plant yn rhedeg yn bonkers	SNT	SNT
+29, 4	139, 1-7	ANT	ond *um* bydd hwnna yn good os	---	ST
+
+
+30, 1	140, 1-5	AMR	sut dach chi gwneud bwyd	NSNT	NSNT
+30, 2	141, 1-5	AMR	oes yna gegin rywbeth yna	NSNT	NSNT
+30, 3	143, 1-8	AMR	oes yna bobl yn mynd â pethau yna	---	NSNT
+
+
+31, 1	144, 1-8	ANT	mae pawb yn mynd â bwyd efo nhw	NSNT	NSNT
+31, 2	145, 1-6	ANT	ond mae yna gegin yna hefyd	NSNT	NSNT
+31, 3	145, 7-7	ANT	wsti	NSNT	NSNT
+31, 4	146, 1-9	ANT	ond dan ni mynd i iwsio *er* platiau papur	NST	NST
+31, 5	147, 1-3	ANT	wsti efo plant	NSNT	NSNT
+31, 6	148, 1-7	ANT	ti *just* gallu lluchio nhw wedyn timod	NST	NST
+31, 7	150, 1-7	ANT	a wedyn *um* hwnna ar dydd Llun	NST	NST
+31, 8	151, 1-8	ANT	dydd Mercher mae canu carolau yn yr eglwys	NSNT	NSNT
+31, 9	152, 1-8	ANT	mae yr dwy eglwys yn *Capel* wedi cau	NST	NST
+31, 10	153, 1-7	ANT	a mae un yn luxury b_and_b nawr	---	SNT
+
+
+32, 1	154, 1-5	AMR	*oh* hwnna oedd ar *telly*	NST	NST
+32, 2	156, 1-5	AMR	be oedd ei henw hi	---	NSNT
+
+
+33, 1	157, 1-3	ANT	*Lady* *Alice* *Dudley*	---	NST
+
+
+34, 1	158, 1-8	AMR	ia ia welais i hwnna ar y *television*	---	NST
+
+
+35, 1	159, 1-11	ANT	a wedyn *um* *er* mae ei gwely hi ar y man	NST	NST
+35, 2	159, 12-19	ANT	lle oedd yr allor lle lle well lle	NSNT	NSNT
+35, 3	159, 20-23	ANT	lle wnes i priodi	NSNT	NSNT
+35, 4	160, 1-6	ANT	tibod *right* lle mae yr altar	ST	ST
+35, 5	160, 7-7	ANT	wsti	NSNT	NSNT
+35, 6	161, 1-14	ANT	a fan yna mae ei gwely hi lle o'n i yn sefyll i briodi	---	NSNT
+
+
+36, 1	162, 1-4	AMR	dw i yn gwybod	NSNT	NSNT
+36, 2	163, 1-2	AMR	welais i	NSNT	NSNT
+36, 3	164, 1-4	AMR	ar be oedd o	NSNT	NSNT
+36, 4	165, 1-8	AMR	ar *um* Heno neu rywbeth oedd o ia	---	NST
+
+
+37, 1	166, 1-2	ANT	dyna chdi	---	NSNT
+
+
+38, 1	167, 1-1	AMR	*wow*	ST	NST
+38, 2	168, 1-5	AMR	ond doedd hi meddwl *um*	NST	NST
+38, 3	168, 6-11	AMR	meddwl gwerthu yr lle neu rywbeth	---	NSNT
+
+
+39, 1	169, 1-3	ANT	*oh* ydy ddi	NST	NST
+39, 2	171, 1-6	ANT	*well* fyswn i yn synnu dim	---	NST
+
+
+40, 1	172, 1-6	AMR	neu naci ella dim isio gwerthu	NSNT	NSNT
+40, 2	173, 1-4	AMR	isio gwneud *project* arall	---	NST
+
+
+41, 1	174, 1-14	ANT	ia mae hi isie prynu *lot* o capeli a wneud nhw fyny ia ia	---	NST
+
+
+42, 1	175, 1-2	AMR	dyna chdi	---	NSNT
+
+
+43, 1	176, 1-6	ANT	ond mae yn *real* hen Saesnes	NST	NST
+43, 2	176, 7-7	ANT	wsti	NSNT	NSNT
+43, 3	177, 1-3	ANT	mae yn hen	NSNT	NSNT
+43, 4	178, 1-2	ANT	rhonc tibod	---	NSNT
+
+
+44, 1	180, 1-6	AMR	be ydy yr connection efo yr	---	SNT
+
+
+45, 1	181, 3-9	ANT	oedd ei thaid hi yn arfer mynydda	NSNT	NSNT
+45, 2	182, 1-7	ANT	does dim actual connection efo yr pentre	NSNT	SNT
+45, 3	183, 1-6	ANT	oedd y mab y plentyn cynta	NSNT	NSNT
+45, 4	184, 1-6	ANT	wnaeth hi colli ei babi cynta	NSNT	NSNT
+45, 5	185, 1-8	ANT	a mae hwnnw wedi claddu yn *er* *Capel_Curig*	NST	NST
+45, 6	185, 9-10	ANT	meddai hi	---	NSNT
+
+
+46, 1	186, 1-8	AMR	ia ond be pwy oedd hi wedi priodi	---	NSNT
+
+
+47, 1	187, 1-11	ANT	*oh* briododd hi yr *boy* *bloody* criminal yna yn_do y *boy*	NST	ST
+47, 2	187, 12-13	ANT	oedd wedi	NSNT	NSNT
+47, 4	189, 1-13	ANT	oedd ei fam a ei dad dim o *Capel_Curig* o'n nhw yn dod	NST	NST
+47, 5	190, 1-10	ANT	ond o'n nhw wedi byw yn *Capel_Curig* am ryw gyfnod	NST	NST
+47, 6	192, 1-2	ANT	bach byr	NSNT	NSNT
+47, 7	193, 1-5	ANT	a wedyn oedd e wedi	NSNT	NSNT
+47, 8	193, 6-14	ANT	oedd e mewn *jail* am saith mlynedd yn_doedd yn	---	NST
+
+
+48, 1	194, 1-4	AMR	be oedd enw fo	---	NSNT
+
+
+49, 1	195, 1-8	ANT	*oh* baswn i ddim yn cofio enw fo	NST	NST
+49, 2	195, 9-9	ANT	sti	NSNT	NSNT
+49, 3	196, 1-2	ANT	*oh* dyn	NST	NST
+49, 4	196, 3-4	ANT	dyn *horrible*	NST	NST
+49, 5	197, 1-4	ANT	ond *um* oedd e	NST	NST
+49, 6	197, 5-16	ANT	wedi bod yn armed robbery yn_doedd yn y rural *post* *offices* yma	NST	ST
+49, 7	199, 1-9	ANT	a wedyn *er* oedd hi wedi cwrdd ag e	NST	NST
+49, 8	199, 10-14	ANT	pan oedd o yn *jail*	NST	NST
+49, 9	200, 1-7	ANT	a wedyn wnaeson nhw syrthio mewn cariad	NSNT	NSNT
+49, 10	200, 8-9	ANT	dyna chdi	NSNT	NSNT
+49, 11	201, 1-9	ANT	ond *er* beth bynnag mae hi yn rhedeg hwnna	ST	NST
+49, 12	202, 1-3	ANT	*very* *very* *posh*	ST	NST
+49, 13	203, 1-6	ANT	ond mae yn *very* demanding tibod	NST	ST
+49, 14	204, 1-10	ANT	dydy hi ddim yn wneud dim gwirfoddoli yn y pentre	NSNT	NSNT
+49, 15	205, 1-13	ANT	mae o yn give give give tibod take take take gyda hi tibod	NSNT	SNT
+49, 16	207, 1-7	ANT	rhoi hwnna ar y blooming tâp yma	NSNT	SNT
+49, 17	208, 1-6	ANT	bydd pawb yn clywed ni yn	NSNT	NSNT
+49, 18	208, 7-7	ANT	cloncian	NSNT	NSNT
+49, 20	210, 1-5	ANT	a wedyn mae yr *um*	---	NST
+
+
+50, 1	211, 1-4	AMR	yn deud edit_io fo	---	SNT
+
+
+51, 1	212, 1-3	ANT	ia dyna chdi	NSNT	NSNT
+51, 2	213, 1-18	ANT	a wedyn mae yr *er* eglwys arall yn mynd nôl i yr *oh* Arglwydd fourteenth century neu rywbeth	NST	ST
+51, 3	214, 1-12	ANT	ond dyw hi ddim wedi cael ei defnyddio fel eglwys ers achau	NSNT	NSNT
+51, 4	215, 1-5	ANT	does dim *electric* na dim_byd	NST	NST
+51, 5	216, 1-5	ANT	*oh* mae yn hen *fashion*	NST	NST
+51, 6	216, 6-12	ANT	a mae yn fach a yn lovely	SNT	SNT
+51, 7	218, 1-13	ANT	wedyn dan ni yn cael gwasanaeth carolau a pawb mynd a canhwyllau tibod	---	NSNT
+
+
+52, 1	220, 1-1	AMR	*aww*	---	NST
+
+
+53, 1	221, 1-3	ANT	timod eitha *nice*	NST	NST
+53, 2	222, 1-10	ANT	a dan ni wneud *er* glühwein yn y cornel *so*	NST	ST
+53, 4	224, 1-5	ANT	mae digon o *alcohol* yna	NST	NST
+53, 5	225, 1-9	ANT	a wedyn be arall ydan ni yn wneud dŵad	SNT	NSNT
+53, 6	226, 1-5	ANT	God dw i yn meddwl	NSNT	SNT
+53, 7	227, 1-10	ANT	dan ni yn choc_a_bloc hyd at weekend y Dolig anyway	SNT	SNT
+53, 8	228, 1-14	ANT	a wedyn dan ni newydd siarad â mrawd meddwl mynd ato fo dydd Sadwrn	NSNT	NSNT
+53, 9	230, 1-5	ANT	ond mae ei wraig o	NSNT	NSNT
+53, 10	231, 1-6	ANT	tibod mae yn *plastic* *surgeon* a	---	NST
+
+
+54, 1	232, 1-1	AMR	pwy	---	NSNT
+
+
+55, 1	233, 1-2	ANT	gwraig *Chris*	NST	NST
+55, 2	235, 3-9	ANT	ydy ond dim *er* dim cosmetic *surgery*	---	ST
+
+
+56, 1	238, 1-8	AMR	dw isio lips a tuck yn fan acw	---	SNT
+
+
+57, 1	240, 1-6	ANT	*oh* you *can* join the *queue*	ST	NST
+57, 3	242, 1-6	ANT	fi fi yw yr *number* one	---	ST
+
+
+58, 1	244, 1-6	AMR	faint o *discount* ti yn gael	---	NST
+
+
+59, 1	245, 1-5	ANT	major and massive liposuction *yeah*	ST	NST
+59, 2	246, 1-1	ANT	*ugh*	ST	NST
+59, 4	248, 1-10	ANT	ond mae hi wedi gweld un o yr *operations* yna	NST	NST
+59, 5	249, 1-3	ANT	a dywedodd hi	SNT	NSNT
+59, 6	250, 1-5	ANT	if you saw it *Antonia*	NST	NST
+59, 7	250, 6-13	ANT	you'd never want to let anybody near you	---	NSNT
+
+
+60, 1	251, 1-8	AMR	*so* *plastic* *surgeon* fath â damweiniau a pethau	NST	NST
+60, 2	253, 1-4	AMR	fath â skin grafts	---	SNT
+
+
+61, 1	255, 1-8	ANT	ond mae hi yn mynd allan i *um*	NST	NST
+61, 2	255, 9-21	ANT	mae *gang* ohonyn nhw yn mynd allan i *Pakistan* tibod efo yr pobl	NST	NST
+61, 3	255, 22-24	ANT	sy wedi diodde	NSNT	NSNT
+61, 4	257, 1-16	ANT	mae *lot* o ffarmwrs a plant yn colli breichiau neu coesau ar_ôl y *gangrene* a pethau	NST	NST
+61, 5	258, 1-9	ANT	ond wrth_gwrs mae nhw yn ffarmio mewn llefydd serth	NSNT	NSNT
+61, 6	259, 1-6	ANT	ond mae yn amhosib iddyn nhw	NSNT	NSNT
+61, 7	259, 7-13	ANT	os ydyn nhw yn anabl i wneud	NSNT	NSNT
+61, 9	264, 1-7	ANT	*so* mae yn mynd allan am wsnos	NST	NST
+61, 10	265, 1-6	ANT	mae yn dod nôl Christmas *Eve*	ST	ST
+61, 11	266, 1-11	ANT	*so* mae mrawd i gorffod wneud gyd o yr siopa Dolig	NST	NST
+61, 12	267, 1-11	ANT	a wedyn mae fe mynd ar y dydd ar y twenty_eighth	SNT	SNT
+61, 13	268, 1-12	ANT	mae fe *off* i yr South Atlantic i weithio am am fis	NST	ST
+61, 14	269, 1-4	ANT	mae fo yn nuts	SNT	SNT
+61, 15	269, 5-5	ANT	wsti	SNT	NSNT
+61, 16	270, 1-1	ANT	nuts	SNT	NSNT
+61, 17	271, 1-11	ANT	dau tri diwrnod fydd gynno nhw efo ei_gilydd tros y Dolig	---	NSNT
+
+
+62, 1	274, 1-6	AMR	*oh* lle mae hi yn *er*	NST	NST
+62, 2	274, 7-12	AMR	lle mae hi yn based felly	---	SNT
+
+
+63, 1	275, 1-2	ANT	yn Lerpwl	NSNT	NSNT
+63, 2	276, 1-5	ANT	mewn ysbyty yn Lerpwl ia	NSNT	NSNT
+63, 3	278, 1-11	ANT	dw i ddim yn *sure* pa un ond ysbyty plant *er*	NST	NST
+63, 4	280, 1-8	ANT	mae yn wneud *lot* o plant o Cymru	NST	NST
+63, 5	283, 1-8	ANT	ond ia mae yn ufflon o *job* really	---	ST
+
+
+64, 1	284, 1-1	AMR	Iesu	NSNT	NSNT
+64, 2	286, 1-8	AMR	faswn i ddim yn gwybod lle i ddechrau	---	NSNT
+
+
+65, 1	288, 1-7	ANT	*ah* ond mae ei phlant bach hi	NST	NST
+65, 2	288, 8-8	ANT	wsti	NSNT	NSNT
+65, 3	288, 9-12	ANT	mae rheiny yn *um*	NST	NST
+65, 4	288, 13-24	ANT	mae nhw yn cymryd pethau tibod meddygol with a pinch of salt	SNT	SNT
+65, 5	288, 25-26	ANT	wsti tibod	NSNT	NSNT
+65, 6	289, 1-4	ANT	oedd y brawd mewn	NSNT	NSNT
+65, 7	290, 1-8	ANT	oedd e wedi cael ei gall stones allan	NSNT	SNT
+65, 8	291, 1-10	ANT	wedyn oedd e eisiau tipyn bach o tibod mwythau yn_doedd	---	NSNT
+
+
+66, 1	292, 1-3	AMR	*well* oedd *sure*	---	NST
+
+
+67, 1	293, 1-6	ANT	a yr hogan fach pedwar oed	SNT	NSNT
+67, 2	294, 1-6	ANT	*oh* there's nothing *wrong* with you	NST	NST
+67, 3	295, 1-3	ANT	pull yourself together	SNT	NSNT
+67, 4	296, 1-4	ANT	meddai hi wrtha fo	NSNT	NSNT
+67, 5	297, 1-8	ANT	a fo dim ond newydd gael yr *operation*	ST	NST
+67, 6	298, 1-4	ANT	*oh* there's no blood	ST	NST
+67, 7	299, 1-2	ANT	meddai hi	---	NSNT
+
+
+68, 1	300, 1-4	AMR	*oh* dw i *sure*	NST	NST
+68, 2	301, 1-8	AMR	dipyn bach ohona chdi yn fan yna does	---	NSNT
+
+
+69, 1	303, 1-3	ANT	*oh* mae yn	---	NST
+
+
+70, 1	304, 1-5	AMR	ffwrdd â hi a *just*	---	NST
+
+
+71, 1	305, 1-5	ANT	*oh* mae hi yn *well*	NST	NST
+71, 2	305, 6-13	ANT	mae hi fel ei nain ochr arall hefyd	---	NSNT
+
+
+72, 1	306, 1-5	AMR	say it *as* it is	---	NST
+
+
+73, 1	307, 1-1	ANT	mae	NSNT	NSNT
+73, 2	307, 2-9	ANT	ei nhain ochr arall yn no *nonsense* tweld	NST	ST
+73, 3	309, 1-3	ANT	*so* *um* ie	ST	NST
+73, 4	310, 1-3	ANT	pull yourself together	NSNT	NSNT
+73, 5	311, 1-3	ANT	there's no blood	SNT	NSNT
+73, 6	312, 1-5	ANT	a pedair oed yw hi	NSNT	NSNT
+73, 7	313, 1-2	ANT	ond *um*	NST	NST
+73, 8	314, 1-1	ANT	bechod	NSNT	NSNT
+73, 9	315, 1-2	ANT	ia wir	NSNT	NSNT
+73, 10	316, 1-12	ANT	*so* falle fydda i yn gweld nhw dros Dolig am gyfnod bach	NST	NST
+73, 11	317, 1-11	ANT	a wedyn mae *Meg* a *Phillip* yn dod am cinio Dolig	NST	NST
+73, 12	318, 1-10	ANT	a mae *Sandra* a *Greg* yn dod am te Dolig	---	NST
+
+
+74, 1	319, 1-2	AMR	*oh* *nice*	---	NST
+
+
+75, 1	320, 1-5	ANT	*so* fyddan ni yn iawn	NST	NST
+75, 2	321, 1-8	ANT	a ga i lie in yn y bore	NSNT	SNT
+75, 3	322, 1-3	ANT	wsti neb o_gwmpas	SNT	NSNT
+75, 4	324, 1-1	ANT	gorgeous	SNT	NSNT
+75, 5	325, 1-5	ANT	a dw i yn gobeithio	NSNT	NSNT
+75, 6	325, 6-8	ANT	gawn ni eira	---	NSNT
+
+
+76, 1	326, 1-4	AMR	gawson ni flwyddyn dwytha	NSNT	NSNT
+76, 2	327, 1-7	AMR	*well* gaethon ni yn *Groeslon* flwyddyn dwytha	---	NST
+
+
+77, 1	329, 1-4	ANT	mae nhw yn gweud	NSNT	NSNT
+77, 2	329, 5-11	ANT	bod e fod rhy gynnes leni ond	---	NSNT
+
+
+78, 1	330, 1-7	AMR	yndy ond tibod oeddan nhw yn deud	NSNT	NSNT
+78, 2	330, 8-15	AMR	bod ni yn gael o dros weekend yma	---	SNT
+
+
+79, 1	331, 1-6	ANT	ie ie oer uffernol y weekend	SNT	SNT
+79, 2	332, 1-12	ANT	yn rhy oer i eira faswn i yn meddwl y weekend yma	---	SNT
+
+
+80, 1	334, 1-8	AMR	ond mae nhw yn deud mai coel gwrach	NSNT	NSNT
+80, 2	334, 9-10	AMR	ydy hwnna	NSNT	NSNT
+80, 3	336, 1-11	AMR	mae yna *um* *studies* wedi mynd i_mewn iddo fo yn deud	NST	NST
+80, 4	336, 12-25	AMR	fedrith hi byth fod rhy oer i eira rhy gynnes rhy oer i eira	NSNT	NSNT
+80, 5	338, 1-6	AMR	na *just* coel gwrach ydy o	---	NST
+
+
+81, 1	341, 1-1	ANT	Duw	SNT	NSNT
+81, 2	342, 1-1	ANT	*phew*	ST	NST
+81, 3	343, 1-17	ANT	achos o'n i yn meddwl fod rhaid iddo fe fod o_gwmpas yr nought degrees neu rywbeth felly	---	SNT
+
+
+82, 1	346, 1-3	AMR	dw ddim gwybod	---	NSNT
+
+
+83, 1	347, 1-4	ANT	ond Duw a ŵyr	NSNT	NSNT
+83, 2	348, 1-10	ANT	wir am bob man arall beth bynnag yw yr tymheredd	---	NSNT
+
+
+84, 1	349, 1-8	AMR	ac oedd hi yn ddiwrnod diog diwrnod Dolig	SNT	NSNT
+84, 2	351, 1-1	AMR	*turkey*	ST	NST
+84, 3	352, 1-5	AMR	dim wedi brynu fo eto	---	NSNT
+
+
+85, 1	355, 1-10	ANT	dw i ddim wedi wneud dim siopa am fwyd o_gwbl	NSNT	NSNT
+85, 2	356, 1-1	ANT	dim_byd	---	NSNT
+
+
+86, 1	357, 1-4	AMR	*oh* na wna i	NST	NST
+86, 2	357, 5-9	AMR	wnawn ni nos Iau nesa	NSNT	NSNT
+86, 3	359, 1-9	AMR	dydan ni ddim yn gorod siopio eto weekend yma	NSNT	SNT
+86, 4	360, 1-5	AMR	dan ni wedi wneud siopio	NSNT	NSNT
+86, 5	361, 1-5	AMR	dan ni wneud nos Iau	NSNT	NSNT
+86, 6	362, 1-8	AMR	*just* mynd i wneud fach o neges a	NST	NST
+86, 7	364, 1-5	AMR	dim gormod ohono fo tibod	---	NSNT
+
+
+87, 1	365, 1-2	ANT	dyna chdi	NSNT	NSNT
+87, 4	368, 1-10	ANT	*oh* llynedd wnes i prynu cacen Dolig rywle a wedyn	NST	NST
+87, 5	368, 11-18	ANT	ges i dair tair cacen Dolig yn *bresent*	---	NST
+
+
+88, 1	370, 1-4	AMR	*er* wnaeth y *boy*	NST	NST
+88, 2	371, 2-8	AMR	fydd raid ni brynu *mince* *pies* because	ST	ST
+88, 3	371, 9-16	AMR	am bod *Trish* yn dod Boxing Day felly	NST	ST
+88, 4	373, 1-4	AMR	ond *um* fel arall	---	NST
+
+
+89, 1	375, 1-13	ANT	*oh* un peth sy yn mynd *er* wneud y *rounds* yn *Capel_Curig* leni	NST	NST
+89, 2	375, 14-16	ANT	yw sloe *gin*	ST	ST
+89, 3	377, 1-19	ANT	a mae *Amanda* wedi wneud nhw i gystadlu yn rhyw *bloody* sioe yn sioe *Bethesda* a hefyd yn y	NST	NST
+89, 4	379, 1-9	ANT	Duw fuon nhw yn y sioe *Bethesda* rywle arall	ST	NST
+89, 5	380, 1-5	ANT	anyway wnaeson nhw ennill blooming	SNT	SNT
+89, 6	381, 1-15	ANT	*oh* ia oedd *Hayley* yn roi e mewn efo *Merched_y_Wawr* yn y sioe yn *Llanelwedd*	NST	NST
+89, 7	383, 1-9	ANT	a anyway mae nhw wedi ennill gwobrwyau efo fo	---	SNT
+
+
+90, 1	385, 1-3	AMR	dw i licio	NSNT	NSNT
+90, 3	387, 1-13	AMR	ychydig o flynyddoedd yn_ôl mi oedd drws nesa pobl yn wneud sloe *gin*	---	ST
+
+
+91, 1	388, 1-6	ANT	*yeah* a blackcurrants ynddo fo wsti	ST	ST
+91, 2	390, 1-2	ANT	*oh* beautiful	ST	NST
+91, 3	391, 1-4	ANT	a gaethon ni cinio	NSNT	NSNT
+91, 4	392, 1-2	ANT	wnaeson ni	NSNT	NSNT
+91, 5	393, 1-9	ANT	mae *cafe* bach yn *Capel_Curig* o yr enw *Bryn_Glo*	NST	NST
+91, 6	394, 1-6	ANT	a wedyn *just* *cafe* yw e	NST	NST
+91, 7	396, 1-17	ANT	a *oh* mae hi wedi cychwyn agor wan ar nos Wener a nos Sadwrn i wneud prydiau	NST	NST
+91, 8	398, 1-13	ANT	*so* aeth pawb o dros *Pont_Cyfyng* drosodd am pryd o fwyd efo ein_gilydd	NST	NST
+91, 9	399, 1-3	ANT	pymtheg ohonon ni	NSNT	NSNT
+91, 10	401, 1-6	ANT	pymtheg mae hi allu ffitio mewn	NSNT	NSNT
+91, 11	402, 1-7	ANT	*so* dan ni yn wneud dau sitting	ST	ST
+91, 12	403, 1-7	ANT	un cyn Dolig a un ar_ôl Dolig	NSNT	NSNT
+91, 13	405, 1-3	ANT	timod rhannu allan	NSNT	NSNT
+91, 14	406, 1-8	ANT	ond *um* oedd *Amanda* a *Bob* ffaelu dod	NST	NST
+91, 15	407, 1-15	ANT	*so* oedd *Amanda* wedi gyrru *bottle* fawr o sloe *gin* lawr yn *bresent* i ni	NST	ST
+91, 16	409, 1-5	ANT	*oh* oedd e yn gorgeous	---	ST
+
+
+92, 1	410, 1-4	AMR	mae o yn *nice*	NST	NST
+92, 2	411, 1-7	AMR	oedd un drws nesa efo *er* cyraints	NST	NST
+92, 3	411, 8-10	AMR	duon ynddo fo	---	NSNT
+
+
+93, 1	413, 1-5	ANT	a dydy o ddim yn	NSNT	NSNT
+93, 2	414, 1-4	ANT	a mae *er* cyraints	NST	NST
+93, 3	414, 5-10	ANT	duon dim yn blasu yn alcoholic	---	SNT
+
+
+94, 1	415, 1-2	AMR	nac ydy	NSNT	NSNT
+94, 2	415, 3-4	AMR	mae yn	---	NSNT
+
+
+95, 1	416, 1-5	ANT	ond mae yn mynd lawr	---	NSNT
+
+
+96, 1	417, 1-3	AMR	mae yn gynnes	---	NSNT
+
+
+97, 1	419, 1-5	ANT	mynd lawr yn hawdd iawn	---	NSNT
+
+
+98, 1	420, 1-7	AMR	paid ti codi blys arna fi wan	---	NSNT
+
+
+99, 1	421, 1-3	ANT	*oh* ie *quite*	NST	NST
+99, 2	422, 1-5	ANT	ond *um* na dyna ni	NST	NST
+99, 3	423, 1-10	ANT	ond heblaw am hynny dw i yn mynd i wneud	NSNT	NSNT
+99, 4	424, 1-12	ANT	dw i ddim eisiau trafaelu tibod mynd yn y *car* bob dydd	NST	NST
+99, 5	425, 1-6	ANT	dw i *just* isio aros adref	---	NST
+
+
+100, 1	426, 1-2	AMR	*oh* taw	NST	NST
+100, 2	427, 1-7	AMR	dw i wedi dreifio yma bore yma	NSNT	NSNT
+100, 3	428, 1-4	AMR	isio dreifio heno eto	---	NSNT
+
+
+101, 1	430, 1-3	ANT	*oh* wyt ti	NST	NST
+101, 2	431, 1-5	ANT	pryd mae dy brawf di	---	NSNT
+
+
+102, 1	432, 1-5	AMR	*oh* blwyddyn nesa ryw dro	NST	NST
+102, 2	434, 1-2	AMR	barod eto	---	NSNT
+
+
+103, 1	435, 1-7	ANT	ti yr un fath â *Meg* wsti	NST	NST
+103, 2	436, 1-2	ANT	mae *Meg*	NST	NST
+103, 3	436, 3-7	ANT	wedi bod yn trio trio	---	NSNT
+
+
+104, 1	437, 1-4	AMR	dw i well tibod	NSNT	NSNT
+104, 2	437, 5-6	AMR	dw fwy	NSNT	NSNT
+104, 3	437, 7-13	AMR	dw i fwy *positive* amdano fo wan	NST	NST
+104, 4	438, 1-5	AMR	dw i yn fwy *positive*	NST	NST
+104, 5	439, 1-9	AMR	oedd raid fi ddechrau ysgwyd fy hun allan ohoni	NSNT	NSNT
+104, 6	441, 1-6	AMR	achos o'n i mor *negative* de	NST	NST
+104, 7	443, 1-6	AMR	ond *um* *oh* dw i dal	---	NST
+
+
+105, 1	444, 1-5	ANT	ti ddim yn licio dreifio	---	NSNT
+
+
+106, 1	445, 1-2	AMR	licio fo	NSNT	NSNT
+106, 3	447, 1-7	AMR	poeni amdano fo gorod dreifio adre heno	NSNT	NSNT
+106, 4	448, 1-12	AMR	ond unwaith dw i yn mynd tu nôl i yr olwyn yna	NSNT	NSNT
+106, 5	448, 13-13	AMR	sti	NSNT	NSNT
+106, 6	448, 14-16	AMR	dw i yn	NSNT	NSNT
+106, 7	448, 17-21	AMR	dw i gwneud yn iawn	NSNT	NSNT
+106, 8	449, 1-6	AMR	unwaith dw i wedi cychwyn a	---	NSNT
+
+
+107, 1	450, 1-5	ANT	ia ia *just* panic_io o_flaen	---	ST
+
+
+108, 1	451, 1-4	AMR	a gwneud yn tywyllwch	SNT	NSNT
+108, 2	453, 1-1	AMR	amazing	SNT	NSNT
+108, 3	454, 1-11	AMR	a mae hi yn dywyll pan ti yn dod yn bore	---	NSNT
+
+
+109, 1	456, 1-7	ANT	a ti sy yn dreifio bob bore	---	NSNT
+
+
+110, 1	457, 1-9	AMR	*yeah* *yeah* *well* os na ydy *Gus* fath â	NST	NST
+110, 2	458, 1-3	AMR	oedd fo ddoe	SNT	NSNT
+110, 3	459, 1-8	AMR	because oedd o yn gweithio yn hwyr neithiwr	NSNT	SNT
+110, 4	461, 1-4	AMR	*so* *car* fo ddoe	NST	NST
+110, 5	463, 1-3	AMR	wedyn mae isio	NSNT	NSNT
+110, 6	463, 4-8	AMR	roid *run* i *car* fi	NST	NST
+110, 7	464, 1-8	AMR	gorfododd fo gael alternator newydd dechrau yr wythnos	SNT	SNT
+110, 8	466, 1-4	AMR	hundred and twenty_three *pound*	---	NST
+
+
+111, 1	468, 1-5	ANT	*oh* *just* cyn Dolig hefyd	ST	NST
+111, 2	469, 1-3	ANT	*oh* flipping heck	---	NST
+
+
+112, 1	471, 1-7	AMR	mae o costio *just* iawn i chwarter	NST	NST
+112, 2	471, 8-12	AMR	be dalais i amdano fo	---	NSNT
+
+
+113, 1	472, 1-12	ANT	ond mae *Meg* un *Meg* yn eistedd tu allan i tŷ fi	NST	NST
+113, 2	473, 1-6	ANT	a mae ryw sunroof arno fo	NSNT	SNT
+113, 3	474, 1-5	ANT	a mae hwnnw yn gollwng	NSNT	NSNT
+113, 4	474, 6-6	ANT	wsti	NSNT	NSNT
+113, 5	476, 1-4	ANT	*so* mae yna dŵr	NST	NST
+113, 6	477, 1-16	ANT	*so* mae nhw eisiau rhoi be ti yn galw nhw yr seals newydd yna arno fo	NST	ST
+113, 7	479, 1-7	ANT	*problem* gaeth *broblem* arall gollwng na ddim_byd	NST	NST
+113, 8	479, 8-9	ANT	ond oedd	---	NSNT
+
+
+114, 1	480, 1-2	AMR	bai fi	NSNT	NSNT
+114, 2	481, 1-3	AMR	oedd y *car*	NST	NST
+114, 3	481, 4-11	AMR	wedi bod yn sefyll tu allan ers dipyn	NSNT	NSNT
+114, 4	483, 1-6	AMR	a mae diesels isio *run* dydyn	ST	ST
+114, 5	485, 1-1	AMR	*so*	ST	NST
+114, 6	487, 1-6	AMR	anyway mae mynd yn iawn wan	---	SNT
+
+
+115, 1	488, 1-4	ANT	ie *oh* dyna chdi	NST	NST
+115, 3	490, 1-10	ANT	*oh* dw i yn *right* hapus efo yr *car* yna	NST	NST
+115, 4	490, 11-14	ANT	wnes i brynu tibod	NSNT	NSNT
+115, 5	492, 1-4	ANT	chwe chant oedd hi	NSNT	NSNT
+115, 6	494, 1-7	ANT	Arglwydd mae yn mynd fel *tractor* bach	NST	NST
+115, 7	495, 1-3	ANT	mae yn *great*	NST	NST
+115, 8	495, 4-4	ANT	wsti	NSNT	NSNT
+115, 9	497, 1-4	ANT	a yna yn meddwl	NSNT	NSNT
+115, 10	498, 1-6	ANT	oeddwn o'n i yn panic_io meddwl	NSNT	SNT
+115, 11	498, 7-14	ANT	basai raid gwario pres mawr ar *car* newydd	NST	NST
+115, 12	500, 1-3	ANT	ond dw i	NSNT	NSNT
+115, 13	500, 4-10	ANT	wedi bod yn lwcus iawn *touch* wood	ST	ST
+115, 14	500, 11-11	ANT	te	---	NSNT
+
+
+116, 1	501, 1-2	AMR	chdi newydd	NSNT	NSNT
+116, 2	502, 1-9	AMR	*oh* fel fel y gwela i di felly ia	---	NST
+
+
+117, 1	505, 1-10	ANT	a ti yn gwybod beth yw *car* *Meg* yn_dwyt ti	---	NST
+
+
+118, 1	506, 1-1	AMR	be	---	NSNT
+
+
+119, 1	507, 1-12	ANT	*car* *um* beth oedd enw ar y hogyn yna o *er* Sbaen	---	NST
+
+
+120, 1	510, 1-1	AMR	*Kesare*	---	NST
+
+
+121, 1	511, 1-1	ANT	*Kesare*	---	NST
+
+
+122, 1	512, 1-5	AMR	*oh* *car* *Kesare* ydy o	---	NST
+
+
+123, 1	513, 1-3	ANT	ia ia dyna	NSNT	NSNT
+123, 2	513, 4-7	ANT	be sy gynno hi	---	NSNT
+
+
+124, 1	514, 1-2	AMR	*Corsa* *Peugeot*	---	NST
+
+
+125, 1	515, 1-7	ANT	achos wnes i weld e pwy ddiwrnod	NSNT	NSNT
+125, 2	516, 1-3	ANT	a ddywedais i	SNT	NSNT
+125, 3	517, 1-7	ANT	you'll never guess who bought your *car*	NST	NST
+125, 4	518, 1-4	ANT	*ah* who was it	NST	NST
+125, 5	519, 1-2	ANT	my daughter	NSNT	NSNT
+125, 6	520, 1-5	ANT	*oh* *oh* my lovely *car*	ST	NST
+125, 7	521, 1-6	ANT	mae o yn dwll o *gar*	NST	NST
+125, 8	521, 7-7	ANT	wsti	---	NSNT
+
+
+126, 1	522, 1-6	AMR	be ydy o yn dal o_gwmpas	---	NSNT
+
+
+127, 1	523, 1-7	ANT	oedd e yma am *gouple* o ddiwrnodau	NST	NST
+127, 2	524, 1-2	ANT	ond mae	NSNT	NSNT
+127, 3	524, 3-9	ANT	oedd e yn mynd i Brwsel wedyn	NSNT	NSNT
+127, 4	525, 1-8	ANT	mae yn mynd i wneud rhywbeth yn Brwsel	NSNT	NSNT
+127, 5	526, 1-7	ANT	*er* wedyn mae fe yn hogyn del	NST	NST
+127, 6	528, 1-2	ANT	a wedyn	---	NSNT
+
+
+128, 1	529, 1-3	AMR	hogyn *nice* ofnadwy	---	NST
+
+
+129, 1	531, 1-4	ANT	a hawdd i wneud	NSNT	NSNT
+129, 2	532, 1-6	ANT	wnaeth e wneud cyfieithu i ni	NSNT	NSNT
+129, 3	532, 7-14	ANT	pan oedd y ddynes yna draw o *Cuba*	NST	NST
+129, 4	534, 1-8	ANT	Duw oedd e yn hawdd wneud efo fo	NSNT	NSNT
+129, 5	534, 9-11	ANT	wsti chwarae teg	NSNT	NSNT
+129, 6	537, 1-4	ANT	ond *um* na mae	NST	NST
+129, 7	538, 1-4	ANT	dw i yn amau	NSNT	NSNT
+129, 8	538, 5-8	ANT	bod e yn gweud	NSNT	NSNT
+129, 9	538, 9-19	ANT	bod e yn mynd i Brwsel i wneud ryw gwrs wan	NSNT	NSNT
+129, 10	541, 1-6	ANT	a dw i ddim yn credu	NSNT	NSNT
+129, 11	541, 7-12	ANT	bod e eisiau mynd adre anyway	SNT	SNT
+129, 12	543, 1-8	ANT	o be o'n i yn allu gweld timod	NSNT	NSNT
+129, 13	546, 1-6	ANT	licio mynd ar ei bethau yndy	NSNT	NSNT
+129, 14	547, 1-17	ANT	oedd e yn treial blag_io *Stephen* i gadael i fo mynd i *Guba* a *Stephen* yn gweud	NST	ST
+129, 15	548, 1-4	ANT	*well* mae mynd i	NST	NST
+129, 16	548, 5-6	ANT	gosti pres	---	NSNT
+
+
+130, 1	549, 1-7	AMR	ia cheith o ddim mynd am ddim	---	NSNT
+
+
+131, 1	551, 1-5	ANT	ond mae gynno fo llong	NSNT	NSNT
+131, 2	552, 1-6	ANT	mae dau_ddeg_pump ohonyn nhw yn mynd	NSNT	NSNT
+131, 3	552, 7-12	ANT	dw i yn credu i *Cuba*	---	NST
+
+
+132, 1	555, 1-2	AMR	da de	---	NSNT
+
+
+133, 1	556, 1-3	ANT	dau_ddeg_pump ohonyn nhw	---	NSNT
+
+
+134, 1	557, 1-8	AMR	licio bod yn bry bach ar y wal	---	NSNT
+
+
+135, 1	558, 1-1	ANT	*eh*	---	NST
+
+
+136, 1	559, 1-3	AMR	faswn i licio	NSNT	NSNT
+136, 2	559, 4-10	AMR	bod yn bry bach ar y wal	---	NSNT
+
+
+137, 1	560, 1-3	ANT	alla i dychmygu	NSNT	NSNT
+137, 2	561, 1-8	ANT	fydda i fan hyn yn y *bloody* glaw	NST	NST
+137, 3	561, 9-13	ANT	pan fydd e yn *Cuba*	NST	NST
+137, 4	563, 1-15	ANT	yn *er* wedyn dw i yn mynd a *crew* bach i *Nicaragua* gwyliau Medi two_thousand_and_seven	ST	ST
+137, 6	565, 1-11	ANT	ond dydy *Nicaragua* ddim yn denu yr un fath o bobl	NST	NST
+137, 7	566, 1-3	ANT	mae yna *well*	NST	NST
+137, 8	566, 4-9	ANT	mae yna stori fawr o_gwmpas *Cuba*	NST	NST
+137, 9	566, 10-10	ANT	does	NSNT	NSNT
+137, 10	568, 1-10	ANT	wedyn dim *er* mae hwnna yn denu *lot* o bobl	NST	NST
+137, 11	569, 1-6	ANT	ond *um* *er* dim felly *Nicaragua*	NST	NST
+137, 12	570, 1-4	ANT	*so* gawn ni weld	ST	NST
+137, 13	571, 1-4	ANT	anyway dw i gobeithio	NSNT	SNT
+137, 14	571, 5-5	ANT	fydda	NSNT	NSNT
+137, 15	572, 1-5	ANT	mae rhai o yr *crew*	NST	NST
+137, 16	572, 6-13	ANT	dw i yn dysgu yn *Llandudno* isio mynd	NST	NST
+137, 17	573, 1-12	ANT	a mae rhai o yr olradd fan hyn isio mynd efo ni	NSNT	NSNT
+137, 18	574, 1-6	ANT	*so* fydd hwnna yn eitha da	NST	NST
+137, 19	574, 7-7	ANT	sti	---	NSNT
+
+
+138, 1	575, 1-1	AMR	bydd	---	NSNT
+
+
+139, 1	578, 1-3	ANT	a dw i	NSNT	NSNT
+139, 2	578, 4-5	ANT	dw i	NSNT	NSNT
+139, 3	578, 6-9	ANT	dw i yn dim	NSNT	NSNT
+139, 4	578, 10-13	ANT	bod fi yn ddiog	NSNT	NSNT
+139, 5	578, 14-18	ANT	ond dw i yn gofidio	NSNT	NSNT
+139, 6	578, 19-29	ANT	wsti amboutu gwario pres a mynd a ryw bethau felly a	NSNT	NSNT
+139, 7	579, 1-15	ANT	fasai hi ddim yn haws i mi *just* gyrru yr pres i *Nicaragua* yn hytrach	NST	NST
+139, 8	579, 16-29	ANT	na bod nhw yn gorffod cope_io efo fi draw yna a ryw bethau felly	NSNT	SNT
+139, 9	580, 1-5	ANT	ond mae *Billy* yn gweud	NST	NST
+139, 10	580, 6-12	ANT	na bod rhaid fi mynd a wedyn	NSNT	NSNT
+139, 11	580, 13-16	ANT	mae fe yn iawn	NSNT	NSNT
+139, 13	582, 1-3	ANT	mi a i	NSNT	NSNT
+139, 14	583, 1-6	ANT	wneith byd o les i mi	---	NSNT
+
+
+140, 1	584, 1-2	AMR	gwneith mi	NSNT	NSNT
+140, 2	584, 3-4	AMR	wneith o	---	NSNT
+
+
+141, 1	585, 1-2	ANT	Duw wneith	NSNT	NSNT
+141, 2	585, 3-3	ANT	gwneith	NSNT	NSNT
+141, 3	586, 1-1	ANT	bydd	NSNT	NSNT
+141, 4	586, 2-7	ANT	*so* fydd hwnna yn *nice* dwy_fil_a_saith	NST	NST
+141, 5	587, 1-13	ANT	a mae *Chris* a *Sue* yn y mrawd a ei wraig yn meddwl	NST	NST
+141, 6	587, 14-18	ANT	bod nhw mynd i cael	NSNT	NSNT
+141, 7	588, 1-16	ANT	mae hi yn gorffod wneud blwyddyn i_ffwrdd wan yn ryw ysbyty rywle arall yn y byd	NSNT	NSNT
+141, 8	590, 1-12	ANT	a mae nhw wedi cael cynnig swydd yn *um* *Perth* yn *Australia*	NST	NST
+141, 9	592, 1-4	ANT	cychwyn Ebrill y cynta	NSNT	NSNT
+141, 10	593, 1-7	ANT	*so* os dyn nhw yn cael hwnna	NST	NST
+141, 11	593, 8-13	ANT	dw i wedi deud wrtha *Chris*	NST	NST
+141, 12	594, 1-11	ANT	dw i yn dod allan yn mis Awst and that's it	SNT	SNT
+141, 13	596, 1-8	ANT	a dw i yn mynd am pedair wsnos	NSNT	NSNT
+141, 14	597, 1-14	ANT	os dw i mynd allan yna sa i yn mynd i rhuthro o_gwmpas tibod	NSNT	NSNT
+141, 15	599, 1-1	ANT	wsnos	---	NSNT
+
+
+142, 1	600, 1-5	AMR	*oh* cymra mwy na mis	NST	NST
+142, 2	601, 1-3	AMR	cymra chwech wsnos	---	NSNT
+
+
+143, 1	602, 1-5	ANT	*oh* *yeah* why not *yeah*	---	NST
+
+
+144, 1	603, 1-4	AMR	cymra yr ha i_gyd	---	NSNT
+
+
+145, 1	604, 1-6	ANT	ie fasai hwnna yn *great* yn_fysai	---	NST
+
+
+146, 1	605, 1-5	AMR	pa mor *sad* wyt ti	---	NST
+
+
+147, 1	606, 1-1	ANT	*well*	---	NST
+
+
+148, 1	607, 1-6	AMR	does yna ddim dysgu na ddim_byd	NSNT	NSNT
+148, 2	607, 7-8	AMR	nag oes	---	NSNT
+
+
+149, 1	608, 1-2	ANT	nag oes	NSNT	NSNT
+149, 2	608, 3-6	ANT	mae hynny yn wir	NSNT	NSNT
+149, 3	609, 1-9	ANT	alla i wneud y ngwaith efo fi fan yna	NSNT	NSNT
+149, 4	610, 1-7	ANT	alla i wneud e ar yr internet	---	SNT
+
+
+150, 1	612, 1-7	AMR	ti ddim mynd i wneud dy waith	SNT	NSNT
+150, 3	614, 1-1	AMR	*holidays*	---	NST
+
+
+151, 1	615, 1-4	ANT	fel mae yn digwydd	NSNT	NSNT
+151, 2	615, 5-5	ANT	mae	NSNT	NSNT
+151, 3	615, 6-12	ANT	gynna i cysylltiad yn *Perth* efo datblygiad	NST	NST
+151, 4	615, 13-13	ANT	cymuned	NSNT	NSNT
+151, 5	616, 1-12	ANT	a oedd gynni hi diddordeb mewn tibod wneud cysylltiad efo cyrsiau ni	SNT	NSNT
+151, 6	618, 1-9	ANT	really a rhoi nhw rhannu nhw ar yr internet	SNT	SNT
+151, 7	620, 2-16	ANT	*so* allwn i mynd i weld hi a wneud tipyn bach o waith yna anyway	ST	ST
+151, 8	621, 1-8	ANT	ond *um* dw i wedi deud wrtha *Chris*	NST	NST
+151, 9	622, 1-6	ANT	os dach chi yn mynd *well*	NST	NST
+151, 10	622, 7-13	ANT	dw i yn dod end of *story*	ST	ST
+151, 11	623, 1-7	ANT	os dach chi isio fi neu beidio	NSNT	NSNT
+151, 12	623, 8-11	ANT	dw i yn landio	NSNT	NSNT
+151, 14	625, 1-8	ANT	ond mae *Sue* wedi gweud os ewn nhw	NST	NST
+151, 15	625, 9-13	ANT	mae nhw mynd i *er*	NST	NST
+151, 16	626, 1-11	ANT	mae raid nhw wneud y penderfyniad cyn Dolig ti yn gweld	NSNT	NSNT
+151, 17	628, 1-6	ANT	fydd raid nhw rentio yr tŷ	NSNT	NSNT
+151, 18	628, 7-9	ANT	mae nhw ynddi	---	NSNT
+
+
+152, 1	629, 1-1	AMR	bydd	NSNT	NSNT
+152, 2	629, 2-2	AMR	bydd	---	NSNT
+
+
+153, 1	630, 1-1	ANT	pacio	---	NSNT
+
+
+154, 1	631, 1-2	AMR	bydd *oh*	NST	NST
+154, 2	631, 3-6	AMR	mae o yn tibod	---	NSNT
+
+
+155, 1	632, 1-8	ANT	ffindio tŷ ochr arall ac yn y blaen	---	NSNT
+
+
+156, 1	633, 1-2	AMR	*oh* exciting	---	NST
+
+
+157, 1	634, 1-2	ANT	exciting te	NSNT	SNT
+157, 2	635, 1-5	ANT	ond mae yr plant yna	NSNT	NSNT
+157, 3	636, 1-4	ANT	mae *Emma* yn bedair	NST	NST
+157, 4	637, 1-4	ANT	mae *Oliver* yn ddau	NST	NST
+157, 5	638, 1-3	ANT	a mae nhw	NSNT	NSNT
+157, 6	638, 4-10	ANT	wedi bod *round* y byd dwy waith	NST	NST
+157, 7	638, 11-11	ANT	wsti	NSNT	NSNT
+157, 8	639, 1-2	ANT	mae *Emma*	NST	NST
+157, 9	639, 3-16	ANT	wedi bod trwy *Canada* Gogledd *America* trwy De *America* i_gyd *right* lawr yr *Andes*	NST	NST
+157, 10	640, 1-1	ANT	mae	NSNT	NSNT
+157, 11	640, 2-10	ANT	wedi bod trwy *Chile* a *Patagonia* a ryw lefydd	NST	NST
+157, 12	641, 1-7	ANT	mae wedi fod *er* dros *Europe* i_gyd	NST	NST
+157, 13	643, 2-3	ANT	mae nhw	NSNT	NSNT
+157, 14	643, 4-8	ANT	wedi bod i bob man	NSNT	NSNT
+157, 15	643, 9-9	ANT	wsti	NSNT	NSNT
+157, 16	644, 1-15	ANT	mae wedi fod i ben mynyddoedd ac ar ei gefn o a bob peth *yeah*	---	NST
+
+
+158, 1	645, 1-1	AMR	*aww*	---	NST
+
+
+159, 1	646, 1-15	ANT	a mae nhw wneud lluniau yn y back_pack pen bach yn sticio allan fel cwningen	NSNT	SNT
+159, 2	647, 1-4	ANT	wedyn mae fo *Oliver*	NST	NST
+159, 3	648, 1-2	ANT	mae fe	NSNT	NSNT
+159, 4	648, 3-4	ANT	wedi bod	NSNT	NSNT
+159, 5	649, 1-7	ANT	*well* pan gaeth e ei eni dyna	NST	NST
+159, 6	649, 8-14	ANT	be wnaeth hi efo ei cyfnod mamolaeth	NSNT	NSNT
+159, 7	650, 1-11	ANT	wnaeson nhw hire_o *er* camper *van* a dreifio lawr yr *Andes*	---	ST
+
+
+160, 1	651, 1-3	AMR	*oh* *cases* de	---	NST
+
+
+161, 1	652, 1-9	ANT	am *well* gaeth hi amboutu tri pedwar mis *off*	NST	NST
+161, 2	653, 1-13	ANT	*so* wnaeson nhw *just* gyrru am dri mis lawr yr trwy *Andes* *yeah*	---	NST
+
+
+162, 1	654, 1-1	AMR	*nice*	---	NST
+
+
+163, 1	655, 1-6	ANT	a *Emma* fach wrth ei bodd	---	NST
+
+
+164, 1	656, 1-3	AMR	*free* spirits de	---	ST
+
+
+165, 1	659, 1-6	ANT	*er* *er* oedd *Sue* yn gweud	NST	NST
+165, 2	659, 7-11	ANT	oedd hi yn wneud ffrindiau	NSNT	NSNT
+165, 3	660, 1-4	ANT	lle bynnag oedd hi	NSNT	NSNT
+165, 4	660, 5-9	ANT	oedd hi yn wneud ffrindiau	NSNT	NSNT
+165, 5	660, 10-14	ANT	wsti yn syth bin tibod	NSNT	NSNT
+165, 6	662, 1-5	ANT	*um* felly mae yn benderfynol	NST	NST
+165, 7	662, 6-14	ANT	oedd hi wedi gweld ryw anifeiliaid efo gyddfe hir	NSNT	NSNT
+165, 8	663, 1-6	ANT	a finnau yn holi iddi ysti	NSNT	NSNT
+165, 9	664, 1-8	ANT	Duw be welaist ti yn *Chile* fan yna	NST	NST
+165, 10	665, 1-2	ANT	meddai fi	SNT	NSNT
+165, 11	666, 1-1	ANT	*giraffes*	ST	NST
+165, 12	667, 1-4	ANT	oes dim *giraffes* yn	NST	NST
+165, 13	668, 1-4	ANT	oes deuddeg ohonyn nhw	NSNT	NSNT
+165, 16	671, 1-10	ANT	ddeudodd hi ddim chwech a hanner neu cant ac wyth	NSNT	NSNT
+165, 17	672, 1-1	ANT	deuddeg	NSNT	NSNT
+165, 18	673, 1-7	ANT	a os wedi di na wedyn gweud	NSNT	NSNT
+165, 19	674, 1-5	ANT	does dim *giraffes* yn *Chile*	NST	NST
+165, 20	676, 1-1	ANT	deuddeg	NSNT	NSNT
+165, 21	677, 1-6	ANT	dw i wedi deud wrtha chdi	SNT	NSNT
+165, 22	678, 1-3	ANT	end of *story*	ST	NST
+165, 23	679, 1-6	ANT	dim cega efo hi o_gwbl wsti	---	NSNT
+
+
+166, 1	680, 1-9	AMR	*oh* be be oedd hi wedi weld yno felly	---	NST
+
+
+167, 1	681, 1-6	ANT	*well* dw i yn credu beth	NST	NST
+167, 2	681, 7-10	ANT	oedd hi wedi gweld	NSNT	NSNT
+167, 3	682, 1-9	ANT	be mae nhw yn galw *um* pethau gwlanog yna	---	NST
+
+
+168, 1	683, 1-2	AMR	*oh* *llamas*	---	NST
+
+
+169, 1	685, 1-6	ANT	mae gynno nhw gyddfau eitha hir	NSNT	NSNT
+169, 2	687, 1-6	ANT	wedyn mae yna rhai yn *Chile*	NST	NST
+169, 3	687, 7-14	ANT	a mae nhw yn *patches* *brown* a gwyn	NST	NST
+169, 4	690, 1-14	ANT	*so* oedd hi wedi meddwl yn_doedd *just* wedi gweld y gwddw hir a deud	NST	NST
+169, 5	692, 1-4	ANT	*uh_huh* *giraffes* ydy nhw	NST	NST
+169, 6	693, 1-12	ANT	a mae yn dal i gwrthod mai mai y pethau eraill yna	NSNT	NSNT
+169, 7	693, 13-14	ANT	oedden nhw	NSNT	NSNT
+169, 8	694, 1-7	ANT	mae yn dal i mynnu mai *giraffes*	NST	NST
+169, 9	694, 8-9	ANT	oedden nhw	NSNT	NSNT
+169, 10	694, 10-11	ANT	wsti *yeah*	NST	NST
+169, 11	695, 1-2	ANT	a deuddeg	NSNT	NSNT
+169, 12	696, 1-5	ANT	ond oedd hi yn dianc	NSNT	NSNT
+169, 13	696, 6-9	ANT	wsti o yr fam	NSNT	NSNT
+169, 14	697, 1-10	ANT	tibod o'n nhw gorffod tynnu sgidie oddi wrthi yn diwedd	NSNT	NSNT
+169, 15	698, 1-2	ANT	os oedd	NSNT	NSNT
+169, 16	698, 3-7	ANT	ei sgidie ar ei thraed	NSNT	NSNT
+169, 17	698, 8-11	ANT	oedd hi yn mynd	---	NSNT
+
+
+170, 1	699, 1-4	AMR	oedd hi wedi mynd	---	NSNT
+
+
+171, 1	700, 1-5	ANT	anifeiliaid gwyllt yn bob man	NSNT	NSNT
+171, 2	702, 1-2	ANT	eisiau mynd	NSNT	NSNT
+171, 3	703, 1-4	ANT	*so* *um* dyna fe	---	NST
+
+
+172, 1	704, 1-2	AMR	*cases* de	---	NST
+
+
+173, 1	705, 1-3	ANT	wrth eu bodd	NSNT	NSNT
+173, 2	706, 1-3	ANT	wrth eu bodd	---	NSNT
+
+
+174, 1	707, 1-3	AMR	bryd lawr yn_ôl	---	NSNT
+
+
+175, 1	709, 1-3	ANT	ie dyna ni	---	NSNT

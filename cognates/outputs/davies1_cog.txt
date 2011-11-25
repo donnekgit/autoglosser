@@ -1,0 +1,1580 @@
+2, 1	2, 1-3	SAR	*oh* *yeah* cwch	NST	NST
+2, 2	3, 1-5	SAR	*oh* mae fe ar on	ST	ST
+2, 3	4, 1-6	SAR	*oh* mae *sure* fod yn iawn	---	NST
+
+
+3, 1	5, 1-4	NON	*oh* *sure* o fod	NST	NST
+3, 2	7, 1-3	NON	*sure* o fod	---	NST
+
+
+4, 1	8, 1-9	SAR	*yeah* *oh* na *well* byddwn ni *bus* mewn yna	NST	NST
+4, 2	9, 1-5	SAR	*well* timod *Lowri_Jones* a reina	NST	NST
+4, 3	9, 6-8	SAR	fydd gyda fi	NSNT	NSNT
+4, 4	10, 1-7	SAR	sa i wedi gweld nhw ers *spell*	NST	NST
+4, 5	11, 1-13	SAR	sa i wedi gael noson mas gyda nhw ers fi ddod fan hyn	NSNT	NSNT
+4, 6	13, 1-8	SAR	*so* sa i yn gwybod sut fydd e	---	NST
+
+
+5, 1	14, 1-4	NON	bydd e yn *nice*	---	NST
+
+
+6, 1	15, 1-7	SAR	bydd e *nice* *sure* o fod gobeithio	---	NST
+
+
+7, 1	16, 1-6	NON	achos welais i *Melanie* yn *Rhyng_Gol*	NST	NST
+7, 2	17, 1-8	NON	a ges i fel noson mas gyda *Melanie*	NST	NST
+7, 3	18, 1-7	NON	o'n i heb cael un ers achau	NSNT	NSNT
+7, 4	20, 1-4	NON	oedd e mor *cool*	NST	NST
+7, 5	21, 1-9	NON	fi yn gobeithio bydd e fel yna gyda *Lowri*	---	NST
+
+
+8, 1	22, 1-7	SAR	a fi yn mynd noson cyn Dolig	NSNT	NSNT
+8, 2	23, 1-7	SAR	fi heb gweld y *boys* ers *spell*	---	NST
+
+
+9, 1	24, 1-2	NON	*boys* ysgol	---	NST
+
+
+10, 1	26, 1-4	SAR	*so* oedd *Rhian* fel	NST	NST
+10, 2	27, 1-12	SAR	*oh* ti moyn cwrdd lan â nhw yn *Porth* rywbryd cyn Dolig	NST	NST
+10, 3	28, 1-3	SAR	o'n i fel	SNT	NSNT
+10, 4	29, 1-4	SAR	*yeah* good trefna fe	NST	ST
+10, 5	30, 1-1	SAR	mae	NSNT	NSNT
+10, 6	30, 2-6	SAR	wedi bod yn text_o *Mabon*	ST	ST
+10, 7	31, 1-5	SAR	a mae nhw yn mynd	NSNT	NSNT
+10, 8	32, 1-8	SAR	mae nhw gyd yn mynd mas i *Porth*	NST	NST
+10, 9	32, 9-11	SAR	noson cyn Dolig	---	NSNT
+
+
+11, 1	33, 1-1	NON	*Porth*	ST	NST
+11, 2	34, 1-2	NON	ble *Porth*	---	NST
+
+
+12, 1	35, 1-6	SAR	*um* tafarn *Llandysul* *right* lawr gwaelod	---	NST
+
+
+13, 1	36, 1-8	NON	sa i erioed wedi bod mas yn *Llandysul*	---	NST
+
+
+14, 1	38, 1-10	SAR	*ah* raid fi fynd â ti fan yna eto de	---	NST
+
+
+15, 1	39, 1-1	NON	*aye*	---	NST
+
+
+16, 1	40, 1-11	SAR	*yeah* *so* ni fod mynd mas fan yna noson cyn Dolig	NST	NST
+16, 2	41, 1-6	SAR	ond *point* yw sa i byth	NST	NST
+16, 3	41, 7-9	SAR	wedi bod mas	NSNT	NSNT
+16, 4	41, 10-12	SAR	noson cyn Dolig	NSNT	NSNT
+16, 5	42, 1-3	SAR	byth wedi bod	NSNT	NSNT
+16, 6	43, 1-3	SAR	achos fi wastad	---	NSNT
+
+
+17, 1	44, 1-7	NON	sa i yn credu bod fi wedi	---	NSNT
+
+
+18, 1	45, 1-10	SAR	achos wastad amser Dolig mae yn really fishi gyda ni	NSNT	SNT
+18, 2	46, 1-5	SAR	dyna gyd ni gallu wneud	NSNT	NSNT
+18, 3	46, 6-13	SAR	yw cael yr fel achos ni yn ŵyna	NSNT	NSNT
+18, 4	46, 14-15	SAR	yw cael	---	NSNT
+
+
+19, 1	47, 1-3	NON	*oh* adre nawr	---	NST
+
+
+20, 1	48, 1-4	SAR	*yeah* achos dyna gyd	NST	NST
+20, 2	49, 1-14	SAR	pob un really wrthi *full_pelt* *just* yn cael popeth yn barod i diwrnod wedyn	NST	ST
+20, 3	51, 1-11	SAR	ond leni dyn ni ddim yn ŵyna tan mwy flwyddyn newydd	---	NSNT
+
+
+21, 1	52, 1-12	NON	*oh* bydd hwnna *nice* roi bach o *break* i chi dros Dolig	---	NST
+
+
+22, 1	53, 1-1	SAR	bydd	NSNT	NSNT
+22, 2	54, 1-2	SAR	bydd e	NSNT	NSNT
+22, 3	55, 1-3	SAR	o'n i fel	NSNT	NSNT
+22, 4	56, 1-4	SAR	o'n i disappointed though	---	SNT
+
+
+23, 1	57, 1-2	NON	o't ti	---	NSNT
+
+
+24, 1	58, 1-1	SAR	o'n	---	NSNT
+
+
+25, 1	59, 1-7	NON	twel sa i yn cymryd dim diddordeb	---	NSNT
+
+
+26, 1	60, 1-9	SAR	*well* so Dolig yr un peth though ody fe	NST	ST
+26, 2	61, 1-2	SAR	mae wastad	NSNT	NSNT
+26, 3	61, 3-13	SAR	wedi bod rush rush rush Dolig ŵyna *wow* ŵyn bach i_gyd	NST	ST
+26, 4	63, 1-3	SAR	byddai leni fel	NSNT	NSNT
+26, 5	64, 1-4	SAR	*o_k* be wnewn ni	NST	NST
+26, 6	65, 1-2	SAR	cwco bwyd	NSNT	NSNT
+26, 7	66, 1-12	SAR	achos wastad wedi bod rush i gael y bwyd i_gyd yn barod	NSNT	SNT
+26, 8	68, 1-5	SAR	*mam* yn mynd yn stressed	---	ST
+
+
+27, 1	69, 1-4	NON	timod *er* *um* llynedd	NST	NST
+27, 2	69, 5-13	NON	wnes i wneud dim_byd gyda ŵyna mond un diwrnod	NSNT	NSNT
+27, 3	70, 1-5	NON	oedd *Roland* a *Mererid* digwydd	NST	NST
+27, 4	70, 6-7	NON	bod mas	NSNT	NSNT
+27, 5	72, 1-8	NON	a dim ond *Gethin* a fi oedd yna	NST	NST
+27, 6	73, 1-10	NON	a timod ti ffaelu tynnu o yna pan ti yna	NSNT	NSNT
+27, 7	74, 1-5	NON	*so* oedd e fel *Non*	NST	NST
+27, 9	76, 1-11	NON	*so* fi yn dala yr ddafad a *Gethin* yn wneud e	NST	NST
+27, 11	78, 1-3	NON	o'n i fel	SNT	NSNT
+27, 12	79, 1-7	NON	*oh* my God alla i edrych nawr	---	ST
+
+
+28, 1	80, 1-7	SAR	fi gallu dychmygu ti *ah* *ah* sgrechian	---	NST
+
+
+29, 1	81, 1-8	NON	*oh* o'n i yn o'n i yn hopeless	---	ST
+
+
+30, 1	82, 1-10	SAR	*oh* fi yn fi yn good gyda *stuff* fel yna	NST	ST
+30, 2	83, 1-3	SAR	gwaed you name	NSNT	SNT
+30, 3	83, 4-7	SAR	it fi yn good	---	SNT
+
+
+31, 1	84, 1-1	NON	really	---	NSNT
+
+
+32, 1	85, 1-5	SAR	*oh* ond rho di neithiwr	NST	NST
+32, 2	85, 6-10	SAR	pryd oedd *Del* yn sâl	---	NST
+
+
+33, 1	86, 1-13	NON	*oh* fi gallu cope_o gyda pethau fel pobl yn mynd yn sâl yfe	---	ST
+
+
+34, 1	87, 1-6	SAR	fi yn iawn fel rhai amser	NSNT	NSNT
+34, 2	88, 1-18	SAR	ond os fi yn gwybod bod loads o pobl arall i gael i edrych ar_ôl y *person* yna	NST	ST
+34, 3	89, 1-7	SAR	sa i yn gwybod beth yw e	NSNT	NSNT
+34, 4	90, 1-5	SAR	os oes os fi fel	NSNT	NSNT
+34, 5	90, 6-10	SAR	os bysai fe i *Lowri*	NST	NST
+34, 6	90, 11-19	SAR	byswn i mwy na thebyg yn iawn i fel	NSNT	NSNT
+34, 7	91, 1-5	SAR	*right* fi edrych ar_ôl *Lowri*	NST	NST
+34, 8	92, 1-6	SAR	os byddai fe yn ti falle	NSNT	NSNT
+34, 9	92, 7-9	SAR	byddai fe wahanol	NSNT	NSNT
+34, 10	93, 1-3	SAR	bydden i fel	NSNT	NSNT
+34, 11	94, 1-4	SAR	*right* edrych ar_ôl *Non*	NST	NST
+34, 12	96, 1-17	SAR	ond sa i gwybod fel gyda *Del* o'n i *just* fel o'n i *just* wedi dechrau meddwl	NST	NST
+34, 13	97, 1-6	SAR	*ooh* fi yn teimlo yn sâl	NST	NST
+34, 14	99, 1-6	SAR	a o'n i seriously *just* â	NST	ST
+34, 15	99, 7-7	SAR	dala	---	NSNT
+
+
+35, 1	100, 1-14	NON	smo fel gweld dafad yn dod o oen yn wneud e i ti de	---	NSNT
+
+
+36, 1	102, 1-13	SAR	*oh* fi wedi fi yn gyfarwydd â hynna ers bod fi yn cofio	---	NST
+
+
+37, 1	103, 1-1	NON	dyna	NSNT	NSNT
+37, 2	103, 2-3	NON	be sy	NSNT	NSNT
+37, 3	103, 4-4	NON	dyna	NSNT	NSNT
+37, 4	103, 5-10	NON	be sy yn troi arna i	NSNT	NSNT
+37, 5	103, 11-17	NON	yw gweld oen yn cael ei blingo	---	NSNT
+
+
+38, 1	104, 1-7	SAR	sa i wedi gweld hwnna ers blynyddau	---	NSNT
+
+
+39, 1	105, 1-7	NON	sa i wedi gweld e ers *spell*	NST	NST
+39, 2	106, 1-9	NON	a mae fe yn troi arna i a *maggots*	NST	NST
+39, 3	108, 2-6	NON	pan mae dafad yn pryfedu	---	NSNT
+
+
+40, 1	109, 1-8	SAR	*oh* so *maggots* yn wneud dim_byd i fi	---	NST
+
+
+41, 1	110, 1-11	NON	dim pan ti actually yn gweld nhw yn bwyta yr ddafad	NSNT	SNT
+41, 2	112, 1-11	NON	a pan mae raid ti gael *Fairy_Liquid* i trio lladd nhw	---	NST
+
+
+42, 1	113, 1-1	SAR	*Fairy_Liquid*	---	NST
+
+
+43, 1	114, 1-8	NON	*yeah* ni yn wneud hynna i fel achos	NST	NST
+43, 2	116, 1-12	NON	mae yn wneud fel croen y ddafad yn really llithrig *so* wedyn	NST	ST
+43, 3	116, 13-21	NON	mae yr *maggots* yn ffaelu grip_o i yr ddafad	---	ST
+
+
+44, 1	117, 1-1	SAR	*wow*	ST	NST
+44, 2	118, 1-8	SAR	na *um* fel *dip* *thing* sy gyda ni	---	NST
+
+
+45, 1	119, 1-1	NON	ych	---	NSNT
+
+
+46, 1	120, 1-12	SAR	timod ti yn cymysgu fe lan a ti yn arllwys e drosti	---	NSNT
+
+
+47, 1	121, 1-12	NON	*oh* *yeah* fi yn credu bod ni yn wneud hynna hefyd actually	---	ST
+
+
+48, 1	123, 1-15	SAR	*yeah* falle bod chi yn gael iwso *Fairy* i cael gwared o nhw gynta wedyn	NST	NST
+48, 2	123, 16-22	SAR	rhoid y *dip* *thing* i wneud *sure*	NST	NST
+48, 3	123, 23-33	SAR	bod ddim ragor yn dod nôl a *stuff* a lladd popeth	NST	NST
+48, 4	123, 34-35	SAR	sy ar_ôl	---	NSNT
+
+
+49, 1	124, 1-14	NON	*yeah* fi wedi gweld *dad* yn crafu yr *maggots* *off* gyda gwaellau cyn nawr	NST	NST
+49, 2	126, 1-3	NON	mae hwnna ffiaidd	NSNT	NSNT
+49, 3	128, 1-8	NON	traed defaid mae hwnna yn troi arna i	---	NSNT
+
+
+50, 1	129, 1-2	SAR	traed nhw	---	NSNT
+
+
+51, 1	131, 1-5	NON	sa i lico traed human	---	SNT
+
+
+52, 1	132, 1-13	SAR	*well* o'n i yn un adeg o'n i wir isie bod yn *vet*	---	NST
+
+
+53, 1	133, 1-3	NON	o't ti really	---	SNT
+
+
+54, 1	134, 1-1	SAR	o'n	NSNT	NSNT
+54, 2	135, 1-7	SAR	*oh* fi really joio *stuff* fel yna	---	ST
+
+
+55, 1	136, 1-6	NON	allwn i weld ti wneud *vet*	---	NST
+
+
+56, 1	137, 1-9	SAR	*oh* ti *sure* o fod gallu dychmygu fi yn	---	NST
+
+
+57, 1	138, 1-1	NON	yndw	NSNT	NSNT
+57, 2	138, 2-2	NON	yndw	SNT	NSNT
+57, 3	139, 1-6	NON	definite gallu gweld ti yn *vet*	---	ST
+
+
+58, 1	140, 1-14	SAR	achos os fi yn gwybod bod raid fi wneud rywbeth fi gallu wneud e	NSNT	NSNT
+58, 2	141, 1-7	SAR	achos *o_k* mae hwn yn really *odd*	ST	ST
+58, 3	142, 1-8	SAR	dwy noson o yr blaen edrych ar_ôl *Iestyn*	NST	NST
+58, 4	144, 1-4	SAR	ti a fi oedd	NSNT	NSNT
+58, 5	145, 1-6	SAR	*right* mae raid edrych ar_ôl e	NST	NST
+58, 6	146, 1-4	SAR	o'n i yn iawn	NSNT	NSNT
+58, 7	148, 1-9	SAR	neithiwr cymaint o bobl yna i edrych ar_ôl *Del*	NST	NST
+58, 8	149, 1-5	SAR	o'n i *just* dechrau meddwl	NST	NST
+58, 9	150, 1-5	SAR	*ooh* sa i lico hwn	NST	NST
+58, 10	151, 1-4	SAR	pob un arall mynd	NSNT	NSNT
+58, 11	152, 1-2	SAR	*ooh* ych_a_fi	NST	NST
+58, 12	154, 1-2	SAR	fi meddwl	NSNT	NSNT
+58, 13	155, 1-2	SAR	*ooh* ych_a_fi	NST	NST
+58, 14	156, 1-12	SAR	a dim ond fi oedd yn y toiledau gyda *Del* un adeg	NST	NST
+58, 15	157, 1-8	SAR	o'n i yn gwybod bod chi gyd yna	NSNT	NSNT
+58, 16	159, 1-5	SAR	o'n i ddim yn sâl	---	NSNT
+
+
+59, 1	160, 1-1	NON	ych_a_fi	NSNT	NSNT
+59, 2	161, 1-4	NON	mae hwnna yn weird	---	SNT
+
+
+60, 1	162, 1-5	SAR	mae fe yn ody fe	---	NSNT
+
+
+61, 1	163, 1-3	NON	*oh* fel timod	NST	NST
+61, 2	163, 4-8	NON	oedd *um* *Awen* yn gweud	NST	NST
+61, 3	163, 9-15	NON	bod hi wedi cael gwaith yn glanhau	NSNT	NSNT
+61, 4	163, 16-21	NON	a bod wedi gorfod glanhau toiledau	NSNT	NSNT
+61, 5	165, 1-9	NON	sa i credu byddai *problem* gyda fi gyda hynna	---	NST
+
+
+62, 1	166, 1-5	SAR	byddai dim *problem* gyda fi	NST	NST
+62, 2	167, 1-1	SAR	bysai	NSNT	NSNT
+62, 3	167, 2-9	SAR	mae *just* meddwl amboutu fe yn *ooh* ffiaidd	NST	NST
+62, 4	168, 1-7	SAR	ond na bod *problem* gyda fi yna	---	NST
+
+
+63, 1	169, 1-9	NON	ti wedi penderfynu be ti wneud nos Galan eto	---	NSNT
+
+
+64, 1	170, 1-5	SAR	llynedd aethon ni i *Llanina*	NST	NST
+64, 2	171, 1-7	SAR	aeth *Bethan* a fi *straight* i *Llanina*	NST	NST
+64, 3	172, 1-16	SAR	pawb arall yn mynd i Cei gynta a wedi gwisgo lan a lan i *Llanina* wedyn	NST	NST
+64, 4	173, 1-8	SAR	ond *um* aethon ni yn syth i *Llanina*	NST	NST
+64, 5	174, 1-6	SAR	llynedd o'n i sâl o'n i	SNT	NSNT
+64, 6	175, 1-1	SAR	*flu*	ST	NST
+64, 7	177, 1-6	SAR	ond *um* sa i yn gwybod	---	NST
+
+
+65, 1	178, 1-8	NON	i yn eitha lico yr syniad o *um*	---	NST
+
+
+66, 1	179, 1-6	SAR	*oh* bola fi yn cadw sŵn	---	NST
+
+
+67, 1	182, 1-12	NON	fi fi eitha lico yr syniad o pawb yn aros yn *Dol_y_Cothi*	NST	NST
+67, 2	184, 1-3	NON	pawb gyda ei_gilydd	---	NSNT
+
+
+68, 1	185, 1-2	SAR	pawb lleol	---	NSNT
+
+
+69, 1	186, 1-7	NON	*yeah* er elen i Gaerfyrddin neu rywbeth	---	NST
+
+
+70, 1	187, 1-9	SAR	*oh* byddai ddim gwahaniaeth gyda fi fod yn *G_E*	---	NST
+
+
+71, 1	188, 1-15	NON	sa i yn becso ble y fi really mond bod fi gyda yr pobl iawn	NSNT	SNT
+71, 2	190, 1-15	NON	ond sa i yn gweld bydda i yn gallu wneud pobl Ffermwyr_Ifanc a pobl ysgol	---	NSNT
+
+
+72, 1	192, 1-3	SAR	alla i byth	NSNT	NSNT
+72, 2	192, 4-6	SAR	â wneud pawb	NSNT	NSNT
+72, 3	193, 1-3	SAR	allen i byth	NSNT	NSNT
+72, 4	193, 4-9	SAR	â wneud *G_E* a pobl ysgol	NST	NST
+72, 5	195, 1-5	SAR	byddai hwnna ddim yn gweithio	NSNT	NSNT
+72, 6	196, 1-1	SAR	byddai	NSNT	NSNT
+72, 8	198, 1-4	SAR	mwy na thebyg dyna	NSNT	NSNT
+72, 9	198, 5-9	SAR	be sy mynd i ddigwydd	NSNT	NSNT
+72, 10	199, 1-11	SAR	neu byddai raid fi fod yn *G_E* gyda *just* pobl *G_E*	NST	NST
+72, 11	200, 1-17	SAR	gewn ni weld sut mae yn mynd yn *G_E* faint o *shifts* fi yn cael a pethau	---	NST
+
+
+73, 1	201, 1-6	NON	ti meddwl bydd raid ti weithio	---	NSNT
+
+
+74, 1	202, 1-1	SAR	be	---	NSNT
+
+
+75, 1	203, 1-3	NON	new year's eve	---	NSNT
+
+
+76, 1	204, 1-9	SAR	bysai dim ots gyda fi weithio new year's eve	SNT	SNT
+76, 2	206, 1-8	SAR	*oh* wir byddai ddim ots gyda fi o_gwbl	---	NST
+
+
+77, 1	207, 1-8	NON	bydden nhw yn falch i gael y *staff*	NST	NST
+77, 2	207, 9-11	NON	mae yn *sure*	---	NST
+
+
+78, 1	209, 1-6	SAR	byddai wir ddim ots gyda fi	---	NSNT
+
+
+79, 1	210, 1-7	NON	sa i yn gwybod be wna i	---	NSNT
+
+
+80, 1	212, 1-7	SAR	achos sa i yn gwybod pam *just*	---	NST
+
+
+81, 1	213, 1-4	NON	Llambed o'n i llynedd	---	NSNT
+
+
+82, 1	214, 1-6	SAR	fi yn gweld mae hwnna yn	NSNT	NSNT
+82, 2	214, 7-8	SAR	noson *odd*	---	NST
+
+
+83, 1	215, 1-2	NON	*aye* mae	NST	NST
+83, 2	215, 3-14	NON	mae fe wastad yn *um* bach o anticlimax neu rywbeth yn_dyw e	---	ST
+
+
+84, 1	216, 1-4	SAR	*mmm* joiais i llynedd	NST	NST
+84, 2	217, 1-3	SAR	joiais i llynedd	NSNT	NSNT
+84, 3	221, 1-5	SAR	ond sa i yn gwybod	NSNT	NSNT
+84, 4	222, 1-8	SAR	sa i byth wedi joio *lot* cyn llynedd	---	NST
+
+
+85, 1	223, 1-10	NON	sa i wedi bod mas nos Galan *lot* cyn llynedd	---	NST
+
+
+86, 1	225, 1-4	SAR	*yeah* oedd e yn	NST	NST
+86, 2	225, 5-9	SAR	oedd *crew* bach *nice* llynedd	---	NST
+
+
+87, 1	226, 1-8	NON	mond bod y *crew* yn iawn dyna i_gyd	NST	NST
+87, 2	226, 9-11	NON	sy yn bwysig	---	NSNT
+
+
+88, 1	228, 1-9	SAR	a oedd gyda ti gerddoriaeth iawn yn *Llanina* fel	NST	NST
+88, 2	228, 10-13	SAR	timod fel cheesy *music*	---	ST
+
+
+89, 1	229, 1-2	NON	pam lai	---	NSNT
+
+
+90, 1	230, 1-4	SAR	joio *stuff* fel yna	---	NST
+
+
+91, 1	231, 1-8	NON	be ti meddwl wneud dros yr haf de	---	NSNT
+
+
+92, 1	232, 1-4	SAR	ddim yn gwybod achos	---	NSNT
+
+
+93, 1	233, 1-5	NON	oes gyda ti unrhyw gynlluniau	---	NSNT
+
+
+94, 1	234, 1-9	SAR	*well* does dim gwaith gyda fi yn lle nawr	NST	NST
+94, 2	234, 11-12	SAR	oes e	NSNT	NSNT
+94, 3	235, 1-10	SAR	ac fi wedi cael cynnig gwaith fan hynny dros Nadolig	---	NSNT
+
+
+95, 1	237, 1-1	NON	caws	NSNT	NSNT
+95, 2	239, 1-5	NON	ond ti wedi deud na	---	NSNT
+
+
+96, 1	240, 1-6	SAR	*um* wnes i ddeud na achos	---	NST
+
+
+97, 1	241, 1-7	NON	*oh* mae *just* yn ormod o oriau	---	NST
+
+
+98, 1	242, 1-3	SAR	mae yn gormod	NSNT	NSNT
+98, 2	243, 1-10	SAR	achos allen i fod wedi dechrau gweithio dydd Llun nawr	---	NSNT
+
+
+99, 1	244, 1-4	NON	gei di ddim seibiant	---	NSNT
+
+
+100, 1	245, 1-3	SAR	wythnos cyn Dolig	NSNT	NSNT
+100, 2	246, 1-3	SAR	a wedodd *Avril*	NST	NST
+100, 3	247, 1-13	SAR	mwy na thebyg gaethet ti fe ar_ôl Dolig hefyd os bod ti isie	NSNT	NSNT
+100, 4	248, 1-8	SAR	ond oedd *mam* yn gweud *mam* yn gweud	NST	NST
+100, 5	249, 1-6	SAR	faint o waith sy gyda ti	NSNT	NSNT
+100, 6	250, 1-3	SAR	o'n i fel	NSNT	NSNT
+100, 7	251, 1-10	SAR	mae tipyn o oriau mynd i fynd ar sgriptiau fi	NSNT	NSNT
+100, 8	253, 1-3	SAR	a paratoi arholiad	NSNT	NSNT
+100, 9	254, 1-6	SAR	a fi moyn paratoi *semester* nesa	NST	NST
+100, 10	255, 1-11	SAR	achos fi yn gwybod mae hwnna mynd i fod yn drymach	NSNT	NSNT
+100, 11	257, 1-4	SAR	cael pethach yn barod	---	NSNT
+
+
+101, 1	258, 1-10	NON	mae isie ti *just* cael fel recharge_io yr *batteries* hefyd	---	ST
+
+
+102, 1	260, 1-12	SAR	os gaethen i *couple* o *shifts* yn *G_E* basai hwnna yn good	ST	ST
+102, 2	261, 1-1	SAR	basai	NSNT	NSNT
+102, 3	262, 1-5	SAR	pam fi yn gweud basai	SNT	NSNT
+102, 5	264, 1-1	SAR	*gog*	---	NST
+
+
+103, 1	265, 1-4	NON	dylanwad y *gogs* *boy*	---	NST
+
+
+104, 1	267, 1-2	SAR	yn y	---	NSNT
+
+
+105, 1	268, 1-10	NON	fi credu unwaith a i adre bydda i yn iawn	---	NSNT
+
+
+106, 1	269, 1-2	SAR	a fi	---	NSNT
+
+
+107, 1	270, 1-18	NON	*just* pan ti yn ganol *gogs* trwy yr amser ti yn mynd i fynd i siarad fel nhw	---	NST
+
+
+108, 1	271, 1-10	SAR	a o'n i wedi dod i yr meddylfryd achos *Iestyn*	---	NST
+
+
+109, 1	272, 1-5	NON	dim *Iest* yw e though	ST	ST
+109, 2	273, 1-3	NON	mae pawb arall	---	NSNT
+
+
+110, 1	274, 1-10	SAR	*oh* na o'n i wedi dod i meddylfryd achos *Iestyn*	NST	NST
+110, 2	275, 1-8	SAR	o'n i wedi dechrau siarad *gog* gyda fe	NST	NST
+110, 3	277, 1-9	SAR	achos oedd e yn haws na gorfod ail_ddeud popeth	NSNT	NSNT
+110, 4	279, 1-7	SAR	pob un arall yn hanner deall ti	---	NSNT
+
+
+111, 1	280, 3-7	NON	mae pawb arall yn deall	---	NSNT
+
+
+112, 1	281, 1-8	SAR	ond o'n i dechrau siarad *gog* gyda *Iestyn*	NST	NST
+112, 2	282, 1-11	SAR	a wedyn o'n i wedi troi i siarad *gog* gyda pawb	NST	NST
+112, 3	284, 1-1	SAR	yn	---	NSNT
+
+
+113, 1	285, 1-1	NON	*aye*	---	NST
+
+
+114, 1	286, 1-4	SAR	timod *just* rhai geiriau	NST	NST
+114, 2	287, 1-8	SAR	ond fi yn credu unwaith bydda i gartre	NSNT	NSNT
+114, 3	287, 9-13	SAR	bydda i nôl mewn hwntw	---	NSNT
+
+
+115, 1	288, 1-8	NON	mae *Awen* a *Del* yn para yn dda	NST	NST
+115, 2	290, 1-3	NON	mae nhw yn	---	NSNT
+
+
+116, 1	291, 1-1	SAR	ydyn	---	NSNT
+
+
+117, 1	292, 1-3	NON	dal yn *Crymych*	---	NST
+
+
+118, 1	293, 1-1	SAR	*Crymych*	---	NST
+
+
+119, 1	294, 1-2	NON	big time	---	NSNT
+
+
+120, 1	295, 1-3	SAR	*oh* na mae	NST	NST
+120, 2	296, 1-2	SAR	ond timod	NSNT	NSNT
+120, 3	296, 3-11	SAR	mae dal rhai geiriau yn dod mas gyda fi	NSNT	NSNT
+120, 4	297, 1-4	SAR	be wnaeth e ddeud	NSNT	NSNT
+120, 5	298, 1-9	SAR	*oh* oedd *Simon* *just* yn dweud rywbeth amboutu panso	---	NST
+
+
+121, 1	299, 1-7	NON	*oh* *yeah* a ddim wedi deall hwnna	---	NST
+
+
+122, 1	300, 1-3	SAR	oedd e fel	NSNT	NSNT
+122, 2	301, 1-3	SAR	peth yw panso	NSNT	NSNT
+122, 4	303, 1-3	SAR	oedd e funny	---	SNT
+
+
+123, 1	304, 1-1	NON	bydd	NSNT	NSNT
+123, 2	304, 2-10	NON	bydd raid fi fynd ar_ôl Nadolig i weld beth	NSNT	NSNT
+123, 3	304, 11-16	NON	alla i wneud dros yr haf	NSNT	NSNT
+123, 4	306, 1-5	NON	mis bach byddai yn *nice*	NST	NST
+123, 5	307, 1-7	NON	*yeah* *well* licen i bod adre i	---	NST
+
+
+124, 1	308, 1-6	SAR	ti moyn mynd bant wyt ti	---	NSNT
+
+
+125, 1	309, 1-1	NON	ydw	NSNT	NSNT
+125, 2	310, 1-10	NON	*well* licen i fod adre ar_gyfer *steddfod* genedlaethol a Royal_Welsh	ST	ST
+125, 3	312, 1-6	NON	does dim raid i fi ond	---	NSNT
+
+
+126, 1	313, 1-3	SAR	swno yn *nice*	---	NST
+
+
+127, 1	314, 1-4	NON	ond allen i fynd	NSNT	NSNT
+127, 2	314, 5-9	NON	twel wythnos gynta mis Awst	NSNT	NSNT
+127, 3	314, 10-11	NON	yw genedlaethol	NSNT	NSNT
+127, 4	316, 1-14	NON	*so* wedyn allen i fynd gwed ail wythnos mis Awst tan diwedd Medi wedyn	---	NST
+
+
+128, 1	317, 1-16	SAR	bydd *sure* galw amdano fe pryd hynny achos mis Awst pob un arall ar eu gwyliau	---	NST
+
+
+129, 1	319, 1-4	NON	dyna beth joien i	NSNT	NSNT
+129, 2	319, 5-5	NON	twel	NSNT	NSNT
+129, 3	319, 6-8	NON	byddai mynd gyda	---	NSNT
+
+
+130, 1	321, 1-1	SAR	good	SNT	NSNT
+130, 2	322, 1-16	SAR	trio meddwl o't ti gyda fi pryd oedd rywun yn siarad gyda fi neithiwr am *A_I*	---	NST
+
+
+131, 1	325, 1-5	NON	o'n i ddim efo chdi	NSNT	NSNT
+131, 3	327, 1-3	NON	fi wedi cael	---	NSNT
+
+
+132, 1	328, 1-3	SAR	wnaeth rywun gofyn	NSNT	NSNT
+132, 2	328, 4-9	SAR	ydyn nhw wneud e i defaid	---	NSNT
+
+
+133, 1	329, 1-6	NON	mae yn wneud *lot* o hynna	---	NST
+
+
+134, 1	330, 1-2	SAR	i defaid	---	NSNT
+
+
+135, 1	332, 1-10	NON	*yeah* wnes i gael sgwrs efo *Gwenno* am y peth	NST	NST
+135, 2	333, 1-3	NON	*Gwenno* tibod *Gwenno*	NST	NST
+135, 3	335, 1-1	NON	Cymraeg	---	NSNT
+
+
+136, 1	336, 1-7	SAR	*oh* na oedd hwnna am cariad hi	---	NST
+
+
+137, 1	337, 1-5	NON	*oh* oedd hwnna *spell* nôl	---	NST
+
+
+138, 1	338, 1-9	SAR	*ha* pwy sy wedi gofyn i fi neithiwr de	NST	NST
+138, 2	339, 1-8	SAR	rhywun wedi gofyn i fi neithiwr neu heddiw	NSNT	NSNT
+138, 3	340, 1-7	SAR	wyt ti yn wneud e i defaid	NSNT	NSNT
+138, 4	342, 1-5	SAR	*oh* sa i yn gwybod	---	NST
+
+
+139, 1	343, 1-7	NON	o'n i ddim efo chdi be bynnag	---	NSNT
+
+
+140, 1	344, 1-4	SAR	achos o'n i fel	NSNT	NSNT
+140, 2	345, 1-6	SAR	na ti wneud e i da	NSNT	NSNT
+140, 3	346, 1-1	SAR	fi	NSNT	NSNT
+140, 4	347, 1-14	SAR	achos o'n *well* timod fi wedi gweld e yn gael ei wneud i da	---	NST
+
+
+141, 1	348, 1-10	NON	sa i erioed wedi gweld e yn cael ei wneud	---	NSNT
+
+
+142, 1	349, 1-6	SAR	*oh* fi wedi gyda *Uncle* *Kim*	---	NST
+
+
+143, 1	350, 1-2	NON	*oh* ych_a_fi	---	NST
+
+
+144, 1	351, 1-3	SAR	a *Ieuan* actually	ST	ST
+144, 2	352, 1-1	SAR	yndw	---	NSNT
+
+
+145, 1	355, 1-12	NON	timod ti gallu gweld fi yn edrych ar_ôl plant dros yr haf	---	NSNT
+
+
+146, 1	356, 1-3	SAR	edrych ar_ôl plant	---	NSNT
+
+
+147, 1	357, 1-5	NON	halen nhw fi yn crazy	SNT	SNT
+147, 2	358, 1-3	NON	bydden i yn	NSNT	NSNT
+147, 3	358, 4-10	NON	bydden i yn bennu lan hitio nhw	---	NSNT
+
+
+148, 1	359, 1-2	SAR	baswn i	NSNT	NSNT
+148, 2	360, 1-7	SAR	os bydden i yn edrych ar_ôl plant	NSNT	NSNT
+148, 3	360, 8-14	SAR	bydden i yn eitha *strict* gyda nhw	NST	NST
+148, 4	362, 1-12	SAR	os o't ti gallu gweld fel gyda *Del* neithiwr o'n i fel	NST	NST
+148, 5	363, 1-7	SAR	na so ti yn cael wneud hynna	---	NSNT
+
+
+149, 1	364, 1-2	NON	o't *yeah*	NST	NST
+149, 2	365, 1-4	NON	fel yna bydden i	---	NSNT
+
+
+150, 1	366, 1-8	SAR	ond oedd isie hynna ar *Del* neithiwr achos	NST	NST
+150, 2	366, 9-10	SAR	neu bysai	NSNT	NSNT
+150, 3	366, 11-14	SAR	bod yn wneud *mess*	---	NST
+
+
+151, 1	368, 1-9	NON	ond *yeah* bydden i ddim yn easy going o_gwbl	---	ST
+
+
+152, 1	369, 1-2	SAR	na fi	NSNT	NSNT
+152, 2	370, 1-8	SAR	credu bydden i eitha *strict* eitha *strict* *yeah*	NST	NST
+152, 3	371, 1-5	SAR	mae raid ti fod though	SNT	SNT
+152, 4	372, 1-1	SAR	fel	---	NSNT
+
+
+153, 1	373, 1-10	NON	*well* *er* bydden i yn *nervous* achos dim plant fi	NST	NST
+153, 2	373, 11-12	NON	bydden nhw	---	NSNT
+
+
+154, 1	374, 1-5	SAR	*yeah* dyna yr unig beth	NST	NST
+154, 2	374, 6-9	SAR	bydden i yn hwnna	NSNT	NSNT
+154, 3	375, 1-10	SAR	*well* o'n i o'n i edrych ar_ôl *Hywel* a *Hefin*	---	NST
+
+
+155, 1	376, 1-5	NON	pwy yw *Hywel* a *Hefin*	---	NST
+
+
+156, 1	377, 1-4	SAR	*um* plant *G_E* timod	NST	NST
+156, 2	379, 1-6	SAR	amser oedd *Eifion* a *Sandra* yna	NST	NST
+156, 3	380, 1-6	SAR	o'n i arfer edrych ar_ôl rheiny	NSNT	NSNT
+156, 4	381, 1-7	SAR	a timod o'n i ifanc pryd hynny	NSNT	NSNT
+156, 5	382, 1-8	SAR	*just* mynd â nhw fel mas ar *bike*	NST	NST
+156, 6	383, 1-5	SAR	pryd o'n nhw ar_hyd lle	NSNT	NSNT
+156, 7	384, 1-10	SAR	ond wnes i edrych ar_ôl nhw yn nos ryw noson	NSNT	NSNT
+156, 8	385, 1-10	SAR	ond *um* oedd wastad rywun drws nesa yn y dafarn	NST	NST
+156, 9	387, 1-4	SAR	*so* os oedd rywbeth	NST	NST
+156, 10	387, 5-9	SAR	yn bod o'n i yn	NSNT	NSNT
+156, 11	387, 10-14	SAR	timod rywun yna drwy amser	---	NSNT
+
+
+157, 1	388, 1-8	NON	achos peth yw gyda *um* plant cousins fi	NST	ST
+157, 2	388, 10-14	NON	mae nhw bach yn ifanc	NSNT	NSNT
+157, 3	390, 1-2	NON	fel timod	NSNT	NSNT
+157, 4	390, 3-7	NON	mae gwahaniaeth rwng gofalu ar_ôl	NSNT	NSNT
+157, 5	391, 1-8	NON	*well* na actually mae nhw dipyn henach nawr	NST	ST
+157, 6	392, 1-3	NON	*well* mae *Begw*	NST	NST
+157, 7	393, 1-4	NON	fi wedi wneud *Begw*	NST	NST
+157, 8	394, 1-4	NON	dw meddwl mai un	NSNT	NSNT
+157, 9	394, 5-13	NON	noson fi wedi wneud *Begw* ar ben yn hunain	NST	NST
+157, 10	395, 1-2	NON	oedd hynna	NSNT	NSNT
+157, 11	395, 3-9	NON	pan oedd hi yn bach dros flwydd	---	NSNT
+
+
+158, 1	396, 1-1	SAR	da	NSNT	NSNT
+158, 2	397, 1-5	SAR	oedd hi mas o nappies	SNT	SNT
+158, 3	398, 1-2	SAR	nag oedd	NSNT	NSNT
+158, 4	400, 1-2	SAR	whare teg	---	NSNT
+
+
+159, 1	401, 1-5	NON	oedd e yn *alright* actually	ST	ST
+159, 2	402, 1-4	NON	oedd o yn *o_k*	NST	NST
+159, 4	404, 1-6	NON	wnes i wneud *sausages* iddi *supper*	ST	NST
+159, 5	405, 1-9	NON	*oh* my gosh *oh* ges i gymaint o ofan	NST	ST
+159, 6	406, 1-2	NON	mae *Begw*	NST	NST
+159, 7	406, 3-6	NON	mae *just* yn bwyta	NST	NST
+159, 8	407, 1-2	NON	dyna i_gyd	NSNT	NSNT
+159, 9	407, 3-9	NON	sy ar meddwl hi trwy yr amser	NSNT	NSNT
+159, 11	409, 1-2	NON	o'n i	NSNT	NSNT
+159, 12	410, 1-8	NON	sgwn i lle mae cael hwnna o *hmm*	NST	NST
+159, 14	412, 1-10	NON	a o'n i wedi wneud fel *sausages* a beans iddi	---	ST
+
+
+160, 1	413, 1-3	SAR	*oh* *yeah* *nice*	---	NST
+
+
+161, 1	414, 1-2	NON	a *um*	NST	NST
+161, 2	416, 1-8	NON	a *um* o'n i wedi wneud *supper* iddi	NST	NST
+161, 4	418, 1-13	NON	o'n i *just* wedi troi bant am eiliad i pipo ar y *grill*	NST	NST
+161, 5	419, 1-6	NON	peth nesa oedd y diawl bach	NSNT	NSNT
+161, 6	419, 7-23	NON	oedd hi mewn yn y *bin* ar_ôl y *tin* beans a llaw i_mewn yn y *tin* beans	ST	ST
+161, 7	419, 24-26	NON	timod gyda yr	---	NSNT
+
+
+162, 1	421, 1-4	SAR	mewn yn y *bin*	---	NST
+
+
+163, 1	422, 2-13	NON	oedd hi wedi mynd mewn i yr *bin* cael *tin* beans mas	NST	ST
+163, 2	422, 14-22	NON	oedd ei llaw hi mewn yn y *tin* beans	---	ST
+
+
+164, 1	423, 1-3	SAR	*oh* *mam* fach	---	NST
+
+
+165, 1	424, 1-4	NON	o'n i meddwl na	---	NSNT
+
+
+166, 1	425, 1-3	SAR	baswn i fel	NSNT	NSNT
+166, 2	426, 1-5	SAR	*Begw* aros yn llonydd nawr	---	NST
+
+
+167, 1	427, 1-7	NON	*Non* cael tynnu yr *tin* yna *off*	---	NST
+
+
+168, 1	428, 1-15	SAR	*oh* na fi *oh* na *Jane* a *Katy* fi edrych ar_ôl ers timod eitha bach	NST	NST
+168, 2	429, 1-2	SAR	oedd *Katy*	NST	NST
+168, 3	429, 3-9	SAR	oedd hi yn dod i tŷ ni	NSNT	NSNT
+168, 4	430, 1-10	SAR	*um* oedd hi mond yn fodlon gadael fi wneud pethach	NST	NST
+168, 5	432, 1-8	SAR	fel pan oedd hi yn llai na blwydd	NSNT	NSNT
+168, 6	432, 10-22	SAR	mae hi yn eitha gwed eistedd yn côl fi mond yn côl fi	NSNT	NSNT
+168, 7	433, 1-3	SAR	oedd hi fel	NSNT	NSNT
+168, 8	434, 1-6	SAR	dyna yr unig ffordd bwytai hi	NSNT	NSNT
+168, 9	434, 7-16	SAR	oedd eistedd yn côl fi a fi yn ffido hi	NSNT	NSNT
+168, 10	435, 1-8	SAR	timod fel cegaid i *Sara* cegaid i *Katy*	---	NST
+
+
+169, 1	437, 1-2	NON	*oh* *cute*	---	NST
+
+
+170, 1	438, 1-2	SAR	oedd e	NSNT	NSNT
+170, 2	438, 3-5	SAR	oedd e funny	---	SNT
+
+
+171, 1	439, 1-7	NON	*oh* fi yn dwlu ar plant twel	---	NST
+
+
+172, 1	440, 1-2	SAR	a fi	---	NSNT
+
+
+173, 1	441, 1-14	NON	o'n o'n i ddim arfer dim tan i *um* cousins i fi gael plant	NST	ST
+173, 2	443, 1-3	NON	mae nhw wahanol	NSNT	NSNT
+173, 3	443, 4-11	NON	pan mae nhw yn perthyn i ti though	SNT	SNT
+173, 4	445, 1-13	NON	ond sa i wedi gweld *Wil* o_gwbl ers fi ddod lan i coleg	NST	NST
+173, 5	446, 1-8	NON	*so* mae fe mynd i fod wedi altro	---	NST
+
+
+174, 1	447, 1-2	SAR	*oh* *wow*	---	NST
+
+
+175, 1	448, 1-11	NON	mae mynd i fod yn mynd i ysgol yn go glou	NSNT	NSNT
+175, 2	448, 12-12	NON	twel	---	NSNT
+
+
+176, 1	449, 1-14	SAR	fi yn disgwyl ymlaen i weld pawb fel Boxing Day yn *Weun* gyda mam_gu	---	ST
+
+
+177, 1	450, 1-10	NON	mae *Wil* mynd i fod yn dechrau ysgol haf nesa	---	NST
+
+
+178, 1	451, 1-1	SAR	*wow*	ST	NST
+178, 2	452, 1-14	SAR	*oh* na meddylia sa i wedi gweld rhan fwya o nhw ers diwedd Medi	---	NST
+
+
+179, 1	453, 1-5	NON	mae hynna yn amser hir	---	NSNT
+
+
+180, 1	454, 1-9	SAR	amser ti meddwl nôl mae fe yn ody fe	NSNT	NSNT
+180, 2	455, 1-2	SAR	*wow* ydy	---	NST
+
+
+181, 1	456, 1-6	NON	ni wedi wneud yn eitha da	---	NSNT
+
+
+182, 1	457, 1-2	SAR	odyn *wow*	---	NST
+
+
+183, 1	458, 1-13	NON	er fi fi yn siomedig bod fi wedi mynd mynd adre tair gwaith	NSNT	NSNT
+183, 2	459, 1-5	NON	hynna yn eitha *lot* dydy	---	NST
+
+
+184, 1	460, 1-7	SAR	fi wedi bod gartre mwy na hynna	---	NSNT
+
+
+185, 1	461, 1-9	NON	ar ddechrau ffordd yna o't ti mynd gartre *lot*	---	NST
+
+
+186, 1	462, 1-14	SAR	*yeah* ond whare teg oedd gyda fi esgus ar y ddechrau i fynd gartre	NST	NST
+186, 2	462, 15-20	SAR	oedd e whare teg i fi	---	NSNT
+
+
+187, 1	464, 1-4	NON	faint ti wedi bod	NSNT	NSNT
+187, 2	465, 1-5	NON	tair y fi wedi bod	NSNT	NSNT
+187, 3	467, 1-5	NON	ti *sure* wedi bod pump	---	NST
+
+
+188, 1	468, 1-5	SAR	daeth *Hywel* lan pen_blwydd fi	NST	NST
+188, 2	469, 1-5	SAR	oedd hwnna ar ben pythefnos	NSNT	NSNT
+188, 3	471, 1-7	SAR	es i gartre wedyn mewn tair achos	NSNT	NSNT
+188, 4	471, 8-12	SAR	oedd pawb yn mynd gartre	NSNT	NSNT
+188, 5	472, 1-13	SAR	a oedd raid fi mynd gartre mewn pedair achos anniversary dad_cu a mam_gu	NSNT	SNT
+188, 6	475, 1-3	SAR	wedyn oedd pythefnos	SNT	NSNT
+188, 7	476, 1-2	SAR	*so* *o_k*	---	NST
+
+
+189, 1	477, 1-6	NON	dwy waith ti wedi bod nawr	---	NSNT
+
+
+190, 1	478, 1-4	SAR	*yeah* wedyn oedd pythefnos	NST	NST
+190, 2	478, 5-8	SAR	a oedd wythnos ddarllen	NSNT	NSNT
+190, 3	480, 1-3	SAR	gartre i hwnna	NSNT	NSNT
+190, 4	481, 1-5	SAR	*so* hwnna yw yr trydydd	NST	NST
+190, 5	482, 1-9	SAR	a buais i gartre i hôl *ball* *gown* fi	NST	NST
+190, 6	483, 1-2	SAR	*so* pedwar	---	NST
+
+
+191, 1	484, 1-8	NON	un waith fwy na fi ti wedi bod	NSNT	NSNT
+191, 2	484, 9-9	NON	twel	NSNT	NSNT
+191, 3	486, 1-5	NON	o'n i meddwl bod ti	NSNT	NSNT
+191, 4	486, 6-12	NON	wedi bod adre *lot* mwy na fi	NST	NST
+191, 5	486, 13-13	NON	twel	---	NSNT
+
+
+192, 1	487, 1-2	SAR	*phone* fi	---	NST
+
+
+193, 1	488, 1-5	NON	o'n i yn meddwl hynny	---	NSNT
+
+
+194, 1	489, 1-5	SAR	mae *phone* fi yn mynd	---	NST
+
+
+195, 1	490, 1-4	NON	ond sa i gwybod	NSNT	NSNT
+195, 2	491, 1-9	NON	fel tymor nesa y fi meddwl am fynd adre	---	NSNT
+
+
+196, 1	492, 1-8	SAR	fi meddwl fi yn plano peidio mynd gartre	NSNT	NSNT
+196, 2	493, 1-9	SAR	does yna ddim_byd yna i dynnu fi gartre nawr	NSNT	NSNT
+196, 3	494, 1-4	SAR	pam dylsen i fynd	SNT	NSNT
+196, 4	495, 1-2	SAR	*jiw* *jiw*	---	NST
+
+
+197, 1	496, 1-13	NON	mae o yn eitha *hectic* os ti mynd adre am ychydig o ddiwrnodau	NST	NST
+197, 2	497, 1-8	NON	ond bydd e wahanol i fi nawr achos	NSNT	NSNT
+197, 3	497, 9-17	NON	bydd dydd Gwener a dydd Llun i_ffwrdd gyda fi	NSNT	NSNT
+197, 4	498, 1-2	NON	*so* falle	NST	NST
+197, 5	500, 1-2	NON	bydd e	NSNT	NSNT
+197, 6	500, 3-7	NON	werth i fi fynd adre	---	NSNT
+
+
+198, 1	501, 1-8	SAR	*right* ti moyn clywed *um* trefniadau nos fory	NST	NST
+198, 2	503, 1-4	SAR	*Llio* wedi text_o fi	ST	ST
+198, 3	504, 1-2	SAR	hang on	SNT	NSNT
+198, 4	505, 1-3	SAR	trefniadau nos fory	---	NSNT
+
+
+199, 1	506, 1-1	NON	*Llio*	ST	NST
+199, 2	507, 1-1	NON	pwy	SNT	NSNT
+199, 3	508, 1-1	NON	*Llio*	---	NST
+
+
+200, 1	509, 1-1	SAR	*Llio*	---	NST
+
+
+201, 1	510, 1-4	NON	lovely mynd mas gyda	---	SNT
+
+
+202, 1	511, 1-1	SAR	*Eddie*	ST	NST
+202, 2	513, 1-3	SAR	dyna ni fe	---	NSNT
+
+
+203, 1	514, 1-4	NON	mae hi yn lovely	---	SNT
+
+
+204, 1	515, 1-7	SAR	oedden nhw gweithio gyda fi yn *G_E*	NST	NST
+204, 2	515, 8-8	SAR	twel	---	NSNT
+
+
+205, 1	516, 1-2	NON	oedd hi	---	NSNT
+
+
+206, 1	517, 1-4	SAR	mae perthyn i fi	NSNT	NSNT
+206, 2	518, 1-9	SAR	a oedd hi yn gweithio gyda fi yn *G_E*	NST	NST
+206, 3	519, 1-11	SAR	a oedd hi yn chweched pryd o'n i yn blwyddyn deg	NSNT	NSNT
+206, 4	521, 1-7	SAR	*yeah* pryd o'n i yn blwyddyn deg	NST	NST
+206, 5	522, 1-5	SAR	*um* na falle blwyddyn un_ar_ddeg	NST	NST
+206, 6	523, 1-13	SAR	*so* o'n nhw fel yr it *gang* ddim yn bles gyda hwnna *hmm*	---	ST
+
+
+207, 1	524, 1-2	NON	ond anyway	---	SNT
+
+
+208, 1	526, 1-7	SAR	achos o'n i yn ffrindiau gyda chweched	NSNT	NSNT
+208, 2	528, 1-6	SAR	achos oedd *Elin* hefyd yn chweched	---	NST
+
+
+209, 1	529, 1-2	NON	*oh* *cool*	---	NST
+
+
+210, 1	530, 1-2	SAR	*so* oedd	NST	NST
+210, 2	532, 1-7	SAR	*bus* yn mynd am saith_ish o *Bach*	---	ST
+
+
+211, 1	533, 1-1	NON	sorted	---	NSNT
+
+
+212, 1	534, 1-1	SAR	wedyn	NSNT	NSNT
+212, 2	535, 1-3	SAR	*so* o *Bach*	NST	NST
+212, 3	536, 1-5	SAR	*so* bod yn ar_gyfer saith_ish	ST	ST
+212, 4	537, 1-13	SAR	wedyn lan i *Glanrafon* *stop* fach yn *Llanina* a wedyn draw i *Key_West*	ST	NST
+212, 6	539, 1-2	SAR	*nice* *Llanina*	ST	NST
+212, 7	540, 1-7	SAR	fi heb fod i *Llanina* ers oesau	---	NST
+
+
+213, 1	541, 1-5	NON	*Llanina* yn *nice* yn_dyw e	NST	NST
+213, 2	542, 1-4	NON	fi yn lico *Llanina*	---	NST
+
+
+214, 1	543, 1-9	SAR	fi wedi cael *couple* o nosweithi da yn *Llanina*	NST	NST
+214, 2	544, 1-5	SAR	a wedyn y ffordd nôl	NSNT	NSNT
+214, 3	545, 1-3	SAR	gadael *Key_West* rhywbryd	---	NST
+
+
+215, 1	546, 1-5	NON	*oh* mae hi yn lovely	ST	ST
+215, 2	547, 1-4	NON	fi yn lico hi	---	NSNT
+
+
+216, 1	548, 1-8	SAR	wedyn nôl i *Ty'r_Garreg* *Pont_Sian* *Capel_Dewi* *Llanfihangel* *Llandysul*	ST	NST
+216, 2	549, 1-4	SAR	spread the word diolch	---	SNT
+
+
+217, 1	550, 1-2	NON	*oh* *nice*	ST	NST
+217, 2	551, 1-10	NON	ody *Bethan* yn dod gyda chi ar y *bus* nawr	NST	NST
+217, 3	553, 1-5	NON	*oh* fi yn excited nawr	---	ST
+
+
+218, 1	554, 1-1	SAR	*yey*	---	NST
+
+
+219, 1	555, 1-14	NON	fi lawer mwy excited i i *Queen's_Ball* twel na pethau fel *Clwb_Cymru* a *Occy*	---	ST
+
+
+220, 1	556, 1-2	SAR	wyt ti	---	NSNT
+
+
+221, 1	557, 1-3	NON	*oh* big time	---	NST
+
+
+222, 1	558, 1-3	SAR	*yeah* fi mynd	NST	NST
+222, 2	559, 1-13	SAR	sa i yn gwybod o'n i ddim yn excited iawn i *Occy* neithiwr	NST	ST
+222, 3	560, 1-10	SAR	sa i yn gweud bod fi wedi cael dim un	NSNT	NSNT
+222, 4	560, 11-14	SAR	noson *fantastic* yn *Occy*	---	NST
+
+
+223, 1	561, 1-3	NON	na na fi	---	NSNT
+
+
+224, 1	562, 1-9	SAR	sa i wedi cael dim un noson *fantastic* yna	NST	NST
+224, 2	563, 1-4	SAR	oedd neithiwr yn iawn	---	NSNT
+
+
+225, 1	564, 1-5	NON	*yeah* iawn oedd e yfe	---	NST
+
+
+226, 1	565, 1-1	SAR	neithiwr	NSNT	NSNT
+226, 2	566, 1-9	SAR	mae golau fi wedi mynd i coch unwaith eto	---	NSNT
+
+
+227, 1	567, 1-4	NON	*oh* a fi hefyd	---	NST
+
+
+228, 1	568, 1-3	SAR	mae *battery* mewn	---	NST
+
+
+229, 1	569, 1-6	NON	falle bod e *just* yn meddwl	NST	NST
+229, 2	569, 7-13	NON	bod e mynd i fennu cyn hir	---	NSNT
+
+
+230, 1	570, 1-8	SAR	*yeah* mae golau coch eitha cryf gyda fi	ST	NST
+230, 2	571, 1-2	SAR	*oh* *well*	---	NST
+
+
+231, 1	572, 1-2	NON	a fi	---	NSNT
+
+
+232, 1	573, 1-3	SAR	ond *um* *yeah*	NST	NST
+232, 2	574, 1-9	SAR	na *Clwb_Cymru* *um* *Occy* neithiwr oedd hwnna yn iawn	---	NST
+
+
+233, 1	575, 2-3	NON	oedd hwnna	NSNT	NSNT
+233, 2	575, 4-8	NON	oedd e yn eitha da	NSNT	NSNT
+233, 3	576, 1-17	NON	ond peth yw fi yn credu ni wedi wneud y mynd mas i *Bangor* *thing* sut gymaint	---	NST
+
+
+233, 4	578, 1-10	NON	a so ni wedi wneud y mynd mas adre *thing*	---	NST
+
+
+235, 1	581, 1-4	NON	o'n dechrau mynd o'n	---	NSNT
+
+
+236, 1	582, 1-6	SAR	oedd ambell i weekend ti fel	NSNT	SNT
+236, 2	583, 1-5	SAR	*oh* yr un peth eto	NST	NST
+236, 3	584, 1-6	SAR	dyna i_gyd ŷn ni yn wneud	NSNT	NSNT
+236, 4	584, 7-10	SAR	yw mynd mas eighteenths	SNT	SNT
+236, 5	585, 1-7	SAR	so ni yn cwrdd â neb newydd	NSNT	NSNT
+236, 6	587, 1-5	SAR	dyna beth o'n i yn	NSNT	NSNT
+236, 7	588, 1-9	SAR	achos timod o'n i yn sengl ar y pryd	NSNT	NSNT
+236, 8	589, 1-4	SAR	a o'n i fel	NSNT	NSNT
+236, 9	590, 1-9	SAR	oedd pawb pob un fel sengl yn fel gweud	NSNT	NSNT
+236, 10	591, 1-9	SAR	*oh* so ni byth yn cwrdd â pobl newydd	NST	NST
+236, 11	592, 1-6	SAR	dyna i_gyd ni yn cwrdd â	NSNT	NSNT
+236, 12	592, 7-10	SAR	yw pobl ysgol bob	---	NSNT
+
+
+237, 1	593, 1-7	NON	*yeah* fi gwybod be sy gyn ti	---	NST
+238, 2	596, 1-2	SAR	ond wedyn	---	NSNT
+
+
+239, 1	597, 1-6	NON	*oh* na un noson yr wythnos	NST	NST
+239, 2	597, 7-13	NON	oedd hi pan o't ti adre definite	---	SNT
+
+
+240, 1	598, 1-6	SAR	*mmm* ambell waith dwy gyda ni	---	NST
+
+
+241, 1	599, 1-1	NON	anaml	NSNT	NSNT
+241, 2	600, 1-6	NON	*yeah* nos Wener a nos Sadwrn	---	NST
+
+
+242, 1	602, 1-6	SAR	*yeah* ambell waith dwy gyda ni	NST	NST
+242, 2	603, 1-3	SAR	*um* ond *yeah*	NST	NST
+242, 3	604, 1-15	SAR	eitha aml yn aros yn tafarn *G_E* twel i cael drink neu ddau ar_ôl gwaith	---	ST
+
+
+243, 1	605, 1-11	NON	*oh* *yeah* ond wyt ti yn cownto hwnna fel mynd allan	---	NST
+
+
+244, 1	609, 1-7	SAR	mynd mas i fi yw gwisgo lan	---	NSNT
+
+
+245, 1	610, 1-5	NON	*yeah* os ti gorffod newid	---	NST
+
+
+246, 1	611, 1-11	SAR	os os fi yn gorffod newid mae hwnna yn mynd mas	NSNT	NSNT
+246, 2	612, 1-2	SAR	ond *yeah*	NST	NST
+246, 3	613, 1-5	SAR	*so* bydd e yn wahanol	NST	NST
+246, 4	614, 1-4	SAR	bydd e yn *nice*	---	NST
+
+
+247, 1	615, 1-2	NON	mae yn	---	NSNT
+
+
+248, 1	616, 1-8	SAR	fi yn fi yn miso yr fel local	SNT	SNT
+248, 2	618, 1-18	SAR	fi yn dechrau lico mynd i *glub* nawr o ran *just* cael mynd i *glub* *game* o *pool*	---	NST
+
+
+249, 1	620, 1-2	NON	dyna beth	NSNT	NSNT
+249, 2	620, 3-7	NON	bydd yn *nice* nawr erbyn	NST	NST
+249, 3	620, 8-10	NON	bydda i nôl	NSNT	NSNT
+249, 4	620, 11-15	NON	bydd *lot* o merched *Club*	NST	NST
+249, 5	620, 16-19	NON	oedd ddim yn ddeunaw	NSNT	NSNT
+249, 6	620, 20-25	NON	bydd nhw wedi cael eu pen_blwydd	NSNT	NSNT
+249, 7	621, 1-7	NON	*so* allen ni wneud mwy o Gaerfyrddin	NST	NST
+249, 8	623, 1-2	NON	achos timod	NSNT	NSNT
+249, 9	623, 3-8	NON	oedd yna gyfnod dim ond fi	NSNT	NSNT
+249, 10	623, 9-13	NON	oedd gallu mynd i Gaerfyrddin	NSNT	NSNT
+249, 11	624, 1-10	NON	o'n i yn mynd gyda yr *boys* hena a *Carys*	NST	NST
+249, 12	626, 1-9	NON	a nawr mae nhw gyd yn gallu mynd *so*	---	NST
+
+
+250, 1	627, 1-1	SAR	*nice*	ST	NST
+250, 2	628, 1-14	SAR	dw na sa i wedi wneud gymaint â hynny gyda *Club* ers blwyddyn deg	NST	NST
+250, 3	629, 1-8	SAR	timod amser o'n i yn wneud *novel* tŷ	NST	NST
+250, 4	631, 1-11	SAR	oedd hwnna yn mynd â eitha *lot* o amser achos fi	NST	NST
+250, 5	631, 12-16	SAR	oedd yn email_o bob nos	NSNT	SNT
+250, 6	632, 1-10	SAR	a *um* *so* *well* o'n i fel *pph* dim amser	NST	NST
+250, 7	633, 1-11	SAR	oedd e yn cymryd cymaint o amser lan yr holl *practices*	NST	NST
+250, 8	634, 1-10	SAR	achos mae nhw yn mynd yn *serious* amboutu yr *stuff*	---	NST
+
+
+251, 1	636, 1-2	NON	pwy nawr	---	NSNT
+
+
+252, 1	639, 1-12	SAR	sa i yn gweud o'n nhw yn wneud pethach yn really good	SNT	SNT
+252, 2	641, 1-12	SAR	a amser o'n i wneud fel Hanner_Awr_O_Adloniant *panto* joiais i wneud nhw	NST	NST
+252, 3	642, 1-1	SAR	ond	---	NSNT
+
+
+253, 1	643, 1-3	NON	*oh* *panto* *yeah*	---	NST
+
+
+254, 1	644, 1-7	SAR	timod ti yn dod i flwyddyn deg	NSNT	NSNT
+254, 2	644, 8-12	SAR	oedd gyda ti gwaith cwrs	NSNT	NSNT
+254, 3	646, 1-4	SAR	o'n i fel *oh*	NST	NST
+254, 4	647, 1-6	SAR	o'n i a oedd *novel* tŷ	NST	NST
+254, 5	648, 1-4	SAR	o'n i dechrau fflago	NSNT	NSNT
+254, 6	649, 1-4	SAR	o'n i fel *ugh*	NST	NST
+254, 7	650, 1-9	SAR	*so* wnes i *just* cut_o fe lawr pryd hynny	NST	ST
+254, 8	651, 1-7	SAR	wnes i ddim *lot* blwyddyn un_ar_ddeg achos	NST	NST
+254, 9	652, 1-7	SAR	pam wnes i ddim ailddechrau blwyddyn un_ar_ddeg	NSNT	NSNT
+254, 10	653, 1-4	SAR	sa i yn gwybod	NSNT	NSNT
+254, 11	654, 1-6	SAR	*just* wnes i ddim ailddechrau nôl	---	NST
+
+
+255, 1	655, 1-9	NON	wnes i ffeindio pan o'n i yn blwyddyn un_ar_ddeg	NSNT	NSNT
+255, 2	656, 1-4	NON	dyna flwyddyn y *panto*	NST	NST
+255, 3	658, 1-9	NON	a o'n ni yn ymarfer bob nos am oriau	---	NSNT
+
+
+256, 1	660, 1-2	SAR	dyna beth	NSNT	NSNT
+256, 2	660, 4-5	SAR	dyna beth	NSNT	NSNT
+256, 3	660, 6-9	SAR	oedd e gyda fi	NSNT	NSNT
+256, 4	661, 1-4	SAR	pryd wnes i Hanner_Awr_O_Adloniant	---	NSNT
+
+
+257, 1	662, 1-4	NON	blwyddyn deg oedd hwnna	NSNT	NSNT
+257, 2	662, 5-6	NON	mae *sure*	---	NST
+
+
+258, 1	663, 1-2	SAR	*yeah* *sure*	---	NST
+
+
+259, 1	664, 1-5	NON	achos blwyddyn un_ar_ddeg oedd *drama*	NST	NST
+259, 2	665, 1-4	NON	blwyddyn deuddeg oedd Hanner_Awr	NSNT	NSNT
+259, 3	666, 1-8	NON	achos mae nhw yn mynd Hanner_Awr *drama* *panto*	---	NST
+
+
+260, 1	668, 1-8	SAR	*right* *well* blwyddyn deg wnes i Hanner_Awr de	NST	NST
+260, 2	669, 1-5	SAR	a wnes i peth *panto*	NST	NST
+260, 3	670, 1-2	SAR	wnes i	NSNT	NSNT
+260, 4	671, 1-2	SAR	do achos	NSNT	NSNT
+260, 5	671, 3-4	SAR	wnes i	NSNT	NSNT
+260, 6	671, 5-10	SAR	wnes i ffilmo i yr *panto*	NST	NST
+260, 7	673, 1-8	SAR	wnes i ddim y *panto* ar y noson	NST	NST
+260, 8	674, 1-4	SAR	wnes i *just* ffilmo	NST	NST
+260, 9	675, 1-6	SAR	oedd hwnna cymryd llai o amser	NSNT	NSNT
+260, 10	676, 1-7	SAR	a o'n i isie helpu nhw mas	NSNT	NSNT
+260, 11	678, 1-3	SAR	ond *um* *yeah*	---	NST
+
+
+261, 1	680, 1-10	NON	dyna o gloch o't ti yn cyrraedd adre o ysgol	NSNT	NSNT
+261, 2	682, 1-3	NON	hanner wedi pedwar	NSNT	NSNT
+261, 3	684, 1-8	NON	sut oedd e yn cymryd gymaint o amser	---	NSNT
+
+
+262, 1	685, 1-3	SAR	sa i gwybod	NSNT	NSNT
+262, 2	686, 1-10	SAR	achos o'n ni fod lan i *Gorrig* erbyn amboutu pedwar	---	NST
+
+
+263, 1	687, 1-1	NON	*Gorrig*	ST	NST
+263, 2	688, 1-2	NON	lle mae	---	NSNT
+
+
+264, 1	689, 1-1	SAR	*Gorrig*	ST	NST
+264, 2	690, 1-2	SAR	neu *Horeb*	NST	NST
+264, 3	691, 1-3	SAR	*Horeb* fi meddwl	NST	NST
+264, 4	692, 1-4	SAR	a *um* *top* *Llandysul*	NST	NST
+264, 5	693, 1-15	SAR	o'n ni gorffod aros fan yna i *um* *bus* Castellnewydd ddod i gwrdd â ni	NST	NST
+264, 6	695, 1-11	SAR	wedyn o'n ni yn swopo pobl yn swopo *buses* fan yna	NST	NST
+264, 7	696, 1-6	SAR	wedyn o'n i yn mynd gartre	NSNT	NSNT
+264, 8	697, 1-10	SAR	o'n i ddim gartre tan amboutu hanner awr wedi pedwar	NSNT	NSNT
+264, 9	698, 1-12	SAR	*so* meddylia di cyrraedd gartre hanner awr wedi pedwar newid cael rywbeth	NST	NST
+264, 10	698, 13-16	SAR	timod cael te achos	NSNT	NSNT
+264, 11	698, 17-24	SAR	oedd *lot* o amser oddi_ar amboutu ers cinio	NST	NST
+264, 12	701, 1-5	SAR	cael te *um* gwaith cartre	NST	NST
+264, 13	702, 1-7	SAR	os oes isie shower ar ti which	NSNT	SNT
+264, 14	704, 1-1	SAR	especially	SNT	NSNT
+264, 15	705, 1-10	SAR	a o'n i fel shower *quick* *supper* *straight* i *practice*	---	ST
+
+
+265, 1	706, 1-4	NON	mae hwnna yn hard_going	---	SNT
+
+
+266, 1	707, 1-7	SAR	*practice* tan o leia un_ar_ddeg y nos	NST	NST
+266, 2	708, 1-5	SAR	a timod pobl yn gweithio	NSNT	NSNT
+266, 3	709, 1-17	SAR	*so* oedd y *practice* yn dechrau rywbeth fel wyth *o_k* a pobl *just* yn cyrraedd *dribs* *drabs*	NST	NST
+266, 4	710, 1-17	SAR	timod o'n nhw yn disgwyl i ni fod yna am wyth achos ŷn ni mond yn ysgol	NSNT	NSNT
+266, 5	712, 1-6	SAR	timod a o'n i yn llai	NSNT	NSNT
+266, 6	713, 1-7	SAR	o'n i ddim yn cael yn excuse_o	SNT	SNT
+266, 7	714, 1-7	SAR	*oh* ble ti wedi bod tan nawr	NST	NST
+266, 9	718, 1-6	SAR	oedd hwnna yn pisan pawb *off*	---	NST
+
+
+267, 1	719, 1-4	NON	ody mae yn anodd	NSNT	NSNT
+267, 2	719, 5-12	NON	pan does dim o yr amser gyda ti	---	NSNT
+
+
+268, 1	720, 1-5	SAR	*oh* oedd pisan pawb *off*	NST	NST
+268, 2	720, 6-9	SAR	pryd oedd *lot* o	NST	NST
+268, 3	721, 1-7	SAR	fel os oedd amser gyda yr pobl	NSNT	NSNT
+268, 4	721, 8-24	SAR	oedd yn trefnu fe os o'n nhw yn iawn am y noson *ooh* digon o a pethau	NST	NST
+268, 5	724, 1-6	SAR	wedyn *practice* tan hwyr y nos	NST	NST
+268, 6	725, 1-4	SAR	timod ti wedi blino	---	NSNT
+
+
+269, 1	726, 1-9	NON	*couple* o ddrinks ar_ôl *practice* wedyn wastad gyda ni	---	ST
+
+
+270, 1	727, 1-4	SAR	na byth gyda ni	NSNT	NSNT
+270, 2	729, 1-7	SAR	na byth *couple* o drinks ar_ôl *practice*	NST	ST
+270, 3	730, 1-10	SAR	*well* o'n ni ddim yn bennu practeiso tan amboutu un_ar_ddeg	---	NST
+
+
+271, 1	731, 1-3	NON	gyda ni twel	NSNT	NSNT
+271, 2	731, 4-13	NON	bydden ni yn mynd am *gouple* o ddrinks tan ddeuddeg	---	ST
+
+
+272, 1	732, 1-2	SAR	na byth	NSNT	NSNT
+272, 2	733, 1-12	SAR	*well* timod *well* o'n i yn blentyn ysgol blwyddyn deg pryd hynny	---	NST
+
+
+273, 1	734, 1-2	NON	ond timod	NSNT	NSNT
+273, 2	734, 3-13	NON	mae yn anodd pan ti cael ymarferion fel yna bob nos	---	NSNT
+
+
+274, 1	735, 1-5	SAR	*oh* ody am gyfnod hir	NST	NST
+274, 2	737, 1-8	SAR	*sure* mae mynd ymlaen amboutu mis cyn e	---	NST
+
+
+275, 1	738, 1-15	NON	fi cofio cyfnod twel o'n i yn wneud *um* mynd i ysgol bob dydd wedyn	NST	NST
+275, 2	738, 17-22	NON	oedd hi yn gyfnod *steddfod* ysgol	NST	NST
+275, 3	739, 1-11	NON	*so* oedd *steddfod* ysgol gyda ni ar ar_ôl *practice* ar_ôl ysgol	NST	NST
+275, 4	741, 1-10	NON	*so* o'n i mynd adre gyda yn chwaer am bump	NST	NST
+275, 5	742, 1-8	NON	o'n i yn cyrraedd adre hanner wedi pump	NSNT	NSNT
+275, 6	744, 1-12	NON	a wedyn cael *supper* glou a wedyn mynd i *practice* Ffermwyr_Ifanc erbyn	NST	NST
+275, 7	746, 1-4	NON	hanner wedi saith wedyn	---	NSNT
+
+
+275, 8	747, 1-3	NON	oedd e galed	NSNT	NSNT
+276, 3	751, 1-8	SAR	ar_ôl hwnna wnes i *sure* o fod fflago	NST	NST
+276, 4	753, 1-1	SAR	yn_dyfe	---	NSNT
+
+
+277, 1	754, 1-4	NON	*yeah* mae yn hard_going	ST	ST
+277, 2	754, 5-5	NON	twel	---	NSNT
+
+
+278, 1	755, 1-8	SAR	*well* achos o'n i yn yn ysgol bob	NST	NST
+278, 2	756, 1-8	SAR	dyna yr *bit* mwya joiais i *novel* tŷ	NST	NST
+278, 3	757, 1-10	SAR	bob gwasanaeth o'n i cael miso i wneud *novel* tŷ	---	NST
+
+
+279, 1	758, 1-2	NON	*oh* *nice*	---	NST
+
+
+280, 1	759, 1-9	SAR	*um* *so* o'n i wneud *novel* tŷ yn bore	NST	NST
+280, 2	760, 1-15	SAR	*so* o'n i gorffod anfon emails i *Claire* yn nos wedyn fel feedback te dyfe	NST	ST
+280, 3	762, 1-5	SAR	oedd gwaith sgwennu lan beth	NSNT	NSNT
+280, 4	762, 6-12	SAR	oedd pawb wedi gweud a anfon hwnna	---	NSNT
+
+
+281, 1	763, 1-6	NON	ond buais i yn lwcus really	SNT	SNT
+281, 2	764, 1-16	NON	achos yn y cyfnod pan o'n i yn *captain* *steddfod* oedd gyda ni fel *um* *drama*	NST	NST
+281, 3	764, 17-18	NON	oedd Ffermwyr_Ifanc	NSNT	NSNT
+281, 4	766, 1-11	NON	a fel gyda *drama* ryw wyth *person* sy angen yno fe	---	NST
+
+
+282, 1	768, 1-6	SAR	*so* o't ti ddim yn_do fe	---	NST
+
+
+283, 1	769, 1-2	NON	na *so*	NST	NST
+283, 2	770, 1-12	NON	a tibod mae nhw yn dewis yr aelodau hena i wneud e	NSNT	NSNT
+283, 3	772, 1-6	NON	*so* buais i yn lwcus really	ST	ST
+283, 4	773, 1-17	NON	pan gyda rywbeth fel *panto* mae nhw yn trial wneud rywbeth i gael yr aelodau gyd ynghlwm	NST	NST
+283, 5	773, 18-19	NON	â fe	---	NSNT
+
+
+284, 1	776, 1-5	SAR	*well* fel yna oedd Hanner_Awr_O_Adloniant	---	NST
+
+
+285, 1	777, 3-9	NON	mae rhan i bawb fan yna yn_does	---	NSNT
+
+
+286, 1	778, 1-7	SAR	mae fe eitha energetic *thing* i wneud	NST	ST
+286, 3	781, 1-4	SAR	joiais i fe though	SNT	SNT
+286, 4	782, 1-5	SAR	wnes i really joio hwnna	---	SNT
+
+
+287, 1	783, 1-11	NON	*oh* *panto* ni wnes i gasáu e bob munud ohono fe	NST	NST
+287, 2	784, 1-9	NON	hyd_yn_oed perfformio fe wnes i ddim really mwynhau *lot*	NST	ST
+287, 3	787, 1-4	NON	oedd e yn *um*	NST	NST
+287, 4	788, 1-5	NON	y *broblem* gyda ni oedd	NST	NST
+287, 5	788, 6-15	NON	oedd e *just* ddim wedi cael ei drefnu yn iawn	NST	NST
+287, 6	789, 1-7	NON	*so* oedd gyda ti yr prif gymeriadau	NST	NST
+287, 7	791, 2-5	NON	oedd pawb yn cael	NSNT	NSNT
+287, 8	791, 6-10	NON	eu galw i bob ymarfer	NSNT	NSNT
+287, 9	793, 1-10	NON	pan oedd angen really ymarferion ar_wahân gyda yr prif gymeriadau	---	SNT
+
+
+288, 1	796, 1-13	SAR	*oh* na o'n i yn oedd gyda nhw ymarferion i yr prif gymeriadau	NST	NST
+288, 2	797, 1-8	SAR	a wedyn oedd gyda ti ymarferion pawb le	NSNT	NSNT
+288, 3	797, 9-17	SAR	oedd pawb yn wneud y dance moves a popeth	NSNT	SNT
+288, 4	799, 1-14	SAR	ond timod erbyn diwedd o't ti yn gorffod cael run_throughs trwy bob nos yfe	NSNT	SNT
+288, 5	801, 1-2	SAR	ond timod	NSNT	NSNT
+288, 6	801, 3-12	SAR	oedd e yn iawn achos o'n i joio watsio fe	NSNT	NSNT
+288, 7	802, 1-6	SAR	timod o'n ni yn cael *sport*	NST	NST
+288, 8	803, 1-12	SAR	o'n nhw yn wneud *nonsense* a whare dwli ambell i nos a	---	NST
+
+
+289, 1	804, 1-8	NON	*yeah* ond timod os ti angen mynd adre	NST	NST
+289, 2	804, 9-22	NON	mae hynna *just* yn mynd ar dy *nerves* di pan pobl yn mess_o amboutu	---	ST
+
+
+290, 1	805, 1-1	SAR	ody	NSNT	NSNT
+290, 2	806, 1-1	SAR	ody	NSNT	NSNT
+290, 3	807, 1-7	SAR	achos dyna beth o'n i yn gweud	NSNT	NSNT
+290, 4	808, 1-16	SAR	o'n i mynd yn pissed *off* amser oedd pobl fel yn *um* dim dechrau ar amser	---	ST
+
+
+291, 1	809, 1-19	NON	a pan o't ti wneud ymdrech i fod i bob ymarfer oedd pobl eraill ddim yn troi lan a	NSNT	NSNT
+291, 2	811, 1-14	NON	a fi yn cofio buais i *just* yn sefyll yn rhai o yr ymarferion	NST	NST
+291, 3	812, 1-12	NON	a o't ti *just* yn sefyll yn y background yn y corws	NST	ST
+291, 4	813, 1-10	NON	ti yn sefyll yna am awr ddim yn wneud dim_byd	---	NSNT
+
+
+292, 1	814, 1-14	SAR	*mmm* ond fi yn credu os byswn i wedi wneud Hanner_Awr_Adloniant neu *panto* amser	NST	NST
+292, 2	814, 15-27	SAR	oedden ni yn y chweched pryd o'n i bach mwy hyderus fi credu	NSNT	NSNT
+292, 3	814, 28-29	SAR	bydden i	NSNT	NSNT
+292, 4	814, 30-39	SAR	wedi bod yn mynd â gwaith ysgol fi gyda fi	---	NSNT
+
+
+293, 1	816, 1-10	NON	do buais i yn mynd â peth ar ryw *boint*	NST	NST
+293, 2	817, 1-6	NON	na leni buais i mynd â	NSNT	NSNT
+293, 3	818, 1-12	NON	*oh* amser Hanner_Awr_O_Adloniant leni o'n i mynd â *theory* cerdd gyda fi	NST	NST
+293, 4	820, 1-5	NON	o'n i wneud gwaith *theory*	---	NST
+
+
+294, 1	821, 1-2	SAR	*well* timod	NST	NST
+294, 2	821, 3-11	SAR	eistedd yna wneud dim_byd ethen i gwaith gyda fi	NSNT	NSNT
+294, 3	822, 1-10	SAR	dyna lle o'n i cael fwya o adolygu wedi wneud	NSNT	NSNT
+294, 4	822, 11-14	SAR	oedd yn y *doctor*	---	NST
+
+
+295, 1	825, 1-3	NON	yn y waiting_room	SNT	SNT
+295, 2	827, 1-7	NON	weithiau ti gorffod aros am awr though	SNT	SNT
+295, 3	828, 1-8	NON	*so* mae gyda amser gyda ti yn_does e	NST	NST
+295, 4	829, 1-4	NON	fi yn joio yr	---	NSNT
+
+
+296, 1	830, 1-19	SAR	a o'n i o'n i gyda yr *nonsense* yma *um* amser o'n i gorffod cael *lot* o blood *tests*	ST	ST
+296, 2	831, 1-9	SAR	ti gorffod wneud *sure* bod y *nurse* ar gael	ST	NST
+296, 3	832, 1-9	SAR	but ran fwya o amser o'n i yn lwcus	NSNT	SNT
+296, 4	833, 1-3	SAR	o'n nhw fel	NSNT	NSNT
+296, 5	834, 1-5	SAR	*oh* *yeah* ti yn ysgol	NST	NST
+296, 6	835, 1-7	SAR	*um* ti yn amser prysur nawr arholiadau	NST	NST
+296, 7	836, 1-5	SAR	wneith y *doctor* roi ti	NST	NST
+296, 8	837, 1-5	SAR	ond es i ryw dro	NSNT	NSNT
+296, 9	838, 1-9	SAR	a oedd raid fi *just* mynd i open *surgery*	ST	ST
+296, 10	839, 1-9	SAR	a o'n i ddim yn gwybod pwy oedd arno	NSNT	NSNT
+296, 11	840, 1-12	SAR	oedd raid fi *just* cymryd e achos o'n i yn gorffod mynd	NST	NST
+296, 12	842, 1-8	SAR	a *um* cael y *doctor* sa i lico	---	NST
+
+
+297, 1	843, 1-7	NON	*oh* *yeah* mae wastad favourite gyda ti	---	ST
+
+
+298, 1	844, 1-3	SAR	oedd hi fel	SNT	NSNT
+298, 2	845, 1-8	SAR	*yeah* *right* you need a blood *test* now	ST	NST
+298, 3	846, 1-10	SAR	*o_k* timod dechrau cael sleeve fi lan fel hyn iawn	ST	ST
+298, 4	847, 1-10	SAR	no no you will have to *queue* for the *nurse*	ST	NST
+298, 5	849, 1-5	SAR	timod fi isie mynd gartre	---	NSNT
+
+
+299, 1	850, 1-4	NON	byswn i wedi mynd	---	NSNT
+
+
+300, 1	851, 1-5	SAR	ti gallu gweld llyfrau fi	---	NSNT
+
+
+301, 1	852, 1-6	NON	byswn i wedi mynd yn nuts	---	SNT
+
+
+302, 1	854, 1-4	SAR	*oh* a timod *oh*	---	NST
+
+
+303, 1	855, 1-8	NON	mae wastad pan ti mynd at y *doctor*	NST	NST
+303, 2	855, 9-17	NON	mae gyda ti un ti moyn gweld yn_does e	---	NSNT
+
+
+304, 1	856, 1-16	SAR	fi yn cofio ryw dro *um* pryd o'n i sâl sâl cyn arholiad llafar Cymraeg fi	NST	NST
+304, 2	857, 1-8	SAR	*well* o'n i wedi bod yn sâl nawr	NST	NST
+304, 3	858, 1-7	SAR	o'n i mynd i *doctor* dydd Iau	NST	NST
+304, 4	859, 1-9	SAR	o'n i meddwl dim wedi gwella dim dydd Gwener	NSNT	NSNT
+304, 5	860, 1-7	SAR	oedd dim *doctors* i gael dydd Sadwrn	NST	NST
+304, 6	861, 1-5	SAR	a *um* timod dydd Sul	NST	NST
+304, 7	861, 6-11	SAR	oedd gwddw fi cau lan gorffod	NSNT	NSNT
+304, 8	861, 12-15	SAR	galw *doctor* arall mas	NST	NST
+304, 9	862, 1-7	SAR	pallodd hi ddod mas i weld fi	NSNT	NSNT
+304, 10	864, 1-5	SAR	a timod *mam* a *dad*	NST	NST
+304, 11	864, 6-11	SAR	oedd *mam* yn ffonio i ddechrau	NST	NST
+304, 12	865, 1-6	SAR	fenyw ddim yn gwrando ar *mam*	NST	NST
+304, 13	866, 1-3	SAR	oedd *mam* yn	NST	NST
+304, 14	866, 4-9	SAR	timod yn seriously becso amboutu fe	NSNT	SNT
+304, 15	867, 1-6	SAR	oedd gwddwg fi yn cau lan	NSNT	NSNT
+304, 16	868, 1-4	SAR	o'n i *just* fel	---	NST
+
+
+305, 1	869, 1-2	NON	*oh* wael	---	NST
+
+
+306, 1	870, 1-3	SAR	oedd *mam* fel	NST	NST
+306, 2	870, 4-7	SAR	timod gweud wrtho *dad*	NST	NST
+306, 3	871, 1-6	SAR	so hi yn gwrando arno fi	NSNT	NSNT
+306, 5	874, 1-6	SAR	*dad* yn mynd ar y *phone*	ST	NST
+306, 6	875, 1-7	SAR	*er* seriously now she is seriously ill	ST	NST
+306, 7	876, 1-3	SAR	a gweud timod	NSNT	NSNT
+306, 8	876, 4-20	SAR	bod fi wedi cael un *set* o *antibiotics* gwddwg fi yn totally gwyn ac yn cau lan	NST	ST
+306, 9	877, 1-2	SAR	fenyw mynd	NSNT	NSNT
+306, 10	878, 1-3	SAR	*yeah* does dim_byd	NST	NST
+306, 11	878, 4-7	SAR	mae nhw gallu wneud	NSNT	NSNT
+306, 12	879, 1-12	SAR	achos so ti gallu cael blood *test* tan dydd Llun beth bynnag	NST	ST
+306, 13	880, 1-6	SAR	mae yn swno fel glandular fever	SNT	SNT
+306, 14	881, 1-9	SAR	*so* so blood so *antibiotics* mynd i gwella fe	NST	ST
+306, 15	882, 1-4	SAR	o'n i *just* fel	NST	NST
+306, 16	883, 1-1	SAR	beth	NSNT	NSNT
+306, 17	884, 1-6	SAR	mae gyda fi arholiad llafar fory	NSNT	NSNT
+306, 18	887, 1-5	SAR	a *um* o'n i fel	NST	NST
+306, 19	889, 1-3	SAR	ffonio *Sioned_Adams* lan	NST	NST
+306, 20	890, 1-2	SAR	hi fel	NSNT	NSNT
+306, 21	891, 1-10	SAR	*oh* ti seriously ddim yn gallu wneud e fel yna	NST	ST
+306, 22	892, 1-6	SAR	achos cyn bod ti yn gwenwyno	NSNT	NSNT
+306, 23	892, 7-11	SAR	mae *bound* o fod rywbeth	NST	NST
+306, 24	892, 12-13	SAR	yn bod	NSNT	NSNT
+306, 25	894, 1-11	SAR	a *um* achos cyn hynna o'n i byth yn colli ysgol	NST	NST
+306, 26	895, 1-3	SAR	a *um* iawn	NST	NST
+306, 27	896, 1-8	SAR	*so* mynd i yr *doctor* bore wedyn hynny	NST	NST
+306, 28	897, 1-9	SAR	achos oedd raid fi cael papur *doctor* erbyn hynny	NST	NST
+306, 30	901, 1-3	SAR	a wedon nhw	NSNT	NSNT
+306, 31	902, 1-3	SAR	*right* *well* timod	NST	NST
+306, 32	903, 1-2	SAR	*mam* gweud	ST	NST
+306, 33	904, 1-15	SAR	no way mae mynd i a aros yn *surgery* am gymaint â hynny o amser	NST	ST
+306, 34	906, 1-5	SAR	achos o'n i mor dost	NSNT	NSNT
+306, 35	907, 1-15	SAR	a *um* *well* timod o'n i dod i yr *point* ble o'n i ffaelu bwyta	NST	NST
+306, 36	909, 1-9	SAR	*so* timod o'n i yn really wan a chwbl	NST	ST
+306, 37	910, 1-13	SAR	*um* oedd y fenyw wrth y *desk* wedi roi amser *wrong* i fi	NST	NST
+306, 38	911, 1-13	SAR	oedd hi wedi gweud wrtho fi ddod mewn awr yn gynt na beth	NSNT	NSNT
+306, 39	911, 14-18	SAR	oedd y *doctor* yn cyrraedd	NST	NST
+306, 40	913, 1-9	SAR	*so* buais i yn eistedd yn *surgery* y *doctor*	NST	NST
+306, 41	914, 1-3	SAR	fel really fel	NSNT	SNT
+306, 42	916, 1-3	SAR	a mam_gu fel	SNT	NSNT
+306, 43	917, 1-6	SAR	*oh* my God ti yn iawn	NST	ST
+306, 44	918, 1-14	SAR	achos o'n i *just* yn really wyn doedd achos bod fi ddim yn bwyta	NST	ST
+306, 45	920, 1-6	SAR	a yr *nurses* yn dod mewn	ST	NST
+306, 46	921, 1-2	SAR	you *o_k*	NST	NST
+306, 47	922, 1-3	SAR	you look ill	NSNT	NSNT
+306, 49	924, 1-5	SAR	*yeah* waiting for the *doctor*	---	NST
+
+
+307, 1	926, 1-6	NON	*oh* ewch i grafu *boys* yfe	---	NST
+
+
+308, 1	928, 1-3	SAR	gadwch fi fod	NSNT	NSNT
+308, 2	929, 1-4	SAR	dyna i_gyd fi isie	NSNT	NSNT
+308, 3	929, 5-7	SAR	yw papur fi	NSNT	NSNT
+308, 4	930, 1-6	SAR	gadwch fi mynd gartre i gwely	---	NSNT
+
+
+309, 1	931, 1-3	NON	*oh* *jiw* *jiw*	---	NST
+
+
+310, 1	932, 1-6	SAR	*oh* *oh* welaist ti fe neithiwr	NST	NST
+310, 2	933, 1-4	SAR	oedd e mor funny	SNT	SNT
+310, 3	933, 5-11	SAR	pryd oedd dwy o ni yn cysgu	NSNT	NSNT
+310, 4	935, 1-8	SAR	*just* yn agor y drws a cau e	NST	NST
+310, 5	936, 1-5	SAR	mae wastad yn wneud hynna	NSNT	NSNT
+310, 6	937, 1-7	SAR	os yw yn gweld ti yn cysgu	NSNT	NSNT
+310, 7	937, 8-12	SAR	mae yn cau y drws	NSNT	NSNT
+310, 8	939, 1-7	SAR	mae fe *just* yn dechrau agor e	NST	NST
+310, 9	940, 1-9	SAR	mae yn gweld ti yn cysgu ar y gwely	NSNT	NSNT
+310, 10	940, 10-13	SAR	mae yn cau e	NSNT	NSNT
+310, 11	942, 1-15	SAR	achos mae wedi digwydd i fi *couple* o weithiau pryd fi *just* fi hanner cysgu	NST	NST
+310, 12	944, 1-7	SAR	timod pryd ti *just* yn cael *rest*	NST	NST
+310, 13	944, 8-12	SAR	a mae drws ti dal	NSNT	NSNT
+310, 14	945, 2-14	SAR	mae un fi yn drwm ble fi *just* yn gadael e i resto	NST	NST
+310, 15	947, 1-6	SAR	dyw e ddim yn fully cau	---	SNT
+
+
+311, 1	948, 1-4	NON	*oh* timod bore yma	NST	NST
+311, 2	949, 1-10	NON	*oh* dihunais i amboutu saith ffordd yna mynd i *toilet*	NST	NST
+311, 3	951, 1-2	NON	a timod	NSNT	NSNT
+311, 4	951, 3-3	NON	mae	NSNT	NSNT
+311, 5	951, 4-10	NON	does neb ar y *corridors* amser hynna	NST	NST
+311, 7	954, 1-7	NON	wnes i dod mas i *corridor* *mmm*	NST	NST
+311, 8	954, 8-14	NON	timod *just* wedi roi dressing_gown drosto fi	NST	ST
+311, 11	957, 1-4	NON	*well* fe sgrechiais i	NST	NST
+311, 13	959, 1-3	NON	o'n i fel	SNT	NSNT
+311, 15	961, 1-9	NON	*oh* my gosh mae hwn y *type* o beth	NST	ST
+311, 16	961, 10-13	NON	byddai *Iest* yn wneud	NST	NST
+311, 17	962, 1-8	NON	achos mae *Iest* yn wneud *lot* o hynna	NST	NST
+311, 18	963, 1-10	NON	fi *just* yn stafell fi yn poitsian drws ar agor	ST	NST
+311, 20	965, 1-11	NON	all *sudden* pipo draw mae *Iestyn* yn sefyll yn y drws	NST	ST
+311, 21	965, 13-18	NON	â ei law ar y fframyn	---	NSNT
+
+
+312, 1	966, 1-5	SAR	*oh* *yeah* pwyso fan yna	---	NST
+
+
+313, 1	967, 1-4	NON	a fi *just* fel	NST	NST
+313, 2	968, 1-5	NON	paid â wneud hynna *please*	---	NST
+
+
+314, 1	969, 1-10	SAR	fi yn clywed *Iest* yn dod lan *corridor* fi twel	NST	NST
+314, 2	971, 1-11	SAR	fi yn nabod y sŵn gyda fe *clonk* *clonk* *clonk* *clonk*	NST	NST
+314, 3	972, 1-5	SAR	mae fe *rhythm* gyda fe	NST	NST
+314, 4	973, 1-8	SAR	ti yn *oh* fi yn *so* nabod e	---	NST
+
+
+315, 1	974, 1-8	NON	credu bod e yn cripan lan gyda fi	---	NSNT
+
+
+316, 1	975, 1-5	SAR	*oh* mae *Simon* yn funny	ST	ST
+316, 2	976, 1-7	SAR	mae fe wedi dechrau dod mewn nawr	NSNT	NSNT
+316, 3	977, 1-10	SAR	oedd e o blaen *just* fel aros yn y *corridor*	NST	NST
+316, 4	978, 1-8	SAR	wedyn daeth e i aros yn y drws	NSNT	NSNT
+316, 5	979, 1-8	SAR	nawr mae yn cerdded mewn a eistedd lawr	---	NSNT
+
+
+317, 1	980, 1-2	NON	*oh* cariad	---	NST
+
+
+318, 1	982, 1-9	SAR	*oh* *just* ges i gymaint o ofan bore yma	---	NST
+
+
+319, 1	983, 1-11	NON	timod fi *just* yn casáu yr teimlad yna pan ti meddwl	NST	NST
+319, 2	983, 12-16	NON	bod ti ben dy hunan	NSNT	NSNT
+319, 3	985, 1-7	NON	a wedyn ti sylwi bod ti ddim	---	NSNT
+
+
+320, 1	986, 1-8	SAR	*well* fi credu byswn i wedi cael ofan	NST	NST
+320, 2	987, 1-10	SAR	achos o'n i fel timod cerdded mas i yr *corridor*	NST	NST
+320, 3	988, 1-6	SAR	o'n i yn actually gwisgo popeth	NSNT	SNT
+320, 4	989, 1-8	SAR	o'n i ddim yn *pyjamas* fi am *change*	---	NST
+
+
+321, 1	990, 1-2	NON	*change* *yeah*	---	NST
+
+
+322, 1	992, 1-9	SAR	o'n i cerdded lan y *corridor* mynd i *toilet*	NST	NST
+322, 2	993, 1-3	SAR	o'n i fel	---	NSNT
+
+
+323, 1	996, 1-2	NON	*oh* funny	---	NST
+
+
+324, 1	997, 1-15	SAR	a cofiais i cyn i ti dod o'n i heb *thing* *make_up* fi *off* neithiwr	NST	NST
+324, 2	999, 1-11	SAR	*so* o'n i fel mynd â wipes i cael e *off*	NST	ST
+324, 3	1000, 1-6	SAR	yr amount o *mascara* daeth *off*	NST	ST
+324, 4	1001, 1-7	SAR	*just* cyn i fi mynd fel yna	NST	NST
+324, 5	1002, 1-5	SAR	llygad mynd fel yna du	NSNT	NSNT
+324, 6	1003, 1-3	SAR	o'n i fel	NSNT	NSNT
+324, 7	1004, 1-6	SAR	*ooh* dim *bags* oedd e i_gyd	NST	NST

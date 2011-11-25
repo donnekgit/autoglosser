@@ -1,0 +1,2056 @@
+
+
+1, 1	1, 1-5	ADA	iawn mae *Dafydd* yn dod	NST	NST
+1, 2	2, 1-6	ADA	ti isio gweld fi yn colli	---	NSNT
+
+
+2, 1	5, 1-3	HYW	dw ddim gwybod	NSNT	NSNT
+2, 2	6, 1-2	HYW	mae yn	NSNT	NSNT
+2, 3	6, 3-5	HYW	wnaeth o survive_io	SNT	SNT
+2, 5	9, 1-4	HYW	*Dafydd* yr uffar uffernol	---	NST
+
+
+3, 1	10, 1-4	ADA	*Dafydd* yr uffar uffernol	ST	NST
+3, 2	11, 1-7	ADA	*oh* hang on wna i *just* cael	---	ST
+
+
+4, 1	12, 1-2	HYW	*ta_ta* *mate*	---	NST
+
+
+5, 1	13, 1-9	ADA	*oh* ddyla fi wedi wneud o yn *private* dyla	---	NST
+
+
+6, 1	14, 1-1	HYW	dylat	---	NSNT
+
+
+7, 1	15, 1-7	ADA	*Hywel* os ydy rywun arall yn joinio	NST	NST
+7, 2	15, 8-14	ADA	wna i wneud o yn *private* *o_k*	---	NST
+
+
+8, 1	17, 1-2	HYW	syniad gwych	---	NSNT
+9, 3	20, 1-7	ADA	neu wna i swopio controllers efo chdi	---	SNT
+
+
+10, 1	21, 1-5	HYW	*yeah* dim ots gen fi	---	NST
+
+
+11, 1	22, 1-11	ADA	a dw i ddim yn deud i fod yn y cadair	NSNT	NSNT
+11, 2	23, 1-15	ADA	fi sy *just* yn gweld o yn haws gweld y *screen* gwaelod o fan yna	---	NST
+
+
+12, 1	24, 1-3	HYW	lle wyt ti	---	NSNT
+
+
+13, 1	26, 1-2	ADA	sniper *spot*	---	NST
+
+
+14, 1	27, 1-3	HYW	aros fyny yma	NSNT	NSNT
+14, 2	28, 1-6	HYW	wnawn ni fath â campio allan	NSNT	NSNT
+14, 3	29, 1-7	HYW	*o_k* dw i ar chwith chdi *o_k*	NST	NST
+14, 4	30, 1-5	HYW	*oh* dos di i canol	---	NST
+
+
+15, 1	31, 1-5	ADA	*o_k* dw i weld chdi	NST	NST
+15, 2	32, 1-1	ADA	canol	---	NSNT
+
+
+16, 1	33, 1-2	HYW	*yeah* dos	---	NST
+
+
+17, 1	34, 1-2	ADA	frags *ooh*	---	NST
+
+
+18, 1	35, 1-4	HYW	dos tu_ôl i yr	---	NSNT
+
+
+19, 1	36, 1-7	ADA	*damn* dydy o ddim yna dim mwy	---	NST
+
+
+20, 1	37, 1-2	HYW	*yeah* chdi	---	NST
+
+
+21, 1	39, 1-5	ADA	a ges i bad reload	---	SNT
+
+
+22, 1	41, 1-6	HYW	mae yna un ar chwith yma	---	NSNT
+
+
+23, 1	43, 1-4	ADA	dyla fi helpu chdi	NSNT	NSNT
+23, 2	45, 1-4	ADA	iawn ti efo fo	---	NSNT
+
+
+24, 1	46, 1-4	HYW	oedd hynna yn rhyfedd	NSNT	NSNT
+24, 2	47, 1-2	HYW	mae o	NSNT	NSNT
+24, 3	47, 3-4	HYW	mae o	NSNT	NSNT
+24, 4	47, 5-5	HYW	dan	NSNT	NSNT
+24, 5	47, 6-7	HYW	mae o	NSNT	NSNT
+24, 6	47, 8-10	HYW	dan fi rwan	NSNT	NSNT
+24, 7	49, 1-3	HYW	arosa fan yna	---	NSNT
+
+
+25, 1	50, 1-2	ADA	dos di	NSNT	NSNT
+25, 2	51, 1-2	ADA	wna i	NSNT	NSNT
+25, 3	51, 3-7	ADA	wna i fynd ffordd yma	NSNT	NSNT
+25, 4	52, 1-4	ADA	dos di ffordd yna	---	NSNT
+
+
+26, 1	53, 1-7	HYW	dy o wedi iwsio dau *bullet* o	---	NST
+
+
+27, 1	54, 2-5	ADA	mae o wedi definitely	---	SNT
+
+
+28, 1	55, 1-4	HYW	*o_k* mae o tu_allan	---	NST
+
+
+29, 1	56, 1-6	ADA	mae o yn disgwyl amdanon ni	SNT	NSNT
+29, 2	58, 1-3	ADA	*nice* one *Nathan*	---	NST
+
+
+30, 1	59, 1-6	HYW	deud deud wrtho fo gafodd o	NSNT	NSNT
+30, 2	59, 7-10	HYW	ei perchynu fan yna	---	NSNT
+
+
+31, 1	60, 1-6	ADA	gest ti dy berchynu fan yna	NSNT	NSNT
+31, 3	62, 1-7	ADA	mae trio cael glare o ffenest fo	---	SNT
+
+
+32, 1	63, 1-1	HYW	be	---	NSNT
+
+
+33, 1	64, 1-7	ADA	mae trio cael glare o ffenest fo	---	SNT
+
+
+34, 1	66, 1-2	HYW	mae o	NSNT	NSNT
+34, 2	66, 3-15	HYW	oedd o wneud pethau fel yna pan o'n i tŷ fo diwrnod o_blaen	NSNT	NSNT
+34, 3	67, 1-2	HYW	chwaer fi	---	NSNT
+
+
+35, 1	68, 2-6	ADA	mae yn ofnadwy fel yna	---	NSNT
+
+
+36, 1	69, 2-2	HYW	chwarae	NSNT	NSNT
+36, 2	69, 4-8	HYW	chwarae efo fi yn tŷ	NSNT	NSNT
+36, 3	69, 10-17	HYW	ac oedd o *just* yn mynd *oh* chwaer	NST	NST
+36, 5	72, 1-3	HYW	*oh* *boomer* eto	---	NST
+
+
+37, 1	73, 1-11	ADA	*yeah* wna i *just* cadw aim fi ar y *boomer* *o_k*	---	ST
+
+
+38, 1	75, 1-12	HYW	iawn ond dw i yn sbïo ar_draws ac lawr grisiau fi *o_k*	NST	NST
+38, 2	76, 1-6	HYW	gen fi deimlad mae o o_dan	---	NSNT
+
+
+39, 1	77, 1-8	ADA	hang on fan yna mae yr *boomer* *yeah*	NST	ST
+39, 2	78, 1-6	ADA	lle dw i yn sbïo ar	---	NSNT
+
+
+40, 1	79, 1-8	HYW	*well* *yeah* ychydig bach i yr dde de	---	NST
+
+
+41, 1	80, 1-4	ADA	wnes i fethu fo	---	NSNT
+
+
+42, 1	81, 1-4	HYW	aros yn fan yna	NSNT	NSNT
+42, 2	82, 1-4	HYW	aros yn fan yna	NSNT	NSNT
+42, 3	83, 1-2	HYW	paid poeni	---	NSNT
+
+
+43, 1	84, 1-1	ADA	*och*	---	NST
+
+
+44, 1	85, 1-2	HYW	gad fi	NSNT	NSNT
+44, 2	85, 3-4	HYW	saetho o	NSNT	NSNT
+44, 3	86, 1-3	HYW	gad o wybod	NSNT	NSNT
+44, 4	86, 4-6	HYW	bod chdi yno	NSNT	NSNT
+44, 5	87, 1-8	HYW	*oh* mae hynna yn digwydd i mi o_hyd	NST	NST
+44, 6	88, 1-5	HYW	*o_k* mae yna un ar	---	NST
+
+
+45, 1	89, 1-3	ADA	iawn *nice* one	ST	ST
+45, 3	91, 1-6	ADA	iawn dw i ddim yn meddwl	NSNT	NSNT
+45, 4	91, 7-12	ADA	aeth o fynd i yr dde	---	NSNT
+
+
+46, 1	92, 1-2	HYW	dal yna	NSNT	NSNT
+46, 3	94, 1-5	HYW	honna yn uffar o *shot*	NST	NST
+46, 4	94, 6-6	HYW	honna	NSNT	NSNT
+46, 5	95, 1-4	HYW	gad o ddod i_fyny	NSNT	NSNT
+46, 6	96, 1-4	HYW	gad o ddod i_fyny	NSNT	NSNT
+46, 7	97, 1-4	HYW	cael shotgun chdi allan	---	SNT
+
+
+47, 1	98, 1-8	ADA	o'n i efo active reload fan yna hefyd	---	SNT
+
+
+48, 1	99, 1-1	HYW	*eh*	ST	NST
+48, 2	100, 1-2	HYW	cod fi	---	NSNT
+
+
+49, 1	102, 1-5	ADA	dw i yn dod *back*	---	NST
+
+
+50, 1	103, 1-5	HYW	*so* fi sy yn sniper	ST	ST
+50, 2	104, 1-14	HYW	o'n i meddwl o'ch chdi ar fy nhin i fan yna all the way	---	SNT
+
+
+51, 1	105, 1-3	ADA	mi o'n i	NSNT	NSNT
+51, 2	106, 1-9	ADA	ond o'n i yn ond oedda chdi ar *back*	NST	NST
+51, 4	108, 1-7	ADA	do'n i ddim gwybod lle oedda chdi	---	NSNT
+
+
+52, 1	110, 1-5	HYW	*oh* *just* arosa fan yna	NST	NST
+52, 2	111, 1-3	HYW	wneith o ddim	NSNT	NSNT
+52, 3	112, 1-4	HYW	chwilia amdano fo *oh*	NST	NST
+52, 4	113, 1-4	HYW	ti wedi ffindio fo	SNT	NSNT
+52, 5	114, 1-8	HYW	go on ti efo host advantage i o	---	SNT
+
+
+53, 1	115, 1-5	ADA	*yeah* ond mae o efo	NST	NST
+53, 2	115, 6-9	ADA	bod yn twat advantage	SNT	SNT
+53, 6	119, 1-8	ADA	aeth o ddeifio syth mewn i fan yna	---	NSNT
+
+
+54, 1	120, 1-7	HYW	swatted from the air like a fly	---	NSNT
+
+
+55, 1	121, 1-7	ADA	sbia mae o yn cwyno *straight* away	---	ST
+
+
+56, 1	122, 1-3	HYW	dw i gwybod	---	NSNT
+
+
+57, 1	123, 1-8	ADA	a typical pan mae o mynd yn warthus	NSNT	SNT
+57, 2	123, 9-12	ADA	mae o yn deud	NSNT	NSNT
+57, 3	124, 1-7	ADA	*oh* neithiwr o'n i mor amazing *yeah*	---	ST
+
+
+58, 1	126, 1-4	HYW	o'n i yn amazing	SNT	SNT
+58, 2	127, 1-3	HYW	nag oedd tad	NSNT	NSNT
+58, 3	127, 4-9	HYW	doedd o ddim yn amazing ddoe	NSNT	SNT
+58, 4	128, 1-7	HYW	oedd o yn chwarae efo ni ddoe	---	NSNT
+
+
+59, 1	129, 1-5	ADA	na oedd o yn deud	NSNT	NSNT
+59, 2	129, 6-9	ADA	bod yna *bullet* lag	---	ST
+
+
+60, 1	131, 1-1	HYW	be	---	NSNT
+
+
+61, 1	132, 1-6	ADA	watsia mae o yn dilyn ni	---	NSNT
+
+
+62, 1	133, 1-4	HYW	gad i fo fynd	NSNT	NSNT
+62, 3	135, 1-4	HYW	mae wedi mynd am	NSNT	NSNT
+62, 4	136, 1-8	HYW	dy un o nhw wedi mynd am *boomer*	---	NST
+
+
+63, 1	137, 1-1	ADA	dy	NSNT	NSNT
+63, 3	139, 1-1	ADA	naci	NSNT	NSNT
+63, 4	141, 1-1	ADA	naci	NSNT	NSNT
+63, 5	143, 1-1	ADA	naci	---	NSNT
+
+
+64, 1	144, 1-7	HYW	un ddown oedd gynno fi fan yna	---	SNT
+
+
+65, 1	145, 1-1	ADA	naci	NSNT	NSNT
+65, 2	146, 1-5	ADA	*whoa* fan yna mae o	---	NST
+
+
+66, 1	147, 1-2	HYW	*oh* shit	ST	NST
+66, 2	148, 1-3	HYW	poeni fan yna	NSNT	NSNT
+66, 3	149, 1-2	HYW	sut uffar	---	NSNT
+
+
+67, 1	150, 1-3	ADA	*nice* one de	NST	ST
+67, 2	151, 1-4	ADA	*Gary* wnest ti ladd	NST	NST
+67, 3	154, 1-8	ADA	*oh* doedd o ddim yn un *shot* felly	NST	NST
+67, 4	154, 9-10	ADA	nag oedd	---	NSNT
+
+
+68, 1	155, 1-5	HYW	*oh* dw i mynd ar	NST	NST
+68, 2	155, 6-12	HYW	dw i mynd ar_ôl y *boomer* *o_k*	---	NST
+
+
+69, 1	156, 1-6	ADA	be mae o malu cachu amdan	---	NSNT
+
+
+70, 1	157, 1-3	HYW	*change* of *tactics*	---	NST
+
+
+71, 1	158, 1-4	ADA	ti mynd ar_ôl *boomer*	NST	NST
+71, 2	159, 1-4	ADA	*o_k* wna i aros	---	NST
+
+
+72, 1	160, 1-8	HYW	gweld gweld os fedra i ddychryn o *ohh*	---	NST
+
+
+73, 1	161, 1-5	ADA	wna i aros ti rwan	---	NSNT
+
+
+74, 1	162, 1-3	HYW	wneith o adael	NSNT	NSNT
+74, 2	163, 1-3	HYW	gad o watsiad	NSNT	NSNT
+74, 3	164, 1-3	HYW	be ti wneud	---	NSNT
+
+
+75, 1	165, 1-3	ADA	be ti wneud	NSNT	NSNT
+75, 2	166, 1-5	ADA	does yna neb tu_mewn *o_k*	NST	NST
+75, 3	167, 1-5	ADA	ti yn gweld rywbeth tu_allan	---	NSNT
+
+
+76, 1	168, 1-1	HYW	yndw	NSNT	NSNT
+76, 2	169, 1-4	HYW	dau dau o nhw	NSNT	NSNT
+76, 3	172, 1-6	HYW	na un wnes i weld heblaw	---	NSNT
+
+
+77, 1	173, 1-1	ADA	un	NSNT	NSNT
+77, 2	174, 1-5	ADA	mae yr ddau yna obviously	---	SNT
+
+
+78, 1	175, 1-1	HYW	suspicious	NSNT	NSNT
+78, 2	176, 1-3	HYW	*well* done *Adam*	ST	NST
+78, 3	177, 1-2	HYW	*oh* *fuck*	---	NST
+
+
+79, 1	178, 1-2	ADA	*oh* typical	ST	NST
+79, 2	179, 1-3	ADA	iawn *o_k* gwatsia	---	NST
+
+
+80, 1	180, 1-1	HYW	titan	SNT	NSNT
+80, 2	181, 1-7	HYW	*o_k* dw i am gymryd *boomer* iawn	---	NST
+
+
+81, 1	182, 1-5	ADA	dw i methu weld o	---	NSNT
+
+
+82, 1	183, 1-5	HYW	mae o ar y dde	SNT	NSNT
+82, 2	184, 1-2	HYW	because dyna	NSNT	SNT
+82, 3	184, 3-7	HYW	lle mae mynd o_hyd lawr	NSNT	NSNT
+82, 5	186, 1-5	HYW	*pillar* yna ar y dde	NST	NST
+82, 6	187, 1-5	HYW	*o_k* dw i am *just*	NST	NST
+82, 7	188, 1-3	HYW	*er* ti gweld	---	NST
+
+
+83, 1	189, 1-5	ADA	mae o ar y dde	NSNT	NSNT
+83, 3	191, 1-7	ADA	iawn dw i yn mynd ffordd yma	SNT	NSNT
+83, 4	192, 1-5	ADA	aim_ia di trwy canol eto	NSNT	SNT
+83, 5	193, 1-1	ADA	mae	NSNT	NSNT
+83, 6	193, 2-8	ADA	wnaeth o definitely fynd i yr dde	NSNT	SNT
+83, 7	194, 1-4	ADA	wnest ti weld o	---	NSNT
+
+
+84, 1	195, 1-2	HYW	na *well*	---	NST
+
+
+85, 1	196, 1-4	ADA	ddo i tu_allan *o_k*	---	NST
+
+
+86, 1	197, 1-1	HYW	definitely	---	NSNT
+
+
+87, 1	198, 1-4	ADA	definitely sbia *screen* fi	---	ST
+
+
+88, 1	199, 1-8	HYW	*o_k* *o_k* *o_k* dw i ar y ffordd	NST	NST
+88, 2	200, 1-3	HYW	gad o yna	NSNT	NSNT
+88, 3	201, 1-3	HYW	gad o yna	NSNT	NSNT
+88, 4	202, 1-3	HYW	dw i ar	NSNT	NSNT
+88, 5	202, 4-7	HYW	ei dîn o rwan	---	NSNT
+
+
+89, 1	204, 1-3	ADA	lle mae o	NSNT	NSNT
+89, 2	205, 1-6	ADA	*whoa* wnes i ddim gweld o	NST	NST
+89, 3	206, 1-12	ADA	o'n i yn meddwl bod oeddaf i yn ochr arall yn *cover*	---	NST
+
+
+90, 1	207, 1-2	HYW	wnes i	NSNT	NSNT
+90, 2	207, 3-5	HYW	wnes i fi	NSNT	NSNT
+90, 3	207, 6-13	HYW	wnes i boom_io fo ac shotgun_io fo yna	NSNT	SNT
+90, 4	208, 1-5	HYW	a chdi wnaeth ladd o	---	NSNT
+
+
+91, 1	210, 1-6	ADA	ti wedi meddwl mae bob un	NSNT	NSNT
+91, 2	210, 7-11	ADA	mae yr ddau kill dwytha	NSNT	SNT
+91, 3	210, 12-19	ADA	bod yn lwcus *just* troi *round* a saethu	---	NST
+
+
+92, 1	212, 1-4	HYW	*eh* mae dal yma	NST	NST
+92, 2	213, 1-4	HYW	wnes i saethu fo	---	NSNT
+
+
+93, 1	214, 1-7	ADA	iawn dw i wedi cael gwared ohono	NSNT	NSNT
+93, 2	215, 1-5	ADA	iawn *um* faswn i meddwl	NST	NST
+93, 3	215, 6-10	ADA	wneith o sblitio fyny eto	SNT	NSNT
+93, 4	216, 1-7	ADA	because oedden nhw meddwl na *just* anlwc	NST	ST
+93, 5	216, 8-9	ADA	oedd hynna	NSNT	NSNT
+93, 6	217, 1-11	ADA	mae yna un wrth y *pillar* fan yna ar *screen* fi	---	NST
+
+
+94, 1	218, 1-5	HYW	*ah* fi wnaeth down_io hwnna	NST	ST
+94, 2	219, 1-4	HYW	faswn i wedi aim_io	SNT	SNT
+94, 3	219, 5-9	HYW	faswn i wedi gael o	---	NSNT
+
+
+95, 1	220, 1-6	ADA	dw i wedi gweld *William* hefyd	NST	NST
+95, 2	221, 1-8	ADA	wnei di sbïo ar *cameras* gwahanol i fi	NST	NST
+95, 3	222, 1-5	ADA	*ooh* fan yna mae o	---	NST
+
+
+96, 1	223, 1-7	HYW	*whoah* pam ti efo sniper allan *Adam*	NST	ST
+96, 2	224, 1-7	HYW	pam dy o ddim wedi lladd chdi	SNT	NSNT
+96, 3	225, 1-3	HYW	*oh* my God	ST	NST
+96, 4	226, 1-3	HYW	be ti wneud	NSNT	NSNT
+96, 5	227, 1-4	HYW	be mae o wneud	---	NSNT
+
+
+97, 1	228, 1-8	ADA	dw i yn curo yr *game* i ni	---	NST
+
+
+98, 1	229, 1-11	HYW	na be oedd *William* wneud fan yna o'n i feddwl hefyd	---	NST
+
+
+99, 1	230, 1-3	ADA	dw ddim gwybod	---	NSNT
+
+
+100, 1	231, 1-12	HYW	fasai fo wedi newid i shotgun i fan yna yn lle reload_io	SNT	SNT
+100, 2	231, 13-17	HYW	fasai fo wedi cael chdi	---	NSNT
+
+
+101, 1	232, 1-10	ADA	fasai fo wedi gallu lladd fi yn hawdd fan yna	NSNT	NSNT
+101, 2	232, 11-11	ADA	basai	NSNT	NSNT
+101, 3	234, 1-8	ADA	ond dy o ddim digon da yn anffodus	NSNT	NSNT
+101, 6	237, 1-2	ADA	un *shot*	NST	NST
+101, 7	238, 1-10	ADA	faint o weithiau wnes i saethu fo fan yna *Hywel*	---	NST
+
+
+102, 1	239, 1-7	HYW	na loads o weithiau oedd o yn	---	SNT
+
+
+103, 1	240, 1-3	ADA	loads o weithiau	---	SNT
+
+
+104, 1	241, 1-6	HYW	o'n i sbïo ar *screen* *Adam*	NST	NST
+104, 2	242, 1-3	HYW	dw i meddwl	NSNT	NSNT
+104, 3	242, 4-6	HYW	dw i gwybod	---	NSNT
+
+
+105, 1	243, 1-9	ADA	ti gwybod mae hynna yn profi faint o weithiau	NSNT	NSNT
+105, 2	243, 10-13	ADA	mae yn deud clwyddau	NSNT	NSNT
+105, 3	244, 1-3	ADA	bob ti sylwi	NSNT	NSNT
+105, 4	245, 1-2	ADA	bob tro	NSNT	NSNT
+105, 5	245, 3-7	ADA	mae yn colli yn_erbyn fi	NSNT	NSNT
+105, 6	245, 8-11	ADA	mae o yn deud	NSNT	NSNT
+105, 7	245, 12-21	ADA	bod o wedi cymryd dim damage yn y *shot* cynta	NST	ST
+105, 8	246, 1-5	ADA	mae hynna yn profi rwan	NSNT	NSNT
+105, 9	247, 1-2	ADA	bob tro	NSNT	NSNT
+105, 10	247, 3-9	ADA	mae yn deud hynna ti yn gwybod	NSNT	NSNT
+105, 11	247, 10-15	ADA	sut mae o fel arfer rŵan	---	NSNT
+
+
+106, 1	248, 1-2	HYW	ochr chdi	NSNT	NSNT
+106, 2	249, 1-5	HYW	*yeah* *yeah* dw i gwybod	NST	NST
+106, 3	249, 6-10	HYW	mae o o_hyd wneud hynna	SNT	NSNT
+106, 4	250, 1-2	HYW	*oh* *fuck*	ST	NST
+106, 5	251, 1-2	HYW	diawlaid esgeulus	---	NSNT
+
+
+107, 1	252, 1-7	ADA	wna i aros wrth y main *entrance*	ST	ST
+107, 2	253, 1-10	ADA	wybod os dy o yn pasio wna i weld o	---	NSNT
+
+
+108, 1	254, 1-5	HYW	*oh* na na cover_a fi	NST	ST
+108, 2	255, 1-6	HYW	*ooh* smotyn rhy hwyr fan yna	NST	NST
+108, 3	256, 1-5	HYW	*o_k* fedra i weld o	NST	NST
+108, 4	258, 1-1	HYW	yndw	NSNT	NSNT
+108, 5	259, 1-5	HYW	dw i methu saethu fo	NSNT	NSNT
+108, 6	260, 1-6	HYW	mae o tu_ôl fan yna rwan	---	NSNT
+
+
+109, 1	261, 1-9	ADA	os wna i *just* fynd fel yma am ychydig	NST	NST
+109, 2	263, 1-10	ADA	*oh* *yeah* *o_k* tria wneud o a cymryd *shot* *ooh*	NST	NST
+109, 6	267, 1-5	ADA	wnes i ddim cael chdi	NSNT	NSNT
+109, 7	268, 2-4	ADA	dw ddim gwybod	NSNT	NSNT
+109, 8	269, 1-4	ADA	pa pa yr un	NSNT	NSNT
+109, 9	270, 1-5	ADA	wnest ti saethu yr *boy*	NST	NST
+109, 10	270, 6-12	ADA	oedd down ta yr *boy* arall *Hywel*	---	ST
+
+
+110, 1	271, 1-2	HYW	na sefyll	---	NSNT
+
+
+111, 1	272, 1-1	ADA	naci	---	NSNT
+
+
+112, 1	273, 1-1	HYW	naci	---	NSNT
+
+
+113, 1	274, 1-6	ADA	*Hywel* gafodd un o yr kills	---	ST
+
+
+114, 1	275, 1-6	HYW	wnes i headshot_io un o chi	---	SNT
+
+
+115, 1	276, 1-7	ADA	*Hywel* chdi wnaeth ladd un ohonyn nhw	---	NST
+
+
+116, 1	279, 1-4	HYW	*boy* oedd yn sefyll	---	NST
+
+
+117, 1	280, 1-5	ADA	y *boy* oedd yn sefyll	NST	NST
+117, 2	280, 6-6	ADA	wnaeth	NSNT	NSNT
+117, 3	280, 7-9	ADA	wnest ti ladd	---	NSNT
+
+
+118, 1	283, 1-8	HYW	wnes i *just* gweld chdi *just* yn mynd	NST	NST
+118, 2	284, 1-4	HYW	y llall yn explode_io	---	SNT
+
+
+119, 1	285, 1-5	ADA	ac oedda chdi wedi brifo	NSNT	NSNT
+119, 2	285, 6-13	ADA	oedda chdi wedi brifo *William* efo yr sniper	---	ST
+
+
+120, 1	286, 1-3	HYW	dw i meddwl	NSNT	NSNT
+120, 2	287, 1-6	HYW	pwy bynnag wnaeth pigo frags i_fyny	NSNT	SNT
+120, 3	288, 1-1	HYW	ti	---	NSNT
+
+
+121, 1	289, 1-2	ADA	oedd o	NSNT	NSNT
+121, 2	289, 3-6	ADA	oedd o wedi heal_io	---	SNT
+
+
+122, 1	290, 1-3	HYW	*oh* medi_pack *yeah*	---	NST
+
+
+123, 1	291, 1-8	ADA	wnaeth hi hitio fo yn braich fo *yeah*	NST	NST
+123, 3	293, 1-1	ADA	dyna	NSNT	NSNT
+123, 4	293, 2-4	ADA	be oedd o	---	NSNT
+
+
+124, 1	294, 1-5	HYW	*gun* fi wnest ti saethu	NST	NST
+124, 2	295, 1-5	HYW	dyna dy yr *thing* *yeah*	NST	NST
+124, 4	297, 1-5	HYW	Arglwydd mae o yn mwydro	---	NSNT
+
+
+125, 1	298, 1-6	ADA	lle ti wedi mynd tro yma	---	NSNT
+
+
+126, 1	299, 1-5	HYW	dw i ddim yn gwybod	NSNT	NSNT
+126, 2	300, 1-7	HYW	ddeud wrtha chdi pan dw i cyrraedd	SNT	NSNT
+126, 3	301, 1-1	HYW	sniper	---	NSNT
+
+
+127, 1	302, 1-4	ADA	*right* nhw dy hynna	NST	NST
+127, 2	304, 1-9	ADA	iawn dw i yn aros yn y canals *o_k*	ST	ST
+127, 3	305, 1-1	ADA	moonwalk_ia	SNT	NSNT
+127, 4	306, 1-6	ADA	ti isio fi wneud o *oh*	NST	NST
+127, 5	307, 1-4	ADA	ni ydy yr host	---	SNT
+
+
+128, 1	308, 1-3	HYW	*William* yn moonwalk_io	ST	ST
+128, 2	309, 1-4	HYW	dy byth yn moonwalk_io	SNT	SNT
+128, 3	310, 1-2	HYW	pen lawr	NSNT	NSNT
+128, 4	311, 1-5	HYW	dw i ddim yn gwybod	NSNT	NSNT
+128, 5	311, 6-8	HYW	lle mae nhw	---	NSNT
+
+
+129, 1	312, 1-3	ADA	mae o tu_allan	NSNT	NSNT
+129, 2	313, 1-5	ADA	ti yn gweld *screen* fi	NST	NST
+129, 3	314, 1-4	ADA	ti gallu gweld o	---	NSNT
+
+
+130, 1	315, 1-4	HYW	dau dau o nhw	---	NSNT
+
+
+131, 1	316, 1-4	ADA	*well* dw ddim gwybod	NST	NST
+131, 2	317, 1-8	ADA	*person* dy hwnna ta *crack* yn y wal	---	NST
+
+
+132, 1	318, 1-8	HYW	*ooh* *damn* o'n i yn clumsy fan yna	---	ST
+
+
+133, 1	319, 1-5	ADA	fan yna mae o *yeah*	---	NST
+
+
+134, 1	320, 1-4	HYW	dyna *just* tro cynta	NST	NST
+134, 2	320, 5-10	HYW	mae o wedi curo fi mewn	---	NSNT
+
+
+135, 1	321, 1-4	ADA	fan yna mae o	SNT	NSNT
+135, 2	323, 1-1	ADA	*eh*	---	NST
+
+
+136, 1	324, 1-3	HYW	*oh* no way	ST	NST
+136, 2	325, 1-5	HYW	flank_io faswn i wedi malu	NSNT	SNT
+136, 3	327, 1-5	HYW	deuda wrtho fo *straight* away	ST	ST
+136, 4	328, 1-12	HYW	dyna dy yr tro cynta ti wedi curo *Hywel* mewn headshot battle	ST	ST
+136, 5	329, 1-4	HYW	*so* cau dy geg	---	NST
+
+
+137, 1	330, 1-4	ADA	mae *Hywel* yn deud	NST	NST
+137, 2	330, 5-16	ADA	dyna dy yr tro cynta ti wedi curo fo mewn headshot battle	SNT	SNT
+137, 3	331, 1-4	ADA	*so* cau dy geg	---	NST
+
+
+138, 1	333, 1-2	HYW	naci tad	---	NSNT
+
+
+139, 1	334, 1-4	ADA	dw ddim yn meddwl	NSNT	NSNT
+139, 2	335, 1-2	ADA	mae meddwl	NSNT	NSNT
+139, 3	335, 3-4	ADA	bod o	NSNT	NSNT
+139, 4	336, 1-5	ADA	ti yn gallu clywed *Hywel*	NST	NST
+139, 6	339, 1-7	ADA	na wnes i definitely wneud o trwy	---	SNT
+
+
+140, 1	340, 1-3	HYW	dw i gwybod	NSNT	NSNT
+140, 2	341, 1-3	HYW	be ddeudodd o	---	NSNT
+
+
+141, 1	342, 1-6	ADA	dw i ddim yn meddwl *Hywel*	---	NST
+
+
+142, 1	343, 1-4	HYW	*oh* *yeah* *as* if	ST	NST
+142, 2	344, 1-2	HYW	bob tro	NSNT	NSNT
+142, 3	344, 3-6	HYW	dw i chwarae fo	NSNT	NSNT
+142, 4	344, 8-14	HYW	mae o yn *just* codi sniper yna	NST	ST
+142, 5	344, 15-17	HYW	mae yn marw	SNT	NSNT
+142, 7	346, 1-3	HYW	better fall *back*	ST	NST
+142, 8	347, 1-8	HYW	*o_k* dw i yn mynd o yr tu_fewn	---	NST
+
+
+143, 1	348, 1-8	ADA	mae o wedi pigo yr sniper yn barod	---	SNT
+
+
+144, 1	350, 1-2	HYW	dim ots	NSNT	NSNT
+144, 2	351, 1-5	HYW	dw i ar y tu_fewn	NSNT	NSNT
+144, 3	352, 1-3	HYW	dos ar tu_allan	NSNT	NSNT
+144, 4	353, 1-5	HYW	*oh* mae un ar tu_fewn	NST	NST
+144, 5	354, 1-3	HYW	dau ar tu_fewn	SNT	NSNT
+144, 6	355, 1-3	HYW	*oh* no way	ST	NST
+144, 7	356, 1-7	HYW	dw i wedi dal yn un *Dafydd*	---	NST
+
+
+145, 1	357, 1-1	ADA	paid	NSNT	NSNT
+145, 2	358, 1-6	ADA	*Hywel* pam wnest ti dal *back*	---	NST
+
+
+146, 1	360, 1-1	HYW	*sorry*	ST	NST
+146, 2	361, 1-3	HYW	*yeah* tad *William*	NST	NST
+146, 3	362, 1-9	HYW	dw i byth yn colli chdi mewn headshot battle	SNT	SNT
+146, 4	363, 1-2	HYW	deud hynna	NSNT	NSNT
+146, 5	364, 1-2	HYW	deud hynna	NSNT	NSNT
+146, 6	365, 1-2	HYW	deud o	---	NSNT
+
+
+147, 1	367, 1-5	ADA	fasai wedi cael chdi though	SNT	SNT
+147, 2	367, 6-12	ADA	os oedda chdi ddim wedi dal *back*	---	NST
+
+
+148, 1	368, 1-7	HYW	*oh* ti roi bai ar fi o_hyd	ST	NST
+148, 2	369, 1-11	HYW	*oh* no dw i ddim yn medru gweld coesau *boy* fi	ST	ST
+148, 3	371, 1-3	HYW	show them friend	SNT	NSNT
+148, 4	372, 1-2	HYW	*hello* *mate*	ST	NST
+148, 5	373, 1-4	HYW	tyrd ta ngwas i	---	NSNT
+
+
+149, 1	375, 1-3	ADA	fo wnaeth saethu	---	NSNT
+
+
+150, 1	377, 1-3	HYW	fi wnaeth saethu	NSNT	NSNT
+150, 2	378, 1-7	HYW	ti ochr nhw ti ar gobeithio *yeah*	---	NST
+
+
+151, 1	379, 1-5	ADA	*boy* dod fyny tu_ôl fi	---	NST
+
+
+152, 1	380, 1-6	HYW	dy o dal ar bont o	NSNT	NSNT
+152, 2	381, 1-1	HYW	tu_allan	---	NSNT
+
+
+153, 1	382, 1-2	ADA	*yeah* *boy*	NST	NST
+153, 4	385, 1-2	ADA	*yeah* *boy*	---	NST
+
+
+154, 1	386, 1-2	HYW	*close* my	ST	NST
+154, 2	387, 1-8	HYW	ti dal efo loads o *Playstation* *games* *Adam*	NST	ST
+154, 3	388, 1-1	HYW	pam	---	NSNT
+
+
+155, 1	389, 1-4	ADA	*er* dw ddim wybod	NST	NST
+155, 2	390, 1-7	ADA	wna i drade_io nhw ymlaen rhywbryd probably	SNT	SNT
+155, 3	391, 1-5	ADA	pan gynno i amynedd *yeah*	ST	NST
+155, 4	392, 1-2	ADA	hang on	SNT	NSNT
+155, 5	393, 1-3	ADA	pwy ydw i	NSNT	NSNT
+155, 6	394, 1-2	ADA	*Marcus* iawn	NST	NST
+155, 7	395, 1-9	ADA	do'n i ddim yn meddwl na *Marcus* o'n i	---	NST
+
+
+156, 1	396, 1-3	HYW	*oh* come on	NST	NST
+156, 2	397, 1-2	HYW	come on	NSNT	NSNT
+156, 3	398, 1-2	HYW	come on	SNT	NSNT
+156, 4	399, 1-2	HYW	pen lawr	NSNT	NSNT
+156, 5	400, 1-2	HYW	pen lawr	SNT	NSNT
+156, 6	401, 1-3	HYW	*oof* *wah* *idiot*	---	NST
+
+
+157, 1	402, 1-7	ADA	lwcus bod o yn shit o *shot*	NST	ST
+157, 2	404, 1-5	ADA	dw i ar tu_mewn *o_k*	---	NST
+
+
+158, 1	405, 1-6	HYW	deud wrtha fi pan ti yna	SNT	NSNT
+158, 2	406, 1-9	HYW	because wna i wneud o cymryd *shot* arnaf i	---	ST
+
+
+159, 1	407, 1-3	ADA	ti yn gallu	NSNT	NSNT
+159, 2	408, 1-5	ADA	mae o ar y tu_mewn	NSNT	NSNT
+159, 3	408, 6-8	ADA	dw i meddwl	SNT	NSNT
+159, 4	409, 1-2	ADA	hang on	SNT	NSNT
+159, 5	410, 1-5	ADA	dw i ddim yn gwybod	NSNT	NSNT
+159, 6	411, 1-9	ADA	wnest ti weld o yn mynd ar y tu_mewn	---	NSNT
+
+
+160, 1	412, 1-1	HYW	naddo	NSNT	NSNT
+160, 2	412, 2-8	HYW	ond dw i yn dod ata chdi	NSNT	NSNT
+160, 3	413, 2-7	HYW	wnes i weld *camera* chdi rwan	---	NST
+
+
+161, 1	414, 1-10	ADA	*yeah* ond dw i ddim yn gwybod os na fo	NST	NST
+161, 2	414, 11-12	ADA	ydy o	SNT	NSNT
+161, 3	415, 1-6	ADA	because dim *person* yna ydy *William*	---	ST
+
+
+162, 1	416, 1-2	HYW	dim ots	---	NSNT
+
+
+163, 1	417, 1-3	ADA	*oh* na mae	NST	NST
+163, 2	417, 4-8	ADA	mae *Dafydd* yn grenadier hefyd	NST	ST
+163, 3	417, 9-10	ADA	dydy definitely	---	SNT
+
+
+164, 1	418, 1-3	HYW	wedi saethu fo	NSNT	NSNT
+164, 2	419, 1-6	HYW	wnes i definitely hitio fo hefyd	SNT	SNT
+164, 3	420, 1-2	HYW	active reload	---	NSNT
+
+
+165, 1	422, 1-6	ADA	naci rwan mae yr sniper yna	NSNT	SNT
+165, 2	423, 1-5	ADA	rwan mae yr sniper yna	---	SNT
+
+
+166, 1	424, 1-1	HYW	*William*	ST	NST
+166, 2	425, 1-6	HYW	aeth o fethu fi fan yna	SNT	NSNT
+166, 3	426, 1-2	HYW	down_ia fo	---	SNT
+
+
+167, 1	428, 1-4	ADA	paid â pwsio *back*	NST	NST
+167, 2	429, 1-10	ADA	dw i yn gallu gweld os ti down_io fo *o_k*	NST	ST
+167, 3	430, 1-7	ADA	dw i yn mynd amdano fo *o_k*	NST	NST
+167, 4	431, 1-6	ADA	bydd yn barod i saethu fo	---	NSNT
+
+
+168, 1	432, 1-1	HYW	paid	NSNT	NSNT
+168, 2	433, 1-1	HYW	paid	NSNT	NSNT
+168, 3	434, 1-1	HYW	paid	NSNT	NSNT
+168, 4	435, 1-1	HYW	paid	NSNT	NSNT
+168, 5	436, 1-1	HYW	paid	NSNT	NSNT
+168, 6	437, 1-1	HYW	paid	---	NSNT
+
+
+169, 1	438, 1-2	ADA	na dw	NSNT	NSNT
+169, 2	439, 1-9	ADA	*o_k* deuda wrtha fi pryd i fynd amdano fo	---	NST
+
+
+170, 1	440, 1-1	HYW	paid	SNT	NSNT
+170, 2	441, 1-1	HYW	*fuck*	---	NST
+
+
+171, 1	442, 1-10	ADA	ti gweld dyna pam o'n i am mynd amdano fo	---	NSNT
+
+
+172, 1	444, 1-9	HYW	*yeah* fasai fo wedi wneud hynna i chdi though	ST	ST
+172, 2	444, 10-10	HYW	basai	---	NSNT
+
+
+173, 1	445, 1-2	ADA	na fasai	NSNT	NSNT
+173, 3	447, 1-8	ADA	dim efo fi yn rush_io fo no way	---	SNT
+
+
+174, 1	448, 1-4	HYW	paid adael o wybod	NSNT	NSNT
+174, 2	448, 5-7	HYW	bod chdi yna	NSNT	NSNT
+174, 3	449, 1-5	HYW	*o_k* wna i ffindio nhw	NST	NST
+174, 4	450, 1-5	HYW	dw i ddim yn gwybod	NSNT	NSNT
+174, 5	450, 6-12	HYW	os mae dal yna *Adam* *so* *oh*	NST	NST
+174, 6	451, 1-6	HYW	gad o ddod *round* congl gynta	NST	NST
+174, 7	452, 1-4	HYW	*oh* *William* dy o	NST	NST
+174, 8	453, 1-2	HYW	mala o	---	NSNT
+
+
+175, 1	455, 1-5	ADA	fedra i ddim coelio hynna	---	NSNT
+
+
+176, 1	456, 1-1	HYW	be	---	NSNT
+
+
+177, 1	457, 1-5	ADA	bod nhw wedi cael fi	---	NSNT
+
+
+178, 1	458, 1-3	HYW	dw ddim coelio	NSNT	NSNT
+178, 2	458, 4-7	HYW	bod nhw yn curo	SNT	NSNT
+178, 3	459, 1-4	HYW	*o_k* canals amdani rwan	---	ST
+
+
+179, 1	460, 1-7	ADA	mae o yn deud second time *Hywel*	---	ST
+
+
+180, 1	461, 1-2	HYW	ever *yeah*	---	NST
+
+
+181, 1	462, 1-3	ADA	ever ever *yeah*	---	NST
+
+
+182, 1	463, 1-4	HYW	na dw i wedi	NSNT	NSNT
+182, 2	463, 5-8	HYW	cyfri faint o weithiau	NSNT	NSNT
+182, 3	463, 9-13	HYW	dw i wedi curo fo	SNT	NSNT
+182, 4	464, 1-8	HYW	nineteen o weithiau dw i wedi headshot_io fo	NSNT	SNT
+182, 5	465, 1-3	HYW	ac bob tro	NSNT	NSNT
+182, 6	465, 4-11	HYW	dw i yn cofio cael rhywun yn mynd	NSNT	NSNT
+182, 7	466, 1-4	HYW	*oh* chwarae teg *Hywel*	---	NST
+
+
+183, 1	467, 1-16	ADA	a fi *just* yna yn ddistaw because o'n i yn gwybod fasat ti yn guro fo	---	ST
+
+
+184, 1	468, 1-6	HYW	*William* yn aim_io dros y bont	NST	ST
+184, 2	469, 1-4	HYW	dw i o_dan bont	NSNT	NSNT
+184, 3	470, 1-6	HYW	paid ti a mynd ffordd yna	NSNT	NSNT
+184, 4	471, 1-8	HYW	*o_k* dw i mynd ar yr ochr tu_fewn	---	NST
+
+
+185, 1	472, 1-5	ADA	mae yr ddau yna *o_k*	---	NST
+
+
+186, 1	473, 1-2	HYW	*oh* shit	ST	NST
+186, 2	474, 1-6	HYW	*o_k* ddo i tu ôl nhw	---	NST
+
+
+187, 1	475, 1-2	ADA	dim ots	---	NSNT
+
+
+188, 1	476, 1-5	HYW	a i tu ôl nhw	NSNT	NSNT
+188, 2	477, 1-5	HYW	a i tu ôl nhw	SNT	NSNT
+188, 3	478, 1-1	HYW	*Adam*	---	NST
+
+
+189, 1	479, 1-2	ADA	ti weld	NSNT	NSNT
+189, 3	481, 1-4	ADA	dw i yn awesome	---	SNT
+
+
+190, 1	482, 1-5	HYW	ti wneud fi edrych yn	---	NSNT
+
+
+191, 1	483, 1-6	ADA	dw i ddim yn reload_io nac	NSNT	SNT
+191, 2	483, 7-7	ADA	ydw	---	NSNT
+
+
+192, 1	484, 1-6	HYW	ti wneud fi edrych yn *rubbish*	NST	NST
+192, 2	485, 1-3	HYW	paid â crio	NSNT	NSNT
+192, 3	486, 1-1	HYW	deuda	NSNT	NSNT
+192, 4	487, 1-6	HYW	*Hywel* yn deud paid â crio	NST	NST
+192, 5	488, 1-2	HYW	saethu chdi	NSNT	NSNT
+192, 6	489, 1-5	HYW	un *shot* yn down_io chdi	ST	ST
+192, 7	490, 1-1	HYW	Christ	---	NSNT
+
+
+193, 1	491, 1-3	ADA	dw ddim meddwl	NSNT	NSNT
+193, 2	491, 4-15	ADA	bod o yn dallt faint mor dda dy yr shotgun nac dy	NSNT	SNT
+193, 3	493, 1-3	ADA	mae o meddwl	NSNT	NSNT
+193, 4	493, 4-14	ADA	bod down_io rywun efo un *shot* efo shotgun yn *absolute* miracle	---	ST
+
+
+194, 1	495, 1-5	HYW	mae nhw yn y canals	SNT	SNT
+194, 2	496, 1-5	HYW	mae nhw gweld fi yma	NSNT	NSNT
+194, 3	497, 1-2	HYW	fydd *William*	---	NST
+
+
+195, 1	498, 1-3	ADA	dau ta un	---	NSNT
+
+
+196, 1	499, 1-1	HYW	un	NSNT	NSNT
+196, 2	500, 1-11	HYW	fydd *William* yn aim_io arnaf i rwan efo sniper no *doubt*	---	ST
+
+
+197, 1	501, 1-8	ADA	*o_k* dw i dod lawr y *steps* *yeah*	ST	NST
+197, 3	504, 1-1	ADA	pincer	NSNT	NSNT
+197, 4	505, 1-1	ADA	pincer	SNT	NSNT
+197, 5	506, 1-4	ADA	dos ar y tu_allan	---	NSNT
+
+
+198, 1	507, 1-1	HYW	*fuck*	---	NST
+
+
+199, 1	508, 1-5	ADA	na mae fo efo fi	---	NSNT
+
+
+200, 1	509, 1-4	HYW	tyrd i_lawr y grisiau	---	NSNT
+
+
+201, 1	510, 1-8	ADA	cha i ddim *just* hammer_o fo fel yna	NST	ST
+201, 2	512, 1-5	ADA	dw i methu kerb_stomp_io *William*	ST	ST
+201, 3	513, 1-1	ADA	sbia	NSNT	NSNT
+201, 4	514, 1-4	ADA	faint o *stupid* o	---	NST
+
+
+202, 1	516, 1-3	HYW	deud wrtha fo	---	NSNT
+
+
+203, 1	517, 1-6	ADA	*William* dw i methu kerb_stomp_io chdi	NST	ST
+203, 2	517, 7-7	ADA	sti	NSNT	NSNT
+203, 3	518, 1-10	ADA	mae hynna wedi digwydd fan yma ac yn mansion rwan	SNT	SNT
+203, 4	520, 1-7	ADA	at least dan ni yn draw_io eto	---	SNT
+
+
+204, 1	521, 1-4	HYW	wnawn ni guro rwan	NSNT	NSNT
+204, 2	522, 1-6	HYW	dw i mynd lawr tu_allan *o_k*	---	NST
+
+
+205, 1	524, 1-8	ADA	ti isio mynd lawr tu_mewn ta yr canals	---	SNT
+
+
+206, 1	525, 1-3	HYW	*oh* ffwcia fo	NST	NST
+206, 2	526, 1-8	HYW	dw i wedi mynd ffordd *wrong* yn barod	NST	NST
+206, 3	527, 1-2	HYW	na fydd	NSNT	NSNT
+206, 4	527, 3-7	HYW	fydd *Dafydd* yn y canals	ST	ST
+206, 5	528, 1-3	HYW	betia i di	---	NSNT
+
+
+207, 1	529, 1-3	ADA	mae *Dafydd* bob	NST	NST
+207, 2	529, 4-7	ADA	tro yn y canals	SNT	SNT
+207, 3	530, 1-10	ADA	gwatsia cefn chdi os ti mynd o_dan bont nhw *o_k*	NST	NST
+207, 4	531, 1-8	ADA	tro *round* ar_ôl chdi fynd o_dan bont nhw	---	NST
+
+
+208, 1	532, 1-1	HYW	dyna	NSNT	NSNT
+208, 2	532, 2-4	HYW	dw i wneud	NSNT	NSNT
+208, 3	533, 1-9	HYW	dw i byth yn mynd all the way danodd	NSNT	SNT
+208, 4	534, 1-5	HYW	dw i wneud nhw meddwl	NSNT	NSNT
+208, 5	534, 6-9	HYW	bod fi yn flank_io	SNT	SNT
+208, 6	535, 1-3	HYW	canals are empty	SNT	NSNT
+208, 7	536, 1-5	HYW	*oh* fedra i weld *Dafydd*	NST	NST
+208, 8	537, 1-9	HYW	faswn i medru flank_io fo rwan heblaw am *William*	NST	ST
+208, 9	538, 1-5	HYW	dw i am wneud anyway	---	SNT
+
+
+209, 1	539, 1-6	ADA	dw i mynd ar tu_mewn *o_k*	---	NST
+
+
+210, 1	540, 1-1	HYW	sydyn	---	NSNT
+
+
+211, 1	541, 1-5	ADA	ti wedi weld o even	---	SNT
+
+
+212, 1	543, 1-7	HYW	mae o obviously ar y bont because	SNT	SNT
+212, 2	543, 8-13	HYW	dw i yn gallu gweld ei	---	NSNT
+
+
+213, 1	544, 1-6	ADA	na mae o ar y tu_mewn	NSNT	NSNT
+213, 2	545, 1-5	ADA	ond mae o yn cymryd	NSNT	NSNT
+213, 3	545, 6-12	ADA	mae o yn cymryd aim amdana chdi	---	SNT
+
+
+214, 1	546, 1-3	HYW	*o_k* dw *well*	NST	NST
+214, 2	546, 4-10	HYW	dw i methu saethu fo fan yma	SNT	NSNT
+214, 3	547, 1-3	HYW	attract_ia attention o	NSNT	SNT
+214, 4	548, 1-2	HYW	cyma fo	---	NSNT
+
+
+215, 1	549, 1-3	ADA	*nice* one *Hywel*	NST	NST
+215, 3	551, 1-5	ADA	because o'n i yn cover_o	SNT	SNT
+215, 4	552, 1-8	ADA	sut dw i yn cael nhw mor *fast*	ST	NST
+215, 5	553, 1-5	ADA	because oedd o yn deud	NSNT	SNT
+215, 6	553, 6-14	ADA	bod o wedi sbïo lle os o'n i yna	---	NSNT
+
+
+216, 1	554, 1-4	HYW	hefo x_ray eyes o	---	SNT
+
+
+217, 1	555, 1-4	ADA	hefo x_ray eyes o	---	SNT
+
+
+218, 1	556, 1-2	HYW	no *doubt*	ST	NST
+218, 3	558, 1-5	HYW	*o_k* fydd o ar y	NST	NST
+218, 4	558, 6-11	HYW	fydd o ar y tu_fewn rwan	---	NSNT
+
+
+219, 1	559, 1-4	ADA	a i amdano fo	---	NSNT
+
+
+220, 1	560, 1-8	HYW	dw i am aros yn y canals *o_k*	ST	ST
+220, 2	561, 1-6	HYW	dw i am gadael *Dafydd* dŵad	ST	NST
+220, 3	562, 1-4	HYW	because mae o_hyd yn	NSNT	SNT
+220, 4	563, 1-4	HYW	*o_k* mae *Dafydd* yna	---	NST
+
+
+221, 1	564, 1-1	ADA	gwatsia	NSNT	NSNT
+221, 2	565, 1-6	ADA	mae *Dafydd* yn uffernol o patient	ST	ST
+221, 3	565, 7-7	ADA	sti	---	NSNT
+
+
+222, 1	566, 1-5	HYW	uffernol o fach ydy o	NSNT	NSNT
+222, 2	567, 1-1	HYW	dyna	NSNT	NSNT
+222, 3	567, 2-4	HYW	be ydy o	---	NSNT
+
+
+223, 1	568, 1-1	ADA	uffernol	---	NSNT
+
+
+224, 1	569, 1-5	HYW	*o_k* mae hi yn headcount	ST	ST
+224, 2	570, 1-9	HYW	dw i yn gweld un *just* ddim isio symud	ST	NST
+224, 3	571, 1-6	HYW	because fydd *William* yna hefo headshot	ST	ST
+224, 4	572, 1-9	HYW	dos tu_ôl *pillar* os ti am cymryd *William* ar	ST	NST
+224, 5	573, 1-7	HYW	because wneith o cael headshot o *cover*	NST	ST
+224, 6	573, 8-8	HYW	wneith	---	NSNT
+
+
+225, 1	574, 1-5	ADA	lle ti wedi gweld *Dafydd*	---	NST
+
+
+226, 1	575, 1-3	HYW	yn y canals	---	SNT
+
+
+227, 1	576, 1-5	ADA	*er* tu_ôl i yr cwch	---	NST
+
+
+228, 1	577, 1-4	HYW	tu_ôl y cwch *yeah*	---	NST
+
+
+229, 1	578, 1-2	ADA	mae *William*	NST	NST
+229, 2	579, 1-6	ADA	ti yn gweld *steps* fan yna	---	NST
+
+
+230, 1	580, 1-4	HYW	*o_k* dw i mynd	---	NST
+
+
+231, 1	581, 1-8	ADA	ti yn gweld *gun* o yn y *steps*	---	NST
+
+
+232, 1	582, 1-2	HYW	fedra i	NSNT	NSNT
+232, 2	582, 3-6	HYW	fedra i clywed coesau	---	NSNT
+
+
+233, 1	583, 1-2	ADA	*o_k* gwatsia	NST	NST
+233, 2	584, 1-7	ADA	mae yna un *boy* yn y *steps*	NST	NST
+233, 3	585, 1-9	ADA	*o_k* ti yn gweld *gun* o ar *screen* fi	---	NST
+
+
+234, 1	586, 1-1	HYW	yndw	NSNT	NSNT
+234, 2	587, 1-3	HYW	pwy dy o	---	NSNT
+
+
+235, 1	588, 1-1	ADA	*Dafydd*	ST	NST
+235, 2	589, 1-3	ADA	lle mae *William*	NST	NST
+235, 3	590, 1-5	ADA	lle aeth hynna ddod o	---	NSNT
+
+
+236, 1	591, 1-3	HYW	dw ddim gwybod	NSNT	NSNT
+236, 2	592, 1-5	HYW	dw i o_dan bont yma	NSNT	NSNT
+236, 3	593, 1-5	HYW	dw i ar y tu_fewn	NSNT	NSNT
+236, 4	593, 6-11	HYW	dw i ar y tu_allan rwan	---	NSNT
+
+
+237, 1	594, 1-3	ADA	fi dy hwn	NSNT	NSNT
+237, 2	595, 1-6	ADA	mae raid na ar_hyd y tu_allan	NSNT	NSNT
+237, 3	595, 7-8	ADA	aeth *William*	---	NST
+
+
+238, 1	596, 1-5	HYW	*oh* *yeah* o bell *yeah*	NST	NST
+238, 2	597, 1-4	HYW	oes yna fan yna	---	NSNT
+
+
+239, 1	598, 1-8	ADA	na dw i ddim yn trystio fan yna	NSNT	NSNT
+239, 3	600, 1-11	ADA	dw i methu gweld o yn gongl bach yna fan yna	NSNT	NSNT
+239, 4	601, 1-1	ADA	ti	---	NSNT
+
+
+240, 1	602, 1-4	HYW	sbia ar *screen* fi	NST	NST
+240, 2	603, 1-6	HYW	fedra chdi weld o ar bont	---	NSNT
+
+
+241, 1	604, 1-4	ADA	coda yr angle fyny	NSNT	SNT
+241, 2	605, 1-2	ADA	dos lawr	NSNT	NSNT
+241, 3	606, 1-2	ADA	na fedraf	---	NSNT
+
+
+242, 1	607, 1-9	HYW	dw i ddim isio codi yr sniper fyny because	---	SNT
+
+
+243, 1	608, 1-4	ADA	a i ymlaen *o_k*	ST	NST
+243, 2	610, 1-5	ADA	because dw i yn trystio	NSNT	SNT
+243, 3	610, 6-13	ADA	fydda di gymryd o os ti yn gwybod	NSNT	NSNT
+243, 4	610, 14-16	ADA	lle mae o	---	NSNT
+
+
+244, 1	611, 1-3	HYW	dy o yna	---	NSNT
+
+
+245, 1	614, 1-1	ADA	tu_mewn	SNT	NSNT
+245, 2	615, 1-8	ADA	exactly un lle ac oedd o tro dwytha	---	SNT
+
+
+246, 1	616, 1-4	HYW	*um* dy o lawr	---	NST
+
+
+247, 1	617, 1-7	ADA	*ah* finally wnes i fedru kerb_stomp_io fo	NST	ST
+247, 2	617, 8-9	ADA	tro yna	---	NSNT
+
+
+248, 1	618, 1-3	HYW	paid a crio	NSNT	NSNT
+248, 4	621, 1-3	HYW	sbia hynna dau	---	NSNT
+
+
+249, 1	623, 1-5	ADA	mae o yn cwyno eto	---	NSNT
+
+
+250, 1	624, 1-3	HYW	dw i gwybod	---	NSNT
+
+
+251, 1	625, 1-5	ADA	ti wedi mynd yn oer	SNT	NSNT
+251, 2	626, 1-4	ADA	because dw i yn	---	SNT
+
+
+252, 1	627, 1-9	HYW	na dw i yn gwisgo *jacket* mawr dew *Adam*	---	NST
+
+
+253, 1	628, 1-1	ADA	*ta*	ST	NST
+253, 2	629, 1-4	ADA	ti wedi rush_io nhw	NSNT	SNT
+253, 3	631, 1-6	ADA	dw i ar tu_allan *o_k* *so*	---	NST
+
+
+254, 1	632, 1-7	HYW	be dy dy farn di ar rush_io	---	SNT
+
+
+255, 1	633, 1-3	ADA	lladd nhw gyd	NSNT	NSNT
+255, 2	634, 1-3	ADA	gwatsia dy ben	NSNT	NSNT
+255, 3	635, 1-3	ADA	gwatsia dy ben	---	NSNT
+
+
+256, 1	636, 1-8	HYW	na fedrith o ddim gael fi fan yna	NSNT	NSNT
+256, 2	636, 9-10	HYW	na fedrith	NSNT	NSNT
+256, 3	637, 1-3	HYW	mae yna bont	---	NSNT
+
+
+257, 1	638, 1-4	ADA	mae o ar tu_allan	NSNT	NSNT
+257, 2	639, 1-12	ADA	ti gwybod lle mae o efo sniper fel arfer ar y tu_allan	NSNT	SNT
+257, 4	641, 1-4	ADA	fan yna mae o	---	NSNT
+
+
+258, 1	642, 1-5	HYW	dan y bont yna *o_k*	---	NST
+
+
+259, 1	643, 1-5	ADA	os wnei di flank_io fo	NSNT	SNT
+259, 3	645, 1-5	ADA	os wnei di flank_io fo	NSNT	SNT
+259, 4	645, 6-9	ADA	gwna i fynd yna	NSNT	NSNT
+259, 5	646, 1-4	ADA	wna i fynd yna	NSNT	NSNT
+259, 6	646, 5-9	ADA	os wnei di flank_io fo	---	SNT
+
+
+260, 1	647, 1-4	HYW	*o_k* yn aim_io tu_ôl	---	ST
+
+
+261, 1	648, 1-7	ADA	mae o yn gwatsiad y flank *o_k*	---	ST
+
+
+262, 1	650, 1-2	HYW	ac eto	NSNT	NSNT
+262, 2	651, 1-4	HYW	dyro un arall iddo	SNT	NSNT
+262, 3	653, 1-3	HYW	*o_k* hang on	---	NST
+
+
+263, 1	654, 1-3	ADA	*nice* one *Hywel*	ST	NST
+263, 2	655, 1-4	ADA	ti yn gweld be	---	NSNT
+
+
+264, 1	656, 1-5	HYW	ti yn tynnu yr *trigger*	NST	NST
+264, 2	657, 1-6	HYW	a mae yr gelyn yn marw	---	NSNT
+
+
+265, 1	658, 1-7	ADA	because dw i digon agos i chdi	NSNT	SNT
+265, 2	659, 1-6	ADA	a dim fi wnaeth ladd chdi	NSNT	NSNT
+265, 3	660, 1-5	ADA	*yeah* *Hywel* wnaeth ladd chdi	---	NST
+
+
+266, 1	661, 1-2	HYW	naci yndy	NSNT	NSNT
+266, 2	661, 3-6	HYW	mae yn cael kill	---	SNT
+
+
+267, 1	662, 1-2	ADA	*Hywel* aeth	NST	NST
+267, 2	663, 1-5	ADA	tiwel mae *Dafydd* yn dweud	NST	NST
+267, 3	665, 1-2	ADA	*Hywel* wnaeth	---	NST
+
+
+268, 1	666, 1-6	HYW	oedd *Adam* *Adam* o_flaen chdi *just*	---	NST
+
+
+269, 1	668, 1-8	ADA	tiwel mae *Dafydd* even yn dweud na chdi	NST	ST
+269, 2	668, 9-9	ADA	wnaeth	NSNT	NSNT
+269, 3	669, 1-1	ADA	yli	NSNT	NSNT
+269, 4	669, 2-4	ADA	fydd o wneud	NSNT	NSNT
+269, 5	669, 5-5	ADA	yli	NSNT	NSNT
+269, 6	669, 6-14	ADA	mae mynd roi uffar o ffrae i *Dafydd* rwan	---	NST
+
+
+270, 1	670, 1-3	HYW	mi oedd o	SNT	NSNT
+270, 2	671, 1-1	HYW	*Keith*	ST	NST
+270, 4	673, 1-5	HYW	ti yn bwyso *back* de	NST	NST
+270, 5	674, 1-11	HYW	*um* dy yr bubble ddim yn disappear_io tan tua fan yma	---	ST
+
+
+271, 1	675, 1-7	ADA	ti gallu gweld o tŷ nain fo	NSNT	NSNT
+271, 2	676, 1-4	ADA	mae nain fo mynd	SNT	NSNT
+271, 3	677, 1-2	ADA	goodnight *Keith*	ST	NST
+271, 4	678, 1-4	ADA	nos da fat *boy*	NST	ST
+271, 6	680, 1-2	ADA	say goodbye	---	NSNT
+
+
+272, 1	681, 1-4	HYW	ti gwybod wnes i	NSNT	NSNT
+272, 2	681, 5-10	HYW	roid stid iddo fo gynnau *o_k*	---	NST
+
+
+273, 1	682, 1-9	ADA	*o_k* ti yn gweld *screen* fi wrth y frags	ST	ST
+273, 3	684, 1-3	ADA	tu_ôl y *car*	NST	NST
+273, 4	685, 1-4	ADA	a i amdano fo	---	NSNT
+
+
+274, 1	686, 1-7	HYW	*ah* dw i mynd i helpu chdi	---	NST
+
+
+275, 1	687, 1-4	ADA	mae wedi down_io fi	SNT	SNT
+275, 2	688, 1-2	ADA	*nice* one	NST	NST
+275, 3	689, 1-2	ADA	*oh* no	ST	NST
+275, 4	690, 1-5	ADA	*oh* bod chdi wedi gael	NST	NST
+275, 5	691, 1-4	ADA	est di down_io fo	---	SNT
+
+
+276, 1	693, 1-2	HYW	I did	NSNT	NSNT
+276, 2	694, 1-2	HYW	I'm *sure*	NST	NST
+276, 3	694, 3-4	HYW	I did	---	NSNT
+
+
+277, 1	695, 1-2	ADA	I thought	NSNT	NSNT
+277, 2	695, 3-7	ADA	I saw a *pussy* *cat*	---	NST
+
+
+278, 1	696, 1-2	HYW	absolutely not	---	NSNT
+
+
+279, 1	697, 1-3	ADA	*er* disgwyl tan	NST	NST
+279, 2	697, 4-5	ADA	mae tan	NSNT	NSNT
+279, 3	697, 6-11	ADA	dan ni wedi gorffen y peth	---	NSNT
+
+
+280, 1	698, 1-2	HYW	pa peth	NSNT	NSNT
+280, 2	699, 1-3	HYW	*boomer* iawn fi	---	NST
+
+
+281, 1	700, 1-2	ADA	*just* chdi	---	NST
+
+
+282, 1	701, 1-5	HYW	*yeah* dos di am sniper	ST	ST
+282, 2	702, 1-4	HYW	gwna headcount *straight* away	---	ST
+
+
+283, 1	704, 1-4	ADA	os oes yna ddau	NSNT	NSNT
+283, 2	705, 1-9	ADA	ddylaf fi gymryd nhw ar ta rhedeg o yna	NSNT	NSNT
+283, 3	706, 1-1	ADA	dim	---	NSNT
+
+
+284, 1	707, 1-2	HYW	*mmm* chdi	ST	NST
+284, 2	708, 1-1	HYW	shit	NSNT	NSNT
+284, 3	709, 1-3	HYW	that worries *me*	ST	NST
+284, 4	710, 1-1	HYW	dim	SNT	NSNT
+284, 5	711, 1-1	HYW	*whoah*	ST	NST
+284, 6	712, 1-5	HYW	*oh* shit dw i newydd	NST	ST
+284, 7	713, 1-4	HYW	ochr na ochr arall	SNT	NSNT
+284, 8	714, 1-2	HYW	*oh* shit	---	NST
+
+
+285, 1	715, 1-5	ADA	*oh* mae hynna ridiculous hynna	NST	ST
+285, 2	716, 1-5	ADA	wnes i saethu fo fan	---	NSNT
+
+
+286, 1	717, 1-1	HYW	twat	---	NSNT
+
+
+287, 1	718, 1-4	ADA	mae hynna *rubbish* hynna	---	NST
+
+
+288, 1	719, 1-7	HYW	ddylen ni weithio efo ein_gilydd fwy *yeah*	NST	NST
+288, 2	720, 1-8	HYW	a i am *boomer* eto tro yma iawn	NST	NST
+288, 3	721, 1-6	HYW	ond sbia ar ochr fi *o_k*	ST	NST
+288, 4	722, 1-4	HYW	because fydd *William* yno	---	ST
+
+
+289, 1	724, 1-4	ADA	paid â pigo *boomer*	ST	NST
+289, 2	725, 1-2	ADA	*straight* away	---	NST
+
+
+290, 1	726, 1-5	HYW	na wnes i survive_io hynna	NSNT	SNT
+290, 2	727, 1-6	HYW	dy *William* ddim yn glyfar iawn	NST	NST
+290, 3	728, 1-16	HYW	*just* fasa chdi yna efo yn aim_io efo sniper fasa chdi yn dychryn o i_fewn i	NST	ST
+290, 4	729, 1-7	HYW	*oh* a i_fewn i building actually *o_k*	---	ST
+
+
+291, 1	730, 1-4	ADA	dy o ddim yna	NSNT	NSNT
+291, 2	732, 1-7	ADA	*oh* *yeah* mae o yn yr *alcove*	NST	NST
+291, 3	732, 8-8	ADA	dydy	---	NSNT
+
+
+292, 1	734, 1-4	HYW	iwsio yr *stupid* *er*	---	NST
+
+
+293, 1	735, 1-4	ADA	fan yna mae o	---	NSNT
+
+
+294, 1	736, 1-7	HYW	wnaeth o iwsio yr *er* moonwalk *eh*	ST	ST
+294, 2	737, 1-1	HYW	*idiot*	---	NST
+
+
+295, 1	738, 1-6	ADA	dy o dal ar y dde	SNT	NSNT
+295, 3	741, 1-2	ADA	*nice* one	---	NST
+
+
+296, 1	742, 1-5	HYW	*stop* deud stopio iwsio moonwalk	ST	ST
+296, 2	743, 1-5	HYW	mae o unsporting conduct hynna	---	SNT
+
+
+297, 1	744, 1-3	ADA	stopia iwsio moonwalk	SNT	SNT
+297, 2	745, 1-4	ADA	mae yn unsporting conduct	SNT	SNT
+297, 3	745, 5-6	ADA	meddai *Hywel*	---	NST
+
+
+298, 1	746, 1-5	HYW	newid subject *straight* away *eh*	---	ST
+
+
+299, 1	747, 1-8	ADA	es i perchynu fan yna by the way	---	SNT
+
+
+300, 1	748, 1-2	HYW	honestly be	---	SNT
+
+
+301, 1	749, 1-7	ADA	bod *Andy* yn dweud yn gwneud gormod	NST	NST
+301, 2	750, 1-9	ADA	o'n i yn aim_io amdan fel sniper *boom* de	NST	ST
+301, 3	751, 1-7	ADA	wnes i weld *Dafydd* ar *screen* fi	NST	NST
+301, 4	752, 1-12	ADA	wnes i manejio jump_io unwaith cymryd *cover* newid weapon a lladd o	NST	ST
+301, 6	754, 1-6	ADA	iawn wnei di watsio flank fi	NSNT	SNT
+301, 7	755, 1-8	ADA	ac wna i aim_io am y *boomer* *please*	---	ST
+
+
+302, 1	756, 1-7	HYW	mae yr ddau ohonyn nhw yn flank_io	SNT	SNT
+302, 2	759, 1-6	HYW	mae un wedi mynd am *boomer*	NST	NST
+302, 3	760, 1-5	HYW	mae un wedi mynd *round*	---	NST
+
+
+303, 1	761, 1-6	ADA	cael active reload dw i *o_k*	---	ST
+
+
+304, 1	763, 1-4	HYW	gad o ddod i_fyny	NSNT	NSNT
+304, 2	764, 1-5	HYW	*o_k* mae un ochr arall	---	NST
+
+
+305, 1	765, 1-2	ADA	down_ia fo	---	SNT
+
+
+306, 1	766, 1-9	HYW	cymra fo tra mae *boy* arall mynd i helpu	NST	NST
+306, 2	767, 1-2	HYW	na dy	---	NSNT
+
+
+307, 1	768, 1-3	ADA	*nice* one *Hywel*	ST	NST
+307, 2	769, 1-11	ADA	os dy o yn dweud rywbeth am un *shot* rwan de	NST	NST
+307, 3	770, 1-4	ADA	fasai hynna ridiculous hynna	SNT	SNT
+307, 4	771, 1-2	ADA	no way	---	NSNT
+
+
+308, 1	772, 1-6	HYW	un headshot sy yn lladd fi	---	SNT
+
+
+309, 1	773, 1-5	ADA	oedd *Carwyn* ddim yn gwybod	NST	NST
+309, 2	773, 6-19	ADA	bod *er* un active reload *shot* yn lladd active reload lladd chdi efo sniper	---	ST
+
+
+310, 1	774, 1-3	HYW	na dim lladd	SNT	NSNT
+310, 2	775, 1-3	HYW	down_io chdi *yeah*	---	ST
+
+
+311, 1	776, 1-6	ADA	mae o down_io chdi efo sniper	SNT	SNT
+311, 2	777, 1-3	ADA	be *score* rwan	---	NST
+
+
+312, 1	778, 1-2	HYW	two all	SNT	NSNT
+312, 3	780, 1-2	HYW	pwy uffar	---	NSNT
+
+
+313, 1	782, 1-5	ADA	wna i gael gwared o	---	NSNT
+
+
+314, 1	784, 1-7	HYW	mae nhw dim_ond yn joinio yn dechrau	---	NSNT
+
+
+315, 1	785, 1-3	ADA	same *thing* *yeah*	ST	NST
+315, 2	786, 1-3	ADA	mae nhw yna	---	NSNT
+
+
+316, 1	787, 1-4	HYW	*so* a ni hefyd	NST	NST
+316, 2	788, 1-1	HYW	tri	SNT	NSNT
+316, 3	789, 1-1	HYW	twat	---	NSNT
+
+
+317, 1	790, 1-2	ADA	lladd fi	NSNT	NSNT
+317, 2	791, 1-5	ADA	*just* dal i saethu nhw	---	NST
+
+
+318, 1	792, 1-3	HYW	*oh* no way	---	NST
+
+
+319, 1	793, 1-7	ADA	*just* dos i_mewn efo shotgun chdi rwan	NST	ST
+319, 2	794, 1-4	ADA	mae o rev_io chainsaw	SNT	SNT
+319, 3	794, 5-7	ADA	dw i meddwl	---	NSNT
+
+
+320, 1	795, 1-3	HYW	dw i gwybod	---	NSNT
+
+
+321, 1	796, 1-2	ADA	plant *pot*	---	NST
+
+
+322, 1	797, 1-6	HYW	*whoah* wnes i *whoah* be uffar	---	NST
+
+
+323, 1	798, 1-3	ADA	*oh* hang on	---	NST
+
+
+324, 1	799, 1-2	HYW	fucking hell	SNT	NSNT
+324, 2	800, 1-3	HYW	be uffar *Adam*	---	NST
+
+
+325, 1	801, 1-3	ADA	be sy digwydd	NSNT	NSNT
+325, 2	802, 1-6	ADA	wyt ti yn control_o fo rwan	---	SNT
+
+
+326, 1	803, 1-8	HYW	deud wrthyn nhw o'n i methu stopio saethu	---	NSNT
+
+
+327, 1	804, 1-1	ADA	gwatsia	NSNT	NSNT
+327, 2	805, 1-7	ADA	un active reload *shot* a ti lawr	---	ST
+
+
+328, 1	806, 1-3	HYW	dw i gwybod	NSNT	NSNT
+328, 2	807, 1-13	HYW	slotio wnei di slotio *microphone* *thing* fi mewn yn i *pocket* fi *please*	NST	NST
+328, 3	808, 1-8	HYW	deud wrthyn nhw o'n i methu stopio saethu	---	NSNT
+
+
+329, 1	809, 1-8	ADA	doedd *Hywel* methu stopio saethu am ryw reswm	NST	NST
+329, 2	809, 9-15	ADA	pan oeddech chi ar y sniper *spot*	ST	ST
+329, 3	810, 1-4	ADA	oedd bwtwm yn *stuck*	---	NST
+
+
+330, 1	811, 1-5	HYW	mae newid subject *straight* away	ST	ST
+330, 2	812, 1-6	HYW	dim ots gynno fo neb arall	---	NSNT
+
+
+331, 1	814, 1-6	ADA	ti isio un ohonon ni flank_io	---	SNT
+
+
+332, 1	815, 1-2	HYW	fyny chdi	---	NSNT
+
+
+333, 1	816, 1-2	ADA	a i	---	NSNT
+
+
+334, 1	817, 1-3	HYW	dw i am	NSNT	NSNT
+334, 2	817, 4-12	HYW	dw i am wneud amazing plant *pot* manoeuvre fi	ST	ST
+334, 3	818, 1-7	HYW	because mae nhw yn of inferior minds	---	SNT
+
+
+335, 1	819, 1-3	ADA	a i then	---	SNT
+
+
+336, 1	821, 1-5	HYW	paid a mynd rhy sydyn	NSNT	NSNT
+336, 2	822, 1-5	HYW	*oh* does yna neb yna	---	NST
+
+
+337, 1	823, 1-1	ADA	un	---	NSNT
+
+
+338, 1	824, 1-3	HYW	ti angen *help*	NST	NST
+338, 2	825, 1-5	HYW	*William* dod ar_ôl chdi rwan	NST	NST
+338, 3	826, 1-7	HYW	mae *Dafydd* dod ar_ôl chdi tu_ôl fo	---	NST
+
+
+339, 1	827, 1-4	ADA	*nice* one *Hywel* *hmm*	---	NST
+
+
+340, 1	829, 1-8	HYW	hwnna easiest kill dw i erioed wedi gael	---	SNT
+
+
+341, 1	830, 1-5	ADA	dy *Dafydd* ddim yn cwyno	NST	NST
+341, 2	831, 1-8	ADA	mae o yn surprisingly cymryd o fath â	NSNT	SNT
+341, 3	831, 9-9	ADA	dyn	---	NSNT
+
+
+342, 1	832, 1-5	HYW	*yeah* dw i yn gwybod	---	NST
+
+
+343, 1	833, 1-7	ADA	thank God dw i rwan wedi tsiecio	NSNT	SNT
+343, 2	833, 8-11	ADA	mae *microphone* fi *off*	---	NST
+
+
+344, 1	836, 1-4	HYW	*sure* *private* *chat* anyway	---	NST
+
+
+345, 1	837, 1-8	ADA	na ti yn ti yn gallu glywed nhw	---	NSNT
+
+
+346, 1	838, 1-4	HYW	na mi eith nhw	---	NSNT
+
+
+347, 1	839, 1-2	ADA	*oh* gwneith	NST	NST
+347, 2	840, 1-7	ADA	i gael fath â higher tactical advantage	---	SNT
+
+
+348, 1	841, 1-7	HYW	*so* we *can* lose with greater efficiency	NST	NST
+348, 2	842, 1-6	HYW	*oh* shit dau *sorry* *sorry* *sorry*	NST	ST
+348, 3	843, 1-5	HYW	dw mynd am *boomer* *o_k*	NST	NST
+348, 4	844, 1-3	HYW	rhed o yna	NSNT	NSNT
+348, 5	845, 1-3	HYW	rhed o yna	SNT	NSNT
+348, 6	847, 1-5	HYW	it *s* always an *option*	---	NST
+
+
+349, 1	848, 1-3	ADA	wnest ti ddeud	NSNT	NSNT
+349, 2	848, 4-6	ADA	rhed o yna	SNT	NSNT
+349, 4	850, 1-3	ADA	thanks the advice	SNT	NSNT
+349, 5	851, 1-3	ADA	rhed o yna	NSNT	NSNT
+349, 7	853, 1-3	ADA	rhed o yna	---	NSNT
+
+
+350, 1	854, 1-8	HYW	*oh* na mae yna ddau o nhw yna	NST	NST
+350, 2	855, 1-6	HYW	mae ddau o nhw rei da	---	NSNT
+
+
+351, 1	856, 1-11	ADA	ti yn mor gutted wnaethon nhw ddim clywed y compliment yna	NSNT	SNT
+351, 2	856, 12-12	ADA	dwyt	---	NSNT
+
+
+352, 1	857, 1-1	HYW	nadw	NSNT	NSNT
+352, 2	858, 1-5	HYW	mor falch wnaethon nhw ddim	---	NSNT
+
+
+353, 1	859, 1-4	ADA	*William* ges i gynta	NST	NST
+353, 2	860, 1-4	ADA	os wnaeth hynna helpu	NSNT	NSNT
+353, 3	862, 1-11	ADA	ond doedd *Dafydd* methu chainsaw_io fi o mor bell â hynna	NST	ST
+353, 4	862, 12-13	ADA	nag oedd	---	NSNT
+
+
+354, 1	863, 1-1	HYW	*sorry*	---	NST
+
+
+355, 1	865, 1-7	ADA	*oh* oedden ni yn chwarae *Balderdash* neithiwr	NST	NST
+355, 2	866, 1-6	ADA	ti yn gwybod y *game* yna	NST	NST
+355, 3	867, 1-9	ADA	*oh* dw i ddim wedi chwarae fo efo chdi	NST	NST
+355, 4	868, 1-3	ADA	lle mae yna	---	NSNT
+
+
+356, 1	869, 1-5	HYW	*yeah* dw i yn gwybod	NST	NST
+356, 2	869, 6-8	HYW	be ydy o	---	NSNT
+
+
+357, 1	870, 1-3	ADA	ti yn gwybod	---	NSNT
+
+
+358, 1	872, 1-14	HYW	a deud wrtha fi deud wrtha fi *straight* away faint o bobl sy yna	---	ST
+
+
+359, 1	874, 1-8	ADA	ac *er* un o yr atebion go_wir oedd	ST	NST
+359, 2	875, 1-10	ADA	a man runs after people with a chainsaw killing everyone	---	NSNT
+
+
+360, 1	876, 1-2	HYW	*oh* mae	NST	NST
+360, 3	878, 1-9	HYW	wnaeth o *um* deud wrtho fo stopio iwsio moonwalk	ST	ST
+360, 4	879, 1-6	HYW	deud wrtho fo stopio iwsio moonwalk	---	SNT
+
+
+361, 1	880, 1-8	ADA	mae *Hywel* deud wrtha chdi stopio iwsio moonwalk	---	ST
+
+
+362, 1	881, 1-1	HYW	bumhole	---	NSNT
+
+
+363, 1	882, 1-1	ADA	*please*	---	NST
+
+
+364, 1	883, 1-3	HYW	na *as* if	---	ST
+
+
+365, 1	884, 1-1	ADA	bumhole	SNT	NSNT
+365, 2	885, 1-4	ADA	*yeah* iawn meddai fo	---	NST
+
+
+366, 1	886, 1-3	HYW	*yeah* iawn *mate*	---	NST
+
+
+367, 1	887, 1-5	ADA	mae yn deud *baps* *Hywel*	---	NST
+
+
+368, 1	888, 1-1	HYW	apples	---	NSNT
+
+
+369, 1	889, 1-1	ADA	apples	NSNT	NSNT
+369, 2	890, 1-1	ADA	apples	SNT	NSNT
+369, 3	891, 1-10	ADA	mae hyn mynd i swnio mor weird ar yr *um*	---	ST
+
+
+370, 1	892, 1-3	HYW	dw i gwybod	NSNT	NSNT
+370, 2	893, 1-7	HYW	dw i wedi newid motto fi eto	---	SNT
+
+
+371, 1	894, 1-2	ADA	i be	---	NSNT
+
+
+372, 1	895, 1-5	HYW	how you like them apples	---	NSNT
+
+
+373, 1	896, 1-6	ADA	how do you like them apples	SNT	NSNT
+373, 2	897, 1-6	ADA	*oh* *yeah* es i sylwi hynna	NST	NST
+373, 3	898, 1-8	ADA	ar_ôl *er* who wants a freaking motto *yeah*	---	ST
+
+
+374, 1	900, 1-1	HYW	*well*	---	NST
+
+
+375, 1	901, 1-1	ADA	frags	---	NSNT
+
+
+376, 1	902, 1-4	HYW	*o_k* dw i yn	NST	NST
+376, 2	902, 5-10	HYW	dw i yn rhedeg atat ti	NSNT	NSNT
+376, 3	903, 1-4	HYW	mae ddau o nhw	---	NSNT
+
+
+376, 4	903, 5-10	HYW	mae ddau o nhw ar frag	---	SNT
+
+
+378, 1	905, 1-9	HYW	mae yr ddau o nhw yn trio frag_io fi	NSNT	SNT
+378, 2	906, 1-2	HYW	mae un	NSNT	NSNT
+378, 3	906, 3-4	HYW	mae un	NSNT	NSNT
+378, 4	907, 1-5	HYW	mae un tu_ôl fi rwan	NSNT	NSNT
+378, 6	909, 1-2	HYW	oedd *William*	---	NST
+
+
+379, 1	910, 1-4	ADA	dw i damage_io fo	---	SNT
+
+
+380, 1	911, 1-4	HYW	oedd *William* yn meddwl	NST	NST
+380, 2	911, 5-11	HYW	bod o efo fi fan yna rwan	SNT	NSNT
+380, 3	912, 1-1	HYW	downs	NSNT	NSNT
+380, 4	913, 1-2	HYW	three all	---	NSNT
+
+
+381, 1	915, 1-7	ADA	ges i active reload yn fan yna	NSNT	SNT
+381, 2	917, 1-6	ADA	bob tro ti rhedeg active reload	---	SNT
+
+
+382, 1	918, 2-5	HYW	oedd *William* yn meddwl	NST	NST
+382, 2	918, 6-9	HYW	oedd *William* yn meddwl	NST	NST
+382, 3	918, 10-16	HYW	bod o efo fi fan yna rwan	NSNT	NSNT
+382, 4	919, 1-5	HYW	wnes i *just* troi *round*	NST	NST
+382, 5	920, 1-6	HYW	a fan yna oedd o sprint_io	SNT	SNT
+382, 6	921, 1-4	HYW	wnes i *just* *boom*	---	NST
+
+
+383, 1	922, 1-4	ADA	mae o yn deud	NSNT	NSNT
+383, 2	922, 5-8	ADA	wnaeth o tagio chdi	---	NSNT
+
+
+384, 1	923, 1-3	HYW	be efo shotgun	---	SNT
+
+
+385, 1	925, 1-6	ADA	oedda chdi efo shotgun chdi allan	NSNT	SNT
+385, 2	926, 1-6	ADA	oedda chdi efo shotgun chdi allan	SNT	SNT
+385, 3	927, 1-2	ADA	hang on	SNT	NSNT
+385, 4	928, 1-7	ADA	oes yna rywun wedi joinio yr *game*	---	NST
+
+
+386, 1	929, 1-2	HYW	saith *group*	---	NST
+
+
+387, 1	930, 1-6	ADA	wna i gael gwared o nhw	NSNT	NSNT
+387, 2	931, 1-9	ADA	dw i o_hyd pwsio start yn lle host *options*	NST	ST
+387, 3	932, 1-9	ADA	because dyna pwsio start ti wneud yn fan yna	NSNT	SNT
+387, 4	933, 1-5	ADA	mae hynna edrych *quite* amusing	---	ST
+
+
+388, 1	934, 1-5	HYW	fel yna mae *Call_of_Duty* o_hyd	---	NST
+
+
+389, 1	935, 1-5	ADA	pawb yn joinio a gadael	---	NSNT
+
+
+390, 1	936, 1-10	HYW	naci ti *just* gweld loads o enwau ar ochr *screen*	NST	ST
+390, 2	937, 1-4	HYW	ti ddim efo lle	NSNT	NSNT
+390, 3	938, 1-13	HYW	*oh* yr unig beth ti yn gweld ydy *gun* chdi a yr crosshair	---	ST
+
+
+391, 1	939, 1-7	ADA	*yeah* ti trio fo ar split *screen*	ST	ST
+391, 2	940, 1-6	ADA	dyn nhw di pigo sniper i_fyny	---	SNT
+
+
+392, 1	941, 1-9	HYW	*yeah* cofio ni yn chwarae fo yn tŷ fi	NST	NST
+392, 2	942, 1-4	HYW	pedwar flipping split *screen*	---	ST
+
+
+393, 1	943, 1-6	ADA	mae yna un yn fan yma	NSNT	NSNT
+393, 2	944, 1-4	ADA	ti gweld *screen* fi	---	NST
+
+
+394, 1	945, 1-1	HYW	yndw	---	NSNT
+
+
+395, 1	946, 1-12	ADA	mae yna un yn fan yna hefyd ar y ar y pella	---	NSNT
+
+
+396, 1	947, 1-2	HYW	dw ddim	NSNT	NSNT
+396, 2	947, 3-7	HYW	dw ddim isio symud eto	---	NSNT
+
+
+397, 1	948, 1-2	ADA	ti gweld	NSNT	NSNT
+397, 2	949, 1-8	ADA	mae yna un yn bellach yn fan yna	---	NSNT
+
+
+398, 1	950, 1-6	HYW	*o_k* dw i symud rwan iawn	NST	NST
+398, 2	951, 1-7	HYW	dw i dal efo *shot* arnyn nhw	---	NST
+
+
+399, 1	952, 1-2	ADA	iawn dos	NSNT	NSNT
+399, 2	952, 3-7	ADA	dos fyny yr *steps* yna	ST	NST
+399, 3	953, 1-1	ADA	pincer	---	NSNT
+
+
+400, 1	954, 1-2	HYW	*oh* *fuck*	ST	NST
+400, 2	955, 1-2	HYW	*oh* shit	---	NST
+
+
+401, 1	956, 1-4	ADA	mae wedi saethu fi	SNT	NSNT
+401, 2	957, 1-1	ADA	go	SNT	NSNT
+401, 3	958, 1-3	ADA	tua yr dde	---	NSNT
+
+
+402, 1	959, 1-8	HYW	na dylen ni ddau ddod lawr un ochr	NSNT	NSNT
+402, 2	960, 1-4	HYW	wneith hynna pethau fo	NSNT	NSNT
+402, 3	961, 1-13	HYW	*o_k* dyla fi symud pan ti ar pan ti wneud *stretch* chdi *o_k*	NST	NST
+402, 4	962, 1-5	HYW	mae yn aim_io arnaf i	NSNT	SNT
+402, 5	963, 1-5	HYW	mae yn aim_io arnaf i	---	SNT
+
+
+403, 1	964, 1-4	ADA	three two one go	---	NSNT
+
+
+404, 1	965, 1-2	HYW	cyma fo	NSNT	NSNT
+404, 2	966, 1-3	HYW	cyma fo sydyn	NSNT	NSNT
+404, 3	967, 1-4	HYW	mae yn aim_io chdi	SNT	SNT
+404, 4	968, 1-1	HYW	*whoah*	ST	NST
+404, 6	971, 1-2	HYW	all *right*	ST	NST
+404, 7	972, 1-1	HYW	be	SNT	NSNT
+404, 8	973, 1-1	HYW	*ha*	---	NST
+
+
+405, 1	974, 1-3	ADA	mae newydd ddeud	NSNT	NSNT
+405, 2	975, 1-5	ADA	does yna ddim *point* chwarae	NST	NST
+405, 3	976, 1-5	ADA	mae o mor warthus *yeah*	---	NST
+
+
+406, 1	977, 1-2	HYW	pwy fo	NSNT	NSNT
+406, 2	979, 1-4	HYW	does pwynt chwarae Jesus_Christ	SNT	SNT
+406, 3	980, 1-5	HYW	*o_k* fedra i weld un	ST	NST
+406, 4	981, 1-2	HYW	nicely done	SNT	NSNT
+406, 5	982, 1-7	HYW	*o_k* wna i ddod i_fyny ata chdi	ST	NST
+406, 6	983, 1-1	HYW	*Adam*	---	NST
+
+
+407, 1	984, 1-2	ADA	*boom* headshot	ST	NST
+407, 2	985, 1-5	ADA	aeth o no way methu	---	SNT
+
+
+408, 1	986, 1-4	HYW	yn taeru mae dal	NSNT	NSNT
+408, 2	986, 5-10	HYW	mae yn dal i daeru rwan	NSNT	NSNT
+408, 3	987, 1-3	HYW	betia i di	NSNT	NSNT
+408, 4	989, 1-7	HYW	wneith o saethu fi *round* yma rwan	---	NST
+
+
+409, 1	990, 1-4	ADA	saethu *right* dechrau dydy	---	NST
+
+
+410, 1	991, 1-3	HYW	dw i gwybod	NSNT	NSNT
+410, 2	992, 1-4	HYW	dw i wneud hynna	---	NSNT
+
+
+411, 1	993, 1-3	ADA	dw i yn	---	NSNT
+
+
+412, 1	994, 1-3	HYW	cychwyn nhw fyny	NSNT	NSNT
+412, 2	995, 1-4	HYW	ti yn bellach away	SNT	SNT
+412, 3	996, 1-11	HYW	*o_k* mae nhw wedi gweld fi yn dod lawr rwan guaranteed	NST	ST
+412, 4	997, 1-1	HYW	however	SNT	NSNT
+412, 5	998, 1-4	HYW	ti wedi ladd o	NSNT	NSNT
+412, 6	999, 1-2	HYW	do rwan	NSNT	NSNT
+412, 7	1000, 1-4	HYW	*oh* lle mae *Dafydd*	ST	NST
+412, 8	1001, 1-5	HYW	because *Dafydd* wnest ti ddechrau	---	ST
+
+
+413, 1	1002, 1-2	ADA	*Dafydd* be	---	NST
+
+
+414, 1	1003, 1-5	HYW	*Dafydd* wnest ti ddechrau cwffio	NST	NST
+414, 2	1004, 1-7	HYW	dim yr un *boy* oedd hwnna naci	NST	NST
+414, 3	1006, 1-6	HYW	*o_k* dw i yn croesi rwan	---	NST
+
+
+415, 1	1007, 1-2	ADA	ti gweld	NSNT	NSNT
+415, 2	1008, 1-4	ADA	mae nhw yn taeru	NSNT	NSNT
+415, 3	1008, 5-9	ADA	bod nhw yn methu fi	NSNT	NSNT
+415, 4	1009, 1-14	ADA	*er* bod fi yn watsiad y time da yna o mynd mewn i *cover*	ST	ST
+415, 5	1010, 1-2	ADA	*o_k* go	---	NST
+
+
+416, 1	1011, 1-6	HYW	*yeah* dw i hanner ffordd yna	---	NST
+
+
+417, 1	1013, 1-3	ADA	*nice* one *Hywel*	ST	NST
+417, 2	1014, 1-7	ADA	*oh* *yeah* dan ni efo dau host	ST	ST
+417, 3	1014, 8-8	ADA	dydan	NSNT	NSNT
+417, 4	1015, 1-6	ADA	*oh* aeth *Carwyn* host_io *game* ddoe	ST	ST
+417, 5	1017, 1-3	ADA	first to sixteen	SNT	NSNT
+417, 6	1018, 1-5	ADA	wnaethon ni guro sixteen one	SNT	SNT
+417, 7	1019, 1-5	ADA	a ges i twenty_six kills	---	SNT
+
+
+418, 1	1020, 1-2	HYW	da iawn	---	NSNT
+
+
+419, 1	1021, 1-5	ADA	a dim fi oedd host	---	SNT
+
+
+420, 1	1022, 1-2	HYW	be *Lost_Planet*	---	NST
+
+
+421, 1	1023, 1-3	ADA	naci ar *er*	ST	NST
+421, 2	1025, 1-1	ADA	*Gears_of_War*	---	NST
+
+
+422, 1	1026, 1-1	HYW	go	---	NSNT
+
+
+423, 1	1027, 1-1	ADA	go	SNT	NSNT
+423, 2	1028, 1-4	ADA	yr hen go yna	---	SNT
+
+
+424, 1	1029, 1-4	HYW	by any *chance* felly	NST	ST
+424, 2	1030, 1-7	HYW	*Adam* ti mynd i_fyny ar y rai	NST	NST
+424, 4	1032, 1-3	HYW	dan ni ddim	NSNT	NSNT
+424, 5	1032, 4-11	HYW	dan ni efo dim coursework ar_ôl rwan na	NSNT	SNT
+424, 6	1034, 1-2	HYW	gwych de	NSNT	NSNT
+424, 7	1035, 1-8	HYW	o'n i trio explain_io nain fi hynna de	NSNT	SNT
+424, 8	1036, 1-8	HYW	*yeah* *so* mae ysgol really wedi gorffen rwan	NST	ST
+424, 9	1037, 1-9	HYW	dim_ond dim_ond adolygu ar yr *exams* sy gynno fi	NST	NST
+424, 10	1038, 1-7	HYW	*oh* be *so* ti wedi gadael ysgol	NST	NST
+424, 12	1040, 1-1	HYW	naddo	NSNT	NSNT
+424, 13	1041, 1-5	HYW	*o_k* mae nhw tu_ôl fi	NST	NST
+424, 14	1042, 1-3	HYW	betia i di	---	NSNT
+
+
+425, 1	1045, 1-13	ADA	*Hywel* ei di *round* *thing* a troi chwith a troi chwith eto *please*	NST	NST
+425, 2	1046, 1-5	ADA	tsiecio os dyn nhw yna	NSNT	NSNT
+425, 3	1047, 1-2	ADA	troi chwith	NSNT	NSNT
+425, 4	1048, 1-3	ADA	dyn nhw yna	NSNT	NSNT
+425, 5	1049, 1-1	ADA	dde	NSNT	NSNT
+425, 6	1050, 2-3	ADA	mae nhw	NSNT	NSNT
+425, 7	1052, 1-6	ADA	iawn *o_k* dw i dod rwan	NST	NST
+425, 9	1054, 1-2	ADA	un arall	NSNT	NSNT
+425, 10	1055, 1-3	ADA	cael o chwith	NSNT	NSNT
+425, 11	1056, 1-2	ADA	i chwith	NSNT	NSNT
+425, 12	1057, 1-2	ADA	i chwith	---	NSNT
+
+
+426, 1	1058, 1-4	HYW	pwy oedd o *Dafydd*	---	NST
+
+
+427, 1	1059, 1-2	ADA	*Dafydd* chainsaw_io	ST	NST
+427, 2	1060, 1-2	ADA	*nice* one	ST	NST
+427, 3	1061, 1-3	ADA	*oh* *William* oedd	NST	NST
+427, 4	1062, 1-4	ADA	*William* oedd yn chainsaw_io	---	ST
+
+
+428, 1	1064, 1-2	HYW	*surprise* *surprise*	---	NST
+
+
+429, 1	1065, 1-5	ADA	because dan ni *lot* gwell	---	ST
+
+
+430, 1	1066, 1-6	HYW	be sy yn *er* ridiculous rwan	---	ST
+
+
+431, 1	1067, 1-7	ADA	mae yn impossible cwffio ni efo shotgun	SNT	SNT
+431, 2	1068, 1-3	ADA	*so* mae wedi	NST	NST
+431, 3	1068, 4-8	ADA	roid give up arna fo	---	SNT
+
+
+432, 1	1069, 1-2	HYW	*oh* *fuck*	ST	NST
+432, 2	1070, 1-5	HYW	cofio yr *boy* yna ddoe	NST	NST
+432, 3	1071, 1-7	HYW	oedd o yn *just* cerdded fath â	NST	NST
+432, 4	1072, 1-7	HYW	oedd o yn edrych *right* *cool* actually	ST	ST
+432, 6	1075, 1-9	HYW	*oh* *yeah* dw i ddim wedi pigo sniper i_fyny	NST	ST
+432, 8	1077, 1-3	HYW	ochr chdi *yeah*	---	NST
+
+
+433, 1	1078, 1-2	ADA	fan yna	---	NSNT
+
+
+434, 1	1079, 1-5	HYW	*o_k* dw i croesi rwan	NST	NST
+434, 2	1080, 1-1	HYW	tu_ôl	SNT	NSNT
+434, 3	1081, 1-2	HYW	*oh* *Adam*	ST	NST
+434, 4	1082, 1-3	HYW	*Dafydd* waeddi hynna	---	NST
+
+
+435, 1	1083, 1-7	ADA	pam wnes i jump_io pasio chainsaw chdi	NSNT	SNT
+435, 2	1084, 1-13	ADA	es i saethu chdi cyn y melee attack ac ar_ôl y melee attack	---	SNT
+
+
+436, 1	1085, 1-4	HYW	*so* cau dy geg	---	NST
+
+
+437, 1	1086, 1-13	ADA	a dy sniper ddim yn gryfach na unrhyw weapon arall efo melee attacks	SNT	SNT
+437, 2	1087, 1-4	ADA	dw i hate_io pobl	NSNT	SNT
+437, 3	1087, 5-6	ADA	sy meddwl	NSNT	NSNT
+437, 4	1087, 7-16	ADA	bod rhai weapons yn well am melee attacks na lleill	---	SNT
+
+
+438, 1	1088, 2-8	HYW	a mae *Hammer_of_dawn* yn *pathetic* yn melee	---	ST
+
+
+439, 1	1089, 1-2	ADA	yn waeth	NSNT	NSNT
+439, 2	1090, 1-16	ADA	mae cymryd tri efo *Hammer_of_dawn* a dau efo bob un arall ac un efo chainsaw obviously	---	ST
+
+
+440, 1	1092, 1-11	HYW	ti gwybod Insane mae cymryd tua chwech o whacks mynd lawr	---	SNT
+
+
+441, 1	1094, 1-7	ADA	*o_k* ti gweld *screen* fi fan yna	---	NST
+
+
+442, 1	1095, 1-1	HYW	yndw	NSNT	NSNT
+442, 2	1096, 1-4	HYW	pa *level* ti ar	ST	NST
+442, 3	1097, 1-1	HYW	first	---	NSNT
+
+
+443, 1	1099, 1-2	ADA	fan yna	NSNT	NSNT
+443, 2	1100, 1-6	ADA	ti weld o ar *screen* fi	---	NST
+
+
+444, 1	1101, 1-5	HYW	second *level* dy hwnna *Adam*	---	ST
+
+
+445, 1	1102, 1-2	ADA	fan yna	---	NSNT
+
+
+446, 1	1103, 1-3	HYW	faint ohonyn nhw	---	NSNT
+
+
+447, 1	1104, 1-2	ADA	*just* un	---	NST
+
+
+448, 1	1105, 1-2	HYW	*o_k* dw	NST	NST
+448, 2	1105, 3-5	HYW	dw mynd i_fyny	NSNT	NSNT
+448, 3	1106, 1-5	HYW	dw i wedi gweld *Dafydd*	NST	NST
+448, 4	1107, 1-2	HYW	*boomer* cachu	---	NST
+
+
+449, 1	1108, 1-5	ADA	eith o cwyno amdan hynna	---	NSNT
+
+
+450, 1	1109, 1-4	HYW	*ah* cau dy geg	---	NST
+
+
+451, 1	1110, 1-4	ADA	mae dal i gwyno	---	NSNT
+452, 2	1112, 1-3	HYW	o'n i wallgo	NSNT	NSNT
+452, 3	1113, 1-4	HYW	o'n i fath â	NSNT	NSNT
+452, 4	1114, 1-14	HYW	timod pan o'n i gyrru messages written i chi wneud impressions o a ballu	NSNT	SNT
+452, 5	1116, 1-12	HYW	ond oedd o yr unig ffordd o'n i medru express_io pethau fi	---	SNT
+
+
+453, 1	1117, 1-3	ADA	oedd o ridiculous	SNT	SNT
+453, 2	1117, 4-4	ADA	doedd	NSNT	NSNT
+453, 3	1118, 1-3	ADA	be oedd o	NSNT	NSNT
+453, 4	1119, 1-6	ADA	dadlau efo fi oedd o *yeah*	---	NST
+
+
+454, 1	1120, 1-2	HYW	a *Carwyn*	---	NST
+
+
+455, 1	1121, 1-6	ADA	*yeah* oedd o yn fucking *nob*	---	ST
+
+
+456, 1	1122, 1-2	HYW	no way	NSNT	NSNT
+456, 2	1123, 1-2	HYW	no way	SNT	NSNT
+456, 3	1124, 1-7	HYW	sut uffar wnaeth *Hywel* wneud hynna rwan	NST	NST
+456, 4	1125, 1-5	HYW	dim *Hywel* oedd o *Carwyn*	NST	NST
+456, 5	1126, 1-7	HYW	sut uffar wnaeth *Carwyn* wneud hynna rwan	---	NST
+
+
+457, 1	1127, 1-2	ADA	ti gweld	NSNT	NSNT
+457, 2	1128, 1-7	ADA	pan oedden nhw yn y *rounds* cynta	NST	NST
+457, 3	1129, 1-12	ADA	oedden nhw yn gallu curo ni efo shotgun *just* dim yn aml	NST	ST
+457, 5	1131, 1-10	ADA	a rwan mae nhw yn decide_io all of a *sudden*	ST	ST
+457, 6	1132, 1-4	ADA	dyn nhw methu wneud	---	NSNT
+
+
+458, 1	1133, 1-7	HYW	*oh* lawr grisiau y ddau o nhw	---	NST
+
+
+459, 1	1134, 1-3	ADA	dau o nhw	NSNT	NSNT
+459, 2	1135, 1-4	ADA	*yeah* piga sniper fyny	NST	ST
+459, 3	1136, 1-3	ADA	piga sniper fyny	---	SNT
+
+
+460, 1	1137, 1-3	HYW	mi ydw i	NSNT	NSNT
+460, 2	1138, 1-3	HYW	mi ydw i	NSNT	NSNT
+460, 3	1139, 1-4	HYW	pennau nhw lawr rwan	---	NSNT
+
+
+461, 1	1140, 1-7	ADA	mae un wedi mynd yn_ôl fyny grisiau	---	NSNT
+
+
+462, 1	1141, 1-1	HYW	*whoah*	---	NST
+
+
+463, 1	1142, 1-8	ADA	mae yr ddau wedi mynd yn_ôl fyny grisiau	NSNT	NSNT
+463, 2	1143, 1-3	ADA	mae un nac	NSNT	NSNT
+463, 3	1143, 5-12	ADA	mae nhw dau o nhw dal yn gwaelod	NSNT	NSNT
+463, 4	1145, 1-2	ADA	*just* wrth	---	NST
+
+
+464, 1	1146, 1-2	HYW	*o_k* dw	NST	NST
+464, 2	1146, 3-6	HYW	dw i efo chdi	---	NSNT
+
+
+465, 1	1147, 1-4	ADA	ti gweld *screen* fi	---	NST
+
+
+466, 1	1148, 1-4	HYW	dw i efo chdi	NSNT	NSNT
+466, 2	1149, 1-5	HYW	dw i tu_ôl chdi rwan	---	NSNT
+
+
+467, 1	1150, 1-8	ADA	iawn os wna i mynd i_fyny ffordd yma	NSNT	NSNT
+467, 2	1151, 1-5	ADA	dos di trwy fan yna	---	NSNT
+
+
+468, 1	1152, 1-1	HYW	dos	NSNT	NSNT
+468, 2	1153, 1-1	HYW	dos	NSNT	NSNT
+468, 3	1154, 1-1	HYW	dos	NSNT	NSNT
+468, 4	1155, 1-1	HYW	dos	NSNT	NSNT

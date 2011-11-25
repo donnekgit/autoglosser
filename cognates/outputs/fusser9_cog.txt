@@ -1,0 +1,2216 @@
+
+
+1, 1	1, 1-5	BAG	*er* oedd o yn *er*	NST	NST
+1, 2	1, 6-8	BAG	oedd o yn	NSNT	NSNT
+1, 3	1, 9-10	BAG	dyna fo	NSNT	NSNT
+1, 4	1, 11-11	BAG	dyna	NSNT	NSNT
+1, 5	1, 12-17	BAG	oedd o wedi dallt na lloc	NSNT	NSNT
+1, 6	1, 18-24	BAG	oedd yr y wal o_gwmpas yr eglwys	---	NSNT
+
+
+2, 1	2, 1-1	ABE	lloc	---	NSNT
+
+
+3, 1	3, 1-4	BAG	wrth_gwrs lloc ydy corlan	---	NSNT
+
+
+4, 1	4, 1-8	ABE	ia corlan yr anifeiliaid mwy neu lai *yeah*	---	NST
+
+
+5, 1	5, 1-18	BAG	yn y yn y yn y yn y yn y deheubarth neu yn y canolbarth beth bynnag yn_de	NSNT	NSNT
+5, 2	6, 1-3	BAG	*er* ond *um*	---	NST
+
+
+6, 1	7, 1-7	ABE	*well* *yeah* mae e ffordd yma hefyd	NST	NST
+6, 2	8, 1-7	ABE	timod gyn ti enwau lleoedd ffordd yna	---	NSNT
+
+
+6, 3	10, 1-5	ABE	*Pont_Lloc* yn *Nebo* acw a	NST	NST
+7, 2	12, 25-27	BAG	oedd efo lloc	NSNT	NSNT
+7, 3	13, 1-3	BAG	ond oedd *Gruff*	NST	NST
+7, 4	14, 1-9	BAG	os os ddalltais i o yn iawn felly oedd	NSNT	NSNT
+7, 5	14, 10-10	BAG	yr	NSNT	NSNT
+7, 6	14, 11-27	BAG	oedd y wal o_gwmpas yr eglwys yn ryw fath o yn yn yn yn lloc go iawn	NSNT	NSNT
+7, 7	14, 29-32	BAG	wsti *um* yn hytrach	NST	NST
+7, 8	14, 33-42	BAG	na bod o yn gorlan gadw defaid neu beth bynnag	NSNT	NSNT
+7, 9	15, 1-3	BAG	hwyrach bod yna	NSNT	NSNT
+7, 10	16, 1-1	BAG	achos	NSNT	NSNT
+7, 11	17, 1-5	BAG	ti nabod *Huw* *Huw_Watkin* *Penrhyn*	---	NST
+
+
+8, 1	18, 1-1	ABE	yndw	---	NSNT
+
+
+9, 1	19, 1-2	BAG	yr *er*	---	NST
+
+
+10, 1	20, 1-2	ABE	*yeah* gymeriad	---	NST
+
+
+11, 1	21, 1-4	BAG	*yeah* yr *um* mathemategydd	---	NST
+
+
+12, 1	22, 1-5	ABE	*yeah* *yeah* seryddwr a ballu	---	NST
+
+
+13, 1	24, 1-3	BAG	ia seryddwr ia	NSNT	NSNT
+13, 2	25, 1-6	BAG	ew wrth fy modd efo fo	NSNT	NSNT
+13, 3	26, 1-5	BAG	ac oedd *Rhys_Parry* yna hefyd	NST	NST
+13, 4	26, 7-7	BAG	wsti	---	NSNT
+
+
+14, 1	27, 1-1	ABE	gymeriad	NSNT	NSNT
+14, 2	28, 1-16	ABE	oedd o yn be ti yn galw athro mathemateg ar *Elen* fy wraig i ti weld	---	NST
+
+
+15, 1	30, 2-4	BAG	na oedd wir	---	NSNT
+
+
+16, 1	31, 1-3	ABE	Ysgol *Glan_Clwyd* de	NST	NST
+16, 2	34, 1-3	ABE	argian gymeriad de	---	NSNT
+
+
+17, 1	35, 1-6	BAG	wrth fy modd efo fo de	NSNT	NSNT
+17, 2	36, 1-2	BAG	ac er	NSNT	NSNT
+17, 3	37, 1-6	BAG	oedd o yn gweithio yn *Greenwich*	NST	NST
+17, 4	37, 7-8	BAG	doedd na	---	NSNT
+
+
+18, 1	39, 1-6	ABE	oedd yn tad yn gynnar felly	NSNT	NSNT
+18, 2	39, 7-21	ABE	timod ac yn *um* *er* cymeryd mesuriadau ar leoliadau rei o yr sêr ballu wedyn	NST	NST
+18, 3	42, 1-14	ABE	roth o sgwrs yn lle yna yn *Tan_y_Bwlch* ar un o yr sgyrsiau yma	NST	NST
+18, 4	42, 15-16	ABE	timod Llên_Gwerin	---	NSNT
+
+
+19, 1	43, 1-5	BAG	mae o yn wneud sgyrsiau	NSNT	NSNT
+19, 2	44, 1-3	BAG	wsti achos *er*	NST	NST
+19, 3	44, 4-4	BAG	dw	NSNT	NSNT
+19, 4	44, 5-19	BAG	dw i yn gweld o yn ddyn isio cadw allan o bethau fel yna felly	NSNT	NSNT
+19, 5	46, 1-5	BAG	ond *er* *oh* dyna fo	---	NST
+
+
+20, 1	47, 1-12	ABE	ia ia *yeah* ond *oh* os gei di gyfle ryw dro *um*	NST	NST
+20, 2	49, 1-1	ABE	sgwrs	NSNT	NSNT
+20, 3	50, 1-2	ABE	hynny ydy	NSNT	NSNT
+20, 4	50, 3-6	ABE	mae o yn anhygoel	NSNT	NSNT
+20, 5	50, 7-7	ABE	sti	NSNT	NSNT
+20, 6	51, 1-11	ABE	mae yn un o yr *er* *er* y traddodwyr mwya anhygoel	NST	NST
+20, 7	51, 12-16	ABE	dw i wedi glywed erioed	NSNT	NSNT
+20, 8	51, 17-18	ABE	dw meddwl	NSNT	NSNT
+20, 9	52, 1-8	ABE	oherwydd fe wneith o ymdrin â pwnc seryddol	NSNT	NSNT
+20, 10	54, 1-4	ABE	yn fanwl wyddonol wsti	NSNT	NSNT
+20, 11	56, 1-4	ABE	ac eto fyth de	NSNT	NSNT
+20, 12	56, 5-9	ABE	mae *style* o draethu o	NST	NST
+20, 13	56, 11-13	ABE	timod mor funny	SNT	SNT
+20, 14	59, 2-5	ABE	mae golwg hollol *straight*	---	NST
+
+
+21, 1	60, 1-2	BAG	dw i	NSNT	NSNT
+21, 2	60, 3-13	BAG	dw i ddim wedi glywed o yn siarad yn gyhoeddus o_gwbl	---	NSNT
+
+
+22, 1	62, 1-2	ABE	neu timod	NSNT	NSNT
+22, 2	62, 3-7	ABE	oedd pobl wrth eu boddau	NSNT	NSNT
+22, 3	65, 1-9	ABE	oedd gynnyn nhw ddim diddordeb o_gwbl yn y pwnc	---	NSNT
+
+
+23, 1	66, 1-4	BAG	*yeah* *yeah* ond *just*	---	NST
+
+
+24, 1	67, 1-12	ABE	a ddim cofio diawl o ddim_byd am be oedd o yn draddodi	---	NSNT
+
+
+25, 1	68, 1-4	BAG	ond efô yn dod	---	NSNT
+
+
+26, 1	69, 1-6	ABE	ond ond *oh* *just* watsied o	NST	NST
+26, 2	71, 1-3	ABE	ac yn traddodi	NSNT	NSNT
+26, 3	73, 1-3	ABE	a timod argoeledig	NSNT	NSNT
+26, 4	73, 4-6	ABE	dyna chdi draddodwr	---	NSNT
+
+
+27, 1	75, 1-2	BAG	mae o	NSNT	NSNT
+27, 2	75, 3-3	BAG	mae	NSNT	NSNT
+27, 3	75, 4-14	BAG	mae gynno fo frwdfrydedd heintus yn_does i ddeud y gwir felly	---	NSNT
+
+
+28, 1	76, 1-3	ABE	*oh* anhygoel sti	---	NST
+
+
+29, 1	78, 1-2	BAG	a dyna	NSNT	NSNT
+29, 2	78, 3-6	BAG	be oedd gynno fo	NSNT	NSNT
+29, 3	79, 1-3	BAG	oedd o yn	NSNT	NSNT
+29, 4	79, 4-4	BAG	roid	NSNT	NSNT
+29, 5	79, 5-8	BAG	ei bwt i_fewn felly	NSNT	NSNT
+29, 6	80, 1-11	BAG	oedden ni yn sôn am y lloc yma felly ac *um*	NST	NST
+29, 7	81, 1-9	BAG	o yr Lladin wyddost ti *er* *er* local yn_de	NST	ST
+29, 8	82, 1-4	BAG	lloc local location yn_de	NSNT	SNT
+29, 9	84, 1-1	BAG	dyna	NSNT	NSNT
+29, 10	84, 2-6	BAG	be oedd o yn ddeud	NSNT	NSNT
+29, 11	85, 1-2	BAG	wedyn mae	NSNT	NSNT
+29, 12	85, 3-5	BAG	mae yn amlwg	NSNT	NSNT
+29, 13	85, 6-7	BAG	bod o	NSNT	NSNT
+29, 14	85, 8-22	BAG	yn bod o yn air sydd yn golygu mwy na corlan ddefaid felly yn wreiddiol	NSNT	NSNT
+29, 15	85, 24-24	BAG	wsti	NSNT	NSNT
+29, 16	85, 25-27	BAG	a bod o	NSNT	NSNT
+29, 18	85, 55-62	BAG	be baset ti yn ddeud cell mynach felly	NSNT	NSNT
+29, 19	85, 64-64	BAG	wsti	---	NSNT
+
+
+30, 1	87, 1-3	ABE	*yeah* bosib *yeah*	NST	NST
+30, 2	88, 1-4	ABE	*yeah* cell mynach *yeah*	---	NST
+
+
+31, 1	89, 1-3	BAG	ond *er* wsti	NST	NST
+31, 2	89, 4-10	BAG	oedd y drafodaeth yn symud felly o	NSNT	NSNT
+31, 3	90, 1-1	BAG	wsti	NSNT	NSNT
+31, 4	90, 2-8	BAG	oedd o *er* yn yr un gwynt	NST	NST
+31, 5	90, 9-16	BAG	*just* oedd *um* rywun yn sôn am na	NST	NST
+31, 6	90, 17-23	BAG	na wnaeth *Gruff* sôn am y gored	NST	NST
+31, 7	92, 1-5	BAG	i_lawr ar y traeth yn_de	NSNT	NSNT
+31, 8	93, 1-2	BAG	mae yna	NSNT	NSNT
+31, 9	93, 3-4	BAG	mae yna	NSNT	NSNT
+31, 10	94, 1-20	BAG	dwn i ddim os ti yn gwybod yn fan yna felly ar y foryd ar y foryd yn fan yna	NSNT	NSNT
+31, 11	94, 21-22	BAG	mae yna	NSNT	NSNT
+31, 12	94, 23-27	BAG	mae yna hen gored yn_does	NSNT	NSNT
+31, 13	94, 28-28	BAG	wsti	NSNT	NSNT
+31, 14	97, 1-4	BAG	ac *um* wedyn oedd	NST	NST
+31, 15	97, 5-5	BAG	yr	NSNT	NSNT
+31, 16	97, 6-9	BAG	oedd y drafodaeth *um*	NST	NST
+31, 17	98, 1-11	BAG	*er* dw ddim yn gwybod faint o drafodaeth go iawn ta	NST	NST
+31, 18	98, 12-21	BAG	be oedd yn mynd ymlaen yn y mhen i felly	NSNT	NSNT
+31, 19	99, 1-7	BAG	ond *um* y gair gored yn_de cored	NST	NST
+31, 20	99, 8-9	BAG	yn_de cor	NSNT	NSNT
+31, 21	99, 11-12	BAG	wsti corlan	NSNT	NSNT
+31, 22	99, 14-23	BAG	wsti yr un math o syniad o rywbeth yn amgáu	NSNT	NSNT
+31, 23	102, 1-4	BAG	lloc corlan yn_de bangor	NSNT	NSNT
+31, 24	103, 1-1	BAG	wsti	NSNT	NSNT
+31, 25	103, 2-15	BAG	dw i wrth y modd efo yr efo yr *um* termau fel yna felly	NST	NST
+31, 26	103, 17-17	BAG	wsti	---	NSNT
+
+
+32, 1	104, 1-8	ABE	ia yr tarddiadau ieithegol yma dyna chdi *yeah*	---	NST
+
+
+33, 1	106, 1-16	BAG	ac *um* mi oedd o'n i yn gweld rhwng y gair cored a yr gair lloc	NST	NST
+33, 2	106, 17-25	BAG	yn_de o'n i gweld yr un cysyniad yno felly	NSNT	NSNT
+33, 3	106, 27-31	BAG	wsti sef rywbeth wedi amgáu	NSNT	NSNT
+33, 4	106, 33-33	BAG	wsti	SNT	NSNT
+33, 5	107, 1-6	BAG	anyway hwyrach na fi ydy hynny	---	SNT
+
+
+34, 1	109, 1-10	ABE	mae gyn ti *er* gored bach *nice* iawn yn *Glynnog*	NST	NST
+34, 2	110, 1-6	ABE	*Gored_Beuno* mae nhw yn galw hi	NST	NST
+34, 3	111, 1-5	ABE	wedyn be sy gyn ti	NSNT	NSNT
+34, 4	111, 6-12	ABE	ydy yr *er* y traeth caregog yma	NST	NST
+34, 5	114, 1-6	ABE	timod *um* cerrig crynion a ballu	NST	NST
+34, 6	114, 7-9	ABE	ydyn nhw i_gyd	NSNT	NSNT
+34, 7	115, 2-7	ABE	does yna ddim *ounce* o dywod	NST	NST
+34, 8	117, 1-6	ABE	rhwng *Clynnog* ac *Aberdesach* felly de	NST	NST
+34, 9	118, 1-8	ABE	wedyn *um* pan mae llanw allan ti yn	NST	NST
+34, 10	118, 9-20	ABE	mae o yn agor darn helaeth o dir efo yr cerrig mana	NSNT	NSNT
+34, 11	119, 1-12	ABE	a wedyn mae gyn ti fel pwll mawr yn ei ganol o	NSNT	NSNT
+34, 12	121, 1-3	ABE	ac *um* timod	NST	NST
+34, 13	121, 4-13	ABE	mae o yn agor i yr môr yn fan yno	NSNT	NSNT
+34, 14	123, 1-11	ABE	a mae yna rywfaint o dywod ar ei waelod a ballu	NSNT	NSNT
+34, 15	124, 1-5	ABE	ac *um* hwnna ydy *Gored_Beuno*	NST	NST
+34, 16	125, 1-18	ABE	ac yn_ôl yr *er* y *story* am y lle beth bynnag *um* oedd y mynachod yn dod yno	NST	NST
+34, 17	126, 1-7	ABE	a wedyn oedden nhw yn *um* gadael	NST	NST
+34, 19	126, 33-46	ABE	rhoid *um* ryw fath o giât neu ryw *er* glwyd ballu *er* ar *er*	NST	NST
+34, 20	126, 47-52	ABE	timod yn y ceg fel petai	---	NSNT
+
+
+35, 1	127, 1-7	BAG	*yeah* *yeah* i gadw yr pysgod i_fewn	---	NST
+
+
+36, 1	128, 1-2	ABE	a wedyn	NSNT	NSNT
+36, 2	129, 1-2	ABE	dyna chdi	NSNT	NSNT
+36, 3	130, 1-8	ABE	a wedyn oedd y cwbl yn draenio allan	NSNT	NSNT
+36, 4	132, 1-6	ABE	ac oedd unrhyw bysgod yn cael	NSNT	NSNT
+36, 5	132, 7-9	ABE	eu dal felly	---	NSNT
+
+
+37, 1	133, 1-2	BAG	oes yna	NSNT	NSNT
+37, 2	133, 3-8	BAG	oes yna modd gwybod yn union	NSNT	NSNT
+37, 3	133, 9-15	BAG	sut oedd o yn gweithio erbyn hyn	NSNT	NSNT
+37, 4	134, 1-3	BAG	oes yna ddim	NSNT	NSNT
+37, 5	134, 4-13	BAG	oes yna ddim un sydd yn dal i weithio o_gwbl	NSNT	NSNT
+37, 6	134, 14-15	BAG	nag oes	NSNT	NSNT
+37, 7	135, 1-3	BAG	oes yna un	NSNT	NSNT
+37, 8	137, 1-9	BAG	*sure* bod yna ar y cyfandir yn rywle yn_does	---	NST
+
+
+38, 1	138, 1-6	ABE	*well* mae raid bod yna yn	---	NST
+
+
+39, 1	139, 1-4	BAG	neu yng ngwledydd *Asia*	---	NST
+
+
+40, 1	141, 1-9	ABE	ond mae yr egwyddor yn un syml iawn wrth_gwrs	---	NSNT
+
+
+41, 1	143, 1-7	BAG	ond sut fath o sut fath o	NSNT	NSNT
+41, 2	144, 1-21	BAG	ti yn deud giât felly neu gadw nhw i_fewn felly yn_de ar_ôl i yr llanw godi a yr bysgod fynd i_fewn	NSNT	NSNT
+41, 3	145, 1-7	BAG	sut fath o giât fysai hynny felly	---	NSNT
+
+
+42, 1	146, 1-11	ABE	*well* rywbeth wedi cael ei gwneud efo gwial baswn i feddwl	NST	NST
+42, 2	146, 12-15	ABE	timod gwial syml felly	NSNT	NSNT
+42, 3	149, 1-11	ABE	oherwydd pan mae yr *um* y y dŵr yn gwagio rywfaint	NST	NST
+42, 4	149, 12-22	ABE	timod *um* bosib mynd allan agos at y pen iddo fo	NST	NST
+42, 5	151, 1-5	ABE	ac mi fysai yn bosib	NSNT	NSNT
+42, 6	151, 6-8	ABE	gosod rywbeth i_fewn	NSNT	NSNT
+42, 7	151, 9-12	ABE	bod yna gerrynt yn	NSNT	NSNT
+42, 8	153, 1-4	ABE	yn gwagio allan de	NSNT	NSNT
+42, 9	155, 1-2	ABE	ond *um*	NST	NST
+42, 10	157, 1-2	ABE	dyna o	---	NSNT
+
+
+43, 1	158, 1-9	BAG	*yeah* *yeah* mae yr pethau yma yn syml iawn	NST	NST
+43, 2	159, 1-2	BAG	achos mae	---	NSNT
+
+
+44, 1	160, 1-8	ABE	ond efallai ond efallai bysai yna *er* *er*	NST	NST
+44, 2	160, 9-18	ABE	timod *um* adeiladwaith dipyn gwell na sydd yna rwan oherwydd	NST	NST
+44, 3	160, 19-23	ABE	timod *just* olion y peth	NST	NST
+44, 4	160, 24-27	ABE	sy yna wan wrth_gwrs	---	NSNT
+
+
+45, 1	164, 1-12	BAG	a ti yn deud na cerrig crynion ydyn nhw i_gyd felly *yeah*	---	NST
+
+
+46, 1	165, 1-5	ABE	ia timod cerrig gwaddod *um*	NST	NST
+46, 2	165, 6-17	ABE	timod *er* rhan o yr *um* gwaddod y moraine yma fel petai	---	ST
+
+
+47, 1	168, 1-4	BAG	fysai rhaid iddyn nhw	---	NSNT
+
+
+48, 1	169, 1-2	ABE	mae nhw	NSNT	NSNT
+48, 2	169, 3-9	ABE	mae nhw yn gerrig go fawr hefyd	---	NSNT
+
+
+49, 1	171, 1-10	BAG	*oh* *right* *er* fysai rhaid i hynny fod felly achos	NST	NST
+49, 2	171, 11-11	BAG	fysai	NSNT	NSNT
+49, 3	171, 12-12	BAG	yr	NSNT	NSNT
+49, 4	171, 13-22	BAG	fysai yr llanw llanw mawr yn sgubo nhw i_ffwrdd yn_bysai	NSNT	NSNT
+49, 5	172, 1-1	BAG	fysai	NSNT	NSNT
+49, 6	172, 2-2	BAG	yr	NSNT	NSNT
+49, 7	172, 3-12	BAG	fysai rhaid iddyn nhw adnewyddu yr peth yn yn aml	NSNT	NSNT
+49, 8	172, 13-26	BAG	faswn i feddwl yn_bysai yr yr yr mur y y wal y y peth	NSNT	NSNT
+49, 9	172, 27-30	BAG	ei hun felly yn_bysai	---	NSNT
+
+
+50, 1	173, 1-6	ABE	ia ond ond y peth ydy	NSNT	NSNT
+50, 2	173, 7-17	ABE	timod gyn ti fel bowlen *er* i_fewn yn ei ganol o	NST	NST
+50, 3	175, 1-8	ABE	ac wrth_gwrs yr *er* fynedfa fach yma de	NST	NST
+50, 4	177, 1-3	ABE	wedyn *er* dyna	NST	NST
+50, 5	177, 4-7	ABE	ydy yr y ffordd	NSNT	NSNT
+50, 6	177, 8-11	ABE	mae yn debyg ond	NSNT	NSNT
+50, 7	180, 1-5	ABE	ond Duw a ŵyr timod	NSNT	NSNT
+50, 8	180, 6-9	ABE	be fysai yna wreiddiol	NSNT	NSNT
+50, 9	182, 1-5	ABE	ond y peth ydy wrth_gwrs	NSNT	NSNT
+50, 10	182, 6-10	ABE	mae yr enw yn_dydy *Gored_Beuno*	NST	NST
+50, 11	184, 1-13	ABE	ac *um* mae hwnna yn dyddio nôl felly i yr cyfnod *er* mynachlogydd	---	NST
+
+
+51, 1	186, 1-6	BAG	ond wrth_gwrs cored ydy yr gair	NSNT	NSNT
+51, 2	186, 7-9	BAG	yn_de efo c	NSNT	NSNT
+51, 3	187, 1-3	BAG	ti gwybod hynna	NSNT	NSNT
+51, 4	188, 1-6	BAG	sy yn gysylltu fo efo corlan	NSNT	NSNT
+51, 5	188, 8-8	BAG	wsti	---	NSNT
+
+
+52, 1	189, 1-3	ABE	*oh* *yeah* dyna	NST	NST
+52, 2	189, 4-11	ABE	fysai fo yn sicr *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+53, 1	190, 1-7	BAG	*yeah* *yeah* rywbeth yn amgáu *yeah* *yeah*	NST	NST
+53, 2	191, 1-6	BAG	wrth_gwrs *um* llyn *Cwellyn* ei hun	NST	NST
+53, 3	193, 1-6	BAG	*um* cawell lyn oedd hwnna felly	NST	NST
+53, 4	194, 1-10	BAG	oedd yna ryw fath o *drap* pysgod yn fan yna	NST	NST
+53, 5	194, 11-11	BAG	doedd	NSNT	NSNT
+53, 6	196, 1-1	BAG	dyna	NSNT	NSNT
+53, 7	196, 2-3	BAG	lle mae	---	NSNT
+
+
+54, 1	197, 1-5	ABE	yn lle fasai hwnnw dŵad	NSNT	NSNT
+54, 2	198, 1-11	ABE	yn yr *er* yn y le mae o yn gwagio allan	NST	NST
+54, 3	198, 12-15	ABE	mae yn debyg *yeah*	---	NST
+
+
+55, 1	199, 1-4	BAG	dw ddim yn gwybod	NSNT	NSNT
+55, 2	200, 1-5	BAG	dw i ddim yn gwybod	NSNT	NSNT
+55, 3	200, 6-10	BAG	sut fysai fo yn gweithio	NSNT	NSNT
+55, 4	201, 1-2	BAG	dyna pam	NSNT	NSNT
+55, 5	201, 3-9	BAG	dw i yn godi o *just* felly	NST	NST
+55, 6	201, 10-16	BAG	yn_de i weld os ti yn gwybod	---	NSNT
+
+
+55, 7	202, 1-2	BAG	achos *um*	NST	NST
+56, 2	203, 20-30	ABE	de gyn ti yr hen *drap* eogiaid yn fan yno yn_does	NST	NST
+56, 3	206, 1-5	ABE	wedyn be oedd yn digwydd	NSNT	NSNT
+56, 4	206, 6-7	ABE	oedd wrth_gwrs	NSNT	NSNT
+56, 5	206, 8-16	ABE	pan mae yna dipyn o li yn yr afon	NSNT	NSNT
+56, 6	206, 18-28	ABE	oedd yr eogiaid yn yn dŵad ac yn a beth bynnag	NSNT	NSNT
+56, 7	208, 1-17	ABE	wedyn oedd y y gawell yma yn ffitio *um* i_fewn i fel hafn bach yn y dŵr	NST	NST
+56, 8	208, 18-22	ABE	yn_de yn yr afon felly	---	NSNT
+
+
+57, 1	209, 1-1	BAG	dyna	NSNT	NSNT
+57, 2	209, 2-5	BAG	basai yn digwydd *yeah*	---	NST
+
+
+58, 1	210, 1-4	ABE	ac ar li de	NSNT	NSNT
+58, 2	210, 5-12	ABE	fysai yr *er* pysgod yn cael eu dal	---	NST
+
+
+59, 1	211, 1-8	BAG	felly yr un syniad â cored môr felly	NSNT	NSNT
+59, 2	211, 10-10	BAG	sti	NSNT	NSNT
+59, 3	211, 11-12	BAG	bod yna	NSNT	NSNT
+59, 4	211, 13-19	BAG	bod y lli yn cyfateb i lanw	---	NSNT
+
+
+60, 1	213, 1-4	ABE	*um* ia i raddau	---	NST
+
+
+61, 1	214, 1-3	BAG	bod y bod	NSNT	NSNT
+61, 2	214, 4-5	BAG	bod y	---	NSNT
+
+
+62, 1	215, 1-14	ABE	timod ond ond be be gyn ti yn y yn y gored môr yma	NSNT	NSNT
+62, 2	215, 15-16	ABE	ydy wrth_gwrs	NSNT	NSNT
+62, 3	215, 17-28	ABE	bod *um* y darn o o ddŵr yna yn yn eitha helaeth	NST	NST
+62, 4	218, 2-15	ABE	mae gyn ti *er* wely go fawr i bysgod i fynd iddo fo felly	NST	NST
+62, 5	220, 1-9	ABE	a wedyn bod o yn *just* gwagio naturiol ohono	NST	NST
+62, 6	220, 10-11	ABE	ei hun	NSNT	NSNT
+62, 7	222, 1-8	ABE	a wedyn bod nhw methu mynd allan wedyn	NSNT	NSNT
+62, 8	224, 1-6	ABE	ond yn yr afon wrth_gwrs timod	NSNT	NSNT
+62, 9	224, 7-9	ABE	mae yr *er*	NST	NST
+62, 10	224, 10-14	ABE	mae yr lli mor gry	NSNT	NSNT
+62, 11	224, 15-19	ABE	mae yr *um* y gawell	NST	NST
+62, 12	224, 20-25	ABE	ei hun fath â ryw dwmffat	---	NSNT
+
+
+63, 1	226, 1-3	BAG	*yeah* dyna fo	---	NST
+
+
+64, 1	227, 1-8	ABE	*um* mae o tua ryw faint dŵad ryw	NST	NST
+64, 2	229, 1-5	ABE	wyth naw troedfedd o hyd	---	NSNT
+
+
+65, 1	232, 1-7	BAG	fath â cawell cimwch felly mewn ffordd	---	NSNT
+
+
+66, 1	233, 1-4	ABE	*well* na be timod	NST	NST
+66, 2	233, 5-5	ABE	mae	NSNT	NSNT
+66, 3	233, 6-8	ABE	mae fel twmffat	NSNT	NSNT
+66, 4	235, 2-2	ABE	mae	NSNT	NSNT
+66, 5	235, 3-5	ABE	mae o yn	NSNT	NSNT
+66, 6	235, 7-19	ABE	mae yr fynedfa fel fel *frame* sgwâr *frame* sgwâr fath â *frame* llun	---	NST
+
+
+67, 1	236, 1-7	BAG	ia oedden nhw yn hir hir yn_doedden	NSNT	NSNT
+67, 2	237, 1-3	BAG	ia dyna fo	NSNT	NSNT
+67, 3	238, 1-2	BAG	cofio cael	NSNT	NSNT
+67, 4	239, 1-7	BAG	cofio yn gweld lluniau ohonyn nhw *yeah*	---	NST
+
+
+68, 1	240, 1-17	ABE	*um* a mae tua ryw *er* *er* lathen o uchder neu efo ryw ddwy a hanner ar_draws	NST	NST
+68, 3	246, 1-9	ABE	a wedyn mae yr *um* yr *er* y y	NST	NST
+68, 4	247, 1-7	ABE	dim gwial ydyn nhw ond *um* *er*	NST	NST
+68, 5	247, 8-8	ABE	cyll	NSNT	NSNT
+68, 6	251, 1-4	ABE	pren pren cyll deuda	NSNT	NSNT
+68, 7	253, 1-12	ABE	wedyn mae rhein wan wrth_gwrs lathen a efo dwy a hanner ar_draws	NSNT	NSNT
+68, 8	254, 1-15	ABE	a wedyn yn y pen draw mae yr cwbl wedi cael eu clymu efo ei_gilydd	NSNT	NSNT
+68, 9	256, 1-7	ABE	fel bod nhw yn dŵad yn fain	NSNT	NSNT
+68, 10	258, 1-14	ABE	a wedyn mae eog neu rywbeth felly yn cael ei sgubo i_fewn i hwn	NSNT	NSNT
+68, 11	259, 1-7	ABE	a mae yr cerrynt mor gry nes	NSNT	NSNT
+68, 12	259, 8-12	ABE	mae o methu bagio allan	---	NSNT
+
+
+69, 1	260, 1-12	BAG	*just* y *just* y cerrynt sydd yn ddal o yno felly ia	---	NST
+
+
+70, 1	261, 1-10	ABE	mae yr current yn ei ddal o yn ei le	NSNT	SNT
+70, 2	261, 11-13	ABE	de fel fel	NSNT	NSNT
+70, 3	261, 14-18	ABE	bod o methu dod allan	NSNT	NSNT
+70, 4	265, 1-2	ABE	a timod	NSNT	NSNT
+70, 5	265, 3-4	ABE	fedr o	NSNT	NSNT
+70, 6	265, 5-8	ABE	fedr o ddim bagio	---	NSNT
+
+
+71, 1	266, 1-16	BAG	ac oedd yna ddim drws i gau felly yn y yn y yn y geg felly	---	NSNT
+
+
+72, 1	269, 1-6	ABE	a wedyn timod *um* y peth	NST	NST
+72, 2	269, 7-16	ABE	oedd o't ti mynd yna wedyn a *just* codi yr	NST	NST
+72, 3	271, 1-2	ABE	peth i_fyny	---	NSNT
+
+
+73, 1	272, 1-8	BAG	a wedyn oedd y pysgodyn yn sownd felly	---	NSNT
+
+
+74, 1	273, 1-7	ABE	a dyna yr pysgodyn yn dal yno	NSNT	NSNT
+74, 2	273, 8-8	ABE	dydy	NSNT	NSNT
+74, 3	275, 1-3	ABE	a wedyn timod	NSNT	NSNT
+74, 4	275, 4-8	ABE	fedr o ddim bagio allan	NSNT	NSNT
+74, 5	275, 9-10	ABE	na fedr	---	NSNT
+
+
+75, 1	277, 1-3	BAG	mae *sure* na	NST	NST
+75, 2	277, 4-4	BAG	dyna	NSNT	NSNT
+75, 3	277, 5-10	BAG	be oedd yn llyn *Cwellyn* felly	NST	NST
+75, 4	278, 1-2	BAG	wsti achos	NSNT	NSNT
+75, 5	278, 3-8	BAG	dw i gweld hynna yn *odd*	NST	NST
+75, 6	278, 9-9	BAG	wsti	NSNT	NSNT
+75, 7	279, 1-4	BAG	*um* wyt ti meddwl	NST	NST
+75, 8	280, 1-10	BAG	ti gwybod ffordd dw i yn gwirioni efo enwau llefydd	NSNT	NSNT
+75, 9	281, 1-3	BAG	ac *um* mae	NST	NST
+75, 10	281, 4-15	BAG	mae llynnoedd a mynyddoedd yn y pethau efo yr enwau hyna un	NSNT	NSNT
+75, 11	281, 16-25	BAG	mae debyg yn y a a ac ac afonydd wrth_gwrs	---	NSNT
+
+
+76, 1	282, 1-3	ABE	ia yn hollol	---	NSNT
+
+
+77, 1	283, 1-13	BAG	a baset ti ddim yn disgwyl i i lyn newid ei enw felly	NSNT	NSNT
+77, 2	284, 1-5	BAG	a mi wnaeth llyn *Cwellyn*	NST	NST
+77, 3	285, 1-12	BAG	llyn *Treweunydd* oedd o *um* tan ryw dwy dair ganrif yn_ôl felly	NST	NST
+77, 4	286, 1-4	BAG	a wedyn mi newidiodd	NSNT	NSNT
+77, 5	289, 1-4	BAG	os nad hwyrach fwy	NSNT	NSNT
+77, 6	290, 1-4	BAG	dw ddim yn *sure*	NST	NST
+77, 7	291, 1-7	BAG	*um* a wedyn newidiodd ei enw yn_ôl	NST	NST
+77, 8	291, 8-17	BAG	be dw i yn ddallt felly *um* *er* i oherwydd	NST	NST
+77, 9	291, 18-29	BAG	bod yr gawell yma y defnydd o yr canoloesol yma o yr	NSNT	NSNT
+77, 10	292, 1-7	BAG	*well* os os oedd o yn ganoloesol	NST	NST
+77, 11	292, 8-16	BAG	fysai fo yn fwy na dwy dair canrif wrth_gwrs	NSNT	NSNT
+77, 12	293, 1-4	BAG	ond *um* na wsti	NST	NST
+77, 13	293, 5-7	BAG	mae o yn	---	NSNT
+
+
+78, 1	294, 1-4	ABE	mae yn debyg felly	NSNT	NSNT
+78, 2	294, 5-19	ABE	bod yr *um* y defnydd o yr safle i ddal pysgod wedi dŵad yn bwysicach	NST	NST
+78, 3	296, 1-10	ABE	yn y cyfnod yna fel bod o yn yn yn	---	NSNT
+
+
+79, 1	298, 1-7	BAG	mae ac wedi tanseilio yr enw gwreiddiol	NSNT	NSNT
+79, 2	298, 9-9	BAG	wsti	---	NSNT
+
+
+80, 1	299, 1-10	ABE	cyfiawnhau ac yn tanseilio yr yr enwau newydd felly de	---	NSNT
+
+
+81, 1	302, 1-2	BAG	ac eto	NSNT	NSNT
+81, 3	304, 1-10	BAG	*er* *er* cofia *um* yr afon un o yr afonydd	NST	NST
+81, 4	304, 11-19	BAG	sy yn rhedeg i_fewn i yr i yr llyn	NSNT	NSNT
+81, 5	304, 20-21	BAG	ydy *Treweunydd*	NST	NST
+81, 6	305, 1-10	BAG	wedyn wedi cael ei enwi ar_ôl y yr afon felly	NSNT	NSNT
+81, 7	307, 1-10	BAG	hwyrach bod o yn enw gwan pa yr un bynnag	NSNT	NSNT
+81, 8	308, 1-4	BAG	dw ddim yn *sure*	NST	NST
+81, 9	309, 1-7	BAG	heb gael ei sefydlu yn iawn felly	---	NSNT
+
+
+82, 1	310, 1-4	ABE	ia ond timod fel	NSNT	NSNT
+82, 2	310, 5-5	ABE	mae	NSNT	NSNT
+82, 3	310, 6-14	ABE	os oes yna ryw ddefnydd newydd yn dŵad yna	NSNT	NSNT
+82, 4	310, 15-15	ABE	mae	NSNT	NSNT
+82, 5	310, 16-23	ABE	mae yna ddisodli yn digwydd yn aml iawn	NSNT	NSNT
+82, 6	310, 24-24	ABE	does	---	NSNT
+
+
+83, 1	312, 1-6	BAG	*yeah* *yeah* *yeah* *yeah* yn hollol	NST	NST
+83, 2	313, 1-15	BAG	*er* un un ddamcaniaeth arall efo llyn Cwellyn wrth_gwrs *er* llyn y chwe llyn yn_de	NST	NST
+83, 3	313, 16-24	BAG	bod y bod yna chwe llyn yn rhedeg yn	NSNT	NSNT
+83, 4	313, 25-33	BAG	ei dyfrio ei ei dyfrio ei ddyfrio fo felly	NSNT	NSNT
+83, 5	313, 35-35	BAG	sti	---	NSNT
+
+
+84, 1	314, 1-3	ABE	ac oes yna	---	NSNT
+
+
+85, 1	315, 1-1	BAG	ond	NSNT	NSNT
+85, 2	316, 1-3	BAG	*well* pump yn_de	---	NST
+
+
+86, 1	317, 1-2	ABE	*oh* pump	NST	NST
+86, 2	318, 1-6	ABE	ella na fo ydy yr chweched	---	NSNT
+
+
+87, 1	319, 1-2	BAG	*well* ia	NST	NST
+87, 2	320, 1-15	BAG	ond *er* dw meddwl efo llyn *Bwlch_y_Moch* i_fyny *er* uwchben *Rhyd* *Rhyd_ddu* fan yna mi	NST	NST
+87, 4	322, 1-5	BAG	dw ddim yn gwybod *yeah*	---	NST
+
+
+88, 1	323, 1-7	ABE	*hey* clyw achan troi at rywbeth arall	NST	NST
+88, 2	325, 1-5	ABE	*um* dw i yn wybod	NST	NST
+88, 3	325, 6-16	ABE	bod chdi yn hel hen gardiau *post* ac yn y blaen	---	NST
+
+
+89, 1	326, 1-6	BAG	*oh* *yeah* be sy gyn ti	---	NST
+
+
+90, 1	327, 1-7	ABE	ac *um* ella bod hwnna gynno chdi	NST	NST
+90, 2	328, 1-4	ABE	dw ddim yn gwybod	---	NSNT
+
+
+91, 1	329, 2-3	BAG	mae o	SNT	NSNT
+91, 2	330, 1-2	BAG	*Beddgelert* *yeah*	---	NST
+
+
+92, 1	331, 1-4	ABE	*Beddgelert* *yeah* *yeah* *yeah*	---	NST
+
+
+93, 1	332, 1-4	BAG	*yeah* *yeah* a does	NST	NST
+93, 2	332, 5-9	BAG	gynna i ddim sbectol chwaith	NSNT	NSNT
+93, 3	332, 10-11	BAG	nag oes	NSNT	NSNT
+93, 4	333, 1-4	BAG	*yeah* *yeah* mae hwnna	NST	NST
+93, 5	333, 5-5	BAG	mae	NSNT	NSNT
+93, 6	333, 6-7	BAG	mae yna	NSNT	NSNT
+93, 7	333, 8-9	BAG	mae yna	NSNT	NSNT
+93, 8	333, 10-21	BAG	mae yna *lot* dynnu lluniau dechrau yr ganrif ddwytha o_gwmpas *Beddgelert* wrth_gwrs	NST	NST
+93, 9	333, 23-23	BAG	wsti	NSNT	NSNT
+93, 10	335, 1-3	BAG	*um* ond *um*	---	NST
+
+
+94, 1	336, 1-4	ABE	ond *just* meddwl bod	NST	NST
+94, 2	336, 5-12	ABE	mae hwnna yn un bach da iawn oherwydd	NSNT	NSNT
+94, 3	336, 13-19	ABE	bod dangos y y y cwm yn	NSNT	NSNT
+94, 4	336, 20-31	ABE	ei gyfanrwydd a yr pentre yn y canol ac wrth_gwrs dim *ruddydendrons*	---	NST
+
+
+95, 1	337, 1-5	BAG	ie yr oes cyn_rodidenaidd yn_de	NSNT	NSNT
+95, 2	340, 1-5	BAG	na mae yn un da	NSNT	NSNT
+95, 3	341, 1-7	BAG	ti ddim yn roid hwn i mi	---	NSNT
+
+
+96, 1	342, 1-6	ABE	*um* *well* dw ddim yn gwybod	NST	NST
+96, 2	343, 1-2	ABE	hynny ydy	---	NSNT
+
+
+97, 1	344, 1-3	BAG	nag wyt mwn	---	NSNT
+
+
+98, 1	346, 1-9	ABE	os os ti isio fo fe gei di o	---	NSNT
+
+
+99, 1	347, 1-1	BAG	mae	NSNT	NSNT
+99, 2	347, 2-6	BAG	mae yna gymaint ohonyn nhw	NSNT	NSNT
+99, 3	347, 7-11	BAG	yn_de efo yr olygfa yna	NSNT	NSNT
+99, 4	348, 1-8	BAG	*um* does yna ddim dyddiad ar hwn felly	NST	NST
+99, 5	349, 1-2	BAG	be ydy	NSNT	NSNT
+99, 6	349, 3-5	BAG	be ydy o	SNT	NSNT
+99, 7	350, 1-2	BAG	*photochrom* *Tunbridge_Wells*	ST	NST
+99, 8	351, 1-4	BAG	ia dydy o ddim	NSNT	NSNT
+99, 9	351, 5-7	BAG	does yna ddim	NSNT	NSNT
+99, 10	351, 8-12	BAG	does yna ddim enw gwneuthurwyr	---	NSNT
+
+
+100, 1	352, 1-8	ABE	mae yn edrych fel petai yn dyddio at	---	NSNT
+
+
+101, 1	353, 1-5	BAG	baswn i feddwl na *Valentines*	NST	NST
+101, 2	353, 6-8	BAG	ydy o felly	NSNT	NSNT
+101, 3	354, 1-6	BAG	ond dw ddim yn gwybod chwaith	---	NSNT
+
+
+102, 1	356, 1-4	ABE	tyrd â o yma	NSNT	NSNT
+102, 2	357, 1-2	ABE	wna i	NSNT	NSNT
+102, 3	357, 3-6	ABE	wna i ddarllen o	NSNT	NSNT
+102, 4	357, 7-9	ABE	os lici di	---	NSNT
+
+
+103, 1	358, 1-3	BAG	*er* mae yn	---	NST
+
+
+104, 1	359, 1-5	ABE	be sy arno fo dŵad	NSNT	NSNT
+104, 2	360, 1-4	ABE	dyna o yr *photochrom*	NST	NST
+104, 3	360, 5-6	ABE	dyna chdi	NSNT	NSNT
+104, 4	361, 1-3	ABE	*um* nag oes	NST	NST
+104, 5	363, 1-4	ABE	faswn i yn deud	NSNT	NSNT
+104, 6	363, 5-6	ABE	bod o	---	NSNT
+
+
+105, 1	364, 1-6	BAG	mae yna nifer ohonyn nhw felly	NSNT	NSNT
+105, 2	365, 1-3	BAG	a dw i	NSNT	NSNT
+105, 3	365, 4-10	BAG	fedra i ddim deud yn union os	NSNT	NSNT
+105, 4	365, 11-16	BAG	os ydy hwnna gynno fi felly	NSNT	NSNT
+105, 5	365, 18-18	BAG	wsti	NSNT	NSNT
+105, 6	366, 1-2	BAG	fyswn i	NSNT	NSNT
+105, 7	366, 3-4	BAG	fysai yn	NSNT	NSNT
+105, 8	366, 5-7	BAG	fysai yn *er*	NST	NST
+105, 9	366, 8-9	BAG	fysai yn	NSNT	NSNT
+105, 10	366, 10-10	BAG	werth	NSNT	NSNT
+105, 11	367, 1-4	BAG	a mae o yn	NSNT	NSNT
+105, 12	367, 5-11	BAG	mae o mewn cyflwr da iawn hefyd	---	NSNT
+
+
+106, 1	368, 2-3	ABE	mae o	NSNT	NSNT
+106, 2	369, 1-4	ABE	dyma pam wnes i	NSNT	NSNT
+106, 3	369, 5-9	ABE	timod fachu o deud gwir	NSNT	NSNT
+106, 4	372, 1-3	ABE	meddwl amdana chdi	NSNT	NSNT
+106, 5	372, 4-4	ABE	sti	---	NSNT
+
+
+107, 1	373, 1-3	BAG	fysai yn *nice*	NST	NST
+107, 2	374, 1-2	BAG	ia hollol	NSNT	NSNT
+107, 3	375, 1-4	BAG	*well* fyswn i yn	NST	NST
+107, 4	375, 5-12	BAG	fyswn i licio ei fenthyg o i weld	NSNT	NSNT
+107, 5	375, 13-17	BAG	os ydy o gynno fi	NSNT	NSNT
+107, 6	376, 1-4	BAG	wna i *er* addo	NST	NST
+107, 7	376, 5-10	BAG	roid o nôl i chdi *o_k*	---	NST
+
+
+108, 1	377, 1-6	ABE	*yeah* *well* hynny ydy *um* tra	NST	NST
+108, 2	377, 7-26	ABE	bod chdi efo diddordeb ynddyn nhw o ran hanes datblygiad y tirlun felly *um* croeso i ti fynd â fo	NST	NST
+108, 3	380, 1-6	ABE	os ydy o ddim gyn ti	NSNT	NSNT
+108, 4	380, 7-13	ABE	neu bod chdi isio ei gael o	NSNT	NSNT
+108, 5	380, 14-19	ABE	neu bod o well na un	NSNT	NSNT
+108, 6	380, 20-22	ABE	sy gyn ti	---	NSNT
+
+
+109, 1	381, 1-7	BAG	*well* fedra i sganio fo ti gweld	---	NST
+
+
+110, 1	382, 1-5	ABE	*oh* Duw *oh* iawn felly	NST	NST
+110, 2	384, 1-2	ABE	*um* neu	---	NST
+
+
+111, 1	385, 1-6	BAG	na mi gei di o nôl	NSNT	NSNT
+111, 2	386, 1-4	BAG	wna i barchu o	NSNT	NSNT
+111, 3	386, 5-6	BAG	sti *yeah*	---	NST
+
+
+112, 1	387, 1-2	ABE	peth ydy	NSNT	NSNT
+112, 2	387, 5-6	ABE	fedra i	NSNT	NSNT
+112, 3	387, 7-14	ABE	roid o i rywun fath â *Gethin_Evans* *Crafwyn*	NST	NST
+112, 4	390, 1-4	ABE	neu hyd_yn_oed i *Paul_Cox*	NST	NST
+112, 5	392, 1-9	ABE	hefo yr ymgyrch ddifa *ruddydendrons* yma beth bynnag de	---	NST
+
+
+113, 1	393, 1-3	BAG	ia *yeah* hollol	---	NST
+
+
+114, 1	394, 1-9	ABE	oherwydd fedran nhw ddefnyddio yr math yna o beth	---	NSNT
+
+
+115, 1	395, 1-2	BAG	hollol hollol	NSNT	NSNT
+115, 2	396, 1-1	BAG	hollol	---	NSNT
+
+
+116, 1	397, 1-7	ABE	ella bod o gyn *Gethin* beth bynnag	NST	NST
+116, 2	397, 8-11	ABE	baswn i feddwl felly	---	NSNT
+
+
+117, 1	399, 1-2	BAG	mae *sure*	NST	NST
+117, 2	399, 3-4	BAG	mae *sure*	NST	NST
+117, 3	399, 5-6	BAG	bod o	NSNT	NSNT
+117, 4	400, 1-6	BAG	mae o yn un cyffredin felly	NSNT	NSNT
+117, 5	401, 1-6	BAG	ond mae yna gymaint ohonyn nhw	NSNT	NSNT
+117, 6	403, 1-1	BAG	byset	NSNT	NSNT
+117, 7	403, 2-5	BAG	byset ti yn gallu	NSNT	NSNT
+117, 8	404, 1-5	BAG	petasai yna ddyddiad ti gweld	NSNT	NSNT
+117, 9	404, 6-7	BAG	fyset ti	---	NSNT
+
+
+118, 1	408, 1-6	ABE	ond o'n i yn meddwl timod	NSNT	NSNT
+118, 2	408, 7-14	ABE	fysai fo ddefnydd mawr i rywun fel *Paul*	NST	NST
+118, 3	408, 15-18	ABE	pan mae o yn	NSNT	NSNT
+118, 4	408, 19-26	ABE	rhoid ryw sgyrsiau ar *um* daclo *ruddydendrons* ballu	---	NST
+
+
+119, 1	411, 1-4	BAG	*yeah* wna i *um*	NST	NST
+119, 2	411, 5-10	BAG	wna i un_ai sganio fo neu	NSNT	NSNT
+119, 3	411, 11-15	BAG	os ydy o gynno fi	NSNT	NSNT
+119, 4	411, 16-17	BAG	wna i	NSNT	NSNT
+119, 5	411, 18-24	BAG	*just* roid o nôl i chdi *o_k*	NST	NST
+119, 6	411, 25-28	BAG	pan dan ni yn	NSNT	NSNT
+119, 7	412, 1-13	BAG	dan ni yn cyfarfod wsnos wsnos yma ta wsnos nesa efo yr gwyfynod	---	NSNT
+
+
+120, 1	413, 1-7	ABE	arglwydd mawr mae gyn i ddyddiadur yma	---	NSNT
+
+
+121, 1	414, 1-6	BAG	ia *oh* dydy o ddim ots	NST	NST
+121, 2	414, 7-7	BAG	wsti	NSNT	NSNT
+121, 3	415, 1-4	BAG	mae o yn y	NSNT	NSNT
+121, 4	415, 5-9	BAG	mae yn y llyfr yn_dydy	---	NSNT
+
+
+122, 1	416, 2-8	ABE	mae o yma rywle yn *safe* yn_tydy	NST	NST
+122, 3	419, 1-5	ABE	*oh* ia nos Fercher de	---	NST
+
+
+123, 1	420, 1-4	BAG	nos Fercher yma *yeah*	---	NST
+
+
+124, 1	421, 1-3	ABE	ia yn *um*	---	NST
+
+
+125, 1	422, 1-15	BAG	ia ti yn dod heibio fi yn_dwyt i ni gael mynd ymlaen i lle *Alun_Wyn_Owen*	---	NST
+
+
+126, 1	423, 1-1	ABE	yndw	NSNT	NSNT
+126, 2	424, 1-3	ABE	dyna chdi ia	NSNT	NSNT
+126, 3	426, 1-6	ABE	*er* yn *Waunfawr* erbyn saith *yeah*	---	NST
+
+
+127, 1	427, 1-3	BAG	ia dyna chdi	NSNT	NSNT
+127, 2	427, 4-6	BAG	dyna chdi ia	NSNT	NSNT
+127, 3	428, 1-12	BAG	na sôn am y cardiau *post* yma *um* a yr gyfres yn_de	NST	NST
+127, 4	428, 13-13	BAG	wsti	NSNT	NSNT
+127, 5	428, 14-15	BAG	fedri di	NSNT	NSNT
+127, 7	428, 41-42	BAG	fedri di	NSNT	NSNT
+127, 8	428, 43-47	BAG	fedri di gael cyfres felly	NSNT	NSNT
+127, 9	428, 48-51	BAG	de trwy amser felly	NSNT	NSNT
+127, 10	429, 1-9	BAG	*um* a mae yr *Fawddach* yn un ohonyn nhw	NST	NST
+127, 11	429, 10-14	BAG	de o o yr *um*	---	NST
+
+
+128, 1	430, 1-3	ABE	ia mae *sure*	---	NST
+
+
+129, 1	431, 1-6	BAG	o o lwybr y *panorama* yn_de	NST	NST
+129, 2	433, 1-18	BAG	a mi ges i un o ddechrau yr pumdegau diwrnod o_blaen *um* efo *just* dangos y spartina cordwellt	NST	ST
+129, 3	435, 1-13	BAG	yn dechrau felly yn_de ar y ar y ar y ar y *Fawddach*	---	NST
+
+
+130, 1	436, 1-1	ABE	*dear*	---	NST
+
+
+131, 1	437, 1-2	BAG	a wedyn	NSNT	NSNT
+131, 2	438, 1-10	BAG	ond drwg ydy efo yr efo yr golygfeydd hynny felly	NSNT	NSNT
+131, 3	438, 11-16	BAG	does gyn ti ddim control efo	NSNT	SNT
+131, 4	439, 1-2	BAG	wsti weithiau	NSNT	NSNT
+131, 5	439, 3-11	BAG	mae yr llanw i_fyny a ti ddim yn gweld	NSNT	NSNT
+131, 6	439, 12-18	BAG	os ydy yr cordwellt yna neu beidio	NSNT	NSNT
+131, 7	439, 20-20	BAG	wsti	NSNT	NSNT
+131, 8	442, 1-6	BAG	ond *Abel* sôn am gordwellt yn_de	NST	NST
+131, 9	442, 7-16	BAG	oedden ni yn trafod hwnna ar daith *Edward_Llwyd* dydd Sadwrn	NST	NST
+131, 10	443, 1-10	BAG	a dwn i ddim os ti wedi sylwi ar hyn	NSNT	NSNT
+131, 11	444, 1-14	BAG	ond dw i wedi sylwi yn dros y dwy flynedd tair blynedd dwytha yma	NSNT	NSNT
+131, 12	445, 1-11	BAG	ti gwybod be dw i feddwl wrth y cordwellt yr spartina	SNT	SNT
+131, 13	445, 12-13	BAG	dwyt wrth_gwrs	NSNT	NSNT
+131, 14	447, 1-7	BAG	*um* ti gwybod be dw i feddwl	NST	NST
+131, 15	447, 8-10	BAG	a mae *sure*	NST	NST
+131, 16	447, 11-14	BAG	bod chdi ti gwybod	NSNT	NSNT
+131, 17	447, 15-20	BAG	be dw i feddwl wrth *ergot*	NST	NST
+131, 18	450, 1-3	BAG	*well* mae spartina	---	ST
+
+
+132, 1	451, 1-2	ABE	y mallryg	---	NSNT
+
+
+133, 1	452, 1-3	BAG	y mallryg ia	NSNT	NSNT
+133, 3	455, 1-6	BAG	a mae yr spartina erbyn hyn	NSNT	SNT
+133, 4	456, 1-6	BAG	a dw i ddim yn gwybod	NSNT	NSNT
+133, 5	456, 7-8	BAG	os ydy	NSNT	NSNT
+133, 6	456, 9-11	BAG	wedi bod erioed	NSNT	NSNT
+133, 7	457, 1-6	BAG	ond yn sicr erbyn hyn yn_de	NSNT	NSNT
+133, 8	457, 7-18	BAG	mae yr *ergot* yn bob man ar yr *um* ar y spartina	ST	ST
+133, 9	457, 19-22	BAG	yn_de pethau fath â	---	NSNT
+
+
+134, 1	458, 1-1	ABE	Duw	---	NSNT
+
+
+135, 1	460, 1-8	BAG	ac *um* a dw i ddim yn gwybod	NST	NST
+135, 2	461, 1-10	BAG	hwyrach na fi sy newydd sylwi a pobl eraill ddim	NSNT	NSNT
+135, 3	462, 1-10	BAG	dw i wedi cysylltu efo pobl morwrol yn y gwaith	NSNT	NSNT
+135, 4	463, 1-10	BAG	ac *um* dydyn nhw ddim wedi sylwi yn arbennig yn_de	NST	NST
+135, 6	465, 1-2	BAG	ac oes	NSNT	NSNT
+135, 7	465, 3-4	BAG	mae yna	NSNT	NSNT
+135, 8	465, 5-5	BAG	mae	NSNT	NSNT
+135, 9	465, 6-17	BAG	mae yna duedd i yr cordwellt yma gael ei gael ei wladychu	NSNT	NSNT
+135, 10	465, 18-25	BAG	os lici di gan yr *um* yr *ergot*	NST	NST
+135, 11	466, 1-4	BAG	ond mae nhw yn	NSNT	NSNT
+135, 12	466, 5-8	BAG	mae nhw yn anferth	NSNT	NSNT
+135, 13	466, 9-12	BAG	sti *um* mwy na	NST	NST
+135, 14	466, 13-20	BAG	be faset ti yn ddisgwyl ar y rhug	NSNT	NSNT
+135, 15	468, 1-8	BAG	gyda llaw ychdi efo dy gefndir *um* amaethyddol	NST	NST
+135, 16	469, 1-3	BAG	*um* pam rhyg	NST	NST
+135, 17	470, 1-10	BAG	dydy yr *ergot* ddim yn arbennig ar y rhyg nac	---	NST
+
+
+136, 1	471, 1-7	ABE	*um* dw meddwl ar un amser *er*	NST	NST
+136, 2	471, 8-12	ABE	bod o yn fwy oherwydd	NSNT	NSNT
+136, 3	471, 13-13	ABE	mae	NSNT	NSNT
+136, 4	472, 1-5	ABE	mi oedd rhyg yn rywbeth	NSNT	NSNT
+136, 5	472, 6-23	ABE	oedd yn cael ei dyfu mewn llefydd *um* uwch a mwy garw o ran tywydd a thir felly	NST	NST
+136, 6	474, 1-5	ABE	ac *um* mi fysai fo	NST	NST
+136, 7	474, 6-13	ABE	mae yn debyg yn fwy tueddol o gael	NSNT	NSNT
+136, 8	476, 1-4	ABE	y mallryg yma yn_de	NSNT	NSNT
+136, 9	478, 1-6	ABE	*um* ond wrth_gwrs *um* timod *um*	NST	NST
+136, 10	478, 7-9	ABE	fyswn i feddwl	NSNT	NSNT
+136, 11	478, 10-17	ABE	bod rei o yr ydau eraill yma *er*	---	NST
+
+
+137, 1	479, 1-14	BAG	ia ia *oh* dw i wedi weld o ar bob math o o o	---	NST
+
+
+138, 1	480, 1-4	ABE	*oh* mae gweiriau gyd	NST	NST
+138, 2	480, 6-10	ABE	timod yn ei gael o	NSNT	NSNT
+138, 3	482, 1-9	ABE	ond yn fwy ar ambell i flwyddyn os ydy	NSNT	NSNT
+138, 4	482, 10-15	ABE	wedi bod yn weddol *damp* ballu	NST	NST
+138, 5	482, 16-17	ABE	wrth_gwrs de	---	NSNT
+
+
+139, 1	484, 1-6	BAG	*oh* ti *er* ydy o yn	NST	NST
+139, 2	484, 7-15	BAG	ydy o yn cyd_fynd efo amodau yr flwyddyn felly	NSNT	NSNT
+139, 3	487, 1-7	BAG	hwyrach bod hynna yn digon i esbonio	NSNT	NSNT
+139, 4	488, 1-7	BAG	achos yn *Aber* yn_de ar traeth *Lavan*	NST	NST
+139, 5	488, 9-13	BAG	lle mae yr cordwellt yn	NSNT	NSNT
+139, 6	488, 14-19	BAG	wsti yn yn frith yna felly	---	NSNT
+
+
+140, 1	489, 1-4	ABE	*blaster* ym mhobman *yeah*	---	NST
+
+
+141, 1	490, 1-5	BAG	yn *blaster* ia *um* mae	NST	NST
+141, 2	490, 6-6	BAG	yr	NSNT	NSNT
+141, 3	490, 7-9	BAG	mae yr *um*	NST	NST
+141, 4	490, 10-12	BAG	mae yr *ergot*	NST	NST
+141, 5	490, 13-21	BAG	yn_de mallryg yn yn *blaster* hefyd arnyn nhw felly	NST	NST
+141, 6	490, 22-25	BAG	yn_de i yr graddau	NSNT	NSNT
+141, 7	490, 26-27	BAG	yn_de nes	NSNT	NSNT
+141, 8	490, 28-35	BAG	bod yr llanw yn golchi drostyn nhw felly	NSNT	NSNT
+141, 9	490, 36-39	BAG	yn_de golchi nhw i_ffwrdd	NSNT	NSNT
+141, 10	490, 40-47	BAG	yn_de a ti yn cael ryw fath o	SNT	NSNT
+141, 11	492, 1-7	BAG	tide_line neu ben llanw ohonyn nhw yn_de	NSNT	SNT
+141, 12	492, 8-11	BAG	wsti *just* yr *ergot*	NST	NST
+141, 13	492, 13-13	BAG	wsti	NSNT	NSNT
+141, 14	493, 1-9	BAG	a pan ti meddwl bod o yn wenwyn pur	NSNT	NSNT
+141, 15	493, 11-11	BAG	wsti	NSNT	NSNT
+141, 16	493, 12-13	BAG	ydyn nhw	NSNT	NSNT
+141, 17	493, 14-15	BAG	wsti *er*	NST	NST
+141, 18	493, 16-25	BAG	oes yna ryw fodd iddyn nhw fynd i gadwyn fwyd	NSNT	NSNT
+141, 19	493, 27-27	BAG	wsti	---	NSNT
+
+
+142, 1	494, 1-2	ABE	ia wir	NSNT	NSNT
+142, 2	495, 1-3	ABE	arglwydd mawr *yeah*	---	NST
+
+
+143, 1	496, 1-4	BAG	dw ddim yn gwybod	NSNT	NSNT
+143, 2	497, 1-2	BAG	ond *um*	---	NST
+
+
+144, 1	498, 1-4	ABE	basai yn ddifyr gweld	NSNT	NSNT
+144, 2	498, 5-18	ABE	os ydy o yn *um* effeithio adar a bob math o bethau felly hefyd	---	NST
+
+
+145, 1	499, 1-9	BAG	*well* ia ia oedd bobl yn gofyn hynna felly	NST	NST
+145, 2	500, 1-5	BAG	ond dydyn nhw ddim yn	NSNT	NSNT
+145, 5	503, 1-1	BAG	wsti	NSNT	NSNT
+145, 6	503, 2-4	BAG	faset ti ddim	---	NSNT
+
+
+146, 1	504, 1-8	ABE	na ond er mae yn dibynnu ar *er*	NST	NST
+146, 2	504, 9-20	ABE	os oes yna *brotein* a bob math o bethau eraill yno fo	NST	NST
+146, 3	504, 21-21	ABE	does	---	NSNT
+
+
+147, 1	505, 2-2	BAG	wsti	NSNT	NSNT
+147, 2	505, 3-3	BAG	mae	NSNT	NSNT
+147, 3	506, 1-2	BAG	*yeah* hollol	---	NST
+
+
+148, 1	507, 1-3	ABE	peth ydy wrth_gwrs	NSNT	NSNT
+148, 2	507, 4-5	ABE	mae mewn	NSNT	NSNT
+148, 3	508, 1-2	ABE	mae yna	---	NSNT
+
+
+149, 1	509, 1-8	BAG	os ydyn nhw yn wenwyn i adar wrth_gwrs	---	NSNT
+
+
+150, 1	510, 1-4	ABE	*well* ella wir *yeah*	NST	NST
+150, 3	512, 1-3	ABE	mae nhw *right*	NST	NST
+150, 4	514, 1-12	ABE	cael eu torri lawr gan ryw *bacteria* yn y yn y cylla	NST	NST
+150, 5	517, 1-3	ABE	ond mae rhyfedd	NSNT	NSNT
+150, 6	517, 4-4	ABE	wsti	NSNT	NSNT
+150, 8	521, 1-4	ABE	*um* mi oedd cyfnodau	NST	NST
+150, 9	521, 5-9	ABE	timod yn y canoloesoedd ballu	NSNT	NSNT
+150, 10	521, 10-19	ABE	pan oedd *um* pobl yn cael eu cyhuddo o wrachyddiaeth	NST	NST
+150, 11	523, 1-5	ABE	oherwydd y symptomau oddi_ar hwn	NSNT	NSNT
+150, 13	525, 1-13	ABE	a mae yr *paranoia* yn un o rhan ohono fo beth bynnag felly	NST	NST
+150, 14	527, 1-16	ABE	ac oedd pobl yn cael eu cyhuddo o wrachyddiaeth a ballu a eu a eu llosgi	NSNT	NSNT
+150, 16	528, 22-28	ABE	mae yn debyg o yr *ergot* yma	NST	NST
+150, 17	528, 29-40	ABE	mae pobl wedi *um* sbïo nôl yn hanesyddol ac *er* wedi gweld	NST	NST
+150, 18	528, 43-46	ABE	bod yna rei blynyddoedd	NSNT	NSNT
+150, 19	528, 47-53	ABE	lle oedd yna losgi gwrachod yn fwy	NSNT	NSNT
+150, 20	528, 54-56	ABE	nag arfer felly	NSNT	NSNT
+150, 21	528, 57-64	ABE	a mae rheiny yn cyfateb hefo blynyddoedd gwlyb	NSNT	NSNT
+150, 22	528, 66-72	ABE	lle fysai yr *ergot* yn fwy *er*	---	NST
+
+
+151, 1	529, 1-6	BAG	lle fysai yr *ergot* yn *er*	NST	NST
+151, 2	530, 1-4	BAG	mae hynna yn ddifyr	NSNT	NSNT
+151, 3	532, 1-3	BAG	mae hynna ddifyr	---	NSNT
+
+
+152, 1	533, 1-2	ABE	ac *um*	---	NST
+
+
+153, 1	534, 1-3	BAG	mae hynna ddifyr	NSNT	NSNT
+153, 2	535, 1-8	BAG	ond ond ti yn deud hynna wan de	NSNT	NSNT
+153, 3	536, 1-4	BAG	ond pryd oedd hi	NSNT	NSNT
+153, 4	537, 1-16	BAG	ia leni ges i yr *plaster* fel petai o *ergot* ar y y cordwellt yn *Aber*	NST	NST
+153, 5	537, 17-21	BAG	yn_de yn ar traeth *Lavan*	NST	NST
+153, 6	538, 1-3	BAG	ac *um* ydy	NST	NST
+153, 7	538, 4-10	BAG	wedi bod yn flwyddyn gwlyb arbennig eleni	NSNT	NSNT
+153, 8	540, 1-1	BAG	meddwl	NSNT	NSNT
+153, 9	540, 2-3	BAG	bod hi	NSNT	NSNT
+153, 10	540, 4-5	BAG	nag ydy	---	NSNT
+
+
+154, 1	541, 1-1	ABE	*well*	---	NST
+
+
+155, 1	542, 1-2	BAG	dydy ddim	NSNT	NSNT
+155, 2	542, 3-7	BAG	wedi bod yn eithriadol nac	NSNT	NSNT
+155, 3	543, 1-3	BAG	ddim yn cofio	---	NSNT
+
+
+156, 1	544, 1-5	ABE	*mmm* na ddim felly falle	---	NST
+
+
+157, 1	547, 1-4	BAG	ond ond anyway wsti	---	SNT
+
+
+158, 1	548, 1-3	ABE	ond do mi	NSNT	NSNT
+158, 2	548, 4-6	ABE	oedd hi yn_doedd	NSNT	NSNT
+158, 3	549, 1-8	ABE	mi oedd hi yn yn o wlyb *er*	---	NST
+
+
+159, 1	550, 1-5	BAG	*er* hwyrach bod hi yn	NST	NST
+159, 2	551, 1-6	BAG	*er* ryw gyfnod arbennig yn_de *yeah*	---	NST
+
+
+160, 1	552, 1-4	ABE	*er* Medi Hydref ballu	NST	NST
+160, 2	553, 1-2	ABE	oherwydd mae	NSNT	NSNT
+160, 3	553, 3-10	ABE	wedi bod yn flwyddyn *fungi* anhygoel leni yma	NST	NST
+160, 4	553, 11-11	ABE	dydy	---	NSNT
+
+
+161, 1	556, 2-7	BAG	wyt ti isio gwres i *fungi*	NST	NST
+161, 2	557, 1-4	BAG	wyt ti isio gwres	---	NSNT
+
+
+162, 1	558, 1-2	ABE	ti isio	NSNT	NSNT
+162, 2	559, 1-2	ABE	*oh* mae	NST	NST
+162, 3	559, 3-8	ABE	wedi bod yn yn ddigon tyner	---	NSNT
+
+
+163, 1	560, 1-3	BAG	a gwlybaniaeth yn_de	---	NSNT
+
+
+164, 1	562, 1-4	ABE	y ddau beth de	NSNT	NSNT
+164, 2	564, 1-2	ABE	a mae	NSNT	NSNT
+164, 3	564, 3-12	ABE	wedi bod yn flwyddyn eithriadol am amrywiaeth y *fungi* felly	---	NST
+
+
+165, 1	567, 1-7	BAG	*yeah* *yeah* os ti yn deud yn_de	NST	NST
+165, 2	568, 1-10	BAG	o'n i ddim yn gwybod hynna felly fy hun felly	---	NSNT
+
+
+166, 1	569, 1-4	ABE	*yeah* mi oedd hi	NST	NST
+166, 2	571, 4-6	ABE	gynnon ni *gourse*	NST	NST
+166, 3	571, 7-11	ABE	timod yn y plas acw	NSNT	NSNT
+166, 4	571, 12-17	ABE	timod efo yr hen *George* *George_Campbell*	NST	NST
+166, 5	574, 1-9	ABE	yr argoeledig yr amrywiaeth o *stuff* gafon ni de	---	NST
+
+
+167, 1	575, 1-3	BAG	*yeah* *yeah* wir	---	NST
+
+
+168, 1	576, 1-5	ABE	oedd hi yn hollol anhygoel	NSNT	NSNT
+168, 2	578, 1-4	ABE	mae hynna yn gyffredinol	NSNT	NSNT
+168, 3	578, 5-6	ABE	timod hefyd	---	NSNT
+
+
+169, 1	579, 1-8	BAG	*yeah* *right* *yeah* oedden nhw yn deud *um*	---	NST
+
+
+170, 1	580, 1-8	ABE	pobl eraill yn reportio yr un peth hefyd	---	NSNT
+
+
+171, 1	581, 1-13	BAG	*Gordon_Fletcher* wedi arwain *er* taith at *Moel* *Moelyci* neu *Moel_y_ci* neu beth bynnag	NST	NST
+171, 2	582, 1-5	BAG	*um* ac oedd *er* *Chris_Jenkins*	NST	NST
+171, 3	583, 1-3	BAG	ti nabod *Chris_Jenkins*	---	NST
+
+
+172, 1	584, 1-6	ABE	*um* na dw ddim yn meddwl	---	NST
+
+
+173, 1	586, 1-8	BAG	anyway mae o yn rhedeg y sioe *Moel*	NST	ST
+173, 2	586, 9-16	BAG	be ydy o *um* *Cwmni_Moelyci* neu beth bynnag	NST	NST
+173, 3	587, 1-8	BAG	a wedyn *um* *er* oedd o yn poeni	NST	NST
+173, 4	587, 9-10	BAG	bod yna	NSNT	NSNT
+173, 5	588, 1-3	BAG	oedden nhw ddim	NSNT	NSNT
+173, 6	588, 4-5	BAG	oedd o	NSNT	NSNT
+173, 7	588, 6-16	BAG	oedd o wedi trefnu yr diwrnod *um* *fungi* *fungi* yma felly	NST	NST
+173, 8	589, 1-5	BAG	ac oedd o yn poeni	NSNT	NSNT
+173, 9	590, 1-2	BAG	oedd o	NSNT	NSNT
+173, 10	590, 3-10	BAG	wedi bod allan felly a wedi gweld dim_byd	NSNT	NSNT
+173, 11	591, 1-3	BAG	a gaethon nhw	NSNT	NSNT
+173, 12	591, 4-11	BAG	gaethon nhw gant o bobl yn troi fyny	NSNT	NSNT
+173, 13	592, 1-5	BAG	ac oedd o yn *oh*	NST	NST
+173, 14	592, 6-11	BAG	oedd o yn *um* pryderu fawr	NST	NST
+173, 15	592, 12-18	BAG	bod nhw ddim mynd i gael dim_byd	NSNT	NSNT
+173, 16	593, 1-10	BAG	ond oedd *Gordon_Fletcher* wedi cael llwyth o bethau yn diwedd	NST	NST
+173, 17	594, 1-19	BAG	ond ti ddim yn gwybod beth sydd yn *just* *skill* y *person* yn ffeindio nhw ta wsti *er* ta	NST	NST
+173, 18	595, 1-19	BAG	ai ai hynny ta blwyddyn dda ohonyn nhw felly yn_de ond ti meddwl yn y yn y plas felly	---	NSNT
+
+
+174, 1	596, 1-11	ABE	mi oedd hi yn flwyddyn eithriadol o dda yn un peth	NSNT	NSNT
+174, 2	598, 1-8	ABE	a peth arall dw i wedi sylwi hefyd	NSNT	NSNT
+174, 3	598, 9-20	ABE	timod pan ti mynd allan efo efo chwilio am ryw *fungi* ballu	NST	NST
+174, 4	600, 1-4	ABE	duwcs wyt ti yn	NSNT	NSNT
+174, 5	600, 5-10	ABE	timod fath â leni yma rwan	NSNT	NSNT
+174, 6	601, 1-14	ABE	*well* do'n i ddim wedi bod allan ryw lawer yn craffu ar fawr ddim_byd	NST	NST
+174, 7	602, 1-6	ABE	*course* yma dod i_fyny wedyn meddwl	NST	NST
+174, 8	603, 1-11	ABE	*oh* yr arglwydd dw ddim wedi gweld fawr ddim_byd o_gwmpas chwaith	NST	NST
+174, 9	604, 1-7	ABE	*oh* yr arglwydd gobeithio bod yna rywbeth	NST	NST
+174, 10	606, 1-8	ABE	ac eto pan ti mynd allan i chwilio	NSNT	NSNT
+174, 11	608, 1-3	ABE	o ddifri de	NSNT	NSNT
+174, 12	610, 1-3	ABE	mae nhw yna	NSNT	NSNT
+174, 13	612, 1-2	ABE	*blaster* de	---	NST
+
+
+175, 1	613, 1-8	BAG	*yeah* *yeah* *yeah* felly mae nhw yn deud	---	NST
+
+
+176, 1	614, 1-3	ABE	*wow* anhygoel achan	---	NST
+
+
+177, 1	616, 1-6	BAG	sôn am *ergot* yn_de ti gwybod	NST	NST
+177, 2	616, 7-13	BAG	lle mae yr gair yna yn dŵad	---	NSNT
+
+
+178, 1	617, 1-3	ABE	ydw sbardun ceiliog	---	NSNT
+
+
+179, 1	618, 1-3	BAG	*well* difyr difyr	---	NST
+
+
+180, 1	619, 1-8	ABE	dim o yr Ffrangeg mae yn dŵad dŵad	---	NSNT
+
+
+181, 1	620, 1-2	BAG	ia hwyrach	NSNT	NSNT
+181, 2	621, 1-17	BAG	be o'n i mynd i ddeud oedd dew_claw gewin y gewin *spare* yna ar goes ci yn_de	---	ST
+
+
+182, 1	622, 1-2	ABE	*oh* duwcs	---	NST
+
+
+183, 1	623, 1-5	BAG	ond yr un syniad wrth_gwrs	NSNT	NSNT
+183, 2	626, 1-3	BAG	sbardun ceiliog ia	---	NSNT
+
+
+184, 1	627, 1-3	ABE	sbardun ceiliog *yeah*	---	NST
+
+
+185, 1	628, 1-2	BAG	mae *sure*	NST	NST
+185, 2	628, 3-4	BAG	mae *sure*	NST	NST
+185, 3	628, 5-18	BAG	bod y yr un y y gair yn golygu yr ddau beth yn Ffrangeg	NSNT	NSNT
+185, 4	629, 1-6	BAG	ond o'n i ddim yn *er*	NST	NST
+185, 5	631, 1-6	BAG	*yeah* dyna fo *yeah* *yeah* difyr	---	NST
+
+
+186, 1	632, 2-4	ABE	mae wneud synnwyr	NSNT	NSNT
+186, 2	632, 5-5	ABE	dydy	NSNT	NSNT
+186, 3	635, 1-3	ABE	*yeah* duwcs annwyl	NST	NST
+186, 4	639, 1-3	ABE	*hey* clyw achan	NST	NST
+186, 5	640, 1-1	ABE	yli	NSNT	NSNT
+186, 6	640, 2-19	ABE	wyt ti yn *um* mynd i gael dipyn bach mwy o amser wan i ddilyn y diddordebau yma	NST	NST
+186, 7	640, 20-20	ABE	dwyt	NSNT	NSNT
+186, 8	641, 1-4	ABE	sut mae yr *er*	---	NST
+
+
+187, 1	642, 1-1	BAG	yndw	---	NSNT
+
+
+188, 1	643, 1-6	ABE	paratoad i yr ymddeoliad yn dŵad	---	NSNT
+
+
+189, 1	644, 1-10	BAG	*oh* edrych ymlaen yn fawr iawn i ddeud gwir felly	NST	NST
+189, 2	644, 11-11	BAG	yndw	NSNT	NSNT
+189, 3	645, 1-4	BAG	dan ni yn *um*	NST	NST
+189, 4	645, 5-8	BAG	dan ni ffurfio cwmni	NSNT	NSNT
+189, 5	645, 9-9	BAG	sti	NSNT	NSNT
+189, 6	647, 1-9	BAG	*um* ddim ddim cwmni wneud pres felly ond *er*	NST	NST
+189, 7	648, 1-5	BAG	*well* *well* ia mewn ffordd	NST	NST
+189, 8	649, 1-11	BAG	cwmni *um* cyfyngiedig *um* hanes y tirlun felly yn *Aber* yn_de	NST	NST
+189, 9	649, 12-12	BAG	wsti	---	NSNT
+
+
+190, 1	650, 1-2	ABE	*oh* difyr	---	NST
+
+
+191, 1	651, 1-8	BAG	*um* er_mwyn *er* denu pres yr *H_L_F* yn_de	NST	NST
+191, 2	653, 1-6	BAG	*um* i gael *er* cyflogi rywun	---	NST
+
+
+192, 1	654, 1-2	ABE	*oh* *great*	---	NST
+
+
+193, 1	655, 1-5	BAG	*um* dw ddim yn gwybod	NST	NST
+193, 2	656, 1-2	BAG	dan ni	NSNT	NSNT
+193, 3	656, 3-10	BAG	wedi bod yn trafod efo yr bobl yr	NSNT	NSNT
+193, 4	657, 1-4	BAG	dw i ddim felly	NSNT	NSNT
+193, 5	658, 1-10	BAG	mae yna bobl sydd yn ymhél â pethau yma well	NSNT	NSNT
+193, 6	658, 11-14	BAG	na dw i felly	NSNT	NSNT
+193, 7	659, 1-10	BAG	*um* yr yr ochr denu pres felly dw i yn	---	NST
+
+
+194, 1	661, 1-7	ABE	*oh* *yeah* mae hwnna yn arbenigedd ynddo	NST	NST
+194, 2	661, 8-9	ABE	ei hun	NSNT	NSNT
+194, 3	661, 10-10	ABE	dydy	---	NSNT
+
+
+195, 1	662, 1-3	BAG	*yeah* yndy yn_dydy	NST	NST
+195, 2	663, 1-12	BAG	*yeah* dw i yn ar_goll braidd efo efo yr grantiau yma felly	---	NST
+
+
+196, 1	664, 1-5	ABE	*oh* amser mae nhw gymryd	---	NST
+
+
+197, 1	665, 1-2	BAG	*oh* esgob	---	NST
+
+
+198, 1	666, 1-4	ABE	*oh* yr argian annwyl	---	NST
+
+
+199, 1	667, 1-10	BAG	ac *er* dw i methu cael y mhen rowndyn nhw	NST	NST
+199, 2	667, 11-18	BAG	wsti yr *um* y arian cyfatebol yma ac	NST	NST
+199, 3	668, 1-8	BAG	esgob dw i yn chael hi yn anodd	NSNT	NSNT
+199, 4	669, 1-12	BAG	ond anyway diolch fyth mae yna bobl eraill i wneud hynny felly	NSNT	SNT
+199, 5	670, 1-3	BAG	*um* ac *um*	---	NST
+
+
+200, 1	671, 1-10	ABE	*yeah* *yeah* *oh* mae yr *brocess* ddigon syml mewn gwirionedd	---	NST
+
+
+201, 1	673, 1-7	BAG	*oh* ia dan ni wedi *er* *oh*	NST	NST
+201, 2	673, 8-9	BAG	dan ni	NSNT	NSNT
+201, 3	673, 10-15	BAG	wedi bod yn mynd ar_ôl hynna	NSNT	NSNT
+201, 4	674, 1-3	BAG	argian ydyn *mmm*	---	NST
+
+
+202, 1	675, 1-17	ABE	wedyn wyt ti yn gorod creu ryw fath o ryw amcan o o o *income* a a	NST	NST
+202, 2	675, 18-27	ABE	sut wyt ti mynd i gyflawni dy amcanion a ryw	NSNT	NSNT
+202, 3	678, 1-7	ABE	a wedyn mae cwbl yn ddychymyg llwyr	NSNT	NSNT
+202, 4	680, 1-15	ABE	timod ti yn *just* gwneud y peth allan o dy *bloody* pen beth bynnag felly	NST	NST
+202, 6	682, 1-4	ABE	a fe ddylsen nhw	NSNT	NSNT
+202, 7	682, 5-8	ABE	bod yn gwybod hynny	NSNT	NSNT
+202, 8	684, 3-11	ABE	na dw i yn trio gwneud ryw amcan gweddol	NSNT	NSNT
+202, 9	684, 12-12	ABE	gall	---	NSNT
+
+
+203, 1	685, 1-6	BAG	*yeah* *yeah* fedra i edrych yn	---	NST
+
+
+204, 1	687, 1-5	ABE	ac ar_ôl ti wneud o	NSNT	NSNT
+204, 2	689, 1-13	ABE	a cael y blooming pres ti mynd ymlaen wedyn a ffeindio *well* timod	NST	ST
+204, 3	689, 14-15	ABE	mae *oh*	NST	NST
+204, 4	689, 16-16	ABE	mae	NSNT	NSNT
+204, 5	689, 17-17	ABE	mae	NSNT	NSNT
+204, 6	689, 18-18	ABE	mae	NSNT	NSNT
+204, 7	689, 19-19	ABE	mae	NSNT	NSNT
+204, 8	689, 20-28	ABE	be wyt ti yn ei wneud yn diwedd a	NSNT	NSNT
+204, 9	689, 29-46	ABE	be wyt ti yn ei gael a a yr canlyniadau yn y pen draw yn hollol *bloody* wahanol	NST	NST
+204, 11	692, 1-2	ABE	oherwydd timod	NSNT	NSNT
+204, 12	692, 3-5	ABE	wyt ti yn	NSNT	NSNT
+204, 13	692, 6-15	ABE	wyt ti yn addasu ac yn esblygu dy *broject* fel	NST	NST
+204, 14	692, 16-19	ABE	mae yn mynd ymlaen	NSNT	NSNT
+204, 15	694, 1-12	ABE	gyn i ddim syniad i ba gyfeiriad mae yn mynd go iawn	NSNT	NSNT
+204, 16	696, 1-11	ABE	*oh* be gythraul mae isio yr holl fanylder Duw a ŵyr	NST	NST
+204, 17	698, 3-8	ABE	mae yna bres yn y *matter*	NST	NST
+204, 18	699, 1-12	ABE	wedyn mae raid iddyn nhw gyfiawnhau eu *bloody* bodolaeth rywsut neu gilydd	NST	NST
+204, 19	701, 1-3	ABE	ond *oh* argoeledig	NST	NST
+204, 20	702, 1-2	ABE	*hallelujah* de	---	NST
+
+
+205, 1	703, 1-3	BAG	ia wedyn dyna	NSNT	NSNT
+205, 2	703, 4-4	BAG	dyna	NSNT	NSNT
+205, 3	703, 5-9	BAG	lle dan ni arni felly	NSNT	NSNT
+205, 4	704, 1-8	BAG	oedden ni am fynd ar i i *er*	---	NST
+
+
+206, 1	705, 1-2	ABE	sti fechan	NSNT	NSNT
+206, 2	705, 3-4	ABE	dw i	NSNT	NSNT
+206, 3	705, 5-9	ABE	dw i yn falch gythreulig	---	NSNT
+
+
+207, 1	706, 1-3	BAG	*mmm* *oh* dw	NST	NST
+207, 2	706, 4-11	BAG	dw mynd i fod yna dal i fod	NSNT	NSNT
+207, 3	706, 12-12	BAG	sti	---	NSNT
+
+
+208, 1	708, 1-5	ABE	*oh* *great* *oh* ia fel	---	NST
+
+
+209, 1	709, 1-3	BAG	dw i yn	NSNT	NSNT
+209, 2	709, 4-8	BAG	dw i yn *er* *er*	NST	NST
+209, 3	709, 9-11	BAG	dw i yn	NSNT	NSNT
+209, 4	709, 12-26	BAG	dw i yn mynd i olchi nwylo yn llwyr o yr gwaith cadwraeth yn *Aber*	NST	NST
+209, 5	709, 27-34	BAG	yn_de ar_ôl i mi ddeud wrth pwy bynnag	NSNT	NSNT
+209, 6	709, 35-39	BAG	sy yn y nilyn i	NSNT	NSNT
+209, 7	710, 1-9	BAG	a dan ni ddim yn gwybod hynny eto felly	---	NSNT
+
+
+210, 1	712, 1-7	ABE	*oh* *just* gobeithio gei di rywun call	---	NST
+
+
+211, 1	713, 1-6	BAG	*well* *well* mae debyg na *Eilir_Davies*	NST	NST
+211, 2	714, 1-8	BAG	ond dan ni ddim yn *sure* iawn felly	NST	NST
+211, 3	714, 10-10	BAG	wsti	NSNT	NSNT
+211, 4	716, 1-3	BAG	a wedyn *um*	---	NST
+
+
+212, 1	717, 1-5	ABE	*oh* Duw iawn mae o	NST	NST
+212, 2	717, 6-9	ABE	mae o ddigon call	NSNT	NSNT
+212, 3	717, 10-10	ABE	dydy	---	NSNT
+
+
+213, 1	718, 1-8	BAG	fydd o yn *safe* pair of hands yn_bydd	NST	ST
+213, 2	718, 9-9	BAG	wsti	NSNT	NSNT
+213, 3	718, 10-17	BAG	dw i yn *er* *um* o leia felly	NST	NST
+213, 4	718, 19-19	BAG	wsti	---	NSNT
+
+
+214, 1	719, 1-4	ABE	bydd *yeah* *yeah* *yeah*	---	NST
+
+
+215, 1	720, 1-5	BAG	ond *um* ond mae isio	NST	NST
+215, 2	720, 6-14	BAG	mae isio rywun i gadw yr *um* *momentum* hefyd	NST	NST
+215, 3	720, 16-17	BAG	wsti *um*	---	NST
+
+
+216, 1	721, 1-2	ABE	oes hollol	NSNT	NSNT
+216, 2	722, 1-4	ABE	dyma dyma *trouble* timod	NST	NST
+216, 3	723, 1-1	ABE	mae	NSNT	NSNT
+216, 4	723, 2-4	ABE	mae gyn ti	NSNT	NSNT
+216, 5	723, 6-10	ABE	dw i wedi gweld cychwyn	NSNT	NSNT
+216, 6	723, 11-12	ABE	a bod	NSNT	NSNT
+216, 7	723, 13-22	ABE	bod yn *er* rhan o gymaint ar y projectau wedyn	ST	NST
+216, 8	725, 1-13	ABE	hand_io drosodd i ryw rywun sydd yn gyflogedig i wneud y peth de	NSNT	SNT
+216, 9	725, 14-24	ABE	timod a rheiny mynd *off* i ryw gyfeiriad hollol *bloody* wahanol	---	NST
+
+
+217, 1	726, 1-5	BAG	*yeah* *yeah* ond ond rhaid	---	NST
+
+
+218, 1	727, 1-2	ABE	a timod	NSNT	NSNT
+218, 2	727, 3-7	ABE	does gyn ti ddim rheolaeth	NSNT	NSNT
+218, 3	728, 1-4	ABE	*oh* y siom de	---	NST
+
+
+219, 1	729, 1-8	BAG	wyt ti yn gorod ti gorod derbyn hynna	NSNT	NSNT
+219, 2	729, 10-10	BAG	wsti	NSNT	NSNT
+219, 3	730, 1-2	BAG	dan ni	NSNT	NSNT
+219, 4	730, 3-9	BAG	dan ni ddim yma am byth nac	NSNT	NSNT
+219, 5	730, 10-10	BAG	ydan	NSNT	NSNT
+219, 6	730, 11-11	BAG	wsti	NSNT	NSNT
+219, 7	733, 1-3	BAG	dan ni yn	NSNT	NSNT
+219, 8	733, 4-7	BAG	roid ein *stamp* tra	NST	NST
+219, 9	734, 1-4	BAG	tra dan ni yma	NSNT	NSNT
+219, 10	734, 5-6	BAG	dan ni	NSNT	NSNT
+219, 11	734, 7-11	BAG	roid ein *stamp* ni felly	NST	NST
+219, 12	735, 1-2	BAG	ond mae	NSNT	NSNT
+219, 13	735, 3-14	BAG	mae yna amser yn dod pan ti yn gorod gollwng dy afael	---	NSNT
+
+
+220, 1	736, 1-6	ABE	*yeah* dw i gwybod ia hollol	---	NST
+221, 2	737, 22-22	BAG	wsti	NSNT	NSNT
+221, 3	738, 1-8	BAG	ti yn gorod derbyn hynna i ryw raddau	NSNT	NSNT
+221, 4	739, 1-2	BAG	ond *um*	ST	NST
+221, 5	741, 1-9	BAG	I'm not done yet felly efo yr ochr hanesyddol	NSNT	SNT
+221, 6	741, 11-11	BAG	wsti	NSNT	NSNT
+221, 7	742, 1-6	BAG	ond mae o ran yr cadwraeth	---	NSNT
+
+
+222, 1	743, 1-10	ABE	na mae yna *lot* *lot* o waith i wneud eto	NST	NST
+222, 2	743, 11-11	ABE	does	---	NSNT
+
+
+223, 1	745, 1-9	BAG	*um* a wedyn dw i *right* excited am hynna	NST	ST
+223, 2	746, 1-2	BAG	ac *um*	---	NST
+
+
+224, 1	747, 1-3	ABE	*oh* gwych de	---	NST
+
+
+225, 1	748, 1-7	BAG	ac ac *um* dw isio wneud *um*	NST	NST
+225, 2	748, 8-14	BAG	wsti trio datblygu yr darlledu dipyn bach	---	NSNT
+
+
+226, 1	749, 1-4	ABE	*oh* dyna o iawn	NST	NST
+226, 2	751, 1-6	ABE	*well* *yeah* wyt ti ddigon cegog	NST	NST
+226, 3	751, 7-7	ABE	dwyt	---	NSNT
+
+
+227, 1	754, 1-3	BAG	diolch *Abel* *yeah*	---	NST
+
+
+228, 1	755, 1-2	ABE	*yeah* duwcs	---	NST
+
+
+229, 1	756, 1-4	BAG	un da i siarad	NSNT	NSNT
+229, 2	757, 1-3	BAG	ond dyna fo	---	NSNT
+
+
+230, 1	758, 1-3	ABE	*yeah* *well* de	---	NST
+
+
+231, 1	759, 1-4	BAG	*um* a wedyn *er*	---	NST
+
+
+232, 1	760, 1-7	ABE	oes gyn ti syniadau i cyfeiriad yna	NSNT	NSNT
+232, 2	761, 1-5	ABE	rywbeth gwreiddiol rywbeth newydd ta	---	NSNT
+
+
+233, 1	762, 1-15	BAG	*well* *well* y peth mwya gwreiddiol ond dydy o ddim_byd i wneud efo ymddeol chwaith	NST	NST
+233, 2	762, 17-17	BAG	yr	NSNT	NSNT
+233, 3	762, 18-21	BAG	ydy yr peth *um*	NST	NST
+233, 4	762, 22-27	BAG	dan ni trio wneud efo *Llên_y_Llysiau*	NST	NST
+233, 5	762, 28-37	BAG	yn_de efo yr cael yr *er* yr *er* peth cwcio	---	NST
+
+
+234, 1	763, 1-12	ABE	*yeah* na *yeah* o'n i meddwl efo yr darlledu yma ballu wan	NST	NST
+234, 2	764, 1-3	ABE	oes gyn ti	---	NSNT
+
+
+235, 1	765, 1-5	BAG	*yeah* *well* wsti yr *er*	NST	NST
+235, 2	765, 6-8	BAG	na dw i	NSNT	NSNT
+235, 3	765, 9-9	BAG	dyna	NSNT	NSNT
+235, 4	765, 10-13	BAG	be dw i ddeud	---	NSNT
+
+
+236, 1	766, 1-5	ABE	*oh* dyna o *right* *o_k*	---	NST
+
+
+237, 1	767, 1-6	BAG	wsti yr y cwcio yr rhaglenni	NSNT	NSNT
+237, 2	767, 7-9	BAG	rhaglenni *Dudley* yma	NST	NST
+237, 3	768, 1-10	BAG	ond dw i yn gweld rheina mynd i yr gwellt	NSNT	NSNT
+237, 4	768, 11-11	BAG	wsti	NSNT	NSNT
+237, 5	770, 1-3	BAG	does yna ddim	NSNT	NSNT
+237, 6	770, 4-11	BAG	dw i ddim wedi clywed dim_byd gynno fo	NSNT	NSNT
+237, 7	770, 13-13	BAG	wsti	---	NSNT
+
+
+238, 1	771, 1-9	ABE	na *just* defnyddio ni i gael syniadau oedd o	---	NST
+
+
+239, 1	772, 1-3	BAG	ond *um* ond	NST	NST
+239, 2	774, 1-10	BAG	na o ran *um* darlledu na dw i ddim wedi	NST	NST
+239, 3	774, 11-16	BAG	dw i ddim wedi meddwl am	NSNT	NSNT
+239, 4	775, 1-1	BAG	wsti	NSNT	NSNT
+239, 5	775, 2-2	BAG	mae	NSNT	NSNT
+239, 6	775, 3-8	BAG	gynna i ddigon ar y *plate*	NST	NST
+239, 7	776, 1-1	BAG	mae	NSNT	NSNT
+239, 8	776, 2-4	BAG	mae *Huw* wedi	NST	NST
+239, 9	776, 5-16	BAG	roid *um* gear recordydd recordydd i mi fel o'n i ddeud gynnau	NST	ST
+239, 10	778, 1-5	BAG	ac wedyn *er* wsti *er*	NST	NST
+239, 11	778, 6-9	BAG	dw i ddim yn	NSNT	NSNT
+239, 12	778, 10-15	BAG	dw i ddim yn holwr da	NSNT	NSNT
+239, 13	779, 1-7	BAG	dw ddim yn wrandawr da yn arbennig	NSNT	NSNT
+239, 14	780, 1-11	BAG	wedyn o'n i meddwl datblygu sgiliau felly dipyn bach felly yn_de	NSNT	NSNT
+239, 15	780, 12-15	BAG	wsti a trio cael	---	NSNT
+
+
+240, 1	781, 1-10	ABE	ella fedr o dy gael di ar ryw gyrsiau ballu	---	NSNT
+
+
+241, 1	782, 1-4	BAG	mae hynna yn *boint*	NST	NST
+241, 2	782, 5-5	BAG	dydy	---	NSNT
+
+
+242, 1	783, 1-3	ABE	yndy yn Duw	---	NSNT
+
+
+243, 1	784, 1-9	BAG	weld be mae o yn feddwl o hynny felly	---	NSNT
+
+
+244, 1	785, 1-3	ABE	pam lai de	NSNT	NSNT
+244, 2	786, 1-2	ABE	timod oherwydd	NSNT	NSNT
+244, 3	786, 3-6	ABE	mae gyn ti hyfforddiant	NSNT	NSNT
+244, 4	787, 1-5	ABE	mae gyn ti *system* hyfforddiant	NST	NST
+244, 5	787, 6-6	ABE	does	---	NSNT
+
+
+245, 1	789, 1-2	BAG	dw i	NSNT	NSNT
+245, 2	789, 3-5	BAG	wedi bod *um*	NST	NST
+245, 3	790, 1-15	BAG	o'n i deud wrth *Marika* *just* *um* cyn i ni *um* cyn i chdi ddod	NST	NST
+245, 4	791, 1-3	BAG	*um* dan ni	NST	NST
+245, 5	791, 4-11	BAG	wedi bod efo yr *business* tirlun hanesyddol *Aber*	NST	NST
+245, 6	792, 1-3	BAG	mae un elfen	NSNT	NSNT
+245, 7	792, 4-6	BAG	ydy hanes llafar	NSNT	NSNT
+245, 8	792, 8-8	BAG	wsti	NSNT	NSNT
+245, 9	793, 1-2	BAG	dan ni	NSNT	NSNT
+245, 10	793, 3-12	BAG	wedi bod yn cynnal cyfweliadau efo hen bobl *Aber* felly	NST	NST
+245, 11	793, 14-15	BAG	wsti pobl	NSNT	NSNT
+245, 12	793, 16-27	BAG	sy wedi cael eu magu ac yn mynd i oed rwan felly	NSNT	NSNT
+245, 13	793, 29-29	BAG	wsti	NSNT	NSNT
+245, 14	796, 1-13	BAG	dydyn nhw ddim yn angenrheidrwydd o angenrheidrwydd yn byw yn *Aber* rwan felly	NST	NST
+245, 15	797, 1-13	BAG	ond *um* dan ni wedi wneud ryw hanner dwsin o wahanol gyfweliadau felly	NST	NST
+245, 16	797, 15-15	BAG	wsti	NSNT	NSNT
+245, 17	798, 1-9	BAG	ond gwirfoddolwyr eraill sy wedi wneud y rhan fwya	NSNT	NSNT
+245, 18	799, 1-12	BAG	ond dw i wedi wneud *um* un neu ddau fy hun felly	NST	NST
+245, 19	800, 1-7	BAG	ac *um* *er* ges i hwyl arni	NST	NST
+245, 20	800, 8-10	BAG	dw meddwl felly	NSNT	NSNT
+245, 21	801, 1-5	BAG	wsti dysgu cau dy geg	NSNT	NSNT
+245, 22	801, 6-9	BAG	ydy *lot* ohono fo	NST	NST
+245, 23	801, 11-16	BAG	wsti *er* gadael i yr *person*	NST	NST
+245, 24	801, 17-21	BAG	wsti *just* promptio ddigon felly	NST	NST
+245, 25	801, 23-23	BAG	wsti	---	NSNT
+
+
+246, 1	802, 1-2	ABE	*oh* arglwydd	---	NST
+
+
+247, 1	803, 1-5	BAG	dw i yn dueddol o	---	NSNT
+
+
+248, 1	804, 1-3	ABE	ia hollol de	---	NSNT
+
+
+249, 1	805, 1-7	BAG	fel dw i yn wneud rwan hwyrach	NSNT	NSNT
+249, 2	805, 9-9	BAG	wsti	NSNT	NSNT
+249, 3	805, 10-11	BAG	mae yn	---	NSNT
+
+
+250, 1	806, 1-4	ABE	a be sy a	NSNT	NSNT
+250, 2	806, 5-7	ABE	be sy isio	NSNT	NSNT
+250, 3	806, 10-21	ABE	bod gyn ti be o chdi wedi paratoi o_flaen llaw a hynny	NSNT	NSNT
+250, 5	806, 50-52	ABE	de a wedyn	NSNT	NSNT
+250, 6	806, 53-54	ABE	bod chdi	NSNT	NSNT
+250, 7	806, 55-60	ABE	timod yn mynd i bob cyfeiriad	NSNT	NSNT
+250, 8	806, 61-63	ABE	ond bod chdi	NSNT	NSNT
+250, 9	806, 64-67	ABE	bod rhein gyn ti	NSNT	NSNT
+250, 10	806, 68-76	ABE	bod chdi medru mwy neu lai ticio nhw nes	NSNT	NSNT
+250, 11	806, 77-81	ABE	wyt ti wedi cael digon	---	NSNT
+
+
+251, 1	810, 1-9	BAG	ond weithiau sti *er* ti *just* gorod derbyn ia	---	NST
+
+
+252, 1	811, 1-10	ABE	a wedyn bod gynno chdi gynnyrch penodol o yr peth	---	NSNT
+
+
+253, 1	812, 1-5	BAG	*oh* ia yn sicr mae	NST	NST
+253, 2	812, 6-9	BAG	wsti yn sicr ia	NSNT	NSNT
+253, 3	813, 1-2	BAG	hollol yn_de	NSNT	NSNT
+253, 4	814, 1-11	BAG	ac pwrpas y cyfweliadau ydy i gael gwybodaeth am y tirlun	NSNT	NSNT
+253, 5	814, 13-13	BAG	wsti	NSNT	NSNT
+253, 6	815, 1-15	BAG	waeth i ti heb â wybod am eu gwyliau nhw yn *Scunthorpe* neu rywbeth felly	NST	NST
+253, 7	816, 1-3	BAG	ti gorod sti	NSNT	NSNT
+253, 8	816, 4-13	BAG	arwain nhw oddi_ar pethau *stuff* sydd yn gwbl amherthnasol felly	NST	NST
+253, 9	816, 14-14	BAG	wsti	NSNT	NSNT
+253, 10	817, 1-14	BAG	ond *um* ond weithiau ti gorod derbyn mae gyn y bobl *person* dim ond	NST	NST
+253, 11	817, 15-23	BAG	be sy gyn y *person* i ddeud yn diwedd	NST	NST
+253, 12	818, 1-2	BAG	wnes i	NSNT	NSNT
+253, 13	818, 3-9	BAG	wnes i wneud cyfweliad efo *Elfyn* *R_Elfyn_Hughes*	NST	NST
+253, 14	818, 10-12	BAG	wsti cyn y	NSNT	NSNT
+253, 15	821, 1-7	BAG	ia es i lawr yn un swydd	NSNT	NSNT
+253, 16	822, 1-10	BAG	*um* ac *um* oherwydd bod *Dafydd_Bevan* yr dyn enwau llefydd	NST	NST
+253, 17	822, 11-13	BAG	yn_de wedi *er*	NST	NST
+253, 19	824, 26-26	BAG	wsti	---	NSNT
+
+
+254, 1	825, 1-2	ABE	dyna chdi	---	NSNT
+
+
+255, 1	826, 1-5	BAG	ac *um* ac *er* wsti	NST	NST
+255, 2	826, 6-6	BAG	mae	NSNT	NSNT
+255, 3	826, 7-12	BAG	mae *Dafydd* yn un sydd yn	NST	NST
+255, 4	826, 13-14	BAG	wsti *er*	NST	NST
+255, 5	827, 1-10	BAG	Duw rhaid i chdi fod yn ofalus yn fan yna	NSNT	NSNT
+255, 6	828, 1-2	BAG	felly yn_de	NSNT	NSNT
+255, 7	829, 1-5	BAG	Duw watsia di fan yna	NSNT	NSNT
+255, 8	830, 1-2	BAG	felly yn_de	NSNT	NSNT
+255, 9	831, 1-2	BAG	mae o	NSNT	NSNT
+255, 10	831, 3-3	BAG	mae	NSNT	NSNT
+255, 11	831, 4-4	BAG	mae	NSNT	NSNT
+255, 12	831, 5-18	BAG	mae yna fwgan tu ôl i bob coeden efo efo astudiaeth enwau llefydd yn_does	NSNT	NSNT
+255, 13	831, 19-19	BAG	wsti	---	NSNT
+
+
+256, 1	832, 1-2	ABE	oes duwcs	---	NSNT
+
+
+257, 1	833, 1-4	BAG	ti yn gorfod ia	NSNT	NSNT
+257, 2	834, 1-16	BAG	ac *um* mae o yn dda iawn am *er* am gorfodi fi i fod yn ofalus	NST	NST
+257, 3	835, 1-4	BAG	ond os wyt ti	NSNT	NSNT
+257, 4	836, 1-2	BAG	meddai fo	NSNT	NSNT
+257, 5	837, 1-9	BAG	os wyt ti isio mynd ar_ôl y gwern yma	NSNT	NSNT
+257, 6	837, 10-14	BAG	wna i ddeud wrtha chdi	NSNT	NSNT
+257, 7	837, 15-16	BAG	pwy sy	NSNT	NSNT
+257, 8	837, 17-20	BAG	wedi bod ynglŷn â	NSNT	NSNT
+257, 9	837, 21-25	BAG	mae wedi astudio hynny felly	NSNT	NSNT
+257, 10	838, 1-3	BAG	*er* *Elfyn_Hughes* yn_de	NST	NST
+257, 11	839, 1-6	BAG	dos ar ei ôl o felly	NSNT	NSNT
+257, 12	841, 1-6	BAG	a wedyn mi es i yn_do	NSNT	NSNT
+257, 13	842, 1-8	BAG	mi es yn arbennig i drio cael gwybod	NSNT	NSNT
+257, 14	842, 9-11	BAG	be oedd o	NSNT	NSNT
+257, 15	842, 12-15	BAG	wedi bod yn wneud	NSNT	NSNT
+257, 16	843, 1-9	BAG	*so* achos oedd *Dafydd* ddim yn cofio yn iawn	NST	NST
+257, 17	844, 1-7	BAG	ac *um* ges i ddim_byd gynno fo	NST	NST
+257, 18	845, 1-4	BAG	oedd o fath â	NSNT	NSNT
+257, 19	845, 5-13	BAG	bod o wedi anghofio yn llwyr am y peth	NSNT	NSNT
+257, 20	846, 1-3	BAG	oedd o ddim	NSNT	NSNT
+257, 21	846, 4-5	BAG	oedd o	NSNT	NSNT
+257, 22	846, 6-9	BAG	oedd o ddim wrth	NSNT	NSNT
+257, 23	846, 10-13	BAG	ei bromptio fo felly	NSNT	NSNT
+257, 24	846, 15-17	BAG	ges i ddim_byd	---	NSNT
+
+
+258, 1	847, 1-2	ABE	Duw Duw	NSNT	NSNT
+258, 2	849, 1-6	ABE	dw i yn ffeindio hynna weithiau	NSNT	NSNT
+258, 3	849, 7-7	ABE	wsti	NSNT	NSNT
+258, 4	850, 2-13	ABE	pan fydda i yn trio cael gafael ar wybodaeth gyn rywun enwedig	NSNT	NSNT
+258, 5	850, 14-22	ABE	os oedden nhw mynd i dipyn o oedran felly	NSNT	NSNT
+258, 6	852, 1-4	ABE	*um* wyt ti mynd	NST	NST
+258, 7	852, 5-10	ABE	atyn nhw a a sgwrs gyffredinol	NSNT	NSNT
+258, 8	853, 1-4	ABE	a mae nhw *off*	NST	NST
+258, 9	855, 1-10	ABE	duwedd annwyl ryw atgofion anhygoel am rywbeth neu gilydd de	NSNT	NSNT
+258, 10	858, 1-17	ABE	a wedyn dw i yn cofio mynd i weld ryw hen *foy* yn lle yna yn *Rhiwlas*	NST	NST
+258, 11	859, 1-2	ABE	oedd o	NSNT	NSNT
+258, 12	859, 3-16	ABE	wedi bod yn ymwneud hefo cychwyn y gymdeithas defaid mynydd ac yn y blaen	NSNT	NSNT
+258, 13	860, 1-15	ABE	a wedyn oedd gynno fi ryw dri neu bedwar o gwestiynau o'n i isio gwybodaeth	NSNT	NSNT
+258, 14	860, 16-20	ABE	timod isio eu hatebion nhw	NSNT	NSNT
+258, 15	860, 21-24	ABE	timod go iawn felly	NSNT	NSNT
+258, 16	862, 1-13	ABE	a wedyn o'n i yna ac yn gofyn iddo fo am rywbeth penodol	NSNT	NSNT
+258, 17	864, 1-7	ABE	*oh* oedd o ddim yn ryw gofio	NST	NST
+258, 18	866, 1-9	ABE	ond argoel mynd *off* ar ryw dangent arall de	NST	ST
+258, 20	869, 1-5	ABE	a timod ond pan ti	---	NSNT
+
+
+259, 1	870, 1-7	BAG	*oh* ti yn cael *stuff* wedyn dwyt	NST	NST
+259, 2	870, 8-8	BAG	wsti	NSNT	NSNT
+259, 3	870, 9-10	BAG	sy o	NSNT	NSNT
+259, 4	870, 11-12	BAG	werth felly	NSNT	NSNT
+259, 5	870, 13-15	BAG	yn_de yn annisgwyl	---	NSNT
+
+
+260, 1	871, 1-12	ABE	wyt ti yn ti yn *yeah* ti yn cael *lot* o *stuff*	NST	NST
+260, 2	872, 1-11	ABE	a timod o'n i wedi gwneud bob math o ryw nodiadau	NSNT	NSNT
+260, 3	874, 1-5	ABE	oedd gyn i blooming argoel	NSNT	SNT
+260, 4	874, 6-12	ABE	oedd gyn i lond nodlyfr o *bloody*	NST	NST
+260, 5	876, 1-10	ABE	timod wybodaeth a hyn a llall a straeon ac ati	NSNT	NSNT
+260, 6	878, 1-11	ABE	doedd yna ddim diawl o ddim_byd am be o'n i isio	---	NSNT
+
+
+261, 1	880, 1-6	BAG	*yeah* *yeah* dw i yn gwybod	NST	NST
+261, 2	882, 1-4	BAG	*well* yr un peth	---	NST
+
+
+262, 1	883, 1-10	ABE	eto fyth os byswn i mynd yn_ôl ryw dro arall	NSNT	NSNT
+262, 2	883, 11-19	ABE	a bod o mewn *temper* dipyn bach yn wahanol	NST	NST
+262, 3	883, 20-28	ABE	neu bod chdi wedi procio rywbeth ryw *trigger* arbennig	NST	NST
+262, 4	883, 30-33	ABE	baset ti gael fflydlif	---	NSNT
+
+
+263, 1	884, 1-4	BAG	*yeah* fasa ti fysai	NST	NST
+263, 2	887, 1-4	BAG	mae isio mynd yn	NSNT	NSNT
+263, 3	887, 5-11	BAG	mae isio mynd yn_ôl fwy nag unwaith	NSNT	NSNT
+263, 4	888, 1-2	BAG	dw i	NSNT	NSNT
+263, 5	888, 3-13	BAG	wedi bod *er* yn_ôl *er* eildro efo efo *Rowland* yn *Penisarwaun*	NST	NST
+263, 6	890, 1-21	BAG	gafodd o ei fagu yn *um* yn y *Nant* yn yn chwech pedair o bedair i fod yn chwech oed felly	NST	NST
+263, 7	891, 1-3	BAG	ddifyr iawn felly	NSNT	NSNT
+263, 8	892, 1-7	BAG	ond mynd yn_ôl at *um* *Elfyn_Hughes* yn_de	NST	NST
+263, 9	893, 1-6	BAG	dyna be o'n i isio hefyd	NSNT	NSNT
+263, 10	893, 8-8	BAG	wsti	NSNT	NSNT
+263, 11	894, 1-13	BAG	achos doedd o ddim yn un o yr werin bobl yn *Aber* wrth_gwrs	NST	NST
+263, 12	895, 1-13	BAG	wedyn oedd o yn gyfweliad dipyn bach gwahanol i yr i yr rhei	NSNT	NSNT
+263, 13	895, 14-15	BAG	oedden nhw	NSNT	NSNT
+263, 14	895, 16-20	BAG	wedi bod yn gwneud felly	NSNT	NSNT
+263, 15	895, 22-22	BAG	wsti	---	NSNT
+
+
+264, 1	896, 1-3	ABE	dyna chdi *yeah*	---	NST
+
+
+265, 1	897, 1-6	BAG	y werin oedd y lleill felly	NSNT	NSNT
+265, 3	899, 1-11	BAG	ac *um* *er* be o'n i isio gynno fo oedd pam	NST	NST
+265, 4	899, 12-29	BAG	ddaru o ddewis *Coedydd_Aber* a yr coedydd eraill felly *um* yn yn yn yn Eryri yn warchodfeydd natur	NST	NST
+265, 6	900, 24-27	BAG	bod y coedydd yma	NSNT	NSNT
+265, 7	900, 28-34	BAG	wsti *Coed_Cymerau* *Coed_Camlyn* *Coed_y_Rhygen* *Coedydd_Aber* *Coed_Dolgarrog* *Coed_Gorswen*	NST	NST
+265, 8	900, 35-39	BAG	bod rheiny gyd yn yn	NSNT	NSNT
+265, 10	903, 1-9	BAG	rhein oedd yn cynrychioli yr yr elfennau gwahanol felly	---	NSNT
+
+
+266, 1	905, 1-3	ABE	gorllewinol *acid* *yeah*	---	NST
+
+
+267, 1	906, 1-11	BAG	ac wedyn dyffryn *Conwy* yng nghysgod yr *er* Eryri sych a	---	NST
+
+
+268, 1	907, 1-13	ABE	*yeah* sych sychach a mwy mwy melys melys hefyd o ran pridd felly	---	NST
+
+
+269, 1	908, 1-2	BAG	hollol yn_de	NSNT	NSNT
+269, 2	910, 1-15	BAG	ond o'n i isio gael hwnna ar gof a chadw gyn y dyn ei hun	NSNT	NSNT
+269, 3	910, 16-20	BAG	yn_de mynd i lygad y	NSNT	NSNT
+269, 4	910, 21-26	BAG	ffynnon a mynd at ar *Elfyn_Hughes*	NST	NST
+269, 5	911, 1-5	BAG	ac *oh* oedd o yn	NST	NST
+269, 6	911, 6-15	BAG	oedd o fwy ar dân i ddeud wrtha i ffordd	NSNT	NSNT
+269, 7	911, 16-18	BAG	oedd o yn	NSNT	NSNT
+269, 8	911, 19-35	BAG	wsti trin yr yr yr *er* yr *er* y bobl *um* y y y yr awdurdodau felly	NST	NST
+269, 9	911, 37-37	BAG	wsti	NSNT	NSNT
+269, 10	912, 1-8	BAG	*oh* mynd i gael dim *nonsense* gynnyn nhw	NST	NST
+269, 11	913, 1-2	BAG	felly yn_de	NSNT	NSNT
+269, 12	914, 1-11	BAG	ges i ddigon o hanes hynny felly ei gymeriad o felly	NSNT	NSNT
+269, 14	917, 1-3	BAG	*um* a yr	NST	NST
+269, 15	917, 4-8	BAG	wsti yr agwedd dim *nonsense*	NST	NST
+269, 16	917, 9-16	BAG	oedd gynno fo gynno fo ers talwm felly	NSNT	NSNT
+269, 17	917, 18-18	BAG	wsti	NSNT	NSNT
+269, 18	918, 1-8	BAG	ond ges i affliw o ddim_byd ar ar	NSNT	NSNT
+269, 19	918, 9-16	BAG	wsti ei ei ei ei syniadaeth o felly	NSNT	NSNT
+269, 20	918, 17-20	BAG	yn_de wrth wrth sefydlu	NSNT	NSNT
+269, 21	919, 1-7	BAG	*er* ac mae o ac mewn difri	NST	NST
+269, 22	919, 8-10	BAG	mae o yn	NSNT	NSNT
+269, 23	919, 11-11	BAG	wsti	NSNT	NSNT
+269, 24	919, 12-21	BAG	dan ni yn dal i warchod y llefydd yma heddiw	NSNT	NSNT
+269, 25	920, 1-1	BAG	mae	NSNT	NSNT
+269, 26	920, 2-2	BAG	mae	NSNT	NSNT
+269, 27	920, 3-8	BAG	mae weledigaeth o ar y pryd	NSNT	NSNT
+269, 28	920, 9-13	BAG	yn_de yn diwedd y rhyfel	NSNT	NSNT
+269, 29	920, 14-28	BAG	wsti yn y pumdegau felly *er* diwedd y pumdegau felly yn dal yn fyw heddiw	NST	NST
+269, 30	920, 30-30	BAG	wsti	---	NSNT
+
+
+270, 1	921, 1-3	ABE	dyna chdi *yeah*	---	NST
+
+
+271, 1	923, 1-4	BAG	a mae nhw wedi	NSNT	NSNT
+271, 2	923, 5-5	BAG	mae	NSNT	NSNT
+271, 3	923, 6-6	BAG	mae	NSNT	NSNT
+271, 4	923, 7-7	BAG	yr	NSNT	NSNT
+271, 5	923, 8-13	BAG	mae weledigaeth o wedi sefyll yn_dydy	NSNT	NSNT
+271, 6	923, 14-14	BAG	wsti	NSNT	NSNT
+271, 7	924, 1-4	BAG	*o_k* dan ni yn	NST	NST
+271, 8	924, 5-16	BAG	dan ni yn gweld y safleoedd dipyn bach yn wahanol wan felly	NSNT	NSNT
+271, 9	925, 1-3	BAG	dan ni yn	NSNT	NSNT
+271, 10	925, 4-4	BAG	does	NSNT	NSNT
+271, 11	925, 5-15	BAG	gynnon ni ddim yr un *um* gweledigaeth yr un *er* ag	NST	NST
+271, 12	925, 16-21	BAG	oedd gynno fo yn wreiddiol felly	NSNT	NSNT
+271, 13	926, 1-6	BAG	ond yr un dan ni yn	NSNT	NSNT
+271, 14	926, 7-13	BAG	dan ni yn gwarchod yr un safleoedd	NSNT	NSNT
+271, 15	927, 1-3	BAG	mae nhw wedi	NSNT	NSNT
+271, 16	927, 4-4	BAG	mae	NSNT	NSNT
+271, 17	927, 5-5	BAG	mae	NSNT	NSNT
+271, 18	927, 6-6	BAG	yr	NSNT	NSNT
+271, 19	927, 7-7	BAG	mae	NSNT	NSNT
+271, 20	927, 8-8	BAG	yr	NSNT	NSNT
+271, 21	927, 9-10	BAG	mae *er*	NST	NST
+271, 22	927, 11-13	BAG	mae yr gwerth	NSNT	NSNT
+271, 23	927, 14-16	BAG	mae o wedi	NSNT	NSNT
+271, 24	927, 17-22	BAG	rhoid arnyn nhw wedi sefyll yn_dydy	NSNT	NSNT
+271, 25	927, 23-23	BAG	wsti	---	NSNT
+
+
+272, 1	929, 1-5	ABE	ydy yr un un weledigaeth	NSNT	NSNT
+272, 2	929, 6-8	ABE	oedd gynno fo	NSNT	NSNT
+272, 3	929, 9-10	ABE	neu ydy	NSNT	NSNT
+272, 4	929, 11-21	ABE	ydy yr athroniaeth tu ôl i yr peth sail y peth	NSNT	NSNT
+272, 5	929, 22-31	ABE	ydy honno yr un peth deuda mewn llefydd eraill hefyd	NSNT	NSNT
+272, 6	929, 32-33	ABE	oedd ddim	NSNT	NSNT
+272, 7	929, 34-50	ABE	dan ei arolygaeth o fel yn fel yng gogledd Lloegr neu yr Alban neu beth bynnag felly	---	NSNT
+
+
+273, 1	931, 1-6	BAG	*yeah* dw i ddim yn gwybod	NST	NST
+273, 2	932, 1-4	BAG	dyna chdi rywbeth arall	NSNT	NSNT
+273, 3	932, 5-6	BAG	fysai wedi	NSNT	NSNT
+273, 4	932, 7-7	BAG	fysai	NSNT	NSNT
+273, 5	933, 1-7	BAG	petasai fo wedi bachu ar y peth	NSNT	NSNT
+273, 6	933, 9-9	BAG	wsti	NSNT	NSNT
+273, 7	933, 10-10	BAG	fyswn	NSNT	NSNT
+273, 8	933, 11-18	BAG	fyswn i wedi gallu mynd ar_ôl hynna felly	---	NSNT
+
+
+274, 1	934, 2-9	ABE	mae yr egwyddor yn un *er* gyffredinol yn_dydy	NST	NST
+274, 2	937, 1-16	ABE	felly timod ai *um* wedi cymeryd y syniad a ei addasu o i yr sefyllfa Gymreig	NST	NST
+274, 3	937, 17-23	ABE	oedd o o ran ecoleg felly yntau	NSNT	NSNT
+274, 4	937, 24-29	ABE	oedd o yn gwthio yr peth	NSNT	NSNT
+274, 5	941, 1-3	ABE	neu neu timod	NSNT	NSNT
+274, 6	941, 4-6	ABE	a oedd o	NSNT	NSNT
+274, 7	941, 7-19	ABE	oedd o yn seiliedig ar y bobl ar weledigaethau tridegau a hyn a	NSNT	NSNT
+274, 8	941, 20-21	ABE	llall de	NSNT	NSNT
+274, 9	941, 22-23	ABE	timod pobl	NSNT	NSNT
+274, 10	941, 24-25	ABE	gynharach de	---	NSNT
+
+
+275, 1	943, 1-4	BAG	*yeah* *yeah* *yeah* hollol	NST	NST
+275, 2	944, 1-4	BAG	dyna ti isio wybod	NSNT	NSNT
+275, 3	944, 6-8	BAG	wsti mewn ffordd	---	NSNT
+
+
+276, 1	945, 1-12	ABE	ac mae yr peth yn mynd ymlaen rwan hir am *N_V_C* felly	---	NST
+
+
+277, 1	946, 1-3	BAG	yn *yeah* *yeah*	NST	NST
+277, 2	947, 1-3	BAG	ond mae *N*	NST	NST
+277, 3	947, 4-12	BAG	mae yr *N_V_C* yn yn weledigaeth tra gwahanol yn_dydy	NST	NST
+277, 4	948, 1-3	BAG	mae mewn ffordd	NSNT	NSNT
+277, 5	948, 4-9	BAG	mae o yn sbïo ar safle	---	NSNT
+
+
+278, 1	949, 2-7	ABE	dydy o ddim yn sbïo ar	---	NSNT
+
+
+279, 1	950, 1-6	BAG	mewn mewn fel ynys nac ydy	NSNT	NSNT
+279, 2	951, 1-4	BAG	dydy o ddim yn	NSNT	NSNT
+279, 3	951, 5-8	BAG	dydy o ddim yn	NSNT	NSNT
+279, 4	951, 9-12	BAG	dydy o ddim yn	NSNT	NSNT
+279, 5	952, 1-16	BAG	*o_k* mae o yn gyfansawdd yn yr ystyr bod chdi yn gallu gweld tebygrwydd rhwng safleoedd	NST	NST
+279, 6	954, 1-6	BAG	ond mae o yn dal i	NSNT	NSNT
+279, 7	954, 7-7	BAG	roid	NSNT	NSNT
+279, 8	954, 8-8	BAG	gwerth	NSNT	NSNT
+279, 9	955, 1-1	BAG	wsti	NSNT	NSNT
+279, 10	955, 2-5	BAG	dydy o ddim yn	NSNT	NSNT
+279, 11	955, 6-9	BAG	dydy o ddim yn	NSNT	NSNT
+279, 12	956, 1-3	BAG	mae o yn	NSNT	NSNT
+279, 13	956, 4-16	BAG	mae o yn edrych ar safleoedd unigol yn_dydy i ddeud y gwir felly	NSNT	NSNT
+279, 14	956, 17-17	BAG	wsti	---	NSNT
+
+
+280, 1	957, 1-12	ABE	yndy mewn *er* ryw fân gymunedau yn hytrach na un safle fawr	NST	NST
+280, 2	959, 1-2	ABE	hynny ydy	NSNT	NSNT
+280, 3	959, 3-5	ABE	fedri di ddim	NSNT	NSNT
+280, 4	959, 6-10	ABE	rhoid ffin ar y peth	NSNT	NSNT
+280, 5	960, 1-1	ABE	mae	---	NSNT
+
+
+281, 1	962, 1-7	BAG	ia yn hollol *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+282, 1	963, 1-16	ABE	ac yn a medru bod yn *just* *patch* bach yn gymaint â yr stafell yma weithiau	NST	NST
+282, 2	963, 17-20	ABE	timod neu lai hyd_yn_oed	NSNT	NSNT
+282, 3	963, 22-34	ABE	timod a mewn cyswllt mwy pan ti yn sbïo ar yr *er* ffordd	NST	NST
+282, 4	963, 35-50	ABE	mae o yn tonyddu i_fewn i gymuned arall drws nesa iddo fo ac yn y blaen	---	NSNT
+
+
+283, 1	967, 1-1	BAG	tonyddu	NSNT	NSNT
+283, 2	968, 1-3	BAG	deud da *Abel*	---	NST
+
+
+284, 1	969, 1-3	ABE	Duw ia yn_de	NSNT	NSNT
+284, 3	971, 1-3	ABE	pam lai de	---	NSNT
+
+
+285, 1	974, 1-2	BAG	felly dyna	NSNT	NSNT
+285, 2	974, 3-13	BAG	ydy yn *er* mhrofiad i o o holi ychydig yr ychydig	NST	NST
+285, 3	974, 14-17	BAG	dw i wedi gwneud	NSNT	NSNT
+285, 4	975, 1-8	BAG	na dw i isio gwneud mwy o hynny	NSNT	NSNT
+285, 6	975, 32-34	BAG	wsti a cael	---	NSNT
+
+
+286, 1	976, 1-10	ABE	*yeah* felly ti mynd i fod yn brysur uffernol achan	---	NST
+
+
+287, 1	977, 1-4	BAG	*mmm* mae yn gobeithio	NST	NST
+287, 2	980, 1-2	BAG	gobeithio yn_de	---	NSNT
+
+
+288, 1	981, 1-1	ABE	duwcs	---	NSNT
+
+
+289, 1	982, 1-9	BAG	a dw i isio wneud *lot* mwy o gerdded	NST	NST
+289, 2	983, 1-3	BAG	dw i wedi	NSNT	NSNT
+289, 3	983, 4-15	BAG	dw i wedi mynd yn blwyfol iawn yn y blynyddoedd dwytha yma	NSNT	NSNT
+289, 4	984, 1-2	BAG	fydda i	NSNT	NSNT
+289, 5	984, 3-10	BAG	fydda i cofio pan o'n i yn Sir_Feirionydd	NSNT	NSNT
+289, 6	984, 11-19	BAG	yn_de *um* pan o'n i yn byw yn Dyffryn	NST	NST
+289, 7	984, 21-21	BAG	wsti	---	NSNT
+
+
+290, 1	985, 1-3	ABE	dyna chdi *yeah*	---	NST
+
+
+291, 1	986, 1-3	BAG	ac *er* wsti	NST	NST
+291, 2	986, 4-9	BAG	dw i yn dal i allu	NSNT	NSNT
+291, 3	987, 1-1	BAG	wsti	NSNT	NSNT
+291, 4	987, 2-8	BAG	dw i yn gwybod enw pob un	NSNT	NSNT
+291, 5	987, 9-15	BAG	bryn a pant yn ar y *Rhinogydd*	NST	NST
+291, 6	987, 16-23	BAG	neu dw i yn teimlo mod i felly	NSNT	NSNT
+291, 7	987, 24-34	BAG	yn_de ac ar y ar yr arfordir yn fan yna felly	NSNT	NSNT
+291, 8	988, 1-16	BAG	ac dw i erioed wedi cael adnabyddiaeth tebyg yn gogledd Eryri ers i mi symud i_fyny	NSNT	NSNT
+291, 9	988, 18-18	BAG	wsti	NSNT	NSNT
+291, 10	989, 1-16	BAG	dw i wedi mynd yn blwyfol i *Aber* ers i mi symud i_fyny felly o Dyffryn	NST	NST
+291, 11	990, 1-2	BAG	wedyn *er*	NST	NST
+291, 12	992, 1-5	BAG	a wedyn dw i isio	NSNT	NSNT
+291, 13	992, 6-11	BAG	dw i isio trio ehangu gorwelion	NSNT	NSNT
+291, 14	992, 13-16	BAG	wsti dipyn bach felly	NSNT	NSNT
+291, 15	992, 17-17	BAG	wsti	---	NSNT
+
+
+292, 1	994, 1-6	ABE	ia dw innau yr un peth	NSNT	NSNT
+292, 2	994, 7-7	ABE	wsti	NSNT	NSNT
+292, 3	994, 8-15	ABE	timod yn ardal lle wan yn *Nebo* yma	NST	NST
+292, 4	995, 1-3	ABE	Duw annwyl timod	NSNT	NSNT
+292, 5	995, 4-5	ABE	dw i	NSNT	NSNT
+292, 6	995, 6-11	ABE	wedi bod yna wan ers faint	NSNT	NSNT
+292, 7	996, 1-13	ABE	dair mlynedd ar ddeg bedair ia mwy ia hynny mwy neu lai felly	NSNT	NSNT
+292, 8	998, 1-21	ABE	ac eto dw i ddim *quite* yn nabod y lle o ran enwau yr tyddynod a bob math o bethau yma	NST	NST
+292, 9	1000, 1-7	ABE	*um* dw i wedi ryw ddod i_mewn	NST	NST
+292, 10	1001, 1-1	ABE	mae	NSNT	NSNT
+292, 11	1001, 2-9	ABE	gynnon ni ein ynys bach yn fan yna	NSNT	NSNT
+292, 12	1003, 1-18	ABE	*o_k* dw i yn gyfarwydd â datblygiad cyffredinol y tirlun a dipyn o hanes ac yn y blaen	NST	NST
+292, 13	1005, 1-10	ABE	a dw i wedi holi hwn a llall rywfaint felly	NSNT	NSNT
+292, 14	1007, 1-6	ABE	ond diawl dydw i ddim wedi	NSNT	NSNT
+292, 15	1007, 7-7	ABE	boddran	NSNT	NSNT
+292, 16	1009, 1-5	ABE	mynd i yr nitty_gritty de	---	SNT
+
+
+293, 1	1010, 1-4	BAG	*yeah* achos mae gyn	NST	NST
+293, 2	1010, 5-8	BAG	wyt ti gwneud ymhél	NSNT	NSNT
+293, 3	1010, 9-14	BAG	â ryw y tirlun ac hanes	NSNT	NSNT
+293, 4	1010, 15-21	BAG	de felly yn dy waith yn gyffredinol	NSNT	NSNT
+293, 5	1010, 22-36	BAG	wyt ti ddim wedi ti ddim wedi sbïo yn dy ardd gefn mewn ffordd hwyrach	---	NSNT
+
+
+294, 1	1012, 1-1	ABE	naddo	NSNT	NSNT
+294, 2	1014, 1-15	ABE	ond timod pan o'n i fwy yn *er* yn *Betws* cyn symud i *Nebo* felly	NST	NST
+294, 3	1014, 16-17	ABE	timod duwcs	NSNT	NSNT
+294, 4	1014, 18-19	ABE	oedd yna	NSNT	NSNT
+294, 5	1014, 20-30	ABE	oedd gyn i ychydig bach mwy o ddiddordeb yn yr *um*	NST	NST
+294, 6	1018, 1-8	ABE	*er* timod llefydd unigol ac yn y blaen	NST	NST
+294, 7	1018, 9-13	ABE	a timod *er* a ballu	---	NST
+
+
+295, 1	1020, 1-11	BAG	hwyrach bod o rywbeth i wneud efo dy oed ti felly	NSNT	NSNT
+295, 2	1020, 13-13	BAG	wsti	NSNT	NSNT
+295, 3	1020, 14-14	BAG	wsti	---	NSNT
+
+
+296, 1	1021, 1-3	ABE	ella bod o	NSNT	NSNT
+296, 2	1021, 4-4	ABE	sti	---	NSNT
+
+
+297, 1	1022, 1-4	BAG	pan o'n i yn	---	NSNT
+
+
+298, 1	1023, 1-3	ABE	synnwn i ddim	---	NSNT
+
+
+299, 1	1025, 1-13	BAG	a bod chdi mynd i ryw rigol bach fel ti mynd yn hŷn	NSNT	NSNT
+299, 2	1025, 15-15	BAG	wsti	NSNT	NSNT
+299, 3	1026, 1-6	BAG	sicr mae hynna wir amdana i	---	NSNT
+
+
+300, 1	1027, 3-12	ABE	dw i wedi magu yna *Clynnog* a yr topiau yna	NST	NST
+300, 2	1027, 13-25	ABE	timod ar ryw *farm* fynydd yn *er* yn uchel yn y topiau yna	NST	NST
+300, 3	1030, 1-15	ABE	mwy neu lai medru gweld y lle o o lle dan ni yn *Nebo* wan	NST	NST
+300, 4	1032, 1-9	ABE	ac wrth_gwrs mae yr cwbl yn y mhen i	NSNT	NSNT
+300, 5	1034, 1-16	ABE	dw i yn cofio mynd yn_ôl yna yn lled diweddar mynd arwain taith *Edward_Llwyd* a ballu	NST	NST
+300, 6	1034, 17-21	ABE	timod mynd drwy yr ardal	NSNT	NSNT
+300, 7	1036, 1-7	ABE	Iesu mawr oedd bob_dim yn llifo nôl	NSNT	NSNT
+300, 8	1036, 8-11	ABE	timod ac atgofion a	NSNT	NSNT
+300, 10	1040, 1-4	ABE	ond *um* dyna o	NST	NST
+300, 11	1040, 5-7	ABE	de cyfarwyddyd llwyr	NSNT	NSNT
+300, 12	1042, 1-2	ABE	a timod	NSNT	NSNT
+300, 13	1042, 3-4	ABE	mae ryw	NSNT	NSNT
+300, 14	1042, 5-9	ABE	mae o yn rywbeth rhyfedd	NSNT	NSNT
+300, 15	1043, 4-7	ABE	na dw i ddim	NSNT	NSNT
+300, 16	1043, 8-14	ABE	wedi bod yno ryw lawer ers hynny	NSNT	NSNT
+300, 17	1043, 15-22	ABE	mae yr lle yn yn yn hynod fyw	NSNT	NSNT
+300, 18	1045, 1-11	ABE	ac *um* yr un peth efo llefydd eraill sy wedi cael	NST	NST
+300, 19	1045, 12-23	ABE	sy wedi creu argraff arna i fath â *um* Enlli a ballu	NST	NST
+300, 20	1048, 1-8	ABE	ti mynd i Enlli a duwcs bendigedig de	NSNT	NSNT
+300, 21	1049, 1-6	ABE	a ddim wedi bod yno o_gwbl	NSNT	NSNT
+300, 22	1049, 7-10	ABE	timod a ers sbelan	NSNT	NSNT
+300, 23	1050, 1-12	ABE	ond eto fyth mae yna ryw Enlli bach yn y mhen i	NSNT	NSNT
+300, 24	1052, 1-10	ABE	fel mae yna ryw *Hafod_y_Wern* fach yn y mhen i	NST	NST
+300, 25	1054, 1-11	ABE	a deud y gwir dw i ddim isio mynd yn_ôl ormod	---	NSNT
+
+
+301, 1	1056, 1-2	BAG	dw gwybod	NSNT	NSNT
+301, 2	1056, 3-5	BAG	dw i gwybod	---	NSNT
+
+
+302, 1	1057, 1-3	ABE	oherwydd dw ddim	NSNT	NSNT
+302, 2	1057, 4-12	ABE	dw ddim isio tarfu ar y ddelwedd gyffyrddus braf	NSNT	NSNT
+302, 3	1057, 13-17	ABE	lle dw i yn gwybod	NSNT	NSNT
+302, 4	1057, 19-22	ABE	be ydy be felly	---	NSNT
+
+
+303, 1	1059, 1-6	BAG	dw i wedi darganfod hyn felly	NSNT	NSNT
+303, 2	1060, 1-6	BAG	*yeah* *yeah* *yeah* dw gwybod *mmm*	---	NST
+
+
+304, 1	1062, 1-3	ABE	a timod *er*	NST	NST
+304, 2	1062, 4-7	ABE	dydw i ddim isio	NSNT	NSNT
+304, 4	1064, 1-3	ABE	a a timod	NSNT	NSNT
+304, 5	1064, 4-5	ABE	oedd o	NSNT	NSNT
+304, 6	1064, 6-16	ABE	oedd o gymaint o siom rywsut heibio ryw hen dyddyn *Penrallt*	NST	NST
+304, 7	1064, 17-29	ABE	a mae yr *bloody* lle wedi newid allan o bob bodolaeth bron iawn	NST	NST
+304, 8	1066, 1-2	ABE	timod anhygoel	NSNT	NSNT
+304, 9	1068, 1-3	ABE	*oh* siom de	NST	NST
+304, 10	1070, 1-13	ABE	well gyn i byw yn y gorffennol rywsut pan oeddwn i yn gyffyrddus	---	NSNT
+
+
+305, 1	1071, 1-3	BAG	byw efo dy	NSNT	NSNT
+305, 2	1073, 1-5	BAG	henaint ydy hynna *Abel* bach	---	NST
+
+
+306, 1	1074, 1-4	ABE	ia hollol ia hollol	NSNT	NSNT
+306, 2	1076, 1-3	ABE	yn union de	NSNT	NSNT
+306, 3	1078, 1-5	ABE	ond eto fyth *yeah* timod	NST	NST
+306, 4	1078, 7-11	ABE	mae yr atgofion mor gry	NSNT	NSNT
+306, 5	1081, 1-3	ABE	a mae nhw	NSNT	NSNT
+306, 6	1081, 4-9	ABE	wedi bod yn ddylanwad gymaint ar	NSNT	NSNT
+306, 7	1081, 10-14	ABE	sut ydw i wedi datblygu	NSNT	NSNT
+306, 8	1081, 15-20	ABE	pwy ydw i mwy neu lai	NSNT	NSNT
+306, 9	1083, 1-13	ABE	diawl oedd yna ryw hen *foy* yn *er* arfer byw yn yn *Penrallt_Ucha*	NST	NST
+306, 10	1083, 14-14	ABE	sti	NSNT	NSNT
+306, 11	1084, 1-3	ABE	timod *um* a	NST	NST
+306, 12	1084, 4-14	ABE	pan oedden i yn tua wyth deg oed ballu yn *Hafod_y_Wern*	NST	NST
+306, 13	1084, 15-16	ABE	ddoth o	NSNT	NSNT
+306, 14	1084, 17-19	ABE	ddoth o yno	NSNT	NSNT
+306, 15	1085, 1-5	ABE	ac *um* uffern o gymeriad	ST	NST
+306, 16	1086, 1-1	ABE	*Charlie_One_Eye*	ST	NST
+306, 18	1088, 1-4	ABE	a timod un llygad	NSNT	NSNT
+306, 19	1088, 5-7	ABE	oedd gynno fo	NSNT	NSNT
+306, 20	1089, 1-4	ABE	oedd o yn byw	---	NSNT
+
+
+307, 1	1090, 1-2	BAG	ew ia	---	NSNT
+
+
+308, 1	1092, 1-6	ABE	yn byw yn dlodaidd gythreulig de	NSNT	NSNT
+308, 2	1092, 7-14	ABE	timod a yn yr hen dyddyn bach yna	NSNT	NSNT
+308, 3	1093, 1-4	ABE	oedd yna ddim trydan	NSNT	NSNT
+308, 4	1094, 1-5	ABE	oedd yna diawl o ddim_byd	NSNT	NSNT
+308, 5	1095, 1-3	ABE	timod *just* dân	NST	NST
+308, 6	1095, 4-6	ABE	glo a a	NSNT	NSNT
+308, 7	1095, 7-8	ABE	dyna o	NSNT	NSNT
+308, 8	1096, 1-8	ABE	ac oedden i yn mynd yna bore Sadwrn	NSNT	NSNT
+308, 9	1097, 1-13	ABE	ac wrth_gwrs *um* *er* yr hen *foy* yma yn gymaint o straewr wsti	NST	NST
+308, 10	1098, 1-14	ABE	ac o'n i mynd â ryw damaid o gacen neu ryw *fince_pies* neu rywbeth	NST	NST
+308, 11	1099, 1-7	ABE	timod *er* byth yn mynd yn waglaw	NST	NST
+308, 12	1100, 1-16	ABE	mynd yno felly timod a mynd â rhein iddo fo i ryw ginio hyn a llall	NSNT	NSNT
+308, 13	1101, 1-14	ABE	a wedyn *just* cael ryw *gouple* o oriau wedyn de yn gwrando ar hwn	NST	NST
+308, 14	1101, 15-22	ABE	de yn yn paldaruo ryw straeon mwya anhygoel	---	NSNT
+
+
+309, 1	1103, 1-5	BAG	oeddet ti wrth dy fodd	---	NSNT
+
+
+310, 1	1104, 1-11	ABE	ac i ryw beth bychan tua ryw wyth deg oed de	NSNT	NSNT
+310, 2	1105, 1-3	ABE	oedd hwn wedyn	NSNT	NSNT
+310, 3	1105, 5-11	ABE	de yn sôn amdano fo ei hun	NSNT	NSNT
+310, 4	1105, 12-12	ABE	wsti	NSNT	NSNT
+310, 5	1105, 14-20	ABE	pan oedd o yn y rhyfel achan	NSNT	NSNT
+310, 6	1109, 1-6	ABE	Duw o o yn *commando* de	NST	NST
+310, 7	1109, 7-10	ABE	a bod yna ryw	NSNT	NSNT
+310, 8	1109, 11-25	ABE	timod ynys fan acw a ryw be ti yn galw fo elyn yn fan yna	NSNT	NSNT
+310, 9	1111, 1-16	ABE	arglwydd mawr a oedd neb yn barod i fynd yno i chwythu yr lle i_fyny i	NSNT	NSNT
+310, 10	1111, 17-28	ABE	am bod nhw yn dal yn_ôl *er* *er* y ymgyrch fawr yma	NST	NST
+310, 11	1114, 1-6	ABE	ac yntau wedyn timod a wedi	NSNT	NSNT
+310, 12	1114, 7-14	ABE	roid machine_gun yn ei geg deifio am nofio	NSNT	SNT
+310, 13	1114, 15-20	ABE	dan dŵr am am hanner milltir	NSNT	NSNT
+310, 14	1114, 21-23	ABE	de i_fyny wedyn	NSNT	NSNT
+310, 16	1114, 44-45	ABE	ei hun	NSNT	NSNT
+310, 18	1116, 1-8	ABE	ac yn mynd drwy hyn mor lliwgar wsti	---	NSNT
+
+
+311, 1	1117, 1-8	BAG	ac oeddet ti yn gegrwth yn blentyn bach	---	NSNT
+
+
+312, 1	1118, 1-2	ABE	argoeledig *yeah*	NST	NST
+312, 2	1119, 1-9	ABE	a wedyn *um* pan *er* gafon ni deledu timod	NST	NST
+312, 3	1120, 1-6	ABE	oedd hynny wan ganol y pumdegau	NSNT	NSNT
+312, 4	1121, 1-13	ABE	a finnau yn ddisgrifio fel oedden ni yn cael y blooming teledu yma	NSNT	SNT
+312, 5	1121, 14-16	ABE	de ac *um*	NST	NST
+312, 6	1121, 17-24	ABE	a bod isio *aerial* i_fyny ar y to	NST	NST
+312, 7	1122, 1-10	ABE	*oh* Duw *yeah* dw i yn cofio fi achan yn	NST	NST
+312, 8	1122, 11-14	ABE	roid ryw *aerial* i_fyny	NST	NST
+312, 9	1123, 2-10	ABE	mae hyn ymhell cyn i deledu ddod i fodolaeth	NSNT	NSNT
+312, 10	1124, 1-3	ABE	ond dyna o	NSNT	NSNT
+312, 11	1125, 1-6	ABE	dim ots am hynny nag oedd	NSNT	NSNT
+312, 12	1126, 2-12	ABE	oedd yntau ddisgrifio ei hun wedyn yn mynd i_fyny a a	NSNT	NSNT
+312, 13	1126, 13-19	ABE	a timod ar yr ysgol fawr yma	NSNT	NSNT
+312, 14	1127, 1-11	ABE	ac wrth_gwrs am bod yna gymaint o wynt yn chwythu fe	NSNT	NSNT
+312, 15	1127, 12-14	ABE	chwythwyd yr ystol	NSNT	NSNT
+312, 16	1128, 1-11	ABE	ac yntau wedyn yn hongian fel mwnci ar y to yma	NSNT	NSNT
+312, 18	1130, 1-6	ABE	timod a ryw bethau fel yna	NSNT	NSNT
+312, 19	1132, 1-7	ABE	yr argoel *oh* ryw ddelweddau anhygoel de	NST	NST
+312, 21	1135, 1-4	ABE	hollol hollol ddychmygus de	NSNT	NSNT
+312, 22	1137, 1-9	ABE	ond *oh* ryw beth bach fath â fi timod	NST	NST
+312, 23	1139, 1-8	ABE	ac oedd hynna yn creu gymaint o argraff	NSNT	NSNT
+312, 24	1139, 9-12	ABE	mae wedi effeithio ar	NSNT	NSNT
+312, 25	1139, 13-20	ABE	timod yng nychymyg creadigol i byth ers hynny	---	NSNT
+
+
+313, 1	1141, 3-8	BAG	mae yn gweld hynna felly efo	NSNT	NSNT
+313, 2	1142, 1-5	BAG	bron faswn i yn taeru	NSNT	NSNT
+313, 3	1142, 6-17	BAG	bod chdi yn sôn amdana chdi dy hun yn fan yna *Abel*	---	NST
+
+
+314, 1	1143, 1-5	ABE	*well* yndy *well* ia hollol	---	NST
+
+
+315, 1	1144, 1-13	BAG	ti yn *er* ti yn un da am roid *stretch* ar bethau weithiau	---	NST
+
+
+316, 1	1145, 1-2	ABE	yndw wrth_gwrs	NSNT	NSNT
+316, 2	1146, 1-5	ABE	a timod *um* ac *er*	NST	NST
+316, 3	1146, 7-14	ABE	mae gen ti gymaint gymaint o gymeriadau ballu	NSNT	NSNT
+316, 4	1146, 15-22	ABE	timod yn dod acw gyda yr nosau ballu	NSNT	NSNT
+316, 5	1146, 23-39	ABE	timod ac yn deud straeon a ballu ac yn *just* *well* cyn blooming dyddiau teledu a ballu	NST	ST
+316, 6	1149, 1-12	ABE	a wedyn oedd y y ddawn deud a yr celwydd golau a	NSNT	NSNT
+316, 7	1149, 13-23	ABE	a roid llathen ar bethau i greu *story* allan o ddim_byd	NST	NST
+316, 8	1153, 1-6	ABE	ryw ddigwyddiad bach mwya pitw de	NSNT	NSNT
+316, 9	1155, 1-9	ABE	ond yng timod yng ngheg ryw straewr go iawn	NSNT	NSNT
+316, 10	1155, 10-12	ABE	de yr argoeledig	NSNT	NSNT
+316, 11	1155, 13-29	ABE	mae yr embellishments yma yn mynd arno fo a yr llathenni o be ti yn galw o	NSNT	SNT
+316, 12	1158, 1-10	ABE	*oh* yr argoeledig ti yn greu *stories* go iawn de	NST	NST
+316, 14	1161, 1-2	ABE	a timod	NSNT	NSNT
+316, 15	1161, 3-5	ABE	dw i newydd	NSNT	NSNT
+316, 16	1161, 6-8	ABE	dw i wedi	NSNT	NSNT
+316, 17	1161, 9-13	ABE	dw i wedi defnyddio hynny	NSNT	NSNT
+316, 18	1161, 15-19	ABE	timod *er* yn Plas *Tan_y_Bwlch*	NST	NST
+316, 19	1161, 20-36	ABE	pan dw i yn mynd allan ac yn paldaruo ac yn stretsio pethau i ryw bobl *yeah*	NST	NST
+316, 21	1165, 1-8	ABE	*ah* mae o yn ffordd gyn i weithiau	NST	NST
+316, 22	1165, 9-17	ABE	timod o *just* cadw yn *er* yn hun yn	NST	NST
+316, 23	1165, 18-19	ABE	gall hefyd	NSNT	NSNT
+316, 24	1166, 1-19	ABE	pan ti yn mynd allan efo ryw *grew* o rheiny *bloody* diawlaid mwya di_ddim weli di ar wyneb daear	NST	NST
+316, 25	1166, 20-26	ABE	wyt ti isio ryw ychydig bach o	---	NSNT
+
+
+317, 1	1169, 1-4	BAG	*yeah* ryw gyffro felly	---	NST
+
+
+318, 1	1170, 1-10	ABE	*humour* dy hun i i i gadw dy ben de	---	NST
+
+
+319, 1	1171, 1-3	BAG	*yeah* *yeah* hollol	NST	NST
+319, 2	1172, 1-4	BAG	*mmm* *yeah* *well* hollol	---	NST
+
+
+319, 3	1173, 1-6	BAG	*yeah* *yeah* dw i gwybod *yeah*	---	NST
+
+
+321, 1	1175, 1-6	BAG	*yeah* *yeah* *yeah* *yeah* *yeah* hollol	NST	NST
+321, 2	1176, 1-2	BAG	sych felly	---	NSNT
+
+
+322, 1	1177, 1-3	ABE	*pedantic* a sych	NST	NST
+322, 2	1179, 1-6	ABE	ac *er* yn cwyno am bob_dim	---	NST
+
+
+323, 1	1180, 1-3	BAG	mae yn *sure*	NST	NST
+323, 2	1180, 4-11	BAG	bod chdi yn gael nhw fan yna hefyd	---	NSNT
+
+
+324, 1	1182, 1-6	ABE	ond timod ti yn cael nhw	---	NSNT
+
+
+325, 1	1183, 1-5	BAG	*mmm* ia dw i gwybod	NST	NST
+325, 2	1184, 1-3	BAG	pigo dy frain	---	SNT
+
+
+326, 1	1185, 1-5	ABE	dw i yn cofio un	---	NSNT
+
+
+327, 1	1186, 1-2	BAG	go on	---	NSNT
+
+
+328, 1	1187, 1-12	ABE	dw i yn cofio ryw dro achan yn y ben y *Moelwyn*	NST	NST
+328, 2	1187, 13-13	ABE	sti	NSNT	NSNT
+328, 3	1189, 1-9	ABE	a o yna ryw *grew* o o ryw Saeson	NST	NST
+328, 4	1191, 1-5	ABE	ond arglwydd mawr ar ryw	NSNT	NSNT
+328, 5	1192, 1-8	ABE	*well* timod y ddelwedd y ramblwr go iawn	NST	NST
+328, 6	1192, 9-9	ABE	sti	NSNT	NSNT
+328, 7	1194, 1-8	ABE	ac *er* isio gwybod bob_dim am timod pethau	NST	NST
+328, 8	1195, 1-2	ABE	a timod	NSNT	NSNT
+328, 9	1195, 4-7	ABE	oedden nhw isio view	SNT	SNT
+328, 11	1197, 1-9	ABE	oedden nhw ddim isio *just* eistedd lawr am *goffee*	NST	NST
+328, 12	1198, 1-7	ABE	oedden nhw isio rywle i gael view	---	SNT
+
+
+329, 1	1202, 1-9	BAG	ia a mae view yn wahanol i olygfa yn_dydy	NSNT	SNT
+329, 2	1202, 10-10	BAG	wsti	NSNT	NSNT
+329, 3	1202, 11-11	BAG	sti	---	NSNT
+
+
+330, 1	1203, 1-7	ABE	a finnau yn cyrraedd *top* y mynydd	NST	NST
+330, 2	1204, 1-3	ABE	*oh* yndy tad	NST	NST
+330, 3	1205, 1-8	ABE	*yeah* fedri di fesur a a a a	NST	NST
+330, 4	1207, 1-2	ABE	timod property	SNT	SNT
+330, 5	1207, 3-4	ABE	ydy view	---	SNT
+
+
+331, 1	1208, 1-6	BAG	*yeah* *yeah* *yeah* *yeah* yn hollol	---	NST
+
+
+332, 1	1209, 1-7	ABE	hollol y ffordd oedden nhw isio fo	NSNT	NSNT
+332, 2	1211, 1-7	ABE	a cyrraedd y *top* de a deud	NST	NST
+332, 3	1212, 1-3	ABE	dyma ni ta	SNT	NSNT
+332, 4	1213, 1-7	ABE	this is your view of the day	SNT	NSNT
+332, 5	1216, 1-5	ABE	*oh* oedden nhw yn hapus	NST	NST
+332, 6	1216, 6-7	ABE	de hapus	NSNT	NSNT
+332, 7	1216, 8-14	ABE	de cael y view of the day	SNT	SNT
+332, 9	1218, 1-6	ABE	a dyma yr *bloody* *boy* yma	NST	NST
+332, 10	1219, 1-3	ABE	*real* *pedant* de	NST	NST
+332, 12	1222, 1-9	ABE	*oh* yr arglwydd mawr oedd o ramblwr go iawn	NST	NST
+332, 13	1222, 10-23	ABE	de efo ei *fap* bach mewn ryw beth bach *plastic* a rei hongian ar	NST	NST
+332, 14	1222, 24-26	ABE	ei frest o	NSNT	NSNT
+332, 15	1224, 1-6	ABE	ac *um* rywun yn gofyn de	NST	NST
+332, 16	1224, 8-12	ABE	be ydy enwau yr mynyddoedd	NSNT	NSNT
+332, 18	1226, 1-5	ABE	oedd hi yn olygfa anhygoel	NSNT	NSNT
+332, 19	1227, 1-17	ABE	ac *er* duwcs o'n i ddim wedi bod yn gweithio yn y plas ers ryw hir iawn	NST	NST
+332, 20	1228, 1-10	ABE	o'n i ddim yn gyfarwydd efo Eryri beth bynnag de	NSNT	NSNT
+332, 21	1229, 1-5	ABE	ac *um* yn dechrau deud	NST	NST
+332, 22	1230, 1-18	ABE	*oh* dacw hi *um* *um* *Cader_Idris* lawr yn fan acw y *Rhinogydd* yn fan yna *Aran_Fawddwy* fan yna	NST	NST
+332, 23	1231, 2-6	ABE	timod a hyn a llall	NSNT	NSNT
+332, 24	1232, 1-14	ABE	a diawl o'n i ddim yn gwybod be oedd rei o yr lleill yma	NSNT	NSNT
+332, 25	1233, 1-7	ABE	cofio ryw hen *story* myn diawl i	NST	NST
+332, 26	1234, 1-10	ABE	oedd yna ryw *foy* *um* yn arfer mynd ar dripiau	NST	NST
+332, 27	1235, 1-7	ABE	neu dreifar *bus* oedd o o *Drefor*	NST	NST
+332, 28	1236, 1-4	ABE	*Motor_Coch* *er* *Dic_Motor_Coch* timod	NST	NST
+332, 29	1237, 1-12	ABE	a wedyn pan oedd hwnnw mynd â ryw griwiau o Saeson o_gwmpas	NSNT	NSNT
+332, 30	1237, 13-20	ABE	oedd gynno fo fath â ryw *microphone* bach	NST	NST
+332, 31	1237, 22-34	ABE	timod ac yn deud bob mathau o bethau am enwau yr mynyddoedd yma	NSNT	NSNT
+332, 32	1238, 1-8	ABE	*oh* *er* cachu iâr mountain yn fan acw	NST	ST
+332, 34	1241, 1-9	ABE	a finnau yn defnyddio yr un un fath de	NSNT	NSNT
+332, 36	1244, 1-18	ABE	fan acw *er* over there now we got *um* mynydd cachu iâr *um* cwd maharan hill over there	---	ST
+
+
+333, 1	1247, 1-6	BAG	mae isio gwyneb i wneud hynny	NSNT	NSNT
+333, 2	1247, 7-8	BAG	does *Abel*	---	NST
+
+
+334, 1	1249, 1-11	ABE	a timod ac ac yn cael andros o hwyl yn fewnol	NSNT	NSNT
+334, 2	1249, 12-15	ABE	timod yn y mhen	NSNT	NSNT
+334, 3	1249, 16-18	ABE	de deud rhein	---	NSNT
+
+
+335, 1	1251, 1-6	BAG	a nhwythau yn lyncu o felly	---	NSNT
+
+
+336, 1	1252, 1-4	ABE	a rheiny yn timod	NSNT	NSNT
+336, 2	1254, 1-15	ABE	a dyma yr *bloody* *boy* yma ar y diwedd *er* *er* ryw bum munud wedyn	NST	NST
+336, 3	1255, 3-11	ABE	oedd o yn sbïo drwy ei *fap* bob_dim *yeah*	NST	NST
+336, 4	1255, 12-14	ABE	timod ac yn	NSNT	NSNT
+336, 5	1257, 1-11	ABE	a mae yn dod ato fi yn diwedd ac yn gofyn	NSNT	NSNT
+336, 6	1257, 12-15	ABE	de ac yn deud	SNT	NSNT
+336, 7	1258, 1-3	ABE	*um* you know	NST	NST
+336, 8	1258, 4-7	ABE	you said that mountain	NSNT	NSNT
+336, 10	1260, 1-11	ABE	that's not not what it says here on the *map* *yeah*	ST	NST
+336, 12	1262, 1-13	ABE	a timod *oh* raid ti feddwl ar dy draed yn *sudden* iawn wedyn	NST	NST
+336, 13	1264, 1-7	ABE	*oh* diawl I was using the vernacular	ST	ST
+336, 15	1266, 1-2	ABE	meddai fi	NSNT	NSNT
+336, 16	1267, 1-5	ABE	*oh* yr arglwydd mawr de	---	NST
+
+
+337, 1	1268, 1-2	BAG	*real* *Abel*	ST	NST
+337, 3	1270, 1-2	BAG	da iawn	---	NSNT
+
+
+338, 1	1271, 1-2	ABE	ond timod	NSNT	NSNT
+338, 2	1271, 3-4	ABE	dyna o	NSNT	NSNT
+338, 3	1272, 1-10	ABE	dw i yn mwynhau *just* rhefru weithiau a rhaffu nhw	NST	NST
+338, 4	1272, 12-13	ABE	timod ond	NSNT	NSNT
+338, 5	1274, 1-2	ABE	dyna o	NSNT	NSNT

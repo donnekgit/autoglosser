@@ -1,0 +1,1848 @@
+
+
+1, 1	1, 1-9	OLW	*oh* fydd raid i ni fynd allan i dathlu	NST	NST
+1, 3	3, 1-5	OLW	fath â wnaethon ni o_blaen	NSNT	NSNT
+1, 4	4, 1-8	OLW	cofio pan aethon ni i yr *Indians* yna	---	NST
+
+
+2, 1	6, 1-11	TRE	ia dw i ddim yn cofio neb yn dathlu mhen_blwydd i	---	NSNT
+
+
+3, 1	7, 1-2	OLW	braf oedd	NSNT	NSNT
+3, 2	8, 1-3	OLW	Nadolig oedd hynna	NSNT	NSNT
+3, 3	10, 1-4	OLW	*yeah* *just* cyn Nadolig	NST	NST
+3, 4	11, 1-7	OLW	basa *nice* mynd eto am *Indians* fasa	---	NST
+
+
+4, 1	13, 1-8	TRE	ond ches i ddim cerdyn flwyddyn dwytha chwaith	---	NSNT
+
+
+5, 1	14, 1-12	OLW	*oh* *yeah* o'n i ddim cofio fod dy benblwydd chdi nag oedd	NST	NST
+5, 3	16, 1-9	OLW	dw i erioed wedi cael cerdyn dim_ond blwyddyn yma	---	NSNT
+
+
+6, 1	17, 1-7	TRE	*yeah* ond ges i ddim hyd iddi	---	NST
+
+
+7, 1	18, 1-7	OLW	*oh* ges i un diwrnod o blaen	NST	NST
+7, 2	19, 1-9	OLW	*oh* gei di un gynno fi mis Mai yn_cei	---	NST
+
+
+8, 1	20, 1-2	TRE	dim un	---	NSNT
+
+
+9, 1	21, 1-3	OLW	wan bod fi	---	NSNT
+
+
+10, 1	22, 1-2	TRE	promises promises	---	NSNT
+
+
+11, 1	23, 1-7	OLW	wan bod fi yn gwybod pa bryd	NSNT	NSNT
+11, 2	23, 8-9	OLW	mae o	NSNT	NSNT
+11, 3	24, 1-5	OLW	be ydy yr dyddiad felly	---	NSNT
+
+
+12, 1	25, 1-1	TRE	un_deg_saith	---	NSNT
+
+
+13, 1	26, 1-1	OLW	dau_ddeg_saith	---	NSNT
+
+
+14, 1	27, 1-1	TRE	un_deg_saith	---	NSNT
+
+
+15, 1	28, 1-2	OLW	*oh* un_deg_saith	NST	NST
+15, 2	29, 1-10	OLW	a mi o'n i ar y chweched o Ionawr do'n	---	NSNT
+
+
+16, 1	31, 1-9	TRE	*oh* ti yn gwybod be mae nhw ddeud twyt	---	NST
+
+
+17, 1	32, 1-1	OLW	be	---	NSNT
+
+
+18, 1	33, 1-11	TRE	bod *er* *Taurus* a *Capricorn* yn gweithio yn dda efo ei_gilydd	---	NST
+
+
+19, 1	35, 1-4	OLW	rydan ni *right* dda	NST	NST
+19, 2	35, 5-5	OLW	dydan	---	NSNT
+
+
+20, 1	36, 1-3	TRE	na dw i	---	NSNT
+
+
+21, 1	37, 1-11	OLW	ond weithiau mae *Taurus* fath â bull in a *china* *shop*	ST	ST
+21, 3	39, 1-4	OLW	a mae yr *Capricorn*	---	NST
+
+
+22, 1	40, 1-3	TRE	be ydy gafr	NSNT	NSNT
+22, 2	40, 4-4	TRE	ta	---	NSNT
+
+
+23, 1	41, 1-3	OLW	bod yn reasonable	SNT	SNT
+23, 2	42, 1-6	OLW	*er* bob tro yn *er* *serious*	---	NST
+
+
+24, 1	43, 1-3	TRE	*oh* *sure* *sure*	ST	NST
+24, 2	44, 1-8	TRE	glywes i son bod *Capricorns* fath â geifr	NST	NST
+24, 4	46, 1-9	TRE	bod nhw yn crwydro o_gwmpas yn cnoi bob peth	NSNT	NSNT
+24, 5	46, 10-10	TRE	te	NSNT	NSNT
+24, 6	47, 1-5	TRE	dyna be glywes i *yeah*	---	NST
+
+
+25, 1	48, 1-11	OLW	*well* dw i ddim yn cnoi pethau dim_ond *chocolate* a *chips*	---	NST
+
+
+26, 1	49, 1-9	TRE	*well* ti gael digon o reiny dw i gwybod	---	NST
+
+
+27, 1	50, 1-7	OLW	*oh* dw i licio *chocolate* a *chips*	NST	NST
+27, 2	51, 1-3	OLW	pwy sy ddim	---	NSNT
+
+
+28, 1	52, 1-1	TRE	*aye*	ST	NST
+28, 2	53, 1-5	TRE	ew mae yna ambell un	NSNT	NSNT
+28, 3	53, 6-6	TRE	sti	NSNT	NSNT
+28, 4	53, 7-8	TRE	sy ddim	NSNT	NSNT
+28, 5	54, 1-5	TRE	mae nhw allergic iddo fo	---	SNT
+
+
+29, 1	55, 1-1	OLW	yfi	---	NSNT
+
+
+30, 1	56, 1-4	TRE	nage dwyt ti ddim	NSNT	NSNT
+30, 2	57, 1-4	TRE	ond mae yna rai	NSNT	NSNT
+30, 3	57, 5-5	TRE	te	---	NSNT
+
+
+31, 1	58, 1-1	OLW	yndw	NSNT	NSNT
+31, 2	58, 2-2	OLW	yndw	NSNT	NSNT
+31, 3	58, 3-10	OLW	dw i ddim i fod i fwyta *chocolate*	NST	NST
+31, 4	59, 1-4	OLW	mae deintydd yn deud	NSNT	NSNT
+31, 5	60, 1-6	OLW	dw i mynd ar ddannodd bob	NSNT	NSNT
+31, 6	60, 7-7	OLW	tro	NSNT	NSNT
+31, 7	60, 8-11	OLW	dw i fwyta fo	---	NSNT
+
+
+32, 1	61, 1-4	TRE	*oh* bwyta dim_byd ta	---	NST
+
+
+33, 1	62, 1-6	OLW	ond fedra i ddim helpu yr	NSNT	NSNT
+33, 2	63, 1-3	OLW	mae yn addiction	NSNT	SNT
+33, 3	64, 1-1	OLW	chocoholic	---	NSNT
+
+
+34, 1	65, 1-12	TRE	ti ddim wedi meddwl am am dod dan *hypnosis* neu rywbeth felly	NST	NST
+34, 2	65, 13-13	TRE	ta	---	NSNT
+
+
+35, 1	66, 1-1	OLW	*hypnosis*	ST	NST
+35, 2	67, 1-1	OLW	iesgob	NSNT	NSNT
+35, 3	68, 1-8	OLW	raid gael *Paul* *McKenna* wneud fi mwy gwirion	NST	NST
+35, 4	69, 1-3	OLW	na ddim diolch	---	NSNT
+
+
+36, 1	70, 1-2	TRE	mwy gwirion	NSNT	NSNT
+36, 2	71, 1-7	TRE	nes i ddim deud bod chdi yn	NSNT	NSNT
+36, 3	71, 8-8	TRE	wirion	---	NSNT
+
+
+37, 1	72, 1-4	OLW	dw i yn meddwl	NSNT	NSNT
+37, 2	72, 5-10	OLW	baswn i yn cael yn hypnotise_io	SNT	SNT
+37, 3	72, 11-12	OLW	baswn i	NSNT	NSNT
+37, 4	72, 13-14	OLW	yn de	---	NSNT
+
+
+38, 1	73, 1-4	TRE	*yeah* ond peth ydy	NST	NST
+38, 2	74, 1-3	TRE	ti o_dan *hypnosis*	NST	NST
+38, 3	75, 1-7	TRE	ti ddim yn gwybod be ti wneud	NSNT	NSNT
+38, 4	76, 1-12	TRE	a wedyn mae nhw yn dod â yr addiction allan ohona chdi	NSNT	SNT
+38, 5	76, 13-15	TRE	dw i feddwl	---	NSNT
+
+
+39, 1	77, 1-8	OLW	*oh* nes i sti ar *um* rhaglen S_pedwar_C	NST	NST
+39, 2	78, 1-4	OLW	oedd yna ryw *foy*	NST	NST
+39, 3	79, 1-6	OLW	dw ddim gwybod os ti gwybod	NSNT	NSNT
+39, 4	79, 7-9	OLW	pwy ydy o	NSNT	NSNT
+39, 5	80, 1-4	OLW	ryw *foy* Cymraeg yma	NST	NST
+39, 6	81, 1-6	OLW	ac oedd o yn hypnoteiddio pawb	---	NSNT
+
+
+40, 1	82, 1-6	TRE	mae yna *lot* o bobl Cymraeg	---	NST
+
+
+41, 1	83, 1-12	OLW	y sioe anhygoel neu rywbeth o yr o yr enw yr sioe	NSNT	NSNT
+41, 2	85, 1-8	OLW	ac o'n i yn yr audience yn hwnna	NSNT	SNT
+41, 3	87, 1-8	OLW	ac oedd o ddim yn gallu hypnotise_io fi	NSNT	SNT
+41, 4	88, 2-9	OLW	neu oedd o wedi gallu hypnotise_io pawb arall	NSNT	SNT
+41, 6	90, 1-9	OLW	ac oedd o ddim yn gallu wneud i mi	NSNT	NSNT
+41, 7	93, 1-9	OLW	*so* dydy pawb ddim yn gallu cael eu hypnoteiddio	NST	NST
+41, 8	94, 1-10	OLW	ond mae raid i chi fod *right* susceptible i hynna	NST	ST
+41, 9	96, 1-7	OLW	os dach chi mor will will minded	SNT	SNT
+41, 10	97, 1-2	OLW	cry iawn	NSNT	NSNT
+41, 11	98, 1-3	OLW	ddim isio wneud	NSNT	NSNT
+41, 12	100, 1-4	OLW	wneith o ddim digwydd	---	NSNT
+
+
+42, 1	101, 1-6	TRE	*oh* dw i wedi cael hypnoteiddio	---	NST
+
+
+43, 1	102, 1-2	OLW	efo be	---	NSNT
+
+
+44, 1	103, 1-3	TRE	gen dyn *eh*	NST	NST
+44, 2	104, 1-4	TRE	gen dim i be	---	NSNT
+
+
+45, 1	106, 1-7	OLW	i i i i i be felly	---	NSNT
+
+
+46, 1	107, 1-4	TRE	i be ti feddwl	---	NSNT
+
+
+47, 1	109, 1-2	OLW	i be	NSNT	NSNT
+47, 2	110, 1-3	OLW	i ba bwrpas	---	NSNT
+
+
+48, 1	111, 1-4	TRE	fel ran o hwyl	---	NSNT
+
+
+49, 1	112, 1-4	OLW	fel rhan o hwyl	---	NSNT
+
+
+50, 1	114, 1-3	TRE	mewn *students* union	---	ST
+
+
+51, 1	115, 1-4	OLW	a be wnaeth ddigwydd	---	NSNT
+
+
+52, 1	116, 1-3	TRE	mewn *students* union	---	ST
+
+
+53, 1	117, 1-4	OLW	a be wnaeth ddigwydd	---	NSNT
+
+
+54, 1	118, 1-4	TRE	*well* roid fi allan	NST	NST
+54, 2	118, 5-12	TRE	de efo be *group* o ryw wyth arall	NST	NST
+54, 3	120, 1-8	TRE	a wedyn wnaeth o mynd â ni yn_ôl	NSNT	NSNT
+54, 4	121, 1-12	TRE	yn un peth wnaeth o fynd â ni yn_ôl i ysgol gynradd	NSNT	NSNT
+54, 5	123, 1-11	TRE	a deud bod ni yn dechrau ysgol am y tro cynta	NSNT	NSNT
+54, 6	124, 1-7	TRE	a sut oedden ni fod i bihafio	NSNT	NSNT
+54, 7	126, 1-3	TRE	wedyn wnaeth o	NSNT	NSNT
+54, 8	127, 1-4	TRE	be arall wnaeth o	NSNT	NSNT
+54, 9	128, 1-11	TRE	wnaeth o dod â saith o ni allan rwng bob peth	NSNT	NSNT
+54, 10	129, 1-7	TRE	a roid un hogan i_fewn iddo fo	NSNT	NSNT
+54, 11	130, 1-5	TRE	a deud wrthi gofyn iddi	NSNT	NSNT
+54, 12	130, 6-10	TRE	be oedd ei *er* ffrwyth	NST	NST
+54, 13	130, 11-15	TRE	oedd hi yn licio orau	NSNT	NSNT
+54, 14	131, 1-8	TRE	hithau yn deud bod hi yn licio *orange*	NST	NST
+54, 15	133, 1-7	TRE	a dyma hi yn mae o yn	NSNT	NSNT
+54, 16	133, 8-10	TRE	roid *lemon* iddi	NST	NST
+54, 17	134, 1-6	TRE	a deud mai *orange* oedd hi	NST	NST
+54, 18	135, 1-12	TRE	a mae yn dechrau slatsio y y *lemon* a meddwl mai *orange*	NST	NST
+54, 19	135, 13-14	TRE	oedd o	NSNT	NSNT
+54, 20	138, 1-1	TRE	gwir	---	NSNT
+
+
+55, 1	139, 1-2	OLW	*oh* iesgob	---	NST
+
+
+56, 1	140, 1-5	TRE	a wedyn peth ydy ti	NSNT	NSNT
+56, 2	140, 6-7	TRE	mae nhw	NSNT	NSNT
+56, 3	140, 8-10	TRE	dw ddim gwybod	NSNT	NSNT
+56, 4	141, 1-6	TRE	ia ti ddim wedi bod o_danodd	NSNT	NSNT
+56, 5	141, 7-7	TRE	naddo	NSNT	NSNT
+56, 6	142, 1-10	TRE	ond y peth ydy pan ti o_dan y peth yma	NSNT	NSNT
+56, 7	144, 1-1	TRE	ni	NSNT	NSNT
+56, 8	145, 1-3	TRE	wyt ti yna	NSNT	NSNT
+56, 9	146, 1-5	TRE	a dwyt ti ddim yna	NSNT	NSNT
+56, 10	147, 1-2	TRE	hynny ydy	---	NSNT
+
+
+57, 1	148, 1-3	OLW	subconscious ti ddim	NSNT	SNT
+57, 2	149, 1-6	OLW	mae hanner ohono chdi yn meddwl	NSNT	NSNT
+57, 3	149, 7-10	OLW	bod chdi y *person*	NST	NST
+57, 4	149, 11-15	OLW	mae *er* nhw yn ddeud	NST	NST
+57, 5	150, 1-7	OLW	ond ti yn gwybod subconsciously hefyd bod	NSNT	SNT
+57, 6	150, 8-14	OLW	dydy o ddim *quite* yn iawn *yeah*	NST	NST
+57, 7	152, 1-6	OLW	ddim yn teimlo yn iawn rywsut	NSNT	NSNT
+57, 8	154, 1-10	OLW	oedd gynno chdi ddim control ar dy *senses* chdi *yeah*	---	ST
+
+
+58, 1	155, 1-5	TRE	*oh* mae o yn beth	---	NST
+
+
+59, 1	156, 1-6	OLW	ond wyt ti yn ymwybodol hefyd	NSNT	NSNT
+59, 2	156, 7-7	OLW	bod	NSNT	NSNT
+59, 3	156, 8-14	OLW	bod rywbeth ddim *quite* yn iawn hefyd	---	NST
+
+
+60, 1	157, 1-7	TRE	*yeah* a bod chdi ddim yn gwybod	NST	NST
+60, 2	157, 8-8	TRE	bod	NSNT	NSNT
+60, 3	157, 9-14	TRE	bod chdi byw a pethau felly	NSNT	NSNT
+60, 4	157, 15-15	TRE	te	NSNT	NSNT
+60, 5	159, 1-7	TRE	ond mae o stad hynod o rhyfedd	NSNT	NSNT
+60, 6	161, 1-6	TRE	bod chdi rhwng dau fyd felly	NSNT	NSNT
+60, 7	161, 7-7	TRE	te	---	NSNT
+
+
+61, 1	162, 1-7	OLW	basa chi yn mynd am hynna eto	---	NSNT
+
+
+62, 1	163, 1-3	TRE	*ah* hwyl te	NST	NST
+62, 2	164, 1-18	TRE	a os basa gen i ryw fath o *broblem* basa rhaid i mi ddod allan ohono fo ella	NST	NST
+62, 3	165, 1-5	TRE	dw i ddim yn gwybod	---	NSNT
+
+
+63, 1	167, 1-6	OLW	*oh* mae *lot* wedi mynd hefyd	NST	NST
+63, 2	168, 1-5	OLW	*um* efo stopio ysmygu do	---	NST
+
+
+64, 1	169, 1-7	TRE	*well* dydy o ddim *problem* i hynna	---	NST
+
+
+65, 1	170, 1-13	OLW	a dydyn a dydyn a dydyn nhw ddim wedi gallu *er* stopio wedyn	---	NST
+
+
+66, 1	171, 1-8	TRE	ia does gennyn nhw ddim willpower wneud pethau	NSNT	SNT
+66, 2	172, 1-10	TRE	raid i chdi gael willpower i wneud o hefyd de	---	SNT
+
+
+67, 1	173, 1-7	OLW	*yeah* ond dw i yn meddwl mai	NST	NST
+67, 2	174, 1-3	OLW	fedrith o ddim	NSNT	NSNT
+67, 3	174, 4-10	OLW	*just* bod all in the mind na	NST	ST
+67, 4	175, 1-6	OLW	os wyt ti yn gael cravings	SNT	SNT
+67, 5	176, 1-2	OLW	mae hynna	NSNT	NSNT
+67, 6	176, 3-3	OLW	dydy	NSNT	NSNT
+67, 7	177, 1-7	OLW	ti ddim yn meddwl bod o yna	NSNT	NSNT
+67, 9	179, 1-4	OLW	mae o actually yna	NSNT	SNT
+67, 10	179, 5-5	OLW	dydy	---	NSNT
+
+
+68, 1	180, 1-18	TRE	ond mae yna ryw ryw fechanism yn yn dy gorff di yn wneud i chdi gael craving toes	---	SNT
+
+
+69, 1	182, 1-15	OLW	a mae rai pobl yn gallu mynd mynd mwy addicted na pobl eraill hefyd *so*	---	ST
+
+
+70, 1	183, 1-4	TRE	ia ond peth ydy	NSNT	NSNT
+70, 2	183, 5-16	TRE	os medri di roi dy feddwl i wneud rywbeth da neu drwg	NSNT	NSNT
+70, 3	184, 1-3	TRE	dw i meddwl	NSNT	NSNT
+70, 4	184, 4-7	TRE	medri di wneud o	NSNT	NSNT
+70, 5	186, 1-4	TRE	be bynnag ydy o	---	NSNT
+
+
+71, 1	187, 1-2	OLW	mae *sure*	NST	NST
+71, 2	187, 3-5	OLW	de ond *um*	NST	NST
+71, 3	188, 1-8	OLW	mae *mam* fi yn trio stopio smocio rŵan	NST	NST
+71, 4	190, 1-5	OLW	*um* mae yn anodd iawn	NST	NST
+71, 5	191, 1-7	OLW	a mae hi wedi cut_io lawr o	NSNT	SNT
+71, 6	191, 8-10	OLW	be oedd hi	NSNT	NSNT
+71, 8	194, 1-10	OLW	ond y mood swings sydd yn dod efo trio stopio	NSNT	SNT
+71, 9	195, 1-9	OLW	basa well gynno fi y *person* dal smocio de	---	NST
+
+
+72, 1	196, 1-10	TRE	ia ond wedi deud hynny mae yn lladd ei hun	NSNT	NSNT
+72, 2	197, 1-5	TRE	a mae yn lladd chdi	NSNT	NSNT
+72, 3	197, 6-7	TRE	yndy felly	NSNT	NSNT
+72, 4	199, 1-3	TRE	drwy wneud hynny	---	NSNT
+
+
+73, 1	202, 1-15	OLW	ond ond i rywun sy erioed wedi ysmygu o_blaen fath â fi a chdi hefyd	NSNT	NSNT
+73, 2	202, 16-22	OLW	mae yn hawdd i ni farnu hynna	NSNT	NSNT
+73, 3	202, 23-23	OLW	dydy	NSNT	NSNT
+73, 4	204, 1-2	OLW	mae *sure*	NST	NST
+73, 5	204, 3-10	OLW	ydan ni ddim yn gwybod faint mor anodd	NSNT	NSNT
+73, 6	204, 11-16	OLW	ydy o i rywun trio stopio	---	NSNT
+
+
+74, 1	205, 1-5	TRE	o bosib ond peth ydy	NSNT	NSNT
+74, 2	205, 6-6	TRE	te	NSNT	NSNT
+74, 3	206, 1-12	TRE	*um* os medri di apply_o dy hun i rywbeth chdi be bynnag	NST	ST
+74, 4	206, 13-15	TRE	ydy o mi	NSNT	NSNT
+74, 5	206, 16-21	TRE	fedri di wneud o yn diwedd	NSNT	NSNT
+74, 6	207, 1-5	TRE	does yna ddim *fashion* beth	NST	NST
+74, 7	207, 6-6	TRE	â	SNT	NSNT
+74, 8	208, 1-4	TRE	I cannot do something	SNT	NSNT
+74, 9	209, 1-5	TRE	dw i ddim yn meddwl	SNT	NSNT
+74, 10	210, 1-5	TRE	if you *can* do it	---	NST
+
+
+75, 1	212, 1-6	OLW	*positive* attitude *positive* thinking ydy o	NST	ST
+75, 2	213, 1-10	OLW	ond dw i meddwl na isio *support* gan bobl hefyd	---	NST
+
+
+76, 1	215, 1-5	TRE	*oh* mae hynny yn fantais	---	NST
+
+
+77, 1	216, 1-4	OLW	mae hynna yn helpu	NSNT	NSNT
+77, 2	216, 5-5	OLW	dydy	---	NSNT
+
+
+78, 1	217, 1-10	TRE	*well* does yna ddim ryw *group* lleol i helpu felly	---	NST
+
+
+79, 1	220, 1-3	OLW	na well gen	NSNT	NSNT
+79, 2	221, 1-9	OLW	dw i meddwl basa well gynno hi wneud o	NSNT	NSNT
+79, 3	221, 10-11	OLW	ei hun	NSNT	NSNT
+79, 4	222, 1-5	OLW	a cael *patches* yma de	NST	NST
+79, 6	224, 1-9	OLW	*Nicorette* *patches* a neu yr chewing *gums* yma de	---	ST
+
+
+80, 1	225, 3-3	TRE	mae	NSNT	NSNT
+80, 2	225, 4-5	TRE	geith hi	NSNT	NSNT
+80, 3	225, 6-7	TRE	mae yna	---	NSNT
+
+
+81, 1	226, 1-5	OLW	mae hynna wedi helpu rywfaint	NSNT	NSNT
+81, 2	226, 6-6	OLW	dydy	---	NSNT
+
+
+82, 1	227, 1-3	TRE	wn i ddim	NSNT	NSNT
+82, 2	228, 1-17	TRE	ond wedi deud hynny mae yna bethau fel *er* helplines ar y *phone* a peth felly toes	---	ST
+
+
+83, 1	229, 1-3	OLW	oes ond *um*	NST	NST
+83, 2	229, 4-5	OLW	dydy pawb	NSNT	NSNT
+83, 3	230, 1-3	OLW	mae nhw *shy*	NST	NST
+83, 4	231, 1-5	OLW	dydy pawb ddim isio ring_io	SNT	SNT
+83, 5	232, 1-9	OLW	dydyn nhw ddim yn gweld o fel addiction mawr	NSNT	SNT
+83, 6	234, 1-4	OLW	nag ydy rai pobl	---	NSNT
+
+
+84, 1	235, 1-12	TRE	*yeah* *yeah* ond *er* gynta byd mae nhw yn weld o am	NST	NST
+84, 2	235, 13-15	TRE	be ydy o	NSNT	NSNT
+84, 3	236, 1-4	TRE	mae nhw hanner ffordd	---	NSNT
+
+
+85, 1	237, 1-12	OLW	*mmm* ond ti ddim yn meddwl bod o yn *idea* da wan	NST	NST
+85, 2	238, 1-6	OLW	mae yr government yn *um* stopio	NST	ST
+85, 3	239, 1-13	OLW	mae nhw mynd i trio gael *cafes* a yr *pubs* yma a *stop*	NST	NST
+85, 4	240, 1-3	OLW	dim smocio dydy	SNT	NSNT
+85, 5	241, 1-1	OLW	ban_io	---	NSNT
+
+
+86, 1	242, 1-3	TRE	yn Lloegr *yeah*	---	NST
+
+
+87, 1	243, 1-2	OLW	mae nhw	NSNT	NSNT
+87, 2	243, 3-13	OLW	na mae nhw mynd i trio wneud o fan yma hefyd	---	NSNT
+
+
+88, 1	244, 1-6	TRE	*oh* ia rywbeth arall ydy hynna	NST	NST
+88, 2	245, 1-4	TRE	mae nhw deud Lloegr	---	NSNT
+
+
+89, 1	246, 1-3	OLW	yn diwedd de	---	NSNT
+
+
+90, 1	247, 1-5	TRE	Lloegr sy wedi pasio deddf	---	NSNT
+
+
+91, 1	248, 1-4	OLW	ar y funud de	NSNT	NSNT
+91, 2	250, 1-9	OLW	ond mae nhw mynd i drio fo fan yma	---	NSNT
+
+
+92, 1	251, 1-5	TRE	*oh* dw i yn gwybod	---	NST
+
+
+93, 1	252, 1-4	OLW	mae hynna beth da	NSNT	NSNT
+93, 2	252, 5-5	OLW	dydy	---	NSNT
+
+
+94, 1	253, 1-7	TRE	os ydy y Cynulliad yn ei basio	---	NSNT
+
+
+95, 1	254, 1-2	OLW	ia *well*	NST	NST
+95, 2	255, 1-10	OLW	dw i meddwl fod o yn *idea* da fy hun	NST	NST
+95, 4	257, 1-11	OLW	a pawb gwneud be bynnag mae nhw isio adre neu rywbeth	NSNT	NSNT
+95, 6	259, 1-6	OLW	os mae nhw isio smocio adre	NSNT	NSNT
+95, 7	259, 7-8	OLW	geith nhw	NSNT	NSNT
+95, 8	260, 1-12	OLW	ond dydy o ddim yn *nice* i bobl sydd ddim yn smocio	NST	NST
+95, 9	260, 13-14	OLW	nag ydy	---	NSNT
+
+
+96, 1	261, 1-5	TRE	gwneud o weithio ydy peth	NSNT	NSNT
+96, 2	262, 1-5	TRE	mae wedi gweithio yn Iwerddon	---	NSNT
+
+
+97, 1	263, 1-1	OLW	dw	NSNT	NSNT
+97, 2	263, 2-6	OLW	dw i ddim yn gwybod	NSNT	NSNT
+97, 3	264, 1-5	OLW	*oh* dw i ddim wedi	NST	NST
+97, 4	264, 6-13	OLW	dw i ddim wedi clywed am hynna felly	---	NSNT
+
+
+98, 1	265, 1-5	TRE	fan yna wnaeth o ddechrau	NSNT	NSNT
+98, 2	266, 1-4	TRE	lle bod chdi ddim	NSNT	NSNT
+98, 3	266, 5-15	TRE	bod chdi ddim cael smocio mewn *pub* yn Iwerddon o gwbl	NST	NST
+98, 4	267, 1-5	TRE	dw i meddwl neu llynedd	NSNT	NSNT
+98, 5	269, 1-7	TRE	a wedyn wnaeth o ddod i *Scotland*	NST	NST
+98, 6	270, 1-8	TRE	ac o *Scotland* mae wedi dod i Lloegr	NST	NST
+98, 7	271, 1-4	TRE	a wedyn o Lloegr	NSNT	NSNT
+98, 8	272, 1-9	TRE	a wedyn diwedd y gân ydy wneud Cymru gobeithio	---	NSNT
+
+
+99, 1	274, 1-4	OLW	basa hynna yn dda	---	NSNT
+
+
+100, 1	276, 1-4	TRE	ond peth ydy wedyn	---	NSNT
+
+
+101, 1	277, 1-4	OLW	smoke *free* Britain de	---	ST
+
+
+102, 1	279, 1-3	TRE	lle wedyn de	NSNT	NSNT
+102, 2	280, 1-5	TRE	*oh* lle wneith o orffen	NST	NST
+102, 3	280, 6-7	TRE	ydy peth	NSNT	NSNT
+102, 4	281, 1-5	TRE	mae yna ddadl i hynny	NSNT	NSNT
+102, 5	281, 6-6	TRE	toes	NSNT	NSNT
+102, 6	282, 1-13	TRE	timod os ti yn stopio pobl smocio ti yn stopio nhw yfed wedyn	NSNT	NSNT
+102, 7	283, 1-5	TRE	a mae hwnnw yn addiction	SNT	SNT
+102, 8	284, 1-5	TRE	mae hwnnw yn ddrug hefyd	NSNT	SNT
+102, 9	284, 6-6	TRE	dydy	---	NSNT
+
+
+103, 1	285, 1-17	OLW	*yeah* ond mae *nicotine* a smocio yn gallu lladd roi lung *cancer* a gwahanol pethau fel yna	NST	ST
+103, 2	287, 1-2	OLW	mae *alcohol*	NST	NST
+103, 3	288, 1-12	OLW	y *person* sy yn yfed o sydd yn wneud gael y niwed	NST	NST
+103, 4	289, 1-17	OLW	*um* efo rywun sydd yn smocio y *person* sy ddim yn smocio sydd gael y niwed hefyd	ST	NST
+103, 5	290, 1-4	OLW	because mae passive smoking	SNT	SNT
+103, 6	291, 1-7	OLW	efo *alcohol* fedri di ddim gael hynna	---	NST
+
+
+104, 1	292, 1-7	TRE	mae nhw wedi cael passive smoking *mmm*	---	ST
+
+
+105, 1	294, 1-11	OLW	ia ond fedri di ddim cael yr un fath o niwed	NSNT	NSNT
+105, 2	295, 1-7	OLW	lle mae yn lladd chdi wrth wrth	NSNT	NSNT
+105, 3	295, 8-10	OLW	*just* eistedd yna	ST	NST
+105, 4	296, 1-17	OLW	because dydy o ddim fath â eistedd yna a rywun arall yn ysmygu a mwg a fumes	SNT	SNT
+105, 5	298, 1-4	OLW	yn mynd i chdi	NSNT	NSNT
+105, 6	299, 1-9	OLW	*so* i fi mae yr smocio yn mwy peryg	NST	NST
+105, 7	300, 1-4	OLW	a dw i meddwl	NSNT	NSNT
+105, 8	300, 5-14	OLW	bod o yn *idea* da ban_io hynna na *business* *alcohol*	---	ST
+
+
+106, 1	302, 1-17	TRE	ia ond wedi deud hynny be am y ffaith mai os wyt ti yn yfed fath â	---	NSNT
+
+
+107, 1	303, 1-9	OLW	yndach ond ar diwedd y diwrnod yn *real* *realistic*	NST	NST
+107, 2	303, 10-16	OLW	mae yna gymaint o *business* mewn diod	---	NST
+
+
+108, 1	304, 1-4	TRE	fath â ysmygu hefyd	---	NSNT
+
+
+109, 1	305, 1-1	OLW	bod	NSNT	NSNT
+109, 2	305, 2-2	OLW	bod	NSNT	NSNT
+109, 3	306, 1-7	OLW	*well* mae bob achos achlysur i yfed	NST	NST
+109, 4	307, 1-8	OLW	os wyt ti yn cael cinio dydd Sul	NSNT	NSNT
+109, 5	307, 9-17	OLW	mae rywun yn licio cael gwin coch efo *beef*	NST	NST
+109, 6	308, 1-8	OLW	neu os ydy o yn birthday rywun neu	NSNT	SNT
+109, 7	308, 9-16	OLW	os ydy o yn mynd ar_ôl gwaith cyfarfod	NSNT	NSNT
+109, 8	308, 17-20	OLW	mae pawb gorfod yfed	---	NSNT
+
+
+110, 1	309, 1-6	TRE	na dydyn nhw ddim yn gorfod	NSNT	NSNT
+110, 3	311, 1-5	TRE	does neb yn gorfod yfed	---	NSNT
+
+
+111, 1	312, 1-15	OLW	na ond ond rhaid chdi gael dŵr neu rhyw fath o ddiod yno chdi anyway	---	SNT
+
+
+112, 1	313, 1-6	TRE	*alcohol* dan ni sôn amdano fo	NST	NST
+112, 2	315, 1-2	TRE	nid dŵr	---	NSNT
+
+
+113, 1	316, 1-5	OLW	ond mae socialise_io yn yn	NSNT	SNT
+113, 2	317, 1-6	OLW	fedri di ddim nadu hynna ddigwydd	NSNT	NSNT
+113, 3	318, 1-10	OLW	mae *lot* o bobl licio cwrw yn *pubs* i socialise_io	---	ST
+
+
+114, 1	319, 1-3	TRE	wrth_gwrs bod nhw	---	NSNT
+
+
+115, 1	320, 1-11	OLW	a ti ddim yn mynd i gael ban ar *alcohol* nad	---	ST
+
+
+116, 1	321, 1-6	TRE	dw i ddim yn deud hynny	---	NSNT
+
+
+117, 1	322, 1-11	OLW	a mae yn fwy o mwy o *sense* i ban_io ysmygu	ST	ST
+117, 2	323, 1-8	OLW	because mae o passive smoking yn lladd bobl	NSNT	SNT
+117, 3	324, 1-3	OLW	a roid afiechydon	---	NSNT
+
+
+118, 1	325, 2-5	TRE	yndy ond y ffaith	NSNT	NSNT
+118, 2	325, 7-11	TRE	bod *alcohol* yn lladd hefyd	---	NST
+
+
+118, 3	326, 1-2	TRE	a mae	NSNT	NSNT
+119, 2	328, 1-9	OLW	ia ond dydy o ddim yn inflicted i rywun	NSNT	SNT
+119, 3	329, 1-9	OLW	lle fedri di gael ugain o *berson* mewn *room*	NST	NST
+119, 4	330, 1-6	OLW	a mae un *person* yn smocio	NST	NST
+119, 5	331, 1-11	OLW	a mae yr mwg yna mynd i lungs ugain o bobl	NSNT	SNT
+119, 6	332, 1-7	OLW	*so* mae yr smocio dal yn waeth	NST	NST
+119, 7	332, 8-11	OLW	dw i yn meddwl	---	NSNT
+
+
+120, 1	333, 1-5	TRE	falle bod o yn waeth	NSNT	NSNT
+120, 2	334, 1-7	TRE	dw i ddim yn gwybod am hynny	NSNT	NSNT
+120, 3	334, 8-11	TRE	sti o ran statistics	SNT	SNT
+120, 4	335, 1-4	TRE	ond y ffaith ydy	NSNT	NSNT
+120, 5	335, 5-20	TRE	os wyt ti yn yfed ac yn dreifio ac yn achosi damwain ti yn cael pobl	---	NSNT
+
+
+121, 1	336, 1-10	OLW	ia ond mae yn illegal i yfed a dreifio anyway	SNT	SNT
+121, 2	336, 11-11	OLW	dydy	---	NSNT
+
+
+122, 1	337, 1-1	TRE	*so*	---	NST
+
+
+123, 1	338, 1-9	OLW	*so* dydy *lot* o bobl ddim yn wneud hynna	NST	NST
+123, 2	339, 1-6	OLW	neu basan nhw gyd yn *jail*	NST	NST
+123, 3	339, 7-7	OLW	basan	---	NSNT
+
+
+124, 1	340, 1-1	TRE	gwir	NSNT	NSNT
+124, 2	341, 1-4	TRE	ond y ffaith ydy	NSNT	NSNT
+124, 3	341, 5-9	TRE	mae pobl yn gwneud o	---	NSNT
+
+
+125, 1	342, 1-10	OLW	nes i ddim deud bod nhw ddim yn wneud o	---	NSNT
+
+
+126, 1	343, 1-2	TRE	dyna fo	---	NSNT
+
+
+127, 1	344, 1-4	OLW	ond dydy yr dadl	NSNT	NSNT
+127, 2	344, 5-11	OLW	dan ni yn gael a yr debate	SNT	SNT
+127, 3	344, 12-13	OLW	ydy be	NSNT	NSNT
+127, 4	344, 14-18	OLW	be sy yn mwya effeithiol	NSNT	NSNT
+127, 5	345, 1-4	OLW	a dw i meddwl	NSNT	NSNT
+127, 6	345, 5-12	OLW	bod y *business* ysmygu yma yn *idea* dda	NST	NST
+127, 7	346, 1-4	OLW	fwy na ban_io *alcohol*	---	ST
+
+
+128, 1	347, 1-7	TRE	*oh* dw i ddim yn deud hynny	NST	NST
+128, 2	348, 1-3	TRE	ond ffaith ydy	NSNT	NSNT
+128, 3	348, 4-10	TRE	mae yr ddau yn achosi niwed wedyn	---	NSNT
+
+
+129, 1	349, 1-9	OLW	*oh* nes i ddim deud bod y ddau ddim	NST	NST
+129, 2	350, 1-5	OLW	nes i *just* deud bod	NST	NST
+129, 4	352, 1-9	OLW	mae yna fwy o niwed ei gael efo smocio	NSNT	NSNT
+129, 5	353, 1-16	OLW	mae fwy o bobl ei weld yn gael y niwed wrth even peidio smocio ei hun	NSNT	SNT
+129, 6	354, 1-9	OLW	dim_ond wrth bod yn wrth ochr *person* sydd yn	NST	NST
+129, 7	356, 1-6	OLW	efo *alcohol* y *person* ei hun	NST	NST
+129, 8	356, 7-9	OLW	sy yn yfed	NSNT	NSNT
+129, 9	356, 10-14	OLW	sy yn creu y niwed	NSNT	NSNT
+129, 10	356, 15-20	OLW	a sy yn gael y niwed	NSNT	NSNT
+129, 12	358, 1-8	OLW	a a ella un *person* petasa fo yn	NST	NST
+129, 13	359, 1-3	OLW	*o_k* deuda rwan	NST	NST
+129, 14	360, 1-3	OLW	ti gael rywun	NSNT	NSNT
+129, 15	361, 1-5	OLW	a mae o yn meddwi	NSNT	NSNT
+129, 16	362, 1-6	OLW	mae o yn mynd i *car*	NST	NST
+129, 17	363, 1-6	OLW	a mae yn taro rywun lawr	NSNT	NSNT
+129, 18	364, 1-9	OLW	*o_k* ti yn taro un neu ddau *berson* lawr	NST	NST
+129, 19	365, 1-6	OLW	os wyt ti yn gael *pub*	NST	NST
+129, 20	365, 7-15	OLW	lle mae yna deuda ugain o bobl yn smocio	NSNT	NSNT
+129, 21	365, 16-25	OLW	a mae yna gant o bobl yn y *pub* *well*	NST	NST
+129, 22	365, 26-39	OLW	mae yr wyth_deg sydd ddim yn smocio wedi gael hynna yn ei lungs nhw	NSNT	SNT
+129, 23	366, 1-14	OLW	a mae nhw yn mynd i gael ella *cancer* neu *problem* yn y dyfodol	---	NST
+
+
+130, 1	367, 1-6	TRE	*oh* dydan ni ddim yn gwybod	NST	NST
+130, 2	367, 7-8	TRE	nag dan	---	NSNT
+
+
+131, 1	368, 1-1	OLW	*so*	ST	NST
+131, 2	369, 1-9	OLW	*oh* mae hynna yn ffaith bod yna passive smoking	---	ST
+
+
+132, 1	370, 1-5	TRE	dw i yn gwybod ond	---	NSNT
+
+
+133, 1	371, 1-10	OLW	pam pam ti meddwl mae mamau ddim yn gael smocio	NSNT	NSNT
+133, 2	371, 11-15	OLW	pan mae nhw yn disgwyl	---	NSNT
+
+
+134, 1	372, 1-7	TRE	dydyn nhw ddim i bod i wneud	---	NSNT
+
+
+135, 1	373, 1-2	OLW	because mae	NSNT	SNT
+135, 2	373, 3-10	OLW	mae smocio yn gallu effeithio yr babi hefyd	---	NSNT
+
+
+136, 1	374, 1-7	TRE	dydyn nhw ddim i bod i wneud	---	NSNT
+
+
+137, 1	375, 1-5	OLW	ond mae nhw yn wneud	NSNT	NSNT
+137, 2	376, 1-12	OLW	fath â dydyn nhw ddim i fod i yfed a dreifio chwaith	---	NSNT
+
+
+138, 1	378, 1-2	TRE	*well* hollol	NST	NST
+138, 2	379, 1-1	TRE	dyna	NSNT	NSNT
+138, 3	379, 2-5	TRE	be ydy yr pwynt	---	NSNT
+
+
+139, 1	381, 1-17	OLW	ond y *point* anhygoel oeddan ni yn gael yn fan yma ydy *business* smocio yma mwy effeithiol	NST	NST
+139, 3	383, 1-14	OLW	os basa chdi cael choice rhwng y ddau dw i meddwl na yr un	NSNT	SNT
+139, 4	383, 15-26	OLW	sy yn smocio sydd mwy pwysig at iechyd rywun na yr *alcohol*	---	NST
+
+
+140, 1	385, 1-5	TRE	dw ddim yn gwybod achos	NSNT	NSNT
+140, 2	385, 6-14	TRE	oedd o ddewis rhwng y ddau yn achosi niwed	NSNT	NSNT
+140, 3	386, 1-1	TRE	dyna	NSNT	NSNT
+140, 4	386, 2-5	TRE	be sy yn bwysig	---	NSNT
+
+
+141, 1	387, 1-6	OLW	ia ond petasa chdi yn dewis	NSNT	NSNT
+141, 2	388, 1-1	OLW	dyna	NSNT	NSNT
+141, 3	388, 2-8	OLW	be ydan ni yn dadlau fan yma	---	NSNT
+
+
+142, 1	390, 1-6	TRE	ia ond does yna ddim dewis	---	NSNT
+
+
+143, 1	392, 1-4	OLW	ti newydd ddeud rwan	NSNT	NSNT
+143, 2	393, 1-8	OLW	*oh* be ddylsan nhw *stop* stopio *um* *alcohol*	---	NST
+
+
+144, 1	394, 1-7	TRE	na nes i ddim deud dylsan nhw	---	NSNT
+
+
+145, 1	395, 1-5	OLW	*oh* be wnest ti ddeud	NST	NST
+145, 2	395, 6-6	OLW	ta	---	NSNT
+
+
+146, 1	396, 1-10	TRE	dydy o ddim yn *er* practical i i fan_io fo	NST	ST
+146, 2	397, 1-3	TRE	deud dw i	NSNT	NSNT
+146, 3	397, 4-4	TRE	sy	NSNT	NSNT
+146, 4	398, 1-13	TRE	os ydyn nhw stopio smocio pam na ddylian nhw ddim stopio *alcohol* hefyd	NST	NST
+146, 5	399, 1-3	TRE	mae yna wahaniaeth	---	NSNT
+
+
+147, 1	400, 1-4	OLW	pam na ddylen nhw	NSNT	NSNT
+147, 2	401, 1-11	OLW	ia ond dydy o ddim yn *realistic* iddyn nhw wneud hynna	NST	NST
+147, 3	401, 12-17	OLW	nag ydy yn yr oes yma	---	NSNT
+
+
+148, 1	402, 1-4	TRE	*mmm* dw i wybod	---	NST
+
+
+149, 1	403, 1-1	OLW	*so*	---	NST
+
+
+150, 1	404, 1-3	TRE	ond ffaith ydy	NSNT	NSNT
+150, 2	404, 4-7	TRE	mae o ddal yn	---	NSNT
+
+
+151, 1	405, 1-5	OLW	*yeah* ond fedri di ddeud	NST	NST
+151, 2	405, 6-12	OLW	fedri di ddeud hynna am *coffee* felly	NST	NST
+151, 3	406, 1-7	OLW	os ti isio mynd i debate arall	NSNT	SNT
+151, 4	408, 1-2	OLW	efo *caffeine*	NST	NST
+151, 5	409, 1-3	OLW	mae yn drug	SNT	SNT
+151, 6	411, 1-2	OLW	mae *coffee*	---	NST
+
+
+152, 1	412, 1-3	TRE	dw i gwybod	---	NSNT
+
+
+153, 1	413, 1-11	OLW	wedi cael ei profi felly bod o yn ddrwg i chdi	NSNT	NSNT
+153, 2	415, 1-2	OLW	y tu_fewn	NSNT	NSNT
+153, 3	416, 1-11	OLW	a chdi dy hun sy yn wedi fod yn yfed *coffee*	---	NST
+
+
+154, 1	417, 1-4	TRE	dw i yn gwybod	---	NSNT
+
+
+155, 1	418, 1-12	OLW	yr un fath â chdi dy hun yn sôn am yfed *alcohol*	NST	NST
+155, 2	420, 1-7	OLW	ond fedri di ddim gael *er* dim_byd	---	NST
+
+
+156, 1	421, 1-7	TRE	ond mae o yn dderbyniol yfed *coffee*	NST	NST
+156, 2	422, 1-5	TRE	a mae o yn dderbyniol	---	NSNT
+
+
+157, 1	423, 1-2	OLW	yfed *alcohol*	NST	NST
+157, 2	425, 1-9	OLW	ond dydy o ddim yn dderbyniol i rywun arall	NSNT	NSNT
+157, 3	425, 10-19	OLW	sy ddim yn smocio cael mwg *nicotine* rywun sydd yn	NST	NST
+157, 4	427, 1-7	OLW	iawn os ydy yr *person* isio smocio	NST	NST
+157, 5	428, 1-4	OLW	*problem* nhw ydy hynna	NST	NST
+157, 6	429, 1-16	OLW	ond dydy o ddim yn fair i bobl eraill gorfod diodde o achos nhw isio *cigarette*	---	ST
+
+
+158, 1	430, 1-6	TRE	mae hynna iddo fo wrth gwrs	NSNT	NSNT
+158, 2	431, 1-5	TRE	mae yna dadl gen *Forest*	NST	NST
+158, 3	432, 1-7	TRE	mae gen bawb berffaith hawl wneud fel	NSNT	NSNT
+158, 4	432, 8-11	TRE	be mae nhw isio	---	NSNT
+
+
+159, 1	433, 1-5	OLW	*well* deud dw i *um*	NST	NST
+159, 2	434, 1-8	OLW	os ydy o yn effeithio iechyd rywun arall	NSNT	NSNT
+159, 3	434, 9-10	OLW	nag oes	---	NSNT
+
+
+160, 1	435, 1-10	TRE	wedyn *blanket* ban tydy os ti yn deud rywbeth felly	NST	ST
+160, 2	436, 1-2	TRE	ond *um*	---	NST
+
+
+161, 1	437, 1-3	OLW	*oh* dyna pam	NST	NST
+161, 2	438, 1-8	OLW	be ydy pwrpas nhw trio stopio yr smocio	NSNT	NSNT
+161, 3	438, 9-9	OLW	ta	NSNT	NSNT
+161, 4	439, 1-1	OLW	dyna	NSNT	NSNT
+161, 5	439, 2-6	OLW	ydy yr pwrpas y peth	NSNT	NSNT
+161, 6	439, 7-11	OLW	mae nhw yn anelu at	NSNT	NSNT
+161, 8	441, 1-5	OLW	yr health minister a pethau	NSNT	SNT
+161, 9	442, 1-16	OLW	basa nhw ddim yn dod â yr peth i_fyny petasa fo petasa petasa yna ddim *problem*	NST	NST
+161, 10	443, 1-4	OLW	mae raid bod nhw	NSNT	NSNT
+161, 11	443, 5-21	OLW	yn bod yna *lot* o increase yn passive smoking neu rywbeth i nhw ddod â hyn i_fyny	NST	ST
+161, 12	444, 1-15	OLW	dydyn nhw ddim yn dod â fo i_fyny er_mwyn dod â fo fyny nag ydy	---	NSNT
+
+
+162, 1	445, 1-6	TRE	*well* derbyn eu ddadl nhw de	---	NST
+
+
+163, 1	446, 1-1	OLW	mae	NSNT	NSNT
+163, 2	446, 2-2	OLW	mae	NSNT	NSNT
+163, 3	446, 3-4	OLW	mae yna	NSNT	NSNT
+163, 4	447, 1-3	OLW	nag ydy *sure*	NST	NST
+163, 5	448, 1-3	OLW	mae yna bwrpas	NSNT	NSNT
+163, 6	449, 1-3	OLW	mae yna results	---	SNT
+
+
+164, 1	451, 1-4	TRE	dw i yn gwybod	---	NSNT
+
+
+165, 1	452, 1-3	OLW	mae yna ffigurau	---	NSNT
+
+
+166, 1	454, 1-5	TRE	cytuno efo chdi dw i	NSNT	NSNT
+166, 3	456, 1-4	TRE	dyna deud wrtha chdi	NSNT	NSNT
+166, 4	457, 1-1	TRE	dyna	NSNT	NSNT
+166, 5	457, 2-6	TRE	be ydy eu dadl nhw	NSNT	NSNT
+166, 6	458, 1-7	TRE	deud dw i o yr ddadl arall	---	NSNT
+
+
+167, 1	459, 1-9	OLW	*well* o'n i yn dadlau because do'n i ddim	NST	ST
+167, 2	460, 1-9	OLW	weld yn *er* agree_o llawer ar ddim_byd nag dan	NST	ST
+167, 3	461, 1-6	OLW	ond *er* mae nhw yn deud	NST	NST
+167, 4	461, 7-14	OLW	bod *Capricorns* a *Taurus* ddim yn cydweld weithiau	NST	NST
+167, 5	461, 15-15	OLW	dydy	NSNT	NSNT
+167, 6	462, 1-4	OLW	a dw i meddwl	NSNT	NSNT
+167, 7	462, 5-8	OLW	bod hynna yn wir	---	NSNT
+
+
+168, 1	463, 1-2	TRE	*well* *er*	ST	NST
+168, 3	465, 1-3	TRE	pobl ydy pobl	NSNT	NSNT
+168, 4	466, 1-4	TRE	mae nhw yn *er*	NST	NST
+168, 5	466, 5-10	TRE	timod yn cytuno ac yn anghytuno	NSNT	NSNT
+168, 6	466, 11-14	TRE	pan mae nhw isio	NSNT	NSNT
+168, 7	466, 15-18	TRE	de ar wahanol bethau	NSNT	NSNT
+168, 8	468, 1-13	TRE	ond deud dw i fod ddadl arall o achos pobl fath â *Forest*	NST	NST
+168, 9	469, 1-2	TRE	mae *Forest*	NST	NST
+168, 10	470, 1-6	TRE	mi wnân nhw ddeud wrtha chdi	NSNT	NSNT
+168, 11	471, 1-5	TRE	nid yfi sy yn deud	NSNT	NSNT
+168, 12	473, 1-5	TRE	wnân nhw ddeud wrtha chdi	NSNT	NSNT
+168, 13	474, 1-7	TRE	mae gen bawb berffaith hawl i wneud	NSNT	NSNT
+168, 14	474, 8-11	TRE	be mae nhw eisiau	NSNT	NSNT
+168, 15	474, 12-12	TRE	toes	---	NSNT
+
+
+169, 1	475, 1-7	OLW	*well* os fasa hynna yn wir de	---	NST
+
+
+170, 1	476, 1-3	TRE	*well* mae nhw	---	NST
+
+
+171, 1	477, 1-3	OLW	be ydy *point*	NST	NST
+171, 2	478, 1-2	OLW	nag ydy	NSNT	NSNT
+171, 3	478, 3-4	OLW	nag ydy	---	NSNT
+
+
+172, 1	479, 3-5	TRE	mae yn wir	---	NSNT
+
+
+173, 1	480, 1-11	OLW	os oes yna ddim rules a regulations a pawb gael wneud	NSNT	SNT
+173, 2	480, 12-26	OLW	be mae nhw isio basa rywun yn gallu mynd o_gwmpas yn murder_o rywun rape_io rywun	NSNT	SNT
+173, 3	481, 1-1	OLW	mae	NSNT	NSNT
+173, 4	481, 2-4	OLW	mae yna rules	SNT	SNT
+173, 5	482, 1-17	OLW	a ac ar diwedd diwrnod y rheswm mae nhw yn trio dod â yr rule yma i_fewn	NSNT	SNT
+173, 6	482, 19-25	OLW	am bod yn effeithio pobl eraill a	---	NSNT
+
+
+174, 1	484, 1-5	TRE	dw i ddim yn deud	NSNT	NSNT
+174, 2	485, 1-5	TRE	dw i ddim yn deud	NSNT	NSNT
+174, 3	487, 1-7	TRE	deud wrtha chdi be ydy dadl *Forest*	NST	NST
+174, 4	487, 8-9	TRE	ydw i	---	NSNT
+
+
+175, 1	488, 1-4	OLW	ond mae dadl nhw	NSNT	NSNT
+175, 2	489, 1-10	OLW	gennyn nhw ddim coes da i sefyll ar nag oes	---	NSNT
+
+
+176, 1	490, 1-6	TRE	*well* deuda di wrthan nhw ta	NST	NST
+176, 2	491, 1-3	TRE	y ffaith ydy	NSNT	NSNT
+176, 3	491, 4-4	TRE	dyna	---	NSNT
+
+
+177, 1	492, 1-6	OLW	*oh* dim fi ydy yr government	ST	ST
+177, 2	493, 1-5	OLW	dim fi sy gorod deud	---	NSNT
+
+
+178, 1	494, 1-3	TRE	na finnau chwaith	NSNT	NSNT
+178, 2	495, 1-9	TRE	na dw innau ddim yn cymryd eu ochr nhw	---	NSNT
+
+
+179, 1	496, 1-8	OLW	*oh* chdi sy wedi dod â nhw fyny	---	NST
+
+
+180, 1	497, 1-12	TRE	*yeah* *yeah* ond cymryd ei hochr nhw o ran deud ydw i	NST	NST
+180, 2	498, 1-2	TRE	mai dyna	NSNT	NSNT
+180, 3	498, 3-6	TRE	be ydy dadl nhw	NSNT	NSNT
+180, 4	499, 1-5	TRE	mae gen bawb ei hawl	NSNT	NSNT
+180, 5	499, 6-12	TRE	ei hun i fwynhau ei hun ffordd	NSNT	NSNT
+180, 6	499, 13-15	TRE	mae nhw isio	NSNT	NSNT
+180, 7	501, 1-2	TRE	wneud hynny	---	NSNT
+
+
+181, 1	502, 1-2	OLW	oes ond	NSNT	NSNT
+181, 2	502, 3-9	OLW	os ydy o yn effeithio pobl eraill	NSNT	NSNT
+181, 3	502, 10-14	OLW	a roid niwed iddyn nhw	NSNT	NSNT
+181, 4	502, 15-16	OLW	dw i	NSNT	NSNT
+181, 5	502, 17-20	OLW	dw i yn anghytuno	NSNT	NSNT
+181, 6	504, 1-6	OLW	sut basa chdi yn teimlo *o_k*	NST	NST
+181, 7	505, 1-1	OLW	mae	NSNT	NSNT
+181, 8	506, 1-5	OLW	ti o_gwmpas pobl bob dydd	NSNT	NSNT
+181, 9	507, 1-8	OLW	a ti mynd i dy waith ar *train*	NST	NST
+181, 10	508, 1-8	OLW	neu ti mynd am ginio i yr tafarn	---	NSNT
+
+
+182, 1	509, 1-3	TRE	dw i wedi	---	NSNT
+183, 2	512, 1-6	OLW	a wedyn ti mynd wrth *doctor*	NST	NST
+183, 3	513, 1-17	OLW	a ti ffindio allan bod ti efo lung *cancer* neu rywbeth o achos passive smoking rywun arall	NST	ST
+183, 4	514, 1-8	OLW	a a ti erioed wedi smocio dy hun	NSNT	NSNT
+183, 5	516, 1-6	OLW	sut basa chdi yn teimlo wedyn	NSNT	NSNT
+183, 6	517, 1-12	OLW	basa chdi o o blaid i pawb stopio smocio o_gwmpas wedyn basachd	---	NSNT
+
+
+184, 1	518, 1-6	TRE	*well* dw ddim yn y sefyllfa	NST	NST
+184, 2	519, 1-4	TRE	dw ddim yn gwybod	NSNT	NSNT
+184, 3	520, 1-4	TRE	deud dw i mai	NSNT	NSNT
+184, 4	520, 5-5	TRE	dyna	NSNT	NSNT
+184, 5	520, 6-8	TRE	ydy dadl nhw	NSNT	NSNT
+184, 6	520, 9-10	TRE	dw i	---	NSNT
+
+
+185, 1	521, 1-4	OLW	na os fasa chdi	---	NSNT
+
+
+186, 1	522, 1-5	TRE	dw i ddim yn gwybod	---	NSNT
+
+
+187, 1	523, 1-2	OLW	yn y	NSNT	NSNT
+187, 2	524, 1-5	OLW	*oh* dw i yn gofyn	---	NST
+
+
+188, 1	525, 1-5	TRE	dw i ddim yn gwybod	---	NSNT
+
+
+189, 1	526, 1-4	OLW	dw i yn gofyn	---	NSNT
+
+
+190, 1	527, 1-5	TRE	dw i ddim yn gwybod	NSNT	NSNT
+190, 2	528, 1-5	TRE	dw i ddim yn gwybod	---	NSNT
+
+
+191, 1	529, 1-11	OLW	*well* dw i yn *sure* basa dy agwedd di yn newid	---	NST
+
+
+192, 1	530, 1-4	TRE	dw i ddim yn	NSNT	NSNT
+192, 2	531, 1-5	TRE	does gen i ddim agwedd	NSNT	NSNT
+192, 3	533, 1-3	TRE	un neu ddau	NSNT	NSNT
+192, 4	534, 1-5	TRE	un o yr ddau ochr	---	NSNT
+
+
+193, 1	535, 1-2	OLW	oes because	SNT	SNT
+193, 2	535, 3-15	OLW	wyt ti yn dadlau efo fi fod yr yr un *alcohol* mwy mwy	NST	NST
+193, 3	536, 1-14	OLW	fath â bod hwnna yn fwy fwy o reswm na yr *business* ysmygu yma	---	NST
+
+
+194, 1	537, 1-8	TRE	na wnes i ddim deud mwy o reswm	---	NSNT
+
+
+195, 1	538, 1-14	OLW	a ddeudist ti fod gynno pawb y hawl i wneud be mae nhw isio	---	NSNT
+
+
+196, 1	539, 1-1	TRE	no	SNT	NSNT
+196, 3	543, 1-5	TRE	nes i ddim deud hynna	NSNT	NSNT
+196, 4	545, 1-1	TRE	naddo	NSNT	NSNT
+196, 6	547, 1-11	TRE	be ddeudes i oedd safbwynt bobl sydd o blaid bobl mwynhau	NSNT	NSNT
+196, 7	547, 12-16	TRE	be mae nhw isio mwynhau	NSNT	NSNT
+196, 8	547, 17-18	TRE	dw i	NSNT	NSNT
+196, 9	548, 1-5	TRE	a nid honno ydy ym	NSNT	NSNT
+196, 10	548, 6-9	TRE	marn bersonol i naci	---	NSNT
+
+
+197, 1	549, 1-7	OLW	*oh* be ydy dy farn bersonol di	NST	NST
+197, 2	549, 8-8	OLW	ta	---	NSNT
+
+
+198, 1	550, 1-6	TRE	dw i ddim yn licio smocio	NSNT	NSNT
+198, 2	551, 1-5	TRE	dw i ddim yn smocio	SNT	NSNT
+198, 3	552, 1-2	TRE	full *stop*	---	NST
+
+
+199, 1	554, 1-6	OLW	*so* be wyt ti yn meddwl	NST	NST
+199, 2	554, 7-11	OLW	mae yr government yn wneud	NSNT	SNT
+199, 3	555, 1-5	OLW	wyt ti yn agree_o efo	NSNT	SNT
+199, 4	555, 6-11	OLW	be mae nhw yn trio wneud	---	NSNT
+
+
+200, 1	556, 1-6	TRE	*oh* raid i mi edrych ar	NST	NST
+200, 2	556, 7-12	TRE	be mae nhw drio wneud gynta	NSNT	NSNT
+200, 3	557, 1-1	TRE	dim	---	NSNT
+
+
+201, 1	558, 1-12	OLW	*well* ti yn gwybod be mae nhw yn trio wneud fwy na	NST	NST
+201, 2	558, 13-16	OLW	be dw i yn	---	NSNT
+
+
+202, 1	559, 1-2	TRE	nag ydw	---	NSNT
+
+
+203, 1	560, 1-11	OLW	a mae nhw yn trio ban_io llefydd cyhoeddus i bobl smocio	---	SNT
+
+
+204, 1	561, 1-2	TRE	nag ydw	---	NSNT
+
+
+205, 1	562, 1-13	OLW	lle yn diwedd mewn *pubs* mewn *cafes* fyddi di ddim yn cael smocio	---	NST
+
+
+206, 1	563, 1-3	TRE	rhaid i chdi	---	NSNT
+
+
+207, 1	564, 1-1	OLW	dyna	NSNT	NSNT
+207, 2	564, 2-7	OLW	be mae nhw yn trio wneud	NSNT	NSNT
+207, 3	565, 1-6	OLW	siawns bod chdi yn gwybod hynna	---	NSNT
+
+
+208, 1	566, 1-2	TRE	nag ydw	---	NSNT
+
+
+209, 1	567, 1-9	OLW	ond mae nhw wedi deud hynna ar y newyddion	---	NSNT
+
+
+210, 1	568, 1-2	TRE	*well* *yeah*	ST	NST
+210, 2	569, 1-7	TRE	ella bod chdi ddim yn dilyn hynny	---	NSNT
+
+
+211, 1	570, 1-8	OLW	dydach chi ddim yn gwylio yr newyddion chwaith	---	NSNT
+
+
+212, 1	571, 1-3	TRE	ydw ond ffaith	NSNT	NSNT
+212, 2	571, 6-12	TRE	dw i ddim yn coelio hanner bethau	NSNT	NSNT
+212, 3	571, 13-19	TRE	sy ar y newyddion pa un bynnag	NSNT	NSNT
+212, 4	572, 1-5	TRE	be dw i yn ddeud	NSNT	NSNT
+212, 5	572, 7-13	TRE	os oes rywbeth cyfreithiol fel yna mi	NSNT	NSNT
+212, 6	572, 14-17	TRE	ydw i yn licio	NSNT	NSNT
+212, 8	574, 1-20	TRE	efo fy training i fath â cyfreithiwr dw i yn licio edrych i_mewn iddo fo gynta i weld yn hollol	NSNT	SNT
+212, 9	574, 21-25	TRE	be fasan nhw ei ddeud	NSNT	NSNT
+212, 10	575, 1-12	TRE	a wedyn dw i yn cymryd un ochr neu llall o bosib	---	NSNT
+
+
+213, 1	576, 1-7	OLW	ia ond mae pawb efo dau ochr	---	NSNT
+
+
+214, 1	577, 1-6	TRE	mae dwy ochr i bob peth	NSNT	NSNT
+214, 2	577, 7-7	TRE	does	---	NSNT
+
+
+215, 1	578, 1-12	OLW	a pan a pan wyt ti yn gael newyddion siawns gen i	NSNT	NSNT
+215, 2	578, 13-17	OLW	bod y bobl sydd yn	NSNT	NSNT
+215, 3	578, 18-20	OLW	roid y newyddion	NSNT	NSNT
+215, 4	579, 1-4	OLW	mae nhw gorod tsiecio	NSNT	NSNT
+215, 5	579, 5-15	OLW	bod y peth yn cant y cant gynta cyn darlledu fo	---	NSNT
+
+
+216, 1	580, 1-5	TRE	*well* mae o yn meddwl	---	NST
+
+
+217, 1	581, 1-2	OLW	mae nhw	NSNT	NSNT
+217, 2	581, 3-6	OLW	mae nhw gwybod na	NSNT	NSNT
+217, 3	581, 7-7	OLW	dyna	NSNT	NSNT
+217, 4	581, 8-12	OLW	be sy mynd i ddigwydd	NSNT	NSNT
+217, 5	582, 1-4	OLW	neu geith nhw ddim	NSNT	NSNT
+217, 7	584, 1-7	OLW	a wedyn geith nhw eu siwio wedyn	NSNT	NSNT
+217, 8	584, 8-13	OLW	os ydyn nhw yn deud pethau	NSNT	NSNT
+217, 9	584, 14-17	OLW	sy ddim yn wir	---	NSNT
+
+
+218, 1	585, 1-3	TRE	*well* mae gobeithio	NST	NST
+218, 2	585, 4-4	TRE	te	---	NSNT
+
+
+219, 1	586, 1-7	OLW	mae nhw gallu codi *lot* o dwrw	---	NST
+
+
+220, 1	587, 1-4	TRE	mae rywun yn gobeithio	NSNT	NSNT
+220, 2	587, 5-7	TRE	te ond *er*	NST	NST
+220, 3	588, 1-3	TRE	does yna ddim	---	NSNT
+
+
+221, 1	589, 1-12	OLW	*well* os fedri di ddim trystio yr teledu a trystio yr newyddion	NST	NST
+221, 2	589, 13-17	OLW	be fedri di drystio na	---	NSNT
+
+
+222, 1	590, 1-11	TRE	*well* be dw i yn drystio yno fo mwy na dim	---	NST
+
+
+222, 2	590, 12-15	TRE	ydy ffrindiau a teulu	---	NSNT
+
+
+224, 1	592, 1-9	TRE	nes i ddim deud bod nhw yn gwybod mwy	NSNT	NSNT
+224, 2	593, 1-7	TRE	mae rai pobl yn gwybod mwy na	---	NSNT
+
+
+225, 1	594, 1-12	OLW	*yeah* ond ti yn trystio fwy ddeudist ti ar teulu a ffrindiau	---	NST
+
+
+226, 1	595, 1-4	TRE	*mmm* dw i gwybod	---	NST
+
+
+227, 1	596, 1-2	OLW	ond fedrith	NSNT	NSNT
+227, 2	596, 3-9	OLW	fedri di ddim mynd ar *just* hynna	---	NST
+
+
+228, 1	597, 1-2	TRE	na fedra	NSNT	NSNT
+228, 2	598, 1-14	TRE	ond *er* mi gymra i bob peth efo pinsiad o halen i ddechrau de	NST	NST
+228, 3	599, 1-18	TRE	ti ddim isio coelio bob peth yn syth bin ti yn darllen ac yn gweld nac ydw o_gwbl	---	NSNT
+
+
+229, 1	600, 1-12	OLW	dw i yn sôn am newyddion ar y teledu ar y *news*	NST	NST
+229, 3	602, 1-16	OLW	dw i ddim yn sôn amdan *stories* mewn papurau newydd amdan bobl a popstars a pethau	NST	ST
+229, 4	604, 1-7	OLW	dw i yn sôn amdan new newyddion	NSNT	SNT
+229, 5	604, 8-14	OLW	lle mae yna rywbeth pwysig wedi digwydd	NSNT	NSNT
+229, 6	605, 1-8	OLW	neu lle mae yna disaster wedi digwydd mewn	NSNT	SNT
+229, 7	607, 1-4	OLW	siawns gen i mae	NSNT	NSNT
+229, 8	607, 5-8	OLW	mae hynna yn wir	NSNT	NSNT
+229, 9	608, 1-10	OLW	neu basa nhw ddim yn gael darlledu fo na fasan	---	NSNT
+
+
+230, 1	609, 1-7	TRE	*well* ar sail rywbeth yn digwydd *yeah*	NST	NST
+230, 2	610, 1-6	TRE	ond be ydy yr interpretation o	NSNT	SNT
+230, 3	610, 7-10	TRE	be sy wedi digwydd	NSNT	NSNT
+230, 4	611, 1-5	TRE	mae hynna yn hollol wahanol	---	NSNT
+
+
+231, 1	612, 1-12	OLW	*yeah* ond dw i yn sôn yn am rywbeth sydd wedi digwydd	NST	NST
+231, 2	613, 1-8	OLW	dw i ddim yn sôn am yr interpretation	---	SNT
+
+
+232, 1	615, 1-6	TRE	*well* ia ond y ffaith ydy	NST	NST
+232, 2	615, 7-19	TRE	mae raid i chdi gymryd bob peth efo pinsiad o halen i ddechrau	NSNT	NSNT
+232, 3	616, 1-8	TRE	a wedyn gweld sut mae hi yn gweithio	NSNT	NSNT
+232, 4	617, 1-12	TRE	dw i ddim yn gwylio bob peth ar wyneb ar wyneb nag_ydw	NSNT	NSNT
+232, 5	618, 1-7	TRE	mwy na be dw i yn coelio	NSNT	NSNT
+232, 6	618, 8-13	TRE	be sy yn digwydd mewn llysoedd	NSNT	NSNT
+232, 7	618, 14-18	TRE	barn neu reports o llysoedd	NSNT	SNT
+232, 8	618, 19-22	TRE	barn i ddechrau chwaith	NSNT	NSNT
+232, 9	619, 1-5	TRE	mae rheiny yn totally superficial	---	SNT
+
+
+233, 1	620, 1-9	OLW	*yeah* ond dw i ddim yn sôn amdan llysoedd	NST	NST
+233, 2	620, 10-10	OLW	barn	NSNT	NSNT
+233, 3	621, 1-7	OLW	dw i yn sôn amdan y newyddion	NSNT	NSNT
+233, 4	622, 1-18	OLW	lle mae pawb ar y byd ar y *planet* yma sydd efo teledu yn gwylio teledu yn gweld	ST	NST
+233, 5	624, 1-6	OLW	*news* makes the world go *round*	ST	NST
+233, 6	625, 1-10	OLW	rhaid chdi gael newyddion i wybod be sydd yn digwydd	NSNT	NSNT
+233, 7	626, 1-8	OLW	er_mwyn i ni gael rywbeth i sôn amdan	---	NSNT
+
+
+234, 1	627, 1-7	TRE	*oh* dw i yn gwybod hynny ond	---	NST
+
+
+235, 1	628, 1-3	OLW	ond os oes	NSNT	NSNT
+235, 2	628, 4-8	OLW	dach chi ddim yn coelio	NSNT	NSNT
+235, 3	628, 9-21	OLW	be mae nhw yn ddeud a ti yn cymeryd efo pinch of salt	SNT	SNT
+235, 4	628, 22-31	OLW	mae yn anodd i chi gael debate efo rywun felly	SNT	SNT
+235, 5	630, 1-12	OLW	because dydach chi ddim yn saff be ydach chi yn ddeud yn_ôl	NSNT	SNT
+235, 6	631, 1-11	OLW	os ydach chi ddim yn coelio be ydach chi yn glywed	NSNT	NSNT
+235, 7	632, 1-10	OLW	os ydach chi yn cymeryd pob_dim efo pinch of salt	SNT	SNT
+235, 8	633, 1-10	OLW	fedrith be ydach chi yn deud yn_ôl wrtha fi ddim	NSNT	NSNT
+235, 9	633, 11-14	OLW	bod yn gadarn felly	---	NSNT
+
+
+236, 1	635, 1-4	TRE	be sy yn gadarn	SNT	NSNT
+236, 2	636, 1-3	TRE	what is *fact*	NST	NST
+236, 3	637, 1-3	TRE	what is *reality*	---	NST
+
+
+237, 1	638, 1-9	OLW	*oh* iesgob ydach chi mynd yn ry *deep* wan	ST	NST
+237, 2	639, 1-3	OLW	what is *fact*	NST	NST
+237, 3	640, 1-3	OLW	what is *reality*	---	NST
+
+
+238, 1	641, 1-6	TRE	*well* chdi sy yn deud newyddion	NST	NST
+238, 2	641, 7-9	TRE	sy yn *reality*	---	NST
+
+
+239, 1	642, 1-3	OLW	*oh* mae o	NST	NST
+239, 2	642, 4-4	OLW	dydy	NSNT	NSNT
+239, 3	643, 1-1	OLW	dyna	NSNT	NSNT
+239, 4	643, 2-8	OLW	sy wneud pethau y byd fynd o_gwmpas	NSNT	NSNT
+239, 5	644, 1-2	OLW	trwy siarad	NSNT	NSNT
+239, 6	645, 1-3	OLW	trwy gael *information*	---	NST
+
+
+240, 1	646, 1-6	TRE	ia *yeah* ond y ffaith ydy	NST	NST
+240, 2	646, 8-12	TRE	mae yna bob math o	NSNT	NSNT
+240, 3	647, 1-6	TRE	mae yna *spectrum* of *information* toes	NST	ST
+240, 4	648, 1-6	TRE	mae yna wahanol fathau o wybodaeth	NSNT	NSNT
+240, 5	649, 1-6	TRE	does yna ddim one universal truth	SNT	SNT
+240, 6	649, 7-11	TRE	sy yn berthnasol i bawb	---	NSNT
+
+
+241, 1	650, 1-12	OLW	*well* rhan basic knowledge o be sy yn digwydd yn y byd	NST	ST
+241, 2	651, 1-2	OLW	*well* dyna	NST	NST
+241, 3	651, 3-11	OLW	ydy yr unig ffordd o gael y wybodaeth yna	NSNT	NSNT
+241, 4	652, 1-5	OLW	a mae pawb yn cymeryd	NSNT	NSNT
+241, 5	652, 6-10	OLW	bod y wybodaeth yna ar_gael	NSNT	NSNT
+241, 6	653, 1-6	OLW	ac os ydyn nhw yn *wrong*	---	NST
+
+
+242, 1	654, 1-1	TRE	ar_gael	NSNT	NSNT
+242, 2	655, 1-3	TRE	mae o ar_gael	---	NSNT
+
+
+243, 1	656, 1-4	OLW	os ydyn nhw *wrong*	NST	NST
+243, 2	656, 5-18	OLW	neu mae yr papurau newydd neu yr bobl *news* wedi gael o yn *wrong*	NST	NST
+243, 3	656, 19-25	OLW	mae nhw digon buan gorod ail correct_io	SNT	SNT
+243, 4	656, 26-30	OLW	ei hunain ar y teledu	SNT	NSNT
+243, 5	657, 1-6	OLW	because fydd rhywun yn ffindio allan	NSNT	SNT
+243, 6	657, 7-12	OLW	bod nhw wedi deud rywbeth anghywir	NSNT	NSNT
+243, 7	658, 1-6	OLW	a mae pethau yma yn digwydd	SNT	NSNT
+243, 8	659, 1-6	OLW	because human beings ydan ni gyd	---	SNT
+
+
+244, 1	660, 1-5	TRE	*oh* dw i gwybod hynny	NST	NST
+244, 2	661, 1-5	TRE	dw i yn gwybod hynny	NSNT	NSNT
+244, 3	662, 1-12	TRE	ond *er* does yna ddim_byd yn berffaith glir yn berffaith wir bob	NST	NST
+244, 4	662, 13-13	TRE	tro	NSNT	NSNT
+244, 5	663, 1-3	TRE	hynny yn saff	---	NSNT
+
+
+245, 1	664, 1-17	OLW	ond rhan fwya o yr amser os dyna basa yr *case* fasa neb yn gwylio yr newyddion	NST	NST
+245, 2	665, 1-5	OLW	basa neb yn darllen papur	---	NSNT
+
+
+246, 1	666, 1-6	TRE	*well* *yeah* *well* mae gynno chi	NST	NST
+246, 2	666, 7-7	TRE	rhydd	NSNT	NSNT
+246, 3	666, 8-12	TRE	dewis i wneud neu beidio	NSNT	NSNT
+246, 4	667, 1-6	TRE	dw i ddim yn stopio nhw	---	NSNT
+
+
+247, 1	668, 1-5	OLW	dw i ddim yn deud	NSNT	NSNT
+247, 2	668, 6-10	OLW	bod ti yn stopio nhw	NSNT	NSNT
+247, 3	669, 1-4	OLW	ond deud dw i	NSNT	NSNT
+247, 4	670, 1-9	OLW	basa ddim pawb yn meddwl yr un ffordd â	NSNT	NSNT
+247, 5	670, 10-13	OLW	wyt ti yn meddwl	NSNT	NSNT
+247, 6	670, 14-19	OLW	fysa neb yn darllen y papur	NSNT	NSNT
+247, 7	671, 1-8	OLW	fasa neb yn coelio dim_byd ar y *news*	---	NST
+
+
+248, 1	672, 1-2	TRE	*well* *o_k*	ST	NST
+248, 2	673, 1-2	TRE	*so* what	---	NST
+
+
+249, 1	674, 1-2	OLW	iesgob annwyl	---	NSNT
+
+
+250, 1	675, 1-4	TRE	ydy hynny yn *broblem*	---	NST
+
+
+251, 1	676, 1-4	OLW	*well* mae yn afresymol	NST	NST
+251, 2	676, 5-6	OLW	yndy braidd	---	NSNT
+
+
+252, 1	677, 1-1	TRE	pam	---	NSNT
+
+
+253, 1	678, 1-1	OLW	pam	---	NSNT
+
+
+254, 1	680, 1-5	TRE	pam dan ni isio gwybod	NSNT	NSNT
+254, 2	680, 6-12	TRE	be sy yn digwydd yn y byd	---	NSNT
+
+
+255, 1	681, 1-1	OLW	pam	SNT	NSNT
+255, 2	683, 1-13	OLW	because os basach chi ddim yn gwybod be sy yn digwydd yn y	NSNT	SNT
+255, 3	683, 14-20	OLW	be sy yn digwydd yn y byd	NSNT	NSNT
+255, 4	683, 21-36	OLW	de waeth i chi fod yn yn byw yn *Iceland* neu mewn ryw *igloo* yn rywle	NST	NST
+255, 5	683, 37-42	OLW	lle does yna neb arall o_gwmpas	NSNT	NSNT
+255, 6	683, 43-48	OLW	a dach chi ar eich hun	---	NSNT
+
+
+256, 1	685, 1-6	TRE	ond be sy *wrong* efo hynny	---	NST
+
+
+257, 1	686, 1-6	OLW	*oh* dydy hynna ddim yn *normal*	NST	NST
+257, 2	686, 7-8	OLW	nag ydy	---	NSNT
+
+
+258, 1	687, 1-3	TRE	be ydy *normal*	---	NST
+
+
+259, 1	688, 1-4	OLW	*well* dw i yn	NST	NST
+259, 2	689, 1-9	OLW	os os ydach chi yn *person* sy yn licio	NST	NST
+259, 3	689, 10-17	OLW	bod efo ffrindiau a *person* sydd yn licio	NST	NST
+259, 4	689, 18-21	OLW	bod efo eich teulu	NSNT	NSNT
+259, 5	689, 22-25	OLW	mae hynna yn golygu	NSNT	NSNT
+259, 6	689, 26-32	OLW	dach chi yn licio pobl o_gwmpas chi	---	NSNT
+
+
+260, 1	690, 1-3	TRE	a mae hynna	---	NSNT
+
+
+260, 2	690, 4-11	TRE	a mae hynna yn *normal* i rai pobl	---	NST
+
+
+262, 1	692, 1-8	TRE	*well* *yeah* petaswn i ar ben fy hun	NST	NST
+262, 2	693, 1-7	TRE	naturiol baswn i ddim yn siarad efo	---	NSNT
+
+
+263, 1	694, 1-6	OLW	*oh* basach chi efo eich teulu	NST	NST
+263, 2	695, 1-9	OLW	basa chi yn rhedeg o bethau i siarad amdan	SNT	NSNT
+263, 3	696, 1-13	OLW	because basach chi ddim yn gwybod be sy yn digwydd yn y byd	NSNT	SNT
+263, 4	697, 1-6	OLW	be basa chi yn sôn amdan	---	NSNT
+
+
+264, 1	698, 1-1	TRE	pam	NSNT	NSNT
+264, 2	699, 1-1	TRE	pam	NSNT	NSNT
+264, 3	700, 1-6	TRE	dw i ddim yn sôn am	---	NSNT
+
+
+265, 1	701, 1-9	OLW	mae ninety percent o conversation bobl i wneud efo	NSNT	SNT
+265, 2	701, 10-17	OLW	be mae nhw wedi wylio ar y teledu	NSNT	NSNT
+265, 3	702, 1-10	OLW	be mae nhw wedi glywed ar y newyddion neu gossip	SNT	SNT
+265, 4	703, 1-9	OLW	be sy wedi digwydd i *Joe_Bloggs* lawr y lôn	ST	NST
+265, 5	704, 1-7	OLW	that's what makes the world go *round*	ST	NST
+265, 6	705, 1-1	OLW	newyddion	---	NSNT
+
+
+266, 1	707, 1-5	TRE	yn_ôl chdi ninety percent *yeah*	ST	ST
+266, 2	708, 1-5	TRE	ond mae yna ten percent	SNT	SNT
+266, 3	708, 6-7	TRE	sy ddim	NSNT	NSNT
+266, 4	708, 8-8	TRE	does	---	NSNT
+
+
+267, 1	709, 1-2	OLW	a mae	NSNT	NSNT
+267, 2	710, 1-11	OLW	y chi ydy yr *er* un o yr ten percent yna	---	ST
+
+
+268, 1	711, 1-5	TRE	pobl sydd dim yn gwybod	NSNT	NSNT
+268, 2	712, 1-4	TRE	ond y ffaith ydy	NSNT	NSNT
+268, 3	712, 5-11	TRE	does yna ddim rhaid cael gwybod am	NSNT	NSNT
+268, 4	712, 12-18	TRE	be sy yn digwydd yn y byd	SNT	NSNT
+268, 5	713, 1-6	TRE	disturbance of the mind ydy o	NSNT	SNT
+268, 6	714, 1-6	TRE	os wyt ti yn cael gwybod	NSNT	NSNT
+268, 7	714, 7-17	TRE	bod yna *er* rywbeth ryw earthquake wedi digwydd yn y Phillipines	---	ST
+
+
+269, 1	715, 1-10	OLW	ond ti ddim yn meddwl bod o yn peth pwysig	NSNT	NSNT
+269, 2	716, 1-7	OLW	os fasa ni yn byw yn *America*	NST	NST
+269, 3	717, 1-17	OLW	a heblaw y newyddion a yr *um* *information* gynno nhw bod yna *tornado* mynd i ddwad rwan	NST	NST
+269, 4	718, 1-11	OLW	heblaw hynna fysa chi ddim yn gallu prepario am y peth	NSNT	NSNT
+269, 6	719, 20-24	OLW	fedrwch chi prepario flaen llaw	---	NSNT
+
+
+270, 1	720, 1-3	TRE	ond ffaith ydy	NSNT	NSNT
+270, 2	720, 4-9	TRE	doedd neb yn prepared am *New_Orleans*	NST	ST
+270, 3	720, 10-11	TRE	nag oedd	NSNT	NSNT
+270, 4	721, 1-6	TRE	er gymaint o newyddion oedd o_gwmpas	---	NSNT
+
+
+271, 1	722, 1-11	OLW	*yeah* ond ar diwedd y diwrnod dw i yn sôn amdan	NST	NST
+271, 2	723, 1-12	OLW	fedrith neb prepario efo *terrorist* neu *bombs* neu be bynnag fel yna	NST	NST
+271, 3	725, 1-9	OLW	fedrith neb prepario o_flaen llaw efo dim_byd fel yna	NSNT	NSNT
+271, 4	726, 1-5	OLW	ond natural mother nature rwan	NSNT	SNT
+271, 5	727, 1-1	OLW	a	---	NSNT
+
+
+272, 1	728, 1-1	TRE	*New_Orleans*	---	NST
+
+
+273, 1	729, 1-8	OLW	*well* dw i ddim *just* sôn amdan hynna	NST	NST
+273, 2	730, 1-7	OLW	dw i yn sôn amdan fath â	NSNT	NSNT
+273, 3	731, 1-5	OLW	mae rhan fwya o newyddion	NSNT	NSNT
+273, 4	732, 1-15	OLW	mae nhw yn pigo pethau fyny ar y *radar* ac ar y satellite a pethau	NST	ST
+273, 5	733, 1-5	OLW	a mae nhw yn gallu	NSNT	NSNT
+273, 6	733, 6-9	OLW	roid *warning* i bobl	---	NST
+
+
+274, 1	734, 1-6	TRE	a be wedi digwydd yn *New_Orleans*	---	NST
+
+
+275, 1	735, 1-4	OLW	a trwy trwy hynna	NSNT	NSNT
+275, 2	736, 1-7	OLW	mae hwnna *just* yn freak *case* hynna	NST	ST
+275, 3	736, 8-8	OLW	bod	NSNT	NSNT
+275, 4	736, 9-9	OLW	bod	SNT	NSNT
+275, 5	737, 1-5	OLW	*just* one of those things	NST	NST
+275, 6	738, 1-5	OLW	unexplained pam wnaeth o ddigwydd	---	SNT
+
+
+276, 1	739, 1-2	TRE	natural disaster	---	NSNT
+
+
+277, 1	740, 1-7	OLW	a pam oedden nhw ddim yn gwybod	NSNT	NSNT
+277, 2	741, 1-5	OLW	mae hynna *just* yn unexplained	ST	ST
+277, 3	742, 1-7	OLW	fedri di ddim iwsio rywbeth fel yna	NSNT	NSNT
+277, 4	743, 1-6	OLW	achos ydan ni ddim yn gael	NSNT	NSNT
+277, 5	743, 7-17	OLW	llwythi o pethau fel yna yn digwydd on a daily basis	---	SNT
+
+
+278, 1	744, 1-5	TRE	dw i ddim yn dallt	---	NSNT
+
+
+279, 1	745, 1-10	OLW	ti yn trio iwsio *point* lle wnaeth hwnna *just* digwydd	ST	NST
+279, 2	746, 1-4	OLW	one *off* oedd hynna	NST	ST
+279, 3	747, 1-1	OLW	dydy	---	NSNT
+
+
+280, 1	748, 1-5	TRE	oedd yna dri ohonyn nhw	---	NSNT
+
+
+281, 1	749, 1-9	OLW	ia ond dydy hynna ddim yn digwydd bob diwrnod	NSNT	NSNT
+281, 2	749, 10-11	OLW	nag ydy	---	NSNT
+
+
+282, 1	750, 1-3	TRE	nac ydy ond	---	NSNT
+
+
+283, 1	751, 1-4	OLW	lle mae yna earthquake	SNT	SNT
+283, 2	752, 1-4	OLW	mae yna *um* *bombs*	NST	NST
+283, 3	753, 1-12	OLW	mae yna bob_dim fel yna yn digwydd dros y wlad bob dydd	NSNT	NSNT
+283, 4	754, 1-14	OLW	a heblaw y newyddion basa bobl ddim yn gwybod amdan be basa yn digwydd	NSNT	NSNT
+283, 5	755, 1-10	OLW	a basa nhw ddim yn gallu protect_io eu hunain chwaith	NSNT	SNT
+283, 6	756, 1-13	OLW	ti yn sôn amdan ryw natural disaster sy *just* wedi digwydd *um* lle	NST	ST
+283, 7	756, 14-15	OLW	dyna o	SNT	NSNT
+283, 8	757, 1-4	OLW	one of those *thing*	NST	NST
+283, 9	758, 1-16	OLW	even petasa gynno ni newyddion i hwnna basa neb wedi gallu prepario eu hunain i hynna	---	SNT
+
+
+284, 1	759, 1-7	TRE	*oh* mi oedden nhw yn barod amdani	---	NST
+
+
+285, 1	760, 1-6	OLW	ond dw i yn sôn amdan	NSNT	NSNT
+285, 2	761, 1-8	OLW	*oh* sut oedden nhw yn barod amdani felly	NST	NST
+285, 3	761, 9-14	OLW	os oedden nhw ddim yn gwybod	---	NSNT
+
+
+286, 1	762, 1-5	TRE	oedden nhw yn tracio hi	---	NSNT
+
+
+287, 1	763, 1-1	OLW	*pardon*	---	NST
+
+
+288, 1	764, 1-11	TRE	oedden nhw yn ei tracio hi yn dod ar_draws y môr	---	NSNT
+
+
+289, 1	765, 1-9	OLW	*well* os oedden nhw yn ei tracio hi felly	NST	NST
+289, 2	765, 10-16	OLW	mae nhw wedi gael ryw fath o	NSNT	NSNT
+289, 3	766, 1-4	OLW	oedden nhw yn gwybod	NSNT	NSNT
+289, 4	766, 5-8	OLW	lle oedd rai pobl	---	NSNT
+
+
+290, 1	767, 1-1	TRE	oedden	---	NSNT
+
+
+291, 1	768, 1-3	OLW	*oh* dyna o	NST	NST
+291, 2	769, 1-9	OLW	mae nhw wedi gael newyddion mewn ryw ffordd felly	---	NSNT
+
+
+292, 1	770, 1-6	TRE	*yeah* ond be ddigwyddodd yn diwedd	ST	NST
+292, 2	771, 1-1	TRE	disaster	SNT	NSNT
+292, 3	772, 1-6	TRE	wnaethon nhw ddim stopio hi na	---	NSNT
+
+
+293, 1	773, 1-2	OLW	*oh* fedri	NST	NST
+293, 2	774, 1-3	OLW	os ydy rywbeth	NSNT	NSNT
+293, 3	775, 1-8	OLW	os oes yna disaster yn mynd i fod	NSNT	SNT
+293, 4	776, 1-6	OLW	dydy o ddim yn *ideal* world	ST	ST
+293, 6	778, 1-5	OLW	basa rywun *normal* isio hynna	NST	NST
+293, 7	779, 1-3	OLW	ond unfortunately dydy	NSNT	SNT
+293, 8	779, 4-4	OLW	yr	NSNT	NSNT
+293, 9	779, 5-5	OLW	dydy	NSNT	NSNT
+293, 10	779, 6-10	OLW	oes yna ddim_byd fel yna	NSNT	NSNT
+293, 11	779, 11-12	OLW	nag oes	---	NSNT
+
+
+294, 1	781, 1-12	TRE	nag oes ond mi basa nhw wedi medru atal *lot* o ddifrod	NST	NST
+294, 2	782, 1-3	TRE	mae hynna saff	---	NSNT
+
+
+295, 1	783, 1-1	OLW	sut	---	NSNT
+
+
+296, 1	784, 1-9	TRE	drwy beidio *er* dinistrio y levees yn un peth	---	ST
+
+
+297, 1	785, 1-8	OLW	*yeah* ond dydan ni ddim yn sôn am	NST	NST
+297, 2	786, 1-8	OLW	dw i yn sôn amdan y *business* heb	NST	NST
+297, 3	787, 1-6	OLW	ti mynd *off* y *point* wan	NST	NST
+297, 4	788, 1-8	OLW	y *point* o'n i yn trio wneud ydy	NST	NST
+297, 6	792, 1-1	OLW	dyna	NSNT	NSNT
+297, 7	792, 2-4	OLW	ydy yr *point*	NST	NST
+297, 8	792, 5-8	OLW	ydw i yn wneud	NSNT	NSNT
+297, 9	793, 1-8	OLW	dan ni yn mynd *off* y *point* rwan	---	NST
+
+
+298, 1	794, 1-2	TRE	*yeah* *so*	---	NST
+
+
+299, 1	795, 1-3	OLW	i bethau eraill	---	NSNT
+
+
+300, 1	797, 1-6	TRE	ond y ffaith ydy y chdi	NSNT	NSNT
+300, 2	797, 7-11	TRE	oedd yn sôn am newyddion	NSNT	NSNT
+300, 3	798, 1-8	TRE	a mi oedden nhw wedi cael newyddion am	---	NSNT
+
+
+301, 1	799, 1-9	OLW	dim newyddion ar y *news* *as* such nag oedd	NST	ST
+301, 2	800, 1-10	OLW	lle basa nhw yn gwybod bod hynna mynd i ddigwydd	SNT	NSNT
+301, 3	801, 1-9	OLW	God neu waeth i chdi fynd at clairvoyant ta	NSNT	SNT
+301, 4	802, 1-5	OLW	*oh* oedd neb yn gwybod	NST	NST
+301, 5	802, 6-11	OLW	bod *Lady* *Diana* mynd i farw	NST	NST
+301, 8	805, 1-7	OLW	ti yn gwybod be dw i feddwl	NSNT	NSNT
+301, 9	806, 1-12	OLW	os fasa pawb yn gallu wneud hynna fasa pawb yn *immune* fasa	NST	NST
+301, 10	807, 1-4	OLW	fasa yna ddim disaster	SNT	SNT
+301, 11	808, 1-3	OLW	fasa yna ddim_byd	NSNT	NSNT
+301, 12	809, 1-11	OLW	ond mae yr pethau yma yn gorod digwydd am ryw reswm	NSNT	NSNT
+301, 13	810, 1-5	OLW	mae yna reswm i bob_dim	NSNT	NSNT
+301, 15	813, 1-11	OLW	*well* mae yr byd yn mynd i ddod i ben rywbryd	NST	NST
+301, 16	814, 1-10	OLW	dydy o ddim yn mynd i fod yma am byth	NSNT	NSNT
+301, 17	816, 1-5	OLW	mae yna bwrpas i hynna	---	NSNT
+
+
+302, 1	817, 1-1	TRE	*true*	---	NST
+
+
+303, 1	819, 1-20	OLW	*so* petasa chdi yn byw ar ben dy hun a ddim newyddion na ddim_byd fedri di ddim newid y peth	NST	NST
+303, 2	821, 1-10	OLW	mae yr byd yn mynd i ddod i ben anyway	---	SNT
+
+
+304, 1	822, 1-6	TRE	felly pam dw i isio newyddion	---	NSNT
+
+
+305, 1	823, 1-11	OLW	ond dydy o ddim yn mynd i ddod i ben wan	NSNT	NSNT
+305, 2	823, 12-13	OLW	nag ydy	---	NSNT
+
+
+306, 1	824, 1-3	TRE	nac ydy *so*	---	NST
+
+
+307, 1	825, 1-3	OLW	*oh* dyna o	NST	NST
+307, 2	825, 4-4	OLW	ta	NSNT	NSNT
+307, 3	826, 1-10	OLW	*so* mae yn helpu gael newyddion er_mwyn helpu ni tra	NST	NST
+307, 4	826, 11-29	OLW	dan ni ar y ddaear yma wan gallu mynd ymlaen a gwybod be sydd yn digwydd yn y byd	---	NSNT
+
+
+308, 1	827, 1-4	TRE	i rai pobl *yeah*	NST	NST
+308, 2	828, 1-10	TRE	ond i rai bobl eraill be ti isio newyddion te	SNT	NSNT
+308, 3	829, 1-2	TRE	totally unnecessary	---	NSNT
+
+
+309, 1	830, 1-2	OLW	*so* basa	NST	NST
+309, 2	831, 1-10	OLW	ti ddim yn meddwl basa fo yn byd boring iawn	NSNT	SNT
+309, 3	832, 1-14	OLW	petasa petasa yna ddim newyddion de basa yna neb efo ddim_byd i sôn amdan	NSNT	NSNT
+309, 4	833, 1-10	OLW	basa ni waeth i ni fod fath â goldfish ddim	NSNT	SNT
+309, 6	835, 1-7	OLW	yn *just* fewn byd bach ein hunain	---	NST
+
+
+310, 1	836, 1-3	TRE	*well* dyna fo	NST	NST
+310, 2	837, 1-1	TRE	mae	---	NSNT
+
+
+311, 1	838, 1-6	OLW	two second memory a dyna o	NSNT	SNT
+311, 2	839, 1-3	OLW	a ddim_byd arall	---	NSNT
+
+
+312, 1	840, 1-8	TRE	*well* os ti yn mynd ar sail hynny	---	NST
+
+
+313, 1	841, 1-4	OLW	dim_byd i sôn amdan	---	NSNT
+
+
+314, 1	843, 1-7	TRE	os ti yn deud wrtha fi hynny	---	NSNT
+
+
+315, 1	844, 1-3	OLW	*well* fel yna	---	NST
+
+
+316, 1	845, 1-10	TRE	mae yr goldfish yn digon hapus yn ei fyd bach	NSNT	SNT
+316, 2	845, 11-12	TRE	ei hun	NSNT	NSNT
+316, 3	845, 13-13	TRE	tydy	---	NSNT
+
+
+317, 1	846, 1-5	OLW	fasa fasa ni yn bored	SNT	SNT
+317, 2	847, 1-7	OLW	*yeah* ond ydy hynna ddim yn *normal*	NST	NST
+317, 3	848, 1-4	OLW	ydy bobl ddim wedi	NSNT	NSNT
+317, 4	849, 1-5	OLW	mae nhw wedi gael brain	SNT	SNT
+317, 5	850, 1-8	OLW	mae nhw wedi gael eu program_io er_mwyn siarad	NSNT	SNT
+317, 6	851, 1-8	OLW	er_mwyn siarad am y pethau sy yn digwydd	NSNT	NSNT
+317, 7	852, 1-7	OLW	er_mwyn prevent_io pethau sy mynd i digwydd	NSNT	SNT
+317, 8	853, 1-3	OLW	trwy gael *warnings*	NST	NST
+317, 9	854, 1-4	OLW	a trwy gael newyddion	NSNT	NSNT
+317, 10	855, 1-2	OLW	a dyna	NSNT	NSNT
+317, 11	855, 3-6	OLW	ydy *point* y peth	NST	NST
+317, 12	857, 1-12	OLW	neu otherwise fasa nhw ddim wedi even dyfeisio yr peth na basan	---	SNT
+
+
+318, 1	858, 1-11	TRE	*well* ar sail hynny pam na wnaethon nhw ddim prevent_io *New_Orleans*	ST	ST
+318, 2	858, 12-12	TRE	ta	---	NSNT
+
+
+319, 1	859, 1-7	OLW	*oh* active force of nature oedd hynna	NST	ST
+319, 2	860, 1-5	OLW	fedri di ddim prevent_io disaster	SNT	SNT
+319, 3	860, 6-11	OLW	os ydy o mynd i ddigwydd	NSNT	NSNT
+319, 4	861, 1-5	OLW	yr un fath â earthquake	---	SNT
+
+
+320, 1	863, 1-6	TRE	dw i yn deud wrtha chdi	NSNT	NSNT
+320, 2	864, 1-5	TRE	oedden nhw yn tracio nhw	---	NSNT
+
+
+321, 1	865, 1-1	OLW	yli	NSNT	NSNT
+321, 2	866, 1-4	OLW	fedrith nhw tracio *volcano*	NST	NST
+321, 3	867, 1-4	OLW	fedrith nhw ddim gwybod	NSNT	NSNT
+321, 4	868, 1-9	OLW	*ooh* ryw dro mae o yn mynd i erupt_io	ST	ST
+321, 5	869, 1-11	OLW	dyn nhw ddim yn gwybod i yr munud i yr second	SNT	SNT
+321, 6	870, 1-7	OLW	mae yn *just* one of those things	---	ST
+
+
+322, 1	871, 1-5	TRE	be am seven seven te	NSNT	SNT
+322, 2	872, 1-3	TRE	oedden nhw gwybod	NSNT	NSNT
+322, 3	872, 4-7	TRE	bod hynna mynd digwydd	---	NSNT
+
+
+323, 1	873, 1-3	OLW	*oh* iesgob annwyl	NST	NST
+323, 2	874, 1-8	OLW	*just* am bod chdi yn gael newyddion amdan	NST	NST
+323, 3	875, 1-2	OLW	mae yna	NSNT	NSNT
+323, 4	875, 3-6	OLW	mae o mynd i	NSNT	NSNT
+323, 5	876, 1-14	OLW	dydyn nhw ddim yn gwybod union pa bryd oedd o yn mynd i ddigwydd	NSNT	NSNT
+323, 6	877, 1-8	OLW	oedden nhw ddim yn gwybod faint o gloch	NSNT	NSNT
+323, 7	877, 9-13	OLW	oedd o mynd i ddigwydd	---	NSNT
+
+
+324, 1	879, 1-3	TRE	*oh* nag oedden	NST	NST
+324, 2	880, 1-8	TRE	ond oedd gynno nhw syniad ryw dro toedden	---	NSNT
+
+
+325, 1	881, 1-8	OLW	*well* ydan ni gyd yn mynd i gwybod	NST	NST
+325, 2	882, 1-3	OLW	fedran ni gael	NSNT	NSNT
+325, 3	882, 4-9	OLW	fedran ni predict_io *lot* o bethau	NST	ST
+325, 4	883, 1-5	OLW	a weithiau fedri di predict_io	SNT	SNT
+325, 5	884, 1-6	OLW	*oh* gawn ni world war three	ST	ST
+325, 6	887, 1-5	OLW	fedri di predict_io fo wan	NSNT	SNT
+325, 7	888, 1-6	OLW	y ffordd mae pawb yn ymladd	NSNT	NSNT
+325, 8	888, 7-8	OLW	oes yma	NSNT	NSNT
+325, 9	890, 1-6	OLW	ond ar diwedd y diwrnod fedri	NSNT	NSNT
+325, 10	890, 7-13	OLW	fedri di gael newyddion am y peth	NSNT	NSNT
+325, 11	891, 1-7	OLW	ond fedri di ddim nadu fo ddigwydd	NSNT	NSNT
+325, 12	892, 1-3	OLW	os ydy yr	NSNT	NSNT
+325, 13	892, 4-13	OLW	os ydyn pawb yn mynd i ffraeo a ryw fight_io	SNT	SNT
+325, 14	892, 14-24	OLW	fedri di ddim nadu fo ddigwydd os ti yn gael newyddion	NSNT	NSNT
+325, 15	893, 1-12	OLW	*just* newyddion bod o yn mynd i ddigwydd ti yn gael de	---	NST
+
+
+326, 1	894, 1-3	TRE	*oh* dyna fo	NST	NST
+326, 2	894, 4-4	TRE	ta	NSNT	NSNT
+326, 3	895, 1-9	TRE	*well* ar sail hynny ti ddim isio newyddion felly	NST	NST
+326, 5	897, 1-3	TRE	ti ddim callach	---	NSNT
+
+
+327, 1	898, 1-2	OLW	*oh* iesgob	---	NST
+
+
+328, 1	899, 1-3	TRE	ti ddim callach	---	NSNT
+
+
+329, 1	900, 1-12	OLW	*oh* dydan ni ddim callach yn cario ymlaen am y sgwrs yma	ST	NST
+329, 2	901, 1-11	OLW	because wyt ti obviously *er* yn *stubborn* *er* efo dy farn	NST	ST
+329, 3	901, 12-13	OLW	am bod	NSNT	NSNT
+329, 4	901, 14-18	OLW	dan ni ddim isio newyddion	---	NSNT
+
+
+330, 1	902, 1-1	TRE	yndw	---	NSNT
+
+
+331, 1	903, 1-10	OLW	*so* therefore fedran ni ddim gael sgwrs am ddim_byd felly	---	ST
+
+
+332, 1	904, 1-6	TRE	be ti yn feddwl am ddim_byd	---	NSNT
+
+
+333, 1	905, 1-9	OLW	*oh* be be basa chdi yn sôn amdan ta	NST	NST
+333, 2	906, 1-3	OLW	deud di wan	---	NSNT
+
+
+334, 1	908, 1-9	TRE	fi fy hun fy nheulu fy llyfrau rywbeth felly	---	NSNT
+
+
+335, 1	909, 1-3	OLW	chdi dy hun	NSNT	NSNT
+335, 2	910, 1-9	OLW	ti ddim yn meddwl bod hynna braidd yn conceited	---	SNT
+
+
+336, 1	912, 1-8	TRE	mae pawb yn siarad amddo fo ei hun	---	NSNT
+
+
+337, 1	913, 1-5	OLW	ia ond newyddion ydy hynna	NSNT	NSNT
+337, 2	914, 1-15	OLW	os ti yn siarad amdan dy hun i rywun arall neu be sy wedi digwydd	NSNT	NSNT
+337, 3	914, 16-20	OLW	mae yn *form* of *news*	ST	ST
+337, 4	915, 1-5	OLW	mae yn *form* of communication	---	ST
+
+
+338, 1	916, 1-3	TRE	*well* ia a	---	NST
+
+
+339, 1	917, 1-2	OLW	mae o	NSNT	NSNT
+339, 2	918, 1-2	OLW	mae o	---	NSNT
+
+
+340, 1	919, 1-4	TRE	ar *level* hynny yndy	---	NST
+
+
+341, 1	920, 1-3	OLW	*oh* mae o	NST	NST
+341, 2	920, 4-4	OLW	dydy	---	NSNT
+
+
+342, 1	922, 1-1	TRE	*so*	---	NST
+
+
+343, 1	923, 1-6	OLW	newyddion ydy *information* newydd amdan rywbeth	---	NST
+
+
+344, 1	924, 1-5	TRE	*well* ar un *level* *yeah*	ST	NST
+344, 2	925, 1-1	TRE	*so*	---	NST
+
+
+345, 1	926, 1-2	OLW	*oh* dyna	NST	NST
+345, 2	926, 3-5	OLW	ddaru ni sôn	NSNT	NSNT
+345, 3	927, 1-1	OLW	dyna	NSNT	NSNT
+345, 4	927, 2-5	OLW	ydy yr dadl amdan	---	NSNT
+
+
+346, 1	928, 1-1	TRE	naci	NSNT	NSNT
+346, 2	929, 1-17	TRE	newyddion oedda chdi yn sôn amdano fo i ddechrau i ddechrau cyn i chdi newid y pwnc	NSNT	NSNT
+346, 3	930, 1-10	TRE	oedd newyddion ar y teledu a internet a media felly	---	SNT
+
+
+347, 1	931, 1-6	OLW	wnes i ddim sôn am internet	---	SNT
+
+
+348, 1	932, 1-6	TRE	*well* yr un peth ydy o	---	NST
+
+
+349, 1	933, 1-6	OLW	y chdi sy yn deud hynna	---	NSNT
+
+
+350, 1	934, 1-4	TRE	media media un peth	---	SNT
+
+
+351, 1	935, 1-3	OLW	newyddion in *general*	ST	ST
+351, 2	936, 1-8	OLW	a wedyn wnest ti troi *round* a deud	NST	NST
+351, 3	937, 1-7	OLW	*well* wna i sôn amdan fy hun	NST	NST
+351, 4	938, 1-11	OLW	*well* os ti yn deud hynna mae hynna yn newyddion yn	NST	NST
+351, 5	938, 12-13	OLW	ei hun	NSNT	NSNT
+351, 6	939, 1-10	OLW	y chdi dywedodd basa chdi yn sôn amdan dy hun	---	NSNT
+
+
+352, 1	940, 1-4	TRE	oedd chdi yn sôn	---	NSNT
+
+
+353, 1	941, 1-5	OLW	ond mae hynna yn newyddion	---	NSNT
+
+
+354, 1	942, 1-10	TRE	ar *level* na ar *level* hynny mae ar *level* hynny	---	NST
+
+
+354, 2	942, 11-12	TRE	mae o	NSNT	NSNT
+355, 2	945, 1-15	OLW	y chdi wnaeth troi o *round* gan deud basa chdi yn sôn amdan dy hun	---	NST
+
+
+356, 1	946, 1-11	TRE	*yeah* a wedyn dyma chdi yn deud mai newyddion oedd hynny	---	NST
+
+
+357, 1	947, 1-5	OLW	*oh* mae hynna yn newyddion	NST	NST
+357, 2	948, 1-4	OLW	ti ddim yn meddwl	NSNT	NSNT
+357, 3	949, 1-11	OLW	os wyt ti yn siarad amdan dy hun i rywun arall	NSNT	NSNT
+357, 4	949, 12-17	OLW	mae yn *news* i rywun arall	NST	NST
+357, 5	949, 18-18	OLW	dydy	NSNT	NSNT
+357, 6	950, 1-9	OLW	mae yn *news* os ti deud wrth dy fam	NST	NST
+357, 9	953, 1-6	OLW	dw i wedi darllen llyfr neithiwr	NSNT	NSNT
+357, 10	954, 1-7	OLW	mae hynna yn *news* i dy fam	NST	NST
+357, 11	954, 8-8	OLW	dydy	---	NSNT
+
+
+358, 1	956, 1-12	TRE	*well* ar un *level* ond medri di ddim byw heb siarad na_fedri	---	NST
+
+
+359, 1	957, 1-6	OLW	*oh* *yeah* a siarad ydy newyddion	---	NST
+
+
+360, 1	958, 1-4	TRE	*well* mae yn wneud	---	NST
+
+
+361, 1	959, 1-7	OLW	ti yn gael newydd da am rywbeth	NSNT	NSNT
+361, 2	960, 1-18	OLW	os os ti yn gwybod os ti wedi pasio *exams* neu os ydy rhywun wedi cael babi newydd	NST	NST
+361, 3	960, 19-22	OLW	mae hynna yn newyddion	---	NSNT
+
+
+362, 1	961, 1-2	TRE	yndy *simplistic*	---	NST
+
+
+363, 1	962, 1-3	OLW	*well* mae bob_dim	NST	NST
+363, 2	962, 4-7	OLW	dan ni sôn amdan	NSNT	NSNT
+363, 3	962, 8-11	OLW	wedi bod yn newyddion	NSNT	NSNT
+363, 4	963, 1-10	OLW	a ti yn deud basa yn byd gwell heb newyddion	NSNT	NSNT
+363, 5	964, 1-8	OLW	a fedran ni gope_io heb gwybod am newyddion	---	SNT
+
+
+364, 1	965, 1-9	TRE	medran ni cope_io heb newyddion o ran media medra	---	SNT
+
+
+365, 1	966, 1-8	OLW	wnest ti ddim deud rhan media ar dechrau	NSNT	SNT
+365, 2	968, 1-2	OLW	*just* newyddion	---	NST
+
+
+366, 1	970, 1-8	TRE	chdi oedd yn sôn am media i ddechrau	NSNT	SNT
+366, 2	971, 1-6	TRE	wedyn wnes i gymryd hynny fyny	---	NSNT
+
+
+367, 1	972, 1-2	OLW	*well* dyna	NST	NST
+367, 2	972, 3-4	OLW	ydy newyddion	NSNT	NSNT
+367, 3	973, 1-6	OLW	dan ni sôn am pethau *serious*	NST	NST
+367, 4	974, 1-3	OLW	a dyna pam	NSNT	NSNT
+367, 5	974, 4-6	OLW	wnaethon ni sôn	---	NSNT
+
+
+368, 1	975, 1-2	TRE	*ah* *serious*	---	NST
+
+
+369, 1	976, 1-3	OLW	*oh* dyna pam	NST	NST
+369, 2	976, 4-10	OLW	wnest ti sôn amdan *New_Orleans* a pethau	NST	NST
+369, 3	977, 1-3	OLW	newyddion oedd hynna	NSNT	NSNT
+369, 4	978, 1-7	OLW	dim rywbeth oedd pobl yn siarad amdan	SNT	NSNT
+369, 5	980, 1-1	OLW	*fact*	---	NST
+
+
+370, 1	981, 1-4	TRE	dw i yn gwybod	---	NSNT
+
+
+371, 1	982, 1-1	OLW	*news*	---	NST
+
+
+372, 1	984, 1-1	TRE	newyddion	---	NSNT

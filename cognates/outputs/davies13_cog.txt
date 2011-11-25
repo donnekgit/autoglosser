@@ -1,0 +1,1665 @@
+1, 1	1, 1-15	JAM	*mmm* *yeah* *well* gawn ni *session* fach tri awr heddiw nawr neu dwy awr falle	---	NST
+
+
+2, 1	2, 1-4	MEI	dechrau gwaith hefyd wedyn	---	NSNT
+
+
+3, 1	3, 1-10	JAM	*yeah* fi moyn wneud *um* *er* wneud y *Bach* yna	NST	NST
+3, 2	4, 1-2	JAM	y presentation	---	SNT
+
+
+4, 1	5, 1-6	MEI	dw i am dechrau hwnna fory	NSNT	NSNT
+4, 2	6, 1-6	MEI	os dw i wneud orchestration heno	NSNT	SNT
+4, 3	7, 1-5	MEI	trio wneud gymaint medra i	SNT	NSNT
+4, 4	8, 1-5	MEI	because medraf i wneud dim_byd	---	SNT
+
+
+5, 1	9, 1-2	JAM	pryd mae	---	NSNT
+
+
+6, 1	10, 1-1	MEI	weekend	---	NSNT
+
+
+7, 1	11, 1-7	JAM	*oh* orchestration fod mewn dydd Llun ife	NST	ST
+7, 2	13, 1-4	JAM	*um* digon o amser	NST	NST
+7, 3	14, 1-13	JAM	fi moyn *just* cael y gwybodaeth i_gyd yn barod am *er* y presentation	ST	ST
+7, 4	15, 1-9	JAM	achos *er* achos bod fi wneud e gyda ti	NST	NST
+7, 5	16, 1-7	JAM	*so* fi ddim moyn gadael ti lawr	NST	NST
+7, 7	18, 1-5	JAM	fyddi di yn bwlian fi	---	NSNT
+
+
+8, 1	19, 1-5	MEI	dylsan ni wneud yn iawn	NSNT	NSNT
+8, 3	21, 1-5	MEI	mae yna *boy* *um* *boy*	NST	NST
+8, 4	21, 6-9	MEI	ydw i nabod *yeah*	NST	NST
+8, 5	22, 1-8	MEI	aeth o fewn i *er* *chemist* diwrnod o_blaen	NST	NST
+8, 6	24, 1-5	MEI	a wedyn aeth o fewn	NSNT	NSNT
+8, 7	25, 1-5	MEI	ac oedd o isio *condoms*	NST	NST
+8, 8	25, 6-7	MEI	oedd o	NSNT	NSNT
+8, 9	28, 1-9	MEI	*so* aeth o tu yn_ôl i yr a deud	NST	NST
+8, 10	29, 1-5	MEI	*oh* oes gynno chi *condoms*	NST	NST
+8, 11	30, 1-3	MEI	wnaeth o ddeud	NSNT	NSNT
+8, 12	31, 1-4	MEI	*lot* o rai *condoms*	NST	NST
+8, 13	32, 1-4	MEI	wnaeth o ddeud *er*	NST	NST
+8, 14	33, 1-3	MEI	faint ti isio	NSNT	NSNT
+8, 15	34, 1-5	MEI	a wnaeth y *boy* ddeud	ST	NST
+8, 16	35, 1-6	MEI	*well* *um* because mae yr fodan	NST	ST
+8, 17	35, 7-11	MEI	mae hi *right* *er* *randy*	NST	NST
+8, 18	36, 1-3	MEI	a mae hi	NSNT	NSNT
+8, 19	36, 4-5	MEI	mae hi	NSNT	NSNT
+8, 20	36, 7-10	MEI	mae hi licio fo	NSNT	NSNT
+8, 21	37, 1-11	MEI	*so* wna i gael *box* o tua deuddeg os ga i	NST	NST
+8, 22	38, 1-4	MEI	*so* aeth o dalu	NST	NST
+8, 23	39, 1-2	MEI	rhoi *condoms*	NST	NST
+8, 24	40, 1-5	MEI	a wnaeth y *chemist* ddeud	NST	NST
+8, 25	41, 1-4	MEI	*oh* *er* timod gobeithio	NST	NST
+8, 26	41, 5-8	MEI	wnei di fwynhau heno	NSNT	NSNT
+8, 28	43, 1-8	MEI	*so* *um* y rheswm wnaeth o gael o	NST	NST
+8, 29	43, 9-10	MEI	oedd oherwydd	NSNT	NSNT
+8, 30	43, 11-16	MEI	oedd o yn mynd i tŷ	NSNT	NSNT
+8, 31	43, 17-19	MEI	ei fodan o	NSNT	NSNT
+8, 32	45, 1-7	MEI	*so* aeth o yna tua chwech o_gloch	NST	NST
+8, 33	46, 1-12	MEI	a *great* *surprise* *surprise* oedd *um* *mam* a *dad* y fodan yna	---	NST
+
+
+9, 1	47, 1-2	JAM	*oh* *dear*	---	NST
+
+
+10, 1	48, 1-3	MEI	a deud *er*	NST	NST
+10, 2	50, 1-3	MEI	a wedyn deud	NSNT	NSNT
+10, 3	51, 1-6	MEI	*oh* dw i isio surprise_io ti	NST	ST
+10, 4	52, 1-8	MEI	dw i isio ti gyfarfod *mam* a *Dad*	NST	NST
+10, 5	53, 1-7	MEI	*so* *er* wedyn awn ni am fwyd	NST	NST
+10, 6	54, 1-5	MEI	*so* aethon nhw am fwyd	NST	NST
+10, 7	55, 1-7	MEI	wedyn *er* oedden nhw mynd i fwyta	NST	NST
+10, 8	56, 1-4	MEI	wedyn wnaeth y y	NSNT	NSNT
+10, 9	56, 5-7	MEI	timod cariad deud	NSNT	NSNT
+10, 10	57, 1-11	MEI	*oh* ga i ga i roi gweddi os gwelwch yn dda	NST	NST
+10, 11	58, 1-5	MEI	*so* oedd o lawr yna	NST	NST
+10, 12	59, 1-3	MEI	*er* *oh* Arglwydd	NST	NST
+10, 13	60, 1-11	MEI	a wedyn pum munud wedyn oedd o yn dal i weddïo	---	NSNT
+
+
+11, 1	61, 1-2	JAM	*oh* *dear*	---	NST
+
+
+12, 1	62, 1-6	MEI	am ddeg munud dal i weddïo	NSNT	NSNT
+12, 3	64, 1-6	MEI	ar_ôl ugain munud wnaeth o ddeud	SNT	NSNT
+12, 4	65, 1-1	MEI	*amen*	ST	NST
+12, 5	66, 1-5	MEI	a wedyn wnaeth ei gariad	NSNT	NSNT
+12, 6	66, 6-9	MEI	timod fodan ddeud *er*	NST	NST
+12, 7	67, 1-9	MEI	do'n i ddim yn dallt bod ti mor grefyddol	NSNT	NSNT
+12, 8	68, 1-4	MEI	wnaeth y *boy* ddeud	NST	NST
+12, 9	69, 1-4	MEI	wnest ti ddim deud	NSNT	NSNT
+12, 10	69, 5-10	MEI	bod *dad* ti yn *bloody* *chemist*	---	NST
+
+
+13, 1	70, 1-3	JAM	*oh* chwarae teg	NST	NST
+13, 2	71, 1-4	JAM	llawn o *jokes* *Meirion*	---	NST
+
+
+14, 1	72, 1-7	MEI	*yeah* dw i ddim yn nabod *boy*	NST	NST
+14, 2	72, 8-10	MEI	wnaeth wneud hwnna	NSNT	NSNT
+14, 3	74, 1-4	MEI	na *joke* oedd o	NST	NST
+14, 4	76, 1-4	MEI	fasai fo yn funny	SNT	SNT
+14, 5	76, 5-8	MEI	os faswn i yn	---	NSNT
+
+
+15, 1	78, 1-4	JAM	mae wastad yn awkward	SNT	SNT
+15, 2	78, 5-13	JAM	nag yw e mynd mewn i *shop* i prynu	NST	NST
+15, 3	79, 1-13	JAM	*Tesco's* a wedyn mae dy fodryb di yn troi lan tu_ôl i ti	NST	NST
+15, 6	82, 1-3	JAM	mae *queue* fawr	NST	NST
+15, 7	83, 1-6	JAM	a ti ym mlaen y *queue*	NST	NST
+15, 8	84, 1-12	JAM	ti ddim gwybod prun ai i *just* gadael a mynd hebddo nhw	---	NST
+
+
+16, 1	87, 1-4	MEI	be sy dda *yeah*	NST	NST
+16, 2	87, 5-12	MEI	ydy ti ti mynd i *Sainsbury's* neu rywbeth	NST	NST
+16, 3	88, 1-8	MEI	a ti yn gweld *sort* of hen *gouple*	NST	ST
+16, 4	89, 1-5	MEI	ti gweld rhywun *quite* *posh*	NST	NST
+16, 5	90, 1-3	MEI	*so* ti meddwl	ST	NST
+16, 6	91, 1-2	MEI	hang on	SNT	NSNT
+16, 7	92, 1-6	MEI	wna i nôl *box* o *condoms*	NST	NST
+16, 8	93, 1-3	MEI	a wna i	NSNT	NSNT
+16, 9	93, 4-8	MEI	roid nhw yn *basket* nhw	NST	NST
+16, 11	95, 1-2	MEI	sganio nhw	NSNT	NSNT
+16, 12	96, 1-6	MEI	pan mae nhw yn sganio nhw	NSNT	NSNT
+16, 13	97, 1-6	MEI	mae nhw yn mynd i feddwl	NSNT	NSNT
+16, 14	98, 1-5	MEI	pwy wedi prynu *condoms* yma	NST	NST
+16, 15	99, 1-2	MEI	ond timod	NSNT	NSNT
+16, 16	99, 3-9	MEI	fyddan nhw mor falch o eu hunan	NSNT	NSNT
+16, 17	100, 1-4	MEI	fyddan nhw ddim isio	NSNT	NSNT
+16, 18	100, 5-7	MEI	roid nhw yn_ôl	NSNT	NSNT
+16, 19	101, 1-4	MEI	wnawn ni prynu nhw	NSNT	NSNT
+16, 21	104, 1-4	MEI	a *thing* gorau *yeah*	NST	NST
+16, 22	105, 1-8	MEI	ar y barcode os ti yn sgratsio fo	NSNT	SNT
+16, 23	106, 1-6	MEI	*so* wedyn mae nhw sganio fo	NST	NST
+16, 24	108, 1-8	MEI	a wedyn dy o ddim yn mynd drwodd	SNT	NSNT
+16, 25	109, 1-4	MEI	counter *number* three *please*	NST	NST
+16, 27	111, 1-8	MEI	how much are the twelve *well* lubricated *condoms*	---	NST
+
+
+17, 1	112, 1-3	JAM	a torri pensiynwr	---	NSNT
+
+
+18, 1	113, 1-3	MEI	really embarrass_io nhw	---	SNT
+
+
+19, 1	114, 1-11	JAM	*oh* fi yn yn fi yn credu wna i drio hwnna	NST	NST
+19, 2	115, 1-3	JAM	dw i yn	NSNT	NSNT
+19, 3	115, 4-10	JAM	dw i yn hoffi yr syniad yna	NSNT	NSNT
+19, 4	116, 1-2	JAM	chwarae teg	NSNT	NSNT
+19, 5	117, 1-14	JAM	ti wedi bod yn meddwl am am sut i wneud hwnna nag yt ti	SNT	NSNT
+19, 6	118, 1-4	JAM	really plano fe mas	---	SNT
+
+
+20, 1	119, 1-1	MEI	*lot*	---	NST
+
+
+21, 1	120, 1-12	JAM	a ti wedi wneud e i ryw *gouple* bach nag yt ti	---	NST
+
+
+22, 1	121, 1-2	MEI	nag dw	NSNT	NSNT
+22, 2	121, 3-5	MEI	dw i ddim	NSNT	NSNT
+22, 4	123, 1-3	MEI	y *thing* ydy	NST	NST
+22, 5	124, 1-7	MEI	ddim yn gweithio nhw yn *marks* timod	NST	NST
+22, 6	125, 1-2	MEI	mae dy	NSNT	NSNT
+22, 7	125, 3-6	MEI	timod *ideal* *customers* *marks*	NST	NST
+22, 8	125, 7-8	MEI	mae nhw	SNT	NSNT
+22, 9	127, 1-4	MEI	because timod really *posh*	ST	ST
+22, 10	127, 5-8	MEI	edrych lawr ar bobl	NSNT	NSNT
+22, 11	127, 9-11	MEI	sy gweithio yna	---	NSNT
+
+
+23, 1	130, 1-2	JAM	*oh* *dear*	---	NST
+
+
+24, 1	131, 1-5	MEI	be ti cael Nadolig ta	---	NSNT
+
+
+25, 1	132, 1-4	JAM	beth yf i yn	NSNT	NSNT
+25, 2	133, 1-15	JAM	*oh* *well* *um* fi mynd i gael *Ipod* *um* *yeah* thirty *gigabytes* *Ipod* *video* *Ipod*	---	ST
+
+
+26, 1	134, 1-2	MEI	*video* *Ipod*	ST	NST
+26, 2	135, 1-8	MEI	ti actually mynd i roi *videos* arno fo	---	ST
+
+
+27, 1	137, 1-3	JAM	fi fi yn	---	NSNT
+
+
+28, 1	138, 1-5	MEI	mae pobl yn prynu nhw	NSNT	NSNT
+28, 2	139, 1-6	MEI	a wedyn mae nhw yn meddwl	SNT	NSNT
+28, 3	140, 1-8	MEI	hang on dw i really isio gwatsio *video*	ST	ST
+28, 5	142, 1-2	MEI	because dyna	NSNT	SNT
+28, 6	142, 3-6	MEI	mae *d_v_d* players yn	NST	ST
+28, 7	143, 1-12	MEI	dy o ddim yr un peth watsio *film* ar *screen* bach *size*	---	NST
+
+
+29, 1	144, 1-8	JAM	na ond mae raid fi fod yn *honest*	NST	NST
+29, 3	146, 1-1	JAM	os	NSNT	NSNT
+29, 4	147, 1-3	JAM	fi yn credu	NSNT	NSNT
+29, 5	148, 1-1	JAM	hynny	NSNT	NSNT
+29, 6	149, 1-10	JAM	achos ni wneud cerddoriaeth a fel profion repertoire a *stuff*	NST	ST
+29, 7	150, 1-6	JAM	mae fe yn *handy* gael un	NST	NST
+29, 8	151, 1-8	JAM	fel bod ti yn gallu gwrando i cerddoriaeth	NSNT	NSNT
+29, 9	151, 9-13	JAM	timod ble bynnag yt ti	NSNT	NSNT
+29, 10	152, 1-7	JAM	ond achos timod dod o yr de	NSNT	NSNT
+29, 11	152, 8-13	JAM	yf fi lan i fan hyn	NSNT	NSNT
+29, 12	153, 1-7	JAM	a fi yn teithio ar y *train*	---	NST
+
+
+30, 1	154, 1-7	MEI	ar *train* *yeah* mae hwnna yn *handy*	---	NST
+
+
+31, 1	155, 1-2	JAM	timod ideally	SNT	SNT
+31, 2	155, 3-9	JAM	bydden i yn mynd â yr laptop	SNT	SNT
+31, 3	156, 1-4	JAM	ond mae fe yn	NSNT	NSNT
+31, 4	156, 6-12	JAM	mae fe *just* rhy fawr i cario	---	NST
+
+
+32, 1	157, 1-3	MEI	ti licio watsiad	NSNT	NSNT
+32, 3	159, 1-7	MEI	ti wedi agor laptop ti ar *train*	---	ST
+
+
+33, 1	160, 1-4	JAM	fi wedi unwaith ond	---	NSNT
+
+
+34, 1	161, 1-7	MEI	ti yn teimlo fel *wally* wneud o	NST	NST
+34, 2	162, 1-6	MEI	dw i yn teimlo *real* *wally*	ST	NST
+34, 3	163, 1-4	MEI	because y *thing* ydy	NST	ST
+34, 4	163, 5-12	MEI	dw i ddim yn edrych fel *boy* *business*	NST	NST
+34, 5	164, 1-8	MEI	a dw i ddim yn edrych yn bwysig	NSNT	NSNT
+34, 6	166, 1-10	MEI	dw i *just* edrych yn *sad* a *boy* hefo laptop	---	ST
+
+
+35, 1	167, 1-8	JAM	fi fi wedi wneud e o yr blaen	NSNT	NSNT
+35, 2	168, 1-5	JAM	be wnes i tro diwetha	NSNT	NSNT
+35, 3	168, 6-10	JAM	oedd anghofio mynd â headphones	SNT	SNT
+35, 4	169, 1-9	JAM	*so* wedyn o'n i gorfod roid y volume lan	---	ST
+
+
+36, 1	170, 1-4	MEI	*so* ti gorfod roi	---	NST
+
+
+37, 1	171, 1-4	JAM	ond y *thing* yw	NST	NST
+37, 2	171, 5-15	JAM	oedd e ddim yn digon uchel i ddod dros sŵn *er*	NST	NST
+37, 3	171, 16-19	JAM	timod y sŵn *um*	NST	NST
+37, 4	171, 21-25	JAM	oedd yna y sŵn cyffredinol	---	NSNT
+
+
+38, 1	172, 1-8	MEI	rhaid ti watsiad pa *film* ti yn watsiad	NST	NST
+38, 2	174, 1-14	MEI	timod ti ddim isio *South_Park* neu rywbeth efo rhegi bob yn ail gair neu	NST	NST
+38, 4	177, 1-3	MEI	*Mrs_Jones* yn eistedd	---	NST
+
+
+39, 1	178, 1-5	JAM	beth o'n i meddwl timod	NSNT	NSNT
+39, 2	179, 1-8	JAM	ar *train* neu rywbeth fel yna bydde fe	NST	NST
+39, 3	180, 1-7	JAM	er er bod y *screen* yn fach	NST	NST
+39, 4	181, 1-14	JAM	fi yn *sure* bydde fe yn *handy* timod gwylio *video* ar *train* neu rywbeth	---	NST
+
+
+40, 1	182, 1-2	MEI	*yeah* gwir	NST	NST
+40, 2	183, 1-5	MEI	*just* dibynnu efo *batteries* nhw	NST	NST
+40, 3	184, 1-3	MEI	mae *battery* fi	---	NST
+
+
+41, 1	185, 1-2	JAM	dyna peth	NSNT	NSNT
+41, 2	185, 3-3	JAM	yfe	---	NSNT
+
+
+42, 1	186, 1-4	MEI	dw i deud ti	---	NSNT
+
+
+43, 1	187, 1-2	JAM	na be	---	NSNT
+
+
+44, 1	188, 1-8	MEI	*battery* *er* dw i fully tsiarjio fo wan	NST	ST
+44, 2	189, 1-6	MEI	a wedyn ti cael tri cân	NSNT	NSNT
+44, 3	189, 7-9	MEI	a mae dweud	NSNT	NSNT
+44, 4	189, 10-13	MEI	bod *battery* yn *flat*	---	NST
+
+
+45, 1	190, 1-1	JAM	really	SNT	NSNT
+45, 3	192, 1-2	JAM	tri cân	---	NSNT
+
+
+46, 1	193, 1-2	MEI	tri cân	---	NSNT
+
+
+47, 1	194, 1-2	JAM	fel hynny	---	NSNT
+
+
+48, 1	195, 1-1	MEI	wmbo	---	NSNT
+
+
+49, 1	197, 1-6	JAM	fel mor hir ti wedi cael	---	NSNT
+
+
+50, 1	198, 1-5	MEI	doedd o ddim fel *Bohemian_Rhapsody*	ST	NST
+50, 2	199, 1-2	MEI	seven *minutes*	ST	NST
+50, 3	200, 1-3	MEI	oedd hi yn	NSNT	NSNT
+50, 4	200, 4-8	MEI	oedd hi yn *track* *normal*	---	NST
+
+
+51, 1	201, 1-8	JAM	pa mor hir ti wedi cael yr *Ipod*	---	NST
+
+
+52, 1	202, 1-5	MEI	fel ryw deunaw mis rwan	NSNT	NSNT
+52, 2	203, 1-3	MEI	gael o penblwydd	---	NSNT
+
+
+53, 1	204, 1-4	JAM	mae hwnna yn wael	NSNT	NSNT
+53, 3	206, 1-6	JAM	ti meddwl cael un newydd neu	---	NSNT
+
+
+54, 1	207, 1-2	MEI	ella Nadolig	---	NSNT
+
+
+55, 1	209, 1-1	JAM	power	---	NSNT
+
+
+56, 1	210, 1-1	MEI	wmbo	NSNT	NSNT
+56, 2	211, 1-7	MEI	wna i ddim cael un *video* though	ST	ST
+56, 3	212, 1-6	MEI	wna i *just* cael un rhad	---	NST
+
+
+57, 1	213, 1-5	JAM	be fel *Ipod* *nanos* *yeah*	NST	NST
+57, 3	215, 1-5	JAM	beth ŷn nhw four *gigabytes*	---	ST
+
+
+58, 1	216, 1-10	MEI	deud di rwan mae nhw yn sgratsio yn hawdd yn_dydy	---	NSNT
+
+
+59, 1	217, 1-2	JAM	be nawr	---	NSNT
+
+
+60, 1	218, 1-2	MEI	medda nhw	NSNT	NSNT
+60, 3	220, 1-2	MEI	y *nanos*	NST	NST
+60, 4	221, 1-7	MEI	mae ti gallu sgratsio ar y *screen*	---	NST
+
+
+61, 1	222, 1-5	JAM	*ah* *right* fi ddim wmbo	---	NST
+
+
+62, 1	223, 1-2	MEI	medda nhw	---	NSNT
+
+
+63, 1	224, 1-7	JAM	ond *er* four *gigabytes* ŷn nhw yfe	---	ST
+
+
+64, 1	225, 1-5	MEI	mae hwnna yn ddigon though	SNT	SNT
+64, 3	227, 1-3	MEI	mae yn iawn	---	NSNT
+
+
+65, 1	228, 1-6	JAM	*yeah* y y peth gyda fi	NST	NST
+65, 2	229, 1-11	JAM	fi ddim yn hoffi *um* chwarae amboutu gyda technoleg fel yna	NST	NST
+65, 3	231, 1-9	JAM	achos fi yn fi yn wneud *mess* o pethau	NST	NST
+65, 4	232, 1-6	JAM	mae yn well gyda fi *just*	NST	NST
+65, 5	233, 1-10	JAM	ti yn gallu *um* ti yn gallu synchronise_io yr holl	NST	ST
+65, 7	235, 1-10	JAM	*er* lyfrgell ar *Itunes* ar *er* ar *Ipod* dwyt ti	NST	NST
+65, 8	236, 1-14	JAM	*so* timod dyw yr *library* ddim mynd i fod yn fwy na thirty *gigabytes*	---	ST
+
+
+66, 1	237, 1-2	MEI	na gwir	---	NSNT
+
+
+67, 1	238, 1-2	JAM	*so* dyna	NST	NST
+67, 2	238, 3-4	JAM	dyna beth	NSNT	NSNT
+67, 3	238, 5-8	JAM	alla i wneud wedyn	SNT	NSNT
+67, 4	239, 1-4	JAM	*just* synchronise_io fe i_gyd	---	ST
+
+
+68, 1	242, 1-8	MEI	because *er* *um* efo fi dw i weithiau	NST	ST
+68, 2	243, 1-7	MEI	o'n i yn huge *fan* o *Queen*	NST	ST
+68, 3	244, 1-8	MEI	ac rwan dw i mynd *off* nhw bach	ST	NST
+68, 4	245, 1-9	MEI	because dw i wedi gwrando i gymaint o nhw	NSNT	SNT
+68, 5	246, 1-2	MEI	*so* timod	NST	NST
+68, 6	246, 3-12	MEI	dw i yn cael gwared ar *Queen* ar un adeg	NST	NST
+68, 7	248, 1-6	MEI	dw i yn roi rywun arall	NSNT	NSNT
+68, 8	249, 1-6	MEI	ond mae *sure* y mis nesa	---	NST
+
+
+69, 1	250, 1-3	JAM	*yeah* ar *rota*	---	NST
+
+
+70, 1	251, 1-3	MEI	*yeah* *well* timod	---	NST
+
+
+71, 1	253, 1-7	JAM	ond faint faint mae yr *Ipod* *nanos*	---	NST
+
+
+72, 1	254, 1-6	MEI	*well* ryw cant dau_ddeg rywbeth *yeah*	---	NST
+
+
+73, 1	255, 1-10	JAM	achos ges i yr *Ipod* *video* am ryw cant saith_deg	NST	NST
+73, 2	257, 2-6	JAM	does dim *lot* o wahaniaeth	---	NST
+
+
+74, 1	258, 1-5	MEI	lle wnest ti gael o	---	NSNT
+
+
+75, 1	259, 1-1	JAM	*Comet*	---	NST
+
+
+76, 1	260, 1-1	MEI	*Comet*	---	NST
+
+
+77, 1	261, 1-9	JAM	*Comet* online twel achos in *store* fi yn credu	NST	ST
+77, 2	261, 10-14	JAM	mae tua *um* cant naw_deg	NST	NST
+77, 3	263, 1-13	JAM	a wedyn *um* online ti yn gael *um* *discount* *price* nag yt ti	NST	ST
+77, 4	264, 1-10	JAM	achos mae nhw yn trial annog pobl i siopa ar_lein	NSNT	NSNT
+77, 5	266, 1-5	JAM	y peth yw e ti	NSNT	NSNT
+77, 6	267, 1-6	JAM	*er* pryd ti yn siopa ar_lein	NST	NST
+77, 7	268, 1-17	JAM	mae *Comet* ddim yn gorfod talu i rywun bod wrth *customer* services i helpu ti neu rywbeth	NST	ST
+77, 8	269, 1-7	JAM	*so* dyna pam ti yn safio arian	NST	NST
+77, 9	269, 8-8	JAM	ife	NSNT	NSNT
+77, 10	271, 1-7	JAM	*so* hwnna *yeah* oedd hwnna yn eitha	---	NST
+
+
+78, 1	272, 1-4	MEI	hwnna oedd y rhata	NSNT	NSNT
+78, 2	273, 1-5	MEI	wnest ti jecio bob man	---	NSNT
+
+
+79, 1	274, 1-10	JAM	do tsieciais i bob man o'n i yn gallu really	SNT	SNT
+79, 2	275, 1-6	JAM	o'n i ddim moyn cael e	NSNT	NSNT
+79, 3	276, 1-4	JAM	oedd fi yn credu	NSNT	NSNT
+79, 4	276, 5-11	JAM	oedd un byti tair punt yn tsiepach	NSNT	NSNT
+79, 5	277, 1-15	JAM	ond o'n i ddim moyn cael e o ryw le fi erioed wedi clywed am	NSNT	NSNT
+79, 6	279, 1-7	JAM	timod *Comet* pawb wedi clywed am *Comet*	NST	NST
+79, 7	280, 1-7	JAM	ond o'n i siarad gyda *Mam* neithiwr	NST	NST
+79, 8	281, 1-6	JAM	a mae hi wedi cael e	NSNT	NSNT
+79, 9	282, 1-5	JAM	oedd hi bach yn *upset*	NST	NST
+79, 10	283, 1-10	JAM	achos *er* dyma beth fi moyn amdan y Nadolig ife	NST	NST
+79, 11	284, 1-8	JAM	achos mae fe yn cant *yeah* cant saith_deg	---	NST
+
+
+80, 1	285, 1-3	MEI	mae hwnna un	NSNT	NSNT
+80, 2	286, 1-6	MEI	dyna gyd ti mynd i gael	---	NSNT
+
+
+81, 1	287, 1-6	JAM	timod *yeah* basically that's it ife	NST	ST
+81, 3	289, 1-11	JAM	ond *um* oedd *mam* fi ddim yn sylweddoli pa mor fach	NST	NST
+81, 4	289, 12-13	JAM	oedd e	NSNT	NSNT
+81, 5	290, 1-4	JAM	a wedodd hi timod	NSNT	NSNT
+81, 7	292, 1-13	JAM	fel yf i mynd i gael Nadolig a *just* roi hwn i ti	NST	NST
+81, 9	294, 1-5	JAM	bydde fe yn edrych yn	SNT	NSNT
+81, 10	295, 1-3	JAM	*so* *um* *yeah*	---	NST
+
+
+82, 1	296, 1-5	MEI	ond mae *sure* gei di	NST	NST
+82, 2	297, 1-9	MEI	mae pawb yn cael boxer *shorts* a socks a	---	ST
+
+
+83, 1	299, 1-2	JAM	fel arfer	NSNT	NSNT
+83, 2	299, 4-9	JAM	pâr o *jeans* a *top* *nice*	NST	NST
+83, 3	300, 1-7	JAM	falle pâr o sgidie a *bits* fel	NST	NST
+83, 4	301, 1-12	JAM	bach yn *sad* ond fi yn casglu *Guinness* World timod *Guinness* *Book_Of_Records*	---	ST
+
+
+84, 1	302, 1-2	MEI	a fi	NSNT	NSNT
+84, 2	303, 1-6	MEI	pa flwyddyn sy gen ti o	---	NSNT
+
+
+85, 1	304, 1-3	JAM	yt ti really	SNT	SNT
+85, 2	305, 1-6	JAM	*oh* *um* dechreuais i yn naw_deg_wyth	---	NST
+
+
+86, 1	306, 1-4	MEI	naw_deg_tri sy gen i	---	NSNT
+
+
+87, 1	307, 1-4	JAM	*serious* beth yw e	NST	NST
+87, 3	309, 1-9	JAM	o'n o'n i *just* wedi cael e un flwyddyn	NST	NST
+87, 5	312, 1-15	JAM	a wedyn daeth e yn traddodiad bod fi yn cael e am Nadolig bob blwyddyn	---	NSNT
+
+
+88, 1	313, 1-2	MEI	a fi	NSNT	NSNT
+88, 2	314, 1-3	MEI	yr un *yeah*	---	NST
+
+
+89, 1	315, 1-3	JAM	ond *um* mae	NST	NST
+89, 2	316, 1-8	JAM	o'n i ddim yn gwybod pryd dechreuais i	NSNT	NSNT
+89, 3	317, 1-9	JAM	ond oedd yn nhad i yn casglu nhw hefyd	---	NSNT
+
+
+90, 1	318, 1-3	MEI	*so* gen ti	---	NST
+
+
+91, 1	319, 1-6	JAM	oedd o'n i ddim yn gwybod	NSNT	NSNT
+91, 2	320, 1-5	JAM	a wedyn ffindiais i mas	NSNT	NSNT
+91, 3	321, 1-6	JAM	*well* o'n i lawr tŷ mam_gu	NST	NST
+91, 4	322, 1-3	JAM	a wedodd hi	NSNT	NSNT
+91, 5	323, 1-11	JAM	Duw mae peth o rheina gyda ni lan lan lan *loft*	NST	NST
+91, 6	324, 1-4	JAM	a es i lan	NSNT	NSNT
+91, 7	325, 1-9	JAM	a mae gyda nhw rai tad fi o tua	NSNT	NSNT
+91, 8	325, 10-19	JAM	timod mil naw saith_deg mil naw chwech_deg_naw pethau fel yna	NSNT	NSNT
+91, 9	327, 1-8	JAM	*yeah* *so* mae eitha casgliad gyda fi nawr	---	NST
+
+
+92, 1	328, 1-4	MEI	*oh* *ah* because dyna	ST	ST
+92, 2	329, 1-6	MEI	my dream ydy byw mewn mansion	SNT	SNT
+92, 3	329, 7-10	MEI	pan dw i hŷn	---	NSNT
+
+
+93, 1	330, 1-2	JAM	a cael	---	NSNT
+
+
+94, 1	331, 1-2	MEI	cael llyfrgell	NSNT	NSNT
+94, 3	333, 1-9	MEI	a hefo nhw gyd ar y *top* fel yna	NST	NST
+94, 5	335, 1-5	MEI	ti wedi edrych arnyn nhw	NSNT	NSNT
+94, 6	336, 1-8	MEI	mae rai hen gymaint gwell na rai newydd	NSNT	NSNT
+94, 7	337, 1-4	MEI	ti gwybod rhai newydd	---	NSNT
+
+
+95, 1	338, 1-7	JAM	*yeah* mae yr *records* newydd bach yn	---	NST
+
+
+96, 1	339, 1-2	MEI	yn *stupid*	ST	NST
+96, 2	341, 1-20	MEI	how many the *record* of the amount of cheese one *can* put in his ear a *stuff* fel yna timod	NST	ST
+96, 4	343, 1-4	MEI	pwy sy yn care_io	SNT	SNT
+96, 5	344, 1-7	MEI	timod ti isio the world tallest man	SNT	SNT
+96, 7	346, 1-4	MEI	pawb yn licio yna	NSNT	NSNT
+96, 8	348, 1-5	MEI	*um* gen ti fattest people	ST	ST
+96, 9	349, 2-2	MEI	dyna	NSNT	NSNT
+96, 10	349, 3-6	MEI	mae pobl isio darllen	---	NSNT
+
+
+97, 1	350, 1-17	JAM	*yeah* ti ti wedi gweld y dau y dau bloke yna sy eistedd ar *er* *motorbikes* *yeah*	---	ST
+
+
+98, 1	351, 1-3	MEI	ar y *motorbikes*	ST	NST
+98, 2	352, 1-3	MEI	fifties yn *America*	---	ST
+
+
+99, 1	354, 1-10	JAM	ond oedd o'n nhw arfer darlledu raglen nag yn nhw	NSNT	NSNT
+99, 2	355, 1-2	JAM	y *Guinness_World_Records*	---	NST
+
+
+100, 1	356, 1-3	MEI	the *Guinness_World_Records* oedd	NST	ST
+100, 2	357, 1-5	MEI	oedd hwnna yn dda hwnna	---	NSNT
+
+
+101, 1	358, 1-7	JAM	o'n i o'n i joio watsio hwnna	NSNT	NSNT
+101, 3	360, 1-9	JAM	oedd ryw *foy* really tew wedi dod *er* mewn	NST	ST
+101, 5	362, 1-4	JAM	ar ei ben e	---	NSNT
+
+
+102, 1	363, 1-5	MEI	gallu roi ar ei ben	---	NSNT
+
+
+103, 1	365, 1-7	JAM	bod fe yn roi *cap* fe ymlaen	---	NST
+
+
+104, 1	366, 1-8	MEI	ti yn ti wedi clywed am y *boy*	NST	NST
+104, 2	367, 1-3	MEI	mae o because	SNT	SNT
+104, 3	367, 4-13	MEI	mae o mor confident na fo dy yr *boy* cryfa	NST	ST
+104, 4	368, 1-2	MEI	mae yn	NSNT	NSNT
+104, 5	368, 3-8	MEI	rhoid twenty thousand *dollars* i rhywun	NST	ST
+104, 6	368, 9-14	MEI	sy yn gallu curo *record* o	---	NST
+
+
+105, 1	369, 1-1	JAM	*serious*	---	NST
+
+
+106, 1	371, 1-10	MEI	because mae o mor confident na fo dy yr *person*	---	ST
+
+
+107, 1	372, 1-6	JAM	be o ran cryfder corfforol cyffredinol	---	NSNT
+
+
+108, 1	373, 1-10	MEI	cryfder *well* *yeah* efo yr gwddw a yr pen *yeah*	ST	NST
+108, 2	374, 1-8	MEI	because mae o wedi ti wedi weld o	NSNT	SNT
+108, 3	374, 9-17	MEI	pan mae yn roi *Mini* ar ei ben o	NST	NST
+108, 4	376, 1-8	MEI	a wnaeth o wneud o mewn shopping centre	---	SNT
+
+
+109, 1	377, 1-1	JAM	dofe	NSNT	NSNT
+109, 2	379, 1-13	JAM	o'n i wedi weld e ar *er* oedd e ar *Guinness_World_Records* wneud hwnna	ST	NST
+109, 3	380, 1-2	JAM	pretty *cool*	ST	NST
+109, 4	381, 2-7	JAM	oedd ryw rhaglen arall hefyd *um*	NST	NST
+109, 5	381, 8-12	JAM	oedd yn eitha tebyg *Ripley's_Believe_It_Or_Not*	---	NST
+
+
+110, 1	382, 1-7	MEI	*yeah* mae rheina yn rai *odd* hefyd	---	NST
+
+
+111, 1	383, 1-8	JAM	o'n i o'n i yn joio hwnnw hefyd	NSNT	NSNT
+111, 2	384, 1-10	JAM	oedd *oh* *yeah* o'n nhw bach fwy *odd* na *Guinness_World_Records*	---	NST
+
+
+112, 1	385, 1-4	MEI	*yeah* rhai nhw oedd	---	NST
+
+
+113, 1	386, 1-4	JAM	oedd rhyw pethau peth	NSNT	NSNT
+113, 2	387, 1-8	JAM	*oh* un o nhw yn really good *um*	NST	ST
+113, 3	388, 1-6	JAM	the world's biggest *elastic* *band* *ball*	ST	NST
+113, 4	389, 1-5	JAM	o't ti wedi gweld hwnna	---	NSNT
+
+
+114, 1	390, 2-4	MEI	a wnaeth o	---	NSNT
+
+
+115, 1	391, 1-5	JAM	taflu fe mas o awyren	---	NSNT
+
+
+116, 1	393, 1-4	MEI	a wnaeth o dim_byd	---	NSNT
+
+
+117, 1	394, 1-7	JAM	na oedd e bach yn useless really	SNT	SNT
+117, 2	394, 8-10	JAM	nag oedd e	NSNT	NSNT
+117, 4	396, 1-7	JAM	o'n nhw wedi disgwyl rhyw explosion fawr	NSNT	SNT
+117, 5	398, 1-10	JAM	neu bod e yn naill ai yn bownsio really uchel	NSNT	SNT
+117, 7	400, 1-8	JAM	a wnaeth e *just* wneud twll bach a	---	NST
+
+
+118, 1	403, 1-5	MEI	ond *er* y *thing* ydy	NST	NST
+118, 2	404, 1-4	MEI	ti darllen rhai *records*	NST	NST
+118, 3	405, 1-9	MEI	fel *um* *er* most weight lifted by your eyelids	ST	ST
+118, 4	406, 1-7	MEI	a ti meddwl sut ti yn dysgu	---	NSNT
+
+
+119, 1	408, 1-5	JAM	*yeah* pam fyddet ti yn	---	NST
+
+
+120, 1	410, 1-2	MEI	pam fyset	---	NSNT
+
+
+121, 1	411, 1-1	JAM	mae	NSNT	NSNT
+121, 2	411, 2-10	JAM	mae raid fod e wedi dihuno lan un bore	NSNT	NSNT
+121, 3	412, 1-7	JAM	*right* fi moyn mynd mewn i *Guinness_Book_Of_Records*	NST	NST
+121, 4	413, 1-18	JAM	am y blwyddyn am y tair blwyddyn nesa fi mynd i ymarfer codi *stuff* lan gyda yn eyelids	ST	ST
+121, 8	417, 1-4	JAM	ond mae fe yn	NSNT	NSNT
+121, 9	417, 5-15	JAM	mae fe yn mynd yn *lot* fwy nawr fi yn credu	NST	NST
+121, 10	418, 1-9	JAM	achos fi ddim gwybod os wnest ti wylio *um*	NST	NST
+121, 11	419, 1-8	JAM	oedd rhaglen ymlaen yn dod o Canolfan Mileniwm	NSNT	NSNT
+121, 12	420, 1-7	JAM	*um* a timod ar blaen y Canolfan	NST	NST
+121, 13	420, 8-15	JAM	mae yn dweud in these stones horizons sing	SNT	SNT
+121, 14	421, 1-3	JAM	timod geiriau *er*	NST	NST
+121, 15	423, 1-5	JAM	ffili cofio ei enw ddi	NSNT	NSNT
+121, 16	424, 1-5	JAM	*Gwyneth* neu rywbeth fel yna	NST	NST
+121, 17	425, 1-11	JAM	a o'n nhw wedi newid y stones y *graphic* i *Jones*	NST	ST
+121, 18	427, 1-8	JAM	a wnaethon nhw ryw gyngerdd *gala* *um* *Jones_Jones_Jones*	NST	NST
+121, 19	427, 9-9	JAM	yn_dofe	NSNT	NSNT
+121, 20	428, 1-3	JAM	a dyna beth	NSNT	NSNT
+121, 21	428, 4-6	JAM	oedd pwrpas hwnna	NSNT	NSNT
+121, 22	428, 7-11	JAM	oedd torri *Guinness* world *record*	---	ST
+
+
+122, 1	429, 1-3	MEI	wnest ti glywed	NSNT	NSNT
+122, 2	430, 1-2	MEI	wnaeth *um*	NST	NST
+122, 3	430, 3-6	MEI	wnaeth rywun alw *taxi*	NST	NST
+122, 4	431, 1-5	MEI	wnaeth y *boy* ddeud *um*	ST	NST
+122, 5	432, 1-4	MEI	*taxi* for *Jones* *please*	---	NST
+
+
+123, 1	433, 1-2	JAM	*oh* *dear*	ST	NST
+123, 3	435, 1-5	JAM	on the *spot* oedd hwnna	---	ST
+
+
+124, 1	436, 1-5	MEI	na oedd hwnna ar *Jonathan*	---	NST
+
+
+125, 1	439, 1-5	JAM	oedd *Glyn* ar *Jonathan* *er*	NST	NST
+125, 2	439, 6-10	JAM	pryd oedd e wythnos ddiwetha	---	NSNT
+
+
+126, 1	440, 1-4	MEI	mae o yn fruitcake	NSNT	SNT
+126, 4	443, 1-6	MEI	few *sandwiches* *short* of a *picnic*	---	NST
+
+
+127, 1	445, 1-3	JAM	timod y *boy*	NST	NST
+127, 2	446, 1-4	JAM	beth yw enw yr	NSNT	NSNT
+127, 3	447, 1-5	JAM	mae tair *boy* ar *Jonathan*	NST	NST
+127, 4	447, 6-8	JAM	nag oes e	---	NSNT
+
+
+128, 1	448, 1-5	MEI	oes *er* *er* *um* *Rowland*	NST	NST
+128, 2	450, 1-5	MEI	mae *boy* yna yn funny	---	ST
+
+
+129, 1	451, 1-4	JAM	ydy e yn hoyw	---	NSNT
+
+
+130, 1	452, 1-4	MEI	*oh* na y llall	---	NST
+
+
+131, 1	453, 1-2	JAM	y llall	NSNT	NSNT
+131, 2	454, 1-3	JAM	mae un yn	NSNT	NSNT
+131, 3	454, 4-6	JAM	nag oes e	NSNT	NSNT
+131, 4	456, 1-10	JAM	achos o'n nhw wneud *jokes* amdano fe trwy yr nos	---	NST
+
+
+132, 1	457, 1-10	MEI	y *thing* *yeah* yn ond dw i ddim yn meddwl	NST	NST
+132, 2	457, 11-12	MEI	bod o	NSNT	NSNT
+132, 3	458, 1-4	MEI	dw i meddwl falle	NSNT	NSNT
+132, 4	458, 5-9	MEI	bod nhw *just* wneud o	---	NST
+
+
+133, 1	459, 1-3	JAM	o'n i byth	---	NSNT
+
+
+134, 1	460, 1-2	MEI	because mae	---	SNT
+
+
+135, 1	461, 1-7	JAM	o'n i byth yn meddwl bod e	NSNT	NSNT
+135, 2	462, 1-4	JAM	ond fi ddim gwybod	NSNT	NSNT
+135, 3	463, 1-8	JAM	mae fe yn edrych eitha *realistic* y ffordd	NST	NST
+135, 4	463, 9-17	JAM	mae fe yn ymateb i yr *jokes* a pethau	---	NST
+
+
+136, 1	466, 1-7	MEI	ond efallai *just* mae nhw wedi penderfynu	ST	NST
+136, 2	467, 1-2	MEI	hang on	SNT	NSNT
+136, 3	468, 1-2	MEI	dan ni	NSNT	NSNT
+136, 4	469, 1-4	MEI	dylsan ni google_o fo	---	SNT
+
+
+137, 1	470, 1-3	JAM	*yeah* ffindo mas	NST	NST
+137, 2	472, 1-7	JAM	dim bod gymaint o ddiddordeb gyda fi	---	NSNT
+
+
+138, 1	476, 1-5	MEI	for the *record* dan ni	---	ST
+
+
+139, 1	477, 1-1	JAM	anyway	NSNT	NSNT
+139, 2	478, 1-3	JAM	for the *record*	ST	NST
+139, 3	479, 1-9	JAM	*oh* fi yn gweld be wnest ti fan yna	ST	NST
+139, 5	481, 1-3	JAM	for the *record*	---	NST
+
+
+140, 1	484, 1-6	MEI	*oh* *yeah* ti wedi gweld o	NST	NST
+140, 2	485, 1-3	MEI	a wedyn timod	NSNT	NSNT
+140, 3	485, 4-10	MEI	mae yn *real* really funny ar *Jonathan*	NST	ST
+140, 4	485, 11-11	MEI	dydy	NSNT	NSNT
+140, 5	486, 1-5	MEI	mae wneud *jokes* a *stuff*	NST	NST
+140, 6	488, 1-12	MEI	a wedyn ti yn gweld o ar dydd Sadwrn yn y *game*	NST	NST
+140, 7	489, 1-4	MEI	mae mor *serious* yn_dydy	NST	NST
+140, 8	490, 1-7	MEI	ti yn gweld o yn eistedd yna	NSNT	NSNT
+140, 9	492, 1-3	MEI	ti wedi sylwi	NSNT	NSNT
+140, 10	493, 1-3	MEI	a ti meddwl	NSNT	NSNT
+140, 11	494, 1-4	MEI	mae o yn dda	---	NSNT
+
+
+141, 1	495, 1-10	JAM	fi ddim pryd fi pryd fi yn wylio *game* Cymru	---	NST
+
+
+142, 1	496, 1-5	MEI	ti wedi wneud y *jokes*	---	NST
+
+
+143, 1	497, 1-9	JAM	fi ddim really yn sylwi ar *lot* o bobl	NST	ST
+143, 2	498, 1-12	JAM	yr unig *person* fi yn sylwi ar yw *er* yr un *Ray_Grav*	NST	NST
+143, 3	499, 1-6	JAM	beth byddai *game* Cymru hebddo fe	NST	NST
+143, 4	500, 1-10	JAM	a yr *boy* yna sy yn dod ymlaen hanner amser	NST	NST
+143, 5	500, 11-18	JAM	sy wastad yn feddw o yr commentary *box*	ST	ST
+143, 6	501, 1-2	JAM	timod *boy*	NST	NST
+143, 7	502, 1-6	JAM	mae wastad mewn *suit* a *tie*	NST	NST
+143, 8	503, 1-3	JAM	mae fe yn	NSNT	NSNT
+143, 9	503, 4-6	JAM	mae fe yn	NSNT	NSNT
+143, 10	503, 7-19	JAM	mae fe yn wneud commentary cyn y *game* a yn yr interval a	NST	ST
+143, 11	504, 1-4	JAM	a mae fe wastad	---	NSNT
+
+
+144, 1	505, 1-3	MEI	ar be S_pedwar_C	---	NSNT
+
+
+145, 1	507, 1-5	JAM	mae wastad yn swno fel	NSNT	NSNT
+145, 2	507, 6-8	JAM	fasai yn feddw	NSNT	NSNT
+145, 3	508, 1-3	JAM	na heb sylwi	---	NSNT
+
+
+146, 1	511, 1-4	MEI	*boy* efo *er* barf	---	NST
+
+
+147, 1	512, 1-9	JAM	*um* na fi ddim credu bod barf gyda fe	---	NST
+
+
+148, 1	513, 1-6	MEI	un o yr de dy o	NSNT	NSNT
+148, 2	515, 1-10	MEI	*yeah* mae nhw gyd yn dodgy o yr de yn_dydy	---	ST
+
+
+149, 1	516, 1-1	JAM	*sorry*	---	NST
+
+
+150, 1	517, 1-9	MEI	mae nhw gyd yn bobl dodgy o yr de	---	SNT
+
+
+151, 1	518, 1-7	JAM	be ti yn trio gweud yn gwmws	---	NSNT
+
+
+152, 1	519, 1-1	MEI	dim_byd	---	NSNT
+
+
+153, 1	520, 1-1	JAM	anyway	SNT	NSNT
+153, 3	523, 1-2	JAM	*so* *snooker*	ST	NST
+153, 4	524, 1-8	JAM	pwy amser ni mynd i chwarae *snooker* anyway	---	ST
+
+
+154, 1	525, 1-2	MEI	ar_ôl hwn	---	NSNT
+
+
+155, 1	526, 1-2	JAM	syth ife	---	NSNT
+
+
+156, 1	527, 1-7	MEI	dan ni ddim wedi gwrando i cyfansoddi	---	NSNT
+
+
+157, 1	528, 1-6	JAM	be ni am angen gwrando i	---	NSNT
+
+
+158, 1	529, 1-3	MEI	dw ddim gwybod	NSNT	NSNT
+158, 2	529, 4-7	MEI	wnes i ddim edrych	NSNT	NSNT
+158, 4	531, 1-3	MEI	fedran ni ffonio	NSNT	NSNT
+158, 5	532, 1-3	MEI	wnawn ni ffonio	NSNT	NSNT
+158, 6	533, 1-6	MEI	a wedyn awn ni lawr yna	NSNT	NSNT
+158, 7	534, 1-3	MEI	wnawn ni weld	NSNT	NSNT
+158, 8	534, 4-7	MEI	os mae *Toby* yna	NST	NST
+158, 9	535, 1-4	MEI	a geith o ddweud	NSNT	NSNT
+158, 10	535, 5-11	MEI	be dan ni fod i wrando i	---	NSNT
+
+
+159, 1	537, 1-7	JAM	be ffono a mynd i gwrando cynta	---	NSNT
+
+
+160, 1	538, 1-5	MEI	*yeah* ti isio wneud o	---	NST
+
+
+161, 1	540, 1-2	JAM	faswn i	NSNT	NSNT
+161, 2	540, 3-10	JAM	os faswn i wedi dod â yr *hub*	---	NST
+
+
+162, 1	541, 1-1	MEI	*aye*	ST	NST
+162, 2	543, 1-4	MEI	fasai ddim yn gweithio	NSNT	NSNT
+162, 3	543, 5-8	MEI	dw ddim yn meddwl	---	NSNT
+
+
+163, 1	545, 1-5	JAM	mae raid bod nhw wedi	NSNT	NSNT
+163, 4	549, 1-6	JAM	fi ddim wedi cael bwyd heddi	---	NSNT
+
+
+164, 1	550, 1-3	MEI	ti efo annwyd	---	NSNT
+
+
+165, 1	551, 1-1	JAM	*sorry*	---	NST
+
+
+166, 1	552, 1-3	MEI	ti efo annwyd	NSNT	NSNT
+166, 2	553, 1-3	MEI	ti swnio *right*	---	NST
+
+
+167, 1	554, 1-3	JAM	fi ddim gwybod	NSNT	NSNT
+167, 2	555, 1-5	JAM	fi yn credu bod fi	NSNT	NSNT
+167, 3	556, 1-7	JAM	achos mae trwyn fi yn eitha snuffy	SNT	SNT
+167, 4	557, 1-15	JAM	*um* o'n i wedi mynd i gwaith bore yma hanner awr wedi saith heb bwyd	NST	NST
+167, 6	559, 1-13	JAM	*so* fi wedi cael fel darn o tost ar_ôl dod yn_ôl o gwaith	NST	NST
+167, 7	560, 1-5	JAM	o'n i wedi blino gymaint	NSNT	NSNT
+167, 8	561, 1-14	JAM	o'n i *just* wedi mynd i gwely am awr fach cyn mynd i côr	---	NST
+
+
+168, 1	562, 1-5	MEI	mae *naps* yn brilliant though	---	ST
+
+
+169, 1	563, 1-4	JAM	*oh* fi yn dwli	---	NST
+
+
+170, 1	564, 1-9	MEI	mae *naps* yn well na actual cysgu yn iawn	---	ST
+
+
+171, 1	565, 1-1	JAM	ydyn	NSNT	NSNT
+171, 2	566, 1-5	JAM	fi yn dwli arnyn nhw	NSNT	NSNT
+171, 3	567, 1-12	JAM	*just* fel ti yn gwybod dylet ti dim fod yn wneud e	---	NST
+
+
+172, 1	568, 1-4	MEI	*yeah* dw i meddwl	NST	NST
+172, 2	568, 5-6	MEI	dyna *yeah*	---	NST
+
+
+173, 1	570, 1-5	JAM	wedyn timod pobl yn Sbaen	NSNT	NSNT
+173, 2	570, 6-12	JAM	mae nhw yn cael y luxury hyn	NSNT	SNT
+173, 3	571, 1-8	JAM	fi yn credu dylai fe dod yn gyfreithlon	NSNT	NSNT
+173, 4	571, 9-14	JAM	bod pawb yn gorfod cael siesta	---	SNT
+
+
+174, 1	572, 1-2	MEI	*thing* ydy	NST	NST
+174, 2	573, 1-7	MEI	mae siopau fan yna nhw nhw yn	NSNT	NSNT
+174, 3	573, 8-12	MEI	agored tan hanner nos yn_dydy	---	NSNT
+
+
+175, 1	574, 1-2	JAM	be Sbaen	---	NSNT
+
+
+176, 1	575, 1-6	MEI	*yeah* because mae nhw yn dweud	NST	ST
+176, 2	575, 7-10	MEI	bod o yn dda	NSNT	NSNT
+176, 3	577, 3-5	MEI	mae siopau yn	NSNT	NSNT
+176, 4	577, 6-8	MEI	agored tan ddeuddeg	NSNT	NSNT
+176, 5	578, 1-7	MEI	na dylsan nhw wneud o fan yma	NSNT	NSNT
+176, 6	579, 1-9	MEI	ond mae pobl yn gorfod gweithio tan ddeuddeg yn_does	---	NSNT
+
+
+177, 1	582, 1-8	JAM	*yeah* os ti meddwl am fe fel yna	NST	NST
+177, 2	583, 1-8	JAM	mae rywbeth eitha backwards am Sbaen yn_does e	NSNT	SNT
+177, 4	585, 1-14	JAM	*so* yn lle defnyddio yr diwrnod i wneud beth dylet ti wneud mewn diwrnod	NST	NST
+177, 5	586, 1-10	JAM	mae nhw yn cysgu hanner ffordd trwodd a wedyn *yeah*	---	NST
+
+
+178, 1	588, 1-2	MEI	*oh* dyna	NST	NST
+178, 2	588, 3-10	MEI	mae nhw yn dweud ti fod i wneud	NSNT	NSNT
+178, 3	588, 11-11	MEI	ynde	---	NSNT
+
+
+179, 1	589, 1-1	JAM	dofe	---	NSNT
+
+
+180, 1	590, 1-3	MEI	ideally yn mae	NSNT	SNT
+180, 2	590, 4-8	MEI	be mae pump awr o	NSNT	NSNT
+180, 3	590, 9-16	MEI	gwsg yn ddigon a wedyn *nap* canol dydd	---	NST
+
+
+181, 1	591, 1-6	JAM	i yn hoffi yr syniad yna	NSNT	NSNT
+181, 2	592, 1-8	JAM	bydd raid fi trio perswado yn fam fi	NSNT	NSNT
+181, 3	592, 9-14	JAM	bod hwnna yn *er* syniad da	---	NST
+
+
+182, 1	593, 1-7	MEI	dw i wneud o ar dydd Sadwrn	SNT	NSNT
+182, 2	594, 1-6	MEI	because dw i gweithio am chwech	NSNT	SNT
+182, 3	596, 1-12	MEI	wedyn dw i methu mynd i gysgu tan o leia hanner nos	NSNT	NSNT
+182, 4	597, 1-8	MEI	*so* ti cael ryw pump awr o gwsg	NST	NST
+182, 5	599, 1-8	MEI	gweithio tan bedwar awr a hanner o *nap*	NST	NST
+182, 6	600, 1-3	MEI	mae yn brilliant	---	SNT
+
+
+183, 1	602, 1-1	JAM	*cool*	---	NST
+
+
+184, 1	603, 1-4	MEI	ond mae yn dibynnu	SNT	NSNT
+184, 2	604, 1-7	MEI	because weithiau ti gallu codi o *nap*	NST	ST
+184, 3	605, 1-4	MEI	a ti yn shattered	---	SNT
+
+
+185, 1	606, 1-4	JAM	*yeah* ti *just* ddim	---	NST
+
+
+186, 1	607, 1-6	MEI	a difaru actually cael y *nap*	NST	ST
+186, 2	609, 1-4	MEI	neu ti gallu deffro	---	NSNT
+
+
+187, 1	610, 1-1	JAM	refreshed	---	NSNT
+
+
+188, 1	614, 1-5	MEI	*oh* mae yr *Ashes* rwan	NST	NST
+188, 2	614, 6-8	MEI	sy yn good	---	SNT
+
+
+189, 1	615, 1-1	JAM	*Ashes*	---	NST
+
+
+190, 1	616, 1-4	MEI	dechrau eto dydd Gwener	---	NSNT
+
+
+191, 1	617, 1-1	JAM	boring	---	NSNT
+
+
+192, 1	618, 1-1	MEI	boring	SNT	NSNT
+192, 2	620, 1-4	MEI	ti yn dallt o	NSNT	NSNT
+192, 3	621, 1-4	MEI	ti yn dallt *cricket*	---	NST
+
+
+193, 1	622, 1-5	JAM	fi yn dallt *cricket* *just*	---	NST
+
+
+194, 1	623, 1-6	MEI	ti yn dallt pobl rheol yno	SNT	NSNT
+194, 2	625, 1-10	MEI	because dyna pam dy rhai pobl ddim yn mwynhau o	SNT	SNT
+194, 3	626, 1-5	MEI	because mae nhw yn dweud	NSNT	SNT
+194, 4	626, 6-9	MEI	bod nhw dallt o	NSNT	NSNT
+194, 5	627, 1-7	MEI	ond dyn nhw ddim yn dallt bob	NSNT	NSNT
+194, 6	627, 9-14	MEI	dyn nhw ddim dallt bob peth	NSNT	NSNT
+194, 7	628, 1-14	MEI	a mae yr details bach yna *right* bwysig ar sut ti yn mwynhau o	---	ST
+
+
+195, 1	629, 1-6	JAM	fel rho enghraifft o detail bach	NSNT	SNT
+195, 2	629, 7-9	JAM	sy yn bwysig	---	NSNT
+
+
+196, 1	630, 1-5	MEI	*yeah* dw i yn gwybod	---	NST
+
+
+197, 1	631, 1-3	JAM	come on *Meirion*	---	NST
+
+
+198, 1	632, 1-3	MEI	*just* y rheolau	NST	NST
+198, 2	633, 1-6	MEI	ti ti dallt be dy *l_b_w*	---	NST
+
+
+199, 1	634, 1-8	JAM	fi yn gwybod *er* *l_b_w* *leg* before *wicket*	---	ST
+
+
+200, 1	635, 1-6	MEI	a be mae hwnna yn golygu	---	NSNT
+
+
+201, 1	636, 1-10	JAM	*well* os mae yr bêl yn taro dy goes di	NST	NST
+201, 2	637, 1-8	JAM	a mae coes ti o flaen y *wicket*	NST	NST
+201, 3	639, 1-4	JAM	*well* mae achos hynny	NST	NST
+201, 4	639, 5-5	JAM	yw	NSNT	NSNT
+201, 5	639, 6-11	JAM	os oedd coes ti ddim yna	NSNT	NSNT
+201, 6	640, 1-2	JAM	byddai yn	NSNT	NSNT
+201, 7	640, 3-9	JAM	byddai yr bêl wedi taro yr *wicket*	---	NST
+
+
+202, 1	641, 1-6	MEI	*yeah* ond wedyn y rheol timod	NST	NST
+202, 2	641, 7-11	MEI	mae pobl yn dweud hwnna	NSNT	NSNT
+202, 3	642, 1-4	MEI	ond mae yn dibynnu	NSNT	NSNT
+202, 4	642, 5-11	MEI	lle mae yr bêl yn actually bownsio	NSNT	SNT
+202, 5	643, 1-10	MEI	be mae yr bêl yn ei wneud i allu rhoi	NSNT	NSNT
+202, 7	645, 2-3	MEI	os timod	NSNT	NSNT
+202, 8	645, 4-9	MEI	mae yna *leg* a *off* *stump*	---	NST
+
+
+203, 1	646, 1-6	JAM	be y llun yna lle mae	---	NSNT
+
+
+204, 1	647, 1-3	MEI	timod y stumps	---	SNT
+
+
+205, 1	648, 1-8	JAM	*yeah* mae tua metre *line* gyda ti fel	---	ST
+
+
+206, 1	649, 1-2	MEI	tri a	---	NSNT
+
+
+207, 1	650, 1-4	JAM	hwnna be ti feddwl	---	NSNT
+
+
+208, 1	651, 3-7	MEI	mae yna gen ti stumps	SNT	SNT
+208, 2	653, 1-2	MEI	fel yna	NSNT	NSNT
+208, 3	654, 1-5	MEI	*well* mae yna *off* *stump*	ST	NST
+208, 4	655, 1-3	MEI	*so* *off* *stump*	ST	NST
+208, 5	656, 1-7	MEI	*just* dweud bod batsman yn llaw dde	NST	ST
+208, 6	657, 1-6	MEI	*so* hwn dy *off* *stump* o	NST	NST
+208, 7	658, 1-6	MEI	mae *leg* *stump* o fan yna	NST	NST
+208, 8	660, 1-10	MEI	a wedyn *so* ffordd arall *round* obviously os mae yn	NST	ST
+208, 9	662, 1-2	MEI	llaw chwith	NSNT	NSNT
+208, 10	663, 1-14	MEI	ond os mae yr bêl yn bownsio pitsio tu allan i yr *leg* *stump*	NST	NST
+208, 11	664, 1-4	MEI	does yna ddim ffordd	NSNT	NSNT
+208, 12	664, 5-8	MEI	fedra di fynd allan	NSNT	NSNT
+208, 13	665, 1-3	MEI	mae yn dibynnu	NSNT	NSNT
+208, 14	666, 1-7	MEI	*er* weithiau mae y bêl yn gorfod	NST	NST
+208, 15	667, 1-5	MEI	mae yna details fel *um*	NST	ST
+208, 16	668, 1-8	MEI	os dy yr *boy* ddim yn chwarae *shot*	NST	NST
+208, 17	669, 1-12	MEI	dy yr *boy* ddim yn gorfod bod dy o ddim yn gorfod	NST	NST
+208, 18	669, 13-17	MEI	bod *right* o_flaen y stumps	ST	ST
+208, 19	670, 1-2	MEI	os mae	NSNT	NSNT
+208, 20	671, 1-7	MEI	*just* dweud mae *boy* yn bowlio *spin*	NST	NST
+208, 21	673, 1-9	MEI	a ti ti yn padio fo ffwrdd fel yna	NSNT	NSNT
+208, 22	674, 1-5	MEI	a mae stumps fan yna	NSNT	SNT
+208, 23	675, 1-11	MEI	ond timod dy o ddim yn mynd i hitio yr stumps	SNT	SNT
+208, 24	676, 1-4	MEI	ond efallai bod o	NSNT	NSNT
+208, 25	678, 1-2	MEI	ffordd allan	NSNT	NSNT
+208, 26	679, 2-3	MEI	timod *stuff*	NST	NST
+208, 27	680, 1-9	MEI	mae yn anodd explain_io fo heb actually gweld o	NSNT	SNT
+208, 29	683, 1-5	MEI	ond *stuff* bach fel yna	---	NST
+
+
+209, 1	684, 1-6	JAM	ond ti yn chwarae *cricket* though	ST	ST
+209, 3	686, 1-7	JAM	nag yt ti wedi mynd i *er*	NST	NST
+209, 4	687, 1-7	JAM	est di i rywle i chwarae *cricket*	NST	NST
+209, 5	687, 8-8	JAM	dofe	---	NSNT
+
+
+210, 1	689, 1-5	MEI	Sofia_Gardens a wnaethon ni ennill	NSNT	SNT
+210, 4	692, 1-6	MEI	ni dy *team* gorau yng Nghymru	---	NST
+
+
+211, 1	693, 1-1	JAM	ond	---	NSNT
+
+
+212, 1	694, 1-6	MEI	dw i yn *captain* of the	---	ST
+
+
+213, 1	695, 1-10	JAM	est ti i rywle blwyddyn blwyddyn cyn diwetha neu rywbeth	---	NSNT
+
+
+214, 1	696, 1-6	MEI	*oh* *yeah* es i i *Australia*	---	NST
+
+
+215, 1	697, 1-2	JAM	dofe wir	---	NSNT
+
+
+216, 1	698, 1-5	MEI	dw i wedi dweud hi	---	NSNT
+
+
+217, 1	699, 1-7	JAM	*um* fi yn *sure* wedi clywed rywbeth	---	NST
+
+
+218, 1	700, 1-7	MEI	es i i *Australia* i chwarae *cricket*	---	NST
+
+
+219, 1	701, 1-1	JAM	dofe	NSNT	NSNT
+219, 2	703, 1-7	JAM	am am ba mor hir oedd hyn	---	NSNT
+
+
+220, 1	705, 1-6	MEI	o'n i am chwe mis yna	---	NSNT
+
+
+221, 1	707, 1-10	JAM	be be *just* troi lan a chwarae gyda *team* neu	---	NST
+
+
+222, 1	708, 1-2	MEI	*well* timod	NST	NST
+222, 2	708, 3-4	MEI	oedd o	---	NSNT
+
+
+223, 1	709, 1-4	JAM	chwarae dy hunan ar	NSNT	NSNT
+223, 2	709, 5-5	JAM	cae	---	NSNT
+
+
+224, 1	711, 1-3	MEI	*oh* oedd yna	NST	NST
+224, 2	711, 4-10	MEI	timod gynno fi cysylltiad efo ryw *boy*	NST	NST
+224, 3	711, 11-17	MEI	sy nabod *boy* yn chwarae i *club*	ST	NST
+224, 4	712, 1-7	MEI	*can* my friend play for your *club*	ST	NST
+224, 5	713, 1-1	MEI	a	---	NSNT
+
+
+225, 1	714, 1-2	JAM	*ah* *cool*	ST	NST
+225, 2	715, 1-13	JAM	*so* be ydyw e yr un peth mas fan yna wedyn â beth	NST	NST
+225, 3	715, 14-17	JAM	yw e fan hyn	---	NSNT
+
+
+226, 1	716, 1-2	MEI	na mae	NSNT	NSNT
+226, 2	716, 3-6	MEI	mae *game* yn wahanol	NST	NST
+226, 3	717, 1-3	MEI	ti ti chwarae	NSNT	NSNT
+226, 4	718, 1-8	MEI	mae un *game* yn parhau dau dydd Sadwrn	NST	NST
+226, 6	721, 1-14	MEI	ond *er* yn *Australia* ti faset ti yn batio *just* dweud un dydd Sadwrn	NST	NST
+226, 7	722, 1-11	MEI	a dydd Sadwrn wedyn ti yn bowlio i yr un *team*	NST	NST
+226, 8	723, 1-5	MEI	mae yr *game* yn hirach	---	NST
+
+
+227, 1	724, 1-14	JAM	na fydden nhw yn wneud e fel dros penwythnos dydd Sadwrn a dydd Sul	---	NSNT
+
+
+228, 1	726, 1-7	MEI	*well* a dweud hwnna ond mae pobl	NST	NST
+228, 2	726, 9-9	MEI	mae	NSNT	NSNT
+228, 3	726, 10-16	MEI	mae hwnna yn cymryd penwythnos ti i_gyd	NSNT	NSNT
+228, 4	726, 17-17	MEI	dydy	---	NSNT
+
+
+229, 1	727, 1-2	JAM	*yeah* sbo	---	NST
+
+
+230, 1	728, 2-9	MEI	mae nhw licio dydd Sul i ymlacio a	SNT	NSNT
+230, 2	730, 1-8	MEI	or a shrimp on the old barbie timod	---	SNT
+
+
+231, 1	733, 1-8	JAM	ŷn nhw yn cael barbies yn aml yna	---	SNT
+
+
+232, 1	735, 1-4	MEI	faset ti yn meddwl	SNT	NSNT
+232, 2	736, 1-5	MEI	*oh* *yeah* it's a stereotype	ST	NST
+232, 3	737, 1-6	MEI	mae nhw wastad yn cael *barbecues*	NST	NST
+232, 4	738, 1-7	MEI	ond mae nhw wastad yn cael *barbecues*	---	NST
+
+
+233, 1	739, 1-1	JAM	really	---	NSNT
+
+
+234, 1	740, 1-10	MEI	timod o'n i yn average_io dau bob wythnos yn hawdd	---	SNT
+
+
+235, 1	741, 1-3	JAM	dau bob wythnos	---	NSNT
+
+
+236, 1	743, 1-3	MEI	y *thing* ydy	NST	NST
+236, 2	744, 1-2	MEI	mae pobl	SNT	NSNT
+236, 3	745, 1-2	MEI	because mae	NSNT	SNT
+236, 4	746, 1-4	MEI	faswn i yn dweud	NSNT	NSNT
+236, 5	746, 5-12	MEI	mae pawb yn agosach fan yna hefo ffrindiau	NSNT	NSNT
+236, 6	748, 1-3	MEI	fasai pawb dweud	SNT	NSNT
+236, 7	749, 1-6	MEI	*oh* *yeah* we're having a *party*	NST	NST
+236, 8	750, 1-2	MEI	scrum *round*	ST	NST
+236, 9	751, 1-2	MEI	ond timod	NSNT	NSNT
+236, 10	751, 3-8	MEI	dyn nhw ddim yn dathlu dim_byd	SNT	NSNT
+236, 11	752, 1-7	MEI	*just* get together mae pawb fath â	---	ST
+
+
+237, 1	754, 2-9	JAM	mae fe yn dda i ti mewn ffordd	NSNT	NSNT
+237, 2	755, 1-16	JAM	fel *barbecue* os os ti wneud timod os ti *just* wneud cig a pethau fel yna	NST	NST
+237, 3	755, 17-21	JAM	bod ti ddim yn cael	---	NSNT
+
+
+238, 1	756, 1-5	MEI	timod ti ddim bwyta *rubbish*	ST	NST
+238, 2	757, 1-2	MEI	because mae	NSNT	SNT
+238, 3	757, 3-3	MEI	mae	NSNT	NSNT
+238, 4	757, 4-7	MEI	mae bwyd yn iawn	SNT	NSNT
+238, 5	759, 1-7	MEI	because ti wastad yn cael *salad* bach	NST	ST
+238, 6	760, 1-5	MEI	ti gael bach o gig	NSNT	NSNT
+238, 7	762, 1-10	MEI	yn dibynnu os ti ar y *Atkins* *diet* neu timod	---	NST
+
+
+239, 1	763, 1-5	JAM	neu os ti yn *er*	---	NST
+
+
+240, 1	764, 1-1	MEI	*Slimmers_World*	ST	NST
+240, 2	765, 1-9	MEI	mae nhw efo green days a red days yn_does	NSNT	SNT
+240, 3	767, 1-9	MEI	ti ddim yn cael bwyta cig ar un diwrnod	---	NSNT
+
+
+241, 1	768, 3-9	JAM	oedd *mam* fi ar rywbeth fel yna	NST	NST
+241, 2	769, 1-5	JAM	oedd e yn eitha *silly*	---	NST
+
+
+242, 1	770, 1-2	MEI	oedd *Mam*	NST	NST
+242, 2	771, 1-6	MEI	wnaeth o gweithio i *mam* ti	---	NST
+
+
+243, 1	772, 1-7	JAM	na oedd *Slimmers_World* ddim yn gweithio o_gwbl	NST	NST
+243, 3	774, 1-4	JAM	a wedyn oedd hi	NSNT	NSNT
+243, 4	774, 5-12	JAM	wedi bod arno fe am blwyddyn neu rywbeth	NSNT	NSNT
+243, 5	775, 1-2	JAM	a es	NSNT	NSNT
+243, 6	775, 3-6	JAM	aeth hi i *Weight_Watchers*	NST	NST
+243, 7	776, 1-10	JAM	a o_fewn tair wythnos oedd hi wedi colli deg *pound*	---	NST
+
+
+244, 1	777, 1-8	MEI	gwahanol because oedd *Mam* pretty much yr opposite	ST	ST
+244, 3	779, 1-3	MEI	*yeah* wnaeth *Weight_Watchers*	---	NST
+
+
+245, 1	780, 1-8	JAM	mae *just* fel corff *sure* o fod hefyd	---	NST
+
+
+246, 1	781, 1-4	MEI	*Slimmers_World* yn rhatach hefyd	---	NST
+
+
+247, 1	783, 1-12	JAM	a beth yt ti yn bwyta cyn bod ti yn dechrau a	---	NSNT
+
+
+248, 1	784, 1-9	MEI	*yeah* mae yn dibynnu pa mor *strict* ti hefyd	NST	NST
+248, 2	786, 1-10	MEI	a falle wnaeth *mam* fi ddim wneud *Weight_Watchers* yn iawn	NST	NST
+248, 3	787, 1-8	MEI	neu falle wnaeth *mam* ti ddim wneud *Slimmers_World*	NST	NST
+248, 4	788, 1-8	MEI	falle wnaeth hi ddim dilyn o yn iawn	NSNT	NSNT
+248, 5	789, 1-4	MEI	a dyna yr rheswm	NSNT	NSNT
+248, 6	791, 2-8	MEI	mae yn dibynnu pa mor *strict* ti	ST	NST
+248, 8	794, 1-3	MEI	because y *thing*	NST	ST
+248, 9	795, 1-2	MEI	dw i	NSNT	NSNT
+248, 10	795, 3-6	MEI	dw i *quite* lwcus	ST	NST
+248, 11	796, 1-5	MEI	because dw i ddim yn	NSNT	SNT
+248, 12	796, 6-8	MEI	roid pwysau ymlaen	NSNT	NSNT
+248, 13	797, 1-8	MEI	*so* mewn ffordd faset ti yn gallu dweud	NST	NST
+248, 14	798, 1-8	MEI	*oh* *yeah* dw i gallu bwyta *chocolates* i_gyd	NST	NST
+248, 15	799, 1-5	MEI	dw i ddim yn roi	---	NSNT
+
+
+249, 1	800, 1-22	JAM	o'n i o'n i actually yn meddwl bod ti wedi roi dau neu tri *pound* ar i fod yn *honest* â ti	---	ST
+
+
+250, 1	801, 1-4	MEI	pwysau ar fel yna	NSNT	NSNT
+250, 5	805, 1-7	MEI	ond *erm* na wnes i ddim dallt	NST	NST
+250, 6	806, 1-5	MEI	es i *dentist* wythnos dwytha	NST	NST
+250, 7	807, 1-3	MEI	o yn dweud	SNT	NSNT
+250, 8	808, 1-2	MEI	hang on	NSNT	NSNT
+250, 9	809, 1-7	MEI	are you eating a *lot* of *chocolates*	ST	NST
+250, 10	810, 1-4	MEI	a wnes i ddweud	SNT	NSNT
+250, 11	811, 1-2	MEI	*well* yes	NST	NST
+250, 13	813, 1-4	MEI	how *can* you guess	NST	NST
+250, 14	814, 1-6	MEI	*well* you know your teeth *eh*	ST	NST
+250, 15	815, 1-5	MEI	*so* raid fi stopio rwan	NST	NST
+250, 17	818, 1-5	MEI	o'n i licio fo though	SNT	SNT
+250, 19	820, 1-1	MEI	*nice*	---	NST
+
+
+251, 1	821, 1-14	JAM	*well* raid fod yn *honest* nag i yn bwyta *lot* o *chocolate* trwy adeg	---	NST
+
+
+252, 1	822, 1-7	MEI	na o'n i yn sylwi ar hynna	---	NSNT
+
+
+253, 1	823, 1-12	JAM	*um* *just* fi ddim yn cael urges fel o'n i yn arfer	---	ST
+
+
+254, 1	825, 1-2	MEI	meddai ti	NSNT	NSNT
+254, 2	825, 3-7	MEI	sy yn dweud ti cael	NSNT	NSNT
+254, 3	827, 1-6	MEI	dw i ddim yn licio *chocolate*	---	NST
+
+
+255, 1	828, 1-5	JAM	na ond dyna yr peth	NSNT	NSNT
+255, 2	829, 1-5	JAM	pryd o'n i yn fach	NSNT	NSNT
+255, 3	830, 1-8	JAM	o'n i yn bwyta *chocolate* trwy yr amser	NST	NST
+255, 4	832, 1-4	JAM	o'n i ffaelu stopo	NSNT	NSNT
+255, 5	833, 1-6	JAM	ond *just* mae fe *just* fel	NST	NST
+255, 6	833, 7-15	JAM	fasai fi wedi tyfu mas o fe mewn ffordd	NSNT	NSNT
+255, 7	834, 1-7	JAM	achos os os fi yn bwyta *chocolate*	NST	NST
+255, 8	835, 1-8	JAM	wna i cael rywbeth *nice* fel *Thorntons* neu	---	NST
+
+
+256, 1	836, 1-8	MEI	*oh* ti yn un fussy amdan y *chocolate*	---	ST
+
+
+257, 1	838, 1-7	JAM	neu neu *Double_Decker* neu rywbeth fel yna	ST	NST
+257, 2	839, 1-1	JAM	*nice*	---	NST
+
+
+258, 1	840, 1-4	MEI	be sy yn neisa	NSNT	NSNT
+258, 2	840, 5-9	MEI	ydy yr *er* *Lindl* *yeah*	---	NST
+
+
+259, 1	841, 1-1	JAM	*Lindt*	---	NST
+
+
+260, 1	842, 1-5	MEI	*Lindt* a rei coch a	---	NST
+
+
+261, 1	843, 1-7	JAM	*oh* fi yn gael rheina bob Nadolig	NST	NST
+261, 2	844, 1-6	JAM	a fel peli bach coch *yeah*	---	NST
+
+
+262, 1	845, 1-3	MEI	*oh* peli *yeah*	NST	NST
+262, 2	846, 1-5	MEI	*oh* mae rhain yn amazing	---	ST
+
+
+263, 1	847, 1-7	JAM	mae *Mam* yn prynu nhw bob Nadolig	---	NST
+
+
+264, 1	848, 1-7	MEI	ond mae nhw yn costio loads yn_dydy	---	SNT
+
+
+265, 1	849, 1-8	JAM	fi yn o'n i mynd i weud nawr	---	NSNT
+
+
+266, 1	850, 1-1	MEI	gymaint	---	NSNT
+
+
+267, 1	851, 1-3	JAM	mae nhw tua	NSNT	NSNT
+267, 2	852, 1-16	JAM	fi yn credu gei di tua deg siocled mewn *box* am rywbeth fel tri punt saith_deg_naw	NST	NST
+267, 3	853, 1-15	JAM	a timod dyw e dyw e ddim yn *lot* o gwbl deg siocled mewn *box*	---	NST
+
+
+268, 1	854, 1-2	MEI	dweud hwnna	NSNT	NSNT
+268, 2	855, 1-6	MEI	mae nhw yn *bloody* *nice* though	---	ST
+
+
+269, 1	856, 1-5	JAM	*oh* mae nhw yn stunning	ST	ST
+269, 2	857, 1-5	JAM	fi yn dwli arnyn nhw	NSNT	NSNT
+269, 3	858, 1-4	JAM	*Mam* yn prynu nhw	NST	NST
+269, 4	859, 1-5	JAM	timod fel fi ddim gwybod	NSNT	NSNT
+269, 5	859, 6-12	JAM	be ych chi yn wneud am Nadolig	NSNT	NSNT
+269, 6	860, 1-11	JAM	ond ar *er* *er* timod run_up i Nadolig tua mis cyn	NST	ST
+269, 7	860, 12-26	JAM	mae *Mam* yn prynu *box* o *chocolates* fan hyn *box* o *mint* *chocolates* fan yna	NST	NST
+269, 8	860, 27-38	JAM	a timod neu *um* *box* o cashew nuts neu pethau fel yna	NST	ST
+269, 9	861, 1-12	JAM	a wedyn ni yn cael nhw timod dros y tŷ amser Nadolig	---	NSNT
+
+
+270, 1	862, 1-3	MEI	*well* dw i	NST	NST
+270, 2	862, 4-12	MEI	mae *quite* *nice* ar y fel Nadolig i ni	NST	NST
+270, 4	864, 1-8	MEI	mae *Mam* a *Dad* yn gweithio mewn ysgol	NST	NST
+270, 5	866, 1-3	MEI	sy yn golygu	NSNT	NSNT
+270, 6	866, 4-8	MEI	mae plant yn roi anrhegion	---	NSNT
+
+
+271, 1	867, 1-5	JAM	*Mam* yn cael hwnna hefyd	---	NST
+
+
+272, 1	868, 1-9	MEI	a gyd ydy o potel o win neu *chocolate*	---	NST
+
+
+273, 1	869, 1-2	JAM	*yeah* ond	---	NST
+
+
+274, 1	870, 1-2	MEI	a dyna	NSNT	NSNT
+274, 2	870, 3-7	MEI	mae nhw yn gael *so*	---	NST
+
+
+275, 1	871, 1-8	JAM	faint o anrhegion mae dy fam yn cael	---	NSNT
+
+
+276, 1	872, 1-6	MEI	*Mam* yn cael mwy na *Dad*	NST	NST
+276, 2	873, 1-3	MEI	ysgrifenyddes dy *Mam*	NST	NST
+276, 3	874, 1-5	MEI	a mae *Dad* yn brifathro	---	NST
+
+
+277, 1	875, 1-11	JAM	*yeah* mae fe *sure* o fod yn cael loads dy dad	---	ST
+
+
+278, 1	876, 1-2	MEI	o *jocolate*	---	NST
+
+
+279, 1	877, 1-4	JAM	*well* anrhegion yn gyffredinol	---	NST
+
+
+280, 1	878, 1-4	MEI	dim gymaint â *Mam*	ST	NST
+280, 2	879, 1-9	MEI	because mae *Mam* *sort* of fel un o favourites	---	ST
+
+
+281, 1	880, 1-7	JAM	faint faint faint byddet ti yn gweud	NSNT	NSNT
+281, 2	880, 8-11	JAM	mae nhw yn cael	---	NSNT
+
+
+282, 1	881, 1-2	MEI	*oh* faint	---	NST
+
+
+283, 1	882, 1-1	JAM	guess	---	NSNT
+
+
+284, 1	883, 1-4	MEI	dw i ddim gwybod	---	NSNT
+
+
+285, 1	886, 1-3	JAM	timod pam achos	NSNT	NSNT
+285, 2	886, 4-6	JAM	mae yn ridiculous	SNT	SNT
+285, 3	887, 1-7	JAM	mae yn fam i *um* classroom assistant	ST	ST
+285, 4	887, 8-9	JAM	yw hi	NSNT	NSNT
+285, 5	888, 1-15	JAM	a mae yn dod â fel pob Nadolig a diwedd tymor gyda o leiaf *well*	NST	NST
+285, 6	889, 1-14	JAM	drwy yr Nadolig nawr bydd hi yn cael o leiaf tri_deg_pump anrheg bob blwyddyn	NSNT	NSNT
+285, 8	891, 1-3	JAM	*just* un *person*	NST	NST
+285, 9	892, 1-5	JAM	*just* i yn fam i	NST	NST
+285, 10	893, 1-4	JAM	ond mae yn ridiculous	---	SNT
+
+
+286, 1	894, 1-5	MEI	*well* mae yn dibynnu because	---	ST
+
+
+287, 1	895, 1-3	JAM	*bottle* o gwin	NST	NST
+287, 2	896, 1-6	JAM	timod *nice* gael gwin wrth gwrs	---	NST
+
+
+288, 1	897, 1-2	MEI	mae *yeah*	NST	NST
+288, 2	897, 3-5	MEI	mae yn dibynnu	SNT	NSNT
+288, 3	898, 1-12	MEI	because fel os o'n i *well* pan o'n i yn ysgol gynradd	NST	ST
+288, 4	899, 1-6	MEI	o'n i yn dweud i *Mam*	NST	NST
+288, 5	900, 1-8	MEI	*oh* dw i yn licio yr athrawes yma	NST	NST
+288, 6	901, 1-8	MEI	do'n i ddim yn licio yr athrawes yma	NSNT	NSNT
+288, 8	903, 1-8	MEI	timod y rhai do't ti ddim yn licio	NSNT	NSNT
+288, 9	904, 1-9	MEI	do'n i ddim yn rhoi dim_byd iddyn nhw Nadolig	NSNT	NSNT
+288, 10	905, 1-8	MEI	rhai ti yn licio ti yn rhoi *so*	NST	NST
+288, 11	907, 2-3	MEI	mae o	NSNT	NSNT
+288, 12	907, 4-9	MEI	mae *just* yn dibynnu pa mor	NST	NST
+288, 13	908, 1-3	MEI	isio bod yn	---	NSNT
+
+
+289, 1	909, 1-5	JAM	pawb yn licio *mam* fi	---	NST
+
+
+290, 1	910, 1-4	MEI	*well* *yeah* mae *sure*	NST	NST
+290, 2	910, 5-7	MEI	dyna dy o	---	NSNT
+
+
+291, 1	911, 1-6	JAM	*yeah* *um* *yeah* mae fe *nice*	NST	NST
+291, 2	912, 2-2	JAM	mae	NSNT	NSNT
+291, 3	912, 3-12	JAM	mae hi yn cael loads o pethau *silly* fel canhwyllau	---	ST
+
+
+292, 1	913, 1-4	MEI	dw i yn gwybod	---	NSNT
+
+
+293, 1	914, 1-5	JAM	dydy hi ddim really yn	---	SNT
+
+
+294, 1	915, 1-6	MEI	dw i ddim yn dallt canhwyllau	SNT	NSNT
+294, 2	916, 1-5	MEI	because mae *Mam* a *Dad*	NST	ST
+294, 3	916, 6-8	MEI	mae nhw licio	NSNT	NSNT
+294, 5	918, 1-6	MEI	na mae nhw roi nhw lounge	SNT	SNT
+294, 6	919, 1-3	MEI	a a timod	NSNT	NSNT
+294, 7	919, 4-7	MEI	mae nhw yn dweud	NSNT	NSNT
+294, 8	920, 1-4	MEI	*oh* mae mor relaxing	ST	ST
+294, 9	921, 1-4	MEI	dy o ddim yn	NSNT	NSNT
+294, 10	922, 1-2	MEI	a timod	SNT	NSNT
+294, 11	922, 3-6	MEI	it's a health hazard	---	NSNT
+
+
+295, 1	923, 1-6	JAM	be fi fi yn gallu deall	NSNT	NSNT
+295, 2	925, 1-3	JAM	mae fe yn	---	NSNT
+
+
+296, 1	926, 1-4	MEI	faswn i yn disgyn	---	NSNT
+
+
+297, 1	927, 1-5	JAM	bydde bydden i yn meddwl	NSNT	NSNT
+297, 2	927, 6-8	JAM	bod e yn	NSNT	NSNT
+297, 3	928, 1-3	JAM	*well* hynny yw	NST	NST
+297, 4	929, 1-5	JAM	mae *Mam* yn defnyddio canhwyllau	NST	NST
+297, 5	930, 1-8	JAM	a fi yn gweld bod fe yn relaxing	SNT	SNT
+297, 6	931, 1-5	JAM	os mae golau i_gyd *off*	NST	NST
+297, 7	932, 1-11	JAM	a ti dim_ond yn gweld golau yr cannwyll timod yn fflicro	NSNT	NSNT
+297, 8	933, 1-7	JAM	achos cliche ond mae fe yn actually	SNT	SNT
+297, 9	934, 1-8	JAM	os os taw dim_ond y gannwyll sy ar	---	NSNT
+
+
+298, 1	935, 1-14	MEI	dy o ddim yn chwarae efo llygadau ti a wneud ti yn fel yna	---	NSNT
+
+
+299, 1	937, 1-5	JAM	fi yn dwli arno fe	---	NSNT
+
+
+300, 1	938, 1-7	MEI	because efo *lamp* timod *lamp* golau yn	---	ST
+
+
+301, 1	939, 1-3	JAM	*bath* nawr canhwyllau	---	NST
+
+
+302, 1	940, 1-2	MEI	wyt ti	---	NSNT
+
+
+303, 1	941, 1-7	JAM	fi ddim yn wneud e nag *o_k*	NST	NST
+303, 4	945, 1-8	JAM	fi gael light up ducks yn y *bath*	---	ST
+
+
+304, 1	946, 1-3	MEI	light up be	---	SNT
+
+
+305, 1	947, 1-4	JAM	*yeah* *um* hwyaid bach	NST	NST
+305, 2	949, 1-5	JAM	a ti yn gwasgu bwtwn	NSNT	NSNT
+305, 3	950, 1-4	JAM	nhw yn waterproof obviously	SNT	SNT
+305, 5	952, 1-9	JAM	gwasgu bwtwn roi nhw yn y *bath* golau *off*	NST	NST
+305, 6	953, 1-6	JAM	a mae nhw yn goleuo lan	NSNT	NSNT
+305, 7	954, 1-9	JAM	a mae yr golau yn newid lliw fel fel	NSNT	NSNT
+305, 8	954, 10-14	JAM	timod fel *fibre* *optic* tree	ST	ST
+305, 9	955, 1-7	JAM	lle mae o yn raddol newid lliw	NSNT	NSNT
+305, 10	957, 1-8	JAM	mae nhw fel yna float_an yn y *bath*	NST	ST
+305, 11	958, 1-5	JAM	mae fe fel fel *jacuzzi*	NST	NST
+305, 12	959, 1-9	JAM	achos fod golau yn dod mas o yr dŵr	NSNT	NSNT
+305, 13	961, 1-2	JAM	eitha funky	---	SNT
+
+
+306, 1	962, 1-7	MEI	dw i byth yn cael *baths* rwan	---	NST
+
+
+307, 1	963, 1-5	JAM	*oh* na fi dim ots	---	NST
+
+
+308, 1	964, 1-1	MEI	x	---	NSNT
+
+
+309, 1	965, 1-6	JAM	pryd fydda i yn mynd adre	NSNT	NSNT
+309, 2	966, 1-5	JAM	fi wneud fwyaf o fe	NSNT	NSNT
+309, 4	968, 1-6	JAM	fel arfer fi yn anghofio wedyn	NSNT	NSNT
+309, 5	969, 1-8	JAM	a fi *just* cael cawod pryd fi adre	NST	NST
+309, 6	971, 1-10	JAM	*um* achos taw dim_ond cawod sy gyda ni fan hyn	---	NST
+
+
+310, 1	972, 1-3	MEI	mae *just* hassle	ST	ST
+310, 2	973, 1-6	MEI	timod pan ti ti efo cawod	NSNT	NSNT
+310, 3	974, 1-5	MEI	ti isio troi o on	SNT	SNT
+310, 4	975, 1-4	MEI	ti golchi dy hun	NSNT	NSNT
+310, 5	976, 1-2	MEI	ti mynd	NSNT	NSNT
+310, 6	977, 1-9	MEI	ond efo *bath* ti gwybod ti gorfod wneud dŵr	---	NST
+
+
+311, 1	978, 1-2	JAM	*yeah* peth	---	NST
+
+
+312, 1	979, 1-16	MEI	ti gorfod wneud *sure* bod o ddim digon poeth dim rhy boeth dim rhy oer a	---	NST
+
+
+313, 1	980, 1-2	JAM	peth yw	NSNT	NSNT
+313, 2	981, 1-8	JAM	os os fi yn pryd fi mynd adre	---	NSNT
+
+
+314, 1	982, 1-2	MEI	pobl *bath*	---	NST
+
+
+315, 1	983, 1-5	JAM	os fi yn cael *bath*	NST	NST
+315, 2	984, 1-8	JAM	nid cael e am pwrpas golchi ydw i	NSNT	NSNT
+315, 3	985, 1-10	JAM	fi yn cael cawod yn y bore i wneud hwnna	---	NSNT
+
+
+316, 1	989, 1-1	MEI	*massage*	ST	NST
+316, 2	990, 1-6	MEI	pam ti ddim yn cael *massage*	---	NST
+
+
+317, 1	991, 1-3	JAM	*well* rhy ddrud	---	NST
+
+
+318, 1	992, 1-1	MEI	dw	NSNT	NSNT
+318, 2	992, 2-2	MEI	dw	NSNT	NSNT
+318, 3	992, 3-6	MEI	dw ddim yn talu	NSNT	NSNT
+318, 4	993, 1-5	MEI	mae brawd fi wneud o	---	NSNT
+
+
+319, 1	995, 1-9	JAM	ella wnei di roi un i fi ym *Mangor*	NST	NST
+319, 3	997, 1-8	JAM	*oh* oes yna unrhyw beth diddorol yn y	NST	NST
+319, 4	998, 1-10	JAM	*well* fi *sure* mae *lot* o bethau diddorol mewn yna	---	NST
+
+
+320, 1	1000, 1-2	MEI	*thing* ydy	NST	NST
+320, 2	1001, 1-14	MEI	bob Nadolig penblwydd oes gen i byth syniad be i gael i cariad fi	NSNT	NSNT
+320, 3	1003, 1-6	MEI	be ti yn gael i nhw	SNT	NSNT
+320, 4	1004, 1-4	MEI	because ti allu dweud	NSNT	SNT
+320, 5	1005, 1-8	MEI	*oh* *just* cael earrings neu blodau ond timod	---	ST
+
+
+321, 1	1006, 1-8	JAM	yr un hen bethau trwy yr amser ife	---	NSNT
+
+
+322, 1	1008, 1-6	MEI	a ti trio bod yn original	SNT	SNT
+322, 2	1009, 1-6	MEI	a ti yn cael rywbeth iddi	NSNT	NSNT
+322, 3	1010, 1-5	MEI	a mae hi yn dweud	NSNT	NSNT
+322, 4	1011, 1-5	MEI	pam ti wedi gael o	NSNT	NSNT
+322, 5	1012, 1-4	MEI	a mae wedi backfire_io	SNT	SNT
+322, 6	1013, 1-3	MEI	a ti meddwl	NSNT	NSNT
+322, 7	1014, 1-5	MEI	ar y pryd ti prynu	NSNT	NSNT
+322, 8	1015, 1-3	MEI	a ti meddwl	SNT	NSNT
+322, 9	1016, 1-2	MEI	hang on	SNT	NSNT
+322, 10	1017, 1-4	MEI	wneith hi licio hwn	NSNT	NSNT
+322, 11	1017, 5-7	MEI	timod rywbeth original	SNT	SNT
+322, 12	1019, 1-3	MEI	betia i ti	NSNT	NSNT
+322, 13	1019, 4-6	MEI	bod hi yn	NSNT	NSNT
+322, 14	1020, 1-4	MEI	mae hi cael o	NSNT	NSNT
+322, 15	1021, 1-3	MEI	mae hi dweud	NSNT	NSNT
+322, 16	1022, 1-2	MEI	*oh* pam	---	NST
+
+
+323, 1	1024, 1-14	JAM	o'n i wedi wneud hwnna *um* pryd i yn gorffen ysgol i athrawon fi	NST	NST
+323, 2	1025, 1-3	JAM	o'n i meddwl	NSNT	NSNT
+323, 3	1026, 1-9	JAM	fi ddim really moyn prynu *bottle* o win neu	NST	ST
+323, 4	1027, 1-8	JAM	achos mae pawb yn mynd i wneud hynna	NSNT	NSNT
+323, 5	1029, 1-2	JAM	*so* meddwl	NST	NST
+323, 6	1030, 1-5	JAM	af i am rywbeth wahanol	NSNT	NSNT
+323, 7	1031, 1-12	JAM	*so* ryw clustdlysau *Celtic* really *nice* timod achos athrawon Cymraeg o'n nhw	NST	ST
+323, 8	1032, 1-7	JAM	a es i roi nhw i nhw	NSNT	NSNT
+323, 9	1033, 1-10	JAM	a *er* un o nhw timod really hoffi nhw lovely	ST	ST
+323, 10	1034, 1-7	JAM	*so* es i i yr un arall	NST	NST
+323, 11	1035, 1-8	JAM	a fel bod fi yn roi nhw iddi	NSNT	NSNT
+323, 12	1035, 9-11	JAM	es i sylwi	NSNT	NSNT
+323, 13	1035, 12-19	JAM	bod dim tyllau gyda hi yn ei chlustiau	NSNT	NSNT
+323, 14	1036, 1-10	JAM	*so* o'n i o'n i ddim gwybod beth i weud	NST	NST
+323, 15	1037, 1-14	JAM	*so* wnes i *just* dim dweud unrhyw beth a rhoi nhw iddi a mynd	---	NST
+
+
+324, 1	1039, 2-4	MEI	oedd *Dad* yn	NST	NST
+324, 2	1039, 5-9	MEI	oedd o yn chwarae *game*	NST	NST
+324, 3	1039, 10-15	MEI	pan oedd o yn yr ysgol	SNT	NSNT
+324, 4	1040, 1-3	MEI	because *er* timod	NST	ST
+324, 5	1040, 4-6	MEI	oedd y plant	NSNT	NSNT
+324, 6	1040, 7-12	MEI	oedden nhw yn perthyn i pobl	NSNT	NSNT
+324, 7	1040, 13-16	MEI	oedd biau *shops* gwahanol	NST	NST
+324, 8	1041, 1-8	MEI	*so* *er* wnaeth o gael un y cyntaf	NST	NST
+324, 9	1042, 1-8	MEI	wedyn *boy* oedd *er* dad o yn *butcher*	NST	NST
+324, 10	1043, 1-7	MEI	*so* *so* aeth o edrych arno fo	NST	NST
+324, 11	1045, 1-2	MEI	a teimlo	SNT	NSNT
+324, 12	1046, 1-3	MEI	*oh* come on	ST	NST
+324, 13	1047, 1-3	MEI	wnaeth o ddweud	NSNT	NSNT
+324, 14	1048, 1-3	MEI	*turkey* dy o	NST	NST
+324, 15	1049, 1-3	MEI	wnaeth o ddweud	NSNT	NSNT
+324, 16	1051, 1-4	MEI	Nadolig llawen i ti	NSNT	NSNT
+324, 17	1052, 1-13	MEI	a wedyn *um* a wedyn *er* *er* ffrind *er* rhyw *boy* arall wedyn	NST	NST
+324, 19	1054, 1-13	MEI	ac *er* oedd *mam* o yn gweithio biau ryw *shop* dillad fath â	NST	NST
+324, 20	1055, 1-5	MEI	a wedyn wnaeth o soft	SNT	SNT
+324, 21	1057, 1-5	MEI	a wnaeth o ddweud *er*	NST	NST
+324, 22	1058, 1-3	MEI	*jumper* dy o	NST	NST
+324, 23	1059, 1-3	MEI	a dweud *yeah*	ST	NST
+324, 24	1060, 1-2	MEI	*oh* *great*	ST	NST
+324, 25	1061, 1-7	MEI	*so* wedyn mae yr trydydd yn dod	NST	NST
+324, 26	1062, 1-5	MEI	a wedyn *um* mae gweld	NST	NST
+324, 27	1062, 6-15	MEI	bod *er* *mam* a *dad* o biau *er* *shop* gwin	NST	NST
+324, 28	1064, 1-6	MEI	*er* a wedyn oedd yna *box*	NST	NST
+324, 29	1064, 7-8	MEI	oedd yna	NSNT	NSNT
+324, 30	1065, 1-6	MEI	ond *er* oedd o yn dripio	NST	NST
+324, 31	1067, 1-4	MEI	oedd o yn dripian	NSNT	NSNT
+324, 32	1068, 1-3	MEI	wnaeth o ddweud	NSNT	NSNT
+324, 33	1069, 1-4	MEI	*oops* mae wedi torri	NST	NST
+324, 34	1070, 1-5	MEI	*bottle* o win dy o	NST	NST
+324, 35	1071, 1-2	MEI	na ci	---	NSNT
+
+
+325, 1	1072, 1-1	JAM	*uh*	---	NST
+
+
+326, 1	1074, 1-5	MEI	wnaeth hwnna ddim digwydd chwaith	---	NSNT
+
+
+327, 1	1075, 1-2	JAM	*oh* *dear*	ST	NST
+327, 2	1076, 1-8	JAM	mae nhw mynd yn waeth nag yn nhw	NSNT	NSNT
+327, 4	1078, 1-5	JAM	*just* yn rhedeg mas nawr	NST	NST
+327, 7	1081, 1-14	JAM	*so* *um* be am i ni wneud y gwaith gwrando yna nawr ife neu	NST	NST

@@ -1,0 +1,2399 @@
+
+
+1, 1	1, 1-3	COL	na os ti	---	NSNT
+
+
+2, 1	2, 1-2	SIO	no way	---	NSNT
+
+
+3, 1	3, 1-15	COL	os ti ddim yn cael *television* *licence* ti gallu plygio mewn mae dal yn rhedeg	NST	NST
+3, 2	6, 1-4	COL	*inspectors* ddod *round* de	NST	NST
+3, 3	6, 5-8	COL	dw ddim yn deud	---	NSNT
+
+
+4, 1	7, 1-5	SIO	ie ond mae o yn	---	NSNT
+
+
+5, 1	8, 1-10	COL	a mae *just* kind of o allan o yr ffenestr	---	ST
+
+
+6, 1	10, 1-3	MER	*off* the *record*	---	NST
+
+
+7, 1	11, 1-4	SIO	allan o yr ffenestr	---	NSNT
+
+
+8, 1	14, 1-8	MER	a wedyn *um* mi fysai fo *right* *handy*	NST	NST
+8, 2	14, 9-12	MER	fysai cael *M_P_three* player	---	ST
+
+
+9, 1	15, 1-1	SIO	bysai	---	NSNT
+
+
+10, 1	16, 1-5	COL	dw i meddwl cael *i_Pod*	NST	NST
+10, 2	16, 6-7	COL	mae *sure*	---	NST
+
+
+11, 1	18, 1-2	SIO	pa un	---	NSNT
+
+
+12, 1	19, 1-7	COL	*um* un tua six *gig* mae *sure*	---	ST
+
+
+13, 1	20, 1-2	SIO	six *gig*	---	NST
+
+
+14, 1	21, 1-2	MER	fifteen thousand	---	NSNT
+
+
+15, 1	22, 1-6	SIO	faint o caneuon ydy six *gig*	---	ST
+
+
+16, 1	23, 1-3	COL	digon i fi	---	NSNT
+
+
+17, 1	25, 1-2	SIO	digon *oh*	NST	NST
+17, 3	27, 1-2	SIO	faint o	---	NSNT
+
+
+18, 1	28, 1-1	COL	mae	NSNT	NSNT
+18, 2	28, 2-6	COL	genna chdi yr *Nano* yn_does	---	NST
+
+
+19, 1	29, 1-1	SIO	pump	NSNT	NSNT
+19, 2	30, 1-9	SIO	ond dw i efo fel dau_ddeg *songs* arno fo	---	NST
+
+
+20, 1	31, 1-1	MER	dau_ddeg	---	NSNT
+
+
+21, 1	33, 1-1	SIO	dau_ddeg	NSNT	NSNT
+21, 2	34, 1-2	SIO	dw meddwl	NSNT	NSNT
+21, 3	34, 3-7	SIO	mae nhw yn gallu cael	---	NSNT
+
+
+22, 1	35, 1-6	COL	two *gig* ydy yr *Nano* *yeah*	---	ST
+
+
+23, 1	36, 1-3	SIO	ella dw i	NSNT	NSNT
+23, 2	36, 4-7	SIO	dw ddim yn *sure*	NST	NST
+23, 3	36, 8-10	SIO	be ydy o	---	NSNT
+
+
+24, 1	37, 1-5	COL	*yeah* two *gigabytes* ydy *Nano*	---	ST
+
+
+25, 1	38, 1-4	SIO	dw ddim yn *sure*	NST	NST
+25, 2	39, 1-2	SIO	faint ydy	---	NSNT
+
+
+26, 1	40, 1-1	MER	mae	---	NSNT
+
+
+27, 1	41, 1-4	SIO	*er* *video* *M_P_three* player	---	NST
+
+
+28, 1	42, 1-5	MER	fedri di gael twenty *gig*	ST	ST
+28, 2	42, 6-6	MER	fedri	NSNT	NSNT
+28, 3	43, 1-9	MER	mae hynna yn dal tua fifteen thousand o ganeuon	NSNT	SNT
+28, 4	44, 1-8	MER	mae brawd fi efo loads ar un fo	---	SNT
+
+
+29, 1	45, 1-2	SIO	fifteen thousand	---	NSNT
+
+
+30, 1	46, 1-13	COL	ti ddim yn mynd i brynu yr yr fath â yr external hardrive	SNT	SNT
+30, 2	47, 1-3	COL	ta wyt ti	---	NSNT
+
+
+31, 1	48, 1-4	MER	dw ddim yn gwybod	NSNT	NSNT
+31, 2	48, 5-5	MER	sti	NSNT	NSNT
+31, 3	49, 1-12	MER	oedd brawd fi wedi cael *um* *um* *Final_Destination* *free* *off* yr internet	ST	ST
+31, 4	51, 1-12	MER	*um* o'n i yn gwylio fo noson o blaen ar y computer	---	ST
+
+
+32, 1	53, 1-4	COL	wedi download_io fo felly	SNT	SNT
+32, 2	55, 1-2	COL	*oh* *wow*	---	NST
+
+
+33, 1	57, 1-4	MER	mae o *right* interesting	ST	ST
+33, 2	58, 1-5	MER	mae o *right* dda actually	ST	ST
+33, 3	61, 1-10	MER	y *part* ddechrau lle mae nhw mynd ar yr *um*	NST	NST
+33, 4	61, 11-18	MER	mae nhw mynd ar fath â rollercoaster yma	NSNT	SNT
+33, 5	62, 1-4	MER	ac *um* mae rollercoaster	ST	ST
+33, 6	63, 1-11	MER	mae yn cael fath â ryw déjà vu rollercoaster yn crash_o	SNT	SNT
+33, 7	64, 1-6	MER	ac *um* mae hi mynd *off*	NST	NST
+33, 8	65, 1-7	MER	wedyn mae yr rollercoaster yn actually crash_o	---	SNT
+
+
+34, 1	69, 1-6	COL	erioed wedi gweld yr un *Final_Destination*	---	NST
+
+
+35, 1	70, 1-1	SIO	naddo	---	NSNT
+
+
+36, 1	71, 1-8	MER	ti erioed wedi gweld dim un o nhw	---	NSNT
+
+
+37, 1	72, 1-1	COL	naddo	---	NSNT
+
+
+38, 1	73, 1-6	MER	*oh* mae nhw uffar o *films*	---	NST
+
+
+39, 1	74, 1-2	COL	isio gweld	---	NSNT
+
+
+40, 1	75, 1-9	MER	o'n nhw ar dipyn bach nôl ar y *telly*	---	NST
+
+
+41, 1	76, 1-4	COL	*sure* wna i sbïo	NST	NST
+41, 2	76, 5-11	COL	oes yna un ar *Sky* neu rywbeth	---	NST
+
+
+42, 1	79, 1-15	MER	achos mae nhw *just* mynd trwy *er* dangos y ddau o nhw *straight* ar_ôl ei_gilydd	NST	NST
+42, 2	80, 1-5	MER	*oh* mae nhw ar *Channel_Four*	NST	NST
+42, 3	81, 1-6	MER	a wedyn mae repetio ar S_Four_C	---	SNT
+
+
+43, 1	84, 1-4	SIO	ti efo *Sky* adre	---	NST
+
+
+44, 1	87, 1-1	MER	*Freeview*	---	NST
+
+
+45, 1	89, 1-12	SIO	*so* wyt ti yn cael rhei o yr *Sky* movie channels hefo	ST	ST
+45, 2	91, 1-1	SIO	*just*	---	NST
+
+
+46, 1	92, 1-12	MER	mi o'n i efo *Sky* o blaen pan ddoth o allan gynta	NST	NST
+46, 2	93, 1-5	MER	a wnaeth ni canslio fo	NSNT	NSNT
+46, 3	95, 1-8	MER	a wedyn dal efo yr *box* eto wedyn	NST	NST
+46, 4	96, 1-8	MER	oedd yr channels dal yna ar_ôl ni ganslio	---	SNT
+
+
+47, 1	97, 1-1	SIO	dan	NSNT	NSNT
+47, 2	98, 2-6	SIO	dan ni hefo yr *box*	NST	NST
+47, 3	100, 1-10	SIO	a dan ni yn gallu cael fel *Sky_News* a *Sky_Three*	NST	NST
+47, 4	102, 1-3	SIO	dw i meddwl	NSNT	NSNT
+47, 5	102, 4-7	SIO	bod hwnna ar *Freeview*	---	NST
+
+
+48, 1	103, 1-5	COL	*yeah* mae rheiny am ddim	---	NST
+
+
+49, 1	104, 1-14	SIO	ond ond *um* oedden ni yn gallu cael *um* un o yr *Cartoon_Network* channels	---	ST
+
+
+50, 1	105, 1-4	MER	timod y channels *Eurosports*	ST	ST
+50, 3	107, 1-6	MER	*Cartoon_Network* na mae hwnna wedi mynd	---	NST
+
+
+51, 1	108, 1-3	SIO	ond mae yn	NSNT	NSNT
+51, 2	108, 4-8	SIO	mae nhw wedi tynnu nhw	SNT	NSNT
+51, 5	111, 1-1	SIO	*so*	---	NST
+
+
+52, 1	112, 2-8	MER	fyddwn ni efo *Freeview* wan yn bedroom	---	ST
+
+
+53, 1	113, 1-8	SIO	oes rhaid i ti cael *box* i *Freeview*	NST	NST
+53, 2	115, 1-9	SIO	un *box* i yr pob teledu yn y tŷ	NST	NST
+53, 3	116, 1-9	SIO	wyt ti gallu cael connect_io nhw i_fyny yr un	---	SNT
+
+
+54, 1	117, 1-15	COL	*oh* ti gallu cael fath â *um* peth splitters i sblitio fo rhwng *tellies* de	---	ST
+
+
+55, 1	119, 1-4	MER	ond dw i efo	SNT	NSNT
+55, 2	120, 1-3	MER	actually mae yna	NSNT	SNT
+55, 3	120, 4-8	MER	gynnon ni tri *box* *Freeview*	NST	NST
+55, 5	122, 1-10	MER	naci na mae *dad* efo un yn *er* lawr grisiau	NST	NST
+55, 6	123, 1-7	MER	a dw i efo un fyny grisiau	---	NSNT
+
+
+56, 1	125, 1-10	COL	pa bryd ti am ailgychwyn efo dy lessons dreifio ta	---	SNT
+
+
+57, 1	126, 1-5	SIO	dw i ddim yn *sure*	NST	NST
+57, 2	127, 1-2	SIO	ar_ôl brifysgol	---	NSNT
+
+
+58, 1	128, 1-2	COL	ar_ôl brifysgol	---	NSNT
+
+
+59, 1	129, 1-6	SIO	achos dydy o ddim yn *well*	NST	NST
+59, 2	129, 7-16	SIO	dw i ddim efo efo digon o pres i afford_io	SNT	SNT
+59, 3	130, 1-10	SIO	a hefyd dw i ddim hefo fel *use* iddo fo	---	NST
+
+
+60, 1	132, 1-2	COL	wyt oherwydd	NSNT	NSNT
+60, 2	132, 3-7	COL	fyddi di yn gallu dreifio	---	NSNT
+
+
+61, 1	133, 1-6	SIO	*yeah* fyswn i yn gallu dreifio	NST	NST
+61, 2	134, 1-4	SIO	ond ond i le	NSNT	NSNT
+61, 3	135, 1-9	SIO	dw i yn gallu cael y *bus* i *Fangor*	---	NST
+
+
+62, 1	136, 1-3	MER	*oh* fysa chdi	---	NST
+
+
+63, 1	137, 1-3	SIO	a hefyd pan	NSNT	NSNT
+63, 2	138, 1-1	SIO	pan	---	NSNT
+
+
+64, 1	139, 1-3	MER	fasa chdi wedi	---	NSNT
+
+
+65, 1	140, 1-6	SIO	na pan dw i yn prifysgol	NSNT	NSNT
+65, 2	140, 7-9	SIO	fydd yna ddim	NSNT	NSNT
+65, 3	140, 10-13	SIO	dw i ddim yn	NSNT	NSNT
+65, 4	140, 14-22	SIO	dw i ddim yn gallu cael *car* yn prifysgol	---	NST
+
+
+66, 1	141, 1-9	MER	ella bod chdi isio hire_io *car* am y day	ST	ST
+66, 2	142, 1-5	MER	petasa chdi pasio *test* chdi	---	NST
+
+
+67, 1	143, 1-4	SIO	*yeah* fyswn i gallu	---	NST
+
+
+68, 1	144, 1-8	COL	di redeg dy gariad di am dro *Sionyn*	---	NST
+
+
+69, 1	145, 1-1	SIO	*sorry*	---	NST
+
+
+70, 1	146, 1-7	COL	mynd â dy gariad di am dro	---	NSNT
+
+
+71, 1	148, 1-7	MER	*yeah* achos os mae *handy* cael *car*	NST	NST
+71, 2	149, 1-5	MER	fedra i ddim disgwyl tan	NSNT	NSNT
+71, 3	149, 6-10	MER	fydda i wedi pasio *test*	NST	NST
+71, 4	149, 11-12	MER	fi de	---	NSNT
+
+
+72, 1	150, 1-3	COL	a wedyn os	---	NSNT
+
+
+73, 1	151, 1-3	SIO	pa bryd wyt	NSNT	NSNT
+73, 2	152, 1-6	SIO	wyt ti wedi wneud y *theory*	---	NST
+
+
+74, 1	155, 2-8	COL	wnaeth o ddim deud wrthan ni chwaith	---	NSNT
+
+
+75, 1	157, 1-7	MER	naddo *yeah* rhag ofn fi beidio pasio	---	NST
+
+
+76, 1	159, 1-6	COL	even though o'n i yn gwybod	NSNT	SNT
+76, 2	160, 1-7	COL	oherwydd oedd *Leah* wedi deud wrth *Catrin*	NST	NST
+76, 3	161, 1-8	COL	wedyn ges i *warning* i beidio sôn ddim_byd	NST	NST
+76, 5	164, 1-2	COL	ond *um*	---	NST
+
+
+77, 1	165, 1-7	MER	dw i wedi pasio *test* *er* *theory*	---	NST
+
+
+78, 1	167, 1-3	SIO	pa bryd wyt	NSNT	NSNT
+78, 2	167, 4-10	SIO	wyt ti yn wneud yr y *er*	---	NST
+
+
+79, 1	168, 1-3	MER	dw ddim gwybod	NSNT	NSNT
+79, 2	169, 1-5	MER	dw i cael gwers fory	NSNT	NSNT
+79, 3	171, 1-6	MER	a wedyn dw mynd i Holyhead	SNT	SNT
+79, 4	172, 1-8	MER	a wedyn os ydy o mynd yn iawn	NSNT	NSNT
+79, 5	172, 9-15	MER	dw i am bwcio fo nos fory	---	NSNT
+
+
+80, 1	173, 1-9	COL	ti wedi ti bod yn Holyhead o yr blaen	---	SNT
+
+
+81, 1	174, 1-1	MER	naddo	---	NSNT
+
+
+82, 1	175, 1-6	COL	dim yn dreifio o yr blaen	---	NSNT
+
+
+83, 1	177, 1-8	MER	*just* at *Valley* a pethau fel yna *yeah*	ST	NST
+83, 2	179, 1-3	MER	A_fifty_five a pethau	---	SNT
+
+
+84, 1	180, 1-12	COL	experience i chdi felly mynd i Holyhead yn enwedig pan mae nhw	NSNT	SNT
+84, 2	180, 13-19	COL	mae nhw bildio yr pont newydd yna	---	NSNT
+
+
+85, 1	181, 3-3	MER	ych	NSNT	NSNT
+85, 2	182, 1-9	MER	digon drwg gorod mynd trwy *er* *Llanfechell* a pethau	NST	NST
+85, 5	185, 1-19	MER	mynd i *Llanfechell* a pasio tŷ chdi a ti mynd at yr *er* *bus* at yr *er* ysgol *yeah*	---	NST
+
+
+86, 1	186, 1-4	COL	*yeah* a troi *round*	---	NST
+
+
+87, 1	187, 1-15	MER	rifyrsio i_mewn wrth y *lay_by* yna rifyrsio i_fewn i yr gornel wrth ymyl yr ysgol	NST	NST
+87, 2	189, 1-5	MER	mae yn uffar o gornel	NSNT	NSNT
+87, 3	189, 6-9	MER	honna i rifyrsio i	---	NSNT
+
+
+88, 1	191, 1-13	COL	ti meddwl os os os wnei di ddim pasio cyn mynd i uni	SNT	SNT
+88, 2	191, 14-19	COL	de ti am fod fath â	---	NSNT
+
+
+89, 1	192, 1-10	SIO	fydd yna ddim *lot* o yr amser hefyd yn uni	ST	ST
+89, 2	192, 11-21	SIO	dw meddwl i i wneud y y y y y wersi	---	NSNT
+
+
+90, 1	193, 1-11	COL	na gei *oh* na fedri di ddim wneud o yn uni	---	ST
+
+
+91, 1	194, 1-1	SIO	ond	---	NSNT
+
+
+92, 1	195, 1-11	COL	wedyn ti am fod tua twenty_four twenty_five yn dod o uni	---	SNT
+
+
+93, 1	196, 1-1	SIO	ella	---	NSNT
+
+
+94, 1	197, 1-12	COL	wedyn ti am gymryd ella tua chwe mis pasio *test* chdi a	---	NST
+
+
+95, 1	198, 1-9	MER	na achos fydd *Sionyn* ella isio wneud *P_h_D* wedyn	---	NST
+
+
+96, 1	199, 1-6	SIO	*yeah* ond ond faswn i gallu	---	NST
+
+
+97, 1	200, 1-9	COL	*yeah* ond mi wneith o ddysgu dreifio wneud *P_h_D*	---	NST
+
+
+98, 1	201, 1-4	SIO	*yeah* fyswn i gallu	---	NST
+
+
+99, 1	202, 1-7	COL	ond ti timod tua twenty_four twenty_five *o_k*	ST	ST
+99, 2	204, 1-6	COL	chwe mis wedyn i pasio *o_k*	---	NST
+
+
+100, 1	205, 1-5	SIO	na fyswn i yn gallu	NSNT	NSNT
+100, 2	205, 6-14	SIO	na fyswn i yn gallu gorffen fy degree dau_ddeg_dau	---	SNT
+
+
+101, 1	206, 1-4	MER	a ti yn dod	NSNT	NSNT
+101, 2	207, 1-10	MER	*yeah* na ti yn dod adre bob yr ha hefyd	---	NST
+
+
+102, 1	208, 1-4	SIO	a wedyn fysai yna	NSNT	NSNT
+102, 2	209, 1-8	SIO	na *yeah* a dw i yn dod adre	---	NST
+
+
+103, 1	210, 1-6	MER	ti dod adre bob yr ha	---	NSNT
+
+
+104, 1	211, 1-1	SIO	yndw	---	NSNT
+
+
+105, 1	212, 1-6	MER	os ti isio mynd i rywle	NSNT	NSNT
+105, 2	213, 1-8	MER	fyddan ni mynd allan dim bob nos ond	NSNT	NSNT
+105, 4	215, 1-5	MER	*right* aml ar_ôl dod yn_ôl	---	NST
+
+
+106, 1	216, 1-2	COL	byddan oherwydd	NSNT	NSNT
+106, 2	216, 3-10	COL	fyddan ni ddim wedi gweld ein_gilydd ers ages	SNT	SNT
+106, 3	216, 11-12	COL	na fyddan	---	NSNT
+
+
+107, 1	217, 1-1	SIO	byddwn	---	NSNT
+
+
+108, 1	219, 1-14	COL	*well* ella fyddwn ni dod lawr i Gaerdydd a mynd i Cambridge ac Oxford	---	ST
+
+
+109, 1	220, 1-1	SIO	dw	NSNT	NSNT
+109, 2	220, 2-2	SIO	dw	NSNT	NSNT
+109, 3	220, 3-6	SIO	dw i yn dod	NSNT	NSNT
+109, 4	221, 1-3	SIO	ac Oxford *yeah*	ST	ST
+109, 5	222, 1-11	SIO	*um* na ond fyswn i yn gallu gorffen university *um* *dau_ddeg*	ST	ST
+109, 6	222, 12-21	SIO	pan dw i yn dau_ddeg_dau wedyn wneud y y prawf	NSNT	NSNT
+109, 7	224, 1-3	SIO	a pob peth	---	NSNT
+
+
+110, 1	225, 1-7	COL	ond ti am fod ti am fod	---	NSNT
+
+
+111, 1	226, 1-2	SIO	a wedyn	---	NSNT
+
+
+112, 1	227, 1-15	COL	ti am fod tua thirty though yn cael *insurance* chdi yn is though bron iawn	NST	ST
+112, 2	228, 1-10	COL	oherwydd mae yn cymryd ages i *insurance* chdi dod lawr	---	ST
+
+
+113, 1	229, 1-5	SIO	*yeah* ond mae yn *well*	---	NST
+
+
+114, 1	230, 1-8	MER	wnest ti ddim wneud y *thing* *Pass_Plus* yna	---	NST
+
+
+115, 1	231, 1-4	COL	naddo do'n i ddim	NSNT	NSNT
+115, 2	231, 5-6	COL	bod o	NSNT	NSNT
+115, 3	231, 7-9	COL	werth o really	---	SNT
+
+
+116, 1	232, 1-5	SIO	faint ydy y peth *Pass_Plus*	---	NST
+
+
+117, 1	233, 1-3	COL	two hundred *pound*	ST	NST
+117, 2	234, 1-6	COL	ond ti cael cant gyn *er*	---	NST
+
+
+118, 1	235, 1-9	SIO	oes raid i ti cael *extra* lessons i wneud	---	ST
+
+
+119, 1	238, 1-5	COL	ond ti cael cant diwrnod	---	NSNT
+
+
+120, 1	239, 1-5	MER	ti *just* gorod dreifio yn	---	NST
+
+
+121, 1	240, 1-7	COL	ti gorod dreifio i Manchester ac yn_ôl	---	SNT
+
+
+122, 1	241, 1-2	MER	ac yn_ôl	---	NSNT
+
+
+123, 1	243, 1-12	COL	ac mae yr cyngor sir yn rhoi cant i chdi wneud o	---	NSNT
+
+
+124, 1	244, 1-6	SIO	mae pwy pwy yn rhoi cant	---	NSNT
+
+
+125, 1	245, 1-2	COL	cyngor sir	---	NSNT
+
+
+126, 1	247, 1-9	MER	wedyn mae hwnna yn tynnu *lot* oddi_ar *insurance* chdi	NST	NST
+126, 2	249, 1-3	MER	*oh* dibynnu really	---	ST
+
+
+127, 1	250, 1-5	COL	dydy ddim yn tynnu loads	---	SNT
+
+
+128, 1	251, 1-8	MER	dibynnu pa fath o *gar* ti efo really	ST	ST
+128, 2	253, 1-1	MER	tydy	NSNT	NSNT
+128, 3	255, 1-5	MER	deuda bod chdi efo *car*	NST	NST
+128, 4	255, 6-12	MER	sy wedi citio fyny *sort* of *thing*	ST	ST
+128, 5	257, 1-10	MER	ti cael *well* *sure* bod chdi cael dipyn bach mwy	---	NST
+
+
+129, 1	259, 1-6	COL	do'n i ddim yn *point* sti	NST	NST
+129, 2	260, 1-1	COL	amser	NSNT	NSNT
+129, 3	261, 1-7	COL	dw ddim isio dreifio i Manchester eto	NSNT	SNT
+129, 4	263, 1-15	COL	ond *er* baswn i licio trio dreifio yna fy hun gynta cyn wneud *Pass_Plus* gwybod	NST	NST
+129, 5	263, 16-19	COL	bod gallu wneud o	NSNT	NSNT
+129, 6	265, 1-9	COL	dw ddim yn ti yn pasio wedyn guaranteed bron	NSNT	SNT
+129, 7	265, 10-10	COL	dwyt	---	NSNT
+
+
+130, 1	267, 1-6	MER	wnaeth *Pam* dreifio holl ffordd i_fyny	NST	NST
+130, 2	267, 7-12	MER	do neu ran fwya o ffordd	---	NSNT
+
+
+131, 1	269, 1-1	COL	be	---	NSNT
+
+
+132, 1	270, 1-5	MER	*Pam* dreifio holl ffordd i_fyny	---	NST
+
+
+133, 1	271, 1-2	COL	esgob do	---	NSNT
+
+
+134, 1	273, 1-7	MER	hi oedd yn dreifio ar y motorway	---	SNT
+
+
+135, 1	277, 1-3	COL	oedd hi deud	NSNT	NSNT
+135, 2	277, 4-10	COL	bod hi ddim wedi dreifio wrtha fi	---	NSNT
+
+
+136, 1	278, 1-5	MER	wnaeth hi ddeud wrtha fi	NSNT	NSNT
+136, 2	278, 6-8	MER	bod hi am	---	NSNT
+
+
+137, 1	279, 1-3	COL	*oh* *well* *o_k*	ST	NST
+137, 2	280, 1-4	COL	wnaeth hi ddim na	---	NSNT
+
+
+138, 1	285, 1-2	MER	clwyddau ella	---	NSNT
+
+
+139, 1	286, 1-8	COL	*ah* *yeah* ella bod hi wedi wedyn though	ST	ST
+139, 2	287, 1-2	COL	wnes i	NSNT	NSNT
+139, 3	287, 3-9	COL	dw ddim wedi siarad ers ages actually	---	SNT
+
+
+140, 1	288, 1-1	SIO	naddo	---	NSNT
+
+
+141, 1	289, 1-6	COL	wnest ti enjoio dy hun neithiwr	NSNT	NSNT
+141, 2	289, 7-8	COL	ta *Sionyn*	---	NST
+
+
+142, 1	290, 2-5	SIO	oedd o yn iawn	NSNT	NSNT
+142, 2	292, 2-7	SIO	oedd sâl i fod yn *honest*	---	NST
+
+
+143, 1	293, 1-1	COL	chi	---	NSNT
+
+
+144, 1	294, 1-8	SIO	oedd fy bol fi yn teimlo dipyn yn	---	NSNT
+
+
+145, 1	295, 1-6	COL	mae *Prys* chdi a *Arwel* wan	---	NST
+
+
+146, 1	296, 1-4	SIO	*yeah* dw yn ond	NST	NST
+146, 2	296, 5-13	SIO	ond dw i ddim wedi cael yr injection na	NSNT	SNT
+146, 3	297, 1-6	SIO	wnaeth *Aaron* deud ella injection *M_M_R*	ST	ST
+146, 4	297, 7-8	SIO	oedd o	---	NSNT
+
+
+147, 1	299, 1-8	COL	pam pam pa bryd ti yn cymryd o	---	NSNT
+
+
+148, 1	300, 1-7	SIO	ond dw i ddim wedi gael o	---	NSNT
+
+
+149, 1	301, 1-4	COL	mae raid chdi *doctor*	---	NST
+
+
+150, 1	302, 1-5	SIO	dw i ddim yn *sure*	NST	NST
+150, 2	302, 6-8	SIO	dw isio mynd	NSNT	NSNT
+150, 3	303, 1-13	SIO	ond ydw i isio mynd i weld y G_P a gofyn iddo fo	---	SNT
+
+
+151, 1	304, 1-10	COL	ond wyt ti definitely angen o i fynd i uni	---	SNT
+
+
+152, 1	306, 1-1	SIO	yndw	NSNT	NSNT
+152, 2	306, 2-2	SIO	yndw	NSNT	NSNT
+152, 3	307, 1-3	SIO	achos mae yna	NSNT	NSNT
+152, 4	307, 4-5	SIO	mae yn	NSNT	NSNT
+152, 5	307, 6-7	SIO	mae yn	---	NSNT
+
+
+153, 1	308, 1-5	COL	mae o_hyd erupt_o yr universities	---	SNT
+
+
+154, 1	309, 2-5	SIO	mae yn *epidemic* *yeah*	NST	NST
+154, 2	310, 1-15	SIO	*um* ond *um* dw *just* isio mynd i yr G_P a a gofyn iddo fo	---	ST
+
+
+155, 1	311, 1-6	COL	*nurse* mae *sure* ti gofyn wrtho	---	NST
+
+
+156, 1	312, 1-3	SIO	*nurse* dw meddwl	NST	NST
+156, 2	312, 4-6	SIO	fydd o yn	NSNT	NSNT
+156, 3	312, 7-8	SIO	fydd yn	---	NSNT
+
+
+157, 1	313, 1-2	MER	*nurse* *yeah*	---	NST
+
+
+158, 1	314, 1-7	SIO	ond *yeah* *just* isio fel wneud *appointment*	NST	NST
+158, 2	316, 1-6	SIO	*um* wyt ti wedi cael o	NST	NST
+158, 3	318, 1-3	SIO	wnaeth o brifo	---	NSNT
+
+
+159, 1	319, 1-1	COL	naddo	---	NSNT
+
+
+160, 1	320, 1-4	SIO	pwy wnaeth cael o	SNT	NSNT
+160, 2	321, 1-5	SIO	*form* five *form* six a	---	ST
+
+
+161, 1	322, 1-8	COL	*yeah* five six one a six two de	---	ST
+
+
+162, 1	323, 1-5	SIO	*just* five a a chwech	---	ST
+
+
+163, 1	325, 1-4	COL	*oh* mae yn iawn	NST	NST
+163, 2	325, 5-5	COL	sti	---	NSNT
+
+
+164, 1	326, 1-1	MER	mae	NSNT	NSNT
+164, 2	326, 2-13	MER	mae o yn fath â expire_io ar_ôl bob deg mlynedd neu rywbeth	---	SNT
+
+
+165, 1	327, 3-4	SIO	dw meddwl	NSNT	NSNT
+165, 2	328, 1-2	SIO	achos dw	NSNT	NSNT
+165, 3	328, 3-9	SIO	dw i wedi cael hwnna o blaen	NSNT	NSNT
+165, 4	328, 10-11	SIO	dw meddwl	---	NSNT
+
+
+166, 1	329, 1-4	COL	*yeah* ond timod hwn	NST	NST
+166, 2	329, 5-8	COL	ydy yr un dwytha	NSNT	NSNT
+166, 3	330, 1-8	COL	ti ddim yn gorod cymryd o wedyn na	---	NSNT
+
+
+167, 1	331, 1-4	MER	na ti ddim na	NSNT	NSNT
+167, 2	333, 1-10	MER	na achos gafon ni yr *double* *dose* neu rywbeth do	---	NST
+
+
+168, 1	336, 1-9	COL	*oh* raid fi gael o i fynd i uni	---	ST
+
+
+169, 1	337, 1-2	SIO	*yeah* fydd	---	NST
+
+
+170, 1	340, 1-5	COL	wnaethoch chi watsied *game* *Man_U*	NST	NST
+170, 2	340, 6-6	COL	ta	---	NSNT
+
+
+171, 1	341, 1-1	SIO	naddo	---	NSNT
+
+
+172, 1	342, 1-1	MER	naddo	---	NSNT
+
+
+173, 1	343, 1-2	COL	*oh* naddo	---	NST
+
+
+174, 1	344, 1-4	SIO	wnest ti weld o	NSNT	NSNT
+174, 2	346, 1-4	SIO	pa bryd oedd o	---	NSNT
+
+
+175, 1	347, 1-6	MER	wnes i weld o yn papur	---	NSNT
+
+
+176, 1	348, 1-2	COL	dydd Sadwrn	---	NSNT
+
+
+177, 1	350, 1-2	SIO	pwy wnaeth	NSNT	NSNT
+177, 2	350, 3-4	SIO	wnaeth ennill	---	NSNT
+
+
+178, 1	351, 1-3	COL	naci dydd Sul	NSNT	NSNT
+178, 2	352, 1-3	COL	*yeah* dydd Sul	---	NST
+
+
+179, 1	353, 1-3	SIO	pwy wnaeth ennill	---	NSNT
+
+
+180, 1	354, 1-1	COL	ddoe	SNT	NSNT
+180, 2	355, 1-3	COL	*Man_U* two nil	ST	NST
+180, 3	356, 1-3	COL	*Rooney* a *Ji_Sung_Park*	---	NST
+
+
+181, 1	357, 1-3	MER	*Rooney* a *Park*	---	NST
+
+
+182, 1	358, 1-6	SIO	*oh* oedden nhw yn *goals* dda	NST	NST
+182, 3	360, 1-10	SIO	ydy *Rooney* wedi cael *um* fel *lot* o debt efo	---	ST
+
+
+183, 1	361, 1-9	MER	five hundred seven hundred thousand pounds debt gambling *yeah*	---	NST
+
+
+184, 1	362, 1-3	SIO	gambling a pethau	NSNT	SNT
+184, 2	363, 1-1	SIO	faint	SNT	NSNT
+184, 3	365, 1-2	SIO	five thousand	---	NSNT
+
+
+185, 1	366, 1-3	MER	seven hundred thousand	---	NSNT
+
+
+186, 1	367, 1-6	SIO	seven hundred seven hundred thousand iawn	---	SNT
+
+
+187, 1	368, 1-1	COL	siarad	---	NSNT
+
+
+188, 1	369, 1-3	SIO	faint ydy faint	NSNT	NSNT
+188, 2	369, 4-6	SIO	ydy oed o	---	NSNT
+
+
+189, 1	370, 1-2	COL	nineteen twenty	---	NSNT
+
+
+190, 1	371, 1-1	SIO	dyna	NSNT	NSNT
+190, 2	371, 2-2	SIO	dyna	NSNT	NSNT
+190, 3	371, 3-13	SIO	ydy *problem* efo rhoi *lot* o bres i nineteen *year* olds	ST	ST
+190, 4	371, 14-15	SIO	dw meddwl	NSNT	NSNT
+190, 5	372, 1-2	SIO	dan ni	NSNT	NSNT
+190, 6	372, 3-9	SIO	dydan ni ddim yn responsible enough i	---	SNT
+
+
+191, 1	373, 1-6	COL	*oh* dw i ddim yn meddwl	NST	NST
+191, 2	373, 7-9	COL	baswn i gamblo	---	NSNT
+
+
+192, 1	374, 1-7	MER	na baswn i ddim yn wneud hynna	---	NSNT
+
+
+193, 1	375, 1-4	SIO	dw meddwl ella ella	NSNT	NSNT
+193, 2	375, 5-8	SIO	fyswn i yn ella	NSNT	NSNT
+193, 3	375, 9-10	SIO	os fyswn	---	NSNT
+
+
+194, 1	376, 1-6	COL	basai *Merfyn* yn gamblo fruit *machines*	ST	ST
+194, 4	380, 1-6	COL	ond *er* dw ddim yn meddwl	NST	NST
+194, 5	380, 7-10	COL	baswn i yn gamblo	---	NSNT
+
+
+195, 1	381, 1-2	SIO	dw meddwl	NSNT	NSNT
+195, 2	381, 3-8	SIO	fyswn i yn ella trio fo	NSNT	NSNT
+195, 3	382, 1-8	SIO	oherwydd os fyset ti efo gymaint o bres	---	NSNT
+
+
+196, 1	383, 1-8	COL	ond *yeah* fysai common_sense ti ddeud wrtha chdi	NST	ST
+196, 2	383, 9-14	COL	bod chdi mynd i golli o	NSNT	NSNT
+196, 3	383, 15-15	COL	bysai	---	NSNT
+
+
+197, 1	384, 1-1	SIO	ond	NSNT	NSNT
+197, 2	385, 1-3	SIO	*yeah* ella fysai	ST	NST
+197, 3	386, 1-2	SIO	common_sense de	---	SNT
+
+
+198, 1	388, 1-7	COL	ond *um* *oh* na mae yn *er*	NST	NST
+198, 2	388, 8-13	COL	mae yn iawn iddo cael pres	NSNT	NSNT
+198, 3	390, 1-7	COL	ella ddim gymaint be mae yn gael	---	NSNT
+
+
+199, 1	391, 2-6	SIO	mae nhw yn cael gymaint	---	NSNT
+
+
+200, 1	392, 1-12	COL	*Beckham* a rheina yn cael tua hundred and twenty thousand a week	---	ST
+
+
+201, 1	394, 1-5	SIO	lle mae *Beckham* yn chwarae	NST	NST
+201, 2	395, 1-2	SIO	i *Real_Madrid*	---	NST
+
+
+202, 1	396, 1-1	COL	*Real_Madrid*	---	NST
+
+
+203, 1	397, 1-1	MER	*Real_Madrid*	---	NST
+
+
+204, 1	398, 1-2	SIO	*Real_Madrid* de	NST	NST
+204, 2	399, 1-8	SIO	ond mae *Michael_Owen* wedi mynd i i le	ST	NST
+204, 3	400, 1-1	SIO	*Newcastle*	---	NST
+
+
+205, 1	401, 1-1	MER	*Newcastle*	---	NST
+
+
+206, 1	402, 1-1	COL	*Newcastle*	---	NST
+
+
+207, 1	404, 1-4	MER	ydy *Newcastle* yn Gymraeg	---	NST
+
+
+208, 1	405, 1-2	SIO	*um* Castellnewydd	---	NST
+
+
+209, 1	406, 1-1	COL	naci	NSNT	NSNT
+209, 2	407, 1-1	COL	Castellnewydd	NSNT	NSNT
+209, 4	409, 1-3	COL	mae hynna *stupid*	---	NST
+
+
+210, 1	411, 1-4	MER	o'n i meddwl dyna	NSNT	NSNT
+210, 2	411, 5-9	MER	be oedd o am funud	---	NSNT
+
+
+211, 1	412, 1-1	COL	Castellnewydd	---	NSNT
+
+
+212, 1	413, 1-1	SIO	Gastellnewydd	---	NSNT
+
+
+213, 1	415, 1-4	MER	erioed wedi bod yna	---	NSNT
+
+
+214, 1	416, 1-4	COL	it could be actually	---	NSNT
+
+
+215, 1	417, 1-3	SIO	*yeah* ella ella	---	NST
+
+
+216, 1	418, 1-4	COL	neu *just* dw ddim	NST	NST
+216, 2	418, 5-12	COL	dw ddim wedi meddwl am *Newcastle* o blaen	NST	NST
+216, 3	419, 1-5	COL	ella *sorry* os wyt ti	ST	NST
+216, 4	420, 1-3	COL	I shall apologise	SNT	NSNT
+216, 5	422, 1-2	COL	ond *um*	---	NST
+
+
+217, 1	423, 1-4	MER	*oh* dw meddwl na	NST	NST
+217, 2	423, 5-5	MER	dyna	NSNT	NSNT
+217, 3	423, 6-8	MER	be ydy o	NSNT	NSNT
+217, 4	423, 9-9	MER	sti	---	NSNT
+
+
+218, 1	424, 1-8	COL	ond mae hynna *just* yn direct *translation* though	ST	ST
+218, 2	424, 9-9	COL	dydy	NSNT	NSNT
+218, 3	426, 1-2	COL	*Newcastle* Castellnewydd	---	NST
+
+
+219, 1	427, 1-4	MER	fath â Casnewydd though	NSNT	SNT
+219, 2	429, 1-1	MER	Newport	SNT	NSNT
+219, 3	430, 1-1	MER	Casnewydd	---	NSNT
+
+
+220, 1	432, 1-5	COL	mi ellith o fod *o_k*	NST	NST
+220, 3	434, 1-3	COL	dw ddim gwybod	NSNT	NSNT
+220, 4	434, 4-7	COL	dw ddim wedi meddwl	NSNT	NSNT
+220, 5	434, 8-17	COL	be ydy *Newcastle* yn Gymraeg *just* gwybod amdano fo *Newcastle*	---	NST
+
+
+221, 1	436, 1-5	MER	ti erioed wedi bod yno	---	NSNT
+
+
+222, 1	437, 1-1	SIO	*sorry*	---	NST
+
+
+223, 1	438, 1-5	MER	ti erioed wedi bod yna	---	NSNT
+
+
+224, 1	439, 1-1	SIO	naddo	NSNT	NSNT
+224, 2	440, 1-2	SIO	wyt ti	---	NSNT
+
+
+225, 1	442, 1-3	COL	na fi chwaith	---	NSNT
+
+
+226, 1	443, 1-3	MER	ti yn York	NSNT	SNT
+226, 2	445, 1-1	MER	Viking_Centre	---	NSNT
+
+
+227, 1	446, 2-3	SIO	dw i	NSNT	NSNT
+227, 2	446, 4-11	SIO	wedi bod yn y *er* ar y *trains*	NST	NST
+227, 3	449, 1-5	SIO	ac yn y cathedral yna	---	SNT
+
+
+228, 1	450, 1-3	MER	do York cathedral	---	SNT
+
+
+229, 1	452, 1-7	SIO	dw efo *um* fel *um* *viking* *coin*	---	NST
+
+
+230, 1	453, 1-9	MER	*oh* o'ch chdi cael wneud y stampio dy hun	---	NST
+
+
+231, 1	454, 1-3	SIO	pres fel *stamp*	NST	NST
+231, 2	455, 1-6	SIO	do wneud stampio fy hun *yeah*	---	NST
+
+
+232, 1	456, 2-3	MER	dw cofio	NSNT	NSNT
+232, 2	456, 4-6	MER	wnes i ddim	NSNT	NSNT
+232, 3	456, 7-9	MER	wnes i ddim	---	NSNT
+
+
+233, 1	457, 1-3	COL	ychydig yn fabïaidd	---	NSNT
+
+
+234, 1	460, 1-6	SIO	na oeddwn i yn fel saith	NSNT	NSNT
+234, 2	460, 7-11	SIO	pan wnes i mynd yna	NSNT	NSNT
+234, 3	462, 1-2	SIO	*yeah* saith	---	NST
+
+
+235, 1	463, 1-1	COL	saith	---	NSNT
+
+
+236, 1	464, 1-2	SIO	un_deg_tri ella	---	NSNT
+
+
+237, 1	465, 1-3	MER	saith adio chwech	---	NSNT
+
+
+238, 1	468, 1-4	COL	chdi *lot* o *exams*	---	NST
+
+
+239, 1	469, 1-1	SIO	*sorry*	---	NST
+
+
+240, 1	470, 1-6	COL	loads o *exams* yr ha yma	---	ST
+
+
+241, 1	471, 1-2	SIO	oes saith	NSNT	NSNT
+241, 2	471, 3-4	SIO	dw meddwl	---	NSNT
+
+
+242, 1	472, 1-1	COL	saith	---	NSNT
+
+
+243, 1	473, 1-2	SIO	neu chwech	---	NSNT
+
+
+244, 1	474, 1-4	COL	pedwar sy gyn i	---	NSNT
+
+
+245, 1	475, 1-1	MER	braf	---	NSNT
+
+
+246, 1	476, 1-5	SIO	ti yn aileistedd unrhyw beth	---	NSNT
+
+
+247, 1	477, 1-2	COL	na dim_byd	---	NSNT
+
+
+248, 1	478, 1-1	SIO	dim_byd	NSNT	NSNT
+248, 2	479, 1-8	SIO	wnest ti aileistedd unrhywbeth yn *um* yn Ionawr	---	NST
+
+
+249, 1	480, 2-9	COL	wnes i eistedd tri papur arall yn Ionawr	---	NSNT
+
+
+250, 1	481, 1-2	SIO	tri papur	NSNT	NSNT
+250, 2	482, 1-3	SIO	i ba bynciau	---	NSNT
+
+
+251, 1	483, 1-7	COL	dau geog a un i *business* *studies*	NST	ST
+251, 2	485, 1-2	COL	ond *er*	---	NST
+
+
+252, 1	486, 1-7	SIO	be wyt ti wneud yn yr haf	NSNT	NSNT
+252, 2	487, 1-2	SIO	faint o	NSNT	NSNT
+252, 3	488, 1-4	SIO	ti efo *lot* wyt	---	NST
+
+
+253, 1	489, 1-3	MER	*um* un cerdd	---	NST
+
+
+254, 1	490, 1-4	SIO	*just* un i cerdd	---	NST
+
+
+255, 1	491, 1-2	MER	*just* un	---	NST
+
+
+256, 1	492, 1-6	SIO	wyt ti wedi wneud practical eto	---	SNT
+
+
+257, 1	493, 1-5	MER	May third third dw meddwl	SNT	SNT
+257, 2	495, 1-3	MER	May the third	---	NSNT
+
+
+258, 1	496, 1-5	SIO	be wyt ti yn chwarae	NSNT	NSNT
+258, 2	497, 1-5	SIO	yr un peth â blwyddyn	---	NSNT
+
+
+259, 1	498, 1-1	MER	*Rondo*	ST	NST
+259, 2	499, 1-4	MER	naci *Rondo* in c	---	ST
+
+
+260, 1	500, 1-5	SIO	yr un gan *um* *Mozart*	---	NST
+
+
+261, 1	501, 1-2	MER	na *Beethoven*	---	NST
+
+
+262, 1	502, 1-1	SIO	*Beethoven*	---	NST
+
+
+263, 1	503, 1-2	MER	seventeen_seventy eighteen_twenty_seven	---	NSNT
+
+
+264, 1	504, 1-4	SIO	hwnna oedd yr un	NSNT	NSNT
+264, 2	504, 5-6	SIO	oedd yn	---	NSNT
+
+
+265, 1	505, 1-4	MER	na *sorry* a *Beethoven*	ST	NST
+265, 2	507, 1-4	MER	*um* *Ode_to_a_Princess* *um* *Chris_Barnet*	ST	NST
+265, 3	508, 1-3	MER	ac *um* *Scarlatti_Sonata*	NST	NST
+265, 4	510, 1-9	MER	wedyn o'n i fod i roi cyfansoddi fi mewn	NSNT	NSNT
+265, 6	512, 1-2	MER	wsos dwytha	NSNT	NSNT
+265, 7	513, 1-5	MER	wnes i ddim gorffen o	NSNT	NSNT
+265, 8	514, 1-14	MER	wnes i *just* gyrru yr *disk* efo yr hanner ohono fo a sgwennu anorffenedig	NST	NST
+265, 10	516, 1-2	MER	wnes i	NSNT	NSNT
+265, 11	516, 3-11	MER	roid o i honna fynd efo hi i cerdd	---	NSNT
+
+
+266, 1	518, 1-4	COL	roid o i bwy	---	NSNT
+
+
+267, 1	519, 1-5	MER	*oh* honna yn six one	ST	ST
+267, 3	522, 1-4	MER	*oh* *Eluned_Pritchard* *Jones_Pritchard* *Rhian_Pritchard*	---	NST
+
+
+268, 1	524, 1-2	COL	*oh* *Rhian_Pritchard_Roberts*	---	NST
+
+
+269, 1	525, 1-3	MER	*oh* honna *yeah*	NST	NST
+269, 3	528, 1-5	MER	dw ddim gwybod pam *Eluned*	---	NST
+
+
+270, 1	532, 1-4	COL	mad at the time	SNT	NSNT
+270, 2	533, 1-10	COL	mynd lawr i Penfro Pasg *er* yr ha yma *o_k*	NST	NST
+270, 3	535, 1-3	COL	a chdi hefyd	---	NSNT
+
+
+271, 1	536, 1-4	MER	ti yn dod hefyd	---	NSNT
+
+
+272, 1	537, 1-2	SIO	i le	---	NSNT
+
+
+273, 1	538, 1-2	COL	chwarae *cricket*	---	NST
+
+
+274, 1	539, 1-2	SIO	*oh* yndw	NST	NST
+274, 2	539, 3-3	SIO	yndw	---	NSNT
+
+
+275, 1	542, 1-9	COL	dan ni angen sgwennu *paragraph* da i ddeud pam	NST	NST
+275, 2	542, 10-20	COL	fydd o yn fuddiol i ni i ni cael cael *grant*	NST	NST
+275, 3	544, 1-13	COL	a wedyn dan ni mynd lawr i gael coaching a *games* yn erbyn	---	ST
+
+
+276, 1	547, 1-8	SIO	pwy sy wedi *um* wneud hwn arrange_o fo	---	ST
+
+
+277, 1	548, 1-1	COL	fi	NSNT	NSNT
+277, 2	550, 1-3	COL	a yr *Urdd*	---	NST
+
+
+278, 1	551, 1-3	SIO	*oh* da iawn	NST	NST
+278, 3	553, 1-4	SIO	fi a yr *Urdd*	---	NST
+
+
+279, 1	554, 1-7	MER	*yeah* *Eric* yn rywbeth a yr *Urdd*	NST	NST
+279, 2	555, 1-4	MER	be ydy yr gair	---	NSNT
+
+
+280, 1	558, 1-1	COL	wedyn	---	NSNT
+
+
+281, 1	559, 1-2	SIO	da iawn	---	NSNT
+
+
+282, 1	560, 1-3	COL	chdi fi *Merfyn*	---	NST
+
+
+283, 1	561, 1-1	SIO	*Arwel*	---	NST
+
+
+284, 1	562, 1-3	COL	*Arwel* *Prys* *Rhisiart*	---	NST
+
+
+285, 1	563, 1-1	SIO	*Gruff*	---	NST
+
+
+286, 1	564, 1-2	MER	*Aled* ella	---	NST
+
+
+287, 1	565, 1-2	COL	*Aled* *Gruff*	---	NST
+
+
+288, 1	566, 1-4	SIO	*Aled* pwy ydy *Aled*	---	NST
+
+
+289, 1	567, 1-1	COL	*Aled*	ST	NST
+289, 2	569, 1-4	COL	*Gruff* *Eilir* ella dan	NST	NST
+289, 3	571, 1-3	COL	*um* *Mark* ella	---	NST
+
+
+290, 1	572, 1-2	SIO	*Mark* moan	---	NST
+
+
+291, 1	574, 1-2	MER	not *Mark*	---	NST
+
+
+292, 1	575, 1-7	COL	*um* ella brawd bach *Eilir* hefyd *Kev*	---	NST
+
+
+293, 1	576, 1-4	SIO	am faint mae o	---	NSNT
+
+
+294, 1	577, 1-4	COL	dw ddim yn gwybod	NSNT	NSNT
+294, 2	578, 1-9	COL	dydyn nhw ddim wedi deud hynna wrtha fi eto	NSNT	NSNT
+294, 3	580, 1-2	COL	ond *um*	---	NST
+
+
+295, 1	581, 1-2	SIO	da iawn	---	NSNT
+
+
+296, 1	582, 1-7	COL	mi ddylsai fod yn dipyn o *laugh*	---	NST
+
+
+297, 1	583, 1-1	SIO	bydd	NSNT	NSNT
+297, 2	583, 2-4	SIO	dw yn *sure*	---	NST
+
+
+298, 1	584, 1-12	COL	oedden ni am trefnu fath â mynd abroad yr ha yma ond	---	SNT
+
+
+299, 1	585, 1-6	SIO	i le fyset ti isie mynd	---	NSNT
+
+
+300, 1	586, 1-3	COL	dw ddim gwybod	---	NSNT
+
+
+301, 1	587, 1-1	SIO	Sbaen	---	NSNT
+
+
+302, 1	589, 1-6	COL	*Ibiza* neu rywbeth dw ddim gwybod	---	NST
+
+
+303, 1	590, 1-1	SIO	*Ibiza*	---	NST
+
+
+304, 1	591, 1-1	COL	naci	---	NSNT
+
+
+305, 1	592, 1-2	MER	baswn i	---	NSNT
+
+
+306, 1	593, 1-5	SIO	faint fysai hwnna yn costio	---	NSNT
+
+
+307, 1	594, 1-5	MER	dydy o ddim yn ddrud	---	NSNT
+
+
+308, 1	595, 1-2	SIO	na achos	---	NSNT
+
+
+309, 1	596, 1-11	COL	basen ni yn gallu mynd ar_ôl gwyliau ha gorffen am wsnos	---	NSNT
+
+
+310, 1	597, 1-1	SIO	bysen	---	NSNT
+
+
+311, 1	598, 1-4	COL	mynd i *Amsterdam* neu	---	NST
+
+
+312, 1	600, 1-4	SIO	ond dim *Amsterdam* *just*	---	NST
+
+
+313, 1	601, 1-1	COL	*Latvia*	---	NST
+
+
+314, 1	602, 1-3	SIO	na mae *Amsterdam*	---	NST
+
+
+315, 1	603, 1-1	COL	Belgium	---	NSNT
+
+
+316, 1	605, 1-4	MER	advert yna ar *telly*	ST	ST
+316, 2	606, 1-4	MER	*Amsterdam* most dirty windows	---	NST
+
+
+317, 1	607, 1-3	SIO	fyswn i byth	---	NSNT
+
+
+318, 1	610, 1-4	COL	*Latvia* and Belgium ta	---	ST
+
+
+319, 1	611, 1-2	SIO	faswn i	NSNT	NSNT
+319, 2	612, 1-2	SIO	ella *yeah*	---	NST
+
+
+320, 1	613, 1-5	MER	go and see the *tulips*	---	NST
+
+
+321, 1	614, 1-4	SIO	fyswn i yn mynd	NSNT	NSNT
+321, 2	614, 5-15	SIO	os fyswn i yn gallu fel *er* organise_io fo i_gyd a	---	ST
+
+
+322, 1	616, 1-7	MER	i Ffrainc doedd o ddim hassle o_gwbl	---	SNT
+
+
+323, 1	617, 1-2	SIO	na dydy	NSNT	NSNT
+323, 2	617, 3-5	SIO	dydy o ddim	---	NSNT
+
+
+324, 1	618, 1-2	COL	i Ffrainc	---	NSNT
+
+
+325, 1	620, 1-2	MER	hogan yna	---	NSNT
+
+
+326, 1	621, 1-4	COL	efo yr hogan yna	---	NSNT
+
+
+327, 1	623, 1-2	MER	*Lilly* de	NST	NST
+327, 3	625, 1-10	MER	na ti ddim yn cofio pan es i efo *Lilly*	NST	NST
+327, 4	627, 1-8	MER	*just* mae yn hawdd mynd ar yr *plane*	---	NST
+
+
+328, 1	629, 1-17	COL	really basen ni *just* gallu mynd ella i Ffrainc gynta *just* yr ha yma am ryw weekend	---	ST
+
+
+329, 1	634, 1-1	SIO	fyswn	NSNT	NSNT
+329, 2	634, 2-5	SIO	fyswn i yn mynd	---	NSNT
+
+
+330, 1	635, 1-8	MER	i gael gweld yr *er* *yeah* yr Eiffel_Tower	---	ST
+
+
+331, 1	636, 1-4	COL	gei di trefnu *Sionyn*	---	NST
+
+
+332, 1	638, 1-6	SIO	lle lle fyset ti isie mynd	---	NSNT
+
+
+333, 1	639, 1-1	MER	*Arc_de_Triomphe*	---	NST
+
+
+334, 1	640, 1-4	SIO	Ffrainc i i *Paris*	---	NST
+
+
+335, 1	641, 1-3	COL	*yeah* lle bynnag	ST	NST
+335, 2	642, 1-7	COL	*as* long *as* bod o weddol rhad	---	ST
+
+
+336, 1	643, 1-7	SIO	a lle fyset ti isie isie aros	NSNT	NSNT
+336, 2	644, 1-4	SIO	yn *er* youth *hostel*	---	ST
+
+
+337, 1	645, 1-4	COL	*oh* rywle *right* rhad	NST	NST
+337, 2	646, 1-4	COL	na dim youth *hostel*	ST	ST
+337, 4	648, 1-7	COL	ychydig bach mwy upper *class* na hynna	---	ST
+
+
+338, 1	650, 1-5	SIO	*yeah* fysen ni gallu wneud	NST	NST
+338, 2	651, 1-2	SIO	am faint	SNT	NSNT
+338, 3	652, 1-2	SIO	*just* weekend	---	NST
+
+
+339, 1	655, 1-2	COL	neu be	---	NSNT
+
+
+340, 1	656, 1-5	SIO	*um* *er* pa pa bryd	NST	NST
+340, 2	657, 1-1	SIO	yn	---	NSNT
+
+
+341, 1	658, 1-1	COL	*well*	ST	NST
+341, 2	659, 1-4	COL	neu de brain_wave wan	NSNT	SNT
+341, 3	659, 6-14	COL	fedran ni fynd am *tour* o fath â llefydd	NST	NST
+341, 4	659, 15-27	COL	dan ni mynd i university a cael nights out ym pob un felly	---	SNT
+
+
+342, 1	660, 1-1	SIO	brain_wave	SNT	NSNT
+342, 2	661, 1-1	SIO	ella	NSNT	NSNT
+342, 3	662, 1-1	SIO	dw	NSNT	NSNT
+342, 4	662, 2-5	SIO	dw meddwl mynd abroad	SNT	SNT
+342, 5	662, 6-13	SIO	fasai yn well *just* achos bod o fel	---	NST
+
+
+343, 1	664, 1-3	MER	nabod ni de	NSNT	NSNT
+343, 2	664, 4-10	MER	basen ni yn end_io fyny yn colli	---	SNT
+
+
+344, 1	665, 1-1	SIO	ella	SNT	NSNT
+344, 2	666, 1-1	SIO	*sorry*	---	NST
+
+
+345, 1	667, 1-6	MER	basen ni colli chdi yn rywle	---	NSNT
+
+
+346, 1	668, 1-3	SIO	*mmm* ella wir	---	NST
+
+
+347, 1	669, 1-11	MER	yn yr *er* be ydy enw yr lle *um* y *Louvre*	NST	NST
+347, 3	672, 1-4	MER	ella yn y *Sacre_Coeur*	NST	NST
+347, 5	674, 1-4	MER	yn y Eiffel_Tower hefyd	NSNT	SNT
+347, 7	677, 1-10	MER	neu ar y *Seine* neu whatever ydy enw yr afon	ST	ST
+347, 8	678, 1-1	MER	*Seine*	NST	NST
+347, 9	679, 1-1	MER	*Seine*	---	NST
+
+
+348, 1	680, 1-2	SIO	*Seine* *Seine*	---	NST
+
+
+349, 1	681, 1-1	MER	*Seine*	---	NST
+
+
+350, 1	682, 1-1	SIO	*Seine*	ST	NST
+350, 3	685, 1-3	SIO	wyt ti wedi	NSNT	NSNT
+350, 4	685, 4-9	SIO	wyt ti wedi weld *um* *Google_Earth*	---	NST
+
+
+351, 1	686, 2-6	MER	dw i efo fo ar	---	NSNT
+
+
+352, 1	687, 1-3	SIO	mae hwnna yn	---	NSNT
+
+
+353, 1	688, 1-6	MER	wnes i download_io fo ages yn_ôl	NSNT	SNT
+353, 2	688, 7-7	MER	sti	---	NSNT
+
+
+354, 1	689, 1-7	SIO	*oh* ti wedi *oh* ti wedi bod	ST	NST
+354, 2	690, 1-2	SIO	download_io fo	NSNT	SNT
+354, 3	691, 1-4	SIO	mae o yn dda	---	NSNT
+
+
+355, 1	692, 1-4	COL	ydy o yn dda	---	NSNT
+
+
+356, 1	693, 1-2	SIO	yndy wir	NSNT	NSNT
+356, 2	694, 1-8	SIO	oeddet ti gallu fel mynd *round* y holl	NST	NST
+356, 3	695, 1-4	SIO	mae *dad* wedi ffeindio	NST	NST
+356, 4	695, 5-15	SIO	lle oedden ni yn *um* wedi cael ei geni yn Llundain	NST	NST
+356, 5	697, 1-4	SIO	fel y y tŷ	NSNT	NSNT
+356, 6	698, 1-2	SIO	tŷ ni	---	NSNT
+
+
+357, 1	699, 1-7	COL	gest ti dy eni yn mewn tŷ	NSNT	NSNT
+357, 2	701, 1-5	COL	ta mewn *hospital* gest ti	---	NST
+
+
+358, 1	702, 1-9	SIO	*oh* ond ges i eni eni yn y *hospital*	NST	NST
+358, 2	703, 1-7	SIO	ond y tŷ lle oedden ni yn	NSNT	NSNT
+358, 3	703, 8-13	SIO	lle oedden ni gyd yn byw	---	NSNT
+
+
+359, 1	704, 1-7	COL	pa mor agos ti gallu swmio i_fewn	---	NSNT
+
+
+360, 1	705, 1-6	SIO	wyt ti yn gallu fel swmio	NSNT	NSNT
+360, 2	706, 1-11	SIO	wyt ti yn gallu yn weddol agos i i rhei leoedd	NSNT	NSNT
+360, 3	707, 1-3	SIO	fel dw meddwl	NSNT	NSNT
+360, 4	707, 4-16	SIO	bod *um* Llundain a a pethau fel yna mwy *um* fel detailed na	---	ST
+
+
+361, 1	708, 1-1	COL	advanced	---	NSNT
+
+
+362, 1	709, 1-3	MER	*yeah* Manchester Edinburgh	---	NST
+
+
+363, 1	711, 1-3	COL	sut mae Ynys_Môn	NSNT	NSNT
+363, 2	712, 1-4	COL	ti wedi bod ar	---	NSNT
+
+
+364, 1	713, 1-1	MER	Ynys_Môn	---	NSNT
+
+
+365, 1	714, 1-5	SIO	Ynys_Môn *just* fel *Caernarfon* i_gyd	---	NST
+
+
+366, 1	715, 1-6	MER	Ynys_Môn iawn ydy yr unig lle	NSNT	NSNT
+366, 2	715, 8-11	MER	sy efo cwmwl drosto	NSNT	NSNT
+366, 3	717, 1-8	MER	o whole byd bron iawn i_gyd de Ynys_Môn	NSNT	SNT
+366, 4	717, 9-12	MER	ydy yr unig un	NSNT	NSNT
+366, 5	717, 13-18	MER	sy efo cwmwl drosto fo i_gyd	---	NSNT
+
+
+367, 1	718, 1-5	COL	*so* fedri di ddim gweld	---	NST
+
+
+368, 1	719, 1-11	MER	fedri di ddim gweld dim_byd o Ynys_Môn llyn *Awel* dipyn bach	---	NST
+
+
+369, 1	720, 1-9	COL	*yeah* ond mae yr cwmwl obviously yn symud a	---	ST
+
+
+370, 1	721, 1-6	SIO	na achos dydy o ddim fel	NSNT	NSNT
+370, 3	723, 1-7	SIO	dydy yr amser ddim yn mynd ymlaen	NSNT	NSNT
+370, 4	724, 1-9	SIO	mae nhw wedi fel wneud y photography a wedyn	---	SNT
+
+
+371, 1	725, 1-4	COL	a dyna fo felly	---	NSNT
+
+
+372, 1	726, 1-2	SIO	dyna fo	---	NSNT
+
+
+373, 1	727, 1-7	COL	*so* dydy o ddim yn constantly changing	---	ST
+
+
+374, 1	728, 1-13	SIO	*er* *er* ond ond ella mae nhw yn update_io fo ond ond ddim	NST	ST
+374, 2	729, 1-9	SIO	mae nhw gorfod fynd *round* yr holl lleoedd yma	---	NST
+
+
+375, 1	730, 1-7	MER	wnes i trio chwilio amdan yr *um*	NST	NST
+375, 2	731, 1-2	MER	wnest ti	NSNT	NSNT
+375, 3	732, 1-7	MER	os ti mynd ar y *thing* de	---	NST
+
+
+376, 1	733, 1-13	SIO	wyt ti wedi mynd ar y *tour* a gweld y *Grand_Canyon* ac *um*	---	NST
+
+
+377, 1	735, 1-6	MER	ti gallu tilt_io fo wedyn dwyt	---	SNT
+
+
+378, 1	736, 1-5	COL	faint mae yn gostio i	---	NSNT
+
+
+379, 1	738, 1-6	MER	three_d *sort* of *thing* rei llefydd	---	ST
+
+
+380, 1	739, 1-5	SIO	fel mynd mynd i_lawr *yeah*	---	NST
+
+
+381, 1	741, 1-6	COL	faint mae costio i download_io fo	---	SNT
+
+
+382, 1	742, 1-2	MER	dim_byd sti	---	NSNT
+
+
+383, 1	743, 1-2	SIO	*just* dim_byd	---	NST
+
+
+384, 1	745, 1-4	MER	na mae yna *Google_Earth*	NST	NST
+384, 2	746, 1-5	MER	a wedyn mae hwnna *free*	NST	NST
+384, 3	747, 1-4	MER	*Google_Earth_Plus* mae hwnna costio	---	NST
+
+
+385, 1	748, 1-3	SIO	faint ydy o	---	NSNT
+
+
+386, 1	749, 1-4	MER	ddim yn gwybod baswn	NSNT	NSNT
+386, 2	749, 5-12	MER	baswn i ddim yn talu amdano fo chwaith	NSNT	NSNT
+386, 3	751, 1-4	MER	ond mae yr *um*	NST	NST
+386, 4	752, 1-10	MER	o'n i mae yna fath â *games* *sort* of *thing*	ST	ST
+386, 5	753, 1-14	MER	a ti yn gorod mynd *round* y byd yn chwilio amdan y llefydd yma	NST	NST
+386, 6	754, 1-12	MER	o'n i trio chwilio amdan yr *er* *Taj_Mahal* yn *um* *India* *Delhi*	---	NST
+
+
+387, 1	755, 1-1	SIO	God	SNT	NSNT
+387, 2	756, 1-12	SIO	wnes i weld yr *um* *opera* house *Sydney* *opera* house yn *Sydney*	---	ST
+
+
+388, 1	757, 1-8	MER	*oh* *yeah* *oh* do'n i methu ffeindio hwnna	---	NST
+
+
+389, 1	758, 1-15	SIO	wnes i mynd i i *Australia* a gweld fel *um* airy *Ayre's_Rock* yn yn *Australia*	NST	ST
+389, 2	760, 1-5	SIO	*Ayre's_Rock* yn yn y canol	NST	NST
+389, 3	762, 1-2	SIO	ac *um*	---	NST
+
+
+390, 1	763, 1-5	COL	yn *Delhi* mae yr Commonwealth	ST	ST
+390, 2	763, 6-6	COL	nesa	---	NSNT
+
+
+391, 1	766, 1-1	MER	*New_Delhi*	---	NST
+
+
+392, 1	768, 1-12	SIO	ond wyt ti yn gallu gweld *site* yr *Olympics* yn *Sydney* *Olympics*	NST	NST
+392, 2	770, 1-3	SIO	pa pa blwyddyn	NSNT	NSNT
+392, 3	771, 1-1	SIO	dwy	---	NSNT
+
+
+393, 1	772, 1-6	MER	cofio es i i *Barcelona* *Barcelona*	---	NST
+
+
+394, 1	773, 1-5	SIO	two thousand dw meddwl ella	---	SNT
+
+
+395, 1	774, 1-6	COL	dw ddim yn cofio yn iawn	---	NSNT
+
+
+396, 1	775, 1-5	SIO	dw i ddim yn *sure*	---	NST
+
+
+397, 1	776, 1-13	MER	cofio es i i *Barcelona* gweld yr *um* lle *Olympics* fan yna pan	NST	NST
+397, 2	777, 1-6	MER	mi oedd o ar un adeg	NSNT	NSNT
+397, 3	777, 7-8	MER	doedd *Barcelona*	NST	NST
+397, 4	779, 1-17	MER	*well* aethon ni i yr lle *football* *pitch* ac yr *well* y *track* a yr lle nofio	---	NST
+
+
+398, 1	780, 1-13	COL	ti wedi dod dechrau dod dros Germany gweld y *stadiums* newydd *football* felly	NST	ST
+398, 2	781, 1-8	COL	ydyn nhw bildio rei newydd ar_gyfer y World_Cup	---	SNT
+
+
+399, 1	784, 1-3	MER	a yr *Wembley*	---	NST
+
+
+400, 1	785, 1-11	COL	ti meddwl basen ni gallu mynd i Germany yr ha yma	---	SNT
+
+
+401, 1	786, 1-1	SIO	fysai	---	NSNT
+
+
+402, 1	787, 1-4	COL	wedyn basen ni gallu	NSNT	NSNT
+402, 2	787, 5-10	COL	bod yn y efo yr World_Cup	---	SNT
+
+
+403, 1	788, 1-12	SIO	fyset ti isie mynd yn yr haf neu *just* ar_ôl yr haf	---	NST
+
+
+404, 1	789, 1-1	COL	*well*	---	NST
+
+
+405, 1	790, 1-2	SIO	fysai yn	NSNT	NSNT
+405, 2	790, 3-11	SIO	fysai yn mwy mwy drud yn y yr haf	---	NSNT
+
+
+406, 1	791, 1-2	COL	ia ond	---	NSNT
+
+
+407, 1	792, 1-1	SIO	ond	---	NSNT
+
+
+408, 1	793, 1-9	COL	mi fysen ni yn gallu mynd ella yn rhatach	NSNT	NSNT
+408, 2	793, 10-12	COL	dw ddim gwybod	---	NSNT
+
+
+409, 1	794, 1-2	SIO	*yeah* ella	---	NST
+
+
+410, 1	795, 1-1	COL	dyna	NSNT	NSNT
+410, 2	795, 2-4	COL	be ydy o	---	NSNT
+
+
+411, 1	796, 1-3	SIO	faint o_gloch ydy	---	NSNT
+
+
+412, 1	797, 1-7	MER	*um* mae yn hanner awr wedi dau	NST	NST
+412, 2	797, 8-9	MER	dw meddwl	---	NSNT
+
+
+413, 1	798, 1-2	COL	twenty_five past	---	NSNT
+
+
+414, 1	800, 1-5	MER	pum munud ar hugain wedi	---	NSNT
+
+
+415, 1	801, 1-7	COL	ond *er* lle ti meddwl mynd i	NST	NST
+415, 2	802, 1-6	COL	i *J_J_B* ti isio mynd prynu	---	NST
+
+
+416, 1	803, 1-3	SIO	i prynu *trainers*	---	NST
+
+
+417, 1	805, 1-7	MER	ti am gael rei hefyd *Col* neu	---	NST
+
+
+418, 1	806, 1-3	COL	dw am sbïo	NSNT	NSNT
+418, 2	806, 4-4	COL	yndw	---	NSNT
+
+
+419, 1	807, 1-6	SIO	*yeah* ella wna i *just* sbïo	NST	NST
+419, 2	808, 1-6	SIO	ond ond dw isio weld nhw	---	NSNT
+
+
+420, 1	810, 1-3	COL	*oh* na dw	NST	NST
+420, 2	810, 4-6	COL	dw am prynu	NSNT	NSNT
+420, 3	810, 7-10	COL	os wela i rei	NSNT	NSNT
+420, 4	810, 11-12	COL	dw licio	NSNT	NSNT
+420, 5	814, 1-4	COL	ond *um* oedd y	NST	NST
+420, 6	814, 5-20	COL	es i chwarae *football* yn *trainers* gorau fi diwrnod o blaen dim yn rhein felly ond	---	NST
+
+
+421, 1	815, 1-3	SIO	hefyd dw ddim	---	NSNT
+
+
+422, 1	817, 1-9	COL	*um* a wedyn wnaethon nhw cael *right* mwdlyd felly	NST	NST
+422, 3	819, 1-3	COL	chwarae *football* yn	---	NST
+
+
+423, 1	821, 1-9	MER	ond wnes i dal ddim gwario pres Dolig fi	---	NSNT
+
+
+424, 1	822, 1-1	COL	naddo	---	NSNT
+
+
+425, 1	825, 1-3	MER	o'n i *hospital*	NST	NST
+425, 2	826, 1-12	MER	*so* wnes i ddim cael *chance* i fynd i brynu dim_byd na	---	NST
+
+
+426, 1	827, 1-1	SIO	naddo	---	NSNT
+
+
+427, 1	830, 1-10	COL	*so* mae gynno chdi ddigon o bres prynu dy *M_P_three*	---	NST
+
+
+428, 1	833, 1-2	MER	llyfr *bank*	---	NST
+
+
+429, 1	835, 1-4	COL	llyfr *bank* ti efo	---	NST
+
+
+430, 1	836, 1-6	MER	*yeah* does gynno fi ddim cardyn	---	NST
+
+
+431, 1	837, 1-3	COL	na finnau chwaith	---	NSNT
+
+
+432, 1	838, 1-2	MER	*Halifax* *yeah*	ST	NST
+432, 2	839, 1-3	MER	dw ddim yn	NSNT	NSNT
+432, 3	839, 4-7	MER	roid pres yn *H_S_B_C*	---	NST
+
+
+433, 1	840, 1-6	COL	*well* hynna ydy un fi hefyd	---	NST
+
+
+434, 1	842, 1-2	MER	*Gold_Account* *yeah*	---	NST
+
+
+435, 1	843, 1-5	COL	*oh* *yeah* *Gold_Account* fi hefyd	---	NST
+
+
+436, 1	844, 1-1	MER	*I_S_A_Saver*	---	NST
+
+
+437, 1	845, 1-5	COL	*I_S_A* ydy hwnna gynno chdi	ST	NST
+437, 2	847, 1-4	COL	*so* variable rate felly	NST	ST
+437, 3	849, 1-10	COL	dim ti ddim wedi wneud o ar y fix na	NSNT	SNT
+437, 4	850, 1-13	COL	neu ti cael dy penalise_io am tynnu pres dod allan o yr fix	---	SNT
+
+
+438, 1	851, 1-7	MER	na tydw i ddim yn cael na	SNT	NSNT
+438, 2	853, 1-13	MER	thirty_first third of thirty_first of the third oh_five wnes i ddechrau *account* yma	---	ST
+
+
+439, 1	855, 1-7	COL	ti wedi cael llyfr *I_S_A* gynnon nhw	NST	NST
+439, 2	857, 1-12	COL	dim ond *so* tri mil y flwyddyn ti cael roid yno fo	NST	NST
+439, 3	859, 1-2	COL	ges i	NSNT	NSNT
+439, 4	859, 3-6	COL	ges i ddim llyfr	NSNT	NSNT
+439, 5	859, 7-7	COL	naddo	NSNT	NSNT
+439, 6	860, 1-3	COL	*certificate* ges i	---	NST
+
+
+440, 1	861, 1-5	MER	ella bod un fi wahanol	NSNT	NSNT
+440, 2	861, 6-6	MER	sti	---	NSNT
+
+
+441, 1	862, 1-7	COL	*oh* fixed rate ydy yn *Halifax* fi	NST	ST
+441, 2	862, 8-9	COL	dw meddwl	NSNT	NSNT
+441, 3	865, 1-10	COL	wedyn sbïo ar faint o bres sy gynno fo yna	---	NSNT
+
+
+442, 1	866, 1-2	MER	busnesu de	---	NSNT
+
+
+443, 1	868, 1-4	COL	faint sy gynno fo	NSNT	NSNT
+443, 5	873, 1-3	COL	*very* *nice* yli	---	NST
+
+
+444, 1	874, 1-9	MER	digon o bres chwarae yr *organ* mynd *round* de	---	NST
+
+
+445, 1	876, 1-4	COL	*nice* mynd i uni	---	ST
+
+
+446, 1	879, 1-7	MER	gynno fi ryw mil mewn *bond* sti	NST	NST
+446, 3	882, 1-2	MER	cael tynnu	NSNT	NSNT
+446, 4	883, 1-7	MER	*well* dw i wedi ail_roid o mewn	NST	NST
+446, 5	884, 1-6	MER	ti roid fath â twenty_five quid	SNT	SNT
+446, 6	885, 1-6	MER	a wedyn mae nhw cadw nhw	NSNT	NSNT
+446, 7	886, 1-11	MER	a wedyn ti cael pres *lot* o *interest* arnyn nhw pethau	---	NST
+
+
+447, 1	887, 1-5	COL	ti cael *interest* arno fo	---	NST
+
+
+448, 1	888, 1-4	MER	uffar o *interest* de	---	NST
+
+
+449, 1	889, 1-5	COL	be ydy *risk* arno fo	NST	NST
+449, 2	889, 6-6	COL	ta	---	NSNT
+
+
+450, 1	890, 1-3	MER	does yna ddim	NSNT	NSNT
+450, 2	891, 1-19	MER	*oh* wnaeth *mam* roi *sort* of loads o bres pan o'n i ifanc fath â pres pan o'n i	NST	ST
+450, 3	891, 20-26	MER	timod pres babi pan gafon i ngeni	NSNT	NSNT
+450, 4	893, 1-7	MER	hi roid o i_gyd i_mewn fel yna	NSNT	NSNT
+450, 5	894, 1-3	MER	a wedyn mae	NSNT	NSNT
+450, 6	894, 4-6	MER	dw ddim gwybod	NSNT	NSNT
+450, 7	894, 7-10	MER	mae o *just* *interest*	NST	NST
+450, 8	895, 1-6	MER	mae o *just* wedi bildio i_fyny	NST	NST
+450, 9	896, 1-6	MER	a mae o wedi cyrraedd mil	---	NSNT
+
+
+451, 1	900, 1-1	SIO	*wow*	---	NST
+
+
+453, 1	903, 1-3	COL	*oh* *Premium_Bonds* felly	---	NST
+
+
+454, 1	905, 1-7	MER	ond dw meddwl *Premium* *yeah* *well* *Premium_Bonds*	---	NST
+
+
+455, 1	906, 1-3	COL	o'n i meddwl	---	NSNT
+
+
+456, 1	907, 1-4	MER	dim yr un peth	NSNT	NSNT
+456, 2	908, 1-9	MER	be ydy enw rheina ti yn cael a ti	---	NSNT
+
+
+457, 1	909, 1-7	COL	ti mynd mewn *prize* draw i yr	---	ST
+
+
+458, 1	910, 1-7	MER	ia dim dim rheina ydy o naci	---	NSNT
+
+
+459, 1	911, 1-2	COL	mae nhw	NSNT	NSNT
+459, 2	911, 3-6	COL	roid o i ti	NSNT	NSNT
+459, 3	912, 1-4	COL	dim rheina ydyn nhw	---	NSNT
+
+
+460, 1	914, 1-5	MER	*Children's_Bonds* neu rywbeth ydyn nhw	NST	NST
+460, 2	914, 6-6	MER	sti	---	NSNT
+
+
+461, 1	915, 1-11	COL	*oh* *so* mae nhw mature_io blwyddyn yma gynno chdi anyway felly	---	ST
+
+
+462, 1	916, 1-2	MER	mae nhw	---	NSNT
+
+
+463, 1	917, 1-1	COL	*so*	---	NST
+
+
+464, 1	918, 1-2	MER	dw *sure*	NST	NST
+464, 2	918, 3-9	MER	oedd *mam* wedi ail_roid nhw nôl i_mewn	NST	NST
+464, 3	918, 10-19	MER	dw meddwl am ryw tair blynedd neu rywbeth fel yna	---	NSNT
+
+
+465, 1	919, 1-1	COL	medri	NSNT	NSNT
+465, 2	920, 1-9	COL	*so* mae nhw yn mature_io blwyddyn yma i chdi	NST	ST
+465, 3	921, 1-3	COL	fedri di ddim	NSNT	NSNT
+465, 4	921, 4-8	COL	roid nhw nôl i_fewn wedyn	NSNT	NSNT
+465, 5	921, 9-10	COL	na fedri	NSNT	NSNT
+465, 6	922, 1-6	COL	wedyn ti yn adult wedyn dwyt	---	SNT
+
+
+466, 1	924, 1-3	MER	*oh* dw *sure*	NST	NST
+466, 2	924, 4-6	MER	bod *mam* newydd	NST	NST
+466, 3	925, 1-19	MER	ti yn cael ar_ôl hyn a hyn o flynyddoedd cael deud os wyt ti ti cael y pres wedyn	NSNT	NSNT
+466, 4	925, 20-20	MER	dwyt	NSNT	NSNT
+466, 5	927, 1-11	MER	*well* *just* cyn newydd fod eto mae nhw yn gofyn hynna	NST	NST
+466, 6	928, 1-3	MER	*so* dw i	NST	NST
+466, 7	928, 4-6	MER	dan ni wedi	NSNT	NSNT
+466, 8	928, 7-10	MER	roid o nôl i_mewn	NSNT	NSNT
+466, 9	929, 1-7	MER	*so* ga i ddim yr pres tan	NST	NST
+466, 10	931, 1-1	MER	rywbryd	---	NSNT
+
+
+467, 1	932, 1-1	SIO	diddorol	---	NSNT
+
+
+468, 1	933, 1-3	COL	*right* dda hwnna	---	NST
+
+
+469, 1	935, 1-10	MER	achos dw ddim really isio fo anyway ar y funud	---	SNT
+
+
+470, 1	936, 1-10	COL	ti yn cymryd bod chi gyd yn cymryd loan hefyd	---	SNT
+
+
+471, 1	937, 1-1	MER	yndw	NSNT	NSNT
+471, 2	938, 1-5	MER	be oedd enw yr *form*	ST	NST
+471, 3	939, 1-1	MER	*P*	---	NST
+
+
+472, 1	940, 1-9	SIO	wyt ti wedi *um* gyrru fo i_ffwrdd eto na	---	NST
+
+
+473, 1	941, 1-7	COL	na dw i wneud o wsnos yma	---	NSNT
+
+
+474, 1	942, 1-14	SIO	achos dw isie cael *um* rywbeth o fy *dad* fel *P* rywbeth fel P_sixty	---	ST
+
+
+475, 1	943, 1-1	MER	P_sixty	---	NSNT
+
+
+476, 1	944, 1-5	SIO	*P* ryw ryw ryw fel	---	NST
+
+
+477, 1	945, 1-7	COL	ti ti yn apply_o am *extra* money	---	ST
+
+
+478, 1	946, 1-3	SIO	na ond dw	NSNT	NSNT
+478, 2	946, 4-14	SIO	dw i yn i cael y loan i deud faint fel	NSNT	SNT
+478, 3	946, 15-16	SIO	mae faint	NSNT	NSNT
+478, 4	946, 17-21	SIO	mae fy rhieni yn yn	---	NSNT
+
+
+479, 1	947, 1-10	COL	*yeah* mae dy rhieni di yn cael dros forty_six thousand	---	ST
+
+
+480, 1	948, 1-5	SIO	*yeah* ond ond dw isio	NST	NST
+480, 2	949, 1-11	SIO	ond mae rhaid i nhw fel gwybod y fel financial situation	---	SNT
+
+
+481, 1	950, 1-8	COL	na os *er* na os wyt ti os	NST	NST
+481, 2	950, 9-18	COL	os mae dy rhieni di yn earn_io dros forty_six thousand	---	SNT
+
+
+482, 1	951, 1-2	SIO	dw ddim	---	NSNT
+
+
+483, 1	952, 1-8	COL	ti ddim yn cael dim mwy na three_five	---	SNT
+
+
+484, 1	953, 1-6	SIO	*oh* *oh* ond i wneud *er*	---	NST
+
+
+485, 1	954, 1-14	COL	dwyt ti ddim yn gorod roi dim payslip na dim_byd efo *just* deud hynna	NST	ST
+485, 2	955, 1-8	COL	*serious* nawr mae *dad* wedi gofyn wrth ddynes	NST	NST
+485, 3	957, 1-13	COL	*so* ti ddim angen ddim_byd *just* gyrru yr *form* yn_ôl i_fewn a wedyn	---	NST
+
+
+486, 1	959, 1-6	SIO	wyt ti wedi gyrru fo i_fewn	---	NSNT
+
+
+487, 1	960, 1-4	COL	na dim eto oherwydd	---	NSNT
+
+
+488, 1	961, 1-4	SIO	be ydy yr *um*	---	NST
+
+
+489, 1	962, 1-11	COL	ti ddim angen prwfio dim_byd ar y *minimum* ti gymryd de	---	NST
+
+
+490, 1	964, 1-4	SIO	be ydy yr *deadline*	---	NST
+
+
+491, 1	965, 1-10	COL	brawd fi newydd gael un fo hefyd drwy yr *post*	NST	NST
+491, 2	966, 1-2	COL	yr *forms*	---	NST
+
+
+492, 1	967, 1-9	MER	mae raid i o llenwi i cael un eto	NSNT	NSNT
+492, 2	967, 10-12	MER	de blwyddyn yma	---	NSNT
+
+
+493, 1	968, 1-1	SIO	wedyn	NSNT	NSNT
+493, 2	969, 1-3	SIO	yndy pob blwyddyn	---	NSNT
+
+
+494, 1	970, 1-13	COL	dw i am apply_o am y *thing* yna deudon nhw am apply_o October	ST	ST
+494, 2	971, 1-9	COL	ti fod i cael two hundred quid neu rywbeth	---	SNT
+
+
+495, 1	972, 1-5	MER	*oh* gyn yr *um* *council*	---	NST
+
+
+496, 1	973, 1-1	COL	cyngor	NSNT	NSNT
+496, 2	974, 1-7	COL	dw i am apply_o am hwnna hefyd	---	SNT
+
+
+497, 1	975, 1-4	MER	*every* little helps de	NST	ST
+497, 2	977, 2-16	MER	mae ryw *thing* yn *er* *Penrhos* *sort* of ryw ddyn yma biau *farm* seventeen rywbeth	NST	ST
+497, 3	978, 1-9	MER	ddim gwybod sut mae fel elusen *Owen_Lloyd* neu rywbeth	NST	NST
+497, 4	978, 10-11	MER	ydyn nhw	NSNT	NSNT
+497, 5	980, 1-10	MER	ti cael gafodd brawd fi five hundred quid two hundred	---	SNT
+
+
+498, 1	981, 1-6	COL	sut ti yn apply_o am hwnna	---	SNT
+
+
+499, 1	982, 1-4	MER	dw meddwl am bobl	NSNT	NSNT
+499, 2	982, 5-12	MER	sy yn byw yn either *Brynrefail* neu *Moelfre*	NST	ST
+499, 3	982, 13-14	MER	ydy o	NSNT	NSNT
+499, 4	984, 1-2	MER	wedyn mae	NSNT	NSNT
+499, 5	984, 3-3	MER	yr	NSNT	NSNT
+499, 6	984, 4-11	MER	dw ddim gwybod chairman o yr *thing* yn	NST	ST
+499, 7	984, 12-16	MER	roid llythyrau allan i pawb	NSNT	NSNT
+499, 8	984, 17-21	MER	sy yn *er* wneud o	---	NST
+
+
+500, 1	985, 1-1	COL	lwcus	---	NSNT
+
+
+501, 1	987, 1-3	MER	wnes i yrru	NSNT	NSNT
+501, 2	987, 4-6	MER	wnes i drio	NSNT	NSNT
+501, 3	988, 1-8	MER	achos es i ar y medical *course* yna	NST	ST
+501, 4	990, 1-10	MER	wnes i drio a gofyn os cael dipyn o bres	NSNT	NSNT
+501, 5	991, 1-2	MER	wnaethon nhw	NSNT	NSNT
+501, 6	991, 3-4	MER	roid hefyd	NSNT	NSNT
+501, 7	992, 1-7	MER	ddim yn cofio faint ges i wan	NSNT	NSNT
+501, 8	994, 1-5	MER	cael dipyn o bres cofio	---	NSNT
+
+
+502, 1	996, 1-8	SIO	pa blwyddyn ydy dy *um* dy dy brawd	---	NST
+
+
+503, 1	997, 1-6	MER	mae o ar ei ail wan	---	NSNT
+
+
+504, 1	998, 1-2	SIO	ail blwyddyn	---	NSNT
+
+
+505, 1	999, 1-8	COL	mynd i_fewn i yr trydydd flwyddyn nesa yndy	---	NSNT
+
+
+506, 1	1000, 1-4	MER	yndy yn dechrau *yeah*	---	NST
+
+
+507, 1	1001, 1-6	SIO	trydydd ydy yr un un final	---	SNT
+
+
+508, 1	1003, 1-5	MER	na mae o wneud pedwar	NSNT	NSNT
+508, 2	1005, 1-4	MER	wnaeth o ffaelio *maths*	NST	NST
+508, 3	1006, 1-7	MER	*well* neu wnaeth o ddim wneud *maths*	NST	NST
+508, 4	1006, 8-10	MER	dw ddim meddwl	NSNT	NSNT
+508, 5	1007, 1-12	MER	*um* *so* oedd o yn wneud foundation *course* o A_level *maths* cynta	---	ST
+
+
+509, 1	1010, 1-16	COL	*so* fydd o dal yn y tŷ yna pan fyddach chi mynd i second *year* felly	---	ST
+
+
+510, 1	1011, 1-1	MER	bydd	NSNT	NSNT
+510, 2	1012, 1-2	MER	dibynnu be	NSNT	NSNT
+510, 3	1013, 1-19	MER	*oh* dw ddim gwybod fo ella fod o am wneud *year* in *er* *year* in industry *sort* of *thing*	ST	ST
+510, 4	1015, 1-3	MER	bod o deud	NSNT	NSNT
+510, 5	1015, 4-5	MER	bod o	NSNT	NSNT
+510, 6	1015, 6-9	MER	wedi bod yn siarad	NSNT	NSNT
+510, 7	1015, 10-15	MER	a bod o isio wneud hynna	---	NSNT
+
+
+511, 1	1016, 1-5	COL	gewch chi ei dŷ o	NSNT	NSNT
+511, 2	1017, 1-9	COL	gewch chi sbario sbïo *just* bachu tŷ o wedyn	NST	NST
+511, 3	1020, 1-4	COL	*right* *handy* hynna bydd	---	NST
+
+
+512, 1	1021, 1-4	MER	tŷ *right* *nice* actually	ST	ST
+512, 2	1024, 1-12	MER	dydy o ddim yn bell iawn o yr lle *um* *music* chwaith	---	NST
+
+
+513, 1	1025, 1-3	COL	*oh* nag ydy	NST	NST
+513, 2	1025, 4-5	COL	nag ydy	NSNT	NSNT
+513, 3	1025, 6-8	COL	dydy o ddim	NSNT	NSNT
+513, 4	1026, 1-3	COL	wnest ti ddangos	---	NSNT
+
+
+514, 1	1027, 1-7	MER	ti cofio yr lle ar *Column_Road* yna	NST	NST
+514, 2	1029, 1-16	MER	*well* deuda fod yr dyna hwnna fel yna wan a yr lle *music* tua fan yna	NST	NST
+514, 3	1031, 1-9	MER	*well* ar *Column_Road* yna mynd i_fyny fel yna doedd	NST	NST
+514, 4	1033, 1-9	MER	*oh* ddaru tŷ fo mwy mynd i_fyny fel yna	NST	NST
+514, 5	1034, 1-11	MER	yr lôn yn cario cario ymlaen drost ryw y *train* *track*	NST	NST
+514, 6	1036, 1-2	MER	wedyn i_fyny	NSNT	NSNT
+514, 7	1037, 1-13	MER	ac oedd o tua fan yna *sort* of *thing* fyny ryw lôn fach	NST	ST
+514, 8	1039, 1-3	MER	lle *right* *nice*	NST	NST
+514, 10	1041, 2-15	MER	oedd o fath â *right* wrth ymyl y *pubs* a pethau fel yna i_gyd	NST	NST
+514, 11	1042, 1-9	MER	*oh* faint faint o bedrooms sy yna i chdi	NST	ST
+514, 12	1043, 1-3	MER	oedd yna tua	NSNT	NSNT
+514, 13	1044, 1-2	MER	un dau	NSNT	NSNT
+514, 14	1045, 1-2	MER	timod *Phil*	---	NST
+
+
+515, 1	1046, 1-2	COL	*Phil* *yeah*	---	NST
+
+
+516, 1	1047, 1-6	MER	oedd fo yn byw llawr gwaelod	---	NSNT
+
+
+517, 1	1048, 1-5	COL	ydy o dal yn uni	---	SNT
+
+
+518, 1	1051, 1-2	MER	*um* *Sara*	ST	NST
+518, 2	1053, 1-7	MER	*Carys* mae *Car* yn dod o *Benllech*	ST	NST
+518, 3	1054, 1-1	MER	*Carys*	---	NST
+
+
+519, 1	1055, 1-6	SIO	ella dw i yn adnabod hi	---	NSNT
+
+
+520, 1	1056, 1-2	MER	mae *sure*	NST	NST
+520, 2	1056, 3-4	MER	bod chdi	NSNT	NSNT
+520, 3	1057, 1-8	MER	*Carys* wedyn *Darren* wedyn ryw hogan arall yma	---	NST
+
+
+521, 1	1058, 1-3	COL	ydyn nhw i_gyd	NSNT	NSNT
+521, 2	1059, 1-11	COL	*so* mae nhw wedi aros yn eu *gang* nhw mewn ffordd	---	NST
+
+
+522, 1	1060, 3-10	MER	mae yna rei eraill hefyd *sort* of which	ST	ST
+522, 2	1060, 11-15	MER	dw ddim gwybod *sort* of	ST	ST
+522, 3	1061, 1-5	MER	mae nhw nabod ei_gilydd wan	NSNT	NSNT
+522, 4	1061, 6-10	MER	timod *right* dda *just* *oh*	NST	NST
+522, 5	1061, 11-22	MER	dw ddim dim yr un *sort* o ysgol ni *sort* of *thing*	---	ST
+
+
+523, 1	1063, 1-11	COL	mae pwy yna mab *er* merch *Rachel_Roberts* *er* diwrnod o blaen	NST	NST
+523, 2	1065, 1-1	COL	ydyn	---	NSNT
+
+
+524, 1	1066, 1-9	MER	*Rachel_Roberts* dod i weld *Darren* pan fydd hi yna	NST	NST
+524, 2	1066, 10-10	MER	sti	---	NSNT
+
+
+525, 1	1069, 1-3	COL	chwarae teg iddi	NSNT	NSNT
+525, 2	1070, 1-5	COL	fydd raid ni ddod yn_ôl	---	NSNT
+
+
+526, 1	1071, 1-4	MER	baswn i ddim synnu	NSNT	NSNT
+526, 2	1071, 5-9	MER	petasai dod i weld ni	NSNT	NSNT
+526, 3	1071, 10-11	MER	mae *sure*	NST	NST
+526, 4	1071, 12-16	MER	pan fyddwn ni lawr yna	---	NSNT
+
+
+527, 1	1075, 1-5	SIO	dw yn *sure* ella ella	NST	NST
+527, 2	1075, 6-8	SIO	dw yn *sure*	NST	NST
+527, 3	1075, 9-10	SIO	fydd hi	---	NSNT
+
+
+528, 1	1077, 1-8	COL	*yeah* *Auntie* *Rachel* mae nhw yn galw hi	---	NST
+
+
+529, 1	1079, 1-11	SIO	honestly oedd chwaer *Owen* yn ffonio tŷ *um* *er* *Rachel_Roberts* oherwydd	NST	ST
+529, 2	1079, 12-16	SIO	bod hi yr un oed	NSNT	NSNT
+529, 3	1079, 17-20	SIO	â ei merch hi	---	NSNT
+
+
+530, 1	1080, 1-4	COL	ac oedd hi yna	SNT	NSNT
+530, 2	1081, 1-4	COL	*oh* *hello* *Auntie* *Rachel*	ST	NST
+530, 4	1083, 1-2	COL	ond *um*	---	NST
+
+
+531, 1	1084, 1-12	MER	oedd hi wedi gyrru cardyn cardyn neu llythyr neu rywbeth i *Darren*	NST	NST
+531, 2	1085, 1-2	MER	a dyna	NSNT	NSNT
+531, 3	1085, 3-12	MER	be oedd hi wedi sgwennu ar y gwaelod *Auntie* *Rachel*	---	NST
+
+
+532, 1	1087, 1-7	SIO	dy *yeah* ar dy cerdyn di or	---	ST
+
+
+533, 1	1088, 1-4	COL	na cerdyn i brawd	NSNT	NSNT
+533, 2	1090, 1-2	COL	ond *um*	---	NST
+
+
+534, 1	1091, 1-3	MER	peth arall de	NSNT	NSNT
+534, 2	1091, 4-16	MER	byswn i methu galw yr un o yr *teachers* yna enw cynta nhw	---	NST
+
+
+535, 1	1092, 1-4	SIO	na fyswn i byth	---	NSNT
+
+
+536, 1	1093, 1-5	MER	baswn i methu deud *Rachel*	---	NST
+
+
+537, 1	1094, 1-1	SIO	dw	---	NSNT
+
+
+538, 1	1095, 1-5	MER	even petasai siarad efo chi	NSNT	SNT
+538, 2	1095, 6-10	MER	baswn i gorod mynd *Rachel_Roberts*	---	NST
+
+
+539, 1	1097, 1-3	SIO	dw i yn	NSNT	NSNT
+539, 2	1097, 4-9	SIO	a dw i yn deud *Rachel_Roberts*	---	NST
+
+
+540, 1	1098, 1-8	COL	yr unig un dw i yn gallu wneud	NSNT	NSNT
+540, 2	1098, 9-10	COL	ydy *Rhiannon_Bevan*	---	NST
+
+
+541, 1	1101, 1-3	SIO	*just* deud *Rhiannon*	NST	NST
+541, 2	1103, 1-1	SIO	dw	NSNT	NSNT
+541, 3	1103, 2-6	SIO	dw byth yn wneud hynny	---	NSNT
+
+
+542, 1	1104, 1-3	COL	oherwydd bod fi	NSNT	NSNT
+542, 2	1104, 4-20	COL	dw i wedi wneud un neu ddau o bethau tu allan i yr ysgol efo hi felly	NSNT	NSNT
+542, 3	1106, 1-1	COL	wedyn	---	NSNT
+
+
+543, 1	1107, 1-4	SIO	*oh* mae hwnnw wahanol	NST	NST
+543, 2	1107, 5-6	SIO	dw meddwl	NSNT	NSNT
+543, 3	1107, 7-17	SIO	os wyt ti yn adnabod nhw cyn iddyn nhw dod yn	---	NSNT
+
+
+544, 1	1109, 1-4	COL	*oh* no because I	NST	NST
+544, 2	1109, 5-15	COL	I o'n i nabod *Eirlys_Hughes* cyn mynd i yr ysgol felly	NST	ST
+544, 3	1110, 1-10	COL	ond dw i dal methu galw hi yn *Eirlys* felly	NST	NST
+544, 4	1112, 1-2	COL	ond *er*	---	NST
+
+
+545, 1	1113, 1-6	MER	*oh* yr unig rhei fedra i	NST	NST
+545, 2	1113, 7-10	MER	ydy *Barbara* dim *Barbara_Davies*	NST	NST
+545, 3	1115, 1-4	MER	un o yr cymhorthydd	NSNT	NSNT
+545, 4	1116, 1-12	MER	achos dw yn *sort* of nabod hi hefyd a ei gŵr *Trevor*	NST	ST
+545, 5	1118, 1-4	MER	oedd o yna ddoe	NSNT	NSNT
+545, 6	1120, 1-9	MER	ac *um* *just* yn roi cymorth iddyn nhw really	ST	ST
+545, 7	1122, 1-1	MER	*Angharad*	ST	NST
+545, 9	1125, 1-8	MER	dw ddim yn actually gwybod *surnames* nhw actually	ST	ST
+545, 10	1125, 9-15	MER	timod *just* gwybod nhw efo enw cynta	---	NST
+
+
+546, 1	1127, 1-8	COL	yr os dw yn gwybod enw cynta nhw	NSNT	NSNT
+546, 2	1127, 9-17	COL	ond bod fi ddim isio galw nhw enw cynta	NSNT	NSNT
+546, 3	1127, 18-28	COL	ond bod fi ddim isio galw nhw fath â *sir* *miss*	NST	NST
+546, 4	1127, 29-36	COL	dw *just* gadael enw allan edrych yn iawn	NST	NST
+546, 6	1129, 1-3	COL	dw ddim gwybod	---	NSNT
+
+
+547, 1	1130, 1-2	SIO	dw i	NSNT	NSNT
+547, 2	1130, 3-5	SIO	dw i bob	NSNT	NSNT
+547, 3	1130, 6-11	SIO	tro yn dweud *sir* neu *miss*	NST	NST
+547, 4	1133, 1-9	SIO	hyd_yn_oed os dw i fel *er* tu allan ysgol	NST	NST
+547, 5	1133, 10-15	SIO	dw i yn deud *hi* *sir*	---	NST
+
+
+548, 1	1134, 1-8	COL	*oh* na dydw i ddim yn wneud hynna	---	NST
+
+
+549, 1	1135, 1-3	MER	*oh* baswn i	---	NST
+
+
+550, 1	1136, 1-5	SIO	a wedyn *Tesco's* neu rywbeth	---	NST
+
+
+551, 1	1137, 1-1	MER	*Meilir_Owens*	ST	NST
+551, 2	1138, 1-3	MER	cofio gweld *Clive_Richards*	NST	NST
+551, 3	1139, 1-5	MER	oeddwn i yna pwsio *trolley*	NST	NST
+551, 4	1140, 1-13	MER	wedyn all of a *sudden* *right* yn pen draw yn *Tesco's* *Clive_Richards* yna	NST	ST
+551, 7	1143, 1-6	MER	a pwy arall wnes i weld	NSNT	NSNT
+551, 8	1143, 7-7	MER	ta	NSNT	NSNT
+551, 9	1144, 1-6	MER	wnes i weld rywun arall hefyd	---	NSNT
+
+
+552, 1	1145, 1-9	COL	*oh* na *Alun_Llywelyn* fedran ni alw fo yn *Alun*	NST	NST
+552, 2	1145, 10-10	COL	medran	NSNT	NSNT
+552, 3	1146, 1-3	COL	chwarae efo kids	---	SNT
+
+
+553, 1	1147, 1-7	SIO	*oh* *yeah* ond o't ti yn chwarae	NST	NST
+553, 2	1149, 1-4	SIO	*yeah* o't ti yn	---	NST
+
+
+554, 1	1150, 1-1	MER	*Mr_Llywelyn*	ST	NST
+554, 2	1151, 1-4	MER	na *sir* fyswn i	NST	NST
+554, 3	1152, 1-2	MER	dw gwybod	NSNT	NSNT
+554, 4	1154, 1-4	MER	mae o yn deud	NSNT	NSNT
+554, 5	1154, 5-5	MER	dydy	---	NSNT
+
+
+555, 1	1155, 1-6	COL	a *Berwyn* medri di galw fo	---	NST
+
+
+556, 1	1156, 1-11	MER	*oh* *Berwyn* fyswn i ddim yn galw fo yn *Rhys* *Mr_Rhys*	---	NST
+
+
+557, 1	1157, 1-1	COL	bysachd	NSNT	NSNT
+557, 2	1159, 1-8	COL	*er* *Berwyn* basa chdi yn alw fo de	---	NST
+
+
+558, 1	1160, 1-2	MER	a *Meic*	---	NST
+
+
+559, 1	1161, 1-2	COL	*yeah* *Meic*	---	NST
+
+
+560, 1	1162, 1-4	MER	*Mr_Parry* achos yr unig	---	NST
+
+
+561, 1	1163, 1-8	COL	pan mae nhw yn gofyn wrthan ni felly	NSNT	NSNT
+561, 2	1164, 1-5	COL	pan dw siarad efo pobl	NSNT	NSNT
+561, 3	1164, 6-8	COL	dw yn deud	NSNT	NSNT
+561, 4	1165, 1-7	COL	*oh* *yeah* mae *Meic* yn deud hynna	NST	NST
+561, 5	1166, 1-8	COL	pan dw siarad efo *teachers* yn yr ysgol	NST	NST
+561, 6	1166, 9-12	COL	fedra i ddim deud	---	NSNT
+
+
+562, 1	1168, 1-3	MER	*Meic* *Mr_Parry* *Meic_Parry*	---	NST
+
+
+563, 1	1169, 1-1	COL	*Mr_Parry*	---	NST
+
+
+564, 1	1171, 1-16	MER	na funny achos pan oedden ni chwarae *cricket* o flaen o pan o'n i yn deud	NST	ST
+564, 2	1172, 1-5	MER	*oh* dach chi iawn *sir*	NST	NST
+564, 3	1173, 1-3	MER	cael *please* *Alun*	---	NST
+
+
+565, 1	1175, 1-2	COL	*yeah* *Alun*	NST	NST
+565, 2	1176, 1-2	COL	*c'mon* *Alun*	---	NST
+
+
+566, 1	1178, 1-2	MER	*c'mon* *Alun*	---	NST
+
+
+567, 1	1179, 1-3	COL	*oh* dyna yr	---	NST
+
+
+568, 1	1182, 1-2	SIO	*yeah* mae	NST	NST
+568, 2	1182, 3-9	SIO	mae nhw yn alw yr *teachers* efo	---	NST
+
+
+569, 1	1183, 1-4	COL	mae nhw first name	SNT	SNT
+569, 2	1183, 5-7	COL	wyt ti galw	---	NSNT
+
+
+570, 1	1184, 1-7	SIO	ac yn prifysgol mae nhw hefyd i_gyd	---	NSNT
+
+
+571, 1	1186, 1-9	COL	o'n i yn *Nant_Gwrtheyrn* de ac *er* siarad deud	NST	NST
+571, 2	1187, 1-11	COL	*oh* *yeah* mae o yn *party* *Barbara* neu rywbeth deuda fory	NST	NST
+571, 3	1188, 1-5	COL	*oh* iawn fath â jocio	NST	NST
+571, 4	1188, 6-10	COL	bod raid fi gael presant	NSNT	NSNT
+571, 5	1188, 11-16	COL	bod raid ni gael presant felly	NSNT	NSNT
+571, 6	1189, 1-8	COL	ond actually siarad am *teacher* nhw oedden nhw	NST	ST
+571, 7	1190, 1-6	COL	ac oedden ni fath â *o_k*	NST	NST
+571, 9	1193, 1-10	COL	oherwydd ti *just* ddim yn meddwl amdano fo fel yna	NST	NST
+571, 10	1195, 1-3	COL	oherwydd pan oedd	NSNT	NSNT
+571, 11	1196, 1-6	COL	ti cofio *um* *teacher* Saesneg ni	NST	NST
+571, 12	1197, 1-3	COL	oherwydd mae hi	NSNT	NSNT
+571, 13	1197, 4-7	COL	aeth hi weithio *Nant_Gwrtheyrn*	NST	NST
+571, 14	1199, 1-6	COL	ti cofio yr un gwallt du	---	NSNT
+
+
+572, 1	1201, 1-1	MER	*Alison_Price*	---	NST
+
+
+573, 1	1202, 1-1	SIO	*Alison_Price*	---	NST
+
+
+574, 1	1203, 1-1	COL	*Alison_Price*	ST	NST
+574, 2	1204, 1-9	COL	oedden ni galw hi yn *miss* a ballu yna	NST	NST
+574, 3	1206, 1-10	COL	hyd_yn_oed na *Alison* oedd hi isio ni galw hi felly	NST	NST
+574, 4	1207, 1-6	COL	oedd o yn *right* weird actually	---	ST
+
+
+575, 1	1211, 1-1	MER	dyna	NSNT	NSNT
+575, 2	1211, 2-3	MER	be mae	---	NSNT
+
+
+576, 1	1212, 1-8	SIO	ydy hi dal yn ddysgu yn dysgu yn	---	NSNT
+
+
+577, 1	1213, 1-1	COL	hi	NSNT	NSNT
+577, 2	1214, 1-10	COL	na gweithio efo *Nant_Gwrtheyrn* mae wan ac ryw bwrdd Cymraeg	NST	NST
+577, 3	1214, 11-13	COL	mae yn *sure*	NST	NST
+577, 4	1217, 1-3	COL	baswn i feddwl	---	NSNT
+
+
+578, 1	1218, 1-6	MER	wnes i siarad diwrnod o blaen	NSNT	NSNT
+578, 2	1219, 1-6	MER	ti cofio *Betsan_Williams* yn y *library*	NST	NST
+578, 3	1221, 1-5	MER	hi wnes i weld hi	NSNT	NSNT
+578, 4	1222, 1-7	MER	mae gweithio yn y *library* *Llangefni* wan	NST	NST
+578, 5	1222, 8-8	MER	dydy	NSNT	NSNT
+578, 6	1224, 1-3	MER	yn yr ysgol	NSNT	NSNT
+578, 7	1225, 1-9	MER	wedyn wnes i fynd i weld hi amser ysgol	---	NSNT
+
+
+579, 1	1228, 1-8	COL	pam wnaeth hi symud o ysgol ni felly	---	NSNT
+
+
+580, 1	1229, 1-4	MER	dw ddim yn gwybod	NSNT	NSNT
+580, 2	1229, 5-11	MER	sti *just* gweld o gormod o waith	NST	NST
+580, 3	1229, 12-13	MER	dw meddwl	NSNT	NSNT
+580, 4	1229, 14-14	MER	sti	---	NSNT
+
+
+581, 1	1230, 1-10	COL	*yeah* oedden nhw yn dibynnu arni i wneud bob peth	NST	NST
+581, 3	1232, 1-2	COL	ddeud gwir	---	NSNT
+
+
+582, 1	1234, 1-5	MER	ond oedd hi yn deud	NSNT	NSNT
+582, 2	1234, 6-12	MER	bod hi yn hoffi yn ysgol *Llangefni*	---	NST
+
+
+583, 1	1237, 1-14	COL	*sure* bod yna mwy o plant actually isio mynd i *library* yr ysgol *Llangefni*	---	ST
+
+
+584, 1	1239, 1-3	MER	dw ddim gwybod	NSNT	NSNT
+584, 2	1239, 4-4	MER	sti	NSNT	NSNT
+584, 3	1240, 1-6	MER	alla i fynd yna a God	SNT	SNT
+584, 4	1240, 7-10	MER	mae yn edrych fel	NSNT	NSNT
+584, 5	1240, 11-19	MER	bod y plant yn dim parch na dim_byd na	NSNT	NSNT
+584, 6	1242, 1-4	MER	i_gyd yn *just* nuts	ST	ST
+584, 7	1244, 1-1	MER	uffernol	---	NSNT
+
+
+585, 1	1246, 1-1	SIO	dw	NSNT	NSNT
+585, 2	1246, 2-3	SIO	dw meddwl	NSNT	NSNT
+585, 3	1246, 4-7	SIO	bod *Amlwch* yn well	---	NST
+
+
+586, 1	1247, 1-2	COL	well ysgol	---	NSNT
+
+
+587, 1	1248, 1-2	SIO	dw meddwl	NSNT	NSNT
+587, 2	1248, 3-9	SIO	dw meddwl fod *Syr_Thomas_Jones* un o yr	NST	NST
+587, 4	1250, 1-1	SIO	dw	NSNT	NSNT
+587, 5	1250, 2-5	SIO	dw i yn meddwl	NSNT	NSNT
+587, 6	1250, 6-9	SIO	bod o yn dda	---	NSNT
+
+
+588, 1	1251, 1-4	MER	*Bodedern* baswn i feddwl	NST	NST
+588, 2	1251, 5-6	MER	ydy gorau	---	NSNT
+
+
+589, 1	1252, 1-3	COL	ddaru nhw sôn	---	NSNT
+
+
+590, 1	1253, 1-1	SIO	ella	---	NSNT
+
+
+591, 1	1254, 1-1	MER	*well*	---	NST
+
+
+592, 1	1255, 1-4	COL	*Llangefni* ydy yr gorau	NST	NST
+592, 2	1255, 5-8	COL	de o ran grades	SNT	SNT
+592, 3	1255, 9-12	COL	mae nhw yn achieve_io	---	SNT
+
+
+593, 1	1258, 1-4	SIO	*oh* iawn ella wir	---	NST
+
+
+594, 1	1259, 1-3	COL	although wnaethon ni	NSNT	SNT
+594, 2	1259, 4-9	COL	wnaeth blwyddyn ni achieve_io *right* dda	NST	ST
+594, 3	1261, 1-13	COL	gymharu efo nhw oedden ni un o yr blynyddoedd gorau ar y *thing*	NST	NST
+594, 4	1263, 1-10	COL	ond *um* overall mae *Llangefni* *Bodedern* wedyn *Amlwch* wedyn Holyhead	---	ST
+
+
+595, 1	1264, 1-3	SIO	lle mae *David_Hughes*	---	NST
+
+
+596, 1	1265, 1-1	MER	*David_Hughes*	---	NST
+
+
+597, 1	1266, 1-1	COL	*well*	---	NST
+
+
+598, 1	1267, 1-5	MER	*David_Hughes* wedyn Holyhead mae *sure*	NST	ST
+598, 2	1267, 6-8	MER	baswn i feddwl	---	NSNT
+
+
+599, 1	1268, 1-7	COL	*oh* na *David_Hughes* *right* dda chwarae teg	---	NST
+
+
+600, 1	1270, 1-3	SIO	achos dw meddwl	NSNT	NSNT
+600, 2	1270, 4-10	SIO	bod fel *Amlwch* a *David_Hughes* weddol agos	NST	NST
+600, 3	1272, 1-2	SIO	dyna beth	NSNT	NSNT
+600, 4	1272, 3-5	SIO	mae yn deud	---	NSNT
+
+
+601, 1	1273, 1-5	COL	ond *just* mae dibynnu felly	NST	NST
+601, 2	1275, 1-5	COL	bydd *form* five blwyddyn yma	NST	ST
+601, 3	1275, 6-11	COL	pan fyddan nhw yn y sixth_form	SNT	SNT
+601, 4	1275, 12-15	COL	dw ddim yn meddwl	NSNT	NSNT
+601, 5	1275, 16-19	COL	wneith nhw wneud yn	---	NSNT
+
+
+602, 1	1276, 1-2	SIO	*just* *yeah*	---	NST
+
+
+603, 1	1277, 1-7	COL	dydy *Rachel_Roberts* ddim yn swndio yn ryw	---	NST
+
+
+604, 1	1278, 1-3	SIO	am *form* five	ST	ST
+604, 2	1280, 1-1	SIO	sut	---	NSNT
+
+
+605, 1	1283, 1-6	COL	dim brawd chdi ydy hwnna naci	---	NSNT
+
+
+606, 1	1284, 1-4	SIO	na na *form* four	---	ST
+
+
+607, 1	1285, 1-11	COL	doedd hi ddim yn swndio yn ryw *um* ryw ddisgwyliedig iawn	---	NST
+
+
+608, 1	1287, 1-4	SIO	be mae wedi deud	NSNT	NSNT
+608, 2	1288, 1-1	SIO	be	---	NSNT
+
+
+609, 1	1289, 1-14	COL	*oh* ddim yn gweld nhw yn rei blwyddyn oedd yn mynd i weithio loads	---	ST
+
+
+610, 1	1290, 1-1	SIO	mae	NSNT	NSNT
+610, 2	1290, 2-7	SIO	mae yna *lot* sydd yn weithio	NST	NST
+610, 3	1290, 8-9	SIO	dw meddwl	---	NSNT
+
+
+611, 1	1291, 1-2	COL	*Mark* de	---	NST
+
+
+612, 1	1292, 1-4	SIO	oes fel *Mark* a	---	NST
+
+
+613, 1	1293, 1-1	COL	*Aled*	---	NST
+
+
+614, 1	1294, 1-1	SIO	*Aled*	---	NST

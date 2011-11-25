@@ -1,0 +1,2846 @@
+
+
+1, 1	1, 1-3	AID	Cymry oedd y	NSNT	NSNT
+1, 2	1, 4-6	AID	ychi plant i_gyd	NSNT	NSNT
+1, 3	3, 1-9	AID	ond yn nineteen forty_five mi ddoth yna Russians yno	SNT	SNT
+1, 4	5, 1-2	AID	evacuees rwan	NSNT	SNT
+1, 5	7, 1-6	AID	o rywle yn y dwyrain yna	---	NSNT
+
+
+2, 1	8, 1-2	HEL	*oh* argian	---	NST
+
+
+3, 1	9, 1-15	AID	a mewn petawn i yn marw rwan dau fis oedden nhw yn gwybod dwy iaith	SNT	NSNT
+3, 3	11, 1-1	AID	Russian	SNT	NSNT
+3, 4	13, 1-2	AID	a Chymraeg	NSNT	NSNT
+3, 5	15, 1-2	AID	rhyfedd de	NSNT	NSNT
+3, 6	17, 1-3	AID	a wedyn oedd	NSNT	NSNT
+3, 7	17, 4-5	AID	oedd y	NSNT	NSNT
+3, 8	17, 6-13	AID	wchi y y *register* yn cael ei ddarllen	ST	NST
+3, 9	20, 1-2	AID	*um* *Oswy_Teifi_Evans*	NST	NST
+3, 10	22, 1-1	AID	*Tchlokalok*	---	NST
+
+
+4, 1	24, 1-5	HEL	*oh* Russian evacuees gaethoch chi	NST	ST
+4, 3	26, 1-1	HEL	argian	---	NSNT
+
+
+5, 1	27, 1-6	AID	ond rwan does yna ddim_byd yna	NSNT	NSNT
+5, 2	28, 1-1	AID	mae	NSNT	NSNT
+5, 3	28, 2-2	AID	yr	NSNT	NSNT
+5, 4	28, 3-7	AID	mae yr chwareli wedi mynd	NSNT	NSNT
+5, 6	31, 1-9	AID	mae yr siopau wedi mynd *post* *office* *er* *surgery*	---	NST
+
+
+6, 1	32, 1-2	HEL	wedi mynd	NSNT	NSNT
+6, 2	33, 1-3	HEL	*post* *office* chwaith	---	NST
+
+
+7, 1	34, 1-5	AID	does yna ddim *post* *office*	---	NST
+
+
+8, 1	35, 1-2	HEL	na *surgery*	NST	NST
+8, 3	37, 1-3	HEL	sobor hefyd te	NSNT	NSNT
+8, 4	39, 1-2	HEL	argian fawr	---	NSNT
+
+
+9, 1	40, 1-7	AID	mae yr capeli yn mynd at ei_gilydd	NSNT	NSNT
+9, 2	41, 1-7	AID	*um* mae nhw yn andros gapeli mawr	NST	NST
+9, 3	42, 1-6	AID	a wchi bach yn ei gynnal	---	NSNT
+
+
+10, 1	43, 1-5	HEL	*yeah* uno mae nhw wedyn	NST	NST
+10, 2	43, 6-7	HEL	te *yeah*	NST	NST
+10, 4	45, 1-13	HEL	oedd yna ddeg capel yn *Bethesda* ydach chi yn weld toedd ers talwm	---	NST
+
+
+11, 1	46, 1-1	AID	*sorry*	---	NST
+
+
+12, 1	47, 1-6	HEL	oedd yna ddeg capel yn *Bethesda*	NST	NST
+12, 2	52, 1-7	HEL	mae yna ddau yn *top* yn mynd	---	NST
+
+
+13, 1	53, 1-3	AID	deg argian fawr	---	NSNT
+
+
+14, 1	55, 1-6	HEL	a gyn gymaint o dai tafarnau	---	NSNT
+
+
+15, 1	57, 1-3	AID	*yeah* dyna fo	NST	NST
+15, 2	58, 1-3	AID	dw i ddim	NSNT	NSNT
+15, 3	58, 4-10	AID	wedi bod yn *um* y dafarn yna	NST	NST
+15, 4	60, 1-4	AID	oedd yna rywun deud	NSNT	NSNT
+15, 5	60, 5-9	AID	bod yna dafarn yn *Bethesda*	NST	NST
+15, 6	61, 1-11	AID	mae yr hen *foy* yn dal i gadw yr hen bres	---	NST
+
+
+16, 1	62, 1-2	HEL	oedd mi	NSNT	NSNT
+16, 2	62, 3-8	HEL	oedd o yn yn deud *Douglas_Arms*	---	NST
+
+
+17, 1	63, 1-5	AID	*yeah* dim rwan nach_ydy na	---	NST
+
+
+18, 1	64, 1-4	HEL	*oh* dwn i ddim	NST	NST
+18, 2	65, 1-5	HEL	y mab sy yno rwan	NSNT	NSNT
+18, 3	66, 1-3	HEL	wn i ddim	NSNT	NSNT
+18, 4	66, 4-9	HEL	ydy yr mab yn y teulu	---	NSNT
+
+
+19, 1	67, 1-9	AID	*yeah* yn cadw pethau i fynd *yeah* *yeah* *yeah*	---	NST
+
+
+20, 1	68, 1-7	HEL	dw i ddim yn *sure* *yeah* *yeah*	---	NST
+
+
+21, 1	69, 1-16	AID	fasach chi yn mynd mewn a be cael *pint* am swllt a thair *round* ffordd hyn	---	NST
+
+
+22, 1	70, 1-8	HEL	na fasach chi ddim yn gael o na_fasach	NSNT	NSNT
+22, 3	72, 1-2	HEL	yndy mi	NSNT	NSNT
+22, 4	72, 3-4	HEL	oedd o	NSNT	NSNT
+22, 5	73, 2-3	HEL	mae o	NSNT	NSNT
+22, 6	74, 1-3	HEL	ydy o *yeah*	NST	NST
+22, 7	76, 2-3	HEL	mae o	NSNT	NSNT
+22, 8	76, 4-4	HEL	dydy	---	NSNT
+
+
+23, 1	77, 1-7	AID	ddeuda i wrthoch chi pam bod fi	NSNT	NSNT
+23, 2	78, 1-8	AID	oedd yna *um* ffrind i mi yn dod	NST	NST
+23, 3	79, 1-4	AID	*Deiniol_Evans* oedd enw o	NST	NST
+23, 4	80, 1-4	AID	*um* dw i meddwl	NST	NST
+23, 5	80, 5-15	AID	bod ei dad o yn gweithio yn y *bank* yn *Bethesda*	NST	NST
+23, 6	81, 1-6	AID	ond dw i ddim yn gofio	SNT	NSNT
+23, 8	83, 1-1	AID	*Deiniol_Evans*	ST	NST
+23, 9	86, 1-7	AID	mae o wedi symud rwan i *Llanfair_Caereinion*	NST	NST
+23, 10	88, 1-6	AID	*ah* mae o yn bentre mawr	---	NST
+
+
+24, 1	90, 1-7	HEL	yn nabod o fel yna te *yeah*	---	NST
+
+
+25, 1	91, 1-1	AID	*sorry*	---	NST
+
+
+26, 1	92, 1-1	HEL	gosa	NSNT	NSNT
+26, 2	92, 2-13	HEL	oedd o wedi dod o rywle arall i weithio yn y *bank*	NST	NST
+26, 3	92, 14-14	HEL	te	---	NSNT
+
+
+27, 1	93, 1-5	AID	*yeah* mae nhw yn symud	NST	NST
+27, 2	93, 6-6	AID	ynde	---	NSNT
+
+
+28, 1	94, 1-7	HEL	*yeah* mae nhw yn symud nhw tydyn	---	NST
+
+
+29, 1	95, 1-11	AID	*um* na dw i meddwl na yn wreiddiol o fan yna	NST	NST
+29, 2	95, 12-18	AID	oedd ei ei rieni fo *yeah* *yeah*	---	NST
+
+
+30, 1	99, 1-10	HEL	nabod pobl sy yr un oed â fi wyddoch chi	---	NSNT
+
+
+31, 1	100, 1-4	AID	ew mae yn bosib	NSNT	NSNT
+31, 2	100, 5-10	AID	bod chi wedi siarad efo *R_Williams_Parry*	---	NST
+
+
+32, 1	103, 1-4	HEL	naddo tydw i ddim	NSNT	NSNT
+32, 2	103, 5-5	HEL	naddo	NSNT	NSNT
+32, 3	103, 6-6	HEL	naddo	NSNT	NSNT
+32, 4	103, 7-7	HEL	naddo	---	NSNT
+
+
+33, 1	105, 1-6	AID	mae wedi gladdu yn y fynwent	NSNT	NSNT
+33, 3	107, 1-3	AID	be ydy enw	SNT	NSNT
+33, 4	108, 1-2	AID	*Coetmor* *yeah*	---	NST
+
+
+34, 1	109, 1-7	HEL	*yeah* a *Caradog_Prichard* hefyd te o *Bethesda*	NST	NST
+34, 2	109, 8-8	HEL	tydy	---	NSNT
+
+
+35, 1	110, 1-2	AID	*Coetmor* *yeah*	---	NST
+
+
+36, 1	112, 1-2	HEL	*Caradog_Prichard* hefyd	NST	NST
+36, 2	113, 1-5	HEL	Caradog_Prichard o *Bethesda* hefyd tydy	---	NST
+
+
+37, 1	114, 1-5	AID	*oh* *yeah* debyg iawn de	ST	NST
+37, 2	115, 1-2	AID	*Un_Nos_Ola_Leuad* *yeah*	ST	NST
+37, 4	119, 1-5	AID	pentre efo *lot* o hanes	---	NST
+
+
+38, 1	120, 1-3	HEL	*oh* mae o	NST	NST
+38, 2	121, 1-4	HEL	*lot* o hen garacters	ST	ST
+38, 3	122, 1-5	HEL	mae nhw gyd yn mynd	NSNT	NSNT
+38, 4	122, 6-6	HEL	ychi	---	NSNT
+
+
+39, 1	123, 1-1	AID	ynde	NSNT	NSNT
+39, 2	123, 2-3	AID	ynde *mmm*	---	NST
+
+
+40, 1	124, 1-8	HEL	*yeah* does yna ddim characters yno rwan na	NST	ST
+40, 2	125, 1-7	HEL	ond mae chwarel yn dal i fynd	NSNT	NSNT
+40, 3	125, 8-8	HEL	tydy	---	NSNT
+
+
+41, 1	126, 1-6	AID	yndy un *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+42, 1	127, 1-5	HEL	i fynd chwarel *Penrhyn* yndy	---	NST
+
+
+43, 1	128, 1-4	AID	*ah* ond cyflogi be	NST	NST
+43, 2	129, 1-3	AID	nifer go_lew yndy	---	NSNT
+
+
+44, 1	130, 1-8	HEL	*oh* dim gymaint ag oedden nhw wrth gwrs	NST	NST
+44, 2	130, 9-9	HEL	te	NSNT	NSNT
+44, 3	131, 3-5	HEL	mae yna dipyn	NSNT	NSNT
+44, 4	131, 6-8	HEL	dw i meddwl	NSNT	NSNT
+44, 5	131, 10-10	HEL	ynde	---	NSNT
+
+
+45, 1	132, 1-8	AID	na na na *yeah* Duw da de *yeah*	---	NST
+
+
+46, 1	134, 1-8	HEL	mae nhw dal i gymryd rhai yna o_hyd	NSNT	NSNT
+46, 3	136, 1-4	HEL	dyna yr unig beth	NSNT	NSNT
+46, 4	136, 5-6	HEL	sy yna	NSNT	NSNT
+46, 5	136, 7-7	HEL	ynte	NSNT	NSNT
+46, 6	137, 1-3	HEL	deud y gwir	---	NSNT
+
+
+47, 1	138, 1-3	AID	*well* *yeah* *yeah*	---	NST
+
+
+48, 1	143, 1-4	HEL	*oh* ardal y chwareli	NST	NST
+48, 2	144, 1-5	HEL	oedd yn nhad yn chwarel	NSNT	NSNT
+48, 3	146, 1-3	HEL	efo yr *yeah*	---	NST
+
+
+49, 1	149, 1-3	AID	oedd yna ryw	---	NSNT
+
+
+50, 1	150, 1-8	HEL	dwy bunt yr wsnos oedden nhw yn gael	---	NSNT
+
+
+51, 1	151, 1-1	AID	*pardon*	---	NST
+
+
+52, 1	152, 1-2	HEL	dwy bunt	---	NSNT
+
+
+53, 1	153, 1-3	AID	dwy bunt *yeah*	NST	NST
+53, 2	154, 1-4	AID	pryd oedd hynny felly	NSNT	NSNT
+53, 4	156, 1-3	AID	y *strike* mawr	---	NST
+
+
+54, 1	158, 1-6	HEL	*oh* na dw i ddim yn	---	NST
+
+
+55, 1	159, 1-9	AID	dydach chi ddim yn mynd yn_ôl i *strike* fawr	---	NST
+
+
+56, 1	160, 1-4	HEL	*oh* na dwy bunt	NST	NST
+56, 2	161, 1-8	HEL	dw i yn cofio nhw yn cael dwy	NSNT	NSNT
+56, 3	161, 9-10	HEL	bunt de	NSNT	NSNT
+56, 4	163, 1-7	HEL	dw i yn pan i yn blentyn	---	NSNT
+
+
+57, 1	164, 1-7	AID	*yeah* *so* be twenties rywbeth felly *yeah*	---	ST
+
+
+58, 1	165, 1-11	HEL	*yeah* wedyn os oedd hi yn bwrw ydach chi yn gweld	NST	NST
+58, 2	165, 12-16	HEL	oedden nhw yn cael dim_byd	---	NSNT
+
+
+59, 1	166, 1-1	AID	ew	---	NSNT
+
+
+60, 1	167, 1-6	HEL	oedden nhw ddim yn medru gweithio	NSNT	NSNT
+60, 2	167, 7-8	HEL	nag oedden	---	NSNT
+
+
+61, 1	168, 1-2	AID	nag o'n	---	NSNT
+
+
+62, 1	169, 1-2	HEL	nag oedden	---	NSNT
+
+
+63, 1	171, 1-4	AID	doedd yna ddim_byd i	---	NSNT
+
+
+64, 1	172, 1-6	HEL	oedden nhw ddim yn medru gweithio	NSNT	NSNT
+64, 2	172, 7-8	HEL	nag oedden	---	NSNT
+
+
+65, 1	173, 1-4	AID	dim_byd i syrthio yn_ôl	---	NSNT
+
+
+66, 1	174, 1-7	HEL	na dim_byd na na dim_byd na na	NSNT	NSNT
+66, 2	175, 1-3	HEL	*still* wnaethon ni	---	NST
+
+
+67, 1	177, 1-14	AID	ond falle ychi i gymharu efo efo cyflog gwas *farm* bod hwnna yn gyflog	NST	NST
+67, 2	179, 1-2	AID	gwell *yeah*	NST	NST
+67, 3	181, 1-8	AID	oedden nhw yn cael hi yn ofnadwy do'n	---	NSNT
+
+
+68, 1	182, 1-9	HEL	er oedd pob peth yn rhad wrth gwrs toedd	---	NSNT
+
+
+69, 1	183, 1-1	AID	*well*	---	NST
+
+
+70, 1	184, 2-2	HEL	dyna	NSNT	NSNT
+70, 2	184, 3-5	HEL	lle oedd o	NSNT	NSNT
+70, 3	184, 6-7	HEL	te *yeah*	---	NST
+
+
+71, 1	187, 1-9	AID	*yeah* yn Llanwddyn oedd yn *um* yn nhaid i	NST	NST
+71, 2	188, 1-13	AID	yn yr hen bentre gaeth ei foddi ychi gan yr dŵr i Lerpwl	NSNT	NSNT
+71, 3	188, 14-15	AID	ynde *yeah*	---	NST
+
+
+72, 1	190, 1-1	HEL	*aww*	---	NST
+
+
+73, 1	192, 1-7	AID	*um* a oedd ei ei dad o	---	NST
+
+
+74, 1	193, 1-1	HEL	*aww*	NST	NST
+74, 2	194, 1-1	HEL	*aww*	---	NST
+
+
+75, 1	195, 1-9	AID	gof oedd o yn Llanwddyn yn yr hen efail	NSNT	NSNT
+75, 3	197, 1-7	AID	a ei dad o efo enw Beiblaidd	NSNT	NSNT
+75, 4	198, 1-7	AID	*Eusebius_Hughes* oedd ei dad o *Eusebius* *yeah*	---	NST
+
+
+76, 1	199, 1-5	HEL	argian fawr enw da de	---	NSNT
+
+
+77, 1	200, 1-7	AID	a dw i wedi mynd yn_ôl rwan	NSNT	NSNT
+77, 2	201, 1-12	AID	ydach chi yn gwybod mae rywun yn mynd yn_ôl ei achau felly	---	NSNT
+
+
+78, 1	202, 1-3	HEL	enw da *yeah*	---	NST
+
+
+79, 1	203, 1-3	AID	i i *Richard*	NST	NST
+79, 2	204, 1-11	AID	gaeth o ei eni yn seventeen_seventy_eight yn *Heneglwys* yn ymyl *Machynlleth*	NST	ST
+79, 3	206, 1-8	AID	wedyn symud i Faldwyn a wedyn fel yna	---	NSNT
+
+
+80, 1	209, 1-10	HEL	*mmm* *well* ydach chi wedi bod yn hel eich achau	---	NST
+
+
+81, 1	210, 1-3	AID	*well* *yeah* mae	NST	NST
+81, 2	210, 4-8	AID	mae gynno i gefnder rwan	---	NSNT
+
+
+82, 1	211, 1-6	HEL	mae lawer yn gwneud heddiw toes	---	NSNT
+
+
+83, 1	212, 1-6	AID	*oh* a mae gynno i gefnder	NST	NST
+83, 2	214, 1-11	AID	*Eurig* ydy enw fo yn byw yn *um* *Llansilyn* yn Sir_Drefaldwyn	NST	NST
+83, 4	216, 1-4	AID	na Sir_Ddinbych ydy hwnna	NSNT	NSNT
+83, 5	216, 5-5	AID	ynde	NSNT	NSNT
+83, 6	217, 1-5	AID	dw i ddim yn *sure*	NST	NST
+83, 7	218, 1-6	AID	a mae o *well* â diddordeb	NST	NST
+83, 8	219, 1-5	AID	mae o wedi mynd yn	NSNT	NSNT
+83, 9	219, 6-6	AID	ychi	NSNT	NSNT
+83, 10	219, 7-8	AID	wirion braidd	---	NSNT
+
+
+84, 1	220, 2-5	HEL	mae nhw heddiw tydyn	NSNT	NSNT
+84, 2	222, 2-3	HEL	mae nhw	---	NSNT
+
+
+85, 1	223, 1-6	AID	a wedyn mae o wedi penderfynu	NSNT	NSNT
+85, 2	223, 7-10	AID	bod ni yn cael	NSNT	NSNT
+85, 3	225, 1-5	AID	aduniad teulu ym mis Awst	NSNT	NSNT
+85, 4	227, 1-5	AID	pawb i ddod â ei	NSNT	NSNT
+85, 5	227, 6-6	AID	wchi	NSNT	NSNT
+85, 6	229, 1-6	AID	be mae o wedi ffindio allan	NSNT	NSNT
+85, 7	231, 1-4	AID	*oh* mae yn braf	NST	NST
+85, 8	232, 1-1	AID	gweld	---	NSNT
+
+
+86, 1	233, 1-5	HEL	oes yna lawer ohonoch chi	NSNT	NSNT
+86, 2	234, 1-5	HEL	oes yna lawer ohonoch chi	---	NSNT
+
+
+87, 1	235, 1-2	AID	argian oes	NSNT	NSNT
+87, 2	239, 1-10	AID	*oh* mae yna fwy o ochr *Dad* na *mam* de	NST	NST
+87, 4	241, 1-4	AID	o Iwerddon ddoth *mam*	---	NST
+
+
+88, 1	242, 1-9	HEL	lle ydach chi mynd i gael yr aduniad yma	---	NSNT
+
+
+89, 1	243, 1-13	AID	*erm* *right* mae yr aduniad yn mynd i gael ei gynnal yn *Llanwddyn*	NST	NST
+89, 2	244, 1-3	AID	debyg iawn de	NSNT	NSNT
+89, 3	246, 1-4	AID	wchi fan yna *yeah*	NST	NST
+89, 4	247, 1-6	AID	oedd hi *round* *Llanwddyn* a *Llangynog*	---	NST
+
+
+90, 1	248, 1-3	HEL	*oh* te *yeah*	NST	NST
+90, 2	250, 1-11	HEL	a fydd yna rai fan yna ydach chi erioed wedi weld	NSNT	NSNT
+90, 3	250, 12-13	HEL	mae *sure*	NST	NST
+90, 4	250, 14-14	HEL	fydd	---	NSNT
+
+
+91, 1	251, 1-2	AID	*um* bydd	---	NST
+
+
+92, 1	252, 1-1	HEL	bydd	NSNT	NSNT
+92, 2	252, 2-3	HEL	mae *sure*	---	NST
+
+
+93, 1	253, 1-4	AID	*um* mae gynno i	NST	NST
+93, 2	254, 1-5	AID	*Eurig* ydy nghefnder i *Llansilyn*	NST	NST
+93, 3	256, 1-6	AID	mae gynno i gefnder arall *Iestyn*	NST	NST
+93, 4	257, 1-7	AID	a mae o yn byw yn Papua_New_Guinea	---	SNT
+
+
+94, 1	258, 1-1	HEL	argian	---	NSNT
+
+
+95, 1	259, 1-5	AID	a welais i o ddwytha	NSNT	NSNT
+95, 2	260, 1-6	AID	argian dw i ddim yn cofio	---	NSNT
+
+
+96, 1	261, 1-3	HEL	dod drosodd hefyd	NSNT	NSNT
+96, 2	262, 1-5	HEL	ydy o yn dod drosodd	---	NSNT
+
+
+97, 1	263, 1-5	AID	mae nhw dod i *Steddfod*	NST	NST
+97, 2	263, 6-6	AID	ychi	NSNT	NSNT
+97, 3	265, 1-3	AID	mis Awst de	NSNT	NSNT
+97, 4	266, 1-3	AID	i *Steddfod* yn	---	NST
+
+
+98, 1	267, 1-1	HEL	argian	---	NSNT
+
+
+99, 1	268, 1-3	AID	lle Abertawe *yeah*	NST	NST
+99, 2	270, 1-8	AID	*so* a wedyn gynno i gefnder arall *Nicholas*	NST	NST
+99, 3	272, 1-5	AID	mae o yn byw *America*	NST	NST
+99, 4	273, 1-6	AID	mae gynno fo chwech o blant	NSNT	NSNT
+99, 5	274, 1-7	AID	*so* dw i ddim wedi gweld rheiny	---	NST
+
+
+100, 1	275, 1-4	HEL	rheiny gyd yn dŵad	NSNT	NSNT
+100, 4	278, 1-4	HEL	*well* da difyr te	---	NST
+
+
+101, 1	279, 1-1	AID	*eh*	---	NST
+
+
+102, 1	280, 1-2	HEL	difyr te	---	NSNT
+
+
+103, 1	281, 1-4	AID	*yeah* gawn ni hwyl	---	NST
+
+
+104, 1	285, 1-11	HEL	be ydach chi feddwl o *Steddfod* yma rwan yn stopio croeso	---	NST
+
+
+105, 1	286, 1-2	AID	*well* *yeah*	ST	NST
+105, 2	288, 1-2	AID	mae nhw	NSNT	NSNT
+105, 3	288, 3-6	AID	mae nhw yn dallt	NSNT	NSNT
+105, 4	288, 7-10	AID	bod hynna wedi stopio	NSNT	NSNT
+105, 5	288, 11-11	AID	wchi	---	NSNT
+
+
+106, 1	289, 1-5	HEL	*oh* ydy o wedi stopio	---	NST
+
+
+107, 1	290, 1-6	AID	dydy o ddim bwys gynno nhw	NSNT	NSNT
+107, 2	291, 1-6	AID	doedden nhw ddim yn keen felly	---	SNT
+
+
+108, 1	292, 1-7	HEL	ydy o wedi stopio yn hon rwan	NSNT	NSNT
+108, 2	293, 1-4	HEL	ta yr un nesa	NSNT	NSNT
+108, 3	295, 1-2	HEL	yn hon	---	NSNT
+
+
+109, 1	296, 1-2	AID	ynde Abertawe	NSNT	NSNT
+109, 2	296, 3-4	AID	mae *yeah*	---	NST
+
+
+110, 1	299, 1-7	HEL	*oh* yn hon mae wedi stopio *yeah*	NST	NST
+110, 2	301, 1-3	HEL	*oh* dyna fo	---	NST
+
+
+111, 1	302, 1-4	AID	mae wedi newid *er*	NST	NST
+111, 2	302, 5-10	AID	sut mae nhw yn barnu hefyd	NSNT	NSNT
+111, 3	302, 11-11	AID	ynde	NSNT	NSNT
+111, 4	303, 1-5	AID	yna rhai mor hir ynde	---	NSNT
+
+
+112, 1	304, 1-5	HEL	*oh* dw i yn meddwl	NST	NST
+112, 2	304, 6-15	HEL	bod o yn bechod bod nhw yn stopio hwnna hefyd	---	NSNT
+
+
+113, 1	305, 1-6	AID	*well* *yeah* o'n i fwynhau o	---	NST
+
+
+114, 1	306, 1-7	HEL	i yn cydweld â yr barnu te	NSNT	NSNT
+114, 2	307, 1-6	HEL	mae hwnnw yn mynd rhy hir	---	NSNT
+
+
+115, 1	308, 1-5	AID	*oh* *oh* mae rhy hir	---	NST
+
+
+116, 1	312, 1-4	HEL	*oh* na bechod yndy	---	NST
+
+
+117, 1	313, 1-4	AID	*well* *er* mae o	NST	NST
+117, 2	314, 1-6	AID	mae nhw yn dod mor bell	---	NSNT
+
+
+118, 1	315, 1-4	HEL	mae nhw yn deud	NSNT	NSNT
+118, 2	316, 1-4	HEL	mae nhw yn deud	NSNT	NSNT
+118, 3	316, 5-11	HEL	bod pobl yn mynd a dŵad fel	NSNT	NSNT
+118, 4	316, 12-14	HEL	fynnon nhw heddiw	NSNT	NSNT
+118, 6	318, 1-7	HEL	ond_yndyn ond dim i yr *Steddfod* ydyn	NST	NST
+118, 7	318, 8-8	HEL	wchi	NSNT	NSNT
+118, 8	320, 1-2	HEL	na ychi	---	NSNT
+
+
+119, 1	321, 1-5	AID	na mae hynna yn wir	---	NSNT
+
+
+120, 1	322, 1-1	HEL	naci	NSNT	NSNT
+120, 2	324, 1-2	HEL	wn i	NSNT	NSNT
+120, 3	324, 3-13	HEL	sut mae nhw mynd i hel pres o stopio hwnna chwaith	---	NSNT
+
+
+121, 1	325, 1-6	AID	be ydach chi feddwl rwan yn	---	NSNT
+
+
+122, 1	326, 1-4	HEL	*well* trio gwneud ynte	NST	NST
+122, 2	327, 1-4	HEL	safio pres mae nhw	NSNT	NSNT
+122, 3	327, 5-5	HEL	ynte	---	NSNT
+
+
+123, 1	328, 1-6	AID	*oh* wela i *yeah* *yeah* *yeah*	NST	NST
+123, 2	330, 1-6	AID	*yeah* *well* *yeah* wn i ddim	NST	NST
+123, 3	331, 1-8	AID	dydy hwnna ddim yn costio ryw *lot* na	NST	NST
+123, 4	333, 1-5	AID	ryw *ceremony* ydy o a	---	NST
+
+
+124, 1	334, 1-2	HEL	nac ydy	SNT	NSNT
+124, 2	335, 1-2	HEL	*well* *yeah*	ST	NST
+124, 3	336, 1-12	HEL	*oh* dydyn nhw ddim yn talu iddyn nhw ddod yma nac ydyn	---	NST
+
+
+125, 1	337, 1-3	AID	*oh* na hollol	---	NST
+
+
+126, 1	338, 1-2	HEL	nac ydyn	---	NSNT
+
+
+127, 1	339, 1-4	AID	ond mae yn *sure*	NST	NST
+127, 2	339, 5-8	AID	bod nhw yn cyfrannu	NSNT	NSNT
+127, 3	339, 9-9	AID	ychi	NSNT	NSNT
+127, 4	340, 1-3	AID	mae nhw yn	---	NSNT
+
+
+128, 1	341, 1-8	HEL	mae yna *lot* o ddeud drefn amdano fo	NST	NST
+128, 2	341, 9-9	HEL	wchi	NSNT	NSNT
+128, 3	342, 1-5	HEL	bod nhw wedi stopio fo	---	NSNT
+
+
+129, 1	346, 1-3	AID	*odd* iawn de	---	NST
+
+
+130, 1	347, 1-2	HEL	yn plesio	NSNT	NSNT
+130, 2	348, 1-7	HEL	er dydy ddim yn plesio pawb nac	NSNT	NSNT
+130, 3	349, 1-4	HEL	waeth be wnewch chi	NSNT	NSNT
+130, 4	352, 1-7	HEL	dydy o ddim yn plesio pawb nac	---	NSNT
+
+
+131, 1	355, 1-2	AID	oedd yna	NSNT	NSNT
+131, 3	357, 1-10	AID	o'n i yn nabod ryw ryw *um* hogyn o *Tregarth*	NST	NST
+131, 4	358, 1-11	AID	mi oedd o ei dad o yn gweithio yn y chwarel	---	NSNT
+
+
+132, 1	359, 1-8	HEL	*yeah* yr ochr yna o'n i yn byw	NST	NST
+132, 2	360, 1-2	HEL	yr ochr	NSNT	NSNT
+132, 4	362, 1-6	HEL	yr ochr *St_Anne's* ychi Mynydd *Llandegai*	NST	NST
+132, 5	364, 1-5	HEL	a *Tregarth* yr ochr yna	---	NST
+
+
+133, 1	365, 1-4	AID	*Mihangel_Jones* oedd enw hwn	---	NST
+
+
+134, 1	366, 1-1	HEL	*Mihangel_Jones*	---	NST
+
+
+135, 1	367, 1-8	AID	ond ei ei ei nickname o oedd *Candle*	---	ST
+
+
+136, 1	368, 1-4	HEL	oedd gynno fo frawd	NSNT	NSNT
+136, 2	370, 1-10	HEL	oedd gynno fo ddim brawd a enw fo yn *William*	NST	NST
+136, 3	370, 11-12	HEL	nag oedd	---	NSNT
+
+
+137, 1	371, 1-6	AID	ew dw i wedi anghofio rwan	NSNT	NSNT
+137, 2	373, 1-4	AID	gwallt coch oedd o	NSNT	NSNT
+137, 3	375, 1-6	AID	*oh* Duw o'ch chi nabod o	---	NST
+
+
+138, 1	376, 1-3	HEL	dw i *sure*	NST	NST
+138, 2	376, 4-11	HEL	oedd ei fam o efo gwallt coch hefyd	---	NSNT
+
+
+139, 1	378, 1-3	AID	*oh* dyna chi	NST	NST
+139, 2	380, 1-3	AID	a wedyn mae	NSNT	NSNT
+139, 3	380, 4-4	AID	mae	NSNT	NSNT
+139, 4	380, 5-6	AID	mae *Mihangel*	NST	NST
+139, 5	380, 7-12	AID	mae o yn byw yn Llandrillo_yn_Rhos	---	NSNT
+
+
+140, 1	381, 1-1	HEL	argian	---	NSNT
+
+
+141, 1	382, 1-7	AID	a dydy o ddim yn dda iawn	NSNT	NSNT
+141, 2	383, 1-6	AID	mae gynno fo bwysau gwaed uchel	---	NSNT
+
+
+142, 1	384, 1-2	HEL	*oh* yndw	NST	NST
+142, 2	384, 3-8	HEL	dw i *sure* yr un un	NST	NST
+142, 3	384, 9-10	HEL	ydy o	NSNT	NSNT
+142, 4	385, 1-5	HEL	dw i *sure* gwallt coch	NST	NST
+142, 5	385, 6-9	HEL	oedd gynno fo *yeah*	---	NST
+
+
+143, 1	388, 1-2	AID	un tal	NSNT	NSNT
+143, 2	390, 1-6	AID	*yeah* a yn smocio fel simnai	---	NST
+
+
+144, 1	393, 1-6	HEL	*oh* dw i ddim yn gwybod	NST	NST
+144, 2	394, 1-11	HEL	dw i ddim wedi weld o ers amser ysgol na ddim_byd	NSNT	NSNT
+144, 3	394, 12-12	HEL	te	---	NSNT
+
+
+145, 1	395, 1-9	AID	o wedi gorffen ei waith rwan wedi ymddeol de	---	NSNT
+
+
+146, 1	396, 3-5	HEL	mae yn *sure*	---	NST
+
+
+147, 1	397, 1-6	AID	ond oedd o yn deud *um*	NST	NST
+147, 2	399, 1-10	AID	wyddoch chi fel mae nhw roi nicknames yn y chwareli	---	SNT
+
+
+148, 1	400, 1-7	HEL	ydach chi ddim nabod ei dad o	NSNT	NSNT
+148, 2	401, 1-5	HEL	*Ifan* oedd enw fo *yeah*	NST	NST
+148, 3	403, 1-5	HEL	*Ifan* oedd enw ei dad	---	NST
+
+
+149, 1	404, 1-5	AID	dw i ddim yn cofio	---	NSNT
+
+
+150, 1	405, 1-6	HEL	*oh* ydach chi ddim yn cofio	---	NST
+
+
+151, 1	406, 1-9	AID	na dw i ddim yn na ei frawd o	NSNT	NSNT
+151, 2	408, 1-5	AID	ond oedd *Candle* deud rwan	NST	NST
+151, 3	408, 6-18	AID	bod yna ryw *foy* wedi mynd i weithio i Lerpwl yn y *docks*	NST	NST
+151, 4	410, 1-8	AID	a dod yn_ôl i *Bethesda* i yr chwarel	NST	NST
+151, 5	411, 1-4	AID	a yn deud *um*	NST	NST
+151, 6	412, 1-7	AID	gewch chi ddim enw arna i fyth	NSNT	NSNT
+151, 7	413, 1-4	AID	dw i rhy fly	---	SNT
+
+
+152, 1	416, 1-5	HEL	*well* *yeah* *yeah* *yeah* *yeah*	ST	NST
+152, 2	419, 1-9	HEL	*oh* *Mihangel_Jones* *yeah* lle mae o yn byw felly	NST	NST
+152, 4	421, 1-5	HEL	lle mae *Mihangel* yn byw	---	NST
+
+
+153, 1	422, 1-1	AID	Llandrillo_yn_Rhos	NSNT	NSNT
+153, 2	424, 1-4	AID	*yeah* oedd o yn	NST	NST
+153, 3	424, 5-8	AID	oedd o yn brifathro	NSNT	NSNT
+153, 4	426, 1-6	AID	*oh* yn yr ysgol Llandrillo_yn_Rhos *yeah*	NST	NST
+153, 5	427, 1-6	AID	*yeah* *oh* dyna fo *yeah* *mmm*	---	NST
+
+
+154, 1	429, 1-9	HEL	*oh* raid mi sôn wrth y nephew mae *sure*	---	ST
+
+
+155, 1	430, 1-7	AID	*yeah* pwysau gwaed uchel sy gynno fo	---	NST
+
+
+156, 1	431, 1-5	HEL	*oh* faint fasai oed *Mihangel*	NST	NST
+156, 2	431, 6-6	HEL	dywedwch	---	NSNT
+
+
+157, 1	432, 1-9	AID	*er* tua yr un oed â fi sef saith_deg_un	---	NST
+
+
+158, 1	434, 1-9	HEL	*oh* *right* dw i ddim yn nabod o felly	NST	NST
+158, 2	435, 1-5	HEL	achos sixty ydy o *yeah*	ST	ST
+158, 3	437, 1-1	HEL	*so*	ST	NST
+158, 4	438, 1-6	HEL	*oh* na dw i nabod o	NST	NST
+158, 5	439, 1-4	HEL	*yeah* fo oedd o	NST	NST
+158, 6	439, 5-9	HEL	dw i *sure* *yeah* *yeah*	NST	NST
+158, 7	441, 1-3	HEL	eglwyswr oedd o	---	NSNT
+
+
+159, 1	442, 1-5	AID	dydw i ddim yn cofio	---	NSNT
+
+
+160, 1	443, 1-4	HEL	dw i yn *sure*	---	NST
+
+
+161, 1	444, 1-6	AID	yn coleg oedd o efo fi	NSNT	NSNT
+161, 2	444, 7-7	AID	ychi	---	NSNT
+
+
+162, 1	445, 1-8	HEL	*oh* *yeah* dw i yn *sure* *yeah* *yeah*	---	NST
+
+
+163, 1	446, 1-3	AID	*yeah* yn coleg	NST	NST
+163, 2	447, 1-5	AID	dydw i ddim yn cofio	---	NSNT
+
+
+164, 1	448, 1-7	HEL	cofio nhw yn dod i yr eglwys	---	NSNT
+
+
+165, 1	449, 1-4	AID	eglwyswraig ydach chi *yeah*	NST	NST
+165, 2	451, 1-5	AID	*oh* dyna fo *yeah* *yeah*	---	NST
+
+
+166, 1	453, 1-3	HEL	*yeah* tad *yeah*	NST	NST
+166, 2	455, 1-8	HEL	yn mynd bob dydd Sul i cathedral yna	---	SNT
+
+
+167, 1	456, 1-2	AID	o'ch chi	NSNT	NSNT
+167, 3	458, 1-8	AID	*well* i fan yna ydach chi mynd *eh*	---	NST
+
+
+168, 1	459, 1-8	HEL	*oh* toes yna nunlle arall nag oes rwan	ST	NST
+168, 2	460, 1-7	HEL	St_James wedi cau ydach chi weld tydy	---	SNT
+
+
+169, 1	461, 1-3	AID	*well* tebyg iawn	NST	NST
+169, 2	463, 1-6	AID	do'n i ddim wedi dallt hynny	NSNT	NSNT
+169, 3	464, 1-1	AID	Duw	---	NSNT
+
+
+170, 1	465, 1-5	HEL	i *Bethesda* faswn i mynd	NST	NST
+170, 2	465, 6-8	HEL	faswn i medru	NSNT	NSNT
+170, 3	465, 9-9	HEL	te	NSNT	NSNT
+170, 4	469, 1-8	HEL	i *St_Anne's* i yr *top* faswn i medru	NST	NST
+170, 5	470, 1-9	HEL	ond fedra i ddim mynd heb ddim car wedyn	NSNT	NSNT
+170, 6	470, 10-11	HEL	dyna fo	---	NSNT
+
+
+171, 1	471, 1-4	AID	*well* *yeah* *yeah* *yeah*	---	NST
+
+
+172, 1	473, 1-8	HEL	mae yna ddipyn yn mynd i cathedral yna	NSNT	SNT
+172, 2	473, 9-9	HEL	wchi	NSNT	NSNT
+172, 3	474, 1-4	HEL	mae *right* llawn yno	NST	NST
+172, 4	476, 1-1	HEL	mae	NSNT	NSNT
+172, 5	476, 2-6	HEL	mae canol yn llawn yno	NSNT	NSNT
+172, 6	476, 7-7	HEL	wchi	---	NSNT
+
+
+173, 1	477, 1-2	AID	yndy hefyd	---	NSNT
+
+
+174, 1	481, 1-16	HEL	wedyn mae yna wasanaeth wyth ydach chi yn gweld a naw a hanner awr wedi deg	NSNT	NSNT
+174, 2	482, 1-6	HEL	os fasan nhw gyd efo ei_gilydd	NSNT	NSNT
+174, 3	482, 7-11	HEL	fasai yr lle yn llawn	NSNT	NSNT
+174, 4	482, 12-12	HEL	basai	---	NSNT
+
+
+175, 1	483, 1-1	AID	basai	---	NSNT
+
+
+176, 1	484, 1-1	HEL	basai	---	NSNT
+
+
+177, 1	485, 1-2	AID	mi fasai	---	NSNT
+
+
+178, 1	486, 1-1	HEL	basai	NSNT	NSNT
+178, 2	488, 1-1	HEL	basai	---	NSNT
+
+
+179, 1	489, 1-2	AID	da ynde	---	NSNT
+
+
+180, 1	490, 1-2	HEL	*yeah* ond	---	NST
+
+
+181, 1	491, 1-3	AID	mae yn *sure*	NST	NST
+181, 2	491, 4-6	AID	bod *er* *er*	NST	NST
+181, 3	491, 7-7	AID	bod	NSNT	NSNT
+181, 4	491, 8-12	AID	bod o yng Nghaerdydd heddiw	NSNT	NSNT
+181, 5	491, 13-14	AID	oedd o	NSNT	NSNT
+181, 6	492, 1-2	AID	yr *um*	---	NST
+
+
+182, 1	493, 1-2	HEL	yr esgob	NSNT	NSNT
+182, 2	495, 1-4	HEL	*oh* dwn i ddim	NST	NST
+182, 3	496, 1-2	HEL	mae *sure*	NST	NST
+182, 4	496, 3-4	HEL	bod o	NSNT	NSNT
+182, 5	496, 5-5	HEL	te	NSNT	NSNT
+182, 6	497, 1-8	HEL	un clên ydy yr un newydd yma hefyd	---	NSNT
+
+
+183, 1	498, 1-5	AID	be be ydy enw fo	NSNT	NSNT
+183, 2	499, 1-3	AID	nid *Sebastian* *yeah*	---	NST
+
+
+184, 1	501, 1-7	HEL	naci mae wedi mynd rwan y funud	NSNT	NSNT
+184, 2	502, 1-6	HEL	un newydd un newydd ydy o	NSNT	NSNT
+184, 3	502, 7-7	HEL	te	---	NSNT
+
+
+185, 1	503, 1-4	AID	mae *Sebastian* wedi mynd	---	NST
+
+
+186, 1	504, 1-7	HEL	mae mrain i wedi mynd am funud	NSNT	SNT
+186, 2	505, 1-6	HEL	fe ddaw i mi munud *yeah*	NST	NST
+186, 3	507, 1-4	HEL	un newydd ydy o	NSNT	NSNT
+186, 4	508, 1-5	HEL	un clên iawn ydy o	NSNT	NSNT
+186, 5	510, 1-7	HEL	un clên iawn ydy o *yeah* *yeah*	---	NST
+
+
+187, 1	511, 1-3	AID	pwy oedd *Sebastian*	NST	NST
+187, 2	512, 1-4	AID	nid fo oedd yr	---	NSNT
+
+
+188, 1	513, 1-1	HEL	naci	---	NSNT
+
+
+189, 1	514, 1-7	AID	rywbeth i wneud efo yr eglwys de	---	NSNT
+
+
+190, 1	515, 1-6	HEL	na dw i ddim yn gwybod	---	NSNT
+
+
+191, 1	516, 1-2	AID	*Sebastian* *yeah*	---	NST
+
+
+192, 1	517, 1-4	HEL	dw i ddim yn	NSNT	NSNT
+192, 2	520, 1-3	HEL	mae *Barry_Morgan* yma	NST	NST
+192, 3	521, 1-5	HEL	mae o yn archesgob rwan	NSNT	NSNT
+192, 4	521, 6-6	HEL	tydy	---	NSNT
+
+
+193, 1	522, 1-4	AID	*well* *yeah* *Barry_Morgan* oedd	---	NST
+
+
+194, 1	523, 1-2	HEL	oedd o	NSNT	NSNT
+194, 2	523, 3-8	HEL	oedd o yn esgob yma toedd	---	NSNT
+
+
+195, 1	524, 1-5	AID	oedd o yn y *parade*	---	NST
+
+
+196, 1	525, 1-6	HEL	oedd o yn esgob yno toedd	NSNT	NSNT
+196, 2	528, 1-7	HEL	a wedyn *Saunders* ar ei ôl o	NST	NST
+196, 3	530, 1-11	HEL	mae o wedi retire_io a wedi mynd i_lawr i yr *south*	---	ST
+
+
+197, 1	531, 1-10	AID	*yeah* mae *Saunders* wedi symud i wneud rywbeth arall rwan	NST	NST
+197, 2	532, 1-4	AID	dim yn cofio be	---	NSNT
+
+
+198, 1	533, 1-3	HEL	mae wedi retire_io	SNT	SNT
+198, 2	533, 4-6	HEL	dw i meddwl	NSNT	NSNT
+198, 3	534, 1-7	HEL	wedi mynd i_lawr i yr *south* yndy	---	NST
+
+
+199, 1	535, 1-4	AID	dyna fo *right* *right*	---	NST
+
+
+200, 1	536, 1-5	HEL	yfo oedd wedyn cyn hwn	NSNT	NSNT
+200, 2	536, 6-7	HEL	te *yeah*	NST	NST
+200, 3	539, 1-5	HEL	*couple* *nice* iawn oedden nhw	NST	NST
+200, 4	541, 1-5	HEL	*yeah* *nice* iawn *yeah* *yeah*	NST	NST
+200, 5	543, 1-7	HEL	*yeah* fo a yr wraig *yeah* *yeah*	---	NST
+
+
+201, 1	544, 1-3	AID	dyna fo *yeah*	---	NST
+
+
+202, 1	546, 1-6	HEL	dydy pobl cathedral ddim fath â	NSNT	SNT
+202, 2	546, 7-9	HEL	oedden nhw chwaith	NSNT	NSNT
+202, 3	546, 10-10	HEL	wchi	NSNT	NSNT
+202, 4	547, 1-8	HEL	oedden ni yn_ôl i nhw ers talwm toedden	NSNT	NSNT
+202, 5	547, 9-9	HEL	wchi	NSNT	NSNT
+202, 6	550, 1-8	HEL	na mae nhw fwy agos atoch chi heddiw	NSNT	NSNT
+202, 7	550, 9-11	HEL	dw i meddwl	NSNT	NSNT
+202, 10	554, 1-7	HEL	ydan ni am gael ychwaneg o hwn	---	NSNT
+
+
+203, 1	555, 1-8	AID	*oh* mae yn *bound* o fod yn fwy	---	NST
+
+
+204, 1	556, 1-3	HEL	yn gaddo tydy	NSNT	NSNT
+204, 2	559, 1-7	HEL	yn toddi fan yna rwan hefyd yndy	---	NSNT
+
+
+205, 1	561, 1-6	AID	diwrnod cynta yr gwanwyn heddiw de	NSNT	NSNT
+205, 3	565, 1-3	AID	Mawrth y cynta	---	NSNT
+
+
+206, 1	566, 1-4	HEL	a Dydd_Gwyl_Dewi a bob_dim	---	NSNT
+
+
+207, 1	567, 1-2	AID	*well* *yeah*	---	NST
+
+
+208, 1	570, 1-19	HEL	*oh* bechod bod ysgolion wedi cau hefyd tydy a yr plant wedi dysgu peth yna i wneud *concert* heddiw	NST	NST
+208, 2	570, 20-22	HEL	mae *sure* toedden	---	NST
+
+
+209, 1	571, 1-2	AID	oedd hollol	NSNT	NSNT
+209, 2	571, 3-3	AID	ynte	---	NSNT
+
+
+210, 1	572, 1-3	HEL	*oh* bechod yndy	---	NST
+
+
+211, 1	573, 1-8	AID	*yeah* mi gawn ni *sure* fory neu drenydd	NST	NST
+211, 2	573, 9-9	AID	gawn	---	NSNT
+
+
+212, 1	574, 1-6	HEL	*oh* fydd yna ddim fory chwaith	NST	NST
+212, 2	574, 7-11	HEL	os fydd hi fel hyn	NSNT	NSNT
+212, 3	574, 12-13	HEL	na fydd	---	NSNT
+
+
+213, 1	575, 1-6	AID	*oh* na fory sicr na fydd	---	NST
+
+
+214, 1	576, 1-2	HEL	na fydd	NSNT	NSNT
+214, 2	577, 1-3	HEL	na mae bechod	NSNT	NSNT
+214, 3	577, 4-4	HEL	dydy	---	NSNT
+
+
+215, 1	580, 1-7	AID	*oh* *yeah* sobor hefyd wedi practisio practisio	---	NST
+
+
+216, 1	581, 1-8	HEL	a mae rai isio gwyliau wyddoch chi Gwyl_Dewi	NSNT	NSNT
+216, 2	582, 1-5	HEL	ond fasai yna ddim ysgol	NSNT	NSNT
+216, 3	582, 6-15	HEL	fasai yr plant ddim yn cael y pethau yma wedyn	---	NSNT
+
+
+217, 1	583, 1-4	AID	yn hollol de *yeah*	---	NST
+
+
+218, 1	584, 1-4	HEL	mae yn anodd gwybod	NSNT	NSNT
+218, 2	584, 5-5	HEL	tydy	---	NSNT
+
+
+219, 1	585, 2-2	AID	mae	---	NSNT
+
+
+220, 1	586, 1-4	HEL	be i wneud orau	---	NSNT
+
+
+221, 1	589, 1-5	AID	*yeah* fel yna oedd hi	NST	NST
+221, 2	589, 6-6	AID	ynde	NSNT	NSNT
+221, 3	589, 7-16	AID	os dw i yn cofio yn iawn yn *Llangynog* *yeah*	---	NST
+
+
+222, 1	591, 1-7	HEL	a cael mynd adra fuan wedyn *yeah*	---	NST
+
+
+223, 1	592, 1-4	AID	*yeah* dyna fo *yeah*	---	NST
+
+
+224, 1	597, 1-9	HEL	mae Sir_Fôn yn gwneud mwy ohono fo na ni	NSNT	NSNT
+224, 2	597, 10-13	HEL	dw i yn meddwl	---	NSNT
+
+
+225, 1	598, 1-2	AID	mae Sir_Fôn	---	NSNT
+
+
+226, 1	599, 1-7	HEL	mae Sir_Fôn yn gwneud mwy ohono fo	---	NSNT
+
+
+227, 1	600, 1-7	AID	diwrnod i bawb yndy swyddfeydd a popeth	NSNT	NSNT
+227, 2	602, 1-2	AID	dach chi	NSNT	NSNT
+227, 3	602, 3-9	AID	wedi bod *er* yn *Lasynys_Fawr* yn *Harlech*	---	NST
+
+
+228, 1	603, 2-3	HEL	dw i	NSNT	NSNT
+228, 2	603, 4-10	HEL	wedi bod efo ryw *drip* ryw dro	NST	NST
+228, 3	605, 1-4	HEL	dw i yn meddwl	---	NSNT
+
+
+229, 1	606, 1-10	AID	ges i yr fraint o edrych ar ei hôl hi	NSNT	NSNT
+229, 2	609, 3-8	AID	wchi *er* efo *Natasha* y *warden*	ST	NST
+229, 3	611, 1-1	AID	*Natasha_Morgan*	---	NST
+
+
+230, 1	612, 1-3	HEL	*ooh* da te	---	NST
+
+
+231, 1	613, 1-2	AID	*well* am	---	NST
+
+
+232, 1	614, 1-3	HEL	*oh* interesting te	---	ST
+
+
+233, 1	615, 1-3	AID	am ddiddorol *yeah*	---	NST
+
+
+234, 1	617, 1-4	HEL	dw i *sure* *yeah*	---	NST
+
+
+235, 1	618, 1-3	AID	a wedyn *um*	NST	NST
+235, 2	621, 1-13	AID	mynd â mynd â bobl o_gwmpas a dysgu ychi hanes yr hen dŷ	NSNT	NSNT
+235, 3	621, 14-14	AID	ynde	---	NSNT
+
+
+236, 1	623, 1-5	HEL	*oh* *yeah* *oh* difyr te	---	NST
+
+
+237, 1	626, 1-3	AID	a wedyn mi	NSNT	NSNT
+237, 2	628, 1-3	AID	*um* dw i	NST	NST
+237, 3	628, 4-11	AID	wedi bod yn cerdded efo Cymdeithas *Ellis* *Ellis_Wynne*	NST	NST
+237, 4	630, 1-2	AID	ddim *Ellis_Wynne*	ST	NST
+237, 5	631, 1-1	AID	*Edward_Llwyd*	ST	NST
+237, 6	632, 1-2	AID	amdanyn nhw	---	NSNT
+
+
+238, 1	633, 1-7	HEL	*oh* do ar *wireless* bore dydd Sadwrn	---	NST
+
+
+239, 1	634, 1-4	AID	dyna chi *yeah* *yeah*	NST	NST
+239, 2	635, 1-3	AID	dw i ddim	NSNT	NSNT
+239, 3	635, 4-6	AID	wedi bod ddiweddar	NSNT	NSNT
+239, 4	637, 1-6	AID	ond *um* o'n i mynd ar	NST	NST
+239, 5	638, 1-4	AID	pryd oedd hi rwan	NSNT	NSNT
+239, 6	639, 1-3	AID	ryw *yeah* two_thousand_and_three	ST	ST
+239, 7	640, 1-11	AID	dyma un o o yr bobl oedd yn cerdded yn cofio	NSNT	NSNT
+239, 8	640, 12-20	AID	bod hi yn dri chan mlynedd cyhoeddi llyfr *Ellis_Wynne*	NST	NST
+239, 9	642, 1-3	AID	*er* *Gweledigaetheu_y_Bardd_Cwsc* de	NST	NST
+239, 10	644, 1-5	AID	a mae nhw yn gofyn	NSNT	NSNT
+239, 11	644, 6-13	AID	os faswn i yn wneud taith o_gwmpas llefydd	NSNT	NSNT
+239, 12	644, 14-17	AID	fasai fo yn nabod	NSNT	NSNT
+239, 13	646, 1-6	AID	o'n i yn ychi taith o_blaen	SNT	NSNT
+239, 14	647, 1-5	AID	give it a *try* de	NST	ST
+239, 15	649, 1-10	AID	*so* o mae *Ellis_Wynne* *Ellis_Wynne* yn perthyn i Arglwydd *Harlech*	NST	NST
+239, 16	651, 1-3	AID	*Harlech* oedd hi	---	NST
+
+
+240, 1	652, 1-2	HEL	*well* *yeah*	---	NST
+
+
+241, 1	653, 1-4	AID	yr un gwaed de	NSNT	NSNT
+241, 2	655, 1-12	AID	a o o *Glyn_Tywarch* ddoth ei ei dad o i *Lasynys* rwan	NST	NST
+241, 3	657, 1-8	AID	a pwy sy yn byw yn *Glyn_Tywarch* rwan	NST	NST
+241, 4	657, 9-12	AID	ydy *um* Lord *Harlech*	ST	ST
+241, 5	658, 1-1	AID	*Anthony*	---	NST
+
+
+242, 1	660, 1-1	HEL	argian	---	NSNT
+
+
+243, 1	661, 1-4	AID	*oh* be ydy o	ST	NST
+243, 2	662, 1-1	AID	*Ormsby_Gore*	NST	NST
+243, 3	664, 1-2	AID	*yeah* *Francis_Ormsby_Gore*	ST	NST
+243, 4	666, 1-3	AID	fo ydy aer	NSNT	NSNT
+243, 5	666, 4-5	AID	ychi yr	---	NSNT
+
+
+244, 1	667, 1-1	HEL	argian	---	NSNT
+
+
+245, 1	668, 1-5	AID	does yna ddim cyfoeth yno	NSNT	NSNT
+245, 2	669, 1-6	AID	mae wedi mynd trwy yr pres	NSNT	NSNT
+245, 3	671, 1-3	AID	yr hen greadur	NSNT	NSNT
+245, 4	673, 1-9	AID	a dyma yna rywun yn deud *um* am bod	NST	NST
+245, 5	673, 10-16	AID	ychi *Ellis_Wynne* wedi dod o fan yna	---	NST
+
+
+246, 1	675, 1-2	HEL	*well* *yeah*	---	NST
+
+
+247, 1	676, 1-16	AID	pam wnei di sgwennu i_fyny i Arglwydd *Harlech* i ofyn am ganiatâd i weld y tŷ	NST	NST
+247, 2	678, 1-6	AID	*oh* mae yr tŷ yn hen	NST	NST
+247, 3	678, 7-7	AID	ychi	NSNT	NSNT
+247, 4	679, 1-5	AID	ydach chi wedi bod yno	NSNT	NSNT
+247, 5	680, 1-2	AID	yn *er*	---	NST
+
+
+248, 1	681, 1-1	HEL	naddo	NSNT	NSNT
+248, 2	683, 1-1	HEL	naddo	NSNT	NSNT
+248, 3	683, 2-2	HEL	naddo	---	NSNT
+
+
+249, 1	685, 1-7	AID	o'n i yn meddwl be i wneud	NSNT	NSNT
+249, 2	686, 1-9	AID	*so* mi sgwennais i fyny i yr estate *office*	ST	ST
+249, 3	687, 1-4	AID	wedyn dyma nhw yn	NSNT	NSNT
+249, 4	688, 1-4	AID	wedyn mi ges i	NSNT	NSNT
+249, 5	689, 1-5	AID	chlywes i ddim_byd wedyn am	NSNT	NSNT
+249, 6	691, 1-2	AID	*oh* wsnosau	---	NST
+
+
+250, 1	692, 1-1	HEL	argian	---	NSNT
+
+
+251, 1	693, 1-12	AID	wedyn pythefnos cyn y daith dyma yna lythyr yn dod rwan *um*	ST	NST
+251, 2	694, 1-8	AID	Houses of *er* *er* House of Lord de	NST	ST
+251, 3	694, 9-9	AID	wchi	NSNT	NSNT
+251, 5	697, 1-5	AID	a ryw *oh* sgwennu di_lun	NST	NST
+251, 7	699, 1-4	AID	ond deud *um* *yeah*	ST	NST
+251, 8	700, 1-8	AID	I'll be delighted to *er* to to welcome	---	NST
+
+
+252, 1	701, 1-1	HEL	te	---	NSNT
+
+
+253, 1	703, 1-6	AID	*um* you and your your local	---	NST
+
+
+254, 1	704, 1-9	HEL	o wedi bod yn hir iawn yn ateb toedd	---	NSNT
+
+
+255, 1	705, 1-1	AID	*eh*	---	NST
+
+
+256, 1	706, 1-8	HEL	oedd wedi fod yn hir iawn yn ateb	---	NSNT
+
+
+257, 1	709, 2-12	AID	*so* oedd yna hanner_cant ohonon ni wedi troi fyny i Glan_y_Wêr	---	NST
+
+
+258, 1	710, 1-1	HEL	argian	---	NSNT
+
+
+259, 1	711, 1-5	AID	dyma ni yn cerdded rwan	NSNT	NSNT
+259, 2	713, 1-10	AID	o wedi deud oedd yr hen hen lord wedi deud	SNT	SNT
+259, 3	714, 1-3	AID	we 'll meet	NSNT	NSNT
+259, 4	714, 4-8	AID	you in the *stable* end	ST	NST
+259, 5	716, 1-5	AID	gwybod yn lle *stable* end	ST	ST
+259, 6	718, 1-7	AID	*well* dyma ni mynd i fan hynny	NST	NST
+259, 7	720, 1-6	AID	a oedd yna ddim sôn amdano	NSNT	NSNT
+259, 8	721, 1-5	AID	*so* oedden ni yn yn	NST	NST
+259, 9	721, 6-13	AID	ychi yn cicio ein sodlau yn fan hynny	NSNT	NSNT
+259, 11	723, 1-5	AID	o yr diwedd mi ddoth	NSNT	NSNT
+259, 12	724, 1-9	AID	o'n i heb wedi weld o o yr blaen	NSNT	NSNT
+259, 13	725, 1-5	AID	ydach chi wedi weld o	NSNT	NSNT
+259, 14	726, 1-2	AID	dyn byr	NSNT	NSNT
+259, 15	728, 1-4	AID	efo gwallt du *bitch*	NST	NST
+259, 17	730, 1-3	AID	mewn *pony* tail	ST	ST
+259, 18	733, 1-5	AID	a ond be sy ddiddorol	NSNT	NSNT
+259, 20	735, 1-5	AID	yr un gwaed â *Ellis_Wynne*	NST	NST
+259, 21	737, 1-9	AID	a does yna ddim llun o *Ellis_Wynne* yn unman	---	NST
+
+
+260, 1	738, 1-2	HEL	ddim o_gwbl	---	NSNT
+
+
+261, 1	739, 1-6	AID	dyma fo yn dod ymlaen rwan	NSNT	NSNT
+261, 2	741, 1-3	AID	a mae o	NSNT	NSNT
+261, 3	741, 4-5	AID	roid *speech*	NST	NST
+261, 4	741, 6-10	AID	ychi i ein croesawu ni	NSNT	NSNT
+261, 5	742, 1-5	AID	a wedyn oedd yna neb	NSNT	NSNT
+261, 6	742, 6-12	AID	wedi bod yn y tŷ *Glyn_Tywarch* o_blaen	NST	NST
+261, 7	743, 1-3	AID	aeson ni mewn	NSNT	NSNT
+261, 8	744, 1-9	AID	ar y bwrdd oedd yna first edition o *Weledigaetheu_y_Bardd_Cwsc*	ST	ST
+261, 9	746, 1-2	AID	seventeen fourteen	---	NSNT
+
+
+262, 1	747, 1-3	HEL	*oh* dyna ddifyr	NST	NST
+262, 2	747, 4-4	HEL	te	---	NSNT
+
+
+263, 1	748, 1-3	AID	argian oedd o	NSNT	NSNT
+263, 2	748, 4-5	AID	ychi amhrisiadwy	NSNT	NSNT
+263, 3	750, 1-8	AID	ar ei ei *ddesk* o oedd yna gleddyf	NST	NST
+263, 4	751, 1-8	AID	a cleddyf *Colonel* *Jones* yn amddiffyn Castell *Harlech*	---	NST
+
+
+264, 1	752, 1-1	HEL	argian	---	NSNT
+
+
+265, 1	753, 1-8	AID	a wedyn oedd yna *er* dodrefn *oh* argian	NST	NST
+265, 2	754, 1-7	AID	ond wrth_gwrs mae popeth in trust rwan	NSNT	SNT
+265, 3	756, 1-5	AID	geith o ddim dwtsiad o	NSNT	NSNT
+265, 4	758, 1-10	AID	*oh* chwarae teg iddo fo aeth o â ni *round*	NST	NST
+265, 6	761, 1-2	AID	bob man	NSNT	NSNT
+265, 8	763, 1-4	AID	aeson ni am ddwyawr	---	NSNT
+
+
+266, 1	764, 1-1	HEL	argian	---	NSNT
+
+
+267, 1	765, 1-9	AID	wedyn dyma ni yn mynd o fan hynny i	---	NSNT
+
+
+268, 1	766, 1-5	HEL	*oh* chwarae teg iddo fo	---	NST
+
+
+269, 1	767, 1-3	AID	maes y neuadd	NSNT	NSNT
+269, 2	768, 1-18	AID	cael paned yn fan yna a cerdded i_fyny topiau a landio yn *Lasynys* i gael bara_brith a te	---	NST
+
+
+270, 1	772, 1-4	HEL	diwrnod braf te *yeah*	---	NST
+
+
+271, 1	773, 1-7	AID	oedd hi yn yn fis *er* Mehefin	NST	NST
+271, 2	773, 8-10	AID	a wchi tywydd	---	NSNT
+
+
+272, 1	775, 1-7	HEL	oes gynno fo wraig y dyn yma	NSNT	NSNT
+272, 2	777, 1-4	HEL	oes gynno fo wraig	---	NSNT
+
+
+273, 1	778, 1-8	AID	*er* *well* nid gwraig ydy hi ond *um*	---	NST
+
+
+274, 1	779, 1-3	HEL	*oh* *oh* *partner*	---	NST
+
+
+275, 1	781, 1-2	AID	Canadian ydy	NSNT	SNT
+275, 2	783, 1-3	AID	mae hi yn	NSNT	NSNT
+275, 3	783, 4-9	AID	mae hi yn ddynes *nice* iawn	NST	NST
+275, 4	785, 1-8	AID	*yeah* *um* mae hi yn cadw trefn arno	---	NST
+
+
+276, 1	786, 1-5	HEL	*oh* mae yna ddynes yno	---	NST
+
+
+277, 1	788, 1-2	AID	chimod mae	NSNT	NSNT
+277, 2	788, 3-6	AID	mae gynno fo *broblem*	NST	NST
+277, 3	788, 7-7	AID	wchi	NSNT	NSNT
+277, 5	794, 1-5	AID	na mae hi yn ddynes	NSNT	NSNT
+277, 6	795, 1-6	AID	dw wedi anghofio ei henw hi	---	NSNT
+
+
+278, 1	798, 1-14	HEL	*oh* tydy o wedi agor y tŷ wedyn i pawb fynd yno felly nac	---	NST
+
+
+279, 1	799, 1-10	AID	ychydig iawn o bobl sy yn cael mynd yno *yeah*	---	NST
+
+
+280, 1	800, 1-11	HEL	one *off* i one *off* i chi oedd hwnna *yeah* *yeah*	---	ST
+
+
+281, 1	801, 2-5	AID	oedd hwnna yn honour	SNT	SNT
+281, 2	803, 1-5	AID	a pawb yn deud wedyn	NSNT	NSNT
+281, 3	804, 1-4	AID	hen *foy* iawn de	NST	NST
+281, 4	806, 1-4	AID	hen *foy* iawn wchi	---	NST
+
+
+282, 1	807, 1-3	HEL	fasai yn well	NSNT	NSNT
+282, 2	807, 4-7	HEL	fasai fo yn gwneud	NSNT	NSNT
+282, 3	808, 1-4	HEL	ella codi ar bobl	NSNT	NSNT
+282, 4	809, 1-6	HEL	y pres fasai fo yn wneud	---	NSNT
+
+
+283, 1	810, 1-6	AID	*yeah* *well* *yeah* fasai yn syniad	NST	NST
+283, 2	810, 7-7	AID	basai	---	NSNT
+
+
+284, 1	812, 1-1	HEL	fasai	---	NSNT
+
+
+285, 1	813, 1-2	AID	basai mi	NSNT	NSNT
+285, 2	813, 3-3	AID	fasai	---	NSNT
+
+
+286, 1	814, 1-1	HEL	fasai	NSNT	NSNT
+286, 3	816, 1-5	HEL	fasai yna dipyn yn mynd	NSNT	NSNT
+286, 4	816, 6-8	HEL	dw i *sure*	NST	NST
+286, 5	817, 1-4	HEL	pobl yn cerdded *yeah*	---	NST
+
+
+287, 1	819, 1-5	AID	*well* *yeah* hollol de *yeah*	---	NST
+
+
+288, 1	822, 1-9	HEL	wedyn mae nhw yn deud bob bore dydd Sadwrn	NSNT	NSNT
+288, 2	822, 10-10	HEL	te	NSNT	NSNT
+288, 3	823, 1-7	HEL	mae yr *er* walks yma yn mynd	NST	ST
+288, 4	823, 8-8	HEL	tydy	---	NSNT
+
+
+289, 1	826, 1-6	AID	mae yna rai yn y de	NSNT	NSNT
+289, 2	828, 1-7	AID	a rai yn y gogledd yma de	---	NSNT
+
+
+290, 1	829, 1-5	HEL	*programme* da ydy hwnna hefyd	NST	NST
+290, 2	831, 1-6	HEL	*programme* da ydy hwnna dydd Sadwrn	---	NST
+
+
+291, 1	832, 1-2	AID	*yeah* *Gerallt_Pennant*	ST	NST
+291, 2	834, 1-2	AID	dw i	NSNT	NSNT
+291, 3	834, 3-13	AID	wedi bod mor lwcus a ennill ryw gryno_ddisg yma ac acw	NSNT	NSNT
+291, 4	836, 2-2	AID	wchi	NSNT	NSNT
+291, 5	837, 1-5	AID	pan o'n i yn *Llanfechain*	---	NST
+
+
+292, 1	838, 1-7	HEL	*oh* fyddwch chi yn ateb y pethau	NST	NST
+292, 2	838, 8-8	HEL	fyddwch	NSNT	NSNT
+292, 3	839, 1-6	HEL	fyddwch chi yn ateb y cwestiynau	NSNT	NSNT
+292, 4	839, 7-7	HEL	byddwch	---	NSNT
+
+
+293, 1	840, 1-4	AID	pan dw i gallu	NSNT	NSNT
+293, 2	842, 1-4	AID	pan dw i gallu	NSNT	NSNT
+293, 3	844, 1-9	AID	a pan o'n i yn *Llanfechain* *um* *Dei_Tomos* oedd	NST	NST
+293, 4	846, 1-7	AID	os dw i yn cofio yn iawn	NSNT	NSNT
+293, 5	848, 1-4	AID	fo oedd ers talwm	SNT	NSNT
+293, 6	849, 1-1	AID	*Gerallt*	---	NST
+
+
+294, 1	850, 1-9	HEL	ond fuo fo ond fuo fo am flynyddoedd do	---	NSNT
+
+
+295, 1	851, 1-3	AID	do ond wedyn	NSNT	NSNT
+295, 2	851, 4-5	AID	ddoth *Gerallt*	---	NST
+
+
+296, 1	852, 1-5	HEL	mi fuo fo am flynyddoedd	---	NSNT
+
+
+297, 1	853, 1-5	AID	*oh* un da ydy *Gerallt*	---	NST
+
+
+298, 1	854, 1-4	HEL	do mi fuo hwnnw	NSNT	NSNT
+298, 2	855, 1-6	HEL	*yeah* da iawn ydy o *yeah*	NST	NST
+298, 3	856, 1-5	HEL	hwnna sy dda hefyd *Iolo_Williams*	---	NST
+
+
+299, 1	858, 1-2	AID	*wow* *yeah*	ST	NST
+299, 2	859, 1-3	AID	dyna chi *Iolo*	NST	NST
+299, 3	860, 1-8	AID	o *Llanwddyn* mae *Iolo* yn dod yn wreiddiol	---	NST
+
+
+300, 1	861, 1-4	HEL	mae o on heno	NSNT	SNT
+300, 2	862, 1-4	HEL	mae o on heno	NSNT	SNT
+300, 3	862, 5-5	HEL	tydy	NSNT	NSNT
+300, 4	862, 6-8	HEL	dw i meddwl	---	NSNT
+
+
+301, 1	865, 2-10	AID	mae o yn wedi wneud hi yn dda iawn	---	NSNT
+
+
+302, 1	866, 1-8	HEL	efo ryw glider neu rywbeth mae o heno	NSNT	SNT
+302, 2	866, 9-11	HEL	dw i meddwl	NSNT	NSNT
+302, 3	866, 12-12	HEL	te	NSNT	NSNT
+302, 4	867, 1-8	HEL	efo ryw glider mae o heno yn fflio	NSNT	SNT
+302, 5	869, 1-7	HEL	mae o isio fflio efo yr kites	---	SNT
+
+
+303, 1	870, 1-4	AID	*oh* *yeah* mae o	NST	NST
+303, 2	870, 5-9	AID	wedi bod *round* y byd	---	NST
+
+
+304, 1	871, 1-9	HEL	isio fflio efo yr kites neu rywbeth mae o	---	SNT
+
+
+305, 1	872, 1-5	AID	*ah* ew *yeah* da de	---	NST
+
+
+306, 1	874, 1-6	HEL	dysgu gleidio mae o heno *yeah*	NST	NST
+306, 2	876, 2-6	HEL	mae o yn dda iawn	NSNT	NSNT
+306, 3	878, 2-3	HEL	mae o	NSNT	NSNT
+306, 4	878, 4-8	HEL	wedi bod *round* y byd	---	NST
+
+
+307, 1	880, 1-6	AID	Drenewydd mae o yn byw rwan	NSNT	NSNT
+307, 2	883, 1-3	AID	*yeah* fuodd o	NST	NST
+307, 3	883, 4-9	AID	fuodd o yn byw yn *Y_Fron*	NST	NST
+307, 4	885, 1-6	AID	yn *Y_Fron* yn ymyl *um* *Penygroes*	NST	NST
+307, 5	887, 1-3	AID	do am ychydig	---	NSNT
+
+
+308, 1	889, 1-8	HEL	*oh* *Y_Fron* oedd enw tŷ ni ers talwm	NST	NST
+308, 3	893, 1-6	HEL	*yeah* yn lle doth o yna	NST	NST
+308, 4	893, 7-8	HEL	oedd o	NSNT	NSNT
+308, 5	893, 9-12	HEL	mae *sure* *yeah* *yeah*	---	NST
+
+
+309, 1	895, 1-4	AID	oedd *um* *Natasha* rwan	NST	NST
+309, 3	897, 1-2	AID	*Natasha* oedd	NST	NST
+309, 4	897, 3-7	AID	oedd yn edrych ar_ôl *Lasynys*	NST	NST
+309, 5	898, 1-7	AID	oedd hi yn wneud ar y dysgu	NSNT	NSNT
+309, 6	898, 8-9	AID	oedd hi	NSNT	NSNT
+309, 7	899, 1-10	AID	a mi aeth i wneud diwrnod yn *um* ysgol Dyffryn_Nantlle	NST	NST
+309, 8	901, 1-4	AID	pryd oedd hi rwan	NSNT	NSNT
+309, 9	902, 1-3	AID	ryw bythefnos yn_ôl	NSNT	NSNT
+309, 10	904, 1-5	AID	a Saesneg ydy phwnc hi	NSNT	NSNT
+309, 11	906, 1-5	AID	ond pwy oedd yn digwydd	NSNT	NSNT
+309, 12	906, 6-7	AID	bod i_ffwrdd	NSNT	NSNT
+309, 13	906, 8-10	AID	oedd athrawes Ffrangeg	NSNT	NSNT
+309, 14	907, 1-7	AID	*so* oedd hi yn gorfod gwneud French	ST	ST
+309, 15	907, 8-9	AID	wchi de	NSNT	NSNT
+309, 16	909, 1-8	AID	y rhan fwya o yr o yr dydd	NSNT	NSNT
+309, 17	911, 1-8	AID	a argian plant yn anodd eu trin braidd	---	NSNT
+
+
+310, 1	912, 1-2	HEL	yn Dyffryn_Nantlle	---	NSNT
+
+
+311, 1	913, 1-2	AID	*er* wchi	---	NST
+
+
+312, 1	914, 1-1	HEL	argian	---	NSNT
+
+
+313, 1	915, 1-1	AID	cynradd	NSNT	NSNT
+313, 2	916, 1-2	AID	chwarae i_fyny	NSNT	NSNT
+313, 3	916, 3-7	AID	am bod yna rywun newydd	NSNT	NSNT
+313, 4	916, 9-9	AID	wchi	NSNT	NSNT
+313, 5	918, 1-7	AID	ysgol *um* eilradd rwan county school de	---	ST
+
+
+314, 1	919, 1-3	HEL	*well* *yeah* *yeah*	---	NST
+
+
+315, 1	920, 1-5	AID	ac oedd yna un un	NSNT	NSNT
+315, 2	920, 6-13	AID	oedd yna ddau arbennig rwan fachgen arbennig *er*	NST	NST
+315, 3	922, 1-9	AID	dipyn bach yn wchi yn yn pwsio eu *luck*	NST	NST
+315, 4	923, 1-14	AID	a mae hi yn sodro un a ei eistedd fo yn sêt yr athrawes	NSNT	NSNT
+315, 5	924, 1-9	AID	a wedyn dyma hi yn siarad efo yr llall	NSNT	NSNT
+315, 6	925, 1-6	AID	oedd llall ddim *quite* mor ddrwg	NST	NST
+315, 7	926, 1-4	AID	a mynd fel hyn	NSNT	NSNT
+315, 8	927, 1-5	AID	be ydy dy enw di	SNT	NSNT
+315, 9	928, 1-1	AID	*Huw_McDonald*	---	NST
+
+
+316, 1	929, 1-4	HEL	*oh* *oh* mab *Gareth_McDonald*	---	NST
+
+
+317, 1	930, 1-2	AID	mab *Gareth_McDonald*	---	NST
+
+
+318, 1	932, 1-8	HEL	argian ydy o yn yr ysgol fawr rwan	NSNT	NSNT
+318, 2	934, 1-2	HEL	ydy o	NSNT	NSNT
+318, 3	934, 3-9	HEL	ydy o gymaint a hynna o oed	NSNT	NSNT
+318, 4	935, 2-3	HEL	mae rhaid	---	NSNT
+
+
+319, 1	936, 1-7	AID	yndy un_ar_ddeg rwan un_ar_ddeg a deuddeg *yeah*	---	NST
+
+
+320, 1	937, 2-4	HEL	mae yn un_ar_ddeg	NSNT	NSNT
+320, 2	938, 1-2	HEL	argian fawr	---	NSNT
+
+
+321, 1	939, 1-8	AID	faint o faint o blant sy gen *Bryn*	---	NST
+
+
+322, 1	940, 1-4	HEL	tri o hogiau *yeah*	---	NST
+
+
+323, 1	941, 1-1	AID	tri	---	NSNT
+
+
+324, 1	942, 1-4	HEL	tri o hogiau *yeah*	NST	NST
+324, 2	943, 1-8	HEL	*oh* *Huw* *oh* hogyn drwg ydy *Huw_McDonald* felly	---	NST
+
+
+325, 1	944, 1-6	AID	doedd o ddim yn ddrwg felly	NSNT	NSNT
+325, 2	944, 8-11	AID	wchi ond *er* *yeah*	NST	NST
+325, 4	946, 1-3	AID	llawn hoffter fel	---	NSNT
+
+
+326, 1	948, 1-9	HEL	*oh* mae o yn yr ysgol *Glanaethwy* yna hefyd	NST	NST
+326, 2	948, 10-10	HEL	tydy	NSNT	NSNT
+326, 3	949, 1-7	HEL	mae o yn perthyn i hwnna hefyd	NSNT	NSNT
+326, 4	949, 8-8	HEL	tydy	NSNT	NSNT
+326, 5	952, 1-4	HEL	*oh* mi fasai fo	NST	NST
+326, 6	952, 5-5	HEL	basai	---	NSNT
+
+
+327, 1	953, 1-9	AID	be mae o dda efo actio neu rywbeth *yeah*	---	NST
+
+
+328, 1	954, 1-2	HEL	mi fasai	---	NSNT
+
+
+329, 1	955, 1-6	AID	*well* ryw fab i *Bryn* de	---	NST
+
+
+330, 1	956, 1-4	HEL	mae nhw yn actio	NSNT	NSNT
+330, 2	957, 1-9	HEL	*oh* mae nhw yn actio a canu bob_dim tydyn	NST	NST
+330, 4	959, 1-10	HEL	mae nhw yn dda yna hefyd deud y gwir tydyn	---	NSNT
+
+
+331, 1	960, 1-4	AID	*yeah* mae nhw *yeah*	NST	NST
+331, 2	962, 1-3	AID	ew mae nhw	---	NSNT
+
+
+332, 1	963, 1-3	HEL	wn i ddim	NSNT	NSNT
+332, 2	963, 4-6	HEL	dyn nhw gorod	NSNT	NSNT
+332, 3	963, 7-9	HEL	bod yn un_ar_ddeg	NSNT	NSNT
+332, 4	963, 10-16	HEL	mae *sure* i fynd i fan yna	NST	NST
+332, 5	963, 17-20	HEL	faswn i meddwl tydyn	---	NSNT
+
+
+333, 1	964, 1-3	AID	yn *sure* ynde	---	NST
+
+
+334, 1	965, 2-6	HEL	mae nhw yn dda iawn	SNT	NSNT
+334, 2	968, 1-3	HEL	*oh* *Huw_McDonald* *yeah*	ST	NST
+334, 3	969, 1-8	HEL	*yeah* tri o hogiau sy gynno fo *yeah*	---	NST
+
+
+335, 1	971, 1-8	AID	*so* be dangos be ydach alw mae nhw	NST	NST
+335, 2	972, 1-6	AID	dangos *um* diddordeb mewn *drama* neu	NST	NST
+335, 3	974, 1-5	AID	*yeah* neu gallu mae *sure*	NST	NST
+335, 4	975, 1-3	AID	*ah* da de	---	NST
+
+
+336, 1	979, 1-9	HEL	mae nhw yn talu i fynd yna wrth_gwrs tydyn	---	NSNT
+
+
+337, 1	982, 1-7	AID	dydy hynny ddim yn *broblem* i *Bryn*	NST	NST
+337, 2	982, 8-8	AID	nach	---	NSNT
+
+
+338, 1	985, 1-5	HEL	*oh* argian fawr nac ydy	NST	NST
+338, 2	986, 1-2	HEL	argian na	NSNT	NSNT
+338, 3	987, 1-5	HEL	*oh* fydd y tri yna	NST	NST
+338, 4	987, 6-7	HEL	mae *sure*	NST	NST
+338, 5	989, 1-4	HEL	fydd y tri yna	NSNT	NSNT
+338, 6	989, 5-6	HEL	mae *sure*	---	NST
+
+
+339, 1	990, 1-4	AID	faswn i synnu dim	---	NSNT
+
+
+340, 1	991, 1-7	HEL	ddon nhw yn oed mae *sure* *yeah*	---	NST
+
+
+341, 1	992, 1-2	AID	synnu dim	---	NSNT
+
+
+342, 1	993, 1-2	HEL	*well* cofiwch	NST	NST
+342, 2	993, 3-7	HEL	dydy o ddim yn deud	NSNT	NSNT
+342, 3	993, 8-13	HEL	bod nhw gyd isio canu chwaith	---	NSNT
+
+
+343, 1	994, 1-5	AID	na hynny wir yndy *yeah*	---	NST
+
+
+344, 1	995, 1-15	HEL	ydach chi ddim ydach chi ddim yn dilyn eich teulu bob amser chwaith nac ydach	---	NSNT
+
+
+345, 1	996, 1-3	AID	*well* na na	---	NST
+
+
+346, 1	997, 1-2	HEL	nac ydach	---	NSNT
+
+
+347, 1	998, 1-4	AID	na ydach chi ddim	---	NSNT
+
+
+348, 1	999, 1-4	HEL	nac ydach nac ydach	NSNT	NSNT
+348, 2	1000, 1-7	HEL	fydda i yn licio *Gwyn_Hughes_Jones* yn hun	NST	NST
+348, 3	1001, 1-4	HEL	hwnna sy yn Sir_Fôn	NSNT	NSNT
+348, 4	1003, 1-8	HEL	*tenor* yna fydda i yn licio fo *yeah*	NST	NST
+348, 5	1004, 1-6	HEL	*yeah* fydda i yn licio fo	---	NST
+
+
+349, 1	1005, 1-9	AID	a yr a yr *boy* yna o Sir_Drefaldwyn *Machynlleth*	NST	NST
+349, 2	1006, 1-2	AID	glywsoch chi	NSNT	NSNT
+349, 3	1008, 1-4	AID	do y y *baritone*	---	NST
+
+
+350, 1	1009, 1-9	HEL	*oh* *yeah* oedd yr hogan yn dda hefyd toedd	NST	NST
+350, 2	1011, 1-4	HEL	oedd hwnna yn dda	NSNT	NSNT
+350, 3	1011, 5-8	HEL	oedd hwnna yn dda	NSNT	NSNT
+350, 4	1012, 1-4	HEL	oedd hwnna yn dda	NSNT	NSNT
+350, 5	1013, 1-6	HEL	*oh* mae *Rhys_Meirion* yn dda hefyd	---	NST
+
+
+351, 1	1014, 1-1	AID	pwy	---	NSNT
+
+
+352, 1	1015, 1-1	HEL	*Rhys_Meirion*	ST	NST
+352, 2	1017, 1-5	HEL	o yn dda hefyd tydy	NSNT	NSNT
+352, 3	1018, 1-7	HEL	gynno ni dipyn o rai rwan toes	---	NSNT
+
+
+353, 1	1021, 1-7	AID	fuoch chi yn y *Steddfod* yn *Meifod*	---	NST
+
+
+354, 1	1022, 1-1	HEL	naddo	---	NSNT
+
+
+355, 1	1023, 1-3	AID	na *Eisteddfod* dda	NST	NST
+355, 3	1025, 1-8	AID	fuon nhw yn wneud y gân actol gynta	---	NSNT
+
+
+356, 1	1026, 1-5	HEL	mae gywilydd i mi ddeud	NSNT	NSNT
+356, 2	1026, 6-11	HEL	fyddai ddim yn mynd i *Steddfod*	NST	NST
+356, 3	1026, 12-12	HEL	gosa	NSNT	NSNT
+356, 4	1026, 13-16	HEL	ydy fan yma rywle	NSNT	NSNT
+356, 5	1026, 17-17	HEL	ynte	---	NSNT
+
+
+357, 1	1027, 1-4	AID	dyna chi *yeah* *yeah*	---	NST
+
+
+358, 1	1028, 1-1	HEL	gosa	NSNT	NSNT
+358, 2	1028, 2-4	HEL	ydy ffordd yma	NSNT	NSNT
+358, 3	1029, 1-5	HEL	tydw i ddim yn eisteddfodwraig	NSNT	NSNT
+358, 4	1031, 1-13	HEL	fydda i ddim yn mynd ar ei hôl hi felly wyddoch chi ond	---	NSNT
+
+
+359, 1	1033, 1-6	AID	ar y mae ar y teledu	---	NSNT
+
+
+360, 1	1034, 1-7	HEL	*oh* mi es i i yr *Faenol*	NST	NST
+360, 2	1034, 8-8	HEL	te	---	NSNT
+
+
+361, 1	1035, 1-5	AID	*oh* do *sure* do lleol	NST	NST
+361, 2	1035, 6-7	AID	de local	---	SNT
+
+
+362, 1	1036, 1-9	HEL	i yr *Faenol* es i i yr *Faenol* *yeah*	NST	NST
+362, 2	1037, 1-3	HEL	mae yn Denbigh	SNT	SNT
+362, 3	1037, 5-5	HEL	dywedwch	NSNT	NSNT
+362, 4	1038, 2-2	HEL	dywedwch	---	NSNT
+
+
+363, 1	1039, 1-3	AID	*um* Wyddgrug *yeah*	NST	NST
+363, 2	1040, 1-5	AID	dw i ddim yn *sure*	NST	NST
+363, 3	1041, 1-1	AID	Wyddgrug	NSNT	NSNT
+363, 4	1043, 1-11	AID	neu neu Dinbych dw i ddim yn *sure* pa yr un	---	NST
+
+
+364, 1	1044, 1-2	HEL	mae *sure*	NST	NST
+364, 2	1045, 1-9	HEL	fydda i yn drysu weithiau efo *Steddfod* yr *Urdd*	---	NST
+
+
+365, 1	1046, 1-3	AID	lle mae hwnnw	---	NSNT
+
+
+366, 1	1047, 1-7	HEL	ddim yn *sure* lle mae hwnna chwaith	ST	NST
+366, 3	1049, 1-14	HEL	because mae hi yn Caerdydd bob pedair yn *Llandudno* yn Caerdydd bob pedair blynedd	NST	ST
+366, 4	1049, 15-15	HEL	tydy	---	NSNT
+
+
+367, 1	1050, 2-8	AID	yndy yn y yn y lle yna	NSNT	NSNT
+367, 2	1052, 1-7	AID	ydach chi wedi bod yn y bae	---	NSNT
+
+
+368, 1	1053, 1-1	HEL	naddo	NSNT	NSNT
+368, 2	1055, 3-4	HEL	dw i	NSNT	NSNT
+368, 3	1055, 5-14	HEL	wedi bod yna pan o'n nhw yn dechrau bildio hwn	NSNT	NSNT
+368, 5	1058, 1-4	HEL	*yeah* twll oedd yna	---	NST
+
+
+369, 1	1059, 1-6	AID	*yeah* Duw *right* ddiddorol yna does	---	NST
+
+
+370, 1	1060, 1-1	HEL	twll	---	NSNT
+
+
+371, 1	1062, 1-7	AID	mae merch i yn byw yn Nghaerdydd	---	NSNT
+
+
+372, 1	1063, 1-2	HEL	twll yna	---	NSNT
+
+
+373, 1	1064, 1-3	AID	*handy* mynd lawr	---	NST
+
+
+374, 1	1065, 1-4	HEL	ond *trip* oedd o	NST	NST
+374, 2	1066, 1-8	HEL	chaethon ni fawr o amser yna wyddoch chi	NSNT	NSNT
+374, 3	1067, 1-9	HEL	dim_ond ble mae yr tripiau yn mynd â chi	---	NSNT
+
+
+375, 1	1068, 1-5	AID	dyna fo *yeah* *yeah* *yeah*	---	NST
+
+
+376, 1	1069, 1-7	HEL	a cael ryw awr yn fan hyn	NSNT	NSNT
+376, 2	1071, 1-5	HEL	awr yn fan arall te	NSNT	NSNT
+376, 3	1073, 1-11	HEL	faswn i licio mynd yna i weld hwn hefyd yn iawn	---	NSNT
+
+
+377, 1	1074, 1-2	AID	*well* *yeah*	ST	NST
+377, 2	1076, 1-4	AID	welson ni o tu_allan	---	NSNT
+
+
+378, 1	1078, 1-5	HEL	fasan nhw yn wneud tripiau	NSNT	NSNT
+378, 2	1078, 6-6	HEL	te	---	NSNT
+
+
+379, 1	1079, 1-1	AID	*sorry*	---	NST
+
+
+380, 1	1080, 1-8	HEL	peth iawn fasai rywun yn wneud *trip* yna	---	NST
+
+
+381, 1	1081, 1-2	AID	*well* *yeah*	ST	NST
+381, 2	1083, 1-7	AID	*oh* mi wnân *Silver_Star* mae *sure* wnân	NST	NST
+381, 3	1084, 1-4	AID	fe fydd yna ofyn	---	NSNT
+
+
+382, 1	1085, 1-2	HEL	*oh* gwnân	NST	NST
+382, 2	1087, 1-6	HEL	o'n i wedi bod yn edrych	NSNT	NSNT
+382, 3	1087, 7-17	HEL	os oedd rywbeth yn mynd i ryw gyngerdd neu rywbeth *er*	NST	NST
+382, 4	1087, 18-18	HEL	wchi	---	NSNT
+
+
+383, 1	1089, 1-1	AID	i	---	NSNT
+
+
+384, 1	1090, 1-7	HEL	i ryw gyngerdd o ryw fath yna	NSNT	NSNT
+384, 2	1091, 1-4	HEL	ond toes yna ddim_byd	---	NSNT
+
+
+385, 1	1092, 1-2	AID	*well* *yeah*	---	NST
+
+
+386, 1	1093, 1-2	HEL	nag oes	NSNT	NSNT
+386, 2	1093, 3-6	HEL	does yna ddim_byd na	---	NSNT
+
+
+387, 1	1094, 1-4	AID	*oh* does yna ddim_byd	NST	NST
+387, 2	1094, 5-7	AID	nag oes na	NSNT	NSNT
+387, 3	1095, 1-5	AID	mae o yn bell bae	---	NSNT
+
+
+388, 1	1096, 1-11	HEL	mae yna ddigon yn mynd lawr i *rugby* a pethau felly	NST	NST
+388, 2	1096, 12-12	HEL	te	---	NSNT
+
+
+389, 1	1097, 1-2	AID	mae yna	NSNT	NSNT
+389, 2	1098, 1-2	AID	mae yna	NSNT	NSNT
+389, 3	1099, 1-10	AID	wnawn ni ddim sôn am *rugby* ar_ôl dydd Sul *well*	---	NST
+
+
+390, 1	1100, 1-4	HEL	*oh* does gynno i	NST	NST
+390, 2	1100, 5-14	HEL	does gynno i ddim tamaid o *interest* yno fo anyway	ST	ST
+390, 4	1102, 1-4	HEL	na bechod hefyd te	NSNT	NSNT
+390, 5	1104, 1-6	HEL	*yeah* dw i ddim yn deud	NST	NST
+390, 6	1104, 7-12	HEL	mae o yn *bity* hefyd ond	NST	NST
+390, 7	1104, 13-14	HEL	dyna fo	NSNT	NSNT
+390, 8	1107, 1-4	HEL	chi yn dilyn *football*	---	NST
+
+
+391, 1	1108, 1-10	AID	*er* mwy na *rugby* *football* deud y gwir *yeah* *yeah*	---	NST
+
+
+392, 1	1109, 1-4	HEL	mae *game* heno toes	NST	NST
+392, 2	1111, 1-2	HEL	*Paraguay* heno	---	NST
+
+
+393, 1	1113, 1-2	AID	*Paraguay* *yeah*	---	NST
+
+
+394, 1	1114, 1-3	HEL	*Paraguay* heno *yeah*	---	NST
+
+
+395, 1	1115, 1-1	AID	*Paraguay*	---	NST
+
+
+396, 1	1116, 1-5	HEL	*yeah* be wnân nhw dywedwch	---	NST
+
+
+397, 1	1117, 1-3	AID	yn yn chwarae	NSNT	NSNT
+397, 3	1120, 1-1	AID	yn	---	NSNT
+
+
+398, 1	1121, 1-5	HEL	be wnân nhwwn i ddim	NSNT	NSNT
+398, 2	1122, 1-6	HEL	yn fan yno mae nhw *yeah*	---	NST
+
+
+399, 1	1123, 1-3	AID	na home *game*	ST	ST
+399, 2	1125, 1-6	AID	*er* lle mae nhw yn chwarae	ST	NST
+399, 4	1127, 1-2	AID	Millennium_Stadium *yeah*	---	NST
+
+
+400, 1	1128, 1-4	HEL	*well* *yeah* mae raid	NST	NST
+400, 2	1128, 5-11	HEL	neu fedran nhw ddim chwarae yn hwn	NSNT	NSNT
+400, 3	1128, 12-13	HEL	na fedran	NSNT	NSNT
+400, 4	1129, 1-5	HEL	yn fan yna mae nhw	NSNT	NSNT
+400, 5	1129, 6-8	HEL	mae raid ella	---	NSNT
+
+
+401, 1	1130, 1-8	AID	ond na ond mae yna dô arno fo	NSNT	NSNT
+401, 2	1130, 9-9	AID	does	---	NSNT
+
+
+402, 1	1131, 1-5	HEL	mae yna dô ar hwnnw	NSNT	NSNT
+402, 2	1132, 1-7	HEL	mae nhw yn iawn yn hwnnw tydyn	---	NSNT
+
+
+403, 1	1133, 1-10	AID	*ooh* mae nhw yn chwarae ym mhob tywydd fan yna	NST	NST
+403, 2	1133, 11-11	AID	ynde	---	NSNT
+
+
+404, 1	1134, 1-13	HEL	dw i ddim yn gweld nhw yn medru chwarae yn nunlle arall heddiw	---	NSNT
+
+
+405, 1	1135, 1-2	AID	*well* na	---	NST
+
+
+406, 1	1136, 1-4	HEL	dim_ond yn fan yno	NSNT	NSNT
+406, 2	1138, 1-8	HEL	*oh* fan yma mae nhw yn chwarae *yeah*	---	NST
+
+
+407, 1	1139, 1-7	AID	*oh* dw i ddim yn hollol *sure*	---	NST
+
+
+408, 1	1140, 1-5	HEL	*ah* dw innau ddim chwaith	---	NST
+
+
+409, 1	1141, 1-6	AID	oedd yna ddim sôn am *Llanelli*	---	NST
+
+
+410, 1	1142, 1-6	HEL	*ah* dw innau ddim chwaith *yeah*	---	NST
+
+
+411, 1	1143, 1-6	AID	*yeah* dw i ddim yn *sure*	---	NST
+
+
+412, 1	1144, 1-7	HEL	*oh* gobeithio wnân nhw rywbeth wir *yeah*	---	NST
+
+
+413, 1	1145, 1-2	AID	*well* *yeah*	NST	NST
+413, 2	1146, 1-1	AID	*well*	---	NST
+
+
+414, 1	1147, 1-4	HEL	*well* ydan ni yn	NST	NST
+414, 2	1147, 5-8	HEL	mae pethau yn newid	NSNT	NSNT
+414, 3	1147, 9-9	HEL	tydy	NSNT	NSNT
+414, 4	1148, 1-4	HEL	ydach chi yn cael	---	NSNT
+
+
+415, 1	1149, 1-8	AID	*oh* *yeah* mae yr South Americans yn gwybod	NST	ST
+415, 2	1149, 9-11	AID	be ydy pêl_droed	NSNT	NSNT
+415, 3	1149, 12-12	AID	ynde	NSNT	NSNT
+415, 4	1150, 1-3	AID	*oh* dyna fo	---	NST
+
+
+416, 1	1152, 1-12	HEL	*oh* ydach chi ddim yn gwybod nac ydach nac ydach nac ydach	---	NST
+
+
+417, 1	1154, 1-12	AID	dw i wneud cwrs diddorol rwan yn *er* *Llanfairpwll* efo *um* *Hywel_Wyn_Owen*	NST	NST
+417, 2	1155, 1-2	AID	enwau lleoedd	NSNT	NSNT
+417, 3	1157, 1-4	AID	ew mae yn ddiddorol	NSNT	NSNT
+417, 4	1158, 1-5	AID	wnes i o tymor dwytha	NSNT	NSNT
+417, 5	1159, 1-5	AID	*um* a oedd o mor	NST	NST
+417, 6	1159, 6-7	AID	wchi ddiddorol	NSNT	NSNT
+417, 7	1159, 8-14	AID	mae o yn cario mlaen tymor yma	---	NSNT
+
+
+418, 1	1162, 1-11	HEL	*well* yn enw o lle o'n i yn byw yn *Bethesda*	NST	NST
+418, 2	1163, 1-6	HEL	does yna neb yn gwybod iawn	NSNT	NSNT
+418, 3	1163, 7-10	HEL	be ydy enw nhw	SNT	NSNT
+418, 4	1164, 1-1	HEL	*Tan_y_Sgrafell*	---	NST
+
+
+419, 1	1165, 1-5	AID	ga i sgwennu hwnna lawr	---	NSNT
+
+
+420, 1	1166, 1-2	HEL	cewch tad	---	NSNT
+
+
+421, 1	1167, 1-6	AID	wna i ofyn i *Hywel* rwan	NST	NST
+421, 3	1169, 1-1	AID	mae	NSNT	NSNT
+421, 4	1169, 2-7	AID	ydan ni yn gofyn cwestiynau iddo	---	NSNT
+
+
+422, 1	1170, 1-1	HEL	*Tan_y*	---	NST
+
+
+423, 1	1171, 1-4	AID	a wnawn ni wedyn	---	NSNT
+
+
+424, 1	1172, 1-1	HEL	*Tan_y_Sgrafell*	---	NST
+
+
+425, 1	1174, 1-3	AID	sgrafell ydy *er*	---	NST
+
+
+426, 1	1175, 1-1	HEL	*Tan_y_Sgrafell*	---	NST
+
+
+427, 1	1176, 1-5	AID	ydy be ydach chi yn	---	NSNT
+
+
+428, 1	1177, 1-6	HEL	*yeah* *Tan_y_Sgrafell* oedd ei enw fo	---	NST
+
+
+429, 1	1179, 1-7	AID	defnyddio i be i lanhau ceffyl *yeah*	---	NST
+
+
+430, 1	1180, 1-4	HEL	math o beth nad	NSNT	NSNT
+430, 2	1180, 5-11	HEL	ydw i erioed wedi clywed yn iawn	NSNT	NSNT
+430, 3	1180, 12-15	HEL	be mae o feddwl	---	NSNT
+
+
+431, 1	1181, 1-5	AID	*yeah* sgrafell Duw diddorol de	---	NST
+
+
+432, 1	1182, 1-4	HEL	*Tan* *Tan_y_Sgrafell* oedd o	---	NST
+
+
+433, 1	1183, 1-1	AID	*Tan_y_Sgrafell*	---	NST
+
+
+434, 1	1185, 1-9	HEL	*Fron* oedd enw yr tŷ wedyn *Fron* *Tan_y_Sgrafell* *Bethesda*	NST	NST
+434, 2	1185, 10-13	HEL	oedd yr address *yeah*	---	ST
+
+
+435, 1	1186, 1-6	AID	be ydach chi feddwl ydy sgrafell	---	NSNT
+
+
+436, 1	1187, 1-6	HEL	*oh* dw i ddim yn gwybod	---	NST
+
+
+437, 1	1188, 1-4	AID	*well* yn yn Sir_Drefaldwyn	---	NST
+
+
+438, 1	1189, 1-13	HEL	o'n i yn meddwl ella bod o fath â ryw gysgod neu rywbeth	NSNT	NSNT
+438, 2	1190, 1-3	HEL	wn i ddim	---	NSNT
+
+
+439, 1	1191, 1-10	AID	yn Sir_Drefaldwyn os dw i yn cofio yn iawn sgrafell	NSNT	NSNT
+439, 2	1191, 11-24	AID	oedd be o'n nhw yn ddefnyddio i i baratoi ceffyl i fynd i sioe	NSNT	NSNT
+439, 3	1192, 1-4	AID	ei lanhau o ychi	NSNT	NSNT
+439, 4	1194, 1-3	AID	fel yna de	---	NSNT
+
+
+440, 1	1195, 1-7	HEL	wmgo be wnelo hynny â enw lle	NSNT	NSNT
+440, 2	1196, 1-2	HEL	ydach chi	---	NSNT
+
+
+441, 1	1197, 1-2	AID	*well* na	---	NST
+
+
+442, 1	1198, 1-3	HEL	a *Tan* *Tan_y_Sgrafell*	---	NST
+
+
+443, 1	1199, 1-2	AID	be *farm*	NST	NST
+443, 2	1200, 1-1	AID	tyddyn	NSNT	NSNT
+443, 4	1202, 1-2	AID	be oedd	NSNT	NSNT
+443, 5	1202, 3-5	AID	be oedd o	---	NSNT
+
+
+444, 1	1203, 1-7	HEL	naci *well* *er* *well* *group* o dai	NST	NST
+444, 2	1204, 1-2	HEL	oedd yna	NSNT	NSNT
+444, 3	1204, 3-9	HEL	oedd yna ryw rês bach yn *top*	NST	NST
+444, 4	1205, 1-3	HEL	chwech o gottages	SNT	SNT
+444, 6	1208, 1-5	HEL	a wedyn pump o dai	NSNT	NSNT
+444, 7	1210, 1-6	HEL	i_lawr a hynny oedd o i_gyd	---	NSNT
+
+
+445, 1	1212, 1-3	AID	*oh* diddorol ynde	---	NST
+
+
+446, 1	1213, 1-6	HEL	mae raid bod o tan rywbeth	---	NSNT
+
+
+447, 1	1214, 2-3	AID	ydy *Tan_y_Sgrafell*	---	NST
+
+
+448, 1	1215, 1-13	HEL	*oh* toedd o ddim ond doedden ni ddim o_dan mynydd na dim_byd chwaith	NST	NST
+448, 2	1215, 14-14	HEL	te	SNT	NSNT
+448, 3	1217, 1-1	HEL	*Tan_y*	---	NST
+
+
+449, 1	1218, 1-6	AID	wedyn a *Sling* dydy yn *er*	---	NST
+
+
+450, 1	1219, 1-2	HEL	*oh* *Sling*	---	NST
+
+
+451, 1	1220, 1-7	AID	*Sling* a mae yna *Sling* arall yn	---	NST
+
+
+452, 1	1221, 1-4	HEL	*John_Ogwen* dod o *Sling*	NST	NST
+452, 2	1223, 1-4	HEL	nabod o yn iawn	---	NSNT
+
+
+453, 1	1224, 1-8	AID	ydach chi gwybod lle mae yr *Sling* arall	---	NST
+
+
+454, 1	1225, 1-2	HEL	nac ydw	---	NSNT
+
+
+455, 1	1226, 1-10	AID	faswn i ddim yn gwybod ond am y cwrs yma	---	NSNT
+
+
+456, 1	1227, 1-5	HEL	mae hwnnw yn enw *odd*	---	NST
+
+
+457, 1	1228, 1-1	AID	*Llanddona*	---	NST
+
+
+458, 1	1231, 1-6	HEL	*oh* mae yn agos aton ni	---	NST
+
+
+459, 1	1232, 1-5	AID	*oh* be ydy o yn_ôl	NST	NST
+459, 2	1234, 1-8	AID	*er* *Hywel_Wyn_Owen* *ydy* *um* gair o o Sir_Gaer	NST	NST
+459, 3	1235, 1-4	AID	oedd yr *um* *Douglas*	NST	NST
+459, 4	1235, 5-9	AID	wchi *family* yn Castell *Penrhyn*	NST	NST
+459, 5	1237, 1-8	AID	yn defnyddio i 'w i 'w tir nhw	NSNT	NSNT
+459, 6	1239, 1-7	AID	*er* stribed o dir hir ydy o	---	NST
+
+
+460, 1	1241, 1-1	HEL	*sling*	---	NST
+
+
+461, 1	1242, 1-3	AID	*yeah* *sling* *mmm*	---	NST
+
+
+462, 1	1243, 1-5	HEL	*oh* enw *odd* iawn tydy	---	NST
+
+
+463, 1	1244, 1-2	AID	mae o	NSNT	NSNT
+463, 2	1245, 1-3	AID	enw Saesneg de	---	NSNT
+
+
+464, 1	1246, 1-7	HEL	gair Saesneg ydy o hefyd *yeah* *yeah*	ST	NST
+464, 2	1248, 1-2	HEL	*Sling* *yeah*	---	NST
+
+
+465, 1	1249, 1-8	AID	*oh* na mae yr cwrs yma yn ddiddorol	---	NST
+
+
+466, 1	1250, 3-8	HEL	dw i yn *sure* enwau lleoedd	NST	NST
+466, 2	1251, 1-9	HEL	pwy fyddai yn wneud o *professor* hwnnw fan yna	NST	NST
+466, 3	1252, 1-3	HEL	mae wedi marw	SNT	NSNT
+466, 4	1253, 1-2	HEL	*Bedwyr* *yeah*	ST	NST
+466, 5	1255, 1-9	HEL	fyddai fo yn wneud o ar *wireless* enwau lleoedd	---	NST
+
+
+467, 1	1258, 1-9	AID	*Bedwyr* *oh* be ydy ei enw o *Jones* *yeah*	NST	NST
+467, 2	1261, 1-8	AID	*yeah* yn fan hynny mae *Hywel_Wyn_Owen* yn gweithio	NST	NST
+467, 3	1263, 1-3	AID	*um* *Bryn_Haul* de	NST	NST
+467, 4	1264, 1-7	AID	*um* *Oswald* be house *yeah* ydy o	NST	ST
+467, 5	1266, 1-6	AID	yn yn lle ydan ni rwan	NSNT	NSNT
+467, 6	1267, 1-5	AID	*top* yna yn ymyl *um*	---	NST
+
+
+468, 1	1268, 1-10	HEL	dim *Osmond's* yna lle mae nhw yn wneud bwyd naci	---	NST
+
+
+469, 1	1269, 1-5	AID	yr un lle ydy o	NSNT	NSNT
+469, 2	1273, 1-3	AID	fan hynny mae	NSNT	NSNT
+469, 3	1273, 4-4	AID	yr	NSNT	NSNT
+469, 4	1273, 5-7	AID	mae yr ganolfan	NSNT	NSNT
+469, 5	1273, 8-11	AID	be ydy ganolfan iaith	---	NSNT
+
+
+470, 1	1275, 1-3	HEL	*Osmond's* *oh* *yeah*	---	NST
+
+
+471, 1	1276, 1-3	AID	be ydy o	---	NSNT
+
+
+472, 1	1277, 1-4	HEL	*Osmond's* ydy o *yeah*	NST	NST
+472, 2	1277, 5-5	HEL	dywedwch	---	NSNT
+
+
+473, 1	1278, 1-12	AID	neu *Oswald's* dw i ddim yn *sure* pa yr un *yeah* *yeah*	---	NST
+
+
+474, 1	1279, 1-2	HEL	*Oswald's* *yeah*	ST	NST
+474, 2	1281, 1-14	HEL	*oh* *yeah* lle mae pobl yn mynd i gael bwyd ydach chi feddwl *yeah*	---	NST
+
+
+475, 1	1282, 1-5	AID	*yeah* dyna fo *yeah* *yeah*	---	NST
+
+
+476, 1	1283, 1-5	HEL	*oh* dyna fo *yeah* *yeah*	NST	NST
+476, 3	1286, 1-5	HEL	*oh* *yeah* perthyn i University	ST	ST
+476, 4	1286, 6-7	HEL	mae o	NSNT	NSNT
+476, 5	1286, 8-8	HEL	te	---	NSNT
+
+
+477, 1	1287, 1-4	AID	*yeah* dyna fo *yeah*	---	NST
+
+
+478, 1	1290, 1-8	HEL	*so* gewch chi eich holi am *Tan_y_Sgrafell* rwan	---	NST
+
+
+479, 1	1291, 1-3	AID	*well* *yeah* *yeah*	---	NST
+
+
+480, 1	1294, 1-6	HEL	mae o yn enw *odd* hefyd	NST	NST
+480, 2	1294, 7-7	HEL	tydy	---	NSNT
+
+
+481, 1	1295, 1-2	AID	mae o	NSNT	NSNT
+481, 2	1297, 1-2	AID	oedd o	NSNT	NSNT
+481, 3	1297, 5-8	AID	oedd o yn deud	NSNT	NSNT
+481, 4	1298, 1-7	AID	y peth mwya *odd* glywais i oedd	NST	NST
+481, 5	1298, 8-15	AID	be ddywedodd o am *um* rywle yn Ruthin	ST	ST
+481, 6	1299, 1-6	AID	mae yna stryd yn Rhuthun Well_Street	SNT	SNT
+481, 7	1300, 1-2	AID	Stryd_y_Ffynnon de	NSNT	NSNT
+481, 8	1302, 1-10	AID	ond aeson nhw i edrych i_mewn i ryw hen ddogfennau	NSNT	NSNT
+481, 9	1303, 1-5	AID	nid Well_Street oedd o o_gwbl	SNT	SNT
+481, 10	1304, 1-1	AID	Welsh_Street	NSNT	NSNT
+481, 11	1306, 1-1	AID	Welsh_Street	SNT	NSNT
+481, 12	1307, 1-10	AID	a hanner y ffordd *er* fyny Welsh_Street mae yna fel	---	ST
+
+
+482, 1	1308, 1-5	HEL	stryd stryd Gymraeg oedd o	NSNT	NSNT
+482, 2	1308, 6-8	HEL	ta bosib felly	NSNT	NSNT
+482, 3	1308, 9-9	HEL	te	---	NSNT
+
+
+483, 1	1309, 1-5	AID	*well* *yeah* ond fel turngate	ST	ST
+483, 4	1312, 1-1	AID	wchi	NSNT	NSNT
+483, 5	1312, 2-9	AID	mae yr ffordd yn mynd yn llai llydan	NSNT	NSNT
+483, 6	1314, 1-2	AID	mwy cul	NSNT	NSNT
+483, 7	1315, 1-12	AID	a wedyn fyny fan yna mae yna ysgol o yr enw *Penbaras*	NST	NST
+483, 8	1316, 1-3	AID	Ysgol Gynradd *Penbaras*	NST	NST
+483, 9	1317, 1-7	AID	a mae nhw wedi ffindio allan rwan	NSNT	NSNT
+483, 10	1318, 1-10	AID	pan oedd y Normaniaid a yr Saeson yn y castell	NSNT	NSNT
+483, 11	1319, 1-10	AID	bod y Cymry yn dod efo eu ieir a eu	NSNT	NSNT
+483, 12	1319, 11-18	AID	wchi i werthu i yr tatws i werthu	NSNT	NSNT
+483, 13	1323, 1-12	AID	a wedyn oedden nhw yn gorod mynd trwy fan yma i edrych	NSNT	NSNT
+483, 14	1323, 13-22	AID	os oedden nhw yn cario cyllyll yn eu sanau neu	---	NSNT
+
+
+484, 1	1325, 1-2	HEL	argian fawr	---	NSNT
+
+
+485, 1	1326, 1-7	AID	ydach chi gwybod neu beth bynnag de	---	NSNT
+
+
+486, 1	1327, 1-1	HEL	argian	---	NSNT
+
+
+487, 1	1328, 1-6	AID	a wedyn *um* ystyr *Penbaras* ydy	NST	NST
+487, 2	1329, 1-8	AID	yr y gair Ffrangeg am hwn ydy embarras	---	SNT
+
+
+488, 1	1330, 1-4	HEL	*oh* yn gadael wyau	---	NST
+
+
+489, 1	1331, 1-2	AID	yn *yeah*	NST	NST
+489, 2	1332, 1-9	AID	wedi dod yn_ôl o mil o flynyddoedd de *yeah*	---	NST
+
+
+490, 1	1333, 1-2	HEL	embarras *yeah*	ST	NST
+490, 2	1334, 1-2	HEL	yn Ruthin	---	SNT
+
+
+491, 1	1335, 1-2	AID	diddorol de	---	NSNT
+
+
+492, 1	1338, 1-2	HEL	yn Ruthin	---	SNT
+
+
+493, 1	1339, 1-9	AID	*oh* mae gynno fo rywbeth fel yna bob wsnos	---	NST
+
+
+494, 1	1341, 3-5	HEL	dw i *sure*	---	NST
+
+
+495, 1	1342, 1-2	AID	syfrdanu ni	---	NSNT
+
+
+496, 1	1344, 1-2	HEL	argian *yeah*	NST	NST
+496, 2	1345, 1-3	HEL	difyr te *yeah*	---	NST
+
+
+497, 1	1346, 1-8	AID	*yeah* mae yna ryw bymtheg ohonon ni yno	---	NST
+
+
+498, 1	1350, 1-4	HEL	be dynion a merched	---	NSNT
+
+
+499, 1	1351, 1-2	AID	yn gymysg	SNT	NSNT
+499, 2	1354, 1-3	AID	*vestry* *Ebeneser* *Llanfair_P_G*	---	NST
+
+
+500, 1	1356, 1-9	HEL	dibynnu lle ydach chi yn cael lle tydy really	---	SNT
+
+
+501, 1	1357, 1-1	AID	*sorry*	---	NST
+
+
+502, 1	1358, 1-11	HEL	mae yn *job* cael *rooms* *er* lle i wneud rywbeth heddiw	NST	NST
+502, 2	1358, 12-12	HEL	tydy	---	NSNT
+
+
+503, 1	1359, 2-2	AID	mae	NSNT	NSNT
+503, 2	1361, 2-2	AID	mae	---	NSNT
+
+
+504, 1	1362, 1-7	HEL	enwedig yn *Fangor* does yna ddim_byd yma	NST	NST
+504, 2	1362, 8-8	HEL	ychi	---	NSNT
+
+
+505, 1	1363, 1-4	AID	dwn i ddim pam	NSNT	NSNT
+505, 2	1363, 5-9	AID	bod o yn fan hynny	---	NSNT
+
+
+506, 1	1364, 1-2	HEL	nag oes	NSNT	NSNT
+506, 2	1366, 1-6	HEL	oedden ni yn cwarfod yn capel	NSNT	NSNT
+506, 3	1367, 1-7	HEL	*oh* ydan ni mynd yn_ôl yna rwan	NST	NST
+506, 4	1368, 1-3	HEL	y Wednesday *club*	ST	ST
+506, 5	1369, 1-5	HEL	wyddoch chi lle mae *Tŵr_Gwyn*	NST	NST
+506, 6	1371, 1-3	HEL	lle oedd o	NSNT	NSNT
+506, 7	1372, 1-7	HEL	oedden ni yn cwarfod yn fan yna	NSNT	NSNT
+506, 8	1373, 1-8	HEL	wedyn wnaethon nhw gau a ail_wneud y lle	NSNT	NSNT
+506, 9	1375, 1-4	HEL	oedden ni methu *glear*	NST	NST
+506, 10	1375, 5-9	HEL	â cael nunlle i fynd	NSNT	NSNT
+506, 12	1377, 1-6	HEL	aethon ni i yr diocesan centre	SNT	SNT
+506, 13	1379, 1-2	HEL	fan honno	NSNT	NSNT
+506, 14	1380, 1-14	HEL	ond aethon ni yn_ôl i fan yma wedyn ar_ôl y ar_ôl i hwn ailagor	NSNT	NSNT
+506, 15	1380, 15-15	HEL	te	NSNT	NSNT
+506, 16	1382, 1-7	HEL	ydach chi wedi bod yn y capel	---	NSNT
+
+
+507, 1	1383, 1-6	AID	*er* ar ei newydd wedd felly	NST	NST
+507, 2	1385, 1-2	AID	na naddo	---	NSNT
+
+
+508, 1	1386, 1-4	HEL	mae o yn lovely	SNT	SNT
+508, 2	1387, 1-3	HEL	mae yn lovely	---	SNT
+
+
+509, 1	1390, 1-5	AID	*oh* *yeah* a wedyn mae	NST	NST
+509, 2	1390, 6-8	AID	mae yr bobl	NSNT	NSNT
+509, 3	1390, 9-19	AID	oedd arfer mynd i fan yna wedi mynd i capel newydd	---	NSNT
+
+
+510, 1	1392, 1-1	HEL	*Berea*	---	NST
+
+
+511, 1	1393, 1-6	AID	*Berea* dyna fo *yeah* *yeah* *yeah*	---	NST
+
+
+512, 1	1394, 1-8	HEL	mae nhw i_gyd wedi mynd i *Berea* tydyn	NST	NST
+512, 2	1396, 1-5	HEL	ydach chi wedi gweld hwnnw	---	NSNT
+
+
+513, 1	1397, 1-7	AID	dim_ond o yr tu_allan deud y gwir	---	NSNT
+
+
+514, 1	1398, 1-6	HEL	*oh* dw i wedi weld o	NST	NST
+514, 2	1399, 1-6	HEL	mae o yn *nice* iawn ond	---	NST
+
+
+515, 1	1401, 1-2	AID	*modern* *yeah*	---	NST
+
+
+516, 1	1402, 1-10	HEL	*oh* dw i ddim yn weld o fath â capel	NST	NST
+516, 2	1404, 1-13	HEL	dw i yn weld o really fel petasech chi yn mynd i *theatre*	NST	ST
+516, 3	1406, 1-3	HEL	wchi rês o	NSNT	NSNT
+516, 5	1408, 1-11	HEL	*yeah* ddim fath â be dw i yn meddwl capel felly	NST	NST
+516, 6	1410, 1-12	HEL	*yeah* ond ond fel yna mae nhw yn bildio nhw heddiw te	---	NST
+
+
+517, 1	1411, 1-2	AID	*well* *yeah*	---	NST
+
+
+518, 1	1412, 1-8	HEL	mae nhw yn mwy cyfforddus a mwy cynnes	NSNT	NSNT
+518, 2	1412, 9-10	HEL	mae *sure*	NST	NST
+518, 3	1414, 1-6	HEL	ond ond mae nhw yn deud	NSNT	NSNT
+518, 4	1414, 7-10	HEL	bod o *right* llawn	---	NST
+
+
+519, 1	1415, 1-11	AID	achos mi oedd yr hen gapeli o'n nhw yn uchel do'n	---	NSNT
+
+
+520, 1	1416, 1-1	HEL	o'n	---	NSNT
+
+
+521, 1	1417, 1-7	AID	a meddwl am wchi *um* gynhesu rheiny	---	NST
+
+
+522, 1	1418, 2-5	HEL	mae nhw yn hardd	---	NSNT
+
+
+523, 1	1419, 1-3	AID	costio *fortune* doedd	---	NST
+
+
+524, 1	1420, 1-9	HEL	mae nhw yn hardd iawn hefyd tydyn *lot* ohonyn	NST	NST
+524, 2	1423, 1-6	HEL	a mae hwnna yn *nice* iawn	---	NST
+
+
+525, 1	1424, 1-6	AID	mae yna rai hardd yn *Bethesda*	NST	NST
+525, 2	1424, 7-7	AID	does	NSNT	NSNT
+525, 3	1425, 1-3	AID	mae yna un	NSNT	NSNT
+525, 4	1425, 4-8	AID	oedd rywun yn sôn amdano	---	NSNT
+
+
+526, 1	1426, 1-1	HEL	mae	NSNT	NSNT
+526, 2	1427, 1-6	HEL	mae nhw wedi gwneud capel *Bethesda*	NST	NST
+526, 3	1427, 7-10	HEL	ei hun yn fflatiau	---	NSNT
+
+
+527, 1	1428, 1-2	AID	yndyn nhw	NSNT	NSNT
+527, 2	1430, 1-11	AID	be hwnna ar y main *er* ar y stryd fawr *yeah*	---	ST
+
+
+528, 1	1431, 1-5	HEL	ar y *top* stryd fawr	NST	NST
+528, 2	1432, 1-4	HEL	*Arafa_Don* ydy enwau nhw	NST	NST
+528, 3	1433, 1-9	HEL	ond mae nhw wedi gorod gadael y frontage dydyn	---	SNT
+
+
+529, 1	1434, 1-8	AID	*ah* am bod o yn gapel arbennig *yeah*	---	NST
+
+
+530, 1	1435, 2-4	HEL	mae yn edrych	NSNT	NSNT
+530, 2	1435, 5-12	HEL	mae o yn edrych fath â capel o_hyd	NSNT	NSNT
+530, 4	1437, 1-7	HEL	ond mae capel *Jerusalem* yna yn *top*	NST	NST
+530, 6	1439, 1-6	HEL	mae hwnna yn dal i fynd	NSNT	NSNT
+530, 8	1441, 1-4	HEL	mae yn gapel *nice*	NST	NST
+530, 9	1443, 2-7	HEL	mae hwnna yn dal i fynd	NSNT	NSNT
+530, 11	1446, 1-5	HEL	yndy enwau da arnyn nhw	NSNT	NSNT
+530, 12	1446, 6-7	HEL	te *Arafa_Don*	---	NST
+
+
+531, 1	1447, 1-2	AID	*Arafa_Don* *yeah*	---	NST
+
+
+532, 1	1448, 1-3	HEL	*Arafa_Don* *yeah* *yeah*	ST	NST
+532, 2	1450, 1-10	HEL	*oh* mae nhw wrth ben yr afon *Ogwen* anyway tydyn	---	ST
+
+
+533, 1	1451, 1-5	AID	*well* *yeah* *yeah* *yeah* *yeah*	---	NST
+
+
+534, 1	1453, 1-9	HEL	yr unig beth mae nhw wedi wneud yn hwn	NSNT	NSNT
+534, 2	1454, 1-9	HEL	mae nhw wedi tynnu yr *organ* o sêt fawr	---	NST
+
+
+535, 1	1455, 1-2	AID	yndyn nhw	---	NSNT
+
+
+536, 1	1456, 1-12	HEL	a bob_dim dydy o ddim edrych yr un fath rywsut heb hwnnw	NSNT	NSNT
+536, 2	1456, 13-14	HEL	cofiwch nac	NSNT	NSNT
+536, 3	1459, 1-7	HEL	*stage* sy gynno nhw yn fan honno	---	NST
+
+
+537, 1	1460, 1-6	AID	*er* pwy sy yna rwan felly	NST	NST
+537, 2	1461, 1-2	AID	ryw fudiad	---	NSNT
+
+
+538, 1	1462, 1-5	HEL	Welsh *er* English Baptist *yeah*	---	NST
+
+
+539, 1	1463, 1-5	AID	*oh* *yeah* Baptist ydy o	---	ST
+
+
+540, 1	1464, 1-3	HEL	English baptist *yeah*	ST	NST
+540, 2	1466, 1-8	HEL	*oh* mae yr *room* a yr kitchen *oh*	ST	ST
+540, 3	1466, 9-12	HEL	mae o yn lovely	SNT	SNT
+540, 4	1468, 1-5	HEL	*oh* mae o yn lovely	---	ST
+
+
+541, 1	1470, 1-10	AID	be mae yna groeso i i unrhyw un fynd yna	---	NSNT
+
+
+542, 1	1471, 1-6	HEL	*well* os oes yna rywbeth yna	NST	NST
+542, 2	1471, 7-7	HEL	te	NSNT	NSNT
+542, 3	1472, 1-9	HEL	ond o'n i yn mynd yno i yr Wednesday	SNT	SNT
+542, 4	1473, 1-7	HEL	aethon ni yna i yr opening *ceremony*	ST	ST
+542, 5	1475, 1-4	HEL	i yr opening *ceremony*	---	ST
+
+
+543, 1	1476, 1-2	AID	*oh* crand	---	NST
+
+
+544, 1	1477, 1-6	HEL	pan oedden nhw yn ail_agor o	NSNT	NSNT
+544, 2	1477, 7-15	HEL	aethon ni yna i gael gweld y lle really	SNT	SNT
+544, 3	1477, 16-16	HEL	te	NSNT	NSNT
+544, 5	1481, 1-8	HEL	*oh* mae nhw wedi gwario *lot* arno fo	NST	NST
+544, 6	1482, 1-7	HEL	mae nhw wedi cael *lot* o *grants*	---	NST
+
+
+545, 1	1483, 1-1	AID	*sure*	---	NST
+
+
+546, 1	1484, 1-6	HEL	mae nhw cael *lot* o *grants*	NST	NST
+546, 2	1484, 7-7	HEL	ychi	NSNT	NSNT
+546, 4	1487, 1-3	HEL	o bob man	NSNT	NSNT
+546, 5	1488, 2-5	HEL	mae raid bod nhw	NSNT	NSNT
+546, 6	1491, 1-6	HEL	*oh* mae yna creche a bob_dim	NST	ST
+546, 7	1492, 1-4	HEL	mae yna bob_dim yna	---	NSNT
+
+
+547, 1	1493, 1-5	AID	*ah* wedi meddwl am bopeth	---	NST
+
+
+548, 1	1497, 1-8	HEL	*oh* mae yr *room* yna dim tebyg i	NST	NST
+548, 2	1497, 9-14	HEL	be oedd hi o yr blaen	NSNT	NSNT
+548, 3	1498, 1-2	HEL	nac ydy	---	NSNT
+
+
+549, 1	1499, 1-2	AID	*well* *yeah*	---	NST
+
+
+550, 1	1500, 1-10	HEL	yr unig beth fedrwch chi ddim *films* na dim_byd yna	NST	NST
+550, 2	1501, 1-5	HEL	mae hi yn rhy olau	---	NSNT
+
+
+551, 1	1502, 1-2	AID	ew *yeah*	---	NST
+
+
+552, 1	1503, 1-10	HEL	does gynno nhw ddim_byd i roi ar y ffenestri *yeah*	NST	NST
+552, 2	1506, 1-5	HEL	fu *Mrs* *Chapman* yn deud	NST	NST
+552, 3	1507, 1-15	HEL	fasai hi yn cael *lot* o bobl yno i siarad efo ni a dangos *films*	NST	NST
+552, 4	1509, 1-5	HEL	*yeah* fasan nhw ddim medru	NST	NST
+552, 5	1509, 6-6	HEL	te	---	NSNT
+
+
+553, 1	1511, 1-9	AID	be be *er* y ffenestri rhy fawr *yeah* i	---	NST
+
+
+554, 1	1512, 1-3	HEL	na rhy olau	NSNT	NSNT
+554, 2	1513, 1-8	HEL	does yna ddim *curtains* na ddim_byd arnyn nhw	---	NST
+
+
+555, 1	1514, 1-1	AID	pam	NSNT	NSNT
+555, 2	1515, 1-1	AID	be	NSNT	NSNT
+555, 3	1516, 1-8	AID	mae nhw wedi gael yr holl arian yna	---	NSNT
+
+
+556, 1	1517, 1-7	HEL	*oh* dw i ddim yn gwybod really	ST	ST
+556, 2	1518, 1-5	HEL	dw i ddim yn gwybod	NSNT	NSNT
+556, 3	1519, 1-2	HEL	ydan ni	NSNT	NSNT
+556, 4	1519, 3-6	HEL	wedi bod yn gofyn	NSNT	NSNT
+556, 5	1519, 7-7	HEL	te	NSNT	NSNT
+556, 6	1521, 1-4	HEL	*yeah* wn i ddim	NST	NST
+556, 8	1524, 1-2	HEL	nag oes	NSNT	NSNT
+556, 9	1525, 1-5	HEL	yna ffenestri mawr yna ychi	NSNT	NSNT
+556, 10	1525, 6-14	HEL	a mae yna ffenest yn y to hefyd toes	NSNT	NSNT
+556, 11	1527, 1-6	HEL	mae yn *right* olau yna really	ST	ST
+556, 12	1528, 1-4	HEL	mae yn olau iawn	NSNT	NSNT
+556, 13	1530, 1-4	HEL	mae yn *nice* iawn	NST	NST
+556, 14	1530, 5-5	HEL	tydy	NSNT	NSNT
+556, 15	1531, 2-5	HEL	mae nhw wedi deud	NSNT	NSNT
+556, 16	1531, 6-14	HEL	fedrwch chi ddim dangos *slides* na ddim_byd *yeah* *yeah*	---	NST
+
+
+557, 1	1532, 1-8	AID	*ah* mae *er* *Bangor* ucha yma fel ryw	NST	NST
+557, 2	1532, 9-12	AID	dreflan fach ar ben	NSNT	NSNT
+557, 3	1532, 13-14	AID	ei hun	NSNT	NSNT
+557, 4	1534, 1-7	AID	welais i erioed gymaint o lefydd bwyta	NSNT	NSNT
+557, 5	1535, 1-3	AID	siopau *coffee* a	---	NST
+
+
+558, 1	1537, 1-6	HEL	*oh* llefydd bwyta ydyn nhw i_gyd	NST	NST
+558, 2	1537, 7-7	HEL	te	NSNT	NSNT
+558, 3	1538, 1-5	HEL	lle bynnag sy yn cau	NSNT	NSNT
+558, 4	1538, 6-11	HEL	mae o yn agor fel *cafe*	---	NST
+
+
+559, 1	1541, 1-5	AID	*yeah* dw i yn meddwl	NST	NST
+559, 2	1541, 6-10	AID	bod chi yn iawn hefyd	---	NSNT
+
+
+560, 1	1544, 1-5	HEL	*oh* nhw gyd yn llawn	---	NST
+
+
+561, 1	1545, 1-2	AID	mae nhw	---	NSNT
+
+
+562, 1	1548, 1-2	HEL	enwedig *Morrisons*	NST	NST
+562, 2	1549, 1-5	HEL	mae hwnna yn llawn hefyd	NSNT	NSNT
+562, 3	1549, 6-6	HEL	dydy	NSNT	NSNT
+562, 4	1552, 1-5	HEL	wnawn nhw ddim cau hwn	NSNT	NSNT
+562, 5	1553, 1-4	HEL	mae o *right* brysur	NST	NST
+562, 6	1553, 5-5	HEL	tydy	---	NSNT
+
+
+563, 1	1554, 1-2	AID	lle rwan	---	NSNT
+
+
+564, 1	1555, 1-2	HEL	*Morrisons* yma	---	NST
+
+
+565, 1	1556, 1-5	AID	be ydyn nhw yn cau	---	NSNT
+
+
+566, 1	1557, 1-6	HEL	na mae nhw yn cau siopau	NSNT	NSNT
+566, 2	1558, 1-8	HEL	mae yr *Kwiks* yma yn cau rwan tydyn	NST	NST
+566, 3	1559, 1-4	HEL	mae nhw wedi cau	NSNT	NSNT
+566, 4	1559, 5-5	HEL	tydy	---	NSNT
+
+
+567, 1	1561, 1-5	AID	lle mae *Kwiks* yn dre	NST	NST
+567, 2	1562, 1-3	AID	yn gwaelod *yeah*	---	NST
+
+
+568, 1	1563, 1-4	HEL	mae un yn gwaelod	NSNT	NSNT
+568, 2	1563, 5-10	HEL	a mae llall yn *Caernarfon* road	ST	ST
+568, 3	1563, 11-11	HEL	tydy	---	NSNT
+
+
+569, 1	1564, 1-3	AID	mae yna ddau	NSNT	NSNT
+569, 2	1564, 4-4	AID	does	---	NSNT
+
+
+570, 1	1565, 1-8	HEL	oedd y ddwy wedi cau dydd Llun toedd	NSNT	NSNT
+570, 2	1566, 1-6	HEL	wn i ddim pa yr un	---	NSNT
+
+
+571, 1	1567, 1-10	AID	argian am *shock* i yr bobl oedd yn gweithio yna	NST	NST
+571, 3	1569, 1-3	AID	nhw yn gwybod	---	NSNT
+
+
+572, 1	1570, 1-3	HEL	*oh* nac ydyn	---	NST
+
+
+573, 1	1571, 1-7	AID	gwybod be oedd o eu blaenau nhw	---	NSNT
+
+
+574, 1	1572, 1-6	HEL	na dw i ddim yn meddwl	NSNT	NSNT
+574, 2	1572, 7-8	HEL	nag oedden	NSNT	NSNT
+574, 4	1574, 1-8	HEL	aeth yna rywun lawr i fan yna *Melanie*	NST	NST
+574, 5	1574, 9-11	HEL	dw i meddwl	NSNT	NSNT
+574, 6	1576, 1-10	HEL	dydd Llun i yr gwaelod a gweld hi wedi cau	NSNT	NSNT
+574, 7	1577, 1-8	HEL	mae hi yn cerdded i_fyny i yr llall	NSNT	NSNT
+574, 8	1578, 1-5	HEL	ac oedd honno wedi cau	---	NSNT
+
+
+575, 1	1582, 1-1	AID	ew	---	NSNT
+
+
+576, 1	1584, 1-9	HEL	mae yna rai yn cymryd rhai ohonyn nhw drosodd	NSNT	NSNT
+576, 2	1585, 1-4	HEL	ond dwn i ddim	NSNT	NSNT
+576, 3	1585, 5-9	HEL	ydyn nhw yn cymryd rhain	NSNT	NSNT
+576, 4	1586, 2-7	HEL	honna yn y gwaelod *right* popular	ST	ST
+576, 5	1586, 8-8	HEL	ychi	---	NSNT
+
+
+577, 1	1587, 1-2	AID	oedd hi	---	NSNT
+
+
+578, 1	1588, 1-6	HEL	pobl o *Bethesda* yn dod yna	NST	NST
+578, 2	1590, 1-5	HEL	*bus* yn pasio drws ylwch	---	NST
+
+
+579, 1	1591, 1-8	AID	*yeah* beth cyn i *Tesco* a ddod *yeah*	NST	NST
+579, 2	1593, 1-5	AID	cyn i *Tesco* ddod yna	---	NST
+
+
+580, 1	1594, 1-12	HEL	na mae nhw yn dal i fynd i fan yna o *Bethesda*	NST	NST
+580, 2	1600, 1-13	HEL	a *bus* o *Bethesda* i *Fangor* a mae *just* mynd *round* ffordd yna	NST	NST
+580, 3	1600, 14-14	HEL	ychi	---	NSNT
+
+
+581, 1	1601, 1-4	AID	*ahh* dyna fo *yeah*	---	NST
+
+
+582, 1	1602, 1-7	HEL	a mynd i yr *clock* wedyn te	NST	NST
+582, 2	1603, 1-11	HEL	wedyn mae nhw yn galw wrth *Kwiks* ydach chi yn weld	---	NST
+
+
+583, 1	1604, 1-2	AID	*ahh* *handy*	---	NST
+
+
+584, 1	1605, 1-6	HEL	oedd o yn *handy* iddyn nhw	---	NST
+
+
+585, 1	1607, 1-6	AID	be sy yna *Bethesda* *Spar* *yeah*	---	NST
+
+
+586, 1	1608, 1-3	HEL	mae yna *Spar*	NST	NST
+586, 2	1608, 4-9	HEL	a mae yna rywbeth yn gwaelod	NSNT	NSNT
+586, 3	1609, 1-5	HEL	dim *Lidls* rywbeth fel yna	---	NST
+
+
+587, 1	1610, 1-1	AID	neu	---	NSNT
+
+
+588, 1	1612, 1-7	HEL	mae yna un yn y gwaelod *yeah*	NST	NST
+588, 2	1615, 1-3	HEL	na mae yna	NSNT	NSNT
+588, 3	1615, 4-8	HEL	mae yna siopau yna hefyd	NSNT	NSNT
+588, 4	1615, 9-10	HEL	oes ond	---	NSNT
+
+
+589, 1	1616, 1-1	AID	*butcher*	---	NST
+
+
+590, 1	1617, 2-5	HEL	mae yna un *butcher*	---	NST
+
+
+591, 1	1618, 1-4	AID	*ah* mae yna *futcher*	---	NST
+
+
+592, 1	1619, 2-5	HEL	mae yna un *butcher*	NST	NST
+592, 2	1620, 2-3	HEL	mae yna	---	NSNT
+
+
+593, 1	1621, 1-7	AID	mae yna *futcher* da yn dre yma	ST	NST
+593, 2	1622, 1-1	AID	*Williams*	---	NST
+
+
+594, 1	1623, 1-8	HEL	*oh* fo sy yn gwneud i ni fory	NST	NST
+594, 2	1623, 9-9	HEL	te	NSNT	NSNT
+594, 3	1624, 1-5	HEL	ydach chi yn dŵad fory	---	NSNT
+
+
+595, 1	1625, 1-2	AID	*er* yndw	---	NST
+
+
+596, 1	1626, 1-5	HEL	yfo sy yn wneud o	---	NSNT
+
+
+597, 1	1627, 1-6	AID	*oh* fo sy yn wneud o	---	NST
+
+
+598, 1	1628, 1-6	HEL	fo sy yn wneud o *yeah*	---	NST
+
+
+599, 1	1629, 1-7	AID	*ah* be be yr holl spread felly	---	ST
+
+
+600, 1	1630, 1-11	HEL	*oh* *yeah* mae nhw yn dŵad â fo i osod tydyn	---	NST
+
+
+601, 1	1631, 1-11	AID	Duw do'n i ddim yn gwybod bod o yn wneud hynny	NSNT	NSNT
+601, 2	1632, 1-3	AID	*ah* da de	---	NST
+
+
+602, 1	1635, 1-12	HEL	*oh* mae nhw yn dŵad â yr cwbl platiau a yr cwbl	---	NST
+
+
+603, 1	1637, 3-7	AID	mae yn ddiwrnod arbennig fory	---	NSNT
+
+
+604, 1	1640, 1-4	HEL	heddiw oedd o fod	NSNT	NSNT
+604, 2	1640, 5-5	HEL	te	NSNT	NSNT
+604, 3	1642, 1-4	HEL	heddiw oedd o fod	NSNT	NSNT
+604, 4	1642, 5-5	HEL	te	---	NSNT
+
+
+605, 1	1643, 1-10	AID	*yeah* *oh* am bod hi yn fore *coffee* fory *yeah*	---	NST
+
+
+606, 1	1644, 1-6	HEL	na toes yna ddim *coffee* yfory	---	NST
+
+
+607, 1	1645, 1-5	AID	na dw i yn gwybod	NSNT	NSNT
+607, 2	1647, 1-6	AID	ond am bod hi fore *coffee*	---	NST
+
+
+608, 1	1648, 1-7	HEL	naci oedd yna rywun methu dŵad heddiw	---	NSNT
+
+
+609, 1	1649, 1-3	AID	*ah* wela i	---	NST
+
+
+610, 1	1650, 1-4	HEL	mae yna pobl *Catholics*	NST	NST
+610, 2	1651, 1-4	HEL	mae nhw yn fast_io	SNT	SNT
+610, 3	1651, 5-9	HEL	am bod hi yn Ash_Wednesday	---	SNT
+
+
+611, 1	1652, 1-3	AID	*ah* wela i	---	NST
+
+
+612, 1	1653, 1-5	HEL	wedyn fedran nhw ddim cael	---	NSNT
+
+
+613, 1	1654, 1-7	AID	*yeah* mae yna nifer o Gatholigion yma	---	NST
+
+
+614, 1	1655, 1-6	HEL	*oh* mae yna un neu ddwy	NST	NST
+614, 2	1655, 7-7	HEL	te	NSNT	NSNT
+614, 3	1657, 1-6	HEL	ond wedyn mae nhw yn rhai	NSNT	NSNT
+614, 4	1657, 7-13	HEL	sy yn dŵad i bob_dim wyddoch chi	NSNT	NSNT
+614, 5	1659, 1-3	HEL	chwarae teg te	NSNT	NSNT
+614, 6	1662, 1-8	HEL	o ddim ots gynno i pryd mae o	---	NSNT
+
+
+615, 1	1663, 1-3	AID	*oh* dyna fo	---	NST
+
+
+616, 1	1666, 1-6	HEL	yr un peth ydy o fory	NSNT	NSNT
+616, 2	1666, 7-7	HEL	te	NSNT	NSNT
+616, 3	1669, 1-6	HEL	*so* un o yr gloch fory	---	NST
+
+
+617, 1	1670, 1-3	AID	un o gloch	---	NSNT
+
+
+618, 1	1671, 1-1	HEL	*buffet*	---	NST
+
+
+619, 1	1673, 1-10	AID	wedyn mae hi wedi gofyn i mi ddangos ryw *slides*	NST	NST
+619, 2	1673, 11-13	AID	sy gynno i	---	NSNT
+
+
+620, 1	1674, 1-4	HEL	dach chi am wneud	---	NSNT
+
+
+621, 1	1675, 1-4	AID	beth yndw pam ddim	NSNT	NSNT
+621, 3	1677, 1-7	AID	gobeithio bydd o ddim yn rhy boring	---	SNT
+
+
+622, 1	1678, 1-3	HEL	*oh* na fydd	---	NST
+
+
+623, 1	1679, 1-13	AID	*oh* fydd pawb wedi eu cinio wedyn ddim bwys gennyn nhw yn cysgu	---	NST
+
+
+624, 1	1680, 1-5	HEL	mae hi yn ddigon tywyll	NSNT	NSNT
+624, 2	1681, 1-7	HEL	mae hon yn *room* ddigon tywyll anyway	ST	ST
+624, 3	1683, 1-3	HEL	*oh* *nice* iawn	NST	NST
+624, 4	1684, 1-6	HEL	*oh* gawn ni entertainment hefyd felly	ST	ST
+624, 5	1685, 1-2	HEL	with entertainment	---	NSNT
+
+
+625, 1	1686, 1-5	AID	dw i ddim_byd fel entertainer	---	SNT
+
+
+626, 1	1687, 1-2	HEL	mae isio	NSNT	NSNT
+626, 2	1687, 3-8	HEL	roid ar hwnna rwan with entertainment	---	SNT
+
+
+627, 1	1689, 1-1	AID	*sorry*	---	NST
+
+
+628, 1	1690, 1-2	HEL	mae isio	NSNT	NSNT
+628, 2	1690, 3-10	HEL	roid ar y *poster* yna rwan with entertainment	---	ST
+
+
+629, 1	1691, 1-4	AID	with entertainment *yeah* *yeah*	---	NST
+
+
+630, 1	1693, 1-1	HEL	with	SNT	NSNT
+630, 2	1694, 1-4	HEL	*oh* *nice* iawn *oh*	NST	NST
+630, 3	1696, 1-3	HEL	edrych ymlaen *yeah*	NST	NST
+630, 5	1698, 1-8	HEL	*oh* *yeah* *butcher* yna sy wneud o *yeah*	NST	NST
+630, 6	1700, 1-6	HEL	y *butcher* yna sy wneud o	NST	NST
+630, 7	1702, 1-9	HEL	wnaeth o un i ni yn y *club* hefyd	NST	NST
+630, 8	1703, 1-5	HEL	oedd hwnnw yn *right* *nice*	---	NST
+
+
+631, 1	1706, 1-6	AID	be *buffet* oer fydd o *yeah*	ST	NST
+631, 2	1708, 1-2	AID	*well* *yeah*	---	NST
+
+
+632, 1	1709, 1-6	HEL	*oh* finger *buffet* felly fydd o	NST	ST
+632, 2	1709, 7-7	HEL	te	---	NSNT
+
+
+633, 1	1710, 1-5	AID	finger *buffet* debyg iawn *yeah*	---	ST
+
+
+634, 1	1711, 1-7	HEL	dach chi ddim yn cael dim_byd arall	---	NSNT
+
+
+635, 1	1712, 1-7	AID	fydd yna ddim *lobscouse* na ddim_byd felly	---	NST
+
+
+636, 1	1713, 1-9	HEL	fedrwch chi ddim cael dim_byd yn fan yma really	SNT	SNT
+636, 2	1713, 10-11	HEL	na fedrwch	NSNT	NSNT
+636, 3	1715, 1-4	HEL	does yna ddim lle	NSNT	NSNT
+636, 4	1715, 5-6	HEL	nag oes	NSNT	NSNT
+636, 5	1715, 7-8	HEL	nag oes	NSNT	NSNT
+636, 6	1716, 1-2	HEL	nag oes	NSNT	NSNT
+636, 7	1717, 1-4	HEL	*oh* *change* bach bydd	---	NST
+
+
+637, 1	1718, 1-6	AID	mae isio prynu rywbeth i *raffle*	NST	NST
+637, 2	1718, 7-7	AID	does	---	NSNT
+
+
+638, 1	1719, 1-5	HEL	oes yna ddim *raffle* fory	NST	NST
+638, 2	1719, 6-7	HEL	nag oes	---	NSNT
+
+
+639, 1	1720, 1-3	AID	dwn i ddim	NSNT	NSNT
+639, 2	1720, 4-5	AID	nag oes	---	NSNT
+
+
+640, 1	1721, 1-6	HEL	na dw i ddim yn meddwl	NSNT	NSNT
+640, 2	1722, 1-2	HEL	nag oes	NSNT	NSNT
+640, 3	1722, 3-7	HEL	dw i ddim yn meddwl	---	NSNT
+
+
+641, 1	1723, 1-9	AID	*so* mae pres i dalu am y *buffet* yma	---	NST
+
+
+642, 1	1724, 1-8	HEL	*oh* dan ni yn gael o am ddim	---	NST
+
+
+643, 1	1725, 1-1	AID	argian	---	NSNT
+
+
+644, 1	1726, 1-5	HEL	o yr *coffee* morning fund	---	ST
+
+
+645, 1	1727, 1-2	AID	da de	NSNT	NSNT
+645, 3	1729, 1-5	AID	*yeah* *ah* *oh* wela i	---	NST
+
+
+646, 1	1730, 1-7	HEL	dan ni yn gael o am ddim	---	NSNT
+
+
+647, 1	1731, 1-10	AID	o yr arian dan ni yn dalu i yr *raffle*	---	NST
+
+
+648, 1	1732, 1-7	HEL	*oh* pres ni ydy o yn diwedd	NST	NST
+648, 2	1732, 8-9	HEL	te *yeah*	---	NST
+
+
+649, 1	1733, 1-3	AID	pres chi *yeah*	---	NST
+
+
+650, 1	1735, 1-4	HEL	mae yna *lot* o	---	NST
+
+
+651, 1	1736, 1-5	AID	dw i yn dallt *yeah*	---	NST
+
+
+652, 1	1737, 1-5	HEL	mae yna *lot* o bres	NST	NST
+652, 2	1738, 1-5	HEL	mae yna tua saith gant	---	NSNT
+
+
+653, 1	1739, 1-2	AID	oes yna	---	NSNT
+
+
+654, 1	1740, 1-4	HEL	yn y *coffee* fund	---	ST
+
+
+655, 1	1741, 1-6	AID	*oh* dan ni yn iawn felly	---	NST
+
+
+656, 1	1742, 1-13	HEL	*so* fyddan ni yn cael Christmas dinner rhan amlaf o yr *coffee* fund	---	ST
+
+
+657, 1	1743, 1-3	AID	*mmm* da de	---	NST
+
+
+658, 1	1744, 1-10	HEL	wedyn dan ni yn cael hwn o yr *coffee* fund	---	ST
+
+
+659, 1	1745, 1-4	AID	*well* dyna fo *yeah*	---	NST
+
+
+660, 1	1746, 1-10	HEL	wedyn dach chi ddim isio dim pres na dim fory	NSNT	NSNT
+660, 2	1748, 1-5	HEL	ond cael bwyd am ddim	---	NSNT
+
+
+661, 1	1749, 1-2	AID	*well* *yeah*	---	NST
+
+
+662, 1	1751, 1-8	HEL	dydy o ddim yn digwydd yn aml nac	---	NSNT
+
+
+663, 1	1752, 1-4	AID	na dydy o ddim	---	NSNT
+
+
+664, 1	1753, 1-3	HEL	nac ydy nac	---	NSNT

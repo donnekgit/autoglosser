@@ -1,0 +1,1056 @@
+
+
+2, 1	2, 1-9	TRA	*sure* o bigo fyny y dŵr yn mynd lawr	ST	NST
+2, 2	3, 1-7	TRA	*oh* my God *oh* my God *help*	---	NST
+
+
+3, 1	8, 1-2	GAI	*just* paid	NST	NST
+3, 2	8, 3-4	GAI	ysgwyd dim_byd	---	NSNT
+
+
+4, 1	15, 1-8	TRA	*oh* gwatsia gwatsia dw i yn symud o	NST	NST
+4, 2	16, 1-7	TRA	dw mynd i mynd i dipio rywfaint	---	NSNT
+
+
+5, 1	17, 1-3	GAI	*o_k* yfa fo	NST	NST
+5, 3	19, 1-3	GAI	*just* yfa fo	---	NST
+
+
+6, 1	20, 1-3	TRA	edrych fel *poodle*	---	NST
+
+
+7, 1	21, 1-3	GAI	*just* yfa fo	---	NST
+
+
+8, 1	22, 1-4	TRA	dw ddim yn gallu	---	NSNT
+
+
+9, 1	24, 1-1	GAI	fo	---	NSNT
+
+
+10, 1	25, 1-4	TRA	be sy fan acw	---	NSNT
+
+
+11, 1	26, 1-1	GAI	be	---	NSNT
+
+
+12, 1	27, 1-5	TRA	be sy yn fan acw	---	NSNT
+
+
+13, 1	28, 1-2	GAI	yn lle	---	NSNT
+
+
+14, 1	29, 1-3	TRA	yn y *catalogue*	---	NST
+
+
+15, 1	30, 1-1	GAI	*catalogue*	ST	NST
+15, 3	32, 1-2	GAI	pynciau Caerdydd	NSNT	NSNT
+15, 4	33, 1-2	GAI	lluniau *students*	---	NST
+
+
+16, 1	34, 1-6	TRA	*Aber* mae *Martha* *Martha* yn mynd	---	NST
+
+
+17, 1	36, 1-2	GAI	*ooh* cerddorfa	NST	NST
+17, 2	37, 1-4	GAI	ia wneud gwleidyddiaeth ryngwladol	NSNT	NSNT
+17, 4	39, 1-4	GAI	ti mynd i Ffrainc	---	NSNT
+
+
+18, 1	40, 1-1	TRA	*well*	---	NST
+
+
+19, 1	41, 1-7	GAI	ti mynd i Ffrainc i wneud o	---	NSNT
+
+
+20, 1	42, 1-1	TRA	*well*	---	NST
+
+
+21, 1	43, 1-2	GAI	y delyn	---	NSNT
+
+
+22, 1	44, 1-3	TRA	dw ddim gwybod	---	NSNT
+
+
+23, 1	45, 1-2	GAI	ti isio	---	NSNT
+
+
+24, 1	46, 1-2	TRA	baswn licio	NSNT	NSNT
+24, 2	47, 1-2	TRA	lle ti	---	NSNT
+
+
+25, 1	48, 1-8	GAI	dw i wedi wneud *thing* yna efo Caerdydd	NST	NST
+25, 2	49, 1-5	GAI	ond oedd o yn afiach	NSNT	NSNT
+25, 3	50, 1-9	GAI	achos o'ch chdi gorod torri fyny cyrff a pethau	SNT	NSNT
+25, 4	51, 1-1	GAI	*so*	---	NST
+
+
+26, 1	52, 1-4	TRA	be ti isio bod	---	NSNT
+
+
+27, 1	53, 1-2	GAI	*doctor* de	NST	NST
+27, 2	54, 1-4	GAI	ond ti cael corff	NSNT	NSNT
+27, 3	55, 1-7	GAI	a ti gorod roi enw i fo	NSNT	NSNT
+27, 4	56, 1-8	GAI	a ti gorod torri fo fyny a *stuff*	NST	NST
+27, 5	58, 1-10	GAI	*so* *Paul_Jones* de gynno fo enw o yr enw *Beti*	---	NST
+
+
+28, 1	59, 1-4	TRA	ydy *Paul_Jones* yn Caerdydd	---	NST
+
+
+29, 1	60, 1-3	GAI	yndy a *Daf*	ST	NST
+29, 2	61, 1-1	GAI	*so*	---	NST
+
+
+30, 1	62, 1-4	TRA	mae yr ddau perthyn	---	NSNT
+
+
+31, 1	63, 1-1	GAI	cefndryd	---	NSNT
+
+
+32, 1	64, 1-5	TRA	faint o amser dan ni	NSNT	NSNT
+32, 2	64, 6-7	TRA	bod wan	NSNT	NSNT
+32, 3	65, 1-7	TRA	dw isio mynd i *tent* chi rywbryd	---	NST
+
+
+33, 1	67, 1-5	GAI	tyrd heno a wedyn *um*	---	NST
+
+
+34, 1	68, 1-3	TRA	medru heno though	---	SNT
+
+
+35, 1	69, 1-2	GAI	pam ddim	---	NSNT
+
+
+36, 1	70, 1-7	TRA	achos dan ni gael swper efo nhw	---	NSNT
+
+
+37, 1	71, 1-1	GAI	tŷ	---	NSNT
+
+
+38, 1	72, 1-1	TRA	*eh*	---	NST
+
+
+39, 1	73, 1-4	GAI	tŷ oedden ni neithiwr	SNT	NSNT
+39, 2	75, 1-3	GAI	massive tŷ yndy	SNT	SNT
+39, 3	77, 1-2	GAI	stunning God	---	NSNT
+
+
+40, 1	80, 1-5	TRA	coelio chdi methu fo de	---	NSNT
+
+
+41, 1	81, 1-2	GAI	methu be	NSNT	NSNT
+41, 2	82, 1-3	GAI	*oh* na bechod	---	NST
+
+
+42, 1	83, 1-3	TRA	oedden ni chwifio	---	NSNT
+
+
+43, 1	84, 1-14	GAI	oeddech chi gyd fath â pump ohonach chi yna fath â weifio arna i	NSNT	NSNT
+43, 2	86, 1-4	GAI	ia tyrd nos fory	---	NSNT
+
+
+44, 1	87, 1-3	TRA	*yeah* nos fory	---	NST
+
+
+45, 1	88, 1-8	GAI	achos gynno fi mond *thing* llefaru diwrnod wedyn	---	NST
+
+
+46, 1	89, 1-4	TRA	a dydd Sadwrn hefyd	---	NSNT
+
+
+47, 1	90, 1-7	GAI	dydd Sadwrn nos Sadwrn ia nos Sadwrn	---	NSNT
+
+
+48, 1	91, 1-5	TRA	dydd Sul dach chi mynd	---	NSNT
+
+
+49, 1	92, 1-5	GAI	nos Sul neu nos Lun	NSNT	NSNT
+49, 2	93, 1-2	GAI	dw meddwl	NSNT	NSNT
+49, 3	93, 3-9	GAI	bod *Martha* mynd lawr i fyny *Aberystwyth*	NST	NST
+49, 5	95, 1-2	GAI	dydd Llun	NSNT	NSNT
+49, 6	96, 1-9	GAI	mae yn cael clyweliad *thing* offerynnol i gael pres	NST	NST
+49, 7	98, 1-3	GAI	i gael pres	NSNT	NSNT
+49, 8	99, 1-8	GAI	oherwydd ella a i fyny ella efo *mam*	NST	NST
+49, 9	100, 1-7	GAI	dibynnu os ydy *mam* yn iawn achos	---	NST
+
+
+50, 1	102, 1-3	TRA	ydy well wan	---	NSNT
+
+
+51, 1	103, 1-2	GAI	dw meddwl	SNT	NSNT
+51, 2	104, 1-3	GAI	hung over ydy	---	SNT
+
+
+52, 1	105, 1-3	TRA	*bug* ydy o	---	NST
+
+
+53, 1	108, 1-7	GAI	wnaeth hi cael gwin yn tŷ chi	NSNT	NSNT
+53, 3	110, 1-5	GAI	a wedyn wnaeth ddod adre	NSNT	NSNT
+53, 4	110, 6-7	GAI	wnaeth *mam*	NST	NST
+53, 5	110, 8-16	GAI	wnaethon nhw fynd trwy yr tair botel o win	NSNT	NSNT
+53, 6	111, 1-5	GAI	a wedyn gaethon nhw *vodka*	NST	NST
+53, 7	112, 1-3	GAI	*so* *um* ia	ST	NST
+53, 8	113, 1-1	GAI	embarrassing	---	NSNT
+
+
+54, 1	114, 1-3	TRA	chdi ydy hwnna	---	NSNT
+
+
+55, 1	115, 1-1	GAI	lle	---	NSNT
+
+
+56, 1	116, 1-3	TRA	yn fan acw	---	NSNT
+
+
+57, 1	117, 1-2	GAI	ia funny	---	SNT
+
+
+58, 1	118, 1-10	TRA	chwarter awr ta hanner awr dan ni mynd i fod	NSNT	NSNT
+58, 2	119, 1-8	TRA	achos dw i angen bod nôl erbyn chwech	---	NSNT
+
+
+59, 1	120, 1-5	GAI	faint o gloch ydy wan	---	NSNT
+
+
+60, 1	121, 1-3	TRA	pump ydy wan	---	NSNT
+
+
+61, 1	122, 1-4	GAI	hanner awr felly *yeah*	---	NST
+
+
+62, 1	123, 1-7	TRA	*yeah* dw isio mynd i *tent* chi	NST	NST
+62, 2	124, 1-3	TRA	faint mae gymryd	NSNT	NSNT
+62, 3	125, 1-2	TRA	deg munud	---	NSNT
+
+
+63, 1	126, 1-8	GAI	*yeah* ond dw i cyfarfod efo hogiau i_gyd	NST	NST
+63, 2	127, 1-7	GAI	achos dw i heb weld nhw ers	---	NSNT
+
+
+64, 1	128, 1-2	TRA	pa bryd	---	NSNT
+
+
+65, 1	129, 1-4	GAI	dw ddim yn gwybod	---	NSNT
+
+
+66, 1	130, 1-3	TRA	faint o gloch	---	NSNT
+
+
+67, 1	131, 1-4	GAI	mae fod text_io fi	NSNT	SNT
+67, 2	131, 5-9	GAI	pan mae nhw cyrraedd adre	---	NSNT
+
+
+68, 1	132, 1-2	TRA	yn lle	---	NSNT
+
+
+69, 1	133, 1-4	GAI	dw ddim yn gwybod	NSNT	NSNT
+69, 2	134, 1-5	GAI	rywle ar y maes de	NSNT	NSNT
+69, 3	135, 1-4	GAI	achos ges i *party*	NST	NST
+69, 4	135, 5-7	GAI	lle oedd *Adam*	NST	NST
+69, 5	136, 1-14	GAI	ond dw i heb gweld y rei eraill ers fath â diwedd T_G_A_U *so*	NST	NST
+69, 6	138, 1-5	GAI	mae nhw gyd yn *Maes_B*	NST	NST
+69, 7	139, 1-1	GAI	T_G_A_U	NSNT	NSNT
+69, 8	141, 1-2	GAI	T_G_A_U fi	---	NSNT
+
+
+70, 1	142, 1-7	TRA	pryd mae pa bryd ti gael gwybod	---	NSNT
+
+
+71, 1	143, 1-7	GAI	mae *Martha* yn cael ar y un_deg_saith	NST	NST
+71, 2	144, 1-8	GAI	a wedyn ar y dau_ddeg_pedwar dw i cael	---	NSNT
+
+
+72, 1	145, 1-3	TRA	be o Awst	---	NSNT
+
+
+73, 1	147, 1-4	GAI	ond mae ffrindiau fi	NSNT	NSNT
+73, 2	147, 5-10	GAI	mae rhei o nhw ar gwyliau	NSNT	NSNT
+73, 3	148, 1-8	GAI	*so* mae nhw gorod cael ffacsio fo neu	NST	NST
+73, 4	148, 9-17	GAI	*just* disgwyl neu cael rywun arall i nôl nhw	---	NST
+
+
+74, 1	149, 1-6	TRA	ti mynd i fod adre wyt	---	NSNT
+
+
+75, 1	150, 1-2	GAI	yndw hopefully	NSNT	SNT
+75, 2	151, 1-1	GAI	God	---	NSNT
+
+
+76, 1	152, 1-8	TRA	*oh* my God dau_ddeg_pedwar ti yn gael o	NST	ST
+76, 2	153, 1-4	TRA	be wnest ti gael	NSNT	NSNT
+76, 3	154, 1-2	TRA	celf cerdd	---	NSNT
+
+
+77, 1	155, 1-4	GAI	celf cerdd addysg grefyddol	---	NSNT
+
+
+78, 1	156, 1-4	TRA	a wedyn gweddill *yeah*	---	NST
+
+
+79, 1	157, 1-6	GAI	a wedyn ti cael *maths* dwyt	---	NST
+
+
+80, 1	158, 1-5	TRA	un *maths* ta dau *faths*	---	NST
+
+
+81, 1	159, 1-4	GAI	dau Cymraeg dau Saesneg	---	NSNT
+
+
+82, 1	160, 1-2	TRA	dau gwyddoniaeth	---	NSNT
+
+
+83, 1	161, 1-4	GAI	a dau gwyddoniaeth *yeah*	NST	NST
+83, 2	162, 1-5	GAI	*so* dw ddim yn gwybod	---	NST
+
+
+84, 1	163, 1-14	TRA	oedda chdi yn gweld nhw yn pa rei o'ch chdi yn gweld yn anodd	---	NSNT
+
+
+85, 1	164, 1-1	GAI	cerdd	NSNT	NSNT
+85, 2	165, 1-9	GAI	o'n i yn disgwyl hwnna fod yn really hawdd	NSNT	SNT
+85, 3	166, 1-4	GAI	oedd perfformio yn iawn	NSNT	NSNT
+85, 4	167, 1-8	GAI	a wedyn *um* papur oedd o yn awful	---	ST
+
+
+86, 1	168, 1-1	TRA	*serious*	ST	NST
+86, 2	169, 1-2	TRA	go iawn	---	NSNT
+
+
+87, 1	170, 1-1	GAI	*horrible*	---	NST
+
+
+88, 1	171, 1-4	TRA	pa fath o gwestiynau	---	NSNT
+
+
+89, 1	172, 1-7	GAI	ti gorod gwrando ar y darnau de	NSNT	NSNT
+89, 2	173, 1-8	GAI	a wedyn ti cael fath â pump *bar*	NST	NST
+89, 3	174, 1-10	GAI	a ti gorod sgwennu yr nodau gyd lawr a *stuff*	---	NST
+
+
+90, 1	175, 1-1	TRA	*serious*	---	NST
+
+
+91, 1	176, 1-5	GAI	*just* gwrando arno fo ddwywaith	---	NST
+
+
+92, 1	178, 1-4	TRA	ti gorod pitsio bob_dim	NSNT	NSNT
+92, 2	180, 1-4	TRA	ti gorod pitsio fo	---	NSNT
+
+
+93, 1	181, 1-5	GAI	o't ti heb dewis naddo	---	NSNT
+
+
+94, 1	183, 1-3	TRA	*oh* my God	---	NST
+
+
+95, 1	184, 1-6	GAI	hwnna ydy yr peth gwaetha though	SNT	SNT
+95, 2	185, 1-12	GAI	a ti gorod sgwennu traethawd am ryw ddarn o *music* ti clywed	NST	NST
+95, 3	186, 1-5	GAI	mae addysg grefyddol yn iawn	NSNT	NSNT
+95, 4	187, 1-7	GAI	ond ti gorod dysgu loads o *stuff*	---	ST
+
+
+96, 1	188, 1-11	TRA	o'n i yn meddwl *just* o'n i meddwl cymryd addysg grefyddol	NST	NST
+96, 2	189, 1-5	TRA	a wedyn wnes i gymryd	NSNT	NSNT
+96, 3	189, 6-6	TRA	chwaraeon	---	NSNT
+
+
+97, 1	190, 1-1	GAI	be	---	NSNT
+
+
+98, 1	191, 1-8	TRA	o'n i meddwl *just* *um* dewis addysg grefyddol	NST	NST
+98, 2	192, 1-9	TRA	ond fath â dw i wneud gym yn lle	NSNT	SNT
+98, 3	194, 1-1	TRA	achos	NSNT	NSNT
+98, 4	195, 1-11	TRA	*oh* mae yna lwyth o bobl yn cymryd addysg grefyddol anyway	ST	ST
+98, 5	195, 12-12	TRA	does	---	NSNT
+
+
+99, 1	196, 1-8	GAI	un hogyn wnaeth wneud yn blwyddyn ni though	---	SNT
+
+
+100, 1	197, 1-1	TRA	pwy	---	NSNT
+
+
+101, 1	198, 1-1	GAI	*Ben*	ST	NST
+101, 2	199, 1-1	GAI	chwerthin	NSNT	NSNT
+101, 3	200, 1-2	GAI	ia *so*	---	NST
+
+
+102, 1	201, 1-5	TRA	sut oedda chdi ffeindio celf	---	NSNT
+
+
+103, 1	202, 1-1	GAI	*horrible*	ST	NST
+103, 2	203, 1-5	GAI	oedd o yn afiach na	---	NSNT
+
+
+104, 1	204, 1-4	TRA	be chdi gorod wneud	---	NSNT
+
+
+105, 1	205, 1-1	GAI	be	---	NSNT
+
+
+106, 1	206, 1-1	TRA	be	NSNT	NSNT
+106, 2	207, 1-7	TRA	*oh* *yeah* gwyddoniaeth ti gorod fath â	NST	NST
+106, 3	208, 1-14	TRA	ti yn mynd i wneud gwyddoniaeth yn chwech un felly dwyt a chwech dau	---	NSNT
+
+
+107, 1	209, 1-5	GAI	dibynnu be dw i wneud	NSNT	NSNT
+107, 2	210, 1-6	GAI	achos mae meddygaeth fath â *horrible*	NST	NST
+107, 3	211, 1-2	GAI	*so* os	---	NST
+
+
+108, 1	212, 1-4	TRA	*doctor* ti isio bod	---	NST
+
+
+109, 1	213, 1-3	GAI	dim dim mwy	NSNT	NSNT
+109, 2	214, 1-6	GAI	achos aeth *um* *Barry* yn sâl	NST	NST
+109, 3	215, 1-9	GAI	a wedyn o'n i gorod llnau o fyny de	NSNT	NSNT
+109, 4	216, 1-4	GAI	a *just* yn disgusting	ST	ST
+109, 5	217, 1-10	GAI	*so* fedra i ddim wneud *operations* na dim_byd fel yna	NST	NST
+109, 6	218, 1-2	GAI	mae *horrible*	---	NST
+
+
+110, 1	219, 1-6	TRA	*yeah* ond *nurse* basai wneud hynna	NST	NST
+110, 2	220, 1-4	TRA	*oh* dw ddim gwybod	---	NST
+
+
+111, 1	221, 1-7	GAI	fydd *Big_Brother* wedi gorffen erbyn diwedd *Steddfod*	NST	NST
+111, 2	222, 1-4	GAI	neu ydy o yn	NSNT	NSNT
+111, 3	225, 1-4	GAI	faint sy ar_ôl wan	---	NSNT
+
+
+112, 1	226, 1-10	TRA	*oh* na achos mae yna un yn mynd nôl fewn	NST	NST
+112, 2	226, 11-11	TRA	does	---	NSNT
+
+
+113, 1	227, 1-3	GAI	un mynd fewn	---	NSNT
+
+
+114, 1	228, 1-3	TRA	achos mae *Glyn*	---	NST
+
+
+115, 1	229, 1-3	GAI	dydd Gwener *yeah*	---	NST
+
+
+116, 1	230, 1-2	TRA	*Glyn* *Aisleyne*	---	NST
+
+
+117, 1	231, 1-8	GAI	a mae *Jenny* yn aros tan y diwedd	---	NST
+
+
+118, 1	232, 1-6	TRA	achos wnaeth hi ennill ryw *game*	---	NST
+
+
+119, 1	233, 1-3	GAI	*oh* my God	---	NST
+
+
+120, 1	235, 1-3	TRA	*oh* my God	ST	NST
+120, 2	236, 1-2	TRA	*Glyn* de	---	NST
+
+
+121, 1	237, 1-4	GAI	*Glyn* *Aisleyne* *Richard* *Jenny*	---	NST
+
+
+122, 1	238, 1-1	TRA	*Imogen*	---	NST
+
+
+123, 1	239, 1-1	GAI	*Imogen*	---	NST
+
+
+124, 1	240, 1-5	TRA	a wedyn un arall wedyn	---	NSNT
+
+
+125, 1	241, 1-3	GAI	*Suzie* dal fewn	NST	NST
+125, 2	243, 1-3	GAI	*Suzie* wedi mynd	---	NST
+
+
+126, 1	244, 1-5	TRA	wnaeth hi mynd efo *Mikey*	NST	NST
+126, 2	244, 6-10	TRA	do yr un yr un	NSNT	NSNT
+126, 3	244, 11-11	TRA	noson	NSNT	NSNT
+126, 4	244, 12-13	TRA	â *Mikey*	---	NST
+
+
+127, 1	245, 1-6	GAI	*oh* *yeah* wnes i fethu fo	NST	NST
+127, 2	246, 1-13	GAI	*so* mae yna bump o rei iawn a wedyn un dod nôl fewn	NST	NST
+127, 3	248, 1-8	GAI	a faint sy ar_ôl ar y noson ola	NSNT	NSNT
+127, 4	249, 1-4	GAI	pedwar fel arfer *yeah*	NST	NST
+127, 5	251, 1-15	GAI	*so* fydd yna *double* eviction neu rywbeth *yeah* a wedyn pedwar o nhw dod allan	ST	ST
+127, 6	254, 1-1	GAI	*cute*	ST	NST
+127, 7	255, 1-6	GAI	pwy ti meddwl eith nôl fewn	SNT	NSNT
+127, 8	256, 1-1	GAI	*Nikki*	---	NST
+
+
+128, 1	257, 1-4	TRA	*um* dw ddim gwybod	NST	NST
+128, 2	258, 1-3	TRA	ella wneith *Lisa*	NST	NST
+128, 3	258, 4-6	TRA	dw ddim gwybod	---	NSNT
+
+
+129, 1	259, 1-1	GAI	*Lisa*	ST	NST
+129, 2	261, 1-7	GAI	ydy hi yn gallu mynd nôl fewn	---	NSNT
+
+
+130, 1	262, 1-1	TRA	gwybod	NSNT	NSNT
+130, 2	265, 1-7	TRA	dw ddim yn gweld *Grace* mynd fewn	NST	NST
+130, 3	266, 1-5	TRA	achos yn y *thing* *um*	NST	NST
+130, 4	267, 1-2	TRA	timod *Big_Brother_Little_Brother*	NST	NST
+130, 5	267, 3-5	TRA	de yn bore	NSNT	NSNT
+130, 6	269, 1-14	TRA	*um* dyma yr hen rei gyd yn cael *chat* efo timod y *boy* yna	---	NST
+
+
+131, 1	270, 1-2	GAI	*Dermot* *boy*	---	NST
+
+
+132, 1	271, 1-4	TRA	be ydy enw fo	NSNT	NSNT
+132, 2	272, 1-2	TRA	y *boy*	---	NST
+
+
+133, 1	273, 1-1	GAI	*Dermot*	---	NST
+
+
+134, 1	276, 1-7	TRA	a wedyn oedd pawb yna heblaw *Grace*	NST	NST
+134, 2	277, 1-5	TRA	oedd hi mewn syrffio rywbeth	---	NSNT
+
+
+135, 1	278, 1-2	GAI	mewn be	---	NSNT
+
+
+136, 1	279, 1-2	TRA	oedd hi	NSNT	NSNT
+136, 2	279, 3-6	TRA	wedi bod yn syrffio	NSNT	NSNT
+136, 3	281, 1-5	TRA	*so* oedd hi ddim yna	NST	NST
+136, 4	281, 6-8	TRA	de i siarad	NSNT	NSNT
+136, 5	282, 1-5	TRA	ond oedd pawb arall yna	NSNT	NSNT
+136, 6	283, 1-7	TRA	ac oedden nhw deud fath â pam	NSNT	NSNT
+136, 7	283, 8-15	TRA	oedden nhw isio mynd yn_ôl pethau fel yna	NSNT	NSNT
+136, 8	285, 1-8	TRA	dw ddim yn gweld *Suzie* mynd yn_ôl i_fewn	NST	NST
+136, 9	287, 1-6	TRA	achos oedd hi yn really boring	---	SNT
+
+
+137, 1	288, 1-3	GAI	os na de	NSNT	NSNT
+137, 2	288, 4-21	GAI	oes gyn ti fath â ffefryn yn y tŷ a wedyn ti yn fotio i gael rywun really	---	SNT
+
+
+138, 1	289, 1-7	TRA	pwy ydy ffefryn chdi yn y tŷ	---	NSNT
+
+
+139, 1	290, 1-2	GAI	*Glyn* rŵan	NST	NST
+139, 2	291, 1-8	GAI	ond dw heb weld o ers mor hir	---	NSNT
+
+
+140, 1	292, 1-2	TRA	pwy oedd	---	NSNT
+
+
+141, 1	293, 1-5	GAI	*um* *Pete* yn dechrau de	---	NST
+
+
+142, 1	294, 1-8	TRA	mae *Pete* wedi mynd yn eitha boring wan	---	ST
+
+
+143, 1	295, 1-6	GAI	mae *Pete* mynd yn really distaw	NST	ST
+143, 2	296, 1-5	GAI	achos ers i *Nikki* fynd	---	NST
+
+
+144, 1	298, 1-4	TRA	dw ddim yn gwybod	---	NSNT
+
+
+145, 1	299, 1-3	GAI	ddim yn gwybod	---	NSNT
+
+
+146, 1	300, 1-4	TRA	dw ddim yn gwybod	NSNT	NSNT
+146, 2	300, 5-9	TRA	de os mai fel yna	NSNT	NSNT
+146, 3	300, 10-12	TRA	mae o rŵan	NSNT	NSNT
+146, 4	300, 13-16	TRA	a bod o wedi	NSNT	NSNT
+146, 5	300, 17-22	TRA	roid *act* ar y dechrau neu	NST	NST
+146, 6	300, 23-29	TRA	os ydy o wedi mynd lawr yn	NSNT	NSNT
+146, 7	300, 30-34	TRA	ei hun os ti ddallt	NSNT	NSNT
+146, 8	300, 35-37	TRA	be dw feddwl	---	NSNT
+
+
+147, 1	302, 1-4	GAI	neu os ydy o	NSNT	NSNT
+147, 2	302, 5-8	GAI	yn bod yn gysetlyd	NSNT	NSNT
+147, 4	304, 1-5	GAI	achos mae o mor boblogaidd	NSNT	NSNT
+147, 5	304, 6-8	GAI	mae o meddwl	NSNT	NSNT
+147, 6	304, 9-13	GAI	bod o mynd i ennill	NSNT	NSNT
+147, 8	306, 1-9	GAI	*so* dydy o ddim yn wneud dim_byd a wedyn	---	NST
+
+
+148, 1	308, 1-3	TRA	dw ddim gwybod	---	NSNT
+
+
+149, 1	309, 1-8	GAI	cymryd yn ganiataol wneith o ennill neu rywbeth	---	NSNT
+
+
+150, 1	310, 1-7	TRA	achos mae pawb yn really licio *Pete*	NST	ST
+150, 2	310, 8-10	TRA	doedd fath â	---	NSNT
+
+
+151, 1	313, 1-6	GAI	ond *Glyn* sy wedi newid fwya	---	NST
+
+
+152, 1	314, 3-7	TRA	mae wedi yn fwy confident	SNT	SNT
+152, 2	315, 1-9	TRA	a mae wedi mynd yn llai fath â ar_goll	---	NSNT
+
+
+153, 1	316, 1-3	GAI	yndy wsnos gynta	NSNT	NSNT
+153, 2	317, 1-5	GAI	ond *um* *Shahbaz* oedd hynna	NST	NST
+153, 3	319, 1-7	GAI	achos mond tua tri loud oedd yna	NSNT	SNT
+153, 4	320, 1-7	GAI	a pawb arall yn ddistaw fath â	---	NSNT
+
+
+154, 1	322, 1-4	TRA	oedd *Lisa* yn deud	NST	NST
+154, 2	322, 5-20	TRA	bod hi isio mynd i nôl fewn a hefyd *um* achos bod *Mikey* wedi gadael *Glyn*	---	NST
+
+
+155, 1	323, 1-9	GAI	mae hynna *just* fath â mynd efo rei poblogaidd	NST	NST
+155, 2	323, 10-10	GAI	dydy	NSNT	NSNT
+155, 3	325, 1-5	GAI	achos oedd hi a *Pete*	---	NST
+
+
+156, 1	326, 1-10	TRA	achos dw i meddwl achos bod hi wedi dod allan	NSNT	NSNT
+156, 2	326, 11-17	TRA	mae sylwi am bobl yn licio *Glyn*	NST	NST
+156, 3	326, 18-18	TRA	dydy	NSNT	NSNT
+156, 4	328, 1-5	TRA	*so* bod hi yn trio	NST	NST
+156, 5	329, 1-5	TRA	ti dallt be dw feddwl	NSNT	NSNT
+156, 6	330, 1-4	TRA	a mae *Bonnie* a	ST	NST
+156, 7	331, 1-2	TRA	*er* *Bonnie*	---	NST
+
+
+157, 1	332, 1-1	GAI	*Bonnie*	---	NST
+
+
+158, 1	333, 1-2	TRA	mae *um*	NST	NST
+158, 2	334, 1-4	TRA	be ydy enw hi	NSNT	NSNT
+158, 3	335, 1-5	TRA	*oh* be ydy enw hi	---	NST
+
+
+159, 1	336, 1-1	GAI	*Leah*	---	NST
+
+
+160, 1	337, 1-1	TRA	*Jennie*	---	NST
+
+
+161, 1	338, 1-1	GAI	*Jennie*	---	NST
+
+
+162, 1	339, 1-4	TRA	oedd *Jennie* wedi gaddo	NST	NST
+162, 2	339, 5-12	TRA	bod yn ffrindiau gorau efo *Glyn* am byth	NST	NST
+162, 3	341, 1-6	TRA	*so* mae nhw wedi ffrindiau wan	---	NST
+
+
+163, 1	342, 1-7	GAI	ti meddwl eith o nôl i coleg	---	NSNT
+
+
+164, 1	344, 1-14	TRA	does dim really angen chdi fynd pan ti gael gymaint â hynna o bres	NSNT	SNT
+164, 2	344, 15-16	TRA	nag oes	---	NSNT
+
+
+165, 1	345, 1-3	GAI	*Bangor* mae mynd	---	NST
+
+
+166, 1	347, 1-4	TRA	ddim yn gwybod hynna	NSNT	NSNT
+166, 2	348, 1-4	TRA	be mynd i fynd	---	NSNT
+
+
+167, 1	349, 1-10	GAI	mae o fath â wedi cael graddau digon da wan	NSNT	NSNT
+167, 2	350, 1-5	GAI	mae wedi cael ei dderbyn	NSNT	NSNT
+167, 3	350, 6-7	GAI	dw meddwl	---	NSNT
+
+
+168, 1	351, 1-3	TRA	be gafodd o	---	NSNT
+
+
+169, 1	352, 1-7	GAI	mae fod i cael a am bob_dim	NSNT	NSNT
+169, 2	353, 1-9	GAI	ond oedd o fod i cael a yn Saesneg	---	NSNT
+
+
+170, 1	354, 1-4	TRA	a be gafodd o	---	NSNT
+
+
+171, 1	355, 2-2	GAI	wnaeth	NSNT	NSNT
+171, 2	355, 3-8	GAI	dydy o heb wneud lefel_a fo	NSNT	NSNT
+171, 3	357, 1-8	GAI	aeth o fewn i yr tŷ yn lle	---	NSNT
+
+
+172, 1	359, 1-6	TRA	*so* ydy o gael ei dderbyn	NST	NST
+172, 2	359, 7-13	TRA	ydy o yn gael ei dderbyn anyway	---	SNT
+
+
+173, 1	361, 1-11	GAI	fasa chdi meddwl basai fo ddim yn cael a achos ffordd	NSNT	NSNT
+173, 2	361, 12-14	GAI	mae siarad Saesneg	---	NSNT
+
+
+174, 1	362, 1-3	TRA	dw i gwybod	NSNT	NSNT
+174, 2	363, 1-4	TRA	mae o braidd yn	---	NSNT
+
+
+175, 1	364, 1-6	GAI	oedd o fath â siarad Cymraeg	---	NSNT
+
+
+176, 1	365, 1-9	TRA	ond ella bod o *just* *just* achos yr accent	ST	ST
+176, 2	365, 10-12	TRA	dw ddim gwybod	---	NSNT
+
+
+177, 1	366, 1-3	GAI	ia ella de	NSNT	NSNT
+177, 2	367, 1-2	GAI	hynna wir	---	NSNT
+
+
+178, 1	368, 1-2	TRA	mae *um*	NST	NST
+178, 2	369, 1-5	TRA	timod yr hogan addysg grefyddol	NSNT	NSNT
+178, 3	370, 1-12	TRA	*oh* timod yr hogan dim yr hogan yr actual hogan addysg grefyddol	---	ST
+
+
+179, 1	371, 1-1	GAI	*Miss_Hughes*	---	NST
+
+
+180, 1	372, 1-1	TRA	hogan	NSNT	NSNT
+180, 2	373, 1-5	TRA	ia dim hi *um* *Miss*	---	NST
+
+
+181, 1	374, 1-1	GAI	*student*	---	NST
+
+
+182, 1	376, 2-5	TRA	mae wedi mynd wan	NSNT	NSNT
+182, 2	378, 1-4	TRA	dw ddim yn gofio	NSNT	NSNT
+182, 3	378, 5-8	TRA	be ydy enw hi	---	NSNT
+
+
+183, 1	379, 1-4	GAI	na dw ddim cofio	NSNT	NSNT
+183, 2	380, 1-5	GAI	yr un efo gwallt melyn	---	NSNT
+
+
+184, 1	383, 1-4	TRA	*um* aeth hi *hiya*	NST	NST
+184, 2	384, 1-4	TRA	oedd hi yn deud	NSNT	NSNT
+184, 3	384, 5-9	TRA	bod hi nabod chwaer *Glyn*	---	NST
+
+
+185, 1	385, 1-1	GAI	*Glyn*	---	NST
+
+
+186, 1	388, 1-7	TRA	*Sylvia* neu rywbeth ydy enw hi *yeah*	NST	NST
+186, 2	390, 1-7	TRA	achos mae hi byw yn *Blaenau* hefyd	NST	NST
+186, 3	390, 8-8	TRA	dydy	SNT	NSNT
+186, 4	391, 1-3	TRA	*oh* my God	---	NST
+
+
+187, 1	393, 1-1	GAI	be	---	NSNT
+
+
+188, 1	394, 1-1	TRA	*hello*	---	NST
+
+
+189, 1	395, 1-7	GAI	paid â roi llaw chdi ar *mic*	---	NST
+
+
+190, 1	396, 1-8	TRA	*well* dan ni mynd i fynd mewn ychydig	NST	NST
+190, 2	397, 1-8	TRA	*um* deud wrthi bod fi gael pres *so*	NST	NST
+190, 3	400, 1-4	TRA	*hiya* dw i yn	NST	NST
+190, 4	401, 1-3	TRA	lle ydan ni	---	NSNT
+
+
+191, 1	402, 1-3	GAI	*er* lle Prifysgol_Bangor	---	NST
+
+
+192, 1	403, 1-5	TRA	dw i yn lle prifysgol	---	NSNT
+
+
+193, 1	404, 1-1	GAI	*Bangor*	---	NST
+
+
+194, 1	405, 1-9	TRA	*oh* ti isio fi ddod i *Mudiad_Ysgolion_Meithrin* wan ta	ST	NST
+194, 2	407, 1-1	TRA	*ta_ra*	---	NST
+
+
+195, 1	408, 1-1	GAI	pryd	---	NSNT
+
+
+196, 1	409, 1-3	TRA	*oh* *mam* *mam*	NST	NST
+196, 2	410, 1-1	TRA	*mam*	ST	NST
+196, 3	411, 1-4	TRA	ydy o yn *o_k*	NST	NST
+196, 4	411, 5-10	TRA	os fydda i ryw bum munud	NSNT	NSNT
+196, 5	412, 1-6	TRA	os fydda i ryw bum munud	NSNT	NSNT
+196, 6	413, 1-6	TRA	os fydda i ryw bum munud	NSNT	NSNT
+196, 7	415, 1-5	TRA	pum munud fydda i *o_k*	ST	NST
+196, 8	416, 1-1	TRA	*ta_ra*	---	NST
+
+
+197, 1	419, 1-7	GAI	*yeah* ti wedi wneud unawd chdi eto	---	NST
+
+
+198, 1	420, 1-4	TRA	na fory mae o	---	NSNT
+
+
+199, 1	421, 1-1	GAI	fory	NSNT	NSNT
+199, 2	422, 1-3	GAI	faint o gloch	---	NSNT
+
+
+200, 1	423, 1-4	TRA	dw ddim yn gwybod	NSNT	NSNT
+200, 2	424, 1-8	TRA	*oh* tyrd efo fi i at *Mudiad_Ysgolion_Meithrin* *o_k*	---	NST
+
+
+201, 1	425, 1-5	GAI	mewn pum munud iawn *fine*	NST	NST
+201, 2	426, 1-13	GAI	ond *er* o'n i meddwl bod y rei ifanc yn dechrau wsnos fel	NST	NST
+201, 3	426, 14-16	GAI	arfer fath â	---	NSNT
+
+
+202, 1	427, 1-3	TRA	ia dw gwybod	NSNT	NSNT
+202, 2	428, 1-4	TRA	ond dw ddim gwybod	NSNT	NSNT
+202, 3	430, 1-6	TRA	*um* wna i ddeud wrtha chdi	NST	NST
+202, 4	431, 1-5	TRA	achos dw i yn gweld	NSNT	NSNT
+202, 5	432, 1-7	TRA	achos dw ddim yn gwybod pa bryd	NSNT	NSNT
+202, 6	432, 8-9	TRA	mae o	NSNT	NSNT
+202, 7	433, 1-6	TRA	mae *just* rywle *er* rywbryd fory	NST	NST
+202, 8	434, 1-4	TRA	yn *pagoda* mae o	---	NST
+
+
+203, 1	435, 1-3	GAI	yn *pagoda* iawn	NST	NST
+203, 2	436, 1-7	GAI	ddo i weld chdi os dw gallu	---	NSNT
+
+
+204, 1	437, 1-4	TRA	you better be there	---	NSNT
+
+
+205, 1	438, 1-6	GAI	oedd o yn y cyfarfod *E_Bay*	NST	NST
+205, 2	440, 1-9	GAI	os dan ni gorfod wneud fath â interview *thing*	ST	ST
+205, 3	440, 10-14	GAI	de gei di wneud o	---	NSNT
+
+
+206, 1	441, 1-1	TRA	pam	---	NSNT
+
+
+207, 1	442, 1-4	GAI	achos dw ddim isio	NSNT	NSNT
+207, 2	443, 1-7	GAI	neu na actually geith *Martha* wneud o	---	ST
+
+
+208, 1	444, 1-1	TRA	ceith	---	NSNT
+
+
+209, 1	445, 1-4	GAI	mae siarad yn well	---	NSNT
+
+
+210, 1	446, 1-7	TRA	dan ni dwy wedi siarad yn barod	---	NSNT
+
+
+211, 1	447, 1-1	GAI	be	---	NSNT
+
+
+212, 1	448, 1-8	TRA	dan ni ein dwy wedi siarad yn barod	---	NSNT
+
+
+213, 1	451, 1-5	GAI	pwy oedd ar *phone* wan	NST	NST
+213, 2	452, 1-2	GAI	*mam* chdi	---	NST
+
+
+214, 1	453, 1-5	TRA	*well* oedd *Adam* ffonio fi	NST	NST
+214, 2	454, 1-6	TRA	ond oedd *Adam* wrth ymyl *mam*	---	NST
+
+
+215, 1	456, 1-4	GAI	yn lle oedden nhw	---	NSNT
+
+
+216, 1	457, 1-1	TRA	*Mudiad_Ysgolion_Meithrin*	---	NST
+
+
+217, 1	459, 1-8	GAI	*oh* *yeah* mae *Sheila* yn gweithio fan yna	NST	NST
+217, 2	459, 9-10	GAI	yndy *so*	---	NST
+
+
+218, 1	461, 1-2	TRA	pwy *Sheila*	---	NST
+
+
+219, 1	462, 1-2	GAI	*mam* *Adam*	---	NST
+
+
+220, 1	463, 1-1	TRA	*serious*	---	NST
+
+
+221, 1	464, 1-7	GAI	*oh* neu mae rywbeth efo ysgolion meithrin	---	NST
+
+
+222, 1	465, 1-6	TRA	o'n i ddim yn gwybod hynna	---	NSNT
+
+
+223, 1	466, 1-4	GAI	na achos oedd hi	NSNT	NSNT
+223, 2	466, 5-13	GAI	oedd hi yn dysgu ti gwybod fath â *Rhian*	NST	NST
+223, 4	468, 1-10	GAI	*Sheila* yn wneud yr un gwaith fath â textiles a	NST	ST
+223, 5	470, 1-3	GAI	cwcio a *stuff*	NST	NST
+223, 6	472, 1-5	GAI	*yeah* wedyn dw ddim gwybod	NST	NST
+223, 7	473, 1-1	GAI	be	---	NSNT
+
+
+224, 1	475, 1-4	TRA	ti isio biscuit arall	---	SNT
+
+
+225, 1	476, 1-3	GAI	ti isio un	NSNT	NSNT
+225, 2	477, 1-4	GAI	pa un ti isio	---	NSNT
+
+
+226, 1	478, 1-3	TRA	yr un ginger	---	SNT
+
+
+227, 1	479, 1-1	GAI	sinsir	SNT	NSNT
+227, 2	480, 1-1	GAI	*yey*	ST	NST
+227, 3	481, 1-1	GAI	be	NSNT	NSNT
+227, 4	482, 1-4	GAI	mae hyn yn rhyfedd	NSNT	NSNT
+227, 5	484, 1-7	GAI	na baswn i yn gallu siarad am	NSNT	NSNT
+227, 6	484, 8-12	GAI	oes efo chdi fel arfer	NSNT	NSNT
+227, 8	486, 1-11	GAI	*oh* ti gwybod pan mae gyn ti rywun gwrando fath â	---	NST
+
+
+228, 1	487, 1-2	TRA	dallt dallt	---	NSNT
+
+
+229, 1	488, 1-9	GAI	ti wedi cael prawf Cymraeg fath â llafar eto	NSNT	NSNT
+229, 2	490, 1-7	GAI	o'n i *just* yn mynd *off* de	NST	NST
+229, 3	491, 1-3	GAI	gwrando ar tâp	NSNT	NSNT
+229, 4	491, 5-12	GAI	oedden ni fod yn siarad am lyfr yma	NSNT	NSNT
+229, 5	492, 1-15	GAI	a wnaeth ni dreulio fath â wyth_deg cant o yr amser yn siarad am *Pokemon*	NST	NST
+229, 6	493, 1-3	GAI	fath â craze	SNT	SNT
+229, 7	494, 1-3	GAI	*oh* mor funny	---	ST
+
+
+230, 1	495, 1-3	TRA	yn be wan	NSNT	NSNT
+230, 2	496, 1-1	TRA	yn	---	NSNT
+
+
+231, 1	497, 1-1	GAI	yn	NSNT	NSNT
+231, 2	499, 1-12	GAI	ac T_G_A_U de ti ddim yn cael deud un gair o Saesneg	---	NSNT
+
+
+232, 1	500, 1-3	TRA	dw yn gwybod	---	NSNT
+
+
+233, 1	501, 1-2	GAI	mor anodd	NSNT	NSNT
+233, 2	502, 1-11	GAI	achos dw i fath â really really really trwy yr amser	NSNT	SNT
+233, 3	503, 1-7	GAI	ond ti ddim yn cael wneud o	NSNT	NSNT
+233, 4	504, 1-9	GAI	ti gorod deud yn hynod anodd neu rywbeth de	NSNT	NSNT
+233, 6	506, 1-1	GAI	annaturiol	NSNT	NSNT
+233, 7	507, 1-3	GAI	ond dyna fo	---	NSNT
+
+
+234, 1	508, 1-4	TRA	ond timod fath â	NSNT	NSNT
+234, 2	508, 5-16	TRA	mae fath â geiriau Saesneg yn slipio i_fewn ti dallt be feddwl	NSNT	NSNT
+234, 3	509, 1-3	TRA	*so* fath â	---	NST
+
+
+235, 1	510, 1-3	GAI	fel yma ia	---	NSNT
+
+
+236, 1	511, 1-4	TRA	fath â *um* *um*	---	NST
+
+
+237, 1	512, 1-9	GAI	gair Saesneg efo *io* neu rywbeth ar ddiwedd o	---	NST
+
+
+238, 1	513, 1-3	TRA	fath â be	---	NSNT
+
+
+239, 1	514, 1-4	GAI	dw ddim yn gwybod	---	NSNT
+
+
+240, 1	515, 1-8	TRA	pethau fath â excited dw i yn iwsio	---	SNT
+
+
+241, 1	516, 1-4	GAI	fath â excited *yeah*	---	ST
+
+
+242, 1	517, 1-15	TRA	ti ddim yn ti ddim yn ti ddim yn deud teimlo yn gyffrous nag wyt	---	NSNT
+
+
+243, 1	518, 1-4	GAI	teimlo yn gyffrous na	---	NSNT
+
+
+244, 1	519, 1-5	TRA	*well* na ti yn gallu	NST	NST
+244, 2	520, 1-9	TRA	dw ddim yn gweld dim_byd yn *wrong* efo hwnna	NST	NST
+244, 3	521, 1-7	TRA	*just* fi sy ddim yn deud hynna	---	NST
+
+
+245, 1	522, 1-11	GAI	ia fath â o'ch chdi ddeud ddoe efo *dad* chdi de	NST	NST
+245, 2	523, 1-4	GAI	mae hwnna yn *cool*	NST	NST
+245, 3	526, 1-4	GAI	basa chdi byth deud	NSNT	NSNT
+245, 4	527, 1-5	GAI	mae dy drowsus yn ffasiynol	NSNT	NSNT
+245, 6	530, 1-6	GAI	*oh* mae mor funny *dad* ti	NST	ST
+245, 7	531, 1-2	GAI	rhyfedd though	SNT	SNT
+245, 8	532, 1-13	GAI	pan ti yn clywed ffrindiau chdi gyd yn siarad fath â Cymraeg perffaith	---	NSNT
+
+
+246, 1	533, 1-1	TRA	*well*	---	NST
+
+
+247, 1	534, 1-5	GAI	mewn prawf mae fath â	NSNT	NSNT
+247, 2	536, 1-8	GAI	*oh* na ti efo ffrindiau Cymraeg though dwyt	NST	ST
+247, 3	538, 1-3	GAI	*Delyth* a rheina	NST	NST
+247, 4	540, 1-7	GAI	ti cofio pan ddoth hi at *Rhodri_Morgan*	NST	NST
+247, 5	541, 1-3	GAI	oedda chdi yna	SNT	NSNT
+247, 6	543, 1-8	GAI	excuse *me* pryd dan ni cael darn Cymraeg	NST	ST
+247, 7	544, 1-3	GAI	oedd o yn	---	NSNT
+
+
+248, 1	545, 1-4	TRA	bod hanner awr wan	---	NSNT
+
+
+249, 1	546, 1-2	GAI	ddim gwybod	---	NSNT
+
+
+250, 1	547, 1-1	TRA	ofyn	---	NSNT
+
+
+251, 1	548, 1-8	GAI	*oh* mae *Alun* wedi cael llwyfan efo *Richard_Burton*	---	NST
+
+
+252, 1	549, 1-1	TRA	*Alan*	NST	NST
+252, 2	550, 1-2	TRA	*oh* *Alun*	---	NST
+
+
+253, 1	551, 1-1	GAI	*Alun*	ST	NST
+253, 2	552, 1-6	GAI	*Alun* ac *Ifan* a Gwyn a	NST	NST
+253, 3	553, 1-2	GAI	ti mynd	---	NSNT
+
+
+254, 1	554, 1-7	TRA	faint o amser oedden ni fod am	---	NSNT
+
+
+255, 1	555, 1-3	GAI	dw ddim gwybod	NSNT	NSNT
+255, 2	556, 1-6	GAI	dan ni ddim wedi deud dim_byd	NSNT	NSNT
+255, 3	556, 7-7	GAI	naddo	---	NSNT
+
+
+256, 1	557, 1-2	TRA	dan ni	NSNT	NSNT
+256, 2	557, 3-6	TRA	wedi bod hanner awr	---	NSNT
+
+
+257, 1	558, 1-3	GAI	dw ddim gwybod	NSNT	NSNT
+257, 2	559, 1-4	GAI	achos aethon ni *off*	---	NST
+
+
+258, 1	560, 2-3	TRA	dan ni	NSNT	NSNT
+258, 2	560, 4-7	TRA	wedi bod hanner awr	---	NSNT
+
+
+259, 1	561, 1-5	GAI	ia ond dw ddim gwybod	---	NSNT
+
+
+260, 1	562, 1-8	TRA	do achos ugain munud i ar *phone* fi	NST	NST
+260, 2	562, 9-11	TRA	wnaethon ni ddechrau	NSNT	NSNT
+260, 3	563, 1-5	TRA	mae ddeg munud wedi wan	---	NSNT
+
+
+261, 1	565, 1-1	GAI	be	NSNT	NSNT
+261, 2	566, 1-8	GAI	*oh* ti gwybod be dw i really *skint*	ST	ST
+261, 3	567, 1-1	GAI	achos	---	NSNT
+
+
+262, 1	568, 1-2	TRA	be *sorry*	---	NST
+
+
+263, 1	569, 1-9	GAI	ti gwybod o'n i yn gweithio yn *cafe* de	NST	NST
+263, 2	571, 1-5	GAI	ia ges i yr *sack*	---	NST
+
+
+264, 1	572, 1-1	TRA	pam	---	NSNT
+
+
+265, 1	573, 1-5	GAI	achos bod fi yn *slow*	---	NST
+
+
+266, 1	574, 1-1	TRA	*serious*	---	NST
+
+
+267, 1	575, 1-6	GAI	ia oedd ddynes fath â *oh*	---	NST
