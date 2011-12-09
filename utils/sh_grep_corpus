@@ -22,6 +22,7 @@
 #If not, see <http://www.gnu.org/licenses/>.
 #*********************************************************************
 #*/ 
+
 # This script uses ack-grep to find instances of a particular string in all the files in the corpus.
 # http://betterthangrep.com/
 
@@ -37,7 +38,6 @@
 FILES=inputs/patagonia/beta/*.cha
 #FILES=devstuff/webster/*
 
-
 # set up the regex for grep to use
 #STRING='[[:blank:]]dyn nhw'  # dyn nhw preceded by a space (line-medial) or tab (line-initial) - otherwise you get instances of iddyn nhw
 #STRING='[^(id)]dyn nhw'  # an alternative to the above, 
@@ -51,8 +51,8 @@ FILES=inputs/patagonia/beta/*.cha
 #STRING='[a-z]-[a-z]'
 #STRING='[[:blank:]]i (ffwrdd|fynylawr|gyd|mewn|fewn) '
 #STRING='([[:blank:]]yn) ((ôl) )'
-#STRING='([[:blank:]]hanodd )'
-STRING='\*[A-Z]{3}:\t.*ll'  # select ll only in speaker tier (for Sarah's project) - grep -v '\[- spa\]' sarah_ll.txt > output.txt to remove precode lines (ie lines in Spanish); %snd:.[^_]*_ to remove old-style sound-bullets
+STRING='([[:blank:]]anodd )'
+#STRING='\*[A-Z]{3}:\t.*ll'  # select ll only in speaker tier (for Sarah's project) - grep -v '\[- spa\]' sarah_ll.txt > output.txt to remove precode lines (ie lines in Spanish); %snd:.[^_]*_ to remove old-style sound-bullets
 #STRING='[[:blank:]]nine_deg'
 
 for f in $FILES

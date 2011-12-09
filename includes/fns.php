@@ -184,10 +184,10 @@ function revert_punctuation($text)
 }
 
 function fix_transcription($text)
-// Apparent transcription errors
+// Apparent transcription errors.  Formerly used in cgimport.php, but omitted now because its relevance to the new corpora is much less.  The gloss line fix, for instance, should be put into prepare_file.php.
 {
 	$text=preg_replace("/(\d)\./", "$1 .", $text);  // split period from a preceding @1 or @2; examples seem to be errors - usually the period has a space between it and the last word of the utterance; also need to cover new-style language tags
-	//$text=preg_replace("/([a-z])\./", "$1 .", $text);  // split period from preceding a-z; we should limit this to the end of the utterance, but we can't use $ here because it is not the end of the line; if necessary, we can do a tighter regex later; this will also catch patagonia-style language tags which have a period immediately following in error; unfortunately, this craps all over siarad-style glosses - it separates the the verb from the tags, so that we get "say .2S.IMPER", which is then imported incorrectly over two slots
+	//$text=preg_replace("/([a-z])\./", "$1 .", $text);  // split period from preceding a-z; we should limit this to the end of the utterance, but we can't use $ here because it is not the end of the line; if necessary, we can do a tighter regex later; this will also catch patagonia-style language tags which have a period immediately following in error; WRONG - unfortunately, this craps all over siarad-style glosses - it separates the the verb from the tags, so that we get "say .2S.IMPER", which is then imported incorrectly over two slots
 	$text=preg_replace("/(\d)\[/", "$1 [", $text);  // split an opening square bracket from the preceding tag
 	$text=preg_replace("/(\%gls:\t)\s/", "$1", $text);  // remove errant space from beginning of gloss lines if it occurs	
 	return $text;
@@ -198,6 +198,7 @@ function lineclean_surface($text)
 // Note that the order of the following lines is important.
 // Language tags using + are converted to % and back again.  Language tags using & need to be entered in the list of escaped sequences.
 {
+    //$text=preg_replace("/\+/u", " ", $text);  // For CIG files.
 
 	$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1%$2", $text);  // Move language tags containing + out of the way (the main cleaning line removes all +s).
 	$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})/", "$1%%$2", $text);  // Move language tags containing & out of the way (the main cleaning line removes all &s).  NOTE - no longer required?
@@ -240,6 +241,44 @@ function wordclean_surface($text)
 // Make corrections to the individual words in the %gls tier.
 {
     $text=preg_replace("/:/u", "", $text);  // Remove length-marking (eg no:)
+    return $text;
+}
+
+function wordclean_hist($text)
+// Make corrections to the individual words in monolingual text in the Historical Corpus.
+{
+    $text=preg_replace("/[:;,!\?\.\(\)]/u", "", $text);  
+    $text=preg_replace("/^''r/u", "yr", $text);
+    $text=preg_replace("/^''n/u", "yn", $text);
+    $text=preg_replace("/^''m/u", "fy", $text);
+    $text=preg_replace("/^''i/u", "ei", $text);
+    $text=preg_replace("/^''u/u", "eu", $text);
+    $text=preg_replace("/^''w/u", "ei", $text);
+    $text=preg_replace("/^i''/u", "i", $text);
+    $text=preg_replace("/y''m/u", "ydym", $text);
+    $text=strtolower($text);  // This is a kludge which needs to be fixed in the lookup.
+    return $text;
+}
+
+function wordclean_cig($text)
+// Make corrections to the individual words in the CIG corpus.
+{
+    $text=preg_replace("/^''r/u", "yr", $text);
+    $text=preg_replace("/^''n/u", "yn", $text);
+    $text=preg_replace("/^''m/u", "ddim", $text);
+    $text=preg_replace("/^''i/u", "ei", $text);
+    $text=preg_replace("/^''u/u", "eu", $text);
+    $text=preg_replace("/^''w/u", "ei", $text);
+    $text=preg_replace("/^i''/u", "i", $text);
+    $text=preg_replace("/^''o/u", "fo", $text);
+    $text=preg_replace("/^''di/u", "wedi", $text);
+    $text=preg_replace("/^(''|o)dy/u", "ydy", $text);
+    $text=preg_replace("/^''fo/u", "efo", $text);
+    $text=preg_replace("/^ma''/u", "mae", $text);
+    $text=preg_replace("/^o''dd/u", "oedd", $text);
+    $text=preg_replace("/^''te/u", "ynte", $text);
+    $text=preg_replace("/^yn(1|2)$/u", "yn", $text);
+    $text=preg_replace("/:/u", "", $text);  // Remove length-marking (eg o:h)
     return $text;
 }
 
@@ -581,17 +620,18 @@ function tex_surface($text)
 	//$text=preg_replace("/\.\.\./", " \dots ", $text);
 	// Substitutions to handle IPA characters - remember to load the TIPA package in the header
 	// Valid:
-	$text=preg_replace("/ǝ/", "\\textipa{@}", $text);
+	$text=preg_replace("/ǝ/", "\\textipa{@} ", $text);
 	// Invalid (copy-and-pasted characters aren't recognised by the editor)
-	$text=preg_replace("/ʧ/", "\\textipa{tS}", $text);
-	$text=preg_replace("/ð/", "\\textipa{D}", $text);
-	$text=preg_replace("/ɛ/", "\\textipa{E}", $text);
-	$text=preg_replace("/ɪ/", "\\textipa{I}", $text);
-	$text=preg_replace("/ŋ/", "\\textipa{N}", $text);
-	$text=preg_replace("/ɔ/", "\\textipa{O}", $text);
-	$text=preg_replace("/ʃ/", "\\textipa{S}", $text);
-	$text=preg_replace("/θ/", "\\textipa{T}", $text);
-	$text=preg_replace("/ɬ/", "\\textbeltl", $text);
+	$text=preg_replace("/ʧ/", "\\textipa{tS} ", $text);
+	$text=preg_replace("/ð/", "\\textipa{D} ", $text);
+	$text=preg_replace("/ɛ/", "\\textipa{E} ", $text);
+	$text=preg_replace("/ɪ/", "\\textipa{I} ", $text);
+	$text=preg_replace("/ŋ/", "\\textipa{N} ", $text);
+	$text=preg_replace("/ɔ/", "\\textipa{O} ", $text);
+	$text=preg_replace("/ʃ/", "\\textipa{S} ", $text);
+	$text=preg_replace("/θ/", "\\textipa{T} ", $text);
+	$text=preg_replace("/ɬ/", "\\textbeltl ", $text);
+	$text=preg_replace("/ʔ/", "\\textglotstop ", $text);
 	return $text;
 }
 
@@ -978,6 +1018,22 @@ function lineclean_con($text)
 ?>
 <?php
 function wordclean_con($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_aut($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_aut($text)
 // Make corrections to the individual words in the tier.
 {
     // This is a dummy function - add code here.

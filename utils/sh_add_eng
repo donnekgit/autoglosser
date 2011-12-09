@@ -24,55 +24,40 @@
 #*/ 
 
 # This script adds an empty %eng tier after every speaker line not tagged with the precode [- eng].
-FILES=inputs/patagonia/beta/spa/*.cha
+#FILES=inputs/miami/beta/spa/*.cha
+FILES=inputs/miami/beta/sastre11_mod.cha
 for f in $FILES
 do
-# For mainly-Spanish files - add an empty %eng tier after every speaker line not tagged with the precode [- eng].
+
+# For mainly-Spanish files - append (a) an empty %eng tier after every speaker line NOT tagged with the precode [- eng].
 #echo "Processing $f ..."
-	sed -i '/\*[A-Z]*:\o011[^\[]/ a\
-%eng:\o011' $f
-# Do NOT indent the above line - it is split from the previous one to add a newline; an additional indent will give a tab at the beginning of the line.
-# For mainly-English files, we need two appends.
+#	sed -i '/\*[A-Z]*:\o011[^\[]/ a\
+#%eng:\o011' $f
+# Also add an empty %eng tier after every speaker line NOT tagged with the precode [- eng], preceded by continuation markers.
+#	sed -i '/\*[A-Z]*:\o011+[<^+,"] [^\[]/ a\
+#%eng:\o011' $f
+# Do NOT indent the above lines - they are split from the previous one to add a newline; an additional indent will give a tab at the beginning of each line.
+
+# For mainly-English files, we need three appends.
 # The first adds an empty %eng tier after every speaker line tagged with the precode [- spa].
-#	sed -i '/\*[A-Z]*:\o011\[/ a\
-#%eng:\o011' $f
-# The second adds an empty %eng tier after every speaker line containing a Spanish word.
-#	sed -i '/@s:spa/ a\
-#%eng:\o011' $f
-# Do NOT indent the above line - it is split from the previous one to add a newline; an additional indent will give a tab at the beginning of the line.
+	sed -i '/\*[A-Z]*:\o011\[/ a\
+%eng:\o011' $f
+# The second adds an empty %eng tier after every speaker line tagged with the precode [- spa], preceded by continuation markers.
+	sed -i '/\*[A-Z]*:\o011+[<^+,"] \[/ a\
+%eng:\o011' $f
+# The third adds an empty %eng tier after every speaker line containing a Spanish word.
+	sed -i '/@s:spa/ a\
+%eng:\o011' $f
+# Do NOT indent the above lines - they are split from the previous one to add a newline; an additional indent will give a tab at the beginning of each line.
+
 # Where an empty %eng tier has been added before one which already exists (eg the file translation is partially complete), remove the empty %eng tier again:
 	sed -i 'N;s/%eng:\o011\n\(%eng\)/\1/;P;D;' $f
+	
 # Remove the empty %eng tier where it consists solely of xxx or www or &= (eg &=laughs) ...
 	sed -i 'N;s/\(\o011xxx \. .*\n\)%eng.*/\1/;P;D;' $f
 	sed -i 'N;s/\(\o011www \. .*\n\)%eng.*/\1/;P;D;' $f
 	sed -i 'N;s/\(\o011&=.*\n\)%eng.*/\1/;P;D;' $f
-# ... and delete the empty line
+	
+# ... and delete any empty lines
 	sed -i '/^$/ d' $f
 done
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

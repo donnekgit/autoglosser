@@ -36,7 +36,7 @@ $string="^ta";
 $outfile="ta.tex";
 $outheader="ta- words";
 
-$fp = fopen("combiwords/$outfile", "w") or die("Can't create the file");
+$fp = fopen("combiwords/outputs/$outfile", "w") or die("Can't create the file");
 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)

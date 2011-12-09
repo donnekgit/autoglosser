@@ -52,7 +52,7 @@ analyse_cognates.php - analyse the filename_cognates table and write the externa
 
 select (maxloc-minloc)+1 as clause_length, count((maxloc-minloc)+1) as frequency from stammers4_cognates where speaker='ELE' group by clause_length  order by clause_length 
 
-results_table.php - read the trigger/codeswitch data from each table and add tehm to a cognate_results table.  This can then be fed into R.
+results_table.php - read the trigger/codeswitch data from each table and add them to a cognate_results table.  This can then be fed into R.
 
 
 
@@ -62,16 +62,9 @@ Things to look at
 
 Does it make sense not to count code-switches between speaker-turns?
 
-Count backward externals as well as forward ones.
-
 Reinsert reinforcers.
 
 Split at infinitives too.
-
-
-
-
-
 
 
 

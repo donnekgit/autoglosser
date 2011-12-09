@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file handles dictionary lookups in the Welsh dictionary, cylist.  First, the surface word is demutated, and then each of these is looked up, but only where the demutated word is actually different from the surface word.  Note that demutated words need to be looked up separately since in a few cases there are homophonous words without a mutation and words with a mutation.
+// This file handles dictionary lookups in the Welsh dictionary, cylist.  First, the surface word is demutated, and then each of these is looked up, but only where the demutated word is actually different from the surface word.  Note that demutated words need to be looked up separately since in a few cases there are homophonous pairs, one with a mutation and one without.
 
 //echo $surface."\n";
 $desoftsurface=de_soft($surface);

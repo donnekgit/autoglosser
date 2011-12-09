@@ -1,0 +1,5 @@
+Split the text at .?!:;
+Write out a split file.
+Import the split file into utterances.  DONE
+Wordify into words.
+

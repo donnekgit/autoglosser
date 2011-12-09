@@ -1,0 +1,43 @@
+ #!/bin/sh
+
+#/* 
+#*********************************************************************
+#Copyright Kevin Donnelly 2010, 2011.
+#kevindonnelly.org.uk
+#This file is part of the Bangor Autoglosser.
+#
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License and the GNU
+#Affero General Public License as published by the Free Software
+#Foundation, either version 3 of the License, or (at your option)
+#any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#and the GNU Affero General Public License along with this program.
+#If not, see <http://www.gnu.org/licenses/>.
+#*********************************************************************
+#*/ 
+
+# This script does a compressed dump of the _cgutterances and _cgwords table for each file in the corpus into a dump dir.
+# The --clean option means that the file will include SQL commands to drop the old table.
+# Use sh_global_update_corpus to import these compressed dumps back into a database.
+
+GZDIR=dbdevel/misc_dump  # Specify the dump dir.
+
+pg_dump -t combiwords_mi --clean autoglosser | gzip > $GZDIR/combiwords_mi.sql.gz
+pg_dump -t combiwords_pat --clean autoglosser | gzip > $GZDIR/combiwords_pat.sql.gz
+pg_dump -t combiwords_siar --clean autoglosser | gzip > $GZDIR/combiwords_siar.sql.gz
+pg_dump -t combiwords_mi_uniq --clean autoglosser | gzip > $GZDIR/combiwords_mi_uniq.sql.gz
+pg_dump -t combiwords_pat_uniq --clean autoglosser | gzip > $GZDIR/combiwords_pat_uniq.sql.gz
+pg_dump -t combiwords_siar_uniq --clean autoglosser | gzip > $GZDIR/combiwords_siar_uniq.sql.gz
+pg_dump -t freq_miami --clean autoglosser | gzip > $GZDIR/freq_miami.sql.gz
+pg_dump -t freq_patagonia --clean autoglosser | gzip > $GZDIR/freq_patagonia.sql.gz
+pg_dump -t freq_siarad --clean autoglosser | gzip > $GZDIR/freq_siarad.sql.gz
+pg_dump -t patagonia_sp --clean autoglosser | gzip > $GZDIR/patagonia_sp.sql.gz
+pg_dump -t miami_sp --clean autoglosser | gzip > $GZDIR/miami_sp.sql.gz
+pg_dump -t siarad_sp --clean autoglosser | gzip > $GZDIR/siarad_sp.sql.gz

@@ -106,18 +106,14 @@ foreach ($lines as $line)
         $speaker=preg_replace("/\*/", "", $surface_line[0]);  // Delete the asterisk before the speaker_id.
         $rest=$surface_line[1];
         
-        list($surface_pc, $timing)=explode('', $rest);  // NAK is Unicode 0015; split at this character.
+        list($surface, $timing)=explode('', $rest);  // NAK is Unicode 0015; split at this character.
+        
         // Strip off and store the precode, if any
-		if (preg_match("/^\[- [a-z]{3}\]/", $surface_pc))  // If the segment contains square brackets with a dash and a three-letter code.
+		if (preg_match("/(?P<precode>\[- ?[a-z]{3}\])/", $surface, $pc))  // If the segment contains square brackets with a dash and a three-letter code.  Allow for people leaving out the space after the hyphen.
 		{
-			list($precode, $surface)=explode(']', $surface_pc, 2);
-			// We need to limit the explodes, or all items in square brackets will be hit, hence specify a split into two pieces.
-			$precode=trim(preg_replace("/\[- ?/", "", $precode));
-			// Delete [- from the precode.  Allow for people leaving out the space after the hyphen.
-		}
-		else
-		{
-			$surface=fix_transcription($surface_pc);  // Applied here so that it only bites on the surface segment, not on the translation or comments.
+			$surface=preg_replace("/\[- ?[a-z]{3}\]/", "", $surface);
+			$precode=trim(preg_replace("/\[- ?/", "", $pc[precode]));
+			$precode=trim(preg_replace("/\]/", "", $precode));
 		}
 
         if (isset($timing))

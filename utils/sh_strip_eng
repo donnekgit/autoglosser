@@ -1,0 +1,62 @@
+#!/bin/sh
+
+#/* 
+#*********************************************************************
+#Copyright Kevin Donnelly 2010, 2011.
+#kevindonnelly.org.uk
+#This file is part of the Bangor Autoglosser.
+#
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License and the GNU
+#Affero General Public License as published by the Free Software
+#Foundation, either version 3 of the License, or (at your option)
+#any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#and the GNU Affero General Public License along with this program.
+#If not, see <http://www.gnu.org/licenses/>.
+#*********************************************************************
+#*/ 
+
+# This script strips empty %eng tiers from patagonia files, and also removes the old-style bullet marking.
+FILES=inputs/miami/beta/sastre11_mod.cha
+
+for f in $FILES
+do
+	echo "Processing $f ..."
+	sed -i '/%eng:\s$/ d' $f
+	#sed -i '/%eng/ d' $f  # Strip all %eng tiers
+	sed -i 's/%snd:"patagonia[0-9][0-9]\?"_//g' $f
+done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

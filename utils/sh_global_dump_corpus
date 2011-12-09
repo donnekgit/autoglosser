@@ -28,8 +28,8 @@
 # Use sh_global_update_corpus to import these compressed dumps back into a database.
 
 #FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
-FILES=inputs/patagonia/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
-GZDIR=dbdevel/patagonia_dump  # Specify the dump dir.
+FILES=inputs/siarad/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
+GZDIR=dbdevel/siarad_dump  # Specify the dump dir.
 
 for f in $FILES
 do
@@ -38,4 +38,5 @@ do
 	echo "Processing $chat ..."
 	pg_dump -t ${chat}_cgutterances --clean autoglosser | gzip > $GZDIR/${chat}_cgutterances.sql.gz
 	pg_dump -t ${chat}_cgwords --clean autoglosser | gzip > $GZDIR/${chat}_cgwords.sql.gz
+	#pg_dump -t ${chat}_cognates --clean autoglosser | gzip > $GZDIR/${chat}_cognates.sql.gz
 done

@@ -1,6 +1,13 @@
 Changelog
 
 
+
+7/12/2011
+Allow for CLAN continuation markers (linkers) to come before precodes.
+Initial work to allow reading of running monolingual text (Historical Corpus).
+Revise codeswitch counter to allow for all words in a line being triggers.
+Additional functions to handle historical corpus and CIG corpus.
+
 24/11/2011
 Further work on codeswitches.
 Generate concordance of utterances for individual words.

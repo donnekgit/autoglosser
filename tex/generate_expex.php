@@ -59,17 +59,28 @@ foreach ($lines as $line)
 include("tex/get_details.php");  // Write a preamble to the file by using information from the chat file header.
 
 $surface='';
-// An empty variable has to be set up here, otherwise the concatenation $surface.=$row_w->surface." "; below will result in the first line of the text having a preceding dot.
+$auto='';
+// An empty variable has to be set up here, otherwise the concatenation $surface.=$row_w->surface." "; below will result in the first line of the text having a preceding dot.  A similar point applies to $auto, which will otherwise attach the last gloss in the file to the first item.
 
 $sql_s="select * from $utterances order by utterance_id";
 $result_s=pg_query($db_handle,$sql_s) or die("Can't get the items");
 while ($row_s=pg_fetch_object($result_s))
 {
 	$precode=$row_s->precode;
+	$precode=($precode=="") ? "" : "[- ".$precode."] ";
 	echo $precode."\n";
 	
-	$chat=tex_surface($row_s->surface);
-	
+	$chat=$row_s->surface;
+	if (preg_match("/^(?P<link>\+[<^\+\",])/", $chat, $linker))  // Keep continuation markers at the beginning of the line.
+	{
+		$chat=preg_replace("/^(\+[<^\+\",] )/", "", $chat);
+		$chat=$row_s->speaker.":\t".$linker[link]." ".$precode.$chat;
+	}
+	else
+	{
+		$chat=$row_s->speaker.":\t".$precode.$chat;
+	}
+
     $sql_w="select * from $words where utterance_id=$row_s->utterance_id and langid!='999' order by location";
 	$result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
 	while ($row_w=pg_fetch_object($result_w))
@@ -117,7 +128,7 @@ while ($row_s=pg_fetch_object($result_s))
 		
 		$row_w->auto=tex_auto($row_w->auto);
 		//$row_w->auto=tex_pos_colour($row_w->auto);  // Uncomment to get colour-coded POS tags.
-		$auto.=$row_w->auto." ";
+		$auto.=$row_w->auto." "; // Note that you  need to set up an empty $auto first - see above.
 
 		$row_w->gls=tex_auto($row_w->gls);
 		$gls.=$row_w->gls." ";
@@ -128,29 +139,27 @@ while ($row_s=pg_fetch_object($result_s))
 
 	$begingl="\ex\n\begingl\n";
 	fwrite($fp, $begingl);
-	
-	$precode=($precode=="") ? "" : "[- ".$precode."]";
 
-	$wchat="\glpre ".$row_s->speaker.": ".$precode." ".$chat." //\n";
+	$wchat="\glpre ".tex_surface($chat)." //\n";
 	echo $wchat."\n";
 	fwrite($fp, $wchat);
 
 	if ($surface!='')  // Provided there is verbal content in the line ...
 	{
-		$wsurface="\gla ".$row_s->speaker.": ".$precode." ".$surface." //\n";
+		$wsurface="\gla ".$row_s->speaker.": ".$surface." //\n";
 		echo $wsurface."\n";
 		fwrite($fp, $wsurface);
 		
-		$wauto="\glb \\textbf{aut:} ".$precode." ".$auto." //\n";  // Autogloss tier.
+		$wauto="\glb \\textbf{aut:} ".$auto." //\n";  // Autogloss tier.
 		echo $wauto."\n";
 		fwrite($fp, $wauto);
 /*
-		$wgls="\glc \\textbf{gls:} ".$precode." ".$gls." //\n";  // Human gloss tier.
+		$wgls="\glc \\textbf{gls:} ".$gls." //\n";  // Human gloss tier.
 		echo $wgls."\n";
 		fwrite($fp, $wgls);
 */
 /*
-		$wmor="\glb \%mor ".$precode." ".$mor." //\n";  // MOR/POST tier.
+		$wmor="\glb \%mor ".$mor." //\n";  // MOR/POST tier.
 		echo $wmor."\n";
 		fwrite($fp, $wmor);
 */

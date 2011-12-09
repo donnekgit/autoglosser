@@ -418,7 +418,7 @@ select ([cy] "cylch" n) if (-1 ("o" prep));  # o gylch dada
 select ([cy] "cân" n) if (-1 ("canu" v) or (n));  # yn canu cân, ysgol gân
 select ([cy] "ardal" n) if (-1 ("yn" stat)) (1 ([cy] adj));  # yn ardal tlws
 
-select ("man" :place:) if (1 ("acw" adv) or ("hyn" adj.dem) or ("hynny" adj.dem) or ("yna" adv) or ("yno" adv) or ("yma" adv));  # fan hyn, fan yna, fan yma
+select ("man" :place:) if (1 ("acw" adv) or ("hwn" adj.dem) or ("hwnnw" adj.dem) or ("yna" adv) or ("yno" adv) or ("yma" adv));  # fan hyn, fan yna, fan yma
 
 select ("Mawrth" :March:) if (-1 ("mis" n));
 select ("Mawrth" :Tuesday:) if (-1 ("dydd" n) or ("nos" n));

@@ -124,6 +124,8 @@ fwrite($fp, "\\textbf{Date}: ".$mydmy.".\n");
 
 fwrite($fp, "\\textbf{Transcriber}: ".trim($coder[1]).".\n");
 
+fwrite($fp, "\\textbf{Note}: There may be an error rate of up to 2\% in the glosses generated.\n");
+
 fwrite($fp, "\end{abstract}\n\n");
 
 fwrite($fp, "\\rule{\linewidth}{0.2mm}\n\n");

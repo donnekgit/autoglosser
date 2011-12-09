@@ -58,7 +58,12 @@ foreach ($files as $file)
 			if ($row_int->internal=="SNT") { $int_snt=$row_int->number; }
 			if ($row_int->internal=="NSNT") { $int_nsnt=$row_int->number; }
 		}
-
+		
+		$ext_st=(isset($ext_st)) ? $ext_st : 0;  // Set to 0 if there are no instances, or the insert query will fail.
+		$ext_snt=(isset($ext_snt)) ? $ext_snt : 0;
+		$int_st=(isset($int_st)) ? $int_st : 0;	
+		$int_snt=(isset($int_snt)) ? $int_snt : 0;
+		
 		$write1=query("insert into $results (filename, ext_na, ext_st, ext_nst, ext_snt, ext_nsnt, int_st, int_nst, int_snt, int_nsnt) values ('$filename', $ext_na, $ext_st, $ext_nst, $ext_snt, $ext_nsnt, $int_st, $int_nst, $int_snt, $int_nsnt)");
 	}
 	

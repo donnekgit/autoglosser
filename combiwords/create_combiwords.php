@@ -26,7 +26,7 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus="pat";
+$corpus="cig";
 $combi_table="combiwords_".$corpus;
 
 drop_existing_table($combi_table);

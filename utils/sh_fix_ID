@@ -24,6 +24,7 @@
 #*/ 
 
 # This script fixes instances of cy, es in the file headers that were not handled properly by an earlier iteration of langid_header.php.
+
 FILES=inputs/patagonia/beta/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
 for f in $FILES
