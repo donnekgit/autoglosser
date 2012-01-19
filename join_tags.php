@@ -39,6 +39,7 @@ while ($row=pg_fetch_object($result))
 {
 	$enlemma=$row->enlemma.".";
 	$pos=($row->pos=='') ? "" : $row->pos.".";
+	$pos=preg_replace("/(\.archaic|\.amer|\.err|\.literary|\.north|\.nstan|\.pat|\.short|\.vulg)$/", "", $pos);  // Remove value-judgement tags.
     $extra=($row->extra =='') ? "" : "+".$row->extra.".";  // needs to be changed to = to follow the Leipzig glossing rules
     $seg=($row->seg =='') ? "" : "+".$row->seg;  // needs to be changed to = to follow the Leipzig glossing rules
 	$combined1=$pos.$extra.$seg;

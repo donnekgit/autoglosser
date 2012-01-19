@@ -1,6 +1,15 @@
 Changelog
+=======
 
+17/01/2012
+Export files to format that is easier for translators.
+Begin system for manual edits.
 
+16/12/2011
+Add vvv to empty %eng tiers so that they pass CHECK.
+
+14/12/2011
+Add line in join_tags to remove value-judgement tags from the output.
 
 7/12/2011
 Allow for CLAN continuation markers (linkers) to come before precodes.
@@ -61,9 +70,9 @@ Revise preparation and import process to handle Miami corpus - easier workflow.
 28/06/2011
 Fix bugs in mc collocation stuff, and improve workflow (more to be done).
 
-27/6/2011
+27/06/2011
 Select and handle noun+adjective collocations.
 
-25/6/2011
+25/06/2011
 File prep now fixes typos where no space precedes the period.
 Initial angle bracket no longer eats pre-backtrack words when importing in MOR mode.

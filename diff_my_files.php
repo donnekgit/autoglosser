@@ -31,16 +31,34 @@ if (empty($filename))
 	include("/opt/autoglosser/config.php");
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
+$capfile=ucfirst($filename);
 
 include("includes/finediff.php");
 
 // We need some mechanism (in apply_traced_cg.php?) to save the current autoglossed.txt as autoglossed_old.txt.
-$old_file="outputs/$filename/".$filename."_autoglossed.old";
+//$old_file="outputs/$filename/".$filename."_autoglossed.old";
+$old_file="inputs/patagonia/autoglossed/".$filename.".cha";
 $new_file="outputs/$filename/".$filename."_autoglossed.txt";
 
 $fp=fopen("outputs/$filename/".$filename."_diff.tex", "w") or die("Can't create the file");
-$header=file_get_contents('cognates/tex_header.tex');
-fwrite($fp, "$header");
+
+//$header=file_get_contents('cognates/tex_header.tex');
+//fwrite($fp, "$header");
+
+$lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
+foreach ($lines as $line)
+{
+	if (preg_match("/filename/", $line))  // replace the holder in the TeX file with the name of the conversation
+	{
+		$line=preg_replace("/filename/", "$capfile diffs from previous version", $line);
+	}
+	else
+	{
+		$line=$line;
+	}
+	//echo $line."\n";
+	fwrite($fp, $line);
+}
 
 exec("diff $old_file $new_file", $diff_output);  // Diff the two documents.
 foreach ($diff_output as $diff_line)  // Store all diff info in the $thisline array.
@@ -68,15 +86,15 @@ foreach ($diff_output as $diff_line)  // Store all diff info in the $thisline ar
 foreach ($thisline as $thisdiff)  // Loop through the $thisline array, picking out the lines highlighted by diff and feeding them to FineDiff.
 {
 	echo "\033[1m".$thisdiff[0]."\033[0m\n";  // Write the line number in the old text.
-	fwrite($fp, "\\textbf{".$thisdiff[0]."} \\\\ \n");
+	fwrite($fp, $thisdiff[0].": ");
 
 	$prevline=$thisdiff[0]-1;
-	$surface=exec("sed -n ".$prevline."p devstuff/pat5_a.txt");  // Get the utterance line before the autogloss line.
+	$surface=exec("sed -n ".$prevline."p $old_file");  // Get the utterance line before the autogloss line.
 	list($surface, $timing)=explode('', $surface);  // Remove the timing info.
 	$surface=substr($surface, 0, -1);
 	
 	echo $surface."\n";  // Write the utterance line.
-	fwrite($fp, "\\textit{".tex_surface($surface)."} \\\\ \n");
+	fwrite($fp, "\\textbf{".tex_surface($surface)."} \\\\ \n");
 
 	$old_text=substr($thisdiff[1], 3);  // Remove the "< " from the old text.
 	$new_text=substr($thisdiff[2], 3);  // Remove the "> " from the new text.
@@ -95,7 +113,7 @@ foreach ($thisline as $thisdiff)  // Loop through the $thisline array, picking o
 	$coloured_diff=preg_replace("/<ins>/", "\033[30;42m", $coloured_diff);  // Set black text, green background.
 	$coloured_diff=preg_replace("/<\\/ins>/", "\033[0m", $coloured_diff);  // Reset to default.
 	$coloured_diff=preg_replace("/ /", " / ", $coloured_diff);  // Insert a slash between lexeme+POS groups.
-	echo $coloured_diff."\n\n";
+	//echo $coloured_diff."\n\n";
 
 	// Edit the HTML to view in LaTeX:
 	$tex_diff=$rendered_diff;

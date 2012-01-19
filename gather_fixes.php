@@ -23,36 +23,22 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-include("includes/fns.php");
-include("/opt/autoglosser/config.php");
+// This script takes all the entries in cgwords showing a manual fix, and aggregates them into a prepub table, whose contents can then be applied to any regnerations of the cgwords file.
 
-// Generate default names from the filepath given
-list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+if (empty($filename))
+{
+	include("includes/fns.php");
+	include("/opt/autoglosser/config.php");
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+}
+$prepub=$filename."_prepub";
 
-echo $chafile."\n";
-echo $filename."\n";
-echo $utterances."\n";
-echo $words."\n";
-echo $cgfinished."\n";
+// Uncomment when this is run initially, so that the table can be created.
+//echo "*\n*\nCreating the $prepub table\n*\n*\n";
+//include("create_prepub.php");
 
-//include("cognates/extend_cgwords.php");
+$sql=query("insert into $prepub (utterance_id, location, surface, auto, fix, speaker, langid, filename) select utterance_id, location, surface, auto, fix, speaker, langid, filename from forum_cgwords where fix!=''");
 
-//include("cognates/mark.php");
-
-//include("cognates/adjust_deletes.php");
-
-//include("cognates/adjust_moves.php");
-
-//include("cognates/segment.php");  // Can write _split.txt.
-
-//include("cognates/reinforcers.php");
-
-include("cognates/insert_triggers.php");
-
-include("cognates/write_rei.php");  // Can write_spk.txt
-
-include("cognates/write_cognates.php");  // Can write _spkturn.txt
-
-include("cognates/analyse_cognates.php");  // Writes _cog.txt
+// Either add the additional records, and delete, or else add only where not already present.
 
 ?>

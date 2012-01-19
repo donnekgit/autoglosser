@@ -23,41 +23,51 @@
 #*********************************************************************
 #*/ 
 
-# This script adds an empty %eng tier after every speaker line not tagged with the precode [- eng].
+# This script adds an %eng tier after every speaker line not tagged with the precode [- eng].  The line contains"vvv", so that the file will still pass CHECK.
+# To remove %eng: vvv lines, run: sed -i '/^%eng:\tvvv$/ d' inputs/miami/beta/file.cha 
+
 #FILES=inputs/miami/beta/spa/*.cha
-FILES=inputs/miami/beta/sastre11_mod.cha
+FILES=inputs/miami/beta/herring14.cha
+
 for f in $FILES
 do
+echo "Processing $f ..."
 
-# For mainly-Spanish files - append (a) an empty %eng tier after every speaker line NOT tagged with the precode [- eng].
-#echo "Processing $f ..."
-#	sed -i '/\*[A-Z]*:\o011[^\[]/ a\
-#%eng:\o011' $f
-# Also add an empty %eng tier after every speaker line NOT tagged with the precode [- eng], preceded by continuation markers.
-#	sed -i '/\*[A-Z]*:\o011+[<^+,"] [^\[]/ a\
-#%eng:\o011' $f
-# Do NOT indent the above lines - they are split from the previous one to add a newline; an additional indent will give a tab at the beginning of each line.
+# For mainly-Spanish files - append (a) an %eng tier after every speaker line NOT tagged with the precode [- eng].
+#	sed -i '/\*[A-Z]*:\o011[^[]/ a\
+#%eng:\o011vvv' $f
+# Do NOT indent the above line - it is split from the previous one to add a newline; an additional indent will give a tab at the beginning of the line.
+# Remove %eng tiers where the line includes [- eng] after continuation markers.
+#	sed -i 'N;s/\(\*[A-Z]*:\o011+[<^+,"] \[.*\n\)%eng:\o011vvv/\1/;P;D;' $f
 
 # For mainly-English files, we need three appends.
-# The first adds an empty %eng tier after every speaker line tagged with the precode [- spa].
+# The first adds an %eng tier after every speaker line tagged with the precode [- spa].
 	sed -i '/\*[A-Z]*:\o011\[/ a\
-%eng:\o011' $f
-# The second adds an empty %eng tier after every speaker line tagged with the precode [- spa], preceded by continuation markers.
+%eng:\o011vvv' $f
+# The second adds an %eng tier after every speaker line tagged with the precode [- spa], preceded by continuation markers.
 	sed -i '/\*[A-Z]*:\o011+[<^+,"] \[/ a\
-%eng:\o011' $f
-# The third adds an empty %eng tier after every speaker line containing a Spanish word.
+%eng:\o011vvv' $f
+# The third adds an %eng tier after every speaker line containing a Spanish word.
 	sed -i '/@s:spa/ a\
-%eng:\o011' $f
+%eng:\o011vvv' $f
 # Do NOT indent the above lines - they are split from the previous one to add a newline; an additional indent will give a tab at the beginning of each line.
 
-# Where an empty %eng tier has been added before one which already exists (eg the file translation is partially complete), remove the empty %eng tier again:
-	sed -i 'N;s/%eng:\o011\n\(%eng\)/\1/;P;D;' $f
-	
-# Remove the empty %eng tier where it consists solely of xxx or www or &= (eg &=laughs) ...
+# Remove (old) blank %eng lines if they exist, and then remove a vvv %eng tier which has been added before one which already exists (eg the file translation is partially complete), or a vvv %eng tier added after a Comment line:
+	sed -i '/%eng:\o011$/ d' $f
+	sed -i 'N;s/%eng:\o011vvv\n\(%eng\)/\1/;P;D;' $f
+	sed -i 'N;s/\(@Comment.*\n\)%eng:\o011vvv/\1/;P;D;' $f
+
+# Remove the %eng tier where the speaker tier consists solely of xxx ...
 	sed -i 'N;s/\(\o011xxx \. .*\n\)%eng.*/\1/;P;D;' $f
+	sed -i 'N;s/\(\o011+[<^+,"] xxx \. .*\n\)%eng.*/\1/;P;D;' $f
+# ... or www ...
 	sed -i 'N;s/\(\o011www \. .*\n\)%eng.*/\1/;P;D;' $f
+	sed -i 'N;s/\(\o011+[<^+,"] www \. .*\n\)%eng.*/\1/;P;D;' $f
+# ...or &= (eg &=laughs ...
 	sed -i 'N;s/\(\o011&=.*\n\)%eng.*/\1/;P;D;' $f
-	
+	sed -i 'N;s/\(\o011+[<^+,"] &=.*\n\)%eng.*/\1/;P;D;' $f
+
 # ... and delete any empty lines
 	sed -i '/^$/ d' $f
+	
 done

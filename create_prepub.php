@@ -23,36 +23,33 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-include("includes/fns.php");
-include("/opt/autoglosser/config.php");
+//include("includes/fns.php");
+//include("/opt/autoglosser/config.php");
 
-// Generate default names from the filepath given
-list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+//$filename=$_SERVER['argv'][1];
+//$fixes=$filename."_fixes";
 
-echo $chafile."\n";
-echo $filename."\n";
-echo $utterances."\n";
-echo $words."\n";
-echo $cgfinished."\n";
+drop_existing_table($prepub);
 
-//include("cognates/extend_cgwords.php");
+$sql_table = "
+CREATE TABLE $prepub (
+    id serial NOT NULL,
+    utterance_id integer,
+    location integer,
+    surface character varying(100),
+    auto character varying(250),
+    fix character varying(250) default '',
+    nf character varying(10) default '',
+    speaker character varying(10),
+    langid character varying(20),
+	filename character varying(50)
+);
+";
+$result_table=pg_query($db_handle, $sql_table);
 
-//include("cognates/mark.php");
-
-//include("cognates/adjust_deletes.php");
-
-//include("cognates/adjust_moves.php");
-
-//include("cognates/segment.php");  // Can write _split.txt.
-
-//include("cognates/reinforcers.php");
-
-include("cognates/insert_triggers.php");
-
-include("cognates/write_rei.php");  // Can write_spk.txt
-
-include("cognates/write_cognates.php");  // Can write _spkturn.txt
-
-include("cognates/analyse_cognates.php");  // Writes _cog.txt
+$sql_pkey = "
+ALTER TABLE ONLY ".$prepub." ADD CONSTRAINT ".$prepub."_pk PRIMARY KEY (id);
+";
+$result_pkey=pg_query($db_handle, $sql_pkey);
 
 ?>

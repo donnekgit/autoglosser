@@ -142,6 +142,8 @@ remove ("gwelwi" [cy] :dim:);
 #remove ("gyrru" v 2s imper :drive:);
 remove ("hogi" [cy] :whet:);
 remove ("huno" [cy] :sleep:); 
+remove ("llestru" [cy] :put_into_a_vessel:); 
+remove ("llestrio" [cy] :put_into_a_vessel:); 
 remove ("meddu" v 3s imperf);
 remove ("naddu" v :carve:);
 remove ("nosi" v :become_night_:);
@@ -346,10 +348,11 @@ select ([cy] "mi" pron 1s) if (-1 ([cy] v infin)) (not 1 ("mi" pron) or (name) o
 select ([cy] "mi" pron 1s) if (1 ([cy] "yn" stat)) (2 ([cy] v infin));  # fi yn gallu
 select ([cy] "mi" pron 1s) if (1 ([cy] "hefyd" adv));  # fi hefyd
 
-select ([cy] "fo" pron 3s) if (-1 ([cy] v infin)) (not 1 ("fo" pron));  # i gael o
+select ([cy] "fo" pron 3s) if (-1 ([cy] v infin)) (not 1 ("fo" pron));  # i gael o  # add SM to the verb??
 
 select ([cy] "ei" :her:) if (1 (am));
 select ([cy] "ei" :her:) if (-1 ("yn" stat)) (1 (v infin)) (2 ("hi" pron f 3s));  # yn ei gweld hi
+
 select ([cy] "ei" :his:) if (-1 ("yn" stat)) (1 (v infin)) (2 ("fo" pron m 3s));  # yn ei licio fo
 select ([cy] "ei" :her:) if (1 (n) or (v infin)) (2 (pron f 3s));  # Eleri oedd ei enw hi, ei helpu ddi
 
@@ -493,6 +496,9 @@ select ([cy] "rhydd" adj) if (-1 ([cy] "yn" stat));  # yn rhydd
 
 select ([cy] "rhy" adj) if (1 (adj));  # rhy gyflym
 
+select ([cy] "cyfan" adj) if (not -1 (det.def));  # diwrnod arall cyfan
+
+
 # Verbs
 
 remove ([cy] v imper sm);  # yn mis May fydd yn dod
@@ -608,10 +614,9 @@ substitute (adj.dem) (pron) ([cy] adj.dem) if (not -1 (n));  # gymaint o hwnnw
 substitute (v infin :hold:) (adv :still:) ("dal" [cy] v infin) if (1 ("wedi" prep) or ("yn" stat) or ("i" prep));  # dal wedi recordio, yn dal i ymarfer
 
 
-# Residual selection
+# Residual selection - Deprecated: do this now in the autofix tables.
 # Make a default choice; this is intended to get rid of most [or]s
 # Note that these rules don't like you using the :meaning: in the definition.
-# Should these not be ANDs?
 
 select ([cy] v infin) if (0C ([cy] v infin) or ([cy] v 3s imper));  # cerdded - C enforces the two conditions; without this, only the former bites, and the rule will apply when you have (eg) (v 2s pres) as the second condition.
 select ([cy] v infin) if (0C ([cy] v infin) or ([cy] v 2s imper));  # siarad
@@ -624,8 +629,8 @@ select ([cy] v imper) if (0C ([cy] v 2p imper) or ([cy] v 2p pres));  # esgusodw
 
 select ([cy] prt :neg:) if (0C ([cy] "na" prt) or ([cy] "na" pron.rel.neg) or ([cy] "na" conj) or ([cy[ "na" conj));
 
-select ([cy] adj.poss :his:) if (0C ([cy] adj.poss :his:) or ([cy] adj.poss :her:));  # collapse ei-m and ei-f to ei-m
-substitute (:his:) (:3S:) ([cy] adj.poss :his:);  # adjust lexeme to be non-gender specific
+select ([cy] adj.poss :his:) if (0C ([cy] adj.poss m) or ([cy] adj.poss f));  # collapse ei-m and ei-f to ei-m
+#substitute (:his:) (:3S:) ([cy] adj.poss :his:);  # adjust lexeme to be non-gender specific
 
 
 

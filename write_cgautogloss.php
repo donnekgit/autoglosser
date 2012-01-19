@@ -72,8 +72,9 @@ while ($row_s=pg_fetch_object($result_s))
 	}
     fwrite($fp, $speech);
 
-
-	// Comment this section out if you want to write out a file directly from the utterances table
+//*****************
+/*
+// Comment this section out if you want to write out a file directly from the utterances table
 	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
     while ($row_w=pg_fetch_object($result_w))
@@ -82,15 +83,16 @@ while ($row_s=pg_fetch_object($result_s))
     }
     $auto="%aut:\t".preg_replace('/ $/','',$auto)."\n";
 
-	if (preg_match("/^\*[A-Z]{3}:\txxx \./", $speech) or preg_match("/^\*[A-Z]{3}:\twww \./", $speech) or preg_match("/^\*[A-Z]{3}:\t&=.* \./", $speech))
+	if (preg_match("/^\*[A-Z]{3}:\txxx \./", $speech) or preg_match("/^\*[A-Z]{3}:\twww \./", $speech) or preg_match("/^\*[A-Z]{3}:\t&=.[^ ]* \./", $speech))  // delete the %aut tier for surface tiers that consist only of xxx, www, or &=laugh, etc.
 	{
 	}
 	else
 	{
 		fwrite($fp, $auto);
 	}
-	// End of section to be commented out.
-
+// End of section to be commented out.
+*/
+//*****************
 
     // We should be using the scantiers file to add in any subtiers, on the following pattern:
     if (isset($row_s->gls))

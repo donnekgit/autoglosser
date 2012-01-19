@@ -42,9 +42,12 @@ $sql_fill=query("update $words set cognate='t1' where surface in (select cognate
 $sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_0) and langid!='cym' and cognate=''");
 // Specify that the cognate field must be empty, to prevent later onion-rings over-writing earlier ones.
 
+$sql_fill=query("update $words set cognate='t3' where surface in (select surface from di_ioverbs) and cognate=''");
+// Omit the langid!='cym' clause from the -io verbs line (because they are already marked cym)
+
+
 //$sql_fill=query("update $words set cognate='t3' where surface in (select surface from stammers4_triggers) and langid!='cym' and cognate=''");
 
 
-// Omit the langid!='cym' clause from the -io verbs line (because they are already marked cym)
 
 ?>

@@ -27,7 +27,7 @@
 
 #FILES=inputs/patagonia/beta/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
-FILES="inputs/miami/beta/herring17.cha"
+FILES="inputs/miami/beta/zeledon1.cha"
 
 for f in $FILES
 do

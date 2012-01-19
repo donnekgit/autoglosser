@@ -55,6 +55,18 @@ select (maxloc-minloc)+1 as clause_length, count((maxloc-minloc)+1) as frequency
 results_table.php - read the trigger/codeswitch data from each table and add them to a cognate_results table.  This can then be fed into R.
 
 
+Gathering -io verbs
+============
+
+create table di_ioverbs as select * from combiwords_siar_uniq where surface~'i?o$' and auto~'\.V\.' and langid~'(cym|cym&eng|cym&spa)$' order by surface
+
+insert into di_ioverbs select * from combiwords_pat_uniq where surface~'i?o$' and auto~'\.V\.' and langid~'(cym|cym&eng|cym&spa)$' order by surface
+
+select surface, auto from di_ioverbs group by surface, auto order by surface, auto
+
+create table di_ioverbs_uniq as select surface, auto from di_ioverbs group by surface, auto order by surface, auto
+
+insert into di_ioverbs_uniq (surface, auto) select surface, auto from combiwords_siar_uniq where surface~'i?an$' and auto~'\.V\.INFIN' and langid~'(cym|cym&eng|cym&spa)$' order by surface
 
 
 Things to look at

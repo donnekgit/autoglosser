@@ -23,36 +23,23 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-include("includes/fns.php");
-include("/opt/autoglosser/config.php");
+if (empty($filename))
+{
+	include("includes/fns.php");
+	include("/opt/autoglosser/config.php");
+	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+}
+$prepub=$filename."_prepub";
 
-// Generate default names from the filepath given
-list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
+$sql1=query("select * from $prepub order by filename, utterance_id, location");
+while ($row1=pg_fetch_object($sql1))
+{
+	$fix=pg_escape_string($row1->fix);
+	$sql=query("update $words set auto='$fix', fix='$fix' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location and surface='$row1->surface'");
+	
+	echo $row1->filename." (".$row1->utterance_id.", ".$row1->location."): ".$row1->surface."\n";  // Give some feedback.
+}
 
-echo $chafile."\n";
-echo $filename."\n";
-echo $utterances."\n";
-echo $words."\n";
-echo $cgfinished."\n";
-
-//include("cognates/extend_cgwords.php");
-
-//include("cognates/mark.php");
-
-//include("cognates/adjust_deletes.php");
-
-//include("cognates/adjust_moves.php");
-
-//include("cognates/segment.php");  // Can write _split.txt.
-
-//include("cognates/reinforcers.php");
-
-include("cognates/insert_triggers.php");
-
-include("cognates/write_rei.php");  // Can write_spk.txt
-
-include("cognates/write_cognates.php");  // Can write _spkturn.txt
-
-include("cognates/analyse_cognates.php");  // Writes _cog.txt
+// Either add the additional records, and delete, or else add only where not already present.
 
 ?>

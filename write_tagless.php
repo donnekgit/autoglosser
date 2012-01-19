@@ -23,6 +23,8 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
+// This file writes out the $words table in CLAN .cha format.
+
 if (empty($filename))
 {
     include("includes/fns.php");
@@ -30,23 +32,29 @@ if (empty($filename))
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-// Straighten out lines in the file.
-exec("utils/sed_joinlines ".$chafile);
-// Edits file in-place - ie it overwrites the original.  Work on a copy of the original alpha file.
+//$fp = fopen("outputs/".$filename."/".$filename."_tagless.txt", "w") or die("Can't create the file");
+$fp = fopen("miamitrans/".$filename."_tagless.txt", "w") or die("Can't create the file");
 
-// Snip out the file header - edit the bottom of sed_get_header if you are just refetching the headers.
-exec("utils/sed_get_header ".$chafile);
+// Write out the file contents.
+$sql_s="select * from $utterances order by utterance_id";
+$result_s=pg_query($db_handle,$sql_s) or die("Can't get the items");
+while ($row_s=pg_fetch_object($result_s))
+{
+    $u=$row_s->utterance_id;
+	$surface=$row_s->surface;
+	$speech=$row_s->speaker.":\t".$surface."\n";
+    fwrite($fp, $speech);
 
-// Update the file header
-// Edit this to add any text you want to include in the header
-include("utils/langid_header.php");
+	if (isset($row_s->eng))
+    {
+        $eng="$u\t\n\n";  # for untranslated files (rewrite vvv as blank)
+		//$eng="$u:\t".$row_s->eng."\n\n";  # for translated files
+        fwrite($fp, $eng); 
+    }
 
-// Fix the precode
-exec("utils/sh_fix_precode ".$chafile);
+    unset($speech, $gls, $eng, $mor, $comment, $auto);
+}
 
-// Convert tags, do an initial import, and convert to precode format - see the script for more details.
-// Comment out if no conversion is required.
-//include("import_and_convert.php");
-// This script runs some other scripts, so check it carefully to see that its settings are OK.
+fclose($fp);
 
 ?>

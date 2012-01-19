@@ -30,6 +30,6 @@ FILES=inputs/siarad/beta/*.cha
 for f in $FILES
 do
 	echo "Processing $f ..."
-	#php cognates/do_triggers.php $f
-	php cognates/analyse_cognates.php $f
+	php cognates/do_triggers.php $f
+	#php cognates/analyse_cognates.php $f
 done

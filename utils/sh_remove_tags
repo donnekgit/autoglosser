@@ -25,11 +25,16 @@
 
 # This script removes @s:xxx tags from the speaker tier.
 
-FILES=inputs/miami/beta/eng/notags/*.cha
+#FILES=inputs/miami/beta/eng/notags/*.cha
+#FILES=miamitrans/*_tagless.txt
+FILES=miamitrans/herring14_tagless.txt
+
 for f in $FILES
 do
 	echo "Processing $f ..."
-	sed -i '/\*[A-Z]*:/s/@s:.[^ ]* / /g' $f
+	sed -i '/\*\?[A-Z]*:/s/@s:.[^ ]* / /g' $f
+	#sed -i '/\*[A-Z]*:/s/@s:.[^ ]* / /g' $f
+	# In tiers where the asterisk before the speaker id is retained.
 done
 
 

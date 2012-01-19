@@ -51,9 +51,13 @@ FILES=inputs/patagonia/beta/*.cha
 #STRING='[a-z]-[a-z]'
 #STRING='[[:blank:]]i (ffwrdd|fynylawr|gyd|mewn|fewn) '
 #STRING='([[:blank:]]yn) ((ôl) )'
-STRING='([[:blank:]]anodd )'
+#STRING='([[:blank:]]anodd )'
 #STRING='\*[A-Z]{3}:\t.*ll'  # select ll only in speaker tier (for Sarah's project) - grep -v '\[- spa\]' sarah_ll.txt > output.txt to remove precode lines (ie lines in Spanish); %snd:.[^_]*_ to remove old-style sound-bullets
 #STRING='[[:blank:]]nine_deg'
+#STRING='\(\.\.\)'
+#STRING='[[:blank:]]waw'
+#STRING='%eng:\t.* xxx '  
+STRING='%com:\t'
 
 for f in $FILES
 do

@@ -26,6 +26,7 @@
 # This script changes the extension of the chat files in a specified directory from .cha to .txt
 
 FILES=siarad_web/*.cha
+
 for f in $FILES
 do
 	filename=$(basename $f)  # the filename from the path - file.cha

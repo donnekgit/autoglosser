@@ -78,8 +78,9 @@ foreach ($lines as $line_num => $line)
         $segs=$seg[segs];
         //echo $segs."\n";
 
-		if(preg_match("/ name$/", $line)){$enlemma='name';}  // To avoid trapping "namely".
-		if(preg_match("/ unk$/", $line)){$enlemma='unk';}
+		if(preg_match("/ name$/", $line)){ $enlemma='name'; }  // To avoid trapping "namely".
+		if(preg_match("/ unk$/", $line)){ $enlemma='unk'; }
+		
 		echo $utt."/".$loc." - ".$langid." - ".$surface." - ".$enlemma." - ".$subtags." - ".$extras." - ".$segs."\n";
 		$surface=pg_escape_string($surface);  // To handle apostrophes in the entry.
 		$sql_k="insert into $cgfinished(utterance_id, location, surface, lemma, enlemma, pos, extra, seg) values ('$utt', '$loc', '$surface', '$lemma', '$enlemma', '$subtags', '$extras', '$segs')";

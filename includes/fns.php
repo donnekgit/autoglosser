@@ -57,7 +57,7 @@ function get_filename()
 	}
 	else
 	{
-		echo "*\n*\nYou need to specify a file to autogloss\n*\n*\n";
+		echo "*\n*\nYou need to specify a file to handle.\n*\n*\n";
 	}
 	$utterances=strtolower($filename."_cgutterances");
 	$words=strtolower($filename."_cgwords");

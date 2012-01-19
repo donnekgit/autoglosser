@@ -23,23 +23,19 @@
 #*********************************************************************
 #*/ 
 
-# This script lifts out the chat file header.
-chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
-#echo $chafile
-filename=$(basename $chafile)  # the filename from the path - file.cha
-#echo $filename
-path=$(dirname $chafile)  # the path to the file - path/to
-#echo $path
-# Lowercase the extensionless version of the filename
-shortfile=`echo ${filename%.cha} | tr A-Z a-z`
-#echo $shortfile
+# This script collects the specified dataset from all files in the corpus..
+#FILES=inputs/miami/beta/fix_spa/*.cha
+#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
+FILES=inputs/miami/beta/*.cha
 
-# Collect the header lines down to and including the first speaker line, and then delete the speaker line
-sed -n '1,/\*[A-Z]/'p  < $chafile | \
-sed '/\*[A-Z]/ d' > $path/$shortfile.snip
-# Create the outputs dir if it doesn't exist, and copy the headers there
-mkdir -p outputs/$shortfile
-#mv $path/$shortfile.snip outputs/$shortfile/
+for f in $FILES
+do
+	echo "Processing $f ..."
+	# take action on each file
+	php write_dataset.php $f
+done
 
-# If running this separately to refetch the headers, comment out the above line and uncomment this one:
-mv $path/$shortfile.snip outputs/$shortfile/$shortfile.header
+
+
+
+

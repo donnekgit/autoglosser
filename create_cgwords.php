@@ -34,6 +34,7 @@ CREATE TABLE $words (
     location integer,
     surface character varying(100),
     auto character varying(250),
+    fix character varying(250) default '',
     $sqlfields
     speaker character varying(10),
     langid character varying(20),

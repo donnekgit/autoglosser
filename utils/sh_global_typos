@@ -25,9 +25,11 @@
 
 # This script uses perl to fix all instances of a particular string in all the files in the corpus.  Sed is also a (slightly faster) option, but the drawback is that it's regex implementation is not the standard PCRE one.
 FILES=inputs/patagonia/beta/*.cha
+#FILES=inputs/miami/beta/herring6_tab.cha
 
 for f in $FILES
 do
+	echo "Processing $f ..."
 	#sed -i "/\*[A-Z]/s/ar \(\(draws|goll\)\) /ar_\1 /g" $f
 	#sed -i "/\*[A-Z]/s/\([[:space:]]\)oh /\1o@s:cym\&spa /g" $f
 	#sed -i "/\*[A-Z]/s/\([ <]\)neud/\1wneud/g" $f 
@@ -36,7 +38,17 @@ do
 	#perl -pi -e 's/([[:blank:]]yn) ((ystod) )/\1_\2/g' $f
 	#perl -pi -e 's/([[:blank:]])hanodd /\1&h anodd /g' $f
 	#perl -pi -e 's/([[:space:]])o@s:cym&spa /\1oh@s:cym&spa /g' $f
-	sed -i "/\*[A-Z]/s/\([[:blank:]]\)mmhm@s:cym\&spa /\1mmhm /g" $f
+	#sed -i "/\*[A-Z]/s/\([[:blank:]]\)mmhm@s:cym\&spa /\1mmhm /g" $f
+	#sed -i "/\*[A-Z]/s/o hyd/o_hyd/g" $f
+	#sed -i "/\*[A-Z]/s/#/(.)/g" $f
+	#Tidying Miami begins
+	#sed -i "s/%en:/%eng:/g" $f
+	#sed -i "s/%eng:[[:blank:]]*/%eng:\o011/g" $f
+	#sed -i 'N;s/\(@Comment.*\n\)%eng:\o011vvv/\1/;P;D;' $f
+	#sed -i '/^$/ d' $f
+	#Tidying Miami ends
+	#sed -i 's/\[!= *\(.*\)\]/[=! \1]/g' $f
+	sed -i 's/\[\[:blank:\]\]office@s:eng/ office@s:eng/g' $f
 done
 
 #  In theory, perl is easier to use than sed, but the invocation above doesn't seem to work sometimes.

@@ -24,27 +24,23 @@
 #*/ 
 
 # This script runs prepare_file.php on all the files in a directory, straightening out the lines and extracting the headers
-FILES=inputs/CIG1/beta/*.cha
+
+FILES=inputs/patagonia/beta/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
+
 for f in $FILES
 do
 	echo "Processing $f ..."
-	# take action on each file
+	
+	# Do full prepare.
 	php prepare_file.php $f
-	# If running this separately to refetch the headers, comment out the above line and uncomment this one:
+	
+	# Or just straighten out lines in the file.
+    #utils/sed_joinlines $f
+    
+	# Just refetch the headers (remember to edit the bottom of sed_get_header).
 	#utils/sed_get_header $f
 done
-
-
-
-
-
-
-
-
-
-
-
 
 
 

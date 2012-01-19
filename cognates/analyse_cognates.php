@@ -71,8 +71,8 @@ while ($row1=pg_fetch_object($sql1))
 		$nt_sum=(!empty($nt_lg)) ? array_sum($nt_lg) : 0;  // Number of non-T words in the clause - set it to 0 if the non-T array is empty.
 		
 		//print_r($t);
-		print_r($nt_lg);
-		echo $nt_sum."\n";
+		//print_r($nt_lg);
+		//echo $nt_sum."\n";
 		
 		$sql4=query("select * from $cognates where clause_id=$nextcl");
 		while ($row4=pg_fetch_object($sql4))

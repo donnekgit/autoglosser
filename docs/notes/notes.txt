@@ -35,6 +35,45 @@ Run a loop across the files: diff -u file.cha prev/filecha
 The unified (-u) format can then be parsed to put a strikethrough on - lines, and a highlight on + lines.
 
 
+Manual edit system
+============
+
+When nearing publication, the glosses may need to be manually corrected.  We need to keep track of those edits, so that if the files are re-glossed, the fixes can be re-applied, and we don't have to go through the manual correction process again.
+
+Re-edit the file - change CG rules, add items to the dictionary, add or-squashing rules, regenerate the file.
+
+Review the new file against the previously-printed hand-marked version.
+Wherever the table entry still requires manual editing, enter the corrections into a new fix column 
+Copy all records requiring fixes into a prepub table - gather_fixes.php
+(Note that we need to disable regeneration of the prepub table once it is first made, since that will erase all the laboriously-gathered fixes.)
+
+(Note also that we need to find a way of not adding, or deleting once added, any duplicate fix lines from subsequent correction of the file.)
+delete from forum_prepub where id not in (select min(pp.id) from forum_prepub as pp group by pp.utterance_id, pp.location, pp.surface)
+
+Any time the file is regenerated in the future, add a hook to run the prepub table against the output, replicating the manual changes for file, utterance_id, location, and surface - apply_prepub.php
+
+This will not work if one of the criteria is changed - so if the surface word has been changed, or new material has been added at a particular place, the criteria will not match, and the fix will not be applied.
+This is an argument for only running this at the very end, once the text is pretty settled (ie after typo-corrections and proof-reading).
+When the fix cannot be applied, add an invalid marker in the nf (not found) column of the prepub table.
+Amend the file table at these locations, and re-export amendments.  Add to prepub if 4 criteria are not already there, and then delete from prepub where invalid marker exists.
+
+create_cgwords now sets up an additional field called "fix", which will hold any manual changes needed.
+gather_fixes.php gathers the manual changes and puts them into a prepub table.
+Calls create_prepub.php to generate the empty table.
+apply_prepub.php injects the fixes into the cgwords auto field.
+
+
+
+
+
+or-squashing
+========
+
+Collect all instances of [or]s from the files.
+Review, group, etc, and add a preferred option for all of them.
+Add a hook to read this table and copy the preferred option to the file table.
+
+
 Unknowns
 =======
 
@@ -705,6 +744,63 @@ Produce 6 slides to a page
 =================
 
 pdfnup --no-landscape --nup "2x3" --offset ".25cm .25cm" --delta ".25cm .5cm" --frame true --scale 0.9 isb8pres.pdf
+There is better info in the Notebook.
+
+
+Tagless files
+========
+
+If it is required to clean existing %eng tags out of the file: sed -i '/%eng/ d' inputs/miami/beta/sastre9.cha 
+Run utils/sh_add_eng to add %eng tiers containing vvv.
+
+Run php cgimport.php file to import the new tiers into the file_cgutterances table.
+Run php write_tagless.php file to write out the utterances table with the %eng tiers replaced by the number of the utterance they should attach to.
+Run utils/sh_remove_tags to remove tags.
+Run unoconv -f doc miamitrans/file_tagless.txt to convert the txt file to a doc file.
+Open the doc file and change the font to Times New Roman 12 pt. 
+
+Setting up and aopplying a template with this font doesn't seem to work.  unoconv itself (http://dag.wieers.com/home-made/unoconv) seems a bit flaky too: 
+unoconv -f rtf outputs/herring13/herring13_tagless.txt 
+unoconv -f rtf outputs/herring13/herring13_tagless.odt
+don't seem to work (seems to work before running sh_remove_tags, but not afterwards ...), and:
+unoconv -f doc outputs/herring13/herring13_tagless.txt
+sometimes doesn't work.  Actually, the error:
+unoconv: UnoException during conversion: 
+The provided document cannot be converted to the desired format.
+seems to mean that a file of that name already exists, so unoconv is presumably refusing to overwrite it.  Delete the file, and the invocation works.
+http://artofsolving.com/opensource/pyodconverter
+http://www.oooninja.com/2008/02/batch-command-line-file-conversion-with.html
+http://hardc0l2e.wordpress.com/2011/03/03/document-converter-for-multiple-files/
+
+Edit utils/sh_add_eng for file and predominant language and then run it.
+php cgimport.php inputs/miami/beta/sastre4.cha
+php write_tagless.php sastre4
+Edit utils/sh_remove_tags for file and then run it to remove language tags.
+Run unoconv -f doc miamitrans/sastre9_tagless.txt to convert the txt file to a doc file.
+Open the doc file and change the font to Times New Roman 12 pt. 
+Post on website and let translators insert translations.
+
+Edit translation and save as _tagless.txt
+utils/sed_treat_doc
+add header utterance_id (tab) eng
+
+set up table sastre4_trans with above two fields
+CREATE TABLE sastre4_trans (
+    utterance_id integer,
+    eng character varying(250)
+);
+import tabbed
+update sastre4_trans set eng='vvv' where eng is null - to maintain record of utterances where no translation has been made
+
+php cgimport.php inputs/miami/beta/sastre4.cha - to retain typo changes made
+utils/sed_get_header inputs/miami/beta/sastre4.cha - to ensure we have the correct header for the write-out
+update sastre4_cgutterances u set eng=(select eng from sastre4_trans t where t.utterance_id=u.utterance_id) - remember to change the filename in BOTH places
+comment out section in write_cgautogloss.php and run it: php write_cgautogloss.php sastre4
+
+check with Meld that the file is OK against the untranslated one
+remove the Autoglosser line in the header
+cp outputs/sastre4/sastre4_autoglossed.txt inputs/miami/beta/sastre4.cha
+
 
 
 
