@@ -24,8 +24,11 @@
 #*/ 
 
 # This script finds the percentage of a particular language in each file in a directory.
-FILES=inputs/miami/beta/spa/*.cha
-#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
+FILES=inputs/miami/beta/*.cha
+#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha"
+
+php utils/create_percent_table.php
+
 for f in $FILES
 do
 	echo "Processing $f ..."

@@ -78,7 +78,7 @@ while ($row1=pg_fetch_object($sql1))
 	
 	$t_ser=serialize($t);
 	
-	$nt_lg_ser=serialize(array_count_values($nt_lg));  // Count how many languages appear in the clause.
+	$nt_lg_ser=serialize(array_count_values($nt_lg));  // Count how many languages appear in the clause (not counting triggers).
 
 	// Write out a check file
 	

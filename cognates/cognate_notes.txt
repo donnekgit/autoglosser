@@ -55,6 +55,14 @@ select (maxloc-minloc)+1 as clause_length, count((maxloc-minloc)+1) as frequency
 results_table.php - read the trigger/codeswitch data from each table and add them to a cognate_results table.  This can then be fed into R.
 
 
+Linear model (regression)
+================
+
+create table roberts1_lm as select clause_id, spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, f_lg, p_lg, nt_lg_ser, external, externalb, internal, speaker, c.surface, auto, noun, "-io_verb", _io_verb, adjective, adverb, "IM", name from roberts1_cognates c, roberts1_regression r where c.surface=r.surface
+
+
+
+
 Gathering -io verbs
 ============
 
@@ -112,7 +120,6 @@ Bugs
 External forward shows ST or NST in the first line of some files.  This is because the first clause is not being marked "new" in those files.  Why?
 
 A single (trigger?) word at the head of a speech-turn will be marked as external ST.
-
 
 
 

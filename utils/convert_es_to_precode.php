@@ -78,7 +78,7 @@ while ($row3=pg_fetch_object($sql3))
 		{
 			if (!$langs[eng_spa] and count($langs[eng])>0)  // ... and there is at least one word that is English and there are no indeterminates
 			{
-				$surface="[- eng] ".$surface;  // Add an English  precode to the surface line of the utterances table.
+				$surface="[- eng] ".$surface;  // Add an English  precode to the surface utterance.
 				$surface=preg_replace("/@s:eng(?!&spa)/", "", $surface);  // Delete the English tag where it is not part of an indeterminate tag.
 			}
 		}
@@ -124,7 +124,7 @@ while ($row3=pg_fetch_object($sql3))
 
 	echo $row3->utterance_id.": ".$surface."\n";
 	
-	unset($this_lang, $langs, $speech, $gls, $eng, $mor, $comment);
+	unset($this_lang, $langs, $speech, $gls, $eng, $mor, $comment, $com);
 }
 
 fwrite($fp, "@End\n");

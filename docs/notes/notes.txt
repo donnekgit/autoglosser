@@ -18,6 +18,8 @@ The above is now deprecated, since the autoglosser will detect the most-frequent
 MOR:
 fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
 
+When converting, the main language must be specified in 
+
 
 Generation
 =======
@@ -97,8 +99,8 @@ Possible alternative import of the surface line
 
 Split surface at spaces
 For each inter-space item
-	if it occurs in a table of non-word items, insert into the table and set an item-type field to nw
-	if not, insert into the table and set an item-type field to w
+	if it occurs in a table of non-word items, insert into the table and set an item-type field to nw (non-word)
+	if not, insert into the table and set an item-type field to w (word)
 Add language tags only where item-type=w
 Add the item again in a cleaned form (eg without brackets)
 When adding glosses, split at spaces
@@ -780,28 +782,47 @@ Run unoconv -f doc miamitrans/sastre9_tagless.txt to convert the txt file to a d
 Open the doc file and change the font to Times New Roman 12 pt. 
 Post on website and let translators insert translations.
 
-Edit translation and save as _tagless.txt
+Edit translation.
+Save as _tagless.txt
 utils/sed_treat_doc
 add header utterance_id (tab) eng
 
-set up table sastre4_trans with above two fields
-CREATE TABLE sastre4_trans (
+set up table _trans with above two fields
+CREATE TABLE _trans (
     utterance_id integer,
     eng character varying(250)
 );
 import tabbed
-update sastre4_trans set eng='vvv' where eng is null - to maintain record of utterances where no translation has been made
+update _trans set eng='vvv' where eng is null - to maintain record of utterances where no translation has been made
 
 php cgimport.php inputs/miami/beta/sastre4.cha - to retain typo changes made
 utils/sed_get_header inputs/miami/beta/sastre4.cha - to ensure we have the correct header for the write-out
-update sastre4_cgutterances u set eng=(select eng from sastre4_trans t where t.utterance_id=u.utterance_id) - remember to change the filename in BOTH places
+update _cgutterances u set eng=(select eng from _trans t where t.utterance_id=u.utterance_id) - remember to change the filename in BOTH places; note that this will delete existing translations unless you add a where utterance_id > xxx at the end.
 comment out section in write_cgautogloss.php and run it: php write_cgautogloss.php sastre4
 
 check with Meld that the file is OK against the untranslated one
 remove the Autoglosser line in the header
-cp outputs/sastre4/sastre4_autoglossed.txt inputs/miami/beta/sastre4.cha
+[cp outputs/sastre4/sastre4_autoglossed.txt inputs/miami/beta/sastre4.cha] - easier just to use Meld to copy to right
 
 
+Silencing  the audio to ensure anonymity
+==========================
+
+create table patagonia36_pseud as select surface, count(surface) from patagonia36_cgwords where auto='name' group by surface
+Edit this to remove placenames.
+This step should be done automatically by referring to the pseudonym file.
+
+sox input.wav output.wav pad duration@startpoint trim 0 endpoint duration splice startpoint endpoint  
+
+sox silence_test.wav silence_kd.wav pad 2.601@113.878 trim 0 116.479 2.601 splice 113.878 116.479
+
+sox input.wav output.wav pad duration@startpoint duration@startpoint ... trim 0 endpoint duration trim 0 endpoint duration ... splice startpoint endpoint startpoint endpoint ...
+
+sox silence_test.wav silence_kd.wav pad 18.263@0.604 1.302@41.452 2.601@113.878 2.415@118.606 trim 0 18.867 18.263 trim 0 42.754 1.302 trim 0 116.479 2.601 trim 0 121.021 2.415 splice 0.604 18.867 41.452 42.754 113.878 116.479 118.606 121.021
+
+At the end, you get warnings like:
+WARN splice: Input audio too short; splices not made: 210
+but the file seems to be silenced in the right places.
 
 
 Errors

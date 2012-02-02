@@ -109,10 +109,16 @@ while ($row3=pg_fetch_object($sql3))
         $comment="%com:\t".$row3->comment."\n";
         fwrite($fp, $comment); 
     }
-
+    
+    if (isset($row3->com))
+    {
+        $comment="%com:\t".$row3->com."\n";
+        fwrite($fp, $comment); 
+    }
+    
 	echo $row3->utterance_id.": ".$surface."\n";
 	
-	unset($this_lang, $langs, $speech, $gls, $eng, $mor, $comment);
+	unset($this_lang, $langs, $speech, $gls, $eng, $mor, $comment, $com);
 }
 
 fwrite($fp, "@End\n");

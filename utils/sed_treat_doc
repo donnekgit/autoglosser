@@ -25,19 +25,25 @@
 
 # This script formats the translator doc files so that they are ready for import to the database.
 
-FILES=miamitrans/done/sastre8_tagless.txt
+FILES=miamitrans/done/zeledon5_tagless.txt
 
 for f in $FILES
 do
 	echo "Processing $f ..."
 	sed -i '/^$/ d' $f
 	# remove blank lines
+	sed -i 's/[[:blank:]]$//g' $f
+	# remove tabs at the end of the line
 	sed -i '/^\*\?[A-Z]*:.*$/ d' $f
 	# remove speaker tier (could maybe be shortened)
-	sed -i 's/\[.[^ ]*\]//g' $f
+	sed -i 's/ \[.[^ ]*\]/,/g' $f
 	# remove anything in square brackets
-	sed -i 's/( \?.\+)//g' $f
+	sed -i 's/( \?.[^ ]\+)//g' $f
+	sed -i 's/(.)//g' $f
 	# remove (.) etc
+	sed -i 's/+\///g' $f
+	# remove +/
+	sed -i 's/xxx/.../g' $f
 	sed -i 's/&=.[^ ]*//g' $f
 	# get rid of &=whatever
 	sed -i 's/&..\? / /g' $f
@@ -47,6 +53,10 @@ do
 	sed -i 's/+[<^+,"]//g' $f
 	# remove continuation markers
 	sed -i 's/ \.$/./g' $f
+	# close up full stops to previous text
+	sed -i 's/ ?$/./g' $f
+	# close up full stops to previous text
+	sed -i 's/ !$/./g' $f
 	# close up full stops to previous text
 	sed -i 's/ \+/ /g' $f
 	# squash down more than one space

@@ -41,8 +41,8 @@ exec("utils/sed_get_header ".$chafile);
 // Edit this to add any text you want to include in the header
 include("utils/langid_header.php");
 
-// Fix the precode
-exec("utils/sh_fix_precode ".$chafile);
+// Fix the precodewhere it  is mistakenly placed before the continuation markers.
+//exec("utils/sh_fix_precode ".$chafile);
 
 // Convert tags, do an initial import, and convert to precode format - see the script for more details.
 // Comment out if no conversion is required.

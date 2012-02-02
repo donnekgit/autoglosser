@@ -30,6 +30,55 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// If this script is called standalone, the language tagging will be faulty because $mflg is not set (calling it via import_only.php is OK, because then the variable is passed in from cgimport.php).
+if (!isset($mflg))
+{
+
+	// Get the most frequent and less frequent languages from the file header. 
+	$lines=file("outputs/$filename/$filename.header");  // Open the header file.
+	foreach ($lines as $line)
+	{
+		if (preg_match("/@Languages:\t/", $line))
+		{
+			$lgline=trim(preg_replace("/@Languages:\t/","", $line));
+			$filelgs=explode(", ", $lgline);
+			//print_r($filelgs);
+		}
+	}
+
+	// This adds the most-frequent language to the correct tag array in includes/fns.php.
+	switch ($filelgs[0]) 
+	{
+		case "cym":
+			array_push($cylg, "");
+			break;
+		case "eng":
+			array_push($enlg, "");
+			break;
+		case "spa":
+			array_push($eslg, "");
+			break;
+	}
+
+	// This adds the second most-frequent language to the correct tag array in includes/fns.php.
+	switch ($filelgs[1]) 
+	{
+		case "cym":
+			array_push($cylg, "s");
+			break;
+		case "eng":
+			array_push($enlg, "s");
+			break;
+		case "spa":
+			array_push($eslg, "s");
+			break;
+	}
+
+	// Set up the variables for more-frequent and less-frequent languages for use by rewrite_utterances.php and tex/generate_expex.php.  The most frequent language is the one that is unmarked in the text, the less frequent language is the one that will be unmarked with a precode at the beginning of the line.  Note that this system only accommodates two languages - we probably need to rethink for three or more.
+	$mflg=$filelgs[0];
+	$lflg=$filelgs[1];
+}
+
 echo "*\n*\nCreating the $words table\n*\n*\n";
 include("create_cgwords.php");
 
@@ -50,7 +99,7 @@ while ($row=pg_fetch_object($result))
     $i=1;   
     foreach ($surface_bits as $surface_value)
     {
-		// Review this - it may be better to generate a fixed langid rather than copy the one from the text, ie generate 'esp' for 3, es, spa, etc.
+		// Review this - it may be better to generate a fixed langid rather than copy the one from the text, ie generate 'spa' for 3, es, spa, etc.
 		if  (preg_match("/@/", $surface_value))     
 		{
 			list($surface_word, $langid)=explode('@', $surface_value);  // Siarad: hwyrach@1

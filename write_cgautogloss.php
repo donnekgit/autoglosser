@@ -61,19 +61,19 @@ while ($row_s=pg_fetch_object($result_s))
 	$precode=($precode=='') ? "": "[- ".$precode."] ";
     //$speech="*".$row_s->speaker.":\t".$precode.$row_s->surface." %snd:\"".$row_s->filename."\"_".$row_s->durbegin."_".$row_s->durend."\n";  // This older format for the sound-bullets is now deprecated.
 
-	if (preg_match("/^(?P<link>\+[<^\+\",])/", $surface, $linker))  // Keep continuation markers at the beginning of the line.
+	if (preg_match("/^(?P<link>\+[<^\+\",])/", $surface, $linker))  // Keep continuation markers at the beginning of the line - if a  continuation marker exists, copy it into the [link] key of the $linker array, and do the following:
 	{
-		$surface=preg_replace("/^(\+[<^\+\",] )/", "", $surface);
-		$speech="*".$row_s->speaker.":\t".$linker[link]." ".$precode.$surface." ".$row_s->durbegin."_".$row_s->durend."\n";
+		$surface=preg_replace("/^(\+[<^\+\",] )/", "", $surface);  // Remove the continuation marker.
+		$speech="*".$row_s->speaker.":\t".$linker[link]." ".$precode.$surface." ".$row_s->durbegin."_".$row_s->durend."\n";  // Add it back in again from the $linker array, and insert the precode after it.
 	}
-	else
+	else  // If there is no continuation marker, just insert the precode.
 	{
 		$speech="*".$row_s->speaker.":\t".$precode.$surface." ".$row_s->durbegin."_".$row_s->durend."\n";
 	}
     fwrite($fp, $speech);
 
 //*****************
-/*
+
 // Comment this section out if you want to write out a file directly from the utterances table
 	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
@@ -81,7 +81,7 @@ while ($row_s=pg_fetch_object($result_s))
     {
         $auto.=$row_w->auto." ";
     }
-    $auto="%aut:\t".preg_replace('/ $/','',$auto)."\n";
+    $auto="%aut:\t".preg_replace('/ $/','',$auto)."\n";  // Delete the extra space at the end of the $auto string.
 
 	if (preg_match("/^\*[A-Z]{3}:\txxx \./", $speech) or preg_match("/^\*[A-Z]{3}:\twww \./", $speech) or preg_match("/^\*[A-Z]{3}:\t&=.[^ ]* \./", $speech))  // delete the %aut tier for surface tiers that consist only of xxx, www, or &=laugh, etc.
 	{

@@ -42,7 +42,7 @@ foreach ($lines as $line)
 	}
 }
 
-// Add the most-frequent language to the correct tag array in includes/fns.php.
+// This adds the most-frequent language to the correct tag array in includes/fns.php.
 switch ($filelgs[0]) 
 {
 	case "cym":
@@ -56,7 +56,7 @@ switch ($filelgs[0])
 		break;
 }
 
-// Add the second most-frequent language to the correct tag array in includes/fns.php.
+// This adds the second most-frequent language to the correct tag array in includes/fns.php.
 switch ($filelgs[1]) 
 {
 	case "cym":
