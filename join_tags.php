@@ -39,17 +39,18 @@ while ($row=pg_fetch_object($result))
 {
 	$enlemma=$row->enlemma.".";
 	$pos=($row->pos=='') ? "" : $row->pos.".";
-	$pos=preg_replace("/(\.archaic|\.amer|\.err|\.literary|\.north|\.nstan|\.pat|\.short|\.vulg)$/", "", $pos);  // Remove value-judgement tags.
+	$pos=preg_replace("/(\.archaic|\.amer|\.err|\.literary|\.north|\.nstan|\.pat|\.short|\.vulg|\.spoken)/", "", $pos);  // Remove value-judgement tags.
     $extra=($row->extra =='') ? "" : "+".$row->extra.".";  // needs to be changed to = to follow the Leipzig glossing rules
     $seg=($row->seg =='') ? "" : "+".$row->seg;  // needs to be changed to = to follow the Leipzig glossing rules
 	$combined1=$pos.$extra.$seg;
     $combined2=strtoupper($combined1);  // uppercase the POS-tags
     $tags=preg_replace('/\.\+/','+', $combined2);  // remove the dot before a +
     $lemtags=pg_escape_string($enlemma.$tags);
+    $lemtags=preg_replace("/\.PRT/", "PRT", $lemtags);  // remove the dot where there is no lemma
     $lemtags=preg_replace('/\.$/','', $lemtags);  // remove the dot at the end of the string
     if ($row->utterance_id==$utt and $row->location==$loc)
     {
-        $auto=$auto."[or]".$lemtags;
+        $auto=$auto.".[or].".$lemtags;  // CLAN CHECK will not allow "text[or]text", but it will allow "text.[or].text", and this keeps the gloss for a particular word in one contiguous segment.
         echo "Repeat: ".$row->utterance_id.":".$row->location.": ".$auto."\n";
     }
     else

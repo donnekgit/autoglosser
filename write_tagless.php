@@ -33,7 +33,7 @@ if (empty($filename))
 }
 
 //$fp = fopen("outputs/".$filename."/".$filename."_tagless.txt", "w") or die("Can't create the file");
-$fp = fopen("miamitrans/".$filename."_tagless.txt", "w") or die("Can't create the file");
+$fp = fopen("miamitrans/fraibet/".$filename."_tagless.txt", "w") or die("Can't create the file");
 
 // Write out the file contents.
 $sql_s="select * from $utterances order by utterance_id";
@@ -47,8 +47,8 @@ while ($row_s=pg_fetch_object($result_s))
 
 	if (isset($row_s->eng))
     {
-        $eng="$u\t\n\n";  # for untranslated files (rewrite vvv as blank)
-		//$eng="$u:\t".$row_s->eng."\n\n";  # for translated files
+        //$eng="$u\t\n\n";  # for untranslated files (rewrites vvv as blank)
+		$eng="$u:\t".$row_s->eng."\n\n";  # for translated files (retains translation)
         fwrite($fp, $eng); 
     }
 

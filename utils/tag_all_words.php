@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script is the first part of a conversion of chat file marking from one predominant language to another (eg cym,spa to spa,cym).  It writes out the existing precode version of the file in the database to one with each word tagged for language.  Then adjust the header manually, and run utils/sed_get_header to clip out the revised header.  Next, import that file into the database: php import_only.php my_new_file.php.  Then run utils/convert_primary_lg.php script to write out that import into a precode version with the new predominant language.
+// This script is the first part of a conversion of chat file marking from one predominant language to another (eg cym,spa to spa,cym).  It writes out the existing precode version of the file in the database to one with each word tagged for language.  Then adjust the header of the original file manually (outputs/filename/filename.header).  Next, import that file into the database: php import_only.php my_new_file.php.  Then run utils/convert_primary_lg.php script to write out that import into a precode version with the new predominant language, and add the header.
 
 if (empty($filename))
 {
@@ -38,10 +38,10 @@ $fp = fopen("convert/{$filename}_alltags.cha", "w") or die("Can't create the fil
 $lines=file("outputs/$filename/$filename.header", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 foreach ($lines as $line)
 {
-	if (preg_match("/@(Languages|ID)/", $line))
-	{
-		$line=preg_replace("/cym, spa/", "spa, cym", $line);  // Change the language tags.
-	}
+	//if (preg_match("/@(Languages|ID)/", $line))
+	//{
+		//$line=preg_replace("/cym, spa/", "spa, cym", $line);  // Change the language tags.
+	//}
 	fwrite($fp, $line."\n");
 }
 

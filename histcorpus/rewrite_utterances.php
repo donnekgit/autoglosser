@@ -30,9 +30,12 @@ if (!isset($chain))
 }
 
 // Create the utterances table.
-$filename="histcorpus/groniosaw_split.txt";
-$utterances="groniosaw_cgutterances";
-$words="groniosaw_cgwords";
+//$filename="histcorpus/groniosaw_split.txt";
+//$utterances="groniosaw_cgutterances";
+//$words="groniosaw_cgwords";
+$filename="histcorpus/ryan.txt";
+$utterances="ryan_cgutterances";
+$words="ryan_cgwords";
 
 drop_existing_table($words);
 

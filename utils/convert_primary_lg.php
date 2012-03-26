@@ -23,17 +23,17 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script is the second part of a conversion of chat file marking from one primary language to another (eg cym,spa to spa,cym).  First, run utils/tag_all_words.php to write out the existing precode version of the file in the database to one with each word tagged for language.    Then adjust the header manually, and run utils/sed_get_header to clip out the revised header.  Next, import that file into the database: php import_only.php my_new_file.php.  Then run this script to write out that import into a precode version with the new predominant language.
+// This script is the second part of a conversion of chat file marking from one primary language to another (eg cym,spa to spa,cym).  First, run utils/tag_all_words.php to write out the existing precode version of the file in the database to one with each word tagged for language.    Then adjust the header of the original file manually.  Next, import that file into the database: php import_only.php my_new_file.php.  Then run this script to write out that import into a precode version with the new predominant language.  Finally, compare the two files in Meld and update the git copy.
 
 /* 
 Criteria for tagging:
 1.  All words in the main language will be left untagged.
 2.  If an utterance consists of a word or words in the main language along with indeterminate words or non-main language words, those non-main language words will be tagged.
 3.  If an utterance consists only of indeterminate words and/or words from a non-main language, they will all be tagged.
-4.  If an utterance consists only of  non-main language words (with no indeterminate words), they will be left untagged, and the utterance will be given a precode.
+4.  If an utterance consists only of non-main language words (with no indeterminate words), they will be left untagged, and the utterance will be given a precode.
 */
 
-// YOU NEED TO SPECIFIY THE MAIN LANGUAGE BELOW.
+// YOU NEED TO SPECIFY THE MAIN LANGUAGE BELOW.
 
 if (empty($filename))
 {
@@ -47,12 +47,16 @@ $alltags=$filename."_alltags";
 $mainlg="eng";  // The language you want to designate as the primary one in the converted marking.
 
 // Note that this output file gets moved - adjust the target location at the bottom of this script.
-$fp = fopen("convert/{$filename}_primspa.cha", "w") or die("Can't create the file"); 
+$fp = fopen("convert/{$filename}_primeng.cha", "w") or die("Can't create the file"); 
 
 // Write out the file header.
-$lines=file("outputs/$alltags/$alltags.header", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+$lines=file("outputs/$filename/$filename.header", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 foreach ($lines as $line)
 {
+	//if (preg_match("/@(Languages|ID)/", $line))
+	//{
+		//$line=preg_replace("/cym, spa/", "spa, cym", $line);  // Change the language tags.
+	//}
 	fwrite($fp, $line."\n");
 }
 
@@ -71,7 +75,8 @@ while ($row3=pg_fetch_object($sql3))
 	$langs=array_count_values($this_lang);  // Get a total for each of the langids in the utterance. 
 	//print_r($langs);
 	
-	// Handle the tagging.
+	// Handle the tagging.  This could probably be tweaked.  For instance, ignoring indeterminates would let "all English except for indeterminates" have a precode, instead of all the English words being tagged.  We could also use the count figures to insert a precode and switch the tagging based on the relative numbers of main language words in the utterance.  But this may be gilding the lily ...
+	
 	// First, remove tags and add a precode where that language is the only one in the utterance.	
 	if (count($langs)>0)  // If there is at least one langid (ie word) in the utterance ...
 	{

@@ -33,12 +33,18 @@ path=$(dirname $chafile)  # the path to the file - path/to
 #echo $path
 fixedfile=${filename}.txt  # set up an output file
 #echo $fixedfile
-sed -e "s/Ã¢/â/g" < $chafile | \
+sed -e "s/Ã¢/â/g" < $chafile | 
 sed -e "s/Ãª/ê/" | \
 sed -e "s/Ã¯/ï/" | \
 sed -e "s/Ã´/ô/" | \
 sed -e "s/Åµ/ŵ/" | \
 sed -e "s/Å·/ŷ/" | \
+sed -e "s/Ã¡/á/" | \
+sed -e "s/\Ã©/é/" | \
+sed -e "s/Ã/í/" | \
+sed -e "s/Ã³/ó/" | \
+sed -e "s/Ãº/ú/" | \
+sed -e "s/Ã±/ú/" | \
 sed -e "s/’/'/g" | \
 sed -e "s/’/'/g" | \
 sed -e "s/´/'/g" | \

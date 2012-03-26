@@ -24,6 +24,7 @@
 #*/ 
 
 # This script inserts a tab after the speaker id.
+
 chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
 #echo $chafile
 filename=$(basename $chafile)  # the filename from the path - file.cha
@@ -32,8 +33,8 @@ path=$(dirname $chafile)  # the path to the file - path/to
 #echo $path
 fixedfile=${filename%.cha}.txt  # switch the filename's extension to .txt for the output file
 #echo $fixedfile
+
 cat < $chafile | \
-#
 sed -e "s/\(^\*[A-Z]*:\) \+/\1\t/g" | \
 cat > $path/$fixedfile  # output to the path + new filename
 mv $path/$fixedfile $path/$filename  # replace the original file with the fixed file, giving a fixed .cha file

@@ -29,10 +29,14 @@ if (!isset($chain))
 	include("/opt/autoglosser/config.php");
 }
 
-$filename="histcorpus/groniosaw_split.txt";
-$utterances="groniosaw_cgutterances";
-$words="groniosaw_cgwords";
-$cgfinished="groniosaw_cgfinished";
+// $filename="histcorpus/groniosaw_split.txt";
+// $utterances="groniosaw_cgutterances";
+// $words="groniosaw_cgwords";
+// $cgfinished="groniosaw_cgfinished";
+$filename="histcorpus/ryan.txt";
+$utterances="ryan_cgutterances";
+$words="ryan_cgwords";
+$cgfinished="ryan_cgfinished";
 
 // Concatenate the fields in the CG output file
 $sql="select * from $cgfinished order by utterance_id, location";

@@ -28,6 +28,8 @@ If not, see <http://www.gnu.org/licenses/>.
 $unknowns=$_SERVER['argv'][2];
 $mylang=$_SERVER['argv'][3];
 
+$mylang=preg_replace("/ind/", "cym&spa", $mylang);
+
 if (empty($filename))
 {
 	include("includes/fns.php");

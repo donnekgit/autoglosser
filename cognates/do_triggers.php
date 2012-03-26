@@ -49,7 +49,7 @@ echo $cgfinished."\n";
 
 include("cognates/insert_triggers.php");
 
-include("cognates/write_rei.php");  // Can write_spk.txt
+include("cognates/write_rei.php");  // Can write _spk.txt
 
 include("cognates/write_cognates.php");  // Can write _spkturn.txt
 

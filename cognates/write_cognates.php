@@ -90,11 +90,12 @@ while ($row1=pg_fetch_object($sql1))
 
 	$write1=query("insert into $cognates (spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, nt_lg_ser, f_lg, p_lg, speaker, surface, auto, filename) values ($spkturn, $clspk, '', $utt, $minloc, $maxloc, '$t_ser', '$nt_lg_ser', '$f_lg', '$p_lg', '$speaker', '$surface', '$auto', '$filename')");
 	
-	if ($prev_spk!=$speaker)  // Add a blank line to show changes in speech-turn.
+	if ($prev_spk!=$speaker)  // If we have a new speaker ...
 	{
 		//fwrite($fp, "\n");  // Add a blank line to delineate speaker turns.
-		echo "\n";
+		echo "\n";  // Add a blank line to show changes in speech-turn.
 		$write2=query("update $cognates set newturn='new' where clause_id=currval('".$cognates."_clause_id_seq')");
+		// But by definition, the first clause (clspk 1) of every spkturn will be new, so we don't really need the above - we could just do a query to add "new" to where clspk=1.
 	}
 	
 	$prev_spk=$speaker;  // Keep track of the previous speaker.

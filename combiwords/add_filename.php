@@ -35,14 +35,18 @@ $uniq="combiwords_".$corpus."_uniq";
 
 $filelist=array();
 
+// If the processing stops at a particular point because of an error, you can fix the error and restart from that point by using something like the following:
+//$sql="select * from $uniq where surface > 'firme' order by surface";
 $sql="select * from $uniq order by surface";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
-	$surface=$row->surface;
-	$auto=$row->auto;
-	$auto=$row->langid;
+	$surface=pg_escape_string($row->surface);
+	$auto=pg_escape_string($row->auto);
+	//echo $surface."\n";
+	$langid=$row->langid;
 	$sql_f="select * from $source_table where surface='$surface' and auto='$auto' and langid='$langid'";
+	#$sql_f="select * from $source_table where surface='$surface' and langid='$langid'";
 	$result_f=pg_query($db_handle,$sql_f) or die("Can't get the items");
 	while ($row_f=pg_fetch_object($result_f))
 	{
@@ -50,11 +54,13 @@ while ($row=pg_fetch_object($result))
 		//$file=$row_f->filename;  // Or use the full filename (miami, siarad).
         $filelist[]=$file;  // Add the filename to an array.
      }
+     //print_r($filelist);
 	$filelist=array_unique($filelist);  // Discard filename duplicates.
 	sort($filelist);  // Sort into ascending order.
 	$fileline=implode(",", $filelist);  // Convert the array into a string.
 	
 	$sql_2="update $uniq set filename='$fileline' where surface='$surface' and auto='$auto' and langid='$langid'";
+	#$sql_2="update $uniq set filename='$fileline' where surface='$surface' and langid='$langid'";
 	$result_2=pg_query($db_handle,$sql_2) or die("Can't insert the items");
 	
 	echo $row->surface." - ".$fileline."\n";

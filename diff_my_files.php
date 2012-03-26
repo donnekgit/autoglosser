@@ -48,9 +48,10 @@ $fp=fopen("outputs/$filename/".$filename."_diff.tex", "w") or die("Can't create 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
-	if (preg_match("/filename/", $line))  // replace the holder in the TeX file with the name of the conversation
+	if (preg_match("/(filename|infotext)/", $line))  // replace the holder in the TeX file with the name of the conversation
 	{
 		$line=preg_replace("/filename/", "$capfile diffs from previous version", $line);
+		$line=preg_replace("/infotext/", "Removed text is in RED, added text is in GREEN\n", $line);
 	}
 	else
 	{
@@ -121,7 +122,8 @@ foreach ($thisline as $thisdiff)  // Loop through the $thisline array, picking o
 	$tex_diff=preg_replace("/<\\/del>/", "}", $tex_diff);  // Reset to default.
 	$tex_diff=preg_replace("/<ins>/", "\\colorbox{greenbg}{\color{Green}", $tex_diff);  // Set green text, green background.
 	$tex_diff=preg_replace("/<\\/ins>/", "}", $tex_diff);  // Reset to default.
-	$tex_diff=preg_replace("/ /", " / ", $tex_diff);  // Insert a slash between lexeme+POS groups.
+	//$tex_diff=preg_replace("/ /", " / ", $tex_diff);  // Insert a slash between lexeme+POS groups.
+	$tex_diff=preg_replace("/ /", " ", $tex_diff); 
 
 	$tex_diff=tex_surface($tex_diff);
 	fwrite($fp, $tex_diff." \\bigskip \\\\ \n\n");

@@ -14,6 +14,7 @@ Deprecated - alter table combiwords_siar_uniq add column filename text
 (now added to sh_fill_combiwords)
 
 Run add_filename.php to add the filename of each entry to the filename column.   This is quite slow.
+Remember to adjust the filename line if you want to squash repetitive filenames, as in Patagonia.
 
 Export the resulting table to csv.
 

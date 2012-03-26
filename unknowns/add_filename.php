@@ -29,12 +29,11 @@ include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
 // Corpus
-$source_table="patagonia_ind_unknowns";
-$uniq=$source_table."_uniq";
+$corpus="patagonia";
+$mylang="ind";
 
-//Combiwords
-//$source_table="combiwords_pat";
-//$uniq="combiwords_pat_uniq";
+$unknowns="${corpus}_${mylang}_unknowns";
+$uniq="${unknowns}_uniq";
 
 $filelist=array();
 
@@ -44,8 +43,7 @@ while ($row=pg_fetch_object($result))
 {
 	$surface=pg_escape_string($row->surface);
 	$auto=pg_escape_string($row->auto);
-	//$sql_f="select * from $source_table where surface='$surface' and auto='$auto'";  // combiwords
-	$sql_f="select * from $source_table where surface='$surface'";  // corpus
+	$sql_f="select * from $unknowns where surface='$surface'";
 	$result_f=pg_query($db_handle,$sql_f) or die("Can't get the items");
 	while ($row_f=pg_fetch_object($result_f))
 	{
@@ -57,8 +55,7 @@ while ($row=pg_fetch_object($result))
 	sort($filelist);  // Sort into ascending order.
 	$fileline=implode(",", $filelist);  // Convert the array into a string.
 	
-	//$sql_2="update $uniq set filename='$fileline' where surface='$surface' and auto='$auto'";  // combiwords
-	$sql_2="update $uniq set filename='$fileline' where surface='$surface'";  // corpus
+	$sql_2="update $uniq set filename='$fileline' where surface='$surface'";
 	$result_2=pg_query($db_handle,$sql_2) or die("Can't insert the items");
 	
 	echo $row->surface." - ".$fileline."\n";

@@ -18,7 +18,7 @@ November 2011
 extend_cgwords.php - adds to the table 4 new fields which are required for the analysis.
 
 The first stage is to split the clauses - make_clauses.php runs these first 4 scripts:
-(1) mark.php - puts a marker at the clause division - select the relevant line to choose either finite verbs only (for MLF analysis) or  all verbs including infinitives (for cognate ananlysis)
+(1) mark.php - puts a marker at the clause division - select the relevant line to choose either finite verbs only (for MLF analysis) or  all verbs including infinitives (for cognate analysis)
 (2) adjust_deletes.php - deletes the clause marker where necessary - uncomment the INFIN section for MLF analysis, where only finite verbs are required
 (3) adjust_moves.php - moves the clause marker where required
 (4) segment.php - segment the utterances into clauses - select the relevant line if you want to choose finite verbs only (for MLF analysis)
@@ -30,6 +30,7 @@ Inject the cognates:
 insert_triggers.php - mark the words in the file as cognates (triggers), based on the various cognate lists
 
 write_rei.php - writes out the file leaving out clauses that consist only of reinforcers
+Note that this script adds data to the table to indicate speech-turns and clauses in each speech turn, and the writing out is commented out, so that the name is actually a misnomer - it is actually a speaker turn counter.
 
 (deprecated) adjust_t.php - previously used (based on adjust_deletes.php) to deal with things like fan and pan, which were being marked as derived from English even though they are Welsh; now handled by additional clauses in the SQL queries in insert_cognates.php
 
@@ -58,7 +59,18 @@ results_table.php - read the trigger/codeswitch data from each table and add the
 Linear model (regression)
 ================
 
+Extract clauses containing only triggers.
+
+Classify the triggers in roberts1_regression.
+
+Combine this with the codeswitch data:
 create table roberts1_lm as select clause_id, spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, f_lg, p_lg, nt_lg_ser, external, externalb, internal, speaker, c.surface, auto, noun, "-io_verb", _io_verb, adjective, adverb, "IM", name from roberts1_cognates c, roberts1_regression r where c.surface=r.surface
+
+Get the data for external CS:
+select * from roberts1_lm where external='ST'
+select * from roberts1_lm where external='NST'
+Note that clauses where no codeswitch can be counted (---) are omitted.
+
 
 
 
@@ -111,6 +123,34 @@ Inject the cognates.  Multiple groups can be injected, based on the onion-ring l
 
 Count the clause-switches.
 
+
+
+Cypriot
+====
+
+Mark (on a preliminary basis) and segment the file :
+cyp_mark.php - puts a marker at the clause division
+cyp_deletes.php - deletes the clause marker where necessary
+cyp_moves.php - moves the clause marker where required
+cyp_segment.php - segment the utterances into clauses - this gives a _split file
+cyp_clauses.php will run all four of these in succession.
+
+Get someone to edit the for incorrect clause-splitting, using // for a split, and ++ for a join.
+
+add_wordno.php to add a column to the $words table to number all the words (ie not counting the punctuation), and then fill the wordno column with serial numbers.
+
+Correct the edited file manually to give an _import file, and then read it in with import_clauses.php.
+
+Run cyp_segment.php again, and check the output (_split) against the edited (_import) files using Meld.  Note that this process is very dependent on there being no typos in the original chat file.  If there are (eg at @1, with a space between the word and the language tag), they will knock off the marking of the words.  You may therefore have to correct the file, and reimport it (several times if it is untidy!).  It would perhaps be worth running CHECK before import.  Another common sticking-point is omission of a punctuation mark at the end of the utterance, or +.. instead of +... (three dots).
+
+cyp_write.php - writes out the imported file into a new _csdata table.
+cyp_analyse.php - analyses the _csdata table, adds codeswitch instances to it, and writes out a text file with the codeswitch data
+
+
+select speaker, count(external) from ws210021_csdata where external='ext' group by speaker
+select speaker, count(internal) from ws210021_csdata where internal='int' group by speaker
+
+select speaker, sum(external) as external, sum(internal) as internal from cyp_count group by speaker
 
 
 

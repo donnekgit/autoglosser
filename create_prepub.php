@@ -47,6 +47,8 @@ CREATE TABLE $prepub (
 ";
 $result_table=pg_query($db_handle, $sql_table);
 
+// nf (not found) is a tally column for when the fix cannot be applied (eg the location id different, or the surface word has changed).
+
 $sql_pkey = "
 ALTER TABLE ONLY ".$prepub." ADD CONSTRAINT ".$prepub."_pk PRIMARY KEY (id);
 ";

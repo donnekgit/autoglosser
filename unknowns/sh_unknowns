@@ -25,9 +25,10 @@
 
 # This script creates a table ($unknowns) to hold unknown words, and fills it with unknown words tagged as $mylang in each file specified in the FILES line.
 
-FILES=inputs/CIG1/beta/*.cha
-corpus="cig"
-mylang="cym"
+FILES=inputs/patagonia/beta/*.cha
+
+corpus="patagonia"
+mylang="eng"
 unknowns=${corpus}_${mylang}_unknowns
 uniq=${unknowns}_uniq
 

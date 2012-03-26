@@ -28,9 +28,9 @@ include("/opt/autoglosser/config.php");
 
 $chain=1;
 
-#include("histcorpus/cgimport.php");
+//include("histcorpus/cgimport.php");
 
-#include("histcorpus/rewrite_utterances.php");
+//include("histcorpus/rewrite_utterances.php");
 
 include("histcorpus/write_cohorts.php");
 
@@ -44,6 +44,7 @@ include("histcorpus/join_tags.php");
 
 include("histcorpus/generate_expex.php");
 
-exec("pdflatex -interaction=nonstopmode -output-directory=outputs/groniosaw outputs/groniosaw/groniosaw.tex 2>&1");
+//exec("pdflatex -interaction=nonstopmode -output-directory=outputs/groniosaw outputs/groniosaw/groniosaw.tex 2>&1");
+exec("pdflatex -interaction=nonstopmode -output-directory=outputs/ryan outputs/ryan/ryan.tex 2>&1");
 
 ?>

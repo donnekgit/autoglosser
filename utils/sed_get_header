@@ -40,6 +40,7 @@ sed '/\*[A-Z]/ d' > $path/$shortfile.snip
 # Create the outputs dir if it doesn't exist, and copy the headers there
 mkdir -p outputs/$shortfile
 #mv $path/$shortfile.snip outputs/$shortfile/
+# Note: the above only neeeds to be uncommented when you are going to edit the headers with utils/langid_header.php.
 
 # If running this separately to refetch the headers, comment out the above line and uncomment this one:
 mv $path/$shortfile.snip outputs/$shortfile/$shortfile.header

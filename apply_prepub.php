@@ -36,6 +36,7 @@ while ($row1=pg_fetch_object($sql1))
 {
 	$fix=pg_escape_string($row1->fix);
 	$sql=query("update $words set auto='$fix', fix='$fix' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location and surface='$row1->surface'");
+	// We need to be able to log to the nf column when this fix cannot be applied.
 	
 	echo $row1->filename." (".$row1->utterance_id.", ".$row1->location."): ".$row1->surface."\n";  // Give some feedback.
 }

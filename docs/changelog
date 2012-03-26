@@ -1,6 +1,17 @@
 Changelog
 =======
 
+24/03/2012
+Add wayback file creation to make it easier to see incremental CG changes via Meld.
+Convert auto [or]s to a single preferred tag.
+
+22/03/2012
+Changed tag for "yn" from stative.STAT to PRT.  Also changes to other PRTs.
+
+22/02/2012
+Allow imports of manually-corrected clause-split.
+Extend clause-splitting to handle Cypriot data.
+
 01/02/2012
 Convert files from one predominant language to another.
 
@@ -9,7 +20,7 @@ Silence audiofiles for anonymisation purposes.
 
 17/01/2012
 Export files to format that is easier for translators.
-Begin system for manual edits.
+Initial work on manual edits, and retaining them across reglosses.
 
 16/12/2011
 Add vvv to empty %eng tiers so that they pass CHECK.

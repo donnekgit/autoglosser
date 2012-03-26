@@ -57,7 +57,11 @@ FILES=inputs/patagonia/beta/*.cha
 #STRING='\(\.\.\)'
 #STRING='[[:blank:]]waw'
 #STRING='%eng:\t.* xxx '  
-STRING='%com:\t'
+#STRING='%com:\t'
+#STRING='(\(\.*\))( *)(\[\/*\])'  # pause before retrace
+#STRING='@ID.*\|\|$'
+#STRING='wrth_gwrs'
+STRING=' i w '
 
 for f in $FILES
 do
@@ -70,6 +74,7 @@ do
 		#echo "in: $fixedfile\n"  # ...  give the name of the file on the next line
 		#fi  # An alternative to this if statement is to append /dev/null to the grep line; this means grep will get at least 2 file arguments, effectively forcing it to print the filename if it happens to match the pattern. However, grep then prints the filename on the same line as the text, and for every match, which is not elegant.
 	ack-grep "$STRING" $f /dev/null # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
+	#ack-grep '^%eng' $f /dev/null | ack-grep 'eisteddfod' 
 done
 
 

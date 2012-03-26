@@ -79,6 +79,10 @@ if (!isset($mflg))
 	$lflg=$filelgs[1];
 }
 
+echo $mflg."\n";
+echo $lflg."\n";
+
+
 echo "*\n*\nCreating the $words table\n*\n*\n";
 include("create_cgwords.php");
 
@@ -170,7 +174,7 @@ while ($row=pg_fetch_object($result))
         //$tiers=array_diff($tiers, array(gra));
         foreach ($tiers as $tier)
         {
-            if ($tier=='gls' or $tier=='mor')  // No point in importing %eng, since the slots will not align
+            if ($tier=='gls' or $tier=='mor' or $tier=='glo')  // No point in importing %eng, since the slots will not align
             {
                 $tier=trim($tier);
                 $lineclean_tier="lineclean_".$tier;

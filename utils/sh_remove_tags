@@ -27,7 +27,7 @@
 
 #FILES=inputs/miami/beta/eng/notags/*.cha
 #FILES=miamitrans/*_tagless.txt
-FILES=miamitrans/herring14_tagless.txt
+FILES=miamitrans/fraibet/herring10_tagless.txt
 
 for f in $FILES
 do

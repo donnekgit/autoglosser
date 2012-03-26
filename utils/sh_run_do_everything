@@ -26,8 +26,8 @@
 # This script runs import_and_convert on all the files specified in the FILES line
 
 #FILES=inputs/CIG1/beta/*.cha
-FILES=inputs/miami/beta/herring6.cha
-REPO=inputs/miami/autoglossed
+FILES=inputs/patagonia/beta/*.cha
+REPO=inputs/patagonia/autoglossed
 
 for f in $FILES
 do

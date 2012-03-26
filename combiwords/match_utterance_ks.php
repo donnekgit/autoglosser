@@ -23,28 +23,28 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script gathers all utterances containing the desired pattern and prints them out to give a concordance for each word in the corpus.  This version only collects words in Patagonia beginning with ta-.
+// This script gathers all utterances containing the desired pattern and prints them out to give a concordance for each word in the corpus.
 
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus="cig";
+$corpus="cig2";
 $combiwords="combiwords_".$corpus;
 
-//$string="^ta";
+// Remember to adjust the name of the words table in the first query below.
 
-$outfile="cig_words.tex";
-$outheader="Instances of key words in CIG1";
+$outfile="cig2_words_adj.tex";
+$outheader="Instances of adjectives in CIG2";
 
 $fp = fopen("combiwords/outputs/$outfile", "w") or die("Can't create the file");
 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
-	if (preg_match("/filename.cha/", $line))
+	if (preg_match("/filename/", $line))
 	{
 		//$line=preg_replace("/filename.cha/", "Mixed-language noun+adjective phrases in ".ucfirst($corpus), $line);
-		$line=preg_replace("/filename.cha/", $outheader, $line);
+		$line=preg_replace("/filename/", $outheader, $line);
 	}
 	else
 	{
@@ -59,10 +59,12 @@ $x=1;
 $i=1;  // headword counter
 $auto='';
 
+// Collect Spanish diminutives.
 //$sql1=query("(select * from combiwords_pat where surface~'it[ao]s?$' and auto!='name' and auto!~'\\\\.V\\\\.') union (select * from combiwords_mi where surface~'it[ao]s?$' and auto!='name' and auto!~'\\\\.V\\\\.') order by surface, filename, utterance_id, location");
-// Collect a combined list from two corpora by using "union" - note that you need to use round brackets.  This collects diminutives in -ito/-ita/-itos/-itas - the V clause is necessary because not all have been marked as dim(inutive), but unfortunately this introduces a few non-dims into the list.
+// Note: Here we use "union" to collect a combined list from two corpora - note that you need to use round brackets.  This collects diminutives in -ito/-ita/-itos/-itas - the V clause is necessary because not all have been marked as dim(inutive), but unfortunately this introduces a few non-dims into the list.
 
-$sql0=query("select surface, langid from $combiwords where surface in (select surface from ks_words) group by surface, langid order by surface, langid");  // Get all the words matching STRING from the index table and order them, so that we can do a numbered set of headwords.
+// Kathryn's wordlists: ks_words and ks_words2.
+$sql0=query("select surface, langid from $combiwords where surface in (select surface from ks_words_adj) group by surface, langid order by surface, langid");  // Get all the desired items from the index table and order them, so that we can do a numbered set of headwords.
 while ($row0=pg_fetch_object($sql0))
 {
 	$headline="\n\\bigskip\\section*{".$i.": ".tex_surface($row0->surface)." \\color{Blue}\\begin{small}(".tex_surface($row0->langid).")\\end{small}\\color{Black}}\n";  // Create the headword line.

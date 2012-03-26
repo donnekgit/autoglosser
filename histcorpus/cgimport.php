@@ -21,14 +21,19 @@ You should have received a copy of the GNU General Public License
 and the GNU Affero General Public License along with this program.
 If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
-*/ 
+*/
 
-include("includes/fns.php");
-include("/opt/autoglosser/config.php");
+if (!isset($chain))
+{
+	include("includes/fns.php");
+	include("/opt/autoglosser/config.php");
+}
 
 // Create the utterances table.
-$filename="histcorpus/groniosaw_split.txt";
-$utterances="groniosaw_cgutterances";
+//$filename="histcorpus/groniosaw_split.txt";
+//$utterances="groniosaw_cgutterances";
+$filename="histcorpus/ryan.txt";
+$utterances="ryan_cgutterances";
 
 echo "*\n*\nCreating the $utterances table\n*\n*\n";
 drop_existing_table($utterances);

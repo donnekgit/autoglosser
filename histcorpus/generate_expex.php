@@ -29,17 +29,22 @@ if (!isset($chain))
 	include("/opt/autoglosser/config.php");
 }
 
-$filename="histcorpus/groniosaw_split.txt";
-$utterances="groniosaw_cgutterances";
-$words="groniosaw_cgwords";
-$cgfinished="groniosaw_cgfinished";
+// $filename="histcorpus/groniosaw_split.txt";
+// $utterances="groniosaw_cgutterances";
+// $words="groniosaw_cgwords";
+// $cgfinished="groniosaw_cgfinished";
+$filename="histcorpus/ryan.txt";
+$utterances="ryan_cgutterances";
+$words="ryan_cgwords";
+$cgfinished="ryan_cgfinished";
 
 if (empty($mflg))
 {
 	$mflg="cym";  // If calling this script stand-alone, specify the default language here.
 }
 
-$fp = fopen("outputs/groniosaw/groniosaw.tex", "w") or die("Can't create the file");
+//$fp = fopen("outputs/groniosaw/groniosaw.tex", "w") or die("Can't create the file");
+$fp = fopen("outputs/ryan/ryan.tex", "w") or die("Can't create the file");
 
 $lines=file("tex/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)

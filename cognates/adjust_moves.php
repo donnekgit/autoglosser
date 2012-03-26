@@ -67,7 +67,7 @@ while ($row0=pg_fetch_object($result0))
 		}
 		
 		// Link words in English
-		if (preg_match("/(if|and|what|when|why|where|since|because)/", $prev_s) && preg_match("/PRON.SUB/", $this_a))
+		if (preg_match("/(if|and|what|when|why|where|since|because|but)/", $prev_s) && preg_match("/PRON.SUB/", $this_a))
 		{
 			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");

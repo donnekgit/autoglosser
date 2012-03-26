@@ -23,17 +23,23 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
+// Note that the language of the lookup is hard-wired at the end of this file.
+
 if (!isset($chain))
 {
 	include("includes/fns.php");
 	include("/opt/autoglosser/config.php");
 }
 
-$filename="histcorpus/groniosaw_split.txt";
-$utterances="groniosaw_cgutterances";
-$words="groniosaw_cgwords";
+// $filename="histcorpus/groniosaw_split.txt";
+// $utterances="groniosaw_cgutterances";
+// $words="groniosaw_cgwords";
+$filename="histcorpus/ryan.txt";
+$utterances="ryan_cgutterances";
+$words="ryan_cgwords";
 
-$fp = fopen("outputs/groniosaw/groniosaw_cg.txt", "w") or die("Can't create the file");
+//$fp = fopen("outputs/groniosaw/groniosaw_cg.txt", "w") or die("Can't create the file");
+$fp = fopen("outputs/ryan/ryan_cg.txt", "w") or die("Can't create the file");
 
 $sql="select * from $words order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
@@ -50,7 +56,8 @@ while ($row=pg_fetch_object($result))
 	echo $stream;
 	fwrite($fp, $stream);
 
-	include("lookups/cy_lookup.php");	
+	//include("lookups/cy_lookup.php");
+	include("lookups/en_lookup.php");
 }
 
 fclose($fp);

@@ -31,6 +31,7 @@ $eslg=array("3", "es", "es+en", "es+cy", "spa");
 
 // Set up the grammar file here.
 $gram_file="en_es";
+//$gram_file="eng";
 
 function query($sql)
 // simplify the query writing
@@ -107,6 +108,20 @@ function add_column_if_not_exist($table, $column)
 	{
 		//echo "Column $column already exists";
 		//exit;
+	}
+}
+
+function add_integer_column_if_not_exist($table, $column)
+// Add a column to the specified table if the table does not already contain that column.
+{
+	global $db_handle;
+	$sql_exists="select count(*) as count from information_schema.columns where table_name='$table' and column_name='$column'";
+	$result_exists=pg_query($db_handle, $sql_exists);
+	$row_exists=pg_fetch_object($result_exists);
+	if ($row_exists->count < 1)
+	{
+		$sql_addcol="alter table $table add column $column integer;";
+		$result_addcol=pg_query($db_handle, $sql_addcol);
 	}
 }
 
@@ -221,7 +236,7 @@ function lineclean_surface($text)
 	//$text=preg_replace("/(^| ).[^~| ]*~ /u", " ", $text); // Remove backtracking words with an attached tilde.
 	// The above is run twice to catch sequences like "i(f) [/] i(f) [/] if@2 she@2 gets@2".  The regex acts on the whole line, so in this case it will only make one match in the line.  The first "i(f)~"will be deleted, leaving the second "i(f)~" to be dealt with by the general deletion below, converting it to "if".  The output will therefore be "if if@2 she@2 gets@2".  Repeating the regex solves this.
 
-    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: %]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  % added to cover language tags like spa%%cym (< spa+cym).
+    $text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: %γχδ]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  % added to cover language tags like spa%%cym (< spa+cym).
 
 	$text=preg_replace("/([a-z]{2,3})%([a-z]{2,3})/", "$1+$2", $text);  // Move language tags containing + back again.
 	$text=preg_replace("/([a-z]{2,3})%%([a-z]{2,3})/", "$1&$2", $text);  // Move language tags containing & back again.
@@ -451,9 +466,9 @@ function segment_eng($text)
 	$text=preg_replace("/([aeiou](ck))ed$/u", "$1#av", $text);  // back
 	$text=preg_replace("/([aeiou](ck|p|t))s$/u", "$1#pv", $text); 
 
-	$text=preg_replace("/([aeiou](tch|nch|sh|x))ing$/u", "$1#asv", $text);  // watch, launch, finish, tax
-	$text=preg_replace("/([aeiou](tch|nch|sh|x))ed$/u", "$1#av", $text);
-	$text=preg_replace("/([aeiou](tch|nch|sh|x))es$/u", "$1#pv", $text); 
+	$text=preg_replace("/([aeiou](ch|sh|x))ing$/u", "$1#asv", $text);  // watch, launch, finish, tax, attach
+	$text=preg_replace("/([aeiou](ch|sh|x))ed$/u", "$1#av", $text);
+	$text=preg_replace("/([aeiou](ch|sh|x))es$/u", "$1#pv", $text); 
 
 	$text=preg_replace("/([aeiou]ss)ing$/u", "$1#asv", $text);  // miss
 	$text=preg_replace("/([aeiou]ss)ed$/u", "$1#av", $text);
@@ -632,6 +647,7 @@ function tex_surface($text)
 	$text=preg_replace("/θ/", "\\textipa{T} ", $text);
 	$text=preg_replace("/ɬ/", "\\textbeltl ", $text);
 	$text=preg_replace("/ʔ/", "\\textglotstop ", $text);
+//ʘ ts; ʣ
 	return $text;
 }
 
@@ -1034,6 +1050,38 @@ function lineclean_aut($text)
 ?>
 <?php
 function wordclean_aut($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_glo($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_glo($text)
+// Make corrections to the individual words in the tier.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function lineclean_tra($text)
+// Make corrections to the tier as a whole, before it is segmented into words.
+{
+    // This is a dummy function - add code here.
+    return $text;
+}
+?>
+<?php
+function wordclean_tra($text)
 // Make corrections to the individual words in the tier.
 {
     // This is a dummy function - add code here.

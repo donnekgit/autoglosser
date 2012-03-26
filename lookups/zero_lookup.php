@@ -262,7 +262,7 @@ if ($mainlg=='spa')
 	}
 }  // End of Spanish lookup.
 
-if ($mainlg=='cym')  // Welsh lookup - just pass everything to the Welsh lookup page.
+if ($mainlg=='cym')  // Welsh lookup - just pass everything to the Welsh lookup page.  Only used for cym+eng and cym+spa.  For cym&eng and cym&spa, would it be a good idea to look up the word in the eng or spa dictionaries first, and then if no match is found, use the cym dictionary?
 {
 	include("cy_lookup.php");  // Pass the word to the normal Welsh lookup.
 }  // End of Welsh lookup.

@@ -7,7 +7,7 @@ Running it will create a table for the unknowns, and another table for unique un
 
 Then it will gather the unknowns from the files (using gather_unknowns.php) into the unknowns table, and run queries to select unique words and enter them into the unique table.
 
-Then run add_filename.php to iterate over the unknowns table, gather all the filenames where a particular word occurs, and insert them into the unique table.  This allows you to go straight to the file(s) where a given word occurs, to check context.
+Then edit add_filename.php and run it to iterate over the unknowns table, gather all the filenames where a particular word occurs, and insert them into the unique table.  This allows you to go straight to the file(s) where a given word occurs, to check context.
 
 Open the unique file in SQLWorkbench/J, and add information for each word (or delete it if it is incorrect).  Use phpPgAdmin to look up Welsh words in the dictionary as appropriate.
 

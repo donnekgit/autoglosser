@@ -34,7 +34,7 @@ do
 	#sed -i "/\*[A-Z]/s/\([[:space:]]\)oh /\1o@s:cym\&spa /g" $f
 	#sed -i "/\*[A-Z]/s/\([ <]\)neud/\1wneud/g" $f 
 	#sed -i "/\*[A-Z]/s/ i \([mf]\)ewn/ i_\1ewn/g" $f 
-	#perl -pi -e 's/([[:blank:]])i ((ffwrdd|fynylawr|gyd)) /\1i_\2 /g' $f
+	#perl -pi -e 's/([[:blank:]])i ((ffwrdd|fyny|lawr|gyd)) /\1i_\2 /g' $f
 	#perl -pi -e 's/([[:blank:]]yn) ((ystod) )/\1_\2/g' $f
 	#perl -pi -e 's/([[:blank:]])hanodd /\1&h anodd /g' $f
 	#perl -pi -e 's/([[:space:]])o@s:cym&spa /\1oh@s:cym&spa /g' $f
@@ -48,7 +48,14 @@ do
 	#sed -i '/^$/ d' $f
 	#Tidying Miami ends
 	#sed -i 's/\[!= *\(.*\)\]/[=! \1]/g' $f
-	sed -i 's/\[\[:blank:\]\]office@s:eng/ office@s:eng/g' $f
+	#sed -i 's/\[\[:blank:\]\]office@s:eng/ office@s:eng/g' $f
+	#sed -i 's/\([A-Z]\)\[or\]\([a-z]\)/\1 [or] \2/g' $f
+	#sed -i 's/: :continue//g' $f
+	#sed -i 's/ADV\.:STILL:/ADV/g' $f
+	#sed -i 's/\((\.*)\)\( *\)\(\[\/*\]\)/\3 \1/g' $f
+	#sed -ri 's/(@ID.*\|\|)$/\1|/g' $f
+	#sed -ri 's/aw@s:cym&spa/oh@s:cym\&spa/g' $f
+	sed -ri 's/ooh/w/g' $f
 done
 
 #  In theory, perl is easier to use than sed, but the invocation above doesn't seem to work sometimes.

@@ -23,6 +23,8 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
+// This script extends the cgwords table to add some columns for cognate analysis.
+
 if (empty($filename))
 {
 	include("includes/fns.php");

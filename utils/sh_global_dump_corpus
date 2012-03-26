@@ -28,8 +28,8 @@
 # Use sh_global_update_corpus to import these compressed dumps back into a database.
 
 #FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
-FILES=inputs/CIG1/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
-GZDIR=dbdevel/cig1_dump  # Specify the dump dir.
+FILES=inputs/CIG2/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
+GZDIR=dbdevel/cig2_dump  # Specify the dump dir.
 
 for f in $FILES
 do

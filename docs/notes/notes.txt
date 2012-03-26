@@ -18,7 +18,19 @@ The above is now deprecated, since the autoglosser will detect the most-frequent
 MOR:
 fns.php, lineclean_surface - uncomment Miami codes to ignore items in <> - this only needs to be done for MOR
 
-When converting, the main language must be specified in 
+
+Converting
+=======
+
+The new system is to import, write out with all tags, import that, then write out in the precode format.
+Where words have not been given a langid, you can add one by importing, and then comparing each word that is not punctuation against the relevant dictionary:
+update zeledon7_cgwords set langid='eng' where surface not in (select surface from eslist) and langid!='999'
+This takes around 1m11s to run for a 3,764-word file.  Add another clause for indeterminates if they have been marked.  If not, use:
+update zeledon7_cgwords set langid='eng&spa' where surface~'^[A-Z]'
+
+Note that the above may tag words such as do, a, come, me, etc in the wrong language, so it may be preferable to add a clause to the query to omit them.  Also, it will tag Spanish verbs with clitic pronouns as English because they are not in the Spanish dictionary.
+
+Remember to change the primary language in convert_primary_lg.php to the relevant language you need.
 
 
 Generation
@@ -33,7 +45,7 @@ Difference loom
 A possible way to check easily for regressions as the CG grammar is improved.
 Copy existing outputs into a backup dir.  ?or rename them?
 Autogloss as normal.  ?above could be done by adding a new line to sh_run_do_everything moving the existing files into a prev dir?
-Run a loop across the files: diff -u file.cha prev/filecha
+Run a loop across the files: diff -u file.cha prev/file.cha
 The unified (-u) format can then be parsed to put a strikethrough on - lines, and a highlight on + lines.
 
 
@@ -47,7 +59,7 @@ Re-edit the file - change CG rules, add items to the dictionary, add or-squashin
 Review the new file against the previously-printed hand-marked version.
 Wherever the table entry still requires manual editing, enter the corrections into a new fix column 
 Copy all records requiring fixes into a prepub table - gather_fixes.php
-(Note that we need to disable regeneration of the prepub table once it is first made, since that will erase all the laboriously-gathered fixes.)
+(Note that we need to disable regeneration of the prepub table (created via create_prepub.php) once it is first made, since that will erase all the laboriously-gathered fixes.)
 
 (Note also that we need to find a way of not adding, or deleting once added, any duplicate fix lines from subsequent correction of the file.)
 delete from forum_prepub where id not in (select min(pp.id) from forum_prepub as pp group by pp.utterance_id, pp.location, pp.surface)
@@ -606,7 +618,7 @@ English                                            3201                         
 Spanish                                           2080                            2148
 Indeterminate                                  270                              0
 
-The imported files should not contain a dash in their name - this is not a legal character in PostgreSQL table names.
+The imported files should not contain a dash (hyphen) in their name - this is not a legal character in PostgreSQL table names.
 
 When importing files which do not use the precode format, comment out the $mflg and $lflg lines in fns.php.
 
@@ -616,8 +628,6 @@ To wrangle tiers in a file
 ===============
 grep '\*[A-Z]' sastre1.cha > sastre1_surface.cha - moves the surface tiers into a new file
 grep -v '%mor' sastre1.cha > sastre1_aut.cha - moves all tiers except %mor into a new file (ie removes %mor tiers)
-
-
 
 
 Diffing files
@@ -633,12 +643,10 @@ To get the total number of changed lines (even if they are contiguous within a r
 diff filea fileb | grep '^<' | wc -l
 
 
-
 Final tweaking of files
 =============
 
 If manual changes need to be made to files, adjust the _cgwords entries directly.  Then run write_cgautogloss.php again to generate the new cha file.  Run generate_expex.php to create the new pdf, and process it via Kile in the normal way.
-
 
 
 Notes for papers
@@ -729,7 +737,6 @@ Features to add
 freak_o, whine_io: split at _[i]o and look up the first bit
 
 
-
 Clause sampling
 ==========
 
@@ -761,7 +768,7 @@ Run utils/sh_remove_tags to remove tags.
 Run unoconv -f doc miamitrans/file_tagless.txt to convert the txt file to a doc file.
 Open the doc file and change the font to Times New Roman 12 pt. 
 
-Setting up and aopplying a template with this font doesn't seem to work.  unoconv itself (http://dag.wieers.com/home-made/unoconv) seems a bit flaky too: 
+Setting up and applying a template with this font doesn't seem to work.  unoconv itself (http://dag.wieers.com/home-made/unoconv) seems a bit flaky too: 
 unoconv -f rtf outputs/herring13/herring13_tagless.txt 
 unoconv -f rtf outputs/herring13/herring13_tagless.odt
 don't seem to work (seems to work before running sh_remove_tags, but not afterwards ...), and:
@@ -825,6 +832,57 @@ WARN splice: Input audio too short; splices not made: 210
 but the file seems to be silenced in the right places.
 
 
+Running CHECK
+==========
+
+clan/unix/bin/check inputs/cypriot/beta/WS213275.cha 
+Also need to run CHATTER
+
+
+Abbreviations
+=========
+
+Select the POS section of the auto column.
+Using substring:
+select distinct substring(auto from '[A-Z].*') as auto_pos from combiwords_mi_uniq where auto !~'\[or\]' order by auto_pos limit 50
+
+Using regexp_matches:
+select distinct (regexp_matches(auto, E'[A-Z].*')) as auto_pos from combiwords_mi_uniq where auto !~'\[or\]' order by auto_pos limit 50
+(Note that this gives the results in curly brackets, for some reason.)
+
+Download the CSV file and remove the column header.
+
+sed '/[A-Z][a-z].*/ d' < auto_pos_miami.txt | sed 's/"//g' | tr -sc '[A-Z][0-9]' '[\012*]' | sort | uniq | sed '/\]/ d' | sed '/\[/ d' > auto_pos_indiv_miami.txt
+Add -c to uniq if you want counts.
+
+Remove BE, GB, HAVE, ING, OK, PV, TO, TV, US
+
+Remove ARCHAIC, AMER, ERR, LITERARY, NORTH, NSTAN, PAT, SHORT, VULG, SPOKEN
+(Not needed for more recent glossings, where these are suppressed.)
+
+
+Deleting full stop at the end of each %eng tier
+=============================
+
+sed -ri "/%eng/s/\.$//g" inputs/patagonia/beta/patagonia40.cha
+And replace the stop where ... has become ..
+sed -ri "/%eng/s/\.\.$/.../g" inputs/patagonia/beta/patagonia40.cha 
+
+Delete the space at the end of the %aut tier:
+sed -ri "/%aut/s/ $//g" inputs/patagonia/autoglossed/patagonia3.cha
+
+Delete empty %aut tiers:
+sed -ri "/%aut:\t$/ d" inputs/patagonia/autoglossed/patagonia3.cha
+
+
+
+Get list of pseudonyms in each file_cgutterances
+===============================
+
+ack-grep '^\*[A-Z]{3}' inputs/patagonia/beta/patagonia40.cha | ack-grep -o '[A-Z][a-z].[^@ ]*' | sort | uniq > current40
+Select the speaker tier in each file, select the name in each tier (note the use of -o to capture the match only, not the whole line), sort these, keep only a unique instance of each name, and save them to the file current40.
+
+
 Errors
 ====
 
@@ -835,6 +893,63 @@ Testing code
 //include("/opt/autoglosser/config.php");
 //$surface="mirarélas";
 had been left uncommented in lookups/es_lookup.php
+
+
+Chatter
+=====
+This will not pass things that CHECK does pass:
+- anything related to the word ( [?], [//], etc ) cannot have (.) etc between it and the word
+- a ? in the @ID line is not allowed
+- everyone in the @Participants line has to have a corresponding @ID entry
+There sometimes seems to be a problem with the @End marker, which can be fixed simply by Backdelete and then Return.
+
+User tiers (eg %aut) will have every character flagged as non-viable.  To avoid this, you need to recode %aut as %xaut, run Chatter, and then change %xaut back to %aut.
+
+
+Autogloss correction
+=============
+
+If you adjust the dictionary or the cgwords table, you have to run write_cohorts.php again.
+If you adjust the rules, you have to run apply_cg.php or apply_traced_cg.php again.
+
+
+
+
+
+Collect all the [or]s.  id, surface, langid, auto, sub, filename, using the first segment of auto to fill in the sub.
+insert into tidy_auto (surface, langid, auto, sub, filename) select distinct surface, langid, auto, substring(auto from '^.[^[]*') as sub, filename from patagonia30_cgwords where auto~'\\\[or\\\]'
+Remove the trailing dot:
+update tidy_auto set sub=regexp_replace(sub, E'\\\.$', '', 'g')
+Edit the subs to choose one [or]-less item to put as the autogloss.
+
+Script: read all distinct [or]s in the file; loop through the list; if the [or] is in the or-file, replace the auto in the file (with an asterisk appended to show it is the result of tidying); if it is not, add it to the or-file
+Find all items in the or-file that have no sub, and fill them in.  If they are incorrect, edit the dictionary and/or rules.
+Run the script again.
+
+Use Meld to view changes throughout the whole file dependent on changes in the grammar.
+
+Note that the tidy_or table will only work if the "value-based" tags remain omitted.  If they are added, the auto string will be different, and therefore the substitution will not work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -34,10 +34,10 @@
 #		drop table mytable cascade;
 #		\q
 
-export PGPASSWORD="password"
-psql="psql -h localhost -U username -d database"
+export PGPASSWORD="kevindbs"
+psql="psql -h localhost -U kevin -d autoglosser"
 
-FILES=miami_dump_eng/*.gz
+FILES=dbdevel/cig2_dump/*_cgutterances.sql.gz
 for f in $FILES
 do
         echo "Processing $f ..."

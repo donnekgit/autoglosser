@@ -41,6 +41,7 @@ include("write_cohorts.php");
 
 echo "*\n*\nApplying the grammar to disambiguate\n*\n*\n";
 include("apply_cg.php");
+include("apply_traced_cg.php");
 
 echo "*\n*\nWriting disambiguated forms to $cgfinished\n*\n*\n";
 include("write_cgfinished.php");

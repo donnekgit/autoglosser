@@ -23,16 +23,21 @@
 #*********************************************************************
 #*/ 
 
-# This script collects the specified dataset from all files in the corpus..
+# This script collects the specified dataset from all files in the corpus.
 #FILES=inputs/miami/beta/fix_spa/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
-FILES=inputs/miami/beta/*.cha
+FILES=inputs/patagonia/beta/*.cha
+outfile=patagoniatrans/ooh_patagonia.txt
 
 for f in $FILES
 do
 	echo "Processing $f ..."
 	# take action on each file
-	php write_dataset.php $f
+	filename=$(basename $f)
+	echo "\n\n$filename \n========" >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '[[:blank:]]mm[[:blank:]]'  >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '[[:blank:]]&[^=]'  >> $outfile
+	ack-grep '%eng' $f | ack-grep  '[[:blank:]]w[[:blank:]]'  >> $outfile
 done
 
 

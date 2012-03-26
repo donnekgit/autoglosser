@@ -55,13 +55,13 @@ while ($row1=pg_fetch_object($sql1))
 		$speaker=$row3->speaker;
 	}
 	
-	if ($prev_spk!=$speaker)  // Add a blank line to show changes in speech-turn.
+	if ($prev_spk!=$speaker)  // If we have a new speaker ...
 	{
 		//fwrite($fp, "\n");  // Add a blank line to delineate speaker turns.
-		echo "\n";
+		echo "\n";  // Add a blank line to show changes in speech-turn.
 		
-		$runspk=$s;  // Save the current $s for use in all clauses within this speaker turn.
-		$s++;  // Increment the speaker turn counter ready for the next speaker turn.
+		$runspk=$s;  // Save the current $s for use in all clauses within this speaker turn. 
+		$s++;  // Increment the speaker turn counter to reflect a new speaker turn.
 		$c=1;  // Since we have a new speaker, reset the clause count.
 	}
 	

@@ -63,7 +63,7 @@ while ($row_d=pg_fetch_object($sql_d))
 		$sql_out=query("delete from $sox where utterance_id=$row_d->utterance_id");
 	}
 	
-	// If the startpoint of one utterance is less than the endpoint of the previous one, move the startpoint past the endpoint, and adjust the duration (otherwise you get a splice error).
+	// If the startpoint of one utterance is less than the endpoint of the previous one, move the startpoint past the endpoint, and adjust the duration (otherwise you get a splice error).   You will probably get a warning: sox WARN splice: Input audio too short; splices not made: 46, but the audio will probably sound alright.  According to Ulrich Klauer, this is a bug in splice - "splice doesn't like two positions that are very close to each other, and ignores all following positions.  It isn't too apparent since the splicing is optional, and only there to reduce clicks at the silence boundaries, but it isn't done from this point to the end."
 	if ($row_d->durbegin<$durend_prev)  
 	{
 		echo $row_d->utterance_id."\n";

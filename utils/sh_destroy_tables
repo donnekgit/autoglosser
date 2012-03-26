@@ -23,13 +23,15 @@
 #*********************************************************************
 #*/ 
 
-# This script deletes autoglosser tables from the database - use with care!
+# WARNING
+# This script deletes autoglosser tables from the database - use with care! If you want to retain the tables, archive them first using utils/sh_global_dump_corpus - you can then reinstall them by using utils/sh_global_update_corpus.
+# WARNING
 
 export PGPASSWORD="kevindbs"
 psql="psql -h localhost -U kevin -d autoglosser"
 
 #FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
-FILES=inputs/CIG1/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
+FILES=inputs/miami/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
 
 for f in $FILES
 do
@@ -40,6 +42,10 @@ do
 		
 	$psql -c "drop table if exists ${chat}_cgutterances"
 	$psql -c "drop table if exists ${chat}_cgwords"
-	$psql -c "drop table if exists ${chat}_cgfinished"
+	#$psql -c "drop table if exists ${chat}_cgfinished"
+	#$psql -c "drop table if exists ${chat}_trans"
 
 done
+
+export PGPASSWORD=
+# remove the PG password again

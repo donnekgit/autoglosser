@@ -56,8 +56,8 @@ while ($row1=pg_fetch_object($result1))
 	$locarray[0]=0;
 	// the first clause-marker will be in $locarray[0]; this will omit words between the beginning of the utterance and this clause-marker; so set $location[0] to the beginning of the utterance (0 instead of whatever number it is)
 	// CHECK - deprecated? because mark.php puts a clause-marker at every location 1 anyway
-	// CHECK - but this is maybe a better way - the mark.php way will give redundant clause-markers (a pwy sy - c c c+m3)
-	//print_r($locarray);
+	// CHECK - but this is maybe a better way - the mark.php way will give redundant clause-markers (a pwy sy - c c c+m3) - but then where you have only one clause-marker in an utterance, this will ignore that marker, and give one clause instead of two ...
+	//print_r($locarray); 
 
 	$j=1;  // Set a counter to hold the clause numbers we want to add to the table.
 	

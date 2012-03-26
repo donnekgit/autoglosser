@@ -31,10 +31,15 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// Create wayback files if they don't exist.
+exec("touch outputs/".$filename."/".$filename."_cg_applied_old.txt");
+exec("touch outputs/".$filename."/".$filename."_cg_applied_old_old.txt");
+// Copy cg_applied files one step backwards.
+exec("mv outputs/".$filename."/".$filename."_cg_applied_old.txt outputs/".$filename."/".$filename."_cg_applied_old_old.txt"); 
+exec("mv outputs/".$filename."/".$filename."_cg_applied.txt outputs/".$filename."/".$filename."_cg_applied_old.txt"); 
+
 $fp = fopen("outputs/".$filename."/".$filename."_cg_applied.txt", "w") or die("Can't create the file");
 
-// To run a trace, use this line instead:
-//exec("vislcg3 -g grammar/".$gram_file."_grammar  --trace -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
 exec("vislcg3 -g grammar/".$gram_file."_grammar -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
 foreach ($cg_output as $cg_line)
 {

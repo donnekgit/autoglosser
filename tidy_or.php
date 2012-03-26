@@ -32,7 +32,21 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$sql_or="update $words set auto ='yn.PRT' where surface='yn' and auto='stative.STAT[or]in.PREP'";
-$result_or=pg_query($db_handle, $sql_or);
+$ors=query("select distinct surface, langid, auto from $words where auto~'\\\[or\\\]'");
+while ($row_ors=pg_fetch_object($ors))
+{
+	$tidy_or=query("select * from tidy_auto where surface='$row_ors->surface' and langid='$row_ors->langid' and auto='$row_ors->auto'");
+	while ($row_tidy_or=pg_fetch_object($tidy_or))
+	{
+		//echo $row_ors->auto."\n";
+		//echo $row_tidy_or->sub."\n\n";
+		
+		$tidy_auto=query("update $words set auto='$row_tidy_or->sub' || '*' where surface='$row_ors->surface' and langid='$row_ors->langid' and auto='$row_ors->auto'");
+	}
+}
+    
+
+
+
 
 ?>
