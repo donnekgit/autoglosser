@@ -18,7 +18,7 @@ November 2011
 extend_cgwords.php - adds to the table 4 new fields which are required for the analysis.
 
 The first stage is to split the clauses - make_clauses.php runs these first 4 scripts:
-(1) mark.php - puts a marker at the clause division - select the relevant line to choose either finite verbs only (for MLF analysis) or  all verbs including infinitives (for cognate analysis)
+(1) mark.php - puts a marker at the clause division - select the relevant line to choose either finite verbs only (for MLF analysis) or all verbs including infinitives (for cognate analysis)
 (2) adjust_deletes.php - deletes the clause marker where necessary - uncomment the INFIN section for MLF analysis, where only finite verbs are required
 (3) adjust_moves.php - moves the clause marker where required
 (4) segment.php - segment the utterances into clauses - select the relevant line if you want to choose finite verbs only (for MLF analysis)
@@ -72,7 +72,24 @@ select * from roberts1_lm where external='NST'
 Note that clauses where no codeswitch can be counted (---) are omitted.
 
 
+May 2012: Clause analysis
+=================
 
+Regloss davies9.
+
+php cognates/extend_cgwords.php davies9
+php cognates/make_clauses.php davies9
+php cognates/reinforcers.php davies9
+php cognates/write_rei.php davies9 - this gives the speaker turns, and also a printout that we don't use here
+php cognates/analyse_clauses.php davies9
+
+
+
+
+Getting codeswitch numbers from the cognate_results table
+======================================
+
+select filename, ext_na, ext_st+ext_snt as ext_switch, ext_nst+ext_nsnt as ext_noswitch, int_na, int_st+int_snt as int_switch, int_nst+int_nsnt as int_noswitch from cognate_results
 
 
 Gathering -io verbs

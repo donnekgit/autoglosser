@@ -23,11 +23,12 @@
 #*********************************************************************
 #*/ 
 
-# This script collects the specified dataset from all files in the corpus.
+# This script collects the specified dataset from all files in the corpus. NOTE!! This appends data, so if you want to rerun it, delete the existing contents of the file first.
+
 #FILES=inputs/miami/beta/fix_spa/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
 FILES=inputs/patagonia/beta/*.cha
-outfile=patagoniatrans/ooh_patagonia.txt
+outfile=patagoniatrans/sb_patagonia.txt
 
 for f in $FILES
 do
@@ -37,7 +38,15 @@ do
 	echo "\n\n$filename \n========" >> $outfile
 	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '[[:blank:]]mm[[:blank:]]'  >> $outfile
 	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '[[:blank:]]&[^=]'  >> $outfile
-	ack-grep '%eng' $f | ack-grep  '[[:blank:]]w[[:blank:]]'  >> $outfile
+	#ack-grep '%eng' $f | ack-grep  '[[:blank:]]w[[:blank:]]'  >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '[[:blank:]]chdi[[:blank:]]'  >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '[[:blank:]].*_.*[[:blank:]]'  >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  'rygbi' >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '0_0' >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  ' $' >> $outfile
+	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  'www' >> $outfile
+	ack-grep '^\*[A-Z]{3}' $f | ack-grep  ' $' >> $outfile
+
 done
 
 

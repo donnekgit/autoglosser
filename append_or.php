@@ -32,18 +32,22 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// Get all the [or]s from the words table.  We set a default sub to substitute for the [or] by taking the first segment of the [or].
 $sql1=query("select distinct surface, langid, auto, substring(auto from '^.[^[]*') as sub from $words where auto~'\\\[or\\\]'");
 while ($row_sql1=pg_fetch_object($sql1))
 {
 	echo $row_sql1->auto."\n";
 	
+	// Check if that particular [or] is already in the tidy_auto table ...
 	$sql2=query("select * from tidy_auto where surface='$row_sql1->surface' and langid='$row_sql1->langid' and auto='$row_sql1->auto'");
-	if (pg_num_rows($sql2) == 0)
+	if (pg_num_rows($sql2) == 0)  // ... and if not ...
 	{
+		// ... insert it into the table.
 		$sql3=query("insert into tidy_auto (surface, langid, auto, sub, newentry) values ('$row_sql1->surface', '$row_sql1->langid', '$row_sql1->auto', '$row_sql1->sub', 'new')");
 	}
 }
-    
+
+// Remove the trailing dot.
 $sql4=query("update tidy_auto set sub=regexp_replace(sub, E'\\\.$', '', 'g') where newentry='new'");
 
 ?>

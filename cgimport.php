@@ -74,6 +74,9 @@ switch ($filelgs[1])
 $mflg=$filelgs[0];
 $lflg=$filelgs[1];
 
+//echo $mflg."\n";
+//echo $lflg."\n";
+
 // Scan the file for sub-tiers.
 scan_tiers($chafile, $filename);
 

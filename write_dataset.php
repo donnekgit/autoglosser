@@ -31,9 +31,10 @@ include("/opt/autoglosser/config.php");
 $corpus="patagonia";
 $target="inputs/$corpus/beta";
 
-$fp = fopen("{$corpus}trans/hym_$corpus.txt", "a") or die("Can't create the file");
+$fp = fopen("{$corpus}trans/xxx_$corpus.txt", "a") or die("Can't create the file");
 
 $files=scandir($target);
+natsort($files);
 foreach ($files as $file)
 {
 	if (preg_match("/.cha/", $file))
@@ -52,7 +53,7 @@ foreach ($files as $file)
 		//$sql_s="select * from $utterances where surface ~ '[[:blank:]]&[^=]'";
 
 		// Get instances of xx or xxx where the %eng tier does not contain [...]
-		$sql_s="select * from {$filename}_cgutterances where surface~'xxx?' and eng!~'\\\[\.\.\.\\\]'";
+		//$sql_s="select * from {$filename}_cgutterances where surface~'xxx?' and eng!~'\\\[\.\.\.\\\]'";
 
 		// Get instances of mm
 		//$sql_s="select * from {$filename}_cgutterances where surface~'hym '";
@@ -66,10 +67,10 @@ foreach ($files as $file)
 			//$surface=preg_replace("/([[:blank:]])(&.[^ ]*)/", "$1   |||$2|||   ", $surface);
 			$speech=$u.":".$row_s->speaker.":\t".$surface."\n";
 			fwrite($fp, $speech);
-		/*
+		
 			if (isset($row_s->eng))
 			{
-				$eng="%eng:\t".$row_s->eng."\n";
+				$eng="%eng:\t".$row_s->eng."\n\n";
 				fwrite($fp, $eng); 
 			}
 		/*

@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */
 
-// This script uses the sound-bullet information in the _utterances table to silence the audio where utterances contain pseudonymised names in the text.
+// This script uses the sound-bullet information in the _utterances table to silence the audio where utterances are marked www (ie no permission to distribute, or contain pseudonymised names in the text.
 
 if (empty($filename))
 {
@@ -31,9 +31,13 @@ if (empty($filename))
 	include("/opt/autoglosser/config.php");
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
-$anon=$filename."_anon";  // Name for the output file.
+$silenced=$filename."_silenced";  // Name for the output file.
 $pseud=$filename."_pseud";  // Name for the pseudonym file.
 $sox=$filename."_sox";  // Name for the silence location table.
+
+$inpath="/home/kevin/library/siarad/patagonia_corpus/audiofiles/";
+$outpath="/home/kevin/library/siarad/patagonia_corpus/silencedfiles/";
+
 
 drop_existing_table($sox);
 
@@ -41,14 +45,21 @@ $pad='';
 $trim='';
 $splice='';
 
+// Get any utterances marked www in the transcription.
+$sql_www=query("create table $sox as select utterance_id, durbegin, durend, duration from $utterances where surface ~ 'www' order by utterance_id");
+
+/*-------------------------------------------
+// For pseudonyms too:
+
 // Get the utterances where pseudonymised names occur.  This uses a table with the pseudonyms listed, which needs to be prepared
-// beforehand.  If no list of pseudonymisations has been retained, just put all the names listed by the autoglosser into a table:
+// beforehand by referring to the pseudonym file.  If no list of pseudonymisations has been retained, just put all the names listed by
+// the autoglosser into a table:
 // create table myfile_pseud as select surface, count(surface) from myfile_cgwords where auto='name' group by surface
 // and then edit that to remove any entries you don't need to worry about (eg place-names).
-$sql_t=query("create table $sox as select utterance_id, durbegin, durend, duration from $utterances where utterance_id in (select distinct utterance_id from $words where surface in (select surface from $pseud order by surface) order by utterance_id)");
 
-// Get any utterances marked www in the transcription.
-$sql_www=query("insert into $sox select utterance_id, durbegin, durend, duration from $utterances where surface ~ 'www' order by utterance_id");
+$sql_t=query("insert into $sox select utterance_id, durbegin, durend, duration from $utterances where utterance_id in (select distinct utterance_id from $words where surface in (select surface from $pseud order by surface) order by utterance_id)");
+
+------------------------------------------*/
 
 $durbegin_prev=0;
 $durend_prev=0;
@@ -63,7 +74,12 @@ while ($row_d=pg_fetch_object($sql_d))
 		$sql_out=query("delete from $sox where utterance_id=$row_d->utterance_id");
 	}
 	
-	// If the startpoint of one utterance is less than the endpoint of the previous one, move the startpoint past the endpoint, and adjust the duration (otherwise you get a splice error).   You will probably get a warning: sox WARN splice: Input audio too short; splices not made: 46, but the audio will probably sound alright.  According to Ulrich Klauer, this is a bug in splice - "splice doesn't like two positions that are very close to each other, and ignores all following positions.  It isn't too apparent since the splicing is optional, and only there to reduce clicks at the silence boundaries, but it isn't done from this point to the end."
+	// If the startpoint of one utterance is less than the endpoint of the previous one, move the startpoint past the endpoint, and adjust
+	// the duration (otherwise you get a splice error).   You will probably get a warning like: 
+	// sox WARN splice: Input audio too short; splices not made: 46
+	// but the audio will probably sound alright.  According to Ulrich Klauer, this is a bug in splice - "splice doesn't like two positions that
+	// are very close to each other, and ignores all following positions.  It isn't too apparent since the splicing is optional, and only there
+	// to reduce clicks at the silence boundaries, but it isn't done from this point to the end."
 	if ($row_d->durbegin<$durend_prev)  
 	{
 		echo $row_d->utterance_id."\n";
@@ -88,7 +104,7 @@ while ($row=pg_fetch_object($result))
 	$splice.=$durbegin." ".$durend." \\\n";
 }
 
-$sox_command="sox $filename.mp3 $anon.mp3 \\\npad \\\n".$pad.$trim."splice \\\n".$splice;
+$sox_command="sox $inpath/$filename.mp3 $outpath/$silenced.mp3 \\\npad \\\n".$pad.$trim."splice \\\n".$splice;
 //echo $sox_command;
 
 exec("$sox_command");

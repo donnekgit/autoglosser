@@ -32,21 +32,20 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// Select all the [or]s from the words table.
 $ors=query("select distinct surface, langid, auto from $words where auto~'\\\[or\\\]'");
 while ($row_ors=pg_fetch_object($ors))
 {
+	// If the [or] is listed in the tidy_auto table ...
 	$tidy_or=query("select * from tidy_auto where surface='$row_ors->surface' and langid='$row_ors->langid' and auto='$row_ors->auto'");
 	while ($row_tidy_or=pg_fetch_object($tidy_or))
 	{
 		//echo $row_ors->auto."\n";
 		//echo $row_tidy_or->sub."\n\n";
 		
+		// ... replace the current auto [or] with the simplified sub from the tidy_auto table, and mark it with an asterisk for debugging.
 		$tidy_auto=query("update $words set auto='$row_tidy_or->sub' || '*' where surface='$row_ors->surface' and langid='$row_ors->langid' and auto='$row_ors->auto'");
 	}
 }
-    
-
-
-
 
 ?>

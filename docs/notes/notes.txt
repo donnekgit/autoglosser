@@ -831,6 +831,8 @@ At the end, you get warnings like:
 WARN splice: Input audio too short; splices not made: 210
 but the file seems to be silenced in the right places.
 
+This is automated in anonymise_audio.php.
+
 
 Running CHECK
 ==========
@@ -912,27 +914,28 @@ Autogloss correction
 If you adjust the dictionary or the cgwords table, you have to run write_cohorts.php again.
 If you adjust the rules, you have to run apply_cg.php or apply_traced_cg.php again.
 
+Get the existing [or]s and add them to the tidy_auto table, using the first segment of the [or] as the substitute (sub) for the [or] autogloss entry, and removing the trailing dot:
+append_or.php
 
+Edit the sub field as necessary, and remove "new" from the newentry field/
 
+Read each [or], and if it is in the or-file, replace the auto in the file (with an asterisk appended to show it is the result of tidying):
+tidy_or.php
 
-
-Collect all the [or]s.  id, surface, langid, auto, sub, filename, using the first segment of auto to fill in the sub.
-insert into tidy_auto (surface, langid, auto, sub, filename) select distinct surface, langid, auto, substring(auto from '^.[^[]*') as sub, filename from patagonia30_cgwords where auto~'\\\[or\\\]'
-Remove the trailing dot:
-update tidy_auto set sub=regexp_replace(sub, E'\\\.$', '', 'g')
-Edit the subs to choose one [or]-less item to put as the autogloss.
-
-Script: read all distinct [or]s in the file; loop through the list; if the [or] is in the or-file, replace the auto in the file (with an asterisk appended to show it is the result of tidying); if it is not, add it to the or-file
-Find all items in the or-file that have no sub, and fill them in.  If they are incorrect, edit the dictionary and/or rules.
-Run the script again.
+Run append_or.php again as necessary, editing the sub field.
 
 Use Meld to view changes throughout the whole file dependent on changes in the grammar.
 
 Note that the tidy_or table will only work if the "value-based" tags remain omitted.  If they are added, the auto string will be different, and therefore the substitution will not work.
 
 
+Second edition of Siarad
+================
 
-
+For the files in inputs/siarad we need to:
+- remove the filename from the sound bullets
+- fix the mistaken punctuation (revert_punctuation() in fns.php, originally used in utils/make_global_changes.php)
+- change the @Languages line to give 3-letter abbreviations (and amend other parts of the header as well) - this can perhaps be done via utils/make_global_changes.php - IMPORTANT!!! once the beta files are fixed, we need to run utils/sh_run_prepare with the utils/sed_get_header $f line live, to collect the fixed headers - this is because the langid tag selection and the writeout uses the stored header - FIXME? perhaps it should just run anew each time from the beta file
 
 
 

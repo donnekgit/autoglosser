@@ -53,6 +53,7 @@ foreach ($files as $file)
 		$sql_int=query("select internal, count(*) as number from ".$filename."_cognates group by internal");
 		while ($row_int=pg_fetch_object($sql_int))
 		{
+			if ($row_int->internal=="---") { $int_na=$row_int->number; }
 			if ($row_int->internal=="ST") { $int_st=$row_int->number; }
 			if ($row_int->internal=="NST") { $int_nst=$row_int->number; }
 			if ($row_int->internal=="SNT") { $int_snt=$row_int->number; }
@@ -64,10 +65,10 @@ foreach ($files as $file)
 		$int_st=(isset($int_st)) ? $int_st : 0;	
 		$int_snt=(isset($int_snt)) ? $int_snt : 0;
 		
-		$write1=query("insert into $results (filename, ext_na, ext_st, ext_nst, ext_snt, ext_nsnt, int_st, int_nst, int_snt, int_nsnt) values ('$filename', $ext_na, $ext_st, $ext_nst, $ext_snt, $ext_nsnt, $int_st, $int_nst, $int_snt, $int_nsnt)");
+		$write1=query("insert into $results (filename, ext_na, ext_st, ext_nst, ext_snt, ext_nsnt, int_na, int_st, int_nst, int_snt, int_nsnt) values ('$filename', $ext_na, $ext_st, $ext_nst, $ext_snt, $ext_nsnt, $int_na, $int_st, $int_nst, $int_snt, $int_nsnt)");
 	}
 	
-	unset($ext_na, $ext_st, $ext_nst, $ext_snt, $ext_nsnt, $int_st, $int_nst, $int_snt, $int_nsnt);
+	unset($ext_na, $ext_st, $ext_nst, $ext_snt, $ext_nsnt, $int_na, $int_st, $int_nst, $int_snt, $int_nsnt);
 }
 
 ?>

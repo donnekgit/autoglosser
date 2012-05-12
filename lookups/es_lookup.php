@@ -25,10 +25,22 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // This file handles dictionary lookups in the Spanish dictionary, eslist.
 
+/* ----------------------------------------
 // For testing purposes:
 //include("includes/fns.php");
 //include("/opt/autoglosser/config.php");
-//$surface="mirarélas";
+//$surface="mirabanlas";  // incorrect
+//$surface="mate";  // incorrect
+//$surface="durante";  // incorrect
+//$surface="emocionante";  // incorrect
+//$surface="interesante";  // incorrect
+//$surface="vernos";
+//$surface="darle";
+//$surface="acompáñanos";
+//$surface="respóndeme";
+//$surface="comiéndolo";
+//$surface="escribiéndole";
+-----------------------------------------*/
 
 $foundclitics='0';  // Set a marker
 
@@ -54,22 +66,26 @@ if (preg_match("/.+#/", $candidate))  // Only do the clitic lookup if the segmen
     $result_cl=pg_query($db_handle,$sql_cl) or die("Can't get the items");
     if (pg_num_rows($result_cl)>0)  // Assuming we have a hit ...
     {
-        $foundclitics='1';  // Set the marker to show this.
         while ($row_cl=pg_fetch_object($result_cl))
         {
-            $lemma="\t\"".$row_cl->lemma."\" ";
-            $pos=$row_cl->pos." ";
-            $gender=($row_cl->gender =='') ? "" : $row_cl->gender." ";
-            $number=($row_cl->number =='') ? "" : $row_cl->number." ";
-            $tense=($row_cl->tense =='') ? "" : $row_cl->tense." ";
-            $notes=($row_cl->notes =='') ? "" : $row_cl->notes." ";
-            $enlemma=":".$row_cl->enlemma.": ";
-            $id="[".$row_cl->id."]";
-            $entry.=pg_escape_string($lemma.$place."[es] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id);
-            $entry=$entry.$prclitic1.$prclitic2."\n";  // Attach the clitics we found earlier
-            echo $entry;  // View
-            fwrite($fp, $entry);  // Write
-            unset($entry, $cliticverb, $prclitic1, $prclitic2);  // Clear the decks
+			// Only do the clitic lookup for things that are verbs, and only for infin, prespart and imper
+            if ($row_cl->pos=="v" and ($row_cl->tense=="infin") or ($row_cl->tense=="imper") or ($row_cl->tense=="prespart"))
+            {
+				$foundclitics='1';  // Set the marker to show this.
+				$lemma="\t\"".$row_cl->lemma."\" ";
+				$pos=$row_cl->pos." ";
+				$gender=($row_cl->gender =='') ? "" : $row_cl->gender." ";
+				$number=($row_cl->number =='') ? "" : $row_cl->number." ";
+				$tense=($row_cl->tense =='') ? "" : $row_cl->tense." ";
+				$notes=($row_cl->notes =='') ? "" : $row_cl->notes." ";
+				$enlemma=":".$row_cl->enlemma.": ";
+				$id="[".$row_cl->id."]";
+				$entry.=pg_escape_string($lemma.$place."[es] ".$pos.$gender.$number.$tense.$notes.$enlemma.$id);
+				$entry=$entry.$prclitic1.$prclitic2."\n";  // attach the clitics we found earlier
+				echo $entry;  // view
+				fwrite($fp, $entry);  // write
+				unset($entry, $cliticverb, $prclitic1, $prclitic2);  // clear the decks
+			}
         }
     }
 }

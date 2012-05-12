@@ -103,17 +103,17 @@ while ($row_s=pg_fetch_object($result_s))
 
 //*****************
 
+    if (isset($row_s->gls))
+    {
+        $gls="%gls:\t".$row_s->gls."\n";
+        fwrite($fp, $gls); 
+    }
+
     // We should be using the scantiers file to add in any subtiers, on the following pattern:
     if (isset($row_s->eng))
     {
         $eng="%eng:\t".$row_s->eng."\n";
         fwrite($fp, $eng); 
-    }
-    
-    if (isset($row_s->gls))
-    {
-        $gls="%gls:\t".$row_s->gls."\n";
-        fwrite($fp, $gls); 
     }
 
 	 if (isset($row_s->mor))
@@ -141,6 +141,7 @@ fwrite($fp, "@End\n");
 
 fclose($fp);
 
-exec("sed -ri '/%aut:\t$/ d' outputs/".$filename."/".$filename."_autoglossed.txt");  // Delete empty %aut lines in the autoglossed file.
+// Delete empty %aut lines in the autoglossed file.
+exec("sed -ri '/%aut:\t$/ d' outputs/".$filename."/".$filename."_autoglossed.txt");
 
 ?>

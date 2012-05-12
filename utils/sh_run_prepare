@@ -25,7 +25,7 @@
 
 # This script runs prepare_file.php on all the files in a directory, straightening out the lines and extracting the headers
 
-FILES=inputs/patagonia/beta/*.cha
+FILES=inputs/miami/beta/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
 
 for f in $FILES
@@ -44,6 +44,24 @@ do
 	# Just refetch the headers (remember to edit the bottom of sed_get_header).
 	#utils/sed_get_header $f
 	
+	# Fix um and uh
+	#php fix_um-uh.php $f
+	
+	# Get total number of utterances
+	#filename=$(basename $f)
+	#fixedfile=${filename%.cha}
+	#utt=${fixedfile}_cgutterances
+	# http://www.postgresql.org/docs/current/static/app-psql.html
+	# psql -h localhost -U kevin -d autoglosser -q -c "select count(*) from davies9_cgutterances" would be the simplest form, using -c to implement the SQL command, but in this case we also want to run some formatting commands (ie mix SQL and psql meta-commands), so the only way to do this is to pipe the complete command into psql using echo.
+	# \pset tuples_only (= \t) strips the format headings and \pset format unaligned (= \a)strips the tabs alignment from the output.
+	# Note that if you are using the short forms, you need an additional backslash to escape the first backslash.
+	# -q tells it to give the result quietly, ie without any info about the output.
+	# We need an additional backslash to escape the separator meta-command \\.
+	#myno=$(echo '\\a \\t \\\ select count(*) from ' $utt | psql -h localhost -U kevin -d autoglosser -q)
+	#echo "$fixedfile:" $myno
+	#total=$(($total+$myno))
+	#echo  "Total so far:" $total "\n"
+	
 	# Replace xxx n %eng tiers with [...].
 	#sed -ri "/%eng/s/xxx/[...]/g" $f
 	#sed -ri "/%eng/s/ \.\.\. / [...] /g" $f
@@ -51,7 +69,10 @@ do
 	#sed -ri "/%eng/s/\[…\]/[...]/g" $f
 	
 	# Get instances of [...]'s directly from the files (not the tables).
-	ack-grep '%eng' $f /dev/null | ack-grep '\[\.\.\.\][^ |!|\?|$]' >> xxx_grep.txt
+	#ack-grep '%eng' $f /dev/null | ack-grep '\[\.\.\.\][^ |!|\?|$]' >> xxx_grep.txt
+	
+	# Run CHECK on the corpus
+	clan/unix/bin/check $f >> miamitrans/allcheck.txt
 	
 	# Cypriot: get rid of the (7 .0) markers.
 	#sed -i 's/([0-9] \.[0-9] )//g' $f

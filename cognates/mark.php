@@ -51,7 +51,7 @@ $sql_mark=query("update $words set clause='c' where langid='cym' and surface='bo
 $sql_mark=query("update $words set clause='c' where langid='cym' and gls='TAG'");
 $sql_mark=query("update $words set clause='c' where langid='cym' and auto='you_know.IM'");
 $sql_mark=query("update $words set clause='c' where langid='cym' and auto='yes.ADV.PAST'");  
-$sql_mark=query("update $words set clause='c' where langid='cym' and auto='that is.ADV'");  // dyna
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto='that_is.ADV'");  // dyna
 $sql_mark=query("update $words set clause='c' where langid='cym' and auto='or.CONJ' and gls='then'");
 
 

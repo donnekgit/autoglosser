@@ -34,6 +34,7 @@ CREATE TABLE $results (
     ext_nst integer,
     ext_snt integer,
     ext_nsnt integer,
+    int_na integer,
     int_st integer,
     int_nst integer,
     int_snt integer,
