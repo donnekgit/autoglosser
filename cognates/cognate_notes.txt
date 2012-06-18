@@ -75,7 +75,9 @@ Note that clauses where no codeswitch can be counted (---) are omitted.
 May 2012: Clause analysis
 =================
 
-Regloss davies9.
+WARNING!!! The above will overwrite the _cognates tables, and therefore delete any info about codeswitches and triggers.  Codeswitch information with no reference to triggers (ie SNT and NSNT instead of SNT, ST, NSNT, NST) can be restored by running cognates/analyse_cognates.php, but the best long-term solution is probably to set up tables with different names eg (_clauses for this type of analysis).
+
+Regloss.  Problem with @Languages in the header being "cy, en" instead of "cym, eng".  Adjusting the $mflg routine to allow "cy" and "en" imported the langid for Welsh as "cy" instead of "cym" (but "eng" was OK) - use utils/sh_pg_stuff to adjust the tables.  The Siarad headers probably need to be changed to reflect the fact that the new precode format is used.
 
 php cognates/extend_cgwords.php davies9
 php cognates/make_clauses.php davies9
@@ -83,6 +85,15 @@ php cognates/reinforcers.php davies9
 php cognates/write_rei.php davies9 - this gives the speaker turns, and also a printout that we don't use here
 php cognates/analyse_clauses.php davies9
 
+The above are now all included in cognates/prep_rbrul.php, so the process can be launched over the corpus by editing and running cognates/sh_run_prep_rbrul.  Note that as well as outputting a file for each conversation, prep_rbrul.php appends each file to a "jumbo" file.  
+
+You need to remove all instances of the headers:
+sed -i '/^"speaker/ d' caroline/jumbo.csv 
+and then put the first instance back in:
+"speaker","utt_no","cl_in_utt","cl_start","cl_end","spkturn_no","cl_in_spkturn","file","surface","autogloss","matrix_lg","linguality","dv","verb_morph","qlang","dob","gender","age","work","brought_up","main_area","education","welsh_since","english_since","welsh_ability","english_ability","mother_spoke","father_spoke","guardian_spoke","primary_lg","secondary_lg","welsh_modern","welsh_useful","welsh_friendly","welsh_inspiring","welsh_beautiful","welsh_influential","english_modern","english_useful","english_friendly","english_inspiring","english_beautiful","english_influential","contact1","contact2","contact3","contact4","contact5","nat_id","i_separate","shdbe_separate"
+
+Also remove and clauses assigned to the researcher:
+sed -i '/^"RES/ d' caroline/jumbo.csv 
 
 
 
@@ -177,6 +188,46 @@ Bugs
 External forward shows ST or NST in the first line of some files.  This is because the first clause is not being marked "new" in those files.  Why?
 
 A single (trigger?) word at the head of a speech-turn will be marked as external ST.
+
+
+
+
+
+
+create table fusser28_cgwords_nuked as select * from fusser28_cgwords
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

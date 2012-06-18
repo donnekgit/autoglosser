@@ -31,11 +31,15 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+//$words=$words."_nuked";
+
 include("mark.php");
 
 include("adjust_deletes.php");
 
 include("adjust_moves.php");
+
+//include("adjust_moves_pass2.php");
 
 include("segment.php");
 

@@ -25,7 +25,10 @@
 
 # This script selects trigrams from each file specified in the FILES line, and puts them into the table specified in subset.
 FILES=inputs/siarad/beta/*.cha
-subset=pd_npn
+subset=pd_w
+
+#php mc/create_mctable.php
+
 for f in $FILES
 do
 	echo "Processing $f ..."

@@ -41,3 +41,6 @@ pg_dump -t freq_siarad --clean autoglosser | gzip > $GZDIR/freq_siarad.sql.gz
 pg_dump -t patagonia_sp --clean autoglosser | gzip > $GZDIR/patagonia_sp.sql.gz
 pg_dump -t miami_sp --clean autoglosser | gzip > $GZDIR/miami_sp.sql.gz
 pg_dump -t siarad_sp --clean autoglosser | gzip > $GZDIR/siarad_sp.sql.gz
+pg_dump -t cylist --clean autoglosser | gzip > $GZDIR/cylist.sql.gz
+pg_dump -t eslist --clean autoglosser | gzip > $GZDIR/eslist.sql.gz
+pg_dump -t enlist --clean autoglosser | gzip > $GZDIR/enlist.sql.gz

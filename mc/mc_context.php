@@ -27,12 +27,12 @@ If not, see <http://www.gnu.org/licenses/>.
 
 $subset=$_SERVER['argv'][1];
 //$mcout="mc_n_adj_".$subset;
-$mcout="mc_".$subset;
+$mcout="pd_final_combined";
 
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
     
-$fp = fopen("mc/mc_output/$mcout.tex", "w") or die("Can't create the file");
+$fp = fopen("peredur/$mcout.tex", "w") or die("Can't create the file");
 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
@@ -40,7 +40,7 @@ foreach ($lines as $line)
 	if (preg_match("/filename.cha/", $line))
 	{
 		//$line=preg_replace("/filename.cha/", "Mixed-language noun+adjective phrases in ".ucfirst($corpus), $line);
-		$line=preg_replace("/filename.cha/", "Non-sandwich 1S pronoun objects", $line);
+		$line=preg_replace("/filename.cha/", "3S possessives", $line);
 	}
 	else
 	{
@@ -57,7 +57,8 @@ $i=1;
 //$sql1=query("select * from $mcout where langid1='cym' and langid2='cym&eng' order by surface2");
 //$sql1=query("select * from $mcout where langid2!~'&' order by langid1, langid2");
 //$sql1=query("select * from $mcout where use='k' order by filename, utterance_id, location");
-$sql1=query("select * from $mcout order by surface2, filename, utterance_id, location");
+//$sql1=query("select * from $mcout order by surface2, filename, utterance_id, location");
+$sql1=query("select * from $mcout order by surface_target, surface_after, filename, utterance_id, location");
 while ($row1=pg_fetch_object($sql1))
 {
 	$sep="\\rule{\linewidth}{0.1mm} \\\\ \n";
@@ -65,7 +66,8 @@ while ($row1=pg_fetch_object($sql1))
 		
 	//$hit=tex_surface($row1->surface1." ".$row1->surface2);
 	//$hit=tex_surface($row1->surface1." ".$row1->surface2." ".$row1->surface3);
-	$hit=tex_surface($row1->surface3." ".$row1->surface2." ".$row1->surface1);
+	//$hit=tex_surface($row1->surface3." ".$row1->surface2." ".$row1->surface1);
+	$hit=tex_surface($row1->surface_before." ".$row1->surface_target." ".$row1->surface_after);
 
 	$hit=$i.": \\textbf{".$hit."}";
 	fwrite($fp, $hit);

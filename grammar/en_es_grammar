@@ -211,7 +211,6 @@ remove ([in] "gum" n sg sm);  # um<gum
 remove ([cy] "a" h);  # ha<a
 remove ([cy] "cyn" prep sm);  # gyn<cyn
 remove ([cy] "pe" conj sm);  # be<pe
-remove ([cy] "be" int sm);  # fe<be
 remove ([cy] "bod" v 3p pres sm);  # ddyn<dyn
 
 
@@ -1224,4 +1223,5 @@ select ([es] "claro" e) if (not -1 (n));
 substitute (:remove:) (:retire:) ("retirar") (0* ("viejo"));  # adjust the meaning of "retirar" when "viejo" is nearby
 substitute (:wear:) (:have_been:) ("llevar") (1 (v prespart));  # llevamos hablando tiempo
 substitute (int :what:) (adv :how:) ("qué") (1 (adj));  # qué lindo!
+substitute (:a_bit:) (:beak:) ("pico" n m sg) (-2 (num)) (-1 ("y" conj));  # ochenta y pico
 

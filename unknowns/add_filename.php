@@ -29,8 +29,8 @@ include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
 // Corpus
-$corpus="patagonia";
-$mylang="ind";
+$corpus="miami";
+$mylang="eng";
 
 $unknowns="${corpus}_${mylang}_unknowns";
 $uniq="${unknowns}_uniq";

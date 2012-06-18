@@ -27,8 +27,8 @@
 
 #FILES=inputs/miami/beta/fix_spa/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
-FILES=inputs/patagonia/beta/*.cha
-outfile=patagoniatrans/sb_patagonia.txt
+FILES=inputs/miami/beta/*.cha
+outfile=miamitrans/minibus.txt
 
 for f in $FILES
 do
@@ -45,7 +45,7 @@ do
 	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  '0_0' >> $outfile
 	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  ' $' >> $outfile
 	#ack-grep '^\*[A-Z]{3}' $f | ack-grep  'www' >> $outfile
-	ack-grep '^\*[A-Z]{3}' $f | ack-grep  ' $' >> $outfile
+	ack-grep '^\*[A-Z]{3}' $f | ack-grep  '[[:blank:]]mini bus' >> $outfile
 
 done
 

@@ -32,11 +32,19 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$cognates=$filename."_cognates";
+$clause="";
+$auto="";
+$langid="";
+$slotlg="";
+
+$words=$words."_nuked";
+
+//$cognates=$filename."_cognates";
+$cognates=$filename."_diana";
 
 include("create_cognates.php");
 
-//$fp = fopen("cognates/outputs/".$filename."_spkturn.txt", "w") or die("Can't create the file");
+$fp=fopen("cognates/diana/".$filename."_spkturn.txt", "w") or die("Can't create the file");
 
 $sql1=query("select spkturn, clspk from $words where langid!='999' and rei!='ignore' group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and clauses within that speaker turn and place them in order.  We need to omit punctuation (langid!='999') and reinforcers (rei!='ignore').
 while ($row1=pg_fetch_object($sql1))
@@ -56,8 +64,31 @@ while ($row1=pg_fetch_object($sql1))
 		$loc[]=$row3->location;  // Gather locations to give clause beginning and end.
 		$speaker=$row3->speaker;
 		$clause.=$row3->surface." ";  // Generate the clause.
-		$auto.=$row3->auto." ";
+		$auto.=$row3->auto." ";  // Generate the autogloss.
+		$langid.=$row3->langid." ";  // Generate the langid sequence.
 		
+		if ($row3->langid=="cym")  // Generate a numerical representation of the  langid sequence.
+		{
+			$slot="1";
+		}
+		elseif ($row3->langid=="eng")
+		{
+			$slot="2";
+		}
+		elseif ($row3->langid=="spa")
+		{
+			$slot="3";
+		}
+		elseif ($row3->langid=="cym&eng")
+		{
+			$slot="0";
+		}
+		elseif ($row3->langid=="eng&spa")
+		{
+			$slot="0";
+		}
+		$slotlg.=$slot;
+
 		if (!preg_match("/^t[0-9]$/", $row3->cognate))
 		{
 			$nt_lg[$row3->location]=$row3->langid; 
@@ -73,36 +104,35 @@ while ($row1=pg_fetch_object($sql1))
 	$minloc=min($loc);  // Get location of clause beginning.
 	$maxloc=max($loc);  // Get location of clause end.
 
-	$f_lg=reset($nt_lg);  // The first non-T in the clause.
-	$p_lg=end($nt_lg);  // The last non-T in the clause.
+	$f_lg=reset($nt_lg);  // Language of the first non-T in the clause.
+	$p_lg=end($nt_lg);  // Language of the last non-T in the clause.
 	
 	$t_ser=serialize($t);
 	
 	$nt_lg_ser=serialize(array_count_values($nt_lg));  // Count how many languages appear in the clause (not counting triggers).
 
-	// Write out a check file
-	
-	//fwrite($fp, $spkturn.", ".$clspk."\t".$speaker."\t".$clause."\n");  // Write out the clauses.
-	echo $speaker.": ".$clause."\n";
-	
 	$surface=trim(pg_escape_string($clause));
 	$auto=trim(pg_escape_string($auto));
 
-	$write1=query("insert into $cognates (spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, nt_lg_ser, f_lg, p_lg, speaker, surface, auto, filename) values ($spkturn, $clspk, '', $utt, $minloc, $maxloc, '$t_ser', '$nt_lg_ser', '$f_lg', '$p_lg', '$speaker', '$surface', '$auto', '$filename')");
+	$write1=query("insert into $cognates (spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, nt_lg_ser, f_lg, p_lg, speaker, surface, auto, langid, slotlg, filename) values ($spkturn, $clspk, '', $utt, $minloc, $maxloc, '$t_ser', '$nt_lg_ser', '$f_lg', '$p_lg', '$speaker', '$surface', '$auto', '$langid', '$slotlg', '$filename')");
 	
 	if ($prev_spk!=$speaker)  // If we have a new speaker ...
 	{
-		//fwrite($fp, "\n");  // Add a blank line to delineate speaker turns.
+		fwrite($fp, "\n");  // Add a blank line to delineate speaker turns.
 		echo "\n";  // Add a blank line to show changes in speech-turn.
 		$write2=query("update $cognates set newturn='new' where clause_id=currval('".$cognates."_clause_id_seq')");
 		// But by definition, the first clause (clspk 1) of every spkturn will be new, so we don't really need the above - we could just do a query to add "new" to where clspk=1.
 	}
 	
+	// Write out a check file
+	fwrite($fp, $spkturn.", ".$clspk."\t".$speaker."\t".$clause."\n");  // Write out the clauses.
+	echo $speaker.": ".$clause."\n";
+
 	$prev_spk=$speaker;  // Keep track of the previous speaker.
 
-	unset($utt, $loc, $minloc, $maxloc, $speaker, $clause, $auto, $nt_lg, $t, $langs);
+	unset($utt, $loc, $minloc, $maxloc, $speaker, $clause, $auto, $langid, $slot, $slotlg, $nt_lg, $t);
 }
 
-//fclose($fp);
+fclose($fp);
 
 ?>

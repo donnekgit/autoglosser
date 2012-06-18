@@ -23,24 +23,13 @@
 #*********************************************************************
 #*/ 
 
-# This script does a compressed dump of the _cgutterances and _cgwords table for each file in the corpus into a dump dir.
-# The --clean option means that the file will include SQL commands to drop the old table.
-# Use sh_global_update_corpus to import these compressed dumps back into a database.
+# This script produces a set of clauses ready for input to Rbrul.
 
-corpus="cypriot"
-
-#FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
-FILES=inputs/$corpus/beta/*  # Corpus tables, based on the chat files in the corpus directory.
-GZDIR=dbdevel/${corpus}_dump  # Specify the dump dir.
-
-mkdir -p $GZDIR
+#FILES="inputs/siarad/beta/deuchar1.cha inputs/siarad/beta/lloyd1.cha inputs/siarad/beta/smith1.cha"
+FILES=inputs/siarad/beta/*.cha
 
 for f in $FILES
 do
-	filename=$(basename $f)  # the filename from the path - file.cha
-	chat=${filename%.cha}  # drop the filename's extension
-	
-	echo "Processing $chat ..."
-	pg_dump -t ${chat}_cgutterances --clean autoglosser | gzip > $GZDIR/${chat}_cgutterances.sql.gz
-	pg_dump -t ${chat}_cgwords --clean autoglosser | gzip > $GZDIR/${chat}_cgwords.sql.gz
+	echo "Processing $f ..."
+	php cognates/prep_rbrul.php $f
 done

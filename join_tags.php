@@ -33,13 +33,13 @@ if (empty($filename))
 }
 
 // Concatenate the fields in the CG output file
-$sql="select * from $cgfinished order by utterance_id, location";
+$sql="select * from $cgfinished order by utterance_id, location, surface, pos";  // Use surface and pos order to guarantee that multiple readings will always appear in the same order - this is useful for tidying later.
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
 while ($row=pg_fetch_object($result))
 {
 	$enlemma=$row->enlemma.".";
 	$pos=($row->pos=='') ? "" : $row->pos.".";
-	$pos=preg_replace("/(\.archaic|\.amer|\.err|\.literary|\.north|\.nstan|\.pat|\.short|\.vulg|\.spoken)/", "", $pos);  // Remove value-judgement tags.
+	$pos=preg_replace("/(\.archaic|\.amer|\.err|\.literary|\.north|\.nstan|\.pat|\.polite|\.short|\.vulg|\.spoken)/", "", $pos);  // Remove value-judgement tags.
     $extra=($row->extra =='') ? "" : "+".$row->extra.".";  // needs to be changed to = to follow the Leipzig glossing rules
     $seg=($row->seg =='') ? "" : "+".$row->seg;  // needs to be changed to = to follow the Leipzig glossing rules
 	$combined1=$pos.$extra.$seg;
@@ -64,6 +64,7 @@ while ($row=pg_fetch_object($result))
     // Write them into the words table
     $sql_u="update $words set auto='$auto' where utterance_id=$utt and location=$loc";
     $result_u=pg_query($db_handle,$sql_u) or die("Can't update");
+    
 }
 
 ?>

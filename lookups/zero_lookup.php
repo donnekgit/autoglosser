@@ -54,20 +54,29 @@ switch ($langid) // Look up the relevant main language based on the langid tag. 
 	case "cym&spa":
 		$mainlg="spa";
 		break;
+	case "cym+spa":
+		$mainlg='cym';
+		break;
 	case "spa+cym":
 		$mainlg='spa';
 		break;
 	case "cym&eng":
 		$mainlg='eng';
 		break;
-	case "eng+cym":
-		$mainlg='eng';
-		break;
 	case "cym+eng":
 		$mainlg='cym';
 		break;
-	case "cym+spa":
-		$mainlg='cym';
+	case "eng+cym":
+		$mainlg='eng';
+		break;
+	case "eng&spa":
+		$mainlg='eng';
+		break;
+	case "eng+spa":
+		$mainlg='eng';
+		break;
+	case "spa+eng":
+		$mainlg='spa';
 		break;
 }
 

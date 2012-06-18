@@ -29,9 +29,9 @@ include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
 $corpus="patagonia";
-$target="inputs/$corpus/beta";
+$target="inputs/$corpus/autoglossed";
 
-$fp = fopen("{$corpus}trans/xxx_$corpus.txt", "a") or die("Can't create the file");
+$fp = fopen("{$corpus}trans/spa_mut_$corpus.txt", "a") or die("Can't create the file");
 
 $files=scandir($target);
 natsort($files);
@@ -57,6 +57,9 @@ foreach ($files as $file)
 
 		// Get instances of mm
 		//$sql_s="select * from {$filename}_cgutterances where surface~'hym '";
+
+		// Get instances of soft mutation of Spanish words
+		$sql_s="select * from {$filename}_cgutterances where utterance_id in (select utterance_id from {$filename}_cgwords where auto~'\\\.SM$')";
 
 		$result_s=pg_query($db_handle,$sql_s);
 		while ($row_s=pg_fetch_object($result_s))

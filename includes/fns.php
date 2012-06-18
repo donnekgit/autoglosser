@@ -252,6 +252,66 @@ function lineclean_surface($text)
     return $text;
 }
 
+function lineclean_im_diana($text)
+// Clean lines of IMs for trigger analysis.
+{
+    $text=preg_replace("/(^| )ah(h|a)?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )a_ha@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )argh@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )aww?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )aye@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )bl?(a|u)h@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )bleugh@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )boing@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )drat(ia)?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )d(o|u)h@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )e(h|w)@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )erm?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )e?ugh@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )grr@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )hah?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ha_ha@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )he(h|i|y)?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )hehey@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )h(o|uh)@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )h(m|u|y)m(ph)?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )jiw@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )la_la@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )mmm?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )mm?hm@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )mm_hm@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )nah@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )o(c|h)?h@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )oho@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ooo?(f|h|ph|ps)@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ouch@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ow@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )phew@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ph?oo(ph)?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )pw?ff@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )phwoar?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )sh(h|t)@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )shush@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ssh@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )tsk@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )t(u|w)t@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )u(h|m)@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )uh_(hu|o)h@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )uhh?uh@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )wa(a|h)@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )wff@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )whoah?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )woohoo@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )w(a|o)w@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )y(a|e)y@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ych@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ý@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )yuc?k@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )yum(my)?@s:cym&eng( |$)/u", " ", $text);
+    $text=preg_replace("/(^| )ŵps@s:cym&eng( |$)/u", " ", $text);
+    return $text;
+}
+
 function wordclean_surface($text)
 // Make corrections to the individual words in the %gls tier.
 {

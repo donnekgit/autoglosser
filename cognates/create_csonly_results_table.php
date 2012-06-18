@@ -21,26 +21,28 @@ You should have received a copy of the GNU General Public License
 and the GNU Affero General Public License along with this program.
 If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
-*/ 
+*/
 
-// This script extends the cgwords table to add some columns for cognate analysis.
+drop_existing_table($results);
 
-if (empty($filename))
-{
-	include("includes/fns.php");
-	include("/opt/autoglosser/config.php");
-	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
-}
+$sql_table = "
+CREATE TABLE $results (
+    results_id serial NOT NULL,
+    filename character varying(50),
+    speaker character varying (3),
+    ext_na integer,
+    ext_switch integer,
+    ext_noswitch integer,
+    int_na integer,
+    int_switch integer,
+    int_noswitch integer
+);
+";
+$result_table=pg_query($db_handle, $sql_table);
 
-//$words=$words."_nuked";
-
-$add_cognate=query("alter table $words add column cognate character varying(10) default ''");
-
-$add_rei=query("alter table $words add column rei character varying(10) default ''");
-//$blank_rei=query("update stammers4_cgwords set rei='' where rei is null");
-
-$add_spkturn=query("alter table $words add column spkturn integer");
-
-$add_clspk=query("alter table $words add column clspk integer");
+$sql_pkey = "
+ALTER TABLE ONLY ".$results." ADD CONSTRAINT ".$results."_pk PRIMARY KEY (results_id);
+";
+$result_pkey=pg_query($db_handle, $sql_pkey);
 
 ?>

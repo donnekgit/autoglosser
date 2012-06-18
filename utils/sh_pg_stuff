@@ -1,0 +1,112 @@
+#!/bin/sh
+
+#/* 
+#*********************************************************************
+#Copyright Kevin Donnelly 2010, 2011.
+#kevindonnelly.org.uk
+#This file is part of the Bangor Autoglosser.
+#
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License and the GNU
+#Affero General Public License as published by the Free Software
+#Foundation, either version 3 of the License, or (at your option)
+#any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#and the GNU Affero General Public License along with this program.
+#If not, see <http://www.gnu.org/licenses/>.
+#*********************************************************************
+#*/ 
+
+# This script runs PostgreSQL stuff.
+
+FILES=inputs/patagonia/beta/*.cha
+
+for f in $FILES
+do
+	echo "Processing $f ..."
+	
+	filename=$(basename $f)
+	fixedfile=${filename%.cha}
+
+
+# 	# -------------------------------------------------
+# 	# Get total number of utterances
+# 	# -------------------------------------------------
+# 
+# 	utt=${fixedfile}_cgutterances
+# 
+# 	# http://www.postgresql.org/docs/current/static/app-psql.html
+# 	# psql -h localhost -U kevin -d autoglosser -q -c "select count(*) from davies9_cgutterances" would be the simplest form, using -c to implement the SQL command, but in this case we also want to run some formatting commands (ie mix SQL and psql meta-commands), so the only way to do this is to pipe the complete command into psql using echo.
+# 	# \pset tuples_only (= \t) strips the format headings and \pset format unaligned (= \a)strips the tabs alignment from the output.
+# 	# Note that if you are using the short forms, you need an additional backslash to escape the first backslash.
+# 	# -q tells it to give the result quietly, ie without any info about the output.
+# 	# We need an additional backslash to escape the separator meta-command \\.
+# 	
+# 	myno=$(echo '\\a \\t \\\ select count(*) from ' $utt | psql -h localhost -U kevin -d autoglosser -q)
+# 	echo "$fixedfile:" $myno
+# 	
+# 	total=$(($total+$myno))
+# 	echo  "Total so far:" $total "\n"
+
+
+	# -------------------------------------------------
+	# Get total number of words
+	# -------------------------------------------------
+
+	words=${fixedfile}_cgwords
+
+	# Note the need for an additional single quote at the end of the WHERE clause.
+	
+	myno=$(echo '\\a \\t \\\ select count(*) from ' $words ' where langid !='\'999\''' | psql -h localhost -U kevin -d autoglosser -q)
+	echo "$fixedfile:" $myno
+	
+	total=$(($total+$myno))
+	echo  "Total so far:" $total "\n"
+
+
+# 	# -------------------------------------------------
+# 	# Get total duration of utterances
+# 	# -------------------------------------------------
+# 	# This gets the total duration of utterances for a particular speaker.
+# 	# Note the use of escaped single quotes to allow the search item in the WHERE clause.
+# 
+# 	utt=${fixedfile}_cgutterances
+# 	
+# 	myno=$(echo '\\a \\t \\\ select sum((duration)::integer) from '$utt' where speaker='\'MAR\'' group by speaker' | psql -h localhost -U kevin -d autoglosser -q)
+# 	echo "$fixedfile:" $myno
+# 
+# 	total=$(($total+$myno))
+# 	echo  "Total so far:" $total "\n"
+
+
+# 	# -------------------------------------------------
+# 	# Update the langid on all _cgwords tables
+# 	# -------------------------------------------------
+# 
+# 	words=${fixedfile}_cgwords
+# 	psql -h localhost -U kevin -d autoglosser -q -c "update $words set langid='cym' where langid~'^cy$'"
+
+
+done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -23,6 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
+// This script gathers the codeswitch/trigger data from _cognates tables to give a summary table.
 
 $target="inputs/siarad/beta";
 

@@ -61,11 +61,13 @@ while ($row0=pg_fetch_object($result0))
 		
 		// Prepositions used as tense-helpers (relevant only if you are marking clauses on infinitives - this will remove the clause-marker on the infinitive when it is preceded by one of these prepositions.
 		// CHECK - shouldn't this be: if (preg_match("/^(yn|wedi|am|heb)$/", $prev_s) && preg_match("/(be|which_is)\./", $prev2_a))
+		/*
 		if (preg_match("/^(yn|wedi|am|heb)$/", $this_s) && preg_match("/(be|which_is)\./", $prev_a))
 		{
 			$d1_da=query("update $words set clause=clause || '+d1' where utterance_id=$utt and location=$this_loc");
 			echo "Deleting $utt,$this_loc\n";
 		}
+		*/
 		
 		/*
 		// Infinitives after auxiliary or modal verbs - uncomment this section where only finite verbs are required

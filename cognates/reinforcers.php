@@ -25,6 +25,8 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // This script marks reinforcers in the file when they occur in the array $rei and the speaker differs from the speaker of the preceding clause.  There will be some error messages due to the code not applying properly to punctuation (999), but the last query sets all punctuation to "ignore" too.
 
+// Note the new addition at the end to ignore all IMs.
+
 if (empty($filename))
 {
 	include("includes/fns.php");
@@ -32,9 +34,15 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+//$words=$words."_nuked";
+
 // Set up the array holding the reinforcers to be ignored.
-$rei=array("ah", "ahh", "er", "hmm", "huh", "mmm", "mmhm", "oh", "ooh", "uh_oh", "um", "de", "yn_de", "do", "ie", "ia", "yeah", "yep", "na", "nage", "iawn", "OK", "o_k", "right", "timod", "well");
+// For cognates/triggers:
+$rei=array("ah", "ahh", "aha", "a_ha", "argh", "aw", "aww", "aye", "bah", "buh", "blah", "bleugh", "boing", "drat", "dratia", "doh", "duh", "eh", "er", "erm", "eugh", "ew", "grr", "ha", "ha_ha", "hah", "he", "heh", "hei", "hey", "hehey", "ho", "hym", "hmm", "huh", "humph", "jiw", "la_la", "mm", "mmm", "mhm", "mmhm", "mm_hm", "nah", "och", "oh", "ohh", "oho", "oof", "ooh", "oooh", "ooph", "oops", "ouch", "ow", "phew", "phoo", "phooph", "pooph", "pff", "phwoa", "phwoar", "shh", "sht", "shush", "ssh", "tsk", "tut", "twt", "ugh", "uh", "uh_oh", "uhuh", "uhhuh", "uh_huh", "um", "waa", "wah", "wff", "whoa", "whoah", "woohoo", "wow", "waw", "yay", "yey", "ych", "ym", "ý", "yuck", "yuk", "yum", "yummy", "ŵps", "atolwg", "bechod", "damia", "damn", "daria", "diar", "nefi", "ta", "ta_ra", "ta_ta", "wel", "ie", "ia", "yeah", "yep", "yup", "na", "nage", "iawn", "OK", "o_k", "okay", "oce", "right", "timod", "well", "de", "yn_de", "do", "oedd", "oes", "nag oes", "wyt", "ydy", "yndy", "yndan", "yndych", "yndyn");
+// For variation analysis:
+//$rei=array("ah", "ahh", "er", "hmm", "huh", "mmm", "mmhm", "oh", "ooh", "uh_oh", "um", "de", "yn_de", "do", "ie", "ia", "yeah", "yep", "na", "nage", "iawn", "OK", "o_k", "right", "timod", "well");
 // Omitted when doing  variation analysis: "oedd", "oes", "nag oes", "wyt", "ydy", "yndy", "yndan", "yndyn"
+
 $sql1=query("select utterance_id from $words group by utterance_id order by utterance_id");  // Get all the utterance_ids and place them in order.
 while ($row1=pg_fetch_object($sql1))
 {
@@ -68,6 +76,7 @@ while ($row1=pg_fetch_object($sql1))
 	}
 }
 
+// Ignore all line-terminators, to concentrate on the data.
 $sql_rei=query("update $words set rei='ignore' where langid='999'");
 
 ?>

@@ -37,10 +37,10 @@ $spdata=get_all_speaker_data($words);
 
 print_r($spdata);
 
-$fp = fopen("caroline/{$filename}_clauses.csv", "w") or die("Can't create the file");
+$fp = fopen("caroline/outputs/{$filename}_clauses.csv", "w") or die("Can't create the file");
 
 // Spreadsheet column headings
-$columns="\"file\",\"utt_no\",\"cl_in_utt\",\"cl_start\",\"cl_end\",\"spkturn_no\",\"cl_in_spkturn\",\"speaker\",\"surface\",\"autogloss\",\"matrix_lg\",\"linguality\",\"dv\",\"verb_morph\",\"qlang\",\"dob\",\"gender\",\"age\",\"work\",\"brought_up\",\"main_area\",\"education\",\"welsh_since\",\"english_since\",\"welsh_ability\",\"english_ability\",\"mother_spoke\",\"father_spoke\",\"guardian_spoke\",\"primary_lg\",\"secondary_lg\",\"welsh_modern\",\"welsh_useful\",\"welsh_friendly\",\"welsh_inspiring\",\"welsh_beautiful\",\"welsh_influential\",\"english_modern\",\"english_useful\",\"english_friendly\",\"english_inspiring\",\"english_beautiful\",\"english_influential\",\"contact1\",\"contact2\",\"contact3\",\"contact4\",\"contact5\",\"nat_id\",\"i_separate\",\"shdbe_separate\"\n";
+$columns="\"speaker\",\"utt_no\",\"cl_in_utt\",\"cl_start\",\"cl_end\",\"spkturn_no\",\"cl_in_spkturn\",\"file\",\"surface\",\"autogloss\",\"matrix_lg\",\"linguality\",\"dv\",\"verb_morph\",\"qlang\",\"dob\",\"gender\",\"age\",\"work\",\"brought_up\",\"main_area\",\"education\",\"welsh_since\",\"english_since\",\"welsh_ability\",\"english_ability\",\"mother_spoke\",\"father_spoke\",\"guardian_spoke\",\"primary_lg\",\"secondary_lg\",\"welsh_modern\",\"welsh_useful\",\"welsh_friendly\",\"welsh_inspiring\",\"welsh_beautiful\",\"welsh_influential\",\"english_modern\",\"english_useful\",\"english_friendly\",\"english_inspiring\",\"english_beautiful\",\"english_influential\",\"contact1\",\"contact2\",\"contact3\",\"contact4\",\"contact5\",\"nat_id\",\"i_separate\",\"shdbe_separate\"\n";
 fwrite($fp, $columns);
 
 $clause="";
@@ -136,11 +136,11 @@ while ($row2=pg_fetch_object($sql2))
 	// Printout
 	echo $speaker." (".$utt.", ".$clauseno."): ".$clause."(".$mb_clause.") - ".$verblg."\n";
 	
-	$csvloc="\"".$filename."\",\"".$utt."\",\"".$clauseno."\",\"".$minloc."\",\"".$maxloc."\",\"".$spkturn."\",\"".$spkturnno."\",";
+	$csvloc="\"".$speaker."\",\"".$utt."\",\"".$clauseno."\",\"".$minloc."\",\"".$maxloc."\",\"".$spkturn."\",\"".$spkturnno."\",";
 	fwrite($fp, $csvloc);
 	// Filename, Utterance number, Clause number, Location of clause start, Location of clause end,
 	
-	$csvclause="\"".$speaker."\",\"".$clause."\",\"".$auto."\",";
+	$csvclause="\"".$filename."\",\"".$clause."\",\"".$auto."\",";
 	fwrite($fp, $csvclause);
 	// Speaker, Clause,
 

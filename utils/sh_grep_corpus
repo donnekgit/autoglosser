@@ -35,7 +35,7 @@
 # 7 displays matches in inverse video
 # 1;37;41 shows white text on a red background
 
-FILES=inputs/patagonia/beta/*.cha
+FILES=inputs/siarad/beta/*.cha
 #FILES=devstuff/webster/*
 
 # set up the regex for grep to use
@@ -61,8 +61,11 @@ FILES=inputs/patagonia/beta/*.cha
 #STRING='(\(\.*\))( *)(\[\/*\])'  # pause before retrace
 #STRING='@ID.*\|\|$'
 #STRING='[[:blank:]]uh[[:blank:]]'
-#STRING='[[:blank:]]uh@s:cym[[:blank:]]'
-STRING='pashmina'
+#STRING='[[:blank:]]w[[:blank:]]'
+#STRING='[^x]xx '
+STRING='blah'
+#STRING='\*[A-Z]{3}:\t.*hotel'
+#STRING='\.SM'
 
 for f in $FILES
 do
@@ -74,7 +77,7 @@ do
 		#if [ "$?" = "0"  ] ; then  # if there is output (0) from the grep ...
 		#echo "in: $fixedfile\n"  # ...  give the name of the file on the next line
 		#fi  # An alternative to this if statement is to append /dev/null to the grep line; this means grep will get at least 2 file arguments, effectively forcing it to print the filename if it happens to match the pattern. However, grep then prints the filename on the same line as the text, and for every match, which is not elegant.
-	ack-grep "$STRING" $f /dev/null # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
+	ack-grep "$STRING" $f /dev/null  # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
 	#ack-grep '^%eng' $f /dev/null | ack-grep 'eisteddfod' 
 	#ack-grep '^\*[A-Z]' $f /dev/null | ack-grep "$STRING" 
 done

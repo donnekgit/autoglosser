@@ -1,4 +1,4 @@
-#!/bin/sh
+ #!/bin/sh
 
 #/* 
 #*********************************************************************
@@ -23,18 +23,17 @@
 #*********************************************************************
 #*/ 
 
-# WARNING
-# This script deletes autoglosser tables from the database - use with care! If you want to retain the tables, archive them first using utils/sh_global_dump_corpus - you can then reinstall them by using utils/sh_global_update_corpus.
-# WARNING
-
-export PGPASSWORD="kevindbs"
-psql="psql -h localhost -U kevin -d autoglosser"
+# This script does a compressed dump of the _cgutterances and _cgwords table for each file in the corpus into a dump dir.
+# The --clean option means that the file will include SQL commands to drop the old table.
+# Use sh_global_update_corpus to import these compressed dumps back into a database.
 
 corpus="cypriot"
 dbname="csdata"
 
-#FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
-FILES=inputs/$corpus/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.
+FILES=inputs/$corpus/beta/*  # Corpus tables, based on the chat files in the corpus directory.
+GZDIR=dbdevel/${corpus}_${dbname}_dump  # Specify the dump dir.
+
+mkdir -p $GZDIR
 
 for f in $FILES
 do
@@ -42,14 +41,6 @@ do
 	chat=${filename%.cha}  # drop the filename's extension
 	
 	echo "Processing $chat ..."
-		
-	#$psql -c "drop table if exists ${chat}_cgutterances"
-	#$psql -c "drop table if exists ${chat}_cgwords"
-	#$psql -c "drop table if exists ${chat}_cgfinished"
-	#$psql -c "drop table if exists ${chat}_trans"
-	$psql -c "drop table if exists ${chat}_${dbname}"
-
+	pg_dump -t ${chat}_${dbname} --clean autoglosser | gzip > $GZDIR/${chat}_${dbname}.sql.gz
+	
 done
-
-export PGPASSWORD=
-# remove the PG password again

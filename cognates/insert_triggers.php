@@ -32,22 +32,29 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+$words=$words."_nuked";
+
 //add_column_if_not_exist($words, "cognate");
 
 $sql_clear=query("update $words  set cognate=''");  // Remove previous cognate entries
 
-// For langid!='cym', see email of 8 June 2011 - it prevents "fan" and "pan" being interpreted as English when they are in fact Welsh
+
 $sql_fill=query("update $words set cognate='t1' where surface in (select cognate from di_cognates) and langid!='cym'");
+// For langid!='cym', see email of 8 June 2011 - it prevents "fan" and "pan" being interpreted as English when they are in fact Welsh
 
-$sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_0) and langid!='cym' and cognate=''");
-// Specify that the cognate field must be empty, to prevent later onion-rings over-writing earlier ones.
+// For all subsequent injections, specify that the cognate field must be empty, to prevent later wordsets over-writing earlier ones.
 
-$sql_fill=query("update $words set cognate='t3' where surface in (select surface from di_ioverbs) and cognate=''");
+$sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_n) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='t3' where surface in (select surface from di_adj) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='t4' where surface in (select surface from di_nadj) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='t5' where surface in (select surface from di_names) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='t6' where surface in (select surface from di_rem) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='t7' where surface in (select surface from di_ioverbs) and cognate=''");
 // Omit the langid!='cym' clause from the -io verbs line (because they are already marked cym)
-
-
-//$sql_fill=query("update $words set cognate='t3' where surface in (select surface from stammers4_triggers) and langid!='cym' and cognate=''");
-
-
 
 ?>

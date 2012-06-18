@@ -197,8 +197,8 @@ while ($row=pg_fetch_object($result))
             {
                 include("tiers/gra.php");
             }
-        //} 
-    }
+        } 
+    //}
 	unset($newutt);
 
 }

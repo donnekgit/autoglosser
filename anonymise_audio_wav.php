@@ -34,12 +34,12 @@ if (empty($filename))
 $silenced=$filename."_silenced";  // Name for the output file.
 $pseud=$filename."_pseud";  // Name for the pseudonym file.
 $sox=$filename."_sox";  // Name for the silence location table.
-$snd_frmt="mp3"; 
+$snd_frmt="wav"; 
 
-$inpath="/home/kevin/library/siarad/patagonia_corpus/audiofiles";
-$outpath="/home/kevin/library/siarad/patagonia_corpus/silencedfiles";
+$inpath="/home/kevin/sdb7/patagonia";
+$outpath="/home/kevin/sdb7/patagonia/silenced";
 
-
+/*
 drop_existing_table($sox);
 
 $pad='';
@@ -48,6 +48,7 @@ $splice='';
 
 // Get any utterances marked www in the transcription.
 $sql_www=query("create table $sox as select utterance_id, durbegin, durend, duration from $utterances where surface ~ 'www' order by utterance_id");
+*/
 
 /*-------------------------------------------
 // For pseudonyms too:
@@ -61,7 +62,7 @@ $sql_www=query("create table $sox as select utterance_id, durbegin, durend, dura
 $sql_t=query("insert into $sox select utterance_id, durbegin, durend, duration from $utterances where utterance_id in (select distinct utterance_id from $words where surface in (select surface from $pseud order by surface) order by utterance_id)");
 
 ------------------------------------------*/
-
+/*
 $durbegin_prev=0;
 $durend_prev=0;
 
@@ -75,21 +76,22 @@ while ($row_d=pg_fetch_object($sql_d))
 		$sql_out=query("delete from $sox where utterance_id=$row_d->utterance_id");
 	}
 	
-	// If the startpoint of one utterance is less than the endpoint of the previous one, move the startpoint past the endpoint, and adjust the duration (otherwise you get a splice error).   
-	// You will probably get a warning like: 
+	// If the startpoint of one utterance is less than the endpoint of the previous one, move the startpoint past the endpoint, and adjust
+	// the duration (otherwise you get a splice error).   You will probably get a warning like: 
 	// sox WARN splice: Input audio too short; splices not made: 46
-	// but the audio will probably sound alright.  According to Ulrich Klauer, this is a bug in splice - "splice doesn't like two positions that are very close to each other, and ignores all following positions.  It isn't too apparent since the splicing is optional, and only there to reduce clicks at the silence boundaries, but it isn't done from this point to the end."
+	// but the audio will probably sound alright.  According to Ulrich Klauer, this is a bug in splice - "splice doesn't like two positions that
+	// are very close to each other, and ignores all following positions.  It isn't too apparent since the splicing is optional, and only there
+	// to reduce clicks at the silence boundaries, but it isn't done from this point to the end."
 	if ($row_d->durbegin<$durend_prev)  
 	{
 		echo $row_d->utterance_id."\n";
-		// Move durbegin forward past the previous endpoint:
 		$sql_fixbeg=query("update $sox set durbegin=($durend_prev+1) where utterance_id=$row_d->utterance_id");
-		// Adjust the duration to match the move:
 		$sql_fixdur=query("update $sox set duration=($row_d->durend-$durend_prev-1) where utterance_id=$row_d->utterance_id");
 	}
 	$durbegin_prev=$row_d->durbegin;
 	$durend_prev=$row_d->durend;
 }
+*/
 
 // Loop through the tidied result set.
 $sql="select * from $sox order by utterance_id";
@@ -105,11 +107,11 @@ while ($row=pg_fetch_object($result))
 	$splice.=$durbegin." ".$durend." \\\n";
 }
 
-//$sox_command="sox $inpath/$filename.$snd_frmt $outpath/$silenced.$ \\\npad \\\n".$pad.$trim."splice \\\n".$splice;
+//$sox_command="sox $inpath/$filename.$snd_frmt $outpath/$silenced.$snd_frmt \\\npad \\\n".$pad.$trim."splice \\\n".$splice;
 // Splice causes problems, and apparently isn't really needed.
 $sox_command="sox $inpath/$filename.$snd_frmt $outpath/$silenced.$snd_frmt \\\npad \\\n".$pad.$trim;
 
-echo $sox_command;
+//echo $sox_command;
 
 exec("$sox_command");
 

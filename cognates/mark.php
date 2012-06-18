@@ -34,17 +34,34 @@ if (empty($filename))
 
 $sql_clear=query("update $words set clause=''");  // Remove previous clause-splitting entries
 
-//$sql_mark=query("update $words set clause='c' where location=1");  // Put a clause-marker at the beginning of every utterance // Deprecated
+// Put a clause-marker at the beginning of every utterance // Deprecated
+//$sql_mark=query("update $words set clause='c' where location=1");  
 
-$sql_mark=query("update $words set clause='c' where langid='spa' and surface~'^(cuando|porque|quién|qué|que|donde|si|pero)$'");  // Put a clause-marker against conjunctions in Spanish
+//$sql_mark=query("update $words set clause='c' where langid='spa' and surface~'^(cuando|después|donde|mientras|pero|porque|que|qué|quién|según|si|sino)$'");  // Put a clause-marker against conjunctions in Spanish
 
-$sql_mark=query("update $words set clause='c' where langid='eng' and auto~'PRON.SUB'");  // Put a clause-marker against subject pronouns in English
+// Put a clause-marker at the beginning of every Spanish (others?) utterance if the first word is a verb.
+$sql_mark=query("update $words set clause='c' where langid='spa' and location=1 and auto~'\\\.V\\\.'");
 
-$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.(?!INFIN)'");  // Put a clause-marker against verb entries in Welsh provided they are not infinitives
+// Put a clause-marker against verb entries in Spanish provided they are not infinitives or participles.
+$sql_mark=query("update $words set clause='c' where langid='spa' and auto~'\\\.V\\\.(?!(INFIN|PRESPART|PASTPART))'");
 
-//$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.?'");  // Put a clause-marker against verb entries in Welsh, including infinitives
+// Put a clause-marker against verb entries in English provided they are not infinitives or participles.
+$sql_mark=query("update $words set clause='c' where langid='eng' and auto~'\\\.V\\\.(?!(INFIN|PRESPART|PASTPART))'");
 
-$sql_mark=query("update $words set clause='c' where langid='cym' and surface='bod'");  // Put a clause-marker against "bod" in Welsh, which forms a subordinate clause
+// Put a clause-marker against subject pronouns in English.
+//$sql_mark=query("update $words set clause='c' where langid='eng' and auto~'PRON.SUB'");
+
+// Put a clause-marker against auxiliary elisions in English.
+$sql_mark=query("update $words set clause='c' where langid='eng' and surface~'^(aren\'t|doesn\'t|don\'t|s?he\'d|s?he\'s|I\'d|I\'m|I\'ve|isn\'t|that\'s|they\'d|they\'re|they\'ve|we\'d|we\'re|we\'ve|won\'t|would\'ve|wouldn\'t|you\'d|you\'re|you\'ve)$'");
+
+// Put a clause-marker against verb entries in Welsh provided they are not infinitives.
+$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.(?!INFIN)'");
+
+// Put a clause-marker against verb entries in Welsh, including infinitives.
+//$sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.?'");
+
+// Put a clause-marker against "bod" in Welsh, which forms a subordinate clause.
+$sql_mark=query("update $words set clause='c' where langid='cym' and surface='bod'");
 
 //$sql_mark=query("update $words set clause='c' where langid='cym' and auto='and.CONJ'");
 //$sql_mark=query("update $words set clause='c' where langid='cym' and auto='or.CONJ'");

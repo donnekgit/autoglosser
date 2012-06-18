@@ -100,6 +100,13 @@ Remove %aut line
 sed -i '/%aut/ d' path/to/file.cha
 
 
+Get indeterminates that are not names
+=========================
+
+select * from combiwords_mi_uniq where langid='eng&spa' and surface !~'^[A-Z]'
+
+
+
 Import one field into the utterances table
 ==========================
 
@@ -841,8 +848,8 @@ clan/unix/bin/check inputs/cypriot/beta/WS213275.cha
 Also need to run CHATTER
 
 
-Abbreviations
-=========
+Listing abbreviations
+=============
 
 Select the POS section of the auto column.
 Using substring:
@@ -857,7 +864,9 @@ Download the CSV file and remove the column header.
 sed '/[A-Z][a-z].*/ d' < auto_pos_miami.txt | sed 's/"//g' | tr -sc '[A-Z][0-9]' '[\012*]' | sort | uniq | sed '/\]/ d' | sed '/\[/ d' > auto_pos_indiv_miami.txt
 Add -c to uniq if you want counts.
 
-Remove BE, GB, HAVE, ING, OK, PV, TO, TV, US
+tr -c (complement) means that operations apply to characters not in the given set.  tr -s (squeeze) means that sequences of the same character with be replaced with one of them - in this case, non-alphanum characters will be replaced with a newline (\012). The * (asterisk) means that the newline character is repeated as often as required to make the second string as long as the first string.  You can use '[:alnum:]' instead of '[A-Z][0-9]' and '\n' instead of '\012'.
+
+Remove BE, GB, HAVE, I, ING, OK, PV, TO, TV, US
 
 Remove ARCHAIC, AMER, ERR, LITERARY, NORTH, NSTAN, PAT, SHORT, VULG, SPOKEN
 (Not needed for more recent glossings, where these are suppressed.)
@@ -900,7 +909,7 @@ had been left uncommented in lookups/es_lookup.php
 Chatter
 =====
 This will not pass things that CHECK does pass:
-- anything related to the word ( [?], [//], etc ) cannot have (.) etc between it and the word
+- anything related to the word ( [?], [//], etc ) cannot have (.) etc between it and the word (if so, you get "no viable alternative at input '[/]'")
 - a ? in the @ID line is not allowed
 - everyone in the @Participants line has to have a corresponding @ID entry
 There sometimes seems to be a problem with the @End marker, which can be fixed simply by Backdelete and then Return.

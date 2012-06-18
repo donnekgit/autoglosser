@@ -30,6 +30,9 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+# Freshen the header file.
+exec("utils/sed_get_header ".$chafile);
+
 // Get the most frequent and less frequent languages from the file header. 
 $lines=file("outputs/$filename/$filename.header");  // Open the header file.
 foreach ($lines as $line)
@@ -48,10 +51,19 @@ switch ($filelgs[0])
 	case "cym":
 		array_push($cylg, "");
 		break;
+	case "cy":
+		array_push($cylg, "");
+		break;
 	case "eng":
 		array_push($enlg, "");
 		break;
+	case "en":
+		array_push($enlg, "");
+		break;
 	case "spa":
+		array_push($eslg, "");
+		break;
+	case "es":
 		array_push($eslg, "");
 		break;
 }
@@ -62,10 +74,19 @@ switch ($filelgs[1])
 	case "cym":
 		array_push($cylg, "s");
 		break;
+	case "cy":
+		array_push($cylg, "s");
+		break;
 	case "eng":
 		array_push($enlg, "s");
 		break;
+	case "en":
+		array_push($enlg, "s");
+		break;
 	case "spa":
+		array_push($eslg, "s");
+		break;
+	case "es":
 		array_push($eslg, "s");
 		break;
 }

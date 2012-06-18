@@ -43,8 +43,11 @@ while ($row_ors=pg_fetch_object($ors))
 		//echo $row_ors->auto."\n";
 		//echo $row_tidy_or->sub."\n\n";
 		
-		// ... replace the current auto [or] with the simplified sub from the tidy_auto table, and mark it with an asterisk for debugging.
-		$tidy_auto=query("update $words set auto='$row_tidy_or->sub' || '*' where surface='$row_ors->surface' and langid='$row_ors->langid' and auto='$row_ors->auto'");
+		// ... replace the current auto [or] with the simplified sub(stitute) from the tidy_auto table.
+		// Mark it with an asterisk if you want to review it for debugging purposes.
+		//$tidy_auto=query("update $words set auto='$row_tidy_or->sub' || '*' where surface='$row_ors->surface' and langid='$row_ors->langid' and auto='$row_ors->auto'");
+		// Otherwise, omit the asterisk
+		$tidy_auto=query("update $words set auto='$row_tidy_or->sub' where surface='$row_ors->surface' and langid='$row_ors->langid' and auto='$row_ors->auto'");
 	}
 }
 

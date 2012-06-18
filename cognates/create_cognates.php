@@ -50,6 +50,8 @@ CREATE TABLE $cognates (
     speaker character varying(10),
     surface character varying(100),
     auto character varying(250),
+    langid character varying(250),
+    slotlg character varying(50),
 	filename character varying(50)
 );
 ";

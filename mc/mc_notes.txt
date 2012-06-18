@@ -54,6 +54,200 @@ select * from mc_mdna_k where langid1!=langid2 or langid1!=langid3 or langid2!=l
 select * from mc_mdna where filename='sastre11' order by id
 
 
+Multiple entries (pd)
+-------------------------------
+
+delete from pd_3s where id not in (select min(id) from pd_3s group by filename, utterance_id, location)
+
+Create pd_3s by running sh_run_mc (create_mc_table.php,  mc_trigram_pd.php), targetting fo, o, fe, e.  Takes 14 mins, and gives 14,813 hits.
+Make a copy of the table: create table pd_fo as select * from pd_3s
+View categories: select count(*), surface_target, auto_target from pd_3s group by auto_target, surface_target order by surface_target, auto_target 
+
+Deal with "e": lift out those following nouns, and delete the rest:
+create table pd_final as select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='e' and auto_before~'\\\.N\\\.' order by surface_target, auto_target 
+delete from pd_3s where auto_target='he.PRON.M.3S' and surface_target='e' and auto_before~'\\\.N\\\.'
+check: select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='e' order by surface_before
+insert into pd_final select * from pd_3s where auto_target='he.PRON.M.3S' and surface_before='mam_gu' and surface_target='e'
+delete from pd_3s where auto_target='he.PRON.M.3S' and surface_target='e'
+
+Deal with "e" that is actually "E" - typo:
+delete from pd_3s where auto_target='unk'
+
+Deal with "fe" marked as what.INT+SM (autoglossing error):
+select * from pd_3s where auto_target='what.INT+SM' and surface_target='fe' order by surface_before
+insert into pd_final select * from pd_3s where id in (10146, 1123, 7287)
+delete from pd_3s where auto_target='what.INT+SM' and surface_target='fe'
+
+Deal with "fe" PRT.AFF:
+select * from pd_3s where auto_target='PRT.AFF' and surface_target='fe' order by surface_before
+insert into pd_final select * from pd_3s where id in (4949)
+delete from pd_3s where auto_target='PRT.AFF' and surface_target='fe'
+
+Deal with small groups of "or"s:
+select * from pd_3s where auto_target='he.PRON.M.3S.[or].of.PREP.[or].from.PREP' and surface_target='o' order by surface_before
+delete from pd_3s where auto_target='he.PRON.M.3S.[or].of.PREP.[or].from.PREP' and surface_target='o'
+select * from pd_3s where auto_target='of.PREP.[or].from.PREP.[or].he.PRON.M.3S' and surface_target='o' order by surface_before
+delete from pd_3s where auto_target='of.PREP.[or].from.PREP.[or].he.PRON.M.3S' and surface_target='o'
+select * from pd_3s where auto_target='from.PREP.[or].of.PREP.[or].he.PRON.M.3S' and surface_target='o' order by surface_before
+delete from pd_3s where auto_target='from.PREP.[or].of.PREP.[or].he.PRON.M.3S' and surface_target='o'
+select * from pd_3s where auto_target='of.PREP.[or].he.PRON.M.3S.[or].from.PREP' and surface_target='o' order by surface_before
+delete from pd_3s where auto_target='of.PREP.[or].he.PRON.M.3S.[or].from.PREP' and surface_target='o'
+select * from pd_3s where auto_target='from.PREP.[or].he.PRON.M.3S.[or].of.PREP' and surface_target='o' order by surface_before
+delete from pd_3s where auto_target='from.PREP.[or].he.PRON.M.3S.[or].of.PREP' and surface_target='o'
+
+Deal with "fe" he.PRON.M.3S:
+select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fe' order by surface_before
+insert into pd_final select * from pd_3s where id in (11423)
+delete from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fe'
+
+Deal with "o" from.PREP:
+select * from pd_3s where auto_target='from.PREP' and surface_target='o' order by surface_after
+delete from pd_3s where auto_target='from.PREP' and surface_target='o'
+
+Deal with "o" he.PRON.M.3S.[or].from.PREP.[or].of.PREP:
+select * from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o' order by surface_before
+select * from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o' and auto_before~'\\\.N\\\.' and auto_after='' order by surface_before
+delete from pd_3s where id in (8911, 7493, 8565, 5156)
+insert into pd_final select * from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o' and auto_before~'\\\.N\\\.' and auto_after='' order by surface_before
+delete from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o' and auto_before~'\\\.N\\\.' and auto_after=''
+select * from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o' and auto_before~'\\\.N\\\.' order by surface_before
+delete from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o' and auto_before~'\\\.N\\\.'
+select * from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o' order by surface_before
+delete from pd_3s where auto_target='he.PRON.M.3S.[or].from.PREP.[or].of.PREP' and surface_target='o'
+
+pd_3s now has 13,017 records (1,796 deletions from the original resultset of 14,813).
+pf_final now has 45 records.
+The large categories are:
+2534 fo he.PRON.M.3S
+4097 o of.PREP
+6386 o he.PRON.M.3S
+
+Deal with "o" of.PREP:
+select * from pd_3s where auto_target='of.PREP' and surface_target='o' order by surface_before
+delete from pd_3s where auto_target='of.PREP' and surface_target='o'
+
+Deal with "fo" he.PRON.M.3S:
+select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fo' and auto_before~'\\\.N\\\.' and surface_before!~'_i?o$' and surface_before!='isio' order by surface_before
+delete from pd_3s where id in (8347, 12512, 10564, 13877, 13788, 11921)
+insert into pd_final select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fo' and auto_before~'\\\.N\\\.' and surface_before!~'_i?o$' and surface_before!='isio' order by surface_before
+delete from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fo' and auto_before~'\\\.N\\\.' and surface_before!~'_i?o$' and surface_before!='isio'
+select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fo' and auto_before~'\\\.ADJ' order by surface_before
+insert into pd_final select * from pd_3s where id in (4755, 11839, 13200)
+delete from pd_3s where id in (4755, 11839, 13200)
+select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fo' order by surface_before
+delete from pd_3s where auto_target='he.PRON.M.3S' and surface_target='fo'
+
+Deal with "o" he.PRON.M.3S:
+select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='o' and auto_before~'\\\.N\\\.' order by surface_before
+delete from pd_3s where id in (4455, 9701, 12265, 2538, 4544, 8132, 2883, 4610, 1040, 1038, 5908, 318, 13142, 2646, 9743, 387, 1929, 8485, 12557, 11797, 1268, 1165, 8717, 6991, 596, 2749, 9873, 14547, 3167, 5838, 8749, 6850, 4224, 2198, 12662, 4293, 7626, 8384, 1043, 5438, 9725, 5472, 8533, 9429, 8713, 1506, 1421, 10661, 8220, 14142, 14009, 7178, 7305, 10027, 9177, 11594, 11641, 12481, 1364, 482, 7075, 5582, 3943, 13863, 11946, 7234, 5432, 11865, 4484, 323, 6620, 8081, 1938, 13301, 10024, 5773, 11030, 4656, 8460, 6028, 2742, 284, 6482, 10370, 5534, 10509, 2953, 5676, 13697, 5518, 8483)
+insert into pd_final select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='o' and auto_before~'\\\.N\\\.' order by surface_before
+delete from pd_3s where auto_target='he.PRON.M.3S' and surface_target='o' and auto_before~'\\\.N\\\.'
+select * from pd_3s where auto_target='he.PRON.M.3S' and surface_target='o' order by surface_before
+insert into pd_final select * from pd_3s where id in (9715, 3156, 2662, 5633, 12139, 724, 8670, 12211, 9727, 3881, 4848, 4010, 2877, 1403, 1499, 10459, 3884, 2109, 11193, 12467)
+delete from pd_3s
+
+Make a copy of the pd_final table: create table pd_final_backup as select * from pd_final
+
+Refill pd_3s by running sh_run_mc (mc_trigram_pd.php), targetting "hi".  Takes 3 mins, and gives 3,122 hits.
+
+select * from pd_3s where auto_target='hi.SV.INFIN' and surface_target='hi' order by surface_before
+delete from pd_3s where auto_target='hi.SV.INFIN' and surface_target='hi'
+
+Make a copy of the table: create table pd_hi as select * from pd_3s
+
+Deal with "hi"
+select * from pd_3s where auto_before~'\\\.N\\\.' order by surface_before
+delete from pd_3s where id in (17780, 15375, 15520, 15430, 15260, 16703)
+insert into pd_final select * from pd_3s where auto_before~'\\\.N\\\.' order by surface_before
+delete from pd_3s where auto_before~'\\\.N\\\.'
+select * from pd_3s order by surface_before
+insert into pd_final select * from pd_3s where id in (16531, 16084, 15048, 17086, 15130, 14976, 14980, 16363, 16000, 15523, 16955, 16128, 17414, 16211, 16506, 16668, 16669, 16746, 17406, 15937, 16114, 15125, 14978, 14984)
+delete from pd_3s
+
+Create pd_ei by running sh_run_mc (first editing create_mc_table and mc_trigram_pd.php), targetting "ei".  Takes 3 mins, and gives 1,319 hits.
+
+Make a copy of the table: create table pd_ei_backup as select * from pd_ei;
+
+select * from pd_ei where auto_after!~'\\\.N\\\.' order by surface_after;
+create table pd_ei_final as select * from pd_ei where id=552;
+INSERT INTO pd_ei_final
+SELECT *
+FROM pd_ei
+WHERE id IN (842, 1267, 271, 1129, 217, 1021, 1108, 273, 221, 129, 632, 595, 799, 222, 210, 451, 74, 1122, 1003, 333, 1087, 64, 579, 965, 575, 564, 967, 969, 547, 132, 1287, 827, 556, 113, 331, 118, 1070, 1171, 72, 148, 1059, 519, 1217, 1142, 1088, 1080, 889, 1107, 1255, 811, 224, 211, 966, 1291, 882, 929, 930, 835, 931, 977, 978, 973, 41, 938, 1126, 483, 744, 371, 157, 617, 1030, 124, 763, 976, 491, 239, 957, 1271, 850, 870);
+delete from pd_ei where auto_after!~'\\\.N\\\.';
+
+delete from pd_ei where surface_after2~'^(f?o|f?e|hi)$';
+
+insert into pd_ei_final select * from pd_ei;
+
+Create pd_w by running sh_run_mc (first editing create_mc_table and mc_trigram_pd.php), targetting "ei".  Takes 11 secs, and gives 88 hits.
+
+INSERT INTO pd_ei_final
+SELECT *
+FROM pd_w
+WHERE id IN (90);
+delete from pd_w where auto_after!~'\\\.N\\\.';
+delete from pd_w where surface_after2='nhw';
+delete from pd_w where id in (103, 110, 170);
+insert into pd_ei_final select * from pd_w;
+
+Make a table to hold both pd_final and pd_ei_final:
+CREATE TABLE pd_final_combined (
+    id integer NOT NULL
+    filename character varying(50),
+    utterance_id integer,
+    location integer,
+    speaker character varying(50),
+    sex character varying(10),
+    age integer,
+    surface_before3 character varying(100),
+    surface_before2 character varying(100),
+    surface_before character varying(100),
+    surface_target character varying(100),
+    surface_after character varying(100),
+    surface_after2 character varying(100),
+    surface_after3 character varying(100)
+);
+
+CREATE SEQUENCE pd_final_combined_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MAXVALUE
+    NO MINVALUE
+    CACHE 1;
+
+ALTER TABLE pd_final_combined ALTER COLUMN id SET DEFAULT nextval('pd_final_combined_id_seq'::regclass);
+
+ALTER TABLE ONLY pd_final_combined ADD CONSTRAINT pd_final_combined_pkey PRIMARY KEY (id);
+
+insert into pd_final_combined (filename, utterance_id, location, surface_before3, surface_before2, surface_before, surface_target, surface_after) select  filename, utterance_id, location, surface_before2, surface_before, surface_target, surface_after, surface_after2 from pd_ei_final
+
+insert into pd_final_combined (filename, utterance_id, location, surface_before, surface_target, surface_after, surface_after2, surface_after3) select  filename, utterance_id, location, surface_before2, surface_before, surface_target, surface_after, surface_after2 from pd_final
+
+Run mc/add_speaker.php to add the speaker names, and then the age and sex of the speaker from the siarad_sp table.
+
+Edit and run mc/mc_context.php to produce a context list.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

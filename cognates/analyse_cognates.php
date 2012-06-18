@@ -32,9 +32,11 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$cognates=$filename."_cognates";
+$words=$words."_nuked";
 
-$fp = fopen("cognates/outputs/".$filename."_cog.txt", "w") or die("Can't create the file");
+$cognates=$filename."_diana";
+
+$fp=fopen("cognates/diana/".$filename."_cog.txt", "w") or die("Can't create the file");
 
 $sql_t=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and place them in order.
 while ($row_t=pg_fetch_object($sql_t))
@@ -59,12 +61,12 @@ while ($row1=pg_fetch_object($sql1))
 		$minloc=$row3->minloc;
 		$maxloc=$row3->maxloc;
 		$speaker=$row3->speaker;
-		$t=unserialize($row3->t_ser);  // Remember that the figure in the T array refers to the location, which will be between minloc and maxloc.
-		$nt_lg=unserialize($row3->nt_lg_ser);  // The count of the different non-T languages appearing in the clause.
+		$t=unserialize($row3->t_ser);  // Remember that the figure in the T array refers to the location, which will be the location in the original utterance.  FIX - this should reflect the location in the clause.
+		$nt_lg=unserialize($row3->nt_lg_ser);  // The count of the different non-T languages in the clause.
 		$surface=$row3->surface;
 		$new=$row3->newturn;
-		$f_lg=$row3->f_lg;
-		$p_lg=$row3->p_lg;
+		$f_lg=$row3->f_lg;  // Language of the first non-T in the clause.
+		$p_lg=$row3->p_lg;  // Language of the last non-T in the clause.
 		$clause_id=$row3->clause_id;  // Number of this clause.
 		$nextcl=$clause_id+1;  // Number of the next clause.
 		$prevcl=$clause_id-1;  // Number of the previous clause.
@@ -77,17 +79,17 @@ while ($row1=pg_fetch_object($sql1))
 		$sql4=query("select * from $cognates where clause_id=$nextcl");
 		while ($row4=pg_fetch_object($sql4))
 		{
-			$next_f_lg=$row4->f_lg;
+			$next_f_lg=$row4->f_lg;  // Language of the first non-T in the next clause.
 			$nextnew=$row4->newturn;
-			$next_nt_lg=unserialize($row4->nt_lg_ser);
+			$next_nt_lg=unserialize($row4->nt_lg_ser);  // The count of the different non-T languages in the next clause.
 		}
 		
 		$sql5=query("select * from $cognates where clause_id=$prevcl");
 		while ($row5=pg_fetch_object($sql5))
 		{
-			$prev_p_lg=$row5->p_lg;
+			$prev_p_lg=$row5->p_lg;  // Language of the last non-T in the previous clause.
 			$prevnew=$row5->newturn;
-			$prev_nt_lg=unserialize($row4->nt_lg_ser);
+			$prev_nt_lg=unserialize($row4->nt_lg_ser);  // The count of the different non-T languages in the previous clause.
 		}
 	}
 	
@@ -121,7 +123,7 @@ while ($row1=pg_fetch_object($sql1))
 	// get the language of the first non-T in this clause (call it f_lg)
 		// if f_lg != p_lg, then S, else NS
 		// if this clause contains T, then T, else NT
-
+	/*
 	if ($prev_p_lg!=$f_lg)  // If there is an externalb codeswitch (a switch in language between this clause and the previous) ...
 	{
 		$externalb=(empty($t)) ? "SNT" : "ST";
@@ -134,6 +136,7 @@ while ($row1=pg_fetch_object($sql1))
 	$externalb=($tally[$spkturn]<2) ? "---" : $externalb;  // Remove the externalb type marker when there is only one clause in the speaker turn.
 	$externalb=($new=='new') ? "---" : $externalb;  // Remove the externalb type marker on the first clause in the speaker turn.
 	$externalb=(empty($nt_lg) or empty($prev_nt_lg)) ? "---" : $externalb;  // Remove the externalb type marker when there are only Ts in this clause or the previous.
+	*/
 
 	// ****************************
 	// Internal count (intraclausal) - is there a codeswitch anywhere within the clause?

@@ -32,7 +32,7 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$fp = fopen("cognates/outputs/".$filename."_split.txt", "w") or die("Can't create the file");
+//$fp = fopen("cognates/diana/".$filename."_split.txt", "w") or die("Can't create the file");
 
 $sql1="select utterance_id, speaker from $words group by utterance_id, speaker order by utterance_id";  // List the utterance_ids and speaker in sequence.
 $result1=pg_query($db_handle,$sql1) or die("Can't get the items");
@@ -40,6 +40,7 @@ while ($row1=pg_fetch_object($result1))
 {
 	$speaker=$row1->speaker; 
 	
+	//fwrite($fp, $row1->utterance_id."\n");
 	echo $row1->utterance_id."\n";  // Show feedback.
 
 	// For each utterance, get the locations where there is a clause_marker, and store those locations in an array.
@@ -85,7 +86,7 @@ while ($row1=pg_fetch_object($result1))
 		
 		echo $j.": ".$clause."\n";  // Show feedback.
 		
-		fwrite($fp, $speaker.": ".$clause."\n");  // Write out the split clauses.
+		//fwrite($fp, $speaker.": ".$clause."\n");  // Write out the split clauses.
 		
 		unset($clause);  // Clear the $clause variable.
 		
@@ -97,11 +98,12 @@ while ($row1=pg_fetch_object($result1))
 		$locarray=array_values($locarray);  // Re-index the array to start at 0 again - ie $locarray[1] becomes $locarray[0]
 	}
 
+	//fwrite($fp, "\n");
 	echo "\n";
 
 	unset($locarray);  // Clear the $locarray array so that it can be filled with the clause-marker locations in the next utterance..
 }
 
-fclose($fp);
+//fclose($fp);
 
 ?>

@@ -26,8 +26,8 @@
 export PGPASSWORD=kevindbs
 psql="psql -h localhost -U kevin -d autoglosser"
 
-FILES=inputs/patagonia/beta/*.cha
-COMBI=pat
+FILES=inputs/miami/beta/*.cha
+COMBI=mi
 
 for f in $FILES
 do

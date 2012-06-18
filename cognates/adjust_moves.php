@@ -65,19 +65,79 @@ while ($row0=pg_fetch_object($result0))
 			
 			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
-		
-		// Link words in English
-		if (preg_match("/(if|and|what|when|why|where|since|because|but)/", $prev_s) && preg_match("/PRON.SUB/", $this_a))
+
+		//"o sea" in Spanish
+		if (preg_match("/^o$/", $prev_s) && preg_match("/sea/", $this_s))
 		{
 			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
 
-			$sqld="update $words set clause=clause || '+m2' where utterance_id=$utt and location=$this_loc";
+			$sqld="update $words set clause=clause || '+ms2' where utterance_id=$utt and location=$this_loc";
 			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
 			
 			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
-				
+		
+		// Oblique or object preverbal pronouns in Spanish
+		if (preg_match("/\.PRON\.OB(J|L)/", $prev_a) && preg_match("/\.V\.(?!(INFIN|PRESPART|PASTPART))/", $this_a))
+		{
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
+			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
+
+			$sqld="update $words set clause=clause || '+ms3' where utterance_id=$utt and location=$this_loc";
+			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
+			
+			echo "Moving $utt,$this_loc to $utt,$before\n";
+		}
+		
+		// Negative preverbal marker in Spanish
+		if (preg_match("/no/", $prev_s) && preg_match("/\.V\.(?!(INFIN|PRESPART|PASTPART))/", $this_a))
+		{
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
+			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
+
+			$sqld="update $words set clause=clause || '+ms4' where utterance_id=$utt and location=$this_loc";
+			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
+			
+			echo "Moving $utt,$this_loc to $utt,$before\n";
+		}
+		
+		// Preverbal conjunctions in Spanish
+		if (preg_match("/^(cuando|después|donde|mientras|pero|porque|que|qué|quién|según|si|sino)$/", $prev_s) && preg_match("/\.V\.(?!(INFIN|PRESPART|PASTPART))/", $this_a))
+		{
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
+			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
+
+			$sqld="update $words set clause=clause || '+ms5' where utterance_id=$utt and location=$this_loc";
+			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
+			
+			echo "Moving $utt,$this_loc to $utt,$before\n";
+		}
+		
+		// Link words in English
+		if (preg_match("/PRON.SUB/", $prev_a) && preg_match("/\.V\.(?!(INFIN|PRESPART|PASTPART))/", $this_a))
+		{
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
+			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
+
+			$sqld="update $words set clause=clause || '+me2' where utterance_id=$utt and location=$this_loc";
+			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
+			
+			echo "Moving $utt,$this_loc to $utt,$before\n";
+		}
+
+		// Link words in English
+		if (preg_match("/^(and|because|but|if|since|what|when|where|why)$/", $prev_s) && preg_match("/PRON.SUB/", $this_a))
+		{
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
+			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
+
+			$sqld="update $words set clause=clause || '+me1' where utterance_id=$utt and location=$this_loc";
+			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
+			
+			echo "Moving $utt,$this_loc to $utt,$before\n";
+		}
+
 		// Prepositions before infinitives in Welsh
 		if (preg_match("/^(yng?|wedi|am|heb|newydd)$/", $prev_s) && preg_match("/INFIN/", $this_a))
 		{

@@ -55,7 +55,8 @@ do
 	#sed -i 's/\((\.*)\)\( *\)\(\[\/*\]\)/\3 \1/g' $f
 	#sed -ri 's/(@ID.*\|\|)$/\1|/g' $f
 	#sed -ri 's/aw@s:cym&spa/oh@s:cym\&spa/g' $f
-	sed -ri '/\*[A-Z]/s/Dada/dada/g' $f
+	sed -ri '/\*[A-Z]/s/beth bynnag/beth_bynnag/g' $f
+	#sed -ri '/%aut/s/thing\.N\.M\.SG\+SM -ever\.ADJ/anyway.ADV/g' $f
 done
 
 #  In theory, perl is easier to use than sed, but the invocation above doesn't seem to work sometimes.

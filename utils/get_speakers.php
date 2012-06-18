@@ -28,7 +28,7 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus="siarad";
+$corpus="patagonia";
 $target="inputs/$corpus/beta";
 
 $speaker="";

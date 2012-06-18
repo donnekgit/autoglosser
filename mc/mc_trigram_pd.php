@@ -25,9 +25,13 @@ If not, see <http://www.gnu.org/licenses/>.
 
 // This file collects examples of trigrams.  The table holding the imported file should be the first argument, and a relevant name for the subset of material should be specified as the second argument, eg php mc_trigram_pd.php <table> <subset>.
 
+// This is best run from a shell script: mc/sh_run_mc.php.
+
+// Should also consider adding the speaker name to the list of data collected.
+
 // Setup stuff: 
 $subset=$_SERVER['argv'][2];
-$mctable="mc_".$subset;
+$mctable=$subset;
 
 // Housekeeping stuff:
 if (empty($filename))
@@ -38,44 +42,71 @@ if (empty($filename))
 }
 
 // Pick out the target word-type across the whole corpus...
-$sql1=query("select * from $words where auto~'PRON\\.1S'");  // <----- The target word-type is a first-singular pronoun (PRON.1S).
+$sql1=query("select * from $words where surface~'^w$'");  // The target word-type is a third-singular pronoun (PRON.3S).
 while ($row1=pg_fetch_object($sql1))  // Get all of them, and then loop through each one to find the words preceding them ...
 {
+	// Write the target word into the subset table
+	$sql_=query("insert into $mctable(filename, utterance_id, location, surface_target, auto_target, langid_target, use) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row1->surface', '$row1->auto', '$row1->langid', '')");
+
+
 	// Specify relative locations, to select words before the target word-type ...
-	$before=$row1->location - 1;  // The location one slot back.
 	$before2=$row1->location - 2;  // The location two slots back.
+	$before=$row1->location - 1;  // The location one slot back.
+	$after=$row1->location + 1;  // The location one slot forward.
+	$after2=$row1->location + 2;  // The location two slots forward.
 	
+
 	// Use these relative locations to run additional queries picking out those words ...
-    $sql2=query("select * from $words where utterance_id=$row1->utterance_id and location=$before"); // <----- Get the previous word.
-	while ($row2=pg_fetch_object($sql2))
-	{
-		if (preg_match("/\.N\./", $row2->auto))  // <----- The previous word should be a noun (N).
-		{
-			$surface2=pg_escape_string($row2->surface);  // <----- Get the surface, autogloss and language tag.
-			$auto2=$row2->auto;
-			$langid2=$row2->langid;
-			
-			// Write the target and the previous words into the subset table
-			$sql_a1=query("insert into $mctable(filename, utterance_id, location, surface1, surface2, auto1, auto2, langid1, langid2, use) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row1->surface', '$surface2', '$row1->auto', '$auto2', '$row1->langid', '$langid2', '')");
-		}
-	}
 	
-	$sql4=query("select * from $words where utterance_id=$row1->utterance_id and location=$before2"); // <----- Get the previous-but-one word.
-	while ($row4=pg_fetch_object($sql4))
-	{  // No conditions on the word-type this time (though you could add some here if you needed to).
-		$surface4=pg_escape_string($row4->surface);  // <----- Get the surface, autogloss and language tag.
-		$auto4=$row4->auto;
-		$langid4=$row4->langid;
+	$sql_before2=query("select * from $words where utterance_id=$row1->utterance_id and location=$before2"); // Get the previous-but-one word.
+	while ($row_before2=pg_fetch_object($sql_before2))
+	{
+		$surface_before2=pg_escape_string($row_before2->surface);  // <----- Get the surface, autogloss and language tag.
+		$auto_before2=pg_escape_string($row_before2->auto);
+		$langid_before2=$row_before2->langid;
 		
 		// Write the last-but-one word into the subset table
-		$sql_a2=query("update $mctable set surface3='$surface4', auto3='$auto4', langid3='$langid4' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location");
+		$sql_a2=query("update $mctable set surface_before2='$surface_before2', auto_before2='$auto_before2', langid_before2='$langid_before2' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location");
+	}
+
+    $sql_before=query("select * from $words where utterance_id=$row1->utterance_id and location=$before"); // Get the previous word.
+	while ($row_before=pg_fetch_object($sql_before))
+	{
+		$surface_before=pg_escape_string($row_before->surface);  // Get the surface, autogloss and language tag.
+		$auto_before=pg_escape_string($row_before->auto);
+		$langid_before=$row_before->langid;
+		
+		// Write the previous word into the subset table
+		$sql_a2=query("update $mctable set surface_before='$surface_before', auto_before='$auto_before', langid_before='$langid_before' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location");
+	}
+	
+	$sql_after=query("select * from $words where utterance_id=$row1->utterance_id and location=$after"); // Get the following word.
+	while ($row_after=pg_fetch_object($sql_after))
+	{
+		$surface_after=pg_escape_string($row_after->surface);  // <----- Get the surface, autogloss and language tag.
+		$auto_after=pg_escape_string($row_after->auto);
+		$langid_after=$row_after->langid;
+		
+		// Write the previous word into the subset table
+		$sql_a2=query("update $mctable set surface_after='$surface_after', auto_after='$auto_after', langid_after='$langid_after' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location");
+	}
+	
+	$sql_after2=query("select * from $words where utterance_id=$row1->utterance_id and location=$after2"); // Get the previous-but-one word.
+	while ($row_after2=pg_fetch_object($sql_after2))
+	{
+		$surface_after2=pg_escape_string($row_after2->surface);  // <----- Get the surface, autogloss and language tag.
+		$auto_after2=pg_escape_string($row_after2->auto);
+		$langid_after2=$row_after2->langid;
+		
+		// Write the last-but-one word into the subset table
+		$sql_a2=query("update $mctable set surface_after2='$surface_after2', auto_after2='$auto_after2', langid_after2='$langid_after2' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location");
 	}
 
 	// Give some feedback from the script, so that we know it's actually doing something.
 	echo $row1->filename." - ".$row1->utterance_id.",".$row1->location.": ".$row1->surface."\n";
 	
 	// Flush the variables so that we don't get old data.
-	unset($surface2, $auto2, $langid2, $surface4, $auto4, $langid4);
+	unset($surface_before2, $auto_before2, $langid_before2, $surface_before, $auto_before, $langid_before, $surface_after, $auto_after, $langid_after, $surface_after2, $auto_after2, $langid_after2);
 
 }
 

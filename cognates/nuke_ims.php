@@ -7,7 +7,7 @@ kevindonnelly.org.uk
 This file is part of the Bangor Autoglosser.
 
 This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License or the GNU
+it under the terms of the GNU General Public License and the GNU
 Affero General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option)
 any later version.
@@ -21,9 +21,9 @@ You should have received a copy of the GNU General Public License
 and the GNU Affero General Public License along with this program.
 If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
-*/ 
+*/
 
-// This script extends the cgwords table to add some columns for cognate analysis.
+// This script removes items tagged IM from the table and renumbers accordingly.  The list of IMs to be removed is in the im_nuke table.
 
 if (empty($filename))
 {
@@ -34,13 +34,11 @@ if (empty($filename))
 
 //$words=$words."_nuked";
 
-$add_cognate=query("alter table $words add column cognate character varying(10) default ''");
-
-$add_rei=query("alter table $words add column rei character varying(10) default ''");
-//$blank_rei=query("update stammers4_cgwords set rei='' where rei is null");
-
-$add_spkturn=query("alter table $words add column spkturn integer");
-
-$add_clspk=query("alter table $words add column clspk integer");
+$sql1=query("select * from $words where surface in (select surface from im_nuke) order by utterance_id, location"); 
+while ($row1=pg_fetch_object($sql1))
+{
+	$sql_nuke=query("delete from $words where utterance_id=$row1->utterance_id and location=$row1->location");
+	$sql_shift=query("update $words set location=location-1 where utterance_id=$row1->utterance_id and location>$row1->location");
+}
 
 ?>
