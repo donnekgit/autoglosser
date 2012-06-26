@@ -32,6 +32,9 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+//$words=$words."_nuked";
+//echo $words."\n";
+
 $sql_clear=query("update $words set clause=''");  // Remove previous clause-splitting entries
 
 // Put a clause-marker at the beginning of every utterance // Deprecated

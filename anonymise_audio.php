@@ -36,9 +36,10 @@ $pseud=$filename."_pseud";  // Name for the pseudonym file.
 $sox=$filename."_sox";  // Name for the silence location table.
 $snd_frmt="mp3"; 
 
-$inpath="/home/kevin/library/siarad/patagonia_corpus/audiofiles";
-$outpath="/home/kevin/library/siarad/patagonia_corpus/silencedfiles";
-
+// Also change the wav settings at the bootom of the script.
+$snd_frmt="mp3"; 
+$inpath="/home/kevin/sdb7/miami_{$snd_frmt}_to_be_silenced";
+$outpath="/home/kevin/sdb7/miami_{$snd_frmt}_silencedfiles";
 
 drop_existing_table($sox);
 
@@ -91,6 +92,9 @@ while ($row_d=pg_fetch_object($sql_d))
 	$durend_prev=$row_d->durend;
 }
 
+// Remove entries where the duration is negative, or pad will complain.
+$sql_n=query("delete from $sox where duration::integer<=0;");
+
 // Loop through the tidied result set.
 $sql="select * from $sox order by utterance_id";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
@@ -108,9 +112,16 @@ while ($row=pg_fetch_object($result))
 //$sox_command="sox $inpath/$filename.$snd_frmt $outpath/$silenced.$ \\\npad \\\n".$pad.$trim."splice \\\n".$splice;
 // Splice causes problems, and apparently isn't really needed.
 $sox_command="sox $inpath/$filename.$snd_frmt $outpath/$silenced.$snd_frmt \\\npad \\\n".$pad.$trim;
+//echo $sox_command;
+exec("$sox_command");
 
-echo $sox_command;
 
+$snd_frmt="wav"; 
+$inpath="/home/kevin/sdb7/miami_{$snd_frmt}_to_be_silenced";
+$outpath="/home/kevin/sdb7/miami_{$snd_frmt}_silencedfiles";
+
+$sox_command="sox $inpath/$filename.$snd_frmt $outpath/$silenced.$snd_frmt \\\npad \\\n".$pad.$trim;
+//echo $sox_command;
 exec("$sox_command");
 
 ?>

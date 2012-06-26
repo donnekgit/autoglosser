@@ -75,13 +75,13 @@ Note that clauses where no codeswitch can be counted (---) are omitted.
 May 2012: Clause analysis
 =================
 
-WARNING!!! The above will overwrite the _cognates tables, and therefore delete any info about codeswitches and triggers.  Codeswitch information with no reference to triggers (ie SNT and NSNT instead of SNT, ST, NSNT, NST) can be restored by running cognates/analyse_cognates.php, but the best long-term solution is probably to set up tables with different names eg (_clauses for this type of analysis).
+WARNING!!! If write_cognates is included in teh pipeline below (to get codeswitch info), it will overwrite the _cognates tables, and therefore delete any info about codeswitches and triggers.  Codeswitch information with no reference to triggers (ie SNT and NSNT instead of SNT, ST, NSNT, NST) can be restored by running cognates/analyse_cognates.php, but the best long-term solution is probably to set up tables with different names eg (_clauses for this type of analysis).
 
 Regloss.  Problem with @Languages in the header being "cy, en" instead of "cym, eng".  Adjusting the $mflg routine to allow "cy" and "en" imported the langid for Welsh as "cy" instead of "cym" (but "eng" was OK) - use utils/sh_pg_stuff to adjust the tables.  The Siarad headers probably need to be changed to reflect the fact that the new precode format is used.
 
 php cognates/extend_cgwords.php davies9
-php cognates/make_clauses.php davies9
-php cognates/reinforcers.php davies9
+php cognates/make_clauses.php davies9 (includes mark.php, adjust_deletes.php, adjust_moves.php, segment.php) - review the _split file (uncomment the line in segment.php to produce this) to check how good/bad the clause segmentation is
+php cognates/reinforcers.php davies9 (edit the reinforcer array)
 php cognates/write_rei.php davies9 - this gives the speaker turns, and also a printout that we don't use here
 php cognates/analyse_clauses.php davies9
 
@@ -92,7 +92,7 @@ sed -i '/^"speaker/ d' caroline/jumbo.csv
 and then put the first instance back in:
 "speaker","utt_no","cl_in_utt","cl_start","cl_end","spkturn_no","cl_in_spkturn","file","surface","autogloss","matrix_lg","linguality","dv","verb_morph","qlang","dob","gender","age","work","brought_up","main_area","education","welsh_since","english_since","welsh_ability","english_ability","mother_spoke","father_spoke","guardian_spoke","primary_lg","secondary_lg","welsh_modern","welsh_useful","welsh_friendly","welsh_inspiring","welsh_beautiful","welsh_influential","english_modern","english_useful","english_friendly","english_inspiring","english_beautiful","english_influential","contact1","contact2","contact3","contact4","contact5","nat_id","i_separate","shdbe_separate"
 
-Also remove and clauses assigned to the researcher:
+Also remove any clauses assigned to the researcher:
 sed -i '/^"RES/ d' caroline/jumbo.csv 
 
 
@@ -193,8 +193,6 @@ A single (trigger?) word at the head of a speech-turn will be marked as external
 
 
 
-
-create table fusser28_cgwords_nuked as select * from fusser28_cgwords
 
 
 

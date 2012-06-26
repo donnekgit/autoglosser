@@ -29,38 +29,47 @@ If not, see <http://www.gnu.org/licenses/>.
 //$filename=$_SERVER['argv'][1];
 //$cognates=$filename."_cognates";
 
-drop_existing_table($cognates);
+drop_existing_table($mixedmodel);
 
 $sql_table = "
-CREATE TABLE $cognates (
-    clause_id serial NOT NULL,
+CREATE TABLE $mixedmodel (
+    mm_id serial NOT NULL,
+    filename character varying(50),
+    speaker character varying(10),
     spkturn integer,
     clspk integer,
-    newturn character varying(5),
-    utterance_id integer,
-    minloc integer,
-    maxloc integer,
-    t_ser character varying(200),
-    f_lg character varying(20),
-    p_lg character varying(20),
-    nt_lg_ser character varying(200),
-    external character varying(10),
-    externalb character varying(10),
-    internal character varying(10),
-    speaker character varying(10),
-    surface character varying(100),
-    auto character varying(250),
-    verb character varying(100), 
-    verblg character varying(10),
-    langid character varying(250),
+    tally integer,
+    clause_id integer,
+	cl_len integer,
+	verblg character varying (10),
+	contains_t character varying (10),
+	count_t integer,
+	t_no integer,
+	t_loc integer,
+	t_v character varying(10),
+	trigword character varying(50),
+	t_len integer,
+	nt_sum integer,
+	cswitch character varying(10),
     slotlg character varying(50),
-	filename character varying(50)
+    ext_cs character varying(10),
+    int_cs character varying(10),
+    cl_lg character varying(10),
+    surface character varying(100),
+    all_t integer,
+    all_w integer,
+    spk_t integer,
+    spk_w integer,
+    all_cs integer,
+    all_cl integer,
+    spk_cs integer,
+    spk_cl integer
 );
 ";
 $result_table=pg_query($db_handle, $sql_table);
 
 $sql_pkey = "
-ALTER TABLE ONLY ".$cognates." ADD CONSTRAINT ".$cognates."_pk PRIMARY KEY (clause_id);
+ALTER TABLE ONLY ".$mixedmodel." ADD CONSTRAINT ".$mixedmodel."_pk PRIMARY KEY (mm_id);
 ";
 $result_pkey=pg_query($db_handle, $sql_pkey);
 

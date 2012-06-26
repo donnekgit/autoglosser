@@ -25,7 +25,8 @@
 
 # This script runs prepare_file.php on all the files in a directory, straightening out the lines and extracting the headers
 
-FILES=inputs/patagonia/autoglossed/*.cha
+#FILES=inputs/miami/beta/maria*.cha
+FILES=/home/kevin/sdb7/maria_mp3_to_be_silenced/maria40.mp3
 #FILES=inputs/patagonia/BW/*.cha  # for CHECK and Chatter
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
 
@@ -38,6 +39,7 @@ do
 	
 	# Or just an import.
 	#php import_only.php $f
+	#php cgimport.php $f
 	
 	# Or just straighten out lines in the file.
     #utils/sed_joinlines $f
@@ -60,17 +62,19 @@ do
 	# Get instances of [...]'s directly from the files (not the tables).
 	#ack-grep '%eng' $f /dev/null | ack-grep '\[\.\.\.\][^ |!|\?|$]' >> xxx_grep.txt
 	
-	# Run CHECK on the corpus
-	#clan/unix/bin/check $f >> patagoniatrans/allcheck.txt
-	
-	# Change %aut to %xaut to avoid Chatter marking every character as non-viable.
+	# Change %aut to %xaut to avoid CHECK/Chatter marking every character as non-viable.
 	#sed -ri "s/%aut/%xaut/g" $f
 	
+	# Run CHECK on the corpus
+	#clan/unix/bin/check $f >> miamitrans/allcheck.txt
+	
 	# Change %xaut back to %aut after Chatter checks.
-	sed -ri "s/%xaut/%aut/g" $f
+	#sed -ri "s/%xaut/%aut/g" $f
 	
 	# Silence www utterances
+	#php anonymise_audio.php $f
 	#php anonymise_audio_wav.php $f
+	php anonymise_audio_nowww.php $f
 
 	# Cypriot: get rid of the (7 .0) markers.
 	#sed -i 's/([0-9] \.[0-9] )//g' $f

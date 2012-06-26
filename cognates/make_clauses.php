@@ -43,6 +43,4 @@ include("adjust_moves.php");
 
 include("segment.php");
 
-// After this, you need to run insert_cognates, [and then adjust_t,] before running generate_clause_data to get the printout.
-
 ?>

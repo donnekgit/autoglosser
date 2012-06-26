@@ -36,8 +36,8 @@ $pseud=$filename."_pseud";  // Name for the pseudonym file.
 $sox=$filename."_sox";  // Name for the silence location table.
 $snd_frmt="wav"; 
 
-$inpath="/home/kevin/sdb7/patagonia";
-$outpath="/home/kevin/sdb7/patagonia/silenced";
+$inpath="/home/kevin/sdb7/miami_wav_to_be_silenced";
+$outpath="/home/kevin/sdb7/miami_wav_silencedfiles";
 
 /*
 drop_existing_table($sox);
@@ -91,6 +91,9 @@ while ($row_d=pg_fetch_object($sql_d))
 	$durbegin_prev=$row_d->durbegin;
 	$durend_prev=$row_d->durend;
 }
+
+// Remove entries where the duration is negative, or pad will complain.
+$sql_n=query("delete from $sox where duration<=0;");
 */
 
 // Loop through the tidied result set.

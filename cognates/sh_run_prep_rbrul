@@ -26,7 +26,7 @@
 # This script produces a set of clauses ready for input to Rbrul.
 
 #FILES="inputs/siarad/beta/deuchar1.cha inputs/siarad/beta/lloyd1.cha inputs/siarad/beta/smith1.cha"
-FILES=inputs/siarad/beta/*.cha
+FILES=inputs/patagonia/beta/*.cha
 
 for f in $FILES
 do

@@ -32,7 +32,7 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$words=$words."_nuked";
+//$words=$words."_nuked";
 
 //add_column_if_not_exist($words, "cognate");
 

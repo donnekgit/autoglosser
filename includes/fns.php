@@ -840,6 +840,60 @@ function get_all_speaker_data($words)
 	return $spdata;
 }
 
+function get_all_speaker_data_patagonia($words)
+// Get the speaker data from the questionnaire table for the speakers in the words table
+// Need to include the limit fix from get_speakers below.
+{
+	$sqlsp=query("select speaker, filename from $words where speaker!~'^(RES|OSE)$' group by speaker, filename order by speaker, filename");
+	while ($rowsp=pg_fetch_object($sqlsp))
+	{
+		$ucfilename=ucfirst($rowsp->filename);
+		$sqlq=query("select * from patagonia_q where id='$rowsp->speaker' and conversation='$ucfilename'");
+		while ($rowq=pg_fetch_object($sqlq))
+		{
+			$spdata[$rowsp->speaker][qlang]=$rowq->lang;
+			$spdata[$rowsp->speaker][dob]=$rowq->dob;
+			$spdata[$rowsp->speaker][gender]=$rowq->gender;
+			$spdata[$rowsp->speaker][age]=$rowq->age;
+			$spdata[$rowsp->speaker][work]=$rowq->work;
+			$spdata[$rowsp->speaker][brought_up]=$rowq->brought_up;
+			$spdata[$rowsp->speaker][main_area]=$rowq->main_area;
+			$spdata[$rowsp->speaker][education]=$rowq->education;
+			$spdata[$rowsp->speaker][welsh_since]=$rowq->welsh_since;
+			$spdata[$rowsp->speaker][spanish_since]=$rowq->spanish_since;
+			$spdata[$rowsp->speaker][welsh_ability]=$rowq->welsh_ability;
+			$spdata[$rowsp->speaker][spanish_ability]=$rowq->spanish_ability;
+			$spdata[$rowsp->speaker][mother_spoke]=$rowq->mother_spoke;
+			$spdata[$rowsp->speaker][father_spoke]=$rowq->father_spoke;
+			$spdata[$rowsp->speaker][guardian_spoke]=$rowq->guardian_spoke;
+			$spdata[$rowsp->speaker][primary_lg]=$rowq->primary_lang;
+			$spdata[$rowsp->speaker][secondary_lg]=$rowq->secondary_lang;
+			$spdata[$rowsp->speaker][welsh_modern]=$rowq->welsh_modern;
+			$spdata[$rowsp->speaker][welsh_useful]=$rowq->welsh_useful;
+			$spdata[$rowsp->speaker][welsh_friendly]=$rowq->welsh_friendly;
+			$spdata[$rowsp->speaker][welsh_inspiring]=$rowq->welsh_inspiring;
+			$spdata[$rowsp->speaker][welsh_beautiful]=$rowq->welsh_beautiful;
+			$spdata[$rowsp->speaker][welsh_influential]=$rowq->welsh_influential;
+			$spdata[$rowsp->speaker][spanish_modern]=$rowq->spanish_modern;
+			$spdata[$rowsp->speaker][spanish_useful]=$rowq->spanish_useful;
+			$spdata[$rowsp->speaker][spanish_friendly]=$rowq->spanish_friendly;
+			$spdata[$rowsp->speaker][spanish_inspiring]=$rowq->spanish_inspiring;
+			$spdata[$rowsp->speaker][spanish_beautiful]=$rowq->spanish_beautiful;
+			$spdata[$rowsp->speaker][spanish_influential]=$rowq->spanish_influential;
+			$spdata[$rowsp->speaker][contact1]=$rowq->contact1;
+			$spdata[$rowsp->speaker][contact2]=$rowq->contact2;
+			$spdata[$rowsp->speaker][contact3]=$rowq->contact3;
+			$spdata[$rowsp->speaker][contact4]=$rowq->contact4;
+			$spdata[$rowsp->speaker][contact5]=$rowq->contact5;
+			$spdata[$rowsp->speaker][nat_id]=$rowq->nat_id;
+			$spdata[$rowsp->speaker][i_separate]=$rowq->i_separate;
+			$spdata[$rowsp->speaker][shdbe_separate]=$rowq->shdbe_separate;
+		}
+	}
+	return $spdata;
+}
+
+
 function get_speakers($words)
 // Get the speaker data for the speakers in the words table
 {
@@ -870,6 +924,28 @@ function get_linguality($array)
 	elseif (!$ling[cym])
 	{
 		$mb="monoE";
+	}
+	else
+	{
+		$mb="biling";
+	}
+	return $mb;
+}
+
+function get_linguality_patagonia($array)
+// Get the linguality of a clause or utterance - edit to match Spanish/English one below
+{
+	$ling=array_count_values($array);
+	// If there is at least one cym&eng or eng word, the clause is bilingual
+	//if (!$ling[cym_eng] and !$ling[eng]) // note we need to use _ instead of &, since it has been switched in the preceding code
+	// Redone to ignore cym&eng
+	if (!$ling[spa])
+	{
+		$mb="monoW";
+	}
+	elseif (!$ling[cym])
+	{
+		$mb="monoS";
 	}
 	else
 	{

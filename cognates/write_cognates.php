@@ -37,14 +37,12 @@ $auto="";
 $langid="";
 $slotlg="";
 
-$words=$words."_nuked";
-
-//$cognates=$filename."_cognates";
-$cognates=$filename."_diana";
-
-include("create_cognates.php");
+//$words=$words."_nuked";
+//$cognates=$filename."_diana";
 
 $fp=fopen("cognates/diana/".$filename."_spkturn.txt", "w") or die("Can't create the file");
+
+include("create_cognates.php");
 
 $sql1=query("select spkturn, clspk from $words where langid!='999' and rei!='ignore' group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and clauses within that speaker turn and place them in order.  We need to omit punctuation (langid!='999') and reinforcers (rei!='ignore').
 while ($row1=pg_fetch_object($sql1))
@@ -67,7 +65,25 @@ while ($row1=pg_fetch_object($sql1))
 		$auto.=$row3->auto." ";  // Generate the autogloss.
 		$langid.=$row3->langid." ";  // Generate the langid sequence.
 		
-		if ($row3->langid=="cym")  // Generate a numerical representation of the  langid sequence.
+		// Collect verbs to give verb morphology
+		if (preg_match("/\.V\./", $row3->auto))
+		{
+			$verb.=$row3->auto."+";
+			// Log the language of the verb for only the first instance
+			// Otherwise later verbs will overwrite this, and you get things like "basai fo yn boring" being assigned an ML of eng
+			if (empty($verblg)) { $verblg=$row3->langid; } 
+		}
+		else
+		{
+			$verb=$verb;
+		}
+		
+		// Generate a numerical representation of the  langid sequence.
+		if (preg_match("/^t[0-9]$/", $row3->cognate))
+		{
+			$slot="T";
+		}
+		elseif ($row3->langid=="cym")
 		{
 			$slot="1";
 		}
@@ -103,6 +119,10 @@ while ($row1=pg_fetch_object($sql1))
 	
 	$minloc=min($loc);  // Get location of clause beginning.
 	$maxloc=max($loc);  // Get location of clause end.
+	
+	// Verb data
+	$verb=substr($verb, 0, -1);  // Trim the excess = off the end of the verb string.
+	$verb=preg_replace("/\[or\]be\.V.3S\.PRES\.NEG\+SM/", "", $verb);  // Hack!
 
 	$f_lg=reset($nt_lg);  // Language of the first non-T in the clause.
 	$p_lg=end($nt_lg);  // Language of the last non-T in the clause.
@@ -114,7 +134,7 @@ while ($row1=pg_fetch_object($sql1))
 	$surface=trim(pg_escape_string($clause));
 	$auto=trim(pg_escape_string($auto));
 
-	$write1=query("insert into $cognates (spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, nt_lg_ser, f_lg, p_lg, speaker, surface, auto, langid, slotlg, filename) values ($spkturn, $clspk, '', $utt, $minloc, $maxloc, '$t_ser', '$nt_lg_ser', '$f_lg', '$p_lg', '$speaker', '$surface', '$auto', '$langid', '$slotlg', '$filename')");
+	$write1=query("insert into $cognates (spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, nt_lg_ser, f_lg, p_lg, speaker, surface, auto, verb, verblg, langid, slotlg, filename) values ($spkturn, $clspk, '', $utt, $minloc, $maxloc, '$t_ser', '$nt_lg_ser', '$f_lg', '$p_lg', '$speaker', '$surface', '$auto', '$verb', '$verblg', '$langid', '$slotlg', '$filename')");
 	
 	if ($prev_spk!=$speaker)  // If we have a new speaker ...
 	{
@@ -130,7 +150,7 @@ while ($row1=pg_fetch_object($sql1))
 
 	$prev_spk=$speaker;  // Keep track of the previous speaker.
 
-	unset($utt, $loc, $minloc, $maxloc, $speaker, $clause, $auto, $langid, $slot, $slotlg, $nt_lg, $t);
+	unset($utt, $loc, $minloc, $maxloc, $speaker, $clause, $auto, $langid, $verb, $verblg, $slot, $slotlg, $nt_lg, $t);
 }
 
 fclose($fp);

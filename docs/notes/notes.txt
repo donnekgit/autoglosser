@@ -106,6 +106,10 @@ Get indeterminates that are not names
 select * from combiwords_mi_uniq where langid='eng&spa' and surface !~'^[A-Z]'
 
 
+Find location of missing sound-bullets
+========================
+select utterance_id, surface from maria1_cgutterances where durbegin=0 and durend=0 and speaker='MAR' order by utterance_id;
+
 
 Import one field into the utterances table
 ==========================

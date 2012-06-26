@@ -32,11 +32,10 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$words=$words."_nuked";
+//$words=$words."_nuked";
+//$cognates=$filename."_diana";
 
-$cognates=$filename."_diana";
-
-$fp=fopen("cognates/diana/".$filename."_cog.txt", "w") or die("Can't create the file");
+//$fp=fopen("cognates/diana/".$filename."_cog.txt", "w") or die("Can't create the file");
 
 $sql_t=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and place them in order.
 while ($row_t=pg_fetch_object($sql_t))
@@ -92,7 +91,7 @@ while ($row1=pg_fetch_object($sql1))
 			$prev_nt_lg=unserialize($row4->nt_lg_ser);  // The count of the different non-T languages in the previous clause.
 		}
 	}
-	
+
 	// ****************************
 	// External count (interclausal) - is there a codeswitch between the last non-T word of a clause and the first word of the next clause?
 	
@@ -123,7 +122,7 @@ while ($row1=pg_fetch_object($sql1))
 	// get the language of the first non-T in this clause (call it f_lg)
 		// if f_lg != p_lg, then S, else NS
 		// if this clause contains T, then T, else NT
-	/*
+	/*  FIXME - no longer giving a proper analysis.
 	if ($prev_p_lg!=$f_lg)  // If there is an externalb codeswitch (a switch in language between this clause and the previous) ...
 	{
 		$externalb=(empty($t)) ? "SNT" : "ST";
@@ -155,13 +154,18 @@ while ($row1=pg_fetch_object($sql1))
 	}
 	$internal=(empty($nt_lg)) ? "---" : $internal;  // Remove the internal type marker when there are only Ts in the clause.
 	$internal=($nt_sum<2) ? "---" : $internal;  // Remove the internal type marker when there is only one non-T in the clause.
-
+	
+	// ****************************
+	// Remove external codeswitches when there is an internal codeswitch in the clause.
+	// Now revoked, because MLF is being used instead.
+	//$external=($internal=="SNT" or $internal=="ST") ? "---" : "$external";
+	
 	// ****************************
 	// Write out a check file
 
 	if ($new=='new')  // Add blank lines to show changes in speech-turn.
 	{
-		fwrite($fp, "\n\n");  // Add blank lines to delineate speaker turns.
+		//fwrite($fp, "\n\n");  // Add blank lines to delineate speaker turns.
 		echo "\n\n";
 	}
 
@@ -169,12 +173,14 @@ while ($row1=pg_fetch_object($sql1))
 	//echo $speaker.": ".$surface." - ".$external." // ".$externalb." // ".$internal."\n";
 	
 	// No need to include the $externalb entries - they just confuse people.
-	fwrite($fp, $spkturn.", ".$clspk."\t".$utt.", ".$minloc."-".$maxloc."\t".$speaker."\t".$surface."\t".$external."\t".$internal."\n");  // Write out the clauses.
+	//fwrite($fp, $spkturn.", ".$clspk."\t".$utt.", ".$minloc."-".$maxloc."\t".$speaker."\t".$surface."\t".$external."\t".$internal."\n");  // Write out the clauses.
 	echo $speaker.": ".$surface." - ".$external." // ".$internal."\n";
 	
 	$write1=query("update $cognates set external='$external', externalb='$externalb', internal='$internal' where spkturn=$spkturn and clspk=$clspk");
+	
+	unset($verb, $verblg);
 }
 
-fclose($fp);
+//fclose($fp);
 
 ?>

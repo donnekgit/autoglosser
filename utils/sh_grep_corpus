@@ -63,7 +63,7 @@ FILES=inputs/siarad/beta/*.cha
 #STRING='[[:blank:]]uh[[:blank:]]'
 #STRING='[[:blank:]]w[[:blank:]]'
 #STRING='[^x]xx '
-STRING='blah'
+STRING='very@s:cym&eng'
 #STRING='\*[A-Z]{3}:\t.*hotel'
 #STRING='\.SM'
 

@@ -32,7 +32,7 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$words=$words."_nuked";
+//$words=$words."_nuked";
 
 $s=1;  // Set up a counter for speaker turns.
 $c=1;  // Set up a counter for clauses within each speaker turn.

@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script arranges the file in order of speech-turn and clause.
+// This script arranges codeswitch and trigger data in a form suitable for mixed model analysis.
 
 if (empty($filename))
 {
@@ -32,9 +32,9 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-$words=$words."_nuked";  // Required for trigword query, and total words queries.
-$cognates=$filename."_diana";
-$mixedmodel=$filename."_mixedmodel";
+//$words=$words."_nuked";  // Required for trigword query, and total words queries.
+//$cognates=$filename."_diana";
+//$mixedmodel=$filename."_mixedmodel";
 
 include("create_mixedmodel.php");
 
@@ -61,6 +61,7 @@ while ($row1=pg_fetch_object($sql1))
 		$minloc=$row3->minloc;
 		$maxloc=$row3->maxloc;
 		$speaker=$row3->speaker;
+		$verblg=$row3->verblg;
 		$slotlg=$row3->slotlg;
 		$t=unserialize($row3->t_ser);  // Remember that the figure in the T array refers to the location, which will be the location in the original utterance.  FIX - this should reflect the location in the clause..
 		$nt_lg=unserialize($row3->nt_lg_ser);  // The count of the different non-T languages in the clause.
@@ -80,9 +81,31 @@ while ($row1=pg_fetch_object($sql1))
 		$cl_len=$maxloc-$minloc+1;
 		$contains_t=(!empty($t)) ? "yes" : "no";
 		$count_t=count($t);
-		$ext_cs=($row3->external=="ST" or $row3->external=="SNT") ? "yes" : "no";
-		$int_cs=($row3->internal=="ST" or $row3->internal=="SNT") ? "yes" : "no";
-		$cswitch=($ext_cs=="yes" or $int_cs=="yes") ? "yes" : "no";
+		if ($row3->external=="ST" or $row3->external=="SNT")
+		{
+			$ext_cs="yes";
+		}
+		elseif ($row3->external=="NST" or $row3->external=="NSNT")
+		{
+			$ext_cs="no";
+		}
+		else
+		{
+			$ext_cs="n/a";
+		}
+		if ($row3->internal=="ST" or $row3->internal=="SNT")
+		{
+			$int_cs="yes";
+		}
+		elseif ($row3->internal=="NST" or $row3->internal=="NSNT")
+		{
+			$int_cs="no";
+		}
+		else
+		{
+			$int_cs="n/a";
+		}
+		
 		$cleanslot=preg_replace("/0/", "", $slotlg);
 		if (preg_match("/1/", $cleanslot))
 		{
@@ -99,45 +122,80 @@ while ($row1=pg_fetch_object($sql1))
 		{
 			$cl_lg="eng";
 		}
+		
+// 		if ($prev_cl_lg="")
+// 		{
+// 			$prev_cl_lg=$cl_lg;
+// 		}
+// 		echo $prev_cl_lg." - ";
+		
+		if (!empty($verblg) and $prev_verblg!="")
+		{
+			if ($verblg==$prev_verblg)
+			{
+				$ext_cs="no";
+			}
+			else
+			{
+				$ext_cs="yes";
+			}
+		}
+		else
+		{
+			$ext_cs="n/a";
+		}
+		//echo $cl_lg." - ";
+		
+		$cswitch=($ext_cs=="yes" or $int_cs=="yes") ? "yes" : "no";
 
 		if (!empty($t))
 		{
+			$i=1;  // Set up a counter for the number of triggers.
 			foreach ($t as $t_k=>$t_v)
 			{
+				$t_no=$i++;
 				$t_loc=$t_k-$minloc+1;
 				$sql_t=query("select surface from $words where filename='$filename' and utterance_id=$utt and location=$t_k");
 				while ($row_t=pg_fetch_object($sql_t))
 				{
-					$trigword=$row_t->surface;
+					$trigword=pg_escape_string($row_t->surface);
 					$t_len=strlen($row_t->surface);
 				}
 				
-				//echo $filename." - ".$speaker." - ".$spkturn." - ".$clspk." - ".$tally[$spkturn]." - ".$clause_id." - ".$cl_len." - ".$contains_t." - ".$count_t." - ".$t_loc." - ".$t_v." - ".$trigword." - ".$t_len." - ".$nt_sum." - ".$cswitch." - ".$slotlg." - ".$ext_cs." - ".$int_cs." - ".$cl_lg." - ".$surface."\n";
+				//echo $filename." - ".$speaker." - ".$spkturn." - ".$clspk." - ".$tally[$spkturn]." - ".$clause_id." - ".$cl_len." - ".$verblg." - ".$contains_t." - ".$count_t." - ".$t_no." - ".$t_loc." - ".$t_v." - ".$trigword." - ".$t_len." - ".$nt_sum." - ".$cswitch." - ".$slotlg." - ".$ext_cs." - ".$int_cs." - ".$cl_lg." - ".$surface."\n";
 
-				echo $filename." - ".$speaker." - ".$contains_t." - ".$trigword." - ".$cswitch."\n";
+				echo $filename." - ".$speaker." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
 				
-				$write1=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, contains_t, count_t, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$contains_t', $count_t, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$int_cs', '$cl_lg', '$surface')");
+				$write1=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$int_cs', '$cl_lg', '$surface')");
 				
 				unset($t_loc, $t_k, $t_v, $t_len, $trigword);
 			}
 		}
 		else
 		{
+			$t_no=0;
 			$t_loc=0;
 			$t_v="none";
 			$t_len=0;
 						
-			//echo $filename." - ".$speaker." - ".$spkturn." - ".$clspk." - ".$tally[$spkturn]." - ".$clause_id." - ".$cl_len." - ".$contains_t." - ".$count_t." - ".$t_loc." - ".$t_v." - ".$trigword." - ".$t_len." - ".$nt_sum." - ".$cswitch." - ".$slotlg." - ".$ext_cs." - ".$int_cs." - ".$cl_lg." - ".$surface."\n";
+			//echo $filename." - ".$speaker." - ".$spkturn." - ".$clspk." - ".$tally[$spkturn]." - ".$clause_id." - ".$cl_len." - ".$verblg." - ".$contains_t." - ".$count_t." - ".$t_no." - ".$t_loc." - ".$t_v." - ".$trigword." - ".$t_len." - ".$nt_sum." - ".$cswitch." - ".$slotlg." - ".$ext_cs." - ".$int_cs." - ".$cl_lg." - ".$surface."\n";
 			
-			echo $filename." - ".$speaker." - ".$contains_t." - ".$trigword." - ".$cswitch."\n";
+			echo $filename." - ".$speaker." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
 			
-			$write2=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, contains_t, count_t, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$contains_t', $count_t, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$int_cs', '$cl_lg', '$surface')");
+			$write2=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$int_cs', '$cl_lg', '$surface')");
 			
 			unset($t_loc, $t_k, $t_v, $t_len, $trigword);
 		}
+	
+	$prev_verblg=$verblg;
+	//echo $prev_cl_lg.")\n";
+	
 	}
 }
 
+
+
+// Get the totals for triggers and codeswitches per file ...
 
 $get_all_t=query("select count(trigword) as all_t from $mixedmodel where trigword!='';");
 while ($row_get_all_t=pg_fetch_object($get_all_t))
@@ -146,8 +204,6 @@ while ($row_get_all_t=pg_fetch_object($get_all_t))
 }
 $update_all_t=query("update $mixedmodel set all_t=$all_t;");
 
-
-
 $get_all_w=query("select count(surface) as all_w from $words where langid!='999';");
 while ($row_get_all_w=pg_fetch_object($get_all_w))
 {
@@ -155,16 +211,12 @@ while ($row_get_all_w=pg_fetch_object($get_all_w))
 }
 $update_all_w=query("update $mixedmodel set all_w=$all_w;");
 
-
-
 $get_all_cs=query("select count(cswitch) as all_cs from $mixedmodel where cswitch='yes';");
 while ($row_get_all_cs=pg_fetch_object($get_all_cs))
 {
 	$all_cs=$row_get_all_cs->all_cs;
 }
 $update_all_cs=query("update $mixedmodel set all_cs=$all_cs;");
-
-
 
 $get_all_cl=query("select count(clause_id) as all_cl from $cognates;");
 while ($row_get_all_cl=pg_fetch_object($get_all_cl))
@@ -174,13 +226,13 @@ while ($row_get_all_cl=pg_fetch_object($get_all_cl))
 $update_all_cl=query("update $mixedmodel set all_cl=$all_cl;");
 
 
+// ... and per speaker.
 
 $get_speakers=query("select speaker from $mixedmodel group by speaker;");
 while ($row_get_speakers=pg_fetch_object($get_speakers))
 {
 	$dbspeaker=$row_get_speakers->speaker;
 	
-
 	$get_spk_t=query("select count(trigword) as spk_t from $mixedmodel where speaker='$dbspeaker' and trigword!='';");
 	while ($row_get_spk_t=pg_fetch_object($get_spk_t))
 	{
@@ -188,7 +240,6 @@ while ($row_get_speakers=pg_fetch_object($get_speakers))
 	}
 	$update_spk_t=query("update $mixedmodel set spk_t=$spk_t where speaker='$dbspeaker';");
 	
-
 	$get_spk_w=query("select count(surface) as spk_w from $words where langid!='999' and speaker='$dbspeaker';");
 	while ($row_get_spk_w=pg_fetch_object($get_spk_w))
 	{
@@ -196,7 +247,6 @@ while ($row_get_speakers=pg_fetch_object($get_speakers))
 	}
 	$update_spk_w=query("update $mixedmodel set spk_w=$spk_w where speaker='$dbspeaker';");
 	
-
 	$get_spk_cs=query("select count(cswitch) as spk_cs from $mixedmodel where speaker='$dbspeaker' and cswitch='yes';");
 	while ($row_get_spk_cs=pg_fetch_object($get_spk_cs))
 	{
@@ -204,7 +254,6 @@ while ($row_get_speakers=pg_fetch_object($get_speakers))
 	}
 	$update_spk_cs=query("update $mixedmodel set spk_cs=$spk_cs where speaker='$dbspeaker';");
 	
-
 	$get_spk_cl=query("select count(clause_id) as spk_cl from $cognates where speaker='$dbspeaker';");
 	while ($row_get_spk_cl=pg_fetch_object($get_spk_cl))
 	{
@@ -212,5 +261,7 @@ while ($row_get_speakers=pg_fetch_object($get_speakers))
 	}
 	$update_spk_cl=query("update $mixedmodel set spk_cl=$spk_cl where speaker='$dbspeaker';");
 }
+
+
 
 ?>

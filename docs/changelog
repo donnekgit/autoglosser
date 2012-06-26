@@ -1,6 +1,11 @@
 Changelog
 =======
 
+25/06/2012
+Improve mixed model data generation.
+Delete classes of words from the word tables.
+Silence audiofiles where only the speaker text has sound-bullets.
+
 18/06/2012
 Generate clause data for mixed model analysis.
 

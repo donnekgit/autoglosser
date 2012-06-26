@@ -32,15 +32,21 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// Remember to change get_all_speaker_data().
+// Remember to change the main language in the csv variables.
+// Remember to change get_linguality() .
+// Remember to change the responder (dependent) variable section.
+
+// Change this depending on the corpus.
 // Retrieve speaker data from the questionnaire table and make the desired data-items available in an array
-$spdata=get_all_speaker_data($words);
+$spdata=get_all_speaker_data_patagonia($words);
 
 print_r($spdata);
 
 $fp = fopen("caroline/outputs/{$filename}_clauses.csv", "w") or die("Can't create the file");
 
 // Spreadsheet column headings
-$columns="\"speaker\",\"utt_no\",\"cl_in_utt\",\"cl_start\",\"cl_end\",\"spkturn_no\",\"cl_in_spkturn\",\"file\",\"surface\",\"autogloss\",\"matrix_lg\",\"linguality\",\"dv\",\"verb_morph\",\"qlang\",\"dob\",\"gender\",\"age\",\"work\",\"brought_up\",\"main_area\",\"education\",\"welsh_since\",\"english_since\",\"welsh_ability\",\"english_ability\",\"mother_spoke\",\"father_spoke\",\"guardian_spoke\",\"primary_lg\",\"secondary_lg\",\"welsh_modern\",\"welsh_useful\",\"welsh_friendly\",\"welsh_inspiring\",\"welsh_beautiful\",\"welsh_influential\",\"english_modern\",\"english_useful\",\"english_friendly\",\"english_inspiring\",\"english_beautiful\",\"english_influential\",\"contact1\",\"contact2\",\"contact3\",\"contact4\",\"contact5\",\"nat_id\",\"i_separate\",\"shdbe_separate\"\n";
+$columns="\"speaker\",\"utt_no\",\"cl_in_utt\",\"cl_start\",\"cl_end\",\"spkturn_no\",\"cl_in_spkturn\",\"file\",\"surface\",\"autogloss\",\"matrix_lg\",\"linguality\",\"dv\",\"verb_morph\",\"qlang\",\"dob\",\"gender\",\"age\",\"work\",\"brought_up\",\"main_area\",\"education\",\"welsh_since\",\"spanish_since\",\"welsh_ability\",\"spanish_ability\",\"mother_spoke\",\"father_spoke\",\"guardian_spoke\",\"primary_lg\",\"secondary_lg\",\"welsh_modern\",\"welsh_useful\",\"welsh_friendly\",\"welsh_inspiring\",\"welsh_beautiful\",\"welsh_influential\",\"spanish_modern\",\"spanish_useful\",\"spanish_friendly\",\"spanish_inspiring\",\"spanish_beautiful\",\"spanish_influential\",\"contact1\",\"contact2\",\"contact3\",\"contact4\",\"contact5\",\"nat_id\",\"i_separate\",\"shdbe_separate\"\n";
 fwrite($fp, $columns);
 
 $clause="";
@@ -77,10 +83,10 @@ while ($row2=pg_fetch_object($sql2))
 		{
 			$verb=$verb;
 		}
-		
 	}
 	
-	$mb_clause=get_linguality($clause_langid);
+	// Change this depending on the corpus.
+	$mb_clause=get_linguality_patagonia($clause_langid);
 	
 	$sql4=query("select * from $words where utterance_id=$utt and langid!='999' order by location");
 	while ($row4=pg_fetch_object($sql4))
@@ -103,16 +109,10 @@ while ($row2=pg_fetch_object($sql2))
 	$verb=substr($verb, 0, -1);  // Trim the excess = off the end of the verb string.
 	$verb=preg_replace("/\[or\]be\.V.3S\.PRES\.NEG\+SM/", "", $verb);  // Hack!
 	
+	// Change this depending on the corpus.
+	/*
 	// Responder (dependent) variable
 	if ($verblg=="eng" and $mb_clause=="monoE")
-	{
-		$dv="ee";
-	}
-	elseif ($verblg=="cym" and $mb_clause=="monoW")
-	{
-		$dv="ww";
-	}
-	elseif ($verblg=="eng" and $mb_clause=="monoE")
 	{
 		$dv="ee";
 	}
@@ -132,29 +132,54 @@ while ($row2=pg_fetch_object($sql2))
 	{
 		$dv="--";
 	}
+	*/
+	
+	// Responder (dependent) variable
+	if ($verblg=="spa" and $mb_clause=="monoS")
+	{
+		$dv="ss";
+	}
+	elseif ($verblg=="cym" and $mb_clause=="monoW")
+	{
+		$dv="ww";
+	}
+	elseif ($verblg=="spa" and $mb_clause=="biling")
+	{
+		$dv="sb";
+	}
+	elseif ($verblg=="cym" and $mb_clause=="biling")
+	{
+		$dv="wb";
+	}
+	else
+	{
+		$dv="--";
+	}
+	
 	
 	// Printout
 	echo $speaker." (".$utt.", ".$clauseno."): ".$clause."(".$mb_clause.") - ".$verblg."\n";
 	
+	// Filename, Utterance number, Clause number, Location of clause start, Location of clause end,
 	$csvloc="\"".$speaker."\",\"".$utt."\",\"".$clauseno."\",\"".$minloc."\",\"".$maxloc."\",\"".$spkturn."\",\"".$spkturnno."\",";
 	fwrite($fp, $csvloc);
-	// Filename, Utterance number, Clause number, Location of clause start, Location of clause end,
 	
+	// Speaker, Clause,
 	$csvclause="\"".$filename."\",\"".$clause."\",\"".$auto."\",";
 	fwrite($fp, $csvclause);
-	// Speaker, Clause,
-
+	
+	// Matrix (verb) language, Linguality of clause, Dependent variable, Verb morphology,
 	$csvling="\"".$verblg."\",\"".$mb_clause."\",\"".$dv."\",\"".$verb."\",";
 	fwrite($fp, $csvling);
-	// Matrix (verb) language, Linguality of clause, Dependent variable, Verb morphology,
-			
+	
+	// Speaker data
 	$csvq1="\"".$spdata[$speaker][qlang]."\",\"".$spdata[$speaker][dob]."\",\"".$spdata[$speaker][gender]."\",\"".$spdata[$speaker][age]."\",\"".$spdata[$speaker][work]."\",\"".$spdata[$speaker][brought_up]."\",\"".$spdata[$speaker][main_area]."\",";
 	fwrite($fp, $csvq1);
 			
-	$csvq2="\"".$spdata[$speaker][education]."\",\"".$spdata[$speaker][welsh_since]."\",\"".$spdata[$speaker][english_since]."\",\"".$spdata[$speaker][welsh_ability]."\",\"".$spdata[$speaker][english_ability]."\",\"".$spdata[$speaker][mother_spoke]."\",\"".$spdata[$speaker][father_spoke]."\",\"".$spdata[$speaker][guardian_spoke]."\",";
+	$csvq2="\"".$spdata[$speaker][education]."\",\"".$spdata[$speaker][welsh_since]."\",\"".$spdata[$speaker][spanish_since]."\",\"".$spdata[$speaker][welsh_ability]."\",\"".$spdata[$speaker][spanish_ability]."\",\"".$spdata[$speaker][mother_spoke]."\",\"".$spdata[$speaker][father_spoke]."\",\"".$spdata[$speaker][guardian_spoke]."\",";
 	fwrite($fp, $csvq2);
 	
-	$csvq3="\"".$spdata[$speaker][primary_lg]."\",\"".$spdata[$speaker][secondary_lg]."\",\"".$spdata[$speaker][welsh_modern]."\",\"".$spdata[$speaker][welsh_useful]."\",\"".$spdata[$speaker][welsh_friendly]."\",\"".$spdata[$speaker][welsh_inspiring]."\",\"".$spdata[$speaker][welsh_beautiful]."\",\"".$spdata[$speaker][welsh_influential]."\",\"".$spdata[$speaker][english_modern]."\",\"".$spdata[$speaker][english_useful]."\",\"".$spdata[$speaker][english_friendly]."\",\"".$spdata[$speaker][english_inspiring]."\",\"".$spdata[$speaker][english_beautiful]."\",\"".$spdata[$speaker][english_influential]."\",";
+	$csvq3="\"".$spdata[$speaker][primary_lg]."\",\"".$spdata[$speaker][secondary_lg]."\",\"".$spdata[$speaker][welsh_modern]."\",\"".$spdata[$speaker][welsh_useful]."\",\"".$spdata[$speaker][welsh_friendly]."\",\"".$spdata[$speaker][welsh_inspiring]."\",\"".$spdata[$speaker][welsh_beautiful]."\",\"".$spdata[$speaker][welsh_influential]."\",\"".$spdata[$speaker][spanish_modern]."\",\"".$spdata[$speaker][spanish_useful]."\",\"".$spdata[$speaker][spanish_friendly]."\",\"".$spdata[$speaker][spanish_inspiring]."\",\"".$spdata[$speaker][spanish_beautiful]."\",\"".$spdata[$speaker][spanish_influential]."\",";
 	fwrite($fp, $csvq3);
 	
 	$csvq4= "\"".$spdata[$speaker][contact1]."\",\"".$spdata[$speaker][contact2]."\",\"".$spdata[$speaker][contact3]."\",\"".$spdata[$speaker][contact4]."\",\"".$spdata[$speaker][contact5]."\",\"".$spdata[$speaker][nat_id]."\",\"".$spdata[$speaker][i_separate]."\",\"".$spdata[$speaker][shdbe_separate]."\"\n";

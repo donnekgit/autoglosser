@@ -35,15 +35,17 @@ echo $words."\n";
 
 // Set up the table variables.
 $words=$words."_nuked";
-$cognates=$filename."_diana";
-$mixedmodel=$filename."_mixedmodel";
-
 echo $words."\n";
+$cognates=$filename."_diana";
 echo $cognates."\n";
+$mixedmodel=$filename."_mixedmodel";
 echo $mixedmodel."\n";
 
-drop_existing_table($words);
 
+
+drop_existing_table($filename."_cgwords_nuked");
+
+// Copy the existing words table, drop the added columns, and add them back.
 $create_nuked=query("create table $words as select * from {$filename}_cgwords;");
 
 $drop_clause=query("alter table $words drop column clause;");
@@ -55,34 +57,40 @@ $drop_clspk=query("alter table $words drop column clspk;");
 
 $add_clause=query("alter table $words add column clause character varying(50) default ''");
 $add_clauseno=query("alter table $words add column clauseno integer");
-
 include("cognates/extend_cgwords.php");
 
+//Delete IMs.
 include("cognates/nuke_ims.php");
 
-include("cognates/mark.php");
+// Mark the clauses, and segment.
+include("cognates/mark.php");  // Mark possible clause boundaries.
+include("cognates/adjust_deletes.php");  // Delete unwanted clause boundaries.
+include("cognates/adjust_moves.php");  // Move clause boundaries.
+include("cognates/segment.php");  // Add clause numbers.  Can write _split.txt.
 
-include("cognates/adjust_deletes.php");
-
-include("cognates/adjust_moves.php");
-
-include("cognates/segment.php");  // Can write _split.txt.
-
-
-
+// Mark clauses to be ignored in the table.
+echo "\nRunning reinforcers now ...\n";
 include("cognates/reinforcers.php");
 
-//include("cognates/insert_triggers.php");  Use if you want to note codeswitches.
+// Inject triggers (mark words as triggers).
+echo "\nRunning insert_triggers now ...\n";
+include("cognates/insert_triggers.php");
 
+// Count speech-turns (adds speech-turns and clauses in the speech-turn).
+echo "\nRunning write_rei now ...\n";
 include("cognates/write_rei.php");  // Can write _spk.txt.
 
-//include("cognates/write_cognates.php");  // Can write _spkturn.txt.
+// Write a NEW cognates table rearranging the words table by speech-turn and clause.
+echo "\nRunning write_cognates now ...\n";
+include("cognates/write_cognates.php");  // Can write _spkturn.txt.
 
-include("cognates/analyse_clauses.php");  // Writes _clauses.csv.
-//include("cognates/analyse_cognates.php");  // Use if you want to notate codeswitches.
+// Generates CS and trigger info.
+echo "\nRunning analyse_cognates now ...\n";
+include("cognates/analyse_cognates.php");  // Can write _cog.txt.
 
-exec("cat caroline/outputs/{$filename}_clauses.csv >> caroline/jumbo.csv");  // Add all the clauses to one big file.
-*/
+// Arranges codeswitch and trigger data ready for mixed model analysis.
+echo "\nRunning mixedmodel now ...\n";
+include("cognates/mixedmodel.php");
 
 
 ?>
