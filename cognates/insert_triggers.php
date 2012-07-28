@@ -39,22 +39,32 @@ if (empty($filename))
 $sql_clear=query("update $words  set cognate=''");  // Remove previous cognate entries
 
 
-$sql_fill=query("update $words set cognate='t1' where surface in (select cognate from di_cognates) and langid!='cym'");
+$sql_fill=query("update $words set cognate='cog' where surface in (select cognate from di_cognates) and langid!='cym'");
 // For langid!='cym', see email of 8 June 2011 - it prevents "fan" and "pan" being interpreted as English when they are in fact Welsh
 
 // For all subsequent injections, specify that the cognate field must be empty, to prevent later wordsets over-writing earlier ones.
 
-$sql_fill=query("update $words set cognate='t2' where surface in (select surface from di_n) and langid!='cym' and cognate=''");
+$sql_fill=query("update $words set cognate='n' where surface in (select surface from di_n) and langid!='cym' and cognate=''");
 
-$sql_fill=query("update $words set cognate='t3' where surface in (select surface from di_adj) and langid!='cym' and cognate=''");
+$sql_fill=query("update $words set cognate='n_mut' where surface in (select surface from di_n_mut) and langid!='cym' and cognate=''");
 
-$sql_fill=query("update $words set cognate='t4' where surface in (select surface from di_nadj) and langid!='cym' and cognate=''");
+$sql_fill=query("update $words set cognate='n_pl' where surface in (select surface from di_n_pl) and langid!='cym' and cognate=''");
 
-$sql_fill=query("update $words set cognate='t5' where surface in (select surface from di_names) and langid!='cym' and cognate=''");
+$sql_fill=query("update $words set cognate='n_pl_mut' where surface in (select surface from di_n_pl_mut) and langid!='cym' and cognate=''");
 
-$sql_fill=query("update $words set cognate='t6' where surface in (select surface from di_rem) and langid!='cym' and cognate=''");
+$sql_fill=query("update $words set cognate='adj' where surface in (select surface from di_adj) and langid!='cym' and cognate=''");
 
-$sql_fill=query("update $words set cognate='t7' where surface in (select surface from di_ioverbs) and cognate=''");
+$sql_fill=query("update $words set cognate='adj_mut' where surface in (select surface from di_adj_mut) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='adv' where surface in (select surface from di_adv) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='ex' where surface in (select surface from di_ex) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='name' where surface in (select surface from di_names) and langid!='cym' and cognate=''");
+
+$sql_fill=query("update $words set cognate='vb' where surface in (select surface from di_verbs) and cognate=''");
+
+$sql_fill=query("update $words set cognate='vb_io' where surface in (select surface from di_ioverbs) and cognate=''");
 // Omit the langid!='cym' clause from the -io verbs line (because they are already marked cym)
 
 ?>

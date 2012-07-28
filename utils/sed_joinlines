@@ -44,9 +44,8 @@ sed -e 'N;s/\n\t/ /;P;D;' | \
 sed -e '/\*[A-Z]*:/s/\(\w\)\./\1 ./g' | \
 sed -e "s/\(^\*[A-Z]*:\) \+/\1\t/g" | \
 sed -e "s/\(^%eng:\) \+/\1\t/g" | \
-sed -e "s/’/'/g" | \
-sed -e "s/’/'/g" | \
-sed -e 's/”/"/g' | \
+#sed -e "s/’/'/g" | \
+#sed -e 's/”/"/g' | \
 sed -e "s/´/'/g" | \
 sed -e 's/–/-/g' | \
 sed -e 's/‑/-/g' > $path/$fixedfile  # output to the path + new filename

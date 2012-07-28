@@ -31,6 +31,7 @@ include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
 $files=scandir($target);
+natsort($files);
 foreach ($files as $file)
 {
 	if (preg_match("/.cha/", $file))
@@ -50,31 +51,29 @@ foreach ($files as $file)
 				$mflg=$filelgs[0];
 			}
 		}
-		echo $mflg." - ";
+		echo $mflg."\n";  // Just get a printout - uncomment the lines below to do the actual copying.
 		
-		echo "\n";  // Just get a printout - uncomment the lines below to do the actual copying.
-
-		/*
+		
 		// Copy the files into appropriate dirs.
 		switch ($mflg) 
 		{
-			case "cym":
-				exec("mkdir -p $target/cym");
-				exec("cp $target/$filename.cha $target/cym/$filename.cha");
-				echo "\n";
-				break;
-			case "eng":
-				exec("mkdir -p $target/eng");
-				exec("cp $target/$filename.cha $target/eng/$filename.cha");
-				echo "\n";
-				break;
+// 			case "cym":
+// 				exec("mkdir -p $target/cym");
+// 				exec("cp $target/$filename.cha $target/cym/$filename.cha");
+// 				echo "\n";
+// 				break;
+// 			case "eng":
+// 				exec("mkdir -p $target/eng");
+// 				exec("cp $target/$filename.cha $target/eng/$filename.cha");
+// 				echo "\n";
+// 				break;
 			case "spa":
 				exec("mkdir -p $target/spa");
-				exec("cp $target/$filename.cha $target/spa/$filename.cha");
+				exec("mv $target/$filename.cha $target/spa/$filename.cha");
 				echo "\n";
 				break;
 		}
-		*/
+		
 		
 	}
 }

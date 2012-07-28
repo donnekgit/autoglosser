@@ -34,7 +34,7 @@ if (empty($filename))
 
 //$words=$words."_nuked";
 
-$add_cognate=query("alter table $words add column cognate character varying(10) default ''");
+$add_cognate=query("alter table $words add column cognate character varying(20) default ''");
 
 $add_rei=query("alter table $words add column rei character varying(10) default ''");
 //$blank_rei=query("update stammers4_cgwords set rei='' where rei is null");

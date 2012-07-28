@@ -32,13 +32,15 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// Uncomment for testing of portions of the pipeline.
 //$words=$words."_nuked";  // Required for trigword query, and total words queries.
 //$cognates=$filename."_diana";
 //$mixedmodel=$filename."_mixedmodel";
 
+// If uncommenting the above for partial testing, comment out the following line:
 include("create_mixedmodel.php");
 
-$sql_t=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and place them in order.
+$sql_t=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk;");  // Get all the speaker turns and place them in order.
 while ($row_t=pg_fetch_object($sql_t))
 {
 	$spkturn=$row_t->spkturn;
@@ -48,13 +50,13 @@ while ($row_t=pg_fetch_object($sql_t))
 
 //print_r($tally);
 
-$sql1=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and place them in order.
+$sql1=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk;");  // Get all the speaker turns and place them in order.
 while ($row1=pg_fetch_object($sql1))
 {
 	$spkturn=$row1->spkturn;
 	$clspk=$row1->clspk;
 
-	$sql3=query("select * from $cognates where spkturn=$spkturn and clspk=$clspk order by clause_id");
+	$sql3=query("select * from $cognates where spkturn=$spkturn and clspk=$clspk order by clause_id;");
 	while ($row3=pg_fetch_object($sql3))
 	{
 		$utt=$row3->utterance_id;
@@ -63,7 +65,7 @@ while ($row1=pg_fetch_object($sql1))
 		$speaker=$row3->speaker;
 		$verblg=$row3->verblg;
 		$slotlg=$row3->slotlg;
-		$t=unserialize($row3->t_ser);  // Remember that the figure in the T array refers to the location, which will be the location in the original utterance.  FIX - this should reflect the location in the clause..
+		$t=unserialize($row3->t_ser);  // Remember that the figure in the T array refers to the location, which will be the location in the original utterance.  FIX - this should reflect the location in the clause.
 		$nt_lg=unserialize($row3->nt_lg_ser);  // The count of the different non-T languages in the clause.
 		$surface=pg_escape_string($row3->surface);
 		$new=$row3->newturn;
@@ -78,21 +80,66 @@ while ($row1=pg_fetch_object($sql1))
 		//print_r($nt_lg);
 		//echo $nt_sum."\n";
 		
-		$cl_len=$maxloc-$minloc+1;
-		$contains_t=(!empty($t)) ? "yes" : "no";
-		$count_t=count($t);
-		if ($row3->external=="ST" or $row3->external=="SNT")
+		$cl_len=$maxloc-$minloc+1;  // Calculate clause length.
+		$contains_t=(!empty($t)) ? "yes" : "no";  // Is there a trigger or not?
+		$count_t=count($t);  // Count the number of triggers.
+		
+		// Use the backward external entry to calculate ext_cs.
+		if ($row3->externalb=="ST" or $row3->externalb=="SNT")
 		{
 			$ext_cs="yes";
 		}
-		elseif ($row3->external=="NST" or $row3->external=="NSNT")
+		elseif ($row3->externalb=="NST" or $row3->externalb=="NSNT")
 		{
 			$ext_cs="no";
 		}
-		else
+		else  // where analyse_cognates gives "---"
 		{
 			$ext_cs="n/a";
 		}
+		
+		// Hack to allow ext_cs to be based on verb language rather than changes between P and F.
+		// This overwrites most of the previous block's output, but that block  is left in so that it can be reverted to if desired.
+		if ($ext_cs!='n/a')  // In cases where ext_cs is "yes" or "no" ...
+		{
+			if (!empty($verblg) and $prev_verblg!="")  // ... if there are entries for both verblg and prev_verblg (which is set at the end of the loop) ...
+			{
+				if ($verblg==$prev_verblg)  // ... and they are the same ...
+				{
+					$ext_cs="no";  // ... set ext_cs to "no" ...
+				}
+				else  // ... but if they are different ...
+				{
+					$ext_cs="yes";  // ... set ext_cs to "yes" ...
+				}
+			}
+			else  // and if either verblg or prev_verblg has no entry ...
+			{
+				$ext_cs="n/a";  // ... set ext_cs to "n/a", otherwise there would be an invalid comparison between a clause with a verb and one without.
+			}
+			//echo $cl_lg." - ";
+		}
+		
+		// Another hack to allow ext_cs to be based on verb language rather than changes between P and F.
+		// This is slightly different from the previous one - it allows ext_cs to take place between speechturns.
+		if (!empty($verblg) and $prev_verblg!="")  // ... if there are entries for both verblg and prev_verblg (which is set at the end of the loop) ...
+		{
+			if ($verblg==$prev_verblg)  // ... and they are the same ...
+			{
+				$ext_cs_bs="no";  // ... set ext_cs_bs to "no" ...
+			}
+			else  // ... but if they are different ...
+			{
+				$ext_cs_bs="yes";  // ... set ext_cs_bs to "yes" ...
+			}
+		}
+		else  // and if either verblg or prev_verblg has no entry ...
+		{
+			$ext_cs_bs="n/a";  // ... set ext_cs_bs to "n/a", otherwise there would be an invalid comparison between a clause with a verb and one without.
+		}
+		//echo $cl_lg." - ";
+
+		// Use the internal entry to calculate int_cs.
 		if ($row3->internal=="ST" or $row3->internal=="SNT")
 		{
 			$int_cs="yes";
@@ -106,48 +153,28 @@ while ($row1=pg_fetch_object($sql1))
 			$int_cs="n/a";
 		}
 		
-		$cleanslot=preg_replace("/0/", "", $slotlg);
-		if (preg_match("/1/", $cleanslot))
+		// Use the langid of the words in the clause to calculate cl_lg.
+		$cleanslot=preg_replace("/0/", "", $slotlg);  // Get rid of indeterminates, to simplify calculation.
+		if (preg_match("/1/", $cleanslot))  // If there are Welsh words ...
 		{
-			if (preg_match("/2/", $cleanslot))
+			if (preg_match("/2/", $cleanslot))  // and also English words ...
 			{
-				$cl_lg="mix";
+				$cl_lg="mix";  // cl_lg is mixed
 			}
-			else
+			else // but if there are no English words ...
 			{
-				$cl_lg="cym";
+				$cl_lg="cym";  // cl_lg is Welsh
 			}
 		}
-		else
+		else  // and if there are no Welsh words at all ...
 		{
-			$cl_lg="eng";
+			$cl_lg="eng";  // cl_lg is English.
 		}
 		
-// 		if ($prev_cl_lg="")
-// 		{
-// 			$prev_cl_lg=$cl_lg;
-// 		}
-// 		echo $prev_cl_lg." - ";
-		
-		if (!empty($verblg) and $prev_verblg!="")
-		{
-			if ($verblg==$prev_verblg)
-			{
-				$ext_cs="no";
-			}
-			else
-			{
-				$ext_cs="yes";
-			}
-		}
-		else
-		{
-			$ext_cs="n/a";
-		}
-		//echo $cl_lg." - ";
-		
+		// If there is any type of codeswitch, set cswitch to yes.
 		$cswitch=($ext_cs=="yes" or $int_cs=="yes") ? "yes" : "no";
 
+		// Set up other fields depending on whether there is a trigger in the clause ...
 		if (!empty($t))
 		{
 			$i=1;  // Set up a counter for the number of triggers.
@@ -155,7 +182,7 @@ while ($row1=pg_fetch_object($sql1))
 			{
 				$t_no=$i++;
 				$t_loc=$t_k-$minloc+1;
-				$sql_t=query("select surface from $words where filename='$filename' and utterance_id=$utt and location=$t_k");
+				$sql_t=query("select surface from $words where filename='$filename' and utterance_id=$utt and location=$t_k;");
 				while ($row_t=pg_fetch_object($sql_t))
 				{
 					$trigword=pg_escape_string($row_t->surface);
@@ -164,14 +191,14 @@ while ($row1=pg_fetch_object($sql1))
 				
 				//echo $filename." - ".$speaker." - ".$spkturn." - ".$clspk." - ".$tally[$spkturn]." - ".$clause_id." - ".$cl_len." - ".$verblg." - ".$contains_t." - ".$count_t." - ".$t_no." - ".$t_loc." - ".$t_v." - ".$trigword." - ".$t_len." - ".$nt_sum." - ".$cswitch." - ".$slotlg." - ".$ext_cs." - ".$int_cs." - ".$cl_lg." - ".$surface."\n";
 
-				echo $filename." - ".$speaker." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
+				echo $filename." - ".$speaker.": ".$surface." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
 				
-				$write1=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$int_cs', '$cl_lg', '$surface')");
+				$write1=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, ext_cs_bs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$ext_cs_bs', '$int_cs', '$cl_lg', '$surface');");
 				
 				unset($t_loc, $t_k, $t_v, $t_len, $trigword);
 			}
 		}
-		else
+		else // ... or not.
 		{
 			$t_no=0;
 			$t_loc=0;
@@ -180,14 +207,14 @@ while ($row1=pg_fetch_object($sql1))
 						
 			//echo $filename." - ".$speaker." - ".$spkturn." - ".$clspk." - ".$tally[$spkturn]." - ".$clause_id." - ".$cl_len." - ".$verblg." - ".$contains_t." - ".$count_t." - ".$t_no." - ".$t_loc." - ".$t_v." - ".$trigword." - ".$t_len." - ".$nt_sum." - ".$cswitch." - ".$slotlg." - ".$ext_cs." - ".$int_cs." - ".$cl_lg." - ".$surface."\n";
 			
-			echo $filename." - ".$speaker." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
+			echo $filename." - ".$speaker.": ".$surface." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
 			
-			$write2=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$int_cs', '$cl_lg', '$surface')");
+			$write2=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, ext_cs_bs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$ext_cs_bs', '$int_cs', '$cl_lg', '$surface');");
 			
 			unset($t_loc, $t_k, $t_v, $t_len, $trigword);
 		}
 	
-	$prev_verblg=$verblg;
+	$prev_verblg=$verblg;  // The language of this clause becomes the language of the previous clause for the next loop.
 	//echo $prev_cl_lg.")\n";
 	
 	}

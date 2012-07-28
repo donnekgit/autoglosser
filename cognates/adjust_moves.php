@@ -54,6 +54,10 @@ while ($row0=pg_fetch_object($result0))
 		$prev_s=$row1->surface; // Previous surface.
 		$prev_a=$row1->auto; // Previous auto.
 		
+		
+		
+		// Spanish ****************************
+
 		// Link words before que in Spanish
 		if (preg_match("/^(hasta|lo|la|las|tengo|tiene|tienes|tienen)$/", $prev_s) && preg_match("/que/", $this_s))
 		{
@@ -114,20 +118,12 @@ while ($row0=pg_fetch_object($result0))
 			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
 		
-		// Link words in English
+		
+		
+		// English ****************************
+		
+		// Subject pronouns in English
 		if (preg_match("/PRON.SUB/", $prev_a) && preg_match("/\.V\.(?!(INFIN|PRESPART|PASTPART))/", $this_a))
-		{
-			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
-			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
-
-			$sqld="update $words set clause=clause || '+me2' where utterance_id=$utt and location=$this_loc";
-			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
-			
-			echo "Moving $utt,$this_loc to $utt,$before\n";
-		}
-
-		// Link words in English
-		if (preg_match("/^(and|because|but|if|since|what|when|where|why)$/", $prev_s) && preg_match("/PRON.SUB/", $this_a))
 		{
 			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
 			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
@@ -137,6 +133,34 @@ while ($row0=pg_fetch_object($result0))
 			
 			echo "Moving $utt,$this_loc to $utt,$before\n";
 		}
+
+		// Link words in English with following subject pronoun
+		if (preg_match("/^(and|because|but|how|if|since|what|when|where|which|why)$/", $prev_s) && preg_match("/PRON.SUB/", $this_a))
+		{
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
+			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
+
+			$sqld="update $words set clause=clause || '+me2' where utterance_id=$utt and location=$this_loc";
+			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
+			
+			echo "Moving $utt,$this_loc to $utt,$before\n";
+		}
+		
+		// Link words in English with following elision
+		if  (preg_match("/^(and|because|but|how|if|since|what|when|where|why)$/", $prev_s) && preg_match("/^(s?he\'d|s?he\'s|I\'d|I\'m|I\'ve|that\'s|they\'d|they\'re|they\'ve|we\'d|we\'re|we\'ve|you\'d|you\'re|you\'ve)$/", $this_s))
+		{
+			$sqlm="update $words set clause='c' where utterance_id=$utt and location=$before";
+			$resultm=pg_query($db_handle,$sqlm) or die("Can't get the items");
+
+			$sqld="update $words set clause=clause || '+me3' where utterance_id=$utt and location=$this_loc";
+			$resultd=pg_query($db_handle,$sqld) or die("Can't get the items");
+			
+			echo "Moving $utt,$this_loc to $utt,$before\n";
+		}
+		
+		
+		
+		// Welsh ****************************
 
 		// Prepositions before infinitives in Welsh
 		if (preg_match("/^(yng?|wedi|am|heb|newydd)$/", $prev_s) && preg_match("/INFIN/", $this_a))

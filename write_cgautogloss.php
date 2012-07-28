@@ -73,15 +73,24 @@ while ($row_s=pg_fetch_object($result_s))
 	$precode=$row_s->precode;
 	$precode=($precode=='') ? "": "[- ".$precode."] ";
     //$speech="*".$row_s->speaker.":\t".$precode.$row_s->surface." %snd:\"".$row_s->filename."\"_".$row_s->durbegin."_".$row_s->durend."\n";  // This older format for the sound-bullets is now deprecated.
+    // CHECK will give a sound-bullet error if the bullets contain only 0_0:
+    if ($row_s->durbegin>0 and $row_s->durend>0)
+    {
+		$sound_bullet=" ".$row_s->durbegin."_".$row_s->durend."";
+	}
+	else
+	{
+		$sound_bullet="";
+	}
 
 	if (preg_match("/^(?P<link>\+[<^\+\",])/", $surface, $linker))  // Keep continuation markers at the beginning of the line - if a  continuation marker exists, copy it into the [link] key of the $linker array, and do the following:
 	{
 		$surface=preg_replace("/^(\+[<^\+\",] )/", "", $surface);  // Remove the continuation marker.
-		$speech="*".$row_s->speaker.":\t".$linker[link]." ".$precode.$surface." ".$row_s->durbegin."_".$row_s->durend."\n";  // Add it back in again from the $linker array, and insert the precode after it.
+		$speech="*".$row_s->speaker.":\t".$linker[link]." ".$precode.$surface.$sound_bullet."\n";  // Add it back in again from the $linker array, and insert the precode after it.
 	}
 	else  // If there is no continuation marker, just insert the precode.
 	{
-		$speech="*".$row_s->speaker.":\t".$precode.$surface." ".$row_s->durbegin."_".$row_s->durend."\n";
+		$speech="*".$row_s->speaker.":\t".$precode.$surface.$sound_bullet."\n";
 	}
     fwrite($fp, $speech);
 
@@ -122,15 +131,15 @@ while ($row_s=pg_fetch_object($result_s))
         fwrite($fp, $mor); 
     }
 
-    if (isset($row_s->comment))
-    {
-        $comment="@Comment:\t".$row_s->comment."\n";
-        fwrite($fp, $comment); 
-    }
-    
     if (isset($row_s->com))
     {
         $comment="%com:\t".$row_s->com."\n";
+        fwrite($fp, $comment); 
+    }
+    
+    if (isset($row_s->comment))  // This is a "section" comment, so it should follow all the others.
+    {
+        $comment="@Comment:\t".$row_s->comment."\n";
         fwrite($fp, $comment); 
     }
 

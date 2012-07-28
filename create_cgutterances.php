@@ -29,6 +29,8 @@ $sqlfields=tier_fields($filename, "text");
 drop_existing_table($utterances);
 //echo $utterances."<br/>";
 
+// CHECK: why is duration below a charvar instead of an integer?
+
 $sql_table = "
 CREATE TABLE $utterances (
     utterance_id serial NOT NULL,

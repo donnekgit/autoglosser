@@ -26,10 +26,10 @@
 # This script produces a set of clauses ready for input to Rbrul.
 
 #FILES="inputs/siarad/beta/deuchar1.cha inputs/siarad/beta/lloyd1.cha inputs/siarad/beta/smith1.cha"
-FILES=inputs/miami/beta/*.cha
+FILES=inputs/siarad/diana/*.cha
 
 for f in $FILES
 do
 	echo "Processing $f ..."
-	php cognates/prep_rbrul.php $f
+	php cognates/prep_mixedmodel.php $f
 done

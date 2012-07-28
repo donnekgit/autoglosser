@@ -751,6 +751,7 @@ function tex_pos_colour ($text)
 }
 
 function get_speaker_data($words)
+// Remember to change the _q table name.
 // Get the speaker data from the questionnaire table for the speakers in the words table
 // Need to include the limit fix from get_speakers below.
 {
@@ -788,6 +789,7 @@ function get_speaker_data($words)
 }
 
 function get_all_speaker_data($words)
+// Remember to change the _q table name.
 // Get the speaker data from the questionnaire table for the speakers in the words table
 // Need to include the limit fix from get_speakers below.
 {
@@ -841,6 +843,7 @@ function get_all_speaker_data($words)
 }
 
 function get_all_speaker_data_patagonia($words)
+// Remember to change the _q table name.
 // Get the speaker data from the questionnaire table for the speakers in the words table
 // Need to include the limit fix from get_speakers below.
 {
@@ -893,6 +896,59 @@ function get_all_speaker_data_patagonia($words)
 	return $spdata;
 }
 
+function get_all_speaker_data_miami($words)
+// Get the speaker data from the questionnaire table for the speakers in the words table
+// Need to include the limit fix from get_speakers below.
+{
+	$sqlsp=query("select speaker, filename from $words where speaker!~'^(RES|OSE)$' group by speaker, filename order by speaker, filename");
+	while ($rowsp=pg_fetch_object($sqlsp))
+	{
+		//$ucfilename=ucfirst($rowsp->filename);  // The filenames in the Miami questionnaire are lower-cased, for some reason.
+		$ucfilename=$rowsp->filename;
+		$sqlq=query("select * from miami_q where id='$rowsp->speaker' and conversation='$ucfilename'");
+		while ($rowq=pg_fetch_object($sqlq))
+		{
+			$spdata[$rowsp->speaker][qlang]=$rowq->lang;
+			$spdata[$rowsp->speaker][dob]=$rowq->dob;
+			$spdata[$rowsp->speaker][gender]=$rowq->gender;
+			$spdata[$rowsp->speaker][age]=$rowq->age;
+			$spdata[$rowsp->speaker][work]=$rowq->work;
+			$spdata[$rowsp->speaker][brought_up]=$rowq->brought_up;
+			$spdata[$rowsp->speaker][main_area]=$rowq->main_area;
+			$spdata[$rowsp->speaker][education]=$rowq->education;
+			$spdata[$rowsp->speaker][spanish_since]=$rowq->spanish_since;
+			$spdata[$rowsp->speaker][english_since]=$rowq->english_since;
+			$spdata[$rowsp->speaker][spanish_ability]=$rowq->spanish_ability;
+			$spdata[$rowsp->speaker][english_ability]=$rowq->english_ability;
+			$spdata[$rowsp->speaker][mother_spoke]=$rowq->mother_spoke;
+			$spdata[$rowsp->speaker][father_spoke]=$rowq->father_spoke;
+			$spdata[$rowsp->speaker][guardian_spoke]=$rowq->guardian_spoke;
+			$spdata[$rowsp->speaker][primary_lg]=$rowq->primary_lang;
+			$spdata[$rowsp->speaker][secondary_lg]=$rowq->secondary_lang;
+			$spdata[$rowsp->speaker][spanish_modern]=$rowq->spanish_modern;
+			$spdata[$rowsp->speaker][spanish_useful]=$rowq->spanish_useful;
+			$spdata[$rowsp->speaker][spanish_friendly]=$rowq->spanish_friendly;
+			$spdata[$rowsp->speaker][spanish_inspiring]=$rowq->spanish_inspiring;
+			$spdata[$rowsp->speaker][spanish_beautiful]=$rowq->spanish_beautiful;
+			$spdata[$rowsp->speaker][spanish_influential]=$rowq->spanish_influential;
+			$spdata[$rowsp->speaker][english_modern]=$rowq->english_modern;
+			$spdata[$rowsp->speaker][english_useful]=$rowq->english_useful;
+			$spdata[$rowsp->speaker][english_friendly]=$rowq->english_friendly;
+			$spdata[$rowsp->speaker][english_inspiring]=$rowq->english_inspiring;
+			$spdata[$rowsp->speaker][english_beautiful]=$rowq->english_beautiful;
+			$spdata[$rowsp->speaker][english_influential]=$rowq->english_influential;
+			$spdata[$rowsp->speaker][contact1]=$rowq->contact1;
+			$spdata[$rowsp->speaker][contact2]=$rowq->contact2;
+			$spdata[$rowsp->speaker][contact3]=$rowq->contact3;
+			$spdata[$rowsp->speaker][contact4]=$rowq->contact4;
+			$spdata[$rowsp->speaker][contact5]=$rowq->contact5;
+			$spdata[$rowsp->speaker][nat_id]=$rowq->nat_id;
+			$spdata[$rowsp->speaker][i_separate]=$rowq->i_separate;
+			$spdata[$rowsp->speaker][shdbe_separate]=$rowq->shdbe_separate;
+		}
+	}
+	return $spdata;
+}
 
 function get_speakers($words)
 // Get the speaker data for the speakers in the words table
@@ -946,6 +1002,28 @@ function get_linguality_patagonia($array)
 	elseif (!$ling[cym])
 	{
 		$mb="monoS";
+	}
+	else
+	{
+		$mb="biling";
+	}
+	return $mb;
+}
+
+function get_linguality_miami($array)
+// Get the linguality of a clause or utterance - edit to match Spanish/English one below
+{
+	$ling=array_count_values($array);
+	// If there is at least one cym&eng or eng word, the clause is bilingual
+	//if (!$ling[cym_eng] and !$ling[eng]) // note we need to use _ instead of &, since it has been switched in the preceding code
+	// Redone to ignore cym&eng
+	if (!$ling[eng])
+	{
+		$mb="monoS";
+	}
+	elseif (!$ling[spa])
+	{
+		$mb="monoE";
 	}
 	else
 	{

@@ -30,8 +30,8 @@
 export PGPASSWORD="kevindbs"
 psql="psql -h localhost -U kevin -d autoglosser"
 
-corpus="cypriot"
-dbname="csdata"
+corpus="patagonia"
+dbname="sox"
 
 #FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
 FILES=inputs/$corpus/beta/*.cha  # Corpus tables, based on the chat files in the corpus directory.

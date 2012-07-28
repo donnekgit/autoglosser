@@ -66,9 +66,4 @@ foreach ($lines as $line)
 	$i++;
 }
 
-
-
-
-
-
 ?>

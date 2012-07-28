@@ -25,7 +25,7 @@
 
 # This script runs PostgreSQL stuff.
 
-FILES=inputs/miami/beta/*.cha
+FILES=inputs/siarad/diana/*.cha
 
 for f in $FILES
 do
@@ -93,20 +93,28 @@ do
 # 	psql -h localhost -U kevin -d autoglosser -q -c "update $words set langid='cym' where langid~'^cy$';"
 
 
-	# -------------------------------------------------
-	# Find location of missing sound-bullets
-	# -------------------------------------------------
+# 	# -------------------------------------------------
+# 	# Find location of missing sound-bullets
+# 	# -------------------------------------------------
+# 
+# 	utt=${fixedfile}_cgutterances
+# 	
+# 	echo $fixedfile >> miamitrans/missing_sound_bullets.txt
+# 	echo "-------------------" >> miamitrans/missing_sound_bullets.txt
+# 
+# 	echo '\\a \\t \\\ select utterance_id, surface from '$utt' where durbegin=0 and durend=0 and speaker='\'MAR\'' order by utterance_id;' | psql -h localhost -U kevin -d autoglosser -q >> miamitrans/missing_sound_bullets.txt
+# 
+# 	echo "\n"  >> miamitrans/missing_sound_bullets.txt
 
-	utt=${fixedfile}_cgutterances
-	
-	echo $fixedfile >> miamitrans/missing_sound_bullets.txt
-	echo "-------------------" >> miamitrans/missing_sound_bullets.txt
 
-	echo '\\a \\t \\\ select utterance_id, surface from '$utt' where durbegin=0 and durend=0 and speaker='\'MAR\'' order by utterance_id;' | psql -h localhost -U kevin -d autoglosser -q >> miamitrans/missing_sound_bullets.txt
-
-	echo "\n"  >> miamitrans/missing_sound_bullets.txt
-
-
+# 	# -------------------------------------------------
+# 	# Combine the data from the mixedmodel tables into one table
+# 	# -------------------------------------------------
+# 
+# 	# Run php cognates/create_mixedmodel_jumbo.php first to create the table.
+# 
+# 	mixedmodel=${fixedfile}_mixedmodel
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into mixedmodel_jumbo select * from $mixedmodel order by mm_id;"
 
 
 

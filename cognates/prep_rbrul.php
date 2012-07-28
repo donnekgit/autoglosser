@@ -29,7 +29,7 @@ include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
 $output_path="caroline/outputs";
-$jumbo_file="jumbo_patagonia_check.csv";
+$jumbo_file="jumbo_miami.csv";
 $jumbo_path="caroline";
 
 // Generate default names from the filepath given
@@ -62,7 +62,6 @@ include("cognates/write_rei.php");  // Can write _spk.txt.
 include("cognates/analyse_clauses.php");  // Writes _clauses.csv.
 //include("cognates/analyse_cognates.php");  // Use if you want to notate codeswitches.
 
-exec("rm $jumbo_path/$jumbo_file");  // Remove the existing jumbo file.
 exec("cat $output_path/{$filename}_clauses.csv >> $jumbo_path/$jumbo_file");  // Add all the clauses to one big file.
 
 ?>

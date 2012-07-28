@@ -135,7 +135,7 @@ foreach ($lines as $line)
 			$durbegin=0;
 			$duration=0;
 		}
-
+		
 		//if (empty($sourcefile)){$sourcefile=$filename;}
 		
         $speaker=trim(pg_escape_string($speaker));

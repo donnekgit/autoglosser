@@ -25,10 +25,14 @@
 
 # This script runs prepare_file.php on all the files in a directory, straightening out the lines and extracting the headers
 
-#FILES=inputs/miami/beta/maria*.cha
-FILES=/home/kevin/sdb7/maria_mp3_to_be_silenced/maria40.mp3
+FILES=inputs/miami/beta/*.cha
+#FILES=bw_check/bw_miami_chat_files_no_auto/*.cha
 #FILES=inputs/patagonia/BW/*.cha  # for CHECK and Chatter
-#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
+#FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha"
+
+# Clear logfiles as desired.
+#rm miamitrans/allcheck.txt
+#rm patagoniatrans/allcheck.txt
 
 for f in $FILES
 do
@@ -53,7 +57,7 @@ do
 	# Add codeswitch info to _cognates tables
 	#php cognates/analyse_cognates.php $f
 	
-	# Replace xxx n %eng tiers with [...].
+	# Replace xxx in %eng tiers with [...].
 	#sed -ri "/%eng/s/xxx/[...]/g" $f
 	#sed -ri "/%eng/s/ \.\.\. / [...] /g" $f
 	# Change Microsoft "lookalike" characters for real ones.
@@ -62,19 +66,33 @@ do
 	# Get instances of [...]'s directly from the files (not the tables).
 	#ack-grep '%eng' $f /dev/null | ack-grep '\[\.\.\.\][^ |!|\?|$]' >> xxx_grep.txt
 	
+	# Remove %aut line entirely
+	#sed -i '/%xaut/ d' $f
+	
+	# Run a diff on two sets of files and save the results
+# 	filename=$(basename $f)
+# 	#fixedfile=${filename%.cha}
+# 	echo "Processing $f ..." >> patagoniatrans/brian_errors.txt
+# 	echo "\n"  >> patagoniatrans/brian_errors.txt
+# 	diff $f bw_check/our_patagonia_chat_files_no_auto/$filename >> patagoniatrans/brian_errors.txt
+# 	echo "\n\n"  >> patagoniatrans/brian_errors.txt
+
 	# Change %aut to %xaut to avoid CHECK/Chatter marking every character as non-viable.
 	#sed -ri "s/%aut/%xaut/g" $f
 	
 	# Run CHECK on the corpus
-	#clan/unix/bin/check $f >> miamitrans/allcheck.txt
+	#clan/unix/bin/check $f >> patagoniatrans/allcheck.txt
 	
 	# Change %xaut back to %aut after Chatter checks.
 	#sed -ri "s/%xaut/%aut/g" $f
 	
+	# Convert old-style <abcdefg> ["] notation to "abcdefg".
+	#utils/bw_convert-quotations.pl $f
+	
 	# Silence www utterances
 	#php anonymise_audio.php $f
 	#php anonymise_audio_wav.php $f
-	php anonymise_audio_nowww.php $f
+	#php anonymise_audio_nowww.php $f
 
 	# Cypriot: get rid of the (7 .0) markers.
 	#sed -i 's/([0-9] \.[0-9] )//g' $f
@@ -86,19 +104,4 @@ do
 	#php cognates/cyp_clauses.php $f
 
 done
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

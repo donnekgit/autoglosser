@@ -28,7 +28,7 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus="patagonia";
+$corpus="siarad";
 $target="inputs/$corpus/beta";
 
 $speaker="";
@@ -67,8 +67,8 @@ foreach ($files as $file)
 
 				echo $speaker.",".$age.",".$sex."\n";
 
-				//$sql="insert into {$corpus}_sp (filename, speaker, sex, age) values ('$filename', '$speaker', '$sex', $age)";
-				//$result=pg_query($db_handle,$sql) or die("Can't insert the items");
+				$sql="insert into {$corpus}_sp (filename, speaker, sex, age) values ('$filename', '$speaker', '$sex', $age)";
+				$result=pg_query($db_handle,$sql) or die("Can't insert the items");
 			}
 		unset($speaker, $age, $sex);
 		}

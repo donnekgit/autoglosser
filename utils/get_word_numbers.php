@@ -28,14 +28,14 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus="patagonia";
+$corpus="miami";
 $target="inputs/$corpus/beta";
 
 $fp = fopen("{$corpus}trans/{$corpus}_word_numbers.txt", "a") or die("Can't create the file");
 
-$mflg="cym";
+$mflg="eng";
 $lflg="spa";
-$ind="cym&spa";
+$ind="eng&spa";
 
 $mflg_total=0;
 $lflg_total=0;

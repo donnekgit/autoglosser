@@ -80,6 +80,7 @@ include("cognates/insert_triggers.php");
 echo "\nRunning write_rei now ...\n";
 include("cognates/write_rei.php");  // Can write _spk.txt.
 
+
 // Write a NEW cognates table rearranging the words table by speech-turn and clause.
 echo "\nRunning write_cognates now ...\n";
 include("cognates/write_cognates.php");  // Can write _spkturn.txt.

@@ -735,7 +735,6 @@ select ([cy] adj.poss :his:) if (0C ([cy] adj.poss m) or ([cy] adj.poss f));  # 
 
 
 
-
 ##### Rules for indeterminate Welsh/English #####
 
 
@@ -759,6 +758,7 @@ substitute (sv infin) (n sg) ([in] sv infin) if (1 ([cy] v infin));  # stuff dar
 select ([in] n sm) if (-1 ([cy] "ar" prep));  # ar drain
 
 remove ([in] v infin sm) if (-1 ("yn" prt));  # yn freak_o<break
+
 
 
 
@@ -1000,6 +1000,7 @@ remove ("clean" [en] adj :clean: asv);  # clean-ing
 
 
 
+
 ##### Rules for Spanish #####
 
 ### To Do ###
@@ -1022,6 +1023,7 @@ remove ("vestir"); # pero viste las cositas
 remove ("asir");  # ~así
 remove ("pasa" n);  # raisin ~pasa
 remove ("<para>" v);  # stall ~para
+remove ("<nada>" v);  # swim ~nada
 
 # 3 - remove less likely words
 remove ("centro" [es] :focus:); 

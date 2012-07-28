@@ -30,7 +30,16 @@ update zeledon7_cgwords set langid='eng&spa' where surface~'^[A-Z]'
 
 Note that the above may tag words such as do, a, come, me, etc in the wrong language, so it may be preferable to add a clause to the query to omit them.  Also, it will tag Spanish verbs with clitic pronouns as English because they are not in the Spanish dictionary.
 
-Remember to change the primary language in convert_primary_lg.php to the relevant language you need.
+First, import to take account of any corrections:
+php import_only.php inputs/miami/beta/herring14.cha 
+Make a backup of the original file for comparison purposes.  Then write out the existing precode version of the file in the database to one with each word tagged for language:
+php utils/tag_all_words.php herring14
+Then adjust the header of the original file manually.  Next, import that file into the database: 
+php import_only.php convert/herring14_alltags.cha 
+Then write out that import into a precode version with the new predominant language: 
+php utils/convert_primary_lg.php herring14
+IMPORTANT: Remember to change the primary language in convert_primary_lg.php to the relevant language you need.
+Compare the backup file and the converted file (herring14_primspa.cha) in Meld to check for any mistakes.  Finally, and copy the converted file over the original one in the beta folder, and git commit the change.
 
 
 Generation
@@ -77,7 +86,15 @@ Calls create_prepub.php to generate the empty table.
 apply_prepub.php injects the fixes into the cgwords auto field.
 
 
+Patching lots of files
+=============
 
+If you have updates to many files which you know you will not be examining in depth, ie you will be accepting them all, put the revised files into a separate folder (eg js_beta), and adjust their names so that they have the same names as your current files (in beta).  Make a backup of your beta files first, just in case.  Then run:
+diff -c inputs/patagonia/beta/ inputs/patagonia/js_beta/ > patagonia.patch
+This will create a patch file listing the changes needing to be applied in each beta file to make it the same as the ones in js_beta.  Then run:
+patch -p0 -i patagonia.patch
+to apply the patch to the beta files.  By default patch strips away any directories in front of the filename - p0 tells patch not to do this (if p0 isn't there, you'll get lots of messages saying that the hunks failed, because patch is trying to apply the patches to file inthe current dir, which don't exist there).  You can reverse the patch by running:
+patch -p0 -R -i patagonia.patch
 
 
 or-squashing
@@ -598,6 +615,9 @@ dev.off()
 
 Conversion to new CHAT default with precodes (from @0, @1, @2, @3 format)
 =================================================
+
+THIS IS NOW DEPRECATED - see new system above.
+
 Run php utils/generate_lgprofile.php filename to find all utterances that need a precode.  Output: filename_lgprofile db table.
 Run php utils/convert_to_precode.php  filename to inject the precode and switch the tags.  Output: filename_b.cha text file in outputs/filename dir.
 Add header and footer.
@@ -890,7 +910,6 @@ Delete empty %aut tiers:
 sed -ri "/%aut:\t$/ d" inputs/patagonia/autoglossed/patagonia3.cha
 
 
-
 Get list of pseudonyms in each file_cgutterances
 ===============================
 
@@ -913,12 +932,32 @@ had been left uncommented in lookups/es_lookup.php
 Chatter
 =====
 This will not pass things that CHECK does pass:
-- anything related to the word ( [?], [//], etc ) cannot have (.) etc between it and the word (if so, you get "no viable alternative at input '[/]'")
-- a ? in the @ID line is not allowed
-- everyone in the @Participants line has to have a corresponding @ID entry
+(1) Anything related to the word ( [?], [//], etc ) cannot have (.) etc between it and the word (if so, you get "no viable alternative at input '[/]'").  This also applies to other things in square brackets like (.) [=! reads].
+(2) A ? in the @ID line is not allowed.  Error: skipping nonviable character '?' in state 38
+(3) Everyone in the @Participants line has to have a corresponding @ID entry
+(4) A date such as 00-JAN-2008 is not accepted - the day of the month has to have a value, eg 01-JAN-2008.
+(5) A langid tag like @s:eng&spa+eng is unacceptable.
+
+@ID: language|corpus|code|age|sex|group|SES|role|education|
+@ID:	spa, eng|Miami|JAS|19;|female|(group)|(SES)|Adult|(education)|
+
 There sometimes seems to be a problem with the @End marker, which can be fixed simply by Backdelete and then Return.
 
+Doesn't output the results in any order, so it's difficult to find the output for a particular file.
+
 User tiers (eg %aut) will have every character flagged as non-viable.  To avoid this, you need to recode %aut as %xaut, run Chatter, and then change %xaut back to %aut.
+
+Worth doing a grep for things like "&= laugh" - with a space typo.  Error: skipping nonviable character '=' in state 54.  
+STRING='[[:blank:]]&='
+Remember to escape & on the RHS in sed when writing the replacement, or you'll get "&= =laugh" instead of "&=laugh":
+sed -ri '/\*[A-Z].*/s/([[:blank:]])&= /\1\&=/g' myfile.cha
+
+Grep also for (1) above: STRING='\.\) \['  
+Probably easiest to fix these manually.
+
+Two tabs line-initially:
+sed -ri "s/:\o011\o011/:\o011/g" myfile.cha
+
 
 
 Autogloss correction

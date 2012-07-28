@@ -32,7 +32,7 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
-//$words=$words."_nuked";
+// Uncomment for testing of portions of the pipeline.
 //$cognates=$filename."_diana";
 
 //$fp=fopen("cognates/diana/".$filename."_cog.txt", "w") or die("Can't create the file");
@@ -88,7 +88,7 @@ while ($row1=pg_fetch_object($sql1))
 		{
 			$prev_p_lg=$row5->p_lg;  // Language of the last non-T in the previous clause.
 			$prevnew=$row5->newturn;
-			$prev_nt_lg=unserialize($row4->nt_lg_ser);  // The count of the different non-T languages in the previous clause.
+			$prev_nt_lg=unserialize($row5->nt_lg_ser);  // The count of the different non-T languages in the previous clause.
 		}
 	}
 
@@ -110,7 +110,7 @@ while ($row1=pg_fetch_object($sql1))
 		$external=(empty($t)) ? "NSNT" : "NST";
 	}
 		
-	$external=($tally[$spkturn]<2) ? "---" : $external;  // Remove the external type marker when there is only one clause in the speaker turn.
+	$external=($tally[$spkturn]<2) ? "---" : $external;  // Remove the external type marker when there is only one clause in the speaker turn.  // CHECK - Next line will cover this anyway?
 	$external=($nextnew=='new') ? "---" : $external;  // Remove the external type marker on the last clause in the speaker turn.
 	$external=(empty($nt_lg) or empty($next_nt_lg)) ? "---" : $external;  // Remove the external type marker when there are only Ts in this clause or the next.
 
@@ -122,7 +122,7 @@ while ($row1=pg_fetch_object($sql1))
 	// get the language of the first non-T in this clause (call it f_lg)
 		// if f_lg != p_lg, then S, else NS
 		// if this clause contains T, then T, else NT
-	/*  FIXME - no longer giving a proper analysis.
+
 	if ($prev_p_lg!=$f_lg)  // If there is an externalb codeswitch (a switch in language between this clause and the previous) ...
 	{
 		$externalb=(empty($t)) ? "SNT" : "ST";
@@ -132,10 +132,9 @@ while ($row1=pg_fetch_object($sql1))
 		$externalb=(empty($t)) ? "NSNT" : "NST";
 	}
 	
-	$externalb=($tally[$spkturn]<2) ? "---" : $externalb;  // Remove the externalb type marker when there is only one clause in the speaker turn.
+	$externalb=($tally[$spkturn]<2) ? "---" : $externalb;  // Remove the externalb type marker when there is only one clause in the speaker turn.  // CHECK - Next line will cover this anyway?
 	$externalb=($new=='new') ? "---" : $externalb;  // Remove the externalb type marker on the first clause in the speaker turn.
 	$externalb=(empty($nt_lg) or empty($prev_nt_lg)) ? "---" : $externalb;  // Remove the externalb type marker when there are only Ts in this clause or the previous.
-	*/
 
 	// ****************************
 	// Internal count (intraclausal) - is there a codeswitch anywhere within the clause?
@@ -170,15 +169,15 @@ while ($row1=pg_fetch_object($sql1))
 	}
 
 	//fwrite($fp, $spkturn.", ".$clspk."\t".$utt.", ".$minloc."-".$maxloc."\t".$speaker."\t".$surface."\t".$external."\t".$externalb."\t".$internal."\n");  // Write out the clauses.
-	//echo $speaker.": ".$surface." - ".$external." // ".$externalb." // ".$internal."\n";
+	echo $speaker.": ".$surface." - ".$external." // ".$externalb." // ".$internal."\n";
 	
 	// No need to include the $externalb entries - they just confuse people.
 	//fwrite($fp, $spkturn.", ".$clspk."\t".$utt.", ".$minloc."-".$maxloc."\t".$speaker."\t".$surface."\t".$external."\t".$internal."\n");  // Write out the clauses.
-	echo $speaker.": ".$surface." - ".$external." // ".$internal."\n";
+	//echo $speaker.": ".$surface." - ".$external." // ".$internal."\n";
 	
 	$write1=query("update $cognates set external='$external', externalb='$externalb', internal='$internal' where spkturn=$spkturn and clspk=$clspk");
 	
-	unset($verb, $verblg);
+	unset($verb);
 }
 
 //fclose($fp);

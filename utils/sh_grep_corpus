@@ -35,7 +35,7 @@
 # 7 displays matches in inverse video
 # 1;37;41 shows white text on a red background
 
-FILES=inputs/siarad/beta/*.cha
+FILES=inputs/patagonia/quotes/patagonia35.cha
 #FILES=devstuff/webster/*
 
 # set up the regex for grep to use
@@ -62,10 +62,32 @@ FILES=inputs/siarad/beta/*.cha
 #STRING='@ID.*\|\|$'
 #STRING='[[:blank:]]uh[[:blank:]]'
 #STRING='[[:blank:]]w[[:blank:]]'
-#STRING='[^x]xx '
-STRING='very@s:cym&eng'
+#STRING='[^w]ww '
+#STRING='www [^\.]'
 #STRING='\*[A-Z]{3}:\t.*hotel'
 #STRING='\.SM'
+#STRING='spa(\.|\?|!)'
+#STRING='[[:blank:]]&= '
+#STRING='%eng:	"'
+#STRING='\.\) \['
+#STRING='\*[A-Z]{3}:\t.*[a-z](\?|!)'
+#STRING='\*[A-Z]{3}:\t.*[a-z](\.)'
+#STRING='\*[A-Z]{3}:\t.*  '
+#STRING='@Transcriber.*Original'
+#STRING='@Media.*[A-Z]'
+#STRING='%eng:\t"'
+#STRING='<.*> \["\]'
+STRING='\*[A-Z]{3}:\t.*"'
+
+# English files in tiers with a Spanish precode
+#STRING='\*[A-Z]{3}:\t.*\[- spa\].*[[:blank:]]mmhm@s:eng&spa'
+
+# Spanish files in tiers with an English precode
+#STRING='\*[A-Z]{3}:\t.*\[- eng\].*[[:blank:]]mmhm@s:eng&spa'
+
+# Files in tiers without precodes
+#STRING='\*[A-Z]{3}:\t.*[[:blank:]]okay'
+
 
 for f in $FILES
 do

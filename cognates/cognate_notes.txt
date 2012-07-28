@@ -7,7 +7,6 @@ create table cogloctest as select utterance_id from (select utterance_id, count(
 
 create table stammers4_cogloctest as select * from stammers4_cogloc where utterance_id in (select utterance_id from cogloctest) order by utterance_id, location
 
-
 Run gather_cognate_locations to pick out all the cognates in a file and put them in a cogloc table.
 Run segment_at_cognate to split the utterances into segments at each cognate, based on the entries in the cogloc table.
 
@@ -96,7 +95,6 @@ Also remove any clauses assigned to the researcher:
 sed -i '/^"RES/ d' caroline/jumbo.csv 
 
 
-
 Getting codeswitch numbers from the cognate_results table
 ======================================
 
@@ -125,8 +123,6 @@ Does it make sense not to count code-switches between speaker-turns?
 Reinsert reinforcers.
 
 Split at infinitives too.
-
-
 
 
 Trigger determination

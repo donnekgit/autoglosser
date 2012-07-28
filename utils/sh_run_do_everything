@@ -25,14 +25,14 @@
 
 # This script runs import_and_convert on all the files specified in the FILES line
 
-#FILES=inputs/CIG1/beta/*.cha
-FILES=inputs/miami/beta/maria1.cha
-REPO=inputs/miami/autoglossed
+corpus=patagonia
+FILES=inputs/$corpus/beta/*.cha
+REPO=inputs/$corpus/autoglossed
 
 for f in $FILES
 do
 	echo "Processing $f ..."
-	php do_everything.php $f
+	#php do_everything.php $f
 	#php write_cgautogloss.php $f
 	filename=$(basename $f)
 	fixedfile=${filename%.cha}

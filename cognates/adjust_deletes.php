@@ -94,6 +94,21 @@ while ($row0=pg_fetch_object($result0))
 		}
 	
 	}
+	
+	$sql2="select * from $words where utterance_id=$utt and location=$after";  // Get the word before the clause-marked word.
+	$result2=pg_query($db_handle,$sql2) or die("Can't get the items");
+	while ($row2=pg_fetch_object($result2))
+	{
+		$foll_s=$row2->surface; // Following surface.
+		$foll_a=$row2->auto; // Following auto.
+
+		if (preg_match("/^(do|don\'t|doesn't|will|won\'t|would|wouldn\'t|could|couldn\'t)$/", $this_s) && preg_match("/PRON.SUB/", $foll_a))
+		{
+			$d5_da=query("update $words set clause=clause || '+d5' where utterance_id=$utt and location=$this_loc");
+			echo "Deleting $utt,$this_loc\n";
+		}
+	}
+
 
 	//$prev_utt=$utt;  
 	//$prev_c=$this_loc;

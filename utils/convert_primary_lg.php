@@ -44,10 +44,10 @@ if (empty($filename))
 
 $alltags=$filename."_alltags";
 
-$mainlg="eng";  // The language you want to designate as the primary one in the converted marking.
+$mainlg="spa";  // The language you want to designate as the primary one in the converted marking.
 
 // Note that this output file gets moved - adjust the target location at the bottom of this script.
-$fp = fopen("convert/{$filename}_primeng.cha", "w") or die("Can't create the file"); 
+$fp = fopen("convert/{$filename}_primspa.cha", "w") or die("Can't create the file"); 
 
 // Write out the file header.
 $lines=file("outputs/$filename/$filename.header", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);

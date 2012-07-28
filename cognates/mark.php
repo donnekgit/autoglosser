@@ -51,11 +51,11 @@ $sql_mark=query("update $words set clause='c' where langid='spa' and auto~'\\\.V
 // Put a clause-marker against verb entries in English provided they are not infinitives or participles.
 $sql_mark=query("update $words set clause='c' where langid='eng' and auto~'\\\.V\\\.(?!(INFIN|PRESPART|PASTPART))'");
 
-// Put a clause-marker against subject pronouns in English.
-//$sql_mark=query("update $words set clause='c' where langid='eng' and auto~'PRON.SUB'");
-
 // Put a clause-marker against auxiliary elisions in English.
 $sql_mark=query("update $words set clause='c' where langid='eng' and surface~'^(aren\'t|doesn\'t|don\'t|s?he\'d|s?he\'s|I\'d|I\'m|I\'ve|isn\'t|that\'s|they\'d|they\'re|they\'ve|we\'d|we\'re|we\'ve|won\'t|would\'ve|wouldn\'t|you\'d|you\'re|you\'ve)$'");
+
+// Put a clause-marker against subject pronouns in English.
+//$sql_mark=query("update $words set clause='c' where langid='eng' and auto~'PRON.SUB'");
 
 // Put a clause-marker against verb entries in Welsh provided they are not infinitives.
 $sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V\\\.(?!INFIN)'");

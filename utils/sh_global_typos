@@ -24,8 +24,10 @@
 #*/ 
 
 # This script uses perl to fix all instances of a particular string in all the files in the corpus.  Sed is also a (slightly faster) option, but the drawback is that it's regex implementation is not the standard PCRE one.
-FILES=inputs/patagonia/beta/*.cha
+FILES=inputs/miami/beta/*.cha
 #FILES=inputs/miami/beta/herring6_tab.cha
+
+# REMEMBER TO ESCAPE & ON THE REPLACEMENT SIDE!!!
 
 for f in $FILES
 do
@@ -41,12 +43,14 @@ do
 	#sed -i "/\*[A-Z]/s/\([[:blank:]]\)mmhm@s:cym\&spa /\1mmhm /g" $f
 	#sed -i "/\*[A-Z]/s/o hyd/o_hyd/g" $f
 	#sed -i "/\*[A-Z]/s/#/(.)/g" $f
+	
 	#Tidying Miami begins
 	#sed -i "s/%en:/%eng:/g" $f
 	#sed -i "s/%eng:[[:blank:]]*/%eng:\o011/g" $f
 	#sed -i 'N;s/\(@Comment.*\n\)%eng:\o011vvv/\1/;P;D;' $f
 	#sed -i '/^$/ d' $f
 	#Tidying Miami ends
+	
 	#sed -i 's/\[!= *\(.*\)\]/[=! \1]/g' $f
 	#sed -i 's/\[\[:blank:\]\]office@s:eng/ office@s:eng/g' $f
 	#sed -i 's/\([A-Z]\)\[or\]\([a-z]\)/\1 [or] \2/g' $f
@@ -55,8 +59,45 @@ do
 	#sed -i 's/\((\.*)\)\( *\)\(\[\/*\]\)/\3 \1/g' $f
 	#sed -ri 's/(@ID.*\|\|)$/\1|/g' $f
 	#sed -ri 's/aw@s:cym&spa/oh@s:cym\&spa/g' $f
-	sed -ri '/\*[A-Z]/s/beth bynnag/beth_bynnag/g' $f
 	#sed -ri '/%aut/s/thing\.N\.M\.SG\+SM -ever\.ADJ/anyway.ADV/g' $f
+	
+	####
+	# run the following in sequence
+	# run gather_by_language to move Spanish files into a spa sub-folder
+	
+	# change in English files in tiers with a Spanish precode
+	#sed -ri '/\*[A-Z].*\[- spa\]/s/([[:blank:]])um@s:eng&spa/\1um@s:eng/g' $f
+	
+	# change in English files in tiers without a Spanish precode
+	#sed -ri '/\*[A-Z].*/s/([[:blank:]])mmhm@s:eng&spa/\1mmhm/g' $f
+	
+	# change the FILES reference to refer to the spa sub-folder
+	# change in Spanish files in tiers with an English precode
+	#sed -ri '/\*[A-Z].*\[- eng\]/s/([[:blank:]])um@s:eng&spa/\1um@s:eng/g' $f
+	
+	# change in Spanish files in tiers without an English precode
+	#sed -ri '/\*[A-Z].*/s/([[:blank:]])mmhm@s:eng&spa/\1mmhm@s:eng/g' $f
+	####
+	
+	#sed -ri '/\*[A-Z].*/s/([[:blank:]])&= /\1\&=/g' $f
+
+	#sed -ri "s/:\o011\o011/:\o011/g" $f
+	#sed -ri "s/  / /g" $f
+	#sed -ri "s/([[:blank:]])ww([[:blank:]])/\1www\2/g" $f
+
+	#sed -ri '/@Transcriber/s/Original translation/Initial translation/g' $f
+	#sed -ri '/@Media/s/0([0-9])/\1/g' $f
+	#sed -ri '/@Media/s/Patagonia/patagonia/g' $f
+	#sed -ri '/\*[A-Z]/s/([a-z])(\?|!)/\1 \2/g' $f
+	
+	# Open quote
+	#sed -ri '/%eng/s/"//' $f
+	# Close quote
+	#sed -ri '/%eng/s/"//' $f
+	
+	# New-style quotes in the speaker tier
+	sed -ri '/\*[A-Z].*/s/([[:blank:]])"([[A-Za-z].[^"]*[a-z])"([[:blank:]])/\1“\2”\3/' $f
+	
 done
 
 #  In theory, perl is easier to use than sed, but the invocation above doesn't seem to work sometimes.

@@ -56,7 +56,7 @@ while ($row1=pg_fetch_object($sql1))
 
 // Mark all the IMs.
 $add_nuke=query("alter table $words add column nuke character varying(10) default ''");
-$sql_im=query("update $words set nuke='yes' where surface in (select surface from im_nuke);"); 
+$sql_im=query("update $words set nuke='yes' where surface in (select surface from di_im);"); 
 
 // Add a working field,
 $add_0=query("alter table $words add column p0 integer");

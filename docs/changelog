@@ -1,6 +1,11 @@
 Changelog
 =======
 
+17/07/2012
+Allow analysis of clauses on all three corpora.
+Package files for Talkbank.
+Improve mixed model data generation.
+
 25/06/2012
 Improve mixed model data generation.
 Delete classes of words from the word tables.
