@@ -1,0 +1,396 @@
+This is a copy of the file cognate_notes in cognates, copied here because it contains info on clause-splitting, and I can never find it when I need it!
+================
+
+Cognate work
+===========
+
+Get utterances containing more than 3 cognates, for testing purposes
+---------------------------------------------------------------------------------------------------------------
+create table cogloctest as select utterance_id from (select utterance_id, count(utterance_id) from stammers4_cogloc group by utterance_id order by utterance_id) as mine where count>3 order by count
+
+create table stammers4_cogloctest as select * from stammers4_cogloc where utterance_id in (select utterance_id from cogloctest) order by utterance_id, location
+
+Run gather_cognate_locations to pick out all the cognates in a file and put them in a cogloc table.
+Run segment_at_cognate to split the utterances into segments at each cognate, based on the entries in the cogloc table.
+
+
+November 2011, July 2012, December 2012 (Cognate analysis)
+================================================
+Place relevant chat files (the 52 with 2 speakers only) in inputs/siarad/diana.
+
+sh_run_prep_mixedmodel, which runs prep_mixedmodel.php against that dir.
+
+A: Set up the tables.  We don't work directly on the filename_cgwords tables - instead, we copy those into a NEW filename_nuked table (dropping any existing filename_nuked table first).  Drop added clause analysis fields (because they may contain data from clause analysis instead of cognate analysis), and then add them back - two here, and the rest in the called extend_cgwords.php.
+
+B: nuke_ims.php: Remove IMs, and reorder the location numbers to allow for that.
+
+C: Split utterances into clauses:
+The first stage is to split the clauses.  (Formerly with make_clauses.php, but now prep_mixedmodel.php runs the 4 scripts.)
+(1) mark.php - puts a marker at the clause division - select the relevant line to choose either finite verbs only (for MLF analysis) or all verbs including infinitives (for cognate analysis)
+(2) adjust_deletes.php - deletes the clause marker where necessary - uncomment the INFIN section for MLF analysis, where only finite verbs are required
+(3) adjust_moves.php - moves the clause marker where required
+(4) segment.php - segment the utterances into clauses - select the relevant line if you want to choose finite verbs only (for MLF analysis). (Can output filename_split.txt as printout - currently commented out.)
+
+D: Bracket the reinforcers, so that they are not counted when we count speech-turns.
+reinforcers.php - marks the clauses to be ignored
+Uncomment the relevant list (for cognates or clause analysis) at the top of the script.
+
+E: Inject the cognates:
+insert_triggers.php - mark the words in the file as cognates (triggers), based on the various cognate lists.
+Each list adds a different tag.
+
+F: Mark speech-turns and clauses in each speech turn, producing a speaker turn counter.
+write_rei.php - mark the speech-turns, leaving out clauses that consist only of reinforcers.  (Outputs filename_spk.txt as printout.)
+
+[
+	Deprecated items for earlier versions:
+	(deprecated) adjust_t.php - previously used (based on adjust_deletes.php) to deal with things like fan and pan, which were being marked as derived from English even though they are Welsh; now handled by additional clauses in the SQL queries in insert_cognates.php
+	(deprecated) Apply the clause algorithm to count the switches for each trigger:
+	(deprecated) generate_clause_data.php - produces a TeX file with a running total
+]
+
+G: Create a NEW table (filename_diana), sequence the individual words into clauses, arrange these by speech-turn (spkturn) and clause (clspk) in that speechturn.  Note that it is at this stage that we move back from vertical (words) to horizontal (clauses/utterances). 
+write_cognates.php - call create_cognates.php, and then write the clauses into it.  Add generated data: 
+	surround triggers with asterisks
+	location in the original utterance of the first (minloc) and last (maxloc) words in the clause
+	sequence giving the language of each word in the clause (langid)
+	summary sequence giving the language of each word in the clause (slotlg)
+	verb gloss (verb)
+	language of the verb (verblg)
+	serialised array of all non-triggers (count of words with each langid) in the clause (nt_lg)
+	serialised array of all triggers (count, location in original utterance, type) in the clause (t)
+	language of first non-trigger in the clause (f_lg)
+	language of last non-trigger in the clause (p_lg)
+	"new" to mark which clauses are new speech turns (strictly speaking, not necessary, since any clspk where the number is 1 signifies this)
+ (Outputs filename_spkturn.txt as printout.)
+ 
+H: Analyse the codeswitches in the clauses.
+analyse_cognates.php - write the external and internal codeswitch data (ST, SNT, NST, NSNT) to the table using the following algorithms:
+	external (interclausal) looking forwards to the next clause:
+		// get the language of the last non-T in this clause (call it p_lg)
+		// get the language of the first non-T in the next clause (call it f_lg)
+			// if f_lg != p_lg, then S[witch], else N[o]S[witch]
+			// if this clause contains T, then T[rigger], else N[o]T[rigger]
+	externalb (interclausal) looking backwards to the previous clause:
+		// get the language of the last non-T in the previous clause (call it p_lg)
+		// get the language of the first non-T in this clause (call it f_lg)
+			// if f_lg != p_lg, then S[witch], else N[o]S[witch]
+			// if this clause contains T, then T[rigger], else N[o]T[rigger]
+	internal (intraclausal):
+		// if there is more than one language in this clause, then S[witch], else N[o]S[witch]
+			// if this clause contains T, then T[rigger], else N[o]T[rigger]
+(Can output filename_cog.txt as printout - currently commented out.)
+
+Snippet to get clause length and each length's frequency if desired:
+select (maxloc-minloc)+1 as clause_length, count((maxloc-minloc)+1) as frequency from stammers4_cognates where speaker='ELE' group by clause_length order by clause_length 
+
+I: Create a NEW table (filename_mixedmodel) arranging the codeswitch and trigger data in a form suitable for mixed model analysis.
+mixedmodel.php - create_mixedmodel.php, and then add generated data:
+	count of clauses in each speech turn (tally)
+	length of each clause (number of words) (cl_len)
+	whether the clause contains a trigger (contains_t)
+	count of triggers in the clause (count_t)
+	external codeswitch, looking backwards to previous clause, ie using externalb (ext_cs)
+	external codeswitch as above, but allowing ext_cs to take place between speechturns (ext_cs_bs)
+	internal codeswitch, using internal (int_cs)
+	language used in the clause, ignoring triggers (cl_lg)
+	presence of internal or external codeswitch (cswitch)
+	location of the trigger in the sequence of triggers in the clause (t_no)
+	location of the trigger in the clause (t_loc)
+	the trigger (trigword)
+	length of the trigger (t_len)
+	trigger type (t_v)
+Then add figures for the words, triggers, codeswitches and clauses relating to each speaker and the file as a whole (see the end of the key document).
+
+J: Combine the data from the mixedmodel tables into one table
+cognates/create_mixedmodel_jumbo.php to create the table, and then uncomment the relevant lines of utils/pg_stuff: 
+# 	mixedmodel=${fixedfile}_mixedmodel
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into mixedmodel_jumbo select * from $mixedmodel order by mm_id;"
+
+H: (deprecated?)
+results_table.php - read the trigger/codeswitch data from each table and add them to a cognate_results table.  This can then be fed into R.
+
+
+Linear model (regression)
+====================
+
+Extract clauses containing only triggers.
+
+Classify the triggers in roberts1_regression.
+
+Combine this with the codeswitch data:
+create table roberts1_lm as select clause_id, spkturn, clspk, newturn, utterance_id, minloc, maxloc, t_ser, f_lg, p_lg, nt_lg_ser, external, externalb, internal, speaker, c.surface, auto, noun, "-io_verb", _io_verb, adjective, adverb, "IM", name from roberts1_cognates c, roberts1_regression r where c.surface=r.surface
+
+Get the data for external CS:
+select * from roberts1_lm where external='ST'
+select * from roberts1_lm where external='NST'
+Note that clauses where no codeswitch can be counted (---) are omitted.
+
+
+May 2012: Clause analysis
+=====================
+
+WARNING!!! If write_cognates is included in the pipeline below (to get codeswitch info), it will overwrite the _cognates tables, and therefore delete any info about codeswitches and triggers.  Codeswitch information with no reference to triggers (ie SNT and NSNT instead of SNT, ST, NSNT, NST) can be restored by running cognates/analyse_cognates.php, but the best long-term solution is probably to set up tables with different names eg (_clauses for this type of analysis).
+
+Regloss.  Problem with @Languages in the header being "cy, en" instead of "cym, eng".  Adjusting the $mflg routine to allow "cy" and "en" imported the langid for Welsh as "cy" instead of "cym" (but "eng" was OK) - use utils/sh_pg_stuff to adjust the tables.  The Siarad headers probably need to be changed to reflect the fact that the new precode format is used.
+
+php cognates/extend_cgwords.php davies9
+php cognates/make_clauses.php davies9 (includes mark.php, adjust_deletes.php, adjust_moves.php, segment.php) - review the _split file (uncomment the line in segment.php to produce this) to check how good/bad the clause segmentation is
+php cognates/reinforcers.php davies9 (edit the reinforcer array)
+php cognates/write_rei.php davies9 - this gives the speaker turns, and also a printout that we don't use here
+php cognates/analyse_clauses.php davies9
+
+The above are now all included in cognates/prep_rbrul.php, so the process can be launched over the corpus by editing and running cognates/sh_run_prep_rbrul.  Note that as well as outputting a file for each conversation, prep_rbrul.php appends each file to a "jumbo" file.  
+
+You need to remove all instances of the headers:
+sed -i '/^"speaker/ d' caroline/jumbo.csv 
+and then put the first instance back in:
+"speaker","utt_no","cl_in_utt","cl_start","cl_end","spkturn_no","cl_in_spkturn","file","surface","autogloss","matrix_lg","linguality","dv","verb_morph","qlang","dob","gender","age","work","brought_up","main_area","education","welsh_since","english_since","welsh_ability","english_ability","mother_spoke","father_spoke","guardian_spoke","primary_lg","secondary_lg","welsh_modern","welsh_useful","welsh_friendly","welsh_inspiring","welsh_beautiful","welsh_influential","english_modern","english_useful","english_friendly","english_inspiring","english_beautiful","english_influential","contact1","contact2","contact3","contact4","contact5","nat_id","i_separate","shdbe_separate"
+
+Also remove any clauses assigned to the researcher:
+sed -i '/^"RES/ d' caroline/jumbo.csv 
+
+Import jumbo.csv (Siarad) into PostgreSQL - 81352 items.
+Remove one-word clauses:
+create table jumbo_clauses_siarad_1word as select * from jumbo_clauses_siarad where surface !~'[A-Za-z]+ [A-Za-z]+'
+delete from jumbo_clauses_siarad where surface !~'[A-Za-z]+ [A-Za-z]+'
+Removes 10917 items, leaving 70435 in jumbo_clauses_siarad.
+
+Use linguality to give the numbers of finite clauses in each language.
+
+Queries to get info about CS:
+select filename, speaker, count(external) from jumbo_margaret_siarad where external~'SN?T' group by filename, speaker order by filename, speaker
+select filename, speaker, count(ext_cs) from jumbo_margaret_siarad_mixedmodel where ext_cs='yes' group by filename, speaker order by filename, speaker
+
+
+Getting codeswitch numbers from the cognate_results table
+======================================
+
+select filename, ext_na, ext_st+ext_snt as ext_switch, ext_nst+ext_nsnt as ext_noswitch, int_na, int_st+int_snt as int_switch, int_nst+int_nsnt as int_noswitch from cognate_results
+
+
+Caroline and Margaret paper, Feb 2013
+==============================
+
+utils/sh_pg_stuff to combine all the _diana file data into jumbo_margaret_siarad - 80,692 items.
+
+Backport the external CS algorithm into the diana tables by using add_cs_diana.php.
+
+Get a list of CS per speaker: cognates/get_codeswitches.php.
+
+Crate a new slotlg not containing T(rigger): cognates/write_new_slotlg.php.
+
+Get a list of deleted IMs by using:
+select surface, count(surface) from stammers4_cgwords where surface not in (select surface from stammers4_cgwords_nuked order by utterance_id, location) group by surface order by surface;
+This could be put into a script to collect all of them.
+
+Get count of all words marked "ignore": cognates/get_rei.php.
+You can see all the words marked "ignore" in a particular file by running:
+select surface, count(rei) from stammers4_cgwords where rei='ignore' and langid!='999' group by surface order by surface;
+This could be put into a script to collect all of them.
+
+Get an easy-to-read printout of the CS info from a file:
+select clause_id, speaker, surface, verblg, ext_cs from fusser27_diana order by clause_id;
+
+Comparing the clauses material originally sent to Caroline and the material prepared from Diana is problematic.  Most of the (minor) differences seem to be down to changes in the clause-splitting algorithm.
+					clauses			diana   
+total				81352			80692 
+finite			66453			66162
+Some samples are in margaret/clauses-diana comparison.  They are generated by cognates/generate_{clauses|diana}.php.  Compare them in Meld.
+
+Screenshots for paper:
+select location, surface, auto, langid from stammers4_cgwords where utterance_id=174 order by location;
+select spkturn, clspk, surface, verblg as matrix, linguality from stammers4_diana where utterance_id=174 order by clspk;
+
+select substring(filename from '.?$') as file, filename, utterance_id, speaker, (regexp_replace(surface, '\\*', '', 'g')) as speech, verblg, linguality from jumbo_margaret_siarad where maxloc=18 order by file desc limit 300;
+
+
+Gathering -io verbs
+============
+
+create table di_ioverbs as select * from combiwords_siar_uniq where surface~'i?o$' and auto~'\.V\.' and langid~'(cym|cym&eng|cym&spa)$' order by surface
+
+insert into di_ioverbs select * from combiwords_pat_uniq where surface~'i?o$' and auto~'\.V\.' and langid~'(cym|cym&eng|cym&spa)$' order by surface
+
+select surface, auto from di_ioverbs group by surface, auto order by surface, auto
+
+create table di_ioverbs_uniq as select surface, auto from di_ioverbs group by surface, auto order by surface, auto
+
+insert into di_ioverbs_uniq (surface, auto) select surface, auto from combiwords_siar_uniq where surface~'i?an$' and auto~'\.V\.INFIN' and langid~'(cym|cym&eng|cym&spa)$' order by surface
+
+
+Things to look at
+===========
+
+Does it make sense not to count code-switches between speaker-turns?
+
+Reinsert reinforcers.
+
+Split at infinitives too.
+
+
+Trigger determination
+==============
+
+Collect all indeterminates from a file:
+create table stammers4_triggers as select distinct surface from stammers4_cgwords where langid!='cym' and langid!='eng' and langid!='999' order by surface
+
+
+Notes for technical description
+====================
+
+Import and gloss the files using the autoglosser.
+
+Set up lists of words for the onion-rings.  Diana: discuss what was done here.
+
+Split the clauses.  Used a split on finite verbs.  Will examine split on non-finite verbs as well in a second stage.  Discuss pros and cons.  How this was done.  Add a clause-marker to the word table.  Delete inappropriate clause-markers, and move ones that are incorrectly placed.  Rather a blunt knife.
+
+Mark reinforcers, so that they are not counted when we count speech-turns.  Will also count them in a second stage.
+
+Inject the cognates.  Multiple groups can be injected, based on the onion-ring lists.
+
+Count the clause-switches.
+
+
+
+Cypriot
+====
+
+Mark (on a preliminary basis) and segment the file :
+cyp_mark.php - puts a marker at the clause division
+cyp_deletes.php - deletes the clause marker where necessary
+cyp_moves.php - moves the clause marker where required
+cyp_segment.php - segment the utterances into clauses - this gives a _split file
+cyp_clauses.php will run all four of these in succession.
+
+Get someone to edit the for incorrect clause-splitting, using // for a split, and ++ for a join.
+
+add_wordno.php to add a column to the $words table to number all the words (ie not counting the punctuation), and then fill the wordno column with serial numbers.
+
+Correct the edited file manually to give an _import file, and then read it in with import_clauses.php.
+
+Run cyp_segment.php again, and check the output (_split) against the edited (_import) files using Meld.  Note that this process is very dependent on there being no typos in the original chat file.  If there are (eg at @1, with a space between the word and the language tag), they will knock off the marking of the words.  You may therefore have to correct the file, and reimport it (several times if it is untidy!).  It would perhaps be worth running CHECK before import.  Another common sticking-point is omission of a punctuation mark at the end of the utterance, or +.. instead of +... (three dots).
+
+cyp_write.php - writes out the imported file into a new _csdata table.
+cyp_analyse.php - analyses the _csdata table, adds codeswitch instances to it, and writes out a text file with the codeswitch data
+
+
+select speaker, count(external) from ws210021_csdata where external='ext' group by speaker
+select speaker, count(internal) from ws210021_csdata where internal='int' group by speaker
+
+select speaker, sum(external) as external, sum(internal) as internal from cyp_count group by speaker
+
+
+
+Bugs
+===
+
+External forward shows ST or NST in the first line of some files.  This is because the first clause is not being marked "new" in those files.  Why?
+
+A single (trigger?) word at the head of a speech-turn will be marked as external ST.
+
+
+Example of mistagging because of transcription error
+=========================================
+
+fusser8:1391
+*MEN:	neu [?] ga i weld sut wyt ti wneud y Publisher@s:cym&eng de . 1939874_1942521
+%aut:	or.CONJ get.V.1S.PRES+SM I.PRON.1S see.V.INFIN+SM how.INT be.V.2S.PRES you.PRON.2S make.V.INFIN+SM the.DET.DEF name be.IM+SM
+%gls:	or get.1S.NONPAST PRON.1S see.NONFIN how be.2S.PRES PRON.2S do.NONFIN TAG Publisher TAG
+%eng:	or, I'll see how you do the Publisher, right
+
+split as: 
+neu ga i weld // sut wyt ti wneud // y Publisher // 
+(de omitted as one-word item)
+split before "y" is because of the mistag TAG in %gls - mark.php uses %gls as a shorthand way of marking tag questions.
+
+
+Also note error in fusser8 at:
+*BRE:	ydy mae o â deud y +// . 1964511_1966090
+%aut:	be.V.3S.PRES be.V.3S.PRES he.PRON.M.3S go.V.3S.PRES.[or].as.CONJ.[or].with.PREP say.V.INFIN the.DET.DEF
+%gls:	be.3S.PRES be.3S.PRES PRON.3SM with say.NONFIN DET
+%eng:	yes, it is to tell you the...
+"â" should be "a".
+
+
+Clause location and length
+=====================
+
+Get automatic split to copmare with manual split:
+select surface from stammers4_diana order by clause_id limit 300;
+
+a bod ni angen ymarfer deg munud bob dydd
+a ei benderfyniad o neu ateb o erbyn diwedd
+oedd deud
+
+select utterance_id, filename, cl_surface from split_surface order by length (cl_surface);
+
+Select nth row from a recordset (here every 10th row):
+select * from (
+  select row_number() over (order by filename, utterance_id asc) 
+  as rownumber, filename, utterance_id, cl_surface
+  from split_surface
+) as foo
+where rownumber % 10 = 0;
+
+
+select max(clause_length) from clause_length;
+select sum(total) from clause_length where clause_length={1..18};
+
+Comparing words with clauses, it seems that the more clauses the longer the clause.  But not comparing like with like - the first figure is the words in clauses of that ordinality, but the second is the number of utterances (not clauses) of that ordinality.
+1 323724/53095=6.0970713
+2 71995/11597=6.2080711
+3 21686/3627=5.979046
+4 6978/1037=6.729026
+5 2722/374=7.2780749
+6 978/155=6.3096774
+7 411/55=7.4727273
+8 175/17=10.294118
+9 61/5=12.2
+10 36/3=12.0
+11 21/1=21.0
+12 8/2=4
+15 3/1=3.0
+18 1/1=1.0
+
+words in the first clause of an utterance have on average 6.1 words
+words in the seventh clause of an utterance have on average 7.5 words
+only 30 clauses of ordinality>7, so unwise to draw conclusions from them
+
+69970 in total
+53095 = 1 clause
+16875 > 1 clause
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
