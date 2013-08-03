@@ -33,9 +33,10 @@ if (empty($filename))
 }
 
 // Uncomment for testing of portions of the pipeline.
-//$words=$words."_nuked";  // Required for trigword query, and total words queries.
-//$cognates=$filename."_diana";
+// $words=$words."_nuked";  // Required for trigword query, and total words queries.
+// $cognates=$filename."_diana";
 //$mixedmodel=$filename."_mixedmodel";
+// [$mixedmodel=$filename."_mirjam";]
 
 // If uncommenting the above for partial testing, comment out the following line:
 include("create_mixedmodel.php");
@@ -99,8 +100,8 @@ while ($row1=pg_fetch_object($sql1))
 		}
 		
 		// Hack to allow ext_cs to be based on verb language rather than changes between P and F.
-		// This overwrites most of the previous block's output, but that block  is left in so that it can be reverted to if desired.
-		if ($ext_cs!='n/a')  // In cases where ext_cs is "yes" or "no" ...
+		// This overwrites most of the previous block's output (except for (b) and (c) in the key), but that block is left in so that it can be reverted to if desired.
+		if ($ext_cs !='n/a')  // In cases where ext_cs is "yes" or "no" ...
 		{
 			if (!empty($verblg) and $prev_verblg!="")  // ... if there are entries for both verblg and prev_verblg (which is set at the end of the loop) ...
 			{
@@ -138,6 +139,78 @@ while ($row1=pg_fetch_object($sql1))
 			$ext_cs_bs="n/a";  // ... set ext_cs_bs to "n/a", otherwise there would be an invalid comparison between a clause with a verb and one without.
 		}
 		//echo $cl_lg." - ";
+		
+		//////////////////////////////////////////////////
+		// Mirjam - forward external as well
+		//////////////////////////////////////////////////
+		
+		// Use the forward external entry to calculate ext_cs_f.
+		if ($row3->external=="ST" or $row3->external=="SNT")
+		{
+			$ext_cs_f="yes";
+		}
+		elseif ($row3->external=="NST" or $row3->external=="NSNT")
+		{
+			$ext_cs_f="no";
+		}
+		else  // where analyse_cognates gives "---"
+		{
+			$ext_cs_f="n/a";
+		}
+
+		// Get the verblg of the next clause.
+		$sql_m=query("select verblg from $cognates where clause_id=$nextcl");
+		while ($row_m=pg_fetch_object($sql_m))
+		{
+			$next_verblg=$row_m->verblg;
+		}
+		echo $next_verblg."\n";
+		
+
+		// Hack to allow ext_cs_f to be based on verb language rather than changes between P and F.
+		// This overwrites most of the previous block's output (except for (b) and (c) in the key), but that block is left in so that it can be reverted to if desired.
+		if ($ext_cs_f !='n/a')  // In cases where ext_cs_f is "yes" or "no" ...
+		{
+			if (!empty($verblg) and $next_verblg!="")  // ... if there are entries for both verblg and next_verblg ...
+			{
+				if ($verblg==$next_verblg)  // ... and they are the same ...
+				{
+					$ext_cs_f="no";  // ... set ext_cs_f to "no" ...
+				}
+				else  // ... but if they are different ...
+				{
+					$ext_cs_f="yes";  // ... set ext_cs_f to "yes" ...
+				}
+			}
+			else  // and if either verblg or next_verblg has no entry ...
+			{
+				$ext_cs_f="n/a";  // ... set ext_cs_f to "n/a", otherwise there would be an invalid comparison between a clause with a verb and one without.
+			}
+			//echo $cl_lg." - ";
+		}
+		
+		// Another hack to allow ext_cs_f to be based on verb language rather than changes between P and F.
+		// This is slightly different from the previous one - it allows ext_cs_f to take place between speechturns.
+		if (!empty($verblg) and $next_verblg!="")  // ... if there are entries for both verblg and next_verblg
+		{
+			if ($verblg==$next_verblg)  // ... and they are the same ...
+			{
+				$ext_cs_f_bs="no";  // ... set ext_cs_f_bs to "no" ...
+			}
+			else  // ... but if they are different ...
+			{
+				$ext_cs_f_bs="yes";  // ... set ext_cs_f_bs to "yes" ...
+			}
+		}
+		else  // and if either verblg or next_verblg has no entry ...
+		{
+			$ext_cs_f_bs="n/a";  // ... set ext_cs_f_bs to "n/a", otherwise there would be an invalid comparison between a clause with a verb and one without.
+		}
+		//echo $cl_lg." - ";
+		
+		//////////////////////////////////////////////////
+		// end Mirjam - forward external as well
+		//////////////////////////////////////////////////
 
 		// Use the internal entry to calculate int_cs.
 		if ($row3->internal=="ST" or $row3->internal=="SNT")
@@ -172,13 +245,14 @@ while ($row1=pg_fetch_object($sql1))
 		}
 		
 		// If there is any type of codeswitch, set cswitch to yes.
+		// Note that this gives only one "yes" even if there is both an internal and external CS in the clause - perhaps change to a figure which could be 0, 1 or 2.
 		$cswitch=($ext_cs=="yes" or $int_cs=="yes") ? "yes" : "no";
 
 		// Set up other fields depending on whether there is a trigger in the clause ...
-		if (!empty($t))
+		if (!empty($t))  // If there is a trigger in the clause ...
 		{
-			$i=1;  // Set up a counter for the number of triggers.
-			foreach ($t as $t_k=>$t_v)
+			$i=1;  // ... set up a counter for the number of triggers ...
+			foreach ($t as $t_k=>$t_v)  // ... and then loop through the triggers, writing out all the clause data for each one - this will give one complete entry for each instance of a trigger, so (eg) if there are two different triggers in a clause, the table will have two entries for that clause, identical except for the trigger info ...
 			{
 				$t_no=$i++;
 				$t_loc=$t_k-$minloc+1;
@@ -193,12 +267,12 @@ while ($row1=pg_fetch_object($sql1))
 
 				echo $filename." - ".$speaker.": ".$surface." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
 				
-				$write1=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, ext_cs_bs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$ext_cs_bs', '$int_cs', '$cl_lg', '$surface');");
+				$write1=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, ext_cs_bs, ext_cs_f, ext_cs_f_bs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$ext_cs_bs', '$ext_cs_f', '$ext_cs_f_bs', '$int_cs', '$cl_lg', '$surface');");
 				
 				unset($t_loc, $t_k, $t_v, $t_len, $trigword);
-			}
+			}  // end loop for clauses with one or more triggers
 		}
-		else // ... or not.
+		else // ... or if there is no trigger in the clause ...
 		{
 			$t_no=0;
 			$t_loc=0;
@@ -209,18 +283,17 @@ while ($row1=pg_fetch_object($sql1))
 			
 			echo $filename." - ".$speaker.": ".$surface." - ".$contains_t." - ".$trigword." - ".$cswitch.": ".$cl_lg." - ".$ext_cs."\n";
 			
-			$write2=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, ext_cs_bs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$ext_cs_bs', '$int_cs', '$cl_lg', '$surface');");
+			$write2=query("insert into $mixedmodel (filename, speaker, spkturn, clspk, tally, clause_id, cl_len, verblg, contains_t, count_t, t_no, t_loc, t_v, trigword, t_len, nt_sum, cswitch, slotlg, ext_cs, ext_cs_bs, ext_cs_f, ext_cs_f_bs, int_cs, cl_lg, surface) values ('$filename', '$speaker', $spkturn, $clspk, $tally[$spkturn], $clause_id, $cl_len, '$verblg', '$contains_t', $count_t, $t_no, $t_loc, '$t_v', '$trigword', $t_len, $nt_sum, '$cswitch', '$slotlg', '$ext_cs', '$ext_cs_bs', '$ext_cs_f', '$ext_cs_f_bs', '$int_cs', '$cl_lg', '$surface');");
 			
 			unset($t_loc, $t_k, $t_v, $t_len, $trigword);
-		}
+		}  // end loop for clauses without a trigger
 	
 	$prev_verblg=$verblg;  // The language of this clause becomes the language of the previous clause for the next loop.
 	//echo $prev_cl_lg.")\n";
+	unset($next_verblg);
 	
 	}
 }
-
-
 
 // Get the totals for triggers and codeswitches per file ...
 
@@ -281,6 +354,7 @@ while ($row_get_speakers=pg_fetch_object($get_speakers))
 	}
 	$update_spk_cs=query("update $mixedmodel set spk_cs=$spk_cs where speaker='$dbspeaker';");
 	
+	// Use -cognates table to avoid double-counting clauses (_mixedmodel replicates the clause for each trigger).
 	$get_spk_cl=query("select count(clause_id) as spk_cl from $cognates where speaker='$dbspeaker';");
 	while ($row_get_spk_cl=pg_fetch_object($get_spk_cl))
 	{

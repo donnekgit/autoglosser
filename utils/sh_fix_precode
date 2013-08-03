@@ -25,9 +25,10 @@
 
 # This script fixes instances where the precode is mistakenly placed before the continuation markers.
 
-#FILES=inputs/patagonia/beta/*.cha
+FILES=inputs/siarad/beta/*.cha
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha" 
-FILES="inputs/miami/beta/zeledon1.cha"
+#FILES="inputs/miami/beta/zeledon1.cha"
+#FILES="myfusser23.fixed"
 
 for f in $FILES
 do

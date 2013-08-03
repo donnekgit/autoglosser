@@ -32,8 +32,8 @@ if (!isset($chain))
 // Create the utterances table.
 //$filename="histcorpus/groniosaw_split.txt";
 //$utterances="groniosaw_cgutterances";
-$filename="histcorpus/ryan.txt";
-$utterances="ryan_cgutterances";
+$filename="histcorpus/alpha.txt";
+$utterances="alpha_cgutterances";
 
 echo "*\n*\nCreating the $utterances table\n*\n*\n";
 drop_existing_table($utterances);
@@ -56,14 +56,65 @@ $lines=file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
 //print_r($lines);
 
-$i=1;  // start counter for utterances
+$j=1;  // start counter for utterances
+
+// foreach ($lines as $line)
+// {
+// 	echo $i.": ".$line."\n";	
+// 	$line=pg_escape_string(trim($line));
+// 	$sql=query("insert into $utterances (surface, filename) values ('$line', 'cgtrans')");
+// 	$i++;
+// }
 
 foreach ($lines as $line)
 {
-	echo $i.": ".$line."\n";	
-	$line=pg_escape_string(trim($line));
-	$sql=query("insert into $utterances (surface, filename) values ('$line', 'groniosaw')");
-	$i++;
+	// FIXME - need to handle endashes and emdashes, single quotes, etc.
+	
+	$line=preg_replace("/\s+/", " ", $line);  // Collapse spaces, tabs, etc.
+	$line=preg_replace("/(\.)(?!([A-Za-z0-9]|\\\"))/", "$1~", $line);  // Set a marker at full stops, except where followed directly by an alphanum or a double quote.
+	$line=preg_replace("/(?<!([A-Z]|\d))(\.)/", "$2~", $line);  // Set a marker at full stops, except where preceded by a capital or figure.
+	$line=preg_replace("/(\?)/", "$1~", $line);  // Set a marker at question marks
+	$line=preg_replace("/(!)/", "$1~", $line);  // Set a marker at exclamation marks.
+// 	$line=preg_replace("/(['\\\"])([[A-Za-z0-9])/", "$1~$2", $line);  // Set a marker at begin quotes.
+// 	$line=preg_replace("/([[A-Za-z0-9 ])(['\\\"])/", "$1~$2", $line);  // Set a marker at end quotes.
+
+	$sents=array_filter(explode("~", $line));  // Split at the marker.  Use array_filter to throw away empty parts.
+// 	print_r($sents1);
+// 	echo "\n";
+
+	foreach ($sents as $sent)
+	{
+		echo $j.": ".$sent."\n";	
+		$sent=trim(pg_escape_string(preg_replace("/’/", "'", $sent)));  // Replace curly quotes and trim.
+		$sql=query("insert into $utterances (surface, filename) values ('$sent', 'bmj1')");
+		$j++;
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ?>

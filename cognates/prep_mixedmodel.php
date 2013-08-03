@@ -41,11 +41,9 @@ echo $cognates."\n";
 $mixedmodel=$filename."_mixedmodel";
 echo $mixedmodel."\n";
 
-
-
 drop_existing_table($filename."_cgwords_nuked");
 
-// Copy the existing words table, drop the added columns, and add them back.
+// Write a NEW table (filename_cgwords_nuked) by copying the existing filename_cgwords table, dropping the added columns, and adding them back.
 $create_nuked=query("create table $words as select * from {$filename}_cgwords;");
 
 $drop_clause=query("alter table $words drop column clause;");
@@ -57,6 +55,7 @@ $drop_clspk=query("alter table $words drop column clspk;");
 
 $add_clause=query("alter table $words add column clause character varying(50) default ''");
 $add_clauseno=query("alter table $words add column clauseno integer");
+// Extend the words table.
 include("cognates/extend_cgwords.php");
 
 //Delete IMs.
@@ -80,7 +79,6 @@ include("cognates/insert_triggers.php");
 echo "\nRunning write_rei now ...\n";
 include("cognates/write_rei.php");  // Can write _spk.txt.
 
-
 // Write a NEW cognates table rearranging the words table by speech-turn and clause.
 echo "\nRunning write_cognates now ...\n";
 include("cognates/write_cognates.php");  // Can write _spkturn.txt.
@@ -89,9 +87,8 @@ include("cognates/write_cognates.php");  // Can write _spkturn.txt.
 echo "\nRunning analyse_cognates now ...\n";
 include("cognates/analyse_cognates.php");  // Can write _cog.txt.
 
-// Arranges codeswitch and trigger data ready for mixed model analysis.
+// Creates a NEW mixedmodel table arranging codeswitch and trigger data ready for mixed model analysis.
 echo "\nRunning mixedmodel now ...\n";
 include("cognates/mixedmodel.php");
-
 
 ?>

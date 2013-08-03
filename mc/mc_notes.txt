@@ -222,32 +222,35 @@ ALTER TABLE ONLY pd_final_combined ADD CONSTRAINT pd_final_combined_pkey PRIMARY
 
 insert into pd_final_combined (filename, utterance_id, location, surface_before3, surface_before2, surface_before, surface_target, surface_after) select  filename, utterance_id, location, surface_before2, surface_before, surface_target, surface_after, surface_after2 from pd_ei_final
 
-insert into pd_final_combined (filename, utterance_id, location, surface_before, surface_target, surface_after, surface_after2, surface_after3) select  filename, utterance_id, location, surface_before2, surface_before, surface_target, surface_after, surface_after2 from pd_final
+insert into pd_final_combined (filename, utterance_id, location, surface_before, surface_target, surface_after, surface_after2, surface_after3) select  filename, utterance_id, location, surface_before2, surface_before, surface_target, surface_after, surface_after2 from pd_final;
 
 Run mc/add_speaker.php to add the speaker names, and then the age and sex of the speaker from the siarad_sp table.
 
 Edit and run mc/mc_context.php to produce a context list.
 
 
+md_ti: PRON.2S
+---------------------
 
+Initial search on '^[dt]i$' - there are no instances of chdi in the Patagonia data.  Yield: 1738 items.
 
+Remove items where the word before ti/di is a preposition (175 items):
+delete from md_ti where auto_before ~ 'PREP'
 
+Review and mark where ti/di is a possessive, object, or after rhaid/dyna, then remove these (170 items):
+delete from md_ti where use='n';
 
+Create a new table for ti/di preceded by bod, then remove these (580 items):
+create table md_ti_be as select * from md_ti where auto_before ~ '^be\\.' order by surface_before, surface_after, surface_before2;
+delete from from md_ti where auto_before ~ '^be\\.' 
 
+Create a new table for ti/di preceded by ddaru/gwneud, then remove these (60 items):
+create table md_ti_do as select * from md_ti where auto_before ~ '^do\\.' order by surface_before, surface_after, surface_before2;
+delete from from md_ti where auto_before ~ '^do\\.' 
 
+Create a new table for ti/di preceded by any other verb, then remove these (313 items):
+create table md_ti_v as select * from md_ti where auto_before ~ '\\.V\\.' order by surface_before, surface_after, surface_before2
+delete from from md_ti where auto_before ~ '\\.V\\.' 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The remaining 424 items in md_ti all appear to be aux.drop.  Create a new table for them, with a slightly different sort-order to focus on what follows ti/di:
+create table md_ti_drop as select * from md_ti order by surface_after, surface_after2, surface_before

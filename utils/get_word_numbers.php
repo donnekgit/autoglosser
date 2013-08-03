@@ -28,22 +28,22 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus="miami";
+$corpus="patagonia";
 $target="inputs/$corpus/beta";
 
 $fp = fopen("{$corpus}trans/{$corpus}_word_numbers.txt", "a") or die("Can't create the file");
 
-$mflg="eng";
+$mflg="cym";
 $lflg="spa";
-$ind="eng&spa";
+$ind="cym&spa";
 
 $mflg_total=0;
 $lflg_total=0;
 $ind_total=0;
 $total_total=0;
 
-echo "Filename,".$mflg.",".$lflg.",".$ind.",Total,".$mflg."%,".$lflg."%,".$ind."%\n";
-fwrite($fp, "Filename,".$mflg.",".$lflg.",".$ind.",Total,".$mflg."%,".$lflg."%,".$ind."%\n"); 
+echo "Filename, ".$mflg.", ".$lflg.", ".$ind.",Total,".$mflg."%, ".$lflg."%, ".$ind."%\n";
+fwrite($fp, "Filename, ".$mflg.", ".$lflg.", ".$ind.",Total,".$mflg."%, ".$lflg."%, ".$ind."%\n"); 
 
 $files=scandir($target);
 natsort($files);
@@ -86,27 +86,29 @@ foreach ($files as $file)
 			$total_total=$total_total+$total_words;
 		}
 
-		echo $filename.",".$mflg_words.",".$lflg_words.",".$ind_words.",".$total_words.",";
-		fwrite($fp,$filename.",".$mflg_words.",".$lflg_words.",".$ind_words.",".$total_words.",");
+		echo $filename.", ".$mflg_words.", ".$lflg_words.", ".$ind_words.", ".$total_words.", ";
+		fwrite($fp,$filename.", ".$mflg_words.", ".$lflg_words.", ".$ind_words.", ".$total_words.", ");
 
 		$mflg_words_percent=round($mflg_words / $total_words * 100,0);  // express language words as a percentage of the total
 		$lflg_words_percent=round($lflg_words / $total_words * 100,0);  // express language words as a percentage of the total
 		$ind_words_percent=round($ind_words / $total_words * 100,0);  // express language words as a percentage of the total
 
-		echo $mflg_words_percent."%,".$lflg_words_percent."%,".$ind_words_percent."%\n";
-		fwrite($fp, $mflg_words_percent."%,".$lflg_words_percent."%,".$ind_words_percent."%\n");
+		echo $mflg_words_percent."%, ".$lflg_words_percent."%, ".$ind_words_percent."%\n";
+		fwrite($fp, $mflg_words_percent."%, ".$lflg_words_percent."%, ".$ind_words_percent."%\n");
 
 	}
 }
 
-echo "Total,".$mflg_total.",".$lflg_total.",".$ind_total.",".$total_total."\n";
-fwrite($fp,"Total,".$mflg_total.",".$lflg_total.",".$ind_total.",".$total_total."\n");
+echo "Total, ".$mflg_total.", ".$lflg_total.", ".$ind_total.", ".$total_total."\n";
+fwrite($fp,"Total, ".$mflg_total.", ".$lflg_total.", ".$ind_total.", ".$total_total."\n");
 
 $mflg_percent=round($mflg_total / $total_total * 100,0);  // express language words as a percentage of the total
 $lflg_percent=round($lflg_total / $total_total * 100,0);  // express language words as a percentage of the total
 $ind_percent=round($ind_total / $total_total * 100,0);  // express language words as a percentage of the total
 
-echo "Percent,".$mflg_percent."%,".$lflg_percent."%,".$ind_percent."%,100%\n";
-fwrite($fp,"Percent,".$mflg_percent."%,".$lflg_percent."%,".$ind_percent."%,100%\n");
+echo "Percent, ".$mflg_percent."%, ".$lflg_percent."%, ".$ind_percent."%,100%\n";
+fwrite($fp,"Percent, ".$mflg_percent."%, ".$lflg_percent."%, ".$ind_percent."%,100%\n");
+
+fclose($fp);
 
 ?>

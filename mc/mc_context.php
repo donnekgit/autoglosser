@@ -23,24 +23,27 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file writes out mixed-language entries with full context detail to a tex file, from which a pdf can be created. The relevant subset has to be specified as the first argument, eg php mc_context.php <patagonia>.
+// This file writes out mixed-language entries with full context detail to a tex file, from which a pdf can be created. The relevant subset, if used, has to be specified as the first argument, eg php mc_context.php <patagonia>.
 
 $subset=$_SERVER['argv'][1];
 //$mcout="mc_n_adj_".$subset;
-$mcout="pd_final_combined";
+$mcout="md_ti_be";
 
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
     
-$fp = fopen("peredur/$mcout.tex", "w") or die("Can't create the file");
+$fp = fopen("margaret/md_ti/{$mcout}_by_file.tex", "w") or die("Can't create the file");
 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
-	if (preg_match("/filename.cha/", $line))
+	if (preg_match("/filename(.cha)?/", $line))
 	{
-		//$line=preg_replace("/filename.cha/", "Mixed-language noun+adjective phrases in ".ucfirst($corpus), $line);
-		$line=preg_replace("/filename.cha/", "3S possessives", $line);
+		$line=preg_replace("/filename(.cha)?/", "2S with be, ordered by filename and utterance", $line);
+	}
+	elseif (preg_match("/infotext/", $line))
+	{
+		$line=preg_replace("/infotext/", "Patagonia", $line);
 	}
 	else
 	{
@@ -58,7 +61,7 @@ $i=1;
 //$sql1=query("select * from $mcout where langid2!~'&' order by langid1, langid2");
 //$sql1=query("select * from $mcout where use='k' order by filename, utterance_id, location");
 //$sql1=query("select * from $mcout order by surface2, filename, utterance_id, location");
-$sql1=query("select * from $mcout order by surface_target, surface_after, filename, utterance_id, location");
+$sql1=query("select * from $mcout order by filename, utterance_id, location");
 while ($row1=pg_fetch_object($sql1))
 {
 	$sep="\\rule{\linewidth}{0.1mm} \\\\ \n";
@@ -67,7 +70,8 @@ while ($row1=pg_fetch_object($sql1))
 	//$hit=tex_surface($row1->surface1." ".$row1->surface2);
 	//$hit=tex_surface($row1->surface1." ".$row1->surface2." ".$row1->surface3);
 	//$hit=tex_surface($row1->surface3." ".$row1->surface2." ".$row1->surface1);
-	$hit=tex_surface($row1->surface_before." ".$row1->surface_target." ".$row1->surface_after);
+	//$hit=tex_surface($row1->surface_before." ".$row1->surface_target." ".$row1->surface_after);
+	$hit=tex_surface($row1->surface_target." ".$row1->surface_after." ".$row1->surface_after2);
 
 	$hit=$i.": \\textbf{".$hit."}";
 	fwrite($fp, $hit);

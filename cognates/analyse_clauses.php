@@ -32,6 +32,7 @@ if (empty($filename))
 	list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
 
+// IMPORTANT!!!
 // Remember to change get_all_speaker_data().
 // Remember to change the main language in the csv variables.
 // Remember to change get_linguality() .

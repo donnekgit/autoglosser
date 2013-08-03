@@ -23,7 +23,9 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given
+// CHECKME - is this process biting - the _cg_traced.txt file doesn't seem to include the trace.  Also, it might be simpler to just do exec("vislcg3 ..... > _cg_traced.txt").
+
+// If the script is being called standalone instead of as part of the pipeline, generate default names from the filepath given.
 if (empty($filename))
 {
 	include("includes/fns.php");

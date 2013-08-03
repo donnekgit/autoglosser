@@ -32,17 +32,18 @@ if (!isset($chain))
 // $filename="histcorpus/groniosaw_split.txt";
 // $utterances="groniosaw_cgutterances";
 // $words="groniosaw_cgwords";
-$filename="histcorpus/ryan.txt";
-$utterances="ryan_cgutterances";
-$words="ryan_cgwords";
+$filename="histcorpus/alpha.txt";
+$utterances="alpha_cgutterances";
+$words="alpha_cgwords";
+$gram_file="eng";
 
 //$fp = fopen("outputs/groniosaw/groniosaw_cg_applied.txt", "w") or die("Can't create the file");
-$fp = fopen("outputs/ryan/ryan_cg_applied.txt", "w") or die("Can't create the file");
+$fp = fopen("histcorpus/alpha_cg_applied.txt", "w") or die("Can't create the file");
 
 // To run a trace, use this line instead:
 //exec("vislcg3 -g grammar/".$gram_file."_grammar  --trace -I outputs/".$filename."/".$filename."_cg.txt", $cg_output);
 //exec("vislcg3 -g grammar/".$gram_file."_grammar -I outputs/groniosaw/groniosaw_cg.txt", $cg_output);
-exec("vislcg3 -g grammar/".$gram_file."_grammar -I outputs/ryan/ryan_cg.txt", $cg_output);
+exec("vislcg3 -g grammar/".$gram_file."_grammar -I histcorpus/alpha_cg.txt", $cg_output);
 foreach ($cg_output as $cg_line)
 {
 	echo $cg_line."\n";

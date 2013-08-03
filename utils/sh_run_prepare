@@ -25,7 +25,8 @@
 
 # This script runs prepare_file.php on all the files in a directory, straightening out the lines and extracting the headers
 
-FILES=inputs/miami/beta/*.cha
+FILES=inputs/siarad/js/*.cha
+#FILES=/home/kevin/data/siarad_general/audiofiles/*.mp3
 #FILES=bw_check/bw_miami_chat_files_no_auto/*.cha
 #FILES=inputs/patagonia/BW/*.cha  # for CHECK and Chatter
 #FILES="inputs/miami/alpha/023/herring1.cha inputs/miami/alpha/023/herring2.cha inputs/miami/alpha/023/herring12.cha"
@@ -51,12 +52,49 @@ do
 	# Just refetch the headers (remember to edit the bottom of sed_get_header).
 	#utils/sed_get_header $f
 	
+	# Find utterances that were split into more than 3 clauses.
+	#php cognates/get_split_surfaces.php $f
+	
+	# Find number of utterances of clause-length n
+	#php cognates/get_number_clauses_by_length.php $f
+	
+	# Find number of words in clauses of ordinality n (ie first, second, etc)
+	#php cognates/get_words_by_clause_length.php $f
+	
+	# Backport CS data into the _diana files
+	#php cognates/add_cs_diana.php $f
+	
+	# Get numbers of reinforcer ignores
+	#php cognates/get_rei.php $f
+	
 	# Fix um and uh
 	#php fix_um-uh.php $f
+	
+	# Fix old-style bullets with filename in them
+	#sed -ri "/\*[A-Z]{3}/s/%snd:\".*\"_//g" $f
+	
+	# Delete quotes from the %eng tier
+	#sed -ri "/%eng/s/\"//g" $f  # This takes out quotes in quotations as well - use the line below.
+	#php utils/fix_eng_quotes.php $f
+	
+	# Make global changes to headers in place in the file, and revert punctuation changes
+	#php utils/make_global_changes.php $f
 	
 	# Add codeswitch info to _cognates tables
 	#php cognates/analyse_cognates.php $f
 	
+	# Convert ### to (...) etc
+	#sed -ri "s/###/(...)/g" $f
+	#sed -ri "s/##/(..)/g" $f
+	#sed -ri "s/#/(.)/g" $f
+	
+	# Replace xx with xxx
+	#sed -ri "s/([[:blank:]])xx([[:blank:]])/\1xxx\2/g" $f
+	#sed -ri "s/([[:blank:]])xx$/\1xxx/g" $f
+	# at end of line - should also do one for xx> too
+	sed -ri "s/xxx xxx/xxx/g" $f
+	# fix doublets
+
 	# Replace xxx in %eng tiers with [...].
 	#sed -ri "/%eng/s/xxx/[...]/g" $f
 	#sed -ri "/%eng/s/ \.\.\. / [...] /g" $f
@@ -67,7 +105,7 @@ do
 	#ack-grep '%eng' $f /dev/null | ack-grep '\[\.\.\.\][^ |!|\?|$]' >> xxx_grep.txt
 	
 	# Remove %aut line entirely
-	#sed -i '/%xaut/ d' $f
+	#sed -i '/%aut/ d' $f
 	
 	# Run a diff on two sets of files and save the results
 # 	filename=$(basename $f)
@@ -93,6 +131,9 @@ do
 	#php anonymise_audio.php $f
 	#php anonymise_audio_wav.php $f
 	#php anonymise_audio_nowww.php $f
+	
+	# Get length of audio files
+	#soxi -D $f
 
 	# Cypriot: get rid of the (7 .0) markers.
 	#sed -i 's/([0-9] \.[0-9] )//g' $f

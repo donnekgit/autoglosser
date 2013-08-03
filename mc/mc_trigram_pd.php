@@ -23,9 +23,9 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file collects examples of trigrams.  The table holding the imported file should be the first argument, and a relevant name for the subset of material should be specified as the second argument, eg php mc_trigram_pd.php <table> <subset>.
+// This file collects examples of 5-grams.  The table holding the imported file should be the first argument, and a relevant name for the subset of material should be specified as the second argument, eg php mc_trigram_pd.php <table> <subset>.
 
-// This is best run from a shell script: mc/sh_run_mc.php.
+// This is best run from a shell script: mc/sh_run_mc.
 
 // Should also consider adding the speaker name to the list of data collected.
 
@@ -42,12 +42,11 @@ if (empty($filename))
 }
 
 // Pick out the target word-type across the whole corpus...
-$sql1=query("select * from $words where surface~'^w$'");  // The target word-type is a third-singular pronoun (PRON.3S).
+$sql1=query("select * from $words where surface~'^[dt]i$'");  // The target word-type is a second-singular pronoun (ti - PRON.2S, di - PRON.2S+SM, chdi - PRON.2S [no examples in Patagonia]).
 while ($row1=pg_fetch_object($sql1))  // Get all of them, and then loop through each one to find the words preceding them ...
 {
 	// Write the target word into the subset table
 	$sql_=query("insert into $mctable(filename, utterance_id, location, surface_target, auto_target, langid_target, use) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row1->surface', '$row1->auto', '$row1->langid', '')");
-
 
 	// Specify relative locations, to select words before the target word-type ...
 	$before2=$row1->location - 2;  // The location two slots back.
@@ -55,7 +54,6 @@ while ($row1=pg_fetch_object($sql1))  // Get all of them, and then loop through 
 	$after=$row1->location + 1;  // The location one slot forward.
 	$after2=$row1->location + 2;  // The location two slots forward.
 	
-
 	// Use these relative locations to run additional queries picking out those words ...
 	
 	$sql_before2=query("select * from $words where utterance_id=$row1->utterance_id and location=$before2"); // Get the previous-but-one word.

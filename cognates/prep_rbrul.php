@@ -41,27 +41,32 @@ echo $utterances."\n";
 echo $words."\n";
 echo $cgfinished."\n";
 
+// Extend the words table.
 include("cognates/extend_cgwords.php");
 
+// Mark the clauses, and segment.
 include("cognates/mark.php");
-
 include("cognates/adjust_deletes.php");
-
 include("cognates/adjust_moves.php");
-
 include("cognates/segment.php");  // Can write _split.txt.
 
+// Mark clauses to be ignored in the table.
 include("cognates/reinforcers.php");
 
+// Inject triggers (mark words as triggers).
 //include("cognates/insert_triggers.php");  Use if you want to note codeswitches.
 
+// Count speech-turns (adds speech-turns and clauses in the speech-turn).
 include("cognates/write_rei.php");  // Can write _spk.txt.
 
+// Write a NEW cognates table rearranging the words table by speech-turn and clause.
 //include("cognates/write_cognates.php");  // Can write _spkturn.txt.
 
+// Generates MF and linguality info, and marries each clause to speaker data.
 include("cognates/analyse_clauses.php");  // Writes _clauses.csv.
 //include("cognates/analyse_cognates.php");  // Use if you want to notate codeswitches.
 
+// Write out a csv file ready for Rbrul analysis.  FIXME - this should be amended to write a table.
 exec("cat $output_path/{$filename}_clauses.csv >> $jumbo_path/$jumbo_file");  // Add all the clauses to one big file.
 
 ?>

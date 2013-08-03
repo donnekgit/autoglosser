@@ -178,7 +178,7 @@ remove ("<machlud>" [cy] v);
 remove ("<olwynion>" [cy] v);
 remove ("<pâr>" [cy] :cause:);
 remove ("<sych>" [cy] v);
-remove ("<dyn>" [cy] v);
+remove ("<dyn>" [cy] v :draw:);
 
 
 # 3 - delete archaic forms

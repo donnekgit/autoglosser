@@ -32,7 +32,7 @@ include("/opt/autoglosser/config.php");
 
 $subset=$_SERVER['argv'][1];
 //$mctable="pd_".$subset;
-$mctable="pd_w";
+$mctable="md_ti";
 
 drop_existing_table($mctable);
 
@@ -42,6 +42,7 @@ CREATE TABLE $mctable (
     filename character varying(50),
     utterance_id integer,
     location integer,
+    speaker character varying(10),
     surface_before2 character varying(100),
     surface_before character varying(100),
     surface_target character varying(100),

@@ -54,6 +54,8 @@ CREATE TABLE $mixedmodel (
     slotlg character varying(50),
     ext_cs character varying(10),
     ext_cs_bs character varying(10),
+    ext_cs_f character varying(10),
+    ext_cs_f_bs character varying(10),
     int_cs character varying(10),
     cl_lg character varying(10),
     surface character varying(100),

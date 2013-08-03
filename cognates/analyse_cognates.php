@@ -23,7 +23,7 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This script arranges the file in order of speech-turn and clause.
+// This script generates CS and trigger info.
 
 if (empty($filename))
 {
@@ -46,7 +46,7 @@ while ($row_t=pg_fetch_object($sql_t))
 }
 
 //print_r($tally);
-
+// Get all the speaker turns and place them in order.
 $sql1=query("select spkturn, clspk from $cognates group by spkturn, clspk order by spkturn, clspk");  // Get all the speaker turns and place them in order.
 while ($row1=pg_fetch_object($sql1))
 {
@@ -103,13 +103,14 @@ while ($row1=pg_fetch_object($sql1))
 	
 	if ($p_lg!=$next_f_lg)  // If there is an external codeswitch (a switch in language between this clause and the next) ...
 	{
-		$external=(empty($t)) ? "SNT" : "ST";
+		$external=(empty($t)) ? "SNT" : "ST";  // ... and if the t array is empty (there are no triggers), mark SNT, otherwise mark ST
 	}
 	else
 	{
-		$external=(empty($t)) ? "NSNT" : "NST";
+		$external=(empty($t)) ? "NSNT" : "NST";  // ... but if there is no codeswitch, and the t array is empty (there are no triggers), mark NSNT, otherwise mark NST
 	}
-		
+
+	// Tidy up ...
 	$external=($tally[$spkturn]<2) ? "---" : $external;  // Remove the external type marker when there is only one clause in the speaker turn.  // CHECK - Next line will cover this anyway?
 	$external=($nextnew=='new') ? "---" : $external;  // Remove the external type marker on the last clause in the speaker turn.
 	$external=(empty($nt_lg) or empty($next_nt_lg)) ? "---" : $external;  // Remove the external type marker when there are only Ts in this clause or the next.
@@ -125,13 +126,14 @@ while ($row1=pg_fetch_object($sql1))
 
 	if ($prev_p_lg!=$f_lg)  // If there is an externalb codeswitch (a switch in language between this clause and the previous) ...
 	{
-		$externalb=(empty($t)) ? "SNT" : "ST";
+		$externalb=(empty($t)) ? "SNT" : "ST";  // ... and if the t array is empty (there are no triggers), mark SNT, otherwise mark ST
 	}
 	else
 	{
-		$externalb=(empty($t)) ? "NSNT" : "NST";
+		$externalb=(empty($t)) ? "NSNT" : "NST";  // ... but if there is no codeswitch, and the t array is empty (there are no triggers), mark NSNT, otherwise mark NST
 	}
-	
+
+	// Tidy up ...
 	$externalb=($tally[$spkturn]<2) ? "---" : $externalb;  // Remove the externalb type marker when there is only one clause in the speaker turn.  // CHECK - Next line will cover this anyway?
 	$externalb=($new=='new') ? "---" : $externalb;  // Remove the externalb type marker on the first clause in the speaker turn.
 	$externalb=(empty($nt_lg) or empty($prev_nt_lg)) ? "---" : $externalb;  // Remove the externalb type marker when there are only Ts in this clause or the previous.
@@ -145,12 +147,14 @@ while ($row1=pg_fetch_object($sql1))
 		
 	if (count($nt_lg)>1) // If there is more than one language in the clause (an internal codeswitch) ...
 	{
-		$internal=(empty($t)) ? "SNT" : "ST";
+		$internal=(empty($t)) ? "SNT" : "ST"; // ... and if the t array is empty (there are no triggers), mark SNT, otherwise mark ST
 	}
 	else
 	{
-		$internal=(empty($t)) ? "NSNT" : "NST";
+		$internal=(empty($t)) ? "NSNT" : "NST"; // ... but if there is no codeswitch, and the t array is empty (there are no triggers), mark NSNT, otherwise mark NST
 	}
+	
+	// Tidy up ...
 	$internal=(empty($nt_lg)) ? "---" : $internal;  // Remove the internal type marker when there are only Ts in the clause.
 	$internal=($nt_sum<2) ? "---" : $internal;  // Remove the internal type marker when there is only one non-T in the clause.
 	
@@ -160,7 +164,7 @@ while ($row1=pg_fetch_object($sql1))
 	//$external=($internal=="SNT" or $internal=="ST") ? "---" : "$external";
 	
 	// ****************************
-	// Write out a check file
+	// Write out the  check file if desired.
 
 	if ($new=='new')  // Add blank lines to show changes in speech-turn.
 	{

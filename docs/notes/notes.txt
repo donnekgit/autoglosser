@@ -985,9 +985,14 @@ Second edition of Siarad
 ================
 
 For the files in inputs/siarad we need to:
-- remove the filename from the sound bullets
-- fix the mistaken punctuation (revert_punctuation() in fns.php, originally used in utils/make_global_changes.php)
+- remove the filename from the sound bullets (add line in utils/make_global_changes.php)
+- fix the mistaken punctuation (revert_punctuation() in fns.php, accessed from utils/make_global_changes.php)
 - change the @Languages line to give 3-letter abbreviations (and amend other parts of the header as well) - this can perhaps be done via utils/make_global_changes.php - IMPORTANT!!! once the beta files are fixed, we need to run utils/sh_run_prepare with the utils/sed_get_header $f line live, to collect the fixed headers - this is because the langid tag selection and the writeout uses the stored header - FIXME? perhaps it should just run anew each time from the beta file
+- add # and ## to depfile.cut - but first check if they are still used; maybe they need to be replaced with something else - also " in %eng
+- fix bullets (BEG time is smaller than same speaker's previous END time; BEG mark of bullet must be smaller than END mark)
+- convert quotations (bw_convert_quotations.pl)
+- shift continuation markers to before precodes (utils/sh_fix_precode)
+- run Chatter
 
 
 

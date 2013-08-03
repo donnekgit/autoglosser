@@ -33,9 +33,9 @@ if (!isset($chain))
 //$filename="histcorpus/groniosaw_split.txt";
 //$utterances="groniosaw_cgutterances";
 //$words="groniosaw_cgwords";
-$filename="histcorpus/ryan.txt";
-$utterances="ryan_cgutterances";
-$words="ryan_cgwords";
+$filename="histcorpus/alpha.txt";
+$utterances="alpha_cgutterances";
+$words="alpha_cgwords";
 
 drop_existing_table($words);
 
@@ -64,18 +64,27 @@ while ($row=pg_fetch_object($result))
 {
 	echo $oldutt="(".$row->utterance_id.") ".$row->surface."\n";
 	$newutt=$row->surface;
+	$newutt=trim($newutt);
 
-    $i=1;   
+    $i=1; 
+    
+    $newutt=preg_replace("/\s+/", " ", $newutt);  // Collapse spaces, tabs, etc.
+    $newutt=preg_replace("/(?<![A-Z])(\.)/", " $1", $newutt);  // space before . except where preceded by a capital.
+    $newutt=preg_replace("/(?<![0-9])(\.)(?![0-9])/", " $1", $newutt);  // space before . except where preceded by a digit and followed by a digit.  FIXME - also applies to commas in numbers.  
+	$newutt=preg_replace("/([:;,!\?\)])/u", " $1", $newutt); // space before : ; , ! ? . ) ] 
+	$newutt=preg_replace("/([\(\[\\\"])/u", "$1 ", $newutt);  // space after ( [ "(begin quote)
+//     $newutt=preg_replace("/(?<!(\.))(\\\")/", " $2", $newutt);  // space before "(end quote) except where preceded by a capital or figure.
 
-	$surface_words=explode(' ', $newutt);
+	$surface_words=array_filter(explode(' ', $newutt));
 
     foreach ($surface_words as $surface_word)
     {
 		echo $surface_word."\n";
         $surface_word=pg_escape_string(trim($surface_word));
-        $clean_word=wordclean_hist($surface_word);
+// 		$clean_word=wordclean_hist($surface_word);
 
-		$sql_w=query("insert into $words (utterance_id, location, orig_surface, surface, filename) values ('$row->utterance_id', '$i', '$surface_word', '$clean_word', '$row->filename')");
+// 		$sql_w=query("insert into $words (utterance_id, location, orig_surface, surface, filename) values ('$row->utterance_id', '$i', '$surface_word', '$clean_word', '$row->filename')");
+		$sql_w=query("insert into $words (utterance_id, location, orig_surface, surface, filename) values ('$row->utterance_id', '$i', '$surface_word', '$surface_word', '$row->filename')");
 
         $i=++$i; 
 	} 
@@ -83,12 +92,12 @@ while ($row=pg_fetch_object($result))
 	unset($newutt);
 }
 
-$sql_as="select * from groniosaw_cgwords w, archaic_spelling a where w.surface=a.old_spelling order by surface";
-$result_as=pg_query($db_handle,$sql_as) or die("Can't get the items");
-while ($row_as=pg_fetch_object($result_as))
-{
-	$old_spelling=pg_escape_string($row_as->old_spelling);
-	query("update $words set surface='$row_as->new_spelling' where surface='$old_spelling'");
-}
+// $sql_as="select * from groniosaw_cgwords w, archaic_spelling a where w.surface=a.old_spelling order by surface";
+// $result_as=pg_query($db_handle,$sql_as) or die("Can't get the items");
+// while ($row_as=pg_fetch_object($result_as))
+// {
+// 	$old_spelling=pg_escape_string($row_as->old_spelling);
+// 	query("update $words set surface='$row_as->new_spelling' where surface='$old_spelling'");
+// }
 
 ?>

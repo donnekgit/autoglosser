@@ -34,12 +34,15 @@ if (!isset($chain))
 // $filename="histcorpus/groniosaw_split.txt";
 // $utterances="groniosaw_cgutterances";
 // $words="groniosaw_cgwords";
-$filename="histcorpus/ryan.txt";
-$utterances="ryan_cgutterances";
-$words="ryan_cgwords";
+$filename="histcorpus/alpha.txt";
+$utterances="alpha_cgutterances";
+$words="alpha_cgwords";
 
 //$fp = fopen("outputs/groniosaw/groniosaw_cg.txt", "w") or die("Can't create the file");
-$fp = fopen("outputs/ryan/ryan_cg.txt", "w") or die("Can't create the file");
+$fp = fopen("histcorpus/alpha_cg.txt", "w") or die("Can't create the file");
+
+// FIXME - we need to lowercase and lookup, then surface and lookup, then duplicate (not unknown).
+// FIXME - all-digit numbers should be tagged diginum.
 
 $sql="select * from $words order by utterance_id, location";
 $result=pg_query($db_handle,$sql) or die("Can't get the items");
@@ -57,7 +60,7 @@ while ($row=pg_fetch_object($result))
 	fwrite($fp, $stream);
 
 	//include("lookups/cy_lookup.php");
-	include("lookups/en_lookup.php");
+	include("histcorpus/en_lookup.php");
 }
 
 fclose($fp);

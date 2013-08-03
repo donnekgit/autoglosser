@@ -25,7 +25,8 @@
 
 # This script runs PostgreSQL stuff.
 
-FILES=inputs/siarad/diana/*.cha
+# FILES=inputs/siarad/diana/*.cha
+FILES=inputs/siarad/beta/*.cha
 
 for f in $FILES
 do
@@ -33,7 +34,9 @@ do
 	
 	filename=$(basename $f)
 	fixedfile=${filename%.cha}
-
+	diana=${fixedfile}_diana
+	cgwords=${fixedfile}_cgwords
+	nuked=${fixedfile}_cgwords_nuked
 
 # 	# -------------------------------------------------
 # 	# Get total number of utterances
@@ -86,6 +89,17 @@ do
 
 
 # 	# -------------------------------------------------
+# 	# Combine the number of utterances containing more than one clause
+# 	# -------------------------------------------------
+# 
+# 	myno=$(echo '\\a \\t \\\ select count(utterance_id) from clause_length2 where filename='\'$fixedfile\'' and length > 0;' | psql -h localhost -U kevin -d autoglosser -q)
+# 	echo "$fixedfile:" $myno
+# 	
+# 	total=$(($total+$myno))
+# 	echo  "Total so far:" $total "\n"
+
+
+# 	# -------------------------------------------------
 # 	# Update the langid on all _cgwords tables
 # 	# -------------------------------------------------
 # 
@@ -117,5 +131,53 @@ do
 # 	psql -h localhost -U kevin -d autoglosser -q -c "insert into mixedmodel_jumbo select * from $mixedmodel order by mm_id;"
 
 
+# 	# -------------------------------------------------
+# 	# Combine the data from the mirjam tables into one table
+# 	# -------------------------------------------------
+# 
+# 	# Run php cognates/create_mixedmodel_jumbo.php first to create the table, BUT CHANGE THE TABLE NAME to mixedmodel_jumbo_mirjam
+# 
+# 	mirjam=${fixedfile}_mirjam
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into mixedmodel_jumbo_mirjam select * from $mirjam order by mm_id;"
 
+
+# 	# -------------------------------------------------
+# 	# Combine the data from the cognates csvs into one table
+# 	# -------------------------------------------------
+# 
+# 	# Run php cognates/create_rbrul.php first to create the table.
+# 
+# 	mixedmodel=${fixedfile}_mixedmodel
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into mixedmodel_jumbo select * from $mixedmodel order by mm_id;"
+
+
+# 	# -------------------------------------------------
+# 	# Collect instances of English insertions
+# 	# -------------------------------------------------
+# 
+# 	# Create the table by "create table ... as select from ..." and then emptying the table.
+# 
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into insertions_all select slotlg, clause_id,  utterance_id, filename, surface, auto, verblg, langid, speaker from $diana where slotlg ~ '2' order by slotlg;"
+
+
+# 	# -------------------------------------------------
+# 	# Combine the data from the diana tables into one table
+# 	# -------------------------------------------------
+# 
+# 	# Create the table by "create table ... as select from ..." and then emptying the table.
+# 
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into jumbo_margaret_siarad select * from $diana order by clause_id;"
+
+
+# 	# -------------------------------------------------
+# 	# Combine the data from the mixedmodel tables into one table (Margaret)
+# 	# -------------------------------------------------
+# 
+# 	# Create the table by "create table ... as select from ..." and then emptying the table.
+# 
+# 	mixedmodel=${fixedfile}_mixedmodel
+# 	mixedmodel=${fixedfile}_mirjam
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into jumbo_margaret_siarad_mixedmodel select * from $mixedmodel order by mm_id;"
+
+	
 done

@@ -75,7 +75,7 @@ while ($row1=pg_fetch_object($sql1))
 		$loca=$row2->location;
 		echo $row2->surface." - ".$loca."\n";
 		
-		// Store the locations in an array - the key of this will serve as the sequence number.
+		// Store the locations of the IMs in an array - the key of this will serve as the sequence number (ie how many IMs there are in an utterance).
 		$im_locs[]=$loca;
 	}
 	
@@ -87,7 +87,7 @@ while ($row1=pg_fetch_object($sql1))
 		// Mark the IMs to be deleted.
 		$del_p=query("update $words set p0=0 where utterance_id=$utt and location=$im_loc;");
 
-		// Shift the location numbers accordingly.  The desired location is the current location minus the sequence number, for all locations above the location of the IM.
+		// Shift the location numbers accordingly.  The desired location is the current location minus the sequence number (ie how many slots need to be removed), for all locations above the location of the IM.
 		$upd_p=query("update $words set p0=location-$offset where utterance_id=$utt and location>$im_loc;");
 	}
 

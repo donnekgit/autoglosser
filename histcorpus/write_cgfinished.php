@@ -33,10 +33,10 @@ if (!isset($chain))
 // $utterances="groniosaw_cgutterances";
 // $words="groniosaw_cgwords";
 // $cgfinished="groniosaw_cgfinished";
-$filename="histcorpus/ryan.txt";
-$utterances="ryan_cgutterances";
-$words="ryan_cgwords";
-$cgfinished="ryan_cgfinished";
+$filename="histcorpus/alpha.txt";
+$utterances="alpha_cgutterances";
+$words="alpha_cgwords";
+$cgfinished="alpha_cgfinished";
 
 echo "*\n*\nCreating the $cgfinished table\n*\n*\n";
 drop_existing_table($cgfinished);
@@ -62,7 +62,7 @@ ALTER TABLE ONLY ".$cgfinished." ADD CONSTRAINT ".$cgfinished."_pk PRIMARY KEY (
 $result_pkey=pg_query($db_handle, $sql_pkey);
 
 //$lines=file("outputs/groniosaw/groniosaw_cg_applied.txt");  // Open input file.
-$lines=file("outputs/ryan/ryan_cg_applied.txt");  // Open input file.
+$lines=file("histcorpus/alpha_cg_applied.txt");  // Open input file.
      
 foreach ($lines as $line_num => $line)
 {

@@ -53,7 +53,6 @@ while ($row1=pg_fetch_object($sql1))
 	$sql3=query("select * from $words where spkturn=$spkturn and clspk=$clspk and langid!='999' order by location");
 	while ($row3=pg_fetch_object($sql3))
 	{
-		//if (preg_match("/^t[0-9]$/", $row3->cognate))
 		if ($row3->cognate!="")
 		{
 			$row3->surface="*".$row3->surface."*";  // Mark the triggers in the printout.
@@ -80,7 +79,6 @@ while ($row1=pg_fetch_object($sql1))
 		}
 		
 		// Generate a numerical representation of the  langid sequence.
-		//if (preg_match("/^t[0-9]$/", $row3->cognate))
 		if ($row3->cognate!="")
 		{
 			$slot="T";
@@ -107,14 +105,14 @@ while ($row1=pg_fetch_object($sql1))
 		}
 		$slotlg.=$slot;
 
-		//if (!preg_match("/^t[0-9]$/", $row3->cognate))
+		// If the word is not a cognate, write the langid to the nt_lg array ...
 		if ($row3->cognate=="")
 		{
 			$nt_lg[$row3->location]=$row3->langid; 
 			// Get the language of all non-Ts in this clause, keyed to their location in the utterance.  Language array for non-Ts.
 			// The first item will always be the earliest non-T in the clause, the last item the last non-T in the clause.
 		}
-		else
+		else  // ... if it is a cognate write the langid to the t array
 		{
 			$t[$row3->location]=$row3->cognate;  // Get the utterance location of all Ts in this clause.  Location array for Ts.
 		}

@@ -65,6 +65,7 @@ $sql_mark=query("update $words set clause='c' where langid='cym' and auto~'\\\.V
 
 // Put a clause-marker against "bod" in Welsh, which forms a subordinate clause.
 $sql_mark=query("update $words set clause='c' where langid='cym' and surface='bod'");
+// !!! Need to rule out "wedi bod"!
 
 //$sql_mark=query("update $words set clause='c' where langid='cym' and auto='and.CONJ'");
 //$sql_mark=query("update $words set clause='c' where langid='cym' and auto='or.CONJ'");

@@ -23,7 +23,7 @@
 #*********************************************************************
 #*/ 
 
-# This script changes the autoglossed files in a particular corpus to allow them to fit in with Talkbank conventions, and puts them in a new folder - "submitted_to_Talkban"k.
+# This script changes the autoglossed files in a particular corpus to allow them to fit in with Talkbank conventions, and puts them in a new folder - "submitted_to_Talkbank".
 
 corpus=patagonia
 AUTO=inputs/$corpus/autoglossed

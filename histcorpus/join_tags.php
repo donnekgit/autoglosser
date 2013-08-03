@@ -33,10 +33,10 @@ if (!isset($chain))
 // $utterances="groniosaw_cgutterances";
 // $words="groniosaw_cgwords";
 // $cgfinished="groniosaw_cgfinished";
-$filename="histcorpus/ryan.txt";
-$utterances="ryan_cgutterances";
-$words="ryan_cgwords";
-$cgfinished="ryan_cgfinished";
+$filename="histcorpus/alpha.txt";
+$utterances="alpha_cgutterances";
+$words="alpha_cgwords";
+$cgfinished="alpha_cgfinished";
 
 // Concatenate the fields in the CG output file
 $sql="select * from $cgfinished order by utterance_id, location";

@@ -28,7 +28,7 @@ If not, see <http://www.gnu.org/licenses/>.
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
 
-$corpus="pat";
+$corpus="siar";
 
 $source_table="combiwords_".$corpus;
 $uniq="combiwords_".$corpus."_uniq";
@@ -50,8 +50,8 @@ while ($row=pg_fetch_object($result))
 	$result_f=pg_query($db_handle,$sql_f) or die("Can't get the items");
 	while ($row_f=pg_fetch_object($result_f))
 	{
-		$file=preg_replace("/patagonia/", "", $row_f->filename);  // Remove identical prefix from each filename (patagonia).
-		//$file=$row_f->filename;  // Or use the full filename (miami, siarad).
+		//$file=preg_replace("/patagonia/", "", $row_f->filename);  // Remove identical prefix from each filename (patagonia).
+		$file=$row_f->filename;  // Or use the full filename (miami, siarad).
         $filelist[]=$file;  // Add the filename to an array.
      }
      //print_r($filelist);

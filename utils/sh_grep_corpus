@@ -35,7 +35,7 @@
 # 7 displays matches in inverse video
 # 1;37;41 shows white text on a red background
 
-FILES=inputs/patagonia/quotes/patagonia35.cha
+FILES=inputs/siarad/beta/*.cha
 #FILES=devstuff/webster/*
 
 # set up the regex for grep to use
@@ -57,6 +57,8 @@ FILES=inputs/patagonia/quotes/patagonia35.cha
 #STRING='\(\.\.\)'
 #STRING='[[:blank:]]waw'
 #STRING='%eng:\t.* xxx '  
+#STRING='\*[A-Z]{3}:\t\+".*'  
+#STRING='%eng:\t".*'  
 #STRING='%com:\t'
 #STRING='(\(\.*\))( *)(\[\/*\])'  # pause before retrace
 #STRING='@ID.*\|\|$'
@@ -77,7 +79,15 @@ FILES=inputs/patagonia/quotes/patagonia35.cha
 #STRING='@Media.*[A-Z]'
 #STRING='%eng:\t"'
 #STRING='<.*> \["\]'
-STRING='\*[A-Z]{3}:\t.*"'
+#STRING='\*[A-Z]{3}:\t.*"'
+#STRING='[[:blank:]](.+)[[:blank:]]\1[[:blank:]]'
+#STRING='(.+)[[:blank:]]\1'
+#STRING='\*[A-Z]{3}:\t.*to have'
+#STRING='\[- eng\]'
+#STRING="[[:blank:]]dyn ni"
+#STRING='\*[A-Z]{3}:\t.*di bod'
+#STRING='\*[A-Z]{3}:\t.*sy\(dd\)'  
+STRING='###'
 
 # English files in tiers with a Spanish precode
 #STRING='\*[A-Z]{3}:\t.*\[- spa\].*[[:blank:]]mmhm@s:eng&spa'

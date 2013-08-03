@@ -62,7 +62,7 @@ while ($row1=pg_fetch_object($result1))
 
 	$j=1;  // Set a counter to hold the clause numbers we want to add to the table.
 	
-	for ($i = 0; $i = count($locarray); $i++)  // Loop through the array holding the clause-markers.
+	for ($i=0; $i=count($locarray); $i++)  // Loop through the array holding the clause-markers.
 	{
 		if(empty($locarray[1]))  // Handle the end of the utterance ...
 		{

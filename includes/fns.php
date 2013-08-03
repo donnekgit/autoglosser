@@ -456,7 +456,7 @@ function segment_eng($text)
 	$text=preg_replace("/''d$/u", "#be.v.cond", $text);  // we'd, he'd, they'd
 	$text=preg_replace("/''m$/u", "#be.v.pres", $text);  // I'm
 	$text=preg_replace("/''re$/u", "#be.v.pres", $text);  // we're, they're
-	$text=preg_replace("/''ll$/u", "#be.v.fut", $text);  // we're
+	$text=preg_replace("/''ll$/u", "#be.v.fut", $text);  // we'll
 	$text=preg_replace("/''ve$/u", "#have.v.pres", $text);  // we've, they've
 	$text=preg_replace("/''s$/u", "#gb", $text);  // father's, that's, he's
 	$text=preg_replace("/''n$/u", "#cp", $text);  // her'n, me'n, his'n, your'n
@@ -967,7 +967,7 @@ function get_speakers($words)
 }
 
 function get_linguality($array)
-// Get the linguality of a clause or utterance - edit to match Spanish/English one below
+// Get the linguality of a clause or utterance - Welsh/English
 {
 	$ling=array_count_values($array);
 	// If there is at least one cym&eng or eng word, the clause is bilingual
@@ -989,7 +989,7 @@ function get_linguality($array)
 }
 
 function get_linguality_patagonia($array)
-// Get the linguality of a clause or utterance - edit to match Spanish/English one below
+// Get the linguality of a clause or utterance - Welsh/Spanish
 {
 	$ling=array_count_values($array);
 	// If there is at least one cym&eng or eng word, the clause is bilingual
@@ -1011,7 +1011,7 @@ function get_linguality_patagonia($array)
 }
 
 function get_linguality_miami($array)
-// Get the linguality of a clause or utterance - edit to match Spanish/English one below
+// Get the linguality of a clause or utterance - Spanish/English
 {
 	$ling=array_count_values($array);
 	// If there is at least one cym&eng or eng word, the clause is bilingual
