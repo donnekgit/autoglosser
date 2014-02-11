@@ -23,6 +23,8 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
+// Compare also the file make_global_changes.php, which covers some of the same ground, but makes changes to the files in situ.  This file makes changes to the standalone header files only.
+
 if (empty($filename))
 {
     include("includes/fns.php");

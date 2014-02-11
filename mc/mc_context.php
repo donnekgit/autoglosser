@@ -27,23 +27,23 @@ If not, see <http://www.gnu.org/licenses/>.
 
 $subset=$_SERVER['argv'][1];
 //$mcout="mc_n_adj_".$subset;
-$mcout="md_ti_be";
+$mcout="peri";
 
 include("includes/fns.php");
 include("/opt/autoglosser/config.php");
     
-$fp = fopen("margaret/md_ti/{$mcout}_by_file.tex", "w") or die("Can't create the file");
+$fp = fopen("mc/mc_output/{$mcout}.tex", "w") or die("Can't create the file");
 
 $lines=file("cognates/tex_header.tex");  // Open header file containing LaTeX markup to set up the document.
 foreach ($lines as $line)
 {
 	if (preg_match("/filename(.cha)?/", $line))
 	{
-		$line=preg_replace("/filename(.cha)?/", "2S with be, ordered by filename and utterance", $line);
+		$line=preg_replace("/filename(.cha)?/", "Periphrastic forms of `bod'", $line);
 	}
 	elseif (preg_match("/infotext/", $line))
 	{
-		$line=preg_replace("/infotext/", "Patagonia", $line);
+		$line=preg_replace("/infotext/", "davies10", $line);
 	}
 	else
 	{
@@ -71,7 +71,8 @@ while ($row1=pg_fetch_object($sql1))
 	//$hit=tex_surface($row1->surface1." ".$row1->surface2." ".$row1->surface3);
 	//$hit=tex_surface($row1->surface3." ".$row1->surface2." ".$row1->surface1);
 	//$hit=tex_surface($row1->surface_before." ".$row1->surface_target." ".$row1->surface_after);
-	$hit=tex_surface($row1->surface_target." ".$row1->surface_after." ".$row1->surface_after2);
+	//$hit=tex_surface($row1->surface_target." ".$row1->surface_after." ".$row1->surface_after2);
+	$hit=tex_surface($row1->surface_target." \\dots ".$row1->surface_after);
 
 	$hit=$i.": \\textbf{".$hit."}";
 	fwrite($fp, $hit);

@@ -101,7 +101,7 @@ while ($row_s=pg_fetch_object($result_s))
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
     while ($row_w=pg_fetch_object($result_w))
     {
-        $auto.=$row_w->auto." ";
+        $auto.=$row_w->auto." ";  // FIXME: convert space to _
     }
     
     $auto="%aut:\t".trim($auto)."\n";

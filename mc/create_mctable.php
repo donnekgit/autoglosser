@@ -32,7 +32,7 @@ include("/opt/autoglosser/config.php");
 
 $subset=$_SERVER['argv'][1];
 //$mctable="pd_".$subset;
-$mctable="md_ti";
+$mctable="peri";
 
 drop_existing_table($mctable);
 

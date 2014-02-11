@@ -26,7 +26,7 @@
 # This script runs PostgreSQL stuff.
 
 # FILES=inputs/siarad/diana/*.cha
-FILES=inputs/siarad/beta/*.cha
+FILES=inputs/cig1/beta/*.cha
 
 for f in $FILES
 do
@@ -34,8 +34,9 @@ do
 	
 	filename=$(basename $f)
 	fixedfile=${filename%.cha}
-	diana=${fixedfile}_diana
+	cgutterances=${fixedfile}_cgutterances
 	cgwords=${fixedfile}_cgwords
+	diana=${fixedfile}_diana
 	nuked=${fixedfile}_cgwords_nuked
 
 # 	# -------------------------------------------------
@@ -108,6 +109,15 @@ do
 
 
 # 	# -------------------------------------------------
+# 	# Find instances of â without a to bach
+# 	# -------------------------------------------------
+# 
+# 	utt=${fixedfile}_cgutterances
+# 	words=${fixedfile}_cgwords
+# 	echo '\\a \\t \\\ select filename, surface from '$utt' where utterance_id in (select utterance_id from '$words' where surface='\'a\'' and gls='\'with\'');' | psql -h localhost -U kevin -d autoglosser -q >> siaradtrans/a_tobach.txt
+	
+	
+# 	# -------------------------------------------------
 # 	# Find location of missing sound-bullets
 # 	# -------------------------------------------------
 # 
@@ -119,6 +129,35 @@ do
 # 	echo '\\a \\t \\\ select utterance_id, surface from '$utt' where durbegin=0 and durend=0 and speaker='\'MAR\'' order by utterance_id;' | psql -h localhost -U kevin -d autoglosser -q >> miamitrans/missing_sound_bullets.txt
 # 
 # 	echo "\n"  >> miamitrans/missing_sound_bullets.txt
+
+
+#	# -------------------------------------------------
+#	# Combine the data from the utterances tables into one table
+#	# -------------------------------------------------
+
+# Run this first to create the table:
+# CREATE TABLE corpsiar/corppat ( 
+#	 	utterance_id integer,
+#		filename character varying(50),
+#	 	speaker character varying(10),
+#	 	surface text,
+#	 	english text,
+#		welsh text
+# );
+# 
+	
+# 	CREATE TABLE corpcig2 ( 
+# 		utterance_id integer,
+# 		filename character varying(20),
+# 		speaker character varying(3),
+# 		surface text
+# 	);
+
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into corpsiar select utterance_id, filename, speaker, surface, eng from $cgutterances where precode!='eng' order by utterance_id;"
+	
+# 	psql -h localhost -U kevin -d autoglosser -q -c "insert into corppat select utterance_id, filename, speaker, surface, eng from $cgutterances where precode!='spa' order by utterance_id;"
+	
+# 	psql -h localhost -U kevin -d cig1 -q -c "insert into corpcig1 select utterance_id, filename, speaker, surface from $cgutterances order by filename, utterance_id;"
 
 
 # 	# -------------------------------------------------

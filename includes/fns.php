@@ -41,6 +41,14 @@ function query($sql)
     return pg_query($db_handle,$sql);
 }
 
+function cig_query($sql)
+// simplify the query writing
+// use this as: $result=query("select * from table");
+{
+    global $db_handle3;
+    return pg_query($db_handle3,$sql);
+}
+
 function get_filename()
 // Turn the filename given to an individual script into a filename which can be used as a prefix for subsequent tables and files, and returns filepath and filename, along with tablenames based on the latter.  A directory to hold the output files is created if it does not already exist.
 // $chafile = the argument to the script; this is usually a full path to a file, but it can also be the file itself
@@ -54,7 +62,7 @@ function get_filename()
 	if (isset($chafile))
 	{
 		$filename=strtolower(basename(preg_replace("/\..*$/", "", $chafile)));  // remove the extension
-		echo "Processing $chafile...\n\n";
+// 		echo "Processing $chafile...\n\n";
 	}
 	else
 	{
@@ -209,7 +217,7 @@ function fix_transcription($text)
 }
 
 function lineclean_surface($text)
-// Remove markers and non alphanumeric characters from the surface text.
+// Remove markers and non-alphanumeric characters from the surface text.
 // Note that the order of the following lines is important.
 // Language tags using + are converted to % and back again.  Language tags using & need to be entered in the list of escaped sequences.
 {
@@ -245,6 +253,40 @@ function lineclean_surface($text)
     //$text=preg_replace("/xxx xxx/u", " ", $text);  // the regex below misses this
     $text=preg_replace("/(?:^| )x{2,3}(?: |$)/u", " ", $text); // xx, xxx - marking text that is unintelligible
     $text=preg_replace("/(^| )w{2,3}( |$)/u", " ", $text); // ww, www - marking text that is untranscribed because the speaker did not give consent.
+
+    $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
+    $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
+   
+    return $text;
+}
+
+function lineclean_corpus($text)
+// Remove markers, language tags and non-alphanumeric characters from the surface text, for use in Eurfa.
+// Note that the order of the following lines is important.
+// Language tags using + are converted to % and back again.  Language tags using & need to be entered in the list of escaped sequences.
+{
+	$text=preg_replace("/([a-z]{2,3})\+([a-z]{2,3})/", "$1%$2", $text);  // Move language tags containing + out of the way (the main cleaning line removes all +s).
+	$text=preg_replace("/([a-z]{2,3})&([a-z]{2,3})/", "$1%%$2", $text);  // Move language tags containing & out of the way (the main cleaning line removes all &s).  NOTE - no longer required?
+
+    $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
+    $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.
+
+	$text=preg_replace("/\[.[^\]]*\]/u", "", $text); // Remove anything in square brackets.
+    $text=preg_replace("/&.[^ ]* /u", "", $text);  // &=<laugh>, &k, &s, &ɬ, etc; ignore & by itself (the ones before a language tag have been moved out of the way by the line at the top)
+    $text=preg_replace("/(\.|!|\?)[^\?$]/u", "", $text); // Remove periods or exclamation/question marks that are not at the end of the sentence.  NOTE: This converts the terminator +!? to !? by retaining ! before ?.  Otherwise, the !? in +!? gets removed completely, then the + gets removed by the "delete everything else" line below, leaving a space, which gets interpreted as an unknown word :-(
+
+	$text=preg_replace("/[^a-zâêôîûŵŷáéóíúẃýàèòìùẁỳäëöïüẅÿñA-ZÂÊÔÎÛŴŶÁÉÓÍÚẂÝÀÈÒÌÙẀỲÄËÖÏÜẄŸ0-9@\.!\?_'&: %\(\)]/u", "", $text);  // Delete anything that isn't one of these characters.  Note that "&" and ":" were added to deal with Patagonia tags: @s:cy&es. Apostrophe also added because otherwise elided words don't show up properly.  % added to cover language tags like spa%%cym (< spa+cym).
+
+	$text=preg_replace("/([a-z]{2,3})%([a-z]{2,3})/", "$1+$2", $text);  // Move language tags containing + back again.
+	$text=preg_replace("/([a-z]{2,3})%%([a-z]{2,3})/", "$1&$2", $text);  // Move language tags containing & back again.
+
+	$text=preg_replace("/(?:^| )x{2,3}(?: |$)/u", " ", $text); // xx, xxx - marking text that is unintelligible
+    $text=preg_replace("/(^| )w{2,3}( |$)/u", " ", $text); // ww, www - marking text that is untranscribed because the speaker did not give consent.
+    
+    $text=preg_replace("/@s:.*\s/U", " ", $text);  // Remove language tags.
+
+	$text=preg_replace("/\( /", " ", $text);  // Remove lonely (s.
+	$text=preg_replace("/\(\) /", " ", $text);  // Remove ()s.
 
     $text=preg_replace("/^ +/u", "", $text);  // Fix spaces at beginning of line.
     $text=preg_replace("/ +/u", " ", $text);  // Fix spaces line-internally.

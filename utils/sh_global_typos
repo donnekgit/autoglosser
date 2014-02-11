@@ -24,7 +24,7 @@
 #*/ 
 
 # This script uses perl to fix all instances of a particular string in all the files in the corpus.  Sed is also a (slightly faster) option, but the drawback is that it's regex implementation is not the standard PCRE one.
-FILES=inputs/miami/beta/*.cha
+FILES=inputs/siarad/beta/*.cha
 #FILES=inputs/miami/beta/herring6_tab.cha
 
 # REMEMBER TO ESCAPE & ON THE REPLACEMENT SIDE!!!
@@ -43,7 +43,9 @@ do
 	#sed -i "/\*[A-Z]/s/\([[:blank:]]\)mmhm@s:cym\&spa /\1mmhm /g" $f
 	#sed -i "/\*[A-Z]/s/o hyd/o_hyd/g" $f
 	#sed -i "/\*[A-Z]/s/#/(.)/g" $f
-	
+	sed -ri "/\*[A-Z]/s/na\(g\) \(y\)dy/na(c) (y)dy/g" $f
+	#sed -ri "/%gls/s/in range/in_range/g" $f
+
 	#Tidying Miami begins
 	#sed -i "s/%en:/%eng:/g" $f
 	#sed -i "s/%eng:[[:blank:]]*/%eng:\o011/g" $f
@@ -85,18 +87,20 @@ do
 	#sed -ri "s/  / /g" $f
 	#sed -ri "s/([[:blank:]])ww([[:blank:]])/\1www\2/g" $f
 
+	# Fix headers
 	#sed -ri '/@Transcriber/s/Original translation/Initial translation/g' $f
 	#sed -ri '/@Media/s/0([0-9])/\1/g' $f
 	#sed -ri '/@Media/s/Patagonia/patagonia/g' $f
+	# space out exclamation and question marks
 	#sed -ri '/\*[A-Z]/s/([a-z])(\?|!)/\1 \2/g' $f
-	
+
 	# Open quote
 	#sed -ri '/%eng/s/"//' $f
 	# Close quote
 	#sed -ri '/%eng/s/"//' $f
 	
 	# New-style quotes in the speaker tier
-	sed -ri '/\*[A-Z].*/s/([[:blank:]])"([[A-Za-z].[^"]*[a-z])"([[:blank:]])/\1“\2”\3/' $f
+	#sed -ri '/\*[A-Z].*/s/([[:blank:]])"([[A-Za-z].[^"]*[a-z])"([[:blank:]])/\1“\2”\3/' $f
 	
 done
 

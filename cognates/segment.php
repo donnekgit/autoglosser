@@ -92,7 +92,7 @@ while ($row1=pg_fetch_object($result1))
 		
 		$j++;  // Increment the clause number.
 				
-		unset($auto);  // Clear the $clause variable.
+		unset($auto);  // Clear the $auto variable.
 
 		array_shift($locarray);  // Slice off the first clause-marker in the array so that we can process the next one on the next run through the loop.
 		$locarray=array_values($locarray);  // Re-index the array to start at 0 again - ie $locarray[1] becomes $locarray[0]

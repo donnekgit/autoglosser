@@ -32,6 +32,7 @@ corpus="siarad"
 #FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
 FILES=inputs/$corpus/beta/*  # Corpus tables, based on the chat files in the corpus directory.
 GZDIR=dbdevel/${corpus}_dump  # Specify the dump dir.
+#GZDIR=dbworkshop/dbs  # Specify the dump dir.
 
 mkdir -p $GZDIR
 

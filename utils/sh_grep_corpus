@@ -87,7 +87,29 @@ FILES=inputs/siarad/beta/*.cha
 #STRING="[[:blank:]]dyn ni"
 #STRING='\*[A-Z]{3}:\t.*di bod'
 #STRING='\*[A-Z]{3}:\t.*sy\(dd\)'  
-STRING='###'
+#STRING='###'
+#STRING='\*[A-Z]{3}:\t.*xxx xxx'
+#STRING='\*[A-Z]{3}:\t.*like'
+#STRING='%gls:\t.*xxx xxx'
+#STRING='%gls:\t.*\[\.\.\.\]'
+#STRING='\*[A-Z]{3}:\t.*cym&eng1'
+#STRING='%gls:\t.*past (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)'
+#STRING='%com'
+#STRING='@Comment'
+STRING='frestiau'
+#STRING='\*[A-Z]{3}:\t.*deg_(un|dau|tri|pedwar|pump|chwech|saith|naw)'
+#STRING='\*[A-Z]{3}:\t.*\(er\)s talwm'
+#STRING='%gls:\t.*in_range'
+#STRING='\*[A-Z]{3}:\t.*genod'
+#STRING='\*[A-Z]{3}:\t.*pedwar_deg_pump'
+#STRING='\*[A-Z]{3}:\t.* .[^A-Z]+@s:eng&spa.*@s:eng .*'
+#STRING='\*[A-Z]{3}:\t.* .[^A-Z]*@s:cym&spa.*@s:spa .*'
+#STRING='\*[A-Z]{3}:\t.*foreclosure'
+#STRING='\*[A-Z]{3}:\t.*ar ddeg'
+
+
+
+
 
 # English files in tiers with a Spanish precode
 #STRING='\*[A-Z]{3}:\t.*\[- spa\].*[[:blank:]]mmhm@s:eng&spa'
@@ -101,15 +123,16 @@ STRING='###'
 
 for f in $FILES
 do
-		# If using grep, uncomment the following lines:
-		#filename=$(basename $f)  # the filename from the path - file.cha
-		#path=$(dirname $f)  # the path to the file - path/to
-		#fixedfile=${filename%.cha}  # switch the filename's extension to .txt for the output file - file.txt
-		#grep -n "$STRING" $f /dev/null # -n inserts the line number in the output
-		#if [ "$?" = "0"  ] ; then  # if there is output (0) from the grep ...
-		#echo "in: $fixedfile\n"  # ...  give the name of the file on the next line
-		#fi  # An alternative to this if statement is to append /dev/null to the grep line; this means grep will get at least 2 file arguments, effectively forcing it to print the filename if it happens to match the pattern. However, grep then prints the filename on the same line as the text, and for every match, which is not elegant.
-	ack-grep "$STRING" $f /dev/null  # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
+	# If using grep, uncomment the following lines:
+	#filename=$(basename $f)  # the filename from the path - file.cha
+	#path=$(dirname $f)  # the path to the file - path/to
+	#fixedfile=${filename%.cha}  # switch the filename's extension to .txt for the output file - file.txt
+	#grep -n "$STRING" $f /dev/null # -n inserts the line number in the output
+	#if [ "$?" = "0"  ] ; then  # if there is output (0) from the grep ...
+	#echo "in: $fixedfile\n"  # ...  give the name of the file on the next line
+	#fi  # An alternative to this if statement is to append /dev/null to the grep line; this means grep will get at least 2 file arguments, effectively forcing it to print the filename if it happens to match the pattern. However, grep then prints the filename on the same line as the text, and for every match, which is not elegant.
+	ack-grep -C1 "$STRING" $f /dev/null  # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
+	# -Cx gives lines of context on either side of the match.
 	#ack-grep '^%eng' $f /dev/null | ack-grep 'eisteddfod' 
 	#ack-grep '^\*[A-Z]' $f /dev/null | ack-grep "$STRING" 
 done

@@ -148,6 +148,7 @@ remove ("gwadu" [cy] :deny:);
 remove ("gwelwi" [cy] :dim:);
 #remove ("gyrru" v 3s pres :drive:);
 #remove ("gyrru" v 2s imper :drive:);
+remove ("hela" [cy] :hunt:);
 remove ("hogi" [cy] :whet:);
 remove ("huno" [cy] :sleep:);
 remove ("iau" [cy] :liver:); 
@@ -316,7 +317,7 @@ select ([cy] "yn" prep) if (1 ("be" int));  # yn be
 select ([cy] "yn" prep) if (-1 ("hyd" n)) (1 ("hwn" pron.dem));  # hyd yn hyn
 select ([cy] "yn" prep) if (1 welshmonth);  # yn Mawrth
 
-select ([cy] "wedi" prep) if (1 ([cy] v infin));  # wedi gweld
+select ([cy] "wedi" prt.past) if (1 ([cy] v infin));  # wedi gweld
 
 #select ([cy] "i" prep) if (1 (sm));
 select ([cy] "i" pron 1s) if (-1 ([cy] "gan" prep));
