@@ -21,7 +21,7 @@
  * anybody whomsoever, so long as the author is acknowledged annd no changes
  * are made to the source code without prior agreement with the author.
  *
- * @author     Florian Breit <f.breit@univ.bangor.ac.uk>
+ * @author     Florian Breit <florian.breit.12@ucl.ac.uk>
  * @copyright  2012 Florian Breit
  * @version    1.0.0
  */
