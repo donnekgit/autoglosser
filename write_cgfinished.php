@@ -40,42 +40,42 @@ foreach ($lines as $line_num => $line)
     if (preg_match("/^\"</", $line))
     {
         preg_match("/<(?P<surface>.*)>/", $line, $quote);  // Get the surface form.
-        $surface=$quote[surface];
+        $surface=$quote['surface'];
         //echo $surface."\n";
     }
     elseif (preg_match("/^\t\"/", $line))  // Lines with the lexeme (lemma).
     {
 		preg_match("/\"(?P<lemma>.+)\"/", $line, $mylemma);  // Get the lemma.
-        $lemma=$mylemma[lemma];
+        $lemma=$mylemma['lemma'];
 
 		preg_match("/ :(?P<enlemma>.+): /", $line, $myenlemma);  // Get the enlemma.
-        $enlemma=$myenlemma[enlemma];
+        $enlemma = empty($myenlemma['enlemma']) ? '' : $myenlemma['enlemma'];
 
         preg_match("/{(?P<utt>\d+),(?P<loc>\d+)}/", $line, $place);  // Get the place (utterance, location).
-        $utt=$place[utt];
-        $loc=$place[loc];
+        $utt=$place['utt'];
+        $loc=$place['loc'];
         //echo $utt.",".$loc."\n";
 
         preg_match("/\[(?P<langid>\w\w)\]/", $line, $language);  // Get the language.
-        $langid=$language[langid];
+        $langid=$language['langid'];
         //echo $langid."\n";
 
         preg_match("/\[(?P<dictid>\d+)\]/", $line, $dict);  // Get the dictionary entry by id.
-        $dictid=$dict[dictid];
+        $dictid = empty($dict['dictid']) ? '' : $dict['dictid'];
         //echo $dictid."\n";
 
 		preg_match("/\] (?P<subtags>.+) :/", $line, $subtag);  // Get any rewritten (substituted) tags as one string.
-        $subtags=$subtag[subtags];
+        $subtags = empty($subtag['subtags']) ? '' : $subtag['subtags'];
 		$subtags=preg_replace("/ /", ".", $subtags);  // Insert a dot between POS tags.
         //echo $subtags."\n";
 
         preg_match("/\+ (?P<extras>.+)$/", $line, $extra);  // Get any clitics, eg +sm.
-        $extras=$extra[extras];
+        $extras = empty($extra['extras']) ? '' : $extra['extras'];
         //echo $extras."\n";
 		$extras=preg_replace('/ # .*/','', $extras);  // Where a segmentation follows, it will be included, so remove it.
 
 		preg_match("/# (?P<segs>.+)$/", $line, $seg);  // Get any segmentations and accompanying POS rewrites, eg +pl.
-        $segs=$seg[segs];
+        $segs = empty($seg['segs']) ? '' : $seg['segs'];
         //echo $segs."\n";
 
 		if(preg_match("/ name$/", $line)){ $enlemma='name'; }  // To avoid trapping "namely".

@@ -38,7 +38,7 @@ $lines=file("outputs/$filename/$filename.header");  // Open the header file.
 
 foreach ($spdata as $data=>$speaker)  // Loop through the speakers - miami
 {
-	$parts[$speaker][id]=$speaker;
+	$parts[$speaker]['id']=$speaker;
 	
 	foreach ($lines as $line)
 	{
@@ -55,7 +55,7 @@ foreach ($spdata as $data=>$speaker)  // Loop through the speakers - miami
 				// To handle the  years;months.days format, as in 2;11.17 for 2 years, 11 months, and 17 days.
 				$details=preg_replace("/;,/", " yr,", $details);
 			}
-			$parts[$speaker][details]=$details;
+			$parts[$speaker]['details']=$details;
 		}
 		
 		if (preg_match("/@Participants/", $line) and preg_match("/$speaker/", $line))  // Get full pseudonyms
@@ -63,17 +63,17 @@ foreach ($spdata as $data=>$speaker)  // Loop through the speakers - miami
 			$nyms=explode($speaker, $line);
 			$name=explode(" ", trim($nyms[1]));
 			$name=$name[0];
-			$parts[$speaker][name]=$name;
+			$parts[$speaker]['name']=$name;
 		}
 	}
 	unset ($speaker, $details, $name, $id);
 }
 
 // print_r($parts);
-
+$person = '';
 foreach ($parts as $part)
 {
-	$person.=$part[name]. " (".$part[id]." - ".$part[details]."), ";
+	$person.=$part['name']. " (".$part['id']." - ".$part['details']."), ";
 }
 echo "Participants: ".substr(trim($person), 0, -1).".\n";
 

@@ -74,7 +74,7 @@ while ($row_s=pg_fetch_object($result_s))
 	if (preg_match("/^(?P<link>\+[<^\+\",])/", $chat, $linker))  // Keep continuation markers at the beginning of the line.
 	{
 		$chat=preg_replace("/^(\+[<^\+\",] )/", "", $chat);
-		$chat=$row_s->speaker.":\t".$linker[link]." ".$precode.$chat;
+		$chat=$row_s->speaker.":\t".$linker['link']." ".$precode.$chat;
 	}
 	else
 	{
@@ -83,6 +83,7 @@ while ($row_s=pg_fetch_object($result_s))
 
     $sql_w="select * from $words where utterance_id=$row_s->utterance_id and langid!='999' order by location";
 	$result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
+	$mor = $gls = $auto = $surface = ''; //Set these so they can later be referred to via .=
 	while ($row_w=pg_fetch_object($result_w))
 	{
 		$row_w->surface=tex_surface($row_w->surface);  // comment out _ and % to keep LaTeX happy.
@@ -126,14 +127,14 @@ while ($row_s=pg_fetch_object($result_s))
 
 		$surface.=$row_w->surface." ";  // Note that you  need to set up an empty $surface first - see above.
 		
-		$row_w->auto=tex_auto($row_w->auto);
+		$row_w->auto=tex_auto(isset($row_w->auto)?$row_w->auto:'');
 		//$row_w->auto=tex_pos_colour($row_w->auto);  // Uncomment to get colour-coded POS tags.
 		$auto.=$row_w->auto." "; // Note that you  need to set up an empty $auto first - see above.
 
-		$row_w->gls=tex_auto($row_w->gls);
+		$row_w->gls=tex_auto(isset($row_w->gls)?$row_w->gls:'');
 		$gls.=$row_w->gls." ";
 		
-		$row_w->mor=tex_mor($row_w->mor);
+		$row_w->mor=tex_mor(isset($row_w->mor)?$row_w->mor:'');
 		$mor.=$row_w->mor." ";
 	}
 
@@ -144,7 +145,7 @@ while ($row_s=pg_fetch_object($result_s))
 	echo $wchat."\n";
 	fwrite($fp, $wchat);
 
-	if ($surface!='')  // Provided there is verbal content in the line ...
+	if ( !empty($surface) )  // Provided there is verbal content in the line ...
 	{
 		$wsurface="\gla ".$row_s->speaker.": ".$surface." //\n";
 		echo $wsurface."\n";

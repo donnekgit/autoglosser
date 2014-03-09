@@ -75,6 +75,7 @@ if ($desoftsurface!=$surface)
             $enlemma=":".$row_sm->enlemma.": ";
             $id="[".$row_sm->id."]";
             if (isset($plusmark) and ($pos=='n')) { $number=$plusmark; }  // Over-ride $number for nouns only if there is a plural marker after + in cym+eng.
+            if( empty($mutation) ) { $mutation = ''; }
             $entry=pg_escape_string($lemma.$place."[cy] ".$pos.$mutation.$gender.$number.$tense.$notes.$enlemma.$id." + sm")."\n"; 
             fwrite($fp, $entry);  // Write
             echo $entry;  // View

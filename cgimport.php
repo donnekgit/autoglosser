@@ -112,7 +112,7 @@ foreach ($lines as $line)
         $speaker=preg_replace("/\*/", "", $surface_line[0]);  // Delete the asterisk before the speaker_id.
         $rest=$surface_line[1];
         
-        list($surface, $timing)=explode('', $rest);  // NAK is Unicode 0015; split at this character.
+        @list($surface, $timing)=explode('', $rest);  // NAK is Unicode 0015; split at this character.
         
         // Strip off and store the precode, if any
 		if (preg_match("/(?P<precode>\[- ?[a-z]{3}\])/", $surface, $pc))  // If the segment contains square brackets with a dash and a three-letter code.  Allow for people leaving out the space after the hyphen.
@@ -121,6 +121,11 @@ foreach ($lines as $line)
 			$precode=trim(preg_replace("/\[- ?/", "", $pc[precode]));
 			$precode=trim(preg_replace("/\]/", "", $precode));
 		}
+		
+		/* As with $sourcefile below, $precode seems to only be set sometimes
+		   but is used in the code below as if it had been set. As a stopgap
+		   again set it to the empty string if it is empty. */
+		if( empty($precode) ) { $precode = ''; }
 
         if (isset($timing))
 		{
@@ -136,7 +141,11 @@ foreach ($lines as $line)
 			$duration=0;
 		}
 		
+		/* It appears $sourcefile is empty sometimes. I'm not sure why, but $sourcefile=$filename
+		   was supposedly commented out on purpose, so to avoide a PHP Notice I've added the line
+		   below setting it to '' if empty. */
 		//if (empty($sourcefile)){$sourcefile=$filename;}
+		if( empty($sourcefile) ) { $sourcefile = ''; }
 		
         $speaker=trim(pg_escape_string($speaker));
         $surface=trim(pg_escape_string($surface));
