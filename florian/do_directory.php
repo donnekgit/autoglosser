@@ -16,14 +16,27 @@
  *
  * PHP Version 5.3
  *
- * LICENSE: This piece of software was developed as part of a BA (Hons)
- * dissertation at Bangor University. It may be freely distributed and used by
- * anybody whomsoever, so long as the author is acknowledged annd no changes
- * are made to the source code without prior agreement with the author.
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License or the GNU
+ * Affero General Public License as published by the Free Software
+ * Foundation, either version 3 of the License, or (at your option)
+ * any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * and the GNU Affero General Public License along with this program.
+ * If not, see <http://www.gnu.org/licenses/>.
  *
  * @author     Florian Breit <florian.breit.12@ucl.ac.uk>
  * @copyright  2012 Florian Breit
  * @version    1.0.0
+ * @package    BangorAutoglosser
+ * @license    http://www.gnu.org/licenses/gpl.html
+ * @license    http://www.gnu.org/licenses/agpl.html
  */
 
 //Set up PHP to report all errors
