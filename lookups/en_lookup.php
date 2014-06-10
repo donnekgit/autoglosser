@@ -93,6 +93,7 @@ $sql_en="select * from enlist where surface='$surface'";
 $result_en=pg_query($db_handle,$sql_en) or die("Can't get the items");
 if (pg_num_rows($result_en)>0)
 {
+    $entry = '';
     while ($row_en=pg_fetch_object($result_en))
     {
         $lemma="\t\"".$row_en->lemma."\" ";

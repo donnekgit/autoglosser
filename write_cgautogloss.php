@@ -86,7 +86,7 @@ while ($row_s=pg_fetch_object($result_s))
 	if (preg_match("/^(?P<link>\+[<^\+\",])/", $surface, $linker))  // Keep continuation markers at the beginning of the line - if a  continuation marker exists, copy it into the [link] key of the $linker array, and do the following:
 	{
 		$surface=preg_replace("/^(\+[<^\+\",] )/", "", $surface);  // Remove the continuation marker.
-		$speech="*".$row_s->speaker.":\t".$linker[link]." ".$precode.$surface.$sound_bullet."\n";  // Add it back in again from the $linker array, and insert the precode after it.
+		$speech="*".$row_s->speaker.":\t".$linker['link']." ".$precode.$surface.$sound_bullet."\n";  // Add it back in again from the $linker array, and insert the precode after it.
 	}
 	else  // If there is no continuation marker, just insert the precode.
 	{
@@ -99,6 +99,7 @@ while ($row_s=pg_fetch_object($result_s))
 // Comment this section out if you want to write out a file directly from the utterances table.
 	$sql_w="select * from $words where utterance_id=$row_s->utterance_id order by location";
     $result_w=pg_query($db_handle,$sql_w) or die("Can't get the items");
+    $auto='';
     while ($row_w=pg_fetch_object($result_w))
     {
         $auto.=$row_w->auto." ";  // FIXME: convert space to _
