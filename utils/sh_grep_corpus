@@ -96,7 +96,9 @@ FILES=inputs/siarad/beta/*.cha
 #STRING='%gls:\t.*past (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)'
 #STRING='%com'
 #STRING='@Comment'
-STRING='frestiau'
+# STRING='o \(y\)n'
+# STRING='be.IM[^\+SM]'
+STRING='yn rhaid'
 #STRING='\*[A-Z]{3}:\t.*deg_(un|dau|tri|pedwar|pump|chwech|saith|naw)'
 #STRING='\*[A-Z]{3}:\t.*\(er\)s talwm'
 #STRING='%gls:\t.*in_range'
@@ -131,7 +133,7 @@ do
 	#if [ "$?" = "0"  ] ; then  # if there is output (0) from the grep ...
 	#echo "in: $fixedfile\n"  # ...  give the name of the file on the next line
 	#fi  # An alternative to this if statement is to append /dev/null to the grep line; this means grep will get at least 2 file arguments, effectively forcing it to print the filename if it happens to match the pattern. However, grep then prints the filename on the same line as the text, and for every match, which is not elegant.
-	ack-grep -C1 "$STRING" $f /dev/null  # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
+	ack-grep "$STRING" $f /dev/null  # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
 	# -Cx gives lines of context on either side of the match.
 	#ack-grep '^%eng' $f /dev/null | ack-grep 'eisteddfod' 
 	#ack-grep '^\*[A-Z]' $f /dev/null | ack-grep "$STRING" 

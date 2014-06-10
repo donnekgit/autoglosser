@@ -33,7 +33,7 @@ if (empty($filename))
 }
 
 //$fp = fopen("$chafile", "r+") or die("Can't create the file");
-$fp = fopen("outputs/$filename/$filename.fixed", "w") or die("Can't create the file");
+$fp=fopen("outputs/$filename/$filename.fixed", "w") or die("Can't create the file");
 
 $lines=file("$chafile");  // Open the chat file.
 foreach ($lines as $line)
@@ -42,8 +42,10 @@ foreach ($lines as $line)
 	{
 		// Change the language tags - without this change, CLAN apps such as freq will not work properly
 // 		$line=preg_replace("/cy, ?es, ?en/", "cym, spa, eng", $line);
-// 		$line=preg_replace("/cy, ?es/", "cym, spa", $line); 
-// 		$line=preg_replace("/es, ?cy/", "spa, cym", $line);  
+// 		$line=preg_replace("/cy, ?es/", "cym, spa", $line);
+// 		$line=preg_replace("/es, ?cy/", "spa, cym", $line);
+// 		$line=preg_replace("/cy, ?en/", "cym, eng", $line); 
+// 		$line=preg_replace("/en, ?cy/", "eng, cym", $line); 
 // 		$line=preg_replace("/es, ?en/", "spa, eng", $line);  
 // 		$line=preg_replace("/en, ?es/", "eng, spa", $line);
 // 		$line=preg_replace("/cy\|/", "cym|", $line);  
@@ -56,7 +58,7 @@ foreach ($lines as $line)
 	}
 	elseif (preg_match("/@Comment:	Filename:/", $line))
 	{
-		$line=preg_replace("/^.*$\n/", "", $line);
+// 		$line=preg_replace("/^.*$\n/", "", $line);
 	}
 	elseif (preg_match("/(UNFINISHED|UNPROOFED)/", $line))  // Remove any warnings or comments that suggest the file is unfinished.
 	{
