@@ -14,7 +14,7 @@
 
 # Alternatively, if it's the same file all the time, just hardcode the paths, and then run copy_git_file.sh
 FILE=cylist.sql  # The first argument to the script - the file you want moved.
-SOURCE=/home/kevin/autoglosser/dbs  # The second argument to the script - the dir in the existing repo where the file is located.
+SOURCE=/home/kevin/data/autoglosser/dbs  # The second argument to the script - the dir in the existing repo where the file is located.
 DESTINATION=/home/kevin/data/cylist
 
 mkdir -p $DESTINATION

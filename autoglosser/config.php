@@ -23,7 +23,6 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// $db_handle=pg_connect('host=localhost dbname=autoglosser user=kevin password=kevindbs');
-$db_handle=pg_connect('host=localhost dbname=siarad2 user=kevin password=kevindbs');
+$db_handle=pg_connect('host=localhost dbname=autoglosser user=kevin password=kevindbs');
 
 ?>

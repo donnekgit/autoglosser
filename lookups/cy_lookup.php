@@ -80,6 +80,7 @@ if ($desoftsurface!=$surface)
             fwrite($fp, $entry);  // Write
             echo $entry;  // View
             unset($entry);  // Clear the decks
+            
         }
     }
 }

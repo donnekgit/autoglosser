@@ -1,3 +1,211 @@
+Peredur [det]+adjW+nW or [det]+nE+adjE October 2015
+----------------------------------------------------------------------
+
+Use mc_dna_siarad, which contains trigrams where the first element is a determiner.
+
+create table peredur_siarad_dan_welsh as select filename, utterance_id, surface1, surface2, surface3 from mc_dna_siarad where auto1~'\.DET\.DEF' and langid2='cym' and langid3='cym' and auto2~'\.ADJ' and auto3~'\.N\.';
+
+alter table peredur_siarad_dan_welsh add column surface text;
+
+create table peredur_siarad_dna_english as select filename, utterance_id, surface1, surface2, surface3 from mc_dna_siarad where auto1~'\.DET\.DEF' and langid2='eng' and langid3='eng' and auto2~'\.N\.' and auto3~'\.ADJ';
+
+alter table peredur_siarad_dna_english add column surface text;
+
+Edit and run mc_dna_fill_surface.php to fill the surface column each time.
+
+
+MC DP project, October 2014
+------------------------------------
+
+Edit mc_trigram_pd to select the target words, and then run sh_run_mc to fill the following table:
+CREATE TABLE mc_dna_miami (
+    id serial,
+    filename character varying(50),
+    utterance_id integer,
+    location integer,
+    surface1 character varying(100),
+    surface2 character varying(100),
+    surface3 character varying(100),
+    auto1 character varying(250),
+    auto2 character varying(250),
+    auto3 character varying(250),
+    langid1 character varying(20),
+    langid2 character varying(20),
+    langid3 character varying(20),
+    use character varying(20)
+);
+
+create table mc_miami_dna_spanish_indef as select filename, utterance_id, surface1, surface2, surface3 from mc_dna_miami where auto1~'\.DET\.INDEF' and langid1='spa' and langid2='spa' and langid3='spa' and auto2~'\.(ADJ|N\.)' and auto3~'\.(ADJ|N\.)';
+
+alter table mc_miami_dna_spanish_indef add column surface text;
+
+create table mc_miami_dan_english_def as select filename, utterance_id, surface1, surface2, surface3 from mc_dna_miami where auto1~'\.DET\.DEF' and langid1='eng' and langid2='eng' and langid3='eng' and auto2~'\.(ADJ|N\.)' and auto3~'\.(ADJ|N\.)';
+
+alter table mc_miami_dan_english_def add column surface text;
+
+create table mc_siarad_dna_welsh_def as select filename, utterance_id, surface1, surface2, surface3 from mc_dna_siarad where auto1~'\.DET\.DEF' and langid1='cym' and langid2='cym' and langid3='cym' and auto2~'\.(ADJ|N\.)' and auto3~'\.(ADJ|N\.)';
+
+alter table mc_siarad_dna_welsh_def add column surface text;
+
+Edit and run mc_dna_fill_surface.php to fill the surface column each time.
+
+
+(continued) MC DP project, October 2015 (!)
+-------------------------------------------------------
+
+She needs DNs alone, whereas above was DNAs.
+ 
+Use the same two tables, mc_dna_miami and mc_dna_siarad, since these already contain target sequences beginning with a det.
+ 
+create table mc_miami_dn_spanish_indef as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.INDEF' and langid1='spa' and langid2='spa' and auto2~'\.N\.'; 
+ 
+alter table mc_miami_dn_spanish_indef add column surface text;
+ 
+Edit and run mc_dna_fill_surface.php to fill the surface column each time.
+
+create table mc_miami_dn_spanish_def as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.DEF' and langid1='spa' and langid2='spa' and auto2~'\.N\.';  
+ 
+alter table mc_miami_dn_spanish_def add column surface text;
+
+create table mc_miami_dn_english_indef as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.INDEF' and langid1='eng' and langid2='eng' and auto2~'\.N\.'; 
+ 
+alter table mc_miami_dn_english_indef add column surface text;
+
+create table mc_miami_dn_english_def as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.DEF' and langid1='eng' and langid2='eng' and auto2~'\.N\.'; 
+
+alter table mc_miami_dn_english_def add column surface text;
+
+create table mc_siarad_dn_english_indef as select filename, utterance_id, surface1, surface2 from mc_dna_siarad where auto1~'\.DET\.INDEF' and langid1='eng' and langid2='eng' and auto2~'\.N\.'; 
+
+alter table mc_siarad_dn_english_indef add column surface text;
+
+create table mc_siarad_dn_english_def as select filename, utterance_id, surface1, surface2 from mc_dna_siarad where auto1~'\.DET\.DEF' and langid1='eng' and langid2='eng' and auto2~'\.N\.'; 
+
+alter table mc_siarad_dn_english_def add column surface text;
+
+create table mc_siarad_dn_welsh_def as select filename, utterance_id, surface1, surface2 from mc_dna_siarad where auto1~'\.DET\.DEF' and langid1='cym' and langid2='cym' and auto2~'\.N\.'; 
+
+alter table mc_siarad_dn_welsh_def add column surface text;
+
+Edit and run mc_dna_fill_surface.php to fill the surface column each time.
+
+
+(continued) MC DP project, June 2016
+-----------------------------------------------
+
+create table mc_miami_dn_esmixed_def as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.DEF' and langid1='eng' and langid2='spa' and auto2~'\.N\.'; 
+
+alter table mc_miami_dn_esmixed_def add column surface text;
+
+create table mc_miami_dn_semixed_def as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.DEF' and langid1='spa' and langid2='eng' and auto2~'\.N\.'; 
+
+alter table mc_miami_dn_semixed_def add column surface text;
+
+create table mc_miami_dn_semixed_indef as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.INDEF' and langid1='spa' and langid2='eng' and auto2~'\.N\.'; 
+
+alter table mc_miami_dn_semixed_indef add column surface text;
+
+create table mc_miami_dn_esmixed_indef as select filename, utterance_id, surface1, surface2 from mc_dna_miami where auto1~'\.DET\.INDEF' and langid1='eng' and langid2='spa' and auto2~'\.N\.'; 
+
+alter table mc_miami_dn_esmixed_indef add column surface text;
+
+create table mc_siarad_dn_ewmixed_indef as select filename, utterance_id, surface1, surface2 from mc_dna_siarad where auto1~'\.DET\.INDEF' and langid1='eng' and langid2='cym' and auto2~'\.N\.'; 
+(No instances found)
+
+create table mc_siarad_dn_ewmixed_def as select filename, utterance_id, surface1, surface2 from mc_dna_siarad where auto1~'\.DET\.DEF' and langid1='eng' and langid2='cym' and auto2~'\.N\.'; 
+(No instances found)
+
+create table mc_siarad_dn_wemixed_def as select filename, utterance_id, surface1, surface2 from mc_dna_siarad where auto1~'\.DET\.DEF' and langid1='cym' and langid2='eng' and auto2~'\.N\.'; 
+
+alter table mc_siarad_dn_wemixed_def add column surface text;
+
+Edit and run sh_run_mc, which calls mc_trigram.php for each file.
+
+Generate mc_dna_patagonia:
+CREATE TABLE mc_dna_patagonia (
+    id serial,
+    filename character varying(50),
+    utterance_id integer,
+    location integer,
+    surface1 character varying(100),
+    surface2 character varying(100),
+    surface3 character varying(100),
+    auto1 character varying(250),
+    auto2 character varying(250),
+    auto3 character varying(250),
+    langid1 character varying(20),
+    langid2 character varying(20),
+    langid3 character varying(20),
+    use character varying(20)
+);
+
+
+(continued) MC DP project, June 2016
+-----------------------------------------------
+
+We need to try and get the ML for the surface text.
+alter table mc_miami_dn_semixed_indef add column surface text;
+Then run mc_fill_auto.php to gather the surface and auto, split it, and guess the ML.  Full method in email: Spanish-English data analysis, 17 June 2016.
+
+
+
+
+
+MC VAdvO project, November 2014
+--------------------------------------------
+
+"We are looking at what happens when an adverb intervenes between the verb and the object in code-switching. We would need any strings of Verb+Adv+Obj."
+
+First, collect all 5-grams where the first word is a verb into a new table, mc_vao_miami, by running mc_ngram_vao.php through sh_run_mc.
+
+CREATE TABLE mc_vao_miami (
+    id serial,
+    filename character varying(50),
+    utterance_id integer,
+    location integer,
+    surfacet character varying(100),
+    surfacea1 character varying(100),
+    surfacea2 character varying(100),
+    surfacea3 character varying(100),
+    surfacea4 character varying(100),
+    surfacea5 character varying(100),
+    autot character varying(250),
+    autoa1 character varying(250),
+    autoa2 character varying(250),
+    autoa3 character varying(250),
+    autoa4 character varying(250),
+    autoa5 character varying(250),
+    langidt character varying(20),
+    langida1 character varying(20),
+    langida2 character varying(20),
+    langida3 character varying(20),
+    langida4 character varying(20),
+    langida5 character varying(20),
+    use character varying(20)
+);
+
+Delete all where slots 2-3 are null (by definition, we need  at least 3 slots filled):
+delete from mc_vao_miami where (surfacea1 isnull or surfacea1='.');
+delete from mc_vao_miami where (surfacea2 isnull or surfacea2='.');
+
+Select ADV in slot following target:
+create table mc_vao_miami_a1_adv as select * from mc_vao_miami where autoa1~'\.ADV';
+
+Select N following that:
+select * from mc_vao_miami_a1_adv where autoa2~'\.N\.' order by filename, utterance_id, location;
+and tick "use" as y for each one that is relevant.
+
+Do the same two steps for an adverb in a2.
+
+create table mc_vao_miami_vao as select * from mc_vao_miami_a1_adv where use='y';
+insert into table mc_vao_miami_vao select * from mc_vao_miami_a2_adv where use='y';
+
+create table mc_vao_miami_final as select filename, utterance_id, location, surfacet, surfacea1, surfacea2, surfacea3 from mc_vao_miami_vao;
+alter table mc_vao_miami_final add column surface text;
+
+Run mc_dna_fill_surface.php.
+
+
 MC project on adjectives
 ========================
 
@@ -19,6 +227,7 @@ select * from (select surface1, surface2, count(*) from mc_n_adj where use is nu
 select langid1||'-'||langid2 as languages, pos1||'-'||pos2 as structure, count(langid1||'-'||langid2) from mc_n_adj_siarad where use is null or use='' group by langid1||'-'||langid2, pos1||'-'||pos2
 
 select langid1||'-'||langid2 as languages, pos1||'-'||pos2 as structure, count(langid1||'-'||langid2) from mc_n_adj_siarad where use='t' group by langid1||'-'||langid2, pos1||'-'||pos2
+
 
 Method
 ------------

@@ -28,11 +28,12 @@
 # Use sh_global_update_corpus to import these compressed dumps back into a database.
 
 corpus="siarad"
+db="autoglosser"
 
 #FILES="herring1 herring10 herring7 herring9 sastre1 zeledon1"  # Individual table names.
 FILES=inputs/$corpus/beta/*  # Corpus tables, based on the chat files in the corpus directory.
-GZDIR=dbdevel/${corpus}_dump  # Specify the dump dir.
-#GZDIR=dbworkshop/dbs  # Specify the dump dir.
+GZDIR=dbdevel/${corpus}_cgutterances_dump  # Specify the dump dir.
+#GZDIR=cognates/dbdumps  # Specify the dump dir.
 
 mkdir -p $GZDIR
 
@@ -42,6 +43,27 @@ do
 	chat=${filename%.cha}  # drop the filename's extension
 	
 	echo "Processing $chat ..."
-	pg_dump -t ${chat}_cgutterances --clean autoglosser | gzip > $GZDIR/${chat}_cgutterances.sql.gz
-	pg_dump -t ${chat}_cgwords --clean autoglosser | gzip > $GZDIR/${chat}_cgwords.sql.gz
+	pg_dump -t ${chat}_cgutterances --clean $db | gzip > $GZDIR/${chat}_cgutterances.sql.gz
+# 	pg_dump -t ${chat}_cgwords --clean $db | gzip > $GZDIR/${chat}_cgwords.sql.gz
+# 	pg_dump -t ${chat}_cgfinished --clean $db | gzip > $GZDIR/${chat}_cgfinished.sql.gz
+	#pg_dump -t ${chat}_cgwords_nuked --clean $db | gzip > $GZDIR/${chat}_cgwords_nuked.sql.gz
+	#pg_dump -t ${chat}_diana --clean $db | gzip > $GZDIR/${chat}_diana.sql.gz
+	#pg_dump -t ${chat}_mixedmodel --clean $db | gzip > $GZDIR/${chat}_mixedmodel.sql.gz
+	#pg_dump -t ${chat}_mirjam --clean $db | gzip > $GZDIR/${chat}_mirjam.sql.gz
+
+##### WARNING #####
+	# Enabling the following lines will delete data!
+	# Be sure this is what you want to do!
+	# It's safest to run ths script twice - once with the dump code above activated, and this deactivated, and then vice versa.
+	#export PGPASSWORD="kevindbs"
+	#psql -h localhost -U kevin -d $db -q -c "drop table ${chat}_cgutterances cascade"
+	#psql -h localhost -U kevin -d $db -q -c "drop table ${chat}_cgwords cascade"
+	#psql -h localhost -U kevin -d $db -q -c "drop table ${chat}_cgfinished cascade"
+	#psql -h localhost -U kevin -d $db -q -c "drop table ${chat}_cgwords_nuked cascade"
+	#psql -h localhost -U kevin -d $db -q -c "drop table ${chat}_diana cascade"
+	#psql -h localhost -U kevin -d $db -q -c "drop table ${chat}_mixedmodel cascade"
+	#psql -h localhost -U kevin -d $db -q -c "drop table ${chat}_mirjam cascade"
+	#export PGPASSWORD=
+##### #####
+
 done

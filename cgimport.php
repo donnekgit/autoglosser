@@ -112,7 +112,7 @@ foreach ($lines as $line)
         $speaker=preg_replace("/\*/", "", $surface_line[0]);  // Delete the asterisk before the speaker_id.
         $rest=$surface_line[1];
         
-        @list($surface, $timing)=explode('', $rest);  // NAK is Unicode 0015; split at this character.
+        list($surface, $timing)=explode('', $rest);  // NAK is Unicode 0015; split at this character.
         
         // Strip off and store the precode, if any
 		if (preg_match("/(?P<precode>\[- ?[a-z]{3}\])/", $surface, $pc))  // If the segment contains square brackets with a dash and a three-letter code.  Allow for people leaving out the space after the hyphen.

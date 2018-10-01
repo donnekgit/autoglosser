@@ -35,7 +35,8 @@
 # 7 displays matches in inverse video
 # 1;37;41 shows white text on a red background
 
-FILES=inputs/siarad/beta/*.cha
+FILES=inputs/siarad1/beta/*.cha
+#FILES="inputs/siarad/beta/davies2.cha inputs/siarad/beta/fusser6.cha"
 #FILES=devstuff/webster/*
 
 # set up the regex for grep to use
@@ -64,7 +65,7 @@ FILES=inputs/siarad/beta/*.cha
 #STRING='@ID.*\|\|$'
 #STRING='[[:blank:]]uh[[:blank:]]'
 #STRING='[[:blank:]]w[[:blank:]]'
-#STRING='[^w]ww '
+# STRING='[^w]ww '
 #STRING='www [^\.]'
 #STRING='\*[A-Z]{3}:\t.*hotel'
 #STRING='\.SM'
@@ -98,7 +99,7 @@ FILES=inputs/siarad/beta/*.cha
 #STRING='@Comment'
 # STRING='o \(y\)n'
 # STRING='be.IM[^\+SM]'
-STRING='yn rhaid'
+#STRING='rhoi.*gorau'
 #STRING='\*[A-Z]{3}:\t.*deg_(un|dau|tri|pedwar|pump|chwech|saith|naw)'
 #STRING='\*[A-Z]{3}:\t.*\(er\)s talwm'
 #STRING='%gls:\t.*in_range'
@@ -108,9 +109,15 @@ STRING='yn rhaid'
 #STRING='\*[A-Z]{3}:\t.* .[^A-Z]*@s:cym&spa.*@s:spa .*'
 #STRING='\*[A-Z]{3}:\t.*foreclosure'
 #STRING='\*[A-Z]{3}:\t.*ar ddeg'
-
-
-
+#STRING='\b(l?lawn|g?wag|trwm|drwm|ysgafn|caled|galed|meddal|feddal|l?lym|miniog|finiog|twp|dwp)\b'
+#STRING='llym'
+#STRING='yeah@s:cym '
+#STRING='[td]rwodd'
+#STRING='uhuh@s:eng'
+#STRING='%eng:\tZ'
+#STRING="o\(edde\)ch"
+#STRING="kenavo"
+STRING="wow@s"
 
 
 # English files in tiers with a Spanish precode
@@ -125,6 +132,7 @@ STRING='yn rhaid'
 
 for f in $FILES
 do
+	# grep ...
 	# If using grep, uncomment the following lines:
 	#filename=$(basename $f)  # the filename from the path - file.cha
 	#path=$(dirname $f)  # the path to the file - path/to
@@ -133,10 +141,16 @@ do
 	#if [ "$?" = "0"  ] ; then  # if there is output (0) from the grep ...
 	#echo "in: $fixedfile\n"  # ...  give the name of the file on the next line
 	#fi  # An alternative to this if statement is to append /dev/null to the grep line; this means grep will get at least 2 file arguments, effectively forcing it to print the filename if it happens to match the pattern. However, grep then prints the filename on the same line as the text, and for every match, which is not elegant.
-	ack-grep "$STRING" $f /dev/null  # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.
+	#ack ...
+	#ack-grep --color-lineno=red "$STRING" $f /dev/null  # /dev/null passes 2 file-arguments to ack, forcing it to print the filename if it happens to match the pattern.  The filenames are printed in green above all matches in that file.  The switch --color-lineno is to get rid of the line numbers being printed in yellow, which is illegible on a terminal with a white background (!).
 	# -Cx gives lines of context on either side of the match.
 	#ack-grep '^%eng' $f /dev/null | ack-grep 'eisteddfod' 
-	#ack-grep '^\*[A-Z]' $f /dev/null | ack-grep "$STRING" 
+	#ack-grep '^\*[A-Z]' $f /dev/null | ack-grep "$STRING"
+	# ag ...
+	ag --color-line-number='1;31' "$STRING" $f /dev/null  # silversearcher-ag is a rewrite of ack in C, and is much faster.
+	#ag '^\*[A-Z]' $f | ag --color-line-number='1;31' "$STRING"
+
+
 done
 
 

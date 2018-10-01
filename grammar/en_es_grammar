@@ -230,7 +230,7 @@ select ([cy] "na" adv) if (-1 concessive);  # wel na
 select ([cy] "na" pron.rel.neg) if (1 (v past am));  # dyn na chofies i erioed
 select ([cy] "na" pron.rel.neg) if (1 (v past sm));  
 select ([cy] "na" adv) if (-1 (>>>));  # na.
-select ([cy] "na" adv) if (not *-1(adj.comp)) (1 ([cy] "na" prt.neg) or ([cy] "na" adv));  # na na
+select ([cy] "na" adv) if (not *-1 (adj.comp)) (1 ([cy] "na" prt.neg) or ([cy] "na" adv));  # na na
 select ([cy] "na" adv) if (1 ("<.>") or ("<!>") or ("<?>"));
 select ([cy] "na" prt.neg) if (1 ([cy] "bod" v));  # na oeddwn
 select ([cy] "na" prt.neg) if (1 ([cy] v pres) or ([cy] v past));  # na fedri
@@ -252,10 +252,10 @@ select ([cy] "mi" prt.aff) if (1 inflected);
 remove ([cy] "<mi>" pron 1s) if (not -1 ([cy] "i" prep));  # i mi - better version of above?
 
 select ([cy] "yn" prt) if (1 (infin) or (adj) or (adj.comp) or (adv) or (quan sm) or ("gor" prt));  # yn ddigon, yn or hapus
-select ([cy] "yn" prep) if (1("rhywle"));  # yn rywle
+select ([cy] "yn" prep) if (1 ("rhywle"));  # yn rywle
 # the above has to go here so that the following rule doesn't preclude it
 select ([cy] "yn" prt) if (1 (n sm)) (not 1 language);  # !yn Gymraeg
-select ([cy] "yn" prt) if (1 ("digon")) (2([cy] adj));  # required in light of above?
+select ([cy] "yn" prt) if (1 ("digon")) (2 ([cy] adj));  # required in light of above?
 select ([cy] "yn" prt) if (1 ([cy] adj.poss)) (2 ([cy] v infin));
 select ([cy] "yn" prt) if (1 ([cy] num));  # yn undeg tri
 select ([cy] "yn" prt) if (1 ([in] n) or ([es] n));  # yn job
@@ -356,9 +356,9 @@ select ([cy] "â" prep) if (-1 ("bron" adv)) (1 (v infin));  # bron â gorffen
 
 remove ([cy] "cyn" :as:) if (not -1 ([cy] adj.eq));  
 
-select ([cy] "gan" f 3s) if (1(pron f 3s));  # gynna hi
-select ([cy] "gan" 1p) if (1(pron 1p));  # gynnon ni
-select ([cy] "gan" 3p) if (1(pron 3p));  # gynnon nhw
+select ([cy] "gan" f 3s) if (1 (pron f 3s));  # gynna hi
+select ([cy] "gan" 1p) if (1 (pron 1p));  # gynnon ni
+select ([cy] "gan" 3p) if (1 (pron 3p));  # gynnon nhw
 
 select ([cy] "gan" prep) if (not -1 softprep);  # gan Dean
 
@@ -440,7 +440,7 @@ select ("peth" n) if (1 ([cy] "o" prep));  # deud wrtho beth o'r hanes
 select ("ysgol" :school:) if (-1 ("y" det.def)) (-2 ("yn" prep));
 select ("ysgol" :school:) if (1 ("uwchradd") or ("Cymraeg") or ("dyddiol"));
 
-select ([cy] "dim" n) if (-1 ([cy] prep)) (not 1([cy] "un" num));
+select ([cy] "dim" n) if (-1 ([cy] prep)) (not 1 ([cy] "un" num));
 select ([cy] "dim" n) if (1 ([cy] "o" prep));  # dim o 
 select ([cy] "dim" adv) if (1 ([cy] quan));  # dim rhagor, dim llawer
 select ([cy] "dim" adv) if (1 ([cy] adj.comp));  # dim mwy
@@ -890,7 +890,7 @@ substitute (be.v.3s.pres) (have.v.3s.past) ("<he's>") (1 (av past+p));  # he's g
 
 substitute (av past+p) (v pastpart) ([en] av past+p) (-1 ([en] "have") or ("<he's>") or ("<she's>") or (have.v.3s.past) or preverbal);  # he's got it; it's got; 
 substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] pron.sub) or (name));  # she got; Pepa had
-substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] n)) (1([en] v pastpart));  # the car had been
+substitute (av past+p) (v past) ([en] av past+p) (-1 ([en] n)) (1 ([en] v pastpart));  # the car had been
 
 substitute (pron.sub) (pron.obj) ([en] "it" pron.sub) (-1 ([en] v infin));  # and open it
 substitute (pron.sub) (pron.obj) ([en] "it" pron.sub) (-1 ([en] v) link not 2 ([en] v)) (not 0 (be.v.3s.pres));  # they take it away; !I mean it's ...;
@@ -1120,7 +1120,7 @@ select ("se" [es] pron.refl) if (1 (pron.obl) or (v));  # se me olvidó; se nos 
 select ([es] pron.obj) if (1 ("que" conj));
 select ([es] pron.sub 1s) if (1 ([es] v 1s));  # yo recuerdo;
 
-select ([es] pron) if (1(v));  # cuando uno manda
+select ([es] pron) if (1 (v));  # cuando uno manda
 
 select ("él" [es] pron.obj) if (1 (v));
 select ("otro" pron) if (not 1 (n));
@@ -1160,7 +1160,7 @@ select ("o_gwmpas" adv) if (not 1 ("y" det.def));  # efo pobl o_gwmpas
 # Adjectives
 
 substitute (adj.poss) (pron.poss) ([es] "of_.*"ri adj.poss) (not -1 ([es] n));  # los suyos
-substitute (adj.dem) (pron.dem) ([es] adj.dem) (not 1([es] n)); # un hammock de esos;
+substitute (adj.dem) (pron.dem) ([es] adj.dem) (not 1 ([es] n)); # un hammock de esos;
 
 select ([es] adj m sg) if (-1 ([es] n m sg) or (det.indef));  # un poco
 select ([es] adj) if (1 (n));  # tiene bastante espacio; otro zip code

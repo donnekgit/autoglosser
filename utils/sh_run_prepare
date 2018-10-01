@@ -141,6 +141,9 @@ do
 	# Convert old-style <abcdefg> ["] notation to "abcdefg".
 	#utils/bw_convert-quotations.pl $f
 	
+	# Fix language list in header @ID line
+	#sed -ri "s/@ID:\tcym/@ID:\tcym, eng/" $f
+	
 	# Silence www utterances
 	#php anonymise_audio.php $f
 	#php anonymise_audio_wav.php $f

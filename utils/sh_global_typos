@@ -25,6 +25,7 @@
 
 # This script uses perl to fix all instances of a particular string in all the files in the corpus.  Sed is also a (slightly faster) option, but the drawback is that it's regex implementation is not the standard PCRE one.
 FILES=inputs/siarad/beta/*.cha
+#FILES="inputs/siarad/beta/davies2.cha inputs/siarad/beta/fusser6.cha"
 #FILES=inputs/miami/beta/herring6_tab.cha
 
 # REMEMBER TO ESCAPE & ON THE REPLACEMENT SIDE!!!
@@ -43,9 +44,18 @@ do
 	#sed -i "/\*[A-Z]/s/\([[:blank:]]\)mmhm@s:cym\&spa /\1mmhm /g" $f
 	#sed -i "/\*[A-Z]/s/o hyd/o_hyd/g" $f
 	#sed -i "/\*[A-Z]/s/#/(.)/g" $f
-	sed -ri "/\*[A-Z]/s/na\(g\) \(y\)dy/na(c) (y)dy/g" $f
+	#sed -ri "/\*[A-Z]/s/na\(g\) \(y\)dy/na(c) (y)dy/g" $f
 	#sed -ri "/%gls/s/in range/in_range/g" $f
-
+	#sed -ri "s/trwadd/trwodd/g" $f
+	#sed -ri "s/tax@s:cym\&eng/tax@s:eng/g" $f
+	#sed -i "/\*[A-Z]/s/ <\(r\)wan/<\(r\)wan/g" $f
+	#sed -i 'N;s/\n\t/ /;P;D;' $f  # delete tab inserted mid-line, giving one utterance spread over multiple lines
+	#sed -i "s/uh_huh@s:cym\&eng/uhuh@s:eng/g" $f
+	#sed -i "/%eng/s/\(\t\)J\([ou]\)/\1j\2/g" $f
+	#sed -i "/%eng/s/\(\t\)Z/\1z/g" $f
+	sed -i "s/o'n i/o(eddw)n i/g" $f
+	sed -i "s/oni_bai/onibai/g" $f
+	
 	#Tidying Miami begins
 	#sed -i "s/%en:/%eng:/g" $f
 	#sed -i "s/%eng:[[:blank:]]*/%eng:\o011/g" $f

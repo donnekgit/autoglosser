@@ -23,10 +23,11 @@ If not, see <http://www.gnu.org/licenses/>.
 *********************************************************************
 */ 
 
-// This file collects examples of trigrams.  The filename should be the first argument, and a relevant name for the subset of material should be specified as the second argument, eg php mc.php <patagonia3> <patagonia>.
+// This file collects examples of trigrams.  The filename should be the first argument, and a relevant name for the subset of material should be specified as the second argument, eg php mc_trigram.php <patagonia3> <patagonia>.
 
 $subset=$_SERVER['argv'][2];
-$mctable="mc_".$subset;
+// $mctable="mc_".$subset;
+$mctable="$subset";
 
 if (empty($filename))
 {
@@ -34,12 +35,13 @@ if (empty($filename))
     include("/opt/autoglosser/config.php");
     list($chafile, $filename, $utterances, $words, $cgfinished)=get_filename();
 }
+echo $words."\n";
 
-echo "Determiner+Noun+Adjective\n";
+//echo "Determiner+Noun+Adjective\n";
 
 // Pick out the word-type of interest ...
 //$sql1=query("select * from $words where auto~'\\\.N\\\.' or auto~'\\\.A?SV\\\.' or surface~'.*ing$' order by surface");
-$sql1=query("select * from $words where auto~'DET\\\.(DEF|INDEF)'");
+$sql1=query("select * from $words where auto~'DET\\.(DEF|INDEF)';");
 while ($row1=pg_fetch_object($sql1))
 {
 	$before=$row1->location - 1;
@@ -59,35 +61,35 @@ while ($row1=pg_fetch_object($sql1))
 		}
 	}  
 */
-    $sql2=query("select * from $words where utterance_id=$row1->utterance_id and location=$after");
+    $sql2=query("select * from $words where utterance_id=$row1->utterance_id and location=$after;");
 	while ($row2=pg_fetch_object($sql2))
 	{
 		//if (preg_match("/\.ADJ\.?(?!POSS)/", $row2->auto) or preg_match("/\.A?SV./", $row2->auto) or preg_match("/PRESPART/", $row2->auto) or preg_match("/PASTPART/", $row2->auto) or preg_match("/\.N\./", $row2->auto) or preg_match("/.*ing$/", $row2->surface))
 		//{
 			$surface2=pg_escape_string($row2->surface);
-			$auto2=$row2->auto;
+			$auto2=pg_escape_string($row2->auto);
 			$langid2=$row2->langid;
 			
 			$sql_a1=query("insert into $mctable(filename, utterance_id, location, surface1, surface2, auto1, auto2, langid1, langid2, use) values ('$row1->filename',$row1->utterance_id, $row1->location, '$row1->surface', '$surface2', '$row1->auto', '$auto2', '$row1->langid', '$langid2', '')");
 		//}
 	}
 	
-	$sql4=query("select * from $words where utterance_id=$row1->utterance_id and location=$after2");
-	while ($row4=pg_fetch_object($sql4))
+	$sql3=query("select * from $words where utterance_id=$row1->utterance_id and location=$after2;");
+	while ($row3=pg_fetch_object($sql3))
 	{
 		//if (preg_match("/\.ADJ\.?(?!POSS)/", $row2->auto) or preg_match("/\.A?SV./", $row2->auto) or preg_match("/PRESPART/", $row2->auto) or preg_match("/PASTPART/", $row2->auto) or preg_match("/\.N\./", $row2->auto) or preg_match("/.*ing$/", $row2->surface))
 		//{
-			$surface4=pg_escape_string($row4->surface);
-			$auto4=$row4->auto;
-			$langid4=$row4->langid;
+			$surface3=pg_escape_string($row3->surface);
+			$auto3=pg_escape_string($row3->auto);
+			$langid3=$row3->langid;
 			
-			$sql_a2=query("update $mctable set surface3='$surface4', auto3='$auto4', langid3='$langid4' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location");
+			$sql_a2=query("update $mctable set surface3='$surface3', auto3='$auto3', langid3='$langid3' where filename='$row1->filename' and utterance_id=$row1->utterance_id and location=$row1->location;");
 		//}
 	}
 
-	echo $row1->filename." - ".$row1->utterance_id.",".$row1->location.": ".$row1->surface." + ". $surface2." + ". $surface4."\n";
+	echo $row1->filename." - ".$row1->utterance_id.",".$row1->location.": ".$row1->surface." + ". $surface2." + ". $surface3."\n";
 	
-	unset($surface2, $auto2, $langid2, $surface4, $auto4, $langid4);
+	unset($surface2, $auto2, $langid2, $surface3, $auto3, $langid3);
 
 }
 

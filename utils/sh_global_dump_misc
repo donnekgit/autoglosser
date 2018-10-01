@@ -27,7 +27,7 @@
 # The --clean option means that the file will include SQL commands to drop the old table.
 # Use sh_global_update_corpus to import these compressed dumps back into a database.
 
-GZDIR=dbdevel/misc_dump  # Specify the dump dir.
+GZDIR=dbdevel/mc_dump  # Specify the dump dir.
 
 # pg_dump -t combiwords_mi --clean autoglosser | gzip > $GZDIR/combiwords_mi.sql.gz
 # pg_dump -t combiwords_pat --clean autoglosser | gzip > $GZDIR/combiwords_pat.sql.gz
@@ -38,9 +38,35 @@ GZDIR=dbdevel/misc_dump  # Specify the dump dir.
 # pg_dump -t freq_miami --clean autoglosser | gzip > $GZDIR/freq_miami.sql.gz
 # pg_dump -t freq_patagonia --clean autoglosser | gzip > $GZDIR/freq_patagonia.sql.gz
 # pg_dump -t freq_siarad --clean autoglosser | gzip > $GZDIR/freq_siarad.sql.gz
-pg_dump -t patagonia_sp --clean autoglosser | gzip > $GZDIR/patagonia_sp.sql.gz
-pg_dump -t miami_sp --clean autoglosser | gzip > $GZDIR/miami_sp.sql.gz
-pg_dump -t siarad_sp --clean autoglosser | gzip > $GZDIR/siarad_sp.sql.gz
+# pg_dump -t patagonia_sp --clean autoglosser | gzip > $GZDIR/patagonia_sp.sql.gz
+# pg_dump -t miami_sp --clean autoglosser | gzip > $GZDIR/miami_sp.sql.gz
+# pg_dump -t siarad_sp --clean autoglosser | gzip > $GZDIR/siarad_sp.sql.gz
 # pg_dump -t cylist --clean autoglosser | gzip > $GZDIR/cylist.sql.gz
 # pg_dump -t eslist --clean autoglosser | gzip > $GZDIR/eslist.sql.gz
 # pg_dump -t enlist --clean autoglosser | gzip > $GZDIR/enlist.sql.gz
+
+pg_dump -t mc_miami_dn_english_def --clean autoglosser | gzip > $GZDIR/mc_miami_dn_english_def.sql.gz
+pg_dump -t mc_miami_dn_spanish_def --clean autoglosser | gzip > $GZDIR/mc_miami_dn_spanish_def.sql.gz
+pg_dump -t mc_miami_dn_english_indef --clean autoglosser | gzip > $GZDIR/mc_miami_dn_english_indef.sql.gz
+pg_dump -t mc_miami_dn_spanish_indef --clean autoglosser | gzip > $GZDIR/mc_miami_dn_spanish_indef.sql.gz
+pg_dump -t mc_miami_dn_semixed_def --clean autoglosser | gzip > $GZDIR/mc_miami_dn_semixed_def.sql.gz
+pg_dump -t mc_miami_dn_esmixed_def --clean autoglosser | gzip > $GZDIR/mc_miami_dn_esmixed_def.sql.gz
+pg_dump -t mc_miami_dn_esmixed_indef --clean autoglosser | gzip > $GZDIR/mc_miami_dn_esmixed_indef.sql.gz
+pg_dump -t mc_miami_dn_semixed_indef --clean autoglosser | gzip > $GZDIR/mc_miami_dn_semixed_indef.sql.gz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

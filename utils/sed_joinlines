@@ -24,7 +24,7 @@
 #*/ 
 
 # This script converts the CLAN line-ends to spaces - it will ensure that  each utterance is on one line without breaks
-# It also fixes some broken characters, and fixes errors like having no space between the last character of an untterance and the period.
+# It also fixes some broken characters, and fixes errors like having no space between the last character of an utterance and the period.
 # Run as: sed_joinlines /path/to/file.cha
 chafile=$1  # the argument to the script; = the full path to the file - path/to/file.cha
 #echo $chafile

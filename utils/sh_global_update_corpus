@@ -35,9 +35,11 @@
 #		\q
 
 export PGPASSWORD="kevindbs"
-psql="psql -h localhost -U kevin -d cig1"
+psql="psql -h localhost -U kevin -d miami"
 
-FILES=dbdevel/cig1_dump/*_cgutterances.sql.gz
+#FILES=dbdevel/miami_dump/*_cgwords.sql.gz
+FILES=dbdevel/mc_dump/*.sql.gz
+
 for f in $FILES
 do
         echo "Processing $f ..."
